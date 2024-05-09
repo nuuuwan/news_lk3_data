@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 13:03:39**
+As of **2024-05-09 13:18:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,910 (99.9%) of 22,923 articles have been extended.
+22,923 (100.0%) of 22,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The copies of the order were also forwarded to the office of the Controller Gene
 ◼️
 
 [Data](articles/4eb391e8.json)
+
+[Extended Data](ext_articles/4eb391e8.ext.json)
 
 ---
 
@@ -88,21 +90,29 @@ The statement further disclosed that these recruits are being assigned to frontl
 
 [Data](articles/c827edc5.json)
 
+[Extended Data](ext_articles/c827edc5.ext.json)
+
 ---
 
-### ඩයනාට රටින් පිටවීම තහනම්
+### Diana is prohibited to leave the country
 
 *2024-05-09 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196431) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට විදේශගත වීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තහනම් නියෝගයක් නිකුත් කළේය.
+Diana is banned from leaving the country. The Colombo Magistrate's Court issued this order on 09/09, following a request by her lawyers. The order is to be referred to the Immigration and Emigration Controller and the National Intelligence Director.
 
-අගතියට පත් පාර්ශවයේ නීතිඥවරු විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා එම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-එම නියෝගය පිටපත් ආගමන හා විගමන පාලකවරයා සහ ජාතික බුද්ධි අධ්‍යක්ෂ කාර්යාලයට යොමු කරන ලෙසත් නියෝග කෙරුණි.
+The Colombo Magistrate's Court today (09) issued a banned order today (09).
+
+Colombo Chief Magistrate Thilina Gamage issued the order after considering a request made by the lawyers of the aggrieved party.
+
+The order was ordered to be referred to the Controller of Immigration and Emigration to the National Intelligence Director.
 
 ◼️
 
 [Data](articles/54079602.json)
+
+[Extended Data](ext_articles/54079602.ext.json)
 
 ---
 
@@ -122,21 +132,29 @@ However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Ma
 
 [Data](articles/695fe9c8.json)
 
+[Extended Data](ext_articles/695fe9c8.ext.json)
+
 ---
 
-### රාජ්‍ය සේවක වැටුප ගැන ජනපතිගෙන් හෙළිදරව්වක්
+### President reveals of public worker salary
 
 *2024-05-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196430) · `si`
 
-වැටුප් වැඩිකිරීම සඳහා විවිධ ඉල්ලීම් ලැබුණ ද ඒ පිළිබඳව 2024දී කටයුතු කිරීමට තරම් රාජ්‍ය ආදායම වර්ධනය වී නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced in Parliament that the government's revenue has not increased enough for 2024 to support public sector wage revisions. He emphasized the need for economic stability and recovery, highlighting the IMF program's positive impacts since September 2022. The President stressed the importance of increasing public income and avoiding economic crises, hinting at potential wage adjustments in 2024 based on economic growth and revenue increases.
 
-මෙරට ආර්ථිකය සම්බන්ධයෙන් අද උදෑසන (09) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් ජනාධිපතිවරයා ඒ බව පැවසීය.
+🟩
 
-එහිදී ඔහු පැවසුවේ 2024 ආර්ථිකය වර්ධනය වන ස්වරූපය මෙන්ම රාජ්‍ය ආදායම් වැඩිවන ආකාරය පදනම් කරගෙන රාජ්‍ය අංශයේ වැටුප් පිළිබඳව යළි සලකා බැලීමක් කළ හැක්කේ ලබන වසරේදී  බවයි.
+President Ranil Wickremesinghe says that the government revenue has not been increased to 2024 to work in 2024.
+
+The President made this statement in Parliament this morning with regard to the economy of the country.
+
+He said that the year 2024 is a re-examining public sector wages based on the growing form as well as state revenue.
 
 ...
 
 [Data](articles/ddaf9645.json)
+
+[Extended Data](ext_articles/ddaf9645.ext.json)
 
 ---
 
@@ -156,79 +174,113 @@ Minister Amaraweera said that the spending of the USD 25 million allocated for t
 
 [Data](articles/f7534e46.json)
 
+[Extended Data](ext_articles/f7534e46.ext.json)
+
 ---
 
-### சவூதி தூதுவர் வடமேல் மாகாண ஆளுநரின் அழைப்பின் பேரில் ஏறாவூர் விஜயம்
+### Saudi Ambassador visited Eravur at the invitation of the Governor of the North Western Province
 
 *2024-05-09 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183044) · `ta`
 
-மட்டக்களப்பு ஏறாவூரில்   இயங்கிவரும் அல் குர்ஆன் மனனமிடும் குல்லிய்யது தாரில் உலூம் அறபுக் கல்லூரிக்கு வடமேல் மாகாண ஆளுநர் ஹாபிஸ் நஸீர் அஹமட்டின் அழைப்பின்பேரில்   இலங்கைக்கான சவூதி அரேபிய தூதுவர்  காலித் ஹமூத் நாசர் அல்-தாசம்  அல்- கஹ்தானி நேற்று விஜயம் செய்தார்.
+Saudi Ambassador Khalid Hamood Nasser al-Dasam al-Kahdani, invited by North Western Province Governor Hafiz Nasir Ahmad, visited the Ulum Charity College in Eravur, Batticaloa. He welcomed Habibi students who had memorized the Quran.
 
-இதன்போது குர்ஆனை மனனம் செய்யும் ஹாபிழ் மாணவர்கள் இன்முகத்துடன் இலங்கைக்கான சவூதி தூதுவரை வரவேற்றனர்.
+🟩
+
+Saudi Arabian Ambassador to Sri Lanka Khalid Hamood Nasser al-Dasam al-Kahdani visited the invitation of North Western Province Governor Hafiz Nasir Ahmad at the Ulum Charity College of Gulliyyadu Taril, who is operating in Eravur, Batticaloa.
+
+Habibi students who memorized the Quran were welcomed by the Saudi Ambassador to Sri Lanka.
 
 ◼️
 
 [Data](articles/35e90488.json)
 
+[Extended Data](ext_articles/35e90488.ext.json)
+
 ---
 
-### චිනයම වසඟයට ගත් මල් විකුණන ළමයා ගැන පාලකයන්ගේ අවධානයක් නෑ
+### There is no attention to the kid of the child who shared the floral flowers
 
 *2024-05-09 12:02:21* · [`adalk`](https://www.ada.lk/breaking_news/චිනයම-වසඟයට-ගත්-මල්-විකුණන-ළමයා-ගැන-පාලකයන්ගේ-අවධානයක්-නෑ/11-409517) · `si`
 
-සංචාරක කර්මානතය ප්‍රවර්ධනයට ලෝකයේම අවධානය යොමු කල මල් විකුණන ළමයා ගැන සංචාරක ඇමතිවරයාගේ හෝ පාලකයින්ගේ කිසිදු අවධානයක් යොමු වි නොමැති බව හිටපු පා.ම සුනිල් හදුන්නෙත්ති මහතා පැවසිය.
+The text discusses a child who gained attention for his videos showcasing his focus on promoting Sri Lanka's floral tourism, yet the government, including the Minister of Traveling, has not acknowledged or supported him. The child's efforts to highlight Sri Lanka's tourism potential, particularly through his videos of tigers in China, have gone unnoticed by the government and the public. The narrative questions the government's lack of interest in supporting such initiatives, highlighting a disconnect between the government and the people, especially the younger generation.
 
-සුනිල් හදුන්නෙත්ති මහතා ඒ බැව් කියා සිටියේ බිදවැටුණු මව්බිම ගොඩනගන විසදුම යන මැයෙන් ඊයේ (08දා)  පස්වරුවේ හැටන් කොටගල නගරයේ පැවති සාකච්ඡා සභාව අමතමිණි.
+🟩
 
-"නුවරඑලිය රම්බොඩ මාර්ගයේ මල් විකුණන ළමයෙක් ගැන කතා වෙනවා, ඒ ළමයගේ විඩියෝව චීනයේ කොටි 13 කට අධික පිරිසක් නරඹලා තියෙනවා, ඒ නිසා දැන් විදේශිය සංචාරකයන් එනවා නුවරඑලියට මල් විකුණන ළමයි බලන්න.
+The Minister of Traveling or the rulers have not paid any attention to the child who has focused on the most focused flowers in the world to promote tourists.
 
-නුවරඑලිය රම්බොඩ පැති වල මීට කලින් මල් විකුණන ළමයි හිටියේ නැද්ද ? අහඹු සිදුවිමක් විදිහට ඒ ළමයගේ විඩියෝව ප්‍රසිද්ධ වෙලා ශ්‍රි ලංකාවේ සංචාරක කර්මාන්තය ගැන සියළු දෙනා කතා වෙනවා.
+Mr. Sunil Handunneththi was addressing the Congregation in Hatton yesterday (8) afternoon.
 
-හැබැයි මේ ළමයා ගැන සංචාරක ඇමතිවරයා මොනවා හරි කතා වෙනවා දැක්කද? හරින් ප්‍රනාන්දු හෝ ආණ්ඩුවේ කවුරු හරි කතා වෙනවා?
+"The kid's videos have been speaking about a child of the kid's Vidyalayana, so that the kid's video has been watching over 13 tigers in China.
 
-මම මේක කිව්වට පස්සේ දැන් ඉතින් රනිල්ගේ වේදිකාවේ මල් විකුණන ළමයා කියලා උස්සන් ගිහින් පෙන්වයිද දන්නේ නැ.
+Haven't the kids selling flowers formerly sold in the Ramboda, Nuwara Eliya?The kid's videos are known and discussing Sri Lanka's tourism industry as a random event.
 
-ලංකාව උඩට අරන් ආපු , සංචාරක කර්මාන්තය උඩරට අරනු ආව ළමයා ගැන ආණ්ඩුවේ කිසිවෙක් කතා වෙන්නේ නැ.
+But did the traveling minister talk about this boy?Harin Fernando or anyone in the government talks?
+
+After I say this, you do not know if the child is shown that Ranil's platform is the boy of Ranil's platform.
+
+No one in the government talks about the child who arrived on top of Sri Lanka and arriving in the country of the country.
+
+Brother Lal Kantha, our party's word mistakes are mistaken about Diana, the party is acting.
 
 ...
 
 [Data](articles/6b3cfdc0.json)
 
+[Extended Data](ext_articles/6b3cfdc0.ext.json)
+
 ---
 
-### இலங்கையை சேர்ந்த 200க்கும் அதிகமான முன்னாள் படைவீரர்கள் ரஸ்ய உக்ரைன் போர்முனையில் உயிரிழந்துள்ளனர் - முன்னாள் படைவீரர் தகவல்
+### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
 
 *2024-05-09 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
 
-பலகுழுக்களால் இலங்கையிலிருந்து வெளிநாட்டு வேலைக்காக சேர்க்கப்பட்ட நூற்றுக்கணக்கான முன்னாள் படைவீரர்கள் ரஸ்ய எல்லையில் உள்ள  கொலைகளங்களில் உயிரிழக்கின்றனர் என அங்கிருந்து தப்பிய  முன்னாள் படைவீரர் ஒருவர் தெரிவித்துள்ளார்.
+Over 200 Sri Lankan soldiers died in the Russian-Ukraine conflict, with hundreds more injured. A former soldier revealed that these men, recruited for foreign work, were killed on the Russian border. The conflict involved former officials and was orchestrated by an Indian citizen, Rames, with a Tamil-speaking accomplice in Russia. An Indian woman, resembling a lawyer, suggested that Sri Lankans should sign Russian documents to join the Wagner mercenary group.
 
-தொலைக்காட்சியொன்றின் பேட்டியில் கருத்து தெரிவித்துள்ள அவர் இலங்கையை சேர்ந்த 200க்கும் மேற்பட்ட முன்னாள் படைவீரர்கள் உயிரிழந்துள்ளனர் இதே எண்ணிக்கையிலானவர்கள் டொனெட்ஸ்க் போன்ற பிராந்தியங்களில் உள்ள மருத்துவமனைகளில் சிகிச்சைபெற்றுவருகின்றனர் எனவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஓய்வுபெற்ற முன்னாள் அதிகாரிகளே என்னை ரஸ்ய உக்ரைன் போர்முனையில் பணியாற்ற தெரிவு செய்தனர் அதற்காக 1.6 மில்லியன் செலுத்தினேன் முகாமில் உதவியாளராக பணியாற்றும் வேலை என தெரிவித்தனர் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+A former soldier who fled the scene said hundreds of former soldiers who had been recruited from Sri Lanka for foreign work were killed in the murders on the Russian border.
 
-இந்திய பிரஜையான ரமேஸ் என்பவரே இந்த நடவடிக்கைகளின் சூத்திரதாரி என தெரிவித்துள்ள அவர் ரஸ்யாவில் தமிழில் பேசிய ஒருவர் எங்களை வரவேற்றார் எனவும் குறிப்பிட்டுள்ளார்.
+In an interview with a television, he said that more than 200 former soldiers from Sri Lanka have died and the same number are being treated in hospitals like Donetsk.
 
-...
+He also said that the former retired former officials chose me to work at the Russian Ukraine battlefield.
+
+The Indian citizen Rames is the mastermind of the activities and said that a person who spoke in Tamil in Russia greeted us.
+
+An Indian woman who looked like a Attorney -at -Lawyer who said that Sri Lankans going to tourists should be signed in a Russian language document to be included in the Wagner mercenary for the recruitment of the Wagner mercenary.
+
+He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 days.
+
+◼️
 
 [Data](articles/36f33d98.json)
 
+[Extended Data](ext_articles/36f33d98.ext.json)
+
 ---
 
-### கடலில் வெப்ப அலைகள் அதிகரிப்பு : இலங்கை கடற்பரப்பில் பவளப்பாறைகள் அழியும் அபாயம்
+### Increase in heat waves in the sea: Risk of destruction of coral reefs
 
 *2024-05-09 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183031) · `ta`
 
-தற்போது அதிகரித்துள்ள கடல் வெப்பநிலை மேலும் ஒரு மாத காலம் நீடித்தால் இலங்கையைச் சுற்றியுள்ள கடலில் உள்ள பவளப்பாறைகள் அழியும் அபாயம் ஏற்படும் என சமுத்திவிரவியல் விஞ்ஞானி தெரிவித்துள்ளார்.
+Rising sea temperatures pose a significant threat to coral reefs, with potential destruction in Sri Lanka and the Gulf of Lakshadweep and Mannar. A month of elevated temperatures could lead to coral bleaching and loss, impacting marine life.
 
-இலட்சத்தீவு கடல்  மற்றும் மன்னார் வளைகுடா பகுதிகளில் பவளப் பாறைகள் அழியும் அபாயகரமான சூழல் பதிவாகியுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
 
-இது தொடர்பாக தேசிய நீர்வள ஆராய்ச்சி மேம்பாட்டு முகாமைத்துவத்திற்கு (நாரா) புதிதாக நியமிக்கப்பட்டுள்ள பணிப்பாளர் நாயகம் சமுத்திவிரவியல் விஞ்ஞானியான கலாநிதி.கே.அருளானந்தன் ஆங்கில ஊடகமொன்றுக்கு கருத்து தெரிவிக்கையில்,
+If the current increased sea temperature lasts a month, there will be a risk of destruction of coral reefs around Sri Lanka, said the octave scientist.
 
-கடலில் வெப்பநிலை 31 டிகிரி செல்சியஸாக அதிகரித்து இரண்டு வாரங்கள் நீடித்துள்ளது. நாட்டிலுள்ள பவளப்பாறைகளின் நிலை குறித்து நாரா எந்த ஆய்வும் மேற்கொள்ளவில்லை, ஆனால் பவளப்பாறைகள் நிறத்தை இழந்து அழிவடையும் என்பதை நிராகரிக்க முடியாது.
+Indian media reports that the destruction of coral reefs in the Gulf of Lakshadweep and the Gulf of Mannar has been reported.
+
+In this regard, the newly appointed Director General of the National Water Research Research Development Management (NARA)
+
+Temperature in the sea increased to 31 degrees Celsius and lasted two weeks. Nara has not conducted any study on the state of coral reefs in the country, but it cannot be rejected that coral reefs will lose color.
+
+The temperature of the sea to form coral reefs should be fluctuating up to 27-28 degrees Celsius. He pointed out that if the current increased temperature lasts a month or more, coral reefs are expected to be destroyed.
 
 ...
 
 [Data](articles/75967d76.json)
+
+[Extended Data](ext_articles/75967d76.ext.json)
 
 ---
 
@@ -392,21 +444,27 @@ He made a statement to the Criminal Investigation Department regarding the quest
 
 ---
 
-### ரஃபாவில்  பொதுமக்கள் வசிக்கும் பகுதிகள் மீது தாக்குதலை மேற்கொண்டால் இஸ்ரேலிற்கான ஆயுதங்கள் சிலவற்றை வழங்குவதை நிறுத்துவோம் - பைடன் எச்சரிக்கை
+### If we attack public areas in Rafa, we will stop offering some weapons for Israel
 
 *2024-05-09 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183038) · `ta`
 
-இஸ்ரேல்  காசா நகரமான ரஃபாமீது பாரிய தாக்குதலை மேற்கொண்டால்  இஸ்ரேலிற்கு சில ஆயுதங்களை வழங்குவதை நிறுத்துவோம்  எனஅமெரிக்க ஜனாதிபதி ஜோபைடன் எச்சரித்துள்ளார்.
+US President Jobiton warns that a massive attack on Israeli Gaza, Rafamit, could lead to the cessation of some weapon supplies to Israel. Faidan states, "If they enter Rafamit, I am not ready to provide some weapons used in Rafamit." The US does not claim the landing in Rafamit, but Israeli soldiers have not yet entered the civilian population. The President has made it clear to the Israeli Prime Minister that support for Israeli soldiers in populated areas will not be provided.
 
-அவர்கள்ரஃபாவிற்குள் நுழைந்தால் நான் ரஃபா விடயத்தில் வரலாற்றுரீதியாக பயன்படுத்தப்படும் சில ஆயுதங்களை வழங்க தயாரில்லை என பைடன் தெரிவித்துள்ளார்.
+🟩
 
-தற்போது ரபாவில் காணப்படும் நிலையை  தரைநடவடிக்கை என அமெரிக்கா தெரிவிக்காது இஸ்ரேலிய படையினர் இன்னமும் பொதுமக்கள் வசிக்கும் பகுதிகளிற்குள் செல்லவில்லை என  தெரிவித்துள்ள பைடன் இஸ்ரேலிய படையினர் எல்லையில்தான் உள்ளனர் எனவும் குறிப்பிட்டுள்ளார்.
+US President Jobiton has warned that if a massive attack on Israeli Gaza, Rafamit, we will stop providing some weapons to Israel.
 
-ஆனால் மக்கள் வசிக்கும் பகுதிகளுக்குள் இஸ்ரேலிய படையினர் நுழைந்தால் நாங்கள் ஆதரிக்கமாட்டோம் என இஸ்ரேலிய பிரதமருக்கு தெளிவாக தெரிவித்துள்ளேன் எனவும் பைடன் குறிப்பிட்டுள்ளார்.
+If they enterrafa, I am not ready to provide some weapons used in Rafa, ”said Faidan.
+
+The United States does not claim the landing in Rabba, but the Israeli soldiers have not yet gone into the civilian population.
+
+But I have made it clear to the Israeli Prime Minister that we will not support the Israeli soldiers in the area where people live.
 
 ◼️
 
 [Data](articles/77c08abd.json)
+
+[Extended Data](ext_articles/77c08abd.ext.json)
 
 ---
 
@@ -495,6 +553,8 @@ ECONOMYNEXT – Sri Lanka has seen good results under the International Monetary
 ...
 
 [Data](articles/ef9a5d2e.json)
+
+[Extended Data](ext_articles/ef9a5d2e.ext.json)
 
 ---
 
@@ -2179,6 +2239,8 @@ Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom i
 ...
 
 [Data](articles/1277c78d.json)
+
+[Extended Data](ext_articles/1277c78d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 07:11:21**
+As of **2024-05-09 07:34:55**
 
 ## Newspaper Stats
 
-*Scraped **22,838** Articles*
+*Scraped **22,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 201
 bbccomsinhala | 238
 dbsjeyarajcom | 239
 newsfirstlk | 363
-islandlk | 1,232
+islandlk | 1,242
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
-tamilmirrorlk | 2,671
+tamilmirrorlk | 2,672
 adaderanalk | 2,678
 virakesarilk | 3,398
 dailymirrorlk | 3,589
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,652
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,831 (100.0%) of 22,838 articles have been extended.
+22,838 (100.0%) of 22,849 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Also, he said Former State Minister Diana Gamage has not signed nomination paper
 
 [Data](articles/d04aa5eb.json)
 
+[Extended Data](ext_articles/d04aa5eb.ext.json)
+
 ---
 
 ### Govt’s pre-poll development drive met with stiff resistance from Election Commission
@@ -61,6 +63,8 @@ The EC looked into a complaint from the People’s Action for Free and Fair Elec
 ...
 
 [Data](articles/13b083f4.json)
+
+[Extended Data](ext_articles/13b083f4.ext.json)
 
 ---
 
@@ -105,6 +109,8 @@ They are concerned since they may have to give up their MP posts,” he added.
 ...
 
 [Data](articles/9a4cded3.json)
+
+[Extended Data](ext_articles/9a4cded3.ext.json)
 
 ---
 
@@ -448,6 +454,22 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
+### ’பெரும் சுதந்திரம் கிடைத்ததை போன்றது’
+
+*2024-05-09 01:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-சுதந்திரம்-கிடைத்ததை-போன்றது/175-337003) · `ta`
+
+டயனா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி இல்லாமல் போனமை பாராளுமன்றத்திற்கும் சபாநாயகருக்கும் பெரும் சுதந்திரம் கிடைத்ததை போன்றது என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் நளீன் பண்டார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (08) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார். அதன்போது அவர் மேலும் கூறுகையில்,
+
+பாராளுமன்ற உறுப்பினராக இருந்த டயனா கமகே தொடர்பான இரட்டைக் குடியுரிமை தொடர்பான வழக்கில் உயர் நீதிமன்றத்தினால் முக்கிய தீர்ப்பு வழங்கப்பட்டுள்ளது. இதன்படி அவர் இன்று முதல் பாராளுமன்ற உறுப்பினர் அல்ல. இதன்மூலம் இந்த பாராளுமன்றத்திற்கு பெரும் சுதந்திரம் கிடைத்துள்ளது என்பதுடன், சபாநாயருக்கும் பெரும் சுதந்திரம் கிடைத்துள்ளது என்பதனை கூறுகின்றோம் என்றார்.
+
+◼️
+
+[Data](articles/a8de3b34.json)
+
+---
+
 ### The bud is open today
 
 *2024-05-09 01:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-இன்று-திறப்பு/175-337002) · `ta`
@@ -487,6 +509,8 @@ Wickremesinghe was addressing the inaugural session of the Sri Lanka Climate Sum
 ...
 
 [Data](articles/3ed909a2.json)
+
+[Extended Data](ext_articles/3ed909a2.ext.json)
 
 ---
 
@@ -687,6 +711,8 @@ Through this press conference, we urge the government to look at a complete digi
 ...
 
 [Data](articles/381b3ab9.json)
+
+[Extended Data](ext_articles/381b3ab9.ext.json)
 
 ---
 
@@ -1056,6 +1082,50 @@ The Criminal Investigation Department is further investigations into the investi
 
 ---
 
+### Unilever Sri Lanka and Ministry of Agriculture & Plantation Industries sign MOU on sustainable tea production
+
+*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-and-ministry-of-agriculture-plantation-industries-sign-mou-on-sustainable-tea-production/) · `en`
+
+Ministry of Agriculture and Plantation Industries and Unilever Sri Lanka recently entered into a Memorandum of Understanding (MoU) to develop the country’s first national and globally accepted standard for sustainable tea production. This first-of-its-kind initiative signifies a shared commitment to propel the Sri Lankan tea industry towards a more sustainable and ethical future.
+
+The MoU signing ceremony was graced by Honourable Mahinda Amaraweera, Minister of Agriculture and Plantation Industries, Mr. B. L. A. J. Dharmakeerthi, Secretary, the Ministry of Agriculture and Plantation Industries, Chairman & Representatives of Sri Lanka Tea Board and other tea industry dignitaries.
+
+Unilever Sri Lanka’s ‘Ceytea’ factory is the largest supplier of black tea extract to the Global Pepsi-Lipton JV and its world-famous Iced Tea brands ‘Lipton’ and ‘Brisk’. The manufacturing site in ‘Agarapathana’ has been at the center stage of innovation and sustainability in value-added tea.
+
+...
+
+[Data](articles/06d6dc86.json)
+
+---
+
+### Thakral Group presents “The Future of Possible”: showcasing DJI’s technological innovation in Sri Lanka
+
+*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/thakral-group-presents-the-future-of-possible-showcasing-djis-technological-innovation-in-sri-lanka/) · `en`
+
+On April 30th, the Kingsbury Hotel in Colombo was abuzz with excitement as Thakral Group, the authorized distributor of DJI in Sri Lanka, unveiled “The Future of Possible.” This exclusive event was a testament to the relentless pursuit of innovation and progress in the country.
+
+The event offered attendees an immersive experience into DJI’s latest offerings., spanning consumer electronics, enterprise solutions, agricultural technology, and delivery systems. From high-performance drones to specialized solutions tailored for diverse industries, DJI left a lasting impression on all who experienced their cutting-edge offerings.
+
+...
+
+[Data](articles/259581fa.json)
+
+---
+
+### CIPM Gold Medals and scholarships for top performers at Horizon and SLIIT
+
+*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/cipm-gold-medals-and-scholarships-for-top-performers-at-horizon-and-sliit/) · `en`
+
+CIPM Sri Lanka—the Nation’s leader in human resource management—awarded gold medals and scholarships to the top-performing students at the Horizon Campus and SLIIT at their annual convocations per the Memorandum of Understanding terms with each respective institution.
+
+“CIPM Sri Lanka has forged significant partnerships with esteemed institutions of higher learning, including Horizon Campus and SLIIT. These collaborations aim to inspire students specializing in HRM/HCM to excel in the field of human resource management, one of the world’s fastest-growing management careers. As we celebrate the achievements of the gold medal and scholarship recipients, we reaffirm our commitment to promoting HRM as a lucrative and fulfilling career choice for our youth,” stated Ken Vijayakumar, President of CIPM Sri Lanka.
+
+...
+
+[Data](articles/691bc1d4.json)
+
+---
+
 ### Millions of women in Galle bans the assets
 
 *2024-05-08 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196409) · `si`
@@ -1079,6 +1149,22 @@ Police states that the judicial measures are to be taken regarding the property 
 [Data](articles/c51bed77.json)
 
 [Extended Data](ext_articles/c51bed77.ext.json)
+
+---
+
+### CSE in initial surge as Browns Investments buys some overseas Lipton Plantations
+
+*2024-05-08 20:47:00* · [`islandlk`](http://island.lk/cse-in-initial-surge-as-browns-investments-buys-some-overseas-lipton-plantations/) · `en`
+
+The stock market kicked off on a positive note yesterday after an announcement that Browns Investments had signed an agreement with Ekaterra Holdco, a UK company, to purchase Lipton plantations in Kenya, Tanzania and Rwanda this year.
+
+Due to that, LOLC Group shares moved up significantly but later profit- takings were noted when it was realized that those plantation companies are underperforming entities, market analysts said.
+
+Further profit takings were also noted in Banking sector counters as well. Both indices showed mixed reactions. All Share Price Index was down by 22.25 points while the S and P SL20 was up by 4.8 points. Turnover stood at Rs 2.25 billion with five crossings.
+
+...
+
+[Data](articles/50f5a70d.json)
 
 ---
 
@@ -2135,121 +2221,5 @@ It is also worth noting that in other countries that use the vaccine, similar va
 [Data](articles/bfdbe369.json)
 
 [Extended Data](ext_articles/bfdbe369.ext.json)
-
----
-
-### AstraZeneca says it will withdraw COVID-19 vaccine globally
-
-*2024-05-08 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AstraZeneca-says-it-will-withdraw-COVID-19-vaccine-globally/108-282175) · `en`
-
-May 7 (Reuters) - AstraZeneca (AZN.L), opens new tab said on Tuesday it had initiated the worldwide withdrawal of its COVID-19 vaccine due to a "surplus of available updated vaccines" since the pandemic.
-
-The company also said it would proceed to withdraw the vaccine Vaxzevria's marketing authorizations within Europe.
-
-"As multiple, variant COVID-19 vaccines have since been developed there is a surplus of available updated vaccines," the company said, adding that this had led to a decline in demand for Vaxzevria, which is no longer being manufactured or supplied.
-
-According to media, opens new tab reports, the Anglo-Swedish drugmaker has previously admitted in court documents that the vaccine causes side-effects such as blood clots and low blood platelet counts.
-
-The firm's application to withdraw the vaccine was made on March 5 and came into effect on May 7, according to the Telegraph, which first reported the development.
-
-...
-
-[Data](articles/51574674.json)
-
-[Extended Data](ext_articles/51574674.ext.json)
-
----
-
-### Injunction preventing removal of Amaraweera and others from SLFP posts extended
-
-*2024-05-08 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99081/injunction-preventing-removal-of-amaraweera-and-others-from-slfp-posts-extended) · `en`
-
-The court order issued preventing the Executive Committee of the Sri Lanka Freedom Party (SLFP) from removing party members Mahinda Amaraweera, Duminda Dissanayake, and Lasantha Alagiyawanna from their respective positions has been extended.
-
-Accordingly, the interim injunction will be in effect until 15 May on the orders of the Colombo District Court.
-
-The attorneys who appeared for the respondents before the court, requested for permission to file objections regarding the relevant plaint.
-
-Thus, the court, which allowed the respondents’ party to file objections related to the plaint, ordered the petition to be recalled on May 15, 2024.
-
-A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaint, which have sought an order declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
-
-...
-
-[Data](articles/edac2057.json)
-
-[Extended Data](ext_articles/edac2057.ext.json)
-
----
-
-### Ukraine says it foiled Russian plot to assassinate President Zelenskyy
-
-*2024-05-08 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99080/ukraine-says-it-foiled-russian-plot-to-assassinate-president-zelenskyy) · `en`
-
-(AP) — Ukrainian counterintelligence investigators have foiled a Russian plot to assassinate President Volodymyr Zelenskyy and other top military and political figures, Ukraine’s state security service said Tuesday.
-
-Two colonels in the State Guard of Ukraine, which protects top officials, were detained on suspicion of enacting the plan drawn up by Russia’s Federal Security Service, or FSB, a statement said. The colonels were recruited before Russia’s full-scale invasion of Ukraine in February 2022, according to the statement.
-
-It quoted the head of the State Security Service, Vasyl Maliuk, as saying the plot foresaw an attack before Russian President Vladimir Putin’s inauguration for a fifth term on Tuesday. Maliuk said that he personally oversaw the top-secret operation to track the plot.
-
-...
-
-[Data](articles/0964d30b.json)
-
-[Extended Data](ext_articles/0964d30b.ext.json)
-
----
-
-### No airline in the world is profitable
-
-*2024-05-08 14:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-எந்த-விமான-நிறுவனமும்-லாபம்-ஈட்டவில்லை/175-336969) · `ta`
-
-Civil Aviation Minister Nimal Siripala de Silva stated that no airline globally is profitable, highlighting the financial struggles of airlines like Air India, POAC, and Swiss Airlines. He mentioned the sale of Air India to Tata and the annual payments to Emirates, emphasizing Sri Lanka's challenges in maintaining airlines due to lack of funds. Despite recruiting 791 employees in 2023, SriLankan Airlines incurred a loss of Rs 609 billion.
-
-🟩
-
-Civil Aviation Minister Nimal Siripala de Silva said today that no airline in the world has profit, which is a natural situation for all airlines.
-
-He told parliament that airlines in rich countries such as Air India, POAC and Swiss Airlines have not made profits and some have been sold.
-
-Responding to a query by SJB MP Hesha Vidhanage, the minister said that due to a loss, Air India had sold it to Tata and the government had paid $ 2 to 3 billion each year to Emirates.
-
-He said a small country like Sri Lanka was not in the process of maintaining airlines.
-
-“We don't have funds to buy a flight. Large capital cannot be invested. We take flights for leasing. We must join the group that can bring a big capital to pursue airlines to ensure the safety of 6,000 employees, ”he said.
-
-In 2023, 791 employees were recruited to SriLankan Airlines, which was the largest recruitment in the last 10 years, while it caused a loss of Rs 609 billion by the end of 2023.
-
-...
-
-[Data](articles/13a44237.json)
-
-[Extended Data](ext_articles/13a44237.ext.json)
-
----
-
-### A clear lack of alcohol during New Year's festival
-
-*2024-05-08 14:24:28* · [`adalk`](https://www.ada.lk/breaking_news/අලුත්-අවුරුදු-උත්සව-සමයේ-මද්‍යසාර-භාවිතයේ-පැහැදිලි-අඩුවක්/11-409502) · `si`
-
-A survey of 415 Sri Lankans shows a 64% decrease in alcohol use during New Year's festivals, with 71.5% citing higher prices as the main reason. Despite a 7.8% increase in events, 21.4% reported no change. Despite a ban on alcohol ads, 71.4% saw such ads on social media.
-
-🟩
-
-Alcohol and Drugs Center has revealed that the alcohol and Tamil New Year's New Year's New Year's New Year New Year's New Year Festival season.
-
-In this survey, 415 people have been obtained from a sample of 415 people covering all provinces in Sri Lanka. The women are 46.2% of this nation (192) women and 53.7% were men (223).
-
-64% of the surveillance depicting the use of alcohol during the New Year's festival compared to the Sinhala and Tamil New Year festivals.
-
-The use of alcohol was not change, and 10% said that 10% of the idea that the use of alcohol was increased during the festive season.
-
-Inquiry on the reasons for reducing the use of alcohol, 71.5% of the participants said that alcohol prices were the most powerful reason for lowing alcohol. Alcohol is prominent, the opposition of family members, health problems, and the use of alcohol has not been meaningful and the use of alcohol has declined.
-
-...
-
-[Data](articles/dc4c1d0f.json)
-
-[Extended Data](ext_articles/dc4c1d0f.ext.json)
 
 ---

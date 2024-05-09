@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 20:52:25**
+As of **2024-05-09 21:03:18**
 
 ## Newspaper Stats
 
-*Scraped **23,014** Articles*
+*Scraped **23,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,955
 tamilmirrorlk | 2,692
 adaderanalk | 2,700
 virakesarilk | 3,423
-dailymirrorlk | 3,612
+dailymirrorlk | 3,613
 adaderanasinhalalk | 3,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,013 (100.0%) of 23,014 articles have been extended.
+23,014 (100.0%) of 23,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Women Parliamentarians’ Caucus wants SJB to appoint female to Diana’s seat
+
+*2024-05-09 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-Caucus-wants-SJB-to-appoint-female-to-Dianas-seat/108-282258) · `en`
+
+Colombo, May 09 (Daily Mirror)- The Women Parliamentarians' Caucus (WPC) has  requested the Samagi Jana Balavegaya to appoint a suitable woman to the parliamentary seat of Diana Gamage.
+
+In a letter to the SJB General Secretary, the WPC said while they respect the decision of the Supreme Court, they  deeply reregret losing a member of the Women Parliamentarians' Caucus and the reduction of the women's representation in Parliament.
+
+The WPC said in the letter that women's representation in Parliament is crucial for effective democracy as experience, knowledge and the forward vision of the women contribute to drafting policies that are beneficial to all members in society.
+
+They requested the SJB to consider appointing a suitable female to the vacant  parliamentary seat of Diana Gamage.
+
+◼️
+
+[Data](articles/8bc42519.json)
+
+---
 
 ### The speech heard about the May 09 of the 9 year
 
@@ -226,19 +244,25 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from 
 
 ---
 
-### මගේ දියණිය 52 වතාවක් දූෂණය කරලා
+### My daughter was raped 52 times
 
 *2024-05-09 19:20:29* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-දියණිය-52-වතාවක්-දූෂණය-කරලා/11-409535) · `si`
 
-තම දියණිය 52 වතාවක් දූෂණය කළත්, මාධ්‍ය ඒ බැව් කතා නොකරන්නේ ඇයිදැයි සුජිත් ප්‍රනාන්දු නොහොත් සිඟිති ප්‍රශ්න කළේය. ඊයේ කුලියාපිටිය මහේස්ත්‍රාත්වරයා විසින් ඔහුව රක්ෂිත බන්ධනාගාරගත කිරීමෙන් අනතුරුව බන්ධනාගාරය වෙත යමින් සිටියදී මාධ්‍යවේදීන් අමතා ඔහු එසේ ප්‍රශ්න කළේය.
+Sujith Fernando, questioning media silence on his daughter's alleged rape, had his house burned. After being remanded, he was taken to prison. He revealed his daughter's situation, highlighting issues not discussed in the media. A prison officer mentioned Sugith Manel's case, indicating he would be taken to the Kaviranda Reserve.
 
-තමාගේ නිවස පුළුස්සා ඇතිබව හා තම දියණියට සිදුව තිබූ තත්ත්වයද හෙළිකළ යුතු බව සිඟිති එහිදී පැවසීය. සිඟිති වැඩිදුරටත් කියාසිටියේ තමා ගැන පමණක් මාධ්‍යයේ කතා නොකොට තමන්ට ඇතිවූ ප්‍රශ්නත් පළකරන ලෙසයි.
+🟩
 
-කෙසේවෙතත් සුසිත් ජයවංශගේ සිරුර හමුවූ පනිරෙන්ඩාව රක්ෂිතයට සිඟිති නොහොත් සුජිත් නමැත්තා ස්ථානීය පරීක්ෂාවකට රැගෙනයාමට අධිකරණයෙන් ලැබුණ නියෝග අනුව කටයුතු සිදුකරන බව බන්ධනාගාර නිලධාරියෙක් පැවසුවේය.
+Sujith Fernando alphabets questioned why the media was not talking about his daughter 52 times, but the media was not talking about. After he was remanded by the Kuliyapitiya Magistrate yesterday, he was asked to be taken to the prison.
+
+Sumbar said his house was burnt and that his daughter's situation had to be revealed. The Kalksithadita further stated that only the issues that were not talking about himself without speaking in the media.
+
+However, a prison officer said that Sugith Mannel, alphabetical, who had said the courts, will be taken to the Kaviranda Reserve of Sucith Jayawansa.
 
 ◼️
 
 [Data](articles/99c3739f.json)
+
+[Extended Data](ext_articles/99c3739f.ext.json)
 
 ---
 
@@ -2285,31 +2309,5 @@ Later, the woman was raped and tried to flee. The woman then shouted and the nei
 [Data](articles/2083ee59.json)
 
 [Extended Data](ext_articles/2083ee59.ext.json)
-
----
-
-### Rape the teacher who opened and slept
-
-*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியையை-பாலியல்-பலாத்காரம்/175-337017) · `ta`
-
-In Chennai, a 31-year-old teacher was raped while her husband was away, driving their daughters. The incident occurred when the family left their home open for ventilation. The teacher's husband, who drives an auto, left the children at home while he worked at night. A man entered the house, threatened the sleeping woman, and raped her. The woman tried to scream but was silenced by threats to her daughters. Neighbors intervened, and the man was arrested by the police. This case has caused concern in the community.
-
-🟩
-
-சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். However, it must be opened because of the inevitable reason.
-
-At home, the door, the windows are open. However, the rape incident has taken place in Chennai.
-
-A 31 -year -old teenager, who lives in Coimbatore, Chennai, works as a teacher at a private school. இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். Her husband is driving an auto.
-
-In this case, her husband left the auto to drive at night with her daughters at night with her daughters. The impact of the sun was high on Tuesday (07) and it was said that the door was open for the air and slept.
-
-At that time, a drug man entered the house and threatened the woman who was asleep. Shocked by this, the woman tried to shout. But the man threatened to kill the girls if he shouted.
-
-...
-
-[Data](articles/68b82415.json)
-
-[Extended Data](ext_articles/68b82415.ext.json)
 
 ---

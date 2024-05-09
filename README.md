@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 14:18:27**
+As of **2024-05-09 14:33:36**
 
 ## Newspaper Stats
 
-*Scraped **22,931** Articles*
+*Scraped **22,940** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 201
+colombotelegraphcom | 203
 bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,938
-tamilmirrorlk | 2,687
-adaderanalk | 2,689
+adalk | 1,940
+tamilmirrorlk | 2,688
+adaderanalk | 2,690
 virakesarilk | 3,408
-dailymirrorlk | 3,603
-adaderanasinhalalk | 3,667
+dailymirrorlk | 3,604
+adaderanasinhalalk | 3,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,931 (100.0%) of 22,931 articles have been extended.
+22,936 (100.0%) of 22,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Presidential poll to be held between September 17, October 16
+
+*2024-05-09 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-poll-to-be-held-between-September-17-October-16/108-282248) · `en`
+
+Colombo, May 9 (Daily Mirror) - The Election Commission formally announced that the 2024 Presidential election will be held on a day between September 17 and October 16.
+
+Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commission said it will call for nominations to hold the Presidential election within the specified timeframe in terms of the provisions of the Constitution of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested with the Election Commission to fix the date for the election, it will hold the Presidential election between 17 September 2024 and l6 October 2024.
+
+◼️
+
+[Data](articles/332c58b0.json)
+
+[Extended Data](ext_articles/332c58b0.ext.json)
+
+---
+
+### Election Commission announcement on Presidential Poll date
+
+*2024-05-09 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99106/election-commission-announcement-on-presidential-poll-date) · `en`
+
+The Election Commission of Sri Lanka say it will call for the nominations to hold the presidential election within the specified timeframe in terms of the provisions of the Constitution and the Presidential Elections Act, No. 15 of 1981.
+
+Issuing an announcement today (09), the Election Commission also said that by virtue of the powers vested in the commission to fix the date for the election, it will hold the presidential election between 17th September and 16th October 2024.
+
+◼️
+
+[Data](articles/8947637a.json)
+
+---
 
 ### டயானாவுக்கு பயணத் தடை
 
@@ -49,6 +79,26 @@ Colombo Chief Magistrate Thilina Kamage has issued the order in connection with 
 [Data](articles/fb51f11d.json)
 
 [Extended Data](ext_articles/fb51f11d.ext.json)
+
+---
+
+### The Election Commission is notified of the Presidential Election Day
+
+*2024-05-09 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196434) · `si`
+
+The Election Commission has set September 17 and October 16 for the presidential election. The names of the candidates were announced on the due date.
+
+🟩
+
+The Elections Commission announced that the presidential election will be held on September 17 and October 16.
+
+Accordingly, the names of the names of the names of the names were carried out during the due date.
+
+◼️
+
+[Data](articles/df641e3b.json)
+
+[Extended Data](ext_articles/df641e3b.ext.json)
 
 ---
 
@@ -89,6 +139,54 @@ It is noteworthy that the police chief of the country, Patriot Tennakoon, is in 
 [Data](articles/ef63f474.json)
 
 [Extended Data](ext_articles/ef63f474.ext.json)
+
+---
+
+### Warning announcement of strong lightning in several areas
+
+*2024-05-09 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196433) · `si`
+
+The Department of Meteorology warns of strong lightning in Western, Sabaragamuwa, South, Eastern, Uva, and Matale districts. The public is advised to be cautious of thundershowers.
+
+🟩
+
+The Department of Meteorology has issued an announcement in powerful lightning.
+
+The Department of Meteorology announces that there is a risk of striking lightning in the Western, Sabaragamuwa, South, Eastern, Uva and Matale districts.
+
+The public is also seen in this statement that the people of these areas could be temporary to be aware of thundershowers.
+
+◼️
+
+[Data](articles/eaf7ec37.json)
+
+[Extended Data](ext_articles/eaf7ec37.ext.json)
+
+---
+
+### Babe shot to father's father
+
+*2024-05-09 13:33:05* · [`adalk`](https://www.ada.lk/breaking_news/බබාගේ-පියාට-වෙඩි/11-409521) · `si`
+
+A 60-year-old man from Ahungalla, known for his involvement in the cinnamon industry, was shot dead by two unidentified individuals. The victim, whose father is linked to organized crime, was targeted near his home. The motive behind the shooting is believed to be a dispute between two parties in Aungalla, with the shooters using a pistol. The incident occurred on the 14th, and the victim was taken to Palapitiya Aquare Hospital, where he was pronounced dead.
+
+🟩
+
+A man who was in a house in a house in Ahungalla, the World, has been shot dead yesterday (8), was shot dead by two unidentified people yesterday.
+
+The deceased has been identified as a cinnamon industry in Cinnamon Industry, a 60 year old resident of Aunugalla, Aungalla, police said.
+
+The father of the deceased is the father of an organized criminal and an invaluable client, police said.
+
+The deceased is a devotener's son, a devotener's son, a devotee to the deceased, is a racketeer, who island-wide, is a racketeer who island close to the house near the motorcycle.Police said that the residents had not been injured in the shooting.
+
+The police say that the shooting of his party had been shot dead at Ahungalla last night last night.
+
+...
+
+[Data](articles/0147cebd.json)
+
+[Extended Data](ext_articles/0147cebd.ext.json)
 
 ---
 
@@ -213,6 +311,24 @@ The statement further disclosed that these recruits are being assigned to frontl
 [Data](articles/c827edc5.json)
 
 [Extended Data](ext_articles/c827edc5.ext.json)
+
+---
+
+### විශ්‍රාම ගැනිම වෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්
+
+*2024-05-09 12:45:47* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගැනිම-වෙන්නත්-පුළුවන්-නොවෙන්නත්-පුළුවන්/9-409520) · `si`
+
+ලෝක කුසලාන තරගාවලියට ප්‍රථමව ශ්‍රි ලංකා කාන්ත ක්‍රිකට් කණ්ඩායමට තරගාවලි කිහිපයක්ම පවතින බවත් එම සියලු තරගාවලි හොඳින් ක්‍රිඩා කිරිම තම කණ්ඩායමේ අරමුණ බවත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවැසිය.
+
+ඇය මේ බව සඳහන් කළේ ඩුබායිහි පැවැති විස්සයි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබා ගැනිම වෙනුවෙන් පැවැති තරගාවලියේ ශූරතාව දිනා ගැනිමෙන් අනතුරුව ශ්‍රි ලංකා කාන්තා ක්‍රිකට් ක්‍රිකට් කණ්ඩායම කටුනායක ගුවන් තොටුපොළින් ශ්‍රී ලංකාවට පැමිණි අවස්ථාවේදිය.
+
+තරගාවලිය ජයග්‍රහණය කිරිම කණ්ඩායමේ සියලු දෙනා හොඳින් ක්‍රිඩා කළ බවත් ඇය පැවැසුවාය.
+
+මෙහිදි ක්‍රිඩාවෙන් විශ්‍රාම ගැනිම පිළිබ﻿ඳව යොමුකළ ප්‍රශ්නයකට පිළිතුරු දුන් චමරි සඳහන් කළේ තමන් ඒ පිළිබ﻿ඳව සාකච්ඡා කරන බවත් එය 'සිදුවෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්' කියාය‍
+
+◼️
+
+[Data](articles/758f5724.json)
 
 ---
 
@@ -447,6 +563,22 @@ The temperature of the sea to form coral reefs should be fluctuating up to 27-28
 [Data](articles/75967d76.json)
 
 [Extended Data](ext_articles/75967d76.ext.json)
+
+---
+
+### இறுதி இலக்கை அறிவித்தார் ஜனாதிபதி
+
+*2024-05-09 11:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-இலக்கை-அறிவித்தார்-ஜனாதிபதி/175-337018) · `ta`
+
+முறையான திட்டம், அனுபவம் மற்றும் சர்வதேச தொடர்புகள் என்பவற்றின் காரணமாகவே தனியொரு பாராளுமன்ற உறுப்பினராக இருந்த போதும் எவ்வித நிபந்தனைகளும் இன்றி நாட்டைப் பொறுப்பேற்றதாகவும் அதன் ஊடாக நரகத்தில் விழுந்த நாட்டை மீட்க முடியும் என்ற நம்பிக்கை தனக்கு இருந்ததாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில்  இன்று (09) ஆற்றிய விசேட உரையின் போது தெரிவித்தார்.
+
+வீழ்ச்சியடைந்த நாட்டை மீளக் கட்டியெழுப்ப பொருளாதார ஸ்திரப்படுத்தல் மற்றும் மீட்சித் திட்டங்கள் முறையாக நடைமுறைப்படுத்தப்பட்டுள்ளதாகவும் அதன் விளைவாக 2023 ஆம் ஆண்டின் நடுப்பகுதியில் இருந்து பொருளாதார முன்னேற்றத்திற்கான பயணம் ஆரம்பமாகியுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்
+
+இந்த ஆண்டு பொருளாதார வளர்ச்சி சுமார் மூன்று சதவீதமாக இருக்கும் என்று எதிர்பார்ப்பதாகக் குறிப்பிட்ட ஜனாதிபதி, பல்வேறு உள்நாட்டு மற்றும் வெளிநாட்டு நிதி நிறுவனங்களும் இதற்கு நிகரான எதிர்வுகூறல்களை முன்வைத்துள்ளதாகத் தெரிவித்தார்.
+
+...
+
+[Data](articles/13763efb.json)
 
 ---
 
@@ -1400,6 +1532,24 @@ The Secretary of the Ministry of Public Administration has also stated to issue 
 
 ---
 
+### ‘Interventions’ – A Book Review
+
+*2024-05-09 08:38:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/interventions-a-book-review/) · `en`
+
+“Until they become conscious, they will never rebel, and until after they have rebelled, they cannot become conscious.” ― George Orwell
+
+This is a review (perhaps imprecise) of the anthology “Interventions” – Selected Political Writings of Dayan Jayatilleka edited by Uditha Devapriya and Uthpala Wijesuriya with a forward by Kamaya Jayatissa, published by Neptune. I say imprecise, because I wrote this review before reading the entirety of this collection of writings by Dayan J.  When reading this missive I hope you will understand why I hurried to pen this review before digesting it in its whole.
+
+Dayan Jayatilleke as a public intellectual has been rediscovered by two millennial opinion journalists – the type who seek the narrative that’s alternative to that of the mainstream.
+
+I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silva who was my Editor at Ceylon Daily News. Mervyn was my friend and a mentor of sorts.
+
+...
+
+[Data](articles/cfebe030.json)
+
+---
+
 ### A special announcement for war in foreign countries
 
 *2024-05-09 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196421) · `si`
@@ -1519,6 +1669,20 @@ Prof. Manjula Fernando said that after receipt of the electricity tariffs, the f
 [Data](articles/caff788f.json)
 
 [Extended Data](ext_articles/caff788f.ext.json)
+
+---
+
+### From Israel To Sri Lanka: The Political Power Of The Defense agenda
+
+*2024-05-09 08:26:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-israel-to-sri-lanka-the-political-power-of-the-defense-agenda/) · `en`
+
+Presidential politics are bad, particularly how it intertwines with the presidential system and the central role of defense and violence in maintaining political power. This examination is not a critique of foreign policy in isolation but a broader analysis of the mechanics of political authority within the presidential framework of the United States and Sri Lanka. My aim is to dissect how violence by way of conflation not only perpetuates but also emboldens the presidential system, transforming defense into a pinnacle of political maneuvering.
+
+...
+
+[Data](articles/6bd8b772.json)
+
+[Extended Data](ext_articles/6bd8b772.ext.json)
 
 ---
 
@@ -2069,233 +2233,5 @@ While this patriarchal practice is discriminatory – impugning the dignity of t
 [Data](articles/63b8d0c4.json)
 
 [Extended Data](ext_articles/63b8d0c4.ext.json)
-
----
-
-### Complete the Infrastructure Development of the Binkiriya Industrial Zone by the end of this year - the President's Work
-
-*2024-05-09 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183018) · `ta`
-
-President Ranil Wickremesinghe has directed the completion of the Bingiriya Industrial Zone's infrastructure by year-end. The first phase is done, with the President aiming to oversee the final stages in June.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the authorities to complete the infrastructure development work of the Bingiriya Industrial Zone by the end of this year.
-
-President Ranil Wickremesinghe made the announcement at a meeting held at the Presidential Office on Wednesday (08) to look into the progress of other constructions, including the infrastructure of the Bingiriya Industrial Zone.
-
-With the development work of the lower Bingiriya Industrial Zone in three stages, the infrastructure facilities under the first phase have been completed.
-
-Accordingly, the President has issued a directive to complete the work being carried out by the end of this year and said that he is looking forward to overseeing the tasks in June.
-
-...
-
-[Data](articles/c6bf2ed3.json)
-
-[Extended Data](ext_articles/c6bf2ed3.ext.json)
-
----
-
-### Muslims should boycott the goods of companies that help Israel - Haris MP
-
-*2024-05-09 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183017) · `ta`
-
-Sri Lankan Muslims are urged to boycott Israeli-supporting companies like KFC, McDonald's, and Pizza Hut, as their profits aid Israel's conflict with Palestinians. This call comes amid criticism of Egypt's role in the conflict and the UN's lack of protection for Palestinians.
-
-🟩
-
-There are companies from countries that help Israel to kill the Palestinian people. Opposition member HM says Sri Lankan Muslims should boycott the goods of those organizations. Haris said.
-
-He said this while addressing the debate on the orders under the Diplomatic Legislative Act, which was held in Parliament on Wednesday (8).
-
-The Israeli Prime Minister Yatanyahu, a tyrant, is moving the Israeli army to attack the Palestinian people as a refugee city as refugees of the Palestinian population.. As a result, the United Nations Security Council is in the absence of protection to the people.
-
-The Egyptian president is playing the role of Israeli military actions without stopping the tyranny of Israel. Egypt has opened the gate to the Raba border to kill the Palestinian people who have sought refuge in Rabba.
-
-...
-
-[Data](articles/e7d9dabd.json)
-
-[Extended Data](ext_articles/e7d9dabd.ext.json)
-
----
-
-### What is Paradle Law?Is the decision to suspend it is right?Wrong?
-
-*2024-05-09 02:15:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxr3w976rrzo) · `si`
-
-Paradle Law, a Sri Lankan legislation, allows banks to seize and auction properties of defaulters to recover loans. The law has been temporarily suspended until December 15, 2024, due to economic crises and the inability of many businesses and the public to repay loans. This decision has sparked debates on its necessity and impact on the banking system and the economy.
-
-🟩
-
-What is Paradle Law?Is the decision to suspend it is right?Wrong?
-
-බැංකු ම⁣ගින් ප්‍රදානය කළ ණය අය කර ගැනීමේ විශේෂ විධි විධාන (සංශෝධන) පනත් කෙටුම්පත තුන් වන වර කියවීම සංශෝධන රහිතව අඟහරුවාදා (මැයි 7) පාර්ලිමේන්තුවේදී සම්මත විය.
-
-කාරක සභා අවස්ථාවේදී සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී අශෝක් අබේසිංහ ඉදිරිපත් කළ සංශෝධන සම්බන්ධයෙන් පැවති ඡන්ද විමසීමේදී  වැඩි ඡන්ද 30කින් එම සංශෝධන පරාජයට පත්විය.
-
-There were only nine votes against the amendments, and only 19 votes were against it.
-
-Accordingly, the Parade law will be suspended until December 15, 2024.
-
-It is no secret that the Easter's Economy of the Crown Epidemic and the economic crisis in the Korea Epidemic and the economic crisis is no secret.
-
-As a result, many businessmen who have obtained loans from banks and the general public lack of the ability to settle the loan.
-
-In such a situation, many focused on the law of the law with a statement that the Justice Minister Wijayadasa Rajapakse was appointed to the Hon.
-
-...
-
-[Data](articles/ded07fb7.json)
-
-[Extended Data](ext_articles/ded07fb7.ext.json)
-
----
-
-### Plantation workers should be given a salary increase on June 10 - Vadivel Suresh
-
-*2024-05-09 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183016) · `ta`
-
-Vadivel Suresh advocates for a Rs. 1700 salary increase for plantation workers on June 10, despite plantation companies' opposition. This follows the President's intervention after a 4-year delay, aiming to boost plantation development. The government's proposal to link salaries to production is rejected, emphasizing the importance of the announced salary increase for the workers' welfare.
-
-🟩
-
-Plantation workers should be paid a salary of Rs.. At the same time, Vadivel Suresh said that the action of the plantation companies could never allow the action to change the salary increase in the name of production.
-
-He said this while addressing the debate on the commands under the Diplomatic Legal Act, which was held in Parliament on Wednesday (8).
-
-The President has intervened in the last four years that the salary increase of plantation workers has not taken place for the past 4 years and has taken steps to increase the salary for a day to 1700 rupees.. Accordingly, it has been announced on the basis of Rs.. The President met the plantation workers in person and made the announcement on May Day.
-
-...
-
-[Data](articles/004d9e99.json)
-
-[Extended Data](ext_articles/004d9e99.ext.json)
-
----
-
-### Sunrisers Hyderabad won by 10 wickets in 10 overs
-
-*2024-05-09 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183015) · `ta`
-
-Sunrisers Hyderabad won by 10 wickets in 10 overs, their first win by this margin in the IPL. They reached the target in 45 minutes, with Abhishek Sharma and Travis Head's 148 runs, 16 wickets, and 14 sixes. Lucknow Super Giants scored 165 runs in 20 overs, with Nicholas Pooran and Aush Patoni's 99 runs off 58 balls. Bhuvneshwar Kumar took 2 wickets for 12 runs, and Vijayakanth Vyaskant made his IPL debut for Sunrisers Hyderabad, conceding 27 runs.
-
-🟩
-
-Sunrisers Hyderabad won by 10 wickets in the 57th match of the 17th Indian Premier League chapter held at the Rajiv Gandhi Stadium in Hyderabad on Wednesday (08).
-
-Sunrisers Hyderabad won the toss and elected to bat.
-
-This is the first time a team won by 10 wickets in this year's Indian Premier League. Significantly, Sunrisers Hyderabad reached the target in 45 minutes in 10 overs.
-
-Abhishek Sharma and Travis Head have made a brilliant run from the beginning and made the team a success.
-
-Travis Head faced 30 balls and did not lose 89 runs, including 8 pounds, 8 sixes, and Abhishek scored 75 off 28 balls, including 8 pounds and 6 sixes.
-
-The total number of Sunrisers Hyderabad was 148 runs, 16 pounds and 14 sixes.
-
-Lucknow Super Giants, who decided to bat first in the upting match, scored 165 runs for the loss of 4 wickets in 20 overs.
-
-The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped Lucknov Super Giants gain an honorable total number.
-
-...
-
-[Data](articles/02091493.json)
-
-[Extended Data](ext_articles/02091493.ext.json)
-
----
-
-### Was the new reconciliation team looking towards the election?
-
-*2024-05-09 01:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-நல்லிணக்க-குழு-தேர்தலை-நோக்கியதா/175-337005) · `ta`
-
-The new reconciliation team opposes the establishment of a Reconciliation Commission, arguing for international monitoring and questioning its timing in relation to the election.
-
-🟩
-
-The Reconciliation Commission is renewed. We are fully opposed to this.
-
-Speaking at a debate on diplomatic privilege on Wednesday (08) in Parliament, he said.
-
-We do not accept the fact that the Foreign Minister's attempt to set up a Reconciliation Commission is correct. We will not accept that the fight is conducting investigations into it. These investigations should be held with international monitoring. We have already emphasized this. The Minister should take note of it. He said that there would be a chance of a justification. .
-
-In this way, this reconciliation commission should have international surveillance.. In the past, the reconciliation commissions have been set up and our people have expressed their views. Were told the secrets. But the decree committees were to dissolve.
-
-Now a new reconciliation commission is being launched. We are completely opposed to this. At this time, the question of whether the reconciliation commission is set up to the election.
-
-◼️
-
-[Data](articles/03caa000.json)
-
-[Extended Data](ext_articles/03caa000.ext.json)
-
----
-
-### The telephone does not even own a plane
-
-*2024-05-09 01:34:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-விமானம்-கூட-சொந்தமாக-இல்லை/175-337004) · `ta`
-
-Minister Nimal Siripala de Silva stated that Sri Lanka lacks a national airline, not just domestically but globally. He highlighted the financial struggles of airlines in countries like India and the lack of support for small airlines, citing the example of Emirates receiving significant financial aid.
-
-🟩
-
-Minister Nimal Siripala de Silva said that Sri Lanka did not own a flight to Sri Lanka, not only in Sri Lanka but also in the world's wealthy countries.
-
-He also said that the resignation of 470 airlines at the same time that 791 people were to be joined.
-
-In response to a question raised by Opposition MP Hesha Vidanage during the Prime Minister's Question Time on Wednesday (08) in Parliament, the Minister said:
-
-Airlines operate at a loss in countries like India, especially in countries like India. What happened to the Indian Airlines?That too runs at a loss. Is Swiss Air currently in service?There is no.
-
-Those countries continue to offer US $ 2 or 3 billion for airlines like Emirates. Cannot do so to countries like Sri Lanka. He said that companies that run small airlines like our country should face the problems.
-
-◼️
-
-[Data](articles/79f2e756.json)
-
-[Extended Data](ext_articles/79f2e756.ext.json)
-
----
-
-### The model is like gaining great freedom
-
-*2024-05-09 01:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-சுதந்திரம்-கிடைத்ததை-போன்றது/175-337003) · `ta`
-
-Naleen Bandara, an opposition parliamentarian, likened the absence of Diana Kamage to the Speaker's increased independence, suggesting Parliament has gained significant freedom.
-
-🟩
-
-Opposition parliamentarian Naleen Bandara said that the lack of Diana Kamage's post was like the freedom of parliament and the Speaker.
-
-He said this while addressing a special statement in Parliament on Wednesday (08). At the time he added,
-
-The Supreme Court has issued a major verdict in the case of Diana Kamage, who was a Member of Parliament. Accordingly, he is not a Member of Parliament since today. We say that the Parliament has gained great freedom and the Speaker has gained great independence.
-
-◼️
-
-[Data](articles/a8de3b34.json)
-
-[Extended Data](ext_articles/a8de3b34.ext.json)
-
----
-
-### The bud is open today
-
-*2024-05-09 01:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-இன்று-திறப்பு/175-337002) · `ta`
-
-Mahinda Rajapaksa will open a party office in Battaramulla on Thursday to prepare for the presidential and general elections.
-
-🟩
-
-Party leader Mahinda Rajapaksa will open the office in Battaramulla on Thursday (09).
-
-It has been decided to open the office to prepare the party at the constituency level for the presidential and general election.
-
-◼️
-
-[Data](articles/7bce3bbe.json)
-
-[Extended Data](ext_articles/7bce3bbe.ext.json)
 
 ---

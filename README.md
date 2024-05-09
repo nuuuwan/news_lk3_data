@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 09:03:44**
+As of **2024-05-09 09:18:22**
 
 ## Newspaper Stats
 
-*Scraped **22,858** Articles*
+*Scraped **22,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,243
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,931
-tamilmirrorlk | 2,672
+tamilmirrorlk | 2,675
 adaderanalk | 2,680
 virakesarilk | 3,399
 dailymirrorlk | 3,589
@@ -26,11 +26,69 @@ adaderanasinhalalk | 3,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,857 (100.0%) of 22,858 articles have been extended.
+22,858 (100.0%) of 22,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### பல மாகாணங்களில் இடியுடன் கூடிய மழை
+
+*2024-05-09 08:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாகாணங்களில்-இடியுடன்-கூடிய-மழை/175-337007) · `ta`
+
+நாட்டின் பல மாகாணங்களில், இன்று பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக்கூடும்.
+
+வடமத்திய, மத்திய, சப்ரகமுவ, ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் முல்லைத்தீவு மாவட்டத்திலும் சில இடங்களில் 75 மில்லி மீற்றர் பலத்த மழைக்கு வாய்ப்புள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/afe27852.json)
+
+---
+
+### விமான நிலையத்தில் ஒருவர் அதிரடி கைது
+
+*2024-05-09 08:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-ஒருவர்-அதிரடி-கைது/175-337006) · `ta`
+
+2 கோடி ரூபாய்க்கும் அதிக பெறுமதியான குஷ் போதைப்பொருளை இலங்கைக்கு கொண்டு வர முயற்சித்த நபர் ஒருவர் கட்டுநாயக்க விமான நிலைய போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் தாய்லாந்தின் பெங்கொக் நகரில் இருந்து இலங்கை வந்துள்ள நிலையில், அவரது பயணப்பையில் சூட்சுமமாக பொதி செய்யப்பட்டிருந்த 5 கிலோ 278 கிராம் குஷ் போதைப்பொருளை பொலிஸார் கண்டுபிடித்துள்ளனர்.
+
+சந்தேக நபர் ஹோமாகம பிரதேசத்தை சேர்ந்த 32 வயதுடையவர் என்பதுடன் மேலதிக விசாரணைகளை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவின் அதிகாரிகள் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/916d1219.json)
+
+---
+
+### Torture and sexual harassment against Tamils ​​in Sri Lanka continues - the new report for international fact and justice
+
+*2024-05-09 08:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183023) · `ta`
+
+Torture and sexual harassment of Tamils in Sri Lanka persist, despite Ranil Wickremesinghe's government in July 2022. Reports detail severe abuses, including sexual torture of 91 detainees, including a woman, and the use of heated materials on 46 individuals. The UN Human Rights High Commissioner, Volcker Rourg, addressed these issues on March 1, 2024.
+
+🟩
+
+Ranil Wickremesinghe's new government in July 2022
+
+Or heated them with warm materials. 46 people pressing the face of the water
+
+In March 2022, a 28 -year -old man came to Jaffna in ordinary clothes
+
+Sexual torture was also used frequently. 91 detainees including a woman
+
+The UN. Human Rights High Commissioner Volcker Rourg held on March 1, 2024
+
+◼️
+
+[Data](articles/e0b8b872.json)
+
+[Extended Data](ext_articles/e0b8b872.ext.json)
+
+---
 
 ### Health Trade Unions on provincial level
 
@@ -53,32 +111,6 @@ However, the General Secretary of All Ceylon Nurses Union, HMSB Kumadu said that
 [Data](articles/32a4468e.json)
 
 [Extended Data](ext_articles/32a4468e.ext.json)
-
----
-
-### Torture and sexual harassment against Tamils ​​in Sri Lanka continues - the new report for international fact and justice
-
-*2024-05-09 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183023) · `ta`
-
-Torture and sexual harassment of Tamils in Sri Lanka persist, despite Ranil Wickremesinghe's government in July 2022. Reports detail severe abuses, including sexual torture of 91 detainees, including a woman, and the use of heated materials on 46 individuals. The UN Human Rights High Commissioner, Volcker Rourg, addressed these issues on March 1, 2024.
-
-🟩
-
-Ranil Wickremesinghe's new government in July 2022
-
-Or heated them with warm materials. 46 people pressing the face of the water
-
-In March 2022, a 28 -year -old man came to Jaffna in ordinary clothes
-
-Sexual torture was also used frequently. 91 detainees including a woman
-
-The UN. Human Rights High Commissioner Volcker Rourg held on March 1, 2024
-
-◼️
-
-[Data](articles/e0b8b872.json)
-
-[Extended Data](ext_articles/e0b8b872.ext.json)
 
 ---
 
@@ -625,6 +657,24 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 [Data](articles/02091493.json)
 
 [Extended Data](ext_articles/02091493.ext.json)
+
+---
+
+### ’ஒரு விமானம் கூட சொந்தமாக இல்லை’
+
+*2024-05-09 01:34:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-விமானம்-கூட-சொந்தமாக-இல்லை/175-337004) · `ta`
+
+இலங்கை மட்டுமன்றி உலகில் செல்வந்த நாடுகளில் கூட விமான சேவைகள் நஷ்டத்திலேயே இயங்குகின்றன.சில நாடுகள் அந்த நிறுவனங்களுக்கு பில்லியன் கணக்கில் நிதி வழங்குகின்றன ஆனால்  இலங்கையால் அவ்வாறு செய்ய முடியாது என்று தெரிவித்த அமைச்சர் நிமல் சிரிபால டி சில்வா இலங்கைக்கு ஒரு விமானம் கூட சொந்தமாக இல்லை என்றார்.
+
+அத்துடன் விமான சேவை ஊழியர்கள் 470 பேர் ஒரே தடவையில் தமது பதவியை இராஜிநாமா செய்ததாலேயே 791 பேரை புதிதாக இணைத்துக் கொள்ளவேண்டிய நிலைமை ஏற்பட்டது எனவும் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (08) இடம்பெற்ற பிரதமரிடத்திலான  கேள்வி நேரத்தின் போது எதிர்க்கட்சி எம்.பியான ஹேஷா விதானகே எழுப்பிய கேள்வி யொன்றுக்குப் பிரதமரின் சார்பில் பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்த அமைச்சர்   தெரிவிக்கையில்:
+
+உலகில் எம்மை விட செல்வந்த நாடுகள், குறிப்பாக இந்தியா போன்ற நாடுகளிலும் விமான சேவைகள் நஷ்டத்திலேயே இயங்குகின்றன.இந்திய எயார்லைன்சுக்கு என்ன நடந்தது? அதுவும் நஷ்டத்திலேயே இயங்குகிறது. சுவிஸ் எயார் தற்போது சேவையில் உள்ளதா? அதுவும் கிடையாது.
+
+...
+
+[Data](articles/79f2e756.json)
 
 ---
 
@@ -1596,21 +1646,29 @@ The inauguration ceremony of the program was held at the Ministry of Sethsiripay
 
 ---
 
-### බිංගිරිය කර්මාන්ත කලාපයේ යටිතල පහසුකම් සංවර්ධන කටයුතු වසර අවසන් වීමට පෙර නිම කරන්න
+### Complete the infrastructure development in the Bingiriya Industrial Zone before the end of the year
 
 *2024-05-08 19:08:52* · [`adalk`](https://www.ada.lk/breaking_news/බිංගිරිය-කර්මාන්ත-කලාපයේ-යටිතල-පහසුකම්-සංවර්ධන-කටයුතු-වසර-අවසන්-වීමට-පෙර-නිම-කරන්න/11-409512) · `si`
 
-බිංගිරිය කර්මාන්ත කලාපයේ යටිතල පහසුකම් සංවර්ධන කටයුතු මෙම වසර අවසන් වීමට පෙර නිම කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+President Ranil Wickremesinghe urged officials to expedite the Bingiriya Industrial Zone's infrastructure development, aiming for completion by year-end. The project's first phase is already done, with ongoing construction. Officials, including the Presidential Secretary and Economic Affairs Secretary, are monitoring progress, with a visit planned for June.
 
-බිංගිරිය කර්මාන්ත කලාපයේ යටිතල පහසුකම් ඇතුළු සෙසු ඉදිකිරීම්වල ප්‍රගතිය සම්බන්ධයෙන් සොයා බැලීම සඳහා ජනාධිපති කාර්යාලයේ අද (08) පැවති සාකච්ඡාවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට මෙලෙස උපදෙස් ලබා දුන්නේය.
+🟩
 
-අදියර තුනක් යටතේ බිංගිරිය කර්මාන්ත කලාපයේ ඉදිකිරීම් කටයුතු සිදු කෙරෙමින් පවතින අතර, මෙම ව්‍යාපෘතියේ පළමු අදියර යටතේ ස්ථාපිත කිරීමට නියමිත යටිතල පහසුකම්වල සැලකිය යුතු ප්‍රමාණයක වැඩ කටයුතු දැනටමත් අවසන් කර ඇත.
+President Ranil Wickremesinghe instructed the relevant officials to complete the infrastructure development zone of the Bingiriya Industry.
 
-ඒ අනුව තවදුරටත් සිදු කෙරෙමින් පවතින වැඩ කටයුතු මෙම වර්ෂය අවසන් වීමට පෙර අවසන් කරන ලෙස නිලධාරීන්ට උපදෙස් දුන් ජනාධිපතිවරයා, එළැඹෙන ජුනි මාසයේදී අදාළ වැඩකටයුතු නිරීක්ෂණය කිරීම සඳහා පැමිණීමට තමා අපේක්ෂා කරන බවද සඳහන් කළේය.
+President Ranil Wickremesinghe gave the relevant officials at the Presidential Secretariat today (08) to look into the progress of the infrastructure, including infrastructure of the infrastructure of the Bingiriya Industry Zone.
 
-...
+The construction work of the Bingiriya Industrial Industry is underway, while the first phase of the project has already been completed under the first phase of the project.
+
+According to the official advised to terminate further work before the end of this year, he said he expects to visit the work on June.
+
+Presidential Secretary Saman Ekanayake and Economic Secretary of the Economic Affairs Dr. R. S. H. Secretary to the Ministry of Investment Promotion. M. Officers of the Ministry of Power and Energy, Power and Energy Ministry Secretary Ranjith Rubasinghe, Secretary to the Ministry of Transport and Highways were also present.
+
+◼️
 
 [Data](articles/76ceaf86.json)
+
+[Extended Data](ext_articles/76ceaf86.ext.json)
 
 ---
 
@@ -2183,71 +2241,5 @@ However, the magistrate, who refused the lawyer’s request, further remanded th
 [Data](articles/5f203030.json)
 
 [Extended Data](ext_articles/5f203030.ext.json)
-
----
-
-### Sri Lanka 3-month T-bill yield down 18bp
-
-*2024-05-08 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-3-month-t-bill-yield-down-18bp-162109/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 3-month Treasury bill yield fell 18 basis points to 9.43 percent at Wednesday’s auction, while others were marginally down, data from the state debt office showed.
-
-The 3-month fell 18 basis points from 9.61 percent to 14.96 percent, with 30 billion rupees in securities offered and all 30 billion rupees sold.
-
-The 6-month yield fell 13 basis points from 9.89 percent to 9.76 percent, with 60 billion rupees in securities offered and 92.54 billion rupees sold.
-
-The 12-month yield fell 9 basis points from 9.99 percent to 9.90 percent, with 65 billion rupees in securities offered and only 32.45 billion sold. (Colombo/May8/2024)
-
-◼️
-
-[Data](articles/0033188f.json)
-
-[Extended Data](ext_articles/0033188f.ext.json)
-
----
-
-### Two inmates dead, one critical after ‘food poisoning’ at Magazine Prison
-
-*2024-05-08 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99085/two-inmates-dead-one-critical-after-food-poisoning-at-magazine-prison) · `en`
-
-The Judicial Medical Officer (JMO) has issued an open verdict regarding the autopsy of the two prison inmates who had allegedly died after consuming a rice parcel containing pork curry.
-
-Subsequantly, their body parts are expected to be taken to the Medical Research Institute of Sri Lanka (MRI) for further tests.
-
-Two individuals, residents of Borella and Dehiwala areas, had been arrested for trafficking ‘Ice’ drugs (crystal methamphetamine) and were detained at the Magazine Prison.
-
-According to reports, relatives of one the inmates had brought a parcel of rice with pork curry prepared at home for the inmates on the day before.
-
-Approximately 15 inmates had reportedly consumed this rice parcel, leading to three of the inmates being admitted to the Colombo National Hospital due to suspected food poisoning.
-
-Two of the inmates have later died, while another inmate remains in critical condition at the hospital.
-
-...
-
-[Data](articles/b0e374a6.json)
-
-[Extended Data](ext_articles/b0e374a6.ext.json)
-
----
-
-### Court of Appeal of Hirunika
-
-*2024-05-08 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196403) · `si`
-
-The Court of Appeal summoned Hirunika Premachandra on June 14 for a complaint filed by Mohamed Muzmil's son. Lawyers must file protests within two weeks.
-
-🟩
-
-The Court of Appeal was appointed as the complaint filed against Hirunika Premachandra to be summoned against him on June 14.
-
-The court also ordered the lawyers of Hirunika Premachandra to file the protesters to file the protesters within two weeks.
-
-According to a complaint lodged by the son of Mohammed Muzammil's son Mohamed Muzmil, the son of Mohamed Muzmil.
-
-◼️
-
-[Data](articles/03934d8b.json)
-
-[Extended Data](ext_articles/03934d8b.ext.json)
 
 ---

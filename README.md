@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 23:52:53**
+As of **2024-05-10 00:03:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,037 (100.0%) of 23,041 articles have been extended.
+23,041 (100.0%) of 23,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -538,6 +538,8 @@ Regulating under sea cabal network and allowing other parties to build telecom t
 
 [Data](articles/c9c5a0c7.json)
 
+[Extended Data](ext_articles/c9c5a0c7.ext.json)
+
 ---
 
 ### Russian demands information about Sri Lankans visited Ukrainian war
@@ -984,6 +986,8 @@ The minister said that the cabinet has endorsed the National Digital Strategy 20
 
 [Data](articles/64599b52.json)
 
+[Extended Data](ext_articles/64599b52.ext.json)
+
 ---
 
 ### Mark Andrew and Anura Dissanayake met
@@ -1266,6 +1270,8 @@ A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May9/2
 
 [Data](articles/4a9b633f.json)
 
+[Extended Data](ext_articles/4a9b633f.ext.json)
+
 ---
 
 ### Diana gets to mouth
@@ -1427,6 +1433,8 @@ There was a net foreign inflow after weeks, with the market registering 370 mill
 ◼️
 
 [Data](articles/adc1de12.json)
+
+[Extended Data](ext_articles/adc1de12.ext.json)
 
 ---
 

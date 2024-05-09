@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 19:03:25**
+As of **2024-05-09 19:18:25**
 
 ## Newspaper Stats
 
-*Scraped **23,000** Articles*
+*Scraped **23,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,71 @@ tamilmirrorlk | 2,692
 adaderanalk | 2,698
 virakesarilk | 3,420
 dailymirrorlk | 3,611
-adaderanasinhalalk | 3,682
+adaderanasinhalalk | 3,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,995 (100.0%) of 23,000 articles have been extended.
+23,000 (100.0%) of 23,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### හෙට පාර්ලිමේන්තුවට ගෙනඑන පනත් කෙටුම්පත ගැන පැහැදිලි කරයි
+### විස්සයි 20 ලෝක කුසලානයට යන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය මෙන්න
+
+*2024-05-09 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196449) · `si`
+
+එළඹෙන විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා සංචිතය ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් අද (09) නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/a821866a.json)
+
+---
+
+### Explains the Bill to be brought to parliament tomorrow
 
 *2024-05-09 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196448) · `si`
 
-විදුලි සංදේශ නියාමන පනත් සංශෝධන කෙටුම්පත හෙට (10) දිනයේ දී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පවසයි.
+Tomorrow, the Telecommunication Regulatory Bill, a 28-year amendment to the Telecommunications Regulatory Act, will be presented to Parliament. Minister Kanaka Herath also announced the drafting of the National Cyber Security Act in May.
 
-වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනය කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පත මෙලෙස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+🟩
+
+Minister of Technology Kanaka Herath says that the Telecommunication Regulatory Bill will be presented to Parliament tomorrow (10).
+
+The revised Bill to amend the Telecommunications Regulatory Act after 28 years is to be presented to Parliament.
 
 අමාත්‍යවරයා මෙම අදහස් පළ කර සිටියේ ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
 
-ජාතික සයිබර් ආරක්ෂණ පනත ද මැයි මාසයේදී කෙටුම්පත් කිරීමට සැලසුම් කර ඇති බව රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා වැඩිදුරටත් සඳහන් කළේය.
+Minister of State Kanaka Herath added that the National Cyber Security Act also drafted in May.
 
 ◼️
 
 [Data](articles/75d092c2.json)
 
+[Extended Data](ext_articles/75d092c2.ext.json)
+
 ---
 
-### ජනපතිවරණය සැප් 17 හා ඔක් 16 අතර
+### Presidential election between 17 and October 16
 
 *2024-05-09 18:40:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-17-හා-ඔක්-16-අතර/11-409532) · `si`
 
-ජනාධිපතිවරයා තොරපත් කර ගැනීම පිළිබඳ පනතේ දැක්වෙන විධිවිධානවලට යටත්ව ජනාධිපතිවරණයේ ඡන්ද විමසීම  සඳහා නාමයෝජනා  කැඳවිම නියමිතකාල සීමාව තුළදී සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+The Elections Commission has announced that the presidential election will take place between September 17 and October 16, 2024, based on the powers vested in the Commission.
+
+🟩
+
+The Elections Commission states that the call for the election of the presidential election is subject to the arrangements of the President of the President.
 
 ඡන්ද විමසීම පැවැත් වීම සඳහා  දින නියම කිරීමට  කොමිෂන් සභාවට පැවරී ඇති බලතල  අනුව  2024 ජනාධිපතිවරණයේ ඡන්ද විමසීම සැප්තැම්බර් 17 වැනිදා සහ ඔක්තෝබර් 16 වැනිදා අතර කාලය තුළ පවත්වන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි
 
 ◼️
 
 [Data](articles/0363e3db.json)
+
+[Extended Data](ext_articles/0363e3db.ext.json)
 
 ---
 
@@ -130,25 +154,31 @@ The current police DIG is capable of conducting investigations to identify the s
 
 ---
 
-### මාර්ක් ඇන්ඩෘ සහ අනුර දිසානායක අතර හමුවක්
+### Mark Andrew and Anura Dissanayake met
 
 *2024-05-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196447) · `si`
 
-එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නේවාසික සම්බන්ධීකාරක මාර්ක් ඇන්ඩෘ ෆෙන්ච් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදුවිය.
+Mark Andrew Fench, Sri Lanka's Resident Coordinator, met with Anura Kumara Dissanayake, leader of the National Power, at the JVP Head Office. The meeting, also attended by Patrick Makartha of the UN Peace and Development and Vijitha Herath of the National Power, focused on Sri Lanka's human rights, unity, and reconciliation. They discussed a code of ethics for future elections, emphasizing the importance of a culture based on ethics from the start. The proposals were fully supported.
 
-ඒ, අද (09) පස්වරුවේ ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේදී ය.
+🟩
 
-මෙම හමුව සඳහා එක්සත් ජාතීන්ගේ සාමය සහ සංවර්ධනය පිළිබඳ උපදේශක පැට්‍රික් මැකාතී මහතා, සාමය සහ සංවර්ධනය පිළිබඳ විශ්ලේෂක නෙත්මිනී මැදවල මහත්මිය සහ ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා එක්විය.
+A meeting between Sri Lanka Resident Coordinator Mark Andrew Fench and Leader of the National Power Anura Kumara Dissanayake.
 
-මෙම හමුවේදී ශ්‍රී ලංකාවේ වත්මන් මානව හිමිකම් තත්ත්වය, සමගිය සහ ප්‍රතිසන්ධාන ක්‍රියාවලිය පිළිබඳව දෙපාර්ශ්වය අතර දීර්ඝ ලෙස අදහස් හුවමාරු වී තිබේ.
+That was at the Head Office of the JVP this afternoon.
 
-විශේෂයෙන් ශ්‍රී ලංකාවේ ප්‍රතිසන්ධාන ක්‍රියාවලිය සමීපව නිරීක්ෂණය කරන බව පෙන්වා දුන් එක්සත් ජාතීන්ගේ සංවිධානයේ නියෝජිතයන් ඉදිරි මැතිවරණ ක්‍රියාවලිය තුළ දේශපාලන පක්ෂ විසින් අනුගමනය කළ යුතු ආචාරධර්ම පද්ධතියක් පිළිබඳවද අවධානය යොමු කර ඇත.
+Patrick Makarthai, Advisory Peace and Development of the United Nations Peace and Development Patrick Makartha, and the National Executive Councilor Vijitha Herath of the National Power and National Power.
 
-මෙහිදී තම දේශපාලන සංස්කෘතිය, ආරම්භයේ සිටම ආචාරධර්ම පද්ධතියක් පදනම් වී ඇති බව අවධාරණය කළ ජාතික ජන බලවේගය එ.ජා. නියෝජිතයින් විසින් ඉදිරිපත් කරන ලද යෝජනාවලට තම පූර්ණ සහාය හිමි වන බව ප්‍රකාශ කර තිබේ.
+The meeting has been exchanged length with the human rights situation, unity and reconciliation process in Sri Lanka.
+
+The United Nations Representatives of the United Nations who have powdled the reconciliation process in particular is also also focused on a code of ethics to be followed by political parties in the future election process.
+
+The national culture emphasized that the political culture emphasized that it is based on a code of ethics from the beginning. The proposals made by representatives have been fully supported.
 
 ◼️
 
 [Data](articles/892a20d9.json)
+
+[Extended Data](ext_articles/892a20d9.ext.json)
 
 ---
 
@@ -212,23 +242,29 @@ The CID apprehended Dr. Gunasekara in connection with the procurement of substan
 
 ---
 
-### NMRA හිටපු CEO රිමාන්ඩ්
+### NMRA former CEO remanded
 
 *2024-05-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196446) · `si`
 
-ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව එළඹෙන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Dr. Vijith Gunasekera, former CEO of the National Drug Regulatory Authority, was arrested and remanded until the 20th after a lengthy interrogation about questionable Human Emiyankulin antibodies.
 
-ඔහුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීම සඳහා අද පෙරවරුවේ රැගෙනවිත් තිබුණි.
+🟩
 
-ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව ඊයේ (08) අත්අඩංගුවට ගැනුණි.
+The former Chief Executive Officer of the National Drug Regulatory Authority has been remanded till the 20th.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ට පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ය.
+He was produced before the Maligakanda Magistrate this morning.
 
-ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+Former CEO of the National Drug Regulatory Authority, Dr. Vijith Gunasekera was arrested yesterday (08).
+
+The Criminal Investigation Department has given a statement for nearly 10 hours.
+
+He made a statement to the Criminal Investigation Department regarding the questionable Human Emiyankulin antibodies.
 
 ◼️
 
 [Data](articles/2c4a4fec.json)
+
+[Extended Data](ext_articles/2c4a4fec.ext.json)
 
 ---
 
@@ -1176,21 +1212,31 @@ He said the journalist responded to a journalist who was spent on the darkener..
 
 ---
 
-### ගංජා සැකකරුගෙන් ගංජා ඔතා පානය කළ පොලිසියේ පහකට වැඩ වරදියි
+### Five police station sins from cannabis suspect
 
 *2024-05-09 14:23:40* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-සැකකරුගෙන්-ගංජා-ඔතා-පානය-කළ පොලිසියේ-පහකට-වැඩ-වරදියි/11-409525) · `si`
 
-යුක්තියේ මෙහෙයුමේදී ගංජා සමග අත්අඩංගුවට ගත්  සැකකරුවෙකු ලවා ගංජා ඔතාගෙන පානය කළ බව කියන බෙලිඅත්ත පොලිසියේ  පොලිස් නිලධාරින් පස්දෙනකුගේ රාජකාරී වැඩ තහනමට ලක් කිරීමට තංගල්ල ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා විසින් පියවර ගෙන ඇතැයි පොලිස් මූලස්ථානයේ ජ්‍යෙෂ්ඨ පොලිස් නිලධාරියෙකු පැවසීය.
+Five police officers, including two sergeants and two constables, were suspended for possessing cannabis. They were among 50 officers arrested for drug possession. The police recovered 280 milligrams of marijuana from the suspects. The suspension is a preliminary measure pending further investigation.
 
-සිර මැදිරිය තුළ රඳවා සිටි සැකකරු සන්තකයේ තිබී  ගංජා මිලිග්‍රෑම් 280 ක් හා ලයිටරයක්ද පොලිසිය මගින් සොයාගෙන ඇත.
+🟩
 
-එලෙස වැඩ තහනමට ලක් කර ඇත්තේ පොලිස් සැරයන්වරු තිදෙනෙකුගේ සහ කොස්තාපල්වරුන් දෙදෙනකුගේය
+A senior police officer of the Police Headquarters said that five police officers arrested by the Beliatta police officers who were arrested with cannabis during the militant of the Justice of Justice have been suspended.
 
-ගංජා ග්‍රෑම් පනහක් සමග අත්අඩංගුවට ගත් සැකකරුවෙකු  බෙලි ඇත්ත පොලිසියේ  අංක  2 සිරමැදියේ රඳවා සිටියදී වැඩ තහනමට ලක්වූ සැරයන්වරුන් තිදෙනා සහ කොස්තාපල්වරුන් දෙදෙනා  ගංජා සුරුට්ටු තුන බැගින් ඔතාගෙන පානය කර ඇති බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The police also recovered 280 milligrams of marijuana in possession of the suspect in the prison.
 
-...
+The suspension has been suspended for two Police Sergeants and two Constables
+
+Police investigations have revealed that a suspect arrested with fifty policemen between 50 grams of cannabis.
+
+A investigation by the Assistant Superintendent of Police Tangalle District is revealed by an investigation by the National Police Commission on July 30, 2023 by the National Police Commission on anti-LTTE and discratic behavior.The senior police officer said that it was banned as a preliminary discipline in accordance with the terms of the government.
+
+Tangalle Senior Superintendent of Police Kayarathiratne has issued the order issued by the suspension
+
+◼️
 
 [Data](articles/c06f9d4a.json)
+
+[Extended Data](ext_articles/c06f9d4a.ext.json)
 
 ---
 
@@ -2255,25 +2301,5 @@ Subsequent investigations have uncovered that the suspect had smuggled the cigar
 [Data](articles/5338581c.json)
 
 [Extended Data](ext_articles/5338581c.ext.json)
-
----
-
-### Sri Lanka builds up Navy capacity to handle foreign research ships during moratorium: FM
-
-*2024-05-09 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-builds-up-navy-capacity-to-handle-foreign-research-ships-during-moratorium-fm-162187/) · `en`
-
-ECONOMYNEXT – Sri Lanka has already started to build the capacity of Navy in handling foreign research vessels during a one-year moratorium, Foreign Ministry Ali Sabry said.
-
-President Ranil Wickremesinghe’s government has temporarily halted foreign research ships after strong security concerns raised by neighbour India and the United States following the visit of two Chinese research vessels in 14 months.
-
-Sabry said Sri Lanka has banned foreign ships for research purpose though they have use the island nation’s ports for replenishments and crew changes.
-
-“What we basically say is not a ban, but a moratorium for a year that until we expand our capacity and build our capacity to understand what is necessary, for which we have appointed a committee. We will have a temporary pause for this particular year for all marine research activity,” he said at a media briefing on Wednesday.
-
-...
-
-[Data](articles/2105ba68.json)
-
-[Extended Data](ext_articles/2105ba68.ext.json)
 
 ---

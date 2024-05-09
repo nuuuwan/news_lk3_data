@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 22:50:55**
+As of **2024-05-09 23:03:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,034 (100.0%) of 23,035 articles have been extended.
+23,035 (100.0%) of 23,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ VIASL President Prasad Priyanga told the Daily Mirror that this decision was tak
 ...
 
 [Data](articles/f7f1c7b0.json)
+
+[Extended Data](ext_articles/f7f1c7b0.ext.json)
 
 ---
 

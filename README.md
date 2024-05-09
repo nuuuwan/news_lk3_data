@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 00:03:44**
+As of **2024-05-10 00:18:11**
 
 ## Newspaper Stats
 
-*Scraped **23,041** Articles*
+*Scraped **23,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,330
 dailyftlk | 1,331
-adalk | 1,959
+adalk | 1,960
 tamilmirrorlk | 2,694
 adaderanalk | 2,702
 virakesarilk | 3,424
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,041 (100.0%) of 23,041 articles have been extended.
+23,041 (100.0%) of 23,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -323,6 +323,22 @@ Despite the legal and personal challenges she faces, Gamage pledged her ongoing 
 [Data](articles/c3f392ca.json)
 
 [Extended Data](ext_articles/c3f392ca.ext.json)
+
+---
+
+### මිනිස් පරිභෝනයට නුසුදුස් ආහාර විශාල තොගයක් කදාන නිවසකින් සොයා ගනියි
+
+*2024-05-09 21:15:34* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්-පරිභෝනයට-නුසුදුස්-ආහාර-විශාල-තොගයක්-කදාන-නිවසකින්-සොයා-ගනියි/11-409544) · `si`
+
+මිනිස් පරිභෝජනයට නුසුදුසු නරක් වී ගිය ආහාර ද්‍රව්‍ය විශාල ප්‍රමාණයක් කදාණ පොලිස් වසමේ පියෝ මාවතේ නිවසක ගබඩා කර තිබියදී ජාඇල මහජන සෞඛ්‍ය කාර්යාලය ට අයත් නිලධාරීන් පිරිසක් විසින් 09 දින සවස අත් අඩංගුවට ගෙන ඇති බව පොලිසිය පවසයි.
+
+මෙම මිනිස් පරිභෝජනයට නුසුදුසු ආහාර තොගය ඉකුත් 07 දින කොළඹ වරායේ සිට මෙම ස්ථානය ට ගෙනවිත් තිබූ බවට අනාවරණය වන්නේ යැයි ද පොලිසිය පවසයි.
+
+විදේශ ගත පුද්ගලයකු අයත් මෙම නිවසේ භාරකරු ලෙස සිටින පුද්ගලයකු විසින් මෙම මිනිස් පාරිභෝජනය ට ගෙන එන්නට ඇතැයි සැක කරයි. ජාඇල මහජන සෞඛ්‍ය පරීක්ෂක කාර්යාලය ට අනුයුක්ත එස්. ටී. පී. චාමික යන නිලධාරියා විසින් 10 දින වැලිසර මහෙස්‌ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමට අල කිලෝ 1769ක්,ලූනු කිලෝ 732ක්,කඩල කිලෝ 2600ක්,පරිප්පු කිලෝ 29ක්, හාල් කිලෝ 20ක්, කහ කිලෝ 03ක්, උදු කිලෝ 150ක් මූදෘ තබා ඇත. එක් සැකකරුවෙකුද අධිකරණය ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b2e53c38.json)
 
 ---
 
@@ -2289,29 +2305,5 @@ Issuing an announcement today (09), the Election Commission also said that by vi
 [Data](articles/8947637a.json)
 
 [Extended Data](ext_articles/8947637a.ext.json)
-
----
-
-### Sri Lanka legal alcohol sales down 19-pct in 2023
-
-*2024-05-09 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-legal-alcohol-sales-down-19-pct-in-2023-162302/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s legal alcohol sales were down 19 percent in 2023 amid an economic crisis and tax hikes, State Minister Ranjith Siyambalapitiya said.
-
-He said unlike other countries there is no link between alcohol consumption and legal outlets since there was illegal alcohol everywhere and especially in areas with no legal outlets also.
-
-“Alcohol consumption fell by 19 percent from 2022 to 2023, the year the opposition pointed out the government increased the issuing of liquor permits,” Siyambalapitiya said in response to a question.
-
-“In 2022 43.3 million litres of alcohol were produced. In 2023 it was 35.1 million litres. This is a drop of 8.2 percent.”
-
-The government issued 5,730 liquor licenses under 30 categories by January 2024; an increase of 214 from 5,516 in January 2023, Siyambalapitiya said in response to an opposition question.
-
-“Of the 214 alcohol licenses granted, 147 are for the tourism industry related parties.”
-
-...
-
-[Data](articles/d63e789f.json)
-
-[Extended Data](ext_articles/d63e789f.ext.json)
 
 ---

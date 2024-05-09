@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 11:33:54**
+As of **2024-05-09 11:53:07**
 
 ## Newspaper Stats
 
-*Scraped **22,901** Articles*
+*Scraped **22,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,119 @@ islandlk | 1,243
 economynextcom | 1,320
 dailyftlk | 1,331
 adalk | 1,934
-adaderanalk | 2,683
-tamilmirrorlk | 2,684
+tamilmirrorlk | 2,685
+adaderanalk | 2,685
 virakesarilk | 3,401
 dailymirrorlk | 3,599
-adaderanasinhalalk | 3,664
+adaderanasinhalalk | 3,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,897 (100.0%) of 22,901 articles have been extended.
+22,901 (100.0%) of 22,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### ’’குஷ்’’ ஷை உருட்டிவந்த நடன கலைஞர் கைது
+### திறந்து வைத்து தூங்கிய ஆசிரியையை பாலியல் பலாத்காரம்
+
+*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியையை-பாலியல்-பலாத்காரம்/175-337017) · `ta`
+
+சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். எனினும், தவிர்க்க முடியாத காரணத்தால் திறந்து வைக்கவே வேண்டும்.
+
+வீட்டில், கதவு, ஜன்னல்கள் திறந்திருப்பதை அவதானிக்கும் கள்வர்கள் கைவரிசையை காண்பித்துவிடுகின்றனர். எனினும், சென்னையில் பாலியல் பலாத்கார சம்பவம் இடம்பெற்றுள்ளது.
+
+சென்னை கோயம்பேடு பகுதியில் வசித்து வரும் 31 வயதுடைய இளம்பெண் ஒருவர் தனியார் பள்ளியில் ஆசிரியையாக பணிபுரிந்து வருகிறார். இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். இவரது கணவர் ஆட்டோ ஓட்டி பிழைப்பு நடத்தி வருகிறார்.
+
+இந்த நிலையில் இவரது கணவர் இரவு நேரத்தில் ஆட்டோ ஓட்ட வெளியே சென்று விடுவதால் இளம்பெண் வீட்டில் மகள்களுடன் இரவில் தனியாக இருந்து வந்துள்ளார். செவ்வாய்க்கிழமை (07)  இரவு வெயிலின் தாக்கம் அதிகமாக இருந்ததால் காற்றுக்காக கதவை சற்று திறந்து வைத்து தூங்கியதாக கூறப்படுகிறது.
+
+...
+
+[Data](articles/68b82415.json)
+
+---
+
+### Election Commission informed of vacant MP seat in Parliament
+
+*2024-05-09 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99101/election-commission-informed-of-vacant-mp-seat-in-parliament-) · `en`
+
+The Secretary-General of Parliament has informed the Election Commission that a Parliamentary seat in the Ninth Parliament has become vacant from 08 May 2024, due to the cancellation of parliamentary seat of Member of Parliament Diana Gamage.
+
+In a press release, the Communication Department of Parliament said this was formally conveyed to the Chairman of the Election Commission in writing, pursuant to Section 64(1) of Parliamentary Elections Act No.01 of 1981.
+
+The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
+
+Accordingly, delivering its verdict, the three-judge Supreme Court bench decided that Gamage is not eligible to hold the position of Member of Parliament as she holds dual citizenship.
+
+Meanwhile, former Member of Parliament Mujibur Rahman of the Samagi Jana Balawegaya (SJB) is to be nominated to fill the vacant parliamentary seat, according to Opposition Leader Sajith Premadasa.
+
+◼️
+
+[Data](articles/a53fb947.json)
+
+---
+
+### New circular issued on leave approval for government employees
+
+*2024-05-09 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99100/new-circular-issued-on-leave-approval-for-government-employees) · `en`
+
+A new circular has been issued regarding the leave approval of government officials who have left the country during the COVID-19 pandemic and failed to return due to the pandemic situation.
+
+The circular, issued by the Secretary of Public Administration, Home Affairs, Provincial Councils, and Local Government, outlines the procedures for handling the leave of officials who were unable to report back to work on due dates as a result of the pandemic.
+
+It has instructed the Secretaries to the Ministries, Provincial Chief Secretaries, and Department Heads on arrangements to be followed in approving unpaid and paid leave for government officials who failed to report back on or before the scheduled date due to COVID-19, according to the Establishment Code.
+
+Furthermore, the Secretary of the Ministry of Public Administration has ordered the issuance of resignation notices for all government officials who have not reported to work without formal leave approval.
+
+◼️
+
+[Data](articles/2838e8d2.json)
+
+---
+
+### NMRA හිටපු CEO අධිකරණය ට
+
+*2024-05-09 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196429) · `si`
+
+ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව අධිකරණය වෙත රැගෙන ආ බව අප වාර්තාකරු පවසයි.
+
+අප වාර්තාකරු පැවසුවේ ඔහුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට රැගෙන ආ බවයි.
+
+ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව ඊයේ (08) අත්අඩංගුවට ගැනුණි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ට පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ය.
+
+ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+
+◼️
+
+[Data](articles/9bda210a.json)
+
+---
+
+### Dancer arrested for rolling shy rolling
 
 *2024-05-09 11:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷை-உருட்டிவந்த-நடன-கலைஞர்-கைது/175-337016) · `ta`
 
-ஐந்து மில்லியன் ரூபாவிற்கும் அதிகமான பெறுமதியான "குஷ்" என்ற போதை இலங்கைக்கு கொண்டு வந்த நபரை கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவு அதிகாரிகள் கைது செய்துள்ளனர்.
+A 32-year-old club dancer from Homagama was arrested at Katunayake airport for smuggling 5.278 kg of cannabis hidden in his suitcase, arriving from Bangkok on an Air Asia flight.
 
-ஹோமாகம பிரதேசத்தில் வசிக்கும் 32 வயதுடைய கிளப் நடனக் கலைஞரான இவர் தனது சூட்கேஸில் மறைத்து வைத்து இந்த "குஷ்"  இலங்கைக்கு கொண்டு வந்துள்ளார்.
+🟩
 
-05 கிலோ 278 கிராம் எடையுடைய இந்த "குஷ்" கஞ்சா 36 தனித்தனியாக பொதி செய்யப்பட்ட பொதியில்  அடைக்கப்பட்டிருந்தது.
+Katunayake airport police officers have arrested a man who brought the "Kush" drug worth more than five million rupees.
 
-தாய்லாந்தின் பாங்காக்கில் இருந்து எயார் ஏசியா விமானம் FD-140 இல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+The 32 -year -old club dancer living in Homagama area has brought this "Kush" to Sri Lanka with hiding in his suitcase.
+
+The "Kush" cannabis weighing 05 kg 278 grams of cannabis 36 was covered in a separate package.
+
+Air Asia flight from Thailand's Bangkok arrived at the Katunayake airport in FD-140.
 
 ◼️
 
 [Data](articles/ed22319e.json)
+
+[Extended Data](ext_articles/ed22319e.ext.json)
 
 ---
 
@@ -68,21 +150,29 @@ The Police Narcotics Bureau is conducting investigations into the incident.
 
 [Data](articles/d03cd33b.json)
 
+[Extended Data](ext_articles/d03cd33b.ext.json)
+
 ---
 
-### ඩයනාගෙන් පුරප්පාඩු වූ අසුන ගැන මැතිවරණ කොමිසමට දැනුම්දෙයි
+### Dianey does not inform the election commission on vacant seat
 
 *2024-05-09 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196428) · `si`
 
-ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුර‍ය අහෝසි වීම හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම් දී තිබේ.
+The Parliament notified the Elections Commission about a vacant seat due to Mrs. Dianey Gamage's abolition. Kushani Rohanajera and General Secretary Kushani Rohana were informed by Diyain Gamage, a National List MP, under Section 64 (1) of the Parliament Election Act No. 1 of 1981.
 
-සමගි ජන බලවේගයේ ජාතික ලැයිස්තුපාර්ලිමේන්තු මන්ත්‍රී ඩයනා ගමගේ මහත්මියගේ  පාර්ලිමේන්තු මන්ත්‍රී ධුරය 2024 මැයි 08 වැනි දින සිට බල පැවැත්වෙන පරිදි අහෝසි වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තු, මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+🟩
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම්දීම සිදුකර තිබේ.
+The Parliament has informed the Elections Commission that there is a vacancy of a parliamentary parliamentary parliamentary seat due to the abolition of Mrs. Dianey Gamage.
+
+Parliamentarian Kushani Rohanajera, General Secretary Kushani Rohana, has been informed by the National List of Parliamentary Member of Parliament Diyain Gamage..
+
+The notice has been made in terms of Section 64 (1) of the Parliament Election Act No. 1 of 1981.
 
 ◼️
 
 [Data](articles/aca99959.json)
+
+[Extended Data](ext_articles/aca99959.ext.json)
 
 ---
 
@@ -148,29 +238,35 @@ Sabry said Sri Lanka has banned foreign ships for research purpose though they h
 
 ---
 
-### විශ්‍රාම ගැනීම ගැන තීරණයක් නෑ -චමරි
+### No decision on retirement - Sameary
 
 *2024-05-09 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196427) · `si`
 
-තමා ක්‍රිකට් ක්‍රීඩාවෙන් විශ්‍රාම යන්නේද? නැත්ද? යන්න සම්බන්ධයෙන් කතා කිරීමට මෙය සුදුසු අවස්ථාව නොවන බව ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවසුවාය.
+Chamari Atapattu, Sri Lanka Women's Cricket Team captain, has not decided on retirement. She's focused on the team's goal for the 20th Women's T20 World Cup, expressing happiness at qualifying. The team recently won the 20th World Cup match in Dubai and is set to participate in three more tournaments before the Bangladesh event.
 
-එසේම ඒ සම්බන්ධයෙන් තමා තවමත් තීරණයක් ගෙන නොමැති බවත් ඇය කීවාය.
+🟩
 
-"සමහර විට වෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්. මම ඒ ගැන තවම තීරණය කර නැහැ..."
+Will he retire from cricket?Or aren't there?Chamari, Sri Lanka Women's Cricket Team, Atapattu said that this is not the right time to talk about.
 
-ඇය පවසන්නේ එළඹෙන 20යි 20 කාන්තා ක්‍රිකට් තරගාවලිය හොඳින් කිරීම කණ්ඩායමේ අරමුණ බවයි.
+She also said that he had not yet decided.
 
-එළඹෙන කාන්තා 20යි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබාගැනීමට හැකිවීම සම්බන්ධයෙන් තම කණ්ඩායම ඉතා සතුටට පත්වන බවද ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවසුවාය.
+"Maybe you may not be able to be. I haven't decided on it yet ... "
 
-පසුගියදා ඩුබායි හි පැවති 20යි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලැබීමේ තරගාවලිය ජය ගැනීමට ශ්‍රී ලංකා ක්‍රීඩිකාවෝ සමත් වුවෝය.
+She says that the team's goal is to make the 20th women's cricket tournament well.
 
-ජයග්‍රාහී ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම අද (09) උදෑසන මෙරටට පැමිණියේය.
+Chamari, Sri Lanka Women's cricket team, said he was very happy to qualify for the upcoming Women's T20 World Cup.
 
-බංග්ලාදේශයේදී පැවැත්වෙන 20යි 20 ලෝක කුසලාන තරගාවලියට පෙර ශ්‍රී ලංකා කාන්තා කණ්ඩායම තවත් තරගාවලි 3කට පමණ සහභාගී වීමට නියමිතය.
+Sri Lankan women won the 20th World Cup match in Dubai.
+
+The winning Sri Lanka women's cricket team arrived in Sri Lanka this morning (09).
+
+Sri Lanka women's women participate in about three more tournaments before Bangladesh's 20th World Cup.
 
 ◼️
 
 [Data](articles/627ddba4.json)
+
+[Extended Data](ext_articles/627ddba4.ext.json)
 
 ---
 
@@ -2181,79 +2277,5 @@ Dr. Gunasekara was apprehended by the CID in connection with the procurement of 
 [Data](articles/b8a76f5c.json)
 
 [Extended Data](ext_articles/b8a76f5c.ext.json)
-
----
-
-### NMRA former boss arrested
-
-*2024-05-08 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196410) · `si`
-
-The former CEO of the National Drug Regulatory Authority was arrested after nearly 10 hours of questioning by the Criminal Investigation Department regarding the Human Emiyanglobulubulin antibodies.
-
-🟩
-
-The former Chief Executive Officer of the National Drug Regulatory Authority has been arrested.
-
-He was arrested following a statement for nearly 10 hours after the CID.
-
-He made a statement to the CID regarding the questionable Human Emiyanglobulubulin antibodies.
-
-The Criminal Investigation Department is further investigations into the investigation.
-
-◼️
-
-[Data](articles/8382cdc5.json)
-
-[Extended Data](ext_articles/8382cdc5.ext.json)
-
----
-
-### Unilever Sri Lanka and Ministry of Agriculture & Plantation Industries sign MOU on sustainable tea production
-
-*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-and-ministry-of-agriculture-plantation-industries-sign-mou-on-sustainable-tea-production/) · `en`
-
-Ministry of Agriculture and Plantation Industries and Unilever Sri Lanka recently entered into a Memorandum of Understanding (MoU) to develop the country’s first national and globally accepted standard for sustainable tea production. This first-of-its-kind initiative signifies a shared commitment to propel the Sri Lankan tea industry towards a more sustainable and ethical future.
-
-The MoU signing ceremony was graced by Honourable Mahinda Amaraweera, Minister of Agriculture and Plantation Industries, Mr. B. L. A. J. Dharmakeerthi, Secretary, the Ministry of Agriculture and Plantation Industries, Chairman & Representatives of Sri Lanka Tea Board and other tea industry dignitaries.
-
-Unilever Sri Lanka’s ‘Ceytea’ factory is the largest supplier of black tea extract to the Global Pepsi-Lipton JV and its world-famous Iced Tea brands ‘Lipton’ and ‘Brisk’. The manufacturing site in ‘Agarapathana’ has been at the center stage of innovation and sustainability in value-added tea.
-
-...
-
-[Data](articles/06d6dc86.json)
-
-[Extended Data](ext_articles/06d6dc86.ext.json)
-
----
-
-### Thakral Group presents “The Future of Possible”: showcasing DJI’s technological innovation in Sri Lanka
-
-*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/thakral-group-presents-the-future-of-possible-showcasing-djis-technological-innovation-in-sri-lanka/) · `en`
-
-On April 30th, the Kingsbury Hotel in Colombo was abuzz with excitement as Thakral Group, the authorized distributor of DJI in Sri Lanka, unveiled “The Future of Possible.” This exclusive event was a testament to the relentless pursuit of innovation and progress in the country.
-
-The event offered attendees an immersive experience into DJI’s latest offerings., spanning consumer electronics, enterprise solutions, agricultural technology, and delivery systems. From high-performance drones to specialized solutions tailored for diverse industries, DJI left a lasting impression on all who experienced their cutting-edge offerings.
-
-...
-
-[Data](articles/259581fa.json)
-
-[Extended Data](ext_articles/259581fa.ext.json)
-
----
-
-### CIPM Gold Medals and scholarships for top performers at Horizon and SLIIT
-
-*2024-05-08 20:53:00* · [`islandlk`](http://island.lk/cipm-gold-medals-and-scholarships-for-top-performers-at-horizon-and-sliit/) · `en`
-
-CIPM Sri Lanka—the Nation’s leader in human resource management—awarded gold medals and scholarships to the top-performing students at the Horizon Campus and SLIIT at their annual convocations per the Memorandum of Understanding terms with each respective institution.
-
-“CIPM Sri Lanka has forged significant partnerships with esteemed institutions of higher learning, including Horizon Campus and SLIIT. These collaborations aim to inspire students specializing in HRM/HCM to excel in the field of human resource management, one of the world’s fastest-growing management careers. As we celebrate the achievements of the gold medal and scholarship recipients, we reaffirm our commitment to promoting HRM as a lucrative and fulfilling career choice for our youth,” stated Ken Vijayakumar, President of CIPM Sri Lanka.
-
-...
-
-[Data](articles/691bc1d4.json)
-
-[Extended Data](ext_articles/691bc1d4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 18:34:04**
+As of **2024-05-09 18:52:43**
 
 ## Newspaper Stats
 
-*Scraped **22,992** Articles*
+*Scraped **22,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,949
-tamilmirrorlk | 2,689
+tamilmirrorlk | 2,692
 adaderanalk | 2,698
 virakesarilk | 3,420
 dailymirrorlk | 3,611
@@ -26,25 +26,77 @@ adaderanasinhalalk | 3,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,988 (100.0%) of 22,992 articles have been extended.
+22,992 (100.0%) of 22,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### வரலாறு : பிறந்த மண்ணை பார்க்க வந்த எம்.ஜி.ஆர்! : 1965 ஒக்டோபர் 22 வீரகேசரியில்...
+### டாக்டர் விஜித் குணசேகரவுக்கு விளக்கமறியல்
+
+*2024-05-09 18:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்டர்-விஜித்-குணசேகரவுக்கு-விளக்கமறியல்/175-337044) · `ta`
+
+தரமற்ற தடுப்பூசிகளை அரச வைத்தியசாலைகளுக்கு வழங்கி பல கோடி ரூபாய் மோசடி செய்தமை மற்றும் நோயாளிகளின் உயிருக்கு பாதுகாப்பற்ற நிலைமையை ஏற்படுத்தியமை தொடர்பில் கைது செய்யப்பட்ட தேசிய மருந்து ஒழுங்குமுறை அதிகார சபையின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி டாக்டர் விஜித் குணசேகரவை 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4a5aad01.json)
+
+---
+
+### டயானா கமகேவின் அதிரடி அறிவிப்பு
+
+*2024-05-09 18:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேவின்-அதிரடி-அறிவிப்பு/175-337043) · `ta`
+
+நாட்டில் கடந்த சில நாட்களாக பேசுபொருளாக உள்ளார் பாராளுமன்ற உறுப்பினர் பதவியை இழந்த டயானா கமகே.
+
+இவர் இன்று (09) விசேட ஊடகவியலாளர் மாநாட்டிற்கு அழைப்பு விடுத்திருந்தார். இதில் கருத்து தெரிவித்த டயானா,
+
+"எனது அரசியல் பயணம் இத்துடன் நிற்காது. வெகு காலத்திற்குள் இந்த பாராளுமன்றம் கலைக்கப்படும். எதிர்காலத்தில் நான் கண்டிப்பாக அரசியலுக்கு வருவேன். நான் எப்போதும் ஜனாதிபதியை ஆதரிப்பேன். ரணில் விக்ரமசிங்க மற்றவர்கள் மறைந்திருந்த போது இந்த நாட்டைக் கைப்பற்றினார். நான் மீண்டும் பாராளுமன்றத்திற்கு வருவேன்" என்றார். R
+
+◼️
+
+[Data](articles/c18dad2e.json)
+
+---
+
+### 2 ஆண்டுகளாகியும் இன்னும் நட்டஈடு கிடைக்கவில்லை
+
+*2024-05-09 18:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ஆண்டுகளாகியும்-இன்னும்-நட்டஈடு-கிடைக்கவில்லை/175-337042) · `ta`
+
+இரண்டு வருடங்கள் கடந்துள்ள போதிலும், 2022 ஆம் ஆண்டு மே மாதம் 9 ஆம் திகதி அரகலய காலத்தில் பஸ்கள் அழிக்கப்பட்ட பஸ் உரிமையாளர்களுக்கு அரசாங்கத்திடம் இருந்து நட்டஈடு கிடைக்கவில்லை என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், அரகலய நிகழ்வின் போது 50 பஸ்கள் முழுமையாகவும், மேலும் 50 பஸ்கள் பகுதியளவிலும் சேதமடைந்துள்ளதாகவும், பஸ் உரிமையாளர்கள் சங்கம் என்ற வகையில் அரசாங்கத்திடம் பல தடவைகள் உதவி கோரியுள்ளதாகவும் தெரிவித்தார்.
+
+"பல பேருந்து உரிமையாளர்கள் தங்கள் பேருந்துகளை காப்பீட்டு நிறுவனங்களின் உதவியுடன் பழுது பார்த்தனர், ஆனால் குறைந்தது 30 பேருந்து உரிமையாளர்கள் தங்கள் பேருந்துகளை பழுதுபார்க்க வலிமை இல்லாதவர்கள் என்பதால் இன்னும் காத்திருக்கிறார்கள்" என்று அவர் கூறினார்.
+
+இந்த பயங்கரவாத தாக்குதல் தொடர்பில் பொலிஸ் திணைக்களமும் உரிய விசாரணைகளை மேற்கொள்ளவில்லை என விஜேரத்ன தெரிவித்துள்ளார். பேருந்துகளை அழித்தவர்களின் அடையாளத்தை பொலிஸ் வெளிப்படுத்தினால், அவர்கள் மீது சிவில் வழக்குப் பதிவு செய்து இழப்பீடு பெறலாம்.
+
+...
+
+[Data](articles/05fcbcb0.json)
+
+---
+
+### History: MGR came to see the soil of birth!: October 22, 1965 ...
 
 *2024-05-09 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183082) · `ta`
 
-தமிழகத்தின் முன்னாள் முதலமைச்சர் மறைந்த எம்.ஜி.ஆர். கண்டியில் பிறந்து, குழந்தையாக இந்தியாவுக்கு எடுத்துச் செல்லப்பட்ட பின்னர், முதல் முறையாக பிறந்த மண்ணை பார்க்க இலங்கைக்கு வருகை தந்தது 1965 ஒக்டோபர் 21ஆம் திகதியாகும்.
+MGR, former Tamil Nadu CM, visited Sri Lanka on October 21, 1965, to see his birthplace in Kandy. He held a press conference in Galle Face, where he announced plans to film in Eelam, as reported by Weerakesari magazine on October 22, 1965.
 
-வந்திறங்கிய அன்றைய தினமே மாலையில் காலிமுகத்திடலில் உள்ள ஹோட்டல் ஒன்றில் இடம்பெற்ற பத்திரிகையாளர் மாநாட்டில் எம்.ஜி.ஆர். பேசினார்.
+🟩
 
-எம்.ஜி.ஆர். மற்றும் சரோஜாதேவி வருகையின்போது எடுத்துக்கொண்ட புகைப்படத்தையும், மாநாட்டில் எம்.ஜி.ஆர் பேசிய விடயங்களையும், 1965 ஒக்டோபர் 22ஆம் திகதி வெளியான வீரகேசரி பத்திரிகை "ஈழத்தில் படமெடுக்க திட்டமிட்டுள்ளேன் : எம்.ஜி. ராமச்சந்திரன் அறிவிப்பு" என்ற தலைப்பில் இவ்வாறு பிரசுரித்திருந்தது.
+Former Chief Minister of Tamil Nadu. After being born in Kandy and taken to India as a child, it was October 21, 1965 to visit Sri Lanka to see the soil for the first time.
+
+MGR at a press conference held at a hotel in Galle Face that evening.. Speaking.
+
+MGR. And the photo taken by Sarojadevi and the MGR spoke at the conference, the Weerakesari magazine published on October 22, 1965, "I am planning to film in Eelam: MG. The announcement of Ramachandran's announcement was published.
 
 ◼️
 
 [Data](articles/2a7b9f7e.json)
+
+[Extended Data](ext_articles/2a7b9f7e.ext.json)
 
 ---
 
@@ -82,23 +134,31 @@ The CID apprehended Dr. Gunasekara in connection with the procurement of substan
 
 [Data](articles/6a30bee9.json)
 
+[Extended Data](ext_articles/6a30bee9.ext.json)
+
 ---
 
-### முல்லைத்தீவு மாவட்ட விசுவமடு மேட்டுப்பட்டித்தெரு கிராமத்தில் யானைகள் அட்டகாசம்!
+### Elephants Attakasam in Mullaitivu District
 
 *2024-05-09 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183081) · `ta`
 
-முல்லைத்தீவு - விசுவமடு மேட்டுப்பட்டித்தெரு கிராமத்தில் விவசாயி ஒருவரின் பயிர்களை யானைகள் அழிவுகளை ஏற்படுத்தியுள்ளது.
+In Mullaitivu's Viswamadu Mettupattiuru village, three elephants attacked at midnight on Wednesday, damaging crops and over 100 banana trees. Residents, facing ongoing losses from elephants, urge authorities to complete elephant fences and address their livelihood issues.
 
-குறித்த சம்பவம் புதன்கிழமை (08) நள்ளிரவு வேளை இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது. 03 யானைகள் தமது தோட்டத்தில் உட்புகுந்து அறுவடை செய்யும் தருவாயில் இருந்த வத்தகப்பழங்கள் மற்றும் 100ற்கும் மேற்பட்ட வாழை மரங்கள் என்பனவற்றை சேதமாக்கியுள்ளதென கவலை தெரிவித்துள்ளார்.
+🟩
 
-மேலும் குறித்த கிராமத்தில் நீண்டகாலமாக யானைகள் தமது வாழ்வாதாரங்களை அழித்து வருவதாகவும் யானை வேலிகள் போடப்படும் வேலைகள் பூர்த்தியாகாத நிலையில் உள்ளதாகவும் பிரதேச மக்கள் தெரிவிக்கின்றனர்.
+Mullaitivu - Viswamadu Mettupattiuru village has caused a farmer's crops.
 
-சம்பந்தபட்ட அதிகாரிகள் விரைந்து தமது பிரச்சனைக்கு தீர்வு பெற்று தருமாறு விவசாயிகள் கேட்டுள்ளனர்.
+The incident took place at midnight on Wednesday (08). He expressed concern that 03 elephants had damaged the harvest and more than 100 banana trees.
+
+The residents of the area say that the elephants have long been destroying their livelihoods in the village and the work of elephant fences is not completed.
+
+Farmers have asked the relevant authorities to rush and solve their problem.
 
 ◼️
 
 [Data](articles/2b39dc68.json)
+
+[Extended Data](ext_articles/2b39dc68.ext.json)
 
 ---
 
@@ -161,6 +221,8 @@ Further investigations regarding this arrest are being conducted by the Narcotic
 ◼️
 
 [Data](articles/7535232b.json)
+
+[Extended Data](ext_articles/7535232b.ext.json)
 
 ---
 
@@ -2233,77 +2295,5 @@ Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensu
 [Data](articles/e4b76e96.json)
 
 [Extended Data](ext_articles/e4b76e96.ext.json)
-
----
-
-### A non -citizen cannot contest the election
-
-*2024-05-09 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரஜை-அல்லாத-ஒருவர்-தேர்தலில்-போட்டியிட-முடியாது/175-337012) · `ta`
-
-Non-citizens can register political parties in Sri Lanka but cannot vote or contest elections. Former Election Commission Chairman Mahinda Deshapriya clarified this, noting Diana Kamage wasn't part of the United People's Power or the National Front, which was formed by Mangala Samaraweera and Sripati Suriyarachchi, not Mahinda Rajapaksa.
-
-🟩
-
-Former Chairman of the Election Commission Mahinda Deshapriya said yesterday that there is no legal ban on non -nationals to register a political party.
-
-"Sri Lanka's law only prevents a non -citizen election, while the law prohibits voting in non -citizens in the election," he told the Daily Mirror.
-
-He also said that former Minister of State Diana Kamage had not signed the United People's Power and he had never been the general secretary of our National Front.
-
-“Our National Front was formed by the late MPs Mangala Samaraweera and the late Sripati Suriyarachchi who broke the political alliance with former President Mahinda Rajapaksa.
-
-It is noteworthy that Diana Kamage's husband took over the post, while Ruwan Ferdinandas was the general secretary of Jathika Peramuna.
-
-◼️
-
-[Data](articles/b6f67ea5.json)
-
-[Extended Data](ext_articles/b6f67ea5.ext.json)
-
----
-
-### Sri Lanka slated to achieve 3 percent economic growth this year: President
-
-*2024-05-09 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-slated-to-achieve-3-percent-economic-growth-this-year-President/108-282226) · `en`
-
-Parliament, May 09 (Daily Mirror)- Sri Lanka is slated to achieve a three percent economic growth while inflation has dropped to 1.5 percent by going along on a challenging and correct path, President Ranil Wickremesinghe told Parliament today.
-
-“The Rupee has been stabilized against the dollar and stands at less than Rs. 300,” he said, making a review of the economy in Parliament.
-
-The President said the debt restructuring process is expected to be completed by the middle of this year.
-
-“The ultimate goal of the restructuring process is to push total debt services down to 95 percent of the GDP and to bring the foreign debt service to 4.5 percent,” he said.
-
-In a special statement in Parliament, the President said he assumed leadership of the country without any conditions, despite being a sole member of Parliament and cited his well-thought-out plan, extensive experience and international relations as the reasons for his confidence in the country's recovery from its challenges.
-
-◼️
-
-[Data](articles/04b2205d.json)
-
-[Extended Data](ext_articles/04b2205d.ext.json)
-
----
-
-### Announcement of assets worth 120 million rupees
-
-*2024-05-09 10:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/120-மில்லியன்-ரூபாய்-பெறுமதியான-சொத்துக்கள்-முடக்கம்/175-337011) · `ta`
-
-The Galle Criminal Investigation Division has seized assets worth 120 million rupees from a woman, including a four-storey building and land in Akmemana. The police are investigating the acquisition of these assets and plan to take legal action.
-
-🟩
-
-Police have taken steps to ban assets worth about 120 million rupees belonging to a woman in Galle.
-
-Her assets have been banned by the Galle Criminal Investigation Division as information about how these assets have been acquired.
-
-The four -storey building in the Galle Dadalla area consists of one and a half acres of tea and pepper land in Akmemana.
-
-Police say legal action will be taken in the future regarding these assets. Remble
-
-◼️
-
-[Data](articles/db9813a6.json)
-
-[Extended Data](ext_articles/db9813a6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 22:18:34**
+As of **2024-05-09 22:33:27**
 
 ## Newspaper Stats
 
-*Scraped **23,029** Articles*
+*Scraped **23,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,958
-tamilmirrorlk | 2,693
+tamilmirrorlk | 2,694
 adaderanalk | 2,701
 virakesarilk | 3,424
-dailymirrorlk | 3,620
-adaderanasinhalalk | 3,687
+dailymirrorlk | 3,621
+adaderanasinhalalk | 3,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,025 (100.0%) of 23,029 articles have been extended.
+23,029 (100.0%) of 23,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### உலகக் கிண்ண இலங்கைக் குழாமில் வெல்லலாகே
+
+*2024-05-09 22:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உலகக்-கிண்ண-இலங்கைக்-குழாமில்-வெல்லலாகே/44-337060) · `ta`
+
+சர்வதேச கிரிக்கெட் சபையின் இருபதுக்கு – 20 உலகக் கிண்ணத் தொடருக்கான இலங்கைக் குழாமில் டுனித் வெல்லலாகே இடம்பெற்றுள்ளார். வெல்லலாகே இருபதுக்கு – 20 சர்வதேசப் போட்டிகளில் இதுவரையில் விளையாடவில்லை என்பது குறிப்பிடத்தக்கது.
+
+இதேவேளை கமிந்து மென்டிஸ், நுவான் துஷார, தனஞ்சய டி சில்வா ஆகியோரும் குழாமில் இடம்பெற்றுள்ள நிலையில் துடுப்பாட்டவீரர்களான அவிஷ்க பெர்ணாண்டோ, குசல் பெரேரா மற்றும் வேகப்பந்துவீச்சாளரான பினுர பெர்ணாண்டோ குழாமில் இடம்பெறவில்லை.
+
+குழாம்: வனிடு ஹசரங்க (அணித்தலைவர்), சரித் அசலங்க (உப அணித்தலைவர்), குசல் மென்டிஸ், பதும் நிஸங்க, கமிந்து மென்டிஸ், சதீர சமரவிக்கிரம, அஞ்சலோ மத்தியூஸ், தசுன் ஷானக, தனஞ்சய டி சில்வா, மகேஷ் தீக்‌ஷன, டுனித் வெல்லலாகே, துஷ்மந்த சமீர, மதீஷ பத்திரண, நுவான் துஷார, டில்ஷான் மதுஷங்க.
+
+மேலதிக வீரர்கள்: அசித பெர்ணாண்டோ, விஜயகாந்த் வியாஸ்காந்த், பானுக ராஜபக்‌ஷ, ஜனித் லியனகே.
+
+◼️
+
+[Data](articles/6e4fa7e8.json)
+
+---
+
+### Former SL netball captain fails doping test
+
+*2024-05-09 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-SL-netball-captain-fails-doping-test/108-282266) · `en`
+
+May 9 (Daily Mirror) - Sri Lanka’s current national netball poolist and former captain Semini Alwis has been alleged to have used prohibited stimulants, according to a random test conducted by the Sri Lanka Anti Doping Agency (SLADA).
+
+Semini is a member of the national netball pool set up by the Netball Federation of Sri Lanka (NFSL) in preparation for the 13th Asian Netball Championship, which will be held from September 26 to October 6 in Saudi Arabia.
+
+The World Anti-Doping Agency (WADA) has officially informed Semini and the SLADA that the initial urine samples contained prohibited stimulants following a test conducted by the SLADA on March 21.
+
+This is the first instance that a Sri Lanka netball player has failed a drug test conducted by the SLADA and WADA.
+
+“We have received the initial report and will soon inquire from the relevant player about the prohibited stimulants before conducting an initial test,” SLADA Director General Dr. Shiromi Pilapitiya told the Daily Mirror today.
+
+...
+
+[Data](articles/9f5c50c2.json)
+
+---
+
+### තීරු බදු බලපත්‍ර මත වාහන ගෙන්වීමේදී සිදුවූ දේ ?
+
+*2024-05-09 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196457) · `si`
+
+සුඛෝපභෝගී වර්ගයේ වාහන 1,728ක් ආනයනය කිරීමේදී අඩු වටිනාකම් පෙන්වීම තුළින් බරපතළ රේගු වංචාවක් සිදුවී ඇති ආකාරයක් පෙනී යන හෙයින් ඒ සම්බන්ධයෙන් විමර්ශන සිදු කිරීම සඳහා අභියාචනාධිකරණය විසින් රේගු අධ්‍යක්ෂ ජනරාල්වරයාට අවසර ලබාදී තිබේ.
+
+ඒ, 2011 වසරේ සිට 2014 වසර දක්වා කාලසීමාව තුළ රජයේ නිලධාරින් වෙනුවෙන් නිකුත් කරන ලද තීරු බදු සහන බලපත්‍ර යටතේ ගෙන්වූ වාහන සම්බන්ධයෙනි.
+
+ශ්‍රී ලංකා රේගුව විසින් සිදු කරනු ලබන අදාළ විමර්ශනය අභියෝගයට ලක් කරමින් පුද්ගලික සමාගමක් විසින් ගොනු කළ රිට් පෙත්සමක් නිෂ්ප්‍රභ කරමින් අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතාගේ එකඟත්වය සහිතව අභියාචනාධිකරණ විනිසුරු ශෂී මහේන්ද්‍රන් මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+
+◼️
+
+[Data](articles/e75a6b91.json)
+
+---
+
+### පිරිමි දරුවෙක් සොයා මහරගම පොලීසියෙන් මෙහෙයුමක්
+
+*2024-05-09 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196456) · `si`
+
+පන්නිපිටිය ඇරැව්වල ප්‍රදේශයේ පදිංචි 15 හැවිරිදි පිරිමි දරුවෙකු දින 4ක සිට අතුරුදන්වී ඇති බවට වාර්තා වෙයි.
+
+මෙලෙස අතුරුදන්වී ඇත්තේ පන්නිපිටිය ,ඇරැව්වල ,කොස්ගහහේන ප්‍රදේශයේ පදිංචි 15 හැවිරිදි කලණ මිහිරංග නම් පිරිමි දරුවෙකි.
+
+මීට වසරකට පෙර හටගත් හදිසි රෝග තත්ත්වයක් හේතුවෙන් මව මියයෑමෙන් පසුව කලණ මෙම නිවසේ වාසය කර තිබුණේ සිය පියා සහ නැගණිය සමගය.
+
+කලණ ඔටිසම් රෝගයකින් පෙළුණු අතර කලණගේ පියාද රෝගී තත්ත්වයකින් කලක සිට පීඩා විඳිමින් සිටින අයෙකි.
+
+මෙවන් පසුබිමක, ඉකුත් 5 වනදා රාත්‍රියේ කලණගේ පියාගේ රෝග තත්ත්වය උත්සන්න වී තිබේ.
+
+එහිදී කලණගේ නැගණිය පියා රෝහල්ගත කිරීම සඳහා අසල්වාසී කාන්තාවක් සමග ගොස් ඇති අතර, නිවසේ සිට තිබුණේ කලණ පමණය.
+
+පියා රෝහල්ගත කිරීමෙන් පසුව ඔවුන් යළි නිවස වෙත පැමිණෙද්දී කලණ නිවසේ නොසිටි බැවින් ඥාතීන් සහ අසල්වාසීන් එක්වී ඔහු පිළිබඳ සොයාබලා තිබුණත් කිසිදු තොරතුරුක් ලැබී තිබුණේ නැත.
+
+මේ සම්බන්ධයෙන් මහරගම පොලිස් ස්ථානය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇති අතර ඒ අනුව පොලීසිය දරුවා සොයා විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/9746776b.json)
+
+---
 
 ### Two floating solar pilot projects implemented on Chandrika Wewa, Kiriibban Wewa
 
@@ -45,6 +125,8 @@ The two projects of 01 MW each on Chandrika Wewa in Embilipitiya and Kiriibban W
 ◼️
 
 [Data](articles/3b6540d1.json)
+
+[Extended Data](ext_articles/3b6540d1.ext.json)
 
 ---
 
@@ -63,6 +145,8 @@ The suspect, who is aged 25 years has come from Dubai and had arrived in the cou
 ◼️
 
 [Data](articles/1252fca5.json)
+
+[Extended Data](ext_articles/1252fca5.ext.json)
 
 ---
 
@@ -90,6 +174,22 @@ Earlier this year, Middlesex County Cricket Club - a tenant at the ground which 
 
 [Data](articles/af2c326c.json)
 
+[Extended Data](ext_articles/af2c326c.ext.json)
+
+---
+
+### සමගි ජන බලවේගයේ නීත්‍යානුකූල භාවය පැහැදිලි කරයි
+
+*2024-05-09 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196455) · `si`
+
+ශ්‍රී ලංකාවේ පුරවැසියෙක් නොවන කෙනෙක් දේශපාලන පක්ෂයක ලේකම්වරයෙක් ලෙස සිටිය හොත් නීතිමය තත්ත්වය කෙසේද ? යන ප්‍රශ්නයට මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා මෙලෙස පැහැදිලි කිරීමක් සිදු කළේය.
+
+"දේශපාලන පක්ෂවල නිලධාරීන් ශ්‍රී ලාංකික පුරවැසියන් ද යන්න පරීක්ෂා කිරීමට අවශ්‍යතාවයක් මැතිවරණ කොමිසමට ඇතිවෙලා නැහැ. ඒක අවශ්‍යයි කියලා නීතිමය සඳහනකුත් නැහැ. ඔය තත්ත්වය යටතේ ඩයනා ගමගේ මහත්මිය ලේකම් ධුරය දැරීම සමගි ජන බලවේගය පක්ෂය පිළිගැනීමේ නිත්‍යානුකූල භාවයට කිසිම බාධාවක් වෙනවා කියලා මම හිතන්නේ නැහැ."
+
+◼️
+
+[Data](articles/36d82cc8.json)
+
 ---
 
 ### Bill to amend Telecom Regulatory Act to be presented in Parliament tomorrow
@@ -105,6 +205,8 @@ The cabinet approval has endorsed the National Digital Strategy 2030, featuring 
 ...
 
 [Data](articles/751a9ddd.json)
+
+[Extended Data](ext_articles/751a9ddd.ext.json)
 
 ---
 
@@ -2181,109 +2283,5 @@ The police say that the shooting of his party had been shot dead at Ahungalla la
 [Data](articles/0147cebd.json)
 
 [Extended Data](ext_articles/0147cebd.ext.json)
-
----
-
-### Court imposes travel ban on Diana Gamage
-
-*2024-05-09 13:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-imposes-travel-ban-on-Diana-Gamage/108-282247) · `en`
-
-Colombo, May 9 (Daily Mirror) - The Colombo Chief Magistrate’s Court today issued an order preventing State Minister Diana Gamage from leaving the country.
-
-Colombo Chief Magistrate Thilina Gamage made this order in connection with a magisterial inquiry filed against her for allegedly committing offences under the Immigrants and Emigrants Act.
-
-◼️
-
-[Data](articles/95d1673f.json)
-
-[Extended Data](ext_articles/95d1673f.ext.json)
-
----
-
-### 37 liquor permits issued this year, 474 more can be given: Siyambalapitiya
-
-*2024-05-09 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/37-liquor-permits-issued-this-year-474-more-can-be-given-Siyambalapitiya/108-282246) · `en`
-
-Parliament, May 09 (Daily Mirror)- A total of 37 new liquor permits (FL4) were issued by the Excise Department during the first four months of this year, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-He told Parliament that 16 out of the 37 were issued to super markets.
-
-Responding to a question by MP Jayantha Samaraweera, the Minister said 214 liquor permits were issued in 2023 and 147 out of that were given to the tourism sector and added that according to the population ratio, 474 more liquor permits can be issued.
-
-"The number of FL4 liquor permits are decided according to the population. There should be some 1,578 liquor permits (FL4) in the country by 2024. So, 474 more permits can be given," he said.
-
-MP Jayantha Samaraweera said there was a public outcry that liquor permits have been given to MPs including some opposition MPs, and urged the Minister to reveal the MPs who have obtained the permits.
-
-...
-
-[Data](articles/e0740914.json)
-
-[Extended Data](ext_articles/e0740914.ext.json)
-
----
-
-### முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு வெளிநாட்டுப் பயணத்தடை
-
-*2024-05-09 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183049) · `ta`
-
-A court has banned former Minister Diana Gamage from traveling abroad. The Colombo Magistrate's Court issued this order on Thursday, considering the case's dual citizenship aspect. Copies of the order were sent to the Immigration and Emigration Controller General and the National Intelligence Director's Office.
-
-🟩
-
-முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு வெளிநாடு செல்வதற்கு நீதிமன்றம்  தடை விதித்துள்ளது.
-
-கொழும்பு நீதவான் நீதிமன்றம் இன்று  வியாழக்கிழமை (09) டயானா கமகேவுக்கான இந்த வெளிநாட்டு பயணத்தடையை விதித்தது.
-
-Colombo Magistrate Thilina Kamage has issued the order, considering the request of the petitioner's lawyers in the case of dual citizenship.
-
-It is noteworthy that copies of this order have been sent to the Office of the Immigration and Emigration Controller General and the National Intelligence Director's Office.
-
-◼️
-
-[Data](articles/1c35346b.json)
-
-[Extended Data](ext_articles/1c35346b.ext.json)
-
----
-
-### Overseas travel ban imposed on Diana Gamage
-
-*2024-05-09 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99105/overseas-travel-ban-imposed-on-diana-gamage) · `en`
-
-The Colombo Magistrate’s Court has issued an overseas travel ban on former State Minister Diana Gamage today (09).
-
-This order was issued by Colombo Magistrate Thilina Gamage after considering a request made by the attorneys of the petitioning party in the case related to her dual citizenship.
-
-The copies of the order were also forwarded to the office of the Controller General of Immigration and Emigration and the Office of the Director of National Intelligence.
-
-◼️
-
-[Data](articles/4eb391e8.json)
-
-[Extended Data](ext_articles/4eb391e8.ext.json)
-
----
-
-### People's representatives decide whether to continue to manage state institutions: martyrs
-
-*2024-05-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183033) · `ta`
-
-President Ranil Wickremesinghe urged cooperation from opposition parties for economic recovery, highlighting his role in managing the country's crisis without conditions. He announced a 12 billion rupee relief for low-income earners and plans to stabilize the economy through bilateral talks with the IMF, aiming for a 3% economic growth increase.
-
-🟩
-
-We are resting in hell that we cannot continue to manage the loss of state institutions. Is it marked as traitors in history?Or is it marked as martyrs?People's representatives must decide. The President called on the opposition parties to cooperate with the proceedings for the economic recovery.
-
-President Ranil Wickremesinghe made this statement during a special speech in Parliament today (09).
-
-I was responsible for the country without any conditions for the country when the country was burning, despite being a member of a parliamentarian because of proper plan, experience and international relations, and that he was responsible for the country without any conditions and that he could restore the country that fell in hell through it.. My resolutions have been successful.
-
-Cannot continue to manage state institutions that lose. We will provide relief to low income earners, and I have decided to allocate 12 billion rupees.
-
-...
-
-[Data](articles/791f836b.json)
-
-[Extended Data](ext_articles/791f836b.ext.json)
 
 ---

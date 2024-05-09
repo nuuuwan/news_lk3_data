@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 13:33:47**
+As of **2024-05-09 13:52:50**
 
 ## Newspaper Stats
 
-*Scraped **22,923** Articles*
+*Scraped **22,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,936
+adalk | 1,938
 tamilmirrorlk | 2,686
 adaderanalk | 2,689
 virakesarilk | 3,405
-dailymirrorlk | 3,601
+dailymirrorlk | 3,603
 adaderanasinhalalk | 3,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,923 (100.0%) of 22,923 articles have been extended.
+22,925 (100.0%) of 22,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Court imposes travel ban on Diana Gamage
+
+*2024-05-09 13:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-imposes-travel-ban-on-Diana-Gamage/108-282247) · `en`
+
+Colombo, May 9 (Daily Mirror) - The Colombo Chief Magistrate’s Court today issued an order preventing State Minister Diana Gamage from leaving the country.
+
+Colombo Chief Magistrate Thilina Gamage made this order in connection with a magisterial inquiry filed against her for allegedly committing offences under the Immigrants and Emigrants Act.
+
+◼️
+
+[Data](articles/95d1673f.json)
+
+[Extended Data](ext_articles/95d1673f.ext.json)
+
+---
+
+### 37 liquor permits issued this year, 474 more can be given: Siyambalapitiya
+
+*2024-05-09 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/37-liquor-permits-issued-this-year-474-more-can-be-given-Siyambalapitiya/108-282246) · `en`
+
+Parliament, May 09 (Daily Mirror)- A total of 37 new liquor permits (FL4) were issued by the Excise Department during the first four months of this year, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+He told Parliament that 16 out of the 37 were issued to super markets.
+
+Responding to a question by MP Jayantha Samaraweera, the Minister said 214 liquor permits were issued in 2023 and 147 out of that were given to the tourism sector and added that according to the population ratio, 474 more liquor permits can be issued.
+
+"The number of FL4 liquor permits are decided according to the population. There should be some 1,578 liquor permits (FL4) in the country by 2024. So, 474 more permits can be given," he said.
+
+MP Jayantha Samaraweera said there was a public outcry that liquor permits have been given to MPs including some opposition MPs, and urged the Minister to reveal the MPs who have obtained the permits.
+
+...
+
+[Data](articles/e0740914.json)
+
+[Extended Data](ext_articles/e0740914.ext.json)
+
+---
 
 ### Overseas travel ban imposed on Diana Gamage
 
@@ -136,6 +174,20 @@ However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Ma
 
 ---
 
+### මන්ත්‍රිධුරයක් හිස්ව ඇති බව මැතිවරණ කොමිෂමට දන්වයි
+
+*2024-05-09 12:28:19* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රිධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-409519) · `si`
+
+ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුර‍ය අහෝසි වීම හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම් දී තිබේ.
+
+සමගි ජන බලවේගයේ ජාතික ලැයිස්තුපාර්ලිමේන්තු මන්ත්‍රී ඩයනා ගමගේ මහත්මියගේ  පාර්ලිමේන්තු මන්ත්‍රී ධුරය 2024 මැයි 08 වැනි දින සිට බල පැවැත්වෙන පරිදි අහෝසි වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තු, මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+
+◼️
+
+[Data](articles/05d84f31.json)
+
+---
+
 ### President reveals of public worker salary
 
 *2024-05-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196430) · `si`
@@ -175,6 +227,22 @@ Minister Amaraweera said that the spending of the USD 25 million allocated for t
 [Data](articles/f7534e46.json)
 
 [Extended Data](ext_articles/f7534e46.ext.json)
+
+---
+
+### මේ වසරේදි සියයට තුනක ආර්ථික වර්ධනයක්
+
+*2024-05-09 12:22:52* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-සියයට-තුනක-ආර්ථික-වර්ධනයක්/11-409518) · `si`
+
+එකගත්වයකින් හා සම්මුතියකින් යුතුව ඉදිරියට ගියහොත් ලෝකයේ සංවර්ධිත රටක් ලෙස  ශ්‍රී ලංකාව කඩිනමින් ඔසවා තැබිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  අද (09) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදු කරමින් පැවසීය.
+
+පාර්ලිමේන්තුවේ තනි මන්ත්‍රී ධූරයක් තිබියදී වුවත් කිසිම කොන්දේසියක් නොමැතිව තමන් රට බාරාගත්තේ නිසි සැලැස්මක්, අත්දැකීම් සහ ජාත්‍යන්තර සම්බන්ධතා තිබු නිසා බවත්, ඒ හමුවේ අපායට වැටී තිබු රට ගොඩගත හැකිය යන විශ්වාසය තමන්ට තිබූ බවත්  ජනාධිපති රනිල් වික්‍රමසිංහ  මහතා පැවසීය.
+
+වැටුණු රට යළි ගොඩනැගීම වෙනුවෙන් විධිමත් ලෙස ආර්ථික ස්ථායිකරණ හා ප්‍රතිසාධන වැඩසටහන් ක්‍රියාත්මක කරන්නට මුල පිරූ බවත් එහි  සමස්ත ප්‍රතිඵලයක් ලෙස 2023 වසරේ මැද භාගයේ සිට ආර්ථික වර්ධනයක ගමන ආරම්භ වී තිබෙන බවත් මෙම වසරේ  ආර්ථික වර්ධනය සියයට තුනක් පමණ වනු ඇතැයි අපේක්ෂා කරන බවත්, විවිධ දේශීය සහ විදේශී, මුල්‍ය ආයතන ද ඒ හා සමාන පුරෝකථන ඉදිරිපත්කර ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/60b218f9.json)
 
 ---
 
@@ -1682,6 +1750,22 @@ They are concerned since they may have to give up their MP posts,” he added.
 
 ---
 
+### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
+
+*2024-05-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
+
+May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
+
+May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
+
+...
+
+[Data](articles/5fbb9b96.json)
+
+[Extended Data](ext_articles/5fbb9b96.ext.json)
+
+---
+
 ### SJB’s Mujibur to replace Diana
 
 *2024-05-09 03:06:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-Mujibur-to-replace-Diana/56-761576) · `en`
@@ -2172,6 +2256,20 @@ If our demands are not met, we will have to express our opposition.
 
 ---
 
+### The Tamil Nationalist Who  Dubbed Himself as the “King of Eelam”.
+
+*2024-05-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83970) · `en`
+
+The protracted struggle by Sri Lankan Tamils to achieve justice and equality in the Island  has brought into prominence several colourful and controversial personalities. Among such persons was  a Tamil Nationalist  political activist who adopted the nom de plume “Eelaventhan”meaning King of Eelam.  Eelaventhan whose real name was MK Kanakenthran was active in Tamil politics for over seven l decades. He served as a  member of Parliament in Sri Lanka from 2004 to 2007. The nonagenarian Eelaventhan passed away in Toronto,  Canada on 28 April 2024. His death was widely reported in Sri Lankan Tamil newspapers with even editorials being written about him.
+
+...
+
+[Data](articles/abf9e3d7.json)
+
+[Extended Data](ext_articles/abf9e3d7.ext.json)
+
+---
+
 ### IMP MPs may have a problem
 
 *2024-05-09 00:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்களுக்கு-பிரச்சினை-வரலாம்/175-337000) · `ta`
@@ -2195,149 +2293,5 @@ Her MP is not the citizenship of Sri Lanka. Here he is the one who registered an
 [Data](articles/229b15a9.json)
 
 [Extended Data](ext_articles/229b15a9.ext.json)
-
----
-
-### Exposure by a three -letter candidate
-
-*2024-05-09 00:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றெழுத்து-வேட்பாளர்-அம்பலமானார்/175-336999) · `ta`
-
-In a Sri Lanka Parliament debate, Dayasiri Jayasekara questioned the government's fuel sale practices, accusing it of selling to private companies, including a businessman-MP, at inflated prices. He hinted at a three-letter presidential candidate's involvement, sparking a discussion about the candidate's suitability for the role.
-
-🟩
-
-During the debate in Parliament on Wednesday, Sambhashan was held on the three -letter presidential candidate of the Sri Lanka PA.
-
-Dayasiri Jayasekara, who questioned the government about the sale of fuel to private companies, said that the company is also sold to a businessman who is a Member of Parliament.
-
-There is a government government to buy money from private companies and buy electricity at a higher price and buy fuel for loans from the Petroleum Corporation and give it to private companies for the loan.. Can you carry the country?There is a person who has been given a place at the airport. .
-
-Is allowed to sell fuel for aircraft. He said he was a Member of Parliament.
-
-Some people from the ruling side asked to name such a person.
-
-Dayasiri Jayasekara responded by this, you know the name. They say your presidential candidate.
-
-...
-
-[Data](articles/b719f43d.json)
-
-[Extended Data](ext_articles/b719f43d.ext.json)
-
----
-
-### Why did Minister Tiran Alles sign  the outsourcing deal with VFS Global when there’s no rationale for outsourcing since Lankan officials have been handling on-arrival visas since 2012 without a problem.
-
-*2024-05-09 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84000) · `en`
-
-On every side are seen the burial ground of dreams.” Faiz Ahmed Faiz (The Subject of Poetry)
-
-President Ranil Wickremesinghe expects Lankan rupee to appreciate further and reach 280 per dollar by June. Namal Karunaratna, a leading light of the NPP/JVP, states that rupee will start sliding soon, reaching 400-500 per dollar. He dismisses the rupee’s strong performance as a fluke caused by a recent spate of dollar loans.
-
-Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom in tourism and influx of foreign remittances. As some independent analysts have pointed out, the value of the rupee could fall in the second half of the year if vehicle imports are allowed. But the rupee would plunge to the depths of Karunaratne’s expectations only if the Wickremesinghe administration makes a Gotabaya-style error.
-
-...
-
-[Data](articles/1277c78d.json)
-
-[Extended Data](ext_articles/1277c78d.ext.json)
-
----
-
-### Do not go on open, tourist visa
-
-*2024-05-09 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்த-சுற்றுலா-விசாவில்-செல்லாதீர்கள்/175-336998) · `ta`
-
-External Affairs Minister Ali Sabri advises Sri Lankan youth to avoid open and tourist visas for employment abroad, citing risks and lack of diplomatic support for those who do. He highlighted the plight of Sri Lankans in Myanmar and Russia, urging caution and legal pathways for overseas employment.
-
-🟩
-
-External Affairs Minister Ali Sabri said the youth should avoid going abroad for employment opportunities through open visa and tourist visa.
-
-He emphasized this while addressing the debate on the Diplomatic Privacy Act held on Wednesday (08) at Parliament.
-
-Sri Lankans who have traveled to Myanmar and Russia are facing massive crises.
-
-Sri Lankans who went to Myanmar have been detained by mercenaries. The Miyawadi area is not under state control in Myanmar.. Three teams have been sent to Thailand border and brought to Sri Lanka from there.
-
-49 more Sri Lankans detained in Miyawadi area. We are in talks with Myanmar and Thailand to bring them to the country. .
-
-Youth and women should avoid going abroad through open visa and tourist visa for employment opportunities.
-
-When we go abroad illegally, we cannot carry out any action at the diplomatic level.
-
-...
-
-[Data](articles/9c2ab395.json)
-
-[Extended Data](ext_articles/9c2ab395.ext.json)
-
----
-
-### What was the order issued to Diana?
-
-*2024-05-09 00:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்கு-பிறப்பித்த-உத்தரவு-என்ன/175-336997) · `ta`
-
-The Supreme Court issued a writ order to prevent Diana Kamage from serving as an MP, citing dual citizenship.
-
-🟩
-
-The Supreme Court on Wednesday (08) issued a writ order to prevent Tourism Minister Diana Kamage from continuing to act as a Member of Parliament.
-
-The panel of judges comprising Justices Gamini Amarasekera, Kumuduni Wickremesinghe and Janak de Silva has issued this historical verdict.
-
-A two -thirds majority verdict was issued after a hearing filed by Social activist Osala Lakmal Herath and State Minister Diana Kamage in the British Citizenship Court.
-
-The Supreme Court on Wednesday (08), which has completed the hearing of the appeal filed by the High Court, objected to the verdict.
-
-The panel of judges decided to postpone the verdict indefinitely, which was completed on February 13.
-
-Social activist Osala Herath has filed these appeals two weeks after Diana Kamage filed a petition against the post of Member of Parliament and the citizenship.
-
-...
-
-[Data](articles/248bb0fd.json)
-
-[Extended Data](ext_articles/248bb0fd.ext.json)
-
----
-
-### Rs.13,347 million pending
-
-*2024-05-09 00:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-13-347-மில்லியன்-நிலுவையில்-உள்ளது/175-336996) · `ta`
-
-The Minister of Electricity and Power, DV Sanaka, announced that a private company and state institutions owe Rs. 13,347 million to the Ceylon Petroleum Corporation. This includes payments from the Ceylon Electricity Board, a private company, and various departments.
-
-🟩
-
-Minister of Electricity and Power and Energy DV Sanaka said that a private company, including state institutions, has to pay a sum of Rs 13,347 million for the Ceylon Petroleum Corporation.
-
-He said this while responding to questions raised by Independent Opposition MP Dayasiri Jayasekara during the query in Parliament on Wednesday (08).
-
-The Ceylon Electricity Board, Private Company, Railway Department, Army, Navy, Air Force and Police have to pay arrears to the Petroleum Corporation.
-
-The Electricity Board said the Electricity Board had to pay Rs 3,529 million, a private company 39 million rupees, Rs.
-
-◼️
-
-[Data](articles/c36e1cd0.json)
-
-[Extended Data](ext_articles/c36e1cd0.ext.json)
-
----
-
-### Post-May Day political balance and scenarios
-
-*2024-05-09 00:45:10* · [`dailyftlk`](https://www.ft.lk/columns/Post-May-Day-political-balance-and-scenarios/4-761552) · `en`
-
-Tyrannical Tiran Alles is about to learn a lesson in politics that his distinguished, respected father would have taught him had he been around. The worst time to play tough guy is in an election year with six months max to go to vote. Citizens (including officials) are impatient to vote, and are unintimidated because they know they have the power to bring the whole power structure down soon, if they so wish.
-
-The Minister concerned is an unelected parliamentarian whose name has figured in disclosures by whistleblowing international journalists. He is attempting a witch-hunt against an articulate, courageous, mediagenic young man. He has antagonised the socially confident, sophisticated travel industry. Whatever his power (and cross-party connections), he is on a very slippery slope and may start the rockslide that takes the administration down with him.
-
-...
-
-[Data](articles/e400241b.json)
-
-[Extended Data](ext_articles/e400241b.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 06:17:24**
+As of **2024-05-09 06:44:51**
 
 ## Newspaper Stats
 
-*Scraped **22,828** Articles*
+*Scraped **22,831** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 200
+colombotelegraphcom | 201
 bbccomsinhala | 238
 dbsjeyarajcom | 239
 newsfirstlk | 363
@@ -16,21 +16,39 @@ islandlk | 1,232
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
-tamilmirrorlk | 2,670
+tamilmirrorlk | 2,671
 adaderanalk | 2,678
 virakesarilk | 3,398
 dailymirrorlk | 3,582
-adaderanasinhalalk | 3,651
+adaderanasinhalalk | 3,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,827 (100.0%) of 22,828 articles have been extended.
+22,828 (100.0%) of 22,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### අදත් හවසට තද වැසි
+
+*2024-05-09 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196415) · `si`
+
+දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+උතුරු-මැද, මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+බස්නාහිර සහ දකුණු පළාත්වල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/9946095b.json)
+
+---
 
 ### SJB’s Mujibur to replace Diana
 
@@ -372,23 +390,47 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### அதானி குழுமத்துக்கு எதிராக ஆர்ப்பாட்டம்
+### மொட்டு இன்று திறப்பு
+
+*2024-05-09 01:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-இன்று-திறப்பு/175-337002) · `ta`
+
+கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ, பத்தரமுல்லையில் இந்த செயற்பாட்டு அலுவலகத்தை வியாழக்கிழமை (09) திறந்து வைக்கவுள்ளார்.
+
+ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தலுக்கு தொகுதி மட்டத்தில் கட்சியை தயார்படுத்தும் வகையில் இந்த செயற்பாட்டு அலுவலகத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7bce3bbe.json)
+
+---
+
+### Demonstration against Adani Group
 
 *2024-05-09 01:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-குழுமத்துக்கு-எதிராக-ஆர்ப்பாட்டம்/175-337001) · `ta`
 
-மன்னார் தீவில் அதானி நிறுவனத்தினால் மேற்கொள்ளப்படவுள்ள 52 காற்றாலை உயர் மின் திட்டத்திற்கு இலங்கை அமைச்சரவையினால் அங்கீகாரம் வழங்கப்பட்டுள்ளமையை ஏற்றுக் கொள்ள முடியாது என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை சந்தியோகு மாக்கஸ் அடிகளார் தெரிவித்துள்ளார்.
+Mannar Citizens Committee Chairman Aruttandanda Macas Adikallar criticized the Sri Lankan Cabinet for not approving Adani Company's 52 wind power project on Mannar Island, fearing cultural, historical, and environmental destruction. He vowed to bring the issue to the president and threatened opposition if demands are not met.
 
-மன்னாரில் உள்ள அலுவலகத்தில்   புதன்கிழமை (8) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-மன்னார் தீவில் மீண்டும் முன்னெடுக்கப்படவுள்ள குறித்த திட்டத்தினால் எமக்கு வர உள்ள அழிவுகள் குறித்து நாங்கள் பல வருடங்களாக கூறி வருகிறோம்.குறித்த திட்டத்தினால் எமது வாழ்விடம் திட்டமிட்டு பறிக்கப்பட உள்ளது.
+Mannar Citizens Committee Chairman Aruttandanda Macas Adikallar said that the Cabinet of Sri Lanka has not accepted the approval of the 52 wind power project to be carried out by Adani Company on Mannar Island.
 
-எமது பண்பாடு மற்றும் வரலாற்றுச் சுவடுகள் அழிக்கப்பட போகின்றது.மக்களின் வாழ்விடங்கள் அழிக்கப்பட்டு மக்கள் வாழ  முடியாத நிலைக்கு தள்ளப்படப் போகிறது.மாணவர்களின் கல்வி மற்றும் அவர்களின் எதிர்கால நல வாழ்வும் பாதிக்கப்படும் நிலை ஏற்படும் என்றார்.
+He said this while participating in a media briefing held at the office in Mannar on Wednesday (8).
 
-எமது வளமான மண் அழிக்கப்பட்டு,எதுவும் அற்ற ஒரு நிலைக்கு தள்ளப்படும்.எனவே எமது மக்களை ஒன்று கூட்டி பாரிய எதிர்ப்பு நடவடிக்கைகளை முன்னெடுக்க நாங்கள் தள்ளப்பட்டுள்ளோம்.
+We have been talking about the destruction that will come to us for years by the plan to be re -launched on the Mannar Island.
 
-...
+Our culture and historical traces are going to be destroyed.
+
+Our fertile soil will be destroyed and forced to be forced into a state of existence.
+
+We will bring to the notice of the president on this issue and look forward to his decision.
+
+If our demands are not met, we will have to express our opposition.
+
+◼️
 
 [Data](articles/9cdb341c.json)
+
+[Extended Data](ext_articles/9cdb341c.ext.json)
 
 ---
 
@@ -570,6 +612,24 @@ How does the manifesto of each party or alliance defer from the Constitution of 
 
 ### 2024-05-08 (Wednesday)
 
+### Why A Tamil Common Candidate In The Presidential Election?
+
+*2024-05-08 23:56:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-a-tamil-common-candidate-in-the-presidential-election/) · `en`
+
+Tamils living in the north-east of Sri Lanka want to field a Tamil common candidate in the upcoming presidential election. Civil society activists have gathered and are discussing the fielding of a Tamil common candidate in the presidential election. It appears to be about 95 percent compliance.
+
+A total of 46 civil organizations from the North East are moving this initiative together. No representatives of Tamil National Parties were included in it. The civil society organizations will meet with the Tamil National Parties and explain only after setting up a “Common Mechanism” regarding the issue of Tamil common candidates.
+
+Civil society organizations are leading this initiative in a democratic way. Attempting to field a Tamil common candidate in the presidential election is not a racist act. It is a democratic right.
+
+The Constitution of Sri Lanka does not directly say that a Tamil or a Muslim cannot hold the posts of President and Prime Minister.
+
+...
+
+[Data](articles/6bb6127c.json)
+
+---
+
 ### More than 2,000 new Grama Niladhari officials appointed
 
 *2024-05-08 23:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99093/more-than-2000-new-grama-niladhari-officials-appointed) · `en`
@@ -580,7 +640,7 @@ He highlighted the pivotal role of dedicated government officials at the grassro
 
 The President made these remarks during his address at the ceremony held at the Temple Trees, where a total of 2,100 new Grama Niladhari officers were handed over their letters of appointment.
 
-Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, the 2,100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
+Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, 2100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
 
 ...
 
@@ -742,7 +802,9 @@ The police said that the police said that a sergeant and a constable attached to
 
 *2024-05-08 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99092/three-including-police-constable-sergeant-arrested-on-bribery-charges) · `en`
 
-Three persons including a Police Constable, and a Sergeant attached to the Kottawa Police Station have been arrested by Bribery Commission officers while accepting a bribe of Rs. 200,000.
+Three persons including police officers have been arrested by Bribery Commission officers while accepting a bribe of Rs. 200,000.
+
+Among the arrestees were a Constable, and a Sergeant attached to the Kottawa Police Station.
 
 ◼️
 
@@ -2199,73 +2261,5 @@ The name of former MP Mujibur Rahman has been proposed for the vacant parliament
 [Data](articles/fed804b3.json)
 
 [Extended Data](ext_articles/fed804b3.ext.json)
-
----
-
-### Mujibur Rahman tipped to fill Diana Gamage’s MP seat
-
-*2024-05-08 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99079/mujibur-rahman-tipped-to-fill-diana-gamages-mp-seat-) · `en`
-
-Former Member of Parliament Mujibur Rahman of the Samagi Jana Balawegaya (SJB) is nominated to fill the vacant parliamentary seat after the Supreme Court disqualified State Minister Diana Gamage from holding an MP seat.
-
-Speaking during today’s parliamentary session, Leader of the Opposition Sajith Premadasa announced that this decision will be communicated to the Election Commission.
-
-The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
-
-Accordingly, delivering its verdict today, the three-judge Supreme Court bench decided that Gamage is not eligible to hold the position of Member of Parliament as she holds dual citizenship.
-
-In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of parliament in order to vie for the post of Mayor of Colombo in the now-postponed 2023 local government election.
-
-◼️
-
-[Data](articles/c3557a88.json)
-
-[Extended Data](ext_articles/c3557a88.ext.json)
-
----
-
-### Parliament was released from Diana's decision
-
-*2024-05-08 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහි-තීන්දුවෙන්-පාර්ලිමේන්තුවට-නිදහස-ලැබුණා/11-409499) · `si`
-
-MP Nalin Bandara announced the Supreme Court's decision to abolish the parliamentary post, freeing the Speaker. This decision, made public on the 8th, grants parliamentary representation to citizens.
-
-🟩
-
-MP Nalin Bandara said that the decision given by the Supreme Court with the abolition of the post of parliamentary parliament, said the Speaker, the Speaker, and the Speaker and the Speaker were released.
-
-He was speaking in parliament today (08th) regarding the verdict.
-
-"The judiciary has been given an important decision. That is the decision to represent parliament in the case of citizenship.
-
-She is not a Member of Parliament. We are then to the court. It is also reminded that the Parliament and the Speaker were given a great freedom. "
-
-◼️
-
-[Data](articles/3cbc50e4.json)
-
-[Extended Data](ext_articles/3cbc50e4.ext.json)
-
----
-
-### Population of Sri Lanka
-
-*2024-05-08 13:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ජනගහනය-ලක්ෂ-220/11-409498) · `si`
-
-Sri Lanka's population is 22,037,000, with 271,800 adults over 60. 73% of them lack a permanent monthly income, according to PM Dhamma Gunawardena.
-
-🟩
-
-The total population of Sri Lanka is 22 to $ 037 000 Sri Lanka, according to Prime Minister Prime Minister Dhamma Gunawardena, according to Prime Minister of Sri Lanka.
-
-Today, 271800 of this number is adults over 60 years.
-
-The Prime Minister was in Parliament that 73% of them do not have permanent monthly income.
-
-◼️
-
-[Data](articles/10c755f0.json)
-
-[Extended Data](ext_articles/10c755f0.ext.json)
 
 ---

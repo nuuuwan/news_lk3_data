@@ -1,36 +1,236 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 12:52:03**
+As of **2024-05-09 13:03:39**
 
 ## Newspaper Stats
 
-*Scraped **22,910** Articles*
+*Scraped **22,923** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 201
-dbsjeyarajcom | 239
 bbccomsinhala | 240
+dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,320
+economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,935
-adaderanalk | 2,686
+adalk | 1,936
 tamilmirrorlk | 2,686
-virakesarilk | 3,401
-dailymirrorlk | 3,600
-adaderanasinhalalk | 3,665
+adaderanalk | 2,689
+virakesarilk | 3,405
+dailymirrorlk | 3,601
+adaderanasinhalalk | 3,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,910 (100.0%) of 22,910 articles have been extended.
+22,910 (99.9%) of 22,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Overseas travel ban imposed on Diana Gamage
+
+*2024-05-09 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99105/overseas-travel-ban-imposed-on-diana-gamage) · `en`
+
+The Colombo Magistrate’s Court has issued an overseas travel ban on former State Minister Diana Gamage today (09).
+
+This order was issued by Colombo Magistrate Thilina Gamage after considering a request made by the attorneys of the petitioning party in the case related to her dual citizenship.
+
+The copies of the order were also forwarded to the office of the Controller General of Immigration and Emigration and the Office of the Director of National Intelligence.
+
+◼️
+
+[Data](articles/4eb391e8.json)
+
+---
+
+### People's representatives decide whether to continue to manage state institutions: martyrs
+
+*2024-05-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183033) · `ta`
+
+President Ranil Wickremesinghe urged cooperation from opposition parties for economic recovery, highlighting his role in managing the country's crisis without conditions. He announced a 12 billion rupee relief for low-income earners and plans to stabilize the economy through bilateral talks with the IMF, aiming for a 3% economic growth increase.
+
+🟩
+
+We are resting in hell that we cannot continue to manage the loss of state institutions. Is it marked as traitors in history?Or is it marked as martyrs?People's representatives must decide. The President called on the opposition parties to cooperate with the proceedings for the economic recovery.
+
+President Ranil Wickremesinghe made this statement during a special speech in Parliament today (09).
+
+I was responsible for the country without any conditions for the country when the country was burning, despite being a member of a parliamentarian because of proper plan, experience and international relations, and that he was responsible for the country without any conditions and that he could restore the country that fell in hell through it.. My resolutions have been successful.
+
+Cannot continue to manage state institutions that lose. We will provide relief to low income earners, and I have decided to allocate 12 billion rupees.
+
+...
+
+[Data](articles/791f836b.json)
+
+[Extended Data](ext_articles/791f836b.ext.json)
+
+---
+
+### Minister warns of foreign employment scams pretending to offer lucrative positions in Russian army
+
+*2024-05-09 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99104/minister-warns-of-foreign-employment-scams-pretending-to-offer-lucrative-positions-in-russian-army) · `en`
+
+Minister of Labor and Foreign Employment Manusha Nanayakkara has urged the general public not to seek military employment opportunities in foreign countries.
+
+Issuing a statement in this regard, the Minister highlighted the presence of a human trafficking network that is currently facilitating the recruitment of Sri Lankan youths for military service in Russia.
+
+Under the guise of offering lucrative positions within the Russian army, retired military personnel are being enlisted by these traffickers. However, instead of legitimate military service, these individuals are being deployed to serve in the Russian mercenary group known as Wagner, the minister revealed.
+
+The statement further disclosed that these recruits are being assigned to frontline security duties and that they have gone unpaid for several months.
+
+...
+
+[Data](articles/c827edc5.json)
+
+---
+
+### ඩයනාට රටින් පිටවීම තහනම්
+
+*2024-05-09 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196431) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට විදේශගත වීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තහනම් නියෝගයක් නිකුත් කළේය.
+
+අගතියට පත් පාර්ශවයේ නීතිඥවරු විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා එම නියෝගය නිකුත් කරනු ලැබීය.
+
+එම නියෝගය පිටපත් ආගමන හා විගමන පාලකවරයා සහ ජාතික බුද්ධි අධ්‍යක්ෂ කාර්යාලයට යොමු කරන ලෙසත් නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/54079602.json)
+
+---
+
+### Health trade unions launch 4-hour strike in hospitals at provincial level
+
+*2024-05-09 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99103/health-trade-unions-launch-4-hour-strike-in-hospitals-at-provincial-level) · `en`
+
+The trade unions affiliated with the Health Trade Union Alliance have decided to launch a 4-hour token strike in the hospitals at the provincial level from today (09) due to unmet demands.
+
+The Co-convener of the Health Trade Union Alliance Chanaka Dharmawickrema said that they will go on strike at all government hospitals in the North Central Province for a duration of 4 hours from 8:00 a.m. to 12:00 p.m. today.
+
+Meanwhile, the strike is also in place at several other hospitals in the Central, Sabaragamuwa, North Western, Southern, Uva and Western provinces.
+
+However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Madiwatta, stated that nurses will not participate in the strike action today.
+
+◼️
+
+[Data](articles/695fe9c8.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප ගැන ජනපතිගෙන් හෙළිදරව්වක්
+
+*2024-05-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196430) · `si`
+
+වැටුප් වැඩිකිරීම සඳහා විවිධ ඉල්ලීම් ලැබුණ ද ඒ පිළිබඳව 2024දී කටයුතු කිරීමට තරම් රාජ්‍ය ආදායම වර්ධනය වී නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මෙරට ආර්ථිකය සම්බන්ධයෙන් අද උදෑසන (09) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් ජනාධිපතිවරයා ඒ බව පැවසීය.
+
+එහිදී ඔහු පැවසුවේ 2024 ආර්ථිකය වර්ධනය වන ස්වරූපය මෙන්ම රාජ්‍ය ආදායම් වැඩිවන ආකාරය පදනම් කරගෙන රාජ්‍ය අංශයේ වැටුප් පිළිබඳව යළි සලකා බැලීමක් කළ හැක්කේ ලබන වසරේදී  බවයි.
+
+...
+
+[Data](articles/ddaf9645.json)
+
+---
+
+### Govt. provides USD 25 million for Smart Climate Irrigation Agriculture Project
+
+*2024-05-09 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-provides-USD-25-million-for-Smart-Climate-Irrigation-Agriculture-Project/108-282240) · `en`
+
+Colombo, May 9 (Daily Mirror) - The government had decided to provide USD 25 million for the Smart Climate Irrigated Agriculture Project (SCIAP) for this year in many difficult districts through this project, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+These funds were received following a request made by him to the President at the review meeting held yesterday at the Agriculture Ministry, he added.
+
+The SCIAP, which is being implemented on foreign funds under the Agriculture and Plantation Industries Ministry, is scheduled to end by August this year.
+
+Minister Amaraweera said that the spending of the USD 25 million allocated for this year should be started immediately and that attention should also be paid to the reconstruction of lakes in the respective districts as well as the provision of new agricultural technical equipment.
+
+...
+
+[Data](articles/f7534e46.json)
+
+---
+
+### சவூதி தூதுவர் வடமேல் மாகாண ஆளுநரின் அழைப்பின் பேரில் ஏறாவூர் விஜயம்
+
+*2024-05-09 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183044) · `ta`
+
+மட்டக்களப்பு ஏறாவூரில்   இயங்கிவரும் அல் குர்ஆன் மனனமிடும் குல்லிய்யது தாரில் உலூம் அறபுக் கல்லூரிக்கு வடமேல் மாகாண ஆளுநர் ஹாபிஸ் நஸீர் அஹமட்டின் அழைப்பின்பேரில்   இலங்கைக்கான சவூதி அரேபிய தூதுவர்  காலித் ஹமூத் நாசர் அல்-தாசம்  அல்- கஹ்தானி நேற்று விஜயம் செய்தார்.
+
+இதன்போது குர்ஆனை மனனம் செய்யும் ஹாபிழ் மாணவர்கள் இன்முகத்துடன் இலங்கைக்கான சவூதி தூதுவரை வரவேற்றனர்.
+
+◼️
+
+[Data](articles/35e90488.json)
+
+---
+
+### චිනයම වසඟයට ගත් මල් විකුණන ළමයා ගැන පාලකයන්ගේ අවධානයක් නෑ
+
+*2024-05-09 12:02:21* · [`adalk`](https://www.ada.lk/breaking_news/චිනයම-වසඟයට-ගත්-මල්-විකුණන-ළමයා-ගැන-පාලකයන්ගේ-අවධානයක්-නෑ/11-409517) · `si`
+
+සංචාරක කර්මානතය ප්‍රවර්ධනයට ලෝකයේම අවධානය යොමු කල මල් විකුණන ළමයා ගැන සංචාරක ඇමතිවරයාගේ හෝ පාලකයින්ගේ කිසිදු අවධානයක් යොමු වි නොමැති බව හිටපු පා.ම සුනිල් හදුන්නෙත්ති මහතා පැවසිය.
+
+සුනිල් හදුන්නෙත්ති මහතා ඒ බැව් කියා සිටියේ බිදවැටුණු මව්බිම ගොඩනගන විසදුම යන මැයෙන් ඊයේ (08දා)  පස්වරුවේ හැටන් කොටගල නගරයේ පැවති සාකච්ඡා සභාව අමතමිණි.
+
+"නුවරඑලිය රම්බොඩ මාර්ගයේ මල් විකුණන ළමයෙක් ගැන කතා වෙනවා, ඒ ළමයගේ විඩියෝව චීනයේ කොටි 13 කට අධික පිරිසක් නරඹලා තියෙනවා, ඒ නිසා දැන් විදේශිය සංචාරකයන් එනවා නුවරඑලියට මල් විකුණන ළමයි බලන්න.
+
+නුවරඑලිය රම්බොඩ පැති වල මීට කලින් මල් විකුණන ළමයි හිටියේ නැද්ද ? අහඹු සිදුවිමක් විදිහට ඒ ළමයගේ විඩියෝව ප්‍රසිද්ධ වෙලා ශ්‍රි ලංකාවේ සංචාරක කර්මාන්තය ගැන සියළු දෙනා කතා වෙනවා.
+
+හැබැයි මේ ළමයා ගැන සංචාරක ඇමතිවරයා මොනවා හරි කතා වෙනවා දැක්කද? හරින් ප්‍රනාන්දු හෝ ආණ්ඩුවේ කවුරු හරි කතා වෙනවා?
+
+මම මේක කිව්වට පස්සේ දැන් ඉතින් රනිල්ගේ වේදිකාවේ මල් විකුණන ළමයා කියලා උස්සන් ගිහින් පෙන්වයිද දන්නේ නැ.
+
+ලංකාව උඩට අරන් ආපු , සංචාරක කර්මාන්තය උඩරට අරනු ආව ළමයා ගැන ආණ්ඩුවේ කිසිවෙක් කතා වෙන්නේ නැ.
+
+...
+
+[Data](articles/6b3cfdc0.json)
+
+---
+
+### இலங்கையை சேர்ந்த 200க்கும் அதிகமான முன்னாள் படைவீரர்கள் ரஸ்ய உக்ரைன் போர்முனையில் உயிரிழந்துள்ளனர் - முன்னாள் படைவீரர் தகவல்
+
+*2024-05-09 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
+
+பலகுழுக்களால் இலங்கையிலிருந்து வெளிநாட்டு வேலைக்காக சேர்க்கப்பட்ட நூற்றுக்கணக்கான முன்னாள் படைவீரர்கள் ரஸ்ய எல்லையில் உள்ள  கொலைகளங்களில் உயிரிழக்கின்றனர் என அங்கிருந்து தப்பிய  முன்னாள் படைவீரர் ஒருவர் தெரிவித்துள்ளார்.
+
+தொலைக்காட்சியொன்றின் பேட்டியில் கருத்து தெரிவித்துள்ள அவர் இலங்கையை சேர்ந்த 200க்கும் மேற்பட்ட முன்னாள் படைவீரர்கள் உயிரிழந்துள்ளனர் இதே எண்ணிக்கையிலானவர்கள் டொனெட்ஸ்க் போன்ற பிராந்தியங்களில் உள்ள மருத்துவமனைகளில் சிகிச்சைபெற்றுவருகின்றனர் எனவும் குறிப்பிட்டுள்ளார்.
+
+ஓய்வுபெற்ற முன்னாள் அதிகாரிகளே என்னை ரஸ்ய உக்ரைன் போர்முனையில் பணியாற்ற தெரிவு செய்தனர் அதற்காக 1.6 மில்லியன் செலுத்தினேன் முகாமில் உதவியாளராக பணியாற்றும் வேலை என தெரிவித்தனர் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இந்திய பிரஜையான ரமேஸ் என்பவரே இந்த நடவடிக்கைகளின் சூத்திரதாரி என தெரிவித்துள்ள அவர் ரஸ்யாவில் தமிழில் பேசிய ஒருவர் எங்களை வரவேற்றார் எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/36f33d98.json)
+
+---
+
+### கடலில் வெப்ப அலைகள் அதிகரிப்பு : இலங்கை கடற்பரப்பில் பவளப்பாறைகள் அழியும் அபாயம்
+
+*2024-05-09 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183031) · `ta`
+
+தற்போது அதிகரித்துள்ள கடல் வெப்பநிலை மேலும் ஒரு மாத காலம் நீடித்தால் இலங்கையைச் சுற்றியுள்ள கடலில் உள்ள பவளப்பாறைகள் அழியும் அபாயம் ஏற்படும் என சமுத்திவிரவியல் விஞ்ஞானி தெரிவித்துள்ளார்.
+
+இலட்சத்தீவு கடல்  மற்றும் மன்னார் வளைகுடா பகுதிகளில் பவளப் பாறைகள் அழியும் அபாயகரமான சூழல் பதிவாகியுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இது தொடர்பாக தேசிய நீர்வள ஆராய்ச்சி மேம்பாட்டு முகாமைத்துவத்திற்கு (நாரா) புதிதாக நியமிக்கப்பட்டுள்ள பணிப்பாளர் நாயகம் சமுத்திவிரவியல் விஞ்ஞானியான கலாநிதி.கே.அருளானந்தன் ஆங்கில ஊடகமொன்றுக்கு கருத்து தெரிவிக்கையில்,
+
+கடலில் வெப்பநிலை 31 டிகிரி செல்சியஸாக அதிகரித்து இரண்டு வாரங்கள் நீடித்துள்ளது. நாட்டிலுள்ள பவளப்பாறைகளின் நிலை குறித்து நாரா எந்த ஆய்வும் மேற்கொள்ளவில்லை, ஆனால் பவளப்பாறைகள் நிறத்தை இழந்து அழிவடையும் என்பதை நிராகரிக்க முடியாது.
+
+...
+
+[Data](articles/75967d76.json)
+
+---
 
 ### Salary increments for govt employees can only be considered next year - President
 
@@ -192,6 +392,24 @@ He made a statement to the Criminal Investigation Department regarding the quest
 
 ---
 
+### ரஃபாவில்  பொதுமக்கள் வசிக்கும் பகுதிகள் மீது தாக்குதலை மேற்கொண்டால் இஸ்ரேலிற்கான ஆயுதங்கள் சிலவற்றை வழங்குவதை நிறுத்துவோம் - பைடன் எச்சரிக்கை
+
+*2024-05-09 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183038) · `ta`
+
+இஸ்ரேல்  காசா நகரமான ரஃபாமீது பாரிய தாக்குதலை மேற்கொண்டால்  இஸ்ரேலிற்கு சில ஆயுதங்களை வழங்குவதை நிறுத்துவோம்  எனஅமெரிக்க ஜனாதிபதி ஜோபைடன் எச்சரித்துள்ளார்.
+
+அவர்கள்ரஃபாவிற்குள் நுழைந்தால் நான் ரஃபா விடயத்தில் வரலாற்றுரீதியாக பயன்படுத்தப்படும் சில ஆயுதங்களை வழங்க தயாரில்லை என பைடன் தெரிவித்துள்ளார்.
+
+தற்போது ரபாவில் காணப்படும் நிலையை  தரைநடவடிக்கை என அமெரிக்கா தெரிவிக்காது இஸ்ரேலிய படையினர் இன்னமும் பொதுமக்கள் வசிக்கும் பகுதிகளிற்குள் செல்லவில்லை என  தெரிவித்துள்ள பைடன் இஸ்ரேலிய படையினர் எல்லையில்தான் உள்ளனர் எனவும் குறிப்பிட்டுள்ளார்.
+
+ஆனால் மக்கள் வசிக்கும் பகுதிகளுக்குள் இஸ்ரேலிய படையினர் நுழைந்தால் நாங்கள் ஆதரிக்கமாட்டோம் என இஸ்ரேலிய பிரதமருக்கு தெளிவாக தெரிவித்துள்ளேன் எனவும் பைடன் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/77c08abd.json)
+
+---
+
 ### Dancer arrested for rolling shy rolling
 
 *2024-05-09 11:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷை-உருட்டிவந்த-நடன-கலைஞர்-கைது/175-337016) · `ta`
@@ -257,6 +475,26 @@ The notice has been made in terms of Section 64 (1) of the Parliament Election A
 [Data](articles/aca99959.json)
 
 [Extended Data](ext_articles/aca99959.ext.json)
+
+---
+
+### Sri Lanka has stabilized under IMF deal, sustainable growth next: President
+
+*2024-05-09 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-stabilized-under-imf-deal-sustainable-growth-next-president-162230/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen good results under the International Monetary Fund program, but the country has to complete debt restructuring and continue on a reform path to ensure strong growth, President Ranil Wickremesinghe said.
+
+“A lot of good results (sadaneeya prathilaba resak) are coming from the IMF program,” Wickremesinghe said. “An appreciating rupee has brought down prices of imported goods, including milk powder and gas. The falling interest rates are benefiting businesses.”
+
+“Going beyond stability now we have to get on a sustainably path.”
+
+“We are not paying all debt now, we have to start paying. For that we need to increase state revenues and our foreign reserves. We have to optimise our resources.”
+
+“We have to do debt restructuring. We are drafting MoUs with official creditors including the Paris Club, the Official Creditors Committee (OCC), and China Exim Bank separately.
+
+...
+
+[Data](articles/ef9a5d2e.json)
 
 ---
 
@@ -499,30 +737,6 @@ In a special statement in Parliament, the President said he assumed leadership o
 [Data](articles/04b2205d.json)
 
 [Extended Data](ext_articles/04b2205d.ext.json)
-
----
-
-### People's representatives decide whether to continue to manage state institutions: martyrs
-
-*2024-05-09 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183033) · `ta`
-
-President Ranil Wickremesinghe urged cooperation from opposition parties for economic recovery, highlighting his role in managing the country's crisis without conditions. He announced a 12 billion rupee relief for low-income earners and plans to stabilize the economy through bilateral talks with the IMF, aiming for a 3% economic growth increase.
-
-🟩
-
-We are resting in hell that we cannot continue to manage the loss of state institutions. Is it marked as traitors in history?Or is it marked as martyrs?People's representatives must decide. The President called on the opposition parties to cooperate with the proceedings for the economic recovery.
-
-President Ranil Wickremesinghe made this statement during a special speech in Parliament today (09).
-
-I was responsible for the country without any conditions for the country when the country was burning, despite being a member of a parliamentarian because of proper plan, experience and international relations, and that he was responsible for the country without any conditions and that he could restore the country that fell in hell through it.. My resolutions have been successful.
-
-Cannot continue to manage state institutions that lose. We will provide relief to low income earners, and I have decided to allocate 12 billion rupees.
-
-...
-
-[Data](articles/791f836b.json)
-
-[Extended Data](ext_articles/791f836b.ext.json)
 
 ---
 
@@ -1952,6 +2166,22 @@ Dayasiri Jayasekara responded by this, you know the name. They say your presiden
 
 ---
 
+### Why did Minister Tiran Alles sign  the outsourcing deal with VFS Global when there’s no rationale for outsourcing since Lankan officials have been handling on-arrival visas since 2012 without a problem.
+
+*2024-05-09 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84000) · `en`
+
+On every side are seen the burial ground of dreams.” Faiz Ahmed Faiz (The Subject of Poetry)
+
+President Ranil Wickremesinghe expects Lankan rupee to appreciate further and reach 280 per dollar by June. Namal Karunaratna, a leading light of the NPP/JVP, states that rupee will start sliding soon, reaching 400-500 per dollar. He dismisses the rupee’s strong performance as a fluke caused by a recent spate of dollar loans.
+
+Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom in tourism and influx of foreign remittances. As some independent analysts have pointed out, the value of the rupee could fall in the second half of the year if vehicle imports are allowed. But the rupee would plunge to the depths of Karunaratne’s expectations only if the Wickremesinghe administration makes a Gotabaya-style error.
+
+...
+
+[Data](articles/1277c78d.json)
+
+---
+
 ### Do not go on open, tourist visa
 
 *2024-05-09 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்த-சுற்றுலா-விசாவில்-செல்லாதீர்கள்/175-336998) · `ta`
@@ -2047,275 +2277,5 @@ The Minister concerned is an unelected parliamentarian whose name has figured in
 [Data](articles/e400241b.json)
 
 [Extended Data](ext_articles/e400241b.ext.json)
-
----
-
-### Government must fully digitalise Sri Lanka Customs
-
-*2024-05-09 00:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-must-fully-digitalise-Sri-Lanka-Customs/108-282212) · `en`
-
-The government must fully digitalise the services offered by the border agencies, including Sri Lanka Customs, to ensure paperless trade, which will facilitate exports and bring down the cost of living.
-
-Although Sri Lanka Customs smoothly operated during the pandemic, offering fully digitalised services, the agency reverted to the manual process in the post-pandemic period, leaving room for corruption, along with delays and additional costs.
-
-“Successive governments don’t have a drive and vision to go for digitalisation. Every single rupee incurred in port transport cost comes back to you. It’s passed down to the customer, so there goes the cost of living.
-
-Through this press conference, we urge the government to look at a complete digitalisation, not a partial digitalisation because it’s a no go in today’s world economy,” Global Shippers’ Forum Chairman Sean Van Dort urged.
-
-...
-
-[Data](articles/381b3ab9.json)
-
-[Extended Data](ext_articles/381b3ab9.ext.json)
-
----
-
-### The political ‘animals’  we choose
-
-*2024-05-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-political-animals-we-choose/172-282189) · `en`
-
-This seller of plastic balls at Galle Face Green is sure to know how customers make choices regarding his products, but he might find it difficult to choose which candidate to back during an election
-
-Voters can quickly spot the political animal who is canvassing for votes–thanks to education; but people must be careful about the politician who can conceal the ‘animal’ within
-
-The confidence Wickremesinghe gives people about the economy can be eclipsed by the love AKD is winning from the people
-
-There is a school of thought that a debate between Sajith and AKD might not be the ideal at this juncture in politics; this is because both are working on winning the love of the people
-
-We cannot change the political landscape of this country as long as we go to the polling booth and look for a candidate who is the best ‘choice’ in our search among those who are the least corrupt
-
-How does the manifesto of each party or alliance defer from the Constitution of the country?
-
-...
-
-[Data](articles/8713901e.json)
-
-[Extended Data](ext_articles/8713901e.ext.json)
-
----
-
-### 2024-05-08 (Wednesday)
-
-### Why A Tamil Common Candidate In The Presidential Election?
-
-*2024-05-08 23:56:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-a-tamil-common-candidate-in-the-presidential-election/) · `en`
-
-Tamils living in the north-east of Sri Lanka want to field a Tamil common candidate in the upcoming presidential election. Civil society activists have gathered and are discussing the fielding of a Tamil common candidate in the presidential election. It appears to be about 95 percent compliance.
-
-A total of 46 civil organizations from the North East are moving this initiative together. No representatives of Tamil National Parties were included in it. The civil society organizations will meet with the Tamil National Parties and explain only after setting up a “Common Mechanism” regarding the issue of Tamil common candidates.
-
-Civil society organizations are leading this initiative in a democratic way. Attempting to field a Tamil common candidate in the presidential election is not a racist act. It is a democratic right.
-
-The Constitution of Sri Lanka does not directly say that a Tamil or a Muslim cannot hold the posts of President and Prime Minister.
-
-...
-
-[Data](articles/6bb6127c.json)
-
-[Extended Data](ext_articles/6bb6127c.ext.json)
-
----
-
-### More than 2,000 new Grama Niladhari officials appointed
-
-*2024-05-08 23:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99093/more-than-2000-new-grama-niladhari-officials-appointed) · `en`
-
-President Ranil Wickremesinghe on Wednesday (08) stressed that the enhancement of the rural economy pivots on agricultural advancement.
-
-He highlighted the pivotal role of dedicated government officials at the grassroots level in ensuring the success of various government initiatives aimed at rural development, notably the agricultural modernization program.
-
-The President made these remarks during his address at the ceremony held at the Temple Trees, where a total of 2,100 new Grama Niladhari officers were handed over their letters of appointment.
-
-Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, 2100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
-
-...
-
-[Data](articles/e3d10ae3.json)
-
-[Extended Data](ext_articles/e3d10ae3.ext.json)
-
----
-
-### Utilizing The PIP Approach To Develop The Business Sector: A Much-Needed Policy Reform For Sri Lanka
-
-*2024-05-08 23:32:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/utilizing-the-pip-approach-to-develop-the-business-sector-a-much-needed-policy-reform-for-sri-lanka/) · `en`
-
-Throughout human civilization so far, progression has been considered one of the main aims of communities across the globe. Certainly, this will remain unchanged in the future for both advanced and progressive economies. Despite the economic model adopted, public policies play a huge role in this journey. Even though the role of the government varies among countries, the vital role of public policies remains unchanged in every nation. Therefore, public policies can be regarded as the primary tool of a government to influence all other actors in the economy.
-
-...
-
-[Data](articles/2a4cdc9b.json)
-
-[Extended Data](ext_articles/2a4cdc9b.ext.json)
-
----
-
-### Police officers arrested in action
-
-*2024-05-08 22:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகள்-அதிரடி-கைது/175-336995) · `ta`
-
-Two Kottawa police officers and a third person were arrested by the Bribery Commission for allegedly bribing Rs. Remble.
-
-🟩
-
-Three persons, including two officers on duty at the Kottawa police station, have been arrested by the Bribery Commission.
-
-They have been arrested on charges of bribing about Rs.. Remble
-
-◼️
-
-[Data](articles/d589fa82.json)
-
-[Extended Data](ext_articles/d589fa82.ext.json)
-
----
-
-### Government planning four-stage vehicle import resumption
-
-*2024-05-08 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-planning-four-stage-vehicle-import-resumption/108-282190) · `en`
-
-Following discussions with vehicle importers, the government is focused on resuming vehicle imports in four stages, Finance State Minister Ranjith Siyambalapitiya said.
-
-After the meeting, the State Minister claimed that vehicle importers are expected to deliver a report soon on the potential impact of lifting vehicle import restrictions.
-
-He said the report will include detailed information on the relaxation of import restrictions.
-
-Minister Siyambalapitiya pointed out the importance of the report prepared by experts in the vehicle import sector, highlighting its significant role in the decision-making process for the resumption of vehicle imports.
-
-During the discussion, vehicle importers suggested to the Finance State Minister that it would be more feasible to import vehicles under different categories instead of allowing all imports at once. They proposed categorizing vehicle imports for public transport, used vehicles and private vehicles.
-
-...
-
-[Data](articles/14026f5e.json)
-
-[Extended Data](ext_articles/14026f5e.ext.json)
-
----
-
-### Ex Major General arrested for trafficking ex-military personnel to Russian-Ukrainian war front
-
-*2024-05-08 22:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-Major-General-arrested-for-trafficking-ex-military-personnel-to-Russian-Ukrainian-war-front/108-282207) · `en`
-
-Kurunegala, May 8 (Daily Mirror) - A retired Army Major General and a former Army Sergeant have been arrested by the Criminal Investigation Department on charges of trafficking ex-military personnel to conflict zones in Ukraine.
-
-The Criminal Investigation Department (CID), Police and Intelligence agencies have launched extensive operations to arrest illegal human traffickers and several people involved in a racket to send retired war veterans to the Russian-Ukrainian war front as members of mercenary groups.
-
-The Ministry of Defence has also warned that a significant number of Sri Lankan war veterans who had joined as mercenaries have died or sustained injuries at the battlefield.
-
-...
-
-[Data](articles/ffae9548.json)
-
-[Extended Data](ext_articles/ffae9548.ext.json)
-
----
-
-### Person arrested in Katunayake with cigarettes
-
-*2024-05-08 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196414) · `si`
-
-A 29-year-old Colombo resident was arrested at Katunayake Airport for smuggling cigarettes, valued at nearly Rs. 500,000, from Dubai.
-
-🟩
-
-A person has been arrested at the Katunayake Airport with cigarettes imported to Sri Lanka.
-
-The suspect has been arrested in connection to the officers of the Police Narcotics Bureau at the Katunayake airport.
-
-The arrested were a 29 year old resident of Colombo.
-
-Further investigations were revealed that the suspect had been brought to Sri Lanka from Dubai to Sri Lanka.
-
-The value of the smoking has been arrested for nearly Rs. 500,000.
-
-◼️
-
-[Data](articles/b2ccbd34.json)
-
-[Extended Data](ext_articles/b2ccbd34.ext.json)
-
----
-
-### More information about the night of the night
-
-*2024-05-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196413) · `si`
-
-A 56-year-old man was shot dead in his Ahungalla home by two unidentified individuals on a motorcycle around 7.45 pm. He was admitted to Balapitiya Hospital with serious injuries before his death. The cause of the shooting is under investigation.
-
-🟩
-
-The deceased has been identified as 56 year old person.
-
-He had been shot dead while in his house in Ahungalla area in Ahungalla.
-
-Two unidentified persons arrived at a motorcycle at around 7.45 pm today, police said.
-
-He died admitted to the Balapitiya Hospital with serious injuries.
-
-The cause of the shooting has not been revealed yet further investigation into the incident.
-
-◼️
-
-[Data](articles/8ca8bb14.json)
-
-[Extended Data](ext_articles/8ca8bb14.ext.json)
-
----
-
-### 3 police officers arrested
-
-*2024-05-08 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196412) · `si`
-
-Three police officers, including two from Kottawa Police Station, were arrested by the Bribery or Corruption Commission on bribery charges.
-
-🟩
-
-Three officers including two officers at the Kottawa Police Station have been arrested by the Bribery or Corruption Commission.
-
-They were arrested on charges of bribery of Rs.
-
-The police said that the police said that a sergeant and a constable attached to the Kottawa Police Station.
-
-◼️
-
-[Data](articles/33656d56.json)
-
-[Extended Data](ext_articles/33656d56.ext.json)
-
----
-
-### Three including Police Constable, Sergeant arrested on bribery charges
-
-*2024-05-08 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99092/three-including-police-constable-sergeant-arrested-on-bribery-charges) · `en`
-
-Three persons including police officers have been arrested by Bribery Commission officers while accepting a bribe of Rs. 200,000.
-
-Among the arrestees were a Constable, and a Sergeant attached to the Kottawa Police Station.
-
-◼️
-
-[Data](articles/9ab26118.json)
-
-[Extended Data](ext_articles/9ab26118.ext.json)
-
----
-
-### Death in one of the shootings
-
-*2024-05-08 22:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-336981) · `ta`
-
-A person was killed in a shooting in Ahungalla-Bogahapitiya. Police are investigating further.
-
-🟩
-
-One person was killed in a shooting in the Ahungalla - Bogahapitiya area today, police said.
-
-In addition, police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/b9af0668.json)
-
-[Extended Data](ext_articles/b9af0668.ext.json)
 
 ---

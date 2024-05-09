@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 02:03:24**
+As of **2024-05-10 02:18:22**
 
 ## Newspaper Stats
 
-*Scraped **23,049** Articles*
+*Scraped **23,050** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 205
+colombotelegraphcom | 206
 bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,049 (100.0%) of 23,049 articles have been extended.
+23,049 (100.0%) of 23,050 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -711,6 +711,20 @@ However, the Curtaining Corporation (CPC) was recorded at Rs. 120.3 billion in 2
 [Data](articles/ade57254.json)
 
 [Extended Data](ext_articles/ade57254.ext.json)
+
+---
+
+### Ignoring The Whale, While Hooking The Sprat
+
+*2024-05-09 20:08:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ignoring-the-whale-while-hooking-the-sprat/) · `en`
+
+Every Party manifesto and every government statement, solemnly vows to eradicate poverty, but have not done so, for seventy six years, since Independence in 1948. The performance of the present government is no better. Since we are hailed (mostly by ourselves) as a “Star Class Democracy,” that has changed governments peacefully. Despite the record of (language riots of 1958), the attempted (coup of 1962) youth insurrections of (1971 and 1988 to 1989) and the civil war (1983-2009).
+
+Changes of government “by the ballot, and not by the bullet”. One hopes that the failures are indicative of poor planning, and not the lack of skill in handling explosives. The fact that there have been repeated changes of governments, means that all political parties have to share the blame. I do not believe that any Party has “won” an election, but rather that the preceding one was kicked out by a disappointed electorate.
+
+...
+
+[Data](articles/fe98a739.json)
 
 ---
 
@@ -2275,25 +2289,5 @@ Tangalle Senior Superintendent of Police Kayarathiratne has issued the order iss
 [Data](articles/c06f9d4a.json)
 
 [Extended Data](ext_articles/c06f9d4a.ext.json)
-
----
-
-### Sri Lanka to hold Presidential polls between Sept 17-Oct16: Commission
-
-*2024-05-09 14:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hold-presidential-polls-between-sept-17-oct16-commission-162313/) · `en`
-
-ECONOMYNEXT – Sri Lanka will hold Presidential polls between September 17 and October 16, 2024, as required by law, the Elections Commission said.
-
-The Commission said it will call for nominations within the specified period.
-
-“The Election Commission will call for nominations for the presidential election within the specified timeframe in terms of the provisions of the Constitution of the Democratic Socialist Republic of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested in the Election Commission to fix the date for the election, it will hold the presidential election between 17 September 2024 and l6 October 2024,” Election Commission Chairman R M A L Rathnayake said in a statement.
-
-Sri Lanka’s key parties are gearing up for elections where some parties are expected to form loose alliances to support their candidates.
-
-...
-
-[Data](articles/2e1591d3.json)
-
-[Extended Data](ext_articles/2e1591d3.ext.json)
 
 ---

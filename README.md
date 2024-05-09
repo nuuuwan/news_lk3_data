@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 10:33:39**
+As of **2024-05-09 10:52:17**
 
 ## Newspaper Stats
 
-*Scraped **22,880** Articles*
+*Scraped **22,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,243
 economynextcom | 1,318
 dailyftlk | 1,331
 adalk | 1,933
-tamilmirrorlk | 2,677
+tamilmirrorlk | 2,679
 adaderanalk | 2,681
 virakesarilk | 3,399
 dailymirrorlk | 3,594
@@ -26,29 +26,67 @@ adaderanasinhalalk | 3,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,878 (100.0%) of 22,880 articles have been extended.
+22,880 (100.0%) of 22,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### 120 மில்லியன் ரூபாய்  பெறுமதியான சொத்துக்கள் முடக்கம்
+
+*2024-05-09 10:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/120-மில்லியன்-ரூபாய்-பெறுமதியான-சொத்துக்கள்-முடக்கம்/175-337011) · `ta`
+
+காலி பிரதேசத்தில் பெண்ணொருவருக்கு சொந்தமான சுமார் 120 மில்லியன் ரூபாய்  பெறுமதியான சொத்துக்களை தடை செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+இந்த சொத்துக்கள் எவ்வாறு ஈட்டப்பட்டமை குறித்த தகவல்கள் வெளியிடப்படாமை காரணத்தினால், காலி குற்றப் புலனாய்வுப் பிரிவினரால் அவரின் சொத்துக்கள் தடை செய்யப்பட்டுள்ளன.
+
+இதில், காலி தடல்ல பிரதேசத்தில் நான்கு மாடி கட்டிடமும் அக்மீமன பிரதேசத்தில் ஒன்றரை ஏக்கர் தேயிலை மற்றும் மிளகு காணியும் உள்ளடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த சொத்துக்கள் தொடர்பில் எதிர்காலத்தில் சட்ட நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவிக்கின்றனர். R
+
+◼️
+
+[Data](articles/db9813a6.json)
+
+---
+
+### பதவி வெற்றிடம் அறிவிப்பு
+
+*2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
+
+டயானா கமகே எம்.பி பதவிக்கு தகுதியற்றவர் என உயர்நீதிமன்றம் தீர்ப்பளித்ததையடுத்து, பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன பாராளுமன்றத்தில் அறிவித்தார்.
+
+பாராளுமன்ற ஆசனம் நேற்று (மே 8) முதல் வெற்றிடமாகியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f02eaa5d.json)
+
+---
+
+### Enjoining order against Maithri is extended
 
 *2024-05-09 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196426) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය ලබන 29 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (09)නියෝග කළේය.
+The Colombo District Court extended an injunction against Maithri, following a petition by former President Chandrika Bandaranaike Kumaratunga. The court ordered respondents, including Maithripala Sirisena, Nimal Siripala de Silva, and Faizer Mustapha, to file objections.
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ඉදිරිපත් කළ පෙත්සම අද (09) කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ යළි කැඳවනු ලැබීය.
+🟩
 
-එහිදී නඩුවට අදාළ විරෝධතා තිබේ නම් ගොනුකරන ලෙස වගඋත්තරකරුවන්ට නියෝග කළ දිසා විනිසුරුවරයා නඩුව නැවත ලබන 29 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+The Colombo District Court today (09), the Colombo District Court today (09) the Colombo District Court today (09) the Colombo District Court today (09).
 
-මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන, ජ්‍යේෂ්ඨ උපසභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා, උප සභාපති වූ ෆයිසර් මුස්තාපා ඇතුළු පිරිසක් නම් කර තිබිණි.
+The petition filed by former President Chandrika Bandaranaike Kumaratunga was recalled before Colombo District Judge Sandun Withana today (09).
 
-මෛත්‍රිපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් පත්වීම එම පක්ෂයේ ව්‍යවස්ථාවට පටහැනි බවත් ඔහු එම ධුරයේ කටයුතු කිරීම වළක්වන නියෝගයක් නිකුත් කරන ලෙසත් ඉල්ලා චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය මෙම ගොනුකළාය.
+The District Judge ordered respondents to the respondents to file if there are objections to the case.
+
+Senior Vice President Maithripala Sirisena, Senior Vice President, Minister of Sri Lanka Freedom, Minister of Sri Lanka Freedom, Minister Nimal Siripala de Silva and Vice President Faizer Mustapha.
+
+Chandrika Bandaranaike Kumaratunga filed the constitution of Maithripala Sirisena as the Chairman of the SLFP.
 
 ◼️
 
 [Data](articles/de4568a5.json)
+
+[Extended Data](ext_articles/de4568a5.ext.json)
 
 ---
 
@@ -74,19 +112,27 @@ They have played 12 matches, which have only four matches.
 
 ---
 
-### ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී අල්ලයි
+### Former Chief Executive Secretary of the Drug Regulatory Authority arrested
 
 *2024-05-09 09:53:42* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-නියාමන-අධිකාරියේ-හිටපු-ප්‍රධාන-විධායක-නිලධාරී-අල්ලයි/11-409514) · `si`
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචා කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් ජාතික ඖෂධ නියාමන අධිකාරියෙය් හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතා රහස් පොලිසිය විසින් ඊයේ (08) රාත්‍රීයේදී අත්අඩංගුවට ගනු ලැබීය.
+The former CEO of the National Drug Regulatory Authority was arrested by the CID after an 11-hour questioning session. The arrest followed his statement and the distribution of billions of rupees in Indian hospitals. The investigation involves allegations of corruption and the distribution of 'Ritukolobin' to nerve patients.
 
-සිද්ධිය සම්බන්ධයෙන් පැය 11 ක පමණ කාලයක් පුරා ප්‍රශ්න කරමින් ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව රහස් පොලිස් නිලධාරීන් විසින් ඔහු මෙලෙස අත්අඩංගුවට ගන්නා ලදී.
+🟩
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචා කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් රහස් පොලිසියේ පෙනී සිට ප්‍රකාශයක් දීමෙන් අනතුරුව රහස් පොලිස් නිලධාරීන් විසින් ඔහු මෙලෙස අත්අඩංගුවට ගන්නා ලදී.
+Former Chief Executive Officer of the National Drug Regulatory Authority, the CEO of the National Drug Regulatory Authority yesterday (08)) Was arrested at night.
+
+He was arrested by the CID after questioning over the past 11 hours.
+
+He was arrested by the CID after making a statement from the CID and distribution of prizes in the CID and distribute to the correspondingment of billions of rupees and distribution of prizes in the Indian hospitals.
+
+According to the CID calling for the CID, the Investigations Officers have been arrested by the Dr. Wijodha Gunasekera, who appeared in the case with regard to the CID.
 
 ...
 
 [Data](articles/40777e0e.json)
+
+[Extended Data](ext_articles/40777e0e.ext.json)
 
 ---
 
@@ -2183,51 +2229,5 @@ Subsequently, two of them succumbed to the illness, while another remains in a c
 [Data](articles/4320dab4.json)
 
 [Extended Data](ext_articles/4320dab4.ext.json)
-
----
-
-### People say that I do not leave elections two more years
-
-*2024-05-08 18:49:54* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්සු-කියන්නේ-මැතිවරණ-නොතියා-තවත්-වසරක්-දෙකක්-මෙහෙමම-යමු-කියල/11-409508) · `si`
-
-"People say JVP won't leave elections in two years. JVP's presence in villages is seen as a threat. The Minister mentions the JVP's influence in villages. Despite opposition, the government has made progress. However, the opposition exploited a peaceful struggle, leading to tourism collapse. The government claims to have overcome development challenges and expects better outcomes in the next two years. Despite opposition, a presidential election is expected."
-
-🟩
-
-The statement that the JVP is being established in the villages that they will have any jurisdiction is pronounced in the villages, if they come to power if they come to power.
-
-The Minister ponds in the 88/89 period that the people have memory of the argument of the JVP villages in the JVP villages.
-
-අන්තවාදී කණ්ඩායම් වලට බලය ගියහොත් නැවත එවැනි භයංකාර යුගයක් බිහිවවු ඇති බැවින් ජනතා විමුක්ති පෙරමුණේ මෙම කතාව කිසි ලෙසකින්වත් විහිළුවට නොගත යුතු බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
-
-"When we worked about people, our opponents implemented their agenda. They went abroad to say not to send money to Sri Lanka. Stepped in the tourism. Travelers do not want to come to the struggles and the Kolaholes.
-
-Tourism collapsed due to the so-called struggle. People started a peaceful struggle. But the opposition exploited it.
-
-We were able to overcome the development of the development of the development of the development of the development of the development. The next two years will be better.
-
-...
-
-[Data](articles/41c06120.json)
-
-[Extended Data](ext_articles/41c06120.ext.json)
-
----
-
-### COPF summons Public Security Secretary and Immigration CG
-
-*2024-05-08 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99088/copf-summons-public-security-secretary-and-immigration-cg) · `en`
-
-The Committee on Public Finance (COPF) has summoned the Secretary to the Ministry of Public Security and the Controller General of Immigration and Emigration for an inquiry tomorrow (08), says the Chairman of COPF MP Harsha de Silva.
-
-In a post on ‘X’ (formerly Twitter), he said the COPF summoned the Secretary to Ministry of Public Security along with the Controller General of Immigration and Emigration tomorrow for a “balanced inquiry into the ongoing visa fiasco”.
-
-“While it is customary for all public finance-related legislation be routed through COPF, this strangely was not,” the committee chairman further said.
-
-◼️
-
-[Data](articles/a558bb26.json)
-
-[Extended Data](ext_articles/a558bb26.ext.json)
 
 ---

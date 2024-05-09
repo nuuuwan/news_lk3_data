@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 16:04:51**
+As of **2024-05-09 16:18:03**
 
 ## Newspaper Stats
 
-*Scraped **22,962** Articles*
+*Scraped **22,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,78 @@ bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,321
+economynextcom | 1,325
 dailyftlk | 1,331
 adalk | 1,944
 tamilmirrorlk | 2,689
 adaderanalk | 2,695
-virakesarilk | 3,412
-dailymirrorlk | 3,606
+virakesarilk | 3,415
+dailymirrorlk | 3,608
 adaderanasinhalalk | 3,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,956 (100.0%) of 22,962 articles have been extended.
+22,962 (100.0%) of 22,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### රත්‍රන් ජෙල් සමග පුද්ගලයෙක් කොටුවෙයි
+### எதிர்க்கட்சித் தலைவரின் கேள்விகளுக்கு பதிலளிக்காமல் ஜனாதிபதி சபையை விட்டு சென்றதால் சபையில் சர்ச்சை
+
+*2024-05-09 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183072) · `ta`
+
+ஜனாதிபதி தனது உரையில் தெரிவித்த சில விடயங்கள் தொடர்பில் தெளிவுப்படுத்தலை கோரி எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச சபையில் கேள்வியெழுப்பி கருத்து தெரிவித்துக்கொண்டிருக்கையில், ஜனாதிபதி ரணில் விக்கிரமசிங்க சபையிலிருந்து  எழுந்து வெளியேறிச் சென்றதால் சபையில் சர்ச்சை ஏற்பட்டது.
+
+பாராளுமன்றத்தில் இன்று வியாழக்கிழமை, நாட்டின் தற்போதைய பொருளாதார நிலைமை தொடர்பாக ஜனாதிபதி ரணில் விக்ரமசிங்க  ஆற்றிய விசேட உரை தொடர்பில்  தெளிவு பெற்றுக்கொள்ள அனுமதி வழங்க முடியுமா என எதிர்க்கட்சி பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல ஜனாதிபதியிடம் கேட்டதற்கு ஜனாதிபதி அதற்கு அனுமதி வழங்கினார்.
+
+அதன் பிரகாரம் எதிர்க்கட்சித் தலைவர் சஜித் பிரரேமதாச எழுந்து ஜனாதிபதி தெரிவித்த சில விடயங்களை சுட்டிக்காட்டி, அதனை விமர்சித்துக்கொண்டிருந்தார். அதன்போது ஆளும் கட்சி பிரதம கொறடாவான அமைச்சர் பிரசன்ன ரணதுங்க எழுந்து, உரை தொடர்பில் தெளிவு பெற்றுக்கொள்ளவே முடியும். உரையாற்ற தற்போது இடமளிக்க முடியாது. அவர்களுக்கு ஜனாதிபதியின் உரை தொடர்பில் விவாதம் வேண்டுமென்றால் அதனை கட்சித் தலைவர்கள் கூட்டத்தில் கலந்துரையாடி நடத்தலாம் என்றார்.
+
+...
+
+[Data](articles/aaa92e8a.json)
+
+---
+
+### Man arrested with gold gel
 
 *2024-05-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196440) · `si`
 
-ඩුබායි සිට අද (09) උදෑසන කටුනායක ගුවන්තොටුපොළින් මෙරටට පැමිණි පුද්ගලයෙක්ව ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය නිවාරණ ඒකකයේ නිලධාරීන් විසින් සිය භාරයට ගෙන තිබුණි.
+A man from Dubai, visiting Sri Lanka, was arrested for smuggling 1975 grams of gold gel worth Rs. 40 million, concealed in his shoes and clothing.
 
-එම පුද්ගලයාව පරීක්ෂා කිරීමේදී ඔහුගේ පාවහන් සහ ඇඳුම්වල සඟවා ගෙන රැගෙන ආ රත්‍රන් ජෙල් පාර්සල තුනක් හමුවී තිබේ.
+🟩
 
-එහි බර ග්‍රෑම් 1975ක් බවත් ඇස්තමේන්තු වටිනාකම රුපියල් මිලියන 40ක් බවත් සඳහන් ය.
+From Dubai, a person who had come to Sri Lanka from Katunayake was taken into custody by officials of the Drug Prevention Unit.
+
+Three golden gel parks have been found concealed in his shoes and clothing, using the person.
+
+It is said that the weight is 1975 grams and the estimated cost of Rs. 40 million.
 
 ◼️
 
 [Data](articles/e7213730.json)
+
+[Extended Data](ext_articles/e7213730.ext.json)
+
+---
+
+### Palestine issue helps Sri Lanka to regain reputation among OIC after cremation criticism
+
+*2024-05-09 15:50:00* · [`economynextcom`](https://economynext.com/palestine-issue-helps-sri-lanka-to-regain-reputation-among-oic-after-cremation-criticism-162184/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stance on Palestine in the face of Israel’s offensive push with human rights violations has helped the island nation to regain its reputation among the countries in the Organisation of Islamic Cooperation (OIC) after strong criticism over forced cremation of Muslim Covid victims, Foreign Minister Ali Sabry said.
+
+The government of former president Gotabaya Rajapaksa led by current ruling party Sri Lanka Podujana Peremuna (SLPP) forced Muslims and Christians to cremate the dead bodies of those who died of Covid-19 in 2020.
+
+The OIC raised the forced cremations issue at the 46th United Nations Human Rights Council (UNHRC) in February 2021 after the SLPP government rejected repeated requests by local and global Islamic bodies.
+
+The policy was later reversed, but the move hit diplomatic ties with Middle Eastern and OIC nations which is the highest source of employment for Sri Lankan expatriates.
+
+...
+
+[Data](articles/194dddd9.json)
 
 ---
 
@@ -60,39 +100,65 @@ Meanwhile, the Police Spokesman also assured that further investigations are in 
 
 [Data](articles/6c7788fe.json)
 
+[Extended Data](ext_articles/6c7788fe.ext.json)
+
 ---
 
-### විදුලිබල පනත් කෙටුම්පත ට එරෙහි පෙත්සම් විභාගය ඇරඹෙයි
+### Petition against Power and Bill begins
 
 *2024-05-09 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196439) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති විදුලිබල පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යයි තීන්දු කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාග කිරීම අද (09) ආරම්භ විය.
+A petition against a power bill was filed at the Supreme Court, led by 14 parties including Ceylon Electricity staff. The court panel, including Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekere, will examine the case. The Attorney General's representative, Wark Siriwardena, argued the bill aims to improve electricity distribution and sale.
 
-විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වෙයි.
+🟩
 
-පෙත්සම් විභාගය ආරම්භයේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විවේකා සිරිවර්ධන මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් විදුලිබල නිෂ්පාදනය, බෙදාහැරීම සහ අලෙවිය කාර්යක්ෂම කොට පාරිභෝගිකයින්ට සහනදායි සේවාවක් ලබාදීමේ අපේක්ෂාවෙන් මෙම පනත් කෙටුම්පත රජය විසින් ඉදිරිපත් කර තිබෙන බව සඳහන් කළාය.
+The petitions filed by the Supreme Court today commenced today (09), the Petitions filed by the Supreme Court today (09) was commenced in the Supreme Court.
 
-අතිරේක සොලිසිටර් ජනරාල්වරියගේ දේශනවලින් පසුව පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු කරුණු ඉදිරිපත් කිරීම ආරම්භ කළහ.
+The petition examination will be held in front of the three-member Supreme Court panel consisting of Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekere.
 
-ලංකා විදුලි සේවක සංගමයේ ලේකම් රන්ජන් ජයලාල් ඇතුළු පාර්ශ්ව 14 ක් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
+Additional Solicitor General's Wark Siriwardena appearing on behalf of the Attorney General at the beginning of the petition and said that the Bill has been presented with the prospect of providing electricity, distribution and sale.
+
+After the lectures of the Solicitor General's lectures, the Attorneys on the petitioners began to present the facts.
+
+The petitions were filed by 14 parties including the Ceylon Electricity staff. Ranjan Jayalal.
 
 ◼️
 
 [Data](articles/7d963748.json)
 
+[Extended Data](ext_articles/7d963748.ext.json)
+
 ---
 
-### විදුලි බිලට නැවත සහනයක්
+### Relief to electricity bills
 
 *2024-05-09 15:39:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-නැවත-සහනයක්/11-409528) · `si`
 
-විදුලි බිල අඩු කිරීමේ යෝජනා මේමස 10 වැනිදාට පෙර ලබා දෙන ලෙස විදුලිබල මණ්ඩලයට දැනුම් දී ඇති බව මහජන උපයෝගීතා කොමිසම පවසයි.  මේමස 01 දින වන විට ලබාදිය යුතුව තිබූ යොජනා සඳහා විදුලිබල මණ්ඩලය විසින් කල් ඉල්ලූ බව මහජන උපයෝගීතා කොමිසම වැඩි දුරටත් දන්වා සිටියි.
+The Public Utilities Commission has directed the Electricity Board to submit tariff proposals to the CEB, aiming to reduce electricity bills. The procedure to implement these proposals will commence, with the percentage of electricity tariffs to be announced in July.
 
-අදාල යොජනා ලබාදීමෙන් අනතුරුව විදුලි බිල අඩුකිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ නරනු ඇත. ඒ් අනුව විදුලි බිල අඩුකිරීමේ ප්‍රතිශතයන් එළබෙන ජූලි මාසයේ ප්‍රකාශ කරන බව මහජන උපයෝගීතා කොමිසම දැනුම්දෙයි.
+🟩
+
+The Public Utilities Commission says that the Electricity Board has informed the CEB to give the electricity tariff proposals to the Rs. 10.The Public Utilities Commission has also asked that the CEB has requested the proposal for the proposals needed by the same.
+
+The procedure to reduce the electricity bill will be started. So the Public Utilities Commission is notified that the percentage of electricity tariffs will be published in July.
 
 ◼️
 
 [Data](articles/7ff74ed6.json)
+
+[Extended Data](ext_articles/7ff74ed6.ext.json)
+
+---
+
+### கிஷோர் நடிக்கும் 'தலைமை செயலகம்' அசல் இணையத் தொடரின் முன்னோட்டம் வெளியீடு
+
+*2024-05-09 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183052) · `ta`
+
+முன்னணி டிஜிட்டல் தளங்களில் ரசிகர்களுக்காக புதிய விறுவிறுப்பான இணைய தொடர்கள் உருவாகி வெளியாவது தற்போதைய ட்ரெண்ட். அந்த வகையில் ஜீ5 எனும் டிஜிட்டல் தளத்தில் நடிகர் கிஷோர் உள்ளிட்ட தமிழ் திரையுலகத்தின் முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருக்கும் 'தலைமை செயலகம்' எனும் அரசியல் திரில்லர் வகையிலான அசல் இணைய தொடர் வெளியாகிறது. இந்த இணையத் தொடர் எதிர்வரும் 17ஆம் திகதி முதல் ஜீ5 டிஜிட்டல் தளத்தில் ஒளிபரப்பாகிறது. இதனைத் தொடர்ந்து இந்த இணையத் தொடரின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/2d3a615d.json)
 
 ---
 
@@ -115,6 +181,8 @@ According to police, information has been uncovered that the murder was carried 
 ◼️
 
 [Data](articles/7c5af0dd.json)
+
+[Extended Data](ext_articles/7c5af0dd.ext.json)
 
 ---
 
@@ -169,6 +237,62 @@ The police said further investigations are being conducted according to the info
 [Data](articles/9ac85bba.json)
 
 [Extended Data](ext_articles/9ac85bba.ext.json)
+
+---
+
+### Sri Lanka to end emission testing duopoly
+
+*2024-05-09 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-end-emission-testing-duopoly-162311/) · `en`
+
+ECONOMYNEXT – Sri Lanka will invite new companies to set up emission testing services ending a duopoly that now exists, Trade Minister Nalin Fernando said.
+
+At the moment Laugfs Eco Sri Limited and CleanCo Lanka Limited offer vehicle emission testing in Sri Lanka.
+
+“Considering the number of vehicles in Sri Lanka, complaints we have received from the public, and that the desired emissions reduction has not happened, we have proposed to call for bids, or expressions of interest from other vendors,” Fernando said in Parliament on Thursday.
+
+State organizations like the Sri Lanka Transport Board can also do emission testing, the Minister said. (Colombo/May9/2024)
+
+◼️
+
+[Data](articles/131923f4.json)
+
+---
+
+### The presidential election is from September 17 to October 16
+
+*2024-05-09 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183061) · `ta`
+
+The National Elections Commission announced the presidential election will be held from September 17 to October 16, as stated by RMAL Ratnayake, the Election Commission Chairman, on Thursday.
+
+🟩
+
+Special notification has been issued by the National Elections Commission regarding the presidential election. Accordingly, the Presidential Elections will be held between September 17 and October 16, said RMAL Ratnayake, Chairman of the Election Commission.
+
+The Chairman of the Election Commission made this statement on Thursday.
+
+◼️
+
+[Data](articles/8486980c.json)
+
+[Extended Data](ext_articles/8486980c.ext.json)
+
+---
+
+### நானுஓயா ரதல்ல வீதியில் கனரக வாகனங்கள் செல்வதை தடை செய்ய நடவடிக்கை எடுக்க வேண்டும் - மக்கள் கோரிக்கை !
+
+*2024-05-09 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183062) · `ta`
+
+நுவரெலியா- தலவாக்கலை வீதியின் நானுஓயா – ரதல்ல குறுக்கு வீதியின் இருபுறமும் போடப்பட்டுள்ள பாதுகாப்பு இரும்பு வேலி பல இடங்களில் சேதமடைந்துள்ளதாக  வீதியை பயன்படுத்தும் பொது மக்கள் தெரிவிக்கின்றனர்.
+
+ஒருபுறம் செங்குத்தான சரிவு கொண்ட இந்த வீதி பகுதியில் வாகன விபத்துக்கள் தொடர்ந்து இடம்பெறுவதாகவும், பாதுகாப்பு வீதி இரும்பு வேலி இருப்பதால் பல விபத்துக்கள் தவிர்க்கப்பட்டுள்ளதாகவும் அவர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+இந்த வீதியில் அடிக்கடி ஏற்படும் வீதி விபத்துகளால் சுமார் ஒரு வருடமாக பேருந்துகள் உள்ளிட்ட கனரக வாகனங்கள் செல்ல தடை விதிக்கப்பட்டிருந்தன. இந்த வீதியில் விபத்துகள் இடம் பெறுவதால் பல இடங்களில் பாதுகாப்புக்காக மண்  மூடைகள் வைக்கப்பட்டு அவையும் சேதமடைந்துள்ளதாகவும் வாகன சாரதிகள் தெரிவிக்கின்றனர்.
+
+இவ் வீதியை முறையாக செப்பனிட வீதி அபிவிருத்தி அதிகாரசபை முன் வர வேண்டும் என அப் பகுதியில் உள்ள மக்கள் மற்றும் வாகன சாரதிகள் கோரிக்கை விடுக்கின்றனர்.
+
+...
+
+[Data](articles/77e0d430.json)
 
 ---
 
@@ -245,26 +369,6 @@ He is a member of the Ratgama Vidura party and the police suspect that the murde
 [Data](articles/fdea9fc5.json)
 
 [Extended Data](ext_articles/fdea9fc5.ext.json)
-
----
-
-### The presidential election is from September 17 to October 16
-
-*2024-05-09 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183061) · `ta`
-
-The National Elections Commission announced the presidential election will be held from September 17 to October 16, as stated by RMAL Ratnayake, the Election Commission Chairman, on Thursday.
-
-🟩
-
-Special notification has been issued by the National Elections Commission regarding the presidential election. Accordingly, the Presidential Elections will be held between September 17 and October 16, said RMAL Ratnayake, Chairman of the Election Commission.
-
-The Chairman of the Election Commission made this statement on Thursday.
-
-◼️
-
-[Data](articles/8486980c.json)
-
-[Extended Data](ext_articles/8486980c.ext.json)
 
 ---
 
@@ -432,6 +536,24 @@ He said the journalist responded to a journalist who was spent on the darkener..
 
 ---
 
+### Sri Lanka to hold Presidential polls between Sept 17-Oct16: Commission
+
+*2024-05-09 14:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hold-presidential-polls-between-sept-17-oct16-commission-162313/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hold Presidential polls between September 17 and October 16, 2025, as required by law, the Elections Commission said.
+
+The Commission said it will call for nominations within the specified period.
+
+“The Election Commission will call for nominations for the presidential election within the specified timeframe in terms of the provisions of the Constitution of the Democratic Socialist Republic of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested in the Election Commission to fix the date for the election, it will hold the presidential election between 17 September 2024 and l6 October 2024,” Election Commission Chairman R M A L Rathnayake said in a statement.
+
+Sri Lanka’s key parties are gearing up for elections where some parties are expected to form loose alliances to support their candidates.
+
+...
+
+[Data](articles/2e1591d3.json)
+
+---
+
 ### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
 
 *2024-05-09 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
@@ -508,6 +630,20 @@ The Magistrate also ordered the Controller of Immigration and the Controller of 
 
 ### Presidential poll to be held between September 17, October 16
 
+*2024-05-09 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-poll-to-be-held-between-September-17-October-16/155-282248) · `en`
+
+Colombo, May 9 (Daily Mirror) - The Election Commission formally announced that the 2024 Presidential election will be held on a day between September 17 and October 16.
+
+Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commission said it will call for nominations to hold the Presidential election within the specified timeframe in terms of the provisions of the Constitution of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested with the Election Commission to fix the date for the election, it will hold the Presidential election between 17 September 2024 and l6 October 2024.
+
+◼️
+
+[Data](articles/25e44fe5.json)
+
+---
+
+### Presidential poll to be held between September 17, October 16
+
 *2024-05-09 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-poll-to-be-held-between-September-17-October-16/108-282248) · `en`
 
 Colombo, May 9 (Daily Mirror) - The Election Commission formally announced that the 2024 Presidential election will be held on a day between September 17 and October 16.
@@ -538,19 +674,49 @@ Issuing an announcement today (09), the Election Commission also said that by vi
 
 ---
 
-### පෝලන්තයේ රැකියා දෙන බව පවසා මුදල් වංචා කළ හොර ඒජන්සිය වටලයි
+### Sri Lanka legal alcohol sales down 19-pct in 2023
+
+*2024-05-09 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-legal-alcohol-sales-down-19-pct-in-2023-162302/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s legal alcohol sales were down 19 percent in 2023 amid an economic crisis and tax hikes, State Minister Ranjith Siyambalapitiya said.
+
+He said unlike other countries there is no link between alcohol consumption and legal outlets since there was illegal alcohol everywhere and especially in areas with no legal outlets also.
+
+“Alcohol consumption fell by 19 percent from 2022 to 2023, the year the opposition pointed out the government increased the issuing of liquor permits,” Siyambalapitiya said in response to a question.
+
+“In 2022 43.3 million litres of alcohol were produced. In 2023 it was 35.1 million litres. This is a drop of 8.2 percent.”
+
+The government issued 5,730 liquor licenses under 30 categories by January 2024; an increase of 214 from 5,516 in January 2023, Siyambalapitiya said in response to an opposition question.
+
+“Of the 214 alcohol licenses granted, 147 are for the tourism industry related parties.”
+
+...
+
+[Data](articles/d63e789f.json)
+
+---
+
+### The fine agency raided by cheating money in Poland
 
 *2024-05-09 13:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පෝලන්තයේ-රැකියා-දෙන-බව-පවසා-මුදල්-වංචා-කළ-හොර-ඒජන්සිය-වටලයි/11-409522) · `si`
 
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පෝලන්තයේ රැකියා ලබාදීම සඳහා මුදල් ලබාගත් වංචනික විදේශ රැකියා නියෝජිතායතනයක් කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (5/8) වැටලීම් කරන ලදී.
+In Poland, the Special Investigation Division of the Bureau of Fridge raided a fraudulent foreign employment agency, operating as a visa consulting center in Rajagiriya, Sri Lanka. The agency, lacking a valid license from the Sri Lanka Bureau, was accused of cheating money. The raid led to the arrest of the owner, a 40-year-old from Kurunegala, and another individual from Weliweriya. Investigations uncovered two passports and numerous foreign educational applications. The suspects are to be produced before the Colombo New Treak No. 5 and Mahara Magistrate's Courts.
 
-රාජගිරිය ප්‍රදේශයේ  වීසා උපදේශන මධ්‍යස්ථානයක් මුවාවෙන් මෙම ආයතනය පවත්වාගෙන ගොස් තිබේ. එම ආයතනයට පෝලන්තයේ රැකියාවක් ලබාදීම සඳහා රුපියල් ලක්ෂයක මුදලක් ලබාදී, පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශයට පැමිණිලි කර ඇත. ඒ අනුව මෙම වැටලීම සිදුකර ඇති අතර, එහිදි අදාල ස්ථානයේ හිමිකරු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී. එසේම අදාල ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර 2ක් හා විදේශ රැකියා අයදුම්පත්‍ර රැසක්ද විමර්ශන නිළධාරීන් භාරයට ගෙන තිබේ.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු කුරුණෑගල ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකු වන අතර, ඔහු අද දින (5/9) කොළඹ අලුත් කඩේ අංක 5 මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Officers' Special Investigations Division (5/8) raided by the Special Investigation Division of the Bureau of Fridge, a fraudulent foreign employment agency to provide employment in Poland without a valid license of the Sri Lanka Bureau.
+
+The company has been operated with the guise of a visa consulting center in Rajagiriya. A person complained to the Bureau that a sum of Rs.. Accordingly, the raid was carried out, and the owner was arrested by the Investigation Officers of the site. Investigations have also taken into custody by two passports and many foreign educational applications.
+
+The suspect is a 40-year-old resident of Kurunegala, and he is to be produced before the Colombo New Treak No. 5 Magistrate's Court today.
+
+A lodge from the Bureau of the Bureau, a person from the Weliweriya area was also arrested yesterday (5/8), a person from the Weliweriya area.
 
 ...
 
 [Data](articles/ffb20975.json)
+
+[Extended Data](ext_articles/ffb20975.ext.json)
 
 ---
 
@@ -2107,173 +2273,5 @@ He said NARA did not carry out any inspection on the status of coral reefs in th
 [Data](articles/fdad0340.json)
 
 [Extended Data](ext_articles/fdad0340.ext.json)
-
----
-
-### Sri Lanka keen to resume unilaterally cancelled LRT, but no agreement from Japan: FM
-
-*2024-05-09 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-keen-to-resume-unilaterally-cancelled-lrt-but-no-agreement-from-japan-fm-162182/) · `en`
-
-ECONOMYNEXT – Sri Lanka has requested Japanese government to resume a $1.5 billion worth Light Rail Transit project which was unilaterally cancelled by former leader Gotabaya Rajapaksa, but Tokyo has not agreed on the request, Foreign Minister Ali Sabry said.
-
-The project was cancelled by Rajapaksa without any discussion with Japan or its main funding agency Japan International Cooperation Agency (JICA) in 2021, leading to severed ties in the diplomatic relations between the two countries.
-
-Sri Lanka President Ranil Wickremesinghe has apologized to the Japanese government in May 2023 in his official visit to Tokyo for the cancellation of the project.
-
-Though Japan has agreed to resume all the project stopped due to Sri Lanka’s unprecedented economic crisis, Tokyo has not agreed to resume the LRT after the then Japanese government went out of way to help Sri Lanka to fund the project.
-
-...
-
-[Data](articles/8ec1110d.json)
-
-[Extended Data](ext_articles/8ec1110d.ext.json)
-
----
-
-### Thunderstorm in many provinces
-
-*2024-05-09 08:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாகாணங்களில்-இடியுடன்-கூடிய-மழை/175-337007) · `ta`
-
-Rain or thunderstorms are expected in many provinces after 2 pm, with heavy rainfall in North Central, Central, Sabaragamuwa, Uva, Eastern Provinces, and Mullaitivu District. The Department of Meteorology advises taking precautions against heavy winds and lightning.
-
-🟩
-
-In many provinces of the country, rain or thunderstorms are expected after 2.00 pm this afternoon.
-
-Heavy rainfall is likely in some places in the North Central, Central, Sabaragamuwa, Uva and Eastern Provinces and Mullaitivu District.
-
-The Department of Meteorology has requested the general public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/afe27852.json)
-
-[Extended Data](ext_articles/afe27852.ext.json)
-
----
-
-### CEB has not given the proposal to reduce the electricity tariffs to the utility commission
-
-*2024-05-09 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196420) · `si`
-
-CEB missed the May 1 deadline to submit proposals for reducing electricity tariffs to the Public Utilities Commission of Sri Lanka. The Commission extended the deadline to May 10 upon CEB's request. Prof. Manjula Fernando suggests that after receiving the proposals, a firm reduction in tariffs could be announced in July.
-
-🟩
-
-Professor Manjula Fernando says that the proposals to reduce electricity tariffs have not been provided to the Public Utilities Commission of Ceylon Electricity Board.
-
-The proposals were to be given to the Commission on the first on May 1.
-
-However, the Public Utilities Commission has taken steps to extend the time to tomorrow (10) on a request made by the CEB.
-
-Accordingly, the Public Utilities Commission has informed the Ceylon Electricity Board to provide the proposals before tomorrow.
-
-Prof. Manjula Fernando said that after receipt of the electricity tariffs, the firm reduction of electricity tariffs could be stated in July.
-
-◼️
-
-[Data](articles/caff788f.json)
-
-[Extended Data](ext_articles/caff788f.ext.json)
-
----
-
-### From Israel To Sri Lanka: The Political Power Of The Defense agenda
-
-*2024-05-09 08:26:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-israel-to-sri-lanka-the-political-power-of-the-defense-agenda/) · `en`
-
-Presidential politics are bad, particularly how it intertwines with the presidential system and the central role of defense and violence in maintaining political power. This examination is not a critique of foreign policy in isolation but a broader analysis of the mechanics of political authority within the presidential framework of the United States and Sri Lanka. My aim is to dissect how violence by way of conflation not only perpetuates but also emboldens the presidential system, transforming defense into a pinnacle of political maneuvering.
-
-...
-
-[Data](articles/6bd8b772.json)
-
-[Extended Data](ext_articles/6bd8b772.ext.json)
-
----
-
-### One person arrested at the airport
-
-*2024-05-09 08:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-ஒருவர்-அதிரடி-கைது/175-337006) · `ta`
-
-A 32-year-old man from Homagama, arrested at Katunayake Airport, attempted to smuggle over Rs 2 crore worth of Kush drugs from Bangkok to Sri Lanka. Police are investigating.
-
-🟩
-
-A person who tried to bring Kush drugs worth more than Rs 2 crore to Sri Lanka has been arrested by the authorities of the Katunayake Airport Drug Eradication Unit.
-
-The suspect has come to Sri Lanka from Bangkok, Thailand.
-
-The suspect is a 32 -year -old from Homagama area and further investigations are being carried out by the police officers of the Narcotics Unit.. Remble
-
-◼️
-
-[Data](articles/916d1219.json)
-
-[Extended Data](ext_articles/916d1219.ext.json)
-
----
-
-### Torture and sexual harassment against Tamils ​​in Sri Lanka continues - the new report for international fact and justice
-
-*2024-05-09 08:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183023) · `ta`
-
-Torture and sexual harassment of Tamils in Sri Lanka persist, despite Ranil Wickremesinghe's government in July 2022. Reports detail severe abuses, including sexual torture of 91 detainees, including a woman, and the use of heated materials on 46 individuals. The UN Human Rights High Commissioner, Volcker Rourg, addressed these issues on March 1, 2024.
-
-🟩
-
-Ranil Wickremesinghe's new government in July 2022
-
-Or heated them with warm materials. 46 people pressing the face of the water
-
-In March 2022, a 28 -year -old man came to Jaffna in ordinary clothes
-
-Sexual torture was also used frequently. 91 detainees including a woman
-
-The UN. Human Rights High Commissioner Volcker Rourg held on March 1, 2024
-
-◼️
-
-[Data](articles/e0b8b872.json)
-
-[Extended Data](ext_articles/e0b8b872.ext.json)
-
----
-
-### National women's cricket team returns
-
-*2024-05-09 08:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/National-women-s-cricket-team-returns/110-282219) · `en`
-
-The Sri Lanka national women's cricket team, which won the ICC Women's T20 World Cup Qualifier final, arrived at the Bandaranaike International Airport this morning. Pix by T.K.G. Kapila
-
-◼️
-
-[Data](articles/59298ff9.json)
-
-[Extended Data](ext_articles/59298ff9.ext.json)
-
----
-
-### Health Trade Unions on provincial level
-
-*2024-05-09 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196419) · `si`
-
-Health Trade Union UPFA plans a 4-hour strike in North Central Province hospitals today, from 8 AM to 12 PM. However, the All Ceylon Nurses Union will not participate. The strike will also occur in the Western Province on 21st.
-
-🟩
-
-The Health Trade Union UPFA says that the trade union measures will be launched today (09) due to the preliminary agreements for their demands.
-
-Accordingly, the co-convener convener of the UPFA said that a strike action will be taken in all hospitals in the North Central Province for 4 hours from 8.00 to 12 north.
-
-However, the General Secretary of All Ceylon Nurses Union, HMSB Kumadu said that the strike is not participating today.
-
-21 - Western Province, the strike action will be implemented.
-
-◼️
-
-[Data](articles/32a4468e.json)
-
-[Extended Data](ext_articles/32a4468e.ext.json)
 
 ---

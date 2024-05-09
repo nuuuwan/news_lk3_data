@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 08:18:13**
+As of **2024-05-09 08:33:43**
 
 ## Newspaper Stats
 
-*Scraped **22,855** Articles*
+*Scraped **22,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,331
 adalk | 1,930
 tamilmirrorlk | 2,672
 adaderanalk | 2,680
-virakesarilk | 3,398
+virakesarilk | 3,399
 dailymirrorlk | 3,589
 adaderanasinhalalk | 3,655
 
@@ -26,27 +26,53 @@ adaderanasinhalalk | 3,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,850 (100.0%) of 22,855 articles have been extended.
+22,855 (100.0%) of 22,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### සෞඛ්‍ය වෘත්තීය සමිති අද සිට පළාත් මට්ටමින් වැඩ වර්ජනයක
+### Health Trade Unions on provincial level
 
 *2024-05-09 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196419) · `si`
 
-සිය ඉල්ලීම් සදහා ලබාදුන් එකඟතාවන් ඉටු නොකිරීම හේතුවෙන් අද (09) සිට පළාත් මට්ටමින් රෝහල් තුළ වෘත්තීය සමිති ක්‍රියාමාර්ග ආරම්භ කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+Health Trade Union UPFA plans a 4-hour strike in North Central Province hospitals today, from 8 AM to 12 PM. However, the All Ceylon Nurses Union will not participate. The strike will also occur in the Western Province on 21st.
 
-ඒ අනුව අද පෙරවරු 8.00 සිට දහවල් 12.00 දක්වා පැය 4ක කාලයක් උතුරු මැද පළාතේ සියලු රෝහල්වල වර්ජන ක්‍රියාමාර්ගයක් සිදුකරන බව එම සන්ධානයේ සම කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+🟩
 
-කෙසේවෙතත් අද දින පැවැත්වෙන වර්ජනය සඳහා හෙද හෙදියන්ගේ සහභාගීත්වයක් සිදුනොවන බව සමස්ත ලංකා හෙද සංගමයේ ප්‍රධාන ලේකම් එච්.එම්.එස්.බි.මැදිවත්ත මහතා සඳහන් කළේය.
+The Health Trade Union UPFA says that the trade union measures will be launched today (09) due to the preliminary agreements for their demands.
 
-21 - බස්නාහිර පළාත යනාදී වශයෙන් මෙම වර්ජන ක්‍රියාමාර්ගය ක්‍රියාත්මක වනු ඇත.
+Accordingly, the co-convener convener of the UPFA said that a strike action will be taken in all hospitals in the North Central Province for 4 hours from 8.00 to 12 north.
+
+However, the General Secretary of All Ceylon Nurses Union, HMSB Kumadu said that the strike is not participating today.
+
+21 - Western Province, the strike action will be implemented.
 
 ◼️
 
 [Data](articles/32a4468e.json)
+
+[Extended Data](ext_articles/32a4468e.ext.json)
+
+---
+
+### இலங்கையில் தமிழர்களிற்கு எதிரான சித்திரவதைகளும் பாலியல் வன்கொடுமைகளும் தொடர்கின்றன -  புதிய அறிக்கையில் சர்வதேச உண்மை மற்றும் நீதிக்கான செயற்திட்டம்
+
+*2024-05-09 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183023) · `ta`
+
+24பேரில் 11 பேர் - சம்பவங்கள் யூலை 2022இல் ரணில் விக்கிரமசிங்கவின் புதிய அரசாங்கம் பதவிக்கு
+
+அல்லது சூடான பொருட்களால் அவர்களுக்கு சூடுவைக்கப்பட்டது. 46 பேர் நீரில் முகத்தை அழுத்தி
+
+2022 மார்ச்சில் 28 வயது ஆண் ஒருவர் யாழ்ப்பாணத்தில் வைத்து சாதாரண உடைகளில் வந்த
+
+பாலியல் ரீதியான சித்திரவதையும் அடிக்கடி பயன்படுத்தப்பட்டது. ஒரு பெண் உள்ளிட்ட 91 தடுத்துவைப்பு
+
+ஐ.நா. மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கெர் ரூர்க் 2024 மார்ச் 1 ம் திகதி இடம்பெற்ற மனித
+
+◼️
+
+[Data](articles/e0b8b872.json)
 
 ---
 
@@ -56,11 +82,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 A Sri Lankan passenger arriving from Thailand has been arrested at the Bandaranaike International Airport (BIA) in Katunayake last night for the possession of more than 05 kg of Kush cannabis.
 
-The suspect, a resident of Homagama, was arrested by Airport Narcotics Division for possessing 05 kg and 278 g of Kush cannabis.
+The suspect, a 32-year-old resident of Homagama, was arrested by Police Narcotics Bureau (PNB) officers at the airport after 05 kilograms and 278 grams of Kush cannabis was found concealed inside his luggage.
+
+The Kush cannabis, with an estimated street value of over Rs. 20 million, had been packed into 36 separate parcels and hidden inside his luggage, Ada Derana reporter said.
+
+The arrested passenger, who is a dancer by professions, had arrived at BIA at around 10.40 p.m. last night (08) from Bangkok, Thailand onboard an AirAsia flight.
+
+The Police Narcotics Bureau (PNB) is conducting further investigations into the arrested suspect.
 
 ◼️
 
 [Data](articles/4a77642f.json)
+
+[Extended Data](ext_articles/4a77642f.ext.json)
 
 ---
 
@@ -80,43 +114,57 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/93311134.json)
 
+[Extended Data](ext_articles/93311134.ext.json)
+
 ---
 
-### කෝටි 2කට අධික කුෂ් මත්ද්‍රව්‍ය තොගයක් ගුවන්තොටේ දී මාට්ටු
+### Rs. 2 crores arrested in airport
 
 *2024-05-09 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196418) · `si`
 
-රුපියල් කෝටි 2කට අධික වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට උත්සාහ කළ පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old man from Homagama was arrested at Katunayake Airport for attempting to smuggle over Rs. 2 billion worth of drugs from Bangkok, Thailand. The Narcotics Bureau officers found 5 kilograms and 278 grams of drugs. Further investigations are ongoing.
 
-කටුනායක ගුවන්තොටුපොළ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු තායිලන්තයේ බැංකොක් නුවර සිට මෙරටට පැමිණ ඇති අතර ඔහුගේ ගමන්මල්ලේ ඉතා සූක්ෂව අසුරා තිබු කිලෝග්‍රෑම් 5යි ග්‍රෑම් 278ක් බරැති කුෂ් මත්ද්‍රව්‍ය තොගයක් පොලීසිය විසින් සොයාගෙන තිබේ.
+A person who was trying to bring a large quantity of rash drugs worth over Rs. 2 billion has been arrested at the Katunayake Airport.
 
-මෙම සැකකරු හෝමාගම ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකු වන අතර පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරින් විසින් වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+The suspect was arrested by the officers of the Narcotics Bureau of Katunayake airport.
+
+The suspect was arrested from Bangkok, Thailand, and the police found 5 kilograms and 278 grams weighing 278 grams.
+
+The suspect is a 32 year old resident of the Homagama area and the officers of the Police Narcotics are conducting further investigations.
 
 ◼️
 
 [Data](articles/7e3f2683.json)
 
+[Extended Data](ext_articles/7e3f2683.ext.json)
+
 ---
 
-### ඩයනාට ශ්‍රේෂ්ඨාධිකරණය දුන් නියෝගය අභියෝගයට ලක් කළ හැකි ද?
+### Can you challenge the decree of the Supreme Court to Diana?
 
 *2024-05-09 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196417) · `si`
 
-රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් තීන්දුව පුර්ණ ශ්‍රේෂ්ඨාධිකරණ විනිශ්චය මණ්ඩලයක් මඟින් අභියෝගයට ලක්කළ හැකි බව කොළඹ විශ්වවිද්‍යාලයේ ශ්‍රීපාලි මණ්ඩපයේ මණ්ඩාධිපති මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා පවසයි.
+Prof. Prathibhi Moonahewa suggests challenging the Supreme Court's decision on Diana Gamage's parliamentary eligibility due to her British citizenship. He mentions the possibility of a full Supreme Court Judgment Board to overturn the decision. Meanwhile, he criticizes the party's legality and calls for separate cases to address the MP's four-year tenure and citizenship issues.
 
-ඔහු පෙන්වාදෙන්නේ, ඩයනා ගමගේ මහත්මියට ශ්‍රේෂ්ඨාධිකරණයේ ත්‍රිපුද්ගල විනිශ්චය සභාවක් ලබාදුන් නඩු තීන්දුවක් බැවින් එය පූර්ණ විනිශ්චය මණ්ඩලයක් මඟින් අභියෝගයට ලක් කළ හැකි බවය.
+🟩
 
-ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට ශ්‍රේෂ්ඨාධිකරණය ඊයේ (08) නියෝග කළේය.
+Prof. Prathibhi Moonahewa, Professor Prathibhi Moonahewa, said that the Supreme Court's decision to be held in Parliament to sit in Parliament.
 
-ඒ සමාජ ක්‍රියාකාරිකයෙකු වන ඕෂල හේරත් මහතා ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කරමිනි.
+He pointed out that the Supreme Court is a court ruling given by the Supreme Court, as a three-judy of judiciary in the Supreme Court can challenge a complete tribunal.
 
-අදාළ තීන්දුව සම්බන්ධයෙන් ඩයනා ගමගේ මහත්මියට තවත් එක් අවස්ථාවක් පවතින බව මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා සඳහන් කළේය.
+Since Ms. Diana Gamage is a British citizenship, the Supreme Court yesterday ordered that she had no legitimate qualification to sit in the parliament.
+
+After hearing a appeal of Appeal, Mr. Oshala Herath, an appeal of the party, was heard.
+
+Prof. Prathibha Gamage said that the Gamage has another opportunity for the verdict.
 
 ...
 
 [Data](articles/c09dadf7.json)
+
+[Extended Data](ext_articles/c09dadf7.ext.json)
 
 ---
 
@@ -2187,31 +2235,5 @@ Meanwhile, it is reported that police are expected to obtain 90-day detention or
 [Data](articles/e96b27d4.json)
 
 [Extended Data](ext_articles/e96b27d4.ext.json)
-
----
-
-### Panadura heavy weapons in Panadura - Language to win cricket
-
-*2024-05-08 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196402) · `si`
-
-Panadura's cricketing prowess, highlighted by Ada Derana, faces challenges from family opposition and societal expectations. Nilanka, a star from Panadura, seeks support to overcome these hurdles.
-
-🟩
-
-Ada Derana has delegated the value of a wake to the country, which is a wake to the country in the jungle, which is devoted to the sport.
-
-Another similar same country has the ability and interest, but we have recorded a star about a star that has been reported from Panadura.
-
-Although he has made a lot of efforts to proceed with cricket, he is the biggest barrier of their family.
-
-In a world's motivation, Nilanka's expectations are also unable to make the world's mother-in-law.
-
-He says that if this crisis is a comfortable, it will be a big help to go to his goal.
-
-◼️
-
-[Data](articles/c9faf253.json)
-
-[Extended Data](ext_articles/c9faf253.ext.json)
 
 ---

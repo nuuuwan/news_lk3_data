@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 19:51:31**
+As of **2024-05-09 20:03:17**
 
 ## Newspaper Stats
 
-*Scraped **23,005** Articles*
+*Scraped **23,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,692
 adaderanalk | 2,700
 virakesarilk | 3,420
 dailymirrorlk | 3,612
-adaderanasinhalalk | 3,683
+adaderanasinhalalk | 3,684
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,003 (100.0%) of 23,005 articles have been extended.
+23,005 (100.0%) of 23,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### මුජිබර් රහුමාන් ව නම් කරමින් ගැසට්ටුව පිටවෙයි
+
+*2024-05-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196450) · `si`
+
+ඩයනා ගමගේ ඉවත් කිරීමෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා සමගි ජන බලවේගය විසින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වූ මුජිබර් රහුමාන් මහතාව නම් කළ බවට අදාළ ගැසට් නිවේදනය නිකුත් කර තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව වෙත පැවරී ඇති බලතල අනුව මෙම ගැසට් නිවේදනය නිකුත් කර ඇත.
+
+ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් තීන්දුවකට අනුව ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුර‍ය අහෝසි විය.
+
+ඒ අනුව පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා සමගි ජන බලවේගය විසින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වූ මුජිබර් රහුමාන් මහතාව නම් කරන බව මැතිවරණ කොමිෂන් සභාවට දැනුම් දී තිබුණි.
+
+◼️
+
+[Data](articles/8cde552c.json)
+
+---
 
 ### Mujibur Rahman’s name gazetted as SJB MP
 
@@ -45,6 +63,8 @@ The Secretary-General of Parliament informed the Election Commission that a Parl
 ...
 
 [Data](articles/3b668b92.json)
+
+[Extended Data](ext_articles/3b668b92.ext.json)
 
 ---
 
@@ -63,6 +83,8 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from 
 ◼️
 
 [Data](articles/0960b87a.json)
+
+[Extended Data](ext_articles/0960b87a.ext.json)
 
 ---
 
@@ -2271,27 +2293,5 @@ The Police Narcotics Bureau is conducting investigations into the incident.
 [Data](articles/d03cd33b.json)
 
 [Extended Data](ext_articles/d03cd33b.ext.json)
-
----
-
-### Dianey does not inform the election commission on vacant seat
-
-*2024-05-09 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196428) · `si`
-
-The Parliament notified the Elections Commission about a vacant seat due to Mrs. Dianey Gamage's abolition. Kushani Rohanajera and General Secretary Kushani Rohana were informed by Diyain Gamage, a National List MP, under Section 64 (1) of the Parliament Election Act No. 1 of 1981.
-
-🟩
-
-The Parliament has informed the Elections Commission that there is a vacancy of a parliamentary parliamentary parliamentary seat due to the abolition of Mrs. Dianey Gamage.
-
-Parliamentarian Kushani Rohanajera, General Secretary Kushani Rohana, has been informed by the National List of Parliamentary Member of Parliament Diyain Gamage..
-
-The notice has been made in terms of Section 64 (1) of the Parliament Election Act No. 1 of 1981.
-
-◼️
-
-[Data](articles/aca99959.json)
-
-[Extended Data](ext_articles/aca99959.ext.json)
 
 ---

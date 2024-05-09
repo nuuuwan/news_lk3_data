@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 15:52:23**
+As of **2024-05-09 16:04:51**
 
 ## Newspaper Stats
 
-*Scraped **22,956** Articles*
+*Scraped **22,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,160 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,942
+adalk | 1,944
 tamilmirrorlk | 2,689
-adaderanalk | 2,693
+adaderanalk | 2,695
 virakesarilk | 3,412
 dailymirrorlk | 3,606
-adaderanasinhalalk | 3,673
+adaderanasinhalalk | 3,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,953 (100.0%) of 22,956 articles have been extended.
+22,956 (100.0%) of 22,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### යුක්‍රේන - රුසියා යුද්ධයට ගිය ශ්‍රී ලාංකිකයන් 6ක් මරුට
+### රත්‍රන් ජෙල් සමග පුද්ගලයෙක් කොටුවෙයි
+
+*2024-05-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196440) · `si`
+
+ඩුබායි සිට අද (09) උදෑසන කටුනායක ගුවන්තොටුපොළින් මෙරටට පැමිණි පුද්ගලයෙක්ව ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය නිවාරණ ඒකකයේ නිලධාරීන් විසින් සිය භාරයට ගෙන තිබුණි.
+
+එම පුද්ගලයාව පරීක්ෂා කිරීමේදී ඔහුගේ පාවහන් සහ ඇඳුම්වල සඟවා ගෙන රැගෙන ආ රත්‍රන් ජෙල් පාර්සල තුනක් හමුවී තිබේ.
+
+එහි බර ග්‍රෑම් 1975ක් බවත් ඇස්තමේන්තු වටිනාකම රුපියල් මිලියන 40ක් බවත් සඳහන් ය.
+
+◼️
+
+[Data](articles/e7213730.json)
+
+---
+
+### Six Sri Lankans sent by human traffickers to join Russian military confirmed dead
+
+*2024-05-09 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99111/six-sri-lankans-sent-by-human-traffickers-to-join-russian-military-confirmed-dead-) · `en`
+
+Investigations carried out so far have revealed that six Sri Lankans sent to Russia by human traffickers to join the military have died, Police Media Spokesman DIG Nihal Thalduwa said.
+
+Meanwhile, the Police Spokesman also assured that further investigations are in progress to find out the exact number of individuals involved with the matter.
+
+◼️
+
+[Data](articles/6c7788fe.json)
+
+---
+
+### විදුලිබල පනත් කෙටුම්පත ට එරෙහි පෙත්සම් විභාගය ඇරඹෙයි
+
+*2024-05-09 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196439) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති විදුලිබල පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යයි තීන්දු කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාග කිරීම අද (09) ආරම්භ විය.
+
+විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වෙයි.
+
+පෙත්සම් විභාගය ආරම්භයේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විවේකා සිරිවර්ධන මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් විදුලිබල නිෂ්පාදනය, බෙදාහැරීම සහ අලෙවිය කාර්යක්ෂම කොට පාරිභෝගිකයින්ට සහනදායි සේවාවක් ලබාදීමේ අපේක්ෂාවෙන් මෙම පනත් කෙටුම්පත රජය විසින් ඉදිරිපත් කර තිබෙන බව සඳහන් කළාය.
+
+අතිරේක සොලිසිටර් ජනරාල්වරියගේ දේශනවලින් පසුව පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු කරුණු ඉදිරිපත් කිරීම ආරම්භ කළහ.
+
+ලංකා විදුලි සේවක සංගමයේ ලේකම් රන්ජන් ජයලාල් ඇතුළු පාර්ශ්ව 14 ක් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/7d963748.json)
+
+---
+
+### විදුලි බිලට නැවත සහනයක්
+
+*2024-05-09 15:39:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-නැවත-සහනයක්/11-409528) · `si`
+
+විදුලි බිල අඩු කිරීමේ යෝජනා මේමස 10 වැනිදාට පෙර ලබා දෙන ලෙස විදුලිබල මණ්ඩලයට දැනුම් දී ඇති බව මහජන උපයෝගීතා කොමිසම පවසයි.  මේමස 01 දින වන විට ලබාදිය යුතුව තිබූ යොජනා සඳහා විදුලිබල මණ්ඩලය විසින් කල් ඉල්ලූ බව මහජන උපයෝගීතා කොමිසම වැඩි දුරටත් දන්වා සිටියි.
+
+අදාල යොජනා ලබාදීමෙන් අනතුරුව විදුලි බිල අඩුකිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ නරනු ඇත. ඒ් අනුව විදුලි බිල අඩුකිරීමේ ප්‍රතිශතයන් එළබෙන ජූලි මාසයේ ප්‍රකාශ කරන බව මහජන උපයෝගීතා කොමිසම දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/7ff74ed6.json)
+
+---
+
+### 43-year-old hacked to death over drug-related dispute
+
+*2024-05-09 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99110/43-year-old-hacked-to-death-over-drug-related-dispute) · `en`
+
+A person hacked to death with a sharp weapon early this morning (09) in the Kurundakanda area of Thotagoda in the Akmeemana police division.
+
+The victim had been attacked with a sword while he was sleeping in his house.
+
+The suspect, who has fled the area, has also attacked the elder brother of the deceased with the sword and he has been admitted to the Karapitiya Teaching Hospital with critical injuries.
+
+The deceased is a 43-year-old father of three, identified as Hikkaduwa Koralage Prasanna Kumara alias ‘Hichchi Malli’, a resident of Kurundakanda in Thotagoda.
+
+Police said the persons who is suspected to have committed the murder has been identified.
+
+According to police, information has been uncovered that the murder was carried out over a conflict related to drug trafficking.
+
+◼️
+
+[Data](articles/7c5af0dd.json)
+
+---
+
+### 6 Sri Lankans killed in Ukrainian and Russia
 
 *2024-05-09 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196438) · `si`
 
-මිනිස් ජාවාරම්කරුවන් විසින් යුක්‍රේන- රුසියා යුද්ධයේ රුසියානු හමුදාවට එක්වීම සඳහා මෙරටින් යවන ලද ශ්‍රී ලාංකිකයන් 06 දෙනෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+Six Sri Lankans were trafficked to Ukraine to join the Russian army, leading to their deaths. Investigations are ongoing to identify the culprits.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ මෙතෙක් සිදුකළ පරීක්ෂණවලදී ඒ බව තහවුරු වී ඇති බවය.
+🟩
 
-ඒ සම්බන්ධ නිවරැදි සංඛ්‍යා සොයාගැනීම සඳහා තවදුරටත් පරීක්ෂණ සිදුකෙරෙන බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+Six Sri Lankans sent to join the Russian army of Ukraine by human traffickers to join the Russian army of the war.
+
+Police Media Spokesperson, DIG's Court Attorney Nihal Talduuwa said that the investigations have been confirmed in investigations.
+
+The suspects will be conducted further investigations to find out the right numbers.
 
 ◼️
 
 [Data](articles/2a419bfa.json)
 
+[Extended Data](ext_articles/2a419bfa.ext.json)
+
 ---
 
-### කුලියාපිටිය ඝාතනය - සිඟිති ගේ ඇප අහෝසි කෙරෙයි
+### Kuliyapitiya murder - thumbna bealy abolished
 
 *2024-05-09 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196437) · `si`
 
-කුලියාපිටියේ තරුණයා ඝාතනය සම්බන්ධව බන්ධනාගාරය මගින් ඉදිරිපත්කළ සිඟිති නමැත්තාගේ සහ ඔහුගේ බිරිඳගේ ඇප අවලංගු කිරීමට කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (09) කටයුතු කළේය.
+Kuliyapitiya Magistrate Randika Lakmal Jayalath revoked the bail of two suspects in a murder case, citing police protests. The suspects, including Sugarnu, a resident of Walguwithara, Kuliyapitiya, were considered main suspects in the murder of Suset Jayawasa. Further investigations are ongoing, and the court ordered the suspects to undergo three police inspections.
 
-මුල් අවස්ථාවේදී සැකකරුවන් ට ඇප ලබාදීමට හේතු වූයේ පොලීසිය ඊට විරෝධය නොපෑම බව අවධාරණය කළ මහෙස්ත්‍රාත්වරයා එම දෙදෙනාව එළඹෙන 13 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගතකරන්නැයි නියම කළේය.
+🟩
 
-කුලියාපිටිය වස්සාවුල්ල පදිංචි සුජිත් ප්‍රනාන්දු නොහොත් සිඟිති නමැත්තාගේ සහ ඔහුගේ බිරුඳ වූ දිලානි රසිකා ගේ ඇප එලෙසින් අහෝසි කෙරිණි.
+Kuliyapitiya Magistrate Randika Lakmal Jayalath was able to cancel the bail of his wife and his wife with the murder of the girl in Kuliyapitiya.
 
-එසේම සුසිත් ජයවංශ ගේ ඝාතනය සම්බන්ධයෙන් මුල් අවස්ථාවේදී ප්‍රධාන සැකකරු ලෙසින් සැලකූ පුද්ගලයා ද එහිදී අධිකරණයට ඉදිරිපත් කර තිබුණි.
+The Magistrate, he said that the two suspects were bail after the police were bail after the police were protesting against it.
 
-අද (09) නඩුව කැඳවූ අවස්ථාවේදී පොලීසිය කියාසිටියේ පැමිණිල්ලේ කරුණු දැක්වීම මත ඇප ලැබූ සැකකරුවන් මෙම නඩුවේ ප්‍රධාන සැකකරුවන් බැවින් යළි බන්ධනාගාර ගතකරන ලෙසට ය.
+The bail of Sugarnu, a resident of Walguwithara, Kuliyapitiya and the son of his hybrid, was abolished.
+
+The man was considered the main suspect in the early hours of the murder of Suset Jayawasa.
+
+When the case was taken up today (09), the police were bailed by the police, as the suspects were the main suspects in the case.
+
+The case was presented to the case of the suspects who appeared for the suspects in the event.
+
+The Magistrate asked the Magistrate to obtain bail to grant the suspects in the early hours of the summoning the case.
+
+The police said further investigations are being conducted according to the information he had taken over by the police and that the suspects were required to question the suspects.
 
 ...
 
 [Data](articles/9ac85bba.json)
+
+[Extended Data](ext_articles/9ac85bba.ext.json)
 
 ---
 
@@ -431,6 +535,22 @@ Issuing an announcement today (09), the Election Commission also said that by vi
 [Data](articles/8947637a.json)
 
 [Extended Data](ext_articles/8947637a.ext.json)
+
+---
+
+### පෝලන්තයේ රැකියා දෙන බව පවසා මුදල් වංචා කළ හොර ඒජන්සිය වටලයි
+
+*2024-05-09 13:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පෝලන්තයේ-රැකියා-දෙන-බව-පවසා-මුදල්-වංචා-කළ-හොර-ඒජන්සිය-වටලයි/11-409522) · `si`
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පෝලන්තයේ රැකියා ලබාදීම සඳහා මුදල් ලබාගත් වංචනික විදේශ රැකියා නියෝජිතායතනයක් කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (5/8) වැටලීම් කරන ලදී.
+
+රාජගිරිය ප්‍රදේශයේ  වීසා උපදේශන මධ්‍යස්ථානයක් මුවාවෙන් මෙම ආයතනය පවත්වාගෙන ගොස් තිබේ. එම ආයතනයට පෝලන්තයේ රැකියාවක් ලබාදීම සඳහා රුපියල් ලක්ෂයක මුදලක් ලබාදී, පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශයට පැමිණිලි කර ඇත. ඒ අනුව මෙම වැටලීම සිදුකර ඇති අතර, එහිදි අදාල ස්ථානයේ හිමිකරු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී. එසේම අදාල ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර 2ක් හා විදේශ රැකියා අයදුම්පත්‍ර රැසක්ද විමර්ශන නිළධාරීන් භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු කුරුණෑගල ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකු වන අතර, ඔහු අද දින (5/9) කොළඹ අලුත් කඩේ අංක 5 මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+...
+
+[Data](articles/ffb20975.json)
 
 ---
 
@@ -1012,21 +1132,31 @@ At that time, a drug man entered the house and threatened the woman who was asle
 
 ---
 
-### கதவை திறந்து வைத்து தூங்கிய ஆசிரியை  பலாத்காரம்
+### Rape
 
 *2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதவை-திறந்து-வைத்து-தூங்கிய-ஆசிரியை-பலாத்காரம்/175-337017) · `ta`
 
-சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். எனினும், தவிர்க்க முடியாத காரணத்தால் திறந்து வைக்கவே வேண்டும்.
+In Chennai, a 31-year-old teacher was raped while her husband was away. The attacker, a 38-year-old man from Coimbatore, entered their home, threatened the woman, and fled after neighbors intervened. The incident shocked the community.
 
-வீட்டில், கதவு, ஜன்னல்கள் திறந்திருப்பதை அவதானிக்கும் கள்வர்கள் கைவரிசையை காண்பித்துவிடுகின்றனர். எனினும், சென்னையில் பாலியல் பலாத்கார சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-சென்னை கோயம்பேடு பகுதியில் வசித்து வரும் 31 வயதுடைய இளம்பெண் ஒருவர் தனியார் பள்ளியில் ஆசிரியையாக பணிபுரிந்து வருகிறார். இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். இவரது கணவர் ஆட்டோ ஓட்டி பிழைப்பு நடத்தி வருகிறார்.
+Many have taken many steps to bear the sunny sun. In this case, the home, the door and the windows are open. However, it must be opened because of the inevitable reason.
 
-இந்த நிலையில் இவரது கணவர் இரவு நேரத்தில் ஆட்டோ ஓட்ட வெளியே சென்று விடுவதால் இளம்பெண் வீட்டில் மகள்களுடன் இரவில் தனியாக இருந்து வந்துள்ளார். செவ்வாய்க்கிழமை (07)  இரவு வெயிலின் தாக்கம் அதிகமாக இருந்ததால் காற்றுக்காக கதவை சற்று திறந்து வைத்து தூங்கியதாக கூறப்படுகிறது.
+At home, the door, the windows are open. However, the rape incident has taken place in Chennai.
+
+A 31 -year -old teenager, who lives in Coimbatore, Chennai, works as a teacher at a private school. He is married and has 2 girls. Her husband is driving an auto.
+
+In this case, her husband goes to the auto at night and stays alone at home with daughters at home. The impact of the sun was high on Tuesday night (07) and it was said that the door was open for the air and slept.
+
+At that time, a drug man entered the house and threatened a woman who was asleep. Shocked by this, the woman tried to shout. But the man threatened to kill the girls if he shouted.
+
+Later, the woman was raped and tried to flee. The woman then shouted and the neighbors came running and attacked the drug and attacked him.
 
 ...
 
 [Data](articles/7cb249c1.json)
+
+[Extended Data](ext_articles/7cb249c1.ext.json)
 
 ---
 
@@ -2145,137 +2275,5 @@ However, the General Secretary of All Ceylon Nurses Union, HMSB Kumadu said that
 [Data](articles/32a4468e.json)
 
 [Extended Data](ext_articles/32a4468e.ext.json)
-
----
-
-### Youth arrested with Kush cannabis worth over Rs. 20m at BIA
-
-*2024-05-09 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99096/youth-arrested-with-kush-cannabis-worth-over-rs-20m-at-bia) · `en`
-
-A Sri Lankan passenger arriving from Thailand has been arrested at the Bandaranaike International Airport (BIA) in Katunayake last night for the possession of more than 05 kg of Kush cannabis.
-
-The suspect, a 32-year-old resident of Homagama, was arrested by Police Narcotics Bureau (PNB) officers at the airport after 05 kilograms and 278 grams of Kush cannabis was found concealed inside his luggage.
-
-The Kush cannabis, with an estimated street value of over Rs. 20 million, had been packed into 36 separate parcels and hidden inside his luggage, Ada Derana reporter said.
-
-The arrested passenger, who is a dancer by professions, had arrived at BIA at around 10.40 p.m. last night (08) from Bangkok, Thailand onboard an AirAsia flight.
-
-The Police Narcotics Bureau (PNB) is conducting further investigations into the arrested suspect.
-
-◼️
-
-[Data](articles/4a77642f.json)
-
-[Extended Data](ext_articles/4a77642f.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-05-09 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99095/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
-
-Fairly heavy showers above 75 mm are likely at some places in North-central, Central, Sabaragamuwa, Eastern and Uva provinces and in Mullaitivu district.
-
-Showers will occur at several places in Western and Southern provinces during the morning too.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/93311134.json)
-
-[Extended Data](ext_articles/93311134.ext.json)
-
----
-
-### Rs. 2 crores arrested in airport
-
-*2024-05-09 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196418) · `si`
-
-A 32-year-old man from Homagama was arrested at Katunayake Airport for attempting to smuggle over Rs. 2 billion worth of drugs from Bangkok, Thailand. The Narcotics Bureau officers found 5 kilograms and 278 grams of drugs. Further investigations are ongoing.
-
-🟩
-
-A person who was trying to bring a large quantity of rash drugs worth over Rs. 2 billion has been arrested at the Katunayake Airport.
-
-The suspect was arrested by the officers of the Narcotics Bureau of Katunayake airport.
-
-The suspect was arrested from Bangkok, Thailand, and the police found 5 kilograms and 278 grams weighing 278 grams.
-
-The suspect is a 32 year old resident of the Homagama area and the officers of the Police Narcotics are conducting further investigations.
-
-◼️
-
-[Data](articles/7e3f2683.json)
-
-[Extended Data](ext_articles/7e3f2683.ext.json)
-
----
-
-### Can you challenge the decree of the Supreme Court to Diana?
-
-*2024-05-09 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196417) · `si`
-
-Prof. Prathibhi Moonahewa suggests challenging the Supreme Court's decision on Diana Gamage's parliamentary eligibility due to her British citizenship. He mentions the possibility of a full Supreme Court Judgment Board to overturn the decision. Meanwhile, he criticizes the party's legality and calls for separate cases to address the MP's four-year tenure and citizenship issues.
-
-🟩
-
-Prof. Prathibhi Moonahewa, Professor Prathibhi Moonahewa, said that the Supreme Court's decision to be held in Parliament to sit in Parliament.
-
-He pointed out that the Supreme Court is a court ruling given by the Supreme Court, as a three-judy of judiciary in the Supreme Court can challenge a complete tribunal.
-
-Since Ms. Diana Gamage is a British citizenship, the Supreme Court yesterday ordered that she had no legitimate qualification to sit in the parliament.
-
-After hearing a appeal of Appeal, Mr. Oshala Herath, an appeal of the party, was heard.
-
-Prof. Prathibha Gamage said that the Gamage has another opportunity for the verdict.
-
-...
-
-[Data](articles/c09dadf7.json)
-
-[Extended Data](ext_articles/c09dadf7.ext.json)
-
----
-
-### No legal barrier for non Sri Lankans to register political parties; Mahinda Deshapriya
-
-*2024-05-09 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-barrier-for-non-Sri-Lankans-to-register-political-parties-Mahinda-Deshapriya/108-282217) · `en`
-
-Colombo, May9 (Daily Mirror) - There is no legal barrier for the non-citizens to register a political party, Former Chairman of Elections Commission Mahinda Deshapriya said yesterday.
-
-“Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election while the law also prohibits a non-citizen to vote in an election,” Deshapriya told Daily Mirror.
-
-Also, he said Former State Minister Diana Gamage has not signed nomination papers of SJB and that she has never been the general secretary of Ape Jathika Peramuna.
-
-“Ape Jathika Peramuna was formed by late MPs Mangala Samaraweera and late Sripathi Sooriarachchi when they broke off the political alliance with former President Mahinda Rajapaksa. The general secretary of Ape Jathika Peramuna was Ruwan Ferdinandas while Diana Gamage’s husband took over the post later.
-
-◼️
-
-[Data](articles/b387aa04.json)
-
-[Extended Data](ext_articles/b387aa04.ext.json)
-
----
-
-### No legal barrier for non Sri Lankans to register political parties; Mahinda Dehapriya
-
-*2024-05-09 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-barrier-for-non-Sri-Lankans-to-register-political-parties-Mahinda-Dehapriya/108-282217) · `en`
-
-Colombo, May9 (Daily Mirror) - There is no legal barrier for the non-citizens to register a political party, Former Chairman of Elections Commission Mahinda Deshapriya said yesterday.
-
-“Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election while the law also prohibits a non-citizen to vote in an election,” Deshapriya told Daily Mirror.
-
-Also, he said Former State Minister Diana Gamage has not signed nomination papers of SJB and that she has never been the general secretary of Ape Jathika Peramuna.
-
-“Ape Jathika Peramuna was formed by late MPs Mangala Samaraweera and late Sripathi Sooriarachchi when they broke off the political alliance with former President Mahinda Rajapaksa. The general secretary of Ape Jathika Peramuna was Ruwan Ferdinandas while Diana Gamage’s husband took over the post later.
-
-◼️
-
-[Data](articles/d04aa5eb.json)
-
-[Extended Data](ext_articles/d04aa5eb.ext.json)
 
 ---

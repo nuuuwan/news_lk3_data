@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 17:05:56**
+As of **2024-05-09 16:49:49**
 
 ## Newspaper Stats
 
-*Scraped **22,980** Articles*
+*Scraped **22,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,153 +18,93 @@ dailyftlk | 1,331
 adalk | 1,947
 tamilmirrorlk | 2,689
 adaderanalk | 2,695
-virakesarilk | 3,418
+virakesarilk | 3,417
 dailymirrorlk | 3,609
-adaderanasinhalalk | 3,676
+adaderanasinhalalk | 3,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,978 (100.0%) of 22,980 articles have been extended.
+22,972 (100.0%) of 22,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### උත්තර පත්‍ර පරීක්ෂකවරුන් සඳහා අයදුම්පත් කැඳවයි
-
-*2024-05-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196441) · `si`
-
-පිරිවෙන් සාමාන්‍ය පෙළ විභාගය 2023 (2024) උත්තර පත්‍ර පරීක්ෂකවරුන් සඳහා අයදුම්පත් කැඳවීම මාර්ගගත ක්‍රමයට සිදුකෙරෙන බව විභාග දෙපාර්තමේන්තුව දැනුම්දෙයි.
-
-ඒ අනුව 2024.05.03 දින පස්වරු 4 සිට 2024.05.17 වනදා මධ්‍යම රාත්‍රී 12 තෙක් www.doenets.lk හෝ www.onlineexams.gov.lk/eic වෙත පිවිස අයදුම්පත් යොමු කිරීමේ අවස්ථාව පවතී.
-
-◼️
-
-[Data](articles/87b2ede3.json)
-
----
-
-### தமிழக முதலமைச்சராக மூன்றாண்டுகளை நிறைவு செய்த மு.க ஸ்டாலின்
-
-*2024-05-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183069) · `ta`
-
-தமிழக முதல்வராக பொறுப்பேற்றுக்கொண்ட மு க ஸ்டாலின் மூன்றாண்டுகளை நிறைவு செய்து நான்காம் ஆண்டில் அடியெடுத்து வைத்திருக்கிறார். இதைத்தொடர்ந்து அவருக்கு கட்சியினரும், கூட்டணி கட்சியினரும் வாழ்த்து தெரிவித்து வருகிறார்கள்.
-
-இது தொடர்பாக தமிழக முதல்வர் மு க ஸ்டாலின் எக்ஸ் தளத்தில் பதிவிட்டுள்ள பிரத்யேக காணொளியில், ''  இது சொல்லாட்சி அல்ல. செயல் ஆட்சி. மக்களின் நன்றி கலந்த வாழ்த்தும், புன்னகை அரும்பும் முகங்களும் தான் இன்னும் என்னை உழைக்கத் தூண்டுகிறது. நம்பிக்கையோடு முன் செல்கிறேன். பெருமையோடு சொல்கிறேன். 'தலைசிறந்த மூன்றாண்டு தலை நிமிர்ந்த தமிழ்நாடு என..!'' என்று குறிப்பிட்டுள்ளார்.
-
-இந்நிலையில் இது தொடர்பாக சமூக செயற்பாட்டாளர்கள் பேசுகையில், '' தமிழக முதல்வராக மு க ஸ்டாலின் ஆட்சி பொறுப்பேற்ற நாளன்று அரசு பேருந்தில் மகளிருக்கு இலவச பயணம், அரிசி குடும்ப அட்டைதாரர்களுக்கு தலா நான்காயிரம் ரூபாய், ஆவின் பால் விலை குறைப்பு  உள்ளிட்ட மக்கள் நலன் சார்ந்த திட்டங்களை கைசாத்திட்டு நடைமுறைக்கு கொண்டு வந்தார்.
-
-...
-
-[Data](articles/ff8976e8.json)
-
----
-
-### Opening of the Health Center in Muttur
+### மூதூரில் சுகாதார நிலையம் திறந்து வைப்பு
 
 *2024-05-09 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183068) · `ta`
 
-The newly opened Rural Health Center in Muttur, Trincomalee District, was inaugurated on Thursday, with the Eastern Province Governor Senthil Thondaman as the chief guest. The event was led by Dr. Hilmi Mukheedin Bawa, the Muttur Health Medical Officer, and attended by key figures including the Trincomalee District Parliamentarian Kapila Nuwan Athukorala and Provincial Health Director Dr. D.GM Kosta.
+திருகோணமலை மாவட்டத்தின் மூதூர் சுகாதார வைத்திய அதிகாரி பிரிவுக்குட்பட்ட பெரிய பாலம் பகுதியில் புதிதாக நிருமாணிக்கப்பட்ட  கிராமிய சுகாதார நிலையம் திறந்து வைக்கப்பட்டது.
 
-🟩
+குறித்த நிகழ்வானது இன்று வியாழக்கிழமை (09)இடம் பெற்றதுடன் கிழக்கு மாகாண ஆளுனர் செந்தில் தொண்டமான் பிரதம அதிதியாக கலந்து கொண்டு இப் புதிய கட்டிடத்தை திறந்து வைத்தார்.
 
-The newly rejected Rural Health Center has been opened in the large bridge in the Muttur Health Officer Division of the Trincomalee District.
-
-The event was held on Thursday (09) and the Governor of the Eastern Province Senthil Thondaman was the chief guest.
-
-The event was chaired by Muttur Health Medical Officer Dr. Hilmi Mukheedin Bawa and the event was attended by the President of the Trincomalee District Parliamentarian Kapila Nuwan Athukorala, including Provincial Health Director Dr. D.GM Kosta.
+மூதூர் சுகாதார வைத்திய அதிகாரி வைத்தியர் ஹில்மி முகைதீன் பாவா தலைமையில் இடம் பெற்ற இவ் நிகழ்வில் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் கபில நுவன் அதுகோரள உட்பட மாகாண சுகாதார பணிப்பாளர் டொக்டர் டி ஜி.எம்.கொஸ்தா உட்பட பலரும் கலந்து கொண்டனர்.
 
 ◼️
 
 [Data](articles/e3db22ad.json)
 
-[Extended Data](ext_articles/e3db22ad.ext.json)
-
 ---
 
-### Did the Sergeant Hang?Hanging?
+### සැරයන් වරයා එල්ලුනාද ? එල්ලුවාද?
 
 *2024-05-09 16:30:10* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්-වරයා-එල්ලුනාද---එල්ලුවාද-/11-409530) · `si`
 
-A police sergeant in Dikwella, Sri Lanka, was found hanging from a tire structure, suspected to be a suicide due to family disputes. The incident involved two rooms set on fire, and the body was later taken for a post-mortem examination.
+දික්වැල්ල කෝට්ටගොඩ ආරපොත නිවසක ටයර් සෑයක් මත බාල්කයක එල්ලෙමින් තිබු පොලිස් සැරයන්වරයකුගේ සිරුරක් පෙරේදා (08) සොයා ගත් බව දික්වැල්ල පොලීසිය පවසයි.
 
-🟩
+එසේ මරුමුවට පත්ව තිබුණි ගන්දර පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කල පොලිස් සැරයන්වරයෙකි.
 
-Dickwella police stated that a police sergeant was found hanging on a bucket on a bucket on a tire structure on a house in Kotagoda, Dikwella.
+සිව් දරු පියෙකු වන ඔහු ගෙල වැලලාගෙන ගෙන සිය දිවි හානි කර ගන්නට ඇති බවට පොලීසිය සැක කරයි.
 
-The victims were a police sergeant at the Gandara Police Station.
+පදිංචි නිවසේ කාමර දෙකකට ද ගිනි තබා තිබු බවත් සැරයන්වරයා ගේ සිරුර එල්ලෙමින් තිබු ස්ථානය යටින් ටයර් හය හතක් තිබු බවත් පොලීස් නිලධාරියෙකු කීය.
 
-Police suspect that he is a father of four children and has committed suicide by hanging his suicide.
+කෙසේ වෙතත් එම ටයර් ගිනි දැල්වීමට ගත් උත්සාහය අසාර්ථක වී තිබෙන බව ද කියති.
 
-Two rooms were set on fire and that six tires were under the lack of the body of the residence.
+පවුල් ආරවුලක් මෙම සිද්ධියට හේතු වන්නට ඇති බවට පොලීසිය සැක කරයි.
 
-However, it is said that the attempt to burn the tire has failed.
+මිය ගිය සැරයන්වරයාගේ බිරිද ඊට පෙර ඔහුට විරුද්ධව දික්වැල්ල පොලීසියේ පැමිණිල්ලක් කර තිබු අතර එය විභාග කිරීමට දෙදෙනාටම 08 දා උදෑසන 10.00 ට පොලිස් ස්ථානය වෙත පැමිණෙන ලෙසට දැනුම් දී තිබුණි.
 
-Police suspect that a family dispute has been caused by this incident.
-
-The deceased sergeant had lodged a complaint with the Dickwella police before that, to visit the police station on the 8th morning to hear it.
-
-When the wife went to the police and returned to the evening, his body had been returned to the police and told the police when he returned to the police.
-
-Later, the body was taken to the Matara General Hospital for the post mortem examination.
+අදාල  බිරිද ඒ සදහා පොලීසිය වෙත ගොස් සවස් වන තෙක් සැමියා එන තෙක් බලා සිට නැවත නිවසට පැමිණ බලන විට ඔහුගේ සිරුර බාල්කයක එල්ලෙමින් තිබෙනු දැක පොලීසියට දැනුම් දී ඇත.
 
 ...
 
 [Data](articles/fa484716.json)
 
-[Extended Data](ext_articles/fa484716.ext.json)
-
 ---
 
-### Driver arrested for the death of SLAF Corporal
+### ගුවන් හමුදා කෝප්‍රල්ගේ මරණයට රියදුරු අත්අඩංගුවට
 
 *2024-05-09 16:17:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-කෝප්‍රල්ගේ-මරණයට-රියදුරු-අත්අඩංගුවට/11-409529) · `si`
 
-TM Lalith De Silva, a Matara Urban Savings Inspector, was arrested for the death of a SLAF Corporal. The incident occurred when the corporal was hit by a 20-foot slope while trying to cross the highway. The corporal was returning from leave with his wife and friends. The driver of the bus involved in the accident was also arrested, and a post-mortem examination was conducted by Dr. KR Wickremasinghe at the Matara General Hospital.
+දක්ෂිණ අධිවේගී මාර්ගයේ කපුදුව ප්‍රදේශය අතරමග දී නීතිවිරෝධී අන්දමින් බසයෙන් බැස යන අතරතුරදී අනතුරකට ලක් වී ගුවන් හමුදා කෝප්‍රල්වරයෙකු ජීවිතක්ෂයට පත්වීම සම්බන්ධයෙන් අදාල බසයේ රියදුරු හා සහායක සැක පිට අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙස මාතර නාගරීක හදීසී මරණ පරීක්ෂක ටී.එම් ලලිත් ද සිල්වා මහතා ඊයේ (09) තිහගොඩ පොලීසියට නියෝග කලේය.
 
-🟩
+අධිවේගී මාර්ගය හරහා නීතිවිරෝධී ලෙස පා ගමනින් ගොස් සාමාන්‍ය මාර්ගයට යාමට උත්සාහ කරන විට අඩි 20 ක පමණ බෑවුමකින් පහලට ඇද වැටී එසේ මරුමුවට පත්ව තිබුණේ නාරංඕවිට ජාලත්ගම පදිංචිව සිටි කාරියවසම් ජාලත්ගේ ශ්‍රී සජින් ප්‍රභාත් (39) නැමැති එක් දරු පියෙකි.
 
-TM Lalith De Silva, Matara Urban Savings Inspector, was arrested by the SLAF Corporation to be arrested by the SLAF Corporal and submitting a SLAF Corporal to the court while the SLAF was killed in the area.09) ordered the Thihagoda Police.
+ඔහු නිවාඩු ලබා රන්සෑගොඩ මහ ගෙදර සිටින තම බිරිද හා දරුවා බැලීමට පැමිණ මිතුරන් පිරිසක් සමග කතරගම වන්දනාවේ ගොස් නැවත එන අතරතුරදී මෙම අනතුරට ලක්ව තිබුණි.
 
-A 20-foot slope was killed by a 20-foot slope when he tried to go through the highway and went down to the normal road.
+ඇල්පිටියේ සිට අධිවේගී මාර්ගය ඔස්සේ කපුදුව දක්වා පැමිණි බසයට ද ඔහු කතරගම යාම සදහා අතරමගින් ගොඩ වී තිබුණේ ද නීති විරෝධී අන්දමින් වන බවත් නැවත එන විට එම බසයෙන් බැස ගෙදර යාමට උත්සාහ කර තිබුනේ ද ඒ ආකාරයට බව මරණ පරීක්ෂණයේ දී අනාවරණය විය.
 
-The accident had occurred while returning to his wife and a group of friends who were on leave and visited the Ransegoda, a group of his wife and a group of friends.
-
-He was recovered from the quarter to the Kapuduwa to Kapunuwa to the Expressway to the Expressway.
-
-Therefore, the death inspector informed the death of the bus driver and assistant suspicions of the bus, who was uniquely dropped out of a legal entrance to the highway.
-
-Accordingly, the post mortem examination of the corporal, police officers were to be held before the Matara General Hospital Medical Officer KR KR Wickremasinghe.
-
-◼️
+...
 
 [Data](articles/1e70f3d2.json)
 
-[Extended Data](ext_articles/1e70f3d2.ext.json)
-
 ---
 
-### Drought in Nuwara Eliya;Moussakkal reservoir is low level
+### நுவரெலியாவில் வரட்சி ;  மவுசாக்கலை நீர்த்தேக்கம் நீர்மட்டம் குறைந்தது
 
 *2024-05-09 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183063) · `ta`
 
-Nuwara Eliya faces severe drought, with reservoirs like Moussakkal significantly low. This has led to reduced water levels in creeks, streams, and rivers, affecting power generation and posing a risk of clean drinking water shortage. The drought has also led to forest fires, exacerbating the situation.
+கடந்த சில நாட்களாக மத்திய மலைநாடான நுவரெலியா மாவட்டத்தில் கடுமையான வெப்பம் நிலவுகின்றது. இதனால் மத்திய மலைநாட்டில் உள்ள அனைத்து நீர் தேக்கங்களின் நீர் மட்டம் வெகுவாக குறைந்துள்ளது. சிற்றாறுகள், ஓடைகள் மற்றும் அருவிகள் மற்றும் ஆறுகளில் நீர் மட்டம் குறைந்துள்ளது.
 
-🟩
+அனைத்து பகுதிகளிலும் உள்ள நீர் வீழ்ச்சிகள் வரண்ட நிலையில் உள்ளது. இதனால் நீர் மின் உற்பத்தி பாதிக்கும் என நீர் மின் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். குறிப்பாக மவுஸ்சாக்கலை நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை விட சுமார் 52 அடி குறைந்து உள்ளது. அதேபோல் காசல்ரீ நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை விட 47 அடி குறைந்து உள்ளது.
 
-There has been severe heat in the central hill country of Nuwara Eliya for the past few days. Thus the water level of all the water reservoirs in the central hill country has been drastically reduced. The water level in the creeks, streams and waterfalls and rivers has decreased.
-
-The water falls in all areas are drowning. This will affect the power generation, a hydro power station official said. The water level of the Moussekalai water reservoir, in particular, is about 52 feet down than its capacity. Similarly, the water level of the Kasalree water reservoir is 47 feet above its capacity.
-
-As the water level of the Moussakalai water reservoir has decreased, the bridge, which was built in ancient times, the Shanmukha Nathar Temple, the Buddhist Vihara at the Islamic School, the Bodhi Tree, the Bodhi Tree in its courtyard, the Siddhi Vinayagar Temple in the city of Gangawatta.
+மவுஸ்சாக்கலை நீர் தேக்கத்தின் நீர் மட்டம் வெகுவாக குறைந்து உள்ளதால் பண்டைய காலத்தில் கட்டப்பட்ட பாலம், சண்முக நாதர் ஆலயம், இஸ்லாமிய பள்ளியில் இருந்த தூபி, பௌத்த மத விகாரை, அதன் முற்றத்தில் இருந்த போதி மரம், கங்கேவத்தை நகரில் இருந்த சித்தி விநாயகர் ஆலயம் என்பனவற்றை தற்போது மக்கள் அதிக அளவில் பார்க்க சென்று வருவதை காண கூடியதாக இருக்கின்றது.
 
 ...
 
 [Data](articles/7c2b7205.json)
-
-[Extended Data](ext_articles/7c2b7205.ext.json)
 
 ---
 
@@ -187,8 +127,6 @@ Issuers of Islamic capital market products seeking a listing on the CSE are requ
 ◼️
 
 [Data](articles/06ba49f9.json)
-
-[Extended Data](ext_articles/06ba49f9.ext.json)
 
 ---
 
@@ -794,29 +732,23 @@ He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 
 
 ---
 
-### Indiana arrested for kicking down 14.200 million from airport
+### ලක්ෂ 147ක රන් මාල දෙකක් ගුවන්තොටින් පන්නන්න ගිය ඉන්දියානුවා අල්ලයි
 
 *2024-05-09 14:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 147ක-රන්-මාල-දෙකක්-ගුවන්තොටින්-පන්නන්න-ගිය-ඉන්දියානුවා-අල්ලයි/11-409524) · `si`
 
-A 36-year-old Indian businessman was arrested at the airport for attempting to smuggle 14.2 million in rupees, weighing about 75g, to Sri Lanka. He was caught trying to leave Dubai on a SriLankan Airlines flight at 04:55 on 04/09. His luggage was found taped shut, and he was handed over to the Katunayake airport for further investigation.
+රුපියල් එක් කෝටි හතලිස් ලක්ෂයක් පමණ වටිනා ග්‍රෑම් 75 ක් පමණ බරැති  රන් මාළ දෙකක් , ගුවන් තොටුපොළ මගීන්ගේ භාණ්ඩ ප්‍රවාහනය සදහා භාවිතා කරන ට්‍රොලි කරත්තයක සගවා ගෙන , නීතිවිරෝධී ලෙස  කටුනායක ගුවන් තොටුපොළෙන් පිටතට රැගෙන යාමට තැත් කළ ඉන්දීය ජාතිකයෙකු 05/09 දින අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
 
-🟩
+මොහු තමිල්නාඩු ප්‍රාන්තයේ ට්‍රිචි හි වාසය කරන 36 හැවිරිදි ව්‍යාපාරිකයෙකි . ඔහු ගුවන් මගින් රෙදිපිළි , දුරකථන අමතර කොටස් මෙරටට රැගෙන විත් අලෙවි කිරීමේ ව්‍යාපාරයක ද නිරත වී සිටින්නෙකි .
 
-A Indian national who weighs about 75 g of rupees of Rs.Been arrested by the.
+මොහු 05/09 දින අලුයම 04.55 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
 
-He is a 36 year old businessman who lives in Tricki in Tamil Nadu. He is also being carried out in the airport, telephone parts to Sri Lanka.
+ඔහු සිය ගමන් මලු තබා ගෙන යන ගුවන් තොටුපොළ ට්‍රොලි කරත්තයෙහි සෙලෝ ටේප් යොදා මෙම මාළ දෙක අලවා සගවා , ගෙන ගුවන් තොටුපොළෙන් පිටතට යාමට උත්සාහ කර තිබේ .
 
-He was 04.55 on the morning of 04/09, from Dubai to SriLankan Airlines.
-
-The airports carrying his luggage Treley has been pasted with Cello tape and tried to get out of the airport.
-
-The Indian national has been handed over to the Katunayake airport with the two golden fish he had taken to investigate further investigations.
+මෙසේ අත් අඩංගුවට ගත් මෙම ඉන්දීය ජාතිකයා මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා ඔහු රැගෙන ආ රන් මාළ දෙක ද සමග කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත භාර දී තිබේ .
 
 ◼️
 
 [Data](articles/478f059a.json)
-
-[Extended Data](ext_articles/478f059a.ext.json)
 
 ---
 
@@ -2305,5 +2237,49 @@ President Wickremesinghe delivered a special statement in the Parliament on the 
 [Data](articles/dfcd6e9a.json)
 
 [Extended Data](ext_articles/dfcd6e9a.ext.json)
+
+---
+
+### Speaker announces vacancy in Parliament
+
+*2024-05-09 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-announces-vacancy-in-Parliament/108-282222) · `en`
+
+Parliament, May 09 (Daily Mirror)- Speaker Mahinda Yapa Abeywardane announced in Parliament that a Parliamentary seat has fell vacant after the Supreme Court ruled that Diana Gamage is ineligible to be an MP.
+
+He told Parliament that the Parliamentary seat fell vacant from yesterday (8 May).
+
+◼️
+
+[Data](articles/fa9e8b3e.json)
+
+[Extended Data](ext_articles/fa9e8b3e.ext.json)
+
+---
+
+### Key notice to those who go to work abroad
+
+*2024-05-09 09:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-வேலைக்கு-செல்வோருக்கு-முக்கிய-அறிவிப்பு/175-337008) · `ta`
+
+Foreign Employment Minister Manusha Nanayakkara warns against applying for military work abroad, citing a human trafficking committee's fraud in sending Sri Lankan youth to Russia for military service. Retired soldiers deployed in the Russian army face unpaid salaries. The Minister emphasizes that no one will be sent abroad without government permission, advising against jobs overseas on tourist visas.
+
+🟩
+
+Foreign Employment Minister Manusha Nanayakkara has asked the people not to apply for military work abroad.
+
+The Minister has warned that a human trafficking committee is currently involved in fraud at sending Sri Lankan youth to military service to Russia.
+
+Retired soldiers have been deployed to work in the Russian army for a high salary.
+
+The announcement stated that they have been involved in pre -sequences and have not been paid for several months.
+
+Minister Manusha Nanayakkara said that no person would be sent abroad without the permission of the Sri Lanka Bureau of Foreign Employment and the Government of Sri Lanka.
+
+Therefore, the Sri Lanka Foreign Employment Bureau has further requested the people not to go for a job overseas on a tourist visa.
+
+◼️
+
+[Data](articles/05de96ef.json)
+
+[Extended Data](ext_articles/05de96ef.ext.json)
 
 ---

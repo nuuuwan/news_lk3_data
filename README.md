@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 18:22:33**
+As of **2024-05-09 18:34:04**
 
 ## Newspaper Stats
 
-*Scraped **22,988** Articles*
+*Scraped **22,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,949
 tamilmirrorlk | 2,689
-adaderanalk | 2,696
-virakesarilk | 3,418
+adaderanalk | 2,698
+virakesarilk | 3,420
 dailymirrorlk | 3,611
 adaderanasinhalalk | 3,679
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,988 (100.0%) of 22,988 articles have been extended.
+22,988 (100.0%) of 22,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### வரலாறு : பிறந்த மண்ணை பார்க்க வந்த எம்.ஜி.ஆர்! : 1965 ஒக்டோபர் 22 வீரகேசரியில்...
+
+*2024-05-09 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183082) · `ta`
+
+தமிழகத்தின் முன்னாள் முதலமைச்சர் மறைந்த எம்.ஜி.ஆர். கண்டியில் பிறந்து, குழந்தையாக இந்தியாவுக்கு எடுத்துச் செல்லப்பட்ட பின்னர், முதல் முறையாக பிறந்த மண்ணை பார்க்க இலங்கைக்கு வருகை தந்தது 1965 ஒக்டோபர் 21ஆம் திகதியாகும்.
+
+வந்திறங்கிய அன்றைய தினமே மாலையில் காலிமுகத்திடலில் உள்ள ஹோட்டல் ஒன்றில் இடம்பெற்ற பத்திரிகையாளர் மாநாட்டில் எம்.ஜி.ஆர். பேசினார்.
+
+எம்.ஜி.ஆர். மற்றும் சரோஜாதேவி வருகையின்போது எடுத்துக்கொண்ட புகைப்படத்தையும், மாநாட்டில் எம்.ஜி.ஆர் பேசிய விடயங்களையும், 1965 ஒக்டோபர் 22ஆம் திகதி வெளியான வீரகேசரி பத்திரிகை "ஈழத்தில் படமெடுக்க திட்டமிட்டுள்ளேன் : எம்.ஜி. ராமச்சந்திரன் அறிவிப்பு" என்ற தலைப்பில் இவ்வாறு பிரசுரித்திருந்தது.
+
+◼️
+
+[Data](articles/2a7b9f7e.json)
+
+---
 
 ### Two years since ’Aragalaya’, no compensation for buses destroyed: Gemunu
 
@@ -47,6 +63,42 @@ Addressing the media, he said 50 buses were completely destroyed and another 50 
 [Data](articles/f8e85182.json)
 
 [Extended Data](ext_articles/f8e85182.ext.json)
+
+---
+
+### Former NMRA chief remanded
+
+*2024-05-09 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99114/former-nmra-chief-remanded) · `en`
+
+The Maligakanda Magistrate’s Court has ordered the former CEO of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekara to be remanded in custody until May 20, 2024.
+
+He was produced before the court today (09) following the recording of a statement by the Criminal Investigation Department (CID).
+
+Dr. Gunasekara was arrested by the CID on Wednesday (08) and was interrogated for more than 10 hours following his arrest.
+
+The CID apprehended Dr. Gunasekara in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+◼️
+
+[Data](articles/6a30bee9.json)
+
+---
+
+### முல்லைத்தீவு மாவட்ட விசுவமடு மேட்டுப்பட்டித்தெரு கிராமத்தில் யானைகள் அட்டகாசம்!
+
+*2024-05-09 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183081) · `ta`
+
+முல்லைத்தீவு - விசுவமடு மேட்டுப்பட்டித்தெரு கிராமத்தில் விவசாயி ஒருவரின் பயிர்களை யானைகள் அழிவுகளை ஏற்படுத்தியுள்ளது.
+
+குறித்த சம்பவம் புதன்கிழமை (08) நள்ளிரவு வேளை இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது. 03 யானைகள் தமது தோட்டத்தில் உட்புகுந்து அறுவடை செய்யும் தருவாயில் இருந்த வத்தகப்பழங்கள் மற்றும் 100ற்கும் மேற்பட்ட வாழை மரங்கள் என்பனவற்றை சேதமாக்கியுள்ளதென கவலை தெரிவித்துள்ளார்.
+
+மேலும் குறித்த கிராமத்தில் நீண்டகாலமாக யானைகள் தமது வாழ்வாதாரங்களை அழித்து வருவதாகவும் யானை வேலிகள் போடப்படும் வேலைகள் பூர்த்தியாகாத நிலையில் உள்ளதாகவும் பிரதேச மக்கள் தெரிவிக்கின்றனர்.
+
+சம்பந்தபட்ட அதிகாரிகள் விரைந்து தமது பிரச்சனைக்கு தீர்வு பெற்று தருமாறு விவசாயிகள் கேட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/2b39dc68.json)
 
 ---
 
@@ -89,6 +141,26 @@ Last week, two children who were taken hostage by a father in Jalthara, Hanwella
 [Data](articles/cd6e95f3.json)
 
 [Extended Data](ext_articles/cd6e95f3.ext.json)
+
+---
+
+### Passenger arrested with ‘Gold Gel’ worth Rs. 40 million at BIA
+
+*2024-05-09 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99113/passenger-arrested-with-gold-gel-worth-rs-40-million-at-bia) · `en`
+
+Officers attached to the Narcotics Control Unit of Sri Lanka Customs have arrested a passenger at the Bandaranaike International Airport (BIA) in Katunayake with ‘Gold Gel’ weighing nearly 2 kilograms and estimated to be worth around Rs. 40 million.
+
+The arrested suspect, a 25-year-old youth, had arrived from Dubai onboard an Emirates Airline flight at around 8.30 a.m. this morning (9).
+
+The suspect has reportedly hidden the three parcels containing the ‘Gold Gel’ in his shoes and underwear.
+
+The total weight of the gold gel seized by Customs officers is 1,975 grams and the value is estimated to be Rs. 40 million.
+
+Further investigations regarding this arrest are being conducted by the Narcotics Control Unit of Sri Lanka Customs.
+
+◼️
+
+[Data](articles/7535232b.json)
 
 ---
 
@@ -2233,91 +2305,5 @@ Police say legal action will be taken in the future regarding these assets. Remb
 [Data](articles/db9813a6.json)
 
 [Extended Data](ext_articles/db9813a6.ext.json)
-
----
-
-### Injunction preventing Maithripala from functioning as SLFP chairman extended
-
-*2024-05-09 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99098/injunction-preventing-maithripala-from-functioning-as-slfp-chairman-extended-) · `en`
-
-The Colombo District Court ordered for the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) to be extended until May 29.
-
-This order was issued when a plaint filed by former President Chandrika Bandaranaike Kumaratunga was taken up for consideration before the court today (09).
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-◼️
-
-[Data](articles/c490d42b.json)
-
-[Extended Data](ext_articles/c490d42b.ext.json)
-
----
-
-### Diana Kamage's MP post announces vacuum
-
-*2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேயின்-எம்-பி-பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
-
-Mahinda Yapa Abeywardena announced in Parliament that Diana Kamage's MP seat is vacant due to the Supreme Court's ruling that she is unfit for the position. This has left the parliamentary seat empty since May 8.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena announced in Parliament that the Supreme Court ruled that Diana Kamage was incapable of MP.
-
-He told Parliament that the parliamentary seat has been a vacuum since yesterday (May 8).
-
-◼️
-
-[Data](articles/74121071.json)
-
-[Extended Data](ext_articles/74121071.ext.json)
-
----
-
-### Vacuum notification
-
-*2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
-
-Mahinda Yapa Abeywardena announced in Parliament that Diana Kamage's parliamentary seat is vacant due to her incapacity, as ruled by the Supreme Court. This vacancy has been in effect since May 8.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena announced in Parliament that the Supreme Court ruled that Diana Kamage was incapable of MP.
-
-He told Parliament that the parliamentary seat has been a vacuum since yesterday (May 8).
-
-◼️
-
-[Data](articles/f02eaa5d.json)
-
-[Extended Data](ext_articles/f02eaa5d.ext.json)
-
----
-
-### A youth arrested at airport with Kush ganja worth Rs 2 crore
-
-*2024-05-09 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183024) · `ta`
-
-A Thai youth, a professional dancer from Homagama, was arrested at Katunayake International Airport with 278 grams of kush ganja worth Rs 2 crore, hidden in 36 packages in his travel bag. The suspect arrived from Bangkok and is under investigation by the Police Drug Eradication Unit.
-
-🟩
-
-A youth from Thailand has been arrested at the Katunayake International Airport (BIA) last night (08) night.
-
-The 32 -year -old Homagama professional dancer has been arrested.
-
-During the test operation at the airport, the suspect was seized by 278 grams of kush ganja, which was hidden in his travel bag.
-
-Packed in 36 separate packages, the Kush ganja is worth Rs 2 crore.
-
-The suspect arrived at Katunayake Bandaranaike International Airport from Bangkok, Thailand at 10.40 pm last night.
-
-It is noteworthy that the Police Drug Eradication Unit is conducting further investigations to the arrested suspect.
-
-◼️
-
-[Data](articles/d936fee1.json)
-
-[Extended Data](ext_articles/d936fee1.ext.json)
 
 ---

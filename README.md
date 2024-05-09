@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 12:33:40**
+As of **2024-05-09 12:52:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,909 (100.0%) of 22,910 articles have been extended.
+22,910 (100.0%) of 22,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -692,19 +692,25 @@ The people who lived there are unaware of what is fishing, but they are now forc
 
 ---
 
-### නිවාඩු නොලබා යළි සේවයට නාපු රාජ්‍ය නිලධාරින්ට සේවය හැරයාමේ නිවේදන
+### Announcements to be survived to the public officers who have not been resurired
 
 *2024-05-09 10:06:40* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-නොලබා-යළි-සේවයට-නාපු-රාජ්‍ය-නිලධාරින්ට-සේවය-හැරයාමේ-නිවේදන/11-409516) · `si`
 
-පසුගිය කොවිඩ් වසංගත සමය තුළ විදේශගතව සිට එම වසංගත තත්වය හේතුවෙන්   විධිමත්ව නිවාඩු  අනුමත කර ගැනීමකින්  තොරව නියමිත දිනට යළි  සේවයට වාර්තා නොකළ සියලුම රාජ්‍ය නිලධාරීන්ට ආයතන සංග්‍රහයට අනුව සේවය හැරයාමේ නිවේදන නිකුත් කිරීමට  රජය තීරණය කරයි.
+The government is issuing announcements to unreturned public officers, especially those who failed to report back by the due date during the COVID-19 pandemic. It's also addressing officers scheduled to arrive in Sri Lanka in 2020 and 2021, offering relief for their return dates. The Secretary to the Ministry of Public Administration and the Heads of the Ministry of Local Government Affairs are tasked with ensuring these directives are followed.
 
-එමෙන්ම එම වසංගත කාලයේ  විධිමත්ව විදේශ  නිවාඩු ලබා 2020 හා  2021  වර්ෂවල මෙරටට පැමිණීමට නියමිතව තිබී එම වර්ෂ තුළදී හෝ  2022 වර්ෂයේ  මෙරටට  පැමිණ සේවයට වාර්තා කළ  නිලධාරීන්ට  පැමිණීමට  නියමිත දිනයට පසු දිනයන් සඳහා  සුදුසු පරිදි වැටුප් සහිත හෝ වැටුප් රහිත නිවාඩු ඇතුළු සහන ලබා දීමටද තීරණය කර ඇත.
+🟩
 
-අමාත්‍ය මන්ඩලයේ  අනුමැතියද  ලැබී ඇති මෙම තීරණ  අනුව  අදාළ පරිදි සේවය හැරයාමේ නිවේදන නිකුත් කිරීම සහ සහන ලබාදීම යන  විධි විධාන  ක්‍රියාත්මක කිරීමට   අමාත්‍යාංශ ලේකම්වරුන්,පළාත් ප්‍රධාන ලේකම්වරුන් සහ දෙපාර්තමේන්තු ප්‍රධානීන් වග බලාගත යුතු බව මේ සම්බන්ධයෙන් රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයේ ලේකම් ප්‍රදීප් යසරත්න මහතාගේ අත්සනින් නිකුත් කළ චක්‍රලේඛයේ සඳහන්වේ.
+The government has decided to issue announcements to all government officials who have not reported back to the due date without endorsing the current entrances during the past covid epidemic.
+
+It has also been decided to enter the country in 2020 and 2021, and the officers who were to arrive in the year 2020 and 2021, and the officers who were to arrive in Sri Lanka in 2020 and 2022 have been decided to provide relief to the date of return to the service.
+
+Secretary to the Ministry of Public Administration and the Heads of the Ministry of Local Government Affairs should be taken to ensure the commands of the Cabinet of Ministers and the provisions of the Cabinet of Ministers.The circular issued by Mr. Yasaratne states.
 
 ◼️
 
 [Data](articles/3f086b62.json)
+
+[Extended Data](ext_articles/3f086b62.ext.json)
 
 ---
 

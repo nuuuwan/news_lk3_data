@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 09:53:02**
+As of **2024-05-09 10:05:29**
 
 ## Newspaper Stats
 
-*Scraped **22,866** Articles*
+*Scraped **22,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,108 @@ bbccomsinhala | 239
 dbsjeyarajcom | 239
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,316
+economynextcom | 1,318
 dailyftlk | 1,331
-adalk | 1,931
-tamilmirrorlk | 2,676
-adaderanalk | 2,680
+adalk | 1,932
+tamilmirrorlk | 2,677
+adaderanalk | 2,681
 virakesarilk | 3,399
-dailymirrorlk | 3,593
-adaderanasinhalalk | 3,655
+dailymirrorlk | 3,594
+adaderanasinhalalk | 3,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,862 (100.0%) of 22,866 articles have been extended.
+22,866 (100.0%) of 22,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### President Ranil delivers special statement in Parliament
+
+*2024-05-09 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99097/president-ranil-delivers-special-statement-in-parliament) · `en`
+
+President Ranil Wickremesinghe arrived in Parliament this morning (09) shortly after the commencement of the parliamentary session.
+
+Wickremesinghe is currently addressing the Parliament on the present economic situation in the country.
+
+◼️
+
+[Data](articles/dfcd6e9a.json)
+
+---
+
+### Speaker announces vacancy in Parliament
+
+*2024-05-09 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-announces-vacancy-in-Parliament/108-282222) · `en`
+
+Parliament, May 09 (Daily Mirror)- Speaker Mahinda Yapa Abeywardane announced in Parliament that a Parliamentary seat has fell vacant after the Supreme Court ruled that Diana Gamage is ineligible to be an MP.
+
+He told Parliament that the Parliamentary seat fell vacant from yesterday (8 May).
+
+◼️
+
+[Data](articles/fa9e8b3e.json)
+
+---
+
+### வெளிநாடுகளில் வேலைக்கு செல்வோருக்கு முக்கிய அறிவிப்பு
+
+*2024-05-09 09:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-வேலைக்கு-செல்வோருக்கு-முக்கிய-அறிவிப்பு/175-337008) · `ta`
+
+வெளிநாடுகளில் இராணுவ வேலைகளுக்கு விண்ணப்பிக்க வேண்டாம் என வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார மக்களிடம் கோரிக்கை விடுத்துள்ளார்.
+
+மனித கடத்தல் குழுவொன்று தற்போது இலங்கை இளைஞர்களை ரஷ்யாவுக்கு இராணுவ சேவைக்கு அனுப்பும் மோசடியில் ஈடுபட்டு வருவதாக அமைச்சர் எச்சரித்துள்ளார்.
+
+ரஷ்ய இராணுவத்தில் அதிக சம்பளத்தில் வேலை தருவதாக கூறி ஓய்வு பெற்ற இராணுவ வீரர்கள் பணிக்கு அமர்த்தப்பட்டுள்ளனர்.
+
+இவர்கள் முன் வரிசைப் பாதுகாப்புப் பணிகளுக்காக ஈடுபடுத்தப்பட்டுள்ளதாகவும், பல மாதங்களாக அவர்களுக்கு உரிய சம்பளம் கூட வழங்கப்படவில்லை எனவும் இது தொடர்பான அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+
+இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் மற்றும் இலங்கை அரசாங்கத்தின் அனுமதியின்றி எந்தவொரு நபரும் இராணுவ சேவைக்காக வெளிநாடுகளுக்கு அனுப்பப்பட மாட்டார் என அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+எனவே சுற்றுலா வீசாவில் வெளிநாடுகளுக்கு வேலைக்காக எக்காரணம் கொண்டும் செல்ல வேண்டாம் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் மக்களிடம் மேலும் கோரிக்கை விடுக்கிறது.
+
+◼️
+
+[Data](articles/05de96ef.json)
+
+---
+
+### පාර්ලිමේන්තු ආ ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+
+*2024-05-09 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196424) · `si`
+
+"අපායට වැටුණු රට ගොඩගන්න පුළුවන්" යන විශ්වාසය තමාට තිබූ නිසාවෙන් රට භාරගත් බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+ණය ප්‍රතිකරණ වැඩපිළිවෙල මුලික අංශ තුනක් හරහා සිදුකළ බව පැවසු ජනාධිපතිවරයා පළමුවෙන්ම දේශීය ණය ප්‍රතිව්‍යුහගතකරණයට යොමු වීම බව ද කියා සිටියේය.
+
+එම කාර්ය 2023 වසරේ දී අවසන් කළ බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+දෙවැන්න වුයේ විදේස් රටවල් සමග ඇති කරගත් ගිවිසුම් ම﻿ඟින් නිල වශයෙන් ලබාගන්නා ලද ණය ප්‍රතිව්‍යුහගතකරණය කිරීම බව පැවසු ජනාධිපතිවරයා එම රටවල් සමග සාකච්ඡා කර මේ පිළිබඳ ප්‍රතිපත්තිමය එකඟත්වයකට 2023 නොවැම්බර් මාසය වනවිට පැමිණි බවත් ඒ සඳහා පැරිස් සමාජය මෙන්ම එයට අයිති නැති චීනය වැනි රටවල් සමග ද එකඟත්වයට පැමිණ ඇතැයි ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+මේ පිළිබ﻿ඳව දැනට සිදුකළ යුතුව ඇත්තේ ණයහිමි රටවල් සමග අවබෝධතා ගිවිසුමක් අත්සන් තැබීම පමණක් බව ද ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+
+ඒ සඳහා වූ කෙටුම්පත් පිළිබඳ ශ්‍රී ලංකා රජය නිල ණයහිමියන්ගේ කමිටුව සමග සාකච්ඡා කරමින් සිටින බව ද රනිල් වික්‍රමසිංහ මහතා﻿ පැවසීය.
+
+එමෙන්ම වාණිජ ණය ප්‍රතිව්‍යුහගතකරණය තෙවන අංශය බවත් ජනාධිපතියා කියා සිටියේය.
+
+◼️
+
+[Data](articles/e0790f15.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-05-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196423) · `si`
+
+◼️
+
+[Data](articles/8b309c52.json)
+
+---
 
 ### Kenyan President lauds Sri Lankan investors in his country
 
@@ -47,6 +131,48 @@ Browns Investments has achieved an unprecedented milestone, solidifying its posi
 ◼️
 
 [Data](articles/b21ec4fe.json)
+
+[Extended Data](ext_articles/b21ec4fe.ext.json)
+
+---
+
+### රාජ්‍ය සේවකයින්ගේ නිවාඩු අනුමත කිරීම ගැන නව චක්‍රලේඛයක්
+
+*2024-05-09 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196422) · `si`
+
+කොවිඩ් -19 වසංගත සමය තුළ විදේශගතව සිට පැවති තත්ත්වය හමුවේ නැවත සේවයට වාර්තා කිරීමට අපොහොසත් වූ රාජ්‍ය නිලධාරීන්ගේ නිවාඩු අනුමත කිරීම සම්බන්ධයෙන් නව චක්‍රලේඛයක් නිකුත් කර තිබේ.
+
+රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම්වරයා විසින් අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+
+කොවිඩ් වසංගත තත්ත්වය හේතුවෙන් විදෙස්ගතව සිට නියමිත දිනයට නැවත සේවයට වාර්තා කිරීමට අපොහොසත්ව සිටි රාජ්‍ය නිලධාරීන්ගේ නිවාඩු සම්බන්ධයෙන් ක්‍රියාකළ යුතු ආකාරය මෙම චක්‍රලේඛය මඟින් සියලු අමාත්‍යාංශ ලේකම්වරුන් පළාත් ප්‍රධාන ලේකම්වරුන් සහ දෙපාර්තමේන්තු ප්‍රධානීන් දැනුවත් කර තිබේ.
+
+ආයතන සංග්‍රහයට අනුව විදේශ නිවාඩු ලබා කොවිඩ් වසංගත තත්ත්වය හේතුවෙන් නියමිත දින හෝ ඊට පෙර සේවයට වාර්තා කිරීමට නොහැකි වු රාජ්‍ය නිලධාරීන්ට වැටුප් රහිත සහ වැටුප් සහිත නිවාඩු අනුමත කිරීම සඳහා අනුගමනය කළ යුතු විධිවිධාන ඇතුළත් කර අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+
+...
+
+[Data](articles/39c6ef15.json)
+
+---
+
+### විදෙස් රටවල යුද්ධයට යන පිරිසට විශේෂ නිවේදනයක්
+
+*2024-05-09 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196421) · `si`
+
+විදෙස් රටවල හමුදාවේ රැකියා සඳහා යොමුනොවන ලෙස විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් අමාත්‍යවරයා පෙන්වාදෙන්නේ, මිනිස් ජාවාරම්කරුවන් පිරිසක් එක්ව රුසියාවේ හමුදා සේවය සඳහා ශ්‍රී ලාංකික තරුණයින් යොමු කරවීමේ ජාවාරමක් මේ වන විට ක්‍රියාත්මක බවය.
+
+රුසියානු හමුදාවේ ඉහළ වැටුප් සහිත රැකියා ලබාදෙන බව පවසා විශ්‍රාමික හමුදා සාමාජිකයින් මේ සඳහා බඳවා ගෙන ඇති අතර, ඔවුන් වැන්ගර් කුලි හමුදාවේ සේවය සඳහා යොදවාගෙන ඇති බව සඳහන්ය.
+
+එහිදි ඉදිරි ආරක්ෂක වළල්ලේ රාජකාරි සඳහා ඔවුන් යොදවා ඇති බව ද මාස ගණනකින් ඔවුන්ට හිමි වැටුප් පවා ලබා දී නොමැති බව ද අදාළ නිවේදනයේ සඳහන්ය.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ශ්‍රී ලංකා රජයේ අනුමැතියකින් තොරව කිසිදු පුද්ගලයෙකු යුද සේවය සඳහා විදෙස් රටකට යොමුනොකරන බව මනූෂ නානායක්කාර අමාත්‍යවරයා පවසයි.
+
+එබැවින් කිසිදු අවස්ථාවක සංචාරක වීසා මඟින් රැකියා සඳහා විදේශ ගත නොවන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් වැඩිදුරටත් ඉල්ලීමක් සිදුකරයි.
+
+...
+
+[Data](articles/f8bb59e2.json)
 
 ---
 
@@ -67,6 +193,26 @@ He said NARA did not carry out any inspection on the status of coral reefs in th
 ...
 
 [Data](articles/fdad0340.json)
+
+[Extended Data](ext_articles/fdad0340.ext.json)
+
+---
+
+### Sri Lanka keen to resume unilaterally cancelled LRT, but no agreement from Japan: FM
+
+*2024-05-09 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-keen-to-resume-unilaterally-cancelled-lrt-but-no-agreement-from-japan-fm-162182/) · `en`
+
+ECONOMYNEXT – Sri Lanka has requested Japanese government to resume a $1.5 billion worth Light Rail Transit project which was unilaterally cancelled by former leader Gotabaya Rajapaksa, but Tokyo has not agreed on the request, Foreign Minister Ali Sabry said.
+
+The project was cancelled by Rajapaksa without any discussion with Japan or its main funding agency Japan International Cooperation Agency (JICA) in 2021, leading to severed ties in the diplomatic relations between the two countries.
+
+Sri Lanka President Ranil Wickremesinghe has apologized to the Japanese government in May 2023 in his official visit to Tokyo for the cancellation of the project.
+
+Though Japan has agreed to resume all the project stopped due to Sri Lanka’s unprecedented economic crisis, Tokyo has not agreed to resume the LRT after the then Japanese government went out of way to help Sri Lanka to fund the project.
+
+...
+
+[Data](articles/8ec1110d.json)
 
 ---
 
@@ -89,6 +235,26 @@ The Department of Meteorology has requested the general public to take necessary
 [Data](articles/afe27852.json)
 
 [Extended Data](ext_articles/afe27852.ext.json)
+
+---
+
+### විදුලිබිල අඩු කරන යෝජනාව CEBය තවමත් උපයෝගීතා කොමිසමට දීලා නෑ
+
+*2024-05-09 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196420) · `si`
+
+විදුලිබිල අඩු කිරීමට අදාළ යෝජනා ලංකා විදුලිබල මණ්ඩලය විසින් මෙතෙක් මහජන උපයෝගීතා කොමිසම වෙත ලබා දී නොමැති බව එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පවසයි.
+
+අදාළ යෝජනා මැයි මස පළමු වැනිදා කොමිසම වෙත ලබාදීමට නියමිතව තිබිණි.
+
+එහෙත් විදුලිබල මණ්ඩලය සිදුකළ ඉල්ලීමක් මත එම කාලය හෙට (10) දින දක්වා දීර්ඝ කිරීමට මහජන උපයෝගීතා කොමිසම පියවර ගෙන තිබේ.
+
+ඒ අනුව හෙට දිනට පෙර එම යෝජනා ලබාදෙන ලෙස මහජන උපයෝගීතා කොමිසම ලංකා විදුලිබල මණ්ඩලය වෙත දැනුම් දී තිබේ.
+
+අදාළ යෝජනා ලැබීමෙන් පසු විදුලිබිල අඩු කිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ කෙරෙන අතර විදුලිබිල අඩු කිරීමේ ප්‍රතිශතය ජූලි මාසයේ දී ප්‍රකාශ කළ හැකි බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/caff788f.json)
 
 ---
 
@@ -149,6 +315,8 @@ The Sri Lanka national women's cricket team, which won the ICC Women's T20 World
 ◼️
 
 [Data](articles/59298ff9.json)
+
+[Extended Data](ext_articles/59298ff9.ext.json)
 
 ---
 
@@ -284,6 +452,8 @@ Also, he said Former State Minister Diana Gamage has not signed nomination paper
 
 [Data](articles/b387aa04.json)
 
+[Extended Data](ext_articles/b387aa04.ext.json)
+
 ---
 
 ### No legal barrier for non Sri Lankans to register political parties; Mahinda Dehapriya
@@ -319,6 +489,24 @@ The EC looked into a complaint from the People’s Action for Free and Fair Elec
 [Data](articles/13b083f4.json)
 
 [Extended Data](ext_articles/13b083f4.ext.json)
+
+---
+
+### Over 200 Sri Lanka ex-soldiers dead in Russia-Ukraine frontline as drone fodder, escapee says
+
+*2024-05-09 06:32:00* · [`economynextcom`](https://economynext.com/over-200-sri-lanka-ex-soldiers-dead-in-russia-ukraine-frontline-as-drone-fodder-escapee-says-162189/) · `en`
+
+ECONOMYNEXT – Hundreds of Sri Lanka ex-soldiers recruited by multiple teams were dying in their hundreds in the killing fields of the Russia-Ukraine border amid drone warfare, according to a fighter who escaped the region.
+
+Over 200 Sri Lankan ex-soldiers are believed to have died and a similar number are being treated in hospitals in regions like Donetsk, he said in an interview broadcast by Sri Lanka’s Derana Television.
+
+The retired soldier said he went to Russia after paying 1.6 million to recruiting team made up of retired senior military officers who said they were to be ‘camp helpers’ providing support services
+
+The kingpin behind the recruitment operation appeared to be an Indian national named Ramesh, he said. They were also received in Russia by a Tamil speaker, he said.
+
+...
+
+[Data](articles/b967ddbd.json)
 
 ---
 
@@ -1842,6 +2030,24 @@ Ali Sabri pointed out that the government has taken measures to obtain the suppo
 
 ---
 
+### සෞඛ්‍ය කාර්ය මණ්ඩල පළාත් මට්ටමින් වර්ජන අරඹයි
+
+*2024-05-08 18:56:47* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-කාර්ය-මණ්ඩල-පළාත්-මට්ටමින්-වර්ජන-අරඹයි/11-409509) · `si`
+
+සෞඛ්‍ය කාර්යමණ්ඩලවලට ආර්ථික යුක්තිය ඉටු කිරීම සඳහා පොරොන්දු වූ කටයුතු ඉටුකිරීමට මෙතෙක් කටයුතු නොකිරීම නිසා එයට එරෙහිව අද (09දා) සිට පළාත් මූලික කර ගනිමින් වැඩවර්ජන ආරම්භ කළ බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+මේ අනුව අද දිනය තුළදී උතුරු මැද පළාතේ රෝහල්වල හෙද, අතුරු වෛද්‍ය සේවා, පරිපූරක වෛද්‍ය සේවා හා අනෙකුත් සෞඛ්‍ය කාර්යමණ්ඩල උදේ 8.00 සිට සහවල් 12.00 දක්වා පැය 04ක කාලයක් සේවයෙන් ඉවත්වන බවද පෙන්වා දෙයි. මේ ආකාරයට මූලික අදියරේදී සෑම පළාතක් තුළම තිබෙන රෝහල්වල පැය 04ක වැඩවර්ජන ක්‍රියාමාර්ග සිදුකරන බවද පෙන්වා දෙයි.
+
+මේ මස 13වන දින මධ්‍යම පළාතේ රෝහල්වලත්,14 දින සබරගමුව පළාතෙත්, 15 දින වයඹ පළාතෙත්,16 දින දකුණු පළාතෙත්, 20වන දින ඌව පළාතෙත් සහ 21 දින බස්නාහිර පළාතත් මූලික කර ගනිමින් වැඩවර්ජන ක්‍රියාමාර්ග සිදුවන බවද සඳහන් කරයි.
+
+ආර්ථික යුක්තිය ඉටු කිරීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය සකස් කරනලද තාක්ෂණික වාර්තාව රජය ප්‍රතිපත්තිමය වශයෙන් පිළිගන්නා ලද නමුත්, එකඟ වූ පරිදි මෙතෙක් පොරොන්දු ඉටුවී නොමැති නිසා මෙම වෘත්තීය ක්‍රියාමාර්ග සිදුකරන බවද පෙන්වා දෙයි.
+
+...
+
+[Data](articles/a8e13e37.json)
+
+---
+
 ### Mystery surrounds inmate deaths at Magazine Prison
 
 *2024-05-08 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mystery-surrounds-inmate-deaths-at-Magazine-Prison/108-282180) · `en`
@@ -1973,261 +2179,5 @@ According to the results of the Grama Niladhari Examination conducted by the Dep
 [Data](articles/7b470d82.json)
 
 [Extended Data](ext_articles/7b470d82.ext.json)
-
----
-
-### Sri Lanka drafting laws that will address climate change: President
-
-*2024-05-08 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafting-laws-that-will-address-climate-change-president-162133/) · `en`
-
-ECONOMYNEXT – Sri Lanka needs a green economy, and the government is drafting new legislation which will deal with the environment and climate change, President Ranil Wickremesinghe has said.
-
-“We are already drafting a new law, which will deal with the environment and climate change.”
-
-“How we can adapt to climate change, how we can combat climate change, is certainly a matter of importance for all of us. You know what it has been like in the last few days, walking around in the city. And this is just a sign of things to come.
-
-Wickremesinghe was speaking at the inaugural session of the Sri Lanka Climate Summit, hosted by the Ceylon Chamber of Commerce, on the theme “Climate Action for our Nation and the Planet.”
-
-The summit aims to assess potential disruptions to critical sectors of the economy and deliberate on policy reforms necessary for transitioning towards a low-emission, climate-resilient economic framework.
-
-...
-
-[Data](articles/c3bdd394.json)
-
-[Extended Data](ext_articles/c3bdd394.ext.json)
-
----
-
-### Don't turn for jobs in foreign countries
-
-*2024-05-08 18:26:31* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-රටවල-හමුදාවේ-රැකියා-සඳහා-යොමුවෙන්න-එපා/11-409506) · `si`
-
-Minister Manusha Nanayakkara is involved in a human trafficking racket with the Sri Lankan military, aiming to recruit Sri Lankans for work in Russia. Despite warnings from the Sri Lanka Bureau of Foreign Employment, some have joined the Russian military through tourist visas, facing unpaid salaries and deployment issues.
-
-🟩
-
-Human traffickers jointly function in Sri Lankan military service to work in Russia and Minister Manusha Nanayakkara is asking for Sri Lankans to be involved in the racket.
-
-The relatives of a group of different difficulties have joined the Russian military service by the tourist visa recently, they have found their complaints before the Minister's instructions.
-
-Retired army soldiers have been enrolled in the Russian army, but they had to go to the service Wanger Trees Army. These people have been deployed to duty for the future defense of defense and that they have not paid their salaries in months.
-
-The Minister emphasizes that no man will be sent to a foreign country without the approval of the Sri Lanka Bureau and the Government of Sri Lanka.. Minister Manusha Nanayakkara stated that although tourist visa had done not to go abroad, he had to face many difficulties and facing many difficulties.
-
-...
-
-[Data](articles/44c9701a.json)
-
-[Extended Data](ext_articles/44c9701a.ext.json)
-
----
-
-### State  Minister Diana  Gamage Unseated as MP ! Supreme Court in Unanimous Ruling  States the  Samagi  Jana Balawegaya  Appointed National List MP is disqualified to be a Parliamentarian as she has no Sri Lankan Citizenship.
-
-*2024-05-08 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83996) · `en`
-
-The Supreme Court in a unanimous verdict delivered yesterday unseated State Minister Diana Gamage.
-
-The Court held that Gamage was disqualified to be a Parliamentarian as she has no Sri Lankan citizenship. As a result a new seat in Parliament opens up for Samagi Jana Balawegaya (SJB).
-
-Justice Janak De Silva reading portions of the judgment in open court said that Gamage has failed to prove her Sri Lankan citizenship before the Court.
-
-“Besides, all that the 1st Respondent needs to do is to provide the relevant declaration made by the Minister or the exemption granted to her. That may well have been the answer to the pending criminal proceedings.” he said.
-
-Commenting on the Court of Appeal judgment which dismissed the initial Petition filed against Diana Gamage, Justice De Silva said that there was an issue which has caused him “great concern.” “I am constrained to address another point relied on by the Appellant, which has caused
-
-...
-
-[Data](articles/6047b5f6.json)
-
-[Extended Data](ext_articles/6047b5f6.ext.json)
-
----
-
-### Udaya is a challenge to the Central Bank Governor from Udaya to come to debate
-
-*2024-05-08 18:13:15* · [`adalk`](https://www.ada.lk/breaking_news/විවාදයකට-එන්නැයි-උදයගෙන්-මහබැංකු-අධිපතිට-අභියෝගයක්/11-409505) · `si`
-
-MP Udaya Gammanpila challenges Central Bank Governor Weerasinghe to debate on the Central Bank's independence and salary increases, highlighting the bank's net loss and largest wage increase in history.
-
-🟩
-
-MP Udaya Gammanpila challenged Central Bank Governor Weerasinghe to come to debate if possible. Mr. Gammanpila made this challenge as the Petroleum Products (Provisions) in Parliament today (provisions).
-
-"The government last year had to do that the Central Bank should be independent. But the majority of the opposition was amended to the judgment.72 was recommended. What if the central bank did not make a nome, what did they do in a manner that was given to the hero?
-
-While the Central Bank of Sri Lanka continued to increase the salaries of several hundred thousand, I was informed the country on the 6th.According to the Central Bank report, the net loss in the Central Bank of Sri Lanka is Rs. 114 billion.The net loss in 2022 was 374 billion.The central bank increases the biggest wage increase in the history of Sri Lanka.
-
-...
-
-[Data](articles/e5147b8f.json)
-
-[Extended Data](ext_articles/e5147b8f.ext.json)
-
----
-
-### Tourists in fix as Sri Lanka visa validity halved after VFS Global deal
-
-*2024-05-08 17:59:00* · [`economynextcom`](https://economynext.com/tourists-in-fix-as-sri-lanka-visa-validity-halved-after-vfs-global-deal-162135/) · `en`
-
-ECONOMYNEXT – Tourists who were sold visas by VFS Global which has been given an e-visa monopoly by Sri Lanka, are in a fix after the validity period was halved and the price doubled, according to posts on a global travel forum.
-
-Sri Lanka was widely acknowledged on travel forums to have the best or one of the best e-visas in the world due to a user-friendly website which did not ask for unnecessary details, and charged only 50 dollars for double entry and gave six months validity for first entry.
-
-A British tourist applied though the new VFS Global portal said she sold two visas by VFS Global for 170 sterling pounds (about 200 dollars), based on their arrival dates.
-
-“I put our arrival dates as 23rd September 2024 and departure of 4th October,” the tourist, Jodie wrote on Tripadvisor.com
-
-“The approval notice stated we must travel to Sri Lanka by the 3rd August 24 or the visa then expires. Which is something we cannot do.”
-
-...
-
-[Data](articles/8b00708b.json)
-
-[Extended Data](ext_articles/8b00708b.ext.json)
-
----
-
-### Our two's visa rigic
-
-*2024-05-08 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196406) · `si`
-
-Sri Lanka Cricket Team's US Ambassador, July Chang, and the team faced visa rejection issues, sparking controversy on social media.
-
-🟩
-
-Sri Lanka Cricket Team and US Ambassador to July Chang received July Chang received a large number of carbage in social media.
-
-The Seasi had obtained the photograph of the Members of the Sri Lanka Cricket squad that will be participated in the West Indies and the World Cup.
-
-US Ambassador to Ambassador to July Chang and Sri Lanka National Team won a friendly talk.
-
-However, in the latest sources, however, sources say that two of them had to face an unexpected experience.
-
-It was due to rejecting their visa by the American Embassy.
-
-Sources further say that the visa of a group assistant's visa has been rejected.
-
-◼️
-
-[Data](articles/2e148cd2.json)
-
-[Extended Data](ext_articles/2e148cd2.ext.json)
-
----
-
-### Sri Lanka in discussion with Saudi-based ACWA Power for renewable energy project
-
-*2024-05-08 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-discussion-with-saudi-based-acwa-power-for-renewable-energy-project-162131/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in discussion with Saudi Arabia-based ACWA Power for renewable energy project with an aim to attract foreign investment, Foreign Ministry Ali Sabry said.
-
-Sabry met Saudi Arabian Economy, Investment, and Foreign Ministers when he visited Riyadh last week to participate in the World Economic Forum.
-
-“Saudi Arabia has agreed to invest in Sri Lanka. We expect a huge investment from Saudi Arabia. They are in the process of diversifying their oil-based economy. Accordingly, they are now investing in other countries,” Sabry told reporters at a media briefing in Colombo on Wednesday (08).
-
-“We are in discussion with them for projects at least one or two big projects. We hope to finish negotiations by end of this year. When we get one or two projects, others from that country will follow,” he said.
-
-“They are mainly interested in renewable energy, specially solar power, wind power, and green hydrogen,”
-
-...
-
-[Data](articles/a025812d.json)
-
-[Extended Data](ext_articles/a025812d.ext.json)
-
----
-
-### Over 2,000 Grama Niladharis appointed today
-
-*2024-05-08 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2-000-Grama-Niladharis-appointed-today/108-282179) · `en`
-
-Colombo, May 8 (Daily Mirror) - Following the Grama Niladhari examination conducted till December 2, 2023, a total of 2,100 letters were issued to new recruits appointed to Grama Niladhari positions.
-
-The official ceremony was held at Temple Trees this morning under the patronage of President Ranil Wickremesinghe.
-
-The new Grama Niladhari appointments were made according to the results of the examination. Those who obtained the highest marks at the Divisional Secretariat level were awarded the appointment of Grama Niladhari officials.
-
-The President informed the new village officials about the programmes such as 'Aswasuma' and 'Urumaya' that the government has started to uplift the low-income earners and requested that they actively join these programmes for the development of the economy of their areas.
-
-◼️
-
-[Data](articles/d4f11295.json)
-
-[Extended Data](ext_articles/d4f11295.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 298.75/85 to US dollar
-
-*2024-05-08 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-298-75-85-to-us-dollar-162119/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 298.75/85 to the US dollar on Wednesday from 299.40/70 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 10.60/70 percent from 10.65/75 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.95/11.00 percent from 11.05/15 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.35/45 percent from 11.40/55 percent.
-
-A bond maturing on 15.05.2030 closed down at 12.05/15 percent from 12.10/20 percent.
-
-A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May08/2024)
-
-◼️
-
-[Data](articles/b9d29c09.json)
-
-[Extended Data](ext_articles/b9d29c09.ext.json)
-
----
-
-### Sri Lanka stocks close down, selling on diversified financials
-
-*2024-05-08 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-on-diversified-financials-162115/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, for a third consecutive day, data on its site showed.
-
-The broader All Share Index closed down 0.18 percent, or 22.25 points, at 12,353; while the S&P SL20 Index closed down 0.01 percent, or 0.39 points, at 3,640.
-
-“This was mostly due to some selling pressure on the diversified financials sector,” market participants said.
-
-Browns Investments Plc saw the most active trading volumes (Rs297mn) in the day, after yesterday’s announcement that the company was acquiring Lipton tea properties in Kenya, Rwanda and Tanzania, and the share closed down at 6.60.
-
-LOLC Holdings, the parent company, was down at 485.25, LOLC Finance Pls was down at 7.10.
-
-Pan Asia Banking Corporation Plc also saw some interest (Rs159mn) and the share closed down at 22.60.
-
-Prime Lands Residencies Plc also saw some interest (Rs117mn) and the share closed up at 9.90.
-
-Index heavyweight John Keells Holdings Plc was up at 204.75.
-
-...
-
-[Data](articles/e57526b5.json)
-
-[Extended Data](ext_articles/e57526b5.ext.json)
-
----
-
-### President says his task to restore Sri Lanka’s economy is nearing its end
-
-*2024-05-08 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99087/president-says-his-task-to-restore-sri-lankas-economy-is-nearing-its-end) · `en`
-
-President Ranil Wickremesinghe says that his task to restore the country’s economy is nearing its end and that they have to now focus on the next step.
-
-“My task as president has been to restore the economy. In other words, to stabilize the economy. That task is nearing an end and we have to now focus on the next step,” he said.
-
-“We can’t carry on with this economic model, which certainly hasn’t worked,” he said, adding that Sri Lanka has transformed itself into an export-oriented economy and a highly competitive economy.
-
-For this purpose, Wickremesinghe stated that the government will be introducing legislation in parliament, which will ensure that all government policies focus on the transformation to a highly competitive export-oriented economy. He said the bill will most probably be gazetted next week.
-
-The President revealed that one of the items in the bill, in carrying out this transformation, is to ensure that Sri Lanka achieves net-zero emissions by 2050.
-
-...
-
-[Data](articles/da95cbf3.json)
-
-[Extended Data](ext_articles/da95cbf3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 23:18:31**
+As of **2024-05-09 23:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,035 (100.0%) of 23,037 articles have been extended.
+23,037 (100.0%) of 23,037 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The wildlife officers stated that they seized a large number of jars in which th
 ◼️
 
 [Data](articles/1ce71132.json)
+
+[Extended Data](ext_articles/1ce71132.ext.json)
 
 ---
 
@@ -660,21 +662,29 @@ The Secretary-General of Parliament informed the Election Commission that a Parl
 
 ---
 
-### වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනයට
+### Telecommunication Act to be amended after 28 years
 
 *2024-05-09 19:30:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-28කට-පසුව-විදුලි-සංදේශ-නියාමන-පනත-සංශෝධනයට/11-409537) · `si`
 
-වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනය කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පත හෙට දින (10) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට කටයුතු කරන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+After 28 years, the Telecommunication Act is set to be amended, with the revised Bill to be presented to Parliament tomorrow. The National Cyber Security Act is also in the drafting stage, aiming for May. The Minister of Technology highlighted the approval of the Digital Strategy Plan for 2030, focusing on infrastructure, skills, and digital government services. Additionally, steps are being taken to provide digital classrooms and employment opportunities for non-IT graduates. The social media column limit has been increased, and the National Cyber Security Act is planned for drafting in May 2024.
 
-එසේම ජාතික සයිබර් ආරක්ෂණ පනත මැයි මාසයේදී කෙටුම්පත් කිරීමට සැලසුම් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (09) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+After 28 years, the revised Bill will be presented to Parliament tomorrow (10) will be presented to Parliament tomorrow (10).
 
-එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා මෙසේද සඳහන් කළේය,
+The National Cyber ​​Security Act is scheduled to draft the National Cyber ​​Security Act in May, the public minister said.
+
+Minister of Technology Kanaka Herath made this statement participating at a press conference held at the Presidential Media Center today (09).
+
+The State Minister further stated:
+
+Digital Strategy Plan - Cabinet approval has been approved for 2030. We have presented six main points. Its first infrastructure, relationship and access, skills, literacy, industry and employment, is the connected Digital Government. The restracted digital government is also pointed out as digital financial services, small and medium scale businesses as digiting as digiting. A Global Investment Promotion Promotion is to be held in collaboration with the Ministry of External Affairs and the Ministry of Investment Promotion and June 25.
 
 ...
 
 [Data](articles/44caf3b5.json)
+
+[Extended Data](ext_articles/44caf3b5.ext.json)
 
 ---
 

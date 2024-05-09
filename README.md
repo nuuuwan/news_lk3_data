@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 15:34:09**
+As of **2024-05-09 15:52:23**
 
 ## Newspaper Stats
 
-*Scraped **22,953** Articles*
+*Scraped **22,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
 adalk | 1,942
-tamilmirrorlk | 2,688
+tamilmirrorlk | 2,689
 adaderanalk | 2,693
 virakesarilk | 3,412
 dailymirrorlk | 3,606
-adaderanasinhalalk | 3,671
+adaderanasinhalalk | 3,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,950 (100.0%) of 22,953 articles have been extended.
+22,953 (100.0%) of 22,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### යුක්‍රේන - රුසියා යුද්ධයට ගිය ශ්‍රී ලාංකිකයන් 6ක් මරුට
+
+*2024-05-09 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196438) · `si`
+
+මිනිස් ජාවාරම්කරුවන් විසින් යුක්‍රේන- රුසියා යුද්ධයේ රුසියානු හමුදාවට එක්වීම සඳහා මෙරටින් යවන ලද ශ්‍රී ලාංකිකයන් 06 දෙනෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ මෙතෙක් සිදුකළ පරීක්ෂණවලදී ඒ බව තහවුරු වී ඇති බවය.
+
+ඒ සම්බන්ධ නිවරැදි සංඛ්‍යා සොයාගැනීම සඳහා තවදුරටත් පරීක්ෂණ සිදුකෙරෙන බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/2a419bfa.json)
+
+---
+
+### කුලියාපිටිය ඝාතනය - සිඟිති ගේ ඇප අහෝසි කෙරෙයි
+
+*2024-05-09 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196437) · `si`
+
+කුලියාපිටියේ තරුණයා ඝාතනය සම්බන්ධව බන්ධනාගාරය මගින් ඉදිරිපත්කළ සිඟිති නමැත්තාගේ සහ ඔහුගේ බිරිඳගේ ඇප අවලංගු කිරීමට කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (09) කටයුතු කළේය.
+
+මුල් අවස්ථාවේදී සැකකරුවන් ට ඇප ලබාදීමට හේතු වූයේ පොලීසිය ඊට විරෝධය නොපෑම බව අවධාරණය කළ මහෙස්ත්‍රාත්වරයා එම දෙදෙනාව එළඹෙන 13 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගතකරන්නැයි නියම කළේය.
+
+කුලියාපිටිය වස්සාවුල්ල පදිංචි සුජිත් ප්‍රනාන්දු නොහොත් සිඟිති නමැත්තාගේ සහ ඔහුගේ බිරුඳ වූ දිලානි රසිකා ගේ ඇප එලෙසින් අහෝසි කෙරිණි.
+
+එසේම සුසිත් ජයවංශ ගේ ඝාතනය සම්බන්ධයෙන් මුල් අවස්ථාවේදී ප්‍රධාන සැකකරු ලෙසින් සැලකූ පුද්ගලයා ද එහිදී අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+අද (09) නඩුව කැඳවූ අවස්ථාවේදී පොලීසිය කියාසිටියේ පැමිණිල්ලේ කරුණු දැක්වීම මත ඇප ලැබූ සැකකරුවන් මෙම නඩුවේ ප්‍රධාන සැකකරුවන් බැවින් යළි බන්ධනාගාර ගතකරන ලෙසට ය.
+
+...
+
+[Data](articles/9ac85bba.json)
+
+---
 
 ### Reduced New Year drinking leads to less quarrels
 
@@ -49,6 +85,8 @@ Furthermore, from the participants, 64% expressed the view that alcohol consumpt
 ...
 
 [Data](articles/26d391df.json)
+
+[Extended Data](ext_articles/26d391df.ext.json)
 
 ---
 
@@ -69,6 +107,8 @@ Prof. Fernando said that after receiving the relevant proposals, the process to 
 ◼️
 
 [Data](articles/49335a27.json)
+
+[Extended Data](ext_articles/49335a27.ext.json)
 
 ---
 
@@ -260,21 +300,31 @@ Northern Provincial Chief Secretary, Northern Provincial Ministry of Local Gover
 
 ---
 
-### එළවළු දන්සලක් පන්නිපිටියේදී
+### Vegetables Dansala in Pannipitiya
 
 *2024-05-09 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-දන්සලක්-පන්නිපිටියේදී/11-409526) · `si`
 
-මහරගම පන්නිපිටිය A N  FRESS CHOICE එළවලු වෙළඳසැල් ජාලය තෙවන වරට සංවිධානය කළ " එළවළු දන්සැල " පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් මහරගම පන්නිපිටිය  A N නව එළවළු වෙළද සැල් පරිශ්‍රයේදී ඊයේ (08) දා පැවැත්වුණි.
+A large-scale vegetable sale event, "Dansala Tennisu," organized by Pannipitiya A N Fress Choice Vegetable Store Network, attracted over twenty thousand attendees. Held from 4 pm to midnight, participants arrived from Pannipitiya to Maharagama. Each person received about 15 types of vegetables, with a bag's value reaching 2,000. The event, now in its third year, aims to provide affordable produce to customers, employing a significant workforce.
 
-මේ සඳහා විසි දහසකට අධික ජනතාවක් සහභාගී වී සිටි අතර සවස 04 සිට මධ්‍යම රාත්‍රිය දක්වා දන්සලට පැවත්වුණි . ඒ සදහා සහභාගි වූ ජනතාව පෙරවරු 11 පමණ සිට පන්නිපිටියේ සිට මහරගම දෙසට කිලෝ මීටර් දෙකක් පමණ දුරකට පෝලිමේ රැඳී සිටිනු දක්නට ලැබුණි.
+🟩
 
-එක් පුද්ගලයකු සදහා එළවළු වර්ග 15 පමණ ලබා දී තිබූ අතර එක් අයකුගේ එළවළු බෑගයක දළ වටිනාකම රුපියල් දෙදහසකට අධික බව ජනතාව පවසති .
+Pannipitiya A N Fress Choice Vegetable Store Network, 28th, "Dansala Tennisu," held yesterday (08) at the new Vegetable Dansala, Deshanayake, Maharagama yesterday.
 
-මෙම සත් කාර්ය පිළිබදව අදහස් දැක්වූ A  N එළවලු වෙළඳසැල් ජාලයේ හිමිකරු ආනන්ද විජේරත්න මහතා මෙසේ පැවසීය.
+More than twenty thousand people attended a number of people and was held from 4 pm to midnight. The participants were present at 11 am from Pannipitiya to Maharagama.
+
+About 15 vegetables were provided to one person and the gross value of one of the vegetable bag was worth 2,000.
+
+Ananda Wijeratne, who commented on this work, said the owner of the Nanda Wijeratne said:
+
+I have several vegetable stores. There are a large number of employees. We are selling the six hundred and sixtyups to sell vegetables to customers.. That is how this care is implemented. In 2024, this is the third time.
+
+He said the journalist responded to a journalist who was spent on the darkener.. I looked to say how many varieties of vegetables than money.
 
 ...
 
 [Data](articles/938e1345.json)
+
+[Extended Data](ext_articles/938e1345.ext.json)
 
 ---
 
@@ -959,6 +1009,24 @@ At that time, a drug man entered the house and threatened the woman who was asle
 [Data](articles/68b82415.json)
 
 [Extended Data](ext_articles/68b82415.ext.json)
+
+---
+
+### கதவை திறந்து வைத்து தூங்கிய ஆசிரியை  பலாத்காரம்
+
+*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதவை-திறந்து-வைத்து-தூங்கிய-ஆசிரியை-பலாத்காரம்/175-337017) · `ta`
+
+சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். எனினும், தவிர்க்க முடியாத காரணத்தால் திறந்து வைக்கவே வேண்டும்.
+
+வீட்டில், கதவு, ஜன்னல்கள் திறந்திருப்பதை அவதானிக்கும் கள்வர்கள் கைவரிசையை காண்பித்துவிடுகின்றனர். எனினும், சென்னையில் பாலியல் பலாத்கார சம்பவம் இடம்பெற்றுள்ளது.
+
+சென்னை கோயம்பேடு பகுதியில் வசித்து வரும் 31 வயதுடைய இளம்பெண் ஒருவர் தனியார் பள்ளியில் ஆசிரியையாக பணிபுரிந்து வருகிறார். இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். இவரது கணவர் ஆட்டோ ஓட்டி பிழைப்பு நடத்தி வருகிறார்.
+
+இந்த நிலையில் இவரது கணவர் இரவு நேரத்தில் ஆட்டோ ஓட்ட வெளியே சென்று விடுவதால் இளம்பெண் வீட்டில் மகள்களுடன் இரவில் தனியாக இருந்து வந்துள்ளார். செவ்வாய்க்கிழமை (07)  இரவு வெயிலின் தாக்கம் அதிகமாக இருந்ததால் காற்றுக்காக கதவை சற்று திறந்து வைத்து தூங்கியதாக கூறப்படுகிறது.
+
+...
+
+[Data](articles/7cb249c1.json)
 
 ---
 
@@ -2209,65 +2277,5 @@ Also, he said Former State Minister Diana Gamage has not signed nomination paper
 [Data](articles/d04aa5eb.json)
 
 [Extended Data](ext_articles/d04aa5eb.ext.json)
-
----
-
-### Govt’s pre-poll development drive met with stiff resistance from Election Commission
-
-*2024-05-09 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govts-pre-poll-development-drive-met-with-stiff-resistance-from-Election-Commission/155-282215) · `en`
-
-Colombo, May 9 (Daily Mirror) - The government’s development drive ahead of the presidential election met with stiff resistance from the Election Commission (EC) which barred the involvement of political representatives of the ruling side in any such activities, an official said.
-
-The EC looked into a complaint from the People’s Action for Free and Fair Elections (PAFFREL), a poll observer group, about the impact of the involvement of politicians to carry out election propaganda in the guise of carrying out development work at divisional secretariats areas.
-
-...
-
-[Data](articles/13b083f4.json)
-
-[Extended Data](ext_articles/13b083f4.ext.json)
-
----
-
-### Over 200 Sri Lanka ex-soldiers dead in Russia-Ukraine frontline as drone fodder, escapee says
-
-*2024-05-09 06:32:00* · [`economynextcom`](https://economynext.com/over-200-sri-lanka-ex-soldiers-dead-in-russia-ukraine-frontline-as-drone-fodder-escapee-says-162189/) · `en`
-
-ECONOMYNEXT – Hundreds of Sri Lanka ex-soldiers recruited by multiple teams were dying in their hundreds in the killing fields of the Russia-Ukraine border amid drone warfare, according to a fighter who escaped the region.
-
-Over 200 Sri Lankan ex-soldiers are believed to have died and a similar number are being treated in hospitals in regions like Donetsk, he said in an interview broadcast by Sri Lanka’s Derana Television.
-
-The retired soldier said he went to Russia after paying 1.6 million to recruiting team made up of retired senior military officers who said they were to be ‘camp helpers’ providing support services
-
-The kingpin behind the recruitment operation appeared to be an Indian national named Ramesh, he said. They were also received in Russia by a Tamil speaker, he said.
-
-...
-
-[Data](articles/b967ddbd.json)
-
-[Extended Data](ext_articles/b967ddbd.ext.json)
-
----
-
-### Heavy rains in the evening today
-
-*2024-05-09 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196415) · `si`
-
-Heavy rains expected tonight across the island, with showers in the North, Sabaragamuwa, Uva, and Eastern Provinces. The Met Department warns of heavy rains in some areas, advising the public to stay safe from lightning and strong winds.
-
-🟩
-
-In most parts of the island. The Met Department announced that there will be showers at several places about 2.00.
-
-MM is in some places in the North -id, Sabaragamuwa, Uva and Eastern Provinces. Heavy rains can occur at more than 75.
-
-Showers will occur at the Western and Southern provinces.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9946095b.json)
-
-[Extended Data](ext_articles/9946095b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 14:52:22**
+As of **2024-05-09 15:03:34**
 
 ## Newspaper Stats
 
-*Scraped **22,942** Articles*
+*Scraped **22,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,321
 dailyftlk | 1,331
 adalk | 1,941
 tamilmirrorlk | 2,688
-adaderanalk | 2,690
+adaderanalk | 2,692
 virakesarilk | 3,408
 dailymirrorlk | 3,604
 adaderanasinhalalk | 3,670
@@ -26,43 +26,99 @@ adaderanasinhalalk | 3,670
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,940 (100.0%) of 22,942 articles have been extended.
+22,942 (100.0%) of 22,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### හිච්චි මල්ලී ව නිවසේදීම ඝාතනය කෙරේ
+### Advisory issued for severe lightening: Heavy showers expected tomorrow
+
+*2024-05-09 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99108/advisory-issued-for-severe-lightening-heavy-showers-expected-tomorrow) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Eastern, Uva and North-central provinces and in Matale, Mullaitivu and Kurunegala districts today (9).
+
+There may be temporary localized strong winds during thundershowers, the department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+Meanwhile, the Meteorology Department stated that showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m. on Friday (10).
+
+...
+
+[Data](articles/3823193e.json)
+
+---
+
+### ‘Not the right time to talk about retirement’ – Chamari Athapaththu
+
+*2024-05-09 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99107/not-the-right-time-to-talk-about-retirement-chamari-athapaththu) · `en`
+
+Sri Lanka Women’s Cricket Team Captain Chamari Athapaththu says now is not the right time to talk about whether or not she will retire from international cricket.
+
+In response to recent reports regarding her plans to retire from the game, Athapaththu expressed that she has not reached a final decision on the matter as of yet.
+
+“.. Maybe or maybe not. I haven’t decided on that yet..,” she said.
+
+Athapaththu made these remarks while speaking to reporters after the Sri Lanka Women’s team returned to Sri Lanka this morning (09), following the ICC Women’s T20 World Cup Qualifier final held in Abu Dhabi.
+
+Meanwhile, the star all-rounder expressed that the national team aims to perform well in the upcoming Women’s T20 World Cup.
+
+During the final qualifier match against Scotland, a sensational century from Athapaththu helped Sri Lanka join Australia, India, New Zealand and Pakistan in Group A of the ICC T20 Women’s World Cup 2024 as Qualifier 1.
+
+...
+
+[Data](articles/778dc2d7.json)
+
+---
+
+### Malli is murdered at home
 
 *2024-05-09 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196435) · `si`
 
-ගාල්ල, අක්මීමන පොලිස් බලප්‍රදේශයේ තොටගොඩ කුරුන්දකන්ද ප්‍රදේශයේදී අද (09) අලුයම තියුණු ආයුධයකින් පහරදී පුද්ගලයෙක් ව ඝාතනය කර තිබේ.
+Prasanna Kumara, known as Hamilkanda Malli, was killed in his home in Kurudadakanda, Galle, by a sword-wielding suspect. The murder, linked to a drug trafficking dispute, also targeted Malli's brother.
 
-එම පුද්ගලයා සිය නිවස තුළ නිදා සිටියදී කඩුවකින් පහරදී තිබුණි.
+🟩
 
-දැනට ප්‍රදේශයෙන් පැනගොස් ඇති සැකකරු විසින් මියගිය පුද්ගලයාගේ වැඩිමහල් සහෝදරයාට ද කඩු ප්‍රහාරයක් එල්ලකර ඇති අතර ඔහු තුවාල ලබා ගාල්ල කරාපිටිය ශික්ෂණ රෝහලට ඇතුළු කර තිබේ.
+A man was killed in a sharp instrument in Kurudadakanda area in the Kurudadakanda area in Galle, Galle, Galle today (09).
 
-මෙලෙස මියගොස් ඇත්තේ තොටගොඩ කුරුන්දකන්ද ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි හික්කඩුව කෝරලගේ ප්‍රසන්න කුමාර නොහොත් හිච්චි මල්ලි නමැත්තෙකි.
+The man was hit by a sword while he was sleeping in his home.
 
-මත්ද්‍රව්‍ය ජාවාරමක ගැටුමක් හේතුවෙන් මෙම ඝාතනය සිදුකර ඇති බවට කරුණු වාර්තා වී තිබෙන බව පොලීසිය පවසයි.
+The suspect who has jumped from the area has also launched a sword on the elder brother of the deceased.
+
+The deceased has been identified as Prasanna Kumara alias Hamilkanda Malli, a resident of Kurundakanda, Thatota.
+
+The murder had been carried out due to a clash at a drug trafficking.
 
 ◼️
 
 [Data](articles/4d6771e4.json)
 
+[Extended Data](ext_articles/4d6771e4.ext.json)
+
 ---
 
-### ඩයනාට රට ගමන් තහනම්
+### Diana bandled country travel
 
 *2024-05-09 14:07:43* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-රට-ගමන්-තහනම්/11-409523) · `si`
 
-ආගමන විගමන පාලකවරයාට ව්‍යාජ තොරතුරු ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමට එරෙහිව පවරා ඇති නඩුව ප්‍රකාරව හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය විදේශගත වීම වළක්වමින් තහනම් නියෝගයක් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් අද නිකුත් කර ලදී.
+Diana banned from travel due to false passport info. Colombo Magistrate Thilina Gamage issued the ban, affecting her ability to travel. The order also impacts the Immigration and Emigration administration.
 
-එක්සත් රාජධානියේ,ශ්‍රී ලංකාවේ රාජ්‍යතාන්ත්‍රික හෝ මොනයම් විදේශ ගමන් බලපත්‍රයක් උපයෝගී කරගනිමින් විදේශ ගතවීම වළක්වමින් නිකුත් කළ  තහනම් නියෝගය ආගමන විගමන පාලකවරයා වෙත යොමුකිරීමට ද මහේස්ත්‍රාත්වරයා නියෝග කළේය.
+🟩
+
+Colombo Chief Magistrate Thilina Gamage issued a ban from the case with a passport by submitting false information against the administration of the Immigration and Emigration.
+
+The Magistrate also ordered the Controller of Immigration and the Controller of the Immigration and Emigration.
 
 ◼️
 
 [Data](articles/1a9aef6d.json)
+
+[Extended Data](ext_articles/1a9aef6d.ext.json)
 
 ---
 
@@ -2185,55 +2241,5 @@ Indu Sky made an application in the District Court of Colombo, seeking an enjoin
 [Data](articles/fc76b103.json)
 
 [Extended Data](ext_articles/fc76b103.ext.json)
-
----
-
-### President says his task to restore Sri Lanka’s economy is nearing its end
-
-*2024-05-09 02:52:15* · [`dailyftlk`](https://www.ft.lk/business/President-says-his-task-to-restore-Sri-Lanka-s-economy-is-nearing-its-end/34-761570) · `en`
-
-President Ranil Wickremesinghe on Wednesday said that his task to restore the country’s economy is nearing its end and that they have to now focus on the next step.
-
-“My task as president has been to restore the economy. In other words, to stabilize the economy. That task is nearing an end and we have to now focus on the next step,” he said.
-
-“We can’t carry on with this economic model, which certainly hasn’t worked,” he said, adding that Sri Lanka has transformed itself into an export-oriented economy and a highly competitive economy.
-
-For this purpose, Wickremesinghe stated that the government will be introducing legislation in parliament, which will ensure that all government policies focus on the transformation to a highly competitive export-oriented economy. He said the bill will most probably be gazetted next week.
-
-The President revealed that one of the items in the bill, in carrying out this transformation, is to ensure that Sri Lanka achieves net-zero emissions by 2050.
-
-...
-
-[Data](articles/90842106.json)
-
-[Extended Data](ext_articles/90842106.ext.json)
-
----
-
-### More than hundreds of millions of mature timber rescue
-
-*2024-05-09 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183021) · `ta`
-
-Hundreds of millions of mature saplings were seized by Mullaitivu police, accused of illegal logging with departmental support. Investigations ongoing, with community activists urging immediate action.
-
-🟩
-
-More than hundreds of millions of mature saplings were seized by the Mullaitivu police on Wednesday (08).
-
-People continue to accuse illegal tremors of Pudukkudiyiruppu area. The people have been repeatedly accused of taking such activities with the support of various departments, including the Department of Forest and the Police, and that no one is taking action against their illegal activities.
-
-In this case, the Pudukkudiyiruppu police were informed yesterday (08.05.
-
-Subsequently, the Senior Deputy Inspector General of Police in charge of the Northern Province has been seized by the Mullaitivu Chief Police Officer in charge of the Mullaitivu Special Police Team.
-
-Further investigations are being carried out by the Mullaitivu Police and the Mullaitivu District Court will be produced at the Mullaitivu District Court.
-
-Community activists have said that government officials should act immediately to curb the illegal activities.
-
-◼️
-
-[Data](articles/522bbcab.json)
-
-[Extended Data](ext_articles/522bbcab.ext.json)
 
 ---

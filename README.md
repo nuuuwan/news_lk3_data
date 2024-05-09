@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 00:48:56**
+As of **2024-05-10 01:03:21**
 
 ## Newspaper Stats
 
-*Scraped **23,043** Articles*
+*Scraped **23,046** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 204
+colombotelegraphcom | 205
 bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 1,243
 economynextcom | 1,330
 dailyftlk | 1,331
 adalk | 1,960
-tamilmirrorlk | 2,694
+tamilmirrorlk | 2,696
 adaderanalk | 2,702
 virakesarilk | 3,424
 dailymirrorlk | 3,622
@@ -26,9 +26,47 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,042 (100.0%) of 23,043 articles have been extended.
+23,043 (100.0%) of 23,046 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-10 (Friday)
+
+### பட்டாசு ஆலை வெடி விபத்து: 10 பேர் பலி
+
+*2024-05-10 00:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசு-ஆலை-வெடி-விபத்து-10-பேர்-பலி/175-337062) · `ta`
+
+சிவகாசி அருகே செங்கமலப்பட்டி பட்டாசு ஆலையில் ஏற்பட்ட வெடி விபத்தில் சிக்கி 6 பெண்கள் உட்பட 9 பேர் உயிரிழந்த நிலையில், இடிபாடுகளில் சிக்கி இருந்த மற்றுமொரு தொழிலாளியின் உடல் 10 மணி நேரத்திற்கு பின் மீட்கப்பட்டுள்ளது.
+
+சிவகாசி- செங்கமலப்பட்டி அருகே நாக்பூரில் உள்ள பட்டாசு ஆலையில்  80 இற்கும் மேற்பட்ட தொழிலாளர்கள் பணிபுரிந்து வருகின்றனர். இந்த பட்டாசு ஆலையில் நேற்று  பிற்பகல் உராய்வு காரணமாக திடீர் வெடி விபத்து ஏற்பட்டது. தகவலறிந்து வந்த சிவகாசி தீயணைப்புத் துறையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+இந்த விபத்தில் 7 அறைகள் தரைமட்டமாகின. மேலும் 7 அறைகள் சேதமடைந்தன. இந்த விபத்தில் 6 பெண்கள் உட்பட 9 உயிரிழந்தனர். இதில் ஒரு தொழிலாளியின் உடல் பட்டாசு ஆலையில் இருந்து 100 மீற்றர் தூரத்தில் இருந்து மீட்கப்பட்டது. காயமடைந்த 11 பேர் சிவகாசி அரசு மருத்துவமனையில், 3 பேர் மேல் சிகிச்சைக்காக விருதுநகர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/dc09c9eb.json)
+
+---
+
+### இலங்கை கடலில் பவளப்பாறைகள் அழியும் அபாயம்
+
+*2024-05-10 00:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடலில்-பவளப்பாறைகள்-அழியும்-அபாயம்/175-337061) · `ta`
+
+தற்போது அதிகரித்துள்ள கடல் வெப்பநிலை மேலும் ஒரு மாத காலம் நீடித்தால் இலங்கையைச் சுற்றியுள்ள கடலில் உள்ள பவளப்பாறைகள் அழியும் அபாயம் ஏற்படும் என தெரிவிக்கப்படுகின்றது.
+
+தேசிய நீர்வள ஆராய்ச்சி மேம்பாட்டு முகாமைத்துவத்திற்கு (நாரா) புதிதாக நியமிக்கப்பட்டுள்ள பணிப்பாளர் நாயகம் சமுத்திவிரவியல் விஞ்ஞானியான கலாநிதி.கே.அருளானந்தன் ஆங்கில ஊடகமொன்றுக்கு இதை தெரிவித்தார்.
+
+பவளபாறைகள் உருவாக கடலின் வெப்பநிலை 27-28 டிகிரி செல்சியஸ் வரை ஏற்ற இறக்கமாக இருக்க வேண்டும்.
+
+தற்போதைய அதிகரித்த வெப்பநிலை இன்னும் ஒரு மாதம் அல்லது அதற்கு மேல் நீடித்தால் பவளபாறைகள் அழிவடைவதை எதிர்பார்க்கலாம் என சுட்டிக்காட்டியுள்ளார்.
+
+கடல்நீரின் வெப்பம் வழக்கத்தை விட அதிகரிக்கும்போது பவளப்பாறைகள் தமது நிறத்தை இழந்து வெளுக்கத் தொடங்குகின்றன. இதன் மூலம் பவளப்பாறைகளின் அழிவைத் தெரிந்து கொள்ள முடியும். பவளப்பாறைகள் அழிந்தால் அதைச் சார்ந்து வாழும் மீன்கள் உள்ளிட்ட ஏராளமான கடல் உயிரினங்களுக்கும் பெரும் பாதிப்பு ஏற்படும்” என்றார். R
+
+◼️
+
+[Data](articles/e722f551.json)
+
+---
 
 ### 2024-05-09 (Thursday)
 
@@ -798,6 +836,18 @@ However, a prison officer said that Sugith Mannel, alphabetical, who had said th
 
 ---
 
+### Unraveling The Root Causes Of Sri Lanka’s Foreign Currency Crisis
+
+*2024-05-09 19:14:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unraveling-the-root-causes-of-sri-lankas-foreign-currency-crisis/) · `en`
+
+Pre-1978, Sri Lanka upheld economic independence through stringent controls on trade and capital, fostering a production-based economy and eschewing foreign indebtedness. However, the victory of the United National Party in 1978 marked a pivotal shift, embracing free market ideology and neoliberal policies. This shift has brought forth a multitude of economic challenges. Certain individuals often labeled as economic parasites have taken advantage of free market ideology to infiltrate critical sectors such as finance, health, education, energy, media, agriculture, and land. Their primary focus is personal gain, disregarding the nation’s overall welfare. Through regulatory manipulation, this elite class exploits both public and private wealth, masking their actions as societal advancement while prioritizing their own interests.
+
+...
+
+[Data](articles/f9fa8906.json)
+
+---
+
 ### Family death in Jaffna due to high heat
 
 *2024-05-09 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183089) · `ta`
@@ -851,6 +901,8 @@ In the early 19th century Sweden was a very poor country. This was due to the ex
 ...
 
 [Data](articles/a4ae0ba4.json)
+
+[Extended Data](ext_articles/a4ae0ba4.ext.json)
 
 ---
 
@@ -2257,57 +2309,5 @@ The murder had been carried out due to a clash at a drug trafficking.
 [Data](articles/4d6771e4.json)
 
 [Extended Data](ext_articles/4d6771e4.ext.json)
-
----
-
-### Diana bandled country travel
-
-*2024-05-09 14:07:43* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-රට-ගමන්-තහනම්/11-409523) · `si`
-
-Diana banned from travel due to false passport info. Colombo Magistrate Thilina Gamage issued the ban, affecting her ability to travel. The order also impacts the Immigration and Emigration administration.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage issued a ban from the case with a passport by submitting false information against the administration of the Immigration and Emigration.
-
-The Magistrate also ordered the Controller of Immigration and the Controller of the Immigration and Emigration.
-
-◼️
-
-[Data](articles/1a9aef6d.json)
-
-[Extended Data](ext_articles/1a9aef6d.ext.json)
-
----
-
-### Presidential poll to be held between September 17, October 16
-
-*2024-05-09 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-poll-to-be-held-between-September-17-October-16/155-282248) · `en`
-
-Colombo, May 9 (Daily Mirror) - The Election Commission formally announced that the 2024 Presidential election will be held on a day between September 17 and October 16.
-
-Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commission said it will call for nominations to hold the Presidential election within the specified timeframe in terms of the provisions of the Constitution of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested with the Election Commission to fix the date for the election, it will hold the Presidential election between 17 September 2024 and l6 October 2024.
-
-◼️
-
-[Data](articles/25e44fe5.json)
-
-[Extended Data](ext_articles/25e44fe5.ext.json)
-
----
-
-### Presidential poll to be held between September 17, October 16
-
-*2024-05-09 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-poll-to-be-held-between-September-17-October-16/108-282248) · `en`
-
-Colombo, May 9 (Daily Mirror) - The Election Commission formally announced that the 2024 Presidential election will be held on a day between September 17 and October 16.
-
-Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commission said it will call for nominations to hold the Presidential election within the specified timeframe in terms of the provisions of the Constitution of Sri Lanka and the Presidential Elections Act No. l5 of 1981, and that by virtue of the powers vested with the Election Commission to fix the date for the election, it will hold the Presidential election between 17 September 2024 and l6 October 2024.
-
-◼️
-
-[Data](articles/332c58b0.json)
-
-[Extended Data](ext_articles/332c58b0.ext.json)
 
 ---

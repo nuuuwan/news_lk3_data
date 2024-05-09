@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 14:33:36**
+As of **2024-05-09 14:52:22**
 
 ## Newspaper Stats
 
-*Scraped **22,940** Articles*
+*Scraped **22,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,940
+adalk | 1,941
 tamilmirrorlk | 2,688
 adaderanalk | 2,690
 virakesarilk | 3,408
 dailymirrorlk | 3,604
-adaderanasinhalalk | 3,669
+adaderanasinhalalk | 3,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,936 (100.0%) of 22,940 articles have been extended.
+22,940 (100.0%) of 22,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### හිච්චි මල්ලී ව නිවසේදීම ඝාතනය කෙරේ
+
+*2024-05-09 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196435) · `si`
+
+ගාල්ල, අක්මීමන පොලිස් බලප්‍රදේශයේ තොටගොඩ කුරුන්දකන්ද ප්‍රදේශයේදී අද (09) අලුයම තියුණු ආයුධයකින් පහරදී පුද්ගලයෙක් ව ඝාතනය කර තිබේ.
+
+එම පුද්ගලයා සිය නිවස තුළ නිදා සිටියදී කඩුවකින් පහරදී තිබුණි.
+
+දැනට ප්‍රදේශයෙන් පැනගොස් ඇති සැකකරු විසින් මියගිය පුද්ගලයාගේ වැඩිමහල් සහෝදරයාට ද කඩු ප්‍රහාරයක් එල්ලකර ඇති අතර ඔහු තුවාල ලබා ගාල්ල කරාපිටිය ශික්ෂණ රෝහලට ඇතුළු කර තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ තොටගොඩ කුරුන්දකන්ද ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි හික්කඩුව කෝරලගේ ප්‍රසන්න කුමාර නොහොත් හිච්චි මල්ලි නමැත්තෙකි.
+
+මත්ද්‍රව්‍ය ජාවාරමක ගැටුමක් හේතුවෙන් මෙම ඝාතනය සිදුකර ඇති බවට කරුණු වාර්තා වී තිබෙන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/4d6771e4.json)
+
+---
+
+### ඩයනාට රට ගමන් තහනම්
+
+*2024-05-09 14:07:43* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-රට-ගමන්-තහනම්/11-409523) · `si`
+
+ආගමන විගමන පාලකවරයාට ව්‍යාජ තොරතුරු ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමට එරෙහිව පවරා ඇති නඩුව ප්‍රකාරව හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය විදේශගත වීම වළක්වමින් තහනම් නියෝගයක් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් අද නිකුත් කර ලදී.
+
+එක්සත් රාජධානියේ,ශ්‍රී ලංකාවේ රාජ්‍යතාන්ත්‍රික හෝ මොනයම් විදේශ ගමන් බලපත්‍රයක් උපයෝගී කරගනිමින් විදේශ ගතවීම වළක්වමින් නිකුත් කළ  තහනම් නියෝගය ආගමන විගමන පාලකවරයා වෙත යොමුකිරීමට ද මහේස්ත්‍රාත්වරයා නියෝග කළේය.
+
+◼️
+
+[Data](articles/1a9aef6d.json)
+
+---
 
 ### Presidential poll to be held between September 17, October 16
 
@@ -59,6 +93,8 @@ Issuing an announcement today (09), the Election Commission also said that by vi
 ◼️
 
 [Data](articles/8947637a.json)
+
+[Extended Data](ext_articles/8947637a.ext.json)
 
 ---
 
@@ -314,21 +350,27 @@ The statement further disclosed that these recruits are being assigned to frontl
 
 ---
 
-### විශ්‍රාම ගැනිම වෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්
+### May not be able to retire
 
 *2024-05-09 12:45:47* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගැනිම-වෙන්නත්-පුළුවන්-නොවෙන්නත්-පුළුවන්/9-409520) · `si`
 
-ලෝක කුසලාන තරගාවලියට ප්‍රථමව ශ්‍රි ලංකා කාන්ත ක්‍රිකට් කණ්ඩායමට තරගාවලි කිහිපයක්ම පවතින බවත් එම සියලු තරගාවලි හොඳින් ක්‍රිඩා කිරිම තම කණ්ඩායමේ අරමුණ බවත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවැසිය.
+The Sri Lankan women's cricket team leader aims to qualify for the Twenty20 World Cup in Dubai. She praised the team's performance, emphasizing the importance of their unity and effort.
 
-ඇය මේ බව සඳහන් කළේ ඩුබායිහි පැවැති විස්සයි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබා ගැනිම වෙනුවෙන් පැවැති තරගාවලියේ ශූරතාව දිනා ගැනිමෙන් අනතුරුව ශ්‍රි ලංකා කාන්තා ක්‍රිකට් ක්‍රිකට් කණ්ඩායම කටුනායක ගුවන් තොටුපොළින් ශ්‍රී ලංකාවට පැමිණි අවස්ථාවේදිය.
+🟩
 
-තරගාවලිය ජයග්‍රහණය කිරිම කණ්ඩායමේ සියලු දෙනා හොඳින් ක්‍රිඩා කළ බවත් ඇය පැවැසුවාය.
+The Sri Lankan women's cricket team leader is the goal of Sri Lanka women's cricket team and the goal of Sri Lanka women's cricket team is the goal of the cricket team first.
 
-මෙහිදි ක්‍රිඩාවෙන් විශ්‍රාම ගැනිම පිළිබ﻿ඳව යොමුකළ ප්‍රශ්නයකට පිළිතුරු දුන් චමරි සඳහන් කළේ තමන් ඒ පිළිබ﻿ඳව සාකච්ඡා කරන බවත් එය 'සිදුවෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්' කියාය‍
+She was speaking to the championship of the tournament to qualify for the Twenty20 World Cup held in Dubai.
+
+She said all of the team was well played to win the tournament.
+
+Chamari replied to a question of the labor of the launches
 
 ◼️
 
 [Data](articles/758f5724.json)
+
+[Extended Data](ext_articles/758f5724.ext.json)
 
 ---
 
@@ -570,15 +612,21 @@ The temperature of the sea to form coral reefs should be fluctuating up to 27-28
 
 *2024-05-09 11:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-இலக்கை-அறிவித்தார்-ஜனாதிபதி/175-337018) · `ta`
 
+The President announced the final target of the economic development and restoration programs, which have been successfully implemented to rebuild the country, leading to economic improvement since mid-2023. The economic growth for this year is expected to be around three percent, with various domestic and foreign financial institutions reacting positively. The country's inflation has dropped to 1.5%, and the current account, which has been in deficit for many years, is now at 0.6% of GDP. The President highlighted a 10%-13% decrease in interest rates and a significant increase in foreign exchange reserves to over $5 billion. By 2032, Sri Lanka aims to reduce its total debt to 95% of its GDP, meet the government's total financial needs annually at 13%, and ensure that foreign debt service does not exceed 4.5% annually.
+
+🟩
+
 முறையான திட்டம், அனுபவம் மற்றும் சர்வதேச தொடர்புகள் என்பவற்றின் காரணமாகவே தனியொரு பாராளுமன்ற உறுப்பினராக இருந்த போதும் எவ்வித நிபந்தனைகளும் இன்றி நாட்டைப் பொறுப்பேற்றதாகவும் அதன் ஊடாக நரகத்தில் விழுந்த நாட்டை மீட்க முடியும் என்ற நம்பிக்கை தனக்கு இருந்ததாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில்  இன்று (09) ஆற்றிய விசேட உரையின் போது தெரிவித்தார்.
 
-வீழ்ச்சியடைந்த நாட்டை மீளக் கட்டியெழுப்ப பொருளாதார ஸ்திரப்படுத்தல் மற்றும் மீட்சித் திட்டங்கள் முறையாக நடைமுறைப்படுத்தப்பட்டுள்ளதாகவும் அதன் விளைவாக 2023 ஆம் ஆண்டின் நடுப்பகுதியில் இருந்து பொருளாதார முன்னேற்றத்திற்கான பயணம் ஆரம்பமாகியுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்
+The President said that the economic development and restoration programs have been properly implemented to rebuild the declined country, resulting in the journey of economic improvement from mid -2023.
 
-இந்த ஆண்டு பொருளாதார வளர்ச்சி சுமார் மூன்று சதவீதமாக இருக்கும் என்று எதிர்பார்ப்பதாகக் குறிப்பிட்ட ஜனாதிபதி, பல்வேறு உள்நாட்டு மற்றும் வெளிநாட்டு நிதி நிறுவனங்களும் இதற்கு நிகரான எதிர்வுகூறல்களை முன்வைத்துள்ளதாகத் தெரிவித்தார்.
+The president said that this year's economic growth is expected to be about three percent, the president said that various domestic and foreign financial institutions have come up with similar reactions.
 
 ...
 
 [Data](articles/13763efb.json)
+
+[Extended Data](ext_articles/13763efb.ext.json)
 
 ---
 
@@ -1548,6 +1596,8 @@ I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silv
 
 [Data](articles/cfebe030.json)
 
+[Extended Data](ext_articles/cfebe030.ext.json)
+
 ---
 
 ### A special announcement for war in foreign countries
@@ -2185,53 +2235,5 @@ Community activists have said that government officials should act immediately t
 [Data](articles/522bbcab.json)
 
 [Extended Data](ext_articles/522bbcab.ext.json)
-
----
-
-### NV Subramaniam handed over the fishermen to the sea demanding the stopping of the local trawling industry
-
-*2024-05-09 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183019) · `ta`
-
-NV Subramaniam, representing the Northern Provincial Fisheries Organization, urged local fishermen to abandon the trawling industry, citing its negative impact on local tranquility. He highlighted the plight of small fishermen, facing equipment seizures and starvation due to overfishing. Subramaniam called for a shift to alternative, sustainable fishing practices to ensure the livelihoods of Tamil and Northern Tamil fishermen, emphasizing the need for unity and support among these communities.
-
-🟩
-
-NV Subramaniam, representative of the Northern Provincial Fisheries Organization, demanding the abandonment of the business and abandoning the business, claiming that the local tranquility business was affected by the local trawling industry, and handed over to the local fishermen on Wednesday (8).
-
-Our Tamil Nadu Fisheries Relationships, and Northern Jaffna Fisheries Relationships. The Madagal of Your Love is N.V. Subramaniam I pray,
-
-Both Indian and Sri Lankan governments are artificially anti -hostile and sect.. We need to understand this first. Our stomach has become hungry.
-
-2) We take the fish we need and reduce the fish proliferation.
-
-4) We are ruthlessly cut off the marine equipment of the small fisherman and take them to starvation.
-
-These are all the atrocities that the little fisherman knows. In the future, if all the atrocities are destroyed
-
-1) Where do we live in this sea to alleviate our stomach hunger.
-
-...
-
-[Data](articles/62d1a298.json)
-
-[Extended Data](ext_articles/62d1a298.ext.json)
-
----
-
-### The illegitimate National Education Policy Framework 2023-2033
-
-*2024-05-09 02:36:31* · [`dailyftlk`](https://www.ft.lk/columns/The-illegitimate-National-Education-Policy-Framework-2023-2033/4-761565) · `en`
-
-What was so deficient in the NEC’s proposal that required a new policy be prepared so urgently, and – more significantly – why did the President not direct these concerns back to the NEC, which is established and maintained by public funds for the explicit purpose of education policy formulation?
-
-When I went to register the birth of our son, I wasn’t asked to provide our marriage certificate – the fact that a man is willing to accept paternity by putting his name down is generally accepted as proof of legitimacy.
-
-While this patriarchal practice is discriminatory – impugning the dignity of the child, who is a human being regardless of the relationship between his or her parents – I have no qualms on employing this practice on a policy document.
-
-...
-
-[Data](articles/63b8d0c4.json)
-
-[Extended Data](ext_articles/63b8d0c4.ext.json)
 
 ---

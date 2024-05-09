@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 22:33:27**
+As of **2024-05-09 22:50:55**
 
 ## Newspaper Stats
 
-*Scraped **23,034** Articles*
+*Scraped **23,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,958
 tamilmirrorlk | 2,694
 adaderanalk | 2,701
 virakesarilk | 3,424
-dailymirrorlk | 3,621
+dailymirrorlk | 3,622
 adaderanasinhalalk | 3,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,029 (100.0%) of 23,034 articles have been extended.
+23,034 (100.0%) of 23,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### உலகக் கிண்ண இலங்கைக் குழாமில் வெல்லலாகே
+### World Cup
 
 *2024-05-09 22:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உலகக்-கிண்ண-இலங்கைக்-குழாமில்-வெல்லலாகே/44-337060) · `ta`
 
-சர்வதேச கிரிக்கெட் சபையின் இருபதுக்கு – 20 உலகக் கிண்ணத் தொடருக்கான இலங்கைக் குழாமில் டுனித் வெல்லலாகே இடம்பெற்றுள்ளார். வெல்லலாகே இருபதுக்கு – 20 சர்வதேசப் போட்டிகளில் இதுவரையில் விளையாடவில்லை என்பது குறிப்பிடத்தக்கது.
+Tunith Vellale, a newcomer, joins Sri Lanka's Twenty20 World Cup squad, marking his debut in international cricket. Notable absences include Kamindu Mendis, Nuwan Dushara, and Tanjaya de Silva. The team is led by Vanidu Hasaranga, with Kusal Mendis and Dasun Shanaka among the key players.
 
-இதேவேளை கமிந்து மென்டிஸ், நுவான் துஷார, தனஞ்சய டி சில்வா ஆகியோரும் குழாமில் இடம்பெற்றுள்ள நிலையில் துடுப்பாட்டவீரர்களான அவிஷ்க பெர்ணாண்டோ, குசல் பெரேரா மற்றும் வேகப்பந்துவீச்சாளரான பினுர பெர்ணாண்டோ குழாமில் இடம்பெறவில்லை.
+🟩
 
-குழாம்: வனிடு ஹசரங்க (அணித்தலைவர்), சரித் அசலங்க (உப அணித்தலைவர்), குசல் மென்டிஸ், பதும் நிஸங்க, கமிந்து மென்டிஸ், சதீர சமரவிக்கிரம, அஞ்சலோ மத்தியூஸ், தசுன் ஷானக, தனஞ்சய டி சில்வா, மகேஷ் தீக்‌ஷன, டுனித் வெல்லலாகே, துஷ்மந்த சமீர, மதீஷ பத்திரண, நுவான் துஷார, டில்ஷான் மதுஷங்க.
+Tunith Vellale is featured in the Sri Lanka Group for the Twenty20 World Cup series of the International Cricket Board. It is noteworthy that Vellalala has not played in twenty -20 internationals.
 
-மேலதிக வீரர்கள்: அசித பெர்ணாண்டோ, விஜயகாந்த் வியாஸ்காந்த், பானுக ராஜபக்‌ஷ, ஜனித் லியனகே.
+Meanwhile, Kamindu Mendis, Nuwan Dushara and Tanjaya de Silva are not featured in the squad as the batsmen Avishka Fernando, Kusal Perera and the fast bowler, Binura Fernando.
+
+Group: Vanidu Hasaranga (Team Leader), Sarith Asalanga (Vice -Chancellor), Kusal Mendis, Patum Nisanga, Kamindu Mendis, Sadheera Samarawickrama, Angelo Madhus, Dasun Shanaka, Tanjaya De Silva, Mahesh DekshanaDushara, Dilshan Madushanga.
+
+Additional players: Asita Fernando, Vijayakanth Vyaskant, Banuka Rajapaksa, Janith Liyanage.
 
 ◼️
 
 [Data](articles/6e4fa7e8.json)
+
+[Extended Data](ext_articles/6e4fa7e8.ext.json)
+
+---
+
+### No import of vehicles expected in near future - Vehicle Importers Association
+
+*2024-05-09 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-import-of-vehicles-expected-in-near-future-Vehicle-Importers-Association/108-282263) · `en`
+
+Colombo, May 9 (Daily Mirror) - While denouncing the false rumours regarding imminent vehicle importation, the Vehicle Importers Association of Sri Lanka (VIASL) clarified that no vehicles, including lightweight vehicles, will be imported within the current year or before the election.
+
+VIASL President Prasad Priyanga told the Daily Mirror that this decision was taken following a discussion held with the Finance State Minister yesterday.
+
+"According to the discussion, vehicle importation will take at least another year. However, upon resuming importation, buses and lorries will be the first batch imported, primarily for tourism purposes," Priyanga said.
+
+"Buses and lorries will exclusively be imported through the members of our association, with a maximum import time of one month. The discussion primarily centred around importing electric vehicles, although fuel-powered vehicles will also be included among them," he said.
+
+...
+
+[Data](articles/f7f1c7b0.json)
 
 ---
 
@@ -68,47 +92,61 @@ This is the first instance that a Sri Lanka netball player has failed a drug tes
 
 [Data](articles/9f5c50c2.json)
 
+[Extended Data](ext_articles/9f5c50c2.ext.json)
+
 ---
 
-### තීරු බදු බලපත්‍ර මත වාහන ගෙන්වීමේදී සිදුවූ දේ ?
+### What happened when you import vehicles on tariff licenses?
 
 *2024-05-09 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196457) · `si`
 
-සුඛෝපභෝගී වර්ගයේ වාහන 1,728ක් ආනයනය කිරීමේදී අඩු වටිනාකම් පෙන්වීම තුළින් බරපතළ රේගු වංචාවක් සිදුවී ඇති ආකාරයක් පෙනී යන හෙයින් ඒ සම්බන්ධයෙන් විමර්ශන සිදු කිරීම සඳහා අභියාචනාධිකරණය විසින් රේගු අධ්‍යක්ෂ ජනරාල්වරයාට අවසර ලබාදී තිබේ.
+The Director General of Customs is investigating a fraud involving the importation of 1,728 vehicles, including 100 luxury cars, linked to duty licenses for government officials from 2011 to 2014. A private company has challenged this investigation in court, with Judge Shashi Mahendran presiding.
 
-ඒ, 2011 වසරේ සිට 2014 වසර දක්වා කාලසීමාව තුළ රජයේ නිලධාරින් වෙනුවෙන් නිකුත් කරන ලද තීරු බදු සහන බලපත්‍ර යටතේ ගෙන්වූ වාහන සම්බන්ධයෙනි.
+🟩
 
-ශ්‍රී ලංකා රේගුව විසින් සිදු කරනු ලබන අදාළ විමර්ශනය අභියෝගයට ලක් කරමින් පුද්ගලික සමාගමක් විසින් ගොනු කළ රිට් පෙත්සමක් නිෂ්ප්‍රභ කරමින් අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතාගේ එකඟත්වය සහිතව අභියාචනාධිකරණ විනිසුරු ශෂී මහේන්ද්‍රන් මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+The Director General of Customs has granted permission to investigate how a custom fraud has taken place in the importation of 1,728 vehicles in the importation of 100 luxury vehicles.
+
+It is connected with the duty related to the duty license issued for government officials from 2011 to year 2014.
+
+The Court of Appeal Judge Shashi Mahendran was given the decision with the agreement filed by a private company to challenge the investigation by the Sri Lanka Customs.
 
 ◼️
 
 [Data](articles/e75a6b91.json)
 
+[Extended Data](ext_articles/e75a6b91.ext.json)
+
 ---
 
-### පිරිමි දරුවෙක් සොයා මහරගම පොලීසියෙන් මෙහෙයුමක්
+### Maharagama Police search for a boy
 
 *2024-05-09 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196456) · `si`
 
-පන්නිපිටිය ඇරැව්වල ප්‍රදේශයේ පදිංචි 15 හැවිරිදි පිරිමි දරුවෙකු දින 4ක සිට අතුරුදන්වී ඇති බවට වාර්තා වෙයි.
+Maharagama Police are searching for a 15-year-old boy from Pannipitiya who has been missing for 4 days. The boy's father, suffering from a condition, had left the house with a neighbor's wife, and no information has been received since. A complaint has been lodged, and an investigation is underway.
 
-මෙලෙස අතුරුදන්වී ඇත්තේ පන්නිපිටිය ,ඇරැව්වල ,කොස්ගහහේන ප්‍රදේශයේ පදිංචි 15 හැවිරිදි කලණ මිහිරංග නම් පිරිමි දරුවෙකි.
+🟩
 
-මීට වසරකට පෙර හටගත් හදිසි රෝග තත්ත්වයක් හේතුවෙන් මව මියයෑමෙන් පසුව කලණ මෙම නිවසේ වාසය කර තිබුණේ සිය පියා සහ නැගණිය සමගය.
+A 15-year-old boy from Pannipitiya area has been reported missing since 4 days.
 
-කලණ ඔටිසම් රෝගයකින් පෙළුණු අතර කලණගේ පියාද රෝගී තත්ත්වයකින් කලක සිට පීඩා විඳිමින් සිටින අයෙකි.
+The victim was a 15 year old Salangalawanna, a resident of Pannipitiya, An Orielawa.
 
-මෙවන් පසුබිමක, ඉකුත් 5 වනදා රාත්‍රියේ කලණගේ පියාගේ රෝග තත්ත්වය උත්සන්න වී තිබේ.
+After her death to die a year ago, the mother had invented his father and her sister.
 
-එහිදී කලණගේ නැගණිය පියා රෝහල්ගත කිරීම සඳහා අසල්වාසී කාන්තාවක් සමග ගොස් ඇති අතර, නිවසේ සිට තිබුණේ කලණ පමණය.
+A sickness of an artness defect, Kalage father was suffering from a condition.
 
-පියා රෝහල්ගත කිරීමෙන් පසුව ඔවුන් යළි නිවස වෙත පැමිණෙද්දී කලණ නිවසේ නොසිටි බැවින් ඥාතීන් සහ අසල්වාසීන් එක්වී ඔහු පිළිබඳ සොයාබලා තිබුණත් කිසිදු තොරතුරුක් ලැබී තිබුණේ නැත.
+In such a backdrop, the condition of the father of Kalana's father was intensified on the 5th.
 
-මේ සම්බන්ධයෙන් මහරගම පොලිස් ස්ථානය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇති අතර ඒ අනුව පොලීසිය දරුවා සොයා විමර්ශනයක් ආරම්භ කර තිබේ.
+The father of Kalage sister had gone with a neighboring woman in the home, while the house had been at home.
+
+When the father returned to her home after the father was taken home, relatives and neighbors had not received any information, but they had not received any information.
+
+A complaint has been lodged with the Maharagama Police Station and the police have launched an investigation into the child.
 
 ◼️
 
 [Data](articles/9746776b.json)
+
+[Extended Data](ext_articles/9746776b.ext.json)
 
 ---
 
@@ -178,17 +216,23 @@ Earlier this year, Middlesex County Cricket Club - a tenant at the ground which 
 
 ---
 
-### සමගි ජන බලවේගයේ නීත්‍යානුකූල භාවය පැහැදිලි කරයි
+### Explains the legality of unity proficiency
 
 *2024-05-09 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196455) · `si`
 
-ශ්‍රී ලංකාවේ පුරවැසියෙක් නොවන කෙනෙක් දේශපාලන පක්ෂයක ලේකම්වරයෙක් ලෙස සිටිය හොත් නීතිමය තත්ත්වය කෙසේද ? යන ප්‍රශ්නයට මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා මෙලෙස පැහැදිලි කිරීමක් සිදු කළේය.
+The legality of a non-citizen serving as a political party secretary in Sri Lanka is unclear due to the lack of legal reference requiring party officers to be citizens. The Elections Commission hasn't verified citizenship status, suggesting that the situation of Diana Gamage, a non-citizen secretary, doesn't significantly impact the party's legality.
 
-"දේශපාලන පක්ෂවල නිලධාරීන් ශ්‍රී ලාංකික පුරවැසියන් ද යන්න පරීක්ෂා කිරීමට අවශ්‍යතාවයක් මැතිවරණ කොමිසමට ඇතිවෙලා නැහැ. ඒක අවශ්‍යයි කියලා නීතිමය සඳහනකුත් නැහැ. ඔය තත්ත්වය යටතේ ඩයනා ගමගේ මහත්මිය ලේකම් ධුරය දැරීම සමගි ජන බලවේගය පක්ෂය පිළිගැනීමේ නිත්‍යානුකූල භාවයට කිසිම බාධාවක් වෙනවා කියලා මම හිතන්නේ නැහැ."
+🟩
+
+A non-citizen of Sri Lanka is the secretary of a political party, how is the legal situation?Former Chairman Mahinda Deshapriya made this statement to the question.
+
+"The Elections Commission has not been able to check whether officers of political parties are Sri Lankan citizens. There is no legal reference to that it is needed. I do not think that the post of Mrs. Diana Gamage is a serious interruption to the legalization of the party. "
 
 ◼️
 
 [Data](articles/36d82cc8.json)
+
+[Extended Data](ext_articles/36d82cc8.ext.json)
 
 ---
 
@@ -2257,31 +2301,5 @@ The public is also seen in this statement that the people of these areas could b
 [Data](articles/eaf7ec37.json)
 
 [Extended Data](ext_articles/eaf7ec37.ext.json)
-
----
-
-### Babe shot to father's father
-
-*2024-05-09 13:33:05* · [`adalk`](https://www.ada.lk/breaking_news/බබාගේ-පියාට-වෙඩි/11-409521) · `si`
-
-A 60-year-old man from Ahungalla, known for his involvement in the cinnamon industry, was shot dead by two unidentified individuals. The victim, whose father is linked to organized crime, was targeted near his home. The motive behind the shooting is believed to be a dispute between two parties in Aungalla, with the shooters using a pistol. The incident occurred on the 14th, and the victim was taken to Palapitiya Aquare Hospital, where he was pronounced dead.
-
-🟩
-
-A man who was in a house in a house in Ahungalla, the World, has been shot dead yesterday (8), was shot dead by two unidentified people yesterday.
-
-The deceased has been identified as a cinnamon industry in Cinnamon Industry, a 60 year old resident of Aunugalla, Aungalla, police said.
-
-The father of the deceased is the father of an organized criminal and an invaluable client, police said.
-
-The deceased is a devotener's son, a devotener's son, a devotee to the deceased, is a racketeer, who island-wide, is a racketeer who island close to the house near the motorcycle.Police said that the residents had not been injured in the shooting.
-
-The police say that the shooting of his party had been shot dead at Ahungalla last night last night.
-
-...
-
-[Data](articles/0147cebd.json)
-
-[Extended Data](ext_articles/0147cebd.ext.json)
 
 ---

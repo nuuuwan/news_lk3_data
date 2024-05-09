@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 14:04:20**
+As of **2024-05-09 14:18:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,927 (100.0%) of 22,931 articles have been extended.
+22,931 (100.0%) of 22,931 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,13 +36,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-09 13:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்கு-பயணத்-தடை/175-337029) · `ta`
 
-இராஜாங்க அமைச்சர் டயானா கமகே நாட்டை விட்டு வெளியேறுவதைத் தடுத்து கொழும்பு பிரதான நீதவான் நீதிமன்றம் இன்று உத்தரவு பிறப்பித்துள்ளது.
+Colombo Chief Magistrate's Court issued a travel ban on State Minister Diana Kamage, preventing her from leaving the country due to charges under the Immigration Act.
 
-குடியகல்வு குடிவரவு சட்டத்தின் கீழ் குற்றங்களை இழைத்த குற்றச்சாட்டில் அவருக்கு எதிராக தாக்கல் செய்யப்பட்ட நீதவான் விசாரணை தொடர்பில் கொழும்பு பிரதான நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+🟩
+
+The Colombo Chief Magistrate's Court today issued an order to prevent State Minister Diana Kamage from leaving the country.
+
+Colombo Chief Magistrate Thilina Kamage has issued the order in connection with the Magistrate's hearing against him on charges of committing crimes under the Immigration Immigration Act.
 
 ◼️
 
 [Data](articles/fb51f11d.json)
+
+[Extended Data](ext_articles/fb51f11d.ext.json)
 
 ---
 
@@ -50,27 +56,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-09 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183057) · `ta`
 
-இன்று வியாழக்கிழமை (மே 09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்கடொலரின் கொள்வனவு விலை ரூபா 293.8242 ஆகவும் விற்பனை விலை ரூபா 303.3789 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's exchange rate is 293.8242 for buying and 303.3789 for selling US dollars.
+
+🟩
+
+The US purchasing price of the US is 293.8242 and the sales price at Rs 303.3789 on Thursday (May 09).
 
 ◼️
 
 [Data](articles/92f30e8b.json)
 
+[Extended Data](ext_articles/92f30e8b.ext.json)
+
 ---
 
-### யாழ். சாவகச்சேரி பகுதியில் விசேட யுக்திய நடவடிக்கை!
+### யாழ். Special strategy in Chavakachcheri
 
 *2024-05-09 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183045) · `ta`
 
+Today, a special operation was conducted in the Navaarkuzhi region under the Jaffna Police Division. The operation involved searches by the police and the Special Task Force along A-9 and A-32 roads. The country's police chief, Patriot Tennakoon, is actively working to control drugs nationwide.
+
+🟩
+
 யாழ்ப்பாணம் சாவகச்சேரி பொலிஸ் பிரிவுக்குட்பட்ட நாவற்குழிப் பிரதேசத்தில் இன்று (09) வியாழக்கிழமை காலை யுக்திய சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது.
 
-இதன்போது பொலிஸார் மற்றும் விசேட அதிரடிப் படையினர் இணைந்து ஏ-9 மற்றும் ஏ32 வீதிகளூடாக பயணித்த வாகனங்களை சோதனையிட்டிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that the police and the Special Task Force were searched by the A-9 and A32 roads.
 
-பொலிஸ்மா அதிபர் தேசப்பந்து தென்னக்கோன் அவர்களது ஆலோசனைக்கு அமைவாக போதைப்பொருளை கட்டுப்படுத்தும் நோக்குடன் நாடளாவிய ரீதியில் யுக்திய சுற்றிவளைப்பு நடவடிக்கை இடம்பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+It is noteworthy that the police chief of the country, Patriot Tennakoon, is in the process of controlling drugs throughout the country.
 
 ◼️
 
 [Data](articles/ef63f474.json)
+
+[Extended Data](ext_articles/ef63f474.ext.json)
 
 ---
 
@@ -116,17 +134,23 @@ MP Jayantha Samaraweera said there was a public outcry that liquor permits have 
 
 *2024-05-09 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183049) · `ta`
 
+A court has banned former Minister Diana Gamage from traveling abroad. The Colombo Magistrate's Court issued this order on Thursday, considering the case's dual citizenship aspect. Copies of the order were sent to the Immigration and Emigration Controller General and the National Intelligence Director's Office.
+
+🟩
+
 முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு வெளிநாடு செல்வதற்கு நீதிமன்றம்  தடை விதித்துள்ளது.
 
 கொழும்பு நீதவான் நீதிமன்றம் இன்று  வியாழக்கிழமை (09) டயானா கமகேவுக்கான இந்த வெளிநாட்டு பயணத்தடையை விதித்தது.
 
-இரட்டை பிரஜாவுரிமை தொடர்பான வழக்கில் மனுதாரர் தரப்பு சட்டத்தரணிகள் விடுத்த கோரிக்கையை பரிசீலித்த கொழும்பு நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+Colombo Magistrate Thilina Kamage has issued the order, considering the request of the petitioner's lawyers in the case of dual citizenship.
 
-இந்த உத்தரவின் பிரதிகள் குடிவரவு, குடியகல்வு கட்டுப்பாட்டாளர் நாயகத்தின் அலுவலகம் மற்றும் தேசிய புலனாய்வுப் பணிப்பாளர் அலுவலகத்திற்கும் அனுப்பி வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that copies of this order have been sent to the Office of the Immigration and Emigration Controller General and the National Intelligence Director's Office.
 
 ◼️
 
 [Data](articles/1c35346b.json)
+
+[Extended Data](ext_articles/1c35346b.ext.json)
 
 ---
 

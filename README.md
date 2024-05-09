@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 01:51:46**
+As of **2024-05-10 02:03:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,046 (100.0%) of 23,049 articles have been extended.
+23,049 (100.0%) of 23,049 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The legal recognition of the fundamental rights of trade unions in this country 
 
 [Data](articles/d5ba9369.json)
 
+[Extended Data](ext_articles/d5ba9369.ext.json)
+
 ---
 
 ### How filmmakers and lawmakers view people’s trust - EDITORIAL
@@ -60,6 +62,8 @@ This is a country where its regime initiates programmes in a hurry and then repe
 
 [Data](articles/fe69f752.json)
 
+[Extended Data](ext_articles/fe69f752.ext.json)
+
 ---
 
 ### Netanyahu in Rafah trap after ceasefire breakthrough
@@ -75,6 +79,8 @@ Those who closely follow Israel’s genocidal campaign in Gaza know that Rafah h
 ...
 
 [Data](articles/9f0a5912.json)
+
+[Extended Data](ext_articles/9f0a5912.ext.json)
 
 ---
 

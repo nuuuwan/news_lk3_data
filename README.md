@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 07:34:55**
+As of **2024-05-09 08:08:12**
 
 ## Newspaper Stats
 
-*Scraped **22,849** Articles*
+*Scraped **22,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 201
 bbccomsinhala | 238
 dbsjeyarajcom | 239
 newsfirstlk | 363
-islandlk | 1,242
+islandlk | 1,243
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,652
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,838 (100.0%) of 22,849 articles have been extended.
+22,847 (100.0%) of 22,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -454,19 +454,25 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### ’பெரும் சுதந்திரம் கிடைத்ததை போன்றது’
+### The model is like gaining great freedom
 
 *2024-05-09 01:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-சுதந்திரம்-கிடைத்ததை-போன்றது/175-337003) · `ta`
 
-டயனா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி இல்லாமல் போனமை பாராளுமன்றத்திற்கும் சபாநாயகருக்கும் பெரும் சுதந்திரம் கிடைத்ததை போன்றது என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் நளீன் பண்டார தெரிவித்தார்.
+Naleen Bandara, an opposition parliamentarian, likened the absence of Diana Kamage to the Speaker's increased independence, suggesting Parliament has gained significant freedom.
 
-பாராளுமன்றத்தில் புதன்கிழமை (08) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார். அதன்போது அவர் மேலும் கூறுகையில்,
+🟩
 
-பாராளுமன்ற உறுப்பினராக இருந்த டயனா கமகே தொடர்பான இரட்டைக் குடியுரிமை தொடர்பான வழக்கில் உயர் நீதிமன்றத்தினால் முக்கிய தீர்ப்பு வழங்கப்பட்டுள்ளது. இதன்படி அவர் இன்று முதல் பாராளுமன்ற உறுப்பினர் அல்ல. இதன்மூலம் இந்த பாராளுமன்றத்திற்கு பெரும் சுதந்திரம் கிடைத்துள்ளது என்பதுடன், சபாநாயருக்கும் பெரும் சுதந்திரம் கிடைத்துள்ளது என்பதனை கூறுகின்றோம் என்றார்.
+Opposition parliamentarian Naleen Bandara said that the lack of Diana Kamage's post was like the freedom of parliament and the Speaker.
+
+He said this while addressing a special statement in Parliament on Wednesday (08). At the time he added,
+
+The Supreme Court has issued a major verdict in the case of Diana Kamage, who was a Member of Parliament. Accordingly, he is not a Member of Parliament since today. We say that the Parliament has gained great freedom and the Speaker has gained great independence.
 
 ◼️
 
 [Data](articles/a8de3b34.json)
+
+[Extended Data](ext_articles/a8de3b34.ext.json)
 
 ---
 
@@ -1096,6 +1102,8 @@ Unilever Sri Lanka’s ‘Ceytea’ factory is the largest supplier of black tea
 
 [Data](articles/06d6dc86.json)
 
+[Extended Data](ext_articles/06d6dc86.ext.json)
+
 ---
 
 ### Thakral Group presents “The Future of Possible”: showcasing DJI’s technological innovation in Sri Lanka
@@ -1110,6 +1118,8 @@ The event offered attendees an immersive experience into DJI’s latest offering
 
 [Data](articles/259581fa.json)
 
+[Extended Data](ext_articles/259581fa.ext.json)
+
 ---
 
 ### CIPM Gold Medals and scholarships for top performers at Horizon and SLIIT
@@ -1123,6 +1133,8 @@ CIPM Sri Lanka—the Nation’s leader in human resource management—awarded go
 ...
 
 [Data](articles/691bc1d4.json)
+
+[Extended Data](ext_articles/691bc1d4.ext.json)
 
 ---
 
@@ -1165,6 +1177,8 @@ Further profit takings were also noted in Banking sector counters as well. Both 
 ...
 
 [Data](articles/50f5a70d.json)
+
+[Extended Data](ext_articles/50f5a70d.ext.json)
 
 ---
 

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 08:33:43**
+As of **2024-05-09 08:52:29**
 
 ## Newspaper Stats
 
-*Scraped **22,856** Articles*
+*Scraped **22,857** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 201
-bbccomsinhala | 238
+bbccomsinhala | 239
 dbsjeyarajcom | 239
 newsfirstlk | 363
 islandlk | 1,243
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,855 (100.0%) of 22,856 articles have been extended.
+22,856 (100.0%) of 22,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,23 +56,29 @@ However, the General Secretary of All Ceylon Nurses Union, HMSB Kumadu said that
 
 ---
 
-### இலங்கையில் தமிழர்களிற்கு எதிரான சித்திரவதைகளும் பாலியல் வன்கொடுமைகளும் தொடர்கின்றன -  புதிய அறிக்கையில் சர்வதேச உண்மை மற்றும் நீதிக்கான செயற்திட்டம்
+### Torture and sexual harassment against Tamils ​​in Sri Lanka continues - the new report for international fact and justice
 
 *2024-05-09 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183023) · `ta`
 
-24பேரில் 11 பேர் - சம்பவங்கள் யூலை 2022இல் ரணில் விக்கிரமசிங்கவின் புதிய அரசாங்கம் பதவிக்கு
+Torture and sexual harassment of Tamils in Sri Lanka persist, despite Ranil Wickremesinghe's government in July 2022. Reports detail severe abuses, including sexual torture of 91 detainees, including a woman, and the use of heated materials on 46 individuals. The UN Human Rights High Commissioner, Volcker Rourg, addressed these issues on March 1, 2024.
 
-அல்லது சூடான பொருட்களால் அவர்களுக்கு சூடுவைக்கப்பட்டது. 46 பேர் நீரில் முகத்தை அழுத்தி
+🟩
 
-2022 மார்ச்சில் 28 வயது ஆண் ஒருவர் யாழ்ப்பாணத்தில் வைத்து சாதாரண உடைகளில் வந்த
+Ranil Wickremesinghe's new government in July 2022
 
-பாலியல் ரீதியான சித்திரவதையும் அடிக்கடி பயன்படுத்தப்பட்டது. ஒரு பெண் உள்ளிட்ட 91 தடுத்துவைப்பு
+Or heated them with warm materials. 46 people pressing the face of the water
 
-ஐ.நா. மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கெர் ரூர்க் 2024 மார்ச் 1 ம் திகதி இடம்பெற்ற மனித
+In March 2022, a 28 -year -old man came to Jaffna in ordinary clothes
+
+Sexual torture was also used frequently. 91 detainees including a woman
+
+The UN. Human Rights High Commissioner Volcker Rourg held on March 1, 2024
 
 ◼️
 
 [Data](articles/e0b8b872.json)
+
+[Extended Data](ext_articles/e0b8b872.ext.json)
 
 ---
 
@@ -533,6 +539,30 @@ The Egyptian president is playing the role of Israeli military actions without s
 [Data](articles/e7d9dabd.json)
 
 [Extended Data](ext_articles/e7d9dabd.ext.json)
+
+---
+
+### පරාටේ නීතිය යනු කුමක්ද ? එය අත්හිටුවීමට ගත් තීරණය හරි ද? වැරදි ද?
+
+*2024-05-09 02:15:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxr3w976rrzo) · `si`
+
+පරාටේ නීතිය යනු කුමක්ද ? එය අත්හිටුවීමට ගත් තීරණය හරි ද? වැරදි ද?
+
+බැංකු ම⁣ගින් ප්‍රදානය කළ ණය අය කර ගැනීමේ විශේෂ විධි විධාන (සංශෝධන) පනත් කෙටුම්පත තුන් වන වර කියවීම සංශෝධන රහිතව අඟහරුවාදා (මැයි 7) පාර්ලිමේන්තුවේදී සම්මත විය.
+
+කාරක සභා අවස්ථාවේදී සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී අශෝක් අබේසිංහ ඉදිරිපත් කළ සංශෝධන සම්බන්ධයෙන් පැවති ඡන්ද විමසීමේදී  වැඩි ඡන්ද 30කින් එම සංශෝධන පරාජයට පත්විය.
+
+සංශෝධනවලට විරුද්ධව ඡන්ද හතලිස් නවයක් ලැබුණු අතර, ඊට විරුද්ධව ලැබුණේ ඡන්ද 19ක් පමණි.
+
+ඒ අනුව, පරාටේ නීතිය 2024 දෙසැම්බර් මස 15 වන දා දක්වා අත්හිටුවනු ඇත.
+
+පාස්කු ප්‍රහාර මාලාව, කොරෝනා වසංගතය සහ ආර්ථික අර්බුදය හේතුවෙන් ශ්‍රී ලංකාවේ ආර්ථිකය බරපතළ කඩාවැටීමකට ලක්වීමෙන් පසු සාමාන්‍ය ජනතාව මෙන් ම ව්‍යාපාරික ප්‍රජාව ද අසරණ තත්ත්වයකට පත්වූ බව නොරහසකි.
+
+එහි ප්‍රතිඵලය වූයේ, බැංකුවලින් ණය ලබා ගත් බොහෝ ව්‍යාපාරිකයින්ට සහ සාමාන්‍ය ජනතාවට එම ණය පියවීමේ හැකියාවක් නොමැති වීම ය.
+
+...
+
+[Data](articles/ded07fb7.json)
 
 ---
 
@@ -2213,27 +2243,5 @@ Here are pages with the English written symbols of the Weerakesari magazines pub
 [Data](articles/a9439539.json)
 
 [Extended Data](ext_articles/a9439539.ext.json)
-
----
-
-### Grenade and motorcycle found as police raid Manna Ramesh’s house
-
-*2024-05-08 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99084/grenade-and-motorcycle-found-as-police-raid-manna-rameshs-house) · `en`
-
-The Western Province (South) Crimes Division says that a foreign-manufactured hand grenade and a motorcycle were discovered following the preliminary interrogation of the underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, who was arrested in Dubai and brought to Sri Lanka yesterday.
-
-The grenade and the motorcycle were found hidden in the house allegedly belonging to the suspect located at Napawal, Yalagama, Avissawella.
-
-The hand grenade was found buried inside the house while the motorcycle, suspected to have been used to carry out various crimes, was found hidden behind the house.
-
-Police yesterday obtained a 72-hour detention order, under the Prevention of Terrorism Act (PTA), to detain ‘Manna Ramesh’ for further investigations at the Western Province (South) Crimes Division.
-
-Meanwhile, it is reported that police are expected to obtain 90-day detention orders, under section 9/1 of the PTA, subject to the approval of the Secretary of the Ministry of Defense.
-
-◼️
-
-[Data](articles/e96b27d4.json)
-
-[Extended Data](ext_articles/e96b27d4.ext.json)
 
 ---

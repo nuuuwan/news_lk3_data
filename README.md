@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 11:53:07**
+As of **2024-05-09 12:04:54**
 
 ## Newspaper Stats
 
-*Scraped **22,905** Articles*
+*Scraped **22,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,43 @@ islandlk | 1,243
 economynextcom | 1,320
 dailyftlk | 1,331
 adalk | 1,934
-tamilmirrorlk | 2,685
-adaderanalk | 2,685
+adaderanalk | 2,686
+tamilmirrorlk | 2,686
 virakesarilk | 3,401
-dailymirrorlk | 3,599
+dailymirrorlk | 3,600
 adaderanasinhalalk | 3,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,901 (100.0%) of 22,905 articles have been extended.
+22,905 (100.0%) of 22,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### திறந்து வைத்து தூங்கிய ஆசிரியையை பாலியல் பலாத்காரம்
+### Salary increments for govt employees can only be considered next year - President
 
-*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியையை-பாலியல்-பலாத்காரம்/175-337017) · `ta`
+*2024-05-09 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99102/salary-increments-for-govt-employees-can-only-be-considered-next-year-president) · `en`
+
+President Ranil Wickremesinghe states that for the reconstruction of the fallen country, economic stabilization and recovery programs were formally implemented and that as a result, the journey of economic growth started in the middle of 2023.
+
+In a special statement in Parliament today (09), Wickremesinghe said he assumed leadership of the country without any conditions, despite being a sole member of Parliament. He cited his well-thought-out plan, extensive experience and international relationships as reasons for his confidence in the country’s recovery from its challenges.
+
+Meanwhile, the Head of the State noted that economic growth is projected to be around 3% this year, with several local and international financial institutions offering similar forecasts.
+
+The President also expressed that it is his expectation to conclude all negotiations by the middle of this year, and that the ultimate goal of debt restructuring is to reduce the total amount of debt to 95% of the GDP by 2032.
+
+...
+
+[Data](articles/503beea5.json)
+
+---
+
+### திறந்து வைத்து தூங்கிய ஆசிரியை  பலாத்காரம்
+
+*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியை-பலாத்காரம்/175-337017) · `ta`
 
 சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். எனினும், தவிர்க்க முடியாத காரணத்தால் திறந்து வைக்கவே வேண்டும்.
 
@@ -46,7 +64,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
+[Data](articles/2083ee59.json)
+
+---
+
+### Rape the teacher who opened and slept
+
+*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியையை-பாலியல்-பலாத்காரம்/175-337017) · `ta`
+
+In Chennai, a 31-year-old teacher was raped while her husband was away, driving their daughters. The incident occurred when the family left their home open for ventilation. The teacher's husband, who drives an auto, left the children at home while he worked at night. A man entered the house, threatened the sleeping woman, and raped her. The woman tried to scream but was silenced by threats to her daughters. Neighbors intervened, and the man was arrested by the police. This case has caused concern in the community.
+
+🟩
+
+சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். However, it must be opened because of the inevitable reason.
+
+At home, the door, the windows are open. However, the rape incident has taken place in Chennai.
+
+A 31 -year -old teenager, who lives in Coimbatore, Chennai, works as a teacher at a private school. இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். Her husband is driving an auto.
+
+In this case, her husband left the auto to drive at night with her daughters at night with her daughters. The impact of the sun was high on Tuesday (07) and it was said that the door was open for the air and slept.
+
+At that time, a drug man entered the house and threatened the woman who was asleep. Shocked by this, the woman tried to shout. But the man threatened to kill the girls if he shouted.
+
+...
+
 [Data](articles/68b82415.json)
+
+[Extended Data](ext_articles/68b82415.ext.json)
 
 ---
 
@@ -68,6 +112,24 @@ Meanwhile, former Member of Parliament Mujibur Rahman of the Samagi Jana Balaweg
 
 [Data](articles/a53fb947.json)
 
+[Extended Data](ext_articles/a53fb947.ext.json)
+
+---
+
+### Astronomers finally detect a rocky planet with an atmosphere
+
+*2024-05-09 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Astronomers-finally-detect-a-rocky-planet-with-an-atmosphere/107-282236) · `en`
+
+WASHINGTON, May 9 (Reuters) - Astronomers have searched for years for rocky planets beyond our solar system with an atmosphere - a trait considered essential for any possibility of harboring life. Well, they finally seem to have located one. But this hellish planet - apparently with a surface of molten rock - offers no hope for habitability.
+
+Researchers said on Wednesday the planet is a "super-Earth" - a rocky world significantly larger than our planet but smaller than Neptune - and it orbits perilously close to a star dimmer and slightly less massive than our sun, rapidly completing an orbit every 18 hours or so.
+
+Infrared observations using two instruments aboard the James Webb Space Telescope indicated the presence of a substantial - if inhospitable - atmosphere, perhaps continuously replenished by gases released from a vast ocean of magma.
+
+...
+
+[Data](articles/0877a6fe.json)
+
 ---
 
 ### New circular issued on leave approval for government employees
@@ -86,25 +148,33 @@ Furthermore, the Secretary of the Ministry of Public Administration has ordered 
 
 [Data](articles/2838e8d2.json)
 
+[Extended Data](ext_articles/2838e8d2.ext.json)
+
 ---
 
-### NMRA හිටපු CEO අධිකරණය ට
+### NMRA former CEO court
 
 *2024-05-09 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196429) · `si`
 
-ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව අධිකරණය වෙත රැගෙන ආ බව අප වාර්තාකරු පවසයි.
+Dr. Vijith Gunasekera, former CEO of the National Drug Regulatory Authority, was arrested and brought to the Maligakanda Magistrate's Court. He spent nearly 10 hours giving a statement to the Criminal Investigation Department regarding the questionable Human Emiyankulin antibodies.
 
-අප වාර්තාකරු පැවසුවේ ඔහුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට රැගෙන ආ බවයි.
+🟩
 
-ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව ඊයේ (08) අත්අඩංගුවට ගැනුණි.
+Our correspondent says that the former Chief Executive Officer of the National Drug Regulatory Authority has been brought to court.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ට පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ය.
+According to our correspondent, he was brought to the Maligakanda Magistrate's Court.
 
-ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+Former CEO of the National Drug Regulatory Authority, Dr. Vijith Gunasekera was arrested yesterday (08).
+
+The Criminal Investigation Department has given a statement for nearly 10 hours.
+
+He made a statement to the Criminal Investigation Department regarding the questionable Human Emiyankulin antibodies.
 
 ◼️
 
 [Data](articles/9bda210a.json)
+
+[Extended Data](ext_articles/9bda210a.ext.json)
 
 ---
 
@@ -2219,63 +2289,5 @@ Defence Secretary, General (Rtd) Kamal Gunaratne had emphasized that the operati
 [Data](articles/38f06890.json)
 
 [Extended Data](ext_articles/38f06890.ext.json)
-
----
-
-### Former NMRA CEO arrested
-
-*2024-05-08 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-NMRA-CEO-arrested/108-282188) · `en`
-
-The former Chief Executive Officer of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekera has been arrested.
-
-He was arrested by the Criminal Investigation Department after recording an almost 10 hour long statement with regard to the importation of substandard medicines to the country.
-
-Earlier, Dr. Vijith Gunasekera was removed from the post of CEO on a decision by the NMRA Board of Directors over the allegations on the import of substandard medicines to the country and allegedly shredding a series of confidential, sensitive NMRA official documents.
-
-◼️
-
-[Data](articles/6d092c7b.json)
-
-[Extended Data](ext_articles/6d092c7b.ext.json)
-
----
-
-### Former Major General and Sergeant arrested
-
-*2024-05-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196411) · `si`
-
-A former Army Major General and sergeant were arrested in Kurunegala, linked to a racket involving former army personnel in Russia and Ukraine.
-
-🟩
-
-A former Army Major General and former Army sergeant has been arrested by the CID.
-
-Police Media Spokesperson DIG'sary DIG's Court Attorney Nihal Talduuwa said they have been arrested in the Kurunegala area.
-
-They have been arrested in connection with the racket of former army personnel in Russia and Ukraine.
-
-◼️
-
-[Data](articles/6da7d61c.json)
-
-[Extended Data](ext_articles/6da7d61c.ext.json)
-
----
-
-### Ex-NMRA chief arrested by CID, grilled for over 10 hours
-
-*2024-05-08 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99090/ex-nmra-chief-arrested-by-cid-grilled-for-over-10-hours) · `en`
-
-Former CEO of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekara, has been arrested by the Criminal Investigation Department (CID) on Wednesday (08).
-
-He has been questioned for more than 10 hours following the arrest.
-
-Dr. Gunasekara was apprehended by the CID in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-◼️
-
-[Data](articles/b8a76f5c.json)
-
-[Extended Data](ext_articles/b8a76f5c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 22:07:11**
+As of **2024-05-09 22:18:34**
 
 ## Newspaper Stats
 
-*Scraped **23,025** Articles*
+*Scraped **23,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,958
 tamilmirrorlk | 2,693
-adaderanalk | 2,700
+adaderanalk | 2,701
 virakesarilk | 3,424
-dailymirrorlk | 3,617
+dailymirrorlk | 3,620
 adaderanasinhalalk | 3,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,025 (100.0%) of 23,025 articles have been extended.
+23,025 (100.0%) of 23,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Two floating solar pilot projects implemented on Chandrika Wewa, Kiriibban Wewa
+
+*2024-05-09 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-floating-solar-pilot-projects-implemented-on-Chandrika-Wewa-Kiriibban-Wewa/108-282268) · `en`
+
+Colombo, May 9 (Daily Mirror) - Two floating solar pilot projects were implemented on Chandrika Wewa in Embilipitiya and Kiriibban Wewa in Sewanagala and will be completed by July 2024, the Power and Energy Ministry said.
+
+They said the project was implemented with the partnership of the Sustainable Energy Authority and with financial and technical assistance of the Republic of Korea.
+
+The two projects of 01 MW each on Chandrika Wewa in Embilipitiya and Kiriibban Wewa in Sewanagala were constructed with a financial grant from the Korea Institute for Advancement of Technology of the Korean Ministry of Trade, Industry and Energy and implemented with the technical assistance and construction by Yooshing Engineering (Pvt) Ltd., Bosung Powertec Co. Ltd., and Scotra Company Ltd.
+
+◼️
+
+[Data](articles/3b6540d1.json)
+
+---
+
+### Customs find Rs.40Mn worth gold gel from passenger’s underwear
+
+*2024-05-09 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-find-Rs-40Mn-worth-gold-gel-from-passengers-underwear/108-282267) · `en`
+
+Colombo, May 9 (Daily Mirror) - Sri Lankan passenger who tried to smuggle in gold gel worth of Rs.40 million, which had been concealed in his undergarment was nabbed by the Customs at the Bandaranaike International Airport (BIA) this morning.
+
+Officials of the Customs Narcotic Control Unit stationed at the BIA Arrival Terminal searched a passenger on suspicion and found the contraband hidden in his underwear and shoes.
+
+Customs Spokesperson Additional Director General Seevali Arukgoda said three packages contained 1, 975 grams (1.9Kg).
+
+The suspect, who is aged 25 years has come from Dubai and had arrived in the country on Emirates flight EK 650. He was detained for further inquiries.
+
+◼️
+
+[Data](articles/1252fca5.json)
+
+---
+
+### Plans approved for £61.8m redevelopment of Lord’s
+
+*2024-05-09 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-approved-for-61-8m-redevelopment-of-Lords/108-282265) · `en`
+
+(BBC) - Plans for a £61.8m redevelopment of two stands at Lord's have been approved.
+
+The work, voted through by Marylebone Cricket Club (MCC) members last week, will increase the ground's capacity by 1,100 seats.
+
+The existing Allen Stand will be demolished and rebuilt with an extra tier added.
+
+Meanwhile, a fourth level will also be built on to the Tavern Stand.
+
+Construction is due to begin at the end of the current season in September and be completed by 2027.
+
+The redevelopment will provide improved catering, hospitality and accessibility, the MCC says.
+
+A £53m project to redevelop the Compton and Edrich stands at Lord's was completed in 2021 to take capacity to 31,000.
+
+Earlier this year, Middlesex County Cricket Club - a tenant at the ground which is owned by the MCC - said they were considering leaving Lord's.
+
+◼️
+
+[Data](articles/af2c326c.json)
+
+---
+
+### Bill to amend Telecom Regulatory Act to be presented in Parliament tomorrow
+
+*2024-05-09 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99117/bill-to-amend-telecom-regulatory-act-to-be-presented-in-parliament-tomorrow) · `en`
+
+State Minister for Technology, Kanaka Herath, announced that the amended bill to amend the Telecommunications Regulatory Act after 28 years will be presented to the Parliament tomorrow (10). Additionally, he highlighted plans for the drafting of the National Cyber Security Act in May.
+
+The State Minister made these remarks during a press conference conducted today (09) at the Presidential Media Centre (PMC) under the theme “Collective Path to a Stable Country.”
+
+The cabinet approval has endorsed the National Digital Strategy 2030, featuring six key points. Among these, the initial focus is on infrastructure, connectivity, access, skills, literacy, industries, jobs, and establishing a connected digital government. Moreover, emphasis is placed on cyber security, data security, privacy, digital financial services, and the digitization of small and medium-sized businesses.
+
+...
+
+[Data](articles/751a9ddd.json)
+
+---
 
 ### A Sri Lankan who has gone to war in Russian - Ukrainian war
 
@@ -2209,91 +2285,5 @@ Cannot continue to manage state institutions that lose. We will provide relief t
 [Data](articles/791f836b.json)
 
 [Extended Data](ext_articles/791f836b.ext.json)
-
----
-
-### Minister warns of foreign employment scams pretending to offer lucrative positions in Russian army
-
-*2024-05-09 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99104/minister-warns-of-foreign-employment-scams-pretending-to-offer-lucrative-positions-in-russian-army) · `en`
-
-Minister of Labor and Foreign Employment Manusha Nanayakkara has urged the general public not to seek military employment opportunities in foreign countries.
-
-Issuing a statement in this regard, the Minister highlighted the presence of a human trafficking network that is currently facilitating the recruitment of Sri Lankan youths for military service in Russia.
-
-Under the guise of offering lucrative positions within the Russian army, retired military personnel are being enlisted by these traffickers. However, instead of legitimate military service, these individuals are being deployed to serve in the Russian mercenary group known as Wagner, the minister revealed.
-
-The statement further disclosed that these recruits are being assigned to frontline security duties and that they have gone unpaid for several months.
-
-...
-
-[Data](articles/c827edc5.json)
-
-[Extended Data](ext_articles/c827edc5.ext.json)
-
----
-
-### May not be able to retire
-
-*2024-05-09 12:45:47* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගැනිම-වෙන්නත්-පුළුවන්-නොවෙන්නත්-පුළුවන්/9-409520) · `si`
-
-The Sri Lankan women's cricket team leader aims to qualify for the Twenty20 World Cup in Dubai. She praised the team's performance, emphasizing the importance of their unity and effort.
-
-🟩
-
-The Sri Lankan women's cricket team leader is the goal of Sri Lanka women's cricket team and the goal of Sri Lanka women's cricket team is the goal of the cricket team first.
-
-She was speaking to the championship of the tournament to qualify for the Twenty20 World Cup held in Dubai.
-
-She said all of the team was well played to win the tournament.
-
-Chamari replied to a question of the labor of the launches
-
-◼️
-
-[Data](articles/758f5724.json)
-
-[Extended Data](ext_articles/758f5724.ext.json)
-
----
-
-### Diana is prohibited to leave the country
-
-*2024-05-09 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196431) · `si`
-
-Diana is banned from leaving the country. The Colombo Magistrate's Court issued this order on 09/09, following a request by her lawyers. The order is to be referred to the Immigration and Emigration Controller and the National Intelligence Director.
-
-🟩
-
-The Colombo Magistrate's Court today (09) issued a banned order today (09).
-
-Colombo Chief Magistrate Thilina Gamage issued the order after considering a request made by the lawyers of the aggrieved party.
-
-The order was ordered to be referred to the Controller of Immigration and Emigration to the National Intelligence Director.
-
-◼️
-
-[Data](articles/54079602.json)
-
-[Extended Data](ext_articles/54079602.ext.json)
-
----
-
-### Health trade unions launch 4-hour strike in hospitals at provincial level
-
-*2024-05-09 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99103/health-trade-unions-launch-4-hour-strike-in-hospitals-at-provincial-level) · `en`
-
-The trade unions affiliated with the Health Trade Union Alliance have decided to launch a 4-hour token strike in the hospitals at the provincial level from today (09) due to unmet demands.
-
-The Co-convener of the Health Trade Union Alliance Chanaka Dharmawickrema said that they will go on strike at all government hospitals in the North Central Province for a duration of 4 hours from 8:00 a.m. to 12:00 p.m. today.
-
-Meanwhile, the strike is also in place at several other hospitals in the Central, Sabaragamuwa, North Western, Southern, Uva and Western provinces.
-
-However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Madiwatta, stated that nurses will not participate in the strike action today.
-
-◼️
-
-[Data](articles/695fe9c8.json)
-
-[Extended Data](ext_articles/695fe9c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 10:05:29**
+As of **2024-05-09 10:18:09**
 
 ## Newspaper Stats
 
-*Scraped **22,877** Articles*
+*Scraped **22,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,677
 adaderanalk | 2,681
 virakesarilk | 3,399
 dailymirrorlk | 3,594
-adaderanasinhalalk | 3,660
+adaderanasinhalalk | 3,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,866 (100.0%) of 22,877 articles have been extended.
+22,877 (100.0%) of 22,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### මුම්බායි ඉන්දියන්ස් විසිවෙයි
+
+*2024-05-09 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196425) · `si`
+
+ලක්නව් සුපර් ජයන්ට්ස් සහ සන් රයිසර්ස් හයිද්‍රාබාද් අතර ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියේ මූලික වටයේ තවත් තරගයක් ඊයේ (08) පැවැත්වුණි.
+
+නමුත් මෙම තරගයේ ප්‍රතිඵලයත් සමගම 2024 IPL තරගාවලියේ playoff වටයට පිවිසීමේ අවස්ථාව අහිමිවූ පළමු කණ්ඩායම බවට මුම්බායි ඉන්දියන්ස් කණ්ඩායම පත්වුණි.
+
+ඔවුන් මේ දක්වා තරග 12කට ක්‍රීඩා කර ඇති අතර ඉන් ජයගෙන ඇත්තේ තරග 4ක් පමණි.
+
+◼️
+
+[Data](articles/ee7fcca1.json)
+
+---
 
 ### President Ranil delivers special statement in Parliament
 
@@ -43,6 +59,8 @@ Wickremesinghe is currently addressing the Parliament on the present economic si
 ◼️
 
 [Data](articles/dfcd6e9a.json)
+
+[Extended Data](ext_articles/dfcd6e9a.ext.json)
 
 ---
 
@@ -58,61 +76,81 @@ He told Parliament that the Parliamentary seat fell vacant from yesterday (8 May
 
 [Data](articles/fa9e8b3e.json)
 
+[Extended Data](ext_articles/fa9e8b3e.ext.json)
+
 ---
 
-### வெளிநாடுகளில் வேலைக்கு செல்வோருக்கு முக்கிய அறிவிப்பு
+### Key notice to those who go to work abroad
 
 *2024-05-09 09:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-வேலைக்கு-செல்வோருக்கு-முக்கிய-அறிவிப்பு/175-337008) · `ta`
 
-வெளிநாடுகளில் இராணுவ வேலைகளுக்கு விண்ணப்பிக்க வேண்டாம் என வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார மக்களிடம் கோரிக்கை விடுத்துள்ளார்.
+Foreign Employment Minister Manusha Nanayakkara warns against applying for military work abroad, citing a human trafficking committee's fraud in sending Sri Lankan youth to Russia for military service. Retired soldiers deployed in the Russian army face unpaid salaries. The Minister emphasizes that no one will be sent abroad without government permission, advising against jobs overseas on tourist visas.
 
-மனித கடத்தல் குழுவொன்று தற்போது இலங்கை இளைஞர்களை ரஷ்யாவுக்கு இராணுவ சேவைக்கு அனுப்பும் மோசடியில் ஈடுபட்டு வருவதாக அமைச்சர் எச்சரித்துள்ளார்.
+🟩
 
-ரஷ்ய இராணுவத்தில் அதிக சம்பளத்தில் வேலை தருவதாக கூறி ஓய்வு பெற்ற இராணுவ வீரர்கள் பணிக்கு அமர்த்தப்பட்டுள்ளனர்.
+Foreign Employment Minister Manusha Nanayakkara has asked the people not to apply for military work abroad.
 
-இவர்கள் முன் வரிசைப் பாதுகாப்புப் பணிகளுக்காக ஈடுபடுத்தப்பட்டுள்ளதாகவும், பல மாதங்களாக அவர்களுக்கு உரிய சம்பளம் கூட வழங்கப்படவில்லை எனவும் இது தொடர்பான அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+The Minister has warned that a human trafficking committee is currently involved in fraud at sending Sri Lankan youth to military service to Russia.
 
-இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் மற்றும் இலங்கை அரசாங்கத்தின் அனுமதியின்றி எந்தவொரு நபரும் இராணுவ சேவைக்காக வெளிநாடுகளுக்கு அனுப்பப்பட மாட்டார் என அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+Retired soldiers have been deployed to work in the Russian army for a high salary.
 
-எனவே சுற்றுலா வீசாவில் வெளிநாடுகளுக்கு வேலைக்காக எக்காரணம் கொண்டும் செல்ல வேண்டாம் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் மக்களிடம் மேலும் கோரிக்கை விடுக்கிறது.
+The announcement stated that they have been involved in pre -sequences and have not been paid for several months.
+
+Minister Manusha Nanayakkara said that no person would be sent abroad without the permission of the Sri Lanka Bureau of Foreign Employment and the Government of Sri Lanka.
+
+Therefore, the Sri Lanka Foreign Employment Bureau has further requested the people not to go for a job overseas on a tourist visa.
 
 ◼️
 
 [Data](articles/05de96ef.json)
 
+[Extended Data](ext_articles/05de96ef.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු ආ ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+### Special statement from Parliament
 
 *2024-05-09 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196424) · `si`
 
-"අපායට වැටුණු රට ගොඩගන්න පුළුවන්" යන විශ්වාසය තමාට තිබූ නිසාවෙන් රට භාරගත් බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+The President, believing he could navigate the "country of hell," took control, implementing a Credit Creating Program in three divisions, completing the task in 2023. He restructured creditors from foreign agreements, including Paris and Chinese societies, emphasizing the importance of signing a Memorandum of Understanding. The Government of Sri Lanka is in discussions with official creditors, with a focus on restructuring commercial loans.
 
-ණය ප්‍රතිකරණ වැඩපිළිවෙල මුලික අංශ තුනක් හරහා සිදුකළ බව පැවසු ජනාධිපතිවරයා පළමුවෙන්ම දේශීය ණය ප්‍රතිව්‍යුහගතකරණයට යොමු වීම බව ද කියා සිටියේය.
+🟩
 
-එම කාර්ය 2023 වසරේ දී අවසන් කළ බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+The President also took over the country because he had the belief that he could go to the country of hell, "he said.
 
-දෙවැන්න වුයේ විදේස් රටවල් සමග ඇති කරගත් ගිවිසුම් ම﻿ඟින් නිල වශයෙන් ලබාගන්නා ලද ණය ප්‍රතිව්‍යුහගතකරණය කිරීම බව පැවසු ජනාධිපතිවරයා එම රටවල් සමග සාකච්ඡා කර මේ පිළිබඳ ප්‍රතිපත්තිමය එකඟත්වයකට 2023 නොවැම්බර් මාසය වනවිට පැමිණි බවත් ඒ සඳහා පැරිස් සමාජය මෙන්ම එයට අයිති නැති චීනය වැනි රටවල් සමග ද එකඟත්වයට පැමිණ ඇතැයි ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+The President said that the Credit Creating Program was carried out through three basic divisions.
 
-මේ පිළිබ﻿ඳව දැනට සිදුකළ යුතුව ඇත්තේ ණයහිමි රටවල් සමග අවබෝධතා ගිවිසුමක් අත්සන් තැබීම පමණක් බව ද ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+The President also said that the task was completed in 2023.
 
-ඒ සඳහා වූ කෙටුම්පත් පිළිබඳ ශ්‍රී ලංකා රජය නිල ණයහිමියන්ගේ කමිටුව සමග සාකච්ඡා කරමින් සිටින බව ද රනිල් වික්‍රමසිංහ මහතා﻿ පැවසීය.
+The second was that the president had to restructure the creditors who had been officially obtained from the agreement with the foreign countries and agree with the countries such as Paris society as well as the Chinese society as well as countries that did not belong to itThe President has come.
 
-එමෙන්ම වාණිජ ණය ප්‍රතිව්‍යුහගතකරණය තෙවන අංශය බවත් ජනාධිපතියා කියා සිටියේය.
+The President emphasized that only this should be done with the signing of a Memorandum of Understanding.
+
+Ranil Wickremesinghe said that the Government of Sri Lanka is discussing with the committee of the official creditors.
+
+The President also said that the restructuring of commercial loan was the third sector.
 
 ◼️
 
 [Data](articles/e0790f15.json)
 
+[Extended Data](ext_articles/e0790f15.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-05-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196423) · `si`
+
+The Parliamentary Council has convened, marking the start of its proceedings.
+
+🟩
 
 ◼️
 
 [Data](articles/8b309c52.json)
+
+[Extended Data](ext_articles/8b309c52.ext.json)
 
 ---
 
@@ -136,43 +174,61 @@ Browns Investments has achieved an unprecedented milestone, solidifying its posi
 
 ---
 
-### රාජ්‍ය සේවකයින්ගේ නිවාඩු අනුමත කිරීම ගැන නව චක්‍රලේඛයක්
+### New circular on approval of public servants
 
 *2024-05-09 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196422) · `si`
 
-කොවිඩ් -19 වසංගත සමය තුළ විදේශගතව සිට පැවති තත්ත්වය හමුවේ නැවත සේවයට වාර්තා කිරීමට අපොහොසත් වූ රාජ්‍ය නිලධාරීන්ගේ නිවාඩු අනුමත කිරීම සම්බන්ධයෙන් නව චක්‍රලේඛයක් නිකුත් කර තිබේ.
+A new circular allows government officials in the Covid-19 affected area to take leave. Issued by the Ministry of Provincial Councils and Local Government Affairs, it guides officials on leave procedures during the pandemic. The circular, based on the Establishments Code, applies to public officers who couldn't report due to the pandemic. The Ministry of Public Administration will announce to officials who fail to report without leave.
 
-රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම්වරයා විසින් අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+🟩
 
-කොවිඩ් වසංගත තත්ත්වය හේතුවෙන් විදෙස්ගතව සිට නියමිත දිනයට නැවත සේවයට වාර්තා කිරීමට අපොහොසත්ව සිටි රාජ්‍ය නිලධාරීන්ගේ නිවාඩු සම්බන්ධයෙන් ක්‍රියාකළ යුතු ආකාරය මෙම චක්‍රලේඛය මඟින් සියලු අමාත්‍යාංශ ලේකම්වරුන් පළාත් ප්‍රධාන ලේකම්වරුන් සහ දෙපාර්තමේන්තු ප්‍රධානීන් දැනුවත් කර තිබේ.
+A new circular has been issued to approve the leave of government officials who have failed to report back in the Cowid-12 Pest area.
 
-ආයතන සංග්‍රහයට අනුව විදේශ නිවාඩු ලබා කොවිඩ් වසංගත තත්ත්වය හේතුවෙන් නියමිත දින හෝ ඊට පෙර සේවයට වාර්තා කිරීමට නොහැකි වු රාජ්‍ය නිලධාරීන්ට වැටුප් රහිත සහ වැටුප් සහිත නිවාඩු අනුමත කිරීම සඳහා අනුගමනය කළ යුතු විධිවිධාන ඇතුළත් කර අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+The circular has been issued by the Secretary to the Ministry of Provincial Councils and Local Government Affairs.
 
-...
+The secretaries of all Ministers have informed the Secretaries of the Ministry and the Heads of the Provincial Counsel and Departments, how to take action to be taken abroad to the due date, which is abiding in the covid epidemic.
+
+According to the Establishments Code, the Public Officers who have not been able to report the presence or paid days due to the Covenan Epidemic area have been issued by the relevant circular.
+
+The Secretary of the Ministry of Public Administration has also stated to issue announcements to all government officials who are not reported to work without the formal leave.
+
+◼️
 
 [Data](articles/39c6ef15.json)
 
+[Extended Data](ext_articles/39c6ef15.ext.json)
+
 ---
 
-### විදෙස් රටවල යුද්ධයට යන පිරිසට විශේෂ නිවේදනයක්
+### A special announcement for war in foreign countries
 
 *2024-05-09 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196421) · `si`
 
-විදෙස් රටවල හමුදාවේ රැකියා සඳහා යොමුනොවන ලෙස විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+The Minister of Foreign Employment warns against referring to Sri Lankan military operations abroad, highlighting a racket involving Sri Lankan youths in Russia. Retired army soldiers are recruited for high-paying jobs in the Russian army, deployed for future defense. The Minister assures that no one will be sent abroad without government approval. Two retired military officers are arrested in connection with this racket, with investigations ongoing.
 
-නිවේදනයක් නිකුත් කරමින් අමාත්‍යවරයා පෙන්වාදෙන්නේ, මිනිස් ජාවාරම්කරුවන් පිරිසක් එක්ව රුසියාවේ හමුදා සේවය සඳහා ශ්‍රී ලාංකික තරුණයින් යොමු කරවීමේ ජාවාරමක් මේ වන විට ක්‍රියාත්මක බවය.
+🟩
 
-රුසියානු හමුදාවේ ඉහළ වැටුප් සහිත රැකියා ලබාදෙන බව පවසා විශ්‍රාමික හමුදා සාමාජිකයින් මේ සඳහා බඳවා ගෙන ඇති අතර, ඔවුන් වැන්ගර් කුලි හමුදාවේ සේවය සඳහා යොදවාගෙන ඇති බව සඳහන්ය.
+Minister of Foreign Employment has requested the public not to refer to the army of operations in foreign countries.
 
-එහිදි ඉදිරි ආරක්ෂක වළල්ලේ රාජකාරි සඳහා ඔවුන් යොදවා ඇති බව ද මාස ගණනකින් ඔවුන්ට හිමි වැටුප් පවා ලබා දී නොමැති බව ද අදාළ නිවේදනයේ සඳහන්ය.
+In a statement, the Minister pointed out that a racket of Sri Lankan youths in Russia together with the Sri Lankan youth work in Russia.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ශ්‍රී ලංකා රජයේ අනුමැතියකින් තොරව කිසිදු පුද්ගලයෙකු යුද සේවය සඳහා විදෙස් රටකට යොමුනොකරන බව මනූෂ නානායක්කාර අමාත්‍යවරයා පවසයි.
+Retired army soldiers have been recruited, saying that the Russian army is given high paid jobs.
 
-එබැවින් කිසිදු අවස්ථාවක සංචාරක වීසා මඟින් රැකියා සඳහා විදේශ ගත නොවන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් වැඩිදුරටත් ඉල්ලීමක් සිදුකරයි.
+The announcement stated that they have been deployed to duty for the future defense ring and even in months.
+
+Minister of Manusha Nanayakkara says that no person will be sent to a foreign country without the approval of the Sri Lanka Bureau and the Government of Sri Lanka.
+
+Therefore, the Sri Lanka Bureau of Foreign Employment further requests the Sri Lanka Bureau of Sri Lanka Library, not to go abroad.
+
+Meanwhile, two retired military officers have been arrested in connection with the racket of former army personnel in Russia and Ukraine.
+
+Police said they have been arrested by the CID.
 
 ...
 
 [Data](articles/f8bb59e2.json)
+
+[Extended Data](ext_articles/f8bb59e2.ext.json)
 
 ---
 
@@ -214,6 +270,8 @@ Though Japan has agreed to resume all the project stopped due to Sri Lanka’s u
 
 [Data](articles/8ec1110d.json)
 
+[Extended Data](ext_articles/8ec1110d.ext.json)
+
 ---
 
 ### Thunderstorm in many provinces
@@ -238,23 +296,29 @@ The Department of Meteorology has requested the general public to take necessary
 
 ---
 
-### විදුලිබිල අඩු කරන යෝජනාව CEBය තවමත් උපයෝගීතා කොමිසමට දීලා නෑ
+### CEB has not given the proposal to reduce the electricity tariffs to the utility commission
 
 *2024-05-09 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196420) · `si`
 
-විදුලිබිල අඩු කිරීමට අදාළ යෝජනා ලංකා විදුලිබල මණ්ඩලය විසින් මෙතෙක් මහජන උපයෝගීතා කොමිසම වෙත ලබා දී නොමැති බව එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පවසයි.
+CEB missed the May 1 deadline to submit proposals for reducing electricity tariffs to the Public Utilities Commission of Sri Lanka. The Commission extended the deadline to May 10 upon CEB's request. Prof. Manjula Fernando suggests that after receiving the proposals, a firm reduction in tariffs could be announced in July.
 
-අදාළ යෝජනා මැයි මස පළමු වැනිදා කොමිසම වෙත ලබාදීමට නියමිතව තිබිණි.
+🟩
 
-එහෙත් විදුලිබල මණ්ඩලය සිදුකළ ඉල්ලීමක් මත එම කාලය හෙට (10) දින දක්වා දීර්ඝ කිරීමට මහජන උපයෝගීතා කොමිසම පියවර ගෙන තිබේ.
+Professor Manjula Fernando says that the proposals to reduce electricity tariffs have not been provided to the Public Utilities Commission of Ceylon Electricity Board.
 
-ඒ අනුව හෙට දිනට පෙර එම යෝජනා ලබාදෙන ලෙස මහජන උපයෝගීතා කොමිසම ලංකා විදුලිබල මණ්ඩලය වෙත දැනුම් දී තිබේ.
+The proposals were to be given to the Commission on the first on May 1.
 
-අදාළ යෝජනා ලැබීමෙන් පසු විදුලිබිල අඩු කිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ කෙරෙන අතර විදුලිබිල අඩු කිරීමේ ප්‍රතිශතය ජූලි මාසයේ දී ප්‍රකාශ කළ හැකි බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+However, the Public Utilities Commission has taken steps to extend the time to tomorrow (10) on a request made by the CEB.
+
+Accordingly, the Public Utilities Commission has informed the Ceylon Electricity Board to provide the proposals before tomorrow.
+
+Prof. Manjula Fernando said that after receipt of the electricity tariffs, the firm reduction of electricity tariffs could be stated in July.
 
 ◼️
 
 [Data](articles/caff788f.json)
+
+[Extended Data](ext_articles/caff788f.ext.json)
 
 ---
 
@@ -507,6 +571,8 @@ The kingpin behind the recruitment operation appeared to be an Indian national n
 ...
 
 [Data](articles/b967ddbd.json)
+
+[Extended Data](ext_articles/b967ddbd.ext.json)
 
 ---
 
@@ -2030,21 +2096,27 @@ Ali Sabri pointed out that the government has taken measures to obtain the suppo
 
 ---
 
-### සෞඛ්‍ය කාර්ය මණ්ඩල පළාත් මට්ටමින් වර්ජන අරඹයි
+### Health staff launches strikes at provincial level
 
 *2024-05-08 18:56:47* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-කාර්ය-මණ්ඩල-පළාත්-මට්ටමින්-වර්ජන-අරඹයි/11-409509) · `si`
 
-සෞඛ්‍ය කාර්යමණ්ඩලවලට ආර්ථික යුක්තිය ඉටු කිරීම සඳහා පොරොන්දු වූ කටයුතු ඉටුකිරීමට මෙතෙක් කටයුතු නොකිරීම නිසා එයට එරෙහිව අද (09දා) සිට පළාත් මූලික කර ගනිමින් වැඩවර්ජන ආරම්භ කළ බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+Health staff in the North Central Province will strike from 8 am to 4 pm, affecting hospital services. The Health Trade Union Alliance demands economic justice, citing delayed salary payments. Strikes are also planned for the North Western and Sabaragamuwa provinces on the 15th and 16th of this month. The Ministry of Health acknowledges the issue but hasn't fulfilled the promise of economic justice.
 
-මේ අනුව අද දිනය තුළදී උතුරු මැද පළාතේ රෝහල්වල හෙද, අතුරු වෛද්‍ය සේවා, පරිපූරක වෛද්‍ය සේවා හා අනෙකුත් සෞඛ්‍ය කාර්යමණ්ඩල උදේ 8.00 සිට සහවල් 12.00 දක්වා පැය 04ක කාලයක් සේවයෙන් ඉවත්වන බවද පෙන්වා දෙයි. මේ ආකාරයට මූලික අදියරේදී සෑම පළාතක් තුළම තිබෙන රෝහල්වල පැය 04ක වැඩවර්ජන ක්‍රියාමාර්ග සිදුකරන බවද පෙන්වා දෙයි.
+🟩
 
-මේ මස 13වන දින මධ්‍යම පළාතේ රෝහල්වලත්,14 දින සබරගමුව පළාතෙත්, 15 දින වයඹ පළාතෙත්,16 දින දකුණු පළාතෙත්, 20වන දින ඌව පළාතෙත් සහ 21 දින බස්නාහිර පළාතත් මූලික කර ගනිමින් වැඩවර්ජන ක්‍රියාමාර්ග සිදුවන බවද සඳහන් කරයි.
+The Health Trade Union Alliance states that attempting to carry out the projected work to be carried out to ensure that the health staff has not taken measures to perform economic justice.
 
-ආර්ථික යුක්තිය ඉටු කිරීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය සකස් කරනලද තාක්ෂණික වාර්තාව රජය ප්‍රතිපත්තිමය වශයෙන් පිළිගන්නා ලද නමුත්, එකඟ වූ පරිදි මෙතෙක් පොරොන්දු ඉටුවී නොමැති නිසා මෙම වෘත්තීය ක්‍රියාමාර්ග සිදුකරන බවද පෙන්වා දෙයි.
+Accordingly, the hospitals of the North Central Province will be removed from 8 am to 4 pm from 8 am to 12.00 in the North Central Province.. In this way, there will be four hours of strike activities in hospitals in every province in the preliminary phase.
+
+At the North Western and Sabaragamuwa, Sabaragamuwa and Sabaragamuwa to the 15th of this month, strike measures are being implemented in the North Western and 16th on the 15th of this month.
+
+The Ministry of Health has prepared the Ministry of Health to serve the economic justice, but it is said that the government is recognized as a policy in principle, but this trade measures are being carried out as the promise has not yet been promised.
 
 ...
 
 [Data](articles/a8e13e37.json)
+
+[Extended Data](ext_articles/a8e13e37.ext.json)
 
 ---
 
@@ -2159,25 +2231,5 @@ Speaking at the debate on the Gazette, which was published in the Gazette No. 23
 [Data](articles/f7d3c41f.json)
 
 [Extended Data](ext_articles/f7d3c41f.ext.json)
-
----
-
-### 2100 New GS Appointment
-
-*2024-05-08 18:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2100-புதிய-GS-நியமனம்/175-336976) · `ta`
-
-2100 new Grama Sevaka appointments were held at Alimaikkal, led by President Ranil Wickremesinghe, based on the December 2, 2023, Grama Niladhari Examination results.
-
-🟩
-
-Grama Sevaka (GS) for the 2100 new Grama Niladhari Grama Niladhari (GS) appointment letters were held at Alimaikkal, headed by President Ranil Wickremesinghe.
-
-According to the results of the Grama Niladhari Examination conducted by the Department of Examinations on December 2, 2023, the Grama Niladhari has been appointed to 2100 applicants who received the highest points at the Divisional Secretariat level.
-
-◼️
-
-[Data](articles/7b470d82.json)
-
-[Extended Data](ext_articles/7b470d82.ext.json)
 
 ---

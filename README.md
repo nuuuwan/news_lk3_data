@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 08:08:12**
+As of **2024-05-09 08:18:13**
 
 ## Newspaper Stats
 
-*Scraped **22,850** Articles*
+*Scraped **22,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
 tamilmirrorlk | 2,672
-adaderanalk | 2,678
+adaderanalk | 2,680
 virakesarilk | 3,398
 dailymirrorlk | 3,589
-adaderanasinhalalk | 3,652
+adaderanasinhalalk | 3,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,847 (100.0%) of 22,850 articles have been extended.
+22,850 (100.0%) of 22,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### සෞඛ්‍ය වෘත්තීය සමිති අද සිට පළාත් මට්ටමින් වැඩ වර්ජනයක
+
+*2024-05-09 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196419) · `si`
+
+සිය ඉල්ලීම් සදහා ලබාදුන් එකඟතාවන් ඉටු නොකිරීම හේතුවෙන් අද (09) සිට පළාත් මට්ටමින් රෝහල් තුළ වෘත්තීය සමිති ක්‍රියාමාර්ග ආරම්භ කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+
+ඒ අනුව අද පෙරවරු 8.00 සිට දහවල් 12.00 දක්වා පැය 4ක කාලයක් උතුරු මැද පළාතේ සියලු රෝහල්වල වර්ජන ක්‍රියාමාර්ගයක් සිදුකරන බව එම සන්ධානයේ සම කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+
+කෙසේවෙතත් අද දින පැවැත්වෙන වර්ජනය සඳහා හෙද හෙදියන්ගේ සහභාගීත්වයක් සිදුනොවන බව සමස්ත ලංකා හෙද සංගමයේ ප්‍රධාන ලේකම් එච්.එම්.එස්.බි.මැදිවත්ත මහතා සඳහන් කළේය.
+
+21 - බස්නාහිර පළාත යනාදී වශයෙන් මෙම වර්ජන ක්‍රියාමාර්ගය ක්‍රියාත්මක වනු ඇත.
+
+◼️
+
+[Data](articles/32a4468e.json)
+
+---
+
+### Youth arrested with Kush cannabis worth over Rs. 20m at BIA
+
+*2024-05-09 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99096/youth-arrested-with-kush-cannabis-worth-over-rs-20m-at-bia) · `en`
+
+A Sri Lankan passenger arriving from Thailand has been arrested at the Bandaranaike International Airport (BIA) in Katunayake last night for the possession of more than 05 kg of Kush cannabis.
+
+The suspect, a resident of Homagama, was arrested by Airport Narcotics Division for possessing 05 kg and 278 g of Kush cannabis.
+
+◼️
+
+[Data](articles/4a77642f.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-05-09 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99095/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
+
+Fairly heavy showers above 75 mm are likely at some places in North-central, Central, Sabaragamuwa, Eastern and Uva provinces and in Mullaitivu district.
+
+Showers will occur at several places in Western and Southern provinces during the morning too.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/93311134.json)
+
+---
+
+### කෝටි 2කට අධික කුෂ් මත්ද්‍රව්‍ය තොගයක් ගුවන්තොටේ දී මාට්ටු
+
+*2024-05-09 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196418) · `si`
+
+රුපියල් කෝටි 2කට අධික වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට උත්සාහ කළ පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+කටුනායක ගුවන්තොටුපොළ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+අත්අඩංගුවට ගත් සැකකරු තායිලන්තයේ බැංකොක් නුවර සිට මෙරටට පැමිණ ඇති අතර ඔහුගේ ගමන්මල්ලේ ඉතා සූක්ෂව අසුරා තිබු කිලෝග්‍රෑම් 5යි ග්‍රෑම් 278ක් බරැති කුෂ් මත්ද්‍රව්‍ය තොගයක් පොලීසිය විසින් සොයාගෙන තිබේ.
+
+මෙම සැකකරු හෝමාගම ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකු වන අතර පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරින් විසින් වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/7e3f2683.json)
+
+---
+
+### ඩයනාට ශ්‍රේෂ්ඨාධිකරණය දුන් නියෝගය අභියෝගයට ලක් කළ හැකි ද?
+
+*2024-05-09 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196417) · `si`
+
+රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් තීන්දුව පුර්ණ ශ්‍රේෂ්ඨාධිකරණ විනිශ්චය මණ්ඩලයක් මඟින් අභියෝගයට ලක්කළ හැකි බව කොළඹ විශ්වවිද්‍යාලයේ ශ්‍රීපාලි මණ්ඩපයේ මණ්ඩාධිපති මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා පවසයි.
+
+ඔහු පෙන්වාදෙන්නේ, ඩයනා ගමගේ මහත්මියට ශ්‍රේෂ්ඨාධිකරණයේ ත්‍රිපුද්ගල විනිශ්චය සභාවක් ලබාදුන් නඩු තීන්දුවක් බැවින් එය පූර්ණ විනිශ්චය මණ්ඩලයක් මඟින් අභියෝගයට ලක් කළ හැකි බවය.
+
+ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට ශ්‍රේෂ්ඨාධිකරණය ඊයේ (08) නියෝග කළේය.
+
+ඒ සමාජ ක්‍රියාකාරිකයෙකු වන ඕෂල හේරත් මහතා ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කරමිනි.
+
+අදාළ තීන්දුව සම්බන්ධයෙන් ඩයනා ගමගේ මහත්මියට තවත් එක් අවස්ථාවක් පවතින බව මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/c09dadf7.json)
+
+---
 
 ### No legal barrier for non Sri Lankans to register political parties; Mahinda Dehapriya
 
@@ -2125,115 +2213,5 @@ He says that if this crisis is a comfortable, it will be a big help to go to his
 [Data](articles/c9faf253.json)
 
 [Extended Data](ext_articles/c9faf253.ext.json)
-
----
-
-### Government MP given land at BIA to operate jet fuel storage facility: Dayasiri
-
-*2024-05-08 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-MP-given-land-at-BIA-to-operate-jet-fuel-storage-facility-Dayasiri/108-282177) · `en`
-
-Parliament, May 08 (Daily Mirror)- The government has provided a plot of land to a government MP at the Bandaranaike International Airport (BIA) to operate a jet fuel storage facility, Parliamentarian Dayasiri Jayasekara revealed today.
-
-He told Parliament that jet fuel supply is a main source of dollar earning to the country and questioned why the Ceylon Petroleum Corporation (CPC) was losing its monopoly.
-
-The MP said the CPC had provided permits to Cannel (Private) Limited and Fits Aviation also to supply jet fuel when a system is in place at the BIA at a cost of USD 51 million for the purpose of supplying fuel to aircraft.
-
-Leader of the House Susil Premajayantha urged him to reveal the name of the MP and then MP Jayasekara hinted that the said MP is a businessman and envisaged to be the SLPP Presidential candidate.
-
-...
-
-[Data](articles/49ac291f.json)
-
-[Extended Data](ext_articles/49ac291f.ext.json)
-
----
-
-### Manna finds a grenade from the house of Ramesh's house
-
-*2024-05-08 15:15:59* · [`adalk`](https://www.ada.lk/breaking_news/මන්නා-රමේෂ්-ගේ-නිවසින්-අත්බෝම්බයක්-සොයා-ගනී/11-409503) · `si`
-
-Manna discovers a grenade in Ramesh's house, linked to Dubai and organized crime. The grenade was buried, and a motorcycle was hidden behind the house. The suspect is detained for 72 hours under the Prevention of Terrorism Act for further investigation.
-
-🟩
-
-The Western Province North provincial cadres said that the grenade and the motorcycle was found in Dubai and an organized criminal.
-
-The hand grenade was found while buried inside the house, while the motorcycle was found hidged behind the house.
-
-The suspect is held for 72 hours under the Prevention of Terrorism Act and conduct further investigations.
-
-◼️
-
-[Data](articles/02458cf6.json)
-
-[Extended Data](ext_articles/02458cf6.ext.json)
-
----
-
-### X-Press Pearl disaster: Judge recuses himself from considering appeals
-
-*2024-05-08 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99082/x-press-pearl-disaster-judge-recuses-himself-from-considering-appeals) · `en`
-
-Supreme Court Judge S. Thurairaja has recused himself from the judge bench considering the appeals petitions filed by the directors of the local agent of the ‘X-Press Pearl’ ship which caught fire in the seas off Colombo Harbour and resulted in the country’s worst maritime disaster.
-
-The relevant petitions have been filed seeking the suspending of hearing of a criminal case before the Colombo High Court in this regard.
-
-Seven petitions filed by the directors of the Sea Consortium Lanka (Pvt) Ltd., the Sri Lankan agent of the ‘X-Press Pearl’ ship operator were taken up on Tuesday (07) before the three-member Supreme Court judge bench consisting of Justices S. Thurairaja, Janak De Silva and Priyantha Fernando, Ada Derana reported said.
-
-At the time, the chair of the three-member judge panel, Justice S. Thurairaja informed the court that he was recusing him from hearing of the trial due to personal reasons.
-
-...
-
-[Data](articles/e3109fc0.json)
-
-[Extended Data](ext_articles/e3109fc0.ext.json)
-
----
-
-### Censoor against Maithri and a group of people
-
-*2024-05-08 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196401) · `si`
-
-The Colombo District Court sentenced Ministers Mahinda Amarawewa, Lasantha Alagiyawanna, and MP Duminda Dissanayake. Former President Maithripala Sirisena filed a prosecution against a group of people, demanding their removal without investigation.
-
-🟩
-
-The Colombo District Court sentenced the agreement issued by the Ministers Mahinda Amarawewa, Lasantha Alagiyawanna and MP Duminda Dissanayake.
-
-When the complaint was taken up this matter (08), the respondent demanded the respondentation.
-
-According to the protests, the court ordered to be filed the case on the 15th.
-
-Former President Maithripala Sirisena has filed a prosecuted in the Colombo District Court demanding a group of people including his posts from their posts without any reasonable investigations.
-
-◼️
-
-[Data](articles/f7503e4c.json)
-
-[Extended Data](ext_articles/f7503e4c.ext.json)
-
----
-
-### Azrazenaka is withdrawing vaccines
-
-*2024-05-08 14:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தடுப்பூசிகளை-திரும்பப்-பெறுகிறது-அஸ்ராசெனக்கா/50-336970) · `ta`
-
-Astrazeneca withdraws COVID-19 vaccine globally due to commercial reasons, citing abundance of renewed vaccines. The vaccine, developed by the University of Astrazeneca and Oxford, was produced by the Serum Institute of India as Govishield. Astrazeneca has voluntarily withdrawn its marketing recognition in the EU, and similar vaccines will be withdrawn in other countries.
-
-🟩
-
-British pharmaceutical company Asrazenaka's vaccine admitting that the Vaccination Acceptance of Rare Side Effects a few days later, Astrazenkeka has begun to withdraw its COVID-19 vaccine globally.. The vaccine, developed by the University of Astrajenka and Oxford, was produced by the Serum Institute of India as Govishield.
-
-The Telegraph said the vaccine manufacturer had said that global withdrawal was launched for commercial reasons due to the abundance of renewed vaccines for COVID-19.
-
-The company has voluntarily withdrawn its marketing recognition in the EU, due to the fact that the vaccine is no longer prepared and can no longer be used.
-
-It is also worth noting that in other countries that use the vaccine, similar vaccines will be withdrawn.
-
-◼️
-
-[Data](articles/bfdbe369.json)
-
-[Extended Data](ext_articles/bfdbe369.ext.json)
 
 ---

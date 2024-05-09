@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 17:54:46**
+As of **2024-05-09 18:10:37**
 
 ## Newspaper Stats
 
-*Scraped **22,987** Articles*
+*Scraped **22,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,56 @@ adalk | 1,949
 tamilmirrorlk | 2,689
 adaderanalk | 2,696
 virakesarilk | 3,418
-dailymirrorlk | 3,610
+dailymirrorlk | 3,611
 adaderanasinhalalk | 3,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,982 (100.0%) of 22,987 articles have been extended.
+22,987 (100.0%) of 22,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### මධ්‍යම පරිසර අධිකාරිය නීතිවිරෝධී ලන්ච් ෂීට් ගබඩාවක් වටලයි
+### Two years since ’Aragalaya’, no compensation for buses destroyed: Gemunu
+
+*2024-05-09 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-years-since-Aragalaya-no-compensation-for-buses-destroyed-Gemunu/108-282256) · `en`
+
+Colombo, May 9 (Daily Mirror) - Two years have passed, but no compensation has been received from the government for the bus owners whose buses were destroyed during the Aragalaya period on May 9, 2022, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said.
+
+Addressing the media, he said 50 buses were completely destroyed and another 50 were partially destroyed during the Aragalaya, and as a bus owners' association, they have requested the government for assistance several times.
+
+"Several bus owners had repaired their buses with the help of the insurance companies, but at least 30 bus owners who do not have the strength to repair their buses are still waiting. At least 20 buses have been condemned," he said.
+
+...
+
+[Data](articles/f8e85182.json)
+
+---
+
+### Central Environmental Authority Lunish Sheets raided
 
 *2024-05-09 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196445) · `si`
 
-කැස්බෑව සහ බෙල්ලන්විල ප්‍රදේශයේ සිදුකළ වැටලීමකින් නීතිවිරෝධී පොලිතීන් “ලන්ච් ෂීට්” තොගයක් අත්අඩංගුවට ගෙන තිබේ.
+In a midnight raid, the Central Environmental Authority, Environmental Police Unit, and Consumer Affairs Authority arrested an illegal polythene manufacturer in Kesbewa and Bellanwila. Legal action was taken against the factory and lorry owner under the National Environmental Act.
 
-මධ්‍යම පරිසර අධිකාරිය, පරිසර පොලිස් ඒකකය සහ පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සමග ඒකාබද්ධව ඊයේ (08) මධ්‍යම රාත්‍රියේ මෙම වැටලීම සිදුකර ඇත.
+🟩
 
-මෙහිදී කිලෝග්‍රෑම් 1,625ක පමණ නීති විරෝධී “පොලිතීන් ඇතුළු ලන්ච් ෂීට්” තොගයක් සොයාගෙන තිබේ.
+An illegal polythene has been arrested by a raid in Kesbewa and Bellanwila and Bellanwila.
 
-ජාතික පාරිසරික පනතේ විධිවිධාන යටතේ අදාළ කර්මාන්ත ශාලාවේ හිමිකරුට සහ ලොරි රථයේ හිමිකරුට එරෙහිව නීතිමය පියවර ගැනීමට කටයුතු කර ඇත.
+The raid was carried out in midnight yesterday (08) with the CEA, Environmental Police Unit and Consumer Affairs Authority.
+
+A total of Rs.
+
+Legal action has been taken against the owner of the relevant factory and the owner of the lorry under the provisions of the National Environmental Act.
 
 ◼️
 
 [Data](articles/fc23dcd7.json)
+
+[Extended Data](ext_articles/fc23dcd7.ext.json)
 
 ---
 
@@ -64,49 +86,65 @@ Last week, two children who were taken hostage by a father in Jalthara, Hanwella
 
 [Data](articles/cd6e95f3.json)
 
+[Extended Data](ext_articles/cd6e95f3.ext.json)
+
 ---
 
-### අධික උෂ්ණය හේතුවෙන් ගෙවුනු සතියක කාලයක් තුල 4ක් මිය ගිහින්
+### Four dies in a week due to heavy heated
 
 *2024-05-09 17:20:30* · [`adalk`](https://www.ada.lk/breaking_news/අධික-උෂ්ණය-හේතුවෙන්-ගෙවුනු-සතියක-කාලයක්-තුල-4ක්-මිය-ගිහින්/11-409531) · `si`
 
-ගෙවුනු සතියක කාලයක් තුලදී යාපනය දිස්ත්‍රීක්කයට බලපෑ අධික උෂ්ණත්වය හේතුවෙන් යාපනය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකර ලැබූ රෝගීන් සිව් දෙනෙකුට තාප ආගාතය බලපෑම හේතුවෙන් මිය ගොස් ඇතැයි ඒම රෝහලේ විශේෂ වෛද්‍යවරුන් පෙන්වා දෙයි.
+In Jaffna, four deaths in a week were attributed to extreme heat, exceeding 40°C. Doctors emphasized the importance of hydration and protective measures against heat-related illnesses, highlighting the impact on kidney, heart, and lung health.
 
-පවතින අධික උෂ්ණත්වයෙන් ජනතාව ආරක්ෂා විය යුතු ආකාරය පිළිබඳව ජනතාව දැනුවත් කිරීමේ මාධ්‍ය සාකච්ඡාවක් යාපනය ශික්ෂණ රේහලේදී පැවති අවස්ථාවේදී එම අවස්ථාවට සහභාගී වූ වෛද්‍යවරුන් මේ බව පවසා සිටියහ.
+🟩
 
-යාපනය ශික්ෂණ රෝහලට විවිධ රෝගී තත්වයන් හේතුවෙන් නේවාසිකව ඇතුලත් කරනු ලැබූ රෝගීන්ට පවතින අධික උෂ්ණත්වය බලපෑම හේතුවෙන් මිය යාමට සිදුවුනු බවටත් අදාල මරණයන් එම රෝගීන්ගේ විවිධ රෝග හේතුවෙන් මිය ගියද එම රෝගීන්ගේ රෝගී තත්වයන් උත්සන්න වීමට අධික උෂ්ණත්වය හේතුවෙන් ඇතිවන තාප ආගාතය ප්‍රධාන වශයෙන් බලපෑ බවටද මෙම මාධ්‍ය සාකච්ඡාවේදී වෛද්‍යවරුන් පවස සිටියහ.
+Special doctors point out that four patients have died due to the high temperatures of the Jaffna district during a week due to the high temperatures of the Jaffna district.
 
-අදාල රෝගීන්ගේ රෝගී තත්වයන්ට අමතරව තාප ආගාතය බලපෑමෙන් වකුගඩු, හෘදයේ සහ පෙනහලුවල ක්‍රියාකාරීත්වය අඩපණ වීම මෙන්ම මොළයේ ක්‍රියාකාරීත්වයද අඩපන වන බවට වෛද්‍යවරුන් මෙහිදී පෙන්වා දුන්හ.
+At a press conference to educate the public on how to protect the masses on the high temperature, doctors were speaking at the occasion.
+
+Doctors at this press conference have to die due to various diseases that the residents of the Jaffna district have died due to various diseases of the disease due to the extreme temperature of the patients and the deaths of these patients.Said.
+
+The doctors pointed out that the influence of kidney, heart and lungs are driven by the influence of the heatterity, in addition to diseases related to diseases.
+
+In many places in Jaffna over the past week, more than 40 degrees Celsius showed more than 40 degrees Celsius.
 
 ...
 
 [Data](articles/aa7b6cb0.json)
 
+[Extended Data](ext_articles/aa7b6cb0.ext.json)
+
 ---
 
-### සියල්ල අවසානයේ ඩයනා කළ හෙළිදරව්ව
+### At the end of all, the revelation that dialated
 
 *2024-05-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196443) · `si`
 
-පාර්ලිමේන්තු අසුන අහිමි වූ ඩයනා ගමගේ මහත්මිය අද (09) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+Diana Gamage, a former Sri Lankan state minister, was denied a Parliament seat but remains committed to politics. She held a press conference, emphasizing her support from the President and her readiness to return to Parliament. She criticized the party for canceling her seat, highlighting personal and political crises. Gamage expressed her determination to serve the public, especially women, and vowed to return to Parliament.
 
-රාජ්‍ය අමාත්‍යවරියක ලෙස කටයුතු කළ ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය ඊයේ (08) තීන්දු කළේය.
+🟩
 
-මේ අතර හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට විදේශගත වීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තහනම් නියෝගයක් නිකුත් කර තිබුණි.
+Diyanayana Gamage, who was deprived of the Parliament seat, has been called a special press conference today (09).
 
-එවන් පසුබිමක මාධ්‍ය සාකච්ඡාවක් කැඳවමින් ඩයනා ගමගේ මහත්මිය සඳහන් කළේ,
+Mrs. Diana Gamage, who was a state minister, has decided not to seated in Parliament of Sri Lanka yesterday (08).
 
-"මගේ දේශපාලනය මෙතැනින් නවතින්නේ නැහැ. වැඩිකල් යන්න කලින් මේ පාර්ලිමේන්තුව විසුරුවා හරිනවා. ඉදිරි දේශපාලනයට මම අනිවාර්යයෙන්ම එනවා."
+Meanwhile, the Colombo Magistrate Court today (09) issued a banned order today (09).
 
-"ජනාධිපතිතුමාගේ සහයෝගයට මම හැමදාම ඉන්නවා. කොටලුවෝ හැංගෙච්ච වෙලාවේ රනිල් වික්‍රමසිංහ තමයි මේ රට භාර ගත්තේ."
+Ms. Diana Gamage said that a press conference was held in such a background,
 
-"මේ තීරණය එහෙම නම් ඒ පක්ෂයත් අවලංගුයි. මොකද ඒ පක්ෂය පැවරුවේ මගේ අත්සනින්. ඒක ඇතුලේ අර්බුද ගොඩක් තියෙනවා. ඒවා මම ඉදිරියේදී කියන්නම්."
+"My politics will not stop here. Before long, the Parliament dissolves this Parliament. I will definitely come in the future. "
 
-"ප්‍රශ්නයක් තියෙනවා නම් සජබයේ මාව තියාගත්තේ ඇයි. මගේ තියෙන්නේ දකුණේ ලේ. මගේ තාත්තා බ්‍රිතාන්‍ය ජාතික කාන්තාවක් දීගෙට ගත්තා. ඒක මගේ වරද නෙමෙයි. ඒක හොඳයි. මම කැමතියි."
+"I always have the support of the President. Ranil Wickremesinghe was the time when the Kottewen was Hang.
+
+"If this decision is so that party also canceled. Because the party assigned my signature. There's a lot of crises in it. They'll tell you in the future. "
+
+"Why did you keep me in the animation if there is a problem?. My is blood in the South. My father was taken by a British woman. It's not my fault. it is good. I like."
 
 ...
 
 [Data](articles/f766cb78.json)
+
+[Extended Data](ext_articles/f766cb78.ext.json)
 
 ---
 
@@ -854,21 +892,29 @@ Northern Provincial Chief Secretary, Northern Provincial Ministry of Local Gover
 
 ---
 
-### තවත් කලු සුද්දෝ පාර්ලිමේන්තුවේ ඉන්නවා
+### Another Blaky Fede is in Parliament
 
 *2024-05-09 14:30:30* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කලු-සුද්දෝ-පාර්ලිමේන්තුවේ-ඉන්නවා/11-409527) · `si`
 
-"අනගාරික ධර්මපාලතුමා කිව්වා ටයිකෝඩ් දාගත්ත කළු සුද්දෝ තවම ලංකාවේ ඉන්නවා කියලා, ඒ කියමන හරියට හරි ඔය අහු උනේ, තව ඉන්නවා පාර්ලිමේන්තු ඔය වගේ කළු සුද්දෝ, මේ අය අපේ රටේ  පුරවැසියෝ නෙමෙයි, ඒ වුනාට අපේ පාර්ලිමේන්තුවට ඇවිල්ලා වරදාන වරප්‍රසාද භුක්ති විදිනවා නීති විරෝධීව, පුරවැසිකම තියෙන්නේ පිට රටක. ඒ උනාට ලංකාවේ මිනිස්සුන්ගේ බදු සල්ලි වලින් මොවුන් ජීවත් වෙනවා" යැයි  මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ  ධම්මරතන නාහිමි පානන් පැවසුහ.
+Anagarika Dharmapala criticized the presence of a "black floor" in Sri Lanka's Parliament, accusing it of illegal citizenship and misuse of public funds. He called for accountability and the return of misused funds, highlighting the need for the judiciary to uphold the law.
 
-උන්වහන්සේ මේ බව පැවසුවේ අද (9දා) මිහින්තලේදී  පැවති මාධ්‍ය හමුවකදීය. එහිදී වැඩි දුරටත් උන්වහන්සේ මෙසේද පැවසූහ.
+🟩
 
-"පාර්ලිමේන්තුවේ දිවුරුම් දෙන්නේ බොරුවට හැමෝම එකම ප්‍රඥප්තිය ක්‍රියාත්මක කරන්නේ ලෝකයේ බලය අත් හරින්න අකමැතිම අය සිටින්නේ  ලංකා දේශපාලනයේ ශ්‍රී ලංකා පාර්ලිමේන්තුවේ,
+"Anagarika Dharmapala said that the Ticoad Dagoon is still in Sri Lanka, but also the black floor of the parliament in our country, these are illegally, which is illegally, the citizenshipIn a country. They lived from the tax reputations of the people of Sri Lanka, "the Chief Incumbent of the Sri Lankan people.
 
-සමගි ජන බලවේගයේ කණ්ඩායම නොදැන ගෙන නෙමෙයි ඩයනා ගමගේ මන්ත්‍රී ධූරයට පත් කරේ, දැන දැන තමයි මේ වැරැද්ද කරේ සබජයෙන් ඒ වැරැද්ද කරා නම්, ආණ්ඩුවට  ඒ වැරැද්ද නිවැරදි කරන්න තිබුණා.
+He was speaking at a press conference held at Mihintaka today (9). The Thera said,
+
+"The swearing of everyone is the only Charter of the world, who wants to turn the power of the world, is in the Parliament of Sri Lanka, Sri Lanka,
+
+The group of Harishi was not unaware of the group of Diana Gamage, not knowing, and the government had to correct the mistake.
+
+What the government gave to a public minister to increase the government in the government. Didn't the President knew the mature politician of the country's lawyer in the country?
 
 ...
 
 [Data](articles/4b1087a1.json)
+
+[Extended Data](ext_articles/4b1087a1.ext.json)
 
 ---
 
@@ -904,7 +950,7 @@ He said the journalist responded to a journalist who was spent on the darkener..
 
 *2024-05-09 14:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hold-presidential-polls-between-sept-17-oct16-commission-162313/) · `en`
 
-ECONOMYNEXT – Sri Lanka will hold Presidential polls between September 17 and October 16, 2025, as required by law, the Elections Commission said.
+ECONOMYNEXT – Sri Lanka will hold Presidential polls between September 17 and October 16, 2024, as required by law, the Elections Commission said.
 
 The Commission said it will call for nominations within the specified period.
 
@@ -2271,31 +2317,5 @@ It is noteworthy that the Police Drug Eradication Unit is conducting further inv
 [Data](articles/d936fee1.json)
 
 [Extended Data](ext_articles/d936fee1.ext.json)
-
----
-
-### Enjoining order against Maithri is extended
-
-*2024-05-09 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196426) · `si`
-
-The Colombo District Court extended an injunction against Maithri, following a petition by former President Chandrika Bandaranaike Kumaratunga. The court ordered respondents, including Maithripala Sirisena, Nimal Siripala de Silva, and Faizer Mustapha, to file objections.
-
-🟩
-
-The Colombo District Court today (09), the Colombo District Court today (09) the Colombo District Court today (09) the Colombo District Court today (09).
-
-The petition filed by former President Chandrika Bandaranaike Kumaratunga was recalled before Colombo District Judge Sandun Withana today (09).
-
-The District Judge ordered respondents to the respondents to file if there are objections to the case.
-
-Senior Vice President Maithripala Sirisena, Senior Vice President, Minister of Sri Lanka Freedom, Minister of Sri Lanka Freedom, Minister Nimal Siripala de Silva and Vice President Faizer Mustapha.
-
-Chandrika Bandaranaike Kumaratunga filed the constitution of Maithripala Sirisena as the Chairman of the SLFP.
-
-◼️
-
-[Data](articles/de4568a5.json)
-
-[Extended Data](ext_articles/de4568a5.ext.json)
 
 ---

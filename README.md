@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 23:33:52**
+As of **2024-05-09 23:52:53**
 
 ## Newspaper Stats
 
-*Scraped **23,037** Articles*
+*Scraped **23,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,326
+economynextcom | 1,330
 dailyftlk | 1,331
 adalk | 1,959
 tamilmirrorlk | 2,694
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,037 (100.0%) of 23,037 articles have been extended.
+23,037 (100.0%) of 23,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -520,6 +520,26 @@ Meanwhile, struggles were also called for a news discussion today to assault the
 
 ---
 
+### Sri Lanka to table amendment on TRC Act, to allow private party to build towers: State Minister
+
+*2024-05-09 20:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-table-amendment-on-trc-act-to-allow-private-party-to-build-towers-state-minister-162403/) · `en`
+
+ECONOMYNEXT – Sri Lanka government will table amendments for Telecommunications Regulatory Commission Act for the first time in 28 years and the key changes will include “third party” being allowed to  build towers, State Technology Minister Kanaka Herath said.
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) was established in 1996 with an aim to promote sustained development in the telecommunication industry by shaping the regulatory process, protecting public interest and being responsive to challenges in an increasingly competitive market.
+
+Ensure competition in the market in is open, fair and effective is also the TRC’s core objective.
+
+“We will table the amendment tomorrow. We expect to have the parliament debate within two months,” Herath told reporters at a media briefing in Colombo.
+
+Regulating under sea cabal network and allowing other parties to build telecom towers are included in the amendment, he said.
+
+...
+
+[Data](articles/c9c5a0c7.json)
+
+---
+
 ### Russian demands information about Sri Lankans visited Ukrainian war
 
 *2024-05-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196451) · `si`
@@ -946,6 +966,26 @@ The current police DIG is capable of conducting investigations to identify the s
 
 ---
 
+### Sri Lanka to bring National Cyber Security Act amid surge in social network users: State minister
+
+*2024-05-09 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-national-cyber-security-act-amid-surge-in-social-network-users-state-minister-162385/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of drafting a National Cyber Security Act, as social network users rise, State Minister for Technology Kanaka Herath said.
+
+“The user base across all social networks has surged from 60 million to 74 million. There is an imperative for a National Cyber Security Act. Plans are underway to draft pertinent legislation by May 2024,” Herath told reporters at the Presidential Media Centre.
+
+“Collaborative efforts involving 29 government agencies, alongside Sri Lanka Computer Emergency Readiness Team (SL CERT), have been undertaken to strengthen cyber security.”
+
+The minister said that the cabinet has endorsed the National Digital Strategy 2030, which focused on infrastructure, connectivity, access, skills, literacy, industries, jobs, and establishing a connected digital government.
+
+“Emphasis is placed on cyber security, data security, privacy, digital financial services, and the digitization of small and medium-sized businesses.”
+
+...
+
+[Data](articles/64599b52.json)
+
+---
+
 ### Mark Andrew and Anura Dissanayake met
 
 *2024-05-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196447) · `si`
@@ -1206,6 +1246,28 @@ Ms. Diana Gamage said that a press conference was held in such a background,
 
 ---
 
+### Sri Lanka rupee closes steady at 298.65/80 to US dollar
+
+*2024-05-09 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-steady-at-298-65-80-to-us-dollar-162369/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly steady at 298.65/80 to the US dollar on Thursday from 298.75/85 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.60/65 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.90/11.00 percent from 10.95/11.00 percent.
+
+A bond maturing on 15.03.2028 closed stable at 11.35/45 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.05/15 percent.
+
+A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May9/2024)
+
+◼️
+
+[Data](articles/4a9b633f.json)
+
+---
+
 ### Diana gets to mouth
 
 *2024-05-09 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196442) · `si`
@@ -1343,6 +1405,28 @@ Later, the body was taken to the Matara General Hospital for the post mortem exa
 [Data](articles/fa484716.json)
 
 [Extended Data](ext_articles/fa484716.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Dialog, banks drive turnover
+
+*2024-05-09 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-dialog-banks-drive-turnover-162355/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, after a week, data on its site showed.
+
+The broader All Share Index closed up 0.35 percent, or 43.33 points, at 12,396; while the S&P SL20 Index closed up 0.89 percent, or 32.40 points, at 3,672.
+
+Turnover was at 2.7 billion. A big chunk of this came from Dialog Axiata Plc, which saw the most active trading volumes (Rs606mn) in the day, and the share closed flat at 11.50.
+
+Banks saw renewed interest and nearly all banking shares closed up in the day. Hatton National Bank Plc (up at 201.75), Sampath Bank Plc (up at 80.00), Commercial Bank of Ceylon Plc (up at 114.25), and National Development Bank Plc (up at 80.00) were the top contributors to the ASPI.
+
+Another positive contributor was index heavyweight John Keells Holdings Plc which closed up at 206.00.
+
+There was a net foreign inflow after weeks, with the market registering 370 million. (Colombo/May9/2024)
+
+◼️
+
+[Data](articles/adc1de12.json)
 
 ---
 
@@ -2221,87 +2305,5 @@ The government issued 5,730 liquor licenses under 30 categories by January 2024;
 [Data](articles/d63e789f.json)
 
 [Extended Data](ext_articles/d63e789f.ext.json)
-
----
-
-### The fine agency raided by cheating money in Poland
-
-*2024-05-09 13:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පෝලන්තයේ-රැකියා-දෙන-බව-පවසා-මුදල්-වංචා-කළ-හොර-ඒජන්සිය-වටලයි/11-409522) · `si`
-
-In Poland, the Special Investigation Division of the Bureau of Fridge raided a fraudulent foreign employment agency, operating as a visa consulting center in Rajagiriya, Sri Lanka. The agency, lacking a valid license from the Sri Lanka Bureau, was accused of cheating money. The raid led to the arrest of the owner, a 40-year-old from Kurunegala, and another individual from Weliweriya. Investigations uncovered two passports and numerous foreign educational applications. The suspects are to be produced before the Colombo New Treak No. 5 and Mahara Magistrate's Courts.
-
-🟩
-
-Officers' Special Investigations Division (5/8) raided by the Special Investigation Division of the Bureau of Fridge, a fraudulent foreign employment agency to provide employment in Poland without a valid license of the Sri Lanka Bureau.
-
-The company has been operated with the guise of a visa consulting center in Rajagiriya. A person complained to the Bureau that a sum of Rs.. Accordingly, the raid was carried out, and the owner was arrested by the Investigation Officers of the site. Investigations have also taken into custody by two passports and many foreign educational applications.
-
-The suspect is a 40-year-old resident of Kurunegala, and he is to be produced before the Colombo New Treak No. 5 Magistrate's Court today.
-
-A lodge from the Bureau of the Bureau, a person from the Weliweriya area was also arrested yesterday (5/8), a person from the Weliweriya area.
-
-...
-
-[Data](articles/ffb20975.json)
-
-[Extended Data](ext_articles/ffb20975.ext.json)
-
----
-
-### டயானாவுக்கு பயணத் தடை
-
-*2024-05-09 13:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்கு-பயணத்-தடை/175-337029) · `ta`
-
-Colombo Chief Magistrate's Court issued a travel ban on State Minister Diana Kamage, preventing her from leaving the country due to charges under the Immigration Act.
-
-🟩
-
-The Colombo Chief Magistrate's Court today issued an order to prevent State Minister Diana Kamage from leaving the country.
-
-Colombo Chief Magistrate Thilina Kamage has issued the order in connection with the Magistrate's hearing against him on charges of committing crimes under the Immigration Immigration Act.
-
-◼️
-
-[Data](articles/fb51f11d.json)
-
-[Extended Data](ext_articles/fb51f11d.ext.json)
-
----
-
-### The Election Commission is notified of the Presidential Election Day
-
-*2024-05-09 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196434) · `si`
-
-The Election Commission has set September 17 and October 16 for the presidential election. The names of the candidates were announced on the due date.
-
-🟩
-
-The Elections Commission announced that the presidential election will be held on September 17 and October 16.
-
-Accordingly, the names of the names of the names of the names were carried out during the due date.
-
-◼️
-
-[Data](articles/df641e3b.json)
-
-[Extended Data](ext_articles/df641e3b.ext.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-05-09 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183057) · `ta`
-
-Today's exchange rate is 293.8242 for buying and 303.3789 for selling US dollars.
-
-🟩
-
-The US purchasing price of the US is 293.8242 and the sales price at Rs 303.3789 on Thursday (May 09).
-
-◼️
-
-[Data](articles/92f30e8b.json)
-
-[Extended Data](ext_articles/92f30e8b.ext.json)
 
 ---

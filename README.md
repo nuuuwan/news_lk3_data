@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 04:52:04**
+As of **2024-05-10 05:03:20**
 
 ## Newspaper Stats
 
-*Scraped **23,057** Articles*
+*Scraped **23,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,330
-dailyftlk | 1,331
+dailyftlk | 1,336
 adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
@@ -26,11 +26,101 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,057 (100.0%) of 23,057 articles have been extended.
+23,057 (100.0%) of 23,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Govt. revenue concerns spike amid drop in liquor production
+
+*2024-05-10 04:46:14* · [`dailyftlk`](https://www.ft.lk/business/Govt-revenue-concerns-spike-amid-drop-in-liquor-production/34-761602) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya reveals 19% drop in alcohol production in 2023
+
+Asserts significant decrease of 15 m units observed in production of popular 180 ml alcohol bottles
+
+Says production of 750 ml, 375 ml experienced notable declines compared to 2022 figures
+
+Urges measures to curb illegal alcohol production to recover lost tax revenue
+
+Reveals 214 new licences granted in 2023, with 147 allocated for specific types catering mainly to tourism sector
+
+Cumulative liquor licences issued by Excise Dept. amounts to 5,730
+
+Emphasises Govt. stance against alcohol promotion with increased liquor licence fee
+
+The Government yesterday expressed concern over significant decline in alcohol production and its potential impact on State revenue.
+
+Addressing the House, State Minister of Finance Ranjith Siyambalapitiya disclosed that alcohol production has seen a significant drop by 19% in 2023.
+
+...
+
+[Data](articles/c6733f20.json)
+
+---
+
+### UAE envoy meets BOI
+
+*2024-05-10 04:44:54* · [`dailyftlk`](https://www.ft.lk/business/UAE-envoy-meets-BOI/34-761601) · `en`
+
+UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri recently met with Board of Investment Chairman Dinesh Weerakkody, and officials of both BOI and Colombo Port City Economic Commission to discuss the current economic climate and investment opportunities in both Colombo Port City and on shore. BOI is collaborating with the UAE Ambassador to arrange a high level government and business delegation from the UAE.
+
+◼️
+
+[Data](articles/f2b271f8.json)
+
+---
+
+### Diana accuses Sajith of orchestrating grand conspiracy against her
+
+*2024-05-10 04:36:21* · [`dailyftlk`](https://www.ft.lk/news/Diana-accuses-Sajith-of-orchestrating-grand-conspiracy-against-her/56-761600) · `en`
+
+Expresses refusal to accept SC ruling due to political conspiracy behind her disqualification
+
+Says SJB’s politics of hatred was evident through their behaviour following SC judgement
+
+Urges women in SL to be cautious of voting for Opposition leader Sajith Premadasa at upcoming polls
+
+Claims she has no intention of leaving SL amidst travel ban imposed by courts yesterday
+
+Embattled former State Minister Diana Gamage yesterday expressed her refusal to accept the recent Supreme Court ruling that disqualified her from Parliament, due to the political conspiracy behind it.
+
+Addressing the media for the first time following the ruling, Gamage levelled accusations against Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, and several others, alleging they had orchestrated political conspiracy against her. She claimed that this plot has led to her disqualification and subsequent loss of her Parliamentary seat.
+
+...
+
+[Data](articles/041595c7.json)
+
+---
+
+### Second Sri Lanka – UK Strategic Dialogue held in Colombo
+
+*2024-05-10 04:34:39* · [`dailyftlk`](https://www.ft.lk/news/Second-Sri-Lanka-UK-Strategic-Dialogue-held-in-Colombo/56-761599) · `en`
+
+The Second Sri Lanka – UK Strategic Dialogue was held at the Ministry of Foreign Affairs on 7 May 2024. The Sri Lanka delegation at the meeting was led by Director General / Europe and North America Shobini Gunasekera and the UK side by Director / India and Indian Ocean Directorate at the Foreign Commonwealth and Development Office (FCDO) Ben Mellor. Discussions were also held with Foreign Secretary Aruni Wijewardane.
+
+...
+
+[Data](articles/5e24a777.json)
+
+---
+
+### CoA grants two-week window for objections in Hirunika contempt case
+
+*2024-05-10 04:33:07* · [`dailyftlk`](https://www.ft.lk/news/CoA-grants-two-week-window-for-objections-in-Hirunika-contempt-case/56-761598) · `en`
+
+The Court of Appeal on Wednesday provided a two-week window to file objections to the complaint against former MP Hirunika Premachandra for being in contempt of court. This action stemmed from her criticism of the bail order issued by the Mount Lavinia Magistrate’s Court during a press conference on Women’s Day. The court ordered the complaint to be taken up again on 14 June.
+
+A Court of Appeal bench comprising Justices Nishanka Bandhula Karunaratne and Shashi Mahendran issued the order after considering a complaint filed by young business leader Hardy  Jamaldeen.
+
+During the proceedings, Counsel Nishan Premaratne, representing the plaintiff, presented facts to the court, alleging that the defendant had voiced criticisms regarding the bail order issued by the Mount Lavinia Magistrate’s Court during a press conference held on Women’s Day, in connection with a specific incident.
+
+...
+
+[Data](articles/c6317e99.json)
+
+---
 
 ### Plantation workers' salary increase -Harini Amarasuriya
 
@@ -2173,129 +2263,5 @@ The Nuwara Eliya District Secretariat has banned heavy vehicles through this roa
 [Data](articles/77e0d430.json)
 
 [Extended Data](ext_articles/77e0d430.ext.json)
-
----
-
-### Reduced New Year drinking leads to less quarrels
-
-*2024-05-09 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduced-New-Year-drinking-leads-to-less-quarrels/108-282252) · `en`
-
-Colombo, May 09 (Daily Mirror) -  Cutting back on alcohol consumption during the Sinhala and Tamil New Year festival has resulted in notable dip in incidents of conflict and quarrels associated with alcohol use during the festival season.
-
-This was revealed in a survey conducted by the Alcohol and Drug Information Center (ADIC), Sri Lanka concerning alcohol consumption and related information during the season.
-
-The survey encompassed a sample size of 415 individuals across all nine provinces of Sri Lanka. Within this sample, 46.2% (n=192) were female, and 53.7% (n=223) were male.
-
-Accordingly, a majority of survey participants, which amounted to 70.8%, observed a decrease in incidents of conflict and quarrels associated with alcohol use during the festival season compared to the previous year.
-
-Furthermore, from the participants, 64% expressed the view that alcohol consumption had decreased during this year's Sinhala and Tamil New Year celebrations, compared to that of last year.
-
-...
-
-[Data](articles/26d391df.json)
-
-[Extended Data](ext_articles/26d391df.ext.json)
-
----
-
-### PUCSL yet to receive CEB proposals to slash electricity tariffs
-
-*2024-05-09 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99109/pucsl-yet-to-receive-ceb-proposals-to-slash-electricity-tariffs) · `en`
-
-The Ceylon Electricity Board (CEB) is yet to submit the proposals regarding the reduction of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL), according to PUCSL chairman Prof. Manjula Fernando.
-
-The said proposals were initially expected to be submitted to the PUCSL by the 1st of May.
-
-However, the PUCSL had granted an extension until tomorrow (May 10) in response to a request from the CEB.
-
-Consequently, the PUCSL has instructed the CEB to submit the proposals before the deadline tomorrow.
-
-Prof. Fernando said that after receiving the relevant proposals, the process to reduce the electricity tariffs will be commenced and the percentage of the reduction in the tariff could be announced in the month of July.
-
-◼️
-
-[Data](articles/49335a27.json)
-
-[Extended Data](ext_articles/49335a27.ext.json)
-
----
-
-### The underworld in the South kills another life
-
-*2024-05-09 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196436) · `si`
-
-A 54-year-old man from the cinnamon industry was shot and killed in a confrontation between two underworld gangs in Ahungalla. The suspect, the man's son, is linked to several crimes. The victim, who had no direct involvement in the cinnamon industry, was hospitalized after the incident.
-
-🟩
-
-The 54-year-old cinnamon industry has died in the shooting of the 54-year-old cinnamic industry.
-
-The police states that the man was the father of 'Baby' as a suspect in several murders and crimes.
-
-Police suspect that the murder was held as a result of the confrontation between two underworld gangs, two underworld gangs, Kosgoda Vidura.
-
-The shooting was shot by a scoophole of a scoop for another 7.40 pm last night in Ahungalla last night.
-
-The deceased has been admitted to the Keerthisena Hospital hospitalized after the shooting heavy damaged.
-
-The deceased is the victim of the deceased yesterday when the deceased was casting out of the house yesterday.
-
-He is a cinnamon worker who has no cinnamic accusation, but his son Nadees Kumara alias Dubai, Nadeesha Kumara alias Dubai, is accused of a few killings in the South.
-
-He is a member of the Ratgama Vidura party and the police suspect that the murder had committed the murder.
-
-...
-
-[Data](articles/fdea9fc5.json)
-
-[Extended Data](ext_articles/fdea9fc5.ext.json)
-
----
-
-### Advisory issued for severe lightening: Heavy showers expected tomorrow
-
-*2024-05-09 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99108/advisory-issued-for-severe-lightening-heavy-showers-expected-tomorrow) · `en`
-
-The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Eastern, Uva and North-central provinces and in Matale, Mullaitivu and Kurunegala districts today (9).
-
-There may be temporary localized strong winds during thundershowers, the department said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-Meanwhile, the Meteorology Department stated that showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m. on Friday (10).
-
-...
-
-[Data](articles/3823193e.json)
-
-[Extended Data](ext_articles/3823193e.ext.json)
-
----
-
-### The shooting of 'Mannangatti' starring Lady Super Star Nayanthara
-
-*2024-05-09 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183055) · `ta`
-
-Nayanthara stars in 'Mannangatti', directed by Dude Vicky, with music by R. D. Shawn Roldan. The film, produced by Lakshmanan for Prince Pictures, features Yogi Babu, Devadarshini, and Nagendra Prasad. The crew celebrated the shoot, with the final work and teaser to be released soon. Nayanthara, known as the Ladies Super Star, has recently starred in 'Lord' and 'Annapoorni', both successful films.
-
-🟩
-
-Actress Nayanthara, who is the hero of the Tamil film industry, has been shot in the film 'Mannankatti since 1960'.
-
-Nayanthara, Yogi Babu, Devadarshini, Nagendra Prasad and many others have starred in the movie 'Mannankatti since 1960' directed by director Dude Vicky.. R. D. Shawn Roldan has composed the film, which has been recorded by Rajasekhar. The film, which is ready for the heroine of the story, has produced the producer Lakshmanan on behalf of Prince Pictures.
-
-The film crew has cut the cake and celebrated the shooting of the film and celebrated it with a special photo of it.. The film crew said that the final work will begin soon and the first look and teaser will be released soon.
-
-Meanwhile, actress Nayanthara is the hero of the story, 'Lord' and 'Annapoorni' released in the last year.. It is also worth noting that the film 'Mannangatti' is a commercial and critical success if he can retain the title of Ladies Super Star.
-
-◼️
-
-[Data](articles/2df7368d.json)
-
-[Extended Data](ext_articles/2df7368d.ext.json)
 
 ---

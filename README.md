@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 21:03:18**
+As of **2024-05-09 21:18:35**
 
 ## Newspaper Stats
 
-*Scraped **23,015** Articles*
+*Scraped **23,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,955
-tamilmirrorlk | 2,692
+adalk | 1,957
+tamilmirrorlk | 2,693
 adaderanalk | 2,700
 virakesarilk | 3,423
 dailymirrorlk | 3,613
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,014 (100.0%) of 23,015 articles have been extended.
+23,015 (100.0%) of 23,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### ரஷ்ய - உக்ரைன் போரில் உயிரிழந்த இலங்கையர்கள்
+
+*2024-05-09 20:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-உக்ரைன்-போரில்-உயிரிழந்த-இலங்கையர்கள்/175-337047) · `ta`
+
+மனித கடத்தல்காரர்களால் ரஷ்ய இராணுவத்துடன் இணைந்து கொள்வதற்காக இலங்கையில் இருந்து அனுப்பப்பட்ட இலங்கையர்கள் 6 பேர் உயிரிழந்துள்ளமை உறுதிப்படுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவா தெரிவித்தார்.
+
+மேலும் இந்த சம்பவத்துடன் உயிரிழந்தவர்களின் எண்ணிக்கையை கண்டறிய மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+இதேவேளை, குறித்த சம்பவத்துடன் தொடர்புடைய முன்னாள் இராணுவ அதிகாரிகள் நேற்றைய தினம் கைது செய்யப்பட்டமை குறிப்படத்தக்கது. R
+
+◼️
+
+[Data](articles/70960f89.json)
+
+---
+
+### විස්සයි20 ලෝක කුසලානයට ශ්‍රි ලංකා සංචිතය නම් කරයි
+
+*2024-05-09 20:45:16* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-ලෝක-කුසලානයට-ශ්‍රි-ලංකා-සංචිතය-නම්-කරයි/9-409541) · `si`
+
+ඇමෙරිකාවේදී පැවැත්වීමට නියමිත විස්සයි20 ලෝක කුසලාන තරගාවලිය සඳහා ක්‍රීඩා කරන ශ්‍රී  ලංකා සංචිතය ක්‍රිකට් ආයතනය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+මෙහි නායකයා ලෙස වනිඳු හසරංග කටයුතු කරන අතර උපනායක ලෙස චරිත් අසලංක නම් කර තිබේ. ඇන්ජලෝ මැතිව්ස්ද සංචිතයට එක්කර ඇති අතර දසුන් ශානකත් කණ්ඩායමට නම්ව තිබේ.
+
+කෙසේ වෙතත් භානුක රාජපක්ෂ අතිරේක ක්‍රීඩකයෙක් ලෙස කණ්ඩායමට නම්කර තිබේ. විජයකාන්ත වියස්කාත්ද අතිරේක ක්‍රීඩකයෙක් ලෙස කණ්ඩායමට නම් කර තිබේ.
+
+◼️
+
+[Data](articles/a0eb8439.json)
+
+---
 
 ### Women Parliamentarians’ Caucus wants SJB to appoint female to Diana’s seat
 
@@ -47,6 +79,8 @@ They requested the SJB to consider appointing a suitable female to the vacant  
 ◼️
 
 [Data](articles/8bc42519.json)
+
+[Extended Data](ext_articles/8bc42519.ext.json)
 
 ---
 
@@ -241,6 +275,24 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from 
 [Data](articles/0960b87a.json)
 
 [Extended Data](ext_articles/0960b87a.ext.json)
+
+---
+
+### ජනතාව රැවටීමේ කාලය මේ වසරේ අග අවසන්
+
+*2024-05-09 19:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-රැවටීමේ-කාලය-මේ-වසරේ-අග-අවසන්/11-409536) · `si`
+
+රටේ ජනතාව රැවටීමේ කාලය මෙම වසරේ අග අවසන් වන බවත්, ඒ අනුව රට දිනවන සත්‍ය ජයග්‍රශනය කරන බවත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+ජනාධිපතිවරයා සිදු කළ ප්‍රකාශයට අද (09දා) පාර්ලිමේන්තුවේදී ප්‍රතිචාර දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"ජනාධිපතිවරයාට මම කියන්න කැමතියි අඩුම ගණනේ දැන්වත් කරුණා කරලා ආර්ථිකය කුඩා කරන ව්‍යාපෘතියට යන්නේ නැතිව ආර්ථිකය ප්‍රසාරණය කරන්නට වැඩපිළිවෙළක් යොදවන්න. ආර්ථිකය කුඩා කිරීමෙන් රටේ ප්‍රශ්න විසඳන්න බැහැ. ආර්ථිකය ප්‍රසාරණය කරන්න ඕනෑ. දුප්පත්කම නිර්මාණය කරලා ප්‍රශ්න විසඳන්න බෑ.
+
+...
+
+[Data](articles/c9a82b4c.json)
 
 ---
 
@@ -2239,75 +2291,5 @@ The temperature of the sea to form coral reefs should be fluctuating up to 27-28
 [Data](articles/75967d76.json)
 
 [Extended Data](ext_articles/75967d76.ext.json)
-
----
-
-### இறுதி இலக்கை அறிவித்தார் ஜனாதிபதி
-
-*2024-05-09 11:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-இலக்கை-அறிவித்தார்-ஜனாதிபதி/175-337018) · `ta`
-
-The President announced the final target of the economic development and restoration programs, which have been successfully implemented to rebuild the country, leading to economic improvement since mid-2023. The economic growth for this year is expected to be around three percent, with various domestic and foreign financial institutions reacting positively. The country's inflation has dropped to 1.5%, and the current account, which has been in deficit for many years, is now at 0.6% of GDP. The President highlighted a 10%-13% decrease in interest rates and a significant increase in foreign exchange reserves to over $5 billion. By 2032, Sri Lanka aims to reduce its total debt to 95% of its GDP, meet the government's total financial needs annually at 13%, and ensure that foreign debt service does not exceed 4.5% annually.
-
-🟩
-
-முறையான திட்டம், அனுபவம் மற்றும் சர்வதேச தொடர்புகள் என்பவற்றின் காரணமாகவே தனியொரு பாராளுமன்ற உறுப்பினராக இருந்த போதும் எவ்வித நிபந்தனைகளும் இன்றி நாட்டைப் பொறுப்பேற்றதாகவும் அதன் ஊடாக நரகத்தில் விழுந்த நாட்டை மீட்க முடியும் என்ற நம்பிக்கை தனக்கு இருந்ததாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில்  இன்று (09) ஆற்றிய விசேட உரையின் போது தெரிவித்தார்.
-
-The President said that the economic development and restoration programs have been properly implemented to rebuild the declined country, resulting in the journey of economic improvement from mid -2023.
-
-The president said that this year's economic growth is expected to be about three percent, the president said that various domestic and foreign financial institutions have come up with similar reactions.
-
-...
-
-[Data](articles/13763efb.json)
-
-[Extended Data](ext_articles/13763efb.ext.json)
-
----
-
-### Salary increments for govt employees can only be considered next year - President
-
-*2024-05-09 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99102/salary-increments-for-govt-employees-can-only-be-considered-next-year-president) · `en`
-
-President Ranil Wickremesinghe states that for the reconstruction of the fallen country, economic stabilization and recovery programs were formally implemented and that as a result, the journey of economic growth started in the middle of 2023.
-
-In a special statement in Parliament today (09), Wickremesinghe said he assumed leadership of the country without any conditions, despite being a sole member of Parliament. He cited his well-thought-out plan, extensive experience and international relationships as reasons for his confidence in the country’s recovery from its challenges.
-
-Meanwhile, the Head of the State noted that economic growth is projected to be around 3% this year, with several local and international financial institutions offering similar forecasts.
-
-The President also expressed that it is his expectation to conclude all negotiations by the middle of this year, and that the ultimate goal of debt restructuring is to reduce the total amount of debt to 95% of the GDP by 2032.
-
-...
-
-[Data](articles/503beea5.json)
-
-[Extended Data](ext_articles/503beea5.ext.json)
-
----
-
-### Rape
-
-*2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியை-பலாத்காரம்/175-337017) · `ta`
-
-In Chennai, a 31-year-old teacher was raped while her husband was away. The attacker, a 38-year-old man from Coimbatore, entered the home, threatened the woman, and fled after neighbors intervened. The incident shocked the community.
-
-🟩
-
-Many have taken many steps to bear the sunny sun. In this case, the home, door and windows are open. However, it must be opened because of the inevitable reason.
-
-At home, the door, the windows are open. However, the rape incident has taken place in Chennai.
-
-A 31 -year -old teenager, who lives in Coimbatore, Chennai, works as a teacher at a private school. He is married and has 2 girls. Her husband is driving an auto.
-
-In this case, her husband left the auto to drive at night with her daughters at night with her daughters. The impact of the sun was high on Tuesday (07) and it was said that the door was open for the air and slept.
-
-At that time, a drug man entered the house and threatened the woman who was asleep. Shocked by this, the woman tried to shout. But the man threatened to kill the girls if he shouted.
-
-Later, the woman was raped and tried to flee. The woman then shouted and the neighbors came running and attacked the drug and attacked him.
-
-...
-
-[Data](articles/2083ee59.json)
-
-[Extended Data](ext_articles/2083ee59.ext.json)
 
 ---

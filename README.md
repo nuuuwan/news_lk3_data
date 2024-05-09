@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 09:33:37**
+As of **2024-05-09 09:53:02**
 
 ## Newspaper Stats
 
-*Scraped **22,862** Articles*
+*Scraped **22,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,931
 tamilmirrorlk | 2,676
 adaderanalk | 2,680
 virakesarilk | 3,399
-dailymirrorlk | 3,589
+dailymirrorlk | 3,593
 adaderanasinhalalk | 3,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,861 (100.0%) of 22,862 articles have been extended.
+22,862 (100.0%) of 22,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Kenyan President lauds Sri Lankan investors in his country
+
+*2024-05-09 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kenyan-President-lauds-Sri-Lankan-investors-in-his-country/108-282221) · `en`
+
+Following the successful acquisition of Liptons East African Tea Plantations across Kenya, Rwanda and Tanzania, Browns has solidified its position as the world's largest tea producer.
+
+Led by High Commissioner to Kenya Kana Kananathan, Browns Chairman Ishara Nanayakara, Executive Director Kamantha Amarasekera, along with Liptons Tea representatives, were honored to meet with the Kenyan President at the State House, Kenya.
+
+The President commended Chairman Nanayakara for Browns' significant investments in Kenya, underscoring the company's commitment to growth and development in the African  region.
+
+Browns Investments has achieved an unprecedented milestone, solidifying its position as the foremost tea producer globally.
+
+◼️
+
+[Data](articles/b21ec4fe.json)
+
+---
+
+### Marine heat waves: coral reefs in Sri Lankan waters risk die-offs
+
+*2024-05-09 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Marine-heat-waves-coral-reefs-in-Sri-Lankan-waters-risk-die-offs/108-282216) · `en`
+
+Colombo, May 9 (Daily Mirror) - Coral reefs in the sea around Sri Lanka risk die-offs if the current marine heat level persists for another one month or so, a top scientist said yesterday.
+
+The Indian media reported that an alarming situation of severe coral bleaching had been reported in the Lakshadweep Sea and the Gulf of Mannar.
+
+Asked for a comment in this regard, newly appointed Director General of the National Aquatic Resources Research and Development Agency (NARA) Dr. K.Arulananthan told Daily Mirror the heat level had increased to 31 degrees Celsius and remained for two weeks.
+
+He said NARA did not carry out any inspection on the status of coral reefs in the island waters but bleaching could not be ruled out.
+
+“If the heat level fluctuates between 27-28 degrees Celsius, it will be alright for coral health. However, if the current high level persists for another one month or so, coral deaths can be expected,” he said.
+
+...
+
+[Data](articles/fdad0340.json)
+
+---
 
 ### Thunderstorm in many provinces
 
@@ -99,6 +137,18 @@ The UN. Human Rights High Commissioner Volcker Rourg held on March 1, 2024
 [Data](articles/e0b8b872.json)
 
 [Extended Data](ext_articles/e0b8b872.ext.json)
+
+---
+
+### National women's cricket team returns
+
+*2024-05-09 08:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/National-women-s-cricket-team-returns/110-282219) · `en`
+
+The Sri Lanka national women's cricket team, which won the ICC Women's T20 World Cup Qualifier final, arrived at the Bandaranaike International Airport this morning. Pix by T.K.G. Kapila
+
+◼️
+
+[Data](articles/59298ff9.json)
 
 ---
 
@@ -215,6 +265,24 @@ Prof. Prathibha Gamage said that the Gamage has another opportunity for the verd
 [Data](articles/c09dadf7.json)
 
 [Extended Data](ext_articles/c09dadf7.ext.json)
+
+---
+
+### No legal barrier for non Sri Lankans to register political parties; Mahinda Deshapriya
+
+*2024-05-09 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-barrier-for-non-Sri-Lankans-to-register-political-parties-Mahinda-Deshapriya/108-282217) · `en`
+
+Colombo, May9 (Daily Mirror) - There is no legal barrier for the non-citizens to register a political party, Former Chairman of Elections Commission Mahinda Deshapriya said yesterday.
+
+“Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election while the law also prohibits a non-citizen to vote in an election,” Deshapriya told Daily Mirror.
+
+Also, he said Former State Minister Diana Gamage has not signed nomination papers of SJB and that she has never been the general secretary of Ape Jathika Peramuna.
+
+“Ape Jathika Peramuna was formed by late MPs Mangala Samaraweera and late Sripathi Sooriarachchi when they broke off the political alliance with former President Mahinda Rajapaksa. The general secretary of Ape Jathika Peramuna was Ruwan Ferdinandas while Diana Gamage’s husband took over the post later.
+
+◼️
+
+[Data](articles/b387aa04.json)
 
 ---
 
@@ -672,19 +740,29 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### புதிய நல்லிணக்க குழு தேர்தலை நோக்கியதா?
+### Was the new reconciliation team looking towards the election?
 
 *2024-05-09 01:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-நல்லிணக்க-குழு-தேர்தலை-நோக்கியதா/175-337005) · `ta`
 
-நல்லிணக்க ஆணைக்குழு ஒன்று புதிதாக மீண்டும் ஆரம்பிக்கப்படுகின்றது இதனை முற்று முழுதாக நாம் எதிர்க்கின்றோம் எனத் தெரிவித்த தமிழீழ விடுதலை இயக்கத்தின் (ரெலோ)  தலைவரும், வன்னி மாவட்ட எம்.பி.யுமான செல்வம் அடைக்கலநாதன் இது  தேர்தலை நோக்கியதா என்ற கேள்வி எழுகின்றது என்றார்.
+The new reconciliation team opposes the establishment of a Reconciliation Commission, arguing for international monitoring and questioning its timing in relation to the election.
 
-பாராளுமன்றத்தில் புதன்கிழமை (08) இடம்பெற்ற இராஜதந்திர சிறப்புரிமை   மீதான விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-நல்லிணக்க ஆணைக்குழு ஒன்றை அமைக்க வெளிவிவகார அமைச்சர் எடுக்கும் முயற்சி சரியாக இருக்குமா என்ற விடயம் ஒருபுறம் இருந்தாலும் அதனை நாம் ஏற்றுக்கொள்ளவில்லை. சண்டையிட்ட தரப்பே அது தொடர்பிலான விசாரணைகள் நடத்துவதனை நாம் ஏற்றுக்கொள்ளமாட்டோம். சர்வதேச கண்காணிப்போடு இந்த விசாரணைகள் நடைபெற வேண்டும். இதனை நாம் ஏற்கனவே வலியுறுத்தியிருக்கின்றோம். அதனை அமைச்சர் கவனத்தில் எடுக்க வேண்டும். அப்போதுதான் ஒரு நியாயம் கிடைக்கும் வாய்ப்பு ஏற்படும் என்றார். .
+The Reconciliation Commission is renewed. We are fully opposed to this.
 
-...
+Speaking at a debate on diplomatic privilege on Wednesday (08) in Parliament, he said.
+
+We do not accept the fact that the Foreign Minister's attempt to set up a Reconciliation Commission is correct. We will not accept that the fight is conducting investigations into it. These investigations should be held with international monitoring. We have already emphasized this. The Minister should take note of it. He said that there would be a chance of a justification. .
+
+In this way, this reconciliation commission should have international surveillance.. In the past, the reconciliation commissions have been set up and our people have expressed their views. Were told the secrets. But the decree committees were to dissolve.
+
+Now a new reconciliation commission is being launched. We are completely opposed to this. At this time, the question of whether the reconciliation commission is set up to the election.
+
+◼️
 
 [Data](articles/03caa000.json)
+
+[Extended Data](ext_articles/03caa000.ext.json)
 
 ---
 
@@ -2151,111 +2229,5 @@ The President revealed that one of the items in the bill, in carrying out this t
 [Data](articles/da95cbf3.json)
 
 [Extended Data](ext_articles/da95cbf3.ext.json)
-
----
-
-### Another petition against the Power and Power Bill
-
-*2024-05-08 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196405) · `si`
-
-A petition against the Power and Power Bill has been filed to the Supreme Court, arguing it grants unlimited power to the Minister, potentially leading to arbitrary decisions and harming public welfare. The bill also threatens to divide the Ceylon Electricity Board into multiple companies, challenging employees' jobs. Petitioners demand a constitutional verdict and a referendum in Parliament.
-
-🟩
-
-Another petition has been filed to the Supreme Court demanding the Ceylon Electricity Bill to decide as to the Constitution.
-
-Prutiyya Kumara Jayakody, Punya Sri Kumara Jayakody, who served as members of the Energy Committee of the Energy Committee, had presented the petition.
-
-Petitioners say that the proposed bill has been assigned an unlimited power to the Minister.
-
-Therefore, the petitioners noted that the Minister of Powerment will be taken to make arbitrary decisions and is not good for the existence of the CEB.
-
-They point out that electricity tariff has been authorized to increase the electricity tariffs and is not good for public welfare.
-
-The petition states that the Ceylon Electricity Board will be divided into several companies under the proposed Act and that the profession of the employees of the employees will be severely challenged.
-
-...
-
-[Data](articles/35d80d72.json)
-
-[Extended Data](ext_articles/35d80d72.ext.json)
-
----
-
-### Creates a water production from the atmosphere
-
-*2024-05-08 16:31:18* · [`adalk`](https://www.ada.lk/breaking_news/වායුගෝලයෙන්-ජලය-නිපදවීමේ-යන්ත්‍රයක්-නිර්මාණය-කරයි/11-409504) · `si`
-
-Thambuththegama W. M. Harshaka Prabhath Dharmapala, 24, invented a machine that produces water from the atmosphere, using solar panels. It produces 1 liter of water at 34°C, benefiting deserts and forests. He's working on a garbage collection and recycling machine.
-
-🟩
-
-A youth from Thambuththegama has been able to create a water production machine from the Environment atmosphere. He has created more than 30 inventions.
-
-Thambuththegama W.. M. Harshaka Prabhath Dharmapala is a twenty-four year old man.
-
-The new machine to produce water by air produced a liter of water in about 34 degrees Celsius. This is also used for this using a small sola pane.
-
-Water gathers in the solar light, and the supply of electricity instead of electricity instead of electricity at night is also the manufacture of water.
-
-This invention will benefit the water, especially in the desert, forest security operations, in the shortage of water. He had taken a year and a half to make this design.
-
-He is also expected to obtain the patent for this unique creation and is now working to produce a garbage collection and recycling machine that cost around Rs.
-
-◼️
-
-[Data](articles/f81d63cb.json)
-
-[Extended Data](ext_articles/f81d63cb.ext.json)
-
----
-
-### Appointments to 2100 new Grama Niladhari
-
-*2024-05-08 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196404) · `si`
-
-Appointment letters for 2100 new Grama Niladhari were presented at a function. President Ranil Wickremesinghe emphasized the importance of agriculture for the economy. The President educated the new Grama Niladhari on government and heritage programs to improve low-income areas. The President also highlighted the success of the development program in Yala and Maha seasons of 2022-2023.
-
-🟩
-
-The appointment letters have been made for 2100 recruited as the new Grama Niladhari.
-
-The appointment letters were presented at a function at Temple Trees this morning, the Presidential Media Unit said.
-
-The Department of Examinations was granted the highest marks at Divisional Secretariat by December 2, 2023, the Grama Niladhari appointments were handed over to 2100 applicants.
-
-President Ranil Wickremesinghe said that the country's economy cannot be strengthened without developing agriculture.
-
-එබැවින් රජයේ කෘෂි නවීකරණ වැඩසටහන ඇතුළු ග්‍රාමීය ආර්ථිකය දියුණු කිරීමට රජය ආරම්භ කළ සියලු වැඩසටහන් සාර්ථක කර ගැනීමට බිම් මට්ටමේ රාජ්‍ය නිලධාරීන්ගේ කැපවීම අත්‍යාවශ්‍ය බවද එහිදී ජනාධිපතිවරයා අවධාරණය කළේය.
-
-The President has educated new Grama Niladhari, including the Government and heritage programs to improve the low income people and requested the rural economy and actively joins the economy of the area.
-
-...
-
-[Data](articles/330f4d6a.json)
-
-[Extended Data](ext_articles/330f4d6a.ext.json)
-
----
-
-### Youth killed in motorcycle accident in Kahawatta
-
-*2024-05-08 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99086/youth-killed-in-motorcycle-accident-in-kahawatta) · `en`
-
-A teenager has been killed in an accident involving a motorcycle near the 8th mile post on the Bemmulle Gedara Road in Kahawatte Ela, in the Pothuhera police area.
-
-The accident had occurred as the motorcyclist, who was traveling from Bemmulle Gedara towards Kahawatta, had lost control of the motorcycle, causing it to veer off the road and fall into the Ginneriya Bridge.
-
-Both the motorcycle rider and the pillion rider had sustained injuries in the incident and were admitted to Kurunegala Hospital.
-
-However, the pillion rider had succumbed to his injuries after admission to the hospital.
-
-The body of the deceased, a 19-year-old resident of the Wadakada area, has been placed in the Kurunegala Hospital.
-
-◼️
-
-[Data](articles/4db35aec.json)
-
-[Extended Data](ext_articles/4db35aec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 01:33:50**
+As of **2024-05-10 01:51:46**
 
 ## Newspaper Stats
 
-*Scraped **23,046** Articles*
+*Scraped **23,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
 virakesarilk | 3,424
-dailymirrorlk | 3,622
+dailymirrorlk | 3,625
 adaderanasinhalalk | 3,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,046 (100.0%) of 23,046 articles have been extended.
+23,046 (100.0%) of 23,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Collective bargaining, a viable alternative for industrial peace
+
+*2024-05-10 01:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Collective-bargaining-a-viable-alternative-for-industrial-peace/172-282289) · `en`
+
+A strike by health sector workers of the General Hospital-Colombo.
+
+The legal recognition of the fundamental rights of trade unions in this country has been derived from Article 14(1) b, c and d in chapter 3 of the Constitution of Sri Lanka, the ILO Conventions 87 and 98 ratified by the Government of Sri Lanka, the Trade Union Ordinance and the Industrial Disputes Act of Sri Lanka and subsequent amendments thereto emerged from time to time.
+
+...
+
+[Data](articles/d5ba9369.json)
+
+---
+
+### How filmmakers and lawmakers view people’s trust - EDITORIAL
+
+*2024-05-10 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-filmmakers-and-lawmakers-view-peoples-trust-EDITORIAL/172-282288) · `en`
+
+Sri Lankans may be wary of trusting their instincts given their bad experiences with politicians. This is a country where the majority of the citizenry hasn’t had the fortune of receiving a university education. Hence, for some of them, trust must be built on instinct.
+
+This instinct is the tool people relied on when electing Gotabaya Rajapaksa as president. He was the last Executive of this country who was elected through the vote of the people. The instinct in people that this president would deliver proved the former horribly wrong.
+
+This is a country where its regime initiates programmes in a hurry and then repents. The latest is the new visa system where users are subject to paying higher fees. The new visa portal- which operates online- replaces the old system where visas were issued more efficiently through an Electronic Travel Authorization system. Now there is all-round criticism aimed at the new visa system.
+
+...
+
+[Data](articles/fe69f752.json)
+
+---
+
+### Netanyahu in Rafah trap after ceasefire breakthrough
+
+*2024-05-10 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Netanyahu-in-Rafah-trap-after-ceasefire-breakthrough/172-282287) · `en`
+
+Israeli forces operating in Rafah in the southern Gaza Strip. (Pic by Israeli Army via AFP
+
+With or without a ceasefire deal, Israel has vowed to launch its grand invasion into Rafah, the Gaza Strip’s southernmost 64-square-kilometre area, where more than 1.5 million repeatedly battered and displaced Palestinians are crammed. Israeli troops have moved into Rafah and are now controlling the eastern part of the Rafah border with Egypt.
+
+Those who closely follow Israel’s genocidal campaign in Gaza know that Rafah has been under regular Israeli bombardments almost from the beginning of the war, even though the Benjamin Netanyahu government had declared southern Gaza, including Rafah, a safe zone and urged the people in northern Gaza to move there.
+
+...
+
+[Data](articles/9f0a5912.json)
+
+---
 
 ### Fireworks plant explosion: 10 killed
 
@@ -2243,85 +2289,5 @@ Sri Lanka’s key parties are gearing up for elections where some parties are ex
 [Data](articles/2e1591d3.json)
 
 [Extended Data](ext_articles/2e1591d3.ext.json)
-
----
-
-### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
-
-*2024-05-09 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
-
-Over 200 Sri Lankan soldiers died in the Russian-Ukraine conflict, with hundreds more injured. A former soldier revealed that these men, recruited for foreign work, were killed on the Russian border. The conflict involved former officials and was orchestrated by an Indian citizen, Rames, with a Tamil-speaking accomplice in Russia. An Indian woman, resembling a lawyer, suggested that Sri Lankans should sign Russian documents to join the Wagner mercenary group.
-
-🟩
-
-A former soldier who fled the scene said hundreds of former soldiers who had been recruited from Sri Lanka for foreign work were killed in the murders on the Russian border.
-
-In an interview with a television, he said that more than 200 former soldiers from Sri Lanka have died and the same number are being treated in hospitals like Donetsk.
-
-He also said that the former retired former officials chose me to work at the Russian Ukraine battlefield.
-
-The Indian citizen Rames is the mastermind of the activities and said that a person who spoke in Tamil in Russia greeted us.
-
-An Indian woman who looked like a Attorney -at -Lawyer who said that Sri Lankans going to tourists should be signed in a Russian language document to be included in the Wagner mercenary for the recruitment of the Wagner mercenary.
-
-He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 days.
-
-◼️
-
-[Data](articles/36f33d98.json)
-
-[Extended Data](ext_articles/36f33d98.ext.json)
-
----
-
-### Indiana arrested for kicking down 14.200 million from airport
-
-*2024-05-09 14:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 147ක-රන්-මාල-දෙකක්-ගුවන්තොටින්-පන්නන්න-ගිය-ඉන්දියානුවා-අල්ලයි/11-409524) · `si`
-
-A 36-year-old Indian businessman was arrested at the airport for attempting to smuggle 14.2 million in rupees, weighing about 75g, to Sri Lanka. He was caught trying to leave Dubai on a SriLankan Airlines flight at 04:55 on 04/09. His luggage was found taped shut, and he was handed over to the Katunayake airport for further investigation.
-
-🟩
-
-A Indian national who weighs about 75 g of rupees of Rs.Been arrested by the.
-
-He is a 36 year old businessman who lives in Tricki in Tamil Nadu. He is also being carried out in the airport, telephone parts to Sri Lanka.
-
-He was 04.55 on the morning of 04/09, from Dubai to SriLankan Airlines.
-
-The airports carrying his luggage Treley has been pasted with Cello tape and tried to get out of the airport.
-
-The Indian national has been handed over to the Katunayake airport with the two golden fish he had taken to investigate further investigations.
-
-◼️
-
-[Data](articles/478f059a.json)
-
-[Extended Data](ext_articles/478f059a.ext.json)
-
----
-
-### Malli is murdered at home
-
-*2024-05-09 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196435) · `si`
-
-Prasanna Kumara, known as Hamilkanda Malli, was killed in his home in Kurudadakanda, Galle, by a sword-wielding suspect. The murder, linked to a drug trafficking dispute, also targeted Malli's brother.
-
-🟩
-
-A man was killed in a sharp instrument in Kurudadakanda area in the Kurudadakanda area in Galle, Galle, Galle today (09).
-
-The man was hit by a sword while he was sleeping in his home.
-
-The suspect who has jumped from the area has also launched a sword on the elder brother of the deceased.
-
-The deceased has been identified as Prasanna Kumara alias Hamilkanda Malli, a resident of Kurundakanda, Thatota.
-
-The murder had been carried out due to a clash at a drug trafficking.
-
-◼️
-
-[Data](articles/4d6771e4.json)
-
-[Extended Data](ext_articles/4d6771e4.ext.json)
 
 ---

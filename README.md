@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 21:33:43**
+As of **2024-05-09 21:52:53**
 
 ## Newspaper Stats
 
-*Scraped **23,019** Articles*
+*Scraped **23,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,957
+adalk | 1,958
 tamilmirrorlk | 2,693
 adaderanalk | 2,700
 virakesarilk | 3,424
-dailymirrorlk | 3,613
-adaderanasinhalalk | 3,686
+dailymirrorlk | 3,617
+adaderanasinhalalk | 3,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,018 (100.0%) of 23,019 articles have been extended.
+23,019 (100.0%) of 23,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### රුසියානු - යුක්‍රේන යුද්ධයට ගොස් පැන ආ ශ්‍රී ලාංකිකයෙක් කරුණු රැසක් හෙළිකරයි
+
+*2024-05-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196454) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරටින් නීතිවිරෝධී ලෙස ගොස් ඉන් පැන ආ ලාංකිකයින් දෙදෙනකු 'අද දෙරණ' සමග කරුණු රැසක් හෙළි කළේය.
+
+එහිදී ඔවුන් පැවසුවේ යුද බිමේදී තුවාල සිදුවන සාමාජිකයින් ද යළි යුද බිමට යැවීමට තරම් ඔවුන් කුරිරු බවය.
+
+"අපේ ආර්ථික ගැටලු නිසා තමයි අපි ඒ වගේ තැනකට ගියේ. අපි දන්නේ නැහැ කිසිම දෙයක්. කැලයක් මැදට ගිහින් දැම්මා. යුද්ධයකටත් වැඩිය ඒක සියදිවි නසා ගැනීමක්. නැවත පැමිණීමක් නැහැ. යුක්‍රේන සොල්දාදුවෝ හදපු බංකර්වල තමයි අපි දවල් දවසේ ඉන්නේ. රෑට අපි ගමන් කරනවා. ඩ්‍රෝන ප්‍රහාරයක් වැදිලා කිලෝමීටර් එකහමාරක් විතර මම බඩගෑවා. ලංකාවෙදි භාවිතා කරපු යුද උපක්‍රම ශිල්ප සියල්ලම මම භාවිත කළා. අවසානයේ නැවත මම මගේ මව් රටට ආවා."
+
+මේ අතර මිනිස් ජාවාරම්කරුවන් රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරටින් නීතිවිරෝධී ලෙස යවන ලද 06 දෙනෙකු මියගොස් ඇතැයි විමර්ශන මගින් අනාවරණ කරගෙන තිබෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා අද (09) පැවසීය.
+
+2022 පෙබරවාරි 24 වනදා රුසියානු හමුදා යුක්‍රේන භූමිය ආක්‍රමණය කිරීමත් සමග රුසියානු යුක්‍රේන යුද්ධය ආරම්භ වුණි.
+
+...
+
+[Data](articles/12d804b3.json)
+
+---
+
+### I am coming back, says Diana
+
+*2024-05-09 21:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-coming-back-says-Diana/108-282262) · `en`
+
+Colombo, May 09 (Daily Mirror) - Former State Minister Diana Gamage, whose parliamentary seat was recently declared illegal by the Supreme Court over her citizenship issue, expressed her determination to return to the political arena.
+
+"I am coming back to politics. I will not leave the country," Gamage asserted, dismissing any notion of retreat despite the legal setback.
+
+Emphasizing her adherence to the law, Gamage told a news briefing today (09) that “I respect the law. However, I will prove my innocence," she affirmed.
+
+Gamage also accused the opposition leader of lacking respect for women.
+
+Despite the legal and personal challenges she faces, Gamage pledged her ongoing support for Ranil Wickremesinghe's political journey, indicating her commitment to the political faction led by Wickremesinghe.
+
+◼️
+
+[Data](articles/c3f392ca.json)
+
+---
+
+### New special unit to monitor Sri Lankan involvement in Russia-Ukraine conflict
+
+*2024-05-09 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-special-unit-to-monitor-Sri-Lankan-involvement-in-Russia-Ukraine-conflict/108-282260) · `en`
+
+Colombo, May 9 (Daily Mirror) - The Ministry of Defence has announced the establishment of a special unit to gather information on the human trafficking of retired Sri Lankan military personnel to the Russia-Ukraine war through illegal channels.
+
+Accordingly, the Defence Secretary requests the family members of the concerned to provide information on retired Sri Lankan military personnel who have joined the Russia-Ukraine war via various routes, including the dates of their departure, persons and institutions that had coordinated their passages etc. to the following telephone  No: 0112441146.
+
+The Defence Secretary also requests the public to provide information on individuals involved in human trafficking, those who support it and any relevant information to the above phone number.
+
+◼️
+
+[Data](articles/e155929c.json)
+
+---
+
+### මුජිබර්ගේ නම ගැසට් කරයි
+
+*2024-05-09 20:56:40* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්ගේ-නම-ගැසට්-කරයි/11-409542) · `si`
+
+ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රීධුරය අහෝසි වීම හේතුවෙන් සමගි ජන බලවේගයේ හිස්වූ ජාතික ලැයිස්තු මන්ත්‍රීධුරය සඳහා නම් කළ මුජිබර් රහුමාන් මහතා මන්ත්‍රීවරයෙක් ලෙස පත්කර ඇති බව සඳහන් කරමින් මැතිවරණ කොමිෂින් සභාව විසින් අතිවිශේෂ ගැසට් නිවේදනයක් අද (09දා) නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/c03599d1.json)
+
+---
+
+### Two Ambassadors, High Commissioner meet Anura Kumara
+
+*2024-05-09 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Ambassadors-High-Commissioner-meet-Anura-Kumara/108-282259) · `en`
+
+Colombo, May 09 (Daily Mirror)- Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, Ambassador to Switzerland Siri Walt and South African High Commissioner to Sri Lanka Sandile Schalk met National People's Power (NPP) leader Anura Kumara Dissanayake this afternoon.
+
+The meeting took place at the JVP head office where the First Secretary (Political Affairs) of the Japanese Embassy Murata Shinichi, Second Secretary (Political Affairs) of the South African High Commission Zanethemba Tshangela and the First Secretary (Political Affairs) of the Switzerland Embassy Justine Boillat were present.
+
+NPP members Dr. Rizwi Sally, Saroja Paulraj, Ramalingam Chandrasekar and Attorney-at-Law Harshana Nanayakkara attended the meeting.
+
+Matters concerning inter-racial peace and reconciliation were discussed at length, party sources said.
+
+The NPP representatives pointed out that the NPP was not prepared to use racism for political ends.
+
+...
+
+[Data](articles/cdc48d9c.json)
+
+---
 
 ### Sri Lankans who died in the Russian -Ukraine war
 
@@ -76,21 +164,41 @@ However, Bhanuka Rajapakse has nominated as an additional player. Vijayakantha V
 
 ---
 
-### மீண்டும் அரசியலுக்கு வருவேன்! - டயானா கமகே
+### Mujibur Rahuman gazetted as MP
+
+*2024-05-09 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-Rahuman-gazetted-as-MP/108-282261) · `en`
+
+Colombo, May 09 - The Samagi Jana Balavegaya has nominated Mujibur Rahuman to fill the void left in Parliament following the disqualification of Diana Gamage as a Member of Parliament.
+
+This nomination was formalized through a gazette notification, marking Rahuman's ascent to the parliamentary seat.
+
+◼️
+
+[Data](articles/fbc9d9d7.json)
+
+---
+
+### I'll come back to politics again!- Diana Kamage
 
 *2024-05-09 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183094) · `ta`
 
-பாராளுமன்ற உறுப்பினர் பதவியை இழந்த டயானா கமகே வியாழக்கிழமை (09) விசேட ஊடகவியலாளர் மாநாட்டிற்கு அழைப்பு விடுத்துள்ளார்.
+Diana Kamage, ousted from her state minister post, faces legal hurdles but remains committed to politics, vowing to return to parliament and support the president.
 
-இராஜாங்க அமைச்சராகப் பணியாற்றிய டயானா கமகே, இந்நாட்டின் பாராளுமன்றத்தில் அமரக்கூடிய சட்டத் தகைமை எதுவும் கிடையாது என உயர் நீதிமன்றம் புதன்கிழமை (08) தீர்ப்பளித்துள்ளது.
+🟩
 
-இதேவேளை, முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே வெளிநாடு செல்வதற்கு கொழும்பு நீதவான் நீதிமன்றம் வியாழக்கிழமை (09) தடை உத்தரவு ஒன்றை பிறப்பித்துள்ளது.
+Diana Kamage, who lost his post, called for a special media conference on Thursday (09).
 
-"எனது அரசியல் பயணம் இத்துடன் நிற்காது. வெகு காலத்திற்குள் இந்த பாராளுமன்றம் கலைக்கப்படும். எதிர்காலத்தில் நான் கண்டிப்பாக அரசியலுக்கு வருவேன். நான் எப்போதும் ஜனாதிபதியை ஆதரிப்பேன். நான் மீண்டும் நாடாளுமன்றத்திற்கு வருவேன்" என்றார்.
+The Supreme Court on Wednesday (08) ruled that Diana Kamage, who served as the Minister of State, had no legal qualification in the country's parliament.
+
+Meanwhile, the Colombo Magistrate's Court on Thursday issued an injunction order to go abroad for former Minister of State Diana Kamage.
+
+“My political journey will not stand with this. This parliament will be dissolved within a long time. I will definitely come to politics in the future. I will always support the president. I will come back to parliament. ”
 
 ◼️
 
 [Data](articles/f6ae6eda.json)
+
+[Extended Data](ext_articles/f6ae6eda.ext.json)
 
 ---
 
@@ -2163,143 +2271,5 @@ However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Ma
 [Data](articles/695fe9c8.json)
 
 [Extended Data](ext_articles/695fe9c8.ext.json)
-
----
-
-### Member is empowered the election commission
-
-*2024-05-09 12:28:19* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රිධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-409519) · `si`
-
-The Parliament has notified the Elections Commission of a parliamentary seat vacancy due to Mrs. Dianey Gamage's abolition. The National List of Parliamentary Member of Parliament Diyain Gamage has informed Parliamentarian Kushani Rohanajera and General Secretary Kushani Rohana about this.
-
-🟩
-
-The Parliament has informed the Elections Commission that there is a vacancy of a parliamentary parliamentary parliamentary seat due to the abolition of Mrs. Dianey Gamage.
-
-Parliamentarian Kushani Rohanajera, General Secretary Kushani Rohana, has been informed by the National List of Parliamentary Member of Parliament Diyain Gamage..
-
-◼️
-
-[Data](articles/05d84f31.json)
-
-[Extended Data](ext_articles/05d84f31.ext.json)
-
----
-
-### President reveals of public worker salary
-
-*2024-05-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196430) · `si`
-
-President Ranil Wickremesinghe announced in Parliament that the government's revenue has not increased enough for 2024 to support public sector wage revisions. He emphasized the need for economic stability and recovery, highlighting the IMF program's positive impacts since September 2022. The President stressed the importance of increasing public income and avoiding economic crises, hinting at potential wage adjustments in 2024 based on economic growth and revenue increases.
-
-🟩
-
-President Ranil Wickremesinghe says that the government revenue has not been increased to 2024 to work in 2024.
-
-The President made this statement in Parliament this morning with regard to the economy of the country.
-
-He said that the year 2024 is a re-examining public sector wages based on the growing form as well as state revenue.
-
-...
-
-[Data](articles/ddaf9645.json)
-
-[Extended Data](ext_articles/ddaf9645.ext.json)
-
----
-
-### Govt. provides USD 25 million for Smart Climate Irrigation Agriculture Project
-
-*2024-05-09 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-provides-USD-25-million-for-Smart-Climate-Irrigation-Agriculture-Project/108-282240) · `en`
-
-Colombo, May 9 (Daily Mirror) - The government had decided to provide USD 25 million for the Smart Climate Irrigated Agriculture Project (SCIAP) for this year in many difficult districts through this project, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-These funds were received following a request made by him to the President at the review meeting held yesterday at the Agriculture Ministry, he added.
-
-The SCIAP, which is being implemented on foreign funds under the Agriculture and Plantation Industries Ministry, is scheduled to end by August this year.
-
-Minister Amaraweera said that the spending of the USD 25 million allocated for this year should be started immediately and that attention should also be paid to the reconstruction of lakes in the respective districts as well as the provision of new agricultural technical equipment.
-
-...
-
-[Data](articles/f7534e46.json)
-
-[Extended Data](ext_articles/f7534e46.ext.json)
-
----
-
-### There is a three percent economic growth this year
-
-*2024-05-09 12:22:52* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-සියයට-තුනක-ආර්ථික-වර්ධනයක්/11-409518) · `si`
-
-Sri Lanka's economic growth is at 3%, with President Ranil Wickremesinghe aiming for developed status. Despite challenges, he assures a solid plan and international support. Inflation is at 1.5%, GDP is expected to grow, and interest rates have dropped. The exchange rate is stable, and land ownership programs continue.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka was expedited as a developed country in the world, as a developed country in the world, as a developed country in the world.
-
-President Ranil Wickremesinghe said that he had a proper plan, experience and international relationship, despite a single member of Parliament, he had a proper plan, the country.
-
-The economic growth of the year is expected to be a formal economic growth in a formal local and foreigner, which has begun to reconstruct the fallen country.The President said that the similar predictions have been made similarly predictions.
-
-The country's inflation has been converted to 1.5%, and a shortage of GDP in 2023, a percentage of GDP in 2023, a surplus in the balance of GDP 2023The President pointed out that the interest rate has fallen into 10% to -13%.
-
-...
-
-[Data](articles/60b218f9.json)
-
-[Extended Data](ext_articles/60b218f9.ext.json)
-
----
-
-### Saudi Ambassador visited Eravur at the invitation of the Governor of the North Western Province
-
-*2024-05-09 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183044) · `ta`
-
-Saudi Ambassador Khalid Hamood Nasser al-Dasam al-Kahdani, invited by North Western Province Governor Hafiz Nasir Ahmad, visited the Ulum Charity College in Eravur, Batticaloa. He welcomed Habibi students who had memorized the Quran.
-
-🟩
-
-Saudi Arabian Ambassador to Sri Lanka Khalid Hamood Nasser al-Dasam al-Kahdani visited the invitation of North Western Province Governor Hafiz Nasir Ahmad at the Ulum Charity College of Gulliyyadu Taril, who is operating in Eravur, Batticaloa.
-
-Habibi students who memorized the Quran were welcomed by the Saudi Ambassador to Sri Lanka.
-
-◼️
-
-[Data](articles/35e90488.json)
-
-[Extended Data](ext_articles/35e90488.ext.json)
-
----
-
-### There is no attention to the kid of the child who shared the floral flowers
-
-*2024-05-09 12:02:21* · [`adalk`](https://www.ada.lk/breaking_news/චිනයම-වසඟයට-ගත්-මල්-විකුණන-ළමයා-ගැන-පාලකයන්ගේ-අවධානයක්-නෑ/11-409517) · `si`
-
-The text discusses a child who gained attention for his videos showcasing his focus on promoting Sri Lanka's floral tourism, yet the government, including the Minister of Traveling, has not acknowledged or supported him. The child's efforts to highlight Sri Lanka's tourism potential, particularly through his videos of tigers in China, have gone unnoticed by the government and the public. The narrative questions the government's lack of interest in supporting such initiatives, highlighting a disconnect between the government and the people, especially the younger generation.
-
-🟩
-
-The Minister of Traveling or the rulers have not paid any attention to the child who has focused on the most focused flowers in the world to promote tourists.
-
-Mr. Sunil Handunneththi was addressing the Congregation in Hatton yesterday (8) afternoon.
-
-"The kid's videos have been speaking about a child of the kid's Vidyalayana, so that the kid's video has been watching over 13 tigers in China.
-
-Haven't the kids selling flowers formerly sold in the Ramboda, Nuwara Eliya?The kid's videos are known and discussing Sri Lanka's tourism industry as a random event.
-
-But did the traveling minister talk about this boy?Harin Fernando or anyone in the government talks?
-
-After I say this, you do not know if the child is shown that Ranil's platform is the boy of Ranil's platform.
-
-No one in the government talks about the child who arrived on top of Sri Lanka and arriving in the country of the country.
-
-Brother Lal Kantha, our party's word mistakes are mistaken about Diana, the party is acting.
-
-...
-
-[Data](articles/6b3cfdc0.json)
-
-[Extended Data](ext_articles/6b3cfdc0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 06:44:51**
+As of **2024-05-09 07:11:21**
 
 ## Newspaper Stats
 
-*Scraped **22,831** Articles*
+*Scraped **22,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,92 @@ adalk | 1,930
 tamilmirrorlk | 2,671
 adaderanalk | 2,678
 virakesarilk | 3,398
-dailymirrorlk | 3,582
+dailymirrorlk | 3,589
 adaderanasinhalalk | 3,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,828 (100.0%) of 22,831 articles have been extended.
+22,831 (100.0%) of 22,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### අදත් හවසට තද වැසි
+### No legal barrier for non Sri Lankans to register political parties; Mahinda Dehapriya
+
+*2024-05-09 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-barrier-for-non-Sri-Lankans-to-register-political-parties-Mahinda-Dehapriya/108-282217) · `en`
+
+Colombo, May9 (Daily Mirror) - There is no legal barrier for the non-citizens to register a political party, Former Chairman of Elections Commission Mahinda Deshapriya said yesterday.
+
+“Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election while the law also prohibits a non-citizen to vote in an election,” Deshapriya told Daily Mirror.
+
+Also, he said Former State Minister Diana Gamage has not signed nomination papers of SJB and that she has never been the general secretary of Ape Jathika Peramuna.
+
+“Ape Jathika Peramuna was formed by late MPs Mangala Samaraweera and late Sripathi Sooriarachchi when they broke off the political alliance with former President Mahinda Rajapaksa. The general secretary of Ape Jathika Peramuna was Ruwan Ferdinandas while Diana Gamage’s husband took over the post later.
+
+◼️
+
+[Data](articles/d04aa5eb.json)
+
+---
+
+### Govt’s pre-poll development drive met with stiff resistance from Election Commission
+
+*2024-05-09 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govts-pre-poll-development-drive-met-with-stiff-resistance-from-Election-Commission/155-282215) · `en`
+
+Colombo, May 9 (Daily Mirror) - The government’s development drive ahead of the presidential election met with stiff resistance from the Election Commission (EC) which barred the involvement of political representatives of the ruling side in any such activities, an official said.
+
+The EC looked into a complaint from the People’s Action for Free and Fair Elections (PAFFREL), a poll observer group, about the impact of the involvement of politicians to carry out election propaganda in the guise of carrying out development work at divisional secretariats areas.
+
+...
+
+[Data](articles/13b083f4.json)
+
+---
+
+### Heavy rains in the evening today
 
 *2024-05-09 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196415) · `si`
 
-දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Heavy rains expected tonight across the island, with showers in the North, Sabaragamuwa, Uva, and Eastern Provinces. The Met Department warns of heavy rains in some areas, advising the public to stay safe from lightning and strong winds.
 
-උතුරු-මැද, මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-බස්නාහිර සහ දකුණු පළාත්වල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇති වේ.
+In most parts of the island. The Met Department announced that there will be showers at several places about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+MM is in some places in the North -id, Sabaragamuwa, Uva and Eastern Provinces. Heavy rains can occur at more than 75.
+
+Showers will occur at the Western and Southern provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9946095b.json)
+
+[Extended Data](ext_articles/9946095b.ext.json)
+
+---
+
+### SJB legitimacy at stake after SC ruling on Diana: Kanchana
+
+*2024-05-09 03:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-legitimacy-at-stake-after-SC-ruling-on-Diana-Kanchana/108-282218) · `en`
+
+Colombo, May 9 (Daily Mirror) - Another court case with regard to Diana Gamage is on the cards as anyone could file another court case calling the Supreme Court to declare whether Samagi Jana Balawegaya (SJB) MPs could remain in Parliament as per yesterday’s judgement, Minister Kanchana Wijesekera told Parliament yesterday.
+
+“One could question whether Gamage who has been declared as a non-citizen of this country could register a political party. One could also question whether the MOU signed by SJB General Secretary with Ms.Gamage is legally valid.
+
+Further the validity of nomination papers signed by Gamage for certain MPs is also questionable,” the Minister said.
+
+“Some SJB MPs whom I chatted with at the House canteen informed me that they were worried about yesterday’s judgment of the Supreme Courts which ruled that Gamage cannot function as an MP as she is not a citizen of Sri Lanka.
+
+They are concerned since they may have to give up their MP posts,” he added.
+
+...
+
+[Data](articles/9a4cded3.json)
 
 ---
 
@@ -390,17 +448,45 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### மொட்டு இன்று திறப்பு
+### The bud is open today
 
 *2024-05-09 01:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-இன்று-திறப்பு/175-337002) · `ta`
 
-கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ, பத்தரமுல்லையில் இந்த செயற்பாட்டு அலுவலகத்தை வியாழக்கிழமை (09) திறந்து வைக்கவுள்ளார்.
+Mahinda Rajapaksa will open a party office in Battaramulla on Thursday to prepare for the presidential and general elections.
 
-ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தலுக்கு தொகுதி மட்டத்தில் கட்சியை தயார்படுத்தும் வகையில் இந்த செயற்பாட்டு அலுவலகத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளது.
+🟩
+
+Party leader Mahinda Rajapaksa will open the office in Battaramulla on Thursday (09).
+
+It has been decided to open the office to prepare the party at the constituency level for the presidential and general election.
 
 ◼️
 
 [Data](articles/7bce3bbe.json)
+
+[Extended Data](ext_articles/7bce3bbe.ext.json)
+
+---
+
+### Sri Lanka targets economic transition achieving net zero
+
+*2024-05-09 01:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-targets-economic-transition-achieving-net-zero/108-282214) · `en`
+
+President Ranil Wickremesinghe addresses the inaugural session of the Sri Lanka Climate Summit in Colombo
+
+Plans are underway to introduce legislation in Parliament, which would ensure that all government policies focus on the transformation to a highly competitive export-oriented economy, President Ranil Wickremesinghe said.
+
+One of the items in the bill, in carrying out this transformation, is to ensure that we achieve net zero by 2050.
+
+“And I can tell you we will achieve it before that. Sri Lanka can do it,” said Wickremesinghe.
+
+“So, in making our policies, which are going to affect all of you, not merely a transformation of an economy into export orientation but into an economy that is based on achieving net zero,” he said.
+
+Wickremesinghe was addressing the inaugural session of the Sri Lanka Climate Summit, hosted by the Ceylon Chamber of Commerce, at Shangri-La, Colombo this week.
+
+...
+
+[Data](articles/3ed909a2.json)
 
 ---
 
@@ -586,6 +672,24 @@ The Minister concerned is an unelected parliamentarian whose name has figured in
 
 ---
 
+### Government must fully digitalise Sri Lanka Customs
+
+*2024-05-09 00:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-must-fully-digitalise-Sri-Lanka-Customs/108-282212) · `en`
+
+The government must fully digitalise the services offered by the border agencies, including Sri Lanka Customs, to ensure paperless trade, which will facilitate exports and bring down the cost of living.
+
+Although Sri Lanka Customs smoothly operated during the pandemic, offering fully digitalised services, the agency reverted to the manual process in the post-pandemic period, leaving room for corruption, along with delays and additional costs.
+
+“Successive governments don’t have a drive and vision to go for digitalisation. Every single rupee incurred in port transport cost comes back to you. It’s passed down to the customer, so there goes the cost of living.
+
+Through this press conference, we urge the government to look at a complete digitalisation, not a partial digitalisation because it’s a no go in today’s world economy,” Global Shippers’ Forum Chairman Sean Van Dort urged.
+
+...
+
+[Data](articles/381b3ab9.json)
+
+---
+
 ### The political ‘animals’  we choose
 
 *2024-05-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-political-animals-we-choose/172-282189) · `en`
@@ -627,6 +731,8 @@ The Constitution of Sri Lanka does not directly say that a Tamil or a Muslim can
 ...
 
 [Data](articles/6bb6127c.json)
+
+[Extended Data](ext_articles/6bb6127c.ext.json)
 
 ---
 
@@ -2145,121 +2251,5 @@ Inquiry on the reasons for reducing the use of alcohol, 71.5% of the participant
 [Data](articles/dc4c1d0f.json)
 
 [Extended Data](ext_articles/dc4c1d0f.ext.json)
-
----
-
-### Basmati finds two varieties of failure
-
-*2024-05-08 14:16:56* · [`adalk`](https://www.ada.lk/breaking_news/බාස්මති-සඳහා-අදේශක-වි-ප්‍රභේද-දෙකක්-සොයා-ගනියි/11-409501) · `si`
-
-Research successfully identified two Basmati rice substitutes, 306 and AT 309, recommended for Sri Lanka. Despite challenges, these varieties are now popular in Sri Lanka, thanks to the Batalagoda Paduwa Research and Training Institute.
-
-🟩
-
-Two substitutes for Basmati rice have been identified to identify two varieties of rice and identified.
-
-The research carried out in this regard has been successful and the two Basmati substituted paddy varieties can be released for Sri Lanka under the recommendations of the crop release committees.
-
-According to the institute, it was not possible to build a variety of research to produce a variety of research to produce Basmati rice, but it was not possible to produce a variety of successful research.
-
-The two varieties have already introduced two varieties of paddy in 306 and AT 309 as two varieties of Basmathi rice, and the varieties of paddy have been popular in the Batalagoda Paduwa Research and Training Institute.
-
-◼️
-
-[Data](articles/c059edff.json)
-
-[Extended Data](ext_articles/c059edff.ext.json)
-
----
-
-### Diana's chair to Mujiber
-
-*2024-05-08 14:09:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-පුටුව-මුජිබර්ට/11-409500) · `si`
-
-Diana Gamage's seat is taken by Mujibar Rahman, who resigned from Parliament to run for Colombo mayor. Rahman, a former MP, is appointed to the national list.
-
-🟩
-
-It is reported that the party has decided to appoint MP Mujibar Rahman, who was given the post of MP Diana Gamage, to abolish the post of Deputy Member.
-
-Although Mrs. Diana Gamage joins the government, she is a member of the national list of the people's force.
-
-Although Mr. Mujibar Rahman was selected to parliament, he resigned from the Parliament to contest Colombo mayor.
-
-Accordingly, Mujibur Rahman is to be appointed to the national list of the empty.
-
-◼️
-
-[Data](articles/fbde7d71.json)
-
-[Extended Data](ext_articles/fbde7d71.ext.json)
-
----
-
-### Oat Doy
-
-*2024-05-08 13:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஞ்சள்-கோட்டில்-மாணவனை-பந்தாடிய-ஓட்-டோ/76-336968) · `ta`
-
-A student crossing the road was hit by a high-speed three-wheeler, severely injuring them. The accident occurred at a pedestrian crossing near Kottagala Tamil Maha Vidyalaya. The driver was arrested and the victim was admitted to Kotagala District Hospital, then transferred to Kandy Teaching Hospital.
-
-🟩
-
-A high -speed three -wheeler (Otto), a student who was crossing the road at the pedestrian crossing (yellow line), has been recorded on the Sisirvi camera.
-
-A student who was severely injured when he was hit by a three -wheeler from Welimada has been admitted to the Kotagala District Hospital and transferred to the Kandy Teaching Hospital for further treatment.
-
-The accident took place at a pedestrian crossing in front of the Kottagala Tamil Maha Vidyalaya on the Hatton-Nuwara Eliya main road on Tuesday (07) at 12 noon.
-
-A schoolgirl who was attending a private class, who was trying to cross the street, was dragged into a distance of a school student when a high -speed school student crashed into a distance.
-
-The student was injured.
-
-Dimbulla-Pathana police arrested the driver of the three-wheeler on suspicion and said that the suspect was to be produced before the Hatton Magistrate.
-
-◼️
-
-[Data](articles/bf4e5aa4.json)
-
-[Extended Data](ext_articles/bf4e5aa4.ext.json)
-
----
-
-### Sri Lanka to lose 20-pct from $50 tourist visa to VFS Global: legislator
-
-*2024-05-08 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lose-20-pct-from-50-tourist-visa-to-vfs-global-legislator-162100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government will no longer earn 50 dollars from a tourist visa but 20 percent would to VFS Global, a private contractor hired without tender to run an electronic visa website, opposition legislator S M Marikkar charged.
-
-Sri Lanka jacked up the price of a standard visa, which was double entry, to 75 dollars from 50 dollars with the advent of the VFS deal, and the firm’s own charges pushed up the cost to 100.77 dollars shocking tourists.
-
-Following intervention by Tourism Minister Harin Fernando, a new single-entry visa was promised for 50 collars.
-
-But an opposition legislator alleged that Sri Lanka would lose 10 dollars out of 50 dollars to VFS Global group and the contract was still in place.
-
-“The government has thrown sand on the face of the people (mooneter weli gahala), trying to convince everyone that things are back to normal now that a 50 dollar visa is now available,” Marikkar charged in pithy Sinhalese.
-
-...
-
-[Data](articles/959c1e01.json)
-
-[Extended Data](ext_articles/959c1e01.ext.json)
-
----
-
-### Mujibur Rahman to Diana's place
-
-*2024-05-08 13:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-இடத்துக்கு-முஜிபுர்-ரஹ்மான்/175-336966) · `ta`
-
-Mujibur Rahman is proposed for the vacant parliamentarian post following Diana Kamage's dismissal.
-
-🟩
-
-The name of former MP Mujibur Rahman has been proposed for the vacant parliamentarian post due to the dismissal of Diana Kamage.
-
-◼️
-
-[Data](articles/fed804b3.json)
-
-[Extended Data](ext_articles/fed804b3.ext.json)
 
 ---

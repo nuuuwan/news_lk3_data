@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 16:18:03**
+As of **2024-05-09 16:33:39**
 
 ## Newspaper Stats
 
-*Scraped **22,971** Articles*
+*Scraped **22,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 1,944
 tamilmirrorlk | 2,689
 adaderanalk | 2,695
 virakesarilk | 3,415
-dailymirrorlk | 3,608
+dailymirrorlk | 3,609
 adaderanasinhalalk | 3,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,962 (100.0%) of 22,971 articles have been extended.
+22,971 (100.0%) of 22,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### எதிர்க்கட்சித் தலைவரின் கேள்விகளுக்கு பதிலளிக்காமல் ஜனாதிபதி சபையை விட்டு சென்றதால் சபையில் சர்ச்சை
+### Inquiry on visa scam: CoPF decides not to divulge information
+
+*2024-05-09 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inquiry-on-visa-scam-CoPF-decides-not-to-divulge-information/108-282253) · `en`
+
+Parliament, May 09 (Daily Mirror)- The Committee on Public Finance (CoPF) has decided not to temporarily divulge any details on the visa fiasco because of its sensitive nature, CoPF Chairman Harsha de Silva said today.
+
+"The examination of the Sri Lanka visa outsourcing contract began at the CoPF in Parliament today. We will meet again on 14 May to continue the discussions. As Chair of the committee, this is all we wish to state to the media, given the ongoing sensitive nature of the matter," Dr. de Silva said.
+
+Dr. de Silva told the Daily Mirror that he will comment and reveal details on the visa scam only after May 14.
+
+Also, he said the Controller General of Immigration and Emigration was asked to look into the breech of personal data. He did not divulge details on it as well.
+
+◼️
+
+[Data](articles/0ce86a74.json)
+
+---
+
+### Controversy in the House as he left the presidential council without answering the questions of the opposition leader
 
 *2024-05-09 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183072) · `ta`
 
-ஜனாதிபதி தனது உரையில் தெரிவித்த சில விடயங்கள் தொடர்பில் தெளிவுப்படுத்தலை கோரி எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச சபையில் கேள்வியெழுப்பி கருத்து தெரிவித்துக்கொண்டிருக்கையில், ஜனாதிபதி ரணில் விக்கிரமசிங்க சபையிலிருந்து  எழுந்து வெளியேறிச் சென்றதால் சபையில் சர்ச்சை ஏற்பட்டது.
+In a contentious House session, Opposition Leader Sajith Premadasa criticized President Ranil Wickremesinghe's speech on the economy, leading to a walkout. The President allowed Opposition Leader Lakshman Kiriella to question Wickremesinghe's speech, but the ruling party's Prime Minister, Prasanna Ranatunga, declined to speak. The Speaker noted that the controversy could have been avoided with a simple clarification request.
 
-பாராளுமன்றத்தில் இன்று வியாழக்கிழமை, நாட்டின் தற்போதைய பொருளாதார நிலைமை தொடர்பாக ஜனாதிபதி ரணில் விக்ரமசிங்க  ஆற்றிய விசேட உரை தொடர்பில்  தெளிவு பெற்றுக்கொள்ள அனுமதி வழங்க முடியுமா என எதிர்க்கட்சி பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல ஜனாதிபதியிடம் கேட்டதற்கு ஜனாதிபதி அதற்கு அனுமதி வழங்கினார்.
+🟩
 
-அதன் பிரகாரம் எதிர்க்கட்சித் தலைவர் சஜித் பிரரேமதாச எழுந்து ஜனாதிபதி தெரிவித்த சில விடயங்களை சுட்டிக்காட்டி, அதனை விமர்சித்துக்கொண்டிருந்தார். அதன்போது ஆளும் கட்சி பிரதம கொறடாவான அமைச்சர் பிரசன்ன ரணதுங்க எழுந்து, உரை தொடர்பில் தெளிவு பெற்றுக்கொள்ளவே முடியும். உரையாற்ற தற்போது இடமளிக்க முடியாது. அவர்களுக்கு ஜனாதிபதியின் உரை தொடர்பில் விவாதம் வேண்டுமென்றால் அதனை கட்சித் தலைவர்கள் கூட்டத்தில் கலந்துரையாடி நடத்தலாம் என்றார்.
+Opposition Leader Sajith Premadasa was questioning the president's speech in his speech, saying that President Ranil Wickremesinghe got up from the House and caused controversy in the House.
+
+The President gave permission to the President of the Opposition Lakshman Kiriella on Thursday, the President of the Opposition, Lakshman Kiriella, whether he could grant permission to clarify the special speech made by President Ranil Wickremesinghe on the current economic situation in the country.
+
+Accordingly, Opposition Leader Sajith Praremadasa got up and criticized the president.. Minister Prasanna Ranatunga, the ruling party's prime minister, can get up and get clarity on the speech. Speaking is not currently accommodated. He said that if they want to debate the president's speech, the party leaders can discuss the meeting.
+
+Following this, when the opposition leader continues to present his opinion, I think it is better if the President has raised the issue of the order on this issue.
 
 ...
 
 [Data](articles/aaa92e8a.json)
+
+[Extended Data](ext_articles/aaa92e8a.ext.json)
 
 ---
 
@@ -85,6 +111,8 @@ The policy was later reversed, but the move hit diplomatic ties with Middle East
 ...
 
 [Data](articles/194dddd9.json)
+
+[Extended Data](ext_articles/194dddd9.ext.json)
 
 ---
 
@@ -150,15 +178,25 @@ The procedure to reduce the electricity bill will be started. So the Public Util
 
 ---
 
-### கிஷோர் நடிக்கும் 'தலைமை செயலகம்' அசல் இணையத் தொடரின் முன்னோட்டம் வெளியீடு
+### Preview of the original web series 'Headquarters' starring Kishore
 
 *2024-05-09 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183052) · `ta`
 
-முன்னணி டிஜிட்டல் தளங்களில் ரசிகர்களுக்காக புதிய விறுவிறுப்பான இணைய தொடர்கள் உருவாகி வெளியாவது தற்போதைய ட்ரெண்ட். அந்த வகையில் ஜீ5 எனும் டிஜிட்டல் தளத்தில் நடிகர் கிஷோர் உள்ளிட்ட தமிழ் திரையுலகத்தின் முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருக்கும் 'தலைமை செயலகம்' எனும் அரசியல் திரில்லர் வகையிலான அசல் இணைய தொடர் வெளியாகிறது. இந்த இணையத் தொடர் எதிர்வரும் 17ஆம் திகதி முதல் ஜீ5 டிஜிட்டல் தளத்தில் ஒளிபரப்பாகிறது. இதனைத் தொடர்ந்து இந்த இணையத் தொடரின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Headquarters," a Tamil web series on G5, stars Kishore and others, focusing on state and central politics, corruption, and party actions. The series, directed by G. Kishore and featuring a star-studded cast, is set to premiere on the 17th. The teaser and preview have been released, highlighting the series' engaging plot and character dialogues.
 
-...
+🟩
+
+New Trend for Fans for Fans on Front Digital Sites. The original web series, 'Headquarters', starring the leading star artists of the Tamil film industry, including actor Kishore on the digital site, G5, is released.. The web series will broadcast on the G5 Digital site from the 17th of this month. This is followed by the preview of the Internet series.
+
+Director G.. Kishore, Shreya Reddy, Bharat, Ramya Nambeesan, Aditya Menon, Darsha Gupta, Siddharth Vipin,. G. Mahendra, Santana Bharathi, Kavitha Bharathi, Kani Kusruti, Nirup Nandakumar. Jibran Vaiboda has composed the music for the video of the White Angle Ravi Shankar.. Producers Radhika Sarathkumar and R.. Sarathkumar has co -produced.
+
+The teaser of the Internet series has been released and the preview has now been released. State Politics +Central Politics +Corruption +Party Action +Police's actions have been a hectic and brilliant, and the characters' speech -speaking verses have made the 'Chief Secretariat' the Internet.
+
+◼️
 
 [Data](articles/2d3a615d.json)
+
+[Extended Data](ext_articles/2d3a615d.ext.json)
 
 ---
 
@@ -256,6 +294,8 @@ State organizations like the Sri Lanka Transport Board can also do emission test
 
 [Data](articles/131923f4.json)
 
+[Extended Data](ext_articles/131923f4.ext.json)
+
 ---
 
 ### The presidential election is from September 17 to October 16
@@ -278,21 +318,29 @@ The Chairman of the Election Commission made this statement on Thursday.
 
 ---
 
-### நானுஓயா ரதல்ல வீதியில் கனரக வாகனங்கள் செல்வதை தடை செய்ய நடவடிக்கை எடுக்க வேண்டும் - மக்கள் கோரிக்கை !
+### Nanuoya should take steps to ban heavy vehicles on Nanuoya Rathalla road - people's demand!
 
 *2024-05-09 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183062) · `ta`
 
-நுவரெலியா- தலவாக்கலை வீதியின் நானுஓயா – ரதல்ல குறுக்கு வீதியின் இருபுறமும் போடப்பட்டுள்ள பாதுகாப்பு இரும்பு வேலி பல இடங்களில் சேதமடைந்துள்ளதாக  வீதியை பயன்படுத்தும் பொது மக்கள் தெரிவிக்கின்றனர்.
+Residents of Nanuoya demand a ban on heavy vehicles on Nanuoya Rathalla road due to frequent accidents and damaged security fences. The Nuwara Eliya District Secretariat has already restricted heavy vehicles, but locals want a complete ban to ensure safety.
 
-ஒருபுறம் செங்குத்தான சரிவு கொண்ட இந்த வீதி பகுதியில் வாகன விபத்துக்கள் தொடர்ந்து இடம்பெறுவதாகவும், பாதுகாப்பு வீதி இரும்பு வேலி இருப்பதால் பல விபத்துக்கள் தவிர்க்கப்பட்டுள்ளதாகவும் அவர்கள் சுட்டிக்காட்டுகின்றனர்.
+🟩
 
-இந்த வீதியில் அடிக்கடி ஏற்படும் வீதி விபத்துகளால் சுமார் ஒரு வருடமாக பேருந்துகள் உள்ளிட்ட கனரக வாகனங்கள் செல்ல தடை விதிக்கப்பட்டிருந்தன. இந்த வீதியில் விபத்துகள் இடம் பெறுவதால் பல இடங்களில் பாதுகாப்புக்காக மண்  மூடைகள் வைக்கப்பட்டு அவையும் சேதமடைந்துள்ளதாகவும் வாகன சாரதிகள் தெரிவிக்கின்றனர்.
+The security iron fence on both sides of the Nanuoya-Ratalla cross road on the Nuwara Eliya-Talawakelle road has been damaged in many places, the general public says.
 
-இவ் வீதியை முறையாக செப்பனிட வீதி அபிவிருத்தி அதிகாரசபை முன் வர வேண்டும் என அப் பகுதியில் உள்ள மக்கள் மற்றும் வாகன சாரதிகள் கோரிக்கை விடுக்கின்றனர்.
+On the one hand, they point out that vehicle accidents continue to occur in the road with a steep collapse and that many accidents have been avoided due to a security road iron fence.
+
+Frequent road accidents on the road were banned for about a year.. Drivers say that the road has been deployed for safety in many places due to accidents on the road.
+
+People and motorists in the Up area are demanding that the road be formally come up with a road development authority.
+
+The Nuwara Eliya District Secretariat has banned heavy vehicles through this road due to frequent accidents.. The Nanuoya police were deployed to protect heavy vehicles through this road.
 
 ...
 
 [Data](articles/77e0d430.json)
+
+[Extended Data](ext_articles/77e0d430.ext.json)
 
 ---
 
@@ -552,6 +600,8 @@ Sri Lanka’s key parties are gearing up for elections where some parties are ex
 
 [Data](articles/2e1591d3.json)
 
+[Extended Data](ext_articles/2e1591d3.ext.json)
+
 ---
 
 ### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
@@ -640,6 +690,8 @@ Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commiss
 
 [Data](articles/25e44fe5.json)
 
+[Extended Data](ext_articles/25e44fe5.ext.json)
+
 ---
 
 ### Presidential poll to be held between September 17, October 16
@@ -693,6 +745,8 @@ The government issued 5,730 liquor licenses under 30 categories by January 2024;
 ...
 
 [Data](articles/d63e789f.json)
+
+[Extended Data](ext_articles/d63e789f.ext.json)
 
 ---
 
@@ -2251,27 +2305,5 @@ Police said they have been arrested by the CID.
 [Data](articles/f8bb59e2.json)
 
 [Extended Data](ext_articles/f8bb59e2.ext.json)
-
----
-
-### Marine heat waves: coral reefs in Sri Lankan waters risk die-offs
-
-*2024-05-09 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Marine-heat-waves-coral-reefs-in-Sri-Lankan-waters-risk-die-offs/108-282216) · `en`
-
-Colombo, May 9 (Daily Mirror) - Coral reefs in the sea around Sri Lanka risk die-offs if the current marine heat level persists for another one month or so, a top scientist said yesterday.
-
-The Indian media reported that an alarming situation of severe coral bleaching had been reported in the Lakshadweep Sea and the Gulf of Mannar.
-
-Asked for a comment in this regard, newly appointed Director General of the National Aquatic Resources Research and Development Agency (NARA) Dr. K.Arulananthan told Daily Mirror the heat level had increased to 31 degrees Celsius and remained for two weeks.
-
-He said NARA did not carry out any inspection on the status of coral reefs in the island waters but bleaching could not be ruled out.
-
-“If the heat level fluctuates between 27-28 degrees Celsius, it will be alright for coral health. However, if the current high level persists for another one month or so, coral deaths can be expected,” he said.
-
-...
-
-[Data](articles/fdad0340.json)
-
-[Extended Data](ext_articles/fdad0340.ext.json)
 
 ---

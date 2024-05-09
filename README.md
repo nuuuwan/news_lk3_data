@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 18:52:43**
+As of **2024-05-09 19:03:25**
 
 ## Newspaper Stats
 
-*Scraped **22,995** Articles*
+*Scraped **23,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,140 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,949
+adalk | 1,951
 tamilmirrorlk | 2,692
 adaderanalk | 2,698
 virakesarilk | 3,420
 dailymirrorlk | 3,611
-adaderanasinhalalk | 3,679
+adaderanasinhalalk | 3,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,992 (100.0%) of 22,995 articles have been extended.
+22,995 (100.0%) of 23,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### டாக்டர் விஜித் குணசேகரவுக்கு விளக்கமறியல்
+### හෙට පාර්ලිමේන්තුවට ගෙනඑන පනත් කෙටුම්පත ගැන පැහැදිලි කරයි
+
+*2024-05-09 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196448) · `si`
+
+විදුලි සංදේශ නියාමන පනත් සංශෝධන කෙටුම්පත හෙට (10) දිනයේ දී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පවසයි.
+
+වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනය කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පත මෙලෙස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+අමාත්‍යවරයා මෙම අදහස් පළ කර සිටියේ ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ජාතික සයිබර් ආරක්ෂණ පනත ද මැයි මාසයේදී කෙටුම්පත් කිරීමට සැලසුම් කර ඇති බව රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/75d092c2.json)
+
+---
+
+### ජනපතිවරණය සැප් 17 හා ඔක් 16 අතර
+
+*2024-05-09 18:40:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-17-හා-ඔක්-16-අතර/11-409532) · `si`
+
+ජනාධිපතිවරයා තොරපත් කර ගැනීම පිළිබඳ පනතේ දැක්වෙන විධිවිධානවලට යටත්ව ජනාධිපතිවරණයේ ඡන්ද විමසීම  සඳහා නාමයෝජනා  කැඳවිම නියමිතකාල සීමාව තුළදී සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+ඡන්ද විමසීම පැවැත් වීම සඳහා  දින නියම කිරීමට  කොමිෂන් සභාවට පැවරී ඇති බලතල  අනුව  2024 ජනාධිපතිවරණයේ ඡන්ද විමසීම සැප්තැම්බර් 17 වැනිදා සහ ඔක්තෝබර් 16 වැනිදා අතර කාලය තුළ පවත්වන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි
+
+◼️
+
+[Data](articles/0363e3db.json)
+
+---
+
+### Explanation for Dr. Vijith Gunasekera
 
 *2024-05-09 18:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்டர்-விஜித்-குணசேகரவுக்கு-விளக்கமறியல்/175-337044) · `ta`
 
-தரமற்ற தடுப்பூசிகளை அரச வைத்தியசாலைகளுக்கு வழங்கி பல கோடி ரூபாய் மோசடி செய்தமை மற்றும் நோயாளிகளின் உயிருக்கு பாதுகாப்பற்ற நிலைமையை ஏற்படுத்தியமை தொடர்பில் கைது செய்யப்பட்ட தேசிய மருந்து ஒழுங்குமுறை அதிகார சபையின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி டாக்டர் விஜித் குணசேகரவை 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Dr. Vijith Gunasekera, ex-CEO of the National Drug Regulatory Authority, is detained for allegedly supplying non-substandard vaccines to hospitals, endangering patient safety.
+
+🟩
+
+Former Chief Executive Officer of the National Drug Regulatory Authority, Dr. Vijith Gunasekera, has been kept in detention till the 20th for allegedly defrauding of non -substandard vaccines to state hospitals and creating an unsafe condition of the patients.
 
 ◼️
 
 [Data](articles/4a5aad01.json)
 
+[Extended Data](ext_articles/4a5aad01.ext.json)
+
 ---
 
-### டயானா கமகேவின் அதிரடி அறிவிப்பு
+### Diana Kamage's Action Announcement
 
 *2024-05-09 18:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேவின்-அதிரடி-அறிவிப்பு/175-337043) · `ta`
 
-நாட்டில் கடந்த சில நாட்களாக பேசுபொருளாக உள்ளார் பாராளுமன்ற உறுப்பினர் பதவியை இழந்த டயானா கமகே.
+Diana Kamage, previously an MP, announced her political comeback, stating she will return to Parliament and continue supporting the president. She criticized the current parliament, hinting at its dissolution, and praised Ranil Wickremesinghe for his leadership.
 
-இவர் இன்று (09) விசேட ஊடகவியலாளர் மாநாட்டிற்கு அழைப்பு விடுத்திருந்தார். இதில் கருத்து தெரிவித்த டயானா,
+🟩
 
-"எனது அரசியல் பயணம் இத்துடன் நிற்காது. வெகு காலத்திற்குள் இந்த பாராளுமன்றம் கலைக்கப்படும். எதிர்காலத்தில் நான் கண்டிப்பாக அரசியலுக்கு வருவேன். நான் எப்போதும் ஜனாதிபதியை ஆதரிப்பேன். ரணில் விக்ரமசிங்க மற்றவர்கள் மறைந்திருந்த போது இந்த நாட்டைக் கைப்பற்றினார். நான் மீண்டும் பாராளுமன்றத்திற்கு வருவேன்" என்றார். R
+Diana Kamage, who has lost the post of MP for the past few days.
+
+He was invited to a special media conference today (09). Diana commented on this,
+
+“My political journey will not stand with this. This parliament will be dissolved within a long time. I will definitely come to politics in the future. I will always support the president. Ranil Wickremesinghe captured this country when the others were hidden. I will come back to Parliament ”. Remble
 
 ◼️
 
 [Data](articles/c18dad2e.json)
 
+[Extended Data](ext_articles/c18dad2e.ext.json)
+
 ---
 
-### 2 ஆண்டுகளாகியும் இன்னும் நட்டஈடு கிடைக்கவில்லை
+### 2 years and still not getting compensation
 
 *2024-05-09 18:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ஆண்டுகளாகியும்-இன்னும்-நட்டஈடு-கிடைக்கவில்லை/175-337042) · `ta`
 
-இரண்டு வருடங்கள் கடந்துள்ள போதிலும், 2022 ஆம் ஆண்டு மே மாதம் 9 ஆம் திகதி அரகலய காலத்தில் பஸ்கள் அழிக்கப்பட்ட பஸ் உரிமையாளர்களுக்கு அரசாங்கத்திடம் இருந்து நட்டஈடு கிடைக்கவில்லை என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+Despite two years passing, Sri Lanka's bus owners, including those whose buses were damaged during the Arakalaya event, still await compensation. The Bus Owners Association has repeatedly requested government assistance, with 30 owners struggling to repair their buses due to lack of funds. The police have not yet identified the culprits, hindering the possibility of filing civil cases for compensation.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், அரகலய நிகழ்வின் போது 50 பஸ்கள் முழுமையாகவும், மேலும் 50 பஸ்கள் பகுதியளவிலும் சேதமடைந்துள்ளதாகவும், பஸ் உரிமையாளர்கள் சங்கம் என்ற வகையில் அரசாங்கத்திடம் பல தடவைகள் உதவி கோரியுள்ளதாகவும் தெரிவித்தார்.
+🟩
 
-"பல பேருந்து உரிமையாளர்கள் தங்கள் பேருந்துகளை காப்பீட்டு நிறுவனங்களின் உதவியுடன் பழுது பார்த்தனர், ஆனால் குறைந்தது 30 பேருந்து உரிமையாளர்கள் தங்கள் பேருந்துகளை பழுதுபார்க்க வலிமை இல்லாதவர்கள் என்பதால் இன்னும் காத்திருக்கிறார்கள்" என்று அவர் கூறினார்.
+Although two years have passed, Sri Lanka Private Bus Owners Association President Gemunu Wijeratne said that bus owners who destroyed buses during the Arakalai during the Arakalai during the Arakalai period, despite the two years.
 
-இந்த பயங்கரவாத தாக்குதல் தொடர்பில் பொலிஸ் திணைக்களமும் உரிய விசாரணைகளை மேற்கொள்ளவில்லை என விஜேரத்ன தெரிவித்துள்ளார். பேருந்துகளை அழித்தவர்களின் அடையாளத்தை பொலிஸ் வெளிப்படுத்தினால், அவர்கள் மீது சிவில் வழக்குப் பதிவு செய்து இழப்பீடு பெறலாம்.
+Speaking to the media, he said that 50 buses were completely damaged and 50 buses were damaged during the Arakalaya event, and the government had asked the government several times as the Bus Owners Association.
 
-...
+"Many bus owners have repaired their buses with the help of insurance companies, but at least 30 bus owners are still waiting because they have no strength to repair their buses," he said.
+
+Wijeratne said that the police department did not investigate the terrorist attack.. If the police reveal the identity of those who have destroyed the buses, they can file a civil case and get compensation.
+
+The current police DIG is capable of conducting investigations to identify the suspects. Wijeratne said the suspects were hiding in the bus.
+
+◼️
 
 [Data](articles/05fcbcb0.json)
+
+[Extended Data](ext_articles/05fcbcb0.ext.json)
+
+---
+
+### මාර්ක් ඇන්ඩෘ සහ අනුර දිසානායක අතර හමුවක්
+
+*2024-05-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196447) · `si`
+
+එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නේවාසික සම්බන්ධීකාරක මාර්ක් ඇන්ඩෘ ෆෙන්ච් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදුවිය.
+
+ඒ, අද (09) පස්වරුවේ ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේදී ය.
+
+මෙම හමුව සඳහා එක්සත් ජාතීන්ගේ සාමය සහ සංවර්ධනය පිළිබඳ උපදේශක පැට්‍රික් මැකාතී මහතා, සාමය සහ සංවර්ධනය පිළිබඳ විශ්ලේෂක නෙත්මිනී මැදවල මහත්මිය සහ ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා එක්විය.
+
+මෙම හමුවේදී ශ්‍රී ලංකාවේ වත්මන් මානව හිමිකම් තත්ත්වය, සමගිය සහ ප්‍රතිසන්ධාන ක්‍රියාවලිය පිළිබඳව දෙපාර්ශ්වය අතර දීර්ඝ ලෙස අදහස් හුවමාරු වී තිබේ.
+
+විශේෂයෙන් ශ්‍රී ලංකාවේ ප්‍රතිසන්ධාන ක්‍රියාවලිය සමීපව නිරීක්ෂණය කරන බව පෙන්වා දුන් එක්සත් ජාතීන්ගේ සංවිධානයේ නියෝජිතයන් ඉදිරි මැතිවරණ ක්‍රියාවලිය තුළ දේශපාලන පක්ෂ විසින් අනුගමනය කළ යුතු ආචාරධර්ම පද්ධතියක් පිළිබඳවද අවධානය යොමු කර ඇත.
+
+මෙහිදී තම දේශපාලන සංස්කෘතිය, ආරම්භයේ සිටම ආචාරධර්ම පද්ධතියක් පදනම් වී ඇති බව අවධාරණය කළ ජාතික ජන බලවේගය එ.ජා. නියෝජිතයින් විසින් ඉදිරිපත් කරන ලද යෝජනාවලට තම පූර්ණ සහාය හිමි වන බව ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/892a20d9.json)
 
 ---
 
@@ -135,6 +209,26 @@ The CID apprehended Dr. Gunasekara in connection with the procurement of substan
 [Data](articles/6a30bee9.json)
 
 [Extended Data](ext_articles/6a30bee9.ext.json)
+
+---
+
+### NMRA හිටපු CEO රිමාන්ඩ්
+
+*2024-05-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196446) · `si`
+
+ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව එළඹෙන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඔහුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීම සඳහා අද පෙරවරුවේ රැගෙනවිත් තිබුණි.
+
+ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව ඊයේ (08) අත්අඩංගුවට ගැනුණි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ට පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ය.
+
+ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+
+◼️
+
+[Data](articles/2c4a4fec.json)
 
 ---
 
@@ -1079,6 +1173,24 @@ He said the journalist responded to a journalist who was spent on the darkener..
 [Data](articles/938e1345.json)
 
 [Extended Data](ext_articles/938e1345.ext.json)
+
+---
+
+### ගංජා සැකකරුගෙන් ගංජා ඔතා පානය කළ පොලිසියේ පහකට වැඩ වරදියි
+
+*2024-05-09 14:23:40* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-සැකකරුගෙන්-ගංජා-ඔතා-පානය-කළ පොලිසියේ-පහකට-වැඩ-වරදියි/11-409525) · `si`
+
+යුක්තියේ මෙහෙයුමේදී ගංජා සමග අත්අඩංගුවට ගත්  සැකකරුවෙකු ලවා ගංජා ඔතාගෙන පානය කළ බව කියන බෙලිඅත්ත පොලිසියේ  පොලිස් නිලධාරින් පස්දෙනකුගේ රාජකාරී වැඩ තහනමට ලක් කිරීමට තංගල්ල ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා විසින් පියවර ගෙන ඇතැයි පොලිස් මූලස්ථානයේ ජ්‍යෙෂ්ඨ පොලිස් නිලධාරියෙකු පැවසීය.
+
+සිර මැදිරිය තුළ රඳවා සිටි සැකකරු සන්තකයේ තිබී  ගංජා මිලිග්‍රෑම් 280 ක් හා ලයිටරයක්ද පොලිසිය මගින් සොයාගෙන ඇත.
+
+එලෙස වැඩ තහනමට ලක් කර ඇත්තේ පොලිස් සැරයන්වරු තිදෙනෙකුගේ සහ කොස්තාපල්වරුන් දෙදෙනකුගේය
+
+ගංජා ග්‍රෑම් පනහක් සමග අත්අඩංගුවට ගත් සැකකරුවෙකු  බෙලි ඇත්ත පොලිසියේ  අංක  2 සිරමැදියේ රඳවා සිටියදී වැඩ තහනමට ලක්වූ සැරයන්වරුන් තිදෙනා සහ කොස්තාපල්වරුන් දෙදෙනා  ගංජා සුරුට්ටු තුන බැගින් ඔතාගෙන පානය කර ඇති බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/c06f9d4a.json)
 
 ---
 
@@ -2163,137 +2275,5 @@ Sabry said Sri Lanka has banned foreign ships for research purpose though they h
 [Data](articles/2105ba68.json)
 
 [Extended Data](ext_articles/2105ba68.ext.json)
-
----
-
-### No decision on retirement - Sameary
-
-*2024-05-09 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196427) · `si`
-
-Chamari Atapattu, Sri Lanka Women's Cricket Team captain, has not decided on retirement. She's focused on the team's goal for the 20th Women's T20 World Cup, expressing happiness at qualifying. The team recently won the 20th World Cup match in Dubai and is set to participate in three more tournaments before the Bangladesh event.
-
-🟩
-
-Will he retire from cricket?Or aren't there?Chamari, Sri Lanka Women's Cricket Team, Atapattu said that this is not the right time to talk about.
-
-She also said that he had not yet decided.
-
-"Maybe you may not be able to be. I haven't decided on it yet ... "
-
-She says that the team's goal is to make the 20th women's cricket tournament well.
-
-Chamari, Sri Lanka Women's cricket team, said he was very happy to qualify for the upcoming Women's T20 World Cup.
-
-Sri Lankan women won the 20th World Cup match in Dubai.
-
-The winning Sri Lanka women's cricket team arrived in Sri Lanka this morning (09).
-
-Sri Lanka women's women participate in about three more tournaments before Bangladesh's 20th World Cup.
-
-◼️
-
-[Data](articles/627ddba4.json)
-
-[Extended Data](ext_articles/627ddba4.ext.json)
-
----
-
-### "Customs should be digitized"
-
-*2024-05-09 10:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்தை-டிஜிட்டல்-மயமாக்க-வேண்டும்/175-337014) · `ta`
-
-"Digitizing customs services is crucial for reducing export costs and living expenses. Despite Sri Lanka Customs' digital progress during the pandemic, reverting to manual processes post-pandemic led to corruption, delays, and increased costs. The Global Shippers Forum President urges complete digitalization to prevent market share loss to countries offering full digital services, citing India and Bangladesh as examples."
-
-🟩
-
-The government must completely digitize services offered by border agents, including Sri Lanka Customs, to ensure that the cost of exports and the cost of living is to be reduced.
-
-Although Sri Lanka's customs are steadily operating and fully digitalized services during the epidemic, the agency returned to the manual process in the post -infection period, causing corruption with delays and additional expenses.
-
-“Continuing governments do not have the motivation and vision of going to digitalization. Each rupee that is formed at port's transportation cost will come back to you. It is sent to the customer, so the cost of living is increasing.
-
-With this media briefing, we urge the government to implement a complete digitalization, as this is not a neglecting issue in today's global economy, ”said Global Shippers Forum President Sean Wan Dard.
-
-He warned that Sri Lankan exporters would lose their market share in exports as other countries in the region would come up with full digital services.
-
-...
-
-[Data](articles/eefc1af8.json)
-
-[Extended Data](ext_articles/eefc1af8.ext.json)
-
----
-
-### Luis Rubiales to stand trial over World Cup kiss
-
-*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Luis-Rubiales-to-stand-trial-over-World-Cup-kiss/108-282230) · `en`
-
-May 9 (BBC) - The former head of the Spanish football federation, Luis Rubiales, will stand trial for sexual assault over his unsolicited kissing of Women's World Cup player Jenni Hermoso.
-
-The kiss, which Ms Hermoso said was "unwanted", happened at last year's 1-0 World Cup against England and made global headlines.
-
-Mr Rubiales was forced to resign but has denied any wrongdoing.
-
-A Spanish High Court judge said on Wednesday Mr Rubiales was also facing one charge of coercion.
-
-The scandal overshadowed a historic moment for Spain's women's team, which at the time was celebrating its first ever World Cup win on 20 August 2023.
-
-During the trophy presentation ceremony, Mr Rubiales clasped Ms Hermoso's head between his hands and planted a kiss on her lips.
-
-It was broadcast to billions worldwide, producing a fierce backlash and national debate over sexism in Spain.
-
-Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensual and he was the victim of a "social assassination".
-
-...
-
-[Data](articles/0ffce29e.json)
-
-[Extended Data](ext_articles/0ffce29e.ext.json)
-
----
-
-### Opposition Leader must take full responsibility over issues faced by country: President
-
-*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-Leader-must-take-full-responsibility-over-issues-faced-by-country-President/108-282231) · `en`
-
-Parliament, May 09 (Daily Mirror)- Claiming that Opposition Leader Sajith Premadasa must take full responsibility over the issues faced by the country, President Ranil Wickremesinghe said today that if Premadasa had taken up the premiership on April 10, there would have been no issues.
-
-The President said this when Sajith Premadasa requested some clarifications from the President over his special statement in Parliament today.
-
-"I think we better have a debate in Parliament over these matters. There are various opinions. I must tell the Opposition Leader, he should take the full responsibility for all these issues. If he had taken up the premiership on April 10, none of these issues would have cropped up. I performed to my capacity," the President said.
-
-◼️
-
-[Data](articles/a3b02d99.json)
-
-[Extended Data](ext_articles/a3b02d99.ext.json)
-
----
-
-### Luis Rubiales to stand trial over World Cup kiss
-
-*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Luis-Rubiales-to-stand-trial-over-World-Cup-kiss/107-282230) · `en`
-
-May 9 (BBC) - The former head of the Spanish football federation, Luis Rubiales, will stand trial for sexual assault over his unsolicited kissing of Women's World Cup player Jenni Hermoso.
-
-The kiss, which Ms Hermoso said was "unwanted", happened at last year's 1-0 World Cup against England and made global headlines.
-
-Mr Rubiales was forced to resign but has denied any wrongdoing.
-
-A Spanish High Court judge said on Wednesday Mr Rubiales was also facing one charge of coercion.
-
-The scandal overshadowed a historic moment for Spain's women's team, which at the time was celebrating its first ever World Cup win on 20 August 2023.
-
-During the trophy presentation ceremony, Mr Rubiales clasped Ms Hermoso's head between his hands and planted a kiss on her lips.
-
-It was broadcast to billions worldwide, producing a fierce backlash and national debate over sexism in Spain.
-
-Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensual and he was the victim of a "social assassination".
-
-...
-
-[Data](articles/e4b76e96.json)
-
-[Extended Data](ext_articles/e4b76e96.ext.json)
 
 ---

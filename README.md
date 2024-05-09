@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 02:18:22**
+As of **2024-05-10 02:33:33**
 
 ## Newspaper Stats
 
-*Scraped **23,050** Articles*
+*Scraped **23,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,331
 adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
-virakesarilk | 3,424
+virakesarilk | 3,431
 dailymirrorlk | 3,625
 adaderanasinhalalk | 3,690
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,049 (100.0%) of 23,050 articles have been extended.
+23,050 (100.0%) of 23,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு அரசாங்கத்தின் நாடகம் - ஹரினி அமரசூரிய
+
+*2024-05-10 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183101) · `ta`
+
+தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பான வர்த்தமானி அறிவிப்பு பெருந்தோட்ட மக்களை ஏமாற்றும் நடவடிக்கை. அவ்வாறு அவர்களுக்கு சம்பள அதிகரிப்பு மேற்கொள்ள தேவை இருக்குமாக இருந்தால் அரசாங்கம் அவர்களின் அடிப்படை சம்பளத்தில் மாற்றத்தை ஏற்படுத்தி இருக்கவேண்டும் என தேசிய மக்கள் சக்தி உறுப்பினர் ஹரினி அமரசூரிய தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (9) இடம்பெற்ற  கடை,அலுவலக ஊழியர்(ஊழியத்தையும் வேதனத்தையும் ஒழுங்குப்படுத்தல்) (திருத்தச்) சட்ட மூலம் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+பெருந்தோட்ட தொழிலாளர்களின் நாளாந்த சம்பளத்தை 1700 ரூபாவாக அதிகரித்து  அரசாங்கம் வர்த்தமானி அறிவித்தல் வெளியிட்டிருக்கிறது. இது தொழிலாளர்களை ஏமாற்றும் நாடகமாகும். அரசாங்கம் பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தை அதிகரிப்பதாக இருந்தால், அவர்களின் அடிப்படை சம்பளத்தில் மாற்றம் செய்து  அதன் மூலம் அடிப்படை சம்பளத்தை 1700 ரூபாவாக மாற்றியமைத்திருக்க வேண்டும்.
+
+...
+
+[Data](articles/8ba60342.json)
+
+---
+
+### யாழ்ப்பாணத்தில் விபச்சார வீடு முற்றுகை - நால்வர் கைது
+
+*2024-05-10 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183100) · `ta`
+
+யாழ்ப்பாணம் கந்தர் மடப்பகுதியில் இயங்கி வந்த விபச்சார வீடு ஒன்று வியாழக்கிழமை (9) யாழ்ப்பாண சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஜெகத் நிசாந்தவின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்குக் கிடைத்த இரகசிய தகவலை அடுத்து மாவட்ட பொலிஸ் குற்றத் தடுப்பு பிரிவினரின் உதவியுடன் முற்றுகை இடப்பட்டுள்ளது.
+
+குறித்த முற்றுகையில் பருத்தித்துறை மற்றும் நீர்வேலி பிரதேசங்களைச் சேர்ந்த பெண்களும் ஆண் ஒருவர் உள்ளடங்கலாக வீட்டின் உரிமையாளரான முதியோர் உட்பட நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களிடம் பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வரும் நிலையில் நீதிமன்றத்தில் முற்படுத்துவதற்குரிய நடவடிக்கைகள் இடம்பெற்று வருகிறது.
+
+◼️
+
+[Data](articles/e06aff42.json)
+
+---
 
 ### Collective bargaining, a viable alternative for industrial peace
 
@@ -132,7 +164,61 @@ When the heat of seawater increases more than usual, corals lose their color and
 
 ---
 
+### பஞ்சாப் கிங்ஸை 60 ஓட்டங்களால் வென்றது றோயல் செலஞ்சர்ஸ்  பெங்களூரு ; துடுப்பாட்டத்தில் அசத்தும் கோஹ்லி 600 ஓட்டங்களைக் கடந்தார்
+
+*2024-05-10 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183099) · `ta`
+
+தரம்சாலா, ஹிமாச்சல் ப்ரதேஷ் கிரிக்கெட் சங்க விளையாட்டரங்கில் வியாழக்கிழமை (09) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 58ஆவது போட்டியில் பஞ்சாப் கிங்ஸை 60 ஓட்டங்களால் றோயல் செலஞ்சர்ஸ்  பெங்களூரு இலகுவாக வெற்றிகொண்டது.
+
+விராத் கோஹ்லி, ரஜாத் பட்டிடார், கெமரன் க்றீன் ஆகியோரின் அதிரடிகளும் பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சுகளும் றோயல் செலஞ்சர்ஸ் பெங்களூருவின் வெற்றியில் முக்கிய பங்காற்றின.
+
+இன்றைய போட்டியில் அதிரடியாக ஓட்டங்களைக் குவித்த விராத் கோஹ்லி 12 இன்னிங்ஸ்களில் ஒரு சதம், 5 சதங்களுடன் மொத்தமாக 634 ஓட்டங்களைப் பெற்றுள்ளார். அவர் மாத்திரமே இவ்வருட போட்டிகளில் இதுவரை 600 ஓட்டங்களைக் கடந்த ஒரே ஒரு வீரராவார்.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட றோயல் செலஞ்சர்ஸ் பெங்களூரு 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 241 ஓட்டங்களைக் குவித்தது.
+
+அதிரடி வீரர் அணித் தலைவர் பவ் டு ப்ளெசிஸ் 9 ஓட்டங்களுடனும் வில் ஜெக்ஸ் 12 ஓட்டங்களுடனும் ஆட்டம் இழக்க 5ஆவது ஓவரில் மொத்த எண்ணிக்கை 43 ஓட்டங்களாக இருந்தது.
+
+...
+
+[Data](articles/2b9ea770.json)
+
+---
+
+### ஐ.நா. வதிவிட ஒருங்கிணைப்பாளருக்கும் தேசிய மக்கள் சக்தியின் தலைவருக்கும் இடையிலான சந்திப்பு
+
+*2024-05-10 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183098) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிட ஒருங்கிணைப்பாளர்  மார்க் - ஆன்ட்ரே பிராஞ்ச்  (Marc-André Franche) அவர்களுக்கும் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்கவுக்கும் இடையிலான சந்திப்பு வியாழக்கிழமை (09) பிற்பகல் ம.வி.மு. தலைமை அலுவலகத்தில் இடம்பெற்றது.
+
+இந்தச் சந்திப்பில் ஐக்கிய நாடுகள் சபையின் சமாதானம் மற்றும் அபிவிருத்திக்கான ஆலோசகர் பெட்ரிக் மெகார்த்தி (Patrick McCarthy) அவர்கள், சமாதானம்  மற்றும் அபிவிருத்திக்கான பகுப்பாய்வாளர் நெத்மினி மெதவல அவர்கள் மற்றும் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் தோழர் விஜித ஹேரத்தும் கலந்துகொண்டிருந்தனர்.
+
+இந்தச் சந்திப்பின்போது இலங்கையின் நடப்பு மனித உரிமைகளின் நிலைமை, ஒற்றுமை மற்றும் நல்லிணக்க செயன்முறை பற்றி இரு தரப்புக்கும் இடையில் விரிவாக கருத்துக்கள் பரிமாறப்பட்டன. குறிப்பாக இலங்கையில் நல்லிணக்க செயன்முறையை உன்னிப்பாக அவதானிப்பதாக சுட்டிக்காட்டிய ஐக்கிய நாடுகள் சபையின் பிரதிநிதிகள் எதிர்வரும் தேர்தல் செயன்முறைக்குள் அரசியல் கட்சிகளால் பின்பற்றபட வேண்டிய நெறிமுறைகள் குறித்தும் கவனம் செலுத்தினர்.
+
+...
+
+[Data](articles/958fda9b.json)
+
+---
+
 ### 2024-05-09 (Thursday)
+
+### முஜிபுர் ரஹ்மானை தேசியப் பட்டியல் எம்பியாக நியமித்து வெளியானது வர்த்தமானி : நாளை சத்தியப்பிரமாணம் !
+
+*2024-05-09 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183097) · `ta`
+
+இராஜாங்க அமைச்சர் டயனா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி நீக்கப்பட்ட நிலையில் வெற்றிடமாகியுள்ள பாராளுமன்ற உறுப்பினர் பதவிக்கு முஜிபுர் ரஹ்மானை நியமித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இராஜாங்க அமைச்சர் டயனா கமகே பாராளுமன்ற உறுப்பினர் பதவியை வகிக்க சட்டரீதியாக தகுதியற்றவர் என உயர் நீதிமன்றம் வியாழக்கிழமை ( 08 ) அறிவித்தது.
+
+இந்நிலையில், குறித்த வெற்றிடத்திற்கு முஜிபுர் ரஹ்மானின் பெயர் முன்மொழியப்பட்டு, தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பப்படள்ள நிலையில்,  முஜிபுர் ரஹ்மானை பாராளுமன்ற உறுப்பினராக நியமித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இந்நிலையில், முஜிபுர் ரஹ்மான் வெள்ளிக்கிழமை 10 ஆம் திகதி காலை பாராளுமன்றில் தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்யவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d0eb5be9.json)
+
+---
 
 ### Two Italians arrested over attempt to smuggle endemic insects from Yala National Park
 
@@ -149,6 +235,22 @@ The wildlife officers stated that they seized a large number of jars in which th
 [Data](articles/1ce71132.json)
 
 [Extended Data](ext_articles/1ce71132.ext.json)
+
+---
+
+### நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளதாக ஜனாதிபதி தெரிவித்தாலும் மக்களின் தோல்மீது சுமைகள் அதிகரித்துள்ளது - சஜித் பிரேமதாச
+
+*2024-05-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183096) · `ta`
+
+நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க கூறினாலும், நாட்டின் பொருளாதாரத்தில் வளர்ச்சி ஏற்படவில்லை. பொருட்களின் விலை அதிகரித்து மக்கள் வாழ்வதற்குப் போராட வேண்டிய நிலையே இருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (9) ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் விசேட உரையைத் தொடர்ந்து தனது கருத்தை முன்வைத்து உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+
+ஜனாதிபதி அடிக்கடி இந்த சபையில் தகவல்களை வெளியிட்டு கருத்துக்களை வெளியிட்டுள்ளார். அதன்போது அவர் தீப்பிடித்த நாடு மற்றும் நரகத்தை பொறுப்பேற்றதாகக் கூறியுள்ளார். சிலர் சவால்களை ஏற்றுக்கொள்ளாது நிபந்தனைகளை முன்வைக்கும் போது, தான் நிபந்தனைகள் இன்றி பொறுப்பேற்றதாகவும் கூறியுள்ளார். இந்நிலையில் நான் சில விடயங்களை முன்வைக்க வேண்டியுள்ளது.
+
+...
+
+[Data](articles/3afdea85.json)
 
 ---
 
@@ -307,6 +409,26 @@ The suspect, who is aged 25 years has come from Dubai and had arrived in the cou
 [Data](articles/1252fca5.json)
 
 [Extended Data](ext_articles/1252fca5.ext.json)
+
+---
+
+### மலேசியாவில் உயிரிழந்த மஸ்கெலியா இளைஞன்
+
+*2024-05-09 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183095) · `ta`
+
+மஸ்கெலியா மொடிங்ஹேம் தோட்டத்தைச் சேர்ந்த ராஜகுமார் டேவிட்சன் என்ற 24 வயது இளைஞன் பணிக்காக மலேசியா சென்ற நிலையில் உயிரிழந்துள்ளார்.
+
+மலேசியா கோலாலம்பூரில் உள்ள உணவகம் ஒன்றில் பணிபுரிந்து வந்த நிலையில் கடந்த மாதம் 24 ஆம் திகதி கொதிகலன் (Boiler) குறித்த இளைஞன் மீது விழுந்ததில் படுகாயமடைந்து கோலாலம்பூரில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+
+இந்நிலையில் கடந்த 5 ஆம் திகதி காலை சிகிச்சைப் பலனின்றி அவர் உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டிருந்த அந்நாட்டு பொலிஸார் இளைஞனின் குடும்பத்தினருக்கு அறிவித்துள்ளனர்.
+
+இதையடுத்து இளைஞனின் சடலம் புதன்கிழமை (8) இரவு 11.30 மணிக்கு கட்டுநாயக்க விமான நிலையத்திற்குக் கொண்டுவரப்படவுள்ளது.
+
+இந்நிலையில், இளைஞனின் தந்தையிடம் ஒப்படைக்கப்படவுள்ள  சடலம் அவரின் சொந்த ஊரான மஸ்கெலியா மொட்டிங்ஹேம் தோட்டத்திற்குக் கொண்டுசெல்லப்பட்டு இறுதி கிரிகைகள் இடம்பெறவுள்ளதாக அவரது தந்தை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cf75780c.json)
 
 ---
 
@@ -644,7 +766,7 @@ Meanwhile, struggles were also called for a news discussion today to assault the
 
 ---
 
-### Sri Lanka to table amendment on TRC Act, to allow private party to build towers: State Minister
+### Sri Lanka to change telecom law to allow private party to build towers: State Minister
 
 *2024-05-09 20:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-table-amendment-on-trc-act-to-allow-private-party-to-build-towers-state-minister-162403/) · `en`
 
@@ -725,6 +847,8 @@ Changes of government “by the ballot, and not by the bullet”. One hopes that
 ...
 
 [Data](articles/fe98a739.json)
+
+[Extended Data](ext_articles/fe98a739.ext.json)
 
 ---
 
@@ -2119,175 +2243,5 @@ Meanwhile, actress Nayanthara is the hero of the story, 'Lord' and 'Annapoorni' 
 [Data](articles/2df7368d.json)
 
 [Extended Data](ext_articles/2df7368d.ext.json)
-
----
-
-### For the first time D. Iman - Mano Alliance
-
-*2024-05-09 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183050) · `ta`
-
-"Debutant director Lokesh Ajils' film 'Eleven' features a song by background singer Mano, marking his first collaboration with composer D. Iman. The film, starring Naveen Chandra, Riya Hari, and others, is set to release soon in Tamil and Telugu, promising a unique experience with its intelligent screenplay."
-
-🟩
-
-Is the song great in Tamil cinema?Is the music great?For the first time, the composer D.. The 'Eleven' film crew has enthusiastically revealed that the background singer Mano has sung a song in the music of Iman.
-
-Naveen Chandra, Riya Hari, Abirami, 'Aadukalam' Narain, Dileepan, Rithvika, Arjay and many others in the upcoming film 'Eleven' directed by debutant director Lokesh Ajils. Karthik Asokan has recorded the cinematography. Iman has composed the music. This movie is ready to be an intelligence.. R. Producers Ajmal Khan and Riya Hari have co -produced on behalf of Entertainment film company.
-
-The shooting of the film is completely completed and the final phase of the work is currently underway. In this case, the film crew. Background singer Mano has sung for the first time in Iman's music.
-
-...
-
-[Data](articles/7301266a.json)
-
-[Extended Data](ext_articles/7301266a.ext.json)
-
----
-
-### ‘Not the right time to talk about retirement’ – Chamari Athapaththu
-
-*2024-05-09 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99107/not-the-right-time-to-talk-about-retirement-chamari-athapaththu) · `en`
-
-Sri Lanka Women’s Cricket Team Captain Chamari Athapaththu says now is not the right time to talk about whether or not she will retire from international cricket.
-
-In response to recent reports regarding her plans to retire from the game, Athapaththu expressed that she has not reached a final decision on the matter as of yet.
-
-“.. Maybe or maybe not. I haven’t decided on that yet..,” she said.
-
-Athapaththu made these remarks while speaking to reporters after the Sri Lanka Women’s team returned to Sri Lanka this morning (09), following the ICC Women’s T20 World Cup Qualifier final held in Abu Dhabi.
-
-Meanwhile, the star all-rounder expressed that the national team aims to perform well in the upcoming Women’s T20 World Cup.
-
-During the final qualifier match against Scotland, a sensational century from Athapaththu helped Sri Lanka join Australia, India, New Zealand and Pakistan in Group A of the ICC T20 Women’s World Cup 2024 as Qualifier 1.
-
-...
-
-[Data](articles/778dc2d7.json)
-
-[Extended Data](ext_articles/778dc2d7.ext.json)
-
----
-
-### Popular Youtuber Will Davis exposes data breach in Sri Lanka’s visa system
-
-*2024-05-09 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Popular-Youtuber-Will-Davis-exposes-data-breach-in-Sri-Lankas-visa-system/108-282251) · `en`
-
-Colombo, May 9 (Daily Mirror) - Popular travel influencer Will Davis, also known as 'TrekTrendy' on YouTube, took to Instagram to raise alarm about a concerning data breach related to Sri Lanka's visa issuing system.
-
-Davis shared his distress over receiving daily emails containing tourist visas, complete with sensitive personal information such as full names, addresses and passport details.
-
-He said that despite having his visa approved a long time ago, he has been continuously receiving details of other applicants from VFS Global.
-
-“Some of you may remember the Sri Lanka visa saga a few weeks ago. Well, whilst mine has long been approved, each day I’ve been getting other tourists visas emailed to me complete with full names, address and passport info. How is this a thing?! I’ve reached out in an attempt to try and make these stop but what a massive data breach,” Will Davis posted on Instagram.
-
-...
-
-[Data](articles/b9de1a2c.json)
-
-[Extended Data](ext_articles/b9de1a2c.ext.json)
-
----
-
-### Road Safety Awareness Walking in Jaffna City
-
-*2024-05-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183048) · `ta`
-
-The Road Safety Awareness Walk in Jaffna City, led by various officials including the Northern Provincial Chief Secretary and the Commissioner of Motor Transport Department, aimed to raise awareness about road safety and vehicle procedures. The walk, starting from the Jaffna Teaching Hospital Road to the Kankesanthurai Road Junction, highlighted the importance of road safety and its adoption in the region.
-
-🟩
-
-As part of the Road Safety Awareness Program, the Road Security Awareness Walking was held at 8.30 pm on Thursday through the Jaffna Teaching Hospital Road to the Kankesanthurai Road Junction.
-
-Identifying the places of the road, the road safety and the process of adoption of vehicle procedures.. It has also been decided to continue the process in other areas.
-
-Northern Provincial Chief Secretary, Northern Provincial Ministry of Local Government Ministry, Jaffna District Response Secretary, Commissioner of Motor Transport Department, Motor Vehicle Examiners, Officers, Jaffna Divisional Secretary, Jaffna Teaching Hospital Director, Transport Police, Municipal Council CommissionerMany officials were present.
-
-◼️
-
-[Data](articles/0f220ed9.json)
-
-[Extended Data](ext_articles/0f220ed9.ext.json)
-
----
-
-### Another Blaky Fede is in Parliament
-
-*2024-05-09 14:30:30* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කලු-සුද්දෝ-පාර්ලිමේන්තුවේ-ඉන්නවා/11-409527) · `si`
-
-Anagarika Dharmapala criticized the presence of a "black floor" in Sri Lanka's Parliament, accusing it of illegal citizenship and misuse of public funds. He called for accountability and the return of misused funds, highlighting the need for the judiciary to uphold the law.
-
-🟩
-
-"Anagarika Dharmapala said that the Ticoad Dagoon is still in Sri Lanka, but also the black floor of the parliament in our country, these are illegally, which is illegally, the citizenshipIn a country. They lived from the tax reputations of the people of Sri Lanka, "the Chief Incumbent of the Sri Lankan people.
-
-He was speaking at a press conference held at Mihintaka today (9). The Thera said,
-
-"The swearing of everyone is the only Charter of the world, who wants to turn the power of the world, is in the Parliament of Sri Lanka, Sri Lanka,
-
-The group of Harishi was not unaware of the group of Diana Gamage, not knowing, and the government had to correct the mistake.
-
-What the government gave to a public minister to increase the government in the government. Didn't the President knew the mature politician of the country's lawyer in the country?
-
-...
-
-[Data](articles/4b1087a1.json)
-
-[Extended Data](ext_articles/4b1087a1.ext.json)
-
----
-
-### Vegetables Dansala in Pannipitiya
-
-*2024-05-09 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-දන්සලක්-පන්නිපිටියේදී/11-409526) · `si`
-
-A large-scale vegetable sale event, "Dansala Tennisu," organized by Pannipitiya A N Fress Choice Vegetable Store Network, attracted over twenty thousand attendees. Held from 4 pm to midnight, participants arrived from Pannipitiya to Maharagama. Each person received about 15 types of vegetables, with a bag's value reaching 2,000. The event, now in its third year, aims to provide affordable produce to customers, employing a significant workforce.
-
-🟩
-
-Pannipitiya A N Fress Choice Vegetable Store Network, 28th, "Dansala Tennisu," held yesterday (08) at the new Vegetable Dansala, Deshanayake, Maharagama yesterday.
-
-More than twenty thousand people attended a number of people and was held from 4 pm to midnight. The participants were present at 11 am from Pannipitiya to Maharagama.
-
-About 15 vegetables were provided to one person and the gross value of one of the vegetable bag was worth 2,000.
-
-Ananda Wijeratne, who commented on this work, said the owner of the Nanda Wijeratne said:
-
-I have several vegetable stores. There are a large number of employees. We are selling the six hundred and sixtyups to sell vegetables to customers.. That is how this care is implemented. In 2024, this is the third time.
-
-He said the journalist responded to a journalist who was spent on the darkener.. I looked to say how many varieties of vegetables than money.
-
-...
-
-[Data](articles/938e1345.json)
-
-[Extended Data](ext_articles/938e1345.ext.json)
-
----
-
-### Five police station sins from cannabis suspect
-
-*2024-05-09 14:23:40* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-සැකකරුගෙන්-ගංජා-ඔතා-පානය-කළ පොලිසියේ-පහකට-වැඩ-වරදියි/11-409525) · `si`
-
-Five police officers, including two sergeants and two constables, were suspended for possessing cannabis. They were among 50 officers arrested for drug possession. The police recovered 280 milligrams of marijuana from the suspects. The suspension is a preliminary measure pending further investigation.
-
-🟩
-
-A senior police officer of the Police Headquarters said that five police officers arrested by the Beliatta police officers who were arrested with cannabis during the militant of the Justice of Justice have been suspended.
-
-The police also recovered 280 milligrams of marijuana in possession of the suspect in the prison.
-
-The suspension has been suspended for two Police Sergeants and two Constables
-
-Police investigations have revealed that a suspect arrested with fifty policemen between 50 grams of cannabis.
-
-A investigation by the Assistant Superintendent of Police Tangalle District is revealed by an investigation by the National Police Commission on July 30, 2023 by the National Police Commission on anti-LTTE and discratic behavior.The senior police officer said that it was banned as a preliminary discipline in accordance with the terms of the government.
-
-Tangalle Senior Superintendent of Police Kayarathiratne has issued the order issued by the suspension
-
-◼️
-
-[Data](articles/c06f9d4a.json)
-
-[Extended Data](ext_articles/c06f9d4a.ext.json)
 
 ---

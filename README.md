@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 05:03:20**
+As of **2024-05-10 05:18:28**
 
 ## Newspaper Stats
 
-*Scraped **23,062** Articles*
+*Scraped **23,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,330
-dailyftlk | 1,336
+dailyftlk | 1,337
 adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,057 (100.0%) of 23,062 articles have been extended.
+23,062 (100.0%) of 23,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Sri Lanka exporters gear up for Hotel Asia Exhibition 2024 in Maldives
+
+*2024-05-10 05:00:35* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-exporters-gear-up-for-Hotel-Asia-Exhibition-2024-in-Maldives/34-761610) · `en`
+
+From left: SLMLBC President Sudesh Mendis, Sri Lankan High Commissioner to the Maldives Ranga Goonawardena, EDB Chairman and CEO Dr. Kingsley Bernard, and Director – Regional Development Sepalika Jayawardhana
+
+Preparatory meeting held at the Sri Lanka Export Development Board
+
+The Sri Lanka-Maldives Business Council (SLMLBC) of the Ceylon Chamber of Commerce, in collaboration with the Sri Lanka Export Development Board (EDB) and the Sri Lankan High Commission in the Maldives, is organising a business delegation to the renowned Hotel Asia Exhibition in the Maldives from 13-15 May.
+
+...
+
+[Data](articles/8c242534.json)
+
+---
 
 ### Govt. revenue concerns spike amid drop in liquor production
 
@@ -58,6 +74,8 @@ Addressing the House, State Minister of Finance Ranjith Siyambalapitiya disclose
 
 [Data](articles/c6733f20.json)
 
+[Extended Data](ext_articles/c6733f20.ext.json)
+
 ---
 
 ### UAE envoy meets BOI
@@ -69,6 +87,8 @@ UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri recently met with Board of In
 ◼️
 
 [Data](articles/f2b271f8.json)
+
+[Extended Data](ext_articles/f2b271f8.ext.json)
 
 ---
 
@@ -92,6 +112,8 @@ Addressing the media for the first time following the ruling, Gamage levelled ac
 
 [Data](articles/041595c7.json)
 
+[Extended Data](ext_articles/041595c7.ext.json)
+
 ---
 
 ### Second Sri Lanka – UK Strategic Dialogue held in Colombo
@@ -103,6 +125,8 @@ The Second Sri Lanka – UK Strategic Dialogue was held at the Ministry of Forei
 ...
 
 [Data](articles/5e24a777.json)
+
+[Extended Data](ext_articles/5e24a777.ext.json)
 
 ---
 
@@ -119,6 +143,8 @@ During the proceedings, Counsel Nishan Premaratne, representing the plaintiff, p
 ...
 
 [Data](articles/c6317e99.json)
+
+[Extended Data](ext_articles/c6317e99.ext.json)
 
 ---
 
@@ -2237,31 +2263,5 @@ The Chairman of the Election Commission made this statement on Thursday.
 [Data](articles/8486980c.json)
 
 [Extended Data](ext_articles/8486980c.ext.json)
-
----
-
-### Nanuoya should take steps to ban heavy vehicles on Nanuoya Rathalla road - people's demand!
-
-*2024-05-09 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183062) · `ta`
-
-Residents of Nanuoya demand a ban on heavy vehicles on Nanuoya Rathalla road due to frequent accidents and damaged security fences. The Nuwara Eliya District Secretariat has already restricted heavy vehicles, but locals want a complete ban to ensure safety.
-
-🟩
-
-The security iron fence on both sides of the Nanuoya-Ratalla cross road on the Nuwara Eliya-Talawakelle road has been damaged in many places, the general public says.
-
-On the one hand, they point out that vehicle accidents continue to occur in the road with a steep collapse and that many accidents have been avoided due to a security road iron fence.
-
-Frequent road accidents on the road were banned for about a year.. Drivers say that the road has been deployed for safety in many places due to accidents on the road.
-
-People and motorists in the Up area are demanding that the road be formally come up with a road development authority.
-
-The Nuwara Eliya District Secretariat has banned heavy vehicles through this road due to frequent accidents.. The Nanuoya police were deployed to protect heavy vehicles through this road.
-
-...
-
-[Data](articles/77e0d430.json)
-
-[Extended Data](ext_articles/77e0d430.ext.json)
 
 ---

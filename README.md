@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 19:18:25**
+As of **2024-05-09 19:33:41**
 
 ## Newspaper Stats
 
-*Scraped **23,001** Articles*
+*Scraped **23,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,52 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,951
+adalk | 1,952
 tamilmirrorlk | 2,692
 adaderanalk | 2,698
 virakesarilk | 3,420
-dailymirrorlk | 3,611
+dailymirrorlk | 3,612
 adaderanasinhalalk | 3,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,000 (100.0%) of 23,001 articles have been extended.
+23,001 (100.0%) of 23,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### විස්සයි 20 ලෝක කුසලානයට යන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය මෙන්න
+### Here is the Sri Lankan cricket squad for the Twenty20 World Cup
 
 *2024-05-09 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196449) · `si`
 
-එළඹෙන විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා සංචිතය ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් අද (09) නිවේදනය කළේය.
+Sri Lanka Cricket announced its Twenty20 World Cup squad on 09/09.
+
+🟩
+
+Sri Lanka Cricket (SLC) has announced the Sri Lankan squad today (09).
 
 ◼️
 
 [Data](articles/a821866a.json)
+
+[Extended Data](ext_articles/a821866a.ext.json)
+
+---
+
+### Sri Lanka announces squad for T20 World Cup 2024
+
+*2024-05-09 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-announces-squad-for-T20-World-Cup-2024/108-282257) · `en`
+
+The Sri Lankan Cricket Selection Committee has unveiled the much-anticipated 15-member squad set to represent the nation in the upcoming ICC Men's T20 World Cup 2024.
+
+Under the captaincy of Wanindu Hasaranga, and with Charith Asalanka serving as the vice-captain, the team boasts a formidable lineup comprising seasoned veterans and promising young talents.
+
+◼️
+
+[Data](articles/4e203e7a.json)
 
 ---
 
@@ -2283,23 +2303,5 @@ I would like to tell the opposition leader that he should fully address all thes
 [Data](articles/33c78ac3.json)
 
 [Extended Data](ext_articles/33c78ac3.ext.json)
-
----
-
-### Man arrested with smuggled cigarettes worth Rs. 500,000 at BIA
-
-*2024-05-09 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99099/man-arrested-with-smuggled-cigarettes-worth-rs-500000-at-bia) · `en`
-
-The Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized a large consignment of smuggled cigarettes, valued at around Rs. 500,000 along with a suspect.
-
-The arrested suspect has been identified as a 29-year-old resident of Colombo, the police said.
-
-Subsequent investigations have uncovered that the suspect had smuggled the cigarettes by illegal means from Dubai into Sri Lanka.
-
-◼️
-
-[Data](articles/5338581c.json)
-
-[Extended Data](ext_articles/5338581c.ext.json)
 
 ---

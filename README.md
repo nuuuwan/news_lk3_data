@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 10:52:17**
+As of **2024-05-09 11:03:35**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 3,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,880 (100.0%) of 22,882 articles have been extended.
+22,882 (100.0%) of 22,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### 120 மில்லியன் ரூபாய்  பெறுமதியான சொத்துக்கள் முடக்கம்
+### Announcement of assets worth 120 million rupees
 
 *2024-05-09 10:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/120-மில்லியன்-ரூபாய்-பெறுமதியான-சொத்துக்கள்-முடக்கம்/175-337011) · `ta`
 
-காலி பிரதேசத்தில் பெண்ணொருவருக்கு சொந்தமான சுமார் 120 மில்லியன் ரூபாய்  பெறுமதியான சொத்துக்களை தடை செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+The Galle Criminal Investigation Division has seized assets worth 120 million rupees from a woman, including a four-storey building and land in Akmemana. The police are investigating the acquisition of these assets and plan to take legal action.
 
-இந்த சொத்துக்கள் எவ்வாறு ஈட்டப்பட்டமை குறித்த தகவல்கள் வெளியிடப்படாமை காரணத்தினால், காலி குற்றப் புலனாய்வுப் பிரிவினரால் அவரின் சொத்துக்கள் தடை செய்யப்பட்டுள்ளன.
+🟩
 
-இதில், காலி தடல்ல பிரதேசத்தில் நான்கு மாடி கட்டிடமும் அக்மீமன பிரதேசத்தில் ஒன்றரை ஏக்கர் தேயிலை மற்றும் மிளகு காணியும் உள்ளடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police have taken steps to ban assets worth about 120 million rupees belonging to a woman in Galle.
 
-இந்த சொத்துக்கள் தொடர்பில் எதிர்காலத்தில் சட்ட நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவிக்கின்றனர். R
+Her assets have been banned by the Galle Criminal Investigation Division as information about how these assets have been acquired.
+
+The four -storey building in the Galle Dadalla area consists of one and a half acres of tea and pepper land in Akmemana.
+
+Police say legal action will be taken in the future regarding these assets. Remble
 
 ◼️
 
 [Data](articles/db9813a6.json)
 
+[Extended Data](ext_articles/db9813a6.ext.json)
+
 ---
 
-### பதவி வெற்றிடம் அறிவிப்பு
+### Vacuum notification
 
 *2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
 
-டயானா கமகே எம்.பி பதவிக்கு தகுதியற்றவர் என உயர்நீதிமன்றம் தீர்ப்பளித்ததையடுத்து, பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன பாராளுமன்றத்தில் அறிவித்தார்.
+Mahinda Yapa Abeywardena announced in Parliament that Diana Kamage's parliamentary seat is vacant due to her incapacity, as ruled by the Supreme Court. This vacancy has been in effect since May 8.
 
-பாராளுமன்ற ஆசனம் நேற்று (மே 8) முதல் வெற்றிடமாகியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
+
+Speaker Mahinda Yapa Abeywardena announced in Parliament that the Supreme Court ruled that Diana Kamage was incapable of MP.
+
+He told Parliament that the parliamentary seat has been a vacuum since yesterday (May 8).
 
 ◼️
 
 [Data](articles/f02eaa5d.json)
+
+[Extended Data](ext_articles/f02eaa5d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 23:52:58**
+As of **2024-05-11 00:04:47**
 
 ## Newspaper Stats
 
-*Scraped **23,234** Articles*
+*Scraped **23,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,253
 economynextcom | 1,341
 dailyftlk | 1,343
 adalk | 1,973
-tamilmirrorlk | 2,720
+tamilmirrorlk | 2,721
 adaderanalk | 2,723
 virakesarilk | 3,453
 dailymirrorlk | 3,650
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,227 (100.0%) of 23,234 articles have been extended.
+23,234 (100.0%) of 23,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### விஜயகாந்துக்கு பத்ம பூஷண் விருது
+
+*2024-05-10 23:52:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயகாந்துக்கு-பத்ம-பூஷண்-விருது/175-337111) · `ta`
+
+இந்தியாவின் டில்லியிலுள்ள குடியரசுத் தலைவர் மாளிகையில் பத்ம விருதுகள் வழங்கும் விழா நேற்று முன்தினம் நடைபெற்றது.
+
+இதில் விஜயகாந்த் சார்பில் கலந்து கொண்ட பிரேமலதா விஜயகாந்த், இந்தியாவின் குடியரசுத் தலைவரிடமிருந்து விருதைப் பெற்றுக் கொண்டார். (a)
+
+◼️
+
+[Data](articles/beb07d3b.json)
+
+---
 
 ### UN General Assembly backs Palestinian bid for membership
 
@@ -558,6 +572,8 @@ The defunct cement factory only has limestone in about 100 acres which will not 
 
 [Data](articles/582a71e6.json)
 
+[Extended Data](ext_articles/582a71e6.ext.json)
+
 ---
 
 ### An Examinations Commissioner for Examinations regarding the GCE O / L
@@ -808,6 +824,8 @@ A bond maturing on 01.10.2032 closed down at 12.10/20 percent from 12.25/35 perc
 
 [Data](articles/696599ec.json)
 
+[Extended Data](ext_articles/696599ec.ext.json)
+
 ---
 
 ### Fire at special treatment unit at Walasmulla Base Hospital
@@ -972,6 +990,8 @@ de Silva showed a document bearing the seal of the Election Commission on the tr
 
 [Data](articles/25590ecd.json)
 
+[Extended Data](ext_articles/25590ecd.ext.json)
+
 ---
 
 ### South Korea to create new ministry to tackle plummeting birth rate
@@ -1043,6 +1063,8 @@ All banking stocks, except Union Bank of Colombo Plc (down at 10.00), closed up.
 ...
 
 [Data](articles/71497c1a.json)
+
+[Extended Data](ext_articles/71497c1a.ext.json)
 
 ---
 
@@ -1664,6 +1686,8 @@ Already ruling Sri Lanka Podujana Peramuna (SLPP) party’s actor-turned politic
 
 [Data](articles/1574da1f.json)
 
+[Extended Data](ext_articles/1574da1f.ext.json)
+
 ---
 
 ### Constable arrested for attempting to rape female police
@@ -1841,6 +1865,8 @@ The petition was filed by civil activist Oshala Herath, in which he sought a rul
 ...
 
 [Data](articles/1d673079.json)
+
+[Extended Data](ext_articles/1d673079.ext.json)
 
 ---
 
@@ -2128,6 +2154,8 @@ The Ministry requests that “family members of the concerned provide informatio
 
 [Data](articles/a59dc64b.json)
 
+[Extended Data](ext_articles/a59dc64b.ext.json)
+
 ---
 
 ### How to strengthen the rupee?
@@ -2303,29 +2331,5 @@ In addition, a male worker and a female worker who were attacked have been admit
 [Data](articles/0846cb80.json)
 
 [Extended Data](ext_articles/0846cb80.ext.json)
-
----
-
-### Army headquarters raised
-
-*2024-05-10 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196470) · `si`
-
-A Major General and a Sergeant were arrested by the CID in Ranjaru, Kurunegala, following a lengthy investigation into a retired Major General. The police are probing a racket involving former army personnel in Russia and Ukraine.
-
-🟩
-
-A Major General and Sergeant was arrested by the CID in the Ranjaru in Kurunegala.
-
-Police have conducted a lengthy investigation into the person who was a retired Major General General.
-
-Investigations have revealed that he was taken from the Army headquarters by the army headquarters.
-
-The police continue to investigate the racket of former army personnel in Russia and Ukraine in Ukraine.
-
-◼️
-
-[Data](articles/20c85596.json)
-
-[Extended Data](ext_articles/20c85596.ext.json)
 
 ---

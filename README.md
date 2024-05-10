@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 00:18:21**
+As of **2024-05-11 00:33:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,235 (100.0%) of 23,242 articles have been extended.
+23,239 (100.0%) of 23,242 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ A month ago, I had a frantic call from a distant contact who wanted to know if I
 
 [Data](articles/9a4446c4.json)
 
+[Extended Data](ext_articles/9a4446c4.ext.json)
+
 ---
 
 ### 11th Commemoration of Dr. Ranjith Navarathne’s He was dedicated to social justice
@@ -60,6 +62,8 @@ Born on January 07, 1948 in the beautiful village of Nikawewa in the historical 
 
 [Data](articles/02bdcd55.json)
 
+[Extended Data](ext_articles/02bdcd55.ext.json)
+
 ---
 
 ### “CEYLONA 2024” international girl guide camp at Ibbagamuwa Central College Kurunegala
@@ -75,6 +79,8 @@ Sri Lanka Girl Guides Association (SLGGA) has plans to host an International Cam
 ...
 
 [Data](articles/6f02ea3e.json)
+
+[Extended Data](ext_articles/6f02ea3e.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ Daily Mirror dated 16.4.2024 reported that Marie Antonia von Schonburg, Chief De
 ...
 
 [Data](articles/906c1faa.json)
+
+[Extended Data](ext_articles/906c1faa.ext.json)
 
 ---
 

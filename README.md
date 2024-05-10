@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 11:52:54**
+As of **2024-05-10 12:04:49**
 
 ## Newspaper Stats
 
-*Scraped **23,130** Articles*
+*Scraped **23,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,67 +20,109 @@ tamilmirrorlk | 2,705
 adaderanalk | 2,707
 virakesarilk | 3,439
 dailymirrorlk | 3,637
-adaderanasinhalalk | 3,703
+adaderanasinhalalk | 3,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,126 (100.0%) of 23,130 articles have been extended.
+23,130 (100.0%) of 23,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### இலங்கை வருகிறார் அமெரிக்க பிரதிநிதி
+### රුසියා - යුක්‍රේන යුද්ධයට එක්වූ ශ්‍රී ලාංකිකයින් ගේ තොරතුරු සොයා CIDය මෙහෙයුමක් අරඹයි
+
+*2024-05-10 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196472) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකළ පරීක්ෂණ අනුව හිටපු ශ්‍රී ලංකා සෙබළුන් 114 දෙනෙක් පමණ යුක්‍රේන යුද්ධයට එක්වීම සඳහා මෙරටින් පිටත්වී ඇති බව තහවුරු වී තිබේ.
+
+ඉන් 60 දෙනෙකු රුසියාවටත් අනෙක් 54 දෙනා යුක්‍රේනයටත් යෑමේ බලාපොරොත්තුවෙන් මෙරටින් ගොස් තිබුණි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තැනැත්තන් වෙළෙඳාම, ජාවාරම් විමර්ශන සහ සමුද්‍රීය අපරාධ විමර්ශන කොට්ඨාසයේ සහකාර පොලිස් අධිකාරී නරේන්ද්‍ර ජයකාන්ත මහතා ඒ බව පැවසීය.
+
+නමුත් රුසියා - යුක්‍රේන යුද්ධයට එක්වී ඉන් පැන ආ හිටපු හමුදා සාමාජිකයින් පවසන්නේ ශ්‍රී ලාංකිකයින් 1000ක් පමණ එහි සිටින බවයි.
+
+ඒ සම්බන්ධයෙන් තවමත් තොරතුරු රැස්කරමින් සිටින බැවින් ඒ ගැන තහවුරු කළ නොහැකි බව සහකාර පොලිස් අධිකාරිවරයා පැවසීය.
+
+"යුක්‍රේනයට යාම සඳහා පිරිසක් ඉන්දියාවට ගිහින් තියෙනවා. ඉන් 23 දෙනෙක් එතැනින් පෝලන්තයට ගොස් ඒ හරහා යුක්‍රේනයට ගොස් ඇති බවට තොරතුරු ලැබුණා. රුසියාවට ගිය අයගෙන් තුන් දෙනෙක් බේරිලා ඇවිත් තියෙනවා...."
+
+...
+
+[Data](articles/dff85928.json)
+
+---
+
+### US Representative
 
 *2024-05-10 11:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-அமெரிக்க-பிரதிநிதி/175-337078) · `ta`
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லூ இன்று (10) இந்தியாவுக்கு விஜயம் செய்யவுள்ளார்.
+US Assistant Secretary Donald Lu visits India today, part of a week-long trip to South Asia. His goal is to bolster bilateral ties with India, Sri Lanka, and Bangladesh, with a focus on supporting Sri Lanka's economic growth.
 
-இன்று முதல் எதிர்வரும் 15ஆம் திகதி வரை தெற்காசிய பிராந்தியத்தில் தங்கியிருக்கும் அவர், இந்தியாவைத் தொடர்ந்து இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கும் விஜயம் செய்யவுள்ளதாக அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-ஒவ்வொரு நாட்டுடனும் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்துவதே அவரது பயணத்தின் நோக்கம் என்று தெரிவிக்கப்பட்டுள்ளது.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu will visit India today (10).
 
-அவரது இலங்கை விஜயத்தின் போது, ​​நாட்டின் பொருளாதார வளர்ச்சிக்கு அமெரிக்காவின் ஆதரவு மீண்டும் உறுதிப்படுத்தப்படும் என்றும் கூறப்படுகிறது.
+The US State Department has said that he will stay in the South Asian region from today to the 15th of this month, followed by India and Sri Lanka and Bangladesh.
+
+The purpose of his journey is to strengthen bilateral cooperation with each country.
+
+During his visit to Sri Lanka, it is also reported that US support for the country's economic growth will be re -confirmed.
 
 ◼️
 
 [Data](articles/721d455b.json)
 
+[Extended Data](ext_articles/721d455b.ext.json)
+
 ---
 
-### අමෙරිකාවේ ප්‍රබලයෙක් ඉන්දු - ලංකා සංචාරයක
+### US-powder of America - Sri Lankan visit to Sri Lanka
 
 *2024-05-10 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196471) · `si`
 
-දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ අද (10) ඉන්දියාවට පැමිණීමට නියමිතය.
+The US Assistant Secretary of State for South and Central Asian Affairs is visiting India, Bangladesh, and Sri Lanka from 10 to 15. The purpose is to enhance bilateral cooperation and reassess US support for Sri Lanka's economic growth.
 
-අද සිට 15 වනදා දක්වා දකුණු ආසියානු කලාපය තුළ රැ‍ඳී සිටින ඔහු ඉන්දියාවෙන් අනතුරුව ශ්‍රී ලංකාවට සහ බංග්ලාදේශයට ද පැමිණීමට නියමිත බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-ඔහුගේ සංචාරයේ අරමුණ එක් එක් රටවල් සමග ද්විපාර්ශ්වික සහයෝගීතාව ශක්තිමත් කරගැනීමය.
+US Assistant Secretary of State for South and Central Asian Affairs is due to arrive in India today (10).
 
-ඔහුගේ ශ්‍රී ලංකා සංචාරයේදී මෙරට ආර්ථික වර්ධනය සඳහා අමෙරිකාවේ සහාය යළිත් තහවුරු කරනු ඇති බවද සඳහන් වෙයි.
+He is due to be in the South Asian region from today to 15 to 15 and is due to arrive in Sri Lanka after India and Bangladesh.
+
+His purpose is to strengthen bilateral cooperation with each countries.
+
+It is said that the US support for the economic growth of Sri Lanka will be reassigned during his visit to Sri Lanka.
 
 ◼️
 
 [Data](articles/52fb51c8.json)
 
+[Extended Data](ext_articles/52fb51c8.ext.json)
+
 ---
 
-### இரத்தினபுரி பகுதியில் தொடரும் தோட்ட அதிகாரிகளின் அடாவடித்தனம் தொடர்பாக இ.தொ.கா உடனடி நடவடிக்கை
+### CWC's immediate action on the plight of plantation officers in Ratnapura
 
 *2024-05-10 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183131) · `ta`
 
-இரத்தினபுரி பகுதியில் தொடரும் தோட்ட அதிகாரிகளின் அடாவடித்தனம் தொடர்பாக சட்டநடவடிக்கை எடுக்குமாறு பொலிஸ் மா அதிபருக்கு அமைச்சர் ஜீவன் தொண்டமான் பணிப்புரை விடுத்துள்ளார்.
+Minister Jeevan Thondaman has directed legal action against attackers of plantation workers in Ratnapura, following an incident that resulted in serious injuries to two workers. The Ceylon Workers Congress (CWC) has condemned the attack and called for government protection. The police have arrested the attackers, and the CWC hopes for appropriate legal action.
 
-இரத்தினபுரி தும்பறை 82 ஆம் பிரிவில் உள்ள  தோட்ட அதிகாரி மற்றும் காவலாளி ஆகியோர் இணைந்து தோட்ட தொழிலாளர்களை  தாக்கப்பட்ட சம்பவம் தொடர்பில் உடனடி நடவடிக்கையினை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபருக்கு நீர்வழங்கள் மற்றும் தோட்ட உட்கட்டமைப்பு  அபிவிருத்தி அமைச்சரும் இலங்கை  தொழிலாளர் காங்கிரஸ் பொதுச்செயலாருமான ஜீவன் தொண்டமான் பணிப்புரை விடுத்துள்ளார்.
+🟩
 
-இரத்தினபுரி தும்பறை 82 ஆம் பிரிவில் உள்ள தொழிலாளர்கள் தாக்கப்பட்ட சம்பவம் தொடர்பில் இலங்கை தொழிலாளர் காங்கிரஸின் தேசிய அமைப்பாளரும் முன்னாள் மத்தியமாகாண சபை உறுப்பினருமான ஏ. பி.சக்திவேல் மற்றும் இலங்கை தொழிலாளர் காங்கிரஸின் உப தலைவர் சின்னையா இராஜமணி ஆகியோர் தாக்குதலுக்கு உள்ளான தொழிலாளர்களை நேரடியாக சந்தித்து கலந்துரையாடியுள்ளனர்.
+Minister Jeevan Thondaman has issued a directive to the Inspector General of Police to take legal action on the plight of plantation officers in the Ratnapura area.
+
+Jeevan Thondaman, Minister of Water Resources and Plantation Infrastructure and Ceylon Workers Congress, has issued a directive to the Inspector General of Water Resources and Plantation Infrastructure and the General Secretary of the Ceylon Workers Congress to take immediate action regarding the attack on the plantation workers.
+
+The National Organizer of the Ceylon Workers Congress and a member of the Central Council of the Central Council. P. Sakthivel and Vice President of the Ceylon Workers Congress, Chinnaya Rajamani, have met directly to meet the attackers.
+
+In addition, a male worker and a female worker who were attacked have been admitted to the Ratnapura District Hospital with serious injuries with the protection of the Ratnapura police.
 
 ...
 
 [Data](articles/0846cb80.json)
+
+[Extended Data](ext_articles/0846cb80.ext.json)
 
 ---
 
@@ -322,17 +364,23 @@ It is revealed that the suspect is an exemption of heroin racket.
 
 ---
 
-### பாராளுமன்ற உறுப்பினரானார் முஜிபுர்
+### Mujibur became a Member of Parliament
 
 *2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/52-337069) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில், பாராளுமன்ற உறுப்பினராக முஜிபுர் ரஹ்மான் இன்று (10) சத்தியப்பிரமாணம் செய்து கொண்டார்.
+Mujibur Rahman was sworn in as a Member of Parliament today, filling the vacancy left by Diana Kamage's removal.
 
-டயானா கமகே பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து வெற்றிடமான இடத்துக்கு முஜிபுர் ரஹ்மான் நியமிக்கப்பட்டுள்ளார்.
+🟩
+
+In the presence of Speaker Mahinda Yapa Abeywardena, Mujibur Rahman was sworn in as a Member of Parliament today (10).
+
+Mujibur Rahman has been appointed to the vacant place following the removal of Diana Kamage as a Member of Parliament.
 
 ◼️
 
 [Data](articles/39bdfbc7.json)
+
+[Extended Data](ext_articles/39bdfbc7.ext.json)
 
 ---
 
@@ -2171,25 +2219,5 @@ Meanwhile, the Colombo Magistrate's Court on Thursday issued an injunction order
 [Data](articles/f6ae6eda.json)
 
 [Extended Data](ext_articles/f6ae6eda.ext.json)
-
----
-
-### Women Parliamentarians’ Caucus wants SJB to appoint female to Diana’s seat
-
-*2024-05-09 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-Caucus-wants-SJB-to-appoint-female-to-Dianas-seat/108-282258) · `en`
-
-Colombo, May 09 (Daily Mirror)- The Women Parliamentarians' Caucus (WPC) has  requested the Samagi Jana Balavegaya to appoint a suitable woman to the parliamentary seat of Diana Gamage.
-
-In a letter to the SJB General Secretary, the WPC said while they respect the decision of the Supreme Court, they  deeply reregret losing a member of the Women Parliamentarians' Caucus and the reduction of the women's representation in Parliament.
-
-The WPC said in the letter that women's representation in Parliament is crucial for effective democracy as experience, knowledge and the forward vision of the women contribute to drafting policies that are beneficial to all members in society.
-
-They requested the SJB to consider appointing a suitable female to the vacant  parliamentary seat of Diana Gamage.
-
-◼️
-
-[Data](articles/8bc42519.json)
-
-[Extended Data](ext_articles/8bc42519.ext.json)
 
 ---

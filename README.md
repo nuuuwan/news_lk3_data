@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 07:18:46**
+As of **2024-05-10 07:45:28**
 
 ## Newspaper Stats
 
-*Scraped **23,090** Articles*
+*Scraped **23,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
 virakesarilk | 3,436
-dailymirrorlk | 3,630
-adaderanasinhalalk | 3,691
+dailymirrorlk | 3,631
+adaderanasinhalalk | 3,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,081 (100.0%) of 23,090 articles have been extended.
+23,090 (100.0%) of 23,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### T20 ලෝක කුසලානයට යන ශ්‍රී ලංකා සංචිතය වෙනුවෙන් නිර්මාණය කළ වීඩියෝව
+
+*2024-05-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196461) · `si`
+
+එළඹෙන පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා නම් කළ වන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය ඊයේ (09) ප්‍රකාශයට පත් කෙරුණි.
+
+වනිදු හසරංගගේ නායකත්වයෙන් යුත් මෙම සංචිතය සඳහා ක්‍රීඩකයින් 15 දෙනෙකු ඇතුළත් ය.
+
+ඒ අනුව ලෝක කුසලානයට සහභාගී වන 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය මැයි මස 14 වන දින දිවයිනෙන් පිටත්ව යන බව සඳහන් වෙයි.
+
+පන්දුවාර 20 -20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිතය.
+
+ශ්‍රී ලංකා සංචිතය ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේ මේ ආකාරයෙනි.
+
+◼️
+
+[Data](articles/54362276.json)
+
+---
+
+### අර්බුද සමයේ ඉන්ධන අතුරුදන් වූ අයුරු සොයයි
+
+*2024-05-10 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196460) · `si`
+
+ඛනිජ තෙල් තොග ගබඩා පර්යන්තවලින් අර්බුද සමයේ පිටතට රැගෙන ගිය ඇතැම් ඉන්ධන තොග අතුරුදන් වී ඇති බවට බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය වී තිබේ.
+
+එම කාරක සභාව හමුවට ශ්‍රී ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ නිලධාරීන් කැඳවා සිදුකළ ප්‍රශ්න කිරිමේදී මේ පිළිබඳ අනාවරණය වී ඇති බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා පැවසීය.
+
+අර්බුද සමයේ ඛනිජ තෙල් තොග ගබඩා පර්යන්තයේ දත්ත ගබඩා තුළ පවතින දත්ත සිතා මතා විනාශ කර ඇති බවද මෙහිදී අනාවරණ වී ඇති බව බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා සඳහන් කළේය.
+
+මෙරටට අවශ්‍ය ගල් අඟුරු තොග පතල්කරුවන්ගෙන් සෘජුවම ආනයනය කිරීමට ලංකා අඟුරු සමාගමේ අවදානය යොමුවී ඇති බවද නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා තවදුරටත් පැවසීය.
+
+...
+
+[Data](articles/9890ae3c.json)
+
+---
 
 ### Hikkaduwa Beach Rights Issue oversubscribed
 
@@ -48,6 +86,8 @@ The proceeds will also be used to facilitate the full subscription of the compan
 
 [Data](articles/e33fa84e.json)
 
+[Extended Data](ext_articles/e33fa84e.ext.json)
+
 ---
 
 ### A move to preempt hush-hush project on snap general election before
@@ -63,6 +103,8 @@ However, the Election Commission announced the legal provisions for the conduct 
 ...
 
 [Data](articles/17d3c9ae.json)
+
+[Extended Data](ext_articles/17d3c9ae.ext.json)
 
 ---
 
@@ -82,25 +124,33 @@ Against this backdrop, President Ranil Wickremesinghe is reported to have attemp
 
 [Data](articles/67918ff9.json)
 
+[Extended Data](ext_articles/67918ff9.ext.json)
+
 ---
 
-### අද සවස තද වැසි
+### Heavy rains this evening
 
 *2024-05-10 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196458) · `si`
 
-අද (10) දිනයේ දිවයිනේ බොහෝ පළාත්වල සවස 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Heavy rains and showers expected across many parts of the country today, with heavy showers in Polonnaruwa, Central, Sabaragamuwa, Uva, and Eastern provinces. Western, Southern provinces and Puttalam, Mannar, Kilinochchi, Jaffna districts also affected. Public advised to prepare for strong winds and lightning.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව පෙන්වා දෙයි.
+🟩
 
-මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places elsewhere in many parts of the country today (10).
 
-බස්නාහිර සහ දකුණු පළාත්වලත් පුත්තලම, මන්නාරම, කිලිනොච්චි සහ යාපනය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇති වෙයි.
+The Department of Meteorology issues a latest announcement.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+In some places in the Polonnaruwa District, the Central, Sabaragamuwa, Uva and Eastern provinces.. Heavy showers can occur around 100.
+
+Showers will occur at the Western and Southern provinces and in the Puttalam, Mannar, Kilinochchi and Jaffna districts.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/bffc2e91.json)
+
+[Extended Data](ext_articles/bffc2e91.ext.json)
 
 ---
 
@@ -318,6 +368,8 @@ DIG Thalduwa said illegal human traffickers reportedly sent 60 Sri Lankans to Ru
 
 [Data](articles/fbaa1b34.json)
 
+[Extended Data](ext_articles/fbaa1b34.ext.json)
+
 ---
 
 ### Second Sri Lanka – UK Strategic Dialogue held in Colombo
@@ -417,6 +469,26 @@ The initiative is a response to the alarming gender gap in mobile phone ownershi
 [Data](articles/d55e0e8c.json)
 
 [Extended Data](ext_articles/d55e0e8c.ext.json)
+
+---
+
+### SEC approves Accredited Scholars for Islamic capital market product certification
+
+*2024-05-10 03:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SEC-approves-Accredited-Scholars-for-Islamic-capital-market-product-certification/108-282272) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) yesterday announced the approval of a list of Accredited Shariah Scholars as “Supplementary Service Providers”.
+
+The six scholars are authorised to certify the Shariah compliance of Islamic Capital Market Products intended for listing on the Colombo Stock Exchange (CSE) in accordance with the Listing Rules.
+
+The SEC said it considers this as an essential step in view of products that require Shariah compatibility and to satisfy the needs of Islamic investors.
+
+“Recognising the growing demand for Shariah Compliant Debt Securities such as Sukuk, both domestically and internationally, the SEC took a proactive step by approving an enabling regulatory framework to introduce such products on the Colombo Stock Exchange,” the capital market regulator said in a statement.
+
+The accredited Shariah Scholars and compliance certification process approved by the SEC will provide credibility to the products listed on the Exchange, it added.
+
+...
+
+[Data](articles/d8a34801.json)
 
 ---
 
@@ -687,6 +759,8 @@ The bonds of issuers that are very close to default show little distinction betw
 ...
 
 [Data](articles/938a49b1.json)
+
+[Extended Data](ext_articles/938a49b1.ext.json)
 
 ---
 
@@ -2097,83 +2171,5 @@ In many places in Jaffna over the past week, more than 40 degrees Celsius showed
 [Data](articles/aa7b6cb0.json)
 
 [Extended Data](ext_articles/aa7b6cb0.ext.json)
-
----
-
-### At the end of all, the revelation that dialated
-
-*2024-05-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196443) · `si`
-
-Diana Gamage, a former Sri Lankan state minister, was denied a Parliament seat but remains committed to politics. She held a press conference, emphasizing her support from the President and her readiness to return to Parliament. She criticized the party for canceling her seat, highlighting personal and political crises. Gamage expressed her determination to serve the public, especially women, and vowed to return to Parliament.
-
-🟩
-
-Diyanayana Gamage, who was deprived of the Parliament seat, has been called a special press conference today (09).
-
-Mrs. Diana Gamage, who was a state minister, has decided not to seated in Parliament of Sri Lanka yesterday (08).
-
-Meanwhile, the Colombo Magistrate Court today (09) issued a banned order today (09).
-
-Ms. Diana Gamage said that a press conference was held in such a background,
-
-"My politics will not stop here. Before long, the Parliament dissolves this Parliament. I will definitely come in the future. "
-
-"I always have the support of the President. Ranil Wickremesinghe was the time when the Kottewen was Hang.
-
-"If this decision is so that party also canceled. Because the party assigned my signature. There's a lot of crises in it. They'll tell you in the future. "
-
-"Why did you keep me in the animation if there is a problem?. My is blood in the South. My father was taken by a British woman. It's not my fault. it is good. I like."
-
-...
-
-[Data](articles/f766cb78.json)
-
-[Extended Data](ext_articles/f766cb78.ext.json)
-
----
-
-### Sri Lanka rupee closes steady at 298.65/80 to US dollar
-
-*2024-05-09 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-steady-at-298-65-80-to-us-dollar-162369/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly steady at 298.65/80 to the US dollar on Thursday from 298.75/85 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 10.60/65 percent from 10.60/70 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.90/11.00 percent from 10.95/11.00 percent.
-
-A bond maturing on 15.03.2028 closed stable at 11.35/45 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.05/15 percent.
-
-A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May9/2024)
-
-◼️
-
-[Data](articles/4a9b633f.json)
-
-[Extended Data](ext_articles/4a9b633f.ext.json)
-
----
-
-### Diana gets to mouth
-
-*2024-05-09 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196442) · `si`
-
-Diana Gamage, a former Sri Lankan state minister, lost her parliamentary seat and faced a ban order from the Colombo Magistrate Court.
-
-🟩
-
-Watch out below, the loss of MP Diana Gamage, who lost the Parliament's seat, watch the following.
-
-Mrs. Diana Gamage, who was a state minister, has decided not to seated in Parliament of Sri Lanka yesterday (08).
-
-Meanwhile, the Colombo Magistrate Court today (09) issued a banned order today (09).
-
-◼️
-
-[Data](articles/70589273.json)
-
-[Extended Data](ext_articles/70589273.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 17:33:57**
+As of **2024-05-10 17:54:30**
 
 ## Newspaper Stats
 
-*Scraped **23,189** Articles*
+*Scraped **23,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,969
-tamilmirrorlk | 2,715
 adaderanalk | 2,717
+tamilmirrorlk | 2,719
 virakesarilk | 3,448
 dailymirrorlk | 3,642
-adaderanasinhalalk | 3,716
+adaderanasinhalalk | 3,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,188 (100.0%) of 23,189 articles have been extended.
+23,189 (100.0%) of 23,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### டயனாவின் மனுமீதான விசாரணை குறித்து வெளியான அறிவிப்பு
+
+*2024-05-10 17:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவின்-மனுமீதான-விசாரணை-குறித்து-வெளியான-அறிவிப்பு/175-337094) · `ta`
+
+டயனா கமகேவை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை இரத்து செய்யுமாறு கோரி அவர் தாக்கல் செய்த மனுவை எதிர்வரும் 28ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு உயர் நீதிமன்றம் இன்று (10) உத்தரவிட்டுள்ளது.
+
+மேற்படி மனு மூவரடங்கிய உயர் நீதிமன்ற நீதிபதிகள் குழு முன்னிலையில் இன்று (10) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+டயனா கமகே சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி பைசர் முஸ்தபா, இந்த மனுவை தொடர்வதா, இல்லையா? என்பது குறித்த தீர்மானத்தை நீதிமன்றத்துக்கு அறிவிப்பதற்கு திகதி வழங்குமாறு கோரினார்.
+
+அதன்படி, மனுவை இம்மாதம் 28ஆம் திகதிக்கு விசாரணைக்கு எடுத்துக் கொள்ளுமாறு உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3723af46.json)
+
+---
+
+### நீதிமன்றத்தை நாடினார் மைத்திரி
+
+*2024-05-10 17:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-நாடினார்-மைத்திரி/175-337093) · `ta`
+
+ஶ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதித்து கொழும்பு மாவட்ட நீதிமன்றம் பிறப்பித்த இடைக்கால உத்தரவை ரத்து செய்யுமாறு கோரி முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சிவில் மேன்முறையீட்டு நீதிமன்றில் இன்று (10) மேன்முறையீடு செய்துள்ளார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான திரு.முண்டிகு சரச்சந்திரன் தாக்கல் செய்த மனுவை பரிசீலித்த கொழும்பு மாவட்ட நீதிமன்றம் கடந்த 24ஆம் திகதி பிறப்பிக்கப்பட்ட இடைக்கால உத்தரவை இரத்து செய்யுமாறு கோரியது.
+
+◼️
+
+[Data](articles/8a9830a8.json)
+
+---
+
+### மின்னல் தாக்கத்தில் பலத்த பாதிப்பு
+
+*2024-05-10 17:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தில்-பலத்த-பாதிப்பு/175-337092) · `ta`
+
+வலஸ்முல்ல ஆதார வைத்தியசாலையின் விசேட சிகிச்சைப் பிரிவு மின்னல் தாக்கத்தினால் பலத்த சேதமடைந்துள்ளதாக வலஸ்முல்ல பொலிஸார் தெரிவிக்கின்றனர்.
+
+பலத்த மழையுடன் இன்று பிற்பகல் 2.00 மணியளவில் இந்த மின்னல் தாக்கியதாகவும், விசேட சிகிச்சைப் பிரிவில் மூன்று நோயாளர்கள் இருந்ததாகவும், அவர்கள் உடனடியாக மீட்கப்பட்டு தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டதாகவும் வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+
+மின்னல் தாக்கத்தினால் விசேட சிகிச்சை பிரிவில் இருந்த பெறுமதியான சுகாதார உபகரணங்கள் பல சேதமடைந்துள்ளன. நூறு லட்சத்தை தாண்டும் என மருத்துவமனை தகவல்கள் தெரிவிக்கின்றன
+
+◼️
+
+[Data](articles/bc68a4a8.json)
+
+---
+
+### විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් ලැබී ඇති බවට චෝදනා
+
+*2024-05-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196485) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලිබල පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් ලබාදී ඇතැයි ශ්‍රේෂ්ඨාධිකරණය හමුවේ චෝදනා නැගුණි.
+
+විදුලිබල පනත් කෙටුම්පතේ අන්තර්ගත ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම් අද (10) දෙවන දිනටත් විභාගයට ගත් අවස්ථාවේ දී පෙත්සමක් ගොනුකර තිබූ ලංකා විදුලි සේවක සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ ශාන්ත ජයවර්ධන මහතා මේ බව කියා සිටියේය.
+
+මෙම පෙත්සම් විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ විභාගයට ගනු ලැබීය.
+
+මෙහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ ශාන්ත ජයවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් යෝජිත පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් සලසා දී තිබෙන බව චෝදනා කළේය.
+
+...
+
+[Data](articles/b29216f8.json)
+
+---
 
 ### Warning issued over thundershowers and lightning in parts of the island
 
@@ -54,21 +120,27 @@ Meanwhile, the Met. Department also issued an ‘Amber’ level advisory for sev
 
 ---
 
-### කොලින් මුන්රෝ ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගනී
+### Colin Munroe registers from international cricket
 
 *2024-05-10 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196484) · `si`
 
-නවසීලන්ත ක්‍රීඩක කොලින් මුන්රෝ ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමට තීරණය කර තිබේ.
+Colin Munroe, a 37-year-old former New Zealand cricketer, has retired from international cricket. He played for New Zealand until 2020, participating in one Test, 57 ODIs, and 20 T20 matches. Despite not being included in the recent squad, he was expected to play in T20s this year.
 
-37 හැවිරිදි මුන්රෝ 2013 වසරේ සිට 2020 වසර දක්වා නවසීලන්ත කණ්ඩායම නියෝජනය කළේය.
+🟩
 
-එක් ටෙස්ට් තරගයක්, එක්දින තරග 57ක් සහ 20යි 20 තරග 65කට සහභාගී වෙමින් නවසීලන්ත කණ්ඩායම නියෝජනය කර ඇති ඔහුට 2020 වසරෙන් පසුව ජාතික කණ්ඩායම නියෝජනය කිරීමේ අවස්ථාව හිමි නොවුණි.
+New Zealand players have decided to retire from Kolin Munro International.
 
-කෙසේවෙතත් කොලින් මුන්රෝ මෙවර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වීමට අපේක්ෂාවෙන් පසුවුව ද එම සංචිතය සඳහා ඔහු ඇතුළත්  කර තිබුණේ නැත.
+The 37-year-old Munro represented New Zealand until 2020.
+
+The New Zealand were represented by the New Zealand, participating in one Test, 57 ODIs and 20 matches.
+
+However, he had not included the squad for the incident, however, expected to participate in Collor 20 this year.
 
 ◼️
 
 [Data](articles/ae08251c.json)
+
+[Extended Data](ext_articles/ae08251c.ext.json)
 
 ---
 
@@ -237,6 +309,26 @@ The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urba
 [Data](articles/e58bfee9.json)
 
 [Extended Data](ext_articles/e58bfee9.ext.json)
+
+---
+
+### சூரிய காந்த புயல்: விஞ்ஞானிகள் எச்சரிக்கை
+
+*2024-05-10 15:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சூரிய-காந்த-புயல்-விஞ்ஞானிகள்-எச்சரிக்கை/50-337091) · `ta`
+
+பெப்ரவரி 9 ஆம் திகதி முதல் பெப்ரவரி 10 ஆம் திகதிக்குள் நொடிக்கு 451 - 615 கிலோமீட்டர் வேகத்தில் மிதமான புவி காந்தப் புயலால் பூமி பாதிக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி இன்று (10) இரவு முதல் நாளை (11) இரவு வரை கலிபோர்னியா – தெற்கு அலபாமா வரை அரோரா காந்த புயல் எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+பூமியின் வட அரைக்கோளத்தில் காந்த புயல் காரணமாக தகவல் தொடர்பில் பாதிப்பு ஏற்படலாமெனத் தகவல் வெளியாகியுள்ளது.
+
+இதனால் செயற்கைக் கோள்களின் செயற்பாடுகளும் முடங்க வாய்ப்பிருப்பதாக அமெரிக்க ஆய்வகம் எச்சரிக்கை விடுத்திருக்கிறது.
+
+இதற்கு முன்னாள் ஏற்பட்ட புவி காந்த புயல் பூமி மற்றும் விண்வெளியில் சில பாதிப்புகளை ஏற்படுத்தியுள்ளது. முன்னர் பூமியைத் தாக்கிய புவி காந்த புயல் ரஷ்யாவில் ஒட்டுமொத்தமாக ரேடியோ பிளாக் அவுட் விளைவை ஏற்படுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/69949dff.json)
 
 ---
 
@@ -2183,109 +2275,5 @@ On the 138th observance of World Labour Day, born from a historic struggle for r
 [Data](articles/9565c6da.json)
 
 [Extended Data](ext_articles/9565c6da.ext.json)
-
----
-
-### Kamikawa meets Japanese nationals and business representatives in Sri Lanka
-
-*2024-05-10 05:09:08* · [`dailyftlk`](https://www.ft.lk/news/Kamikawa-meets-Japanese-nationals-and-business-representatives-in-Sri-Lanka/56-761612) · `en`
-
-Japan’s Foreign Affairs Minister Kamikawa Yoko last week attended a lunch with Japanese residents in Sri Lanka, including representatives from Japanese companies on the sidelines of her visit to Colomo.
-
-Minister Kamikawa noted that, in view of the strategic importance of Sri Lanka, her visit aims to strengthen cooperation in debt restructuring, the steady implementation of administrative reforms, promotion of a “Free and Open IndoPacific (FOIP)” as well as in Women, Peace and Security (WPS). Minister Kamikawa stated that the current friendly relations between Sri Lanka and Japan are the result of the daily efforts of Japanese residents and Japanese companies in Sri Lanka and expressed her respect for them.
-
-Minister Kamikawa exchanged views on the current activities and future challenges of the participants in the areas of business and human resource exchange and confirmed that she would co-operate with them to further promote bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/e0925f50.json)
-
-[Extended Data](ext_articles/e0925f50.ext.json)
-
----
-
-### Sri Lanka revs up to be global automobile manufacturing hub
-
-*2024-05-10 05:06:27* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-revs-up-to-be-global-automobile-manufacturing-hub/34-761611) · `en`
-
-World renowned automobile brands being assembled in Sri Lanka under Ministry of Industries Standard Operating Procedure
-
-Following SOP launched in 2021, over 15 automobile and motorcycle assembly plants operate in Sri Lanka
-
-Over 4 assemblers including JAC and FOTON will be starting assembly in Sri Lanka and by end 2024 over 30 assemblers will be in operation in the local automobile assembly industry
-
-Industries Ministry sponsoring 50% of the cost of International Automotive Task Force  certification for local automotive component manufacturers
-
-Govt. promoting automobile component manufacturing as a thrust sector for growth and plans to grow exports from $ 200 m to $ 1 b
-
-Sri Lanka›s automobile assembly is experiencing significant growth and development with the involvement of world-renowned brands including Hyundai, Proton, BAIC, DFSK, Wuling, Mahindra, TATA, Bajaj, TVS, JMC and Lanka Ashok Leyland emphasizing the favourable environment for investment.
-
-...
-
-[Data](articles/ddf3a9b1.json)
-
-[Extended Data](ext_articles/ddf3a9b1.ext.json)
-
----
-
-### Sri Lanka exporters gear up for Hotel Asia Exhibition 2024 in Maldives
-
-*2024-05-10 05:00:35* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-exporters-gear-up-for-Hotel-Asia-Exhibition-2024-in-Maldives/34-761610) · `en`
-
-From left: SLMLBC President Sudesh Mendis, Sri Lankan High Commissioner to the Maldives Ranga Goonawardena, EDB Chairman and CEO Dr. Kingsley Bernard, and Director – Regional Development Sepalika Jayawardhana
-
-Preparatory meeting held at the Sri Lanka Export Development Board
-
-The Sri Lanka-Maldives Business Council (SLMLBC) of the Ceylon Chamber of Commerce, in collaboration with the Sri Lanka Export Development Board (EDB) and the Sri Lankan High Commission in the Maldives, is organising a business delegation to the renowned Hotel Asia Exhibition in the Maldives from 13-15 May.
-
-...
-
-[Data](articles/8c242534.json)
-
-[Extended Data](ext_articles/8c242534.ext.json)
-
----
-
-### Govt. revenue concerns spike amid drop in liquor production
-
-*2024-05-10 04:46:14* · [`dailyftlk`](https://www.ft.lk/business/Govt-revenue-concerns-spike-amid-drop-in-liquor-production/34-761602) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya reveals 19% drop in alcohol production in 2023
-
-Asserts significant decrease of 15 m units observed in production of popular 180 ml alcohol bottles
-
-Says production of 750 ml, 375 ml experienced notable declines compared to 2022 figures
-
-Urges measures to curb illegal alcohol production to recover lost tax revenue
-
-Reveals 214 new licences granted in 2023, with 147 allocated for specific types catering mainly to tourism sector
-
-Cumulative liquor licences issued by Excise Dept. amounts to 5,730
-
-Emphasises Govt. stance against alcohol promotion with increased liquor licence fee
-
-The Government yesterday expressed concern over significant decline in alcohol production and its potential impact on State revenue.
-
-Addressing the House, State Minister of Finance Ranjith Siyambalapitiya disclosed that alcohol production has seen a significant drop by 19% in 2023.
-
-...
-
-[Data](articles/c6733f20.json)
-
-[Extended Data](ext_articles/c6733f20.ext.json)
-
----
-
-### UAE envoy meets BOI
-
-*2024-05-10 04:44:54* · [`dailyftlk`](https://www.ft.lk/business/UAE-envoy-meets-BOI/34-761601) · `en`
-
-UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri recently met with Board of Investment Chairman Dinesh Weerakkody, and officials of both BOI and Colombo Port City Economic Commission to discuss the current economic climate and investment opportunities in both Colombo Port City and on shore. BOI is collaborating with the UAE Ambassador to arrange a high level government and business delegation from the UAE.
-
-◼️
-
-[Data](articles/f2b271f8.json)
-
-[Extended Data](ext_articles/f2b271f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 21:03:32**
+As of **2024-05-10 21:18:13**
 
 ## Newspaper Stats
 
-*Scraped **23,213** Articles*
+*Scraped **23,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,971
+adalk | 1,972
 adaderanalk | 2,719
 tamilmirrorlk | 2,720
 virakesarilk | 3,450
@@ -26,25 +26,51 @@ adaderanasinhalalk | 3,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,212 (100.0%) of 23,213 articles have been extended.
+23,213 (100.0%) of 23,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### අහුංගල්ලේ වෙඩි තැබීමක්
+### A shooting of Ahungalla
 
 *2024-05-10 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196491) · `si`
 
-අහුංගල්ල, මරදාන ප්‍රදේශයේ යතුරු﻿පැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමක් සිදුව තිබේ.
+In Maradana, two unidentified gunmen on a motorbike shot two people, including a 54-year-old man admitted to Balapitiya Hospital after being shot in the stomach.
 
-වෙඩිතැබීමෙන් 54 හැවිරිදි අයෙක්  තුවාල ලබා බරපතළ තත්ත්වයෙන් මේ වනවිට බලපිටිය රෝහලට ඇතුළත් කර ඇතැයි පොලීසිය සඳහන් කරයි.
+🟩
 
-මිදුලේ දී තුවාලකරු වෙඩි ප්‍රහාරයට ලක්ව ඇති අතර, උණ්ඩ කිහිපයක් ඔහුගේ උදරයට එල්ල වී ඇතැයි පොලීසිය පැවසීය.
+Two unidentified gunmen had been shot by two unidentified gunmen from a motorbike in Maradana.
+
+A 54-year-old shooting has been admitted to the Balapitiya Hospital.
+
+The casualty was shot dead in the yard and a few bullets have been handed over to his stomach.
 
 ◼️
 
 [Data](articles/3a6df92f.json)
+
+[Extended Data](ext_articles/3a6df92f.ext.json)
+
+---
+
+### ඒ.ඩී. රංජිත් කුමාර මහතා අභාවප්‍රාප්ත වෙයි
+
+*2024-05-10 20:25:11* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-ඩී--රංජිත්-කුමාර-මහතා-අභාවප්‍රාප්ත-වෙයි/11-409552) · `si`
+
+සම්මානනීය පුවත්පත් කතුවරයකු මෙන්ම සිනමා ලේඛකයෙකු ලෙස දසක පහකට අධික කාලයක් මාධ්‍ය ක්ෂේත්‍රයේ නිරතව සිටි ඒ.ඩී. රංජිත් කුමාර මහතා අද (10දා) අභාවප්‍රාප්ත විය.
+
+මිය යන විට 77 වැනි වියේ පසුවූ ඒ මහතා ජනප්‍රිය දක්ෂ ගායකවකවන දමයන්ති ජයසූරිය මහත්මියගේ ස්වාමි පුරුෂයා වේ. ඔහු සරසවිය පුවත්පතේ වත්මන් කතුවර ආචාර්ය නුවන් නයනජිත් කුමාර මහතාගේ පියාණන් වෙයි.
+
+එතුමාගේ නිසල දේහය හෙට (11වැනි) දින උදෑසන 8.00 සිට  ගල්කිස්ස ප්‍රදේශයේ මල් ශාලාවක මහජන ගෞරවය සඳහා තබා එදින 10.00ට ඔහුගේ අන්තිම කැමැත්ත අනුව කොතලාවල වෛද්‍ය පීඨයට භාරදීමට කටයුතු යොදා තිබේ.
+
+චිත්‍රපටි නාමාවලි සැකසීමේ ප්‍රවීණයකු වූ ඒ.ඩී.රංජිත් කුමාර මහතා චිත්‍රපටි 100කට අධික සංඛ්‍යාවක නාමාවලි නිර්මාණය කර තිබේ. දක්ෂ පොත් කවර නිර්මාණ  ශිල්පියකු ලෙස ඔහු මිය යන විට පොත් කවර 300කට වඩා නිර්මාණය කිරීමට සිය ප්‍රතිභාව එක්කොට තිබුණි.
+
+මහාචාර්ය සුනිල් ආරියරත්න මහතා නිර්මාණය කළ චිත්‍රපට රැසක නිෂ්පාදන සම්බන්ධීකරණයට දායක වූ ඒ. ඩී. රංජිත් කුමාර මහතා , සරසවි සම්මාන උළෙල මෙන්ම සුමති ටෙලි සම්මාන උළෙලේ ප්‍රධාන සංවිධායකවරයා ලෙස කටයුතු කළේය.
+
+...
+
+[Data](articles/621a3d6f.json)
 
 ---
 
@@ -2305,29 +2331,5 @@ The Parliamentary Communications Department reported that its Chairperson, Membe
 [Data](articles/d2f76deb.json)
 
 [Extended Data](ext_articles/d2f76deb.ext.json)
-
----
-
-### University non-academic issues to be resolved on Monday
-
-*2024-05-10 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196465) · `si`
-
-The university's non-academic staff will discuss their issues, including salary anomalies and allowances, at a Cabinet meeting on Monday. The strike by these workers, which began today, may disrupt essential services if no solution is found soon.
-
-🟩
-
-It has been decided to submit university non-academic employees to the Cabinet of the meeting on Monday.
-
-Minister of Education Susil Premajayantha said that their monthly Hilawe allowance and proposals on the existing salary anomalies since 2016 will be presented to the cabinet.
-
-However, the strike commenced at university non-academic workers will be implemented today.
-
-The Inter University Trade Union Federation Mr. Richmond said that when a definite solution would not have a definite solution to his problems, the essential services will be removed.
-
-◼️
-
-[Data](articles/ca53d4e1.json)
-
-[Extended Data](ext_articles/ca53d4e1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 14:52:09**
+As of **2024-05-10 15:03:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,167 (100.0%) of 23,169 articles have been extended.
+23,169 (100.0%) of 23,169 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,19 +76,25 @@ Residents say that such accidents are underway to maintain a plumber maintain in
 
 ---
 
-### மன அழுத்தத்தால்  தீக்குளித்த இளம்பெண்
+### Era
 
 *2024-05-10 14:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மன-அழுத்தத்தால்-தீக்குளித்த-இளம்பெண்/71-337089) · `ta`
 
-வல்வெட்டித்துறை ஸ்ரீ முருகன் குடியேற்ற பகுதியைச் சேர்ந்த, 26 வயதான இளம்பெண் ஒருவர், தீக்குளித்து உயிரிழந்த சம்பவம் நேற்று (09) இரவு இடம்பெற்றுள்ளது.
+A 26-year-old woman from Valvettithurai died due to a breakup, leading to an accident. The police are investigating the case.
 
-காதல் உறவில் ஏற்பட்ட முறிவினால் உண்டான மனஅழுத்தம் காரணமாகவே, குறித்த பெண் இத்தகைய விபரீத முடிவெடுத்து உயிரிழந்ததாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இது தொடர்பில் கிராம உத்தியோகத்தர் பொலிஸில் முறைப்பாடு செய்ததையடுத்து சடலம் உடற்கூற்று சோதனைக்காக பருத்தித்துறை ஆதார வைத்திய சாலையில் வைக்கப்பட்டுள்ள நிலையில், மேலதிக விசாரணைகளை வல்வெட்டித்துறை பொலிஸார் மேற்கொண்டு வருகின்றனர்.S
+The incident took place last night (09), a 26 -year -old girl from Sri Murugan's colonial area in Valvettithurai.
+
+It is reported that the woman has died of such an accident due to the breakup of a romantic relationship.
+
+Further investigations are being carried out by Valvettithurai police as the body of the Grama Niladhari has lodged a complaint with the police.
 
 ◼️
 
 [Data](articles/cb090cf3.json)
+
+[Extended Data](ext_articles/cb090cf3.ext.json)
 
 ---
 
@@ -112,21 +118,27 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 
 ---
 
-### විමසිලිමත් වන්න !
+### Be inquisitive!
 
 *2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්න--/11-409548) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණ, නැවගනහිර, ඌව සහ උතුරු-මැද පළාත්වල සහ මාතවේ, මුලතිවු සහ කුරුණෑගල
+In the Western, Sabaragamuwa, Southern, and Uva regions, expect evening or night thundershowers, strong winds, and lightning-related diseases. Authorities advise taking precautions.
 
-දිස්ත්‍රික්ක වල සවස් කාලවේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රභල අකුණු ඇතිවීමේ වැඩි
+🟩
 
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැක. අකුණු මඟින් සිදුවන අනතුරු අවම
+Western, Sabaragamuwa, Southern, Uva, Uva, Mothawala, Mothuwewa, Mullaawala
 
-කර ගැනීමට අවශය පියවර ගන්නා ලෙස ජනතාවගෙන් කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව  ඉල්ලා සිටියි.
+Increasingly thundershowers during the evening or night during the districts
+
+There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
+
+The weather forearm is requested to take necessary steps to be taken to do.
 
 ◼️
 
 [Data](articles/3bd4afbe.json)
+
+[Extended Data](ext_articles/3bd4afbe.ext.json)
 
 ---
 

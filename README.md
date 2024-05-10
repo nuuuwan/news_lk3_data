@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 09:33:52**
+As of **2024-05-10 09:52:40**
 
 ## Newspaper Stats
 
-*Scraped **23,107** Articles*
+*Scraped **23,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,110 @@ economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,962
 tamilmirrorlk | 2,701
-adaderanalk | 2,703
+adaderanalk | 2,705
 virakesarilk | 3,436
 dailymirrorlk | 3,632
-adaderanasinhalalk | 3,697
+adaderanasinhalalk | 3,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,106 (100.0%) of 23,107 articles have been extended.
+23,107 (100.0%) of 23,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවක ගැටලු විසඳන යෝජනා සඳුදා කැබිනට්ටුවට
+### O/L exam irregularities reported from Colombo and Hasalaka
+
+*2024-05-10 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99121/ol-exam-irregularities-reported-from-colombo-and-hasalaka) · `en`
+
+The Commissioner General of Examinations, Mr. H.J.M.C. Amith Jayasundara, says that a complaint will be lodged with the Criminal Investigation Department (CID) today (10) concerning irregularities detected during the ongoing G.C.E. Ordinary Level examination.
+
+These irregularities have been reported at two examination centers in Colombo and one in the Hasalaka area. It has come to light that certain candidates had attempted to obtain answers by discreetly capturing photographs of the English question paper using mobile phones and sharing them with third parties.
+
+The Department of Examinations has confirmed that officials present at the examination centers at the time seized the mobile phones in question.
+
+In response to an inquiry from Ada Derana, the Commissioner General confirmed that complaints have been filed with the local police stations in the respective areas where the said examination centers are situated.
+
+◼️
+
+[Data](articles/9f433542.json)
+
+---
+
+### මුජිබුර් දිවුරුම් දෙයි
+
+*2024-05-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196467) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස මුජිබුර් රහුමාන් මහතා අද (10) දිනයේ දිවුරුම් දුන්නේය.
+
+ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වු සමගි ජන බලවේගය පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා පත් කිරීමට එම පක්ෂය තීරණය කළේය.
+
+ඒ අනුව එම නම ඇතුළත් ගැසට් නිවේදනය මැතිවරණ කොමිසම විසින් ඊයේ (09) ප්‍රකාශයට පත් කර තිබුණි.
+
+ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට සඳහන් කරමින් ශ්‍රේෂ්ඨාධිකරණය තීන්දුවක් ප්‍රකාශයට පත් කළේය.
+
+◼️
+
+[Data](articles/dc600359.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+
+*2024-05-10 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196466) · `si`
+
+අද (10) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/e6700ded.json)
+
+---
+
+### Mujibur Rahman to take oath as Member of Parliament today
+
+*2024-05-10 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99120/mujibur-rahman-to-take-oath-as-member-of-parliament-today) · `en`
+
+Mujibur Rahman of the ‘Samagi Jana Balawegaya’ (SJB) is scheduled to be sworn in as a Member of Parliament today (10).
+
+In response to an inquiry from Ada Derana, he confirmed that the swearing-in ceremony is slated to take place after the Parliament convenes at 9:30 am this morning.
+
+The ‘Samagi Jana Balawegaya’ (SJB) party has decided to nominate former Member of Parliament Mr. Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
+
+However, the Sri Lanka Women Parliamentarians’ Caucus has called for the appointment of a suitable woman to fill Diana Gamage’s vacant seat.
+
+The Parliamentary Communications Department reported that its Chairperson, Member of Parliament Dr. Sudarshani Fernandopulle, has sent a letter to the General Secretary of the SJB, Mr. Ranjith Madduma Bandara, in this regard.
+
+...
+
+[Data](articles/d2f76deb.json)
+
+---
+
+### University non-academic issues to be resolved on Monday
 
 *2024-05-10 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196465) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ ගැටලු විසදීම සඳහා වන යෝජනා එළඹෙන සඳුදා දිනයේ රැස්වන කැබිනට් මණ්ඩලයට ඉදිරිපත් කිරිමට තීරණය කර තිබේ.
+The university's non-academic staff will discuss their issues, including salary anomalies and allowances, at a Cabinet meeting on Monday. The strike by these workers, which began today, may disrupt essential services if no solution is found soon.
 
-ඒ අනුව ඔවුන්ගේ මාසික හිලව් දීමනාව සහ 2016 වසරේ සිට පවතින වැටුප් විෂමතාව සම්බන්ධයෙන් වන යෝජනා කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කරන බව අද දෙරණ කළ විමසීමකදී අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+🟩
 
-කෙසේවෙතත් විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් ආරම්භ කර ඇති වැඩ වර්ජනය අද 08 වන දිනටත් ක්‍රියාත්මක කෙරේ.
+It has been decided to submit university non-academic employees to the Cabinet of the meeting on Monday.
 
-සිය ගැටලු සඳහා එළඹෙන සඳුදා දිනය වනවිට නිශ්චිත විසඳුමක් ලබානොදුන හොත් වර්ජන ක්‍රියාමාර්ගය දැඩි කරමින් අත්‍යවශ්‍ය සේවාවලින් ද ඉවත් වන බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති සම්මේලනයේ සමලේකම් කේ.එල්.ඩී රිච්මන්ඩ් මහතා පැවසීය.
+Minister of Education Susil Premajayantha said that their monthly Hilawe allowance and proposals on the existing salary anomalies since 2016 will be presented to the cabinet.
+
+However, the strike commenced at university non-academic workers will be implemented today.
+
+The Inter University Trade Union Federation Mr. Richmond said that when a definite solution would not have a definite solution to his problems, the essential services will be removed.
 
 ◼️
 
 [Data](articles/ca53d4e1.json)
+
+[Extended Data](ext_articles/ca53d4e1.ext.json)
 
 ---
 
@@ -2119,89 +2193,5 @@ In the early 19th century Sweden was a very poor country. This was due to the ex
 [Data](articles/a4ae0ba4.json)
 
 [Extended Data](ext_articles/a4ae0ba4.ext.json)
-
----
-
-### Sri Lanka announces squad for T20 World Cup 2024
-
-*2024-05-09 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-announces-squad-for-T20-World-Cup-2024/108-282257) · `en`
-
-The Sri Lankan Cricket Selection Committee has unveiled the much-anticipated 15-member squad set to represent the nation in the upcoming ICC Men's T20 World Cup 2024.
-
-Under the captaincy of Wanindu Hasaranga, and with Charith Asalanka serving as the vice-captain, the team boasts a formidable lineup comprising seasoned veterans and promising young talents.
-
-◼️
-
-[Data](articles/4e203e7a.json)
-
-[Extended Data](ext_articles/4e203e7a.ext.json)
-
----
-
-### A number to send Sri Lankans to Russia
-
-*2024-05-09 18:55:13* · [`adalk`](https://www.ada.lk/breaking_news/රුසියා-යුද්ධයට-ලාංකිකයන්-යැවීම-ගැන-තොරතුරු-කියන්න-අංකයක්/11-409533) · `si`
-
-The Sri Lankan Defense Ministry has set up a section to address human trafficking concerns, focusing on retired individuals sent to Russia for illegal road work. This initiative follows the return of Armed Forces personnel from the Russian and Ukrainian wars. The Defense Secretary requests families to share information about their members involved in trafficking or any other related activities via the provided phone number, emphasizing the importance of protecting Sri Lankan citizens.
-
-🟩
-
-The Defense Ministry announced that the Defense Ministry has established a special section for information on the President's trafficking for human trafficking of retired persons in Sri Lanka for the illegal roads.
-
-Accordingly, the Armed Forces who have left the Russian war along with various roads, including their visit to the JVP, who have gone to the Ukrainian war, have been obtained from the Ministry of Defense, organized telephone numbers 0112441146.Defense secretary requests members of the families of the relevant people.
-
-Also, if there are any information about people or other people involved in human trafficking, the Defense Secretary will be asked to provide those details to the above telephone number.
-
-Since this is simply, the lives of the lives of Sri Lankan citizens is also asked to pay special attention to this.
-
-◼️
-
-[Data](articles/5fdf1cfa.json)
-
-[Extended Data](ext_articles/5fdf1cfa.ext.json)
-
----
-
-### Explains the Bill to be brought to parliament tomorrow
-
-*2024-05-09 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196448) · `si`
-
-Tomorrow, the Telecommunication Regulatory Bill, a 28-year amendment to the Telecommunications Regulatory Act, will be presented to Parliament. Minister Kanaka Herath also announced the drafting of the National Cyber Security Act in May.
-
-🟩
-
-Minister of Technology Kanaka Herath says that the Telecommunication Regulatory Bill will be presented to Parliament tomorrow (10).
-
-The revised Bill to amend the Telecommunications Regulatory Act after 28 years is to be presented to Parliament.
-
-අමාත්‍යවරයා මෙම අදහස් පළ කර සිටියේ ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
-
-Minister of State Kanaka Herath added that the National Cyber Security Act also drafted in May.
-
-◼️
-
-[Data](articles/75d092c2.json)
-
-[Extended Data](ext_articles/75d092c2.ext.json)
-
----
-
-### Presidential election between 17 and October 16
-
-*2024-05-09 18:40:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-17-හා-ඔක්-16-අතර/11-409532) · `si`
-
-The Elections Commission has announced that the presidential election will take place between September 17 and October 16, 2024, based on the powers vested in the Commission.
-
-🟩
-
-The Elections Commission states that the call for the election of the presidential election is subject to the arrangements of the President of the President.
-
-ඡන්ද විමසීම පැවැත් වීම සඳහා  දින නියම කිරීමට  කොමිෂන් සභාවට පැවරී ඇති බලතල  අනුව  2024 ජනාධිපතිවරණයේ ඡන්ද විමසීම සැප්තැම්බර් 17 වැනිදා සහ ඔක්තෝබර් 16 වැනිදා අතර කාලය තුළ පවත්වන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි
-
-◼️
-
-[Data](articles/0363e3db.json)
-
-[Extended Data](ext_articles/0363e3db.ext.json)
 
 ---

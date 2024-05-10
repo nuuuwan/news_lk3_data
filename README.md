@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 01:33:45**
+As of **2024-05-11 01:51:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,250 (100.0%) of 23,254 articles have been extended.
+23,254 (100.0%) of 23,254 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The BASL noted that there are five vacancies to date and said the situation meri
 
 [Data](articles/de0a90ba.json)
 
+[Extended Data](ext_articles/de0a90ba.ext.json)
+
 ---
 
 ### Mujibur sworn in as National List MP
@@ -68,6 +70,8 @@ The Secretary-General of Parliament informed the Election Commission that a Parl
 
 [Data](articles/52df4a67.json)
 
+[Extended Data](ext_articles/52df4a67.ext.json)
+
 ---
 
 ### COPA looks into current performance of National Education Management Information System
@@ -81,6 +85,8 @@ The Committee expressing displeasure, mentioned that although this Committee has
 ...
 
 [Data](articles/9aeaaf6b.json)
+
+[Extended Data](ext_articles/9aeaaf6b.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ A supplementary report on the ongoing investigation progress by the CID was subm
 ◼️
 
 [Data](articles/897e3194.json)
+
+[Extended Data](ext_articles/897e3194.ext.json)
 
 ---
 

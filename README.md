@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 05:18:28**
+As of **2024-05-10 05:36:07**
 
 ## Newspaper Stats
 
-*Scraped **23,063** Articles*
+*Scraped **23,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,330
-dailyftlk | 1,337
+dailyftlk | 1,341
 adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
-virakesarilk | 3,431
+virakesarilk | 3,436
 dailymirrorlk | 3,625
 adaderanasinhalalk | 3,690
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,062 (100.0%) of 23,063 articles have been extended.
+23,063 (100.0%) of 23,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Revitalising Sri Lanka’s future: Path forward with export-oriented manufacturing economy
+
+*2024-05-10 05:18:35* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-s-future-Path-forward-with-export-oriented-manufacturing-economy/4-761615) · `en`
+
+The importance of entrepreneurs as the backbone of our economy should be recognised and honoured
+
+Sri Lanka has been through an unprecedented macroeconomic crisis with a complete economic meltdown since 2022 resulting from years of financial mismanagement, and the current global recession resulted from the scarring effects of the COVID-19 pandemic, geopolitical tensions, and many other factors. To date, the country indicates signs of stabilisation but, still faces challenges with elevated poverty levels, income inequality, and labour market concerns.
+
+Given these challenges, the Government needs to carefully plan monetary and fiscal policies and implement growth-enhancing structural reforms to emerge from the current economic crisis, while laying the foundation for improving long-term green, resilient, and inclusive growth prospects. Future generations desperately require us to develop our country to give them a chance to live a comfortable life when it becomes their turn.
+
+...
+
+[Data](articles/04715b6c.json)
+
+---
+
+### Widening gap between rhetoric and reality
+
+*2024-05-10 05:15:15* · [`dailyftlk`](https://www.ft.lk/columns/Widening-gap-between-rhetoric-and-reality/4-761614) · `en`
+
+Vast amounts could be saved by better expenditure management, and besides, it will increase the confidence of the people that their taxes are being utilised fairly and justly
+
+On the 138th observance of World Labour Day, born from a historic struggle for rights, our nation stands at a pivotal moment. Regardless of political affiliations, it falls upon each of us to shoulder the unshakable duty of fortifying our economy and propelling our nation onward – President Ranil Wickremesinghe
+
+...
+
+[Data](articles/9565c6da.json)
+
+---
+
+### Kamikawa meets Japanese nationals and business representatives in Sri Lanka
+
+*2024-05-10 05:09:08* · [`dailyftlk`](https://www.ft.lk/news/Kamikawa-meets-Japanese-nationals-and-business-representatives-in-Sri-Lanka/56-761612) · `en`
+
+Japan’s Foreign Affairs Minister Kamikawa Yoko last week attended a lunch with Japanese residents in Sri Lanka, including representatives from Japanese companies on the sidelines of her visit to Colomo.
+
+Minister Kamikawa noted that, in view of the strategic importance of Sri Lanka, her visit aims to strengthen cooperation in debt restructuring, the steady implementation of administrative reforms, promotion of a “Free and Open IndoPacific (FOIP)” as well as in Women, Peace and Security (WPS). Minister Kamikawa stated that the current friendly relations between Sri Lanka and Japan are the result of the daily efforts of Japanese residents and Japanese companies in Sri Lanka and expressed her respect for them.
+
+Minister Kamikawa exchanged views on the current activities and future challenges of the participants in the areas of business and human resource exchange and confirmed that she would co-operate with them to further promote bilateral relations between the two countries.
+
+◼️
+
+[Data](articles/e0925f50.json)
+
+---
+
+### Sri Lanka revs up to be global automobile manufacturing hub
+
+*2024-05-10 05:06:27* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-revs-up-to-be-global-automobile-manufacturing-hub/34-761611) · `en`
+
+World renowned automobile brands being assembled in Sri Lanka under Ministry of Industries Standard Operating Procedure
+
+Following SOP launched in 2021, over 15 automobile and motorcycle assembly plants operate in Sri Lanka
+
+Over 4 assemblers including JAC and FOTON will be starting assembly in Sri Lanka and by end 2024 over 30 assemblers will be in operation in the local automobile assembly industry
+
+Industries Ministry sponsoring 50% of the cost of International Automotive Task Force  certification for local automotive component manufacturers
+
+Govt. promoting automobile component manufacturing as a thrust sector for growth and plans to grow exports from $ 200 m to $ 1 b
+
+Sri Lanka›s automobile assembly is experiencing significant growth and development with the involvement of world-renowned brands including Hyundai, Proton, BAIC, DFSK, Wuling, Mahindra, TATA, Bajaj, TVS, JMC and Lanka Ashok Leyland emphasizing the favourable environment for investment.
+
+...
+
+[Data](articles/ddf3a9b1.json)
+
+---
 
 ### Sri Lanka exporters gear up for Hotel Asia Exhibition 2024 in Maldives
 
@@ -45,6 +113,8 @@ The Sri Lanka-Maldives Business Council (SLMLBC) of the Ceylon Chamber of Commer
 ...
 
 [Data](articles/8c242534.json)
+
+[Extended Data](ext_articles/8c242534.ext.json)
 
 ---
 
@@ -145,6 +215,78 @@ During the proceedings, Counsel Nishan Premaratne, representing the plaintiff, p
 [Data](articles/c6317e99.json)
 
 [Extended Data](ext_articles/c6317e99.ext.json)
+
+---
+
+### தொலைத்தொடர்பு ஒழுங்குபடுத்தல் திருத்தச் சட்ட மூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் - தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத்
+
+*2024-05-10 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183106) · `ta`
+
+28 வருடங்களின் பின்னர் தொலைத்தொடர்பு ஒழுங்குபடுத்தல் சட்டத்தில் திருத்தம் செய்வதற்கான திருத்தப்பட்ட சட்டமூலம் வெள்ளிக்கிழமை (10) பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+மேலும், தேசிய சைபர் பாதுகாப்புச் சட்டத்தை இம்மாதம் தயாரிக்கத் திட்டமிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (09) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/382f19c0.json)
+
+---
+
+### ஜப்பான், தென்னாபிரிக்கா, சுவிட்சர்லாந்து தூதுவர்களுக்கும் தேசிய மக்கள் சக்திக்கும் இடையிலான சந்திப்பு
+
+*2024-05-10 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183105) · `ta`
+
+இலங்கைக்கான ஜப்பானியத் தூதுவர் MIZUKOSHI Hideaki,தென்னாபிரிக்க உயர்ஸ்தானிகர்  Sandile Schalk மற்றும்  சுவிட்சர்லாந்து தூதுவர் திருமதி. Siri Walt ஆகியோர் வியாழக்கிழமை (09) பிற்பகல் ம.வி.மு. தலைமை அலுவலகத்தில் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட பிரதிநிதிகளை சந்தித்தனர்.
+
+இந்தச் சந்திப்பில் ஜப்பானியத் தூதரகத்தின் அரசியல் பிரிவுக்கான முதலாவது செயலாளர் MURATA Shinichi, தென்னாபிரிக்க உயர்ஸ்தானிகர் அலுவலகத்தின் அரசியல் பிரிவுக்கான இரண்டாவது செயலாளர் Zanethemba Tshangela, சுவிட்சர்லாந்து தூதரகத்தின் அரசியல் பிரிவுக்கான முதலாவது செயலாளர் Justine Boillat ஆகியோரும், தேசிய மக்கள் சக்தியின் சார்பில் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் கலாநிதி ரிஷ்வி சாலி, தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சரோஜா போல்ராஜ், தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் இராமலிங்கம் சந்திரசேகர், தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சட்டத்தரணி ஹர்ஷன நாணயக்கார, பிமல் ரத்நாயக்க ஆகியோர் கலந்துகொண்டிருந்தனர்.
+
+...
+
+[Data](articles/ff6a8240.json)
+
+---
+
+### இ.தொ.கா.வின் அரசியல் பலத்தினால் பெருந்தோட்ட மக்கள் நிம்மதியாக வாழ்கிறார்கள் - மருதபாண்டி ராமேஸ்வரன் பெருமிதம்
+
+*2024-05-10 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183104) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் அரசியல் பலத்தினால் தான் பெருந்தோட்ட மக்கள் நிம்மதியாக வாழ்கிறார்கள். குறைகளை மாத்திரம் முன்வைத்துக் கொண்டிருந்தால் பிரச்சினைகளுக்கு தீர்வு காண முடியாது. சம்பள விவகாரத்தில் ஜனாதிபதி சிறந்த தீர்வினை பெற்றுக்கொடுப்பார் என்ற நம்பிக்கை உள்ளது என  ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஸ்வரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (9) இடம்பெற்ற கடை,அலுவலக ஊழியர் (ஊழியத்தையும் வேதனத்தையும் ஒழுங்குப்படுத்தல்),( திருத்தச்) சட்டமூலம் மீதான விவாதத்தில்  தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்புகள் அமைச்சர் மனுஷ நாணயக்கார குறிப்பிட்ட விடயங்களை சுட்டிக்காட்டி உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/86e16562.json)
+
+---
+
+### பாராளுமன்ற  வெற்றிடத்துக்கு பெண் உறுப்பினரை நியமியுங்கள் - பெண் பாராளுமன்ற உறுப்பினர் ஒன்றியம் ஐ.ம.சக்தியிடம் கோரிக்கை
+
+*2024-05-10 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183103) · `ta`
+
+இராஜாங்க அமைச்சர் டயானா கமகே அவர்களின் பாராளுமன்ற உறுப்பினர் பதவி இரத்துச் செய்யப்பட்டதன் காரணமாக ஏற்பட்ட வெற்றிடத்துக்குப் பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு கோரி பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவர் (வைத்தியகலாநிதி) சுதர்ஷினி பெர்னாந்துபுள்ளே, ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவுக்கு கடிதமொன்றை அனுப்பியுள்ளார்.
+
+இராஜாங்க அமைச்சர் டயானா கமகே அவர்களின் பாராளுமன்ற உறுப்பினர் இரத்துச் செய்து வழங்கப்பட்ட ரிட் மனு மீதான தீர்ப்புத் தொடர்பில் உயர்நீதிமன்றத்துக்குக் காணப்படும் நீதிமன்ற அதிகாரத்துக்கு மதிப்பளித்து, அதனை கேள்விக்கு உட்படுத்தாது குறித்த தீர்ப்பினால் பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் உறுப்பினர் ஒருவர் குறைவதுடன், பாராளுமன்றத்தில் பெண் பிரதிநிதித்துவம் குறைவடைவது ஆழ்ந்த கவலையை ஏற்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/6c4e605a.json)
+
+---
+
+### அனுமதி இல்லாமல் மாணிக்கக் கல் அகழ்வில் ஈடுபட்ட இருவரை பொலிஸார் கைது செய்துள்ளனர் - பசறையில் சம்பவம்
+
+*2024-05-10 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183102) · `ta`
+
+பசறை பொலிஸ் பிரிவுக்கு உட்பட்ட ஆக்கரத்தன்ன பகுதியில் அனுமதிப்பத்திரம் இன்றி சட்டவிரோதமான முறையில் மாணிக்கக் கல் அகழ்வில் ஈடுபட்ட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+அலுத்கெதர, பெல்காத்தன்ன மற்றும் பல்லேகம பதியத்தலாவ பகுதியை சேர்ந்த 32, மற்றும் 44 வயதுடைய இருவர் கைது செய்யப்பட்டுள்ளதாக பசறை பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b5d45b9f.json)
 
 ---
 
@@ -2057,211 +2199,5 @@ The policy was later reversed, but the move hit diplomatic ties with Middle East
 [Data](articles/194dddd9.json)
 
 [Extended Data](ext_articles/194dddd9.ext.json)
-
----
-
-### Six Sri Lankans sent by human traffickers to join Russian military confirmed dead
-
-*2024-05-09 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99111/six-sri-lankans-sent-by-human-traffickers-to-join-russian-military-confirmed-dead-) · `en`
-
-Investigations carried out so far have revealed that six Sri Lankans sent to Russia by human traffickers to join the military have died, Police Media Spokesman DIG Nihal Thalduwa said.
-
-Meanwhile, two other Sri Lankans who joined Ukrainian forces by illegal means have also been confirmed dead, the police said.
-
-The Police Spokesman also assured that further investigations are in progress to find out the exact number of individuals involved with the matter.
-
-Further, the police revealed that investigations have revealed that 60 Sri Lankans have been sent to Russia and 23 Sri Lankans have been sent to Ukraine so far by human traffickers, to be deployed in the Ukraine-Russia conflict.
-
-...
-
-[Data](articles/6c7788fe.json)
-
-[Extended Data](ext_articles/6c7788fe.ext.json)
-
----
-
-### Petition against Power and Bill begins
-
-*2024-05-09 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196439) · `si`
-
-A petition against a power bill was filed at the Supreme Court, led by 14 parties including Ceylon Electricity staff. The court panel, including Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekere, will examine the case. The Attorney General's representative, Wark Siriwardena, argued the bill aims to improve electricity distribution and sale.
-
-🟩
-
-The petitions filed by the Supreme Court today commenced today (09), the Petitions filed by the Supreme Court today (09) was commenced in the Supreme Court.
-
-The petition examination will be held in front of the three-member Supreme Court panel consisting of Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekere.
-
-Additional Solicitor General's Wark Siriwardena appearing on behalf of the Attorney General at the beginning of the petition and said that the Bill has been presented with the prospect of providing electricity, distribution and sale.
-
-After the lectures of the Solicitor General's lectures, the Attorneys on the petitioners began to present the facts.
-
-The petitions were filed by 14 parties including the Ceylon Electricity staff. Ranjan Jayalal.
-
-◼️
-
-[Data](articles/7d963748.json)
-
-[Extended Data](ext_articles/7d963748.ext.json)
-
----
-
-### Relief to electricity bills
-
-*2024-05-09 15:39:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-නැවත-සහනයක්/11-409528) · `si`
-
-The Public Utilities Commission has directed the Electricity Board to submit tariff proposals to the CEB, aiming to reduce electricity bills. The procedure to implement these proposals will commence, with the percentage of electricity tariffs to be announced in July.
-
-🟩
-
-The Public Utilities Commission says that the Electricity Board has informed the CEB to give the electricity tariff proposals to the Rs. 10.The Public Utilities Commission has also asked that the CEB has requested the proposal for the proposals needed by the same.
-
-The procedure to reduce the electricity bill will be started. So the Public Utilities Commission is notified that the percentage of electricity tariffs will be published in July.
-
-◼️
-
-[Data](articles/7ff74ed6.json)
-
-[Extended Data](ext_articles/7ff74ed6.ext.json)
-
----
-
-### Preview of the original web series 'Headquarters' starring Kishore
-
-*2024-05-09 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183052) · `ta`
-
-"Headquarters," a Tamil web series on G5, stars Kishore and others, focusing on state and central politics, corruption, and party actions. The series, directed by G. Kishore and featuring a star-studded cast, is set to premiere on the 17th. The teaser and preview have been released, highlighting the series' engaging plot and character dialogues.
-
-🟩
-
-New Trend for Fans for Fans on Front Digital Sites. The original web series, 'Headquarters', starring the leading star artists of the Tamil film industry, including actor Kishore on the digital site, G5, is released.. The web series will broadcast on the G5 Digital site from the 17th of this month. This is followed by the preview of the Internet series.
-
-Director G.. Kishore, Shreya Reddy, Bharat, Ramya Nambeesan, Aditya Menon, Darsha Gupta, Siddharth Vipin,. G. Mahendra, Santana Bharathi, Kavitha Bharathi, Kani Kusruti, Nirup Nandakumar. Jibran Vaiboda has composed the music for the video of the White Angle Ravi Shankar.. Producers Radhika Sarathkumar and R.. Sarathkumar has co -produced.
-
-The teaser of the Internet series has been released and the preview has now been released. State Politics +Central Politics +Corruption +Party Action +Police's actions have been a hectic and brilliant, and the characters' speech -speaking verses have made the 'Chief Secretariat' the Internet.
-
-◼️
-
-[Data](articles/2d3a615d.json)
-
-[Extended Data](ext_articles/2d3a615d.ext.json)
-
----
-
-### 43-year-old hacked to death over drug-related dispute
-
-*2024-05-09 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99110/43-year-old-hacked-to-death-over-drug-related-dispute) · `en`
-
-A person hacked to death with a sharp weapon early this morning (09) in the Kurundakanda area of Thotagoda in the Akmeemana police division.
-
-The victim had been attacked with a sword while he was sleeping in his house.
-
-The suspect, who has fled the area, has also attacked the elder brother of the deceased with the sword and he has been admitted to the Karapitiya Teaching Hospital with critical injuries.
-
-The deceased is a 43-year-old father of three, identified as Hikkaduwa Koralage Prasanna Kumara alias ‘Hichchi Malli’, a resident of Kurundakanda in Thotagoda.
-
-Police said the persons who is suspected to have committed the murder has been identified.
-
-According to police, information has been uncovered that the murder was carried out over a conflict related to drug trafficking.
-
-◼️
-
-[Data](articles/7c5af0dd.json)
-
-[Extended Data](ext_articles/7c5af0dd.ext.json)
-
----
-
-### 6 Sri Lankans killed in Ukrainian and Russia
-
-*2024-05-09 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196438) · `si`
-
-Six Sri Lankans were trafficked to Ukraine to join the Russian army, leading to their deaths. Investigations are ongoing to identify the culprits.
-
-🟩
-
-Six Sri Lankans sent to join the Russian army of Ukraine by human traffickers to join the Russian army of the war.
-
-Police Media Spokesperson, DIG's Court Attorney Nihal Talduuwa said that the investigations have been confirmed in investigations.
-
-The suspects will be conducted further investigations to find out the right numbers.
-
-◼️
-
-[Data](articles/2a419bfa.json)
-
-[Extended Data](ext_articles/2a419bfa.ext.json)
-
----
-
-### Kuliyapitiya murder - thumbna bealy abolished
-
-*2024-05-09 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196437) · `si`
-
-Kuliyapitiya Magistrate Randika Lakmal Jayalath revoked the bail of two suspects in a murder case, citing police protests. The suspects, including Sugarnu, a resident of Walguwithara, Kuliyapitiya, were considered main suspects in the murder of Suset Jayawasa. Further investigations are ongoing, and the court ordered the suspects to undergo three police inspections.
-
-🟩
-
-Kuliyapitiya Magistrate Randika Lakmal Jayalath was able to cancel the bail of his wife and his wife with the murder of the girl in Kuliyapitiya.
-
-The Magistrate, he said that the two suspects were bail after the police were bail after the police were protesting against it.
-
-The bail of Sugarnu, a resident of Walguwithara, Kuliyapitiya and the son of his hybrid, was abolished.
-
-The man was considered the main suspect in the early hours of the murder of Suset Jayawasa.
-
-When the case was taken up today (09), the police were bailed by the police, as the suspects were the main suspects in the case.
-
-The case was presented to the case of the suspects who appeared for the suspects in the event.
-
-The Magistrate asked the Magistrate to obtain bail to grant the suspects in the early hours of the summoning the case.
-
-The police said further investigations are being conducted according to the information he had taken over by the police and that the suspects were required to question the suspects.
-
-...
-
-[Data](articles/9ac85bba.json)
-
-[Extended Data](ext_articles/9ac85bba.ext.json)
-
----
-
-### Sri Lanka to end emission testing duopoly
-
-*2024-05-09 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-end-emission-testing-duopoly-162311/) · `en`
-
-ECONOMYNEXT – Sri Lanka will invite new companies to set up emission testing services ending a duopoly that now exists, Trade Minister Nalin Fernando said.
-
-At the moment Laugfs Eco Sri Limited and CleanCo Lanka Limited offer vehicle emission testing in Sri Lanka.
-
-“Considering the number of vehicles in Sri Lanka, complaints we have received from the public, and that the desired emissions reduction has not happened, we have proposed to call for bids, or expressions of interest from other vendors,” Fernando said in Parliament on Thursday.
-
-State organizations like the Sri Lanka Transport Board can also do emission testing, the Minister said. (Colombo/May9/2024)
-
-◼️
-
-[Data](articles/131923f4.json)
-
-[Extended Data](ext_articles/131923f4.ext.json)
-
----
-
-### The presidential election is from September 17 to October 16
-
-*2024-05-09 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183061) · `ta`
-
-The National Elections Commission announced the presidential election will be held from September 17 to October 16, as stated by RMAL Ratnayake, the Election Commission Chairman, on Thursday.
-
-🟩
-
-Special notification has been issued by the National Elections Commission regarding the presidential election. Accordingly, the Presidential Elections will be held between September 17 and October 16, said RMAL Ratnayake, Chairman of the Election Commission.
-
-The Chairman of the Election Commission made this statement on Thursday.
-
-◼️
-
-[Data](articles/8486980c.json)
-
-[Extended Data](ext_articles/8486980c.ext.json)
 
 ---

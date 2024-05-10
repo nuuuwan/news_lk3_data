@@ -1,36 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 12:33:46**
+As of **2024-05-10 12:51:31**
 
 ## Newspaper Stats
 
-*Scraped **23,132** Articles*
+*Scraped **23,139** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
 bbccomsinhala | 241
-dbsjeyarajcom | 241
+dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
-adalk | 1,963
+adalk | 1,964
 tamilmirrorlk | 2,705
-adaderanalk | 2,707
+adaderanalk | 2,710
 virakesarilk | 3,439
-dailymirrorlk | 3,637
-adaderanasinhalalk | 3,704
+dailymirrorlk | 3,638
+adaderanasinhalalk | 3,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,131 (100.0%) of 23,132 articles have been extended.
+23,132 (100.0%) of 23,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Top US official to visit Sri Lanka to reaffirm support for economic recovery
+
+*2024-05-10 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99126/top-us-official-to-visit-sri-lanka-to-reaffirm-support-for-economic-recovery) · `en`
+
+U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, is scheduled to visit Sri Lanka this week, as part of his broader tour of the region from May 10th to 15th, which includes India and Bangladesh.
+
+“His trip will strengthen bilateral cooperation with each country and demonstrate U.S. support for a free, open, and prosperous Indo-Pacific region,” the US State Department said in a statement.
+
+In Chennai, Assistant Secretary Lu will meet with Consulate personnel to bolster bilateral engagement in southern India.
+
+He will then travel to Colombo to engage with officials from across the political spectrum and deepen the United States’ partnership with Sri Lanka.
+
+In his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society, it said.
+
+...
+
+[Data](articles/692708bc.json)
+
+---
+
+### ඩයනා අධිකරණයට යයි
+
+*2024-05-10 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196473) · `si`
+
+තමන්ව සමගි ජන බලවේගයෙන් නෙරපීමට ගනු ලැබූ තීරණය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කර තිබූ පෙත්සම මේ මස 28 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (10) ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම සම්බන්ධයෙන් ගනු ලබන තීරණය දැනුම්දීම සඳහා දිනයක් ලබා දෙන ලෙස ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ පෙත්සම මේ මස 28 වනදා කැඳවන ලෙසත් නියෝග කළ විනිසුරු මඩුල්ල එදින මෙම පෙත්සම පවත්වාගෙන යාම සම්බන්ධයෙන් තීරණය දැනුම් දෙන ලෙසත් නියම කළේය.
+
+මෙහි වගඋත්තරකරුවන් ලෙස සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ඇතුළු පිරිසක් නම් කර තිබේ.
+
+◼️
+
+[Data](articles/9623441d.json)
+
+---
+
+### ‘Baas Roshan’ arrested with heroin worth Rs. 2.5 million
+
+*2024-05-10 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99125/-baas-roshan-arrested-with-heroin-worth-rs-25-million-) · `en`
+
+Police have arrested a suspect, who was in possession of a stock of heroin in the Batalanda area of Walpola, Ragama.
+
+The apprehension was made during the inspection of a car at a police checkpoint following a tip-off received by Ragama Police.
+
+During the operation, police have seized 102 grams and 940 milligrams of heroin found inside the car in which the 45-year-old suspect was travelling.
+
+Police said the arrested suspect was identified to be an individual known by the alias “Baas Roshan”, who is a resident of the Kandaliyadda area of Ragama.
+
+The street value of the stock of drugs taken into custody is estimated to be over Rs 2.5 million, the police mentioned.
+
+Meanwhile, preliminary investigations have revealed that the suspect in question had recently been released on bail following his arrest in connection with drug trafficking.
+
+◼️
+
+[Data](articles/2b30a0c0.json)
+
+---
+
+### Some police officers misuse Yukthiya operation: MPs charge
+
+*2024-05-10 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-police-officers-misuse-Yukthiya-operation-MPs-charge/108-282317) · `en`
+
+Parliament, May 10 (Daily Mirror)- Innocent people including school children are arrested under the  Yukthiya Operation for minor offences in some police stations and they are unreasonably charged under Act 54 of the Criminal Procedure, several government MPs charged today.
+
+SLPP MP Samanpriya Herath told Parliament that people have faced serious issues in the Kurunegala district as youth who are languishing in junctions and roads are also taken to police stations and charged under Act 54 of the Criminal Procedure.
+
+He said eleven youths were arrested over a brawl in Narammala yesterday and five of them including a school boy had been charged under Act 54.
+
+"The Acting OIC of the Narammala Police is acting very unreasonably. Action should be taken against him. When these youths are charged under Act 54, they come back to society as drug addicts. The Yukthiya operation is good. But, some police officers misuse it," the MP said.
+
+...
+
+[Data](articles/0af37ce1.json)
+
+---
+
+### Human traffickers exploit documents stolen from Army HQ to target army veterans?
+
+*2024-05-10 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99124/human-traffickers-exploit-documents-stolen-from-army-hq-to-target-army-veterans) · `en`
+
+The Criminal Investigation Department (CID) has apprehended a retired Major General and a Sergeant in the Lake Round area in Kurunegala on suspicion of illegally sending Sri Lankans for employment in the Russian army.
+
+Extensive investigations have been conducted by the police into the activities of the retired Major General in question, who was implicated in the operation.
+
+During the course of the investigation, it was discovered that he had allegedly accessed a list of names of retired army officers from the Army Headquarters.
+
+Authorities are currently continuously pursuing leads related to the trafficking of former Sri Lankan military personnel to mercenary camps both in Russia and Ukraine.
+
+◼️
+
+[Data](articles/72148c22.json)
+
+---
 
 ### Russia - Sri Lankans who joined Ukrainian war will launch an operation
 
@@ -267,6 +365,20 @@ This includes hundreds of the globe's largest corporations, premier universities
 [Data](articles/e06aa8e4.json)
 
 [Extended Data](ext_articles/e06aa8e4.ext.json)
+
+---
+
+### මුජිබර් රහුමාන් යලි පාර්ලිමේන්තුවේ දිවුරුම් දෙයි
+
+*2024-05-10 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්-රහුමාන්-යලි-පාර්ලිමේන්තුවේ-දිවුරුම්-දෙයි/11-409545) · `si`
+
+ඩයනා ගමගේ මන්ත්‍රීවරියගෙන් හිස් වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් මහතා අද (09) උදෑසන යළිත් දිවුරුම් දුන්නා.
+
+මීට පෙර පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ මුජිබර් රහුමාන් පළාත් පාලන මැතිවරණය සඳහා කොළඹ මහනගර සභාව වෙනුවෙන් සමගි ජන බලවේගයේ නගරාධිපති අපේක්ෂකයා ලෙස තරග කිරීම සදහා මන්ත්‍රී ධූරයෙන් ඉවත් වුණා.
+
+◼️
+
+[Data](articles/babcbe26.json)
 
 ---
 
@@ -1538,6 +1650,22 @@ The Union of Women's Members of Parliament has insisted that women's experience,
 
 ---
 
+### Unseated MP Diana Gamage  Alleges that  she was Disqualified as a Parliamentarian due to a Conspiracy Orchestrated against her by the Samagi Jana Balawegaya; Accuses SJB of Hatred Politics and Urges Women to be Cautious in voting for the Leader of the Opposition in Elections
+
+*2024-05-10 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84011) · `en`
+
+Embattled former State Minister Diana Gamage yesterday expressed her refusal to accept the recent Supreme Court ruling that disqualified her from Parliament, due to the political conspiracy behind it.
+
+Addressing the media for the first time following the ruling, Gamage levelled accusations against Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, and several others, alleging they had orchestrated political conspiracy against her. She claimed that this plot has led to her disqualification and subsequent loss of her Parliamentary seat.
+
+“I hold the utmost respect for the Courts, but I find myself unable to accept their judgement due to the political machinations orchestrated by the SJB leader and the General Secretary of the Samagi Jana Balawegaya (SJB). My critique is not directed at all MPs within the SJB; there are some who maintain integrity and honour,” she said.
+
+...
+
+[Data](articles/a449bb0f.json)
+
+---
+
 ### Let's stop weapons assistance
 
 *2024-05-10 00:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆயுத-உதவிகளை-நிறுத்துவோம்/50-337063) · `ta`
@@ -1643,6 +1771,8 @@ While Sri Lanka would pay in Sri Lankan Rupees, based  on the prevailing exchang
 ...
 
 [Data](articles/f6d3d992.json)
+
+[Extended Data](ext_articles/f6d3d992.ext.json)
 
 ---
 
@@ -2067,157 +2197,5 @@ Despite the legal and personal challenges she faces, Gamage pledged her ongoing 
 [Data](articles/c3f392ca.json)
 
 [Extended Data](ext_articles/c3f392ca.ext.json)
-
----
-
-### Human exertion discounters water
-
-*2024-05-09 21:15:34* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්-පරිභෝනයට-නුසුදුස්-ආහාර-විශාල-තොගයක්-කදාන-නිවසකින්-සොයා-ගනියි/11-409544) · `si`
-
-Police in Colombo arrested a large quantity of food unfit for human consumption at the port, with one suspect to be presented before a magistrate.
-
-🟩
-
-Police say that a large number of food items unimporticted to human consumption were arrested by a group of officers belonging to the Jaela Public Health Office.
-
-The police states that the stock of food inappropriate for human consumption was revealed at the Colombo port.
-
-This man suspiciously brought this man who is owned by a person who owns a governing. Attachment from Ja-Ela Public Health Inspector. T. P. The Chamika officer will be produced before Welisara Magistrate to the Welisara Magistrate.. One suspect is also due to be submitted.
-
-◼️
-
-[Data](articles/b2e53c38.json)
-
-[Extended Data](ext_articles/b2e53c38.ext.json)
-
----
-
-### Washington's Ambassador to the Passport DC
-
-*2024-05-09 21:11:41* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටන්-ශ්‍රී-ලංකා-තානාපති-හි-’’පාස්පෝට්-DC’’උළෙලට-5000ඉක්මවූ-පිරිසක්/11-409543) · `si`
-
-The Embassy of Sri Lanka in Washington hosted a successful event, attracting a diverse audience interested in Sri Lankan culture. The event, which included traditional sweets and tea, highlighted Sri Lanka's rich cultural heritage, particularly through music and dance performances. The Ambassador and staff were commended for their dedication, enhancing Sri Lanka's image in the US.
-
-🟩
-
-The Embassy of the Ceylon Embassy is an attractive number of people in the US culture and life background, which is in the US culture and life background.
-
-Sri Lanka has been able to obtain a priority of the embassies of 55 countries on the NGO countries in Europe.
-
-When the event was exhausted, sweets and tea were pledged when the avochout the event.
-
-Further, the prolonged interest in obtaining details of the Kottuappa and Shorts of Sri Lanka and to visit Saramaha Omsi.Kutila main cadre leader music and D. I. Senaratne's saxophone color celebration was attracted to the public.
-
-Ambassador and Samarasinghe organized the event and the tourism body favored. SL Eshanation Seshi: DC, Ceylon Arts Basement, Sl, Washing Ser: COU: GREATER WASHINGTON BUSINESS.
-
-"A large number of people will increase the image of Sri Lanka.. Ambassadors and employees who have dedicated dedicated banquidies and the commitment of employees of the employees have been appreciated by the Ambassador.
-
-◼️
-
-[Data](articles/c4a020f4.json)
-
-[Extended Data](ext_articles/c4a020f4.ext.json)
-
----
-
-### New special unit to monitor Sri Lankan involvement in Russia-Ukraine conflict
-
-*2024-05-09 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-special-unit-to-monitor-Sri-Lankan-involvement-in-Russia-Ukraine-conflict/108-282260) · `en`
-
-Colombo, May 9 (Daily Mirror) - The Ministry of Defence has announced the establishment of a special unit to gather information on the human trafficking of retired Sri Lankan military personnel to the Russia-Ukraine war through illegal channels.
-
-Accordingly, the Defence Secretary requests the family members of the concerned to provide information on retired Sri Lankan military personnel who have joined the Russia-Ukraine war via various routes, including the dates of their departure, persons and institutions that had coordinated their passages etc. to the following telephone  No: 0112441146.
-
-The Defence Secretary also requests the public to provide information on individuals involved in human trafficking, those who support it and any relevant information to the above phone number.
-
-◼️
-
-[Data](articles/e155929c.json)
-
-[Extended Data](ext_articles/e155929c.ext.json)
-
----
-
-### Mujiber's name gazettes
-
-*2024-05-09 20:56:40* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්ගේ-නම-ගැසට්-කරයි/11-409542) · `si`
-
-Mujibar Rahman issued a special gazette notification on 09, following the abolition of Mrs. Diana Gamage.
-
-🟩
-
-Due to the abolition of Mrs. Diana Gamage, Mujibar Rahman has issued a special gazette notification today (09).
-
-◼️
-
-[Data](articles/c03599d1.json)
-
-[Extended Data](ext_articles/c03599d1.ext.json)
-
----
-
-### Two Ambassadors, High Commissioner meet Anura Kumara
-
-*2024-05-09 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Ambassadors-High-Commissioner-meet-Anura-Kumara/108-282259) · `en`
-
-Colombo, May 09 (Daily Mirror)- Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, Ambassador to Switzerland Siri Walt and South African High Commissioner to Sri Lanka Sandile Schalk met National People's Power (NPP) leader Anura Kumara Dissanayake this afternoon.
-
-The meeting took place at the JVP head office where the First Secretary (Political Affairs) of the Japanese Embassy Murata Shinichi, Second Secretary (Political Affairs) of the South African High Commission Zanethemba Tshangela and the First Secretary (Political Affairs) of the Switzerland Embassy Justine Boillat were present.
-
-NPP members Dr. Rizwi Sally, Saroja Paulraj, Ramalingam Chandrasekar and Attorney-at-Law Harshana Nanayakkara attended the meeting.
-
-Matters concerning inter-racial peace and reconciliation were discussed at length, party sources said.
-
-The NPP representatives pointed out that the NPP was not prepared to use racism for political ends.
-
-...
-
-[Data](articles/cdc48d9c.json)
-
-[Extended Data](ext_articles/cdc48d9c.ext.json)
-
----
-
-### Sri Lankans who died in the Russian -Ukraine war
-
-*2024-05-09 20:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-உக்ரைன்-போரில்-உயிரிழந்த-இலங்கையர்கள்/175-337047) · `ta`
-
-Six Sri Lankans, sent to join the Russian army, were killed by human traffickers. Investigations are ongoing to identify more victims. Former military officers have been arrested in connection with the incident.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that six Sri Lankans sent from Sri Lanka have been killed by human traffickers to join the Russian army.
-
-Further investigations are underway to identify the number of victims of the incident, the police media spokesman said.
-
-Meanwhile, the arrest of former military officers in connection with the incident yesterday. Remble
-
-◼️
-
-[Data](articles/70960f89.json)
-
-[Extended Data](ext_articles/70960f89.ext.json)
-
----
-
-### Sri Lanka names squad for Twenty20 World Cup
-
-*2024-05-09 20:45:16* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-ලෝක-කුසලානයට-ශ්‍රි-ලංකා-සංචිතය-නම්-කරයි/9-409541) · `si`
-
-Sri Lanka's Twenty20 World Cup squad, led by Wanindu Hasaranga and Chathuranga de Silva, includes Angelo Mathews and additional players Bhanuka Rajapakse and Vijayakantha Vasaketha.
-
-🟩
-
-The Sri Lankan squad played for the Twenty20 World Cup will be held in the US.
-
-The leader is the leader of Wanindu and chathurith as awill. Angelo Mathews is also added to the squad and Views Shacaath has named the group.
-
-However, Bhanuka Rajapakse has nominated as an additional player. Vijayakantha Vasakatha has been named as an additional player.
-
-◼️
-
-[Data](articles/a0eb8439.json)
-
-[Extended Data](ext_articles/a0eb8439.ext.json)
 
 ---

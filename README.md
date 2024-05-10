@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 04:03:18**
+As of **2024-05-11 04:18:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,266 (100.0%) of 23,268 articles have been extended.
+23,268 (100.0%) of 23,268 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 ...
 
 [Data](articles/4f4e98b4.json)
+
+[Extended Data](ext_articles/4f4e98b4.ext.json)
 
 ---
 
@@ -825,6 +827,8 @@ The United Youth Artistes' Forum emphasized the importance of maintaining the st
 ◼️
 
 [Data](articles/8897407d.json)
+
+[Extended Data](ext_articles/8897407d.ext.json)
 
 ---
 

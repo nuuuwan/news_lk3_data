@@ -1,0 +1,21 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking-news/Kaspersky-detects-15-million-incidents-on-Sri-Lankan-computers-in-2023/108-282275",
+  "time_ut": 1715305860.0,
+  "original_lang": "en",
+  "original_title": "Kaspersky detects 15 million incidents on Sri Lankan computers in 2023",
+  "original_body_lines": [
+    "Says high incidence of malware spread through removable media observed",
+    "Kaspersky yesterday shared that in 2023, its products detected 15 million local incidents on the computers of Kaspersky Security Network participants in Sri Lanka.",
+    "Overall, nearly 46 percent of users in Sri Lanka were targeted by local threats during this period.",
+    "Additionally, 9.3 million different Internet-borne cyberthreats have been detected on the computers of KSN participants in Sri Lanka. Overall, 39.5 percent of users were targeted by web-borne threats during this period.",
+    "\u201cIn Sri Lanka, we observe high incidence of malware spread through removable media such as USB drives. These attacks exploit vulnerabilities in local systems, often bypassing initial digital defenses,\u201d said Kaspersky General Manager for Southeast AsiaYeo Siang Tiong.",
+    "Tiong, who is in Sri Lanka for the launch of Kaspersky\u2019s new product line, noted that on the web front, the majority of attacks are executed through browsers, leveraging drive-by download tactics that exploit browser and plugin vulnerabilities.",
+    "\u201cCoupled with the rise in social engineering attacks, where users are deceived into downloading seemingly legitimate files, our data underscores the critical need for comprehensive cybersecurity strategies,\u201d he said.",
+    "Kaspersky yesterday introduced in Sri Lanka its new flagship product line \u2018Kaspersky Next\u2019. The solution combines robust endpoint protection with the transparency and speed of EDR (Endpoint Detection and Response) alongside the visibility and powerful tools of XDR (Extended Detection and Response).",
+    "The new solution allows customers to choose from three product tiers tailored to their business requirements, the complexity of their IT infrastructure, and their available resources.",
+    "\u201cWith Kaspersky Next, we aim to empower Sri Lankan businesses to effectively combat these diverse and sophisticated threats, ensuring robust protection and resilience against cyber intrusions,\u201d said Tiong.",
+    "As the most advanced and effective cybersecurity solutions, EDR and XDR help companies to withstand the more prevalent, evasive, and sophisticated attacks, providing businesses with total visibility, control, rapid response and proactive threat hunting.",
+    "Kaspersky Next is deployment-agnostic and allows for both cloud and on-premise installations."
+  ]
+}

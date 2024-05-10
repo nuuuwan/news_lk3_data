@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 10:18:27**
+As of **2024-05-10 10:33:33**
 
 ## Newspaper Stats
 
-*Scraped **23,115** Articles*
+*Scraped **23,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,701
 adaderanalk | 2,706
 virakesarilk | 3,436
 dailymirrorlk | 3,634
-adaderanasinhalalk | 3,699
+adaderanasinhalalk | 3,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,113 (100.0%) of 23,115 articles have been extended.
+23,115 (100.0%) of 23,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### මත්ද්‍රව්‍ය සමග සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-05-10 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196468) · `si`
+
+රාගම පොලීසියට ලද තොරතුරක් අනුව මාර්ග බාධකයක් යොදා රථවාහන පරීක්ෂා කිරීමේදී මත්ද්‍රව්‍ය සමග සැකකරුවෙක් අත්අඩංගුවට ගැනීමට හැකිවී තිබේ.
+
+එහිදී මෝටර් රථය තුළ තිබී හෙරොයින් ග්‍රෑම් 102යි මිලිග්‍රෑම් 940ක් සොයාගෙන ඇත.
+
+අත්අඩංගුවට ගත් 45 හැවිරිදි සැකකරු රාගම කැන්දලියැද්ද ප්‍රදේශයේ පදිංචි 'බාස් රොෂාන්' නමින් හඳුන්වන පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් ලක්ෂ 25කට අධික බවද පොලීසිය සඳහන් කරයි.
+
+අදාළ සැකකරු හෙරොයින් ජාවාරම සම්බන්ධයෙන් ඇප මත නිදහස්ව සිටින පුද්ගලයෙකු බවද හෙළිවී ඇත.
+
+◼️
+
+[Data](articles/ad20b7a8.json)
+
+---
 
 ### Central Bank joins chorus urging need to uphold reform momentum
 
@@ -52,19 +72,23 @@ The urgency of this call stems from the upcoming elections, which historically h
 
 [Data](articles/f20d0bb8.json)
 
+[Extended Data](ext_articles/f20d0bb8.ext.json)
+
 ---
 
 ### Mujibur sworn in as a National List MP
 
 *2024-05-10 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-sworn-in-as-a-National-List-MP/108-282301) · `en`
 
-Colombo, May 9 (Daily Mirror) - Mujibur Rahuman was sworn in as a National List MP before Speaker Mahinda Yapa Abeywardena a shortwhile ago.
+Colombo, May 10 (Daily Mirror) - Mujibur Rahuman was sworn in as a National List MP before Speaker Mahinda Yapa Abeywardena a shortwhile ago.
 
 Rahuman fills the vacancy created by the unseatimg of Diana Gamage who was declared to be ineligible to remain as an MP by the  Supreme Court.
 
 ◼️
 
 [Data](articles/a9d75b96.json)
+
+[Extended Data](ext_articles/a9d75b96.ext.json)
 
 ---
 
@@ -2193,27 +2217,5 @@ The Opposition Leader Sajith Premadasa said so.
 [Data](articles/c9a82b4c.json)
 
 [Extended Data](ext_articles/c9a82b4c.ext.json)
-
----
-
-### My daughter was raped 52 times
-
-*2024-05-09 19:20:29* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-දියණිය-52-වතාවක්-දූෂණය-කරලා/11-409535) · `si`
-
-Sujith Fernando, questioning media silence on his daughter's alleged rape, had his house burned. After being remanded, he was taken to prison. He revealed his daughter's situation, highlighting issues not discussed in the media. A prison officer mentioned Sugith Manel's case, indicating he would be taken to the Kaviranda Reserve.
-
-🟩
-
-Sujith Fernando alphabets questioned why the media was not talking about his daughter 52 times, but the media was not talking about. After he was remanded by the Kuliyapitiya Magistrate yesterday, he was asked to be taken to the prison.
-
-Sumbar said his house was burnt and that his daughter's situation had to be revealed. The Kalksithadita further stated that only the issues that were not talking about himself without speaking in the media.
-
-However, a prison officer said that Sugith Mannel, alphabetical, who had said the courts, will be taken to the Kaviranda Reserve of Sucith Jayawansa.
-
-◼️
-
-[Data](articles/99c3739f.json)
-
-[Extended Data](ext_articles/99c3739f.ext.json)
 
 ---

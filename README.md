@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 16:18:25**
+As of **2024-05-10 16:33:40**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,175 (100.0%) of 23,176 articles have been extended.
+23,176 (100.0%) of 23,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### අකුණු සැර වැදී රෝහලක ගින්නක්
+### Lightning wareed at a hospital
 
 *2024-05-10 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196481) · `si`
 
-අයහපත් කාලගුණය සහ අධික වර්ෂාවත් සමග හටගත් අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක් හට ගෙන තිබේ.
+A fire at Walasmulla Base Hospital's special treatment unit, caused by lightning during heavy rains, damaged equipment. Three patients were receiving treatment. The Firevana Unit and local authorities responded.
 
-එම අවස්ථාවේ එම අංශයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් තිදෙනෙකු කඩිනමින් ඉවතට ගෙන අවශ්‍ය ප්‍රතිකාර නිසි ලෙස ඉටු කිරීමට රෝහල් කාර්ය මණ්ඩලය කටයුතු තිබේ.
+🟩
 
-අකුණු සැර වැදීමෙන් කිසිවෙකුටත් හානියක් සිදුනොවුනත් එහි උපකරණවලට හානි සිදු වී ඇති බව වලස්මුල්ල මූලික රෝහලේ නිලධාරීන් පවසයි.
+A fire broke out at a special treatment unit at Walasmulla Base Hospital with inclement weather and heavy rains.
 
-වලස්මුල්ල පොලීසිය, ලංකා විදුලිබල මණ්ඩලය සහ තංගල්ල නගර සභාවේ ගිනිනිවන ඒකකය රෝහල වෙත පැමිණ අකුණු සැර වැදීමෙන් ගට ගත් ගින්න නිවීමට කටයුතු කර ඇත.
+At that time, three patients who were receiving treatment at the division have taken steps to carry out the necessary treatment properly.
+
+The Walasmulla Base Hospital officials say they have been damaged by lightning, but its equipment has been damaged.
+
+The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urban Council have come to the hospital.
 
 ◼️
 
 [Data](articles/e58bfee9.json)
+
+[Extended Data](ext_articles/e58bfee9.ext.json)
 
 ---
 

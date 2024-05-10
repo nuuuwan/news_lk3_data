@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 21:18:13**
+As of **2024-05-10 21:33:46**
 
 ## Newspaper Stats
 
-*Scraped **23,214** Articles*
+*Scraped **23,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,972
-adaderanalk | 2,719
+adaderanalk | 2,720
 tamilmirrorlk | 2,720
 virakesarilk | 3,450
 dailymirrorlk | 3,647
-adaderanasinhalalk | 3,723
+adaderanasinhalalk | 3,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,213 (100.0%) of 23,214 articles have been extended.
+23,214 (100.0%) of 23,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### පාතාල රොහාගේ මරණයට පොලීසියේ සම්බන්ධයක් ?
+
+*2024-05-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196492) · `si`
+
+පාතාල කල්ලි නායක හැරල්ඩ් රෝහණ ද සිල්වා නොහොත් ගොනාකෝවිලේ රොහා නැමැත්තා අත්අඩංගුවට ගැනීම සඳහා තොරතුරු ලබාදුන් පොලිස් පරීක්ෂකවරයා, රොහාගේ ප්‍රතිවාදියෙකු වන කුඩු අංජු නැමැත්තාගෙන් රුපියල් ලක්ෂ 350ක මුදලක් ලබාගෙන ඇති බවට පලවන වාර්තා සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+2020 වසරේ සැප්තැම්බර් මස 24 වනදා පොලීසිය සමග සිදු වූ වෙඩි හුවමාරුවකදී පාතාල කල්ලි නායක හැරල්ඩ් රෝහණ ද සිල්වා නොහොත් ගොනාකෝවිලේ රොහා ජීවිතක්ෂයට පත්වුණි.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය එම ස්ථානයට ගොස් තිබුණේ පද්මලාල් නමැති පොලිස් පරීක්ෂකවරයාගෙන් ලද තොරතුරකට අනුවය.
+
+එවන් පසුබිමක එම පද්මලාල් නමැති පොලිස් පරීක්ෂකවරයා සහ මියගිය රොහාගේ ප්‍රධානතම ප්‍රතිවාදියෙකු වන ඇල්ටෝ ධර්මේ නමැත්තා අතර සිදු වූ බව කියන දුරකථ න සංවාදයක් "අද දෙරණ" වෙත ලැබුණි.
+
+රොහා අත්අඩංගුවට ගැනීමට පෙර ගිනිඅවි දෙකක් පද්මලාල් නමැති පොලිස් නිලධාරියාගේ සමීපතමයෙකු වෙත ඇල්ටෝ ධර්මේ නමැත්තා ලබාදී ඇතැයි යන කරුණක් සම්බන්ධයෙන් මෙහි තොරතුරු හුවමාරු වී තිබේ.
+
+...
+
+[Data](articles/79300e6b.json)
+
+---
+
+### Man seriously injured in shooting in Ahungalla
+
+*2024-05-10 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99138/man-seriously-injured-in-shooting-in-ahungalla) · `en`
+
+One person has been critically injured and hospitalised following a shooting incident reported in Ahungalla.
+
+Police said the person injured in the shooting has been admitted to the Balapitiya Base Hospital for treatment and that he is in critical condition.
+
+Ada Derana reporter said the shooting had occurred in the Maradana area in Ahungalla and that the victim, 54-year-old Piyal Gamini, is a resident of the area.
+
+The shooting was reportedly carried out by two unidentified individuals who had arrived on a motorcycle and while the victim was in his garden. He had been shot in the stomach several times by the gunmen.
+
+◼️
+
+[Data](articles/dadb23cf.json)
+
+---
 
 ### A shooting of Ahungalla
 
@@ -54,23 +92,29 @@ The casualty was shot dead in the yard and a few bullets have been handed over t
 
 ---
 
-### ඒ.ඩී. රංජිත් කුමාර මහතා අභාවප්‍රාප්ත වෙයි
+### A.D. Mr. Ranjith Kumara passes away
 
 *2024-05-10 20:25:11* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-ඩී--රංජිත්-කුමාර-මහතා-අභාවප්‍රාප්ත-වෙයි/11-409552) · `si`
 
-සම්මානනීය පුවත්පත් කතුවරයකු මෙන්ම සිනමා ලේඛකයෙකු ලෙස දසක පහකට අධික කාලයක් මාධ්‍ය ක්ෂේත්‍රයේ නිරතව සිටි ඒ.ඩී. රංජිත් කුමාර මහතා අද (10දා) අභාවප්‍රාප්ත විය.
+Ranjith Kumara, a renowned film director and writer, passed away at 77. He leaves behind a legacy of over 100 films and more than 300 books. A father figure in the media field, his funeral will be held tomorrow at Mount Lavinia.
 
-මිය යන විට 77 වැනි වියේ පසුවූ ඒ මහතා ජනප්‍රිය දක්ෂ ගායකවකවන දමයන්ති ජයසූරිය මහත්මියගේ ස්වාමි පුරුෂයා වේ. ඔහු සරසවිය පුවත්පතේ වත්මන් කතුවර ආචාර්ය නුවන් නයනජිත් කුමාර මහතාගේ පියාණන් වෙයි.
+🟩
 
-එතුමාගේ නිසල දේහය හෙට (11වැනි) දින උදෑසන 8.00 සිට  ගල්කිස්ස ප්‍රදේශයේ මල් ශාලාවක මහජන ගෞරවය සඳහා තබා එදින 10.00ට ඔහුගේ අන්තිම කැමැත්ත අනුව කොතලාවල වෛද්‍ය පීඨයට භාරදීමට කටයුතු යොදා තිබේ.
+Awarding newspaper autholer and a film manage for more than five people in the media field as a film writer. Ranjith Kumara passed away today (10).
 
-චිත්‍රපටි නාමාවලි සැකසීමේ ප්‍රවීණයකු වූ ඒ.ඩී.රංජිත් කුමාර මහතා චිත්‍රපටි 100කට අධික සංඛ්‍යාවක නාමාවලි නිර්මාණය කර තිබේ. දක්ෂ පොත් කවර නිර්මාණ  ශිල්පියකු ලෙස ඔහු මිය යන විට පොත් කවර 300කට වඩා නිර්මාණය කිරීමට සිය ප්‍රතිභාව එක්කොට තිබුණි.
+He was 77 years old at the time of his death. He is the Father's editorial editorial editorial lecturer of the Sarasaviya newspaper.
 
-මහාචාර්ය සුනිල් ආරියරත්න මහතා නිර්මාණය කළ චිත්‍රපට රැසක නිෂ්පාදන සම්බන්ධීකරණයට දායක වූ ඒ. ඩී. රංජිත් කුමාර මහතා , සරසවි සම්මාන උළෙල මෙන්ම සුමති ටෙලි සම්මාන උළෙලේ ප්‍රධාන සංවිධායකවරයා ලෙස කටයුතු කළේය.
+He has placed public dignity of the funeral in Mount Lavinia tomorrow (11) to 10 am and handed over to his last will to the Medical Faculty.
+
+A. ADranjith Kumara, a veteran of filming directories, has created the directions of over 100 movies. As a designer of talented books, he had touched his reinforcement to create more than 300 books.
+
+Professor Sunil Ariyaratne contributed to coordination of products in many films created. D. He served as the Chief Organizer of the Samaraswi Awards and Sumathi Tele Awards.
 
 ...
 
 [Data](articles/621a3d6f.json)
+
+[Extended Data](ext_articles/621a3d6f.ext.json)
 
 ---
 
@@ -2291,45 +2335,5 @@ Mrs. Diana Gamage announced a decision to claim that there was no legitimate qua
 [Data](articles/dc600359.json)
 
 [Extended Data](ext_articles/dc600359.ext.json)
-
----
-
-### Parliamentary proceedings begun
-
-*2024-05-10 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196466) · `si`
-
-Parliamentary proceedings started today, marking the beginning of legislative discussions and debates.
-
-🟩
-
-Parliamentary affairs have commenced today (10).
-
-◼️
-
-[Data](articles/e6700ded.json)
-
-[Extended Data](ext_articles/e6700ded.ext.json)
-
----
-
-### Mujibur Rahman to take oath as Member of Parliament today
-
-*2024-05-10 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99120/mujibur-rahman-to-take-oath-as-member-of-parliament-today) · `en`
-
-Mujibur Rahman of the ‘Samagi Jana Balawegaya’ (SJB) is scheduled to be sworn in as a Member of Parliament today (10).
-
-In response to an inquiry from Ada Derana, he confirmed that the swearing-in ceremony is slated to take place after the Parliament convenes at 9:30 am this morning.
-
-The ‘Samagi Jana Balawegaya’ (SJB) party has decided to nominate former Member of Parliament Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
-
-However, the Sri Lanka Women Parliamentarians’ Caucus has called for the appointment of a suitable woman to fill Diana Gamage’s vacant seat.
-
-The Parliamentary Communications Department reported that its Chairperson, Member of Parliament Dr. Sudarshani Fernandopulle, has sent a letter to the General Secretary of the SJB, Mr. Ranjith Madduma Bandara, in this regard.
-
-...
-
-[Data](articles/d2f76deb.json)
-
-[Extended Data](ext_articles/d2f76deb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 22:05:34**
+As of **2024-05-10 22:18:21**
 
 ## Newspaper Stats
 
-*Scraped **23,220** Articles*
+*Scraped **23,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,972
-adaderanalk | 2,720
 tamilmirrorlk | 2,720
+adaderanalk | 2,721
 virakesarilk | 3,452
 dailymirrorlk | 3,649
-adaderanasinhalalk | 3,724
+adaderanasinhalalk | 3,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,220 (100.0%) of 23,220 articles have been extended.
+23,220 (100.0%) of 23,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ඉතුරුම් පොලී අනුපාත ගැන තීරණයක්
+
+*2024-05-10 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196493) · `si`
+
+ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ඉතුරුම් පොලී අනුපාත සම්බන්ධ පැහැදිලි විශ්ලේෂණයක් සිදුකිරීමට ජනාධිපතිවරයා විසින් තමා වෙත උපදෙස් ලබාදුන් බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+◼️
+
+[Data](articles/3de963f6.json)
+
+---
 
 ### Tharshan Selvarajah makes history as first Sri Lankan to carry Olympic torch
 
@@ -117,6 +129,26 @@ During a telephone conversation, Inspector Padmalal and the main opponent of Roh
 [Data](articles/79300e6b.json)
 
 [Extended Data](ext_articles/79300e6b.ext.json)
+
+---
+
+### Man shot in Ahungalla succumbs to injuries
+
+*2024-05-10 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99138/man-shot-in-ahungalla-succumbs-to-injuries) · `en`
+
+UPDATE: (9.45 pm) - The person who was injured in the shooting incident in the Maradana area in Ahungalla has succumbed to his injuries, police said.
+
+One person was critically injured and hospitalised following a shooting incident reported in Ahungalla.
+
+Police said the person injured in the shooting was admitted to the Balapitiya Base Hospital for treatment and that he was in critical condition.
+
+Ada Derana reporter said the shooting had occurred in the Maradana area in Ahungalla and that the victim, 54-year-old Piyal Gamini, is a resident of the area.
+
+The shooting was reportedly carried out by two unidentified individuals who had arrived on a motorcycle and while the victim was in his garden. He had been shot in the stomach several times by the gunmen.
+
+◼️
+
+[Data](articles/aca794c3.json)
 
 ---
 
@@ -2303,53 +2335,5 @@ Mujibur Rahman has been appointed to the vacant place following the removal of D
 [Data](articles/7dc7fd6b.json)
 
 [Extended Data](ext_articles/7dc7fd6b.ext.json)
-
----
-
-### Central Bank joins chorus urging need to uphold reform momentum
-
-*2024-05-10 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-joins-chorus-urging-need-to-uphold-reform-momentum/108-282303) · `en`
-
- Echoes similar calls from global agencies such as WB, ADB, and the IMF
-
- Says want to convey “very clearly and very loudly” the need to sustain the stability
-
-Sri Lanka is facing mounting pressure to maintain its current reform momentum, as experts continue to warn that any deviation from the path could potentially derail the country's progress and plunge it back into crisis.
-
-Central Bank Governor Dr. Nandalal Weerasinghe yesterday reiterated this imperative, echoing similar calls from global agencies such as the World Bank (WB), the Asian Development Bank (ADB), and the International Monetary Fund (IMF).
-
-Just a month ago, these institutions stressed the absolute need for Sri Lanka to stay the course, emphasizing that there is no room to steer away from the current path.
-
-The urgency of this call stems from the upcoming elections, which historically have been times when policies and reforms are often sidelined and sacrificed in favor of strategies to fetch votes.
-
-...
-
-[Data](articles/f20d0bb8.json)
-
-[Extended Data](ext_articles/f20d0bb8.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 298.40/80 to US dollar
-
-*2024-05-10 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-298-40-80-to-us-dollar-162473/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened almost flat at 298.40/80 to the US dollar on Friday from 298.65/80 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 10.58/65 percent from 10.60/65 percent.
-
-A bond maturing on 15.09.2027 was quoted up at 10.95/11.00 percent from 10.90/11.00 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 11.35/45 percent.
-
-A bond maturing on 15.12.2028 was quoted at 11.50/60 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.28 percent at 12,432, and the S&P SL20 was up 0.55 percent at 3,692. (Colombo/May10/2024)
-
-◼️
-
-[Data](articles/fd5e3495.json)
-
-[Extended Data](ext_articles/fd5e3495.ext.json)
 
 ---

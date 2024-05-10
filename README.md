@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 09:52:40**
+As of **2024-05-10 10:03:39**
 
 ## Newspaper Stats
 
-*Scraped **23,111** Articles*
+*Scraped **23,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
-adalk | 1,962
+adalk | 1,963
 tamilmirrorlk | 2,701
-adaderanalk | 2,705
+adaderanalk | 2,706
 virakesarilk | 3,436
 dailymirrorlk | 3,632
 adaderanasinhalalk | 3,699
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,107 (100.0%) of 23,111 articles have been extended.
+23,111 (100.0%) of 23,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Mujibur Rahman sworn in as MP
+
+*2024-05-10 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99122/mujibur-rahman-sworn-in-as-mp) · `en`
+
+Mujibur Rahman of the Samagi Jana Balawegaya (SJB) took path as a Member of Parliament before the Speaker, a short while ago, to fill the parliamentary seat vacated by the disqualification of former State Minister Diana Gamage.
+
+The swearing-in took place after the Parliamentary session convened at 9.30 a.m. this morning (10).
+
+The SJB had decided to nominate former Member of Parliament Mr. Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
+
+Meanwhile, a Gazette notification was issued last evening stating that Mujibur Rahman has been nominated by the SJB to fill the vacancy in Parliament created by the disqualification of Diana Gamage as Member of Parliament by a Supreme Court verdict.
+
+...
+
+[Data](articles/985c577b.json)
+
+---
 
 ### O/L exam irregularities reported from Colombo and Hasalaka
 
@@ -48,35 +66,49 @@ In response to an inquiry from Ada Derana, the Commissioner General confirmed th
 
 [Data](articles/9f433542.json)
 
+[Extended Data](ext_articles/9f433542.ext.json)
+
 ---
 
-### මුජිබුර් දිවුරුම් දෙයි
+### Mujibur oaths
 
 *2024-05-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196467) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස මුජිබුර් රහුමාන් මහතා අද (10) දිනයේ දිවුරුම් දුන්නේය.
+Mujibur Rahman was sworn in as a Member of Parliament today, replacing Diyan Gamage's seat. The decision was made by the party, and the Elections Commission confirmed his appointment.
 
-ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වු සමගි ජන බලවේගය පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා පත් කිරීමට එම පක්ෂය තීරණය කළේය.
+🟩
 
-ඒ අනුව එම නම ඇතුළත් ගැසට් නිවේදනය මැතිවරණ කොමිසම විසින් ඊයේ (09) ප්‍රකාශයට පත් කර තිබුණි.
+Mujibur Rahman was sworn in as a Member of Parliament today (10).
 
-ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බවට සඳහන් කරමින් ශ්‍රේෂ්ඨාධිකරණය තීන්දුවක් ප්‍රකාශයට පත් කළේය.
+The party decided to appoint former Parliamentarian Mujuur Rahman for the national list of the vacant reconciliation of Diyan Gamage's parliamentary seat.
+
+Accordingly, the Elections Commission had announced the gazette notification that included the name yesterday.
+
+Mrs. Diana Gamage announced a decision to claim that there was no legitimate qualification to seat the Sri Lankan election.
 
 ◼️
 
 [Data](articles/dc600359.json)
 
+[Extended Data](ext_articles/dc600359.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+### Parliamentary proceedings begun
 
 *2024-05-10 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196466) · `si`
 
-අද (10) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+Parliamentary proceedings started today, marking the beginning of legislative discussions and debates.
+
+🟩
+
+Parliamentary affairs have commenced today (10).
 
 ◼️
 
 [Data](articles/e6700ded.json)
+
+[Extended Data](ext_articles/e6700ded.ext.json)
 
 ---
 
@@ -97,6 +129,8 @@ The Parliamentary Communications Department reported that its Chairperson, Membe
 ...
 
 [Data](articles/d2f76deb.json)
+
+[Extended Data](ext_articles/d2f76deb.ext.json)
 
 ---
 
@@ -1912,6 +1946,20 @@ Changes of government “by the ballot, and not by the bullet”. One hopes that
 
 ---
 
+### පසුගිය වසරේදී මත්පැන් බලපත්‍ර 214ක් දීලා
+
+*2024-05-09 19:56:26* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේදී-මත්පැන්-බලපත්‍ර-214ක්-දීලා/11-409539) · `si`
+
+2023.01.01. සිට 2024.01.01 දක්වා කාලය තුළ මත්පැන් බලපත්‍ර 214ක් ලබා දී ඇති බවත්, එයින් බලපත්‍ර 147ක් ලබා දී ඇත්තේ සංචරක කර්මාන්තය සඳහා බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර මහතා ඊයේ(09දා) පාර්ලිමේන්තුවේදී වාචික පිළිතුරු අපේක්ෂාවෙන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/ecc65bed.json)
+
+---
+
 ### Sri Lanka Group of Star players: Vyaskant
 
 *2024-05-09 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183093) · `ta`
@@ -2159,39 +2207,5 @@ An autopsy revealed that he died of more than ten burns in the body due to high 
 [Data](articles/6b620901.json)
 
 [Extended Data](ext_articles/6b620901.ext.json)
-
----
-
-### Here is the Sri Lankan cricket squad for the Twenty20 World Cup
-
-*2024-05-09 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196449) · `si`
-
-Sri Lanka Cricket announced its Twenty20 World Cup squad on 09/09.
-
-🟩
-
-Sri Lanka Cricket (SLC) has announced the Sri Lankan squad today (09).
-
-◼️
-
-[Data](articles/a821866a.json)
-
-[Extended Data](ext_articles/a821866a.ext.json)
-
----
-
-### From Socialism To Success: Sweden’s Economic Evolution
-
-*2024-05-09 18:58:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-socialism-to-success-swedens-economic-evolution/) · `en`
-
-Both Sweden and Sri Lanka profess to follow Democratic Socialism. But Sweden has seemingly produced a more successful economy. This has led to the popularly held belief that Sweden is an example of Democratic Socialism done right. In this article a brief economic history of Sweden is provided (as published in “The Power of Capitalism” by Rainer Zitelmann). The details show that this popular belief is in fact incorrect.
-
-In the early 19th century Sweden was a very poor country. This was due to the existence of guilds which hindered the freedom of trade and imposed price controls. However, in 1846 the guilds were abolished, and in 1865 complete freedom of trade resembling a free-market with low taxes was introduced. This led to 100 years of tremendous growth. This growth significantly exceeded other European countries such as Germany, Italy and France. Globally it was the second highest in per capita GDP, exceeded only by Japan, and twice as high as in the UK.
-
-...
-
-[Data](articles/a4ae0ba4.json)
-
-[Extended Data](ext_articles/a4ae0ba4.ext.json)
 
 ---

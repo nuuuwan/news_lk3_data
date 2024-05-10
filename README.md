@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 19:03:16**
+As of **2024-05-10 19:18:05**
 
 ## Newspaper Stats
 
-*Scraped **23,205** Articles*
+*Scraped **23,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 2,719
 tamilmirrorlk | 2,719
 virakesarilk | 3,450
 dailymirrorlk | 3,646
-adaderanasinhalalk | 3,719
+adaderanasinhalalk | 3,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,201 (100.0%) of 23,205 articles have been extended.
+23,205 (100.0%) of 23,206 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,49 @@ Accordingly, a player will be financially rewarded with a one-time payment if th
 
 [Data](articles/62db0325.json)
 
+[Extended Data](ext_articles/62db0325.ext.json)
+
 ---
 
-### வெப்பமான காலநிலை குறித்து எச்சரிக்கை!
+### ක්‍රීඩකයින්ගේ ගෙවීම් ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් නිවේදනයක්
+
+*2024-05-10 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196488) · `si`
+
+ශ්‍රී ලංකා ජාත්‍යන්තර ක්‍රිකට් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරන සියලුම ක්‍රීඩකයින්ගේ ගෙවීම් වහාම ක්‍රියාත්මක වන පරිදි වැඩි කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+
+ඒ අනුව ටෙස්ට් තරග සඳහා සහභාගී වන ක්‍රීඩකයින්ගේ තරග ගාස්තුව 100%කින් වැඩි කළ අතර, ඔවුන්ගේ ගෙවීම් දක්ෂතා අනුව තීරණය කෙරේ.
+
+එසේම ටෙස්ට් ක්‍රිකට් තරගයක් ජයග්‍රහණය කිරීම, ජය පරාජයෙන් තොරව අවසන්වීම හෝ පරාජය වීම මත ද ගෙවීම් ක්‍රමවේද වෙනස් වේ.
+
+එසේම එක්දින ජාත්‍යන්තර තරග සහ 20යි 20 ජාත්‍යන්තර තරග සඳහා 25%කින් ගෙවීම් ඉහළ දමා ඇත.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය මඟින් ශ්‍රේණිගත කර ඇති ක්‍රීඩකයින් සඳහා ද පිළිගැනීමේ ක්‍රමවේදයක් සකසන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+එම නිවේදනයේ තවදුරටත් සඳහන් වන්නේ, නව කොන්ත්‍රාත්තු සඳහා ක්‍රීඩකයින් 41 දෙනෙකු තෝරාගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/49382233.json)
+
+---
+
+### Warning on hot weather!
 
 *2024-05-10 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183185) · `ta`
 
-இந்த அறிவிப்பு வடக்கு மற்றும் வடமத்திய மாகாணங்களுக்கும் திருகோணமலை மற்றும் மட்டக்களப்பு மாவட்டங்களுக்கும் வெப்பநிலை அதிகமாக இருக்கலாம் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+High heat warnings issued for Northern, North Central Provinces, and Trincomalee, Batticaloa districts. Expect intense heat affecting human comfort.
 
-அதன்படி, மேற்கூறிய பகுதிகளில் வெப்பம், மனித உடலால் உணரப்படும் அளவுக்கு அதிக அளவில் இருக்கும் என எதிர்பார்க்கப்படுகிறது.
+🟩
+
+The announcement is likely to be high for the Northern and North Central Provinces and Trincomalee and Batticaloa districts, the Department of Meteorology said.
+
+Accordingly, heat in the above areas is expected to be high enough to be felt by the human body.
 
 ◼️
 
 [Data](articles/5804500a.json)
+
+[Extended Data](ext_articles/5804500a.ext.json)
 
 ---
 
@@ -83,6 +113,8 @@ He further assured that there are no reports of any circulation of the question 
 ◼️
 
 [Data](articles/96461ef5.json)
+
+[Extended Data](ext_articles/96461ef5.ext.json)
 
 ---
 
@@ -1478,21 +1510,31 @@ In this case, the person from the person. It is worth noting that 200> 50> 000, 
 
 ---
 
-### රුපියල ශක්තිමත් වීම පුරවැසි ඔබට බලපාන්නේ කොහොම ද?
+### How to strengthen the rupee?
 
 *2024-05-10 12:05:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1je2z1pgo) · `si`
 
-මේවන විට ශ්‍රී ලංකාව සතු දළ නිල සංචිත ඇමෙරිකානු ඩොලර් බිලියන 5 ඉක්මවන අතර, ඇමෙරිකානු ඩොලරයට සාපේක්ෂව ශ්‍රී ලංකා රුපියලේ අගයද  කැපීපෙනෙන ශක්තිමත් වීමක් පෙන්නුම් කරයි.
+Strengthening the Sri Lankan rupee involves reducing the cost of foreign exchange, making imports cheaper, and potentially lowering inflation. This can benefit the economy by reducing the cost of goods and raw materials, especially for businesses. However, it may also impact export and tourism sectors negatively.
 
-වසර ගණනක් තිස්සේ හිඟයක් ලෙස පැවති ප්‍රාථමික ගිණුමේ ශේෂය, 2023 වසරේදී දළ දේශීය නිෂ්පාදිතයේ ප්‍රතිශතයක් වශයෙන් සියයට 0.6 ක අතිරික්තයක් පෙන්නුම් කරයි.දශක ගණනාවකට පසුව ගෙවුම් ශේෂයේ ජංගම ගිණුමේ අතිරික්තයක් 2023 වසරේ ඇතිව තිබෙන අතර, පොළී අනුපාතය 10%-13% මට්ටමට පහළ වැටී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ (මැයි 09 වැනිදා) පාර්ලිමේන්තුවේ විශේෂ ප්‍රකාශයක් කරමින් පෙන්වා දුන්නේය.
+🟩
 
-'පොත් කියවපු මනුස්සයෙක් පොකට් එකට ගහලා රටක් හදන්න සල්ලි හොයන එක මොන විහිළුවක් ද?'
+Sri Lanka's gross uniforms exceeding US $ 5 billion, and the value of the Sri Lankan rupee is a significant strength.
 
-මීට වසර දෙකකට අධික කාලයක සිට ශ්‍රී ලංකාවේ දිනපතා පුවත් නිර්මාණය කළ ඇමෙරිකානු ඩොලරයේ අගය වැඩි වීම, වර්තමානය වන විට ක්‍රම ක්‍රමයෙන් අඩු වෙමින් පවතියි.
+The balance of the primary account for years has shown a surplus of Rs.President Ranil Wickremesinghe (May 9) a special statement in Parliament.
+
+'What kind of joke to make a country that is a man who read books into the pocket and make money?'
+
+The number of US dollar's daily news in Sri Lanka has been increasing in Sri Lanka over two years.
+
+Due to many economic matters, such as increasing inflation, as the increase in the foreign reserves of Sri Lanka, has been stressed. Especially the import impact on the field, it has been implemented, such as the present today and the import boundaries implemented up to the present. There were also hindered to import the essentials, such as fuel and gas.
+
+Today, however, the rupee has been significantly strengthened with other currencies.
 
 ...
 
 [Data](articles/d206cd43.json)
+
+[Extended Data](ext_articles/d206cd43.ext.json)
 
 ---
 
@@ -2287,27 +2329,5 @@ The Parliamentary Communications Department stated that a letter has been sent t
 [Data](articles/d7be3cc2.json)
 
 [Extended Data](ext_articles/d7be3cc2.ext.json)
-
----
-
-### Kaspersky detects 15 million incidents on Sri Lankan computers in 2023
-
-*2024-05-10 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kaspersky-detects-15-million-incidents-on-Sri-Lankan-computers-in-2023/108-282275) · `en`
-
-Says high incidence of malware spread through removable media observed
-
-Kaspersky yesterday shared that in 2023, its products detected 15 million local incidents on the computers of Kaspersky Security Network participants in Sri Lanka.
-
-Overall, nearly 46 percent of users in Sri Lanka were targeted by local threats during this period.
-
-Additionally, 9.3 million different Internet-borne cyberthreats have been detected on the computers of KSN participants in Sri Lanka. Overall, 39.5 percent of users were targeted by web-borne threats during this period.
-
-“In Sri Lanka, we observe high incidence of malware spread through removable media such as USB drives. These attacks exploit vulnerabilities in local systems, often bypassing initial digital defenses,” said Kaspersky General Manager for Southeast AsiaYeo Siang Tiong.
-
-...
-
-[Data](articles/7759a99f.json)
-
-[Extended Data](ext_articles/7759a99f.ext.json)
 
 ---

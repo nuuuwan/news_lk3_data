@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 15:03:41**
+As of **2024-05-10 15:18:16**
 
 ## Newspaper Stats
 
-*Scraped **23,169** Articles*
+*Scraped **23,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,968
 adaderanalk | 2,713
-tamilmirrorlk | 2,713
+tamilmirrorlk | 2,714
 virakesarilk | 3,444
-dailymirrorlk | 3,640
+dailymirrorlk | 3,641
 adaderanasinhalalk | 3,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,169 (100.0%) of 23,169 articles have been extended.
+23,169 (100.0%) of 23,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### பதுளை விபத்தில் ஒருவர் பலி: நால்வர் காயம்
+
+*2024-05-10 14:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-ஒருவர்-பலி-நால்வர்-காயம்/76-337090) · `ta`
+
+பதுளை – மஹியங்கனை வீதியின் புவக்கொடமுல்ல பிரதேசத்தில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான  பஸ்ஸும் முச்சக்கரவண்டியும் நேருக்கு நேர் மோதியதில் முச்சக்கரவண்டியில் பயணித்த ஒருவர் உயிரிழந்துள்ளதுடன் நால்வர் படுகாயமடைந்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+
+தெஹியத்தகண்டிய டிப்போவுக்குச் சொந்தமான  பஸ் ஒன்று தெஹியத்தகண்டிய சிறிபுரவிலிருந்து பதுளை நோக்கிச் சென்று கொண்டிருந்த போது அதற்கு முன்னால் பதுளையிலிருந்து ரிதிபன நோக்கிச் சென்ற முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் பெண் ஒருவரும் மூன்று ஆண்களும் காயமடைந்து பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் அவர்களின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/4a8d0725.json)
+
+---
+
+### One killed, four injured in head-on collision
+
+*2024-05-10 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-four-injured-in-head-on-collision/108-282326) · `en`
+
+Colombo, May 10 (Daily Mirror)- One person was killed and four others seriously injured in a head-on collision of a SLTB bus and a trishaw at Puwagodamulla on the Badulla- Mahiyangana road.
+
+The deceased and the injured were the passengers of the trishaw including its driver.
+
+The Badulla bound bus belonging to the Dehiattakandiya SLTB depot had collided with the trishaw transporting a group of passengers from Badulla to Rideepana. The deceased are yet to be identified.
+
+A woman and three men have been injured and admitted to hospital. Spokesman for the hospital said they were in critical condition.
+
+The driver of the SLTB bus was arrested pending further investigations.
+
+A police team under SI A.V. Anura is conducting further investigations on the instructions of HQI Badulla police Priyantha Chaminda.
+
+◼️
+
+[Data](articles/28dfe639.json)
+
+---
 
 ### Public assistance sought to gather info on Sri Lankan military veterans fighting in Russia-Ukraine war
 
@@ -2181,51 +2219,5 @@ May  1st 2024 saw   –   according to some newspapers –   41 May Day related 
 [Data](articles/5fbb9b96.json)
 
 [Extended Data](ext_articles/5fbb9b96.ext.json)
-
----
-
-### In the congregation today by the Telecommunication Regulatory Act
-
-*2024-05-10 01:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைத்தொடர்பு-ஒழுங்குபடுத்தல்-சட்ட-மூலம்-இன்று-சபையில்/175-337066) · `ta`
-
-The Minister of Technology Kanaka Herath announced the tabling of an amendment Bill to the Telecommunication Regulatory Act in Parliament today. This follows the establishment of laws for undersea cable connections and a significant increase in social media users, necessitating the National Cyber Protection Act.
-
-🟩
-
-The Minister of Technology Kanaka Herath said that the amendment Bill for amendment to the Telecommunication Regulatory Act will be tabled in Parliament today.
-
-Minister of Technology Kanaka Herath said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
-
-Amendment Bill to amend the Telecommunication Regulatory Act to be presented in Parliament today. There were no laws for cable connections used under the sea before. The legal source has been able to submit the laws.
-
-The number of all kinds of social website users has increased from 60 million to 74 million. So the National Cyber ​​Protection Act is required. Accordingly, the law is scheduled for this month.. (A)
-
-◼️
-
-[Data](articles/de3ad99d.json)
-
-[Extended Data](ext_articles/de3ad99d.ext.json)
-
----
-
-### Prostitution house siege in Jaffna - four arrested
-
-*2024-05-10 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183100) · `ta`
-
-A prostitution house in Jaffna's Kandar monastery was raided by the District Police Crime Unit, leading to the arrest of four individuals, including women from Point Pedro and Neerveli. The operation followed a tip from Senior Superintendent Jagath Nishantha, with further investigations ongoing.
-
-🟩
-
-A prostitute operating in the Kandar monastery in Jaffna has been siege with the help of the District Police Crime Unit following the confidential information received by the Senior Superintendent of Police, Jagath Nishantha, Jaffna, Jegath Nishantha.
-
-Four persons, including the elderly, have been arrested, including women from Point Pedro and Neerveli areas.
-
-The police are conducting further investigations to the arrested persons.
-
-◼️
-
-[Data](articles/e06aff42.json)
-
-[Extended Data](ext_articles/e06aff42.ext.json)
 
 ---

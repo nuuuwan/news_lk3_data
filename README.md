@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 15:52:22**
+As of **2024-05-10 16:04:47**
 
 ## Newspaper Stats
 
-*Scraped **23,174** Articles*
+*Scraped **23,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,90 @@ adalk | 1,968
 adaderanalk | 2,713
 tamilmirrorlk | 2,714
 virakesarilk | 3,444
-dailymirrorlk | 3,641
+dailymirrorlk | 3,642
 adaderanasinhalalk | 3,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,172 (100.0%) of 23,174 articles have been extended.
+23,174 (100.0%) of 23,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### සබරගමු සරසවියේ අක්‍රමිකතා රැසක් කෝප් කමිටුවේ දී හෙළිවෙයි
+### SLPP ready for Presidential election, no candidate yet: Basil
+
+*2024-05-10 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-ready-for-Presidential-election-no-candidate-yet-Basil/108-282329) · `en`
+
+Colombo, May 10 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) is ready for the Presidential eletion but they are yet to find a candidate for the presidency, SLPP founder Basil Rajapaksa said today.
+
+He told reporters after opening its election office that President Ranil Wickremesinghe will declare his stance on the elction by June 18 and said it will be even earlier after the conclusion of the Indian election.
+
+When asked whether the SLPP would support President Wickremesinghe, he said the party would decide whether to support him or not.
+
+◼️
+
+[Data](articles/13a63898.json)
+
+---
+
+### COPE committee reveals a number of irregularities at Sabaragamuwa University
 
 *2024-05-10 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196480) · `si`
 
-සබරගමුව විශ්වවිද්‍යාලයේ පරිපාලන දුර්වලතා සහ අක්‍රමිකතා රැසක් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේදී අනාවරණය වී තිබේ.
+The COPE committee found administrative weaknesses and irregularities at Sabaragamuwa University, recommending a report by the Ministry of Education's Secretary. The findings were handed over to the Department of Investigations.
 
-ඒ අනුව එම අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂාකර බලා කඩිනමින් වාර්තාවක් සකස් කර ලබා දෙන ලෙස එම කමිටුව අධ්‍යාපන අමාත්‍යාංශ ලේකම්වරියට නිර්දේශ කර ඇත.
+🟩
 
-එම ලබාදෙන වාර්තාවෙන් අනතුරුව මේ සම්බන්ධයෙන් විමර්ශන ආරම්භ කිරීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදෙන බව කෝප් කමිටුව මෙහිදී පෙන්වා දී තිබේ.
+The Committee on Public Enterprises (COPE) has revealed a number of administrative weaknesses and irregularities of the Sabaragamuwa University.
 
-2023 වසරේ නොවැම්බර් මස 09 දින පවත්වන ලද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව විසින් සබරගමුව විශ්වවිද්‍යාලය සම්බන්ධයෙන් නිකුත්කරන ලද නියෝග සහ නිර්දේශ ක්‍රියාත්මක කිරීමේ ප්‍රගතිය ද මෙහිදී සමාලෝචනය කර ඇති බව සඳහන් ය.
+Accordingly, the committee has recommended the Secretary to the Ministry of Education to check and prepare a report on the irregularities.
 
-මේ සම්බන්ධයෙන් පාර්ලිමේන්තු සන්නිවේදන ඒකකය නිකුත් කළ නිවේදනය පහතින් දැක්වේ.
+The COPE committee has been handed over to the Department of Investigations following the report.
+
+The Committee on Public Enterprises held on 09 November 2023, the committee of the Sabaragamuwa University has also reviewed the progress issued on the University of Sabaragamuwa.
+
+Below is the announcement issued by the Parliamentary Communication Unit in this regard.
 
 ◼️
 
 [Data](articles/f1f57fb2.json)
 
+[Extended Data](ext_articles/f1f57fb2.ext.json)
+
 ---
 
-### සුඛෝපභෝගී වාහන නඩුව ගැන අධිකරණයෙන් විශේෂ නියෝගයක්
+### Luxury vehicle layer's special order on the case
 
 *2024-05-10 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196479) · `si`
 
-අති සුඛෝපභෝගී BMW වර්ගයේ වාහන 1,728ක් තීරුබදු රහිත බලපත්‍ර යටතේ ආනයන කිරීමේදී රුපියල් බිලියන16ක බදු මුදලක් රජයට අහිමි කිරීම සම්බන්ධයෙන් යළිත් විධිමත් පරීක්ෂණයක් සිදුකරන්නැයි අභියාචනාධිකරණය රේගු අධ්‍යක්ෂ ජනරාල්වරයාට අවසර ලබාදී තිබේ.
+The Court of Appeal has allowed a formal investigation into the loss of Rs. due to the import of 1,728 luxury BMWs by a private company from 2014 to 2016, costing the government about Rs. 16 billion. The Sri Lanka Customs Investigation is seeking to recover fines and has reopened the case, emphasizing the power of the Customs Department to investigate and take legal action against fraudulent companies.
 
-ඒ, මෙම සිද්ධිය සම්බන්ධයෙන් චෝදනා එල්ලවන සමාගම, විමර්ශන අත්හිටුවන නියෝගයක් ඉල්ලා ගොනුකර තිබූ පෙත්සමට අදාළ නඩුව ඊයේ (09) අභියාචනාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී ය.
+🟩
 
-අදාළ පෞද්ගලික සමාගම මඟින් 2011 සිට 2014  දක්වා කාලයේදී අති සුඛෝපභෝගී BMW වර්ගයේ වාහන 1,728ක් තීරු බදු රහිතව මෙරටට ආනයනය කර ඇති බව විගණකාධිපතිවරයා ඉකුත් 2016 වසරේදී අනාවරණ කර තිබිණි.
+The Court of Appeal has granted permission to conduct a formal investigation into the loss of Rs.
 
-එහිදී හෙළිවුණේ, මෙම වාහන ආනයනයේදී රජයට රුපියල් බිලියන16ක පමණ බදු මුදලක් අහිමි වී ඇති බවය.
+This was when the accused of the company had filed the case with the suspension of an Investigation ordered by the Court of Appeal yesterday.
 
-ඒ අනුව ශ්‍රී ලංකා රේගුව විමර්ශනයක් සිදුකර එක් වාහනයකට රුපියල් ලක්ෂයක් බැගින් වූ දඩ මුදලක් අයකර ගැනීමට පියවර ගෙන තිබිණි.
+The Auditor General had revealed that 1,728 luxury BMWs have been imported to the country in 2016 to 2014 by the relevant private company to 2014.
 
-අනතුරුව ශ්‍රී ලංකා රේගුව සිදුකළ ඉල්ලීම මත ජර්මානු රේගු බලධාරීන්ගෙන් ප්‍රශ්නගත වාහන ආනයනයට අදාළ වාර්තාවක් කැඳවා එය පදනම් කරගෙන නැවතත් විමර්ශනයක් ආරම්භ කිරීමට පියවර ගත්තේය.
+It was revealed that the government had lost about Rs. 16 billion in importing these vehicles.
+
+Accordingly, the Sri Lanka Customs Investigation had taken steps to recover a fine of Rs. 100,000 each.
+
+The Sri Lanka Customs then summoned a report to import from the German Customs authorities and re-opened an investigation.
+
+The vehicles imported by the private company that imported vehicles have been filed in the Court of Appeal and suspended investigations.
+
+When the case was taken up again yesterday, Sumathi Dharma Dharma Dharmawardena, the Director General of Customs and the Attorney General
 
 ...
 
 [Data](articles/382f1ad5.json)
+
+[Extended Data](ext_articles/382f1ad5.ext.json)
 
 ---
 
@@ -2201,25 +2233,5 @@ The union of the female parliamentary members has pointed out that this will red
 [Data](articles/6c4e605a.json)
 
 [Extended Data](ext_articles/6c4e605a.ext.json)
-
----
-
-### Police have arrested two men involved in the excavation of gemstone without permission
-
-*2024-05-10 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183102) · `ta`
-
-Two men, aged 32 and 44, from Aluthkedera, Belgatna, and Pallegama Padiyathalawa, were arrested for unauthorized gemstone excavation.
-
-🟩
-
-Two persons have been arrested for illegally excavating gemstone without permits.
-
-Two persons, aged 32 and 44, from Aluthkedera, Belgatna and Pallegama Padiyathalawa area have been arrested, have been arrested.
-
-◼️
-
-[Data](articles/b5d45b9f.json)
-
-[Extended Data](ext_articles/b5d45b9f.ext.json)
 
 ---

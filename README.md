@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 22:33:45**
+As of **2024-05-10 22:51:31**
 
 ## Newspaper Stats
 
-*Scraped **23,224** Articles*
+*Scraped **23,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,973
 tamilmirrorlk | 2,720
-adaderanalk | 2,722
-virakesarilk | 3,452
-dailymirrorlk | 3,649
+adaderanalk | 2,723
+virakesarilk | 3,453
+dailymirrorlk | 3,650
 adaderanasinhalalk | 3,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,222 (100.0%) of 23,224 articles have been extended.
+23,224 (100.0%) of 23,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### UN General Assembly backs Palestinian bid for membership
+
+*2024-05-10 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99140/un-general-assembly-backs-palestinian-bid-for-membership) · `en`
+
+(Reuters) - The United Nations General Assembly on Friday overwhelmingly backed a Palestinian bid to become a full U.N. member by recognizing it as qualified to join and recommending the U.N. Security Council “reconsider the matter favorably.”
+
+The vote by the 193-member General Assembly was a global survey of support for the Palestinian bid to become a full U.N. member - a move that would effectively recognize a Palestinian state - after the United States vetoed it in the U.N. Security Council last month.
+
+The assembly adopted a resolution with 143 votes in favor and nine against - including the U.S. and Israel - while 25 countries abstained. It does not give the Palestinians full U.N. membership, but simply recognizes them as qualified to join.
+
+The resolution “determines that the State of Palestine ... should therefore be admitted to membership” and it “recommends that the Security Council reconsider the matter favorably.”
+
+...
+
+[Data](articles/baa73292.json)
+
+---
 
 ### President announces plans to pass women-empowering bills in Parliament by June
 
@@ -50,6 +68,8 @@ President Ranil Wickremesinghe made these remarks during his keynote address at 
 
 [Data](articles/96568b13.json)
 
+[Extended Data](ext_articles/96568b13.ext.json)
+
 ---
 
 ### Decision on Savings Interest Rates of Senior Citizens
@@ -67,6 +87,18 @@ State Minister Dr. Ranjith Siyambalapitiya says that the President has instructe
 [Data](articles/3de963f6.json)
 
 [Extended Data](ext_articles/3de963f6.ext.json)
+
+---
+
+### Urging support for struggling artists...
+
+*2024-05-10 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Urging-support-for-struggling-artists/110-282338) · `en`
+
+The United Youth Artistes' Forum emphasized the importance of maintaining the stability that the country has achieved and called for assistance for artists who they claim have become helpless in the wake of the economic crisis. Artists Senaka Wijesinghe, Rajitha Hiran and Kumar Jayakatha were among those who voiced these concerns at a media briefing. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/4bca174f.json)
 
 ---
 
@@ -158,19 +190,25 @@ During a telephone conversation, Inspector Padmalal and the main opponent of Roh
 
 ---
 
-### ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම තව දුරටත් වර්ධනය වේ  සියලුම අංශ සීරුවෙන්
+### The landslides active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area of the Ella
 
 *2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-මලිත්තගොල්ල-ප්‍රදේශයේ-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ--සියලුම-අංශ-සීරුවෙන්/11-409553) · `si`
 
-ඇල්ල  කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම දැනට පතිත වන ධාරානිපාත වර්ෂාවත් සමඟ තව දුරටත් සක්‍රීය වීම. නිසාවෙන් ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය ට අනතුරුදායක තත්ත්වයක් උදා වී ඇති හෙයින්   ආරක්ෂිත උපදෙස් ක්‍රියා මාර්ග ගන්නා ලෙසට අදාළ වගකිවයුතු සියලුම අංශ  අද (10) පස්වරුවේ  දැනුවත් කල බව ජාතික  ගොඩනැගිලි පර්යේෂණ ආයතනයේ බදුල්ල දිස්ත්‍රික් ප්‍රධාන භූවිද්‍යඥ හර්ශනී පෙරේරා මහත්මිය පැවසුවාය .
+Landslides in the Maltalagolla area, Ella, have been active, with the National Building Research Institute's geologist Harshakai Perera advising caution. The Road Development Center, Disaster Management Center, and local secretariats have been informed. The Geological Survey Department confirmed activity in Maligamuwa, with ongoing investigations. The Badulla District Secretariat is leading resettlement efforts post-2019 landslides.
 
-මාර්ග සංවර්ධන අධ්කාරිය, ආපදා කළමනාකරණ මධ්‍යස්ථානය, බදුල්ල දිස්ත්‍රික් ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ආදි වගකිවයුතු සියලුම අංශ වල නිළධාරින් මේ සම්බන්ධයෙන් දැනටමත් දැනුවත් කර තිබෙන බවත් ඇය කීවාය .
+🟩
 
-හදිසි අවස්ථාවකදී ආපදාවකදී අදාළ කටයුතු කඩිනමින් සිදු කිරිමටත්, වර්ෂාවත් සමඟ මෙම මලිත්තගොල්ල නාය යාම සම්බන්ධයෙන් නිරතුරුවම අවධානයෙන් සිටින ලෙසට එම ආයතන දැනුවත් කල බව කීවාය .
+Further active of the landslides that have been active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area in the Maltalagolla in the Maltalagolla area.. Naturals, the main geologist Harshakai Perera, Badulla District of the National Building Research Institute, said that all the responsible sectors responsible for the election of the secure advice today (10) afterwards today.
+
+The Road Development Center, Disaster Management Center, Badulla District Secretariat, Ella Divisional Secretariat, all other responsibilities have already been informed of this in this regard.
+
+In an emergency, the institutions were informed that the matters were made to keep on landslides in the Maluththagol to the expedition of the mattra.
 
 ...
 
 [Data](articles/d4bd0a73.json)
+
+[Extended Data](ext_articles/d4bd0a73.ext.json)
 
 ---
 
@@ -987,6 +1025,26 @@ The US ambassador Juli Sung, who has posted a record on its official X site, sai
 [Data](articles/0d4944d3.json)
 
 [Extended Data](ext_articles/0d4944d3.ext.json)
+
+---
+
+### ராஜபக்ஷர்களின் ஒத்துழைப்பு இல்லாமல் எவருக்கும் ஆட்சியமைக்க முடியாது - ஜோன்ஸ்டன்
+
+*2024-05-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183168) · `ta`
+
+அறிவார்ந்தவர்கள் மக்கள் விடுதலை முன்னணிக்கு வாக்களிக்களிக்க மாட்டார்கள். மக்கள் விடுதலை முன்னணியின் உண்மை முகம் தற்போது அவர்களின் பேச்சிலேயே வெளிப்படுகிறது.
+
+ராஜபக்ஷர்களின் ஒத்துழைப்பு இல்லாமல் எவருக்கும் ஆட்சியமைக்க முடியாது  என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
+
+பத்தரமுல்ல  பகுதியில்  உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் வெள்ளிக்கிழமை (10) இடம்பெற்ற தேர்தல் நடவடிக்கைகள் கண்காணிப்பு காரியாலய திறப்பு நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தலுக்கான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.எமது வேட்பாளர் யார் என்பதை கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ நாட்டு மக்களுக்கு பகிரங்கப்படுத்துவார். சிறந்த வேட்பாளரை களமிறக்குவோம் என்ற உறுதியை நாட்டு மக்களுக்கு வழங்க முடியும்.
+
+மக்கள் விடுதலை முன்னணியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தேர்தலுக்கான அறிவிப்பு விடுக்கப்படுவதற்கு முன்னரே ஜனாதிபதி வேட்பாளர் யார் என்பதை அவர்கள் அறிவித்து விட்டார்கள்.
+
+...
+
+[Data](articles/c6e65e66.json)
 
 ---
 
@@ -2271,73 +2329,5 @@ The deceased is the victim of the sickness and vomiting the sickness when the de
 [Data](articles/31c0ca2d.json)
 
 [Extended Data](ext_articles/31c0ca2d.ext.json)
-
----
-
-### Two Italian citizens arrested for trying to smuggle insects at Yala National Park
-
-*2024-05-10 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183117) · `ta`
-
-Two Italians arrested for smuggling 285 insects, including butterflies, from Yala National Park in Sri Lanka.
-
-🟩
-
-Two Italian citizens allegedly attempted to smuggle hundreds of local pests and plants from the Yala National Park have been arrested in the Kadagamuwa area.
-
-They were arrested on Wednesday (08).
-
-Wildlife officials said they had seized a large number of glass mugs that had collected 285 insects, including butterflies in Sri Lanka, from the arrested.
-
-◼️
-
-[Data](articles/23a84555.json)
-
-[Extended Data](ext_articles/23a84555.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu to visit Sri Lanka
-
-*2024-05-10 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Assistant-Secretary-Donald-Lu-to-visit-Sri-Lanka/108-282312) · `en`
-
-Colombo, May 10 (Daily Mirror) - United States Assistant Secretary of State for South and Central Asian Affairs Donald Lu will travel to India, Sri Lanka, and Bangladesh between May 10 and 15.
-
-His trip will strengthen bilateral cooperation with each country and demonstrate U.S. support for a free, open, and prosperous Indo-Pacific region.
-
-In Chennai, Assistant Secretary Lu will meet with Consulate personnel to bolster bilateral engagement in southern India.
-
-He will then travel to Colombo to engage with officials from across the political spectrum and deepen the United States’ partnership with Sri Lanka. In his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society.
-
-...
-
-[Data](articles/b178f892.json)
-
-[Extended Data](ext_articles/b178f892.ext.json)
-
----
-
-### Suspect arrested with drug
-
-*2024-05-10 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196468) · `si`
-
-A suspect, Bass Roshan, was arrested in Ragama with 102 grams of heroin and 940 milligrams, worth over Rs. 25 lakhs, revealing his involvement in a heroin racket.
-
-🟩
-
-According to information received by the Ragama Police, a suspect with drugs has been arrested in the vehicle.
-
-102 grams of heroin found in the car and 940 milligrams of heroin.
-
-The 45 year-old suspect is known as 'Bass Roshan' residing in Ragama, police said.
-
-The stock of drug stock is worth over Rs. 25 lakhs.
-
-It is revealed that the suspect is an exemption of heroin racket.
-
-◼️
-
-[Data](articles/ad20b7a8.json)
-
-[Extended Data](ext_articles/ad20b7a8.ext.json)
 
 ---

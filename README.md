@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 19:33:26**
+As of **2024-05-10 19:51:13**
 
 ## Newspaper Stats
 
-*Scraped **23,206** Articles*
+*Scraped **23,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,969
+adalk | 1,970
 adaderanalk | 2,719
-tamilmirrorlk | 2,719
+tamilmirrorlk | 2,720
 virakesarilk | 3,450
-dailymirrorlk | 3,646
-adaderanasinhalalk | 3,720
+dailymirrorlk | 3,647
+adaderanasinhalalk | 3,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,206 (100.0%) of 23,206 articles have been extended.
+23,206 (100.0%) of 23,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### தாய்வானில் நிலநடுக்கம்
+
+*2024-05-10 19:35:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்வானில்-நிலநடுக்கம்/50-337096) · `ta`
+
+தாய்வானின் ஹுலியன் மாகாண கடற்பகுதியில் 5.8 ரிச்டர் அளவில் இன்று (10) நிலநடுக்கம் ஏற்பட்டுள்ளது.
+
+உள்ளூர் நேரப்படி மதியம் 3.45 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டதாக சீன நில அதிர்வு நிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c26c5b52.json)
+
+---
+
+### වාරණ නියෝගයට එරෙහිව මෛත්‍රීගෙන් පෙත්සමක්
+
+*2024-05-10 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196489) · `si`
+
+තමාට නිදහස් පක්ෂ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාලමින් පනවා ඇති වාරණ නියෝගයට එරෙහිව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණයට අභියාචනා පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් ඉකුත්දා කොළඹ දිසා අධිකරණය විසින් නිකුත් කළ අතුරු තහනම් නියෝගය විසුරුවා හැරීමේ තීන්දුවක් ලබා දෙන ලෙස පෙත්සම්කාර හිටපු ජනාධිපතිවරයා ඉල්ලා ඇත.
+
+නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය මාර්ගයෙන් ගොනුකළ මෙම අභියාචනා පෙත්සමේ වගඋත්තරකරු ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභික වන මොන්ටේගු සරච්චන්ද්‍ර මහතා නම් කර තිබේ.
+
+වගඋත්තරකරු විසින් ගොනුකළ නඩුවක් විභාග කළ කොළඹ දිසා අධිකරණය තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ඉකුත්දා අතුරු තහනම් නියෝගයක් නිකුත් කළ බව මෛත්‍රීපාල සිරිසේන මහතා සිය අභියාචනා පෙත්සමෙන් පෙන්වා දී ඇත.
+
+කොළඹ දිසා අධිකරණය මෙම අතුරු තහනම් නියෝගය නිකුත් කළ ආකාරය නීතියට පටහැනි වන අතර එය ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස මෛත්‍රීපාල සිරිසේන මහතාගේ පෙත්සමෙන් ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/9a605307.json)
+
+---
+
+### CID tells Maithripala’s statements contradict each other
+
+*2024-05-10 19:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-tells-Maithripalas-statements-contradict-each-other/108-282333) · `en`
+
+Colombo, May 10 (Daily Mirror) -  The Criminal Investigations Department (CID) conducting investigations into the controversial revelation made by former President Maithripala Sirisena regarding the Easter Sunday bomb attacks, informed court that his two statements given to the CID and evidence gathered from CCTV footage contradict each other.
+
+Counsel Rajitha Lakmal, appearing for Parliamentarian Kavinda Jayawardena, moved the court to issue an order for the former President's arrest if he has provided false statements by concealing the truth. Considering the facts, Maligakanda Magistrate Lochani Abeywickrema directed the CID to take necessary action regarding former President Sirisena if he has committed something with criminal liability. The progress of the investigation was ordered to be reported to the court on July 26.
+
+...
+
+[Data](articles/1938a969.json)
+
+---
 
 ### Sri Lanka Cricket increases player fees across all formats
 
@@ -349,6 +397,22 @@ However, he had not included the squad for the incident, however, expected to pa
 [Data](articles/ae08251c.json)
 
 [Extended Data](ext_articles/ae08251c.ext.json)
+
+---
+
+### අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක්
+
+*2024-05-10 16:47:19* · [`adalk`](https://www.ada.lk/breaking_news/අකුණක්-වැදී-වලස්මුල්ල-මූලික-රෝහලේ-විශේෂිත-ප්‍රතිකාර-ඒකකයේ-ගින්නක්/11-409550) · `si`
+
+අයහපත් කාලගුණය සහ අධික වර්ෂාවත් සමග හටගත් අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක් හට ගෙන තිබේ.
+
+එම අවස්ථාවේ එම අංශයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් තිදෙනෙකු කඩිනමින් ඉවතට ගෙන අවශ්‍ය ප්‍රතිකාර නිසි ලෙස ඉටු කිරීමට රෝහල් කාර්ය මණ්ඩලය කටයුතු තිබේ.
+
+අකුණු සැර වැදීමෙන් කිසිවෙකුටත් හානියක් සිදුනොවුනත් එහි උපකරණවලට හානි සිදු වී ඇති බව වලස්මුල්ල මූලික රෝහලේ නිලධාරීන් පවසය
+
+◼️
+
+[Data](articles/b5e85d79.json)
 
 ---
 
@@ -2190,9 +2254,9 @@ ECONOMYNEXT – Sri Lanka’s central bank is in discussions with the telecom re
 
 The central bank together with banks are tightening security on an ongoing basis as hackers and other fraudsters develop new ways to defraud customers.
 
-One such method is to re-issue a mobile sim of a mobile phone banking customer whose account number and telephone number is known to the fraudster by persuading a mobile phone agent to re-issue a sim claiming it has been lost without submitting an identity card in person.
+One such method is to re-issue a SIM of a mobile banking customer whose account number and telephone number is known to the fraudster by persuading a mobile phone agent that it has been lost, without submitting an identity card in person.
 
-In late evening a new chip is activated and the fraudster logs on to the account, issues a new password through a one time password (OTP) sent to the newly issued SIM and takes all the money out.
+In the late evening a new chip is activated and the fraudster logs on to the account, gets a new password through a one time password (OTP) sent to the newly issued SIM and takes all the money out.
 
 ...
 
@@ -2249,91 +2313,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/e44a055f.json)
 
 [Extended Data](ext_articles/e44a055f.ext.json)
-
----
-
-### A female body in a forest area
-
-*2024-05-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196463) · `si`
-
-A 65-year-old woman was discovered in a forest near Berawewa Palapitalawa.
-
-🟩
-
-Police said that a 65-year-old woman was found and she was a resident of Berawewa Palapitalawa area.
-
-◼️
-
-[Data](articles/c1d59a95.json)
-
-[Extended Data](ext_articles/c1d59a95.ext.json)
-
----
-
-### Sri Lanka waits for clearance to implement India-funded Unique ID card project
-
-*2024-05-10 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-waits-for-clearance-to-implement-india-funded-unique-id-card-project-162464/) · `en`
-
-ECONOMYNEXT – Sri Lankan government is waiting for clearance from Public Security Ministry to go ahead with a dragged India-funded Unique ID card project, State Technology Minister Kanaka Herath said.
-
-The key stakeholders including President Ranil Wickremesinghe will meet on Friday to discuss (10) the latest on the project, he said.
-
-The project has faced delay while President Wickremesinghe’s government has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process last year.
-
-The project which has raised concerns over data privacy of Sri Lankan citizens and protection of personal data is yet to go for rebidding after last year’s cancellation.
-
-“We have finished the procurement and we are trying to advertise it. For that we need to get the cabinet approval,” Herath told reporters on Thursday (09) at a media briefing in Colombo.
-
-...
-
-[Data](articles/b7d8a259.json)
-
-[Extended Data](ext_articles/b7d8a259.ext.json)
-
----
-
-### Heavy showers about 100 mm expected today
-
-*2024-05-10 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99119/heavy-showers-about-100-mm-expected-today) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m. today (10).
-
-In its latest weather forecast, the department stated that heavy showers of about 100mm are likely at some places in Central, Sabaragamuwa, Eastern and Uva provinces and in Polonnaruwa district.
-
-Meanwhile, showers may occur at several places in Western and Southern provinces and in Puttalam, Mannar, Kilinochchi and Jaffna districts during the morning too.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
-
-◼️
-
-[Data](articles/388305eb.json)
-
-[Extended Data](ext_articles/388305eb.ext.json)
-
----
-
-### Mujibur to Parliament today
-
-*2024-05-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196462) · `si`
-
-Mujibur Rahman is set to be sworn in as a Member of Parliament today, following a party decision to appoint him for the national list, replacing Diyan Gamage. The Parliamentary Members' forum requested a woman for the seat, but the Communications Department confirmed Rahman's appointment.
-
-🟩
-
-Munibur Rahman is to be sworn in as a Member of Parliament today (10).
-
-Ada Derana stated that he is to be sworn in as the Parliament will be sworn in after the meeting at 9.30 am.
-
-The party decided to appoint former Parliamentarian Mujuur Rahman for the national list of the vacant reconciliation of Diyan Gamage's parliamentary seat.
-
-However, the forum of the Parliamentary Members of Parliament has requested a suitable woman to appoint a special woman for the seatment of Diana Gamage.
-
-The Parliamentary Communications Department stated that a letter has been sent to the General Secretary Ranjith Madduma Bandara at the MP Dr. Sudharshani Fernandopulle.
-
-◼️
-
-[Data](articles/d7be3cc2.json)
-
-[Extended Data](ext_articles/d7be3cc2.ext.json)
 
 ---

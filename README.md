@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 01:18:19**
+As of **2024-05-11 01:33:45**
 
 ## Newspaper Stats
 
-*Scraped **23,250** Articles*
+*Scraped **23,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,341
-dailyftlk | 1,352
+dailyftlk | 1,356
 adalk | 1,973
 tamilmirrorlk | 2,721
 adaderanalk | 2,723
@@ -26,11 +26,79 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,250 (100.0%) of 23,250 articles have been extended.
+23,250 (100.0%) of 23,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### BASL raises concerns on delays in filling CoA vacancies
+
+*2024-05-11 00:59:26* · [`dailyftlk`](https://www.ft.lk/news/BASL-raises-concerns-on-delays-in-filling-CoA-vacancies/56-761674) · `en`
+
+Notes five existing vacancies needs urgent attention due to potential adverse repercussions
+
+Stresses backlog of cases would increase, leading to delays in dispensation of justice, erosion of public trust
+
+Urges President to prioritise filling existing vacancies and consider bar members for vacant posts
+
+The Bar Association of Sri Lanka (BASL) writing to President Ranil Wickremesinghe yesterday expressed their concerns over the ongoing crisis relating to the filling of vacancies in the Court of Appeal.
+
+The BASL noted that there are five vacancies to date and said the situation merits urgent attention considering the potential adverse repercussions that would follow in the administration of justice.
+
+...
+
+[Data](articles/de0a90ba.json)
+
+---
+
+### Mujibur sworn in as National List MP
+
+*2024-05-11 00:57:47* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-sworn-in-as-National-List-MP/56-761673) · `en`
+
+Samagi Jana Balawegaya (SJB) member, Mujibur Rahman was sworn in yesterday as a National List Member of Parliament before Speaker of House Mahinda Yapa Abeywardena.
+
+The SJB had decided to nominate former MP Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a Parliamentary seat.
+
+The Supreme Court on Wednesday declared that Gamage is not legally qualified to hold a Parliamentary seat.
+
+The Secretary-General of Parliament informed the Election Commission that a Parliamentary seat in the Ninth Parliament has become vacant from 8 May 2024, due to the cancellation of Parliamentary seat of Gamage.
+
+...
+
+[Data](articles/52df4a67.json)
+
+---
+
+### COPA looks into current performance of National Education Management Information System
+
+*2024-05-11 00:57:01* · [`dailyftlk`](https://www.ft.lk/news/COPA-looks-into-current-performance-of-National-Education-Management-Information-System/56-761672) · `en`
+
+The Committee on Public Accounts focused on the current performance of the National Education Management Information System (NEMIS). The officials who were present pointed out that although this data system was initiated in 2012, it has not yet reached the expected level of performance.
+
+The Committee expressing displeasure, mentioned that although this Committee has been discussing this data system for 4 years, it has not reached the desired level. The members of the Committee who were present also pointed out that the necessary data pertaining to the school system is not available in this data system and not up to expectation.
+
+...
+
+[Data](articles/9aeaaf6b.json)
+
+---
+
+### Maithri’s Easter Sunday statement – Courts call for CID action on any criminal wrongdoing
+
+*2024-05-11 00:56:33* · [`dailyftlk`](https://www.ft.lk/news/Maithri-s-Easter-Sunday-statement-Courts-call-for-CID-action-on-any-criminal-wrongdoing/56-761671) · `en`
+
+Maligakanda Magistrate Lochani Abeywickrama directed the Criminal Investigation Department (CID) to probe the statement provided by former President Maithripala Sirisena regarding the Easter attack and to take necessary measures if any criminal wrongdoing is revealed.
+
+The order regarding Maithripala Sirisena’s statement on the Easter attack was issued during the latest hearing of the case at the Maligakanda Magistrate’s Court yesterday.
+
+A supplementary report on the ongoing investigation progress by the CID was submitted when the case was brought before the court. The CID informed the court that they are concurrently investigating complaints filed by MP Kavinda Jayawardena and Jana Aragala Vyaparaya concerning this incident. The case is to be taken up again on June 26.
+
+◼️
+
+[Data](articles/897e3194.json)
+
+---
 
 ### How far can we go with only “hope”?
 
@@ -2151,97 +2219,5 @@ The Build Sri Lanka Housing & Construction International Expo 2024 was launched 
 [Data](articles/f615497f.json)
 
 [Extended Data](ext_articles/f615497f.ext.json)
-
----
-
-### Liquor and cigarettes of alcohol and smoking occupied from green path
-
-*2024-05-10 12:49:05* · [`adalk`](https://www.ada.lk/breaking_news/හරිත-මාවතෙන්-පිටකරන්න-ගිය-ලක්ෂ-130ක-මත්පැන්-හා-දුම්වැටි-අල්ලයි/11-409547) · `si`
-
-Three businessmen were arrested at Katunayake Airport for smuggling foreign whiskey and cigarettes into Sri Lanka. They were caught with 9,800 cigarettes and 5,800 smoking cigarettes, exceeding the legal limit of 2.5 liters of liquor per person. The trio, aged 30, 38, and 52, were traveling from Chennai, India, and were detained for further investigation.
-
-🟩
-
-The Customs, which is not paid illegally, will not be paid to the Sri Lanka and brought them with foreign manufactured whiskey bottles and cigarettes worth Rs.Three businessmen have been arrested by Katunayake Airport Criminal Investigations (05/09).
-
-One of them is a 30 year old resident of the Colombo-14 area. අනෙක් ව්‍යාපාරිකයා කොළඹ - 12 ප්‍රදේශයේ පදිංචි 38 හැවිරිදි අයෙකු වන අතර තෙවැනි ව්‍යාපාරිකයා 52 වියේ පසුවන හැටන් ප්‍රදේශයේ පදිංචිකරුවෙකි .
-
-They were 5th at 04.30 pm to the Indian Airlines from Chennai, India.
-
-There they had completed all the investigations into the airport and was traveling from the "Green Mawatha" on the "Green Mawatha".
-
-They were recovered by the Katunayake Airport Census Investigations (CID) inquiry and nine smoking cigarettes of 5,800 smoking cigarettes in their baggage and 9,800 cigarettes cigarettes in the area.
-
-කටුනායක ගුවන් තොටුපොළ තුළින් ඕනෑම ගුවන් මගියෙකුට මත්පැන් ලීටර් 2.5 ක් නීත්‍යානුකූලව පිටතට රැගෙන යා හැකිය . එහෙත් මොවුන් ලීටර් 124 ක් රැගෙන යමින් තිබුණි .
-
-...
-
-[Data](articles/b51a2f0d.json)
-
-[Extended Data](ext_articles/b51a2f0d.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183141) · `ta`
-
-Today, 1 US dollar is worth 293.7297 Rupees for purchase and 303.3840 Rupees for sale.
-
-🟩
-
-The US dollar purchasing price was 293.7297 based on the currency exchange rate released today (May 10) at Rs 293.7297 and the sales price at Rs 303.3840.
-
-◼️
-
-[Data](articles/f6bcfe3b.json)
-
-[Extended Data](ext_articles/f6bcfe3b.ext.json)
-
----
-
-### Top US official to visit Sri Lanka to reaffirm support for economic recovery
-
-*2024-05-10 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99126/top-us-official-to-visit-sri-lanka-to-reaffirm-support-for-economic-recovery) · `en`
-
-U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, is scheduled to visit Sri Lanka this week, as part of his broader tour of the region from May 10th to 15th, which includes India and Bangladesh.
-
-“His trip will strengthen bilateral cooperation with each country and demonstrate U.S. support for a free, open, and prosperous Indo-Pacific region,” the US State Department said in a statement.
-
-In Chennai, Assistant Secretary Lu will meet with Consulate personnel to bolster bilateral engagement in southern India.
-
-He will then travel to Colombo to engage with officials from across the political spectrum and deepen the United States’ partnership with Sri Lanka.
-
-In his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society, it said.
-
-...
-
-[Data](articles/692708bc.json)
-
-[Extended Data](ext_articles/692708bc.ext.json)
-
----
-
-### Muthathi has been sentenced to 6 months in prison for robbing his cell phone
-
-*2024-05-10 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183140) · `ta`
-
-Three individuals were arrested for robbing an elderly woman's mobile phone. They were sentenced to six months in prison, suspended for ten years, and ordered to pay 50,000 rupees each.
-
-🟩
-
-மூதாட்டி ஒருவரிடம் கைபேசியை கொள்ளையிட்ட குற்றச்சாட்டில்  கைது செய்யப்பட்ட  மூவருக்கு நீதிமன்றத்தினால்  ஆறு மாதகால சிறைத்தண்டனை விதித்ததோடு, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
-
-Three persons who were in a vehicle to collect old items in the Point Pedro area were arrested by the Point Pedro police last year on charges of robbing the mobile phone of a lonely elder grandmother.
-
-கைது செய்யப்பட்டவர்களுக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு விசாரணைகள் நடைபெற்று வந்த நிலையில் , மூவரையும் மன்று குற்றவாளியாக கண்டு, மூவருக்கும் தலா 06 மாத கால சிறைத்தண்டனை விதித்து, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
-
-At the same time, the three accused of the victim's grandmother have been ordered by the court to pay 50 thousand rupees each.
-
-◼️
-
-[Data](articles/23f4446a.json)
-
-[Extended Data](ext_articles/23f4446a.ext.json)
 
 ---

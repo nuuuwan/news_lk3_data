@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 15:18:16**
+As of **2024-05-10 15:33:42**
 
 ## Newspaper Stats
 
-*Scraped **23,171** Articles*
+*Scraped **23,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ adaderanalk | 2,713
 tamilmirrorlk | 2,714
 virakesarilk | 3,444
 dailymirrorlk | 3,641
-adaderanasinhalalk | 3,709
+adaderanasinhalalk | 3,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,169 (100.0%) of 23,171 articles have been extended.
+23,171 (100.0%) of 23,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### பதுளை விபத்தில் ஒருவர் பலி: நால்வர் காயம்
+### One person killed in Badulla accident
 
 *2024-05-10 14:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-ஒருவர்-பலி-நால்வர்-காயம்/76-337090) · `ta`
 
-பதுளை – மஹியங்கனை வீதியின் புவக்கொடமுல்ல பிரதேசத்தில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான  பஸ்ஸும் முச்சக்கரவண்டியும் நேருக்கு நேர் மோதியதில் முச்சக்கரவண்டியில் பயணித்த ஒருவர் உயிரிழந்துள்ளதுடன் நால்வர் படுகாயமடைந்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+In Badulla, a fatal accident involving a bus and a three-wheeler resulted in one death and four injuries. The incident occurred on the Badulla-Mahiyanganaya road, with the bus from the Sri Lanka Transport Board (SLTB) and a three-wheeler from the Ruhuna Transport Board colliding. Hospital sources report that a woman and three men were among the injured, all admitted to the Badulla Teaching Hospital.
+
+🟩
+
+Badulla police said that a bus and a three -wheeler belonging to the Sri Lanka Transport Board (SLTB) belonging to the Sri Lanka Transport Board (SLTB) in the Bhuvakkodamula area of the Badulla - Mahiyanganaya road was killed and four others were injured.
 
 தெஹியத்தகண்டிய டிப்போவுக்குச் சொந்தமான  பஸ் ஒன்று தெஹியத்தகண்டிய சிறிபுரவிலிருந்து பதுளை நோக்கிச் சென்று கொண்டிருந்த போது அதற்கு முன்னால் பதுளையிலிருந்து ரிதிபன நோக்கிச் சென்ற முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-இந்த விபத்தில் பெண் ஒருவரும் மூன்று ஆண்களும் காயமடைந்து பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் அவர்களின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+According to hospital sources, a woman and three men were injured and admitted to the Badulla Teaching Hospital.
 
 ◼️
 
 [Data](articles/4a8d0725.json)
+
+[Extended Data](ext_articles/4a8d0725.ext.json)
+
+---
+
+### අද හවසට පළාත් කිහිපයකට මි. මී 100 ඉක්මවූ වැසි
+
+*2024-05-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196478) · `si`
+
+අද (10) සවස 2න් පසුව දිවයිනේ බොහෝ පළාත්වලට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ක පමණ තද වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර සහ දකුණු පළාත්වලත් පුත්තලම, මන්නාරම, කිලිනොච්චිය සහ යාපනය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී තැනින් තැන වැසි ඇති වේ.
+
+මේ අතර අද රාත්‍රී 11.30 වන තුරු වලංගු වන පරිදි ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව බස්නාහිර, සබරගමුව, දකුණ, නැගෙනහිර, ඌව සහ උතුරු මැද පළාත්වල සහ මාතලේ, මුලතිව් සහ කුරුණෑගල දිස්ත්‍රික්කවල සවස් කාලයේ දී රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වේ.
+
+◼️
+
+[Data](articles/fa6cdffb.json)
 
 ---
 
@@ -67,6 +93,8 @@ A police team under SI A.V. Anura is conducting further investigations on the in
 ◼️
 
 [Data](articles/28dfe639.json)
+
+[Extended Data](ext_articles/28dfe639.ext.json)
 
 ---
 
@@ -2203,21 +2231,5 @@ Secretary to the Ministry of Ports, Shipping and Aviation, KDS, said that these 
 [Data](articles/e84f071b.json)
 
 [Extended Data](ext_articles/e84f071b.ext.json)
-
----
-
-### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
-
-*2024-05-10 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
-
-May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
-
-May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
-
-...
-
-[Data](articles/5fbb9b96.json)
-
-[Extended Data](ext_articles/5fbb9b96.ext.json)
 
 ---

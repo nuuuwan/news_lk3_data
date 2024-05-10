@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 14:18:07**
+As of **2024-05-10 14:34:30**
 
 ## Newspaper Stats
 
-*Scraped **23,163** Articles*
+*Scraped **23,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,966
+adalk | 1,967
 tamilmirrorlk | 2,712
-adaderanalk | 2,712
+adaderanalk | 2,713
 virakesarilk | 3,444
-dailymirrorlk | 3,639
-adaderanasinhalalk | 3,708
+dailymirrorlk | 3,640
+adaderanasinhalalk | 3,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,156 (100.0%) of 23,163 articles have been extended.
+23,163 (100.0%) of 23,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Public assistance sought to gather info on Sri Lankan military veterans fighting in Russia-Ukraine war
+
+*2024-05-10 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99131/public-assistance-sought-to-gather-info-on-sri-lankan-military-veterans-fighting-in-russia-ukraine-war-) · `en`
+
+The Sri Lankan military veterans, who had illegally joined Russian mercenaries and subsequently escaped from such groups in the conflict zones to returned to the island, claim that around 1,000 Sri Lankans are currently fighting in the Ukraine –Russia warfront.
+
+However, the Criminal Investigation Department (CID) pointed out that the relevant figures cannot be confirmed, since the investigations are still underway regarding the identities of these individuals.
+
+Against this backdrop, ASP of the CID’s Human Trafficking, Smuggling, and Maritime Crimes Division, Harendra Jayakantha urged the relatives of the individuals who have left the country to join the Russian army, to provide information regarding them through the contact number, 071-8592831.
+
+Following the investigations by the Criminal Investigation Department (CID), it has only been confirmed that 114 Sri Lankan soldiers and ex-soldiers have left the country to join the Ukrainian army.
+
+...
+
+[Data](articles/39bbf51d.json)
+
+---
+
+### බදුල්ලේ මාරක අනතුරක්
+
+*2024-05-10 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196477) · `si`
+
+දෙහිඅත්තකණ්ඩිය, සිරිපුර සිට බදුල්ල දක්වා ධාවනය වෙමින් තිබූ දෙහිඅත්තකණ්ඩිය ‍ඩිපෝවට අයත් ලංගම බස්රථයක් හා ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ත්‍රීරෝද රථයක් බදුල්ල පුවක්ගොඩමුල්ල ප්‍රදේශයේදී මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ අද (10) පෙරවරු 10ට පමණ මෙම අනතුර සිදුවී ඇති බවය.
+
+ඉන් ත්‍රීරෝද රථයේ ගමන්කළ එක් අයෙක් මියගොස් සිවු දෙනෙකු බපරතළ තුවාල ලැබූ බව බදුල්ල පොලීසිය පැවසීය.
+
+අනතුර සිදුවූ ස්ථානය ආසන්නයේ පිහිටි වංගුවේ ජලනල නඩත්තුවක් සඳහා එක් මංතීරුවක් අවහිරකර තිබීම නිසා මෙවැනි අනතුරු සිදුවන බව ප්‍රදේශවාසීන් පවසයි.
+
+◼️
+
+[Data](articles/348df271.json)
+
+---
+
+### Diana’s expulsion case postponed
+
+*2024-05-10 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dianas-expulsion-case-postponed/108-282322) · `en`
+
+Colombo, May 10 (Daily Mirror)-The expulsion petition filed by former State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership was today fixed for May 28 by the Supreme Court.
+
+Diana Gamage’s stance regarding this petition is to be informed to the court on the next date.
+
+Accordingly, the Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Mahinda Samayawardena fixed the matter for May 28.
+
+However, the Supreme Court, in another application held that Diana Gamage is disqualified to be a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+
+...
+
+[Data](articles/f7449c8e.json)
+
+---
+
+### විමසිලිමත් වන්තන !
+
+*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්තන--/11-409548) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණ, නැවගනහිර, ඌව සහ උතුරු-මැද පළාත්වල සහ මාතවේ, මුලතිවු සහ කුරුණෑගල
+
+දිස්ත්‍රික්ක වල සවස් කාලවේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රභල අකුණු ඇතිවීමේ වැඩි
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැක. අකුණු මඟින් සිදුවන අනතුරු අවම
+
+කර ගැනීමට අවශය පියවර ගන්නා ලෙස ජනතාවගෙන් කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව  ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/696de239.json)
+
+---
 
 ### Indian cricket authorities take immediate decision
 
@@ -108,19 +180,25 @@ They point out that the people have to pay the electricity bills as a scarcity f
 
 ---
 
-### யாழில். வீடொன்றில் கஞ்சா செடி வளர்த்தவர் கைது!
+### In the yarns. Arrested in a house
 
 *2024-05-10 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183143) · `ta`
 
-யாழ்ப்பாணம் தாவடி பகுதியில் உள்ள வீடொன்றில் கஞ்சா செடி வளர்த்த நபரொருவர் இன்றையதினம் வெள்ளிக்கிழமை  கைது செய்யப்பட்டுள்ளார்.
+A man in Jaffna was arrested for growing cannabis, based on confidential police info. Further investigations are ongoing at the police station.
 
-யாழ்ப்பாணம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் குறித்த சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபரை யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+A man who raised cannabis at a house in Jaffna, Jaffna has been arrested on Friday.
+
+The suspect has been arrested on the basis of confidential information received by the Jaffna police.
+
+Police are conducting further investigations by detaining the arrested suspect at the Jaffna police station.
 
 ◼️
 
 [Data](articles/2a3134c3.json)
+
+[Extended Data](ext_articles/2a3134c3.ext.json)
 
 ---
 
@@ -146,19 +224,25 @@ Investigations have revealed that the constable of the Colombo Coastal Police Wo
 
 ---
 
-### வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட வியாபாரிகளுக்கு எதிராக வழக்குத் தாக்கல்
+### Filed a case against business traders
 
 *2024-05-10 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183142) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி பொது சந்தையில் வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட ஐந்து , வியாபாரிகளுக்கு நீதிமன்றில் வழக்கு தொடரப்பட்டுள்ளது.
+In Jaffna, five merchants face legal action at the Chavakachcheri public market. The Public Health Inspectors' Group conducted sudden inspections, seizing and destroying rotten vegetables. This led to a court case against these traders.
 
-சாவகச்சேரி பொது சுகாதார பரிசோதகர்கள் குழுவினால் , பொது சந்தையில் திடீர் சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது. இதன் போது பழுதடைந்த மரக்கறிகள் கைப்பற்றப்பட்டு அழிக்கப்பட்டன.
+🟩
 
-அதேவேளை , வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட ஐந்து வியாபாரிகளுக்கு எதிராக நீதிமன்றில் வழக்கு தொடரப்பட்டுள்ளது.
+Five merchants have been sued in court in Jaffna - Chavakachcheri public market.
+
+சாவகச்சேரி பொது சுகாதார பரிசோதகர்கள் குழுவினால் , பொது சந்தையில் திடீர் சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது. During this time, the dilapidated vegetables were seized and destroyed.
+
+Meanwhile, a court case has been filed against the five businessmen who have been involved in the trade.
 
 ◼️
 
 [Data](articles/42c44b12.json)
+
+[Extended Data](ext_articles/42c44b12.ext.json)
 
 ---
 
@@ -166,7 +250,7 @@ Investigations have revealed that the constable of the Colombo Coastal Police Wo
 
 *2024-05-10 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99129/-motorcycle-used-in-ahungalla-shooting-found-torched-) · `en`
 
-A torched motorcycle, which is suspected to have been used in the recent shooting incident in Ahungalla has been rescovered in a private land in the Sudu Welipotha area in Kosgoda, police said.
+A torched motorcycle, which is suspected to have been used in the recent shooting incident in Ahungalla has been recovered in a private land in the Sudu Welipotha area in Kosgoda, police said.
 
 The owner of the land had noticed the burnt motorcycle and informed the Kosgoda Police regarding the matter this morning (10).
 
@@ -254,19 +338,27 @@ It is better to buy gold, silver and other expensive items to live a good wealth
 
 ---
 
-### ஜனாதிபதி தேர்தல்கள் குறித்து தேர்தல்கள்  ஆணைக்குழு அறிவிப்பை வெளியிட்டது ஏன்? ; அரசியல் வட்டாரங்கள் தெரிவிப்பது என்ன?
+### Why did the Election Commission announce the presidential elections?;What does political circles report?
 
 *2024-05-10 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183144) · `ta`
 
-பொதுத்தேர்தல் ஒன்றை நடத்துவது குறித்த அரசியல் கலந்துரையாடலை  முறியடிக்கும் ஒரு நடவடிக்கையாகவே தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி தேர்தல் குறித்து நேற்று அறிவிப்பை வெளியிட்டது என அரசியல் வட்டாரங்கள் கருதுவதாக  டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+The Election Commission announced the presidential election to address political discussions on general elections. Reports suggest the President will investigate the general election before the presidential one, if the next IMF phase isn't available. The Commission aims to uncover secret plans related to general elections, indicating the election will be held in July or August. The Commission believes holding the general election before presidential election activities could lead to a resourceless situation, but the law does not allow the President's announcement to be disregarded.
 
-சர்வதேச நாணயநிதியத்தின் அடுத்த கட்ட நிதி உதவி கிடைக்காத பட்சத்தில் ஜனாதிபதி தேர்தலிற்கு முன்னர் பொதுத்தேர்தலை நடத்துவதுகுறித்து ஜனாதிபதி ஆராய்வார் என தகவல்கள் வெளியாகின்றன என டெய்லிமிரர் தெரிவித்துள்ளது.
+🟩
+
+DailyMirr has reported that the Elections Commission yesterday announced the announcement of the presidential election as a move to overcome a political discussion on holding a general election.
+
+According to reports, the President will investigate the general election before the presidential election if the next phase of the IMF is not available.
 
 எனினும் நேற்யை அறிவிப்பில் தேர்தல்கள் ஆணையகம் ஜனாதிபதி தேர்தலை நடத்துவதற்கான சட்டவிதிகளை அறிவித்துள்ளது என சுட்டிக்காட்டியுள்ள டெய்லிமிரர் பொதுத்தேர்தல்கள் குறித்த   இரகசிய திட்டங்களை முறியடிக்கவே தேர்தல்கள் இடம்பெறவேண்டிய காலப்பகுதியை தேர்தல் ஆணைக்குழு அறிவித்துள்ளது எனவும்குறிப்பிட்டுள்ளது.
 
-...
+ஜூலை அல்லது ஆகஸ்ட் மாதத்திற்குள் ஜனாதிபதி தேர்தல் தொடர்பான நடவடிக்கைகள் ஆரம்பமாவதற்கு முன்னர் பொதுத்தேர்தல் இடம்பெற்றால் வளங்கள் அற்ற நிலைக்கு தள்ளப்படலாம் என தேர்தல் ஆணைக்குழு கருதுகின்ற அதேவேளை ஜனாதிபதியின் அறிவிப்பு எதனையும் நிராகரிக்க முடியாது சட்டத்தில் அதற்கு இடமில்லை என கருதுகின்றது எனவும்  டெய்லிமிரர் தெரிவித்துள்ளது.
+
+◼️
 
 [Data](articles/6672acdd.json)
+
+[Extended Data](ext_articles/6672acdd.ext.json)
 
 ---
 
@@ -280,33 +372,53 @@ The Build Sri Lanka Housing & Construction International Expo 2024 was launched 
 
 [Data](articles/f615497f.json)
 
+[Extended Data](ext_articles/f615497f.ext.json)
+
 ---
 
-### හරිත මාවතෙන් පිටකරන්න ගිය ලක්ෂ 130ක මත්පැන් හා දුම්වැටි අල්ලයි
+### Liquor and cigarettes of alcohol and smoking occupied from green path
 
 *2024-05-10 12:49:05* · [`adalk`](https://www.ada.lk/breaking_news/හරිත-මාවතෙන්-පිටකරන්න-ගිය-ලක්ෂ-130ක-මත්පැන්-හා-දුම්වැටි-අල්ලයි/11-409547) · `si`
 
-නීතිවිරෝධී ලෙස මෙරටට ආනයනය කරමින් රේගුව වෙත තීරු බදු නොගෙවා , කටුනායක ගුවන් තොටුපොළෙන් කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත" ( Green Channel ) ඔස්සේ   පිට කර ගෙන යමින් තිබූ රුපියල් එක් කෝටි තිස් ලක්ෂයක් පමණ වටිනා  විදේශීය නිෂ්පාදිත විස්කි බෝතල් සහ දුම්වැටි තොගයක් සමග ඒවා රැගෙන ආ ව්‍යාපාරිකයන් තිදෙනකු ද 05/09 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Three businessmen were arrested at Katunayake Airport for smuggling foreign whiskey and cigarettes into Sri Lanka. They were caught with 9,800 cigarettes and 5,800 smoking cigarettes, exceeding the legal limit of 2.5 liters of liquor per person. The trio, aged 30, 38, and 52, were traveling from Chennai, India, and were detained for further investigation.
 
-මොවුන් අතරින් එක් ව්‍යාපාරිකයෙකු 30 හැවිරිදි වියේ පසුවන කොළඹ - 14 ප්‍රදේශයේ පදිංචිකරුවෙකි . අනෙක් ව්‍යාපාරිකයා කොළඹ - 12 ප්‍රදේශයේ පදිංචි 38 හැවිරිදි අයෙකු වන අතර තෙවැනි ව්‍යාපාරිකයා 52 වියේ පසුවන හැටන් ප්‍රදේශයේ පදිංචිකරුවෙකි .
+🟩
 
-ඔවුන් 05/09 දින පස්වරු 04.30 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි.- 281 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ රාත්‍රී 09.00 තෙක් ගුවන් තොටුපොළ තුළ රැදී සිට , ගුවන් තොටුපොළෙන් පිටවීම සදහා පැමිණ තිබුණි .
+The Customs, which is not paid illegally, will not be paid to the Sri Lanka and brought them with foreign manufactured whiskey bottles and cigarettes worth Rs.Three businessmen have been arrested by Katunayake Airport Criminal Investigations (05/09).
+
+One of them is a 30 year old resident of the Colombo-14 area. අනෙක් ව්‍යාපාරිකයා කොළඹ - 12 ප්‍රදේශයේ පදිංචි 38 හැවිරිදි අයෙකු වන අතර තෙවැනි ව්‍යාපාරිකයා 52 වියේ පසුවන හැටන් ප්‍රදේශයේ පදිංචිකරුවෙකි .
+
+They were 5th at 04.30 pm to the Indian Airlines from Chennai, India.
+
+There they had completed all the investigations into the airport and was traveling from the "Green Mawatha" on the "Green Mawatha".
+
+They were recovered by the Katunayake Airport Census Investigations (CID) inquiry and nine smoking cigarettes of 5,800 smoking cigarettes in their baggage and 9,800 cigarettes cigarettes in the area.
+
+කටුනායක ගුවන් තොටුපොළ තුළින් ඕනෑම ගුවන් මගියෙකුට මත්පැන් ලීටර් 2.5 ක් නීත්‍යානුකූලව පිටතට රැගෙන යා හැකිය . එහෙත් මොවුන් ලීටර් 124 ක් රැගෙන යමින් තිබුණි .
 
 ...
 
 [Data](articles/b51a2f0d.json)
 
+[Extended Data](ext_articles/b51a2f0d.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183141) · `ta`
 
-இன்று வெள்ளிக்கிழமை (மே 10) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.7297 ஆகவும் விற்பனை விலை ரூபா 303.3840 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today, 1 US dollar is worth 293.7297 Rupees for purchase and 303.3840 Rupees for sale.
+
+🟩
+
+The US dollar purchasing price was 293.7297 based on the currency exchange rate released today (May 10) at Rs 293.7297 and the sales price at Rs 303.3840.
 
 ◼️
 
 [Data](articles/f6bcfe3b.json)
+
+[Extended Data](ext_articles/f6bcfe3b.ext.json)
 
 ---
 
@@ -332,21 +444,27 @@ In his meetings, he will reaffirm the United States’ support for Sri Lanka’s
 
 ---
 
-### மூதாட்டியிடம் கைத்தொலைபேசியை கொள்ளையிட்ட மூவருக்கு 6 மாத சிறைத்தண்டனை!
+### Muthathi has been sentenced to 6 months in prison for robbing his cell phone
 
 *2024-05-10 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183140) · `ta`
 
+Three individuals were arrested for robbing an elderly woman's mobile phone. They were sentenced to six months in prison, suspended for ten years, and ordered to pay 50,000 rupees each.
+
+🟩
+
 மூதாட்டி ஒருவரிடம் கைபேசியை கொள்ளையிட்ட குற்றச்சாட்டில்  கைது செய்யப்பட்ட  மூவருக்கு நீதிமன்றத்தினால்  ஆறு மாதகால சிறைத்தண்டனை விதித்ததோடு, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
 
-பருத்தித்துறை தும்பளை பகுதியில் பழைய பொருட்கள் சேகரிக்க வாகனம் ஒன்றில் சென்ற மூவர் , வீட்டில் தனித்திருந்த மூதாட்டியின் கைபேசியை கொள்ளையிட்ட குற்றச்சாட்டில் பருத்தித்துறை பொலிஸாரினால் கடந்த ஆண்டு கைது செய்யப்பட்டுள்ளனர்.
+Three persons who were in a vehicle to collect old items in the Point Pedro area were arrested by the Point Pedro police last year on charges of robbing the mobile phone of a lonely elder grandmother.
 
 கைது செய்யப்பட்டவர்களுக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு விசாரணைகள் நடைபெற்று வந்த நிலையில் , மூவரையும் மன்று குற்றவாளியாக கண்டு, மூவருக்கும் தலா 06 மாத கால சிறைத்தண்டனை விதித்து, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
 
-அதேவேளை பாதிக்கப்பட்ட மூதாட்டிக்கு குற்றவாளிகளான மூவரும் தலா 50 ஆயிரம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் நீதிமன்றத்தினால் உத்தரவிடப்பட்டுள்ளது.
+At the same time, the three accused of the victim's grandmother have been ordered by the court to pay 50 thousand rupees each.
 
 ◼️
 
 [Data](articles/23f4446a.json)
+
+[Extended Data](ext_articles/23f4446a.ext.json)
 
 ---
 
@@ -2085,83 +2203,5 @@ The legal recognition of the fundamental rights of trade unions in this country 
 [Data](articles/d5ba9369.json)
 
 [Extended Data](ext_articles/d5ba9369.ext.json)
-
----
-
-### How filmmakers and lawmakers view people’s trust - EDITORIAL
-
-*2024-05-10 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-filmmakers-and-lawmakers-view-peoples-trust-EDITORIAL/172-282288) · `en`
-
-Sri Lankans may be wary of trusting their instincts given their bad experiences with politicians. This is a country where the majority of the citizenry hasn’t had the fortune of receiving a university education. Hence, for some of them, trust must be built on instinct.
-
-This instinct is the tool people relied on when electing Gotabaya Rajapaksa as president. He was the last Executive of this country who was elected through the vote of the people. The instinct in people that this president would deliver proved the former horribly wrong.
-
-This is a country where its regime initiates programmes in a hurry and then repents. The latest is the new visa system where users are subject to paying higher fees. The new visa portal- which operates online- replaces the old system where visas were issued more efficiently through an Electronic Travel Authorization system. Now there is all-round criticism aimed at the new visa system.
-
-...
-
-[Data](articles/fe69f752.json)
-
-[Extended Data](ext_articles/fe69f752.ext.json)
-
----
-
-### Netanyahu in Rafah trap after ceasefire breakthrough
-
-*2024-05-10 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Netanyahu-in-Rafah-trap-after-ceasefire-breakthrough/172-282287) · `en`
-
-Israeli forces operating in Rafah in the southern Gaza Strip. (Pic by Israeli Army via AFP
-
-With or without a ceasefire deal, Israel has vowed to launch its grand invasion into Rafah, the Gaza Strip’s southernmost 64-square-kilometre area, where more than 1.5 million repeatedly battered and displaced Palestinians are crammed. Israeli troops have moved into Rafah and are now controlling the eastern part of the Rafah border with Egypt.
-
-Those who closely follow Israel’s genocidal campaign in Gaza know that Rafah has been under regular Israeli bombardments almost from the beginning of the war, even though the Benjamin Netanyahu government had declared southern Gaza, including Rafah, a safe zone and urged the people in northern Gaza to move there.
-
-...
-
-[Data](articles/9f0a5912.json)
-
-[Extended Data](ext_articles/9f0a5912.ext.json)
-
----
-
-### Diana's vacuum to girl
-
-*2024-05-10 00:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-வெற்றிடத்திற்கு-பெண்-வேண்டும்/175-337064) · `ta`
-
-A letter from the United People's Power to the Commissioner of Elections requested the appointment of Mujibur Rahman to fill Diana Kamage's parliamentary seat. Female parliamentarians urged the United People's Union to appoint a woman to this position. Sudarshini Fernando, President of the Union, demanded the appointment of a woman, emphasizing the importance of women's representation in parliament for a democratic society.
-
-🟩
-
-A letter was sent to the Commissioner of Elections by the United People's Power yesterday to appoint former United People's Power MP Mujibur Rahman to the vacancy of Diana Kamage's parliamentary seat.
-
-In this case, the female parliamentarians have asked the United People's Union to appoint a woman suitable for Diana Kamage's parliamentary seat vacuum.
-
-Sudarshini Fernando Point, President of the Union Member of Parliament, has sent a letter to the General Secretary of the United People's Power and MP Ranjith Mathumabandara, demanding the appointment of a vacuum.
-
-The Union of Women's Members of Parliament has insisted that women's experience, knowledge and future thinking should contribute to all the policies that benefit all in the community and that women's representation in parliament is important to useful democracy.. (A)
-
-◼️
-
-[Data](articles/0d2f8917.json)
-
-[Extended Data](ext_articles/0d2f8917.ext.json)
-
----
-
-### Unseated MP Diana Gamage  Alleges that  she was Disqualified as a Parliamentarian due to a Conspiracy Orchestrated against her by the Samagi Jana Balawegaya; Accuses SJB of Hatred Politics and Urges Women to be Cautious in voting for the Leader of the Opposition in Elections
-
-*2024-05-10 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84011) · `en`
-
-Embattled former State Minister Diana Gamage yesterday expressed her refusal to accept the recent Supreme Court ruling that disqualified her from Parliament, due to the political conspiracy behind it.
-
-Addressing the media for the first time following the ruling, Gamage levelled accusations against Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, and several others, alleging they had orchestrated political conspiracy against her. She claimed that this plot has led to her disqualification and subsequent loss of her Parliamentary seat.
-
-“I hold the utmost respect for the Courts, but I find myself unable to accept their judgement due to the political machinations orchestrated by the SJB leader and the General Secretary of the Samagi Jana Balawegaya (SJB). My critique is not directed at all MPs within the SJB; there are some who maintain integrity and honour,” she said.
-
-...
-
-[Data](articles/a449bb0f.json)
-
-[Extended Data](ext_articles/a449bb0f.ext.json)
 
 ---

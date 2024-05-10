@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 17:18:16**
+As of **2024-05-10 17:33:57**
 
 ## Newspaper Stats
 
-*Scraped **23,188** Articles*
+*Scraped **23,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 2,715
 adaderanalk | 2,717
 virakesarilk | 3,448
 dailymirrorlk | 3,642
-adaderanasinhalalk | 3,715
+adaderanasinhalalk | 3,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,182 (100.0%) of 23,188 articles have been extended.
+23,188 (100.0%) of 23,189 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Meanwhile, the Met. Department also issued an ‘Amber’ level advisory for sev
 ...
 
 [Data](articles/24bc9985.json)
+
+[Extended Data](ext_articles/24bc9985.ext.json)
+
+---
+
+### කොලින් මුන්රෝ ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගනී
+
+*2024-05-10 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196484) · `si`
+
+නවසීලන්ත ක්‍රීඩක කොලින් මුන්රෝ ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමට තීරණය කර තිබේ.
+
+37 හැවිරිදි මුන්රෝ 2013 වසරේ සිට 2020 වසර දක්වා නවසීලන්ත කණ්ඩායම නියෝජනය කළේය.
+
+එක් ටෙස්ට් තරගයක්, එක්දින තරග 57ක් සහ 20යි 20 තරග 65කට සහභාගී වෙමින් නවසීලන්ත කණ්ඩායම නියෝජනය කර ඇති ඔහුට 2020 වසරෙන් පසුව ජාතික කණ්ඩායම නියෝජනය කිරීමේ අවස්ථාව හිමි නොවුණි.
+
+කෙසේවෙතත් කොලින් මුන්රෝ මෙවර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වීමට අපේක්ෂාවෙන් පසුවුව ද එම සංචිතය සඳහා ඔහු ඇතුළත්  කර තිබුණේ නැත.
+
+◼️
+
+[Data](articles/ae08251c.json)
 
 ---
 
@@ -140,6 +160,8 @@ The letter further highlighted the detrimental effects of prolonged vacancies on
 
 [Data](articles/1c79721a.json)
 
+[Extended Data](ext_articles/1c79721a.ext.json)
+
 ---
 
 ### The goldening booty of the city of Homawala was robbed
@@ -190,6 +212,8 @@ On Thursday, Mr Yoon said South Korean parliament will be requested for cooperat
 
 [Data](articles/103ab322.json)
 
+[Extended Data](ext_articles/103ab322.ext.json)
+
 ---
 
 ### Lightning wareed at a hospital
@@ -216,23 +240,29 @@ The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urba
 
 ---
 
-### இன்று பூமியைத் தாக்கும் சூரிய காந்த புயல்! விஞ்ஞானிகள் எச்சரிக்கை
+### Solar magnetic storm that strikes the earth today!Scientists alert
 
 *2024-05-10 15:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-பூமியைத்-தாக்கும்-சூரிய-காந்த-புயல்-விஞ்ஞானிகள்-எச்சரிக்கை/50-337091) · `ta`
 
-பிப்ரவரி 9 ஆம் திகதி முதல் பிப்ரவரி 10 ஆம் திகதிக்குள் நொடிக்கு 451 - 615 கிலோமீட்டர் வேகத்தில் மிதமான புவி காந்தப் புயலால் பூமி பாதிக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+A moderate solar magnetic storm is expected to hit Earth today, affecting satellite activities and potentially causing aurora sightings from California to South Alabama. The storm, occurring at 451-615 km/s from February 9-10, may impact the northern hemisphere and has historical precedents of causing radio blackouts in Russia.
 
-அதன்படி இன்று (10) இரவு முதல் நாளை (11) இரவு வரை கலிபோர்னியா – தெற்கு அலபாமா வரை அரோரா காந்த புயல் எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-பூமியின் வட அரைக்கோளத்தில் காந்த புயல் காரணமாக தகவல் தொடர்பில் பாதிப்பு ஏற்படலாமெனத் தகவல் வெளியாகியுள்ளது.
+It is reported that the earth will be affected by a moderate earthquake storm at 451 - 615 kilometers per second from February 9 to February 10.
 
-இதனால் செயற்கைக் கோள்களின் செயற்பாடுகளும் முடங்க வாய்ப்பிருப்பதாக அமெரிக்க ஆய்வகம் எச்சரிக்கை விடுத்திருக்கிறது.
+Accordingly, the Aurora magnetic storm warning has been issued from California to California - South Alabama from tonight (10) to 11 pm.
 
-இதற்கு முன்னாள் ஏற்பட்ட புவி காந்த புயல் பூமி மற்றும் விண்வெளியில் சில பாதிப்புகளை ஏற்படுத்தியுள்ளது. முன்னர் பூமியைத் தாக்கிய புவி காந்த புயல் ரஷ்யாவில் ஒட்டுமொத்தமாக ரேடியோ பிளாக் அவுட் விளைவை ஏற்படுத்தியுள்ளது. R
+In the Earth's northern hemisphere, it has been reported that the magnetic storm can be affected.
+
+The US Laboratory has warned that satellite activities are also likely to be paralyzed.
+
+The former Earth Magnetic Storm has caused some impact on the earth and space. The Earth's Magnetic Storm that previously hit Earth has had a radio block out effect as a whole in Russia. Remble
 
 ◼️
 
 [Data](articles/6cfa40be.json)
+
+[Extended Data](ext_articles/6cfa40be.ext.json)
 
 ---
 
@@ -349,6 +379,8 @@ Local residents allege that road accidents occur frequently in the area due to t
 ◼️
 
 [Data](articles/ca22a1aa.json)
+
+[Extended Data](ext_articles/ca22a1aa.ext.json)
 
 ---
 
@@ -538,19 +570,25 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 
 ---
 
-### ඇමෙරිකාවෙ ප්‍රභලයෙක් දකුණු ආසියාවේ සංචාරයක් අරඹයි
+### US eligible to commences tour in South Asia
 
 *2024-05-10 14:03:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවෙ-ප්‍රභලයෙක්-දකුණු-ආසියාවේ-සංචාරයක්-අරඹයි/11-409549) · `si`
 
-දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ අද (10දා) දකුණු ආසියානු කලාපයේ සංචාරයක් ආරම්භ කිරිමට නියමිතය.
+US Assistant Secretary Donaldo starts a South Asia tour today, visiting India, Sri Lanka, and Bangladesh.
 
-ඒ අනුව මුලින්ම ඔහු අද දිනයේදි ඉන්දියාවට පැමිණිමට නියමිත අතර පසුව ශ්‍රී ලංකාව හා බංග්ලාදේශයේ සංචාරය කිරිමට නියමිතය.
+🟩
 
-සහකාර රාජ්‍ය ලේකම්වරයා 15දා දක්වා දකුණු ආසියාවේ සංචාරයක නිරත වෙයි.
+US Assistant Secretary of State for South and Central Asian Affairs Donaldo is to commence a tour of the South Asian region this morning.
+
+First, he is due to attend India today and will then travel to Sri Lanka and Bangladesh.
+
+Assistant Secretary of State visits South Asia from 15th.
 
 ◼️
 
 [Data](articles/22139658.json)
+
+[Extended Data](ext_articles/22139658.ext.json)
 
 ---
 
@@ -2249,29 +2287,5 @@ UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri recently met with Board of In
 [Data](articles/f2b271f8.json)
 
 [Extended Data](ext_articles/f2b271f8.ext.json)
-
----
-
-### Diana accuses Sajith of orchestrating grand conspiracy against her
-
-*2024-05-10 04:36:21* · [`dailyftlk`](https://www.ft.lk/news/Diana-accuses-Sajith-of-orchestrating-grand-conspiracy-against-her/56-761600) · `en`
-
-Expresses refusal to accept SC ruling due to political conspiracy behind her disqualification
-
-Says SJB’s politics of hatred was evident through their behaviour following SC judgement
-
-Urges women in SL to be cautious of voting for Opposition leader Sajith Premadasa at upcoming polls
-
-Claims she has no intention of leaving SL amidst travel ban imposed by courts yesterday
-
-Embattled former State Minister Diana Gamage yesterday expressed her refusal to accept the recent Supreme Court ruling that disqualified her from Parliament, due to the political conspiracy behind it.
-
-Addressing the media for the first time following the ruling, Gamage levelled accusations against Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, and several others, alleging they had orchestrated political conspiracy against her. She claimed that this plot has led to her disqualification and subsequent loss of her Parliamentary seat.
-
-...
-
-[Data](articles/041595c7.json)
-
-[Extended Data](ext_articles/041595c7.ext.json)
 
 ---

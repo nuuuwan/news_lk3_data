@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 13:33:41**
+As of **2024-05-10 13:52:46**
 
 ## Newspaper Stats
 
-*Scraped **23,151** Articles*
+*Scraped **23,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,51 @@ tamilmirrorlk | 2,709
 adaderanalk | 2,712
 virakesarilk | 3,439
 dailymirrorlk | 3,638
-adaderanasinhalalk | 3,706
+adaderanasinhalalk | 3,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,148 (100.0%) of 23,151 articles have been extended.
+23,151 (100.0%) of 23,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
+### ගම්මාන කිහිපයකට අසාමාන්‍ය විදුලි බිලක්
+
+*2024-05-10 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196475) · `si`
+
+තඹුත්තේගම ප්‍රාදේශීය ලේකම් බලප්‍රදේශයේ ගම්මාන කිහිපයක ජනතාව මේ මස විදුලි බිල නිසා විශාල ගැටලුවකට මුහුණ පා සිටී.
+
+ඔවුන් පවසන්නේ විදුලි බිල සඳහා රුපියල් ලක්ෂ ගණනක් ගෙවීමට සිදුවී ඇති බවය.
+
+තඹුත්තේගම ප්‍රාදේශීය ලේකම් බලප්‍රදේශයට අයත් හුරිගස්වැව, පලුගස්වැව, සියඹලාගස්වැව ආදී ගම්මානවලට විදුලි සේවා සැපයෙන්නේ කැකිරාව ප්‍රාදේශීය විදුලි ඉංජිනේරු කාර්යාලය හරහාය.
+
+සාමාන්‍ය පරිදි මාසික විදුලි බිල්පත හිමි වන මෙම ගම්වාසීන්ට මෙවර අසාමාන්‍ය විදුලි ගාස්තුවක් සහිත විදුලි බිල්පතක් ලැබී තිබේ.
+
+ගම්වාසීන් පවසන්නේ 2020 වර්ෂයේ සිට මේ දක්වා සෑම මසකම තමන් නොවරදවා විදුලි ගාස්තු ගෙවූ බවය.
+
+කුඹුරු ගොවිතැන් කරමින් ඉතා දුක් මහන්සියෙන් ජීවත්වන තමන්ට මෙලෙස විශාල මුදලක් එකවර ගෙවා දැමීමට හැකියාවක් නොමැති බව ඔවුන් පවසයි.
+
+අප මේ සම්බන්ධයෙන් කැකිරාව ප්‍රාදේශීය විදුලි ඉංජිනේරු කාර්යාලයෙන් විමසීමක් සිදුකළ අතර ඔවුන් පැවසුවේ මෙම ගම්මාන තුනේ නිවාස 140,000ක් සිය කාර්යාලය හරහා විදුලිය ලබාගන්නා බැවින් ඒ සඳහා මනු කියවන්නන් 62 දෙනෙකු යොදවා සිටි බවය.
+
+...
+
+[Data](articles/fae1f3e7.json)
+
+---
+
 ### Motorcycle used in Ahungalla shooting found torched
 
 *2024-05-10 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99129/-motorcycle-used-in-ahungalla-shooting-found-torched-) · `en`
 
-A torched motorcycle, which is suspected to have been used in the recent shooting incident in Ahungalla has been discovered in a private land in the Sudu Welipotha area in Kosgoda, police said.
+A torched motorcycle, which is suspected to have been used in the recent shooting incident in Ahungalla has been rescovered in a private land in the Sudu Welipotha area in Kosgoda, police said.
 
 The owner of the land had noticed the burnt motorcycle and informed the Kosgoda Police regarding the matter this morning (10).
 
-In response, Kosgoda Police, along with the Elpitiya Crimes Unit, have initiated an investigation into the discovery.
+In response, Kosgoda Police, along with the Elpitiya Crimes Unit, have initiated an investigation into the recovery.
 
 The shooting incident, which resulted in the death of a 54-year-old individual, occurred in Ahungalla on Thursday (09). The assailants, who had arrived on a motorcycle at around 7.40 p.m., had called the victim out of his residence before opening fire at him.
 
@@ -48,21 +72,29 @@ The shooting incident, which resulted in the death of a 54-year-old individual, 
 
 [Data](articles/87744a3d.json)
 
+[Extended Data](ext_articles/87744a3d.ext.json)
+
 ---
 
-### මහ බැංකු අධිපතිගෙන් ඉඟියක්
+### A hint of the central bank governor
 
 *2024-05-10 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196474) · `si`
 
-ණය ප්‍රතිව්‍යුහගත කිරීම අවසන් කිරීමෙන් පසුව ද්වි පාර්ශ්වික ණය හිමියන්ගෙන් ඉහළ සහායක් ශ්‍රී ලංකාවට ලබාගැනීමට හැකි වන බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Central Bank Governor Dr. Nandalal Weerasinghe predicts Sri Lanka will secure more support from bilateral creditors post-restructuring, emphasizing sustainable stability at a recent event.
 
-තිරසාර ස්ථාවරත්වය නමින් මහ බැංකුවේ පැවැති වැඩසටහනකට එක්වෙමින් මහ බැංකු අධිපතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-ශ්‍රී ලංකා මහ බැංකුව සංවිධානය කළ තිරසාර ස්ථාවරත්වය නම් සංවාදාත්මක වැඩසටහන ඊයේ (09) පැවැත්වුණේ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා ඇතුළු විද්වතුන් රැසකගේ සහභාගිත්වයෙනි.
+Central Bank Governor Dr. Nandalal Weerasinghe says Sri Lanka will be able to obtain higher support from bilateral creditors after the end of the restructuring.
+
+The Governor of the Central Bank was speaking at a program held in the Central Bank as a sustainable stability.
+
+The sustainable stability organized by the Central Bank of Sri Lanka was the participation of the Central Bank Governor Dr. Nandalal Weerasinghe and several scholars.
 
 ◼️
 
 [Data](articles/051802a7.json)
+
+[Extended Data](ext_articles/051802a7.ext.json)
 
 ---
 
@@ -83,6 +115,8 @@ Leader of the  Opposition Sajith Premadasa, General Secretary of the SJB Ranjit
 ...
 
 [Data](articles/b7731348.json)
+
+[Extended Data](ext_articles/b7731348.ext.json)
 
 ---
 
@@ -782,11 +816,11 @@ Rahuman fills the vacancy created by the unseatimg of Diana Gamage who was decla
 
 *2024-05-10 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99122/mujibur-rahman-sworn-in-as-mp) · `en`
 
-Mujibur Rahman of the Samagi Jana Balawegaya (SJB) took path as a Member of Parliament before the Speaker, a short while ago, to fill the parliamentary seat vacated by the disqualification of former State Minister Diana Gamage.
+Mujibur Rahman of the Samagi Jana Balawegaya (SJB) took path as a Member of Parliament before the Speaker, to fill the parliamentary seat vacated by the disqualification of former State Minister Diana Gamage.
 
 The swearing-in took place after the Parliamentary session convened at 9.30 a.m. this morning (10).
 
-The SJB had decided to nominate former Member of Parliament Mr. Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
+The SJB had decided to nominate former Member of Parliament Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
 
 Meanwhile, a Gazette notification was issued last evening stating that Mujibur Rahman has been nominated by the SJB to fill the vacancy in Parliament created by the disqualification of Diana Gamage as Member of Parliament by a Supreme Court verdict.
 
@@ -868,7 +902,7 @@ Mujibur Rahman of the ‘Samagi Jana Balawegaya’ (SJB) is scheduled to be swor
 
 In response to an inquiry from Ada Derana, he confirmed that the swearing-in ceremony is slated to take place after the Parliament convenes at 9:30 am this morning.
 
-The ‘Samagi Jana Balawegaya’ (SJB) party has decided to nominate former Member of Parliament Mr. Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
+The ‘Samagi Jana Balawegaya’ (SJB) party has decided to nominate former Member of Parliament Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
 
 However, the Sri Lanka Women Parliamentarians’ Caucus has called for the appointment of a suitable woman to fill Diana Gamage’s vacant seat.
 
@@ -2177,25 +2211,5 @@ Additional players: Asita Fernando, Vijayakanth Vyaskant, Banuka Rajapaksa, Jani
 [Data](articles/6e4fa7e8.json)
 
 [Extended Data](ext_articles/6e4fa7e8.ext.json)
-
----
-
-### No import of vehicles expected in near future - Vehicle Importers Association
-
-*2024-05-09 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-import-of-vehicles-expected-in-near-future-Vehicle-Importers-Association/108-282263) · `en`
-
-Colombo, May 9 (Daily Mirror) - While denouncing the false rumours regarding imminent vehicle importation, the Vehicle Importers Association of Sri Lanka (VIASL) clarified that no vehicles, including lightweight vehicles, will be imported within the current year or before the election.
-
-VIASL President Prasad Priyanga told the Daily Mirror that this decision was taken following a discussion held with the Finance State Minister yesterday.
-
-"According to the discussion, vehicle importation will take at least another year. However, upon resuming importation, buses and lorries will be the first batch imported, primarily for tourism purposes," Priyanga said.
-
-"Buses and lorries will exclusively be imported through the members of our association, with a maximum import time of one month. The discussion primarily centred around importing electric vehicles, although fuel-powered vehicles will also be included among them," he said.
-
-...
-
-[Data](articles/f7f1c7b0.json)
-
-[Extended Data](ext_articles/f7f1c7b0.ext.json)
 
 ---

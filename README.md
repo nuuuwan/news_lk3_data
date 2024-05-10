@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 18:36:19**
+As of **2024-05-10 18:52:17**
 
 ## Newspaper Stats
 
-*Scraped **23,201** Articles*
+*Scraped **23,204** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
-bbccomsinhala | 241
+bbccomsinhala | 242
 dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,969
-adaderanalk | 2,717
+adaderanalk | 2,718
 tamilmirrorlk | 2,719
-virakesarilk | 3,449
+virakesarilk | 3,450
 dailymirrorlk | 3,646
 adaderanasinhalalk | 3,719
 
@@ -26,23 +26,59 @@ adaderanasinhalalk | 3,719
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,196 (100.0%) of 23,201 articles have been extended.
+23,201 (100.0%) of 23,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### සා පෙළ ප්‍රශ්නපත්‍ර ගැටලුව ගැන විභාග කොමසාරිස්ගෙන් ප්‍රකාශයක්
+### வெப்பமான காலநிலை குறித்து எச்சரிக்கை!
+
+*2024-05-10 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183185) · `ta`
+
+இந்த அறிவிப்பு வடக்கு மற்றும் வடமத்திய மாகாணங்களுக்கும் திருகோணமலை மற்றும் மட்டக்களப்பு மாவட்டங்களுக்கும் வெப்பநிலை அதிகமாக இருக்கலாம் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, மேற்கூறிய பகுதிகளில் வெப்பம், மனித உடலால் உணரப்படும் அளவுக்கு அதிக அளவில் இருக்கும் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/5804500a.json)
+
+---
+
+### Exams chief assures no ‘paper leak’ reported in O/L examination
+
+*2024-05-10 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99136/exams-chief-assures-no-paper-leak-reported-in-ol-examination-) · `en`
+
+The Commissioner General of Examinations Mr. H.J.M.C. Amith Jayasundara says that although a few incidents of irregularities were reported during the ongoing 2023 G.C.E. Ordinary Level examination, no ‘question paper leak’ has taken place.
+
+Speaking to the media in this regard, the Exams chief pointed out that the confidentiality of a question paper is considered to be within the first half hour after the commencement of the examination.
+
+He further assured that there are no reports of any circulation of the question papers before the examination, as per the facts received by him thus far.
+
+◼️
+
+[Data](articles/96461ef5.json)
+
+---
+
+### An Examinations Commissioner for Examinations regarding the GCE O / L
 
 *2024-05-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196487) · `si`
 
-විභාග අක්‍රමිකතා කිහිපයක් වාර්තා වුවත් ප්‍රශ්න පත්‍ර පිටවීමක් සිදුව නොමැති බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කරයි.
+Amit Jayasundara, Commissioner General of Examinations, clarified that no exam question papers were leaked or circulated before the GCE O/L exams. He emphasized that all incidents occurred during the exam, not before, and that the Examination Act treats question papers as confidential until 30 minutes before the exam starts. This prevents candidates from gaining an unfair advantage. The incidents were reported in Colombo, leading to staff training on handling mobile phones and strengthening monitoring.
 
-ප්‍රශ්න පත්‍රයක රහස්‍ය භාවය ලෙස සැලකෙන්නේ විභාගය ආරම්භ වී පළමු පැය භාගය තුළ බව ද සඳහන් කළ විභාග කොමසාරිස් ජනරාල්වරයා තමාට ලැබී ඇති කරුණු මත විභාගයට පෙර සංසරණය වීමක් පිළිබඳ වාර්තා නොවන බව සඳහන් කළේය.
+🟩
+
+Commissioner General of Examinations Amit Jayasundara said that there was no question papers regarding several examination irregularities.
+
+The Commissioner General of Examinations said that the examination begins in the first half of the examination.
 
 ...
 
 [Data](articles/cf437b63.json)
+
+[Extended Data](ext_articles/cf437b63.ext.json)
 
 ---
 
@@ -61,6 +97,8 @@ For One Day Internationals (ODIs) and Twenty20 Internationals (T20Is), match fee
 ...
 
 [Data](articles/46e2233f.json)
+
+[Extended Data](ext_articles/46e2233f.ext.json)
 
 ---
 
@@ -472,21 +510,29 @@ The former Earth Magnetic Storm has caused some impact on the earth and space. T
 
 ---
 
-### சிறந்த ஆட்சியியல் நிர்வாகம், வெளிப்படைத்தன்மையின் அவசியம் குறித்து மத்திய வங்கி ஆளுநரிடம் அமெரிக்கத்தூதுவர் ஜுலி சங் வலியுறுத்தல்
+### US Ambassador Julie Sung urges the Governor of the Central Bank on the need for better governance and transparency
 
 *2024-05-10 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183169) · `ta`
 
-இலங்கையில் சிறந்த ஆட்சி நிர்வாகத்தையும், வெளிப்படைத்தன்மையையும் உறுதிசெய்யவேண்டியதன் அவசியம் குறித்து அமெரிக்கத்தூதுவர் ஜுலி சங் மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்கவிடம் வலியுறுத்தியுள்ளார்.
+US Ambassador Julie Sung met with Sri Lanka's Central Bank Governor, Dr. Nandalal Weerasinghe, emphasizing the importance of good governance and transparency. The meeting, held at the US embassy in Colombo, covered bilateral relations, credit cards, and ongoing renovations. Sung, highlighting the US's support for Sri Lanka's economic growth, called for improved administration and transparency.
 
-2023 ஆம் ஆண்டின் 16 ஆம் இலக்க இலங்கை மத்திய வங்கிச் சட்டத்தின் 80 ஆம் பிரிவின்படி 2023 ஆம் ஆண்டுக்கான பொருளாதார மீளாய்வு அறிக்கை மற்றும் 99 ஆம் பிரிவின்படி கடந்த ஆண்டுக்கான மத்திய வங்கியின் நிதியியல் கூற்றுக்கள் என்பன அண்மையில் வெளியிடப்பட்டன.
+🟩
 
-இவ்வாறானதொரு பின்னணியில் சில தினங்களுக்கு முன்னர் இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க மற்றும் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங் ஆகியோருக்கு இடையிலான சந்திப்பு கொழும்பிலுள்ள அமெரிக்கத்தூதரகத்தில் இடம்பெற்றுள்ளது.
+US Ambassador Julie Sung has urged the Governor of the Central Bank, Dr. Nandalal Weerasinghe on the need to ensure the best governance and transparency in Sri Lanka.
 
-இச்சந்திப்பின்போது இருதரப்புத் தொடர்புகள், கடன்மறுசீரமைப்பு மற்றும் தற்போது முன்னெடுக்கப்பட்டுவரும் மறுசீரமைப்புக்கள் என்பன பற்றி விரிவாகக் கலந்துரையாடப்பட்டுள்ளது.
+Recently, the Central Bank's financial claims for last year were published by Article 80 of the Central Bank Act of Ceylon Central Bank Act No. 16 of 2023.
 
-...
+Against this backdrop, a meeting between the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe and the US Ambassador to Sri Lanka, Julie Sung, took place at the US embassy in Colombo.
+
+During the meeting, bilateral contacts, credit cards and the ongoing renovations have been discussed in detail.
+
+The US ambassador Juli Sung, who has posted a record on its official X site, said that the US continued to support the building of a strong economy in Sri Lanka and urged the Central Bank governor on the need for better administration and transparency.
+
+◼️
 
 [Data](articles/0d4944d3.json)
+
+[Extended Data](ext_articles/0d4944d3.ext.json)
 
 ---
 
@@ -789,6 +835,8 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 ...
 
 [Data](articles/2e30b717.json)
+
+[Extended Data](ext_articles/2e30b717.ext.json)
 
 ---
 
@@ -1403,6 +1451,24 @@ In this case, the person from the person. It is worth noting that 200> 50> 000, 
 [Data](articles/b4539ef2.json)
 
 [Extended Data](ext_articles/b4539ef2.ext.json)
+
+---
+
+### රුපියල ශක්තිමත් වීම පුරවැසි ඔබට බලපාන්නේ කොහොම ද?
+
+*2024-05-10 12:05:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1je2z1pgo) · `si`
+
+මේවන විට ශ්‍රී ලංකාව සතු දළ නිල සංචිත ඇමෙරිකානු ඩොලර් බිලියන 5 ඉක්මවන අතර, ඇමෙරිකානු ඩොලරයට සාපේක්ෂව ශ්‍රී ලංකා රුපියලේ අගයද  කැපීපෙනෙන ශක්තිමත් වීමක් පෙන්නුම් කරයි.
+
+වසර ගණනක් තිස්සේ හිඟයක් ලෙස පැවති ප්‍රාථමික ගිණුමේ ශේෂය, 2023 වසරේදී දළ දේශීය නිෂ්පාදිතයේ ප්‍රතිශතයක් වශයෙන් සියයට 0.6 ක අතිරික්තයක් පෙන්නුම් කරයි.දශක ගණනාවකට පසුව ගෙවුම් ශේෂයේ ජංගම ගිණුමේ අතිරික්තයක් 2023 වසරේ ඇතිව තිබෙන අතර, පොළී අනුපාතය 10%-13% මට්ටමට පහළ වැටී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ (මැයි 09 වැනිදා) පාර්ලිමේන්තුවේ විශේෂ ප්‍රකාශයක් කරමින් පෙන්වා දුන්නේය.
+
+'පොත් කියවපු මනුස්සයෙක් පොකට් එකට ගහලා රටක් හදන්න සල්ලි හොයන එක මොන විහිළුවක් ද?'
+
+මීට වසර දෙකකට අධික කාලයක සිට ශ්‍රී ලංකාවේ දිනපතා පුවත් නිර්මාණය කළ ඇමෙරිකානු ඩොලරයේ අගය වැඩි වීම, වර්තමානය වන විට ක්‍රම ක්‍රමයෙන් අඩු වෙමින් පවතියි.
+
+...
+
+[Data](articles/d206cd43.json)
 
 ---
 
@@ -2245,69 +2311,5 @@ That is how Sri Lanka cricket has announced the squad.
 [Data](articles/54362276.json)
 
 [Extended Data](ext_articles/54362276.ext.json)
-
----
-
-### Fuel disappeared during the crisis
-
-*2024-05-10 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196460) · `si`
-
-During the crisis, fuel and transport disappeared from criminal storage terminals. The Sectoral Oversight Committee revealed this, with Chairman MP Nalaka Bandara Kottegoda noting the disappearance from the Sri Lanka Petroleum Warehouse Terminal. The committee also reported the destruction of data stores at the Petroleum Storage Terminal. Additionally, the Chairman of the Chamber of Committees, Champika Ranawaka, mentioned the direct supply of Sri Lankan charcoal from miners and the expectation of submitting essential food items like potatoes and onions to Parliament. This move aims to provide a practical solution for customers through an open digital platform, addressing the high prices of imported food items.
-
-🟩
-
-The sectoral Oversight Committee has revealed that some of the fuel and transport was disappeared from the criminal storage terminals from the crisis.
-
-The Chairman of the Committee MP Nalaka Bandara Kottegoda said that the Sri Lanka Petroleum Warehouse Terminal of the Sri Lanka Petroleum Federal Company had been revealed when he interrogated the Sri Lanka Petroleum Storage Terminal.
-
-The Chairman of the Sectoral Oversight Committee said that the data stores of the petrol storage of the Database of Petroleum Store Terminal has been destroyed.
-
-He added that the Sri Lankan charcoal is directing directly from the coal stock miners in Sri Lanka.
-
-Meanwhile, Chamber of Committees, the Chairman of the Chairman Physician, Champika Ranawaka, said that it is expected to be submitted to the Parliament, including potatoes, onions, including potatoes, including potatoes, and onions, including potatoes, including potatoes and food items.
-
-...
-
-[Data](articles/9890ae3c.json)
-
-[Extended Data](ext_articles/9890ae3c.ext.json)
-
----
-
-### Hikkaduwa Beach Rights Issue oversubscribed
-
-*2024-05-10 07:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hikkaduwa-Beach-Rights-Issue-oversubscribed/108-282274) · `en`
-
-The Rights Issue of Hikkaduwa Beach Resort PLC, calling for subscription for 257,765, 177 shares to raise Rs. 902 million, has been oversubscribed.
-
-In a filing to the Colombo Stock Exchange (CSE), Hikkaduwa Beach Resort said the Rights Issue has been oversubscribed by 38, 159, 451 shared (Rs. 133,558,078/50).
-
-The proceeds of the issue will be utilised to settle outstanding related party loans of the company borrowed from Citrus Leisure PLC. amounting to Rs. 566,317,618, which is within the subscription amount by Citrus Leisure PLC under its entitlement in the Rights Issue.
-
-The proceeds will also be used to facilitate the full subscription of the company’s entitlement in the Rights Issue of Waskaduwa Beach Resorts PLC (CITW) amounting to Rs. 219,386,694, and subscribe to any additional shares required to raise the full amount under the Rights Issue of CITW up to a maximum of Rs.116, 473,809.
-
-...
-
-[Data](articles/e33fa84e.json)
-
-[Extended Data](ext_articles/e33fa84e.ext.json)
-
----
-
-### A move to preempt hush-hush project on snap general election before
-
-*2024-05-10 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-move-to-preempt-hush-hush-project-on-snap-general-election-before/108-282291) · `en`
-
-Colombo, May 10 (Daily Mirror) - Speculation is rife in political circles that the Election Commission announced the plan for the conduct of the presidential election interpreting the Constitution in a bid to suppress any internal political discourse for a possible snap general election, Daily Mirror learns.
-
-There are talks that President Ranil Wickremesinghe might consider a general election ahead of the presidential election in case the government fails to secure the next tranche of the IMF Extended Fund Facility.
-
-However, the Election Commission announced the legal provisions for the conduct of the Presidential election including the timeframe for taking polling to preempt any hush-hush project for a general election.
-
-...
-
-[Data](articles/17d3c9ae.json)
-
-[Extended Data](ext_articles/17d3c9ae.ext.json)
 
 ---

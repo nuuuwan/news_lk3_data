@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 10:51:26**
+As of **2024-05-10 11:03:24**
 
 ## Newspaper Stats
 
-*Scraped **23,117** Articles*
+*Scraped **23,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 1,343
 adalk | 1,963
 tamilmirrorlk | 2,702
 adaderanalk | 2,706
-virakesarilk | 3,436
-dailymirrorlk | 3,634
-adaderanasinhalalk | 3,700
+virakesarilk | 3,438
+dailymirrorlk | 3,635
+adaderanasinhalalk | 3,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,116 (100.0%) of 23,117 articles have been extended.
+23,117 (100.0%) of 23,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### ගිනිතබා විනාශ කළ යතුරුපැදියක් හමුවෙයි
+
+*2024-05-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196469) · `si`
+
+ගිනිතබා විනාශ කරන ලද යතුරුපැදියක් පෞද්ගලික කුරුඳු ඉඩමක තිබී සොයාගෙන ඇත.
+
+මෙම යතුරුපැදිය පසුගියදා අහුන්ගල්ලේ වෙඩිතැබීම සඳහා යොදාගත් යතුරුපැදිය බවට පොලීසිය සැක කරයි.
+
+අද (10) පෙරවරුවේ කුරුඳු කැපීමට ගිය අදාළ ඉඩමේ හිමිකරු පිළිස්සුණු යතුරුපැදිය දැක කොස්ගොඩ පොලීසියට දැනුම්දී තිබේ.
+
+කොස්ගොඩ පොලීසිය සහ ඇල්පිටිය කොට්ඨාස අපාරාධ අංශයේ නිලධාරින් එක්ව සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකරයි.
+
+පෙරේදා (08) දිනයේදී අහුංගල්ලේ දී සිදුකළ වෙඩිතැබීමෙන් 54 හැවිරිදි කුරුඳු කර්මාන්තයේ යෙදුණු පුද්ගලයෙක් මියගොස් තිබුණි.
+
+අහුංගල්ලේ, ලෝකන්වත්ත ප්‍රදේශයේ නිවසකට එදින රාත්‍රී 7.40ට පමණ ස්කූටි වර්ගයේ යතුරුපැදියකින් තවත් පුද්ගලයෙක් සමග පැමිණි වෙඩික්කරුවෙක් විසින් මෙම වෙඩි තැබීම සිදුකර තිබුණි.
+
+පොලීසිය පවසන්නේ මෙම පුද්ගලයා දකුණේ සිදුකළ ඝාතන සහ අපරාධ කිහිපයක සැකකරුවෙක් ලෙස සැලකෙන 'බබා' නමැත්තාගේ පියා බවය.
+
+දකුණේ පාතාල කල්ලි දෙකක් වන "කොස්ගොඩ සුජී" සහ "රත්ගම විදුර" පාර්ශ්ව අතර පවතින ගැටුමෙහි ප්‍රතිඵලයක් ලෙස මෙම ඝාතනය සිදුකර ඇති බවට පොලීසිය සැක පළකරයි.
+
+...
+
+[Data](articles/31c0ca2d.json)
+
+---
+
+### இலங்கைக்கு விஜயம் செய்யவுள்ளார் அமெரிக்க அதிகாரி டொனால்ட் லூ
+
+*2024-05-10 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183123) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் துணை செயலர் டொனால்ட் லூ இலங்கக்கு விஜயம் செய்யவுள்ளார்.
+
+அமெரிக்காவின் துணை செயலர் டொனால்ட் லூ,  இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கான விஜயத்தை இன்று வெள்ளிக்கிழமை (10) முதல் எதிர்வரும் 15 ஆம் திகதி வரை மேற்கொள்கிறார்.
+
+டொனால்ட் லூவின் 3 நாடுகளுக்கான விஜயமானது ஒவ்வொரு நாட்டுடனும் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்தும் என்பதுடன் சுதந்திரமான மற்றும் வளமான இந்தோ-பசிபிக் பிராந்தியத்திற்கான அமெரிக்காவின் ஆதரவை நிரூபிக்கும் வகையில் அமையவுள்ளது.
+
+இந்தியாவுக்கு விஜயம் செய்யும் டொனால்ட் லூ, தென்னிந்தியாவில் இருதரப்பு ஈடுபாட்டை மேம்படுத்தும் நோக்கில் சென்னையிலுள்ள துணைத் தூதரக அதிகாரிகளை சந்திக்கவுள்ளார்.
+
+...
+
+[Data](articles/567d10a5.json)
+
+---
+
+### யால தேசிய பூங்காவில் பூச்சி இனங்களை கடத்த முயன்ற இரு இத்தாலிய பிரஜைகள் கைது
+
+*2024-05-10 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183117) · `ta`
+
+யால தேசிய பூங்காவில்  இருந்து சேகரித்த நூற்றுக்கணக்கான உள்ளூர் பூச்சி மற்றும் தாவர இனங்களை வெளிநாட்டிற்கு கடத்த முயன்றதாகக் கூறப்படும் இரண்டு இத்தாலிய பிரஜைகள் கடகமுவ பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களை புதன்கிழமை (08) கடகமுவ வனவிலங்கு பாதுகாப்பு அலுவலக அதிகாரிகள்  கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்டவர்களிடம் இருந்து இலங்கையிலுள்ள  வண்ணத்துப்பூச்சிகள் உட்பட 285 பூச்சிகளை சேகரித்து வைத்திருந்த ஏராளமான கண்ணாடி குவளைகளை கைப்பற்றியதாக வனவிலங்கு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/23a84555.json)
+
+---
+
+### US Assistant Secretary Donald Lu to visit Sri Lanka
+
+*2024-05-10 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Assistant-Secretary-Donald-Lu-to-visit-Sri-Lanka/108-282312) · `en`
+
+Colombo, May 10 (Daily Mirror) - United States Assistant Secretary of State for South and Central Asian Affairs Donald Lu will travel to India, Sri Lanka, and Bangladesh between May 10 and 15.
+
+His trip will strengthen bilateral cooperation with each country and demonstrate U.S. support for a free, open, and prosperous Indo-Pacific region.
+
+In Chennai, Assistant Secretary Lu will meet with Consulate personnel to bolster bilateral engagement in southern India.
+
+He will then travel to Colombo to engage with officials from across the political spectrum and deepen the United States’ partnership with Sri Lanka. In his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society.
+
+...
+
+[Data](articles/b178f892.json)
+
+---
 
 ### Suspect arrested with drug
 
@@ -58,17 +136,23 @@ It is revealed that the suspect is an exemption of heroin racket.
 
 ---
 
-### பாராளுமன்ற உறுப்பினரானார் முஜிபுர்
+### Mujibur became a Member of Parliament
 
 *2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/175-337069) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில், பாராளுமன்ற உறுப்பினராக முஜிபுர் ரஹ்மான் இன்று (10) சத்தியப்பிரமாணம் செய்து கொண்டார்.
+Mujibur Rahman was sworn in as a Member of Parliament today, filling the vacancy left by Diana Kamage's removal.
 
-டயானா கமகே பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து வெற்றிடமான இடத்துக்கு முஜிபுர் ரஹ்மான் நியமிக்கப்பட்டுள்ளார்.
+🟩
+
+In the presence of Speaker Mahinda Yapa Abeywardena, Mujibur Rahman was sworn in as a Member of Parliament today (10).
+
+Mujibur Rahman has been appointed to the vacant place following the removal of Diana Kamage as a Member of Parliament.
 
 ◼️
 
 [Data](articles/7dc7fd6b.json)
+
+[Extended Data](ext_articles/7dc7fd6b.ext.json)
 
 ---
 
@@ -2125,93 +2209,5 @@ In the research held with the Department of Social Sciences of the University of
 [Data](articles/d2c25ae3.json)
 
 [Extended Data](ext_articles/d2c25ae3.ext.json)
-
----
-
-### Mujibur Rahman, the gazette leaves
-
-*2024-05-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196450) · `si`
-
-Mujibur Rahman, a former parliamentarian, named the gazette notification for Diana Gamage's removal, issued by the Elections Commission following a Supreme Court decision.
-
-🟩
-
-The gazette notification has been named by a former parliamentarian Mujibar Rahman, who was a member of the Member of Parliament for the removal of Diana Gamage.
-
-The gazette notification has been issued with the powers vested in the Elections Commission.
-
-According to the Supreme Court's decision, Mrs. Diana Gamage was abolished.
-
-Accordingly, the Elections Committee, a former parliamentarian Mujibar Rahman, was named by a former parliamentarian for the vacant parliamentary seat.
-
-◼️
-
-[Data](articles/8cde552c.json)
-
-[Extended Data](ext_articles/8cde552c.ext.json)
-
----
-
-### Mujibur Rahman’s name gazetted as SJB MP
-
-*2024-05-09 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99116/mujibur-rahmans-name-gazetted-as-sjb-mp) · `en`
-
-A Gazette notification has been issued stating that Mujibur Rahman has been nominated by the Samagi Jana Balawegaya (SJB) to fill the vacancy in Parliament created by the disqualification of Diana Gamage as Member of Parliament by a Supreme Court verdict.
-
-Accordingly, the Election Commission, acting under section 64(5) of the Parliamentary Elections Act, No. 1 of 1981 read with provisions of the Constitution of the Democratic Socialist Republic of Sri Lanka, has announced that Mohamad Mujibur Rahman was declared elected as a Member of Parliament to fill the vacancy created due to the determination of the Supreme Court cancelling the parliamentary membership of Diana Gamage aforesaid.
-
-The Secretary-General of Parliament informed the Election Commission that a Parliamentary seat in the Ninth Parliament has become vacant from 08 May 2024, due to the cancellation of parliamentary seat of Member of Parliament Diana Gamage.
-
-...
-
-[Data](articles/3b668b92.json)
-
-[Extended Data](ext_articles/3b668b92.ext.json)
-
----
-
-### Telecommunication Act to be amended after 28 years
-
-*2024-05-09 19:30:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-28කට-පසුව-විදුලි-සංදේශ-නියාමන-පනත-සංශෝධනයට/11-409537) · `si`
-
-After 28 years, the Telecommunication Act is set to be amended, with the revised Bill to be presented to Parliament tomorrow. The National Cyber Security Act is also in the drafting stage, aiming for May. The Minister of Technology highlighted the approval of the Digital Strategy Plan for 2030, focusing on infrastructure, skills, and digital government services. Additionally, steps are being taken to provide digital classrooms and employment opportunities for non-IT graduates. The social media column limit has been increased, and the National Cyber Security Act is planned for drafting in May 2024.
-
-🟩
-
-After 28 years, the revised Bill will be presented to Parliament tomorrow (10) will be presented to Parliament tomorrow (10).
-
-The National Cyber ​​Security Act is scheduled to draft the National Cyber ​​Security Act in May, the public minister said.
-
-Minister of Technology Kanaka Herath made this statement participating at a press conference held at the Presidential Media Center today (09).
-
-The State Minister further stated:
-
-Digital Strategy Plan - Cabinet approval has been approved for 2030. We have presented six main points. Its first infrastructure, relationship and access, skills, literacy, industry and employment, is the connected Digital Government. The restracted digital government is also pointed out as digital financial services, small and medium scale businesses as digiting as digiting. A Global Investment Promotion Promotion is to be held in collaboration with the Ministry of External Affairs and the Ministry of Investment Promotion and June 25.
-
-...
-
-[Data](articles/44caf3b5.json)
-
-[Extended Data](ext_articles/44caf3b5.ext.json)
-
----
-
-### Sri Lanka squad named for T20 World Cup 2024
-
-*2024-05-09 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99115/sri-lanka-squad-named-for-t20-world-cup-2024) · `en`
-
-The Cricket Selection Committee has selected a 15-member squad to take part in the upcoming ICC Men’s T20 World Cup, Sri Lanka Cricket (SLC) said.
-
-The squad has received approval of the Minister of Sports and Youth Affairs, Harin Fernando.
-
-Issuing a statement, Sri Lanka Cricket (SLC) said the team will depart for the World Cup on May 14, 2024.
-
-The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from June 01 to June 29, 2024.
-
-◼️
-
-[Data](articles/0960b87a.json)
-
-[Extended Data](ext_articles/0960b87a.ext.json)
 
 ---

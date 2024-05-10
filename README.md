@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 22:18:21**
+As of **2024-05-10 22:33:45**
 
 ## Newspaper Stats
 
-*Scraped **23,222** Articles*
+*Scraped **23,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,972
+adalk | 1,973
 tamilmirrorlk | 2,720
-adaderanalk | 2,721
+adaderanalk | 2,722
 virakesarilk | 3,452
 dailymirrorlk | 3,649
 adaderanasinhalalk | 3,725
@@ -26,21 +26,47 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,220 (100.0%) of 23,222 articles have been extended.
+23,222 (100.0%) of 23,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ඉතුරුම් පොලී අනුපාත ගැන තීරණයක්
+### President announces plans to pass women-empowering bills in Parliament by June
+
+*2024-05-10 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99139/president-announces-plans-to-pass-women-empowering-bills-in-parliament-by-june) · `en`
+
+President Ranil Wickremesinghe emphasized his recognition of the challenges women face in safeguarding their families amidst the economic crisis.
+
+He highlighted the government’s swift action by presenting two bills to the Parliament aimed at empowering women during this initial phase of economic recovery.
+
+The President indicated that these bills are anticipated to be ratified by the Parliament in June, thereby enforcing a national policy on gender equality and women’s empowerment, the President’s Media Division said.
+
+This includes the establishment of a National Commission on Women and mechanisms to protect women’s rights and prevent violations thereof, including legal recourse.
+
+President Ranil Wickremesinghe made these remarks during his keynote address at the unveiling of three “Anti-Violence Global Gestures” handprints against sexual violence targeting women and girls in public spaces, organized by DP Education at the Nelum Pokuna Theater in Colombo today (10), the PMD reported.
+
+...
+
+[Data](articles/96568b13.json)
+
+---
+
+### Decision on Savings Interest Rates of Senior Citizens
 
 *2024-05-10 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196493) · `si`
 
-ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ඉතුරුම් පොලී අනුපාත සම්බන්ධ පැහැදිලි විශ්ලේෂණයක් සිදුකිරීමට ජනාධිපතිවරයා විසින් තමා වෙත උපදෙස් ලබාදුන් බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Dr. Ranjith Siyambalapitiya, acting on the President's directive, is tasked with analyzing savings interest rates for senior citizens.
+
+🟩
+
+State Minister Dr. Ranjith Siyambalapitiya says that the President has instructed him to provide a clear analysis of savings interest rates on savings interest rates.
 
 ◼️
 
 [Data](articles/3de963f6.json)
+
+[Extended Data](ext_articles/3de963f6.ext.json)
 
 ---
 
@@ -132,6 +158,22 @@ During a telephone conversation, Inspector Padmalal and the main opponent of Roh
 
 ---
 
+### ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම තව දුරටත් වර්ධනය වේ  සියලුම අංශ සීරුවෙන්
+
+*2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-මලිත්තගොල්ල-ප්‍රදේශයේ-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ--සියලුම-අංශ-සීරුවෙන්/11-409553) · `si`
+
+ඇල්ල  කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම දැනට පතිත වන ධාරානිපාත වර්ෂාවත් සමඟ තව දුරටත් සක්‍රීය වීම. නිසාවෙන් ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය ට අනතුරුදායක තත්ත්වයක් උදා වී ඇති හෙයින්   ආරක්ෂිත උපදෙස් ක්‍රියා මාර්ග ගන්නා ලෙසට අදාළ වගකිවයුතු සියලුම අංශ  අද (10) පස්වරුවේ  දැනුවත් කල බව ජාතික  ගොඩනැගිලි පර්යේෂණ ආයතනයේ බදුල්ල දිස්ත්‍රික් ප්‍රධාන භූවිද්‍යඥ හර්ශනී පෙරේරා මහත්මිය පැවසුවාය .
+
+මාර්ග සංවර්ධන අධ්කාරිය, ආපදා කළමනාකරණ මධ්‍යස්ථානය, බදුල්ල දිස්ත්‍රික් ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ආදි වගකිවයුතු සියලුම අංශ වල නිළධාරින් මේ සම්බන්ධයෙන් දැනටමත් දැනුවත් කර තිබෙන බවත් ඇය කීවාය .
+
+හදිසි අවස්ථාවකදී ආපදාවකදී අදාළ කටයුතු කඩිනමින් සිදු කිරිමටත්, වර්ෂාවත් සමඟ මෙම මලිත්තගොල්ල නාය යාම සම්බන්ධයෙන් නිරතුරුවම අවධානයෙන් සිටින ලෙසට එම ආයතන දැනුවත් කල බව කීවාය .
+
+...
+
+[Data](articles/d4bd0a73.json)
+
+---
+
 ### Man shot in Ahungalla succumbs to injuries
 
 *2024-05-10 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99138/man-shot-in-ahungalla-succumbs-to-injuries) · `en`
@@ -149,6 +191,8 @@ The shooting was reportedly carried out by two unidentified individuals who had 
 ◼️
 
 [Data](articles/aca794c3.json)
+
+[Extended Data](ext_articles/aca794c3.ext.json)
 
 ---
 
@@ -2295,45 +2339,5 @@ It is revealed that the suspect is an exemption of heroin racket.
 [Data](articles/ad20b7a8.json)
 
 [Extended Data](ext_articles/ad20b7a8.ext.json)
-
----
-
-### Mujibur became a Member of Parliament
-
-*2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/52-337069) · `ta`
-
-Mujibur Rahman was sworn in as a Member of Parliament today, filling the vacancy left by Diana Kamage's removal.
-
-🟩
-
-In the presence of Speaker Mahinda Yapa Abeywardena, Mujibur Rahman was sworn in as a Member of Parliament today (10).
-
-Mujibur Rahman has been appointed to the vacant place following the removal of Diana Kamage as a Member of Parliament.
-
-◼️
-
-[Data](articles/39bdfbc7.json)
-
-[Extended Data](ext_articles/39bdfbc7.ext.json)
-
----
-
-### Mujibur became a Member of Parliament
-
-*2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/175-337069) · `ta`
-
-Mujibur Rahman was sworn in as a Member of Parliament today, filling the vacancy left by Diana Kamage's removal.
-
-🟩
-
-In the presence of Speaker Mahinda Yapa Abeywardena, Mujibur Rahman was sworn in as a Member of Parliament today (10).
-
-Mujibur Rahman has been appointed to the vacant place following the removal of Diana Kamage as a Member of Parliament.
-
-◼️
-
-[Data](articles/7dc7fd6b.json)
-
-[Extended Data](ext_articles/7dc7fd6b.ext.json)
 
 ---

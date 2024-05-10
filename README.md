@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 18:22:29**
+As of **2024-05-10 18:36:19**
 
 ## Newspaper Stats
 
-*Scraped **23,196** Articles*
+*Scraped **23,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 1,343
 adalk | 1,969
 adaderanalk | 2,717
 tamilmirrorlk | 2,719
-virakesarilk | 3,448
-dailymirrorlk | 3,643
-adaderanasinhalalk | 3,718
+virakesarilk | 3,449
+dailymirrorlk | 3,646
+adaderanasinhalalk | 3,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,196 (100.0%) of 23,196 articles have been extended.
+23,196 (100.0%) of 23,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### සා පෙළ ප්‍රශ්නපත්‍ර ගැටලුව ගැන විභාග කොමසාරිස්ගෙන් ප්‍රකාශයක්
+
+*2024-05-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196487) · `si`
+
+විභාග අක්‍රමිකතා කිහිපයක් වාර්තා වුවත් ප්‍රශ්න පත්‍ර පිටවීමක් සිදුව නොමැති බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කරයි.
+
+ප්‍රශ්න පත්‍රයක රහස්‍ය භාවය ලෙස සැලකෙන්නේ විභාගය ආරම්භ වී පළමු පැය භාගය තුළ බව ද සඳහන් කළ විභාග කොමසාරිස් ජනරාල්වරයා තමාට ලැබී ඇති කරුණු මත විභාගයට පෙර සංසරණය වීමක් පිළිබඳ වාර්තා නොවන බව සඳහන් කළේය.
+
+...
+
+[Data](articles/cf437b63.json)
+
+---
+
+### Sri Lanka Cricket raises player fees across all formats
+
+*2024-05-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-raises-player-fees-across-all-formats/108-282332) · `en`
+
+Colombo, May 10 -  Sri Lanka Cricket (SLC) has decided to enhance player welfare and incentivizing performance by announcing substantial increases in player fees across all formats, effective immediately.
+
+The decision, aimed at recognizing the efforts and dedication of Sri Lanka's international cricketers, will see 41 players being offered new contracts under six categories: A1, A2, B2, C1, C2, and the 'A' Team.
+
+One of the most notable changes comes in the Test format, where match fees have been doubled, marking a 100 percent increase. Moreover, payments for Test matches will now be determined on a merit basis, reflecting the player's performance and contribution to the team's success.
+
+For One Day Internationals (ODIs) and Twenty20 Internationals (T20Is), match fees have been raised by a commendable 25 percent, acknowledging the challenges and intensity of these shorter formats.
+
+...
+
+[Data](articles/46e2233f.json)
+
+---
 
 ### Another prosperous announcement
 
@@ -440,6 +472,24 @@ The former Earth Magnetic Storm has caused some impact on the earth and space. T
 
 ---
 
+### சிறந்த ஆட்சியியல் நிர்வாகம், வெளிப்படைத்தன்மையின் அவசியம் குறித்து மத்திய வங்கி ஆளுநரிடம் அமெரிக்கத்தூதுவர் ஜுலி சங் வலியுறுத்தல்
+
+*2024-05-10 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183169) · `ta`
+
+இலங்கையில் சிறந்த ஆட்சி நிர்வாகத்தையும், வெளிப்படைத்தன்மையையும் உறுதிசெய்யவேண்டியதன் அவசியம் குறித்து அமெரிக்கத்தூதுவர் ஜுலி சங் மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்கவிடம் வலியுறுத்தியுள்ளார்.
+
+2023 ஆம் ஆண்டின் 16 ஆம் இலக்க இலங்கை மத்திய வங்கிச் சட்டத்தின் 80 ஆம் பிரிவின்படி 2023 ஆம் ஆண்டுக்கான பொருளாதார மீளாய்வு அறிக்கை மற்றும் 99 ஆம் பிரிவின்படி கடந்த ஆண்டுக்கான மத்திய வங்கியின் நிதியியல் கூற்றுக்கள் என்பன அண்மையில் வெளியிடப்பட்டன.
+
+இவ்வாறானதொரு பின்னணியில் சில தினங்களுக்கு முன்னர் இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க மற்றும் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங் ஆகியோருக்கு இடையிலான சந்திப்பு கொழும்பிலுள்ள அமெரிக்கத்தூதரகத்தில் இடம்பெற்றுள்ளது.
+
+இச்சந்திப்பின்போது இருதரப்புத் தொடர்புகள், கடன்மறுசீரமைப்பு மற்றும் தற்போது முன்னெடுக்கப்பட்டுவரும் மறுசீரமைப்புக்கள் என்பன பற்றி விரிவாகக் கலந்துரையாடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0d4944d3.json)
+
+---
+
 ### SLPP ready for Presidential election, no candidate yet: Basil
 
 *2024-05-10 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-ready-for-Presidential-election-no-candidate-yet-Basil/108-282329) · `en`
@@ -721,6 +771,24 @@ Further investigations are being carried out by Valvettithurai police as the bod
 [Data](articles/cb090cf3.json)
 
 [Extended Data](ext_articles/cb090cf3.ext.json)
+
+---
+
+### Diana’s expulsion case postponed
+
+*2024-05-10 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Dianas-expulsion-case-postponed/155-282322) · `en`
+
+Colombo, May 10 (Daily Mirror)-The expulsion petition filed by former State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership was today fixed for May 28 by the Supreme Court.
+
+Diana Gamage’s stance regarding this petition is to be informed to the court on the next date.
+
+Accordingly, the Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Mahinda Samayawardena fixed the matter for May 28.
+
+However, the Supreme Court, in another application held that Diana Gamage is disqualified to be a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+
+...
+
+[Data](articles/2e30b717.json)
 
 ---
 
@@ -2241,87 +2309,5 @@ However, the Election Commission announced the legal provisions for the conduct 
 [Data](articles/17d3c9ae.json)
 
 [Extended Data](ext_articles/17d3c9ae.ext.json)
-
----
-
-### Majority MPs call for General Election first
-
-*2024-05-10 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Majority-MPs-call-for-General-Election-first/155-282290) · `en`
-
-In the wake of the Election Commission officially announcing that the Presidential election will be held between September 17 and October 16, a faction of both government and opposition MPs have expressed concerns as they prefer a parliamentary election first, Daily Mirror learns.
-
-This follows the remarks by the founder of Sri Lanka Podujana Peramuna (SLPP) Basil Rajapaksa who reiterated that his party maintains its stance that the general election should take place before the presidential election.
-
-In addition to government MPs, a significant number of opposition MPs, the majority of whom are from the Samagi Jana Balawegaya (SJB), prefer a general election, citing the potential to attract a broader voter base.
-
-Against this backdrop, President Ranil Wickremesinghe is reported to have attempted to convince the government parliamentary group that the Presidential election must take place this year in accordance with the Constitution.
-
-...
-
-[Data](articles/67918ff9.json)
-
-[Extended Data](ext_articles/67918ff9.ext.json)
-
----
-
-### Heavy rains this evening
-
-*2024-05-10 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196458) · `si`
-
-Heavy rains and showers expected across many parts of the country today, with heavy showers in Polonnaruwa, Central, Sabaragamuwa, Uva, and Eastern provinces. Western, Southern provinces and Puttalam, Mannar, Kilinochchi, Jaffna districts also affected. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places elsewhere in many parts of the country today (10).
-
-The Department of Meteorology issues a latest announcement.
-
-In some places in the Polonnaruwa District, the Central, Sabaragamuwa, Uva and Eastern provinces.. Heavy showers can occur around 100.
-
-Showers will occur at the Western and Southern provinces and in the Puttalam, Mannar, Kilinochchi and Jaffna districts.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/bffc2e91.json)
-
-[Extended Data](ext_articles/bffc2e91.ext.json)
-
----
-
-### Seven reasons why I would not vote for a socialist utopia
-
-*2024-05-10 05:39:47* · [`dailyftlk`](https://www.ft.lk/columns/Seven-reasons-why-I-would-not-vote-for-a-socialist-utopia/4-761621) · `en`
-
-Effectively steering the economic agenda of an entire nation requires an entirely different skill set
-
-There is a certain age that socialism sounds super sweet. Who wouldn’t appreciate a system in which everyone lives merrily, receives free education and healthcare, shares their food with others, and experiences a sense of community and compassion? Who would not want a highly paying government job whether you study hard or not?
-
-In this ideal society, there are no grievances about the contributions made for the greater good. Individuals are duly recognised with bronze medals for their exemplary efforts. We hold admiration for the industriousness displayed in factories and fields, where the masses work diligently and joyfully express their solidarity through revolutionary songs. We applaud when a leader reminiscent of Lenin emphasises that the best things are for the children. Truly, this superlative utopia leaves no room for comparison.
-
-...
-
-[Data](articles/08dffd3c.json)
-
-[Extended Data](ext_articles/08dffd3c.ext.json)
-
----
-
-### Sri Lankan elections and an Indian Ocean tug-of-war
-
-*2024-05-10 05:22:25* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-elections-and-an-Indian-Ocean-tug-of-war/4-761616) · `en`
-
-The aim of these states is to partner with Sri Lanka and create a positive opinion in the eyes of the people and those in governance as they continue their tug-of-war with China
-
-In the lead up to Sri Lanka’s Presidential election in October 2024, there have been numerous visits by foreign governments to create a good rapport with the various candidates. Visits by great powers to Sri Lanka appear to be a tradition before a national election or during global calamities. My analyses over the years indicate an increase in the frequency of interactions and their breadth during the visits.
-
-In order to ascertain this tug-of-war, this article is divided into three sections: first, the QUAD visits; second, the Chinese engagements, and third Sri Lanka’s future in the Indian Ocean.
-
-...
-
-[Data](articles/e1d4b9fd.json)
-
-[Extended Data](ext_articles/e1d4b9fd.ext.json)
 
 ---

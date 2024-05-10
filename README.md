@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 12:51:31**
+As of **2024-05-10 13:03:20**
 
 ## Newspaper Stats
 
-*Scraped **23,139** Articles*
+*Scraped **23,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,964
-tamilmirrorlk | 2,705
+tamilmirrorlk | 2,709
 adaderanalk | 2,710
 virakesarilk | 3,439
 dailymirrorlk | 3,638
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,132 (100.0%) of 23,139 articles have been extended.
+23,139 (100.0%) of 23,143 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,67 @@ In his meetings, he will reaffirm the United States’ support for Sri Lanka’s
 
 [Data](articles/692708bc.json)
 
+[Extended Data](ext_articles/692708bc.ext.json)
+
 ---
 
-### ඩයනා අධිකරණයට යයි
+### நாய்களுக்கு கருத்தடை
+
+*2024-05-10 12:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/நாய்களுக்கு-கருத்தடை/75-337083) · `ta`
+
+கட்டாக்காலியாக திரியும் நாய்களின் பெருக்கக்கை கட்டுப்படுத்தும் முகமாக நாய்களுக்கு கருத்தடை செயற்பாடு திருகோணமலை நகரில் வியாழக்கிழமை (09)  இடம் பெற்றது.
+
+கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களமும் திருகோணமலை நகரசபையும் இனைந்து திருகோணமலை நகரில் முன்னெடுத்த இந் நிகழ்வில் கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களத்தின் மாகாணப்பணிப்பாளர் , திருகோணமலை நகரசபையின் செயலாளர் வெ. இராஜசேகர் உட்பட பலர் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/a9bbdb33.json)
+
+---
+
+### Diana goes to court
 
 *2024-05-10 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196473) · `si`
 
-තමන්ව සමගි ජන බලවේගයෙන් නෙරපීමට ගනු ලැබූ තීරණය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කර තිබූ පෙත්සම මේ මස 28 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+Diana's petition, heard by judges Gamini Amarasekera, Kumuduni Wickremasinghe, and Mahinda Samaya Sajeerawarders, was set for the 28th. Attorney Faizer Mustapha, representing Diana, was asked to provide a date for the petition's details. The court ordered the petition to be heard on the 28th, with Samajith Premadasa, Chief Secretary Ranjith Madduadara, and General Secretary Ranjith Madduadara named as respondents.
 
-මෙම පෙත්සම අද (10) ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම සම්බන්ධයෙන් ගනු ලබන තීරණය දැනුම්දීම සඳහා දිනයක් ලබා දෙන ලෙස ඉල්ලා සිටියේය.
+The Supreme Court has set the petition on the 28th of this month.
 
-ඒ අනුව අදාළ පෙත්සම මේ මස 28 වනදා කැඳවන ලෙසත් නියෝග කළ විනිසුරු මඩුල්ල එදින මෙම පෙත්සම පවත්වාගෙන යාම සම්බන්ධයෙන් තීරණය දැනුම් දෙන ලෙසත් නියම කළේය.
+The petition was called before Gamini Amarasekera and Kumuduni Wickremasinghe and Mahinda Samaya Sajeerawarders.
 
-මෙහි වගඋත්තරකරුවන් ලෙස සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ඇතුළු පිරිසක් නම් කර තිබේ.
+Attorney-at-Law Faizer Mustapha, who appeared in behalf of the petition, was asked to give a date to inform the petition.
+
+The judge ordered that the petition was ordered to be summoned on the 28th of this month.
+
+Samajith Premadasa, Chief Secretary Ranjith Madduadara, the General Secretary Ranjith Madduadara has been named as respondents.
 
 ◼️
 
 [Data](articles/9623441d.json)
+
+[Extended Data](ext_articles/9623441d.ext.json)
+
+---
+
+### அதீத வெப்பத்தால் மற்றுமொருவர் உயிரிழப்பு
+
+*2024-05-10 12:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-வெப்பத்தால்-மற்றுமொருவர்-உயிரிழப்பு/71-337082) · `ta`
+
+யாழ்ப்பாணத்தில் நிலவும் அதீத வெப்பம் காரணமாக மற்றுமொருவர்  உயிரிழந்துள்ளார்.  புன்னாலைக்கட்டுவன் தெற்கை சேர்ந்த சிவஞானம் ஜெயக்குமார் (வயது 47) என்பவரே உயிரிழந்துள்ளார்.
+
+குறித்த நபர்   வியாழக்கிழமை (09) வீட்டில் தனித்திருந்த போது , வீட்டின் பின் பகுதிக்கு சென்ற வேளை திடீரென மயக்கம் ஏற்பட்டு விழுந்துள்ளார்.
+
+சுமார் 04 மணி நேரத்தின் பின்னர் அவரது குடும்பத்தினர் வீடு திரும்பி, வீட்டில் இருந்தவரை காணவில்லை என தேடிய போது , வீட்டின் பின் முற்றத்தில் கடும் வெய்யிலுக்குள் விழுந்து கிடந்ததை கண்ணுற்று அவரை மீட்டு , தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு சென்றனர்.
+
+வைத்தியசாலையில் அனுமதித்த போது அவர் ஏற்கெனவே உயிரிழந்து விட்டார் என வைத்தியர்கள் அறிக்கையிட்டனர்.
+
+உடலில் வெப்ப கொப்பளங்கள் காணப்பட்டதாகவும் , அவரது உயிரிழப்புக்கு அதிக வெப்பமே காரணம் என உடற்கூற்று அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8cdd1a9a.json)
 
 ---
 
@@ -92,6 +134,8 @@ Meanwhile, preliminary investigations have revealed that the suspect in question
 
 [Data](articles/2b30a0c0.json)
 
+[Extended Data](ext_articles/2b30a0c0.ext.json)
+
 ---
 
 ### Some police officers misuse Yukthiya operation: MPs charge
@@ -110,6 +154,8 @@ He said eleven youths were arrested over a brawl in Narammala yesterday and five
 
 [Data](articles/0af37ce1.json)
 
+[Extended Data](ext_articles/0af37ce1.ext.json)
+
 ---
 
 ### Human traffickers exploit documents stolen from Army HQ to target army veterans?
@@ -127,6 +173,42 @@ Authorities are currently continuously pursuing leads related to the trafficking
 ◼️
 
 [Data](articles/72148c22.json)
+
+[Extended Data](ext_articles/72148c22.ext.json)
+
+---
+
+### சட்டவிரோத சிகரட்டுகளுடன் ஒருவர் கைது
+
+*2024-05-10 12:10:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337081) · `ta`
+
+சட்டவிரோத சிகரட்டுகள் வைத்திருந்த குற்றத்தின்பேரில், 43 வயதான சந்தேக நபர் ஒருவர், அம்பலாந்தோட்டைப் பகுதியில் நேற்று பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், அம்பலாந்தோட்டை நகர்ப் பகுதியில் மேற்கொள்ளப்பட்ட விசேட தேடுதல் நடைவடிக்கையிலேயே மேற்படி கைது சம்பவம் இடம்பெற்றுள்ளது.
+
+இந்நிலையில், குறித்த நபரிடமிருந்து ரூ. 1>50>000 பெறுமதியான 200 மென்செஸ்டர் சிகரெட்டுகள், 440 ஆகொஸ் சிகரெட்டுகள் மற்றும் ப்ளாட்டினம் 7 வகையைச் சேர்ந்த 540 சிகரெட்டுகள் கைப்பற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.S
+
+◼️
+
+[Data](articles/b4539ef2.json)
+
+---
+
+### O/L பரீட்சையில் முறைகேடுகள்: CIDயில் முறைப்பாடு
+
+*2024-05-10 11:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-முறைகேடுகள்-CIDயில்-முறைப்பாடு/175-337080) · `ta`
+
+நாடளாவிய ரீதியில் தற்போது இடம்பெறும் கல்விப் பொதுத் தராதரப் பரீட்சையில் இடம்பெற்ற முறைகேடு தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் இன்று (10) முறைப்பாடுகள் செய்யவுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+பரீட்சை எழுதியவர்கள் நேற்று வழங்கப்பட்ட ஆங்கில வினாத்தாளை செல்போன்களை பயன்படுத்தி படம் எடுத்து மற்ற தரப்பினருக்கு அனுப்பி விடை பெறும் முயற்சியில் ஈடுபட்டுள்ளதாக கூறப்படுகிறது.
+
+குறித்த நேரத்தில் பரீட்சை நிலையங்களில் இருந்த அதிகாரிகள் கையடக்கத் தொலைபேசிகளைக் கைப்பற்றியுள்ளதாக பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
+
+கொழும்பில் உள்ள இரண்டு பரீட்சை நிலையங்களிலும் ஹசலக்க பிரதேசத்தில் உள்ள ஒரு பரீட்சை நிலையத்திலும் இந்த முறைகேடுகள் இடம்பெற்றுள்ளதாக குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/fc0203da.json)
 
 ---
 
@@ -368,17 +450,23 @@ This includes hundreds of the globe's largest corporations, premier universities
 
 ---
 
-### මුජිබර් රහුමාන් යලි පාර්ලිමේන්තුවේ දිවුරුම් දෙයි
+### Mujibur Rahman beat Parliament
 
 *2024-05-10 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්-රහුමාන්-යලි-පාර්ලිමේන්තුවේ-දිවුරුම්-දෙයි/11-409545) · `si`
 
-ඩයනා ගමගේ මන්ත්‍රීවරියගෙන් හිස් වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් මහතා අද (09) උදෑසන යළිත් දිවුරුම් දුන්නා.
+Mujibur Rahman, a former Parliamentarian, was sworn into a vacant parliamentary seat, previously held by Diana Gamage MP. He had earlier left Parliament to run for Mayor of the Colombo Municipal Council.
 
-මීට පෙර පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ මුජිබර් රහුමාන් පළාත් පාලන මැතිවරණය සඳහා කොළඹ මහනගර සභාව වෙනුවෙන් සමගි ජන බලවේගයේ නගරාධිපති අපේක්ෂකයා ලෙස තරග කිරීම සදහා මන්ත්‍රී ධූරයෙන් ඉවත් වුණා.
+🟩
+
+Former Parliamentarian Mujibar Rahuman was sworn in as a parliamentary seat vacant by Diana Gamage MP.
+
+Previously, Mujibar Rahuman, who was previously served as a Member of Parliament, left the selected session to contest the Mayor candidate of the Colombo Municipal Council.
 
 ◼️
 
 [Data](articles/babcbe26.json)
+
+[Extended Data](ext_articles/babcbe26.ext.json)
 
 ---
 
@@ -1664,6 +1752,8 @@ Addressing the media for the first time following the ruling, Gamage levelled ac
 
 [Data](articles/a449bb0f.json)
 
+[Extended Data](ext_articles/a449bb0f.ext.json)
+
 ---
 
 ### Let's stop weapons assistance
@@ -2107,95 +2197,5 @@ Earlier this year, Middlesex County Cricket Club - a tenant at the ground which 
 [Data](articles/af2c326c.json)
 
 [Extended Data](ext_articles/af2c326c.ext.json)
-
----
-
-### Explains the legality of unity proficiency
-
-*2024-05-09 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196455) · `si`
-
-The legality of a non-citizen serving as a political party secretary in Sri Lanka is unclear due to the lack of legal reference requiring party officers to be citizens. The Elections Commission hasn't verified citizenship status, suggesting that the situation of Diana Gamage, a non-citizen secretary, doesn't significantly impact the party's legality.
-
-🟩
-
-A non-citizen of Sri Lanka is the secretary of a political party, how is the legal situation?Former Chairman Mahinda Deshapriya made this statement to the question.
-
-"The Elections Commission has not been able to check whether officers of political parties are Sri Lankan citizens. There is no legal reference to that it is needed. I do not think that the post of Mrs. Diana Gamage is a serious interruption to the legalization of the party. "
-
-◼️
-
-[Data](articles/36d82cc8.json)
-
-[Extended Data](ext_articles/36d82cc8.ext.json)
-
----
-
-### Bill to amend Telecom Regulatory Act to be presented in Parliament tomorrow
-
-*2024-05-09 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99117/bill-to-amend-telecom-regulatory-act-to-be-presented-in-parliament-tomorrow) · `en`
-
-State Minister for Technology, Kanaka Herath, announced that the amended bill to amend the Telecommunications Regulatory Act after 28 years will be presented to the Parliament tomorrow (10). Additionally, he highlighted plans for the drafting of the National Cyber Security Act in May.
-
-The State Minister made these remarks during a press conference conducted today (09) at the Presidential Media Centre (PMC) under the theme “Collective Path to a Stable Country.”
-
-The cabinet approval has endorsed the National Digital Strategy 2030, featuring six key points. Among these, the initial focus is on infrastructure, connectivity, access, skills, literacy, industries, jobs, and establishing a connected digital government. Moreover, emphasis is placed on cyber security, data security, privacy, digital financial services, and the digitization of small and medium-sized businesses.
-
-...
-
-[Data](articles/751a9ddd.json)
-
-[Extended Data](ext_articles/751a9ddd.ext.json)
-
----
-
-### A Sri Lankan who has gone to war in Russian - Ukrainian war
-
-*2024-05-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196454) · `si`
-
-Two Sri Lankans involved in the Russian-Ukrainian war shared their experiences, highlighting the harsh realities of combat and the economic motivations behind their participation. They described the war as more akin to suicide, with no clear path to return home. The conflict, initiated by Russia's invasion of Ukraine on February 24, 2022, has seen the recruitment of mercenaries from various countries, including Sri Lanka, for what Russia hopes will be a swift victory.
-
-🟩
-
-Two Sri Lankans who had gone to Ukrainian war revealed a number of facts with Ada Derana.
-
-They said they were cruel enough to restore members of injuries on the battlefield.
-
-"It was because of our economic problems that we went like that. We don't know anything. Left a jungle in the middle. It is more suicide than a war. There is no return. We are in the day of the day of the bunkers built Ukrainian soldiers. We travel at night. I crawled for a drone attack and a half kilometers. I used all the war tactics used in Sri Lanka. I came back to my home country. "
-
-Meanwhile, police spokesman Nihal Talduuwa, police spokesman, said that the human traffickers were killed in the Russian-Ukrainian war.
-
-On February 24, 2022, the Russian army invaded Ukrainian territory, the Russian Ukraine War began.
-
-Russia believes that the war will end in a short time, but the profile continued to expedite it.
-
-When the men died in the death, they recruited the mercenaries from various countries for war victory.
-
-...
-
-[Data](articles/12d804b3.json)
-
-[Extended Data](ext_articles/12d804b3.ext.json)
-
----
-
-### I am coming back, says Diana
-
-*2024-05-09 21:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-coming-back-says-Diana/108-282262) · `en`
-
-Colombo, May 09 (Daily Mirror) - Former State Minister Diana Gamage, whose parliamentary seat was recently declared illegal by the Supreme Court over her citizenship issue, expressed her determination to return to the political arena.
-
-"I am coming back to politics. I will not leave the country," Gamage asserted, dismissing any notion of retreat despite the legal setback.
-
-Emphasizing her adherence to the law, Gamage told a news briefing today (09) that “I respect the law. However, I will prove my innocence," she affirmed.
-
-Gamage also accused the opposition leader of lacking respect for women.
-
-Despite the legal and personal challenges she faces, Gamage pledged her ongoing support for Ranil Wickremesinghe's political journey, indicating her commitment to the political faction led by Wickremesinghe.
-
-◼️
-
-[Data](articles/c3f392ca.json)
-
-[Extended Data](ext_articles/c3f392ca.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 13:03:20**
+As of **2024-05-10 13:18:19**
 
 ## Newspaper Stats
 
-*Scraped **23,143** Articles*
+*Scraped **23,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 241
 dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
-economynextcom | 1,330
+economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,964
+adalk | 1,965
 tamilmirrorlk | 2,709
 adaderanalk | 2,710
 virakesarilk | 3,439
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,139 (100.0%) of 23,143 articles have been extended.
+23,143 (100.0%) of 23,148 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,17 +54,23 @@ In his meetings, he will reaffirm the United States’ support for Sri Lanka’s
 
 ---
 
-### நாய்களுக்கு கருத்தடை
+### Symptoms for dogs
 
 *2024-05-10 12:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/நாய்களுக்கு-கருத்தடை/75-337083) · `ta`
 
-கட்டாக்காலியாக திரியும் நாய்களின் பெருக்கக்கை கட்டுப்படுத்தும் முகமாக நாய்களுக்கு கருத்தடை செயற்பாடு திருகோணமலை நகரில் வியாழக்கிழமை (09)  இடம் பெற்றது.
+Contraceptive operations for dogs were conducted in Trincomalee to control dog population. The event was attended by officials from the Eastern Province Municipal Council and the Trincomalee Municipal Council, along with the public.
 
-கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களமும் திருகோணமலை நகரசபையும் இனைந்து திருகோணமலை நகரில் முன்னெடுத்த இந் நிகழ்வில் கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களத்தின் மாகாணப்பணிப்பாளர் , திருகோணமலை நகரசபையின் செயலாளர் வெ. இராஜசேகர் உட்பட பலர் கலந்து கொண்டனர்.
+🟩
+
+The contraceptive operations for dogs were held on Thursday (09) in Trincomalee to control the multiplication of dogs.
+
+The Eastern Province Municipal Council and the Secretary of the Municipal Council of the Eastern Provincial Council, Trincomalee Municipal Council, and the Trincomalee Municipal Council of the Eastern Provincial Health Department, Trincomalee Municipal Council. Many people, including Rajasekhar, attended.
 
 ◼️
 
 [Data](articles/a9bbdb33.json)
+
+[Extended Data](ext_articles/a9bbdb33.ext.json)
 
 ---
 
@@ -94,23 +100,31 @@ Samajith Premadasa, Chief Secretary Ranjith Madduadara, the General Secretary Ra
 
 ---
 
-### அதீத வெப்பத்தால் மற்றுமொருவர் உயிரிழப்பு
+### Excessive heat
 
 *2024-05-10 12:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-வெப்பத்தால்-மற்றுமொருவர்-உயிரிழப்பு/71-337082) · `ta`
 
-யாழ்ப்பாணத்தில் நிலவும் அதீத வெப்பம் காரணமாக மற்றுமொருவர்  உயிரிழந்துள்ளார்.  புன்னாலைக்கட்டுவன் தெற்கை சேர்ந்த சிவஞானம் ஜெயக்குமார் (வயது 47) என்பவரே உயிரிழந்துள்ளார்.
+A 47-year-old man, Sivagnanam Jayakumar, died from heatstroke in Jaffna. He fell unconscious at home and was found by his family, who rushed him to the hospital, but he was already dead. The cause of death was confirmed as heatstroke.
 
-குறித்த நபர்   வியாழக்கிழமை (09) வீட்டில் தனித்திருந்த போது , வீட்டின் பின் பகுதிக்கு சென்ற வேளை திடீரென மயக்கம் ஏற்பட்டு விழுந்துள்ளார்.
+🟩
 
-சுமார் 04 மணி நேரத்தின் பின்னர் அவரது குடும்பத்தினர் வீடு திரும்பி, வீட்டில் இருந்தவரை காணவில்லை என தேடிய போது , வீட்டின் பின் முற்றத்தில் கடும் வெய்யிலுக்குள் விழுந்து கிடந்ததை கண்ணுற்று அவரை மீட்டு , தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு சென்றனர்.
+Another person has died due to extreme heat in Jaffna.The deceased is Sivagnanam Jayakumar (47 years old) from Punnalaikkattuvan south.
 
-வைத்தியசாலையில் அனுமதித்த போது அவர் ஏற்கெனவே உயிரிழந்து விட்டார் என வைத்தியர்கள் அறிக்கையிட்டனர்.
+When the man was alone at home on Thursday (09), he went to the back of the house and suddenly fell unconscious.
 
-உடலில் வெப்ப கொப்பளங்கள் காணப்பட்டதாகவும் , அவரது உயிரிழப்புக்கு அதிக வெப்பமே காரணம் என உடற்கூற்று அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+About 4 hours later, his family returned home and searched for the home, where he was found lying in the back yard of the house and rescued him and took him to the Tellippalai hospital.
 
-...
+Doctors reported that he had already died when she was admitted to the hospital.
+
+The anatomical report noted that the body was found in the body and the heat was the cause of his death.
+
+Meanwhile, during a media briefing held at the Jaffna Bodhana Hospital a few days ago, the general doctor Ri has died in the recent "Heat Stroke" in patients who have been treated in Jaffna.. It is noteworthy that Perinbaraja said.
+
+◼️
 
 [Data](articles/8cdd1a9a.json)
+
+[Extended Data](ext_articles/8cdd1a9a.ext.json)
 
 ---
 
@@ -178,37 +192,65 @@ Authorities are currently continuously pursuing leads related to the trafficking
 
 ---
 
-### சட்டவிரோத சிகரட்டுகளுடன் ஒருவர் கைது
+### Arrest of someone with illegal cigarettes
 
 *2024-05-10 12:10:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337081) · `ta`
 
-சட்டவிரோத சிகரட்டுகள் வைத்திருந்த குற்றத்தின்பேரில், 43 வயதான சந்தேக நபர் ஒருவர், அம்பலாந்தோட்டைப் பகுதியில் நேற்று பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A 43-year-old was arrested in Ambalantottai for illegal cigarettes during a special search. 200 Manchester, 440 Acos, and 540 Platinum 7 cigarettes were seized.
 
-மேலும், அம்பலாந்தோட்டை நகர்ப் பகுதியில் மேற்கொள்ளப்பட்ட விசேட தேடுதல் நடைவடிக்கையிலேயே மேற்படி கைது சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-இந்நிலையில், குறித்த நபரிடமிருந்து ரூ. 1>50>000 பெறுமதியான 200 மென்செஸ்டர் சிகரெட்டுகள், 440 ஆகொஸ் சிகரெட்டுகள் மற்றும் ப்ளாட்டினம் 7 வகையைச் சேர்ந்த 540 சிகரெட்டுகள் கைப்பற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.S
+A 43 -year -old suspect was arrested by police yesterday in Ambalantottai on charges of possessing illegal cigarettes.
+
+Also, the arrest was taken during a special search operation in the Ambalantota town.
+
+In this case, the person from the person. It is worth noting that 200> 50> 000, 200 Manchester cigarettes, 440 Acos cigarettes and 540 cigarettes of Platinum 7 have been seized.
 
 ◼️
 
 [Data](articles/b4539ef2.json)
 
+[Extended Data](ext_articles/b4539ef2.ext.json)
+
 ---
 
-### O/L பரீட்சையில் முறைகேடுகள்: CIDயில் முறைப்பாடு
+### අහුන්ගල්ලේ ඝාතකයන් පැමිණි යතුරු පැදිය සොයා ගනී
+
+*2024-05-10 12:01:49* · [`adalk`](https://www.ada.lk/breaking_news/අහුන්ගල්ලේ-ඝාතකයන්-පැමිණි-යතුරු-පැදිය-සොයා-ගනී/11-409546) · `si`
+
+විදේශගතව සිට්න සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම් කරුවකු වන අහුන්ගල්ලේ පදිංචිකරුවෙකු වූ  ආබ්‍රෙව් හෙවත් බබා ගේ පියා වන  54 හැවිරිදි කලුහත් කීර්තිසේන ආබ්‍රෙව් නැමැත්තාට  වෙඩි තබා ඝාතනය කළ  ඝාතකයන් දෙදෙනා පැමිණි බවට සැක කෙරෙන යතුරු පැදිය බාන්වැල්දූව ප්‍රදේශයේ කුරුඳු ඉඩමක ගිනි තබා තිබියදී අද පෙරවරුවේ සොයාගත් බව කොස්ගොඩ පොලීසිය කියයි.
+
+ලැබුණු තොරතුරක් අනුව මෙම යතුරු පැදිය සොයා ගන්නා විට හඳුනා ගත නොහැකි සේ ගිනි තබා තිබූ බව කොස්ගොඩ පොලිසිය පැවසීය.
+
+ඉකුත් 8 දා රාත්‍රි 8 ට පමණ අහුන්ගල්ල බෝගහපිටිය ලෝකන්වත්ත ප්‍රදේශයේ නිවසකදී යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් කුඩා ගිනි අවියකින් වෙඩි තබා මෙම ඝාතනය සිදුකර පැමිණි  යතුරු පැදියෙන්ම පළාගොස්  තිබිණි. අහුන්ගල්ල සහ කොස්ගොඩ පොලීසි මේ පිළිබඳ වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/e0994e2c.json)
+
+---
+
+### O/L Examinations: Complaints in CID
 
 *2024-05-10 11:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-முறைகேடுகள்-CIDயில்-முறைப்பாடு/175-337080) · `ta`
 
-நாடளாவிய ரீதியில் தற்போது இடம்பெறும் கல்விப் பொதுத் தராதரப் பரீட்சையில் இடம்பெற்ற முறைகேடு தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் இன்று (10) முறைப்பாடுகள் செய்யவுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+Amit Jayasundara, Commissioner General of Examinations, will lodge complaints at CID for exam irregularities, including photo-taking of English question papers. Mobile phones were confiscated at exam stations. Issues reported at two Colombo centers and one in Hasalaka.
 
-பரீட்சை எழுதியவர்கள் நேற்று வழங்கப்பட்ட ஆங்கில வினாத்தாளை செல்போன்களை பயன்படுத்தி படம் எடுத்து மற்ற தரப்பினருக்கு அனுப்பி விடை பெறும் முயற்சியில் ஈடுபட்டுள்ளதாக கூறப்படுகிறது.
+🟩
 
-குறித்த நேரத்தில் பரீட்சை நிலையங்களில் இருந்த அதிகாரிகள் கையடக்கத் தொலைபேசிகளைக் கைப்பற்றியுள்ளதாக பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
+Commissioner General of Examinations Amit Jayasundara said that complaints will be lodged at the Criminal Investigation Department (CID) today (10) on the irregularities that have been held across the country.
 
-கொழும்பில் உள்ள இரண்டு பரீட்சை நிலையங்களிலும் ஹசலக்க பிரதேசத்தில் உள்ள ஒரு பரீட்சை நிலையத்திலும் இந்த முறைகேடுகள் இடம்பெற்றுள்ளதாக குறிப்பிடப்படுகின்றது. R
+It is said that the writers of the exam have been trying to take the picture of the English questionnaire issued yesterday and send them to the other side.
+
+The Department of Examinations said that the officers at the examination stations had seized mobile phones.
+
+The irregularities have been reported at two examination centers in Colombo and an examination center in Hasalaka area.. Remble
 
 ◼️
 
 [Data](articles/fc0203da.json)
+
+[Extended Data](ext_articles/fc0203da.ext.json)
 
 ---
 
@@ -636,6 +678,28 @@ The urgency of this call stems from the upcoming elections, which historically h
 
 ---
 
+### Sri Lanka rupee opens flat at 298.40/80 to US dollar
+
+*2024-05-10 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-298-40-80-to-us-dollar-162473/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened almost flat at 298.40/80 to the US dollar on Friday from 298.65/80 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 was quoted down at 10.58/65 percent from 10.60/65 percent.
+
+A bond maturing on 15.09.2027 was quoted up at 10.95/11.00 percent from 10.90/11.00 percent.
+
+A bond maturing on 15.03.2028 was quoted stable at 11.35/45 percent.
+
+A bond maturing on 15.12.2028 was quoted at 11.50/60 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.28 percent at 12,432, and the S&P SL20 was up 0.55 percent at 3,692. (Colombo/May10/2024)
+
+◼️
+
+[Data](articles/fd5e3495.json)
+
+---
+
 ### Mujibur sworn in as a National List MP
 
 *2024-05-10 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-sworn-in-as-a-National-List-MP/108-282301) · `en`
@@ -780,6 +844,24 @@ The Inter University Trade Union Federation Mr. Richmond said that when a defini
 
 ---
 
+### Sri Lanka Central Bank in push to tighten SIM re-issue over mobile banking scam
+
+*2024-05-10 09:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-in-push-to-tighten-sim-re-issue-over-mobile-banking-scam-162467/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank is in discussions with the telecom regulator to tighten the re-issue of mobile subscriber identification modules (SIMs) as part of efforts to stop mobile phone banking fraud, Director of Payments and Settlements K V K Alwis.
+
+The central bank together with banks are tightening security on an ongoing basis as hackers and other fraudsters develop new ways to defraud customers.
+
+One such method is to re-issue a mobile sim of a mobile phone banking customer whose account number and telephone number is known to the fraudster by persuading a mobile phone agent to re-issue a sim claiming it has been lost without submitting an identity card in person.
+
+In late evening a new chip is activated and the fraudster logs on to the account, issues a new password through a one time password (OTP) sent to the newly issued SIM and takes all the money out.
+
+...
+
+[Data](articles/eb7dd6d5.json)
+
+---
+
 ### Complaints regarding the malpractices of the GCE Ordinary Level Examination
 
 *2024-05-10 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196464) · `si`
@@ -845,6 +927,26 @@ Police said that a 65-year-old woman was found and she was a resident of Berawew
 [Data](articles/c1d59a95.json)
 
 [Extended Data](ext_articles/c1d59a95.ext.json)
+
+---
+
+### Sri Lanka waits for clearance to implement India-funded Unique ID card project
+
+*2024-05-10 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-waits-for-clearance-to-implement-india-funded-unique-id-card-project-162464/) · `en`
+
+ECONOMYNEXT – Sri Lankan government is waiting for clearance from Public Security Ministry to go ahead with a dragged India-funded Unique ID card project, State Technology Minister Kanaka Herath said.
+
+The key stakeholders including President Ranil Wickremesinghe will meet on Friday to discuss (10) the latest on the project, he said.
+
+The project has faced delay while President Wickremesinghe’s government has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process last year.
+
+The project which has raised concerns over data privacy of Sri Lankan citizens and protection of personal data is yet to go for rebidding after last year’s cancellation.
+
+“We have finished the procurement and we are trying to advertise it. For that we need to get the cabinet approval,” Herath told reporters on Thursday (09) at a media briefing in Colombo.
+
+...
+
+[Data](articles/b7d8a259.json)
 
 ---
 
@@ -2105,97 +2207,5 @@ A complaint has been lodged with the Maharagama Police Station and the police ha
 [Data](articles/9746776b.json)
 
 [Extended Data](ext_articles/9746776b.ext.json)
-
----
-
-### Two floating solar pilot projects implemented on Chandrika Wewa, Kiriibban Wewa
-
-*2024-05-09 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-floating-solar-pilot-projects-implemented-on-Chandrika-Wewa-Kiriibban-Wewa/108-282268) · `en`
-
-Colombo, May 9 (Daily Mirror) - Two floating solar pilot projects were implemented on Chandrika Wewa in Embilipitiya and Kiriibban Wewa in Sewanagala and will be completed by July 2024, the Power and Energy Ministry said.
-
-They said the project was implemented with the partnership of the Sustainable Energy Authority and with financial and technical assistance of the Republic of Korea.
-
-The two projects of 01 MW each on Chandrika Wewa in Embilipitiya and Kiriibban Wewa in Sewanagala were constructed with a financial grant from the Korea Institute for Advancement of Technology of the Korean Ministry of Trade, Industry and Energy and implemented with the technical assistance and construction by Yooshing Engineering (Pvt) Ltd., Bosung Powertec Co. Ltd., and Scotra Company Ltd.
-
-◼️
-
-[Data](articles/3b6540d1.json)
-
-[Extended Data](ext_articles/3b6540d1.ext.json)
-
----
-
-### Customs find Rs.40Mn worth gold gel from passenger’s underwear
-
-*2024-05-09 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-find-Rs-40Mn-worth-gold-gel-from-passengers-underwear/108-282267) · `en`
-
-Colombo, May 9 (Daily Mirror) - Sri Lankan passenger who tried to smuggle in gold gel worth of Rs.40 million, which had been concealed in his undergarment was nabbed by the Customs at the Bandaranaike International Airport (BIA) this morning.
-
-Officials of the Customs Narcotic Control Unit stationed at the BIA Arrival Terminal searched a passenger on suspicion and found the contraband hidden in his underwear and shoes.
-
-Customs Spokesperson Additional Director General Seevali Arukgoda said three packages contained 1, 975 grams (1.9Kg).
-
-The suspect, who is aged 25 years has come from Dubai and had arrived in the country on Emirates flight EK 650. He was detained for further inquiries.
-
-◼️
-
-[Data](articles/1252fca5.json)
-
-[Extended Data](ext_articles/1252fca5.ext.json)
-
----
-
-### Maskeliya youth died in Malaysia
-
-*2024-05-09 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183095) · `ta`
-
-Rajakumar Davidson, a 24-year-old from Maskeliya, died in Malaysia after a boiler accident. He was injured on the 24th and died on the 5th without treatment. His body will be flown back to Sri Lanka on Wednesday.
-
-🟩
-
-Rajakumar Davidson, a 24 -year -old youth from Maskeliya Modinghem estate, has died in Malaysia.
-
-He was admitted to a private hospital in Kuala Lumpur after being injured when a boiler was fell into a boiler on the 24th of last month.
-
-Investigations have reported that he died without treatment on the morning of the 5th of this month.
-
-The body of the youth will be brought to the Katunayake airport at 11.30 pm on Wednesday (8).
-
-In this case, his father said that the body to be handed over to the young man's father would be taken to his hometown of Maskeliya Mottinghem.
-
-◼️
-
-[Data](articles/cf75780c.json)
-
-[Extended Data](ext_articles/cf75780c.ext.json)
-
----
-
-### Plans approved for £61.8m redevelopment of Lord’s
-
-*2024-05-09 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-approved-for-61-8m-redevelopment-of-Lords/108-282265) · `en`
-
-(BBC) - Plans for a £61.8m redevelopment of two stands at Lord's have been approved.
-
-The work, voted through by Marylebone Cricket Club (MCC) members last week, will increase the ground's capacity by 1,100 seats.
-
-The existing Allen Stand will be demolished and rebuilt with an extra tier added.
-
-Meanwhile, a fourth level will also be built on to the Tavern Stand.
-
-Construction is due to begin at the end of the current season in September and be completed by 2027.
-
-The redevelopment will provide improved catering, hospitality and accessibility, the MCC says.
-
-A £53m project to redevelop the Compton and Edrich stands at Lord's was completed in 2021 to take capacity to 31,000.
-
-Earlier this year, Middlesex County Cricket Club - a tenant at the ground which is owned by the MCC - said they were considering leaving Lord's.
-
-◼️
-
-[Data](articles/af2c326c.json)
-
-[Extended Data](ext_articles/af2c326c.ext.json)
 
 ---

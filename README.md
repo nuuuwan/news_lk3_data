@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 08:33:48**
+As of **2024-05-10 08:52:10**
 
 ## Newspaper Stats
 
-*Scraped **23,101** Articles*
+*Scraped **23,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,961
-tamilmirrorlk | 2,698
+tamilmirrorlk | 2,700
 adaderanalk | 2,703
 virakesarilk | 3,436
 dailymirrorlk | 3,632
@@ -26,21 +26,45 @@ adaderanasinhalalk | 3,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,099 (100.0%) of 23,101 articles have been extended.
+23,101 (100.0%) of 23,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### කැලෑබද ප්‍රදේශයක කාන්තා සිරුරක්
+### வானிலையில் ஏற்பட்ட திடீர் மாற்றம்
+
+*2024-05-10 08:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-ஏற்பட்ட-திடீர்-மாற்றம்/175-337067) · `ta`
+
+நாட்டின் பெரும்பாலான மாகாணங்களில் பல இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடமத்திய, மத்திய, சப்ரகமுவ, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் முல்லைத்தீவு மாவட்டத்திலும் சில இடங்களில் 100 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் தென் மாகாணங்களிலும் புத்தளம் மாவட்டத்திலும் பல இடங்களில் காலை வேளையிலும் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/e44a055f.json)
+
+---
+
+### A female body in a forest area
 
 *2024-05-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196463) · `si`
 
-පොලීසිය සඳහන් කළේ 65 හැවිරිදි කාන්තාවකගේ සිරුරක් එලෙස හමුවී ඇති අතර ඇය බෙරවිල පටිතලාව ප්‍රදේශයේ පදිංචිකාරියක් බවය.
+A 65-year-old woman was discovered in a forest near Berawewa Palapitalawa.
+
+🟩
+
+Police said that a 65-year-old woman was found and she was a resident of Berawewa Palapitalawa area.
 
 ◼️
 
 [Data](articles/c1d59a95.json)
+
+[Extended Data](ext_articles/c1d59a95.ext.json)
 
 ---
 
@@ -59,6 +83,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/388305eb.json)
+
+[Extended Data](ext_articles/388305eb.ext.json)
 
 ---
 
@@ -791,6 +817,22 @@ The police are conducting further investigations to the arrested persons.
 [Data](articles/e06aff42.json)
 
 [Extended Data](ext_articles/e06aff42.ext.json)
+
+---
+
+### ’சவால்களை ஏற்று ஜனாதிபதி செயல்பட்டார்’
+
+*2024-05-10 01:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-ஏற்று-ஜனாதிபதி-செயல்பட்டார்/175-337065) · `ta`
+
+நாடு பொருளாதார ரீதியில் வீழ்ச்சியடைந்த போது ஜனாதிபதி ரணில் விக்கிரமசிங்க சவால்களுக்குப் பயந்து ஓடாமல், அதனை வெற்றிகரமாக எதிர்கொண்டதால் இரண்டு வருடங்களின் பின்னர் நாட்டை ஸ்திரப்படுத்த முடிந்துள்ளது என்று ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+ஒரு பில்லியன் ரூபாவுக்கும் அதிகமான முதலீட்டில் கடுவெல, மாபிம பிரதேசத்தில் நிறுவப்பட்ட லிட்ரோ எரிவாயு நிறுவனத்தின் புதிய எரிவாயு நிரப்பு நிலையத்தைத் திறந்து வைக்கும் நிகழ்வு நேற்று முன்தினம் நடைபெற்றது. இந்த நிகழ்வில் சாகல ரத்நாயக்க இவ்வாறு குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+சகல புள்ளிவிவரங்களையும் அவதானித்தால், ஒரு நாடாக நல்ல பொருளாதார வளர்ச்சி ஏற்பட்டு வருகிறது. இரண்டு வருட பொருளாதார நெருக்கடிக்குப் பிறகு, முதன்மைக் கணக்கு இருப்பு உபரியாக மாறியுள்ளது. ரூபாயின் பெறுமதி வேகமாக வலுவடைந்து வருகிறது. நாடு நிலையானது மட்டுமல்ல, பணவீக்கமும் கட்டுப்பாட்டுக்குள் உள்ளது. எதிர்காலத்தில் மேலும் சவால்கள் உள்ளன.
+
+...
+
+[Data](articles/398904cf.json)
 
 ---
 
@@ -2143,55 +2185,5 @@ The minister said that the cabinet has endorsed the National Digital Strategy 20
 [Data](articles/64599b52.json)
 
 [Extended Data](ext_articles/64599b52.ext.json)
-
----
-
-### Mark Andrew and Anura Dissanayake met
-
-*2024-05-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196447) · `si`
-
-Mark Andrew Fench, Sri Lanka's Resident Coordinator, met with Anura Kumara Dissanayake, leader of the National Power, at the JVP Head Office. The meeting, also attended by Patrick Makartha of the UN Peace and Development and Vijitha Herath of the National Power, focused on Sri Lanka's human rights, unity, and reconciliation. They discussed a code of ethics for future elections, emphasizing the importance of a culture based on ethics from the start. The proposals were fully supported.
-
-🟩
-
-A meeting between Sri Lanka Resident Coordinator Mark Andrew Fench and Leader of the National Power Anura Kumara Dissanayake.
-
-That was at the Head Office of the JVP this afternoon.
-
-Patrick Makarthai, Advisory Peace and Development of the United Nations Peace and Development Patrick Makartha, and the National Executive Councilor Vijitha Herath of the National Power and National Power.
-
-The meeting has been exchanged length with the human rights situation, unity and reconciliation process in Sri Lanka.
-
-The United Nations Representatives of the United Nations who have powdled the reconciliation process in particular is also also focused on a code of ethics to be followed by political parties in the future election process.
-
-The national culture emphasized that the political culture emphasized that it is based on a code of ethics from the beginning. The proposals made by representatives have been fully supported.
-
-◼️
-
-[Data](articles/892a20d9.json)
-
-[Extended Data](ext_articles/892a20d9.ext.json)
-
----
-
-### History: MGR came to see the soil of birth!: October 22, 1965 ...
-
-*2024-05-09 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183082) · `ta`
-
-MGR, former Tamil Nadu CM, visited Sri Lanka on October 21, 1965, to see his birthplace in Kandy. He held a press conference in Galle Face, where he announced plans to film in Eelam, as reported by Weerakesari magazine on October 22, 1965.
-
-🟩
-
-Former Chief Minister of Tamil Nadu. After being born in Kandy and taken to India as a child, it was October 21, 1965 to visit Sri Lanka to see the soil for the first time.
-
-MGR at a press conference held at a hotel in Galle Face that evening.. Speaking.
-
-MGR. And the photo taken by Sarojadevi and the MGR spoke at the conference, the Weerakesari magazine published on October 22, 1965, "I am planning to film in Eelam: MG. The announcement of Ramachandran's announcement was published.
-
-◼️
-
-[Data](articles/2a7b9f7e.json)
-
-[Extended Data](ext_articles/2a7b9f7e.ext.json)
 
 ---

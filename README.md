@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 10:33:33**
+As of **2024-05-10 10:51:26**
 
 ## Newspaper Stats
 
-*Scraped **23,116** Articles*
+*Scraped **23,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,963
-tamilmirrorlk | 2,701
+tamilmirrorlk | 2,702
 adaderanalk | 2,706
 virakesarilk | 3,436
 dailymirrorlk | 3,634
@@ -26,29 +26,49 @@ adaderanasinhalalk | 3,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,115 (100.0%) of 23,116 articles have been extended.
+23,116 (100.0%) of 23,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### මත්ද්‍රව්‍ය සමග සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested with drug
 
 *2024-05-10 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196468) · `si`
 
-රාගම පොලීසියට ලද තොරතුරක් අනුව මාර්ග බාධකයක් යොදා රථවාහන පරීක්ෂා කිරීමේදී මත්ද්‍රව්‍ය සමග සැකකරුවෙක් අත්අඩංගුවට ගැනීමට හැකිවී තිබේ.
+A suspect, Bass Roshan, was arrested in Ragama with 102 grams of heroin and 940 milligrams, worth over Rs. 25 lakhs, revealing his involvement in a heroin racket.
 
-එහිදී මෝටර් රථය තුළ තිබී හෙරොයින් ග්‍රෑම් 102යි මිලිග්‍රෑම් 940ක් සොයාගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් 45 හැවිරිදි සැකකරු රාගම කැන්දලියැද්ද ප්‍රදේශයේ පදිංචි 'බාස් රොෂාන්' නමින් හඳුන්වන පුද්ගලයෙකු බව පොලීසිය පවසයි.
+According to information received by the Ragama Police, a suspect with drugs has been arrested in the vehicle.
 
-මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් ලක්ෂ 25කට අධික බවද පොලීසිය සඳහන් කරයි.
+102 grams of heroin found in the car and 940 milligrams of heroin.
 
-අදාළ සැකකරු හෙරොයින් ජාවාරම සම්බන්ධයෙන් ඇප මත නිදහස්ව සිටින පුද්ගලයෙකු බවද හෙළිවී ඇත.
+The 45 year-old suspect is known as 'Bass Roshan' residing in Ragama, police said.
+
+The stock of drug stock is worth over Rs. 25 lakhs.
+
+It is revealed that the suspect is an exemption of heroin racket.
 
 ◼️
 
 [Data](articles/ad20b7a8.json)
+
+[Extended Data](ext_articles/ad20b7a8.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினரானார் முஜிபுர்
+
+*2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/175-337069) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில், பாராளுமன்ற உறுப்பினராக முஜிபுர் ரஹ்மான் இன்று (10) சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+டயானா கமகே பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து வெற்றிடமான இடத்துக்கு முஜிபுர் ரஹ்மான் நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7dc7fd6b.json)
 
 ---
 
@@ -2193,29 +2213,5 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from 
 [Data](articles/0960b87a.json)
 
 [Extended Data](ext_articles/0960b87a.ext.json)
-
----
-
-### The time of deceiving people is over late this year
-
-*2024-05-09 19:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-රැවටීමේ-කාලය-මේ-වසරේ-අග-අවසන්/11-409536) · `si`
-
-Opposition Leader Sajith Premadasa declared in parliament that the era of deception in the country is nearing its end, with truth set to prevail by the year's end. He emphasized the need for economic expansion to address poverty and unemployment, criticizing the government's handling of rising costs like oil, gas, and electricity prices. He concluded with a quote from Abraham Lincoln, highlighting the inevitability of truth's victory over deception.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the time of deception of the country is ending the end of this year and the truth will win the country accordingly.
-
-The statement made by the President responded in parliament today (09), he said.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"I would like to tell the President a program to expand the economy without the least and please the economy who is smaller.. The economy cannot solve the country's problems by smaller. The economy needs to expand. The creation of poverty cannot be solved.
-
-...
-
-[Data](articles/c9a82b4c.json)
-
-[Extended Data](ext_articles/c9a82b4c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 00:33:38**
+As of **2024-05-11 00:50:41**
 
 ## Newspaper Stats
 
-*Scraped **23,242** Articles*
+*Scraped **23,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,341
-dailyftlk | 1,344
+dailyftlk | 1,352
 adalk | 1,973
 tamilmirrorlk | 2,721
 adaderanalk | 2,723
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,239 (100.0%) of 23,242 articles have been extended.
+23,242 (100.0%) of 23,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,6 +116,8 @@ On Sunday, May 12, the United Nations (UN) marks International Day of Plant Heal
 
 [Data](articles/923b8ddd.json)
 
+[Extended Data](ext_articles/923b8ddd.ext.json)
+
 ---
 
 ### Will the approaching elections be free and fair?
@@ -131,6 +133,8 @@ If we are going by a recent communication by the election monitoring body, the P
 ...
 
 [Data](articles/e966b315.json)
+
+[Extended Data](ext_articles/e966b315.ext.json)
 
 ---
 
@@ -152,6 +156,8 @@ He also said that even the stomach can be fatally damaged through this, and even
 
 [Data](articles/4d46e477.json)
 
+[Extended Data](ext_articles/4d46e477.ext.json)
+
 ---
 
 ### Padma Bhushan Award for Vijayakanth
@@ -171,6 +177,126 @@ Premalatha Vijayakanth, who participated on behalf of Vijayakanth, received the 
 [Data](articles/beb07d3b.json)
 
 [Extended Data](ext_articles/beb07d3b.ext.json)
+
+---
+
+### Largest ever housing and construction expo kicks off at BMICH
+
+*2024-05-10 23:38:59* · [`dailyftlk`](https://www.ft.lk/business/Largest-ever-housing-and-construction-expo-kicks-off-at-BMICH/34-761650) · `en`
+
+From left: Urban Development and Housing Ministry Secretary W.S. Sathyananda, Embassy of China 2nd Secretary Wang Jian, CIDA Chairman Eng. R.H. Ruvinis, and CCISL President Jayantha Perera opening the Build Sri Lanka Housing and Construction Expo 2024 at the BMICH yesterday.
+
+The premier three-day Build Sri Lanka Housing and Construction International Expo organised by the Chamber of Construction Industry (CCI) kicked off yesterday at the BMICH.
+
+Build Sri Lanka 2024 showcases the latest developments in the building and construction industry, with eminent industry experts, stakeholders and decision makers in attendance, making it an ideal event to source new products, network and usher in new contacts and business opportunities.  Over 50,000 trade visitors are expected over the course of the event, looking to source the latest, inventive products on offer, not accessible otherwise in the local market, in addition to new product launches.
+
+...
+
+[Data](articles/68030906.json)
+
+---
+
+### Rani Sandalwood tributes loyal consumers with gold sovereigns
+
+*2024-05-10 23:37:02* · [`dailyftlk`](https://www.ft.lk/business/Rani-Sandalwood-tributes-loyal-consumers-with-gold-sovereigns/34-761649) · `en`
+
+The Swadeshi Industrial Works PLC has launched yet another exciting promotion for the loyal consumers of Rani Sandalwood soap with weekly offer of three 22 Carat gold sovereigns for six weeks.
+
+Consumers who Post or WhatsApp (077 0089716) or Inbox Rani Sandalwood facebook page with two empty cartons of Rani Sandalwood Soap with their name, national identity card number and telephone number to “Rani Sadun Ran Rajiniyan” P.O. Box 04, Kandana are eligible to win 18 nos. 22 Carat gold sovereigns worth of Rs. 3 million over a period of six weeks, the company announced.
+
+The promotion gets underway from May 2024 to 30 June and winners will be chosen at weekly raffle draws. Rani Sandalwood consumers can visit and like the Rani Sandalwood Facebook page for further information and updates.
+
+...
+
+[Data](articles/7960dcca.json)
+
+---
+
+### HNB General Insurance launches hotline
+
+*2024-05-10 23:36:51* · [`dailyftlk`](https://www.ft.lk/business/HNB-General-Insurance-launches-hotline/34-761648) · `en`
+
+HNB General Insurance has recently launched its dedicated hotline ‘1303’, unleashing their latest initiative for enhanced customer experience.
+
+The new hotline ‘1303’ is set to be a game changer for both the company and for customers alike by elevating convenience and accessibility to new heights.
+
+HNB General Insurance has long been committed to delivering exceptional service and care to its customers across Sri Lanka. And the significance of hotline 1303 lies in its promise of instant assistance and personalised support.
+
+Customers can now access expert help with just a simple phone call, eliminating the need for lengthy wait times and cumbersome processes. Whether it’s filing a claim, updating a policy, or seeking information, hotline 1303 ensures that customers receive prompt and reliable service at their fingertips.
+
+...
+
+[Data](articles/993602e6.json)
+
+---
+
+### Deplorable debt: Is Sri Lanka caught between IMF and IIF?
+
+*2024-05-10 23:28:19* · [`dailyftlk`](https://www.ft.lk/columns/Deplorable-debt-Is-Sri-Lanka-caught-between-IMF-and-IIF/4-761647) · `en`
+
+Still, the country is reeling from its socio-economic and political debacle without a clear visionary leadership putting the country on a recovery path
+
+Sri Lanka is battling with the current crisis because of irresponsible borrowing and investment in wasteful projects. The Supreme Court has given a ruling pointing out the responsible policymakers and concerned Government officials who contributed to the mismanagement of the economy. But it is good to remember stupidity is not a crime in the eyes of law, hence marginalised and vulnerable populations sacrifice future prosperity for sins of the corrupt and greedy
+
+...
+
+[Data](articles/75bbbde7.json)
+
+---
+
+### ‘Keeping humanity alive’: World Red Cross and Red Crescent Day 2024
+
+*2024-05-10 23:21:17* · [`dailyftlk`](https://www.ft.lk/news/Keeping-humanity-alive-World-Red-Cross-and-Red-Crescent-Day-2024/56-761645) · `en`
+
+World Red Cross and Red Crescent Day marked on 8 May is of significance and reflection, honouring the legacy of Henry Dunant, the founder of the Red Cross and Red Crescent Movement, and the Movement’s enduring commitment to humanitarian action for over 160 years. This year’s theme “Keeping humanity alive” resonates deeply with the spirit of the Red Cross and Red Crescent Movement in a world inundated by armed conflict and violence, natural disasters, climate-related crises, epidemics, food insecurity and mass displacement.
+
+...
+
+[Data](articles/daba45fe.json)
+
+---
+
+### High Commissioner’s visit underscores India’s special relationship with Eastern Province
+
+*2024-05-10 23:20:12* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-s-visit-underscores-India-s-special-relationship-with-Eastern-Province/56-761644) · `en`
+
+High Commissioner of India Santosh Jha undertook an official visit to Eastern Province, covering all the three districts, from 1-4 May.
+
+He met Eastern Province Governor Senthil Thondaman and interacted with several MPs representing the three districts of the province during the visit. In addition, he took stock of several projects being implemented by the Government of India (GOI) for the people of the province and visited various sites of historical, cultural and commercial significance.
+
+...
+
+[Data](articles/31c3bc79.json)
+
+---
+
+### Japan and UN Women unite to advance women, peace and security agenda in Sri Lanka
+
+*2024-05-10 23:19:07* · [`dailyftlk`](https://www.ft.lk/news/Japan-and-UN-Women-unite-to-advance-women-peace-and-security-agenda-in-Sri-Lanka/56-761643) · `en`
+
+The Government of Japan and UN Women launched the project “Pathways to Peace” aimed at strengthening women’s economic empowerment and their leadership in peacebuilding and conflict prevention in Sri Lanka.
+
+It aims to support the implementation of the National Action Plan (NAP) on Women, Peace and Security (WPS) which the Government of Japan has been assisting Sri Lanka with since 2018 as its partner country.
+
+In February 2023, Sri Lanka adopted its first NAP on WPS, in keeping with its international obligations under UN Security Council Resolution 1325 (2000). The development of this Plan was led by Sri Lanka’s Ministry of Women, Child Affairs, and Social Empowerment, with technical support from UN Women and with funding from the Government of Japan.
+
+...
+
+[Data](articles/d1299861.json)
+
+---
+
+### Artificial Limb Camp by India
+
+*2024-05-10 23:18:29* · [`dailyftlk`](https://www.ft.lk/news/Artificial-Limb-Camp-by-India/56-761642) · `en`
+
+A camp to provide artificial limbs to 1,000 Sri Lankan beneficiaries was jointly inaugurated on 7 May by High Commissioner of India to Sri Lanka Santosh Jha and State Minister of Defence Premitha Bandara Tennakoon in the presence of Defence Secretary Gen. Kamal Gunaratne and Sri Lankan Army Commander Lt. Gen. Vikum Liyanage at the Ranaviru Seva Authority premises in Gampaha district.
+
+The camp will be conducted roughly over a period of two months at two locations viz Colombo and Vavuniya, and will serve civilians and defence personnel from different regions of the country. The civilian beneficiaries have been identified with the support of All Ceylon Buddhist Congress.
+
+...
+
+[Data](articles/c0e8746d.json)
 
 ---
 
@@ -2101,187 +2227,5 @@ At the same time, the three accused of the victim's grandmother have been ordere
 [Data](articles/23f4446a.json)
 
 [Extended Data](ext_articles/23f4446a.ext.json)
-
----
-
-### Symptoms for dogs
-
-*2024-05-10 12:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/நாய்களுக்கு-கருத்தடை/75-337083) · `ta`
-
-Contraceptive operations for dogs were conducted in Trincomalee to control dog population. The event was attended by officials from the Eastern Province Municipal Council and the Trincomalee Municipal Council, along with the public.
-
-🟩
-
-The contraceptive operations for dogs were held on Thursday (09) in Trincomalee to control the multiplication of dogs.
-
-The Eastern Province Municipal Council and the Secretary of the Municipal Council of the Eastern Provincial Council, Trincomalee Municipal Council, and the Trincomalee Municipal Council of the Eastern Provincial Health Department, Trincomalee Municipal Council. Many people, including Rajasekhar, attended.
-
-◼️
-
-[Data](articles/a9bbdb33.json)
-
-[Extended Data](ext_articles/a9bbdb33.ext.json)
-
----
-
-### Diana goes to court
-
-*2024-05-10 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196473) · `si`
-
-Diana's petition, heard by judges Gamini Amarasekera, Kumuduni Wickremasinghe, and Mahinda Samaya Sajeerawarders, was set for the 28th. Attorney Faizer Mustapha, representing Diana, was asked to provide a date for the petition's details. The court ordered the petition to be heard on the 28th, with Samajith Premadasa, Chief Secretary Ranjith Madduadara, and General Secretary Ranjith Madduadara named as respondents.
-
-🟩
-
-The Supreme Court has set the petition on the 28th of this month.
-
-The petition was called before Gamini Amarasekera and Kumuduni Wickremasinghe and Mahinda Samaya Sajeerawarders.
-
-Attorney-at-Law Faizer Mustapha, who appeared in behalf of the petition, was asked to give a date to inform the petition.
-
-The judge ordered that the petition was ordered to be summoned on the 28th of this month.
-
-Samajith Premadasa, Chief Secretary Ranjith Madduadara, the General Secretary Ranjith Madduadara has been named as respondents.
-
-◼️
-
-[Data](articles/9623441d.json)
-
-[Extended Data](ext_articles/9623441d.ext.json)
-
----
-
-### Excessive heat
-
-*2024-05-10 12:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-வெப்பத்தால்-மற்றுமொருவர்-உயிரிழப்பு/71-337082) · `ta`
-
-A 47-year-old man, Sivagnanam Jayakumar, died from heatstroke in Jaffna. He fell unconscious at home and was found by his family, who rushed him to the hospital, but he was already dead. The cause of death was confirmed as heatstroke.
-
-🟩
-
-Another person has died due to extreme heat in Jaffna.The deceased is Sivagnanam Jayakumar (47 years old) from Punnalaikkattuvan south.
-
-When the man was alone at home on Thursday (09), he went to the back of the house and suddenly fell unconscious.
-
-About 4 hours later, his family returned home and searched for the home, where he was found lying in the back yard of the house and rescued him and took him to the Tellippalai hospital.
-
-Doctors reported that he had already died when she was admitted to the hospital.
-
-The anatomical report noted that the body was found in the body and the heat was the cause of his death.
-
-Meanwhile, during a media briefing held at the Jaffna Bodhana Hospital a few days ago, the general doctor Ri has died in the recent "Heat Stroke" in patients who have been treated in Jaffna.. It is noteworthy that Perinbaraja said.
-
-◼️
-
-[Data](articles/8cdd1a9a.json)
-
-[Extended Data](ext_articles/8cdd1a9a.ext.json)
-
----
-
-### ‘Baas Roshan’ arrested with heroin worth Rs. 2.5 million
-
-*2024-05-10 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99125/-baas-roshan-arrested-with-heroin-worth-rs-25-million-) · `en`
-
-Police have arrested a suspect, who was in possession of a stock of heroin in the Batalanda area of Walpola, Ragama.
-
-The apprehension was made during the inspection of a car at a police checkpoint following a tip-off received by Ragama Police.
-
-During the operation, police have seized 102 grams and 940 milligrams of heroin found inside the car in which the 45-year-old suspect was travelling.
-
-Police said the arrested suspect was identified to be an individual known by the alias “Baas Roshan”, who is a resident of the Kandaliyadda area of Ragama.
-
-The street value of the stock of drugs taken into custody is estimated to be over Rs 2.5 million, the police mentioned.
-
-Meanwhile, preliminary investigations have revealed that the suspect in question had recently been released on bail following his arrest in connection with drug trafficking.
-
-◼️
-
-[Data](articles/2b30a0c0.json)
-
-[Extended Data](ext_articles/2b30a0c0.ext.json)
-
----
-
-### Some police officers misuse Yukthiya operation: MPs charge
-
-*2024-05-10 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-police-officers-misuse-Yukthiya-operation-MPs-charge/108-282317) · `en`
-
-Parliament, May 10 (Daily Mirror)- Innocent people including school children are arrested under the  Yukthiya Operation for minor offences in some police stations and they are unreasonably charged under Act 54 of the Criminal Procedure, several government MPs charged today.
-
-SLPP MP Samanpriya Herath told Parliament that people have faced serious issues in the Kurunegala district as youth who are languishing in junctions and roads are also taken to police stations and charged under Act 54 of the Criminal Procedure.
-
-He said eleven youths were arrested over a brawl in Narammala yesterday and five of them including a school boy had been charged under Act 54.
-
-"The Acting OIC of the Narammala Police is acting very unreasonably. Action should be taken against him. When these youths are charged under Act 54, they come back to society as drug addicts. The Yukthiya operation is good. But, some police officers misuse it," the MP said.
-
-...
-
-[Data](articles/0af37ce1.json)
-
-[Extended Data](ext_articles/0af37ce1.ext.json)
-
----
-
-### Human traffickers exploit documents stolen from Army HQ to target army veterans?
-
-*2024-05-10 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99124/human-traffickers-exploit-documents-stolen-from-army-hq-to-target-army-veterans) · `en`
-
-The Criminal Investigation Department (CID) has apprehended a retired Major General and a Sergeant in the Lake Round area in Kurunegala on suspicion of illegally sending Sri Lankans for employment in the Russian army.
-
-Extensive investigations have been conducted by the police into the activities of the retired Major General in question, who was implicated in the operation.
-
-During the course of the investigation, it was discovered that he had allegedly accessed a list of names of retired army officers from the Army Headquarters.
-
-Authorities are currently continuously pursuing leads related to the trafficking of former Sri Lankan military personnel to mercenary camps both in Russia and Ukraine.
-
-◼️
-
-[Data](articles/72148c22.json)
-
-[Extended Data](ext_articles/72148c22.ext.json)
-
----
-
-### Arrest of someone with illegal cigarettes
-
-*2024-05-10 12:10:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337081) · `ta`
-
-A 43-year-old was arrested in Ambalantottai for illegal cigarettes during a special search. 200 Manchester, 440 Acos, and 540 Platinum 7 cigarettes were seized.
-
-🟩
-
-A 43 -year -old suspect was arrested by police yesterday in Ambalantottai on charges of possessing illegal cigarettes.
-
-Also, the arrest was taken during a special search operation in the Ambalantota town.
-
-In this case, the person from the person. It is worth noting that 200> 50> 000, 200 Manchester cigarettes, 440 Acos cigarettes and 540 cigarettes of Platinum 7 have been seized.
-
-◼️
-
-[Data](articles/b4539ef2.json)
-
-[Extended Data](ext_articles/b4539ef2.ext.json)
-
----
-
-### Sri Lanka Defense Ministry sets up office to track personnel in Ukraine, Russia
-
-*2024-05-10 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-defense-ministry-sets-up-office-to-track-personnel-in-ukraine-russia-162519/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Defense said it has established a special unit to deal with the trafficking of retired military personnel for the Russia-Ukraine war.
-
-Families of those concerned have been requested to provide pertinent information to the special unit via telephone number 0112441146.
-
-The Ministry requests that “family members of the concerned provide information about retired Sri Lankan military personnel who have joined the Russia-Ukraine war via various routes, including the dates of their departure, persons and institutions that had coordinated their passages,” a statement by the Ministry said.
-
-“The Defence Secretary also requests the general public to provide information about individuals involved in human trafficking, those who support it and any relevant information related to the above phone number.”
-
-“As this is done to safeguard the safety of Sri Lankan citizens, everyone is encouraged to pay special attention and provide information in this regard.
-
-...
-
-[Data](articles/a59dc64b.json)
-
-[Extended Data](ext_articles/a59dc64b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 20:51:57**
+As of **2024-05-10 21:03:32**
 
 ## Newspaper Stats
 
-*Scraped **23,212** Articles*
+*Scraped **23,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ adaderanalk | 2,719
 tamilmirrorlk | 2,720
 virakesarilk | 3,450
 dailymirrorlk | 3,647
-adaderanasinhalalk | 3,722
+adaderanasinhalalk | 3,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,210 (100.0%) of 23,212 articles have been extended.
+23,212 (100.0%) of 23,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### සජබ යේ බලය ගන්නවා - සේනක ද සිල්වා
+### අහුංගල්ලේ වෙඩි තැබීමක්
+
+*2024-05-10 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196491) · `si`
+
+අහුංගල්ල, මරදාන ප්‍රදේශයේ යතුරු﻿පැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමක් සිදුව තිබේ.
+
+වෙඩිතැබීමෙන් 54 හැවිරිදි අයෙක්  තුවාල ලබා බරපතළ තත්ත්වයෙන් මේ වනවිට බලපිටිය රෝහලට ඇතුළත් කර ඇතැයි පොලීසිය සඳහන් කරයි.
+
+මිදුලේ දී තුවාලකරු වෙඩි ප්‍රහාරයට ලක්ව ඇති අතර, උණ්ඩ කිහිපයක් ඔහුගේ උදරයට එල්ල වී ඇතැයි පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/3a6df92f.json)
+
+---
+
+### Evidence takes effect - Senaka de Silva
 
 *2024-05-10 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196490) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියගේ ස්වාමි පුරුෂයා වන, අපේ ජාතික පෙරමුණේ හිටපු සභාපති සේනක ද සිල්වා මහතා අද (10) කොළඹ දී ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+Senaka De Silva, former President, announced at a press conference that he would not support Sajith Premadasa for the party leadership, citing necessary legal procedures. He mentioned his resignation and leadership offer to Sajith, along with the appointment of Diana Gamage as Secretary, signed by Sajith Premadasa and Ranjith Madduma. He criticized the sale of parties and the need for a trump card, mentioning legal issues and a big problem with the candidate. He also commented on Diana Gamage's citizenship, stating she was born in Sri Lanka and received a British passport, which he proposed should be revoked. He suggested serving the president of Olcott and Arthur S Clark for more than 10 years to grant citizenship, highlighting Diana's service and the need for her to pay for a case.
 
-එහිදි ඔහු පැවසුවේ සමගි ජන බලවේගය පක්ෂයේ බලය ඔවුන් ලබා ගන්නා බවයි.
+🟩
+
+Former State Minister Diyanama Gamage, former President Senaka De Silva, a press conference was called in Colombo today (10).
+
+He said that he would obtain the power of the party.
 
 කිසිදුවිටක දී සමගි ජන බලවේග පක්ෂයේ ලකුණින් සජිත් ප්‍රේමදාස ට මැතිවරණයට ඉදිරිපත් වීමට ඉඩ නොදෙන බවත් ඒ සඳහා අවශ්‍ය නීතිමය කටයුතු ඉදිරියේ දී සිදුකරන බවත් ඒ මහතා පැවසීය.
 
-"මේ පක්ෂයේ නායකයා හැටියට මම හිටියා. මම කිව්වා මම ඉල්ලා අස්වෙන්නම් කියලා. මම ඔබට නායකත්වය දෙන්නම් කියලා සජිත්ට කිව්වා. සභාපති ලෙස මම අත්සන් කරලා තියෙනවා. ලේකම් හැටියට ඩයනා මහත්මිය අත්සන් කරලා තියෙනවා. ඊට යටින් තමා සජිත් ප්‍රේමදාසයි, රංජිත් මද්දුමබණ්ඩාරයි අත්සන් කරලා තියෙන්නේ. අපි ලොකු කැප කිරීමක් කළා."
+"As the leader of the party, I had. I said I would resign. I told Sajith that I would lead you. As president I've been signed. Ms. Diana has been signed as the Secretary. Being signed by Sajith Premadasa and Ranjith Madduma. We made great sacrifice. "
 
-"ලොකු ගණන්වල‌ට මිලියන 100ට 200ට පක්ෂ විකිණෙන්නේ. අපි එහෙම විකිණුන අය නෙමෙයි."
+"Parties for sale in large numbers to 200 million. අපි එහෙම විකිණුන අය නෙමෙයි."
+
+"We'll hit that trump card when we need. Stop revenge on this dyna. We are cases. හොඳ ලස්සන නඩු තීන්දු ටිකක් එයි ඉස්සරහට. There is a big problem with candidate. This sign will not be offered by Mr.. This party does not want to dance this party. "
+
+He also commented on Mrs. Diana Gamage's citizen.
 
 ...
 
 [Data](articles/957eb772.json)
+
+[Extended Data](ext_articles/957eb772.ext.json)
 
 ---
 
@@ -98,17 +124,23 @@ The Colombo District Court is contradicted to law and requested Maithripala Siri
 
 ---
 
-### අතුරු නියෝගය නිෂ්ප්‍රභ කරන ලෙස මෛත්‍රිපාල ඉල්ලයි
+### Maithripala requests to refute the interim order
 
 *2024-05-10 19:07:36* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-නියෝගය-නිෂ්ප්‍රභ-කරන-ලෙස-මෛත්‍රිපාල-ඉල්ලයි/11-409551) · `si`
 
-හිටපු ජනපති මෛත්‍රිපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයේ කටයුතු කිරීම තහනම් කරමින් කොළඹ දිසා අධිකරණය  පසුගිය 24 වැනි දින  නිකුත් කළ අතුරු නියෝගය නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා මෛත්‍රිපාල සිරිසේන මහතා විසින් අභියාචන පෙත්සමක්  සිවිල් අභියාචන මහාධිකරණය හමුවේ අද (10) ගොනු කළේය.
+Maithripala Sirisena, former President, filed a petition in the Civil Appeal High Court to challenge an interim order he had previously issued. Attorney Jayamuditha Jayasuriya presented the petition, with Montigodu Sarachchandra named as the respondent.
+
+🟩
+
+Maithripala Sirisena filed a petition in the Civil Appeal High Court today for the banning of the interim order issued by former President Maithripala Sirisena.
 
 නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය මගින් පැවරු මෙම අභියාචන පෙත්සමේ විත්තිකාර වග උත්තරකරු ලෙස මොන්ටිගෝ සරච්චන්ද්‍ර මහතා නම් කර ඇත.
 
 ◼️
 
 [Data](articles/a6928564.json)
+
+[Extended Data](ext_articles/a6928564.ext.json)
 
 ---
 
@@ -2297,25 +2329,5 @@ The Inter University Trade Union Federation Mr. Richmond said that when a defini
 [Data](articles/ca53d4e1.json)
 
 [Extended Data](ext_articles/ca53d4e1.ext.json)
-
----
-
-### Sri Lanka Central Bank in push to tighten SIM re-issue over mobile banking scam
-
-*2024-05-10 09:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-in-push-to-tighten-sim-re-issue-over-mobile-banking-scam-162467/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank is in discussions with the telecom regulator to tighten the re-issue of mobile subscriber identification modules (SIMs) as part of efforts to stop mobile phone banking fraud, Director of Payments and Settlements K V K Alwis.
-
-The central bank together with banks are tightening security on an ongoing basis as hackers and other fraudsters develop new ways to defraud customers.
-
-One such method is to re-issue a SIM of a mobile banking customer whose account number and telephone number is known to the fraudster by persuading a mobile phone agent that it has been lost, without submitting an identity card in person.
-
-In the late evening a new chip is activated and the fraudster logs on to the account, gets a new password through a one time password (OTP) sent to the newly issued SIM and takes all the money out.
-
-...
-
-[Data](articles/eb7dd6d5.json)
-
-[Extended Data](ext_articles/eb7dd6d5.ext.json)
 
 ---

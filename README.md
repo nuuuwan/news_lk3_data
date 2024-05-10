@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 06:57:23**
+As of **2024-05-10 07:18:46**
 
 ## Newspaper Stats
 
-*Scraped **23,084** Articles*
+*Scraped **23,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
 virakesarilk | 3,436
-dailymirrorlk | 3,625
-adaderanasinhalalk | 3,690
+dailymirrorlk | 3,630
+adaderanasinhalalk | 3,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,072 (99.9%) of 23,084 articles have been extended.
+23,081 (100.0%) of 23,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Hikkaduwa Beach Rights Issue oversubscribed
+
+*2024-05-10 07:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hikkaduwa-Beach-Rights-Issue-oversubscribed/108-282274) · `en`
+
+The Rights Issue of Hikkaduwa Beach Resort PLC, calling for subscription for 257,765, 177 shares to raise Rs. 902 million, has been oversubscribed.
+
+In a filing to the Colombo Stock Exchange (CSE), Hikkaduwa Beach Resort said the Rights Issue has been oversubscribed by 38, 159, 451 shared (Rs. 133,558,078/50).
+
+The proceeds of the issue will be utilised to settle outstanding related party loans of the company borrowed from Citrus Leisure PLC. amounting to Rs. 566,317,618, which is within the subscription amount by Citrus Leisure PLC under its entitlement in the Rights Issue.
+
+The proceeds will also be used to facilitate the full subscription of the company’s entitlement in the Rights Issue of Waskaduwa Beach Resorts PLC (CITW) amounting to Rs. 219,386,694, and subscribe to any additional shares required to raise the full amount under the Rights Issue of CITW up to a maximum of Rs.116, 473,809.
+
+...
+
+[Data](articles/e33fa84e.json)
+
+---
+
+### A move to preempt hush-hush project on snap general election before
+
+*2024-05-10 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-move-to-preempt-hush-hush-project-on-snap-general-election-before/108-282291) · `en`
+
+Colombo, May 10 (Daily Mirror) - Speculation is rife in political circles that the Election Commission announced the plan for the conduct of the presidential election interpreting the Constitution in a bid to suppress any internal political discourse for a possible snap general election, Daily Mirror learns.
+
+There are talks that President Ranil Wickremesinghe might consider a general election ahead of the presidential election in case the government fails to secure the next tranche of the IMF Extended Fund Facility.
+
+However, the Election Commission announced the legal provisions for the conduct of the Presidential election including the timeframe for taking polling to preempt any hush-hush project for a general election.
+
+...
+
+[Data](articles/17d3c9ae.json)
+
+---
+
+### Majority MPs call for General Election first
+
+*2024-05-10 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Majority-MPs-call-for-General-Election-first/155-282290) · `en`
+
+In the wake of the Election Commission officially announcing that the Presidential election will be held between September 17 and October 16, a faction of both government and opposition MPs have expressed concerns as they prefer a parliamentary election first, Daily Mirror learns.
+
+This follows the remarks by the founder of Sri Lanka Podujana Peramuna (SLPP) Basil Rajapaksa who reiterated that his party maintains its stance that the general election should take place before the presidential election.
+
+In addition to government MPs, a significant number of opposition MPs, the majority of whom are from the Samagi Jana Balawegaya (SJB), prefer a general election, citing the potential to attract a broader voter base.
+
+Against this backdrop, President Ranil Wickremesinghe is reported to have attempted to convince the government parliamentary group that the Presidential election must take place this year in accordance with the Constitution.
+
+...
+
+[Data](articles/67918ff9.json)
+
+---
+
+### අද සවස තද වැසි
+
+*2024-05-10 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196458) · `si`
+
+අද (10) දිනයේ දිවයිනේ බොහෝ පළාත්වල සවස 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව පෙන්වා දෙයි.
+
+මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර සහ දකුණු පළාත්වලත් පුත්තලම, මන්නාරම, කිලිනොච්චි සහ යාපනය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇති වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/bffc2e91.json)
+
+---
 
 ### Seven reasons why I would not vote for a socialist utopia
 
@@ -230,6 +302,24 @@ Addressing the media for the first time following the ruling, Gamage levelled ac
 
 ---
 
+### Human traffickers sent over 80 Sri Lankan war veterans to Russian-Ukrainian war front: 8 killed
+
+*2024-05-10 04:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-traffickers-sent-over-80-Sri-Lankan-war-veterans-to-Russian-Ukrainian-war-front-8-killed/108-282292) · `en`
+
+Colombo, May 10 (Daily Mirror) - Investigations have revealed that more than 80 Sri Lankan war veterans have been sent to the Russian-Ukrainian war front as members of mercenary groups by human traffickers.
+
+Police Spokesman DIG Nihal Thalduwa said that among them, at least eight retired war veterans who had joined as mercenaries have died so far. He said six Sri Lankans had reportedly died in Russia and two had died in Ukraine.
+
+The Criminal Investigation Department (CID), Police and Intelligence agencies have launched extensive operations to arrest illegal human traffickers and several people involved in a racket to send retired war veterans to the Russian-Ukrainian war front as members of mercenary groups.
+
+DIG Thalduwa said illegal human traffickers reportedly sent 60 Sri Lankans to Russia and 23 to Ukraine to be deployed in the Ukraine-Russia conflict.
+
+...
+
+[Data](articles/fbaa1b34.json)
+
+---
+
 ### Second Sri Lanka – UK Strategic Dialogue held in Colombo
 
 *2024-05-10 04:34:39* · [`dailyftlk`](https://www.ft.lk/news/Second-Sri-Lanka-UK-Strategic-Dialogue-held-in-Colombo/56-761599) · `en`
@@ -276,6 +366,8 @@ Tharaka Ranwala, Senior DGM – Marketing, Customer Care & Card Centre, highligh
 
 [Data](articles/702d8a87.json)
 
+[Extended Data](ext_articles/702d8a87.ext.json)
+
 ---
 
 ### President’s comments bring bourse back to life following dismal start
@@ -292,6 +384,8 @@ Turnover stood at Rs 2.7 billion with three crossings. Those crossings were repo
 
 [Data](articles/a7c2a65b.json)
 
+[Extended Data](ext_articles/a7c2a65b.ext.json)
+
 ---
 
 ### Sheraton Colombo Hotel treats moms to an unforgettable experience on Mother’s Day
@@ -306,6 +400,8 @@ Extending an invitation to the leading lady in our lives, the hotel offers a day
 
 [Data](articles/af4c53fa.json)
 
+[Extended Data](ext_articles/af4c53fa.ext.json)
+
 ---
 
 ### Dialog Axiata renews pledge to GSMA’s Connected Women Commitment Initiative
@@ -319,6 +415,8 @@ The initiative is a response to the alarming gender gap in mobile phone ownershi
 ...
 
 [Data](articles/d55e0e8c.json)
+
+[Extended Data](ext_articles/d55e0e8c.ext.json)
 
 ---
 
@@ -355,6 +453,8 @@ On a momentous occasion, the Chartered Institute of Personnel Management Sri Lan
 ...
 
 [Data](articles/119e9ebe.json)
+
+[Extended Data](ext_articles/119e9ebe.ext.json)
 
 ---
 
@@ -404,31 +504,47 @@ Plantation people have a huge contribution to the economy of the country.
 
 ---
 
-### பாராளுமன்ற  வெற்றிடத்துக்கு பெண் உறுப்பினரை நியமியுங்கள் - பெண் பாராளுமன்ற உறுப்பினர் ஒன்றியம் ஐ.ம.சக்தியிடம் கோரிக்கை
+### Appoint female member for parliamentary vacuum - Female Member of Parliament
 
 *2024-05-10 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183103) · `ta`
 
-இராஜாங்க அமைச்சர் டயானா கமகே அவர்களின் பாராளுமன்ற உறுப்பினர் பதவி இரத்துச் செய்யப்பட்டதன் காரணமாக ஏற்பட்ட வெற்றிடத்துக்குப் பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு கோரி பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவர் (வைத்தியகலாநிதி) சுதர்ஷினி பெர்னாந்துபுள்ளே, ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவுக்கு கடிதமொன்றை அனுப்பியுள்ளார்.
+Sudarshini Fernandanpulle, president of the Union Member of Parliament (Hospital), has called for a female MP to replace Diana Kamage, emphasizing the importance of female representation in parliament for policy-making and gender equality.
 
-இராஜாங்க அமைச்சர் டயானா கமகே அவர்களின் பாராளுமன்ற உறுப்பினர் இரத்துச் செய்து வழங்கப்பட்ட ரிட் மனு மீதான தீர்ப்புத் தொடர்பில் உயர்நீதிமன்றத்துக்குக் காணப்படும் நீதிமன்ற அதிகாரத்துக்கு மதிப்பளித்து, அதனை கேள்விக்கு உட்படுத்தாது குறித்த தீர்ப்பினால் பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் உறுப்பினர் ஒருவர் குறைவதுடன், பாராளுமன்றத்தில் பெண் பிரதிநிதித்துவம் குறைவடைவது ஆழ்ந்த கவலையை ஏற்படுத்தியுள்ளது.
+🟩
+
+Sudarshini Fernandanpulle, the president of the Union Member of Parliament (Hospital), has sent a letter to the General Secretary of the United People's Power, Ranjith Mathuma, demanding the appointment of a female suitable woman for the vacancy caused by the cancellation of the post of MP Diana Kamage.
+
+The decrease in a member of the Union Member of Parliament and the decline in female representation in parliament has been reduced by a member of the Union Member of Parliament Diana Kamage.
+
+The Union of Women's Members of Parliament has demanded that women's experience, knowledge and future thinking contribute to the formation of policies that benefit all the community and that the representation of women in Parliament is important to useful democracy.
+
+The union of the female parliamentary members has pointed out that this will reduce the negative impact of the removal of parliamentarian Diana Kamage and ensure the commitment to gender equality and diversity in Parliament.
 
 ...
 
 [Data](articles/6c4e605a.json)
 
+[Extended Data](ext_articles/6c4e605a.ext.json)
+
 ---
 
-### அனுமதி இல்லாமல் மாணிக்கக் கல் அகழ்வில் ஈடுபட்ட இருவரை பொலிஸார் கைது செய்துள்ளனர் - பசறையில் சம்பவம்
+### Police have arrested two men involved in the excavation of gemstone without permission
 
 *2024-05-10 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183102) · `ta`
 
-பசறை பொலிஸ் பிரிவுக்கு உட்பட்ட ஆக்கரத்தன்ன பகுதியில் அனுமதிப்பத்திரம் இன்றி சட்டவிரோதமான முறையில் மாணிக்கக் கல் அகழ்வில் ஈடுபட்ட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two men, aged 32 and 44, from Aluthkedera, Belgatna, and Pallegama Padiyathalawa, were arrested for unauthorized gemstone excavation.
 
-அலுத்கெதர, பெல்காத்தன்ன மற்றும் பல்லேகம பதியத்தலாவ பகுதியை சேர்ந்த 32, மற்றும் 44 வயதுடைய இருவர் கைது செய்யப்பட்டுள்ளதாக பசறை பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+Two persons have been arrested for illegally excavating gemstone without permits.
+
+Two persons, aged 32 and 44, from Aluthkedera, Belgatna and Pallegama Padiyathalawa area have been arrested, have been arrested.
 
 ◼️
 
 [Data](articles/b5d45b9f.json)
+
+[Extended Data](ext_articles/b5d45b9f.ext.json)
 
 ---
 
@@ -551,6 +667,26 @@ More than 80 workers are working at a fireworks factory in Nagpur near Sivakasi-
 [Data](articles/dc09c9eb.json)
 
 [Extended Data](ext_articles/dc09c9eb.ext.json)
+
+---
+
+### Fitch affirms SriLankan Airlines’ Government-Guaranteed Bonds at ‘C’
+
+*2024-05-10 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fitch-affirms-SriLankan-Airlines-Government-Guaranteed-Bonds-at-C/108-282277) · `en`
+
+Fitch Ratings yesterday announced it has affirmed the rating on SriLankan Airlines Government-Guaranteed bonds at ‘C’.
+
+The US$ 175 million government guaranteed 7 percent unsecured bonds are due 25 June 2024.
+
+The rating on the bonds is driven by the unconditional and irrevocable guarantee of the government of Sri Lanka (Long-Term Foreign-Currency Issuer Default Rating: ‘RD’).
+
+SriLankan Airlines bonds are rated at ‘C’, factoring in Fitch’s view of average to below-average recovery prospects following a default, in line with the agency’s Corporates Recovery Ratings and Instrument Ratings Criteria, and Country-Specific Treatment of Recovery Ratings Criteria.
+
+The bonds of issuers that are very close to default show little distinction between ‘RR4’ and ‘RR6’ recoveries. Therefore, Fitch has not assigned a Recovery Rating to the bond.
+
+...
+
+[Data](articles/938a49b1.json)
 
 ---
 
@@ -2039,147 +2175,5 @@ Meanwhile, the Colombo Magistrate Court today (09) issued a banned order today (
 [Data](articles/70589273.json)
 
 [Extended Data](ext_articles/70589273.ext.json)
-
----
-
-### SC begins hearing of petitions against proposed Electricity Bill
-
-*2024-05-09 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99112/sc-begins-hearing-of-petitions-against-proposed-electricity-bill) · `en`
-
-The hearing of the petitions filed before the Supreme Court seeking an order declaring that certain clauses of the Sri Lanka Electricity Bill, submitted by the government to the Parliament recently, are in violation of the Constitution commenced today (09).
-
-The petitions were taken up for hearing before a three-member Supreme Court judge bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekera.
-
-Additional Solicitor General Viveka Siriwardena, who appeared for the Attorney General at the start of the hearing of the petitions, emphasized that the government has presented this bill intending to make the generation, distribution and sale of electricity efficient while providing a convenient service to the consumers.
-
-Following the oral submissions by the Additional Solicitor General, the attorneys representing the petitioners had commenced presenting facts.
-
-...
-
-[Data](articles/7ee6cfd9.json)
-
-[Extended Data](ext_articles/7ee6cfd9.ext.json)
-
----
-
-### Applications are invited for answer sheet inspectors
-
-*2024-05-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196441) · `si`
-
-Applications are open for answer sheet inspectors for the Piriven GCE Ordinary Level Examination 2023 (2024). Apply online from 03.05.2010, 12 midnight to 8 midnight.
-
-🟩
-
-Piriven GCE Ordinary Level Examination 2023 (2024) Applications for the answer sheet inspection is informed of the online system.
-
-Accordingly, on 03.05.2010, the 12th to 20th Nost to 12 midnight to 8 midnight.
-
-◼️
-
-[Data](articles/87b2ede3.json)
-
-[Extended Data](ext_articles/87b2ede3.ext.json)
-
----
-
-### Stalin, who has completed three years as the Chief Minister of Tamil Nadu
-
-*2024-05-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183069) · `ta`
-
-Stalin, completing his third year as Tamil Nadu's Chief Minister, has been praised for his welfare programs, including free bus rides for women, rice for families, and reduced milk prices. Initiatives like 'Home Search Education', 'Puthuppayan', and 'I First' have supported students' education. The 'Tamil Buddha' program for higher education students and the 'breakfast scheme' for elementary students have also been well-received. However, some criticize his handling of issues like gas and diesel prices and the old pension scheme. Political observers await the Lok Sabha election results to gauge the government's future direction.
-
-🟩
-
-Stalin, who has been appointed as the Chief Minister of Tamil Nadu, has completed three years and has entered the fourth year. Following this, the party and the coalition parties congratulate him.
-
-In this regard, Tamil Nadu Chief Minister Mu Ka Stalin posted on a special video, “This is not a rhetoric. Regulary. The people's thanksgiving greetings, the smile and the faces that still inspire me to work. I am going to the front with confidence. I say proudly. 'As a three -year -old upright Tamil Nadu ..!'
-
-Speaking about this, social activists said, “On the day the Muhammad Stalin took over as the Chief Minister of Tamil Nadu, the government bus was implemented on the welfare of people's welfare programs including a free trip to women, rice family card holders, and a reduction in milk prices.
-
-...
-
-[Data](articles/ff8976e8.json)
-
-[Extended Data](ext_articles/ff8976e8.ext.json)
-
----
-
-### Opening of the Health Center in Muttur
-
-*2024-05-09 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183068) · `ta`
-
-The newly opened Rural Health Center in Muttur, Trincomalee District, was inaugurated on Thursday, with the Eastern Province Governor Senthil Thondaman as the chief guest. The event was led by Dr. Hilmi Mukheedin Bawa, the Muttur Health Medical Officer, and attended by key figures including the Trincomalee District Parliamentarian Kapila Nuwan Athukorala and Provincial Health Director Dr. D.GM Kosta.
-
-🟩
-
-The newly rejected Rural Health Center has been opened in the large bridge in the Muttur Health Officer Division of the Trincomalee District.
-
-The event was held on Thursday (09) and the Governor of the Eastern Province Senthil Thondaman was the chief guest.
-
-The event was chaired by Muttur Health Medical Officer Dr. Hilmi Mukheedin Bawa and the event was attended by the President of the Trincomalee District Parliamentarian Kapila Nuwan Athukorala, including Provincial Health Director Dr. D.GM Kosta.
-
-◼️
-
-[Data](articles/e3db22ad.json)
-
-[Extended Data](ext_articles/e3db22ad.ext.json)
-
----
-
-### Did the Sergeant Hang?Hanging?
-
-*2024-05-09 16:30:10* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්-වරයා-එල්ලුනාද---එල්ලුවාද-/11-409530) · `si`
-
-A police sergeant in Dikwella, Sri Lanka, was found hanging from a tire structure, suspected to be a suicide due to family disputes. The incident involved two rooms set on fire, and the body was later taken for a post-mortem examination.
-
-🟩
-
-Dickwella police stated that a police sergeant was found hanging on a bucket on a bucket on a tire structure on a house in Kotagoda, Dikwella.
-
-The victims were a police sergeant at the Gandara Police Station.
-
-Police suspect that he is a father of four children and has committed suicide by hanging his suicide.
-
-Two rooms were set on fire and that six tires were under the lack of the body of the residence.
-
-However, it is said that the attempt to burn the tire has failed.
-
-Police suspect that a family dispute has been caused by this incident.
-
-The deceased sergeant had lodged a complaint with the Dickwella police before that, to visit the police station on the 8th morning to hear it.
-
-When the wife went to the police and returned to the evening, his body had been returned to the police and told the police when he returned to the police.
-
-Later, the body was taken to the Matara General Hospital for the post mortem examination.
-
-...
-
-[Data](articles/fa484716.json)
-
-[Extended Data](ext_articles/fa484716.ext.json)
-
----
-
-### Sri Lanka stocks close up, Dialog, banks drive turnover
-
-*2024-05-09 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-dialog-banks-drive-turnover-162355/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, after a week, data on its site showed.
-
-The broader All Share Index closed up 0.35 percent, or 43.33 points, at 12,396; while the S&P SL20 Index closed up 0.89 percent, or 32.40 points, at 3,672.
-
-Turnover was at 2.7 billion. A big chunk of this came from Dialog Axiata Plc, which saw the most active trading volumes (Rs606mn) in the day, and the share closed flat at 11.50.
-
-Banks saw renewed interest and nearly all banking shares closed up in the day. Hatton National Bank Plc (up at 201.75), Sampath Bank Plc (up at 80.00), Commercial Bank of Ceylon Plc (up at 114.25), and National Development Bank Plc (up at 80.00) were the top contributors to the ASPI.
-
-Another positive contributor was index heavyweight John Keells Holdings Plc which closed up at 206.00.
-
-There was a net foreign inflow after weeks, with the market registering 370 million. (Colombo/May9/2024)
-
-◼️
-
-[Data](articles/adc1de12.json)
-
-[Extended Data](ext_articles/adc1de12.ext.json)
 
 ---

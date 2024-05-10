@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 11:33:43**
+As of **2024-05-10 11:52:54**
 
 ## Newspaper Stats
 
-*Scraped **23,126** Articles*
+*Scraped **23,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,123 @@ islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,963
-tamilmirrorlk | 2,703
+tamilmirrorlk | 2,705
 adaderanalk | 2,707
-virakesarilk | 3,438
+virakesarilk | 3,439
 dailymirrorlk | 3,637
-adaderanasinhalalk | 3,702
+adaderanasinhalalk | 3,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,122 (100.0%) of 23,126 articles have been extended.
+23,126 (100.0%) of 23,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### යුද හමුදා මූලස්ථානයෙන් නාමලේඛනයක් උස්සලා
+### இலங்கை வருகிறார் அமெரிக்க பிரதிநிதி
+
+*2024-05-10 11:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-அமெரிக்க-பிரதிநிதி/175-337078) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லூ இன்று (10) இந்தியாவுக்கு விஜயம் செய்யவுள்ளார்.
+
+இன்று முதல் எதிர்வரும் 15ஆம் திகதி வரை தெற்காசிய பிராந்தியத்தில் தங்கியிருக்கும் அவர், இந்தியாவைத் தொடர்ந்து இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கும் விஜயம் செய்யவுள்ளதாக அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது.
+
+ஒவ்வொரு நாட்டுடனும் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்துவதே அவரது பயணத்தின் நோக்கம் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+அவரது இலங்கை விஜயத்தின் போது, ​​நாட்டின் பொருளாதார வளர்ச்சிக்கு அமெரிக்காவின் ஆதரவு மீண்டும் உறுதிப்படுத்தப்படும் என்றும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/721d455b.json)
+
+---
+
+### අමෙරිකාවේ ප්‍රබලයෙක් ඉන්දු - ලංකා සංචාරයක
+
+*2024-05-10 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196471) · `si`
+
+දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ අද (10) ඉන්දියාවට පැමිණීමට නියමිතය.
+
+අද සිට 15 වනදා දක්වා දකුණු ආසියානු කලාපය තුළ රැ‍ඳී සිටින ඔහු ඉන්දියාවෙන් අනතුරුව ශ්‍රී ලංකාවට සහ බංග්ලාදේශයට ද පැමිණීමට නියමිත බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
+
+ඔහුගේ සංචාරයේ අරමුණ එක් එක් රටවල් සමග ද්විපාර්ශ්වික සහයෝගීතාව ශක්තිමත් කරගැනීමය.
+
+ඔහුගේ ශ්‍රී ලංකා සංචාරයේදී මෙරට ආර්ථික වර්ධනය සඳහා අමෙරිකාවේ සහාය යළිත් තහවුරු කරනු ඇති බවද සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/52fb51c8.json)
+
+---
+
+### இரத்தினபுரி பகுதியில் தொடரும் தோட்ட அதிகாரிகளின் அடாவடித்தனம் தொடர்பாக இ.தொ.கா உடனடி நடவடிக்கை
+
+*2024-05-10 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183131) · `ta`
+
+இரத்தினபுரி பகுதியில் தொடரும் தோட்ட அதிகாரிகளின் அடாவடித்தனம் தொடர்பாக சட்டநடவடிக்கை எடுக்குமாறு பொலிஸ் மா அதிபருக்கு அமைச்சர் ஜீவன் தொண்டமான் பணிப்புரை விடுத்துள்ளார்.
+
+இரத்தினபுரி தும்பறை 82 ஆம் பிரிவில் உள்ள  தோட்ட அதிகாரி மற்றும் காவலாளி ஆகியோர் இணைந்து தோட்ட தொழிலாளர்களை  தாக்கப்பட்ட சம்பவம் தொடர்பில் உடனடி நடவடிக்கையினை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபருக்கு நீர்வழங்கள் மற்றும் தோட்ட உட்கட்டமைப்பு  அபிவிருத்தி அமைச்சரும் இலங்கை  தொழிலாளர் காங்கிரஸ் பொதுச்செயலாருமான ஜீவன் தொண்டமான் பணிப்புரை விடுத்துள்ளார்.
+
+இரத்தினபுரி தும்பறை 82 ஆம் பிரிவில் உள்ள தொழிலாளர்கள் தாக்கப்பட்ட சம்பவம் தொடர்பில் இலங்கை தொழிலாளர் காங்கிரஸின் தேசிய அமைப்பாளரும் முன்னாள் மத்தியமாகாண சபை உறுப்பினருமான ஏ. பி.சக்திவேல் மற்றும் இலங்கை தொழிலாளர் காங்கிரஸின் உப தலைவர் சின்னையா இராஜமணி ஆகியோர் தாக்குதலுக்கு உள்ளான தொழிலாளர்களை நேரடியாக சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+...
+
+[Data](articles/0846cb80.json)
+
+---
+
+### Army headquarters raised
 
 *2024-05-10 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196470) · `si`
 
-රුසියානු හමුදාවේ රැකියා සඳහා ශ්‍රී ලාංකිකයන් ජාවාරම් කළ බව කියන මේජර් ජෙනරාල්වරයෙකු සහ සැරයන්වරයෙකු කුරුණෑගල වැවරවුම ප්‍රදේශයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත්තේය.
+A Major General and a Sergeant were arrested by the CID in Ranjaru, Kurunegala, following a lengthy investigation into a retired Major General. The police are probing a racket involving former army personnel in Russia and Ukraine.
 
-විශ්‍රාමික මේජර් ජෙනරල්වරයෙක් වන මෙම පුද්ගලයා සම්බන්ධයෙන් පොලීසිය දීර්ඝ ලෙස විමර්ශන සිදුකර තිබේ.
+🟩
 
-එලෙස සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත්තේ, විශ්‍රාමික යුද හමුදා නිලධාරීන්ගේ නාමලේඛනය යුද හමුදා මූලස්ථානයෙන් ගනු ලැබුවේ ඔහු විසින් බවය.
+A Major General and Sergeant was arrested by the CID in the Ranjaru in Kurunegala.
 
-රුසියාවේ සහ යුක්‍රේනයේ කුලී හමුදා කඳවුරුවලට මෙරට හිටපු හමුදා සාමාජිකයින් යොමු කිරීමේ ජාවාරමට අදාළව පොලීසිය විසින් දිගින් දිගටම විමර්ශන සිදුකරයි.
+Police have conducted a lengthy investigation into the person who was a retired Major General General.
+
+Investigations have revealed that he was taken from the Army headquarters by the army headquarters.
+
+The police continue to investigate the racket of former army personnel in Russia and Ukraine in Ukraine.
 
 ◼️
 
 [Data](articles/20c85596.json)
 
+[Extended Data](ext_articles/20c85596.ext.json)
+
 ---
 
-### வியாஸ்காந்திற்கு வடக்கு மாகாண ஆளுநர் வாழ்த்து
+### Northern Province Governor congratulates Vyaskant
 
 *2024-05-10 11:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாஸ்காந்திற்கு-வடக்கு-மாகாண-ஆளுநர்-வாழ்த்து/175-337073) · `ta`
 
-வியாஸ்காந்த் தனது கிரிக்கெட் பயணத்தில் இன்னும் பல சாதனைகளை நிலைநாட்ட வேண்டும் என வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் வாழ்த்து தெரிவித்துள்ளார்.
+Northern Province Governor BSM Charles congratulates Vijayakanth Vyaskant on his cricket journey, highlighting his contributions to the IPL and his inclusion in the Sri Lanka World Cup T20 team. Vyaskant, trained in the Northern Province, is celebrated for inspiring the youth through sports and social activities.
 
-இந்தியன் ப்ரீமியர் லீக் (IPL) கிரிக்கெட் சுற்றுப் போட்டியில் சன் ரைசஸ் ஹைதரபாத் அணிக்காக விளையாடியுள்ள யாழ்ப்பாணத்தைச் சேர்ந்த துடுப்பாட்ட வீரரும் சுழற்பந்து வீச்சாளர் விஜயகாந்த் வியாஸ்காந்திற்கு வடக்கு மாகாணம் சார்பில் வாழ்த்துக்களை தெரிவிப்பதில் பெருமகிழ்ச்சி அடைகின்றேன்.
+🟩
 
-வடக்கு மாகாணத்திலிருந்து தனது கிரிக்கெட் பயிற்சியை பெற்ற இவர் இலங்கைக்கு பெருமிதத்தை பெற்றுக்கொடுத்துள்ளதுடன், யாழ். மண்ணிற்கும் பெருமை சேர்த்துள்ளார்.
+Governor of the Northern Province BSM Charles congratulates Vyaskant on his cricket journey.
 
-பல்வேறுபட்ட சமூக சீர்கேடான செயற்பாடுகளில் கவனம் செலுத்தும் இளைய தலைமுறையினருக்கு, விளையாட்டின் மூலம் சாதனை படைக்கும் 22 வயதேயான வியாஸ்காந்த் ஒரு சிறந்த முன்னுதாரணமாவர்.
+I am very happy to congratulate the Jaffna Pastor Vijayakanth Vyaskant on behalf of the Northern Province, who played for Sun Rizes Hyderabad in the Indian Premier League (IPL) cricket tournament.
 
-...
+He has received his cricket training from the Northern Province and has made Sri Lanka proud. He has also made pride in the soil.
+
+Vyaskant, the 22 -year -old, is a great example for the younger generation who focuses on various social disorders activities.
+
+Our expectation is that our youth and youth should be interested in sports. Vijayakanth, who realizes that he can reach heights not only through learning but also through the game, says that I am happy to congratulate Vyaskant.
+
+Meanwhile, Vyaskant has also been included in the Sri Lanka Group for the World Cup T20 series. Remble
+
+◼️
 
 [Data](articles/b6984442.json)
+
+[Extended Data](ext_articles/b6984442.ext.json)
 
 ---
 
@@ -81,6 +149,34 @@ K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federati
 ◼️
 
 [Data](articles/baaed7fc.json)
+
+[Extended Data](ext_articles/baaed7fc.ext.json)
+
+---
+
+### US official Donald Lu is to visit Sri Lanka
+
+*2024-05-10 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183123) · `ta`
+
+US Deputy Secretary of State Donald Lu will visit India, Sri Lanka, and Bangladesh from March 10th to 15th, aiming to strengthen bilateral ties and US support for the Indo-Pacific region's prosperity and independence. In Sri Lanka, he'll meet with political leaders to discuss economic recovery and democratic values, and in Bangladesh, he'll focus on climate crisis relief and economic cooperation.
+
+🟩
+
+Donald Lu will visit Sri Lanka, US Secretary of South and Central Asian Affairs.
+
+US Deputy Secretary of State Donald Lu will make a visit to India, Sri Lanka and Bangladesh from Friday (10) to the 15th of this month.
+
+The visit of Donald Lu's 3 countries will strengthen bilateral cooperation with each country and proves US support for the Indo-Pacific Region, an independent and prosperous Indo-Pacific region.
+
+Donald Lu, who is visiting India, will meet with sub -embassy officials in Chennai to improve bilateral involvement in South India.
+
+Donald Lu will meet with prominent political leaders and reiterate the support of the US for the economic recovery of Sri Lanka and the importance of the independent and democratic society of independent and democratic society.
+
+...
+
+[Data](articles/567d10a5.json)
+
+[Extended Data](ext_articles/567d10a5.ext.json)
 
 ---
 
@@ -120,6 +216,8 @@ This includes hundreds of the globe's largest corporations, premier universities
 
 [Data](articles/e06aa8e4.json)
 
+[Extended Data](ext_articles/e06aa8e4.ext.json)
+
 ---
 
 ### A motorcycle that destroyed fire
@@ -153,32 +251,6 @@ The deceased is the victim of the sickness and vomiting the sickness when the de
 [Data](articles/31c0ca2d.json)
 
 [Extended Data](ext_articles/31c0ca2d.ext.json)
-
----
-
-### US official Donald Lu is to visit Sri Lanka
-
-*2024-05-10 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183123) · `ta`
-
-US Deputy Secretary of State Donald Lu will visit India, Sri Lanka, and Bangladesh from March 10th to 15th, aiming to strengthen bilateral ties and US support for the Indo-Pacific region's prosperity and independence. In Sri Lanka, he'll meet with political leaders to discuss economic recovery and democratic values, and in Bangladesh, he'll focus on climate crisis relief and economic cooperation.
-
-🟩
-
-Donald Lu will visit Sri Lanka, US Secretary of South and Central Asian Affairs.
-
-US Deputy Secretary of State Donald Lu will make a visit to India, Sri Lanka and Bangladesh from Friday (10) to the 15th of this month.
-
-The visit of Donald Lu's 3 countries will strengthen bilateral cooperation with each country and proves US support for the Indo-Pacific Region, an independent and prosperous Indo-Pacific region.
-
-Donald Lu, who is visiting India, will meet with sub -embassy officials in Chennai to improve bilateral involvement in South India.
-
-Donald Lu will meet with prominent political leaders and reiterate the support of the US for the economic recovery of Sri Lanka and the importance of the independent and democratic society of independent and democratic society.
-
-...
-
-[Data](articles/567d10a5.json)
-
-[Extended Data](ext_articles/567d10a5.ext.json)
 
 ---
 
@@ -247,6 +319,20 @@ It is revealed that the suspect is an exemption of heroin racket.
 [Data](articles/ad20b7a8.json)
 
 [Extended Data](ext_articles/ad20b7a8.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினரானார் முஜிபுர்
+
+*2024-05-10 09:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/பாராளுமன்ற-உறுப்பினரானார்-முஜிபுர்/52-337069) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில், பாராளுமன்ற உறுப்பினராக முஜிபுர் ரஹ்மான் இன்று (10) சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+டயானா கமகே பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து வெற்றிடமான இடத்துக்கு முஜிபுர் ரஹ்மான் நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/39bdfbc7.json)
 
 ---
 
@@ -2105,107 +2191,5 @@ They requested the SJB to consider appointing a suitable female to the vacant  
 [Data](articles/8bc42519.json)
 
 [Extended Data](ext_articles/8bc42519.ext.json)
-
----
-
-### The speech heard about the May 09 of the 9 year
-
-*2024-05-09 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196453) · `si`
-
-On May 9, Sri Lanka experienced political violence, including assaults on MP Amarakeerthi Athukorala and his security officer in Nittambuwa. A commemoration ceremony was held in Nittambuwa, and Athukorala participated in religious rituals in Narahenpita. The Sri Lanka Private Bus Owners Association (SLTB) has not received compensation for damages on May 9, 2022, and struggles continue.
-
-🟩
-
-Due to the May 9, a horror of the Sri Lankan politics will be held today (09).
-
-Some groups have been violent in a number of places in the island that evening, on the afternoon of the Galle Face Struggala.
-
-Accordingly, MP Amarakeerthi Athukorala and his security officer were brutally assaulted in Nittambuwa and was brutally assaulted in the Nittambuwa.
-
-Accordingly, a two-year-to-commemoration ceremony was held in Nittambuwa two years in Nittambuwa.
-
-Meanwhile, Amarakeerthi Athukorala, along with the religious rituals, while the Narahenpita in Abhayapita was held today.
-
-The Sri Lanka Private Bus Owners Association (SLTB) has not received any compensation for the buses of the buses on May 9, 2022.
-
-The President of the Lanka Private Bus Owners Association Gemunu Wijeratne said that if the government would not receive any compensation, the police need the assistance of identifying civil cases.
-
-Meanwhile, struggles were also called for a news discussion today to assault the struggle premises.
-
-◼️
-
-[Data](articles/187cbd3e.json)
-
-[Extended Data](ext_articles/187cbd3e.ext.json)
-
----
-
-### Sri Lanka to change telecom law to allow private party to build towers: State Minister
-
-*2024-05-09 20:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-table-amendment-on-trc-act-to-allow-private-party-to-build-towers-state-minister-162403/) · `en`
-
-ECONOMYNEXT – Sri Lanka government will table amendments for Telecommunications Regulatory Commission Act for the first time in 28 years and the key changes will include “third party” being allowed to  build towers, State Technology Minister Kanaka Herath said.
-
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) was established in 1996 with an aim to promote sustained development in the telecommunication industry by shaping the regulatory process, protecting public interest and being responsive to challenges in an increasingly competitive market.
-
-Ensure competition in the market in is open, fair and effective is also the TRC’s core objective.
-
-“We will table the amendment tomorrow. We expect to have the parliament debate within two months,” Herath told reporters at a media briefing in Colombo.
-
-Regulating under sea cabal network and allowing other parties to build telecom towers are included in the amendment, he said.
-
-...
-
-[Data](articles/c9c5a0c7.json)
-
-[Extended Data](ext_articles/c9c5a0c7.ext.json)
-
----
-
-### Russian demands information about Sri Lankans visited Ukrainian war
-
-*2024-05-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196451) · `si`
-
-The Russian Ministry of Defense has set up a section to gather information on Sri Lankans involved in the Ukrainian war, aiming to employ retired members. It's seeking details on 46 individuals and any related human trafficking cases, emphasizing the importance of protecting Sri Lankan citizens.
-
-🟩
-
-The Ministry of Defense has established a special section for information on the aim of employment of retired members of Sri Lanka for the war.
-
-The Defense Ministry informs the Russian-Ukrainian war on various routesIt is to be given to 46.
-
-Also, if there are any information about people or other people with information related to these human trafficking, the Defense Secretary has informed the public to provide those details to the above telephone number.
-
-The Ministry of Defense has also asked all that it is requested to pay special attention to this, as it is simply the lives of the lives of Sri Lankan citizens.
-
-◼️
-
-[Data](articles/c5494485.json)
-
-[Extended Data](ext_articles/c5494485.ext.json)
-
----
-
-### Mineral oil is Rs. 2023.10.10.2011. B. 120 profits
-
-*2024-05-09 20:09:57* · [`adalk`](https://www.ada.lk/breaking_news/2023-10-01-වන-විට-ඛනිජ-තෙල-රු--බි--120ක්-ලාභ-ලබලා/11-409540) · `si`
-
-The annual economic commentary report released on October 1, 2023, shows a significant drop in crude oil prices, from $99.06 to $89.60 per barrel, due to increased supply. This decrease, coupled with a profit of Rs. 120.3 billion, indicates a positive economic trend.
-
-🟩
-
-The annual economic commentation bank report released on October 1, 2023, was fell by 1723 billion to $ 824/05.
-
-According to the report, a barrel of crude oil was $ 99.06 billion in a barrel of $ 99.03 billion in 2023, the price of a barrel of $ 82.23 billion.
-
-The Central Bank report states that a barrel of crude oil has fallen to US $ 89.60 billion due to the increase in crude oil.
-
-However, the Curtaining Corporation (CPC) was recorded at Rs. 120.3 billion in 2023 to Rs
-
-◼️
-
-[Data](articles/ade57254.json)
-
-[Extended Data](ext_articles/ade57254.ext.json)
 
 ---

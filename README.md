@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 12:04:49**
+As of **2024-05-10 12:18:09**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,130 (100.0%) of 23,131 articles have been extended.
+23,131 (100.0%) of 23,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### රුසියා - යුක්‍රේන යුද්ධයට එක්වූ ශ්‍රී ලාංකිකයින් ගේ තොරතුරු සොයා CIDය මෙහෙයුමක් අරඹයි
+### Russia - Sri Lankans who joined Ukrainian war will launch an operation
 
 *2024-05-10 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196472) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකළ පරීක්ෂණ අනුව හිටපු ශ්‍රී ලංකා සෙබළුන් 114 දෙනෙක් පමණ යුක්‍රේන යුද්ධයට එක්වීම සඳහා මෙරටින් පිටත්වී ඇති බව තහවුරු වී තිබේ.
+Approximately 114 Sri Lankan soldiers have been involved in the Ukrainian war, with 60 in Russia and 54 in Ukraine. Investigations by the Criminal Investigations Department (CID) are ongoing. Former soldiers report around 1000 Sri Lankans are present in the conflict. The Assistant Superintendent of Police, Narendra Jayakantha, has urged relatives to provide information. Three Sri Lankans who returned from the war described it as more akin to suicide than combat, highlighting the harsh realities of the battlefield. The war began on February 24, 2022, with Russia's invasion of Ukraine, and mercenaries from various countries, including Sri Lanka, have been recruited. A retired Major General and Sergeant have been arrested for allegedly obtaining a list of retired Army personnel from the Army Headquarters. The police continue to investigate the involvement of Sri Lankan soldiers in the conflict.
 
-ඉන් 60 දෙනෙකු රුසියාවටත් අනෙක් 54 දෙනා යුක්‍රේනයටත් යෑමේ බලාපොරොත්තුවෙන් මෙරටින් ගොස් තිබුණි.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තැනැත්තන් වෙළෙඳාම, ජාවාරම් විමර්ශන සහ සමුද්‍රීය අපරාධ විමර්ශන කොට්ඨාසයේ සහකාර පොලිස් අධිකාරී නරේන්ද්‍ර ජයකාන්ත මහතා ඒ බව පැවසීය.
+According to investigations conducted by the Criminal Investigations Department, about 114 Sri Lankan soldiers have been leased out to join Ukorean war.
 
-නමුත් රුසියා - යුක්‍රේන යුද්ධයට එක්වී ඉන් පැන ආ හිටපු හමුදා සාමාජිකයින් පවසන්නේ ශ්‍රී ලාංකිකයින් 1000ක් පමණ එහි සිටින බවයි.
+60 of them had gone to Russia and the 54 people for Ukraine.
 
-ඒ සම්බන්ධයෙන් තවමත් තොරතුරු රැස්කරමින් සිටින බැවින් ඒ ගැන තහවුරු කළ නොහැකි බව සහකාර පොලිස් අධිකාරිවරයා පැවසීය.
+The Criminal Investigation Department (CID) Trade, Racket Investigation and Marine Criminal Investigation Division Mr. Narendra Jayakanantha said that.
 
-"යුක්‍රේනයට යාම සඳහා පිරිසක් ඉන්දියාවට ගිහින් තියෙනවා. ඉන් 23 දෙනෙක් එතැනින් පෝලන්තයට ගොස් ඒ හරහා යුක්‍රේනයට ගොස් ඇති බවට තොරතුරු ලැබුණා. රුසියාවට ගිය අයගෙන් තුන් දෙනෙක් බේරිලා ඇවිත් තියෙනවා...."
+However, the former army soldiers who escaped from the war against Ukrainian war say that about 1000 Sri Lankans are present.
+
+The Assistant Superintendent of the Superintendent of Police said that information is still collected in this regard.
+
+"A group has gone to India to go to Ukraine. Of these, 23 of them went to Poland and went through it and went through Ukraine. Three of those who went to Russia have escaped .... "
+
+Assistant Superintendent of Police Narendra Jayakantha, Russian, says that Russia has been given to the war of Russia and the Russian war.
 
 ...
 
 [Data](articles/dff85928.json)
+
+[Extended Data](ext_articles/dff85928.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 13:18:19**
+As of **2024-05-10 13:33:41**
 
 ## Newspaper Stats
 
-*Scraped **23,148** Articles*
+*Scraped **23,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,965
 tamilmirrorlk | 2,709
-adaderanalk | 2,710
+adaderanalk | 2,712
 virakesarilk | 3,439
 dailymirrorlk | 3,638
-adaderanasinhalalk | 3,705
+adaderanasinhalalk | 3,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,143 (100.0%) of 23,148 articles have been extended.
+23,148 (100.0%) of 23,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Motorcycle used in Ahungalla shooting found torched
+
+*2024-05-10 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99129/-motorcycle-used-in-ahungalla-shooting-found-torched-) · `en`
+
+A torched motorcycle, which is suspected to have been used in the recent shooting incident in Ahungalla has been discovered in a private land in the Sudu Welipotha area in Kosgoda, police said.
+
+The owner of the land had noticed the burnt motorcycle and informed the Kosgoda Police regarding the matter this morning (10).
+
+In response, Kosgoda Police, along with the Elpitiya Crimes Unit, have initiated an investigation into the discovery.
+
+The shooting incident, which resulted in the death of a 54-year-old individual, occurred in Ahungalla on Thursday (09). The assailants, who had arrived on a motorcycle at around 7.40 p.m., had called the victim out of his residence before opening fire at him.
+
+...
+
+[Data](articles/87744a3d.json)
+
+---
+
+### මහ බැංකු අධිපතිගෙන් ඉඟියක්
+
+*2024-05-10 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196474) · `si`
+
+ණය ප්‍රතිව්‍යුහගත කිරීම අවසන් කිරීමෙන් පසුව ද්වි පාර්ශ්වික ණය හිමියන්ගෙන් ඉහළ සහායක් ශ්‍රී ලංකාවට ලබාගැනීමට හැකි වන බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+තිරසාර ස්ථාවරත්වය නමින් මහ බැංකුවේ පැවැති වැඩසටහනකට එක්වෙමින් මහ බැංකු අධිපතිවරයා මේ බව සඳහන් කළේය.
+
+ශ්‍රී ලංකා මහ බැංකුව සංවිධානය කළ තිරසාර ස්ථාවරත්වය නම් සංවාදාත්මක වැඩසටහන ඊයේ (09) පැවැත්වුණේ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා ඇතුළු විද්වතුන් රැසකගේ සහභාගිත්වයෙනි.
+
+◼️
+
+[Data](articles/051802a7.json)
+
+---
+
+### Supreme Court moves another petition filed by Diana Gamage
+
+*2024-05-10 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99128/supreme-court-moves-another-petition-filed-by-diana-gamage-) · `en`
+
+The Supreme Court has ordered that the petition filed by former State Minister Diana Gamage challenging a decision taken by the Samagi Jana Balawegaya (SJB) to cancel her party membership, be called on May 28.
+
+This petition was taken up before the three-member Supreme Court bench consisting of Justices Gamini Amarasekara, Kumuduni Wickremesinghe and Mahinda Samayawardhena today (10).
+
+At the time, President’s Counsel Faiszer Musthapha who appeared for the petitioner Diana Gamage, requested for a date to inform the court of the decision to be taken regarding this petition.
+
+Accordingly, the judge bench ordered that the relevant petition be called on May 28 and that the decision regarding the maintaining of this petition be announced on the relevant date.
+
+Leader of the  Opposition Sajith Premadasa, General Secretary of the SJB Ranjith Madduma Bandara and several others have been named as respondents in this petition.
+
+...
+
+[Data](articles/b7731348.json)
+
+---
 
 ### Top US official to visit Sri Lanka to reaffirm support for economic recovery
 
@@ -214,19 +268,25 @@ In this case, the person from the person. It is worth noting that 200> 50> 000, 
 
 ---
 
-### අහුන්ගල්ලේ ඝාතකයන් පැමිණි යතුරු පැදිය සොයා ගනී
+### Ahungalla murderers find motorcycle
 
 *2024-05-10 12:01:49* · [`adalk`](https://www.ada.lk/breaking_news/අහුන්ගල්ලේ-ඝාතකයන්-පැමිණි-යතුරු-පැදිය-සොයා-ගනී/11-409546) · `si`
 
-විදේශගතව සිට්න සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම් කරුවකු වන අහුන්ගල්ලේ පදිංචිකරුවෙකු වූ  ආබ්‍රෙව් හෙවත් බබා ගේ පියා වන  54 හැවිරිදි කලුහත් කීර්තිසේන ආබ්‍රෙව් නැමැත්තාට  වෙඩි තබා ඝාතනය කළ  ඝාතකයන් දෙදෙනා පැමිණි බවට සැක කෙරෙන යතුරු පැදිය බාන්වැල්දූව ප්‍රදේශයේ කුරුඳු ඉඩමක ගිනි තබා තිබියදී අද පෙරවරුවේ සොයාගත් බව කොස්ගොඩ පොලීසිය කියයි.
+Two murderers shot dead in Barchwidaduwa, Ahungalla. Incident occurred at a house in Bogahapitiya. Kosgoda Police investigating.
 
-ලැබුණු තොරතුරක් අනුව මෙම යතුරු පැදිය සොයා ගන්නා විට හඳුනා ගත නොහැකි සේ ගිනි තබා තිබූ බව කොස්ගොඩ පොලිසිය පැවසීය.
+🟩
 
-ඉකුත් 8 දා රාත්‍රි 8 ට පමණ අහුන්ගල්ල බෝගහපිටිය ලෝකන්වත්ත ප්‍රදේශයේ නිවසකදී යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් කුඩා ගිනි අවියකින් වෙඩි තබා මෙම ඝාතනය සිදුකර පැමිණි  යතුරු පැදියෙන්ම පළාගොස්  තිබිණි. අහුන්ගල්ල සහ කොස්ගොඩ පොලීසි මේ පිළිබඳ වැඩිදුර පරීක්ෂණ පවත්වයි.
+Kosgoda Police say that the two murderers who had been shot dead in a cinnamon land in Barchwidaduwa area.
+
+The Kosgoda Police said that according to a information received, the Kosgoda Police said.
+
+The murder was shot dead by a small firearm at a house in Bogahapitiya on the 8th night.. The Ahungalla and Kosgoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e0994e2c.json)
+
+[Extended Data](ext_articles/e0994e2c.ext.json)
 
 ---
 
@@ -698,6 +758,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.28 perc
 
 [Data](articles/fd5e3495.json)
 
+[Extended Data](ext_articles/fd5e3495.ext.json)
+
 ---
 
 ### Mujibur sworn in as a National List MP
@@ -860,6 +922,8 @@ In late evening a new chip is activated and the fraudster logs on to the account
 
 [Data](articles/eb7dd6d5.json)
 
+[Extended Data](ext_articles/eb7dd6d5.ext.json)
+
 ---
 
 ### Complaints regarding the malpractices of the GCE Ordinary Level Examination
@@ -947,6 +1011,8 @@ The project which has raised concerns over data privacy of Sri Lankan citizens a
 ...
 
 [Data](articles/b7d8a259.json)
+
+[Extended Data](ext_articles/b7d8a259.ext.json)
 
 ---
 
@@ -2131,81 +2197,5 @@ VIASL President Prasad Priyanga told the Daily Mirror that this decision was tak
 [Data](articles/f7f1c7b0.json)
 
 [Extended Data](ext_articles/f7f1c7b0.ext.json)
-
----
-
-### Former SL netball captain fails doping test
-
-*2024-05-09 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-SL-netball-captain-fails-doping-test/108-282266) · `en`
-
-May 9 (Daily Mirror) - Sri Lanka’s current national netball poolist and former captain Semini Alwis has been alleged to have used prohibited stimulants, according to a random test conducted by the Sri Lanka Anti Doping Agency (SLADA).
-
-Semini is a member of the national netball pool set up by the Netball Federation of Sri Lanka (NFSL) in preparation for the 13th Asian Netball Championship, which will be held from September 26 to October 6 in Saudi Arabia.
-
-The World Anti-Doping Agency (WADA) has officially informed Semini and the SLADA that the initial urine samples contained prohibited stimulants following a test conducted by the SLADA on March 21.
-
-This is the first instance that a Sri Lanka netball player has failed a drug test conducted by the SLADA and WADA.
-
-“We have received the initial report and will soon inquire from the relevant player about the prohibited stimulants before conducting an initial test,” SLADA Director General Dr. Shiromi Pilapitiya told the Daily Mirror today.
-
-...
-
-[Data](articles/9f5c50c2.json)
-
-[Extended Data](ext_articles/9f5c50c2.ext.json)
-
----
-
-### What happened when you import vehicles on tariff licenses?
-
-*2024-05-09 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196457) · `si`
-
-The Director General of Customs is investigating a fraud involving the importation of 1,728 vehicles, including 100 luxury cars, linked to duty licenses for government officials from 2011 to 2014. A private company has challenged this investigation in court, with Judge Shashi Mahendran presiding.
-
-🟩
-
-The Director General of Customs has granted permission to investigate how a custom fraud has taken place in the importation of 1,728 vehicles in the importation of 100 luxury vehicles.
-
-It is connected with the duty related to the duty license issued for government officials from 2011 to year 2014.
-
-The Court of Appeal Judge Shashi Mahendran was given the decision with the agreement filed by a private company to challenge the investigation by the Sri Lanka Customs.
-
-◼️
-
-[Data](articles/e75a6b91.json)
-
-[Extended Data](ext_articles/e75a6b91.ext.json)
-
----
-
-### Maharagama Police search for a boy
-
-*2024-05-09 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196456) · `si`
-
-Maharagama Police are searching for a 15-year-old boy from Pannipitiya who has been missing for 4 days. The boy's father, suffering from a condition, had left the house with a neighbor's wife, and no information has been received since. A complaint has been lodged, and an investigation is underway.
-
-🟩
-
-A 15-year-old boy from Pannipitiya area has been reported missing since 4 days.
-
-The victim was a 15 year old Salangalawanna, a resident of Pannipitiya, An Orielawa.
-
-After her death to die a year ago, the mother had invented his father and her sister.
-
-A sickness of an artness defect, Kalage father was suffering from a condition.
-
-In such a backdrop, the condition of the father of Kalana's father was intensified on the 5th.
-
-The father of Kalage sister had gone with a neighboring woman in the home, while the house had been at home.
-
-When the father returned to her home after the father was taken home, relatives and neighbors had not received any information, but they had not received any information.
-
-A complaint has been lodged with the Maharagama Police Station and the police have launched an investigation into the child.
-
-◼️
-
-[Data](articles/9746776b.json)
-
-[Extended Data](ext_articles/9746776b.ext.json)
 
 ---

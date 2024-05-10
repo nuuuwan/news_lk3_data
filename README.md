@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 08:52:10**
+As of **2024-05-10 09:03:35**
 
 ## Newspaper Stats
 
-*Scraped **23,103** Articles*
+*Scraped **23,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
-adalk | 1,961
+adalk | 1,962
 tamilmirrorlk | 2,700
 adaderanalk | 2,703
 virakesarilk | 3,436
 dailymirrorlk | 3,632
-adaderanasinhalalk | 3,695
+adaderanasinhalalk | 3,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,101 (100.0%) of 23,103 articles have been extended.
+23,103 (100.0%) of 23,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### வானிலையில் ஏற்பட்ட திடீர் மாற்றம்
+### සාමාන්‍ය පෙළ විභාගයේ අක්‍රමිකතා ගැන පැමිණිලි
+
+*2024-05-10 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196464) · `si`
+
+මේ දිනවල පැවැත්වෙන අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ සිදුවු අක්‍රමිකතාවයක් සම්බන්ධයෙන් අද (10) දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් සිදුකරන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+
+කොළඹ විභාග මධ්‍යස්ථාන දෙකක සහ හසලක ප්‍රදේශයේ විභාග මධ්‍යස්ථානයක මෙම අක්‍රමිකතාවන් සිදුවී ඇති බව සඳහන් ය.
+
+විභාග අපේක්ෂකයින් විසින් ජංගම දුරකථන සූක්ෂම ලෙස භාවිත කරමින් ඊයේ ලබාදුන් ඉංග්‍රීසි ප්‍රශ්න පත්‍රය ජායාරූප ගත කර වෙනත් පාර්ශ්ව වෙත එය යොමුකර පිළිතුරු ලබාගැනීමට උත්සාහ කර තිබෙන බව පැවසෙයි.
+
+අදාළ අවස්ථාවේ විභාග මධ්‍යස්ථානවල සිටි නිලධාරීන් විසින් එම ජංගම දුරකථන සිය භාරයට ගෙන ඇති බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අනතුරුව ඒ සම්බන්ධයෙන් එම විභාග මධ්‍යස්ථාන පිහිටි ප්‍රදේශවල පොලිස් ස්ථාන වෙත පැමිණිලි කර ඇති බවද අද දෙරණ කළ විමසීමක දී විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/b9ecbfe0.json)
+
+---
+
+### Weather
 
 *2024-05-10 08:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-ஏற்பட்ட-திடீர்-மாற்றம்/175-337067) · `ta`
 
-நாட்டின் பெரும்பாலான மாகாணங்களில் பல இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rain and thunderstorms are expected after 2 PM across many provinces, with the North Central, Central, Sabaragamuwa, Eastern, Uva provinces, and Mullaitivu district facing heavy rainfall. Morning rain is also forecasted in the Western and Southern Provinces and Puttalam district. Thundershowers may affect upcoming areas, and the public is advised to be cautious to minimize lightning impacts.
 
-வடமத்திய, மத்திய, சப்ரகமுவ, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் முல்லைத்தீவு மாவட்டத்திலும் சில இடங்களில் 100 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேல் மற்றும் தென் மாகாணங்களிலும் புத்தளம் மாவட்டத்திலும் பல இடங்களில் காலை வேளையிலும் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+In most of the provinces of the country,. After 2.00 pm, there is a possibility of rain or thunderstorms.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Heavy rainfall is expected in some places in the North Central, Central, Sabaragamuwa, Eastern and Uva provinces and Mullaitivu district.
+
+Rainfall is expected in the morning and in many places in the Western and Southern Provinces and Puttalam district.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/e44a055f.json)
+
+[Extended Data](ext_articles/e44a055f.ext.json)
 
 ---
 
@@ -820,19 +846,25 @@ The police are conducting further investigations to the arrested persons.
 
 ---
 
-### ’சவால்களை ஏற்று ஜனாதிபதி செயல்பட்டார்’
+### The President has accepted the challenges
 
 *2024-05-10 01:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-ஏற்று-ஜனாதிபதி-செயல்பட்டார்/175-337065) · `ta`
 
-நாடு பொருளாதார ரீதியில் வீழ்ச்சியடைந்த போது ஜனாதிபதி ரணில் விக்கிரமசிங்க சவால்களுக்குப் பயந்து ஓடாமல், அதனை வெற்றிகரமாக எதிர்கொண்டதால் இரண்டு வருடங்களின் பின்னர் நாட்டை ஸ்திரப்படுத்த முடிந்துள்ளது என்று ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+President Ranil Wickremesinghe has stabilized Sri Lanka's economy, with a new gas station in Kaduwela marking a billion-rupee investment. Despite past economic crises, the country now has a surplus in the main account balance, a strengthening rupee, and controlled inflation. Future plans include enhancing tourism, developing ports, advancing manufacturing, exporting electricity, and improving agriculture, leveraging the country's human resources.
 
-ஒரு பில்லியன் ரூபாவுக்கும் அதிகமான முதலீட்டில் கடுவெல, மாபிம பிரதேசத்தில் நிறுவப்பட்ட லிட்ரோ எரிவாயு நிறுவனத்தின் புதிய எரிவாயு நிரப்பு நிலையத்தைத் திறந்து வைக்கும் நிகழ்வு நேற்று முன்தினம் நடைபெற்றது. இந்த நிகழ்வில் சாகல ரத்நாயக்க இவ்வாறு குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சகல புள்ளிவிவரங்களையும் அவதானித்தால், ஒரு நாடாக நல்ல பொருளாதார வளர்ச்சி ஏற்பட்டு வருகிறது. இரண்டு வருட பொருளாதார நெருக்கடிக்குப் பிறகு, முதன்மைக் கணக்கு இருப்பு உபரியாக மாறியுள்ளது. ரூபாயின் பெறுமதி வேகமாக வலுவடைந்து வருகிறது. நாடு நிலையானது மட்டுமல்ல, பணவீக்கமும் கட்டுப்பாட்டுக்குள் உள்ளது. எதிர்காலத்தில் மேலும் சவால்கள் உள்ளன.
+President Ranil Wickremesinghe has been able to stabilize the country after two years, without fearing the challenges of President Ranil Wickremesinghe when the country died economically.
+
+Litro Gas Company's new gas station in Kaduwela, Kaduwela, with an investment of more than a billion rupees, was held yesterday.. Sagala Ratnayake said this at the event.As he further stated,
+
+If you observe all the statistics, a country is a good economic growth. After a two -year economic crisis, the main account balance has become surplus. The value of the rupee is rapidly strengthening. The country is not only consistent but also inflation is under control. There are more challenges in the future.
 
 ...
 
 [Data](articles/398904cf.json)
+
+[Extended Data](ext_articles/398904cf.ext.json)
 
 ---
 
@@ -1810,6 +1842,24 @@ At the same time, the Minister said that the workers' commodity would not be agr
 
 ---
 
+### වසර 1900ක් පැරණි ඉතිහාසයකට නෑ කම් කියන විහාර සංකීර්ණයක් හමුවෙයි
+
+*2024-05-09 19:48:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-1900ක්-පැරණි-ඉතිහාසයකට-නෑ-කම්-කියන-විහාර-සංකීර්ණයක්-හමුවෙයි/11-409538) · `si`
+
+වසර 1900 ක ඉතිහාසයකට නෑකම් කියන පබ්බතාරාම සංකල්පයට අනුව සැකසූ පැරණි විහාර සංකීර්ණයක් හා වර්ග අඩි 400 – 500 පමණ විශාලත්වයකින් යුතු චෛත්‍යයක නටබුන් නාඋල - බඹරගහවත්තෙන් හමුවී ඇත.
+
+පුරාවිද්‍යා දෙපාර්තමේන්තුවේ මහනුවර කාර්යාල නිලධාරීන් හා කැලණිය විශ්ව විද්‍යාලයේ සමාජ විද්‍යා පීඨයේ ජ්‍යෙෂ්ඨ කථිකාචාර්ය ටිකිරි හේරත් ගුණතිලක මහතා ඇතුළු කණ්ඩායමක් ඊයේ (09දා) මෙම අනාවරණය කළේය.
+
+මධ්‍යම පළාතේ මාතලේ දිස්ත්‍රික්කයේ නාඋල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ බඹරගහවත්ත ඓතිහාසික ග්‍රාමයේ මෙම  පුරාවිද්‍යා ස්ථානය පිහිටා තිබේ.2017 වර්ෂයේ දී පුරා විද්‍යා ස්ථානය නිදන් හොරුන්ට නතු වීම හේතුවෙන් පළමුවෙන් ස්ථානය හඳුනාගැනීම සිදුවන්නේ  මහනුවර පුරාවිදයා කාර්යාලයෙනි.
+
+අනුතුරුව  කැලණිය විශ්ව විද්‍යාලයේ සමාජ විද්‍යා පීඨයේ ජ්‍යෙෂ්ඨ කතිකාචාර්ය ටිකිරි හේරත් ගුණතිලක මහතා ඇතුළු කණ්ඩායමක් පුරා විද්‍යා දෙපාර්තමේන්තුව හා එක්ව සිදුකළ පර්යේෂණවල දී මෙම ස්ථානයේ අනුරාධපුර යුගයට (ක්‍රි.පූ. දෙවැනි සියවසට) අයත් භූමියක් යැයි අනුමාන කළ හැකි බව අනාවරණය කර ගෙන තිබේ.
+
+...
+
+[Data](articles/d2c25ae3.json)
+
+---
+
 ### Mujibur Rahman, the gazette leaves
 
 *2024-05-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196450) · `si`
@@ -2137,53 +2187,5 @@ He was invited to a special media conference today (09). Diana commented on this
 [Data](articles/c18dad2e.json)
 
 [Extended Data](ext_articles/c18dad2e.ext.json)
-
----
-
-### 2 years and still not getting compensation
-
-*2024-05-09 18:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ஆண்டுகளாகியும்-இன்னும்-நட்டஈடு-கிடைக்கவில்லை/175-337042) · `ta`
-
-Despite two years passing, Sri Lanka's bus owners, including those whose buses were damaged during the Arakalaya event, still await compensation. The Bus Owners Association has repeatedly requested government assistance, with 30 owners struggling to repair their buses due to lack of funds. The police have not yet identified the culprits, hindering the possibility of filing civil cases for compensation.
-
-🟩
-
-Although two years have passed, Sri Lanka Private Bus Owners Association President Gemunu Wijeratne said that bus owners who destroyed buses during the Arakalai during the Arakalai during the Arakalai period, despite the two years.
-
-Speaking to the media, he said that 50 buses were completely damaged and 50 buses were damaged during the Arakalaya event, and the government had asked the government several times as the Bus Owners Association.
-
-"Many bus owners have repaired their buses with the help of insurance companies, but at least 30 bus owners are still waiting because they have no strength to repair their buses," he said.
-
-Wijeratne said that the police department did not investigate the terrorist attack.. If the police reveal the identity of those who have destroyed the buses, they can file a civil case and get compensation.
-
-The current police DIG is capable of conducting investigations to identify the suspects. Wijeratne said the suspects were hiding in the bus.
-
-◼️
-
-[Data](articles/05fcbcb0.json)
-
-[Extended Data](ext_articles/05fcbcb0.ext.json)
-
----
-
-### Sri Lanka to bring National Cyber Security Act amid surge in social network users: State minister
-
-*2024-05-09 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-national-cyber-security-act-amid-surge-in-social-network-users-state-minister-162385/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the process of drafting a National Cyber Security Act, as social network users rise, State Minister for Technology Kanaka Herath said.
-
-“The user base across all social networks has surged from 60 million to 74 million. There is an imperative for a National Cyber Security Act. Plans are underway to draft pertinent legislation by May 2024,” Herath told reporters at the Presidential Media Centre.
-
-“Collaborative efforts involving 29 government agencies, alongside Sri Lanka Computer Emergency Readiness Team (SL CERT), have been undertaken to strengthen cyber security.”
-
-The minister said that the cabinet has endorsed the National Digital Strategy 2030, which focused on infrastructure, connectivity, access, skills, literacy, industries, jobs, and establishing a connected digital government.
-
-“Emphasis is placed on cyber security, data security, privacy, digital financial services, and the digitization of small and medium-sized businesses.”
-
-...
-
-[Data](articles/64599b52.json)
-
-[Extended Data](ext_articles/64599b52.ext.json)
 
 ---

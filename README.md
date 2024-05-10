@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 05:57:52**
+As of **2024-05-10 05:36:07**
 
 ## Newspaper Stats
 
-*Scraped **23,084** Articles*
+*Scraped **23,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 206
 bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
-islandlk | 1,253
+islandlk | 1,243
 economynextcom | 1,330
-dailyftlk | 1,343
+dailyftlk | 1,341
 adalk | 1,960
 tamilmirrorlk | 2,696
 adaderanalk | 2,702
@@ -26,43 +26,11 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,063 (99.9%) of 23,084 articles have been extended.
+23,063 (100.0%) of 23,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
-
-### Seven reasons why I would not vote for a socialist utopia
-
-*2024-05-10 05:39:47* · [`dailyftlk`](https://www.ft.lk/columns/Seven-reasons-why-I-would-not-vote-for-a-socialist-utopia/4-761621) · `en`
-
-Effectively steering the economic agenda of an entire nation requires an entirely different skill set
-
-There is a certain age that socialism sounds super sweet. Who wouldn’t appreciate a system in which everyone lives merrily, receives free education and healthcare, shares their food with others, and experiences a sense of community and compassion? Who would not want a highly paying government job whether you study hard or not?
-
-In this ideal society, there are no grievances about the contributions made for the greater good. Individuals are duly recognised with bronze medals for their exemplary efforts. We hold admiration for the industriousness displayed in factories and fields, where the masses work diligently and joyfully express their solidarity through revolutionary songs. We applaud when a leader reminiscent of Lenin emphasises that the best things are for the children. Truly, this superlative utopia leaves no room for comparison.
-
-...
-
-[Data](articles/08dffd3c.json)
-
----
-
-### Sri Lankan elections and an Indian Ocean tug-of-war
-
-*2024-05-10 05:22:25* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-elections-and-an-Indian-Ocean-tug-of-war/4-761616) · `en`
-
-The aim of these states is to partner with Sri Lanka and create a positive opinion in the eyes of the people and those in governance as they continue their tug-of-war with China
-
-In the lead up to Sri Lanka’s Presidential election in October 2024, there have been numerous visits by foreign governments to create a good rapport with the various candidates. Visits by great powers to Sri Lanka appear to be a tradition before a national election or during global calamities. My analyses over the years indicate an increase in the frequency of interactions and their breadth during the visits.
-
-In order to ascertain this tug-of-war, this article is divided into three sections: first, the QUAD visits; second, the Chinese engagements, and third Sri Lanka’s future in the Indian Ocean.
-
-...
-
-[Data](articles/e1d4b9fd.json)
-
----
 
 ### Revitalising Sri Lanka’s future: Path forward with export-oriented manufacturing economy
 
@@ -250,66 +218,6 @@ During the proceedings, Counsel Nishan Premaratne, representing the plaintiff, p
 
 ---
 
-### ‘Sampath PayBand, a revolutionary payment device’
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/sampath-payband-a-revolutionary-payment-device/) · `en`
-
-Sampath Bank introduced recently its latest innovation, the Sampath PayBand, a versatile wearable payment device, aiming to revolutionize the transaction landscape in Sri Lanka.
-
-This groundbreaking solution caters to the evolving preferences of the younger generation and tech-savvy consumers, marking a significant milestone as the country’s first of its kind. Sampath PayBand heralds a new era in convenient and secure transactions.
-
-Tharaka Ranwala, Senior DGM – Marketing, Customer Care & Card Centre, highlighted Sampath Bank’s pioneering role with the launch of Sampath PayBand, stating, “Sampath PayBand undoubtedly positions Sampath Bank as a trailblazer in banking innovation. This revolutionary wearable payment device signifies a significant leap forward in convenience and underscores Sampath Bank’s commitment to meeting evolving customer needs.”
-
-...
-
-[Data](articles/702d8a87.json)
-
----
-
-### President’s comments bring bourse back to life following dismal start
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/presidents-comments-bring-bourse-back-to-life-following-dismal-start/) · `en`
-
-CSE trading started on a negative note yesterday but suddenly bounced back following President Ranil Wickremesinghe’s positive comments on the country’s macro- economic improvements.The President also said that Sri Lanka has seen good results under the IMF program, but the country has to complete debt restructuring and continue on a reform path to ensure strong growth.
-
-Consequently, both indices moved upwards. The All Share Price Index went up by 43.33 points while S and P SL 20 rose by 43.47 points.
-
-Turnover stood at Rs 2.7 billion with three crossings. Those crossings were reported in Aitken Spence, where 360,000 shares crossed to the tune of Rs 47.1 million; its shares traded at Rs 131, CTC 16000 shares crossed for Rs 20.8 million; its shares sold at Rs 1300 and Sampath Bank 260,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 79.90.
-
-...
-
-[Data](articles/a7c2a65b.json)
-
----
-
-### Sheraton Colombo Hotel treats moms to an unforgettable experience on Mother’s Day
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/sheraton-colombo-hotel-treats-moms-to-an-unforgettable-experience-on-mothers-day/) · `en`
-
-Sheraton Colombo Hotel, is creating a memorable experience this Mother’s Day, where each mom is celebrated and cherished with love and gratitude.
-
-Extending an invitation to the leading lady in our lives, the hotel offers a day of pure indulgence and relaxation with its stylish surroundings as the ideal sanctuary to honour and celebrate her remarkable spirit. Whether she desires a unique afternoon tea experience, a spa retreat, or simply quality time with loved ones, Sheraton Colombo Hotel presents bonding time for mothers, children and families.
-
-...
-
-[Data](articles/af4c53fa.json)
-
----
-
-### Dialog Axiata renews pledge to GSMA’s Connected Women Commitment Initiative
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/dialog-axiata-renews-pledge-to-gsmas-connected-women-commitment-initiative/) · `en`
-
-Reaffirming its dedication to gender equality and digital empowerment, Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, renewed its pledge to the GSMA’s Connected Women  Commitment Initiative. This commitment underscores Dialog’s dedication to eradicating digital divides and empowering Sri Lankan women through enhanced access to mobile internet and mobile money services.
-
-The initiative is a response to the alarming gender gap in mobile phone ownership and usage in low- and middle-income households, which hinders women’s participation in the digital world. Dialog joined forces with the GSMA’s Connected Women Programme in 2018 with an aim to address these barriers, recognizing that empowering women with digital tools not only promotes gender equality but also opens up significant growth avenues for industries.
-
-...
-
-[Data](articles/d55e0e8c.json)
-
----
-
 ### தொலைத்தொடர்பு ஒழுங்குபடுத்தல் திருத்தச் சட்ட மூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் - தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத்
 
 *2024-05-10 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183106) · `ta`
@@ -323,18 +231,6 @@ The initiative is a response to the alarming gender gap in mobile phone ownershi
 ...
 
 [Data](articles/382f19c0.json)
-
----
-
-### Revolutionizing Sri Lanka’s HR practices, CIPM and SLSI unveil National HRM Standards
-
-*2024-05-10 03:07:00* · [`islandlk`](http://island.lk/revolutionizing-sri-lankas-hr-practices-cipm-and-slsi-unveil-national-hrm-standards/) · `en`
-
-On a momentous occasion, the Chartered Institute of Personnel Management Sri Lanka (CIPM) and the Sri Lanka Standards Institution (SLSI) unveiled the National Human Resource Management (HRM) Standards on April 30th, 2024, at the prestigious Blu Orbit by Citrus. This event, graced by esteemed Chief Guest Minister Manusha Nanayakkara, Minister of Labour and Foreign Employment, and Guest of Dr. Asanga Ranasinghe, Chairman of SLSI, alongside CIPM President Ken Vijayakumar, marked a significant milestone in the country’s HRM landscape.
-
-...
-
-[Data](articles/119e9ebe.json)
 
 ---
 
@@ -2143,5 +2039,165 @@ There was a net foreign inflow after weeks, with the market registering 370 mill
 [Data](articles/adc1de12.json)
 
 [Extended Data](ext_articles/adc1de12.ext.json)
+
+---
+
+### Driver arrested for the death of SLAF Corporal
+
+*2024-05-09 16:17:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-කෝප්‍රල්ගේ-මරණයට-රියදුරු-අත්අඩංගුවට/11-409529) · `si`
+
+TM Lalith De Silva, a Matara Urban Savings Inspector, was arrested for the death of a SLAF Corporal. The incident occurred when the corporal was hit by a 20-foot slope while trying to cross the highway. The corporal was returning from leave with his wife and friends. The driver of the bus involved in the accident was also arrested, and a post-mortem examination was conducted by Dr. KR Wickremasinghe at the Matara General Hospital.
+
+🟩
+
+TM Lalith De Silva, Matara Urban Savings Inspector, was arrested by the SLAF Corporation to be arrested by the SLAF Corporal and submitting a SLAF Corporal to the court while the SLAF was killed in the area.09) ordered the Thihagoda Police.
+
+A 20-foot slope was killed by a 20-foot slope when he tried to go through the highway and went down to the normal road.
+
+The accident had occurred while returning to his wife and a group of friends who were on leave and visited the Ransegoda, a group of his wife and a group of friends.
+
+He was recovered from the quarter to the Kapuduwa to Kapunuwa to the Expressway to the Expressway.
+
+Therefore, the death inspector informed the death of the bus driver and assistant suspicions of the bus, who was uniquely dropped out of a legal entrance to the highway.
+
+Accordingly, the post mortem examination of the corporal, police officers were to be held before the Matara General Hospital Medical Officer KR KR Wickremasinghe.
+
+◼️
+
+[Data](articles/1e70f3d2.json)
+
+[Extended Data](ext_articles/1e70f3d2.ext.json)
+
+---
+
+### Drought in Nuwara Eliya;Moussakkal reservoir is low level
+
+*2024-05-09 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183063) · `ta`
+
+Nuwara Eliya faces severe drought, with reservoirs like Moussakkal significantly low. This has led to reduced water levels in creeks, streams, and rivers, affecting power generation and posing a risk of clean drinking water shortage. The drought has also led to forest fires, exacerbating the situation.
+
+🟩
+
+There has been severe heat in the central hill country of Nuwara Eliya for the past few days. Thus the water level of all the water reservoirs in the central hill country has been drastically reduced. The water level in the creeks, streams and waterfalls and rivers has decreased.
+
+The water falls in all areas are drowning. This will affect the power generation, a hydro power station official said. The water level of the Moussekalai water reservoir, in particular, is about 52 feet down than its capacity. Similarly, the water level of the Kasalree water reservoir is 47 feet above its capacity.
+
+As the water level of the Moussakalai water reservoir has decreased, the bridge, which was built in ancient times, the Shanmukha Nathar Temple, the Buddhist Vihara at the Islamic School, the Bodhi Tree, the Bodhi Tree in its courtyard, the Siddhi Vinayagar Temple in the city of Gangawatta.
+
+...
+
+[Data](articles/7c2b7205.json)
+
+[Extended Data](ext_articles/7c2b7205.ext.json)
+
+---
+
+### Sri Lanka SEC approves scholars to certify Islamic securities
+
+*2024-05-09 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-approves-scholars-to-certify-islamic-securities-162342/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had approved six scholars to certify Islamic Financial Products that are to be public listed.
+
+These accredited Shariah scholars are authorized to certify the Shariah compliance of Islamic Capital Market Products intended for listing on the Colombo Stock Exchange (CSE) in accordance with the Listing Rules.
+
+“The SEC considers this as an essential step in view of products that require Shariah compatibility and to satisfy the needs of Islamic investors,” Deputy Director General Tushara Jayaratne said in a statement.
+
+Ibrahim Saad Yousif Abd Elaziz (based in United Arab Emirates)
+
+There is a growing demand for Shariah-compliant debt securities such as Sukuk, both domestically and internationally, the SEC said.
+
+Issuers of Islamic capital market products seeking a listing on the CSE are required to obtain a Shariah-compliance certification from any three of the Accredited Shariah Scholars. (Colombo/May9/2024)
+
+◼️
+
+[Data](articles/06ba49f9.json)
+
+[Extended Data](ext_articles/06ba49f9.ext.json)
+
+---
+
+### Inquiry on visa scam: CoPF decides not to divulge information
+
+*2024-05-09 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inquiry-on-visa-scam-CoPF-decides-not-to-divulge-information/108-282253) · `en`
+
+Parliament, May 09 (Daily Mirror)- The Committee on Public Finance (CoPF) has decided not to temporarily divulge any details on the visa fiasco because of its sensitive nature, CoPF Chairman Harsha de Silva said today.
+
+"The examination of the Sri Lanka visa outsourcing contract began at the CoPF in Parliament today. We will meet again on 14 May to continue the discussions. As Chair of the committee, this is all we wish to state to the media, given the ongoing sensitive nature of the matter," Dr. de Silva said.
+
+Dr. de Silva told the Daily Mirror that he will comment and reveal details on the visa scam only after May 14.
+
+Also, he said the Controller General of Immigration and Emigration was asked to look into the breech of personal data. He did not divulge details on it as well.
+
+◼️
+
+[Data](articles/0ce86a74.json)
+
+[Extended Data](ext_articles/0ce86a74.ext.json)
+
+---
+
+### Controversy in the House as he left the presidential council without answering the questions of the opposition leader
+
+*2024-05-09 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183072) · `ta`
+
+In a contentious House session, Opposition Leader Sajith Premadasa criticized President Ranil Wickremesinghe's speech on the economy, leading to a walkout. The President allowed Opposition Leader Lakshman Kiriella to question Wickremesinghe's speech, but the ruling party's Prime Minister, Prasanna Ranatunga, declined to speak. The Speaker noted that the controversy could have been avoided with a simple clarification request.
+
+🟩
+
+Opposition Leader Sajith Premadasa was questioning the president's speech in his speech, saying that President Ranil Wickremesinghe got up from the House and caused controversy in the House.
+
+The President gave permission to the President of the Opposition Lakshman Kiriella on Thursday, the President of the Opposition, Lakshman Kiriella, whether he could grant permission to clarify the special speech made by President Ranil Wickremesinghe on the current economic situation in the country.
+
+Accordingly, Opposition Leader Sajith Praremadasa got up and criticized the president.. Minister Prasanna Ranatunga, the ruling party's prime minister, can get up and get clarity on the speech. Speaking is not currently accommodated. He said that if they want to debate the president's speech, the party leaders can discuss the meeting.
+
+Following this, when the opposition leader continues to present his opinion, I think it is better if the President has raised the issue of the order on this issue.
+
+...
+
+[Data](articles/aaa92e8a.json)
+
+[Extended Data](ext_articles/aaa92e8a.ext.json)
+
+---
+
+### Man arrested with gold gel
+
+*2024-05-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196440) · `si`
+
+A man from Dubai, visiting Sri Lanka, was arrested for smuggling 1975 grams of gold gel worth Rs. 40 million, concealed in his shoes and clothing.
+
+🟩
+
+From Dubai, a person who had come to Sri Lanka from Katunayake was taken into custody by officials of the Drug Prevention Unit.
+
+Three golden gel parks have been found concealed in his shoes and clothing, using the person.
+
+It is said that the weight is 1975 grams and the estimated cost of Rs. 40 million.
+
+◼️
+
+[Data](articles/e7213730.json)
+
+[Extended Data](ext_articles/e7213730.ext.json)
+
+---
+
+### Palestine issue helps Sri Lanka to regain reputation among OIC after cremation criticism
+
+*2024-05-09 15:50:00* · [`economynextcom`](https://economynext.com/palestine-issue-helps-sri-lanka-to-regain-reputation-among-oic-after-cremation-criticism-162184/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stance on Palestine in the face of Israel’s offensive push with human rights violations has helped the island nation to regain its reputation among the countries in the Organisation of Islamic Cooperation (OIC) after strong criticism over forced cremation of Muslim Covid victims, Foreign Minister Ali Sabry said.
+
+The government of former president Gotabaya Rajapaksa led by current ruling party Sri Lanka Podujana Peremuna (SLPP) forced Muslims and Christians to cremate the dead bodies of those who died of Covid-19 in 2020.
+
+The OIC raised the forced cremations issue at the 46th United Nations Human Rights Council (UNHRC) in February 2021 after the SLPP government rejected repeated requests by local and global Islamic bodies.
+
+The policy was later reversed, but the move hit diplomatic ties with Middle Eastern and OIC nations which is the highest source of employment for Sri Lankan expatriates.
+
+...
+
+[Data](articles/194dddd9.json)
+
+[Extended Data](ext_articles/194dddd9.ext.json)
 
 ---

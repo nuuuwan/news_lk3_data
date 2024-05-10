@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 14:34:30**
+As of **2024-05-10 14:52:09**
 
 ## Newspaper Stats
 
-*Scraped **23,167** Articles*
+*Scraped **23,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,967
-tamilmirrorlk | 2,712
+adalk | 1,968
 adaderanalk | 2,713
+tamilmirrorlk | 2,713
 virakesarilk | 3,444
 dailymirrorlk | 3,640
 adaderanasinhalalk | 3,709
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,163 (100.0%) of 23,167 articles have been extended.
+23,167 (100.0%) of 23,169 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,47 @@ Following the investigations by the Criminal Investigation Department (CID), it 
 
 [Data](articles/39bbf51d.json)
 
+[Extended Data](ext_articles/39bbf51d.ext.json)
+
 ---
 
-### බදුල්ලේ මාරක අනතුරක්
+### Roads in Badulla
 
 *2024-05-10 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196477) · `si`
 
-දෙහිඅත්තකණ්ඩිය, සිරිපුර සිට බදුල්ල දක්වා ධාවනය වෙමින් තිබූ දෙහිඅත්තකණ්ඩිය ‍ඩිපෝවට අයත් ලංගම බස්රථයක් හා ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ත්‍රීරෝද රථයක් බදුල්ල පුවක්ගොඩමුල්ල ප්‍රදේශයේදී මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+An accident at Dehiattakandiya Depot, near Badulla, involved a three-wheeler from an opposing district. It occurred around 10 am, resulting in one death and four injuries. Residents express concern over frequent accidents in the area.
 
-අප වාර්තාකරු සඳහන් කළේ අද (10) පෙරවරු 10ට පමණ මෙම අනතුර සිදුවී ඇති බවය.
+🟩
 
-ඉන් ත්‍රීරෝද රථයේ ගමන්කළ එක් අයෙක් මියගොස් සිවු දෙනෙකු බපරතළ තුවාල ලැබූ බව බදුල්ල පොලීසිය පැවසීය.
+An accident occurred at the Dehiattakandiya Depot, Viribura to Badulla and a three-wheeler from the opposing opposite district.
 
-අනතුර සිදුවූ ස්ථානය ආසන්නයේ පිහිටි වංගුවේ ජලනල නඩත්තුවක් සඳහා එක් මංතීරුවක් අවහිරකර තිබීම නිසා මෙවැනි අනතුරු සිදුවන බව ප්‍රදේශවාසීන් පවසයි.
+Our correspondent stated that the accident had occurred around 10 am today.
+
+One of the deaths in the three-wheeler, four deaths were wounded, Badulla police said.
+
+Residents say that such accidents are underway to maintain a plumber maintain in the area near the accident.
 
 ◼️
 
 [Data](articles/348df271.json)
+
+[Extended Data](ext_articles/348df271.ext.json)
+
+---
+
+### மன அழுத்தத்தால்  தீக்குளித்த இளம்பெண்
+
+*2024-05-10 14:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மன-அழுத்தத்தால்-தீக்குளித்த-இளம்பெண்/71-337089) · `ta`
+
+வல்வெட்டித்துறை ஸ்ரீ முருகன் குடியேற்ற பகுதியைச் சேர்ந்த, 26 வயதான இளம்பெண் ஒருவர், தீக்குளித்து உயிரிழந்த சம்பவம் நேற்று (09) இரவு இடம்பெற்றுள்ளது.
+
+காதல் உறவில் ஏற்பட்ட முறிவினால் உண்டான மனஅழுத்தம் காரணமாகவே, குறித்த பெண் இத்தகைய விபரீத முடிவெடுத்து உயிரிழந்ததாக தெரிவிக்கப்படுகின்றது.
+
+இது தொடர்பில் கிராம உத்தியோகத்தர் பொலிஸில் முறைப்பாடு செய்ததையடுத்து சடலம் உடற்கூற்று சோதனைக்காக பருத்தித்துறை ஆதார வைத்திய சாலையில் வைக்கப்பட்டுள்ள நிலையில், மேலதிக விசாரணைகளை வல்வெட்டித்துறை பொலிஸார் மேற்கொண்டு வருகின்றனர்.S
+
+◼️
+
+[Data](articles/cb090cf3.json)
 
 ---
 
@@ -84,11 +108,13 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 
 [Data](articles/f7449c8e.json)
 
+[Extended Data](ext_articles/f7449c8e.ext.json)
+
 ---
 
-### විමසිලිමත් වන්තන !
+### විමසිලිමත් වන්න !
 
-*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්තන--/11-409548) · `si`
+*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්න--/11-409548) · `si`
 
 බස්නාහිර, සබරගමුව, දකුණ, නැවගනහිර, ඌව සහ උතුරු-මැද පළාත්වල සහ මාතවේ, මුලතිවු සහ කුරුණෑගල
 
@@ -100,7 +126,31 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 
 ◼️
 
+[Data](articles/3bd4afbe.json)
+
+---
+
+### Confirmed!
+
+*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්තන--/11-409548) · `si`
+
+Heavy thundershowers expected in Western, Sabaragamuwa, Southern, Uva districts, especially in Mothawala, Mothuwewa, Mullaawala. Strong winds and lightning-related diseases possible. Authorities advised to prepare.
+
+🟩
+
+Western, Sabaragamuwa, Southern, Uva, Uva, Mothawala, Mothuwewa, Mullaawala
+
+Increasingly thundershowers during the evening or night during the districts
+
+There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
+
+The weather forearm is requested to take necessary steps to be taken to do.
+
+◼️
+
 [Data](articles/696de239.json)
+
+[Extended Data](ext_articles/696de239.ext.json)
 
 ---
 
@@ -2165,43 +2215,5 @@ The police are conducting further investigations to the arrested persons.
 [Data](articles/e06aff42.json)
 
 [Extended Data](ext_articles/e06aff42.ext.json)
-
----
-
-### The President has accepted the challenges
-
-*2024-05-10 01:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-ஏற்று-ஜனாதிபதி-செயல்பட்டார்/175-337065) · `ta`
-
-President Ranil Wickremesinghe has stabilized Sri Lanka's economy, with a new gas station in Kaduwela marking a billion-rupee investment. Despite past economic crises, the country now has a surplus in the main account balance, a strengthening rupee, and controlled inflation. Future plans include enhancing tourism, developing ports, advancing manufacturing, exporting electricity, and improving agriculture, leveraging the country's human resources.
-
-🟩
-
-President Ranil Wickremesinghe has been able to stabilize the country after two years, without fearing the challenges of President Ranil Wickremesinghe when the country died economically.
-
-Litro Gas Company's new gas station in Kaduwela, Kaduwela, with an investment of more than a billion rupees, was held yesterday.. Sagala Ratnayake said this at the event.As he further stated,
-
-If you observe all the statistics, a country is a good economic growth. After a two -year economic crisis, the main account balance has become surplus. The value of the rupee is rapidly strengthening. The country is not only consistent but also inflation is under control. There are more challenges in the future.
-
-...
-
-[Data](articles/398904cf.json)
-
-[Extended Data](ext_articles/398904cf.ext.json)
-
----
-
-### Collective bargaining, a viable alternative for industrial peace
-
-*2024-05-10 01:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Collective-bargaining-a-viable-alternative-for-industrial-peace/172-282289) · `en`
-
-A strike by health sector workers of the General Hospital-Colombo.
-
-The legal recognition of the fundamental rights of trade unions in this country has been derived from Article 14(1) b, c and d in chapter 3 of the Constitution of Sri Lanka, the ILO Conventions 87 and 98 ratified by the Government of Sri Lanka, the Trade Union Ordinance and the Industrial Disputes Act of Sri Lanka and subsequent amendments thereto emerged from time to time.
-
-...
-
-[Data](articles/d5ba9369.json)
-
-[Extended Data](ext_articles/d5ba9369.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 21:33:46**
+As of **2024-05-10 21:53:07**
 
 ## Newspaper Stats
 
-*Scraped **23,216** Articles*
+*Scraped **23,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,95 @@ dailyftlk | 1,343
 adalk | 1,972
 adaderanalk | 2,720
 tamilmirrorlk | 2,720
-virakesarilk | 3,450
-dailymirrorlk | 3,647
+virakesarilk | 3,452
+dailymirrorlk | 3,649
 adaderanasinhalalk | 3,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,214 (100.0%) of 23,216 articles have been extended.
+23,216 (100.0%) of 23,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### පාතාල රොහාගේ මරණයට පොලීසියේ සම්බන්ධයක් ?
+### Tharshan Selvarajah makes history as first Sri Lankan to carry Olympic torch
+
+*2024-05-10 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tharshan-Selvarajah-makes-history-as-first-Sri-Lankan-to-carry-Olympic-torch/108-282336) · `en`
+
+May 10 - Paris-based Sri Lankan-born baker Tharshan Selvarajah has etched his name into the annals of history as the first Sri Lankan to be bestowed with the honour of carrying the iconic Olympic torch.
+
+Some 10,000 people will have the honour of carrying the torch for part of its relay around the country, from ordinary citizens to VIPs.
+
+Selvarajah's journey to becoming a torchbearer embodies the essence of the Olympic spirit. Having arrived in France for the first time in 2006, he embarked on a remarkable trajectory from humble beginnings to culinary excellence.
+
+Initially working as a cook, Selvarajah's passion for baking soon led him to a bakery, where he honed his craft.
+
+◼️
+
+[Data](articles/9c0587c8.json)
+
+---
+
+### Three cops arrested for bribery to halt action against selling sexual stimulants
+
+*2024-05-10 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-cops-arrested-for-bribery-to-halt-action-against-selling-sexual-stimulants/108-282334) · `en`
+
+In a startling turn of events, three police officers from the Sapugaskanda Police, including a sergeant and two constables, were arrested today on suspicion of accepting a bribe amounting to Rs. 150,000 to stop proceeding with legal action against the sale of aphrodisiacs (a food, drink, or other thing that stimulates sexual desire) by an Ayurvedic medicine dealer.
+
+The saga began when the medicine dealer filed a complaint with the Sapugaskanda Police, claiming that the officers had conducted a raid on his shop. During the raid, they seized a bottle they purportedly identified as containing an aphrodisiac. However, instead of pursuing legal action, the officers allegedly demanded a hefty sum of Rs. 150,000 from the dealer to refrain from escalating the matter.
+
+...
+
+[Data](articles/62279510.json)
+
+---
+
+### அஹுங்கல்லையில் துப்பாக்கிச் சூடு!
+
+*2024-05-10 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183190) · `ta`
+
+அஹுங்கல்ல பகுதியில் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரால் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டில் 54 வயதுடைய நபர் ஒருவர் காயமடைந்து பலப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும் பலியானவர் முற்றத்தில் சுடப்பட்டதாகவும், பல தோட்டாக்கள் அவரது வயிற்றில் தாக்கியதாகவும் பொலிஸார் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cbe01db2.json)
+
+---
+
+### Police affair to under-under under underworld?
 
 *2024-05-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196492) · `si`
 
-පාතාල කල්ලි නායක හැරල්ඩ් රෝහණ ද සිල්වා නොහොත් ගොනාකෝවිලේ රොහා නැමැත්තා අත්අඩංගුවට ගැනීම සඳහා තොරතුරු ලබාදුන් පොලිස් පරීක්ෂකවරයා, රොහාගේ ප්‍රතිවාදියෙකු වන කුඩු අංජු නැමැත්තාගෙන් රුපියල් ලක්ෂ 350ක මුදලක් ලබාගෙන ඇති බවට පලවන වාර්තා සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර තිබේ.
+An investigation is underway into the death of underworld leader Hawnacoville's Rha, allegedly killed by a police inspector. The inspector, Rouncowila alias, is suspected of involvement. The police have received information about two firearms before the arrest. The inspector's main rival, Ada Derana, was involved in a phone conversation. The investigation includes a voice analysis by the Criminal Investigation and Organized Criminal Investigation Unit. The Inspector General of Police (UPFA) has not been informed of the visits to the Analyst's Department. A complaint has been filed by the President's Counsel Saliya Peiris, leading to a court order for the inspector to visit the Analyst's Department.
 
-2020 වසරේ සැප්තැම්බර් මස 24 වනදා පොලීසිය සමග සිදු වූ වෙඩි හුවමාරුවකදී පාතාල කල්ලි නායක හැරල්ඩ් රෝහණ ද සිල්වා නොහොත් ගොනාකෝවිලේ රොහා ජීවිතක්ෂයට පත්වුණි.
+🟩
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය එම ස්ථානයට ගොස් තිබුණේ පද්මලාල් නමැති පොලිස් පරීක්ෂකවරයාගෙන් ලද තොරතුරකට අනුවය.
+An investigation has been launched in reports of the police inspector of the underworld leader Hawnacoville, Rha, a man named Rouncowila alias.
 
-එවන් පසුබිමක එම පද්මලාල් නමැති පොලිස් පරීක්ෂකවරයා සහ මියගිය රොහාගේ ප්‍රධානතම ප්‍රතිවාදියෙකු වන ඇල්ටෝ ධර්මේ නමැත්තා අතර සිදු වූ බව කියන දුරකථ න සංවාදයක් "අද දෙරණ" වෙත ලැබුණි.
+Hawnakovan, Old Rohana, has died in a bully
 
-රොහා අත්අඩංගුවට ගැනීමට පෙර ගිනිඅවි දෙකක් පද්මලාල් නමැති පොලිස් නිලධාරියාගේ සමීපතමයෙකු වෙත ඇල්ටෝ ධර්මේ නමැත්තා ලබාදී ඇතැයි යන කරුණක් සම්බන්ධයෙන් මෙහි තොරතුරු හුවමාරු වී තිබේ.
+According to information received from the police Inspector of Padmalal to arrest the suspect.
+
+In such a background, the Padmalal Inspector of Padmalal and the main rival of the deceased Roha, "Ada Derana received a telephone dialogue.
+
+The information is that two firearms have been given two firearms before the arrest of the Padmalal police officer.
+
+Meanwhile, we met with a telephone conversation that the person who said that the Roha was shot dead by the Gonokoville, police said.
+
+During a telephone conversation, Inspector Padmalal and the main opponent of Roha was Kudu Anju, Kudu Anju, was also found in another voice clip.
 
 ...
 
 [Data](articles/79300e6b.json)
+
+[Extended Data](ext_articles/79300e6b.ext.json)
 
 ---
 
@@ -67,6 +125,8 @@ The shooting was reportedly carried out by two unidentified individuals who had 
 ◼️
 
 [Data](articles/dadb23cf.json)
+
+[Extended Data](ext_articles/dadb23cf.ext.json)
 
 ---
 
@@ -115,6 +175,24 @@ Professor Sunil Ariyaratne contributed to coordination of products in many films
 [Data](articles/621a3d6f.json)
 
 [Extended Data](ext_articles/621a3d6f.ext.json)
+
+---
+
+### தடை விதிக்கப்பட்டமைக்கு எதிராக மைத்திரியிடமிருந்து மேன்முறையீட்டு மனு
+
+*2024-05-10 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183189) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதிக்கப்பட்டமைக்கு எதிராக மேல் மாகாண சிவில் மேன்முறையீட்டு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+
+ஶ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுத்து கொழும்பு மாவட்ட நீதிமன்றம் வியாழக்கிழமை (9) பிறப்பித்த இடைக்கால உத்தரவை கலைப்பதற்கான தீர்மானத்தை மைத்திரிபால சிறிசேன கோரியுள்ளார்.
+
+சட்டத்தரணி ஜயமுதிதா ஜயசூரிய ஊடாக தாக்கல் செய்யப்பட்ட இந்த மேன்முறையீட்டு மனுவில் பிரதிவாதியாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினர் மொண்டகு சரச்சந்திர குறிப்பிடப்பட்டுள்ளார்.
+
+பிரதிவாதியால் தாக்கல் செய்யப்பட்ட வழக்கை விசாரித்த கொழும்பு மாவட்ட நீதிமன்றம், தாம் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுத்து இடைக்கால உத்தரவு பிறப்பித்துள்ளதாக மைத்திரிபால சிறிசேன தனது மேன்முறையீட்டு மனுவில் சுட்டிக்காட்டியுள்ளார்.
+
+...
+
+[Data](articles/805840b6.json)
 
 ---
 
@@ -2255,85 +2333,5 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.28 perc
 [Data](articles/fd5e3495.json)
 
 [Extended Data](ext_articles/fd5e3495.ext.json)
-
----
-
-### Mujibur sworn in as a National List MP
-
-*2024-05-10 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-sworn-in-as-a-National-List-MP/108-282301) · `en`
-
-Colombo, May 10 (Daily Mirror) - Mujibur Rahuman was sworn in as a National List MP before Speaker Mahinda Yapa Abeywardena a shortwhile ago.
-
-Rahuman fills the vacancy created by the unseatimg of Diana Gamage who was declared to be ineligible to remain as an MP by the  Supreme Court.
-
-◼️
-
-[Data](articles/a9d75b96.json)
-
-[Extended Data](ext_articles/a9d75b96.ext.json)
-
----
-
-### Mujibur Rahman sworn in as MP
-
-*2024-05-10 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99122/mujibur-rahman-sworn-in-as-mp) · `en`
-
-Mujibur Rahman of the Samagi Jana Balawegaya (SJB) took path as a Member of Parliament before the Speaker, to fill the parliamentary seat vacated by the disqualification of former State Minister Diana Gamage.
-
-The swearing-in took place after the Parliamentary session convened at 9.30 a.m. this morning (10).
-
-The SJB had decided to nominate former Member of Parliament Mujibur Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a parliamentary seat.
-
-Meanwhile, a Gazette notification was issued last evening stating that Mujibur Rahman has been nominated by the SJB to fill the vacancy in Parliament created by the disqualification of Diana Gamage as Member of Parliament by a Supreme Court verdict.
-
-...
-
-[Data](articles/985c577b.json)
-
-[Extended Data](ext_articles/985c577b.ext.json)
-
----
-
-### O/L exam irregularities reported from Colombo and Hasalaka
-
-*2024-05-10 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99121/ol-exam-irregularities-reported-from-colombo-and-hasalaka) · `en`
-
-The Commissioner General of Examinations, Mr. H.J.M.C. Amith Jayasundara, says that a complaint will be lodged with the Criminal Investigation Department (CID) today (10) concerning irregularities detected during the ongoing G.C.E. Ordinary Level examination.
-
-These irregularities have been reported at two examination centers in Colombo and one in the Hasalaka area. It has come to light that certain candidates had attempted to obtain answers by discreetly capturing photographs of the English question paper using mobile phones and sharing them with third parties.
-
-The Department of Examinations has confirmed that officials present at the examination centers at the time seized the mobile phones in question.
-
-In response to an inquiry from Ada Derana, the Commissioner General confirmed that complaints have been filed with the local police stations in the respective areas where the said examination centers are situated.
-
-◼️
-
-[Data](articles/9f433542.json)
-
-[Extended Data](ext_articles/9f433542.ext.json)
-
----
-
-### Mujibur oaths
-
-*2024-05-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196467) · `si`
-
-Mujibur Rahman was sworn in as a Member of Parliament today, replacing Diyan Gamage's seat. The decision was made by the party, and the Elections Commission confirmed his appointment.
-
-🟩
-
-Mujibur Rahman was sworn in as a Member of Parliament today (10).
-
-The party decided to appoint former Parliamentarian Mujuur Rahman for the national list of the vacant reconciliation of Diyan Gamage's parliamentary seat.
-
-Accordingly, the Elections Commission had announced the gazette notification that included the name yesterday.
-
-Mrs. Diana Gamage announced a decision to claim that there was no legitimate qualification to seat the Sri Lankan election.
-
-◼️
-
-[Data](articles/dc600359.json)
-
-[Extended Data](ext_articles/dc600359.ext.json)
 
 ---

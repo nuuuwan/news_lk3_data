@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 03:51:49**
+As of **2024-05-11 04:03:18**
 
 ## Newspaper Stats
 
-*Scraped **23,266** Articles*
+*Scraped **23,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,973
 tamilmirrorlk | 2,721
 adaderanalk | 2,723
 virakesarilk | 3,465
-dailymirrorlk | 3,656
+dailymirrorlk | 3,658
 adaderanasinhalalk | 3,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,266 (100.0%) of 23,266 articles have been extended.
+23,266 (100.0%) of 23,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Authorities on alert as illicit fags flow from airport
+
+*2024-05-11 03:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Authorities-on-alert-as-illicit-fags-flow-from-airport/108-282382) · `en`
+
+Law enforcement agents are on alert as illicit cigarettes in bulk arrive at the airport and were also found within the country during the last couple of days amounting to the value of over Rs.1.5 million.
+
+Two separate attempts to smuggle in imported brands of cigarettes were thwarted by the Police Narcotics Bureau (PNB) officials at the Bandaranaike International Airport (BIA) on Tuesday and Wednesday.
+
+A Sri Lankan passenger returning from Muscat, Oman was intercepted by the officials at the Arrival Terminal while in possession of illicit cigarettes worth over Rs.860,000. The passenger had been identified as a resident of Parakaduwa.
+
+Meanwhile, on Wednesday police took another person into custody when he was returning from Dubai and having illicit cigarettes worth over Rs. 640,000 in his baggage.
+
+The officials seized 43 cartons of a brand of cigarettes from the first detection, whilst 32 cartons of the same brand were seized from the second case.
+
+...
+
+[Data](articles/4f4e98b4.json)
+
+---
 
 ### More than $ 3 billion can be brought to Sri Lanka by the end of 2024
 
@@ -793,6 +813,18 @@ The United Youth Artistes' Forum emphasized the importance of maintaining the st
 [Data](articles/4bca174f.json)
 
 [Extended Data](ext_articles/4bca174f.ext.json)
+
+---
+
+### Urging support for struggling artistes...
+
+*2024-05-10 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Urging-support-for-struggling-artistes/110-282338) · `en`
+
+The United Youth Artistes' Forum emphasized the importance of maintaining the stability that the country has achieved and called for assistance for artistes who they claim have become helpless in the wake of the economic crisis. Artistes Senaka Wijesinghe, Rajitha Hiran and Kumar Jayakatha were among those who voiced these concerns at a media briefing. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/8897407d.json)
 
 ---
 
@@ -2219,49 +2251,5 @@ The weather forearm is requested to take necessary steps to be taken to do.
 [Data](articles/696de239.json)
 
 [Extended Data](ext_articles/696de239.ext.json)
-
----
-
-### Indian cricket authorities take immediate decision
-
-*2024-05-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196476) · `si`
-
-Indian cricket authorities are seeking applications for the main coach ahead of the World Cup. The current coach will be replaced, with the new head coach contracted until 2027.
-
-🟩
-
-Indian cricket authorities have decided to call for applications before the main coach of the Indian cricket team before the World Cup.
-
-The Indian Board of Control will be applied to the present coach of the group, the Indian Governance Board JH Shah said.
-
-The new head coach will receive a three-year contract until the 2027 World Cup will be held.
-
-◼️
-
-[Data](articles/8a90c2fd.json)
-
-[Extended Data](ext_articles/8a90c2fd.ext.json)
-
----
-
-### Sri Lankan Tamils ​​who carry out the Olympic torch
-
-*2024-05-10 13:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-தீபத்தை-ஏந்தவுள்ள-இலங்கைத்-தமிழர்/175-337087) · `ta`
-
-Darshan Selvarajah, a top Parisian athlete, carries the Olympic torch in France, following its long postcard tour. Notably, he also had the privilege of visiting the Elysée Palace, the French president's residence.
-
-🟩
-
-The long postcard tour of the Olympic Fire is taking place across France.
-
-Darshan Selvarajah, the number one in the last year's best in the city of Paris, has the opportunity.
-
-It is noteworthy that he was also a man who had the opportunity to distribute the Elisseh House, the residence of the French president.
-
-◼️
-
-[Data](articles/dce9a775.json)
-
-[Extended Data](ext_articles/dce9a775.ext.json)
 
 ---

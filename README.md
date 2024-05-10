@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 17:54:30**
+As of **2024-05-10 18:10:29**
 
 ## Newspaper Stats
 
-*Scraped **23,194** Articles*
+*Scraped **23,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,82 +19,150 @@ adalk | 1,969
 adaderanalk | 2,717
 tamilmirrorlk | 2,719
 virakesarilk | 3,448
-dailymirrorlk | 3,642
-adaderanasinhalalk | 3,717
+dailymirrorlk | 3,643
+adaderanasinhalalk | 3,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,189 (100.0%) of 23,194 articles have been extended.
+23,194 (100.0%) of 23,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### டயனாவின் மனுமீதான விசாரணை குறித்து வெளியான அறிவிப்பு
+### තවත් අවවාදාත්මක නිවේදනයක්
+
+*2024-05-10 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196486) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+උතුරු සහ උතුරුමැද පළාත් සහ ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්ක සඳහා මෙම නිවේදනය බලපැවැත්වේ.
+
+ඒ අනුව ඉහත ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම 'අවධානය යොමු කළ යුතු' මට්ටමක පවතිනු ඇතැයි අපේක්ෂා කෙරේ.
+
+එම නිසා ඉහත ප්‍රදේශවල ජීවත්වන විමසිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/79a49fdd.json)
+
+---
+
+### Announced on Diana's Mental Health Investigation
 
 *2024-05-10 17:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவின்-மனுமீதான-விசாரணை-குறித்து-வெளியான-அறிவிப்பு/175-337094) · `ta`
 
-டயனா கமகேவை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை இரத்து செய்யுமாறு கோரி அவர் தாக்கல் செய்த மனுவை எதிர்வரும் 28ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு உயர் நீதிமன்றம் இன்று (10) உத்தரவிட்டுள்ளது.
+The High Court has ordered Diana Kamage's case for a hearing on the 28th, seeking to overturn a resolution by the United People's Power. President's Attorney Faizer Mustafa is representing Diana, requesting the court to decide on the matter.
 
-மேற்படி மனு மூவரடங்கிய உயர் நீதிமன்ற நீதிபதிகள் குழு முன்னிலையில் இன்று (10) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-டயனா கமகே சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி பைசர் முஸ்தபா, இந்த மனுவை தொடர்வதா, இல்லையா? என்பது குறித்த தீர்மானத்தை நீதிமன்றத்துக்கு அறிவிப்பதற்கு திகதி வழங்குமாறு கோரினார்.
+The High Court today (10) ordered that Diana Kamage be taken up for hearing on the 28th of this month demanding the cancellation of the resolution taken from the United People's Power.
 
-அதன்படி, மனுவை இம்மாதம் 28ஆம் திகதிக்கு விசாரணைக்கு எடுத்துக் கொள்ளுமாறு உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. R
+The order was issued when the petition was taken up for hearing today (10) in the presence of a panel of High Court Judges.
+
+President's Attorney Faizer Mustafa, appearing on behalf of Diana Kamage, will continue this petition?He demanded that the decision be given to the court.
+
+Accordingly, the High Court has ordered that the petition be taken up for hearing on the 28th of this month.. Remble
 
 ◼️
 
 [Data](articles/3723af46.json)
 
+[Extended Data](ext_articles/3723af46.ext.json)
+
 ---
 
-### நீதிமன்றத்தை நாடினார் மைத்திரி
+### Maithri sought court
 
 *2024-05-10 17:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-நாடினார்-மைத்திரி/175-337093) · `ta`
 
-ஶ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதித்து கொழும்பு மாவட்ட நீதிமன்றம் பிறப்பித்த இடைக்கால உத்தரவை ரத்து செய்யுமாறு கோரி முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சிவில் மேன்முறையீட்டு நீதிமன்றில் இன்று (10) மேன்முறையீடு செய்துள்ளார்.
+Former President Maithripala Sirisena appealed to the Civil Appeal Court to overturn a Colombo District Court order banning SLFP leader Maithri. The interim order was issued in response to a petition by SLFP member Mundiku Sarachandran.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான திரு.முண்டிகு சரச்சந்திரன் தாக்கல் செய்த மனுவை பரிசீலித்த கொழும்பு மாவட்ட நீதிமன்றம் கடந்த 24ஆம் திகதி பிறப்பிக்கப்பட்ட இடைக்கால உத்தரவை இரத்து செய்யுமாறு கோரியது.
+🟩
+
+Former President Maithripala Sirisena has appealed to the Civil Appeal Court today (10) demanding the cancellation of an interim order issued by the Colombo District Court to ban the SLFP leader.
+
+The Colombo District Court, considering a petition filed by Mr. Mundiku Sarachandran, a member of the Sri Lanka Freedom Party Executive Committee and Cultural Organizer, has called for an interim order issued on the 24th.
 
 ◼️
 
 [Data](articles/8a9830a8.json)
 
+[Extended Data](ext_articles/8a9830a8.ext.json)
+
 ---
 
-### மின்னல் தாக்கத்தில் பலத்த பாதிப்பு
+### South Korea to establish ministry to tackle low birth rate crisis
+
+*2024-05-10 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korea-to-establish-ministry-to-tackle-low-birth-rate-crisis/108-282331) · `en`
+
+South Korea’s President, Yoon Suk Yeol, has announced plans to establish a new government ministry dedicated to addressing the country’s dire birth rate situation.
+
+In a televised address, President Yoon highlighted the urgent need to confront what he described as a “national emergency” stemming from South Korea’s notoriously low birth rate, which has plunged to unprecedented depths in recent years.
+
+The proposed Ministry of Low Birth Rate Counter-planning underscores the severity of South Korea’s demographic crisis.
+
+With a fertility rate of just 0.72 in 2023, South Korea holds the unenviable title of having the world’s lowest fertility rate.
+
+This alarming figure falls well below the replacement level of 2.1 births per woman required to sustain a stable population without relying on immigration.
+
+The demographic challenges facing South Korea and other East Asian countries are multifaceted and deeply entrenched.
+
+...
+
+[Data](articles/71eec6d2.json)
+
+---
+
+### Lightness
 
 *2024-05-10 17:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தில்-பலத்த-பாதிப்பு/175-337092) · `ta`
 
-வலஸ்முல்ல ஆதார வைத்தியசாலையின் விசேட சிகிச்சைப் பிரிவு மின்னல் தாக்கத்தினால் பலத்த சேதமடைந்துள்ளதாக வலஸ்முல்ல பொலிஸார் தெரிவிக்கின்றனர்.
+Lightning struck Valasmulla Resource Hospital's Special Treatment Unit, damaging equipment and injuring three patients. They were moved to the ICU.
 
-பலத்த மழையுடன் இன்று பிற்பகல் 2.00 மணியளவில் இந்த மின்னல் தாக்கியதாகவும், விசேட சிகிச்சைப் பிரிவில் மூன்று நோயாளர்கள் இருந்ததாகவும், அவர்கள் உடனடியாக மீட்கப்பட்டு தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டதாகவும் வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+🟩
 
-மின்னல் தாக்கத்தினால் விசேட சிகிச்சை பிரிவில் இருந்த பெறுமதியான சுகாதார உபகரணங்கள் பல சேதமடைந்துள்ளன. நூறு லட்சத்தை தாண்டும் என மருத்துவமனை தகவல்கள் தெரிவிக்கின்றன
+Valasmulla police said that the Special Treatment Unit of the Valasmulla Resource Hospital has been severely damaged by lightning.
+
+The hospital spokesman said that the lightning struck at around 2.00 pm this afternoon and that there were three patients in the special treatment unit and they were immediately rescued and admitted to the intensive care unit.
+
+Many valuable health equipment in the special treatment unit due to lightning impact has been damaged many. Hospital sources say that one hundred lakhs
 
 ◼️
 
 [Data](articles/bc68a4a8.json)
 
+[Extended Data](ext_articles/bc68a4a8.ext.json)
+
 ---
 
-### විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් ලැබී ඇති බවට චෝදනා
+### Minister of charge charged with an arbitrary force
 
 *2024-05-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196485) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලිබල පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් ලබාදී ඇතැයි ශ්‍රේෂ්ඨාධිකරණය හමුවේ චෝදනා නැගුණි.
+The Supreme Court has accused the Minister of Power and the proposed Power bill of being arbitrary. Attorney Jayawardena, representing the Ceylon Electricity Employees Union, criticized the bill for granting excessive powers to the Minister, potentially creating a monopoly in electricity. He argued that the bill violates basic human rights as outlined in the Sri Lankan Constitution. The petitions, filed by 14 parties including the Ceylon Electricity Workers Union, seek to prevent the bill from passing with a majority vote in Parliament.
 
-විදුලිබල පනත් කෙටුම්පතේ අන්තර්ගත ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම් අද (10) දෙවන දිනටත් විභාගයට ගත් අවස්ථාවේ දී පෙත්සමක් ගොනුකර තිබූ ලංකා විදුලි සේවක සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ ශාන්ත ජයවර්ධන මහතා මේ බව කියා සිටියේය.
+🟩
 
-මෙම පෙත්සම් විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ විභාගයට ගනු ලැබීය.
+The Supreme Court accused the Minister of Power and Power bill to be produced before the government.
 
-මෙහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ ශාන්ත ජයවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් යෝජිත පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික බලයක් සලසා දී තිබෙන බව චෝදනා කළේය.
+Attorney at Law Jayawardena, who had filed a petition to be heard in the Power and Power and Petroleum Committee, he said this to the Ceylon Electricity Employees Union (CEB) on the occasion as a petition filed by the Constitution.
+
+These petitions were taken to the Bench, Shiran Gunaratne and Arjuna Obeysekere.
+
+Attorney at Law Jayawardena, appearing on behalf of the petitioner, accused the minister of the subject to the minister.
+
+The bill has been given the powers of the subject to the appointment of members of the Energy Management Committee and the procurement process of procurement process, the lawyer said.
+
+The lawyer also said that the law in charge of the Electricity in charge of the Minister of Power in the Ministry has given the President to the Minister of Power and Energy.
 
 ...
 
 [Data](articles/b29216f8.json)
+
+[Extended Data](ext_articles/b29216f8.ext.json)
 
 ---
 
@@ -312,23 +380,29 @@ The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urba
 
 ---
 
-### சூரிய காந்த புயல்: விஞ்ஞானிகள் எச்சரிக்கை
+### Solar magnetic storm: scientists alert
 
 *2024-05-10 15:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சூரிய-காந்த-புயல்-விஞ்ஞானிகள்-எச்சரிக்கை/50-337091) · `ta`
 
-பெப்ரவரி 9 ஆம் திகதி முதல் பெப்ரவரி 10 ஆம் திகதிக்குள் நொடிக்கு 451 - 615 கிலோமீட்டர் வேகத்தில் மிதமான புவி காந்தப் புயலால் பூமி பாதிக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+Scientists have issued a warning about a moderate solar magnetic storm from February 9th to 10th, affecting Earth's magnetic field and potentially disrupting satellite activities. The storm, moving at 451-615 km/s, could cause auroras from California to South Alabama and impact the northern hemisphere. Previous storms have affected radio communications in Russia.
 
-அதன்படி இன்று (10) இரவு முதல் நாளை (11) இரவு வரை கலிபோர்னியா – தெற்கு அலபாமா வரை அரோரா காந்த புயல் எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-பூமியின் வட அரைக்கோளத்தில் காந்த புயல் காரணமாக தகவல் தொடர்பில் பாதிப்பு ஏற்படலாமெனத் தகவல் வெளியாகியுள்ளது.
+The earth will be affected by a moderate earthquake storm at 451 - 615 kilometers per second from February 9th to February 10th.
 
-இதனால் செயற்கைக் கோள்களின் செயற்பாடுகளும் முடங்க வாய்ப்பிருப்பதாக அமெரிக்க ஆய்வகம் எச்சரிக்கை விடுத்திருக்கிறது.
+Accordingly, the Aurora magnetic storm warning has been issued from California to California - South Alabama from tonight (10) to 11 pm.
 
-இதற்கு முன்னாள் ஏற்பட்ட புவி காந்த புயல் பூமி மற்றும் விண்வெளியில் சில பாதிப்புகளை ஏற்படுத்தியுள்ளது. முன்னர் பூமியைத் தாக்கிய புவி காந்த புயல் ரஷ்யாவில் ஒட்டுமொத்தமாக ரேடியோ பிளாக் அவுட் விளைவை ஏற்படுத்தியுள்ளது. R
+In the Earth's northern hemisphere, it has been reported that the magnetic storm can be affected.
+
+The US laboratory has warned that satellite activities are also likely to be paralyzed.
+
+The former Earth Magnetic Storm has caused some impact on the earth and space. The Earth's Magnetic Storm that previously hit the earth has had a radio block out effect in Russia as a whole. Remble
 
 ◼️
 
 [Data](articles/69949dff.json)
+
+[Extended Data](ext_articles/69949dff.ext.json)
 
 ---
 
@@ -2241,39 +2315,5 @@ In order to ascertain this tug-of-war, this article is divided into three sectio
 [Data](articles/e1d4b9fd.json)
 
 [Extended Data](ext_articles/e1d4b9fd.ext.json)
-
----
-
-### Revitalising Sri Lanka’s future: Path forward with export-oriented manufacturing economy
-
-*2024-05-10 05:18:35* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-s-future-Path-forward-with-export-oriented-manufacturing-economy/4-761615) · `en`
-
-The importance of entrepreneurs as the backbone of our economy should be recognised and honoured
-
-Sri Lanka has been through an unprecedented macroeconomic crisis with a complete economic meltdown since 2022 resulting from years of financial mismanagement, and the current global recession resulted from the scarring effects of the COVID-19 pandemic, geopolitical tensions, and many other factors. To date, the country indicates signs of stabilisation but, still faces challenges with elevated poverty levels, income inequality, and labour market concerns.
-
-Given these challenges, the Government needs to carefully plan monetary and fiscal policies and implement growth-enhancing structural reforms to emerge from the current economic crisis, while laying the foundation for improving long-term green, resilient, and inclusive growth prospects. Future generations desperately require us to develop our country to give them a chance to live a comfortable life when it becomes their turn.
-
-...
-
-[Data](articles/04715b6c.json)
-
-[Extended Data](ext_articles/04715b6c.ext.json)
-
----
-
-### Widening gap between rhetoric and reality
-
-*2024-05-10 05:15:15* · [`dailyftlk`](https://www.ft.lk/columns/Widening-gap-between-rhetoric-and-reality/4-761614) · `en`
-
-Vast amounts could be saved by better expenditure management, and besides, it will increase the confidence of the people that their taxes are being utilised fairly and justly
-
-On the 138th observance of World Labour Day, born from a historic struggle for rights, our nation stands at a pivotal moment. Regardless of political affiliations, it falls upon each of us to shoulder the unshakable duty of fortifying our economy and propelling our nation onward – President Ranil Wickremesinghe
-
-...
-
-[Data](articles/9565c6da.json)
-
-[Extended Data](ext_articles/9565c6da.ext.json)
 
 ---

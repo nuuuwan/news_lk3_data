@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 08:18:42**
+As of **2024-05-10 08:33:48**
 
 ## Newspaper Stats
 
-*Scraped **23,099** Articles*
+*Scraped **23,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,961
 tamilmirrorlk | 2,698
-adaderanalk | 2,702
+adaderanalk | 2,703
 virakesarilk | 3,436
 dailymirrorlk | 3,632
-adaderanasinhalalk | 3,694
+adaderanasinhalalk | 3,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,099 (100.0%) of 23,099 articles have been extended.
+23,099 (100.0%) of 23,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### කැලෑබද ප්‍රදේශයක කාන්තා සිරුරක්
+
+*2024-05-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196463) · `si`
+
+පොලීසිය සඳහන් කළේ 65 හැවිරිදි කාන්තාවකගේ සිරුරක් එලෙස හමුවී ඇති අතර ඇය බෙරවිල පටිතලාව ප්‍රදේශයේ පදිංචිකාරියක් බවය.
+
+◼️
+
+[Data](articles/c1d59a95.json)
+
+---
+
+### Heavy showers about 100 mm expected today
+
+*2024-05-10 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99119/heavy-showers-about-100-mm-expected-today) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m. today (10).
+
+In its latest weather forecast, the department stated that heavy showers of about 100mm are likely at some places in Central, Sabaragamuwa, Eastern and Uva provinces and in Polonnaruwa district.
+
+Meanwhile, showers may occur at several places in Western and Southern provinces and in Puttalam, Mannar, Kilinochchi and Jaffna districts during the morning too.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
+
+◼️
+
+[Data](articles/388305eb.json)
+
+---
 
 ### Mujibur to Parliament today
 
@@ -2163,43 +2193,5 @@ MGR. And the photo taken by Sarojadevi and the MGR spoke at the conference, the 
 [Data](articles/2a7b9f7e.json)
 
 [Extended Data](ext_articles/2a7b9f7e.ext.json)
-
----
-
-### Two years since ’Aragalaya’, no compensation for buses destroyed: Gemunu
-
-*2024-05-09 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-years-since-Aragalaya-no-compensation-for-buses-destroyed-Gemunu/108-282256) · `en`
-
-Colombo, May 9 (Daily Mirror) - Two years have passed, but no compensation has been received from the government for the bus owners whose buses were destroyed during the Aragalaya period on May 9, 2022, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said.
-
-Addressing the media, he said 50 buses were completely destroyed and another 50 were partially destroyed during the Aragalaya, and as a bus owners' association, they have requested the government for assistance several times.
-
-"Several bus owners had repaired their buses with the help of the insurance companies, but at least 30 bus owners who do not have the strength to repair their buses are still waiting. At least 20 buses have been condemned," he said.
-
-...
-
-[Data](articles/f8e85182.json)
-
-[Extended Data](ext_articles/f8e85182.ext.json)
-
----
-
-### Former NMRA chief remanded
-
-*2024-05-09 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99114/former-nmra-chief-remanded) · `en`
-
-The Maligakanda Magistrate’s Court has ordered the former CEO of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekara to be remanded in custody until May 20, 2024.
-
-He was produced before the court today (09) following the recording of a statement by the Criminal Investigation Department (CID).
-
-Dr. Gunasekara was arrested by the CID on Wednesday (08) and was interrogated for more than 10 hours following his arrest.
-
-The CID apprehended Dr. Gunasekara in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-◼️
-
-[Data](articles/6a30bee9.json)
-
-[Extended Data](ext_articles/6a30bee9.ext.json)
 
 ---

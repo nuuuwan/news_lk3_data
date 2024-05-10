@@ -1,72 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 07:45:28**
+As of **2024-05-10 07:59:12**
 
 ## Newspaper Stats
 
-*Scraped **23,093** Articles*
+*Scraped **23,099** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
-bbccomsinhala | 240
 dbsjeyarajcom | 240
+bbccomsinhala | 241
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
-adalk | 1,960
-tamilmirrorlk | 2,696
+adalk | 1,961
+tamilmirrorlk | 2,698
 adaderanalk | 2,702
 virakesarilk | 3,436
-dailymirrorlk | 3,631
-adaderanasinhalalk | 3,693
+dailymirrorlk | 3,632
+adaderanasinhalalk | 3,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,090 (100.0%) of 23,093 articles have been extended.
+23,093 (100.0%) of 23,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### T20 ලෝක කුසලානයට යන ශ්‍රී ලංකා සංචිතය වෙනුවෙන් නිර්මාණය කළ වීඩියෝව
+### මුජිබුර් අද පාර්ලිමේන්තුවට
+
+*2024-05-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196462) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස මුජිබුර් රහුමාන් මහතා අද (10) දිනයේ දිවුරුම් දීමට නියමිතව තිබේ.
+
+අද දෙරණ කළ විමසීමක දී ඔහු සඳහන් කළේ උදෑසන 9.30ට පාර්ලිමේන්තුව රැස්වීමෙන් අනතුරුව තමා මන්ත්‍රී ධුරයේ දිවුරුම් දීමට නියමිත බවය.
+
+ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වු සමගි ජන බලවේගය පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා පත් කිරීමට එම පක්ෂය තීරණය කළේය.
+
+කෙසේවෙතත් ඩයනා ගමගේ මහත්මියගෙන් පුරප්පාඩු වී ඇති මන්ත්‍රී අසුන සඳහා සුදුසු කාන්තාවක් පත් කරන්නැයි ශ්‍රී ලංකා පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය ඉල්ලීමක් කර තිබේ.
+
+ඒ සම්බන්ධයෙන් එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය සුදර්ශණී ප්‍රනාන්දුපුල්ලේ මහත්මිය විසින් සමගි ජනබලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා වෙත ලිපියක් ද යොමුකර ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d7be3cc2.json)
+
+---
+
+### Kaspersky detects 15 million incidents on Sri Lankan computers in 2023
+
+*2024-05-10 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kaspersky-detects-15-million-incidents-on-Sri-Lankan-computers-in-2023/108-282275) · `en`
+
+Says high incidence of malware spread through removable media observed
+
+Kaspersky yesterday shared that in 2023, its products detected 15 million local incidents on the computers of Kaspersky Security Network participants in Sri Lanka.
+
+Overall, nearly 46 percent of users in Sri Lanka were targeted by local threats during this period.
+
+Additionally, 9.3 million different Internet-borne cyberthreats have been detected on the computers of KSN participants in Sri Lanka. Overall, 39.5 percent of users were targeted by web-borne threats during this period.
+
+“In Sri Lanka, we observe high incidence of malware spread through removable media such as USB drives. These attacks exploit vulnerabilities in local systems, often bypassing initial digital defenses,” said Kaspersky General Manager for Southeast AsiaYeo Siang Tiong.
+
+...
+
+[Data](articles/7759a99f.json)
+
+---
+
+### Video created for the Sri Lankan squad for the T20 World Cup
 
 *2024-05-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196461) · `si`
 
-එළඹෙන පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා නම් කළ වන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය ඊයේ (09) ප්‍රකාශයට පත් කෙරුණි.
+Sri Lanka's T20 World Cup squad, led by Vanudu Hasaranga, was announced on 09/05, with 15 players set to depart on 14/05 for the tournament in the US and West Indies starting 01/06.
 
-වනිදු හසරංගගේ නායකත්වයෙන් යුත් මෙම සංචිතය සඳහා ක්‍රීඩකයින් 15 දෙනෙකු ඇතුළත් ය.
+🟩
 
-ඒ අනුව ලෝක කුසලානයට සහභාගී වන 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය මැයි මස 14 වන දින දිවයිනෙන් පිටත්ව යන බව සඳහන් වෙයි.
+The Sri Lanka Cricket squad for the upcoming Twenty20 World Cup was declared yesterday (09).
 
-පන්දුවාර 20 -20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිතය.
+The squad led by Vanudu Hasaranga includes 15 players.
 
-ශ්‍රී ලංකා සංචිතය ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේ මේ ආකාරයෙනි.
+Accordingly, the Sri Lankan squad of the 15 people who participate in the World Cup will leave the island on the 14th of May on May 14.
+
+The 20 -20 World Cup will be held from June 01 from June 01 at US and West Indies.
+
+That is how Sri Lanka cricket has announced the squad.
 
 ◼️
 
 [Data](articles/54362276.json)
 
+[Extended Data](ext_articles/54362276.ext.json)
+
 ---
 
-### අර්බුද සමයේ ඉන්ධන අතුරුදන් වූ අයුරු සොයයි
+### Fuel disappeared during the crisis
 
 *2024-05-10 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196460) · `si`
 
-ඛනිජ තෙල් තොග ගබඩා පර්යන්තවලින් අර්බුද සමයේ පිටතට රැගෙන ගිය ඇතැම් ඉන්ධන තොග අතුරුදන් වී ඇති බවට බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය වී තිබේ.
+During the crisis, fuel and transport disappeared from criminal storage terminals. The Sectoral Oversight Committee revealed this, with Chairman MP Nalaka Bandara Kottegoda noting the disappearance from the Sri Lanka Petroleum Warehouse Terminal. The committee also reported the destruction of data stores at the Petroleum Storage Terminal. Additionally, the Chairman of the Chamber of Committees, Champika Ranawaka, mentioned the direct supply of Sri Lankan charcoal from miners and the expectation of submitting essential food items like potatoes and onions to Parliament. This move aims to provide a practical solution for customers through an open digital platform, addressing the high prices of imported food items.
 
-එම කාරක සභාව හමුවට ශ්‍රී ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ නිලධාරීන් කැඳවා සිදුකළ ප්‍රශ්න කිරිමේදී මේ පිළිබඳ අනාවරණය වී ඇති බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා පැවසීය.
+🟩
 
-අර්බුද සමයේ ඛනිජ තෙල් තොග ගබඩා පර්යන්තයේ දත්ත ගබඩා තුළ පවතින දත්ත සිතා මතා විනාශ කර ඇති බවද මෙහිදී අනාවරණ වී ඇති බව බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා සඳහන් කළේය.
+The sectoral Oversight Committee has revealed that some of the fuel and transport was disappeared from the criminal storage terminals from the crisis.
 
-මෙරටට අවශ්‍ය ගල් අඟුරු තොග පතල්කරුවන්ගෙන් සෘජුවම ආනයනය කිරීමට ලංකා අඟුරු සමාගමේ අවදානය යොමුවී ඇති බවද නාලක බණ්ඩාර කෝට්ටේගොඩ මහතා තවදුරටත් පැවසීය.
+The Chairman of the Committee MP Nalaka Bandara Kottegoda said that the Sri Lanka Petroleum Warehouse Terminal of the Sri Lanka Petroleum Federal Company had been revealed when he interrogated the Sri Lanka Petroleum Storage Terminal.
+
+The Chairman of the Sectoral Oversight Committee said that the data stores of the petrol storage of the Database of Petroleum Store Terminal has been destroyed.
+
+He added that the Sri Lankan charcoal is directing directly from the coal stock miners in Sri Lanka.
+
+Meanwhile, Chamber of Committees, the Chairman of the Chairman Physician, Champika Ranawaka, said that it is expected to be submitted to the Parliament, including potatoes, onions, including potatoes, including potatoes, and onions, including potatoes, including potatoes and food items.
 
 ...
 
 [Data](articles/9890ae3c.json)
+
+[Extended Data](ext_articles/9890ae3c.ext.json)
 
 ---
 
@@ -490,6 +544,8 @@ The accredited Shariah Scholars and compliance certification process approved by
 
 [Data](articles/d8a34801.json)
 
+[Extended Data](ext_articles/d8a34801.ext.json)
+
 ---
 
 ### Telecommunication Regulatory Amendment will be presented in Parliament - Minister of Technology Kanaka Herath
@@ -646,6 +702,32 @@ So the salary increase for plantation workers is a gazette notification to misle
 
 ---
 
+### SriLankan Airlines:  පෞද්ගලීකරණය කිරීමේ අලුත් ම තත්ත්වය කුමක් ද?
+
+*2024-05-10 02:06:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py1j7x8yjo) · `si`
+
+SriLankan Airlines:  පෞද්ගලීකරණය කිරීමේ අලුත් ම තත්ත්වය කුමක් ද?
+
+ශ්‍රී ලංකා රජය සතු ශ්‍රීලංකන් ගුවන් සමාගම දිගින් දිගට ම පාඩු ලැබීම හේතුවෙන් වෙනත් පාර්ශවයකට පැවරීම සම්බන්ධයෙන් වසර ගණනක සිට අදහස් පළවෙමින් තිබේ.
+
+SriLankan Airlines: ‘ශ්‍රී ලංකාවට ආදරෙයි.නමුත් ගුවන් සේවය ඒ අත්දැකීම විනාශ කළා’
+
+1998 වසරේ සිට 2008 වසර දක්වා මෙම ගුවන් සේවය එමිරේට්ස් ගුවන් සමාගම යටතේ ක්‍රියාත්මක විය.
+
+මේ වන විට, යළිත් ශ්‍රීලංකන් ගුවන් සමාගම "රාජ්‍ය මූල්‍යවලට බරක් නොවන තිරසර ව්‍යවසායන් නිර්මාණය කිරීම" අරමුණු කර ගනිමින් පෞද්ගලිකරණය කිරීම සඳහා 'රජය සතු ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකයට' (SRU) භාර දී තිබේ.
+
+ශ්‍රීලංකන් ගුවන් සමාගමේ කොටස් මිල දී ගැනීම සඳහා වන ලංසු ඉදිරිපත් කිරීමට ලබා දී තිබූ කාලය 2024 අප්‍රේල් මස 22 වන දා පස්වරු 2.00ට අවසන් විය.
+
+ඒ අනුව, ශ්‍රීලංකන් ගුවන් සමාගමේ කොටස් මිල දී ගැනීම සඳහා පාර්ශව 6කින් ලංසු ඉදිරිපත් වී තිබේ.
+
+මෙම සමාගම් විසින් ඉදිරිපත් කරනු ලැබ ඇති අයැදුම් පත් අගැයීමට ලක් කරමින් සිටින බව වරාය, නාවික සහ ගුවන් සේවා අමාත්‍යාංශයේ ලේකම් කේ.ඩී.එස්. රුවන්පතිරණ බීබීසී සිංහල සේවයට පැවසීය.
+
+...
+
+[Data](articles/e84f071b.json)
+
+---
+
 ### Prostitution house siege in Jaffna - four arrested
 
 *2024-05-10 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183100) · `ta`
@@ -717,6 +799,40 @@ Those who closely follow Israel’s genocidal campaign in Gaza know that Rafah h
 [Data](articles/9f0a5912.json)
 
 [Extended Data](ext_articles/9f0a5912.ext.json)
+
+---
+
+### ’டயானாவின் வெற்றிடத்திற்கு பெண் வேண்டும்’
+
+*2024-05-10 00:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-வெற்றிடத்திற்கு-பெண்-வேண்டும்/175-337064) · `ta`
+
+டயானா கமகேவின் பாராளுமன்ற ஆசன வெற்றிடத்திற்கு ஐக்கிய மக்கள் சக்தியின் முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மானை நியமிக்குமாறு ஐக்கிய மக்கள் சக்தியினரால் தேர்தல்கள் ஆணையாளருக்கு நேற்று  கடிதம் அனுப்பப்பட்டுள்ளது.
+
+இந்த நிலையில், டயானா கமகேவின் பாராளுமன்ற ஆசன வெற்றிடத்திற்கு பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியம் ஐக்கிய மக்கள் சக்தியிடம் கோரிக்கை விடுத்துள்ளது.
+
+வெற்றிடத்திற்கு பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு கோரி பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவர் சுதர்ஷினி பெர்னாண்டோ புள்ளே, ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர், பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்துமபண்டாரவுக்கு கடிதமொன்றை அனுப்பியுள்ளார்.
+
+பெண்களின் அனுபவம், அறிவு மற்றும் எதிர்கால சிந்தனை என்பன சமூகத்திலுள்ள அனைவருக்கும் பயனளிக்கும் வகையிலான கொள்கைகளை வகுப்பதில் பங்களிக்க வேண்டும் எனவும், பயனுள்ள ஜனநாயகத்திற்கு பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முக்கியமானது எனவும் பெண் பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் வலியுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/0d2f8917.json)
+
+---
+
+### ’ஆயுத உதவிகளை நிறுத்துவோம்’
+
+*2024-05-10 00:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆயுத-உதவிகளை-நிறுத்துவோம்/50-337063) · `ta`
+
+தெற்கு காஸாவின் ரஃபா நகரம் மீது தாக்குதல் நடத்தினால், ஆயுத உதவிகளை நிறுத்துவோம் என இஸ்ரேலுக்கு அமெரிக்க ஜனாதிபதி ஜோ பைடன் எச்சரிக்கை விடுத்துள்ளார்.
+
+ரஃபாவுக்குள் இஸ்ரேல் இராணுவம் தரைவழி தாக்குதலை நடத்தினால், அந்த நாட்டுக்கு ஆயுதங்கள் மற்றும் பீரங்கி குண்டுகளை வழங்கப் போவதில்லை என ஜோ பைடன் குறிப்பிட்டுள்ளார்.
+
+ரஃபாவின் தற்போதைய நிலைமையை தரைப்படை நடவடிக்கையாக அமெரிக்கா வரையறுக்கவில்லை எனவும் அவர் கூறியுள்ளார். (a)
+
+◼️
+
+[Data](articles/7175a04e.json)
 
 ---
 
@@ -1233,6 +1349,22 @@ This man suspiciously brought this man who is owned by a person who owns a gover
 [Data](articles/b2e53c38.json)
 
 [Extended Data](ext_articles/b2e53c38.ext.json)
+
+---
+
+### වොෂින්ටන් ශ්‍රී ලංකා තානාපති හි ’’පාස්පෝට් DC’’උළෙලට 5000ඉක්මවූ පිරිසක්
+
+*2024-05-09 21:11:41* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටන්-ශ්‍රී-ලංකා-තානාපති-හි-’’පාස්පෝට්-DC’’උළෙලට-5000ඉක්මවූ-පිරිසක්/11-409543) · `si`
+
+ඇමෙරිකාවේ ස්ථාපිත විදෙස් තානාපති කාර්යාල රටේ සංස්කෘතිය හා ජීවන පසුබිම විදහාපාන  "පාස්පෝට් DC 2024" සදහා මෙවර 5037ක වාර්තාගත ජනතාවක් ආකර්ශනය කර ගැනීමටශ්‍රී ලංකා තානාපති කාර්යාලය සමත්වූ බව "පාස්පෝට් DC වැඩසටහන" නිළ ලෙස ප්‍රකාශ කළේය.
+
+යුරෝපයේ නොවන රටවල උළෙල 04දා පැවැතිඅතරඑම රටවල් 55ක තානාපති කාර්යාල අතර ප්‍රමුඛ ස්ථානයක් ලබා ගැනීමට ශ්‍රී ලංකාව සමත්ව ඇති බවට ඇමෙරිකානු මාධ්‍ය  පළකොට තිබේ.
+
+පැමිණිඅයට ලංකාවේ රස කැවිලිඋණුසුම්හා සීතකල තේහා පිටවන විට රසකැවිලි හා තේ පාර්සලදලබාදුන්හ."ග්‍රොසරි ලංකා" ඇතුළුපෞද්ගලික අංශය මගින් ලංකාවේ නිෂ්පාදිත බිස්කට් කුරුදු හා  පාන වර්ග ද ලබා දුන්හ.
+
+...
+
+[Data](articles/c4a020f4.json)
 
 ---
 
@@ -2031,145 +2163,5 @@ The CID apprehended Dr. Gunasekara in connection with the procurement of substan
 [Data](articles/6a30bee9.json)
 
 [Extended Data](ext_articles/6a30bee9.ext.json)
-
----
-
-### NMRA former CEO remanded
-
-*2024-05-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196446) · `si`
-
-Dr. Vijith Gunasekera, former CEO of the National Drug Regulatory Authority, was arrested and remanded until the 20th after a lengthy interrogation about questionable Human Emiyankulin antibodies.
-
-🟩
-
-The former Chief Executive Officer of the National Drug Regulatory Authority has been remanded till the 20th.
-
-He was produced before the Maligakanda Magistrate this morning.
-
-Former CEO of the National Drug Regulatory Authority, Dr. Vijith Gunasekera was arrested yesterday (08).
-
-The Criminal Investigation Department has given a statement for nearly 10 hours.
-
-He made a statement to the Criminal Investigation Department regarding the questionable Human Emiyankulin antibodies.
-
-◼️
-
-[Data](articles/2c4a4fec.json)
-
-[Extended Data](ext_articles/2c4a4fec.ext.json)
-
----
-
-### Elephants Attakasam in Mullaitivu District
-
-*2024-05-09 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183081) · `ta`
-
-In Mullaitivu's Viswamadu Mettupattiuru village, three elephants attacked at midnight on Wednesday, damaging crops and over 100 banana trees. Residents, facing ongoing losses from elephants, urge authorities to complete elephant fences and address their livelihood issues.
-
-🟩
-
-Mullaitivu - Viswamadu Mettupattiuru village has caused a farmer's crops.
-
-The incident took place at midnight on Wednesday (08). He expressed concern that 03 elephants had damaged the harvest and more than 100 banana trees.
-
-The residents of the area say that the elephants have long been destroying their livelihoods in the village and the work of elephant fences is not completed.
-
-Farmers have asked the relevant authorities to rush and solve their problem.
-
-◼️
-
-[Data](articles/2b39dc68.json)
-
-[Extended Data](ext_articles/2b39dc68.ext.json)
-
----
-
-### Central Environmental Authority Lunish Sheets raided
-
-*2024-05-09 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196445) · `si`
-
-In a midnight raid, the Central Environmental Authority, Environmental Police Unit, and Consumer Affairs Authority arrested an illegal polythene manufacturer in Kesbewa and Bellanwila. Legal action was taken against the factory and lorry owner under the National Environmental Act.
-
-🟩
-
-An illegal polythene has been arrested by a raid in Kesbewa and Bellanwila and Bellanwila.
-
-The raid was carried out in midnight yesterday (08) with the CEA, Environmental Police Unit and Consumer Affairs Authority.
-
-A total of Rs.
-
-Legal action has been taken against the owner of the relevant factory and the owner of the lorry under the provisions of the National Environmental Act.
-
-◼️
-
-[Data](articles/fc23dcd7.json)
-
-[Extended Data](ext_articles/fc23dcd7.ext.json)
-
----
-
-### STF officers honored for rescuing hostage children
-
-*2024-05-09 17:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/STF-officers-honored-for-rescuing-hostage-children/110-282255) · `en`
-
-A team of Special Task Force (STF) officers, lauded for their bravery in rescuing two children held hostage by their father in Jalthara, Hanwella, were honored with cash prizes in recognition of their exemplary service.
-
-Public Security Minister Tiran Alles presided over the ceremony held at the ministry today. Among the attendees were IGP Deshabandu Tennakoon, STF Commandant Waruna Jayasundara and DIG Ranmal Kodithuwakku. The event also saw the presence of DIG M.KB.S.N. Gunaratne, SP Dimuthu Samaranayake and seven other STF personnel who were awarded with Rs. 750,000 in cash along with certificates of appreciation from the IGP.
-
-Last week, two children who were taken hostage by a father in Jalthara, Hanwella were rescued by the STF after a nine-hour operation. The suspect had come with a hand grenade to kill his wife who was living at the Government Servant's Housing Complex in Jalthara last evening and took the children hostage. The STF managed to arrest the suspect with a great effort.
-
-◼️
-
-[Data](articles/cd6e95f3.json)
-
-[Extended Data](ext_articles/cd6e95f3.ext.json)
-
----
-
-### Passenger arrested with ‘Gold Gel’ worth Rs. 40 million at BIA
-
-*2024-05-09 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99113/passenger-arrested-with-gold-gel-worth-rs-40-million-at-bia) · `en`
-
-Officers attached to the Narcotics Control Unit of Sri Lanka Customs have arrested a passenger at the Bandaranaike International Airport (BIA) in Katunayake with ‘Gold Gel’ weighing nearly 2 kilograms and estimated to be worth around Rs. 40 million.
-
-The arrested suspect, a 25-year-old youth, had arrived from Dubai onboard an Emirates Airline flight at around 8.30 a.m. this morning (9).
-
-The suspect has reportedly hidden the three parcels containing the ‘Gold Gel’ in his shoes and underwear.
-
-The total weight of the gold gel seized by Customs officers is 1,975 grams and the value is estimated to be Rs. 40 million.
-
-Further investigations regarding this arrest are being conducted by the Narcotics Control Unit of Sri Lanka Customs.
-
-◼️
-
-[Data](articles/7535232b.json)
-
-[Extended Data](ext_articles/7535232b.ext.json)
-
----
-
-### Four dies in a week due to heavy heated
-
-*2024-05-09 17:20:30* · [`adalk`](https://www.ada.lk/breaking_news/අධික-උෂ්ණය-හේතුවෙන්-ගෙවුනු-සතියක-කාලයක්-තුල-4ක්-මිය-ගිහින්/11-409531) · `si`
-
-In Jaffna, four deaths in a week were attributed to extreme heat, exceeding 40°C. Doctors emphasized the importance of hydration and protective measures against heat-related illnesses, highlighting the impact on kidney, heart, and lung health.
-
-🟩
-
-Special doctors point out that four patients have died due to the high temperatures of the Jaffna district during a week due to the high temperatures of the Jaffna district.
-
-At a press conference to educate the public on how to protect the masses on the high temperature, doctors were speaking at the occasion.
-
-Doctors at this press conference have to die due to various diseases that the residents of the Jaffna district have died due to various diseases of the disease due to the extreme temperature of the patients and the deaths of these patients.Said.
-
-The doctors pointed out that the influence of kidney, heart and lungs are driven by the influence of the heatterity, in addition to diseases related to diseases.
-
-In many places in Jaffna over the past week, more than 40 degrees Celsius showed more than 40 degrees Celsius.
-
-...
-
-[Data](articles/aa7b6cb0.json)
-
-[Extended Data](ext_articles/aa7b6cb0.ext.json)
 
 ---

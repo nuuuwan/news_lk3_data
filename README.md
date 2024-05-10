@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 06:17:49**
+As of **2024-05-10 06:57:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,070 (99.9%) of 23,084 articles have been extended.
+23,072 (99.9%) of 23,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ In this ideal society, there are no grievances about the contributions made for 
 
 [Data](articles/08dffd3c.json)
 
+[Extended Data](ext_articles/08dffd3c.ext.json)
+
 ---
 
 ### Sri Lankan elections and an Indian Ocean tug-of-war
@@ -61,6 +63,8 @@ In order to ascertain this tug-of-war, this article is divided into three sectio
 ...
 
 [Data](articles/e1d4b9fd.json)
+
+[Extended Data](ext_articles/e1d4b9fd.ext.json)
 
 ---
 

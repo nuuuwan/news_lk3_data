@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 21:53:07**
+As of **2024-05-10 22:05:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,724
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,216 (100.0%) of 23,220 articles have been extended.
+23,220 (100.0%) of 23,220 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Initially working as a cook, Selvarajah's passion for baking soon led him to a b
 
 [Data](articles/9c0587c8.json)
 
+[Extended Data](ext_articles/9c0587c8.ext.json)
+
 ---
 
 ### Three cops arrested for bribery to halt action against selling sexual stimulants
@@ -62,21 +64,29 @@ The saga began when the medicine dealer filed a complaint with the Sapugaskanda 
 
 [Data](articles/62279510.json)
 
+[Extended Data](ext_articles/62279510.ext.json)
+
 ---
 
-### அஹுங்கல்லையில் துப்பாக்கிச் சூடு!
+### Shoot in Ahungalla!
 
 *2024-05-10 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183190) · `ta`
 
-அஹுங்கல்ல பகுதியில் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரால் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+In Ahungalla, a 54-year-old man was shot by unidentified assailants on a motorcycle, suffering multiple gunshot wounds to his stomach. He was admitted to Balapitiya hospital.
 
-துப்பாக்கிச் சூட்டில் 54 வயதுடைய நபர் ஒருவர் காயமடைந்து பலப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும் பலியானவர் முற்றத்தில் சுடப்பட்டதாகவும், பல தோட்டாக்கள் அவரது வயிற்றில் தாக்கியதாகவும் பொலிஸார் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+Two unidentified firing on a motorcycle in the Ahungalla area has been shot.
+
+A 54 -year -old man was injured in the shooting and was admitted to the Balapitiya hospital, police said.
+
+It is noteworthy that the victim was shot in the courtyard and many bullets were attacked in his stomach.
 
 ◼️
 
 [Data](articles/cbe01db2.json)
+
+[Extended Data](ext_articles/cbe01db2.ext.json)
 
 ---
 
@@ -178,21 +188,29 @@ Professor Sunil Ariyaratne contributed to coordination of products in many films
 
 ---
 
-### தடை விதிக்கப்பட்டமைக்கு எதிராக மைத்திரியிடமிருந்து மேன்முறையீட்டு மனு
+### Appeal from Maithri
 
 *2024-05-10 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183189) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதிக்கப்பட்டமைக்கு எதிராக மேல் மாகாண சிவில் மேன்முறையீட்டு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+Maithripala Sirisena, former President, has appealed against a ban on the Sri Lanka Freedom Party (SLFP) in the Western Provincial Civil Appeal High Court. He seeks to overturn an interim order by the Colombo District Court, which prevents him from leading the SLFP. The defendant in this case is SLFP Executive Committee member Mondagu Sarachandra.
 
-ஶ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுத்து கொழும்பு மாவட்ட நீதிமன்றம் வியாழக்கிழமை (9) பிறப்பித்த இடைக்கால உத்தரவை கலைப்பதற்கான தீர்மானத்தை மைத்திரிபால சிறிசேன கோரியுள்ளார்.
+🟩
 
-சட்டத்தரணி ஜயமுதிதா ஜயசூரிய ஊடாக தாக்கல் செய்யப்பட்ட இந்த மேன்முறையீட்டு மனுவில் பிரதிவாதியாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினர் மொண்டகு சரச்சந்திர குறிப்பிடப்பட்டுள்ளார்.
+Former President Maithripala Sirisena has filed a petition in the Western Provincial Civil Appeal High Court against the ban on the Freedom Party (SLFP).
 
-பிரதிவாதியால் தாக்கல் செய்யப்பட்ட வழக்கை விசாரித்த கொழும்பு மாவட்ட நீதிமன்றம், தாம் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுத்து இடைக்கால உத்தரவு பிறப்பித்துள்ளதாக மைத்திரிபால சிறிசேன தனது மேன்முறையீட்டு மனுவில் சுட்டிக்காட்டியுள்ளார்.
+Maithripala Sirisena has demanded a decision to dissolve the interim order issued by the Colombo District Court on Thursday (9), preventing the act of the Sri Lanka Freedom Party.
 
-...
+Sri Lanka Freedom Party (SLFP) Executive Committee member Mondagu Sarachandra has been named as the defendant in the appeal filed by lawyer Jayamudita Jayasuriya.
+
+In his appeal, Maithripala Sirisena pointed out that the Colombo District Court, hearing the case filed by the defendant, has issued an interim order from acting as the leader of the Sri Lanka Freedom Party.
+
+It is noteworthy that the Colombo District Court has issued an interim injunction and has requested Maithripala Sirisena to issue an order to remove it.
+
+◼️
 
 [Data](articles/805840b6.json)
+
+[Extended Data](ext_articles/805840b6.ext.json)
 
 ---
 

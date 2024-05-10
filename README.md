@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 11:03:24**
+As of **2024-05-10 11:18:19**
 
 ## Newspaper Stats
 
-*Scraped **23,121** Articles*
+*Scraped **23,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,76 +19,116 @@ adalk | 1,963
 tamilmirrorlk | 2,702
 adaderanalk | 2,706
 virakesarilk | 3,438
-dailymirrorlk | 3,635
+dailymirrorlk | 3,636
 adaderanasinhalalk | 3,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,117 (100.0%) of 23,121 articles have been extended.
+23,121 (100.0%) of 23,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### ගිනිතබා විනාශ කළ යතුරුපැදියක් හමුවෙයි
+### Sri Lankan wins Tesla Cybertruck grand prize at WSO2CodeChallenge
+
+*2024-05-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-wins-Tesla-Cybertruck-grand-prize-at-WSO2CodeChallenge/108-282314) · `en`
+
+Pasindu Jayaweera, a Sri Lankan in Germany won the incredibal Tesla Cybertruck as the grand prize after becoming the winner of the WSO2CodeChallenge held in Hollywood.
+
+The WSO2CodeChallenge was held from May 7 - 9 at the Seminole Hard Rock Hotel and Casino in Hollywood, FL.
+
+WSO2's cloud-native software as a service (SaaS) offerings and open-source software are instrumental in the digital transformation journeys of numerous organizations, spanning thousands worldwide.
+
+This includes hundreds of the globe's largest corporations, premier universities, and governmental bodies. Annually, WSO2 facilitates the execution of an astounding 60 trillion transactions and manages over 1 billion identities for its clients.
+
+...
+
+[Data](articles/c68c3cf0.json)
+
+---
+
+### A motorcycle that destroyed fire
 
 *2024-05-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196469) · `si`
 
-ගිනිතබා විනාශ කරන ලද යතුරුපැදියක් පෞද්ගලික කුරුඳු ඉඩමක තිබී සොයාගෙන ඇත.
+A motorcycle linked to a shooting incident was found on private cinnamon land. The owner, a 54-year-old cinnamon worker, was killed in Ahungalla. Police suspect underworld gang rivalry and are investigating.
 
-මෙම යතුරුපැදිය පසුගියදා අහුන්ගල්ලේ වෙඩිතැබීම සඳහා යොදාගත් යතුරුපැදිය බවට පොලීසිය සැක කරයි.
+🟩
 
-අද (10) පෙරවරුවේ කුරුඳු කැපීමට ගිය අදාළ ඉඩමේ හිමිකරු පිළිස්සුණු යතුරුපැදිය දැක කොස්ගොඩ පොලීසියට දැනුම්දී තිබේ.
+A private cinnamon land was found in a private cinnamon land.
 
-කොස්ගොඩ පොලීසිය සහ ඇල්පිටිය කොට්ඨාස අපාරාධ අංශයේ නිලධාරින් එක්ව සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකරයි.
+Police suspect that the motorcycle was used for shooting recently shooting.
 
-පෙරේදා (08) දිනයේදී අහුංගල්ලේ දී සිදුකළ වෙඩිතැබීමෙන් 54 හැවිරිදි කුරුඳු කර්මාන්තයේ යෙදුණු පුද්ගලයෙක් මියගොස් තිබුණි.
+The owner of the relevant land to cut cinnamon this morning (10th) was informed the Kosgoda police.
 
-අහුංගල්ලේ, ලෝකන්වත්ත ප්‍රදේශයේ නිවසකට එදින රාත්‍රී 7.40ට පමණ ස්කූටි වර්ගයේ යතුරුපැදියකින් තවත් පුද්ගලයෙක් සමග පැමිණි වෙඩික්කරුවෙක් විසින් මෙම වෙඩි තැබීම සිදුකර තිබුණි.
+Kosgoda Police and the Elpitiya Divisional Secretariat are conducting further investigations.
 
-පොලීසිය පවසන්නේ මෙම පුද්ගලයා දකුණේ සිදුකළ ඝාතන සහ අපරාධ කිහිපයක සැකකරුවෙක් ලෙස සැලකෙන 'බබා' නමැත්තාගේ පියා බවය.
+A 54-year-old cinnamon industry was killed in a shooting in Ahungalla yesterday (08).
 
-දකුණේ පාතාල කල්ලි දෙකක් වන "කොස්ගොඩ සුජී" සහ "රත්ගම විදුර" පාර්ශ්ව අතර පවතින ගැටුමෙහි ප්‍රතිඵලයක් ලෙස මෙම ඝාතනය සිදුකර ඇති බවට පොලීසිය සැක පළකරයි.
+The shooting was carried out by a shooting from a scoop for another 7.40 night in Ahungalla, Ahungalla.
+
+The police states that the man was the father of 'Baby' as a suspect in several murders and crimes.
+
+Police suspect that the murder was held as a result of the confrontation between two underworld gangs, two underworld gangs, Kosgoda Vidura.
+
+The deceased is the victim of the sickness and vomiting the sickness when the deceased is the sickness and vomiting him out of the house.
 
 ...
 
 [Data](articles/31c0ca2d.json)
 
+[Extended Data](ext_articles/31c0ca2d.ext.json)
+
 ---
 
-### இலங்கைக்கு விஜயம் செய்யவுள்ளார் அமெரிக்க அதிகாரி டொனால்ட் லூ
+### US official Donald Lu is to visit Sri Lanka
 
 *2024-05-10 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183123) · `ta`
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் துணை செயலர் டொனால்ட் லூ இலங்கக்கு விஜயம் செய்யவுள்ளார்.
+US Deputy Secretary of State Donald Lu will visit India, Sri Lanka, and Bangladesh from March 10th to 15th, aiming to strengthen bilateral ties and US support for the Indo-Pacific region's prosperity and independence. In Sri Lanka, he'll meet with political leaders to discuss economic recovery and democratic values, and in Bangladesh, he'll focus on climate crisis relief and economic cooperation.
 
-அமெரிக்காவின் துணை செயலர் டொனால்ட் லூ,  இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கான விஜயத்தை இன்று வெள்ளிக்கிழமை (10) முதல் எதிர்வரும் 15 ஆம் திகதி வரை மேற்கொள்கிறார்.
+🟩
 
-டொனால்ட் லூவின் 3 நாடுகளுக்கான விஜயமானது ஒவ்வொரு நாட்டுடனும் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்தும் என்பதுடன் சுதந்திரமான மற்றும் வளமான இந்தோ-பசிபிக் பிராந்தியத்திற்கான அமெரிக்காவின் ஆதரவை நிரூபிக்கும் வகையில் அமையவுள்ளது.
+Donald Lu will visit Sri Lanka, US Secretary of South and Central Asian Affairs.
 
-இந்தியாவுக்கு விஜயம் செய்யும் டொனால்ட் லூ, தென்னிந்தியாவில் இருதரப்பு ஈடுபாட்டை மேம்படுத்தும் நோக்கில் சென்னையிலுள்ள துணைத் தூதரக அதிகாரிகளை சந்திக்கவுள்ளார்.
+US Deputy Secretary of State Donald Lu will make a visit to India, Sri Lanka and Bangladesh from Friday (10) to the 15th of this month.
+
+The visit of Donald Lu's 3 countries will strengthen bilateral cooperation with each country and proves US support for the Indo-Pacific Region, an independent and prosperous Indo-Pacific region.
+
+Donald Lu, who is visiting India, will meet with sub -embassy officials in Chennai to improve bilateral involvement in South India.
+
+Donald Lu will meet with prominent political leaders and reiterate the support of the US for the economic recovery of Sri Lanka and the importance of the independent and democratic society of independent and democratic society.
 
 ...
 
 [Data](articles/567d10a5.json)
 
+[Extended Data](ext_articles/567d10a5.ext.json)
+
 ---
 
-### யால தேசிய பூங்காவில் பூச்சி இனங்களை கடத்த முயன்ற இரு இத்தாலிய பிரஜைகள் கைது
+### Two Italian citizens arrested for trying to smuggle insects at Yala National Park
 
 *2024-05-10 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183117) · `ta`
 
-யால தேசிய பூங்காவில்  இருந்து சேகரித்த நூற்றுக்கணக்கான உள்ளூர் பூச்சி மற்றும் தாவர இனங்களை வெளிநாட்டிற்கு கடத்த முயன்றதாகக் கூறப்படும் இரண்டு இத்தாலிய பிரஜைகள் கடகமுவ பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+Two Italians arrested for smuggling 285 insects, including butterflies, from Yala National Park in Sri Lanka.
 
-இவர்களை புதன்கிழமை (08) கடகமுவ வனவிலங்கு பாதுகாப்பு அலுவலக அதிகாரிகள்  கைது செய்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்களிடம் இருந்து இலங்கையிலுள்ள  வண்ணத்துப்பூச்சிகள் உட்பட 285 பூச்சிகளை சேகரித்து வைத்திருந்த ஏராளமான கண்ணாடி குவளைகளை கைப்பற்றியதாக வனவிலங்கு அதிகாரிகள் தெரிவித்துள்ளனர்.
+Two Italian citizens allegedly attempted to smuggle hundreds of local pests and plants from the Yala National Park have been arrested in the Kadagamuwa area.
+
+They were arrested on Wednesday (08).
+
+Wildlife officials said they had seized a large number of glass mugs that had collected 285 insects, including butterflies in Sri Lanka, from the arrested.
 
 ◼️
 
 [Data](articles/23a84555.json)
+
+[Extended Data](ext_articles/23a84555.ext.json)
 
 ---
 
@@ -107,6 +147,8 @@ He will then travel to Colombo to engage with officials from across the politica
 ...
 
 [Data](articles/b178f892.json)
+
+[Extended Data](ext_articles/b178f892.ext.json)
 
 ---
 
@@ -2183,31 +2225,5 @@ At the same time, the Minister said that the workers' commodity would not be agr
 [Data](articles/1da5b3dd.json)
 
 [Extended Data](ext_articles/1da5b3dd.ext.json)
-
----
-
-### A temple complex found in a year old history
-
-*2024-05-09 19:48:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-1900ක්-පැරණි-ඉතිහාසයකට-නෑ-කම්-කියන-විහාර-සංකීර්ණයක්-හමුවෙයි/11-409538) · `si`
-
-Archaeologists have discovered a 1900-year-old temple complex in Bambaragahawatte, Sri Lanka, during a research project with the University of Kelaniya. The site, located in the Naulagahawatte Thetone of the Matale District, dates back to the Anuradhapura period (BC). The complex, believed to be a Pabbite temple, includes ruins of a structure measuring 400-500 square feet. This find is significant for understanding Sri Lankan archaeology.
-
-🟩
-
-The ruins of a 1900-year-old temple complex and the ruins of a chaact of 400 - 500 square feet of 400 - 500 square feet have been found in Bambaragahawatte.
-
-Tikiri Herath Gunatilleke, Senior Lecturer at the Faculty of the Department of the Department of Archeology Tikiri Herath Gunatilleke, revealed this yesterday (09).
-
-The archaeological site of the Naulagahawatte Thetone of the Naulagala Divisional Secretariat Division of the Matale District of the Matale District is located at the time of identification.
-
-In the research held with the Department of Social Sciences of the University of Kelaniya, the Department of Social Sciences of the University of Kelaniya, has joined the Anuradhapura period (BC). It has been revealed that belongs to the second century.
-
-"It is expected that there is a Pabbite temple complex at this place. We met the ruins of a chaact of 400-500 feet ".
-
-...
-
-[Data](articles/d2c25ae3.json)
-
-[Extended Data](ext_articles/d2c25ae3.ext.json)
 
 ---

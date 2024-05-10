@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 16:04:47**
+As of **2024-05-10 16:18:25**
 
 ## Newspaper Stats
 
-*Scraped **23,175** Articles*
+*Scraped **23,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 2,713
 tamilmirrorlk | 2,714
 virakesarilk | 3,444
 dailymirrorlk | 3,642
-adaderanasinhalalk | 3,712
+adaderanasinhalalk | 3,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,174 (100.0%) of 23,175 articles have been extended.
+23,175 (100.0%) of 23,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### අකුණු සැර වැදී රෝහලක ගින්නක්
+
+*2024-05-10 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196481) · `si`
+
+අයහපත් කාලගුණය සහ අධික වර්ෂාවත් සමග හටගත් අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක් හට ගෙන තිබේ.
+
+එම අවස්ථාවේ එම අංශයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් තිදෙනෙකු කඩිනමින් ඉවතට ගෙන අවශ්‍ය ප්‍රතිකාර නිසි ලෙස ඉටු කිරීමට රෝහල් කාර්ය මණ්ඩලය කටයුතු තිබේ.
+
+අකුණු සැර වැදීමෙන් කිසිවෙකුටත් හානියක් සිදුනොවුනත් එහි උපකරණවලට හානි සිදු වී ඇති බව වලස්මුල්ල මූලික රෝහලේ නිලධාරීන් පවසයි.
+
+වලස්මුල්ල පොලීසිය, ලංකා විදුලිබල මණ්ඩලය සහ තංගල්ල නගර සභාවේ ගිනිනිවන ඒකකය රෝහල වෙත පැමිණ අකුණු සැර වැදීමෙන් ගට ගත් ගින්න නිවීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/e58bfee9.json)
+
+---
 
 ### SLPP ready for Presidential election, no candidate yet: Basil
 
@@ -45,6 +63,8 @@ When asked whether the SLPP would support President Wickremesinghe, he said the 
 ◼️
 
 [Data](articles/13a63898.json)
+
+[Extended Data](ext_articles/13a63898.ext.json)
 
 ---
 
@@ -2209,29 +2229,5 @@ Plantation people have a huge contribution to the economy of the country.
 [Data](articles/86e16562.json)
 
 [Extended Data](ext_articles/86e16562.ext.json)
-
----
-
-### Appoint female member for parliamentary vacuum - Female Member of Parliament
-
-*2024-05-10 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183103) · `ta`
-
-Sudarshini Fernandanpulle, president of the Union Member of Parliament (Hospital), has called for a female MP to replace Diana Kamage, emphasizing the importance of female representation in parliament for policy-making and gender equality.
-
-🟩
-
-Sudarshini Fernandanpulle, the president of the Union Member of Parliament (Hospital), has sent a letter to the General Secretary of the United People's Power, Ranjith Mathuma, demanding the appointment of a female suitable woman for the vacancy caused by the cancellation of the post of MP Diana Kamage.
-
-The decrease in a member of the Union Member of Parliament and the decline in female representation in parliament has been reduced by a member of the Union Member of Parliament Diana Kamage.
-
-The Union of Women's Members of Parliament has demanded that women's experience, knowledge and future thinking contribute to the formation of policies that benefit all the community and that the representation of women in Parliament is important to useful democracy.
-
-The union of the female parliamentary members has pointed out that this will reduce the negative impact of the removal of parliamentarian Diana Kamage and ensure the commitment to gender equality and diversity in Parliament.
-
-...
-
-[Data](articles/6c4e605a.json)
-
-[Extended Data](ext_articles/6c4e605a.ext.json)
 
 ---

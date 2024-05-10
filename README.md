@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 13:52:46**
+As of **2024-05-10 14:03:43**
 
 ## Newspaper Stats
 
-*Scraped **23,152** Articles*
+*Scraped **23,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,99 @@ islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,965
-tamilmirrorlk | 2,709
+tamilmirrorlk | 2,712
 adaderanalk | 2,712
 virakesarilk | 3,439
 dailymirrorlk | 3,638
-adaderanasinhalalk | 3,707
+adaderanasinhalalk | 3,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,151 (100.0%) of 23,152 articles have been extended.
+23,152 (100.0%) of 23,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### ගම්මාන කිහිපයකට අසාමාන්‍ය විදුලි බිලක්
+### ඉන්දීය ක්‍රිකට් බලධාරීන් හදිසි තීරණයක් ගනී
+
+*2024-05-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196476) · `si`
+
+ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු තනතුර සඳහා එළැඹෙන 20යි 20 ලෝක කුසලාන තරගාවලියට පෙර අයදුම්පත් කැඳවීමට ඉන්දීය ක්‍රිකට් බලධාරීන් තීරණය කර තිබේ.
+
+එම කණ්ඩායමේ වර්තමාන පුහුණුකරු ලෙස කටයුතු කරන රාහුල් ඩ්‍රාවිඩ් ටද ඒ සඳහා අයදුම්කළ හැකි බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ ලේකම් ජේ ෂා පැවසීය.
+
+නව ප්‍රධාන පුහුණුකරු ට 2027 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ තෙක් වසර තුනක කොන්ත්‍රාත්තුවක් හිමිවන බවද ෂා පැවසීය.
+
+◼️
+
+[Data](articles/8a90c2fd.json)
+
+---
+
+### ஒலிம்பிக் தீபத்தை  ஏந்தவுள்ள இலங்கைத் தமிழர்
+
+*2024-05-10 13:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-தீபத்தை-ஏந்தவுள்ள-இலங்கைத்-தமிழர்/175-337087) · `ta`
+
+ஒலிம்பிக் தீப்பந்தத்தின் நீண்ட அஞ்சலோட்ட சுற்றுப்பயணம் பிரான்ஸ் முழுவதும் இடம்பெற்றுவரும் நிலையில் பரிஸில் ஒலிம்பிக் தீபத்தை ஏந்தும் வாய்ப்பு ஈழத் தமிழர் ஒருவருக்கு கிடைத்துள்ளது.
+
+பரிஸ் நகரில் கடந்த வருடம் சிறந்த பாண் தயாரிப்பில் முதலிடம் பெற்ற தர்ஷன் செல்வராஜா என்பவே, இத்தகைய பெருமைக்குரிய வாய்ப்பைப் பெற்றுள்ளார்.
+
+யாழ்ப்பாணத்தைச் சேர்ந்த இவர், பிரான்ஸ் ஜனாதிபதியின் வசிப்பிடமான எலிஸே மாளிகைக்குப் பாண் விநியோகம் செய்யும் வாய்ப்பையும் பெற்றவர் என்பது குறிப்பிடத்தக்கது.S
+
+◼️
+
+[Data](articles/dce9a775.json)
+
+---
+
+### An unusual electricity bill for several villages
 
 *2024-05-10 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196475) · `si`
 
-තඹුත්තේගම ප්‍රාදේශීය ලේකම් බලප්‍රදේශයේ ගම්මාන කිහිපයක ජනතාව මේ මස විදුලි බිල නිසා විශාල ගැටලුවකට මුහුණ පා සිටී.
+Villagers in Thambuththegama Divisional Secretariat area are facing a significant electricity bill issue, with some receiving bills of 100,000 rupees. Despite paying their monthly tariffs since 2020, the sudden increase in bills has caused financial strain. The Regional Electrical Engineers of Kekirawa, who serve 140,000 houses in three villages, have initiated an investigation into the matter. The public is advised to pay their bills without interest, but the situation remains concerning.
 
-ඔවුන් පවසන්නේ විදුලි බිල සඳහා රුපියල් ලක්ෂ ගණනක් ගෙවීමට සිදුවී ඇති බවය.
+🟩
 
-තඹුත්තේගම ප්‍රාදේශීය ලේකම් බලප්‍රදේශයට අයත් හුරිගස්වැව, පලුගස්වැව, සියඹලාගස්වැව ආදී ගම්මානවලට විදුලි සේවා සැපයෙන්නේ කැකිරාව ප්‍රාදේශීය විදුලි ඉංජිනේරු කාර්යාලය හරහාය.
+The people of several villages in the Thambuththegama Divisional Secretariat area have faced a major problem due to the electricity bills.
 
-සාමාන්‍ය පරිදි මාසික විදුලි බිල්පත හිමි වන මෙම ගම්වාසීන්ට මෙවර අසාමාන්‍ය විදුලි ගාස්තුවක් සහිත විදුලි බිල්පතක් ලැබී තිබේ.
+They say that there have been 100,000 rupees to pay the electricity bill.
 
-ගම්වාසීන් පවසන්නේ 2020 වර්ෂයේ සිට මේ දක්වා සෑම මසකම තමන් නොවරදවා විදුලි ගාස්තු ගෙවූ බවය.
+Electricity services are provided to the villages such as Hurugaswewa and Siyambalanawa Regional Electrical Engineering in the Thambuththegama Divisional Secretariat area.
 
-කුඹුරු ගොවිතැන් කරමින් ඉතා දුක් මහන්සියෙන් ජීවත්වන තමන්ට මෙලෙස විශාල මුදලක් එකවර ගෙවා දැමීමට හැකියාවක් නොමැති බව ඔවුන් පවසයි.
+The villagers have received a bill with an unusual bill with an unusual bill of the monthly electricity bill.
 
-අප මේ සම්බන්ධයෙන් කැකිරාව ප්‍රාදේශීය විදුලි ඉංජිනේරු කාර්යාලයෙන් විමසීමක් සිදුකළ අතර ඔවුන් පැවසුවේ මෙම ගම්මාන තුනේ නිවාස 140,000ක් සිය කාර්යාලය හරහා විදුලිය ලබාගන්නා බැවින් ඒ සඳහා මනු කියවන්නන් 62 දෙනෙකු යොදවා සිටි බවය.
+The villagers say that they paid electricity tariff every month from the year 2020.
+
+They say they are not able to pay a lot of money simultaneously.
+
+We have inquired from the Regional Electrical Engineers of Kekirawa and said that 140,000 houses in the three villages were purchased through their office.
+
+They point out that the people have to pay the electricity bills as a scarcity for about 2,000 houses correctly.
 
 ...
 
 [Data](articles/fae1f3e7.json)
+
+[Extended Data](ext_articles/fae1f3e7.ext.json)
+
+---
+
+### பெண் பொலிஸை வன்புனர முயன்ற  கான்ஸ்டபிள் கைது
+
+*2024-05-10 13:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸை-வன்புனர-முயன்ற-கான்ஸ்டபிள்-கைது/175-337086) · `ta`
+
+பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை வன்புனர முயன்ற குற்றத்தின் பேரில், பொலிஸ் கான்ஸ்டபிள் ஒருவர், மாங்குளம் பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
+
+மேலும், மாங்குளம் பொலிஸ் விசேட அதிரடிப்படைப் பிரிவில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பு கரையோரப் பொலிஸாரின் மகளிர் படைமுகாமிற்கு இன்று அதிகாலை அத்துமீறி நுழைந்த குறித்த கான்ஸ்டபிள், அங்கு உறங்கிக்கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை வன்புனர முயன்றுள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/b64167a9.json)
 
 ---
 
@@ -117,6 +173,26 @@ Leader of the  Opposition Sajith Premadasa, General Secretary of the SJB Ranjit
 [Data](articles/b7731348.json)
 
 [Extended Data](ext_articles/b7731348.ext.json)
+
+---
+
+### இன்று அட்சய திருதியை; மறந்தும் கூட இந்த தவறை செய்யாதீங்க
+
+*2024-05-10 13:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அட்சய-திருதியை-மறந்தும்-கூட-இந்த-தவறை-செய்யாதீங்க/175-337085) · `ta`
+
+இந்து மதத்தில் அட்சய திருதியை மிகவும் மங்களகரமான நாளாகும். இந்த அட்சய திருதியை நாளில் என்ன செய்தாலும், என்ன வாங்கினாலும் அது பல மடங்கு பெருகும் என்பது நம்பிக்கை.
+
+இந்த ஆண்டின் அட்சய திருதியை நாளானது மே 10 ஆம் திகதி, அதாவது இன்று கொண்டாடப்படுகிறது.
+
+இந்நாளில் விநாயகர், லட்சுமி தேவி, குபேரர், விஷ்ணு ஆகியோருக்கு சிறப்பு பூஜைகளை செய்து மக்கள் வழிபடுவார்கள்.
+
+இந்த நாளில் தான் குபேரர் சிவன் மற்றும் பிரம்மாவிடம் ஆசியை பெற்று, சொர்க்கத்தின் செல்வத்தைப் பாதுகாக்கும் பொறுப்பை பெற்றார் என்று புராணங்கள் கூறுகின்றன.
+
+அட்சய திருதியை நாள் மிகவும் மங்களகரமான நாள். இந்நாளில் செழிப்பான வாழ்க்கையை வாழ மக்கள் லட்சுமி தேவி, குபேரர், விநாயகர், விஷ்ணு ஆகியோரை வழிபட்டு, சிறப்பு பூஜைகளை செய்து, அவர்களது ஆசியை பெற முயற்சிப்பார்கள். இந்த நாளில் அசைவ உணவுகளை உட்கொள்வதை அறவே தவிர்க்க வேண்டும். அதற்கு பதிலாக சைவ உணவுகளான காய்கறிகள், பழச்சாறுகள், பழங்கள், பால் பொருட்கள் போன்றவற்றை உட்கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/326b0a81.json)
 
 ---
 
@@ -2119,97 +2195,5 @@ The National People's Power, which emphasized that its political culture was bas
 [Data](articles/958fda9b.json)
 
 [Extended Data](ext_articles/958fda9b.ext.json)
-
----
-
-### 2024-05-09 (Thursday)
-
-### Mujibur Rahman was appointed as National List MP
-
-*2024-05-09 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183097) · `ta`
-
-Mujibur Rahman is appointed as a National List MP following Diana Kamage's dismissal. The Supreme Court confirmed Kamage's eligibility, and Rahman's name was proposed to the Election Commission, leading to his appointment. He will be sworn in on Friday, the 10th.
-
-🟩
-
-The gazette notification has been issued by appointing Mujibur Rahman for a vacant parliamentary post after the dismissal of Minister of State for Minister of State Diana Kamage has been sacked.
-
-The Supreme Court on Thursday announced that the Minister of State Diana Kamage is legally eligible to hold the post of MP.
-
-In this case, Mujibur Rahman's name has been proposed and sent to the Election Commission, which has been issued to Mujibur Rahman as a Member of Parliament.
-
-In this case, Mujibur Rahman will be sworn in as the National List Member of Parliament on Friday the 10th of this month.
-
-◼️
-
-[Data](articles/d0eb5be9.json)
-
-[Extended Data](ext_articles/d0eb5be9.ext.json)
-
----
-
-### Two Italians arrested over attempt to smuggle endemic insects from Yala National Park
-
-*2024-05-09 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99118/two-italians-arrested-over-attempt-to-smuggle-endemic-insects-from-yala-national-park) · `en`
-
-Two Italian nationals who had allegedly attempted to smuggle hundreds of endemic insects and plants collected from the Yala National Park to a foreign country, have been arrested in the Katagamuwa area.
-
-The officers of the Wildlife Conservation Office in Katagamuwa have apprehended the suspects on Wednesday (08).
-
-The wildlife officers stated that they seized a large number of jars in which the suspects had collected around 285 insects including butterflies endemic to Sri Lanka and other endemic plants.
-
-◼️
-
-[Data](articles/1ce71132.json)
-
-[Extended Data](ext_articles/1ce71132.ext.json)
-
----
-
-### The President has said that the country has returned to normalcy
-
-*2024-05-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183096) · `ta`
-
-Despite President Ranil Wickremesinghe's assertion of normalcy, the country faces economic challenges with rising commodity prices, increased poverty, and unemployment. The opposition criticizes the government's handling of the situation, highlighting the shrinking economy and the burden on citizens.
-
-🟩
-
-Although President Ranil Wickremesinghe says the country has returned to normal, the country's economy has not grown. Opposition leader Sajith Premadasa said that the price of commodities is rising and people have to fight for their lives.
-
-The Leader of the Opposition said this while addressing the special speech of President Ranil Wickremesinghe in Parliament on Thursday (9).
-
-The President has often made information in this congregation and comments. He said that he was in charge of the country and the hell of the fire. Some people have said that he is responsible for the conditions when he does not accept the challenges. In this case, I have to present some things.
-
-Whatever he says, the new normal condition has to be accepted. The economy is shrinking in this new normal state. People's lives have been affected. Poverty has increased and the unemployment has increased.
-
-...
-
-[Data](articles/3afdea85.json)
-
-[Extended Data](ext_articles/3afdea85.ext.json)
-
----
-
-### World Cup
-
-*2024-05-09 22:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உலகக்-கிண்ண-இலங்கைக்-குழாமில்-வெல்லலாகே/44-337060) · `ta`
-
-Tunith Vellale, a newcomer, joins Sri Lanka's Twenty20 World Cup squad, marking his debut in international cricket. Notable absences include Kamindu Mendis, Nuwan Dushara, and Tanjaya de Silva. The team is led by Vanidu Hasaranga, with Kusal Mendis and Dasun Shanaka among the key players.
-
-🟩
-
-Tunith Vellale is featured in the Sri Lanka Group for the Twenty20 World Cup series of the International Cricket Board. It is noteworthy that Vellalala has not played in twenty -20 internationals.
-
-Meanwhile, Kamindu Mendis, Nuwan Dushara and Tanjaya de Silva are not featured in the squad as the batsmen Avishka Fernando, Kusal Perera and the fast bowler, Binura Fernando.
-
-Group: Vanidu Hasaranga (Team Leader), Sarith Asalanga (Vice -Chancellor), Kusal Mendis, Patum Nisanga, Kamindu Mendis, Sadheera Samarawickrama, Angelo Madhus, Dasun Shanaka, Tanjaya De Silva, Mahesh DekshanaDushara, Dilshan Madushanga.
-
-Additional players: Asita Fernando, Vijayakanth Vyaskant, Banuka Rajapaksa, Janith Liyanage.
-
-◼️
-
-[Data](articles/6e4fa7e8.json)
-
-[Extended Data](ext_articles/6e4fa7e8.ext.json)
 
 ---

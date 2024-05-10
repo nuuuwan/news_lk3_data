@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 10:03:39**
+As of **2024-05-10 10:18:27**
 
 ## Newspaper Stats
 
-*Scraped **23,113** Articles*
+*Scraped **23,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,963
 tamilmirrorlk | 2,701
 adaderanalk | 2,706
 virakesarilk | 3,436
-dailymirrorlk | 3,632
+dailymirrorlk | 3,634
 adaderanasinhalalk | 3,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,111 (100.0%) of 23,113 articles have been extended.
+23,113 (100.0%) of 23,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Central Bank joins chorus urging need to uphold reform momentum
+
+*2024-05-10 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-joins-chorus-urging-need-to-uphold-reform-momentum/108-282303) · `en`
+
+ Echoes similar calls from global agencies such as WB, ADB, and the IMF
+
+ Says want to convey “very clearly and very loudly” the need to sustain the stability
+
+Sri Lanka is facing mounting pressure to maintain its current reform momentum, as experts continue to warn that any deviation from the path could potentially derail the country's progress and plunge it back into crisis.
+
+Central Bank Governor Dr. Nandalal Weerasinghe yesterday reiterated this imperative, echoing similar calls from global agencies such as the World Bank (WB), the Asian Development Bank (ADB), and the International Monetary Fund (IMF).
+
+Just a month ago, these institutions stressed the absolute need for Sri Lanka to stay the course, emphasizing that there is no room to steer away from the current path.
+
+The urgency of this call stems from the upcoming elections, which historically have been times when policies and reforms are often sidelined and sacrificed in favor of strategies to fetch votes.
+
+...
+
+[Data](articles/f20d0bb8.json)
+
+---
+
+### Mujibur sworn in as a National List MP
+
+*2024-05-10 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-sworn-in-as-a-National-List-MP/108-282301) · `en`
+
+Colombo, May 9 (Daily Mirror) - Mujibur Rahuman was sworn in as a National List MP before Speaker Mahinda Yapa Abeywardena a shortwhile ago.
+
+Rahuman fills the vacancy created by the unseatimg of Diana Gamage who was declared to be ineligible to remain as an MP by the  Supreme Court.
+
+◼️
+
+[Data](articles/a9d75b96.json)
+
+---
 
 ### Mujibur Rahman sworn in as MP
 
@@ -47,6 +83,8 @@ Meanwhile, a Gazette notification was issued last evening stating that Mujibur R
 ...
 
 [Data](articles/985c577b.json)
+
+[Extended Data](ext_articles/985c577b.ext.json)
 
 ---
 
@@ -1946,17 +1984,25 @@ Changes of government “by the ballot, and not by the bullet”. One hopes that
 
 ---
 
-### පසුගිය වසරේදී මත්පැන් බලපත්‍ර 214ක් දීලා
+### Listening has been given 214 liquor licenses last year
 
 *2024-05-09 19:56:26* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේදී-මත්පැන්-බලපත්‍ර-214ක්-දීලා/11-409539) · `si`
 
-2023.01.01. සිට 2024.01.01 දක්වා කාලය තුළ මත්පැන් බලපත්‍ර 214ක් ලබා දී ඇති බවත්, එයින් බලපත්‍ර 147ක් ලබා දී ඇත්තේ සංචරක කර්මාන්තය සඳහා බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+In 2023, 214 liquor licenses were issued, with 147 going to the tourism industry. From 2013 to 2023, the number of licenses increased from 5516 to 5730, with 2123 new ones in 2023 alone. The rise in legal liquor outlets is attributed to the growth of the tourism industry and the need to combat the proliferation of illegal alcohol. However, concerns about alcohol consumption and its impact on society persist, with a focus on reducing alcohol-related deaths and minimizing the loss of state revenue due to illegal alcohol sales.
 
-පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර මහතා ඊයේ(09දා) පාර්ලිමේන්තුවේදී වාචික පිළිතුරු අපේක්ෂාවෙන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
+
+2023.01.01. State Minister Ranjith Siyambalapitiya said that 214 liquor licenses have been provided from time to 01.01.2011 and 147 permits were given to the tourist industry.
+
+Parliamentarian Jayantha Samaraweera responded to a question raised by Parliament yesterday (09), he said.
+
+Finance Minister Ranjith Siyambalapitiya asks the number of liquor licenses issued from 01.03.2013 to 01.01.2013. There were 5516 2023.016. By 01.01.01.01. There are 5730. That is, 2123 newly granted in 2023. Of these 214, 147 are issued to the tourism industry .07,08 and 11. Liquor is also the main reason why alcohol consumption. The problem is not the most common of legal liquor, but the growth of a few times fast. It is clear that alcohol use of alcohol without legal liquor does not reduce the use of alcohol. 2023 year 2023 has fallen by more than 2022.
 
 ...
 
 [Data](articles/ecc65bed.json)
+
+[Extended Data](ext_articles/ecc65bed.ext.json)
 
 ---
 
@@ -2169,43 +2215,5 @@ However, a prison officer said that Sugith Mannel, alphabetical, who had said th
 [Data](articles/99c3739f.json)
 
 [Extended Data](ext_articles/99c3739f.ext.json)
-
----
-
-### Unraveling The Root Causes Of Sri Lanka’s Foreign Currency Crisis
-
-*2024-05-09 19:14:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unraveling-the-root-causes-of-sri-lankas-foreign-currency-crisis/) · `en`
-
-Pre-1978, Sri Lanka upheld economic independence through stringent controls on trade and capital, fostering a production-based economy and eschewing foreign indebtedness. However, the victory of the United National Party in 1978 marked a pivotal shift, embracing free market ideology and neoliberal policies. This shift has brought forth a multitude of economic challenges. Certain individuals often labeled as economic parasites have taken advantage of free market ideology to infiltrate critical sectors such as finance, health, education, energy, media, agriculture, and land. Their primary focus is personal gain, disregarding the nation’s overall welfare. Through regulatory manipulation, this elite class exploits both public and private wealth, masking their actions as societal advancement while prioritizing their own interests.
-
-...
-
-[Data](articles/f9fa8906.json)
-
-[Extended Data](ext_articles/f9fa8906.ext.json)
-
----
-
-### Family death in Jaffna due to high heat
-
-*2024-05-09 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183089) · `ta`
-
-Sivagnanam Jayakumar, 45, died in Jaffna from heat-related burns. His daughter found him unconscious in the sun at 3:30 pm on Wednesday, August 8th. He was already intoxicated at 1:45 pm. His body was taken to Tellipallai and Jaffna Teaching Hospitals, where an autopsy confirmed death due to multiple burns from high heat. The case is under investigation by A. Jayapalasingham.
-
-🟩
-
-A family member dies on Wednesday (08). Sivagnanam Jayakumar (45 years old) from the same area died.
-
-Her daughter observed that the person was in alcohol at 1.45 pm on Wednesday (08). Then at 3.30 pm he noticed that he was falling down in the sun. When he went near, he was found dead.
-
-His body was recovered and taken to the Tellipallai Hospital and then taken to the Jaffna Teaching Hospital.
-
-An autopsy revealed that he died of more than ten burns in the body due to high heat. A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives on Thursday (9).
-
-◼️
-
-[Data](articles/6b620901.json)
-
-[Extended Data](ext_articles/6b620901.ext.json)
 
 ---

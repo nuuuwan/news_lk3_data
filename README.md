@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 19:51:13**
+As of **2024-05-10 20:03:20**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 3,721
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,206 (100.0%) of 23,210 articles have been extended.
+23,210 (100.0%) of 23,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### தாய்வானில் நிலநடுக்கம்
+### Earthquake in Taiwan
 
 *2024-05-10 19:35:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்வானில்-நிலநடுக்கம்/50-337096) · `ta`
 
-தாய்வானின் ஹுலியன் மாகாண கடற்பகுதியில் 5.8 ரிச்டர் அளவில் இன்று (10) நிலநடுக்கம் ஏற்பட்டுள்ளது.
+An earthquake hit Taiwan's Hulian Provincial waters today at 3:45 pm local time, according to the Chinese earthquake station.
 
-உள்ளூர் நேரப்படி மதியம் 3.45 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டதாக சீன நில அதிர்வு நிலையம் தெரிவித்துள்ளது.
+🟩
+
+An earthquake in Taiwan's Hulian Provincial waters today (10).
+
+The earthquake struck at 3.45 pm local time, the Chinese earthquake station said.
 
 ◼️
 
 [Data](articles/c26c5b52.json)
 
+[Extended Data](ext_articles/c26c5b52.ext.json)
+
 ---
 
-### වාරණ නියෝගයට එරෙහිව මෛත්‍රීගෙන් පෙත්සමක්
+### Petition from Maithri against injunction order
 
 *2024-05-10 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196489) · `si`
 
-තමාට නිදහස් පක්ෂ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාලමින් පනවා ඇති වාරණ නියෝගයට එරෙහිව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණයට අභියාචනා පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Maithripala Sirisena, former President, has appealed to the Western Province General Assault High Court against a recent interim injunction by the Colombo District Court. He seeks its dissolution, naming Monteguara Sarachindra, the Sri Lanka Freedom Party Executive, as the respondent. Sirisena argues the injunction contradicts the law and requests its removal.
 
-තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් ඉකුත්දා කොළඹ දිසා අධිකරණය විසින් නිකුත් කළ අතුරු තහනම් නියෝගය විසුරුවා හැරීමේ තීන්දුවක් ලබා දෙන ලෙස පෙත්සම්කාර හිටපු ජනාධිපතිවරයා ඉල්ලා ඇත.
+🟩
 
-නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය මාර්ගයෙන් ගොනුකළ මෙම අභියාචනා පෙත්සමේ වගඋත්තරකරු ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභික වන මොන්ටේගු සරච්චන්ද්‍ර මහතා නම් කර තිබේ.
+Former President Maithripala Sirisena has presented an appeal petition to the Western Province General Assault High Court.
 
-වගඋත්තරකරු විසින් ගොනුකළ නඩුවක් විභාග කළ කොළඹ දිසා අධිකරණය තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ඉකුත්දා අතුරු තහනම් නියෝගයක් නිකුත් කළ බව මෛත්‍රීපාල සිරිසේන මහතා සිය අභියාචනා පෙත්සමෙන් පෙන්වා දී ඇත.
+Former President, the Petitioner President has called for a decision to dissolve the interim injunction issued by the Colombo District Court recently.
 
-කොළඹ දිසා අධිකරණය මෙම අතුරු තහනම් නියෝගය නිකුත් කළ ආකාරය නීතියට පටහැනි වන අතර එය ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස මෛත්‍රීපාල සිරිසේන මහතාගේ පෙත්සමෙන් ඉල්ලා තිබේ.
+The Sri Lanka Freedom Party Executive Monteguara Sarachindra has been named as respondent from the Petition filed by lawyer Jayasuriya.
+
+Maithripala Sirisena has pointed out that the Colombo District Court has asked the Colombo District Court in the Colombo District Court that he has issued an interim injunction recently.
+
+The Colombo District Court is contradicted to law and requested Maithripala Sirisena to issue an order to remove it.
 
 ◼️
 
 [Data](articles/9a605307.json)
+
+[Extended Data](ext_articles/9a605307.ext.json)
 
 ---
 
@@ -77,6 +89,8 @@ Counsel Rajitha Lakmal, appearing for Parliamentarian Kavinda Jayawardena, moved
 ...
 
 [Data](articles/1938a969.json)
+
+[Extended Data](ext_articles/1938a969.ext.json)
 
 ---
 
@@ -400,19 +414,25 @@ However, he had not included the squad for the incident, however, expected to pa
 
 ---
 
-### අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක්
+### Fire at special treatment unit at Walasmulla Base Hospital
 
 *2024-05-10 16:47:19* · [`adalk`](https://www.ada.lk/breaking_news/අකුණක්-වැදී-වලස්මුල්ල-මූලික-රෝහලේ-විශේෂිත-ප්‍රතිකාර-ඒකකයේ-ගින්නක්/11-409550) · `si`
 
-අයහපත් කාලගුණය සහ අධික වර්ෂාවත් සමග හටගත් අකුණක් වැදී වලස්මුල්ල මූලික රෝහලේ විශේෂිත ප්‍රතිකාර ඒකකයේ ගින්නක් හට ගෙන තිබේ.
+A fire damaged a special treatment unit at Walasmulla Base Hospital, caused by lightning and heavy rains. Three patients were receiving treatment when the fire occurred. The hospital's equipment was damaged, but officials are working to ensure proper treatment continues.
 
-එම අවස්ථාවේ එම අංශයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් තිදෙනෙකු කඩිනමින් ඉවතට ගෙන අවශ්‍ය ප්‍රතිකාර නිසි ලෙස ඉටු කිරීමට රෝහල් කාර්ය මණ්ඩලය කටයුතු තිබේ.
+🟩
 
-අකුණු සැර වැදීමෙන් කිසිවෙකුටත් හානියක් සිදුනොවුනත් එහි උපකරණවලට හානි සිදු වී ඇති බව වලස්මුල්ල මූලික රෝහලේ නිලධාරීන් පවසය
+A fire broke out at a special treatment unit at Walasmulla Base Hospital with inclement weather and heavy rains.
+
+At that time, three patients who were receiving treatment at the division have taken steps to carry out the necessary treatment properly.
+
+Walasmulla Base Hospital officials say they have been damaged by lightning, but its equipment damaged
 
 ◼️
 
 [Data](articles/b5e85d79.json)
+
+[Extended Data](ext_articles/b5e85d79.ext.json)
 
 ---
 

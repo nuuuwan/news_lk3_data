@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 08:10:17**
+As of **2024-05-10 08:18:42**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,093 (100.0%) of 23,099 articles have been extended.
+23,099 (100.0%) of 23,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### මුජිබුර් අද පාර්ලිමේන්තුවට
+### Mujibur to Parliament today
 
 *2024-05-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196462) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස මුජිබුර් රහුමාන් මහතා අද (10) දිනයේ දිවුරුම් දීමට නියමිතව තිබේ.
+Mujibur Rahman is set to be sworn in as a Member of Parliament today, following a party decision to appoint him for the national list, replacing Diyan Gamage. The Parliamentary Members' forum requested a woman for the seat, but the Communications Department confirmed Rahman's appointment.
 
-අද දෙරණ කළ විමසීමක දී ඔහු සඳහන් කළේ උදෑසන 9.30ට පාර්ලිමේන්තුව රැස්වීමෙන් අනතුරුව තමා මන්ත්‍රී ධුරයේ දිවුරුම් දීමට නියමිත බවය.
+🟩
 
-ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වු සමගි ජන බලවේගය පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා පත් කිරීමට එම පක්ෂය තීරණය කළේය.
+Munibur Rahman is to be sworn in as a Member of Parliament today (10).
 
-කෙසේවෙතත් ඩයනා ගමගේ මහත්මියගෙන් පුරප්පාඩු වී ඇති මන්ත්‍රී අසුන සඳහා සුදුසු කාන්තාවක් පත් කරන්නැයි ශ්‍රී ලංකා පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය ඉල්ලීමක් කර තිබේ.
+Ada Derana stated that he is to be sworn in as the Parliament will be sworn in after the meeting at 9.30 am.
 
-ඒ සම්බන්ධයෙන් එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය සුදර්ශණී ප්‍රනාන්දුපුල්ලේ මහත්මිය විසින් සමගි ජනබලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා වෙත ලිපියක් ද යොමුකර ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The party decided to appoint former Parliamentarian Mujuur Rahman for the national list of the vacant reconciliation of Diyan Gamage's parliamentary seat.
+
+However, the forum of the Parliamentary Members of Parliament has requested a suitable woman to appoint a special woman for the seatment of Diana Gamage.
+
+The Parliamentary Communications Department stated that a letter has been sent to the General Secretary Ranjith Madduma Bandara at the MP Dr. Sudharshani Fernandopulle.
 
 ◼️
 
 [Data](articles/d7be3cc2.json)
+
+[Extended Data](ext_articles/d7be3cc2.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Additionally, 9.3 million different Internet-borne cyberthreats have been detect
 ...
 
 [Data](articles/7759a99f.json)
+
+[Extended Data](ext_articles/7759a99f.ext.json)
 
 ---
 
@@ -702,29 +710,35 @@ So the salary increase for plantation workers is a gazette notification to misle
 
 ---
 
-### SriLankan Airlines:  පෞද්ගලීකරණය කිරීමේ අලුත් ම තත්ත්වය කුමක් ද?
+### Srilankan Airlines: What is the new situation in privatization?
 
 *2024-05-10 02:06:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py1j7x8yjo) · `si`
 
-SriLankan Airlines:  පෞද්ගලීකරණය කිරීමේ අලුත් ම තත්ත්වය කුමක් ද?
+The Sri Lankan government is considering privatizing SriLankan Airlines to address financial losses. Six companies have expressed interest, and the decision is pending. The airline has faced delays due to insufficient aircraft and staffing issues. Despite a reduction in losses, the airline's financial sustainability remains a concern. Professor Wasantha Athukorala suggests privatization could benefit the economy by redirecting taxes from losses to profits. The Independence Employees Union opposes privatization under certain conditions, highlighting the airline's role in national service.
 
-ශ්‍රී ලංකා රජය සතු ශ්‍රීලංකන් ගුවන් සමාගම දිගින් දිගට ම පාඩු ලැබීම හේතුවෙන් වෙනත් පාර්ශවයකට පැවරීම සම්බන්ධයෙන් වසර ගණනක සිට අදහස් පළවෙමින් තිබේ.
+🟩
 
-SriLankan Airlines: ‘ශ්‍රී ලංකාවට ආදරෙයි.නමුත් ගුවන් සේවය ඒ අත්දැකීම විනාශ කළා’
+Srilankan Airlines: What is the new situation in privatization?
 
-1998 වසරේ සිට 2008 වසර දක්වා මෙම ගුවන් සේවය එමිරේට්ස් ගුවන් සමාගම යටතේ ක්‍රියාත්මක විය.
+The Government of Sri Lanka has been expressing years for the transfer of the party due to loss of losses.
 
-මේ වන විට, යළිත් ශ්‍රීලංකන් ගුවන් සමාගම "රාජ්‍ය මූල්‍යවලට බරක් නොවන තිරසර ව්‍යවසායන් නිර්මාණය කිරීම" අරමුණු කර ගනිමින් පෞද්ගලිකරණය කිරීම සඳහා 'රජය සතු ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකයට' (SRU) භාර දී තිබේ.
+SriLankan Airlines: 'In love with Sri Lanka, but the airline has destroyed the experience
 
-ශ්‍රීලංකන් ගුවන් සමාගමේ කොටස් මිල දී ගැනීම සඳහා වන ලංසු ඉදිරිපත් කිරීමට ලබා දී තිබූ කාලය 2024 අප්‍රේල් මස 22 වන දා පස්වරු 2.00ට අවසන් විය.
+From 1998 to 2008, the airline was implemented under Emirates Airlines.
 
-ඒ අනුව, ශ්‍රීලංකන් ගුවන් සමාගමේ කොටස් මිල දී ගැනීම සඳහා පාර්ශව 6කින් ලංසු ඉදිරිපත් වී තිබේ.
+The SriLankan Airlines again has submitted the 'SRU' (SRU) to retire to "create sustainable enterprises to state finances" (SRU).
 
-මෙම සමාගම් විසින් ඉදිරිපත් කරනු ලැබ ඇති අයැදුම් පත් අගැයීමට ලක් කරමින් සිටින බව වරාය, නාවික සහ ගුවන් සේවා අමාත්‍යාංශයේ ලේකම් කේ.ඩී.එස්. රුවන්පතිරණ බීබීසී සිංහල සේවයට පැවසීය.
+The period was given to the purchase of SriLankan Airlines.
+
+Bids have been introduced in six parties to purchase SriLankan Airlines.
+
+Secretary to the Ministry of Ports, Shipping and Aviation, KDS, said that these companies have been submitted by these companies are being evaluated.. Ruwanpathirana told BBC Sinhala.
 
 ...
 
 [Data](articles/e84f071b.json)
+
+[Extended Data](ext_articles/e84f071b.ext.json)
 
 ---
 
@@ -802,37 +816,49 @@ Those who closely follow Israel’s genocidal campaign in Gaza know that Rafah h
 
 ---
 
-### ’டயானாவின் வெற்றிடத்திற்கு பெண் வேண்டும்’
+### Diana's vacuum to girl
 
 *2024-05-10 00:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-வெற்றிடத்திற்கு-பெண்-வேண்டும்/175-337064) · `ta`
 
-டயானா கமகேவின் பாராளுமன்ற ஆசன வெற்றிடத்திற்கு ஐக்கிய மக்கள் சக்தியின் முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மானை நியமிக்குமாறு ஐக்கிய மக்கள் சக்தியினரால் தேர்தல்கள் ஆணையாளருக்கு நேற்று  கடிதம் அனுப்பப்பட்டுள்ளது.
+A letter from the United People's Power to the Commissioner of Elections requested the appointment of Mujibur Rahman to fill Diana Kamage's parliamentary seat. Female parliamentarians urged the United People's Union to appoint a woman to this position. Sudarshini Fernando, President of the Union, demanded the appointment of a woman, emphasizing the importance of women's representation in parliament for a democratic society.
 
-இந்த நிலையில், டயானா கமகேவின் பாராளுமன்ற ஆசன வெற்றிடத்திற்கு பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியம் ஐக்கிய மக்கள் சக்தியிடம் கோரிக்கை விடுத்துள்ளது.
+🟩
 
-வெற்றிடத்திற்கு பொருத்தமான பெண் ஒருவரை நியமிக்குமாறு கோரி பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவர் சுதர்ஷினி பெர்னாண்டோ புள்ளே, ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர், பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்துமபண்டாரவுக்கு கடிதமொன்றை அனுப்பியுள்ளார்.
+A letter was sent to the Commissioner of Elections by the United People's Power yesterday to appoint former United People's Power MP Mujibur Rahman to the vacancy of Diana Kamage's parliamentary seat.
 
-பெண்களின் அனுபவம், அறிவு மற்றும் எதிர்கால சிந்தனை என்பன சமூகத்திலுள்ள அனைவருக்கும் பயனளிக்கும் வகையிலான கொள்கைகளை வகுப்பதில் பங்களிக்க வேண்டும் எனவும், பயனுள்ள ஜனநாயகத்திற்கு பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முக்கியமானது எனவும் பெண் பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் வலியுறுத்தியுள்ளது. (a)
+In this case, the female parliamentarians have asked the United People's Union to appoint a woman suitable for Diana Kamage's parliamentary seat vacuum.
+
+Sudarshini Fernando Point, President of the Union Member of Parliament, has sent a letter to the General Secretary of the United People's Power and MP Ranjith Mathumabandara, demanding the appointment of a vacuum.
+
+The Union of Women's Members of Parliament has insisted that women's experience, knowledge and future thinking should contribute to all the policies that benefit all in the community and that women's representation in parliament is important to useful democracy.. (A)
 
 ◼️
 
 [Data](articles/0d2f8917.json)
 
+[Extended Data](ext_articles/0d2f8917.ext.json)
+
 ---
 
-### ’ஆயுத உதவிகளை நிறுத்துவோம்’
+### Let's stop weapons assistance
 
 *2024-05-10 00:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆயுத-உதவிகளை-நிறுத்துவோம்/50-337063) · `ta`
 
-தெற்கு காஸாவின் ரஃபா நகரம் மீது தாக்குதல் நடத்தினால், ஆயுத உதவிகளை நிறுத்துவோம் என இஸ்ரேலுக்கு அமெரிக்க ஜனாதிபதி ஜோ பைடன் எச்சரிக்கை விடுத்துள்ளார்.
+US President Joe Biden warned Israel, stating that if they attack Rafa city in South Gaza, the US will halt military aid, including weapons and artillery bombs. He clarified that the US does not consider Rafa a land force.
 
-ரஃபாவுக்குள் இஸ்ரேல் இராணுவம் தரைவழி தாக்குதலை நடத்தினால், அந்த நாட்டுக்கு ஆயுதங்கள் மற்றும் பீரங்கி குண்டுகளை வழங்கப் போவதில்லை என ஜோ பைடன் குறிப்பிட்டுள்ளார்.
+🟩
 
-ரஃபாவின் தற்போதைய நிலைமையை தரைப்படை நடவடிக்கையாக அமெரிக்கா வரையறுக்கவில்லை எனவும் அவர் கூறியுள்ளார். (a)
+US President Joe Biden has warned Israel that we will stop armed assistance if they attack the Rafa city of South Gaza.
+
+Joe Biden noted that if the Israeli army launches a ground attack inside Rafa, the country will not provide weapons and artillery bombs.
+
+He also said that the United States did not define Rafa's current state as a land force. (A)
 
 ◼️
 
 [Data](articles/7175a04e.json)
+
+[Extended Data](ext_articles/7175a04e.ext.json)
 
 ---
 
@@ -1352,19 +1378,31 @@ This man suspiciously brought this man who is owned by a person who owns a gover
 
 ---
 
-### වොෂින්ටන් ශ්‍රී ලංකා තානාපති හි ’’පාස්පෝට් DC’’උළෙලට 5000ඉක්මවූ පිරිසක්
+### Washington's Ambassador to the Passport DC
 
 *2024-05-09 21:11:41* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටන්-ශ්‍රී-ලංකා-තානාපති-හි-’’පාස්පෝට්-DC’’උළෙලට-5000ඉක්මවූ-පිරිසක්/11-409543) · `si`
 
-ඇමෙරිකාවේ ස්ථාපිත විදෙස් තානාපති කාර්යාල රටේ සංස්කෘතිය හා ජීවන පසුබිම විදහාපාන  "පාස්පෝට් DC 2024" සදහා මෙවර 5037ක වාර්තාගත ජනතාවක් ආකර්ශනය කර ගැනීමටශ්‍රී ලංකා තානාපති කාර්යාලය සමත්වූ බව "පාස්පෝට් DC වැඩසටහන" නිළ ලෙස ප්‍රකාශ කළේය.
+The Embassy of Sri Lanka in Washington hosted a successful event, attracting a diverse audience interested in Sri Lankan culture. The event, which included traditional sweets and tea, highlighted Sri Lanka's rich cultural heritage, particularly through music and dance performances. The Ambassador and staff were commended for their dedication, enhancing Sri Lanka's image in the US.
 
-යුරෝපයේ නොවන රටවල උළෙල 04දා පැවැතිඅතරඑම රටවල් 55ක තානාපති කාර්යාල අතර ප්‍රමුඛ ස්ථානයක් ලබා ගැනීමට ශ්‍රී ලංකාව සමත්ව ඇති බවට ඇමෙරිකානු මාධ්‍ය  පළකොට තිබේ.
+🟩
 
-පැමිණිඅයට ලංකාවේ රස කැවිලිඋණුසුම්හා සීතකල තේහා පිටවන විට රසකැවිලි හා තේ පාර්සලදලබාදුන්හ."ග්‍රොසරි ලංකා" ඇතුළුපෞද්ගලික අංශය මගින් ලංකාවේ නිෂ්පාදිත බිස්කට් කුරුදු හා  පාන වර්ග ද ලබා දුන්හ.
+The Embassy of the Ceylon Embassy is an attractive number of people in the US culture and life background, which is in the US culture and life background.
 
-...
+Sri Lanka has been able to obtain a priority of the embassies of 55 countries on the NGO countries in Europe.
+
+When the event was exhausted, sweets and tea were pledged when the avochout the event.
+
+Further, the prolonged interest in obtaining details of the Kottuappa and Shorts of Sri Lanka and to visit Saramaha Omsi.Kutila main cadre leader music and D. I. Senaratne's saxophone color celebration was attracted to the public.
+
+Ambassador and Samarasinghe organized the event and the tourism body favored. SL Eshanation Seshi: DC, Ceylon Arts Basement, Sl, Washing Ser: COU: GREATER WASHINGTON BUSINESS.
+
+"A large number of people will increase the image of Sri Lanka.. Ambassadors and employees who have dedicated dedicated banquidies and the commitment of employees of the employees have been appreciated by the Ambassador.
+
+◼️
 
 [Data](articles/c4a020f4.json)
+
+[Extended Data](ext_articles/c4a020f4.ext.json)
 
 ---
 

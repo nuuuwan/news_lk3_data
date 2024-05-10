@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 11:18:19**
+As of **2024-05-10 11:33:43**
 
 ## Newspaper Stats
 
-*Scraped **23,122** Articles*
+*Scraped **23,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,253
 economynextcom | 1,330
 dailyftlk | 1,343
 adalk | 1,963
-tamilmirrorlk | 2,702
-adaderanalk | 2,706
+tamilmirrorlk | 2,703
+adaderanalk | 2,707
 virakesarilk | 3,438
-dailymirrorlk | 3,636
-adaderanasinhalalk | 3,701
+dailymirrorlk | 3,637
+adaderanasinhalalk | 3,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,121 (100.0%) of 23,122 articles have been extended.
+23,122 (100.0%) of 23,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### යුද හමුදා මූලස්ථානයෙන් නාමලේඛනයක් උස්සලා
+
+*2024-05-10 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196470) · `si`
+
+රුසියානු හමුදාවේ රැකියා සඳහා ශ්‍රී ලාංකිකයන් ජාවාරම් කළ බව කියන මේජර් ජෙනරාල්වරයෙකු සහ සැරයන්වරයෙකු කුරුණෑගල වැවරවුම ප්‍රදේශයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත්තේය.
+
+විශ්‍රාමික මේජර් ජෙනරල්වරයෙක් වන මෙම පුද්ගලයා සම්බන්ධයෙන් පොලීසිය දීර්ඝ ලෙස විමර්ශන සිදුකර තිබේ.
+
+එලෙස සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත්තේ, විශ්‍රාමික යුද හමුදා නිලධාරීන්ගේ නාමලේඛනය යුද හමුදා මූලස්ථානයෙන් ගනු ලැබුවේ ඔහු විසින් බවය.
+
+රුසියාවේ සහ යුක්‍රේනයේ කුලී හමුදා කඳවුරුවලට මෙරට හිටපු හමුදා සාමාජිකයින් යොමු කිරීමේ ජාවාරමට අදාළව පොලීසිය විසින් දිගින් දිගටම විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/20c85596.json)
+
+---
+
+### வியாஸ்காந்திற்கு வடக்கு மாகாண ஆளுநர் வாழ்த்து
+
+*2024-05-10 11:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாஸ்காந்திற்கு-வடக்கு-மாகாண-ஆளுநர்-வாழ்த்து/175-337073) · `ta`
+
+வியாஸ்காந்த் தனது கிரிக்கெட் பயணத்தில் இன்னும் பல சாதனைகளை நிலைநாட்ட வேண்டும் என வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் வாழ்த்து தெரிவித்துள்ளார்.
+
+இந்தியன் ப்ரீமியர் லீக் (IPL) கிரிக்கெட் சுற்றுப் போட்டியில் சன் ரைசஸ் ஹைதரபாத் அணிக்காக விளையாடியுள்ள யாழ்ப்பாணத்தைச் சேர்ந்த துடுப்பாட்ட வீரரும் சுழற்பந்து வீச்சாளர் விஜயகாந்த் வியாஸ்காந்திற்கு வடக்கு மாகாணம் சார்பில் வாழ்த்துக்களை தெரிவிப்பதில் பெருமகிழ்ச்சி அடைகின்றேன்.
+
+வடக்கு மாகாணத்திலிருந்து தனது கிரிக்கெட் பயிற்சியை பெற்ற இவர் இலங்கைக்கு பெருமிதத்தை பெற்றுக்கொடுத்துள்ளதுடன், யாழ். மண்ணிற்கும் பெருமை சேர்த்துள்ளார்.
+
+பல்வேறுபட்ட சமூக சீர்கேடான செயற்பாடுகளில் கவனம் செலுத்தும் இளைய தலைமுறையினருக்கு, விளையாட்டின் மூலம் சாதனை படைக்கும் 22 வயதேயான வியாஸ்காந்த் ஒரு சிறந்த முன்னுதாரணமாவர்.
+
+...
+
+[Data](articles/b6984442.json)
+
+---
+
+### Proposals to address uni. non-academic staff wage issues to be presented to Cabinet
+
+*2024-05-10 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99123/proposals-to-address-uni-non-academic-staff-wage-issues-to-be-presented-to-cabinet) · `en`
+
+Minister of Education, Susil Premajayantha says that the proposals concerning the monthly allowance and wage disparity faced by university non-academic staff since 2016 will be tabled at the upcoming Cabinet meeting on Monday.
+
+Meanwhile, the ongoing strike initiated by university non-academic staff continues today for the 8th consecutive day.
+
+K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, said that if their issues are not provided with permanent solutions by next Monday, they will resort to strict strike action by withdrawing from essential services.
+
+◼️
+
+[Data](articles/baaed7fc.json)
+
+---
 
 ### Sri Lankan wins Tesla Cybertruck grand prize at WSO2CodeChallenge
 
@@ -47,6 +99,26 @@ This includes hundreds of the globe's largest corporations, premier universities
 ...
 
 [Data](articles/c68c3cf0.json)
+
+[Extended Data](ext_articles/c68c3cf0.ext.json)
+
+---
+
+### Sri Lankan in Germany wins a Cybertruck
+
+*2024-05-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-in-Germany-wins-a-Cybertruck/108-282314) · `en`
+
+Pasindu Jayaweera, a Sri Lankan in Germany won the incredible Tesla Cybertruck as the grand prize after becoming the winner of the WSO2CodeChallenge held in Hollywood.
+
+The WSO2CodeChallenge was held from May 7 - 9 at the Seminole Hard Rock Hotel and Casino in Hollywood, FL.
+
+WSO2's cloud-native software as a service (SaaS) offerings and open-source software are instrumental in the digital transformation journeys of numerous organizations, spanning thousands worldwide.
+
+This includes hundreds of the globe's largest corporations, premier universities, and governmental bodies. Annually, WSO2 facilitates the execution of an astounding 60 trillion transactions and manages over 1 billion identities for its clients.
+
+...
+
+[Data](articles/e06aa8e4.json)
 
 ---
 
@@ -2135,95 +2207,5 @@ However, the Curtaining Corporation (CPC) was recorded at Rs. 120.3 billion in 2
 [Data](articles/ade57254.json)
 
 [Extended Data](ext_articles/ade57254.ext.json)
-
----
-
-### Ignoring The Whale, While Hooking The Sprat
-
-*2024-05-09 20:08:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ignoring-the-whale-while-hooking-the-sprat/) · `en`
-
-Every Party manifesto and every government statement, solemnly vows to eradicate poverty, but have not done so, for seventy six years, since Independence in 1948. The performance of the present government is no better. Since we are hailed (mostly by ourselves) as a “Star Class Democracy,” that has changed governments peacefully. Despite the record of (language riots of 1958), the attempted (coup of 1962) youth insurrections of (1971 and 1988 to 1989) and the civil war (1983-2009).
-
-Changes of government “by the ballot, and not by the bullet”. One hopes that the failures are indicative of poor planning, and not the lack of skill in handling explosives. The fact that there have been repeated changes of governments, means that all political parties have to share the blame. I do not believe that any Party has “won” an election, but rather that the preceding one was kicked out by a disappointed electorate.
-
-...
-
-[Data](articles/fe98a739.json)
-
-[Extended Data](ext_articles/fe98a739.ext.json)
-
----
-
-### Listening has been given 214 liquor licenses last year
-
-*2024-05-09 19:56:26* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේදී-මත්පැන්-බලපත්‍ර-214ක්-දීලා/11-409539) · `si`
-
-In 2023, 214 liquor licenses were issued, with 147 going to the tourism industry. From 2013 to 2023, the number of licenses increased from 5516 to 5730, with 2123 new ones in 2023 alone. The rise in legal liquor outlets is attributed to the growth of the tourism industry and the need to combat the proliferation of illegal alcohol. However, concerns about alcohol consumption and its impact on society persist, with a focus on reducing alcohol-related deaths and minimizing the loss of state revenue due to illegal alcohol sales.
-
-🟩
-
-2023.01.01. State Minister Ranjith Siyambalapitiya said that 214 liquor licenses have been provided from time to 01.01.2011 and 147 permits were given to the tourist industry.
-
-Parliamentarian Jayantha Samaraweera responded to a question raised by Parliament yesterday (09), he said.
-
-Finance Minister Ranjith Siyambalapitiya asks the number of liquor licenses issued from 01.03.2013 to 01.01.2013. There were 5516 2023.016. By 01.01.01.01. There are 5730. That is, 2123 newly granted in 2023. Of these 214, 147 are issued to the tourism industry .07,08 and 11. Liquor is also the main reason why alcohol consumption. The problem is not the most common of legal liquor, but the growth of a few times fast. It is clear that alcohol use of alcohol without legal liquor does not reduce the use of alcohol. 2023 year 2023 has fallen by more than 2022.
-
-...
-
-[Data](articles/ecc65bed.json)
-
-[Extended Data](ext_articles/ecc65bed.ext.json)
-
----
-
-### Sri Lanka Group of Star players: Vyaskant
-
-*2024-05-09 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183093) · `ta`
-
-Sri Lanka's T20 World Cup team includes star players like Angelo Mathews, returning after three years, and experienced leaders Dasun Shanaka, Kusal Mendis, and Tanjaya de Silva. The team, led by Wanindu Hasaranga, also features young talents like Sarith Asalanka and Kamindu Mendis. Vijayakanth Vyaskant is among the traveling players.
-
-🟩
-
-Sri Lanka has named the strong cricket team with star players in view of the ICC men's T20 World Cup match to be held this year.
-
-Sri Lanka has been appointed as the leader of the Sri Lankan team in the T20 World Cup in the United States and the West Indies from 1st to 29th of June.
-
-It is worth noting that Angelo Mathews will play in his 6th World Cup chapter.
-
-Mathews, who had not been playing in international T20 cricket for three years, was recalled to the R20 earlier this year.
-
-This is how the Sri Lankan team has a leadership experienced players.
-
-Former team captain Dasun Shanaka, ODI captain Kusal Mendis and Test captain Test captain Tanjaya de Silva have been named with Angelo Mathews.
-
-...
-
-[Data](articles/f7310ccf.json)
-
-[Extended Data](ext_articles/f7310ccf.ext.json)
-
----
-
-### Do not deceive plantation workers by releasing a salary increase gazette - Radhakrishnan
-
-*2024-05-09 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183092) · `ta`
-
-Radhakrishnan, an opposition member, criticized the government for potentially deceiving plantation workers with a salary increase gazette. He argued that if a genuine increase is to be implemented, the President should submit a bill to the council. Radhakrishnan highlighted the discrepancy between the promised 1700 rupees increase and the actual 1500 rupees, questioning the process and urging for a detailed discussion with the Employers Federation before such announcements. He also mentioned an incident involving a worker attack, calling for the Minister to take action.
-
-🟩
-
-If the plantation workers are truly a salary increase, the President must take steps to submit the bill to the council.. On the contrary, opposition member Radhakrishnan said that the gazette notification should not be deceived by the plantation people.
-
-He said this while addressing the debate on the Parliament on Thursday (9).
-
-Six years ago, it took 5 years to leave the plantation workers to pay a thousand rupees.. Similarly, the minister and the president said at the May Day event that a salary increase of 1700 rupees. We welcome it. Welcome to the workers if we are paid a salary of 1500 rupees and additional payments.
-
-At the same time, the Minister said that the workers' commodity would not be agreed to increase more than a thousand rupees.. If so you announced why a salary increase of 1700 rupees. This could have been announced after a resolution was discussed in detail with the Employers Federation.
-
-...
-
-[Data](articles/1da5b3dd.json)
-
-[Extended Data](ext_articles/1da5b3dd.ext.json)
 
 ---

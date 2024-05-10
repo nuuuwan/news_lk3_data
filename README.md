@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 23:33:35**
+As of **2024-05-10 23:52:58**
 
 ## Newspaper Stats
 
-*Scraped **23,227** Articles*
+*Scraped **23,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 242
 dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
-economynextcom | 1,334
+economynextcom | 1,341
 dailyftlk | 1,343
 adalk | 1,973
 tamilmirrorlk | 2,720
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,227 (100.0%) of 23,227 articles have been extended.
+23,227 (100.0%) of 23,234 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -536,6 +536,30 @@ He further assured that there are no reports of any circulation of the question 
 
 ---
 
+### Sri Lanka in talks with Canada investors for US$500mn industrial zone in Jaffna
+
+*2024-05-10 18:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-canada-investors-for-us500mn-industrial-zone-in-jaffna-162541/) · `en`
+
+ECONOMYNEXT- Sri Lanka is in talks with Canada-based entrepreneurs of Sri Lanka origin to build a 500 million dollar industrial park in Kankesanthurai in the Jaffna peninsula, State Minister for Investment Promotion Dilum Amunugama said.
+
+The industrial park will be built on 700 acres by a defunct state-run cement factory.
+
+The investors will invest 500 million dollars to build infrastructure in the land given by the Board of Investment under a private public partnership model.
+
+The Canadian entrepreneurs will build roads and other infrastructure and will attract investors into the zone to recover their costs.
+
+The zone operators have the choice of also constructing buildings and offering plug-and-play factories.
+
+“It is entirely up to them,” Minister Amunugama said. “They can build factories or offer bare land.”
+
+The defunct cement factory only has limestone in about 100 acres which will not be sufficient to sustain a cement factory for a long time, he said.
+
+...
+
+[Data](articles/582a71e6.json)
+
+---
+
 ### An Examinations Commissioner for Examinations regarding the GCE O / L
 
 *2024-05-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196487) · `si`
@@ -764,6 +788,28 @@ However, he had not included the squad for the incident, however, expected to pa
 
 ---
 
+### Sri Lanka rupee closes weaker at 299.00/30 to US dollar
+
+*2024-05-10 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-00-30-to-us-dollar-162551/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 299.00/30 to the US dollar on Friday from 298.65/80 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.40/55 percent from 10.60/65 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.70/85 percent from 10.90/11.00 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.15/25 percent 11.35/45 percent.
+
+A bond maturing on 15.05.2030 closed down at 11.90/12.05 percent 12.05/15 percent.
+
+A bond maturing on 01.10.2032 closed down at 12.10/20 percent from 12.25/35 percent. (Colombo/May10/2024)
+
+◼️
+
+[Data](articles/696599ec.json)
+
+---
+
 ### Fire at special treatment unit at Walasmulla Base Hospital
 
 *2024-05-10 16:47:19* · [`adalk`](https://www.ada.lk/breaking_news/අකුණක්-වැදී-වලස්මුල්ල-මූලික-රෝහලේ-විශේෂිත-ප්‍රතිකාර-ඒකකයේ-ගින්නක්/11-409550) · `si`
@@ -908,6 +954,26 @@ Homagama police officers immediately visited the investigations and the robbers 
 
 ---
 
+### Sri Lanka SJB leadership still members of UNP, claims Diana’s spouse
+
+*2024-05-10 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-sjb-leadership-still-members-of-unp-claims-dianas-spouse-162540/) · `en`
+
+ECONOMYNEXT — The leadership of Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) are still members of the United National Party (UNP), according to former chairman of the now-defunct Ape Jathika Peramuna (AJP) Senaka de Silva.
+
+de Silva, who is the spouse of former MP Diana Gamage, said at a press conference on Friday May 10 that according to the party constitution members cannot hold membership of two parties at once.
+
+“We’re talking to our lawyers about next steps. Neither I or Diana Gamage sold a party. We gave him this party for the country. I gave the party to Sajith Premadasa and made him leader of the party. Diana Gamage was secretary. She stepped down and gave the position to Ranjith Madduma Bandara,” said de Silva.
+
+“It was given for them to take the party forward and serve the people of the country,” he said.
+
+de Silva showed a document bearing the seal of the Election Commission on the transfer of the AJP to the breakaway faction of the UNP that was led by Premadasa.
+
+...
+
+[Data](articles/25590ecd.json)
+
+---
+
 ### South Korea to create new ministry to tackle plummeting birth rate
 
 *2024-05-10 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99133/south-korea-to-create-new-ministry-to-tackle-plummeting-birth-rate) · `en`
@@ -951,6 +1017,32 @@ The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urba
 [Data](articles/e58bfee9.json)
 
 [Extended Data](ext_articles/e58bfee9.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover at Rs2.5bn
+
+*2024-05-10 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs2-5bn-162542/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.98 percent, or 122.07 points, at 12,518; while the S&P SL20 Index closed up 1.71 percent, or 62.88 points, at 3,735.
+
+Turnover was at 2.5 billion. Capital goods (Rs680mn) and banks (Rs665mn) brought in the most turnover.
+
+Browns Investments Plc saw the most active trading volumes (Rs186mn) in the day, and the share closed up at 6.70.
+
+Royal Ceramics Lanka Plc also saw investor interest (Rs183mn), and closed up at 36.40.
+
+Lion Brewery (Ceylon) Plc which announced a cash dividend yesterday closed up at 1,130.25.
+
+Ceylon Cold Stores Plc which announced a cash dividend yesterday closed down at 64.60.
+
+All banking stocks, except Union Bank of Colombo Plc (down at 10.00), closed up.
+
+...
+
+[Data](articles/71497c1a.json)
 
 ---
 
@@ -1552,6 +1644,28 @@ Police are conducting further investigations by detaining the arrested suspect a
 
 ---
 
+### Rahuman becomes 2nd Sri Lankan MP to be sworn in twice in 2020-elected parliament
+
+*2024-05-10 13:30:00* · [`economynextcom`](https://economynext.com/rahuman-becomes-2nd-sri-lankan-mp-to-be-sworn-in-twice-in-2020-elected-parliament-162529/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s opposition politician Mujibur Rahuman became the second legislator to be sworn in twice as an MP in the current parliament elected in 2020, the data showed.
+
+Rahuman sworn in as Member of Parliament on Friday (10) to fill vacancy created by former State Tourism Minister Diana Gamage’s disqualification through a Supreme Court order.
+
+Rahuman, a key member of Sri Lanka main opposition Samagi Jana Balawegaya (SJB) resigned from parliament in January 2023 to contest the local government elections that was scheduled for March last year.
+
+However, that election never took place with the government citing lack of finance after an unprecedented economic crisis.
+
+Rahuman was elected in Colombo district when he entered the parliament in 2020. However, his second entry is through the national list.
+
+Already ruling Sri Lanka Podujana Peramuna (SLPP) party’s actor-turned politician Jayantha Ketagoda also has sworn in twice in the current parliament.
+
+...
+
+[Data](articles/1574da1f.json)
+
+---
+
 ### Constable arrested for attempting to rape female police
 
 *2024-05-10 13:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸை-வன்புனர-முயன்ற-கான்ஸ்டபிள்-கைது/175-337086) · `ta`
@@ -1709,6 +1823,24 @@ According to reports, the President will investigate the general election before
 [Data](articles/6672acdd.json)
 
 [Extended Data](ext_articles/6672acdd.ext.json)
+
+---
+
+### Mujibur Rahuman back in Sri Lanka parliament after Diana departs
+
+*2024-05-10 12:56:00* · [`economynextcom`](https://economynext.com/mujibur-rahuman-back-in-sri-lanka-parliament-after-diana-departs-162527/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB)’s Mujibur Rahuman returned to parliament, replacing State Minister of Tourism Diana Gamage who was ruled illegible for parliament.
+
+Rahuman was sworn in as an MP before Speaker Mahinda Yapa Abeywardena Friday May 10 morning. He had resigned last year to contest the local government election which has been indefinitely postponed. Rahuman was the SJB’s candidate for Colombo mayor.
+
+The Supreme Court made the verdict on Gamage on Wednesday May 08 when a petition filed against her was taken up for consideration.
+
+The petition was filed by civil activist Oshala Herath, in which he sought a ruling that Gamage was unqualified to serve as a Member of the Sri Lankan Parliament as she is a British citizen.
+
+...
+
+[Data](articles/1d673079.json)
 
 ---
 
@@ -1978,6 +2110,26 @@ In this case, the person from the person. It is worth noting that 200> 50> 000, 
 
 ---
 
+### Sri Lanka Defense Ministry sets up office to track personnel in Ukraine, Russia
+
+*2024-05-10 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-defense-ministry-sets-up-office-to-track-personnel-in-ukraine-russia-162519/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Defense said it has established a special unit to deal with the trafficking of retired military personnel for the Russia-Ukraine war.
+
+Families of those concerned have been requested to provide pertinent information to the special unit via telephone number 0112441146.
+
+The Ministry requests that “family members of the concerned provide information about retired Sri Lankan military personnel who have joined the Russia-Ukraine war via various routes, including the dates of their departure, persons and institutions that had coordinated their passages,” a statement by the Ministry said.
+
+“The Defence Secretary also requests the general public to provide information about individuals involved in human trafficking, those who support it and any relevant information related to the above phone number.”
+
+“As this is done to safeguard the safety of Sri Lankan citizens, everyone is encouraged to pay special attention and provide information in this regard.
+
+...
+
+[Data](articles/a59dc64b.json)
+
+---
+
 ### How to strengthen the rupee?
 
 *2024-05-10 12:05:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1je2z1pgo) · `si`
@@ -2175,171 +2327,5 @@ The police continue to investigate the racket of former army personnel in Russia
 [Data](articles/20c85596.json)
 
 [Extended Data](ext_articles/20c85596.ext.json)
-
----
-
-### Northern Province Governor congratulates Vyaskant
-
-*2024-05-10 11:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாஸ்காந்திற்கு-வடக்கு-மாகாண-ஆளுநர்-வாழ்த்து/175-337073) · `ta`
-
-Northern Province Governor BSM Charles congratulates Vijayakanth Vyaskant on his cricket journey, highlighting his contributions to the IPL and his inclusion in the Sri Lanka World Cup T20 team. Vyaskant, trained in the Northern Province, is celebrated for inspiring the youth through sports and social activities.
-
-🟩
-
-Governor of the Northern Province BSM Charles congratulates Vyaskant on his cricket journey.
-
-I am very happy to congratulate the Jaffna Pastor Vijayakanth Vyaskant on behalf of the Northern Province, who played for Sun Rizes Hyderabad in the Indian Premier League (IPL) cricket tournament.
-
-He has received his cricket training from the Northern Province and has made Sri Lanka proud. He has also made pride in the soil.
-
-Vyaskant, the 22 -year -old, is a great example for the younger generation who focuses on various social disorders activities.
-
-Our expectation is that our youth and youth should be interested in sports. Vijayakanth, who realizes that he can reach heights not only through learning but also through the game, says that I am happy to congratulate Vyaskant.
-
-Meanwhile, Vyaskant has also been included in the Sri Lanka Group for the World Cup T20 series. Remble
-
-◼️
-
-[Data](articles/b6984442.json)
-
-[Extended Data](ext_articles/b6984442.ext.json)
-
----
-
-### Proposals to address uni. non-academic staff wage issues to be presented to Cabinet
-
-*2024-05-10 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99123/proposals-to-address-uni-non-academic-staff-wage-issues-to-be-presented-to-cabinet) · `en`
-
-Minister of Education, Susil Premajayantha says that the proposals concerning the monthly allowance and wage disparity faced by university non-academic staff since 2016 will be tabled at the upcoming Cabinet meeting on Monday.
-
-Meanwhile, the ongoing strike initiated by university non-academic staff continues today for the 8th consecutive day.
-
-K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, said that if their issues are not provided with permanent solutions by next Monday, they will resort to strict strike action by withdrawing from essential services.
-
-◼️
-
-[Data](articles/baaed7fc.json)
-
-[Extended Data](ext_articles/baaed7fc.ext.json)
-
----
-
-### US official Donald Lu is to visit Sri Lanka
-
-*2024-05-10 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183123) · `ta`
-
-US Deputy Secretary of State Donald Lu will visit India, Sri Lanka, and Bangladesh from March 10th to 15th, aiming to strengthen bilateral ties and US support for the Indo-Pacific region's prosperity and independence. In Sri Lanka, he'll meet with political leaders to discuss economic recovery and democratic values, and in Bangladesh, he'll focus on climate crisis relief and economic cooperation.
-
-🟩
-
-Donald Lu will visit Sri Lanka, US Secretary of South and Central Asian Affairs.
-
-US Deputy Secretary of State Donald Lu will make a visit to India, Sri Lanka and Bangladesh from Friday (10) to the 15th of this month.
-
-The visit of Donald Lu's 3 countries will strengthen bilateral cooperation with each country and proves US support for the Indo-Pacific Region, an independent and prosperous Indo-Pacific region.
-
-Donald Lu, who is visiting India, will meet with sub -embassy officials in Chennai to improve bilateral involvement in South India.
-
-Donald Lu will meet with prominent political leaders and reiterate the support of the US for the economic recovery of Sri Lanka and the importance of the independent and democratic society of independent and democratic society.
-
-...
-
-[Data](articles/567d10a5.json)
-
-[Extended Data](ext_articles/567d10a5.ext.json)
-
----
-
-### Sri Lankan wins Tesla Cybertruck grand prize at WSO2CodeChallenge
-
-*2024-05-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-wins-Tesla-Cybertruck-grand-prize-at-WSO2CodeChallenge/108-282314) · `en`
-
-Pasindu Jayaweera, a Sri Lankan in Germany won the incredibal Tesla Cybertruck as the grand prize after becoming the winner of the WSO2CodeChallenge held in Hollywood.
-
-The WSO2CodeChallenge was held from May 7 - 9 at the Seminole Hard Rock Hotel and Casino in Hollywood, FL.
-
-WSO2's cloud-native software as a service (SaaS) offerings and open-source software are instrumental in the digital transformation journeys of numerous organizations, spanning thousands worldwide.
-
-This includes hundreds of the globe's largest corporations, premier universities, and governmental bodies. Annually, WSO2 facilitates the execution of an astounding 60 trillion transactions and manages over 1 billion identities for its clients.
-
-...
-
-[Data](articles/c68c3cf0.json)
-
-[Extended Data](ext_articles/c68c3cf0.ext.json)
-
----
-
-### Sri Lankan in Germany wins a Cybertruck
-
-*2024-05-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-in-Germany-wins-a-Cybertruck/108-282314) · `en`
-
-Pasindu Jayaweera, a Sri Lankan in Germany won the incredible Tesla Cybertruck as the grand prize after becoming the winner of the WSO2CodeChallenge held in Hollywood.
-
-The WSO2CodeChallenge was held from May 7 - 9 at the Seminole Hard Rock Hotel and Casino in Hollywood, FL.
-
-WSO2's cloud-native software as a service (SaaS) offerings and open-source software are instrumental in the digital transformation journeys of numerous organizations, spanning thousands worldwide.
-
-This includes hundreds of the globe's largest corporations, premier universities, and governmental bodies. Annually, WSO2 facilitates the execution of an astounding 60 trillion transactions and manages over 1 billion identities for its clients.
-
-...
-
-[Data](articles/e06aa8e4.json)
-
-[Extended Data](ext_articles/e06aa8e4.ext.json)
-
----
-
-### Mujibur Rahman beat Parliament
-
-*2024-05-10 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්-රහුමාන්-යලි-පාර්ලිමේන්තුවේ-දිවුරුම්-දෙයි/11-409545) · `si`
-
-Mujibur Rahman, a former Parliamentarian, was sworn into a vacant parliamentary seat, previously held by Diana Gamage MP. He had earlier left Parliament to run for Mayor of the Colombo Municipal Council.
-
-🟩
-
-Former Parliamentarian Mujibar Rahuman was sworn in as a parliamentary seat vacant by Diana Gamage MP.
-
-Previously, Mujibar Rahuman, who was previously served as a Member of Parliament, left the selected session to contest the Mayor candidate of the Colombo Municipal Council.
-
-◼️
-
-[Data](articles/babcbe26.json)
-
-[Extended Data](ext_articles/babcbe26.ext.json)
-
----
-
-### A motorcycle that destroyed fire
-
-*2024-05-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196469) · `si`
-
-A motorcycle linked to a shooting incident was found on private cinnamon land. The owner, a 54-year-old cinnamon worker, was killed in Ahungalla. Police suspect underworld gang rivalry and are investigating.
-
-🟩
-
-A private cinnamon land was found in a private cinnamon land.
-
-Police suspect that the motorcycle was used for shooting recently shooting.
-
-The owner of the relevant land to cut cinnamon this morning (10th) was informed the Kosgoda police.
-
-Kosgoda Police and the Elpitiya Divisional Secretariat are conducting further investigations.
-
-A 54-year-old cinnamon industry was killed in a shooting in Ahungalla yesterday (08).
-
-The shooting was carried out by a shooting from a scoop for another 7.40 night in Ahungalla, Ahungalla.
-
-The police states that the man was the father of 'Baby' as a suspect in several murders and crimes.
-
-Police suspect that the murder was held as a result of the confrontation between two underworld gangs, two underworld gangs, Kosgoda Vidura.
-
-The deceased is the victim of the sickness and vomiting the sickness when the deceased is the sickness and vomiting him out of the house.
-
-...
-
-[Data](articles/31c0ca2d.json)
-
-[Extended Data](ext_articles/31c0ca2d.ext.json)
 
 ---

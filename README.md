@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 17:03:31**
+As of **2024-05-10 17:18:16**
 
 ## Newspaper Stats
 
-*Scraped **23,182** Articles*
+*Scraped **23,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,968
-adaderanalk | 2,713
-tamilmirrorlk | 2,714
+adalk | 1,969
+tamilmirrorlk | 2,715
+adaderanalk | 2,717
 virakesarilk | 3,448
 dailymirrorlk | 3,642
 adaderanasinhalalk | 3,715
@@ -26,57 +26,119 @@ adaderanasinhalalk | 3,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,177 (100.0%) of 23,182 articles have been extended.
+23,182 (100.0%) of 23,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### மன்னாரில் நடைபெற்ற நுங்கு விழா
+### Warning issued over thundershowers and lightning in parts of the island
+
+*2024-05-10 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99135/warning-issued-over-thundershowers-and-lightning-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that thundershowers accompanied by severe lightning are likely to occur at several places in in Western, Sabaragamuwa, North-western and Uva provinces and in Galle and Matara districts after 2.00 p.m. on Saturday (11).
+
+In its latest weather forecast, the department stated that heavy showers of about 100mm are likely at some places in Central, Sabaragamuwa, Eastern and Uva provinces and in Polonnaruwa district.
+
+Meanwhile, showers may occur at several places in Western and Southern provinces and in Puttalam, Mannar, Kilinochchi and Jaffna districts during the morning too.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
+
+Meanwhile, the Met. Department also issued an ‘Amber’ level advisory for severe lightning in several areas across the island today (10).
+
+...
+
+[Data](articles/24bc9985.json)
+
+---
+
+### Nungu Festival held in Mannar
 
 *2024-05-10 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183172) · `ta`
 
-வன்னி மண் அறக்கட்டளை அனுசரணையுடன் மன்னார் மாவட்ட உள்ளூர் உற்பத்தியாளர்களின் விற்பனை நிலையத்தின் அமுலாக்கத்துடனும் நுங்கு விழா இன்று வெள்ளிக்கிழமை (10) காலை 10.30 மணியளவில்  மன்னாரில் நடைபெற்றது.
+The Nungu Festival in Mannar, sponsored by the Vanni Soil Foundation, highlighted the importance of palm trees and featured local producers. District Secretariat Officers attended, emphasizing the event's focus on environmental awareness.
 
-மன்னார் மாவட்ட செயலக வளாகத்தில் அமைந்துள்ள மன்னார் மாவட்ட உள்ளூர் உற்பத்தியாளர்களின் விற்பனை நிலையத்தின் முன்பாக சிறப்பாக இடம்பெற்ற நுங்கு திருவிழாவில் மாவட்ட செயலக உத்தியோகத்தர்கள் மன்னார் மாவட்ட மக்கள் என பலரும் கலந்து சிறப்பித்திருந்தமை விசேட அம்சமாகும்.
+🟩
 
-நுங்கு திருவிழாவானது பனை மரத்தின் தேவை குறித்தும் பனை மரத்தினால் பெறப்பட கூடிய பயன்கள் குறித்தும் விழிப்புணர்வை ஏற்படுத்தும் வகையில்  இந்த நுங்கு திருவிழா அமைந்திருந்தமை குறிப்பிடத்தக்கதாகும்.
+The Nungu ceremony was held in Mannar today (10) at 10.30 am with the implementation of the Local Manufacturers Store of the Mannar District with the sponsorship of the Vanni Soil Foundation.
+
+A special feature is that the District Secretariat Officers of the Mannar District Secretariat, located in the Mannar District Secretariat Complex, were present at the Nungu festival in front of the local producers of the Mannar District.
+
+It is noteworthy that the foam festival was aimed at raising awareness of the need for the palm tree and the benefits of palm tree.
 
 ◼️
 
 [Data](articles/ed8a37d7.json)
 
+[Extended Data](ext_articles/ed8a37d7.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා නීතිඥ සංගමය ජනපති ට ලියයි
+### Sri Lankan Bar Association writes to President
 
 *2024-05-10 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196483) · `si`
 
-අභියාචනාධිකරණයේ පවතින විනිසුරු පුරප්පාඩු පිරවීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලිපියක් යොමුකර තිබේ.
+The Bar Association of Sri Lanka, led by President Kaushalyena Nawaratne, has expressed concern to President Ranil Wickremesinghe over five vacancies in the Court of Appeal, urging immediate action to fill them.
 
-ශ්‍රී ලංකා නීතිඥ සංගමයේ ලේකම් චතුර ඒ ගල්හේන සහ එම සංගමයේ සභාපති ජනාධිපති නීතිඥ කෞෂල්‍ය නවරත්න එම ලිපියට අත්සන් තබා තිබේ.
+🟩
 
-මේ වනවිට අභියාචනාධිකරණයේ විනිසුරු පුරප්පාඩු 5ක් පමණ ඇති බවත් එම පුරප්පාඩු පිරවීමට දිගින් දිගටම පමාවීම සම්බන්ධයෙන් තමන් දැඩි කනස්සල්ලට පත්වන බවත් ඔවුන් එම ලිපියෙන් පෙන්වා දෙයි.
+The Bar Association of Sri Lanka has written to President Ranil Wickremesinghe regarding the issue of vacancies in the Court of Appeal.
+
+The Bar Association of Sri Lanka Chatura and President of the Association President of the Association President Kaushalyena Nawaratne has signed the letter.
+
+They point out that there are about five vacancies in the Court of Appeal and that they are worried about continuing to fill those vacancies.
 
 ◼️
 
 [Data](articles/ce5d52b2.json)
 
+[Extended Data](ext_articles/ce5d52b2.ext.json)
+
 ---
 
-### எதிர்வரும் தேர்தல்களில் தமிழ் மக்கள் வெற்றியின் கதாநாயகர்களாக இருப்பது அவசியம் - அமைச்சர் டக்ளஸ்
+### In the upcoming elections, the heroes of the Tamil people's victory - Minister Douglas
 
 *2024-05-10 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183167) · `ta`
 
-தமிழ் மக்களின் பிரச்சினைகளை தீராப் பிரச்சினையாக வைத்திருந்து அரசியல் ஆதாயம் தேடுவோரின் விருப்பமே தமிழ் பொதுவேட்பாளரை நிறுத்தும் முயற்சி என்று விமர்சித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, எதிர்வரும் ஜனாதிபதி தேர்தலில், ஒப்பீட்டளவில் வல்லவராக தன்னை நிரூபித்துள்ள ரணில் விக்கிரமசிங்கவின் வெற்றியை தமிழ் மக்களின் வெற்றியாக மாற்றும் வகையில் ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயற்பாடுகள் அமைய வேண்டும் எனவும் தெரிவித்துள்ளார்.
+Minister Douglas Devananda criticizes efforts to politicize Tamil issues for short-term gains, highlighting past failures. He emphasizes the EPDP's unique approach, proven over 34 years, offering comprehensive solutions. The upcoming election is crucial for the Tamil people to identify their champions and address their aspirations effectively.
 
-ஈழ மக்கள் ஜனநாயகக் கட்சியின் தீவக அமைப்பாளர்கள் மற்றும் முக்கியஸ்தர்களுடன் இடம்பெற்ற கலந்துரையாடலின் போதே செயலாளர் நாயகத்தினால் குறித்த விடயம் வலியுறுத்தப்பட்டுள்ளது.
+🟩
 
-சமகால அரசியல் நிலவரங்கள், அரசாங்கத்தினால் முன்னெடுக்கப்படும் வேலைத் திட்டங்கள் மற்றும் வரவுள்ள தேர்தல் தொடர்பான முன்னெடுப்புக்கள் போன்றவை தொடர்பிலும், அவை சரியான முறையில் மக்களை சென்றடைவதை உறுதிப்படுத்துவதற்கு வழங்க வேண்டிய ஒத்துழைப்புக்கள் தொடர்பாகவும் தெளிவுபடுத்தும் வகையில் குறித்த கலந்துரையாடல் அமைந்திருந்தது.
+Minister Douglas Devananda, who has criticized the Tamil people's desire to stop the problems of the Tamil people as a problem, is an attempt to stop the Tamil general candidate.
+
+The issue was emphasized by the Secretary -General during a discussion with the Eelam People's Democratic Island organizers and dignitaries.
+
+The discussion was to clarify on contemporary political conditions, government -wide programs and the upcoming election process and the cooperation that they need to ensure that they reach the public.
+
+Minister Douglas Devananda, who urged the need to increase our party's vote in the election.
+
+"தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளையும் அவலங்களையும் அரசியல் கோஷங்களாக பயன்படுத்தி குறுகிய அரசியல் ஆதாயம் தேடும் தரப்புக்கள், தமது நலன்களுக்காக தமிழ் மக்களை இன்னுமொருமுறை பலிக்கடாவாக்க முனைகிறார்கள்.
+
+Such stupid efforts have been repeatedly carried out by armed struggle groups and moderate Tamil leaders in the past.
 
 ...
 
 [Data](articles/4279e4ff.json)
+
+[Extended Data](ext_articles/4279e4ff.ext.json)
+
+---
+
+### BASL expresses concern over prolonged delays in judicial appointments
+
+*2024-05-10 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99134/basl-expresses-concern-over-prolonged-delays-in-judicial-appointments) · `en`
+
+The Bar Association of Sri Lanka (BASL) has raised significant concerns regarding the prolonged delay in appointing judges to fill vacancies in the Court of Appeal.
+
+In a letter to President Ranil Wickremesinghe, the BASL highlighted the pressing issue of as many as five vacancies currently existing within the Court of Appeal.
+
+The Bar Association has emphasized its duty to express deep concern over the situation, stressing the urgent need for attention. The association also underscored the pivotal role of the judiciary in upholding the rule of law, ensuring justice, and safeguarding citizens’ rights.
+
+The letter further highlighted the detrimental effects of prolonged vacancies on the efficiency and effectiveness of the judicial system.
+
+...
+
+[Data](articles/1c79721a.json)
 
 ---
 
@@ -110,6 +172,26 @@ Homagama police officers immediately visited the investigations and the robbers 
 
 ---
 
+### South Korea to create new ministry to tackle plummeting birth rate
+
+*2024-05-10 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99133/south-korea-to-create-new-ministry-to-tackle-plummeting-birth-rate) · `en`
+
+South Korea will set up a ministry to address the country’s plummeting birth rate, president Yoon Suk Yeol announced on Thursday, calling it a “national emergency”.
+
+The fertility rate in South Korea has been severely hit and continues on a dramatic decline in 2023 as women concerned about their careers and the financial cost of raising children are either delayed childbirth or deciding not to have babies.
+
+Women have cited the heavy emotional and physical burden of raising a child mostly by themselves, lost career opportunities, and the financial cost, setting the first such trend impacting a national demographic globally.
+
+On Thursday, Mr Yoon said South Korean parliament will be requested for cooperation to set up what he called the “Ministry of Low Birth Rate Counter-Planning”.
+
+“We will mobilise all of the nation’s capabilities to overcome the low birth rate, which can be considered a national emergency,” he said, announcing a new policy push.
+
+...
+
+[Data](articles/103ab322.json)
+
+---
+
 ### Lightning wareed at a hospital
 
 *2024-05-10 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196481) · `si`
@@ -131,6 +213,26 @@ The fire and the Firevana Unit of the Ceylon Electricity Board and Tangalle Urba
 [Data](articles/e58bfee9.json)
 
 [Extended Data](ext_articles/e58bfee9.ext.json)
+
+---
+
+### இன்று பூமியைத் தாக்கும் சூரிய காந்த புயல்! விஞ்ஞானிகள் எச்சரிக்கை
+
+*2024-05-10 15:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-பூமியைத்-தாக்கும்-சூரிய-காந்த-புயல்-விஞ்ஞானிகள்-எச்சரிக்கை/50-337091) · `ta`
+
+பிப்ரவரி 9 ஆம் திகதி முதல் பிப்ரவரி 10 ஆம் திகதிக்குள் நொடிக்கு 451 - 615 கிலோமீட்டர் வேகத்தில் மிதமான புவி காந்தப் புயலால் பூமி பாதிக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி இன்று (10) இரவு முதல் நாளை (11) இரவு வரை கலிபோர்னியா – தெற்கு அலபாமா வரை அரோரா காந்த புயல் எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+பூமியின் வட அரைக்கோளத்தில் காந்த புயல் காரணமாக தகவல் தொடர்பில் பாதிப்பு ஏற்படலாமெனத் தகவல் வெளியாகியுள்ளது.
+
+இதனால் செயற்கைக் கோள்களின் செயற்பாடுகளும் முடங்க வாய்ப்பிருப்பதாக அமெரிக்க ஆய்வகம் எச்சரிக்கை விடுத்திருக்கிறது.
+
+இதற்கு முன்னாள் ஏற்பட்ட புவி காந்த புயல் பூமி மற்றும் விண்வெளியில் சில பாதிப்புகளை ஏற்படுத்தியுள்ளது. முன்னர் பூமியைத் தாக்கிய புவி காந்த புயல் ரஷ்யாவில் ஒட்டுமொத்தமாக ரேடியோ பிளாக் அவுட் விளைவை ஏற்படுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/6cfa40be.json)
 
 ---
 
@@ -210,17 +312,43 @@ When the case was taken up again yesterday, Sumathi Dharma Dharma Dharmawardena,
 
 ---
 
-### திருகோணமலை நகரில் நாய்களுக்கு கருத்தடை
+### Suddenly for dogs in Trincomalee
 
 *2024-05-10 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183164) · `ta`
 
-கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களமும் திருகோணமலை நகரசபையும் இனைந்து திருகோணமலை நகரில் கட்டாக்காலியாக திரியும் நாய்களின் பொருக்கக்கை கட்டுப்படுத்தும் முகமாக நாய்களுக்கு கருத்தடை செயற்பாடு வியாழக்கிழமை (09) திருகோணமலை நகரில் இடம் பெற்றது.
+The Eastern Provincial Health Department and Trincomalee Municipal Council held a meeting in Trincomalee, attended by the Secretary of the Eastern Provincial Council Department and the Secretary of the Trincomalee Municipal Council, along with many others, including Rajasekhar.
 
-இந் நிகழ்வில் கிழக்கு மாகாண கால் நடைசுகாதாரத் திணைக்களத்தின் மாகாணப்பணிப்பாளர், திருகோணமலை நகரசபையின் செயலாளர் வெ. இராஜசேகர் உட்பட பலர் கலந்துகொண்டனர்.
+🟩
+
+The Eastern Provincial Health Department and the Trincomalee Municipal Council were held in Trincomalee on Thursday (09) in Trincomalee.
+
+The Secretary of the Eastern Provincial Council Department, the Secretary of the Municipal Council of the Trincomalee Municipal Council. Many people, including Rajasekhar, were present.
 
 ◼️
 
 [Data](articles/49d86469.json)
+
+[Extended Data](ext_articles/49d86469.ext.json)
+
+---
+
+### Fatal bus and tuk collision leaves one dead, four injured
+
+*2024-05-10 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99132/fatal-bus-and-tuk-collision-leaves-one-dead-four-injured) · `en`
+
+One person has been reported dead, while four others were left injured following a head-on collision involving a passenger transport bus and a three-wheeler in the Puwakgodamulla area of Badulla this morning (10).
+
+Police said that the tragic accident involving a passenger transport bus attached to the Sri Lanka Transport Board’s (SLTB) Dehiattakandiya Bus Depot and a three-wheel took place at around 10.00 a.m. today.
+
+An individual who was traveling in the three-wheeler has been killed, while four others sustained injuries and were admitted to the hospital for treatment, according to police.
+
+The deceased person has been identified as a 79-year-old, Ada Derana reporter said.
+
+Local residents allege that road accidents occur frequently in the area due to the obstruction of one lane of the road for water pipe maintenance activities.
+
+◼️
+
+[Data](articles/ca22a1aa.json)
 
 ---
 
@@ -296,23 +424,31 @@ A police team under SI A.V. Anura is conducting further investigations on the in
 
 ---
 
-### ஜேர்மனியில் சைபர் டிரக் காரை வென்ற இலங்கையர்
+### Sri Lankans win Cyber Truck in Germany
 
 *2024-05-10 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183157) · `ta`
 
-ஜேர்மனியில் இலங்கையைச் சேர்ந்தவர் WSO2 மென்பொருள் நிறுவனம் நடத்திய “WSO2CodeChallenge” போட்டியில் பங்கு  பற்றி டெஸ்லா சைபர் டிரக் காரை பரிசாக வென்றுள்ளார்.
+Sri Lankan WSO2 software company won a Tesla Cyber Truck in Germany at the WSO2codechallenge. The event, held in Florida, showcases WSO2's leading role in digital growth, managing 60 trillion transactions annually and securing over a billion identities.
 
-இந்த போட்டி மே மாதம் 7 ஆம் திகதி முதல் 9  ஆம் திகதி வரை புளோரிடாவின் செமினோல் ஹார்ட் ராக் ஹோட்டல் மற்றும் கேசினோ ஹாலிவுட்டில் நடைபெற்றது.
+🟩
 
-WSO2 மென்பொருள் நிறுவனம் டிஜிட்டல் வளர்ச்சி மாற்றத்திற்கான தொழில்நுட்பத்தில் முன்னிலை வகித்து வருகின்றது.
+Tesla cyber truck has won the Tesla cyber truck on the role of WSO2codechallenge, a Sri Lankan WSO2 software company in Germany.
 
-உலகில் பல நூற்றுக்கணக்கான பெரிய நிறுவனங்கள், முதன்மையான பல்கலைக்கழகங்கள் மற்றும் அரசாங்கங்கள் உட்பட பல்லாயிரக்கணக்கான நிறுவனங்கள் தங்கள் டிஜிட்டல் வளர்ச்சி மாற்றத்தை முன்னெடுத்துச் செல்வதில் WSO2 முக்கிய பங்கு வகிக்கின்றது.
+The tournament was held from May 7 to 9 in Florida's Seminol Heart Rock Hotel and Casino Hollywood.
 
-ஆண்டுதோறும், WSO2 வியக்கத்தக்க 60 டிரில்லியன் பரிவர்த்தனைகளைச் செய்கின்றது.  அதன் வாடிக்கையாளர்களுக்கு ஒரு பில்லியனுக்கும் அதிகமான அடையாளங்களை நிர்வகிக்கிறது.
+The WSO2 software company is leading the technology for digital growth.
 
-...
+The WSO2 plays an important role in the advancement of their digital growth change in the world, including hundreds of large corporations, primary universities and governments.
+
+Annually, the WSO2 performs amazing 60 trillion transactions.It manages more than one billion identities for its customers.
+
+Application programming interfaces (API) using WSO2 for management, coordination and customer identification and access management (CIAM), these companies use the full energy of their APIs to safeguard their digital services and applications.
+
+◼️
 
 [Data](articles/1f7d710b.json)
+
+[Extended Data](ext_articles/1f7d710b.ext.json)
 
 ---
 
@@ -399,6 +535,22 @@ However, the Supreme Court, in another application held that Diana Gamage is dis
 [Data](articles/f7449c8e.json)
 
 [Extended Data](ext_articles/f7449c8e.ext.json)
+
+---
+
+### ඇමෙරිකාවෙ ප්‍රභලයෙක් දකුණු ආසියාවේ සංචාරයක් අරඹයි
+
+*2024-05-10 14:03:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවෙ-ප්‍රභලයෙක්-දකුණු-ආසියාවේ-සංචාරයක්-අරඹයි/11-409549) · `si`
+
+දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ අද (10දා) දකුණු ආසියානු කලාපයේ සංචාරයක් ආරම්භ කිරිමට නියමිතය.
+
+ඒ අනුව මුලින්ම ඔහු අද දිනයේදි ඉන්දියාවට පැමිණිමට නියමිත අතර පසුව ශ්‍රී ලංකාව හා බංග්ලාදේශයේ සංචාරය කිරිමට නියමිතය.
+
+සහකාර රාජ්‍ය ලේකම්වරයා 15දා දක්වා දකුණු ආසියාවේ සංචාරයක නිරත වෙයි.
+
+◼️
+
+[Data](articles/22139658.json)
 
 ---
 
@@ -2121,109 +2273,5 @@ Addressing the media for the first time following the ruling, Gamage levelled ac
 [Data](articles/041595c7.json)
 
 [Extended Data](ext_articles/041595c7.ext.json)
-
----
-
-### Human traffickers sent over 80 Sri Lankan war veterans to Russian-Ukrainian war front: 8 killed
-
-*2024-05-10 04:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-traffickers-sent-over-80-Sri-Lankan-war-veterans-to-Russian-Ukrainian-war-front-8-killed/108-282292) · `en`
-
-Colombo, May 10 (Daily Mirror) - Investigations have revealed that more than 80 Sri Lankan war veterans have been sent to the Russian-Ukrainian war front as members of mercenary groups by human traffickers.
-
-Police Spokesman DIG Nihal Thalduwa said that among them, at least eight retired war veterans who had joined as mercenaries have died so far. He said six Sri Lankans had reportedly died in Russia and two had died in Ukraine.
-
-The Criminal Investigation Department (CID), Police and Intelligence agencies have launched extensive operations to arrest illegal human traffickers and several people involved in a racket to send retired war veterans to the Russian-Ukrainian war front as members of mercenary groups.
-
-DIG Thalduwa said illegal human traffickers reportedly sent 60 Sri Lankans to Russia and 23 to Ukraine to be deployed in the Ukraine-Russia conflict.
-
-...
-
-[Data](articles/fbaa1b34.json)
-
-[Extended Data](ext_articles/fbaa1b34.ext.json)
-
----
-
-### Second Sri Lanka – UK Strategic Dialogue held in Colombo
-
-*2024-05-10 04:34:39* · [`dailyftlk`](https://www.ft.lk/news/Second-Sri-Lanka-UK-Strategic-Dialogue-held-in-Colombo/56-761599) · `en`
-
-The Second Sri Lanka – UK Strategic Dialogue was held at the Ministry of Foreign Affairs on 7 May 2024. The Sri Lanka delegation at the meeting was led by Director General / Europe and North America Shobini Gunasekera and the UK side by Director / India and Indian Ocean Directorate at the Foreign Commonwealth and Development Office (FCDO) Ben Mellor. Discussions were also held with Foreign Secretary Aruni Wijewardane.
-
-...
-
-[Data](articles/5e24a777.json)
-
-[Extended Data](ext_articles/5e24a777.ext.json)
-
----
-
-### CoA grants two-week window for objections in Hirunika contempt case
-
-*2024-05-10 04:33:07* · [`dailyftlk`](https://www.ft.lk/news/CoA-grants-two-week-window-for-objections-in-Hirunika-contempt-case/56-761598) · `en`
-
-The Court of Appeal on Wednesday provided a two-week window to file objections to the complaint against former MP Hirunika Premachandra for being in contempt of court. This action stemmed from her criticism of the bail order issued by the Mount Lavinia Magistrate’s Court during a press conference on Women’s Day. The court ordered the complaint to be taken up again on 14 June.
-
-A Court of Appeal bench comprising Justices Nishanka Bandhula Karunaratne and Shashi Mahendran issued the order after considering a complaint filed by young business leader Hardy  Jamaldeen.
-
-During the proceedings, Counsel Nishan Premaratne, representing the plaintiff, presented facts to the court, alleging that the defendant had voiced criticisms regarding the bail order issued by the Mount Lavinia Magistrate’s Court during a press conference held on Women’s Day, in connection with a specific incident.
-
-...
-
-[Data](articles/c6317e99.json)
-
-[Extended Data](ext_articles/c6317e99.ext.json)
-
----
-
-### ‘Sampath PayBand, a revolutionary payment device’
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/sampath-payband-a-revolutionary-payment-device/) · `en`
-
-Sampath Bank introduced recently its latest innovation, the Sampath PayBand, a versatile wearable payment device, aiming to revolutionize the transaction landscape in Sri Lanka.
-
-This groundbreaking solution caters to the evolving preferences of the younger generation and tech-savvy consumers, marking a significant milestone as the country’s first of its kind. Sampath PayBand heralds a new era in convenient and secure transactions.
-
-Tharaka Ranwala, Senior DGM – Marketing, Customer Care & Card Centre, highlighted Sampath Bank’s pioneering role with the launch of Sampath PayBand, stating, “Sampath PayBand undoubtedly positions Sampath Bank as a trailblazer in banking innovation. This revolutionary wearable payment device signifies a significant leap forward in convenience and underscores Sampath Bank’s commitment to meeting evolving customer needs.”
-
-...
-
-[Data](articles/702d8a87.json)
-
-[Extended Data](ext_articles/702d8a87.ext.json)
-
----
-
-### President’s comments bring bourse back to life following dismal start
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/presidents-comments-bring-bourse-back-to-life-following-dismal-start/) · `en`
-
-CSE trading started on a negative note yesterday but suddenly bounced back following President Ranil Wickremesinghe’s positive comments on the country’s macro- economic improvements.The President also said that Sri Lanka has seen good results under the IMF program, but the country has to complete debt restructuring and continue on a reform path to ensure strong growth.
-
-Consequently, both indices moved upwards. The All Share Price Index went up by 43.33 points while S and P SL 20 rose by 43.47 points.
-
-Turnover stood at Rs 2.7 billion with three crossings. Those crossings were reported in Aitken Spence, where 360,000 shares crossed to the tune of Rs 47.1 million; its shares traded at Rs 131, CTC 16000 shares crossed for Rs 20.8 million; its shares sold at Rs 1300 and Sampath Bank 260,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 79.90.
-
-...
-
-[Data](articles/a7c2a65b.json)
-
-[Extended Data](ext_articles/a7c2a65b.ext.json)
-
----
-
-### Sheraton Colombo Hotel treats moms to an unforgettable experience on Mother’s Day
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/sheraton-colombo-hotel-treats-moms-to-an-unforgettable-experience-on-mothers-day/) · `en`
-
-Sheraton Colombo Hotel, is creating a memorable experience this Mother’s Day, where each mom is celebrated and cherished with love and gratitude.
-
-Extending an invitation to the leading lady in our lives, the hotel offers a day of pure indulgence and relaxation with its stylish surroundings as the ideal sanctuary to honour and celebrate her remarkable spirit. Whether she desires a unique afternoon tea experience, a spa retreat, or simply quality time with loved ones, Sheraton Colombo Hotel presents bonding time for mothers, children and families.
-
-...
-
-[Data](articles/af4c53fa.json)
-
-[Extended Data](ext_articles/af4c53fa.ext.json)
 
 ---

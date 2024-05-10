@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 00:04:47**
+As of **2024-05-11 00:18:21**
 
 ## Newspaper Stats
 
-*Scraped **23,235** Articles*
+*Scraped **23,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,35 +14,155 @@ dbsjeyarajcom | 242
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,341
-dailyftlk | 1,343
+dailyftlk | 1,344
 adalk | 1,973
 tamilmirrorlk | 2,721
 adaderanalk | 2,723
 virakesarilk | 3,453
-dailymirrorlk | 3,650
+dailymirrorlk | 3,656
 adaderanasinhalalk | 3,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,234 (100.0%) of 23,235 articles have been extended.
+23,235 (100.0%) of 23,242 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-11 (Saturday)
+
+### How far can we go with only “hope”?
+
+*2024-05-11 00:08:12* · [`dailyftlk`](https://www.ft.lk/columns/How-far-can-we-go-with-only-hope/4-761661) · `en`
+
+It is time to lobby health authorities to decide with due responsibility on new cancer treatment centres
+
+A month ago, I had a frantic call from a distant contact who wanted to know if I could arrange for cancer treatment at “Apeksha” that same day, as they have been very curtly told, “come next week.” They had come on a confirmed appointment, he told me. His problem was, the hire for the van was over Rs. 30,000 and they simply cannot afford that fare yet again in a week.
+
+...
+
+[Data](articles/9a4446c4.json)
+
+---
+
+### 11th Commemoration of Dr. Ranjith Navarathne’s He was dedicated to social justice
+
+*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/11th-Commemoration-of-Dr-Ranjith-Navarathnes-He-was-dedicated-to-social-justice/172-282340) · `en`
+
+He was an active student leader of the Student Federation affiliated to the Lanka Sama Samaja Party
+
+This article is penned to mark the 11th Commemoration of the late Dr. Ranjith Navarathne, a former leader of the Sri Lanka Mahajana Party and former Kurunegala District Member of Parliament. The 11th commemoration of this individual fell on May 1 and a memorial service was held in his name on May 4.
+
+Born on January 07, 1948 in the beautiful village of Nikawewa in the historical Nikawagampaha Korale, Hiriala Hatpattuwa, North Western Province, Navarathne’s life experiences are parallel to the development of independent Sri Lanka. Choosing Sri Devanam Piyathissa Central College, Nikkewa for his education, he showed exceptional talent for education from an early age. In 1967, he passed his Advanced Level Examination with top honors and entered University.
+
+...
+
+[Data](articles/02bdcd55.json)
+
+---
+
+### “CEYLONA 2024” international girl guide camp at Ibbagamuwa Central College Kurunegala
+
+*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/CEYLONA-2024-international-girl-guide-camp-at-Ibbagamuwa-Central-College-Kurunegala/172-282341) · `en`
+
+For 107 years, International Camps have been a cherished tradition within our guiding community and they have offered children enriching experiences and unforgettable memories”
+
+. With the introduction of our new camp logo, we eagerly anticipate the beginning of a fresh chapter in our illustrious history, poised to enhance the camping experience even further,” Nadeeka Gunasekara, International Commissioner
+
+Sri Lanka Girl Guides Association (SLGGA) has plans to host an International Camp at Ibbagamuwa Central College, Kurunegala from August 18 to 23 (2024). The International Camp is poised to offer a plethora of enriching activities and experiences to participants. From outdoor adventures to leadership workshops the camp aims to provide a holistic learning environment where participants can develop essential life skills while forging
+
+...
+
+[Data](articles/6f02ea3e.json)
+
+---
+
+### Effectiveness Of Lanka’s Legal System And Challenges That Lie Ahead
+
+*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Effectiveness-Of-Lankas-Legal-System-And-Challenges-That-Lie-Ahead/172-282339) · `en`
+
+An anti-corruption march to mark World Anti-Corruption Day by civil society organizations.
+
+In November 2023, Singapore‘s Transport Minister was arrested in  connection with a top-level corruption probe that ensnared a billionaire  hotel tycoon. Singapore has a powerful anti-grafts body and 61  –year-old S. Iswaran was arrested as part of an investigation
+
+This fact was patently clear on many occasions in several incidents. In November 2023, the Supreme Court ordered Acting IGP Deshabandu Tennakoon and  three others including two police officers to pay a compensation of Rs.  2 million out of their funds to the petitioner, a former army soldier
+
+Daily Mirror dated 16.4.2024 reported that Marie Antonia von Schonburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka has raised the issue of Effectiveness in Sri Lanka’s legal system due to perceived corruption in the country.
+
+...
+
+[Data](articles/906c1faa.json)
+
+---
+
+### ‘The best time to plant a tree was 25 years ago, the second best is today’
+
+*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-best-time-to-plant-a-tree-was-25-years-ago-the-second-best-is-today/172-282335) · `en`
+
+While President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna Government has pulled Sri Lanka out of one of its worst-ever economic crises, the Government also needs to give special attention to issues such as plant health. Most village folk give much-needed attention to plant health despite problems such as shortage of fertiliser; but city folk generally do not bother much about plant health as they consider planting a tree to be the job of a servant. But good citizens need to be concerned about plant health and related issues because our health and the health of our planet depend on plants.
+
+On Sunday, May 12, the United Nations (UN) marks International Day of Plant Health, with the focus being to raise global awareness on how protecting plant health can help end hunger, reduce poverty, protect biodiversity and the environment, and boost economic development.
+
+...
+
+[Data](articles/923b8ddd.json)
+
+---
+
+### Will the approaching elections be free and fair?
+
+*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-the-approaching-elections-be-free-and-fair/172-282337) · `en`
+
+What is the significance of the Election Commission’s (EC) announcement on Thursday that the next presidential election would be held between September 17 and October 16? It is a well-known fact to those who know the relevant Article of the Constitution. It would have only been relevant if the EC had announced the exact date for the election.
+
+Although President Ranil Wickremesinghe has not declared his candidature for the forthcoming Presidential election, it is clear he has commenced his election campaign through vote-catching activities in various sectors, providing the voters with various goodies and freebies.
+
+If we are going by a recent communication by the election monitoring body, the People’s Action for Free and Fair Elections (PAFFREL) to the Elections Commission (EC), what is shameful in this exercise is the President’s party, the United National Party (UNP) using public funds for these activities, abusing the powers of the President’s office.
+
+...
+
+[Data](articles/e966b315.json)
+
+---
+
 ### 2024-05-10 (Friday)
 
-### விஜயகாந்துக்கு பத்ம பூஷண் விருது
+### Battery-operated toys pose risks to kids
+
+*2024-05-10 23:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Battery-operated-toys-pose-risks-to-kids/108-282344) · `en`
+
+Colombo, May 10 - Battery operated toys sold in the market are harmful to children, Government Medical Officers' Association (GMOA) Assistant Secretary Dr. Palitha Rajapaksa said.
+
+Since these toys contain lithium, silver oxide and alkaline button batteries, children can swallow them, put them in their ears or noses, and if children swallow these batteries, it can even be fatal to the child through the electrochemical activities.
+
+The first part of the alimentary canal (the esophagus) is naturally narrow, and the maximum damage can occur when these are swallowed, and the submerged battery can travel to the stomach and cause severe damage, Dr. Rajapaksa said.
+
+He also said that even the stomach can be fatally damaged through this, and even life can be lost due to the blockage of the respiratory tract.
+
+...
+
+[Data](articles/4d46e477.json)
+
+---
+
+### Padma Bhushan Award for Vijayakanth
 
 *2024-05-10 23:52:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயகாந்துக்கு-பத்ம-பூஷண்-விருது/175-337111) · `ta`
 
-இந்தியாவின் டில்லியிலுள்ள குடியரசுத் தலைவர் மாளிகையில் பத்ம விருதுகள் வழங்கும் விழா நேற்று முன்தினம் நடைபெற்றது.
+Vijayakanth received the Padma Bhushan Award at the President's House in Delhi, with Premalatha Vijayakanth accepting on his behalf.
 
-இதில் விஜயகாந்த் சார்பில் கலந்து கொண்ட பிரேமலதா விஜயகாந்த், இந்தியாவின் குடியரசுத் தலைவரிடமிருந்து விருதைப் பெற்றுக் கொண்டார். (a)
+🟩
+
+The Padma Awards ceremony was held yesterday at the President's House in Delhi, India.
+
+Premalatha Vijayakanth, who participated on behalf of Vijayakanth, received the award from the President of India. (A)
 
 ◼️
 
 [Data](articles/beb07d3b.json)
+
+[Extended Data](ext_articles/beb07d3b.ext.json)
 
 ---
 
@@ -2155,181 +2275,5 @@ The Ministry requests that “family members of the concerned provide informatio
 [Data](articles/a59dc64b.json)
 
 [Extended Data](ext_articles/a59dc64b.ext.json)
-
----
-
-### How to strengthen the rupee?
-
-*2024-05-10 12:05:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1je2z1pgo) · `si`
-
-Strengthening the Sri Lankan rupee involves reducing the cost of foreign exchange, making imports cheaper, and potentially lowering inflation. This can benefit the economy by reducing the cost of goods and raw materials, especially for businesses. However, it may also impact export and tourism sectors negatively.
-
-🟩
-
-Sri Lanka's gross uniforms exceeding US $ 5 billion, and the value of the Sri Lankan rupee is a significant strength.
-
-The balance of the primary account for years has shown a surplus of Rs.President Ranil Wickremesinghe (May 9) a special statement in Parliament.
-
-'What kind of joke to make a country that is a man who read books into the pocket and make money?'
-
-The number of US dollar's daily news in Sri Lanka has been increasing in Sri Lanka over two years.
-
-Due to many economic matters, such as increasing inflation, as the increase in the foreign reserves of Sri Lanka, has been stressed. Especially the import impact on the field, it has been implemented, such as the present today and the import boundaries implemented up to the present. There were also hindered to import the essentials, such as fuel and gas.
-
-Today, however, the rupee has been significantly strengthened with other currencies.
-
-...
-
-[Data](articles/d206cd43.json)
-
-[Extended Data](ext_articles/d206cd43.ext.json)
-
----
-
-### Ahungalla murderers find motorcycle
-
-*2024-05-10 12:01:49* · [`adalk`](https://www.ada.lk/breaking_news/අහුන්ගල්ලේ-ඝාතකයන්-පැමිණි-යතුරු-පැදිය-සොයා-ගනී/11-409546) · `si`
-
-Two murderers shot dead in Barchwidaduwa, Ahungalla. Incident occurred at a house in Bogahapitiya. Kosgoda Police investigating.
-
-🟩
-
-Kosgoda Police say that the two murderers who had been shot dead in a cinnamon land in Barchwidaduwa area.
-
-The Kosgoda Police said that according to a information received, the Kosgoda Police said.
-
-The murder was shot dead by a small firearm at a house in Bogahapitiya on the 8th night.. The Ahungalla and Kosgoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/e0994e2c.json)
-
-[Extended Data](ext_articles/e0994e2c.ext.json)
-
----
-
-### O/L Examinations: Complaints in CID
-
-*2024-05-10 11:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-முறைகேடுகள்-CIDயில்-முறைப்பாடு/175-337080) · `ta`
-
-Amit Jayasundara, Commissioner General of Examinations, will lodge complaints at CID for exam irregularities, including photo-taking of English question papers. Mobile phones were confiscated at exam stations. Issues reported at two Colombo centers and one in Hasalaka.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said that complaints will be lodged at the Criminal Investigation Department (CID) today (10) on the irregularities that have been held across the country.
-
-It is said that the writers of the exam have been trying to take the picture of the English questionnaire issued yesterday and send them to the other side.
-
-The Department of Examinations said that the officers at the examination stations had seized mobile phones.
-
-The irregularities have been reported at two examination centers in Colombo and an examination center in Hasalaka area.. Remble
-
-◼️
-
-[Data](articles/fc0203da.json)
-
-[Extended Data](ext_articles/fc0203da.ext.json)
-
----
-
-### Russia - Sri Lankans who joined Ukrainian war will launch an operation
-
-*2024-05-10 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196472) · `si`
-
-Approximately 114 Sri Lankan soldiers have been involved in the Ukrainian war, with 60 in Russia and 54 in Ukraine. Investigations by the Criminal Investigations Department (CID) are ongoing. Former soldiers report around 1000 Sri Lankans are present in the conflict. The Assistant Superintendent of Police, Narendra Jayakantha, has urged relatives to provide information. Three Sri Lankans who returned from the war described it as more akin to suicide than combat, highlighting the harsh realities of the battlefield. The war began on February 24, 2022, with Russia's invasion of Ukraine, and mercenaries from various countries, including Sri Lanka, have been recruited. A retired Major General and Sergeant have been arrested for allegedly obtaining a list of retired Army personnel from the Army Headquarters. The police continue to investigate the involvement of Sri Lankan soldiers in the conflict.
-
-🟩
-
-According to investigations conducted by the Criminal Investigations Department, about 114 Sri Lankan soldiers have been leased out to join Ukorean war.
-
-60 of them had gone to Russia and the 54 people for Ukraine.
-
-The Criminal Investigation Department (CID) Trade, Racket Investigation and Marine Criminal Investigation Division Mr. Narendra Jayakanantha said that.
-
-However, the former army soldiers who escaped from the war against Ukrainian war say that about 1000 Sri Lankans are present.
-
-The Assistant Superintendent of the Superintendent of Police said that information is still collected in this regard.
-
-"A group has gone to India to go to Ukraine. Of these, 23 of them went to Poland and went through it and went through Ukraine. Three of those who went to Russia have escaped .... "
-
-Assistant Superintendent of Police Narendra Jayakantha, Russian, says that Russia has been given to the war of Russia and the Russian war.
-
-...
-
-[Data](articles/dff85928.json)
-
-[Extended Data](ext_articles/dff85928.ext.json)
-
----
-
-### US Representative
-
-*2024-05-10 11:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-அமெரிக்க-பிரதிநிதி/175-337078) · `ta`
-
-US Assistant Secretary Donald Lu visits India today, part of a week-long trip to South Asia. His goal is to bolster bilateral ties with India, Sri Lanka, and Bangladesh, with a focus on supporting Sri Lanka's economic growth.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu will visit India today (10).
-
-The US State Department has said that he will stay in the South Asian region from today to the 15th of this month, followed by India and Sri Lanka and Bangladesh.
-
-The purpose of his journey is to strengthen bilateral cooperation with each country.
-
-During his visit to Sri Lanka, it is also reported that US support for the country's economic growth will be re -confirmed.
-
-◼️
-
-[Data](articles/721d455b.json)
-
-[Extended Data](ext_articles/721d455b.ext.json)
-
----
-
-### US-powder of America - Sri Lankan visit to Sri Lanka
-
-*2024-05-10 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196471) · `si`
-
-The US Assistant Secretary of State for South and Central Asian Affairs is visiting India, Bangladesh, and Sri Lanka from 10 to 15. The purpose is to enhance bilateral cooperation and reassess US support for Sri Lanka's economic growth.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs is due to arrive in India today (10).
-
-He is due to be in the South Asian region from today to 15 to 15 and is due to arrive in Sri Lanka after India and Bangladesh.
-
-His purpose is to strengthen bilateral cooperation with each countries.
-
-It is said that the US support for the economic growth of Sri Lanka will be reassigned during his visit to Sri Lanka.
-
-◼️
-
-[Data](articles/52fb51c8.json)
-
-[Extended Data](ext_articles/52fb51c8.ext.json)
-
----
-
-### CWC's immediate action on the plight of plantation officers in Ratnapura
-
-*2024-05-10 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183131) · `ta`
-
-Minister Jeevan Thondaman has directed legal action against attackers of plantation workers in Ratnapura, following an incident that resulted in serious injuries to two workers. The Ceylon Workers Congress (CWC) has condemned the attack and called for government protection. The police have arrested the attackers, and the CWC hopes for appropriate legal action.
-
-🟩
-
-Minister Jeevan Thondaman has issued a directive to the Inspector General of Police to take legal action on the plight of plantation officers in the Ratnapura area.
-
-Jeevan Thondaman, Minister of Water Resources and Plantation Infrastructure and Ceylon Workers Congress, has issued a directive to the Inspector General of Water Resources and Plantation Infrastructure and the General Secretary of the Ceylon Workers Congress to take immediate action regarding the attack on the plantation workers.
-
-The National Organizer of the Ceylon Workers Congress and a member of the Central Council of the Central Council. P. Sakthivel and Vice President of the Ceylon Workers Congress, Chinnaya Rajamani, have met directly to meet the attackers.
-
-In addition, a male worker and a female worker who were attacked have been admitted to the Ratnapura District Hospital with serious injuries with the protection of the Ratnapura police.
-
-...
-
-[Data](articles/0846cb80.json)
-
-[Extended Data](ext_articles/0846cb80.ext.json)
 
 ---

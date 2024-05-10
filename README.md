@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 19:18:05**
+As of **2024-05-10 19:33:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,720
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,205 (100.0%) of 23,206 articles have been extended.
+23,206 (100.0%) of 23,206 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,25 +58,31 @@ Accordingly, a player will be financially rewarded with a one-time payment if th
 
 ---
 
-### ක්‍රීඩකයින්ගේ ගෙවීම් ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් නිවේදනයක්
+### SLC announces about the payments of the players
 
 *2024-05-10 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196488) · `si`
 
-ශ්‍රී ලංකා ජාත්‍යන්තර ක්‍රිකට් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරන සියලුම ක්‍රීඩකයින්ගේ ගෙවීම් වහාම ක්‍රියාත්මක වන පරිදි වැඩි කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+Sri Lanka Cricket boosts player payments, especially for Test matches, with increases up to 100% for tourists. Payments adjust based on match outcomes, with 25% hikes for ODIs and 20th-day internationals. 41 players receive new contracts, following ICC ratings.
 
-ඒ අනුව ටෙස්ට් තරග සඳහා සහභාගී වන ක්‍රීඩකයින්ගේ තරග ගාස්තුව 100%කින් වැඩි කළ අතර, ඔවුන්ගේ ගෙවීම් දක්ෂතා අනුව තීරණය කෙරේ.
+🟩
 
-එසේම ටෙස්ට් ක්‍රිකට් තරගයක් ජයග්‍රහණය කිරීම, ජය පරාජයෙන් තොරව අවසන්වීම හෝ පරාජය වීම මත ද ගෙවීම් ක්‍රමවේද වෙනස් වේ.
+Sri Lanka Cricket announced that the payments of all the players playing for the Sri Lanka International International cricket team increased immediately.
 
-එසේම එක්දින ජාත්‍යන්තර තරග සහ 20යි 20 ජාත්‍යන්තර තරග සඳහා 25%කින් ගෙවීම් ඉහළ දමා ඇත.
+Accordingly, the tourist players participating in Test matches increased by 100%, determined by their payment talent.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය මඟින් ශ්‍රේණිගත කර ඇති ක්‍රීඩකයින් සඳහා ද පිළිගැනීමේ ක්‍රමවේදයක් සකසන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+Payment methods also change on the winning of a Test cricket match and the defeat of the victory.
 
-එම නිවේදනයේ තවදුරටත් සඳහන් වන්නේ, නව කොන්ත්‍රාත්තු සඳහා ක්‍රීඩකයින් 41 දෙනෙකු තෝරාගෙන ඇති බවය.
+25% have been increased by 25% for ODIs and 20th-day international matches.
+
+Sri Lanka Cricket announced a recognition methodology for players rated by the International Cricket Council.
+
+The statement further adds that 41 players have been selected for new contracts.
 
 ◼️
 
 [Data](articles/49382233.json)
+
+[Extended Data](ext_articles/49382233.ext.json)
 
 ---
 

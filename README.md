@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 16:49:56**
+As of **2024-05-10 17:03:31**
 
 ## Newspaper Stats
 
-*Scraped **23,177** Articles*
+*Scraped **23,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,41 +18,95 @@ dailyftlk | 1,343
 adalk | 1,968
 adaderanalk | 2,713
 tamilmirrorlk | 2,714
-virakesarilk | 3,444
+virakesarilk | 3,448
 dailymirrorlk | 3,642
-adaderanasinhalalk | 3,714
+adaderanasinhalalk | 3,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,176 (100.0%) of 23,177 articles have been extended.
+23,177 (100.0%) of 23,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### මහ දවාලේ හෝමාගම ටවුමේ සිදුකළ රන් භාණ්ඩ කොල්ලය
+### மன்னாரில் நடைபெற்ற நுங்கு விழா
+
+*2024-05-10 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183172) · `ta`
+
+வன்னி மண் அறக்கட்டளை அனுசரணையுடன் மன்னார் மாவட்ட உள்ளூர் உற்பத்தியாளர்களின் விற்பனை நிலையத்தின் அமுலாக்கத்துடனும் நுங்கு விழா இன்று வெள்ளிக்கிழமை (10) காலை 10.30 மணியளவில்  மன்னாரில் நடைபெற்றது.
+
+மன்னார் மாவட்ட செயலக வளாகத்தில் அமைந்துள்ள மன்னார் மாவட்ட உள்ளூர் உற்பத்தியாளர்களின் விற்பனை நிலையத்தின் முன்பாக சிறப்பாக இடம்பெற்ற நுங்கு திருவிழாவில் மாவட்ட செயலக உத்தியோகத்தர்கள் மன்னார் மாவட்ட மக்கள் என பலரும் கலந்து சிறப்பித்திருந்தமை விசேட அம்சமாகும்.
+
+நுங்கு திருவிழாவானது பனை மரத்தின் தேவை குறித்தும் பனை மரத்தினால் பெறப்பட கூடிய பயன்கள் குறித்தும் விழிப்புணர்வை ஏற்படுத்தும் வகையில்  இந்த நுங்கு திருவிழா அமைந்திருந்தமை குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/ed8a37d7.json)
+
+---
+
+### ශ්‍රී ලංකා නීතිඥ සංගමය ජනපති ට ලියයි
+
+*2024-05-10 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196483) · `si`
+
+අභියාචනාධිකරණයේ පවතින විනිසුරු පුරප්පාඩු පිරවීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලිපියක් යොමුකර තිබේ.
+
+ශ්‍රී ලංකා නීතිඥ සංගමයේ ලේකම් චතුර ඒ ගල්හේන සහ එම සංගමයේ සභාපති ජනාධිපති නීතිඥ කෞෂල්‍ය නවරත්න එම ලිපියට අත්සන් තබා තිබේ.
+
+මේ වනවිට අභියාචනාධිකරණයේ විනිසුරු පුරප්පාඩු 5ක් පමණ ඇති බවත් එම පුරප්පාඩු පිරවීමට දිගින් දිගටම පමාවීම සම්බන්ධයෙන් තමන් දැඩි කනස්සල්ලට පත්වන බවත් ඔවුන් එම ලිපියෙන් පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/ce5d52b2.json)
+
+---
+
+### எதிர்வரும் தேர்தல்களில் தமிழ் மக்கள் வெற்றியின் கதாநாயகர்களாக இருப்பது அவசியம் - அமைச்சர் டக்ளஸ்
+
+*2024-05-10 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183167) · `ta`
+
+தமிழ் மக்களின் பிரச்சினைகளை தீராப் பிரச்சினையாக வைத்திருந்து அரசியல் ஆதாயம் தேடுவோரின் விருப்பமே தமிழ் பொதுவேட்பாளரை நிறுத்தும் முயற்சி என்று விமர்சித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, எதிர்வரும் ஜனாதிபதி தேர்தலில், ஒப்பீட்டளவில் வல்லவராக தன்னை நிரூபித்துள்ள ரணில் விக்கிரமசிங்கவின் வெற்றியை தமிழ் மக்களின் வெற்றியாக மாற்றும் வகையில் ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயற்பாடுகள் அமைய வேண்டும் எனவும் தெரிவித்துள்ளார்.
+
+ஈழ மக்கள் ஜனநாயகக் கட்சியின் தீவக அமைப்பாளர்கள் மற்றும் முக்கியஸ்தர்களுடன் இடம்பெற்ற கலந்துரையாடலின் போதே செயலாளர் நாயகத்தினால் குறித்த விடயம் வலியுறுத்தப்பட்டுள்ளது.
+
+சமகால அரசியல் நிலவரங்கள், அரசாங்கத்தினால் முன்னெடுக்கப்படும் வேலைத் திட்டங்கள் மற்றும் வரவுள்ள தேர்தல் தொடர்பான முன்னெடுப்புக்கள் போன்றவை தொடர்பிலும், அவை சரியான முறையில் மக்களை சென்றடைவதை உறுதிப்படுத்துவதற்கு வழங்க வேண்டிய ஒத்துழைப்புக்கள் தொடர்பாகவும் தெளிவுபடுத்தும் வகையில் குறித்த கலந்துரையாடல் அமைந்திருந்தது.
+
+...
+
+[Data](articles/4279e4ff.json)
+
+---
+
+### The goldening booty of the city of Homawala was robbed
 
 *2024-05-10 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196482) · `si`
 
-හෝමාගම නගරයේ පිහිටි රන් භාණ්ඩ ආයතනයක් වෙත පිස්තෝලයක් අතැතිව ආ නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් එම ආයතනයේ තිබූ මුදල් හා රන් භාණ්ඩ කොල්ලකා පළා ගොස් තිබේ.
+In Homagama, two strangers robbed the gold and money from a store, pretending to buy gold. They took stationery and were caught on CCTV. An employee was sick, and the robbers were identified by their motorbike plates.
 
-අද (10) පෙරවරු 11.45ට පමණ මෙම සිදුවීම වාර්තා වී ඇති අතර, එහිදී යතුරුපැදි දෙකකින් පැමිණි සිව්දෙනෙකු අතරින් දෙදෙනෙක් අලෙවි සැලට ඇතුළු වන අයුරු එහි තිබූ CCTV කැමරාවේ සටහන්ව තිබිණි.
+🟩
 
-ඔවුන් දෙදෙනා රන් භාණ්ඩ මිලදී ගන්නා මුවාවෙන් මඳ වේලාවක් එහි රැඳී සිටින අතර, පසුව එක් අයෙක් අලෙවිසැලේ සේවකයන්ට පිස්තෝලයක් පෙන්වා රන් භාණ්ඩ හා මුදල් කොල්ලකයි.
+Two strangers have fled the money and gold items in the company with a pistol in Homagama.
 
-මුදලින් රුපියල් ලක්ෂ 3ක්, මුදු 36ක් හා පෙන්ඩන්ට් 48ක් කොල්ලකරුවන් රැගෙන ගොස් ඇති බව ස්වර්ණාභරණ අලෙවිසැලේ සේවකයින් පවසයි.
+The incident was reported at around 11.45 am today.
 
-කොල්ලකරුවන් පිටව යාමත් සමඟ අලෙවිසැලේ සේවකයෙක් හදිසි අසනීප තත්ත්වයකට ලක්වන ආකාරයත් CCTV කැමරාවේ සටහන්ව තිබිණි.
+The two of them remain a little time with the guise of buying gold and the workers in the outlet.
 
-කොල්ලකරුවන් රැගෙන ගිය රන් මුදු හා පෙන්ඩන්ට් මාර්ගයේ වැටී තිබියදී ඒ අසලින් ගමන් ගත් පිරිස් ඒවා යළි අලෙවිසැල වෙත ගෙනැවිත් දුන අයුරුද එම CCTV දර්ශනවල දක්නට ලැබේ.
+Stationery has been taken from Rs.
 
-හෝමාගම පොලිසියේ නිලධාරීන් වහාම එහි පැමිණ විමර්ශන ආරම්භ කළ අතර කොල්ලකරුවන් පැමිණි යතුරුපැදිවල අංක තහඩු ව්‍යාජ බව හෙළි වී තිබේ.
+With the robbers, an employee of a dealene was diagnosed with an emergency illness.
+
+When the robbers were carrying the robbers and the fallen on the pendant route, the passengers were brought back to the re-salary and were found in the CCTV scenes.
+
+Homagama police officers immediately visited the investigations and the robbers had come to the number plates of the motorbikes arrived.
 
 ◼️
 
 [Data](articles/3aecd092.json)
+
+[Extended Data](ext_articles/3aecd092.ext.json)
 
 ---
 
@@ -156,6 +210,20 @@ When the case was taken up again yesterday, Sumathi Dharma Dharma Dharmawardena,
 
 ---
 
+### திருகோணமலை நகரில் நாய்களுக்கு கருத்தடை
+
+*2024-05-10 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183164) · `ta`
+
+கிழக்கு மாகாண கால் நடை சுகாதாரத் திணைக்களமும் திருகோணமலை நகரசபையும் இனைந்து திருகோணமலை நகரில் கட்டாக்காலியாக திரியும் நாய்களின் பொருக்கக்கை கட்டுப்படுத்தும் முகமாக நாய்களுக்கு கருத்தடை செயற்பாடு வியாழக்கிழமை (09) திருகோணமலை நகரில் இடம் பெற்றது.
+
+இந் நிகழ்வில் கிழக்கு மாகாண கால் நடைசுகாதாரத் திணைக்களத்தின் மாகாணப்பணிப்பாளர், திருகோணமலை நகரசபையின் செயலாளர் வெ. இராஜசேகர் உட்பட பலர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/49d86469.json)
+
+---
+
 ### One person killed in Badulla accident
 
 *2024-05-10 14:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-ஒருவர்-பலி-நால்வர்-காயம்/76-337090) · `ta`
@@ -225,6 +293,26 @@ A police team under SI A.V. Anura is conducting further investigations on the in
 [Data](articles/28dfe639.json)
 
 [Extended Data](ext_articles/28dfe639.ext.json)
+
+---
+
+### ஜேர்மனியில் சைபர் டிரக் காரை வென்ற இலங்கையர்
+
+*2024-05-10 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183157) · `ta`
+
+ஜேர்மனியில் இலங்கையைச் சேர்ந்தவர் WSO2 மென்பொருள் நிறுவனம் நடத்திய “WSO2CodeChallenge” போட்டியில் பங்கு  பற்றி டெஸ்லா சைபர் டிரக் காரை பரிசாக வென்றுள்ளார்.
+
+இந்த போட்டி மே மாதம் 7 ஆம் திகதி முதல் 9  ஆம் திகதி வரை புளோரிடாவின் செமினோல் ஹார்ட் ராக் ஹோட்டல் மற்றும் கேசினோ ஹாலிவுட்டில் நடைபெற்றது.
+
+WSO2 மென்பொருள் நிறுவனம் டிஜிட்டல் வளர்ச்சி மாற்றத்திற்கான தொழில்நுட்பத்தில் முன்னிலை வகித்து வருகின்றது.
+
+உலகில் பல நூற்றுக்கணக்கான பெரிய நிறுவனங்கள், முதன்மையான பல்கலைக்கழகங்கள் மற்றும் அரசாங்கங்கள் உட்பட பல்லாயிரக்கணக்கான நிறுவனங்கள் தங்கள் டிஜிட்டல் வளர்ச்சி மாற்றத்தை முன்னெடுத்துச் செல்வதில் WSO2 முக்கிய பங்கு வகிக்கின்றது.
+
+ஆண்டுதோறும், WSO2 வியக்கத்தக்க 60 டிரில்லியன் பரிவர்த்தனைகளைச் செய்கின்றது.  அதன் வாடிக்கையாளர்களுக்கு ஒரு பில்லியனுக்கும் அதிகமான அடையாளங்களை நிர்வகிக்கிறது.
+
+...
+
+[Data](articles/1f7d710b.json)
 
 ---
 
@@ -2137,103 +2225,5 @@ Extending an invitation to the leading lady in our lives, the hotel offers a day
 [Data](articles/af4c53fa.json)
 
 [Extended Data](ext_articles/af4c53fa.ext.json)
-
----
-
-### Dialog Axiata renews pledge to GSMA’s Connected Women Commitment Initiative
-
-*2024-05-10 03:32:00* · [`islandlk`](http://island.lk/dialog-axiata-renews-pledge-to-gsmas-connected-women-commitment-initiative/) · `en`
-
-Reaffirming its dedication to gender equality and digital empowerment, Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, renewed its pledge to the GSMA’s Connected Women  Commitment Initiative. This commitment underscores Dialog’s dedication to eradicating digital divides and empowering Sri Lankan women through enhanced access to mobile internet and mobile money services.
-
-The initiative is a response to the alarming gender gap in mobile phone ownership and usage in low- and middle-income households, which hinders women’s participation in the digital world. Dialog joined forces with the GSMA’s Connected Women Programme in 2018 with an aim to address these barriers, recognizing that empowering women with digital tools not only promotes gender equality but also opens up significant growth avenues for industries.
-
-...
-
-[Data](articles/d55e0e8c.json)
-
-[Extended Data](ext_articles/d55e0e8c.ext.json)
-
----
-
-### SEC approves Accredited Scholars for Islamic capital market product certification
-
-*2024-05-10 03:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SEC-approves-Accredited-Scholars-for-Islamic-capital-market-product-certification/108-282272) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC) yesterday announced the approval of a list of Accredited Shariah Scholars as “Supplementary Service Providers”.
-
-The six scholars are authorised to certify the Shariah compliance of Islamic Capital Market Products intended for listing on the Colombo Stock Exchange (CSE) in accordance with the Listing Rules.
-
-The SEC said it considers this as an essential step in view of products that require Shariah compatibility and to satisfy the needs of Islamic investors.
-
-“Recognising the growing demand for Shariah Compliant Debt Securities such as Sukuk, both domestically and internationally, the SEC took a proactive step by approving an enabling regulatory framework to introduce such products on the Colombo Stock Exchange,” the capital market regulator said in a statement.
-
-The accredited Shariah Scholars and compliance certification process approved by the SEC will provide credibility to the products listed on the Exchange, it added.
-
-...
-
-[Data](articles/d8a34801.json)
-
-[Extended Data](ext_articles/d8a34801.ext.json)
-
----
-
-### Telecommunication Regulatory Amendment will be presented in Parliament - Minister of Technology Kanaka Herath
-
-*2024-05-10 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183106) · `ta`
-
-The Minister of Technology Kanaka Herath announced a Telecommunication Regulatory Amendment Bill for Parliament, emphasizing the need for a National Cyber Protection Act due to a rise in social media users from 60 to 74 million. The government is also focusing on digital strategy for 2030, including infrastructure, connectivity, skills, and cybersecurity, with plans for smart classrooms and job opportunities for non-IT graduates. Additionally, a Global Investment Promotion Conference is scheduled, and 750 million rupees are allocated for tourism development.
-
-🟩
-
-The Minister of Technology Kanaka Herath said that amendment Bill to amend the Telecommunication Regulatory Act will be tabled in Parliament on Friday (10).
-
-The Minister of State also stated that the National Cyber Protection Act is scheduled to be prepared this month.
-
-Minister of Technology Kanaka Herath made this statement at a media briefing held at the Presidential Media Center today (09).
-
-Digital Strategy Plan - Cabinet approval for 2030.. First of which infrastructure facilities, connectivity and access, skills, literacy, industries and industrial, attached to the digital government. (Connected Digital Government) can also point to cyber security, data safety, uniqueness, digital financial services, digital and medium trade sectors of small and medium trade sectors.. The Global Investment Promotion Conference is scheduled to be held on June 25 in collaboration with the Ministry of Foreign Affairs and the Ministry of Investment Promotion.
-
-...
-
-[Data](articles/382f19c0.json)
-
-[Extended Data](ext_articles/382f19c0.ext.json)
-
----
-
-### Revolutionizing Sri Lanka’s HR practices, CIPM and SLSI unveil National HRM Standards
-
-*2024-05-10 03:07:00* · [`islandlk`](http://island.lk/revolutionizing-sri-lankas-hr-practices-cipm-and-slsi-unveil-national-hrm-standards/) · `en`
-
-On a momentous occasion, the Chartered Institute of Personnel Management Sri Lanka (CIPM) and the Sri Lanka Standards Institution (SLSI) unveiled the National Human Resource Management (HRM) Standards on April 30th, 2024, at the prestigious Blu Orbit by Citrus. This event, graced by esteemed Chief Guest Minister Manusha Nanayakkara, Minister of Labour and Foreign Employment, and Guest of Dr. Asanga Ranasinghe, Chairman of SLSI, alongside CIPM President Ken Vijayakumar, marked a significant milestone in the country’s HRM landscape.
-
-...
-
-[Data](articles/119e9ebe.json)
-
-[Extended Data](ext_articles/119e9ebe.ext.json)
-
----
-
-### Meeting between Japan, South Africa, Switzerland Ambassadors and National People's Power
-
-*2024-05-10 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183105) · `ta`
-
-Ambassadors from Japan, South Africa, and Switzerland met with Sri Lanka's National People's Power, discussing peace, reconciliation, and policies. The National People's Power emphasized their commitment to equality and democracy, rejecting racism in politics.
-
-🟩
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, South African High Commissioner Sandile Schalk and Switzerland Ambassador. Siri Walt on Thursday (09) afternoon. At the headquarters, the National People's Power President Anura Kumara Dissanayake met with representatives.
-
-At the meeting, Murata Shinichi, the first secretary of the Japanese embassy, Murata Shinichi, the second secretary of the South African High Commission's Office, Zanethemba Tshangela, the First Secretary of the Political Division of the Switzerland Embassy, the National Executive Member of the National Council, the National Council Member of the National Council.National Executive Council Member Ramalingam Chandrasekhar, National Executive Member Attorney Harshana Nanayakkara and Bimal Ratnayake were also present.
-
-Meanwhile, the delegation was discussed in detail on the peace and reconciliation between Sri Lanka and the policies of the national people's power and the approaches to the solution.
-
-...
-
-[Data](articles/ff6a8240.json)
-
-[Extended Data](ext_articles/ff6a8240.ext.json)
 
 ---

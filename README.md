@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 16:33:40**
+As of **2024-05-10 16:49:56**
 
 ## Newspaper Stats
 
-*Scraped **23,176** Articles*
+*Scraped **23,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 2,713
 tamilmirrorlk | 2,714
 virakesarilk | 3,444
 dailymirrorlk | 3,642
-adaderanasinhalalk | 3,713
+adaderanasinhalalk | 3,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,176 (100.0%) of 23,176 articles have been extended.
+23,176 (100.0%) of 23,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### මහ දවාලේ හෝමාගම ටවුමේ සිදුකළ රන් භාණ්ඩ කොල්ලය
+
+*2024-05-10 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196482) · `si`
+
+හෝමාගම නගරයේ පිහිටි රන් භාණ්ඩ ආයතනයක් වෙත පිස්තෝලයක් අතැතිව ආ නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් එම ආයතනයේ තිබූ මුදල් හා රන් භාණ්ඩ කොල්ලකා පළා ගොස් තිබේ.
+
+අද (10) පෙරවරු 11.45ට පමණ මෙම සිදුවීම වාර්තා වී ඇති අතර, එහිදී යතුරුපැදි දෙකකින් පැමිණි සිව්දෙනෙකු අතරින් දෙදෙනෙක් අලෙවි සැලට ඇතුළු වන අයුරු එහි තිබූ CCTV කැමරාවේ සටහන්ව තිබිණි.
+
+ඔවුන් දෙදෙනා රන් භාණ්ඩ මිලදී ගන්නා මුවාවෙන් මඳ වේලාවක් එහි රැඳී සිටින අතර, පසුව එක් අයෙක් අලෙවිසැලේ සේවකයන්ට පිස්තෝලයක් පෙන්වා රන් භාණ්ඩ හා මුදල් කොල්ලකයි.
+
+මුදලින් රුපියල් ලක්ෂ 3ක්, මුදු 36ක් හා පෙන්ඩන්ට් 48ක් කොල්ලකරුවන් රැගෙන ගොස් ඇති බව ස්වර්ණාභරණ අලෙවිසැලේ සේවකයින් පවසයි.
+
+කොල්ලකරුවන් පිටව යාමත් සමඟ අලෙවිසැලේ සේවකයෙක් හදිසි අසනීප තත්ත්වයකට ලක්වන ආකාරයත් CCTV කැමරාවේ සටහන්ව තිබිණි.
+
+කොල්ලකරුවන් රැගෙන ගිය රන් මුදු හා පෙන්ඩන්ට් මාර්ගයේ වැටී තිබියදී ඒ අසලින් ගමන් ගත් පිරිස් ඒවා යළි අලෙවිසැල වෙත ගෙනැවිත් දුන අයුරුද එම CCTV දර්ශනවල දක්නට ලැබේ.
+
+හෝමාගම පොලිසියේ නිලධාරීන් වහාම එහි පැමිණ විමර්ශන ආරම්භ කළ අතර කොල්ලකරුවන් පැමිණි යතුරුපැදිවල අංක තහඩු ව්‍යාජ බව හෙළි වී තිබේ.
+
+◼️
+
+[Data](articles/3aecd092.json)
+
+---
 
 ### Lightning wareed at a hospital
 
@@ -2211,29 +2235,5 @@ Meanwhile, the delegation was discussed in detail on the peace and reconciliatio
 [Data](articles/ff6a8240.json)
 
 [Extended Data](ext_articles/ff6a8240.ext.json)
-
----
-
-### Plantation people live in peace due to the political strength of the CWC - Maruthapandi Rameswaran is proud
-
-*2024-05-10 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183104) · `ta`
-
-The peace in plantation areas is attributed to the Ceylon Workers Congress's political strength. Maruthapandi Rameswaran, a ruling party parliamentarian, expresses hope for a better salary solution from the president. Despite existing laws, plantation workers face unique challenges. The Ministry of Labor has yet to engage with plantation companies on salary issues, despite calls for dialogue. The government acknowledges the significant economic contribution of plantation workers and is investing in infrastructure development in these areas. The Ceylon Workers Congress has been instrumental in resolving past issues, ensuring the well-being of plantation communities.
-
-🟩
-
-Plantation people live peacefully because of the political strength of the Ceylon Workers Congress. Problems cannot be solved if only the grievances are proposed. The ruling party parliamentarian Maruthapandi Rameswaran said that there is hope that the president will find a better solution to the salary issue.
-
-The Minister of Labor and Foreign Employment, Manusha Nanayakkara, addressed specific issues in the debate on the Bill of the Shop, Office Employee (Regulation of Services and Persons), which was held in Parliament on Thursday (9).
-
-No matter how many laws are found in the country, there are separate laws for plantations.. The Ministry of Labor has not visited the plantation companies that the Minister of Labor has repeatedly called for the talks on the salary issue. The Ministry of Labor and the Minister of Labor have issued a special gazette to the plantation people through a special gazette.
-
-Plantation people have a huge contribution to the economy of the country.
-
-...
-
-[Data](articles/86e16562.json)
-
-[Extended Data](ext_articles/86e16562.ext.json)
 
 ---

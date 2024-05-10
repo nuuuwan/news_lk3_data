@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 18:52:17**
+As of **2024-05-10 19:03:16**
 
 ## Newspaper Stats
 
-*Scraped **23,204** Articles*
+*Scraped **23,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
 adalk | 1,969
-adaderanalk | 2,718
+adaderanalk | 2,719
 tamilmirrorlk | 2,719
 virakesarilk | 3,450
 dailymirrorlk | 3,646
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,719
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,201 (100.0%) of 23,204 articles have been extended.
+23,201 (100.0%) of 23,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### Sri Lanka Cricket increases player fees across all formats
+
+*2024-05-10 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99137/sri-lanka-cricket-increases-player-fees-across-all-formats) · `en`
+
+Sri Lanka Cricket (SLC) announced that it has increased player fees for all categories of Sri Lanka’s international players with immediate effect.
+
+Issuing a statement, SLC stated that accordingly, 41 players will be offered new contracts under six categories, namely, A1, A2, B2, C1, C2, and ’A’ Team.
+
+Under the latest raise, match fees for the Test format have been increased by 100 percent, while payments will be made on merit basis, the SLC said.
+
+There will be different payment structures for a Test match ‘won’, ‘drawn’ or ‘lost’, it added.
+
+In the meantime, match fees for both ODI and T20I have been raised by 25 percent.
+
+Meanwhile, Sri Lanka Cricket has also decided to recognize the players who become top-ranked in the ICC Player Rankings.
+
+Accordingly, a player will be financially rewarded with a one-time payment if they become the ‘Best Batsman, Best Bowler, or Best All-Rounder’ based on ICC rankings, covering all formats.
+
+...
+
+[Data](articles/62db0325.json)
+
+---
 
 ### வெப்பமான காலநிலை குறித்து எச்சரிக்கை!
 
@@ -2285,31 +2309,5 @@ Additionally, 9.3 million different Internet-borne cyberthreats have been detect
 [Data](articles/7759a99f.json)
 
 [Extended Data](ext_articles/7759a99f.ext.json)
-
----
-
-### Video created for the Sri Lankan squad for the T20 World Cup
-
-*2024-05-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196461) · `si`
-
-Sri Lanka's T20 World Cup squad, led by Vanudu Hasaranga, was announced on 09/05, with 15 players set to depart on 14/05 for the tournament in the US and West Indies starting 01/06.
-
-🟩
-
-The Sri Lanka Cricket squad for the upcoming Twenty20 World Cup was declared yesterday (09).
-
-The squad led by Vanudu Hasaranga includes 15 players.
-
-Accordingly, the Sri Lankan squad of the 15 people who participate in the World Cup will leave the island on the 14th of May on May 14.
-
-The 20 -20 World Cup will be held from June 01 from June 01 at US and West Indies.
-
-That is how Sri Lanka cricket has announced the squad.
-
-◼️
-
-[Data](articles/54362276.json)
-
-[Extended Data](ext_articles/54362276.ext.json)
 
 ---

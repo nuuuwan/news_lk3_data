@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 14:03:43**
+As of **2024-05-10 14:18:07**
 
 ## Newspaper Stats
 
-*Scraped **23,156** Articles*
+*Scraped **23,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,64 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,965
+adalk | 1,966
 tamilmirrorlk | 2,712
 adaderanalk | 2,712
-virakesarilk | 3,439
-dailymirrorlk | 3,638
+virakesarilk | 3,444
+dailymirrorlk | 3,639
 adaderanasinhalalk | 3,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,152 (100.0%) of 23,156 articles have been extended.
+23,156 (100.0%) of 23,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### ඉන්දීය ක්‍රිකට් බලධාරීන් හදිසි තීරණයක් ගනී
+### Indian cricket authorities take immediate decision
 
 *2024-05-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196476) · `si`
 
-ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු තනතුර සඳහා එළැඹෙන 20යි 20 ලෝක කුසලාන තරගාවලියට පෙර අයදුම්පත් කැඳවීමට ඉන්දීය ක්‍රිකට් බලධාරීන් තීරණය කර තිබේ.
+Indian cricket authorities are seeking applications for the main coach ahead of the World Cup. The current coach will be replaced, with the new head coach contracted until 2027.
 
-එම කණ්ඩායමේ වර්තමාන පුහුණුකරු ලෙස කටයුතු කරන රාහුල් ඩ්‍රාවිඩ් ටද ඒ සඳහා අයදුම්කළ හැකි බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ ලේකම් ජේ ෂා පැවසීය.
+🟩
 
-නව ප්‍රධාන පුහුණුකරු ට 2027 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ තෙක් වසර තුනක කොන්ත්‍රාත්තුවක් හිමිවන බවද ෂා පැවසීය.
+Indian cricket authorities have decided to call for applications before the main coach of the Indian cricket team before the World Cup.
+
+The Indian Board of Control will be applied to the present coach of the group, the Indian Governance Board JH Shah said.
+
+The new head coach will receive a three-year contract until the 2027 World Cup will be held.
 
 ◼️
 
 [Data](articles/8a90c2fd.json)
 
+[Extended Data](ext_articles/8a90c2fd.ext.json)
+
 ---
 
-### ஒலிம்பிக் தீபத்தை  ஏந்தவுள்ள இலங்கைத் தமிழர்
+### Sri Lankan Tamils ​​who carry out the Olympic torch
 
 *2024-05-10 13:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-தீபத்தை-ஏந்தவுள்ள-இலங்கைத்-தமிழர்/175-337087) · `ta`
 
-ஒலிம்பிக் தீப்பந்தத்தின் நீண்ட அஞ்சலோட்ட சுற்றுப்பயணம் பிரான்ஸ் முழுவதும் இடம்பெற்றுவரும் நிலையில் பரிஸில் ஒலிம்பிக் தீபத்தை ஏந்தும் வாய்ப்பு ஈழத் தமிழர் ஒருவருக்கு கிடைத்துள்ளது.
+Darshan Selvarajah, a top Parisian athlete, carries the Olympic torch in France, following its long postcard tour. Notably, he also had the privilege of visiting the Elysée Palace, the French president's residence.
 
-பரிஸ் நகரில் கடந்த வருடம் சிறந்த பாண் தயாரிப்பில் முதலிடம் பெற்ற தர்ஷன் செல்வராஜா என்பவே, இத்தகைய பெருமைக்குரிய வாய்ப்பைப் பெற்றுள்ளார்.
+🟩
 
-யாழ்ப்பாணத்தைச் சேர்ந்த இவர், பிரான்ஸ் ஜனாதிபதியின் வசிப்பிடமான எலிஸே மாளிகைக்குப் பாண் விநியோகம் செய்யும் வாய்ப்பையும் பெற்றவர் என்பது குறிப்பிடத்தக்கது.S
+The long postcard tour of the Olympic Fire is taking place across France.
+
+Darshan Selvarajah, the number one in the last year's best in the city of Paris, has the opportunity.
+
+It is noteworthy that he was also a man who had the opportunity to distribute the Elisseh House, the residence of the French president.
 
 ◼️
 
 [Data](articles/dce9a775.json)
+
+[Extended Data](ext_articles/dce9a775.ext.json)
 
 ---
 
@@ -96,19 +108,57 @@ They point out that the people have to pay the electricity bills as a scarcity f
 
 ---
 
-### பெண் பொலிஸை வன்புனர முயன்ற  கான்ஸ்டபிள் கைது
+### யாழில். வீடொன்றில் கஞ்சா செடி வளர்த்தவர் கைது!
+
+*2024-05-10 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183143) · `ta`
+
+யாழ்ப்பாணம் தாவடி பகுதியில் உள்ள வீடொன்றில் கஞ்சா செடி வளர்த்த நபரொருவர் இன்றையதினம் வெள்ளிக்கிழமை  கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் குறித்த சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபரை யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/2a3134c3.json)
+
+---
+
+### Constable arrested for attempting to rape female police
 
 *2024-05-10 13:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸை-வன்புனர-முயன்ற-கான்ஸ்டபிள்-கைது/175-337086) · `ta`
 
-பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை வன்புனர முயன்ற குற்றத்தின் பேரில், பொலிஸ் கான்ஸ்டபிள் ஒருவர், மாங்குளம் பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
+A police constable was arrested by Mankulam police for attempting to rape a female colleague. The incident occurred at the Colombo Coastal Police Women's Force.
 
-மேலும், மாங்குளம் பொலிஸ் விசேட அதிரடிப்படைப் பிரிவில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கொழும்பு கரையோரப் பொலிஸாரின் மகளிர் படைமுகாமிற்கு இன்று அதிகாலை அத்துமீறி நுழைந்த குறித்த கான்ஸ்டபிள், அங்கு உறங்கிக்கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை வன்புனர முயன்றுள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+A police constable has been arrested by Mankulam police on charges of attempting to rape a female police constable.
+
+In addition, a police constable who was on duty in the Mankulam Police Special Task Force has been arrested.
+
+Investigations have revealed that the constable of the Colombo Coastal Police Women's Force in the early hours of this morning, the woman who was sleeping there was trying to rape a woman who was sleeping there.
 
 ◼️
 
 [Data](articles/b64167a9.json)
+
+[Extended Data](ext_articles/b64167a9.ext.json)
+
+---
+
+### வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட வியாபாரிகளுக்கு எதிராக வழக்குத் தாக்கல்
+
+*2024-05-10 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183142) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரி பொது சந்தையில் வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட ஐந்து , வியாபாரிகளுக்கு நீதிமன்றில் வழக்கு தொடரப்பட்டுள்ளது.
+
+சாவகச்சேரி பொது சுகாதார பரிசோதகர்கள் குழுவினால் , பொது சந்தையில் திடீர் சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது. இதன் போது பழுதடைந்த மரக்கறிகள் கைப்பற்றப்பட்டு அழிக்கப்பட்டன.
+
+அதேவேளை , வெற்றிலை மென்றவாறு வியாபாரத்தில் ஈடுபட்ட ஐந்து வியாபாரிகளுக்கு எதிராக நீதிமன்றில் வழக்கு தொடரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/42c44b12.json)
 
 ---
 
@@ -176,23 +226,87 @@ Leader of the  Opposition Sajith Premadasa, General Secretary of the SJB Ranjit
 
 ---
 
-### இன்று அட்சய திருதியை; மறந்தும் கூட இந்த தவறை செய்யாதீங்க
+### Today's Akshaya Thiruthi;Don't make this mistake even forgotten
 
 *2024-05-10 13:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அட்சய-திருதியை-மறந்தும்-கூட-இந்த-தவறை-செய்யாதீங்க/175-337085) · `ta`
 
-இந்து மதத்தில் அட்சய திருதியை மிகவும் மங்களகரமான நாளாகும். இந்த அட்சய திருதியை நாளில் என்ன செய்தாலும், என்ன வாங்கினாலும் அது பல மடங்கு பெருகும் என்பது நம்பிக்கை.
+Akshaya Thiruthi, celebrated today, May 10, is a significant Hindu day believed to multiply good deeds and purchases. It honors Lord Ganesha, Lakshmi Devi, Kubera, and Vishnu with special poojas. The day is marked by avoiding non-vegetarian food and engaging in spiritual activities, including visiting temples and donating to the poor. It's a day to focus on prosperity, wealth, and good karma, avoiding bad habits and debts.
 
-இந்த ஆண்டின் அட்சய திருதியை நாளானது மே 10 ஆம் திகதி, அதாவது இன்று கொண்டாடப்படுகிறது.
+🟩
 
-இந்நாளில் விநாயகர், லட்சுமி தேவி, குபேரர், விஷ்ணு ஆகியோருக்கு சிறப்பு பூஜைகளை செய்து மக்கள் வழிபடுவார்கள்.
+Akshaya Thiruthi is a very good day in Hinduism. It is believed that whatever you do in the day and what you buy, it will increase many times.
 
-இந்த நாளில் தான் குபேரர் சிவன் மற்றும் பிரம்மாவிடம் ஆசியை பெற்று, சொர்க்கத்தின் செல்வத்தைப் பாதுகாக்கும் பொறுப்பை பெற்றார் என்று புராணங்கள் கூறுகின்றன.
+The day of this year is celebrated on May 10, ie today.
 
-அட்சய திருதியை நாள் மிகவும் மங்களகரமான நாள். இந்நாளில் செழிப்பான வாழ்க்கையை வாழ மக்கள் லட்சுமி தேவி, குபேரர், விநாயகர், விஷ்ணு ஆகியோரை வழிபட்டு, சிறப்பு பூஜைகளை செய்து, அவர்களது ஆசியை பெற முயற்சிப்பார்கள். இந்த நாளில் அசைவ உணவுகளை உட்கொள்வதை அறவே தவிர்க்க வேண்டும். அதற்கு பதிலாக சைவ உணவுகளான காய்கறிகள், பழச்சாறுகள், பழங்கள், பால் பொருட்கள் போன்றவற்றை உட்கொள்ள வேண்டும்.
+On this day, Lord Ganesha, Lakshmi Devi, Kubera and Vishnu will perform special poojas.
+
+Legends say that this day Kubera was blessed with Lord Shiva and Brahma and took the responsibility of protecting the wealth of heaven.
+
+Akshaya Thiruthi Day is the most beautiful day. People will worship Lakshmi Devi, Kuberer, Ganesha and Vishnu to live a prosperous life on this day, perform special poojas and get their blessings.. You should avoid eating non -vegetarian food on this day. Instead of vegetable foods, vegetables, juices, fruits and dairy products.
+
+It is better to buy gold, silver and other expensive items to live a good wealthy life, as people believe that the products that buy on the day of the day will increase.. In addition, they will start the assets, new vehicles and new businesses today.
 
 ...
 
 [Data](articles/326b0a81.json)
+
+[Extended Data](ext_articles/326b0a81.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல்கள் குறித்து தேர்தல்கள்  ஆணைக்குழு அறிவிப்பை வெளியிட்டது ஏன்? ; அரசியல் வட்டாரங்கள் தெரிவிப்பது என்ன?
+
+*2024-05-10 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183144) · `ta`
+
+பொதுத்தேர்தல் ஒன்றை நடத்துவது குறித்த அரசியல் கலந்துரையாடலை  முறியடிக்கும் ஒரு நடவடிக்கையாகவே தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி தேர்தல் குறித்து நேற்று அறிவிப்பை வெளியிட்டது என அரசியல் வட்டாரங்கள் கருதுவதாக  டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+
+சர்வதேச நாணயநிதியத்தின் அடுத்த கட்ட நிதி உதவி கிடைக்காத பட்சத்தில் ஜனாதிபதி தேர்தலிற்கு முன்னர் பொதுத்தேர்தலை நடத்துவதுகுறித்து ஜனாதிபதி ஆராய்வார் என தகவல்கள் வெளியாகின்றன என டெய்லிமிரர் தெரிவித்துள்ளது.
+
+எனினும் நேற்யை அறிவிப்பில் தேர்தல்கள் ஆணையகம் ஜனாதிபதி தேர்தலை நடத்துவதற்கான சட்டவிதிகளை அறிவித்துள்ளது என சுட்டிக்காட்டியுள்ள டெய்லிமிரர் பொதுத்தேர்தல்கள் குறித்த   இரகசிய திட்டங்களை முறியடிக்கவே தேர்தல்கள் இடம்பெறவேண்டிய காலப்பகுதியை தேர்தல் ஆணைக்குழு அறிவித்துள்ளது எனவும்குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/6672acdd.json)
+
+---
+
+### Expo 2024 at BMICH
+
+*2024-05-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Expo-2024-at-BMICH/110-282320) · `en`
+
+The Build Sri Lanka Housing & Construction International Expo 2024 was launched today at the BMICH with several novel features. The exhibition will be held till Sunday (12) and will also feature many stalls of companies from several countries as it is an international exhibition. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/f615497f.json)
+
+---
+
+### හරිත මාවතෙන් පිටකරන්න ගිය ලක්ෂ 130ක මත්පැන් හා දුම්වැටි අල්ලයි
+
+*2024-05-10 12:49:05* · [`adalk`](https://www.ada.lk/breaking_news/හරිත-මාවතෙන්-පිටකරන්න-ගිය-ලක්ෂ-130ක-මත්පැන්-හා-දුම්වැටි-අල්ලයි/11-409547) · `si`
+
+නීතිවිරෝධී ලෙස මෙරටට ආනයනය කරමින් රේගුව වෙත තීරු බදු නොගෙවා , කටුනායක ගුවන් තොටුපොළෙන් කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත" ( Green Channel ) ඔස්සේ   පිට කර ගෙන යමින් තිබූ රුපියල් එක් කෝටි තිස් ලක්ෂයක් පමණ වටිනා  විදේශීය නිෂ්පාදිත විස්කි බෝතල් සහ දුම්වැටි තොගයක් සමග ඒවා රැගෙන ආ ව්‍යාපාරිකයන් තිදෙනකු ද 05/09 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් අතරින් එක් ව්‍යාපාරිකයෙකු 30 හැවිරිදි වියේ පසුවන කොළඹ - 14 ප්‍රදේශයේ පදිංචිකරුවෙකි . අනෙක් ව්‍යාපාරිකයා කොළඹ - 12 ප්‍රදේශයේ පදිංචි 38 හැවිරිදි අයෙකු වන අතර තෙවැනි ව්‍යාපාරිකයා 52 වියේ පසුවන හැටන් ප්‍රදේශයේ පදිංචිකරුවෙකි .
+
+ඔවුන් 05/09 දින පස්වරු 04.30 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි.- 281 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ රාත්‍රී 09.00 තෙක් ගුවන් තොටුපොළ තුළ රැදී සිට , ගුවන් තොටුපොළෙන් පිටවීම සදහා පැමිණ තිබුණි .
+
+...
+
+[Data](articles/b51a2f0d.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183141) · `ta`
+
+இன்று வெள்ளிக்கிழமை (மே 10) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.7297 ஆகவும் விற்பனை விலை ரூபா 303.3840 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f6bcfe3b.json)
 
 ---
 
@@ -215,6 +329,24 @@ In his meetings, he will reaffirm the United States’ support for Sri Lanka’s
 [Data](articles/692708bc.json)
 
 [Extended Data](ext_articles/692708bc.ext.json)
+
+---
+
+### மூதாட்டியிடம் கைத்தொலைபேசியை கொள்ளையிட்ட மூவருக்கு 6 மாத சிறைத்தண்டனை!
+
+*2024-05-10 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183140) · `ta`
+
+மூதாட்டி ஒருவரிடம் கைபேசியை கொள்ளையிட்ட குற்றச்சாட்டில்  கைது செய்யப்பட்ட  மூவருக்கு நீதிமன்றத்தினால்  ஆறு மாதகால சிறைத்தண்டனை விதித்ததோடு, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
+
+பருத்தித்துறை தும்பளை பகுதியில் பழைய பொருட்கள் சேகரிக்க வாகனம் ஒன்றில் சென்ற மூவர் , வீட்டில் தனித்திருந்த மூதாட்டியின் கைபேசியை கொள்ளையிட்ட குற்றச்சாட்டில் பருத்தித்துறை பொலிஸாரினால் கடந்த ஆண்டு கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களுக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு விசாரணைகள் நடைபெற்று வந்த நிலையில் , மூவரையும் மன்று குற்றவாளியாக கண்டு, மூவருக்கும் தலா 06 மாத கால சிறைத்தண்டனை விதித்து, அதனை 10 வருடங்களுக்கு ஒத்திவைத்துள்ளது.
+
+அதேவேளை பாதிக்கப்பட்ட மூதாட்டிக்கு குற்றவாளிகளான மூவரும் தலா 50 ஆயிரம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் நீதிமன்றத்தினால் உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/23f4446a.json)
 
 ---
 
@@ -2031,169 +2163,5 @@ Addressing the media for the first time following the ruling, Gamage levelled ac
 [Data](articles/a449bb0f.json)
 
 [Extended Data](ext_articles/a449bb0f.ext.json)
-
----
-
-### Let's stop weapons assistance
-
-*2024-05-10 00:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆயுத-உதவிகளை-நிறுத்துவோம்/50-337063) · `ta`
-
-US President Joe Biden warned Israel, stating that if they attack Rafa city in South Gaza, the US will halt military aid, including weapons and artillery bombs. He clarified that the US does not consider Rafa a land force.
-
-🟩
-
-US President Joe Biden has warned Israel that we will stop armed assistance if they attack the Rafa city of South Gaza.
-
-Joe Biden noted that if the Israeli army launches a ground attack inside Rafa, the country will not provide weapons and artillery bombs.
-
-He also said that the United States did not define Rafa's current state as a land force. (A)
-
-◼️
-
-[Data](articles/7175a04e.json)
-
-[Extended Data](ext_articles/7175a04e.ext.json)
-
----
-
-### Fireworks plant explosion: 10 killed
-
-*2024-05-10 00:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசு-ஆலை-வெடி-விபத்து-10-பேர்-பலி/175-337062) · `ta`
-
-An explosion at a fireworks factory near Sivakasi killed 10, including 6 women, and injured 11. The factory, where over 80 workers were present, caught fire due to friction. Rescue operations are ongoing, with one body recovered after 10 hours.
-
-🟩
-
-The body of another worker who was trapped in the wreckage has been recovered after 10 hours after the deaths of nine people, including 6 women, were killed in an explosion at the Chengamalapatti fireworks factory near Sivakasi.
-
-More than 80 workers are working at a fireworks factory in Nagpur near Sivakasi-Chengamalapatti. The fireworks factory occurred yesterday afternoon due to friction. Informed Sivakasi Fire Department was working on extinguishing the fire.
-
-7 rooms on this crash. And 7 more rooms were damaged. 9 died in the accident, including 6 women. The body of a worker was recovered from the fireworks factory 100 meters. Eleven injured have been admitted to the Virudhunagar Government Medical College Hospital for treatment at Sivakasi Government Hospital.
-
-...
-
-[Data](articles/dc09c9eb.json)
-
-[Extended Data](ext_articles/dc09c9eb.ext.json)
-
----
-
-### Fitch affirms SriLankan Airlines’ Government-Guaranteed Bonds at ‘C’
-
-*2024-05-10 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fitch-affirms-SriLankan-Airlines-Government-Guaranteed-Bonds-at-C/108-282277) · `en`
-
-Fitch Ratings yesterday announced it has affirmed the rating on SriLankan Airlines Government-Guaranteed bonds at ‘C’.
-
-The US$ 175 million government guaranteed 7 percent unsecured bonds are due 25 June 2024.
-
-The rating on the bonds is driven by the unconditional and irrevocable guarantee of the government of Sri Lanka (Long-Term Foreign-Currency Issuer Default Rating: ‘RD’).
-
-SriLankan Airlines bonds are rated at ‘C’, factoring in Fitch’s view of average to below-average recovery prospects following a default, in line with the agency’s Corporates Recovery Ratings and Instrument Ratings Criteria, and Country-Specific Treatment of Recovery Ratings Criteria.
-
-The bonds of issuers that are very close to default show little distinction between ‘RR4’ and ‘RR6’ recoveries. Therefore, Fitch has not assigned a Recovery Rating to the bond.
-
-...
-
-[Data](articles/938a49b1.json)
-
-[Extended Data](ext_articles/938a49b1.ext.json)
-
----
-
-### Hazard
-
-*2024-05-10 00:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடலில்-பவளப்பாறைகள்-அழியும்-அபாயம்/175-337061) · `ta`
-
-Dr. KK Arulanandan warns that prolonged high sea temperatures could destroy Sri Lanka's coral reefs, threatening marine life. Coral reefs require a stable 27-28°C to form, and excessive heat causes them to lose color and bleed, indicating destruction.
-
-🟩
-
-It is reported that if the current increased sea temperature lasts a month, the coral reefs around Sri Lanka will be at risk.
-
-The newly appointed Director General of the National Water Research Research Development Management (Nara), Dr. KK Arulanandan, said this to an English media.
-
-The temperature of the sea should be fluctuated at 27-28 degrees Celsius for the formation of coral reefs.
-
-He pointed out that if the current increased temperature lasts a month or more, coral reefs are expected to be destroyed.
-
-When the heat of seawater increases more than usual, corals lose their color and begin to bleed. This will help you know the destruction of coral reefs. If the coral reefs are destroyed, a large number of marine life, including fish, will be affected. ”. Remble
-
-◼️
-
-[Data](articles/e722f551.json)
-
-[Extended Data](ext_articles/e722f551.ext.json)
-
----
-
-### Sri Lanka to Purchase Power at 8.26 cents per kWh from India’s Adani Green Energy which will generate  484 MW Power  Annually from a  442 $ millon wind power project at Mannar and Pooneryn in the Island’s Northern Province
-
-*2024-05-10 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84006) · `en`
-
-Sri Lanka has agreed to purchase power at $0.0826, or 8.26 cents, per kWh from Adani Green Energy, which is executing a wind power project in Mannar and Pooneryn in the island’s Northern Province.
-
-The country’s Cabinet cleared a proposal on Monday for a 20-year power purchase agreement with Adani Green Energy for the development of wind power stations to produce 484 MW of power. “On the current exchange rate considered as 1 $ = [Sri Lankan] ₹300, the cost of energy will be ₹24.78 per kWh,” Minister of Power and Energy Kanchana Wijesekera said on social media platform ‘X’ on Tuesday. “The current average cost of energy in SL is ₹39.02 per kWh,” he added.
-
-While Sri Lanka would pay in Sri Lankan Rupees, based  on the prevailing exchange rate at the time of payment, according to the minister, details of clauses on possible revisions in rates were awaited.
-
-...
-
-[Data](articles/f6d3d992.json)
-
-[Extended Data](ext_articles/f6d3d992.ext.json)
-
----
-
-### Royal Challengers Bangalore beat Punjab Kings by 60 runs;Kohli Kohli crossed 600 runs
-
-*2024-05-10 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183099) · `ta`
-
-In the 58th match of the 17th IPL, Royal Challengers Bangalore (RCB) defeated Punjab Kings by 60 runs. Virat Kohli, with 634 runs in 12 innings, including 5 centuries, was the standout performer, crossing the 600-run mark. RCB's batting, led by Kohli's 47 (47 balls), Rajat Patidar's 55 (23 balls), and Glenn Maxwell's 92 (46 balls), reached 241/7 in 20 overs. Punjab Kings, starting poorly with opener Prabsimran Singh out for 6, could only manage 181/10 in 17 overs, with Riley Roussev's 61 (27 balls) being their top score. Mohammad Siraj and Shahbaz Ahmed took 3 wickets each for RCB, while Punjab's bowling was led by Rahul Chahar with 3 wickets.
-
-🟩
-
-Royal Challengers Bangalore won the Punjab Kings by 60 runs in the 58th match of the 17th Indian Premier League chapter held at the Dharamsala, Himachal Pradesh Cricket Association on Thursday night (09).
-
-The actions of Virat Kohli, Rajad Patidar and Kemaran Green and the bowling of the bowlers played a key role in the success of Royal Challengers Bangalore.
-
-Virat Kohli scored a total of 634 runs in 12 innings and 5 centuries. He is the only player who has scored 600 runs in this year's matches.
-
-Royal Challengers Bangalore, who was first invited to bat first, scored 241 runs for the loss of 7 wickets in 20 overs.
-
-The total number was 43 runs in the 5th over to lose the game with 9 runs and Wil Jax 12.
-
-Virat Kohli then contributed to two valuable mergers and strengthened the total number of the team.
-
-Virat Kohli shared 76 runs off 32 balls with Rajat Patidar for the third wicket and shared 92 runs off 46 balls with Kemaran Kreen in the 4th wicket.
-
-...
-
-[Data](articles/2b9ea770.json)
-
-[Extended Data](ext_articles/2b9ea770.ext.json)
-
----
-
-### The UN. Meet between resident coordinator and leader of national people's power
-
-*2024-05-10 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183098) · `ta`
-
-The UN Resident Coordinator for Sri Lanka, Mark-Andre Franche, met with National People's Power President Anura Kumara Dissanayake to discuss Sri Lanka's human rights, unity, and reconciliation. The UN team, including Patrick McCarthy and Nethmini Medawala, highlighted their observation of Sri Lanka's reconciliation process and the importance of political norms in upcoming elections. The National People's Power, emphasizing its moral political culture, pledged full cooperation with the UN's proposals.
-
-🟩
-
-United Nations Resident Coordinator for Sri Lanka Mark -Andre Franche and National People's Power President Anura Kumara Dissanayake on Thursday afternoon. Featured in the head office.
-
-The meeting was attended by the United Nations Peace and Development Advisor Patrick McCarthy, Analyst for Peace and Development, Nethmini Medawala and Comrade Vijitha Herath of the National People's Power.
-
-During the meeting, the two sides exchanged extensive comments about the situation of Sri Lanka's current human rights, unity and reconciliation process.. The United Nations representatives, in particular, pointed out that they are closely observing the reconciliation process in Sri Lanka, focused on the norms to be followed by political parties within the upcoming election process.
-
-The National People's Power, which emphasized that its political culture was based on morality from the beginning, said it would provide its full cooperation to the proposed proposals by the United Nations representatives.
-
-◼️
-
-[Data](articles/958fda9b.json)
-
-[Extended Data](ext_articles/958fda9b.ext.json)
 
 ---

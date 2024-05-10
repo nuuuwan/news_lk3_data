@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 18:10:29**
+As of **2024-05-10 18:22:29**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,194 (100.0%) of 23,196 articles have been extended.
+23,196 (100.0%) of 23,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### තවත් අවවාදාත්මක නිවේදනයක්
+### Another prosperous announcement
 
 *2024-05-10 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196486) · `si`
 
-උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology has announced warm weather for the Northern and North Central Province, Trincomalee, and Batticaloa Districts, with a 'focus' on these areas.
 
-උතුරු සහ උතුරුමැද පළාත් සහ ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්ක සඳහා මෙම නිවේදනය බලපැවැත්වේ.
+🟩
 
-ඒ අනුව ඉහත ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම 'අවධානය යොමු කළ යුතු' මට්ටමක පවතිනු ඇතැයි අපේක්ෂා කෙරේ.
+The Department of Meteorology has issued an announcement of warm weather conditions.
 
-එම නිසා ඉහත ප්‍රදේශවල ජීවත්වන විමසිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The announcement is effective for the Northern and North Central Province and Trincomalee and Batticaloa Districts.
+
+Accordingly, the warm indicator of the above areas is expected to be "focused" at a 'focus'.
+
+Therefore, the Department of Meteorology announces the vicinity of the above areas.
 
 ◼️
 
 [Data](articles/79a49fdd.json)
+
+[Extended Data](ext_articles/79a49fdd.ext.json)
 
 ---
 
@@ -113,6 +119,8 @@ The demographic challenges facing South Korea and other East Asian countries are
 ...
 
 [Data](articles/71eec6d2.json)
+
+[Extended Data](ext_articles/71eec6d2.ext.json)
 
 ---
 

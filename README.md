@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 15:33:42**
+As of **2024-05-10 15:52:22**
 
 ## Newspaper Stats
 
-*Scraped **23,172** Articles*
+*Scraped **23,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 2,713
 tamilmirrorlk | 2,714
 virakesarilk | 3,444
 dailymirrorlk | 3,641
-adaderanasinhalalk | 3,710
+adaderanasinhalalk | 3,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,171 (100.0%) of 23,172 articles have been extended.
+23,172 (100.0%) of 23,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### සබරගමු සරසවියේ අක්‍රමිකතා රැසක් කෝප් කමිටුවේ දී හෙළිවෙයි
+
+*2024-05-10 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196480) · `si`
+
+සබරගමුව විශ්වවිද්‍යාලයේ පරිපාලන දුර්වලතා සහ අක්‍රමිකතා රැසක් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේදී අනාවරණය වී තිබේ.
+
+ඒ අනුව එම අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂාකර බලා කඩිනමින් වාර්තාවක් සකස් කර ලබා දෙන ලෙස එම කමිටුව අධ්‍යාපන අමාත්‍යාංශ ලේකම්වරියට නිර්දේශ කර ඇත.
+
+එම ලබාදෙන වාර්තාවෙන් අනතුරුව මේ සම්බන්ධයෙන් විමර්ශන ආරම්භ කිරීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදෙන බව කෝප් කමිටුව මෙහිදී පෙන්වා දී තිබේ.
+
+2023 වසරේ නොවැම්බර් මස 09 දින පවත්වන ලද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව විසින් සබරගමුව විශ්වවිද්‍යාලය සම්බන්ධයෙන් නිකුත්කරන ලද නියෝග සහ නිර්දේශ ක්‍රියාත්මක කිරීමේ ප්‍රගතිය ද මෙහිදී සමාලෝචනය කර ඇති බව සඳහන් ය.
+
+මේ සම්බන්ධයෙන් පාර්ලිමේන්තු සන්නිවේදන ඒකකය නිකුත් කළ නිවේදනය පහතින් දැක්වේ.
+
+◼️
+
+[Data](articles/f1f57fb2.json)
+
+---
+
+### සුඛෝපභෝගී වාහන නඩුව ගැන අධිකරණයෙන් විශේෂ නියෝගයක්
+
+*2024-05-10 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196479) · `si`
+
+අති සුඛෝපභෝගී BMW වර්ගයේ වාහන 1,728ක් තීරුබදු රහිත බලපත්‍ර යටතේ ආනයන කිරීමේදී රුපියල් බිලියන16ක බදු මුදලක් රජයට අහිමි කිරීම සම්බන්ධයෙන් යළිත් විධිමත් පරීක්ෂණයක් සිදුකරන්නැයි අභියාචනාධිකරණය රේගු අධ්‍යක්ෂ ජනරාල්වරයාට අවසර ලබාදී තිබේ.
+
+ඒ, මෙම සිද්ධිය සම්බන්ධයෙන් චෝදනා එල්ලවන සමාගම, විමර්ශන අත්හිටුවන නියෝගයක් ඉල්ලා ගොනුකර තිබූ පෙත්සමට අදාළ නඩුව ඊයේ (09) අභියාචනාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී ය.
+
+අදාළ පෞද්ගලික සමාගම මඟින් 2011 සිට 2014  දක්වා කාලයේදී අති සුඛෝපභෝගී BMW වර්ගයේ වාහන 1,728ක් තීරු බදු රහිතව මෙරටට ආනයනය කර ඇති බව විගණකාධිපතිවරයා ඉකුත් 2016 වසරේදී අනාවරණ කර තිබිණි.
+
+එහිදී හෙළිවුණේ, මෙම වාහන ආනයනයේදී රජයට රුපියල් බිලියන16ක පමණ බදු මුදලක් අහිමි වී ඇති බවය.
+
+ඒ අනුව ශ්‍රී ලංකා රේගුව විමර්ශනයක් සිදුකර එක් වාහනයකට රුපියල් ලක්ෂයක් බැගින් වූ දඩ මුදලක් අයකර ගැනීමට පියවර ගෙන තිබිණි.
+
+අනතුරුව ශ්‍රී ලංකා රේගුව සිදුකළ ඉල්ලීම මත ජර්මානු රේගු බලධාරීන්ගෙන් ප්‍රශ්නගත වාහන ආනයනයට අදාළ වාර්තාවක් කැඳවා එය පදනම් කරගෙන නැවතත් විමර්ශනයක් ආරම්භ කිරීමට පියවර ගත්තේය.
+
+...
+
+[Data](articles/382f1ad5.json)
+
+---
 
 ### One person killed in Badulla accident
 
@@ -54,23 +96,29 @@ According to hospital sources, a woman and three men were injured and admitted t
 
 ---
 
-### අද හවසට පළාත් කිහිපයකට මි. මී 100 ඉක්මවූ වැසි
+### A few provinces this evening. Showers over 100 mees
 
 *2024-05-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196478) · `si`
 
-අද (10) සවස 2න් පසුව දිවයිනේ බොහෝ පළාත්වලට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+Heavy showers expected in Western, Sabaragamuwa, North Western, Uva, and Puttalam districts tonight, with up to 100mm rainfall.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ක පමණ තද වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර සහ දකුණු පළාත්වලත් පුත්තලම, මන්නාරම, කිලිනොච්චිය සහ යාපනය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී තැනින් තැන වැසි ඇති වේ.
+Showers or thundershowers will occur in many parts of the island today (10) evening.
 
-මේ අතර අද රාත්‍රී 11.30 වන තුරු වලංගු වන පරිදි ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorological Department announced heavy showers in the Western, Sabaragamuwa, North Western and Uva provinces and around 100 mm.
 
-ඒ අනුව බස්නාහිර, සබරගමුව, දකුණ, නැගෙනහිර, ඌව සහ උතුරු මැද පළාත්වල සහ මාතලේ, මුලතිව් සහ කුරුණෑගල දිස්ත්‍රික්කවල සවස් කාලයේ දී රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වේ.
+Showers will occur at the Western and Southern provinces, Puttalam, Mannar, Kilinochchi and Jaffna districts.
+
+Meanwhile, the Department of Meteorology has issued an inspired statement to be valid until 11.30 pm today.
+
+At the evening of the Western, Sabaragamuwa, Southern, Uva, Uva and North and North Central provinces and thundershowers will occur at night.
 
 ◼️
 
 [Data](articles/fa6cdffb.json)
+
+[Extended Data](ext_articles/fa6cdffb.ext.json)
 
 ---
 
@@ -2173,63 +2221,5 @@ Two persons, aged 32 and 44, from Aluthkedera, Belgatna and Pallegama Padiyathal
 [Data](articles/b5d45b9f.json)
 
 [Extended Data](ext_articles/b5d45b9f.ext.json)
-
----
-
-### Plantation workers' salary increase -Harini Amarasuriya
-
-*2024-05-10 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183101) · `ta`
-
-Harini Amarasuriya criticizes the government's plan to increase plantation workers' daily wage to 1700 rupees, arguing it's a deceptive move. She suggests changing the basic salary instead. The government's gazette notification, she claims, is a ploy to mislead workers, as plantation companies are likely to challenge it. She also criticizes an amendment aimed at protecting night-shift women workers, arguing it fails to address their real issues like transport facilities.
-
-🟩
-
-Gazette Notification on Plantation Workers' Salary Increase Action. National People's Power Member Harini Amarasuriya said the government should change their basic salary if they need to carry out a salary increase.
-
-He said this while addressing the debate on the Parliament on Thursday (9).
-
-The government has issued a gazette notification to increase the daily salary of plantation workers to 1700 rupees. This is the play that deceives workers. If the government is increasing the salaries of plantation workers, they must change their basic salary and thereby convert the base salary to 1700 rupees.
-
-On the contrary. Salary Increase is a play -labeled play by the president on May 1st. Everyone, including the President and the Minister of Labor, know that plantation companies go to court against the gazette notification. They know that this cannot be implemented.
-
-So the salary increase for plantation workers is a gazette notification to mislead the plantation workers and deceive them.
-
-...
-
-[Data](articles/8ba60342.json)
-
-[Extended Data](ext_articles/8ba60342.ext.json)
-
----
-
-### Srilankan Airlines: What is the new situation in privatization?
-
-*2024-05-10 02:06:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py1j7x8yjo) · `si`
-
-The Sri Lankan government is considering privatizing SriLankan Airlines to address financial losses. Six companies have expressed interest, and the decision is pending. The airline has faced delays due to insufficient aircraft and staffing issues. Despite a reduction in losses, the airline's financial sustainability remains a concern. Professor Wasantha Athukorala suggests privatization could benefit the economy by redirecting taxes from losses to profits. The Independence Employees Union opposes privatization under certain conditions, highlighting the airline's role in national service.
-
-🟩
-
-Srilankan Airlines: What is the new situation in privatization?
-
-The Government of Sri Lanka has been expressing years for the transfer of the party due to loss of losses.
-
-SriLankan Airlines: 'In love with Sri Lanka, but the airline has destroyed the experience
-
-From 1998 to 2008, the airline was implemented under Emirates Airlines.
-
-The SriLankan Airlines again has submitted the 'SRU' (SRU) to retire to "create sustainable enterprises to state finances" (SRU).
-
-The period was given to the purchase of SriLankan Airlines.
-
-Bids have been introduced in six parties to purchase SriLankan Airlines.
-
-Secretary to the Ministry of Ports, Shipping and Aviation, KDS, said that these companies have been submitted by these companies are being evaluated.. Ruwanpathirana told BBC Sinhala.
-
-...
-
-[Data](articles/e84f071b.json)
-
-[Extended Data](ext_articles/e84f071b.ext.json)
 
 ---

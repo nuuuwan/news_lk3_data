@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 00:50:41**
+As of **2024-05-11 01:03:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,242 (100.0%) of 23,250 articles have been extended.
+23,250 (100.0%) of 23,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,6 +194,8 @@ Build Sri Lanka 2024 showcases the latest developments in the building and const
 
 [Data](articles/68030906.json)
 
+[Extended Data](ext_articles/68030906.ext.json)
+
 ---
 
 ### Rani Sandalwood tributes loyal consumers with gold sovereigns
@@ -209,6 +211,8 @@ The promotion gets underway from May 2024 to 30 June and winners will be chosen 
 ...
 
 [Data](articles/7960dcca.json)
+
+[Extended Data](ext_articles/7960dcca.ext.json)
 
 ---
 
@@ -228,6 +232,8 @@ Customers can now access expert help with just a simple phone call, eliminating 
 
 [Data](articles/993602e6.json)
 
+[Extended Data](ext_articles/993602e6.ext.json)
+
 ---
 
 ### Deplorable debt: Is Sri Lanka caught between IMF and IIF?
@@ -242,6 +248,8 @@ Sri Lanka is battling with the current crisis because of irresponsible borrowing
 
 [Data](articles/75bbbde7.json)
 
+[Extended Data](ext_articles/75bbbde7.ext.json)
+
 ---
 
 ### ‘Keeping humanity alive’: World Red Cross and Red Crescent Day 2024
@@ -253,6 +261,8 @@ World Red Cross and Red Crescent Day marked on 8 May is of significance and refl
 ...
 
 [Data](articles/daba45fe.json)
+
+[Extended Data](ext_articles/daba45fe.ext.json)
 
 ---
 
@@ -267,6 +277,8 @@ He met Eastern Province Governor Senthil Thondaman and interacted with several M
 ...
 
 [Data](articles/31c3bc79.json)
+
+[Extended Data](ext_articles/31c3bc79.ext.json)
 
 ---
 
@@ -284,6 +296,8 @@ In February 2023, Sri Lanka adopted its first NAP on WPS, in keeping with its in
 
 [Data](articles/d1299861.json)
 
+[Extended Data](ext_articles/d1299861.ext.json)
+
 ---
 
 ### Artificial Limb Camp by India
@@ -297,6 +311,8 @@ The camp will be conducted roughly over a period of two months at two locations 
 ...
 
 [Data](articles/c0e8746d.json)
+
+[Extended Data](ext_articles/c0e8746d.ext.json)
 
 ---
 

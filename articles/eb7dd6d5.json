@@ -1,0 +1,25 @@
+{
+  "newspaper_id": "economynextcom",
+  "url": "https://economynext.com/sri-lanka-central-bank-in-push-to-tighten-sim-re-issue-over-mobile-banking-scam-162467/",
+  "time_ut": 1715311980.0,
+  "original_lang": "en",
+  "original_title": "Sri Lanka Central Bank in push to tighten SIM re-issue over mobile banking scam",
+  "original_body_lines": [
+    "ECONOMYNEXT \u2013 Sri Lanka\u2019s central bank is in discussions with the telecom regulator to tighten the re-issue of mobile subscriber identification modules (SIMs) as part of efforts to stop mobile phone banking fraud, Director of Payments and Settlements K V K Alwis.",
+    "The central bank together with banks are tightening security on an ongoing basis as hackers and other fraudsters develop new ways to defraud customers.",
+    "One such method is to re-issue a mobile sim of a mobile phone banking customer whose account number and telephone number is known to the fraudster by persuading a mobile phone agent to re-issue a sim claiming it has been lost without submitting an identity card in person.",
+    "In late evening a new chip is activated and the fraudster logs on to the account, issues a new password through a one time password (OTP) sent to the newly issued SIM and takes all the money out.",
+    "The central bank is in discussions with the telecom regulator to get all operators to tighten the re-issue of sims, so that they cannot be issued to a person who is not the actual owner, Alwis told EconomyNext.",
+    "Though existing rules also require the ID of the person to be produced, it happens without in the case of some operators due to lax phone agents who have been given authority to issue SIMs.",
+    "Financial sources say when such events happen in the late night \u2013 where the re-activation appears to be timed to when the customer is sleeping and is unlikely find out that it has been de-activated \u2013 there could be collusion between the SIM issuing agent and the fraudster.",
+    "Some banks use internet banking apps where password cannot be changed with just an OTP.",
+    "\u201cInternet banking ask ask you multiple challenge questions cannot be broken in this way,\u201d a banker said.",
+    "There are multiple ways that fraudsters operate which involving duping customers to reveal the OTP, officials say.",
+    "\u201cWe repeatedly warn customers not to reveal OTPs or account numbers to unknown persons,\u201d Alwis said.",
+    "One scam is to trick members of the public who make public their account and phone numbers asking for help into revealing their OTP, Alwis said.",
+    "Related Sri Lanka mobile banking users warned of phone hi-jacking scam",
+    "The central bank has also issued a direction effective April for transaction connected to the JustPay app.",
+    "\u201cFor all JustPay transactions, mobile payment application initiating the transaction shall request a One-Time Password (OTP) from the Issuer of the account that has been linked to the mobile payment application via JustPay, if the transaction amount equals or exceeds Rs. 10,000/=. Issuer in this instance shall refer to any institution that maintains the account of the customer, from which the debit is made,\u201d the direction reads.",
+    "In January a series of directions were also issued to make internet and mobile phone banking safer."
+  ]
+}

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 22:51:31**
+As of **2024-05-10 23:03:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,224 (100.0%) of 23,227 articles have been extended.
+23,227 (100.0%) of 23,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The resolution “determines that the State of Palestine ... should therefore be
 ...
 
 [Data](articles/baa73292.json)
+
+[Extended Data](ext_articles/baa73292.ext.json)
 
 ---
 
@@ -99,6 +101,8 @@ The United Youth Artistes' Forum emphasized the importance of maintaining the st
 ◼️
 
 [Data](articles/4bca174f.json)
+
+[Extended Data](ext_articles/4bca174f.ext.json)
 
 ---
 
@@ -1028,23 +1032,31 @@ The US ambassador Juli Sung, who has posted a record on its official X site, sai
 
 ---
 
-### ராஜபக்ஷர்களின் ஒத்துழைப்பு இல்லாமல் எவருக்கும் ஆட்சியமைக்க முடியாது - ஜோன்ஸ்டன்
+### No one can rule without the cooperation of the Rajapaksas - Johnston
 
 *2024-05-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183168) · `ta`
 
-அறிவார்ந்தவர்கள் மக்கள் விடுதலை முன்னணிக்கு வாக்களிக்களிக்க மாட்டார்கள். மக்கள் விடுதலை முன்னணியின் உண்மை முகம் தற்போது அவர்களின் பேச்சிலேயே வெளிப்படுகிறது.
+Johnston Fernando asserts that ruling without Rajapaksa cooperation is impossible. He criticizes the People's Liberation Front for its violent political culture, contrasting it with the Sri Lanka Peoples Alliance's democratic approach. The PA, despite perceived weakening, remains influential, with Mahinda Rajapaksa as a key figure.
 
-ராஜபக்ஷர்களின் ஒத்துழைப்பு இல்லாமல் எவருக்கும் ஆட்சியமைக்க முடியாது  என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
+🟩
 
-பத்தரமுல்ல  பகுதியில்  உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் வெள்ளிக்கிழமை (10) இடம்பெற்ற தேர்தல் நடவடிக்கைகள் கண்காணிப்பு காரியாலய திறப்பு நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Intellectuals will not vote for the People's Liberation Front. The true face of the Janatha Vimukthi Peramuna (JVP) is now expressed in their speech.
 
-ஜனாதிபதி தேர்தலுக்கான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.எமது வேட்பாளர் யார் என்பதை கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ நாட்டு மக்களுக்கு பகிரங்கப்படுத்துவார். சிறந்த வேட்பாளரை களமிறக்குவோம் என்ற உறுதியை நாட்டு மக்களுக்கு வழங்க முடியும்.
+Johnston Fernando, a MP of PA, said that no one could rule without the cooperation of the Rajapaksa.
 
-மக்கள் விடுதலை முன்னணியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தேர்தலுக்கான அறிவிப்பு விடுக்கப்படுவதற்கு முன்னரே ஜனாதிபதி வேட்பாளர் யார் என்பதை அவர்கள் அறிவித்து விட்டார்கள்.
+He was speaking to the media after attending the opening of the election activities at the Sri Lanka Peoples Alliance (PA) head office in Battaramulla on Friday (10).
+
+The party leader Mahinda Rajapaksa will publicize the people of the country who is our candidate.. The people can give the people the determination to field the best candidate.
+
+They have announced who the presidential candidate is before the announcement of the election of the Janatha Vimukthi Peramuna (JVP) presidential candidate Anura Kumara Dissanayake.
+
+Leave the forecasts alone cannot win elections. Intellectuals do not vote for the People's Liberation Front.
 
 ...
 
 [Data](articles/c6e65e66.json)
+
+[Extended Data](ext_articles/c6e65e66.ext.json)
 
 ---
 

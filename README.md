@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 20:33:46**
+As of **2024-05-10 20:51:57**
 
 ## Newspaper Stats
 
-*Scraped **23,210** Articles*
+*Scraped **23,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,334
 dailyftlk | 1,343
-adalk | 1,970
+adalk | 1,971
 adaderanalk | 2,719
 tamilmirrorlk | 2,720
 virakesarilk | 3,450
 dailymirrorlk | 3,647
-adaderanasinhalalk | 3,721
+adaderanasinhalalk | 3,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,210 (100.0%) of 23,210 articles have been extended.
+23,210 (100.0%) of 23,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
+
+### සජබ යේ බලය ගන්නවා - සේනක ද සිල්වා
+
+*2024-05-10 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196490) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියගේ ස්වාමි පුරුෂයා වන, අපේ ජාතික පෙරමුණේ හිටපු සභාපති සේනක ද සිල්වා මහතා අද (10) කොළඹ දී ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+
+එහිදි ඔහු පැවසුවේ සමගි ජන බලවේගය පක්ෂයේ බලය ඔවුන් ලබා ගන්නා බවයි.
+
+කිසිදුවිටක දී සමගි ජන බලවේග පක්ෂයේ ලකුණින් සජිත් ප්‍රේමදාස ට මැතිවරණයට ඉදිරිපත් වීමට ඉඩ නොදෙන බවත් ඒ සඳහා අවශ්‍ය නීතිමය කටයුතු ඉදිරියේ දී සිදුකරන බවත් ඒ මහතා පැවසීය.
+
+"මේ පක්ෂයේ නායකයා හැටියට මම හිටියා. මම කිව්වා මම ඉල්ලා අස්වෙන්නම් කියලා. මම ඔබට නායකත්වය දෙන්නම් කියලා සජිත්ට කිව්වා. සභාපති ලෙස මම අත්සන් කරලා තියෙනවා. ලේකම් හැටියට ඩයනා මහත්මිය අත්සන් කරලා තියෙනවා. ඊට යටින් තමා සජිත් ප්‍රේමදාසයි, රංජිත් මද්දුමබණ්ඩාරයි අත්සන් කරලා තියෙන්නේ. අපි ලොකු කැප කිරීමක් කළා."
+
+"ලොකු ගණන්වල‌ට මිලියන 100ට 200ට පක්ෂ විකිණෙන්නේ. අපි එහෙම විකිණුන අය නෙමෙයි."
+
+...
+
+[Data](articles/957eb772.json)
+
+---
 
 ### Earthquake in Taiwan
 
@@ -75,6 +95,20 @@ The Colombo District Court is contradicted to law and requested Maithripala Siri
 [Data](articles/9a605307.json)
 
 [Extended Data](ext_articles/9a605307.ext.json)
+
+---
+
+### අතුරු නියෝගය නිෂ්ප්‍රභ කරන ලෙස මෛත්‍රිපාල ඉල්ලයි
+
+*2024-05-10 19:07:36* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-නියෝගය-නිෂ්ප්‍රභ-කරන-ලෙස-මෛත්‍රිපාල-ඉල්ලයි/11-409551) · `si`
+
+හිටපු ජනපති මෛත්‍රිපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයේ කටයුතු කිරීම තහනම් කරමින් කොළඹ දිසා අධිකරණය  පසුගිය 24 වැනි දින  නිකුත් කළ අතුරු නියෝගය නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා මෛත්‍රිපාල සිරිසේන මහතා විසින් අභියාචන පෙත්සමක්  සිවිල් අභියාචන මහාධිකරණය හමුවේ අද (10) ගොනු කළේය.
+
+නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය මගින් පැවරු මෙම අභියාචන පෙත්සමේ විත්තිකාර වග උත්තරකරු ලෙස මොන්ටිගෝ සරච්චන්ද්‍ර මහතා නම් කර ඇත.
+
+◼️
+
+[Data](articles/a6928564.json)
 
 ---
 
@@ -2283,55 +2317,5 @@ In the late evening a new chip is activated and the fraudster logs on to the acc
 [Data](articles/eb7dd6d5.json)
 
 [Extended Data](ext_articles/eb7dd6d5.ext.json)
-
----
-
-### Complaints regarding the malpractices of the GCE Ordinary Level Examination
-
-*2024-05-10 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196464) · `si`
-
-Complaints about GCE Ordinary Level Exam malpractices include candidates using mobile phones to take photos of English question papers. Commissioner General Amit Jayasundara has reported these incidents to the CID, involving two exam centers and a Hasalaka area.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara says that a complaint has been lodged with the CID today (10) regarding the academic certificates of the GCE Ordinary Level Examination.
-
-These irregularities have occurred at a cost center of two examination centers and a Hasalaka area.
-
-Examination candidates have used the English question paper that was provided with mobile phones and took photos to other parties.
-
-The Department of Examinations said that the officers of the examination centers were taken into customers at the time.
-
-The Commissioner General of Examinations Amitt Jayasundara said that he had lodged a complaint with the police stations in the examination centers.
-
-◼️
-
-[Data](articles/b9ecbfe0.json)
-
-[Extended Data](ext_articles/b9ecbfe0.ext.json)
-
----
-
-### Weather
-
-*2024-05-10 08:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-ஏற்பட்ட-திடீர்-மாற்றம்/175-337067) · `ta`
-
-Heavy rain and thunderstorms are expected after 2 PM across many provinces, with the North Central, Central, Sabaragamuwa, Eastern, Uva provinces, and Mullaitivu district facing heavy rainfall. Morning rain is also forecasted in the Western and Southern Provinces and Puttalam district. Thundershowers may affect upcoming areas, and the public is advised to be cautious to minimize lightning impacts.
-
-🟩
-
-In most of the provinces of the country,. After 2.00 pm, there is a possibility of rain or thunderstorms.
-
-Heavy rainfall is expected in some places in the North Central, Central, Sabaragamuwa, Eastern and Uva provinces and Mullaitivu district.
-
-Rainfall is expected in the morning and in many places in the Western and Southern Provinces and Puttalam district.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/e44a055f.json)
-
-[Extended Data](ext_articles/e44a055f.ext.json)
 
 ---

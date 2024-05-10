@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 12:18:09**
+As of **2024-05-10 12:33:46**
 
 ## Newspaper Stats
 
-*Scraped **23,131** Articles*
+*Scraped **23,132** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
-dbsjeyarajcom | 240
 bbccomsinhala | 241
+dbsjeyarajcom | 241
 newsfirstlk | 363
 islandlk | 1,253
 economynextcom | 1,330
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,131 (100.0%) of 23,131 articles have been extended.
+23,131 (100.0%) of 23,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1378,6 +1378,22 @@ Secretary to the Ministry of Ports, Shipping and Aviation, KDS, said that these 
 
 ---
 
+### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
+
+*2024-05-10 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
+
+May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
+
+May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
+
+...
+
+[Data](articles/5fbb9b96.json)
+
+[Extended Data](ext_articles/5fbb9b96.ext.json)
+
+---
+
 ### In the congregation today by the Telecommunication Regulatory Act
 
 *2024-05-10 01:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைத்தொடர்பு-ஒழுங்குபடுத்தல்-சட்ட-மூலம்-இன்று-சபையில்/175-337066) · `ta`
@@ -1611,6 +1627,22 @@ When the heat of seawater increases more than usual, corals lose their color and
 [Data](articles/e722f551.json)
 
 [Extended Data](ext_articles/e722f551.ext.json)
+
+---
+
+### Sri Lanka to Purchase Power at 8.26 cents per kWh from India’s Adani Green Energy which will generate  484 MW Power  Annually from a  442 $ millon wind power project at Mannar and Pooneryn in the Island’s Northern Province
+
+*2024-05-10 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84006) · `en`
+
+Sri Lanka has agreed to purchase power at $0.0826, or 8.26 cents, per kWh from Adani Green Energy, which is executing a wind power project in Mannar and Pooneryn in the island’s Northern Province.
+
+The country’s Cabinet cleared a proposal on Monday for a 20-year power purchase agreement with Adani Green Energy for the development of wind power stations to produce 484 MW of power. “On the current exchange rate considered as 1 $ = [Sri Lankan] ₹300, the cost of energy will be ₹24.78 per kWh,” Minister of Power and Energy Kanchana Wijesekera said on social media platform ‘X’ on Tuesday. “The current average cost of energy in SL is ₹39.02 per kWh,” he added.
+
+While Sri Lanka would pay in Sri Lankan Rupees, based  on the prevailing exchange rate at the time of payment, according to the minister, details of clauses on possible revisions in rates were awaited.
+
+...
+
+[Data](articles/f6d3d992.json)
 
 ---
 
@@ -2187,45 +2219,5 @@ However, Bhanuka Rajapakse has nominated as an additional player. Vijayakantha V
 [Data](articles/a0eb8439.json)
 
 [Extended Data](ext_articles/a0eb8439.ext.json)
-
----
-
-### Mujibur Rahuman gazetted as MP
-
-*2024-05-09 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-Rahuman-gazetted-as-MP/108-282261) · `en`
-
-Colombo, May 09 - The Samagi Jana Balavegaya has nominated Mujibur Rahuman to fill the void left in Parliament following the disqualification of Diana Gamage as a Member of Parliament.
-
-This nomination was formalized through a gazette notification, marking Rahuman's ascent to the parliamentary seat.
-
-◼️
-
-[Data](articles/fbc9d9d7.json)
-
-[Extended Data](ext_articles/fbc9d9d7.ext.json)
-
----
-
-### I'll come back to politics again!- Diana Kamage
-
-*2024-05-09 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183094) · `ta`
-
-Diana Kamage, ousted from her state minister post, faces legal hurdles but remains committed to politics, vowing to return to parliament and support the president.
-
-🟩
-
-Diana Kamage, who lost his post, called for a special media conference on Thursday (09).
-
-The Supreme Court on Wednesday (08) ruled that Diana Kamage, who served as the Minister of State, had no legal qualification in the country's parliament.
-
-Meanwhile, the Colombo Magistrate's Court on Thursday issued an injunction order to go abroad for former Minister of State Diana Kamage.
-
-“My political journey will not stand with this. This parliament will be dissolved within a long time. I will definitely come to politics in the future. I will always support the president. I will come back to parliament. ”
-
-◼️
-
-[Data](articles/f6ae6eda.json)
-
-[Extended Data](ext_articles/f6ae6eda.ext.json)
 
 ---

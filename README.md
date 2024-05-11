@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 21:34:03**
+As of **2024-05-11 21:52:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,367 (100.0%) of 23,369 articles have been extended.
+23,369 (100.0%) of 23,369 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ Votes will be counted on June 4 and results are expected to be announced the sam
 
 [Data](articles/914d3e7b.json)
 
+[Extended Data](ext_articles/914d3e7b.ext.json)
+
 ---
 
-### ඔලිම්පික් ඉතිහාසය අලුත් කළ ශ්‍රී ලාංකිකයා
+### Sri Lankan who renewed the Olympic History
 
 *2024-05-11 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196522) · `si`
 
-ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් උළෙලේ ගිනිසිළුව රැගෙනයාමට ශ්‍රී ලංකාවේ උපත ලැබූ ප්‍රංශයේ සම්මානනීය බේකරි නිෂ්පාදකයෙකු වන තර්ශන් සෙල්වරාජ් ට අවස්ථාව උදාවී තිබේ.
+Targon Selvaraj, a Sri Lankan-born bakery manufacturer in France, made history by carrying the Olympic flame in Paris, the first of Sri Lankan origin to do so. His company, renowned for producing traditional French bread, gained popularity in 2023, leading to this prestigious honor.
 
-මෙවර ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් උළෙලේ ගිනිසිළුව පැරිස් නුවර වෙත රැගෙන ආ අතර ඊට පුද්ගලයින් 10,000ක් සම්බන්ධ කර ගැනුණි.
+🟩
 
-ගිනිසිළුව රැගෙනයාමට ශ්‍රී ලංකාවේ උපත ලැබූ සම්මානනීය බේකරි නිෂ්පාදකයෙකු වන තර්ශන් සෙල්වරාජ් මහතාට අවස්ථාව උදාවී ඇති අතර, ඔහු ඉතිහාසගත වන්නේ ඔලිම්පික් ගිනිසිළුව රැගෙන යන ශ්‍රී ලාංකික සම්භවයක් සහිත පළමු පුද්ගලයා ලෙසය.
+The France's award bakery manufacturer, born in Sri Lanka, has enabled the Targon Selvaraj, who was born in Sri Lanka to carry the flame in the Olympic Games in France.
 
-2023 වසරේදී ඔහු ජනප්‍රියත්වයට පත් වූයේ ප්‍රංශයේ වාර්ෂිකව පවත්වන සාම්ප්‍රදායික බැගෙට් පාන් වර්ගය නිෂ්පාදනය කරන ප්‍රංශයේ හොඳම බේකරි නිෂ්පාදකයාට හිමි සම්මානය දිනා ගැනීමත් සමගය.
+The flame of the Olympic Games in France was brought to Paris, which contacted 10,000 people.
 
-තර්ශන් ලද එම ජයග්‍රහණත් සමග ඔහුට මෙවර ඔලිම්පික් ගිනිසිළුව රැගෙන යාමේ අවස්ථාව හිමිවී තිබුණි.
+Tarshan Selvaraj, who was born in Sri Lanka to carry the flame, is his historical, as the first person with the Sri Lankan origin carrying the Olympic flame.
+
+In 2023, he became popular with the best bakery manufacturer of French, which produces the annual traditional bread type of french in France.
+
+With that accomplishments, he had the opportunity to carry the Olympic flame this time.
 
 ◼️
 
 [Data](articles/2a3ab574.json)
+
+[Extended Data](ext_articles/2a3ab574.ext.json)
 
 ---
 

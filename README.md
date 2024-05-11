@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 20:33:44**
+As of **2024-05-11 20:51:19**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,365 (100.0%) of 23,366 articles have been extended.
+23,366 (100.0%) of 23,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### රුසියා - යුක්‍රේන යුද්ධය මැද තවත් ශ්‍රී ලාංකිකයන් පිරිසක් මිය ගිහින්
+### Russia - Another group of Sri Lankans have died in the middle of the war Ukrainian war
 
 *2024-05-11 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196520) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධයේ කුලී හමුදාවන්ට එක්වී සිටි ශ්‍රී ලාංකිකයින් 17 දෙනෙකු මියගොස් ඇති බවට තොරතුරු වාර්තා වී තිබේ.
+In the ongoing Russian-Ukrainian war, 17 Sri Lankans have tragically lost their lives. The Criminal Investigation Department (CID) is investigating cases of trade and racketeering. Two retired soldiers, Asanka Chandana and Pradeep Chandana, were in Russia but have not been heard from since March 29.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තැනැත්තන් වෙළෙඳාම, ජාවාරම් විමර්ශන සහ සමුද්‍රීය අපරාධ කොට්ඨාසය ඒ බව පවසයි.
+🟩
 
-මේ අතර රුසියාවට ගිය තවත් විශ්‍රාමික සෙබළුන් දෙදෙනකු අතුරුදන්වී ඇති බවට අද (11) වාර්තා විය.
+It has been reported that 17 Sri Lankans have been killed in the Russian - Ukrainian war.
 
-ඥාතීන් පවසන්නේ, මාර්තු 29 වනදා සිට ඔවුන්ගෙන් කිසිදු තොරතුරක් වාර්තා නොවූ බවය.
+The Criminal Investigation Department (CID) persons trade, racket investigations and Marine Crimes Division states that.
 
-විශ්‍රාමික ගුවන් හමුදා නිලධාරියෙකු වූ පදවිය ප්‍රදේශයේ පදිංචි අසංක චන්දන මහතාද පසුගිය පෙබරවාරි මස 12 වනදා රුසියාව වෙනුවෙන් යුද වැදීම සඳහා රුසියාවට ගොස් තිබුණි.
+Meanwhile, two other retired soldiers who went to Russia were reported today (11).
 
-‍ඔහු සිය නිවැසියන්ට අවසන් දුරකථන ඇමතුම ලබාදී තිබුණේ පසුගිය  මාර්තු මස 29 වනදාය.
+Relatives say that no information has been reported from March 29.
 
-එදින සිට මේ දක්වා ඔහු පිළිබඳව කිසිඳු තොරතුරක් වාර්තා වී නොමැත.
+Asanka Chandana, a retired Air Force officer, was also present in Russia to warst Russia on February 12.
 
-මේ අතර මැදවච්චිය වහමල්ගොල්ලෑව ප්‍රදේශයේ පදිංචි විශ්‍රාමික කොමාන්ඩෝ නිලධාරියෙකු වන ප්‍රදීප් චන්දන මහතාද පෙබරවාරි මස 12 වනදා රුසියාව බලා පිටත්ව ගොස් තිබෙන අතර ඔහුද සිය අවසන් ඇමතුම නිවසට ලබාදී ඇත්තේ මාර්තු මස 29 වැනිදාය.
+He had given his residents lasting telephone call on 29th March.
+
+No information about him has been reported from that day from that day.
+
+Meanwhile, a retired Commando officer, Pradeep Chandana, a retired commando officer, has left for Russia on February 12, a resident of Wahamalgolgolgollewa area.
 
 ◼️
 
 [Data](articles/88d24a00.json)
+
+[Extended Data](ext_articles/88d24a00.ext.json)
 
 ---
 

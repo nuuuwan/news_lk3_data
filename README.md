@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 10:03:49**
+As of **2024-05-11 10:18:20**
 
 ## Newspaper Stats
 
-*Scraped **23,295** Articles*
+*Scraped **23,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
-adaderanalk | 2,724
+adaderanalk | 2,725
 tamilmirrorlk | 2,727
 virakesarilk | 3,466
-dailymirrorlk | 3,661
+dailymirrorlk | 3,665
 adaderanasinhalalk | 3,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,291 (100.0%) of 23,295 articles have been extended.
+23,295 (100.0%) of 23,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Decision to be reached on interest rates for senior citizens’ savings
+
+*2024-05-11 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99142/decision-to-be-reached-on-interest-rates-for-senior-citizens-savings) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that President Ranil Wickremesinghe has directed him to conduct a comprehensive analysis of interest rates applicable to the savings of senior citizens.
+
+Siyambalapitiya claimed that around Rs. 80 billion rupees is required annually for senior citizens’ savings, with an outstanding debt of Rs. 105 billion to be repaid from the treasury for previous allocations.
+
+The Finance State Minister also emphasized President Wickremesinghe’s dedicated and sensitive approach to addressing this issue, affirming that all requests regarding interest rates for various age groups will be thoroughly analysed.
+
+Furthermore, he assured that a detailed report will be provided to the President, taking into account the current cash flows within the country.
+
+◼️
+
+[Data](articles/ff3d8a04.json)
+
+---
+
+### Japan bread recalled after rat parts found inside packs
+
+*2024-05-11 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-bread-recalled-after-rat-parts-found-inside-packs/108-282387) · `en`
+
+More than 100,000 packets of sliced bread have been recalled in Japan after parts of a rat's body were discovered inside two of them, the manufacturer said.
+
+Food recalls are rare in Japan, a country with famously high standards of sanitation.
+
+Pasco Shikishima said it is investigating how the remains of the rodent had crept into its products.
+
+The company said it is so far unaware of anyone falling sick after eating its processed white Chojuku bread, long a staple of Japanese breakfast tables.
+
+"We would like to apologize deeply for causing trouble to our customers and clients," the company said in a statement on Tuesday.
+
+On Wednesday, Pasco confirmed that the two packets of bread had been contaminated by parts of a black rat.
+
+Pasco produces the bread at a factory in Tokyo, whose assembly line has been suspended pending a probe, it said.
+
+"We will strengthen our quality management system to ensure there won't be a recurrence," it added.
+
+...
+
+[Data](articles/6bbc23df.json)
+
+---
 
 ### 'Wella Saranga' arrested
 
@@ -58,37 +102,69 @@ A 28 year old resident of Ja Elas.
 
 ---
 
-### பொலிஸ் விரட்டிச் சென்ற நபர் மரணமடைந்ததால் பதற்றம்
+### Tension because the man who drove the police chased
 
 *2024-05-11 09:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொலிஸ்-விரட்டிச்-சென்ற-நபர்-மரணமடைந்ததால்-பதற்றம்/71-337117) · `ta`
 
-யாழ்ப்பாணம் - புன்னாலைக் கட்டுவனில் நேற்று இரவு பொலிஸார் விரட்டிச் சென்ற நபரொருவர் மின்கம்பத்தில் மோதுண்டு உயிரிழந்த நிலையில், அப்பகுதியில் பொதுமக்கள் கூடியதால் குழப்பமான சூழ்நிலை ஏற்பட்டுள்ளது.
+In Jaffna, a man named Punnalai Katuvan was killed during a police chase, causing public unrest. Allegedly, he was fatally injured when police officers kicked him while he was on a motorcycle.
 
-மோட்டார் சைக்கிளில் சென்ற நபரை பலாலி பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர்கள் மறித்துள்ளனர்.
+🟩
 
-இதன் போது குறித்த நபர் தொடர்ந்து பயணிக்கவே விரட்டிச் சென்ற பொலிஸ் உத்தியோகத்தர்கள் குறித்த நபர் பயணித்த மோட்டார் வண்டியை உதைந்து விழுத்தியதில் குறித்த நபர் மின்கம்பத்தில் மோதி உயிரிழந்தார் என பொதுமக்கள் குற்றஞ்சாட்டினார்.
+A man who was chased away by the police chasing last night in Jaffna - Punnalai Katuvan was killed when a public gathering was in a state of disturbance.
+
+Police officers on duty at Palali Police Station
+
+The public alleged that the man was killed when the man was killed when a motorcycle was kicked and kicked by the police officers who continued to drive.
 
 ◼️
 
 [Data](articles/32683996.json)
 
+[Extended Data](ext_articles/32683996.ext.json)
+
 ---
 
-### பி.ப 2 மணிக்குப்பின் காலநிலையில் மாற்றம்
+### Change in climate after 2 am
 
 *2024-05-11 09:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பி-ப-2-மணிக்குப்பின்-காலநிலையில்-மாற்றம்/175-337116) · `ta`
 
-நாட்டின் பெரும்பாலான மாகாணங்களில் இன்று பல இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rainfall and thunderstorms are expected after 2 pm in several provinces, with up to 100 mm in some areas. The southern provinces and coastal regions will also see rainfall, and thunderstorms may affect upcoming areas. The public is advised to take precautions against lightning.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-தென் மாகாணங்களிலும் கரையோரப் பகுதிகளிலும் காலை வேளையிலும் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+In most provinces of the country today,. After 2.00 pm, there is a possibility of rain or thunderstorms.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Heavy rainfall is expected 100 mm in some places in the Western, Sabaragamuwa and North Western Provinces and Galle and Matara districts.
+
+Rainfall is expected in the morning and in the southern provinces and coastal areas.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/05c49f2a.json)
+
+[Extended Data](ext_articles/05c49f2a.ext.json)
+
+---
+
+### English teacher’s, mother’s mobile phones taken into police custody
+
+*2024-05-11 09:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-teachers-mothers-mobile-phones-taken-into-police-custody/108-282384) · `en`
+
+Colombo, May 11 (Daily Mirror) - The mobile phones of the Hasalaka English tuition master and his mother were taken into police custody for circulating the English question paper for the ongoing GCE Ordinary Level (O/L) examinations, police said.
+
+They also said that statements were recorded from the English tuition master and his mother regarding the incident.
+
+Examinations Commissioner General H.J.M.C. Amith Jayasundara said that a complaint was filed with the Criminal Investigation Department (CID) regarding multiple irregularities discovered during the ongoing O/L examinations.
+
+He said that incidents have been reported at two examination centres in Colombo, Kotahena and Hasalaka.
+
+Reports indicated that some candidates had tried to access answers for the English question paper using smartphones and shared them with others. The invigilators at these centres confiscated the mobile phones.
+
+...
+
+[Data](articles/463789de.json)
 
 ---
 
@@ -115,6 +191,26 @@ The man who had been shot with shooting has fled the area and the suspect is con
 [Data](articles/92436576.json)
 
 [Extended Data](ext_articles/92436576.ext.json)
+
+---
+
+### Colombo Tea Auction offering drops to 4.9 MnKgs this week
+
+*2024-05-11 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Tea-Auction-offering-drops-to-4-9-MnKgs-this-week/108-282375) · `en`
+
+The Colombo Tea Auction offering recorded a decline significantly, totalling 4.9 million kilogrammes.
+
+There was improved demand and a dearer trend in prices for most teas on offer, perhaps triggered by the lower volume on offer against the backdrop of urgent shipments, Forbes and Walker Tea Brokers said.
+
+The Ex-Estate offerings were reasonably maintained and totalled 0.74 million kilogrammes.
+
+The Westerns – Select Best, on offer were irregular and often easier, whilst the others together with the teas in the Below Best and Plainer categories, were often firm and Rs.20-40 per kilogramme dearer. The Nuwara Eliyas were a weak feature and mostly unsold, due to a lack of suitable bids.
+
+The Uda Pussellawa BOPs were barely maintained, whilst the corresponding BOPFs appreciated by Rs.40-60 per kilogramme. The Uva BOPs sold around last levels, whilst the corresponding BOPFs gained by up to Rs.100 per kilogramme.
+
+...
+
+[Data](articles/5105b7db.json)
 
 ---
 
@@ -347,6 +443,20 @@ She lost her parliamentary seat on the grounds that she is a UK citizen. The Sup
 [Data](articles/46aa8c6d.json)
 
 [Extended Data](ext_articles/46aa8c6d.ext.json)
+
+---
+
+### Diana under immigration radar for overstaying visa since 2014
+
+*2024-05-11 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Diana-under-immigration-radar-for-overstaying-visa-since-2014/155-282342) · `en`
+
+Colombo, May 10 (Daily Mirror) -  In the wake of UK citizenship holding Diana Gamage losing her parliamentary seat following a ruling by the Supreme Court, the immigration authorities are planning to consult the Attorney General to inquire into how she lived in Sri Lanka without a valid visa since she last arrived in the country on a tourist visa since around 2014, an official said.
+
+She lost her parliamentary seat on the grounds that she is a UK citizen. The Supreme Court observed that the evidence before the Court establishes that Diana Gamage ceased to be a citizen of Sri Lanka upon acquiring British citizenship and failed to resume the status of citizen of Sri Lanka according to law. She is thereby disqualified to be an MP by the Constitution.
+
+...
+
+[Data](articles/6c487faf.json)
 
 ---
 
@@ -820,35 +930,49 @@ It is noteworthy that the victim was shot in the courtyard and many bullets were
 
 ---
 
-### ’3 பில்லியன் டொலர் முதலீடுகளை கொண்டுவர முடியும்’
+### Can bring $ 3 billion investments
 
 *2024-05-11 00:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பில்லியன்-டொலர்-முதலீடுகளை-கொண்டுவர-முடியும்/175-337115) · `ta`
 
-2024 ஆம் ஆண்டு இறுதிக்குள் நிதியமைச்சு வழங்கியுள்ள ஒரு பில்லியன் டொலர்கள் என்ற முதலீட்டு இலக்கை மூன்று மடங்குகளாக அதிகரித்து சுமார் 03 பில்லியன் டொலர்களுக்கும் அதிகமான முதலீடுகளை இலங்கைக்குக் கொண்டுவர முடியும் என முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+Investment Minister Tilum Amunugama announced at a media briefing that Sri Lanka aims to triple its investment target to over $3 billion by the end of 2024, attributing the improved investment environment to political and financial stability. He highlighted the government's success in surpassing investment goals, with the Finance Ministry already meeting its first-quarter target.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-முதலீடுகள் நாட்டிற்குள் வருவதற்கு, அரசியல் ஸ்திரத்தன்மை, நிதி ஸ்திரத்தன்மை மற்றும் நாட்டின் எதிர்காலம் குறித்த உறுதிப்பாடு இருக்க வேண்டும். அதற்கிணங்க, இந்நாட்டிற்கு முதலீடுகள் அதிகரித்து வருகின்றன. நாட்டில் முதலீட்டுச் சூழல் மேம்பட்டுள்ளது. 02 ஆண்டுகளுக்கு முன் இருந்த நிலையில் இருந்து, 200 சதவீதம் மாறியுள்ளது.
+Investment Development Minister Tilum Amunugama said that by the end of 2024, the investment target of $ 1 billion can be increased by three times and more than $ 3 billion investments to Sri Lanka.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Investments must be in the country, political stability, financial stability and the future of the country. Accordingly, investments for this country are increasing. Investment environment has improved in the country. Since its 2 years ago, 200 percent has changed.
+
+Investors have not come to the country due to the economic crisis in the past. But with statistics I can present investors that are now coming up. Moreover, the Finance Ministry has been able to go beyond the goals provided. All this has been achieved by the government -led government's programs. In the first quarter of this year alone, the Finance Ministry's target has already been completed.
 
 ...
 
 [Data](articles/b1ba69ff.json)
 
+[Extended Data](ext_articles/b1ba69ff.ext.json)
+
 ---
 
-### பொலிஸார் விரட்டிய நபர் மின்கம்பத்தில் மோதி உயிரிழப்பு
+### The man who chased the police crashed into the wiring
 
 *2024-05-11 00:12:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-விரட்டிய-நபர்-மின்கம்பத்தில்-மோதி-உயிரிழப்பு/175-337114) · `ta`
 
-யாழ்ப்பாணம், புன்னாலைக்கட்டுவனில் பொலிஸார் விரட்டிச் சென்ற நபர் ஒருவர் மின்கம்பத்தில் மோதுண்டு உயிரிழந்தார். இந்தச் சம்பவம் நேற்றிரவு இடம்பெற்றது.
+In Punnalaikkattuwa, Jaffna, a man chased by police crashed into wiring, leading to his death. Selvanayagam Pradeepan, 41, from Urumpirai, died after being chased by two police officers on a motorcycle. The public alleges he was killed by the crash.
 
-கிளிநொச்சி மின்சார சபையில் பணியாற்றும் உரும்பிராயைச் சேர்ந்த செல்வநாயகம் பிரதீபன் என்ற 41 வயதான நபரே உயிரிழந்தவராவார்.
+🟩
 
-பலாலி பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர்கள் மோட்டார் சைக்கிளில் சென்ற நபரை மறித்துள்ளனர். இதன்போது அந்த நபர் தொடர்ந்து பயணிக்கவே விரட்டிச் சென்ற இரண்டு பொலிஸ் உத்தியோகத்தர்கள் குறித்த நபர் பயணித்த மோட்டார் சைக்கிளை உதைந்து வீழ்த்தியதில் அந்த நபர் மின்கம்பத்தில் மோதி உயிரிழந்தார் என்று பொதுமக்கள் குற்றஞ்சாட்டினர்.
+A man who was chased away by police chasing at Punnalaikkattuwa, Jaffna. The incident took place last night.
+
+Selvanayagam Pradeepan, a 41 -year -old man from Urumpirai, who works at the Kilinochchi Electricity Board, died.
+
+Police officers on duty at Palali Police Station. The public alleges that the man was killed in a wiring after kicking a motorcycle that was traveled by two police officers who were constantly chasing the man.
 
 ◼️
 
 [Data](articles/b359dcf6.json)
+
+[Extended Data](ext_articles/b359dcf6.ext.json)
 
 ---
 
@@ -2063,127 +2187,5 @@ It is noteworthy that the foam festival was aimed at raising awareness of the ne
 [Data](articles/ed8a37d7.json)
 
 [Extended Data](ext_articles/ed8a37d7.ext.json)
-
----
-
-### Sri Lankan Bar Association writes to President
-
-*2024-05-10 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196483) · `si`
-
-The Bar Association of Sri Lanka, led by President Kaushalyena Nawaratne, has expressed concern to President Ranil Wickremesinghe over five vacancies in the Court of Appeal, urging immediate action to fill them.
-
-🟩
-
-The Bar Association of Sri Lanka has written to President Ranil Wickremesinghe regarding the issue of vacancies in the Court of Appeal.
-
-The Bar Association of Sri Lanka Chatura and President of the Association President of the Association President Kaushalyena Nawaratne has signed the letter.
-
-They point out that there are about five vacancies in the Court of Appeal and that they are worried about continuing to fill those vacancies.
-
-◼️
-
-[Data](articles/ce5d52b2.json)
-
-[Extended Data](ext_articles/ce5d52b2.ext.json)
-
----
-
-### In the upcoming elections, the heroes of the Tamil people's victory - Minister Douglas
-
-*2024-05-10 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183167) · `ta`
-
-Minister Douglas Devananda criticizes efforts to politicize Tamil issues for short-term gains, highlighting past failures. He emphasizes the EPDP's unique approach, proven over 34 years, offering comprehensive solutions. The upcoming election is crucial for the Tamil people to identify their champions and address their aspirations effectively.
-
-🟩
-
-Minister Douglas Devananda, who has criticized the Tamil people's desire to stop the problems of the Tamil people as a problem, is an attempt to stop the Tamil general candidate.
-
-The issue was emphasized by the Secretary -General during a discussion with the Eelam People's Democratic Island organizers and dignitaries.
-
-The discussion was to clarify on contemporary political conditions, government -wide programs and the upcoming election process and the cooperation that they need to ensure that they reach the public.
-
-Minister Douglas Devananda, who urged the need to increase our party's vote in the election.
-
-"தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளையும் அவலங்களையும் அரசியல் கோஷங்களாக பயன்படுத்தி குறுகிய அரசியல் ஆதாயம் தேடும் தரப்புக்கள், தமது நலன்களுக்காக தமிழ் மக்களை இன்னுமொருமுறை பலிக்கடாவாக்க முனைகிறார்கள்.
-
-Such stupid efforts have been repeatedly carried out by armed struggle groups and moderate Tamil leaders in the past.
-
-...
-
-[Data](articles/4279e4ff.json)
-
-[Extended Data](ext_articles/4279e4ff.ext.json)
-
----
-
-### BASL expresses concern over prolonged delays in judicial appointments
-
-*2024-05-10 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99134/basl-expresses-concern-over-prolonged-delays-in-judicial-appointments) · `en`
-
-The Bar Association of Sri Lanka (BASL) has raised significant concerns regarding the prolonged delay in appointing judges to fill vacancies in the Court of Appeal.
-
-In a letter to President Ranil Wickremesinghe, the BASL highlighted the pressing issue of as many as five vacancies currently existing within the Court of Appeal.
-
-The Bar Association has emphasized its duty to express deep concern over the situation, stressing the urgent need for attention. The association also underscored the pivotal role of the judiciary in upholding the rule of law, ensuring justice, and safeguarding citizens’ rights.
-
-The letter further highlighted the detrimental effects of prolonged vacancies on the efficiency and effectiveness of the judicial system.
-
-...
-
-[Data](articles/1c79721a.json)
-
-[Extended Data](ext_articles/1c79721a.ext.json)
-
----
-
-### The goldening booty of the city of Homawala was robbed
-
-*2024-05-10 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196482) · `si`
-
-In Homagama, two strangers robbed the gold and money from a store, pretending to buy gold. They took stationery and were caught on CCTV. An employee was sick, and the robbers were identified by their motorbike plates.
-
-🟩
-
-Two strangers have fled the money and gold items in the company with a pistol in Homagama.
-
-The incident was reported at around 11.45 am today.
-
-The two of them remain a little time with the guise of buying gold and the workers in the outlet.
-
-Stationery has been taken from Rs.
-
-With the robbers, an employee of a dealene was diagnosed with an emergency illness.
-
-When the robbers were carrying the robbers and the fallen on the pendant route, the passengers were brought back to the re-salary and were found in the CCTV scenes.
-
-Homagama police officers immediately visited the investigations and the robbers had come to the number plates of the motorbikes arrived.
-
-◼️
-
-[Data](articles/3aecd092.json)
-
-[Extended Data](ext_articles/3aecd092.ext.json)
-
----
-
-### Sri Lanka SJB leadership still members of UNP, claims Diana’s spouse
-
-*2024-05-10 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-sjb-leadership-still-members-of-unp-claims-dianas-spouse-162540/) · `en`
-
-ECONOMYNEXT — The leadership of Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) are still members of the United National Party (UNP), according to former chairman of the now-defunct Ape Jathika Peramuna (AJP) Senaka de Silva.
-
-de Silva, who is the spouse of former MP Diana Gamage, said at a press conference on Friday May 10 that according to the party constitution members cannot hold membership of two parties at once.
-
-“We’re talking to our lawyers about next steps. Neither I or Diana Gamage sold a party. We gave him this party for the country. I gave the party to Sajith Premadasa and made him leader of the party. Diana Gamage was secretary. She stepped down and gave the position to Ranjith Madduma Bandara,” said de Silva.
-
-“It was given for them to take the party forward and serve the people of the country,” he said.
-
-de Silva showed a document bearing the seal of the Election Commission on the transfer of the AJP to the breakaway faction of the UNP that was led by Premadasa.
-
-...
-
-[Data](articles/25590ecd.json)
-
-[Extended Data](ext_articles/25590ecd.ext.json)
 
 ---

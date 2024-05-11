@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 07:58:59**
+As of **2024-05-11 07:46:58**
 
 ## Newspaper Stats
 
-*Scraped **23,282** Articles*
+*Scraped **23,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ tamilmirrorlk | 2,723
 adaderanalk | 2,723
 virakesarilk | 3,465
 dailymirrorlk | 3,659
-adaderanasinhalalk | 3,728
+adaderanasinhalalk | 3,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,280 (100.0%) of 23,282 articles have been extended.
+23,280 (100.0%) of 23,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
-
-### අහුංගල්ලේ වෙඩි තැබීම පළිගැනීමක්
-
-*2024-05-11 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196496) · `si`
-
-අහුංගල්ල, මරදාන ප්‍රදේශයේ ඊයේ (10) පස්වරුවේ සිදුකළ වෙඩි තැබීම පළිගැනීමක්  බවට අනාවරණය වී තිබේ.
-
-සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ පසුගිය 8 වනදා අහුංගල්ල ලෝකන්වත්ත ප්‍රදේශයේ සිදුකළ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ පියෙකු වන කීර්තිසේන ආබෘෘ යන අයගේ ඝාතනයට පළිගැනීමක් ලෙස මෙය සිදුකර ඇති බවය.
-
-පසුගියදා ඝාතනය වූ කීර්තිසේන ආබෘෘ යන අයගේ ඩුබායිහි සැඟව සිටින පුත්‍රයා විසින් ඊයේ සිදුකළ වෙඩි තැබීම මෙහෙයවා ඇති බව මූලික පරීක්ෂණ වලින් අනාරණය වී ඇති බව පොලීසිය පවසයි.
-
-ඊයේ සිදුකළ වෙඩි තැබී‍මෙන් ඝාතනයට ලක්වූ පුද්ගලයාට වෙඩි ප්‍රහාර 5 ක් එල්ල වී ඇති අතර ඉන් උණ්ඩ කිහිපයක් ඔහුගේ උදරයට එල්ල වී තිබූ බව සඳහන් වේ.
-
-මෙම පුද්ගලයා සිය නිවසේ සිටියදී යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීම සිදුකර පළාගොස් තිබුණි.
-
-වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයා බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගියේය.
-
-◼️
-
-[Data](articles/50984cae.json)
-
----
-
-### මහ බැංකු අධිපති සහ අමෙරිකානු තානාපතිනිය අතර හමුවක්
-
-*2024-05-11 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196495) · `si`
-
-මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා සහ මෙරට අමෙරිකානු තානාපති ජුලී චන්ග් මහත්මිය අතර හමුවක් සිදුව තිබේ.
-
-අමෙරිකානු තානාපති කාර්යාලයේ දී ඊයේ (10) මෙම හමුව සිදුව ඇති බව සඳහන් වේ.
-
-එක්ස් සමාජ මධ්‍යයේ ඔස්සේ සටහනක් තබමින් අමෙරිකානු තානාපතිවරිය පවසා ඇත්තේ එහිදී දෙරට අතර ද්විපාර්ශ්වික සබඳතා, ණය ප්‍රතිව්‍යුහගත කිරීම සහ දැනට ක්‍රියාත්මක ප්‍රතිසංස්කරණ පිළිබඳව දීර්ඝ වශයෙන් සාකච්ඡා වූ බවය.
-
-ශ්‍රී ලංකාවේ ශක්තිමත් ආර්ථිකයක් ගොඩනැගීම සඳහා අමෙරිකා එක්සත් ජනපදය අඛණ්ඩව සහාය දක්වන බවද මහ බැංකු අධිපති ආචාර්ය නන්දලාල් මහතා වෙත දැනුම් දුන් බව ජුලී චන්ග් මහත්මිය පැවසුවාය.
-
-◼️
-
-[Data](articles/2d7ff772.json)
-
----
 
 ### Heavy rains into several provinces
 
@@ -2213,5 +2173,55 @@ According to hospital sources, a woman and three men were injured and admitted t
 [Data](articles/4a8d0725.json)
 
 [Extended Data](ext_articles/4a8d0725.ext.json)
+
+---
+
+### A few provinces this evening. Showers over 100 mees
+
+*2024-05-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196478) · `si`
+
+Heavy showers expected in Western, Sabaragamuwa, North Western, Uva, and Puttalam districts tonight, with up to 100mm rainfall.
+
+🟩
+
+Showers or thundershowers will occur in many parts of the island today (10) evening.
+
+The Department of Meteorological Department announced heavy showers in the Western, Sabaragamuwa, North Western and Uva provinces and around 100 mm.
+
+Showers will occur at the Western and Southern provinces, Puttalam, Mannar, Kilinochchi and Jaffna districts.
+
+Meanwhile, the Department of Meteorology has issued an inspired statement to be valid until 11.30 pm today.
+
+At the evening of the Western, Sabaragamuwa, Southern, Uva, Uva and North and North Central provinces and thundershowers will occur at night.
+
+◼️
+
+[Data](articles/fa6cdffb.json)
+
+[Extended Data](ext_articles/fa6cdffb.ext.json)
+
+---
+
+### One killed, four injured in head-on collision
+
+*2024-05-10 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-four-injured-in-head-on-collision/108-282326) · `en`
+
+Colombo, May 10 (Daily Mirror)- One person was killed and four others seriously injured in a head-on collision of a SLTB bus and a trishaw at Puwagodamulla on the Badulla- Mahiyangana road.
+
+The deceased and the injured were the passengers of the trishaw including its driver.
+
+The Badulla bound bus belonging to the Dehiattakandiya SLTB depot had collided with the trishaw transporting a group of passengers from Badulla to Rideepana. The deceased are yet to be identified.
+
+A woman and three men have been injured and admitted to hospital. Spokesman for the hospital said they were in critical condition.
+
+The driver of the SLTB bus was arrested pending further investigations.
+
+A police team under SI A.V. Anura is conducting further investigations on the instructions of HQI Badulla police Priyantha Chaminda.
+
+◼️
+
+[Data](articles/28dfe639.json)
+
+[Extended Data](ext_articles/28dfe639.ext.json)
 
 ---

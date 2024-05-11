@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 22:04:19**
+As of **2024-05-11 22:18:03**
 
 ## Newspaper Stats
 
-*Scraped **23,370** Articles*
+*Scraped **23,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,732
 adaderanalk | 2,736
 virakesarilk | 3,476
 dailymirrorlk | 3,678
-adaderanasinhalalk | 3,750
+adaderanasinhalalk | 3,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,369 (100.0%) of 23,370 articles have been extended.
+23,370 (100.0%) of 23,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### පලස්තීනය ලැබූ ජය
+
+*2024-05-11 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196523) · `si`
+
+පලස්තීනය එක්සත් ජාතීන්ගේ සංවිධානයේ සාමාජිකත්වය ඉල්ලීමට සුදුසු රටක් බවට වන යෝජනාවක් එහි මහා මණ්ඩලය තුළ සම්මත වී තිබේ.
+
+එහිදී පලස්තීනයට පක්ෂව ඡන්ද 143ක් ප්‍රකාශයට පත්වූ අතර ඊට එරෙහිව ඡන්දය භාවිත කර තිබුණේ ඊශ්‍රායලය සහ අමෙරිකාව ඇතුළු රටවල් 9ක් පමණි.
+
+කෙසේ නමුත් එමගින් පලස්තීනයට, එම සංවිධානයේ පූර්ණ සාමාජිකත්වය හිමි නොවන අතර සාමාජිකත්වය ලබාදීමේ තීන්දුව ගත හැක්කේ එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයට පමණි.
+
+මේ අතර එක්සත් ජාතීන්ගේ ඊශ්‍රායල නිත්‍ය නියෝජිතයා අදාළ යෝජනාවට සිය විරෝධය පළ කර ඇත.
+
+◼️
+
+[Data](articles/1f5c595a.json)
+
+---
 
 ### Sri Lankan-born baker Tharshan Selvarajah to carry Olympic torch in France
 
@@ -45,6 +63,8 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 ◼️
 
 [Data](articles/ba220527.json)
+
+[Extended Data](ext_articles/ba220527.ext.json)
 
 ---
 
@@ -2309,27 +2329,5 @@ Parliamentarian Namal Rajapaksa has been appointed to carry out the election pro
 [Data](articles/cc0b5621.json)
 
 [Extended Data](ext_articles/cc0b5621.ext.json)
-
----
-
-### BASL raises concerns on delays in filling CoA vacancies
-
-*2024-05-11 00:59:26* · [`dailyftlk`](https://www.ft.lk/news/BASL-raises-concerns-on-delays-in-filling-CoA-vacancies/56-761674) · `en`
-
-Notes five existing vacancies needs urgent attention due to potential adverse repercussions
-
-Stresses backlog of cases would increase, leading to delays in dispensation of justice, erosion of public trust
-
-Urges President to prioritise filling existing vacancies and consider bar members for vacant posts
-
-The Bar Association of Sri Lanka (BASL) writing to President Ranil Wickremesinghe yesterday expressed their concerns over the ongoing crisis relating to the filling of vacancies in the Court of Appeal.
-
-The BASL noted that there are five vacancies to date and said the situation merits urgent attention considering the potential adverse repercussions that would follow in the administration of justice.
-
-...
-
-[Data](articles/de0a90ba.json)
-
-[Extended Data](ext_articles/de0a90ba.ext.json)
 
 ---

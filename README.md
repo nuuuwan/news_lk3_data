@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 16:48:56**
+As of **2024-05-11 17:03:26**
 
 ## Newspaper Stats
 
-*Scraped **23,349** Articles*
+*Scraped **23,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ tamilmirrorlk | 2,730
 adaderanalk | 2,731
 virakesarilk | 3,476
 dailymirrorlk | 3,673
-adaderanasinhalalk | 3,742
+adaderanasinhalalk | 3,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,348 (100.0%) of 23,349 articles have been extended.
+23,349 (100.0%) of 23,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### රුසියා - යුක්‍රේන යුද්ධයට ගිය අපේ අය ගැන තොරතුරු ගලා එයි
+### හෙරොයින් බෙදාහැරි කෝප්‍රල් රිමාන්ඩ්
+
+*2024-05-11 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196514) · `si`
+
+හෙරොයින් ජාවාරමේ නිරත කාන්තාවක සමග එම ජාවාරමේ නිරත වු බවට සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ නාවික හමුදා කෝප්‍රල්වරයෙකු රක්ෂිත බන්ධනාගාර ගත කිරීමට අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+අනුරාධපුර කොට්ඨාස අපරාධ අංශය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ සැකකාර කෝප්‍රල්වරයා ලබන 21වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අතිරේක මහෙස්ත්‍රාත් අභිමානී සෙනවිරත්න මෙනවිය එහිදී නියෝග කළාය.
+
+සැකකාර කෝප්‍රල්වරයා අධිකරණයට ඉදිරිපත් කරමින් පොලීසිය පැවසුවේ හෙරොයින් ජාවාරම් කිරීමේ චෝදනාවට අත්අඩංගුවට ගෙන සිටින කාන්තාවකගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලදී සැකකරු සම්බන්ධයෙන් තොරතුරු අනාවරණය වු බවය.
+
+අදාළ කාන්තාව විසින් ලබාදුන් හෙරොයින් යතුරුපැදියකින් බෙදාහැරීමේ කටයුතු කාලයක සිට මොහු විසින් සිදුකර ඇති බව පෙන්වාදුන් පොලීසිය සැකකාර කෝප්‍රල්වරයා අධික ලෙස හෙරොයින් පානයට ඇබ්බැහිවුවෙකු බවට අනාවරණය වී ඇති බව ද අධිකරණය හමුවේ සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/ef051a51.json)
+
+---
+
+### Russia - The information about our people who went to war in Ukrainian war
 
 *2024-05-11 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196513) · `si`
 
-රුසියා - යුක්‍රේන යුද්ධය සඳහා නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවේ ත්‍රිවිධ හමුදා විශ්‍රාමික සාමාජිකයින් යෙදවීමේ මිනිස් ජාවාරම සම්බන්ධ තොරතුරු ලබාගැනීම සඳහා ආරම්භ කළ විශේෂ ඒකකයට දුරකථන ඇමතුම් 77ක් ලැබී ඇති බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+A special unit in Sri Lanka has received 77 calls regarding human trafficking of retired military members, established after a week. The Ministry of Defense provides information on the war, including dates, coordinated persons, and organizations, and can be contacted at 011-2 44 11 46.
 
-පසුගිය බ්‍රහස්පතින්දා රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි අදාළ විශේෂ ඒකකය ආරම්භ කළ අතර පැය 36ක පමණ කාලයක් ඇතුළත මෙලෙස දුරකථන ඇමතුම් ලැබී තිබීම විශේෂත්වයක් බව එම අමාත්‍යංශය සඳහන් කරයි.
+🟩
 
-ආරක්‍ෂක අමාත්‍යාංශය පවසන්නේ මේ වන විට රුසියා - යුක්‍රේන යුද්ධය සඳහා පිටත්ව ගොස් ඇති මෙරට විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්,  ඔවුන් පිටත්ව ගිය දිනයන්, සම්බන්ධීකරණය කළ පුද්ගලයින්, ආයතන සහ දුරකථන අංක ඇතුළු තොරතුරු එම අංශය වෙත ලබාදිය හැකි බවය.
+The Special Unit, which has commenced to obtain information on human trafficking of retired members of Sri Lanka, has received 77 telephone calls for information on the deputy of the Armed Forces in Sri Lanka.
 
-දුරකථන අංක  011- 2 44 11 46 වෙත තවදුරටත් තොරතුරු ලබාදිය හැකි අතර මේ දක්වාත් තොරතුරු ලබානොදුන් පුද්ගලයන් සිටී නම් ඒ සම්බන්ධයෙන් අවධානය යොමු කරන ලෙස ද ආරක්‍ෂක අමාත්‍යාංශය දැනුම් දෙයි.
+The special unit was established last Thursday night and telephoned telephone calls were made within 36 hours.
+
+The Ministry of Defense has said that the Government of Sri Lanka has left for the war of the Sri Lankan war, including the dates, coordinated persons, coordinated persons, organizations and telephone numbers.
+
+The Ministry of Defense also provides information on 011- 2 44 11 46 and will continue to pay attention to this matter.
 
 ◼️
 
 [Data](articles/0ce237f9.json)
+
+[Extended Data](ext_articles/0ce237f9.ext.json)
 
 ---
 
@@ -2257,23 +2281,5 @@ Premalatha Vijayakanth, who participated on behalf of Vijayakanth, received the 
 [Data](articles/beb07d3b.json)
 
 [Extended Data](ext_articles/beb07d3b.ext.json)
-
----
-
-### Largest ever housing and construction expo kicks off at BMICH
-
-*2024-05-10 23:38:59* · [`dailyftlk`](https://www.ft.lk/business/Largest-ever-housing-and-construction-expo-kicks-off-at-BMICH/34-761650) · `en`
-
-From left: Urban Development and Housing Ministry Secretary W.S. Sathyananda, Embassy of China 2nd Secretary Wang Jian, CIDA Chairman Eng. R.H. Ruvinis, and CCISL President Jayantha Perera opening the Build Sri Lanka Housing and Construction Expo 2024 at the BMICH yesterday.
-
-The premier three-day Build Sri Lanka Housing and Construction International Expo organised by the Chamber of Construction Industry (CCI) kicked off yesterday at the BMICH.
-
-Build Sri Lanka 2024 showcases the latest developments in the building and construction industry, with eminent industry experts, stakeholders and decision makers in attendance, making it an ideal event to source new products, network and usher in new contacts and business opportunities.  Over 50,000 trade visitors are expected over the course of the event, looking to source the latest, inventive products on offer, not accessible otherwise in the local market, in addition to new product launches.
-
-...
-
-[Data](articles/68030906.json)
-
-[Extended Data](ext_articles/68030906.ext.json)
 
 ---

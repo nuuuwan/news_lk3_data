@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 06:17:08**
+As of **2024-05-11 06:45:07**
 
 ## Newspaper Stats
 
-*Scraped **23,276** Articles*
+*Scraped **23,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
-tamilmirrorlk | 2,721
+tamilmirrorlk | 2,722
 adaderanalk | 2,723
 virakesarilk | 3,465
 dailymirrorlk | 3,658
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,268 (100.0%) of 23,276 articles have been extended.
+23,276 (100.0%) of 23,277 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,6 +66,8 @@ Under the dynamic leadership of Managing Director, Devin Ambalangodage, Medical 
 
 [Data](articles/3a2d226d.json)
 
+[Extended Data](ext_articles/3a2d226d.ext.json)
+
 ---
 
 ### SDB bank boosts mobile user experience and access to finance information
@@ -78,6 +80,8 @@ SDB bank recently upgraded its tri-lingual corporate website which is an importa
 
 [Data](articles/b5acdb8a.json)
 
+[Extended Data](ext_articles/b5acdb8a.ext.json)
+
 ---
 
 ### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
@@ -89,6 +93,8 @@ With the aim of promoting investment opportunities in Sri Lanka and building con
 ...
 
 [Data](articles/73f7bdd6.json)
+
+[Extended Data](ext_articles/73f7bdd6.ext.json)
 
 ---
 
@@ -176,6 +182,8 @@ SLA did not pay the interest due on 25 December 2023 on its guaranteed unsecured
 
 [Data](articles/9508a1d1.json)
 
+[Extended Data](ext_articles/9508a1d1.ext.json)
+
 ---
 
 ### Govt planning to establish Digital Exchange Agency in Sri Lanka
@@ -191,6 +199,8 @@ Virtusa Corporation, a global provider of digital business strategy, digital eng
 ...
 
 [Data](articles/f7156b43.json)
+
+[Extended Data](ext_articles/f7156b43.ext.json)
 
 ---
 
@@ -603,6 +613,22 @@ He also said that even the stomach can be fatally damaged through this, and even
 [Data](articles/4d46e477.json)
 
 [Extended Data](ext_articles/4d46e477.ext.json)
+
+---
+
+### இந்திய உயர்ஸ்தானிகர் - சிறிதரன் சந்திப்பு
+
+*2024-05-10 23:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சிறிதரன்-சந்திப்பு/175-337112) · `ta`
+
+இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவை நேற்று முன்தினம் கொழும்பில் சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இலங்கையின் தற்கால அரசியல் நிலவரம், வடக்கு, கிழக்கு அடங்கலாக இலங்கையில் இந்தியா முன்னெடுக்கும் அபிவிருத்தித் திட்டங்கள், பொருளாதார ஒத்துழைப்புத் திட்டங்களை மையப்படுத்திய விடயங்கள் தொடர்பில் இந்த சந்திப்பின் போது கலந்துரையாடப்பட்டதாக அதில் குறிப்பிடப்பட்டுள்ளது.
+
+பிராந்திய மக்களுக்காக, இந்தியாவின் தொடர்ச்சியான அர்ப்பணிப்பை இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா இதன்போது வலியுறுத்தியுள்ளார் என இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தின் எக்ஸ் பக்கத்தில் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/25a062d7.json)
 
 ---
 
@@ -2191,27 +2217,5 @@ Residents say that such accidents are underway to maintain a plumber maintain in
 [Data](articles/348df271.json)
 
 [Extended Data](ext_articles/348df271.ext.json)
-
----
-
-### Era
-
-*2024-05-10 14:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மன-அழுத்தத்தால்-தீக்குளித்த-இளம்பெண்/71-337089) · `ta`
-
-A 26-year-old woman from Valvettithurai died due to a breakup, leading to an accident. The police are investigating the case.
-
-🟩
-
-The incident took place last night (09), a 26 -year -old girl from Sri Murugan's colonial area in Valvettithurai.
-
-It is reported that the woman has died of such an accident due to the breakup of a romantic relationship.
-
-Further investigations are being carried out by Valvettithurai police as the body of the Grama Niladhari has lodged a complaint with the police.
-
-◼️
-
-[Data](articles/cb090cf3.json)
-
-[Extended Data](ext_articles/cb090cf3.ext.json)
 
 ---

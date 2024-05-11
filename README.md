@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 01:03:28**
+As of **2024-05-12 01:18:18**
 
 ## Newspaper Stats
 
-*Scraped **23,375** Articles*
+*Scraped **23,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,263
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
-tamilmirrorlk | 2,734
+tamilmirrorlk | 2,735
 adaderanalk | 2,736
 virakesarilk | 3,476
 dailymirrorlk | 3,679
@@ -26,9 +26,27 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,375 (100.0%) of 23,375 articles have been extended.
+23,375 (100.0%) of 23,376 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-12 (Sunday)
+
+### ஆப்கானிஸ்தானில் கடும் மழை: 200 பேர் பலி
+
+*2024-05-12 01:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-கடும்-மழை-200-பேர்-பலி/50-337143) · `ta`
+
+ஆப்கானிஸ்தானில் பெய்து வரும் கனமழை காரணமாக ஏற்பட்ட வௌ்ள அனர்த்தங்களில் 200 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர்.
+
+அங்கு 200 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர்.  ஆயிரக்கணக்கான வீடுகள் முற்றிலுமாகவோ, பகுதியளவிலோ சேதமடைந்துள்ளன.
+
+பாக்லான் மாகாணத்தில் மாத்திரம் 1500 வீடுகள் சேதமடைந்துள்ளன. அங்கு நூற்றுக்கும் அதிகமானோர் உயிரிழந்துள்ளனர் என ஆப்கானிஸ்தானின் தேசிய அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/662402a6.json)
+
+---
 
 ### 2024-05-11 (Saturday)
 
@@ -2305,23 +2323,5 @@ SLA did not pay the interest due on 25 December 2023 on its guaranteed unsecured
 [Data](articles/9508a1d1.json)
 
 [Extended Data](ext_articles/9508a1d1.ext.json)
-
----
-
-### Govt planning to establish Digital Exchange Agency in Sri Lanka
-
-*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/govt-planning-to-establish-digital-exchange-agency-in-sri-lanka/) · `en`
-
-President Ranil Wickremesighe recently confirmed the Government’s commitment to advancing digital economy, announcing plans to establish a new digital exchange agency in Sri Lanka, and to allocate funding for Artificial Intelligence (AI) initiatives.
-
-The President said so at an awards ceremony held at the Presidential Secretariat recently to mark the celebration of the 45th anniversary of the BOI.
-
-Virtusa Corporation, a global provider of digital business strategy, digital engineering, and IT services and solutions, was recognized as one of the Most Outstanding Exporters in the Services category by the Board of Investment of Sri Lanka (BOI), at this ceremony.
-
-...
-
-[Data](articles/f7156b43.json)
-
-[Extended Data](ext_articles/f7156b43.ext.json)
 
 ---

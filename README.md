@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 21:18:20**
+As of **2024-05-11 21:34:03**
 
 ## Newspaper Stats
 
-*Scraped **23,367** Articles*
+*Scraped **23,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
 tamilmirrorlk | 2,732
-adaderanalk | 2,734
+adaderanalk | 2,735
 virakesarilk | 3,476
 dailymirrorlk | 3,678
-adaderanasinhalalk | 3,749
+adaderanasinhalalk | 3,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,367 (100.0%) of 23,367 articles have been extended.
+23,367 (100.0%) of 23,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### India’s opposition jubilant as Modi critic Kejriwal gets bail to campaign in elections
+
+*2024-05-11 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99153/indias-opposition-jubilant-as-modi-critic-kejriwal-gets-bail-to-campaign-in-elections) · `en`
+
+India’s top court gave temporary bail to Delhi Chief Minister Arvind Kejriwal in a graft case on Friday, allowing him to campaign in the ongoing general elections, boosting the opposition alliance of which he is a prominent figure.
+
+The Supreme Court said Kejriwal - a fierce critic of Prime Minister Narendra Modi - would be out on bail until June 1, the last day of the nationwide seven-phase vote, and would have to return to pre-trial detention on June 2.
+
+India began voting on April 19 and elections for more than half of the 543 seats in parliament have now been completed following the third phase of the vote on May 7.
+
+The two areas governed by Kejriwal’s Aam Aadmi Party (AAP) - the National Capital Territory that includes New Delhi, and the northern state of Punjab - go to the polls on May 25 and June 1 respectively.
+
+Votes will be counted on June 4 and results are expected to be announced the same day.
+
+...
+
+[Data](articles/914d3e7b.json)
+
+---
+
+### ඔලිම්පික් ඉතිහාසය අලුත් කළ ශ්‍රී ලාංකිකයා
+
+*2024-05-11 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196522) · `si`
+
+ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් උළෙලේ ගිනිසිළුව රැගෙනයාමට ශ්‍රී ලංකාවේ උපත ලැබූ ප්‍රංශයේ සම්මානනීය බේකරි නිෂ්පාදකයෙකු වන තර්ශන් සෙල්වරාජ් ට අවස්ථාව උදාවී තිබේ.
+
+මෙවර ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් උළෙලේ ගිනිසිළුව පැරිස් නුවර වෙත රැගෙන ආ අතර ඊට පුද්ගලයින් 10,000ක් සම්බන්ධ කර ගැනුණි.
+
+ගිනිසිළුව රැගෙනයාමට ශ්‍රී ලංකාවේ උපත ලැබූ සම්මානනීය බේකරි නිෂ්පාදකයෙකු වන තර්ශන් සෙල්වරාජ් මහතාට අවස්ථාව උදාවී ඇති අතර, ඔහු ඉතිහාසගත වන්නේ ඔලිම්පික් ගිනිසිළුව රැගෙන යන ශ්‍රී ලාංකික සම්භවයක් සහිත පළමු පුද්ගලයා ලෙසය.
+
+2023 වසරේදී ඔහු ජනප්‍රියත්වයට පත් වූයේ ප්‍රංශයේ වාර්ෂිකව පවත්වන සාම්ප්‍රදායික බැගෙට් පාන් වර්ගය නිෂ්පාදනය කරන ප්‍රංශයේ හොඳම බේකරි නිෂ්පාදකයාට හිමි සම්මානය දිනා ගැනීමත් සමගය.
+
+තර්ශන් ලද එම ජයග්‍රහණත් සමග ඔහුට මෙවර ඔලිම්පික් ගිනිසිළුව රැගෙන යාමේ අවස්ථාව හිමිවී තිබුණි.
+
+◼️
+
+[Data](articles/2a3ab574.json)
+
+---
 
 ### SLTB bus topples
 
@@ -2287,39 +2327,5 @@ The Secretary-General of Parliament informed the Election Commission that a Parl
 [Data](articles/52df4a67.json)
 
 [Extended Data](ext_articles/52df4a67.ext.json)
-
----
-
-### COPA looks into current performance of National Education Management Information System
-
-*2024-05-11 00:57:01* · [`dailyftlk`](https://www.ft.lk/news/COPA-looks-into-current-performance-of-National-Education-Management-Information-System/56-761672) · `en`
-
-The Committee on Public Accounts focused on the current performance of the National Education Management Information System (NEMIS). The officials who were present pointed out that although this data system was initiated in 2012, it has not yet reached the expected level of performance.
-
-The Committee expressing displeasure, mentioned that although this Committee has been discussing this data system for 4 years, it has not reached the desired level. The members of the Committee who were present also pointed out that the necessary data pertaining to the school system is not available in this data system and not up to expectation.
-
-...
-
-[Data](articles/9aeaaf6b.json)
-
-[Extended Data](ext_articles/9aeaaf6b.ext.json)
-
----
-
-### Maithri’s Easter Sunday statement – Courts call for CID action on any criminal wrongdoing
-
-*2024-05-11 00:56:33* · [`dailyftlk`](https://www.ft.lk/news/Maithri-s-Easter-Sunday-statement-Courts-call-for-CID-action-on-any-criminal-wrongdoing/56-761671) · `en`
-
-Maligakanda Magistrate Lochani Abeywickrama directed the Criminal Investigation Department (CID) to probe the statement provided by former President Maithripala Sirisena regarding the Easter attack and to take necessary measures if any criminal wrongdoing is revealed.
-
-The order regarding Maithripala Sirisena’s statement on the Easter attack was issued during the latest hearing of the case at the Maligakanda Magistrate’s Court yesterday.
-
-A supplementary report on the ongoing investigation progress by the CID was submitted when the case was brought before the court. The CID informed the court that they are concurrently investigating complaints filed by MP Kavinda Jayawardena and Jana Aragala Vyaparaya concerning this incident. The case is to be taken up again on June 26.
-
-◼️
-
-[Data](articles/897e3194.json)
-
-[Extended Data](ext_articles/897e3194.ext.json)
 
 ---

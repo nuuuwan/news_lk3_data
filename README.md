@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 22:18:03**
+As of **2024-05-11 22:33:33**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,370 (100.0%) of 23,371 articles have been extended.
+23,371 (100.0%) of 23,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### පලස්තීනය ලැබූ ජය
+### Victory for Palestine
 
 *2024-05-11 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196523) · `si`
 
-පලස්තීනය එක්සත් ජාතීන්ගේ සංවිධානයේ සාමාජිකත්වය ඉල්ලීමට සුදුසු රටක් බවට වන යෝජනාවක් එහි මහා මණ්ඩලය තුළ සම්මත වී තිබේ.
+Palestine's bid for UN membership received 143 votes, with only 9 against, including Israel and America. Despite this, full membership and Security Council decision-making power are not granted, and Israel's UN representative objected to the proposal.
 
-එහිදී පලස්තීනයට පක්ෂව ඡන්ද 143ක් ප්‍රකාශයට පත්වූ අතර ඊට එරෙහිව ඡන්දය භාවිත කර තිබුණේ ඊශ්‍රායලය සහ අමෙරිකාව ඇතුළු රටවල් 9ක් පමණි.
+🟩
 
-කෙසේ නමුත් එමගින් පලස්තීනයට, එම සංවිධානයේ පූර්ණ සාමාජිකත්වය හිමි නොවන අතර සාමාජිකත්වය ලබාදීමේ තීන්දුව ගත හැක්කේ එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයට පමණි.
+Palestine is a proposal to be a country that is suitable for the membership of the United Nations.
 
-මේ අතර එක්සත් ජාතීන්ගේ ඊශ්‍රායල නිත්‍ය නියෝජිතයා අදාළ යෝජනාවට සිය විරෝධය පළ කර ඇත.
+There were 143 votes in favor of Palestine and voted only 9 countries including Israel and America.
+
+However, the Palestine does not have the full membership of the organization and the UN Security Council can only be the decision to meet.
+
+Meanwhile, the Israeli Permanent Representative of the United Nations has objected to the proposal.
 
 ◼️
 
 [Data](articles/1f5c595a.json)
+
+[Extended Data](ext_articles/1f5c595a.ext.json)
 
 ---
 

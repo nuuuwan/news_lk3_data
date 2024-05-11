@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 15:18:10**
+As of **2024-05-11 15:33:41**
 
 ## Newspaper Stats
 
-*Scraped **23,340** Articles*
+*Scraped **23,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,978
 tamilmirrorlk | 2,730
 adaderanalk | 2,730
 virakesarilk | 3,474
-dailymirrorlk | 3,672
-adaderanasinhalalk | 3,738
+dailymirrorlk | 3,673
+adaderanasinhalalk | 3,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,340 (100.0%) of 23,340 articles have been extended.
+23,340 (100.0%) of 23,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### මෙරට රන් මිලේ වෙනසක්
+
+*2024-05-11 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196510) · `si`
+
+මෙරට රත්‍රං මිල ගණන් ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+
+ඒ අනුව අද (11) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 177,600ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මේ අතර ඊයේ රුපියල් 191,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද වනවිට රුපියල්  193,000ක් දක්වා රුපියල් 2,000කින් ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/3cfc8c30.json)
+
+---
+
+### Sri Lanka votes in favour of Palestine’s UN membership
+
+*2024-05-11 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-votes-in-favour-of-Palestines-UN-membership/108-282393) · `en`
+
+Colombo, May 11 (Daily Mirror) -  In a resounding display of solidarity with the Palestinian people, Sri Lanka cast its vote in support of Palestine's application for membership in the United Nations.
+
+This was announced by Minister of Foreign Affairs, Ali Sabry via an X post.
+
+The decision, made through the UN General Assembly Resolution on "Admission of New Members to the United Nations," signifies Sri Lanka's unwavering commitment to peace and justice on the international stage.
+
+Emphasizing the importance of a negotiated two-state solution, Sri Lanka reaffirmed its stance that enduring peace and the alleviation of human suffering in the region can only be achieved through dialogue and cooperation.
+
+The island nation's leadership believes that despite the complexities of the situation, pursuing a peaceful resolution remains the most viable path forward for both Palestinians and Israelis.
+
+...
+
+[Data](articles/dcffbae1.json)
+
+---
 
 ### Jayawardenapura University students arrested
 
@@ -2187,55 +2223,5 @@ The camp will be conducted roughly over a period of two months at two locations 
 [Data](articles/c0e8746d.json)
 
 [Extended Data](ext_articles/c0e8746d.ext.json)
-
----
-
-### Confrontation between students during exam break
-
-*2024-05-10 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183192) · `ta`
-
-On Friday, a confrontation occurred between male students from two schools during an exam break at the GCE Ordinary Level Examination Center in Vavuniya. This led to a brief disruption, blocking traffic, before the students dispersed.
-
-🟩
-
-The incident took place on Friday (10) in front of the GCE Ordinary Level Examination Center located in the Vavuniya Residential area.
-
-The GCE Ordinary Level Examination was held on Friday (10) at the examination center. In this case, the students who wrote the exam were completed and a part of the course were completed and a long break.
-
-In this case, male students from two schools gathered outside the exam hall and crashed into themselves.
-
-This resulted in a short time confusion in the area and traffic was blocked. Subsequently, the students of the street dispersed because of the gathering.
-
-◼️
-
-[Data](articles/10220bf2.json)
-
-[Extended Data](ext_articles/10220bf2.ext.json)
-
----
-
-### In Vavuniya
-
-*2024-05-10 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183191) · `ta`
-
-Health inspectors in Vavuniya took action against a restaurant owner in Vairavapuliyankulam for improper wastewater management, causing a stench and inconveniences to local businesses. The restaurant's wastewater was improperly discharged, affecting the area and nearby businesses. After a visit and strict warnings, the restaurant was allowed to reopen after rectifying the wastewater discharge process.
-
-🟩
-
-Health inspectors on Friday (10) said that action has been taken against the owner of a restaurant with a restaurant with a restaurant in Vairavapuliyankulam, Vavuniya.
-
-The wastewater with a restaurant located in Vavuniya, Railway Station Road, Vairavapuliyankulam, has come to the bearing and from there to the streets without proper regulation.
-
-As a result of this, the stench in the area and the nearest street businessmen were facing inconveniences.
-
-Subsequently, those involved in the vegetable business have repeatedly poured the wastewater into the owner of the vegetable shop owner, who were not focused on not leaving the wastewater on the road, and the Vavuniya Municipal Health Inspectors informed the health inspectors of this.
-
-Health inspectors visited the scene and visited the wastewater management of the scene and provided them with strict warning and locked it to open the wastewater management and open it.
-
-...
-
-[Data](articles/50b847a1.json)
-
-[Extended Data](ext_articles/50b847a1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 06:45:07**
+As of **2024-05-11 07:09:24**
 
 ## Newspaper Stats
 
-*Scraped **23,277** Articles*
+*Scraped **23,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 1,973
 tamilmirrorlk | 2,722
 adaderanalk | 2,723
 virakesarilk | 3,465
-dailymirrorlk | 3,658
-adaderanasinhalalk | 3,725
+dailymirrorlk | 3,659
+adaderanasinhalalk | 3,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,276 (100.0%) of 23,277 articles have been extended.
+23,277 (100.0%) of 23,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### පළාත් කිහිපයකට තද වැසි
+
+*2024-05-11 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196494) · `si`
+
+දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැක.
+
+දකුණු පළාතේ වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී ඇත.
+
+මේ අතර, අද (11)  දිනයේ උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+උතුරු සහ උතුරුමැද පළාත් සහ ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්ක සඳහා මෙම නිවේදනය බලපැවැත්වේ.
+
+ඒ අනුව ඉහත ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම 'අවධානය යොමු කළ යුතු' මට්ටමක පවතිනු ඇතැයි අපේක්ෂා කෙරේ.
+
+එම නිසා ඉහත ප්‍රදේශවල ජීවත්වන ජනතාවට විමසිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/3033378a.json)
+
+---
+
+### Diana under immigration radar for overstaying visa since 2014
+
+*2024-05-11 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-under-immigration-radar-for-overstaying-visa-since-2014/108-282342) · `en`
+
+Colombo, May 10 (Daily Mirror) -  In the wake of UK citizenship holding Diana Gamage losing her parliamentary seat following a ruling by the Supreme Court, the immigration authorities are planning to consult the Attorney General to inquire into how she lived in Sri Lanka without a valid visa since she last arrived in the country on a tourist visa since around 2014, an official said.
+
+She lost her parliamentary seat on the grounds that she is a UK citizen. The Supreme Court observed that the evidence before the Court establishes that Diana Gamage ceased to be a citizen of Sri Lanka upon acquiring British citizenship and failed to resume the status of citizen of Sri Lanka according to law. She is thereby disqualified to be an MP by the Constitution.
+
+...
+
+[Data](articles/46aa8c6d.json)
+
+---
 
 ### Authorities on alert as illicit fags flow from airport
 
@@ -616,19 +656,25 @@ He also said that even the stomach can be fatally damaged through this, and even
 
 ---
 
-### இந்திய உயர்ஸ்தானிகர் - சிறிதரன் சந்திப்பு
+### Indian High Commissioner - Sridharan Meeting
 
 *2024-05-10 23:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சிறிதரன்-சந்திப்பு/175-337112) · `ta`
 
-இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவை நேற்று முன்தினம் கொழும்பில் சந்தித்து கலந்துரையாடியுள்ளார்.
+Sivagnanam Sridharan, a Sri Lanka Tamil State Party MP, met with Indian High Commissioner Santosh Ja in Colombo. They discussed Sri Lanka's political situation, India's development projects in Sri Lanka's North and East, and economic cooperation. Santosh Ja emphasized India's ongoing commitment to the region.
 
-இலங்கையின் தற்கால அரசியல் நிலவரம், வடக்கு, கிழக்கு அடங்கலாக இலங்கையில் இந்தியா முன்னெடுக்கும் அபிவிருத்தித் திட்டங்கள், பொருளாதார ஒத்துழைப்புத் திட்டங்களை மையப்படுத்திய விடயங்கள் தொடர்பில் இந்த சந்திப்பின் போது கலந்துரையாடப்பட்டதாக அதில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-பிராந்திய மக்களுக்காக, இந்தியாவின் தொடர்ச்சியான அர்ப்பணிப்பை இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா இதன்போது வலியுறுத்தியுள்ளார் என இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தின் எக்ஸ் பக்கத்தில் குறிப்பிடப்பட்டுள்ளது. (a)
+Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil State Party, met with Indian High Commissioner to Sri Lanka Santosh Ja in Colombo yesterday.
+
+It was discussed during the meeting that the current political situation in Sri Lanka, the development of India in Sri Lanka, including the North and East, and the focus of economic cooperation.
+
+Indian High Commissioner Santosh Ja has stressed the continuous commitment of India for the regional people, said the X on the X page of the Indian High Commission in Sri Lanka.. (A)
 
 ◼️
 
 [Data](articles/25a062d7.json)
+
+[Extended Data](ext_articles/25a062d7.ext.json)
 
 ---
 
@@ -2173,49 +2219,5 @@ Application programming interfaces (API) using WSO2 for management, coordination
 [Data](articles/1f7d710b.json)
 
 [Extended Data](ext_articles/1f7d710b.ext.json)
-
----
-
-### Public assistance sought to gather info on Sri Lankan military veterans fighting in Russia-Ukraine war
-
-*2024-05-10 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99131/public-assistance-sought-to-gather-info-on-sri-lankan-military-veterans-fighting-in-russia-ukraine-war-) · `en`
-
-The Sri Lankan military veterans, who had illegally joined Russian mercenaries and subsequently escaped from such groups in the conflict zones to returned to the island, claim that around 1,000 Sri Lankans are currently fighting in the Ukraine –Russia warfront.
-
-However, the Criminal Investigation Department (CID) pointed out that the relevant figures cannot be confirmed, since the investigations are still underway regarding the identities of these individuals.
-
-Against this backdrop, ASP of the CID’s Human Trafficking, Smuggling, and Maritime Crimes Division, Harendra Jayakantha urged the relatives of the individuals who have left the country to join the Russian army, to provide information regarding them through the contact number, 071-8592831.
-
-Following the investigations by the Criminal Investigation Department (CID), it has only been confirmed that 114 Sri Lankan soldiers and ex-soldiers have left the country to join the Ukrainian army.
-
-...
-
-[Data](articles/39bbf51d.json)
-
-[Extended Data](ext_articles/39bbf51d.ext.json)
-
----
-
-### Roads in Badulla
-
-*2024-05-10 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196477) · `si`
-
-An accident at Dehiattakandiya Depot, near Badulla, involved a three-wheeler from an opposing district. It occurred around 10 am, resulting in one death and four injuries. Residents express concern over frequent accidents in the area.
-
-🟩
-
-An accident occurred at the Dehiattakandiya Depot, Viribura to Badulla and a three-wheeler from the opposing opposite district.
-
-Our correspondent stated that the accident had occurred around 10 am today.
-
-One of the deaths in the three-wheeler, four deaths were wounded, Badulla police said.
-
-Residents say that such accidents are underway to maintain a plumber maintain in the area near the accident.
-
-◼️
-
-[Data](articles/348df271.json)
-
-[Extended Data](ext_articles/348df271.ext.json)
 
 ---

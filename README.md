@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 15:52:11**
+As of **2024-05-11 16:04:14**
 
 ## Newspaper Stats
 
-*Scraped **23,343** Articles*
+*Scraped **23,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,344
 dailyftlk | 1,356
 adalk | 1,978
 tamilmirrorlk | 2,730
-adaderanalk | 2,730
-virakesarilk | 3,474
+adaderanalk | 2,731
+virakesarilk | 3,476
 dailymirrorlk | 3,673
 adaderanasinhalalk | 3,740
 
@@ -26,27 +26,75 @@ adaderanasinhalalk | 3,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,342 (100.0%) of 23,343 articles have been extended.
+23,343 (100.0%) of 23,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### පළාත් කිහිපයක ජනතාවට අනතුරු ඇඟවීමක්
+### Advisory issued over thundershowers and severe lightning
+
+*2024-05-11 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99148/advisory-issued-over-thundershowers-and-severe-lightning) · `en`
+
+The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts today (11).
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, North-western, Uva and North-central provinces and in Mannar and Vavuniya districts, it said.
+
+There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/0d79396f.json)
+
+---
+
+### A warning to the people of several provinces
 
 *2024-05-11 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196511) · `si`
 
-ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of strong lightning in Western, Sabaragamuwa, Southern, Uva, and North Central provinces. The public is advised to stay alert due to temporary strong winds in these areas. The warning is in effect until 11:30 pm today.
 
-බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, ඌව සහ උතුරු මැද පළාත්වලත් මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලත් අද (11) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි අවදානමක් පවතින බව එම නිවේදනයේ දැක්වෙයි.
+🟩
 
-එම ප්‍රදේශවල ජනතාවට විමසිලිමත් වන ලෙසත් ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බව ද අදාළ නිවේදනයේ තවදුරටත් දැක්වෙයි.
+The Department of Meteorology has issued an announcement of strong lightning.
 
-එම නිවේදනය අද (11) රාත්‍රී 11.30 වෙනතුරු වලංගු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The statement states that there is a risk of striking lightning at the Western, Sabaragamuwa, Southern, Uva and North Central provinces.
+
+The public is also temporarily strong in these areas to be alert to the people of these areas and have a temporary winds in those areas.
+
+The announcement is valid until 11.30 pm today (11).
 
 ◼️
 
 [Data](articles/53a4ebc5.json)
+
+[Extended Data](ext_articles/53a4ebc5.ext.json)
+
+---
+
+### ஜப்பானில் பாண் பக்கற்றுக்களில் எலியின் உடற் பாகங்கள்
+
+*2024-05-11 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183243) · `ta`
+
+ஜப்பானில் பாண் பக்கற்றுக்கள் இரண்டினுள் எலியின் உடற் பாகங்கள்  கண்டுபிடிக்கப்பட்டுள்ளன. பின்னர், உடனடியாக 100,000க்கும் மேற்பட்ட துண்டுகளாக்கப்பட்ட பாண் பொதிகள் திரும்பப் பெறப்பட்டுள்ளன.
+
+சுகாதார வழிமுறைகளை கடுமையாக பின்பற்றும் நாடுகளில் ஒன்றான ஜப்பானில் உணவுகளை திரும்பப் பெறுவது அரிதான ஒரு விடயமாகும்.
+
+"பாண் பொதிக்குள் எவ்வாறு எலியின் உடற் பாகங்கள்  ஊடுருவின என்பதை ஆராய்ந்து வருகிறோம்.
+
+ஜப்பானிய காலை உணவுகளில் பிரதான இடத்தை பிடித்துள்ள வெள்ளை சோஜுகு பாணை உட்கொண்டு யாரும் நோய்வாய்ப்பட்டதாக இதுவரை எந்த சம்பவமும் பதிவாகவில்லை.
+
+எங்கள் வாடிக்கையாளர்களுக்கு அசௌகரியத்தை ஏற்படுத்தியமைக்காக நாங்கள் மன்னிப்பு கோர விரும்புகிறோம்" என குறிப்பிட்டுள்ளது.
+
+டோக்கியோவில் உள்ள ஒரு தொழிற்சாலையில் பாஸ்கோ பாண் தயாரிக்கப்படுகிறது. இந்நிலையில், கடந்த புதன்கிழமை இரண்டு பாண் பொதிக்குள் கருப்பு எலியின் பாகங்கள் காணப்பட்டதை நிறுவனம் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2a436353.json)
 
 ---
 
@@ -111,6 +159,22 @@ It is noteworthy that the student who was assaulted in the dispute was arrested 
 [Data](articles/95b3bf9b.json)
 
 [Extended Data](ext_articles/95b3bf9b.ext.json)
+
+---
+
+### யாழில் மின்னல் தாக்கி ஒருவர் காயம்
+
+*2024-05-11 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183244) · `ta`
+
+யாழ்ப்பாணம் - உடுவில் பகுதியில் மின்னல் தாக்கத்திற்கு உள்ளாகி தென்னை மரம் ஒன்று தீ பற்றி எரிந்துள்ளதுடன் , நபர் ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணத்தில் கடந்த சில வாரங்களாக கடும் வெப்பமான கால நிலை நிலவி வரும் நிலையில் நேற்று வெள்ளிக்கிழமை (10) உடுவில் பகுதியில் இடி மின்னலுடன் மழை பொழிந்துள்ளது.
+
+அதன்போது, மின்னல் தாக்கத்தால் வீடொன்றில் இருந்த தென்னை மரம் தீ பற்றி எரிந்துள்ளதோடு, நபர் ஒருவரும் காயமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/b81d5ffa.json)
 
 ---
 
@@ -2185,53 +2249,5 @@ Sri Lanka is battling with the current crisis because of irresponsible borrowing
 [Data](articles/75bbbde7.json)
 
 [Extended Data](ext_articles/75bbbde7.ext.json)
-
----
-
-### ‘Keeping humanity alive’: World Red Cross and Red Crescent Day 2024
-
-*2024-05-10 23:21:17* · [`dailyftlk`](https://www.ft.lk/news/Keeping-humanity-alive-World-Red-Cross-and-Red-Crescent-Day-2024/56-761645) · `en`
-
-World Red Cross and Red Crescent Day marked on 8 May is of significance and reflection, honouring the legacy of Henry Dunant, the founder of the Red Cross and Red Crescent Movement, and the Movement’s enduring commitment to humanitarian action for over 160 years. This year’s theme “Keeping humanity alive” resonates deeply with the spirit of the Red Cross and Red Crescent Movement in a world inundated by armed conflict and violence, natural disasters, climate-related crises, epidemics, food insecurity and mass displacement.
-
-...
-
-[Data](articles/daba45fe.json)
-
-[Extended Data](ext_articles/daba45fe.ext.json)
-
----
-
-### High Commissioner’s visit underscores India’s special relationship with Eastern Province
-
-*2024-05-10 23:20:12* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-s-visit-underscores-India-s-special-relationship-with-Eastern-Province/56-761644) · `en`
-
-High Commissioner of India Santosh Jha undertook an official visit to Eastern Province, covering all the three districts, from 1-4 May.
-
-He met Eastern Province Governor Senthil Thondaman and interacted with several MPs representing the three districts of the province during the visit. In addition, he took stock of several projects being implemented by the Government of India (GOI) for the people of the province and visited various sites of historical, cultural and commercial significance.
-
-...
-
-[Data](articles/31c3bc79.json)
-
-[Extended Data](ext_articles/31c3bc79.ext.json)
-
----
-
-### Japan and UN Women unite to advance women, peace and security agenda in Sri Lanka
-
-*2024-05-10 23:19:07* · [`dailyftlk`](https://www.ft.lk/news/Japan-and-UN-Women-unite-to-advance-women-peace-and-security-agenda-in-Sri-Lanka/56-761643) · `en`
-
-The Government of Japan and UN Women launched the project “Pathways to Peace” aimed at strengthening women’s economic empowerment and their leadership in peacebuilding and conflict prevention in Sri Lanka.
-
-It aims to support the implementation of the National Action Plan (NAP) on Women, Peace and Security (WPS) which the Government of Japan has been assisting Sri Lanka with since 2018 as its partner country.
-
-In February 2023, Sri Lanka adopted its first NAP on WPS, in keeping with its international obligations under UN Security Council Resolution 1325 (2000). The development of this Plan was led by Sri Lanka’s Ministry of Women, Child Affairs, and Social Empowerment, with technical support from UN Women and with funding from the Government of Japan.
-
-...
-
-[Data](articles/d1299861.json)
-
-[Extended Data](ext_articles/d1299861.ext.json)
 
 ---

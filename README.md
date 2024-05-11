@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 21:52:33**
+As of **2024-05-11 22:04:19**
 
 ## Newspaper Stats
 
-*Scraped **23,369** Articles*
+*Scraped **23,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
 tamilmirrorlk | 2,732
-adaderanalk | 2,735
+adaderanalk | 2,736
 virakesarilk | 3,476
 dailymirrorlk | 3,678
 adaderanasinhalalk | 3,750
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,369 (100.0%) of 23,369 articles have been extended.
+23,369 (100.0%) of 23,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Sri Lankan-born baker Tharshan Selvarajah to carry Olympic torch in France
+
+*2024-05-11 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99154/sri-lankan-born-baker-tharshan-selvarajah-to-carry-olympic-torch-in-france) · `en`
+
+As the Olympic flame touched down in France from Greece, excitement brewed for the relay involving 10,000 torchbearers, representing diverse stories of achievement. Among them shines a Paris-based, Sri Lankan-born baker Tharshan Selvarajah who only arrived in France for the first time in 2006.
+
+Known for his award-winning baguettes, he makes history as the first Sri Lankan torchbearer in the annals of the Olympic Games.
+
+In 2023, the winner of the “Grand Prize of the Traditional French Baguette,” organized by the Paris City Hall, was the baguette made by Tharshan Selvarajah, after which he received the opportunity to supply baguettes to France’s presidential palace.
+
+◼️
+
+[Data](articles/ba220527.json)
+
+---
 
 ### India’s opposition jubilant as Modi critic Kejriwal gets bail to campaign in elections
 
@@ -2315,25 +2331,5 @@ The BASL noted that there are five vacancies to date and said the situation meri
 [Data](articles/de0a90ba.json)
 
 [Extended Data](ext_articles/de0a90ba.ext.json)
-
----
-
-### Mujibur sworn in as National List MP
-
-*2024-05-11 00:57:47* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-sworn-in-as-National-List-MP/56-761673) · `en`
-
-Samagi Jana Balawegaya (SJB) member, Mujibur Rahman was sworn in yesterday as a National List Member of Parliament before Speaker of House Mahinda Yapa Abeywardena.
-
-The SJB had decided to nominate former MP Rahman to fill the National List MP position left vacant by the disqualification of former State Minister Diana Gamage from holding a Parliamentary seat.
-
-The Supreme Court on Wednesday declared that Gamage is not legally qualified to hold a Parliamentary seat.
-
-The Secretary-General of Parliament informed the Election Commission that a Parliamentary seat in the Ninth Parliament has become vacant from 8 May 2024, due to the cancellation of Parliamentary seat of Gamage.
-
-...
-
-[Data](articles/52df4a67.json)
-
-[Extended Data](ext_articles/52df4a67.ext.json)
 
 ---

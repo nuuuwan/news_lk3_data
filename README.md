@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 17:33:56**
+As of **2024-05-11 17:54:21**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,352 (100.0%) of 23,356 articles have been extended.
+23,356 (100.0%) of 23,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### சேமிப்பு வட்டி வீதம் தொடர்பில் ஆராய்வு
+### Investment in connection with the interest rate
 
 *2024-05-11 17:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேமிப்பு-வட்டி-வீதம்-தொடர்பில்-ஆராய்வு/175-337126) · `ta`
 
-சிரேஷ்ட பிரஜைகளின் சேமிப்பு வட்டி வீதத்தினை அதிகரிக்குமாறு முன்வைக்கப்பட்டுள்ள கோரிக்கை தொடர்பில், தற்போதைய பொருளாதார நிலைமையையும் அடிப்படையாகக் கொண்டு மதிப்பாய்வு செய்து அறிக்கை சமர்ப்பிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க ஆலோசனை வழங்கியுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya announced President Ranil Wickremesinghe's directive to assess the economic situation and the demand for higher interest rates for senior citizens' savings. The President advised a deep review to determine how to address the issue amidst the country's economic crises, including the Treasury's Rs 105 billion loan for previous interest rates. The report will investigate the varying demands for interest rates across different age groups.
 
-சேமிப்புக் கணக்குகளைப் பேணும் சகல சிரேஷ்ட பிரஜைகளுக்கும் அவர்கள் கோரும் வட்டி வீதத்தை வழங்கினால் வருடத்துக்கு 80 பில்லியன் ரூபாய் தேவைப்படும்.
+🟩
 
-இதற்கு முன்னர் செலுத்திய வட்டி வீதத்துக்காக திறைசேரிக்கு 105 பில்லியன் கடன் காணப்படுகிறது.
+Finance Minister Ranjith Siyambalapitiya said that President Ranil Wickremesinghe has advised to submit a report on the basis of the current economic situation on the demand for senior citizens to increase interest rate.
 
-எனவே இந்த கோரிக்கைகள் தொடர்பில் பொறுப்புடன் ஆழமாக மதிப்பாய்வு செய்து அறிக்கை சமர்ப்பிக்குமாறு ஜனாதிபதி ஆலோசனை வழங்கியுள்ளார்.
+All senior citizens who maintain savings accounts will require 80 billion rupees per year if they provide interest rate.
 
-நாட்டில் தற்போதுள்ள பொருளாதார நெருக்கடிகளுக்கு மத்தியில் எவ்வாறு இவ்விடயம் தொடர்பில் தீர்மானிப்பது என்பது குறித்து ஆராயுமாறு ஜனாதிபதி ஆலோசனை வழங்கியுள்ளார்.
+Treasury has a loan of Rs 105 billion for the earlier interest rate.
 
-எனவே பல்வேறு வயதினருக்கான வட்டி வீதங்கள் தொடர்பாக கிடைக்கப்பெற்ற பல்வேறு கோரிக்கைகள் தொடர்பில் ஆராயப்படவுள்ளது என்றார்.  R
+Therefore, the President has advised to submit a report in a deep review of these demands.
+
+The President has advised to investigate how to decide on the issue amidst the current economic crises in the country.
+
+Therefore, the various demands for the interest rates of various ages will be investigated.R
 
 ◼️
 
 [Data](articles/4bcff9f9.json)
+
+[Extended Data](ext_articles/4bcff9f9.ext.json)
 
 ---
 
@@ -118,6 +124,8 @@ According to the Bill which was presented to the House by Leader of the House Su
 
 [Data](articles/41a4d98a.json)
 
+[Extended Data](ext_articles/41a4d98a.ext.json)
+
 ---
 
 ### State officials can become monks in Thailand
@@ -133,6 +141,8 @@ The Buddhist Religious and Cultural Affairs Ministry says that the programme wil
 ◼️
 
 [Data](articles/71cd8211.json)
+
+[Extended Data](ext_articles/71cd8211.ext.json)
 
 ---
 
@@ -173,6 +183,8 @@ The Lotus Tower Management requested the public to witness the event.
 ◼️
 
 [Data](articles/c7743cfd.json)
+
+[Extended Data](ext_articles/c7743cfd.ext.json)
 
 ---
 

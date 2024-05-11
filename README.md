@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 17:18:22**
+As of **2024-05-11 17:33:56**
 
 ## Newspaper Stats
 
-*Scraped **23,352** Articles*
+*Scraped **23,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,71 @@ islandlk | 1,263
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
-tamilmirrorlk | 2,730
+tamilmirrorlk | 2,731
 adaderanalk | 2,731
 virakesarilk | 3,476
-dailymirrorlk | 3,673
+dailymirrorlk | 3,676
 adaderanasinhalalk | 3,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,350 (100.0%) of 23,352 articles have been extended.
+23,352 (100.0%) of 23,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### බලංගොඩ බිහිසුණු අනතුරකින් සිසුවියකට බරපතළයි
+### சேமிப்பு வட்டி வீதம் தொடர்பில் ஆராய்வு
+
+*2024-05-11 17:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேமிப்பு-வட்டி-வீதம்-தொடர்பில்-ஆராய்வு/175-337126) · `ta`
+
+சிரேஷ்ட பிரஜைகளின் சேமிப்பு வட்டி வீதத்தினை அதிகரிக்குமாறு முன்வைக்கப்பட்டுள்ள கோரிக்கை தொடர்பில், தற்போதைய பொருளாதார நிலைமையையும் அடிப்படையாகக் கொண்டு மதிப்பாய்வு செய்து அறிக்கை சமர்ப்பிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க ஆலோசனை வழங்கியுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி தெரிவித்தார்.
+
+சேமிப்புக் கணக்குகளைப் பேணும் சகல சிரேஷ்ட பிரஜைகளுக்கும் அவர்கள் கோரும் வட்டி வீதத்தை வழங்கினால் வருடத்துக்கு 80 பில்லியன் ரூபாய் தேவைப்படும்.
+
+இதற்கு முன்னர் செலுத்திய வட்டி வீதத்துக்காக திறைசேரிக்கு 105 பில்லியன் கடன் காணப்படுகிறது.
+
+எனவே இந்த கோரிக்கைகள் தொடர்பில் பொறுப்புடன் ஆழமாக மதிப்பாய்வு செய்து அறிக்கை சமர்ப்பிக்குமாறு ஜனாதிபதி ஆலோசனை வழங்கியுள்ளார்.
+
+நாட்டில் தற்போதுள்ள பொருளாதார நெருக்கடிகளுக்கு மத்தியில் எவ்வாறு இவ்விடயம் தொடர்பில் தீர்மானிப்பது என்பது குறித்து ஆராயுமாறு ஜனாதிபதி ஆலோசனை வழங்கியுள்ளார்.
+
+எனவே பல்வேறு வயதினருக்கான வட்டி வீதங்கள் தொடர்பாக கிடைக்கப்பெற்ற பல்வேறு கோரிக்கைகள் தொடர்பில் ஆராயப்படவுள்ளது என்றார்.  R
+
+◼️
+
+[Data](articles/4bcff9f9.json)
+
+---
+
+### Students are serious from a terrible accident in Balangoda
 
 *2024-05-11 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196515) · `si`
 
-බලංගොඩ වැලිගෙපොළ මාර්ගයේ සිදුවූ රිය අනතුරකින් සාමාන්‍ය පෙළ විභාගය නිමවා නිවස බලා යමින් සිටි සිසුවියක් බරපතළ තුවා ලබා රෝහල්ගත කර තිබේ.
+A student was seriously injured in a car accident on Weligepola road, Balangoda, after a collision with a private bus. The student, who was traveling to their house, was hospitalized with severe injuries to their neck and face. Due to the severity of their condition, they were transferred from Balangoda Base Hospital to Ratnapura Provincial Hospital. The accident was caused by the reckless driving of a tipper driver transporting dangerous goods. Both the bus and tipper drivers were arrested by the Balangoda Police.
 
-මාර්ගයේ ධාවනය වෙමින් තිබූ මගී ප්‍රවාහන පෞද්ගලික බස් රථයකට, ප්‍රතිවිරුද්ධ දිශාවෙන් ධාවනය වූ ටිපර් රථයක තිබූ යකඩ බට අතරින් කිහිපයක් අදාළ බස් රථය තුළට විසිවීමෙන් අනතුර සිදුවී ඇත.
+🟩
 
-සිද්ධියෙන් බස් රථයේ සිටි සිසුවියකගේ ගෙල සහ මුහුණ ප්‍රදේශයට බරපතළ තුවාල සිදුවී ඇති අතර ඇය බලංගොඩ මූලික රෝහලට ඇතුළත් කර තිබේ.
+A student who was traveling to the house was taken into hospitalized after a landing of a car accident in the Weligepola road.
 
-ඇයගේ තත්ත්වය බරපතළ බැවින් වැඩිදුර ප්‍රතිකාර සඳහා රත්නපුර පළාත් රෝහල වෙත මාරු කර යවා ඇත.
+A private bus traveling on the road, a private bus traveling in the opposite direction, was thrown into the bus.
 
-ඉඔුලාමුර ප්‍රදේශයේ සිට බලංගොඩ නගරය දක්වා ධාවනය වෙමින් තිබු  එම බස් රථය සහ බලංගොඩ සිට වැලිගෙපොළ දෙසට ධාවනය වෙමින් තිබු යකඩ බට සහිත ⁣ටිපර් රථය එකිනෙක පසුවෙන අවස්ථාවේදී මෙම අනතුර සිදුවී තිබේ.
+The neck and face area of the bus has been seriously injured and admitted to the Balangoda Base Hospital.
 
-පොලීසිය සඳහන් කළේ ටිපර් රථ රියදුරුගේ අපරික්ෂාකාරි රිය ධාවනය  සහ අනතුරුදායක ලෙස භාණ්ඩ ප්‍රවාහනය හේතුවෙන් මෙම අනතුර  සිදුවී ඇති බවය.
+Since her condition is serious, the hospital has been transferred to the Ratnapura Provincial Hospital.
 
-අනතුර සම්බන්ධයෙන් බස් රථයේ සහ ටිපර් රථයේ රියදුරන් දෙදෙනා  බලංගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The accident occurred at the bus and Balangoda to Balangoda to Balangoda to Balangoda to the Weligepola.
+
+The accident had occurred due to the transportation of the tipper driver's unrespective driving and dangerous goods.
+
+The bus and tipper drivers were arrested by the Balangoda Police.
 
 ◼️
 
 [Data](articles/89a2c807.json)
+
+[Extended Data](ext_articles/89a2c807.ext.json)
 
 ---
 
@@ -73,6 +101,38 @@ The Western economic sanctions have already prevented Russian tourists from usi
 ...
 
 [Data](articles/94e87eba.json)
+
+[Extended Data](ext_articles/94e87eba.ext.json)
+
+---
+
+### New legislation to prevent sharing of false information over telephones
+
+*2024-05-11 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-legislation-to-prevent-sharing-of-false-information-over-telephones/108-282391) · `en`
+
+Colombo, May 11 (Daily Mirror)- The Sri Lanka Telecommunications (Amendment) Bill which seeks to penalize those who share false information over the telephone and cause public commotion was presented to Parliament.
+
+According to the Bill which was presented to the House by Leader of the House Susil Premajayayantha, a person who persistently makes telephone calls, or sends, transmits messages, publishes, sends or transmits phone numbers of other subscribers without reasonable excuse for the purpose of causing annoyance, inconvenience or needless anxiety to any telecommunication officer or any person, on conviction will be subjected to a fine not exceeding rupees hundred thousand. There is also a provision to disconnect telephone connections of a person who commits such offences.
+
+...
+
+[Data](articles/41a4d98a.json)
+
+---
+
+### State officials can become monks in Thailand
+
+*2024-05-11 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-officials-can-become-monks-in-Thailand/108-282395) · `en`
+
+The government has decided to implement a referral programme for state officials to become monks in Thailand, the Buddhist Religious and Cultural Affairs Ministry said.
+
+Accordingly, the Thailand Government has planned to implement a special temporary monastic programme for the Sri Lankan community to improve the local religious and cultural relations between the two countries in view of the birthday of the King of Thailand.
+
+The Buddhist Religious and Cultural Affairs Ministry says that the programme will be held in Thailand for 15 days.
+
+◼️
+
+[Data](articles/71cd8211.json)
 
 ---
 
@@ -97,6 +157,22 @@ The suspected corporal has revealed that he was addicted to the suspicious heroi
 [Data](articles/ef051a51.json)
 
 [Extended Data](ext_articles/ef051a51.ext.json)
+
+---
+
+### Three day Base Jump from Lotus Tower
+
+*2024-05-11 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-day-Base-Jump-from-Lotus-Tower/108-282394) · `en`
+
+The Colombo Lotus Tower Management Company (Private) Limited announced the Base Jump happening at Colombo Lotus Tower for three days from tomorrow.
+
+They said 35 International Base Jumpers will exhibit the adrenaline-fueled skills.
+
+The Lotus Tower Management requested the public to witness the event.
+
+◼️
+
+[Data](articles/c7743cfd.json)
 
 ---
 
@@ -2213,81 +2289,5 @@ Sri Lanka Girl Guides Association (SLGGA) has plans to host an International Cam
 [Data](articles/6f02ea3e.json)
 
 [Extended Data](ext_articles/6f02ea3e.ext.json)
-
----
-
-### Effectiveness Of Lanka’s Legal System And Challenges That Lie Ahead
-
-*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Effectiveness-Of-Lankas-Legal-System-And-Challenges-That-Lie-Ahead/172-282339) · `en`
-
-An anti-corruption march to mark World Anti-Corruption Day by civil society organizations.
-
-In November 2023, Singapore‘s Transport Minister was arrested in  connection with a top-level corruption probe that ensnared a billionaire  hotel tycoon. Singapore has a powerful anti-grafts body and 61  –year-old S. Iswaran was arrested as part of an investigation
-
-This fact was patently clear on many occasions in several incidents. In November 2023, the Supreme Court ordered Acting IGP Deshabandu Tennakoon and  three others including two police officers to pay a compensation of Rs.  2 million out of their funds to the petitioner, a former army soldier
-
-Daily Mirror dated 16.4.2024 reported that Marie Antonia von Schonburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka has raised the issue of Effectiveness in Sri Lanka’s legal system due to perceived corruption in the country.
-
-...
-
-[Data](articles/906c1faa.json)
-
-[Extended Data](ext_articles/906c1faa.ext.json)
-
----
-
-### ‘The best time to plant a tree was 25 years ago, the second best is today’
-
-*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-best-time-to-plant-a-tree-was-25-years-ago-the-second-best-is-today/172-282335) · `en`
-
-While President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna Government has pulled Sri Lanka out of one of its worst-ever economic crises, the Government also needs to give special attention to issues such as plant health. Most village folk give much-needed attention to plant health despite problems such as shortage of fertiliser; but city folk generally do not bother much about plant health as they consider planting a tree to be the job of a servant. But good citizens need to be concerned about plant health and related issues because our health and the health of our planet depend on plants.
-
-On Sunday, May 12, the United Nations (UN) marks International Day of Plant Health, with the focus being to raise global awareness on how protecting plant health can help end hunger, reduce poverty, protect biodiversity and the environment, and boost economic development.
-
-...
-
-[Data](articles/923b8ddd.json)
-
-[Extended Data](ext_articles/923b8ddd.ext.json)
-
----
-
-### Will the approaching elections be free and fair?
-
-*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-the-approaching-elections-be-free-and-fair/172-282337) · `en`
-
-What is the significance of the Election Commission’s (EC) announcement on Thursday that the next presidential election would be held between September 17 and October 16? It is a well-known fact to those who know the relevant Article of the Constitution. It would have only been relevant if the EC had announced the exact date for the election.
-
-Although President Ranil Wickremesinghe has not declared his candidature for the forthcoming Presidential election, it is clear he has commenced his election campaign through vote-catching activities in various sectors, providing the voters with various goodies and freebies.
-
-If we are going by a recent communication by the election monitoring body, the People’s Action for Free and Fair Elections (PAFFREL) to the Elections Commission (EC), what is shameful in this exercise is the President’s party, the United National Party (UNP) using public funds for these activities, abusing the powers of the President’s office.
-
-...
-
-[Data](articles/e966b315.json)
-
-[Extended Data](ext_articles/e966b315.ext.json)
-
----
-
-### 2024-05-10 (Friday)
-
-### Battery-operated toys pose risks to kids
-
-*2024-05-10 23:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Battery-operated-toys-pose-risks-to-kids/108-282344) · `en`
-
-Colombo, May 10 - Battery operated toys sold in the market are harmful to children, Government Medical Officers' Association (GMOA) Assistant Secretary Dr. Palitha Rajapaksa said.
-
-Since these toys contain lithium, silver oxide and alkaline button batteries, children can swallow them, put them in their ears or noses, and if children swallow these batteries, it can even be fatal to the child through the electrochemical activities.
-
-The first part of the alimentary canal (the esophagus) is naturally narrow, and the maximum damage can occur when these are swallowed, and the submerged battery can travel to the stomach and cause severe damage, Dr. Rajapaksa said.
-
-He also said that even the stomach can be fatally damaged through this, and even life can be lost due to the blockage of the respiratory tract.
-
-...
-
-[Data](articles/4d46e477.json)
-
-[Extended Data](ext_articles/4d46e477.ext.json)
 
 ---

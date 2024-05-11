@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 10:33:41**
+As of **2024-05-11 10:51:42**
 
 ## Newspaper Stats
 
-*Scraped **23,300** Articles*
+*Scraped **23,303** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
-bbccomsinhala | 242
+bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
 islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
-adaderanalk | 2,725
+adaderanalk | 2,726
 tamilmirrorlk | 2,727
 virakesarilk | 3,466
-dailymirrorlk | 3,665
+dailymirrorlk | 3,666
 adaderanasinhalalk | 3,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,300 (100.0%) of 23,300 articles have been extended.
+23,300 (100.0%) of 23,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Not only on-arrival visas but online visas too should be stopped
+
+*2024-05-11 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-only-on-arrival-visas-but-online-visas-too-should-be-stopped/108-282383) · `en`
+
+Colombo, May 11 (Daily Mirror) - Not only the on-arrival visa but the online visa system too should be stopped, as it already affects the number of foreigners who usually arrive in the country, a senior official of the Immigration and Emigration Department said.
+
+The official who refused to reveal his identity told the Daily Mirror that due to the above online system issues, a significant reduction in tourists can be seen when visiting the arrival and departure lounge at the Bandaranaike International Airport Katunayake.
+
+"Some foreigners used to visit our country for business purposes, but this has been reduced. The Tourism Ministry has a target of developing the tourism sector of the country, but with the new system it has become only a target.
+
+"The under-hand transactions of this on-arrival and online visa system are completely politicised," he said.
+
+According to the official, not only politicians but country leaders are also involved.
+
+...
+
+[Data](articles/566e819b.json)
+
+---
+
+### Debt owed by Pakistan, Sri Lanka and Bangladesh to China rise to record levels: Data
+
+*2024-05-11 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99143/debt-owed-by-pakistan-sri-lanka-and-bangladesh-to-china-rise-to-record-levels-data) · `en`
+
+Debt owed by various countries, especially in South Asia and Africa, to China has multiplied in recent years. China is either the sole or the major lender for the majority of these countries. In other words, these nations owe a large share of their external debt only to China.
+
+Only the top 20 countries that owe the most debt to China in absolute terms in 2022 are depicted. External debt stock is the debt owed by a country to non-residents repayable in currency, goods, or services. It is the sum of all public, publicly guaranteed, and private non-guaranteed long-term debt, and short term debts.
+
+...
+
+[Data](articles/53f89c41.json)
+
+---
 
 ### Decision to be reached on interest rates for senior citizens’ savings
 
@@ -489,6 +523,28 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 [Data](articles/4f4e98b4.json)
 
 [Extended Data](ext_articles/4f4e98b4.ext.json)
+
+---
+
+### සර්කස් පැසිපියා: පරම්පරා ගණනක් ශ්‍රී ලාංකිකයින් පුදුම කරවූ 'සැබෑ සර්කස්කාරයින්' රටට අහිමි වෙයි ද?
+
+*2024-05-11 03:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lpk48plvo) · `si`
+
+සර්කස් පැසිපියා: පරම්පරා ගණනක් ශ්‍රී ලාංකිකයින් පුදුම කරවූ 'සැබෑ සර්කස්කාරයින්' රටට අහිමි වෙයි ද?
+
+'පැසිපියා' යන නම ඇසූ පමණින් බොහෝ දෙනෙකුගේ මතකයට නැගෙන්නේ 'සර්කස්' කණ්ඩායමකි.
+
+දශක ගණනාවක් පුරා ශ්‍රී ලංකාවේ පරම්පරා ගණනාවක් නියෝජනය කළ ජනතාව පුදුමයට පත් කරවමින් සර්කස් පෙන්නූ 'සර්කස් පැසිපියා' තවමත් සංදර්ශන පවත්වයි.
+
+පරම්පරා ගණනාවක ජනතාව අමන්දානන්දයට පත් කළ, තවමත් 'සර්කස් පෙන්වන' සර්කස් පැසිපියා වත්මන් හිමිකරු වන නිරෝෂන් කපුගීකියනගේ හමුවීමට අපි මතුගම, අගලවත්තට ගියෙමු.
+
+දශක ගණනක් අතීතයට දිවෙන සර්කස් පැසිපියා ආරම්භය ගැන එහි වත්මන් හිමිකරු සමග කළ සාකච්ඡාවකින් සකස් කළ වාර්තාවකි මේ.
+
+"අපේ සීයා තමයි මුලින් ම මේක පටන් ගන්න මුල් වුණේ. කේ.ජී. සුගතදාස තමයි මගේ සීයා. 1940 ගණන්වල කපුගම දේවාලේ මංගල්‍යය කාලයට පිනුම්කරුවෙක් විදිහට තමයි සීයා මුලින් ම කටයුතු කරලා තියෙන්නේ. ඒ පිනුම්කරුවන් විදිහට අලුත්ගම කරුණාසේන, කුඩලිගම කළුආරච්චි, දොඩංගොඩ පබිලිස් කියලා කීප දෙනෙක් ඉඳලා තියෙනවා. ඒ තුන් දෙනා යි මගේ සීයායි තමයි සර්කස් පැසිපියා පටන් අරන් තියෙන්නේ," නිරෝෂන් කපුගීකියන ඔහු දන්නා ඉතිහාසය අනාවරණය කළේ ය.
+
+...
+
+[Data](articles/61016f9c.json)
 
 ---
 
@@ -2129,73 +2185,5 @@ However, he had not included the squad for the incident, however, expected to pa
 [Data](articles/ae08251c.json)
 
 [Extended Data](ext_articles/ae08251c.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 299.00/30 to US dollar
-
-*2024-05-10 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-00-30-to-us-dollar-162551/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 299.00/30 to the US dollar on Friday from 298.65/80 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 10.40/55 percent from 10.60/65 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.70/85 percent from 10.90/11.00 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.15/25 percent 11.35/45 percent.
-
-A bond maturing on 15.05.2030 closed down at 11.90/12.05 percent 12.05/15 percent.
-
-A bond maturing on 01.10.2032 closed down at 12.10/20 percent from 12.25/35 percent. (Colombo/May10/2024)
-
-◼️
-
-[Data](articles/696599ec.json)
-
-[Extended Data](ext_articles/696599ec.ext.json)
-
----
-
-### Fire at special treatment unit at Walasmulla Base Hospital
-
-*2024-05-10 16:47:19* · [`adalk`](https://www.ada.lk/breaking_news/අකුණක්-වැදී-වලස්මුල්ල-මූලික-රෝහලේ-විශේෂිත-ප්‍රතිකාර-ඒකකයේ-ගින්නක්/11-409550) · `si`
-
-A fire damaged a special treatment unit at Walasmulla Base Hospital, caused by lightning and heavy rains. Three patients were receiving treatment when the fire occurred. The hospital's equipment was damaged, but officials are working to ensure proper treatment continues.
-
-🟩
-
-A fire broke out at a special treatment unit at Walasmulla Base Hospital with inclement weather and heavy rains.
-
-At that time, three patients who were receiving treatment at the division have taken steps to carry out the necessary treatment properly.
-
-Walasmulla Base Hospital officials say they have been damaged by lightning, but its equipment damaged
-
-◼️
-
-[Data](articles/b5e85d79.json)
-
-[Extended Data](ext_articles/b5e85d79.ext.json)
-
----
-
-### Nungu Festival held in Mannar
-
-*2024-05-10 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183172) · `ta`
-
-The Nungu Festival in Mannar, sponsored by the Vanni Soil Foundation, highlighted the importance of palm trees and featured local producers. District Secretariat Officers attended, emphasizing the event's focus on environmental awareness.
-
-🟩
-
-The Nungu ceremony was held in Mannar today (10) at 10.30 am with the implementation of the Local Manufacturers Store of the Mannar District with the sponsorship of the Vanni Soil Foundation.
-
-A special feature is that the District Secretariat Officers of the Mannar District Secretariat, located in the Mannar District Secretariat Complex, were present at the Nungu festival in front of the local producers of the Mannar District.
-
-It is noteworthy that the foam festival was aimed at raising awareness of the need for the palm tree and the benefits of palm tree.
-
-◼️
-
-[Data](articles/ed8a37d7.json)
-
-[Extended Data](ext_articles/ed8a37d7.ext.json)
 
 ---

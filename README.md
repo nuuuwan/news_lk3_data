@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 12:18:02**
+As of **2024-05-11 12:33:24**
 
 ## Newspaper Stats
 
-*Scraped **23,318** Articles*
+*Scraped **23,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,261
 economynextcom | 1,343
 dailyftlk | 1,356
 adalk | 1,977
-adaderanalk | 2,727
-tamilmirrorlk | 2,727
+adaderanalk | 2,728
+tamilmirrorlk | 2,728
 virakesarilk | 3,469
 dailymirrorlk | 3,669
 adaderanasinhalalk | 3,734
@@ -26,29 +26,71 @@ adaderanasinhalalk | 3,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,317 (100.0%) of 23,318 articles have been extended.
+23,318 (100.0%) of 23,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### තිදරු මවක් ඝාතනය කරයි
+### Strong solar storm hits Earth, could disrupt communications
+
+*2024-05-11 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99145/strong-solar-storm-hits-earth-could-disrupt-communications) · `en`
+
+An unusually strong solar storm hitting Earth could produce northern lights in the U.S. this weekend and potentially disrupt power and communications.
+
+The National Oceanic and Atmospheric Administration issued a rare severe geomagnetic storm warning when a solar outburst reached Earth on Friday afternoon, hours sooner than anticipated. The effects were due to last through the weekend and possibly into next week.
+
+NOAA alerted operators of power plants and spacecraft in orbit to take precautions, as well as the Federal Emergency Management Agency.
+
+“For most people here on planet Earth, they won’t have to do anything,” said Rob Steenburgh, a scientist with NOAA’s Space Weather Prediction Center.
+
+The storm could produce northern lights as far south in the U.S. as Alabama and Northern California, according to NOAA. But it was hard to predict and experts stressed it would not be the dramatic curtains of color normally associated with the northern lights, but more like splashes of greenish hues.
+
+...
+
+[Data](articles/a15af5ae.json)
+
+---
+
+### அபுதாபி  இளவரசர் காலமானார்
+
+*2024-05-11 11:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அபுதாபி-இளவரசர்-காலமானார்/50-337120) · `ta`
+
+அபுதாபி  இளவரசர் ஷேக் ஹஸ்ஸா பின் சுல்தான் பின் சயீத் அல் நஹ்யான் (Sheikh Hazza bin Sultan bin Zayed Al Nahyan) காலாமானதாக சர்வதேச ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+
+காலமான அபுதாபி இளவரசர் ஐக்கிய அரபு அமீரகத்தின் ஜனாதிபதி ஷேக் முகமது பின் சயீத் அல் நஹ்யானின் மூத்த மகனாவார்.
+
+அபுதாபியில் உள்ள ஷேக் சுல்தான் பின் சயீத் முதல் மசூதியில் ஷேக் ஹஸ்ஸா பின் சுல்தான் பின் சயீத் அல் நஹ்யானுக்கான இறுதிச் சடங்குகளை ஷேக்குகளும் வழிபாட்டாளர்களும் செய்து, அல் பாடீன் கல்லறையில் உள்ள அவரது இறுதி இடத்துக்கு அழைத்துச் சென்றனர்.
+
+◼️
+
+[Data](articles/2b27734e.json)
+
+---
+
+### A mother killed in three
 
 *2024-05-11 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196503) · `si`
 
-අදාළ කාන්තාව දුෂණය කර ඝාතනය කර ඇති බවට අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
+A 44-year-old woman was raped and strangled in her home. Her body was found in the bathroom. The police are investigating the case.
 
-තිදරු මවක් වන 44 හැවිරිදි එම කාන්තාවගේ මළසිරුර ඇය පදිංචිව සිටි නිවසේ වැසිකිළිය ඉදිරිපිට තිබී සොයාගෙන ඇත.
+🟩
 
-ඇයගේ සැමියා ධීවර රැකියාව සඳහා ගොස් යළි නිවසට පැමිණි අවස්ථාවේදී කාන්තාව නිවස අසල වැටී සිටිනු දැක ඇති අතර පසුව පේදුරුතුඩුව රෝහලට ඇතුළත් කිරීමේ දී ඇය මියගොස් ඇති බව පැවසෙයි.
+Police say that the woman had been raped and killed.
 
-මළසිරුර සම්බන්ධයෙන් සිදුකළ පශ්චාත් මරණ පරීක්ෂණයෙන් අනාවරණය වී ඇත්තේ එම කාන්තාව දුෂණයට ලක්කර ගෙල සිර කිරීමෙන් ඝාතනය සිදුකර ඇති බවය.
+The 44-year-old mother of the mother, a 44-year-old woman's body was found in front of her toilet.
 
-සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මරදන්කේනි පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+When her husband returned to fishing, the woman had come to the house, and later said she had died in rushed to the Point Pedro.
+
+The post mortem of the body has been revealed that the woman had been raped and killed by strangling the woman.
+
+The Maradankani Police are conducting further investigations to arrest the suspects.
 
 ◼️
 
 [Data](articles/ecd011e7.json)
+
+[Extended Data](ext_articles/ecd011e7.ext.json)
 
 ---
 
@@ -2175,41 +2217,5 @@ The Colombo District Court is contradicted to law and requested Maithripala Siri
 [Data](articles/9a605307.json)
 
 [Extended Data](ext_articles/9a605307.ext.json)
-
----
-
-### Maithripala requests to refute the interim order
-
-*2024-05-10 19:07:36* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-නියෝගය-නිෂ්ප්‍රභ-කරන-ලෙස-මෛත්‍රිපාල-ඉල්ලයි/11-409551) · `si`
-
-Maithripala Sirisena, former President, filed a petition in the Civil Appeal High Court to challenge an interim order he had previously issued. Attorney Jayamuditha Jayasuriya presented the petition, with Montigodu Sarachchandra named as the respondent.
-
-🟩
-
-Maithripala Sirisena filed a petition in the Civil Appeal High Court today for the banning of the interim order issued by former President Maithripala Sirisena.
-
-නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය මගින් පැවරු මෙම අභියාචන පෙත්සමේ විත්තිකාර වග උත්තරකරු ලෙස මොන්ටිගෝ සරච්චන්ද්‍ර මහතා නම් කර ඇත.
-
-◼️
-
-[Data](articles/a6928564.json)
-
-[Extended Data](ext_articles/a6928564.ext.json)
-
----
-
-### CID tells Maithripala’s statements contradict each other
-
-*2024-05-10 19:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-tells-Maithripalas-statements-contradict-each-other/108-282333) · `en`
-
-Colombo, May 10 (Daily Mirror) -  The Criminal Investigations Department (CID) conducting investigations into the controversial revelation made by former President Maithripala Sirisena regarding the Easter Sunday bomb attacks, informed court that his two statements given to the CID and evidence gathered from CCTV footage contradict each other.
-
-Counsel Rajitha Lakmal, appearing for Parliamentarian Kavinda Jayawardena, moved the court to issue an order for the former President's arrest if he has provided false statements by concealing the truth. Considering the facts, Maligakanda Magistrate Lochani Abeywickrema directed the CID to take necessary action regarding former President Sirisena if he has committed something with criminal liability. The progress of the investigation was ordered to be reported to the court on July 26.
-
-...
-
-[Data](articles/1938a969.json)
-
-[Extended Data](ext_articles/1938a969.ext.json)
 
 ---

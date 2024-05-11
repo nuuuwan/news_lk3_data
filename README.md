@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 07:46:58**
+As of **2024-05-11 08:06:40**
 
 ## Newspaper Stats
 
-*Scraped **23,280** Articles*
+*Scraped **23,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ tamilmirrorlk | 2,723
 adaderanalk | 2,723
 virakesarilk | 3,465
 dailymirrorlk | 3,659
-adaderanasinhalalk | 3,726
+adaderanasinhalalk | 3,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,280 (100.0%) of 23,280 articles have been extended.
+23,282 (100.0%) of 23,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Shooting Ahungalla Shot was revenge
+
+*2024-05-11 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196496) · `si`
+
+A revenge shooting in Maradana targeted a drug dealer's father, allegedly by the son of Keerthisena Abrea. The victim was shot multiple times, including in the stomach, and was admitted to Balapitiya Hospital.
+
+🟩
+
+It has been revealed that the shooting was held in Maradana yesterday (10th) afternoon.
+
+The preliminary investigations were revealed that the father of a drug dealer of the drug dealer in the Bulunwatta area in Ahungalla, Ahungalla, has been taken away as a revenge in the murder of the drug dealer.
+
+According to the police, the bullet was carried out by the son of Keerthisena Abrea, the son of Keerthisena Abrea recently.
+
+The murder was shot dead yesterday and the victim was 5 shooting and a few bullets were taken to his stomach.
+
+Two unidentified gunmen had fled by two unidentified gunmen from a motorcycle while at their home.
+
+The injured person was admitted to the Balapitiya Hospital.
+
+◼️
+
+[Data](articles/50984cae.json)
+
+[Extended Data](ext_articles/50984cae.ext.json)
+
+---
+
+### Meeting between Central Bank Governor and US Ambassador
+
+*2024-05-11 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196495) · `si`
+
+Dr. Nandalal Weerasinghe, Central Bank Governor, met with US Ambassador Julie Chang at the American Embassy. Julie Chang emphasized the US's support for Sri Lanka's economic development.
+
+🟩
+
+Dr. Nandalal Weerasinghe, Central Bank of Dr. Nandalal Weerasinghe and the US Ambassador to Sri Lanka Julie Chang.
+
+The meeting was reported yesterday at the American Embassy yesterday (10).
+
+The US Ambassador has said that a note on the center of X clubs.
+
+Julie Chang, said that the United States continued to support the building of a strong economy in Sri Lanka.
+
+◼️
+
+[Data](articles/2d7ff772.json)
+
+[Extended Data](ext_articles/2d7ff772.ext.json)
+
+---
 
 ### Heavy rains into several provinces
 
@@ -2173,55 +2225,5 @@ According to hospital sources, a woman and three men were injured and admitted t
 [Data](articles/4a8d0725.json)
 
 [Extended Data](ext_articles/4a8d0725.ext.json)
-
----
-
-### A few provinces this evening. Showers over 100 mees
-
-*2024-05-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196478) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa, North Western, Uva, and Puttalam districts tonight, with up to 100mm rainfall.
-
-🟩
-
-Showers or thundershowers will occur in many parts of the island today (10) evening.
-
-The Department of Meteorological Department announced heavy showers in the Western, Sabaragamuwa, North Western and Uva provinces and around 100 mm.
-
-Showers will occur at the Western and Southern provinces, Puttalam, Mannar, Kilinochchi and Jaffna districts.
-
-Meanwhile, the Department of Meteorology has issued an inspired statement to be valid until 11.30 pm today.
-
-At the evening of the Western, Sabaragamuwa, Southern, Uva, Uva and North and North Central provinces and thundershowers will occur at night.
-
-◼️
-
-[Data](articles/fa6cdffb.json)
-
-[Extended Data](ext_articles/fa6cdffb.ext.json)
-
----
-
-### One killed, four injured in head-on collision
-
-*2024-05-10 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-four-injured-in-head-on-collision/108-282326) · `en`
-
-Colombo, May 10 (Daily Mirror)- One person was killed and four others seriously injured in a head-on collision of a SLTB bus and a trishaw at Puwagodamulla on the Badulla- Mahiyangana road.
-
-The deceased and the injured were the passengers of the trishaw including its driver.
-
-The Badulla bound bus belonging to the Dehiattakandiya SLTB depot had collided with the trishaw transporting a group of passengers from Badulla to Rideepana. The deceased are yet to be identified.
-
-A woman and three men have been injured and admitted to hospital. Spokesman for the hospital said they were in critical condition.
-
-The driver of the SLTB bus was arrested pending further investigations.
-
-A police team under SI A.V. Anura is conducting further investigations on the instructions of HQI Badulla police Priyantha Chaminda.
-
-◼️
-
-[Data](articles/28dfe639.json)
-
-[Extended Data](ext_articles/28dfe639.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 20:03:14**
+As of **2024-05-11 20:18:27**
 
 ## Newspaper Stats
 
-*Scraped **23,362** Articles*
+*Scraped **23,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,979
 tamilmirrorlk | 2,732
 adaderanalk | 2,734
 virakesarilk | 3,476
-dailymirrorlk | 3,676
-adaderanasinhalalk | 3,746
+dailymirrorlk | 3,678
+adaderanasinhalalk | 3,747
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,362 (100.0%) of 23,362 articles have been extended.
+23,362 (100.0%) of 23,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### කෘත්‍රීම බුද්ධිය සහ බෞද්ධ දර්ශනය අතර සම්බන්ධය සොයා යයි
+
+*2024-05-11 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196519) · `si`
+
+කෘත්‍රීම බුද්ධිය සහ බෞද්ධ දර්ශනය අතර පවතින සම්බන්ධතාවය පිළිබඳ පර්යේෂණ කිරීමට රුපියල් බිලියනයක මුදලක් වෙන්කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ශ්‍රී ලංකා බෞද්ධ සමිතියට සිය වසරක් සපිරීම නිමිත්තෙන් අද (11) පැවති සැමරුම් උලෙළට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ කෘතිම බුද්ධිය ආශ්‍රිත ක්‍රියාකාරකම් පාලනය කිරීමට නව නීති ගෙනඑන බවය.
+
+"ඉරාන්ගේ ඉල්ලීමටයි මම අද ආවේ. අපිට දැන් අනාගතය ගැන සිතන්න වෙනවා. බුද්ධ දේශනයට අනුව අනාගතය දිහා බලද්දි ප්‍රධාන කරුණු දෙකකට මුහුණ දෙන්න සිද්ධ වෙනවා. දේශගුණික විපර්යාසවලට මුහුණ දෙන්න සිදුවෙනවා. මේ මාසයේ උණුසුම පෙර නොතිබුණ තත්ත්වයක්. කොහොමද ඒකට මුහුණ දෙන්නේ. මේ ප්‍රශ්නය ඇතිවුණේ ශිෂ්ඨාචාරයේ තණ්හාව නිසා දියුණු වෙද්දි පරිසරයට වෙන හානිය තකන්නේ නැති නිසා. කොහොමද දේශගුණික විපර්යාස පාලනය කරන්නේ."
+
+...
+
+[Data](articles/8cd13706.json)
+
+---
+
+### ‘Yukthiya’ nets over 11,000 suspects since inception
+
+*2024-05-11 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-nets-over-11-000-suspects-since-inception/108-282397) · `en`
+
+The Yukthiya operation which commenced on December 17, 2023 has resulted in the arrest of 111,074 suspects, with 4,472 currently held under detention orders for further questioning.
+
+According to Police Spokesman DIG Nihal Thalduwa, law enforcement authorities have seized substantial quantities of narcotics, including 41 kilograms of heroin, 43 kilograms of 'Ice,' and 300,000 narcotic pills.
+
+Furthermore, Operation "Yukthiya" has led to the seizure of illegal assets valued at approximately Rs. 1,500 million.
+
+◼️
+
+[Data](articles/a99fdfa2.json)
+
+---
 
 ### Is this the cause of Susath's life for her daughter?
 
@@ -77,6 +109,24 @@ Issuing a statement, the State Border Guard of Latvia stated that the border gua
 [Data](articles/35e2fc6d.json)
 
 [Extended Data](ext_articles/35e2fc6d.ext.json)
+
+---
+
+### Former Indian envoy in Sri Lanka contests Lok Sabha election from BJP
+
+*2024-05-11 18:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Indian-envoy-in-Sri-Lanka-contests-Lok-Sabha-election-from-BJP/108-282396) · `en`
+
+May 11 - Former Indian High Commissioner to Sri Lanka Taranjit Singh Sandhu  has joined India’s ruling BJP and is contesting the elections. After Sri Lanka, he also served in the United States.
+
+He is a BJP candidate from the Amritsar seat and  on Friday he declared his total assets worth Rs 39.92 crore, according to his poll affidavit, the NDTV reported.
+
+Sandhu, 61, on Friday filed his nomination papers in Amritsar for the June 1 Lok Sabha polls.
+
+According to his affidavit, Sandhu declared moveable and immovable assets owned by him and his wife to be Rs 10.88 crore and 29.04 crore, respectively.
+
+◼️
+
+[Data](articles/dc28d8cd.json)
 
 ---
 
@@ -2257,71 +2307,5 @@ Accordingly, the local automobile assembly industry is experiencing a significan
 [Data](articles/6ea6f526.json)
 
 [Extended Data](ext_articles/6ea6f526.ext.json)
-
----
-
-### Tourist arrivals cross 800,000 mark in May
-
-*2024-05-11 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-800-000-mark-in-May/108-282378) · `en`
-
-The tourist arrivals to Sri Lanka crossed the 800,000 mark in May, which is two months earlier than 2023 in achieving the milestone.
-
-The provisional data released by the Sri Lanka Tourism Development Authority showed that the mark was crossed on May 5. For the first nine days of the month, the island nation welcomed a total of 819, 866 international visitors.
-
-For the first nine days of May, 35,215 tourists entered the country. The daily arrival average is about 3,900, a drop from the 5,000 level experienced in the previous months.
-
-From April, till the summer season, the influx of tourists is low, as it is an off-peak period. However, the authorities have noted that contributing to the drop this year-round is also the visa fiasco that took place. The issues regarding tourist visas are not yet entirely resolved, with confusion still prevailing in certain areas.
-
-...
-
-[Data](articles/a128a373.json)
-
-[Extended Data](ext_articles/a128a373.ext.json)
-
----
-
-### Tamil leaders should unite on the presidential election - I.
-
-*2024-05-11 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183193) · `ta`
-
-Tamil leaders in the Northeast are urged to unite for the presidential election, emphasizing the importance of a collective decision for the community's future. R. Durairatnam, a former EPRLF member, highlighted the need for unity among Tamil parties to avoid frustration and ensure the interests of farmers in Batticaloa district are prioritized.
-
-🟩
-
-Former Eastern Provincial Council member and Chairman of the EPRLF Padmanabha Forum, R. Durairatnam, said that all Tamil leaders in the Northeast would unite and take a strong decision on the presidential election and bring it to the Tamil people.
-
-He said that when the Tamil parties were united and taken to the Tamil people, it would be frustrated and that it would affect the future activities of the Tamil people.
-
-He also made a request to pay more concern for officials and politicians on the interests of the farmers of the Batticaloa district.
-
-Bore. He made these demands at a media briefing held at the Media Center.
-
-◼️
-
-[Data](articles/59057aa3.json)
-
-[Extended Data](ext_articles/59057aa3.ext.json)
-
----
-
-### Shoot in Ahungalla!
-
-*2024-05-11 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183190) · `ta`
-
-In Ahungalla, a 54-year-old man was shot by unidentified assailants on a motorcycle, suffering multiple gunshot wounds to his stomach. He was admitted to Balapitiya hospital.
-
-🟩
-
-Two unidentified firing on a motorcycle in the Ahungalla area has been shot.
-
-A 54 -year -old man was injured in the shooting and was admitted to the Balapitiya hospital, police said.
-
-It is noteworthy that the victim was shot in the courtyard and many bullets were attacked in his stomach.
-
-◼️
-
-[Data](articles/cbe01db2.json)
-
-[Extended Data](ext_articles/cbe01db2.ext.json)
 
 ---

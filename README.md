@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 14:18:19**
+As of **2024-05-11 14:33:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,325 (100.0%) of 23,332 articles have been extended.
+23,332 (100.0%) of 23,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ Motorists are also advised to refrain from using open vehicles like bicycles, tr
 
 [Data](articles/da5c7bcc.json)
 
+[Extended Data](ext_articles/da5c7bcc.ext.json)
+
 ---
 
-### යුක්තිය යටතේ ඇල්ලූ සැකකරුවන් සංඛ්‍යාව ලක්ෂය පනී
+### The number of suspects under justice is jumping around the point
 
 *2024-05-11 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196508) · `si`
 
-පොලීසිය ක්‍රියාත්මක කරන යුක්තිය මෙහෙයුම ආරම්භයේ සිට මේ දක්වා සැකකරුවන් 111,074 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Since the police operation began, 111,074 suspects have been arrested, with 4,472 currently detained. The operation has seized 41 kilograms of heroin, 43 kilograms of ice drugs, and assets worth 3 lakhs.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසන්නේ ඔවුන්ගෙන් සැකකරුවන් 4,472ක් ප්‍රශ්න කිරීම සඳහා රැඳවුම් නියෝග යටතේ රඳවා සිටින බවය.
+🟩
 
-මෙම මෙහෙයුම්වලදී හෙරොයින් කිලෝග්‍රෑම් 41ක්, අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 43ක්, මත්පෙති ලක්ෂ 03ක් සහ රුපියල් මිලියන 1,500ක නීතිවිරෝධී වත්කම් පොලිස් භාරයට ගෙන තිබේ.
+111,074 suspects have been arrested since the launch of the police operation.
+
+Police Media Spokesperson, DIG's Court Attorney Nihal Talduuwa says 4,472 suspects are being detained under detention orders.
+
+The operations have taken 41 kilograms of heroin, 43 kilograms of heroin, 43 kilograms of ice drugs, 3 lakhs and illegal assets of Rs.
 
 ◼️
 
 [Data](articles/189fb0b4.json)
+
+[Extended Data](ext_articles/189fb0b4.ext.json)
 
 ---
 
@@ -86,21 +94,29 @@ Sri Lanka’s external sector started has now recovered after the central bank s
 
 [Data](articles/70d9279c.json)
 
+[Extended Data](ext_articles/70d9279c.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානයට දරුණු ජලගැලීම්
+### Fierce floodings to Afghanistan
 
 *2024-05-11 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196507) · `si`
 
-උතුරු ඇෆ්ගනිස්තානයට ඊයේ (10) බලපෑ ජලගැලීම් ආපදාවලින් 50කට අධික පිරිසක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Floods in North Afghanistan killed over 50, affecting hundreds. Rescue efforts underway, but challenging conditions.
 
-ජල ගැලීම්වලට කොටුවූ තවත් 150කට වැඩි පිරිසක් උදව් අපේක්ෂාවෙන් පසුවන බැවින් මුදාගැනීමේ මෙහෙයුම් ආරම්භ වී තිබේ.
+🟩
 
-කෙසේ නමුත් පවතින අයහපත් තත්ත්වය හමුවේ මෙහෙයුම් අසීරු වී ඇති බව වාර්තා වෙයි.
+More than 50 people affected by the flood disasters that influenced North Afghanistan yesterday (10) were killed.
+
+Rescue operations have begun since more than 150 more than 150 more than 150 more than 150 more than 150 more than 150 more than 150 others were caught.
+
+However, it is reported that operations are difficult to face the evil situation.
 
 ◼️
 
 [Data](articles/b65ca795.json)
+
+[Extended Data](ext_articles/b65ca795.ext.json)
 
 ---
 
@@ -113,6 +129,8 @@ With Vesak drawing near, lanterns are prominently displayed for sale, and people
 ◼️
 
 [Data](articles/b94e9843.json)
+
+[Extended Data](ext_articles/b94e9843.ext.json)
 
 ---
 
@@ -136,21 +154,27 @@ Joining the 181st phase of the ‘Sakwala’ programme to grant smart classrooms
 
 ---
 
-### නිල ජර්සිය නිර්මාණය කළ අයුරු පැහැදිලි කරයි
+### Explains how the official jez was created
 
 *2024-05-11 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196506) · `si`
 
-එළඹෙන ජුනි 01 වනදා ආරම්භ වීමට නියමිත විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා කණ්ඩායමේ නිල ජර්සිය ඊයේ (10) එළිදැක්වුණි.
+The official jersey for Sri Lanka's cricket team, launched on June 1, was unveiled with the participation of Sri Lanka Cricket and SLC officials, along with the team's players. This jersey, designed to promote Sri Lanka's identity internationally, is set to boost the country's tourism industry and represents Sri Lanka's participation in the Twenty20 World Cup.
 
-එම අවස්ථාවට ශ්‍රී ලංකා ක්‍රිකට් සභාපති ඇතුළු ක්‍රිකට් ආයතනයේ නිලධාරීන්, ශ්‍රී ලංකා විස්සයි විස්ස නායක වනිඳු හසරංග සහ ශ්‍රී ලංකා සංචිතයේ ක්‍රීඩකයන් එක්වී තිබුණි.
+🟩
 
-ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය ජාත්‍යන්තරයට රැගෙන යාමේ අරමුණෙන් මෙම නිල ජර්සිය නිර්මාණය කර ඇති අතර ඊට ශ්‍රී ලංකාවේ අනන්‍යතාව තහවුරු කෙරෙන සංකේත කිහිපයක්ම ඊට ඇතුළත් ය.
+The official jerr of Sri Lanka team, which will take place on June 1, was launched yesterday (10).
 
-විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකාව 'ඩී' කාණ්ඩයෙන් තරග වැදීමට නියමිතය.
+Sri Lanka Cricket and SLC officials and SLC officials and SLC officials were joined the players of the Sri Lanka squad.
+
+This official JSZ has been created to take the tourism industry in the international community to the international community and includes several identity of Sri Lankan identity.
+
+Sri Lanka is to contest for the Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/70c3813f.json)
+
+[Extended Data](ext_articles/70c3813f.ext.json)
 
 ---
 
@@ -480,19 +504,23 @@ According to the official, not only politicians but country leaders are also inv
 
 ---
 
-### පාර්ලිමේන්තුව  මැයි 13 සහ 14 රැස්වෙයි
+### Parliament gathered on May 13th and 14
 
 *2024-05-11 10:22:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව--මැයි-13-සහ-14-රැස්වෙයි/11-409556) · `si`
 
-පාර්ලිමේන්තුව මැයි මස 13 වැනි දා සඳුදා, සහ 14 වැනි දා අඟහරුවාදා රැස්වීමට නියමිත බව  පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය පැවසුවාය. 5 කථානායක මහින්ද යාපා අබේවර්ධනමහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ‍එම සතියට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+Parliament convened on May 13th and 14th, with discussions on various topics including the Excise Ordinance, Foreign Exchange Act, Appropriation Act, and Development Act. The session began at 9:30 am, followed by debates on motions and the annual report. On May 14th, the Parliament continued with discussions on the Palestinian crisis and other matters.
 
-මැයි මස 13 වැනි දා සඳුදා පෙ.ව 9.30ට පාර්ලිමේන්තුව රැස්වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත.
+🟩
 
-අනතුරුව පෙ.ව. 10.30 සිට ප.ව. 5.00 දක්වා ආනයන අපනයන (පාලන) පනත යටතේ රෙගුලාසි ද්විත්වයක්, සුරාබදු ආඥාපනත යටතේ නිවේදනය , ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිෂන් සභා පනත යටතේ රෙගුලාසි , මුදල් පනත යටතේ නියෝග ද්විත්වයක්, විදේශ විනිමය පනත යටතේ රෙගුලාසි හතරක් , විසර්ජන පනත යටතේ යෝජනා හයක් , ශ්‍රී ලංකා අපනයන සංවර්ධන පනත යටතේ නියෝගය , රේගු ආඥාපනත යටතේ යෝජනා සම්මතය, ආනයන අපනයන (පාලන) පනත යටතේ රෙගුලාසි අනුමත කිරීමට සහ  සීමාසහිත ජය බහලුම් පර්යන්තයේ වාර්ෂික වාර්තාව (2022) විවාදයකින් තොරව අනුමත කිරීමට  පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතයි.
+MP Kushani Rohanahandera said that the Parliament will meet on Tuesday and 14th on Monday and 14th May.. 5 The week arrangements have been decided at the Committee on Parliamentary Affairs Committee chaired by Speaker Mahinda Yapa Abeywardena.
+
+Parliament eats at 9.30 am on Monday at 9.30 am and 10.30 am to 1030 am.
 
 ...
 
 [Data](articles/0e48b71c.json)
+
+[Extended Data](ext_articles/0e48b71c.ext.json)
 
 ---
 

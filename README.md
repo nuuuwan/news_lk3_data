@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 05:57:37**
+As of **2024-05-11 06:17:08**
 
 ## Newspaper Stats
 
-*Scraped **23,268** Articles*
+*Scraped **23,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 242
 dbsjeyarajcom | 242
 newsfirstlk | 363
-islandlk | 1,253
+islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,268 (100.0%) of 23,268 articles have been extended.
+23,268 (100.0%) of 23,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,44 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 [Data](articles/4f4e98b4.json)
 
 [Extended Data](ext_articles/4f4e98b4.ext.json)
+
+---
+
+### Vida Medical Clinic redefines healthcare experience
+
+*2024-05-11 02:48:00* · [`islandlk`](http://island.lk/vida-medical-clinic-redefines-healthcare-experience/) · `en`
+
+Vida Medical Clinic, Colombo’s premier healthcare institution committed to providing exceptional medical care with a comprehensive array of services tailored to meet the diverse needs of its patients. Founded in 2021, Vida Medical Clinic has quickly become synonymous with excellence, offering personalised, patient-centric care in a professional and compassionate environment conveniently located at 33 Deal Place A, Colombo-3.
+
+Under the dynamic leadership of Managing Director, Devin Ambalangodage, Medical Director, Dr. Chandana Galappaththi, and Head of Clinical Operations, Dr. Janice Boulton, Vida Medical Clinic has set itself apart by offering comprehensive treatment pathways guided by committed consultants.
+
+...
+
+[Data](articles/3a2d226d.json)
+
+---
+
+### SDB bank boosts mobile user experience and access to finance information
+
+*2024-05-11 02:48:00* · [`islandlk`](http://island.lk/sdb-bank-boosts-mobile-user-experience-and-access-to-finance-information/) · `en`
+
+SDB bank recently upgraded its tri-lingual corporate website which is an important part of a broader digital roadmap, marks a significant stride towards optimizing customer engagement through accessible and efficient touchpoints of the Bank. This comprehensive upgrade of its corporate website, now boasting a user interface that is not only the epitome of modern design but also mobile-responsive, catering to the needs of the on-the-go consumer.
+
+...
+
+[Data](articles/b5acdb8a.json)
+
+---
+
+### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
+
+*2024-05-11 02:25:00* · [`islandlk`](http://island.lk/ahk-sri-lanka-organises-first-ever-delegation-to-hannover-messe-2024-in-germany/) · `en`
+
+With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24th to 26th April. AHK Sri Lanka had invited the Minister of State for Investor Promotion, Dilum Amunugama, to lead the delegation along with other government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
+
+...
+
+[Data](articles/73f7bdd6.json)
 
 ---
 
@@ -123,6 +161,36 @@ President Ranil Wickremesinghe said that it is well aware of the challenges face
 [Data](articles/306208a2.json)
 
 [Extended Data](ext_articles/306208a2.ext.json)
+
+---
+
+### Fitch affirms SriLankan Airlines’ government guaranteed bonds at ‘C’
+
+*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/fitch-affirms-srilankan-airlines-government-guaranteed-bonds-at-c/) · `en`
+
+Fitch Ratings has affirmed the rating on SriLankan Airlines Limited’s (SLA) USD175 million government guaranteed 7% unsecured bonds due 25 June 2024 at ‘C’. The rating on the bonds is driven by the unconditional and irrevocable guarantee of the government of Sri Lanka (Long-Term Foreign-Currency Issuer Default Rating: ‘RD’).
+
+SLA did not pay the interest due on 25 December 2023 on its guaranteed unsecured bonds, or during the 30-day grace period that followed, triggering an event of default. This is in addition to previous missed coupon payments in June 2023 and December 2022, and the events of default triggered via the 12 April 2022 announcement by the Sri Lankan government of a debt moratorium on several categories of sovereign and public-sector entities’ external debt, as well as the ensuing non-payment of interest on the government’s external debt.
+
+...
+
+[Data](articles/9508a1d1.json)
+
+---
+
+### Govt planning to establish Digital Exchange Agency in Sri Lanka
+
+*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/govt-planning-to-establish-digital-exchange-agency-in-sri-lanka/) · `en`
+
+President Ranil Wickremesighe recently confirmed the Government’s commitment to advancing digital economy, announcing plans to establish a new digital exchange agency in Sri Lanka, and to allocate funding for Artificial Intelligence (AI) initiatives.
+
+The President said so at an awards ceremony held at the Presidential Secretariat recently to mark the celebration of the 45th anniversary of the BOI.
+
+Virtusa Corporation, a global provider of digital business strategy, digital engineering, and IT services and solutions, was recognized as one of the Most Outstanding Exporters in the Services category by the Board of Investment of Sri Lanka (BOI), at this ceremony.
+
+...
+
+[Data](articles/f7156b43.json)
 
 ---
 
@@ -2145,115 +2213,5 @@ Further investigations are being carried out by Valvettithurai police as the bod
 [Data](articles/cb090cf3.json)
 
 [Extended Data](ext_articles/cb090cf3.ext.json)
-
----
-
-### Diana’s expulsion case postponed
-
-*2024-05-10 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Dianas-expulsion-case-postponed/155-282322) · `en`
-
-Colombo, May 10 (Daily Mirror)-The expulsion petition filed by former State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership was today fixed for May 28 by the Supreme Court.
-
-Diana Gamage’s stance regarding this petition is to be informed to the court on the next date.
-
-Accordingly, the Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Mahinda Samayawardena fixed the matter for May 28.
-
-However, the Supreme Court, in another application held that Diana Gamage is disqualified to be a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
-
-...
-
-[Data](articles/2e30b717.json)
-
-[Extended Data](ext_articles/2e30b717.ext.json)
-
----
-
-### Diana’s expulsion case postponed
-
-*2024-05-10 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dianas-expulsion-case-postponed/108-282322) · `en`
-
-Colombo, May 10 (Daily Mirror)-The expulsion petition filed by former State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership was today fixed for May 28 by the Supreme Court.
-
-Diana Gamage’s stance regarding this petition is to be informed to the court on the next date.
-
-Accordingly, the Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Mahinda Samayawardena fixed the matter for May 28.
-
-However, the Supreme Court, in another application held that Diana Gamage is disqualified to be a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
-
-...
-
-[Data](articles/f7449c8e.json)
-
-[Extended Data](ext_articles/f7449c8e.ext.json)
-
----
-
-### US eligible to commences tour in South Asia
-
-*2024-05-10 14:03:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවෙ-ප්‍රභලයෙක්-දකුණු-ආසියාවේ-සංචාරයක්-අරඹයි/11-409549) · `si`
-
-US Assistant Secretary Donaldo starts a South Asia tour today, visiting India, Sri Lanka, and Bangladesh.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donaldo is to commence a tour of the South Asian region this morning.
-
-First, he is due to attend India today and will then travel to Sri Lanka and Bangladesh.
-
-Assistant Secretary of State visits South Asia from 15th.
-
-◼️
-
-[Data](articles/22139658.json)
-
-[Extended Data](ext_articles/22139658.ext.json)
-
----
-
-### Be inquisitive!
-
-*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්න--/11-409548) · `si`
-
-In the Western, Sabaragamuwa, Southern, and Uva regions, expect evening or night thundershowers, strong winds, and lightning-related diseases. Authorities advise taking precautions.
-
-🟩
-
-Western, Sabaragamuwa, Southern, Uva, Uva, Mothawala, Mothuwewa, Mullaawala
-
-Increasingly thundershowers during the evening or night during the districts
-
-There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
-
-The weather forearm is requested to take necessary steps to be taken to do.
-
-◼️
-
-[Data](articles/3bd4afbe.json)
-
-[Extended Data](ext_articles/3bd4afbe.ext.json)
-
----
-
-### Confirmed!
-
-*2024-05-10 13:59:42* · [`adalk`](https://www.ada.lk/breaking_news/විමසිලිමත්-වන්තන--/11-409548) · `si`
-
-Heavy thundershowers expected in Western, Sabaragamuwa, Southern, Uva districts, especially in Mothawala, Mothuwewa, Mullaawala. Strong winds and lightning-related diseases possible. Authorities advised to prepare.
-
-🟩
-
-Western, Sabaragamuwa, Southern, Uva, Uva, Mothawala, Mothuwewa, Mullaawala
-
-Increasingly thundershowers during the evening or night during the districts
-
-There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
-
-The weather forearm is requested to take necessary steps to be taken to do.
-
-◼️
-
-[Data](articles/696de239.json)
-
-[Extended Data](ext_articles/696de239.ext.json)
 
 ---

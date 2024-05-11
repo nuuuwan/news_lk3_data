@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 12:03:36**
+As of **2024-05-11 12:18:02**
 
 ## Newspaper Stats
 
-*Scraped **23,317** Articles*
+*Scraped **23,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,727
 tamilmirrorlk | 2,727
 virakesarilk | 3,469
 dailymirrorlk | 3,669
-adaderanasinhalalk | 3,733
+adaderanasinhalalk | 3,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,317 (100.0%) of 23,317 articles have been extended.
+23,317 (100.0%) of 23,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### තිදරු මවක් ඝාතනය කරයි
+
+*2024-05-11 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196503) · `si`
+
+අදාළ කාන්තාව දුෂණය කර ඝාතනය කර ඇති බවට අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
+
+තිදරු මවක් වන 44 හැවිරිදි එම කාන්තාවගේ මළසිරුර ඇය පදිංචිව සිටි නිවසේ වැසිකිළිය ඉදිරිපිට තිබී සොයාගෙන ඇත.
+
+ඇයගේ සැමියා ධීවර රැකියාව සඳහා ගොස් යළි නිවසට පැමිණි අවස්ථාවේදී කාන්තාව නිවස අසල වැටී සිටිනු දැක ඇති අතර පසුව පේදුරුතුඩුව රෝහලට ඇතුළත් කිරීමේ දී ඇය මියගොස් ඇති බව පැවසෙයි.
+
+මළසිරුර සම්බන්ධයෙන් සිදුකළ පශ්චාත් මරණ පරීක්ෂණයෙන් අනාවරණය වී ඇත්තේ එම කාන්තාව දුෂණයට ලක්කර ගෙල සිර කිරීමෙන් ඝාතනය සිදුකර ඇති බවය.
+
+සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මරදන්කේනි පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/ecd011e7.json)
+
+---
 
 ### Some players excluded from new contracts despite ICC T20 World Cup roles
 
@@ -2191,31 +2211,5 @@ Counsel Rajitha Lakmal, appearing for Parliamentarian Kavinda Jayawardena, moved
 [Data](articles/1938a969.json)
 
 [Extended Data](ext_articles/1938a969.ext.json)
-
----
-
-### Sri Lanka Cricket increases player fees across all formats
-
-*2024-05-10 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99137/sri-lanka-cricket-increases-player-fees-across-all-formats) · `en`
-
-Sri Lanka Cricket (SLC) announced that it has increased player fees for all categories of Sri Lanka’s international players with immediate effect.
-
-Issuing a statement, SLC stated that accordingly, 41 players will be offered new contracts under six categories, namely, A1, A2, B2, C1, C2, and ’A’ Team.
-
-Under the latest raise, match fees for the Test format have been increased by 100 percent, while payments will be made on merit basis, the SLC said.
-
-There will be different payment structures for a Test match ‘won’, ‘drawn’ or ‘lost’, it added.
-
-In the meantime, match fees for both ODI and T20I have been raised by 25 percent.
-
-Meanwhile, Sri Lanka Cricket has also decided to recognize the players who become top-ranked in the ICC Player Rankings.
-
-Accordingly, a player will be financially rewarded with a one-time payment if they become the ‘Best Batsman, Best Bowler, or Best All-Rounder’ based on ICC rankings, covering all formats.
-
-...
-
-[Data](articles/62db0325.json)
-
-[Extended Data](ext_articles/62db0325.ext.json)
 
 ---

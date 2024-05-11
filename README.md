@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 14:03:19**
+As of **2024-05-11 14:18:19**
 
 ## Newspaper Stats
 
-*Scraped **23,325** Articles*
+*Scraped **23,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,108 @@ bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
 islandlk | 1,263
-economynextcom | 1,343
+economynextcom | 1,344
 dailyftlk | 1,356
-adalk | 1,977
+adalk | 1,978
 tamilmirrorlk | 2,728
 adaderanalk | 2,729
 virakesarilk | 3,469
-dailymirrorlk | 3,670
-adaderanasinhalalk | 3,735
+dailymirrorlk | 3,672
+adaderanasinhalalk | 3,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,324 (100.0%) of 23,325 articles have been extended.
+23,325 (100.0%) of 23,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Public warned of severe lightning today
+
+*2024-05-11 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-warned-of-severe-lightning-today/108-282392) · `en`
+
+Colombo, May 11 (Daily Mirror) -  The Department of Meteorology has issued a severe lightning warning for several provinces in Sri Lanka, including the Western, Sabaragamuwa, Southern, Central, North-Western, Uva, and North-Central Provinces, as well as the Mannar and Vavuniya districts.
+
+In light of the situation, residents are urged to take precautionary measures to minimize potential damages caused by lightning activities.
+
+The public is advised to seek shelter indoors, avoid areas under trees and open spaces such as paddy fields and tea plantations during thunderstorms.
+
+Besides, individuals are cautioned against using wired telephones and connected electric appliances during the storm.
+
+Motorists are also advised to refrain from using open vehicles like bicycles, tractors, and boats, as temporary localized strong winds may pose hazards. Fallen trees and power lines are also potential risks during severe thunderstorms.
+
+...
+
+[Data](articles/da5c7bcc.json)
+
+---
+
+### යුක්තිය යටතේ ඇල්ලූ සැකකරුවන් සංඛ්‍යාව ලක්ෂය පනී
+
+*2024-05-11 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196508) · `si`
+
+පොලීසිය ක්‍රියාත්මක කරන යුක්තිය මෙහෙයුම ආරම්භයේ සිට මේ දක්වා සැකකරුවන් 111,074 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසන්නේ ඔවුන්ගෙන් සැකකරුවන් 4,472ක් ප්‍රශ්න කිරීම සඳහා රැඳවුම් නියෝග යටතේ රඳවා සිටින බවය.
+
+මෙම මෙහෙයුම්වලදී හෙරොයින් කිලෝග්‍රෑම් 41ක්, අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 43ක්, මත්පෙති ලක්ෂ 03ක් සහ රුපියල් මිලියන 1,500ක නීතිවිරෝධී වත්කම් පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/189fb0b4.json)
+
+---
+
+### Sri Lanka official remittances cross $2bn in Jan-April 2024
+
+*2024-05-11 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-official-remittances-cross-2bn-in-jan-april-2024-162600/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming through official channels surpassed 2 billion dollars in the first four months of this year, helped by more expatriates using the official banking channels after the central bank gave up a parallel exchange rate regime.
+
+The remittances in the first four months were 2,079.9 million dollars, rising 11.4 percent from the same period last year, the official data showed.
+
+The island nation witnessed 1,867.2 million dollars through remittances in the first four months of 2023.
+
+In April, Sri Lanka received 543.8 million dollars from official channels, up 19.7 percent from 454 million dollars in the same month a year earlier, the official data showed.
+
+Sri Lanka’s external sector started has now recovered after the central bank started to run balance of payments surpluses following a decision to end money printing to sterilize interventions made with Indian Asian Clearing Union money.
+
+...
+
+[Data](articles/70d9279c.json)
+
+---
+
+### ඇෆ්ගනිස්තානයට දරුණු ජලගැලීම්
+
+*2024-05-11 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196507) · `si`
+
+උතුරු ඇෆ්ගනිස්තානයට ඊයේ (10) බලපෑ ජලගැලීම් ආපදාවලින් 50කට අධික පිරිසක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ජල ගැලීම්වලට කොටුවූ තවත් 150කට වැඩි පිරිසක් උදව් අපේක්ෂාවෙන් පසුවන බැවින් මුදාගැනීමේ මෙහෙයුම් ආරම්භ වී තිබේ.
+
+කෙසේ නමුත් පවතින අයහපත් තත්ත්වය හමුවේ මෙහෙයුම් අසීරු වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b65ca795.json)
+
+---
+
+### Vesak around the corner…
+
+*2024-05-11 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-around-the-corner/110-282323) · `en`
+
+With Vesak drawing near, lanterns are prominently displayed for sale, and people show enthusiasm in purchasing them. Vesak, falling on May 23 this year, commemorates the birth, enlightenment, and passing away of the Buddha. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/b94e9843.json)
+
+---
 
 ### ‘Certain parties unwilling to join debate as they lack proper economic program’ - Sajith
 
@@ -47,6 +131,26 @@ Joining the 181st phase of the ‘Sakwala’ programme to grant smart classrooms
 ◼️
 
 [Data](articles/f00e0787.json)
+
+[Extended Data](ext_articles/f00e0787.ext.json)
+
+---
+
+### නිල ජර්සිය නිර්මාණය කළ අයුරු පැහැදිලි කරයි
+
+*2024-05-11 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196506) · `si`
+
+එළඹෙන ජුනි 01 වනදා ආරම්භ වීමට නියමිත විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා කණ්ඩායමේ නිල ජර්සිය ඊයේ (10) එළිදැක්වුණි.
+
+එම අවස්ථාවට ශ්‍රී ලංකා ක්‍රිකට් සභාපති ඇතුළු ක්‍රිකට් ආයතනයේ නිලධාරීන්, ශ්‍රී ලංකා විස්සයි විස්ස නායක වනිඳු හසරංග සහ ශ්‍රී ලංකා සංචිතයේ ක්‍රීඩකයන් එක්වී තිබුණි.
+
+ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය ජාත්‍යන්තරයට රැගෙන යාමේ අරමුණෙන් මෙම නිල ජර්සිය නිර්මාණය කර ඇති අතර ඊට ශ්‍රී ලංකාවේ අනන්‍යතාව තහවුරු කෙරෙන සංකේත කිහිපයක්ම ඊට ඇතුළත් ය.
+
+විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකාව 'ඩී' කාණ්ඩයෙන් තරග වැදීමට නියමිතය.
+
+◼️
+
+[Data](articles/70c3813f.json)
 
 ---
 
@@ -373,6 +477,22 @@ According to the official, not only politicians but country leaders are also inv
 [Data](articles/566e819b.json)
 
 [Extended Data](ext_articles/566e819b.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව  මැයි 13 සහ 14 රැස්වෙයි
+
+*2024-05-11 10:22:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව--මැයි-13-සහ-14-රැස්වෙයි/11-409556) · `si`
+
+පාර්ලිමේන්තුව මැයි මස 13 වැනි දා සඳුදා, සහ 14 වැනි දා අඟහරුවාදා රැස්වීමට නියමිත බව  පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය පැවසුවාය. 5 කථානායක මහින්ද යාපා අබේවර්ධනමහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ‍එම සතියට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+
+මැයි මස 13 වැනි දා සඳුදා පෙ.ව 9.30ට පාර්ලිමේන්තුව රැස්වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත.
+
+අනතුරුව පෙ.ව. 10.30 සිට ප.ව. 5.00 දක්වා ආනයන අපනයන (පාලන) පනත යටතේ රෙගුලාසි ද්විත්වයක්, සුරාබදු ආඥාපනත යටතේ නිවේදනය , ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිෂන් සභා පනත යටතේ රෙගුලාසි , මුදල් පනත යටතේ නියෝග ද්විත්වයක්, විදේශ විනිමය පනත යටතේ රෙගුලාසි හතරක් , විසර්ජන පනත යටතේ යෝජනා හයක් , ශ්‍රී ලංකා අපනයන සංවර්ධන පනත යටතේ නියෝගය , රේගු ආඥාපනත යටතේ යෝජනා සම්මතය, ආනයන අපනයන (පාලන) පනත යටතේ රෙගුලාසි අනුමත කිරීමට සහ  සීමාසහිත ජය බහලුම් පර්යන්තයේ වාර්ෂික වාර්තාව (2022) විවාදයකින් තොරව අනුමත කිරීමට  පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතයි.
+
+...
+
+[Data](articles/0e48b71c.json)
 
 ---
 
@@ -2043,159 +2163,5 @@ Initially working as a cook, Selvarajah's passion for baking soon led him to a b
 [Data](articles/9c0587c8.json)
 
 [Extended Data](ext_articles/9c0587c8.ext.json)
-
----
-
-### Three cops arrested for bribery to halt action against selling sexual stimulants
-
-*2024-05-10 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-cops-arrested-for-bribery-to-halt-action-against-selling-sexual-stimulants/108-282334) · `en`
-
-In a startling turn of events, three police officers from the Sapugaskanda Police, including a sergeant and two constables, were arrested today on suspicion of accepting a bribe amounting to Rs. 150,000 to stop proceeding with legal action against the sale of aphrodisiacs (a food, drink, or other thing that stimulates sexual desire) by an Ayurvedic medicine dealer.
-
-The saga began when the medicine dealer filed a complaint with the Sapugaskanda Police, claiming that the officers had conducted a raid on his shop. During the raid, they seized a bottle they purportedly identified as containing an aphrodisiac. However, instead of pursuing legal action, the officers allegedly demanded a hefty sum of Rs. 150,000 from the dealer to refrain from escalating the matter.
-
-...
-
-[Data](articles/62279510.json)
-
-[Extended Data](ext_articles/62279510.ext.json)
-
----
-
-### Police affair to under-under under underworld?
-
-*2024-05-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196492) · `si`
-
-An investigation is underway into the death of underworld leader Hawnacoville's Rha, allegedly killed by a police inspector. The inspector, Rouncowila alias, is suspected of involvement. The police have received information about two firearms before the arrest. The inspector's main rival, Ada Derana, was involved in a phone conversation. The investigation includes a voice analysis by the Criminal Investigation and Organized Criminal Investigation Unit. The Inspector General of Police (UPFA) has not been informed of the visits to the Analyst's Department. A complaint has been filed by the President's Counsel Saliya Peiris, leading to a court order for the inspector to visit the Analyst's Department.
-
-🟩
-
-An investigation has been launched in reports of the police inspector of the underworld leader Hawnacoville, Rha, a man named Rouncowila alias.
-
-Hawnakovan, Old Rohana, has died in a bully
-
-According to information received from the police Inspector of Padmalal to arrest the suspect.
-
-In such a background, the Padmalal Inspector of Padmalal and the main rival of the deceased Roha, "Ada Derana received a telephone dialogue.
-
-The information is that two firearms have been given two firearms before the arrest of the Padmalal police officer.
-
-Meanwhile, we met with a telephone conversation that the person who said that the Roha was shot dead by the Gonokoville, police said.
-
-During a telephone conversation, Inspector Padmalal and the main opponent of Roha was Kudu Anju, Kudu Anju, was also found in another voice clip.
-
-...
-
-[Data](articles/79300e6b.json)
-
-[Extended Data](ext_articles/79300e6b.ext.json)
-
----
-
-### The landslide that has been activated is further developed
-
-*2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/මලිත්තගොල්ල-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ/11-409553) · `si`
-
-Landslides in the Maltalagolla area have been active, with the National Building Research Institute's geologist Harshakai Perera advising caution. The Road Development Center, Disaster Management Center, and Badulla District Secretariat have been informed. The situation is being monitored, with geological investigations ongoing.
-
-🟩
-
-Further active of the landslides that have been active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area in the Maltalagolla in the Maltalagolla area.. Naturals, the main geologist Harshakai Perera, Badulla District of the National Building Research Institute, said that all the responsible sectors responsible for the election of the secure advice today (10) afterwards today.
-
-The Road Development Center, Disaster Management Center, Badulla District Secretariat, Ella Divisional Secretariat, all other responsibilities have already been informed of this in this regard.
-
-In an emergency, the institutions were informed that the matters were made to keep on landslides in the Maluththagol to the expedition of the mattra.
-
-...
-
-[Data](articles/59ac1324.json)
-
-[Extended Data](ext_articles/59ac1324.ext.json)
-
----
-
-### The landslides active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area of the Ella
-
-*2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-මලිත්තගොල්ල-ප්‍රදේශයේ-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ--සියලුම-අංශ-සීරුවෙන්/11-409553) · `si`
-
-Landslides in the Maltalagolla area, Ella, have been active, with the National Building Research Institute's geologist Harshakai Perera advising caution. The Road Development Center, Disaster Management Center, and local secretariats have been informed. The Geological Survey Department confirmed activity in Maligamuwa, with ongoing investigations. The Badulla District Secretariat is leading resettlement efforts post-2019 landslides.
-
-🟩
-
-Further active of the landslides that have been active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area in the Maltalagolla in the Maltalagolla area.. Naturals, the main geologist Harshakai Perera, Badulla District of the National Building Research Institute, said that all the responsible sectors responsible for the election of the secure advice today (10) afterwards today.
-
-The Road Development Center, Disaster Management Center, Badulla District Secretariat, Ella Divisional Secretariat, all other responsibilities have already been informed of this in this regard.
-
-In an emergency, the institutions were informed that the matters were made to keep on landslides in the Maluththagol to the expedition of the mattra.
-
-...
-
-[Data](articles/d4bd0a73.json)
-
-[Extended Data](ext_articles/d4bd0a73.ext.json)
-
----
-
-### Man shot in Ahungalla succumbs to injuries
-
-*2024-05-10 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99138/man-shot-in-ahungalla-succumbs-to-injuries) · `en`
-
-UPDATE: (9.45 pm) - The person who was injured in the shooting incident in the Maradana area in Ahungalla has succumbed to his injuries, police said.
-
-One person was critically injured and hospitalised following a shooting incident reported in Ahungalla.
-
-Police said the person injured in the shooting was admitted to the Balapitiya Base Hospital for treatment and that he was in critical condition.
-
-Ada Derana reporter said the shooting had occurred in the Maradana area in Ahungalla and that the victim, 54-year-old Piyal Gamini, is a resident of the area.
-
-The shooting was reportedly carried out by two unidentified individuals who had arrived on a motorcycle and while the victim was in his garden. He had been shot in the stomach several times by the gunmen.
-
-◼️
-
-[Data](articles/aca794c3.json)
-
-[Extended Data](ext_articles/aca794c3.ext.json)
-
----
-
-### Man seriously injured in shooting in Ahungalla
-
-*2024-05-10 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99138/man-seriously-injured-in-shooting-in-ahungalla) · `en`
-
-One person has been critically injured and hospitalised following a shooting incident reported in Ahungalla.
-
-Police said the person injured in the shooting has been admitted to the Balapitiya Base Hospital for treatment and that he is in critical condition.
-
-Ada Derana reporter said the shooting had occurred in the Maradana area in Ahungalla and that the victim, 54-year-old Piyal Gamini, is a resident of the area.
-
-The shooting was reportedly carried out by two unidentified individuals who had arrived on a motorcycle and while the victim was in his garden. He had been shot in the stomach several times by the gunmen.
-
-◼️
-
-[Data](articles/dadb23cf.json)
-
-[Extended Data](ext_articles/dadb23cf.ext.json)
-
----
-
-### A shooting of Ahungalla
-
-*2024-05-10 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196491) · `si`
-
-In Maradana, two unidentified gunmen on a motorbike shot two people, including a 54-year-old man admitted to Balapitiya Hospital after being shot in the stomach.
-
-🟩
-
-Two unidentified gunmen had been shot by two unidentified gunmen from a motorbike in Maradana.
-
-A 54-year-old shooting has been admitted to the Balapitiya Hospital.
-
-The casualty was shot dead in the yard and a few bullets have been handed over to his stomach.
-
-◼️
-
-[Data](articles/3a6df92f.json)
-
-[Extended Data](ext_articles/3a6df92f.ext.json)
 
 ---

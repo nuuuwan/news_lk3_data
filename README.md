@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 13:52:38**
+As of **2024-05-11 14:03:19**
 
 ## Newspaper Stats
 
-*Scraped **23,324** Articles*
+*Scraped **23,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,263
 economynextcom | 1,343
 dailyftlk | 1,356
 adalk | 1,977
-adaderanalk | 2,728
 tamilmirrorlk | 2,728
+adaderanalk | 2,729
 virakesarilk | 3,469
 dailymirrorlk | 3,670
 adaderanasinhalalk | 3,735
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,323 (100.0%) of 23,324 articles have been extended.
+23,324 (100.0%) of 23,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### ‘Certain parties unwilling to join debate as they lack proper economic program’ - Sajith
+
+*2024-05-11 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99146/certain-parties-unwilling-to-join-debate-as-they-lack-proper-economic-program-sajith-) · `en`
+
+Leader of the Opposition Sajith Premadasa says that certain political groups are unwilling to join a debate on economic policies as their parties have no proper outlook on the country’s economy.
+
+Joining the 181st phase of the ‘Sakwala’ programme to grant smart classrooms for schools, which was held in Divulapitiya area, the SJB Leader stated: “…they are attempting to conceal from the country the fact that they lack a proper economic program. Such hide-and-seek politics are ineffective in a bankrupt nation. We should be transparent and forthright.”
+
+“Myself and my group have already proven our talent, vision and programme. Understand this clearly: no other alternative group in this country has demonstrated such skills or talents”, he added.
+
+“Therefore, I once again urge that we hold both proposed debates. Let’s fix dates for that. Then the people can decide which party offers real solutions and which does not”, Premadasa stressed.
+
+◼️
+
+[Data](articles/f00e0787.json)
+
+---
 
 ### How the sky appeared after a powerful fire released from the Sun
 
@@ -1095,6 +1113,8 @@ Shah brings with him a wealth of experience and a proven track record in both th
 ...
 
 [Data](articles/d4a20812.json)
+
+[Extended Data](ext_articles/d4a20812.ext.json)
 
 ---
 
@@ -2177,31 +2197,5 @@ The casualty was shot dead in the yard and a few bullets have been handed over t
 [Data](articles/3a6df92f.json)
 
 [Extended Data](ext_articles/3a6df92f.ext.json)
-
----
-
-### A.D. Mr. Ranjith Kumara passes away
-
-*2024-05-10 20:25:11* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-ඩී--රංජිත්-කුමාර-මහතා-අභාවප්‍රාප්ත-වෙයි/11-409552) · `si`
-
-Ranjith Kumara, a renowned film director and writer, passed away at 77. He leaves behind a legacy of over 100 films and more than 300 books. A father figure in the media field, his funeral will be held tomorrow at Mount Lavinia.
-
-🟩
-
-Awarding newspaper autholer and a film manage for more than five people in the media field as a film writer. Ranjith Kumara passed away today (10).
-
-He was 77 years old at the time of his death. He is the Father's editorial editorial editorial lecturer of the Sarasaviya newspaper.
-
-He has placed public dignity of the funeral in Mount Lavinia tomorrow (11) to 10 am and handed over to his last will to the Medical Faculty.
-
-A. ADranjith Kumara, a veteran of filming directories, has created the directions of over 100 movies. As a designer of talented books, he had touched his reinforcement to create more than 300 books.
-
-Professor Sunil Ariyaratne contributed to coordination of products in many films created. D. He served as the Chief Organizer of the Samaraswi Awards and Sumathi Tele Awards.
-
-...
-
-[Data](articles/621a3d6f.json)
-
-[Extended Data](ext_articles/621a3d6f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 12:33:24**
+As of **2024-05-11 12:51:33**
 
 ## Newspaper Stats
 
-*Scraped **23,320** Articles*
+*Scraped **23,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
-islandlk | 1,261
+islandlk | 1,262
 economynextcom | 1,343
 dailyftlk | 1,356
 adalk | 1,977
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,318 (100.0%) of 23,320 articles have been extended.
+23,320 (100.0%) of 23,321 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ The storm could produce northern lights as far south in the U.S. as Alabama and 
 
 [Data](articles/a15af5ae.json)
 
+[Extended Data](ext_articles/a15af5ae.ext.json)
+
 ---
 
-### அபுதாபி  இளவரசர் காலமானார்
+### Abu Dhabi has passed away
 
 *2024-05-11 11:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அபுதாபி-இளவரசர்-காலமானார்/50-337120) · `ta`
 
-அபுதாபி  இளவரசர் ஷேக் ஹஸ்ஸா பின் சுல்தான் பின் சயீத் அல் நஹ்யான் (Sheikh Hazza bin Sultan bin Zayed Al Nahyan) காலாமானதாக சர்வதேச ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+Sheikh Hassa bin Sultan, eldest son of UAE President Sheikh Mohammed bin Saeed Al-Nahyan, has passed away. The international media has reported his untimely death. His funeral was held at his father's mosque in Abu Dhabi, followed by his burial.
 
-காலமான அபுதாபி இளவரசர் ஐக்கிய அரபு அமீரகத்தின் ஜனாதிபதி ஷேக் முகமது பின் சயீத் அல் நஹ்யானின் மூத்த மகனாவார்.
+🟩
 
-அபுதாபியில் உள்ள ஷேக் சுல்தான் பின் சயீத் முதல் மசூதியில் ஷேக் ஹஸ்ஸா பின் சுல்தான் பின் சயீத் அல் நஹ்யானுக்கான இறுதிச் சடங்குகளை ஷேக்குகளும் வழிபாட்டாளர்களும் செய்து, அல் பாடீன் கல்லறையில் உள்ள அவரது இறுதி இடத்துக்கு அழைத்துச் சென்றனர்.
+The international media has reported that the Prince of Abu Dhabi Sheikh Hassa bin Sultan bin Sultan Bin Sultan Bin Zayed Al Nahyan is timeless.
+
+The eldest son of the late Abu Dhabi Prince is the eldest son of the United Arab Emirates President Sheikh Mohammed bin Saeed Al -Nahyan.
+
+Sheikh Hassa bin Sultan bin Sultan bin Saeed Al -Nahyan performed the funeral at Sheikh Sultan bin Saeed's first mosque in Abu Dhabi and took Sheikh and worshipers to his final place in the tomb.
 
 ◼️
 
 [Data](articles/2b27734e.json)
+
+[Extended Data](ext_articles/2b27734e.ext.json)
 
 ---
 
@@ -1025,6 +1033,22 @@ President Ranil Wickremesinghe said that it is well aware of the challenges face
 [Data](articles/306208a2.json)
 
 [Extended Data](ext_articles/306208a2.ext.json)
+
+---
+
+### Stocks enjoy a bounce from buoyant market sentiment
+
+*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/stocks-enjoy-a-bounce-from-buoyant-market-sentiment/) · `en`
+
+The trading activities on the Colombo Stock Exchange (CSE) yesterday indicated a bullish trend due to positive forecasts from economic experts after a panel discussion held on the previous day with the Central Bank Governor Dr Nandala Weerasinghe.
+
+Further, President Ranil Wickremesinghe’s positive remarks on the future growth prospects also gave an impetus to the market, stock market analysts said.
+
+Amid those developments, the banking sector counters moved up and traded positive manner following these sentiments and also the anticipated conclusion of the external sector debt restructuring exercise, market analysts said.
+
+...
+
+[Data](articles/3ecf31a7.json)
 
 ---
 
@@ -2191,31 +2215,5 @@ The earthquake struck at 3.45 pm local time, the Chinese earthquake station said
 [Data](articles/c26c5b52.json)
 
 [Extended Data](ext_articles/c26c5b52.ext.json)
-
----
-
-### Petition from Maithri against injunction order
-
-*2024-05-10 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196489) · `si`
-
-Maithripala Sirisena, former President, has appealed to the Western Province General Assault High Court against a recent interim injunction by the Colombo District Court. He seeks its dissolution, naming Monteguara Sarachindra, the Sri Lanka Freedom Party Executive, as the respondent. Sirisena argues the injunction contradicts the law and requests its removal.
-
-🟩
-
-Former President Maithripala Sirisena has presented an appeal petition to the Western Province General Assault High Court.
-
-Former President, the Petitioner President has called for a decision to dissolve the interim injunction issued by the Colombo District Court recently.
-
-The Sri Lanka Freedom Party Executive Monteguara Sarachindra has been named as respondent from the Petition filed by lawyer Jayasuriya.
-
-Maithripala Sirisena has pointed out that the Colombo District Court has asked the Colombo District Court in the Colombo District Court that he has issued an interim injunction recently.
-
-The Colombo District Court is contradicted to law and requested Maithripala Sirisena to issue an order to remove it.
-
-◼️
-
-[Data](articles/9a605307.json)
-
-[Extended Data](ext_articles/9a605307.ext.json)
 
 ---

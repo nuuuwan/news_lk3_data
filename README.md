@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 16:18:16**
+As of **2024-05-11 16:33:40**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,346 (100.0%) of 23,348 articles have been extended.
+23,348 (100.0%) of 23,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### පාලමක් කැඩීයෑමේ අවදානමක්
+### Risk of breaking bridge
 
 *2024-05-11 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196512) · `si`
 
-මූතූර් සාෆි නගර ප්‍රදේශයේ ඇති වෙල්ලනාවල් පාලම කැඩීයාමේ අවදානමකට ලක්වී තිබේ.
+The Wellassa Bridge in Trincomalee's Muthure Division, crucial for transporting goods and aiding farmers, is at risk of collapse due to its dilapidated state, a concern raised by locals two years ago.
 
-ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ මූතුර් ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් සාෆි නගර ප්‍රදේශයේ ඇති වෙල්ලනාවල් පාලම මීටර 200ක දිගකින් යුක්තය.
+🟩
 
-යුද්ධය අවසන්වීමත් සමග එම පාලම ඉදිකර ඇත්තේ භාණ්ඩ ප්‍රවාහනය සහ ගොවීන්ගේ අස්වනු ප්‍රවාහනය කිරීමේ අරමුණිනි.
+The vellanal bridge in the Muttur Kuliya area has risen to a breakdown.
 
-ප්‍රදේශවාසීන් පවසන්නේ මීට වසර දෙකක පමණ පෙර සිට පාලම අබලන් තත්ත්වයට පත්වෙමින් තිබෙන බවය.
+The Wellassa Bridge in the Qui Town area belonging to the Muthure Divisional Secretariat Division of the Trincomalee District is about 200 meters long.
+
+With the end of the war, the bridge was constructed to transport goods and farmers.
+
+Residents say that the bridge is dilapidated to two years ago.
 
 ◼️
 
 [Data](articles/491bb610.json)
+
+[Extended Data](ext_articles/491bb610.ext.json)
 
 ---
 
@@ -276,21 +282,27 @@ Motorists are also advised to refrain from using open vehicles like bicycles, tr
 
 ---
 
-### ප්‍රභල අකුණු ගැන අවවාදාත්මක නිවේදනයක්
+### An inspired announcement on the elite lightning
 
 *2024-05-11 14:00:22* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභල-අකුණු-ගැන-අවවාදාත්මක-නිවේදනයක්/11-409558) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, වයඹ, ඌව සහ උතුරු- මැද පළාත්වලත් මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලත්
+The Department of Meteorology warns of intense lightning in the evening across several provinces, including Western, Sabaragamuwa, Southern, Central, Uva, and North-Central, as well as Mannar and Vavuniya Districts. Expect localized strong winds during thundershowers and be aware of lightning-related diseases. The government advises taking necessary precautions. This alert is effective until 11 pm today.
 
-සවස් කාලවේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රභල අකුණු ඇතිවීවම් වැඩි හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැක. අකුණු මඟින් සිදුවන අනතුරු අවම
+Western, Sabaragamuwa, Southern, Central, Uva and North-North- Central provinces in the Mannar and Vavuniya Districts
 
-කර ගැනීමට අවශය පියවර ගන්තනා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි. අද පස්වරු 1ට නිකුත් කළ මෙම නිවේදනය රාත්‍රි 11 තෙක් වලංගු බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+The Department of Meteorology says that there is a greater lightning in the evening at the evening or night.
+
+There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
+
+The government requests the public as the steps to be taken to make. The announcement issued at 1 pm this afternoon is valid until 11 pm.
 
 ◼️
 
 [Data](articles/f203570e.json)
+
+[Extended Data](ext_articles/f203570e.ext.json)
 
 ---
 

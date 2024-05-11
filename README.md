@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 22:51:26**
+As of **2024-05-11 23:03:13**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,371 (100.0%) of 23,373 articles have been extended.
+23,373 (100.0%) of 23,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### රටින් පනින්න ගිය දෙදෙනෙක් කටුනායකදී කොටුවෙයි
+### Two tournament in the country falls into Katunayake
 
 *2024-05-11 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196524) · `si`
 
-ව්‍යාජ ගුවන් ගමන් බලපත්‍ර භාවිත කර කටුනායක ගුවන් තොටුපොළින් කැනඩාව බලා යෑමට උත්සාහ කළ පුද්ගලයින් දෙනෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Katunayake, two tournaments are held, and at the airport, nine people are arrested for using fake passports. Additionally, two from Jaffna, arrested in Negombo, were caught forging passports.
 
-සැකකරුවන්ට ව්‍යාජ ගුවන් ගමන් බලපත්‍ර සකස් කර දුන් යාපනයේ පදිංචි පුද්ගලයින් දෙදෙනෙකු ද මීගමුවේදී අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+A leven persons have been arrested by the Katunayaka airport by using fake passports.
+
+Two people from Jaffna have been arrested in Negombo who prepared false passports to the suspects.
 
 ◼️
 
 [Data](articles/ae47ec78.json)
+
+[Extended Data](ext_articles/ae47ec78.ext.json)
 
 ---
 
@@ -103,6 +109,8 @@ MPs holding dual citizenship should step down before the upcoming elections; oth
 ...
 
 [Data](articles/11586861.json)
+
+[Extended Data](ext_articles/11586861.ext.json)
 
 ---
 

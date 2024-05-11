@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 20:18:27**
+As of **2024-05-11 20:33:44**
 
 ## Newspaper Stats
 
-*Scraped **23,365** Articles*
+*Scraped **23,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,65 @@ tamilmirrorlk | 2,732
 adaderanalk | 2,734
 virakesarilk | 3,476
 dailymirrorlk | 3,678
-adaderanasinhalalk | 3,747
+adaderanasinhalalk | 3,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,362 (100.0%) of 23,365 articles have been extended.
+23,365 (100.0%) of 23,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### කෘත්‍රීම බුද්ධිය සහ බෞද්ධ දර්ශනය අතර සම්බන්ධය සොයා යයි
+### රුසියා - යුක්‍රේන යුද්ධය මැද තවත් ශ්‍රී ලාංකිකයන් පිරිසක් මිය ගිහින්
+
+*2024-05-11 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196520) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධයේ කුලී හමුදාවන්ට එක්වී සිටි ශ්‍රී ලාංකිකයින් 17 දෙනෙකු මියගොස් ඇති බවට තොරතුරු වාර්තා වී තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තැනැත්තන් වෙළෙඳාම, ජාවාරම් විමර්ශන සහ සමුද්‍රීය අපරාධ කොට්ඨාසය ඒ බව පවසයි.
+
+මේ අතර රුසියාවට ගිය තවත් විශ්‍රාමික සෙබළුන් දෙදෙනකු අතුරුදන්වී ඇති බවට අද (11) වාර්තා විය.
+
+ඥාතීන් පවසන්නේ, මාර්තු 29 වනදා සිට ඔවුන්ගෙන් කිසිදු තොරතුරක් වාර්තා නොවූ බවය.
+
+විශ්‍රාමික ගුවන් හමුදා නිලධාරියෙකු වූ පදවිය ප්‍රදේශයේ පදිංචි අසංක චන්දන මහතාද පසුගිය පෙබරවාරි මස 12 වනදා රුසියාව වෙනුවෙන් යුද වැදීම සඳහා රුසියාවට ගොස් තිබුණි.
+
+‍ඔහු සිය නිවැසියන්ට අවසන් දුරකථන ඇමතුම ලබාදී තිබුණේ පසුගිය  මාර්තු මස 29 වනදාය.
+
+එදින සිට මේ දක්වා ඔහු පිළිබඳව කිසිඳු තොරතුරක් වාර්තා වී නොමැත.
+
+මේ අතර මැදවච්චිය වහමල්ගොල්ලෑව ප්‍රදේශයේ පදිංචි විශ්‍රාමික කොමාන්ඩෝ නිලධාරියෙකු වන ප්‍රදීප් චන්දන මහතාද පෙබරවාරි මස 12 වනදා රුසියාව බලා පිටත්ව ගොස් තිබෙන අතර ඔහුද සිය අවසන් ඇමතුම නිවසට ලබාදී ඇත්තේ මාර්තු මස 29 වැනිදාය.
+
+◼️
+
+[Data](articles/88d24a00.json)
+
+---
+
+### Artificial intelligence and Buddhist philosophy finds the relationship
 
 *2024-05-11 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196519) · `si`
 
-කෘත්‍රීම බුද්ධිය සහ බෞද්ධ දර්ශනය අතර පවතින සම්බන්ධතාවය පිළිබඳ පර්යේෂණ කිරීමට රුපියල් බිලියනයක මුදලක් වෙන්කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe discusses the intersection of Buddhist philosophy and artificial intelligence, emphasizing the need for new laws to address climate change and technological advancements. He mentions a technological growth draft and plans to allocate funds for an AI center, linking Buddha's teachings with AI research.
 
-ශ්‍රී ලංකා බෞද්ධ සමිතියට සිය වසරක් සපිරීම නිමිත්තෙන් අද (11) පැවති සැමරුම් උලෙළට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ කෘතිම බුද්ධිය ආශ්‍රිත ක්‍රියාකාරකම් පාලනය කිරීමට නව නීති ගෙනඑන බවය.
+🟩
 
-"ඉරාන්ගේ ඉල්ලීමටයි මම අද ආවේ. අපිට දැන් අනාගතය ගැන සිතන්න වෙනවා. බුද්ධ දේශනයට අනුව අනාගතය දිහා බලද්දි ප්‍රධාන කරුණු දෙකකට මුහුණ දෙන්න සිද්ධ වෙනවා. දේශගුණික විපර්යාසවලට මුහුණ දෙන්න සිදුවෙනවා. මේ මාසයේ උණුසුම පෙර නොතිබුණ තත්ත්වයක්. කොහොමද ඒකට මුහුණ දෙන්නේ. මේ ප්‍රශ්නය ඇතිවුණේ ශිෂ්ඨාචාරයේ තණ්හාව නිසා දියුණු වෙද්දි පරිසරයට වෙන හානිය තකන්නේ නැති නිසා. කොහොමද දේශගුණික විපර්යාස පාලනය කරන්නේ."
+President Ranil Wickremesinghe says that a sum of Rs.
 
-...
+The President added that he would bring new laws to control the Sri Lanka Buddhist Society today (11).
+
+"Irage's request and I came today. We have to think about the future now. According to the Buddha's lecture, two main points have to face the future. Climate change has to face. The warmth this month is not before. How to face it. This problem was because of the craving of the civilization, because the environment would not be made. How is climate change? "
+
+"How does the Buddha vision face?. The advancement of technology has come to artificial intelligence today. What is the relationship between the word of artificial intelligence?It should be thought to be artificial intelligence. New rules for artificial intelligence. Was prepared a technological growth draft. Build an artificial intelligence center. Research on Buddha Vision and Artificial Intelligence. Separate about a billion rupees. "
+
+◼️
 
 [Data](articles/8cd13706.json)
+
+[Extended Data](ext_articles/8cd13706.ext.json)
 
 ---
 
@@ -61,6 +95,8 @@ Furthermore, Operation "Yukthiya" has led to the seizure of illegal assets value
 ◼️
 
 [Data](articles/a99fdfa2.json)
+
+[Extended Data](ext_articles/a99fdfa2.ext.json)
 
 ---
 
@@ -127,6 +163,8 @@ According to his affidavit, Sandhu declared moveable and immovable assets owned 
 ◼️
 
 [Data](articles/dc28d8cd.json)
+
+[Extended Data](ext_articles/dc28d8cd.ext.json)
 
 ---
 
@@ -2283,29 +2321,5 @@ The Chunnakam police have launched an investigation into the incident and it is 
 [Data](articles/f8b4f63b.json)
 
 [Extended Data](ext_articles/f8b4f63b.ext.json)
-
----
-
-### SL to see an increase in automobile assembly plants
-
-*2024-05-11 00:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-to-see-an-increase-in-automobile-assembly-plants/108-282381) · `en`
-
-JAC and FOTON are among those gearing up to start assembling in Sri Lanka
-
-Industry Ministry expects to have around 30 assemblers operating by year end
-
-Sri Lanka will see the addition of automobile assembly plants, as four are set to begin operations within the next three months and another 11 have been registered by the Industries Ministry.
-
-A Special Cabinet-appointed Committee oversees the Standard Operating Procedure (SOP) and its governance.
-
-JAC and FOTON are among those gearing up to start assembling in Sri Lanka. By end-2024, the ministry expects to have around 30 entities operating in the local automobile assembly industry.
-
-Accordingly, the local automobile assembly industry is experiencing a significant growth and development with the involvement of the world-renowned brands, including Hyundai, Proton, BAIC, DFSK, Wuling, Mahindra, TATA, Bajaj, TVS, JMC and Lanka Ashok Leyland, emphasising the favourable environment for investment.
-
-...
-
-[Data](articles/6ea6f526.json)
-
-[Extended Data](ext_articles/6ea6f526.ext.json)
 
 ---

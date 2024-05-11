@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 11:18:17**
+As of **2024-05-11 11:33:33**
 
 ## Newspaper Stats
 
-*Scraped **23,308** Articles*
+*Scraped **23,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,80 @@ bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
 islandlk | 1,261
-economynextcom | 1,341
+economynextcom | 1,343
 dailyftlk | 1,356
-adalk | 1,973
+adalk | 1,976
 adaderanalk | 2,727
 tamilmirrorlk | 2,727
 virakesarilk | 3,469
-dailymirrorlk | 3,666
+dailymirrorlk | 3,669
 adaderanasinhalalk | 3,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,308 (100.0%) of 23,308 articles have been extended.
+23,308 (100.0%) of 23,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Some players excluded from new contracts despite ICC T20 World Cup roles
+
+*2024-05-11 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-players-excluded-from-new-contracts-despite-ICC-T20-World-Cup-roles/108-282388) · `en`
+
+Colombo, May 11 (Daily Mirror) - Sri Lanka Cricket (SLC) has unveiled a revamped contract structure for forty-one national players, with substantial raises in player fees across all formats, ahead of the upcoming ICC T20 World Cup.
+
+The decision comes as part of SLC's efforts to recognize and reward players based on their performance and rankings in international cricket.
+
+However, despite their roles as traveling reserves for the upcoming ICC T20 World Cup, certain players like Bhanuka Rajapaksa and young spinner Vijayakanth Viyaskanth have been excluded from the new contract.
+
+Under the new contract system, which includes six categories (A1, A2, B2, C1, C2, and the 'A' Team), match fees for Test matches have been doubled, marking a 100 percent increase.
+
+In addition, payments for Test matches will now be merit-based, varying depending on whether the match is won, drawn, or lost.
+
+...
+
+[Data](articles/4f570500.json)
+
+---
+
+### Woman raped, strangled to death in Maradankerni
+
+*2024-05-11 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-raped-strangled-to-death-in-Maradankerni/108-282385) · `en`
+
+Colombo, May 11 (Daily Mirror) - The Maradankerni Police have initiated an investigation following the suspicious death of a woman at a residence in Thalai Adi, Maradankerni, last night.
+
+Police said the deceased is a 44-year-old mother of three and a resident of Maradankerni.
+
+Her husband, returning from a fishing job, discovered her body near the toilet and she was pronounced dead upon admission to the Point Pedro Hospital.
+
+A post-mortem examination confirmed that the woman had been raped and strangled to death.
+
+◼️
+
+[Data](articles/f897563b.json)
+
+---
+
+### Two bills to empower women during economic recovery
+
+*2024-05-11 11:00:00* · [`economynextcom`](https://economynext.com/two-bills-to-empower-women-during-economic-recovery-162605/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government will present two bills to Parliament to empower women during the initial phase of economic recovery, President Ranil Wickremesinghe has said.
+
+Women face challenges in safeguarding their families amidst the economic crisis, Wickremesinghe said. “I witnessed first-hand the dire plight of women, many heading households amidst scarcity.”
+
+Wickremesinghe was speaking at the unveiling of three “Anti-Violence Global Gestures” handprints against sexual violence targeting women and girls in public spaces, organized by Dhammika Perera’s DP Education at the Nelum Pokuna Theater in Colombo on Friday.
+
+“This endeavour holds promise in empowering women against the scourge of violence they face, particularly exacerbated by economic crises,” Wickremesinghe said. “Legislation against such violence is being introduced in parliament.”
+
+...
+
+[Data](articles/a9dd1d5a.json)
+
+---
 
 ### Britain should report to Sri Lanka
 
@@ -77,6 +133,24 @@ Furthermore, she has underscored the need for good governance and transparency a
 [Data](articles/599c1952.json)
 
 [Extended Data](ext_articles/599c1952.ext.json)
+
+---
+
+### Woman injured in shooting at Medawachchiya
+
+*2024-05-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-injured-in-shooting-at-Medawachchiya/108-282386) · `en`
+
+Colombo, May 11 (Daily Mirror) - A 44-year-old woman was hospitalized after she was injured by gunshots in Medawachchiya last night.
+
+Police said the victim was admitted to the Medawachchiya Hospital and later transferred to the Anuradhapura Hospital for further treatment.
+
+The suspect, who had committed the shooting over a personal dispute, had fled the area.
+
+Police said a 12-bore firearm was used for the shooting. The Medawachchiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/99f21f00.json)
 
 ---
 
@@ -169,6 +243,22 @@ The Ada Derana reporter said that one of the two persons who were injured, one o
 [Data](articles/790c7fe5.json)
 
 [Extended Data](ext_articles/790c7fe5.ext.json)
+
+---
+
+### මංගල ගෙදර අවමංගල්‍යයක් වෙයි
+
+*2024-05-11 10:13:40* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409555) · `si`
+
+විවාහ මංගල්‍යයකට සහභාගී වී  නැවත නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් කැබ්  රථයක් සහ  ලොරි රථයක් 10 දින රාත්‍රී දඹුල්ල දිගම්පතහ අතරමැදී  කඳවුර ආසන්නයේදී අනතුරකට ලක්ව එක් කාන්තාවක් මිය ගොස් තවත් නව දෙනෙක්  තුවාල ලබා දඹුල්ල මූලිකරෝහලට ඇතුළත් කර ඇතැයි සීගිරිය පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ  හබරණ හිරිවඩුන්න  ප්‍රදේශයේ පදිංචි  සන්ද්‍යා  කුමාරි 44   හැවිරිදි කාන්තාවක් බව පොලිසිය කියයි, බරපතල තුවාල ලැබූ   අවුරුදු තුනක පමණ  කුඩා ගැහැණු දරුවෙක්  මහනුවර රෝහලට  මාරුකර යැවී බව දඹුල්ල මූලික රෝහලේ ප්‍රකාශකයකු  පැවසිය .
+
+දඹුල්ල ඉනාමලුව ප්‍රදේශයේ හෝටලයක පැවති විවාහ  මංගල්‍යය කට සහභාගි වී   හිරිවඩුන්න ප්‍රදේශයට මෙම   ඥාතීන් පිරිස ගමන් කරමින් සිට ඇත   හබරණ දෙසින්  දඹුල්ල දෙසට  යෝගට් ප්‍රවාහනය කරමින් තිබු ලොරි රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුවීම් ඇති බවත් අනතුරින් කැබ් රථයේ  ගමන් කළ සියලු දෙනාම   තුවාල ලබා ඇතැයි සීගිරිය පොලිසිය කියයි.
+
+...
+
+[Data](articles/6e57c080.json)
 
 ---
 
@@ -543,6 +633,28 @@ The injured person was admitted to the Balapitiya Hospital.
 [Data](articles/50984cae.json)
 
 [Extended Data](ext_articles/50984cae.ext.json)
+
+---
+
+### Sri Lanka’s April tourism revenue rise 52-pct
+
+*2024-05-11 07:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-april-tourism-revenue-rise-52-pct-162598/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to 225.7 million dollars in April 224, a 52 percent jump from last year, the central bank said quoting tourism promotion authorities.
+
+Sri Lanka’s tourist arrivals went up 78 percent to 784,651 persons in the first four months of 2024.
+
+Tourism earnings in April were estimated at 225.7 million dollars, up from 148.2 million dollars a year ago.
+
+The tourism has helped the island nation to see an inflow of 1,251.6 million dollars in the first four months of the year, 92 percent higher than the same period in 2023.
+
+The tourism earnings figure is estimated from a survey conducted by Sri Lanka Tourism Development Authority.
+
+Sri Lanka’s imports and the merchandise trade deficit has gradually picked as tourism earnings came in and people in the sector spent the wages and other earnings. (Colombo/May 11/2024)
+
+◼️
+
+[Data](articles/3e65e038.json)
 
 ---
 
@@ -1618,6 +1730,26 @@ State Minister Dr. Ranjith Siyambalapitiya says that the President has instructe
 
 ---
 
+### අහුංගල්ලේ වෙඩි තැබීමකින් පුද්ගලකු ජීවිතක්ෂයට
+
+*2024-05-10 21:37:30* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබීමකින්-පුද්ගලකු-ජීවිතක්ෂයට/11-409554) · `si`
+
+අහුංගල්ල, මරදාන ප්‍රදේශයේ යතුරු පැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමකින් 54 හැවිරිදි අයෙක්  තුවාල ලබා බරපතළ තත්ත්වයෙන්  බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය සඳහන් කරයි.
+
+මෙසේ වෙඩි වැදී ඇත්තේ අහුන්ගල්ල මරදාන ප්‍රදේශයේම පදිංචි පියල් සිල්වා නමැත්තිකුට බවද පොලීසිය කියයි.ඔහු පෙදරේරුවෙක් බවත් පොලීසිය කියයි.
+
+යතුරු පැදියකින් පැමිණි නාදුනන තුවක්කුකරුවන් දෙදෙනෙක් ඔහුට වෙඩි තබා පලා ගොස් ඇති බවත් මේ වෙඩි ප්‍රහාරයෙන් ඔහුට වෙඩි පහක් පමණ වැදී ඇති බවත් පොලීසිය කියයි.
+
+මේ ආකාරයටම මීට දින දෙකකට පමණ උඩදී මැයි 8 වැනිදා රාත්‍රී 8 ට පමණ අහුන්ගල්ල ලෝකන්වත්ත ප්‍රදේශයේදී පාතාල නායක බබාගේ පියා නාදුනන තුවක්කුකරුවන් විසින් ඝාතනය කොට තිබිණ.මේ වෙඩි තැබීමත් 8 වැනිදා වෙඩි තැබීම සිදුවූ ආසන්නයේවීම ද විශේෂයෙන්ම කැපීපෙනේ.
+
+මේ වෙඩි තැබීම එයට ප්‍රතිප්‍රහාරයක් විය හැකි බවත් අද (10) රාත්‍රීයේ වෙඩි තැබීමට නාදුනන තුවක්කුකරුවන් පැමිණ ඇත්තේ යතුරු පැදියකින් බවත් පොලීසිය කියයි.
+
+...
+
+[Data](articles/69b04639.json)
+
+---
+
 ### Your mother is the one who will stand by you even if the entire world is against you. Christobel Cooray my Amma stood by me. She stands by me. It’s love, unadulterated. Children  are reminded of all that when Mother’s Day comes around
 
 *2024-05-10 21:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84014) · `en`
@@ -1725,6 +1857,22 @@ During a telephone conversation, Inspector Padmalal and the main opponent of Roh
 [Data](articles/79300e6b.json)
 
 [Extended Data](ext_articles/79300e6b.ext.json)
+
+---
+
+### මලිත්තගොල්ල සක්‍රීය වී ඇති නාය යාම තව දුරටත් වර්ධනය වේ
+
+*2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/මලිත්තගොල්ල-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ/11-409553) · `si`
+
+ඇල්ල  කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම දැනට පතිත වන ධාරානිපාත වර්ෂාවත් සමඟ තව දුරටත් සක්‍රීය වීම. නිසාවෙන් ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය ට අනතුරුදායක තත්ත්වයක් උදා වී ඇති හෙයින්   ආරක්ෂිත උපදෙස් ක්‍රියා මාර්ග ගන්නා ලෙසට අදාළ වගකිවයුතු සියලුම අංශ  අද (10) පස්වරුවේ  දැනුවත් කල බව ජාතික  ගොඩනැගිලි පර්යේෂණ ආයතනයේ බදුල්ල දිස්ත්‍රික් ප්‍රධාන භූවිද්‍යඥ හර්ශනී පෙරේරා මහත්මිය පැවසුවාය .
+
+මාර්ග සංවර්ධන අධ්කාරිය, ආපදා කළමනාකරණ මධ්‍යස්ථානය, බදුල්ල දිස්ත්‍රික් ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ආදි වගකිවයුතු සියලුම අංශ වල නිළධාරින් මේ සම්බන්ධයෙන් දැනටමත් දැනුවත් කර තිබෙන බවත් ඇය කීවාය .
+
+හදිසි අවස්ථාවකදී ආපදාවකදී අදාළ කටයුතු කඩිනමින් සිදු කිරිමටත්, වර්ෂාවත් සමඟ මෙම මලිත්තගොල්ල නාය යාම සම්බන්ධයෙන් නිරතුරුවම අවධානයෙන් සිටින ලෙසට එම ආයතන දැනුවත් කල බව කීවාය .
+
+...
+
+[Data](articles/59ac1324.json)
 
 ---
 
@@ -2029,177 +2177,5 @@ The statement further adds that 41 players have been selected for new contracts.
 [Data](articles/49382233.json)
 
 [Extended Data](ext_articles/49382233.ext.json)
-
----
-
-### Warning on hot weather!
-
-*2024-05-10 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183185) · `ta`
-
-High heat warnings issued for Northern, North Central Provinces, and Trincomalee, Batticaloa districts. Expect intense heat affecting human comfort.
-
-🟩
-
-The announcement is likely to be high for the Northern and North Central Provinces and Trincomalee and Batticaloa districts, the Department of Meteorology said.
-
-Accordingly, heat in the above areas is expected to be high enough to be felt by the human body.
-
-◼️
-
-[Data](articles/5804500a.json)
-
-[Extended Data](ext_articles/5804500a.ext.json)
-
----
-
-### Exams chief assures no ‘paper leak’ reported in O/L examination
-
-*2024-05-10 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99136/exams-chief-assures-no-paper-leak-reported-in-ol-examination-) · `en`
-
-The Commissioner General of Examinations Mr. H.J.M.C. Amith Jayasundara says that although a few incidents of irregularities were reported during the ongoing 2023 G.C.E. Ordinary Level examination, no ‘question paper leak’ has taken place.
-
-Speaking to the media in this regard, the Exams chief pointed out that the confidentiality of a question paper is considered to be within the first half hour after the commencement of the examination.
-
-He further assured that there are no reports of any circulation of the question papers before the examination, as per the facts received by him thus far.
-
-◼️
-
-[Data](articles/96461ef5.json)
-
-[Extended Data](ext_articles/96461ef5.ext.json)
-
----
-
-### Sri Lanka in talks with Canada investors for US$500mn industrial zone in Jaffna
-
-*2024-05-10 18:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-canada-investors-for-us500mn-industrial-zone-in-jaffna-162541/) · `en`
-
-ECONOMYNEXT- Sri Lanka is in talks with Canada-based entrepreneurs of Sri Lanka origin to build a 500 million dollar industrial park in Kankesanthurai in the Jaffna peninsula, State Minister for Investment Promotion Dilum Amunugama said.
-
-The industrial park will be built on 700 acres by a defunct state-run cement factory.
-
-The investors will invest 500 million dollars to build infrastructure in the land given by the Board of Investment under a private public partnership model.
-
-The Canadian entrepreneurs will build roads and other infrastructure and will attract investors into the zone to recover their costs.
-
-The zone operators have the choice of also constructing buildings and offering plug-and-play factories.
-
-“It is entirely up to them,” Minister Amunugama said. “They can build factories or offer bare land.”
-
-The defunct cement factory only has limestone in about 100 acres which will not be sufficient to sustain a cement factory for a long time, he said.
-
-...
-
-[Data](articles/582a71e6.json)
-
-[Extended Data](ext_articles/582a71e6.ext.json)
-
----
-
-### An Examinations Commissioner for Examinations regarding the GCE O / L
-
-*2024-05-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196487) · `si`
-
-Amit Jayasundara, Commissioner General of Examinations, clarified that no exam question papers were leaked or circulated before the GCE O/L exams. He emphasized that all incidents occurred during the exam, not before, and that the Examination Act treats question papers as confidential until 30 minutes before the exam starts. This prevents candidates from gaining an unfair advantage. The incidents were reported in Colombo, leading to staff training on handling mobile phones and strengthening monitoring.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said that there was no question papers regarding several examination irregularities.
-
-The Commissioner General of Examinations said that the examination begins in the first half of the examination.
-
-...
-
-[Data](articles/cf437b63.json)
-
-[Extended Data](ext_articles/cf437b63.ext.json)
-
----
-
-### Sri Lanka Cricket raises player fees across all formats
-
-*2024-05-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-raises-player-fees-across-all-formats/108-282332) · `en`
-
-Colombo, May 10 -  Sri Lanka Cricket (SLC) has decided to enhance player welfare and incentivizing performance by announcing substantial increases in player fees across all formats, effective immediately.
-
-The decision, aimed at recognizing the efforts and dedication of Sri Lanka's international cricketers, will see 41 players being offered new contracts under six categories: A1, A2, B2, C1, C2, and the 'A' Team.
-
-One of the most notable changes comes in the Test format, where match fees have been doubled, marking a 100 percent increase. Moreover, payments for Test matches will now be determined on a merit basis, reflecting the player's performance and contribution to the team's success.
-
-For One Day Internationals (ODIs) and Twenty20 Internationals (T20Is), match fees have been raised by a commendable 25 percent, acknowledging the challenges and intensity of these shorter formats.
-
-...
-
-[Data](articles/46e2233f.json)
-
-[Extended Data](ext_articles/46e2233f.ext.json)
-
----
-
-### Another prosperous announcement
-
-*2024-05-10 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196486) · `si`
-
-The Department of Meteorology has announced warm weather for the Northern and North Central Province, Trincomalee, and Batticaloa Districts, with a 'focus' on these areas.
-
-🟩
-
-The Department of Meteorology has issued an announcement of warm weather conditions.
-
-The announcement is effective for the Northern and North Central Province and Trincomalee and Batticaloa Districts.
-
-Accordingly, the warm indicator of the above areas is expected to be "focused" at a 'focus'.
-
-Therefore, the Department of Meteorology announces the vicinity of the above areas.
-
-◼️
-
-[Data](articles/79a49fdd.json)
-
-[Extended Data](ext_articles/79a49fdd.ext.json)
-
----
-
-### Announced on Diana's Mental Health Investigation
-
-*2024-05-10 17:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவின்-மனுமீதான-விசாரணை-குறித்து-வெளியான-அறிவிப்பு/175-337094) · `ta`
-
-The High Court has ordered Diana Kamage's case for a hearing on the 28th, seeking to overturn a resolution by the United People's Power. President's Attorney Faizer Mustafa is representing Diana, requesting the court to decide on the matter.
-
-🟩
-
-The High Court today (10) ordered that Diana Kamage be taken up for hearing on the 28th of this month demanding the cancellation of the resolution taken from the United People's Power.
-
-The order was issued when the petition was taken up for hearing today (10) in the presence of a panel of High Court Judges.
-
-President's Attorney Faizer Mustafa, appearing on behalf of Diana Kamage, will continue this petition?He demanded that the decision be given to the court.
-
-Accordingly, the High Court has ordered that the petition be taken up for hearing on the 28th of this month.. Remble
-
-◼️
-
-[Data](articles/3723af46.json)
-
-[Extended Data](ext_articles/3723af46.ext.json)
-
----
-
-### Maithri sought court
-
-*2024-05-10 17:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-நாடினார்-மைத்திரி/175-337093) · `ta`
-
-Former President Maithripala Sirisena appealed to the Civil Appeal Court to overturn a Colombo District Court order banning SLFP leader Maithri. The interim order was issued in response to a petition by SLFP member Mundiku Sarachandran.
-
-🟩
-
-Former President Maithripala Sirisena has appealed to the Civil Appeal Court today (10) demanding the cancellation of an interim order issued by the Colombo District Court to ban the SLFP leader.
-
-The Colombo District Court, considering a petition filed by Mr. Mundiku Sarachandran, a member of the Sri Lanka Freedom Party Executive Committee and Cultural Organizer, has called for an interim order issued on the 24th.
-
-◼️
-
-[Data](articles/8a9830a8.json)
-
-[Extended Data](ext_articles/8a9830a8.ext.json)
 
 ---

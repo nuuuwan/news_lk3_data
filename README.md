@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 15:33:41**
+As of **2024-05-11 15:52:11**
 
 ## Newspaper Stats
 
-*Scraped **23,342** Articles*
+*Scraped **23,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ tamilmirrorlk | 2,730
 adaderanalk | 2,730
 virakesarilk | 3,474
 dailymirrorlk | 3,673
-adaderanasinhalalk | 3,739
+adaderanasinhalalk | 3,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,340 (100.0%) of 23,342 articles have been extended.
+23,342 (100.0%) of 23,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### මෙරට රන් මිලේ වෙනසක්
+### පළාත් කිහිපයක ජනතාවට අනතුරු ඇඟවීමක්
+
+*2024-05-11 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196511) · `si`
+
+ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, ඌව සහ උතුරු මැද පළාත්වලත් මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලත් අද (11) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි අවදානමක් පවතින බව එම නිවේදනයේ දැක්වෙයි.
+
+එම ප්‍රදේශවල ජනතාවට විමසිලිමත් වන ලෙසත් ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බව ද අදාළ නිවේදනයේ තවදුරටත් දැක්වෙයි.
+
+එම නිවේදනය අද (11) රාත්‍රී 11.30 වෙනතුරු වලංගු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/53a4ebc5.json)
+
+---
+
+### Gold price in Sri Lanka
 
 *2024-05-11 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196510) · `si`
 
-මෙරට රත්‍රං මිල ගණන් ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+Gold prices in Sri Lanka have risen, with a 22-carat pound reaching Rs. 177,600 and 24-carat gold at Rs. 193,000.
 
-ඒ අනුව අද (11) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 177,600ක් දක්වා ඉහළ ගොස් තිබේ.
+🟩
 
-මේ අතර ඊයේ රුපියල් 191,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද වනවිට රුපියල්  193,000ක් දක්වා රුපියල් 2,000කින් ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+The market data indicates that the prices of gold has increased.
+
+Accordingly, the price of a 22 carrot pound in the gold market in the gold market in Colombo this morning (11) was Rs.. Has risen to 177,600.
+
+Meanwhile, the price of '24 carrots' gold calendar has risen to Rs. 193,000 today.
 
 ◼️
 
 [Data](articles/3cfc8c30.json)
+
+[Extended Data](ext_articles/3cfc8c30.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ The island nation's leadership believes that despite the complexities of the sit
 ...
 
 [Data](articles/dcffbae1.json)
+
+[Extended Data](ext_articles/dcffbae1.ext.json)
 
 ---
 
@@ -2207,21 +2233,5 @@ In February 2023, Sri Lanka adopted its first NAP on WPS, in keeping with its in
 [Data](articles/d1299861.json)
 
 [Extended Data](ext_articles/d1299861.ext.json)
-
----
-
-### Artificial Limb Camp by India
-
-*2024-05-10 23:18:29* · [`dailyftlk`](https://www.ft.lk/news/Artificial-Limb-Camp-by-India/56-761642) · `en`
-
-A camp to provide artificial limbs to 1,000 Sri Lankan beneficiaries was jointly inaugurated on 7 May by High Commissioner of India to Sri Lanka Santosh Jha and State Minister of Defence Premitha Bandara Tennakoon in the presence of Defence Secretary Gen. Kamal Gunaratne and Sri Lankan Army Commander Lt. Gen. Vikum Liyanage at the Ranaviru Seva Authority premises in Gampaha district.
-
-The camp will be conducted roughly over a period of two months at two locations viz Colombo and Vavuniya, and will serve civilians and defence personnel from different regions of the country. The civilian beneficiaries have been identified with the support of All Ceylon Buddhist Congress.
-
-...
-
-[Data](articles/c0e8746d.json)
-
-[Extended Data](ext_articles/c0e8746d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 11:33:33**
+As of **2024-05-11 11:52:55**
 
 ## Newspaper Stats
 
-*Scraped **23,316** Articles*
+*Scraped **23,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,261
 economynextcom | 1,343
 dailyftlk | 1,356
-adalk | 1,976
+adalk | 1,977
 adaderanalk | 2,727
 tamilmirrorlk | 2,727
 virakesarilk | 3,469
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,308 (100.0%) of 23,316 articles have been extended.
+23,316 (100.0%) of 23,317 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ In addition, payments for Test matches will now be merit-based, varying dependin
 
 [Data](articles/4f570500.json)
 
+[Extended Data](ext_articles/4f570500.ext.json)
+
 ---
 
 ### Woman raped, strangled to death in Maradankerni
@@ -68,6 +70,8 @@ A post-mortem examination confirmed that the woman had been raped and strangled 
 
 [Data](articles/f897563b.json)
 
+[Extended Data](ext_articles/f897563b.ext.json)
+
 ---
 
 ### Two bills to empower women during economic recovery
@@ -85,6 +89,8 @@ Wickremesinghe was speaking at the unveiling of three “Anti-Violence Global Ge
 ...
 
 [Data](articles/a9dd1d5a.json)
+
+[Extended Data](ext_articles/a9dd1d5a.ext.json)
 
 ---
 
@@ -152,6 +158,8 @@ Police said a 12-bore firearm was used for the shooting. The Medawachchiya Polic
 
 [Data](articles/99f21f00.json)
 
+[Extended Data](ext_articles/99f21f00.ext.json)
+
 ---
 
 ### Arvind Kejriwal interim bail
@@ -177,6 +185,22 @@ Earlier, Arvind Kejriwal had called for bail to be granted bail in the Lok Sabha
 [Data](articles/33995d4c.json)
 
 [Extended Data](ext_articles/33995d4c.ext.json)
+
+---
+
+### මංගල ගෙදර අවමංගල්‍යයක් වෙයි
+
+*2024-05-11 10:32:37* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409557) · `si`
+
+විවාහ මංගල්‍යයකට සහභාගී වී  නැවත නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් කැබ්  රථයක් සහ  ලොරි රථයක් 10 දින රාත්‍රී දඹුල්ල දිගම්පතහ අතරමැදී  කඳවුර ආසන්නයේදී අනතුරකට ලක්ව එක් කාන්තාවක් මිය ගොස් තවත් නව දෙනෙක්  තුවාල ලබා දඹුල්ල මූලිකරෝහලට ඇතුළත් කර ඇතැයි සීගිරිය පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ  හබරණ හිරිවඩුන්න  ප්‍රදේශයේ පදිංචි  සන්ද්‍යා  කුමාරි 44   හැවිරිදි කාන්තාවක් බව පොලිසිය කියයි, බරපතල තුවාල ලැබූ   අවුරුදු තුනක පමණ  කුඩා ගැහැණු දරුවෙක්  මහනුවර රෝහලට  මාරුකර යැවී බව දඹුල්ල මූලික රෝහලේ ප්‍රකාශකයකු  පැවසිය .
+
+දඹුල්ල ඉනාමලුව ප්‍රදේශයේ හෝටලයක පැවති විවාහ  මංගල්‍යය කට සහභාගි වී   හිරිවඩුන්න ප්‍රදේශයට මෙම   ඥාතීන් පිරිස ගමන් කරමින් සිට ඇත   හබරණ දෙසින්  දඹුල්ල දෙසට  යෝගට් ප්‍රවාහනය කරමින් තිබු ලොරි රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුවීම් ඇති බවත් අනතුරින් කැබ් රථයේ  ගමන් කළ සියලු දෙනාම   තුවාල ලබා ඇතැයි සීගිරිය පොලිසිය කියයි.
+
+...
+
+[Data](articles/79a1af16.json)
 
 ---
 
@@ -246,19 +270,33 @@ The Ada Derana reporter said that one of the two persons who were injured, one o
 
 ---
 
-### මංගල ගෙදර අවමංගල්‍යයක් වෙයි
+### A wedding house is a funeral
 
 *2024-05-11 10:13:40* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409555) · `si`
 
-විවාහ මංගල්‍යයකට සහභාගී වී  නැවත නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් කැබ්  රථයක් සහ  ලොරි රථයක් 10 දින රාත්‍රී දඹුල්ල දිගම්පතහ අතරමැදී  කඳවුර ආසන්නයේදී අනතුරකට ලක්ව එක් කාන්තාවක් මිය ගොස් තවත් නව දෙනෙක්  තුවාල ලබා දඹුල්ල මූලිකරෝහලට ඇතුළත් කර ඇතැයි සීගිරිය පොලිසිය කියයි.
+A tragic accident occurred on a dangerous night, involving a cab carrying wedding guests and multiple lorries. A 44-year-old woman from Habarana Hiriwadunna was among the fatalities. The incident happened near Sigiriya, en route to a wedding party. The victims were on their way to the wedding when the accident occurred. The police are investigating the cause of the accident.
 
-මෙසේ මියගොස් ඇත්තේ  හබරණ හිරිවඩුන්න  ප්‍රදේශයේ පදිංචි  සන්ද්‍යා  කුමාරි 44   හැවිරිදි කාන්තාවක් බව පොලිසිය කියයි, බරපතල තුවාල ලැබූ   අවුරුදු තුනක පමණ  කුඩා ගැහැණු දරුවෙක්  මහනුවර රෝහලට  මාරුකර යැවී බව දඹුල්ල මූලික රෝහලේ ප්‍රකාශකයකු  පැවසිය .
+🟩
 
-දඹුල්ල ඉනාමලුව ප්‍රදේශයේ හෝටලයක පැවති විවාහ  මංගල්‍යය කට සහභාගි වී   හිරිවඩුන්න ප්‍රදේශයට මෙම   ඥාතීන් පිරිස ගමන් කරමින් සිට ඇත   හබරණ දෙසින්  දඹුල්ල දෙසට  යෝගට් ප්‍රවාහනය කරමින් තිබු ලොරි රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුවීම් ඇති බවත් අනතුරින් කැබ් රථයේ  ගමන් කළ සියලු දෙනාම   තුවාල ලබා ඇතැයි සීගිරිය පොලිසිය කියයි.
+A cab carrying a group of people who were returning home from a wedding and a lorry, a lorry and a lorry was killed in a danger night, police said.
 
-...
+The deceased has been identified as a 44-year-old woman from Habarana Hiriwadunna, Habarana.
+
+Sigiriya police say that the accident had been traveled to the Hiriwaduna to face yogurt in Inamaluwa, Dambulla..
+
+Sigiriya police say that the accident had been the accident that the accident had occurred at the wedding party.
+
+A few hours before the death of Ms. Handyadu Kumari, the wedding party pointed out that the wedding party has also appeared with a group of crowd.
+
+The cab and the lorry had taken to Sigiriya police to the Sigiriya Police by this time.Many of the victims have been injured in the area, he said.
+
+The post mortem examination is scheduled to be held at the Dambulla Base Hospital on 11. Sigiriya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/6e57c080.json)
+
+[Extended Data](ext_articles/6e57c080.ext.json)
 
 ---
 
@@ -655,6 +693,8 @@ Sri Lanka’s imports and the merchandise trade deficit has gradually picked as 
 ◼️
 
 [Data](articles/3e65e038.json)
+
+[Extended Data](ext_articles/3e65e038.ext.json)
 
 ---
 
@@ -1730,23 +1770,31 @@ State Minister Dr. Ranjith Siyambalapitiya says that the President has instructe
 
 ---
 
-### අහුංගල්ලේ වෙඩි තැබීමකින් පුද්ගලකු ජීවිතක්ෂයට
+### One person killed in shooting in Ahungalla
 
 *2024-05-10 21:37:30* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබීමකින්-පුද්ගලකු-ජීවිතක්ෂයට/11-409554) · `si`
 
-අහුංගල්ල, මරදාන ප්‍රදේශයේ යතුරු පැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමකින් 54 හැවිරිදි අයෙක්  තුවාල ලබා බරපතළ තත්ත්වයෙන්  බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය සඳහන් කරයි.
+A 54-year-old man, Piyal Silva, was shot dead in Ahungalla by two gunmen on a motorbike. The incident occurred in the Maradana area, and the shooters fled the scene. The police are investigating the motive behind the shooting.
 
-මෙසේ වෙඩි වැදී ඇත්තේ අහුන්ගල්ල මරදාන ප්‍රදේශයේම පදිංචි පියල් සිල්වා නමැත්තිකුට බවද පොලීසිය කියයි.ඔහු පෙදරේරුවෙක් බවත් පොලීසිය කියයි.
+🟩
 
-යතුරු පැදියකින් පැමිණි නාදුනන තුවක්කුකරුවන් දෙදෙනෙක් ඔහුට වෙඩි තබා පලා ගොස් ඇති බවත් මේ වෙඩි ප්‍රහාරයෙන් ඔහුට වෙඩි පහක් පමණ වැදී ඇති බවත් පොලීසිය කියයි.
+The deceased has been identified as a 54-year-old shooting at the Maradana area in Ahangulla.
 
-මේ ආකාරයටම මීට දින දෙකකට පමණ උඩදී මැයි 8 වැනිදා රාත්‍රී 8 ට පමණ අහුන්ගල්ල ලෝකන්වත්ත ප්‍රදේශයේදී පාතාල නායක බබාගේ පියා නාදුනන තුවක්කුකරුවන් විසින් ඝාතනය කොට තිබිණ.මේ වෙඩි තැබීමත් 8 වැනිදා වෙඩි තැබීම සිදුවූ ආසන්නයේවීම ද විශේෂයෙන්ම කැපීපෙනේ.
+According to the police, Piyal Silva was a resident of Maradana, Ahungalla.
 
-මේ වෙඩි තැබීම එයට ප්‍රතිප්‍රහාරයක් විය හැකි බවත් අද (10) රාත්‍රීයේ වෙඩි තැබීමට නාදුනන තුවක්කුකරුවන් පැමිණ ඇත්තේ යතුරු පැදියකින් බවත් පොලීසිය කියයි.
+Two unidentified gunmen who came with a motorbike had fled the police, and he had hit five shots.
 
-...
+In this sense, the underworld gunmen was killed at around 8 pm on May 8 night.
+
+The shooting could be a repurpose and the unidentified gunmen had come to a motorcycle this night.
+
+The Ahungalla Police are conducting further investigations on the instructions of Superintendent of Police Ravindu De Silva.
+
+◼️
 
 [Data](articles/69b04639.json)
+
+[Extended Data](ext_articles/69b04639.ext.json)
 
 ---
 
@@ -1860,19 +1908,25 @@ During a telephone conversation, Inspector Padmalal and the main opponent of Roh
 
 ---
 
-### මලිත්තගොල්ල සක්‍රීය වී ඇති නාය යාම තව දුරටත් වර්ධනය වේ
+### The landslide that has been activated is further developed
 
 *2024-05-10 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/මලිත්තගොල්ල-සක්‍රීය-වී-ඇති-නාය-යාම-තව-දුරටත්-වර්ධනය-වේ/11-409553) · `si`
 
-ඇල්ල  කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම දැනට පතිත වන ධාරානිපාත වර්ෂාවත් සමඟ තව දුරටත් සක්‍රීය වීම. නිසාවෙන් ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය ට අනතුරුදායක තත්ත්වයක් උදා වී ඇති හෙයින්   ආරක්ෂිත උපදෙස් ක්‍රියා මාර්ග ගන්නා ලෙසට අදාළ වගකිවයුතු සියලුම අංශ  අද (10) පස්වරුවේ  දැනුවත් කල බව ජාතික  ගොඩනැගිලි පර්යේෂණ ආයතනයේ බදුල්ල දිස්ත්‍රික් ප්‍රධාන භූවිද්‍යඥ හර්ශනී පෙරේරා මහත්මිය පැවසුවාය .
+Landslides in the Maltalagolla area have been active, with the National Building Research Institute's geologist Harshakai Perera advising caution. The Road Development Center, Disaster Management Center, and Badulla District Secretariat have been informed. The situation is being monitored, with geological investigations ongoing.
 
-මාර්ග සංවර්ධන අධ්කාරිය, ආපදා කළමනාකරණ මධ්‍යස්ථානය, බදුල්ල දිස්ත්‍රික් ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ආදි වගකිවයුතු සියලුම අංශ වල නිළධාරින් මේ සම්බන්ධයෙන් දැනටමත් දැනුවත් කර තිබෙන බවත් ඇය කීවාය .
+🟩
 
-හදිසි අවස්ථාවකදී ආපදාවකදී අදාළ කටයුතු කඩිනමින් සිදු කිරිමටත්, වර්ෂාවත් සමඟ මෙම මලිත්තගොල්ල නාය යාම සම්බන්ධයෙන් නිරතුරුවම අවධානයෙන් සිටින ලෙසට එම ආයතන දැනුවත් කල බව කීවාය .
+Further active of the landslides that have been active in the Maltalagolla area in the Maltalagolla area in the Maltalagolla area in the Maltalagolla in the Maltalagolla area.. Naturals, the main geologist Harshakai Perera, Badulla District of the National Building Research Institute, said that all the responsible sectors responsible for the election of the secure advice today (10) afterwards today.
+
+The Road Development Center, Disaster Management Center, Badulla District Secretariat, Ella Divisional Secretariat, all other responsibilities have already been informed of this in this regard.
+
+In an emergency, the institutions were informed that the matters were made to keep on landslides in the Maluththagol to the expedition of the mattra.
 
 ...
 
 [Data](articles/59ac1324.json)
+
+[Extended Data](ext_articles/59ac1324.ext.json)
 
 ---
 
@@ -2149,33 +2203,5 @@ Accordingly, a player will be financially rewarded with a one-time payment if th
 [Data](articles/62db0325.json)
 
 [Extended Data](ext_articles/62db0325.ext.json)
-
----
-
-### SLC announces about the payments of the players
-
-*2024-05-10 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196488) · `si`
-
-Sri Lanka Cricket boosts player payments, especially for Test matches, with increases up to 100% for tourists. Payments adjust based on match outcomes, with 25% hikes for ODIs and 20th-day internationals. 41 players receive new contracts, following ICC ratings.
-
-🟩
-
-Sri Lanka Cricket announced that the payments of all the players playing for the Sri Lanka International International cricket team increased immediately.
-
-Accordingly, the tourist players participating in Test matches increased by 100%, determined by their payment talent.
-
-Payment methods also change on the winning of a Test cricket match and the defeat of the victory.
-
-25% have been increased by 25% for ODIs and 20th-day international matches.
-
-Sri Lanka Cricket announced a recognition methodology for players rated by the International Cricket Council.
-
-The statement further adds that 41 players have been selected for new contracts.
-
-◼️
-
-[Data](articles/49382233.json)
-
-[Extended Data](ext_articles/49382233.ext.json)
 
 ---

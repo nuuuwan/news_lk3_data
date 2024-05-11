@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 13:03:31**
+As of **2024-05-11 13:18:13**
 
 ## Newspaper Stats
 
-*Scraped **23,321** Articles*
+*Scraped **23,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,977
 adaderanalk | 2,728
 tamilmirrorlk | 2,728
 virakesarilk | 3,469
-dailymirrorlk | 3,669
+dailymirrorlk | 3,670
 adaderanasinhalalk | 3,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,321 (100.0%) of 23,321 articles have been extended.
+23,321 (100.0%) of 23,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### US nominee to Sri Lanka vows to maintain moratorium on Chinese research vessels
+
+*2024-05-11 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-nominee-to-Sri-Lanka-vows-to-maintain-moratorium-on-Chinese-research-vessels/108-282390) · `en`
+
+Colombo, May  (Daily Mirror)- Amid concerns over the presence of Chinese research vessels conducting surveys in the Indian Ocean, the US nominee to Sri Lanka Elizabeth K. Horst assured the US Senate Foreign Relations Committee to work with Sri Lanka to ensure a moratorium on these vessels remains in place.
+
+The Senate committee raised questions about the potential national security threat posed by the vessels, which are believed to have links to the China’s People’s Liberation Army (PLA) and display suspicious behavior. Horst emphasized the importance of collaboration with Sri Lanka to enhance their capabilities in patrolling their waters and defending sovereignty. The issue of the moratorium on Chinese vessels in Sri Lankan ports is at the forefront of discussions surrounding regional security concerns.
+
+...
+
+[Data](articles/36359f09.json)
+
+---
 
 ### Strong solar storm hits Earth, could disrupt communications
 
@@ -2197,25 +2211,5 @@ He also commented on Mrs. Diana Gamage's citizen.
 [Data](articles/957eb772.json)
 
 [Extended Data](ext_articles/957eb772.ext.json)
-
----
-
-### Earthquake in Taiwan
-
-*2024-05-10 19:35:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்வானில்-நிலநடுக்கம்/50-337096) · `ta`
-
-An earthquake hit Taiwan's Hulian Provincial waters today at 3:45 pm local time, according to the Chinese earthquake station.
-
-🟩
-
-An earthquake in Taiwan's Hulian Provincial waters today (10).
-
-The earthquake struck at 3.45 pm local time, the Chinese earthquake station said.
-
-◼️
-
-[Data](articles/c26c5b52.json)
-
-[Extended Data](ext_articles/c26c5b52.ext.json)
 
 ---

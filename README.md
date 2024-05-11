@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 08:33:54**
+As of **2024-05-11 08:52:22**
 
 ## Newspaper Stats
 
-*Scraped **23,286** Articles*
+*Scraped **23,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
 tamilmirrorlk | 2,723
-adaderanalk | 2,723
-virakesarilk | 3,465
+adaderanalk | 2,724
+virakesarilk | 3,466
 dailymirrorlk | 3,661
-adaderanasinhalalk | 3,729
+adaderanasinhalalk | 3,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,284 (100.0%) of 23,286 articles have been extended.
+23,286 (100.0%) of 23,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### இலங்கையில் பொறுப்புக்கூறல் உண்மை நல்லிணக்கம் நீதி போன்றவற்றிற்கு ஆதரவளிப்பேன் - அமெரிக்காவின் புதிய தூதுவராக நியமிக்கப்படவுள்ள எலிசபெத் ஹோர்ஸ்ட்
+
+*2024-05-11 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183206) · `ta`
+
+இலங்கையில் பொறுப்புக்கூறல் உண்மை நல்லிணக்கம் நீதி போன்றவற்றிற்கு ஆதரவளிப்பேன் என இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவராக நியமிக்கப்படவுள்ள எலிசபெத் கே கோர்ஸ்ட் தெரிவித்துள்ளார்.
+
+அமெரிக்க செனெட்டின் வெளிவிவகார குழுவின் முன்னிலையில் கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+இலங்கைக்கான அமெரிக்க தூதுவராக நியமிக்கப்பட்டால் இலங்கையில் புறக்கணிக்கப்பட்ட சமூகங்களை ஆதரவளிக்க  எதிர்பார்த்திருப்பதாக தெரிவித்துள்ள அவர் இலங்கையின் மனித உரிமை நிலவரம் குறித்த அமெரிக்காவின் கரிசனைகளை பகிர்ந்துகொள்வதாகவும் தெரிவித்துள்ளார்.
+
+இலங்கையில் துடிப்பான சிவில்சமூகம்  காணப்படுகின்றது நான் நியமிக்கப்படுவது உறுதி செய்யப்பட்டால் இலங்கை அமெரிக்க சமூகங்கள் உட்பட மக்கள் மத்தியிலான தொடர்புகளை வலுப்படுத்த எண்ணியுள்ளேன் எனவும் அவர் தெரிவித்துள்ளார்.
+
+இலங்கையில் புறக்கணிக்கப்பட்ட சமூகங்களிற்கு ஆதரவளிக்க தயாராகவுள்ளேன் உண்மை நீதி நல்லிணக்கம் பொறுப்புக்கூறலிற்கு நான் ஆதரவளிப்பேன் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/52c3fad8.json)
+
+---
+
+### In the yarns. Sister who was raped by brother!
+
+*2024-05-11 08:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183196) · `ta`
+
+A woman in Jaffna was raped by a gang, including her brother, leading to her death. The brother, arrested and charged, claimed innocence, stating he was also a victim.
+
+🟩
+
+A police investigation into the incident in which a woman from a neighboring woman near Jaffna city has been raped by a gang, including a brother, has revealed that the sister has been raped.
+
+The sister died last December after she lost her mother and her mother.
+
+Following that, his sister from the brother's archive brought her home last January.
+
+From January to April last year, she continued to rape the sister's drug and drink alcohol.
+
+In April, the woman's body is again added to the archive. There, the woman was admitted to the Point Pedro Hospital after the woman's condition was bad.
+
+Medical examination found that female was raped and tortured. Following the announcement of the incident to the police, the Jaffna Police Station Women's Division carried out investigations.
+
+In the vote received by the victim, he said that the gang who broke her into the house had been harassed.
+
+...
+
+[Data](articles/a8d5e55c.json)
+
+[Extended Data](ext_articles/a8d5e55c.ext.json)
+
+---
+
+### ඊශ්‍රායලයට අමෙරිකාවෙන් දැඩි චෝදනාවක්
+
+*2024-05-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196498) · `si`
+
+අමෙරිකානු අවි භාවිත කරමින් ඊශ්‍රායලය ගාසා තීරයේ මානුෂීය නීතිය කඩ කර ඇති බව අමෙරිකානු රජය පවසයි.
+
+විදෙස් වාර්තා සඳහන් කළේ එක්සත් ජනපදය විසින් සපයන ලද ආයුධ ඊශ්‍රායලය නොගැලපෙන ආකාරයෙන් භාවිත කර ඇති බවය.
+
+කෙසේ වෙතත් ගාසා තීරයේ හමාස් සටන්කාමීන්ට එරෙහිව ඊශ්‍රායලයට අසාමාන්‍ය යුදමය අභියෝගයකට  මුහුණ දීමට සිදුව ඇති බවද අමෙරිකානු රජය පවසා තිබේ.
+
+ධවල මන්දිරය විසින් නිකුත් කර පසුගියදා කොංග්‍රසයට ඉදිරිපත් කර ඇති වාර්තාවක මෙම කරුණු ඉරිදිපත් කර ඇති බව සඳහන් වේ.
+
+විදෙස් වාර්තා සඳහන් කළේ ගාසා තීරයේ සිදුකරන ඊශ්‍රායල මෙහෙයුම්වලට මෙම වාර්තාව පැහැදිලි බලපෑමක් ඇති කරන බවය.
+
+ඊශ්‍රායල ආරක්ෂක හමුදා ජාත්‍යන්තර මානුෂීය නීතිය කඩ කර ඇති බවට එම වාර්තාවේ සඳහන්ව ඇති බව විදෙස් වාර්තා වැඩිදුටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/ceeb9201.json)
+
+---
+
+### Heavy showers over 100mm expected in parts of the island
+
+*2024-05-11 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99141/heavy-showers-over-100mm-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
+
+Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Showers may occur at several places in the coastal areas of Southern province during the morning too, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/bd88c728.json)
+
+---
 
 ### Anderson closes the door
 
@@ -406,36 +496,6 @@ And he had the opportunity to become a Member of Parliament from Kegalle Distric
 
 ---
 
-### In the yarns. Sister who was raped by brother!
-
-*2024-05-11 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183196) · `ta`
-
-A woman in Jaffna was raped by a gang, including her brother, leading to her death. The brother, arrested and charged, claimed innocence, stating he was also a victim.
-
-🟩
-
-A police investigation into the incident in which a woman from a neighboring woman near Jaffna city has been raped by a gang, including a brother, has revealed that the sister has been raped.
-
-The sister died last December after she lost her mother and her mother.
-
-Following that, his sister from the brother's archive brought her home last January.
-
-From January to April last year, she continued to rape the sister's drug and drink alcohol.
-
-In April, the woman's body is again added to the archive. There, the woman was admitted to the Point Pedro Hospital after the woman's condition was bad.
-
-Medical examination found that female was raped and tortured. Following the announcement of the incident to the police, the Jaffna Police Station Women's Division carried out investigations.
-
-In the vote received by the victim, he said that the gang who broke her into the house had been harassed.
-
-...
-
-[Data](articles/a8d5e55c.json)
-
-[Extended Data](ext_articles/a8d5e55c.ext.json)
-
----
-
 ### Preparing for election, the best candidate is not available - Bashil Rajapaksa
 
 *2024-05-11 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183195) · `ta`
@@ -586,6 +646,8 @@ Accordingly, the local automobile assembly industry is experiencing a significan
 
 [Data](articles/6ea6f526.json)
 
+[Extended Data](ext_articles/6ea6f526.ext.json)
+
 ---
 
 ### Tourist arrivals cross 800,000 mark in May
@@ -603,6 +665,8 @@ From April, till the summer season, the influx of tourists is low, as it is an o
 ...
 
 [Data](articles/a128a373.json)
+
+[Extended Data](ext_articles/a128a373.ext.json)
 
 ---
 
@@ -2137,77 +2201,5 @@ The US ambassador Juli Sung, who has posted a record on its official X site, sai
 [Data](articles/0d4944d3.json)
 
 [Extended Data](ext_articles/0d4944d3.ext.json)
-
----
-
-### No one can rule without the cooperation of the Rajapaksas - Johnston
-
-*2024-05-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183168) · `ta`
-
-Johnston Fernando asserts that ruling without Rajapaksa cooperation is impossible. He criticizes the People's Liberation Front for its violent political culture, contrasting it with the Sri Lanka Peoples Alliance's democratic approach. The PA, despite perceived weakening, remains influential, with Mahinda Rajapaksa as a key figure.
-
-🟩
-
-Intellectuals will not vote for the People's Liberation Front. The true face of the Janatha Vimukthi Peramuna (JVP) is now expressed in their speech.
-
-Johnston Fernando, a MP of PA, said that no one could rule without the cooperation of the Rajapaksa.
-
-He was speaking to the media after attending the opening of the election activities at the Sri Lanka Peoples Alliance (PA) head office in Battaramulla on Friday (10).
-
-The party leader Mahinda Rajapaksa will publicize the people of the country who is our candidate.. The people can give the people the determination to field the best candidate.
-
-They have announced who the presidential candidate is before the announcement of the election of the Janatha Vimukthi Peramuna (JVP) presidential candidate Anura Kumara Dissanayake.
-
-Leave the forecasts alone cannot win elections. Intellectuals do not vote for the People's Liberation Front.
-
-...
-
-[Data](articles/c6e65e66.json)
-
-[Extended Data](ext_articles/c6e65e66.ext.json)
-
----
-
-### SLPP ready for Presidential election, no candidate yet: Basil
-
-*2024-05-10 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-ready-for-Presidential-election-no-candidate-yet-Basil/108-282329) · `en`
-
-Colombo, May 10 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) is ready for the Presidential eletion but they are yet to find a candidate for the presidency, SLPP founder Basil Rajapaksa said today.
-
-He told reporters after opening its election office that President Ranil Wickremesinghe will declare his stance on the elction by June 18 and said it will be even earlier after the conclusion of the Indian election.
-
-When asked whether the SLPP would support President Wickremesinghe, he said the party would decide whether to support him or not.
-
-◼️
-
-[Data](articles/13a63898.json)
-
-[Extended Data](ext_articles/13a63898.ext.json)
-
----
-
-### COPE committee reveals a number of irregularities at Sabaragamuwa University
-
-*2024-05-10 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196480) · `si`
-
-The COPE committee found administrative weaknesses and irregularities at Sabaragamuwa University, recommending a report by the Ministry of Education's Secretary. The findings were handed over to the Department of Investigations.
-
-🟩
-
-The Committee on Public Enterprises (COPE) has revealed a number of administrative weaknesses and irregularities of the Sabaragamuwa University.
-
-Accordingly, the committee has recommended the Secretary to the Ministry of Education to check and prepare a report on the irregularities.
-
-The COPE committee has been handed over to the Department of Investigations following the report.
-
-The Committee on Public Enterprises held on 09 November 2023, the committee of the Sabaragamuwa University has also reviewed the progress issued on the University of Sabaragamuwa.
-
-Below is the announcement issued by the Parliamentary Communication Unit in this regard.
-
-◼️
-
-[Data](articles/f1f57fb2.json)
-
-[Extended Data](ext_articles/f1f57fb2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 10:51:42**
+As of **2024-05-11 11:03:38**
 
 ## Newspaper Stats
 
-*Scraped **23,303** Articles*
+*Scraped **23,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
-adaderanalk | 2,726
+adaderanalk | 2,727
 tamilmirrorlk | 2,727
-virakesarilk | 3,466
+virakesarilk | 3,469
 dailymirrorlk | 3,666
-adaderanasinhalalk | 3,732
+adaderanasinhalalk | 3,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,300 (100.0%) of 23,303 articles have been extended.
+23,303 (100.0%) of 23,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### நினைவேந்தல்களிற்கு எதிரான அடக்குமுறையை முடிவிற்கு கொண்டுவரவேண்டும் என பிரிட்டன் இலங்கைக்கு தெரிவிக்கவேண்டும் - பிரிட்டனின் நாடாளுமன்ற உறுப்பினர்
+
+*2024-05-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183220) · `ta`
+
+தமிழ்நாட்காட்டியின் மிகவும் துயரமான நாட்களை முள்ளிவாய்க்கால் குறிக்கின்றது என தெரிவித்துள்ள அவர் முள்ளிவாய்க்காலின்  இறுதி இராணுவ நடவடிக்கையின் போது 169000 தமிழர்கள் கொல்லப்பட்டனர் என மதிப்பிடப்படுகின்றது இது ஒரு இனப்படுகொலை என பலர் கருதுகின்றனர் எனவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கை இராணுவம் யுத்தசூன்யவலயத்தில் கண்மூடித்தனமான குண்டுவீச்சினை மேற்கொண்டது படுகொலைகள் வலிந்து காணாமல் ஆக்கப்படுதல் போன்றவற்றில் ஈடுபட்டது எனவும் அவர் தெரிவித்துள்ளார்.
+
+தமிழர்தாயகப்பகுதிகளான வடக்குகிழக்கில் நினைவேந்தல் நிகழ்வுகளிற்கு எதிரான இலங்கை இராணுவத்தின் தொடரும் ஒடுக்குமுறைகளை குறித்து கவலை வெளியிட்டுள்ள அவர் இந்த நினைவேந்தல் நிகழ்வுகளிற்கு எதிரான ஒடுக்குமுறைகள் குறித்து பிரிட்டன் தெளிவான எச்சரிக்கைகளை விடுக்கவேண்டும் எனவும் தெரிவித்துள்ளார்.
+
+சுதந்திரமான வெளிப்படையான ஜனநாயக சமூகத்தில் மக்கள் நினைவேந்தலில் ஈடுபடுவதற்கு எதிராக அடக்குமுறையில் ஈடுபடமுடியாது சுதந்திரமான நியாயமான ஜனநாயகத்தில் நீங்க்ள இதனை செய்யவேண்டும் என கொல்பேர்ன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0bef05d2.json)
+
+---
+
+### US underscore Sri Lanka’s need for good governance and transparency
+
+*2024-05-11 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99144/us-underscore-sri-lankas-need-for-good-governance-and-transparency) · `en`
+
+The United States has reiterated its assistance to Sri Lanka for the development of a strong and dynamic economy.
+
+This was communicated by the US Ambassador to Sri Lanka Julie Chung, when the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerashinghe met the US envoy on Friday (10).
+
+Posting on ‘X’ (formerly Twitter), the US Ambassador stated that the discussion was focused on bilateral ties, debt restructuring, and ongoing reforms.
+
+Furthermore, she has underscored the need for good governance and transparency as the United States continues supporting the development of a strong and dynamic Sri Lankan economy.
+
+◼️
+
+[Data](articles/599c1952.json)
+
+---
+
+### அரவிந்த் கெஜ்ரிவாலுக்கு இடைக்கால பிணை
+
+*2024-05-11 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183216) · `ta`
+
+புது தில்லி முதல்வரும், ஆம் ஆத்மி கட்சியின் நிறுவனருமான அரவிந்த் கெஜ்ரிவாலுக்கு இடைக்கால பிணையை இந்திய உயர் நீதிமன்றம் வழங்கியுள்ளது.
+
+கலால் கொள்கை முறைகேடு தொடர்பாகவும், சட்ட விரோத பண பரிமாற்ற மற்றும் பண மோசடி வழக்கிலும் கைதாகி திகார் சிறையில் அடைக்கப்பட்டுள்ள புதுதில்லி முதல்வர் அரவிந்த் கெஜ்ரிவாலுக்கு இந்திய உயர் நீதிமன்றம் இடைக்கால பிணை வழங்கி உத்தரவு பிறப்பித்துள்ளது.
+
+இந்த வழக்கில் கைது செய்யப்பட்டிருக்கும் புது தில்லி முதல்வர் அரவிந்த் கெஜ்ரிவால், கைது செய்யப்பட்டதற்கு எதிர்ப்பு தெரிவித்து உயர் நீதிமன்றத்தில் மேல் முறையீட்டு மனுவை தாக்கல் செய்திருந்தார்.
+
+இந்த மனுவை விசாரித்து வந்த நீதவான் நீதியரசர் சஞ்சீவ் கண்ணா, 'அரவிந்த் கெஜ்ரிவாலுக்கு ஜூன் ஒன்றாம் திகதி வரை இடைக்கால பிணை வழங்கப்பட்டுள்ளது. அவர் மீண்டும் ஜூன் இரண்டாம் திகதியன்று சரணடைய வேண்டும்' என உத்தரவில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/33995d4c.json)
+
+---
 
 ### Not only on-arrival visas but online visas too should be stopped
 
@@ -50,6 +104,8 @@ According to the official, not only politicians but country leaders are also inv
 
 [Data](articles/566e819b.json)
 
+[Extended Data](ext_articles/566e819b.ext.json)
+
 ---
 
 ### Debt owed by Pakistan, Sri Lanka and Bangladesh to China rise to record levels: Data
@@ -63,6 +119,30 @@ Only the top 20 countries that owe the most debt to China in absolute terms in 2
 ...
 
 [Data](articles/53f89c41.json)
+
+[Extended Data](ext_articles/53f89c41.ext.json)
+
+---
+
+### මඟුල් ගෙදරක ගිය කැබ් රථයක් අනතුරක
+
+*2024-05-11 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196501) · `si`
+
+දඹුල්ල හබරණ මාර්ගයේ දිගම්පතහ ප්‍රදේශයේ සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ දඹුල්ල සිට හබරණ දෙසට ධාවන වූ කැබ්රථයක් එම දිසාවටම ධාවනය වූ මෝටර් රථයක් ඉස්සර කිරීමට යාමේ දී ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරිරථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුරින් තුවාල ලැබූ කැබ්රථයේ ගමන් කළ කාන්තාවක් හබරණ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ හබරණ හිරිවඩුන්න ප්‍රදේශයේ පදිංචිව සිටි සන්ධ්‍යා කුමාරි නම් 44 හැවිරිදි කාන්තාවකි.
+
+ඇය තවත් පිරිසක් සමග විවාහ මංගල්‍යයකට සහභාගී වී නැවත නිවෙස් බලා එමින් සිටි අවස්ථාවේ මෙම අනතුර සිදුව ඇති අතර එහිදී තවත් දෙදෙනෙකු තුවාල ලබා තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ බරපතළ තුවාල ලැබූ දෙදෙනාගෙන් එක් අයෙක් අවුරුදු තුනක පමණ කුඩා ගැහැණු දරුවෙකු බවත් වැඩිදුර ප්‍රතිකාර සඳහා ඇයව මහනුවර රෝහලට මාරුකර යවා ඇති බවත්ය.
+
+◼️
+
+[Data](articles/790c7fe5.json)
 
 ---
 
@@ -83,6 +163,24 @@ Furthermore, he assured that a detailed report will be provided to the President
 [Data](articles/ff3d8a04.json)
 
 [Extended Data](ext_articles/ff3d8a04.ext.json)
+
+---
+
+### பிரசவித்த குழந்தையை வைத்தியசாலையில் விட்டுச் சென்ற சிறுமி - யாழில் சம்பவம்
+
+*2024-05-11 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183212) · `ta`
+
+குழந்தையை பிரசவித்த பாடசாலைச் சிறுமி குழந்தையை வைத்தியசாலையிலேயே விட்டுவிட்டு சென்ற சம்பவம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் இடம்பெற்றுள்ளது.
+
+வடமராட்சி துன்னாலைப் பகுதியைச் சேர்ந்ததாக தெரிவித்து 15 வயது சிறுமியொருவர் கர்ப்பம் தரித்த நிலையில் தனது தாயுடன் குழந்தை பிரசவத்துக்காக நேற்று (10) மாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+குழந்தை நேற்று இரவு பிரசவித்த நிலையில், குழந்தையை அநாதரவாக விட்டுவிட்டு இன்று (11) காலை முதல் தாய், சிறுமி என இருவரும் தலைமறைவாகியுள்ளனர் என தெரிவிக்கப்படுகிறது.
+
+சம்பவம் தொடர்பாக வைத்தியசாலை நிர்வாகத்தால் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ள நிலையில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/8cf08823.json)
 
 ---
 
@@ -526,25 +624,31 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 
 ---
 
-### සර්කස් පැසිපියා: පරම්පරා ගණනක් ශ්‍රී ලාංකිකයින් පුදුම කරවූ 'සැබෑ සර්කස්කාරයින්' රටට අහිමි වෙයි ද?
+### Circus Pasppia: Does the country lose their generations?
 
 *2024-05-11 03:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lpk48plvo) · `si`
 
-සර්කස් පැසිපියා: පරම්පරා ගණනක් ශ්‍රී ලාංකිකයින් පුදුම කරවූ 'සැබෑ සර්කස්කාරයින්' රටට අහිමි වෙයි ද?
+Circus Pasppia, a traditional Sri Lankan circus, faces challenges in passing down its art to younger generations. Niroshan Kapugiyani, the current owner, discusses the history and future of the circus, highlighting the decline in interest among the youth and the financial struggles of maintaining the tradition. Despite its rich history dating back to the 1940s, the circus may lose its legacy if younger members do not embrace the art.
 
-'පැසිපියා' යන නම ඇසූ පමණින් බොහෝ දෙනෙකුගේ මතකයට නැගෙන්නේ 'සර්කස්' කණ්ඩායමකි.
+🟩
 
-දශක ගණනාවක් පුරා ශ්‍රී ලංකාවේ පරම්පරා ගණනාවක් නියෝජනය කළ ජනතාව පුදුමයට පත් කරවමින් සර්කස් පෙන්නූ 'සර්කස් පැසිපියා' තවමත් සංදර්ශන පවත්වයි.
+Circus Pasppia: Does the country lose their generations?
 
-පරම්පරා ගණනාවක ජනතාව අමන්දානන්දයට පත් කළ, තවමත් 'සර්කස් පෙන්වන' සර්කස් පැසිපියා වත්මන් හිමිකරු වන නිරෝෂන් කපුගීකියනගේ හමුවීමට අපි මතුගම, අගලවත්තට ගියෙමු.
+The name of the name 'Pasppia' is just a group of cadcas.
 
-දශක ගණනක් අතීතයට දිවෙන සර්කස් පැසිපියා ආරම්භය ගැන එහි වත්මන් හිමිකරු සමග කළ සාකච්ඡාවකින් සකස් කළ වාර්තාවකි මේ.
+Sircus Pasppia is still celebrating the circus pasppia.
 
-"අපේ සීයා තමයි මුලින් ම මේක පටන් ගන්න මුල් වුණේ. කේ.ජී. සුගතදාස තමයි මගේ සීයා. 1940 ගණන්වල කපුගම දේවාලේ මංගල්‍යය කාලයට පිනුම්කරුවෙක් විදිහට තමයි සීයා මුලින් ම කටයුතු කරලා තියෙන්නේ. ඒ පිනුම්කරුවන් විදිහට අලුත්ගම කරුණාසේන, කුඩලිගම කළුආරච්චි, දොඩංගොඩ පබිලිස් කියලා කීප දෙනෙක් ඉඳලා තියෙනවා. ඒ තුන් දෙනා යි මගේ සීයායි තමයි සර්කස් පැසිපියා පටන් අරන් තියෙන්නේ," නිරෝෂන් කපුගීකියන ඔහු දන්නා ඉතිහාසය අනාවරණය කළේ ය.
+We went to Agalawatta to meet with Niroshan Kapugiana, the current owner of the circus paspia, which is said to be avoiding the people of many generations.
+
+This is a report prepared by a discussion with its current owner about the beginning of the past, the past for decades.
+
+"Our grandfather was the first to start this. KG. Sugathadasa is my grandfather. The grandfather was the first time in the 1940's, the grandfather was the first time as a beneficiary. Several several people have been identicaworthy, Kudalagama Kaluarachchi, Panarachchi, Kudalagama Kaluarachchi, Kudalagama Kaluarachchi, Kudalathigama, Kudalagama.. My sixth, my sense, is the circus pasiss, "Niroshan Kapughiyiyani, his history revealed History.
 
 ...
 
 [Data](articles/61016f9c.json)
+
+[Extended Data](ext_articles/61016f9c.ext.json)
 
 ---
 
@@ -2065,125 +2169,5 @@ The Colombo District Court, considering a petition filed by Mr. Mundiku Sarachan
 [Data](articles/8a9830a8.json)
 
 [Extended Data](ext_articles/8a9830a8.ext.json)
-
----
-
-### South Korea to establish ministry to tackle low birth rate crisis
-
-*2024-05-10 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korea-to-establish-ministry-to-tackle-low-birth-rate-crisis/108-282331) · `en`
-
-South Korea’s President, Yoon Suk Yeol, has announced plans to establish a new government ministry dedicated to addressing the country’s dire birth rate situation.
-
-In a televised address, President Yoon highlighted the urgent need to confront what he described as a “national emergency” stemming from South Korea’s notoriously low birth rate, which has plunged to unprecedented depths in recent years.
-
-The proposed Ministry of Low Birth Rate Counter-planning underscores the severity of South Korea’s demographic crisis.
-
-With a fertility rate of just 0.72 in 2023, South Korea holds the unenviable title of having the world’s lowest fertility rate.
-
-This alarming figure falls well below the replacement level of 2.1 births per woman required to sustain a stable population without relying on immigration.
-
-The demographic challenges facing South Korea and other East Asian countries are multifaceted and deeply entrenched.
-
-...
-
-[Data](articles/71eec6d2.json)
-
-[Extended Data](ext_articles/71eec6d2.ext.json)
-
----
-
-### Lightness
-
-*2024-05-10 17:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தில்-பலத்த-பாதிப்பு/175-337092) · `ta`
-
-Lightning struck Valasmulla Resource Hospital's Special Treatment Unit, damaging equipment and injuring three patients. They were moved to the ICU.
-
-🟩
-
-Valasmulla police said that the Special Treatment Unit of the Valasmulla Resource Hospital has been severely damaged by lightning.
-
-The hospital spokesman said that the lightning struck at around 2.00 pm this afternoon and that there were three patients in the special treatment unit and they were immediately rescued and admitted to the intensive care unit.
-
-Many valuable health equipment in the special treatment unit due to lightning impact has been damaged many. Hospital sources say that one hundred lakhs
-
-◼️
-
-[Data](articles/bc68a4a8.json)
-
-[Extended Data](ext_articles/bc68a4a8.ext.json)
-
----
-
-### Minister of charge charged with an arbitrary force
-
-*2024-05-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196485) · `si`
-
-The Supreme Court has accused the Minister of Power and the proposed Power bill of being arbitrary. Attorney Jayawardena, representing the Ceylon Electricity Employees Union, criticized the bill for granting excessive powers to the Minister, potentially creating a monopoly in electricity. He argued that the bill violates basic human rights as outlined in the Sri Lankan Constitution. The petitions, filed by 14 parties including the Ceylon Electricity Workers Union, seek to prevent the bill from passing with a majority vote in Parliament.
-
-🟩
-
-The Supreme Court accused the Minister of Power and Power bill to be produced before the government.
-
-Attorney at Law Jayawardena, who had filed a petition to be heard in the Power and Power and Petroleum Committee, he said this to the Ceylon Electricity Employees Union (CEB) on the occasion as a petition filed by the Constitution.
-
-These petitions were taken to the Bench, Shiran Gunaratne and Arjuna Obeysekere.
-
-Attorney at Law Jayawardena, appearing on behalf of the petitioner, accused the minister of the subject to the minister.
-
-The bill has been given the powers of the subject to the appointment of members of the Energy Management Committee and the procurement process of procurement process, the lawyer said.
-
-The lawyer also said that the law in charge of the Electricity in charge of the Minister of Power in the Ministry has given the President to the Minister of Power and Energy.
-
-...
-
-[Data](articles/b29216f8.json)
-
-[Extended Data](ext_articles/b29216f8.ext.json)
-
----
-
-### Warning issued over thundershowers and lightning in parts of the island
-
-*2024-05-10 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99135/warning-issued-over-thundershowers-and-lightning-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that thundershowers accompanied by severe lightning are likely to occur at several places in in Western, Sabaragamuwa, North-western and Uva provinces and in Galle and Matara districts after 2.00 p.m. on Saturday (11).
-
-In its latest weather forecast, the department stated that heavy showers of about 100mm are likely at some places in Central, Sabaragamuwa, Eastern and Uva provinces and in Polonnaruwa district.
-
-Meanwhile, showers may occur at several places in Western and Southern provinces and in Puttalam, Mannar, Kilinochchi and Jaffna districts during the morning too.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
-
-Meanwhile, the Met. Department also issued an ‘Amber’ level advisory for severe lightning in several areas across the island today (10).
-
-...
-
-[Data](articles/24bc9985.json)
-
-[Extended Data](ext_articles/24bc9985.ext.json)
-
----
-
-### Colin Munroe registers from international cricket
-
-*2024-05-10 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196484) · `si`
-
-Colin Munroe, a 37-year-old former New Zealand cricketer, has retired from international cricket. He played for New Zealand until 2020, participating in one Test, 57 ODIs, and 20 T20 matches. Despite not being included in the recent squad, he was expected to play in T20s this year.
-
-🟩
-
-New Zealand players have decided to retire from Kolin Munro International.
-
-The 37-year-old Munro represented New Zealand until 2020.
-
-The New Zealand were represented by the New Zealand, participating in one Test, 57 ODIs and 20 matches.
-
-However, he had not included the squad for the incident, however, expected to participate in Collor 20 this year.
-
-◼️
-
-[Data](articles/ae08251c.json)
-
-[Extended Data](ext_articles/ae08251c.ext.json)
 
 ---

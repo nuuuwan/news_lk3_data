@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 08:52:22**
+As of **2024-05-11 09:03:29**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 3,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,286 (100.0%) of 23,289 articles have been extended.
+23,289 (100.0%) of 23,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### இலங்கையில் பொறுப்புக்கூறல் உண்மை நல்லிணக்கம் நீதி போன்றவற்றிற்கு ஆதரவளிப்பேன் - அமெரிக்காவின் புதிய தூதுவராக நியமிக்கப்படவுள்ள எலிசபெத் ஹோர்ஸ்ட்
+### Liability in Sri Lanka will support real harmony and justice - Elizabeth Horst to be appointed as the new Ambassador of the United States
 
 *2024-05-11 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183206) · `ta`
 
-இலங்கையில் பொறுப்புக்கூறல் உண்மை நல்லிணக்கம் நீதி போன்றவற்றிற்கு ஆதரவளிப்பேன் என இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவராக நியமிக்கப்படவுள்ள எலிசபெத் கே கோர்ஸ்ட் தெரிவித்துள்ளார்.
+Elizabeth K. Corpst, set to be the new US Ambassador to Sri Lanka, emphasizes the importance of responsibility in fostering harmony and justice. She aims to support neglected communities and strengthen ties with Sri Lankan communities, addressing human rights concerns. The US Senate's Foreign Committee has expressed concerns over Sri Lanka's governance, with Corpst ready to uphold international standards if confirmed.
 
-அமெரிக்க செனெட்டின் வெளிவிவகார குழுவின் முன்னிலையில் கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-இலங்கைக்கான அமெரிக்க தூதுவராக நியமிக்கப்பட்டால் இலங்கையில் புறக்கணிக்கப்பட்ட சமூகங்களை ஆதரவளிக்க  எதிர்பார்த்திருப்பதாக தெரிவித்துள்ள அவர் இலங்கையின் மனித உரிமை நிலவரம் குறித்த அமெரிக்காவின் கரிசனைகளை பகிர்ந்துகொள்வதாகவும் தெரிவித்துள்ளார்.
+Elizabeth K Corpst, who will be appointed as the new Ambassador to Sri Lanka, said that responsibility in Sri Lanka will support real harmony and justice.
 
-இலங்கையில் துடிப்பான சிவில்சமூகம்  காணப்படுகின்றது நான் நியமிக்கப்படுவது உறுதி செய்யப்பட்டால் இலங்கை அமெரிக்க சமூகங்கள் உட்பட மக்கள் மத்தியிலான தொடர்புகளை வலுப்படுத்த எண்ணியுள்ளேன் எனவும் அவர் தெரிவித்துள்ளார்.
+He was speaking in the presence of the US Senate's Foreign Committee.
 
-இலங்கையில் புறக்கணிக்கப்பட்ட சமூகங்களிற்கு ஆதரவளிக்க தயாராகவுள்ளேன் உண்மை நீதி நல்லிணக்கம் பொறுப்புக்கூறலிற்கு நான் ஆதரவளிப்பேன் எனவும் அவர் தெரிவித்துள்ளார்.
+He said he was looking forward to supporting the neglected communities in Sri Lanka if he was appointed as the US Ambassador to Sri Lanka, and he would share the US's concern for the human rights situation in Sri Lanka.
+
+He said that if I confirmed that I was appointed, I would intend to strengthen people's contacts, including the Sri Lankan communities, if I was appointed.
+
+"I am ready to support the neglected communities in Sri Lanka," he said.
+
+The US Senate's Foreign Committee has questioned the Sri Lankan government's ability to report to the Sri Lankan government to deal with Sri Lanka's responsibility.
+
+Senator Benkartin pointed out the US's efforts to further improve the freedoms for the Sri Lankan people.
 
 ...
 
 [Data](articles/52c3fad8.json)
+
+[Extended Data](ext_articles/52c3fad8.ext.json)
 
 ---
 
@@ -82,25 +92,31 @@ In the vote received by the victim, he said that the gang who broke her into the
 
 ---
 
-### ඊශ්‍රායලයට අමෙරිකාවෙන් දැඩි චෝදනාවක්
+### US infected Israel to Israel
 
 *2024-05-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196498) · `si`
 
-අමෙරිකානු අවි භාවිත කරමින් ඊශ්‍රායලය ගාසා තීරයේ මානුෂීය නීතිය කඩ කර ඇති බව අමෙරිකානු රජය පවසයි.
+The US accuses Israel of violating humanitarian law in Gaza, using American weapons, and employing foreign fighters. Despite Israel's military challenges against Hamas, the US report suggests Israeli forces have breached international law, potentially affecting operations in Gaza.
 
-විදෙස් වාර්තා සඳහන් කළේ එක්සත් ජනපදය විසින් සපයන ලද ආයුධ ඊශ්‍රායලය නොගැලපෙන ආකාරයෙන් භාවිත කර ඇති බවය.
+🟩
 
-කෙසේ වෙතත් ගාසා තීරයේ හමාස් සටන්කාමීන්ට එරෙහිව ඊශ්‍රායලයට අසාමාන්‍ය යුදමය අභියෝගයකට  මුහුණ දීමට සිදුව ඇති බවද අමෙරිකානු රජය පවසා තිබේ.
+The US government says Israel has violated humanitarian law in Gaza, using American weapons.
 
-ධවල මන්දිරය විසින් නිකුත් කර පසුගියදා කොංග්‍රසයට ඉදිරිපත් කර ඇති වාර්තාවක මෙම කරුණු ඉරිදිපත් කර ඇති බව සඳහන් වේ.
+Foreigners were used by the United States incompatible with the United States.
 
-විදෙස් වාර්තා සඳහන් කළේ ගාසා තීරයේ සිදුකරන ඊශ්‍රායල මෙහෙයුම්වලට මෙම වාර්තාව පැහැදිලි බලපෑමක් ඇති කරන බවය.
+However, the US government has said that Israel has faced an extraordinary military challenge against Hamas militants in Gaza.
 
-ඊශ්‍රායල ආරක්ෂක හමුදා ජාත්‍යන්තර මානුෂීය නීතිය කඩ කර ඇති බවට එම වාර්තාවේ සඳහන්ව ඇති බව විදෙස් වාර්තා වැඩිදුටත් සඳහන් කර තිබේ.
+It is said that these factors have been suspected of a report from the White House.
+
+The report will have a clear impact on Israeli operations in Gaza.
+
+The report states that the Israeli security forces have violated international humanitarian law.
 
 ◼️
 
 [Data](articles/ceeb9201.json)
+
+[Extended Data](ext_articles/ceeb9201.ext.json)
 
 ---
 
@@ -119,6 +135,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/bd88c728.json)
+
+[Extended Data](ext_articles/bd88c728.ext.json)
 
 ---
 

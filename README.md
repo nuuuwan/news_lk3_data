@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 15:03:32**
+As of **2024-05-11 15:18:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,339 (100.0%) of 23,340 articles have been extended.
+23,340 (100.0%) of 23,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் ஐவர் கைது
+### Jayawardenapura University students arrested
 
 *2024-05-11 14:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜயவர்தனபுர-பல்கலைக்கழக-மாணவர்கள்-ஐவர்-கைது/175-337124) · `ta`
 
-ஸ்ரீ ஜயவர்தனபுர மற்றும் களணி பல்கலைக்கழக மாணவர்களுக்கிடையே ஏற்பட்ட மோதலில் ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் ஐவர் செய்யப்பட்டுள்ளனர்.
+Five students from Sri Jayawardenapura University were arrested after a clash with Kelani University students. The arrest followed an assault complaint lodged at the police station.
 
-தகராறில் தாக்கப்பட்ட மாணவன் பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் அடிப்படையில் இவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+🟩
+
+Five students of Sri Jayawardenapura University have been involved in a clash between Sri Jayawardenapura and Kelani University students.
+
+It is noteworthy that the student who was assaulted in the dispute was arrested on the basis of a complaint lodged at the police station.. Remble
 
 ◼️
 
 [Data](articles/95b3bf9b.json)
+
+[Extended Data](ext_articles/95b3bf9b.ext.json)
 
 ---
 

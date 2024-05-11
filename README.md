@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 18:09:56**
+As of **2024-05-11 18:21:32**
 
 ## Newspaper Stats
 
-*Scraped **23,357** Articles*
+*Scraped **23,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 1,263
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
-tamilmirrorlk | 2,731
-adaderanalk | 2,732
+tamilmirrorlk | 2,732
+adaderanalk | 2,733
 virakesarilk | 3,476
 dailymirrorlk | 3,676
-adaderanasinhalalk | 3,744
+adaderanasinhalalk | 3,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,356 (100.0%) of 23,357 articles have been extended.
+23,357 (100.0%) of 23,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### මිනිස් ජාවාරමකට සැරසුණු ශ්‍රී ලාංකිකයන් පිරිසක් අත්අඩංගුවට
+
+*2024-05-11 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196517) · `si`
+
+ලැට්වියා දේශසීමාව හරහා නීතිවිරෝධී සංක්‍රමණිකයින් ප්‍රවාහනය කිරීමට උත්සාහ කළ ශ්‍රී ලාංකිකයින් පිරිසක් අත්අඩංගුවට ගෙන ඇති බව විදෙස් වාර්තා පවසයි.
+
+මීට දින කිහිපයකට පමණ පෙර එරට දේශ සීමා ආරක්ෂකයින් විසින් ඔවුන් අත්අඩංගුවට ගෙන ඇති බව විදෙස් වාර්තා පෙනවා දෙයි.
+
+මෙලෙස නීතිවිරෝධී සංක්‍රමණිකයින් රැගෙන දේශ සීමා පසුකිරීමට උත්සාහ දැරූ එක් මෝටර් රථයක ශ්‍රී ලාංකිකයින් දෙදෙනෙකු සිට ඇති අතර ඔවුන් හට වලංගු ලැට්වියා නේවාසික වීසා බලපත්‍ර තිබු බව ද දේශ සීමා ආරක්ෂකයින් පවසා තිබේ.
+
+එහෙත් එහි සිටි ආසියානු සම්භවයක් සහිත අනෙක් පුද්ගලයින් 06 දෙනාට කිසිදු වලංගු ලියවිල්ලක් නොතිබූ බව එම ආරක්ෂක නිලධාරීන් පවසා ඇත.
+
+ඒ අනුව අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 05 දෙනාට නීතිවිරෝධීව සංක්‍රමණිකයින් ලැට්වියාවට ගෙන ඒමට උත්සාහ කිරීමේ වරදට චෝදනා ගොනු කර ඇති බව සඳහන්ය.
+
+ලැට්වියා ජනරජයේ නීතියට අනුව නීතිවිරෝධි දේශසීමා තරණය කරන්නන් වැරදිකරුවන් වුවහොත්, අත්අඩංගුවට පත්වූ ශ්‍රී ලාංකිකයින්ට ද හිමිවන දඩුවම අවුරුදු දෙකේ සිට අට දක්වා කාලයකි.
+
+◼️
+
+[Data](articles/25c31922.json)
+
+---
+
+### 15 Sri Lankan fishermen detained in Myanmar prisons repatriated
+
+*2024-05-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99151/15-sri-lankan-fishermen-detained-in-myanmar-prisons-repatriated-) · `en`
+
+Fifteen Sri Lankan fishermen, who were detained in Myanmar prisons, have been released and repatriated to Sri Lanka. They arrived at the Bandaranaike International Airport (BIA) in Katunayake this morning (11), Ada Derana reporter said.
+
+The fishermen in question had been arrested by Myanmar Coast Guard personnel, while adrift at seas off Myanmar allegedly due to technical issues with their fishing vessels.
+
+Upon arrival at the BIA, all 15 individuals were arrested by the Criminal Investigation Department’s (CID) Human Trafficking, Smuggling, and Maritime Crimes Division for allegedly not departing from a recognized airport or port to a foreign country.
+
+However, they have been granted bail after being produced before Negombo Magistrate’s Court today.
+
+The repatriated fishermen, aged between 18 and 50, hail from Katuneriya, Marawila, Uswetakeiyawa, and Kurunegala areas, according to Ada Derana reporter.
+
+◼️
+
+[Data](articles/0a90b3b6.json)
+
+---
+
+### ரவி சங்கர் குருஜியை சந்தித்தார் ஜீவன்
+
+*2024-05-11 17:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-சங்கர்-குருஜியை-சந்தித்தார்-ஜீவன்/175-337127) · `ta`
+
+இலங்கைக்கு பயணம் மேற்கொள்ளவுள்ள வாழும் கலை அமைப்பின் நிறுவுனர் ஸ்ரீ ஸ்ரீ ரவி சங்கர் குருஜியை, அமைச்சர் ஜீவன் தொண்டமான் இந்தியா பெங்களுரில் சந்தித்து கலந்துரையாடினார்
+
+மே 18 முதல் 20 ஆம் திகதிவரை இலங்கையில் தங்கி இருக்கும் குருஜி நுவரெலியா, சீதையம்மன் ஆலயத்துக்கும் வருகை தரவுள்ளார்.
+
+இந்தநிலையில், இலங்கையின் தற்போதைய நிலைவரம், மலையக பெருந்தோட்ட மக்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்காக முன்னெடுக்கப்படும் நகர்வுகள் பற்றி குருஜிக்கு தெளிவுபடுத்தியுள்ளார் ஜீவன்.
+
+வாழும் கலை நிறுவனத்தின் கீழ், பிரஜா சக்தி, தொண்டமான் அறக்கட்டளை போன்றவற்றின் ஊடாக எமது மக்களுக்கு தொழில் பயிற்சி, தொழில் மேம்பாடு மற்றும் புத்தாக்க வாய்ப்புகள் பற்றி ஆராயுமாறு இதன்போது கோரிக்கை விடுத்துள்ளார். அதேபோல நீர்வளத்துறை பற்றியும் கலந்துரையாடியுள்ளார்.
+
+இச்சந்திப்பின் இறுதியில், மலையக சமூகத்தைச் சேர்ந்த செல்லையா கோபாலன் என்ற கலைஞர் வரைந்த ஓவியத்தை குருஜியிடம் நினைவு பரிசாக வழங்கியுள்ளார் அமைச்சர் ஜீவன். R
+
+◼️
+
+[Data](articles/bbab9d53.json)
+
+---
 
 ### US Ambassador nominee pledges to support marginalized populations, accountability, truth and reconciliation in Sri Lanka
 
@@ -47,6 +109,8 @@ Horst, a seasoned diplomat with over 20 years of experience in South Asia, empha
 ...
 
 [Data](articles/5aa3e250.json)
+
+[Extended Data](ext_articles/5aa3e250.ext.json)
 
 ---
 
@@ -2243,63 +2307,5 @@ Police officers on duty at Palali Police Station. The public alleges that the ma
 [Data](articles/b359dcf6.json)
 
 [Extended Data](ext_articles/b359dcf6.ext.json)
-
----
-
-### How far can we go with only “hope”?
-
-*2024-05-11 00:08:12* · [`dailyftlk`](https://www.ft.lk/columns/How-far-can-we-go-with-only-hope/4-761661) · `en`
-
-It is time to lobby health authorities to decide with due responsibility on new cancer treatment centres
-
-A month ago, I had a frantic call from a distant contact who wanted to know if I could arrange for cancer treatment at “Apeksha” that same day, as they have been very curtly told, “come next week.” They had come on a confirmed appointment, he told me. His problem was, the hire for the van was over Rs. 30,000 and they simply cannot afford that fare yet again in a week.
-
-...
-
-[Data](articles/9a4446c4.json)
-
-[Extended Data](ext_articles/9a4446c4.ext.json)
-
----
-
-### President visited the construction exhibition
-
-*2024-05-11 00:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாண-கண்காட்சியை-ஜனாதிபதி-பார்வையிட்டார்/175-337113) · `ta`
-
-President Ranil Wickremesinghe visited the Bandaranaike Memorial International Conference Hall for the 'Sri Lanka Building' exhibition, featuring 300 construction company sales centers and showcasing Sri Lankan Armed Forces' construction technology.
-
-🟩
-
-President Ranil Wickremesinghe visited the Bandaranaike Memorial International Conference Hall yesterday at the Bandaranaike Memorial International Conference Hall.
-
-This year's exhibition was organized under the theme of 'Sri Lanka Building'. The exhibition has 300 sales centers of construction companies.
-
-In addition, the exhibition will be held for the first time in the exhibition, which includes the exhibition of the construction technology of the Sri Lankan Armed Forces.
-
-The President visited domestic, foreign sales and exhibitions of armed forces. Took the photo with the organizers of the exhibition. (A)
-
-◼️
-
-[Data](articles/21bcee15.json)
-
-[Extended Data](ext_articles/21bcee15.ext.json)
-
----
-
-### 11th Commemoration of Dr. Ranjith Navarathne’s He was dedicated to social justice
-
-*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/11th-Commemoration-of-Dr-Ranjith-Navarathnes-He-was-dedicated-to-social-justice/172-282340) · `en`
-
-He was an active student leader of the Student Federation affiliated to the Lanka Sama Samaja Party
-
-This article is penned to mark the 11th Commemoration of the late Dr. Ranjith Navarathne, a former leader of the Sri Lanka Mahajana Party and former Kurunegala District Member of Parliament. The 11th commemoration of this individual fell on May 1 and a memorial service was held in his name on May 4.
-
-Born on January 07, 1948 in the beautiful village of Nikawewa in the historical Nikawagampaha Korale, Hiriala Hatpattuwa, North Western Province, Navarathne’s life experiences are parallel to the development of independent Sri Lanka. Choosing Sri Devanam Piyathissa Central College, Nikkewa for his education, he showed exceptional talent for education from an early age. In 1967, he passed his Advanced Level Examination with top honors and entered University.
-
-...
-
-[Data](articles/02bdcd55.json)
-
-[Extended Data](ext_articles/02bdcd55.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 14:33:39**
+As of **2024-05-11 14:51:52**
 
 ## Newspaper Stats
 
-*Scraped **23,332** Articles*
+*Scraped **23,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,263
 economynextcom | 1,344
 dailyftlk | 1,356
 adalk | 1,978
-tamilmirrorlk | 2,728
-adaderanalk | 2,729
-virakesarilk | 3,469
+tamilmirrorlk | 2,729
+adaderanalk | 2,730
+virakesarilk | 3,474
 dailymirrorlk | 3,672
 adaderanasinhalalk | 3,738
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,332 (100.0%) of 23,332 articles have been extended.
+23,332 (100.0%) of 23,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### யாழில் குழந்தை பெற்ற 15 வயதுச் சிறுமி மாயம்
+
+*2024-05-11 14:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குழந்தை-பெற்ற-15-வயதுச்-சிறுமி-மாயம்/175-337123) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் குழந்தையை பிரசவித்த சிறுமி ஒருவர், குழந்தையை வைத்தியசாலையிலேயே விட்டுவிட்டு சென்றதாக தெரிவிக்கப்படுகின்றது.
+
+வடமராட்சி துன்னாலைப்பகுதியைச் சேர்ந்த 15 வயதுடைய சிறுமியொருவர் கர்ப்பமாக இருந்த நிலையில் தனது தாயுடன் பிரசவத்திற்காக நேற்று மாலை யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பின்னர் நேற்று இரவு குழந்தையை பிரசவித்த சிறுமி குழந்தையை அநாதரவாக விட்டுவிட்டு சிறுமியும் அவரின் தாயும் தலைமறைவாகியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த சம்பவம் தொடர்பாக வைத்தியசாலை நிர்வாகத்தினால் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டதையடுத்து பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர். R
+
+◼️
+
+[Data](articles/fc70bf05.json)
+
+---
+
+### “Yukthiya”: Over 111,000 suspects arrested so far in anti-drug operation
+
+*2024-05-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99147/yukthiya-over-111000-suspects-arrested-so-far-in-anti-drug-operation-) · `en`
+
+A total of 111,074 suspects have been arrested while 4,472 among them are under detention orders for questioning since the beginning of Operation “Yukthiya” to date, Police Spokesman DIG Nihal Thalduwa said.
+
+Meanwhile, the Police Spokesman stated that 41 kilograms of heroin, 43 kilograms of ‘Ice’ and 300,000 narcotic pills have been taken into custody thus far during the island-wide police operation.
+
+Furthermore, the value of illegal assets seized during the operation is around Rs. 1,500 million, according to police.
+
+The anti-drug operation was launched on 17 December 2023, on the instructions of Public Security Minister Tiran Alles and IGP Deshabandu Tennakoon, in a bid to eradicate drug trafficking, organized crime and other related offences across the country.
+
+◼️
+
+[Data](articles/731ff0c4.json)
+
+---
 
 ### Public warned of severe lightning today
 
@@ -120,6 +156,24 @@ However, it is reported that operations are difficult to face the evil situation
 
 ---
 
+### ஆங்கில ஆசிரியர் மற்றும் அவரின் தாயாரின் கைத்தொலைபேசிகள் பொலிஸாரால் கைப்பற்றல்
+
+*2024-05-11 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/183228) · `ta`
+
+கல்வி பொதுத் தராதர சாதாரண தர பரீட்சை நடைபெற்று வரும் நிலையில், ஆங்கில பாட வினாத்தாள் வெளியானமை தொடர்பில் ஹசலக்கவில் உள்ள ஆங்கில வகுப்புக்களை நடத்தும் ஆசிரியர் மற்றும் அவரது தாயாரின்  கைத்தொலைபேசிகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+
+சம்பவம் தொடர்பாக ஆங்கில வகுப்புக்களை நடத்தும் ஆசிரியர் மற்றும் அவரது தாயாரிடம் வாக்குமூலம் பதிவு செய்யப்பட்டதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+கல்வி பொதுத் தராதர சாதாரண தர பரீட்சையில் இடம் பெற்ற முறைக்கேடுகள் தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் (CID) முறைப்பாடு செய்யப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+இந்த பரீட்சை முறைகேடுகள் கொழும்பு கொட்டாஞ்சேனை மற்றும் ஹசலக்க ஆகிய இரண்டு பரீட்சை நிலையங்களில் பதிவாகியுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/5eab7389.json)
+
+---
+
 ### Vesak around the corner…
 
 *2024-05-11 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-around-the-corner/110-282323) · `en`
@@ -178,6 +232,26 @@ Sri Lanka is to contest for the Twenty20 World Cup.
 
 ---
 
+### யாழில் வெப்பத்தால் மேலும் ஒருவர் பலி
+
+*2024-05-11 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183236) · `ta`
+
+அல்வாய் கிழக்கு ஆண்டவர் தோட்டம் பகுதியை சேர்ந்த 68 வயதுடைய வல்லிபுரம் கோபாலசிங்கம் என்பவரே உயிரிழந்துள்ளார்.
+
+முதியவர் வீட்டில் மயக்கமுற்ற நிலையில், வீட்டில் இருந்தவர்களால் மீட்கப்பட்டு , பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில் உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவரின் உடற்கூற்று பரிசோதனை நேற்றைய தினம் வெள்ளிக்கிழமை சட்ட வைத்திய அதிகாரி மேற்கொண்ட போது , கடுமையான வெப்ப தாக்கத்தால் உயிரிழப்பு ஏற்பட்டுள்ளதாக அறிக்கையிட்டார்.
+
+அதேவேளை கடந்த வியாழக்கிழமை புன்னாலைக்கட்டுவன் பகுதியில் 44 வயதுடைய நபர் ஒருவரும் கடும் வெப்ப தாக்கத்தால் உயிரிழந்திருந்தார்.
+
+அத்துடன், அண்மைய நாட்களில் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த ஐவர் "ஹீட் ஸ்ரோக்" ஏற்பட்டு உயிரிழந்துள்ளனர் என போதனா வைத்தியசாலையின் பொது வைத்திய நிபுணர் வைத்திய கலாநிதி ரி .பேரானந்தராஜா ஊடக சந்திப்பில் தெரிவித்து இருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/042ae3f5.json)
+
+---
+
 ### How the sky appeared after a powerful fire released from the Sun
 
 *2024-05-11 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196505) · `si`
@@ -223,6 +297,48 @@ The Senate committee raised questions about the potential national security thre
 [Data](articles/36359f09.json)
 
 [Extended Data](ext_articles/36359f09.ext.json)
+
+---
+
+### யாழில் பெண்ணொருவர் கழுத்து நெரித்து கொலை
+
+*2024-05-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183233) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி கிழக்கு பகுதியில் குடும்ப பெண்ணொருவர், நேற்று வெள்ளிக்கிழமை (10)  கழுத்து நெரித்து கொலை செய்யப்பட்டுள்ளார்.
+
+உடுத்துறை வடக்கு, தாளையாடியை சேர்ந்த 44 வயதுடைய ஜெகசீலன் சங்கீதா என்பவரே படுகொலை செய்யப்பட்டுள்ளார்.
+
+குறித்த பெண் வீட்டின் கழிவறைக்கு முன்பாக வைக்கப்பட்டிருந்த நீர் நிரப்பப்பட்ட கொள்கலனினுள் (பரல்) தலை மூழ்கிய நிலையில் சடலமாக காணப்பட்டுள்ளார்.
+
+அது தொடர்பில் மருதங்கேணி பொலிஸாருக்கு அறிவிக்கப்பட்டதை அடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தை மீட்டு , பருத்தித்துறை ஆதார வைத்தியசாலையில் உடற்கூற்று பரிசோதனைக்காக ஒப்படைத்தனர்.
+
+உடற்கூற்று பரிசோதனையில் துணி ஒன்றினால், பெண்ணின் கழுத்தை நெரித்து படுகொலை செய்யப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9d976e83.json)
+
+---
+
+### திருகோணமலையில் வீடொன்றில் தீ விபத்து
+
+*2024-05-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183230) · `ta`
+
+திருகோணமலை மாவட்டத்தின் நிலாவெளி பொலிஸ் பிரிவுக்குட்பட்ட இல 38ல் உள்ள, பெரியகுளம் விருகம்மான வீட்டுத் தொகுதியில் வீடொன்று தீப்பற்றியுள்ளதாக வீட்டு உரிமையாளர் தெரிவித்தார்.
+
+குறித்த சம்பவம் நேற்று வெள்ளிக்கிழமை (10) அதிகாலை 12.30 மணியளவில் இடம் பெற்றுள்ளது.
+
+சம்பவம் தொடர்பாக தெரியவருவதாவது, அன்றைய தினம் வீட்டை பூட்டி விட்டு திருகோணமலை கடற்படைக்கு முன்னால் தனது கடையில் தங்கியுள்ள நிலையில் தூங்கிக் கொண்டிருக்கும் போது தனது வீடு தீப்பற்றி எரிவதாக தகவல் கிடைக்கப் பெற்றுள்ளது.
+
+இந்த தீ சம்பவம் இடம் பெற்றுள்ளதை அறிந்து  உடனடியாக பொலிஸ் அவசரப் பிரிவு இலக்கமான 119 க்கு அறிவித்துள்ள நிலையில், தீயனைப்பு பிரிவுக்கும் அறிவித்ததாக குறித்த வீட்டின் உரிமையாளர் தெரிவித்தார். இதில் பல பெறுமதியான வீட்டு உபகரணங்கள் எறிந்து நாசமாகியுள்ளதால் பல இலட்சம் ரூபா நஷ்டம் ஏற்பட்டுள்ளதாகவும் தெரிவித்தார்.
+
+உயிர் சேதம் எதுவும் இடம் பெறவில்லை. வீடு தீப்பற்றியமை தொடர்பில் காரணம் இதுவரைக்கும் வெளியாகவில்லை.
+
+இச் சம்பவம் தொடர்பில் நிலாவெளி பொலிஸில் முறைப்பாடு செய்துள்ளதாகவும் உரிமையாளர்  மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/77604f0d.json)
 
 ---
 
@@ -315,6 +431,26 @@ In addition, payments for Test matches will now be merit-based, varying dependin
 [Data](articles/4f570500.json)
 
 [Extended Data](ext_articles/4f570500.ext.json)
+
+---
+
+### பற்றரியால் இயங்கும் விளையாட்டுப் பொருட்களால் சிறுவர்களுக்கு ஆபத்து
+
+*2024-05-11 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183211) · `ta`
+
+பற்றரி மூலம் இயங்கும் விளையாட்டுப் பொருட்களால் சிறுவர்களுக்கு  பாதிப்பு ஏற்படும் என அரசாங்க வைத்திய அதிகாரிகள் சங்கத்தின் உதவிச் செயலாளர் வைத்தியர் பாலித ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+சிறுவர்கள் விளையாடும் விளையாட்டுப் பொருட்களில் லித்தியம், சில்வர் ஒக்சைட் மற்றும் அல்கலைன்  ஆகிய இரசாயன கலவைகள் கலந்த பொத்தான் வடிவில்  பற்றரிகள் இருப்பதால் அதனை சிறுவர்கள் விழுங்கலாம், அல்லது காது  மற்றும் மூக்கில் வைக்கக்கூடிய சாத்தியக்கூறுகள் உள்ளன என்றார்.
+
+காரணம், எமது உணவுக் கால்வாயின் (உணவுக்குழாய்) முதல் பகுதி இயற்கையாகவே குறுகியதாக இருப்பதால்,  பற்றரியை விழுங்கும்போது வயிற்றுக்குள் சென்று கடுமையான சேதத்தை ஏற்படுத்தும்.
+
+இதனால் பற்றரி வயிற்றில் திடீரென வெடிக்கலாம், இதனால் சுவாசக் குழாய் அடைப்பு ஏற்பட்டு மரணம் ஏற்படும்.
+
+எனவே, சிறுவர்கள் இவ்வாறான விபத்துக்களில் சிக்கினால் உடனடியாக வைத்தியசாலைக்கு கொண்டு செல்ல வேண்டும். முதலுதவியாக வைத்தியசாலைக்கு கொண்டு செல்லும் வரை 10 நிமிடங்களுக்கு ஒரு முறை இரண்டு தேக்கரண்டி சுத்தமான தேனை பாதிக்கப்பட்ட சிறுவர்களுக்கு  கொடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/62bad2cf.json)
 
 ---
 
@@ -2059,137 +2195,5 @@ The resolution “determines that the State of Palestine ... should therefore be
 [Data](articles/baa73292.json)
 
 [Extended Data](ext_articles/baa73292.ext.json)
-
----
-
-### President announces plans to pass women-empowering bills in Parliament by June
-
-*2024-05-10 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99139/president-announces-plans-to-pass-women-empowering-bills-in-parliament-by-june) · `en`
-
-President Ranil Wickremesinghe emphasized his recognition of the challenges women face in safeguarding their families amidst the economic crisis.
-
-He highlighted the government’s swift action by presenting two bills to the Parliament aimed at empowering women during this initial phase of economic recovery.
-
-The President indicated that these bills are anticipated to be ratified by the Parliament in June, thereby enforcing a national policy on gender equality and women’s empowerment, the President’s Media Division said.
-
-This includes the establishment of a National Commission on Women and mechanisms to protect women’s rights and prevent violations thereof, including legal recourse.
-
-President Ranil Wickremesinghe made these remarks during his keynote address at the unveiling of three “Anti-Violence Global Gestures” handprints against sexual violence targeting women and girls in public spaces, organized by DP Education at the Nelum Pokuna Theater in Colombo today (10), the PMD reported.
-
-...
-
-[Data](articles/96568b13.json)
-
-[Extended Data](ext_articles/96568b13.ext.json)
-
----
-
-### Decision on Savings Interest Rates of Senior Citizens
-
-*2024-05-10 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196493) · `si`
-
-State Minister Dr. Ranjith Siyambalapitiya, acting on the President's directive, is tasked with analyzing savings interest rates for senior citizens.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that the President has instructed him to provide a clear analysis of savings interest rates on savings interest rates.
-
-◼️
-
-[Data](articles/3de963f6.json)
-
-[Extended Data](ext_articles/3de963f6.ext.json)
-
----
-
-### One person killed in shooting in Ahungalla
-
-*2024-05-10 21:37:30* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබීමකින්-පුද්ගලකු-ජීවිතක්ෂයට/11-409554) · `si`
-
-A 54-year-old man, Piyal Silva, was shot dead in Ahungalla by two gunmen on a motorbike. The incident occurred in the Maradana area, and the shooters fled the scene. The police are investigating the motive behind the shooting.
-
-🟩
-
-The deceased has been identified as a 54-year-old shooting at the Maradana area in Ahangulla.
-
-According to the police, Piyal Silva was a resident of Maradana, Ahungalla.
-
-Two unidentified gunmen who came with a motorbike had fled the police, and he had hit five shots.
-
-In this sense, the underworld gunmen was killed at around 8 pm on May 8 night.
-
-The shooting could be a repurpose and the unidentified gunmen had come to a motorcycle this night.
-
-The Ahungalla Police are conducting further investigations on the instructions of Superintendent of Police Ravindu De Silva.
-
-◼️
-
-[Data](articles/69b04639.json)
-
-[Extended Data](ext_articles/69b04639.ext.json)
-
----
-
-### Your mother is the one who will stand by you even if the entire world is against you. Christobel Cooray my Amma stood by me. She stands by me. It’s love, unadulterated. Children  are reminded of all that when Mother’s Day comes around
-
-*2024-05-10 21:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84014) · `en`
-
-There is no day in the calendar that can be called ‘Mother’s Day,’ not as far as mothers themselves are concerned. They don’t cease to be mothers on days that are not called ‘Mother’s Day.’ And yet, the 12th of May or rather the second Sunday in the month of May, as originally designated by Woodrow Wilson, then US President, is important, not so much for mothers as it is for their children.  Children, who soak in the love and affection and are protected from anxiety and harm day in and day out, are reminded of all that when Mother’s Day comes around.
-
-All of us have seen mothers. We have seen the mothers of our parents and the mothers of our own children. We have known the mothers of our friends and the mothers of their children. It occurred to me, however, that today, as mothers the world over are celebrated, but it is not a collective or the idea of ‘motherhood’ that is important. We remember our own mothers. I remember mine, my Amma.
-
-...
-
-[Data](articles/7994bcad.json)
-
-[Extended Data](ext_articles/7994bcad.ext.json)
-
----
-
-### Urging support for struggling artists...
-
-*2024-05-10 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Urging-support-for-struggling-artists/110-282338) · `en`
-
-The United Youth Artistes' Forum emphasized the importance of maintaining the stability that the country has achieved and called for assistance for artists who they claim have become helpless in the wake of the economic crisis. Artists Senaka Wijesinghe, Rajitha Hiran and Kumar Jayakatha were among those who voiced these concerns at a media briefing. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/4bca174f.json)
-
-[Extended Data](ext_articles/4bca174f.ext.json)
-
----
-
-### Urging support for struggling artistes...
-
-*2024-05-10 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Urging-support-for-struggling-artistes/110-282338) · `en`
-
-The United Youth Artistes' Forum emphasized the importance of maintaining the stability that the country has achieved and called for assistance for artistes who they claim have become helpless in the wake of the economic crisis. Artistes Senaka Wijesinghe, Rajitha Hiran and Kumar Jayakatha were among those who voiced these concerns at a media briefing. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/8897407d.json)
-
-[Extended Data](ext_articles/8897407d.ext.json)
-
----
-
-### Tharshan Selvarajah makes history as first Sri Lankan to carry Olympic torch
-
-*2024-05-10 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tharshan-Selvarajah-makes-history-as-first-Sri-Lankan-to-carry-Olympic-torch/108-282336) · `en`
-
-May 10 - Paris-based Sri Lankan-born baker Tharshan Selvarajah has etched his name into the annals of history as the first Sri Lankan to be bestowed with the honour of carrying the iconic Olympic torch.
-
-Some 10,000 people will have the honour of carrying the torch for part of its relay around the country, from ordinary citizens to VIPs.
-
-Selvarajah's journey to becoming a torchbearer embodies the essence of the Olympic spirit. Having arrived in France for the first time in 2006, he embarked on a remarkable trajectory from humble beginnings to culinary excellence.
-
-Initially working as a cook, Selvarajah's passion for baking soon led him to a bakery, where he honed his craft.
-
-◼️
-
-[Data](articles/9c0587c8.json)
-
-[Extended Data](ext_articles/9c0587c8.ext.json)
 
 ---

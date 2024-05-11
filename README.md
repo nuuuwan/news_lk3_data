@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 08:06:40**
+As of **2024-05-11 08:18:37**
 
 ## Newspaper Stats
 
-*Scraped **23,282** Articles*
+*Scraped **23,284** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
 bbccomsinhala | 242
-dbsjeyarajcom | 242
+dbsjeyarajcom | 243
 newsfirstlk | 363
 islandlk | 1,261
 economynextcom | 1,341
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,723
 adaderanalk | 2,723
 virakesarilk | 3,465
 dailymirrorlk | 3,659
-adaderanasinhalalk | 3,728
+adaderanasinhalalk | 3,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,282 (100.0%) of 23,282 articles have been extended.
+23,282 (100.0%) of 23,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### ඇන්ඩර්සන් ට දොර වැසෙයි
+
+*2024-05-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196497) · `si`
+
+ලොව වැඩිම ටෙස්ට් කඩුලු සංඛ්‍යාවක් දවාගෙන සිටින වේගපන්දු යවන්නා වන එංගලන්ත කණ්ඩායමේ ජිමී ඇන්ඩර්සන් ටෙස්ට් පිටියට සමූදීමට සැරසෙන බව වාර්තා වෙයි.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ එළඹෙන ටෙස්ට් තරගාවලි සඳහා එංගලන්තය නවක, තරුණ වේගපන්දු යවන්නන් කෙරෙහි අවධානය යොමුකිරීමට තීරණය කර ඇති බවය.
+
+ඒ බව එංගලන්ත පුහුණුකරු බ්‍රෙන්ඩන් මැකලම් විසින් ඇන්ඩර්සන් ට දැනුම්දී තිබේ.
+
+2003 වසරේදී ටෙස්ට් වරම් ලැබූ ඔහු මේ වනවිට 42 හැවිරිදි වියේ පසුවෙයි
+
+◼️
+
+[Data](articles/344c23f4.json)
+
+---
 
 ### Shooting Ahungalla Shot was revenge
 
@@ -1025,6 +1043,20 @@ State Minister Dr. Ranjith Siyambalapitiya says that the President has instructe
 [Data](articles/3de963f6.json)
 
 [Extended Data](ext_articles/3de963f6.ext.json)
+
+---
+
+### Your mother is the one who will stand by you even if the entire world is against you. Christobel Cooray my Amma stood by me. She stands by me. It’s love, unadulterated. Children  are reminded of all that when Mother’s Day comes around
+
+*2024-05-10 21:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84014) · `en`
+
+There is no day in the calendar that can be called ‘Mother’s Day,’ not as far as mothers themselves are concerned. They don’t cease to be mothers on days that are not called ‘Mother’s Day.’ And yet, the 12th of May or rather the second Sunday in the month of May, as originally designated by Woodrow Wilson, then US President, is important, not so much for mothers as it is for their children.  Children, who soak in the love and affection and are protected from anxiety and harm day in and day out, are reminded of all that when Mother’s Day comes around.
+
+All of us have seen mothers. We have seen the mothers of our parents and the mothers of our own children. We have known the mothers of our friends and the mothers of their children. It occurred to me, however, that today, as mothers the world over are celebrated, but it is not a collective or the idea of ‘motherhood’ that is important. We remember our own mothers. I remember mine, my Amma.
+
+...
+
+[Data](articles/7994bcad.json)
 
 ---
 
@@ -2181,49 +2213,5 @@ The Secretary of the Eastern Provincial Council Department, the Secretary of the
 [Data](articles/49d86469.json)
 
 [Extended Data](ext_articles/49d86469.ext.json)
-
----
-
-### Fatal bus and tuk collision leaves one dead, four injured
-
-*2024-05-10 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99132/fatal-bus-and-tuk-collision-leaves-one-dead-four-injured) · `en`
-
-One person has been reported dead, while four others were left injured following a head-on collision involving a passenger transport bus and a three-wheeler in the Puwakgodamulla area of Badulla this morning (10).
-
-Police said that the tragic accident involving a passenger transport bus attached to the Sri Lanka Transport Board’s (SLTB) Dehiattakandiya Bus Depot and a three-wheel took place at around 10.00 a.m. today.
-
-An individual who was traveling in the three-wheeler has been killed, while four others sustained injuries and were admitted to the hospital for treatment, according to police.
-
-The deceased person has been identified as a 79-year-old, Ada Derana reporter said.
-
-Local residents allege that road accidents occur frequently in the area due to the obstruction of one lane of the road for water pipe maintenance activities.
-
-◼️
-
-[Data](articles/ca22a1aa.json)
-
-[Extended Data](ext_articles/ca22a1aa.ext.json)
-
----
-
-### One person killed in Badulla accident
-
-*2024-05-10 14:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-ஒருவர்-பலி-நால்வர்-காயம்/76-337090) · `ta`
-
-In Badulla, a fatal accident involving a bus and a three-wheeler resulted in one death and four injuries. The incident occurred on the Badulla-Mahiyanganaya road, with the bus from the Sri Lanka Transport Board (SLTB) and a three-wheeler from the Ruhuna Transport Board colliding. Hospital sources report that a woman and three men were among the injured, all admitted to the Badulla Teaching Hospital.
-
-🟩
-
-Badulla police said that a bus and a three -wheeler belonging to the Sri Lanka Transport Board (SLTB) belonging to the Sri Lanka Transport Board (SLTB) in the Bhuvakkodamula area of the Badulla - Mahiyanganaya road was killed and four others were injured.
-
-தெஹியத்தகண்டிய டிப்போவுக்குச் சொந்தமான  பஸ் ஒன்று தெஹியத்தகண்டிய சிறிபுரவிலிருந்து பதுளை நோக்கிச் சென்று கொண்டிருந்த போது அதற்கு முன்னால் பதுளையிலிருந்து ரிதிபன நோக்கிச் சென்ற முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-According to hospital sources, a woman and three men were injured and admitted to the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/4a8d0725.json)
-
-[Extended Data](ext_articles/4a8d0725.ext.json)
 
 ---

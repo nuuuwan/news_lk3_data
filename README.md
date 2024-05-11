@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 10:18:20**
+As of **2024-05-11 10:33:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,295 (100.0%) of 23,300 articles have been extended.
+23,300 (100.0%) of 23,300 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Furthermore, he assured that a detailed report will be provided to the President
 ◼️
 
 [Data](articles/ff3d8a04.json)
+
+[Extended Data](ext_articles/ff3d8a04.ext.json)
 
 ---
 
@@ -73,6 +75,8 @@ Pasco produces the bread at a factory in Tokyo, whose assembly line has been sus
 ...
 
 [Data](articles/6bbc23df.json)
+
+[Extended Data](ext_articles/6bbc23df.ext.json)
 
 ---
 
@@ -166,6 +170,8 @@ Reports indicated that some candidates had tried to access answers for the Engli
 
 [Data](articles/463789de.json)
 
+[Extended Data](ext_articles/463789de.ext.json)
+
 ---
 
 ### Another shooting - Woman injured
@@ -211,6 +217,8 @@ The Uda Pussellawa BOPs were barely maintained, whilst the corresponding BOPFs a
 ...
 
 [Data](articles/5105b7db.json)
+
+[Extended Data](ext_articles/5105b7db.ext.json)
 
 ---
 
@@ -457,6 +465,8 @@ She lost her parliamentary seat on the grounds that she is a UK citizen. The Sup
 ...
 
 [Data](articles/6c487faf.json)
+
+[Extended Data](ext_articles/6c487faf.ext.json)
 
 ---
 

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 02:18:39**
+As of **2024-05-12 02:33:58**
 
 ## Newspaper Stats
 
-*Scraped **23,376** Articles*
+*Scraped **23,377** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 206
 bbccomsinhala | 243
-dbsjeyarajcom | 243
+dbsjeyarajcom | 244
 newsfirstlk | 363
 islandlk | 1,263
 economynextcom | 1,345
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,376 (100.0%) of 23,376 articles have been extended.
+23,376 (100.0%) of 23,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2138,6 +2138,22 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 
 ---
 
+### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
+
+*2024-05-11 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
+
+May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
+
+May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
+
+...
+
+[Data](articles/5fbb9b96.json)
+
+[Extended Data](ext_articles/5fbb9b96.ext.json)
+
+---
+
 ### Circus Pasppia: Does the country lose their generations?
 
 *2024-05-11 03:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lpk48plvo) · `si`
@@ -2313,21 +2329,5 @@ Amid those developments, the banking sector counters moved up and traded positiv
 [Data](articles/3ecf31a7.json)
 
 [Extended Data](ext_articles/3ecf31a7.ext.json)
-
----
-
-### Fitch affirms SriLankan Airlines’ government guaranteed bonds at ‘C’
-
-*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/fitch-affirms-srilankan-airlines-government-guaranteed-bonds-at-c/) · `en`
-
-Fitch Ratings has affirmed the rating on SriLankan Airlines Limited’s (SLA) USD175 million government guaranteed 7% unsecured bonds due 25 June 2024 at ‘C’. The rating on the bonds is driven by the unconditional and irrevocable guarantee of the government of Sri Lanka (Long-Term Foreign-Currency Issuer Default Rating: ‘RD’).
-
-SLA did not pay the interest due on 25 December 2023 on its guaranteed unsecured bonds, or during the 30-day grace period that followed, triggering an event of default. This is in addition to previous missed coupon payments in June 2023 and December 2022, and the events of default triggered via the 12 April 2022 announcement by the Sri Lankan government of a debt moratorium on several categories of sovereign and public-sector entities’ external debt, as well as the ensuing non-payment of interest on the government’s external debt.
-
-...
-
-[Data](articles/9508a1d1.json)
-
-[Extended Data](ext_articles/9508a1d1.ext.json)
 
 ---

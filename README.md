@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 09:33:46**
+As of **2024-05-11 09:52:38**
 
 ## Newspaper Stats
 
-*Scraped **23,290** Articles*
+*Scraped **23,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,723
 adaderanalk | 2,724
 virakesarilk | 3,466
 dailymirrorlk | 3,661
-adaderanasinhalalk | 3,731
+adaderanasinhalalk | 3,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,290 (100.0%) of 23,290 articles have been extended.
+23,290 (100.0%) of 23,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### 'වැල්ලේ සාරංග' ගේ ප්‍රධාන සමීපතමයෙකු අත්අඩංගුවට
+
+*2024-05-11 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196500) · `si`
+
+සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන දැනට ඩුබායි රාජ්‍යයේ රැඳී සිටින "වැල්ලේ සාරංග" ගේ ප්‍රධාන සමීපතමයෙකු අයිස් මත්ද්‍රව්‍ය සමග පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම බළකාය සඳහන් කළේය මනුෂ්‍ය ඝාතනයක් සඳහා පැමිණි පුද්ගලයෙකුට ආධාර අනුබල සහ නවාතැන් දීම සම්බන්ධයෙන් වන චෝදනාව මත මෙම පුද්ගලයාව ජාඇළ, තුඩැල්ල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවය.
+
+සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන දැනට ඩුබායි රාජ්‍යයේ රැඳී සිටින වැල්ලේ සාරංග නැමති පුද්ගලයාගේ මෙහෙයවීම මත පසුගිය මාර්තු මස 08 වනදා මත්තුමගල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකුට ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩිතබා ඔහුව ඝාතනය කිරීමට තැත්කර තිබේ.
+
+එම වෙඩික්කරුට  නවාතැන් පහසුකම් ලබාදිම, මිනි මැරිමට තැත් කිරිම සඳහා ආධාර අනුබල දිම, හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 02 මිලි ග්රෑම් 70ක් සන්තකයේ තබා ගැනීම යන චෝදනාමත මෙම සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ ජාඇළ ප්‍රදේශයේ පදිංචි වයස අවුරුදු 28ක් වන පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/647668f6.json)
+
+---
 
 ### Another shooting - Woman injured
 
@@ -2193,31 +2213,5 @@ The former Earth Magnetic Storm has caused some impact on the earth and space. T
 [Data](articles/69949dff.json)
 
 [Extended Data](ext_articles/69949dff.ext.json)
-
----
-
-### Solar magnetic storm that strikes the earth today!Scientists alert
-
-*2024-05-10 15:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-பூமியைத்-தாக்கும்-சூரிய-காந்த-புயல்-விஞ்ஞானிகள்-எச்சரிக்கை/50-337091) · `ta`
-
-A moderate solar magnetic storm is expected to hit Earth today, affecting satellite activities and potentially causing aurora sightings from California to South Alabama. The storm, occurring at 451-615 km/s from February 9-10, may impact the northern hemisphere and has historical precedents of causing radio blackouts in Russia.
-
-🟩
-
-It is reported that the earth will be affected by a moderate earthquake storm at 451 - 615 kilometers per second from February 9 to February 10.
-
-Accordingly, the Aurora magnetic storm warning has been issued from California to California - South Alabama from tonight (10) to 11 pm.
-
-In the Earth's northern hemisphere, it has been reported that the magnetic storm can be affected.
-
-The US Laboratory has warned that satellite activities are also likely to be paralyzed.
-
-The former Earth Magnetic Storm has caused some impact on the earth and space. The Earth's Magnetic Storm that previously hit Earth has had a radio block out effect as a whole in Russia. Remble
-
-◼️
-
-[Data](articles/6cfa40be.json)
-
-[Extended Data](ext_articles/6cfa40be.ext.json)
 
 ---

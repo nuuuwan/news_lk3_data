@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 14:51:52**
+As of **2024-05-11 15:03:32**
 
 ## Newspaper Stats
 
-*Scraped **23,339** Articles*
+*Scraped **23,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,263
 economynextcom | 1,344
 dailyftlk | 1,356
 adalk | 1,978
-tamilmirrorlk | 2,729
+tamilmirrorlk | 2,730
 adaderanalk | 2,730
 virakesarilk | 3,474
 dailymirrorlk | 3,672
@@ -26,27 +26,47 @@ adaderanasinhalalk | 3,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,332 (100.0%) of 23,339 articles have been extended.
+23,339 (100.0%) of 23,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### யாழில் குழந்தை பெற்ற 15 வயதுச் சிறுமி மாயம்
+### ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் ஐவர் கைது
+
+*2024-05-11 14:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜயவர்தனபுர-பல்கலைக்கழக-மாணவர்கள்-ஐவர்-கைது/175-337124) · `ta`
+
+ஸ்ரீ ஜயவர்தனபுர மற்றும் களணி பல்கலைக்கழக மாணவர்களுக்கிடையே ஏற்பட்ட மோதலில் ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் ஐவர் செய்யப்பட்டுள்ளனர்.
+
+தகராறில் தாக்கப்பட்ட மாணவன் பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் அடிப்படையில் இவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/95b3bf9b.json)
+
+---
+
+### A 15 -year -old girl who has a baby in Jaffna
 
 *2024-05-11 14:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குழந்தை-பெற்ற-15-வயதுச்-சிறுமி-மாயம்/175-337123) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் குழந்தையை பிரசவித்த சிறுமி ஒருவர், குழந்தையை வைத்தியசாலையிலேயே விட்டுவிட்டு சென்றதாக தெரிவிக்கப்படுகின்றது.
+A 15-year-old girl from Vadamarachchi Tunnalai, Jaffna, delivered a baby at the Jaffna Teaching Hospital but left the newborn there. The girl and her mother were admitted for delivery, and after the birth, they reportedly left without the baby. This has led to an investigation by the Jaffna Police Station following a complaint from the hospital.
 
-வடமராட்சி துன்னாலைப்பகுதியைச் சேர்ந்த 15 வயதுடைய சிறுமியொருவர் கர்ப்பமாக இருந்த நிலையில் தனது தாயுடன் பிரசவத்திற்காக நேற்று மாலை யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-பின்னர் நேற்று இரவு குழந்தையை பிரசவித்த சிறுமி குழந்தையை அநாதரவாக விட்டுவிட்டு சிறுமியும் அவரின் தாயும் தலைமறைவாகியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that a girl who delivered the baby at the Jaffna Teaching Hospital had left the baby at the hospital.
 
-குறித்த சம்பவம் தொடர்பாக வைத்தியசாலை நிர்வாகத்தினால் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டதையடுத்து பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர். R
+A 15 -year -old girl from Vadamarachchi Tunnalai has been admitted to the Jaffna Teaching Hospital last evening for delivery with her mother.
+
+It is reported that the girl and her mother have left the baby or her mother who later delivered the baby last night.
+
+Further investigations have been launched after a complaint was lodged at the Jaffna Police Station by the hospital administration.. Remble
 
 ◼️
 
 [Data](articles/fc70bf05.json)
+
+[Extended Data](ext_articles/fc70bf05.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ The anti-drug operation was launched on 17 December 2023, on the instructions of
 ◼️
 
 [Data](articles/731ff0c4.json)
+
+[Extended Data](ext_articles/731ff0c4.ext.json)
 
 ---
 
@@ -156,21 +178,31 @@ However, it is reported that operations are difficult to face the evil situation
 
 ---
 
-### ஆங்கில ஆசிரியர் மற்றும் அவரின் தாயாரின் கைத்தொலைபேசிகள் பொலிஸாரால் கைப்பற்றல்
+### The English teacher and his mother's cell phones seize by the police
 
 *2024-05-11 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/183228) · `ta`
 
-கல்வி பொதுத் தராதர சாதாரண தர பரீட்சை நடைபெற்று வரும் நிலையில், ஆங்கில பாட வினாத்தாள் வெளியானமை தொடர்பில் ஹசலக்கவில் உள்ள ஆங்கில வகுப்புக்களை நடத்தும் ஆசிரியர் மற்றும் அவரது தாயாரின்  கைத்தொலைபேசிகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+Police seized the cell phones of an English teacher and his mother in Hasalakku, investigating cheating during the English Classification Questionnaire exam. The teacher and his mother, who run English classes, were taken into police custody. The Commissioner General of Examinations reported that the CID has filed a complaint, and exams were compromised at two centers, with examiners attempting to use cell phones to share answers.
 
-சம்பவம் தொடர்பாக ஆங்கில வகுப்புக்களை நடத்தும் ஆசிரியர் மற்றும் அவரது தாயாரிடம் வாக்குமூலம் பதிவு செய்யப்பட்டதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-கல்வி பொதுத் தராதர சாதாரண தர பரீட்சையில் இடம் பெற்ற முறைக்கேடுகள் தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் (CID) முறைப்பாடு செய்யப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+Police have seized the teacher and his mother's mobile phones in Hasalakku in connection with the publication of the English Classification Questionnaire, as the Education General Level Examination is underway, police said.
 
-இந்த பரீட்சை முறைகேடுகள் கொழும்பு கொட்டாஞ்சேனை மற்றும் ஹசலக்க ஆகிய இரண்டு பரீட்சை நிலையங்களில் பதிவாகியுள்ளதாக அவர் தெரிவித்துள்ளார்.
+The teacher and his mother, who runs English classes regarding the incident, have been lodged with the police, police said.
 
-...
+The Commissioner General of Examinations HJMC Amit Jayasundera said that the Criminal Investigation Department (CID) has lodged a complaint with the Criminal Investigation Department (CID).
+
+He said that the exams were reported at two examination centers - Kottanchenai and Halaka, Colombo.
+
+During the exam, some examiners tried to get the answers to the English questionnaire using the cell phones and share them with others. The examiners who observed this have seized the cell phones.
+
+The Commissioner General said that the police have lodged a complaint with the police stations in the areas where the exam stations are located.
+
+◼️
 
 [Data](articles/5eab7389.json)
+
+[Extended Data](ext_articles/5eab7389.ext.json)
 
 ---
 
@@ -232,23 +264,29 @@ Sri Lanka is to contest for the Twenty20 World Cup.
 
 ---
 
-### யாழில் வெப்பத்தால் மேலும் ஒருவர் பலி
+### Another killed by heat in Jaffna
 
 *2024-05-11 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183236) · `ta`
 
-அல்வாய் கிழக்கு ஆண்டவர் தோட்டம் பகுதியை சேர்ந்த 68 வயதுடைய வல்லிபுரம் கோபாலசிங்கம் என்பவரே உயிரிழந்துள்ளார்.
+Vallipuram Gopalasingham, 68, died from heatstroke in Jaffna, following his rescue and hospitalization. Another man, 44, also succumbed to heatstroke. Five patients at Jaffna Bodhana Hospital have died from heatstroke in recent days.
 
-முதியவர் வீட்டில் மயக்கமுற்ற நிலையில், வீட்டில் இருந்தவர்களால் மீட்கப்பட்டு , பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில் உயிரிழந்துள்ளார்.
+🟩
 
-உயிரிழந்தவரின் உடற்கூற்று பரிசோதனை நேற்றைய தினம் வெள்ளிக்கிழமை சட்ட வைத்திய அதிகாரி மேற்கொண்ட போது , கடுமையான வெப்ப தாக்கத்தால் உயிரிழப்பு ஏற்பட்டுள்ளதாக அறிக்கையிட்டார்.
+The deceased is Vallipuram Gopalasingham, 68, a 68 -year -old from the East East Gardens.
 
-அதேவேளை கடந்த வியாழக்கிழமை புன்னாலைக்கட்டுவன் பகுதியில் 44 வயதுடைய நபர் ஒருவரும் கடும் வெப்ப தாக்கத்தால் உயிரிழந்திருந்தார்.
+The elderly man has been rescued by the house and has died after being admitted to the Pedro Base Hospital.
 
-அத்துடன், அண்மைய நாட்களில் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த ஐவர் "ஹீட் ஸ்ரோக்" ஏற்பட்டு உயிரிழந்துள்ளனர் என போதனா வைத்தியசாலையின் பொது வைத்திய நிபுணர் வைத்திய கலாநிதி ரி .பேரானந்தராஜா ஊடக சந்திப்பில் தெரிவித்து இருந்தமையும் குறிப்பிடத்தக்கது.
+When a legal officer carried out a medical officer on Friday, the body of the deceased reported that he was suffering from severe heat.
+
+Meanwhile, a 44 -year -old man died of a severe heat impact last Thursday.
+
+In the recent days, five people who were receiving treatment at the Jaffna Bodhana Hospital have died due to the "Heat Srock", the general doctor of the teaching hospital, Dr. R. Peranandaraja, at a media briefing.
 
 ◼️
 
 [Data](articles/042ae3f5.json)
+
+[Extended Data](ext_articles/042ae3f5.ext.json)
 
 ---
 
@@ -300,45 +338,57 @@ The Senate committee raised questions about the potential national security thre
 
 ---
 
-### யாழில் பெண்ணொருவர் கழுத்து நெரித்து கொலை
+### A woman strangled to death in Jaffna
 
 *2024-05-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183233) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சி கிழக்கு பகுதியில் குடும்ப பெண்ணொருவர், நேற்று வெள்ளிக்கிழமை (10)  கழுத்து நெரித்து கொலை செய்யப்பட்டுள்ளார்.
+A 44-year-old woman, Jegaseelan Sangeetha, was found strangled to death in a water-filled container in Jaffna's Vadamarachchi area. The police, upon discovering her body, conducted an autopsy which confirmed the cause of death as strangulation.
 
-உடுத்துறை வடக்கு, தாளையாடியை சேர்ந்த 44 வயதுடைய ஜெகசீலன் சங்கீதா என்பவரே படுகொலை செய்யப்பட்டுள்ளார்.
+🟩
 
-குறித்த பெண் வீட்டின் கழிவறைக்கு முன்பாக வைக்கப்பட்டிருந்த நீர் நிரப்பப்பட்ட கொள்கலனினுள் (பரல்) தலை மூழ்கிய நிலையில் சடலமாக காணப்பட்டுள்ளார்.
+A family woman has been strangled to death on Friday (10) in the eastern part of the Jaffna - Vadamarachchi.
 
-அது தொடர்பில் மருதங்கேணி பொலிஸாருக்கு அறிவிக்கப்பட்டதை அடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தை மீட்டு , பருத்தித்துறை ஆதார வைத்தியசாலையில் உடற்கூற்று பரிசோதனைக்காக ஒப்படைத்தனர்.
+The 44 -year -old Jegaseelan Sangeetha, a 44 -year -old from North, North, has been assassinated.
 
-உடற்கூற்று பரிசோதனையில் துணி ஒன்றினால், பெண்ணின் கழுத்தை நெரித்து படுகொலை செய்யப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது.
+The woman is found dead in a water -filled container (paral) that was placed in front of the toilet of the house.
+
+Following the announcement of the Maruthankeni police, the police rushed to the scene and handed over the body to the Point Pedro Base Hospital for anatomical examination.
+
+Anatomical examination has been found to have been strangled to the woman's neck.
 
 ◼️
 
 [Data](articles/9d976e83.json)
 
+[Extended Data](ext_articles/9d976e83.ext.json)
+
 ---
 
-### திருகோணமலையில் வீடொன்றில் தீ விபத்து
+### Fire in a house in Trincomalee
 
 *2024-05-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183230) · `ta`
 
-திருகோணமலை மாவட்டத்தின் நிலாவெளி பொலிஸ் பிரிவுக்குட்பட்ட இல 38ல் உள்ள, பெரியகுளம் விருகம்மான வீட்டுத் தொகுதியில் வீடொன்று தீப்பற்றியுள்ளதாக வீட்டு உரிமையாளர் தெரிவித்தார்.
+A house in Trincomalee's Periyakulam Viruga Home constituency was set on fire at 12:30 am on 10th, causing significant damage to property but no injuries. The owner, asleep in a shop, reported the fire to the local fire unit and police. The cause remains unknown.
 
-குறித்த சம்பவம் நேற்று வெள்ளிக்கிழமை (10) அதிகாலை 12.30 மணியளவில் இடம் பெற்றுள்ளது.
+🟩
 
-சம்பவம் தொடர்பாக தெரியவருவதாவது, அன்றைய தினம் வீட்டை பூட்டி விட்டு திருகோணமலை கடற்படைக்கு முன்னால் தனது கடையில் தங்கியுள்ள நிலையில் தூங்கிக் கொண்டிருக்கும் போது தனது வீடு தீப்பற்றி எரிவதாக தகவல் கிடைக்கப் பெற்றுள்ளது.
+The homeowner said that a house has been set on fire in the Periyakulam Viruga Home constituency in No. 38 of the Nilaveli Police Division of the Trincomalee District.
 
-இந்த தீ சம்பவம் இடம் பெற்றுள்ளதை அறிந்து  உடனடியாக பொலிஸ் அவசரப் பிரிவு இலக்கமான 119 க்கு அறிவித்துள்ள நிலையில், தீயனைப்பு பிரிவுக்கும் அறிவித்ததாக குறித்த வீட்டின் உரிமையாளர் தெரிவித்தார். இதில் பல பெறுமதியான வீட்டு உபகரணங்கள் எறிந்து நாசமாகியுள்ளதால் பல இலட்சம் ரூபா நஷ்டம் ஏற்பட்டுள்ளதாகவும் தெரிவித்தார்.
+The incident took place yesterday (10) at around 12.30 am.
 
-உயிர் சேதம் எதுவும் இடம் பெறவில்லை. வீடு தீப்பற்றியமை தொடர்பில் காரணம் இதுவரைக்கும் வெளியாகவில்லை.
+According to the incident, it was reported that his house was set on fire while she was sleeping in his shop in front of the Trincomalee Navy.
 
-இச் சம்பவம் தொடர்பில் நிலாவெளி பொலிஸில் முறைப்பாடு செய்துள்ளதாகவும் உரிமையாளர்  மேலும் தெரிவித்தார்.
+The owner of the house said that the fire was reported to the fire unit, as the police emergency department had immediately announced to 119.. He said that several lakhs of rupees have been lost due to the destruction of several valuable housing equipment.
+
+No life damage was left. The reason for the house fire has not yet been revealed.
+
+The owner added that the Nilaveli police have lodged a complaint with the incident.
 
 ◼️
 
 [Data](articles/77604f0d.json)
+
+[Extended Data](ext_articles/77604f0d.ext.json)
 
 ---
 
@@ -434,23 +484,29 @@ In addition, payments for Test matches will now be merit-based, varying dependin
 
 ---
 
-### பற்றரியால் இயங்கும் விளையாட்டுப் பொருட்களால் சிறுவர்களுக்கு ஆபத்து
+### Risk for boys with bodice -powered sports materials
 
 *2024-05-11 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183211) · `ta`
 
-பற்றரி மூலம் இயங்கும் விளையாட்டுப் பொருட்களால் சிறுவர்களுக்கு  பாதிப்பு ஏற்படும் என அரசாங்க வைத்திய அதிகாரிகள் சங்கத்தின் உதவிச் செயலாளர் வைத்தியர் பாலித ராஜபக்ஷ தெரிவித்துள்ளார்.
+Dr. Palitha Rajapaksa warns that sports materials containing chemicals like lithium, silver oxide, and alkaline can pose a risk to boys, potentially causing severe damage if swallowed. The short esophagus can lead to these materials reaching the stomach, causing respiratory blockage and even death. Immediate hospitalization is advised, with honey administered as first aid.
 
-சிறுவர்கள் விளையாடும் விளையாட்டுப் பொருட்களில் லித்தியம், சில்வர் ஒக்சைட் மற்றும் அல்கலைன்  ஆகிய இரசாயன கலவைகள் கலந்த பொத்தான் வடிவில்  பற்றரிகள் இருப்பதால் அதனை சிறுவர்கள் விழுங்கலாம், அல்லது காது  மற்றும் மூக்கில் வைக்கக்கூடிய சாத்தியக்கூறுகள் உள்ளன என்றார்.
+🟩
 
-காரணம், எமது உணவுக் கால்வாயின் (உணவுக்குழாய்) முதல் பகுதி இயற்கையாகவே குறுகியதாக இருப்பதால்,  பற்றரியை விழுங்கும்போது வயிற்றுக்குள் சென்று கடுமையான சேதத்தை ஏற்படுத்தும்.
+The Assistant Secretary of the Government Medical Officers Association, Dr. Palitha Rajapaksa, said that the children will be affected by the sports material.
 
-இதனால் பற்றரி வயிற்றில் திடீரென வெடிக்கலாம், இதனால் சுவாசக் குழாய் அடைப்பு ஏற்பட்டு மரணம் ஏற்படும்.
+He said that the games played by the boys may be swallowed, or that there are potentials, or the ear and nose, as the types of chemical compounds such as lithium, silver oxide and alkaline are in the form of button.
 
-எனவே, சிறுவர்கள் இவ்வாறான விபத்துக்களில் சிக்கினால் உடனடியாக வைத்தியசாலைக்கு கொண்டு செல்ல வேண்டும். முதலுதவியாக வைத்தியசாலைக்கு கொண்டு செல்லும் வரை 10 நிமிடங்களுக்கு ஒரு முறை இரண்டு தேக்கரண்டி சுத்தமான தேனை பாதிக்கப்பட்ட சிறுவர்களுக்கு  கொடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+The reason is that the first part of our diet canal (esophagus) is naturally short, so that when swallowing the bark can go into the stomach and cause severe damage.
+
+This can cause a sudden explosion in the stomach, causing respiratory tract blockage and death.
+
+Therefore, the children should be taken to the hospital immediately if they get caught in such accidents. He said that until the first aid is taken to the hospital, two teaspoons of clean honey should be given to the affected children once in 10 minutes.
 
 ◼️
 
 [Data](articles/62bad2cf.json)
+
+[Extended Data](ext_articles/62bad2cf.ext.json)
 
 ---
 
@@ -2175,25 +2231,5 @@ Health inspectors visited the scene and visited the wastewater management of the
 [Data](articles/50b847a1.json)
 
 [Extended Data](ext_articles/50b847a1.ext.json)
-
----
-
-### UN General Assembly backs Palestinian bid for membership
-
-*2024-05-10 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99140/un-general-assembly-backs-palestinian-bid-for-membership) · `en`
-
-(Reuters) - The United Nations General Assembly on Friday overwhelmingly backed a Palestinian bid to become a full U.N. member by recognizing it as qualified to join and recommending the U.N. Security Council “reconsider the matter favorably.”
-
-The vote by the 193-member General Assembly was a global survey of support for the Palestinian bid to become a full U.N. member - a move that would effectively recognize a Palestinian state - after the United States vetoed it in the U.N. Security Council last month.
-
-The assembly adopted a resolution with 143 votes in favor and nine against - including the U.S. and Israel - while 25 countries abstained. It does not give the Palestinians full U.N. membership, but simply recognizes them as qualified to join.
-
-The resolution “determines that the State of Palestine ... should therefore be admitted to membership” and it “recommends that the Security Council reconsider the matter favorably.”
-
-...
-
-[Data](articles/baa73292.json)
-
-[Extended Data](ext_articles/baa73292.ext.json)
 
 ---

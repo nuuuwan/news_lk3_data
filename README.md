@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 17:03:26**
+As of **2024-05-11 17:18:22**
 
 ## Newspaper Stats
 
-*Scraped **23,350** Articles*
+*Scraped **23,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,90 @@ bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
 islandlk | 1,263
-economynextcom | 1,344
+economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
 tamilmirrorlk | 2,730
 adaderanalk | 2,731
 virakesarilk | 3,476
 dailymirrorlk | 3,673
-adaderanasinhalalk | 3,743
+adaderanasinhalalk | 3,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,349 (100.0%) of 23,350 articles have been extended.
+23,350 (100.0%) of 23,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### හෙරොයින් බෙදාහැරි කෝප්‍රල් රිමාන්ඩ්
+### බලංගොඩ බිහිසුණු අනතුරකින් සිසුවියකට බරපතළයි
+
+*2024-05-11 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196515) · `si`
+
+බලංගොඩ වැලිගෙපොළ මාර්ගයේ සිදුවූ රිය අනතුරකින් සාමාන්‍ය පෙළ විභාගය නිමවා නිවස බලා යමින් සිටි සිසුවියක් බරපතළ තුවා ලබා රෝහල්ගත කර තිබේ.
+
+මාර්ගයේ ධාවනය වෙමින් තිබූ මගී ප්‍රවාහන පෞද්ගලික බස් රථයකට, ප්‍රතිවිරුද්ධ දිශාවෙන් ධාවනය වූ ටිපර් රථයක තිබූ යකඩ බට අතරින් කිහිපයක් අදාළ බස් රථය තුළට විසිවීමෙන් අනතුර සිදුවී ඇත.
+
+සිද්ධියෙන් බස් රථයේ සිටි සිසුවියකගේ ගෙල සහ මුහුණ ප්‍රදේශයට බරපතළ තුවාල සිදුවී ඇති අතර ඇය බලංගොඩ මූලික රෝහලට ඇතුළත් කර තිබේ.
+
+ඇයගේ තත්ත්වය බරපතළ බැවින් වැඩිදුර ප්‍රතිකාර සඳහා රත්නපුර පළාත් රෝහල වෙත මාරු කර යවා ඇත.
+
+ඉඔුලාමුර ප්‍රදේශයේ සිට බලංගොඩ නගරය දක්වා ධාවනය වෙමින් තිබු  එම බස් රථය සහ බලංගොඩ සිට වැලිගෙපොළ දෙසට ධාවනය වෙමින් තිබු යකඩ බට සහිත ⁣ටිපර් රථය එකිනෙක පසුවෙන අවස්ථාවේදී මෙම අනතුර සිදුවී තිබේ.
+
+පොලීසිය සඳහන් කළේ ටිපර් රථ රියදුරුගේ අපරික්ෂාකාරි රිය ධාවනය  සහ අනතුරුදායක ලෙස භාණ්ඩ ප්‍රවාහනය හේතුවෙන් මෙම අනතුර  සිදුවී ඇති බවය.
+
+අනතුර සම්බන්ධයෙන් බස් රථයේ සහ ටිපර් රථයේ රියදුරන් දෙදෙනා  බලංගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/89a2c807.json)
+
+---
+
+### Sri Lanka to deal with Iran, Russia in non-sanctioned areas: FM
+
+*2024-05-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-deal-with-iran-russia-in-non-sanctioned-areas-fm-162595/) · `en`
+
+ECONOMYNEXT – Sri Lanka will deal with Iran and Russia for investments and trade without being caught into the United States-led sanctions, the island nation’s Foreign Minister Ali Sabry said.
+
+Sri Lanka has been hit by Western sanctions imposed on Iran and Russia. The island nation could not receive $450 million from Iran for a recently opened Uma Oya multipurpose project started before the sanctions.
+
+Sri Lanka was also forced to buy light crude from Malaysia and Dubai instead of Iran after 2012 sanctions.
+
+The Western economic sanctions have already prevented Russian tourists from using their usual payment system and discouraged some visitors from Russia visiting to Sri Lanka, tourism industry officials say.
+
+“We are not going into their sanctions. There are number of areas where the sanctions do not get caught. So, a lot of countries work on that,” Ali Sabry told reporters on Wednesday (08).
+
+...
+
+[Data](articles/94e87eba.json)
+
+---
+
+### Heroin distributed corporal remains
 
 *2024-05-11 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196514) · `si`
 
-හෙරොයින් ජාවාරමේ නිරත කාන්තාවක සමග එම ජාවාරමේ නිරත වු බවට සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ නාවික හමුදා කෝප්‍රල්වරයෙකු රක්ෂිත බන්ධනාගාර ගත කිරීමට අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+A Navy Corporal, arrested with a woman for heroin distribution, was remanded until the 21st by Anuradhapura Magistrate Abhimani Seneviratne. The corporal admitted to heroin addiction in court.
 
-අනුරාධපුර කොට්ඨාස අපරාධ අංශය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ සැකකාර කෝප්‍රල්වරයා ලබන 21වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අතිරේක මහෙස්ත්‍රාත් අභිමානී සෙනවිරත්න මෙනවිය එහිදී නියෝග කළාය.
+🟩
 
-සැකකාර කෝප්‍රල්වරයා අධිකරණයට ඉදිරිපත් කරමින් පොලීසිය පැවසුවේ හෙරොයින් ජාවාරම් කිරීමේ චෝදනාවට අත්අඩංගුවට ගෙන සිටින කාන්තාවකගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලදී සැකකරු සම්බන්ධයෙන් තොරතුරු අනාවරණය වු බවය.
+The Anuradhapura Magistrate has ordered a Navy Corporal, who was arrested by the racket with a woman who was involved in the racket.
 
-අදාළ කාන්තාව විසින් ලබාදුන් හෙරොයින් යතුරුපැදියකින් බෙදාහැරීමේ කටයුතු කාලයක සිට මොහු විසින් සිදුකර ඇති බව පෙන්වාදුන් පොලීසිය සැකකාර කෝප්‍රල්වරයා අධික ලෙස හෙරොයින් පානයට ඇබ්බැහිවුවෙකු බවට අනාවරණය වී ඇති බව ද අධිකරණය හමුවේ සඳහන් කර තිබේ.
+Additional Magistrate Abhimani Seneviratne ordered the suspects to be remanded until the 21st of the Anuradhapura Division Census Division.
+
+The suspect was produced in court and said the police said that the suspect was revealed in relation to the suspect.
+
+The suspected corporal has revealed that he was addicted to the suspicious heroin in the court.
 
 ◼️
 
 [Data](articles/ef051a51.json)
+
+[Extended Data](ext_articles/ef051a51.ext.json)
 
 ---
 
@@ -2239,47 +2289,5 @@ He also said that even the stomach can be fatally damaged through this, and even
 [Data](articles/4d46e477.json)
 
 [Extended Data](ext_articles/4d46e477.ext.json)
-
----
-
-### Indian High Commissioner - Sridharan Meeting
-
-*2024-05-10 23:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சிறிதரன்-சந்திப்பு/175-337112) · `ta`
-
-Sivagnanam Sridharan, a Sri Lanka Tamil State Party MP, met with Indian High Commissioner Santosh Ja in Colombo. They discussed Sri Lanka's political situation, India's development projects in Sri Lanka's North and East, and economic cooperation. Santosh Ja emphasized India's ongoing commitment to the region.
-
-🟩
-
-Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil State Party, met with Indian High Commissioner to Sri Lanka Santosh Ja in Colombo yesterday.
-
-It was discussed during the meeting that the current political situation in Sri Lanka, the development of India in Sri Lanka, including the North and East, and the focus of economic cooperation.
-
-Indian High Commissioner Santosh Ja has stressed the continuous commitment of India for the regional people, said the X on the X page of the Indian High Commission in Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/25a062d7.json)
-
-[Extended Data](ext_articles/25a062d7.ext.json)
-
----
-
-### Padma Bhushan Award for Vijayakanth
-
-*2024-05-10 23:52:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயகாந்துக்கு-பத்ம-பூஷண்-விருது/175-337111) · `ta`
-
-Vijayakanth received the Padma Bhushan Award at the President's House in Delhi, with Premalatha Vijayakanth accepting on his behalf.
-
-🟩
-
-The Padma Awards ceremony was held yesterday at the President's House in Delhi, India.
-
-Premalatha Vijayakanth, who participated on behalf of Vijayakanth, received the award from the President of India. (A)
-
-◼️
-
-[Data](articles/beb07d3b.json)
-
-[Extended Data](ext_articles/beb07d3b.ext.json)
 
 ---

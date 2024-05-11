@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 17:54:21**
+As of **2024-05-11 18:09:56**
 
 ## Newspaper Stats
 
-*Scraped **23,356** Articles*
+*Scraped **23,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
 tamilmirrorlk | 2,731
-adaderanalk | 2,731
+adaderanalk | 2,732
 virakesarilk | 3,476
 dailymirrorlk | 3,676
 adaderanasinhalalk | 3,744
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,356 (100.0%) of 23,356 articles have been extended.
+23,356 (100.0%) of 23,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### US Ambassador nominee pledges to support marginalized populations, accountability, truth and reconciliation in Sri Lanka
+
+*2024-05-11 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99150/us-ambassador-nominee-pledges-to-support-marginalized-populations-accountability-truth-and-reconciliation-in-sri-lanka) · `en`
+
+The U.S. President Joe Biden’s nominee for Ambassador to Sri Lanka, Elizabeth K. Horst, says that if confirmed she will support members of marginalized populations, accountability, truth and reconciliation, and transparency and justice in Sri Lanka.
+
+“I will support members of marginalized populations, accountability, truth and reconciliation, and transparency and justice in Sri Lanka,” she said, appearing before the US Senate Foreign Relations Committee on Thursday (May 09).
+
+She also highlighted three main pillars for enhancing the U.S.-Sri Lanka relationship: expanding economic cooperation, bolstering security interests, and deepening ties with Sri Lanka’s diverse population.
+
+Horst, a seasoned diplomat with over 20 years of experience in South Asia, emphasized her commitment to fundamental U.S. principles, including respect for human rights and economic freedom.
+
+...
+
+[Data](articles/5aa3e250.json)
+
+---
 
 ### Investment in connection with the interest rate
 
@@ -2283,23 +2301,5 @@ Born on January 07, 1948 in the beautiful village of Nikawewa in the historical 
 [Data](articles/02bdcd55.json)
 
 [Extended Data](ext_articles/02bdcd55.ext.json)
-
----
-
-### “CEYLONA 2024” international girl guide camp at Ibbagamuwa Central College Kurunegala
-
-*2024-05-11 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/CEYLONA-2024-international-girl-guide-camp-at-Ibbagamuwa-Central-College-Kurunegala/172-282341) · `en`
-
-For 107 years, International Camps have been a cherished tradition within our guiding community and they have offered children enriching experiences and unforgettable memories”
-
-. With the introduction of our new camp logo, we eagerly anticipate the beginning of a fresh chapter in our illustrious history, poised to enhance the camping experience even further,” Nadeeka Gunasekara, International Commissioner
-
-Sri Lanka Girl Guides Association (SLGGA) has plans to host an International Camp at Ibbagamuwa Central College, Kurunegala from August 18 to 23 (2024). The International Camp is poised to offer a plethora of enriching activities and experiences to participants. From outdoor adventures to leadership workshops the camp aims to provide a holistic learning environment where participants can develop essential life skills while forging
-
-...
-
-[Data](articles/6f02ea3e.json)
-
-[Extended Data](ext_articles/6f02ea3e.ext.json)
 
 ---

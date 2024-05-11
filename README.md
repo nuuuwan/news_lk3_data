@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 20:51:19**
+As of **2024-05-11 21:03:16**
 
 ## Newspaper Stats
 
-*Scraped **23,366** Articles*
+*Scraped **23,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,732
 adaderanalk | 2,734
 virakesarilk | 3,476
 dailymirrorlk | 3,678
-adaderanasinhalalk | 3,748
+adaderanasinhalalk | 3,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,366 (100.0%) of 23,366 articles have been extended.
+23,366 (100.0%) of 23,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### ලංගම බස් රථයක් පෙරළෙයි
+
+*2024-05-11 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196521) · `si`
+
+හඟුරන්කෙත සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ ලංගම බස් රථයක් මයිලපිටිය ප්‍රදේශයේදී මාර්ගයේ පෙරළී ගොස් තිබේ.
+
+එම අනතුර සිදුවෙන ආකාරය අසල තිබූ සිසිටීවී කැමරාවක සටහන්වී ඇත.
+
+අනතුර සිදුවන අවස්ථාවේදී 20 දෙනෙකු පමණ බස් රථයේ සිට ඇති අතර ඉන් දෙදෙනකුට සුළු තුවාල සිදුවී තිබේ.
+
+◼️
+
+[Data](articles/2697ce04.json)
+
+---
 
 ### Russia - Another group of Sri Lankans have died in the middle of the war Ukrainian war
 
@@ -2299,33 +2315,5 @@ A supplementary report on the ongoing investigation progress by the CID was subm
 [Data](articles/897e3194.json)
 
 [Extended Data](ext_articles/897e3194.ext.json)
-
----
-
-### Jaffna - A man who was chased away by police chasing at Punnalaikkattuwa
-
-*2024-05-11 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183194) · `ta`
-
-In Jaffna, a 41-year-old man, Selvanayagam Pradeepan, died after being chased by police at Punnalaikkattuwa. The incident occurred on the night of the 10th, leading to public confusion. Allegedly, the man was killed when he kicked a motorcycle, and his body was sent for autopsy. The Chunnakam police are investigating the incident, including the officers' alcohol consumption.
-
-🟩
-
-A man who was chased away by a policeman at Punnalaikkattuwan, Jaffna died on the night of the 10th.
-
-Selvanayagam Pradeepan, a 41 -year -old from Urumpirai, who works at the Kilinochchi Electricity Board, has died.
-
-According to reports, there was a confusion as the public gathered in the area.
-
-Police officers on duty at Palali Police Station Strip. The public alleged that the man was killed when the man was killed when the person who was constantly chased by the police officers kicked and kicked the motorcycle.
-
-The body of the deceased has been placed at the Tellippalai Base Hospital and has been sent to the Jaffna Teaching Hospital for autopsy.
-
-The Chunnakam police have launched an investigation into the incident and it is learned that the two police officers involved in the incident have taken steps to investigate whether they were in the liquor.
-
-◼️
-
-[Data](articles/f8b4f63b.json)
-
-[Extended Data](ext_articles/f8b4f63b.ext.json)
 
 ---

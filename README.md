@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 09:03:29**
+As of **2024-05-11 09:18:23**
 
 ## Newspaper Stats
 
-*Scraped **23,289** Articles*
+*Scraped **23,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ tamilmirrorlk | 2,723
 adaderanalk | 2,724
 virakesarilk | 3,466
 dailymirrorlk | 3,661
-adaderanasinhalalk | 3,730
+adaderanasinhalalk | 3,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,289 (100.0%) of 23,289 articles have been extended.
+23,290 (100.0%) of 23,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### Another shooting - Woman injured
+
+*2024-05-11 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196499) · `si`
+
+A woman, 44, was shot in a personal dispute in Medawachchiya, injured and treated at Mediweriya and Anuradhapura Hospitals. The shooter fled, and police are investigating.
+
+🟩
+
+A woman was injured in the Mahadivulwewa area in Medawachchiya.
+
+The woman was injured in the shooting was admitted to the Mediweriya Hospital and later transferred to the Anuradhapura Hospital for further treatment.
+
+The injured were a 44 year old resident of the At Weight.
+
+The shooting was carried out at night on a personal dispute, police said.
+
+The man who had been shot with shooting has fled the area and the suspect is conducting further investigations.
+
+◼️
+
+[Data](articles/92436576.json)
+
+[Extended Data](ext_articles/92436576.ext.json)
+
+---
 
 ### Liability in Sri Lanka will support real harmony and justice - Elizabeth Horst to be appointed as the new Ambassador of the United States
 
@@ -2193,31 +2219,5 @@ The former Earth Magnetic Storm has caused some impact on the earth and space. T
 [Data](articles/6cfa40be.json)
 
 [Extended Data](ext_articles/6cfa40be.ext.json)
-
----
-
-### US Ambassador Julie Sung urges the Governor of the Central Bank on the need for better governance and transparency
-
-*2024-05-10 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183169) · `ta`
-
-US Ambassador Julie Sung met with Sri Lanka's Central Bank Governor, Dr. Nandalal Weerasinghe, emphasizing the importance of good governance and transparency. The meeting, held at the US embassy in Colombo, covered bilateral relations, credit cards, and ongoing renovations. Sung, highlighting the US's support for Sri Lanka's economic growth, called for improved administration and transparency.
-
-🟩
-
-US Ambassador Julie Sung has urged the Governor of the Central Bank, Dr. Nandalal Weerasinghe on the need to ensure the best governance and transparency in Sri Lanka.
-
-Recently, the Central Bank's financial claims for last year were published by Article 80 of the Central Bank Act of Ceylon Central Bank Act No. 16 of 2023.
-
-Against this backdrop, a meeting between the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe and the US Ambassador to Sri Lanka, Julie Sung, took place at the US embassy in Colombo.
-
-During the meeting, bilateral contacts, credit cards and the ongoing renovations have been discussed in detail.
-
-The US ambassador Juli Sung, who has posted a record on its official X site, said that the US continued to support the building of a strong economy in Sri Lanka and urged the Central Bank governor on the need for better administration and transparency.
-
-◼️
-
-[Data](articles/0d4944d3.json)
-
-[Extended Data](ext_articles/0d4944d3.ext.json)
 
 ---

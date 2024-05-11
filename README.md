@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 22:33:33**
+As of **2024-05-11 22:51:26**
 
 ## Newspaper Stats
 
-*Scraped **23,371** Articles*
+*Scraped **23,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,979
 tamilmirrorlk | 2,732
 adaderanalk | 2,736
 virakesarilk | 3,476
-dailymirrorlk | 3,678
-adaderanasinhalalk | 3,751
+dailymirrorlk | 3,679
+adaderanasinhalalk | 3,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,371 (100.0%) of 23,371 articles have been extended.
+23,371 (100.0%) of 23,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### රටින් පනින්න ගිය දෙදෙනෙක් කටුනායකදී කොටුවෙයි
+
+*2024-05-11 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196524) · `si`
+
+ව්‍යාජ ගුවන් ගමන් බලපත්‍ර භාවිත කර කටුනායක ගුවන් තොටුපොළින් කැනඩාව බලා යෑමට උත්සාහ කළ පුද්ගලයින් දෙනෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන්ට ව්‍යාජ ගුවන් ගමන් බලපත්‍ර සකස් කර දුන් යාපනයේ පදිංචි පුද්ගලයින් දෙදෙනෙකු ද මීගමුවේදී අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/ae47ec78.json)
+
+---
 
 ### Victory for Palestine
 
@@ -71,6 +85,24 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 [Data](articles/ba220527.json)
 
 [Extended Data](ext_articles/ba220527.ext.json)
+
+---
+
+### Over 10 MPs with dual citizenship still in parliament; step down before elections: Ven. Sobitha Thera
+
+*2024-05-11 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-10-MPs-with-dual-citizenship-still-in-parliament-step-down-before-elections-Ven-Sobitha-Thera/108-282398) · `en`
+
+Colombo, May 11 (Daily Mirror) - Venerable Omalpe Sobitha Thera told the Daily Mirror today that there are over 10 members currently serving in Parliament who hold dual citizenship and said that those MPs should be removed from their posts before the elections.
+
+"In light of the Supreme Court ruling, I would like to kindly request all party leaders to disclose any members within their parties who hold dual citizenships," he said.
+
+MPs holding dual citizenship should step down before the upcoming elections; otherwise, the respective party leaders should bear the responsibility, he added.
+
+"These MPs have no loyalty to the country; they simply occupy parliamentary positions for personal gain. We have the capability to disclose their identities, but they should be granted an opportunity to reveal themselves before the upcoming elections," he said.
+
+...
+
+[Data](articles/11586861.json)
 
 ---
 
@@ -2285,55 +2317,5 @@ The Vavuniya court has ordered the Vavuniya court to be kept in custody for 14 d
 [Data](articles/d062ab34.json)
 
 [Extended Data](ext_articles/d062ab34.ext.json)
-
----
-
-### ULM is the winner of the Sinhala Buddhist people. BaruchImtiaz Pakir Makar
-
-*2024-05-11 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183197) · `ta`
-
-ULM, led by BaruchImtiaz Pakir Makar, aided Muslim expellees from the North, showcasing unity with the Sinhala Buddhist people. Former ministers and MPs highlighted ULM's efforts, with Baruch's significant contributions in providing basic amenities. Despite being a minority, ULM's Baruch was elected to Parliament from Kegalle District, demonstrating the UNP's internal democracy. This election, influenced by the UNP's Young Women Organization's votes, saw Baruch's selection, reflecting his integration and acceptance within the Sinhalese community.
-
-🟩
-
-When the Muslim people were expelled from the North, the ULM was the one who worked with us to provide assistance to the people.. Bartain. Similarly, Imtiaz Pakir Makar said he was the winner of the Sinhala Buddhist people.
-
-Former Minister Amara Gamini Jayawickrama Perera and former Minister of State for Parliament. L. M. Barooq and Member of Parliament Amara Ashoka Jayawardena said this while addressing the sympathy proposal.
-
-ULM. Baruch was the senior vice president of the All Ceylon Muslim League Youth Front with us at the beginning. In particular, when the Muslim people were expelled from the North, he made huge efforts to provide basic amenities, including housing, to stay.
-
-And he had the opportunity to become a Member of Parliament from Kegalle District. Because that opportunity was a day to showcase the internal democracy of the United National Party.
-
-...
-
-[Data](articles/d50e3d2e.json)
-
-[Extended Data](ext_articles/d50e3d2e.ext.json)
-
----
-
-### Preparing for election, the best candidate is not available - Bashil Rajapaksa
-
-*2024-05-11 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183195) · `ta`
-
-Basil Rajapaksa, founder of Sri Lanka PA, is ready to work with any candidate for the country's benefit. President Ranil Wickremesinghe will announce his election stance post-Indian Lok Sabha elections. The Elections Commission has conducted the presidential election, and Parliamentarian Namal Rajapaksa is leading the PA's election process. The public emphasizes youth involvement, and political decisions are made with party consensus.
-
-🟩
-
-President Ranil Wickremesinghe will announce his position on the presidential election after the Indian Lok Sabha elections are over.. Basil Rajapaksa, the founder of the Sri Lanka PA, said that he was ready to work with anyone for the country.
-
-He made this comment to the media after the inauguration of the Election Monitoring Center at the Sri Lanka Peoples Alliance (PA) head office on Friday (10).
-
-The Elections Commission has carried out the presidential election.
-
-During the talks with President Ranil Wickremesinghe, many issues were talked about.. After the Indian election, he said he would announce his position after June 18. I have urged the President to announce a firm position soon.
-
-Parliamentarian Namal Rajapaksa has been appointed to carry out the election process of Sri Lanka PA and strengthen the party. The public said that the youth should be given priority.
-
-...
-
-[Data](articles/cc0b5621.json)
-
-[Extended Data](ext_articles/cc0b5621.ext.json)
 
 ---

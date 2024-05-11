@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 13:18:13**
+As of **2024-05-11 13:34:00**
 
 ## Newspaper Stats
 
-*Scraped **23,322** Articles*
+*Scraped **23,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 2,728
 tamilmirrorlk | 2,728
 virakesarilk | 3,469
 dailymirrorlk | 3,670
-adaderanasinhalalk | 3,734
+adaderanasinhalalk | 3,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,321 (100.0%) of 23,322 articles have been extended.
+23,322 (100.0%) of 23,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### සූර්යයාගෙන් නිකුත් වූ ප්‍රබල ගිනිදැල්ලකින් පසු අහස දිස්වූ අයුරු
+
+*2024-05-11 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196505) · `si`
+
+දශක දෙකකින් පසු පෘථිවියට බලපෑම් එල්ල කළ දැවැන්ත සූර්ය කුණාටුවක් හේතුවෙන් අවුරෝරා බොරයාලිස් එනම් උතුරු එළි සංසිද්ධිය දැකගැනීමේ අවස්ථාව පෘථිවියේ උතුරු කලාපීය රටවල ජනතාවට හිමිවිය.
+
+ඒ අනුව යුරෝපා රටවල අහස රෝස සහ කොළ පැහැයෙන් වර්ණවත් වී තිබුණි.
+
+මෙම තත්ත්වය බලපා තිබුණේ සූර්යාගෙන් නිකුත්වූ ප්‍රබල සූර්ය ගිනිදැල්ලක් හේතුවෙන් බව සඳහන් වෙයි.
+
+අමෙරිකාවේ ජාතික සාගර සහ වායුගෝලීය පරිපාලනයට අනුව මෙය වසර 21කට පසු පෘථිවියට බලපෑ ප්‍රබලතම භූ චුම්බක කුණාටුව වන අතර එය පස්වැනි එනම් G5 මට්ටමක පවතී.
+
+එහි බලපෑමෙන් උතුර එළිවලට අමතර ගෝලීය විදුලි සහ සන්නිවේදන පද්ධතිවලට බලපෑම් එල්ල විය හැකිය.
+
+ඒ අතරට විදුලි බිඳවැටීම්, ජංගම දුරකථන ජාල බිඳවැටීම්, රේඩියෝ සංඥා බිඳවැටීම්, චන්ද්‍රිකා ක්ෂයවීම් වැනි ආපදා අයත් වෙයි.
+
+අවසන්වරට මෙවැනි සූර්ය කුණාටුවකින් පෘථිවියට බලපෑම් එල්ල වී ඇත්තේ 2003 වසරේ ඔක්තෝබර් මාසයේදීය.
+
+එහිදී ස්වීඩනයේ සහ දකුණු අප්‍රිකාවේ විදුලි පද්ධතිවලට බලපෑම් එල්ල වී ඇත.
+
+◼️
+
+[Data](articles/edf1e645.json)
+
+---
 
 ### US nominee to Sri Lanka vows to maintain moratorium on Chinese research vessels
 
@@ -43,6 +69,8 @@ The Senate committee raised questions about the potential national security thre
 ...
 
 [Data](articles/36359f09.json)
+
+[Extended Data](ext_articles/36359f09.ext.json)
 
 ---
 
@@ -2181,35 +2209,5 @@ It is noteworthy that the Colombo District Court has issued an interim injunctio
 [Data](articles/805840b6.json)
 
 [Extended Data](ext_articles/805840b6.ext.json)
-
----
-
-### Evidence takes effect - Senaka de Silva
-
-*2024-05-10 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196490) · `si`
-
-Senaka De Silva, former President, announced at a press conference that he would not support Sajith Premadasa for the party leadership, citing necessary legal procedures. He mentioned his resignation and leadership offer to Sajith, along with the appointment of Diana Gamage as Secretary, signed by Sajith Premadasa and Ranjith Madduma. He criticized the sale of parties and the need for a trump card, mentioning legal issues and a big problem with the candidate. He also commented on Diana Gamage's citizenship, stating she was born in Sri Lanka and received a British passport, which he proposed should be revoked. He suggested serving the president of Olcott and Arthur S Clark for more than 10 years to grant citizenship, highlighting Diana's service and the need for her to pay for a case.
-
-🟩
-
-Former State Minister Diyanama Gamage, former President Senaka De Silva, a press conference was called in Colombo today (10).
-
-He said that he would obtain the power of the party.
-
-කිසිදුවිටක දී සමගි ජන බලවේග පක්ෂයේ ලකුණින් සජිත් ප්‍රේමදාස ට මැතිවරණයට ඉදිරිපත් වීමට ඉඩ නොදෙන බවත් ඒ සඳහා අවශ්‍ය නීතිමය කටයුතු ඉදිරියේ දී සිදුකරන බවත් ඒ මහතා පැවසීය.
-
-"As the leader of the party, I had. I said I would resign. I told Sajith that I would lead you. As president I've been signed. Ms. Diana has been signed as the Secretary. Being signed by Sajith Premadasa and Ranjith Madduma. We made great sacrifice. "
-
-"Parties for sale in large numbers to 200 million. අපි එහෙම විකිණුන අය නෙමෙයි."
-
-"We'll hit that trump card when we need. Stop revenge on this dyna. We are cases. හොඳ ලස්සන නඩු තීන්දු ටිකක් එයි ඉස්සරහට. There is a big problem with candidate. This sign will not be offered by Mr.. This party does not want to dance this party. "
-
-He also commented on Mrs. Diana Gamage's citizen.
-
-...
-
-[Data](articles/957eb772.json)
-
-[Extended Data](ext_articles/957eb772.ext.json)
 
 ---

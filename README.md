@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 16:04:14**
+As of **2024-05-11 16:18:16**
 
 ## Newspaper Stats
 
-*Scraped **23,346** Articles*
+*Scraped **23,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,263
 economynextcom | 1,344
 dailyftlk | 1,356
-adalk | 1,978
+adalk | 1,979
 tamilmirrorlk | 2,730
 adaderanalk | 2,731
 virakesarilk | 3,476
 dailymirrorlk | 3,673
-adaderanasinhalalk | 3,740
+adaderanasinhalalk | 3,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,343 (100.0%) of 23,346 articles have been extended.
+23,346 (100.0%) of 23,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### පාලමක් කැඩීයෑමේ අවදානමක්
+
+*2024-05-11 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196512) · `si`
+
+මූතූර් සාෆි නගර ප්‍රදේශයේ ඇති වෙල්ලනාවල් පාලම කැඩීයාමේ අවදානමකට ලක්වී තිබේ.
+
+ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ මූතුර් ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් සාෆි නගර ප්‍රදේශයේ ඇති වෙල්ලනාවල් පාලම මීටර 200ක දිගකින් යුක්තය.
+
+යුද්ධය අවසන්වීමත් සමග එම පාලම ඉදිකර ඇත්තේ භාණ්ඩ ප්‍රවාහනය සහ ගොවීන්ගේ අස්වනු ප්‍රවාහනය කිරීමේ අරමුණිනි.
+
+ප්‍රදේශවාසීන් පවසන්නේ මීට වසර දෙකක පමණ පෙර සිට පාලම අබලන් තත්ත්වයට පත්වෙමින් තිබෙන බවය.
+
+◼️
+
+[Data](articles/491bb610.json)
+
+---
 
 ### Advisory issued over thundershowers and severe lightning
 
@@ -49,6 +67,8 @@ For emergency assistance, the public is requested to contact local disaster mana
 ◼️
 
 [Data](articles/0d79396f.json)
+
+[Extended Data](ext_articles/0d79396f.ext.json)
 
 ---
 
@@ -76,25 +96,31 @@ The announcement is valid until 11.30 pm today (11).
 
 ---
 
-### ஜப்பானில் பாண் பக்கற்றுக்களில் எலியின் உடற் பாகங்கள்
+### The body of the rat is in the sides of the bouquet in Japan
 
 *2024-05-11 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183243) · `ta`
 
-ஜப்பானில் பாண் பக்கற்றுக்கள் இரண்டினுள் எலியின் உடற் பாகங்கள்  கண்டுபிடிக்கப்பட்டுள்ளன. பின்னர், உடனடியாக 100,000க்கும் மேற்பட்ட துண்டுகளாக்கப்பட்ட பாண் பொதிகள் திரும்பப் பெறப்பட்டுள்ளன.
+In Japan, a rare incident occurred where rat body parts were found in two packs of Panch, a popular breakfast item. This led to the withdrawal of over 100,000 packs. The company, Pasco Pan, based in Tokyo, is investigating how rat remains ended up in their products.
 
-சுகாதார வழிமுறைகளை கடுமையாக பின்பற்றும் நாடுகளில் ஒன்றான ஜப்பானில் உணவுகளை திரும்பப் பெறுவது அரிதான ஒரு விடயமாகும்.
+🟩
 
-"பாண் பொதிக்குள் எவ்வாறு எலியின் உடற் பாகங்கள்  ஊடுருவின என்பதை ஆராய்ந்து வருகிறோம்.
+Body parts of the rat have been found in two of the bunnies in Japan. Later, immediately, more than 100,000 pieces of pieces of packs were withdrawn.
 
-ஜப்பானிய காலை உணவுகளில் பிரதான இடத்தை பிடித்துள்ள வெள்ளை சோஜுகு பாணை உட்கொண்டு யாரும் நோய்வாய்ப்பட்டதாக இதுவரை எந்த சம்பவமும் பதிவாகவில்லை.
+It is a rare issue to withdraw foods in Japan, one of the countries that strictly follow health care.
 
-எங்கள் வாடிக்கையாளர்களுக்கு அசௌகரியத்தை ஏற்படுத்தியமைக்காக நாங்கள் மன்னிப்பு கோர விரும்புகிறோம்" என குறிப்பிட்டுள்ளது.
+“We are exploring how the rat's body is penetrated into the Panch pack.
 
-டோக்கியோவில் உள்ள ஒரு தொழிற்சாலையில் பாஸ்கோ பாண் தயாரிக்கப்படுகிறது. இந்நிலையில், கடந்த புதன்கிழமை இரண்டு பாண் பொதிக்குள் கருப்பு எலியின் பாகங்கள் காணப்பட்டதை நிறுவனம் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+There has been no incident so far that no one has been sick with the white sozuku bundle, which has taken the top of the Japanese breakfast.
+
+We want to apologize for causing discomfort to our customers. ”
+
+Pasco Pan is made in a factory in Tokyo.In this case, the company has confirmed that the parts of the black rat were found in two pans last Wednesday.
 
 ◼️
 
 [Data](articles/2a436353.json)
+
+[Extended Data](ext_articles/2a436353.ext.json)
 
 ---
 
@@ -162,19 +188,25 @@ It is noteworthy that the student who was assaulted in the dispute was arrested 
 
 ---
 
-### யாழில் மின்னல் தாக்கி ஒருவர் காயம்
+### Lightning strikes in Jaffna
 
 *2024-05-11 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183244) · `ta`
 
-யாழ்ப்பாணம் - உடுவில் பகுதியில் மின்னல் தாக்கத்திற்கு உள்ளாகி தென்னை மரம் ஒன்று தீ பற்றி எரிந்துள்ளதுடன் , நபர் ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Lightning in Jaffna caused a coconut tree to burn and injured a person, who was hospitalized. Heavy rains in Uduvil and Jaffna have been ongoing for weeks, coinciding with the incident.
 
-யாழ்ப்பாணத்தில் கடந்த சில வாரங்களாக கடும் வெப்பமான கால நிலை நிலவி வரும் நிலையில் நேற்று வெள்ளிக்கிழமை (10) உடுவில் பகுதியில் இடி மின்னலுடன் மழை பொழிந்துள்ளது.
+🟩
 
-அதன்போது, மின்னல் தாக்கத்தால் வீடொன்றில் இருந்த தென்னை மரம் தீ பற்றி எரிந்துள்ளதோடு, நபர் ஒருவரும் காயமடைந்துள்ளார்.
+A coconut tree has been burnt and a person has been admitted to hospital with injuries.
+
+Thundershowers in Uduvil area on Friday (10) have been raining in Jaffna over the past few weeks.
+
+At the same time, a house of coconut tree in a house was burnt and a person was injured.
 
 ◼️
 
 [Data](articles/b81d5ffa.json)
+
+[Extended Data](ext_articles/b81d5ffa.ext.json)
 
 ---
 
@@ -241,6 +273,24 @@ Motorists are also advised to refrain from using open vehicles like bicycles, tr
 [Data](articles/da5c7bcc.json)
 
 [Extended Data](ext_articles/da5c7bcc.ext.json)
+
+---
+
+### ප්‍රභල අකුණු ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-05-11 14:00:22* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභල-අකුණු-ගැන-අවවාදාත්මක-නිවේදනයක්/11-409558) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, වයඹ, ඌව සහ උතුරු- මැද පළාත්වලත් මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලත්
+
+සවස් කාලවේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රභල අකුණු ඇතිවීවම් වැඩි හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැක. අකුණු මඟින් සිදුවන අනතුරු අවම
+
+කර ගැනීමට අවශය පියවර ගන්තනා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි. අද පස්වරු 1ට නිකුත් කළ මෙම නිවේදනය රාත්‍රි 11 තෙක් වලංගු බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/f203570e.json)
 
 ---
 
@@ -2213,41 +2263,5 @@ The promotion gets underway from May 2024 to 30 June and winners will be chosen 
 [Data](articles/7960dcca.json)
 
 [Extended Data](ext_articles/7960dcca.ext.json)
-
----
-
-### HNB General Insurance launches hotline
-
-*2024-05-10 23:36:51* · [`dailyftlk`](https://www.ft.lk/business/HNB-General-Insurance-launches-hotline/34-761648) · `en`
-
-HNB General Insurance has recently launched its dedicated hotline ‘1303’, unleashing their latest initiative for enhanced customer experience.
-
-The new hotline ‘1303’ is set to be a game changer for both the company and for customers alike by elevating convenience and accessibility to new heights.
-
-HNB General Insurance has long been committed to delivering exceptional service and care to its customers across Sri Lanka. And the significance of hotline 1303 lies in its promise of instant assistance and personalised support.
-
-Customers can now access expert help with just a simple phone call, eliminating the need for lengthy wait times and cumbersome processes. Whether it’s filing a claim, updating a policy, or seeking information, hotline 1303 ensures that customers receive prompt and reliable service at their fingertips.
-
-...
-
-[Data](articles/993602e6.json)
-
-[Extended Data](ext_articles/993602e6.ext.json)
-
----
-
-### Deplorable debt: Is Sri Lanka caught between IMF and IIF?
-
-*2024-05-10 23:28:19* · [`dailyftlk`](https://www.ft.lk/columns/Deplorable-debt-Is-Sri-Lanka-caught-between-IMF-and-IIF/4-761647) · `en`
-
-Still, the country is reeling from its socio-economic and political debacle without a clear visionary leadership putting the country on a recovery path
-
-Sri Lanka is battling with the current crisis because of irresponsible borrowing and investment in wasteful projects. The Supreme Court has given a ruling pointing out the responsible policymakers and concerned Government officials who contributed to the mismanagement of the economy. But it is good to remember stupidity is not a crime in the eyes of law, hence marginalised and vulnerable populations sacrifice future prosperity for sins of the corrupt and greedy
-
-...
-
-[Data](articles/75bbbde7.json)
-
-[Extended Data](ext_articles/75bbbde7.ext.json)
 
 ---

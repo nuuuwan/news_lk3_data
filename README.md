@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 11:52:55**
+As of **2024-05-11 12:03:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,316 (100.0%) of 23,317 articles have been extended.
+23,317 (100.0%) of 23,317 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -188,19 +188,33 @@ Earlier, Arvind Kejriwal had called for bail to be granted bail in the Lok Sabha
 
 ---
 
-### මංගල ගෙදර අවමංගල්‍යයක් වෙයි
+### A wedding house is a funeral
 
 *2024-05-11 10:32:37* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409557) · `si`
 
-විවාහ මංගල්‍යයකට සහභාගී වී  නැවත නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් කැබ්  රථයක් සහ  ලොරි රථයක් 10 දින රාත්‍රී දඹුල්ල දිගම්පතහ අතරමැදී  කඳවුර ආසන්නයේදී අනතුරකට ලක්ව එක් කාන්තාවක් මිය ගොස් තවත් නව දෙනෙක්  තුවාල ලබා දඹුල්ල මූලිකරෝහලට ඇතුළත් කර ඇතැයි සීගිරිය පොලිසිය කියයි.
+A tragic accident occurred on a dangerous night, involving a cab carrying wedding guests and multiple lorries, resulting in the death of a 44-year-old woman from Habarana Hiriwadunna. The accident, which happened during a wedding party, is under investigation by the Sigiriya Police.
 
-මෙසේ මියගොස් ඇත්තේ  හබරණ හිරිවඩුන්න  ප්‍රදේශයේ පදිංචි  සන්ද්‍යා  කුමාරි 44   හැවිරිදි කාන්තාවක් බව පොලිසිය කියයි, බරපතල තුවාල ලැබූ   අවුරුදු තුනක පමණ  කුඩා ගැහැණු දරුවෙක්  මහනුවර රෝහලට  මාරුකර යැවී බව දඹුල්ල මූලික රෝහලේ ප්‍රකාශකයකු  පැවසිය .
+🟩
 
-දඹුල්ල ඉනාමලුව ප්‍රදේශයේ හෝටලයක පැවති විවාහ  මංගල්‍යය කට සහභාගි වී   හිරිවඩුන්න ප්‍රදේශයට මෙම   ඥාතීන් පිරිස ගමන් කරමින් සිට ඇත   හබරණ දෙසින්  දඹුල්ල දෙසට  යෝගට් ප්‍රවාහනය කරමින් තිබු ලොරි රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුවීම් ඇති බවත් අනතුරින් කැබ් රථයේ  ගමන් කළ සියලු දෙනාම   තුවාල ලබා ඇතැයි සීගිරිය පොලිසිය කියයි.
+A cab carrying a group of people who were returning home from a wedding and a lorry, a lorry and a lorry was killed in a danger night, police said.
 
-...
+The deceased has been identified as a 44-year-old woman from Habarana Hiriwadunna, Habarana.
+
+Sigiriya police say that the accident had been traveled to the Hiriwaduna to face yogurt in Inamaluwa, Dambulla..
+
+Sigiriya police say that the accident had been the accident that the accident had occurred at the wedding party.
+
+A few hours before the death of Ms. Handyadu Kumari, the wedding party pointed out that the wedding party has also appeared with a group of crowd.
+
+The cab and the lorry had taken to Sigiriya police to the Sigiriya Police by this time.Many of the victims have been injured in the area, he said.
+
+The post mortem examination is scheduled to be held at the Dambulla Base Hospital on 11. Sigiriya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/79a1af16.json)
+
+[Extended Data](ext_articles/79a1af16.ext.json)
 
 ---
 

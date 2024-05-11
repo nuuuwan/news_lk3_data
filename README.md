@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 01:18:18**
+As of **2024-05-12 01:33:38**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,375 (100.0%) of 23,376 articles have been extended.
+23,376 (100.0%) of 23,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ஆப்கானிஸ்தானில் கடும் மழை: 200 பேர் பலி
+### Heavy rains in Afghanistan: 200 killed
 
 *2024-05-12 01:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-கடும்-மழை-200-பேர்-பலி/50-337143) · `ta`
 
-ஆப்கானிஸ்தானில் பெய்து வரும் கனமழை காரணமாக ஏற்பட்ட வௌ்ள அனர்த்தங்களில் 200 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர்.
+Heavy rains in Afghanistan have caused over 200 deaths and significant damage, with thousands of houses affected, including 1500 in Baglan State alone.
 
-அங்கு 200 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர்.  ஆயிரக்கணக்கான வீடுகள் முற்றிலுமாகவோ, பகுதியளவிலோ சேதமடைந்துள்ளன.
+🟩
 
-பாக்லான் மாகாணத்தில் மாத்திரம் 1500 வீடுகள் சேதமடைந்துள்ளன. அங்கு நூற்றுக்கும் அதிகமானோர் உயிரிழந்துள்ளனர் என ஆப்கானிஸ்தானின் தேசிய அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது. (a)
+More than 200 people have been killed in heavy disasters due to heavy rains in Afghanistan.
+
+More than 200 people have died there.Thousands of houses have been completely or partially damaged.
+
+1500 houses have been damaged in Baglan State alone. More than a hundred people have died there, Afghan National Disaster Management Center said. (A)
 
 ◼️
 
 [Data](articles/662402a6.json)
+
+[Extended Data](ext_articles/662402a6.ext.json)
 
 ---
 

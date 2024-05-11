@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 07:09:24**
+As of **2024-05-11 07:32:21**
 
 ## Newspaper Stats
 
-*Scraped **23,279** Articles*
+*Scraped **23,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,261
 economynextcom | 1,341
 dailyftlk | 1,356
 adalk | 1,973
-tamilmirrorlk | 2,722
+tamilmirrorlk | 2,723
 adaderanalk | 2,723
 virakesarilk | 3,465
 dailymirrorlk | 3,659
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,277 (100.0%) of 23,279 articles have been extended.
+23,279 (100.0%) of 23,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### පළාත් කිහිපයකට තද වැසි
+### Heavy rains into several provinces
 
 *2024-05-11 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196494) · `si`
 
-දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thunderstorms are expected across several provinces, with warnings for strong winds and lightning. Warm weather conditions are also forecasted for the Northern and North Central Provinces, with a focus on Trincomalee and Batticaloa Districts.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැක.
+🟩
 
-දකුණු පළාතේ වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+In most parts of the island. Showers or thundershowers will occur at several places, about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී ඇත.
+In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle and Matara districts. There may be heavy showers over 100.
 
-මේ අතර, අද (11)  දිනයේ උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Showers will occur at several places in the Southern Province.
 
-උතුරු සහ උතුරුමැද පළාත් සහ ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්ක සඳහා මෙම නිවේදනය බලපැවැත්වේ.
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
 
-ඒ අනුව ඉහත ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම 'අවධානය යොමු කළ යුතු' මට්ටමක පවතිනු ඇතැයි අපේක්ෂා කෙරේ.
+Meanwhile, the Department of Meteorology has issued a warning about warm weather conditions today (11).
 
-එම නිසා ඉහත ප්‍රදේශවල ජීවත්වන ජනතාවට විමසිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The announcement is effective for the Northern and North Central Province and Trincomalee and Batticaloa Districts.
+
+Accordingly, the warm indicator of the above areas is expected to be "focused" at a 'focus'.
+
+Therefore, the Meteorology Department announces the people living in the above areas.
 
 ◼️
 
 [Data](articles/3033378a.json)
+
+[Extended Data](ext_articles/3033378a.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ She lost her parliamentary seat on the grounds that she is a UK citizen. The Sup
 ...
 
 [Data](articles/46aa8c6d.json)
+
+[Extended Data](ext_articles/46aa8c6d.ext.json)
 
 ---
 
@@ -541,6 +549,24 @@ A month ago, I had a frantic call from a distant contact who wanted to know if I
 [Data](articles/9a4446c4.json)
 
 [Extended Data](ext_articles/9a4446c4.ext.json)
+
+---
+
+### நிர்மாண கண்காட்சியை ஜனாதிபதி பார்வையிட்டார்
+
+*2024-05-11 00:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாண-கண்காட்சியை-ஜனாதிபதி-பார்வையிட்டார்/175-337113) · `ta`
+
+இலங்கை நிர்மாணக் கைத்தொழில் சபையினால் ஏற்பாடு செய்யப்பட்ட 'வீடமைப்பு மற்றும் சர்வதேச நிர்மாணக் கண்காட்சி – 2024' ஐ பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டப வளாகத்தில் நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்க பார்வையிட்டார்.
+
+‘இலங்கையைக் கட்டியெழுப்புவோம்’ என்ற தொனிப்பொருளின் கீழ் இவ்வருட கண்காட்சி ஏற்பாடு செய்யப்பட்டிருந்தது. நிர்மாணத்துறை நிறுவனங்களின் 300 விற்பனை கூடங்கள் இந்தக் கண்காட்சியில் அமைக்கப்பட்டுள்ளன.
+
+மேலும், சீனாவில் உள்ள 30 முக்கிய நிறுவனங்களின் தயாரிப்புகளுடன் கூடிய விற்பனை கூடங்கள் இந்த கண்காட்சியில் முதல் முறையாக இணைந்துள்ளதுடன், இலங்கை முப்படைகளின் நிர்மாணத் தொழில்நுட்பத்தைக் காட்சிப்படுத்தும் கூடங்களை உள்ளடக்கிய இக்கண்காட்சி, நாளை வரை நடைபெறவுள்ளது.
+
+உள்நாட்டு, வெளிநாட்டு விற்பனை கூடங்கள் மற்றும் ஆயுதப்படைகளின் கண்காட்சிக் கூடங்களை ஜனாதிபதி பார்வையிட்டார். கண்காட்சியின் ஏற்பாட்டாளர்களுடனும்  புகைப்படமும் எடுத்துக் கொண்டார். (a)
+
+◼️
+
+[Data](articles/21bcee15.json)
 
 ---
 
@@ -2191,33 +2217,5 @@ A police team under SI A.V. Anura is conducting further investigations on the in
 [Data](articles/28dfe639.json)
 
 [Extended Data](ext_articles/28dfe639.ext.json)
-
----
-
-### Sri Lankans win Cyber Truck in Germany
-
-*2024-05-10 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183157) · `ta`
-
-Sri Lankan WSO2 software company won a Tesla Cyber Truck in Germany at the WSO2codechallenge. The event, held in Florida, showcases WSO2's leading role in digital growth, managing 60 trillion transactions annually and securing over a billion identities.
-
-🟩
-
-Tesla cyber truck has won the Tesla cyber truck on the role of WSO2codechallenge, a Sri Lankan WSO2 software company in Germany.
-
-The tournament was held from May 7 to 9 in Florida's Seminol Heart Rock Hotel and Casino Hollywood.
-
-The WSO2 software company is leading the technology for digital growth.
-
-The WSO2 plays an important role in the advancement of their digital growth change in the world, including hundreds of large corporations, primary universities and governments.
-
-Annually, the WSO2 performs amazing 60 trillion transactions.It manages more than one billion identities for its customers.
-
-Application programming interfaces (API) using WSO2 for management, coordination and customer identification and access management (CIAM), these companies use the full energy of their APIs to safeguard their digital services and applications.
-
-◼️
-
-[Data](articles/1f7d710b.json)
-
-[Extended Data](ext_articles/1f7d710b.ext.json)
 
 ---

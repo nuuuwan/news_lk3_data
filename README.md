@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 08:18:37**
+As of **2024-05-11 08:33:54**
 
 ## Newspaper Stats
 
-*Scraped **23,284** Articles*
+*Scraped **23,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 1,973
 tamilmirrorlk | 2,723
 adaderanalk | 2,723
 virakesarilk | 3,465
-dailymirrorlk | 3,659
+dailymirrorlk | 3,661
 adaderanasinhalalk | 3,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,282 (100.0%) of 23,284 articles have been extended.
+23,284 (100.0%) of 23,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### ඇන්ඩර්සන් ට දොර වැසෙයි
+### Anderson closes the door
 
 *2024-05-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196497) · `si`
 
-ලොව වැඩිම ටෙස්ට් කඩුලු සංඛ්‍යාවක් දවාගෙන සිටින වේගපන්දු යවන්නා වන එංගලන්ත කණ්ඩායමේ ජිමී ඇන්ඩර්සන් ටෙස්ට් පිටියට සමූදීමට සැරසෙන බව වාර්තා වෙයි.
+England's fast bowlers, including the legendary Anderson, are gearing up for a record-breaking Test series, with a focus on nurturing young talent. Anderson, at 42, continues to be a pivotal figure, as reported by Bandon McCullum to the England coach.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ එළඹෙන ටෙස්ට් තරගාවලි සඳහා එංගලන්තය නවක, තරුණ වේගපන්දු යවන්නන් කෙරෙහි අවධානය යොමුකිරීමට තීරණය කර ඇති බවය.
+🟩
 
-ඒ බව එංගලන්ත පුහුණුකරු බ්‍රෙන්ඩන් මැකලම් විසින් ඇන්ඩර්සන් ට දැනුම්දී තිබේ.
+It is reported that the fast bowler team, England's team, is preparing to repay the highest Test-wicket number of Tests.
 
-2003 වසරේදී ටෙස්ට් වරම් ලැබූ ඔහු මේ වනවිට 42 හැවිරිදි වියේ පසුවෙයි
+Foreign media reports that England has decided to focus on new and young fast bowlers for the coming Test tournament.
+
+Anderson has informed the England coach informed by Bandon McCullum.
+
+He was a 42-year-old in 2003 he was 42 years old
 
 ◼️
 
 [Data](articles/344c23f4.json)
+
+[Extended Data](ext_articles/344c23f4.ext.json)
 
 ---
 
@@ -560,6 +566,46 @@ The Chunnakam police have launched an investigation into the incident and it is 
 
 ---
 
+### SL to see an increase in automobile assembly plants
+
+*2024-05-11 00:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-to-see-an-increase-in-automobile-assembly-plants/108-282381) · `en`
+
+JAC and FOTON are among those gearing up to start assembling in Sri Lanka
+
+Industry Ministry expects to have around 30 assemblers operating by year end
+
+Sri Lanka will see the addition of automobile assembly plants, as four are set to begin operations within the next three months and another 11 have been registered by the Industries Ministry.
+
+A Special Cabinet-appointed Committee oversees the Standard Operating Procedure (SOP) and its governance.
+
+JAC and FOTON are among those gearing up to start assembling in Sri Lanka. By end-2024, the ministry expects to have around 30 entities operating in the local automobile assembly industry.
+
+Accordingly, the local automobile assembly industry is experiencing a significant growth and development with the involvement of the world-renowned brands, including Hyundai, Proton, BAIC, DFSK, Wuling, Mahindra, TATA, Bajaj, TVS, JMC and Lanka Ashok Leyland, emphasising the favourable environment for investment.
+
+...
+
+[Data](articles/6ea6f526.json)
+
+---
+
+### Tourist arrivals cross 800,000 mark in May
+
+*2024-05-11 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-800-000-mark-in-May/108-282378) · `en`
+
+The tourist arrivals to Sri Lanka crossed the 800,000 mark in May, which is two months earlier than 2023 in achieving the milestone.
+
+The provisional data released by the Sri Lanka Tourism Development Authority showed that the mark was crossed on May 5. For the first nine days of the month, the island nation welcomed a total of 819, 866 international visitors.
+
+For the first nine days of May, 35,215 tourists entered the country. The daily arrival average is about 3,900, a drop from the 5,000 level experienced in the previous months.
+
+From April, till the summer season, the influx of tourists is low, as it is an off-peak period. However, the authorities have noted that contributing to the drop this year-round is also the visa fiasco that took place. The issues regarding tourist visas are not yet entirely resolved, with confusion still prevailing in certain areas.
+
+...
+
+[Data](articles/a128a373.json)
+
+---
+
 ### Tamil leaders should unite on the presidential election - I.
 
 *2024-05-11 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183193) · `ta`
@@ -1057,6 +1103,8 @@ All of us have seen mothers. We have seen the mothers of our parents and the mot
 ...
 
 [Data](articles/7994bcad.json)
+
+[Extended Data](ext_articles/7994bcad.ext.json)
 
 ---
 
@@ -2161,57 +2209,5 @@ Below is the announcement issued by the Parliamentary Communication Unit in this
 [Data](articles/f1f57fb2.json)
 
 [Extended Data](ext_articles/f1f57fb2.ext.json)
-
----
-
-### Luxury vehicle layer's special order on the case
-
-*2024-05-10 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196479) · `si`
-
-The Court of Appeal has allowed a formal investigation into the loss of Rs. due to the import of 1,728 luxury BMWs by a private company from 2014 to 2016, costing the government about Rs. 16 billion. The Sri Lanka Customs Investigation is seeking to recover fines and has reopened the case, emphasizing the power of the Customs Department to investigate and take legal action against fraudulent companies.
-
-🟩
-
-The Court of Appeal has granted permission to conduct a formal investigation into the loss of Rs.
-
-This was when the accused of the company had filed the case with the suspension of an Investigation ordered by the Court of Appeal yesterday.
-
-The Auditor General had revealed that 1,728 luxury BMWs have been imported to the country in 2016 to 2014 by the relevant private company to 2014.
-
-It was revealed that the government had lost about Rs. 16 billion in importing these vehicles.
-
-Accordingly, the Sri Lanka Customs Investigation had taken steps to recover a fine of Rs. 100,000 each.
-
-The Sri Lanka Customs then summoned a report to import from the German Customs authorities and re-opened an investigation.
-
-The vehicles imported by the private company that imported vehicles have been filed in the Court of Appeal and suspended investigations.
-
-When the case was taken up again yesterday, Sumathi Dharma Dharma Dharmawardena, the Director General of Customs and the Attorney General
-
-...
-
-[Data](articles/382f1ad5.json)
-
-[Extended Data](ext_articles/382f1ad5.ext.json)
-
----
-
-### Suddenly for dogs in Trincomalee
-
-*2024-05-10 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183164) · `ta`
-
-The Eastern Provincial Health Department and Trincomalee Municipal Council held a meeting in Trincomalee, attended by the Secretary of the Eastern Provincial Council Department and the Secretary of the Trincomalee Municipal Council, along with many others, including Rajasekhar.
-
-🟩
-
-The Eastern Provincial Health Department and the Trincomalee Municipal Council were held in Trincomalee on Thursday (09) in Trincomalee.
-
-The Secretary of the Eastern Provincial Council Department, the Secretary of the Municipal Council of the Trincomalee Municipal Council. Many people, including Rajasekhar, were present.
-
-◼️
-
-[Data](articles/49d86469.json)
-
-[Extended Data](ext_articles/49d86469.ext.json)
 
 ---

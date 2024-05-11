@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 13:34:00**
+As of **2024-05-11 13:52:38**
 
 ## Newspaper Stats
 
-*Scraped **23,323** Articles*
+*Scraped **23,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 243
 dbsjeyarajcom | 243
 newsfirstlk | 363
-islandlk | 1,262
+islandlk | 1,263
 economynextcom | 1,343
 dailyftlk | 1,356
 adalk | 1,977
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,322 (100.0%) of 23,323 articles have been extended.
+23,323 (100.0%) of 23,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### සූර්යයාගෙන් නිකුත් වූ ප්‍රබල ගිනිදැල්ලකින් පසු අහස දිස්වූ අයුරු
+### How the sky appeared after a powerful fire released from the Sun
 
 *2024-05-11 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196505) · `si`
 
-දශක දෙකකින් පසු පෘථිවියට බලපෑම් එල්ල කළ දැවැන්ත සූර්ය කුණාටුවක් හේතුවෙන් අවුරෝරා බොරයාලිස් එනම් උතුරු එළි සංසිද්ධිය දැකගැනීමේ අවස්ථාව පෘථිවියේ උතුරු කලාපීය රටවල ජනතාවට හිමිවිය.
+In 2003, a powerful solar fire caused the most significant geomagnetic storm in five years, affecting global electricity and communication systems. This event, impacting Europe and potentially causing auroras, led to electrical and mobile network failures, including in Sweden and South Africa.
 
-ඒ අනුව යුරෝපා රටවල අහස රෝස සහ කොළ පැහැයෙන් වර්ණවත් වී තිබුණි.
+🟩
 
-මෙම තත්ත්වය බලපා තිබුණේ සූර්යාගෙන් නිකුත්වූ ප්‍රබල සූර්ය ගිනිදැල්ලක් හේතුවෙන් බව සඳහන් වෙයි.
+In two decades, the people of the Earth, the Northern region of the Earth, came to visit the Northern Region of the Earth.
 
-අමෙරිකාවේ ජාතික සාගර සහ වායුගෝලීය පරිපාලනයට අනුව මෙය වසර 21කට පසු පෘථිවියට බලපෑ ප්‍රබලතම භූ චුම්බක කුණාටුව වන අතර එය පස්වැනි එනම් G5 මට්ටමක පවතී.
+Accordingly, the skies of the European countries had colored with rose and green.
 
-එහි බලපෑමෙන් උතුර එළිවලට අමතර ගෝලීය විදුලි සහ සන්නිවේදන පද්ධතිවලට බලපෑම් එල්ල විය හැකිය.
+It was reported that this situation was due to a powerful solar fire issued from the sun.
 
-ඒ අතරට විදුලි බිඳවැටීම්, ජංගම දුරකථන ජාල බිඳවැටීම්, රේඩියෝ සංඥා බිඳවැටීම්, චන්ද්‍රිකා ක්ෂයවීම් වැනි ආපදා අයත් වෙයි.
+According to the national oceans and atmospheric administration of the US, this is the most powerful geomanetic storm that has a fifth year.
 
-අවසන්වරට මෙවැනි සූර්ය කුණාටුවකින් පෘථිවියට බලපෑම් එල්ල වී ඇත්තේ 2003 වසරේ ඔක්තෝබර් මාසයේදීය.
+The impact of its impact, North lights may also impact additional global electricity and communication systems.
 
-එහිදී ස්වීඩනයේ සහ දකුණු අප්‍රිකාවේ විදුලි පද්ධතිවලට බලපෑම් එල්ල වී ඇත.
+Meanwhile, disasters include electricity, mobile network collapses, radio signals, and satellite depreciation.
+
+In October 2003, the Earth was influenced by this end of this end of this end of this end.
+
+Electrical systems in Sweden and South Africa have been affected.
 
 ◼️
 
 [Data](articles/edf1e645.json)
+
+[Extended Data](ext_articles/edf1e645.ext.json)
 
 ---
 
@@ -1075,6 +1081,20 @@ President Ranil Wickremesinghe said that it is well aware of the challenges face
 [Data](articles/306208a2.json)
 
 [Extended Data](ext_articles/306208a2.ext.json)
+
+---
+
+### HNB bolsters its Board of Directors with the appointment of Suresh Shah
+
+*2024-05-11 01:39:00* · [`islandlk`](http://island.lk/hnb-bolsters-its-board-of-directors-with-the-appointment-of-suresh-shah/) · `en`
+
+HNB PLC has announced another strategic addition to its Board of Directors with the appointment of Suresh Shah as an Independent Non-Executive Director. This appointment marks another significant step in strengthening the Bank&#39;s governance and strategic direction.
+
+Shah brings with him a wealth of experience and a proven track record in both the corporate sector and public service. Currently serving as Chairman of Ceylon Tobacco Company PLC and a Director of Carson Cumberbatch PLC, Bukit Darah PLC, Hunter &amp; Co PLC, and Lanka Canneries (Pvt) Ltd, Shah is highly regarded for his leadership and strategic insight. Meanwhile, in the public sector, he also leads the State- Owned Enterprise Restructuring Unit of the Government of Sri Lanka.
+
+...
+
+[Data](articles/d4a20812.json)
 
 ---
 
@@ -2183,31 +2203,5 @@ Professor Sunil Ariyaratne contributed to coordination of products in many films
 [Data](articles/621a3d6f.json)
 
 [Extended Data](ext_articles/621a3d6f.ext.json)
-
----
-
-### Appeal from Maithri
-
-*2024-05-10 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183189) · `ta`
-
-Maithripala Sirisena, former President, has appealed against a ban on the Sri Lanka Freedom Party (SLFP) in the Western Provincial Civil Appeal High Court. He seeks to overturn an interim order by the Colombo District Court, which prevents him from leading the SLFP. The defendant in this case is SLFP Executive Committee member Mondagu Sarachandra.
-
-🟩
-
-Former President Maithripala Sirisena has filed a petition in the Western Provincial Civil Appeal High Court against the ban on the Freedom Party (SLFP).
-
-Maithripala Sirisena has demanded a decision to dissolve the interim order issued by the Colombo District Court on Thursday (9), preventing the act of the Sri Lanka Freedom Party.
-
-Sri Lanka Freedom Party (SLFP) Executive Committee member Mondagu Sarachandra has been named as the defendant in the appeal filed by lawyer Jayamudita Jayasuriya.
-
-In his appeal, Maithripala Sirisena pointed out that the Colombo District Court, hearing the case filed by the defendant, has issued an interim order from acting as the leader of the Sri Lanka Freedom Party.
-
-It is noteworthy that the Colombo District Court has issued an interim injunction and has requested Maithripala Sirisena to issue an order to remove it.
-
-◼️
-
-[Data](articles/805840b6.json)
-
-[Extended Data](ext_articles/805840b6.ext.json)
 
 ---

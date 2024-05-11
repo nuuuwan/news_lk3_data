@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 19:18:08**
+As of **2024-05-11 19:33:26**
 
 ## Newspaper Stats
 
-*Scraped **23,360** Articles*
+*Scraped **23,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
 tamilmirrorlk | 2,732
-adaderanalk | 2,733
+adaderanalk | 2,734
 virakesarilk | 3,476
 dailymirrorlk | 3,676
-adaderanasinhalalk | 3,745
+adaderanasinhalalk | 3,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,360 (100.0%) of 23,360 articles have been extended.
+23,360 (100.0%) of 23,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### දියණිය වෙනුවෙන් සුසිත්ගේ ජීවිතය උදුරාගත් හේතුව මේකද ?...
+
+*2024-05-11 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196518) · `si`
+
+කුලියාපිටියේ සුසිත් ජයවංශ නමැති තිස් හැවිරිදි තරුණයාව ඝාතනය කර ඇත්තේ, ඔහුගේ පෙම්වතිය බව කියන 17 හැවිරිදි තරුණිය ගැබ් ගැනීමෙන් අනතුරුව ඔහු එය ප්‍රතික්ෂේප කිරීම නිසා බව මේ වනවිට අත්අඩංගුවේ පසුවන සැකකරුවන් පොලීසියට පවසා තිබේ.
+
+එමෙන්ම ඝාතනය කිරීමට පෙර දින රාත්‍රියේදී ද අදාළ තරුණියගේ පියා විසින් ඔහුව නිවසට කැඳවා ඇති බවත් එහිදී ඝාතනය කිරීමට නොහැකි වී ඇත්තේ, ඔහු තවත් තරුණයන් දෙදෙනෙකු සමග පැමිණීම හේතුවෙන් බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+මේ වනවිට අත්අඩංගුවේ පසුව සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔවුන් පවසා ඇත්තේ, අදාළ තරුණාව, පෙම්වතියගේ නිවසේදී ඝාතනය කිරීමෙන් පසුව මළසිරුර හලාවත, මාදම්පේ පනිරෙන්ඩාව රක්ෂිත වනාන්තරය අසලට ගෙනවිත් ලීයක ආධාරයෙන් කර තබාගෙන කැලය ඇතුළට රැගෙන ගොස් ඇති බවය.
+
+කොහු ලණු සිරුරට බැඳ ලීයක් වැනි යමක් දැමීමෙන් පසු එම පුද්ගලයාගේ සිරුර ඔසවාගෙන පැමිණ ඇති බව පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණ වී තිබේ.
+
+...
+
+[Data](articles/14969a4c.json)
+
+---
+
+### Five Sri Lankans detained in Latvia for assisting illegal migrants
+
+*2024-05-11 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99152/five-sri-lankans-detained-in-latvia-for-assisting-illegal-migrants) · `en`
+
+Five Sri Lankans have been detained by the State Border Guards of the Republic of Latvia for allegedly transporting persons who illegally crossed the state border on Wednesday (08).
+
+In Augšdaugava Municipality in Latvia, Border guards have stopped a Peugeot 307 driven by a citizen of Sri Lanka and another citizen of Sri Lanka, both with valid residence permits, was in the seat next to the driver. While checking documents, six persons of Afro-Asian origin were found to be in the car without travel documents, valid visas and residence permits, the State Border Guard of Latvia said.
+
+Issuing a statement, the State Border Guard of Latvia stated that the border guards on suspicion of providing support to migrants also detained three other citizens of Sri Lanka, who were moving in a Volkswagen Polo car.
+
+...
+
+[Data](articles/35e2fc6d.json)
+
+---
 
 ### Sri Lankans arrested for a human racket
 
@@ -2275,51 +2309,5 @@ It is noteworthy that the victim was shot in the courtyard and many bullets were
 [Data](articles/cbe01db2.json)
 
 [Extended Data](ext_articles/cbe01db2.ext.json)
-
----
-
-### Can bring $ 3 billion investments
-
-*2024-05-11 00:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பில்லியன்-டொலர்-முதலீடுகளை-கொண்டுவர-முடியும்/175-337115) · `ta`
-
-Investment Minister Tilum Amunugama announced at a media briefing that Sri Lanka aims to triple its investment target to over $3 billion by the end of 2024, attributing the improved investment environment to political and financial stability. He highlighted the government's success in surpassing investment goals, with the Finance Ministry already meeting its first-quarter target.
-
-🟩
-
-Investment Development Minister Tilum Amunugama said that by the end of 2024, the investment target of $ 1 billion can be increased by three times and more than $ 3 billion investments to Sri Lanka.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Investments must be in the country, political stability, financial stability and the future of the country. Accordingly, investments for this country are increasing. Investment environment has improved in the country. Since its 2 years ago, 200 percent has changed.
-
-Investors have not come to the country due to the economic crisis in the past. But with statistics I can present investors that are now coming up. Moreover, the Finance Ministry has been able to go beyond the goals provided. All this has been achieved by the government -led government's programs. In the first quarter of this year alone, the Finance Ministry's target has already been completed.
-
-...
-
-[Data](articles/b1ba69ff.json)
-
-[Extended Data](ext_articles/b1ba69ff.ext.json)
-
----
-
-### The man who chased the police crashed into the wiring
-
-*2024-05-11 00:12:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-விரட்டிய-நபர்-மின்கம்பத்தில்-மோதி-உயிரிழப்பு/175-337114) · `ta`
-
-In Punnalaikkattuwa, Jaffna, a man chased by police crashed into wiring, leading to his death. Selvanayagam Pradeepan, 41, from Urumpirai, died after being chased by two police officers on a motorcycle. The public alleges he was killed by the crash.
-
-🟩
-
-A man who was chased away by police chasing at Punnalaikkattuwa, Jaffna. The incident took place last night.
-
-Selvanayagam Pradeepan, a 41 -year -old man from Urumpirai, who works at the Kilinochchi Electricity Board, died.
-
-Police officers on duty at Palali Police Station. The public alleges that the man was killed in a wiring after kicking a motorcycle that was traveled by two police officers who were constantly chasing the man.
-
-◼️
-
-[Data](articles/b359dcf6.json)
-
-[Extended Data](ext_articles/b359dcf6.ext.json)
 
 ---

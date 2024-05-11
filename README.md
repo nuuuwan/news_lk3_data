@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 21:03:16**
+As of **2024-05-11 21:18:20**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,366 (100.0%) of 23,367 articles have been extended.
+23,367 (100.0%) of 23,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### ලංගම බස් රථයක් පෙරළෙයි
+### SLTB bus topples
 
 *2024-05-11 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196521) · `si`
 
-හඟුරන්කෙත සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ ලංගම බස් රථයක් මයිලපිටිය ප්‍රදේශයේදී මාර්ගයේ පෙරළී ගොස් තිබේ.
+A SLTB bus traveling from Hanguranketha to Kandy overturned at Milapitiya, injuring 20 passengers. The incident was captured by a nearby camera.
 
-එම අනතුර සිදුවෙන ආකාරය අසල තිබූ සිසිටීවී කැමරාවක සටහන්වී ඇත.
+🟩
 
-අනතුර සිදුවන අවස්ථාවේදී 20 දෙනෙකු පමණ බස් රථයේ සිට ඇති අතර ඉන් දෙදෙනකුට සුළු තුවාල සිදුවී තිබේ.
+A SLTB bus, which was traveling from Hanguranketha to Kandy, has gone toppled at Milapitiya area.
+
+The traditional camera has been recorded in a nearby cited camera next to how the accident occurred.
+
+About 20 people were on the bus at the time of the accident.
 
 ◼️
 
 [Data](articles/2697ce04.json)
+
+[Extended Data](ext_articles/2697ce04.ext.json)
 
 ---
 

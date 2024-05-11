@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 16:33:40**
+As of **2024-05-11 16:48:56**
 
 ## Newspaper Stats
 
-*Scraped **23,348** Articles*
+*Scraped **23,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,730
 adaderanalk | 2,731
 virakesarilk | 3,476
 dailymirrorlk | 3,673
-adaderanasinhalalk | 3,741
+adaderanasinhalalk | 3,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,348 (100.0%) of 23,348 articles have been extended.
+23,348 (100.0%) of 23,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
+
+### රුසියා - යුක්‍රේන යුද්ධයට ගිය අපේ අය ගැන තොරතුරු ගලා එයි
+
+*2024-05-11 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196513) · `si`
+
+රුසියා - යුක්‍රේන යුද්ධය සඳහා නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවේ ත්‍රිවිධ හමුදා විශ්‍රාමික සාමාජිකයින් යෙදවීමේ මිනිස් ජාවාරම සම්බන්ධ තොරතුරු ලබාගැනීම සඳහා ආරම්භ කළ විශේෂ ඒකකයට දුරකථන ඇමතුම් 77ක් ලැබී ඇති බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+පසුගිය බ්‍රහස්පතින්දා රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි අදාළ විශේෂ ඒකකය ආරම්භ කළ අතර පැය 36ක පමණ කාලයක් ඇතුළත මෙලෙස දුරකථන ඇමතුම් ලැබී තිබීම විශේෂත්වයක් බව එම අමාත්‍යංශය සඳහන් කරයි.
+
+ආරක්‍ෂක අමාත්‍යාංශය පවසන්නේ මේ වන විට රුසියා - යුක්‍රේන යුද්ධය සඳහා පිටත්ව ගොස් ඇති මෙරට විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්,  ඔවුන් පිටත්ව ගිය දිනයන්, සම්බන්ධීකරණය කළ පුද්ගලයින්, ආයතන සහ දුරකථන අංක ඇතුළු තොරතුරු එම අංශය වෙත ලබාදිය හැකි බවය.
+
+දුරකථන අංක  011- 2 44 11 46 වෙත තවදුරටත් තොරතුරු ලබාදිය හැකි අතර මේ දක්වාත් තොරතුරු ලබානොදුන් පුද්ගලයන් සිටී නම් ඒ සම්බන්ධයෙන් අවධානය යොමු කරන ලෙස ද ආරක්‍ෂක අමාත්‍යාංශය දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/0ce237f9.json)
+
+---
 
 ### Risk of breaking bridge
 
@@ -2257,23 +2275,5 @@ Build Sri Lanka 2024 showcases the latest developments in the building and const
 [Data](articles/68030906.json)
 
 [Extended Data](ext_articles/68030906.ext.json)
-
----
-
-### Rani Sandalwood tributes loyal consumers with gold sovereigns
-
-*2024-05-10 23:37:02* · [`dailyftlk`](https://www.ft.lk/business/Rani-Sandalwood-tributes-loyal-consumers-with-gold-sovereigns/34-761649) · `en`
-
-The Swadeshi Industrial Works PLC has launched yet another exciting promotion for the loyal consumers of Rani Sandalwood soap with weekly offer of three 22 Carat gold sovereigns for six weeks.
-
-Consumers who Post or WhatsApp (077 0089716) or Inbox Rani Sandalwood facebook page with two empty cartons of Rani Sandalwood Soap with their name, national identity card number and telephone number to “Rani Sadun Ran Rajiniyan” P.O. Box 04, Kandana are eligible to win 18 nos. 22 Carat gold sovereigns worth of Rs. 3 million over a period of six weeks, the company announced.
-
-The promotion gets underway from May 2024 to 30 June and winners will be chosen at weekly raffle draws. Rani Sandalwood consumers can visit and like the Rani Sandalwood Facebook page for further information and updates.
-
-...
-
-[Data](articles/7960dcca.json)
-
-[Extended Data](ext_articles/7960dcca.ext.json)
 
 ---

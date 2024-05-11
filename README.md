@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-11 19:33:26**
+As of **2024-05-11 19:51:06**
 
 ## Newspaper Stats
 
@@ -26,27 +26,39 @@ adaderanasinhalalk | 3,746
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,360 (100.0%) of 23,362 articles have been extended.
+23,362 (100.0%) of 23,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-11 (Saturday)
 
-### දියණිය වෙනුවෙන් සුසිත්ගේ ජීවිතය උදුරාගත් හේතුව මේකද ?...
+### Is this the cause of Susath's life for her daughter?
 
 *2024-05-11 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196518) · `si`
 
-කුලියාපිටියේ සුසිත් ජයවංශ නමැති තිස් හැවිරිදි තරුණයාව ඝාතනය කර ඇත්තේ, ඔහුගේ පෙම්වතිය බව කියන 17 හැවිරිදි තරුණිය ගැබ් ගැනීමෙන් අනතුරුව ඔහු එය ප්‍රතික්ෂේප කිරීම නිසා බව මේ වනවිට අත්අඩංගුවේ පසුවන සැකකරුවන් පොලීසියට පවසා තිබේ.
+Susath's daughter, a 13-year-old, was killed after the death of Thija in Kuliyapitiya. The suspects, interrogated by police, revealed that two youths were involved. The girl's body was found in a forest reserve in Chilaw, bound to a tree. The main suspect, Singumba, was brought to the forest reserve for interrogation, but the motive behind the murder remains unclear. The victim had a romantic relationship with the daughter, who was suspected to be pregnant.
 
-එමෙන්ම ඝාතනය කිරීමට පෙර දින රාත්‍රියේදී ද අදාළ තරුණියගේ පියා විසින් ඔහුව නිවසට කැඳවා ඇති බවත් එහිදී ඝාතනය කිරීමට නොහැකි වී ඇත්තේ, ඔහු තවත් තරුණයන් දෙදෙනෙකු සමග පැමිණීම හේතුවෙන් බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+🟩
 
-මේ වනවිට අත්අඩංගුවේ පසුව සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔවුන් පවසා ඇත්තේ, අදාළ තරුණාව, පෙම්වතියගේ නිවසේදී ඝාතනය කිරීමෙන් පසුව මළසිරුර හලාවත, මාදම්පේ පනිරෙන්ඩාව රක්ෂිත වනාන්තරය අසලට ගෙනවිත් ලීයක ආධාරයෙන් කර තබාගෙන කැලය ඇතුළට රැගෙන ගොස් ඇති බවය.
+The suspects in custody have already been told that the 13-year-old girl was killed after the death of the Thija, Kuliyapitiya.
 
-කොහු ලණු සිරුරට බැඳ ලීයක් වැනි යමක් දැමීමෙන් පසු එම පුද්ගලයාගේ සිරුර ඔසවාගෙන පැමිණ ඇති බව පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණ වී තිබේ.
+Police investigations have revealed that he was due to the arrival of two other youths on the night before the assassination.
+
+They have said that after being interrogated by the suspects, the cabalur had been taken into the forest with the forest reserve in Chilaw after being murdered at the suspect's home.
+
+The post mortem has been revealed that the body's body has been lifted after the collateral body is bound to the body.
+
+Police investigations have revealed that after the youth lifting the body after the assassination of the youth, sitting in Kuliyampitiya to Madampe Reserve to the forest.
+
+In the interrogation of the main suspect in the incident, "Singumba ', who was arrested, was brought to the forest reserve.
+
+As a result, the killing of the murder is yet to be determined.
 
 ...
 
 [Data](articles/14969a4c.json)
+
+[Extended Data](ext_articles/14969a4c.ext.json)
 
 ---
 
@@ -63,6 +75,8 @@ Issuing a statement, the State Border Guard of Latvia stated that the border gua
 ...
 
 [Data](articles/35e2fc6d.json)
+
+[Extended Data](ext_articles/35e2fc6d.ext.json)
 
 ---
 

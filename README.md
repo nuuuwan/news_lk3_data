@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 16:18:18**
+As of **2024-05-12 16:33:46**
 
 ## Newspaper Stats
 
-*Scraped **23,479** Articles*
+*Scraped **23,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,992
-adaderanalk | 2,745
+adaderanalk | 2,746
 tamilmirrorlk | 2,758
-virakesarilk | 3,484
+virakesarilk | 3,491
 dailymirrorlk | 3,692
 adaderanasinhalalk | 3,767
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 3,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,478 (100.0%) of 23,479 articles have been extended.
+23,479 (100.0%) of 23,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளரை களமிறக்கும் யோசனை முன்வைக்கப்பட்டிருப்பது ஏன்? - சிறீதரனிடம் கேட்டறிந்தார் இந்திய உயர்ஸ்தானிகர்
+
+*2024-05-12 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183303) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழர்கள் சார்பில் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவது பற்றியும், இத்தேர்தலில் வாக்களிப்பது குறித்து தமிழ் மக்கள் எவ்வாறான மனநிலையில் இருக்கின்றார்கள்? அவர்கள் யாருக்கு வாக்களிப்பார்கள் என்பது பற்றியும் இலங்கை தமிழ் அரசுக் கட்சியின் தலைவர் எஸ். சிறீதரனிடம்  இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா கேட்டறிந்துள்ளார்.
+
+இலங்கைத் தமிழரசுக் கட்சித் தலைவரும், பாராளுமன்ற உறுப்பினருமான எஸ்.சிறீதரனுக்கும், இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கும் இடையிலான சந்திப்பொன்று கடந்த வியாழக்கிழமை கொழும்பிலுள்ள இந்திய இல்லத்தில் நடைபெற்றது.
+
+இச்சந்திப்பின்போது எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழர்கள் சார்பில் தமிழ் பொது வேட்பாளர் ஒருவரைக் களமிறக்குவதற்கு யோசனை முன்வைக்கப்பட்டிருப்பது பற்றியும், இத்தேர்தலில் வாக்களிப்பது குறித்து தமிழர்கள் எவ்வாறான மனநிலையில் இருக்கிறார்கள்? அவர்கள் யாருக்கு வாக்களிப்பார்கள்? என்பது பற்றியும் உயர்ஸ்தானிகர் சந்தோஷ் ஜா சிறிதரனிடம் கேள்வி எழுப்பினார்.
+
+...
+
+[Data](articles/8a038935.json)
+
+---
+
+### MP claims issue with 2023 G.C.E O/L Science question paper
+
+*2024-05-12 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99164/mp-claims-issue-with-2023-gce-ol-science-question-paper) · `en`
+
+The Science question paper for the 2023 (2024) G.C.E O/L examination has been prepared beyond the provisioning plan, MP Madhura Withanage alleges.
+
+During a press briefing, MP Withanage highlighted that portions of three Multiple Choice Questions (MCQs) and three essay-type questions in this year’s O/L Science paper has been prepared outside the provisioning plan.
+
+The MP disclosed that he has already raised the issue with the Commissioner General of Examinations.
+
+Furthermore, MP Withanage stated that the Commissioner General assured him that during the review of the progress of granting marks, which will be conducted a month after the examination, the matter will be addressed to prevent any injustice to the students.
+
+◼️
+
+[Data](articles/9b7109ab.json)
+
+---
+
+### டயனா கமகேவுக்கு எதிரான தீர்ப்பு : தப்பிப் பிழைத்த ஐக்கிய மக்கள் சக்தி
+
+*2024-05-12 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183328) · `ta`
+
+பாராளுமன்றத்தில் தனக்கு சந்தர்ப்பம் கிடைக்கும் போதெல்லாம்  நாட்டில் கஞ்சா வளர்ப்பைச் சட்டபூர்வமாக்க வேண்டும், கஞ்சாவை ஏற்றுமதி செய்ய வேண்டும், பாலியல் தொழிலை சட்டபூர்வமாக்க வேண்டும் அதன் மூலம் நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தலாம் எனப்பேசி வந்த சுற்றுலாத்துறை இராஜாங்க அமைச்சர்  டயனா கமகே உயர்  நீதிமன்ற தீர்ப்பின் பிரகாரம் தனது எம்.பி அந்தஸ்த்தை இழந்துள்ளார்.
+
+பிரித்தானிய குடியுரிமையைப் பெற்றதன் பின்னர் டயனா, இலங்கை பிரஜை என்ற அந்தஸ்த்தோடு அதைத் தொடர்வதற்கு சட்டரீதியாக தவறிவிட்டார். இலங்கைப் பிரஜையாக இல்லாத காரணத்தினால் அவர் பாராளுமன்ற உறுப்பினராக பதவி வகிக்க முடியாது என்ற சாட்சியங்களின் உறுதிப்படுத்தலில் உயர்நீதிமன்றம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+...
+
+[Data](articles/e209a5e8.json)
+
+---
+
+### சீன உறவை துண்டிக்கும் திட்டம்
+
+*2024-05-12 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183330) · `ta`
+
+Note: “சமுத்திரவியல் ஆய்வுக்காக இலங்கை,  சீனாவை நம்பியிருக்காத நிலையை உருவாக்க ஜப்பான் முற்படுகிறது என்றால், அது அத்துறையில் இருநாடுகளுக்கும் இடையில் உள்ள கூட்டை வெட்டி விடுவதற்கு போட்டுள்ள திட்டம் தான் “
+
+◼️
+
+[Data](articles/93f1731d.json)
+
+---
 
 ### Running to the country on World Mothers Day
 
@@ -248,6 +308,24 @@ President Ranil Wickremesinghe made this statement during his attendance at the 
 
 ---
 
+### காசாவில் இடிபாடுகளிற்கு இடையில் மீட்க முடியாத நிலையில் பத்தாயிரத்திற்கும் மேற்பட்ட உடல்கள்
+
+*2024-05-12 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183313) · `ta`
+
+காசாவில் இஸ்ரேலின் தாக்குதலால் தகர்க்கப்பட்ட கட்டிடங்களின் இடிபாடுகளின் கீழ் பத்தாயிரத்திற்கும் மேற்பட்ட உடல்கள் உள்ளன என காசாவின் சிவில் பாதுகாப்பு பிரிவினர் தெரிவித்துள்ளனர்.
+
+கடந்த பல மாதங்களாக நாங்கள் மிகச்சாதாரணமான இயந்திரங்களை பயன்படுத்தி இடிபாடுகளை அகற்றுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளோம் இதனால் எங்கள் முயற்சியும் நேரமும் வீணாகியுள்ளது  என ஹமாசின் சிவில் பாதுகாப்பு பிரிவின் பேச்சாளர் மஹ்மூத் பசால் தெரிவித்துள்ளார்.
+
+இஸ்ரேல் ஒரு குறிப்பிட்ட பகுதியில் தாக்குதலை மேற்கொண்டதும் மருத்துபிரிவினரும் காசாவின்  சிவில் பாதுகாப்பு பிரிவினருமே முதலில் அங்கு செல்கின்றனர்.
+
+இடிபாடுகளிற்குள் சிக்குப்படுபவர்களை மீட்பதற்கு அவசியமான இயந்திரங்களை காசாவிற்குள் கொண்டுவருவதற்கான முயற்சிகளுக்கு ஐநாவும் மனிதாபிமான அமைப்புகளும் ஆதரவளிக்கவேண்டும் என என ஹமாசின் சிவில் பாதுகாப்பு பிரிவின் பேச்சாளர் மஹ்மூத் பசால் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/235cf48d.json)
+
+---
+
 ### Mahinda announced on sale of government assets
 
 *2024-05-12 13:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වත්කම්-විකිණීම-ගැන-මහින්දගෙන්-නිවේදනයක්/11-409571) · `si`
@@ -283,6 +361,20 @@ Former President Maithripala Sirisena has resigned from the Chairman of the Sri 
 [Data](articles/9671dbe4.json)
 
 [Extended Data](ext_articles/9671dbe4.ext.json)
+
+---
+
+### 1440 போதை மாத்திரைகளை காரில் கடத்திச் சென்றவர் மட்டக்களப்பில் கைது
+
+*2024-05-12 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183287) · `ta`
+
+ஓட்டமாவடியில் இருந்து மட்டக்களப்புக்கு கார் ஒன்றில் போதை மாத்திரைகளை கடத்திச் சென்ற நபரொருவரை மட்டக்களப்பு ரயில்வே வீதியில் வைத்து நேற்று சனிக்கிழமை (11) மாலை விசேட அதிரடிப்படையினர் கைது செய்ததுடன், அவரிடமிருந்து 1440 மாத்திரைகளையும் கடத்தலுக்கு பயன்படுத்திய காரையும் கைப்பற்றியுள்ளதாக மட்டக்களப்பு பொலிஸார் தெரிவித்தனர்.மட்டக்களப்பு கடற்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலையடுத்து, விசேட  அதிரடிப்படையினர் மற்றும் கடற்படை புலனாய்வு பிரிவினர் இணைந்து நேற்று மாலை 6 மணியளவில் மட்டக்களப்பு ரயில்வே குறுக்கு வீதியில் கண்காணிப்பில் ஈடுபட்டுள்ளனர். அவ்வேள‍ை வீதியில் பயணித்த இந்த காரை நிறுத்தி சோதனையிட்டபோதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+அதை தொடர்ந்து, கைப்பற்றப்பட்ட காரை தம்மிடம் விசேட அதிரடிப்படையினர் ஒப்படைத்துள்ளதாகவும் கைதான நபரை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0aa90628.json)
 
 ---
 
@@ -408,6 +500,18 @@ Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Mi
 
 ---
 
+### யுத்தத்தை நடத்திய அரசாங்கங்களே பொறுப்புக்கூறலை தாமதிக்கின்றன : தமிழ் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள்
+
+*2024-05-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183301) · `ta`
+
+யுத்தத்தை நடாத்திய அரசாங்கங்களே இப்போது பொறுப்புக்கூறலைத் தாமதப்படுத்திவருகின்றன. எனவே எதிர்வரும் ஜனாதிபதித் தேர்தலை பேரம் பேசுவதற்கான தளமாக தமிழர்கள் பயன்படுத்திக்கொள்ளவேண்டும். அதேபோன்று பிளவுபட்டிருக்கும் தமிழ் அரசியல் கட்சிகளைத் தமக்கு ஏற்றாற்போல் கையாள்வது சிங்கள பேரினவாத கட்சிகளுக்கு இலகுவான விடயமாக மாறிவரும் நிலையில், இனியேனும் தமிழ் மக்களின் நலன் கருதி தமிழ்த் தேசிய அரசியல் கட்சிகள் ஒன்றுபடவேண்டும் என அக்கட்சிகளின் பிரதிநிதிகள் வலியுறுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/60045b12.json)
+
+---
+
 ### Labour companionship program launched for expectant mothers
 
 *2024-05-12 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Labour-companionship-program-launched-for-expectant-mothers/110-282409) · `en`
@@ -463,6 +567,22 @@ The incident took place on Sunday (12) that nine people, including driver and co
 [Data](articles/eef0a42d.json)
 
 [Extended Data](ext_articles/eef0a42d.ext.json)
+
+---
+
+### வியாழனன்று இலங்கை வருகிறார் சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் - முள்ளிவாய்க்கால் நினைவேந்தலில் பங்கேற்பார்
+
+*2024-05-12 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183307) · `ta`
+
+மூன்று தசாப்த கால யுத்தம் முடிவுக்குக் கொண்டுவரப்பட்டு 15 வருடங்கள் கடந்திருக்கும் நிலையில், இவ்வாரம் இலங்கைக்கு வருகைதரவுள்ள சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் எதிர்வரும் 18ஆம் திகதி முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்விலும் கலந்துகொள்ளவுள்ளார்.
+
+யுத்தத்தின்போது இடம்பெற்றதாகக் கூறப்படும் போர்க்குற்றங்கள், மனித உரிமை மீறல்கள் மற்றும் மனிதகுலத்துக்கு எதிரான வன்முறைகள் என்பன தொடர்பில் உண்மை, நீதி மற்றும் பொறுப்புக்கூறல் என்பன உறுதிப்படுத்தப்பட வேண்டும் என சர்வதேச மன்னிப்புச் சபை தொடர்ச்சியாக வலியுறுத்தி வருவதுடன், சர்வதேச அரங்கில் இலங்கை மீதான அழுத்தங்களையும் பிரயோகித்துவருகிறது.
+
+அந்த வகையில் யுத்த முடிவின் 15 வருடப் பூர்த்தியையொட்டி லண்டனைத் தளமாகக்கொண்டு இயங்கிவரும் சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் எதிர்வரும் வியாழக்கிழமை (16) இலங்கைக்கு வருகைதரவுள்ளார். அன்றைய தினம் சர்வதேச மன்னிப்புச் சபையில் கொழும்பு அலுவலக செயற்பாட்டாளர்களைச் சந்தித்துப் பேசவிருக்கும் அவர், வெள்ளிக்கிழமை (17) முள்ளிவாய்க்காலுக்கு விஜயம் மேற்கொள்ளவுள்ளார்.
+
+...
+
+[Data](articles/3f954325.json)
 
 ---
 
@@ -1844,6 +1964,8 @@ Her support for the Government continued after Ranil Wickremesinghe took office 
 
 [Data](articles/3d70b378.json)
 
+[Extended Data](ext_articles/3d70b378.ext.json)
+
 ---
 
 ### The 2024 Presidential Election
@@ -2091,165 +2213,5 @@ Two people from Jaffna have been arrested in Negombo who prepared false passport
 [Data](articles/ae47ec78.json)
 
 [Extended Data](ext_articles/ae47ec78.ext.json)
-
----
-
-### Victory for Palestine
-
-*2024-05-11 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196523) · `si`
-
-Palestine's bid for UN membership received 143 votes, with only 9 against, including Israel and America. Despite this, full membership and Security Council decision-making power are not granted, and Israel's UN representative objected to the proposal.
-
-🟩
-
-Palestine is a proposal to be a country that is suitable for the membership of the United Nations.
-
-There were 143 votes in favor of Palestine and voted only 9 countries including Israel and America.
-
-However, the Palestine does not have the full membership of the organization and the UN Security Council can only be the decision to meet.
-
-Meanwhile, the Israeli Permanent Representative of the United Nations has objected to the proposal.
-
-◼️
-
-[Data](articles/1f5c595a.json)
-
-[Extended Data](ext_articles/1f5c595a.ext.json)
-
----
-
-### Sri Lankan-born baker Tharshan Selvarajah to carry Olympic torch in France
-
-*2024-05-11 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99154/sri-lankan-born-baker-tharshan-selvarajah-to-carry-olympic-torch-in-france) · `en`
-
-As the Olympic flame touched down in France from Greece, excitement brewed for the relay involving 10,000 torchbearers, representing diverse stories of achievement. Among them shines a Paris-based, Sri Lankan-born baker Tharshan Selvarajah who only arrived in France for the first time in 2006.
-
-Known for his award-winning baguettes, he makes history as the first Sri Lankan torchbearer in the annals of the Olympic Games.
-
-In 2023, the winner of the “Grand Prize of the Traditional French Baguette,” organized by the Paris City Hall, was the baguette made by Tharshan Selvarajah, after which he received the opportunity to supply baguettes to France’s presidential palace.
-
-◼️
-
-[Data](articles/ba220527.json)
-
-[Extended Data](ext_articles/ba220527.ext.json)
-
----
-
-### Over 10 MPs with dual citizenship still in parliament; step down before elections: Ven. Sobitha Thera
-
-*2024-05-11 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-10-MPs-with-dual-citizenship-still-in-parliament-step-down-before-elections-Ven-Sobitha-Thera/108-282398) · `en`
-
-Colombo, May 11 (Daily Mirror) - Venerable Omalpe Sobitha Thera told the Daily Mirror today that there are over 10 members currently serving in Parliament who hold dual citizenship and said that those MPs should be removed from their posts before the elections.
-
-"In light of the Supreme Court ruling, I would like to kindly request all party leaders to disclose any members within their parties who hold dual citizenships," he said.
-
-MPs holding dual citizenship should step down before the upcoming elections; otherwise, the respective party leaders should bear the responsibility, he added.
-
-"These MPs have no loyalty to the country; they simply occupy parliamentary positions for personal gain. We have the capability to disclose their identities, but they should be granted an opportunity to reveal themselves before the upcoming elections," he said.
-
-...
-
-[Data](articles/11586861.json)
-
-[Extended Data](ext_articles/11586861.ext.json)
-
----
-
-### Over 10 MPs with dual citizenship still in parliament; step down before elections: Ven. Sobitha Thera
-
-*2024-05-11 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Over-10-MPs-with-dual-citizenship-still-in-parliament-step-down-before-elections-Ven-Sobitha-Thera/155-282398) · `en`
-
-Colombo, May 11 (Daily Mirror) - Venerable Omalpe Sobitha Thera told the Daily Mirror today that there are over 10 members currently serving in Parliament who hold dual citizenship and said that those MPs should be removed from their posts before the elections.
-
-"In light of the Supreme Court ruling, I would like to kindly request all party leaders to disclose any members within their parties who hold dual citizenships," he said.
-
-MPs holding dual citizenship should step down before the upcoming elections; otherwise, the respective party leaders should bear the responsibility, he added.
-
-"These MPs have no loyalty to the country; they simply occupy parliamentary positions for personal gain. We have the capability to disclose their identities, but they should be granted an opportunity to reveal themselves before the upcoming elections," he said.
-
-...
-
-[Data](articles/9ca940cb.json)
-
-[Extended Data](ext_articles/9ca940cb.ext.json)
-
----
-
-### The fig leaf of humanitarianism
-
-*2024-05-11 21:23:00* · [`islandlk`](http://island.lk/the-fig-leaf-of-humanitarianism/) · `en`
-
-As each day passes and the death toll rises in Gaza, the West’s complicity in Israeli atrocities becomes clearer and sharper. South Africa’s case against Israel is a clear indictment of the Global North’s inaction regarding those atrocities. Israel’s defence team has attempted to rationalise what Israeli forces are doing in Gaza, but this has effectively been undermined by the Israeli government itself: each day, its official social media channels tweet or post one ridiculous claim against not just South Africa, but also the ICJ.
-
-Against this backdrop, it makes very little sense to continue defending a country against which half the world has rallied in solidarity. Even Sri Lanka’s decision to send vessels to the Red Sea and local youths to Israel does not diminish its continuing support for Palestine at the United Nations, and the Foreign Ministry’s support for a two-state solution, an end to all hostilities, and a humanitarian ceasefire.
-
-...
-
-[Data](articles/3ec3874a.json)
-
-[Extended Data](ext_articles/3ec3874a.ext.json)
-
----
-
-### Michelangelo (1475-1564) and Galileo (1564 -1642): A birth and death over 400 years ago
-
-*2024-05-11 21:12:00* · [`islandlk`](http://island.lk/michelangelo-1475-1564-and-galileo-1564-1642-a-birth-and-death-over-400-years-ago/) · `en`
-
-Even in the midst of many pressing problems, the quarter centenary of the birth of Galileo and the death of Michelangelo cannot be allowed to pass unnoticed. Galileo was born on February 15, 1564; Michelangelo died three days later. Both came from Tuscany in Italy, the cradle of Renaissance art and literature.
-
-...
-
-[Data](articles/bd506c36.json)
-
-[Extended Data](ext_articles/bd506c36.ext.json)
-
----
-
-### India’s opposition jubilant as Modi critic Kejriwal gets bail to campaign in elections
-
-*2024-05-11 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99153/indias-opposition-jubilant-as-modi-critic-kejriwal-gets-bail-to-campaign-in-elections) · `en`
-
-India’s top court gave temporary bail to Delhi Chief Minister Arvind Kejriwal in a graft case on Friday, allowing him to campaign in the ongoing general elections, boosting the opposition alliance of which he is a prominent figure.
-
-The Supreme Court said Kejriwal - a fierce critic of Prime Minister Narendra Modi - would be out on bail until June 1, the last day of the nationwide seven-phase vote, and would have to return to pre-trial detention on June 2.
-
-India began voting on April 19 and elections for more than half of the 543 seats in parliament have now been completed following the third phase of the vote on May 7.
-
-The two areas governed by Kejriwal’s Aam Aadmi Party (AAP) - the National Capital Territory that includes New Delhi, and the northern state of Punjab - go to the polls on May 25 and June 1 respectively.
-
-Votes will be counted on June 4 and results are expected to be announced the same day.
-
-...
-
-[Data](articles/914d3e7b.json)
-
-[Extended Data](ext_articles/914d3e7b.ext.json)
-
----
-
-### Sri Lankan who renewed the Olympic History
-
-*2024-05-11 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196522) · `si`
-
-Targon Selvaraj, a Sri Lankan-born bakery manufacturer in France, made history by carrying the Olympic flame in Paris, the first of Sri Lankan origin to do so. His company, renowned for producing traditional French bread, gained popularity in 2023, leading to this prestigious honor.
-
-🟩
-
-The France's award bakery manufacturer, born in Sri Lanka, has enabled the Targon Selvaraj, who was born in Sri Lanka to carry the flame in the Olympic Games in France.
-
-The flame of the Olympic Games in France was brought to Paris, which contacted 10,000 people.
-
-Tarshan Selvaraj, who was born in Sri Lanka to carry the flame, is his historical, as the first person with the Sri Lankan origin carrying the Olympic flame.
-
-In 2023, he became popular with the best bakery manufacturer of French, which produces the annual traditional bread type of french in France.
-
-With that accomplishments, he had the opportunity to carry the Olympic flame this time.
-
-◼️
-
-[Data](articles/2a3ab574.json)
-
-[Extended Data](ext_articles/2a3ab574.ext.json)
 
 ---

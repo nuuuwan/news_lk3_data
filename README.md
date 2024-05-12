@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 02:18:29**
+As of **2024-05-13 02:33:37**
 
 ## Newspaper Stats
 
-*Scraped **23,569** Articles*
+*Scraped **23,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
-dailyftlk | 1,367
+dailyftlk | 1,369
 adalk | 2,002
 adaderanalk | 2,751
 tamilmirrorlk | 2,760
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,565 (100.0%) of 23,569 articles have been extended.
+23,569 (100.0%) of 23,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Sarva Ameresekere takes baton as Group Chairman of George Steuart & Co.
+
+*2024-05-13 02:18:41* · [`dailyftlk`](https://www.ft.lk/business/Sarva-Ameresekere-takes-baton-as-Group-Chairman-of-George-Steuart-Co/34-761714) · `en`
+
+Sri Lanka’s oldest company fortifies its Board in readiness for a phase of accelerated growth under new stewardship
+
+Sarva Ameresekere has been appointed the Group Chairman of George Steuart & Co. Ltd. (GS&Co), Sri Lanka’s oldest company established in 1835.
+
+The appointment comes as Dilith Jayaweera resigned from the Group Chairmanship and all directorates he held within the Group in January, as Jayaweera’s entrepreneurial journey shifts focus to creating a national level political impact.
+
+...
+
+[Data](articles/e58f95fa.json)
+
+---
+
+### Miraclon selects Sri Lanka’s ALFT Packaging to showcase business and technology evolution
+
+*2024-05-13 02:15:51* · [`dailyftlk`](https://www.ft.lk/business/Miraclon-selects-Sri-Lanka-s-ALFT-Packaging-to-showcase-business-and-technology-evolution/34-761713) · `en`
+
+From left: ALFT COO Tissa Gunaratne, Miraclon Director Andy Yarrow, Miraclon Sales Manager Hrishikesh Kulkarni, and Miraclon CEO Christopher Payne
+
+Miraclon, a global leader in the flexographic printing industry renowned for its cutting-edge plate making and prepress technologies, has chosen ALFT Packaging, Sri Lanka’s sole purpose-built packaging solutions provider, to showcase its business and technological advancements.
+
+Miraclon, with operations across 180 countries and a vast customer base of over 25,000, is a driving force behind the transformation to modern flexography for more than a decade.
+
+...
+
+[Data](articles/cff9ac56.json)
+
+---
 
 ### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
 
@@ -43,6 +75,8 @@ AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunuga
 ...
 
 [Data](articles/d59358c1.json)
+
+[Extended Data](ext_articles/d59358c1.ext.json)
 
 ---
 
@@ -57,6 +91,8 @@ AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunuga
 ...
 
 [Data](articles/65e35b52.json)
+
+[Extended Data](ext_articles/65e35b52.ext.json)
 
 ---
 
@@ -73,6 +109,8 @@ The Company is the manufacturer of renowned automotive batteries, Exide, Lucas a
 ...
 
 [Data](articles/6c8ddffa.json)
+
+[Extended Data](ext_articles/6c8ddffa.ext.json)
 
 ---
 
@@ -735,6 +773,8 @@ The desperation in western capitals is more than palpable. The looming defeat in
 ...
 
 [Data](articles/91230ed1.json)
+
+[Extended Data](ext_articles/91230ed1.ext.json)
 
 ---
 
@@ -2121,49 +2161,5 @@ Following this, the Special Task Force (STF) has handed over the seized car to h
 [Data](articles/0aa90628.json)
 
 [Extended Data](ext_articles/0aa90628.ext.json)
-
----
-
-### Health officials warn of spike in skin-related ailments amidst rising temperatures
-
-*2024-05-12 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99161/health-officials-warn-of-spike-in-skin-related-ailments-amidst-rising-temperatures) · `en`
-
-A significant increase in skin-related diseases is being observed across the island these days, as revealed by Dr. Indira Kahawita, Dermatologist at Colombo National Hospital.
-
-Dr. Kahawita further advised that medical treatment is mandatory for certain skin diseases of this nature.
-
-“Heavy exposure of skin areas not covered with clothing to sunlight can cause itchy spots on the skin. Small children may develop white spots on their faces, especially on the top of the cheeks, slightly below and around the eyes”, she said.
-
-“Fungal infections are also prevalent. Currently, we observe that fungal infections pose a significant concern. Refrain from attempting any home remedies for such infections. Seek immediate medical attention from a qualified doctor”, Dr. Kahawita further advised.
-
-◼️
-
-[Data](articles/57f4936e.json)
-
-[Extended Data](ext_articles/57f4936e.ext.json)
-
----
-
-### 15 arrested for stealing three-wheeler
-
-*2024-05-12 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196535) · `si`
-
-A 15-year-old was arrested in Moratuwa for stealing a three-wheeler and found with drugs. Police recovered stolen items from three houses.
-
-🟩
-
-A 15-year-old boy was arrested by the Egoduyana Police.
-
-He was arrested in Katukurunda, Moratuwa.
-
-The police were able to find 5,200 lit and millions of ice drugs in possession of the three-wheeler driver.
-
-Thereafter, a cassette and two smartphones stolen in three houses in the Soloon police division have been recovered by two smartphones in the area.
-
-◼️
-
-[Data](articles/8b53c3f5.json)
-
-[Extended Data](ext_articles/8b53c3f5.ext.json)
 
 ---

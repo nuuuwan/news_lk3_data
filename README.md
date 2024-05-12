@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 07:22:58**
+As of **2024-05-12 08:08:24**
 
 ## Newspaper Stats
 
-*Scraped **23,389** Articles*
+*Scraped **23,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,275
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
-tamilmirrorlk | 2,735
+tamilmirrorlk | 2,736
 adaderanalk | 2,736
 virakesarilk | 3,476
 dailymirrorlk | 3,679
-adaderanasinhalalk | 3,752
+adaderanasinhalalk | 3,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,380 (100.0%) of 23,389 articles have been extended.
+23,392 (100.0%) of 23,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Extension of vehicle imports from next year
+
+*2024-05-12 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196526) · `si`
+
+State Minister Shehan Semasinghe announced that vehicle imports will resume next year, focusing on commercial needs to boost the economy. Currently, private vehicle imports are limited, but this restriction will be eased in the future. The resumption will be systematic, emphasizing economic development.
+
+🟩
+
+State Minister Shehan Semasinghe says that the import of vehicles will be resumed from next year.
+
+Speaking to the media in Anuradhapura, he said that it is scheduled to be systematically.
+
+"The government has not allowed to import vehicles to a group of people. Elementary vehicles has been granted only for commercial needs and only to those who have a commercial procedure to contribute to the economy, but only those who are so far from the commercial procedure. This limitation is only imported for private use regarding imports today. Then that limit will be loose in the future. It will be loose when next year. But the opening should also be a certain order. "
+
+He further said that there is no alternative other alternative other than the economic program in the country.
+
+◼️
+
+[Data](articles/7b02a9d9.json)
+
+[Extended Data](ext_articles/7b02a9d9.ext.json)
+
+---
+
+### Showers over 100mm
+
+*2024-05-12 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196525) · `si`
+
+Heavy showers exceeding 100mm are expected in parts of Badulla, Galle, Matara, and provinces including Western, Sabaragamuwa, Central, and Eastern. The Department of Meteorology warns of potential thundershowers and advises caution against lightning and wind accidents.
+
+🟩
+
+Some locations in the Badulla, Galle and Matara districts, Western, Sabaragamuwa, Central and Eastern Provinces.. Heavy showers that have more than 100 can occur.
+
+The department states that in many parts of the island today (12). Showers or thundershowers will occur at several places about 2.00.
+
+Showers will occur at several places in the Western and Southern provinces.
+
+The Department of Meteorology announces that some locations could last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/53eddebc.json)
+
+[Extended Data](ext_articles/53eddebc.ext.json)
+
+---
 
 ### Culture Shock in Iraq
 
@@ -73,6 +123,28 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 [Data](articles/bef932f7.json)
 
 [Extended Data](ext_articles/bef932f7.ext.json)
+
+---
+
+### US Representative comes to Sri Lanka
+
+*2024-05-12 01:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-வருகிறார்/175-337145) · `ta`
+
+Donald Lu, US Assistant Secretary of State, will visit India, Sri Lanka, and Bangladesh next week. The focus will be on US aid to revive Sri Lanka's economy.
+
+🟩
+
+US Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, will visit the country next week.
+
+He plans to visit India, Sri Lanka and Bangladesh until the 15th.
+
+The US State Department said that a detailed discussion will be held on the US assistance to restore the Sri Lankan economy during the visit.. (A)
+
+◼️
+
+[Data](articles/1758c115.json)
+
+[Extended Data](ext_articles/1758c115.ext.json)
 
 ---
 
@@ -246,6 +318,8 @@ Against this backdrop, it makes very little sense to continue defending a countr
 
 [Data](articles/3ec3874a.json)
 
+[Extended Data](ext_articles/3ec3874a.ext.json)
+
 ---
 
 ### Michelangelo (1475-1564) and Galileo (1564 -1642): A birth and death over 400 years ago
@@ -257,6 +331,8 @@ Even in the midst of many pressing problems, the quarter centenary of the birth 
 ...
 
 [Data](articles/bd506c36.json)
+
+[Extended Data](ext_articles/bd506c36.ext.json)
 
 ---
 
@@ -318,6 +394,8 @@ Dr SinhaRaja Tammita-Delgoda’s new art history book, “George Keyt – The Ab
 
 [Data](articles/c7d5ec18.json)
 
+[Extended Data](ext_articles/c7d5ec18.ext.json)
+
 ---
 
 ### SLTB bus topples
@@ -351,6 +429,8 @@ Our jackal is the only island subspecies of the Eurasian Golden Jackal across it
 ...
 
 [Data](articles/2ea91ff6.json)
+
+[Extended Data](ext_articles/2ea91ff6.ext.json)
 
 ---
 
@@ -506,6 +586,8 @@ Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoure
 
 [Data](articles/328a7408.json)
 
+[Extended Data](ext_articles/328a7408.ext.json)
+
 ---
 
 ### IASL introduces office bearers for the 2024/25 tenure
@@ -517,6 +599,8 @@ The Insurance Association of Sri Lanka (IASL) the representative body of the ins
 ...
 
 [Data](articles/2d185b67.json)
+
+[Extended Data](ext_articles/2d185b67.ext.json)
 
 ---
 
@@ -534,6 +618,8 @@ Focusing on facilitating the transition to Industry 4.0 for enterprises, this co
 
 [Data](articles/e987d5d9.json)
 
+[Extended Data](ext_articles/e987d5d9.ext.json)
+
 ---
 
 ### DTH Travel Maldives seals title of “Indian Ocean’s Leading DMC”
@@ -547,6 +633,8 @@ Suranjith De Fonseka, Managing Director of DTH Travel Sri Lanka and Maldives sta
 ...
 
 [Data](articles/22ca844c.json)
+
+[Extended Data](ext_articles/22ca844c.ext.json)
 
 ---
 
@@ -563,6 +651,8 @@ With all the rides and other attractions paid for and refreshments provided, the
 ...
 
 [Data](articles/11e56c8a.json)
+
+[Extended Data](ext_articles/11e56c8a.ext.json)
 
 ---
 
@@ -2189,77 +2279,5 @@ Sri Lanka’s imports and the merchandise trade deficit has gradually picked as 
 [Data](articles/3e65e038.json)
 
 [Extended Data](ext_articles/3e65e038.ext.json)
-
----
-
-### Meeting between Central Bank Governor and US Ambassador
-
-*2024-05-11 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196495) · `si`
-
-Dr. Nandalal Weerasinghe, Central Bank Governor, met with US Ambassador Julie Chang at the American Embassy. Julie Chang emphasized the US's support for Sri Lanka's economic development.
-
-🟩
-
-Dr. Nandalal Weerasinghe, Central Bank of Dr. Nandalal Weerasinghe and the US Ambassador to Sri Lanka Julie Chang.
-
-The meeting was reported yesterday at the American Embassy yesterday (10).
-
-The US Ambassador has said that a note on the center of X clubs.
-
-Julie Chang, said that the United States continued to support the building of a strong economy in Sri Lanka.
-
-◼️
-
-[Data](articles/2d7ff772.json)
-
-[Extended Data](ext_articles/2d7ff772.ext.json)
-
----
-
-### Heavy rains into several provinces
-
-*2024-05-11 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196494) · `si`
-
-Heavy rains and thunderstorms are expected across several provinces, with warnings for strong winds and lightning. Warm weather conditions are also forecasted for the Northern and North Central Provinces, with a focus on Trincomalee and Batticaloa Districts.
-
-🟩
-
-In most parts of the island. Showers or thundershowers will occur at several places, about 2.00.
-
-In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle and Matara districts. There may be heavy showers over 100.
-
-Showers will occur at several places in the Southern Province.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-Meanwhile, the Department of Meteorology has issued a warning about warm weather conditions today (11).
-
-The announcement is effective for the Northern and North Central Province and Trincomalee and Batticaloa Districts.
-
-Accordingly, the warm indicator of the above areas is expected to be "focused" at a 'focus'.
-
-Therefore, the Meteorology Department announces the people living in the above areas.
-
-◼️
-
-[Data](articles/3033378a.json)
-
-[Extended Data](ext_articles/3033378a.ext.json)
-
----
-
-### Diana under immigration radar for overstaying visa since 2014
-
-*2024-05-11 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-under-immigration-radar-for-overstaying-visa-since-2014/108-282342) · `en`
-
-Colombo, May 10 (Daily Mirror) -  In the wake of UK citizenship holding Diana Gamage losing her parliamentary seat following a ruling by the Supreme Court, the immigration authorities are planning to consult the Attorney General to inquire into how she lived in Sri Lanka without a valid visa since she last arrived in the country on a tourist visa since around 2014, an official said.
-
-She lost her parliamentary seat on the grounds that she is a UK citizen. The Supreme Court observed that the evidence before the Court establishes that Diana Gamage ceased to be a citizen of Sri Lanka upon acquiring British citizenship and failed to resume the status of citizen of Sri Lanka according to law. She is thereby disqualified to be an MP by the Constitution.
-
-...
-
-[Data](articles/46aa8c6d.json)
-
-[Extended Data](ext_articles/46aa8c6d.ext.json)
 
 ---

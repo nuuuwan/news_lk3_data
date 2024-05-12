@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 08:34:07**
+As of **2024-05-12 08:52:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,398 (100.0%) of 23,400 articles have been extended.
+23,400 (100.0%) of 23,400 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1619,6 +1619,8 @@ Amendments to Telecommunications Regulatory Act will be presented in parliament 
 ...
 
 [Data](articles/12b1caca.json)
+
+[Extended Data](ext_articles/12b1caca.ext.json)
 
 ---
 

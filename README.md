@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 10:51:53**
+As of **2024-05-12 11:03:32**
 
 ## Newspaper Stats
 
-*Scraped **23,413** Articles*
+*Scraped **23,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,983
 adaderanalk | 2,739
-tamilmirrorlk | 2,741
+tamilmirrorlk | 2,742
 virakesarilk | 3,476
 dailymirrorlk | 3,681
 adaderanasinhalalk | 3,757
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,410 (100.0%) of 23,413 articles have been extended.
+23,413 (100.0%) of 23,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### கப்பல் சேவை மீண்டும் ​ஆரம்பம்
+
+*2024-05-12 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-337152) · `ta`
+
+இந்தியாவின் நாகையில் பகுதியிலிருந்து  இலங்கை காங்கேசன்துறைக்கு கடந்த ஆண்டு (2023) ஒக்டோபர் மாதம் 14ஆம் திகதி முதல் கேரள மாநிலம் கொச்சியை சேர்ந்த 'செரியாபாணி' என்ற பயணிகள் கப்பல் இயக்கப்பட்டது.
+
+வடகிழக்கு பருவமழை காரணமாக ஒக்டோபர் மாதம் 23ஆம்  திகதியுடன் பயணிகள் கப்பல் போக்குவரத்து நிறுத்தப்பட்டது.
+
+இந்த நிலையில்,  நாகையில் இருந்து இலங்கைக்கு மீண்டும் பயணிகள் கப்பல் போக்குவரத்து ஆரம்பிக்கப்படவுள்ளதாக கடந்த ஜனவரி மாதம் தகவல்கள் வெளியாகின.
+
+​மேலும், முன்னதாக இயக்கப்பட்ட 'செரியாபாணி' கப்பலுக்கு மாற்றாக 'சிவகங்கை' என்ற பெயர் கொண்ட மற்றொரு பயணிகள் கப்பல் நாகை-இலங்கை இடையே கடல் பயணத்தை ஆரம்பிக்கள்ளதாக சமீபத்தில் தகவல் வெளியானது.
+
+இதனிடையே நாகையில் இருந்து இலங்கை காங்கேசன்துறைக்கு 'சிவகங்கை' பயணிகள் கப்பல் மே மாதம் 13ஆம் திகதி முதல் இயக்கப்படும் என கப்பலை இயக்கும் தனியார் நிறுவனம் அதிகாரபூர்வமாக அறிவித்தது.
+
+இதற்கமைய, நாகை-இலங்கை இடையை இயக்கப்படும் சிவகங்கை கப்பல் அந்தமானில் தயாராகி வந்தது. அந்த கப்பல் வெள்ளிக்கிழமை (10) சென்னை துறைமுகம் வந்தடைந்துள்ளது.
+
+...
+
+[Data](articles/ce810c57.json)
+
+---
 
 ### Restrictions on vehicle imports to be relaxed by next year – Semasinghe
 
@@ -45,6 +67,8 @@ Speaking to the media in the Anuradhapura area, Semasinghe asserted that present
 ...
 
 [Data](articles/7658c4d0.json)
+
+[Extended Data](ext_articles/7658c4d0.ext.json)
 
 ---
 
@@ -101,6 +125,8 @@ High grown BOPs went up about 30 rupees a kilo while BOPFs were up 50 rupees. BP
 ◼️
 
 [Data](articles/a5aede12.json)
+
+[Extended Data](ext_articles/a5aede12.ext.json)
 
 ---
 
@@ -421,6 +447,8 @@ Inside the Port City, Sri Lanka’s bank cannot destroy the future value of mone
 ...
 
 [Data](articles/44e39de1.json)
+
+[Extended Data](ext_articles/44e39de1.ext.json)
 
 ---
 
@@ -2233,35 +2261,5 @@ Earlier, Arvind Kejriwal had called for bail to be granted bail in the Lok Sabha
 [Data](articles/33995d4c.json)
 
 [Extended Data](ext_articles/33995d4c.ext.json)
-
----
-
-### A wedding house is a funeral
-
-*2024-05-11 10:32:37* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409557) · `si`
-
-A tragic accident occurred on a dangerous night, involving a cab carrying wedding guests and multiple lorries, resulting in the death of a 44-year-old woman from Habarana Hiriwadunna. The accident, which happened during a wedding party, is under investigation by the Sigiriya Police.
-
-🟩
-
-A cab carrying a group of people who were returning home from a wedding and a lorry, a lorry and a lorry was killed in a danger night, police said.
-
-The deceased has been identified as a 44-year-old woman from Habarana Hiriwadunna, Habarana.
-
-Sigiriya police say that the accident had been traveled to the Hiriwaduna to face yogurt in Inamaluwa, Dambulla..
-
-Sigiriya police say that the accident had been the accident that the accident had occurred at the wedding party.
-
-A few hours before the death of Ms. Handyadu Kumari, the wedding party pointed out that the wedding party has also appeared with a group of crowd.
-
-The cab and the lorry had taken to Sigiriya police to the Sigiriya Police by this time.Many of the victims have been injured in the area, he said.
-
-The post mortem examination is scheduled to be held at the Dambulla Base Hospital on 11. Sigiriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/79a1af16.json)
-
-[Extended Data](ext_articles/79a1af16.ext.json)
 
 ---

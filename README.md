@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 16:33:46**
+As of **2024-05-12 16:49:37**
 
 ## Newspaper Stats
 
-*Scraped **23,487** Articles*
+*Scraped **23,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,992
 adaderanalk | 2,746
-tamilmirrorlk | 2,758
-virakesarilk | 3,491
+tamilmirrorlk | 2,759
+virakesarilk | 3,495
 dailymirrorlk | 3,692
 adaderanasinhalalk | 3,767
 
@@ -26,25 +26,99 @@ adaderanasinhalalk | 3,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,479 (100.0%) of 23,487 articles have been extended.
+23,487 (100.0%) of 23,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளரை களமிறக்கும் யோசனை முன்வைக்கப்பட்டிருப்பது ஏன்? - சிறீதரனிடம் கேட்டறிந்தார் இந்திய உயர்ஸ்தானிகர்
+### இந்தியப் பிரதமர் மோடியின் சர்ச்சையை கிளப்பிய பேச்சு
+
+*2024-05-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183318) · `ta`
+
+"நான் உண்மையை பேசியதால் காங்கிரஸ் உள்ளிட்ட எதிர்க்கட்சிகள் கொந்தளிக்கின்றன. காங்கிரஸ் கூறியதை தானே நான் கூறினேன். உண்மை வெளிவந்துவிட்டதே என்று அவர்கள் பதற்றம் அடைந்துவிட்டார்களோ? உண்மையை கண்டு ஏன் பயப்படுகிறீர்கள்?" - நரேந்திர மோடி
+
+◼️
+
+[Data](articles/97c39ab6.json)
+
+---
+
+### கடத்தப்பட வேண்டிய நினைவேந்தல்
+
+*2024-05-12 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183320) · `ta`
+
+“தமிழர்களின் மீது நிகழ்த்தப்பட்ட இன அழிப்பின் சாட்சியங்கள் ஏராளமாக இருந்தபோதும், அதனை சர்வதேசத்தின் கவனத்துக்குக் கொண்டு சென்றபோதும்,  இந்தப் பதினைந்து வருடங்களில் தமிழ் மக்களுக்கு நீதி கிடைக்கவில்லை. நிம்மதியான வாழ்வும் கிட்டவில்லை”
+
+◼️
+
+[Data](articles/77bc735f.json)
+
+---
+
+### பிடிகொடுக்காத ஜப்பான்
+
+*2024-05-12 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183332) · `ta`
+
+இலங்கையுடன் நெருங்கிய நட்புறவையும் அபிவிருத்தி பங்காண்மையையும் கொண்டிருந்த ஜப்பான், போர்க்காலத்தில் அமைதியை ஏற்படுத்துவதற்கான முயற்சிகளுக்கும் பங்களிப்பு செய்திருக்கிறது.
+
+விடுதலைப் புலிகளுடன், ரணில் விக்கிரமசிங்க அரசாங்கத்தின், ஆறாவது கட்டப் பேச்சுகள் ஜப்பானின் ஹகூன் (Hakone) நகரிலேயே இடம் பெற்றிருந்தன.
+
+அதுபோலவே இலங்கையில்  அமைதியை ஏற்படுத்துவதற்கும், அபிவிருத்தியை ஏற்படுத்துவதற்கும் உதவிகளை வழங்கும் பொருட்டு, இலங்கைக்கான விசேட தூதுவராக ஜப்பான் தமது மூத்த இராஜதந்திரியான யசூஷி அகாஷியையும் நியமித்திருந்தது.
+
+◼️
+
+[Data](articles/7cd845c1.json)
+
+---
+
+### க​ரட் துண்டு இறுகி குழந்தை மரணம்
+
+*2024-05-12 16:26:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க-ரட்-துண்டு-இறுகி-குழந்தை-மரணம்/175-337182) · `ta`
+
+19 மாத பெண் குழந்தையொன்றின் தொண்டையில் கரட் துண்டொன்று சிக்கியதில், அக்குழந்தை உயிரிழந்துள்ளதாக அனுராதபுரம் சாலியவெவ பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 11ஆம் திகதி மாலை வீட்டில் இருந்த போது இவ்விபத்து இடம்பெற்றுள்ளது. உடனடியாக நடவடிக்கை எடுத்த பெற்றோர், குழந்தையை 1990 அம்புலன்ஸ் சேவையின் ஊடாக நொச்சியாகம மாவட்ட வைத்தியசாலைக்கு கொண்டு சென்றுள்ளனர்.
+
+நொச்சியாகம மாவட்ட வைத்தியசாலையில் இருந்து அநுராதபுரம் போதனா வைத்தியசாலைக்கு குழந்தையை உடனடியாக அனுப்ப நடவடிக்கை எடுக்கப்பட்டதாகவும், ஆனால் வைத்தியசாலையில் அனுமதிக்கும் போதே குழந்தை உயிரிழந்துள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8add4fcd.json)
+
+---
+
+### பொது வேட்பாளரும் தமிழரசுக் கட்சியும்
+
+*2024-05-12 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183310) · `ta`
+
+“தமிழ் பொது வேட்பாளர் விடயத்தில் தமிழரசுக் கட்சி இணக்கத்தை வெளிப்படுத்துவதாக இருந்தால் முன்வைக்கும் நிபந்தனைகள் அதன் இழந்த செல்வாக்கை மீட்டெடுப்பதையும் அரசியல் ஆதிக்கம் செலுத்துவதையும் மையப்படுத்தியதாகவே இருக்கும்”
+
+◼️
+
+[Data](articles/e41fc163.json)
+
+---
+
+### Why is the idea of fielding a Tamil general candidate in the presidential election?- Indian High Commissioner
 
 *2024-05-12 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183303) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழர்கள் சார்பில் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவது பற்றியும், இத்தேர்தலில் வாக்களிப்பது குறித்து தமிழ் மக்கள் எவ்வாறான மனநிலையில் இருக்கின்றார்கள்? அவர்கள் யாருக்கு வாக்களிப்பார்கள் என்பது பற்றியும் இலங்கை தமிழ் அரசுக் கட்சியின் தலைவர் எஸ். சிறீதரனிடம்  இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா கேட்டறிந்துள்ளார்.
+The Indian High Commissioner to Sri Lanka, Santosh Ja, discussed the idea of fielding a Tamil general candidate in the upcoming presidential election with S. Sridharan, leader of the Sri Lanka Tamil State Party. Sridharan emphasized the need for a federal solution with internal self-determination for Tamils, highlighting issues like land seizures and the construction of Buddhist idols in Tamil areas. The mood among Tamils is one of seeking a fair resolution to their political issues, with the election seen as an opportunity to address these concerns.
 
-இலங்கைத் தமிழரசுக் கட்சித் தலைவரும், பாராளுமன்ற உறுப்பினருமான எஸ்.சிறீதரனுக்கும், இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கும் இடையிலான சந்திப்பொன்று கடந்த வியாழக்கிழமை கொழும்பிலுள்ள இந்திய இல்லத்தில் நடைபெற்றது.
+🟩
 
-இச்சந்திப்பின்போது எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழர்கள் சார்பில் தமிழ் பொது வேட்பாளர் ஒருவரைக் களமிறக்குவதற்கு யோசனை முன்வைக்கப்பட்டிருப்பது பற்றியும், இத்தேர்தலில் வாக்களிப்பது குறித்து தமிழர்கள் எவ்வாறான மனநிலையில் இருக்கிறார்கள்? அவர்கள் யாருக்கு வாக்களிப்பார்கள்? என்பது பற்றியும் உயர்ஸ்தானிகர் சந்தோஷ் ஜா சிறிதரனிடம் கேள்வி எழுப்பினார்.
+What kind of mood is the Tamil people in the upcoming presidential election on behalf of Tamils on behalf of Tamils and voting in this election?The leader of the Sri Lanka Tamil State Party. Indian High Commissioner to Sri Lanka Santosh Ja has asked Sreedharan.
+
+A meeting between Sri Lanka's Tamil National Alliance (TNA) leader and parliamentarian S. Sridharan and Indian High Commissioner to Sri Lanka Santosh Jaw were held at the Indian residence in Colombo last Thursday.
+
+What is the mood of the Tamils in the upcoming presidential election that the Tamil general candidate has been proposed to field a Tamil general candidate on behalf of the Tamils and voting in this election?To whom will they vote?The High Commissioner Santosh Ja questioned the Sridharan.
 
 ...
 
 [Data](articles/8a038935.json)
+
+[Extended Data](ext_articles/8a038935.ext.json)
 
 ---
 
@@ -64,31 +138,47 @@ Furthermore, MP Withanage stated that the Commissioner General assured him that 
 
 [Data](articles/9b7109ab.json)
 
+[Extended Data](ext_articles/9b7109ab.ext.json)
+
 ---
 
-### டயனா கமகேவுக்கு எதிரான தீர்ப்பு : தப்பிப் பிழைத்த ஐக்கிய மக்கள் சக்தி
+### Judgment against Diana Kamage: United People's Power
 
 *2024-05-12 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183328) · `ta`
 
-பாராளுமன்றத்தில் தனக்கு சந்தர்ப்பம் கிடைக்கும் போதெல்லாம்  நாட்டில் கஞ்சா வளர்ப்பைச் சட்டபூர்வமாக்க வேண்டும், கஞ்சாவை ஏற்றுமதி செய்ய வேண்டும், பாலியல் தொழிலை சட்டபூர்வமாக்க வேண்டும் அதன் மூலம் நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தலாம் எனப்பேசி வந்த சுற்றுலாத்துறை இராஜாங்க அமைச்சர்  டயனா கமகே உயர்  நீதிமன்ற தீர்ப்பின் பிரகாரம் தனது எம்.பி அந்தஸ்த்தை இழந்துள்ளார்.
+Diana Kamage, a former Sri Lankan MP and Tourism Minister, lost her parliamentary status due to a High Court ruling on cannabis farming and sex industry legalization. She failed to maintain her Sri Lankan citizenship after acquiring British citizenship, leading to a Supreme Court ruling that she could not serve as an MP. Kamage was sentenced to six months in prison for fraudulently obtaining a Sri Lankan national identity card. The controversy over her citizenship and political affiliations, including her time with the United People's Power and subsequent support for the General Jana Peramuna, led to her downfall. Despite legal challenges and party controversies, Kamage remains hopeful of returning to politics.
 
-பிரித்தானிய குடியுரிமையைப் பெற்றதன் பின்னர் டயனா, இலங்கை பிரஜை என்ற அந்தஸ்த்தோடு அதைத் தொடர்வதற்கு சட்டரீதியாக தவறிவிட்டார். இலங்கைப் பிரஜையாக இல்லாத காரணத்தினால் அவர் பாராளுமன்ற உறுப்பினராக பதவி வகிக்க முடியாது என்ற சாட்சியங்களின் உறுதிப்படுத்தலில் உயர்நீதிமன்றம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+🟩
+
+Tourism Minister Diana Kamage has lost his MP's status as per the High Court ruling, which has been asked to legalize cannabis farming in the country whenever he has the opportunity, to export cannabis and legalize the sex industry.
+
+After giving British citizenship, Diana failed to continue with the status of Sri Lankan citizen. The Supreme Court has issued this ruling in the confirmation of evidence that he cannot be a Member of Parliament because he is not a Sri Lankan citizen.
+
+It is not to say that he lost his post and escaped the clutches of the law. He has to be sentenced to six months in prison, with his British citizen's status and the crime of obtaining a national identity card called Sri Lanka Citizens and Fake information to the Immigration and Immigration Controller through fake documents.
 
 ...
 
 [Data](articles/e209a5e8.json)
 
+[Extended Data](ext_articles/e209a5e8.ext.json)
+
 ---
 
-### சீன உறவை துண்டிக்கும் திட்டம்
+### Plan to disconnect Chinese relationship
 
 *2024-05-12 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183330) · `ta`
 
-Note: “சமுத்திரவியல் ஆய்வுக்காக இலங்கை,  சீனாவை நம்பியிருக்காத நிலையை உருவாக்க ஜப்பான் முற்படுகிறது என்றால், அது அத்துறையில் இருநாடுகளுக்கும் இடையில் உள்ள கூட்டை வெட்டி விடுவதற்கு போட்டுள்ள திட்டம் தான் “
+Japan aims to sever ties between Sri Lanka and China, aiming for a state of "unreconciliation" in the Indian Ocean region.
+
+🟩
+
+Note: "If Japan seeks to create a state of unreitionalism of Sri Lanka and China for the oceans, it is the plan to cut the nest between the two countries."
 
 ◼️
 
 [Data](articles/93f1731d.json)
+
+[Extended Data](ext_articles/93f1731d.ext.json)
 
 ---
 
@@ -308,21 +398,29 @@ President Ranil Wickremesinghe made this statement during his attendance at the 
 
 ---
 
-### காசாவில் இடிபாடுகளிற்கு இடையில் மீட்க முடியாத நிலையில் பத்தாயிரத்திற்கும் மேற்பட்ட உடல்கள்
+### More than ten thousand bodies in the absence of wreckage in Gaza
 
 *2024-05-12 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183313) · `ta`
 
-காசாவில் இஸ்ரேலின் தாக்குதலால் தகர்க்கப்பட்ட கட்டிடங்களின் இடிபாடுகளின் கீழ் பத்தாயிரத்திற்கும் மேற்பட்ட உடல்கள் உள்ளன என காசாவின் சிவில் பாதுகாப்பு பிரிவினர் தெரிவித்துள்ளனர்.
+Gaza's Civil Security Division reports over 10,000 bodies from Israel's attacks, with no wreckage found. Mahmood Basal, a Hamas spokesman, calls for UN and humanitarian aid to support rescue efforts. Bodies of Israeli soldiers are still being recovered from the Alciba Hospital, 40 days after the attack.
 
-கடந்த பல மாதங்களாக நாங்கள் மிகச்சாதாரணமான இயந்திரங்களை பயன்படுத்தி இடிபாடுகளை அகற்றுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளோம் இதனால் எங்கள் முயற்சியும் நேரமும் வீணாகியுள்ளது  என ஹமாசின் சிவில் பாதுகாப்பு பிரிவின் பேச்சாளர் மஹ்மூத் பசால் தெரிவித்துள்ளார்.
+🟩
 
-இஸ்ரேல் ஒரு குறிப்பிட்ட பகுதியில் தாக்குதலை மேற்கொண்டதும் மருத்துபிரிவினரும் காசாவின்  சிவில் பாதுகாப்பு பிரிவினருமே முதலில் அங்கு செல்கின்றனர்.
+Gaza's Civil Security Division has said that there are more than ten thousand bodies under the wreckage of Israel's attacks in Gaza.
 
-இடிபாடுகளிற்குள் சிக்குப்படுபவர்களை மீட்பதற்கு அவசியமான இயந்திரங்களை காசாவிற்குள் கொண்டுவருவதற்கான முயற்சிகளுக்கு ஐநாவும் மனிதாபிமான அமைப்புகளும் ஆதரவளிக்கவேண்டும் என என ஹமாசின் சிவில் பாதுகாப்பு பிரிவின் பேச்சாளர் மஹ்மூத் பசால் தெரிவித்துள்ளார்.
+"We have been using the most common machinery for the past several months," said Mahmood Basal, a spokesman for the Hamasin Civil Security Division.
 
-...
+When Israel carried out an attack in a particular area, the medical division and the Civil Security Division of Gaza first go there.
+
+Hamasin Civil Security Division spokesman Mahmood Basal said that the UN and humanitarian organizations should support efforts to bring the machines that are needed to rescue those who are in ruins.
+
+40 days after the Israeli soldiers have been away from the Alciba Hospital, we are still recovering the bodies of Israeli soldiers buried inside the hospital.
+
+◼️
 
 [Data](articles/235cf48d.json)
+
+[Extended Data](ext_articles/235cf48d.ext.json)
 
 ---
 
@@ -364,17 +462,23 @@ Former President Maithripala Sirisena has resigned from the Chairman of the Sri 
 
 ---
 
-### 1440 போதை மாத்திரைகளை காரில் கடத்திச் சென்றவர் மட்டக்களப்பில் கைது
+### Arrested in Batticaloa
 
 *2024-05-12 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183287) · `ta`
 
-ஓட்டமாவடியில் இருந்து மட்டக்களப்புக்கு கார் ஒன்றில் போதை மாத்திரைகளை கடத்திச் சென்ற நபரொருவரை மட்டக்களப்பு ரயில்வே வீதியில் வைத்து நேற்று சனிக்கிழமை (11) மாலை விசேட அதிரடிப்படையினர் கைது செய்ததுடன், அவரிடமிருந்து 1440 மாத்திரைகளையும் கடத்தலுக்கு பயன்படுத்திய காரையும் கைப்பற்றியுள்ளதாக மட்டக்களப்பு பொலிஸார் தெரிவித்தனர்.மட்டக்களப்பு கடற்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலையடுத்து, விசேட  அதிரடிப்படையினர் மற்றும் கடற்படை புலனாய்வு பிரிவினர் இணைந்து நேற்று மாலை 6 மணியளவில் மட்டக்களப்பு ரயில்வே குறுக்கு வீதியில் கண்காணிப்பில் ஈடுபட்டுள்ளனர். அவ்வேள‍ை வீதியில் பயணித்த இந்த காரை நிறுத்தி சோதனையிட்டபோதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+A drug smuggler was arrested in Batticaloa by the Special Task Force, seizing 1440 pills. The suspect was caught at the Batticaloa Railway Road, and the car used in the smuggling was handed over to him. Steps are underway to bring the detainee to court.
 
-அதை தொடர்ந்து, கைப்பற்றப்பட்ட காரை தம்மிடம் விசேட அதிரடிப்படையினர் ஒப்படைத்துள்ளதாகவும் கைதான நபரை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
+
+The Batticaloa Police said that a person who smuggled drug pills from Ottamavadi to Batticaloa was arrested by the Special Task Force on Saturday evening at the Batticaloa Railway Road and seized 1440 pills from him.They are under surveillance at the Batticaloa Railway Cross Road at 6 pm yesterday.The suspect was arrested while the car was parked on the road.
+
+Following this, the Special Task Force (STF) has handed over the seized car to him and steps are being taken to bring the detainee to the court.
 
 ◼️
 
 [Data](articles/0aa90628.json)
+
+[Extended Data](ext_articles/0aa90628.ext.json)
 
 ---
 
@@ -500,15 +604,23 @@ Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Mi
 
 ---
 
-### யுத்தத்தை நடத்திய அரசாங்கங்களே பொறுப்புக்கூறலை தாமதிக்கின்றன : தமிழ் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள்
+### The war -torn governments delay accountability: representatives of Tamil national political parties
 
 *2024-05-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183301) · `ta`
 
-யுத்தத்தை நடாத்திய அரசாங்கங்களே இப்போது பொறுப்புக்கூறலைத் தாமதப்படுத்திவருகின்றன. எனவே எதிர்வரும் ஜனாதிபதித் தேர்தலை பேரம் பேசுவதற்கான தளமாக தமிழர்கள் பயன்படுத்திக்கொள்ளவேண்டும். அதேபோன்று பிளவுபட்டிருக்கும் தமிழ் அரசியல் கட்சிகளைத் தமக்கு ஏற்றாற்போல் கையாள்வது சிங்கள பேரினவாத கட்சிகளுக்கு இலகுவான விடயமாக மாறிவரும் நிலையில், இனியேனும் தமிழ் மக்களின் நலன் கருதி தமிழ்த் தேசிய அரசியல் கட்சிகள் ஒன்றுபடவேண்டும் என அக்கட்சிகளின் பிரதிநிதிகள் வலியுறுத்தியுள்ளனர்.
+Tamil political parties urge unity to leverage the upcoming presidential election for bargaining, highlighting the need for a political solution and accountability for war crimes. The end of the war in 2009 has not resolved Tamil demands for self-determination, with allegations of war crimes pending. Leaders call for a common Tamil candidate in the election, criticizing Sinhala governments for failing to address Tamil issues.
+
+🟩
+
+Governments that waged war are now delaying accountability. Therefore, Tamils should take advantage of the upcoming presidential election as a base for bargaining. Similarly, the representatives of the Tamil National Political Parties have urged the Tamil national political parties to unite in the interest of the Tamil people, as it is an easy task for the Sinhala chauvinist parties.
+
+The war between the state forces and the Liberation Tigers of Tamil Eelam (LTTE) has ended on May 18, 2009, with 15 years of 15 years (18).. However, the alleged war crimes that have taken place during the war and the worst violations against humanity are yet to be confirmed.. The factors that are the basis of the war are being identified and fully eliminated, and the long -standing demand of the Tamils, the self -determination of self -determination, has not yet been provided.
 
 ...
 
 [Data](articles/60045b12.json)
+
+[Extended Data](ext_articles/60045b12.ext.json)
 
 ---
 
@@ -570,19 +682,29 @@ The incident took place on Sunday (12) that nine people, including driver and co
 
 ---
 
-### வியாழனன்று இலங்கை வருகிறார் சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் - முள்ளிவாய்க்கால் நினைவேந்தலில் பங்கேற்பார்
+### Amnesty International Secretary General - Mullivaikkal will participate in Sri Lanka on Thursday
 
 *2024-05-12 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183307) · `ta`
 
-மூன்று தசாப்த கால யுத்தம் முடிவுக்குக் கொண்டுவரப்பட்டு 15 வருடங்கள் கடந்திருக்கும் நிலையில், இவ்வாரம் இலங்கைக்கு வருகைதரவுள்ள சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் எதிர்வரும் 18ஆம் திகதி முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்விலும் கலந்துகொள்ளவுள்ளார்.
+Amnesty International's Secretary General will visit Sri Lanka on Thursday to attend the Mullivaikkal memorial, marking 15 years since the end of the war. The visit aims to highlight the need for truth, justice, and accountability for alleged war crimes and human rights abuses. The Secretary General, based in London, will meet with activists and journalists, and hold secret meetings, emphasizing the ongoing importance of addressing the country's human rights situation.
 
-யுத்தத்தின்போது இடம்பெற்றதாகக் கூறப்படும் போர்க்குற்றங்கள், மனித உரிமை மீறல்கள் மற்றும் மனிதகுலத்துக்கு எதிரான வன்முறைகள் என்பன தொடர்பில் உண்மை, நீதி மற்றும் பொறுப்புக்கூறல் என்பன உறுதிப்படுத்தப்பட வேண்டும் என சர்வதேச மன்னிப்புச் சபை தொடர்ச்சியாக வலியுறுத்தி வருவதுடன், சர்வதேச அரங்கில் இலங்கை மீதான அழுத்தங்களையும் பிரயோகித்துவருகிறது.
+🟩
 
-அந்த வகையில் யுத்த முடிவின் 15 வருடப் பூர்த்தியையொட்டி லண்டனைத் தளமாகக்கொண்டு இயங்கிவரும் சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் எதிர்வரும் வியாழக்கிழமை (16) இலங்கைக்கு வருகைதரவுள்ளார். அன்றைய தினம் சர்வதேச மன்னிப்புச் சபையில் கொழும்பு அலுவலக செயற்பாட்டாளர்களைச் சந்தித்துப் பேசவிருக்கும் அவர், வெள்ளிக்கிழமை (17) முள்ளிவாய்க்காலுக்கு விஜயம் மேற்கொள்ளவுள்ளார்.
+With the end of the three decades of war, 15 years after the end of the war, Mullivaikkal will attend the Mullivaikkal memorial on the 18th of this month.
+
+The Amnesty International has repeatedly urged the International International to ensure truth, justice and accountability in relation to alleged war crimes, human rights violence and violence against humanity.
+
+The Secretary General of the Amnesty International, who is working on the London base on the 15th anniversary of the war, will visit Sri Lanka on Thursday (16).. He will meet with Colombo office activists at the International International that day and will visit Mullivaikkal on Friday (17).
+
+Agnes Kalamart, who intends to hold some major secret meetings there, will also attend the Mullivaikkal memorial event on Saturday (18) to commemorate the victims of the war.
+
+He will then meet with journalists in Colombo on the 20th and will share his observations of the country's contemporary human rights situation.
 
 ...
 
 [Data](articles/3f954325.json)
+
+[Extended Data](ext_articles/3f954325.ext.json)
 
 ---
 
@@ -2095,123 +2217,5 @@ The Bill is aimed at implementing the National Policy on Gender Equality and Wom
 [Data](articles/bcb5fdd2.json)
 
 [Extended Data](ext_articles/bcb5fdd2.ext.json)
-
----
-
-### US Representative comes to Sri Lanka
-
-*2024-05-12 01:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-வருகிறார்/175-337145) · `ta`
-
-Donald Lu, US Assistant Secretary of State, will visit India, Sri Lanka, and Bangladesh next week. The focus will be on US aid to revive Sri Lanka's economy.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, will visit the country next week.
-
-He plans to visit India, Sri Lanka and Bangladesh until the 15th.
-
-The US State Department said that a detailed discussion will be held on the US assistance to restore the Sri Lankan economy during the visit.. (A)
-
-◼️
-
-[Data](articles/1758c115.json)
-
-[Extended Data](ext_articles/1758c115.ext.json)
-
----
-
-### Heavy rains in Afghanistan: 200 killed
-
-*2024-05-12 01:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-கடும்-மழை-200-பேர்-பலி/50-337143) · `ta`
-
-Heavy rains in Afghanistan have caused over 200 deaths and significant damage, with thousands of houses affected, including 1500 in Baglan State alone.
-
-🟩
-
-More than 200 people have been killed in heavy disasters due to heavy rains in Afghanistan.
-
-More than 200 people have died there.Thousands of houses have been completely or partially damaged.
-
-1500 houses have been damaged in Baglan State alone. More than a hundred people have died there, Afghan National Disaster Management Center said. (A)
-
-◼️
-
-[Data](articles/662402a6.json)
-
-[Extended Data](ext_articles/662402a6.ext.json)
-
----
-
-### 2024-05-11 (Saturday)
-
-### Information that 10 MPs are in Parliament like Diana
-
-*2024-05-11 23:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவைப்-போல்-10-எம்-பிக்கள்-பாராளுமன்றத்தில்-இருப்பதாக-தகவல்/175-337142) · `ta`
-
-Omalpe Sobhitha Thera criticizes 10 MPs, including Diana Kamage, for holding dual citizenship, making them ineligible for Parliament. He urges them to heed the Supreme Court's decision, advising against legal action as a waste of resources. Thera emphasizes the importance of party leaders' careful selection of representatives.
-
-🟩
-
-Omalpe Sobhitha Thera, a worshiper, says 10 more MPs in the country have dual citizenship.
-
-We urge these 10 MPs to take note of the Supreme Court's decision.
-
-Thera told the media that 10 MPs like Diana Kamage were ineligible to represent parliament because they had dual citizenship.
-
-Going to court on these issues is a waste of time and money, Sobhitha Thera said.
-
-Sobhitha Thera has said that these MPs are asking us to resign with respect to their posts and reminded that party leaders should carefully elect their representatives.R
-
-◼️
-
-[Data](articles/d470db97.json)
-
-[Extended Data](ext_articles/d470db97.ext.json)
-
----
-
-### Legal action if 1,700 is not given - Senthil Thondaman
-
-*2024-05-11 23:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-700-கொடுக்கா-விட்டால்-சட்ட-நடவடிக்கை-செந்தில்-தொண்டமான்/76-337141) · `ta`
-
-Senthil Thondaman, President of the Ceylon Workers Congress, threatens legal action against plantation companies if they fail to implement a government-issued salary increase of 1,700 rupees for plantation workers, despite initial resistance and a subsequent offer of only 1,200 rupees.
-
-🟩
-
-Senthil Thondaman, President of the Ceylon Workers Congress and Governor of the Eastern Province, said there was no compromise with the companies.
-
-He said this while questioning the refusal of plantation companies after the state gazette was published on the 1,700 rupee salary increase of plantation workers.
-
-Senthil Thondaman told the media that the Employers Federation's media spokesman Roshan Rajadurai said that the plantation workers would be paid a salary of Rs 1,200.
-
-Initially, companies said that the salary hike could not be paid when the plantation workers were negotiated on the salary hike.. They said they were ready to pay only the promotion after heavy pressure.
-
-In this case, the state gazette notification has been issued, and now the companies have come forward to pay a base salary of 1,200 rupees.. The company said the company could not even offer a one -rupee salary hike for a year and is now the reason why the government has come up with an increase of 200 rupees.
-
-...
-
-[Data](articles/3a5ec292.json)
-
-[Extended Data](ext_articles/3a5ec292.ext.json)
-
----
-
-### Two tournament in the country falls into Katunayake
-
-*2024-05-11 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196524) · `si`
-
-In Katunayake, two tournaments are held, and at the airport, nine people are arrested for using fake passports. Additionally, two from Jaffna, arrested in Negombo, were caught forging passports.
-
-🟩
-
-A leven persons have been arrested by the Katunayaka airport by using fake passports.
-
-Two people from Jaffna have been arrested in Negombo who prepared false passports to the suspects.
-
-◼️
-
-[Data](articles/ae47ec78.json)
-
-[Extended Data](ext_articles/ae47ec78.ext.json)
 
 ---

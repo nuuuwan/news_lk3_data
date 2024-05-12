@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 08:18:24**
+As of **2024-05-12 08:34:07**
 
 ## Newspaper Stats
 
-*Scraped **23,398** Articles*
+*Scraped **23,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
-islandlk | 1,275
+islandlk | 1,277
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,980
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,392 (100.0%) of 23,398 articles have been extended.
+23,398 (100.0%) of 23,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### විභාගය අතරතුර ඉංග්‍රීසි ප්‍රශ්නපත්‍රය වට්ස්ඇප් දැමූ ගුරුවරයෙකු අත්අඩංගුවට
+### What a teacher has been arrested in the examination during the exam
 
 *2024-05-12 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196527) · `si`
 
-මේ දිනවල පැවැත්වෙන අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ඉංග්‍රීසි ප්‍රශ්නපත්‍රය වට්ස්ඇප් සමූහ වෙත මුදාහැරීමේ සිද්ධියක් සම්බන්ධයෙන් උපකාරක පංති ගුරුවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A teacher was arrested for allegedly leaking the English Quarter of the GCE Ordinary Level exam. The arrest occurred at a hospital in Kandy.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වි‍ෂේශ විමර්ශන ඒකකය විසින් අද (12) එම සැකකරු මහනුවර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+A teacher has been arrested in connection with the releasing the English Quarter of the GCE Ordinary Level examination these days.
+
+The suspect has been arrested by the hospital in the Kandy area this morning.
 
 ◼️
 
 [Data](articles/bee5357e.json)
+
+[Extended Data](ext_articles/bee5357e.ext.json)
 
 ---
 
@@ -64,6 +70,8 @@ The Minister discussed this incident with Southern Province Governor Lakshman Ya
 
 [Data](articles/8ee9dfab.json)
 
+[Extended Data](ext_articles/8ee9dfab.ext.json)
+
 ---
 
 ### Tuition teacher arrested in Kandy for photographing, sharing O/L English paper
@@ -75,6 +83,8 @@ A tuition class teacher has been arrested in Kandy over the incident of allegedl
 ◼️
 
 [Data](articles/e4d3489d.json)
+
+[Extended Data](ext_articles/e4d3489d.ext.json)
 
 ---
 
@@ -95,6 +105,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/87e20eb4.json)
+
+[Extended Data](ext_articles/87e20eb4.ext.json)
 
 ---
 
@@ -192,19 +204,27 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 
 ---
 
-### ’பெண்களை வலுவூட்டும் சட்டமூலம் நிறைவேற்றப்படும்’
+### The bill will be enacted by the reinforcement of women
 
 *2024-05-12 01:40:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களை-வலுவூட்டும்-சட்டமூலம்-நிறைவேற்றப்படும்/175-337146) · `ta`
 
-பொருளாதார நெருக்கடியின்போது குடும்பத்தைக் கவனிப்பதில் பெண்கள் எதிர்கொண்ட சவால்களை நான் நன்கு அறிவேன். பொருளாதார நெருக்கடிக்குப் பின்னர் முதன்முறையாக பெண்களை வலுவூட்டும் வகையில் அரசாங்கம் இரண்டு சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பித்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+The government has introduced two bills to support women, addressing their challenges during the economic crisis, including food shortages and family responsibilities. These bills aim to implement gender equality policies, establish a National Women's Commission, and protect women's rights, including a commission to address violence against women.
 
-பொது இடங்களில் பெண்கள் மற்றும் சிறுமிகளுக்கு நிகழும் பாலியல் வன்முறைகளுக்கு எதிரான 'உலகளாவிய வன்கொடுமை எதிர்ப்பு சைகைகள்' 3 கை முத்திரைகளை வெளியிடும் நிகழ்வு நேற்று கொழும்பு தாமரைத்தடாக அரங்கில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+🟩
 
-பொருளாதார நெருக்கடியின்போது பெண்கள் பெரிதும் பாதிக்கப்பட்டனர். உணவுத் தட்டுப்பாடு காரணமாகவும் பெண்கள் மிகவும் அவதிப்பட்டனர். சில குடும்பங்கள் பெண்களால் வழிநடத்தப்பட்டன. அதனால் பெண்களை வலுவூட்ட எதிர்பார்க்கிறோம். பெண்கள் வலுவூட்டலுக்கான சட்டம் மற்றும் பாலின சமத்துவச் சட்டம் என்பன பாராளுமன்றத்தில் சமர்பிக்கப்பட்டுள்ளன.
+I am well aware of the challenges faced by women in watching the family during the economic crisis. President Ranil Wickremesinghe said the government has submitted two bills in Parliament to strengthen women for the first time since the economic crisis.
+
+The release of 'Global Anti -Violence Gestures' against sexual violence for women and girls in public places was held at the Lotus Stadium in Colombo yesterday.. The President said this while addressing the event. When he further addresses,
+
+Women were greatly affected during the economic crisis. Women also suffered from food shortages. Some families were guided by women. So we expect to strengthen women. The law for women's reinforcement and the Gender Equality Act has been presented in Parliament.
+
+The Bill is aimed at implementing the National Policy on Gender Equality and Women's Reinforcement, the establishment of the National Women's Commission, the establishment of women's rights and the lawsuit for women's rights violations.
 
 ...
 
 [Data](articles/bcb5fdd2.json)
+
+[Extended Data](ext_articles/bcb5fdd2.ext.json)
 
 ---
 
@@ -738,6 +758,20 @@ With all the rides and other attractions paid for and refreshments provided, the
 
 ---
 
+### SDB bank’s corporate website gets an upgrade
+
+*2024-05-11 18:19:00* · [`islandlk`](http://island.lk/sdb-bank-boosts-mobile-user-experience-and-access-to-finance-information/) · `en`
+
+In an era where digital convenience is paramount, SDB bank, The Bank Where You Are Valued with its focus on improving the digital customer touchpoints, recently upgraded its tri-lingual corporate website which is an important part of a broader digital roadmap, marks a significant stride towards optimizing customer engagement through accessible and efficient touchpoints of the Bank. This comprehensive upgrade of its corporate website, now boasting a user interface that is not only the epitome of modern design but also mobile-responsive, catering to the needs of the on-the-go consumer.
+
+...
+
+[Data](articles/b5acdb8a.json)
+
+[Extended Data](ext_articles/b5acdb8a.ext.json)
+
+---
+
 ### Sri Lankans arrested for a human racket
 
 *2024-05-11 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196517) · `si`
@@ -1222,21 +1256,27 @@ Further investigations have been launched after a complaint was lodged at the Ja
 
 ---
 
-### පාර්ලිමේන්තු මැතිවරණයට සියයට 25ක කාන්තා නියෝජනයක් ගැන තවම යෝජනාවක් නෑ
+### There is no proposal to represent 25 percent of women's representation for the parliamentary election
 
 *2024-05-11 14:11:40* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මැතිවරණයට-සියයට-25ක-කාන්තා-නියෝජනයක්-ගැන-තවම-යෝජනාවක්-නෑ/11-409559) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයේදි කාන්තා නියෝජනය සියයට 25ක් දක්වා ඉහළ නැංවිමට දැනට යෝජනාවක් නොමැති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+Dr. Ramesh Pathirana, Minister of Health, clarified there's no proposal to increase women's representation to 25% in parliamentary elections, differing from the President's stance on provincial council elections.
 
-ගෝනාපිනුවල පැවැති සෞඛ්‍ය වැඩසහනකින් අනතුරුව මැතිවරණ වලදි කන්තා නියෝජනය ඉහළ නැංවීම පිළිබදව ජනාධිපතිවරයා දැක් වූ අදහස් පිළිබදව මාධ්‍යවේදීන් නැගු ප්‍රශ්ණයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවැසිය.
+🟩
 
-ජනාධිපතිවරයා සඳහන් කළේ පළාත් සභා මැතිවරණයේ දී සියයට 25 ක කාන්තා නියෝජනයක් සදහා අවශ්‍ය ප්‍රතිපත්තිමය රාමුව වෙනස් කරනවා යන කරුණ බවත් ඉදිරි පාර්ලිමේන්තු මැතිවරණයට එවැනි යෝජනාවක් නොමැති බවත් බවත් අමාත්‍යවරයා පැවැසිය.
+Minister of Health Dr. Ramesh Pathirana says that there is no proposal to increase women from 25 percent in parliamentary elections.
 
-රසේම පළාත් පාලන ආයතනවල දැනට සැළකිය යුතු කාන්තා නියෝජනයක් සළසා දී ඇති බව ද අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+The Minister was responding to a problem with journalists regarding the increase in Kantha representing the Presidential views on the elections in the elections.
+
+The President said that the policy framework for 25 percent of women representation in the provincial council election and that there is no such proposal to the next parliamentary election.
+
+The Minister also said that a significant women's representation of local government bodies has been compared to the local government bodies.
 
 ◼️
 
 [Data](articles/609be748.json)
+
+[Extended Data](ext_articles/609be748.ext.json)
 
 ---
 
@@ -1555,6 +1595,30 @@ Anatomical examination has been found to have been strangled to the woman's neck
 [Data](articles/9d976e83.json)
 
 [Extended Data](ext_articles/9d976e83.ext.json)
+
+---
+
+### Investment set to surpass 2024 target by 300%  – State Minister of Investment Promotion
+
+*2024-05-11 12:30:00* · [`islandlk`](http://island.lk/investment-set-to-surpass-2024-target-by-300-state-minister-of-investment-promotion/) · `en`
+
+State Minister of Investment Promotion, Dilum Amunugama, said that the investment targets assigned to the State Ministry of Investment Promotion by the Ministry of Finance for 2024 could be surpassed three fold.
+
+The State Minister said that for an investors to consider investing in  a country, they require political and financial stability and be certain about its future
+
+He made these remarks on Friday (10) during a press conference themed ‘Collective Path to a Stable Country’ held at the Presidential Media Centre (PMC).
+
+Related Topics:Collective path to a stable countryinvestment targetsState Ministry of Investment Promotion
+
+President announces plans to pass Women-Empowering Bills in Parliament by June
+
+DIGIECON Global Investment Conference: A one-of-a-kind opportunity  for Tech enthusiasts – State Minister of Technology
+
+Amendments to Telecommunications Regulatory Act will be presented in parliament tomorrow (10) – State Minister for Technology
+
+...
+
+[Data](articles/12b1caca.json)
 
 ---
 
@@ -2173,57 +2237,5 @@ The man who had been shot with shooting has fled the area and the suspect is con
 [Data](articles/92436576.json)
 
 [Extended Data](ext_articles/92436576.ext.json)
-
----
-
-### Colombo Tea Auction offering drops to 4.9 MnKgs this week
-
-*2024-05-11 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Tea-Auction-offering-drops-to-4-9-MnKgs-this-week/108-282375) · `en`
-
-The Colombo Tea Auction offering recorded a decline significantly, totalling 4.9 million kilogrammes.
-
-There was improved demand and a dearer trend in prices for most teas on offer, perhaps triggered by the lower volume on offer against the backdrop of urgent shipments, Forbes and Walker Tea Brokers said.
-
-The Ex-Estate offerings were reasonably maintained and totalled 0.74 million kilogrammes.
-
-The Westerns – Select Best, on offer were irregular and often easier, whilst the others together with the teas in the Below Best and Plainer categories, were often firm and Rs.20-40 per kilogramme dearer. The Nuwara Eliyas were a weak feature and mostly unsold, due to a lack of suitable bids.
-
-The Uda Pussellawa BOPs were barely maintained, whilst the corresponding BOPFs appreciated by Rs.40-60 per kilogramme. The Uva BOPs sold around last levels, whilst the corresponding BOPFs gained by up to Rs.100 per kilogramme.
-
-...
-
-[Data](articles/5105b7db.json)
-
-[Extended Data](ext_articles/5105b7db.ext.json)
-
----
-
-### Liability in Sri Lanka will support real harmony and justice - Elizabeth Horst to be appointed as the new Ambassador of the United States
-
-*2024-05-11 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183206) · `ta`
-
-Elizabeth K. Corpst, set to be the new US Ambassador to Sri Lanka, emphasizes the importance of responsibility in fostering harmony and justice. She aims to support neglected communities and strengthen ties with Sri Lankan communities, addressing human rights concerns. The US Senate's Foreign Committee has expressed concerns over Sri Lanka's governance, with Corpst ready to uphold international standards if confirmed.
-
-🟩
-
-Elizabeth K Corpst, who will be appointed as the new Ambassador to Sri Lanka, said that responsibility in Sri Lanka will support real harmony and justice.
-
-He was speaking in the presence of the US Senate's Foreign Committee.
-
-He said he was looking forward to supporting the neglected communities in Sri Lanka if he was appointed as the US Ambassador to Sri Lanka, and he would share the US's concern for the human rights situation in Sri Lanka.
-
-He said that if I confirmed that I was appointed, I would intend to strengthen people's contacts, including the Sri Lankan communities, if I was appointed.
-
-"I am ready to support the neglected communities in Sri Lanka," he said.
-
-The US Senate's Foreign Committee has questioned the Sri Lankan government's ability to report to the Sri Lankan government to deal with Sri Lanka's responsibility.
-
-Senator Benkartin pointed out the US's efforts to further improve the freedoms for the Sri Lankan people.
-
-...
-
-[Data](articles/52c3fad8.json)
-
-[Extended Data](ext_articles/52c3fad8.ext.json)
 
 ---

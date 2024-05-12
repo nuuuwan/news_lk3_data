@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 17:33:50**
+As of **2024-05-12 17:54:12**
 
 ## Newspaper Stats
 
-*Scraped **23,496** Articles*
+*Scraped **23,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,992
 adaderanalk | 2,747
 tamilmirrorlk | 2,759
 virakesarilk | 3,495
-dailymirrorlk | 3,694
+dailymirrorlk | 3,695
 adaderanasinhalalk | 3,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,494 (100.0%) of 23,496 articles have been extended.
+23,496 (100.0%) of 23,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Man who received first pig kidney transplant dies
+
+*2024-05-12 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-received-first-pig-kidney-transplant-dies/108-282417) · `en`
+
+USA, May 12 (BBC) - The first man to receive a genetically modified pig kidney transplant has died two months after the operation, the hospital which carried out the procedure has said.
+
+Richard "Rick" Slayman, 62, was suffering with end-stage kidney disease before undergoing the operation in March.
+
+Massachusetts General Hospital (MGH) said on Sunday there was no indication his death was a result of the transplant.
+
+Transplants of other organs from genetically modified pigs have failed in the past, but the operation on Mr Slayman was hailed as a historic milestone.
+
+In addition to kidney disease, Mr Slayman also suffered from Type 2 diabetes and hypertension. In 2018, he had a human kidney transplant, but it began to fail after five years.
+
+Following his pig kidney transplant on 16 March, his doctors confirmed he no longer needed dialysis after the new organ was said to be functioning well.
+
+...
+
+[Data](articles/91b3c13c.json)
+
+---
 
 ### Health trade unions to launch token strike at Central Province hospitals
 
@@ -47,6 +69,8 @@ The trade union actions stemmed from the Cabinet Ministers’ approval of a prop
 ◼️
 
 [Data](articles/2b8400a7.json)
+
+[Extended Data](ext_articles/2b8400a7.ext.json)
 
 ---
 
@@ -67,6 +91,8 @@ In the Nahrin district of Baghlan province, people carried their shrouded dead t
 ...
 
 [Data](articles/4948f39b.json)
+
+[Extended Data](ext_articles/4948f39b.ext.json)
 
 ---
 
@@ -2233,19 +2259,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/53eddebc.json)
 
 [Extended Data](ext_articles/53eddebc.ext.json)
-
----
-
-### Culture Shock in Iraq
-
-*2024-05-12 02:29:00* · [`islandlk`](http://island.lk/culture-shock-in-iraq/) · `en`
-
-My first impressions of Iraq were positive. Upon arrival at Saddam International Airport, the opulence and modernity juxtaposed against the backdrop of a country rebuilding itself after a war. The warm reception and luxurious accommodations at Hotel Babylon Oberoi spoke volumes about the resilience and hospitality of the Iraqi people. The five-star standards of Hotel Babylon Oberoi, and facilities provided to my family at a corner suite facing Tigris River, were all positive. I was pleasantly surprised as these observations exceeded my expectations.
-
-...
-
-[Data](articles/e520529c.json)
-
-[Extended Data](ext_articles/e520529c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 22:50:34**
+As of **2024-05-12 23:03:17**
 
 ## Newspaper Stats
 
-*Scraped **23,527** Articles*
+*Scraped **23,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,277
 economynextcom | 1,350
 dailyftlk | 1,356
 adalk | 1,998
-adaderanalk | 2,749
+adaderanalk | 2,750
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
 dailymirrorlk | 3,700
-adaderanasinhalalk | 3,773
+adaderanasinhalalk | 3,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,527 (100.0%) of 23,527 articles have been extended.
+23,527 (100.0%) of 23,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### ඡන්ද උණුසුම මැද සිදුවූ බල පෙරළිය
+
+*2024-05-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196553) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් සහ විධායක සභාවෙන් අද (12) ඉල්ලා අස්විය.
+
+ඒ අනුව පක්ෂයේ නව සභාපති ලෙස එම පාර්ශ්වය විසින් ඒකමතිකව පත්කරගනු ලැබුවේ රජයේ අමාත්‍යවරයකු වන විජයදාස රාජපක්ෂ මහතාය.
+
+කෙසේවෙතත් නිමල් සිරිපාල පාර්ශ්වය පැවසුවේ එලෙස රැස්වූ විධායක සභාව මෙන්ම නව පත්කර ගැනීමද නීත්‍යනුකූල නොවන බවය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රිපාල සිරිසේන පාර්ශ්වය අද පිටකෝට්ටේ පෞද්ගලික උත්සව ශාලාවකදී විධායක සභා රැස්වීමක් කැඳවූ අතර එහිදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති තනතුරෙන් හා විධායක සභාවෙන් ඉල්ලා අස්වී තිබුණි.
+
+නව සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතාව පත්කිරීමට එම විධායක සභාව තීරණය කර ඇත්තේ ඉන් පසුවය.
+
+...
+
+[Data](articles/26718f8a.json)
+
+---
+
+### කාලිංග කුමාර ලක්මවට රන් පදක්කමක් දිනා දෙයි
+
+*2024-05-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196552) · `si`
+
+11වන කිනාමි මිශිටාකා අනුස්මරණ මලල ක්‍රීඩා උළෙල මේ දිනවලදී ජපානයේදී පැවැත්වෙයි.
+
+එහිදී ශ්‍රී ලංකාවේ කාලිංග කුමාරගේ, පිරිමි මීටර් 400 ධාවන ඉසව්ව නියොජනය කරමින් එම ඉසව්වේ රන් පදක්කම දිනා ගැනීමට සමත් විය.
+
+මේ අතර කාන්තා මීටර 400 ඉසව්වට සහභාගී වු නදීෂා රාමනායක එහි සිව්වැනි ස්ථානය දිනා ගත්තාය.
+
+මේ අතර කාන්තා මීටර 800 ධාවන ඉසව්වට සහභාගීවීමට සිටි තරුෂි කරුණාරත්න අසනීප තත්ත්වයක් හේතුවෙන් ඇය එම තරගයට සහභාගී නොවීය.
+
+◼️
+
+[Data](articles/ceb03269.json)
+
+---
+
+### පාදුක්ක කැලඹූ කඩු කල්ලිය
+
+*2024-05-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196551) · `si`
+
+පාදුක්ක නගරයේ අබලි යකඩ එක්රැස් කිරීමේ වෙළෙඳසැලකට අද (12) පෙරවරුවේ පැමිණි නාඳුනන පුද්ගලයින් තිදෙනෙක් එහි හිමිකරුගේ බිරිඳ සහ සේවකයෙකුට තියුණු ආයුධවලින් පහරදී මුදල් හා රන් භාණ්ඩ කොල්ලකා තිබේ.
+
+පාදුක්ක මාවතගම ප්‍රදේශයේ පිහිටි මෙම අබලි යකඩ එක්රැස්කිරීමේ මධ්‍යස්ථානයට ඊයේ රාත්‍රී 7ට පමණ පැමිණි නාඳුනන පුද්ගලයින් තිදෙනෙකු විසින් මෙම කොල්ලය සිදුකර ඇත.
+
+ස්කූටි වර්ගයේ යතුරු පැදියකින් පැමිණි ඔවුන් කොල්ලය සිදුකරන ආකාරය එහි තිබූ සීසීටීවී කැමරාවක සටහන්වී තිබේ.
+
+කොල්ලකරුවන් රුපියල් ලක්ෂ 3ක මුදලක් සහ රන් මාලයක් රැගෙන පළා ගොස් ඇති බව පැවසෙයි.
+
+ආයතනයේ හිමිකරුගේ බිරිඳ කොල්ලකරුවන්ගේ පහරදීම හේතුවෙන් තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කර ඇත.
+
+පාදුක්ක පොලීසිය මේ වනවිට සිද්ධිය පිළිබඳව විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/6c07c8f4.json)
+
+---
+
+### Govt to introduce 4 new laws aimed at accelerating economic development – President
+
+*2024-05-12 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99169/govt-to-introduce-4-new-laws-aimed-at-accelerating-economic-development-president) · `en`
+
+President Ranil Wickremesinghe stated that he expects to increase the growth rate of Sri Lanka’s economy up to 3% by the year 2025 and mentioned that steps would be taken to increase the salaries of government employees.
+
+The President made these remarks during the celebration of International Nurses Day at the Temple Trees, today (12).
+
+Addressing the gathering, the President mentioned that four key laws will be introduced to propel the country’s economy towards rapid development, along with fostering an export-driven economy. The first among them is the Central Bank Law, aimed at granting autonomy to the Central Bank is already enacted and the bills called Public Debt Management Law, the Public Finance Act, and the Economic Transformation Law are slated for submission to Parliament this June.
+
+...
+
+[Data](articles/eb967fd9.json)
+
+---
 
 ### Supervision of O / L Examination Center arrested
 
@@ -65,6 +141,24 @@ Addressing the media, he said that the government had handed over the management
 [Data](articles/c8892a79.json)
 
 [Extended Data](ext_articles/c8892a79.ext.json)
+
+---
+
+### මහ පාරේ බයික් රේස් ගිය 14ක් අත්අඩංගුවට
+
+*2024-05-12 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196549) · `si`
+
+මහරගම ටැංගෝ බෝඩ් හන්දියේ සිට පන්නිපිටිය දෙසට අපරීක්ෂාකාරී ලෙස අධික වේගයෙන් යතුරුපැදි ධාවනය කළ තරුණයන් 14 දෙනෙකු මහරගම පොලීසිය විසින් අද (12) අත්අඩංගුවට ගනු ලැබීය.
+
+මෙය ධාවන තරගයක් බවත් අන්තර්ජාලයේ ප්‍රසිද්ධ කර තිබූ යෙදවුමක් හරහා මොවුන් ඊට සම්බන්ධ වූ බවත් හෙළිවී ඇත.
+
+තරගයේ ජයග්‍රාහකයාට, ලබාදෙන ත්‍යාග මුදලට අමතරව රූමත් තරුණියකගේ වෙස් ගත් තරුණයෙක් ලබාදීමටත් සූදානම් කර තිබූ බව ප්‍රශ්න කිරීම්වලදී හෙළිවී තිබේ.
+
+අත්අඩංගුවට ගත් තරුණයන් 14 දෙනා නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය විසින් ලබන 15 තෙක් රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+◼️
+
+[Data](articles/3164e49d.json)
 
 ---
 
@@ -2089,127 +2183,5 @@ As the English Examination commenced at 8.30 am, the author sent the Question Pa
 [Data](articles/89644218.json)
 
 [Extended Data](ext_articles/89644218.ext.json)
-
----
-
-### Tuition master involved in sharing O/L English paper arrested in Kandy
-
-*2024-05-12 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tuition-master-involved-in-sharing-OL-English-paper-arrested-in-Kandy/108-282402) · `en`
-
-Kandy, May 12 (Daily Mirror) - The tuition master who was involved in releasing the General English question paper of the GCE Ordinary Level (O/L) examination on WhatsApp was arrested this morning from the Katugastota area in Kandy, police said.
-
-They said the arrest was made following a complaint by the Examinations Commissioner General regarding the circulation of the question paper.
-
-Police said that preliminary investigations have also revealed that there are 1,025 members on the particular WhatsApp group where the tuition master had shared the questionpaper.
-
-The General English question paper of the examination was held on May 9 and according to the schedule, the question paper was distributed to the students at 8.30 in the morning.
-
-However, it has now been revealed that the English question paper was released by this teacher to the WhatsApp group at around 9.11 am.
-
-The assistant class teacher who was arrested is scheduled to be produced before courts today.
-
-...
-
-[Data](articles/b809ae3e.json)
-
-[Extended Data](ext_articles/b809ae3e.ext.json)
-
----
-
-### The shipping service is restarted
-
-*2024-05-12 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-337152) · `ta`
-
-The 'Seriyapani' passenger ship from Kochi to Naga, India, resumed operations on October 14, 2023, but was halted on October 23 due to the northeast monsoon. In January, it was announced that passenger shipping from Naga to Sri Lanka would commence, with the 'Sivaganga' ship set to replace 'Seriyapani'. The 'Sivaganga' is scheduled to start its sea journey from Naga to Sri Lanka on May 13, 2023, after arriving in Chennai on May 10 and reaching Naga on May 12. The ship can accommodate 160 passengers.
-
-🟩
-
-From October 14 last year (2023) from the Naga area of India, the passenger ship 'Seriyapani' from Kochi was operated from October 14 last year.
-
-Due to the northeast monsoon, passenger shipping was stopped on October 23.
-
-It was reported last January that passenger shipping from Naga to Sri Lanka will be launched.
-
-In addition, it was recently reported that another passenger ship, called 'Sivaganga', is the beginning of a sea journey between Nagai and Sri Lanka as a replacement for the previously operated 'Seriyapani' ship.
-
-Meanwhile, a private company that operates the ship has officially announced that the 'Sivaganga' passenger ship from Naga to the Kankesanthurai will be operated from May 13.
-
-Accordingly, the Sivaganga ship operating the Nagai-Sri Lanka place was ready in Andaman. The ship arrived in the port of Chennai on Friday (10).
-
-The ship is expected to reach the Naga port on Sunday (12) and will be launched on Monday (13).
-
-...
-
-[Data](articles/ce810c57.json)
-
-[Extended Data](ext_articles/ce810c57.ext.json)
-
----
-
-### James Anderson makes a decision
-
-*2024-05-12 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196530) · `si`
-
-James Anderson, England's leading fast bowler, announces his retirement from international cricket. After 19 years and 700 Test wickets, Anderson, 41, will end his historic career.
-
-🟩
-
-England Superfluenist James Anderson has decided to retire from international cricket.
-
-According to July 10, the first Test Indies starting with the West Indies in the historic Lods Stadium, the Anderson is due to quit international cricket.
-
-In May 2003, Anderson won the first fast bowler in the world who took 700 wickets of Test wickets in May 2003.
-
-Anderson said that he had a note on the good news of his Facebook account, and he had a saved coaches, players, and the sportsmen and sportsmen.
-
-41 year old Anderson has been playing 700 wickets in 187 Tests.
-
-James Anderson represented 189 wickets in 194 and 19 wickets in 194.
-
-◼️
-
-[Data](articles/75c0e777.json)
-
-[Extended Data](ext_articles/75c0e777.ext.json)
-
----
-
-### Do not rush to make a decision on the issue of Tamil general candidate
-
-*2024-05-12 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183291) · `ta`
-
-Sampanthan urges caution in choosing a Tamil presidential candidate, emphasizing the need to consider the South's leaders' stance on Tamil issues and federalism. He advises against hasty decisions, highlighting the importance of aligning with the Tamil people's demands for self-determination.
-
-🟩
-
-Senior Leader and Trincomalee District Parliamentarian Sampanthan has made a public appeal to all parties, including the Sri Lankan Tamil state party, not to be urgent to make a decision on a Tamil general candidate in the presidential election.
-
-Political parties to field a Tamil general candidate in the presidential election. Civil organizations have also visited the unanimous concept. The Sri Lanka Tamil National Alliance (TNA) is going to release the resolution on the 19th. As a senior leader, he said that your position was your position.
-
-The National Elections Commission has announced that the presidential election will be held between September 17 and October 16. There are conditions that one of the majority race can come as president when looking at the long history of the country.
-
-At this juncture, the national parties of the South have not officially made announcements of their presidential candidate.
-
-...
-
-[Data](articles/b0182306.json)
-
-[Extended Data](ext_articles/b0182306.ext.json)
-
----
-
-### Will Sajith, AKD, Prez accept Daily Mirror invitation for debate ?
-
-*2024-05-12 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-Sajith-AKD-Prez-accept-Daily-Mirror-invitation-for-debate/108-282401) · `en`
-
-Colombo, May 12 (Daily Mirror) - In India Congress leader Rahul Gandhi on Saturday accepted an invitation to a public debate with Prime Minister Narendra Modi, which was requested by two former judges and a senior journalist through a letter sent to both the leaders.
-
-Yet in Sri Lanka, there is no acceptance of invitation by Daily Mirror for a debate among the three main prospective presidential candidates. Only National People’s Power ( NPP) leader Anura Kumara Dissanayake has responded positively so far while SJB Leader Sajith Premadasa and President Ranil Wickremesinghe both are yet to accept the invitation.
-
-◼️
-
-[Data](articles/dad9fb3a.json)
-
-[Extended Data](ext_articles/dad9fb3a.ext.json)
 
 ---

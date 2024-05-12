@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 01:33:56**
+As of **2024-05-13 01:52:01**
 
 ## Newspaper Stats
 
-*Scraped **23,563** Articles*
+*Scraped **23,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,364
 adalk | 2,002
 adaderanalk | 2,751
 tamilmirrorlk | 2,760
-virakesarilk | 3,514
+virakesarilk | 3,516
 dailymirrorlk | 3,705
 adaderanasinhalalk | 3,778
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,561 (100.0%) of 23,563 articles have been extended.
+23,563 (100.0%) of 23,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### அரச நிறுவனங்களை மறுசீரமைக்கும் பணிகளை முழுமையாக இடைநிறுத்துங்கள் - மஹிந்த ராஜபக்ஷ அரசாங்கத்திடம் வலியுறுத்தல்
+
+*2024-05-13 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183366) · `ta`
+
+ஜனாதிபதி தேர்தலை தொடர்ந்து புதிய அரசாங்கம் ஒன்று தோற்றம் பெறும் வரை அரச நிறுவனங்களை மறுசீரமைப்பதற்கும்,தனியார் மயப்படுத்தவும்  முன்னெடுத்துள்ள சகல நடவடிக்கைகளையும் அரசாங்கம் முழுமையாக இடைநிறுத்த வேண்டும். ஜனாதிபதி தேர்தலில் வெற்றிப் பெறும் தரப்புக்கு கிடைக்கப் பெறும் மக்களாணைக்கு அமைய அரச சொத்துக்கள் மற்றும் வளங்கள் தொடர்பில் நடவடிக்கைகளை முன்னெடுக்க முடியும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சுட்டிக்காட்டியுள்ளார்.
+
+அரச நிறுவனங்களை மறுசீரமைப்பது தொடர்பில் விசேட ஊடக அறிக்கை வெளியிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+
+அரசுக்கு சொந்தமான ஒருசில சொத்துக்கள் மற்றும் வியாபாரங்களை விற்பனை செய்ய அரசாங்கம் முன்னெடுத்துள்ள நடவடிக்கைகளால் தொழிற்சங்கங்கள்,அரசியல் கட்சிகள் மற்றும் பொது மக்கள் மத்தியில் முரண்பாடற்ற தன்மை நிலவுகிறது. நட்டமடையும் அரச நிறுவனங்களுக்கான செலவுகளை குறைத்துக் கொள்ளதற்கும், சர்வதேச நாணய நிதியத்தின் செயற்திட்ட நிபந்தனைகளை நிறைவேற்றுவதற்காகவும் அரச நிறுவனங்களை மறுசீரமைப்பதாக அரசாங்கம் குறிப்பிடுகிறது.
+
+...
+
+[Data](articles/8225d70c.json)
+
+---
+
+### கிளிநொச்சியில் 1 கிலோ 760 கிராம் கஞ்சா மீட்பு!
+
+*2024-05-13 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183365) · `ta`
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியான கனகபுரம் மற்றும் விவேகானந்தா நகர் பகுதிகளில் ஒரு கிலோவும் 760 கிராம் கஞ்சாவுடன் ஒரு மோட்டார் சைக்கிளும் இரண்டு சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸ் விசேட அதிரடி கிடைத்த தகவலுக்கு அமைய மோட்டார் சைக்கிளை வழிமறித்து சோதனைக்கு உட்படுத்த முற்பட்ட வேளையில் மோட்டார் சைக்கிளையும் ஒரு கிலோ 500 கிராம் கஞ்சாவையும் விட்டு தப்பி சென்றுள்ளார்.
+
+இதேபோன்று கிளிநொச்சி பொலீஸ் மது ஒழிப்பு பிரிவுக்கு கிடைக்கப் பெற்ற ரகசிய தகவலையடுத்து வீதியல் சென்று கொண்டிருந்த இரண்டு சந்தேக நபர்களை கஞ்சா வியாபாரத்தில் ஈடுபட்டு வருவதாக கிடைத்த தகவல் அடுத்து இரண்டு பேரையும் சோதனைக்கு உட்படுத்திய போது அவர்களிடமிருந்து 260 கிராம் கஞ்சா மீட்கப்பட்டுள்ளது.
+
+இது தொடர்பான மேலதிக விசாரணைகளை கிளிநொச்சி பொலிஸ் விசேட அதிரடி படையினர் மற்றும் பொலிஸாரும் விசாரணை மேற்கொண்டு வருகின்றனர் இரண்டு சந்தேகங்கள், கஞ்சா மற்றும் மோட்டார் சைக்கிள் ஆகியவற்றை நாளை நீதிமன்றில் முற்படுத்த உள்ளனர்.
+
+◼️
+
+[Data](articles/11f1b074.json)
+
+---
 
 ### Afghanistan floods devastate villages, killing 315
 
@@ -49,6 +83,8 @@ In the Nahrin district of Baghlan province, people carried their shrouded dead t
 ...
 
 [Data](articles/f2d885f5.json)
+
+[Extended Data](ext_articles/f2d885f5.ext.json)
 
 ---
 
@@ -687,6 +723,8 @@ Ethir was one of the exceptional individuals to hail from Jaffna, indeed Sri Lan
 ...
 
 [Data](articles/ad00d73f.json)
+
+[Extended Data](ext_articles/ad00d73f.ext.json)
 
 ---
 
@@ -2159,41 +2197,5 @@ Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Mi
 [Data](articles/6b3092c7.json)
 
 [Extended Data](ext_articles/6b3092c7.ext.json)
-
----
-
-### The war -torn governments delay accountability: representatives of Tamil national political parties
-
-*2024-05-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183301) · `ta`
-
-Tamil political parties urge unity to leverage the upcoming presidential election for bargaining, highlighting the need for a political solution and accountability for war crimes. The end of the war in 2009 has not resolved Tamil demands for self-determination, with allegations of war crimes pending. Leaders call for a common Tamil candidate in the election, criticizing Sinhala governments for failing to address Tamil issues.
-
-🟩
-
-Governments that waged war are now delaying accountability. Therefore, Tamils should take advantage of the upcoming presidential election as a base for bargaining. Similarly, the representatives of the Tamil National Political Parties have urged the Tamil national political parties to unite in the interest of the Tamil people, as it is an easy task for the Sinhala chauvinist parties.
-
-The war between the state forces and the Liberation Tigers of Tamil Eelam (LTTE) has ended on May 18, 2009, with 15 years of 15 years (18).. However, the alleged war crimes that have taken place during the war and the worst violations against humanity are yet to be confirmed.. The factors that are the basis of the war are being identified and fully eliminated, and the long -standing demand of the Tamils, the self -determination of self -determination, has not yet been provided.
-
-...
-
-[Data](articles/60045b12.json)
-
-[Extended Data](ext_articles/60045b12.ext.json)
-
----
-
-### Labour companionship program launched for expectant mothers
-
-*2024-05-12 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Labour-companionship-program-launched-for-expectant-mothers/110-282409) · `en`
-
-In celebration of Mother's Day today, the Professorial Obstetric Unit of Colombo South Teaching Hospital, Kalubowila, has announced the launch of its latest initiative, the "Maathru Saheli” Labour Companion" programme.
-
-This program, conceptualized by the Sri Lanka College of Obstetricians & Gynecologists and executed under the guidance of the Ministry of Health, aims to provide emotional support and care for expectant mothers throughout the process of normal delivery. By allowing either the mother or a female relative/friend to serve as her "labour companion," the initiative offers expectant mothers the privilege of having a trusted female companion by their side. This companion can offer courage, comfort, and moral support, ensuring a positive childbirth experience.
-
-...
-
-[Data](articles/30f7ec0f.json)
-
-[Extended Data](ext_articles/30f7ec0f.ext.json)
 
 ---

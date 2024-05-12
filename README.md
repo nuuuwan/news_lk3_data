@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 23:03:17**
+As of **2024-05-12 23:33:37**
 
 ## Newspaper Stats
 
-*Scraped **23,532** Articles*
+*Scraped **23,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,80 +15,176 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
 dailyftlk | 1,356
-adalk | 1,998
+adalk | 2,001
 adaderanalk | 2,750
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
-dailymirrorlk | 3,700
-adaderanasinhalalk | 3,777
+dailymirrorlk | 3,705
+adaderanasinhalalk | 3,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,527 (100.0%) of 23,532 articles have been extended.
+23,540 (100.0%) of 23,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ඡන්ද උණුසුම මැද සිදුවූ බල පෙරළිය
+### නුසුදුසු සහල් කිලෝ 176,000ක් වටලයි
+
+*2024-05-12 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196554) · `si`
+
+මිනිස් පරිභෝජනයට නුසුදුසු සහල් කිලෝග්‍රෑම් එක්ලක්ෂ හැත්තෑදහසකට අධික ප්‍රමාණයක් වංචනික ලෙස ඇසුරුම් කිරීම සඳහා රැගෙන යමින් තිබියදී වැටලීමට පාරිභෝගික කටයුතු අධිකාරියේ නිලධාරීන් සමත්වී තිබේ.
+
+එම සහල් තොගය අඩු ආදායම්ලාභී පවුල් සඳහා රජය මගින් බෙදාදීමට සැලසුම්කර තිබූ බව හෙළිවී ඇත.
+
+පාරිභෝගික කටයුතු අධිකාරියේ අනුරාධපුර ඒකකයේ නිලධාරීන්ට ලද තොරතුරකට අනුව අද (12) දහවල් මෙම වැටලීම සිදුකර තිබුණි.
+
+සහල් කිලෝග්‍රෑම් එක්ලක්ෂ හැත්තෑදහසකට අධික තොගයක් ලොරි රථ 08ක් මගින් කිරිඉබ්බෑව ප්‍රෙද්ශයේ පිහිටි පෞද්ගලික සහල් මෝලක් වෙත රැගෙන ගොස් නැවත ඇසුරුම්කරමින් සිටියදී මෙම වැටලීම සිදුකර ඇත.
+
+එම සහල් අසුරා තිබූ ඇසුරුම්වල සටහන්ව තිබූ දිනය පසුගිය 30වනදා වනවිට අවසන්ව තිබූ අතර මිනිස් පරිභෝජනයට නුසුදුසු එම සහල් යන්ත්‍රානුසාරයෙන් පිරිසිදු කර කල් ඉකුත්වීමේ දිනය ඉදිරි දින 30ක් සඳහා වලංගුවන පරිදි නැවත සකස්කර තිබුණි.
+
+සහල් තොගය රජය මගින් අඩු ආදායම්ලාභී පවුල් සඳහා නොමිලයේ සහල් බෙදාදීමේ වැඩසටහනට යොදාගැනීමට සැළසුම්කර තිබූ බව මූලික පරීක්ෂණ වලදී අනාවරණ වී ඇත.
+
+...
+
+[Data](articles/a5dbce2e.json)
+
+---
+
+### Powerful invented in the middle of the electorate
 
 *2024-05-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196553) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් සහ විධායක සභාවෙන් අද (12) ඉල්ලා අස්විය.
+Maithripala Sirisena resigned as SLFP Chairman and Executive Council member, appointing Wijeadasa Rajapaksa as new Chairman. Nimal Siripala disputes the legality of the appointment. Sirisena called an executive meeting at a private festival, emphasizing the importance of the upcoming elections and the need to build a religious political culture. Keerthi Udawattwatuwa is the new acting Secretary.
 
-ඒ අනුව පක්ෂයේ නව සභාපති ලෙස එම පාර්ශ්වය විසින් ඒකමතිකව පත්කරගනු ලැබුවේ රජයේ අමාත්‍යවරයකු වන විජයදාස රාජපක්ෂ මහතාය.
+🟩
 
-කෙසේවෙතත් නිමල් සිරිපාල පාර්ශ්වය පැවසුවේ එලෙස රැස්වූ විධායක සභාව මෙන්ම නව පත්කර ගැනීමද නීත්‍යනුකූල නොවන බවය.
+Former President Maithripala Sirisena resigned from the Sri Lanka Freedom Party Chairman and the Executive Council today (12).
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රිපාල සිරිසේන පාර්ශ්වය අද පිටකෝට්ටේ පෞද්ගලික උත්සව ශාලාවකදී විධායක සභා රැස්වීමක් කැඳවූ අතර එහිදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති තනතුරෙන් හා විධායක සභාවෙන් ඉල්ලා අස්වී තිබුණි.
+Accordingly, the party is aimed at the party's new chairman, Mr. Wijeadasa Rajapaksa, a government minister.
 
-නව සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතාව පත්කිරීමට එම විධායක සභාව තීරණය කර ඇත්තේ ඉන් පසුවය.
+However, Nimal Siripala said that the executive council and new appointment were not legal.
+
+The Sri Lanka Freedom Party (SLFP) Maithripala Sirisena had summoned an executive meeting at a private festival in Pitakotte. Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party and the Executive Council.
+
+It was then that the Executive Committee has decided to appoint Rajapakse Rajapaksa as the new Chairman.
 
 ...
 
 [Data](articles/26718f8a.json)
 
+[Extended Data](ext_articles/26718f8a.ext.json)
+
 ---
 
-### කාලිංග කුමාර ලක්මවට රන් පදක්කමක් දිනා දෙයි
+### Some ministers seem determined to promote immorality through Diana Gamage’s programs
+
+*2024-05-12 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-ministers-seem-determined-to-promote-immorality-through-Diana-Gamages-programs/108-282426) · `en`
+
+Colombo, May 12 (Daily Mirror) - It is clear that some Ministers seem determined to promote immorality and erode morality by perpetuating the illegal and immoral programmes initiated by former State Minister Diana Gamage, Venerable Omalpe Sobitha Thera said.
+
+Addressing the media, the thera said that Diana Gamage does not seem to have done anything for the country.
+
+"The only thing that was done was that she raised her voice about the promotion of ganja and the promotion of immorality," he said.
+
+The conspiratorial act she tried to do by developing immorality in the country, destroying morals and showing the illusion of economic development has now stopped due to the court decision. But some Ministers want to continue those programmes, he added.
+
+According to the court decision, the role of Diana Gama has been rejected. That character does not suit social leadership at all. Finally, since she is not a Sri Lankan, she has no right to engage in politics in this country, the thera said.
+
+◼️
+
+[Data](articles/df62db67.json)
+
+[Extended Data](ext_articles/df62db67.ext.json)
+
+---
+
+### Kalinga Kumara win gold medal to Lakmana
 
 *2024-05-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196552) · `si`
 
-11වන කිනාමි මිශිටාකා අනුස්මරණ මලල ක්‍රීඩා උළෙල මේ දිනවලදී ජපානයේදී පැවැත්වෙයි.
+Kalinga Kumarage won gold in the 400m at the 11th Kinmi Mishala Memorial Athletic Festival in Japan. Nadeesha Ramanayake secured her fourth win in the 400m, while Tharushi Karunaratne, infected with the 800m, did not compete.
 
-එහිදී ශ්‍රී ලංකාවේ කාලිංග කුමාරගේ, පිරිමි මීටර් 400 ධාවන ඉසව්ව නියොජනය කරමින් එම ඉසව්වේ රන් පදක්කම දිනා ගැනීමට සමත් විය.
+🟩
 
-මේ අතර කාන්තා මීටර 400 ඉසව්වට සහභාගී වු නදීෂා රාමනායක එහි සිව්වැනි ස්ථානය දිනා ගත්තාය.
+The 11th Kinmi Mishala Memorial Athletic Festival will be held in Japan this day.
 
-මේ අතර කාන්තා මීටර 800 ධාවන ඉසව්වට සහභාගීවීමට සිටි තරුෂි කරුණාරත්න අසනීප තත්ත්වයක් හේතුවෙන් ඇය එම තරගයට සහභාගී නොවීය.
+The gold medal was won by Kalinga Kumarage in Sri Lanka and the 400m event.
+
+Meanwhile, Nadeesha Ramanayake, who participated in the 400mm, won its fourth.
+
+Meanwhile, Tharushi Karunaratne, who was infected with the 800mm, was not participating in the competition.
 
 ◼️
 
 [Data](articles/ceb03269.json)
 
+[Extended Data](ext_articles/ceb03269.ext.json)
+
 ---
 
-### පාදුක්ක කැලඹූ කඩු කල්ලිය
+### Padukka turmolyu swords gang
 
 *2024-05-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196551) · `si`
 
-පාදුක්ක නගරයේ අබලි යකඩ එක්රැස් කිරීමේ වෙළෙඳසැලකට අද (12) පෙරවරුවේ පැමිණි නාඳුනන පුද්ගලයින් තිදෙනෙක් එහි හිමිකරුගේ බිරිඳ සහ සේවකයෙකුට තියුණු ආයුධවලින් පහරදී මුදල් හා රන් භාණ්ඩ කොල්ලකා තිබේ.
+In Padukka, unidentified attackers used sharp weapons to injure the owner's wife and employee at a debit iron mandrator. The same night, robbers targeted a demolium collection center, stealing goods and injuring the owner's wife. The incident was captured on CCTV, showing the robbers arriving on a scooter. The owner's wife was hospitalized, and the Padukka Police are investigating.
 
-පාදුක්ක මාවතගම ප්‍රදේශයේ පිහිටි මෙම අබලි යකඩ එක්රැස්කිරීමේ මධ්‍යස්ථානයට ඊයේ රාත්‍රී 7ට පමණ පැමිණි නාඳුනන පුද්ගලයින් තිදෙනෙකු විසින් මෙම කොල්ලය සිදුකර ඇත.
+🟩
 
-ස්කූටි වර්ගයේ යතුරු පැදියකින් පැමිණි ඔවුන් කොල්ලය සිදුකරන ආකාරය එහි තිබූ සීසීටීවී කැමරාවක සටහන්වී තිබේ.
+Three unidentified people who came to a debit iron mandrator in Padukka this morning have attacked the owner's wife and employee with sharp weapons.
 
-කොල්ලකරුවන් රුපියල් ලක්ෂ 3ක මුදලක් සහ රන් මාලයක් රැගෙන පළා ගොස් ඇති බව පැවසෙයි.
+The plunder of the demolium collection center in Padukka Mawathagama has passed the robbery last night.
 
-ආයතනයේ හිමිකරුගේ බිරිඳ කොල්ලකරුවන්ගේ පහරදීම හේතුවෙන් තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කර ඇත.
+A CCTV camera has been recorded how they came on a scoopy type.
 
-පාදුක්ක පොලීසිය මේ වනවිට සිද්ධිය පිළිබඳව විමර්ශන ආරම්භ කර තිබේ.
+It is said that the robbers have taken a sum of Rs.
+
+The owner's wife's wife was injured and admitted to the Homagama Hospital.
+
+The Padukka Police have launched investigations into the incident.
 
 ◼️
 
 [Data](articles/6c07c8f4.json)
+
+[Extended Data](ext_articles/6c07c8f4.ext.json)
+
+---
+
+### Politicians tout Rs. 26 billion school lunch programme for 1.7 million children
+
+*2024-05-12 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-tout-Rs-26-billion-school-lunch-programme-for-1-7-million-children/108-282425) · `en`
+
+Colombo, May 12 (Daily Mirror) - Some people make popular statements from political platforms in the guise of continuing to develop and maintain the school lunch programme by spending Rs. 26 billion for 1.7 million children, covering all students in the primary grades in the country, said Education Minister Susil Premajayantha.
+
+While participating as the chief guest at the inauguration of the new six-storied dormitory complex built earlier for the students of the German Tech Institute, Minister Premajayantha said the politicians who claim that all schoolchildren in the country will receive lunch should have conducted a practical numerical analysis before making such statements.
+
+◼️
+
+[Data](articles/ad067e89.json)
+
+[Extended Data](ext_articles/ad067e89.ext.json)
+
+---
+
+### Some 2,000 Buddhist monks abandon robes annually: Champika Ranawaka
+
+*2024-05-12 21:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-2-000-Buddhist-monks-abandon-robes-annually-Champika-Ranawaka/108-282423) · `en`
+
+MAy 12 (Daily Mirror) - As many as 2,000 Buddhist monks with higher ordination leave their robes annually and the economic crisis is one of the reasons for this, United Republican Front (URF) leader MP Patali Champika Ranawaka said.
+
+Addressing a gathering of leading Buddhist monks at the Nagananda Vihara in Manelwatte, he said everyone should cast aside their differences and unite to revitalize the economy.
+
+He stressed the importance of obtaining blessings of the Buddhist clergy for this.
+
+◼️
+
+[Data](articles/f210b61c.json)
+
+[Extended Data](ext_articles/f210b61c.ext.json)
 
 ---
 
@@ -105,6 +201,8 @@ Addressing the gathering, the President mentioned that four key laws will be int
 ...
 
 [Data](articles/eb967fd9.json)
+
+[Extended Data](ext_articles/eb967fd9.ext.json)
 
 ---
 
@@ -144,21 +242,27 @@ Addressing the media, he said that the government had handed over the management
 
 ---
 
-### මහ පාරේ බයික් රේස් ගිය 14ක් අත්අඩංගුවට
+### 14 bike race arrested on Maha road
 
 *2024-05-12 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196549) · `si`
 
-මහරගම ටැංගෝ බෝඩ් හන්දියේ සිට පන්නිපිටිය දෙසට අපරීක්ෂාකාරී ලෙස අධික වේගයෙන් යතුරුපැදි ධාවනය කළ තරුණයන් 14 දෙනෙකු මහරගම පොලීසිය විසින් අද (12) අත්අඩංගුවට ගනු ලැබීය.
+14 bikers arrested in Maharagama for an illegal race, winner planned to award a disguised man as a prize. Remanded until 15th at Nugegoda Magistrate's Court.
 
-මෙය ධාවන තරගයක් බවත් අන්තර්ජාලයේ ප්‍රසිද්ධ කර තිබූ යෙදවුමක් හරහා මොවුන් ඊට සම්බන්ධ වූ බවත් හෙළිවී ඇත.
+🟩
 
-තරගයේ ජයග්‍රාහකයාට, ලබාදෙන ත්‍යාග මුදලට අමතරව රූමත් තරුණියකගේ වෙස් ගත් තරුණයෙක් ලබාදීමටත් සූදානම් කර තිබූ බව ප්‍රශ්න කිරීම්වලදී හෙළිවී තිබේ.
+The Maharagama Police are arrested by the Maharagama Police today (12).
 
-අත්අඩංගුවට ගත් තරුණයන් 14 දෙනා නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය විසින් ලබන 15 තෙක් රක්ෂිත බන්ධනාගාරගත කර ඇත.
+It was revealed that this was a race and had joined the internet.
+
+It has been revealed that the winner of the competition was also prepared to provide a young man who disguised a beautiful girl in addition to the prize.
+
+The 14 arrested have been remanded until 15 of the Nugegoda Magistrate's Court.
 
 ◼️
 
 [Data](articles/3164e49d.json)
+
+[Extended Data](ext_articles/3164e49d.ext.json)
 
 ---
 
@@ -182,6 +286,24 @@ The first six days of the examination has been completed and several other subje
 
 ---
 
+### Rapid decline in birthrate; having kids has not become priority of new generation
+
+*2024-05-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapid-decline-in-birthrate-having-kids-has-not-become-priority-of-new-generation/108-282419) · `en`
+
+Colombo, May 12 (Daily Mirror) - The birth rate in Sri Lanka is on a rapid decline, and currently it has decreased by 30%, Kalubowila Teaching Hospital gynecologist Prof. Ajith Fernando said.
+
+Addressing the media, the doctor said that the number of births, which was about 360,000, has decreased to about 240,000.
+
+The doctor claimed that economic challenges are the primary reason for the declining birth rate in the country. Many families are opting not to have a second child due to these economic difficulties.
+
+...
+
+[Data](articles/100262e3.json)
+
+[Extended Data](ext_articles/100262e3.ext.json)
+
+---
+
 ### Rapid decline in birthrate; making children has not become priority of new generation
 
 *2024-05-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapid-decline-in-birthrate-making-children-has-not-become-priority-of-new-generation/108-282419) · `en`
@@ -197,6 +319,62 @@ The doctor claimed that economic challenges are the primary reason for the decli
 [Data](articles/6ad7d768.json)
 
 [Extended Data](ext_articles/6ad7d768.ext.json)
+
+---
+
+### 19 month child accident dead in a piece of carrots
+
+*2024-05-12 19:43:43* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-අල-කැබැල්ලක්-සිරවී-මාස-19ක-දරුවා-මරුට/11-409580) · `si`
+
+A 19-month-old child died after choking on a piece of carrot in Saliyawewa, Anuradhapura. The incident occurred in the morning, and the child was rushed to the Ambulagama District Hospital. Despite efforts, the child was pronounced dead upon arrival. An autopsy was conducted by Mr. Gunatilake at the Anuradhapura Teaching Hospital.
+
+🟩
+
+Saliyawewa Police said that the death inspection of the Anuradhapura Teaching Hospital revealed that a piece of carrot was caused by a piece of carrots in Saliyawewa.
+
+Wijesinghe Mudiyanseesala's town was deceased, a bite of Wijesinghe Mudiyansesala's stay.
+
+The accident had occurred while at the end of the morning and immediately after his at the time, the motherland was taken to the Ambulagama District Hospital in the Ambulance Service to the Nochchiyagama District Hospital.
+
+Steps have been taken to the Anuradhapura Teaching Hospital, police said, but the child had detected the deceased to the hospital.
+
+Post-medical test of this death is the Judicial Medical Officer of Anuradhapura Teaching Hospital. The autopsy was carried out by Mr. Gunatilake and the autopsy was carried out by acting of acting of acting of acting at Anuradhapura Teaching Hospital.
+
+◼️
+
+[Data](articles/e357cb7c.json)
+
+[Extended Data](ext_articles/e357cb7c.ext.json)
+
+---
+
+### President tells us to increase salaries
+
+*2024-05-12 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩිකරන-හැටි-ජනපති-කියයි/11-409579) · `si`
+
+President Ranil Wickremesinghe announced plans to increase public servant salaries and outlined four new laws aimed at boosting the country's economy, including a Public Debt Management Law and a State Currency Act. He also mentioned the International Monetary Fund and labor agreements as part of the economic strategy. The President emphasized the importance of all political parties supporting these initiatives for the country's future economic growth.
+
+🟩
+
+Steps will be taken to increase the salaries of public servants with the expected 3% economic growth in the next year
+
+Four new laws to establish rapid economic growth in the country
+
+Public Debt Management Law, State Currency Act and Economic Converting Law in Parliament in June
+
+The terms of the International Monetary Fund and the Countries of the Labor are also brought as a law.
+
+All political parties should be given to the future of the country - President Mahinda Rajapaksa addressing the International Nursing Day celebrations
+
+President Ranil Wickremesinghe said that the economic growth rate would increase to 3% in 2025, "President Ranil Wickremesinghe said.
+
+The President made this observation addressing the International Nursing Day Celebration organized by the Public Service United Nurses Association at Temple Trees this morning.
+
+...
+
+[Data](articles/ab11617f.json)
+
+[Extended Data](ext_articles/ab11617f.ext.json)
 
 ---
 
@@ -247,6 +425,36 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/48edae86.json)
 
 [Extended Data](ext_articles/48edae86.ext.json)
+
+---
+
+### Long-term remedies to minimize landslide landslides
+
+*2024-05-12 19:01:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරඳගොල්ල-නායයාම-අවම-කිරීමට-දිගු-කාලීන-පිළියම්/11-409578) · `si`
+
+The Deputy Director of the Disaster Management Center in Badulla has initiated a project to reduce landslide risks in Ella Karandagolla, focusing on soil stabilization techniques. This effort involves technical officers from the National Building Institute, local government bodies, and residents. The project aims to address the increased landslide activity due to heavy rainfall, offering a sustainable solution for this tourist hotspot.
+
+🟩
+
+The Deputy Director of the Disaster Management Center, Badulla, has been launched since 12 to minimize the risk of landslide risk of landslides in Ella Karandagolla.
+
+He said that the removal of the rubbed to the interior of the earth has been launched from today to the interior of the earth using techniques in the earthly land.
+
+He said the technical officers including technical officials are carrying out the instructions of a specialist group of the National Building Institute.
+
+The Ella Divisional Secretariat, Ella Divisional Council, Ella Police, Water Supply and Electricity Board and the Residents.
+
+He said that the landslide will be more active as heavy rainfall in the Ella trouble.
+
+However, he said that the landslides have taken steps to minimize the risk of the Ella Wellawaya and its role in the Ella.
+
+A speedy program has been launched to build land and houses for those who have lost their homes regarding the landslide.
+
+...
+
+[Data](articles/3a7d6d97.json)
+
+[Extended Data](ext_articles/3a7d6d97.ext.json)
 
 ---
 
@@ -603,6 +811,30 @@ He recently visited Sri Lanka and held various meetings to the North and East.. 
 [Data](articles/43df802e.json)
 
 [Extended Data](ext_articles/43df802e.ext.json)
+
+---
+
+### Man who received first pig kidney transplant dies
+
+*2024-05-12 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Man-who-received-first-pig-kidney-transplant-dies/107-282417) · `en`
+
+USA, May 12 (BBC) - The first man to receive a genetically modified pig kidney transplant has died two months after the operation, the hospital which carried out the procedure has said.
+
+Richard "Rick" Slayman, 62, was suffering with end-stage kidney disease before undergoing the operation in March.
+
+Massachusetts General Hospital (MGH) said on Sunday there was no indication his death was a result of the transplant.
+
+Transplants of other organs from genetically modified pigs have failed in the past, but the operation on Mr Slayman was hailed as a historic milestone.
+
+In addition to kidney disease, Mr Slayman also suffered from Type 2 diabetes and hypertension. In 2018, he had a human kidney transplant, but it began to fail after five years.
+
+Following his pig kidney transplant on 16 March, his doctors confirmed he no longer needed dialysis after the new organ was said to be functioning well.
+
+...
+
+[Data](articles/7f45c78c.json)
+
+[Extended Data](ext_articles/7f45c78c.ext.json)
 
 ---
 
@@ -1975,213 +2207,5 @@ The bus security police suspect that the bus brake has been working before the a
 [Data](articles/d7ed3558.json)
 
 [Extended Data](ext_articles/d7ed3558.ext.json)
-
----
-
-### Palestine in UN: 153 countries support
-
-*2024-05-12 11:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நாவில்-பாலஸ்தீனம்-153-நாடுகள்-ஆதரவு/50-337160) · `ta`
-
-153 UN members supported Palestine's bid for UN membership, with 10 against and 23 abstaining. The resolution, demanding an immediate halt to the Gaza war, was passed in December. Palestine, seeking full UN membership, faces opposition from the US and Israel, requiring support from the Security Council.
-
-🟩
-
-153 countries voted on Saturday (11) in support of the resolution of Palestine to be a member of the United Nations.
-
-The UN resolution was passed last December demanding that the war in Gaza be stopped immediately. Of the 193 members of the United Nations, 153 voted in favor of the resolution. 10 countries voted against. 23 countries quit without participating in the referendum.
-
-Palestine is currently not included as a member of the UN. It has only been given the status of the country. Palestine has long been demanding that the United Nations be included as a member.
-
-This requires the support of the two stocks in the 3rds and the UN Security Council.. In this case, Palestine re -requested a member of the United Nations last April. But the US, which is Israel's ally, has banned the US.
-
-...
-
-[Data](articles/255a9173.json)
-
-[Extended Data](ext_articles/255a9173.ext.json)
-
----
-
-### Gotabhaya Rajapakse helped him to leave Sri Lanka because of the danger of being assaulted
-
-*2024-05-12 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183296) · `ta`
-
-Mohammed Nasheed, former Maldives President, helped Gotabhaya Rajapakse escape Sri Lanka due to assassination threats. He highlighted Sri Lanka's unique democratic stability, contrasting it with the current political climate. Nasheed expressed concern over the potential spread of the issues he faced in Mali to South Asia, emphasizing the importance of Gotabhaya Rajapakse's resignation.
-
-🟩
-
-Former President of the Maldives Mohammed Nasheed said that he helped him leave Sri Lanka due to the danger of being attacked and murdered during the Arakalaya.
-
-The former President of the Maldives has said that he has helped him flee on July 12, 2022, to prevent a Sri Lankan president from beating during the Arakalaya to end the pride of the long -term protected Sri Lankan democracy.
-
-He said Sri Lanka had never faced a conspiracy like different countries, but even during the civil war, Sri Lankan elections had not been missed.
-
-The country has always been involved in the change of power through elections, he said that the president in Sri Lanka has never been assaulted and murdered.
-
-I did not want to face Colombo in Sri Lanka as I faced during my presidential period.
-
-Mohammed Nasheed said that the same government is still in office today.
-
-...
-
-[Data](articles/453561d9.json)
-
-[Extended Data](ext_articles/453561d9.ext.json)
-
----
-
-### At least 11 dead, mostly students, in Indonesia bus crash
-
-*2024-05-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99158/at-least-11-dead-mostly-students-in-indonesia-bus-crash) · `en`
-
-A bus slammed into cars and motorbikes after its brakes apparently malfunctioned in Indonesia’s West Java province, killing at least 11 people, mostly students, and injuring dozens of others, officials said Sunday.
-
-The bus carrying 61 students and teachers was returning to a high school in Depok outside Jakarta, the capital, late Saturday from the hilly resort area of Bandung after a graduation celebration, said West Java police spokesperson Jules Abraham Abast.
-
-It sped out of control on a downhill road and crossed lanes, hitting several cars and motorbikes before it crashed into an electricity pole, he said.
-
-Nine people died at the scene and two others died later in the hospital, including a teacher and a local motorist, Abast said. Fifty-three other people were hospitalized with injuries, including some in critical condition, he said.
-
-“We are still investigating the cause of the accident, but a preliminary investigation showed the bus’s brakes malfunctioned,” Abast said.
-
-...
-
-[Data](articles/ac9e80ff.json)
-
-[Extended Data](ext_articles/ac9e80ff.ext.json)
-
----
-
-### Special Discounts for Tanzels
-
-*2024-05-12 11:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்சல்களுக்கு-விசேட-தள்ளுபடி/175-337159) · `ta`
-
-Lanka Sathosa offers Vesak discounts on food items. Tanzal orders must be placed at Lanka Sathosa branches by the 17th.
-
-🟩
-
-Lanka Sathosa has announced that it has decided to issue a special discount on food items for the Vesak festival.
-
-Accordingly, the Tanzal organizers will issue orders to the nearest Lanka Sathosa branch before the 17th of this month.
-
-◼️
-
-[Data](articles/3f72b26b.json)
-
-[Extended Data](ext_articles/3f72b26b.ext.json)
-
----
-
-### Special offer for tonsles
-
-*2024-05-12 11:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்சல்களுக்கு-விசேட-சலுகை/175-337159) · `ta`
-
-Lanka Sathosa offers special concessions on food items for Vesak festival. Tanzal organizers can place orders at Lanka Sathosa branches before May 17th.
-
-🟩
-
-Lanka Sathosa has announced that it has decided to make a special concession for food items for the Vesak festival.
-
-Accordingly, the Tanzal organizers will issue orders to the nearest Lanka Sathosa branch before the 17th of this month.
-
-◼️
-
-[Data](articles/6d78efbe.json)
-
-[Extended Data](ext_articles/6d78efbe.ext.json)
-
----
-
-### International Monetary Finance Reports have not yet been issued by the President - Sumanthiran
-
-*2024-05-12 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183289) · `ta`
-
-Sumanthiran, representing the Tamil National Alliance, criticizes the lack of technical reports on IMF agreements by the Sri Lanka Tamil State Party and President Ranil Wickremesinghe. He emphasizes the importance of these reports for domestic and foreign debt restructuring.
-
-🟩
-
-The Sri Lanka Tamil State Party has not yet issued any technical reports on the International Monetary Fund Agreements. District Parliamentarian President Attorney MA Sumanthiran said.
-
-On behalf of the Tamil National Alliance (TNA), I was invited to discuss with representatives of political parties regarding the Treaty with the International Monetary Fund.. Neither the main opposition nor the other parties have contributed to this meeting.
-
-At this meeting, President Ranil Wickremesinghe promised to hand over a full technical report on the agreement with the IMF.
-
-But until now he has not sent any such documents. Talks on the issue of debt renovation are currently coming out.
-
-Therefore, the contents of the technical report are very important in domestic debt restructuring and foreign debt restructuring issues. I reiterate to reveal the technical report on that way.
-
-◼️
-
-[Data](articles/c2fddefa.json)
-
-[Extended Data](ext_articles/c2fddefa.ext.json)
-
----
-
-### Call for public debate is still tug
-
-*2024-05-12 11:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-விவாதத்திற்கான-அழைப்பு-இன்னும்-இழுபறி/175-337157) · `ta`
-
-Rahul Gandhi accepted a public debate invite with PM Modi, supported by two former judges and a journalist. In contrast, Sri Lanka's major leaders, Sajith Premadasa and Ranil Wickremesinghe, declined a debate invitation, with only Anura Kumara Dissanayake agreeing.
-
-🟩
-
-Indian Congress leader Rahul Gandhi on Saturday accepted an invitation for a public debate with Prime Minister Narendra Modi.
-
-This was accepted by two former judges and a senior journalist by letter to the two leaders.
-
-However, in Sri Lanka, the two major leaders have not accepted the invitation of our brother -in -law Daily Mirror to debate between three major presidential candidates.
-
-It is noteworthy that SJB leader Sajith Premadasa and President Ranil Wickremesinghe have not accepted the invitation, but only Anura Kumara Dissanayake, the leader of the National People's Power (NPP), has given a favorable response so far.
-
-◼️
-
-[Data](articles/5ee50d6f.json)
-
-[Extended Data](ext_articles/5ee50d6f.ext.json)
-
----
-
-### Young man death in Malaysia
-
-*2024-05-12 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலேசியாவில்-பொயிலர்-வெடித்து-இளைஞன்-மரணம்/76-337155) · `ta`
-
-Durairaj Rajkumar Davidson, 24, from Maskeliya, died in Malaysia. He worked at a mineral company in Sri Lanka and passed away on Sunday (05). His funeral is on Sunday (12) at the Braunsweek Montehm Public Cemetery.
-
-🟩
-
-A young man from Maskeliya, who went to Malaysia, died there.
-
-The deceased is Durairaj Rajkumar Davidson (24 years old) from the Maskeliya Browsweek Estate Motinghem section.
-
-Went to work a year ago to a mineral voter company in Sri Lanka from Sri Lanka. This disaster is held on Sunday (05). His corpse has been brought. The funeral was to be held on Sunday (12) at the Public Cemetery of the Braunsweek Montehm.
-
-◼️
-
-[Data](articles/50a0adcd.json)
-
-[Extended Data](ext_articles/50a0adcd.ext.json)
-
----
-
-### Teacher arrested for sending the questionnaire
-
-*2024-05-12 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளை-அனுப்பிய-ஆசிரியர்-கைது/175-337153) · `ta`
-
-A teacher was arrested for allegedly sending a GCE Ordinary Level exam paper via WhatsApp during the exam, disrupting the test. The incident occurred on Thursday, and the teacher was arrested on Sunday. The case is now in court.
-
-🟩
-
-Additional Class Teacher has been arrested in connection with the alleged incident of what has been sent by the WhatsApp on Thursday (09) at the ongoing GCE Ordinary Level Examination.
-
-Criminal Investigation Department officials arrested the suspect on Sunday (12).
-
-As the English Examination commenced at 8.30 am, the author sent the Question Paper via WhatsApp at 9.11 am. The arrested suspect is to be produced in court.
-
-◼️
-
-[Data](articles/89644218.json)
-
-[Extended Data](ext_articles/89644218.ext.json)
 
 ---

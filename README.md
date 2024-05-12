@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 20:03:19**
+As of **2024-05-12 20:18:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,516 (100.0%) of 23,517 articles have been extended.
+23,517 (100.0%) of 23,517 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,19 +124,25 @@ The Tamil general candidate's trust issue is gaining public interest, seen as a 
 
 ---
 
-### පියාගේ වෙඩි පහරින් පුතාට තුවාල
+### Son injured in father's shot
 
 *2024-05-12 18:22:41* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-වෙඩි-පහරින්-පුතාට-තුවාල/11-409575) · `si`
 
-සූරියවැව වැවේගම ප්‍රදේශයේදී පියාගේ වෙඩි පහරින් බරපතල තුවාල ලැබූ පුතෙකු රෝහල් ගතකර ඇතැයි සූරියවැව පොලිසිය පවසයි.
+In Sooriyawewa, a father was shot by his son, seriously injuring him in the thigh. The incident occurred in the Wewagama area, and the son has taken over the father's house. The shooter fled, and police are investigating.
 
-පොලිසිය පැවසුවේ ඊයේ (11) දහවල්  මෙම වෙඩි තැබීම සිදුව ඇති බවයි. අධික ලෙස බීමත්ව සිටි පියා බෙහෙත් කොටන තුවක්කුවක්ද රැගෙන පුතාගේ නිවස අසලට පැමිණ පුතාට බැණවැදී ඇති අතර නිවෙස තුළ දහවල් කෑම කමින් සිටි පුතා බැණ වැදීමට හේතුව විමසීමට නිවෙසින් එලියට පැමිණීමේදී වෙඩිතැබීම සිදු කර තිබේ.
+🟩
 
-වෙඩි පහර තුවාලකරුගේ වම් කකුලේ දණහිසට ඉහලින් කලවා ප්‍රදේශයට වැදී ඇත. වෙඩි තැබූ පියා පලාගොස් ඇතැයි පොලිසිය පවසයි.සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන සූරියවැව පොලීසිය විසින් සිදුකරනු ලබයි.
+Suriyawewa Police said that a father was seriously injured in the Wewagama area in Sooriyawewa.
+
+Police said this shot had taken place yesterday (11). The father had shouting the son's home and the son of the father took over the father's house with an overwhelming father.
+
+Shot shot injured in the thigh area above the knees of the left leg. The father of the shooting has fled the matter. Sooriyawewa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3c61dd2c.json)
+
+[Extended Data](ext_articles/3c61dd2c.ext.json)
 
 ---
 

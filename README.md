@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 11:33:50**
+As of **2024-05-12 11:53:09**
 
 ## Newspaper Stats
 
-*Scraped **23,422** Articles*
+*Scraped **23,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,83 +16,145 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,984
-adaderanalk | 2,739
-tamilmirrorlk | 2,746
+adaderanalk | 2,740
+tamilmirrorlk | 2,747
 virakesarilk | 3,476
 dailymirrorlk | 3,684
-adaderanasinhalalk | 3,757
+adaderanasinhalalk | 3,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,417 (100.0%) of 23,422 articles have been extended.
+23,422 (100.0%) of 23,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### தன்சல்களுக்கு விசேட தள்ளுபடி
+### ஐ.நாவில்  பாலஸ்தீனம்:  153 நாடுகள் ஆதரவு
+
+*2024-05-12 11:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நாவில்-பாலஸ்தீனம்-153-நாடுகள்-ஆதரவு/50-337160) · `ta`
+
+ஐக்கிய நாடுகள் சபையில் பாலஸ்தீனத்தை உறுப்பினராக சேர்க்கும் தீர்மானத்துக்கு ஆதரவாக 153 நாடுகள் சனிக்கிழமை (11)  வாக்களித்துள்ளன.
+
+காசாவில் நடைபெறும் போரை உடனடியாக நிறுத்த வேண்டும் என ஐ.நா சபையில் கடந்த டிசெம்பர் மாதம் தீர்மானம் கொண்டு வரப்பட்டது. ஐ.நாசபையில் மொத்தம் உள்ள 193 உறுப்புநாடுகளில், 153 நாடுகள் இந்த தீர்மானத்துக்கு ஆதரவாக வாக்களித்தன. 10 நாடுகள் எதிராக வாக்களித்தன. 23 நாடுகள் வாக்கெடுப்பில் பங்கேற்காமல் விலகியிருந்தன.
+
+ஐ.நா சபையில் பாலஸ்தீனம் தற்போது உறுப்பினராக சேர்க்கப்படவில்லை. அதற்கு பார்வையாளர் நாடுஎன்ற அந்தஸ்து மட்டும் வழங்கப்பட்டுள்ளது. ஐ.நா சபையில் தங்களையும் உறுப்பினராக சேர்க்க வேண்டும் என பாலஸ்தீனம் நீண்ட காலமாக கோரிக்கை விடுத்து வருகிறது.
+
+இதற்கு ஐ.நா சபையில் உறுப்பினராக உள்ள நாடுகளில் 3-ல் இரு பங்குநாடுகளின் ஆதரவும், ஐ.நா பாதுகாப்பு கவுன்சிலின் ஒப்புதலும் தேவை. இந்நிலையில் ஐ.நா சபையில் உறுப்பினராக பாலஸ்தீனம் கடந்த ஏப்ரல் மாதம் மீண்டும் கோரிக்கை விடுத்தது. ஆனால் இஸ்ரேலின் நட்பு நாடாக இருக்கும் வீட்டோ அதிகாரம் உள்ள அமெரிக்கா இதற்கு தடை ஏற்படுத்தியது.
+
+...
+
+[Data](articles/255a9173.json)
+
+---
+
+### At least 11 dead, mostly students, in Indonesia bus crash
+
+*2024-05-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99158/at-least-11-dead-mostly-students-in-indonesia-bus-crash) · `en`
+
+A bus slammed into cars and motorbikes after its brakes apparently malfunctioned in Indonesia’s West Java province, killing at least 11 people, mostly students, and injuring dozens of others, officials said Sunday.
+
+The bus carrying 61 students and teachers was returning to a high school in Depok outside Jakarta, the capital, late Saturday from the hilly resort area of Bandung after a graduation celebration, said West Java police spokesperson Jules Abraham Abast.
+
+It sped out of control on a downhill road and crossed lanes, hitting several cars and motorbikes before it crashed into an electricity pole, he said.
+
+Nine people died at the scene and two others died later in the hospital, including a teacher and a local motorist, Abast said. Fifty-three other people were hospitalized with injuries, including some in critical condition, he said.
+
+“We are still investigating the cause of the accident, but a preliminary investigation showed the bus’s brakes malfunctioned,” Abast said.
+
+...
+
+[Data](articles/ac9e80ff.json)
+
+---
+
+### Special Discounts for Tanzels
 
 *2024-05-12 11:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்சல்களுக்கு-விசேட-தள்ளுபடி/175-337159) · `ta`
 
-வெசாக் பண்டிகையை முன்னிட்டு ஏற்பாடு செய்யப்படும் தன்சல்களுக்கான உணவுப் பொருட்களுக்கு விசேட தள்ளுபடி வழங்க தீர்மானித்துள்ளதாக லங்கா சதொச அறிவித்துள்ளது.
+Lanka Sathosa offers Vesak discounts on food items. Tanzal orders must be placed at Lanka Sathosa branches by the 17th.
 
-இதன்படி, இம்மாதம் 17ஆம் திகதிக்கு முன்னர், அருகாமையிலுள்ள லங்கா சதொச கிளைக்கு தன்சல் ஏற்பாட்டாளர்கள் ஆர்டர்களை வழங்குமாறு லங்கா சதொச மேலும் தெரிவிக்கின்றது.
+🟩
+
+Lanka Sathosa has announced that it has decided to issue a special discount on food items for the Vesak festival.
+
+Accordingly, the Tanzal organizers will issue orders to the nearest Lanka Sathosa branch before the 17th of this month.
 
 ◼️
 
 [Data](articles/3f72b26b.json)
 
+[Extended Data](ext_articles/3f72b26b.ext.json)
+
 ---
 
-### பொது விவாதத்திற்கான அழைப்பு இன்னும் இழுபறி
+### Call for public debate is still tug
 
 *2024-05-12 11:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-விவாதத்திற்கான-அழைப்பு-இன்னும்-இழுபறி/175-337157) · `ta`
 
-பிரதமர் நரேந்திர மோடியுடனான பொது விவாதத்திற்கான அழைப்பை இந்திய காங்கிரஸ் தலைவர் ராகுல் காந்தி சனிக்கிழமை ஏற்றுக்கொண்டார்.
+Rahul Gandhi accepted a public debate invite with PM Modi, supported by two former judges and a journalist. In contrast, Sri Lanka's major leaders, Sajith Premadasa and Ranil Wickremesinghe, declined a debate invitation, with only Anura Kumara Dissanayake agreeing.
 
-இரண்டு முன்னாள் நீதிபதிகள் மற்றும் மூத்த பத்திரிகையாளர் ஒருவரும் இணைந்து கடிதம் மூலம் இரு தலைவர்களுக்கும் அனுப்பப்பட்ட கோரிக்கையே இவ்வாறு ஏற்றுக் கொள்ளப்பட்டது.
+🟩
 
-எனினும் இன்னும் இலங்கையில், மூன்று முக்கிய ஜனாதிபதி வேட்பாளர்களுக்கு இடையே விவாதம் நடத்த எமது சகோதர ஊடகமான டெய்லி மிரர் விடுத்த அழைப்பை முக்கிய இரு தலைமைகள் ஏற்கவில்லை.
+Indian Congress leader Rahul Gandhi on Saturday accepted an invitation for a public debate with Prime Minister Narendra Modi.
 
-SJB தலைவர் சஜித் பிரேமதாச மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆகிய இருவரும் அழைப்பை ஏற்காத நிலையில், தேசிய மக்கள் சக்தியின் (NPP) தலைவர் அனுரகுமார திஸாநாயக்க மாத்திரமே இதுவரை சாதகமான பதிலை வழங்கியுள்ளார் என்பது குறிப்பிடத்தக்கது.
+This was accepted by two former judges and a senior journalist by letter to the two leaders.
+
+However, in Sri Lanka, the two major leaders have not accepted the invitation of our brother -in -law Daily Mirror to debate between three major presidential candidates.
+
+It is noteworthy that SJB leader Sajith Premadasa and President Ranil Wickremesinghe have not accepted the invitation, but only Anura Kumara Dissanayake, the leader of the National People's Power (NPP), has given a favorable response so far.
 
 ◼️
 
 [Data](articles/5ee50d6f.json)
 
+[Extended Data](ext_articles/5ee50d6f.ext.json)
+
 ---
 
-### மலேசியாவில் பொயிலர் வெடித்து இளைஞன் மரணம்
+### Young man death in Malaysia
 
 *2024-05-12 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலேசியாவில்-பொயிலர்-வெடித்து-இளைஞன்-மரணம்/76-337155) · `ta`
 
-மலேசியாவுக்கு பணிக்கு சென்ற மஸ்கெலியா பகுதியைச் சேர்ந்த இளைஞன்  அங்கு பொயிலர் வெடித்து மரணித்துள்ளார்.
+Durairaj Rajkumar Davidson, 24, from Maskeliya, died in Malaysia. He worked at a mineral company in Sri Lanka and passed away on Sunday (05). His funeral is on Sunday (12) at the Braunsweek Montehm Public Cemetery.
 
-மஸ்கெலியா ப்ரௌன்ஸ்வீக் தோட்ட மோட்டிங்ஹேம் பிரிவைச் சேர்ந்த துரைராஜ் ராஜ்குமார் டேவிட்சன் (வயது 24 வயது) என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-இலங்கையில் இருந்து மலேசியாவில் உள்ள மினரல் வோட்டர் நிறுவனம் ஒன்றுக்கு ஒரு வருடத்திற்கு முன்னர் பணிக்கு சென்றிருந்தார். இந்த அனர்த்தம், ஞாயிற்றுக்கிழமை (05) இடம்பெற்றுள்ளது. அவரது சடலம் கொண்டுவரப்பட்டுள்ளது. இறுதி கிரியைகள்   நல்லடக்கம் ப்ரௌன்ஸ்வீக் மொன்டிஹம் பொது மயானத்தில் ஞாயிற்றுக்கிழமை (12) இடம்பெறவிருந்தது.
+A young man from Maskeliya, who went to Malaysia, died there.
+
+The deceased is Durairaj Rajkumar Davidson (24 years old) from the Maskeliya Browsweek Estate Motinghem section.
+
+Went to work a year ago to a mineral voter company in Sri Lanka from Sri Lanka. This disaster is held on Sunday (05). His corpse has been brought. The funeral was to be held on Sunday (12) at the Public Cemetery of the Braunsweek Montehm.
 
 ◼️
 
 [Data](articles/50a0adcd.json)
 
+[Extended Data](ext_articles/50a0adcd.ext.json)
+
 ---
 
-### வினாத்தாளை அனுப்பிய ஆசிரியர் கைது
+### Teacher arrested for sending the questionnaire
 
 *2024-05-12 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளை-அனுப்பிய-ஆசிரியர்-கைது/175-337153) · `ta`
 
-தற்போது நடைபெற்றுக்கொண்டிருக்கும் கல்விப் பொதுத் தராதர சாதாரண தர பரீட்சையில், வியாழக்கிழமை (09) நடைபெற்ற ஆங்கில வினா தாளை வட்ஸ்அப் ஊடாக அனுப்பியதாக கூறப்படும் சம்பவம் தொடர்பில் மேலதிக வகுப்பு ஆசிரியர் கைது செய்யப்பட்டுள்ளார்.
+A teacher was arrested for allegedly sending a GCE Ordinary Level exam paper via WhatsApp during the exam, disrupting the test. The incident occurred on Thursday, and the teacher was arrested on Sunday. The case is now in court.
 
-குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் கண்டி பகுதியில் வைத்தே சந்தேகநபரை  ஞாயிற்றுக்கிழமை (12​) கைது செய்துள்ளனர்.
+🟩
 
-ஆங்கில பரீட்சை காலை 8.30க்கு ஆரம்பமான நிலையில், இந்த ஆசிரியர் வினாத் தாளை வட்ஸ்அப் ஊடாக காலை 9.11க்கு  அனுப்பியுள்ளார். கைது செய்யப்பட்ட சந்தேகநபர்   நீதிமன்றத்தில் முன்னிலைப்படுத்தப்படவுள்ளார்.
+Additional Class Teacher has been arrested in connection with the alleged incident of what has been sent by the WhatsApp on Thursday (09) at the ongoing GCE Ordinary Level Examination.
+
+Criminal Investigation Department officials arrested the suspect on Sunday (12).
+
+As the English Examination commenced at 8.30 am, the author sent the Question Paper via WhatsApp at 9.11 am. The arrested suspect is to be produced in court.
 
 ◼️
 
 [Data](articles/89644218.json)
+
+[Extended Data](ext_articles/89644218.ext.json)
 
 ---
 
@@ -147,6 +209,28 @@ The ship is expected to reach the Naga port on Sunday (12) and will be launched 
 [Data](articles/ce810c57.json)
 
 [Extended Data](ext_articles/ce810c57.ext.json)
+
+---
+
+### ජේම්ස් ඇන්ඩර්සන් තීරණයක් ගනී
+
+*2024-05-12 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196530) · `si`
+
+එංගලන්ත සුපිරි වේගපන්දු යවන ක්‍රීඩක ජේම්ස් ඇන්ඩර්සන් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමට තීරණය කර තිබේ.
+
+ඒ අනුව ජුලි 10 වනදා බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග ඓතිහාසික ලොර්ඩ්ස් ක්‍රීඩාංගණයේදී ආරම්භ වන පළමු ටෙස්ට් තරගයෙන් පසුව ඇන්ඩර්සන් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමට නියමිතය.
+
+2003 වසරේ මැයි මාසයේදී ජාත්‍යන්තර ටෙස්ට් වරම් හිමිකර ගත් ඇන්ඩර්සන් ටෙස්ට් කඩුලු 700ක් දවා ගත් ලොව පළමු වේගපන්දු යවන්නා වෙයි.
+
+සිය ෆේස්බුක් ගිණුමේ සමුගැනීම පිළිබඳ සටහනක් තබමින් ඇන්ඩර්සන් පවසා තිබුණේ තමන් සිය රට නියෝජනය කළ වසර 20ක කාලය පුරා තමන්ට සවියක් වූ පුහුණුකරුවන්, ක්‍රීඩකයින් සහ පවුලේ සියලු දෙනාට මෙන්ම ක්‍රීඩාලෝලීන්ටද ස්තිතුවන්ත වන බවය.
+
+41 හැවිරිදි ඇන්ඩර්සන් මේ වන විට ටෙස්ට් තරග 187කට ක්‍රීඩා කරමින් බිඳ දමා ඇති කඩුලු සංඛ්‍යාව 700කි.
+
+ජේම්ස් ඇන්ඩර්සන් එංගලන්තය නියෝජනය කරමින් එක්දින තරග 194කදී කඩුලු 269ක් සහ 20-20 තරග 19කදී කඩුලු 18ක් දවා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/75c0e777.json)
 
 ---
 
@@ -368,21 +452,27 @@ The child had fallen into the insecure well near the house yesterday (11), polic
 
 ---
 
-### බුද්ධාගමට ලැදි රාජ්‍ය නිලධාරීන්ට තායිලන්තයෙන් තාවකාලික පැවිදි වරමක්
+### Buddhism loyal state officials have a temporary monastery in Thailand
 
 *2024-05-12 08:05:08* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධාගමට-ලැදි-රාජ්‍ය-නිලධාරීන්ට-තායිලන්තයෙන්-තාවකාලික-පැවිදි-වරමක්/11-409563) · `si`
 
-තායිලන්ත රජුගේ උපන් දිනය නිමිත්තෙන් මෙරට බෞද්ධාගමිකයන් වෙනුවෙන් ඉදිරි  ජුනි මාසයේදී  දින 15 ක් පුරා  තාවකාලික පැවිද්ද ලබා දීමේ විශේෂ වැඩ සටහනක් ක්‍රියාත්මක කිරීමට තායිලන්ත රජය සැලසුම් කර ඇතැයි බුද්ධශාසන ආගමික හා සංස්කෘතික අමාත්‍යාංශය පවසයි.
+Buddhist state officials in Thailand will temporarily become monks in June to celebrate the King's birthday. The government provides free food, airfare, lodging, and paid leave for this religious activity.
 
-මේ යටතේ මෙරට  රාජ්‍ය සේවයේ සියලු  සේවාවන්  නියෝජනය වන පරිදි තෝරා ගන්නා  රාජ්‍ය  නිලධාරීන්ටද තාවකාලික පැවිද්ද ලබා දීමට තායිලන්ත රජය  එකඟතාව පල කර ඇති බව  එම  අමාත්‍යාංශය පැවසීය.
+🟩
 
-බෞද්ධ  ආගමික කටයුතු සඳහා විශේෂ ඇල්මක් දක්වන වයස අවුරුදු 35 ත් 50 ත් අතර පිරිමි නිලධාරීන්ට බුද්ධ ශාසන අමාත්‍යාංශයේ www.mbs.gov.lk නිල වෙබ් අඩවියේ සඳහන් නිර්නායක හා උපදෙස් අනුව මැයි 22 ට පෙර  මාර්ගගත ක්‍රමයට පමණක් මේ සඳහා  ඉල්ලුම් කළ හැකිය.
+According to the Ministry of Buddhashana Religion, the Ministry of Buddhasana Religious and Culture has planned to implement a special program to provide a special program for Buddhists in June to mark the birthday of King Thailand.
 
-තායිලන්ත තානාපති කාර්යාලය සහ බුද්ධ ශාසන අමාත්‍යාංශය එක්වී පවත්වන සම්මුඛ පරීක්ෂණයක් මගින් මේ වැඩ සටහන සඳහා  තෝරා ගන්නා රජයේ නිලධාරීන්ට තායිලන්ත රජය මගින් නොමිලේ ආහාර පාන, ගුවන් ටිකට් පත් හා නවාතැන් පහසුකම් හා මෙරට  රජයෙන් වැටුප් සහිත විදේශ නිවාඩු ලබාදෙන බවද  බුද්ධ ශාසන අමාත්‍යාංශය පැවසීය.
+The Government has agreed to provide temporary monks to public officials representing all services at the public service.
+
+In the Ministry of Buddha Sasana, the Ministry of Buddha Sasana can only apply for the Actal method of the Official Web Site, on the official website of the Official Webs.G.Gov.lk based on Buddhist religious activities.
+
+The Ministry of Buddha Sasana said that the Ministry of Thailand and the Ministry of Buddha Sasana released by the Ministry of Buddha officials will be given free food, air tickets and lodging and government-paid foreign leave.
 
 ◼️
 
 [Data](articles/1840549d.json)
+
+[Extended Data](ext_articles/1840549d.ext.json)
 
 ---
 
@@ -2167,75 +2257,5 @@ The owner added that the Nilaveli police have lodged a complaint with the incide
 [Data](articles/77604f0d.json)
 
 [Extended Data](ext_articles/77604f0d.ext.json)
-
----
-
-### Strong solar storm hits Earth, could disrupt communications
-
-*2024-05-11 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99145/strong-solar-storm-hits-earth-could-disrupt-communications) · `en`
-
-An unusually strong solar storm hitting Earth could produce northern lights in the U.S. this weekend and potentially disrupt power and communications.
-
-The National Oceanic and Atmospheric Administration issued a rare severe geomagnetic storm warning when a solar outburst reached Earth on Friday afternoon, hours sooner than anticipated. The effects were due to last through the weekend and possibly into next week.
-
-NOAA alerted operators of power plants and spacecraft in orbit to take precautions, as well as the Federal Emergency Management Agency.
-
-“For most people here on planet Earth, they won’t have to do anything,” said Rob Steenburgh, a scientist with NOAA’s Space Weather Prediction Center.
-
-The storm could produce northern lights as far south in the U.S. as Alabama and Northern California, according to NOAA. But it was hard to predict and experts stressed it would not be the dramatic curtains of color normally associated with the northern lights, but more like splashes of greenish hues.
-
-...
-
-[Data](articles/a15af5ae.json)
-
-[Extended Data](ext_articles/a15af5ae.ext.json)
-
----
-
-### Abu Dhabi has passed away
-
-*2024-05-11 11:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அபுதாபி-இளவரசர்-காலமானார்/50-337120) · `ta`
-
-Sheikh Hassa bin Sultan, eldest son of UAE President Sheikh Mohammed bin Saeed Al-Nahyan, has passed away. The international media has reported his untimely death. His funeral was held at his father's mosque in Abu Dhabi, followed by his burial.
-
-🟩
-
-The international media has reported that the Prince of Abu Dhabi Sheikh Hassa bin Sultan bin Sultan Bin Sultan Bin Zayed Al Nahyan is timeless.
-
-The eldest son of the late Abu Dhabi Prince is the eldest son of the United Arab Emirates President Sheikh Mohammed bin Saeed Al -Nahyan.
-
-Sheikh Hassa bin Sultan bin Sultan bin Saeed Al -Nahyan performed the funeral at Sheikh Sultan bin Saeed's first mosque in Abu Dhabi and took Sheikh and worshipers to his final place in the tomb.
-
-◼️
-
-[Data](articles/2b27734e.json)
-
-[Extended Data](ext_articles/2b27734e.ext.json)
-
----
-
-### A mother killed in three
-
-*2024-05-11 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196503) · `si`
-
-A 44-year-old woman was raped and strangled in her home. Her body was found in the bathroom. The police are investigating the case.
-
-🟩
-
-Police say that the woman had been raped and killed.
-
-The 44-year-old mother of the mother, a 44-year-old woman's body was found in front of her toilet.
-
-When her husband returned to fishing, the woman had come to the house, and later said she had died in rushed to the Point Pedro.
-
-The post mortem of the body has been revealed that the woman had been raped and killed by strangling the woman.
-
-The Maradankani Police are conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/ecd011e7.json)
-
-[Extended Data](ext_articles/ecd011e7.ext.json)
 
 ---

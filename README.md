@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 17:18:28**
+As of **2024-05-12 17:33:50**
 
 ## Newspaper Stats
 
-*Scraped **23,494** Articles*
+*Scraped **23,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,992
-adaderanalk | 2,746
+adaderanalk | 2,747
 tamilmirrorlk | 2,759
 virakesarilk | 3,495
-dailymirrorlk | 3,693
+dailymirrorlk | 3,694
 adaderanasinhalalk | 3,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,494 (100.0%) of 23,494 articles have been extended.
+23,494 (100.0%) of 23,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Health trade unions to launch token strike at Central Province hospitals
+
+*2024-05-12 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99165/health-trade-unions-to-launch-token-strike-at-central-province-hospitals) · `en`
+
+Several health sector trade unions have decided to launch a token strike at all hospitals in the Central Province on Monday (13) over their demands.
+
+Accordingly, the Health Trade Union Alliance stated the strike which commences tomorrow will gradually be expanded to other provinces as well.
+
+The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months demanding an allowance increase.
+
+The trade union actions stemmed from the Cabinet Ministers’ approval of a proposal tabled by President Ranil Wickremesinghe seeking to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+◼️
+
+[Data](articles/2b8400a7.json)
+
+---
+
+### Afghanistan floods devastate villages, killing 315
+
+*2024-05-12 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-floods-devastate-villages-killing-315/108-282416) · `en`
+
+NAHRIN, Afghanistan, May 12 (Reuters) - Flash floods caused by heavy rains have devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday, as villagers buried their dead and aid agencies warned of widening havoc.
+
+Thousands of homes were damaged and livestock wiped out, the Taliban-run refugee ministry said, while aid groups warned of damage to health care facilities and vital infrastructure, such as water supply, with streets left coated in mud.
+
+In the Nahrin district of Baghlan province, people carried their shrouded dead to a gravesite.
+
+"We have no food, no drinking water, no shelter, no blankets, nothing at all, floods have destroyed everything," said Muhammad Yahqoob, who has lost 13 members of his family, children among them.
+
+"Out of 42 houses, only two or three remain, it has destroyed the entire valley."
+
+...
+
+[Data](articles/4948f39b.json)
+
+---
 
 ### SLFP gets new acting General Secretary
 
@@ -2209,35 +2247,5 @@ My first impressions of Iraq were positive. Upon arrival at Saddam International
 [Data](articles/e520529c.json)
 
 [Extended Data](ext_articles/e520529c.ext.json)
-
----
-
-### A Life-Changing Experience in Family Medicine: Lessons from Jaffna
-
-*2024-05-12 02:26:00* · [`islandlk`](http://island.lk/a-life-changing-experience-in-family-medicine-lessons-from-jaffna/) · `en`
-
-The bustling University of Jaffna’s Family Health Center (FHC) in Kondavil became my classroom as I embarked on my Family Medicine training. Serving a primarily Tamil population, the center presented a unique challenge – a new language and a vibrant culture vastly different from my Colombo upbringing. Yet, it was an opportunity to broaden my horizons and become a well-rounded physician.
-
-Under the guidance of the Consultant Family Physician and Senior Registrar of Family Medicine, the Kondavil FHC became a testament to Family Medicine in action. The center boasted a comprehensive array of facilities, from consultation rooms to a dedicated counseling space. Witnessing this well-equipped unit function as a whole solidified the meaning of Family Medicine translating into tangible patient care.
-
-...
-
-[Data](articles/77440f2e.json)
-
-[Extended Data](ext_articles/77440f2e.ext.json)
-
----
-
-### My aachcho’s jaadi making at Paiyagala
-
-*2024-05-12 02:02:00* · [`islandlk`](http://island.lk/my-aachchos-jaadi-making-at-paiyagala/) · `en`
-
-Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete without the side relish of jaadi theldala (sauteed cured fish). Some ate white rice with a piece of jaadi before serving other curries onto their plates. Amma (my mother) prepared a special Jaadi dish with tomatoes and large onion rings for Sunday lunch. She got jaadi  from Aachcho (my grandmother), who boasted that her jaadi was the best in the Kalutara district. Aachcho produced jaadi at home twice a year. I remember her making Jaadi in 1963. I was then 12 years old and was on holiday at her place.
-
-...
-
-[Data](articles/bef932f7.json)
-
-[Extended Data](ext_articles/bef932f7.ext.json)
 
 ---

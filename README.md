@@ -1,68 +1,186 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 12:18:18**
+As of **2024-05-12 12:34:17**
 
 ## Newspaper Stats
 
-*Scraped **23,436** Articles*
+*Scraped **23,445** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 206
+colombotelegraphcom | 208
 bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,984
+adalk | 1,986
 adaderanalk | 2,740
-tamilmirrorlk | 2,750
+tamilmirrorlk | 2,752
 virakesarilk | 3,483
-dailymirrorlk | 3,684
+dailymirrorlk | 3,687
 adaderanasinhalalk | 3,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,433 (100.0%) of 23,436 articles have been extended.
+23,436 (100.0%) of 23,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ஆசையை சொன்ன இலங்கை போட்டியாளர்
+### President vows salary hike for government employees
+
+*2024-05-12 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-vows-salary-hike-for-government-employees/108-282406) · `en`
+
+Colombo, May 12 (Daily Mirror) - President Ranil Wickremesinghe said today that measures will be taken to increase government employees’ salaries.
+
+Addressing an International Nurses' Day celebration, the President expressed optimism for the country's economic growth, aiming for a 3% increase by 2025, the President's Media Division said.
+
+◼️
+
+[Data](articles/a55aab19.json)
+
+---
+
+### Anderson to retire after Lord's Test against West Indies
+
+*2024-05-12 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anderson-to-retire-after-Lord-s-Test-against-West-Indies/108-282405) · `en`
+
+London, (AFP) - James Anderson will bow out as one of cricket's all-time greats when England face West Indies in July after becoming the first pace bowler to take 700 Test wickets.
+
+The 41-year-old will bring down the curtain on a glorious Test career at Lord's, 21 years after his debut, as England head coach Brendon McCullum looks to build for the future with one eye on the 2025-26 Ashes.
+
+"I'm going to miss walking out for England so much," Anderson said on Saturday.
+
+"But I know the time is right to step aside and let others realise their dreams just like I got to, because there is no greater feeling."
+
+Only two spinners, Sri Lanka's Muttiah Muralitharan (800 Test wickets) and the late Australia great Shane Warne (708), are ahead of Anderson on the all-time list of the five-day game's most successful bowlers.
+
+Anderson joined the exclusive '700 club' in his 187th Test during England's tour of India earlier this year.
+
+...
+
+[Data](articles/34fd514c.json)
+
+---
+
+### බෝම්බ සහ ජීව උණ්ඩ ළදරු කිරි බෝතල් බහාලුමක
+
+*2024-05-12 12:08:45* · [`adalk`](https://www.ada.lk/breaking_news/බෝම්බ-සහ-ජීව-උණ්ඩ-ළදරු-කිරි-බෝතල්-බහාලුමක/11-409566) · `si`
+
+බෝම්බ සහ ජීව උණ්ඩ තොගයක් ළදරු කිරි බෝතල් බහාලුමක සඟවාගෙන සිටි  වැලිපැන්න නවුත්තුඩුව කොලහෑකඩ ප්‍රදේශයේ සංචාරක මාර්ග උපදේශකවරයෙකු අත්අඩංගුවට ගත් බව වැලිපැන්න පොලිසිය කියයි.
+
+එම සැකකරු සමග  විදේශීය රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් ,ටි 56 ජීවඋන්ඩ 16 ක්  9 එම් එම් වර්ගයේ ජීව උණ්ඩ 2 ක් හා බෝර දොළහ වර්ගයේ ජීව උණ්ඩ 2 ක් පොලිස් භාරයට ගෙන ඇත.
+
+වැලි පැන්න පොලිසියට අනුයුක්ත බස්නාහිර පළාත් බුද්ධි අංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව   ජීව අත් බෝම්බ සහ උණ්ඩ සැකකරු පදිංචි නිවසේ ගබඩා කාමරයක සඟවා තිබූ බව පොලිසිය කියයි.
+
+සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී මෙම ජීව උණ්ඩ සහ බෝම්බ මියගිය ඥාතියෙකුට අයත් ඒවා බවට ප්‍රකාශ කළ බවත්  ඔහුගේ සමීප ඥාතියකුද පොලිස් විශේෂ කාර්ය බළකායේ සේවය නියුතු සිටින බවටද වැඩිදුරටත් ප්‍රකාශ කළ බව පොලිසිය සඳහන් කරයි.
+
+30 හැවිරිදි    සැකකරු රඳවා ගැනීමේ නියෝග මත ප්‍රශ්න කිරීමට නියමිතය අතර වැලිපැන්න පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක  චමින්ද ද සිල්වා මහතාගේ උපදෙස් මත විමර්ශන පැවැත්වේ.
+
+◼️
+
+[Data](articles/3f72889b.json)
+
+---
+
+### பொருளாதார வளர்ச்சி வீதம் 3 வீதமாக உயரும்
+
+*2024-05-12 12:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-வளர்ச்சி-வீதம்-3-வீதமாக-உயரும்/175-337168) · `ta`
+
+2025 ஆம் ஆண்டில் இலங்கையின் பொருளாதார வளர்ச்சி வீதம் 3 வீதமாக உயரும் என எதிர்பார்ப்பதாகவும், அதற்கமைய அரச ஊழியர்கள் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுக்கப்படும் எனவும் ஞாயிற்றுக்கிழமை (12) நடைபெற்ற சர்வதேச தாதியர் தின நிகழ்வில்  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+
+◼️
+
+[Data](articles/ed9852c0.json)
+
+---
+
+### ரஷ்யா - உக்ரேன் போருக்குச் சென்ற 17 இலங்கையர்கள் பலி
+
+*2024-05-12 12:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யா-உக்ரேன்-போருக்குச்-சென்ற-17-இலங்கையர்கள்-பலி/175-337167) · `ta`
+
+ரஷ்யா - உக்ரேன் போரில் இராணுவப் படையில் இணைந்துகொண்ட 17 இலங்கையர்கள் உயிரிழந்துள்ளதாக குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) ஆள்க்கடத்தல், கடத்தல் மற்றும் கடல்சார் குற்ற விசாரணைப் பிரிவு வெளிப்படுத்தியுள்ளது.
+
+இதேவேளை, சனிக்கிழமை (11) ரஷ்யாவுக்குச் சென்ற மேலும் இரு ஓய்வுபெற்ற இராணுவத்தினர் காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. கடந்த மார்ச் மாதம் 29ஆம் திகதிக்கு பின்னர் அவர்களிடம் இருந்து எவ்வித தகவலும் கிடைக்கவில்லை என உறவினர்கள் தெரிவிக்கின்றனர்.
+
+பதவிய பகுதியைச் சேர்ந்த ஓய்வு பெற்ற விமானப்படை அதிகாரியான அசங்க சந்தன, ரஷ்யா-உக்ரைன் போரில் பங்கேற்பதற்காக பிப்ரவரி 12 அன்று ரஷ்யாவுக்கு புறப்பட்டார். மார்ச் 29 அன்று அவரது குடும்பத்தினருடன் அவர் கடைசியாக தொடர்பு கொண்டார், அதன்பிறகு எந்த தகவலும் வரவில்லை.
+
+இதேபோல், ஓய்வுபெற்ற அதிகாரியான மதவாச்சியை சேர்ந்த பிரதீப் சந்தனவும் பிப்ரவரி 12ஆம் திகதி ரஷ்யாவுக்குப் புறப்பட்டுச் சென்றார். மார்ச் 29ஆம் திகதி அவரது குடும்பத்தினருடன் அவர் கடைசியாகத் தொடர்பு கொண்டார் எனவும் அதன்பிறகு எந்த அறிவிப்பும் இல்லை எனவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/740e2dac.json)
+
+---
+
+### Sri Lankan competitor who said the desire
 
 *2024-05-12 11:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆசையை-சொன்ன-இலங்கை-போட்டியாளர்/54-337165) · `ta`
 
-தமிழ் சின்னத்திரையில் பிரபலமான தொலைக்காட்சி சேனல்களில் ஒன்று ஜீ தமிழ். சீரியல்கள், ரியாலிட்டி ஷோக்களுக்கு பெயர் போன இந்த சேனலில் தற்போது சரிகமப நிகழ்ச்சியின் நான்காவது சீசன் நடைபெற்று வருகிறது.
+A popular Tamil TV channel, known for serials and reality shows, recently held a mega audition for a competition. 24 competitors were selected, including a Sri Lankan contestant. The first two weeks saw 12 competitors each week, with performances ranging from a debutant proving there's no age limit for talent to a Sri Lankan contestant singing a song with Karthik and Vijay. The event, held in a new set, featured 16 juries, including Karthik, Srinivas, Vijay Prakash, and Sindhavi.
 
-கடந்த இரண்டு வாரங்களாக நடந்து முடிந்த மெகா ஆடிஷன் மூலமாக மொத்தம் 24 பேர் போட்டியாளர்களாக தேர்வு செய்யப்பட்டுள்ளனர். கடந்த முறை கார்த்திக் நடுவராக பங்கேற்காத நிலையில் இந்த சீசனில் அவர் மீண்டும் காம்பேக் கொடுத்துள்ளார்.
+🟩
 
-முதல் இரண்டு வாரங்களுக்கு அறிமுக சுற்று நடைபெற இருப்பதாகவும் முதல் வாரத்தில் 12 போட்டியாளர்கள் பாட அடுத்த வாரம் மீதமுள்ள 12 போட்டியாளர்கள் பாட உள்ளனர். இந்த நிலையில் முதல் வாரத்தில் நடைபெற்ற சுவாரஸ்யமான விஷயங்கள் குறித்து தெரிய வந்துள்ளது.
+One of the most popular television channels in the Tamil film. The channel is now known for serials and reality shows.
 
-அதாவது, ஓலை பின்னும் தொழிலாளியான பாலமுருகன் மெகா ஆடிஷனில் பாடி நடுவர்களை மெய் சிலிர்க்க வைத்திருந்த நிலையில் அறிமுக சுற்றில் பாடும் போது நான் தென்றல் என்ற பாடலை பாடி அசர வைத்துள்ளார். சாதிக்க வயது தடை இல்லை என்பதை நிரூபித்துள்ளார்.
+A total of 24 people have been selected as competitors through the mega audition that has been completed for the past two weeks. The last time Karthik did not participate as a referee, he has re -given this season.
+
+The first two weeks will be held for the first two weeks and 12 competitors in the first week will sing the remaining 12 competitors to sing next week. In this case, the interesting things that took place in the first week have been revealed.
+
+That is, when the worker, Balamurugan sang in the mega audition, the referees were singing in the debut round when I sang the breeze.. He has proved that there is no age for achieving.
+
+As well as the Sri Lankan -based contestant, a contestant, singing the song 'One evening youth time'. Karthik, along with Karthik, has sung with Vijay to sing the same song.
 
 ...
 
 [Data](articles/c92e896b.json)
 
+[Extended Data](ext_articles/c92e896b.ext.json)
+
 ---
 
-### பொது மன்னிப்புக்காலம்;12 ஆயிரம் வீரர்கள் நீக்கம்
+### PC, two soldiers arrested while using drugs
+
+*2024-05-12 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PC-two-soldiers-arrested-while-using-drugs/108-282404) · `en`
+
+Homagama, May 12 (Daily Mirror) - A police constable and two soldiers who were using ICE narcotic in a house in the Hiripitiya area were taken into custody by the Homagama police on Saturday night (11)
+
+Police carried out the raid based on information received from the public and arrested the suspects who had in their possession 60 gms of ICE.
+
+Investigations revealed that the constable had joined the Parliamentary Security Division as a police assistant and had been promoted a PC, while the other two suspects were soldiers attached to the Sri Lanka Army General Service Corps in the Panagoda army cantonment.
+
+The suspects are to be produced before the Homagama magistrate.
+
+◼️
+
+[Data](articles/f6b8f720.json)
+
+---
+
+### Public amnesty time; removal of 12 thousand soldiers
 
 *2024-05-12 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்புக்காலம்-12-ஆயிரம்-வீரர்கள்-நீக்கம்/175-337163) · `ta`
 
-20 ஏப்ரல் 2024 முதல் 20 மே 2024 வரை விடுமுறையின்றி சேவைக்கு சமூகமளிக்காத இராணுவ வீரர்களுக்கு பொது மன்னிப்பு காலத்தை இலங்கை இராணுவம் அறிவித்துள்ளது.
+Sri Lanka's military offered a three-week amnesty from April 20 to May 11, 2024, allowing soldiers to leave without holidays. During this period, 12,000 soldiers were temporarily moved from their bases, and plans were made to assist 81 employees stuck abroad.
 
-இந்த பொதுமன்னிப்பு காலத்தின் மூன்று வாரங்கள் முடிவடைந்த நிலையில், 20 ஏப்ரல் 2024 மற்றும் 11 மே 2024 க்கு இடையில், 31 டிசம்பர் 2023 மற்றும் அதற்கு முன்னர் விடுப்பு இல்லாமல் இருந்த 11985 இராணுவ வீரர்கள் தற்காலிகமாக தங்கள் படைப்பிரிவு மையங்களில் இருந்து வெளியேற்றப்பட்டனர்.
+🟩
 
-மேலும், தற்போது வெளிநாட்டில் உள்ள மற்றும் விடுப்பு இன்றி சமூகமளிக்காத 81 பணியாளர்களை இந்த பொதுமன்னிப்பு காலத்தில் ராணுவத்தில் இருந்து சட்டப்பூர்வமாக வெளியேற்ற ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+From 20 April 2024 to 20 May 2024, the Sri Lankan military has announced a public amnesty for soldiers who have not been able to serve without holidays.
+
+Between 20 April 2024 and 11 May 2024, 11985 soldiers who had been left without leave were temporarily evacuated from their brigade centers, as the three weeks of the amnesty ended.
+
+In addition, arrangements have been made to evict 81 employees who are currently unable to leave abroad and leave without leave.
 
 ◼️
 
 [Data](articles/87437ac0.json)
+
+[Extended Data](ext_articles/87437ac0.ext.json)
 
 ---
 
@@ -210,17 +328,23 @@ Accordingly, the Tanzal organizers will issue orders to the nearest Lanka Sathos
 
 ---
 
-### தன்சல்களுக்கு விசேட சலுகை
+### Special offer for tonsles
 
 *2024-05-12 11:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்சல்களுக்கு-விசேட-சலுகை/175-337159) · `ta`
 
-வெசாக் பண்டிகையை முன்னிட்டு ஏற்பாடு செய்யப்படும் தன்சல்களுக்கான உணவுப் பொருட்களுக்கு விசேட சலுகை வழங்க தீர்மானித்துள்ளதாக லங்கா சதொச அறிவித்துள்ளது.
+Lanka Sathosa offers special concessions on food items for Vesak festival. Tanzal organizers can place orders at Lanka Sathosa branches before May 17th.
 
-இதன்படி, இம்மாதம் 17ஆம் திகதிக்கு முன்னர், அருகாமையிலுள்ள லங்கா சதொச கிளைக்கு தன்சல் ஏற்பாட்டாளர்கள் ஆர்டர்களை வழங்குமாறு லங்கா சதொச மேலும் தெரிவிக்கின்றது.
+🟩
+
+Lanka Sathosa has announced that it has decided to make a special concession for food items for the Vesak festival.
+
+Accordingly, the Tanzal organizers will issue orders to the nearest Lanka Sathosa branch before the 17th of this month.
 
 ◼️
 
 [Data](articles/6d78efbe.json)
+
+[Extended Data](ext_articles/6d78efbe.ext.json)
 
 ---
 
@@ -712,6 +836,24 @@ The child had fallen into the insecure well near the house yesterday (11), polic
 
 ---
 
+### වාහන ආනයන සිමා ලබන වසරේදි ලිහිල් වෙයි
+
+*2024-05-12 08:34:49* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සිමා-ලබන-වසරේදි-ලිහිල්-වෙයි/11-409564) · `si`
+
+තෝරගත් පිරිසකට වාහන ආනයනය කිරිමට අවසර නොදෙන බවත් මෙතෙක් වාහන ආනයනය කිරීමට අවසර ලබාදී ඇත්තේ වාණිජමය අවශ්‍යතාවයන් සඳහා පමණක් බවත්  මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+ආර්ථිකයට යම් කිසි දායකත්වයක් දැක්වීම සඳහා ආර්ථික ක්‍රියාවලියකට සහ වාණිජමය ක්‍රියාවලියකට යොමුවෙන අයට පමණක් මේ දක්වා වාහන ආයනයට අවසර දි ඇති බවද අමාත්‍යවරයා පැවැසිය.
+
+මේ වන විට ආනයන සම්බන්ධයෙන් සිමාවක් පවති නම් එම සිමාව පවතින්නේ පුද්ගලිකව වාහන ආනයනය කරන අයට පමණක් බවත් එම සිමාවද ලබන වසර වන විට ලිහිල් වෙනු ඇති බව අමාත්‍යවරයා වැඩිදුරටත් පැවැසිය.
+
+එම සිමාව ලිහිල් වුවත් එය සිදුවෙන්නේද ක්‍රමානුකුලව බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවැසිය.
+
+◼️
+
+[Data](articles/e9cd4a86.json)
+
+---
+
 ### Buddhism loyal state officials have a temporary monastery in Thailand
 
 *2024-05-12 08:05:08* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධාගමට-ලැදි-රාජ්‍ය-නිලධාරීන්ට-තායිලන්තයෙන්-තාවකාලික-පැවිදි-වරමක්/11-409563) · `si`
@@ -957,6 +1099,38 @@ Inside the Port City, Sri Lanka’s bank cannot destroy the future value of mone
 [Data](articles/44e39de1.json)
 
 [Extended Data](ext_articles/44e39de1.ext.json)
+
+---
+
+### Modi’s Wolf Worrier Diplomacy Opens A Window For China In South Asia
+
+*2024-05-12 06:30:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-wolf-worrier-diplomacy-opens-a-window-for-china-in-south-asia/) · `en`
+
+“The Indian Government’s questioning of US democracy is to cover up BJP’s domestic misadventure in curtailing democracy, and Narendra Modi’s vilification of Muslims during the election will impact India’s immediate periphery”.
+
+“China will benefit from Iran’s diplomatic shift to South Asia and Modi’s Wolf Worrier Diplomacy.”
+
+“The recent victory of the pro-China political party in the Maldives will see China double its efforts to influence India’s surrounding nations.”
+
+“Why did the Sri Lankan Government lease out an International Airport to India and Russia?”
+
+“Economic challenges have been the critical narrative until recently in Sri Lanka, when another narrative is brewing to enter the political race concerning national security.”
+
+...
+
+[Data](articles/e9bf60f8.json)
+
+---
+
+### The 2024 Presidential Election
+
+*2024-05-12 06:19:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-2024-presidential-election/) · `en`
+
+The Constitution states that a President who is elected by the people shall hold office for a term of five years. In the event of his death, resignation or removal, his successor shall be elected by Parliament to serve the unexpired period of his term of office. Any Bill that seeks to amend the Constitution to extend the prescribed term of office of the President is required to be passed by Parliament by a two-thirds majority and then approved by the people at a referendum. The Constitution also provides that the poll for the election of the President “shall be taken not less than one month and not more than two months” before the expiration of the term of office of the President in office. A popular television channel appears to be unaware of these constitutional requirements when it keeps chanting in the middle of its news programmes: “When is the Election ?”
+
+...
+
+[Data](articles/7ea869a6.json)
 
 ---
 
@@ -2055,205 +2229,5 @@ The island nation's leadership believes that despite the complexities of the sit
 [Data](articles/dcffbae1.json)
 
 [Extended Data](ext_articles/dcffbae1.ext.json)
-
----
-
-### Jayawardenapura University students arrested
-
-*2024-05-11 14:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜயவர்தனபுர-பல்கலைக்கழக-மாணவர்கள்-ஐவர்-கைது/175-337124) · `ta`
-
-Five students from Sri Jayawardenapura University were arrested after a clash with Kelani University students. The arrest followed an assault complaint lodged at the police station.
-
-🟩
-
-Five students of Sri Jayawardenapura University have been involved in a clash between Sri Jayawardenapura and Kelani University students.
-
-It is noteworthy that the student who was assaulted in the dispute was arrested on the basis of a complaint lodged at the police station.. Remble
-
-◼️
-
-[Data](articles/95b3bf9b.json)
-
-[Extended Data](ext_articles/95b3bf9b.ext.json)
-
----
-
-### Lightning strikes in Jaffna
-
-*2024-05-11 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183244) · `ta`
-
-Lightning in Jaffna caused a coconut tree to burn and injured a person, who was hospitalized. Heavy rains in Uduvil and Jaffna have been ongoing for weeks, coinciding with the incident.
-
-🟩
-
-A coconut tree has been burnt and a person has been admitted to hospital with injuries.
-
-Thundershowers in Uduvil area on Friday (10) have been raining in Jaffna over the past few weeks.
-
-At the same time, a house of coconut tree in a house was burnt and a person was injured.
-
-◼️
-
-[Data](articles/b81d5ffa.json)
-
-[Extended Data](ext_articles/b81d5ffa.ext.json)
-
----
-
-### A 15 -year -old girl who has a baby in Jaffna
-
-*2024-05-11 14:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குழந்தை-பெற்ற-15-வயதுச்-சிறுமி-மாயம்/175-337123) · `ta`
-
-A 15-year-old girl from Vadamarachchi Tunnalai, Jaffna, delivered a baby at the Jaffna Teaching Hospital but left the newborn there. The girl and her mother were admitted for delivery, and after the birth, they reportedly left without the baby. This has led to an investigation by the Jaffna Police Station following a complaint from the hospital.
-
-🟩
-
-It is reported that a girl who delivered the baby at the Jaffna Teaching Hospital had left the baby at the hospital.
-
-A 15 -year -old girl from Vadamarachchi Tunnalai has been admitted to the Jaffna Teaching Hospital last evening for delivery with her mother.
-
-It is reported that the girl and her mother have left the baby or her mother who later delivered the baby last night.
-
-Further investigations have been launched after a complaint was lodged at the Jaffna Police Station by the hospital administration.. Remble
-
-◼️
-
-[Data](articles/fc70bf05.json)
-
-[Extended Data](ext_articles/fc70bf05.ext.json)
-
----
-
-### There is no proposal to represent 25 percent of women's representation for the parliamentary election
-
-*2024-05-11 14:11:40* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මැතිවරණයට-සියයට-25ක-කාන්තා-නියෝජනයක්-ගැන-තවම-යෝජනාවක්-නෑ/11-409559) · `si`
-
-Dr. Ramesh Pathirana, Minister of Health, clarified there's no proposal to increase women's representation to 25% in parliamentary elections, differing from the President's stance on provincial council elections.
-
-🟩
-
-Minister of Health Dr. Ramesh Pathirana says that there is no proposal to increase women from 25 percent in parliamentary elections.
-
-The Minister was responding to a problem with journalists regarding the increase in Kantha representing the Presidential views on the elections in the elections.
-
-The President said that the policy framework for 25 percent of women representation in the provincial council election and that there is no such proposal to the next parliamentary election.
-
-The Minister also said that a significant women's representation of local government bodies has been compared to the local government bodies.
-
-◼️
-
-[Data](articles/609be748.json)
-
-[Extended Data](ext_articles/609be748.ext.json)
-
----
-
-### “Yukthiya”: Over 111,000 suspects arrested so far in anti-drug operation
-
-*2024-05-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99147/yukthiya-over-111000-suspects-arrested-so-far-in-anti-drug-operation-) · `en`
-
-A total of 111,074 suspects have been arrested while 4,472 among them are under detention orders for questioning since the beginning of Operation “Yukthiya” to date, Police Spokesman DIG Nihal Thalduwa said.
-
-Meanwhile, the Police Spokesman stated that 41 kilograms of heroin, 43 kilograms of ‘Ice’ and 300,000 narcotic pills have been taken into custody thus far during the island-wide police operation.
-
-Furthermore, the value of illegal assets seized during the operation is around Rs. 1,500 million, according to police.
-
-The anti-drug operation was launched on 17 December 2023, on the instructions of Public Security Minister Tiran Alles and IGP Deshabandu Tennakoon, in a bid to eradicate drug trafficking, organized crime and other related offences across the country.
-
-◼️
-
-[Data](articles/731ff0c4.json)
-
-[Extended Data](ext_articles/731ff0c4.ext.json)
-
----
-
-### Public warned of severe lightning today
-
-*2024-05-11 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-warned-of-severe-lightning-today/108-282392) · `en`
-
-Colombo, May 11 (Daily Mirror) -  The Department of Meteorology has issued a severe lightning warning for several provinces in Sri Lanka, including the Western, Sabaragamuwa, Southern, Central, North-Western, Uva, and North-Central Provinces, as well as the Mannar and Vavuniya districts.
-
-In light of the situation, residents are urged to take precautionary measures to minimize potential damages caused by lightning activities.
-
-The public is advised to seek shelter indoors, avoid areas under trees and open spaces such as paddy fields and tea plantations during thunderstorms.
-
-Besides, individuals are cautioned against using wired telephones and connected electric appliances during the storm.
-
-Motorists are also advised to refrain from using open vehicles like bicycles, tractors, and boats, as temporary localized strong winds may pose hazards. Fallen trees and power lines are also potential risks during severe thunderstorms.
-
-...
-
-[Data](articles/da5c7bcc.json)
-
-[Extended Data](ext_articles/da5c7bcc.ext.json)
-
----
-
-### An inspired announcement on the elite lightning
-
-*2024-05-11 14:00:22* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභල-අකුණු-ගැන-අවවාදාත්මක-නිවේදනයක්/11-409558) · `si`
-
-The Department of Meteorology warns of intense lightning in the evening across several provinces, including Western, Sabaragamuwa, Southern, Central, Uva, and North-Central, as well as Mannar and Vavuniya Districts. Expect localized strong winds during thundershowers and be aware of lightning-related diseases. The government advises taking necessary precautions. This alert is effective until 11 pm today.
-
-🟩
-
-Western, Sabaragamuwa, Southern, Central, Uva and North-North- Central provinces in the Mannar and Vavuniya Districts
-
-The Department of Meteorology says that there is a greater lightning in the evening at the evening or night.
-
-There may be temporary localized strong winds during thundershowers. Diseases caused by lightning
-
-The government requests the public as the steps to be taken to make. The announcement issued at 1 pm this afternoon is valid until 11 pm.
-
-◼️
-
-[Data](articles/f203570e.json)
-
-[Extended Data](ext_articles/f203570e.ext.json)
-
----
-
-### The number of suspects under justice is jumping around the point
-
-*2024-05-11 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196508) · `si`
-
-Since the police operation began, 111,074 suspects have been arrested, with 4,472 currently detained. The operation has seized 41 kilograms of heroin, 43 kilograms of ice drugs, and assets worth 3 lakhs.
-
-🟩
-
-111,074 suspects have been arrested since the launch of the police operation.
-
-Police Media Spokesperson, DIG's Court Attorney Nihal Talduuwa says 4,472 suspects are being detained under detention orders.
-
-The operations have taken 41 kilograms of heroin, 43 kilograms of heroin, 43 kilograms of ice drugs, 3 lakhs and illegal assets of Rs.
-
-◼️
-
-[Data](articles/189fb0b4.json)
-
-[Extended Data](ext_articles/189fb0b4.ext.json)
-
----
-
-### Sri Lanka official remittances cross $2bn in Jan-April 2024
-
-*2024-05-11 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-official-remittances-cross-2bn-in-jan-april-2024-162600/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming through official channels surpassed 2 billion dollars in the first four months of this year, helped by more expatriates using the official banking channels after the central bank gave up a parallel exchange rate regime.
-
-The remittances in the first four months were 2,079.9 million dollars, rising 11.4 percent from the same period last year, the official data showed.
-
-The island nation witnessed 1,867.2 million dollars through remittances in the first four months of 2023.
-
-In April, Sri Lanka received 543.8 million dollars from official channels, up 19.7 percent from 454 million dollars in the same month a year earlier, the official data showed.
-
-Sri Lanka’s external sector started has now recovered after the central bank started to run balance of payments surpluses following a decision to end money printing to sterilize interventions made with Indian Asian Clearing Union money.
-
-...
-
-[Data](articles/70d9279c.json)
-
-[Extended Data](ext_articles/70d9279c.ext.json)
 
 ---

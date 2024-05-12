@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 12:50:01**
+As of **2024-05-12 13:03:33**
 
 ## Newspaper Stats
 
-*Scraped **23,445** Articles*
+*Scraped **23,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,986
+adalk | 1,987
 adaderanalk | 2,740
 tamilmirrorlk | 2,752
-virakesarilk | 3,483
+virakesarilk | 3,484
 dailymirrorlk | 3,687
-adaderanasinhalalk | 3,759
+adaderanasinhalalk | 3,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,445 (100.0%) of 23,445 articles have been extended.
+23,448 (100.0%) of 23,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Central Executive Committee Meeting of the Sri Lanka Tamil State Party meets in Vavuniya on May 19
+
+*2024-05-12 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183298) · `ta`
+
+The Sri Lanka Tamil State Party's Central Executive Committee is meeting in Vavuniya on May 19 to discuss the TNA's stance on fielding a Tamil candidate for the presidential election. The meeting will also address cases against the party's new administration. Earlier, the party's leaders supported the idea of a general candidate but requested time to make a decision. However, some TNA parliamentarians have expressed opposition to a common candidate, indicating a potential division within the party.
+
+🟩
+
+The Central Executive Committee meeting of the Sri Lanka Tamil State Party will be held at the District Branch Office in Vavuniya on the 19th at 10 am.
+
+At this meeting, it is reported that the TNA's position on the fielding of a Tamil general candidate in the presidential election will be investigated on the cases against the new administration of the party.
+
+Earlier, the People's petition was attended by Mavai Senathirajah, Saravanapavan and the Eastern Province members Ariyanethran and Srinasan on behalf of the Sri Lankan Tamil party.. They supported the issue of the general candidate in principle and had sought 14 days to make a party decision.
+
+Meanwhile, Sumanthiran, Chanakyan and Charles Nirmalanathan, other than Sreedharan, among the TNA parliamentarians have expressed their position against the common candidate.. It is noteworthy that the Kalaiyarasan party is controlled by the decision.
+
+◼️
+
+[Data](articles/35428bb9.json)
+
+[Extended Data](ext_articles/35428bb9.ext.json)
+
+---
+
+### Maithri quit
+
+*2024-05-12 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196532) · `si`
+
+Maithri Sirisena resigned as SLFP Chairman, avoiding Wijayadasa Rajapaksa's appointment.
+
+🟩
+
+Former President Maithripala Sirisena has resigned from the post of Chairman of the Sri Lanka Freedom Party.
+
+At the Executive Committee Meeting of the Maithripala Sirisena, the party's Maithripala Sirisena, has decided not to appoint the Minister Wijayadasa Rajapaksa to be appointed as the party chairman.
+
+◼️
+
+[Data](articles/a8722b16.json)
+
+[Extended Data](ext_articles/a8722b16.ext.json)
+
+---
 
 ### President vows salary hike for government employees
 
@@ -835,6 +879,28 @@ The meeting between President Ranil Wickremesinghe and Basil Rajapaksa took plac
 [Data](articles/e0101e0b.json)
 
 [Extended Data](ext_articles/e0101e0b.ext.json)
+
+---
+
+### Parliamentary Permits Decision on Presidentials
+
+*2024-05-12 09:26:51* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වාහන-බලපත්-ගැන-තීරණය-ජනපතිට/11-409565) · `si`
+
+Speaker Mahinda Yapa Abeywardena has directed MP Ranil Wickremesinghe to provide duty-free vehicle permits, citing inability to resolve vehicle license issues. Opposition members requested permits for over 100 members.
+
+🟩
+
+It is reported that the Speaker Mahinda Yapa Abeywardena has decided to direct MPs Ranil Wickremesinghe to provide duty free vehicle permits.
+
+It is reported that the Speaker has sent the request to the President, claiming that he cannot be resorved regarding vehicle licenses.
+
+Opposition members of the party had asked for over 100 opposition members in the respective vehicle permits.
+
+◼️
+
+[Data](articles/1f5236b0.json)
+
+[Extended Data](ext_articles/1f5236b0.ext.json)
 
 ---
 
@@ -2191,77 +2257,5 @@ The announcement is valid until 11.30 pm today (11).
 [Data](articles/53a4ebc5.json)
 
 [Extended Data](ext_articles/53a4ebc5.ext.json)
-
----
-
-### The body of the rat is in the sides of the bouquet in Japan
-
-*2024-05-11 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183243) · `ta`
-
-In Japan, a rare incident occurred where rat body parts were found in two packs of Panch, a popular breakfast item. This led to the withdrawal of over 100,000 packs. The company, Pasco Pan, based in Tokyo, is investigating how rat remains ended up in their products.
-
-🟩
-
-Body parts of the rat have been found in two of the bunnies in Japan. Later, immediately, more than 100,000 pieces of pieces of packs were withdrawn.
-
-It is a rare issue to withdraw foods in Japan, one of the countries that strictly follow health care.
-
-“We are exploring how the rat's body is penetrated into the Panch pack.
-
-There has been no incident so far that no one has been sick with the white sozuku bundle, which has taken the top of the Japanese breakfast.
-
-We want to apologize for causing discomfort to our customers. ”
-
-Pasco Pan is made in a factory in Tokyo.In this case, the company has confirmed that the parts of the black rat were found in two pans last Wednesday.
-
-◼️
-
-[Data](articles/2a436353.json)
-
-[Extended Data](ext_articles/2a436353.ext.json)
-
----
-
-### Gold price in Sri Lanka
-
-*2024-05-11 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196510) · `si`
-
-Gold prices in Sri Lanka have risen, with a 22-carat pound reaching Rs. 177,600 and 24-carat gold at Rs. 193,000.
-
-🟩
-
-The market data indicates that the prices of gold has increased.
-
-Accordingly, the price of a 22 carrot pound in the gold market in the gold market in Colombo this morning (11) was Rs.. Has risen to 177,600.
-
-Meanwhile, the price of '24 carrots' gold calendar has risen to Rs. 193,000 today.
-
-◼️
-
-[Data](articles/3cfc8c30.json)
-
-[Extended Data](ext_articles/3cfc8c30.ext.json)
-
----
-
-### Sri Lanka votes in favour of Palestine’s UN membership
-
-*2024-05-11 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-votes-in-favour-of-Palestines-UN-membership/108-282393) · `en`
-
-Colombo, May 11 (Daily Mirror) -  In a resounding display of solidarity with the Palestinian people, Sri Lanka cast its vote in support of Palestine's application for membership in the United Nations.
-
-This was announced by Minister of Foreign Affairs, Ali Sabry via an X post.
-
-The decision, made through the UN General Assembly Resolution on "Admission of New Members to the United Nations," signifies Sri Lanka's unwavering commitment to peace and justice on the international stage.
-
-Emphasizing the importance of a negotiated two-state solution, Sri Lanka reaffirmed its stance that enduring peace and the alleviation of human suffering in the region can only be achieved through dialogue and cooperation.
-
-The island nation's leadership believes that despite the complexities of the situation, pursuing a peaceful resolution remains the most viable path forward for both Palestinians and Israelis.
-
-...
-
-[Data](articles/dcffbae1.json)
-
-[Extended Data](ext_articles/dcffbae1.ext.json)
 
 ---

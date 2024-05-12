@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 23:33:37**
+As of **2024-05-12 23:53:16**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,540 (100.0%) of 23,541 articles have been extended.
+23,541 (100.0%) of 23,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### නුසුදුසු සහල් කිලෝ 176,000ක් වටලයි
+### 176,000 kg of inappropriate rice raided
 
 *2024-05-12 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196554) · `si`
 
-මිනිස් පරිභෝජනයට නුසුදුසු සහල් කිලෝග්‍රෑම් එක්ලක්ෂ හැත්තෑදහසකට අධික ප්‍රමාණයක් වංචනික ලෙස ඇසුරුම් කිරීම සඳහා රැගෙන යමින් තිබියදී වැටලීමට පාරිභෝගික කටයුතු අධිකාරියේ නිලධාරීන් සමත්වී තිබේ.
+Consumer Affairs Authority officials raided a private rice mill in Kipedia, seizing 176,000 kg of rice intended for low-income families. The rice, packed on the 30th, was unfit for human consumption and had its expiration date extended by 30 days. The mill's owner was arrested, and the seized rice is under investigation.
 
-එම සහල් තොගය අඩු ආදායම්ලාභී පවුල් සඳහා රජය මගින් බෙදාදීමට සැලසුම්කර තිබූ බව හෙළිවී ඇත.
+🟩
 
-පාරිභෝගික කටයුතු අධිකාරියේ අනුරාධපුර ඒකකයේ නිලධාරීන්ට ලද තොරතුරකට අනුව අද (12) දහවල් මෙම වැටලීම සිදුකර තිබුණි.
+The Consumer Affairs Authority officials were raided while he was carrying out more than half a half kilograms of rice to human consumption.
 
-සහල් කිලෝග්‍රෑම් එක්ලක්ෂ හැත්තෑදහසකට අධික තොගයක් ලොරි රථ 08ක් මගින් කිරිඉබ්බෑව ප්‍රෙද්ශයේ පිහිටි පෞද්ගලික සහල් මෝලක් වෙත රැගෙන ගොස් නැවත ඇසුරුම්කරමින් සිටියදී මෙම වැටලීම සිදුකර ඇත.
+It has been revealed that the stock of rice has been planned to distribute to low income families by the government.
 
-එම සහල් අසුරා තිබූ ඇසුරුම්වල සටහන්ව තිබූ දිනය පසුගිය 30වනදා වනවිට අවසන්ව තිබූ අතර මිනිස් පරිභෝජනයට නුසුදුසු එම සහල් යන්ත්‍රානුසාරයෙන් පිරිසිදු කර කල් ඉකුත්වීමේ දිනය ඉදිරි දින 30ක් සඳහා වලංගුවන පරිදි නැවත සකස්කර තිබුණි.
+The raid was carried out today (12), according to information received by the Consumer Affairs Authority's Anuradhapura Unit today.
 
-සහල් තොගය රජය මගින් අඩු ආදායම්ලාභී පවුල් සඳහා නොමිලයේ සහල් බෙදාදීමේ වැඩසටහනට යොදාගැනීමට සැළසුම්කර තිබූ බව මූලික පරීක්ෂණ වලදී අනාවරණ වී ඇත.
+The raid was carried out by eight hundred thousand lrribs by eight hundred kilograms of rice to a private rice mill in the area of Kipedia by eight lorries.
 
-...
+The date of the packing packages was completed on the 30th and the rice mercantrical was unwilling to consume human consumption and rebuild the expiration date for the next 30 days.
+
+Initial investigations have revealed that the stock of rice was planned for low income families free of charge for low income families free of charge.
+
+The stock of rice taken into custody authority has been seal and the Harmony Police have arrested the rice mill.
+
+◼️
 
 [Data](articles/a5dbce2e.json)
+
+[Extended Data](ext_articles/a5dbce2e.ext.json)
 
 ---
 

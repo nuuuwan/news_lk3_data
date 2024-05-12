@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 13:18:36**
+As of **2024-05-12 13:33:52**
 
 ## Newspaper Stats
 
-*Scraped **23,451** Articles*
+*Scraped **23,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,987
 adaderanalk | 2,742
-tamilmirrorlk | 2,752
+tamilmirrorlk | 2,756
 virakesarilk | 3,484
 dailymirrorlk | 3,688
-adaderanasinhalalk | 3,760
+adaderanasinhalalk | 3,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,448 (100.0%) of 23,451 articles have been extended.
+23,451 (100.0%) of 23,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### චර්ම රෝග වැඩි වෙයි
+
+*2024-05-12 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196533) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වයත් සමග මේ දිනවල චර්ම රෝගවල ඉහළ යාමක් පෙන්නුම් කරන බව කොළඹ ජාතික රෝහලේ චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය පැවසුවාය.
+
+ඇය පෙන්වාදෙන්නේ ඇතැම් චර්ම රෝග සඳහා වෛද්‍ය ප්‍රතිකාර ලබාගැනීම අනිවාර්යය බවය.
+
+"ඇඳුම්වලින් ආවරණය නොවූ ස්ථාන මත දැඩි හිරු රැස් පතිතවීම නිසා ඒ නැත්වල සමේ කැසීමක් සහිත ලප ඇතිවෙන්නේ පුළුවන්. කුඩා දරුවන්ගේ මුහුණේ ඇති වෙන්න පුළුවන්... සුදු පාට ලප. විශේෂයෙන්ම කම්මුල්ලවල උඩ ප්‍රදේශයේ, ඇස් වටේ තරමක් පහළින්."
+
+"දිලීර ආසාදන ද අපි සුලබ වශයෙන් දකිනවා. ඇත්තටම දිලීර ආසාදන ලොකු ගැටලුවක් වන තත්ත්වයට අපි දකිනවා. කිසිම ආකාරයකින් බෙහෙත් වගේ දේවල් කරන්න යන්න එපා. වහාම සුදුසුකම් ලත් වෛද්‍යවරයෙක් හමුවන්න. මොකද පවතින රෝග තත්ත්වයන්ගේ වැඩිවීමකුත් දකින්න පුළුවන්."
+
+◼️
+
+[Data](articles/29cdf227.json)
+
+---
+
+### பஸ் விபத்து ; 9 பேர் காயம்
+
+*2024-05-12 13:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-விபத்து-9-பேர்-காயம்/76-337172) · `ta`
+
+ஹகுரங்கெத்தவிலிருந்து கண்டி நோக்கிப் பயணித்த, ஹகுரங்கெத்த டிப்போவிற்கு சொந்தமான பேருந்தொன்று மயிலப்பிட்டிய பிரதேசத்தில் வைத்து , வேகக் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் சாரதி, நடத்துனர் உட்பட 09 பேர் காயமடைந்துள்ள சம்பவம்  ஞாயிற்றுக்கிழமை  (12) இடம்பெற்றுள்ளது .
+
+◼️
+
+[Data](articles/eef0a42d.json)
+
+---
+
+### மைத்திரி இராஜினாமா
+
+*2024-05-12 13:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இராஜினாமா/175-337171) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தவிசாளர் பதவியிலிருந்து முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இராஜினாமா செய்துள்ளார்.
+
+கொட்டால் இன்று (12) நடைபெற்ற செயற்குழு கூட்டத்தில்  கட்சியின் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவை நியமிக்க, முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையிலான குழுவினர் தீர்மானித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ea074059.json)
+
+---
 
 ### Maithripala resigns as SLFP Chairman, Wijeyadasa appointed as successor
 
@@ -51,6 +95,8 @@ In response, Wijeyadasa Rajapakshe filed a petition seeking to suspend the inter
 ◼️
 
 [Data](articles/32d5f535.json)
+
+[Extended Data](ext_articles/32d5f535.ext.json)
 
 ---
 
@@ -111,6 +157,8 @@ The appointment was made during the executive committee meeting of the party hel
 ◼️
 
 [Data](articles/0453721e.json)
+
+[Extended Data](ext_articles/0453721e.ext.json)
 
 ---
 
@@ -177,6 +225,20 @@ The 30-year-old suspect is due to be questioned on holding orders and will be qu
 [Data](articles/3f72889b.json)
 
 [Extended Data](ext_articles/3f72889b.ext.json)
+
+---
+
+### அரச ஊழியர்களுக்கு மீண்டும் சம்பளம் அதிகரிப்பு
+
+*2024-05-12 12:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-மீண்டும்-சம்பளம்-அதிகரிப்பு/175-337168) · `ta`
+
+2025 ஆம் ஆண்டில் இலங்கையின் பொருளாதார வளர்ச்சி  3 சத வீதமாக உயரும் என எதிர்பார்ப்பதாகவும், அதற்கமைய அரச ஊழியர்கள் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஞாயிற்றுக்கிழமை (12) நடைபெற்ற சர்வதேச தாதியர் தின நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+
+◼️
+
+[Data](articles/0efa7499.json)
 
 ---
 
@@ -264,6 +326,8 @@ The accused, along with antique items, have been handed over to the Divisional C
 
 [Data](articles/4f52c6a3.json)
 
+[Extended Data](ext_articles/4f52c6a3.ext.json)
+
 ---
 
 ### PC, two soldiers arrested while using drugs
@@ -283,6 +347,22 @@ The suspects are to be produced before the Homagama magistrate.
 [Data](articles/f6b8f720.json)
 
 [Extended Data](ext_articles/f6b8f720.ext.json)
+
+---
+
+### பொது மன்னிப்பு;12 ஆயிரம் வீரர்கள் நீக்கம்
+
+*2024-05-12 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பு-12-ஆயிரம்-வீரர்கள்-நீக்கம்/175-337163) · `ta`
+
+20 ஏப்ரல் 2024 முதல் 20 மே 2024 வரை விடுமுறையின்றி சேவைக்கு சமூகமளிக்காத இராணுவ வீரர்களுக்கு பொது மன்னிப்பு காலத்தை இலங்கை இராணுவம் அறிவித்துள்ளது.
+
+இந்த பொதுமன்னிப்பு காலத்தின் மூன்று வாரங்கள் முடிவடைந்த நிலையில், 20 ஏப்ரல் 2024 மற்றும் 11 மே 2024 க்கு இடையில், 31 டிசம்பர் 2023 மற்றும் அதற்கு முன்னர் விடுப்பு இல்லாமல் இருந்த 11985 இராணுவ வீரர்கள் தற்காலிகமாக தங்கள் படைப்பிரிவு மையங்களில் இருந்து வெளியேற்றப்பட்டனர்.
+
+மேலும், தற்போது வெளிநாட்டில் உள்ள மற்றும் விடுப்பு இன்றி சமூகமளிக்காத 81 பணியாளர்களை இந்த பொதுமன்னிப்பு காலத்தில் ராணுவத்தில் இருந்து சட்டப்பூர்வமாக வெளியேற்ற ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/15a8d089.json)
 
 ---
 
@@ -2143,105 +2223,5 @@ The Western economic sanctions have already prevented Russian tourists from usi
 [Data](articles/94e87eba.json)
 
 [Extended Data](ext_articles/94e87eba.ext.json)
-
----
-
-### New legislation to prevent sharing of false information over telephones
-
-*2024-05-11 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-legislation-to-prevent-sharing-of-false-information-over-telephones/108-282391) · `en`
-
-Colombo, May 11 (Daily Mirror)- The Sri Lanka Telecommunications (Amendment) Bill which seeks to penalize those who share false information over the telephone and cause public commotion was presented to Parliament.
-
-According to the Bill which was presented to the House by Leader of the House Susil Premajayayantha, a person who persistently makes telephone calls, or sends, transmits messages, publishes, sends or transmits phone numbers of other subscribers without reasonable excuse for the purpose of causing annoyance, inconvenience or needless anxiety to any telecommunication officer or any person, on conviction will be subjected to a fine not exceeding rupees hundred thousand. There is also a provision to disconnect telephone connections of a person who commits such offences.
-
-...
-
-[Data](articles/41a4d98a.json)
-
-[Extended Data](ext_articles/41a4d98a.ext.json)
-
----
-
-### State officials can become monks in Thailand
-
-*2024-05-11 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-officials-can-become-monks-in-Thailand/108-282395) · `en`
-
-The government has decided to implement a referral programme for state officials to become monks in Thailand, the Buddhist Religious and Cultural Affairs Ministry said.
-
-Accordingly, the Thailand Government has planned to implement a special temporary monastic programme for the Sri Lankan community to improve the local religious and cultural relations between the two countries in view of the birthday of the King of Thailand.
-
-The Buddhist Religious and Cultural Affairs Ministry says that the programme will be held in Thailand for 15 days.
-
-◼️
-
-[Data](articles/71cd8211.json)
-
-[Extended Data](ext_articles/71cd8211.ext.json)
-
----
-
-### Heroin distributed corporal remains
-
-*2024-05-11 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196514) · `si`
-
-A Navy Corporal, arrested with a woman for heroin distribution, was remanded until the 21st by Anuradhapura Magistrate Abhimani Seneviratne. The corporal admitted to heroin addiction in court.
-
-🟩
-
-The Anuradhapura Magistrate has ordered a Navy Corporal, who was arrested by the racket with a woman who was involved in the racket.
-
-Additional Magistrate Abhimani Seneviratne ordered the suspects to be remanded until the 21st of the Anuradhapura Division Census Division.
-
-The suspect was produced in court and said the police said that the suspect was revealed in relation to the suspect.
-
-The suspected corporal has revealed that he was addicted to the suspicious heroin in the court.
-
-◼️
-
-[Data](articles/ef051a51.json)
-
-[Extended Data](ext_articles/ef051a51.ext.json)
-
----
-
-### Three day Base Jump from Lotus Tower
-
-*2024-05-11 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-day-Base-Jump-from-Lotus-Tower/108-282394) · `en`
-
-The Colombo Lotus Tower Management Company (Private) Limited announced the Base Jump happening at Colombo Lotus Tower for three days from tomorrow.
-
-They said 35 International Base Jumpers will exhibit the adrenaline-fueled skills.
-
-The Lotus Tower Management requested the public to witness the event.
-
-◼️
-
-[Data](articles/c7743cfd.json)
-
-[Extended Data](ext_articles/c7743cfd.ext.json)
-
----
-
-### Russia - The information about our people who went to war in Ukrainian war
-
-*2024-05-11 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196513) · `si`
-
-A special unit in Sri Lanka has received 77 calls regarding human trafficking of retired military members, established after a week. The Ministry of Defense provides information on the war, including dates, coordinated persons, and organizations, and can be contacted at 011-2 44 11 46.
-
-🟩
-
-The Special Unit, which has commenced to obtain information on human trafficking of retired members of Sri Lanka, has received 77 telephone calls for information on the deputy of the Armed Forces in Sri Lanka.
-
-The special unit was established last Thursday night and telephoned telephone calls were made within 36 hours.
-
-The Ministry of Defense has said that the Government of Sri Lanka has left for the war of the Sri Lankan war, including the dates, coordinated persons, coordinated persons, organizations and telephone numbers.
-
-The Ministry of Defense also provides information on 011- 2 44 11 46 and will continue to pay attention to this matter.
-
-◼️
-
-[Data](articles/0ce237f9.json)
-
-[Extended Data](ext_articles/0ce237f9.ext.json)
 
 ---

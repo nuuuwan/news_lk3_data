@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 11:03:32**
+As of **2024-05-12 11:18:17**
 
 ## Newspaper Stats
 
-*Scraped **23,414** Articles*
+*Scraped **23,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,100 @@ adalk | 1,983
 adaderanalk | 2,739
 tamilmirrorlk | 2,742
 virakesarilk | 3,476
-dailymirrorlk | 3,681
+dailymirrorlk | 3,684
 adaderanasinhalalk | 3,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,413 (100.0%) of 23,414 articles have been extended.
+23,414 (100.0%) of 23,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### கப்பல் சேவை மீண்டும் ​ஆரம்பம்
+### Tuition master involved in sharing O/L English paper arrested in Kandy
+
+*2024-05-12 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tuition-master-involved-in-sharing-OL-English-paper-arrested-in-Kandy/108-282402) · `en`
+
+Kandy, May 12 (Daily Mirror) - The tuition master who was involved in releasing the General English question paper of the GCE Ordinary Level (O/L) examination on WhatsApp was arrested this morning from the Katugastota area in Kandy, police said.
+
+They said the arrest was made following a complaint by the Examinations Commissioner General regarding the circulation of the question paper.
+
+Police said that preliminary investigations have also revealed that there are 1,025 members on the particular WhatsApp group where the tuition master had shared the questionpaper.
+
+The General English question paper of the examination was held on May 9 and according to the schedule, the question paper was distributed to the students at 8.30 in the morning.
+
+However, it has now been revealed that the English question paper was released by this teacher to the WhatsApp group at around 9.11 am.
+
+The assistant class teacher who was arrested is scheduled to be produced before courts today.
+
+...
+
+[Data](articles/b809ae3e.json)
+
+---
+
+### The shipping service is restarted
 
 *2024-05-12 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-337152) · `ta`
 
-இந்தியாவின் நாகையில் பகுதியிலிருந்து  இலங்கை காங்கேசன்துறைக்கு கடந்த ஆண்டு (2023) ஒக்டோபர் மாதம் 14ஆம் திகதி முதல் கேரள மாநிலம் கொச்சியை சேர்ந்த 'செரியாபாணி' என்ற பயணிகள் கப்பல் இயக்கப்பட்டது.
+The 'Seriyapani' passenger ship from Kochi to Naga, India, resumed operations on October 14, 2023, but was halted on October 23 due to the northeast monsoon. In January, it was announced that passenger shipping from Naga to Sri Lanka would commence, with the 'Sivaganga' ship set to replace 'Seriyapani'. The 'Sivaganga' is scheduled to start its sea journey from Naga to Sri Lanka on May 13, 2023, after arriving in Chennai on May 10 and reaching Naga on May 12. The ship can accommodate 160 passengers.
 
-வடகிழக்கு பருவமழை காரணமாக ஒக்டோபர் மாதம் 23ஆம்  திகதியுடன் பயணிகள் கப்பல் போக்குவரத்து நிறுத்தப்பட்டது.
+🟩
 
-இந்த நிலையில்,  நாகையில் இருந்து இலங்கைக்கு மீண்டும் பயணிகள் கப்பல் போக்குவரத்து ஆரம்பிக்கப்படவுள்ளதாக கடந்த ஜனவரி மாதம் தகவல்கள் வெளியாகின.
+From October 14 last year (2023) from the Naga area of India, the passenger ship 'Seriyapani' from Kochi was operated from October 14 last year.
 
-​மேலும், முன்னதாக இயக்கப்பட்ட 'செரியாபாணி' கப்பலுக்கு மாற்றாக 'சிவகங்கை' என்ற பெயர் கொண்ட மற்றொரு பயணிகள் கப்பல் நாகை-இலங்கை இடையே கடல் பயணத்தை ஆரம்பிக்கள்ளதாக சமீபத்தில் தகவல் வெளியானது.
+Due to the northeast monsoon, passenger shipping was stopped on October 23.
 
-இதனிடையே நாகையில் இருந்து இலங்கை காங்கேசன்துறைக்கு 'சிவகங்கை' பயணிகள் கப்பல் மே மாதம் 13ஆம் திகதி முதல் இயக்கப்படும் என கப்பலை இயக்கும் தனியார் நிறுவனம் அதிகாரபூர்வமாக அறிவித்தது.
+It was reported last January that passenger shipping from Naga to Sri Lanka will be launched.
 
-இதற்கமைய, நாகை-இலங்கை இடையை இயக்கப்படும் சிவகங்கை கப்பல் அந்தமானில் தயாராகி வந்தது. அந்த கப்பல் வெள்ளிக்கிழமை (10) சென்னை துறைமுகம் வந்தடைந்துள்ளது.
+In addition, it was recently reported that another passenger ship, called 'Sivaganga', is the beginning of a sea journey between Nagai and Sri Lanka as a replacement for the previously operated 'Seriyapani' ship.
+
+Meanwhile, a private company that operates the ship has officially announced that the 'Sivaganga' passenger ship from Naga to the Kankesanthurai will be operated from May 13.
+
+Accordingly, the Sivaganga ship operating the Nagai-Sri Lanka place was ready in Andaman. The ship arrived in the port of Chennai on Friday (10).
+
+The ship is expected to reach the Naga port on Sunday (12) and will be launched on Monday (13).
 
 ...
 
 [Data](articles/ce810c57.json)
+
+[Extended Data](ext_articles/ce810c57.ext.json)
+
+---
+
+### Will Sajith, AKD, Prez accept Daily Mirror invitation for debate ?
+
+*2024-05-12 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-Sajith-AKD-Prez-accept-Daily-Mirror-invitation-for-debate/108-282401) · `en`
+
+Colombo, May 12 (Daily Mirror) - In India Congress leader Rahul Gandhi on Saturday accepted an invitation to a public debate with Prime Minister Narendra Modi, which was requested by two former judges and a senior journalist through a letter sent to both the leaders.
+
+Yet in Sri Lanka, there is no acceptance of invitation by Daily Mirror for a debate among the three main prospective presidential candidates. Only National People’s Power ( NPP) leader Anura Kumara Dissanayake has responded positively so far while SJB Leader Sajith Premadasa and President Ranil Wickremesinghe both are yet to accept the invitation.
+
+◼️
+
+[Data](articles/dad9fb3a.json)
+
+---
+
+### Over 12,000 army deserters receive legal discharge within three weeks
+
+*2024-05-12 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-12-000-army-deserters-receive-legal-discharge-within-three-weeks/108-282400) · `en`
+
+Colombo, May 12 (Daily Mirror) - Over 12,000 soldiers who had deserted the Sri Lanka Army have received legal discharges as of May 11 during an amnesty period declared by Sri Lanka’s Ministry of Defence.
+
+The general amnesty is in effect for one month, from April 20 to May 20, 2024. During this period, Army absentees have been given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centres.
+
+As of the end of the first three weeks of this amnesty period, between April 20, 2024, and May 11, 2024, a total of 11,985 Army personnel who were absent without leave since December 31, 2023, and earlier have been temporarily discharged from their Regimental Centres.
+
+The Army said 81 army deserters currently abroad and absent without leave are also among those who have received the legal discharge.
+
+◼️
+
+[Data](articles/b2bf78a3.json)
 
 ---
 
@@ -2195,71 +2257,5 @@ Responding to a question about the need to declare the events of 2009 as a genoc
 [Data](articles/0bef05d2.json)
 
 [Extended Data](ext_articles/0bef05d2.ext.json)
-
----
-
-### US underscore Sri Lanka’s need for good governance and transparency
-
-*2024-05-11 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99144/us-underscore-sri-lankas-need-for-good-governance-and-transparency) · `en`
-
-The United States has reiterated its assistance to Sri Lanka for the development of a strong and dynamic economy.
-
-This was communicated by the US Ambassador to Sri Lanka Julie Chung, when the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerashinghe met the US envoy on Friday (10).
-
-Posting on ‘X’ (formerly Twitter), the US Ambassador stated that the discussion was focused on bilateral ties, debt restructuring, and ongoing reforms.
-
-Furthermore, she has underscored the need for good governance and transparency as the United States continues supporting the development of a strong and dynamic Sri Lankan economy.
-
-◼️
-
-[Data](articles/599c1952.json)
-
-[Extended Data](ext_articles/599c1952.ext.json)
-
----
-
-### Woman injured in shooting at Medawachchiya
-
-*2024-05-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-injured-in-shooting-at-Medawachchiya/108-282386) · `en`
-
-Colombo, May 11 (Daily Mirror) - A 44-year-old woman was hospitalized after she was injured by gunshots in Medawachchiya last night.
-
-Police said the victim was admitted to the Medawachchiya Hospital and later transferred to the Anuradhapura Hospital for further treatment.
-
-The suspect, who had committed the shooting over a personal dispute, had fled the area.
-
-Police said a 12-bore firearm was used for the shooting. The Medawachchiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/99f21f00.json)
-
-[Extended Data](ext_articles/99f21f00.ext.json)
-
----
-
-### Arvind Kejriwal interim bail
-
-*2024-05-11 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183216) · `ta`
-
-Arvind Kejriwal, Delhi's Chief Minister and Aam Aadmi Party founder, has been granted interim bail by the Indian High Court, pending his appeal in the Supreme Court against his arrest in the excise policy scandal and money laundering case. He must surrender by June 2nd.
-
-🟩
-
-The Indian High Court has granted an interim bail to Arvind Kejriwal, the new Delhi chief minister and founder of the Aam Aadmi Party.
-
-The Indian High Court has granted an interim bail to New Delhi Chief Minister Arvind Kejriwal, who was detained in the Tihar jail for allegedly in the case of excise policy scandal and illegal money laundering and money laundering.
-
-New Delhi Chief Minister Arvind Kejriwal, who has been arrested in the case, has filed an appeal in the Supreme Court in protest of the arrest.
-
-Magistrate Sanjeev Kanna, who was hearing the petition, said, “Arvind Kejriwal has been granted interim bail until June 1st.. He must surrender again on June 2, ”the order stated.
-
-Earlier, Arvind Kejriwal had called for bail to be granted bail in the Lok Sabha election and would be granted bail until June 5.
-
-...
-
-[Data](articles/33995d4c.json)
-
-[Extended Data](ext_articles/33995d4c.ext.json)
 
 ---

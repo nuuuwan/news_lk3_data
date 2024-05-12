@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 22:33:34**
+As of **2024-05-12 22:50:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,524 (100.0%) of 23,527 articles have been extended.
+23,527 (100.0%) of 23,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -900,6 +900,8 @@ China’s refinery is to be a 5.0 billion US dollar in three phases with the fir
 
 [Data](articles/d7112d22.json)
 
+[Extended Data](ext_articles/d7112d22.ext.json)
+
 ---
 
 ### Sri Lanka ex-President Mahinda Rajapaksa slams privatization
@@ -919,6 +921,8 @@ Critics however have blamed the Rajapaksa administrations for running down state
 ...
 
 [Data](articles/d7846cc7.json)
+
+[Extended Data](ext_articles/d7846cc7.ext.json)
 
 ---
 

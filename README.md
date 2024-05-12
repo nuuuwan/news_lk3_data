@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 03:51:00**
+As of **2024-05-13 04:03:17**
 
 ## Newspaper Stats
 
@@ -216,7 +216,7 @@ AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunuga
 
 ABMCL Director/CEO P. Sarkar receives award from State Minister for Technology Kanaka Herath
 
-Associated Battery Manufacturers (Ceylon) Ltd., (a subsidiary of Exide Industries Ltd.,) [ABMCL] was honoured with the Sri Lanka National Quality Award under the Manufacturing - Medium Scale category organised by the Sri Lanka Standards Institution (SLSI), at the Monarch Imperial, Thalawathugoda
+Associated Battery Manufacturers (Ceylon) Ltd., (a subsidiary of Exide Industries Ltd.,) [ABMCL] was honoured with the Sri Lanka National Quality Award under the Manufacturing - Medium Scale category organised by the Sri Lanka Standards Institution (SLSI), at the Monarch Imperial, Thalawathugoda recently.
 
 The Company is the manufacturer of renowned automotive batteries, Exide, Lucas and Dagenite.
 

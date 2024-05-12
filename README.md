@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 18:33:40**
+As of **2024-05-12 18:51:31**
 
 ## Newspaper Stats
 
@@ -26,67 +26,91 @@ adaderanasinhalalk | 3,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,507 (100.0%) of 23,512 articles have been extended.
+23,512 (100.0%) of 23,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### பாதிக் கிணற்றை தாண்டிய பயணம்
+### Crossroad
 
 *2024-05-12 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183334) · `ta`
 
-“தமிழ் பொது வேட்பாளர் என்ற விடயம் இப்போது நம்பிக்கைக்குரிய ஒன்றாக - மக்கள் மத்தியில் ஆர்வத்தை தூண்டி உள்ள ஒன்றாக மாறத் தொடங்கி இருக்கிறது. இது நல்லதொரு சகுனம்”
+The Tamil general candidate's trust issue is gaining public interest, seen as a positive sign.
+
+🟩
+
+“The issue of Tamil general candidate is now a trusted - the people are starting to become a matter of interest among the people. This is a good omen ”
 
 ◼️
 
 [Data](articles/84c566a5.json)
 
+[Extended Data](ext_articles/84c566a5.ext.json)
+
 ---
 
-### தமிழ் பொது வேட்பாளர் தமிழ் மக்களை கட்டுறுதியான அரசியல் சமூகமாக மாற்றும்
+### The Tamil general candidate will make the Tamil people a confused political community
 
 *2024-05-12 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183326) · `ta`
 
-சர்வதேச தரப்பினைக் கொண்டு பொருளாதாரம் மீண்டு வருவதாக சான்றிதழை கொடுப்பதற்கு ரணில் முனைவதோடு அவருக்கு  மத்திய வங்கியின் ஆளுநரும் சான்றிதழை வழங்குகின்றார்.
+Ranil claims economic recovery, but polls show him third, with Sajith Premadasa and Anuragumara Dissanayake leading. Tamil candidate may confuse the community.
 
-இருப்பினும் தென்னிலங்கை கள நிலவரம் இன்னமும் ரணிலுக்கு சாதகமாக திரும்பியதாக தெரியவில்லை. கருத்துக்கணிப்புகள் 3ஆம் நிலையில் ரணில் இருப்பதாகவே காட்டுகின்றன. முதலாம் நிலையில் சஜித் பிரேமதாசவும், அநுரகுமார திசநாயக்கவும் மாறிமாறி வருகின்றனர்.
+🟩
+
+Ranil is trying to issue a certificate that the economy is recovering from the international side and the Governor of the Central Bank also issues a certificate.
+
+However, the Sri Lankan field situation does not seem to have returned to Ranil. The polls show that Ranil is in the 3rd position. In the first place, Sajith Premadasa and Anuragumara Dissanayake are changing.
 
 ◼️
 
 [Data](articles/5cfe81a3.json)
 
+[Extended Data](ext_articles/5cfe81a3.ext.json)
+
 ---
 
-### முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக் கொண்டிருந்த பொதுமக்களை தடையுத்தரவை காண்பித்து மிரட்டிய பொலிசார்
+### Mullivaikkal was intimidated by police who were shown to the public who had been brewing
 
 *2024-05-12 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183355) · `ta`
 
-திருகோணமலை சம்பூர் பொலிஸ் பிரிவில் முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக் கொண்டிருந்த பொதுமக்களை தடையுத்தரவை காண்பித்து பொலிசார் மிரட்டிய சம்பவம் 12 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றுள்ளது.
+On Sunday, 12th, police in Trincomalee's Sampur division threatened the public, specifically targeting Mullivaikkal. The incident occurred when Mullivaikkal was brewing, allegedly violating a court order. Despite the police's intimidation, civilians remembered those who died in Mullivaikkal and shared a porridge named after it.
 
-சேனையர் பகுதியில் ஞாயிற்றுக்கிழமை (12) மதியம் முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக்கொண்டு இருந்தபோது அங்கு வந்த பொலிசார் நீதிமன்ற தடை உத்தரவைக்காட்டி அச்சுறுத்தி தடுக்க முற்பட்டதாகவும் தெரிய வருகின்றது. இதன்போது நாங்கள் வேறு யாரையும் நினைவு கூறவில்லை உயிரிழந்த பொது மக்களுக்காகவே இதனை செய்கின்றோம் என கூறி வாக்குவாதத்தில் ஈடுபட்டதோடு நீதிமன்ற தடை உத்தரவை வாங்க மறுத்ததாகவும் தெரியவருகின்றது.
+🟩
 
-எனினும் பொதுமக்கள் முள்ளிவாய்க்கால் கஞ்சியை காய்ச்சி பொதுமக்களுக்கு பரிமாறி முள்ளிவாய்க்காலில் உயிரிழந்த பொது மக்களை நினைவை நினைவு கூர்ந்திருந்தனர்.
+The incident took place on Sunday, the 12th of this month, when the police threatened the public in the Trincomalee Sampur police division.
+
+It is reported that the police arrived at the Seniyar area on Sunday (12) afternoon when Mullivaikkal was brewing and threatening a court order.. It is reported that we do not recall anyone else.
+
+However, the civilians remembered the people who died in the Mullivaikkal and exchanged the Mullivaikkal porridge to the public.
 
 ◼️
 
 [Data](articles/0689ece1.json)
 
+[Extended Data](ext_articles/0689ece1.ext.json)
+
 ---
 
-### வெருகல் - ஈச்சிலம்பற்று  ஶ்ரீ செண்பகநாச்சியம்மன் ஆலயத்தில் மக்கள் சந்திப்பில் ஈடுபட்டார் எஸ்.சிறிதரன்
+### S. Siritharan was attending a public meeting at Verugal
 
 *2024-05-12 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183352) · `ta`
 
-தமிழ் தேசியக் கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் வெருகல் - ஈச்சிலம்பற்று  ஶ்ரீ செண்பகநாச்சியம்மன் ஆலயத்தில் ஞாயிற்றுக்கிழமை (12) பகல் மக்கள் சந்திப்பில் ஈடுபட்டார்.
+S. Siritharan, a TNA parliamentarian, held a public meeting at the Sree Shenbaganachiyamman Temple in Eichilampattu, invited by TNA Trincomalee leader Shanmugam Kukadasan. Attendees included Sundaralingam, former Verugal Pradeshiya Sabha Chairman, TNA officials, temple administrators, and civilians.
 
-இலங்கை தமிழரசுக் கட்சியின் திருகோணமலை மாவட்ட தலைவர் சண்முகம் குகதாஸன் அவர்களின் அழைப்பின் பேரில் குறித்த மக்கள் சந்திப்பு இடம்பெற்றது.
+🟩
 
-இச்சந்திப்பில் வெருகல் பிரதேச சபையின் முன்னாள் தவிசாளர் சுந்தரலிங்கம், உதவி தவிசாளர், தமிழ் தேசிய கூட்டமைப்பின் வெருகல் பிரதேச முக்கியஷ்தர்கள், ஆலய நிருவாகத்தினர், பொது அமைப்புக்களின் பிரதிநிதிகள், பொதுமக்கள் என பலரும் கலந்துகொண்டிருந்தனர்.
+Tamil National Alliance (TNA) parliamentarian S. Siritharan held a public meeting on Sunday (12) at the Sree Shenbaganachiyamman Temple - Eichilampattu.
+
+The people's meeting was held at the invitation of the Sri Lanka Tamil National Party (TNA) Trincomalee district leader Shanmugam Kukadasan.
+
+Sundaralingam, former Chairman of the Verugal Pradeshiya Sabha, Assistant Chairperson, TNA chiefs, temple administrators, representatives of public organizations and civilians were present.
 
 ◼️
 
 [Data](articles/cf921f56.json)
+
+[Extended Data](ext_articles/cf921f56.ext.json)
 
 ---
 
@@ -127,6 +151,8 @@ Rajapaksa emphasized his administration’s stance of not selling a single state
 ...
 
 [Data](articles/52d757b1.json)
+
+[Extended Data](ext_articles/52d757b1.ext.json)
 
 ---
 

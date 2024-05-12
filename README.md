@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 19:18:32**
+As of **2024-05-12 19:33:46**
 
 ## Newspaper Stats
 
-*Scraped **23,515** Articles*
+*Scraped **23,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,996
-adaderanalk | 2,748
+adaderanalk | 2,749
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
 dailymirrorlk | 3,696
@@ -26,49 +26,81 @@ adaderanasinhalalk | 3,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,512 (100.0%) of 23,515 articles have been extended.
+23,515 (100.0%) of 23,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### සැකසහිත යතුරුපැදියක් හමුවෙයි
+### Meeting a suspicious motorcycle
 
 *2024-05-12 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196547) · `si`
 
-ඉත්තෑපාන - හොරවල තොටුපොළ පාරේ මීගම පාලම අසල කැලෑබද ප්‍රදේශයක තිබී අද (12) පෙරවරුවේ සැකසහිත යතුරුපැදියක් හමුවී තිබේ.
+A motorcycle found in the jungle near the Meegama Bridge is under investigation by the Ihalapana Police for its possible link to three shootings in the Ahungalla area. The bike, lacking owner or chassis numbers, is suspected of being used in criminal activities.
 
-අයිතිකරුවෙකු නොමැති එම යතුරුපැදියක් කැලෑබද ප්‍රදේශයක තිබෙන බවට ලද තොරතුරක් මත ඉත්තෑපාන පොලීසිය ඒ සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකර ඇත.
+🟩
 
-එහිදී අනාවරණය වී ඇත්තේ එම යතුරුපැදියේ  අංක තහඩු සහ චැසි අංක මකා දමා ඇති බවය.
+A motorbike has been found in the jungle near the Meegama Bridge at the Ihalapana - Horawala Port Road.
 
-මෙම යතුරුපැදිය යම්කිසි අපරාධයකට යොදාගෙන පසුව මෙම ස්ථානයේ දමා ගොස් ඇති බවට සැක කරන බවත් පොලීසිය පවසයි.
+The Ihalapana Police have conducted an investigation on information that a motorcycle without a owner is in a jungle area.
 
-පසුගිය දින කිහිපය තුළ අහුංගල්ල ප්‍රදේශයේ ස්ථාන තුනක වෙඩි තැබීම් සිදුකර තිබුණි.
+The motorcycle is deleted and chassis numbers on that motorcycle.
 
-මෙම වෙඩිතැබීම් සඳහා මෙම යතුරුපැදිය යොදාගෙන ඇත්ද යන්න සම්බන්ධයෙන් පොලීසිය විසින් විමර්ශනයක් ආරම්භ කර තිබේ.
+Police say that the motorcycle was used by some crimes and was later suspected to leave this place.
+
+In the last few days, three shootings were shot dead in Ahungalla area.
+
+Police have launched an investigation into whether this motorcycle was used for these shoots.
 
 ◼️
 
 [Data](articles/b8406c0f.json)
 
+[Extended Data](ext_articles/b8406c0f.ext.json)
+
 ---
 
-### නායයෑමේ පූර්ව අනතුරු ඇඟවීම් නිකුත් කරයි
+### Advisory issued for thundershowers and severe lightning
+
+*2024-05-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99168/advisory-issued-for-thundershowers-and-severe-lightning-) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Central, Sabaragamuwa, Eastern and Uva provinces and in Colombo, Gampaha, Puttalam, Mullaitivu, Kilinochchi and Polonnaruwa districts today (12).
+
+There may be temporary localized strong winds during thundershowers, the department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/48edae86.json)
+
+---
+
+### Landslide issues the pre-warnings of the landslide
 
 *2024-05-12 18:50:25* · [`adalk`](https://www.ada.lk/breaking_news/නායයෑමේ-පූර්ව-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-409577) · `si`
 
-දිවයිනේ ප්‍රදේශ රැසකට බලපා ඇති අධික වර්ෂාව සහිත අයහපත් කාලගුණිකතත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක පහක  ප්‍රාදේශිය ලේකම් කොට්ඨාශ 13ක් සඳහා  නායයාමේ පුර්ව අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය  පියවර ගෙන තිබේ.
+The National Building Research Organization has issued landslide warnings for 13 Divisional Secretariats in five districts due to heavy rain. These warnings are effective from 3:00 pm today and include areas like Mawathagama, Ratnapura, and Badulla. Residents are advised to stay alert.
 
-මෙම අනතුරු ඇඟවීමේ නිවේදන අද (12) දින පස්වරු 3.00 සිට අද (13) දින පස්වරු 3.00 දක්වා වු කාලය සඳහා වලංගු වේ.
+🟩
 
-ඒ අනුව බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල, හපුතලේ මහනුවර දිස්ත්‍රික්කයේ යටිනුවර, උඩුනුවර කෑගල්ල දිස්ත්‍රික්කයේ මාවනැල්ල, දෙහිඹ්විට, ගලිගමුව, වරකාපොල, කෑගල්ල කුරුණෑගල දිස්ත්‍රික්කයේ මාවතගම රත්නපුර දිස්ත්‍රික්කයේ  බලංගොඩ, රත්නපුර සහ  ඉඹුල්පේ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශයන් සඳහා පළමු  මට්ටමේ විමසිල්මත්වීමේ අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය  පියවර ගෙන තිබේ.
+The National Building Research Organization has taken steps to issue landslide embarking announcements to 13 Divisional Secretariats in five districts due to heavy rainfalls affected by many areas in the island.
 
-මෙම  ප්‍රදේශවල ජීවත්වන වැසියන් මේ පිළිබඳවදැඩි අවදානයෙන් සිටිය යුතු බවද එම සංවිධානය  වැඩිදුටත් සඳහන් කරයි.
+The announcements are valid for the period from 3.00 pm today (12) at 3.00 pm today.
+
+Accordingly, the National Building Research Organization to issue a warning announcements in the Mawathagama, Ratnapura, Ratnapura and Imbulpe Divisional Secretariat Divisions in Badulla District, Badulla District, Udunuwara, Kegalle District District District District District District District District District District District District District District District District in Mawathagama, Badulla District, Kurunegala District.Steps have been taken.
+
+The people living in these areas should be aware of this and the organization said.
 
 ◼️
 
 [Data](articles/2f4b9427.json)
+
+[Extended Data](ext_articles/2f4b9427.ext.json)
 
 ---
 
@@ -132,21 +164,27 @@ However, the civilians remembered the people who died in the Mullivaikkal and ex
 
 ---
 
-### කොළඹ බදුල්ල මාර්ගය අවහිරවෙයි
+### Colombo Badulla road blocked
 
 *2024-05-12 18:05:58* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-බදුල්ල-මාර්ගය-අවහිරවෙයි/11-409574) · `si`
 
-කොළඹ බදුල්ල ප්‍රධාන මාර්ගයට අද 12 සවස හපුතලේ උඩවිහාරගල  ප්‍රදේශයේදී ගල් පර්වත  සමඟ පස් කන්දක් කඩා වැටී එක් මං තීරුවකට වඩා වැඩි කොටසක් අවහිර වී ඇති බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+A section of the Badulla Mountain collapsed onto the Colombo-Badulla road, causing traffic hazards. The Disaster Management Center and police advise caution in Wellagoda, Haputale, and Beragala. The National Building Research Organization warns of a high landslide risk in Haputale and Haldummulla.
 
-තවදුරටත් ගල් පෙරළීමේ අවධානම පවතින බැවින් එම ස්ථානයේ මේ වන විට තිබෙන ඉඩකඩ අතරින් රථවාහන ධාවනය ඉතා අනතුරුදායක බව ද රියදුරන්  ඇතුළු ප්‍රදේශවාසීහු පෙන්වා දෙති.
+🟩
 
-බෙරගල හපුතලේ සහ බෙරගල කොස්ලන්ද හරහා වැල්ලවාය මාර්ගය  යන මාර්ග වලටද  ගල් පෙරලීමේ අවදානම මේ වන විට පවතින බැවින් එම මාර්ග භාවිතයේදී විමසිලිමත්ව ඉතා පරිස්සමින් රථ වහන ධාවනය  කරවන ලෙසද පොලීසිය  හා ආපදා  කළමනාකරන මධ්‍යස්ථානය රියදුරන්ට දැනුම්දෙයි.
+The Colombo Disaster Management Center (DMC) said that one of the parts of the Badulla Mountain in Udutalegala in Haputale has crashed into the Colombo Badulla main road.
 
-ජාතික ගොඩනැගිලි පර්යේෂණ  සංවිධානයද  හපුතලේ සහ හල්දුම්මුල්ල ප්‍රදේශවලට අද 12 නායයාමේ අවදානම් කහ නිවේදනය නිකුත් කර ඇති බව ද බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+Driades, including drivers point out that traffic is very dangerous at the place where the stones are risk.
+
+The police and the Disaster Management Center informs the drivers to be raised in the Wellagoda Haputale and Beragala Koslanda on the Beragala Koslanda.
+
+The National Building Research Organization (NBRO) has issued the UPFA's 60 landslide risk in Haputale and Haldummulla areas.
 
 ◼️
 
 [Data](articles/103a1848.json)
+
+[Extended Data](ext_articles/103a1848.ext.json)
 
 ---
 
@@ -2219,27 +2257,5 @@ The meeting between President Ranil Wickremesinghe and Basil Rajapaksa took plac
 [Data](articles/e0101e0b.json)
 
 [Extended Data](ext_articles/e0101e0b.ext.json)
-
----
-
-### Parliamentary Permits Decision on Presidentials
-
-*2024-05-12 09:26:51* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වාහන-බලපත්-ගැන-තීරණය-ජනපතිට/11-409565) · `si`
-
-Speaker Mahinda Yapa Abeywardena has directed MP Ranil Wickremesinghe to provide duty-free vehicle permits, citing inability to resolve vehicle license issues. Opposition members requested permits for over 100 members.
-
-🟩
-
-It is reported that the Speaker Mahinda Yapa Abeywardena has decided to direct MPs Ranil Wickremesinghe to provide duty free vehicle permits.
-
-It is reported that the Speaker has sent the request to the President, claiming that he cannot be resorved regarding vehicle licenses.
-
-Opposition members of the party had asked for over 100 opposition members in the respective vehicle permits.
-
-◼️
-
-[Data](articles/1f5236b0.json)
-
-[Extended Data](ext_articles/1f5236b0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 06:21:56**
+As of **2024-05-12 06:59:52**
 
 ## Newspaper Stats
 
-*Scraped **23,377** Articles*
+*Scraped **23,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
-islandlk | 1,263
+islandlk | 1,273
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,377 (100.0%) of 23,377 articles have been extended.
+23,377 (100.0%) of 23,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Culture Shock in Iraq
+
+*2024-05-12 02:29:00* · [`islandlk`](http://island.lk/culture-shock-in-iraq/) · `en`
+
+My first impressions of Iraq were positive. Upon arrival at Saddam International Airport, the opulence and modernity juxtaposed against the backdrop of a country rebuilding itself after a war. The warm reception and luxurious accommodations at Hotel Babylon Oberoi spoke volumes about the resilience and hospitality of the Iraqi people. The five-star standards of Hotel Babylon Oberoi, and facilities provided to my family at a corner suite facing Tigris River, were all positive. I was pleasantly surprised as these observations exceeded my expectations.
+
+...
+
+[Data](articles/e520529c.json)
+
+---
+
+### A Life-Changing Experience in Family Medicine: Lessons from Jaffna
+
+*2024-05-12 02:26:00* · [`islandlk`](http://island.lk/a-life-changing-experience-in-family-medicine-lessons-from-jaffna/) · `en`
+
+The bustling University of Jaffna’s Family Health Center (FHC) in Kondavil became my classroom as I embarked on my Family Medicine training. Serving a primarily Tamil population, the center presented a unique challenge – a new language and a vibrant culture vastly different from my Colombo upbringing. Yet, it was an opportunity to broaden my horizons and become a well-rounded physician.
+
+Under the guidance of the Consultant Family Physician and Senior Registrar of Family Medicine, the Kondavil FHC became a testament to Family Medicine in action. The center boasted a comprehensive array of facilities, from consultation rooms to a dedicated counseling space. Witnessing this well-equipped unit function as a whole solidified the meaning of Family Medicine translating into tangible patient care.
+
+...
+
+[Data](articles/77440f2e.json)
+
+---
+
+### My aachcho’s jaadi making at Paiyagala
+
+*2024-05-12 02:02:00* · [`islandlk`](http://island.lk/my-aachchos-jaadi-making-at-paiyagala/) · `en`
+
+Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete without the side relish of jaadi theldala (sauteed cured fish). Some ate white rice with a piece of jaadi before serving other curries onto their plates. Amma (my mother) prepared a special Jaadi dish with tomatoes and large onion rings for Sunday lunch. She got jaadi  from Aachcho (my grandmother), who boasted that her jaadi was the best in the Kalutara district. Aachcho produced jaadi at home twice a year. I remember her making Jaadi in 1963. I was then 12 years old and was on holiday at her place.
+
+...
+
+[Data](articles/bef932f7.json)
+
+---
 
 ### Heavy rains in Afghanistan: 200 killed
 
@@ -190,6 +228,32 @@ MPs holding dual citizenship should step down before the upcoming elections; oth
 
 ---
 
+### The fig leaf of humanitarianism
+
+*2024-05-11 21:23:00* · [`islandlk`](http://island.lk/the-fig-leaf-of-humanitarianism/) · `en`
+
+As each day passes and the death toll rises in Gaza, the West’s complicity in Israeli atrocities becomes clearer and sharper. South Africa’s case against Israel is a clear indictment of the Global North’s inaction regarding those atrocities. Israel’s defence team has attempted to rationalise what Israeli forces are doing in Gaza, but this has effectively been undermined by the Israeli government itself: each day, its official social media channels tweet or post one ridiculous claim against not just South Africa, but also the ICJ.
+
+Against this backdrop, it makes very little sense to continue defending a country against which half the world has rallied in solidarity. Even Sri Lanka’s decision to send vessels to the Red Sea and local youths to Israel does not diminish its continuing support for Palestine at the United Nations, and the Foreign Ministry’s support for a two-state solution, an end to all hostilities, and a humanitarian ceasefire.
+
+...
+
+[Data](articles/3ec3874a.json)
+
+---
+
+### Michelangelo (1475-1564) and Galileo (1564 -1642): A birth and death over 400 years ago
+
+*2024-05-11 21:12:00* · [`islandlk`](http://island.lk/michelangelo-1475-1564-and-galileo-1564-1642-a-birth-and-death-over-400-years-ago/) · `en`
+
+Even in the midst of many pressing problems, the quarter centenary of the birth of Galileo and the death of Michelangelo cannot be allowed to pass unnoticed. Galileo was born on February 15, 1564; Michelangelo died three days later. Both came from Tuscany in Italy, the cradle of Renaissance art and literature.
+
+...
+
+[Data](articles/bd506c36.json)
+
+---
+
 ### India’s opposition jubilant as Modi critic Kejriwal gets bail to campaign in elections
 
 *2024-05-11 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99153/indias-opposition-jubilant-as-modi-critic-kejriwal-gets-bail-to-campaign-in-elections) · `en`
@@ -238,6 +302,18 @@ With that accomplishments, he had the opportunity to carry the Olympic flame thi
 
 ---
 
+### The Absence of a Desired Image – a tour de force
+
+*2024-05-11 20:54:00* · [`islandlk`](http://island.lk/the-absence-of-a-desired-image-a-tour-de-force/) · `en`
+
+Dr SinhaRaja Tammita-Delgoda’s new art history book, “George Keyt – The Absence of a Desired Image,” provides fascinating insights into the life and work of Sri Lanka’s greatest artist. The book, published by the Taprobane Collection, is 464 pages long from cover to cover with the Appendices (expertly compiled by Uditha Devapriya) comprising about 90 pages. A hefty piece of non-fiction, it is skillfully crafted with meticulous attention paid to detail. Tammita Delgoda has produced a work of art – a tour de force that grips the reader and captures the imagination like an epic novel. Thanks to the author’s breezy writing style and great zest for story-telling, it moves at a brisk pace and takes us on an unforgettable journey. The book’s design is exquisite, especially in respect of the delicate interplay between stylish narrative and ravishing visual imagery.
+
+...
+
+[Data](articles/c7d5ec18.json)
+
+---
+
 ### SLTB bus topples
 
 *2024-05-11 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196521) · `si`
@@ -257,6 +333,18 @@ About 20 people were on the bus at the time of the accident.
 [Data](articles/2697ce04.json)
 
 [Extended Data](ext_articles/2697ce04.ext.json)
+
+---
+
+### The Way of the Jackal: The Untold Story of Sri Lanka’s Wild Dog
+
+*2024-05-11 20:32:00* · [`islandlk`](http://island.lk/the-way-of-the-jackal-the-untold-story-of-sri-lankas-wild-dog/) · `en`
+
+Our jackal is the only island subspecies of the Eurasian Golden Jackal across its range. Historically, it was even considered a species endemic to Sri Lanka. It is the sole wild dog on the island and stands as the third-largest carnivore present; only second to the charismatic Leopard and the sluggish Sloth Bear. These features already make it an iconic species, but for some reason, it has been overlooked. Photographers have missed its stunning moves, artists have forgotten to paint it, tourists hardly ask for sightings, and scientists failed to study it. Instead, the narrative of our Nariya is abandoned to folklore—a cunning, selfish creature, a forgotten soul that nobody really likes
+
+...
+
+[Data](articles/2ea91ff6.json)
 
 ---
 
@@ -399,6 +487,52 @@ According to his affidavit, Sandhu declared moveable and immovable assets owned 
 [Data](articles/dc28d8cd.json)
 
 [Extended Data](ext_articles/dc28d8cd.ext.json)
+
+---
+
+### ‘Dialog Enterprise Partners with UTECH Technologies for Industry 4.0 Transformation’.
+
+*2024-05-11 18:22:00* · [`islandlk`](http://island.lk/dialog-enterprise-partners-with-utech-technologies-for-industry-4-0-transformation/) · `en`
+
+Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., proudly announces the latest addition to its portfolio of industry-leading and innovative automation solutions together with, UTECH solutions.
+
+Through the partnership, Dialog Enterprise aims to leverage its considerable experience in working with diverse industries and multiple use cases to develop innovative and affordable technology solutions helping businesses find efficiencies and productivity enhancements required to be competitive with the demands of a changing business environment.
+
+Focusing on facilitating the transition to Industry 4.0 for enterprises, this collaboration therefore enables tailored IIoT solutions for integrating smart devices, data analytics and automation systems to optimize operations and boost efficiency.
+
+...
+
+[Data](articles/e987d5d9.json)
+
+---
+
+### DTH Travel Maldives seals title of “Indian Ocean’s Leading DMC”
+
+*2024-05-11 18:21:00* · [`islandlk`](http://island.lk/dth-travel-maldives-seals-title-of-indian-oceans-leading-dmc/) · `en`
+
+DTH Travel Maldives has been awarded the prestigious title of “Indian Ocean’s Leading Destination Management Company”, at the World Travel Awards 2024. The ceremony for the Indian Ocean Category was held at the Dubai World Trade Centre as a segment of the Arabian Travel Market (ATM) 2024.
+
+Suranjith De Fonseka, Managing Director of DTH Travel Sri Lanka and Maldives stated “this is a momentous achievement for DTH Maldives. It showcases our commitment to excellence and underscores our position as industry leaders in providing unparalleled travel experiences. This accolade uplifts us to continue elevating the benchmarks of travel in the Maldives. We are honoured and humbled to receive such an award, as it is conferred based on the votes of all those who have experienced our service and hospitality”
+
+...
+
+[Data](articles/22ca844c.json)
+
+---
+
+### Ceylinco Life treats Family Savari winners to a day of unbridled fun at Pearl Bay
+
+*2024-05-11 18:20:00* · [`islandlk`](http://island.lk/ceylinco-life-treats-family-savari-winners-to-a-day-of-unbridled-fun-at-pearl-bay/) · `en`
+
+A welcome opportunity to cool off with the thrills and spills of Pearl Bay – Sri Lanka newest theme park with water features – was provided to nearly a thousand people recently, as Ceylinco Life’s ‘Family Savari’ promotion for 2024 got underway in characteristic scale.
+
+The group, comprising of 250 Ceylinco Life policyholders and their families, were given the run of the park for a day, with the water park area reserved exclusively for them by the life insurance market leader.
+
+With all the rides and other attractions paid for and refreshments provided, the visitors simply had to surrender to the unbridled fun in store for them, courtesy of their life insurance partner. The Family Savari Brand Ambassadors – the popular actor Roshan Ranawana, his wife Kushlani and their son Mineth joined in the activities.
+
+...
+
+[Data](articles/11e56c8a.json)
 
 ---
 
@@ -2135,199 +2269,5 @@ The officials seized 43 cartons of a brand of cigarettes from the first detectio
 [Data](articles/4f4e98b4.json)
 
 [Extended Data](ext_articles/4f4e98b4.ext.json)
-
----
-
-### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
-
-*2024-05-11 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
-
-May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
-
-May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
-
-...
-
-[Data](articles/5fbb9b96.json)
-
-[Extended Data](ext_articles/5fbb9b96.ext.json)
-
----
-
-### Circus Pasppia: Does the country lose their generations?
-
-*2024-05-11 03:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lpk48plvo) · `si`
-
-Circus Pasppia, a traditional Sri Lankan circus, faces challenges in passing down its art to younger generations. Niroshan Kapugiyani, the current owner, discusses the history and future of the circus, highlighting the decline in interest among the youth and the financial struggles of maintaining the tradition. Despite its rich history dating back to the 1940s, the circus may lose its legacy if younger members do not embrace the art.
-
-🟩
-
-Circus Pasppia: Does the country lose their generations?
-
-The name of the name 'Pasppia' is just a group of cadcas.
-
-Sircus Pasppia is still celebrating the circus pasppia.
-
-We went to Agalawatta to meet with Niroshan Kapugiana, the current owner of the circus paspia, which is said to be avoiding the people of many generations.
-
-This is a report prepared by a discussion with its current owner about the beginning of the past, the past for decades.
-
-"Our grandfather was the first to start this. KG. Sugathadasa is my grandfather. The grandfather was the first time in the 1940's, the grandfather was the first time as a beneficiary. Several several people have been identicaworthy, Kudalagama Kaluarachchi, Panarachchi, Kudalagama Kaluarachchi, Kudalagama Kaluarachchi, Kudalathigama, Kudalagama.. My sixth, my sense, is the circus pasiss, "Niroshan Kapughiyiyani, his history revealed History.
-
-...
-
-[Data](articles/61016f9c.json)
-
-[Extended Data](ext_articles/61016f9c.ext.json)
-
----
-
-### Vida Medical Clinic redefines healthcare experience
-
-*2024-05-11 02:48:00* · [`islandlk`](http://island.lk/vida-medical-clinic-redefines-healthcare-experience/) · `en`
-
-Vida Medical Clinic, Colombo’s premier healthcare institution committed to providing exceptional medical care with a comprehensive array of services tailored to meet the diverse needs of its patients. Founded in 2021, Vida Medical Clinic has quickly become synonymous with excellence, offering personalised, patient-centric care in a professional and compassionate environment conveniently located at 33 Deal Place A, Colombo-3.
-
-Under the dynamic leadership of Managing Director, Devin Ambalangodage, Medical Director, Dr. Chandana Galappaththi, and Head of Clinical Operations, Dr. Janice Boulton, Vida Medical Clinic has set itself apart by offering comprehensive treatment pathways guided by committed consultants.
-
-...
-
-[Data](articles/3a2d226d.json)
-
-[Extended Data](ext_articles/3a2d226d.ext.json)
-
----
-
-### SDB bank boosts mobile user experience and access to finance information
-
-*2024-05-11 02:48:00* · [`islandlk`](http://island.lk/sdb-bank-boosts-mobile-user-experience-and-access-to-finance-information/) · `en`
-
-SDB bank recently upgraded its tri-lingual corporate website which is an important part of a broader digital roadmap, marks a significant stride towards optimizing customer engagement through accessible and efficient touchpoints of the Bank. This comprehensive upgrade of its corporate website, now boasting a user interface that is not only the epitome of modern design but also mobile-responsive, catering to the needs of the on-the-go consumer.
-
-...
-
-[Data](articles/b5acdb8a.json)
-
-[Extended Data](ext_articles/b5acdb8a.ext.json)
-
----
-
-### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
-
-*2024-05-11 02:25:00* · [`islandlk`](http://island.lk/ahk-sri-lanka-organises-first-ever-delegation-to-hannover-messe-2024-in-germany/) · `en`
-
-With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24th to 26th April. AHK Sri Lanka had invited the Minister of State for Investor Promotion, Dilum Amunugama, to lead the delegation along with other government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
-
-...
-
-[Data](articles/73f7bdd6.json)
-
-[Extended Data](ext_articles/73f7bdd6.ext.json)
-
----
-
-### More than $ 3 billion can be brought to Sri Lanka by the end of 2024
-
-*2024-05-11 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183202) · `ta`
-
-Investment Development Minister Tilum Amunugama predicts Sri Lanka will attract over $3 billion in investments by 2024, a threefold increase from the initial target. He attributes this optimism to the country's improved investment environment, which has seen a 200% increase in stability compared to two years ago. The government's efforts, including political and financial stability, are key to attracting these investments.
-
-🟩
-
-Investment Development Minister Tilum Amunugama said that by the end of 2024, the investment target of $ 1 billion has been increased by three times and more than $ 3 billion investments to Sri Lanka.
-
-He added that the country's investment environment is currently up 200% more than two years ago.
-
-முதலீடுகள் நாட்டிற்குள் வருவதற்கு அரசியல் ஸ்திரத்தன்மை, நிதி ஸ்திரத்தன்மை மற்றும் நாட்டின் எதிர்காலம் பற்றிய உறுதிப்பாடு ஆகியவை இருக்க வேண்டும் எனவும், தற்போது இந்நாட்டில் ஸ்திரத்தன்மை நிலவுவதை நாட்டிற்கு வரும் முதலீடுகள் உறுதிப்படுத்துவதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
-
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (10) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர்  திலும் அமுனுகம இதனைத் தெரிவித்தார்.
-
-Investments must be in the country, political stability, financial stability and the future of the country. Accordingly, investments for this country are increasing. Investment environment has improved in the country. Since its 2 years ago, 200 percent has changed.
-
-...
-
-[Data](articles/6ca84f41.json)
-
-[Extended Data](ext_articles/6ca84f41.ext.json)
-
----
-
-### 'வீடமைப்பு மற்றும் சர்வதேச நிர்மாணக் கண்காட்சி - 2024' ஜனாதிபதி பார்வையிட்டார்
-
-*2024-05-11 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183201) · `ta`
-
-"வீடமைப்பு மற்றும் சர்வதேச நிர்மாணக் கண்காட்சி - 2024" என்ற இலங்கை நிர்மாணக் கைத்தொழில் சபையினால் ஏற்பாடு செய்யப்பட்டு, பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டப வளாகத்தில் வெள்ளிக்கிழமை நாளின் ஜனாதிபதி ரணில் விக்ரமசிங்க பார்வையிட்டார். இவ்வருட கண்காட்சி நிர்மாணத்துறை நிறுவனங்களின் 300 விற்பனை கூடங்களை அமைக்க வேண்டும். இது முதல் முறையாக நடத்தப்படும் கண்காட்சி ஆகும்.
-
-🟩
-
-இலங்கை நிர்மாணக் கைத்தொழில் சபையினால் ஏற்பாடு செய்யப்பட்ட ”வீடமைப்பு மற்றும் சர்வதேச நிர்மாணக் கண்காட்சி – 2024”ஐ  (Housing & Construction International Expo – 2024) பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டப வளாகத்தில் வெள்ளிக்கிழமை (10) ஜனாதிபதி ரணில் விக்ரமசிங்க பார்வையிட்டார்.
-
-'இலங்கையைக் கட்டியெழுப்புவோம்' என்ற தொனிப்பொருளின் கீழ் இவ்வருட கண்காட்சி ஏற்பாடு செய்யப்பட்டிருந்ததுடன், நிர்மாணத்துறை நிறுவனங்களின் 300 விற்பனை கூடங்கள் இந்தக் கண்காட்சியில் அமைக்கப்பட்டுள்ளன.
-
-In addition, the exhibition will be held for the first time in the exhibition, including the exhibition, which will be held till the 12th of this month.
-
-The president visited domestic and foreign sales and armed forces exhibitions and photographed with the organizers of the exhibition.
-
-Chairperson of Sri Lanka Construction Industry Charter Architecture Expert Jayantha Perera, General Secretary and Chief Executive Engineer. Many people, including Wijeratne, were present.
-
-◼️
-
-[Data](articles/a563231a.json)
-
-[Extended Data](ext_articles/a563231a.ext.json)
-
----
-
-### பெண்களை வலுவூட்டுவதற்கான சட்டமூலம் ஜூன் மாதம் பாராளுமன்றத்தில் நிறைவேற்றப்படும் - ஜனாதிபதி
-
-*2024-05-11 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183200) · `ta`
-
-President Ranil Wickremesinghe announced that two bills aimed at strengthening women, addressing gender equality, and combating violence against women will be presented to parliament in June. These initiatives include establishing a national women's commission, protecting women's rights, and enabling legal action against violations. The President also highlighted the importance of education, mentioning Tammika Perera's efforts to improve educational facilities and introduce technology in schools.
-
-🟩
-
-President Ranil Wickremesinghe said that it is well aware of the challenges faced by women during the economic crisis and that the government has submitted two bills to parliament to strengthen women for the first time since the economic crisis.
-
-குறித்த சட்டமூலங்களை வரும் ஜூன் மாதம் பாராளுமன்றத்தில் நிறைவேற்ற எதிர்பார்க்கப்படுவதாகக் குறிப்பிட்ட ஜனாதிபதி,  இதன் மூலம், ஆண் பெண் சமத்துவம் மற்றும் பெண்களை வலுவூட்டுதல் தொடர்பான தேசியக் கொள்கையை நடைமுறைப்படுத்தல், பெண்கள் தொடர்பான தேசிய ஆணைக்குழுவை நிறுவுதல், பெண்களின் உரிமைகளைப் பாதுகாப்பதற்கான பொறிமுறையை ஸ்தாபித்தல் மற்றும் பெண்கள் உரிமைகள் மீறப்படுதல்களுக்கு எதிராக வழக்குத் தாக்கல் செய்ய முடியும் என்றும் அவர் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/306208a2.json)
-
-[Extended Data](ext_articles/306208a2.ext.json)
-
----
-
-### HNB bolsters its Board of Directors with the appointment of Suresh Shah
-
-*2024-05-11 01:39:00* · [`islandlk`](http://island.lk/hnb-bolsters-its-board-of-directors-with-the-appointment-of-suresh-shah/) · `en`
-
-HNB PLC has announced another strategic addition to its Board of Directors with the appointment of Suresh Shah as an Independent Non-Executive Director. This appointment marks another significant step in strengthening the Bank&#39;s governance and strategic direction.
-
-Shah brings with him a wealth of experience and a proven track record in both the corporate sector and public service. Currently serving as Chairman of Ceylon Tobacco Company PLC and a Director of Carson Cumberbatch PLC, Bukit Darah PLC, Hunter &amp; Co PLC, and Lanka Canneries (Pvt) Ltd, Shah is highly regarded for his leadership and strategic insight. Meanwhile, in the public sector, he also leads the State- Owned Enterprise Restructuring Unit of the Government of Sri Lanka.
-
-...
-
-[Data](articles/d4a20812.json)
-
-[Extended Data](ext_articles/d4a20812.ext.json)
-
----
-
-### Stocks enjoy a bounce from buoyant market sentiment
-
-*2024-05-11 01:38:00* · [`islandlk`](http://island.lk/stocks-enjoy-a-bounce-from-buoyant-market-sentiment/) · `en`
-
-The trading activities on the Colombo Stock Exchange (CSE) yesterday indicated a bullish trend due to positive forecasts from economic experts after a panel discussion held on the previous day with the Central Bank Governor Dr Nandala Weerasinghe.
-
-Further, President Ranil Wickremesinghe’s positive remarks on the future growth prospects also gave an impetus to the market, stock market analysts said.
-
-Amid those developments, the banking sector counters moved up and traded positive manner following these sentiments and also the anticipated conclusion of the external sector debt restructuring exercise, market analysts said.
-
-...
-
-[Data](articles/3ecf31a7.json)
-
-[Extended Data](ext_articles/3ecf31a7.ext.json)
 
 ---

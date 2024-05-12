@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 01:18:24**
+As of **2024-05-13 01:33:56**
 
 ## Newspaper Stats
 
-*Scraped **23,561** Articles*
+*Scraped **23,563** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 210
+colombotelegraphcom | 211
 bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 1,277
 economynextcom | 1,350
 dailyftlk | 1,364
 adalk | 2,002
-adaderanalk | 2,750
+adaderanalk | 2,751
 tamilmirrorlk | 2,760
 virakesarilk | 3,514
 dailymirrorlk | 3,705
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,558 (100.0%) of 23,561 articles have been extended.
+23,561 (100.0%) of 23,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Afghanistan floods devastate villages, killing 315
+
+*2024-05-13 01:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99170/afghanistan-floods-devastate-villages-killing-315) · `en`
+
+(Reuters) - Flash floods caused by heavy rains have devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday, as villagers buried their dead and aid agencies warned of widening havoc.
+
+Thousands of homes were damaged and livestock wiped out, the Taliban-run refugee ministry said, while aid groups warned of damage to health care facilities and vital infrastructure, such as water supply, with streets left coated in mud.
+
+In the Nahrin district of Baghlan province, people carried their shrouded dead to a gravesite.
+
+“We have no food, no drinking water, no shelter, no blankets, nothing at all, floods have destroyed everything,” said Muhammad Yahqoob, who has lost 13 members of his family, children among them.
+
+“Out of 42 houses, only two or three remain, it has destroyed the entire valley.”
+
+...
+
+[Data](articles/f2d885f5.json)
+
+---
 
 ### President announces plans to pass women-empowering bills in Parliament by June
 
@@ -52,6 +72,8 @@ President Ranil Wickremesinghe on Friday emphasised his recognition of the chall
 
 [Data](articles/b507aa73.json)
 
+[Extended Data](ext_articles/b507aa73.ext.json)
+
 ---
 
 ### Good Gestures for Empowerment
@@ -67,6 +89,8 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 ...
 
 [Data](articles/92ca1c7e.json)
+
+[Extended Data](ext_articles/92ca1c7e.ext.json)
 
 ---
 
@@ -374,6 +398,8 @@ When States fail to observe the Rule of Law and maintain the Law and Order, mark
 
 [Data](articles/7fd4fb50.json)
 
+[Extended Data](ext_articles/7fd4fb50.ext.json)
+
 ---
 
 ### The way shepherds and the unrelenting society
@@ -647,6 +673,20 @@ The first six days of the examination has been completed and several other subje
 [Data](articles/50400dac.json)
 
 [Extended Data](ext_articles/50400dac.ext.json)
+
+---
+
+### Reflections On The Life & Achievements Of Dr. N. Ethirveerasingam: An Exceptional Tamil Hailed From Sri Lanka
+
+*2024-05-12 19:48:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-the-life-achievements-of-dr-n-ethirveerasingam-an-exceptional-tamil-hailed-from-sri-lanka/) · `en`
+
+The Global Tamil Forum (GTF) is deeply saddened by the passing of Dr. Nagalingam Ethirveerasingam, affectionately known to colleagues as Ethir, on 18 April 2024 in the USA. He was 89 years old. We express our heartfelt condolences to the family and friends and the many whose lives were enriched by his selfless actions.
+
+Ethir was one of the exceptional individuals to hail from Jaffna, indeed Sri Lanka, in the last century. With his multi-faceted interests and accomplishments – whether in sports, academics, politics, or social services – he rose to the top making his mark against many odds while maintaining his down-to-earth nature, humbleness, and humanity. He identified with the sufferings of the Tamil people and contributed to their economic, social, and political wellbeing with an unwavering passion that set an exceptional precedent.
+
+...
+
+[Data](articles/ad00d73f.json)
 
 ---
 
@@ -2155,47 +2195,5 @@ This program, conceptualized by the Sri Lanka College of Obstetricians & Gynecol
 [Data](articles/30f7ec0f.json)
 
 [Extended Data](ext_articles/30f7ec0f.ext.json)
-
----
-
-### Dermatography increases
-
-*2024-05-12 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196533) · `si`
-
-Dermatography, or skin diseases, is on the rise, says Dr. Indira Kahawita of Colombo National Hospital. She attributes this to the sun's exposure on uncovered areas, leading to spots and fungal infections, especially in children's faces and around the eyes. Immediate medical attention is advised due to the increasing prevalence.
-
-🟩
-
-According to the Colombo National Hospital, Dr. Indira Kahawita says he will increase the increase in skin diseases these days.
-
-She shows that it is compulsory for medical treatment for certain dermapons.
-
-"The spots on the skin can cause the skin of the skin due to the prevailing sun's gains on places that are not covered with clothing. There may be the face of young children.. White spots. Especially in the upper area of Gurmulla, and slightly below the eyes. "
-
-"We also see the fungal infections. We see the fungal infection is a big problem. Don't go to do things like medicine in any way. Immediately meet a qualified doctor. Because there is an increase in the situation. "
-
-◼️
-
-[Data](articles/29cdf227.json)
-
-[Extended Data](ext_articles/29cdf227.ext.json)
-
----
-
-### Bus accident;9 people injured
-
-*2024-05-12 13:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-விபத்து-9-பேர்-காயம்/76-337172) · `ta`
-
-On Sunday, a bus accident in Mayilapitiya injured nine, including the driver and conductor, on the route from Hakurangetha to Kandy.
-
-🟩
-
-The incident took place on Sunday (12) that nine people, including driver and conductor, were injured when a bus belonging to the Hakurangettha depot from Hakurangetha to Kandy was left in the Mayilapitiya area.
-
-◼️
-
-[Data](articles/eef0a42d.json)
-
-[Extended Data](ext_articles/eef0a42d.ext.json)
 
 ---

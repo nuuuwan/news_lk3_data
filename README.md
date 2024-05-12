@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 07:22:58**
+As of **2024-05-12 07:58:19**
 
 ## Newspaper Stats
 
-*Scraped **23,389** Articles*
+*Scraped **23,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,275
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
-tamilmirrorlk | 2,735
+tamilmirrorlk | 2,736
 adaderanalk | 2,736
 virakesarilk | 3,476
 dailymirrorlk | 3,679
-adaderanasinhalalk | 3,752
+adaderanasinhalalk | 3,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,380 (100.0%) of 23,389 articles have been extended.
+23,383 (100.0%) of 23,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### වාහන ආනයනයට ලබන වසරේ සිට අවසර හිමිවන ලකුණු
+
+*2024-05-12 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196526) · `si`
+
+වාහන ආනයනය ලබන වසරේ සිට යළි ආරම්භ කිරීමට අපේක්ෂා කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+එය ක්‍රමානුකූලව සිදුකිරීමට සැලසුම් කර ඇති බව අනුරාධපුර ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+"රජය තෝරගත්ත පිරිසකට වාහන ආනයනය කරන්න අවසර ලබාදෙන්නේ නැහැ. මෙතෙක් වාහන ආනයනය කිරීමට අවසර ලබාදීලා තියෙන්නේ වාණිජමය අවශ්‍යතාවයන් සඳහා පමණයි ඒ කියන්නේ ආර්ථිකයට යම් කිසි දායකත්වයක් දැක්වීම සඳහා ආර්ථික ක්‍රියාවලියකට සහ වාණිජමය ක්‍රියාවලියකට යොමුවෙන අයට විතරයි මෙතෙක් වාහන ආනයනය අවකාශය දීලා තියෙන්නේ. අද සීමාවක් තියෙනවානම් ආනයනය සම්බන්ධයෙන් මෙම සීමාව පුද්ගලික භාවිතාව සඳහා ආනයනය කරනා වාහන  පමණයි.  එතකොට ඒ සීමාවත් ඉදිරියේදී ලිහිල් වේවි. ලබන අවුරුද්ද වෙද්දි ඒක ලිහිල් වේවි. හැබැයි විවෘත වීමත් යම් ක්‍රමාණුකූල විවෘත වීමක් බවට පත්විය යුතුයි."
+
+එමෙන්ම මේ වනවිට රට තුළ පවතින ආර්ථික වැඩපිළිවෙළ හැර වෙනත් කිසිදු විකල්පයක් නොමැති බව ද මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා මෙහිසදී වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/7b02a9d9.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+
+*2024-05-12 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196525) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ නැගෙනහිර පළාත්වලත් බදුල්ල, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ පළාත්වල අද (12) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ දකුණු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/53eddebc.json)
+
+---
 
 ### Culture Shock in Iraq
 
@@ -73,6 +111,22 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 [Data](articles/bef932f7.json)
 
 [Extended Data](ext_articles/bef932f7.ext.json)
+
+---
+
+### அமெரிக்க பிரதிநிதி இலங்கைக்கு வருகிறார்
+
+*2024-05-12 01:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-வருகிறார்/175-337145) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லு  உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு அடுத்த வாரம் நாட்டிற்கு வருகைதரவுள்ளார்.
+
+எதிர்வரும் 15 ஆம் திகதி வரை இந்தியா, இலங்கை, பங்களாதேஷ் ஆகிய நாடுகளுக்கு அவர் விஜயம் மேற்கொள்ள திட்டமிட்டுள்ளார்.
+
+இந்த விஜயத்தின் போது இலங்கையின் பொருளாதாரத்தை மீட்டெடுப்பதற்கு அமெரிக்காவினால் வழங்கப்படும் உதவிகள் தொடர்பில் விரிவான கலந்துரையாடல் இடம்பெறவுள்ளதாக அமெரிக்க இராஜாங்க திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/1758c115.json)
 
 ---
 
@@ -246,6 +300,8 @@ Against this backdrop, it makes very little sense to continue defending a countr
 
 [Data](articles/3ec3874a.json)
 
+[Extended Data](ext_articles/3ec3874a.ext.json)
+
 ---
 
 ### Michelangelo (1475-1564) and Galileo (1564 -1642): A birth and death over 400 years ago
@@ -257,6 +313,8 @@ Even in the midst of many pressing problems, the quarter centenary of the birth 
 ...
 
 [Data](articles/bd506c36.json)
+
+[Extended Data](ext_articles/bd506c36.ext.json)
 
 ---
 
@@ -317,6 +375,8 @@ Dr SinhaRaja Tammita-Delgoda’s new art history book, “George Keyt – The Ab
 ...
 
 [Data](articles/c7d5ec18.json)
+
+[Extended Data](ext_articles/c7d5ec18.ext.json)
 
 ---
 
@@ -2189,77 +2249,5 @@ Sri Lanka’s imports and the merchandise trade deficit has gradually picked as 
 [Data](articles/3e65e038.json)
 
 [Extended Data](ext_articles/3e65e038.ext.json)
-
----
-
-### Meeting between Central Bank Governor and US Ambassador
-
-*2024-05-11 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196495) · `si`
-
-Dr. Nandalal Weerasinghe, Central Bank Governor, met with US Ambassador Julie Chang at the American Embassy. Julie Chang emphasized the US's support for Sri Lanka's economic development.
-
-🟩
-
-Dr. Nandalal Weerasinghe, Central Bank of Dr. Nandalal Weerasinghe and the US Ambassador to Sri Lanka Julie Chang.
-
-The meeting was reported yesterday at the American Embassy yesterday (10).
-
-The US Ambassador has said that a note on the center of X clubs.
-
-Julie Chang, said that the United States continued to support the building of a strong economy in Sri Lanka.
-
-◼️
-
-[Data](articles/2d7ff772.json)
-
-[Extended Data](ext_articles/2d7ff772.ext.json)
-
----
-
-### Heavy rains into several provinces
-
-*2024-05-11 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196494) · `si`
-
-Heavy rains and thunderstorms are expected across several provinces, with warnings for strong winds and lightning. Warm weather conditions are also forecasted for the Northern and North Central Provinces, with a focus on Trincomalee and Batticaloa Districts.
-
-🟩
-
-In most parts of the island. Showers or thundershowers will occur at several places, about 2.00.
-
-In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle and Matara districts. There may be heavy showers over 100.
-
-Showers will occur at several places in the Southern Province.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-Meanwhile, the Department of Meteorology has issued a warning about warm weather conditions today (11).
-
-The announcement is effective for the Northern and North Central Province and Trincomalee and Batticaloa Districts.
-
-Accordingly, the warm indicator of the above areas is expected to be "focused" at a 'focus'.
-
-Therefore, the Meteorology Department announces the people living in the above areas.
-
-◼️
-
-[Data](articles/3033378a.json)
-
-[Extended Data](ext_articles/3033378a.ext.json)
-
----
-
-### Diana under immigration radar for overstaying visa since 2014
-
-*2024-05-11 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-under-immigration-radar-for-overstaying-visa-since-2014/108-282342) · `en`
-
-Colombo, May 10 (Daily Mirror) -  In the wake of UK citizenship holding Diana Gamage losing her parliamentary seat following a ruling by the Supreme Court, the immigration authorities are planning to consult the Attorney General to inquire into how she lived in Sri Lanka without a valid visa since she last arrived in the country on a tourist visa since around 2014, an official said.
-
-She lost her parliamentary seat on the grounds that she is a UK citizen. The Supreme Court observed that the evidence before the Court establishes that Diana Gamage ceased to be a citizen of Sri Lanka upon acquiring British citizenship and failed to resume the status of citizen of Sri Lanka according to law. She is thereby disqualified to be an MP by the Constitution.
-
-...
-
-[Data](articles/46aa8c6d.json)
-
-[Extended Data](ext_articles/46aa8c6d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 18:10:39**
+As of **2024-05-12 18:22:06**
 
 ## Newspaper Stats
 
-*Scraped **23,506** Articles*
+*Scraped **23,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,993
+adalk | 1,994
 adaderanalk | 2,747
 tamilmirrorlk | 2,759
 virakesarilk | 3,500
@@ -26,111 +26,153 @@ adaderanasinhalalk | 3,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,497 (100.0%) of 23,506 articles have been extended.
+23,503 (100.0%) of 23,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### පාකිස්තානයේ තවත් ත්‍රස්ත ප්‍රහාර 02ක්
+### Two more terrorists in Pakistan
 
 *2024-05-12 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196546) · `si`
 
-පාකිස්තානයේ කයිබර් හි ආරක්ෂක මුරපොළවල් දෙකක් ඉලක්ක කර එල්ලවූ ත්‍රස්ත ප්‍රහාර දෙකකින් නිලධාරීන් 7 දෙනෙකු මියගොස් තිබේ.
+In Pakistan, two terrorist attacks resulted in the deaths of seven officials, including five at a security checkpoint in Vithirinn district and two others. Several security personnel were injured and hospitalized. In response, Pakistani security forces initiated a special military operation.
 
-වසිරිස්තාන් දිස්ත්‍රික්කයේ ආරක්ෂක මුරපොළක් වෙත පළමු ප්‍රහාරය එල්ලවී ඇති අතර එහිදී නිලධාරීන් 5 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-අනතුරුව තවත් ආරක්ෂක මුරපොළකට ප්‍රහාරයක් එල්ල වී ඇති අතර එහිදී නිලධාරීන් දෙදෙනෙකු මියගොස් ඇති බව සඳහන් ය.
+Seven officials were killed in two terrorists, aimed at two security guards at Pakistan.
 
-ආරක්ෂක නිලධාරීන් කිහිපදෙනෙකු තුවාල ලබා ඇති අතර ඔවුන් ප්‍රතිකාර සඳහා ගුවන් මඟින් රෝහල් වෙත යොමුකර තිබේ.
+The first attack was launched to a security checkpoint in Vithirinn district and five officials were killed and 5 others died.
 
-ප්‍රහාර එල්ල වූ ප්‍රදේශයේ විශේෂ හමුදා මෙහෙයුමක් ආරම්භ කිරීමට පාකිස්තාන ආරක්ෂක අංශ පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
+Thereafter, two officials were killed and two officials were killed.
+
+Several security personnel have been injured and they have been admitted to the hospital for treatment.
+
+The Pakistani security forces have taken steps to launch a special military operation in the attack, foreign media reports said.
 
 ◼️
 
 [Data](articles/59e79e14.json)
 
+[Extended Data](ext_articles/59e79e14.ext.json)
+
 ---
 
-### தொடரும் சாபக்கேடு
+### Continuing curse
 
 *2024-05-12 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183324) · `ta`
 
-அவனை ஒரு மீற்றர் அளவுள்ள ஒரு தனிச் சிறையில் அடைக்கும்படி கட்டளை வந்தது. மீண்டும் ஆர்ப்பாட்டம் செய்தான். ஆனால் இம்முறை ‘நான் நிரபராதி’ என்ற வாதத்தை மறந்துவிட்டான். இது என்ன கொடுமை! இந்தச் சிறையில் எப்படி இருப்பது? உறங்குவது? இது உங்களுக்கே தப்பாகத் தெரியவில்லையா? எனக் கதறினான்.
+In a solitary prison, the speaker, accused and forgotten of innocence, experiences a cruel reality. Despite his innocence, he's trapped, questioning the nature of his confinement and the justice system.
+
+🟩
+
+The command came to be placed in a solitary prison with a meter. The demonstration again. But this time I have forgotten the argument that I am innocent. What a cruel this is!How is this prison?Sleeping?Don't you know this?He shouted.
 
 ◼️
 
 [Data](articles/b003ebd5.json)
 
+[Extended Data](ext_articles/b003ebd5.ext.json)
+
 ---
 
-### ජනපතිගේ පාලනය ගැන මහින්දගෙන් දැඩි තීරණයක්
+### Mahinda is a serious decision about the President's rule
 
 *2024-05-12 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196544) · `si`
 
-රජයට අයත් ඇතැම් වත්කම් සහ ව්‍යාපාර විකුණා දැමීමට ආණ්ඩුව ගනිමින් සිටින පියවර හේතුවෙන් වෘත්තීය සමිති, දේශපාලන පක්ෂ හා පොදු මහජනතාව අතර නොසන්සුන්තාවයක් හටගෙන ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+Mahinda Rajapaksa criticizes the current government for unrest, blaming trade unions and political parties. He mentions the IMF's influence and the interim government's role. Rajapaksa suggests suspending state asset sales until a new government is elected, aiming for a productive outcome.
 
-නිවේදනයක් නිකුත් කරමින් මහින්ද රාජපක්ෂ මහතා ඒ බව පෙන්වා දෙයි.
+🟩
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ, වත්මන් ආණ්ඩුවේ මෙම පියවරට පාදක වී ඇත්තේ පාඩු ලබන රාජ්‍ය ආයතන සඳහා වන වියදම් අවම කිරීමට‍ සහ ඒ සම්බන්ධයෙන් ජාත්‍යන්තර මුල්‍ය අරමුදල පනවා ඇති කොන්දේසි සපුරාලීමට බවද පෙනෙන්නට තිබෙව බවය.
+Former President Mahinda Rajapaksa says that the trade unions have caused a unrest among the trade unions, political parties and general public due to the measures that the government is taking into custody.
 
-වත්මන් ආණ්ඩුව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ධූර කාලයේ ඉතිරි කොටස තුළ රට පාලනය කිරීම සඳහා පිහිටුවා ගත් අන්තර්කාලින වැඩපිළිවෙළක් බවත් මහින්ද රාජපක්ෂ මහතා මතක් කරයි.
+I am releasing an announcement.
 
-මෙවන් අවස්ථාවක රාජ්‍ය දේපොළ කඩිමුඩියේ විකුණා දැමීමෙන් රටට වැඩදායක ප්‍රතිඵලයක් ලබා ගැනීමට නොහැකි බව පුද්ගලීකරණයට පක්ෂපාත පාර්ශ්වවලට පවා අවබෝධ විය යුතුය යන්නද ඉන් සඳහන් කරයි.
+The current government is based on that this step is based on minimizing the costs of losses and the conditions of the International Monetary Fund.
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා යෝජනා කරන්නේ ඉදිරි ජනාධිපතිවරණයෙන් පසු නව රජයක් පිහිටුවන තුරු රජය සතු වත්කම් හෝ ව්‍යාපාර විකුණා දැමීමට ගෙන ඇති සියලු පියවර අත්හිටුවිය යුතු  බවය.
+President Rajapaksa recalls that the present government is an interim program for the rest of the country during the rest of the contents of former President Gotabhaya Rajapaksa.
+
+In this case, it is said that individual parties to privatize that the country cannot get a productive result from selling state property.
+
+Former President Mahinda Rajapaksa proposes that all steps taken to sell state ownership or businesses should be suspended until a new government is formed after the next presidential election.
 
 ◼️
 
 [Data](articles/98137066.json)
 
+[Extended Data](ext_articles/98137066.ext.json)
+
 ---
 
-### கடிவாளத்தை கையில்   எடுக்கிறரா பஷில்?
+### Does the bashil take the hand on the hand?
 
 *2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183322) · `ta`
 
-மணலையும் கயிறாகத் திரிக்கும் வேலையைச் செய்யக் கூடிய விரல் விட்டு எண்ணக் கூடிய அரசியல்வாதிகளில் ஒருவர் தான் பஷில் ராஜபக்ஷ.
+Basil Rajapaksa, a key political figure, is known for his strategic maneuvers in Sri Lankan politics. Despite facing criticism and legal issues, he has demonstrated a knack for turning enemies into allies and vice versa, showcasing his ability to navigate the complex world of politics. His role in the unexpected appointment of Mahinda Rajapaksa as Prime Minister in 2018, despite opposition, highlights his skill in political maneuvering. Basil is currently working to rebuild the PA party and aims to return the Rajapaksa family to power, employing various strategies to influence political outcomes. His approach to politics, characterized by efficiency and tact, serves as a lesson for other politicians.
 
-இந்தக் கூற்றில் பலருக்கு உடன்பாடு இல்லாமல் இருக்கலாம். அவரது அரசியலில் , வாழ்வியலில் நேர்மை இருக்கிறதோ இல்லையோ, அரசியல் காய்நகர்த்தல்களில் வேறெந்த அரசியல்வாதியையும் மிஞ்சக் கூடிய திறமை இருக்கிறது என்பது ஒப்புக் கொள்ளப்பட வேண்டியது தான்
+🟩
 
-இது பஷிலுக்கான புகழ்ச்சி அல்ல. ஏனைய அரசியல்வாதிகள்  அரசியலில் கற்றுக் கொள்ள வேண்டிய பாடம். 2015 ஜனாதிபதி தேர்தலில், ஏற்பட்ட தோல்விக்கு ராஜபக்ஷ குடும்பத்தின் எதேச்சாதிகாரம் தான் காரணம் எனச் சொல்லப்படுவதுண்டு. அவ்வாறான விமர்சனங்கள் வெளிப்படையாகவே முன்வைக்கப்பட்டன.
+Rajapaksa is one of the politicians who think of the finger of the sand and the rope.
 
-அதில் கணிசமான பங்கு பஷில் ராஜபக்ஷவுக்கும் இருந்தது. எத்தனையோ ஊழல், மோசடிக் குற்றச்சாட்டுகளுக்கு உள்ளாகிய போதும், அவற்றில் சிக்கிக் சிறைக்குள் செல்லாமல், மருத்துவமனைக் கட்டிலுடன் இருந்து விட்டு வெளியே வந்தவர் அவர்.
+This claim may not have agreement to many. It must be acknowledged that he has the ability to exceed any other politician in his politics and life or not.
 
-மஹிந்தவின் தோல்விக்குப் பின்னர் பொதுஜன பெரமுனவை உருவாக்கி அடுத்த சில ஆண்டுகளிலேயே அதிகாரத்தைப் பிடிக்கும் அளவுக்கு அதனை வளர்ச்சியடையச் செய்தவர்.
+This is not a praise for Bashil. Lesson that other politicians should learn in politics. In the 2015 presidential election, the defeat of the Rajapakse family is attributed to the autocraticity of the family. Such criticisms were openly presented.
+
+Rajapaksa also had a significant share in Bashil. He is the one who left the hospital bed, not going to jail, although there are many corruption and fraud.
+
+After the defeat of Mahinda, he created the PA and developed it in the next few years.
+
+If the PA is strong in Sinhala politics today, Mahinda's leadership is not the only reason, but also Basil's efficient and tactfulness.
+
+He is the one who can do anything for politics and power to make enemies a friend and an enemy of friends.
 
 ...
 
 [Data](articles/2643f136.json)
 
+[Extended Data](ext_articles/2643f136.ext.json)
+
 ---
 
-### 1700 ரூபாவுக்கு ஜூன் 10 வரையில் கால அவகாசம் - வடிவேல் சுரேஷ்
+### Vadivel Suresh for 1700 rupees till June 10 - Vadivel Suresh
 
 *2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183317) · `ta`
 
-வழமை மாறாது,வேலைப்பளு அதிகரிக்கப்படாமல் தொழிலாளர்கள் வஞ்சிக்கப்படாமல் 1700 ரூபா பெற்றுக்கொடுக்கப்படும் என்பதை அரசாங்கம் உறுதிப்படுத்த வேண்டும் என்று ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் பாராளுமன்ற உறுப்பினருமான வடிவேல் சுரேஷ் தெரிவித்துள்ளார்.
+Vadivel Suresh, a senior adviser, advocates for plantation workers to receive a 1700 rupee salary increase, citing government support. Companies challenging this raise face legal action, with President Ranil Wickremesinghe offering legal aid. The Minister of Labor's attention to a 1200 rupee payment is noted, but the focus remains on the 1700 rupee increase. The Commissioner of Labor aims to pay 1350 rupees as basic salary, with additional payments, but the inclusion of tea in the salary is undecided. Complaints about salary payments are limited to certain companies, leading to worker dissatisfaction and migration. The management system is criticized for its impact on worker well-being and the environment. Political representation for Tamil communities is discussed, with a call for action to address the issues faced by plantation workers.
 
-தொழிலாளர்களின் சம்பள விவகாரம், பெருந்தோட்ட நிர்வாக முறைமை மற்றும் பெருந்தோட்ட காடாக்கல் தொடர்பில் வீரகேசரி வார வெளியீட்டுக்கு அவர் வழங்கிய பிரத்தியேக செவ்வி வருமாறு
+🟩
 
-கேள்வி: சம்பள உயர்வு குறித்த வர்த்தமானி அறிவித்தலை கம்பனிகள் சட்டரீதியாக சவாலுக்கு உட்படுத்தும் பட்சத்தில் அரசாங்கத்தின் அடுத்தக்கட்ட நகர்வு என்வென்பதை கூறமுடியுமா?
+Vadivel Suresh, a president's senior adviser and parliamentarian, said the government should ensure that the workers will be paid 1700 rupees without the increased job.
+
+He was presenting the Weerakesari weekly release on workers' salary affairs, plantation management system and plantation quadrilateral.
+
+Question: Can the company's next move, if the companies are legally challenging the gazette notification of the salary increase?
+
+Answer: Plantation workers must seek law on salary issue. But the estate companies are trying to seek the law. The companies went to the High Court on a thousand rupees. Eventually the workers were judged to pay a thousand rupees. Similarly, President Ranil Wickremesinghe has promised to arrange lawyers to appear on behalf of workers if the company is in court this time.. So this time the companies are not going to allow any problems.
 
 ...
 
 [Data](articles/fb01ba03.json)
 
+[Extended Data](ext_articles/fb01ba03.ext.json)
+
 ---
 
-### 13ஐ நடைமுறைப்படுத்த பரந்த சர்வதேச சமூகம் ஆதரவு - பிரத்தியேக செவ்வியில் எரிக் சொல்ஹெய்ம்
+### Wide International Social Support to implement 13 - Eric Solheim in exclusive
 
 *2024-05-12 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183314) · `ta`
 
-அண்மையில் இலங்கைக்கு விஜயம் மேற்கொண்டிருந்த அவர் வடக்கு,கிழக்கு பகுதிகளுக்குச் சென்று பல்வேறு சந்திப்புக்களை நடத்தியிருந்த நிலையில் வீரகேசரிக்கு பிரத்தியேகமாக வழங்கிய செவ்வியின்போது மேற்கண்டவாறு தெரிவித்தார். அவருடைய செவ்வியின் முழுவடிவம் வருமாறு,
+Eric Solheim, after visiting Sri Lanka, is receiving wide international social support for his initiatives, especially in the North and East. His efforts are gaining momentum towards achieving his goals.
+
+🟩
+
+He recently visited Sri Lanka and held various meetings to the North and East.. To come to the full form of his body,
 
 ◼️
 
 [Data](articles/43df802e.json)
+
+[Extended Data](ext_articles/43df802e.ext.json)
 
 ---
 
@@ -803,6 +845,22 @@ Thereafter, a cassette and two smartphones stolen in three houses in the Soloon 
 [Data](articles/8b53c3f5.json)
 
 [Extended Data](ext_articles/8b53c3f5.ext.json)
+
+---
+
+### ප්‍රාථමික ශ්‍රේණිවල දරුවන්ගේ ආහාර වැඩසටහනට වැය වන මුදල රුපියල් බිලියන 26ක්
+
+*2024-05-12 13:42:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-ශ්‍රේණිවල-දරුවන්ගේ-ආහාර-වැඩසටහනට-වැය-වන-මුදල-රුපියල්-බිලියන-26ක්/11-409569) · `si`
+
+මෙරට ප්‍රාථමික ශ්‍රේණිවල සියලු‍ සිසුන් ආවරණය වන පරිදි දරුවන් ලක්ෂ 17ක් සඳහා රුපියල් බිලියන 26ක් වැය කර පාසල් දිවා ආහාර වැඩසටහන අඛණ්ඩ ව වර්ධනය කර පවත්වාගෙන යන පසුබිමක සමහර පුද්ගලයන් දේශපාලන වේදිකාවල සිට ජනප්‍රිය ප්‍රකාශ නිකුත් කරමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.  රටේ සියලු‍ ම පාසල්  දරුවන්ට දිවා ආහාරය දෙන බව පවසන දේශපාලනඥයන් ඒ පිළිබඳ සංඛ්‍යාත්මක විශ්ලේෂණයක් ප්‍රායෝගික ව සිදු කර බලා මෙම ප්‍රකාශ සිදු කළ යුතු ව ඇතැයි ද ඒ මහතා මෙහි දී පැවසීය.
+
+අධ්‍යාපන අමාත්‍යවරයා මේ බව පැවසුවේ ජර්මන් ටෙක් ආයතනයේ සිසුන් වෙනුවෙන් අත්තිඩියේ ඉදි කළ  නව සය මහල් නේවාසිකාගාර සංකීර්ණය සිසු අයිතියට පත් කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස එක් වෙමිනි.
+
+මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් සුසිල් ප්‍රේමජයන්ත මහතා ප්‍රකාශ කළේ, මීට වසර දෙකකට පෙර තිබූ තත්වය ඉතා කෙටි කලක දී හාත්පසින් ම වෙනස් කර රට තුළ සාධනීය වාතාවරණයක් නිර්මාණය කළ  බවයි.
+
+...
+
+[Data](articles/23fa2028.json)
 
 ---
 
@@ -2195,35 +2253,5 @@ President Ranil Wickremesinghe was speaking at the Sri Lanka Buddhist Societies 
 [Data](articles/08db0b7a.json)
 
 [Extended Data](ext_articles/08db0b7a.ext.json)
-
----
-
-### National Commission of Women
-
-*2024-05-12 07:42:25* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-පිළිබඳ-ජාතික-කොමිෂන්-සභාවක්/11-409560) · `si`
-
-In June, Parliament passed bills to empower women, part of a national policy on gender equality. President Ranil Wickremesinghe aims to amend laws to include a women's political party by 2030, highlighting the importance of women's rights and representation during economic crises. The government also introduced a program against women's violence, using hand signals to educate society on stopping such acts. This initiative, led by Dhammika Perera, aims to revolutionize education, especially in the context of artificial intelligence, to benefit all children. The President emphasized the need for a National Commission on Women's Empowerment to protect women's rights and address gender equality in education and social justice.
-
-🟩
-
-Bills to empower women in June of June is passed in Parliament
-
-National policy on gender equality and female empowering.
-
-The law should be amended to accept a women's political party by 2030 - President.
-
-President Ranil Wickremesinghe stated that during the economic crisis, women have been well aware of the challenges of protecting their lives and the government has submitted two bills to Parliament.
-
-The President said that the Bills are expected to be passed in parliament in Parliament in June.He pointed out that there would be prosecution.
-
-President Ranil Wickremesinghe made these comments made the keynote address in the event of the "unbelieving global gestures" against the sexual abuse of DP education in public places.
-
-Dhammika Perera has begun a change. The program commenced against women's violence is commendable. Business like DP education should be part of future education. We were educated in history using stone planks under trees. The buildings were then joined in education.
-
-...
-
-[Data](articles/e0a07cab.json)
-
-[Extended Data](ext_articles/e0a07cab.ext.json)
 
 ---

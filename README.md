@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 20:51:27**
+As of **2024-05-12 21:03:46**
 
 ## Newspaper Stats
 
-*Scraped **23,520** Articles*
+*Scraped **23,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 2,749
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
 dailymirrorlk | 3,699
-adaderanasinhalalk | 3,771
+adaderanasinhalalk | 3,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,520 (100.0%) of 23,520 articles have been extended.
+23,520 (100.0%) of 23,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### සා/පෙළ විභාගයේ ඉදිරි කටයුතු ගැන පැහැදිලි කරයි
+
+*2024-05-12 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196548) · `si`
+
+මේ දිනවල පැවැත්වෙන 2023(2024) අ.පො.ස සාමාන්‍ය පෙළ විභාගයට බාධාවක් ඇති විය හැකි ආකාරයේ බරපතළ සිදුවීම් කිසිවක් මෙතෙක් වාර්තා වී නොමැති බව විභාග කොමසාරිස් ජනරාල් H.J.M.C. අමිත් ජයසුන්දර මහතා පවසයි.
+
+මේ වන විට විභාගයේ පළමු දින 06 අවසන් වී ඇති අතර, ගණිතය විෂය ඇතුළු තවත් විෂයන් කිහිපයක් මැයි මස 13,14,15 යන ඉදිරි දින තුනෙහි පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/50400dac.json)
+
+---
 
 ### Rapid decline in birthrate; making children has not become priority of new generation
 
@@ -2195,33 +2209,5 @@ It is also worth noting that illegal assets worth around Rs 1,500 million have b
 [Data](articles/674e61b3.json)
 
 [Extended Data](ext_articles/674e61b3.ext.json)
-
----
-
-### Emergency Department is completely destroyed by lightning strikes
-
-*2024-05-12 09:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தினால்-அவசர-சிகிச்சைப்-பிரிவு-முற்றாக-நாசம்/175-337148) · `ta`
-
-Lightning strikes destroyed the Emergency Department of Valasmulla Resource Hospital, damaging all electrical equipment and the building. Agriculture Minister Mahinda Amaraweera visited, estimating the damage at Rs. 50 million. Southern Province Minister Lakshman Yapa Abeywardena promised funds for reconstruction, with the governor planning a visit. Three patients were treated without injury, but the staff had to evacuate them due to a fire post-strike.
-
-🟩
-
-The Emergency Department of the Valasmulla Resource Hospital (ETU) has been completely damaged by lightning with heavy rains.
-
-All the electrical equipment in the hospital was destroyed and the building was damaged by lightning strike last Friday (10).
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera visited the hospital yesterday (11) and visited the hospital.
-
-Damage to ETU due to lightning impacts about Rs.. He said it would be 50 million.
-
-The Minister of Southern Province Lakshman Yapa Abeywardena, who had telephoned the Southern Province Governor Lakshman Yapa Abeywardena yesterday (11), said that the money will be allocated for the reconstruction of the emergency department and that the governor will visit the hospital today.
-
-Three patients who were treated in the category during the impact of lightning were not injured. However, the hospital staff told the minister that after the lightning impact, the fire had to be made in great efforts to expel the patients.
-
-◼️
-
-[Data](articles/4b3983c7.json)
-
-[Extended Data](ext_articles/4b3983c7.ext.json)
 
 ---

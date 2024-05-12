@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 15:33:25**
+As of **2024-05-12 15:52:05**
 
 ## Newspaper Stats
 
-*Scraped **23,471** Articles*
+*Scraped **23,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,988
+adalk | 1,992
 adaderanalk | 2,745
 tamilmirrorlk | 2,758
 virakesarilk | 3,484
-dailymirrorlk | 3,691
+dailymirrorlk | 3,692
 adaderanasinhalalk | 3,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,471 (100.0%) of 23,471 articles have been extended.
+23,471 (100.0%) of 23,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### India-Sri Lanka ferry service delayed till May 17
+
+*2024-05-12 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-ferry-service-delayed-till-May-17/108-282411) · `en`
+
+The passenger ferry services scheduled to begin operations on May 13 between Kankesanthurai in Sri Lanka and Nagapattinam in India wil be delayed further due to the delay in delivery of the ferry and unavoidable compliance requirements , IndSri Ferry Service Pvt. Ltd. said.
+
+While issuing an announcement company Managing Director S. Niranjan Nandagopan told the Daily Mirror that the service wil not operate on May 13 as planned but will operate on May 17.
+
+The passenger vessel ‘Sivagangai’ is all set to resume ferry services between Kankesanthurai in Sri Lanka and Nagapattinam in India on May 17, he said.
+
+However, the company said that they have been assured by the authorities that all legal compliance requirement certificates will be issued well in time to start the service from May 17.
+
+Those who have booked journeys from May 13 to 16, will be rescheduled to May 17.
+
+Alternatively, they may also choose to travel on any date after May 17, 2024.
+
+...
+
+[Data](articles/35390174.json)
+
+---
 
 ### A problem with the O / L Science paper
 
@@ -89,6 +111,20 @@ The Sri Lanka Freedom Party’s (SLFP) faction led by former President Maithripa
 [Data](articles/bbc0772f.json)
 
 [Extended Data](ext_articles/bbc0772f.ext.json)
+
+---
+
+### මෛත්‍රිගෙන් හිස්වූ පුටුව විජයදාසට
+
+*2024-05-12 14:13:21* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රිගෙන්-හිස්වූ-පුටුව-විජයදාසට/11-409573) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබේ. කෝට්ටේදී පැවැත්වෙන එම පක්ෂයේ මෛත්‍රීපාල සිරිසේන පාර්ශ්වයේ විධායක සභා රැස්වීමේදී හිටපු ජනපතිවරයා මෙම ඉල්ලා අස්විම ප්‍රකාශ කර තිබේ.
+
+එසේම එහිදි හිස්වූ සභාපතිධුරය සඳහා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත්කිරිමට ඒකමතිකව තිරණය කර තිබේ.
+
+◼️
+
+[Data](articles/ebd35421.json)
 
 ---
 
@@ -151,6 +187,32 @@ President Ranil Wickremesinghe made this statement during his attendance at the 
 [Data](articles/a774d3e3.json)
 
 [Extended Data](ext_articles/a774d3e3.ext.json)
+
+---
+
+### රජයේ වත්කම් විකිණීම ගැන මහින්දගෙන් නිවේදනයක්
+
+*2024-05-12 13:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වත්කම්-විකිණීම-ගැන-මහින්දගෙන්-නිවේදනයක්/11-409571) · `si`
+
+මීළඟ ජනාධිපතිවරණයට ඇත්තේ තව මාස කිහිපයක් පමණක් බැවිල් රජයේ දේපළ විකිණීමට එරෙහිව රට පුරා ඇතිවී තිබෙන නොසන්සුන්තාවයට විසඳුමක් ලෙස රජයේ වත්කම් හෝ ව්‍යාපාර විකිණීමට ගෙන ඇති සියලු යෝජනා අත්හිටුවිය යුතු බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ඉදිරි ජනාධිපතිවරණය ජනාධිපතිවරණය  ජය ගන්නා  පාර්ශවයට  ඔවුන්ට ලැබෙන ජනවරම අනුව රජය සතු දේපළ හා ව්‍යාපාර සම්බන්ධයෙන්  කටයුතු කළ හැකි බවද හිටපු ජනපතිවරයා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+...
+
+[Data](articles/abb97d5a.json)
+
+---
+
+### මෛත්‍රී සභාපති ධූරයෙන් ඉල්ලා අස්වෙයි
+
+*2024-05-12 13:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-සභාපති-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-409570) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා  ඉල්ලා අස්වී ඇත බව වාර්තාවේ. කෝට්ටේදී අද පැවති එම පාර්ශ්වයේ විධායක සභා රැස්වීමේදී  පක්ෂ සභාපති ධුරයට අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/9671dbe4.json)
 
 ---
 
@@ -219,6 +281,26 @@ The realities of their realities and the injustices that they have done to the p
 [Data](articles/37f3cb45.json)
 
 [Extended Data](ext_articles/37f3cb45.ext.json)
+
+---
+
+### රත්නපුර හිටපු නගරාධිපතිගේ රිවෝල්වරය සොරාගෙන
+
+*2024-05-12 13:34:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-රිවෝල්වරය-සොරාගෙන/11-409568) · `si`
+
+රත්නපුර හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතා සතු රිවෝල්වරය පුද්ගලයෙකු විසින් සොරාගෙන ගොස් ඇති බවට පැමිණිල්ලන් ලැබි ඇතයි රත්නපුර පොලිසිය පවසයි'
+
+10 වන දින රාත්‍රි 7.00ට පමණ තමාගේ නිවසට පැමිණි නාඳුනන පුද්ගලයෙකු රුපියල් දහසක් ඉල්ලා ඇති බවත් තමා යම්කිසි වැඩක යෙදි ඇති බැවින් ටික වේලාවකින් පන්සල අසලට පැමිණි විට මුදල් දෙන බව පැවසු බවත් පසුව ෙමම පුද්ගලයා පිටව ගොස් ඇත.
+
+දෙවන වරටත් මෙම පුද්ගලයා පැමිණ මුදල් දෙන තෙක් මිදුලේ බංකුවක  වාඩිවි සිටඇත.
+
+නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ මිදුලේ නවතා තිබු කැබ් රථයේ 38 වර්ගයේ රිවෝල්වරය තිබු බවත් තමා නිවස ඇතුලේ සිට පිටතට පැමිණි විට මුදල් ඉල්ලා පැමිණි අය නොසිටි බවත් කැබ් රථයේ දොර විවෘත කර බැලුවිට තමාගේ රිවෝල්වරය නොමැති බවද පැමිණිල්ලේ සඳහන් කර ඇති බව පොලිසිය පවසයි.
+
+2021 වසරේ තමාට 38 වර්ගයේ රිවෝල්වරය ලැබුණ බවත් එය රුපියල් 48,000ක් පමණ වටිනාකමක් ඇති බවද පැමිණිල්ලේ සඳහන් වි ඇත.
+
+◼️
+
+[Data](articles/2f6afbca.json)
 
 ---
 
@@ -1140,7 +1222,7 @@ FBOPs were up 100 rupees BFPFP1 were up 50 PEK1 were down 50 and OP1 was largely
 
 The High Grown weekly average rose by 33.97 rupees to 1181.48 rupees a kilogram.
 
-High grown BOPs went up about 30 rupees a kilo while BOPFs were up 50 rupees. BP1 were down 50 rupees and PF1 were up about 30 rupees. (Colombo/June11/2024)
+High grown BOPs went up about 30 rupees a kilo while BOPFs were up 50 rupees. BP1 were down 50 rupees and PF1 were up about 30 rupees. (Colombo/May12/2024)
 
 ◼️
 
@@ -2125,127 +2207,5 @@ Our jackal is the only island subspecies of the Eurasian Golden Jackal across it
 [Data](articles/2ea91ff6.json)
 
 [Extended Data](ext_articles/2ea91ff6.ext.json)
-
----
-
-### Russia - Another group of Sri Lankans have died in the middle of the war Ukrainian war
-
-*2024-05-11 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196520) · `si`
-
-In the ongoing Russian-Ukrainian war, 17 Sri Lankans have tragically lost their lives. The Criminal Investigation Department (CID) is investigating cases of trade and racketeering. Two retired soldiers, Asanka Chandana and Pradeep Chandana, were in Russia but have not been heard from since March 29.
-
-🟩
-
-It has been reported that 17 Sri Lankans have been killed in the Russian - Ukrainian war.
-
-The Criminal Investigation Department (CID) persons trade, racket investigations and Marine Crimes Division states that.
-
-Meanwhile, two other retired soldiers who went to Russia were reported today (11).
-
-Relatives say that no information has been reported from March 29.
-
-Asanka Chandana, a retired Air Force officer, was also present in Russia to warst Russia on February 12.
-
-He had given his residents lasting telephone call on 29th March.
-
-No information about him has been reported from that day from that day.
-
-Meanwhile, a retired Commando officer, Pradeep Chandana, a retired commando officer, has left for Russia on February 12, a resident of Wahamalgolgolgollewa area.
-
-◼️
-
-[Data](articles/88d24a00.json)
-
-[Extended Data](ext_articles/88d24a00.ext.json)
-
----
-
-### Artificial intelligence and Buddhist philosophy finds the relationship
-
-*2024-05-11 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196519) · `si`
-
-President Ranil Wickremesinghe discusses the intersection of Buddhist philosophy and artificial intelligence, emphasizing the need for new laws to address climate change and technological advancements. He mentions a technological growth draft and plans to allocate funds for an AI center, linking Buddha's teachings with AI research.
-
-🟩
-
-President Ranil Wickremesinghe says that a sum of Rs.
-
-The President added that he would bring new laws to control the Sri Lanka Buddhist Society today (11).
-
-"Irage's request and I came today. We have to think about the future now. According to the Buddha's lecture, two main points have to face the future. Climate change has to face. The warmth this month is not before. How to face it. This problem was because of the craving of the civilization, because the environment would not be made. How is climate change? "
-
-"How does the Buddha vision face?. The advancement of technology has come to artificial intelligence today. What is the relationship between the word of artificial intelligence?It should be thought to be artificial intelligence. New rules for artificial intelligence. Was prepared a technological growth draft. Build an artificial intelligence center. Research on Buddha Vision and Artificial Intelligence. Separate about a billion rupees. "
-
-◼️
-
-[Data](articles/8cd13706.json)
-
-[Extended Data](ext_articles/8cd13706.ext.json)
-
----
-
-### ‘Yukthiya’ nets over 11,000 suspects since inception
-
-*2024-05-11 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-nets-over-11-000-suspects-since-inception/108-282397) · `en`
-
-The Yukthiya operation which commenced on December 17, 2023 has resulted in the arrest of 111,074 suspects, with 4,472 currently held under detention orders for further questioning.
-
-According to Police Spokesman DIG Nihal Thalduwa, law enforcement authorities have seized substantial quantities of narcotics, including 41 kilograms of heroin, 43 kilograms of 'Ice,' and 300,000 narcotic pills.
-
-Furthermore, Operation "Yukthiya" has led to the seizure of illegal assets valued at approximately Rs. 1,500 million.
-
-◼️
-
-[Data](articles/a99fdfa2.json)
-
-[Extended Data](ext_articles/a99fdfa2.ext.json)
-
----
-
-### Is this the cause of Susath's life for her daughter?
-
-*2024-05-11 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196518) · `si`
-
-Susath's daughter, a 13-year-old, was killed after the death of Thija in Kuliyapitiya. The suspects, interrogated by police, revealed that two youths were involved. The girl's body was found in a forest reserve in Chilaw, bound to a tree. The main suspect, Singumba, was brought to the forest reserve for interrogation, but the motive behind the murder remains unclear. The victim had a romantic relationship with the daughter, who was suspected to be pregnant.
-
-🟩
-
-The suspects in custody have already been told that the 13-year-old girl was killed after the death of the Thija, Kuliyapitiya.
-
-Police investigations have revealed that he was due to the arrival of two other youths on the night before the assassination.
-
-They have said that after being interrogated by the suspects, the cabalur had been taken into the forest with the forest reserve in Chilaw after being murdered at the suspect's home.
-
-The post mortem has been revealed that the body's body has been lifted after the collateral body is bound to the body.
-
-Police investigations have revealed that after the youth lifting the body after the assassination of the youth, sitting in Kuliyampitiya to Madampe Reserve to the forest.
-
-In the interrogation of the main suspect in the incident, "Singumba ', who was arrested, was brought to the forest reserve.
-
-As a result, the killing of the murder is yet to be determined.
-
-...
-
-[Data](articles/14969a4c.json)
-
-[Extended Data](ext_articles/14969a4c.ext.json)
-
----
-
-### Five Sri Lankans detained in Latvia for assisting illegal migrants
-
-*2024-05-11 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99152/five-sri-lankans-detained-in-latvia-for-assisting-illegal-migrants) · `en`
-
-Five Sri Lankans have been detained by the State Border Guards of the Republic of Latvia for allegedly transporting persons who illegally crossed the state border on Wednesday (08).
-
-In Augšdaugava Municipality in Latvia, Border guards have stopped a Peugeot 307 driven by a citizen of Sri Lanka and another citizen of Sri Lanka, both with valid residence permits, was in the seat next to the driver. While checking documents, six persons of Afro-Asian origin were found to be in the car without travel documents, valid visas and residence permits, the State Border Guard of Latvia said.
-
-Issuing a statement, the State Border Guard of Latvia stated that the border guards on suspicion of providing support to migrants also detained three other citizens of Sri Lanka, who were moving in a Volkswagen Polo car.
-
-...
-
-[Data](articles/35e2fc6d.json)
-
-[Extended Data](ext_articles/35e2fc6d.ext.json)
 
 ---

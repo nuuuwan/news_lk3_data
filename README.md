@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 10:18:26**
+As of **2024-05-12 10:33:42**
 
 ## Newspaper Stats
 
-*Scraped **23,408** Articles*
+*Scraped **23,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,345
 dailyftlk | 1,356
-adalk | 1,982
+adalk | 1,983
 adaderanalk | 2,738
-tamilmirrorlk | 2,740
+tamilmirrorlk | 2,741
 virakesarilk | 3,476
 dailymirrorlk | 3,681
 adaderanasinhalalk | 3,757
@@ -26,45 +26,81 @@ adaderanasinhalalk | 3,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,405 (100.0%) of 23,408 articles have been extended.
+23,408 (100.0%) of 23,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### இதுவரையில் 11,074 சந்தேக நபர்கள் கைது
+### பிற்பகல் 2 மணிக்கு பின் பலத்த மழை பெய்யும்
+
+*2024-05-12 10:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்-பலத்த-மழை-பெய்யும்/175-337150) · `ta`
+
+வடக்கு, வடமத்திய மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் திருகோணமலை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+எனினும் நாட்டின் பெரும்பாலான மாகாணங்களின்  பல இடங்களில் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய, சப்ரகமுவ,மேல் மற்றும் கிழக்கு  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+மேல் மற்றும்  தென் மாகாண கரையோரப் பிராந்தியங்களில் சில இடங்களில காலை வேளையிலும் மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்
+
+புத்தளம்  தொடக்கம் கொழும்பு, காலி, ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரத்திற்கு அப்பால் உள்ள  கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/5420f337.json)
+
+---
+
+### 11,074 suspects have been arrested so far
 
 *2024-05-12 10:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-11-074-சந்தேக-நபர்கள்-கைது/175-337149) · `ta`
 
-டிசம்பர் 17, 2023 இல் ஆரம்பிக்கப்பட்ட யுக்திய நடவடிக்கையின் விளைவாக 11,074 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர், மேலும் 4,472 பேர் தற்போது மேலதிக விசாரணைகளுக்காக பொலிஸ் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளனர்.
+Since December 17, 2023, 11,074 suspects have been arrested, with 4,472 currently detained for further investigation. The operation has led to the seizure of 41 kg of heroin, 43 kg of 'ice', and 300,000 drugs, along with illegal assets worth Rs 1,500 million.
 
-41 கிலோகிராம் ஹெரோயின், 43 கிலோகிராம் 'ஐஸ்' மற்றும் 300,000 போதை மாத்திரைகள் உட்பட கணிசமான அளவு போதைப் பொருட்களை சட்ட அமலாக்க அதிகாரிகள் கைப்பற்றியுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் DIG நிஹால் தல்துவ தெரிவித்தார்.
+🟩
 
-மேலும் "யுக்திய" நடவடிக்கையின் மூலம் சுமார் 1,500 மில்லியன் ரூபாய் மதிப்புள்ள சட்டவிரோத சொத்துக்கள் பறிமுதல் செய்யப்பட்டுள்ளமையும் குறிப்பிடத்தக்கது.
+11,074 suspects have been arrested as a result of the strategy that began on December 17, 2023, and 4,472 people are currently being detained for further investigations.
+
+Police Media Spokesperson DIG Nihal Talduwa said lawmakers have seized considerable drugs, including 41 kilograms of heroin, 43 kilograms of 'ice' and 300,000 drugs.
+
+It is also worth noting that illegal assets worth around Rs 1,500 million have been confiscated by the "strategy" action.
 
 ◼️
 
 [Data](articles/674e61b3.json)
 
+[Extended Data](ext_articles/674e61b3.ext.json)
+
 ---
 
-### மின்னல் தாக்கத்தினால் அவசர சிகிச்சைப் பிரிவு முற்றாக நாசம்
+### Emergency Department is completely destroyed by lightning strikes
 
 *2024-05-12 09:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தினால்-அவசர-சிகிச்சைப்-பிரிவு-முற்றாக-நாசம்/175-337148) · `ta`
 
-வலஸ்முல்ல ஆதார வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவு (ETU) கடும் மழையுடன் கூடிய மின்னல் தாக்கத்தினால் முற்றாக சேதமடைந்துள்ளது.
+Lightning strikes destroyed the Emergency Department of Valasmulla Resource Hospital, damaging all electrical equipment and the building. Agriculture Minister Mahinda Amaraweera visited, estimating the damage at Rs. 50 million. Southern Province Minister Lakshman Yapa Abeywardena promised funds for reconstruction, with the governor planning a visit. Three patients were treated without injury, but the staff had to evacuate them due to a fire post-strike.
 
-கடந்த வெள்ளிக்கிழமை (10) இடம்பெற்ற மின்னல் தாக்கத்தினால் வைத்தியசாலையில் இருந்த அனைத்து மின் உபகரணங்களும் எரிந்து நாசமாகியுள்ளதுடன், மின்னல் தாக்கத்தினால் கட்டிடமும் சேதமடைந்துள்ளது.
+🟩
 
-விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர நேற்று (11) வைத்தியசாலைக்கு விஜயம் செய்து வைத்தியசாலைக்கு ஏற்பட்ட சேதங்களை பார்வையிட்டார்.
+The Emergency Department of the Valasmulla Resource Hospital (ETU) has been completely damaged by lightning with heavy rains.
 
-மின்னல் தாக்கத்தால் ETU க்கு ஏற்பட்ட சேதங்கள் சுமார் ரூ. 50 மில்லியன் ஆகுமென அவர் தெரிவித்தார்.
+All the electrical equipment in the hospital was destroyed and the building was damaged by lightning strike last Friday (10).
 
-இச்சம்பவம் தொடர்பில் நேற்று (11) தென் மாகாண ஆளுநர் லக்ஷ்மன் யாப்பா அபேவர்தனவுடன் தொலைபேசியில் கலந்துரையாடிய அமைச்சர், இந்த அவசர சிகிச்சைப் பிரிவை புனரமைப்பதற்கு பணம் ஒதுக்கப்படும் எனவும், ஆளுநர் இன்று வைத்தியசாலையை பார்வையிடுவார் எனவும் தெரிவித்தார்.
+Agriculture and Plantation Industries Minister Mahinda Amaraweera visited the hospital yesterday (11) and visited the hospital.
 
-...
+Damage to ETU due to lightning impacts about Rs.. He said it would be 50 million.
+
+The Minister of Southern Province Lakshman Yapa Abeywardena, who had telephoned the Southern Province Governor Lakshman Yapa Abeywardena yesterday (11), said that the money will be allocated for the reconstruction of the emergency department and that the governor will visit the hospital today.
+
+Three patients who were treated in the category during the impact of lightning were not injured. However, the hospital staff told the minister that after the lightning impact, the fire had to be made in great efforts to expel the patients.
+
+◼️
 
 [Data](articles/4b3983c7.json)
+
+[Extended Data](ext_articles/4b3983c7.ext.json)
 
 ---
 
@@ -121,6 +157,22 @@ The child had fallen into the insecure well near the house yesterday (11), polic
 [Data](articles/bc7df510.json)
 
 [Extended Data](ext_articles/bc7df510.ext.json)
+
+---
+
+### කූඨ බලපත්‍රවලින් කැනඩා යන්න ගිය ගමන වරදියි
+
+*2024-05-12 08:00:07* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-බලපත්‍රවලින්-කැනඩා-යන්න-ගිය-ගමන-වරදියි/11-409562) · `si`
+
+කූඨ ලෙස සකස් කළ ගමන් බලපත්‍ර උපයෝගී කර ගෙන කැනඩාවට පළා යාමට තැත් කළ ශ්‍රී ලාංකිකයන් දෙදෙනෙකු කටුනායක ගුවන් තොටුපොළ තුළ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගැනීමෙන් පසු එම කටයුතු මෙහෙය වූ පුද්ගලයා ද 05/11 දින එම දෙපාර්තමේන්තු නිලධාරීන් විසින්  අත් අඩංගුවට ගැනීමට සමත් වී  තිබේ.
+
+මඩකලපුව ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයෙකු සහ වව්නියා ප්‍රදේශයේ පදිංචි 37 හැවිරිදි ශ්‍රී ලාංකික ද්‍රවිඩ ජාතිකයන් දෙදෙනෙකු 05/11 අලුයම එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 648 දරන ගුවන් යානයෙන් ඩුබායි ඔස්සේ කැනඩාව බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් දෙදෙනා මෙම ගුවන් ගමන සදහා කූඨ ලෙස සකස් කළ ගමන් බලපත්‍ර භාවිතා කර තිබූ හෙයින් , ඔවුන් අත් අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පියවර ගෙන තිබුණි .
+
+...
+
+[Data](articles/2b3412cd.json)
 
 ---
 
@@ -591,6 +643,8 @@ MPs holding dual citizenship should step down before the upcoming elections; oth
 ...
 
 [Data](articles/9ca940cb.json)
+
+[Extended Data](ext_articles/9ca940cb.ext.json)
 
 ---
 
@@ -2175,63 +2229,5 @@ Only the top 20 countries that owe the most debt to China in absolute terms in 2
 [Data](articles/53f89c41.json)
 
 [Extended Data](ext_articles/53f89c41.ext.json)
-
----
-
-### In an accident that a wedding house
-
-*2024-05-11 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196501) · `si`
-
-A woman, 44, died in a car accident on the Dambulla-Habarana road. She was returning home when the crash occurred. Another injured, a young girl, was taken to Kandy Hospital for treatment.
-
-🟩
-
-A woman was killed in an accident in the Dambulla Habarana road.
-
-Police said that the accident had occurred when a car traveling to the Habarana towards the Habarana from Dambulla.
-
-A woman who was injured in the accident died on admission to the Habarana Hospital.
-
-The deceased has been identified as the 44 year old resident of Habarana Hiriwadunna.
-
-The accident had occurred when she was returning home and returned to the homes while she was returning home.
-
-The Ada Derana reporter said that one of the two persons who were injured, one of the two were a small girl and had been transferred to the Kandy Hospital for further treatment.
-
-◼️
-
-[Data](articles/790c7fe5.json)
-
-[Extended Data](ext_articles/790c7fe5.ext.json)
-
----
-
-### A wedding house is a funeral
-
-*2024-05-11 10:13:40* · [`adalk`](https://www.ada.lk/breaking_news/මංගල-ගෙදර-අවමංගල්‍යයක්-වෙයි/11-409555) · `si`
-
-A tragic accident occurred on a dangerous night, involving a cab carrying wedding guests and multiple lorries. A 44-year-old woman from Habarana Hiriwadunna was among the fatalities. The incident happened near Sigiriya, en route to a wedding party. The victims were on their way to the wedding when the accident occurred. The police are investigating the cause of the accident.
-
-🟩
-
-A cab carrying a group of people who were returning home from a wedding and a lorry, a lorry and a lorry was killed in a danger night, police said.
-
-The deceased has been identified as a 44-year-old woman from Habarana Hiriwadunna, Habarana.
-
-Sigiriya police say that the accident had been traveled to the Hiriwaduna to face yogurt in Inamaluwa, Dambulla..
-
-Sigiriya police say that the accident had been the accident that the accident had occurred at the wedding party.
-
-A few hours before the death of Ms. Handyadu Kumari, the wedding party pointed out that the wedding party has also appeared with a group of crowd.
-
-The cab and the lorry had taken to Sigiriya police to the Sigiriya Police by this time.Many of the victims have been injured in the area, he said.
-
-The post mortem examination is scheduled to be held at the Dambulla Base Hospital on 11. Sigiriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/6e57c080.json)
-
-[Extended Data](ext_articles/6e57c080.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 02:50:54**
+As of **2024-05-13 03:03:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,571 (100.0%) of 23,576 articles have been extended.
+23,576 (100.0%) of 23,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ The party said a unanimous decision was reached to appoint Minister of Justice W
 
 [Data](articles/6746fa25.json)
 
+[Extended Data](ext_articles/6746fa25.ext.json)
+
 ---
 
 ### Govt. de-gazettes part of Vidataltivu Nature Reserve
@@ -72,6 +74,8 @@ According to previously available information, the aquaculture industrial park w
 
 [Data](articles/675e4f5e.json)
 
+[Extended Data](ext_articles/675e4f5e.ext.json)
+
 ---
 
 ### CEJ to take legal action over degazetting of Vidataltivu
@@ -89,6 +93,8 @@ It has also requested information if the subject minister had obtained a study r
 ...
 
 [Data](articles/5c084048.json)
+
+[Extended Data](ext_articles/5c084048.ext.json)
 
 ---
 
@@ -112,6 +118,8 @@ He asserted that there are approximately 10 MPs with dual citizenship currently 
 
 [Data](articles/9914a759.json)
 
+[Extended Data](ext_articles/9914a759.ext.json)
+
 ---
 
 ### Cabinet clears to draft bill for National Teachers Council
@@ -129,6 +137,8 @@ The joint proposal was put forth by President Ranil Wickremesinghe and Education
 ◼️
 
 [Data](articles/ba6bc7ad.json)
+
+[Extended Data](ext_articles/ba6bc7ad.ext.json)
 
 ---
 

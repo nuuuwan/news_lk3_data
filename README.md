@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 14:18:38**
+As of **2024-05-12 14:33:29**
 
 ## Newspaper Stats
 
-*Scraped **23,459** Articles*
+*Scraped **23,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,988
-adaderanalk | 2,742
+adaderanalk | 2,744
 tamilmirrorlk | 2,756
 virakesarilk | 3,484
-dailymirrorlk | 3,688
+dailymirrorlk | 3,691
 adaderanasinhalalk | 3,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,459 (100.0%) of 23,459 articles have been extended.
+23,459 (100.0%) of 23,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Mahinda Rajapaksa urges postponement of national asset sales
+
+*2024-05-12 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mahinda-Rajapaksa-urges-postponement-of-national-asset-sales/108-282410) · `en`
+
+May 12 -  Former President Mahinda Rajapaksa has expressed concern over the current government's plans to sell off national assets and state-owned enterprises, calling for the postponement of all such moves until after the next Presidential election, allowing the incoming government to address the issue according to its mandate.
+
+In a statement issued today, Rajapaksa highlighted the discontent among trade unions, political parties, and the general public regarding the ongoing divestiture drive.
+
+Rajapaksa, who served as President from November 2005 to January 2015, emphasized his government's approach towards state-owned assets, stating that they refrained from privatizing profitable enterprises. Instead, they focused on managing prices to ensure economic stability and continued profitability of state-owned enterprises. During his tenure, the country experienced an economic boom, with no discussions of privatization, he noted.
+
+...
+
+[Data](articles/43dfb8c7.json)
+
+---
+
+### Rs. 1 billion to be allocated for research on relationship between Buddha’s teachings and AI – President
+
+*2024-05-12 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99162/rs-1-billion-to-be-allocated-for-research-on-relationship-between-buddhas-teachings-and-ai-president) · `en`
+
+President Ranil Wickremesinghe emphasised that Rs. 01 billion will be allocated next year for research on the relationship between Buddha’s teachings and Artificial Intelligence (AI).
+
+The President mentioned that while the research on Buddha’s teachings and AI was scheduled to begin this year, it has been postponed to next year due to the absence of required legislation for the regulation of Artificial Intelligence. He emphasized that the subsequent steps will be taken once the new laws are adopted.
+
+President Ranil Wickremesinghe made this statement during his attendance at the 100th anniversary celebration of the Sri Lanka Buddhist Society Moratuwa, held on Saturday (11) at the Moratuwa Buddhist Society Hall.
+
+...
+
+[Data](articles/a774d3e3.json)
+
+---
+
+### Health officials warn of spike in skin-related ailments amidst rising temperatures
+
+*2024-05-12 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99161/health-officials-warn-of-spike-in-skin-related-ailments-amidst-rising-temperatures) · `en`
+
+A significant increase in skin-related diseases is being observed across the island these days, as revealed by Dr. Indira Kahawita, Dermatologist at Colombo National Hospital.
+
+Dr. Kahawita further advised that medical treatment is mandatory for certain skin diseases of this nature.
+
+“Heavy exposure of skin areas not covered with clothing to sunlight can cause itchy spots on the skin. Small children may develop white spots on their faces, especially on the top of the cheeks, slightly below and around the eyes”, she said.
+
+“Fungal infections are also prevalent. Currently, we observe that fungal infections pose a significant concern. Refrain from attempting any home remedies for such infections. Seek immediate medical attention from a qualified doctor”, Dr. Kahawita further advised.
+
+◼️
+
+[Data](articles/57f4936e.json)
+
+---
 
 ### 15 arrested for stealing three-wheeler
 
@@ -81,6 +131,20 @@ Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Mi
 [Data](articles/6b3092c7.json)
 
 [Extended Data](ext_articles/6b3092c7.ext.json)
+
+---
+
+### Labour companionship program launched for expectant mothers
+
+*2024-05-12 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Labour-companionship-program-launched-for-expectant-mothers/110-282409) · `en`
+
+In celebration of Mother's Day today, the Professorial Obstetric Unit of Colombo South Teaching Hospital, Kalubowila, has announced the launch of its latest initiative, the "Maathru Saheli” Labour Companion" programme.
+
+This program, conceptualized by the Sri Lanka College of Obstetricians & Gynecologists and executed under the guidance of the Ministry of Health, aims to provide emotional support and care for expectant mothers throughout the process of normal delivery. By allowing either the mother or a female relative/friend to serve as her "labour companion," the initiative offers expectant mothers the privilege of having a trusted female companion by their side. This companion can offer courage, comfort, and moral support, ensuring a positive childbirth experience.
+
+...
+
+[Data](articles/30f7ec0f.json)
 
 ---
 
@@ -2151,101 +2215,5 @@ In an era where digital convenience is paramount, SDB bank, The Bank Where You A
 [Data](articles/b5acdb8a.json)
 
 [Extended Data](ext_articles/b5acdb8a.ext.json)
-
----
-
-### Sri Lankans arrested for a human racket
-
-*2024-05-11 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196517) · `si`
-
-Sri Lankans attempting to transport illegal immigrants across the Latvia border were arrested by border guards. Despite having valid Latvia Residential Visas, they were found with no valid documents, leading to their charge for attempting to enter Latvia illegally. The law in Latvia stipulates a punishment of two to eight years for such offenses.
-
-🟩
-
-A group of Sri Lankans who tried to transport illegal immigrants across the Latvia border have been arrested.
-
-Foreign reports have been arrested by the border guards in the country about a few days ago.
-
-The border guards have said that they had had a valid Latvia Residential Visa, who tried to cross the borders with illegal immigrants and had a valid Latvia residential visa.
-
-However, the security officers have said that the six persons with other people of Asian origin there were no valid document.
-
-Accordingly, the five Sri Lankans who were arrested have been charged with the offenses of attempting to get into Latvia.
-
-According to the law of the Republic of Latvia, the illegal border crossings are culpritated, and the delegation of Sri Lankans who have been arrested were two to eight years.
-
-◼️
-
-[Data](articles/25c31922.json)
-
-[Extended Data](ext_articles/25c31922.ext.json)
-
----
-
-### 15 Sri Lankan fishermen detained in Myanmar prisons repatriated
-
-*2024-05-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99151/15-sri-lankan-fishermen-detained-in-myanmar-prisons-repatriated-) · `en`
-
-Fifteen Sri Lankan fishermen, who were detained in Myanmar prisons, have been released and repatriated to Sri Lanka. They arrived at the Bandaranaike International Airport (BIA) in Katunayake this morning (11), Ada Derana reporter said.
-
-The fishermen in question had been arrested by Myanmar Coast Guard personnel, while adrift at seas off Myanmar allegedly due to technical issues with their fishing vessels.
-
-Upon arrival at the BIA, all 15 individuals were arrested by the Criminal Investigation Department’s (CID) Human Trafficking, Smuggling, and Maritime Crimes Division for allegedly not departing from a recognized airport or port to a foreign country.
-
-However, they have been granted bail after being produced before Negombo Magistrate’s Court today.
-
-The repatriated fishermen, aged between 18 and 50, hail from Katuneriya, Marawila, Uswetakeiyawa, and Kurunegala areas, according to Ada Derana reporter.
-
-◼️
-
-[Data](articles/0a90b3b6.json)
-
-[Extended Data](ext_articles/0a90b3b6.ext.json)
-
----
-
-### Jeevan met Ravi Shankar Guruji
-
-*2024-05-11 17:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-சங்கர்-குருஜியை-சந்தித்தார்-ஜீவன்/175-337127) · `ta`
-
-Sri Ravi Shankar Guruji, founder of the Living Art Organization, met Minister Jeevan Thondaman in Bangalore to discuss improving the livelihoods of hill plantation communities. They also discussed the water department and the Living Art Institute. Guruji, who visited Sri Lanka from May 18 to 20, also visited the Seethayamman temple.
-
-🟩
-
-Sri Ravi Shankar Guruji, Founder of the Living Art Organization to travel to Sri Lanka, met Minister Jeevan Thondaman in Bangalore
-
-Guruji Nuwara Eliya, who is staying in Sri Lanka from May 18 to 20, has also visited the Seethayamman temple.
-
-In the meantime, Jeevan has made it clear to Guruji on the moves taken to improve the livelihood of the people of the hill plantation.
-
-Under the Living Art Institute, Praja Shakti, Thondaman Foundation. He has also discussed the water department.
-
-At the end of the meeting, Minister Jeevan presented the sketch of the artist named Selvaiya Gopalan from the Upcountry Community.. Remble
-
-◼️
-
-[Data](articles/bbab9d53.json)
-
-[Extended Data](ext_articles/bbab9d53.ext.json)
-
----
-
-### US Ambassador nominee pledges to support marginalized populations, accountability, truth and reconciliation in Sri Lanka
-
-*2024-05-11 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99150/us-ambassador-nominee-pledges-to-support-marginalized-populations-accountability-truth-and-reconciliation-in-sri-lanka) · `en`
-
-The U.S. President Joe Biden’s nominee for Ambassador to Sri Lanka, Elizabeth K. Horst, says that if confirmed she will support members of marginalized populations, accountability, truth and reconciliation, and transparency and justice in Sri Lanka.
-
-“I will support members of marginalized populations, accountability, truth and reconciliation, and transparency and justice in Sri Lanka,” she said, appearing before the US Senate Foreign Relations Committee on Thursday (May 09).
-
-She also highlighted three main pillars for enhancing the U.S.-Sri Lanka relationship: expanding economic cooperation, bolstering security interests, and deepening ties with Sri Lanka’s diverse population.
-
-Horst, a seasoned diplomat with over 20 years of experience in South Asia, emphasized her commitment to fundamental U.S. principles, including respect for human rights and economic freedom.
-
-...
-
-[Data](articles/5aa3e250.json)
-
-[Extended Data](ext_articles/5aa3e250.ext.json)
 
 ---

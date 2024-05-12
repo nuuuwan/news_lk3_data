@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 14:33:29**
+As of **2024-05-12 14:51:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,459 (100.0%) of 23,464 articles have been extended.
+23,464 (100.0%) of 23,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Rajapaksa, who served as President from November 2005 to January 2015, emphasize
 
 [Data](articles/43dfb8c7.json)
 
+[Extended Data](ext_articles/43dfb8c7.ext.json)
+
 ---
 
 ### Rs. 1 billion to be allocated for research on relationship between Buddha’s teachings and AI – President
@@ -61,6 +63,8 @@ President Ranil Wickremesinghe made this statement during his attendance at the 
 ...
 
 [Data](articles/a774d3e3.json)
+
+[Extended Data](ext_articles/a774d3e3.ext.json)
 
 ---
 
@@ -79,6 +83,8 @@ Dr. Kahawita further advised that medical treatment is mandatory for certain ski
 ◼️
 
 [Data](articles/57f4936e.json)
+
+[Extended Data](ext_articles/57f4936e.ext.json)
 
 ---
 
@@ -145,6 +151,8 @@ This program, conceptualized by the Sri Lanka College of Obstetricians & Gynecol
 ...
 
 [Data](articles/30f7ec0f.json)
+
+[Extended Data](ext_articles/30f7ec0f.ext.json)
 
 ---
 

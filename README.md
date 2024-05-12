@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 09:03:42**
+As of **2024-05-12 09:18:38**
 
 ## Newspaper Stats
 
-*Scraped **23,401** Articles*
+*Scraped **23,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,277
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,981
-tamilmirrorlk | 2,737
 adaderanalk | 2,738
+tamilmirrorlk | 2,738
 virakesarilk | 3,476
 dailymirrorlk | 3,680
-adaderanasinhalalk | 3,755
+adaderanasinhalalk | 3,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,400 (100.0%) of 23,401 articles have been extended.
+23,401 (100.0%) of 23,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### සිව් හැවිරිදි දරුවෙක් ළිඳට වැටී මරුට
+
+*2024-05-12 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196528) · `si`
+
+මැදගම, ඊරියගහමඩ ප්‍රදේශයේදී අනාරක්ෂිත ළිඳකට වැටී කුඩා දරුවෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එසේ මියගොස් ඇත්තේ, ඊරියගහමඩ, කැදවින්න ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 04ක කුඩා දරුවෙකි.
+
+ඊයේ (11) එම දරුවා නිවස අසල ඇති අනාරක්ෂිත ළිඳට වැටී ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/bc7df510.json)
+
+---
 
 ### What a teacher has been arrested in the examination during the exam
 
@@ -88,23 +104,33 @@ A tuition class teacher has been arrested in Kandy over the incident of allegedl
 
 ---
 
-### කාන්තාවන් පිළිබඳ ජාතික කොමිෂන් සභාවක්
+### National Commission of Women
 
 *2024-05-12 07:42:25* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-පිළිබඳ-ජාතික-කොමිෂන්-සභාවක්/11-409560) · `si`
 
-කාන්තාවන් සවිබල ගන්වන පනත් කෙටුම්පත් ජුනි මස පාර්ලිමේන්තුවේදී සම්මත කරනවා
+In June, Parliament passed bills to empower women, part of a national policy on gender equality. President Ranil Wickremesinghe aims to amend laws to include a women's political party by 2030, highlighting the importance of women's rights and representation during economic crises. The government also introduced a program against women's violence, using hand signals to educate society on stopping such acts. This initiative, led by Dhammika Perera, aims to revolutionize education, especially in the context of artificial intelligence, to benefit all children. The President emphasized the need for a National Commission on Women's Empowerment to protect women's rights and address gender equality in education and social justice.
 
-ස්ත්‍රී පුරුෂ සමානාත්මතාව හා කාන්තා සවිබල ගැන්වීම පිළිබඳ ජාතික ප්‍රතිපත්තියක්.
+🟩
 
-2030 වන විට කාන්තා දේශපාලන පක්ෂයක් පිළිගැනීමට නීතිය සංශෝධනය කළ යුතුයි- ජනපති.
+Bills to empower women in June of June is passed in Parliament
 
-ආර්ථික අර්බුදය පැවති සමයේ කාන්තාවන් සිය පවුල රැකගැනීම සඳහා මුහුණ දුන් අභියෝග පිළිබඳව තමන් හොඳින් දැනුවත් බවත්, ආර්ථික අර්බුදයෙන් මිදුණු පළමු අවස්ථාවේදීම කාන්තාවන් සවිබල ගැන්වීම සඳහා රජය විසින් පනත් කෙටුම්පත් දෙකක් පාර්ලිමේන්තුවට ඉදිරිපත් කළ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+National policy on gender equality and female empowering.
 
-අදාළ පනත් කෙටුම්පත් එළඹෙන ජූනි මාසයේදී පාර්ලිමේන්තුවේදී සම්මත කරගැනීමට බලාපොරොත්තු වන බව සඳහන් කළ ජනාධිපතිවරයා ඒ මඟින් ස්ත්‍රී පුරුෂ සමානාත්මත්තාව හා කාන්තා සවිබල ගැන්වීම පිළිබඳ ජාතික ප්‍රතිපත්තියක් ක්‍රියාත්මක කිරීම, කාන්තාවන් පිළිබඳ ජාතික කොමිෂන් සභාවක් පිහිටුවීම, කාන්තා අයිතිවාසිකම් ආරක්ෂා කිරීම සඳහා යාන්ත්‍රණයක් පිහිටුවීම සහ කාන්තා අයිතිවාසිකම් උල්ලංඝනය කිරීමට එරෙහිව නඩු පැවරීමට හැකි වන බවද පෙන්වා දුන්නේය.
+The law should be amended to accept a women's political party by 2030 - President.
+
+President Ranil Wickremesinghe stated that during the economic crisis, women have been well aware of the challenges of protecting their lives and the government has submitted two bills to Parliament.
+
+The President said that the Bills are expected to be passed in parliament in Parliament in June.He pointed out that there would be prosecution.
+
+President Ranil Wickremesinghe made these comments made the keynote address in the event of the "unbelieving global gestures" against the sexual abuse of DP education in public places.
+
+Dhammika Perera has begun a change. The program commenced against women's violence is commendable. Business like DP education should be part of future education. We were educated in history using stone planks under trees. The buildings were then joined in education.
 
 ...
 
 [Data](articles/e0a07cab.json)
+
+[Extended Data](ext_articles/e0a07cab.ext.json)
 
 ---
 
@@ -221,6 +247,22 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 [Data](articles/bef932f7.json)
 
 [Extended Data](ext_articles/bef932f7.ext.json)
+
+---
+
+### ’செயற்கை நுண்ணறிவு ஆராய்ச்சி அடுத்த வருடம்’
+
+*2024-05-12 01:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-நுண்ணறிவு-ஆராய்ச்சி-அடுத்த-வருடம்/175-337147) · `ta`
+
+புத்தரின் போதனைகளுக்கும் செயற்கை நுண்ணறிவுக்கும் இடையிலான தொடர்பு குறித்த ஆராய்ச்சிப் பணிகளுக்கு அடுத்த வருடம் ஒரு பில்லியன் ரூபா ஒதுக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மொரட்டுவ பௌத்த மன்ற மண்டபத்தில் நேற்று நடைபெற்ற மொரட்டுவ இலங்கை பௌத்த சங்கத்தின் 100 ஆவது ஆண்டு நிறைவு விழாவில் உரையாற்றிய போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
+
+இப்போது இருப்பது செயற்கை நுண்ணறிவின் ஆரம்பமாகும். அடுத்த இரண்டு தசாப்தங்களில் செயற்கை நுண்ணறிவு எங்கே செல்லும் என்ற கேள்வியை நாம் எதிர்கொள்கிறோம். செயற்கை நுண்ணறிவுக்கும் புத்த மதத்துக்கும் உள்ள தொடர்பு என்ன என்பதில் கவனம் செலுத்த வேண்டும்.
+
+...
+
+[Data](articles/7b367f7b.json)
 
 ---
 
@@ -2187,51 +2229,5 @@ The public alleged that the man was killed when the man was killed when a motorc
 [Data](articles/32683996.json)
 
 [Extended Data](ext_articles/32683996.ext.json)
-
----
-
-### Change in climate after 2 am
-
-*2024-05-11 09:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பி-ப-2-மணிக்குப்பின்-காலநிலையில்-மாற்றம்/175-337116) · `ta`
-
-Heavy rainfall and thunderstorms are expected after 2 pm in several provinces, with up to 100 mm in some areas. The southern provinces and coastal regions will also see rainfall, and thunderstorms may affect upcoming areas. The public is advised to take precautions against lightning.
-
-🟩
-
-In most provinces of the country today,. After 2.00 pm, there is a possibility of rain or thunderstorms.
-
-Heavy rainfall is expected 100 mm in some places in the Western, Sabaragamuwa and North Western Provinces and Galle and Matara districts.
-
-Rainfall is expected in the morning and in the southern provinces and coastal areas.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/05c49f2a.json)
-
-[Extended Data](ext_articles/05c49f2a.ext.json)
-
----
-
-### English teacher’s, mother’s mobile phones taken into police custody
-
-*2024-05-11 09:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-teachers-mothers-mobile-phones-taken-into-police-custody/108-282384) · `en`
-
-Colombo, May 11 (Daily Mirror) - The mobile phones of the Hasalaka English tuition master and his mother were taken into police custody for circulating the English question paper for the ongoing GCE Ordinary Level (O/L) examinations, police said.
-
-They also said that statements were recorded from the English tuition master and his mother regarding the incident.
-
-Examinations Commissioner General H.J.M.C. Amith Jayasundara said that a complaint was filed with the Criminal Investigation Department (CID) regarding multiple irregularities discovered during the ongoing O/L examinations.
-
-He said that incidents have been reported at two examination centres in Colombo, Kotahena and Hasalaka.
-
-Reports indicated that some candidates had tried to access answers for the English question paper using smartphones and shared them with others. The invigilators at these centres confiscated the mobile phones.
-
-...
-
-[Data](articles/463789de.json)
-
-[Extended Data](ext_articles/463789de.ext.json)
 
 ---

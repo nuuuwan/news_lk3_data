@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 10:03:43**
+As of **2024-05-12 10:18:26**
 
 ## Newspaper Stats
 
-*Scraped **23,405** Articles*
+*Scraped **23,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,88 @@ economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,982
 adaderanalk | 2,738
-tamilmirrorlk | 2,738
+tamilmirrorlk | 2,740
 virakesarilk | 3,476
-dailymirrorlk | 3,680
+dailymirrorlk | 3,681
 adaderanasinhalalk | 3,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,404 (100.0%) of 23,405 articles have been extended.
+23,405 (100.0%) of 23,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### අක්මීමන මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+### இதுவரையில் 11,074 சந்தேக நபர்கள் கைது
+
+*2024-05-12 10:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-11-074-சந்தேக-நபர்கள்-கைது/175-337149) · `ta`
+
+டிசம்பர் 17, 2023 இல் ஆரம்பிக்கப்பட்ட யுக்திய நடவடிக்கையின் விளைவாக 11,074 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர், மேலும் 4,472 பேர் தற்போது மேலதிக விசாரணைகளுக்காக பொலிஸ் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளனர்.
+
+41 கிலோகிராம் ஹெரோயின், 43 கிலோகிராம் 'ஐஸ்' மற்றும் 300,000 போதை மாத்திரைகள் உட்பட கணிசமான அளவு போதைப் பொருட்களை சட்ட அமலாக்க அதிகாரிகள் கைப்பற்றியுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் DIG நிஹால் தல்துவ தெரிவித்தார்.
+
+மேலும் "யுக்திய" நடவடிக்கையின் மூலம் சுமார் 1,500 மில்லியன் ரூபாய் மதிப்புள்ள சட்டவிரோத சொத்துக்கள் பறிமுதல் செய்யப்பட்டுள்ளமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/674e61b3.json)
+
+---
+
+### மின்னல் தாக்கத்தினால் அவசர சிகிச்சைப் பிரிவு முற்றாக நாசம்
+
+*2024-05-12 09:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தினால்-அவசர-சிகிச்சைப்-பிரிவு-முற்றாக-நாசம்/175-337148) · `ta`
+
+வலஸ்முல்ல ஆதார வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவு (ETU) கடும் மழையுடன் கூடிய மின்னல் தாக்கத்தினால் முற்றாக சேதமடைந்துள்ளது.
+
+கடந்த வெள்ளிக்கிழமை (10) இடம்பெற்ற மின்னல் தாக்கத்தினால் வைத்தியசாலையில் இருந்த அனைத்து மின் உபகரணங்களும் எரிந்து நாசமாகியுள்ளதுடன், மின்னல் தாக்கத்தினால் கட்டிடமும் சேதமடைந்துள்ளது.
+
+விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர நேற்று (11) வைத்தியசாலைக்கு விஜயம் செய்து வைத்தியசாலைக்கு ஏற்பட்ட சேதங்களை பார்வையிட்டார்.
+
+மின்னல் தாக்கத்தால் ETU க்கு ஏற்பட்ட சேதங்கள் சுமார் ரூ. 50 மில்லியன் ஆகுமென அவர் தெரிவித்தார்.
+
+இச்சம்பவம் தொடர்பில் நேற்று (11) தென் மாகாண ஆளுநர் லக்ஷ்மன் யாப்பா அபேவர்தனவுடன் தொலைபேசியில் கலந்துரையாடிய அமைச்சர், இந்த அவசர சிகிச்சைப் பிரிவை புனரமைப்பதற்கு பணம் ஒதுக்கப்படும் எனவும், ஆளுநர் இன்று வைத்தியசாலையை பார்வையிடுவார் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/4b3983c7.json)
+
+---
+
+### Two suspects arrested for connection with Akmeemana
 
 *2024-05-12 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196529) · `si`
 
-අක්මීමන, කුරුන්දකන්ද, ලබුදූව ප්‍රදේශයේදී සිදුකළ මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් දෙදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects arrested in Akmeemana for a private dispute, another for multiple crimes including murder in Kattankulam, and a woman for a crime in Giribawa.
 
-බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරින්ට ලද තොරතුරක් මත එම සැකකරුවන් ඊයේ (11) අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඔවුන් අත්අඩංගුවට ගෙන තිබුණේ රාජගිරිය ප්‍රදේශයේ ලැගුම්හලක රැඳි සිටීයදී බව පොලීසිය පවසයි.
+Two suspects have been arrested by Akmeemanakanda and Kurudakakanda and the Labuduwa area.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 24 හා 32 වයස්වල පසුවන ලබුදූව ප්‍රදේශයේ පදිංචිකරුවන්ය.
+The suspects were arrested yesterday (11) on information received by the Western Province South Criminal Division.
 
-ඔවුන් පසුගිය 09 වනදා අක්මීමන කුරුන්දකන්ද, ලබුදූව ප්‍රදේශයේදී පුද්ගලික ආරවුලක් මත පුද්ගලයෙක්ව ඝාතනය කර තවත් පුද්ගලයෙකුට තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකිරීමේ සිද්ධියක් සම්බන්ධයෙන් සොයමින් සිට සැකකරුවන් බව පොලීසිය පවසයි.
+They were arrested in a lodge in Rajagiriya, police said.
 
-මේ අතර මනුෂ්‍ය ඝාතකයක් ඇතුළු අපරාධ කිහිපයකට සම්බන්ධ සැකකරුවෙකු පුවරසන්කුලම්, කට්පගපුරම් ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+The suspects are residents of the Labuduwa area 24 and 32 years old.
 
-ඊයේ එම සැකකරු අක්කරායන්කුලම් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+The suspects are suspects in search of a private dispute in the Labuduwa area on the 9th of the Labuduwa area.
 
-මෙම සැකකරු පදිංචි ප්‍රදේශයෙන් පළාගොස් සැඟව සිටියදී අත්අඩංගුවට ගෙන ඇත.
+Meanwhile, a suspect involved in several crimes including a human murder have been arrested in the Kattankulam area in Katupagapuram.
+
+The suspect has been arrested by the Akkarayankulam Police yesterday, the police spokesman's office said.
+
+The suspect had fled the area and arrested while he was arrested while hiding.
+
+The suspect was seriously injured in the Kilinochchi Magistrate's Court on an incident that was reported from the Akkarayankulam Police in 2022 and a human slaughter in the Kilinochchi police three year..
 
 ...
 
 [Data](articles/ca603bde.json)
+
+[Extended Data](ext_articles/ca603bde.ext.json)
 
 ---
 
@@ -529,6 +573,24 @@ MPs holding dual citizenship should step down before the upcoming elections; oth
 [Data](articles/11586861.json)
 
 [Extended Data](ext_articles/11586861.ext.json)
+
+---
+
+### Over 10 MPs with dual citizenship still in parliament; step down before elections: Ven. Sobitha Thera
+
+*2024-05-11 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Over-10-MPs-with-dual-citizenship-still-in-parliament-step-down-before-elections-Ven-Sobitha-Thera/155-282398) · `en`
+
+Colombo, May 11 (Daily Mirror) - Venerable Omalpe Sobitha Thera told the Daily Mirror today that there are over 10 members currently serving in Parliament who hold dual citizenship and said that those MPs should be removed from their posts before the elections.
+
+"In light of the Supreme Court ruling, I would like to kindly request all party leaders to disclose any members within their parties who hold dual citizenships," he said.
+
+MPs holding dual citizenship should step down before the upcoming elections; otherwise, the respective party leaders should bear the responsibility, he added.
+
+"These MPs have no loyalty to the country; they simply occupy parliamentary positions for personal gain. We have the capability to disclose their identities, but they should be granted an opportunity to reveal themselves before the upcoming elections," he said.
+
+...
+
+[Data](articles/9ca940cb.json)
 
 ---
 
@@ -2171,77 +2233,5 @@ The post mortem examination is scheduled to be held at the Dambulla Base Hospita
 [Data](articles/6e57c080.json)
 
 [Extended Data](ext_articles/6e57c080.ext.json)
-
----
-
-### Decision to be reached on interest rates for senior citizens’ savings
-
-*2024-05-11 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99142/decision-to-be-reached-on-interest-rates-for-senior-citizens-savings) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that President Ranil Wickremesinghe has directed him to conduct a comprehensive analysis of interest rates applicable to the savings of senior citizens.
-
-Siyambalapitiya claimed that around Rs. 80 billion rupees is required annually for senior citizens’ savings, with an outstanding debt of Rs. 105 billion to be repaid from the treasury for previous allocations.
-
-The Finance State Minister also emphasized President Wickremesinghe’s dedicated and sensitive approach to addressing this issue, affirming that all requests regarding interest rates for various age groups will be thoroughly analysed.
-
-Furthermore, he assured that a detailed report will be provided to the President, taking into account the current cash flows within the country.
-
-◼️
-
-[Data](articles/ff3d8a04.json)
-
-[Extended Data](ext_articles/ff3d8a04.ext.json)
-
----
-
-### The girl who left the child at the hospital - the incident in Jaffna
-
-*2024-05-11 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183212) · `ta`
-
-In Jaffna, a 15-year-old girl delivered a baby at the hospital and left it there. She and her mother have been hiding since. The hospital reported the incident to the police.
-
-🟩
-
-The incident took place at the Jaffna Teaching Hospital where a school girl who delivered the baby had left the child at the hospital.
-
-A 15 -year -old girl has been admitted to the hospital yesterday evening for childbirth after a 15 -year -old girl has been pregnant for allegedly belonging to Vadamarachchi.
-
-It is reported that the mother and the girl have been hiding since this morning after the baby was delivered last night.
-
-Police are investigating the incident as a complaint has been lodged at the Jaffna Police Station by the hospital administration.
-
-◼️
-
-[Data](articles/8cf08823.json)
-
-[Extended Data](ext_articles/8cf08823.ext.json)
-
----
-
-### Japan bread recalled after rat parts found inside packs
-
-*2024-05-11 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-bread-recalled-after-rat-parts-found-inside-packs/108-282387) · `en`
-
-More than 100,000 packets of sliced bread have been recalled in Japan after parts of a rat's body were discovered inside two of them, the manufacturer said.
-
-Food recalls are rare in Japan, a country with famously high standards of sanitation.
-
-Pasco Shikishima said it is investigating how the remains of the rodent had crept into its products.
-
-The company said it is so far unaware of anyone falling sick after eating its processed white Chojuku bread, long a staple of Japanese breakfast tables.
-
-"We would like to apologize deeply for causing trouble to our customers and clients," the company said in a statement on Tuesday.
-
-On Wednesday, Pasco confirmed that the two packets of bread had been contaminated by parts of a black rat.
-
-Pasco produces the bread at a factory in Tokyo, whose assembly line has been suspended pending a probe, it said.
-
-"We will strengthen our quality management system to ensure there won't be a recurrence," it added.
-
-...
-
-[Data](articles/6bbc23df.json)
-
-[Extended Data](ext_articles/6bbc23df.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 09:34:13**
+As of **2024-05-12 09:52:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,403 (100.0%) of 23,404 articles have been extended.
+23,404 (100.0%) of 23,404 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,19 +110,27 @@ A tuition class teacher has been arrested in Kandy over the incident of allegedl
 
 ---
 
-### කෘතිම බුද්ධිය පාලනයට අවශ්‍ය නිති මෙතෙක් සකස් කර නෑ
+### The required funds have not been prepared for artificial intelligence
 
 *2024-05-12 07:48:30* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-පාලනයට-අවශ්‍ය-නිති-මෙතෙක්-සකස්-කර-නෑ/11-409561) · `si`
 
-බුද්ධ දේශනාව සහ කෘත්‍රීම බුද්ධිය අතර තිබෙන සම්බන්ධතාව පිළිබඳ පර්යේෂණ කටයුතු වෙනුවෙන් ලබන වසරේදී රුපියල් බිලියනක් වෙන් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe discussed the importance of addressing climate change and the rapid advancement of technology, including artificial intelligence (AI), in the context of Buddhism. He highlighted the need for new laws to regulate AI, referencing the Buddha's teachings on the importance of mind control for a positive future. The President also mentioned a planned research fund for exploring the intersection of Buddhism and AI, emphasizing the need for careful consideration of AI's impact on society and religion.
 
-බුද්ධ දේශනාව සහ කෘත්‍රීම බුද්ධිය පිළිබඳ පර්යේෂණ කටයුතු මෙම වසරේදී ආරම්භ කිරීමට අපේක්ෂා කළද කෘත්‍රීම බුද්ධිය පාලනයට අවශ්‍ය නීති මෙතෙක් ඉදිරිපත් කර නොමැති බැවින් එම කටයුතු ලබන වසරට කල් තැබීමට සිදු වූ බවද සඳහන් කළ ජනාධිපතිවරයා නව නීති සම්මත කර ගැනීමෙන් අනතුරුව ඉදිරි පියවර ක්‍රියාත්මක කරන බවද සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මොරටුව බෞද්ධ මන්දිර ශාලාවේ දී පැවති මොරටුව ශ්‍රී ලංකා බෞද්ධ සමිතියේ සිය වන සංවත්සර සැමරුමට එක්වෙමිනි.
+President Ranil Wickremesinghe said that a sum of Rs.
+
+Although research on the Buddha's speech and artificial intelligence is expected to commence this year, the President has made the necessary laws for the rule of art.
+
+President Ranil Wickremesinghe was speaking at the Sri Lanka Buddhist Societies in Moratuwa Buddhist Society in Moratuwa.
+
+"Nowadays, the whole world is in a threat to the whole world. It is important that the heavy sunshine we face these days is a situation that has never faced before. It is difficult today to act on the target of restricting this climate warmth. With this we have to face a bug problem. We must pay attention to how to deal with Buddhism according to Buddhism.
 
 ...
 
 [Data](articles/08db0b7a.json)
+
+[Extended Data](ext_articles/08db0b7a.ext.json)
 
 ---
 

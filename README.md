@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 18:22:06**
+As of **2024-05-12 18:33:40**
 
 ## Newspaper Stats
 
-*Scraped **23,507** Articles*
+*Scraped **23,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,994
-adaderanalk | 2,747
+adaderanalk | 2,748
 tamilmirrorlk | 2,759
-virakesarilk | 3,500
+virakesarilk | 3,504
 dailymirrorlk | 3,696
 adaderanasinhalalk | 3,770
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 3,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,503 (100.0%) of 23,507 articles have been extended.
+23,507 (100.0%) of 23,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### பாதிக் கிணற்றை தாண்டிய பயணம்
+
+*2024-05-12 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183334) · `ta`
+
+“தமிழ் பொது வேட்பாளர் என்ற விடயம் இப்போது நம்பிக்கைக்குரிய ஒன்றாக - மக்கள் மத்தியில் ஆர்வத்தை தூண்டி உள்ள ஒன்றாக மாறத் தொடங்கி இருக்கிறது. இது நல்லதொரு சகுனம்”
+
+◼️
+
+[Data](articles/84c566a5.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் தமிழ் மக்களை கட்டுறுதியான அரசியல் சமூகமாக மாற்றும்
+
+*2024-05-12 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183326) · `ta`
+
+சர்வதேச தரப்பினைக் கொண்டு பொருளாதாரம் மீண்டு வருவதாக சான்றிதழை கொடுப்பதற்கு ரணில் முனைவதோடு அவருக்கு  மத்திய வங்கியின் ஆளுநரும் சான்றிதழை வழங்குகின்றார்.
+
+இருப்பினும் தென்னிலங்கை கள நிலவரம் இன்னமும் ரணிலுக்கு சாதகமாக திரும்பியதாக தெரியவில்லை. கருத்துக்கணிப்புகள் 3ஆம் நிலையில் ரணில் இருப்பதாகவே காட்டுகின்றன. முதலாம் நிலையில் சஜித் பிரேமதாசவும், அநுரகுமார திசநாயக்கவும் மாறிமாறி வருகின்றனர்.
+
+◼️
+
+[Data](articles/5cfe81a3.json)
+
+---
+
+### முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக் கொண்டிருந்த பொதுமக்களை தடையுத்தரவை காண்பித்து மிரட்டிய பொலிசார்
+
+*2024-05-12 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183355) · `ta`
+
+திருகோணமலை சம்பூர் பொலிஸ் பிரிவில் முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக் கொண்டிருந்த பொதுமக்களை தடையுத்தரவை காண்பித்து பொலிசார் மிரட்டிய சம்பவம் 12 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றுள்ளது.
+
+சேனையர் பகுதியில் ஞாயிற்றுக்கிழமை (12) மதியம் முள்ளிவாய்க்கால் நினைவுக்கஞ்சி காய்ச்சிக்கொண்டு இருந்தபோது அங்கு வந்த பொலிசார் நீதிமன்ற தடை உத்தரவைக்காட்டி அச்சுறுத்தி தடுக்க முற்பட்டதாகவும் தெரிய வருகின்றது. இதன்போது நாங்கள் வேறு யாரையும் நினைவு கூறவில்லை உயிரிழந்த பொது மக்களுக்காகவே இதனை செய்கின்றோம் என கூறி வாக்குவாதத்தில் ஈடுபட்டதோடு நீதிமன்ற தடை உத்தரவை வாங்க மறுத்ததாகவும் தெரியவருகின்றது.
+
+எனினும் பொதுமக்கள் முள்ளிவாய்க்கால் கஞ்சியை காய்ச்சி பொதுமக்களுக்கு பரிமாறி முள்ளிவாய்க்காலில் உயிரிழந்த பொது மக்களை நினைவை நினைவு கூர்ந்திருந்தனர்.
+
+◼️
+
+[Data](articles/0689ece1.json)
+
+---
+
+### வெருகல் - ஈச்சிலம்பற்று  ஶ்ரீ செண்பகநாச்சியம்மன் ஆலயத்தில் மக்கள் சந்திப்பில் ஈடுபட்டார் எஸ்.சிறிதரன்
+
+*2024-05-12 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183352) · `ta`
+
+தமிழ் தேசியக் கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் வெருகல் - ஈச்சிலம்பற்று  ஶ்ரீ செண்பகநாச்சியம்மன் ஆலயத்தில் ஞாயிற்றுக்கிழமை (12) பகல் மக்கள் சந்திப்பில் ஈடுபட்டார்.
+
+இலங்கை தமிழரசுக் கட்சியின் திருகோணமலை மாவட்ட தலைவர் சண்முகம் குகதாஸன் அவர்களின் அழைப்பின் பேரில் குறித்த மக்கள் சந்திப்பு இடம்பெற்றது.
+
+இச்சந்திப்பில் வெருகல் பிரதேச சபையின் முன்னாள் தவிசாளர் சுந்தரலிங்கம், உதவி தவிசாளர், தமிழ் தேசிய கூட்டமைப்பின் வெருகல் பிரதேச முக்கியஷ்தர்கள், ஆலய நிருவாகத்தினர், பொது அமைப்புக்களின் பிரதிநிதிகள், பொதுமக்கள் என பலரும் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/cf921f56.json)
+
+---
 
 ### Two more terrorists in Pakistan
 
@@ -55,6 +113,50 @@ The Pakistani security forces have taken steps to launch a special military oper
 [Data](articles/59e79e14.json)
 
 [Extended Data](ext_articles/59e79e14.ext.json)
+
+---
+
+### Former President Rajapaksa calls for postponing sale of national assets and SOEs
+
+*2024-05-12 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99166/former-president-rajapaksa-calls-for-postponing-sale-of-national-assets-and-soes) · `en`
+
+Issuing a statement addressing the growing concerns over the government’s plans to sell off national assets and state-owned enterprises (SOEs), former President Mahinda Rajapaksa has states that these actions of the government have given rise to discontent among trade unions, political parties and the general public.
+
+Rajapaksa emphasized his administration’s stance of not selling a single state-owned enterprise during his tenure as President. He pointed out that instead of privatization, his government focused on re-acquiring some previously sold enterprises, such as the Insurance Corporation and Lanka Hospitals, which continue to yield profits for the state.
+
+...
+
+[Data](articles/52d757b1.json)
+
+---
+
+### Does the bashil take the hand on the hand?
+
+*2024-05-12 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183322) · `ta`
+
+Basil Rajapaksa, a key political figure, is known for his strategic maneuvers in Sri Lankan politics. Despite facing criticism and legal issues, he has demonstrated a knack for turning enemies into allies and vice versa, showcasing his ability to navigate the complex world of politics. His role in the unexpected appointment of Mahinda Rajapaksa as Prime Minister in 2018, despite opposition, highlights his skill in political maneuvering. Basil is currently working to rebuild the PA party and aims to return the Rajapaksa family to power, employing various strategies to influence political outcomes. His approach to politics, characterized by efficiency and tact, serves as a lesson for other politicians.
+
+🟩
+
+Rajapaksa is one of the politicians who think of the finger of the sand and the rope.
+
+This claim may not have agreement to many. It must be acknowledged that he has the ability to exceed any other politician in his politics and life or not.
+
+This is not a praise for Bashil. Lesson that other politicians should learn in politics. In the 2015 presidential election, the defeat of the Rajapakse family is attributed to the autocraticity of the family. Such criticisms were openly presented.
+
+Rajapaksa also had a significant share in Bashil. He is the one who left the hospital bed, not going to jail, although there are many corruption and fraud.
+
+After the defeat of Mahinda, he created the PA and developed it in the next few years.
+
+If the PA is strong in Sinhala politics today, Mahinda's leadership is not the only reason, but also Basil's efficient and tactfulness.
+
+He is the one who can do anything for politics and power to make enemies a friend and an enemy of friends.
+
+...
+
+[Data](articles/2643f136.json)
+
+[Extended Data](ext_articles/2643f136.ext.json)
 
 ---
 
@@ -101,36 +203,6 @@ Former President Mahinda Rajapaksa proposes that all steps taken to sell state o
 [Data](articles/98137066.json)
 
 [Extended Data](ext_articles/98137066.ext.json)
-
----
-
-### Does the bashil take the hand on the hand?
-
-*2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183322) · `ta`
-
-Basil Rajapaksa, a key political figure, is known for his strategic maneuvers in Sri Lankan politics. Despite facing criticism and legal issues, he has demonstrated a knack for turning enemies into allies and vice versa, showcasing his ability to navigate the complex world of politics. His role in the unexpected appointment of Mahinda Rajapaksa as Prime Minister in 2018, despite opposition, highlights his skill in political maneuvering. Basil is currently working to rebuild the PA party and aims to return the Rajapaksa family to power, employing various strategies to influence political outcomes. His approach to politics, characterized by efficiency and tact, serves as a lesson for other politicians.
-
-🟩
-
-Rajapaksa is one of the politicians who think of the finger of the sand and the rope.
-
-This claim may not have agreement to many. It must be acknowledged that he has the ability to exceed any other politician in his politics and life or not.
-
-This is not a praise for Bashil. Lesson that other politicians should learn in politics. In the 2015 presidential election, the defeat of the Rajapakse family is attributed to the autocraticity of the family. Such criticisms were openly presented.
-
-Rajapaksa also had a significant share in Bashil. He is the one who left the hospital bed, not going to jail, although there are many corruption and fraud.
-
-After the defeat of Mahinda, he created the PA and developed it in the next few years.
-
-If the PA is strong in Sinhala politics today, Mahinda's leadership is not the only reason, but also Basil's efficient and tactfulness.
-
-He is the one who can do anything for politics and power to make enemies a friend and an enemy of friends.
-
-...
-
-[Data](articles/2643f136.json)
-
-[Extended Data](ext_articles/2643f136.ext.json)
 
 ---
 
@@ -242,15 +314,21 @@ In the Nahrin district of Baghlan province, people carried their shrouded dead t
 
 ---
 
-### சம்பள உயர்வை வழங்காவிடின் தக்க நடவடிக்கை எடுக்கப்படும் : இ.தொ.கா தலைவர் செந்தில் தொண்டமான் செவ்வி
+### If the salary hike is not paid: CWC leader Senthil Thondaman Sevy
 
 *2024-05-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183311) · `ta`
 
-"இலங்கைத் தொழிலாளர் காங்கிரஸ், பேச்சுவார்த்தை நடத்தியும் போராட்டங்களை நடத்தியும் பொருந்தோட்ட தொழிலாளர்களுக்கு சம்பள உயர்வைப் பெற்றுக்கொடுத்துள்ளது. தற்போது 1700 ரூபாய் சம்பளம் வழங்கப்பட வேண்டுமென சட்ட ரீதியாக  வர்த்தமானி வெளியிடப்பட்டுள்ளது. அவர்கள் இந்தச் சம்பள உயர்வை வழங்கவில்லை என்றால் சட்ட நடவடிக்கை எடுக்கப்படும்." - செந்தில் தொண்டமான்
+CWC leader Senthil Thondaman warns of legal action if salary hikes, negotiated and protested for, are not paid. Workers are entitled to Rs 1700 increase.
+
+🟩
+
+“The Ceylon Workers Congress has paid a salary increase to the appropriate workers by negotiations and protests. Currently, the Gazette has been issued for a salary of Rs 1700. If they do not provide this salary increase, legal action will be taken. ” - Senthil Thondaman
 
 ◼️
 
 [Data](articles/79fa4099.json)
+
+[Extended Data](ext_articles/79fa4099.ext.json)
 
 ---
 
@@ -640,6 +718,8 @@ Rajapaksa, who served as President from November 2005 to January 2015, emphasize
 
 [Data](articles/075a0c1e.json)
 
+[Extended Data](ext_articles/075a0c1e.ext.json)
+
 ---
 
 ### Mahinda Rajapaksa urges postponement of national asset sales
@@ -686,19 +766,27 @@ In addition, the arrested suspect and the confiscated artifacts have handed over
 
 ---
 
-### රට විරුවෝ මාස 4ට ඩොලර් බිලියන දෙකක් එවලා
+### The people of the country sent two billion dollars at 4 months
 
 *2024-05-12 14:04:56* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මාස-4ට-ඩොලර්-බිලියන-දෙකක්-එවලා/11-409572) · `si`
 
-විදේශ ගත ශ්‍රමිකයින් නීත්‍යානුකූලව බැංකු ක්‍රමය ඔස්සේ මේ වසරේදී මුල් මාස හතර තුළදී පමණක් ඇමරිකානු ඩොලර් බිලියන 2.079ක මුදල් එවා ඇති අතර අප්‍රේල් මාසයේදී පමණක් ඩොලර් මිලියන 543.8ක් එවා තිබේ.
+In the first four months, the US sent $2.079 billion to foreign workers, a 19.7% increase from April last year. The total for the period was $2.079 billion, with $543.8 million in April alone. This is an 11.4% increase compared to the same period last year. Minister Manusha Nanayakkara has overseen the transfer of $10.807 billion to foreign workers, with monthly transfers of $200 million to Sri Lanka. The government has also encouraged the import of essential commodities and the use of the banking system.
 
-පසුගිය වසරේ මුල් මාස හතර සමග සන්සන්දනය කර බලන විට විදේශ ගත ශ්‍රමිකයින් මේ වසරේ මුල් මාස හතර තුළදී එවූ විදේශ විදේශ ප්‍රේශණ ප්‍රමාණය සියයට 11.4කින් ඉහළ ගොස් තිබේ. පසුගිය වසරේ අප්‍රේල් මාසය සමග සන්සන්දනය කර බලන විටදී මේ වසරේ අප්‍රේල් මාසයේදී පමණක් රටට ලැබුණ විදේශ ප්‍රේශණ ප්‍රමාණය සියයට 19.7කින් ඉහළ ගියේය.
+🟩
 
-කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා අමාත්‍යාංශය භාරගැනීමෙන් පසුව මේ වනවිට ඇමරිකානු ඩොලර් මිලියන 10,807ක මුදලක් විදේශ ගත ශ්‍රමිකයින් මෙරටට එවා ඇත. අමාත්‍යවරයා, අමාත්‍යාංශය භාරගත් අවස්ථාව වන විට විදේශ ගත ශ්‍රමිකයින් මාසිකව මෙරටට එවන විදේශ විනිමය ප්‍රමාණය ඇමරිකානු ඩොලර් මිලියන 200 දක්වා පහළ වැටී තිබුණි.
+Foreign workers have been legally sent by US $ 2.079 billion in the first four months alone, US $ 543.8 million in April alone.
+
+Compared to the first four months of last year, the foreign foreign forest reserves have increased by 11.4 percent in the first four months of this year during the first four months of this year.. Compared to April last year, the country received in April alone in April this year was 19.7 percent.
+
+Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment has taken over US $ 10,807 million to foreign workers. The Minister has taken the foreign workers monthly to Sri Lanka by US $ 200 million.
+
+The oil queues, the oil queue, eliminating the shortfall, were asked to import the essential commodities of the country, and encouraged to send money to the banking system.
 
 ...
 
 [Data](articles/cf356c29.json)
+
+[Extended Data](ext_articles/cf356c29.ext.json)
 
 ---
 
@@ -848,19 +936,27 @@ Thereafter, a cassette and two smartphones stolen in three houses in the Soloon 
 
 ---
 
-### ප්‍රාථමික ශ්‍රේණිවල දරුවන්ගේ ආහාර වැඩසටහනට වැය වන මුදල රුපියල් බිලියන 26ක්
+### 26 billion rupees to the children's food program in primary grades
 
 *2024-05-12 13:42:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-ශ්‍රේණිවල-දරුවන්ගේ-ආහාර-වැඩසටහනට-වැය-වන-මුදල-රුපියල්-බිලියන-26ක්/11-409569) · `si`
 
-මෙරට ප්‍රාථමික ශ්‍රේණිවල සියලු‍ සිසුන් ආවරණය වන පරිදි දරුවන් ලක්ෂ 17ක් සඳහා රුපියල් බිලියන 26ක් වැය කර පාසල් දිවා ආහාර වැඩසටහන අඛණ්ඩ ව වර්ධනය කර පවත්වාගෙන යන පසුබිමක සමහර පුද්ගලයන් දේශපාලන වේදිකාවල සිට ජනප්‍රිය ප්‍රකාශ නිකුත් කරමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.  රටේ සියලු‍ ම පාසල්  දරුවන්ට දිවා ආහාරය දෙන බව පවසන දේශපාලනඥයන් ඒ පිළිබඳ සංඛ්‍යාත්මක විශ්ලේෂණයක් ප්‍රායෝගික ව සිදු කර බලා මෙම ප්‍රකාශ සිදු කළ යුතු ව ඇතැයි ද ඒ මහතා මෙහි දී පැවසීය.
+The Minister of Education, Susil Premajayantha, highlighted a proposal for a 26 billion rupee children's food program in primary grades, contrasting it with political statements promising 17 billion rupees for all students. He emphasized the importance of creating a positive atmosphere in the country, referencing the recent past and the need for intelligent decision-making.
 
-අධ්‍යාපන අමාත්‍යවරයා මේ බව පැවසුවේ ජර්මන් ටෙක් ආයතනයේ සිසුන් වෙනුවෙන් අත්තිඩියේ ඉදි කළ  නව සය මහල් නේවාසිකාගාර සංකීර්ණය සිසු අයිතියට පත් කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස එක් වෙමිනි.
+🟩
 
-මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් සුසිල් ප්‍රේමජයන්ත මහතා ප්‍රකාශ කළේ, මීට වසර දෙකකට පෙර තිබූ තත්වය ඉතා කෙටි කලක දී හාත්පසින් ම වෙනස් කර රට තුළ සාධනීය වාතාවරණයක් නිර්මාණය කළ  බවයි.
+Minister of Education Susil Premajayantha said that some individuals have been making popular statements from political platforms for 17 billion rupees to cover all the students of primary grades.He said that politicians say that all school children will give lunch to all school children in the country should be performed in this statement.
+
+The Minister of Education made this observation as the Chief Guest at the opening of the new six-story complex built on At At Attidiye.
+
+Speaking further Mr. Susil Premajayantha said he had created a positive atmosphere in the country as short as two years ago.
+
+He said that it had to be taken to effort and re-recall the devastating situation where many people today were present.. He said that when the democratic mechanism was completed and the democratic mechanism, which was completed and the war in the country, the democratic mechanism would be restored to the end of 14 hours a day.
 
 ...
 
 [Data](articles/23fa2028.json)
+
+[Extended Data](ext_articles/23fa2028.ext.json)
 
 ---
 
@@ -2131,127 +2227,5 @@ The Ministry of Buddha Sasana said that the Ministry of Thailand and the Ministr
 [Data](articles/1840549d.json)
 
 [Extended Data](ext_articles/1840549d.ext.json)
-
----
-
-### The journey to Canada is micro
-
-*2024-05-12 08:00:07* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-බලපත්‍රවලින්-කැනඩා-යන්න-ගිය-ගමන-වරදියි/11-409562) · `si`
-
-Two Sri Lankans, a 47-year-old from Batticaloa and a 37-year-old from Vavuniya, attempted to flee to Canada using criminal passports. They were arrested at the Emirates Airport on 05/11. The 47-year-old, a resident of Sandilipai, Jaffna, had seven Sri Lankan passports, five of which were found in Canada, and three "Resident Cards" for staying in Canada. They are to be produced in court on 05/12/2011.
-
-🟩
-
-Two Sri Lankans attempting to flee to Canada using two criminal passports used to flee to Canada after he was arrested by the CID on 05/11.Available.
-
-A 47-year-old resident of Batticaloa and 37-year-old Tamils in the Vavuniya area were 520/11, Emirates Airport.
-
-The two had used a license for this flight, Katunayake Airport Criminal Investigations were taken into custody.
-
-After the interrogation of them, they were raided by the criminal investigations and the CID officers were arrested by the person who had prepared the passport in the Negombo tourism hotel.
-
-He is a 47 year old resident of Sandilipai, Jaffna. He is most residents of Canada using resident cards.
-
-When he was arrested, seven Sri Lankan passports were found in his travel bag and five of them were found in Canada.
-
-In addition, the Indian Airlines' stressing aircraft entry (boarding card had been recovered.
-
-Also, "Resident Cards" (Residence card used to stay residential in Canada
-
-Three had been arrested by the CID in his possession.
-
-...
-
-[Data](articles/2b3412cd.json)
-
-[Extended Data](ext_articles/2b3412cd.ext.json)
-
----
-
-### What a teacher has been arrested in the examination during the exam
-
-*2024-05-12 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196527) · `si`
-
-A teacher was arrested for allegedly leaking the English Quarter of the GCE Ordinary Level exam. The arrest occurred at a hospital in Kandy.
-
-🟩
-
-A teacher has been arrested in connection with the releasing the English Quarter of the GCE Ordinary Level examination these days.
-
-The suspect has been arrested by the hospital in the Kandy area this morning.
-
-◼️
-
-[Data](articles/bee5357e.json)
-
-[Extended Data](ext_articles/bee5357e.ext.json)
-
----
-
-### Lightning destroys Walasmulla Hospital ETU
-
-*2024-05-12 07:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lightning-destroys-Walasmulla-Hospital-ETU/108-282399) · `en`
-
-Colombo, May 12 (Daily Mirror) - The Emergency Treatment Unit (ETU) of the Walasmulla Base Hospital has been completely destroyed due to a lightning strike with the heavy rains.
-
-With the lightning strike on last Friday (10), all the electrical equipment in the units were destroyed and the building was also damaged by the fire caused by the lightning.
-
-Agriculture and Plantation Industry Minister Mahinda Amaraweera visited the hospital yesterday (11) to inspect the damages caused the hospital.
-
-He said that the damages caused to the ETU due to the lightning strike is estimated to be around Rs. 50 million.
-
-The Minister discussed this incident with Southern Province Governor Lakshman Yapa Abeywardena yesterday (11) over the phone and said that money will be allocated for the renovation of this Emergency Treatment Unit and that the Governor will inspect the hospital today.
-
-...
-
-[Data](articles/8ee9dfab.json)
-
-[Extended Data](ext_articles/8ee9dfab.ext.json)
-
----
-
-### Tuition teacher arrested in Kandy for photographing, sharing O/L English paper
-
-*2024-05-12 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99156/tuition-teacher-arrested-in-kandy-for-photographing-sharing-ol-english-paper) · `en`
-
-A tuition class teacher has been arrested over the incident of allegedly photographing the English Language question paper of the 2023 (2024) G.C.E. Ordinary Level examination and sharing it on WhatsApp during the exam recently.
-
-Officers of the Criminal Investigation Department have apprehended the suspect in Kandy this morning (12).
-
-Preliminary Investigations have revealed that the relevant WhatsApp group consists of 1,025 members.
-
-The English Language question paper for the G.C.E. O/L exam was held on May 09 and according to the schedule, the question paper was distributed among the students at 8.30 a.m. However, police said that the teacher in question had photographed and released the paper to the WhatsApp group at around 9.11 a.m. the same day.
-
-The arrested teacher will be produced before the court today.
-
-...
-
-[Data](articles/e4d3489d.json)
-
-[Extended Data](ext_articles/e4d3489d.ext.json)
-
----
-
-### The required funds have not been prepared for artificial intelligence
-
-*2024-05-12 07:48:30* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-පාලනයට-අවශ්‍ය-නිති-මෙතෙක්-සකස්-කර-නෑ/11-409561) · `si`
-
-President Ranil Wickremesinghe discussed the importance of addressing climate change and the rapid advancement of technology, including artificial intelligence (AI), in the context of Buddhism. He highlighted the need for new laws to regulate AI, referencing the Buddha's teachings on the importance of mind control for a positive future. The President also mentioned a planned research fund for exploring the intersection of Buddhism and AI, emphasizing the need for careful consideration of AI's impact on society and religion.
-
-🟩
-
-President Ranil Wickremesinghe said that a sum of Rs.
-
-Although research on the Buddha's speech and artificial intelligence is expected to commence this year, the President has made the necessary laws for the rule of art.
-
-President Ranil Wickremesinghe was speaking at the Sri Lanka Buddhist Societies in Moratuwa Buddhist Society in Moratuwa.
-
-"Nowadays, the whole world is in a threat to the whole world. It is important that the heavy sunshine we face these days is a situation that has never faced before. It is difficult today to act on the target of restricting this climate warmth. With this we have to face a bug problem. We must pay attention to how to deal with Buddhism according to Buddhism.
-
-...
-
-[Data](articles/08db0b7a.json)
-
-[Extended Data](ext_articles/08db0b7a.ext.json)
 
 ---

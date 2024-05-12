@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 14:51:13**
+As of **2024-05-12 15:03:17**
 
 ## Newspaper Stats
 
-*Scraped **23,464** Articles*
+*Scraped **23,469** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 208
+colombotelegraphcom | 210
 bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
@@ -16,8 +16,8 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,988
-adaderanalk | 2,744
-tamilmirrorlk | 2,756
+adaderanalk | 2,745
+tamilmirrorlk | 2,758
 virakesarilk | 3,484
 dailymirrorlk | 3,691
 adaderanasinhalalk | 3,763
@@ -26,11 +26,23 @@ adaderanasinhalalk | 3,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,464 (100.0%) of 23,464 articles have been extended.
+23,464 (100.0%) of 23,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Keerthi Udawatte appointed SLFP’s Acting General Secretary
+
+*2024-05-12 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99163/keerthi-udawatte-appointed-slfps-acting-general-secretary) · `en`
+
+The Sri Lanka Freedom Party’s (SLFP) faction led by former President Maithripala Sirisena has decided to appoint Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the party, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/bbc0772f.json)
+
+---
 
 ### Mahinda Rajapaksa urges postponement of national asset sales
 
@@ -47,6 +59,24 @@ Rajapaksa, who served as President from November 2005 to January 2015, emphasize
 [Data](articles/43dfb8c7.json)
 
 [Extended Data](ext_articles/43dfb8c7.ext.json)
+
+---
+
+### தொல்பொருட்களுடன் ஒருவர் கைது
+
+*2024-05-12 14:06:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருட்களுடன்-ஒருவர்-கைது/175-337174) · `ta`
+
+கற்பிட்டி - ஆலங்குடா பகுதியில் வீடொன்றிலிருந்து , சட்டவிரோதமான முறையில் வைத்திருந்த குற்றச்சாட்டில் , தங்கத்தலானது என சந்தேகிக்கப்படும்  தொல்பொருட்களுடன் சந்தேகநபர் ஒருவர் சனிக்கிழமை (11) கைது செய்யப்பட்டுள்ளார்.
+
+கற்பிட்டி, ஏத்தாளை பகுதியைச் சேர்ந்த 34 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக கடற்படையினர் தெரிவித்துள்ளனர்.
+
+இலங்கை கடற்படைக்கு சொந்தமான விஜய கடற்படையினரும், புத்தளம் பிரிவு குற்ற விசாரணை பிரிவின் அதிகாரிகளும் இணைந்து குறித்த பகுதியில் விஷேட சோதனை நடவடிக்கையொன்றை மேற்கொண்ட நிலையில்  வீடொன்றினை சோதனை செய்த போது, அந்த வீட்டிற்குள் சட்டவிரோதமாக பெறப்பட்டதாக சந்தேகிக்கப்படும் தொல்பொருட்கள் மிகவும் சூட்சகமான முறையில் மறைத்து வைக்கப்பட்டிருந்தமை தெரியவந்துள்ளது.
+
+இதன்போது ,தங்கத்தில் தயாரிக்கப்பட்டதாக சந்தேகிக்கப்படும் வால் ஒன்றும், ஆமை , குதிரை மற்றும் இரண்டு சிறிய சிலைகளும் பறிமுதல் செய்யப்பட்டுள்ளன.
+
+...
+
+[Data](articles/f8cdfc1f.json)
 
 ---
 
@@ -109,6 +139,24 @@ Thereafter, a cassette and two smartphones stolen in three houses in the Soloon 
 [Data](articles/8b53c3f5.json)
 
 [Extended Data](ext_articles/8b53c3f5.ext.json)
+
+---
+
+### கல்முனை போராட்டத்துக்கு 4000 பேர்   வலுச்சேர்த்தனர்
+
+*2024-05-12 13:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-போராட்டத்துக்கு-4000-பேர்-வலுச்சேர்த்தனர்/175-337173) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான நிருவாக அடக்குமுறைகளை கண்டித்து பொதுமக்கள் சிவில் அமைப்புக்கள் கல்முனை வடக்கு பிரதேச செயலக முன்றலில் நடாத்தி வரும் போராட்டம் திங்கட்கிழமையுடன் (13)  ஐம்பது நாட்களை எட்டுகிறது.
+
+ஊர்வலமாக சுமார்  4,000 பொதுமக்கள் வந்து போராட்டத்தில் பங்கேற்றனர். இதனால்  கல்முனை தமிழர் போராட்டம் மேலும் தீவிரமடைந்துள்ளது.
+
+4,000 பொது மக்கள் பங்கேற்ற பேரணி வடக்கு பிரதேச செயலகத்தில் ஆரம்பித்து தரவைப் பிள்ளையார் ஆலயம் வரை சென்று மீண்டும் பிரதேச செயலகத்தை அடைந்தனர். பதாதைகளை தாங்கிய வண்ணம் மிக நீண்ட நேரம் கோஷங்களை எழுப்பி மக்கள் வலம் வந்தனர்.
+
+தமது யதார்த்தங்கள் தமக்கு இழைக்கப்படும் அநீதிகள் பற்றிய கோரிக்கைகள் தாங்கிய பதாதைகளுடன் சுட்டெரிக்கும் வெயிலிலும் கொதிக்கும் தார் வீதியில் நடைபவனியாக சுமார் இரண்டு கிலோமீட்டர் தூரம் வந்து கல்முனை வடக்குப் பிரதேச செயலகம் முன்பாக அமர்ந்திருந்து மக்கள் போராட்டத்தில் கலந்துகொண்டமை ஏனைய மக்களையும் உணர்ச்சி வசப்படுத்திய து.
+
+◼️
+
+[Data](articles/37f3cb45.json)
 
 ---
 
@@ -1460,6 +1508,30 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
+### The Sale Of National Assets & State Owned Enterprises
+
+*2024-05-12 07:23:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-sale-of-national-assets-state-owned-enterprises/) · `en`
+
+The government’s plans to sell off certain national assets and state owned enterprises have given rise to discontent among trade unions, political parties and the general public. The present divestiture drive is ostensibly aimed at minimizing govt. expenditure on loss-making state owned enterprises and meeting certain IMF conditions in that regard. I ruled the country for more than nine years from November 2005 to January 2015 without ever selling a single state owned enterprise. In fact, my government actually re-acquired some state owned enterprises such as the Insurance Corporation, and Lanka Hospitals that had been sold off by previous governments and these enterprises continue to make profits for the state to date.
+
+...
+
+[Data](articles/3888be1e.json)
+
+---
+
+### Debt Restructuring As Rocket Science: The IMF, Green, Blue & Pink-Washing BlackRock?
+
+*2024-05-12 07:10:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debt-restructuring-as-rocket-science-the-imf-green-blue-pink-washing-blackrock/) · `en`
+
+Calls for divestment from BlackRock and other International Sovereign Bonds (ISB), have echoed across Columbia, Yale and many non-Ivy League universities in the United States recently. BlackRock is heavily invested in weapons companies fueling a genocidal war in Palestine. However, the International Monetary Fund’s (IMF), debt restructuring operations in the Global South appear designed to ensure BlackRock’s enhanced profitability.
+
+...
+
+[Data](articles/f0037c09.json)
+
+---
+
 ### Extension of vehicle imports from next year
 
 *2024-05-12 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196526) · `si`
@@ -2143,85 +2215,5 @@ Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoure
 [Data](articles/328a7408.json)
 
 [Extended Data](ext_articles/328a7408.ext.json)
-
----
-
-### IASL introduces office bearers for the 2024/25 tenure
-
-*2024-05-11 18:36:00* · [`islandlk`](http://island.lk/iasl-introduces-office-bearers-for-the-2024-25-tenure/) · `en`
-
-The Insurance Association of Sri Lanka (IASL) the representative body of the insurance industry in the country has announced the reappointment of its esteemed office bearers for the year 2024/25. The reappointment comes as a testament to the dedication, expertise, and commitment demonstrated by these individuals towards advancing the insurance industry in Sri Lanka. The event took place on the 27th of March, 2024 at the Annual General Meeting. Subsequently the sub-committee members were also appointed for the said term at the IASL Executive Committee Meeting which was held on the 3rd of May 2024.
-
-...
-
-[Data](articles/2d185b67.json)
-
-[Extended Data](ext_articles/2d185b67.ext.json)
-
----
-
-### ‘Dialog Enterprise Partners with UTECH Technologies for Industry 4.0 Transformation’.
-
-*2024-05-11 18:22:00* · [`islandlk`](http://island.lk/dialog-enterprise-partners-with-utech-technologies-for-industry-4-0-transformation/) · `en`
-
-Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., proudly announces the latest addition to its portfolio of industry-leading and innovative automation solutions together with, UTECH solutions.
-
-Through the partnership, Dialog Enterprise aims to leverage its considerable experience in working with diverse industries and multiple use cases to develop innovative and affordable technology solutions helping businesses find efficiencies and productivity enhancements required to be competitive with the demands of a changing business environment.
-
-Focusing on facilitating the transition to Industry 4.0 for enterprises, this collaboration therefore enables tailored IIoT solutions for integrating smart devices, data analytics and automation systems to optimize operations and boost efficiency.
-
-...
-
-[Data](articles/e987d5d9.json)
-
-[Extended Data](ext_articles/e987d5d9.ext.json)
-
----
-
-### DTH Travel Maldives seals title of “Indian Ocean’s Leading DMC”
-
-*2024-05-11 18:21:00* · [`islandlk`](http://island.lk/dth-travel-maldives-seals-title-of-indian-oceans-leading-dmc/) · `en`
-
-DTH Travel Maldives has been awarded the prestigious title of “Indian Ocean’s Leading Destination Management Company”, at the World Travel Awards 2024. The ceremony for the Indian Ocean Category was held at the Dubai World Trade Centre as a segment of the Arabian Travel Market (ATM) 2024.
-
-Suranjith De Fonseka, Managing Director of DTH Travel Sri Lanka and Maldives stated “this is a momentous achievement for DTH Maldives. It showcases our commitment to excellence and underscores our position as industry leaders in providing unparalleled travel experiences. This accolade uplifts us to continue elevating the benchmarks of travel in the Maldives. We are honoured and humbled to receive such an award, as it is conferred based on the votes of all those who have experienced our service and hospitality”
-
-...
-
-[Data](articles/22ca844c.json)
-
-[Extended Data](ext_articles/22ca844c.ext.json)
-
----
-
-### Ceylinco Life treats Family Savari winners to a day of unbridled fun at Pearl Bay
-
-*2024-05-11 18:20:00* · [`islandlk`](http://island.lk/ceylinco-life-treats-family-savari-winners-to-a-day-of-unbridled-fun-at-pearl-bay/) · `en`
-
-A welcome opportunity to cool off with the thrills and spills of Pearl Bay – Sri Lanka newest theme park with water features – was provided to nearly a thousand people recently, as Ceylinco Life’s ‘Family Savari’ promotion for 2024 got underway in characteristic scale.
-
-The group, comprising of 250 Ceylinco Life policyholders and their families, were given the run of the park for a day, with the water park area reserved exclusively for them by the life insurance market leader.
-
-With all the rides and other attractions paid for and refreshments provided, the visitors simply had to surrender to the unbridled fun in store for them, courtesy of their life insurance partner. The Family Savari Brand Ambassadors – the popular actor Roshan Ranawana, his wife Kushlani and their son Mineth joined in the activities.
-
-...
-
-[Data](articles/11e56c8a.json)
-
-[Extended Data](ext_articles/11e56c8a.ext.json)
-
----
-
-### SDB bank’s corporate website gets an upgrade
-
-*2024-05-11 18:19:00* · [`islandlk`](http://island.lk/sdb-bank-boosts-mobile-user-experience-and-access-to-finance-information/) · `en`
-
-In an era where digital convenience is paramount, SDB bank, The Bank Where You Are Valued with its focus on improving the digital customer touchpoints, recently upgraded its tri-lingual corporate website which is an important part of a broader digital roadmap, marks a significant stride towards optimizing customer engagement through accessible and efficient touchpoints of the Bank. This comprehensive upgrade of its corporate website, now boasting a user interface that is not only the epitome of modern design but also mobile-responsive, catering to the needs of the on-the-go consumer.
-
-...
-
-[Data](articles/b5acdb8a.json)
-
-[Extended Data](ext_articles/b5acdb8a.ext.json)
 
 ---

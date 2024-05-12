@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 20:33:48**
+As of **2024-05-12 20:51:27**
 
 ## Newspaper Stats
 
-*Scraped **23,517** Articles*
+*Scraped **23,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,997
 adaderanalk | 2,749
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
-dailymirrorlk | 3,696
+dailymirrorlk | 3,699
 adaderanasinhalalk | 3,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,517 (100.0%) of 23,517 articles have been extended.
+23,520 (100.0%) of 23,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Rapid decline in birthrate; making children has not become priority of new generation
+
+*2024-05-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapid-decline-in-birthrate-making-children-has-not-become-priority-of-new-generation/108-282419) · `en`
+
+Colombo, May 12 (Daily Mirror) - The birth rate in Sri Lanka is on a rapid decline, and currently it has decreased by 30%, Kalubowila Teaching Hospital gynecologist Prof. Ajith Fernando said.
+
+Addressing the media, the doctor said that the number of births, which was about 360,000, has decreased to about 240,000.
+
+The doctor claimed that economic challenges are the primary reason for the declining birth rate in the country. Many families are opting not to have a second child due to these economic difficulties.
+
+...
+
+[Data](articles/6ad7d768.json)
+
+[Extended Data](ext_articles/6ad7d768.ext.json)
+
+---
 
 ### Meeting a suspicious motorcycle
 
@@ -103,6 +121,20 @@ The people living in these areas should be aware of this and the organization sa
 [Data](articles/2f4b9427.json)
 
 [Extended Data](ext_articles/2f4b9427.ext.json)
+
+---
+
+### Environmental leaders of tomorrow
+
+*2024-05-12 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Environmental-leaders-of-tomorrow/110-282418) · `en`
+
+A workshop organised by the National Youth Services Council (NYSC) was held in Gampaha today. Senior Presidential advisor Ruwan Wijewardene participated in the programme as the chief guest. NYSC Chairman Pasindu Gunaratne was also present. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/d005501c.json)
+
+[Extended Data](ext_articles/d005501c.ext.json)
 
 ---
 
@@ -491,6 +523,20 @@ This follows the appointment of new SLFP Chairman Wijeyadasa Rajapakshe.
 [Data](articles/a982b25f.json)
 
 [Extended Data](ext_articles/a982b25f.ext.json)
+
+---
+
+### Love of a mom
+
+*2024-05-12 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Love-of-a-mom/110-282413) · `en`
+
+As the world commemorated Mother’s day yesterday there is a section of mothers in our society who have little to celebrate. Picture shows those mothers working hard on the streets of Colombo to earn a living for their families. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/335f4e31.json)
+
+[Extended Data](ext_articles/335f4e31.ext.json)
 
 ---
 
@@ -2177,87 +2223,5 @@ Three patients who were treated in the category during the impact of lightning w
 [Data](articles/4b3983c7.json)
 
 [Extended Data](ext_articles/4b3983c7.ext.json)
-
----
-
-### Two suspects arrested for connection with Akmeemana
-
-*2024-05-12 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196529) · `si`
-
-Two suspects arrested in Akmeemana for a private dispute, another for multiple crimes including murder in Kattankulam, and a woman for a crime in Giribawa.
-
-🟩
-
-Two suspects have been arrested by Akmeemanakanda and Kurudakakanda and the Labuduwa area.
-
-The suspects were arrested yesterday (11) on information received by the Western Province South Criminal Division.
-
-They were arrested in a lodge in Rajagiriya, police said.
-
-The suspects are residents of the Labuduwa area 24 and 32 years old.
-
-The suspects are suspects in search of a private dispute in the Labuduwa area on the 9th of the Labuduwa area.
-
-Meanwhile, a suspect involved in several crimes including a human murder have been arrested in the Kattankulam area in Katupagapuram.
-
-The suspect has been arrested by the Akkarayankulam Police yesterday, the police spokesman's office said.
-
-The suspect had fled the area and arrested while he was arrested while hiding.
-
-The suspect was seriously injured in the Kilinochchi Magistrate's Court on an incident that was reported from the Akkarayankulam Police in 2022 and a human slaughter in the Kilinochchi police three year..
-
-...
-
-[Data](articles/ca603bde.json)
-
-[Extended Data](ext_articles/ca603bde.ext.json)
-
----
-
-### Sri Lankan security forces killed in Russian -Ukraine war illegally
-
-*2024-05-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183284) · `ta`
-
-Sri Lankan security forces, including retired officers, participated illegally in the Russian-Ukraine war, leading to their deaths. President Ranil Wickremesinghe called for investigations into these incidents, emphasizing the need to prevent Sri Lankans from engaging in foreign conflicts.
-
-🟩
-
-Sri Lankan security forces who participated in the Russian -Ukraine war illegally have died in the National Security Council. It is noteworthy that the army officer who testified thus participated in the Russian -Ukraine war and fled to Sri Lanka.
-
-This was stated at a meeting of the National Security Council at the Army Headquarters last Tuesday under the leadership of President Ranil Wickremesinghe.. There further notes,
-
-Retired officers and soldiers of Sri Lankan security forces have illegally participated in the Russian -Ukraine war. President Ranil Wickremesinghe urged the Security Council that investigations should be carried out on those involved in the war.
-
-Opposition MP Dayasiri Jayasekara and Gamini Valaboda were summoned to the Security Council meeting on those who participated in the Russian -Ukraine war.. This is because both MPs have already released many information regarding the incident. They were called.
-
-...
-
-[Data](articles/9b324f6f.json)
-
-[Extended Data](ext_articles/9b324f6f.ext.json)
-
----
-
-### Internationals cannot provide the mechanism for justice of Tamils - Foreign Minister Ali Sabri
-
-*2024-05-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183281) · `ta`
-
-Foreign Minister Ali Sabri stated that the international community cannot be tasked with creating a justice mechanism for Tamils affected by the Sri Lankan civil war. He emphasized the importance of an internal mechanism, highlighting the need for both Tamil and Sinhalese acceptance. The government's focus on accountability and the creation of a Truth and Reconciliation Commission was discussed, with some arguing for a neutral solution.
-
-🟩
-
-There are problems with people affected by Sri Lankan civil war. Their relatives are fighting justice for the missing.
-
-The government has paid attention to the creation of a mechanism. But Foreign Minister Ali Sabri said that the international community cannot be given the responsibility of creating that mechanism.
-
-In a parliamentary speech last Tuesday, MA Sumanthiran insisted that the internal mechanism would never find a solution and the government should act in accordance with the Rome law.The war is over 15 years after the end of the 19th.
-
-In such a situation, the government's obligation on the issue of accountability continues to be criticized.. The Foreign Minister said this while clarifying this. When he makes more clarified,
-
-...
-
-[Data](articles/a05a0747.json)
-
-[Extended Data](ext_articles/a05a0747.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 16:49:37**
+As of **2024-05-12 17:03:17**
 
 ## Newspaper Stats
 
@@ -26,77 +26,107 @@ adaderanasinhalalk | 3,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,487 (100.0%) of 23,492 articles have been extended.
+23,492 (100.0%) of 23,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### இந்தியப் பிரதமர் மோடியின் சர்ச்சையை கிளப்பிய பேச்சு
+### Indian Prime Minister Modi's controversy
 
 *2024-05-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183318) · `ta`
 
-"நான் உண்மையை பேசியதால் காங்கிரஸ் உள்ளிட்ட எதிர்க்கட்சிகள் கொந்தளிக்கின்றன. காங்கிரஸ் கூறியதை தானே நான் கூறினேன். உண்மை வெளிவந்துவிட்டதே என்று அவர்கள் பதற்றம் அடைந்துவிட்டார்களோ? உண்மையை கண்டு ஏன் பயப்படுகிறீர்கள்?" - நரேந்திர மோடி
+Narendra Modi, the Indian Prime Minister, sparked controversy by stating that opposition parties, particularly the Congress, are uncomfortable with the truth being revealed. He questioned why they fear the truth, suggesting a defensive reaction to his candid remarks.
+
+🟩
+
+“Opposition parties, including Congress, are upset because I have spoken the truth. I have said that the Congress has said. Are they tense that the truth is revealed?Why are you afraid of the truth? ” - Narendra Modi
 
 ◼️
 
 [Data](articles/97c39ab6.json)
 
+[Extended Data](ext_articles/97c39ab6.ext.json)
+
 ---
 
-### கடத்தப்பட வேண்டிய நினைவேந்தல்
+### Kidnapping
 
 *2024-05-12 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183320) · `ta`
 
-“தமிழர்களின் மீது நிகழ்த்தப்பட்ட இன அழிப்பின் சாட்சியங்கள் ஏராளமாக இருந்தபோதும், அதனை சர்வதேசத்தின் கவனத்துக்குக் கொண்டு சென்றபோதும்,  இந்தப் பதினைந்து வருடங்களில் தமிழ் மக்களுக்கு நீதி கிடைக்கவில்லை. நிம்மதியான வாழ்வும் கிட்டவில்லை”
+Despite ample evidence of Tamil genocide, international justice remains elusive, leaving Tamil communities without peace for over a decade.
+
+🟩
+
+“Even though there were plenty of evidence of the genocide on the Tamils, it was brought to the attention of the international community, but the Tamil people have not received justice in these fifteen years.. There is no peaceful life ”
 
 ◼️
 
 [Data](articles/77bc735f.json)
 
+[Extended Data](ext_articles/77bc735f.ext.json)
+
 ---
 
-### பிடிகொடுக்காத ஜப்பான்
+### Japan
 
 *2024-05-12 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183332) · `ta`
 
-இலங்கையுடன் நெருங்கிய நட்புறவையும் அபிவிருத்தி பங்காண்மையையும் கொண்டிருந்த ஜப்பான், போர்க்காலத்தில் அமைதியை ஏற்படுத்துவதற்கான முயற்சிகளுக்கும் பங்களிப்பு செய்திருக்கிறது.
+Japan, a close ally of Sri Lanka, has supported peace efforts during conflicts. The sixth phase of the Ranil Wickremesinghe government met with Japan in Hakone. Japan also appointed Yasushi Akashi as a special ambassador to Sri Lanka for peace and development.
 
-விடுதலைப் புலிகளுடன், ரணில் விக்கிரமசிங்க அரசாங்கத்தின், ஆறாவது கட்டப் பேச்சுகள் ஜப்பானின் ஹகூன் (Hakone) நகரிலேயே இடம் பெற்றிருந்தன.
+🟩
 
-அதுபோலவே இலங்கையில்  அமைதியை ஏற்படுத்துவதற்கும், அபிவிருத்தியை ஏற்படுத்துவதற்கும் உதவிகளை வழங்கும் பொருட்டு, இலங்கைக்கான விசேட தூதுவராக ஜப்பான் தமது மூத்த இராஜதந்திரியான யசூஷி அகாஷியையும் நியமித்திருந்தது.
+Japan, which has a close friendship and development partner with Sri Lanka, has also contributed to efforts to bring peace during the war.
+
+With the LTTE, the sixth phase of the Ranil Wickremesinghe government was in Hakone, Japan.
+
+Similarly, Japan has also appointed its senior diplomat Yasushi Akashi as a special ambassador to Sri Lanka to provide peace and development in Sri Lanka.
 
 ◼️
 
 [Data](articles/7cd845c1.json)
 
+[Extended Data](ext_articles/7cd845c1.ext.json)
+
 ---
 
-### க​ரட் துண்டு இறுகி குழந்தை மரணம்
+### The child's death
 
 *2024-05-12 16:26:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க-ரட்-துண்டு-இறுகி-குழந்தை-மரணம்/175-337182) · `ta`
 
-19 மாத பெண் குழந்தையொன்றின் தொண்டையில் கரட் துண்டொன்று சிக்கியதில், அக்குழந்தை உயிரிழந்துள்ளதாக அனுராதபுரம் சாலியவெவ பொலிஸார் தெரிவித்தனர்.
+A 19-month-old baby was killed by a girl in Anuradhapura, Sri Lanka. The incident occurred at home on November 11th. The parents rushed the child to Nochchiyagama District Hospital, then transferred to Anuradhapura Teaching Hospital.
 
-கடந்த 11ஆம் திகதி மாலை வீட்டில் இருந்த போது இவ்விபத்து இடம்பெற்றுள்ளது. உடனடியாக நடவடிக்கை எடுத்த பெற்றோர், குழந்தையை 1990 அம்புலன்ஸ் சேவையின் ஊடாக நொச்சியாகம மாவட்ட வைத்தியசாலைக்கு கொண்டு சென்றுள்ளனர்.
+🟩
 
-நொச்சியாகம மாவட்ட வைத்தியசாலையில் இருந்து அநுராதபுரம் போதனா வைத்தியசாலைக்கு குழந்தையை உடனடியாக அனுப்ப நடவடிக்கை எடுக்கப்பட்டதாகவும், ஆனால் வைத்தியசாலையில் அனுமதிக்கும் போதே குழந்தை உயிரிழந்துள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+Anuradhapura Saliyawwa police said that the baby was killed in a 19 -month -old girl's throat.
+
+The incident took place at home on the evening of the 11th. Parents who took immediate action were taken to the Nochchiyagama District Hospital through the 1990 ambulance service.
+
+Preliminary investigations have revealed that the child had taken immediate steps to send the child from the Nochchiyagama District Hospital to the Anuradhapura Teaching Hospital.
 
 ◼️
 
 [Data](articles/8add4fcd.json)
 
+[Extended Data](ext_articles/8add4fcd.ext.json)
+
 ---
 
-### பொது வேட்பாளரும் தமிழரசுக் கட்சியும்
+### General candidate and Tamil party
 
 *2024-05-12 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183310) · `ta`
 
-“தமிழ் பொது வேட்பாளர் விடயத்தில் தமிழரசுக் கட்சி இணக்கத்தை வெளிப்படுத்துவதாக இருந்தால் முன்வைக்கும் நிபந்தனைகள் அதன் இழந்த செல்வாக்கை மீட்டெடுப்பதையும் அரசியல் ஆதிக்கம் செலுத்துவதையும் மையப்படுத்தியதாகவே இருக்கும்”
+"If the Tamil National Alliance (TNA) aligns with a common Tamil candidate, it aims to regain its lost influence and political dominance."
+
+🟩
+
+“If the TNA is exposed to compliance with the Tamil common candidate, the conditions that the TNA will be focusing on the restoration of its lost influence and political domination."
 
 ◼️
 
 [Data](articles/e41fc163.json)
+
+[Extended Data](ext_articles/e41fc163.ext.json)
 
 ---
 

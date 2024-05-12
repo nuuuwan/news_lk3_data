@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 00:49:12**
+As of **2024-05-13 01:03:26**
 
 ## Newspaper Stats
 
@@ -26,47 +26,67 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,543 (99.9%) of 23,558 articles have been extended.
+23,553 (100.0%) of 23,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ப்ளே ஓவ் வாய்ப்புக்கு போராடும் றோயல் செலஞ்சர்ஸுக்கு அவசியமான வெற்றி; டெல்ஹி கெப்பிட்டல்ஸை 47 ஓட்டங்களால் வென்றது
+### The success of the Royal Challengers that fight for the Play Whoeing Opportunity;Telhi beat Capitles by 47 runs
 
 *2024-05-12 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183364) · `ta`
 
-பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (12) இரவு மின்னொளியில் நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 62ஆவது போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை எதிர்த்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 47 ஓட்டங்களால் வெற்றிபெற்றது.
+Royal Challengers Bangalore secured a crucial 47-run victory over Delhi Capitals in the 17th IPL, advancing to 5th place. Batting first, they scored 187/9 in 20 overs, with Wil Jex and Rajad Patidar's 88-run partnership key. In response, Delhi lost all wickets in 19.1 overs for 140 runs, with Yash Dayal and Loki Bergasan taking key wickets.
 
-ப்ளே ஓவ் சுற்று தகுதியைப் பெறுவதற்கு கடுமையாக போராடும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கு இது மிகவும் அவசியமான வெற்றியாக அமைந்தது.
+🟩
 
-இந்த வெற்றியுடன் 12 புள்ளிகளைப் பெற்றுள்ள றோயல் செலஞசர்ஸ் பெங்களூரு, அணிகள் நிலையில் 5ஆம் இடத்திற்கு முன்னேறியது.
+Bangalore M. Royal Challengers Bangalore won by 47 runs in the 62nd match of the 17th Indian Premier League Chapter in the Chinnaswamy Stadium on Sunday night.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட றோயல் செலஞ்சர்ஸ் பெங்களூரு 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 187 ஓட்டங்களைப் பெற்றது.
+This was a very essential victory for the Royal Challengers Bangalore team, who struggled to qualify for the Play White Round.
 
-பவ் டு ப்ளெசிஸ் (6), விராத் கோஹ்லி (27) ஆகிய இருவரும் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழக்க றோயல் செலஞ்சர்ஸ் பெங்களூரு 4ஆவது ஓவரில் 36 ஓட்டங்களைப் பெற்றிருந்தது.
+With this victory, Royal Selectors Bangalore advanced to 5th place in teams.
 
-எனினும் வில் ஜெக்ஸ், ராஜாத் பட்டிடார் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் 88 ஓட்டங்களைப் பகிர்ந்து அணியை கௌரவமான நிலையில் இட்டனர்.
+Royal Challengers Bangalore, who was first invited to bat first, scored 187 runs for the loss of 9 wickets in 20 overs.
+
+Royal Challengers Bangalore scored 36 runs in the 4th over to lose the game with the lowest runs.
+
+However, Wil Jex and Rajad Patidar shared 88 runs in the 3rd wicket and gave the team a dignity.
+
+Rajad Patidar scored 52 off 32 balls while Jax scored 41 off 29 balls and lost by 13 runs.
+
+Subsequently, Cemeran Kreen scored 32 runs off 24 balls.
+
+Rashik Salam took 2 wickets for 23 runs while Khalil Ahmad took 2 wickets for 31 runs.
+
+In reply, Telhi Capitols lost all the wickets in 19.1 overs and lost 140 runs.
 
 ...
 
 [Data](articles/2e600f45.json)
 
+[Extended Data](ext_articles/2e600f45.ext.json)
+
 ---
 
-### வவுனியாவில் முள்ளிவாய்க்கால் கஞ்சி வழங்கப்பட்டது!
+### Mullivaikkal porridge was awarded in Vavuniya!
 
 *2024-05-12 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183362) · `ta`
 
-முள்ளிவாய்கால் 15 ஆம் நினைவு நாளை முன்னிட்டு வவுனியாவில் முள்ளிவாய்க்கால் கஞ்சி வழங்கி வைக்கப்பட்டது.
+Mullivaikkal porridge, a symbol of survival during the 2009 war, was presented in Vavuniya on its 15th anniversary, aiming to pass down history to future generations.
 
-வவுனியா மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவுகளால் குறித்த கஞ்சி நகரசபை பொங்கு தமிழ் நினைவு தூபி முன்பாக ஞாயிற்றுக்கிழமை (12) வழங்கி வைக்கப்பட்டது.
+🟩
 
-2009 ஆம் ஆண்டு இறுதி யுத்தத்தின் போது மக்கள் முள்ளிவாய்க்கால் கஞ்சியினை உணவாக உட்கொண்டே  உயிர் பிழைத்தனர். அதனை நினைவு கூர்ந்து அடுத்த தலைமுறைக்கு வரலாற்றை கடத்தும் நோக்குடன் இவ்வாறு கஞ்சி வழங்கப்பட்டது.
+Mullivaikkal porridge was presented in Vavuniya on the 15th anniversary of Mullivaikal.
+
+The Kanji Municipal Council was presented on Sunday (12) in front of the Kanji Municipal Council of the Vavuniya District.
+
+During the final war of 2009, people survived the food of Mullivaikkal Kanji. This was given to the next generation with the aim of transporting history to the next generation.
 
 ◼️
 
 [Data](articles/82bc5b90.json)
+
+[Extended Data](ext_articles/82bc5b90.ext.json)
 
 ---
 
@@ -92,17 +112,23 @@ Following this, Iran has warned that Israel will be very fierce if Israel is re 
 
 ---
 
-### முள்ளிவாய்க்காலில் உயிழந்தவர்களுக்கு யாழ்ப்பாணம் தீவகத்தில் நினைவேந்தல்
+### For those who died in Mullivaikkal
 
 *2024-05-12 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183363) · `ta`
 
-முள்ளிவாய்க்கால் நினைவேந்தல் வாரத்தின் ஆரம்ப நாளான ஞாயிற்றுக்கிழமை (12) தீவகம் நினைவேந்தல் குழுவின் ஏற்பாட்டில் வேலணை வங்களாவடியில் அமைந்துள்ள நினைவுத்தூபியில் நிறைவேந்தல் நிகழ்வு நடைபெற்றது.
+Mullivaikkal commemoration held on Sunday by Diwakam Memorial Committee. A public flame lit for war victims.
 
-இதன் போது இறுதி யுத்தத்தின் போது உயிரிழந்தவர்களுக்கு பொதுச் சுடர் ஏற்றப்பட்டு மலரஞ்சலியும் செலுத்தப்பட்டது.
+🟩
+
+Mullivaikkal's commemorative ceremony was held on Sunday (12), the Diwakam Memorial Committee organized by the Committee of the Committee.
+
+During the final war, a public flame was lit for the victims of the war.
 
 ◼️
 
 [Data](articles/6f92f921.json)
+
+[Extended Data](ext_articles/6f92f921.ext.json)
 
 ---
 
@@ -117,6 +143,8 @@ Apart from the forced resignation of two Rajapaksas, one a President and the oth
 ...
 
 [Data](articles/0bc133ea.json)
+
+[Extended Data](ext_articles/0bc133ea.ext.json)
 
 ---
 
@@ -164,6 +192,8 @@ With support from the Ministry of Technology, Government of Sri Lanka, Uber has 
 
 [Data](articles/4d1b3e50.json)
 
+[Extended Data](ext_articles/4d1b3e50.ext.json)
+
 ---
 
 ### People’s Bank re-launches SPARK entrepreneurial development program to boost SMEs
@@ -179,6 +209,8 @@ The revamped SPARK program now welcomes applications from budding entrepreneurs 
 ...
 
 [Data](articles/7900ae8f.json)
+
+[Extended Data](ext_articles/7900ae8f.ext.json)
 
 ---
 
@@ -196,6 +228,8 @@ Strategically situated in a convenient Colombo neighbourhood, the Gower Street l
 
 [Data](articles/8a14f00c.json)
 
+[Extended Data](ext_articles/8a14f00c.ext.json)
+
 ---
 
 ### Building capacities for Sri Lankan start-ups in renewable energy domain
@@ -211,6 +245,8 @@ India’s Deputy High Commissioner Dr. Satyanjal Pandey delivered the keynote ad
 ...
 
 [Data](articles/84881485.json)
+
+[Extended Data](ext_articles/84881485.ext.json)
 
 ---
 
@@ -286,27 +322,39 @@ Meanwhile, Tharushi Karunaratne, who was infected with the 800mm, was not partic
 
 ---
 
-### வழி தவறிய மேய்ப்பர்களும் நெறிப்படுத்தாத சமூகமும்
+### The way shepherds and the unrelenting society
 
 *2024-05-12 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183340) · `ta`
 
-எதிர்வரும் செப்டம்பர் 17ஆம் திகதிக்கும் ஒக்டோபர் 16ஆம் திகதிக்கும் இடைய்பபட்ட காலத்தில் ஜனாதிபதித் தேர்தல் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. தேர்தல் திகதி உத்தியோகபூர்வமாக அறிவிக்கப்படாவிட்டாலும், ஜனாதிபதித் தேர்தல் நடைபெறும் என்ற எதிர்பார்ப்பின் அடிப்படையில் நாட்டின் அரசியலில் பல நகர்வுகள் மேற்கொள்ளப்படுகின்றன.
+The presidential election is anticipated to occur on September 17 or October 16, despite no official announcement. This expectation is driving significant political activity in the country.
+
+🟩
+
+The presidential election will be held on September 17 and October 16. Although the election date is not officially announced, there are many moves in the politics of the country on the expectation that the presidential election will be held.
 
 ◼️
 
 [Data](articles/a09ec116.json)
 
+[Extended Data](ext_articles/a09ec116.ext.json)
+
 ---
 
-### இரும்பு மனிதரின் மீள் தெரிவு : ரஷ்யாவில் தொடரும் புட்டீனின் ஆட்சி
+### Iron Man's Reconciliation: Putin's rule in Russia
 
 *2024-05-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183345) · `ta`
 
-குறிப்பு: “புட்டீனை ரஷ்ய ஜனாதிபதியாக ஏற்க முடியாது என்ற நிலைப்பாட்டை ஐரோப்பிய நாடுகள் கூட்டாக எடுக்குமாயின், உக்ரேனிய - ரஷ்ய யுத்தம் பற்றி யாருடன் பேசுவது என்ற கடினமான கேள்வி தலைதூக்கும்”. ஒரு வல்லரசு தேசத்தின் அதிகார பலம் சகலதிலும் பிரதிபலிக்கும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த கோலாகலமான அரச சடங்கு. மேடையேறிய புட்டீனின் வீரமுழக்கம் செய்தார். எல்லாவற்றை விடவும் ரஷ்யாவின் பாதுகாப்பிற்கு முன்னுரிமை அளிக்கப் போவதாக சூளுரைத்தார்.
+Iron Man's Reconciliation: Putin's rule in Russia highlights the collective European stance on Putin's presidency and its implications for the Ukrainian-Russian conflict. It underscores Putin's heroic stature and his prioritization of Russia's safety over all else.
+
+🟩
+
+Note: "If European countries collectively take the position that Putin cannot be accepted as the Russian President, the difficult question of whom to talk about about the Ukrainian -Russian war will be headed.". The power of the nation of a superpower nation. The stage made Putin's heroic. He pleaded that he would prioritize Russia's safety than everything.
 
 ◼️
 
 [Data](articles/ab29eddd.json)
+
+[Extended Data](ext_articles/ab29eddd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 10:33:42**
+As of **2024-05-12 10:51:53**
 
 ## Newspaper Stats
 
-*Scraped **23,410** Articles*
+*Scraped **23,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
 islandlk | 1,277
-economynextcom | 1,345
+economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,983
-adaderanalk | 2,738
+adaderanalk | 2,739
 tamilmirrorlk | 2,741
 virakesarilk | 3,476
 dailymirrorlk | 3,681
@@ -26,31 +26,81 @@ adaderanasinhalalk | 3,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,408 (100.0%) of 23,410 articles have been extended.
+23,410 (100.0%) of 23,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### பிற்பகல் 2 மணிக்கு பின் பலத்த மழை பெய்யும்
+### Restrictions on vehicle imports to be relaxed by next year – Semasinghe
+
+*2024-05-12 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99157/restrictions-on-vehicle-imports-to-be-relaxed-by-next-year-semasinghe-) · `en`
+
+State Minister of Finance Shehan Semasinghe states that the government is expected to ease restrictions and gradually allow the import of vehicles by next year.
+
+Speaking to the media in the Anuradhapura area, Semasinghe asserted that presently the government has not allowed a selected group of people to import vehicles and that permission has only been granted to import vehicles for commercial purposes.
+
+“The government does not allow a select group of people to import vehicles. So far, permission to import vehicles has been given only for commercial purposes, which means that only those who are involved in the economic process and commercial activities to contribute to the economy have been allowed to import vehicles thus far”, the State Minister said.
+
+...
+
+[Data](articles/7658c4d0.json)
+
+---
+
+### Heavy rainfall at 2 pm
 
 *2024-05-12 10:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்-பலத்த-மழை-பெய்யும்/175-337150) · `ta`
 
-வடக்கு, வடமத்திய மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் திருகோணமலை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Increased temperatures and heavy rains are expected today across several provinces, with thunderstorms likely after 2 pm. Snowfall is predicted in some areas, and strong winds may cause turbulence in sea regions. The public is advised to be cautious during thunderstorms.
 
-எனினும் நாட்டின் பெரும்பாலான மாகாணங்களின்  பல இடங்களில் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-மத்திய, சப்ரகமுவ,மேல் மற்றும் கிழக்கு  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+The Department of Meteorology has said that increased temperatures will occur today in the Northern, North Central and North Western Provinces as well as in Trincomalee and Batticaloa districts.
 
-மேல் மற்றும்  தென் மாகாண கரையோரப் பிராந்தியங்களில் சில இடங்களில காலை வேளையிலும் மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+However, rain or thunderstorms are expected after two o'clock in the afternoon.
 
-மத்திய, சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Eastern Provinces, as well as in some parts of the Galle and Matara districts.
 
-புத்தளம்  தொடக்கம் கொழும்பு, காலி, ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரத்திற்கு அப்பால் உள்ள  கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Some places in the Western and Southern Province coastal regions are likely to experience rain in the morning.
+
+In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
+
+Rainfall or thunderstorms are likely to occur in many parts of the sea regions beyond the coast of Puttu to Pottuvil via Colombo, Galle and Hambantota.
+
+In the sea regions, the wind blows from the southwest direction or from a different direction at 20 - 30 km / h.
 
 ...
 
 [Data](articles/5420f337.json)
+
+[Extended Data](ext_articles/5420f337.ext.json)
+
+---
+
+### Sri Lanka tea prices rise for third straight week
+
+*2024-05-12 10:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-rise-for-third-straight-week-162659/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s tea price averages rose at the first auction in May, industry data showed, continuing a three-week trend, and with High Growns showing the biggest per kilogram increase in price of 33.97 rupees.
+
+The national weekly sale average increased by 11.98 rupees to 1261.40 rupees a kilogram this week, from 1249.42 rupees a week ago, industry data published by Ceylon Tea Brokers showed.
+
+The weekly average of Sri Lanka’s highest priced teas, the Low Grown, rose by 6.48 rupees to 1350.83 rupees.
+
+OP1 was down 60 rupees, OP/OPA were largely flat. PEK was down 10 rupees and BOP1 were down 40 rupees.
+
+The Medium Grown average rose by 8.28 rupees to 1084.74 rupees.
+
+FBOPs were up 100 rupees BFPFP1 were up 50 PEK1 were down 50 and OP1 was largely flat
+
+The High Grown weekly average rose by 33.97 rupees to 1181.48 rupees a kilogram.
+
+High grown BOPs went up about 30 rupees a kilo while BOPFs were up 50 rupees. BP1 were down 50 rupees and PF1 were up about 30 rupees. (Colombo/June11/2024)
+
+◼️
+
+[Data](articles/a5aede12.json)
 
 ---
 
@@ -160,19 +210,37 @@ The child had fallen into the insecure well near the house yesterday (11), polic
 
 ---
 
-### කූඨ බලපත්‍රවලින් කැනඩා යන්න ගිය ගමන වරදියි
+### The journey to Canada is micro
 
 *2024-05-12 08:00:07* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-බලපත්‍රවලින්-කැනඩා-යන්න-ගිය-ගමන-වරදියි/11-409562) · `si`
 
-කූඨ ලෙස සකස් කළ ගමන් බලපත්‍ර උපයෝගී කර ගෙන කැනඩාවට පළා යාමට තැත් කළ ශ්‍රී ලාංකිකයන් දෙදෙනෙකු කටුනායක ගුවන් තොටුපොළ තුළ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගැනීමෙන් පසු එම කටයුතු මෙහෙය වූ පුද්ගලයා ද 05/11 දින එම දෙපාර්තමේන්තු නිලධාරීන් විසින්  අත් අඩංගුවට ගැනීමට සමත් වී  තිබේ.
+Two Sri Lankans, a 47-year-old from Batticaloa and a 37-year-old from Vavuniya, attempted to flee to Canada using criminal passports. They were arrested at the Emirates Airport on 05/11. The 47-year-old, a resident of Sandilipai, Jaffna, had seven Sri Lankan passports, five of which were found in Canada, and three "Resident Cards" for staying in Canada. They are to be produced in court on 05/12/2011.
 
-මඩකලපුව ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයෙකු සහ වව්නියා ප්‍රදේශයේ පදිංචි 37 හැවිරිදි ශ්‍රී ලාංකික ද්‍රවිඩ ජාතිකයන් දෙදෙනෙකු 05/11 අලුයම එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 648 දරන ගුවන් යානයෙන් ඩුබායි ඔස්සේ කැනඩාව බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-ඔවුන් දෙදෙනා මෙම ගුවන් ගමන සදහා කූඨ ලෙස සකස් කළ ගමන් බලපත්‍ර භාවිතා කර තිබූ හෙයින් , ඔවුන් අත් අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පියවර ගෙන තිබුණි .
+Two Sri Lankans attempting to flee to Canada using two criminal passports used to flee to Canada after he was arrested by the CID on 05/11.Available.
+
+A 47-year-old resident of Batticaloa and 37-year-old Tamils in the Vavuniya area were 520/11, Emirates Airport.
+
+The two had used a license for this flight, Katunayake Airport Criminal Investigations were taken into custody.
+
+After the interrogation of them, they were raided by the criminal investigations and the CID officers were arrested by the person who had prepared the passport in the Negombo tourism hotel.
+
+He is a 47 year old resident of Sandilipai, Jaffna. He is most residents of Canada using resident cards.
+
+When he was arrested, seven Sri Lankan passports were found in his travel bag and five of them were found in Canada.
+
+In addition, the Indian Airlines' stressing aircraft entry (boarding card had been recovered.
+
+Also, "Resident Cards" (Residence card used to stay residential in Canada
+
+Three had been arrested by the CID in his possession.
 
 ...
 
 [Data](articles/2b3412cd.json)
+
+[Extended Data](ext_articles/2b3412cd.ext.json)
 
 ---
 
@@ -329,6 +397,30 @@ He further said that there is no alternative other alternative other than the ec
 [Data](articles/7b02a9d9.json)
 
 [Extended Data](ext_articles/7b02a9d9.ext.json)
+
+---
+
+### China Duty Free operations in Sri Lanka Port City planned in June: Minister
+
+*2024-05-12 06:52:00* · [`economynextcom`](https://economynext.com/china-duty-free-operations-in-sri-lanka-port-city-planed-in-june-minister-162652/) · `en`
+
+ECONOMYNEXT – A duty free shopping complex by China Duty Free in the Colombo Port City is expected to get the go ahead in June, State Minister for Investment Promotion Dilum Amunugama said.
+
+“Port City has signed agreements with China Duty Free,” Minister Amunugama told reporters in Colombo.
+
+A cabinet paper relating to its operations has been submitted.
+
+If the approval is received before June 14, operations will begin on that date, Minister Amunugama said.
+
+Several businesses have already started through the Colombo Port City, pending the construction of its buildings under its regulations.
+
+Approved businesses are expected to use only foreign currencies in the area.
+
+Inside the Port City, Sri Lanka’s bank cannot destroy the future value of money (rupees), create forex shortages or social unrest by printing money to cut rates through aggressive open market operations or unrestrained standing facilities.
+
+...
+
+[Data](articles/44e39de1.json)
 
 ---
 
@@ -2171,63 +2263,5 @@ The post mortem examination is scheduled to be held at the Dambulla Base Hospita
 [Data](articles/79a1af16.json)
 
 [Extended Data](ext_articles/79a1af16.ext.json)
-
----
-
-### Not only on-arrival visas but online visas too should be stopped
-
-*2024-05-11 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-only-on-arrival-visas-but-online-visas-too-should-be-stopped/108-282383) · `en`
-
-Colombo, May 11 (Daily Mirror) - Not only the on-arrival visa but the online visa system too should be stopped, as it already affects the number of foreigners who usually arrive in the country, a senior official of the Immigration and Emigration Department said.
-
-The official who refused to reveal his identity told the Daily Mirror that due to the above online system issues, a significant reduction in tourists can be seen when visiting the arrival and departure lounge at the Bandaranaike International Airport Katunayake.
-
-"Some foreigners used to visit our country for business purposes, but this has been reduced. The Tourism Ministry has a target of developing the tourism sector of the country, but with the new system it has become only a target.
-
-"The under-hand transactions of this on-arrival and online visa system are completely politicised," he said.
-
-According to the official, not only politicians but country leaders are also involved.
-
-...
-
-[Data](articles/566e819b.json)
-
-[Extended Data](ext_articles/566e819b.ext.json)
-
----
-
-### Parliament gathered on May 13th and 14
-
-*2024-05-11 10:22:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව--මැයි-13-සහ-14-රැස්වෙයි/11-409556) · `si`
-
-Parliament convened on May 13th and 14th, with discussions on various topics including the Excise Ordinance, Foreign Exchange Act, Appropriation Act, and Development Act. The session began at 9:30 am, followed by debates on motions and the annual report. On May 14th, the Parliament continued with discussions on the Palestinian crisis and other matters.
-
-🟩
-
-MP Kushani Rohanahandera said that the Parliament will meet on Tuesday and 14th on Monday and 14th May.. 5 The week arrangements have been decided at the Committee on Parliamentary Affairs Committee chaired by Speaker Mahinda Yapa Abeywardena.
-
-Parliament eats at 9.30 am on Monday at 9.30 am and 10.30 am to 1030 am.
-
-...
-
-[Data](articles/0e48b71c.json)
-
-[Extended Data](ext_articles/0e48b71c.ext.json)
-
----
-
-### Debt owed by Pakistan, Sri Lanka and Bangladesh to China rise to record levels: Data
-
-*2024-05-11 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99143/debt-owed-by-pakistan-sri-lanka-and-bangladesh-to-china-rise-to-record-levels-data) · `en`
-
-Debt owed by various countries, especially in South Asia and Africa, to China has multiplied in recent years. China is either the sole or the major lender for the majority of these countries. In other words, these nations owe a large share of their external debt only to China.
-
-Only the top 20 countries that owe the most debt to China in absolute terms in 2022 are depicted. External debt stock is the debt owed by a country to non-residents repayable in currency, goods, or services. It is the sum of all public, publicly guaranteed, and private non-guaranteed long-term debt, and short term debts.
-
-...
-
-[Data](articles/53f89c41.json)
-
-[Extended Data](ext_articles/53f89c41.ext.json)
 
 ---

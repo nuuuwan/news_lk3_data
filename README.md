@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 21:18:19**
+As of **2024-05-12 21:33:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,521 (100.0%) of 23,522 articles have been extended.
+23,522 (100.0%) of 23,522 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,25 +144,33 @@ The people living in these areas should be aware of this and the organization sa
 
 ---
 
-### කෝටි 10 අම්බර් කිලෝ 34 ක් සොයා ගනී
+### $ 10 kilometers find 34 kg
 
 *2024-05-12 18:46:31* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-10-අම්බර්-කිලෝ-34-ක්-සොයා-ගනී/11-409576) · `si`
 
-කල්පිටිය කන්දකුලිය ප්‍රදේශයෙ නිවසක පිටුපස වලදමා තිබු රුපියල් කෝටි 10 කට අධික වටිනාකමකින් යුත් බව කියන අම්බර් (තල්මස් වමනය) කිලෝ 35 කට ආසන්න ප්‍රමානයක් සමග සැකකරුවන් 5 දෙනෙකු පුත්තලම කොඨඨාශ අපරාධ විමර්ශන කාර්යාංශයෙ නිළධාරීන් විසින් 12 දින අත් අඩංගුවට ගත් බව කියයි.
+CID officers arrested five suspects linked to a massive gold haul found in a raid. The gold, weighing 34 kg, was discovered in a fishing vessel off the coast of Puttalam. The suspects, including Kandiliya fishermen, were taken into custody for further investigation. The case is being handled by the CID's Investigation Bureau, with the suspects expected to be produced in court at the end of the investigation.
 
-වනාතවිල්ලුව පොලිස් කාර්යාංශයට ලැබුන තොරතුරක් මත පුත්තලම කොඨඨාශ අපරාධ විමර්ශන කාර්යාංශ නිළධාරීන් සමග එක්ව සිදුකල වැටලිමේදි මෙම දැවැන්ත අම්බර් තොගය සොයා ගැනිමට සමත් වු බව කියයි.
+🟩
 
-අදාල අම්බර් තොගය මුහුදේ පාවෙමින් තිබියදී කන්දකුලිය ධීවරයින් විසින් ධීවර යාත්‍රාවක සගවා රහසේ ගොඩ බිමට රැගෙන විත් අලේවි කිරීම සදහා මෙසේ තබා ඇති බව කියයි.
+Five suspects have been arrested by the CID officers who were in charge of Rs.
 
-කෙසේ වෙතත් මෙම අම්බර් තොගය පිළිබදව ලැබුන තොරතුරු මත අදාල නිවස වටලා පරික්ෂා කිරීමේදි නිවස පිටුපස ඉතා ආරක්ෂීතව වල ඔතා වල දමා තිබු බව කියයි.
+According to Wanathavilluwa, Puttalam Planters said that the massive hember was found in the rallid of the CID.
 
-තල්මස් වමනය ලෙස හැදින්වෙන අම්බර් විශාල රත්‍රන් වලට සමාන මිලක් ඇති  බව කියයි.
+Despite the stock of pins, Kandiliya fishermen were placed in a fishing vessel and was placed in a fishing vessel.
 
-කෙසේ වෙතත් මෙම අම්බර් තොගය මුහුදින් රැගෙන ආ සැකකාර ධීවරයින් හා එය වල දමා තිබු නිවසේ සැකකරුවන සමග පස් දෙනෙකු මෙලෙස අත් අඩංගුවට ගෙන ඉදිරි විමර්ශන සදහා කල්පිටිය පොලිසිය භාරයට පත් කර ඇති බව කියයි.
+However, it is said that the house was raided the house on the information received on the stock, he said he was covered with security in the back.
+
+A phrase known as the whale vomiting says that big gold has a similar price.
+
+However, five people arrested with the suspects and the suspects who were brought to the sea with the suspects and the suspects of the suspects were taken into custody.
+
+The CID Marketing Bureau of Police Inspector General Inspector General (CID) Investigation Bureau of Police Inspector General of Police (CID) Master Inspector General of Investigation Bureau October, October Officers and Officers have started further investigations.
 
 ...
 
 [Data](articles/067846df.json)
+
+[Extended Data](ext_articles/067846df.ext.json)
 
 ---
 

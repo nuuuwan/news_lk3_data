@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 06:59:52**
+As of **2024-05-12 07:22:58**
 
 ## Newspaper Stats
 
-*Scraped **23,387** Articles*
+*Scraped **23,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 206
 bbccomsinhala | 243
 dbsjeyarajcom | 244
 newsfirstlk | 363
-islandlk | 1,273
+islandlk | 1,275
 economynextcom | 1,345
 dailyftlk | 1,356
 adalk | 1,979
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,377 (100.0%) of 23,387 articles have been extended.
+23,380 (100.0%) of 23,389 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ My first impressions of Iraq were positive. Upon arrival at Saddam International
 
 [Data](articles/e520529c.json)
 
+[Extended Data](ext_articles/e520529c.ext.json)
+
 ---
 
 ### A Life-Changing Experience in Family Medicine: Lessons from Jaffna
@@ -56,6 +58,8 @@ Under the guidance of the Consultant Family Physician and Senior Registrar of Fa
 
 [Data](articles/77440f2e.json)
 
+[Extended Data](ext_articles/77440f2e.ext.json)
+
 ---
 
 ### My aachcho’s jaadi making at Paiyagala
@@ -67,6 +71,8 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 ...
 
 [Data](articles/bef932f7.json)
+
+[Extended Data](ext_articles/bef932f7.ext.json)
 
 ---
 
@@ -487,6 +493,30 @@ According to his affidavit, Sandhu declared moveable and immovable assets owned 
 [Data](articles/dc28d8cd.json)
 
 [Extended Data](ext_articles/dc28d8cd.ext.json)
+
+---
+
+### Singer Sri Lanka recognized as a strategic alliance partner at Sony’s annual BPC in Singapore
+
+*2024-05-11 18:37:00* · [`islandlk`](http://island.lk/singer-sri-lanka-recognized-as-a-strategic-alliance-partner-at-sonys-annual-bpc-in-singapore-2/) · `en`
+
+Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoured as a Strategic Alliance Partner at Sony’s recently held Annual Business Partner Conference (BPC) in Singapore. This recognition underscored the robust partnership between the two entities and highlights Singer’s dedication to bringing cutting-edge Sony technology to Sri Lankan consumers.
+
+...
+
+[Data](articles/328a7408.json)
+
+---
+
+### IASL introduces office bearers for the 2024/25 tenure
+
+*2024-05-11 18:36:00* · [`islandlk`](http://island.lk/iasl-introduces-office-bearers-for-the-2024-25-tenure/) · `en`
+
+The Insurance Association of Sri Lanka (IASL) the representative body of the insurance industry in the country has announced the reappointment of its esteemed office bearers for the year 2024/25. The reappointment comes as a testament to the dedication, expertise, and commitment demonstrated by these individuals towards advancing the insurance industry in Sri Lanka. The event took place on the 27th of March, 2024 at the Annual General Meeting. Subsequently the sub-committee members were also appointed for the said term at the IASL Executive Committee Meeting which was held on the 3rd of May 2024.
+
+...
+
+[Data](articles/2d185b67.json)
 
 ---
 
@@ -2231,43 +2261,5 @@ She lost her parliamentary seat on the grounds that she is a UK citizen. The Sup
 [Data](articles/46aa8c6d.json)
 
 [Extended Data](ext_articles/46aa8c6d.ext.json)
-
----
-
-### Diana under immigration radar for overstaying visa since 2014
-
-*2024-05-11 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Diana-under-immigration-radar-for-overstaying-visa-since-2014/155-282342) · `en`
-
-Colombo, May 10 (Daily Mirror) -  In the wake of UK citizenship holding Diana Gamage losing her parliamentary seat following a ruling by the Supreme Court, the immigration authorities are planning to consult the Attorney General to inquire into how she lived in Sri Lanka without a valid visa since she last arrived in the country on a tourist visa since around 2014, an official said.
-
-She lost her parliamentary seat on the grounds that she is a UK citizen. The Supreme Court observed that the evidence before the Court establishes that Diana Gamage ceased to be a citizen of Sri Lanka upon acquiring British citizenship and failed to resume the status of citizen of Sri Lanka according to law. She is thereby disqualified to be an MP by the Constitution.
-
-...
-
-[Data](articles/6c487faf.json)
-
-[Extended Data](ext_articles/6c487faf.ext.json)
-
----
-
-### Authorities on alert as illicit fags flow from airport
-
-*2024-05-11 03:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Authorities-on-alert-as-illicit-fags-flow-from-airport/108-282382) · `en`
-
-Law enforcement agents are on alert as illicit cigarettes in bulk arrive at the airport and were also found within the country during the last couple of days amounting to the value of over Rs.1.5 million.
-
-Two separate attempts to smuggle in imported brands of cigarettes were thwarted by the Police Narcotics Bureau (PNB) officials at the Bandaranaike International Airport (BIA) on Tuesday and Wednesday.
-
-A Sri Lankan passenger returning from Muscat, Oman was intercepted by the officials at the Arrival Terminal while in possession of illicit cigarettes worth over Rs.860,000. The passenger had been identified as a resident of Parakaduwa.
-
-Meanwhile, on Wednesday police took another person into custody when he was returning from Dubai and having illicit cigarettes worth over Rs. 640,000 in his baggage.
-
-The officials seized 43 cartons of a brand of cigarettes from the first detection, whilst 32 cartons of the same brand were seized from the second case.
-
-...
-
-[Data](articles/4f4e98b4.json)
-
-[Extended Data](ext_articles/4f4e98b4.ext.json)
 
 ---

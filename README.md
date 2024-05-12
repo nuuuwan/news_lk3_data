@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 02:03:25**
+As of **2024-05-13 02:18:29**
 
 ## Newspaper Stats
 
-*Scraped **23,565** Articles*
+*Scraped **23,569** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 211
+colombotelegraphcom | 212
 bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
-dailyftlk | 1,364
+dailyftlk | 1,367
 adalk | 2,002
 adaderanalk | 2,751
 tamilmirrorlk | 2,760
@@ -26,11 +26,55 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,565 (100.0%) of 23,565 articles have been extended.
+23,565 (100.0%) of 23,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
+
+*2024-05-13 01:59:55* · [`dailyftlk`](https://www.ft.lk/business/AHK-Sri-Lanka-organises-first-ever-delegation-to-Hannover-Messe-2024-in-Germany/34-761712) · `en`
+
+With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24 to 26 April.
+
+AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunugama to lead the delegation along with other Government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
+
+...
+
+[Data](articles/d59358c1.json)
+
+---
+
+### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
+
+*2024-05-13 01:59:02* · [`dailyftlk`](https://www.ft.lk/business/AHK-Sri-Lanka-organises-first-ever-delegation-to-Hannover-Messe-2024-in-Germany/34-761711) · `en`
+
+With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24 to 26 April.
+
+AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunugama to lead the delegation along with other Government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
+
+...
+
+[Data](articles/65e35b52.json)
+
+---
+
+### ABMCL bags National Quality Award
+
+*2024-05-13 01:53:20* · [`dailyftlk`](https://www.ft.lk/business/ABMCL-bags-National-Quality-Award/34-761710) · `en`
+
+ABMCL Director/CEO P. Sarkar receives award from State Minister for Technology Kanaka Herath
+
+Associated Battery Manufacturers (Ceylon) Ltd., (a subsidiary of Exide Industries Ltd.,) [ABMCL] was honoured with the Sri Lanka National Quality Award under the Manufacturing - Medium Scale category organised by the Sri Lanka Standards Institution (SLSI), at the Monarch Imperial, Thalawathugoda
+
+The Company is the manufacturer of renowned automotive batteries, Exide, Lucas and Dagenite.
+
+...
+
+[Data](articles/6c8ddffa.json)
+
+---
 
 ### Completely suspend work on reorganizing state institutions - urging Mahinda Rajapaksa government
 
@@ -679,6 +723,18 @@ The 14 arrested have been remanded until 15 of the Nugegoda Magistrate's Court.
 [Data](articles/3164e49d.json)
 
 [Extended Data](ext_articles/3164e49d.ext.json)
+
+---
+
+### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin? – Part III
+
+*2024-05-12 20:33:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin-part-iii/) · `en`
+
+The desperation in western capitals is more than palpable. The looming defeat in Ukraine – the fulcrum of Washington’s strategy to dominate Eurasia – has all but sealed the fate of the Neo-Conservatives’ Project for the New American Century to bring about a virtually endless global US domination. The rise of China, a resurgent Russia and the emerging BRICS are trashing NeoCon Francis Y. Fukuyama’s absurd ahistorical notion. Following the collapse of the USSR, he imagined an irrational hegemony of almost endless universal capitalist Liberal-Democracy, centred in the US, as the epitome of human political evolution in his “The End of History and the Last Man”. (Meanwhile he held several key academic positions in elite US universities.)
+
+...
+
+[Data](articles/91230ed1.json)
 
 ---
 
@@ -2109,107 +2165,5 @@ Thereafter, a cassette and two smartphones stolen in three houses in the Soloon 
 [Data](articles/8b53c3f5.json)
 
 [Extended Data](ext_articles/8b53c3f5.ext.json)
-
----
-
-### 26 billion rupees to the children's food program in primary grades
-
-*2024-05-12 13:42:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-ශ්‍රේණිවල-දරුවන්ගේ-ආහාර-වැඩසටහනට-වැය-වන-මුදල-රුපියල්-බිලියන-26ක්/11-409569) · `si`
-
-The Minister of Education, Susil Premajayantha, highlighted a proposal for a 26 billion rupee children's food program in primary grades, contrasting it with political statements promising 17 billion rupees for all students. He emphasized the importance of creating a positive atmosphere in the country, referencing the recent past and the need for intelligent decision-making.
-
-🟩
-
-Minister of Education Susil Premajayantha said that some individuals have been making popular statements from political platforms for 17 billion rupees to cover all the students of primary grades.He said that politicians say that all school children will give lunch to all school children in the country should be performed in this statement.
-
-The Minister of Education made this observation as the Chief Guest at the opening of the new six-story complex built on At At Attidiye.
-
-Speaking further Mr. Susil Premajayantha said he had created a positive atmosphere in the country as short as two years ago.
-
-He said that it had to be taken to effort and re-recall the devastating situation where many people today were present.. He said that when the democratic mechanism was completed and the democratic mechanism, which was completed and the war in the country, the democratic mechanism would be restored to the end of 14 hours a day.
-
-...
-
-[Data](articles/23fa2028.json)
-
-[Extended Data](ext_articles/23fa2028.ext.json)
-
----
-
-### 4000 people were strengthened to protest Kalmunai
-
-*2024-05-12 13:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-போராட்டத்துக்கு-4000-பேர்-வலுச்சேர்த்தனர்/175-337173) · `ta`
-
-4,000 civilians protested in Kalmunai, condemning administrative repression. The rally, lasting fifty days, intensified the Kalmunai Tamil struggle, highlighting injustices and marching through the town.
-
-🟩
-
-Fifty days, the struggle of the civilian organizations at the Kalmunai North Divisional Secretariat, condemning the administrative repression of the Kalmunai North Divisional Secretariat.
-
-About 4,000 civilians came in the procession and participated in the protest. As a result, the Kalmunai Tamil struggle has intensified.
-
-4,000 people participated in the rally at the Northern Divisional Secretariat and went to the Data Pillaiyar Temple and reached the Divisional Secretariat again. People came around for a long time, chanting slogans.
-
-The realities of their realities and the injustices that they have done to the people of Kalmunai and the Kalmunai North Divisional Secretariat, who came to the boiling tar road in the boiling tar road and participated in the people's struggle.
-
-◼️
-
-[Data](articles/37f3cb45.json)
-
-[Extended Data](ext_articles/37f3cb45.ext.json)
-
----
-
-### Stolen former Mayor's revolver in Ratnapura
-
-*2024-05-12 13:34:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-රිවෝල්වරය-සොරාගෙන/11-409568) · `si`
-
-Ratnapura police report the theft of a former Mayor's revolver, Tyrone Attanayake's, from his home. An unidentified man demanded money and fled with the 38 caliber revolver, valued at Rs. 48,000, received in 2021.
-
-🟩
-
-Ratnapura police say that the revolver of former Mayor of Ratnapura has stolen the revolver of Tyrone Attanayake
-
-At about 7.00 pm on the 10th night, an unidentified man who had come to his home was requested for a thousand rupees and that the man had been leaving for a while.
-
-The yard was situated in a bench in the yard until the second time arrived.
-
-The complaint had had the 38 revolver in the cab that was stopped in the house at Tiran Attanayake's yard.
-
-It has also been reported that he received the 38 category of revolver in 2021 and that it was worth about Rs. 48,000.
-
-◼️
-
-[Data](articles/2f6afbca.json)
-
-[Extended Data](ext_articles/2f6afbca.ext.json)
-
----
-
-### President appeals to Economic Translation Act
-
-*2024-05-12 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196534) · `si`
-
-President Ranil Wickremesinghe urges Parliament to back the economic translation bill for stability, aiming for a 3% growth rate and salary hikes for public servants. The event, held on International Nurses Day at Temple Trees, also saw the presence of former President Mahinda Rajapaksa and Health Minister Dr. Ramesh Pathirana.
-
-🟩
-
-President Ranil Wickremesinghe requests all parties in Parliament to support the economic translation bill for the economic stability.
-
-It was at the event held at Temple Trees for the International Nursing Day.
-
-"Our hope is a growth rate of 3% to the minimum required year of the year. So when you have 3% growth rate, we also focus on increasing the stairs to public servants. We're coming to a condition IMF and with the countries that lend us. We don't print money. "
-
-Florence Nightingul has declared as the International Nurses Day on May 12 based on the scene of the nurses.
-
-The International Nurses Day Celebrations chaired by President Ranil Wickremesinghe was held at Temple Trees this morning.
-
-Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Minister Dr. Ramesh Pathirana and health sector were also present.
-
-◼️
-
-[Data](articles/6b3092c7.json)
-
-[Extended Data](ext_articles/6b3092c7.ext.json)
 
 ---

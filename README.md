@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 03:03:23**
+As of **2024-05-13 03:18:18**
 
 ## Newspaper Stats
 
@@ -254,7 +254,7 @@ When I ruled as President from 2005 to 2015, I did not privatize and sell any re
 
 ### 1 kg 760 g cannabis recovery in Kilinochchi!
 
-*2024-05-13 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183365) · `ta`
+*2024-05-13 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183365) · `ta`
 
 In Kilinochchi, 1 kg of cannabis was recovered, including 760g from a motorcycle and two suspects in Kanakapuram and Vivekananda Nagar. The suspects were on their way to a cannabis business when caught. Further investigations are ongoing by the Kilinochchi Police STF.
 

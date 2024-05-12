@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 01:03:26**
+As of **2024-05-13 01:18:24**
 
 ## Newspaper Stats
 
-*Scraped **23,558** Articles*
+*Scraped **23,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
-dailyftlk | 1,361
+dailyftlk | 1,364
 adalk | 2,002
 adaderanalk | 2,750
 tamilmirrorlk | 2,760
@@ -26,9 +26,49 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,553 (100.0%) of 23,558 articles have been extended.
+23,558 (100.0%) of 23,561 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-13 (Monday)
+
+### President announces plans to pass women-empowering bills in Parliament by June
+
+*2024-05-13 00:55:57* · [`dailyftlk`](https://www.ft.lk/news/President-announces-plans-to-pass-women-empowering-bills-in-Parliament-by-June/56-761699) · `en`
+
+At the launch of Good Gestures for Empowerment of Women and Girls Movement by DP Education Founder MP Dhammika Perera, President lists key upcoming legislations and new initiatives
+
+National Policy on Gender Equality, Women Empowerment; National Commission on Women; Mechanism to Protect Women’s Rights; and Prosecution for Violations of Women’s Rights
+
+Says laws should be amendment to ensure high percentage of women in politiebureau of political parties
+
+President commends Dhammika Perera for creating a new paradigm in education via DP Education
+
+Says launch of hand gestures serves as practical tool to combat harassment of women and girls
+
+President Ranil Wickremesinghe on Friday emphasised his recognition of the challenges women face in safeguarding their families amidst the economic crisis. He highlighted the Government’s swift action by presenting two bills to the Parliament aimed at empowering women during this initial phase of economic recovery.
+
+...
+
+[Data](articles/b507aa73.json)
+
+---
+
+### Good Gestures for Empowerment
+
+*2024-05-13 00:50:54* · [`dailyftlk`](https://www.ft.lk/news/Good-Gestures-for-Empowerment/56-761698) · `en`
+
+The Good Gestures for Empowerment movement is in line with the United Nations Sustainable Development Goals (SDGs) Target 5.2, which advocates for the elimination of all forms of violence against women and girls in public and private realms. The three gestures launched yesterday were to convey the following message “You are harassing me” and “You are harassing me, and I need public help” aimed at those who may be subject to harassment and “I’m sorry, I respect your space” for possible offenders. The gestures were created by Andy Jacobs, from US Hawaii who is a TV and Internet producer.
+
+To discourage sexual harassment online or in the cyber space, a different set of emojis will be launched as well.
+
+DP Global Gestures for Empowerment or GG movement is being introduced to eradicate sexual harassment against women and girls in public spaces and to empower them to combat harassment effectively.
+
+...
+
+[Data](articles/92ca1c7e.json)
+
+---
 
 ### 2024-05-12 (Sunday)
 
@@ -322,6 +362,20 @@ Meanwhile, Tharushi Karunaratne, who was infected with the 800mm, was not partic
 
 ---
 
+### Economic growth, national security, and what next for Sri Lanka
+
+*2024-05-12 22:03:34* · [`dailyftlk`](https://www.ft.lk/columns/Economic-growth-national-security-and-what-next-for-Sri-Lanka/4-761675) · `en`
+
+Economic growth and national security are complementary to each other
+
+When States fail to observe the Rule of Law and maintain the Law and Order, markets will start disintegrating themselves leading to a collapse of the same. Collapsed markets will stunt economic growth and stunted growth, as we have explained earlier, will reduce national security. Consequently, the resources spent on national security is not a waste but an essential cost to ensure the smooth operation of all the needed economic activities. Hence, no nation should compromise the national security on the ground of saving resources. It will cause the nations to sacrifice all their gains on all the economic fronts
+
+...
+
+[Data](articles/7fd4fb50.json)
+
+---
+
 ### The way shepherds and the unrelenting society
 
 *2024-05-12 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183340) · `ta`
@@ -458,23 +512,35 @@ The examination is being held at the meeting a tuition teacher in the Hasalaka a
 
 ---
 
-### ராஜஸ்தானை வீழ்த்தி ப்ளே ஒவ் வாய்ப்பை சற்று அதிகரித்துக் கொண்டது சென்னை
+### Chennai has been a bit of a player chance to beat Rajasthan
 
 *2024-05-12 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183360) · `ta`
 
-சென்னை எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (12) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 61ஆவது போட்டியில் ராஜஸ்தான் றோயல்ஸை எதிர்த்தாடிய சென்னை சுப்பர் கிங்ஸ் 5 விக்கெட்களால் வெற்றிபெற்றது.
+Chennai Super Kings clinched a 5-wicket victory over Rajasthan in the 61st IPL match, thanks to Ruturaj Gaikwad's 42 runs and accurate bowling. Rajasthan, batting first, scored 141/5 in 20 overs, with Yaswani Jaiswal (24) and Jos Buttler (21) leading the charge. Chennai reached 145/5 in 18.2 overs, with Ruturaj Gaikwad and contributions from Rachin Ravindra, Tylor Michelle, Shivam Dube, and Sam Curran.
 
-இந்த வெற்றியுடன் தனது ப்ளே ஓவ் வாய்ப்பை சென்னை சுப்பர் கிங்ஸ் சற்று அதிகரித்துக்கொண்டுள்ளது.
+🟩
 
-எனினும் சென்னைக்கு றோயல் செலஞ்சர்ஸ் பெங்களூருடன் மாத்திரம் ஒரு போட்டி மிஞ்சியிருப்பதுடன் அப் போட்டி இலகுவாக அமையப்போவதில்லை.
+Chennai M. A.. Chennai Super Kings won by 5 wickets in the 61st match of the 17th Indian Premier League chapter held at Chidambaram Stadium on Sunday (12).
 
-சுவாரஸ்யம் இன்றி நடைபெற்ற இப் போட்டியில் மிகத் துல்லியமாக பந்துவீசி ராஜஸ்தான் றோயல்ஸை சுமாரான மொத்த எண்ணிக்கைக்கு கட்டுப்படுத்திய சென்னை  சுப்பர்  கிங்ஸ், நிதானத்துடன் துடுப்பெடுத்தாடி வெற்றியீட்டியது.
+With this victory, Chennai Super Kings have been increasingly increasing with its Playing opportunity.
 
-ராஜஸ்தான் றோயல்ஸினால் நிர்ணயிக்கப்பட்ட 142 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய சென்னை  சுப்பர்   கிங்ஸ் 18.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 145 ஓட்டங்களைப் பெற்று மிகவும் அவசியமான வெற்றியை ஈட்டியது.
+However, Royal Challengers have only a match with Royal Challengers Bangalore and the up -the -up competition is not easy.
+
+Chennai Super Kings won the match with the most accurate bowling of Rajasthan Royals, which was very accurate in this match.
+
+Chennai Super Kings lost 5 wickets in 18.2 overs and scored 145 runs.
+
+In order to fall in Chennai's wickets, team captain Ruthuraj Kaikwad was very responsible and confirmed the team's victory with 42 runs without losing 41 balls.
+
+Rachin Ravindra (27), Tryl Michelle (22), Shivam Tube (18) and Sameer Rizvi (15 AE) scored more than 10 runs.
+
+Rajasthan Royals, who had previously decided to bat first in the upting match, scored 141 runs for the loss of 5 wickets in 20 overs.
 
 ...
 
 [Data](articles/ecfbf8c1.json)
+
+[Extended Data](ext_articles/ecfbf8c1.ext.json)
 
 ---
 
@@ -620,25 +686,33 @@ The doctor claimed that economic challenges are the primary reason for the decli
 
 ---
 
-### மே-18,முள்ளி வாய்க்கால் கஞ்சி வாரம் ஆரம்ப நிகழ்வு
+### May-18, Mulli Drain Kanji Week
 
 *2024-05-12 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183359) · `ta`
 
-மே-18,முள்ளி வாய்க்கால் கஞ்சி வாரம் ஆரம்ப நிகழ்வு ஞாயிற்றுக்கிழமை (12) மட்டக்களப்பு செங்கலடி பதுளை வீதி சந்தியில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+The inauguration of Kanji Week on May 18th, organized by the Civil Organization of Batticaloa, commemorates the Mullivaikkal story. Participants brewed and served porridge in a pot symbolizing May-18, highlighting the hardships of the 2009 war, including death, hunger, and the thorny survival in the Vanni landscape. This event, aimed at sharing the pain, will continue across the Batticaloa district until May 18th.
 
-கஞ்சி பரிமாறுவோம் முள்ளிவாய்க்கால் வலி சுமந்த கதை பகிர்வோம் என்ற தொனி பொருளில் மட்டக்களப்பு சிவில் அமைப்பினால் இவ் நினைவேந்தல் நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
 
-இதன்போது மே-18 என இலக்கம் பொறிக்கப்பட்ட பானையில் கஞ்சி காய்ச்சப்பட்டு வீதியில் சென்றோர்களுக்குப் பரிமாறப்பட்டது.
+The inauguration of the Kanji Week, May 18, was organized at the Chengaladi Badulla Road junction in Batticaloa on Sunday (12).
 
-அத்துடன் முள்ளி வாய்க்கால் வலி சுமந்த கதை பகிர்வோம் என்ற தலைப்பிலான துண்டுப் பிரசுரங்களும் மக்களின் பார்வைக்கு விநியோகிக்கப்பட்டது.
+This commemorative event was organized by the Civil Organization of Batticaloa in the sense of sharing the story of Mullivaikkal.
 
-2009 ஆம் ஆண்டு இறுதி யுத்தத்தின் போது மரணமும் பசியும் சூழ்ந்திருந்தது. பணத்திற்கு எந்த பெறுமதியும் இருக்கவில்லை. வாங்குவதற்கு எந்த உணவுப் பொருளும் இருக்கவில்லை.
+The porridge was brewed in a pot, which was used as May-18, and served to the people on the road.
 
-இந் நிலையில்தான் வன்னி நிலப்பரப்பில் மக்கள் தம் உயிர் பிழைப்புக்கென முள்ளி வாய்க்கால் கஞ்சி என்கின்ற ஜீவாமிர்தத்தை அறிமுகப்படுத்தினர்.
+In addition, pamphlets titled "Let's Share the Story of Pain."
 
-...
+Death and hunger were surrounded during the final war of 2009. There is no value for money. There is no food for purchase.
+
+It is at this point that the people in the Vanni landscape introduced the life of the thorns for their survival.
+
+It is noteworthy that the Mulli Vaikkal Kanji week will be held in various places in the Batticaloa district until the 18th of May.
+
+◼️
 
 [Data](articles/98bb3cda.json)
+
+[Extended Data](ext_articles/98bb3cda.ext.json)
 
 ---
 
@@ -778,19 +852,27 @@ A speedy program has been launched to build land and houses for those who have l
 
 ---
 
-### எதிர்வரும் ஆண்டில் 3% பொருளாதார வளர்ச்சி எதிர்பார்க்கப்படும் நிலையில், அரச ஊழியர்களின் சம்பளத்தையும் அதிகரிக்க நடவடிக்கை எடுக்கப்படும் - ஜனாதிபதி
+### With 3% economic growth expected in the coming year, steps will be taken to increase the salaries of civil servants- the president
 
 *2024-05-12 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183358) · `ta`
 
-2025ஆம் ஆண்டில் இலங்கையின் பொருளாதார வளர்ச்சி வீதம் 3% ஆக உயரும் என எதிர்பார்ப்பதாகவும் அதற்கமைய அரச ஊழியர்களின் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+It seems like you've shared a comprehensive overview of recent developments and initiatives in Sri Lanka, focusing on economic reforms, the introduction of new laws, the celebration of International Nurses Day, and the establishment of the University of Sri Lanka. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps how to integrate this information into a specific project or document? Please let me know how I can be of help.
 
-அலரிமாளிகையில் ஞாயிற்றுக்கிழமை (12) முற்பகல் நடைபெற்ற சர்வதேச தாதியர் தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-ஏற்றுமதி பொருளாதாரத்துடன் நாட்டின் பொருளாதாரத்தை விரைவான அபிவிருத்தியை நோக்கி கொண்டு செல்வதற்கு நான்கு பிரதான சட்டங்கள் அறிமுகப்படுத்தப்படும் என்று தெரிவித்த ஜனாதிபதி,  மத்திய வங்கியை சுயாதீனமாக செயற்பட அனுமதிக்கும்   மத்திய வங்கிச் சட்டம் ஏற்கனவே நிறைவேற்றப்பட்டுள்ளதாகவும், அரச கடன் முகாமைத்துவ சட்டம், அரச நிதிச் சட்டம், பொருளாதார பரிமாற்றச் சட்டம் உள்ளிட்ட சட்டமூலங்கள் இந்த ஜூன் மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் எனவும் தெரிவித்தார்.
+President Ranil Wickremesinghe said that Sri Lanka's economic growth rate would rise to 3% by 2025 and steps would be taken to increase the salaries of public servants.
+
+The President made this statement while addressing the International Nurses Day event held on Sunday (12) at the Allaimalai.
+
+The President said that four major laws would be introduced to move the country's economy with the export economy, and that the central bank law has already passed the Central Bank Act and that the State Credit Management Act, the State Finance Act and the Economic Transfer Act will be submitted to Parliament this June.
+
+The President said that all the conditions set up with the International Monetary Fund and other countries that have been given to this country will be enacted in the future.
 
 ...
 
 [Data](articles/1cf3457b.json)
+
+[Extended Data](ext_articles/1cf3457b.ext.json)
 
 ---
 
@@ -862,27 +944,39 @@ A workshop organised by the National Youth Services Council (NYSC) was held in G
 
 ---
 
-### மனோவை தூதுவிட்டாரா சஜித்?
+### Did Sajith make a messenger?
 
 *2024-05-12 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183337) · `ta`
 
-“13 ஆவது திருத்தச் சட்டத்தை நடைமுறைப்படுத்த முற்படுகின்ற போது, சஜித் பிரேமதாச யாருடனும் பேச வேண்டியதில்லை. தமிழ் கட்சிகளை அழைக்க வேண்டும் என்றும் இல்லை. மனோ கணேசனை தூது அனுப்ப வேண்டிய தேவையும் இல்லை”
+Sajith Premadasa, during the 13th Amendment implementation, did not communicate with Tamil parties or send Mano Ganesan, indicating he didn't create a messenger.
+
+🟩
+
+“When the 13th Amendment is trying to implement, Sajith Premadasa does not have to speak to anyone. The Tamil parties are not to be called. There is no need to send Mano Ganesan. ”
 
 ◼️
 
 [Data](articles/da1a081e.json)
 
+[Extended Data](ext_articles/da1a081e.ext.json)
+
 ---
 
-### கொதிநிலையில் ‘மலாக்கா’
+### In the boil
 
 *2024-05-12 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183335) · `ta`
 
-சர்வதேச அளவில் குறிப்பாக மேலை நாடுகளின் சூழல் பாதுகாப்பு செயற்பாட்டாளர்கள் நிக்கோபார் தீவுகளின் காடழிப்பு நடவடிக்கைகளையும் அபிவிருத்தியையும்  கடுமையாக எதிர்த்து வருகின்றனர். இத்தீவுகளில் வாழும் பழங்குடி மக்களின் வாழ்கை இடையூறு செய்யப்படுவதை இட்டு கடுமையான இணையதள கட்டுரைகள் வெளிவந்து கொண்டிருக்கிறன.
+Western environmentalists oppose deforestation and development on the Nicobar Islands, disrupting tribal life.
+
+🟩
+
+Environmental protection activists of the West, especially internationally, are strongly opposed to the deforestation and development of the Nicobar Islands. Strict web articles have been published by the disruption of the lives of tribal people living in these islands.
 
 ◼️
 
 [Data](articles/bcb218bd.json)
+
+[Extended Data](ext_articles/bcb218bd.ext.json)
 
 ---
 
@@ -2103,75 +2197,5 @@ The incident took place on Sunday (12) that nine people, including driver and co
 [Data](articles/eef0a42d.json)
 
 [Extended Data](ext_articles/eef0a42d.ext.json)
-
----
-
-### Amnesty International Secretary General - Mullivaikkal will participate in Sri Lanka on Thursday
-
-*2024-05-12 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183307) · `ta`
-
-Amnesty International's Secretary General will visit Sri Lanka on Thursday to attend the Mullivaikkal memorial, marking 15 years since the end of the war. The visit aims to highlight the need for truth, justice, and accountability for alleged war crimes and human rights abuses. The Secretary General, based in London, will meet with activists and journalists, and hold secret meetings, emphasizing the ongoing importance of addressing the country's human rights situation.
-
-🟩
-
-With the end of the three decades of war, 15 years after the end of the war, Mullivaikkal will attend the Mullivaikkal memorial on the 18th of this month.
-
-The Amnesty International has repeatedly urged the International International to ensure truth, justice and accountability in relation to alleged war crimes, human rights violence and violence against humanity.
-
-The Secretary General of the Amnesty International, who is working on the London base on the 15th anniversary of the war, will visit Sri Lanka on Thursday (16).. He will meet with Colombo office activists at the International International that day and will visit Mullivaikkal on Friday (17).
-
-Agnes Kalamart, who intends to hold some major secret meetings there, will also attend the Mullivaikkal memorial event on Saturday (18) to commemorate the victims of the war.
-
-He will then meet with journalists in Colombo on the 20th and will share his observations of the country's contemporary human rights situation.
-
-...
-
-[Data](articles/3f954325.json)
-
-[Extended Data](ext_articles/3f954325.ext.json)
-
----
-
-### Maithri resigns
-
-*2024-05-12 13:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இராஜினாமா/175-337171) · `ta`
-
-Maithripala Sirisena resigns from SLFP, appoints Vijayadasa Rajapaksa as chairman.
-
-🟩
-
-Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party (SLFP).
-
-A delegation headed by former President Maithripala Sirisena has decided to appoint Justice Minister Vijayadasa Rajapaksa as the party's chairman at the Kotal Executive Committee.
-
-◼️
-
-[Data](articles/ea074059.json)
-
-[Extended Data](ext_articles/ea074059.ext.json)
-
----
-
-### Maithripala resigns as SLFP Chairman, Wijeyadasa appointed as successor
-
-*2024-05-12 12:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-resigns-as-SLFP-Chairman-Wijeyadasa-appointed-as-successor/108-282408) · `en`
-
-Former President Maithripala Sirisena stepped down from his role as Chairman of the Sri Lanka Freedom Party (SLFP) paving the way for a new leadership.
-
-Accordingly, the Executive Committee of the SLFP convened for a crucial meeting at a hotel in Kotte today, where a unanimous decision was reached to appoint Justice Minister Wijeyadasa Rajapakshe as the new Chairman.
-
-The executive committee's deliberations culminated amid a host of issues the party is facing at present.
-
-Rajapakshe was appointed as the Acting Chairperson of the SLFP during an Executive Committee meeting held on April 21 by the party faction led by former President Maithripala Sirisena.
-
-However, on April 24, the Colombo District Court issued an injunction order preventing Rajapakshe from functioning as the Acting Chairperson of the SLFP.
-
-In response, Wijeyadasa Rajapakshe filed a petition seeking to suspend the interim injunction, which the Court of Appeal (CA) dismissed on May 7th.
-
-◼️
-
-[Data](articles/32d5f535.json)
-
-[Extended Data](ext_articles/32d5f535.ext.json)
 
 ---

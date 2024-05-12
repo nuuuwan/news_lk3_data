@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 15:18:26**
+As of **2024-05-12 15:33:25**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 3,765
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,469 (100.0%) of 23,471 articles have been extended.
+23,471 (100.0%) of 23,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### සා/පෙළ විද්‍යා ප්‍රශ්න පත්‍රයෙත් ගැටලුවක්
+### A problem with the O / L Science paper
 
 *2024-05-12 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196537) · `si`
 
-සාමාන්‍ය පෙළ විභාගයට අදාළව පසුගියදා පැවති විද්‍යා විෂයට අයත්  ප්‍රශ්න පත්‍රය ප්‍රතිපාදන සැලසුමට පරිබාහිරව සකස්කර ඇති බවට පාර්ලිමේන්තු මන්ත්‍රි මධුර විතානගේ මන්ත්‍රිවරයා චෝදනා කරයි.
+MP Madura Withanage accuses the GCE Ordinary Level Science paper of being prepared outside the allocated time. He raised concerns at a press conference, highlighting issues with the science subject paper. He also mentioned a program to discuss exam marks after a month, suggesting a delay in the marking process.
 
-මාධ්‍ය හමුවක් කැඳවමින් මන්ත්‍රීවරයා ඒ බව සඳහන් කළේ විද්‍යා විෂයට අදාළ ප්‍රශ්න පත්‍රයේ බහුවරණ ප්‍රශ්න තුනකට සහ රචනා ප්‍රශ්න තුනක කොටස් සම්බන්ධයෙන් ප්‍රතිපාදන සැලැස්මෙන් බාහිරව ප්‍රශ්න පත්‍රය සකස් කර ඇති බවය.
+🟩
 
-ඒ සම්බන්ධයෙන් තමා විභාග කොමසාරිස් ජනරාල්වරයාගෙන් විමසීමක් කළ බවත් එහිදී කොමසාරිස්වරයා පවසා ඇත්තේ, විභාගය පවත්වා මාසයකින් පසු සිදුකරන ලකුණු ලබාදීමේ ප්‍රගති සමාලෝචනයේදී මේ පිළිබඳ සාකච්ඡා කර දරුවන්ට අසාධාරණයක් නොවන ලෙස ලකුණු ලබාදීම පිළිබඳ වැඩපිළිවෙළක් සකස් කරන බවටත් දැනුම් දුන් බව මන්ත්‍රීවරයා පැවසීය.
+MP Madura Withanage alleges that the Victory Topic Question Paper of the GCE Ordinary Level Examination has been prepared outside the provision of allocation.
+
+The MP said that a press conference was convented from a media briefing of the science subject issue paper issues related to the science's subject.
+
+He also said that he was inquired from the Commissioner General of Examinations and said that a program to discuss the marks for the examination after conducting the examination and appoints the marks after a month.
 
 ◼️
 
 [Data](articles/f70e050c.json)
 
+[Extended Data](ext_articles/f70e050c.ext.json)
+
 ---
 
-### ශ්‍රීලනිප මෛත්‍රී පිලේ වැඩබලන මහලේකම් කීර්ති උඩවත්ත
+### Acting Secretary General of SLFP Maithri Udawatte
 
 *2024-05-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196536) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වයේ වැඩබලන මහලේකම්වරයා ලෙස නීතිඥ කීර්ති උඩවත්ත මහතා පත්කර තිබේ.
+Maithri Udawatte, Attorney Keerthi Udawattuwa, has been appointed as the Acting Secretary General of the SLFP. This decision was made at a recent Executive Committee meeting chaired by Maithripala Sirisena, who had previously resigned from the SLFP Chairman post. The committee also decided to appoint Minister of Justice Wijeyadasa Rajapaksa as the new party chairman.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රීපාල සිරිසේන පාර්ශ්වයේ විධායක සභා රැස්වීමක් අද (12) පෙරවරුවේ පිටකෝට්ටේ පෞද්ගලික හෝටලයකදී ආරම්භ වුණි.
+🟩
 
-එහිදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබුණි.
+Attorney at Law Keerthi Udawattuwa has been appointed as the Acting Secretary General of the Sri Lanka Freedom Party (SLFP).
 
-තවද විධායක සභා රැස්වීමේදී ඒකමතිකව තීරණය වී ඇත්තේ අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පක්ෂ සභාපති ධුරයට පත් කිරීමටය.
+The Executive Committee of the Sri Lanka Freedom Party Maithripala Sirisena was held at a private hotel in Petakotte this morning.
+
+Former President Maithripala Sirisena had resigned from the post of Sri Lanka Freedom Party Chairman.
+
+Also, at the Executive Committee, the Executive Committee has decided to appoint the Minister of Justice Wijeyadasa Rajapaksa as the party chairman.
 
 ◼️
 
 [Data](articles/98ec4302.json)
+
+[Extended Data](ext_articles/98ec4302.ext.json)
 
 ---
 

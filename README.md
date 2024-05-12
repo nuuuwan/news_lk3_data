@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 15:52:05**
+As of **2024-05-12 16:03:19**
 
 ## Newspaper Stats
 
-*Scraped **23,476** Articles*
+*Scraped **23,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 2,745
 tamilmirrorlk | 2,758
 virakesarilk | 3,484
 dailymirrorlk | 3,692
-adaderanasinhalalk | 3,765
+adaderanasinhalalk | 3,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,471 (100.0%) of 23,476 articles have been extended.
+23,476 (100.0%) of 23,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### ලෝක මව්වරුන්ගේ දිනයේදී දුවිණිකා ගෙන් රටටම ආදර්ශයක්
+
+*2024-05-12 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196540) · `si`
+
+තම ආබාධය අමතක කර සිය මව පණ මෙන් රැකබලා ගන්නා දියණියක් ගැන පුවතක් අදට (12) යෙදී ඇති ලෝක මව්වරුන්ගේ දිනයේදී 'අද දෙරණ' ට වාර්තා විය.
+
+උපතින්ම තුනටිය ප්‍රදේශයේ ආබාධයකින් පෙළෙන දුවිණිකාට දැන් වයස අවුරුදු 30කි.
+
+පහන්තිර නිෂ්පාදනය කර නගරයට ගොස් ඒවා අලෙවිකර ඉන් ලැබෙන මුදලින් සිය ජීවිකාව පවත්වාගෙන යන්නට වෙර දරන ඇය මේ මව්වරුන්ගේ දිනයේ අමතක කළ නොහැකිම දිරිය දියණියකි.
+
+එහෙත් ඒ දිරිය ගමනේදී ඇයට ඇති එකම ගැටලුව නිවසට යාමට ඒමට නිසි මඟක් නොමැතිකමය.
+
+"මම අම්මව බලාගෙන බොහොම අමාරුවෙන් ජීවත් වෙනවා. ගෙදර අඩුපාඩු මම කාගෙන්වත් ඉල්ලන්නේ නැහැ. තනියම කරගන්නවා. මට ගෙදරට යන්න එන්න කවුරුත් පාරක් දෙන්නේ නැහැ. මට වෙන මුකුත් එපා... පාරක් විතරක් දෙන්න." දුවිණිකා පැවසීය.
+
+◼️
+
+[Data](articles/cb1c6cd2.json)
+
+---
+
+### සෞඛ්‍ය වර්ජනය හෙට මධ්‍යම පළාතේ
+
+*2024-05-12 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196539) · `si`
+
+එකඟතාවන් ක්‍රියාත්මක කිරීම ප්‍රමාද වීම හේතුවෙන් සෞඛ්‍ය සේවකයින් හෙට (13) දිනයේ මධ්‍යම පළාතේ රෝහල් තුළ වැඩ වර්ජනයක් සැලසුම් කර තිබේ.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසන්නේ, හෙට ඇරඹෙන වර්ජනය දිනෙන් දින විවිධ පළාත් ආවරණය වන පරිදි ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+
+වෛද්‍යවරුන්ට ලබාදෙන ඩැට් හෙවත් ප්‍රවාහන හා නිර්බාධක දීමනාවට සමාන්තර දීමනාවක් තමන්ටද ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය මීට පෙර අවස්ථා කිහිපයකදී වර්ජන ක්‍රියාමාර්ගවල නිරත විය.
+
+කෙසේවෙතත් එම සන්ධානය ප්‍රකාශ කරන්නේ, සිය ඉල්ලීම්වලට අදාළ එකඟතා ක්‍රියාත්මක කිරීම ප්‍රමාද වීම හේතුවෙන් හෙට සිට යළි වර්ජනයට අවතීර්ණ වන බවය.
+
+◼️
+
+[Data](articles/67be4d01.json)
+
+---
 
 ### India-Sri Lanka ferry service delayed till May 17
 
@@ -51,6 +89,8 @@ Alternatively, they may also choose to travel on any date after May 17, 2024.
 ...
 
 [Data](articles/35390174.json)
+
+[Extended Data](ext_articles/35390174.ext.json)
 
 ---
 
@@ -114,17 +154,23 @@ The Sri Lanka Freedom Party’s (SLFP) faction led by former President Maithripa
 
 ---
 
-### මෛත්‍රිගෙන් හිස්වූ පුටුව විජයදාසට
+### Wijeadda to the chair of Maithri
 
 *2024-05-12 14:13:21* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රිගෙන්-හිස්වූ-පුටුව-විජයදාසට/11-409573) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබේ. කෝට්ටේදී පැවැත්වෙන එම පක්ෂයේ මෛත්‍රීපාල සිරිසේන පාර්ශ්වයේ විධායක සභා රැස්වීමේදී හිටපු ජනපතිවරයා මෙම ඉල්ලා අස්විම ප්‍රකාශ කර තිබේ.
+Maithripala Sirisena resigns as SLFP Chairman, and Wijeyadasa is appointed to fill the vacancy.
 
-එසේම එහිදි හිස්වූ සභාපතිධුරය සඳහා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත්කිරිමට ඒකමතිකව තිරණය කර තිබේ.
+🟩
+
+Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party Chairman. The resignation has expressed the resignation at the Executive Committee of Maithripala Sirisena, Malaka, General.
+
+The Evil Similarly, the Minister of Justice Wijeyadasa has been decided to appoint the emptied chairman.
 
 ◼️
 
 [Data](articles/ebd35421.json)
+
+[Extended Data](ext_articles/ebd35421.ext.json)
 
 ---
 
@@ -190,29 +236,41 @@ President Ranil Wickremesinghe made this statement during his attendance at the 
 
 ---
 
-### රජයේ වත්කම් විකිණීම ගැන මහින්දගෙන් නිවේදනයක්
+### Mahinda announced on sale of government assets
 
 *2024-05-12 13:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වත්කම්-විකිණීම-ගැන-මහින්දගෙන්-නිවේදනයක්/11-409571) · `si`
 
-මීළඟ ජනාධිපතිවරණයට ඇත්තේ තව මාස කිහිපයක් පමණක් බැවිල් රජයේ දේපළ විකිණීමට එරෙහිව රට පුරා ඇතිවී තිබෙන නොසන්සුන්තාවයට විසඳුමක් ලෙස රජයේ වත්කම් හෝ ව්‍යාපාර විකිණීමට ගෙන ඇති සියලු යෝජනා අත්හිටුවිය යුතු බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+Mahinda Rajapaksa, former President of Sri Lanka, announced the suspension of plans to sell government assets, citing unrest among unions, political parties, and the public. He emphasized the need for a balanced approach to privatization, considering both economic benefits and the impact on public services. Rajapaksa highlighted his government's strategy of maintaining profitable state institutions and using strategic subsidies to aid low-income groups, contrasting with the current government's approach to meet IMF terms. He warned against hasty privatization, especially with foreign partners, and called for a flexible stance from trade unions towards private sector involvement in public sector institutions.
 
-ඉදිරි ජනාධිපතිවරණය ජනාධිපතිවරණය  ජය ගන්නා  පාර්ශවයට  ඔවුන්ට ලැබෙන ජනවරම අනුව රජය සතු දේපළ හා ව්‍යාපාර සම්බන්ධයෙන්  කටයුතු කළ හැකි බවද හිටපු ජනපතිවරයා නිවේදනයක් නිකුත් කරමින් පවසයි.
+🟩
+
+Former President Mahinda Rajapaksa says that all other proposals have been suspended against the sale of government assets or businesses to sell the country's property across the country for only a few months.
+
+The former president says a statement that the presidential election will take action to deal with the mandate of the presidential election.
 
 ...
 
 [Data](articles/abb97d5a.json)
 
+[Extended Data](ext_articles/abb97d5a.ext.json)
+
 ---
 
-### මෛත්‍රී සභාපති ධූරයෙන් ඉල්ලා අස්වෙයි
+### Maithri resigns
 
 *2024-05-12 13:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-සභාපති-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-409570) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා  ඉල්ලා අස්වී ඇත බව වාර්තාවේ. කෝට්ටේදී අද පැවති එම පාර්ශ්වයේ විධායක සභා රැස්වීමේදී  පක්ෂ සභාපති ධුරයට අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීමට තීරණය කර ඇත.
+Maithripala Sirisena resigns as SLFP Chairman, replaced by Justice Wijayadasa Rajapakse.
+
+🟩
+
+Former President Maithripala Sirisena has resigned from the Chairman of the Sri Lanka Freedom Party (SLFP).It has been decided to appoint Justice Wijayadasa Rajapakse at the Executive Committee of the event held today at Kotte.
 
 ◼️
 
 [Data](articles/9671dbe4.json)
+
+[Extended Data](ext_articles/9671dbe4.ext.json)
 
 ---
 
@@ -284,23 +342,29 @@ The realities of their realities and the injustices that they have done to the p
 
 ---
 
-### රත්නපුර හිටපු නගරාධිපතිගේ රිවෝල්වරය සොරාගෙන
+### Stolen former Mayor's revolver in Ratnapura
 
 *2024-05-12 13:34:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-රිවෝල්වරය-සොරාගෙන/11-409568) · `si`
 
-රත්නපුර හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතා සතු රිවෝල්වරය පුද්ගලයෙකු විසින් සොරාගෙන ගොස් ඇති බවට පැමිණිල්ලන් ලැබි ඇතයි රත්නපුර පොලිසිය පවසයි'
+Ratnapura police report the theft of a former Mayor's revolver, Tyrone Attanayake's, from his home. An unidentified man demanded money and fled with the 38 caliber revolver, valued at Rs. 48,000, received in 2021.
 
-10 වන දින රාත්‍රි 7.00ට පමණ තමාගේ නිවසට පැමිණි නාඳුනන පුද්ගලයෙකු රුපියල් දහසක් ඉල්ලා ඇති බවත් තමා යම්කිසි වැඩක යෙදි ඇති බැවින් ටික වේලාවකින් පන්සල අසලට පැමිණි විට මුදල් දෙන බව පැවසු බවත් පසුව ෙමම පුද්ගලයා පිටව ගොස් ඇත.
+🟩
 
-දෙවන වරටත් මෙම පුද්ගලයා පැමිණ මුදල් දෙන තෙක් මිදුලේ බංකුවක  වාඩිවි සිටඇත.
+Ratnapura police say that the revolver of former Mayor of Ratnapura has stolen the revolver of Tyrone Attanayake
 
-නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ මිදුලේ නවතා තිබු කැබ් රථයේ 38 වර්ගයේ රිවෝල්වරය තිබු බවත් තමා නිවස ඇතුලේ සිට පිටතට පැමිණි විට මුදල් ඉල්ලා පැමිණි අය නොසිටි බවත් කැබ් රථයේ දොර විවෘත කර බැලුවිට තමාගේ රිවෝල්වරය නොමැති බවද පැමිණිල්ලේ සඳහන් කර ඇති බව පොලිසිය පවසයි.
+At about 7.00 pm on the 10th night, an unidentified man who had come to his home was requested for a thousand rupees and that the man had been leaving for a while.
 
-2021 වසරේ තමාට 38 වර්ගයේ රිවෝල්වරය ලැබුණ බවත් එය රුපියල් 48,000ක් පමණ වටිනාකමක් ඇති බවද පැමිණිල්ලේ සඳහන් වි ඇත.
+The yard was situated in a bench in the yard until the second time arrived.
+
+The complaint had had the 38 revolver in the cab that was stopped in the house at Tiran Attanayake's yard.
+
+It has also been reported that he received the 38 category of revolver in 2021 and that it was worth about Rs. 48,000.
 
 ◼️
 
 [Data](articles/2f6afbca.json)
+
+[Extended Data](ext_articles/2f6afbca.ext.json)
 
 ---
 
@@ -2171,41 +2235,5 @@ Dr SinhaRaja Tammita-Delgoda’s new art history book, “George Keyt – The Ab
 [Data](articles/c7d5ec18.json)
 
 [Extended Data](ext_articles/c7d5ec18.ext.json)
-
----
-
-### SLTB bus topples
-
-*2024-05-11 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196521) · `si`
-
-A SLTB bus traveling from Hanguranketha to Kandy overturned at Milapitiya, injuring 20 passengers. The incident was captured by a nearby camera.
-
-🟩
-
-A SLTB bus, which was traveling from Hanguranketha to Kandy, has gone toppled at Milapitiya area.
-
-The traditional camera has been recorded in a nearby cited camera next to how the accident occurred.
-
-About 20 people were on the bus at the time of the accident.
-
-◼️
-
-[Data](articles/2697ce04.json)
-
-[Extended Data](ext_articles/2697ce04.ext.json)
-
----
-
-### The Way of the Jackal: The Untold Story of Sri Lanka’s Wild Dog
-
-*2024-05-11 20:32:00* · [`islandlk`](http://island.lk/the-way-of-the-jackal-the-untold-story-of-sri-lankas-wild-dog/) · `en`
-
-Our jackal is the only island subspecies of the Eurasian Golden Jackal across its range. Historically, it was even considered a species endemic to Sri Lanka. It is the sole wild dog on the island and stands as the third-largest carnivore present; only second to the charismatic Leopard and the sluggish Sloth Bear. These features already make it an iconic species, but for some reason, it has been overlooked. Photographers have missed its stunning moves, artists have forgotten to paint it, tourists hardly ask for sightings, and scientists failed to study it. Instead, the narrative of our Nariya is abandoned to folklore—a cunning, selfish creature, a forgotten soul that nobody really likes
-
-...
-
-[Data](articles/2ea91ff6.json)
-
-[Extended Data](ext_articles/2ea91ff6.ext.json)
 
 ---

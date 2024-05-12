@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 21:33:42**
+As of **2024-05-12 21:52:34**
 
 ## Newspaper Stats
 
-*Scraped **23,522** Articles*
+*Scraped **23,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,998
 adaderanalk | 2,749
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
-dailymirrorlk | 3,699
-adaderanasinhalalk | 3,772
+dailymirrorlk | 3,700
+adaderanasinhalalk | 3,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,522 (100.0%) of 23,522 articles have been extended.
+23,523 (100.0%) of 23,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Supervision of O / L Examination Center arrested
+
+*2024-05-12 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196550) · `si`
+
+A supervisor at an Examination Center was arrested for releasing the English question paper early for the GCE Ordinary Level exam, held at a tuition center in Hasalaka.
+
+🟩
+
+A supervision of an Examination Center has been arrested by the police today (12), a supervision of an Examination Center regarding the release of English question paper at the GCE Ordinary Level examination.
+
+The examination is being held at the meeting a tuition teacher in the Hasalaka area.
+
+◼️
+
+[Data](articles/26a4ebca.json)
+
+[Extended Data](ext_articles/26a4ebca.ext.json)
+
+---
+
+### Hand over MRIA management to aircraft-owning company: Udayanga Weeratunga
+
+*2024-05-12 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hand-over-MRIA-management-to-aircraft-owning-company-Udayanga-Weeratunga/108-282422) · `en`
+
+Colombo, May 12 (Daily Mirror) - The government should explore the option of assigning the management of the Mattala Rajapaksa International Airport (MRIA) to a company that not only specializes in management but also owns airplanes and has the capability to attract and facilitate aircraft operations, former Sri Lankan Ambassador to Russia Udayanga Weeratunga said.
+
+Addressing the media, he said that the government had handed over the management of the MRIA to Shaurya Aeronautics Pvt. Ltd. of India and Airports of Regions Management Company of Russia, or an affiliated company there, for a period of 30 years.
+
+...
+
+[Data](articles/c8892a79.json)
+
+---
 
 ### Explains the Future of the O / L examination
 
@@ -2165,63 +2199,5 @@ Speaking to the media in the Anuradhapura area, Semasinghe asserted that present
 [Data](articles/7658c4d0.json)
 
 [Extended Data](ext_articles/7658c4d0.ext.json)
-
----
-
-### Heavy rainfall at 2 pm
-
-*2024-05-12 10:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்-பலத்த-மழை-பெய்யும்/175-337150) · `ta`
-
-Increased temperatures and heavy rains are expected today across several provinces, with thunderstorms likely after 2 pm. Snowfall is predicted in some areas, and strong winds may cause turbulence in sea regions. The public is advised to be cautious during thunderstorms.
-
-🟩
-
-The Department of Meteorology has said that increased temperatures will occur today in the Northern, North Central and North Western Provinces as well as in Trincomalee and Batticaloa districts.
-
-However, rain or thunderstorms are expected after two o'clock in the afternoon.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Eastern Provinces, as well as in some parts of the Galle and Matara districts.
-
-Some places in the Western and Southern Province coastal regions are likely to experience rain in the morning.
-
-In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-Rainfall or thunderstorms are likely to occur in many parts of the sea regions beyond the coast of Puttu to Pottuvil via Colombo, Galle and Hambantota.
-
-In the sea regions, the wind blows from the southwest direction or from a different direction at 20 - 30 km / h.
-
-...
-
-[Data](articles/5420f337.json)
-
-[Extended Data](ext_articles/5420f337.ext.json)
-
----
-
-### Sri Lanka tea prices rise for third straight week
-
-*2024-05-12 10:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-rise-for-third-straight-week-162659/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s tea price averages rose at the first auction in May, industry data showed, continuing a three-week trend, and with High Growns showing the biggest per kilogram increase in price of 33.97 rupees.
-
-The national weekly sale average increased by 11.98 rupees to 1261.40 rupees a kilogram this week, from 1249.42 rupees a week ago, industry data published by Ceylon Tea Brokers showed.
-
-The weekly average of Sri Lanka’s highest priced teas, the Low Grown, rose by 6.48 rupees to 1350.83 rupees.
-
-OP1 was down 60 rupees, OP/OPA were largely flat. PEK was down 10 rupees and BOP1 were down 40 rupees.
-
-The Medium Grown average rose by 8.28 rupees to 1084.74 rupees.
-
-FBOPs were up 100 rupees BFPFP1 were up 50 PEK1 were down 50 and OP1 was largely flat
-
-The High Grown weekly average rose by 33.97 rupees to 1181.48 rupees a kilogram.
-
-High grown BOPs went up about 30 rupees a kilo while BOPFs were up 50 rupees. BP1 were down 50 rupees and PF1 were up about 30 rupees. (Colombo/May12/2024)
-
-◼️
-
-[Data](articles/a5aede12.json)
-
-[Extended Data](ext_articles/a5aede12.ext.json)
 
 ---

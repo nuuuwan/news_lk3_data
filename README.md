@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 00:33:47**
+As of **2024-05-13 00:49:12**
 
 ## Newspaper Stats
 
-*Scraped **23,543** Articles*
+*Scraped **23,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
-dailyftlk | 1,356
+dailyftlk | 1,361
 adalk | 2,002
 adaderanalk | 2,750
 tamilmirrorlk | 2,760
-virakesarilk | 3,504
+virakesarilk | 3,514
 dailymirrorlk | 3,705
 adaderanasinhalalk | 3,778
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,543 (100.0%) of 23,543 articles have been extended.
+23,543 (99.9%) of 23,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### ப்ளே ஓவ் வாய்ப்புக்கு போராடும் றோயல் செலஞ்சர்ஸுக்கு அவசியமான வெற்றி; டெல்ஹி கெப்பிட்டல்ஸை 47 ஓட்டங்களால் வென்றது
+
+*2024-05-12 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183364) · `ta`
+
+பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (12) இரவு மின்னொளியில் நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 62ஆவது போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை எதிர்த்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 47 ஓட்டங்களால் வெற்றிபெற்றது.
+
+ப்ளே ஓவ் சுற்று தகுதியைப் பெறுவதற்கு கடுமையாக போராடும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கு இது மிகவும் அவசியமான வெற்றியாக அமைந்தது.
+
+இந்த வெற்றியுடன் 12 புள்ளிகளைப் பெற்றுள்ள றோயல் செலஞசர்ஸ் பெங்களூரு, அணிகள் நிலையில் 5ஆம் இடத்திற்கு முன்னேறியது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட றோயல் செலஞ்சர்ஸ் பெங்களூரு 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 187 ஓட்டங்களைப் பெற்றது.
+
+பவ் டு ப்ளெசிஸ் (6), விராத் கோஹ்லி (27) ஆகிய இருவரும் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழக்க றோயல் செலஞ்சர்ஸ் பெங்களூரு 4ஆவது ஓவரில் 36 ஓட்டங்களைப் பெற்றிருந்தது.
+
+எனினும் வில் ஜெக்ஸ், ராஜாத் பட்டிடார் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் 88 ஓட்டங்களைப் பகிர்ந்து அணியை கௌரவமான நிலையில் இட்டனர்.
+
+...
+
+[Data](articles/2e600f45.json)
+
+---
+
+### வவுனியாவில் முள்ளிவாய்க்கால் கஞ்சி வழங்கப்பட்டது!
+
+*2024-05-12 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183362) · `ta`
+
+முள்ளிவாய்கால் 15 ஆம் நினைவு நாளை முன்னிட்டு வவுனியாவில் முள்ளிவாய்க்கால் கஞ்சி வழங்கி வைக்கப்பட்டது.
+
+வவுனியா மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவுகளால் குறித்த கஞ்சி நகரசபை பொங்கு தமிழ் நினைவு தூபி முன்பாக ஞாயிற்றுக்கிழமை (12) வழங்கி வைக்கப்பட்டது.
+
+2009 ஆம் ஆண்டு இறுதி யுத்தத்தின் போது மக்கள் முள்ளிவாய்க்கால் கஞ்சியினை உணவாக உட்கொண்டே  உயிர் பிழைத்தனர். அதனை நினைவு கூர்ந்து அடுத்த தலைமுறைக்கு வரலாற்றை கடத்தும் நோக்குடன் இவ்வாறு கஞ்சி வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/82bc5b90.json)
+
+---
 
 ### Iran has threatened Israel
 
@@ -51,6 +89,34 @@ Following this, Iran has warned that Israel will be very fierce if Israel is re 
 [Data](articles/f316ae13.json)
 
 [Extended Data](ext_articles/f316ae13.ext.json)
+
+---
+
+### முள்ளிவாய்க்காலில் உயிழந்தவர்களுக்கு யாழ்ப்பாணம் தீவகத்தில் நினைவேந்தல்
+
+*2024-05-12 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183363) · `ta`
+
+முள்ளிவாய்க்கால் நினைவேந்தல் வாரத்தின் ஆரம்ப நாளான ஞாயிற்றுக்கிழமை (12) தீவகம் நினைவேந்தல் குழுவின் ஏற்பாட்டில் வேலணை வங்களாவடியில் அமைந்துள்ள நினைவுத்தூபியில் நிறைவேந்தல் நிகழ்வு நடைபெற்றது.
+
+இதன் போது இறுதி யுத்தத்தின் போது உயிரிழந்தவர்களுக்கு பொதுச் சுடர் ஏற்றப்பட்டு மலரஞ்சலியும் செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/6f92f921.json)
+
+---
+
+### Aragalaya effect vs. IMF effect
+
+*2024-05-12 23:00:06* · [`dailyftlk`](https://www.ft.lk/columns/Aragalaya-effect-vs-IMF-effect/4-761683) · `en`
+
+But the protestors did not have any clue about the alternative system that they were longing for – Pic by Shehan Gunasekara
+
+Apart from the forced resignation of two Rajapaksas, one a President and the other Prime Minister, a potentially epoch-breaking effect of the 2022 Aragalaya was the uncompromising message it sent to Sri Lankan voters that the multiple crises engulfing the nation and bankrupted the national treasury could not be solved by patchwork measures, but only through a radical overthrow of the socio-political paradigm within which Governments were chosen and the economy managed.
+
+...
+
+[Data](articles/0bc133ea.json)
 
 ---
 
@@ -81,6 +147,70 @@ The stock of rice taken into custody authority has been seal and the Harmony Pol
 [Data](articles/a5dbce2e.json)
 
 [Extended Data](ext_articles/a5dbce2e.ext.json)
+
+---
+
+### Uber Springboard: Sri Lankan start-ups set to soar with mentorship program
+
+*2024-05-12 22:42:09* · [`dailyftlk`](https://www.ft.lk/business/Uber-Springboard-Sri-Lankan-start-ups-set-to-soar-with-mentorship-program/34-761680) · `en`
+
+From left: US Embassy Economic Officer Andrew Shinn, Uber Delivery General Manager Varun Wijewardane, Kreader Founder Heshan J. Peiris, Ministry of Technology Secretary Dr. Dharmasri Kumaratunge, ManKiwwa Founder Shohan Kalusuriya, ICTA Head of Startup Engagement Abith Latiff on behalf of Megic Inc. Founder Yashen Ariyathilaka, Uber South Asia Director of Public Policy and Government Affairs Sanjay Chadha, and Uber Mobility – Sri Lanka Country Manager Kaushalya Gunaratne – Pix by Lasantha Kumara
+
+Uber, the global ride hailing and food and grocery delivery platform, recently hosted “Uber Springboard” – an initiative to encourage Sri Lankan start-ups to strengthen the country’s entrepreneurial ecosystem.
+
+With support from the Ministry of Technology, Government of Sri Lanka, Uber has selected three start-ups from a tech start-up competition that are set to travel to Uber’s centre of excellence in India for a mentorship program.
+
+...
+
+[Data](articles/4d1b3e50.json)
+
+---
+
+### People’s Bank re-launches SPARK entrepreneurial development program to boost SMEs
+
+*2024-05-12 22:34:17* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-re-launches-SPARK-entrepreneurial-development-program-to-boost-SMEs/34-761679) · `en`
+
+People’s Bank has announced the re-launch of its SPARK entrepreneurial development program, aimed at bolstering young entrepreneurs and supporting the growth of small and medium enterprises (SMEs) throughout Sri Lanka.
+
+Initially launched in 2022, SPARK has been redesigned with updated eligibility criteria to make entrepreneurial success more accessible than ever before.
+
+The revamped SPARK program now welcomes applications from budding entrepreneurs aged 20-45, regardless of their educational background. This inclusive approach is designed to foster a wider range of business ideas and innovations, aligning with the Government’s policy to strengthen the SME-driven economy.
+
+...
+
+[Data](articles/7900ae8f.json)
+
+---
+
+### WORX Coworking unveils 4th property in Colombo
+
+*2024-05-12 22:33:28* · [`dailyftlk`](https://www.ft.lk/business/WORX-Coworking-unveils-4th-property-in-Colombo/34-761678) · `en`
+
+In response to the growing demand for flexible workspaces, WORX Coworking has announced the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05.
+
+As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
+
+Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
+
+...
+
+[Data](articles/8a14f00c.json)
+
+---
+
+### Building capacities for Sri Lankan start-ups in renewable energy domain
+
+*2024-05-12 22:26:36* · [`dailyftlk`](https://www.ft.lk/business/Building-capacities-for-Sri-Lankan-start-ups-in-renewable-energy-domain/34-761677) · `en`
+
+Invest India and the International Solar Alliance in partnership with the High Commission of India in Colombo on 8 May, organised a one-day workshop, bringing together Sri Lanka’s solar start-up ecosystem.
+
+The event aimed to introduce participants to the SolarX Start-up Challenge: APAC Edition and its benefits. The workshop included detailed sessions outlining the features and advantages of participating in the SolarX Start-up Challenge.
+
+India’s Deputy High Commissioner Dr. Satyanjal Pandey delivered the keynote address, highlighting the growth potential of the renewable energy sector in India and opportunities for collaboration. He also spoke about upcoming initiatives designed to support Sri Lanka’s startup ecosystem in this field. Participants included representatives from Sri Lanka’s leading incubators and universities.
+
+...
+
+[Data](articles/84881485.json)
 
 ---
 
@@ -153,6 +283,30 @@ Meanwhile, Tharushi Karunaratne, who was infected with the 800mm, was not partic
 [Data](articles/ceb03269.json)
 
 [Extended Data](ext_articles/ceb03269.ext.json)
+
+---
+
+### வழி தவறிய மேய்ப்பர்களும் நெறிப்படுத்தாத சமூகமும்
+
+*2024-05-12 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183340) · `ta`
+
+எதிர்வரும் செப்டம்பர் 17ஆம் திகதிக்கும் ஒக்டோபர் 16ஆம் திகதிக்கும் இடைய்பபட்ட காலத்தில் ஜனாதிபதித் தேர்தல் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. தேர்தல் திகதி உத்தியோகபூர்வமாக அறிவிக்கப்படாவிட்டாலும், ஜனாதிபதித் தேர்தல் நடைபெறும் என்ற எதிர்பார்ப்பின் அடிப்படையில் நாட்டின் அரசியலில் பல நகர்வுகள் மேற்கொள்ளப்படுகின்றன.
+
+◼️
+
+[Data](articles/a09ec116.json)
+
+---
+
+### இரும்பு மனிதரின் மீள் தெரிவு : ரஷ்யாவில் தொடரும் புட்டீனின் ஆட்சி
+
+*2024-05-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183345) · `ta`
+
+குறிப்பு: “புட்டீனை ரஷ்ய ஜனாதிபதியாக ஏற்க முடியாது என்ற நிலைப்பாட்டை ஐரோப்பிய நாடுகள் கூட்டாக எடுக்குமாயின், உக்ரேனிய - ரஷ்ய யுத்தம் பற்றி யாருடன் பேசுவது என்ற கடினமான கேள்வி தலைதூக்கும்”. ஒரு வல்லரசு தேசத்தின் அதிகார பலம் சகலதிலும் பிரதிபலிக்கும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த கோலாகலமான அரச சடங்கு. மேடையேறிய புட்டீனின் வீரமுழக்கம் செய்தார். எல்லாவற்றை விடவும் ரஷ்யாவின் பாதுகாப்பிற்கு முன்னுரிமை அளிக்கப் போவதாக சூளுரைத்தார்.
+
+◼️
+
+[Data](articles/ab29eddd.json)
 
 ---
 
@@ -253,6 +407,48 @@ The examination is being held at the meeting a tuition teacher in the Hasalaka a
 [Data](articles/26a4ebca.json)
 
 [Extended Data](ext_articles/26a4ebca.ext.json)
+
+---
+
+### ராஜஸ்தானை வீழ்த்தி ப்ளே ஒவ் வாய்ப்பை சற்று அதிகரித்துக் கொண்டது சென்னை
+
+*2024-05-12 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183360) · `ta`
+
+சென்னை எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (12) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 61ஆவது போட்டியில் ராஜஸ்தான் றோயல்ஸை எதிர்த்தாடிய சென்னை சுப்பர் கிங்ஸ் 5 விக்கெட்களால் வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் தனது ப்ளே ஓவ் வாய்ப்பை சென்னை சுப்பர் கிங்ஸ் சற்று அதிகரித்துக்கொண்டுள்ளது.
+
+எனினும் சென்னைக்கு றோயல் செலஞ்சர்ஸ் பெங்களூருடன் மாத்திரம் ஒரு போட்டி மிஞ்சியிருப்பதுடன் அப் போட்டி இலகுவாக அமையப்போவதில்லை.
+
+சுவாரஸ்யம் இன்றி நடைபெற்ற இப் போட்டியில் மிகத் துல்லியமாக பந்துவீசி ராஜஸ்தான் றோயல்ஸை சுமாரான மொத்த எண்ணிக்கைக்கு கட்டுப்படுத்திய சென்னை  சுப்பர்  கிங்ஸ், நிதானத்துடன் துடுப்பெடுத்தாடி வெற்றியீட்டியது.
+
+ராஜஸ்தான் றோயல்ஸினால் நிர்ணயிக்கப்பட்ட 142 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய சென்னை  சுப்பர்   கிங்ஸ் 18.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 145 ஓட்டங்களைப் பெற்று மிகவும் அவசியமான வெற்றியை ஈட்டியது.
+
+...
+
+[Data](articles/ecfbf8c1.json)
+
+---
+
+### S. Siritharan was attending a public meeting at Verugal
+
+*2024-05-12 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183352) · `ta`
+
+S. Siritharan, a TNA parliamentarian, held a public meeting at the Sree Shenbaganachiyamman Temple in Eichilampattu, invited by TNA Trincomalee leader Shanmugam Kukadasan. Attendees included Sundaralingam, former Verugal Pradeshiya Sabha Chairman, TNA officials, temple administrators, and civilians.
+
+🟩
+
+Tamil National Alliance (TNA) parliamentarian S. Siritharan held a public meeting on Sunday (12) at the Sree Shenbaganachiyamman Temple - Eichilampattu.
+
+The people's meeting was held at the invitation of the Sri Lanka Tamil National Party (TNA) Trincomalee district leader Shanmugam Kukadasan.
+
+Sundaralingam, former Chairman of the Verugal Pradeshiya Sabha, Assistant Chairperson, TNA chiefs, temple administrators, representatives of public organizations and civilians were present.
+
+◼️
+
+[Data](articles/cf921f56.json)
+
+[Extended Data](ext_articles/cf921f56.ext.json)
 
 ---
 
@@ -373,6 +569,28 @@ The doctor claimed that economic challenges are the primary reason for the decli
 [Data](articles/6ad7d768.json)
 
 [Extended Data](ext_articles/6ad7d768.ext.json)
+
+---
+
+### மே-18,முள்ளி வாய்க்கால் கஞ்சி வாரம் ஆரம்ப நிகழ்வு
+
+*2024-05-12 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183359) · `ta`
+
+மே-18,முள்ளி வாய்க்கால் கஞ்சி வாரம் ஆரம்ப நிகழ்வு ஞாயிற்றுக்கிழமை (12) மட்டக்களப்பு செங்கலடி பதுளை வீதி சந்தியில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+கஞ்சி பரிமாறுவோம் முள்ளிவாய்க்கால் வலி சுமந்த கதை பகிர்வோம் என்ற தொனி பொருளில் மட்டக்களப்பு சிவில் அமைப்பினால் இவ் நினைவேந்தல் நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+இதன்போது மே-18 என இலக்கம் பொறிக்கப்பட்ட பானையில் கஞ்சி காய்ச்சப்பட்டு வீதியில் சென்றோர்களுக்குப் பரிமாறப்பட்டது.
+
+அத்துடன் முள்ளி வாய்க்கால் வலி சுமந்த கதை பகிர்வோம் என்ற தலைப்பிலான துண்டுப் பிரசுரங்களும் மக்களின் பார்வைக்கு விநியோகிக்கப்பட்டது.
+
+2009 ஆம் ஆண்டு இறுதி யுத்தத்தின் போது மரணமும் பசியும் சூழ்ந்திருந்தது. பணத்திற்கு எந்த பெறுமதியும் இருக்கவில்லை. வாங்குவதற்கு எந்த உணவுப் பொருளும் இருக்கவில்லை.
+
+இந் நிலையில்தான் வன்னி நிலப்பரப்பில் மக்கள் தம் உயிர் பிழைப்புக்கென முள்ளி வாய்க்கால் கஞ்சி என்கின்ற ஜீவாமிர்தத்தை அறிமுகப்படுத்தினர்.
+
+...
+
+[Data](articles/98bb3cda.json)
 
 ---
 
@@ -512,6 +730,22 @@ A speedy program has been launched to build land and houses for those who have l
 
 ---
 
+### எதிர்வரும் ஆண்டில் 3% பொருளாதார வளர்ச்சி எதிர்பார்க்கப்படும் நிலையில், அரச ஊழியர்களின் சம்பளத்தையும் அதிகரிக்க நடவடிக்கை எடுக்கப்படும் - ஜனாதிபதி
+
+*2024-05-12 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183358) · `ta`
+
+2025ஆம் ஆண்டில் இலங்கையின் பொருளாதார வளர்ச்சி வீதம் 3% ஆக உயரும் என எதிர்பார்ப்பதாகவும் அதற்கமைய அரச ஊழியர்களின் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அலரிமாளிகையில் ஞாயிற்றுக்கிழமை (12) முற்பகல் நடைபெற்ற சர்வதேச தாதியர் தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+ஏற்றுமதி பொருளாதாரத்துடன் நாட்டின் பொருளாதாரத்தை விரைவான அபிவிருத்தியை நோக்கி கொண்டு செல்வதற்கு நான்கு பிரதான சட்டங்கள் அறிமுகப்படுத்தப்படும் என்று தெரிவித்த ஜனாதிபதி,  மத்திய வங்கியை சுயாதீனமாக செயற்பட அனுமதிக்கும்   மத்திய வங்கிச் சட்டம் ஏற்கனவே நிறைவேற்றப்பட்டுள்ளதாகவும், அரச கடன் முகாமைத்துவ சட்டம், அரச நிதிச் சட்டம், பொருளாதார பரிமாற்றச் சட்டம் உள்ளிட்ட சட்டமூலங்கள் இந்த ஜூன் மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/1cf3457b.json)
+
+---
+
 ### Landslide issues the pre-warnings of the landslide
 
 *2024-05-12 18:50:25* · [`adalk`](https://www.ada.lk/breaking_news/නායයෑමේ-පූර්ව-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-409577) · `si`
@@ -577,6 +811,30 @@ A workshop organised by the National Youth Services Council (NYSC) was held in G
 [Data](articles/d005501c.json)
 
 [Extended Data](ext_articles/d005501c.ext.json)
+
+---
+
+### மனோவை தூதுவிட்டாரா சஜித்?
+
+*2024-05-12 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183337) · `ta`
+
+“13 ஆவது திருத்தச் சட்டத்தை நடைமுறைப்படுத்த முற்படுகின்ற போது, சஜித் பிரேமதாச யாருடனும் பேச வேண்டியதில்லை. தமிழ் கட்சிகளை அழைக்க வேண்டும் என்றும் இல்லை. மனோ கணேசனை தூது அனுப்ப வேண்டிய தேவையும் இல்லை”
+
+◼️
+
+[Data](articles/da1a081e.json)
+
+---
+
+### கொதிநிலையில் ‘மலாக்கா’
+
+*2024-05-12 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183335) · `ta`
+
+சர்வதேச அளவில் குறிப்பாக மேலை நாடுகளின் சூழல் பாதுகாப்பு செயற்பாட்டாளர்கள் நிக்கோபார் தீவுகளின் காடழிப்பு நடவடிக்கைகளையும் அபிவிருத்தியையும்  கடுமையாக எதிர்த்து வருகின்றனர். இத்தீவுகளில் வாழும் பழங்குடி மக்களின் வாழ்கை இடையூறு செய்யப்படுவதை இட்டு கடுமையான இணையதள கட்டுரைகள் வெளிவந்து கொண்டிருக்கிறன.
+
+◼️
+
+[Data](articles/bcb218bd.json)
 
 ---
 
@@ -683,28 +941,6 @@ The National Building Research Organization (NBRO) has issued the UPFA's 60 land
 [Data](articles/103a1848.json)
 
 [Extended Data](ext_articles/103a1848.ext.json)
-
----
-
-### S. Siritharan was attending a public meeting at Verugal
-
-*2024-05-12 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183352) · `ta`
-
-S. Siritharan, a TNA parliamentarian, held a public meeting at the Sree Shenbaganachiyamman Temple in Eichilampattu, invited by TNA Trincomalee leader Shanmugam Kukadasan. Attendees included Sundaralingam, former Verugal Pradeshiya Sabha Chairman, TNA officials, temple administrators, and civilians.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian S. Siritharan held a public meeting on Sunday (12) at the Sree Shenbaganachiyamman Temple - Eichilampattu.
-
-The people's meeting was held at the invitation of the Sri Lanka Tamil National Party (TNA) Trincomalee district leader Shanmugam Kukadasan.
-
-Sundaralingam, former Chairman of the Verugal Pradeshiya Sabha, Assistant Chairperson, TNA chiefs, temple administrators, representatives of public organizations and civilians were present.
-
-◼️
-
-[Data](articles/cf921f56.json)
-
-[Extended Data](ext_articles/cf921f56.ext.json)
 
 ---
 
@@ -1889,327 +2125,5 @@ In response, Wijeyadasa Rajapakshe filed a petition seeking to suspend the inter
 [Data](articles/32d5f535.json)
 
 [Extended Data](ext_articles/32d5f535.ext.json)
-
----
-
-### Prison inmate suddenly ill
-
-*2024-05-12 12:28:05* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-රැඳවියෙකු-හදිසියේ-අසනීප-වී-මරුට/11-409567) · `si`
-
-A 24-year-old inmate from Bopitiya, Matugama, died suddenly in Kalutara Prison due to illness, unrelated to his drug case. His body is at the mortuary for a post-mortem.
-
-🟩
-
-Police said that a youth inmate has died suddenly in the Kalutara Prison. The victim was a 24 year old resident of the Bopitiya, Matugama.
-
-The deceased has been imprisoned in connection with a drug case and was hospitalized and died due to a sudden illness.
-
-The body has been placed at the mortuary hospital morgue for the post mortem.
-
-◼️
-
-[Data](articles/e481d074.json)
-
-[Extended Data](ext_articles/e481d074.ext.json)
-
----
-
-### Central Executive Committee Meeting of the Sri Lanka Tamil State Party meets in Vavuniya on May 19
-
-*2024-05-12 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183298) · `ta`
-
-The Sri Lanka Tamil State Party's Central Executive Committee is meeting in Vavuniya on May 19 to discuss the TNA's stance on fielding a Tamil candidate for the presidential election. The meeting will also address cases against the party's new administration. Earlier, the party's leaders supported the idea of a general candidate but requested time to make a decision. However, some TNA parliamentarians have expressed opposition to a common candidate, indicating a potential division within the party.
-
-🟩
-
-The Central Executive Committee meeting of the Sri Lanka Tamil State Party will be held at the District Branch Office in Vavuniya on the 19th at 10 am.
-
-At this meeting, it is reported that the TNA's position on the fielding of a Tamil general candidate in the presidential election will be investigated on the cases against the new administration of the party.
-
-Earlier, the People's petition was attended by Mavai Senathirajah, Saravanapavan and the Eastern Province members Ariyanethran and Srinasan on behalf of the Sri Lankan Tamil party.. They supported the issue of the general candidate in principle and had sought 14 days to make a party decision.
-
-Meanwhile, Sumanthiran, Chanakyan and Charles Nirmalanathan, other than Sreedharan, among the TNA parliamentarians have expressed their position against the common candidate.. It is noteworthy that the Kalaiyarasan party is controlled by the decision.
-
-◼️
-
-[Data](articles/35428bb9.json)
-
-[Extended Data](ext_articles/35428bb9.ext.json)
-
----
-
-### Maithri quit
-
-*2024-05-12 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196532) · `si`
-
-Maithri Sirisena resigned as SLFP Chairman, avoiding Wijayadasa Rajapaksa's appointment.
-
-🟩
-
-Former President Maithripala Sirisena has resigned from the post of Chairman of the Sri Lanka Freedom Party.
-
-At the Executive Committee Meeting of the Maithripala Sirisena, the party's Maithripala Sirisena, has decided not to appoint the Minister Wijayadasa Rajapaksa to be appointed as the party chairman.
-
-◼️
-
-[Data](articles/a8722b16.json)
-
-[Extended Data](ext_articles/a8722b16.ext.json)
-
----
-
-### Wijeyadasa appointed SLFP Chairman as Maithripala resigns
-
-*2024-05-12 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99160/wijeyadasa-appointed-slfp-chairman-as-maithripala-resigns) · `en`
-
-Former President Maithripala Sirisena has resigned from the post of Chairman of the Sri Lanka Freedom Party (SLFP).
-
-Subsequently, the Executive Committee of the SLFP has unanimously voted to appoint Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
-
-The appointment was made during the executive committee meeting of the party held at a hotel in Kotte today (12).
-
-◼️
-
-[Data](articles/0453721e.json)
-
-[Extended Data](ext_articles/0453721e.ext.json)
-
----
-
-### President vows salary hike for government employees
-
-*2024-05-12 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-vows-salary-hike-for-government-employees/108-282406) · `en`
-
-Colombo, May 12 (Daily Mirror) - President Ranil Wickremesinghe said today that measures will be taken to increase government employees’ salaries.
-
-Addressing an International Nurses' Day celebration, the President expressed optimism for the country's economic growth, aiming for a 3% increase by 2025, the President's Media Division said.
-
-◼️
-
-[Data](articles/a55aab19.json)
-
-[Extended Data](ext_articles/a55aab19.ext.json)
-
----
-
-### Anderson to retire after Lord's Test against West Indies
-
-*2024-05-12 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anderson-to-retire-after-Lord-s-Test-against-West-Indies/108-282405) · `en`
-
-London, (AFP) - James Anderson will bow out as one of cricket's all-time greats when England face West Indies in July after becoming the first pace bowler to take 700 Test wickets.
-
-The 41-year-old will bring down the curtain on a glorious Test career at Lord's, 21 years after his debut, as England head coach Brendon McCullum looks to build for the future with one eye on the 2025-26 Ashes.
-
-"I'm going to miss walking out for England so much," Anderson said on Saturday.
-
-"But I know the time is right to step aside and let others realise their dreams just like I got to, because there is no greater feeling."
-
-Only two spinners, Sri Lanka's Muttiah Muralitharan (800 Test wickets) and the late Australia great Shane Warne (708), are ahead of Anderson on the all-time list of the five-day game's most successful bowlers.
-
-Anderson joined the exclusive '700 club' in his 187th Test during England's tour of India earlier this year.
-
-...
-
-[Data](articles/34fd514c.json)
-
-[Extended Data](ext_articles/34fd514c.ext.json)
-
----
-
-### Bombs and live bullets in a bulky bottle
-
-*2024-05-12 12:08:45* · [`adalk`](https://www.ada.lk/breaking_news/බෝම්බ-සහ-ජීව-උණ්ඩ-ළදරු-කිරි-බෝතල්-බහාලුමක/11-409566) · `si`
-
-A tourism traffic advisor in Welipenna Navataduwa was found hiding live bullets and bombs in a container. The suspect, a 30-year-old, claimed the items belonged to a deceased relative. Western Province Intelligence Officers are investigating.
-
-🟩
-
-The Welipenna Police say a tourism traffic advisor to the Welipenna Navataduwa, Welipenadu Navataduwa in Navatnaduwa, who was hiding in a babic milk in a container of mines and bullets.
-
-With the suspect, a bio-hand grenade of a foreign land, Ti5 live bullets and 2 crog bullets have been taken into custody.
-
-Western Province Intelligence Officers attached to the sandy police have been hidden in a storage room of the residence of living room, according to police.
-
-The suspect has stated that these live bullets and bombs have been told to be part of a deceased relative and have been working to serve as a close relative.
-
-The 30-year-old suspect is due to be questioned on holding orders and will be questioned on the instructions of the OIC of Welipenna Police Chief Inspector Chaminda De Silva.
-
-◼️
-
-[Data](articles/3f72889b.json)
-
-[Extended Data](ext_articles/3f72889b.ext.json)
-
----
-
-### Increase in salary again for public servants
-
-*2024-05-12 12:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-மீண்டும்-சம்பளம்-அதிகரிப்பு/175-337168) · `ta`
-
-President Wickremesinghe promises 3% economic growth by 2025 and salary hikes for public servants, addressing International Nurses Day.
-
-🟩
-
-President Ranil Wickremesinghe said that the economic growth of Sri Lanka would increase by 3 per cent by 2025 and that action would be taken to increase the salaries of public servants.
-
-President Ranil Wickremesinghe said while addressing the International Nurses Day event on Sunday (12)
-
-◼️
-
-[Data](articles/0efa7499.json)
-
-[Extended Data](ext_articles/0efa7499.ext.json)
-
----
-
-### Economic growth rate will rise to 3 percent
-
-*2024-05-12 12:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-வளர்ச்சி-வீதம்-3-வீதமாக-உயரும்/175-337168) · `ta`
-
-Sri Lanka's economic growth is projected to reach 3% by 2025, with efforts to boost public servant salaries announced by President Ranil Wickremesinghe.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka's economic growth rate would rise to 3 percent by 2025 and that steps would be taken to increase the salary of public servants on Sunday (12).
-
-◼️
-
-[Data](articles/ed9852c0.json)
-
-[Extended Data](ext_articles/ed9852c0.ext.json)
-
----
-
-### 17 Sri Lankans killed in Russia - Ukraine war
-
-*2024-05-12 12:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யா-உக்ரேன்-போருக்குச்-சென்ற-17-இலங்கையர்கள்-பலி/175-337167) · `ta`
-
-17 Sri Lankans fighting in the Russia-Ukraine war have died, with two retired soldiers missing since March 29.
-
-🟩
-
-The Criminal Investigation Department (CID) of the Criminal Investigation Department (CID) has revealed that 17 Sri Lankans who joined the military forces in the Russia -Ukraine war have been revealed.
-
-Meanwhile, two more retired soldiers who traveled to Russia on Saturday (11) were reported missing.. Relatives say they have not received any information since March 29.
-
-Asanga Chandana, a retired Air Force officer from the post, left for Russia on February 12 to participate in the Russia-Ukraine War. He last contacted his family on March 29, and there was no information.
-
-Similarly, Pradeep Chandana, a retired officer, left for Russia on February 12. It is reported that he last contacted his family on March 29 and had no announcement after that.
-
-◼️
-
-[Data](articles/740e2dac.json)
-
-[Extended Data](ext_articles/740e2dac.ext.json)
-
----
-
-### Sri Lankan competitor who said the desire
-
-*2024-05-12 11:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆசையை-சொன்ன-இலங்கை-போட்டியாளர்/54-337165) · `ta`
-
-A popular Tamil TV channel, known for serials and reality shows, recently held a mega audition for a competition. 24 competitors were selected, including a Sri Lankan contestant. The first two weeks saw 12 competitors each week, with performances ranging from a debutant proving there's no age limit for talent to a Sri Lankan contestant singing a song with Karthik and Vijay. The event, held in a new set, featured 16 juries, including Karthik, Srinivas, Vijay Prakash, and Sindhavi.
-
-🟩
-
-One of the most popular television channels in the Tamil film. The channel is now known for serials and reality shows.
-
-A total of 24 people have been selected as competitors through the mega audition that has been completed for the past two weeks. The last time Karthik did not participate as a referee, he has re -given this season.
-
-The first two weeks will be held for the first two weeks and 12 competitors in the first week will sing the remaining 12 competitors to sing next week. In this case, the interesting things that took place in the first week have been revealed.
-
-That is, when the worker, Balamurugan sang in the mega audition, the referees were singing in the debut round when I sang the breeze.. He has proved that there is no age for achieving.
-
-As well as the Sri Lankan -based contestant, a contestant, singing the song 'One evening youth time'. Karthik, along with Karthik, has sung with Vijay to sing the same song.
-
-...
-
-[Data](articles/c92e896b.json)
-
-[Extended Data](ext_articles/c92e896b.ext.json)
-
----
-
-### Person nabbed in Kalpitiya for possessing suspected gold antiques
-
-*2024-05-12 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99159/person-nabbed-in-kalpitiya-for-possessing-suspected-gold-antiques) · `en`
-
-Sri Lanka Navy has apprehended an individual who was in possession of antiques suspected to be gold in the Alankuda area of Kalpitiya on Saturday (11).
-
-The apprehension has been made as a result of a combined search operation conducted by SLNS Vijaya in the Northwestern Naval Command and Divisional Crime Investigation Bureau, Puttalam in Alankuda area. After inspecting a house in the locality on suspicion, the officers have recovered these antiques which suspected to be gold.
-
-The suspect held in this operation was identified as a resident of Eththalei in Kalpitiya, aged 34, the Navy said.
-
-The accused, along with antique items, have been handed over to the Divisional Crimes Investigation Bureau in Puttalam for onward legal action.
-
-◼️
-
-[Data](articles/4f52c6a3.json)
-
-[Extended Data](ext_articles/4f52c6a3.ext.json)
-
----
-
-### PC, two soldiers arrested while using drugs
-
-*2024-05-12 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PC-two-soldiers-arrested-while-using-drugs/108-282404) · `en`
-
-Homagama, May 12 (Daily Mirror) - A police constable and two soldiers who were using ICE narcotic in a house in the Hiripitiya area were taken into custody by the Homagama police on Saturday night (11)
-
-Police carried out the raid based on information received from the public and arrested the suspects who had in their possession 60 gms of ICE.
-
-Investigations revealed that the constable had joined the Parliamentary Security Division as a police assistant and had been promoted a PC, while the other two suspects were soldiers attached to the Sri Lanka Army General Service Corps in the Panagoda army cantonment.
-
-The suspects are to be produced before the Homagama magistrate.
-
-◼️
-
-[Data](articles/f6b8f720.json)
-
-[Extended Data](ext_articles/f6b8f720.ext.json)
-
----
-
-### Public apology; removal of 12 thousand soldiers
-
-*2024-05-12 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பு-12-ஆயிரம்-வீரர்கள்-நீக்கம்/175-337163) · `ta`
-
-Sri Lanka's military offered a three-week amnesty from April 20 to May 11, 2024, allowing soldiers without leave to leave their posts. During this period, 12,985 soldiers were temporarily moved from their brigade centers. Additionally, plans were made to allow 81 employees stranded abroad to return home without leave.
-
-🟩
-
-From 20 April 2024 to 20 May 2024, the Sri Lankan military has announced a public amnesty for soldiers who have not been able to serve without holidays.
-
-Between 20 April 2024 and 11 May 2024, 11985 soldiers who had been left without leave were temporarily evacuated from their brigade centers, as the three weeks of the amnesty ended.
-
-In addition, arrangements have been made to evict 81 employees who are currently unable to leave abroad and leave without leave.
-
-◼️
-
-[Data](articles/15a8d089.json)
-
-[Extended Data](ext_articles/15a8d089.ext.json)
-
----
-
-### Public amnesty time; removal of 12 thousand soldiers
-
-*2024-05-12 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்புக்காலம்-12-ஆயிரம்-வீரர்கள்-நீக்கம்/175-337163) · `ta`
-
-Sri Lanka's military offered a three-week amnesty from April 20 to May 11, 2024, allowing soldiers to leave without holidays. During this period, 12,000 soldiers were temporarily moved from their bases, and plans were made to assist 81 employees stuck abroad.
-
-🟩
-
-From 20 April 2024 to 20 May 2024, the Sri Lankan military has announced a public amnesty for soldiers who have not been able to serve without holidays.
-
-Between 20 April 2024 and 11 May 2024, 11985 soldiers who had been left without leave were temporarily evacuated from their brigade centers, as the three weeks of the amnesty ended.
-
-In addition, arrangements have been made to evict 81 employees who are currently unable to leave abroad and leave without leave.
-
-◼️
-
-[Data](articles/87437ac0.json)
-
-[Extended Data](ext_articles/87437ac0.ext.json)
 
 ---

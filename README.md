@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 13:52:56**
+As of **2024-05-12 14:03:27**
 
 ## Newspaper Stats
 
-*Scraped **23,457** Articles*
+*Scraped **23,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,66 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,987
+adalk | 1,988
 adaderanalk | 2,742
 tamilmirrorlk | 2,756
 virakesarilk | 3,484
 dailymirrorlk | 3,688
-adaderanasinhalalk | 3,762
+adaderanasinhalalk | 3,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,456 (100.0%) of 23,457 articles have been extended.
+23,457 (100.0%) of 23,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ආර්ථික පරිවර්තන පනතට ජනපති සහාය ඉල්ලයි
+### ත්‍රීරෝද රථයක් සොරකම් කළ 15 හැවිදිරි දරුවෙක් අත්අඩංගුවට
+
+*2024-05-12 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196535) · `si`
+
+ත්‍රීරෝද රථ ඇතුළු සොරකම් රැසකට සම්බන්ධ වයස අවුරුදු 15ක පිරිමි දරුවෙකු එගොඩඋයන පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු අත්අඩංගුවට ගෙන තිබුණේ සොරා ගත් ත්‍රීරෝද රථයකින් යමින් සිටියදී මොරටුව කටුකුරුන්ද ප්‍රදේශයේදීය.
+
+ත්‍රීරෝද රථයේ රියදුරු ලෙස සිටි සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය  මිලිගෑම් 5,200 තිබී සොයා ගැනීමට පොලීසියට හැකි විය.
+
+අනතුරුව සැකකරුගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී එගොඩඋයන පොලිස් වසමේ නිවාස තුනකින් සොරාගත් වාහන කැසට් යන්ත්‍රයක් සහ ස්මාට් ජංගම දුරකථන දෙකක් එම ප්‍රදේශයේ පුද්ගලයන් කිහිප දෙනෙකුට අඩු මුදලට විකුණා තිබියදී පොලීසිය මගින් සොයා ගෙන ඇත.
+
+◼️
+
+[Data](articles/8b53c3f5.json)
+
+---
+
+### President appeals to Economic Translation Act
 
 *2024-05-12 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196534) · `si`
 
-ආර්ථික ස්ථායිතාව වෙනුවෙන් රජය ගෙන එන ආර්ථික පරිවර්තන පනතට සහාය දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවේ සියලු පක්ෂවලින් ඉල්ලා සිටී.
+President Ranil Wickremesinghe urges Parliament to back the economic translation bill for stability, aiming for a 3% growth rate and salary hikes for public servants. The event, held on International Nurses Day at Temple Trees, also saw the presence of former President Mahinda Rajapaksa and Health Minister Dr. Ramesh Pathirana.
 
-ඒ, ජාත්‍යන්තර හෙද දිනය වෙනුවෙන් අරලිය ගහ මන්දිර පරිශ්‍රයේ පැවති සැමරුම් උත්සවයේදීය.
+🟩
 
-"අපේ බලාපොරොත්තුව එන අවුරුද්දේ අවම අවශයෙන් 3%ක වර්ධන වේගයක් ඇති වෙයි කියලා. එහෙනම් 3%ක වර්ධන වේගයක් ඇති වෙන අවස්ථාවේදී රජයේ සේවකයින්ට පඩි වැඩිකිරීම ගැනත් අපේ අවධානය යොමුවෙලා තියෙනවා. අපි කොන්දේසියකට ඇවිත් කියෙනවා IMF සංවිධානය සහ අපිට ණය දෙන රටවල් එක්ක. අපි මුදල් මුද්‍රණය කරන්නේ නැහැ කියලා."
+President Ranil Wickremesinghe requests all parties in Parliament to support the economic translation bill for the economic stability.
 
-හෙද සේවයේ මාතාව ලෙස විරුදාවලිය ලත් ෆ්ලොරන්ස්  නයිටිංගේල් මැතිණියගේ ජන්ම දිනය පදනම් කරගනිමින් මැයි 12 වනදා ජාත්‍යන්තර හෙද දිනය ලෙස ප්‍රකාශයට පත්කර තිබේ.
+It was at the event held at Temple Trees for the International Nursing Day.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති ජාත්‍යන්තර හෙද දින සැමරුම අද පෙරවරුවේ අරලිය ගහ මන්දියරයේදී පැවැත්වුණි.
+"Our hope is a growth rate of 3% to the minimum required year of the year. So when you have 3% growth rate, we also focus on increasing the stairs to public servants. We're coming to a condition IMF and with the countries that lend us. We don't print money. "
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන,සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ ඇතුළු මැතිඇමතිවරුන් මෙන්ම සෞඛ්‍ය ක්ෂේත්‍රයේ නිලධාරීන් රැසක් ඊට එක්වුණි.
+Florence Nightingul has declared as the International Nurses Day on May 12 based on the scene of the nurses.
+
+The International Nurses Day Celebrations chaired by President Ranil Wickremesinghe was held at Temple Trees this morning.
+
+Former President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Health Minister Dr. Ramesh Pathirana and health sector were also present.
 
 ◼️
 
 [Data](articles/6b3092c7.json)
+
+[Extended Data](ext_articles/6b3092c7.ext.json)
 
 ---
 
@@ -137,6 +161,22 @@ In response, Wijeyadasa Rajapakshe filed a petition seeking to suspend the inter
 [Data](articles/32d5f535.json)
 
 [Extended Data](ext_articles/32d5f535.ext.json)
+
+---
+
+### බන්ධනාගාර රැඳවියෙකු හදිසියේ අසනීප වී මරුට
+
+*2024-05-12 12:28:05* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-රැඳවියෙකු-හදිසියේ-අසනීප-වී-මරුට/11-409567) · `si`
+
+කළුතර බන්ධනාගාරයේ රදවාසිටී තරුණ රැඳවියෙකු හදිසියේ අසනීපව මියගොස් ඇති බව  පොලිසිය සදහන් කරයි. මෙසේ මියගොස් ඇත්තේ මතුගම , බෝපිටිය  ප්‍රදේශයේ පදිංචි 24 හැවිරිදි  පුද්ගලයකු බව පොලිසිය කීය.
+
+මියගොස් ඇති තැනැත්තා මත්කුඩු නඩුවක් සම්බන්ධයෙන් බන්ධනාගාරගත කර සිට ඇති අතර, හදිසියේ ඇති වූ අසනීප තත්ත්වයක් හේතුවෙන් රෝහල්  ගතකර ඇති බවත් එහිදී මියගොස් ඇති බවත්  බන්ධනාගාර ආරංචි මාර්ග සදහන් කරයි.
+
+මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා නාගොඩ ශීක්ෂණ  රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/e481d074.json)
 
 ---
 
@@ -2195,63 +2235,5 @@ Horst, a seasoned diplomat with over 20 years of experience in South Asia, empha
 [Data](articles/5aa3e250.json)
 
 [Extended Data](ext_articles/5aa3e250.ext.json)
-
----
-
-### Investment in connection with the interest rate
-
-*2024-05-11 17:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேமிப்பு-வட்டி-வீதம்-தொடர்பில்-ஆராய்வு/175-337126) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced President Ranil Wickremesinghe's directive to assess the economic situation and the demand for higher interest rates for senior citizens' savings. The President advised a deep review to determine how to address the issue amidst the country's economic crises, including the Treasury's Rs 105 billion loan for previous interest rates. The report will investigate the varying demands for interest rates across different age groups.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said that President Ranil Wickremesinghe has advised to submit a report on the basis of the current economic situation on the demand for senior citizens to increase interest rate.
-
-All senior citizens who maintain savings accounts will require 80 billion rupees per year if they provide interest rate.
-
-Treasury has a loan of Rs 105 billion for the earlier interest rate.
-
-Therefore, the President has advised to submit a report in a deep review of these demands.
-
-The President has advised to investigate how to decide on the issue amidst the current economic crises in the country.
-
-Therefore, the various demands for the interest rates of various ages will be investigated.R
-
-◼️
-
-[Data](articles/4bcff9f9.json)
-
-[Extended Data](ext_articles/4bcff9f9.ext.json)
-
----
-
-### Students are serious from a terrible accident in Balangoda
-
-*2024-05-11 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196515) · `si`
-
-A student was seriously injured in a car accident on Weligepola road, Balangoda, after a collision with a private bus. The student, who was traveling to their house, was hospitalized with severe injuries to their neck and face. Due to the severity of their condition, they were transferred from Balangoda Base Hospital to Ratnapura Provincial Hospital. The accident was caused by the reckless driving of a tipper driver transporting dangerous goods. Both the bus and tipper drivers were arrested by the Balangoda Police.
-
-🟩
-
-A student who was traveling to the house was taken into hospitalized after a landing of a car accident in the Weligepola road.
-
-A private bus traveling on the road, a private bus traveling in the opposite direction, was thrown into the bus.
-
-The neck and face area of the bus has been seriously injured and admitted to the Balangoda Base Hospital.
-
-Since her condition is serious, the hospital has been transferred to the Ratnapura Provincial Hospital.
-
-The accident occurred at the bus and Balangoda to Balangoda to Balangoda to Balangoda to the Weligepola.
-
-The accident had occurred due to the transportation of the tipper driver's unrespective driving and dangerous goods.
-
-The bus and tipper drivers were arrested by the Balangoda Police.
-
-◼️
-
-[Data](articles/89a2c807.json)
-
-[Extended Data](ext_articles/89a2c807.ext.json)
 
 ---

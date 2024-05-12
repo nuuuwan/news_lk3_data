@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 08:08:24**
+As of **2024-05-12 08:18:24**
 
 ## Newspaper Stats
 
-*Scraped **23,392** Articles*
+*Scraped **23,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 islandlk | 1,275
 economynextcom | 1,345
 dailyftlk | 1,356
-adalk | 1,979
-tamilmirrorlk | 2,736
-adaderanalk | 2,736
+adalk | 1,980
+tamilmirrorlk | 2,737
+adaderanalk | 2,738
 virakesarilk | 3,476
-dailymirrorlk | 3,679
-adaderanasinhalalk | 3,754
+dailymirrorlk | 3,680
+adaderanasinhalalk | 3,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,392 (100.0%) of 23,392 articles have been extended.
+23,392 (100.0%) of 23,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### විභාගය අතරතුර ඉංග්‍රීසි ප්‍රශ්නපත්‍රය වට්ස්ඇප් දැමූ ගුරුවරයෙකු අත්අඩංගුවට
+
+*2024-05-12 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196527) · `si`
+
+මේ දිනවල පැවැත්වෙන අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ඉංග්‍රීසි ප්‍රශ්නපත්‍රය වට්ස්ඇප් සමූහ වෙත මුදාහැරීමේ සිද්ධියක් සම්බන්ධයෙන් උපකාරක පංති ගුරුවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වි‍ෂේශ විමර්ශන ඒකකය විසින් අද (12) එම සැකකරු මහනුවර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/bee5357e.json)
+
+---
+
+### Lightning destroys Walasmulla Hospital ETU
+
+*2024-05-12 07:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lightning-destroys-Walasmulla-Hospital-ETU/108-282399) · `en`
+
+Colombo, May 12 (Daily Mirror) - The Emergency Treatment Unit (ETU) of the Walasmulla Base Hospital has been completely destroyed due to a lightning strike with the heavy rains.
+
+With the lightning strike on last Friday (10), all the electrical equipment in the units were destroyed and the building was also damaged by the fire caused by the lightning.
+
+Agriculture and Plantation Industry Minister Mahinda Amaraweera visited the hospital yesterday (11) to inspect the damages caused the hospital.
+
+He said that the damages caused to the ETU due to the lightning strike is estimated to be around Rs. 50 million.
+
+The Minister discussed this incident with Southern Province Governor Lakshman Yapa Abeywardena yesterday (11) over the phone and said that money will be allocated for the renovation of this Emergency Treatment Unit and that the Governor will inspect the hospital today.
+
+...
+
+[Data](articles/8ee9dfab.json)
+
+---
+
+### Tuition teacher arrested in Kandy for photographing, sharing O/L English paper
+
+*2024-05-12 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99156/tuition-teacher-arrested-in-kandy-for-photographing-sharing-ol-english-paper) · `en`
+
+A tuition class teacher has been arrested in Kandy over the incident of allegedly photographing the English Language question paper of the 2023 G.C.E. Ordinary Level examination and sharing it on WhatsApp during the exam recently.
+
+◼️
+
+[Data](articles/e4d3489d.json)
+
+---
+
+### Heavy showers expected in several provinces and districts
+
+*2024-05-12 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99155/heavy-showers-expected-in-several-provinces-and-districts) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
+
+Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central and Eastern provinces and in Badulla, Galle and Matara districts.
+
+Showers may occur at a few places in the coastal areas of western and Southern provinces during the morning too, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/87e20eb4.json)
+
+---
 
 ### Extension of vehicle imports from next year
 
@@ -123,6 +189,22 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 [Data](articles/bef932f7.json)
 
 [Extended Data](ext_articles/bef932f7.ext.json)
+
+---
+
+### ’பெண்களை வலுவூட்டும் சட்டமூலம் நிறைவேற்றப்படும்’
+
+*2024-05-12 01:40:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களை-வலுவூட்டும்-சட்டமூலம்-நிறைவேற்றப்படும்/175-337146) · `ta`
+
+பொருளாதார நெருக்கடியின்போது குடும்பத்தைக் கவனிப்பதில் பெண்கள் எதிர்கொண்ட சவால்களை நான் நன்கு அறிவேன். பொருளாதார நெருக்கடிக்குப் பின்னர் முதன்முறையாக பெண்களை வலுவூட்டும் வகையில் அரசாங்கம் இரண்டு சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பித்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+பொது இடங்களில் பெண்கள் மற்றும் சிறுமிகளுக்கு நிகழும் பாலியல் வன்முறைகளுக்கு எதிரான 'உலகளாவிய வன்கொடுமை எதிர்ப்பு சைகைகள்' 3 கை முத்திரைகளை வெளியிடும் நிகழ்வு நேற்று கொழும்பு தாமரைத்தடாக அரங்கில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+
+பொருளாதார நெருக்கடியின்போது பெண்கள் பெரிதும் பாதிக்கப்பட்டனர். உணவுத் தட்டுப்பாடு காரணமாகவும் பெண்கள் மிகவும் அவதிப்பட்டனர். சில குடும்பங்கள் பெண்களால் வழிநடத்தப்பட்டன. அதனால் பெண்களை வலுவூட்ட எதிர்பார்க்கிறோம். பெண்கள் வலுவூட்டலுக்கான சட்டம் மற்றும் பாலின சமத்துவச் சட்டம் என்பன பாராளுமன்றத்தில் சமர்பிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/bcb5fdd2.json)
 
 ---
 
@@ -1140,6 +1222,24 @@ Further investigations have been launched after a complaint was lodged at the Ja
 
 ---
 
+### පාර්ලිමේන්තු මැතිවරණයට සියයට 25ක කාන්තා නියෝජනයක් ගැන තවම යෝජනාවක් නෑ
+
+*2024-05-11 14:11:40* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මැතිවරණයට-සියයට-25ක-කාන්තා-නියෝජනයක්-ගැන-තවම-යෝජනාවක්-නෑ/11-409559) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයේදි කාන්තා නියෝජනය සියයට 25ක් දක්වා ඉහළ නැංවිමට දැනට යෝජනාවක් නොමැති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+
+ගෝනාපිනුවල පැවැති සෞඛ්‍ය වැඩසහනකින් අනතුරුව මැතිවරණ වලදි කන්තා නියෝජනය ඉහළ නැංවීම පිළිබදව ජනාධිපතිවරයා දැක් වූ අදහස් පිළිබදව මාධ්‍යවේදීන් නැගු ප්‍රශ්ණයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවැසිය.
+
+ජනාධිපතිවරයා සඳහන් කළේ පළාත් සභා මැතිවරණයේ දී සියයට 25 ක කාන්තා නියෝජනයක් සදහා අවශ්‍ය ප්‍රතිපත්තිමය රාමුව වෙනස් කරනවා යන කරුණ බවත් ඉදිරි පාර්ලිමේන්තු මැතිවරණයට එවැනි යෝජනාවක් නොමැති බවත් බවත් අමාත්‍යවරයා පැවැසිය.
+
+රසේම පළාත් පාලන ආයතනවල දැනට සැළකිය යුතු කාන්තා නියෝජනයක් සළසා දී ඇති බව ද අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/609be748.json)
+
+---
+
 ### “Yukthiya”: Over 111,000 suspects arrested so far in anti-drug operation
 
 *2024-05-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99147/yukthiya-over-111000-suspects-arrested-so-far-in-anti-drug-operation-) · `en`
@@ -2125,159 +2225,5 @@ Senator Benkartin pointed out the US's efforts to further improve the freedoms f
 [Data](articles/52c3fad8.json)
 
 [Extended Data](ext_articles/52c3fad8.ext.json)
-
----
-
-### In the yarns. Sister who was raped by brother!
-
-*2024-05-11 08:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183196) · `ta`
-
-A woman in Jaffna was raped by a gang, including her brother, leading to her death. The brother, arrested and charged, claimed innocence, stating he was also a victim.
-
-🟩
-
-A police investigation into the incident in which a woman from a neighboring woman near Jaffna city has been raped by a gang, including a brother, has revealed that the sister has been raped.
-
-The sister died last December after she lost her mother and her mother.
-
-Following that, his sister from the brother's archive brought her home last January.
-
-From January to April last year, she continued to rape the sister's drug and drink alcohol.
-
-In April, the woman's body is again added to the archive. There, the woman was admitted to the Point Pedro Hospital after the woman's condition was bad.
-
-Medical examination found that female was raped and tortured. Following the announcement of the incident to the police, the Jaffna Police Station Women's Division carried out investigations.
-
-In the vote received by the victim, he said that the gang who broke her into the house had been harassed.
-
-...
-
-[Data](articles/a8d5e55c.json)
-
-[Extended Data](ext_articles/a8d5e55c.ext.json)
-
----
-
-### US infected Israel to Israel
-
-*2024-05-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196498) · `si`
-
-The US accuses Israel of violating humanitarian law in Gaza, using American weapons, and employing foreign fighters. Despite Israel's military challenges against Hamas, the US report suggests Israeli forces have breached international law, potentially affecting operations in Gaza.
-
-🟩
-
-The US government says Israel has violated humanitarian law in Gaza, using American weapons.
-
-Foreigners were used by the United States incompatible with the United States.
-
-However, the US government has said that Israel has faced an extraordinary military challenge against Hamas militants in Gaza.
-
-It is said that these factors have been suspected of a report from the White House.
-
-The report will have a clear impact on Israeli operations in Gaza.
-
-The report states that the Israeli security forces have violated international humanitarian law.
-
-◼️
-
-[Data](articles/ceeb9201.json)
-
-[Extended Data](ext_articles/ceeb9201.ext.json)
-
----
-
-### Heavy showers over 100mm expected in parts of the island
-
-*2024-05-11 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99141/heavy-showers-over-100mm-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
-
-Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Showers may occur at several places in the coastal areas of Southern province during the morning too, it said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/bd88c728.json)
-
-[Extended Data](ext_articles/bd88c728.ext.json)
-
----
-
-### Anderson closes the door
-
-*2024-05-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196497) · `si`
-
-England's fast bowlers, including the legendary Anderson, are gearing up for a record-breaking Test series, with a focus on nurturing young talent. Anderson, at 42, continues to be a pivotal figure, as reported by Bandon McCullum to the England coach.
-
-🟩
-
-It is reported that the fast bowler team, England's team, is preparing to repay the highest Test-wicket number of Tests.
-
-Foreign media reports that England has decided to focus on new and young fast bowlers for the coming Test tournament.
-
-Anderson has informed the England coach informed by Bandon McCullum.
-
-He was a 42-year-old in 2003 he was 42 years old
-
-◼️
-
-[Data](articles/344c23f4.json)
-
-[Extended Data](ext_articles/344c23f4.ext.json)
-
----
-
-### Shooting Ahungalla Shot was revenge
-
-*2024-05-11 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196496) · `si`
-
-A revenge shooting in Maradana targeted a drug dealer's father, allegedly by the son of Keerthisena Abrea. The victim was shot multiple times, including in the stomach, and was admitted to Balapitiya Hospital.
-
-🟩
-
-It has been revealed that the shooting was held in Maradana yesterday (10th) afternoon.
-
-The preliminary investigations were revealed that the father of a drug dealer of the drug dealer in the Bulunwatta area in Ahungalla, Ahungalla, has been taken away as a revenge in the murder of the drug dealer.
-
-According to the police, the bullet was carried out by the son of Keerthisena Abrea, the son of Keerthisena Abrea recently.
-
-The murder was shot dead yesterday and the victim was 5 shooting and a few bullets were taken to his stomach.
-
-Two unidentified gunmen had fled by two unidentified gunmen from a motorcycle while at their home.
-
-The injured person was admitted to the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/50984cae.json)
-
-[Extended Data](ext_articles/50984cae.ext.json)
-
----
-
-### Sri Lanka’s April tourism revenue rise 52-pct
-
-*2024-05-11 07:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-april-tourism-revenue-rise-52-pct-162598/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to 225.7 million dollars in April 224, a 52 percent jump from last year, the central bank said quoting tourism promotion authorities.
-
-Sri Lanka’s tourist arrivals went up 78 percent to 784,651 persons in the first four months of 2024.
-
-Tourism earnings in April were estimated at 225.7 million dollars, up from 148.2 million dollars a year ago.
-
-The tourism has helped the island nation to see an inflow of 1,251.6 million dollars in the first four months of the year, 92 percent higher than the same period in 2023.
-
-The tourism earnings figure is estimated from a survey conducted by Sri Lanka Tourism Development Authority.
-
-Sri Lanka’s imports and the merchandise trade deficit has gradually picked as tourism earnings came in and people in the sector spent the wages and other earnings. (Colombo/May 11/2024)
-
-◼️
-
-[Data](articles/3e65e038.json)
-
-[Extended Data](ext_articles/3e65e038.ext.json)
 
 ---

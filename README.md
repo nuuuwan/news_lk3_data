@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 17:03:17**
+As of **2024-05-12 17:18:28**
 
 ## Newspaper Stats
 
-*Scraped **23,492** Articles*
+*Scraped **23,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,992
 adaderanalk | 2,746
 tamilmirrorlk | 2,759
 virakesarilk | 3,495
-dailymirrorlk | 3,692
-adaderanasinhalalk | 3,767
+dailymirrorlk | 3,693
+adaderanasinhalalk | 3,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,492 (100.0%) of 23,492 articles have been extended.
+23,494 (100.0%) of 23,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### SLFP gets new acting General Secretary
+
+*2024-05-12 16:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-gets-new-acting-General-Secretary/108-282414) · `en`
+
+Colombo, May 12 - The faction of the Sri Lanka Freedom Party (SLFP) under the leadership of former President Maithripala Sirisena has announced the appointment of Attorney-at-Law Keerthi Udawatte as the Acting General Secretary.
+
+This follows the appointment of new SLFP Chairman Wijeyadasa Rajapakshe.
+
+◼️
+
+[Data](articles/a982b25f.json)
+
+[Extended Data](ext_articles/a982b25f.ext.json)
+
+---
+
+### A rain over 100 mm millimeters today
+
+*2024-05-12 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196542) · `si`
+
+Heavy rain exceeding 100mm is expected today, with thundershowers in several areas in the evening. The Meteorological Department reports significant rainfall in Gampaha, Wattapitiya, and Palabaddala regions.
+
+🟩
+
+Thundershowers will occur at several places in the evening today (12).
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ මේ වනවිට ගම්පහ ප්‍රදේශයෙන් මිලිමීටර් 101ක වර්ෂාපතනයක්, වතුපිටිවල ආශ්‍රිතව මිලිමීටර් 98.5ක වර්ෂාපතනයක්, පලාබද්දල ප්‍රදේශය ආශ්‍රිතව මිලිමීටර් 81.5ක වර්ෂාපතනයක් වාර්තාවී ඇති බවය.
+
+The Meteorologist Shrahl Herath said the weather herath, who is expecting more than 100 millimeters in the Western, Sabaragamuwa, Central and Matara districts.
+
+◼️
+
+[Data](articles/8fd10511.json)
+
+[Extended Data](ext_articles/8fd10511.ext.json)
+
+---
 
 ### Indian Prime Minister Modi's controversy
 
@@ -2201,51 +2239,5 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 [Data](articles/bef932f7.json)
 
 [Extended Data](ext_articles/bef932f7.ext.json)
-
----
-
-### Exchange artificial intelligence research next year
-
-*2024-05-12 01:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-நுண்ணறிவு-ஆராய்ச்சி-அடுத்த-வருடம்/175-337147) · `ta`
-
-President Ranil Wickremesinghe announced a billion-rupee allocation for AI and Buddhist teachings research next year. He emphasized the importance of understanding AI's impact on Buddhism, highlighting the potential for AI to enhance human minds and the need for regulations to prevent it from undermining religious teachings.
-
-🟩
-
-President Ranil Wickremesinghe said that a billion rupees will be allocated next year for research on the teachings of the Buddha and artificial intelligence.
-
-The President said this while addressing the 100th anniversary of the Moratuwa Sri Lanka Buddhist Society held at the Moratuwa Buddhist Hall yesterday.. When he further addresses,
-
-Being now is the beginning of artificial intelligence. We face the question of where artificial intelligence will go over the next two decades. Focus on what is the connection between artificial intelligence and Buddhism.
-
-...
-
-[Data](articles/7b367f7b.json)
-
-[Extended Data](ext_articles/7b367f7b.ext.json)
-
----
-
-### The bill will be enacted by the reinforcement of women
-
-*2024-05-12 01:40:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களை-வலுவூட்டும்-சட்டமூலம்-நிறைவேற்றப்படும்/175-337146) · `ta`
-
-The government has introduced two bills to support women, addressing their challenges during the economic crisis, including food shortages and family responsibilities. These bills aim to implement gender equality policies, establish a National Women's Commission, and protect women's rights, including a commission to address violence against women.
-
-🟩
-
-I am well aware of the challenges faced by women in watching the family during the economic crisis. President Ranil Wickremesinghe said the government has submitted two bills in Parliament to strengthen women for the first time since the economic crisis.
-
-The release of 'Global Anti -Violence Gestures' against sexual violence for women and girls in public places was held at the Lotus Stadium in Colombo yesterday.. The President said this while addressing the event. When he further addresses,
-
-Women were greatly affected during the economic crisis. Women also suffered from food shortages. Some families were guided by women. So we expect to strengthen women. The law for women's reinforcement and the Gender Equality Act has been presented in Parliament.
-
-The Bill is aimed at implementing the National Policy on Gender Equality and Women's Reinforcement, the establishment of the National Women's Commission, the establishment of women's rights and the lawsuit for women's rights violations.
-
-...
-
-[Data](articles/bcb5fdd2.json)
-
-[Extended Data](ext_articles/bcb5fdd2.ext.json)
 
 ---

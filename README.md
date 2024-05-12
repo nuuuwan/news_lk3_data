@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 09:52:39**
+As of **2024-05-12 10:03:43**
 
 ## Newspaper Stats
 
-*Scraped **23,404** Articles*
+*Scraped **23,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 2,738
 tamilmirrorlk | 2,738
 virakesarilk | 3,476
 dailymirrorlk | 3,680
-adaderanasinhalalk | 3,756
+adaderanasinhalalk | 3,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,404 (100.0%) of 23,404 articles have been extended.
+23,404 (100.0%) of 23,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### අක්මීමන මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-05-12 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196529) · `si`
+
+අක්මීමන, කුරුන්දකන්ද, ලබුදූව ප්‍රදේශයේදී සිදුකළ මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් දෙදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරින්ට ලද තොරතුරක් මත එම සැකකරුවන් ඊයේ (11) අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් අත්අඩංගුවට ගෙන තිබුණේ රාජගිරිය ප්‍රදේශයේ ලැගුම්හලක රැඳි සිටීයදී බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 24 හා 32 වයස්වල පසුවන ලබුදූව ප්‍රදේශයේ පදිංචිකරුවන්ය.
+
+ඔවුන් පසුගිය 09 වනදා අක්මීමන කුරුන්දකන්ද, ලබුදූව ප්‍රදේශයේදී පුද්ගලික ආරවුලක් මත පුද්ගලයෙක්ව ඝාතනය කර තවත් පුද්ගලයෙකුට තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකිරීමේ සිද්ධියක් සම්බන්ධයෙන් සොයමින් සිට සැකකරුවන් බව පොලීසිය පවසයි.
+
+මේ අතර මනුෂ්‍ය ඝාතකයක් ඇතුළු අපරාධ කිහිපයකට සම්බන්ධ සැකකරුවෙකු පුවරසන්කුලම්, කට්පගපුරම් ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ එම සැකකරු අක්කරායන්කුලම් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+මෙම සැකකරු පදිංචි ප්‍රදේශයෙන් පළාගොස් සැඟව සිටියදී අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/ca603bde.json)
+
+---
 
 ### Four-year-old child falls into well
 
@@ -2217,31 +2243,5 @@ Pasco produces the bread at a factory in Tokyo, whose assembly line has been sus
 [Data](articles/6bbc23df.json)
 
 [Extended Data](ext_articles/6bbc23df.ext.json)
-
----
-
-### 'Wella Saranga' arrested
-
-*2024-05-11 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196500) · `si`
-
-"Wella Saranga," an organized criminal and drug dealer, was arrested by the STF for supporting a murderer and possessing ice drugs. The arrest occurred in the June Tudella area, where Saranga, currently in Dubai, was linked to a shooting in the Muttarugala area on March 08. The suspect, a 28-year-old from Ja Elas, was also found with 100 grams of ice narcotics.
-
-🟩
-
-An organized criminal and a drug dealer have been arrested by the STF with an ice drugs with the "Sella Drugs'.
-
-The brigade stated that this person was arrested in the June Tudella area on charges of support and lodging to a man who had come to a human murder.
-
-An organized criminal and a drug dealer is currently in the direction of the sand Saranga, which is currently in Dubai, has been shot dead in the Muttarugala area on March 08.
-
-The suspect had been arrested, allegedly supporting the shooter, and the possession of a donation of the ice narcotics, and 100 grams of ice.
-
-A 28 year old resident of Ja Elas.
-
-◼️
-
-[Data](articles/647668f6.json)
-
-[Extended Data](ext_articles/647668f6.ext.json)
 
 ---

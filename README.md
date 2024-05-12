@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 00:04:27**
+As of **2024-05-13 00:18:14**
 
 ## Newspaper Stats
 
-*Scraped **23,542** Articles*
+*Scraped **23,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,350
 dailyftlk | 1,356
 adalk | 2,002
 adaderanalk | 2,750
-tamilmirrorlk | 2,759
+tamilmirrorlk | 2,760
 virakesarilk | 3,504
 dailymirrorlk | 3,705
 adaderanasinhalalk | 3,778
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,541 (100.0%) of 23,542 articles have been extended.
+23,542 (100.0%) of 23,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### இஸ்ரேலுக்கு அணுகுண்டு மிரட்டல் விடுத்தது ஈரான்
+
+*2024-05-12 23:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலுக்கு-அணுகுண்டு-மிரட்டல்-விடுத்தது-ஈரான்/50-337208) · `ta`
+
+இஸ்ரேலுக்கு ஈரான் அணுகுண்டு தாக்குதல் மிரட்டல் விடுத்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+சிரியாவில் உள்ள ஈரான் தூதரகம் மீது கடந்த ஏப்ரல் மாதம் இஸ்ரேல் ஏவுகணை தாக்குதல் நடத்தியதில் 12 பேர் உயிரிழந்தனர்.
+
+இதையடுத்து, இதற்கு பதிலடியாக இஸ்ரேல் மீது ஈரான் தாக்குதல் நடத்திய நிலையில், இஸ்ரேல் மீண்டும் தாக்குதல் நடத்தினால் அதற்குப் பதிலடி மிகவும் உக்கிரமாக இருக்கும் என்று ஈரான் எச்சரித்திருந்தது.
+
+◼️
+
+[Data](articles/f316ae13.json)
+
+---
 
 ### 176,000 kg of inappropriate rice raided
 
@@ -274,19 +290,27 @@ The 14 arrested have been remanded until 15 of the Nugegoda Magistrate's Court.
 
 ---
 
-### රජය ඉල්ලීමක් කළොත් රුසියාවේ හමුදා සේවයට ගිය ලාංකිකයන් සතියකින් ගෙන්වනවා
+### If the government requests the Government of Russia, Sri Lankans imported in a week
 
 *2024-05-12 19:57:22* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ඉල්ලීමක්-කළොත්-රුසියාවේ-හමුදා-සේවයට-ගිය-ලාංකිකයන්-සතියකින්-ගෙන්වනවා/11-409582) · `si`
 
-රජය පාර්ශ්වයෙන් තමන්ගෙන් ඉල්ලීමක් කළොත් දැනට රුසියාවේ හා යුක්රේනයේ කුලී හමුදා ලෙස සේවය කරන ශ්‍රී ලාංකික හමුදා සෙබළුන් සතියක් තුළ මෙරටට ගෙන්වා දීමට තමන්ට හැකි බව රුසියාවේ හිටපු ශ්‍රී ලංකා තාතාපති උදයංග වීරතුංග මහතා පැවසීය.ඔහු මේ බව පැවසුවේ අද (12දා) මත්තල ගුවන් තොටුපොළ පරිශ්‍රෙයේදී මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+Udayanga Weeratunga, a former Russian Assault, suggested that Sri Lankan soldiers could be deployed in Russia and Ukraine. He criticized the government for sending soldiers as mercenaries, stating that officials should be held accountable. He mentioned that these soldiers are directly involved in the war, without proper training, and that there are around 1500 foreigners in the rear lines. Weeratunga expressed his willingness to serve as an ambassador to address this issue.
 
-"අද වන විට ලංකාවේ හමුදා සෙබළුන් විවිධ රටවලට කුලී හමුදා ලෙස සේවය කිරීමට යැවීම නිසා අකාලයේ ඔවුන්ගේ ජීවිත විනාශ වෙමින් තිබෙනවා.ලංකාවේ හා පිට රට ඉන්න විවිධ ජාවාරම්කාරයන් එකතු වෙලා තමයි මේ ජාවාරම කරගෙන යන්නේ. ලංකා රජය වගේම නිලධාරීන්නුත් මේකට වගකියන්න ඕනේ.
+🟩
 
-රුසියානු හා යුක්රේන රජය ඍජුව කුලී හමුදා ගන්නේ නෑ.අතරමැදියන් හරහා තමයි ගන්නේ.ඒ කුලී හමුදාව සම්බන්ධයෙන් යුක්රේනය හෝ රුසියාව කිසිදු වගකිමක් ගන්නේ නෑ. එලෙස බඳවා ගන්නා කුලී හමුදාවලට කිසිදු පුහුණුවක් ලබා දෙන්නේ නෑ. ඒ අය කෙළින්ම යොමු කරන්නේ යුද්ධයේ ඉදිරි වළල්ලට.යුක්රේනයේ තානාපති වරයෙක් මා එක්ක කිව්වා ඉදිරි වළල්ලේ විදේශිකයන් 1500ක විතර කුලී හමුදාවක් ඉන්නවා.
+Former Russian Assault Udayanga Weeratunga said that he could bring the Sri Lankan soldiers in Russia and Ukraine in Russia and Ukraine in the event.Responding to a question.
 
-...
+"The racket is being carried out in the country due to the sending of the soldiers in Sri Lanka to serve as a rented for many countries today.. Like the Government of Ceylon, the officials of the country should be held responsible.
+
+The Russian and Ukrainian government do not take rentiers directly. Ukraine or Russia does not take any responsibility regarding. There is no training for the renting forces. They directly refer to the front ring of the war. A diplomatic of the war was told with me about 1500 foreigners in the back line.
+
+There are many Sri Lankan soldiers.So don't get caught at a racket.. I do if I can be the ambassador to this week. "
+
+◼️
 
 [Data](articles/c7be4034.json)
+
+[Extended Data](ext_articles/c7be4034.ext.json)
 
 ---
 
@@ -2181,27 +2205,5 @@ In addition, arrangements have been made to evict 81 employees who are currently
 [Data](articles/87437ac0.json)
 
 [Extended Data](ext_articles/87437ac0.ext.json)
-
----
-
-### Civil Social Activities Committee Announced soon with political parties on common candidate!
-
-*2024-05-12 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183294) · `ta`
-
-The Civil Social Activities Committee, including civil and political representatives, plans to discuss a common Tamil candidate for the presidential election. The committee aims to establish a framework to support this candidate, involving talks with various political parties, including those with a negative stance. This initiative seeks to unify efforts and address issues like party symbols, election manifestos, and campaign strategies.
-
-🟩
-
-The Executive Committee, which includes representatives of civil organizations, is planning to launch talks with political parties on the Tamil Nationalist base soon.
-
-It has been decided to establish a general framework comprising representatives of political parties and civil organizations to stop a Tamil general candidate in the presidential election. For this purpose, on behalf of the civil organizations. Chidambaranathan, Nilanthan, Yodelingam, Yatindra, Sivayoganathan, Narendra Singam, Sundareswarar and two representatives of the university community have been established.
-
-The group has decided to meet all political parties in the coming days and carry out conversations. In particular, the committee is planning to meet with the Tamil National People's Front and people's representatives, who have a negative position on the common candidate.
-
-...
-
-[Data](articles/94d9e5cc.json)
-
-[Extended Data](ext_articles/94d9e5cc.ext.json)
 
 ---

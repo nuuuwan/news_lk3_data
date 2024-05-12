@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 02:33:37**
+As of **2024-05-13 02:50:54**
 
 ## Newspaper Stats
 
-*Scraped **23,571** Articles*
+*Scraped **23,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,350
-dailyftlk | 1,369
+dailyftlk | 1,374
 adalk | 2,002
 adaderanalk | 2,751
 tamilmirrorlk | 2,760
@@ -26,11 +26,111 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,569 (100.0%) of 23,571 articles have been extended.
+23,571 (100.0%) of 23,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Wijeyadasa takes over SLFP leadership as Maithri steps down
+
+*2024-05-13 02:37:19* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-takes-over-SLFP-leadership-as-Maithri-steps-down/56-761719) · `en`
+
+SLFP pro-Sirisena faction names Wijeyadasa Rajapakshe as Maithripala Sirisena’s successor at special meeting in Kotte
+
+Pro-CBK faction accuses pro-Sirisena faction of violating injunction orders by holding a special party meeting
+
+Acting General Secretary Duminda Dissanayake in a letter to SLFP Senior Deputy Secretary asks him to refrain from calling such meetings in the future
+
+Stresses so-called Executive Council meeting held by Pro-Sirisena faction to appoint Rajapakshe has no legitimacy
+
+Former President Maithripala Sirisena relinquished his position as Chairman of the Sri Lanka Freedom Party (SLFP) yesterday, paving the way for Acting Chairperson Minister of Justice Wijeyadasa Rajapakshe to take over the role.
+
+The decision was announced at a special SLFP Executive Committee meeting held in Kotte by the Pro-Sirisena faction of the party yesterday morning.
+
+The party said a unanimous decision was reached to appoint Minister of Justice Wijeyadasa Rajapakshe as the new Chairman.
+
+...
+
+[Data](articles/6746fa25.json)
+
+---
+
+### Govt. de-gazettes part of Vidataltivu Nature Reserve
+
+*2024-05-13 02:30:09* · [`dailyftlk`](https://www.ft.lk/news/Govt-de-gazettes-part-of-Vidataltivu-Nature-Reserve/56-761718) · `en`
+
+An extraordinary gazette has been issued de-gazetting a section of the Vidataltivu Nature Reserve to set up an aquaculture industrial park.
+
+The gazette issued by Minister of Wildlife and Forest Resources Conservation Pavithradevi Wanniarachchi, noted that the area specified in the appendix of the gazette will no longer be designated as part of the Vidataltivu Nature Reserve.
+
+However, the appendix of the gazette notification has not been made available to the public. Accordingly, the exact land extent of the area has been de-gazetted and other information remains unknown.
+
+According to previously available information, the aquaculture industrial park will be used for the farming of various species including marine finfish, crabs and exotic species of shrimp in a Public Private Partnership (3P) and is expected to raise $ 1.3 billion for the Government.
+
+...
+
+[Data](articles/675e4f5e.json)
+
+---
+
+### CEJ to take legal action over degazetting of Vidataltivu
+
+*2024-05-13 02:28:33* · [`dailyftlk`](https://www.ft.lk/news/CEJ-to-take-legal-action-over-degazetting-of-Vidataltivu/56-761717) · `en`
+
+Center for Environmental Justice (CEJ) Chairman Attorney-at-Law Ravindranath Dabare yesterday said the organisation will take legal action against the Government’s move to degazette a section of the Vidataltivu Nature Reserve.
+
+According to Dabare, as an initial step the CEJ has filed a Right to Information (RTI) request to the Ministry of Wildlife and Forest Resources Conservation.
+
+CEJ is seeking an authentic copy of Extraordinary Gazette 2383/05, dated 6 May, which de-gazetted a portion of the nature reserve. Dabare said that the extent of the degazetted land and other details remain undisclosed since the appendix containing the information has not been made public.
+
+It has also requested information if the subject minister had obtained a study report on the impact the project may have on the reserve as stipulated by S. 2 (5) of the Flora and Fauna Protection Ordinance. He said based on the response received, the CEJ will challenge the Government’s decision in Court.
+
+...
+
+[Data](articles/5c084048.json)
+
+---
+
+### Sobitha Thera claims 10 dual citizen MPs in Parliament
+
+*2024-05-13 02:27:47* · [`dailyftlk`](https://www.ft.lk/news/Sobitha-Thera-claims-10-dual-citizen-MPs-in-Parliament/56-761716) · `en`
+
+Calls for immediate resignations of all MPs holding dual citizenship prior to polls
+
+Refrains from disclosing names and warns to take legal action if they do not voluntarily step down soon
+
+Urges party leaders to be vigilant in selecting candidates going forward and to reveal dual citizens among their ranks
+
+Says MPs with dual citizenship lack loyalty and are motivated by personal gain alone
+
+VEN. Omalpe Sobitha Thera yesterday called for the immediate resignation of all parliamentarians holding dual citizenship.
+
+He asserted that there are approximately 10 MPs with dual citizenship currently serving in Parliament and emphasised the necessity for them to step down before the upcoming elections.
+
+...
+
+[Data](articles/9914a759.json)
+
+---
+
+### Cabinet clears to draft bill for National Teachers Council
+
+*2024-05-13 02:24:35* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-to-draft-bill-for-National-Teachers-Council/56-761715) · `en`
+
+The Cabinet of Ministers on Monday approved to direct the Legal Draftsman to a bill for the formation of a National Teachers Council.
+
+The decision aligns with the National Education Policy Framework’s recommendation to establish such a council, following global best practices and aiming to elevate the professionalism and quality of teachers through ongoing professional growth opportunities.
+
+“A preliminary draft has been prepared to pave the way for the establishment of the National Teachers Council,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
+
+The joint proposal was put forth by President Ranil Wickremesinghe and Education Minister Dr. Susil Premajayantha.
+
+◼️
+
+[Data](articles/ba6bc7ad.json)
+
+---
 
 ### Sarva Ameresekere takes baton as Group Chairman of George Steuart & Co.
 
@@ -45,6 +145,8 @@ The appointment comes as Dilith Jayaweera resigned from the Group Chairmanship a
 ...
 
 [Data](articles/e58f95fa.json)
+
+[Extended Data](ext_articles/e58f95fa.ext.json)
 
 ---
 
@@ -61,6 +163,8 @@ Miraclon, with operations across 180 countries and a vast customer base of over 
 ...
 
 [Data](articles/cff9ac56.json)
+
+[Extended Data](ext_articles/cff9ac56.ext.json)
 
 ---
 
@@ -2059,107 +2163,5 @@ The oil queues, the oil queue, eliminating the shortfall, were asked to import t
 [Data](articles/cf356c29.json)
 
 [Extended Data](ext_articles/cf356c29.ext.json)
-
----
-
-### Rs. 1 billion to be allocated for research on relationship between Buddha’s teachings and AI – President
-
-*2024-05-12 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99162/rs-1-billion-to-be-allocated-for-research-on-relationship-between-buddhas-teachings-and-ai-president) · `en`
-
-President Ranil Wickremesinghe emphasised that Rs. 01 billion will be allocated next year for research on the relationship between Buddha’s teachings and Artificial Intelligence (AI).
-
-The President mentioned that while the research on Buddha’s teachings and AI was scheduled to begin this year, it has been postponed to next year due to the absence of required legislation for the regulation of Artificial Intelligence. He emphasized that the subsequent steps will be taken once the new laws are adopted.
-
-President Ranil Wickremesinghe made this statement during his attendance at the 100th anniversary celebration of the Sri Lanka Buddhist Society Moratuwa, held on Saturday (11) at the Moratuwa Buddhist Society Hall.
-
-...
-
-[Data](articles/a774d3e3.json)
-
-[Extended Data](ext_articles/a774d3e3.ext.json)
-
----
-
-### More than ten thousand bodies in the absence of wreckage in Gaza
-
-*2024-05-12 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183313) · `ta`
-
-Gaza's Civil Security Division reports over 10,000 bodies from Israel's attacks, with no wreckage found. Mahmood Basal, a Hamas spokesman, calls for UN and humanitarian aid to support rescue efforts. Bodies of Israeli soldiers are still being recovered from the Alciba Hospital, 40 days after the attack.
-
-🟩
-
-Gaza's Civil Security Division has said that there are more than ten thousand bodies under the wreckage of Israel's attacks in Gaza.
-
-"We have been using the most common machinery for the past several months," said Mahmood Basal, a spokesman for the Hamasin Civil Security Division.
-
-When Israel carried out an attack in a particular area, the medical division and the Civil Security Division of Gaza first go there.
-
-Hamasin Civil Security Division spokesman Mahmood Basal said that the UN and humanitarian organizations should support efforts to bring the machines that are needed to rescue those who are in ruins.
-
-40 days after the Israeli soldiers have been away from the Alciba Hospital, we are still recovering the bodies of Israeli soldiers buried inside the hospital.
-
-◼️
-
-[Data](articles/235cf48d.json)
-
-[Extended Data](ext_articles/235cf48d.ext.json)
-
----
-
-### Mahinda announced on sale of government assets
-
-*2024-05-12 13:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වත්කම්-විකිණීම-ගැන-මහින්දගෙන්-නිවේදනයක්/11-409571) · `si`
-
-Mahinda Rajapaksa, former President of Sri Lanka, announced the suspension of plans to sell government assets, citing unrest among unions, political parties, and the public. He emphasized the need for a balanced approach to privatization, considering both economic benefits and the impact on public services. Rajapaksa highlighted his government's strategy of maintaining profitable state institutions and using strategic subsidies to aid low-income groups, contrasting with the current government's approach to meet IMF terms. He warned against hasty privatization, especially with foreign partners, and called for a flexible stance from trade unions towards private sector involvement in public sector institutions.
-
-🟩
-
-Former President Mahinda Rajapaksa says that all other proposals have been suspended against the sale of government assets or businesses to sell the country's property across the country for only a few months.
-
-The former president says a statement that the presidential election will take action to deal with the mandate of the presidential election.
-
-...
-
-[Data](articles/abb97d5a.json)
-
-[Extended Data](ext_articles/abb97d5a.ext.json)
-
----
-
-### Maithri resigns
-
-*2024-05-12 13:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-සභාපති-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-409570) · `si`
-
-Maithripala Sirisena resigns as SLFP Chairman, replaced by Justice Wijayadasa Rajapakse.
-
-🟩
-
-Former President Maithripala Sirisena has resigned from the Chairman of the Sri Lanka Freedom Party (SLFP).It has been decided to appoint Justice Wijayadasa Rajapakse at the Executive Committee of the event held today at Kotte.
-
-◼️
-
-[Data](articles/9671dbe4.json)
-
-[Extended Data](ext_articles/9671dbe4.ext.json)
-
----
-
-### Arrested in Batticaloa
-
-*2024-05-12 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183287) · `ta`
-
-A drug smuggler was arrested in Batticaloa by the Special Task Force, seizing 1440 pills. The suspect was caught at the Batticaloa Railway Road, and the car used in the smuggling was handed over to him. Steps are underway to bring the detainee to court.
-
-🟩
-
-The Batticaloa Police said that a person who smuggled drug pills from Ottamavadi to Batticaloa was arrested by the Special Task Force on Saturday evening at the Batticaloa Railway Road and seized 1440 pills from him.They are under surveillance at the Batticaloa Railway Cross Road at 6 pm yesterday.The suspect was arrested while the car was parked on the road.
-
-Following this, the Special Task Force (STF) has handed over the seized car to him and steps are being taken to bring the detainee to the court.
-
-◼️
-
-[Data](articles/0aa90628.json)
-
-[Extended Data](ext_articles/0aa90628.ext.json)
 
 ---

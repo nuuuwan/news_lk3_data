@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 17:54:12**
+As of **2024-05-12 18:10:39**
 
 ## Newspaper Stats
 
-*Scraped **23,497** Articles*
+*Scraped **23,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,992
+adalk | 1,993
 adaderanalk | 2,747
 tamilmirrorlk | 2,759
-virakesarilk | 3,495
-dailymirrorlk | 3,695
-adaderanasinhalalk | 3,768
+virakesarilk | 3,500
+dailymirrorlk | 3,696
+adaderanasinhalalk | 3,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,496 (100.0%) of 23,497 articles have been extended.
+23,497 (100.0%) of 23,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### පාකිස්තානයේ තවත් ත්‍රස්ත ප්‍රහාර 02ක්
+
+*2024-05-12 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196546) · `si`
+
+පාකිස්තානයේ කයිබර් හි ආරක්ෂක මුරපොළවල් දෙකක් ඉලක්ක කර එල්ලවූ ත්‍රස්ත ප්‍රහාර දෙකකින් නිලධාරීන් 7 දෙනෙකු මියගොස් තිබේ.
+
+වසිරිස්තාන් දිස්ත්‍රික්කයේ ආරක්ෂක මුරපොළක් වෙත පළමු ප්‍රහාරය එල්ලවී ඇති අතර එහිදී නිලධාරීන් 5 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අනතුරුව තවත් ආරක්ෂක මුරපොළකට ප්‍රහාරයක් එල්ල වී ඇති අතර එහිදී නිලධාරීන් දෙදෙනෙකු මියගොස් ඇති බව සඳහන් ය.
+
+ආරක්ෂක නිලධාරීන් කිහිපදෙනෙකු තුවාල ලබා ඇති අතර ඔවුන් ප්‍රතිකාර සඳහා ගුවන් මඟින් රෝහල් වෙත යොමුකර තිබේ.
+
+ප්‍රහාර එල්ල වූ ප්‍රදේශයේ විශේෂ හමුදා මෙහෙයුමක් ආරම්භ කිරීමට පාකිස්තාන ආරක්ෂක අංශ පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
+
+◼️
+
+[Data](articles/59e79e14.json)
+
+---
+
+### தொடரும் சாபக்கேடு
+
+*2024-05-12 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183324) · `ta`
+
+அவனை ஒரு மீற்றர் அளவுள்ள ஒரு தனிச் சிறையில் அடைக்கும்படி கட்டளை வந்தது. மீண்டும் ஆர்ப்பாட்டம் செய்தான். ஆனால் இம்முறை ‘நான் நிரபராதி’ என்ற வாதத்தை மறந்துவிட்டான். இது என்ன கொடுமை! இந்தச் சிறையில் எப்படி இருப்பது? உறங்குவது? இது உங்களுக்கே தப்பாகத் தெரியவில்லையா? எனக் கதறினான்.
+
+◼️
+
+[Data](articles/b003ebd5.json)
+
+---
+
+### ජනපතිගේ පාලනය ගැන මහින්දගෙන් දැඩි තීරණයක්
+
+*2024-05-12 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196544) · `si`
+
+රජයට අයත් ඇතැම් වත්කම් සහ ව්‍යාපාර විකුණා දැමීමට ආණ්ඩුව ගනිමින් සිටින පියවර හේතුවෙන් වෘත්තීය සමිති, දේශපාලන පක්ෂ හා පොදු මහජනතාව අතර නොසන්සුන්තාවයක් හටගෙන ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් මහින්ද රාජපක්ෂ මහතා ඒ බව පෙන්වා දෙයි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ, වත්මන් ආණ්ඩුවේ මෙම පියවරට පාදක වී ඇත්තේ පාඩු ලබන රාජ්‍ය ආයතන සඳහා වන වියදම් අවම කිරීමට‍ සහ ඒ සම්බන්ධයෙන් ජාත්‍යන්තර මුල්‍ය අරමුදල පනවා ඇති කොන්දේසි සපුරාලීමට බවද පෙනෙන්නට තිබෙව බවය.
+
+වත්මන් ආණ්ඩුව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ධූර කාලයේ ඉතිරි කොටස තුළ රට පාලනය කිරීම සඳහා පිහිටුවා ගත් අන්තර්කාලින වැඩපිළිවෙළක් බවත් මහින්ද රාජපක්ෂ මහතා මතක් කරයි.
+
+මෙවන් අවස්ථාවක රාජ්‍ය දේපොළ කඩිමුඩියේ විකුණා දැමීමෙන් රටට වැඩදායක ප්‍රතිඵලයක් ලබා ගැනීමට නොහැකි බව පුද්ගලීකරණයට පක්ෂපාත පාර්ශ්වවලට පවා අවබෝධ විය යුතුය යන්නද ඉන් සඳහන් කරයි.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා යෝජනා කරන්නේ ඉදිරි ජනාධිපතිවරණයෙන් පසු නව රජයක් පිහිටුවන තුරු රජය සතු වත්කම් හෝ ව්‍යාපාර විකුණා දැමීමට ගෙන ඇති සියලු පියවර අත්හිටුවිය යුතු  බවය.
+
+◼️
+
+[Data](articles/98137066.json)
+
+---
+
+### கடிவாளத்தை கையில்   எடுக்கிறரா பஷில்?
+
+*2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183322) · `ta`
+
+மணலையும் கயிறாகத் திரிக்கும் வேலையைச் செய்யக் கூடிய விரல் விட்டு எண்ணக் கூடிய அரசியல்வாதிகளில் ஒருவர் தான் பஷில் ராஜபக்ஷ.
+
+இந்தக் கூற்றில் பலருக்கு உடன்பாடு இல்லாமல் இருக்கலாம். அவரது அரசியலில் , வாழ்வியலில் நேர்மை இருக்கிறதோ இல்லையோ, அரசியல் காய்நகர்த்தல்களில் வேறெந்த அரசியல்வாதியையும் மிஞ்சக் கூடிய திறமை இருக்கிறது என்பது ஒப்புக் கொள்ளப்பட வேண்டியது தான்
+
+இது பஷிலுக்கான புகழ்ச்சி அல்ல. ஏனைய அரசியல்வாதிகள்  அரசியலில் கற்றுக் கொள்ள வேண்டிய பாடம். 2015 ஜனாதிபதி தேர்தலில், ஏற்பட்ட தோல்விக்கு ராஜபக்ஷ குடும்பத்தின் எதேச்சாதிகாரம் தான் காரணம் எனச் சொல்லப்படுவதுண்டு. அவ்வாறான விமர்சனங்கள் வெளிப்படையாகவே முன்வைக்கப்பட்டன.
+
+அதில் கணிசமான பங்கு பஷில் ராஜபக்ஷவுக்கும் இருந்தது. எத்தனையோ ஊழல், மோசடிக் குற்றச்சாட்டுகளுக்கு உள்ளாகிய போதும், அவற்றில் சிக்கிக் சிறைக்குள் செல்லாமல், மருத்துவமனைக் கட்டிலுடன் இருந்து விட்டு வெளியே வந்தவர் அவர்.
+
+மஹிந்தவின் தோல்விக்குப் பின்னர் பொதுஜன பெரமுனவை உருவாக்கி அடுத்த சில ஆண்டுகளிலேயே அதிகாரத்தைப் பிடிக்கும் அளவுக்கு அதனை வளர்ச்சியடையச் செய்தவர்.
+
+...
+
+[Data](articles/2643f136.json)
+
+---
+
+### 1700 ரூபாவுக்கு ஜூன் 10 வரையில் கால அவகாசம் - வடிவேல் சுரேஷ்
+
+*2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183317) · `ta`
+
+வழமை மாறாது,வேலைப்பளு அதிகரிக்கப்படாமல் தொழிலாளர்கள் வஞ்சிக்கப்படாமல் 1700 ரூபா பெற்றுக்கொடுக்கப்படும் என்பதை அரசாங்கம் உறுதிப்படுத்த வேண்டும் என்று ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் பாராளுமன்ற உறுப்பினருமான வடிவேல் சுரேஷ் தெரிவித்துள்ளார்.
+
+தொழிலாளர்களின் சம்பள விவகாரம், பெருந்தோட்ட நிர்வாக முறைமை மற்றும் பெருந்தோட்ட காடாக்கல் தொடர்பில் வீரகேசரி வார வெளியீட்டுக்கு அவர் வழங்கிய பிரத்தியேக செவ்வி வருமாறு
+
+கேள்வி: சம்பள உயர்வு குறித்த வர்த்தமானி அறிவித்தலை கம்பனிகள் சட்டரீதியாக சவாலுக்கு உட்படுத்தும் பட்சத்தில் அரசாங்கத்தின் அடுத்தக்கட்ட நகர்வு என்வென்பதை கூறமுடியுமா?
+
+...
+
+[Data](articles/fb01ba03.json)
+
+---
+
+### 13ஐ நடைமுறைப்படுத்த பரந்த சர்வதேச சமூகம் ஆதரவு - பிரத்தியேக செவ்வியில் எரிக் சொல்ஹெய்ம்
+
+*2024-05-12 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183314) · `ta`
+
+அண்மையில் இலங்கைக்கு விஜயம் மேற்கொண்டிருந்த அவர் வடக்கு,கிழக்கு பகுதிகளுக்குச் சென்று பல்வேறு சந்திப்புக்களை நடத்தியிருந்த நிலையில் வீரகேசரிக்கு பிரத்தியேகமாக வழங்கிய செவ்வியின்போது மேற்கண்டவாறு தெரிவித்தார். அவருடைய செவ்வியின் முழுவடிவம் வருமாறு,
+
+◼️
+
+[Data](articles/43df802e.json)
+
+---
 
 ### Man who received first pig kidney transplant dies
 
@@ -51,6 +153,8 @@ Following his pig kidney transplant on 16 March, his doctors confirmed he no lon
 ...
 
 [Data](articles/91b3c13c.json)
+
+[Extended Data](ext_articles/91b3c13c.ext.json)
 
 ---
 
@@ -93,6 +197,18 @@ In the Nahrin district of Baghlan province, people carried their shrouded dead t
 [Data](articles/4948f39b.json)
 
 [Extended Data](ext_articles/4948f39b.ext.json)
+
+---
+
+### சம்பள உயர்வை வழங்காவிடின் தக்க நடவடிக்கை எடுக்கப்படும் : இ.தொ.கா தலைவர் செந்தில் தொண்டமான் செவ்வி
+
+*2024-05-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183311) · `ta`
+
+"இலங்கைத் தொழிலாளர் காங்கிரஸ், பேச்சுவார்த்தை நடத்தியும் போராட்டங்களை நடத்தியும் பொருந்தோட்ட தொழிலாளர்களுக்கு சம்பள உயர்வைப் பெற்றுக்கொடுத்துள்ளது. தற்போது 1700 ரூபாய் சம்பளம் வழங்கப்பட வேண்டுமென சட்ட ரீதியாக  வர்த்தமானி வெளியிடப்பட்டுள்ளது. அவர்கள் இந்தச் சம்பள உயர்வை வழங்கவில்லை என்றால் சட்ட நடவடிக்கை எடுக்கப்படும்." - செந்தில் தொண்டமான்
+
+◼️
+
+[Data](articles/79fa4099.json)
 
 ---
 
@@ -470,6 +586,22 @@ The Evil Similarly, the Minister of Justice Wijeyadasa has been decided to appoi
 
 ### Mahinda Rajapaksa urges postponement of national asset sales
 
+*2024-05-12 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Mahinda-Rajapaksa-urges-postponement-of-national-asset-sales/155-282410) · `en`
+
+May 12, Colombo (Daily Mirror) -  Former President Mahinda Rajapaksa has expressed concern over the current government's plans to sell off national assets and state-owned enterprises, calling for the postponement of all such moves until after the next Presidential election, allowing the incoming government to address the issue according to its mandate.
+
+In a statement issued today, Rajapaksa highlighted the discontent among trade unions, political parties, and the general public regarding the ongoing divestiture drive.
+
+Rajapaksa, who served as President from November 2005 to January 2015, emphasized his government's approach towards state-owned assets, stating that they refrained from privatizing profitable enterprises. Instead, they focused on managing prices to ensure economic stability and continued profitability of state-owned enterprises. During his tenure, the country experienced an economic boom, with no discussions of privatization, he noted.
+
+...
+
+[Data](articles/075a0c1e.json)
+
+---
+
+### Mahinda Rajapaksa urges postponement of national asset sales
+
 *2024-05-12 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mahinda-Rajapaksa-urges-postponement-of-national-asset-sales/108-282410) · `en`
 
 May 12 -  Former President Mahinda Rajapaksa has expressed concern over the current government's plans to sell off national assets and state-owned enterprises, calling for the postponement of all such moves until after the next Presidential election, allowing the incoming government to address the issue according to its mandate.
@@ -509,6 +641,22 @@ In addition, the arrested suspect and the confiscated artifacts have handed over
 [Data](articles/f8cdfc1f.json)
 
 [Extended Data](ext_articles/f8cdfc1f.ext.json)
+
+---
+
+### රට විරුවෝ මාස 4ට ඩොලර් බිලියන දෙකක් එවලා
+
+*2024-05-12 14:04:56* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මාස-4ට-ඩොලර්-බිලියන-දෙකක්-එවලා/11-409572) · `si`
+
+විදේශ ගත ශ්‍රමිකයින් නීත්‍යානුකූලව බැංකු ක්‍රමය ඔස්සේ මේ වසරේදී මුල් මාස හතර තුළදී පමණක් ඇමරිකානු ඩොලර් බිලියන 2.079ක මුදල් එවා ඇති අතර අප්‍රේල් මාසයේදී පමණක් ඩොලර් මිලියන 543.8ක් එවා තිබේ.
+
+පසුගිය වසරේ මුල් මාස හතර සමග සන්සන්දනය කර බලන විට විදේශ ගත ශ්‍රමිකයින් මේ වසරේ මුල් මාස හතර තුළදී එවූ විදේශ විදේශ ප්‍රේශණ ප්‍රමාණය සියයට 11.4කින් ඉහළ ගොස් තිබේ. පසුගිය වසරේ අප්‍රේල් මාසය සමග සන්සන්දනය කර බලන විටදී මේ වසරේ අප්‍රේල් මාසයේදී පමණක් රටට ලැබුණ විදේශ ප්‍රේශණ ප්‍රමාණය සියයට 19.7කින් ඉහළ ගියේය.
+
+කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා අමාත්‍යාංශය භාරගැනීමෙන් පසුව මේ වනවිට ඇමරිකානු ඩොලර් මිලියන 10,807ක මුදලක් විදේශ ගත ශ්‍රමිකයින් මෙරටට එවා ඇත. අමාත්‍යවරයා, අමාත්‍යාංශය භාරගත් අවස්ථාව වන විට විදේශ ගත ශ්‍රමිකයින් මාසිකව මෙරටට එවන විදේශ විනිමය ප්‍රමාණය ඇමරිකානු ඩොලර් මිලියන 200 දක්වා පහළ වැටී තිබුණි.
+
+...
+
+[Data](articles/cf356c29.json)
 
 ---
 
@@ -2077,187 +2225,5 @@ Dhammika Perera has begun a change. The program commenced against women's violen
 [Data](articles/e0a07cab.json)
 
 [Extended Data](ext_articles/e0a07cab.ext.json)
-
----
-
-### Heavy showers expected in several provinces and districts
-
-*2024-05-12 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99155/heavy-showers-expected-in-several-provinces-and-districts) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
-
-Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central and Eastern provinces and in Badulla, Galle and Matara districts.
-
-Showers may occur at a few places in the coastal areas of western and Southern provinces during the morning too, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/87e20eb4.json)
-
-[Extended Data](ext_articles/87e20eb4.ext.json)
-
----
-
-### The Sale Of National Assets & State Owned Enterprises
-
-*2024-05-12 07:23:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-sale-of-national-assets-state-owned-enterprises/) · `en`
-
-The government’s plans to sell off certain national assets and state owned enterprises have given rise to discontent among trade unions, political parties and the general public. The present divestiture drive is ostensibly aimed at minimizing govt. expenditure on loss-making state owned enterprises and meeting certain IMF conditions in that regard. I ruled the country for more than nine years from November 2005 to January 2015 without ever selling a single state owned enterprise. In fact, my government actually re-acquired some state owned enterprises such as the Insurance Corporation, and Lanka Hospitals that had been sold off by previous governments and these enterprises continue to make profits for the state to date.
-
-...
-
-[Data](articles/3888be1e.json)
-
-[Extended Data](ext_articles/3888be1e.ext.json)
-
----
-
-### Debt Restructuring As Rocket Science: The IMF, Green, Blue & Pink-Washing BlackRock?
-
-*2024-05-12 07:10:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debt-restructuring-as-rocket-science-the-imf-green-blue-pink-washing-blackrock/) · `en`
-
-Calls for divestment from BlackRock and other International Sovereign Bonds (ISB), have echoed across Columbia, Yale and many non-Ivy League universities in the United States recently. BlackRock is heavily invested in weapons companies fueling a genocidal war in Palestine. However, the International Monetary Fund’s (IMF), debt restructuring operations in the Global South appear designed to ensure BlackRock’s enhanced profitability.
-
-...
-
-[Data](articles/f0037c09.json)
-
-[Extended Data](ext_articles/f0037c09.ext.json)
-
----
-
-### Extension of vehicle imports from next year
-
-*2024-05-12 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196526) · `si`
-
-State Minister Shehan Semasinghe announced that vehicle imports will resume next year, focusing on commercial needs to boost the economy. Currently, private vehicle imports are limited, but this restriction will be eased in the future. The resumption will be systematic, emphasizing economic development.
-
-🟩
-
-State Minister Shehan Semasinghe says that the import of vehicles will be resumed from next year.
-
-Speaking to the media in Anuradhapura, he said that it is scheduled to be systematically.
-
-"The government has not allowed to import vehicles to a group of people. Elementary vehicles has been granted only for commercial needs and only to those who have a commercial procedure to contribute to the economy, but only those who are so far from the commercial procedure. This limitation is only imported for private use regarding imports today. Then that limit will be loose in the future. It will be loose when next year. But the opening should also be a certain order. "
-
-He further said that there is no alternative other alternative other than the economic program in the country.
-
-◼️
-
-[Data](articles/7b02a9d9.json)
-
-[Extended Data](ext_articles/7b02a9d9.ext.json)
-
----
-
-### China Duty Free operations in Sri Lanka Port City planned in June: Minister
-
-*2024-05-12 06:52:00* · [`economynextcom`](https://economynext.com/china-duty-free-operations-in-sri-lanka-port-city-planed-in-june-minister-162652/) · `en`
-
-ECONOMYNEXT – A duty free shopping complex by China Duty Free in the Colombo Port City is expected to get the go ahead in June, State Minister for Investment Promotion Dilum Amunugama said.
-
-“Port City has signed agreements with China Duty Free,” Minister Amunugama told reporters in Colombo.
-
-A cabinet paper relating to its operations has been submitted.
-
-If the approval is received before June 14, operations will begin on that date, Minister Amunugama said.
-
-Several businesses have already started through the Colombo Port City, pending the construction of its buildings under its regulations.
-
-Approved businesses are expected to use only foreign currencies in the area.
-
-Inside the Port City, Sri Lanka’s bank cannot destroy the future value of money (rupees), create forex shortages or social unrest by printing money to cut rates through aggressive open market operations or unrestrained standing facilities.
-
-...
-
-[Data](articles/44e39de1.json)
-
-[Extended Data](ext_articles/44e39de1.ext.json)
-
----
-
-### Modi’s Wolf Worrier Diplomacy Opens A Window For China In South Asia
-
-*2024-05-12 06:30:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-wolf-worrier-diplomacy-opens-a-window-for-china-in-south-asia/) · `en`
-
-“The Indian Government’s questioning of US democracy is to cover up BJP’s domestic misadventure in curtailing democracy, and Narendra Modi’s vilification of Muslims during the election will impact India’s immediate periphery”.
-
-“China will benefit from Iran’s diplomatic shift to South Asia and Modi’s Wolf Worrier Diplomacy.”
-
-“The recent victory of the pro-China political party in the Maldives will see China double its efforts to influence India’s surrounding nations.”
-
-“Why did the Sri Lankan Government lease out an International Airport to India and Russia?”
-
-“Economic challenges have been the critical narrative until recently in Sri Lanka, when another narrative is brewing to enter the political race concerning national security.”
-
-...
-
-[Data](articles/e9bf60f8.json)
-
-[Extended Data](ext_articles/e9bf60f8.ext.json)
-
----
-
-### Diana Gamage who came to Parliament on the Samagi Jana Balawegaya(SJB) National List, has been an MP for almost four years without being a citizen of any country.
-
-*2024-05-12 06:28:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84019) · `en`
-
-The Sri Lankan Supreme Court’s landmark judgment last week that State Minister of Tourism Diana Gamage was legally ineligible to serve as a Member of Parliament (MP) on the grounds that she was not a Sri Lankan citizen raises some crucial questions.
-
-The Supreme Court gave the ruling after hearing an appeal filed by social activist Oshala Herath challenging the Appeal Court’s dismissal of his petition against Gamage’s membership in Parliament.
-
-Gamage, who came to Parliament on the National List of the main Opposition Samagi Jana Balawegaya (SJB), began to support the then Gotabaya Rajapaksa Government.
-
-Her support for the Government continued after Ranil Wickremesinghe took office as President and she was also appointed as State Minister of Tourism. She earned a dubious name for her ridiculously controversial speeches about the night economy and cannabis cultivation.
-
-...
-
-[Data](articles/3d70b378.json)
-
-[Extended Data](ext_articles/3d70b378.ext.json)
-
----
-
-### The 2024 Presidential Election
-
-*2024-05-12 06:19:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-2024-presidential-election/) · `en`
-
-The Constitution states that a President who is elected by the people shall hold office for a term of five years. In the event of his death, resignation or removal, his successor shall be elected by Parliament to serve the unexpired period of his term of office. Any Bill that seeks to amend the Constitution to extend the prescribed term of office of the President is required to be passed by Parliament by a two-thirds majority and then approved by the people at a referendum. The Constitution also provides that the poll for the election of the President “shall be taken not less than one month and not more than two months” before the expiration of the term of office of the President in office. A popular television channel appears to be unaware of these constitutional requirements when it keeps chanting in the middle of its news programmes: “When is the Election ?”
-
-...
-
-[Data](articles/7ea869a6.json)
-
-[Extended Data](ext_articles/7ea869a6.ext.json)
-
----
-
-### Showers over 100mm
-
-*2024-05-12 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196525) · `si`
-
-Heavy showers exceeding 100mm are expected in parts of Badulla, Galle, Matara, and provinces including Western, Sabaragamuwa, Central, and Eastern. The Department of Meteorology warns of potential thundershowers and advises caution against lightning and wind accidents.
-
-🟩
-
-Some locations in the Badulla, Galle and Matara districts, Western, Sabaragamuwa, Central and Eastern Provinces.. Heavy showers that have more than 100 can occur.
-
-The department states that in many parts of the island today (12). Showers or thundershowers will occur at several places about 2.00.
-
-Showers will occur at several places in the Western and Southern provinces.
-
-The Department of Meteorology announces that some locations could last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/53eddebc.json)
-
-[Extended Data](ext_articles/53eddebc.ext.json)
 
 ---

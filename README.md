@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 11:18:17**
+As of **2024-05-12 11:33:50**
 
 ## Newspaper Stats
 
-*Scraped **23,417** Articles*
+*Scraped **23,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,983
+adalk | 1,984
 adaderanalk | 2,739
-tamilmirrorlk | 2,742
+tamilmirrorlk | 2,746
 virakesarilk | 3,476
 dailymirrorlk | 3,684
 adaderanasinhalalk | 3,757
@@ -26,11 +26,75 @@ adaderanasinhalalk | 3,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,414 (100.0%) of 23,417 articles have been extended.
+23,417 (100.0%) of 23,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### தன்சல்களுக்கு விசேட தள்ளுபடி
+
+*2024-05-12 11:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்சல்களுக்கு-விசேட-தள்ளுபடி/175-337159) · `ta`
+
+வெசாக் பண்டிகையை முன்னிட்டு ஏற்பாடு செய்யப்படும் தன்சல்களுக்கான உணவுப் பொருட்களுக்கு விசேட தள்ளுபடி வழங்க தீர்மானித்துள்ளதாக லங்கா சதொச அறிவித்துள்ளது.
+
+இதன்படி, இம்மாதம் 17ஆம் திகதிக்கு முன்னர், அருகாமையிலுள்ள லங்கா சதொச கிளைக்கு தன்சல் ஏற்பாட்டாளர்கள் ஆர்டர்களை வழங்குமாறு லங்கா சதொச மேலும் தெரிவிக்கின்றது.
+
+◼️
+
+[Data](articles/3f72b26b.json)
+
+---
+
+### பொது விவாதத்திற்கான அழைப்பு இன்னும் இழுபறி
+
+*2024-05-12 11:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-விவாதத்திற்கான-அழைப்பு-இன்னும்-இழுபறி/175-337157) · `ta`
+
+பிரதமர் நரேந்திர மோடியுடனான பொது விவாதத்திற்கான அழைப்பை இந்திய காங்கிரஸ் தலைவர் ராகுல் காந்தி சனிக்கிழமை ஏற்றுக்கொண்டார்.
+
+இரண்டு முன்னாள் நீதிபதிகள் மற்றும் மூத்த பத்திரிகையாளர் ஒருவரும் இணைந்து கடிதம் மூலம் இரு தலைவர்களுக்கும் அனுப்பப்பட்ட கோரிக்கையே இவ்வாறு ஏற்றுக் கொள்ளப்பட்டது.
+
+எனினும் இன்னும் இலங்கையில், மூன்று முக்கிய ஜனாதிபதி வேட்பாளர்களுக்கு இடையே விவாதம் நடத்த எமது சகோதர ஊடகமான டெய்லி மிரர் விடுத்த அழைப்பை முக்கிய இரு தலைமைகள் ஏற்கவில்லை.
+
+SJB தலைவர் சஜித் பிரேமதாச மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆகிய இருவரும் அழைப்பை ஏற்காத நிலையில், தேசிய மக்கள் சக்தியின் (NPP) தலைவர் அனுரகுமார திஸாநாயக்க மாத்திரமே இதுவரை சாதகமான பதிலை வழங்கியுள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5ee50d6f.json)
+
+---
+
+### மலேசியாவில் பொயிலர் வெடித்து இளைஞன் மரணம்
+
+*2024-05-12 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலேசியாவில்-பொயிலர்-வெடித்து-இளைஞன்-மரணம்/76-337155) · `ta`
+
+மலேசியாவுக்கு பணிக்கு சென்ற மஸ்கெலியா பகுதியைச் சேர்ந்த இளைஞன்  அங்கு பொயிலர் வெடித்து மரணித்துள்ளார்.
+
+மஸ்கெலியா ப்ரௌன்ஸ்வீக் தோட்ட மோட்டிங்ஹேம் பிரிவைச் சேர்ந்த துரைராஜ் ராஜ்குமார் டேவிட்சன் (வயது 24 வயது) என்பவரே உயிரிழந்துள்ளார்.
+
+இலங்கையில் இருந்து மலேசியாவில் உள்ள மினரல் வோட்டர் நிறுவனம் ஒன்றுக்கு ஒரு வருடத்திற்கு முன்னர் பணிக்கு சென்றிருந்தார். இந்த அனர்த்தம், ஞாயிற்றுக்கிழமை (05) இடம்பெற்றுள்ளது. அவரது சடலம் கொண்டுவரப்பட்டுள்ளது. இறுதி கிரியைகள்   நல்லடக்கம் ப்ரௌன்ஸ்வீக் மொன்டிஹம் பொது மயானத்தில் ஞாயிற்றுக்கிழமை (12) இடம்பெறவிருந்தது.
+
+◼️
+
+[Data](articles/50a0adcd.json)
+
+---
+
+### வினாத்தாளை அனுப்பிய ஆசிரியர் கைது
+
+*2024-05-12 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளை-அனுப்பிய-ஆசிரியர்-கைது/175-337153) · `ta`
+
+தற்போது நடைபெற்றுக்கொண்டிருக்கும் கல்விப் பொதுத் தராதர சாதாரண தர பரீட்சையில், வியாழக்கிழமை (09) நடைபெற்ற ஆங்கில வினா தாளை வட்ஸ்அப் ஊடாக அனுப்பியதாக கூறப்படும் சம்பவம் தொடர்பில் மேலதிக வகுப்பு ஆசிரியர் கைது செய்யப்பட்டுள்ளார்.
+
+குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் கண்டி பகுதியில் வைத்தே சந்தேகநபரை  ஞாயிற்றுக்கிழமை (12​) கைது செய்துள்ளனர்.
+
+ஆங்கில பரீட்சை காலை 8.30க்கு ஆரம்பமான நிலையில், இந்த ஆசிரியர் வினாத் தாளை வட்ஸ்அப் ஊடாக காலை 9.11க்கு  அனுப்பியுள்ளார். கைது செய்யப்பட்ட சந்தேகநபர்   நீதிமன்றத்தில் முன்னிலைப்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/89644218.json)
+
+---
 
 ### Tuition master involved in sharing O/L English paper arrested in Kandy
 
@@ -51,6 +115,8 @@ The assistant class teacher who was arrested is scheduled to be produced before 
 ...
 
 [Data](articles/b809ae3e.json)
+
+[Extended Data](ext_articles/b809ae3e.ext.json)
 
 ---
 
@@ -96,6 +162,8 @@ Yet in Sri Lanka, there is no acceptance of invitation by Daily Mirror for a deb
 
 [Data](articles/dad9fb3a.json)
 
+[Extended Data](ext_articles/dad9fb3a.ext.json)
+
 ---
 
 ### Over 12,000 army deserters receive legal discharge within three weeks
@@ -113,6 +181,8 @@ The Army said 81 army deserters currently abroad and absent without leave are al
 ◼️
 
 [Data](articles/b2bf78a3.json)
+
+[Extended Data](ext_articles/b2bf78a3.ext.json)
 
 ---
 
@@ -298,6 +368,24 @@ The child had fallen into the insecure well near the house yesterday (11), polic
 
 ---
 
+### බුද්ධාගමට ලැදි රාජ්‍ය නිලධාරීන්ට තායිලන්තයෙන් තාවකාලික පැවිදි වරමක්
+
+*2024-05-12 08:05:08* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධාගමට-ලැදි-රාජ්‍ය-නිලධාරීන්ට-තායිලන්තයෙන්-තාවකාලික-පැවිදි-වරමක්/11-409563) · `si`
+
+තායිලන්ත රජුගේ උපන් දිනය නිමිත්තෙන් මෙරට බෞද්ධාගමිකයන් වෙනුවෙන් ඉදිරි  ජුනි මාසයේදී  දින 15 ක් පුරා  තාවකාලික පැවිද්ද ලබා දීමේ විශේෂ වැඩ සටහනක් ක්‍රියාත්මක කිරීමට තායිලන්ත රජය සැලසුම් කර ඇතැයි බුද්ධශාසන ආගමික හා සංස්කෘතික අමාත්‍යාංශය පවසයි.
+
+මේ යටතේ මෙරට  රාජ්‍ය සේවයේ සියලු  සේවාවන්  නියෝජනය වන පරිදි තෝරා ගන්නා  රාජ්‍ය  නිලධාරීන්ටද තාවකාලික පැවිද්ද ලබා දීමට තායිලන්ත රජය  එකඟතාව පල කර ඇති බව  එම  අමාත්‍යාංශය පැවසීය.
+
+බෞද්ධ  ආගමික කටයුතු සඳහා විශේෂ ඇල්මක් දක්වන වයස අවුරුදු 35 ත් 50 ත් අතර පිරිමි නිලධාරීන්ට බුද්ධ ශාසන අමාත්‍යාංශයේ www.mbs.gov.lk නිල වෙබ් අඩවියේ සඳහන් නිර්නායක හා උපදෙස් අනුව මැයි 22 ට පෙර  මාර්ගගත ක්‍රමයට පමණක් මේ සඳහා  ඉල්ලුම් කළ හැකිය.
+
+තායිලන්ත තානාපති කාර්යාලය සහ බුද්ධ ශාසන අමාත්‍යාංශය එක්වී පවත්වන සම්මුඛ පරීක්ෂණයක් මගින් මේ වැඩ සටහන සඳහා  තෝරා ගන්නා රජයේ නිලධාරීන්ට තායිලන්ත රජය මගින් නොමිලේ ආහාර පාන, ගුවන් ටිකට් පත් හා නවාතැන් පහසුකම් හා මෙරට  රජයෙන් වැටුප් සහිත විදේශ නිවාඩු ලබාදෙන බවද  බුද්ධ ශාසන අමාත්‍යාංශය පැවසීය.
+
+◼️
+
+[Data](articles/1840549d.json)
+
+---
+
 ### The journey to Canada is micro
 
 *2024-05-12 08:00:07* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-බලපත්‍රවලින්-කැනඩා-යන්න-ගිය-ගමන-වරදියි/11-409562) · `si`
@@ -378,9 +466,17 @@ The Minister discussed this incident with Southern Province Governor Lakshman Ya
 
 *2024-05-12 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99156/tuition-teacher-arrested-in-kandy-for-photographing-sharing-ol-english-paper) · `en`
 
-A tuition class teacher has been arrested in Kandy over the incident of allegedly photographing the English Language question paper of the 2023 G.C.E. Ordinary Level examination and sharing it on WhatsApp during the exam recently.
+A tuition class teacher has been arrested over the incident of allegedly photographing the English Language question paper of the 2023 (2024) G.C.E. Ordinary Level examination and sharing it on WhatsApp during the exam recently.
 
-◼️
+Officers of the Criminal Investigation Department have apprehended the suspect in Kandy this morning (12).
+
+Preliminary Investigations have revealed that the relevant WhatsApp group consists of 1,025 members.
+
+The English Language question paper for the G.C.E. O/L exam was held on May 09 and according to the schedule, the question paper was distributed among the students at 8.30 a.m. However, police said that the teacher in question had photographed and released the paper to the WhatsApp group at around 9.11 a.m. the same day.
+
+The arrested teacher will be produced before the court today.
+
+...
 
 [Data](articles/e4d3489d.json)
 
@@ -2141,121 +2237,5 @@ The Maradankani Police are conducting further investigations to arrest the suspe
 [Data](articles/ecd011e7.json)
 
 [Extended Data](ext_articles/ecd011e7.ext.json)
-
----
-
-### Some players excluded from new contracts despite ICC T20 World Cup roles
-
-*2024-05-11 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-players-excluded-from-new-contracts-despite-ICC-T20-World-Cup-roles/108-282388) · `en`
-
-Colombo, May 11 (Daily Mirror) - Sri Lanka Cricket (SLC) has unveiled a revamped contract structure for forty-one national players, with substantial raises in player fees across all formats, ahead of the upcoming ICC T20 World Cup.
-
-The decision comes as part of SLC's efforts to recognize and reward players based on their performance and rankings in international cricket.
-
-However, despite their roles as traveling reserves for the upcoming ICC T20 World Cup, certain players like Bhanuka Rajapaksa and young spinner Vijayakanth Viyaskanth have been excluded from the new contract.
-
-Under the new contract system, which includes six categories (A1, A2, B2, C1, C2, and the 'A' Team), match fees for Test matches have been doubled, marking a 100 percent increase.
-
-In addition, payments for Test matches will now be merit-based, varying depending on whether the match is won, drawn, or lost.
-
-...
-
-[Data](articles/4f570500.json)
-
-[Extended Data](ext_articles/4f570500.ext.json)
-
----
-
-### Risk for boys with bodice -powered sports materials
-
-*2024-05-11 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183211) · `ta`
-
-Dr. Palitha Rajapaksa warns that sports materials containing chemicals like lithium, silver oxide, and alkaline can pose a risk to boys, potentially causing severe damage if swallowed. The short esophagus can lead to these materials reaching the stomach, causing respiratory blockage and even death. Immediate hospitalization is advised, with honey administered as first aid.
-
-🟩
-
-The Assistant Secretary of the Government Medical Officers Association, Dr. Palitha Rajapaksa, said that the children will be affected by the sports material.
-
-He said that the games played by the boys may be swallowed, or that there are potentials, or the ear and nose, as the types of chemical compounds such as lithium, silver oxide and alkaline are in the form of button.
-
-The reason is that the first part of our diet canal (esophagus) is naturally short, so that when swallowing the bark can go into the stomach and cause severe damage.
-
-This can cause a sudden explosion in the stomach, causing respiratory tract blockage and death.
-
-Therefore, the children should be taken to the hospital immediately if they get caught in such accidents. He said that until the first aid is taken to the hospital, two teaspoons of clean honey should be given to the affected children once in 10 minutes.
-
-◼️
-
-[Data](articles/62bad2cf.json)
-
-[Extended Data](ext_articles/62bad2cf.ext.json)
-
----
-
-### Woman raped, strangled to death in Maradankerni
-
-*2024-05-11 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-raped-strangled-to-death-in-Maradankerni/108-282385) · `en`
-
-Colombo, May 11 (Daily Mirror) - The Maradankerni Police have initiated an investigation following the suspicious death of a woman at a residence in Thalai Adi, Maradankerni, last night.
-
-Police said the deceased is a 44-year-old mother of three and a resident of Maradankerni.
-
-Her husband, returning from a fishing job, discovered her body near the toilet and she was pronounced dead upon admission to the Point Pedro Hospital.
-
-A post-mortem examination confirmed that the woman had been raped and strangled to death.
-
-◼️
-
-[Data](articles/f897563b.json)
-
-[Extended Data](ext_articles/f897563b.ext.json)
-
----
-
-### Two bills to empower women during economic recovery
-
-*2024-05-11 11:00:00* · [`economynextcom`](https://economynext.com/two-bills-to-empower-women-during-economic-recovery-162605/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government will present two bills to Parliament to empower women during the initial phase of economic recovery, President Ranil Wickremesinghe has said.
-
-Women face challenges in safeguarding their families amidst the economic crisis, Wickremesinghe said. “I witnessed first-hand the dire plight of women, many heading households amidst scarcity.”
-
-Wickremesinghe was speaking at the unveiling of three “Anti-Violence Global Gestures” handprints against sexual violence targeting women and girls in public spaces, organized by Dhammika Perera’s DP Education at the Nelum Pokuna Theater in Colombo on Friday.
-
-“This endeavour holds promise in empowering women against the scourge of violence they face, particularly exacerbated by economic crises,” Wickremesinghe said. “Legislation against such violence is being introduced in parliament.”
-
-...
-
-[Data](articles/a9dd1d5a.json)
-
-[Extended Data](ext_articles/a9dd1d5a.ext.json)
-
----
-
-### Britain should report to Sri Lanka
-
-*2024-05-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183220) · `ta`
-
-Britain should report on Sri Lanka's Mullivaikkal tragedy, where the Sri Lankan army allegedly used blind bombs and was involved in massacres. Golberan calls for clear warnings against ongoing military repression in Tamil areas, emphasizing the importance of democracy and justice. He supports efforts to declare the 2009 events as genocide, highlighting the plight of the Tamils.
-
-🟩
-
-Mullivaikkal refers to the most tragic days of Tamil Nadu.
-
-He also said that the Sri Lankan army carried out a blind bomb in the war of war and was involved in the disappearance of the massacres.
-
-He expressed concern over the continuing repression of the Sri Lankan military against the Tamil Nadu areas in the North East and said that Britain should make clear warnings on the oppression of these events.
-
-Golberan said that you should do this in independent legitimate democracy, not in oppression against the people's memory in the independent democratic society.
-
-We hear this every year. We are hearing stories about the confusion of the people. People are arrested without reason.
-
-Responding to a question about the need to declare the events of 2009 as a genocide, he said he was involved in the efforts of the Tamils and the all -party parliamentary delegation for Tamils.
-
-◼️
-
-[Data](articles/0bef05d2.json)
-
-[Extended Data](ext_articles/0bef05d2.ext.json)
 
 ---

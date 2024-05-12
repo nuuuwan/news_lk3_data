@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 09:18:38**
+As of **2024-05-12 09:34:13**
 
 ## Newspaper Stats
 
-*Scraped **23,403** Articles*
+*Scraped **23,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,345
 dailyftlk | 1,356
-adalk | 1,981
+adalk | 1,982
 adaderanalk | 2,738
 tamilmirrorlk | 2,738
 virakesarilk | 3,476
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,401 (100.0%) of 23,403 articles have been extended.
+23,403 (100.0%) of 23,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### සිව් හැවිරිදි දරුවෙක් ළිඳට වැටී මරුට
+### Four-year-old child falls into well
 
 *2024-05-12 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196528) · `si`
 
-මැදගම, ඊරියගහමඩ ප්‍රදේශයේදී අනාරක්ෂිත ළිඳකට වැටී කුඩා දරුවෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A four-year-old child from the Kandyan area died after falling into an unsecured well near their house in Medagama.
 
-එසේ මියගොස් ඇත්තේ, ඊරියගහමඩ, කැදවින්න ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 04ක කුඩා දරුවෙකි.
+🟩
 
-ඊයේ (11) එම දරුවා නිවස අසල ඇති අනාරක්ෂිත ළිඳට වැටී ඇති බව පොලීසිය පවසයි.
+A child has died in an unsecured well in the case of a well-known well in Medagama.
+
+The deceased has been identified as a four year old resident of the Kandyan area.
+
+The child had fallen into the insecure well near the house yesterday (11), police said.
 
 ◼️
 
 [Data](articles/bc7df510.json)
+
+[Extended Data](ext_articles/bc7df510.ext.json)
 
 ---
 
@@ -101,6 +107,22 @@ A tuition class teacher has been arrested in Kandy over the incident of allegedl
 [Data](articles/e4d3489d.json)
 
 [Extended Data](ext_articles/e4d3489d.ext.json)
+
+---
+
+### කෘතිම බුද්ධිය පාලනයට අවශ්‍ය නිති මෙතෙක් සකස් කර නෑ
+
+*2024-05-12 07:48:30* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-පාලනයට-අවශ්‍ය-නිති-මෙතෙක්-සකස්-කර-නෑ/11-409561) · `si`
+
+බුද්ධ දේශනාව සහ කෘත්‍රීම බුද්ධිය අතර තිබෙන සම්බන්ධතාව පිළිබඳ පර්යේෂණ කටයුතු වෙනුවෙන් ලබන වසරේදී රුපියල් බිලියනක් වෙන් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+බුද්ධ දේශනාව සහ කෘත්‍රීම බුද්ධිය පිළිබඳ පර්යේෂණ කටයුතු මෙම වසරේදී ආරම්භ කිරීමට අපේක්ෂා කළද කෘත්‍රීම බුද්ධිය පාලනයට අවශ්‍ය නීති මෙතෙක් ඉදිරිපත් කර නොමැති බැවින් එම කටයුතු ලබන වසරට කල් තැබීමට සිදු වූ බවද සඳහන් කළ ජනාධිපතිවරයා නව නීති සම්මත කර ගැනීමෙන් අනතුරුව ඉදිරි පියවර ක්‍රියාත්මක කරන බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මොරටුව බෞද්ධ මන්දිර ශාලාවේ දී පැවති මොරටුව ශ්‍රී ලංකා බෞද්ධ සමිතියේ සිය වන සංවත්සර සැමරුමට එක්වෙමිනි.
+
+...
+
+[Data](articles/08db0b7a.json)
 
 ---
 
@@ -250,19 +272,25 @@ Until about 50 years ago, a rice-and-curry lunch in Sri Lanka was incomplete wit
 
 ---
 
-### ’செயற்கை நுண்ணறிவு ஆராய்ச்சி அடுத்த வருடம்’
+### Exchange artificial intelligence research next year
 
 *2024-05-12 01:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-நுண்ணறிவு-ஆராய்ச்சி-அடுத்த-வருடம்/175-337147) · `ta`
 
-புத்தரின் போதனைகளுக்கும் செயற்கை நுண்ணறிவுக்கும் இடையிலான தொடர்பு குறித்த ஆராய்ச்சிப் பணிகளுக்கு அடுத்த வருடம் ஒரு பில்லியன் ரூபா ஒதுக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a billion-rupee allocation for AI and Buddhist teachings research next year. He emphasized the importance of understanding AI's impact on Buddhism, highlighting the potential for AI to enhance human minds and the need for regulations to prevent it from undermining religious teachings.
 
-மொரட்டுவ பௌத்த மன்ற மண்டபத்தில் நேற்று நடைபெற்ற மொரட்டுவ இலங்கை பௌத்த சங்கத்தின் 100 ஆவது ஆண்டு நிறைவு விழாவில் உரையாற்றிய போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
+🟩
 
-இப்போது இருப்பது செயற்கை நுண்ணறிவின் ஆரம்பமாகும். அடுத்த இரண்டு தசாப்தங்களில் செயற்கை நுண்ணறிவு எங்கே செல்லும் என்ற கேள்வியை நாம் எதிர்கொள்கிறோம். செயற்கை நுண்ணறிவுக்கும் புத்த மதத்துக்கும் உள்ள தொடர்பு என்ன என்பதில் கவனம் செலுத்த வேண்டும்.
+President Ranil Wickremesinghe said that a billion rupees will be allocated next year for research on the teachings of the Buddha and artificial intelligence.
+
+The President said this while addressing the 100th anniversary of the Moratuwa Sri Lanka Buddhist Society held at the Moratuwa Buddhist Hall yesterday.. When he further addresses,
+
+Being now is the beginning of artificial intelligence. We face the question of where artificial intelligence will go over the next two decades. Focus on what is the connection between artificial intelligence and Buddhism.
 
 ...
 
 [Data](articles/7b367f7b.json)
+
+[Extended Data](ext_articles/7b367f7b.ext.json)
 
 ---
 
@@ -2207,27 +2235,5 @@ A 28 year old resident of Ja Elas.
 [Data](articles/647668f6.json)
 
 [Extended Data](ext_articles/647668f6.ext.json)
-
----
-
-### Tension because the man who drove the police chased
-
-*2024-05-11 09:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொலிஸ்-விரட்டிச்-சென்ற-நபர்-மரணமடைந்ததால்-பதற்றம்/71-337117) · `ta`
-
-In Jaffna, a man named Punnalai Katuvan was killed during a police chase, causing public unrest. Allegedly, he was fatally injured when police officers kicked him while he was on a motorcycle.
-
-🟩
-
-A man who was chased away by the police chasing last night in Jaffna - Punnalai Katuvan was killed when a public gathering was in a state of disturbance.
-
-Police officers on duty at Palali Police Station
-
-The public alleged that the man was killed when the man was killed when a motorcycle was kicked and kicked by the police officers who continued to drive.
-
-◼️
-
-[Data](articles/32683996.json)
-
-[Extended Data](ext_articles/32683996.ext.json)
 
 ---

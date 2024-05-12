@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 13:03:33**
+As of **2024-05-12 13:18:36**
 
 ## Newspaper Stats
 
-*Scraped **23,448** Articles*
+*Scraped **23,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
 adalk | 1,987
-adaderanalk | 2,740
+adaderanalk | 2,742
 tamilmirrorlk | 2,752
 virakesarilk | 3,484
-dailymirrorlk | 3,687
+dailymirrorlk | 3,688
 adaderanasinhalalk | 3,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,448 (100.0%) of 23,448 articles have been extended.
+23,448 (100.0%) of 23,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### Maithripala resigns as SLFP Chairman, Wijeyadasa appointed as successor
+
+*2024-05-12 12:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-resigns-as-SLFP-Chairman-Wijeyadasa-appointed-as-successor/108-282408) · `en`
+
+Former President Maithripala Sirisena stepped down from his role as Chairman of the Sri Lanka Freedom Party (SLFP) paving the way for a new leadership.
+
+Accordingly, the Executive Committee of the SLFP convened for a crucial meeting at a hotel in Kotte today, where a unanimous decision was reached to appoint Justice Minister Wijeyadasa Rajapakshe as the new Chairman.
+
+The executive committee's deliberations culminated amid a host of issues the party is facing at present.
+
+Rajapakshe was appointed as the Acting Chairperson of the SLFP during an Executive Committee meeting held on April 21 by the party faction led by former President Maithripala Sirisena.
+
+However, on April 24, the Colombo District Court issued an injunction order preventing Rajapakshe from functioning as the Acting Chairperson of the SLFP.
+
+In response, Wijeyadasa Rajapakshe filed a petition seeking to suspend the interim injunction, which the Court of Appeal (CA) dismissed on May 7th.
+
+◼️
+
+[Data](articles/32d5f535.json)
+
+---
 
 ### Central Executive Committee Meeting of the Sri Lanka Tamil State Party meets in Vavuniya on May 19
 
@@ -73,6 +95,22 @@ At the Executive Committee Meeting of the Maithripala Sirisena, the party's Mait
 [Data](articles/a8722b16.json)
 
 [Extended Data](ext_articles/a8722b16.ext.json)
+
+---
+
+### Wijeyadasa appointed SLFP Chairman as Maithripala resigns
+
+*2024-05-12 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99160/wijeyadasa-appointed-slfp-chairman-as-maithripala-resigns) · `en`
+
+Former President Maithripala Sirisena has resigned from the post of Chairman of the Sri Lanka Freedom Party (SLFP).
+
+Subsequently, the Executive Committee of the SLFP has unanimously voted to appoint Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
+
+The appointment was made during the executive committee meeting of the party held at a hotel in Kotte today (12).
+
+◼️
+
+[Data](articles/0453721e.json)
 
 ---
 
@@ -207,6 +245,24 @@ As well as the Sri Lankan -based contestant, a contestant, singing the song 'One
 [Data](articles/c92e896b.json)
 
 [Extended Data](ext_articles/c92e896b.ext.json)
+
+---
+
+### Person nabbed in Kalpitiya for possessing suspected gold antiques
+
+*2024-05-12 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99159/person-nabbed-in-kalpitiya-for-possessing-suspected-gold-antiques) · `en`
+
+Sri Lanka Navy has apprehended an individual who was in possession of antiques suspected to be gold in the Alankuda area of Kalpitiya on Saturday (11).
+
+The apprehension has been made as a result of a combined search operation conducted by SLNS Vijaya in the Northwestern Naval Command and Divisional Crime Investigation Bureau, Puttalam in Alankuda area. After inspecting a house in the locality on suspicion, the officers have recovered these antiques which suspected to be gold.
+
+The suspect held in this operation was identified as a resident of Eththalei in Kalpitiya, aged 34, the Navy said.
+
+The accused, along with antique items, have been handed over to the Divisional Crimes Investigation Bureau in Puttalam for onward legal action.
+
+◼️
+
+[Data](articles/4f52c6a3.json)
 
 ---
 
@@ -2187,75 +2243,5 @@ The Ministry of Defense also provides information on 011- 2 44 11 46 and will co
 [Data](articles/0ce237f9.json)
 
 [Extended Data](ext_articles/0ce237f9.ext.json)
-
----
-
-### Risk of breaking bridge
-
-*2024-05-11 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196512) · `si`
-
-The Wellassa Bridge in Trincomalee's Muthure Division, crucial for transporting goods and aiding farmers, is at risk of collapse due to its dilapidated state, a concern raised by locals two years ago.
-
-🟩
-
-The vellanal bridge in the Muttur Kuliya area has risen to a breakdown.
-
-The Wellassa Bridge in the Qui Town area belonging to the Muthure Divisional Secretariat Division of the Trincomalee District is about 200 meters long.
-
-With the end of the war, the bridge was constructed to transport goods and farmers.
-
-Residents say that the bridge is dilapidated to two years ago.
-
-◼️
-
-[Data](articles/491bb610.json)
-
-[Extended Data](ext_articles/491bb610.ext.json)
-
----
-
-### Advisory issued over thundershowers and severe lightning
-
-*2024-05-11 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99148/advisory-issued-over-thundershowers-and-severe-lightning) · `en`
-
-The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts today (11).
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, North-western, Uva and North-central provinces and in Mannar and Vavuniya districts, it said.
-
-There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/0d79396f.json)
-
-[Extended Data](ext_articles/0d79396f.ext.json)
-
----
-
-### A warning to the people of several provinces
-
-*2024-05-11 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196511) · `si`
-
-The Department of Meteorology warns of strong lightning in Western, Sabaragamuwa, Southern, Uva, and North Central provinces. The public is advised to stay alert due to temporary strong winds in these areas. The warning is in effect until 11:30 pm today.
-
-🟩
-
-The Department of Meteorology has issued an announcement of strong lightning.
-
-The statement states that there is a risk of striking lightning at the Western, Sabaragamuwa, Southern, Uva and North Central provinces.
-
-The public is also temporarily strong in these areas to be alert to the people of these areas and have a temporary winds in those areas.
-
-The announcement is valid until 11.30 pm today (11).
-
-◼️
-
-[Data](articles/53a4ebc5.json)
-
-[Extended Data](ext_articles/53a4ebc5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 13:33:52**
+As of **2024-05-12 13:52:56**
 
 ## Newspaper Stats
 
-*Scraped **23,456** Articles*
+*Scraped **23,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,99 @@ adaderanalk | 2,742
 tamilmirrorlk | 2,756
 virakesarilk | 3,484
 dailymirrorlk | 3,688
-adaderanasinhalalk | 3,761
+adaderanasinhalalk | 3,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,451 (100.0%) of 23,456 articles have been extended.
+23,456 (100.0%) of 23,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### චර්ම රෝග වැඩි වෙයි
+### ආර්ථික පරිවර්තන පනතට ජනපති සහාය ඉල්ලයි
+
+*2024-05-12 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196534) · `si`
+
+ආර්ථික ස්ථායිතාව වෙනුවෙන් රජය ගෙන එන ආර්ථික පරිවර්තන පනතට සහාය දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවේ සියලු පක්ෂවලින් ඉල්ලා සිටී.
+
+ඒ, ජාත්‍යන්තර හෙද දිනය වෙනුවෙන් අරලිය ගහ මන්දිර පරිශ්‍රයේ පැවති සැමරුම් උත්සවයේදීය.
+
+"අපේ බලාපොරොත්තුව එන අවුරුද්දේ අවම අවශයෙන් 3%ක වර්ධන වේගයක් ඇති වෙයි කියලා. එහෙනම් 3%ක වර්ධන වේගයක් ඇති වෙන අවස්ථාවේදී රජයේ සේවකයින්ට පඩි වැඩිකිරීම ගැනත් අපේ අවධානය යොමුවෙලා තියෙනවා. අපි කොන්දේසියකට ඇවිත් කියෙනවා IMF සංවිධානය සහ අපිට ණය දෙන රටවල් එක්ක. අපි මුදල් මුද්‍රණය කරන්නේ නැහැ කියලා."
+
+හෙද සේවයේ මාතාව ලෙස විරුදාවලිය ලත් ෆ්ලොරන්ස්  නයිටිංගේල් මැතිණියගේ ජන්ම දිනය පදනම් කරගනිමින් මැයි 12 වනදා ජාත්‍යන්තර හෙද දිනය ලෙස ප්‍රකාශයට පත්කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති ජාත්‍යන්තර හෙද දින සැමරුම අද පෙරවරුවේ අරලිය ගහ මන්දියරයේදී පැවැත්වුණි.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන,සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ ඇතුළු මැතිඇමතිවරුන් මෙන්ම සෞඛ්‍ය ක්ෂේත්‍රයේ නිලධාරීන් රැසක් ඊට එක්වුණි.
+
+◼️
+
+[Data](articles/6b3092c7.json)
+
+---
+
+### Dermatography increases
 
 *2024-05-12 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196533) · `si`
 
-උණුසුම් කාලගුණ තත්ත්වයත් සමග මේ දිනවල චර්ම රෝගවල ඉහළ යාමක් පෙන්නුම් කරන බව කොළඹ ජාතික රෝහලේ චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය පැවසුවාය.
+Dermatography, or skin diseases, is on the rise, says Dr. Indira Kahawita of Colombo National Hospital. She attributes this to the sun's exposure on uncovered areas, leading to spots and fungal infections, especially in children's faces and around the eyes. Immediate medical attention is advised due to the increasing prevalence.
 
-ඇය පෙන්වාදෙන්නේ ඇතැම් චර්ම රෝග සඳහා වෛද්‍ය ප්‍රතිකාර ලබාගැනීම අනිවාර්යය බවය.
+🟩
 
-"ඇඳුම්වලින් ආවරණය නොවූ ස්ථාන මත දැඩි හිරු රැස් පතිතවීම නිසා ඒ නැත්වල සමේ කැසීමක් සහිත ලප ඇතිවෙන්නේ පුළුවන්. කුඩා දරුවන්ගේ මුහුණේ ඇති වෙන්න පුළුවන්... සුදු පාට ලප. විශේෂයෙන්ම කම්මුල්ලවල උඩ ප්‍රදේශයේ, ඇස් වටේ තරමක් පහළින්."
+According to the Colombo National Hospital, Dr. Indira Kahawita says he will increase the increase in skin diseases these days.
 
-"දිලීර ආසාදන ද අපි සුලබ වශයෙන් දකිනවා. ඇත්තටම දිලීර ආසාදන ලොකු ගැටලුවක් වන තත්ත්වයට අපි දකිනවා. කිසිම ආකාරයකින් බෙහෙත් වගේ දේවල් කරන්න යන්න එපා. වහාම සුදුසුකම් ලත් වෛද්‍යවරයෙක් හමුවන්න. මොකද පවතින රෝග තත්ත්වයන්ගේ වැඩිවීමකුත් දකින්න පුළුවන්."
+She shows that it is compulsory for medical treatment for certain dermapons.
+
+"The spots on the skin can cause the skin of the skin due to the prevailing sun's gains on places that are not covered with clothing. There may be the face of young children.. White spots. Especially in the upper area of Gurmulla, and slightly below the eyes. "
+
+"We also see the fungal infections. We see the fungal infection is a big problem. Don't go to do things like medicine in any way. Immediately meet a qualified doctor. Because there is an increase in the situation. "
 
 ◼️
 
 [Data](articles/29cdf227.json)
 
+[Extended Data](ext_articles/29cdf227.ext.json)
+
 ---
 
-### பஸ் விபத்து ; 9 பேர் காயம்
+### Bus accident;9 people injured
 
 *2024-05-12 13:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-விபத்து-9-பேர்-காயம்/76-337172) · `ta`
 
-ஹகுரங்கெத்தவிலிருந்து கண்டி நோக்கிப் பயணித்த, ஹகுரங்கெத்த டிப்போவிற்கு சொந்தமான பேருந்தொன்று மயிலப்பிட்டிய பிரதேசத்தில் வைத்து , வேகக் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் சாரதி, நடத்துனர் உட்பட 09 பேர் காயமடைந்துள்ள சம்பவம்  ஞாயிற்றுக்கிழமை  (12) இடம்பெற்றுள்ளது .
+On Sunday, a bus accident in Mayilapitiya injured nine, including the driver and conductor, on the route from Hakurangetha to Kandy.
+
+🟩
+
+The incident took place on Sunday (12) that nine people, including driver and conductor, were injured when a bus belonging to the Hakurangettha depot from Hakurangetha to Kandy was left in the Mayilapitiya area.
 
 ◼️
 
 [Data](articles/eef0a42d.json)
 
+[Extended Data](ext_articles/eef0a42d.ext.json)
+
 ---
 
-### மைத்திரி இராஜினாமா
+### Maithri resigns
 
 *2024-05-12 13:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இராஜினாமா/175-337171) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தவிசாளர் பதவியிலிருந்து முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இராஜினாமா செய்துள்ளார்.
+Maithripala Sirisena resigns from SLFP, appoints Vijayadasa Rajapaksa as chairman.
 
-கொட்டால் இன்று (12) நடைபெற்ற செயற்குழு கூட்டத்தில்  கட்சியின் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவை நியமிக்க, முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையிலான குழுவினர் தீர்மானித்துள்ளனர்.
+🟩
+
+Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party (SLFP).
+
+A delegation headed by former President Maithripala Sirisena has decided to appoint Justice Minister Vijayadasa Rajapaksa as the party's chairman at the Kotal Executive Committee.
 
 ◼️
 
 [Data](articles/ea074059.json)
+
+[Extended Data](ext_articles/ea074059.ext.json)
 
 ---
 
@@ -228,17 +268,23 @@ The 30-year-old suspect is due to be questioned on holding orders and will be qu
 
 ---
 
-### அரச ஊழியர்களுக்கு மீண்டும் சம்பளம் அதிகரிப்பு
+### Increase in salary again for public servants
 
 *2024-05-12 12:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-மீண்டும்-சம்பளம்-அதிகரிப்பு/175-337168) · `ta`
 
-2025 ஆம் ஆண்டில் இலங்கையின் பொருளாதார வளர்ச்சி  3 சத வீதமாக உயரும் என எதிர்பார்ப்பதாகவும், அதற்கமைய அரச ஊழியர்கள் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Wickremesinghe promises 3% economic growth by 2025 and salary hikes for public servants, addressing International Nurses Day.
 
-ஞாயிற்றுக்கிழமை (12) நடைபெற்ற சர்வதேச தாதியர் தின நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+🟩
+
+President Ranil Wickremesinghe said that the economic growth of Sri Lanka would increase by 3 per cent by 2025 and that action would be taken to increase the salaries of public servants.
+
+President Ranil Wickremesinghe said while addressing the International Nurses Day event on Sunday (12)
 
 ◼️
 
 [Data](articles/0efa7499.json)
+
+[Extended Data](ext_articles/0efa7499.ext.json)
 
 ---
 
@@ -350,19 +396,25 @@ The suspects are to be produced before the Homagama magistrate.
 
 ---
 
-### பொது மன்னிப்பு;12 ஆயிரம் வீரர்கள் நீக்கம்
+### Public apology; removal of 12 thousand soldiers
 
 *2024-05-12 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பு-12-ஆயிரம்-வீரர்கள்-நீக்கம்/175-337163) · `ta`
 
-20 ஏப்ரல் 2024 முதல் 20 மே 2024 வரை விடுமுறையின்றி சேவைக்கு சமூகமளிக்காத இராணுவ வீரர்களுக்கு பொது மன்னிப்பு காலத்தை இலங்கை இராணுவம் அறிவித்துள்ளது.
+Sri Lanka's military offered a three-week amnesty from April 20 to May 11, 2024, allowing soldiers without leave to leave their posts. During this period, 12,985 soldiers were temporarily moved from their brigade centers. Additionally, plans were made to allow 81 employees stranded abroad to return home without leave.
 
-இந்த பொதுமன்னிப்பு காலத்தின் மூன்று வாரங்கள் முடிவடைந்த நிலையில், 20 ஏப்ரல் 2024 மற்றும் 11 மே 2024 க்கு இடையில், 31 டிசம்பர் 2023 மற்றும் அதற்கு முன்னர் விடுப்பு இல்லாமல் இருந்த 11985 இராணுவ வீரர்கள் தற்காலிகமாக தங்கள் படைப்பிரிவு மையங்களில் இருந்து வெளியேற்றப்பட்டனர்.
+🟩
 
-மேலும், தற்போது வெளிநாட்டில் உள்ள மற்றும் விடுப்பு இன்றி சமூகமளிக்காத 81 பணியாளர்களை இந்த பொதுமன்னிப்பு காலத்தில் ராணுவத்தில் இருந்து சட்டப்பூர்வமாக வெளியேற்ற ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+From 20 April 2024 to 20 May 2024, the Sri Lankan military has announced a public amnesty for soldiers who have not been able to serve without holidays.
+
+Between 20 April 2024 and 11 May 2024, 11985 soldiers who had been left without leave were temporarily evacuated from their brigade centers, as the three weeks of the amnesty ended.
+
+In addition, arrangements have been made to evict 81 employees who are currently unable to leave abroad and leave without leave.
 
 ◼️
 
 [Data](articles/15a8d089.json)
+
+[Extended Data](ext_articles/15a8d089.ext.json)
 
 ---
 
@@ -2201,27 +2253,5 @@ The bus and tipper drivers were arrested by the Balangoda Police.
 [Data](articles/89a2c807.json)
 
 [Extended Data](ext_articles/89a2c807.ext.json)
-
----
-
-### Sri Lanka to deal with Iran, Russia in non-sanctioned areas: FM
-
-*2024-05-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-deal-with-iran-russia-in-non-sanctioned-areas-fm-162595/) · `en`
-
-ECONOMYNEXT – Sri Lanka will deal with Iran and Russia for investments and trade without being caught into the United States-led sanctions, the island nation’s Foreign Minister Ali Sabry said.
-
-Sri Lanka has been hit by Western sanctions imposed on Iran and Russia. The island nation could not receive $450 million from Iran for a recently opened Uma Oya multipurpose project started before the sanctions.
-
-Sri Lanka was also forced to buy light crude from Malaysia and Dubai instead of Iran after 2012 sanctions.
-
-The Western economic sanctions have already prevented Russian tourists from using their usual payment system and discouraged some visitors from Russia visiting to Sri Lanka, tourism industry officials say.
-
-“We are not going into their sanctions. There are number of areas where the sanctions do not get caught. So, a lot of countries work on that,” Ali Sabry told reporters on Wednesday (08).
-
-...
-
-[Data](articles/94e87eba.json)
-
-[Extended Data](ext_articles/94e87eba.ext.json)
 
 ---

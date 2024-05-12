@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 19:51:06**
+As of **2024-05-12 20:03:19**
 
 ## Newspaper Stats
 
-*Scraped **23,516** Articles*
+*Scraped **23,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
 dailyftlk | 1,356
-adalk | 1,996
+adalk | 1,997
 adaderanalk | 2,749
 tamilmirrorlk | 2,759
 virakesarilk | 3,504
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,516 (100.0%) of 23,516 articles have been extended.
+23,516 (100.0%) of 23,517 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,22 @@ The Tamil general candidate's trust issue is gaining public interest, seen as a 
 [Data](articles/84c566a5.json)
 
 [Extended Data](ext_articles/84c566a5.ext.json)
+
+---
+
+### පියාගේ වෙඩි පහරින් පුතාට තුවාල
+
+*2024-05-12 18:22:41* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-වෙඩි-පහරින්-පුතාට-තුවාල/11-409575) · `si`
+
+සූරියවැව වැවේගම ප්‍රදේශයේදී පියාගේ වෙඩි පහරින් බරපතල තුවාල ලැබූ පුතෙකු රෝහල් ගතකර ඇතැයි සූරියවැව පොලිසිය පවසයි.
+
+පොලිසිය පැවසුවේ ඊයේ (11) දහවල්  මෙම වෙඩි තැබීම සිදුව ඇති බවයි. අධික ලෙස බීමත්ව සිටි පියා බෙහෙත් කොටන තුවක්කුවක්ද රැගෙන පුතාගේ නිවස අසලට පැමිණ පුතාට බැණවැදී ඇති අතර නිවෙස තුළ දහවල් කෑම කමින් සිටි පුතා බැණ වැදීමට හේතුව විමසීමට නිවෙසින් එලියට පැමිණීමේදී වෙඩිතැබීම සිදු කර තිබේ.
+
+වෙඩි පහර තුවාලකරුගේ වම් කකුලේ දණහිසට ඉහලින් කලවා ප්‍රදේශයට වැදී ඇත. වෙඩි තැබූ පියා පලාගොස් ඇතැයි පොලිසිය පවසයි.සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන සූරියවැව පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/3c61dd2c.json)
 
 ---
 
@@ -2237,27 +2253,5 @@ In such a situation, the government's obligation on the issue of accountability 
 [Data](articles/a05a0747.json)
 
 [Extended Data](ext_articles/a05a0747.ext.json)
-
----
-
-### Ranil - Mahinda Compliance on General Candidate
-
-*2024-05-12 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183280) · `ta`
-
-In the Sri Lankan presidential election, President Ranil Wickremesinghe and Mahinda Rajapakse's Sri Lanka PA have shown compliance. Basil Rajapakse, urging Wickremesinghe to dissolve parliament by May, aims for future political interests. A meeting between Wickremesinghe and Basil Rajapaksa, attended by several ministers and MPs, discussed the election's timing. Wickremesinghe declined to directly respond to Basil's request, opting for a June resolution. Basil seeks parliament dissolution for the PA's political future, while Wickremesinghe plans to proceed with the election as scheduled. The meeting highlighted the need for a common candidate and broad coalition in the upcoming election.
-
-🟩
-
-In the proposal presidential election, there has been a compliance between President Ranil Wickremesinghe and President Mahinda Rajapakse, the leader of the Sri Lanka PA.
-
-However, Basil Rajapakse has urged President Ranil Wickremesinghe to dissolve parliament by the end of May, emphasizing that the parliamentary elections were time for the future political interests.
-
-The meeting between President Ranil Wickremesinghe and Basil Rajapaksa took place last Thursday. Ministers Prasanna Ranatunga, Nimal Siripala de Silva, Mahinda Amaraweera and Members of Parliament Mahindananda Aluthagamage and Vajira Abeywardena were also present at the meeting.. Although the president had invited Nimal Lansa to the meeting, he refused to hold talks with Basil Rajapakse.
-
-...
-
-[Data](articles/e0101e0b.json)
-
-[Extended Data](ext_articles/e0101e0b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 22:18:11**
+As of **2024-05-12 22:33:34**
 
 ## Newspaper Stats
 
-*Scraped **23,524** Articles*
+*Scraped **23,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
-economynextcom | 1,347
+economynextcom | 1,350
 dailyftlk | 1,356
 adalk | 1,998
 adaderanalk | 2,749
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,524 (100.0%) of 23,524 articles have been extended.
+23,524 (100.0%) of 23,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -875,6 +875,50 @@ However, the UPFA says that the delay in the agreement related to its demands wi
 [Data](articles/67be4d01.json)
 
 [Extended Data](ext_articles/67be4d01.ext.json)
+
+---
+
+### Sri Lanka strongly expects to sign up US$3.0 FDI in 2024, with China refinery
+
+*2024-05-12 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-strongly-expects-to-sign-up-us3-0-fdi-in-2024-with-china-refinery-162667/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting to sign foreign direct investment agreements of 3 billion US dollars in 2024, with help of a refinery to be built by Sinopec of China, State Minister for Investment Promotion Dilum Amunugama said.
+
+“The investment promotion ministry was given a target of billion US dollars of FDI for 2024,” Minister Amunugama said.
+
+“Though the final contracts have not been signed I am pleased to say even now discussions are steadily progressing to exceed that number.
+
+“By the second quarter we are likely to be able to double it and by the end of the year may be treble it.”
+
+A renewable energy project by India’s Adani group for which a power purchase agreement was approved by the cabinet this week was valued at 800 million US dollars.
+
+The first phase of an oil refinery in Hambantota by China’s Sinopec group will be around 2.8 billion US dollars.
+
+China’s refinery is to be a 5.0 billion US dollar in three phases with the first phase valued at 2.8 billion dollars.
+
+...
+
+[Data](articles/d7112d22.json)
+
+---
+
+### Sri Lanka ex-President Mahinda Rajapaksa slams privatization
+
+*2024-05-12 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-mahinda-rajapaksa-slams-privatization-162672/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ex-President Mahinda Rajapaksa has slammed a current privatization drive, claiming that they are ‘national’ assets.
+
+“I ruled the country for more than nine years from November 2005 to January 2015 without ever selling a single state-owned enterprise,” President Rajapaksa said in statement.
+
+“In fact, my government actually re-acquired some state owned enterprises such as the Insurance Corporation, and Lanka Hospitals that had been sold off by previous governments and these enterprises continue to make profits for the state to date.”
+
+The Insurance Corporation ended up in state hands due to a court order, which has been questioned due to lack of opportunity to cross examine witnesses.
+
+Critics however have blamed the Rajapaksa administrations for running down state enterprises for off-budget spending and to give jobs to henchmen and family members.
+
+...
+
+[Data](articles/d7846cc7.json)
 
 ---
 
@@ -2163,43 +2207,5 @@ Yet in Sri Lanka, there is no acceptance of invitation by Daily Mirror for a deb
 [Data](articles/dad9fb3a.json)
 
 [Extended Data](ext_articles/dad9fb3a.ext.json)
-
----
-
-### Over 12,000 army deserters receive legal discharge within three weeks
-
-*2024-05-12 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-12-000-army-deserters-receive-legal-discharge-within-three-weeks/108-282400) · `en`
-
-Colombo, May 12 (Daily Mirror) - Over 12,000 soldiers who had deserted the Sri Lanka Army have received legal discharges as of May 11 during an amnesty period declared by Sri Lanka’s Ministry of Defence.
-
-The general amnesty is in effect for one month, from April 20 to May 20, 2024. During this period, Army absentees have been given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centres.
-
-As of the end of the first three weeks of this amnesty period, between April 20, 2024, and May 11, 2024, a total of 11,985 Army personnel who were absent without leave since December 31, 2023, and earlier have been temporarily discharged from their Regimental Centres.
-
-The Army said 81 army deserters currently abroad and absent without leave are also among those who have received the legal discharge.
-
-◼️
-
-[Data](articles/b2bf78a3.json)
-
-[Extended Data](ext_articles/b2bf78a3.ext.json)
-
----
-
-### Restrictions on vehicle imports to be relaxed by next year – Semasinghe
-
-*2024-05-12 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99157/restrictions-on-vehicle-imports-to-be-relaxed-by-next-year-semasinghe-) · `en`
-
-State Minister of Finance Shehan Semasinghe states that the government is expected to ease restrictions and gradually allow the import of vehicles by next year.
-
-Speaking to the media in the Anuradhapura area, Semasinghe asserted that presently the government has not allowed a selected group of people to import vehicles and that permission has only been granted to import vehicles for commercial purposes.
-
-“The government does not allow a select group of people to import vehicles. So far, permission to import vehicles has been given only for commercial purposes, which means that only those who are involved in the economic process and commercial activities to contribute to the economy have been allowed to import vehicles thus far”, the State Minister said.
-
-...
-
-[Data](articles/7658c4d0.json)
-
-[Extended Data](ext_articles/7658c4d0.ext.json)
 
 ---

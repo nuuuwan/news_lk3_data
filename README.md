@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 15:03:17**
+As of **2024-05-12 15:18:26**
 
 ## Newspaper Stats
 
-*Scraped **23,469** Articles*
+*Scraped **23,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 2,745
 tamilmirrorlk | 2,758
 virakesarilk | 3,484
 dailymirrorlk | 3,691
-adaderanasinhalalk | 3,763
+adaderanasinhalalk | 3,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,464 (100.0%) of 23,469 articles have been extended.
+23,469 (100.0%) of 23,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
+
+### සා/පෙළ විද්‍යා ප්‍රශ්න පත්‍රයෙත් ගැටලුවක්
+
+*2024-05-12 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196537) · `si`
+
+සාමාන්‍ය පෙළ විභාගයට අදාළව පසුගියදා පැවති විද්‍යා විෂයට අයත්  ප්‍රශ්න පත්‍රය ප්‍රතිපාදන සැලසුමට පරිබාහිරව සකස්කර ඇති බවට පාර්ලිමේන්තු මන්ත්‍රි මධුර විතානගේ මන්ත්‍රිවරයා චෝදනා කරයි.
+
+මාධ්‍ය හමුවක් කැඳවමින් මන්ත්‍රීවරයා ඒ බව සඳහන් කළේ විද්‍යා විෂයට අදාළ ප්‍රශ්න පත්‍රයේ බහුවරණ ප්‍රශ්න තුනකට සහ රචනා ප්‍රශ්න තුනක කොටස් සම්බන්ධයෙන් ප්‍රතිපාදන සැලැස්මෙන් බාහිරව ප්‍රශ්න පත්‍රය සකස් කර ඇති බවය.
+
+ඒ සම්බන්ධයෙන් තමා විභාග කොමසාරිස් ජනරාල්වරයාගෙන් විමසීමක් කළ බවත් එහිදී කොමසාරිස්වරයා පවසා ඇත්තේ, විභාගය පවත්වා මාසයකින් පසු සිදුකරන ලකුණු ලබාදීමේ ප්‍රගති සමාලෝචනයේදී මේ පිළිබඳ සාකච්ඡා කර දරුවන්ට අසාධාරණයක් නොවන ලෙස ලකුණු ලබාදීම පිළිබඳ වැඩපිළිවෙළක් සකස් කරන බවටත් දැනුම් දුන් බව මන්ත්‍රීවරයා පැවසීය.
+
+◼️
+
+[Data](articles/f70e050c.json)
+
+---
+
+### ශ්‍රීලනිප මෛත්‍රී පිලේ වැඩබලන මහලේකම් කීර්ති උඩවත්ත
+
+*2024-05-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196536) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වයේ වැඩබලන මහලේකම්වරයා ලෙස නීතිඥ කීර්ති උඩවත්ත මහතා පත්කර තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රීපාල සිරිසේන පාර්ශ්වයේ විධායක සභා රැස්වීමක් අද (12) පෙරවරුවේ පිටකෝට්ටේ පෞද්ගලික හෝටලයකදී ආරම්භ වුණි.
+
+එහිදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබුණි.
+
+තවද විධායක සභා රැස්වීමේදී ඒකමතිකව තීරණය වී ඇත්තේ අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පක්ෂ සභාපති ධුරයට පත් කිරීමටය.
+
+◼️
+
+[Data](articles/98ec4302.json)
+
+---
 
 ### Keerthi Udawatte appointed SLFP’s Acting General Secretary
 
@@ -41,6 +75,8 @@ The Sri Lanka Freedom Party’s (SLFP) faction led by former President Maithripa
 ◼️
 
 [Data](articles/bbc0772f.json)
+
+[Extended Data](ext_articles/bbc0772f.ext.json)
 
 ---
 
@@ -62,21 +98,29 @@ Rajapaksa, who served as President from November 2005 to January 2015, emphasize
 
 ---
 
-### தொல்பொருட்களுடன் ஒருவர் கைது
+### Arrest of someone with archaeological
 
 *2024-05-12 14:06:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருட்களுடன்-ஒருவர்-கைது/175-337174) · `ta`
 
-கற்பிட்டி - ஆலங்குடா பகுதியில் வீடொன்றிலிருந்து , சட்டவிரோதமான முறையில் வைத்திருந்த குற்றச்சாட்டில் , தங்கத்தலானது என சந்தேகிக்கப்படும்  தொல்பொருட்களுடன் சந்தேகநபர் ஒருவர் சனிக்கிழமை (11) கைது செய்யப்பட்டுள்ளார்.
+A 34-year-old man was arrested in Kalpitiya for allegedly stealing gold artifacts, including a turtle, horse, and two statues, from a house. The Sri Lankan Navy and CID raided the site, seizing the items. The suspect and artifacts are now with the CID for further legal proceedings.
 
-கற்பிட்டி, ஏத்தாளை பகுதியைச் சேர்ந்த 34 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக கடற்படையினர் தெரிவித்துள்ளனர்.
+🟩
 
-இலங்கை கடற்படைக்கு சொந்தமான விஜய கடற்படையினரும், புத்தளம் பிரிவு குற்ற விசாரணை பிரிவின் அதிகாரிகளும் இணைந்து குறித்த பகுதியில் விஷேட சோதனை நடவடிக்கையொன்றை மேற்கொண்ட நிலையில்  வீடொன்றினை சோதனை செய்த போது, அந்த வீட்டிற்குள் சட்டவிரோதமாக பெறப்பட்டதாக சந்தேகிக்கப்படும் தொல்பொருட்கள் மிகவும் சூட்சகமான முறையில் மறைத்து வைக்கப்பட்டிருந்தமை தெரியவந்துள்ளது.
+A suspect has been arrested on Saturday (11) with archaeologists suspected of being golden on charges of illegal allegations from a house in the Kalpitiya - Alanguda area.
 
-இதன்போது ,தங்கத்தில் தயாரிக்கப்பட்டதாக சந்தேகிக்கப்படும் வால் ஒன்றும், ஆமை , குதிரை மற்றும் இரண்டு சிறிய சிலைகளும் பறிமுதல் செய்யப்பட்டுள்ளன.
+A 34 -year -old man from Kalpitiya and Ethalai area has been arrested, the navy said.
 
-...
+When a special inspection was carried out in the area, the Sri Lankan Navy -owned Vijaya Navy and officials of the Puttalam Division Criminal Investigation Division had raided the house.
+
+During this time, one of the tail, which is made in gold, the turtle, the horse and the two small statues have been seized.
+
+In addition, the arrested suspect and the confiscated artifacts have handed over to the Criminal Investigation Division (CID) under the Puttalam Police Superintendent's Office for further legal action.
+
+◼️
 
 [Data](articles/f8cdfc1f.json)
+
+[Extended Data](ext_articles/f8cdfc1f.ext.json)
 
 ---
 
@@ -142,21 +186,27 @@ Thereafter, a cassette and two smartphones stolen in three houses in the Soloon 
 
 ---
 
-### கல்முனை போராட்டத்துக்கு 4000 பேர்   வலுச்சேர்த்தனர்
+### 4000 people were strengthened to protest Kalmunai
 
 *2024-05-12 13:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-போராட்டத்துக்கு-4000-பேர்-வலுச்சேர்த்தனர்/175-337173) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான நிருவாக அடக்குமுறைகளை கண்டித்து பொதுமக்கள் சிவில் அமைப்புக்கள் கல்முனை வடக்கு பிரதேச செயலக முன்றலில் நடாத்தி வரும் போராட்டம் திங்கட்கிழமையுடன் (13)  ஐம்பது நாட்களை எட்டுகிறது.
+4,000 civilians protested in Kalmunai, condemning administrative repression. The rally, lasting fifty days, intensified the Kalmunai Tamil struggle, highlighting injustices and marching through the town.
 
-ஊர்வலமாக சுமார்  4,000 பொதுமக்கள் வந்து போராட்டத்தில் பங்கேற்றனர். இதனால்  கல்முனை தமிழர் போராட்டம் மேலும் தீவிரமடைந்துள்ளது.
+🟩
 
-4,000 பொது மக்கள் பங்கேற்ற பேரணி வடக்கு பிரதேச செயலகத்தில் ஆரம்பித்து தரவைப் பிள்ளையார் ஆலயம் வரை சென்று மீண்டும் பிரதேச செயலகத்தை அடைந்தனர். பதாதைகளை தாங்கிய வண்ணம் மிக நீண்ட நேரம் கோஷங்களை எழுப்பி மக்கள் வலம் வந்தனர்.
+Fifty days, the struggle of the civilian organizations at the Kalmunai North Divisional Secretariat, condemning the administrative repression of the Kalmunai North Divisional Secretariat.
 
-தமது யதார்த்தங்கள் தமக்கு இழைக்கப்படும் அநீதிகள் பற்றிய கோரிக்கைகள் தாங்கிய பதாதைகளுடன் சுட்டெரிக்கும் வெயிலிலும் கொதிக்கும் தார் வீதியில் நடைபவனியாக சுமார் இரண்டு கிலோமீட்டர் தூரம் வந்து கல்முனை வடக்குப் பிரதேச செயலகம் முன்பாக அமர்ந்திருந்து மக்கள் போராட்டத்தில் கலந்துகொண்டமை ஏனைய மக்களையும் உணர்ச்சி வசப்படுத்திய து.
+About 4,000 civilians came in the procession and participated in the protest. As a result, the Kalmunai Tamil struggle has intensified.
+
+4,000 people participated in the rally at the Northern Divisional Secretariat and went to the Data Pillaiyar Temple and reached the Divisional Secretariat again. People came around for a long time, chanting slogans.
+
+The realities of their realities and the injustices that they have done to the people of Kalmunai and the Kalmunai North Divisional Secretariat, who came to the boiling tar road in the boiling tar road and participated in the people's struggle.
 
 ◼️
 
 [Data](articles/37f3cb45.json)
+
+[Extended Data](ext_articles/37f3cb45.ext.json)
 
 ---
 
@@ -1518,6 +1568,8 @@ The government’s plans to sell off certain national assets and state owned ent
 
 [Data](articles/3888be1e.json)
 
+[Extended Data](ext_articles/3888be1e.ext.json)
+
 ---
 
 ### Debt Restructuring As Rocket Science: The IMF, Green, Blue & Pink-Washing BlackRock?
@@ -1529,6 +1581,8 @@ Calls for divestment from BlackRock and other International Sovereign Bonds (ISB
 ...
 
 [Data](articles/f0037c09.json)
+
+[Extended Data](ext_articles/f0037c09.ext.json)
 
 ---
 
@@ -2181,39 +2235,5 @@ Issuing a statement, the State Border Guard of Latvia stated that the border gua
 [Data](articles/35e2fc6d.json)
 
 [Extended Data](ext_articles/35e2fc6d.ext.json)
-
----
-
-### Former Indian envoy in Sri Lanka contests Lok Sabha election from BJP
-
-*2024-05-11 18:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Indian-envoy-in-Sri-Lanka-contests-Lok-Sabha-election-from-BJP/108-282396) · `en`
-
-May 11 - Former Indian High Commissioner to Sri Lanka Taranjit Singh Sandhu  has joined India’s ruling BJP and is contesting the elections. After Sri Lanka, he also served in the United States.
-
-He is a BJP candidate from the Amritsar seat and  on Friday he declared his total assets worth Rs 39.92 crore, according to his poll affidavit, the NDTV reported.
-
-Sandhu, 61, on Friday filed his nomination papers in Amritsar for the June 1 Lok Sabha polls.
-
-According to his affidavit, Sandhu declared moveable and immovable assets owned by him and his wife to be Rs 10.88 crore and 29.04 crore, respectively.
-
-◼️
-
-[Data](articles/dc28d8cd.json)
-
-[Extended Data](ext_articles/dc28d8cd.ext.json)
-
----
-
-### Singer Sri Lanka recognized as a strategic alliance partner at Sony’s annual BPC in Singapore
-
-*2024-05-11 18:37:00* · [`islandlk`](http://island.lk/singer-sri-lanka-recognized-as-a-strategic-alliance-partner-at-sonys-annual-bpc-in-singapore-2/) · `en`
-
-Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoured as a Strategic Alliance Partner at Sony’s recently held Annual Business Partner Conference (BPC) in Singapore. This recognition underscored the robust partnership between the two entities and highlights Singer’s dedication to bringing cutting-edge Sony technology to Sri Lankan consumers.
-
-...
-
-[Data](articles/328a7408.json)
-
-[Extended Data](ext_articles/328a7408.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-12 16:03:19**
+As of **2024-05-12 16:18:18**
 
 ## Newspaper Stats
 
-*Scraped **23,478** Articles*
+*Scraped **23,479** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 210
 bbccomsinhala | 243
-dbsjeyarajcom | 244
+dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,277
 economynextcom | 1,347
@@ -26,47 +26,59 @@ adaderanasinhalalk | 3,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,476 (100.0%) of 23,478 articles have been extended.
+23,478 (100.0%) of 23,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-12 (Sunday)
 
-### ලෝක මව්වරුන්ගේ දිනයේදී දුවිණිකා ගෙන් රටටම ආදර්ශයක්
+### Running to the country on World Mothers Day
 
 *2024-05-12 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196540) · `si`
 
-තම ආබාධය අමතක කර සිය මව පණ මෙන් රැකබලා ගන්නා දියණියක් ගැන පුවතක් අදට (12) යෙදී ඇති ලෝක මව්වරුන්ගේ දිනයේදී 'අද දෙරණ' ට වාර්තා විය.
+"World Mothers Day honors mothers who've overcome hardships, like Renini, a 30-year-old who struggles to return home after leaving for the city. Despite the challenges, she remains hopeful for a better future."
 
-උපතින්ම තුනටිය ප්‍රදේශයේ ආබාධයකින් පෙළෙන දුවිණිකාට දැන් වයස අවුරුදු 30කි.
+🟩
 
-පහන්තිර නිෂ්පාදනය කර නගරයට ගොස් ඒවා අලෙවිකර ඉන් ලැබෙන මුදලින් සිය ජීවිකාව පවත්වාගෙන යන්නට වෙර දරන ඇය මේ මව්වරුන්ගේ දිනයේ අමතක කළ නොහැකිම දිරිය දියණියකි.
+"Today has been reported to the World mothers day of the world mothers who have forgotten their disorder and have a daughter of her mother's life.
 
-එහෙත් ඒ දිරිය ගමනේදී ඇයට ඇති එකම ගැටලුව නිවසට යාමට ඒමට නිසි මඟක් නොමැතිකමය.
+Renini, who suffer from a consequence of a conversation in the area, is now 30 years old.
 
-"මම අම්මව බලාගෙන බොහොම අමාරුවෙන් ජීවත් වෙනවා. ගෙදර අඩුපාඩු මම කාගෙන්වත් ඉල්ලන්නේ නැහැ. තනියම කරගන්නවා. මට ගෙදරට යන්න එන්න කවුරුත් පාරක් දෙන්නේ නැහැ. මට වෙන මුකුත් එපා... පාරක් විතරක් දෙන්න." දුවිණිකා පැවසීය.
+The mother's day is not forgetting about these mothers' Day, who is trying to go to the city and sell their living in the city.
+
+But that daughter is lack of a proper way to go home.
+
+"I'm very hard to watch my mother. Home shortcomings I don't ask anyone. Makes out alone. I don't leave a road to come home. I don't want anything else.. Give it a road. "Runka said.
 
 ◼️
 
 [Data](articles/cb1c6cd2.json)
 
+[Extended Data](ext_articles/cb1c6cd2.ext.json)
+
 ---
 
-### සෞඛ්‍ය වර්ජනය හෙට මධ්‍යම පළාතේ
+### Health strike tomorrow
 
 *2024-05-12 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196539) · `si`
 
-එකඟතාවන් ක්‍රියාත්මක කිරීම ප්‍රමාද වීම හේතුවෙන් සෞඛ්‍ය සේවකයින් හෙට (13) දිනයේ මධ්‍යම පළාතේ රෝහල් තුළ වැඩ වර්ජනයක් සැලසුම් කර තිබේ.
+Health workers across various provinces will strike tomorrow (13) due to delayed agreement negotiations. The UPFA and Health Trade Union Alliance are involved, with the latter also protesting for doctors' allowances. The strike is a response to the delay in meeting the unions' demands.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසන්නේ, හෙට ඇරඹෙන වර්ජනය දිනෙන් දින විවිධ පළාත් ආවරණය වන පරිදි ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+🟩
 
-වෛද්‍යවරුන්ට ලබාදෙන ඩැට් හෙවත් ප්‍රවාහන හා නිර්බාධක දීමනාවට සමාන්තර දීමනාවක් තමන්ටද ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය මීට පෙර අවස්ථා කිහිපයකදී වර්ජන ක්‍රියාමාර්ගවල නිරත විය.
+Health workers have planned a strike tomorrow (13) due to the delay in the agreement.
 
-කෙසේවෙතත් එම සන්ධානය ප්‍රකාශ කරන්නේ, සිය ඉල්ලීම්වලට අදාළ එකඟතා ක්‍රියාත්මක කිරීම ප්‍රමාද වීම හේතුවෙන් හෙට සිට යළි වර්ජනයට අවතීර්ණ වන බවය.
+The Health Trade Unions UPFA says that the strike begins tomorrow is scheduled to cover various provinces.
+
+The Health Trade Union Alliance has also engaged in strike actions to the doctors and a parallel allowance for the doctors.
+
+However, the UPFA says that the delay in the agreement related to its demands will be resumed to the strike from tomorrow.
 
 ◼️
 
 [Data](articles/67be4d01.json)
+
+[Extended Data](ext_articles/67be4d01.ext.json)
 
 ---
 
@@ -1816,6 +1828,24 @@ Inside the Port City, Sri Lanka’s bank cannot destroy the future value of mone
 
 ---
 
+### Diana Gamage who came to Parliament on the Samagi Jana Balawegaya(SJB) National List, has been an MP for almost four years without being a citizen of any country.
+
+*2024-05-12 06:28:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84019) · `en`
+
+The Sri Lankan Supreme Court’s landmark judgment last week that State Minister of Tourism Diana Gamage was legally ineligible to serve as a Member of Parliament (MP) on the grounds that she was not a Sri Lankan citizen raises some crucial questions.
+
+The Supreme Court gave the ruling after hearing an appeal filed by social activist Oshala Herath challenging the Appeal Court’s dismissal of his petition against Gamage’s membership in Parliament.
+
+Gamage, who came to Parliament on the National List of the main Opposition Samagi Jana Balawegaya (SJB), began to support the then Gotabaya Rajapaksa Government.
+
+Her support for the Government continued after Ranil Wickremesinghe took office as President and she was also appointed as State Minister of Tourism. She earned a dubious name for her ridiculously controversial speeches about the night economy and cannabis cultivation.
+
+...
+
+[Data](articles/3d70b378.json)
+
+---
+
 ### The 2024 Presidential Election
 
 *2024-05-12 06:19:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-2024-presidential-election/) · `en`
@@ -2221,19 +2251,5 @@ With that accomplishments, he had the opportunity to carry the Olympic flame thi
 [Data](articles/2a3ab574.json)
 
 [Extended Data](ext_articles/2a3ab574.ext.json)
-
----
-
-### The Absence of a Desired Image – a tour de force
-
-*2024-05-11 20:54:00* · [`islandlk`](http://island.lk/the-absence-of-a-desired-image-a-tour-de-force/) · `en`
-
-Dr SinhaRaja Tammita-Delgoda’s new art history book, “George Keyt – The Absence of a Desired Image,” provides fascinating insights into the life and work of Sri Lanka’s greatest artist. The book, published by the Taprobane Collection, is 464 pages long from cover to cover with the Appendices (expertly compiled by Uditha Devapriya) comprising about 90 pages. A hefty piece of non-fiction, it is skillfully crafted with meticulous attention paid to detail. Tammita Delgoda has produced a work of art – a tour de force that grips the reader and captures the imagination like an epic novel. Thanks to the author’s breezy writing style and great zest for story-telling, it moves at a brisk pace and takes us on an unforgettable journey. The book’s design is exquisite, especially in respect of the delicate interplay between stylish narrative and ravishing visual imagery.
-
-...
-
-[Data](articles/c7d5ec18.json)
-
-[Extended Data](ext_articles/c7d5ec18.ext.json)
 
 ---

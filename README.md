@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 11:34:01**
+As of **2024-05-13 11:53:21**
 
 ## Newspaper Stats
 
-*Scraped **23,649** Articles*
+*Scraped **23,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,007
+adalk | 2,008
 adaderanalk | 2,759
 tamilmirrorlk | 2,771
 virakesarilk | 3,521
@@ -26,39 +26,71 @@ adaderanasinhalalk | 3,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,642 (100.0%) of 23,649 articles have been extended.
+23,649 (100.0%) of 23,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### සා පෙළ විද්‍යාව සහ ඉංග්‍රීසි ප්‍රශ්නපත්‍ර ගැන අවසන් තීරණය
+### රට වටා කොල්ලකෑම් කල සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-05-13 11:21:49* · [`adalk`](https://www.ada.lk/breaking_news/රට-වටා-කොල්ලකෑම්-කල-සැකකරුවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-409588) · `si`
+
+ප්‍රදේශ රැසක කොල්ලකෑම් හා  සොරකම් රැසකට සම්බන්ධ කැස්බෑව නිවුන්ගම මයියා ඇතුළු පුද්ගලයන් දෙදෙනකු  හොරයින්  මත්කුඩු තොගයක් සමග අත්අඩංගුවට ගත් බව බණ්ඩාරගම පොලිසිය කියයි.
+
+එම සැකකරුවන් දෙදෙනා සමග හොරයින් මත්කුඩු මිලිගෑම් 11470 ක් කොල්ල කන ලද  ත්‍රී රෝද රථයක් සොරා ගන්නා ලද යතුරුපැදියක්ද පොලිස් භාරයට ගෙන ඇත.
+
+බණ්ඩාරගම ගම්මන්පිල වැව අසලදී  සැකපිට අත්අඩංගුවට ගත් පුද්ගලයකු පරික්ෂා කිරීමේදී ඔහු සන්තකයේ හොරයින්  මත්කුඩු මිලිගෑම් 5370 ක් තිබි හමුවීමෙන් අනතුරුව සිදු කළ ප්‍රශ්න කිරීමේදී  තවත් පුද්ගලයකු සමග එක්ව කොහුවල, හිරන, වැල්මිල්ල  , හා ඉදිල්පිටි යන ප්‍රදේශවල සිදු කළ කොල්ලකෑම් සහ සොරකම් ගණනාවක තොරතුරු අනාවරණය කළ බව පොලිසිය සඳහන් කරයි
+
+එම සැකකරු අනාවරණය කළ තොරතුරු අනුව ඔහු සමග කොල්ලකෑම් සිදු කළ අනිත් පුද්ගලයා  හිරණ පාලම අසලදී හොරයින් මත්කුඩු මිලිගෑම් 6100 ක් සමග අත්අඩංගුවට ගැනීමට හැකි වී ඇත.
+
+...
+
+[Data](articles/267ff782.json)
+
+---
+
+### Final decision on science and English science and English
 
 *2024-05-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196569) · `si`
 
-මෙවර සාමාන්‍ය පෙළ විභාගයේ විද්‍යාව සහ ඉංග්‍රීසි ප්‍රශ්නපත්‍ර සම්බන්ධයෙන් අද පාර්ලිමේන්තුවේ දී අධ්‍යාපන අමාත්‍යවරයා අදහස් පළ කළේය.
+The Minister of Education addressed concerns about the GCE O/L examination's science and English sections, stating that adjustments are being made to ensure fairness. The decision was based on feedback and the need to balance the exam's difficulty level. The Minister also highlighted efforts to address teacher shortages and improve the quality of education, including the recruitment of 500 English subject teachers and the appointment of sports trainers.
 
-පාර්ලිමේන්තු මන්ත්‍රී රෝහිණී කවිරත්න මහත්මිය විසින් ඉදිරිපත් කළ පැනයකට පිළිතුරු ලබාදෙමින් අමාත්‍යවරයා සඳහා කර සිටියේ, එම ප්‍රශ්නපත්‍ර සම්බන්ධයෙන් කිසිදු අවස්ථාවක දරුවන්ට අසාධාරණයක් සිදුනොවීමට වගබලා ගන්නා බවය.
+🟩
 
-එමෙන්ම විද්‍යාව ප්‍රශ්නපත්‍රය සැකසු පිරිස රැස්වී ඒ සම්බන්ධයෙන් අවසන් තීන්දුවක් ගැනීමට කටයුතු කරමින් සිටින බවද අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා කියා සිටියේය.
+The Minister of Education today expressed the same regard to the science and English science of the GCE O / L examination.
 
-"විද්‍යාව ප්‍රශ්නපත්‍රයේ ප්‍රශ්න කිහිපයක් සම්බන්ධයෙන් සහ බහුවරණ ප්‍රශ්න කිහිපයක් සම්බන්ධයෙන් ප්‍රශ්නය ඇති වූ වේලාවේ සිට ඒ ප්‍රශ්නපත්‍රය සකස් කළ අය රැස්වෙලා ඒ සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට නියමිතව තිබෙනවා. ඒ වගේම විභාග කොමසාරිස්වරයා මේ සම්බන්ධයෙන් ප්‍රකාශයක් නිකුත් කළා. සාමාන්‍යයෙන් වෙන්නේ ඕනෑම විභාගයක දී සාම්පල් මාර්ක් එකක් කරනවා. එතැනින් පස්සේ බරතැබීම සම්බන්ධයෙන් වෙනස්කම් කරනවා. ඒ නිසා දරුවන්ට අසාධාරණයක් නොවන ආකාරයට මාර්කින් ස්කීම් එක සකස් කිරීමට ඒ පැනල් එක කටයුතු කිරීමට නියමිතයි."
+The Minister was responding to a question raised by MP Rohini Kaviratne.
+
+Minister of Education Susil Premjages said that the science paperwork is being taken to meet with the meeting.
+
+The number of questions that have been prepared for several questions about the question and several multiple-choice questions about the question and several multiple choice questions have been met to make a final decision on this matter.. Also, the Commissioner of Examinations issued a statement regarding this. Usually, a sample Mark does a sample. After that, changes in weight. The panel is due to adjust the skim in a way that does not be unfair. "
+
+Meanwhile, the Minister said that necessary steps will be taken to relieve the students to be relieved in the GCE Ordinary Level English question paper.
 
 ...
 
 [Data](articles/89ef3e93.json)
 
+[Extended Data](ext_articles/89ef3e93.ext.json)
+
 ---
 
-### ඩොනල්ඩ් ලූ අද දිවයිනට
+### Donald Lu
 
 *2024-05-13 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196568) · `si`
 
-දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා අද (13) නිල සංචාරයක් සඳහා දිවයිනට පැමිණීමට නියමිතය.
+Donald Lu, US Assistant Secretary for South and Central Asian Affairs, is visiting the island today.
+
+🟩
+
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu is due to arrive in the island today (13).
 
 ◼️
 
 [Data](articles/dea38845.json)
+
+[Extended Data](ext_articles/dea38845.ext.json)
 
 ---
 
@@ -78,21 +110,29 @@ Issuing a statement, the US State Department stated last week that in his meetin
 
 [Data](articles/8e366b25.json)
 
+[Extended Data](ext_articles/8e366b25.ext.json)
+
 ---
 
-### இ.போ. ச. சாரதி, நடத்துனர்கள் 1,000 பேருக்கு நிரந்தர நியமனம்!
+### E.Po. C. Permanent appointment to 1,000 drivers and conductors!
 
 *2024-05-13 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183382) · `ta`
 
-இலங்கை போக்குவரத்து சபையில் பணியாற்றும்  1,000 சாரதிகள் மற்றும் நடத்துனர்களுக்கு நிரந்தர நியமனக் கடிதங்கள் வழங்கப்பட்டுள்ளன.
+1,000 Sri Lanka Transport Board drivers and conductors, who met the qualifications, have been given permanent appointments, marking their transition from contract to permanent roles since 2018.
 
-நாடளாவிய ரீதியில் உள்ள அனைத்து டிப்போக்களையும் பிரதிநிதித்துவப்படுத்துவதற்கு தேவையான தகைமைகளைப் பெற்ற சாரதிகள் மற்றும் நடத்துனர்கள் குழுவொன்று நியமிக்கப்பட்டுள்ளதாக போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடக அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-2018ஆம் ஆண்டு முதல் ஒப்பந்த அடிப்படையில் பணிபுரிந்த ஊழியர்களுக்கு இவ்வாறான நிரந்தர நியமனங்கள் வழங்கப்பட்டுள்ளன.
+1,000 drivers and operators working in the Sri Lanka Transport Board have been issued permanent appointment letters.
+
+The Ministry of Transport, Highways and Mass Media has said that a group of drivers and conductors who received the qualifications needed to represent all depots across the country have been appointed.
+
+Such permanent appointments have been given to employees who have worked on contract basis since 2018.
 
 ◼️
 
 [Data](articles/47bcfb15.json)
+
+[Extended Data](ext_articles/47bcfb15.ext.json)
 
 ---
 
@@ -111,6 +151,8 @@ The body has been placed at the Kuliyapitiya Hospital, while the Giriulla Police
 ◼️
 
 [Data](articles/8ef1494f.json)
+
+[Extended Data](ext_articles/8ef1494f.ext.json)
 
 ---
 
@@ -140,23 +182,33 @@ Mahinda Rajapakse issued a statement that the recommendation came amid increasin
 
 ---
 
-### ஆப்கானிஸ்தானில் வெள்ளத்தால் கிராமங்கள் நீரில் மூழ்கின : 315 பேர் பலி
+### Villages drown in floods in Afghanistan: 315 killed
 
 *2024-05-13 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183376) · `ta`
 
-வட ஆப்கானிஸ்தானில் பெய்த கடும் மழையால் கிராமங்கள் நீரில் மூழ்கியுள்ளன. இதன் காரணமாக வெள்ளத்தில் சிக்கி 315 பேர் உயிரிழந்துள்ளதோடு, 1,600 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக அதிகாரிகள் ஞாயிற்றுக்கிழமை தெரிவித்தனர்.
+In Afghanistan, heavy rains have caused devastating floods, killing 315 and injuring over 1,600. Infrastructure and homes are destroyed, leaving survivors with no food, water, or shelter. The United Nations and humanitarian organizations are urged to assist. The crisis is exacerbated by economic instability and restrictions imposed after the Taliban takeover.
 
-வீதிகள் சேற்றில் புதைந்திருப்பதோடு சுகாதாரப் பாதுகாப்பு வசதிகள் மற்றும் நீர் வழங்கல் போன்ற முக்கிய உள்கட்டமைப்புகளுக்கு சேதம் ஏற்படுவதாக உதவிக் குழுக்கள் எச்சரித்துள்ளன.
+🟩
 
-"எங்களுக்கு உணவு இல்லை, குடிநீர் இல்லை, தங்குமிடம் இல்லை, போர்வைகள் இல்லை, எதுவும் இல்லை, வெள்ளம் அனைத்தையும் அழித்துவிட்டது,"
+Villagers are submerged by heavy rains in North Afghanistan. Officials said on Sunday, 315 people were killed and more than 1,600 injured in the floods.
 
-உயிர் பிழைத்தவர்கள் வாழ போராடுகிறார்கள்.  42 வீடுகளில், இரண்டு அல்லது மூன்று வீடுகள் மாத்திரமே எஞ்சியுள்ளன, வெள்ளம் முழு பள்ளத்தாக்கையும் அழித்துவிட்டது என்றார்.
+Assistant groups have warned that the roads are buried in the mud and damage to major infrastructure such as health care facilities and water supply.
 
-வெள்ளத்தால் பாதிக்கப்பட்டவர்களுக்கு உதவுமாறு ஐக்கிய நாடுகள் சபை, மனிதாபிமான அமைப்புகள் மற்றும் தனியார் வணிகங்களை தலிபானின் பொருளாதார அமைச்சர் டின் முகமது ஹனிஃப் வலியுறுத்தியுள்ளார்.
+"We have no food, no drinking water, no shelter, no blankets. Nothing. The flood has destroyed everything,"
+
+The survivors are struggling to live.Of the 42 houses, only two or three houses remain, and the flood has destroyed the entire valley.
+
+Tin Mohammed Hanif has urged the United Nations, humanitarian organizations and private businesses to help flood victims.
+
+"Life and livelihoods have been washed," "Suddenly flooding destroyed the villages, destroyed homes and killed cattle."Save the Children Afghan Afghan Director Arshad Malik said that there are 310,000 children living in the worst affected districts.
+
+Only 153 people have died in the Baglan province and the number is likely to rise.
 
 ...
 
 [Data](articles/d3625f85.json)
+
+[Extended Data](ext_articles/d3625f85.ext.json)
 
 ---
 
@@ -178,19 +230,25 @@ The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is no
 
 ---
 
-### யாழில் இடம்பெற்ற வீதி விபத்தில் இளைஞரொருவர் காயம்
+### Youth injured in a road accident in Jaffna
 
 *2024-05-13 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183373) · `ta`
 
-யாழ்ப்பாணம் இலுப்பையடிச் சந்திப் பகுதியில் ஜீப் ரக வாகனமொன்று மோட்டார் சைக்கிளுடன் மோதி ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A young man was injured in a road accident in Jaffna when his motorcycle collided with a jeep at the Iluppaiyadich junction. He was admitted to the Jaffna Teaching Hospital for treatment.
 
-யாழ்ப்பாணம் நாவலர் வீதியால் பயணித்த ஜீப்ரக வாகனம் இலுப்பையடிச் சந்தியை கடக்க முற்பட்டுள்ள நிலையில் யாழ்ப்பாணம் பலாலி வீதியூடாக புன்னாலைக்கட்டுவான் நோக்கி பயணித்துக் கொண்டிருந்த மோட்டார் சைக்கிள் இலுப்பையடிச் சந்தியை கடக்க முற்பட்ட போது குறித்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞனின் கால்கள் முறிவடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+A young man who was traveling on a motorcycle was injured in an injury when a jeep vehicle collided with a motorcycle at the Iluppaiyadich junction in Jaffna.
+
+The accident occurred when the motorcycle traveling by the Jaffna Naval road was trying to cross the junction of the Jaffna Palali road to Punnakkattuwan.
+
+The young man who was traveling on a motorcycle has been admitted to the Jaffna Teaching Hospital for treatment.
 
 ◼️
 
 [Data](articles/6ccd10c3.json)
+
+[Extended Data](ext_articles/6ccd10c3.ext.json)
 
 ---
 
@@ -2173,25 +2231,5 @@ Addressing the gathering, the President mentioned that four key laws will be int
 [Data](articles/eb967fd9.json)
 
 [Extended Data](ext_articles/eb967fd9.ext.json)
-
----
-
-### Supervision of O / L Examination Center arrested
-
-*2024-05-12 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196550) · `si`
-
-A supervisor at an Examination Center was arrested for releasing the English question paper early for the GCE Ordinary Level exam, held at a tuition center in Hasalaka.
-
-🟩
-
-A supervision of an Examination Center has been arrested by the police today (12), a supervision of an Examination Center regarding the release of English question paper at the GCE Ordinary Level examination.
-
-The examination is being held at the meeting a tuition teacher in the Hasalaka area.
-
-◼️
-
-[Data](articles/26a4ebca.json)
-
-[Extended Data](ext_articles/26a4ebca.ext.json)
 
 ---

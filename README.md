@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 04:51:47**
+As of **2024-05-14 05:03:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,826 (100.0%) of 23,827 articles have been extended.
+23,827 (100.0%) of 23,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -298,19 +298,29 @@ Opposition Leader Sajith Premadasa said this while participating in a protest de
 
 ---
 
-### ’இராணுவமே ஆங்கிலம் கற்பிக்கின்றது’
+### The military teaches English
 
 *2024-05-14 00:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவமே-ஆங்கிலம்-கற்பிக்கின்றது/175-337269) · `ta`
 
-தற்போது நடைபெற்றுவரும் க.பொ.த. சாதாரண தரப் பரீட்சையில் பாடத்திட்டத்தில் இருந்து நீக்கப்பட்ட பிரிவுகளில் இருந்து விஞ்ஞான பாடத்துக்கு  12 புள்ளிகளைக் கொண்ட வினாக்கள் தயாரிக்கப்பட்டுள்ளன. கற்பிக்காத பாடப்பரப்பில் இருந்து கேள்வி கேட்கும் போது பரீட்சாத்திகள் எவ்வாறு பதிலளிப்பார்கள்  என ஐக்கிய மக்கள் சக்தி எம்.பி.யான ரோஹிணி கவிரத்ன கல்வி அமைச்சரிடம் கேள்வி எழுப்பினார்.
+The military teaches English, and the GCE Ordinary Level Examination has been adjusted to include 12 points from the science curriculum, despite some sections being removed. MP Rohini Gavaratne questioned the Education Minister about the exam's handling of these changes. The 2023 Education Communication Examination is ongoing, affected by the Corona pandemic. The exam includes questions from removed curriculum sections, leading to confusion, especially in the science course. The English lesson questions have been prepared outside the usual framework, with 5000 English teachers trained in the Central Province. The Ministry of Education must address these issues to avoid affecting most students.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13)  விசேட கூற்றை முன்வைத்தே இவ்வாறு கேள்வி எழுப்பிய அவர் மேலும் கூறுகையில்,
+🟩
 
-2023 ஆம் ஆண்டுக்கான கல்வி பொதுத்தராதர சாதாரன தர பரீட்சை தற்போது  இடம்பெறுகிறது. கொரோனா தொற்று காரணமாக பாடசாலை கல்வி நடவடிக்கைகள் பாதிக்கப்பட்டிருந்தன .பாடத்திட்டங்களை உரிய காலத்தில் நிறைவு செய்யாத காரணத்தால் ஒருசில பாடப்  பிரிவுகள் பாடத்திட்டத்தில் இருந்து நீக்கப்பட்டிருந்தன.
+The current GCE Advanced. The GCE Ordinary Level Examination has been prepared by 12 points for science course from the curriculum deleted. United People's Power MP Rohini Gavaratne questioned the Minister of Education on how the exams would respond when questioned from the unacceptable curriculum.
+
+He questioned the special claim in Parliament on Monday (13).
+
+Currently, the Education Communication Examination for 2023 is currently being held. School educational activities were affected due to Corona infection.
+
+Questions have been prepared from a few categories that have been removed from the curriculum. This is the answer to a few questions, there are many answers to a question, no answer to a few questions, such problems are in the science course questionnaire.
+
+The eliminated sections are included in the questionnaire. These are 12 points. When asked questions from the non -computing course, how the examiners respond. The Ministry of Education should pay special attention to this.
 
 ...
 
 [Data](articles/f4274399.json)
+
+[Extended Data](ext_articles/f4274399.ext.json)
 
 ---
 

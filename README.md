@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 12:18:22**
+As of **2024-05-13 12:33:55**
 
 ## Newspaper Stats
 
-*Scraped **23,660** Articles*
+*Scraped **23,661** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 213
-bbccomsinhala | 243
+bbccomsinhala | 244
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,285
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,654 (100.0%) of 23,660 articles have been extended.
+23,660 (100.0%) of 23,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,51 +50,67 @@ MP Kiriella was referring to a letter sent by Rajapaksa to President Wickremesin
 
 [Data](articles/294d5207.json)
 
+[Extended Data](ext_articles/294d5207.ext.json)
+
 ---
 
-### විරෝධතාකරුවන් පිරිසකට අධිකරණ නියෝගයක්
+### Court orders a group of protesters
 
 *2024-05-13 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196571) · `si`
 
-අද (13) දින පැවැත්වීමට නියමිත විරෝධතා පා ගමනක් සහ උද්ඝෝෂණයක් තහනම් කරමින් අධිරකරණය විසින් ආඥාවක් නිකුත් කර තිබේ.
+The court has ordered a ban on a protest march organized by students and non-academic staff from Sri Jayewardenepura University and Nawala Open University. The Mirihana Police Inspector will ensure the protest's safety, despite the court's order. The court's decision, affecting individuals including student union leaders and trade union representatives, has been criticized for not considering the facts.
 
-ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය සහ නාවල විවෘත විශ්වවිද්‍යාලයේ සිසු සිසුවියන් හා අනධ්‍යයන කාර්ය මණ්ඩලය ඒකාබද්ධව අදාළ විරෝධතා පා ගමන සංවිධානය කර තිබේ.
+🟩
 
-අදාළ විරෝධතාවයේ දී උද්ඝෝෂකයින් විසින් ශබ්ද විකාශන යන්ත්‍ර භාවිත කරමින් හා වීථී නාට්‍ය රඟදක්වමින් විරෝධතාවය පැවැත්වීමට නියමිත බවට මිරිහාන මුලස්ථාන පොලිස් පරීක්ෂකවරයාට ලද තොරතුරක් මත ඔහු විසින් කළ ඉල්ලීමක් අනුව නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය විසින් අදාළ නියෝගය ලබා දී තිබේ.
+Appointory has issued a command to ban a protest march and protest today (13).
 
-ඒ අනුව පහත සඳහන් වගඋත්තරකරුවන් ඇතුළු තැනැත්තන්ට මෙම නියෝගය අධිකරණය විසින් නිකුත් කළ බව පොලීසිය දැනුම්දෙයි.
+The students and non-academic staff of the Sri Jayewardenepura University and Nawala Open University have organized the joint venture.
 
-1. ඉසුර ඉඳුවර, මහා ශිෂ්‍ය සංගමයේ සභාපති, ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය
+According to the Mirihana Police Inspector, the protest will be protected by the Mirihana Police Inspector, according to a request to the Mirihana Police Inspector, the Court of Nugegoda has issued the order on a request to the Mirihana Headquarters.
 
-2. හර්ෂ නිපුන්, මහා ශිෂ්‍ය සංගමයේ ලේකම්, ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය
+Accordingly, the court has issued this order to persons including the following respondents.
 
-3. උදාර රණසිංහ, මහා ශිෂ්‍ය සංගමයේ සභාපති, නාවල විවෘත විශ්වවිද්‍යාලය
+1. Isur East, Students Union President, University of Sri Jayewardenepura
 
-5. ධම්මික එස්. ප්‍රියන්ත, මංගල දාබරේරා, සම සභාපති විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව
+2. Hersha Niphuwan, Students Association Secretary, University of Sri Jayewardenepura
+
+3. Udara Ranasinghe, President of the Students Union, Nawala
+
+5. Dhammika S. Priyantha, Mangala Dabarara, Samaja Chairman University Trade Union Joint Committee
+
+6. Dayaratne, Co-Chairman, Management System Joint Committee, University of Sri Jayewardenepura
 
 ...
 
 [Data](articles/44316fe2.json)
 
+[Extended Data](ext_articles/44316fe2.ext.json)
+
 ---
 
-### பார்த்தவர் பதவி நீக்கம்
+### Dismissal
 
 *2024-05-13 11:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பார்த்தவர்-பதவி-நீக்கம்/50-337229) · `ta`
 
-டென்னஸ்சி மாகாணத்தில் நாஷ்வில்லே நகரில் வாகன சோதனை நடவ​டிக்கை மேற்கொண்ட பொலிஸ் அதிகாரியொருவர் பதலி நீக்கம் செய்யப்பட்டுள்ளார்.
+A police officer in Nashville, Tennessee, was fired after a video surfaced showing him improperly handling a woman's documents during a vehicle inspection. The officer, who asked for the woman's license and registration, was caught on camera making inappropriate comments, leading to immediate disciplinary action.
 
-அமெரிக்காவின் டென்னஸ்சி மாகாணத்தில் நாஷ்வில்லே நகரில் பெண்ணொருவர் 45 கி.மீ. வேகத்தில் காரொன்றை செலுத்தி வந்துள்ளார். இவரிடம் வாகன உரிமம், வாகன பதிவு உள்ளிட்டவற்றுக்கான ஆவணங்களை காண்பியுங்கள் என பொலிஸ் அதிகாரியொருவர் கேட்டுள்ளார்.
+🟩
 
-அதற்கு அந்த பெண், சரியான ஆவணங்கள் எதுவும் இல்லை என கூறி விட்டு, தனது மார்பகங்களை காண்பித்துள்ளார்.
+A police officer who carried out a vehicle inspection in Nashville, Tennessee province has been sacked.
 
-அந்த அதிகாரியும் மார்பகங்களை பார்த்தவாறு, எச்சரிக்கையுடன் உங்களை செல்ல அனுமதிக்கிறேன் என தெரிவித்துள்ளார்.
+45 km of woman in Nashville city in Tennessee State of the United States. Has come to pay a car at speed. A police officer has asked him to show him the documents for the vehicle license and the vehicle registration.
 
-இந்த காணொளி சமூக வளைத்தளங்களில் பரவியதையடுத்து குறித்த அதிகாரி உடனடியாக விசாரணைக்குட்படுத்தப்பட்டு பணியிலிருந்து நீக்கப்பட்டுள்ளார்.
+The woman left her breasts, saying that there were no proper documents.
+
+The officer also said, "I will allow you to go with caution as they look at the breasts."
+
+The officer has been immediately investigated and fired after the video spread on social networks.
 
 ◼️
 
 [Data](articles/74b87ad0.json)
+
+[Extended Data](ext_articles/74b87ad0.ext.json)
 
 ---
 
@@ -162,21 +178,29 @@ Subsequently, the child was immediately rushed to the Nochchiyagama Hospital via
 
 ---
 
-### '10 கோடி ரூபாய் அம்பர் மீட்பு '
+### '10 crores of rupees amber rescue'
 
 *2024-05-13 11:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-அம்பர்-மீட்பு/175-337227) · `ta`
 
-கற்பிட்டி, கண்டல்களி பகுதியில் ,வீடொன்றில் புதைத்து வைத்திருந்த நிலையில் சுமார் 10 கோடி ரூபாய் பெறுமதியான அம்பர் ( திமிங்கலத்தின் வாந்தி) பறிமுதல் செய்யப்பட்டு , சந்தேகத்தின் பெயரில் ஐவர் கைது செய்யப்பட்டுள்ள சம்பவம் ஞாயிற்றுக்கிழமை (12) இடம்பெற்றுள்ளது .
+On Sunday, five people were arrested in Kalpitiya for allegedly hiding and planning to sell Amber, a whale vomit worth about Rs 10 crore, found floating in the sea. The Criminal Investigation Division acted on confidential information. The suspects, including four who retrieved the Amber and the house owner, are in police custody for further legal proceedings.
 
-வன்னாத்தவில்லு பொலிஸ் விஷேட பிரிவினருக்கு கிடைத்த இரகசிய தகவல் ஒன்றின் அடிப்படையில்  குற்ற விசாரணை பிரிவு அதிகாரிகளால் குறித்த  சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-பறிமுதல்  செய்யப்பட்ட அம்பர், கடலில் மிதந்து கொண்டிருந்த நிலையில் கண்டல்குழி மீனவர்களால் அதனை மீட்டு , படகு ஒன்றில் கொண்டுவரப்பட்டு, அதை  விற்பனை செய்யும் நோக்கில் மிகவும் பாதுகாப்பான முறையில் இரகசியமாக காணிக்குள் புதைத்து வைத்திருந்ததாக தெரியவந்துள்ளது .
+The incident took place on Sunday (12) that five persons were arrested on suspicion of confiscation of Amber (whale's vomiting) worth about Rs 10 crore as he was buried in a house in Kalpitiya, Kandallai area.
 
-இதன்போது, குறித்த அம்பரை கடலில் இருந்து கொண்டு வந்ததாக சந்தேகிக்கப்படும் நால்வருடன், அதனை வளவுக்குள் மறைத்து வைத்திருந்த அந்த வீட்டின் உரிமையாரும் ஆகிய ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+The Criminal Investigation Division (CID) officials have taken action on the basis of confidential information received by the Wannathilu Police Special Division.
 
-...
+It has been revealed that the confiscated Amber, which was floating in the sea, was rescued by the fishermen and brought it into a boat and buried in the land in a secret to sell it.
+
+Meanwhile, five persons have been arrested, along with four suspects suspected of bringing the Ambara out of sea, and the owner of the house, which was hiding it.
+
+The suspects have been handed over to the Kalpitiya Police for further legal action and Amber, which was seized, is to be presented to court.
+
+◼️
 
 [Data](articles/b6db3ff0.json)
+
+[Extended Data](ext_articles/b6db3ff0.ext.json)
 
 ---
 
@@ -219,6 +243,8 @@ In December, more than 20 people were killed after Marapi erupted. A series of e
 ...
 
 [Data](articles/f005731a.json)
+
+[Extended Data](ext_articles/f005731a.ext.json)
 
 ---
 
@@ -351,6 +377,8 @@ He said this when Parliamentarian Lalith Ellawala raised a question regarding th
 ...
 
 [Data](articles/c36d65b7.json)
+
+[Extended Data](ext_articles/c36d65b7.ext.json)
 
 ---
 
@@ -1336,6 +1364,30 @@ The annual tax revenue has been deprived of about Rs. 35 billion annually.
 
 ---
 
+### ඇස්ට්‍රාසෙනෙකා අතුරු ආබාධ: ශ්‍රී ලංකාවේ එන්නත ගත් අයට සිදුවන්නේ කුමක් ද?
+
+*2024-05-13 06:32:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyvyw5lv7o) · `si`
+
+ඇස්ට්‍රාසෙනෙකා අතුරු ආබාධ: ශ්‍රී ලංකාවේ එන්නත ගත් අයට සිදුවන්නේ කුමක් ද?
+
+කොරෝනාවෛරස් වසංගතය සම්බන්ධයෙන් ලෝකයේ පැවති බිය පහවී ගියේ, කොවිඩ් එන්නත් හරහා වසංගතය යම් ආකාරයක පාලනයකට නතු වූ හෙයිනි.
+
+එහෙත්, වසර කිහිපයකට පසු කොවිඩ් එන්නත්වලින් ඇති වන අතුරු ආබාධ සම්බන්ධයෙන් මේ වන විට බියක් මතු වී තිබේ.
+
+මෙම බිය නිර්මාණය වූයේ, සිය කොවිඩ් එන්නත මගින් "රුධිරය කැටී ගැසීමට බලපෑ හැකි ඉතා දුර්ලභ අතුරු ආබාධ (TTS) ඇති විය හැකි" බවට ඇස්ට්‍රාසෙනෙකා එන්නත නිෂ්පාදනය කළ සමාගම, බ්‍රිතාන්‍ය මහාධිකරණය ඉදිරියේ පිළිගැනීමත් සමග ය.
+
+ඉන්පසුව, බිලියන තුනකට අධික මාත්‍රා ගණනක් ලබා දීමෙන් පසුව "වාණිජමය හේතු මත යාවත්කාලීන කරන ලද නව එන්නතක් හදුන්වා දීමේ අරමුණින් ඇස්ට්‍රාසෙනෙකා එන්නත භාවිතයෙන් ඉවත් කිරීමට තීරණය කර ඇතැයි එම සමාගම නිවේදනය කළේ ය.
+
+එම සමාගම විසින් මෙම තීරණය ගනු ලැබුවේ, රුධිරය කැටි ගැසීම් ඇතුළු අතුරු ආබාධ ඇති වූ බවට සමාගමට එරෙහිව නඩු කිහිපයක් පැවරීමෙන් අනතුරුව ය.
+
+කොවිඩ් එන්නත් අතුරු ආබාධ වන්දි සටනේ වින්දිතයින් තවත් පියවරක් ඉදිරියටකොවිඩ් එන්නත භාවිතයෙන් ඉවත් කිරීමට ඇස්ට්‍රාසෙනෙකා සමාගම සැරසේ
+
+...
+
+[Data](articles/db85d154.json)
+
+---
+
 ### An atmosphere of the lower atmosphere near Sri Lanka
 
 *2024-05-13 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196555) · `si`
@@ -2227,23 +2279,5 @@ Strategically situated in a convenient Colombo neighbourhood, the Gower Street l
 [Data](articles/8a14f00c.json)
 
 [Extended Data](ext_articles/8a14f00c.ext.json)
-
----
-
-### Building capacities for Sri Lankan start-ups in renewable energy domain
-
-*2024-05-12 22:26:36* · [`dailyftlk`](https://www.ft.lk/business/Building-capacities-for-Sri-Lankan-start-ups-in-renewable-energy-domain/34-761677) · `en`
-
-Invest India and the International Solar Alliance in partnership with the High Commission of India in Colombo on 8 May, organised a one-day workshop, bringing together Sri Lanka’s solar start-up ecosystem.
-
-The event aimed to introduce participants to the SolarX Start-up Challenge: APAC Edition and its benefits. The workshop included detailed sessions outlining the features and advantages of participating in the SolarX Start-up Challenge.
-
-India’s Deputy High Commissioner Dr. Satyanjal Pandey delivered the keynote address, highlighting the growth potential of the renewable energy sector in India and opportunities for collaboration. He also spoke about upcoming initiatives designed to support Sri Lanka’s startup ecosystem in this field. Participants included representatives from Sri Lanka’s leading incubators and universities.
-
-...
-
-[Data](articles/84881485.json)
-
-[Extended Data](ext_articles/84881485.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 19:51:39**
+As of **2024-05-13 20:03:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,746 (100.0%) of 23,753 articles have been extended.
+23,753 (100.0%) of 23,753 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The event is organized in collaboration with the Ministry of Foreign Affairs. (C
 
 [Data](articles/94182c22.json)
 
+[Extended Data](ext_articles/94182c22.ext.json)
+
 ---
 
-### இன்று பூமிக்கு அருகில் வரும் விண்கற்கள்
+### Meteorites that come near the earth today
 
 *2024-05-13 19:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பூமிக்கு-அருகில்-வரும்-விண்கற்கள்/175-337250) · `ta`
 
-இரண்டு பெரிய சிறுகோள்கள் இன்று பூமியை நோக்கி வேகமாக வருவதாக நாசா தெரிவித்துள்ளது.
+NASA reports two large asteroids, 2024 JB2 and 2020 JP10, approaching Earth today. JB2, 60-130 meters wide, is 44.3 lakh km away, moving at 63,000 km/h. Another asteroid, 52-120 meters wide, is about 72 lakh km away, traveling at 90,000 km/h.
 
-2024 JB2 மற்றும் 2020 JP10 என நியமிக்கப்பட்ட இந்த சிறுகோள்கள் முறையே 60-130 மீட்டர் மற்றும் 52-120 மீட்டர் அகலம் கொண்டவை.
+🟩
 
-2024 JB2 பூமியிலிருந்து 44.3 லட்சம் கிமீ தொலைவில் இருக்கும் மற்றும் மணிக்கு 63,000 கிமீ வேகத்தில் பயணிக்கிறது.
+NASA has announced that two large asteroids are coming to Earth today.
 
-மற்றொரு விண்வெளிப் பாறை, பூமியில் இருந்து தோராயமாக 72 லட்சம் கிமீ தொலைவில் இருக்கும், அதே நேரத்தில் இன்னும் அதிக வேகத்தில் மணிக்கு 90,000 கி.மீ வேகத்தில் பயணிக்கும்.   R
+Designated as 2024 JB2 and 2020 JP10, these asteroids are 60-130 meters and 52-120 meters wide respectively.
+
+2024 JB2 is 44.3 lakh km from Earth and travels at speeds of 63,000 km / h.
+
+Another space rock is approximately 72 lakh km from Earth, while traveling at a high speed of 90,000 km / h.R
 
 ◼️
 
 [Data](articles/37415ab7.json)
+
+[Extended Data](ext_articles/37415ab7.ext.json)
 
 ---
 
@@ -116,23 +124,31 @@ Meanwhile, the Police Spokesman also stated that they were fined Rs. 427,500.
 
 ---
 
-### දිසා විනිසුරු නිල නිවසේ රාජකාරීය අතරතුරදී  සූර් පිට සිටි පී සී අත්අඩංගුවට
+### PC arrested for Sudu
 
 *2024-05-13 18:38:31* · [`adalk`](https://www.ada.lk/breaking_news/දිසා-විනිසුරු-නිල-නිවසේ-රාජකාරීය-අතරතුරදී--සූර්-පිට-සිටි-පී-සී-අත්අඩංගුවට/11-409607) · `si`
 
-අවිස්සාවේල්ල දිසා විනිසුරු නිල රාජකාරී යොදවා සිටි පොලිස් කොස්තාපල්වරයෙකු   මත්පැන් පානය කර මාර්ගයේ රැඳී  සිටියදී අත්අඩංගුවට ගත් බව අවිස්සාවේල්ල පොලිසිය කියයි.
+A police constable in Avissawella was arrested for misconduct, revealed during a mobile visit. The constable, previously from Dedigama Police Station, was transferred and tested for alcohol. Investigations are ongoing.
 
-සැකකාර කොස්තාපල්වරයා  ඉකුත් 12 වෙනිදින  පැය 0600 සිට පැය 1800 දක්වා දිසාව විනිසුරු නිළ   නිවසේ රාජකාරී යොදවා සිටියදී  ට එම ස්ථානයෙන් බැහැරව  ශාන්ත මරියා විද්‍යාලය අසල මාර්ගයේ රැඳී ඉතා අපහසුවෙන් සිටින අයුරු   ජංගම සංචාරයේ නිලධාරින් විසින් දැක තිබූ බව පොලිසිය කියයි.
+🟩
 
-එම නිලධාරීන් විසින් කොස්තාපල්වරයා අසලට පැමිණ පරික්ෂා කිරීමේදී කටින් මත්පැන් ගඳ වාහනය වීම හේතුවෙන්  අධිකරණ වෛද්‍ය පෝරමයක් යටතේ අවිස්සාවේල්ල මූලික රෝහලේ  අධිකරණ වෛද්‍යවරයා වෙත ද ඉදිරිපත් කිරීමෙන් අනතුරුව  බීමත්ව ඇති බවට වෛද්‍ය වාර්තාවක් ලබාදී ඇති බව පොලිස් නිලධාරියකු පැවසීය.
+Avissawella police say that a police constable employed by the Avissawella District Judge has been arrested and arrested while staying on the road.
 
-මෙම කොස්තාපල්වරයා මීට දින කීපයකට ඉහතදී කෑගල්ල පොලිස් කොට්ඨාසයේ දැඩිගම පොලිස් ස්ථානයේ සිට ස්ථාන මාරුවක් ලැබ අවිස්සාවේල්ල පොලිසියට අනුයුක්ත  කර තිබූ නිලධාරියකු බව පොලිසිය කියයි .
+The suspected constable was revealed by the officials of the mobile visit, where the district was deployed in the office until the 12th hours of the Judge of the Judge.
 
-සැකකාර කොස්තාපල්වරයාගේ රාජකාරී වැඩද තහනම් කිරීමට නියමිත බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+A medical report has been submitted to the Judicial Doctor at Avissawella under the forest medical form due to the pretext of alcohol to the constable to come to the constable and checked.
 
-...
+The constable has been transferred from the Dedigama Police Station, Kegalle to a few days ago.
+
+According to police sources, the duties of the suspect constable will also be banned.
+
+Investigations are conducted by the Chief Inspector Prasanna Jayalath of Avissawella headquarters.
+
+◼️
 
 [Data](articles/f2901c2f.json)
+
+[Extended Data](ext_articles/f2901c2f.ext.json)
 
 ---
 
@@ -180,6 +196,8 @@ All 30 billion rupees offered of 01 October 2032 bonds were sold at 9.00 percent
 
 [Data](articles/4a350ce2.json)
 
+[Extended Data](ext_articles/4a350ce2.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes flat at 299.00/30 to US dollar
@@ -201,6 +219,8 @@ A bond maturing on 01.10.2032 closed down at 11.90/12.10 percent from 12.10/20 p
 ◼️
 
 [Data](articles/8bb09b35.json)
+
+[Extended Data](ext_articles/8bb09b35.ext.json)
 
 ---
 
@@ -686,6 +706,8 @@ Among the conglomerates, Aitken Spence Plc closed up at 134.25. John Keells Hold
 
 [Data](articles/4ab6e47b.json)
 
+[Extended Data](ext_articles/4ab6e47b.ext.json)
+
 ---
 
 ### Supreme Court orders over the Electricity Act
@@ -725,6 +747,8 @@ Thondaman, who has been critical on RPCs over their resistance in paying the lat
 ...
 
 [Data](articles/2cacffcb.json)
+
+[Extended Data](ext_articles/2cacffcb.ext.json)
 
 ---
 

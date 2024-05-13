@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 21:53:29**
+As of **2024-05-13 22:06:41**
 
 ## Newspaper Stats
 
-*Scraped **23,776** Articles*
+*Scraped **23,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 1,374
 adalk | 2,029
 adaderanalk | 2,774
 tamilmirrorlk | 2,784
-virakesarilk | 3,545
-dailymirrorlk | 3,741
+virakesarilk | 3,548
+dailymirrorlk | 3,742
 adaderanasinhalalk | 3,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,771 (100.0%) of 23,776 articles have been extended.
+23,776 (100.0%) of 23,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### அரச வர்த்தமானி அறிவிப்புக்கு அமைய கம்பனிகள் செயற்பட வேண்டியது அவசியம்! - அமைச்சர் ஜீவன் தொண்டமான்
+
+*2024-05-13 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183450) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு குறித்து அரசாங்கம் விடுத்துள்ள வர்த்தமானி அறிவித்தலுக்கு அமைய பெருந்தோட்ட கம்பனிகள் செயற்பட வேண்டியது அவசியமென வலியுறுத்திய நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான், அதற்கு எதிராக கம்பெனிகள்  மேற்கொள்ளும் நீதிமன்ற நடவடிக்கைளுக்கு முகம்கொடுக்கத் தயாரெனவும் தெரிவித்தார்.
+
+கூட்டு ஒப்பந்தம் இருந்த காலத்தில் 2 வருடங்களுக்கு ஒரு முறை சம்பளம் அதிகரிப்பு செய்யப்பட்ட நிலையில் கடந்த நான்கு வருடங்களாக தொழிலாளர்களுக்கு சம்பள அதிகரிப்பு வழங்கப்படவில்லை எனத் தெரிவித்த அமைச்சர் ஜீவன் தொண்டமான், டொலரின் பெறுமதி  வீழ்ச்சியை சாதகமாக கொண்டு பெருந்தோட்டத் தொழிலாளர்களின் சம்பளத்தை அதிகரிக்க கம்பனிகள் முன்வர வேண்டுமெனவும் வலியுறுத்தினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (13) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு மேலும் கருத்து தெரிவித்த  அமைச்சர் ஜீவன் தொண்டமான் மேலும் குறிப்பிட்டதாவது:
+
+...
+
+[Data](articles/2baaf3d9.json)
+
+---
+
+### Court fines 15 motorcyclists for dangerous riding on money bets in Bambalapitiya
+
+*2024-05-13 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-fines-15-motorcyclists-for-dangerous-riding-on-money-bets-in-Bambalapitiya/108-282511) · `en`
+
+Colombo, May 13 (Daily Mirror) - Fifteen motorcyclists involved in dangerous riding for money bets on the Galle Road in Bambalapitiya, Colombo were fined Rs. 427,500 and had their driving licenses suspended for six months by the Colombo Traffic Court today.
+
+The Bambalapitiya Police arrested these motorcyclists early morning on May 5 and released them on police bail after processing at the police station. The suspects, aged between 20 and 28, are residents of Colombo and its surrounding areas.
+
+Following their arrest, the motorcycles were inspected for any defects by a vehicle inspector.
+
+Subsequently, the suspects were produced before the Colombo Traffic Court, where they were fined.
+
+"This isn't the first time these riders have faced legal action. They have been arrested previously and fined for dangerous riding, with the court consistently ordering them to pay fines," a senior police officer said.
+
+◼️
+
+[Data](articles/42519ba5.json)
+
+---
 
 ### President wishes Sri Lankan Cricket Team success
 
@@ -46,55 +82,93 @@ Also, the victorious Sri Lankan Rugby Team, winners of the Asian Rugby Champions
 
 [Data](articles/020fa315.json)
 
+[Extended Data](ext_articles/020fa315.ext.json)
+
 ---
 
-### மோசமான மோட்டார் சைக்கிள் ஓட்டுநர்களுக்கு கிடைத்த தண்டனை
+### Propagation for bad motorcycle drivers
 
 *2024-05-13 21:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமான-மோட்டார்-சைக்கிள்-ஓட்டுநர்களுக்கு-கிடைத்த-தண்டனை/175-337251) · `ta`
 
-வீதியில் சட்டவிரோதமாக மோட்டார் சைக்கிள் பந்தயத்தில் ஈடுபட்ட குழுவினருக்கு நீதிமன்றம் 427,500 ரூபாய் அபராதம் விதித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Court fines Rs 427,500 for illegal motorcycle racing, suspends 15 drivers' licenses for six months. Accused of reckless driving in Bambalapitiya, Galle Road, Duplication Road.
 
-மேலும், குறித்த 15 மோட்டார் சைக்கிள் ஓட்டுநர்களின் சாரதி அனுமதிப்பத்திரங்களை 6 மாதங்களுக்கு இடைநிறுத்தவும் நீதிமன்றம் உத்தரவிட்டுள்ளதாக பொலிஸ் ஊடகப்பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ  தெரிவித்தார்.
+🟩
 
-பம்பலப்பிட்டி, காலி வீதி,  டூப்ளிகேஷன் வீதி பகுதிகளில் மிகவும் மோசமான முறையில் மோட்டார் சைக்கிள்களை ஓட்டிச் சென்றதாக குறித்த மோட்டார் சைக்கிள்கள் ஓட்டுனர்கள் மீது குற்றம் சுமத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Police said the court had fined Rs 427,500 for the illegal motorcycle racing on the road.
+
+In addition, the court has ordered the suspension of driver's licenses of the 15 motorcycle drivers for six months, said police media spokesman Senior Superintendent of Police Nihal Talduwa.
+
+It is noteworthy that motorcycles have been accused of driving motorcycles in Bambalapitiya, Galle Road and Duplication Road.
 
 ◼️
 
 [Data](articles/38a10460.json)
 
+[Extended Data](ext_articles/38a10460.ext.json)
+
 ---
 
-### වනිඳු ලංකාවෙන් යන්න කලින් මාධ්‍යයට කී කතාව
+### The story to the media before going from Faningu
 
 *2024-05-13 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196592) · `si`
 
-ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුවෙන් තමා විසින් ඉල්ලූ කණ්ඩායම ලැබුණු බව ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංග පවසයි.
+Mondu Amunda, Sri Lanka's 20-team leader, has been selected by the Sri Lanka Cricket Selection Committee for the World Cup. He expresses gratitude for the opportunity and highlights the team's success in the last three tournaments, hoping for continued success this year.
 
-"නායකයා විදියට ක්‍රිකට් තේරීම් කමිටුවෙන් ඉල්ලපු කණ්ඩායම මට ඒ විදිහට ලැබුණා. ඇත්තටම ඒ අයටත් ස්තූතිවන්ත වෙන්න ඕනේ මට ඒ කණ්ඩායම ලබාදුන්න එකට. නායකයා නිදිහට මම මේ කණ්ඩායමත් එක්ක ගොඩක් සතුටින් මේ ලෝක කුසලාන යන්න ලෑස්ති. දවස් 10 කලින් අපි අමෙරිකාවට ගිහිල්ලා ඒ තණතීරුවලට හැට ගැහෙන්න තමයි අපි ඒ දවස් 10ය කලින් යන්න තීරණය කළේ ඉතින් අපි ඒ ගිහිල්ලා බලනවා තණතීරු USA ලීග් එකක් පැවැත්වුණා. ගිය වසරේ තරගවල ලකුණුත් අරගෙන අපි බලලා තණතීරු මොනවගේද කියලා. නායකයෙක් විදිහට මේ කණ්ඩායම ගැන ලොකු බලාපොරොත්තු තියාගෙන ඉන්නවා. මොකද අපේ ක්‍රීඩකයින් හොඳින් දක්කම් දක්වලා තියෙනවා පසුගිය තරගාවලි තුනේදී. මේ වසරෙදී අපිට ලොකු බලාපොරොත්තුවක් තියෙනවා අපිට මේ දේ කරන්න පුළුවන් කියලා."
+🟩
+
+Sri Lanka's 20 team leader Mondu Amunda has been received by the Sri Lanka Cricket Selection Committee for the World Cup.
+
+"The team for the SLC selection committee was given that way as leader. I must thank those who really want to give me the team together. I enjoy this team with this team with this team to the leader. 10 days ago we decided to go before the 10 days, so we decided to go before the same 10 days, so we were going on a pitch USA League. We will watch the markets last year and take the pitchers. He holds a great hope for this group as a leader. Because our players are well-achieved in the last three tournaments. This year we have a great hope that we can do this. "
 
 ◼️
 
 [Data](articles/6d8b58a0.json)
 
+[Extended Data](ext_articles/6d8b58a0.ext.json)
+
 ---
 
-### රුසියා-යුක්‍රේන කුලී හමුදාවන්ට එක්වූ ශ්‍රී ලාංකිකයින් ගැන රජය ගත් තීරණය
+### ஜனாதிபதியை சந்தித்து பாராட்டினார் டொனால்ட் லு
+
+*2024-05-13 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183449) · `ta`
+
+அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரப் பணியகத்தின் உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு ஜனாதிபதி ரணில் விக்கரமசிங்கவை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இலங்கையின் பொருளாதாரத்தை மீட்டெடுப்பது தொடர்பாக திங்கட்கிழமை (13) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரப் பணியகத்தின் உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு, (Donald Lu)கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/9f749a27.json)
+
+---
+
+### Government decision on Sri Lankans joined Russia-Ukrainian mercenaries
 
 *2024-05-13 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196591) · `si`
 
-ජාවාරම්කරුවන්ට හසුවීමෙන් පසුව රුසියානු - යුක්‍රේන කුලී හමුදාවන්ට එක්ව දුෂ්කරතා විඳින ශ්‍රී ලාංකිකයින් ඉන් මුදාගැනීමට රාජ්‍ය තාන්ත්‍රික මට්ටමින් අවශ්‍ය පියවර ගනිමින් සිටින බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Sri Lanka's Defense Minister, Pipain Bandara Tennakoon, addressed the issue of Sri Lankans joining Russian-Ukrainian mercenaries, stating that some have resorted to such actions due to hardship. The State Minister also mentioned a parliamentary interrogation response from the opposition. Reports indicate that some Sri Lankans, including military personnel, have been involved with Russian forces before the Ukraine war. A case highlighted a Sri Lankan who left for a Russian company, then joined the mercenaries after obtaining Russian citizenship. Another Sri Lankan was hospitalized while serving in the Russian military.
 
-රාජ්‍ය අමාත්‍යවරයා ඒ බව කියා සිටියේ අද පාර්ලිමේන්තුවේදී විපක්ෂය මේ පිළිබඳ කළ ප්‍රශ්න කිරීම් හමුවේ පිළිතුරු ලබාදෙමිනි.
+🟩
 
-මේ අතර එලෙස රුසියානු කුලී හමුදාවල දැඩි ජීවිත අවදානම මැද සිටින තවත් ශ්‍රී ලාංකිකයන් පිරිසක් පිළිබඳ තොරතුරු අද දෙරණට වාර්තා වය.
+Defense Minister Pipain Bandara Tennakoon says that Sri Lankans who have suffered joining the racketeers to resort to Russian - Ukrainian merchants.
 
-මෙරට හමුදා සේවයේ හිටපු සාමාජිකයන් පමණක් නොව රුසියානු යුක්‍රේන යුද්ධය ආරම්භ වීමට ප්‍රථම රුසියාවේ රැකියා සඳහා ගොස් සිටි ශ්‍රී ලාංකිකයින්ද එරට කුලී හමුදා සාමාජිකයින් ලෙස සේවයට බැඳී ඇතැයි මේ වනවිට තොරතුරු වාර්තාවෙයි.
+The State Minister said that the opposition responded to the interrogation in parliament today.
 
-වලස්මුල්ල උඩදෙණිය ප්‍රදේශයේ පදිංචි 22හැවිරිදි ලක්ෂිත නුවන් සූරියබණ්ඩාර නමැති පුදග්ලයා මීට වසර දෙකකට ඉහතදී එලෙස රුසියාවේ පෞද්ගලික ආයතනයක රැකියාවක් සඳහා රුසියාව බලා පිටත්ව ගොස් පසුව කුලී හමුදා සේවයට එක්වූ අයෙකි.
+Meanwhile, information about other Sri Lankans in the Russian rented forces is recorded in Derana.
 
-...
+It is also reported that Sri Lankans in the Sri Lankan military personnel not only joined the job in Russia before the start of the Russian Ukraine's war.
+
+The 22, a resident of the Udadeniya Udaadeniya, Udadeniya, was left to Russia for a private company in Russia and later joined the mercenaries.
+
+Two months ago, he left his workplace and joined the Russian military service according to a positive positive in Russian citizenship.
+
+It is another Sri Lankan hospitalized while serving in the Russian Reeling Army, while serving in the Russian Reel.
+
+◼️
 
 [Data](articles/bc4709bc.json)
+
+[Extended Data](ext_articles/bc4709bc.ext.json)
 
 ---
 
@@ -113,6 +187,8 @@ The President was accompanied by the Senior Advisor on the National security and
 ◼️
 
 [Data](articles/6dccae30.json)
+
+[Extended Data](ext_articles/6dccae30.ext.json)
 
 ---
 
@@ -863,6 +939,24 @@ The death of this whale is expected to identify the post-demonstratory trial and
 [Data](articles/b9542e78.json)
 
 [Extended Data](ext_articles/b9542e78.ext.json)
+
+---
+
+### டயனா கமகேவுக்கு கடவுச்சீட்டு விநியோகித்தமை தொடர்பில் விசாரணை நடத்தப்பட வேண்டும் - முஜிபுர் ரஹ்மான்
+
+*2024-05-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183425) · `ta`
+
+டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை ஜனாதிபதியும் அரசாங்கமும் அறிந்திருந்தும் ஐக்கிய மக்கள் சக்திக்கு எதிராக செயற்படுத்த அவரை தவறாக பயன்படுத்தி வந்துள்ளது.
+
+அத்துடன் எமது நாட்டு பிரஜை அல்லாத டயனாவுக்கு குடிவரவு குடியகல்வு முன்னாள் கட்டுப்பாட்டு அதிகாரி  கடவுச்சீட்டு விநியோகிக்க மறுத்துள்ளபோதும் தற்போதுள்ள கட்டுப்பாட்டு அதிகாரி எவ்வாறு கடவுச்சீட்டு விநியோகித்தது என்பது தொடர்பில் விசாரணை மேற்கொள்ள வேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை(13) இடம்பெற்ற ஏற்றுமதி இறக்குமதி தொடர்பான கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+உள்ளூராட்சி மன்ற தேர்தலில் போட்டியிடுவதற்காகவேண்டி கடந்த ஒன்றரை வருடங்களுக்கு முன்னர் பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்துவிட்டு சென்றேன். ஆனால் அரசாங்கம் பணம் இல்லை என தெரிவித்து தேர்தலை நடத்தாமல் விட்டு விட்டது.
+
+...
+
+[Data](articles/149309e1.json)
 
 ---
 
@@ -2193,93 +2287,5 @@ While the chauvinist Sri Lankan government is carrying out the genocide in 2009,
 [Data](articles/11ed1629.json)
 
 [Extended Data](ext_articles/11ed1629.ext.json)
-
----
-
-### Heath increases the rain
-
-*2024-05-13 13:09:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-වැස්ස-වැඩිවෙයි/11-409592) · `si`
-
-Due to a lower atmosphere development, Sri Lanka expects widespread showers tomorrow, with heavy rains in Sabaragamuwa, Central, Eastern, and Uva provinces. East and Southern provinces will also see showers.
-
-🟩
-
-The Department of Meteorology says that due to the development of a lower atmosphere in the atmosphere of Sri Lanka, the increase in rain condition island wide tomorrow (14).
-
-In most parts of the island at many places. Showers or thundershowers will occur at several places, about 1.00.
-
-Heavy showers over 100 ml of places in Sabaragamuwa, Central, Eastern, and Uva provinces will also occur.
-
-Showers will occur at several places in the East and Southern provinces.
-
-◼️
-
-[Data](articles/c27d4064.json)
-
-[Extended Data](ext_articles/c27d4064.ext.json)
-
----
-
-### Foreigner injured after falling from Lotus tower
-
-*2024-05-13 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreigner-injured-after-falling-from-Lotus-tower/108-282488) · `en`
-
-A foreigner sustained injuries while experiencing the Base Jump event at the Lotus Tower a short while ago.
-
-An eyewitness reported that the foreigner delayed opening his parachute after jumping from the tower.
-
-The injured foreigner was promptly taken to the General Hospital for treatment.
-
-According to hospital sources, the injured foreigner is a national of the USA and is currently undergoing treatment.
-
-He has reportedly sustained internal head injuries and has reported numbness of his legs and hand.
-
-◼️
-
-[Data](articles/5590fe15.json)
-
-[Extended Data](ext_articles/5590fe15.ext.json)
-
----
-
-### Supreme Court ordered at the Attorney General about the pastor Jerom
-
-*2024-05-13 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196573) · `si`
-
-The Supreme Court, on the 13th, directed the Attorney General regarding Pastor Jerome Fernando's arrest. This action was taken following a fundamental claim filed under the Civil and Political Rights Act of Buddhism.
-
-🟩
-
-The Supreme Court today (13th), the Supreme Court today (13), the Supreme Court today (13th), the Supreme Court today (13th) appointed the Attorney General.
-
-Pastole Jerome Fernando has been arrested by the Chief Justice Jayantha Jayasuriya, a fundamental claim filed by the Civil and Political Rights Act of Buddhism.Issued this order by a panel.
-
-◼️
-
-[Data](articles/7521e2dc.json)
-
-[Extended Data](ext_articles/7521e2dc.ext.json)
-
----
-
-### Prime Minister questions to the Prime Minister's question
-
-*2024-05-13 13:04:33* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිට-යොමු-කළ-ප්‍රශ්නයට--අගමැතිගෙන්-ප්‍රශ්නයක්/11-409591) · `si`
-
-Prime Minister Dinesh Gunawardena addressed concerns about the development of local government leaders and the establishment of Community Advisory Committees. He highlighted the importance of educated and responsible individuals in provincial councils and the resumption of development projects. The Prime Minister also mentioned decentralized finance and the role of the central government in these projects. He responded to questions from MP Dayasiri Jayasekera and Chief Opposition Whip Lakshman Kiriella, emphasizing the government's efforts to implement approved budgets and inviting opposition participation.
-
-🟩
-
-Prime Minister does not mention the development of the local government leaders who have retired from the Circular Committee of Community Advisory CommitteesDinesh Gunawardena emphasized. The Prime Minister said that the educated and responsible and responsible beneficiaries in the provincial council asked whether the opposition would not do so.
-
-He said that he had led the development projects that were resumed for about two years and the decentralized finance, decentralized finances, the decentralized finance, provincial councils, the central government projects.
-
-Prime Minister Dinesh Gunawardena stated that it was not the case with the Leader of the Provincial Council today due to the Leader of the Leader of the Provincial Council today.. The former Pradeshiya Sabha members questioned the country and questioned the opposition to the import of them.
-
-...
-
-[Data](articles/1c73d48e.json)
-
-[Extended Data](ext_articles/1c73d48e.ext.json)
 
 ---

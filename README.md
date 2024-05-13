@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 23:53:01**
+As of **2024-05-14 00:04:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,787 (100.0%) of 23,789 articles have been extended.
+23,789 (100.0%) of 23,789 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -94,6 +94,8 @@ Scheduled to depart the island tomorrow morning (14), the Sri Lankan cricket squ
 
 [Data](articles/c284e9fd.json)
 
+[Extended Data](ext_articles/c284e9fd.ext.json)
+
 ---
 
 ### The tragedy of the girl who went to charge the phone
@@ -155,6 +157,8 @@ Microsoft said it would invest 4 billion euros in France in its cloud and AI inf
 ...
 
 [Data](articles/ea23c95b.json)
+
+[Extended Data](ext_articles/ea23c95b.ext.json)
 
 ---
 

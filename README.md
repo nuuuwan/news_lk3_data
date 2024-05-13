@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 15:03:37**
+As of **2024-05-13 15:18:13**
 
 ## Newspaper Stats
 
-*Scraped **23,693** Articles*
+*Scraped **23,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,014
+adalk | 2,015
 adaderanalk | 2,766
 tamilmirrorlk | 2,776
 virakesarilk | 3,527
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,692 (100.0%) of 23,693 articles have been extended.
+23,693 (100.0%) of 23,694 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The petitioners Ven. Elle Gunawansa Thera, Ven. Bengamuwe Nalaka Thera, Ven. Ang
 [Data](articles/37dd2848.json)
 
 [Extended Data](ext_articles/37dd2848.ext.json)
+
+---
+
+### පොලිස් පියාගේ පහර කෑමට ලක් වූ සාමාන්‍ය පෙළ ලියන සිසුවාගේ හිසට බරපතල තුවාල
+
+*2024-05-13 14:22:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පියාගේ-පහර-කෑමට-ලක්-වූ-සාමාන්‍ය-පෙළ-ලියන-සිසුවාගේ-හිසට-බරපතල-තුවාල/11-409596) · `si`
+
+මහනුවර මූලස්ථාන පොලිසියේ සේවයේ නියුතු සැරයන්වරයෙකුගේ පහරකෑමට ලක් වූ මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින ඔහුගේ පුත්‍රයා හිසට සිදු වූ බරපතළ තුවාල සහිතව පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කොට ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+
+මහනුවර ප්‍රධාන පෙළේ පාසලක අධ්‍යාපනය හදාරන එම සිසුවා අද (13 දින) සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමටද නියමිතව තිබුණි. සිද්ධිය සම්බන්ධයෙන් එම සිසුවාගේ මව මහනුවර මූලස්ථාන පොලිසියේ ළමා හා කාන්තා කාර්යාංශයට පැමිණිලි කොට තිබේ.
+
+අස්ගිරියේ පිහිටි පොලිස් නිල නිවස්නයක පදිංචි මෙම පොලිස් නිලධාරියා ඊයේ (12 දින) රාත්‍රී අධික බීමතින් පැමිණ ඔහුගේ බිරිඳට සහ දරු දෙදෙනාට පහර දී නිවසෙන් පලවා හැර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින සිසුවාට ද කිසියම් ආයුධයකින් පහර දී ඇති බවට මූලික පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ .
+
+පේරාදෙණිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන එම සිසුවාගේ හිසට මැහුම් පහක් දමා ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි .
+
+...
+
+[Data](articles/a6353885.json)
 
 ---
 
@@ -1688,6 +1706,8 @@ Two main rivals are JVP/NPP (Malimawa) and SJB. JVP/NPP and SJB have not stated 
 
 [Data](articles/9595a2ed.json)
 
+[Extended Data](ext_articles/9595a2ed.ext.json)
+
 ---
 
 ### Girlfriend arrested over Kuliyapitiya youth murder
@@ -2317,21 +2337,5 @@ NMRA Chairman Dr. Ananda Wijewickrama told the Daily Mirror yesterday that the m
 [Data](articles/a735f9f9.json)
 
 [Extended Data](ext_articles/a735f9f9.ext.json)
-
----
-
-### IT Gallery – Hikvision Partner Summit 2024 fetes its islandwide partners
-
-*2024-05-13 04:22:00* · [`islandlk`](http://island.lk/it-gallery-hikvision-partner-summit-2024-fetes-its-islandwide-partners/) · `en`
-
-IT Gallery Computers Private Limited, a leading player in Sri Lanka’s IT distribution market, recently hosted the prestigious “IT Gallery – Hikvision Partner Summit 2024,” a culmination of their annual partner gathering tradition since 2017. The event was held under the theme “New Security, New Success”, and organized to recognize and honour the island-wide partners of Hikvision for their exceptional performance in 2023 and 2024. The event showcased the latest trends and innovations in the security surveillance market.
-
-Dilantha Perera, Director/CEO of IT Gallery Computers Private Limited, expressed pride in IT Gallery’s longstanding partnership with Hikvision, stating, “Our commitment to innovation and support for our partners has established IT Gallery as a trusted hub of technological advancement in Sri Lanka’s surveillance market.”
-
-...
-
-[Data](articles/60a0e070.json)
-
-[Extended Data](ext_articles/60a0e070.ext.json)
 
 ---

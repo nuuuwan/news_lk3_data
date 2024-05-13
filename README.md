@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 15:18:13**
+As of **2024-05-13 15:33:53**
 
 ## Newspaper Stats
 
-*Scraped **23,694** Articles*
+*Scraped **23,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,015
 adaderanalk | 2,766
-tamilmirrorlk | 2,776
+tamilmirrorlk | 2,777
 virakesarilk | 3,527
 dailymirrorlk | 3,731
 adaderanasinhalalk | 3,799
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,693 (100.0%) of 23,694 articles have been extended.
+23,694 (100.0%) of 23,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### போராட்டக்காரர்கள் மீது நீர்த்தாரைப் பிரயோகம்
+
+*2024-05-13 15:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-337236) · `ta`
+
+பல்கலைக்கழக கல்விசாரா ஊழியர்கள் இன்று (13) கொழும்பு பத்தரமுல்லை தியத்த உயனவுக்கு முன்பாக நடத்திய ஆர்ப்பாட்டத்தை கலைக்க பொலிஸார் நீர்த்தாரை பிரயோகித்தனர்.
+
+08 வருடங்களாக நிலவி வரும் சம்பள வெட்டு, மாதாந்த கொடுப்பனவு போன்ற பல பிரச்சினைகளை அடிப்படையாக கொண்டு இந்த போராட்டம் முன்னெடுக்கப்பட்டமு.
+
+அனைத்துப் பல்கலைக்கழகங்களின் கல்விசாரா ஊழியர்கள் கடந்த 12ஆம் திகதி முதல் வேலைநிறுத்தப் போராட்டத்தை ஆரம்பித்தனர்.
+
+◼️
+
+[Data](articles/550bc332.json)
+
+---
 
 ### Court calls for report on progress of investigations against Pastor Jerome
 
@@ -50,21 +66,29 @@ The petitioners Ven. Elle Gunawansa Thera, Ven. Bengamuwe Nalaka Thera, Ven. Ang
 
 ---
 
-### පොලිස් පියාගේ පහර කෑමට ලක් වූ සාමාන්‍ය පෙළ ලියන සිසුවාගේ හිසට බරපතල තුවාල
+### Serious injuries to the head of the Ordinary Level of Police
 
 *2024-05-13 14:22:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පියාගේ-පහර-කෑමට-ලක්-වූ-සාමාන්‍ය-පෙළ-ලියන-සිසුවාගේ-හිසට-බරපතල-තුවාල/11-409596) · `si`
 
-මහනුවර මූලස්ථාන පොලිසියේ සේවයේ නියුතු සැරයන්වරයෙකුගේ පහරකෑමට ලක් වූ මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින ඔහුගේ පුත්‍රයා හිසට සිදු වූ බරපතළ තුවාල සහිතව පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කොට ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+A police sergeant in Kandy, Sri Lanka, was seriously injured, requiring five stitches, after an incident involving a student. The sergeant was found in an official residence with a weapon, leading to a complaint to the Children's and Women's Bureau. Investigations are ongoing.
 
-මහනුවර ප්‍රධාන පෙළේ පාසලක අධ්‍යාපනය හදාරන එම සිසුවා අද (13 දින) සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමටද නියමිතව තිබුණි. සිද්ධිය සම්බන්ධයෙන් එම සිසුවාගේ මව මහනුවර මූලස්ථාන පොලිසියේ ළමා හා කාන්තා කාර්යාංශයට පැමිණිලි කොට තිබේ.
+🟩
 
-අස්ගිරියේ පිහිටි පොලිස් නිල නිවස්නයක පදිංචි මෙම පොලිස් නිලධාරියා ඊයේ (12 දින) රාත්‍රී අධික බීමතින් පැමිණ ඔහුගේ බිරිඳට සහ දරු දෙදෙනාට පහර දී නිවසෙන් පලවා හැර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින සිසුවාට ද කිසියම් ආයුධයකින් පහර දී ඇති බවට මූලික පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ .
+According to Kandy Headquarters, the Kandy Headquarters has been admitted to the Peradeniya Teaching Hospital with serious injuries.
 
-පේරාදෙණිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන එම සිසුවාගේ හිසට මැහුම් පහක් දමා ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි .
+Student study at a leading school in Kandy is scheduled to sit for the Ordinary Level Examination today (13). The mother of the student has lodged a complaint with the Children's and Women's Bureau of the Kandy Headquarters Police.
+
+The police officer in an official residence of a police official residence in Asgiriya has been revealed to the student who appeared to his wife and two children with a weapon.
+
+Five stitches of the student who are receiving treatment at the Peradeniya Teaching Hospital have been treated at the head of the student, hospital sources said.
+
+Upon inquiry from a high police officer in connection with the incident, he said that the police sergeant was hiding and the police investigation had commenced.
 
 ...
 
 [Data](articles/a6353885.json)
+
+[Extended Data](ext_articles/a6353885.ext.json)
 
 ---
 
@@ -2319,23 +2343,5 @@ Since December, I’ve had an action-packed 4-4.5 months. I’ve travelled the l
 [Data](articles/d7cb3117.json)
 
 [Extended Data](ext_articles/d7cb3117.ext.json)
-
----
-
-### NMRA to introduce security sticker for all pharma registration certificates soon
-
-*2024-05-13 04:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-to-introduce-security-sticker-for-all-pharma-registration-certificates-soon/108-282448) · `en`
-
-Colombo, May13 (Daily Mirror) - As a move to counter the controversial issue of substandard and dangerous medicines entering Sri Lanka through unregistered importers like the human immunoglobulin racket, the National Medicines Regulatory Authority (NMRA) will introduce a security sticker in future.
-
-The NMRA has decided to introduce a security sticker to all the medicines registration certificates, thus preventing any instances of forging the certificate by unlawful importers.
-
-NMRA Chairman Dr. Ananda Wijewickrama told the Daily Mirror yesterday that the measure was taken following the allegations made towards them that medicines are brought in by unregistered importers or the unlawful vendors have forged the registration certificate issued by the NMRA.
-
-...
-
-[Data](articles/a735f9f9.json)
-
-[Extended Data](ext_articles/a735f9f9.ext.json)
 
 ---

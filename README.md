@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 04:03:38**
+As of **2024-05-14 04:18:27**
 
 ## Newspaper Stats
 
-*Scraped **23,825** Articles*
+*Scraped **23,826** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 215
 bbccomsinhala | 244
-dbsjeyarajcom | 245
+dbsjeyarajcom | 246
 newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,362
@@ -26,61 +26,83 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,815 (100.0%) of 23,825 articles have been extended.
+23,825 (100.0%) of 23,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### மன்னாரில் கனிய மணல் அகழ்வுக்கு மக்கள் தொடர்ந்தும் எதிர்ப்பு: சுற்றுச்சூழல் தாக்கம் தொடர்பான மதிப்பீட்டை  மேற்கொள்வதற்கு அனுமதி வழங்க முடியாது - அரச அதிபர்
+### People continue to protest against heavy sand excavation in Mannar: Permission cannot be granted to permit an environmental impact - State Chancellor
 
 *2024-05-14 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183462) · `ta`
 
-மன்னார் மாவட்டத்தில் அவுஸ்திரேலியாவை தளமாகக் கொண்டு இயங்கும் டைட்டானியம் சான் லிமிடெட் நிறுவனத்தினரால் மேற்கொள்ளப்படவுள்ள கனிய மணல் அகழ்வு தொடர்பாக பொது மக்களின் விருப்பத்தைப் பெற்றுக்கொள்வதற்கான ஒரு அவசர கூட்டம்  திங்கட்கிழமை (13) மதியம் 2 மணி முதல் மன்னார் மாவட்டச் செயலகத்தில் இடம்பெற்றது.
+Residents of Mannar protest against Titanium San Limited's heavy sand mining, citing environmental concerns. An emergency meeting convened by the Mannar District Secretariat, attended by company representatives and local organizations, resulted in a consensus against the project due to its potential environmental impact. The Geological Survey's Senior Lecturer, Nakamuthu Pradeeparajah, highlighted the project's adverse effects on Mannar's environment, a sentiment echoed by public and village representatives. The meeting concluded with a pledge from the public to oppose the project on Mannar Island, with Government Agent K. Kanageswaran confirming the project's non-implementation.
 
-அவுஸ்திரேலியாவைத் தளமாகக் கொண்டு இயங்கும் டைட்டானியம் சான் லிமிடெட் நிறுவனத்தின் இயக்குனர் சாலிய உள்ளடங்களாக குறித்த நிறுவனத்தின் பிரதிநிதிகளும் கலந்து கொண்டிருந்தனர்.
+🟩
 
-சுற்றுச்சூழல் தாக்கம் தொடர்பான மதிப்பீட்டை பெற்றுக் கொள்ளும் வகையில்,குறித்த நிறுவனத்தினர் தெரிவு செய்யப்பட்ட இடங்களுக்கு செல்லும் போது மக்கள் தொடர்ச்சியாக எதிர்ப்பையும் கண்டனத்தையும் வெளிப்படுத்தி வந்தனர்.
+An emergency meeting was held at the Mannar District Secretariat from 2 pm on Monday (13) to get the wishes of the public on the heavy sand mining excavation to be carried out by the Titanium San Limited in Australia in Mannar district.
 
-இந்த நிலையில் ஜனாதிபதி  செயலகத்தின் வேண்டுகோளுக்கு அமைய,பொதுமக்களுக்கு விழிப்புணர்வை ஏற்படுத்தும் முகமாக குறித்த கூட்டம் ஏற்பாடு செய்யப்பட்டது.
+Representatives of the company were also present, including Saliya, director of Titanium San Limited, based in Australia.
+
+When the company visited the selected places to obtain an assessment of the impact of the environment, people continued to express their opposition and protest.
+
+At the request of the Presidential Secretariat, the meeting was organized to raise public awareness.
+
+The meeting was chaired by Mannar Citizens' Committee, Representatives of Public Organizations, Fisheries Organizations, Social Level Organization Department Heads, chaired by Mannar District Government Agent K. Kanageswaran.
 
 ...
 
 [Data](articles/1e5f5dd6.json)
 
+[Extended Data](ext_articles/1e5f5dd6.ext.json)
+
 ---
 
-### நாட்டின் பொருளாதாரம்  கத்தி நுனியிலேயே உள்ளது - அமைச்சர் பந்துல குணவர்தன
+### The country's economy is at the end of the knife - Minister Bandula Gunawardena
 
 *2024-05-14 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183461) · `ta`
 
-நாட்டிலுள்ள அனைத்து பாலங்கள் உடைந்து விழுந்தாலும் அதனைத் திருத்துவதற்காக ஒருபோதும் மீண்டும் பணத்தை அச்சடிக்க முடியாது. பணம் அச்சடிப்பதை மத்திய வங்கி  தடை செய்துள்ளது. அத்துடன் ஆட்சிக்கு வந்தால் நாணய நிதியத்தின் நிபந்தனைகளை மாற்றுவதாக எதிர்க்கட்சி தெரிவிப்பது மக்களை ஏமாற்றும் நடவடிக்கையாகும் என ஊடகத்துறை மற்றும் போக்குவரத்து அமைச்சர் பந்துல குணவர்தன  தெரிவித்தார்.
+Minister Bandula Gunawardena warns the country's economy is on the brink, with the Central Bank banning money printing. He criticizes past governments for misusing funds, leading to broken bridges, soil degradation, and halted developments. He addresses the Parliament, highlighting the opposition's plans to alter Monetary Fund conditions if they gain power, suggesting a need for financial responsibility and transparency.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற ஏற்றுமதி இறக்குமதி தொடர்பான கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பாலங்கள் உடைகின்றன மண் சரிவு ஏற்படுகின்றன அபிவிருத்திகள் நிறுத்தப்பட்டுள்ளன இவைகள் இதுவரை அரசாங்கத்திற்கு தெரியவில்லையா என அரசாங்கத்தைக் கேள்வி கேட்கின்றனர்.
+All bridges in the country can never print money again to edit it. Central Bank has banned printing money. Media and Transport Minister Bandula Gunawardena said that the opposition's announcement that it would change the conditions of the Monetary Fund if it came to power.
 
-கடந்த அரசாங்கங்கள் பணத்தை அச்சடித்து அவ்வாறான திட்டங்களை முன்னெடுத்தன. தற்போது அவ்வாறு செய்ய முடியாது. மத்திய வங்கி பணம் அச்சடிப்பதைத் தடை செய்துள்ளது அதனால் நாட்டில் உள்ள அத்தனை பாலங்களும் உடைந்து விழுந்தாலும் பணம் அச்சடிக்கப்பட மாட்டாது. மகாவலி கங்கையை வடக்குக்கு திருப்புவதும் கடன் மூலமாகும்.
+He said this while addressing the debate on export imports held in Parliament on Monday (13).
+
+Bridges break down, soil decline and developments are stopped.
+
+Past governments have printed money and launched such plans. Currently not doing so. The central bank has banned printing money so that all the bridges in the country are broken and the money will not be printed. Turning the Mahaweli Ganga to the North is also a debt.
+
+It is the talk of deceiving the nation to report that the government is formed when they set up the government, and it is necessary to pay the loan of the last government.. The agreement has been signed.
 
 ...
 
 [Data](articles/df629d29.json)
 
+[Extended Data](ext_articles/df629d29.ext.json)
+
 ---
 
-### வடக்கு, கிழக்கில்  இனவாத பொலிஸாரின் கட்டளைகளுக்கு பணிந்து  நீதிமன்றங்கள் செயற்படுகின்றனவா? - செல்வராசா கஜேந்திரன்
+### Do the courts bow down to the orders of the communal police in the North and East?- Selvarasa Gajendran
 
 *2024-05-14 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183460) · `ta`
 
-வடக்கு மற்றும் கிழக்கில் நீதிமன்றங்கள் இனவாத பொலிஸாரின் கட்டளைகளுக்குப் பணிந்து செயற்படுகின்றனவா? பொலிஸார் நீதிமன்றங்களுக்குச் சென்று எதைச் சொன்னாலும் அதை அப்படியே நீதிமன்றங்கள் ஏற்றுக்கொண்டு செயற்பட வேண்டிய நிலைக்கு நீதிமன்றங்களின் சுயாதீனம் பறிக்கப்பட்டுள்ளதா ? எனத் தமிழ்த் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர்  செல்வராசா கஜேந்திரன்  சபையில் கேள்வி எழுப்பினார்.
+Selvarasa Gajendran questioned if courts in the North and East of Sri Lanka are influenced by communal police orders, highlighting concerns over the independence of the judiciary and the ongoing impact of the Tamil genocide. He criticized the government's handling of Tamil issues, calling for immediate release of those detained for communal activities, and questioned the fairness of court decisions affecting Tamil communities.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற நிதிக்கட்டளைகள் தொடர்பான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-எமது தமிழின தேசத்தின் மீதான ஒடுக்குமுறைகள் ஆரம்பத்திலிருந்து இன்று வரை  எல்லை கடந்து செல்கின்றன. எமது தேசத்தின் மீது இலங்கை அரசு இனப்படுகொலையை அரங்கேற்றி 15 ஆண்டுகள் கடந்துள்ளன .ஆனால் இன்றுவரை படுகொலை செய்யப்பட்டவர்களுக்கு நீதி கிடைக்கவில்லை. இராணுவத்திடம் ஒப்படைக்கப்பட்ட மற்றும் கருணா, பிள்ளையான்,ஈ.பி.டி.பி. யினரால்  கடத்தப்பட்டு காணாமலாக்கப்பட்டவர்களை தேடி  அவர்களின் உறவுகள் இன்றும் அலைந்து கொண்டிருக்கின்றனர்.தொடர் போராட்டத்தில் ஈடுபடுகிறார்கள்.
+Do courts in the North and East bow down to the orders of the communal police?Whatever the police went to the courts, the courts were independent of the courts to accept it?Selvarasa Gajendran, a member of the Tamil National People's Front, questioned the House.
+
+He said this while addressing a debate on the financial framework held in Parliament on Monday (13).
+
+The oppression of our Tamil nation has crossed the border from the very beginning. 15 years have passed since the Sri Lankan government staged the genocide on our nation.. Handed over to the army and Karuna, Pillaiyan, EPDP. Their relationships are still wandering in search of those who have been abducted and disappeared.
 
 ...
 
 [Data](articles/c09b6344.json)
+
+[Extended Data](ext_articles/c09b6344.ext.json)
 
 ---
 
@@ -98,127 +120,181 @@ A girl tenderly shields a disabled elder from heavy rain at the Colombo Fort Rai
 
 ---
 
-### உப்பு  நீரில் விளக்கெரியும் வற்றாப்பளை கண்ணகி அம்மன் ஆலய கடல் தீர்த்தமெடுத்தல் நிகழ்வு
+### Kannaki Amman Temple
 
 *2024-05-14 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183459) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க வற்றாப்பளை கண்ணகி அம்மன் ஆலய வருடாந்த பொங்கல் உற்சவத்தை முன்னிட்டு திங்கட்கிழமை (13) தீர்த்தம் எடுக்கும் நிகழ்வு இடம்பெற்றது.
+The annual Pongal festival at the historic Kannaki Amman Temple in Vadapalai will be held on Monday, 20th, following the tradition of the sea tirtha ceremony. This year, the salt water from the sea tirtha will be taken to the Mulliyawalai Katha Ganesha Temple, where a lamp will be lit. The Pongal event will then move to the Katta Vinayakar Temple on Sunday, 19th, and finally to the Kannaki Amman Temple on Monday, 20th.
 
-வரலாற்றுச் சிறப்பு மிக்க வற்றாப்பளை கண்ணகி  அம்மன் ஆலய வருடாந்த பொங்கல் உற்சவம் எதிர்வரும் 20 ஆம் திகதி திங்கட்கிழமை சிறப்பாக இடம்பெறவுள்ளது.
+🟩
 
-குறித்த ஆலயத்தில் பொங்கல் நிகழ்வு நடத்துவதற்கு முன்பாக கடல் தீர்த்தம் எடுத்து விளக்கு எரிக்கும் நிகழ்வு ஒவ்வொரு முறையும் நடத்தப்படுகின்றமை வழமையாகும்.
+The event was held on Monday (13) to mark the annual Pongal festival of the Kannaki Amman Temple.
 
-அதற்கமைய இம்முறையும், கடல் தீர்த்தம் (உவர் நீர்) எடுத்து வரப்பட்டு, முள்ளியவளை காட்டா விநாயகர் ஆலயத்திற்கு எடுத்து செல்லப்பட்டு அங்கு பானையில் இடப்பட்டு அதன்பின்னர் உப்பு நீர் விளக்கு எரியவிடப்படும்.
+The Annual Pongal Festival of the Kannaki Amman Temple, the historic Vadapalai, will be held on Monday, the 20th of this month.
 
-குறித்த விளக்கு தொடர்ந்து எரியவிடப்பட்டு எதிர்வரும் ஞாயிற்றுக்கிழமை (19) காட்டா விநாயகர் ஆலயத்தில் பொங்கல் நிகழ்வு நடைபெறும்.
+It is customary for the Pongal event to be held at the temple every time the sea tirtha is held.
 
-...
+Accordingly, this time, the sea tirtha (salt water) will be taken and taken to the Mulliyawalai Katha Ganesha Temple and then the salt water lamp will be burned.
+
+The Pongal event will be held at the Katha Ganesha Temple on Sunday (19).
+
+The next day, the next day (20), the water lamp will be taken from the Katta Vinayakar Temple to the Kannaki Amman Temple with the Katta Vinayakar Temple with the staircase.
+
+◼️
 
 [Data](articles/0e4e5dc9.json)
 
+[Extended Data](ext_articles/0e4e5dc9.ext.json)
+
 ---
 
-### முறிகண்டி பிரதேசத்தில் ஆண் ஒருவரின் சடலம் மீட்பு!
+### The body of a male in Mudigandi area is recovered!
 
 *2024-05-14 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183458) · `ta`
 
-முல்லைத்தீவு - மாங்குளம் பொலிஸ் பிரிவிற்குட்பட்ட முறிகண்டி பிள்ளையார் கோவிலுக்கு அண்மித்த பகுதியில் உள்ள உணவகம் ஒன்றுக்குப் பின் பகுதியிலேயே இவ்வாறு சடலம் அடையாளம் காணப்பட்டுட்டது.
+A 49-year-old man's body was found behind a restaurant near the Mullaitivu-Mankulam police division. Identified as Blessing from Urmilantottam, Vavuniya, police are investigating. The Mullaitivu Court of Additional Magistrate advised relatives to take the body to Kilinochchi Hospital for autopsy.
 
-சடலம் ஒன்று காணப்படுவது தொடர்பில் மாங்குளம் பொலிசாருக்கு தகவல் வழங்கப்பட்டதை அடுத்து பொலிசார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+🟩
 
-வவுனியா ஊர்மிலாந்தோட்டம் பகுதியைச் சேர்ந்த 49 வயதுடைய ஆசீர்வாதம் என்பவருடையது என அடையாளம் காணப்பட்டுள்ளது.
+The body was identified in the area behind a restaurant near the Mullaitivu - Mankulam police division.
 
-சம்பவ இடத்துக்குச் சென்ற முல்லைத்தீவு நீதிமன்ற மேலதிக நீதவான் சடலத்தைப் பார்வையிட்டதுடன், கிளிநொச்சி வைத்தியசாலைக்கு எடுத்துச் சென்று பிரேத பரிசோதனை மேற்கொண்ட பின்னர் உறவினர்களிடம் கையளிக்குமாறு அறிவுறுத்தினார்.
+Police have begun investigations after the Mankulam police have been informed of the body.
+
+It has been identified as a 49 -year -old blessing from Urmilantottam, Vavuniya.
+
+The Mullaitivu Court of Additional Magistrate visited the scene and advised the relatives to take the body to the Kilinochchi Hospital and hand over the autopsy.
 
 ◼️
 
 [Data](articles/b28f3c15.json)
 
+[Extended Data](ext_articles/b28f3c15.ext.json)
+
 ---
 
-### கடும் மழையினால் ஐபிஎல்லில் குஜராத்தின் ப்ளே ஓவ் வாய்ப்பு பறினோனது; கொல்கத்தாவுடன் அடுத்த 3 இடங்களுக்கு 6 அணிகள் போட்டி
+### Gujarat's Playing chance in the IPL caused heavy rains;6 teams match to the next 3 places with Kolkata
 
 *2024-05-14 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183457) · `ta`
 
-அஹமதாபாத்தில் திங்கட்கிழமை இரவு நடைபெறவிருந்த கொல்கத்தா நைட் ரைடர்ஸுக்கும் குஜராத் டைட்டன்ஸுக்கும் இடையிலான இண்டியன் பிறீமியர் லீக்கின் 63ஆவது போட்டி மழையினால் முழுமையாக கைவிடப்பட்டதால் குஜராத்தின் ப்ளே ஓவ் வாய்ப்பு அற்றுப்போனது.
+Heavy rains in Gujarat led to the cancellation of the 63rd IPL match between Kolkata Knight Riders and Gujarat Titans, affecting their standings. Kolkata, with 19 points, leads, followed by Rajasthan Royals with 16 points. Chennai Super Kings and Royal Challengers Bangalore are close behind. The race for the next three playoff spots is intense among six teams, including Sunrisers Hyderabad and Lucknow Super Giants.
 
-இதற்கு அமைய குஜராத் டைட்டன்ஸ் 13 போட்டிகளில் 11 புள்ளிகளைப் பெற்று முதல் சுற்றுடன் வெளியேற நேரிட்டுள்ளது.
+🟩
 
-கொல்கத்தா நைட் ரைடர்ஸ் இப்போதைக்கு 19 புள்ளிகளுடன் முதலிடத்தில் இருக்கிறது. அவ்வணி மாத்திரமே ப்ளே ஒவ்வில் விளையாடுவதை இப்போதைக்கு உறுதிசெய்துகொண்டுள்ளது.
+The 63rd match of the Indian Premier League between Kolkata Knight Riders and Gujarat Titans, which is scheduled to take place in Ahmedabad on Monday night, was completely abandoned by the rainfall of Gujarat.
 
-அணிகள் நிலையில் 16 புள்ளிகளுடன் இரண்டாம் இடத்திலுள்ள ராஜஸ்தான் றோயல்ஸுக்கு இன்னும் இரண்டு போட்டிகள் மீதம் இருக்கிறது. அதில் ஒரு போட்டியில் வெற்றிபெற்றாலும் ராஜஸ்தான் றோயல்ஸ் ப்ளே வாய்ப்பை உறுதிசெய்துகொள்ளும்.
+Accordingly, the Gujarat Titans have scored 11 points in 13 matches.
 
-14 புள்ளிகளுடன் 3ஆம் இடத்தில் இருக்கும் சென்னை சுப்பர் கிங்ஸுக்கு ஒரே ஒரு போட்டியே மீதம் இருக்கிறது. 12 புள்ளிகளுடன் 5ஆம் இடத்தில் றோயல் செலஞ்சர்ஸ் பெங்களூரு இருக்கிறது.
+Kolkata Knight Riders now tops the list with 19 points. It is only now that they are making sure playing in Play Ella.
+
+Rajasthan Royals in the second place with 16 points in teams are left remaining two more matches. Even if you win a match, Rajasthan will ensure the Royals Play opportunity.
+
+Chennai Super Kings, with 14 points, have only one match. Royal Challengers Bangalore is in 5th place with 12 points.
+
+In the last match between the two teams, no team wins the team.
+
+Sunrisers Hyderabad, with 14 points, has 2 matches for Hyderabad and Lucknov Super Jaints in 7th place in 7th place.
 
 ...
 
 [Data](articles/204c6b95.json)
 
+[Extended Data](ext_articles/204c6b95.ext.json)
+
 ---
 
-### இந்திய அரசாங்கத்தினால் அமைக்கப்பட்ட வீட்டுத்திட்டத்துக்குப் பயனாளிகளைத் தெரிவு செய்வதில் அரசியல் தலையீடு - எம். வேலுகுமார்
+### Political intervention in selecting beneficiaries for the housing scheme set by the Government of India -. Velukumar
 
 *2024-05-14 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183456) · `ta`
 
-பொகவந்தலாவை பெருந்தோட்ட மக்களுக்கு இந்திய அரசாங்கத்தினால் அமைக்கப்பட்ட வீட்டுத்திட்டத்துக்குப் பயனாளிகளைத் தெரிவு செய்வதில் அரசியல் தலையீடு இடம்பெற்றுள்ளது. அதனால் உண்மையான  தேவையுடையவர்களுக்கு அநீதி இழைக்கப்பட்டுள்ளது. எனவே பயனாளிகளை தெரிவு செய்யும் நடவடிக்கையை வெளிப்படைத் தன்மையுடன் மேற்கொள்ளும் வகையில் வேலைத்திட்டத்தை இந்திய அரசாங்கம் தயாரிக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் எம். வேலுகுமார் தெரிவித்தார்.
+Political interference in India's housing scheme selection has sparked controversy, with critics arguing it favors the privileged over those in genuine need. Opposition member Velukumar highlighted the issue during a debate on exports and imports in Parliament, calling for transparency in beneficiary selection to avoid perceptions of injustice. The Sri Lanka Workers Congress, involved in the scheme, urged the Indian government to ensure fair distribution to address concerns raised by the media. Additionally, plantation workers' plight was discussed, with a proposed salary increase of 1700 rupees in 2021 being reduced to 1200, leading to accusations of deception.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற ஏற்றுமதி இறக்குமதி தொடர்பான கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பொகவந்தலாவை இந்திய வீடமைப்பு திட்டத்துக்கு பயனாளிகளை தெரிவு செய்யும் நடவடிக்கை கடந்த இரண்டு தினங்களுக்கு முன்னர் இடம்பெற்றபோது, அங்கு சென்ற இலங்கை தொழிலாளர் காங்கிரஸ் உறுப்பினர்கள், இது நாங்கள் முன்னெடுத்த வேலைத்திட்டம். அதனால் எமக்குத் தேவையானவர்களுக்கே வீடுகள் பகிர்ந்தளிக்கப்பட வேண்டும் எனத் தெரிவித்து, அங்கு பிரச்சினைப்படுத்தியுள்ளனதாக ஊடகங்களில் தெரிவிக்கப்பட்டிருந்தது.
+Political intervention has taken place in selecting beneficiaries for the housing scheme set by the Indian government for the people of Bogawantala.. So that is unjust to those with real needs. Opposition Member M.. Said Velukumar.
+
+He said this while addressing the debate on export imports held in Parliament on Monday (13).
+
+The Sri Lanka Workers Congress members who went there, when the process of selecting beneficiaries for the Indian Housing Scheme for the Indian Housing Scheme, was the members of the Ceylon Workers Congress, which was the program we carried out.. The media was reported to have issued a problem there, saying that the houses should be distributed to those we need.
+
+This housing is a housing scheme to be built under the auspices of the Government of India. The action that intervene and is a humiliating Indian government.
 
 ...
 
 [Data](articles/18516057.json)
 
+[Extended Data](ext_articles/18516057.ext.json)
+
 ---
 
-### விஞ்ஞான பாடத்தில் மாணவர்களுக்கு அநீதி  ஏற்படாத வகையில் புள்ளி முறைமை தயாரிக்கப்படும் - கல்வி அமைச்சர் சுசில் சபையில் தெரிவிப்பு
+### Students will be prepared for not injustice to students in science -Education Minister Susil
 
 *2024-05-14 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183455) · `ta`
 
-இடம்பெற்றுவரும் கல்வி பொது தராதர சாதாரண தரப் பரீட்சையில் விஞ்ஞான பாட வினாத்தாள் தொடர்பில் மாணவர்களுக்கு அநீதி ஏற்படாத வகையில் புள்ளி முறைமை ஒன்று தயாரிக்கப்பட்டு உரிய புள்ளிகளை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Education Minister Susil Premajayantha announced a point system to ensure fairness in the Science Course Questionnaire for the ongoing Education Public Level Examination, addressing concerns raised by Opposition Member Rohini Gavaratne. The system aims to rectify issues with the exam, including questions from removed curriculums and contradictions, following discussions with question creators.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) வாய்மூல விடைக்கான  கேள்வி நேரத்தில்  எதிர்க்கட்சி  உறுப்பினர் ரோஹிணி கவிரத்ன எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்தார்.
+🟩
 
-பாடத்திட்டத்திலிருந்து நீக்கப்பட்ட பிரிவுகளிலிருந்து விஞ்ஞான  பாடத்துக்கு  12 புள்ளிகளைக் கொண்ட வினாக்கள் தயாரிக்கப்பட்டுள்ளன. கற்பிக்காத பாடத்திலிருந்து கேள்வி கேட்கும் போது பரீட்சாத்திகள் எவ்வாறு பதிலளிப்பார்கள்?.இவ்விடயம் தொடர்பில் கல்வியமைச்சு உரிய கவனம் செலுத்த வேண்டும் என வலியுறுத்தினார்.
+Minister of Education Susil Premajayantha said that a point system will be prepared and to provide the appropriate points so that students will not be unjust about the Science Course Questionnaire in the ongoing Education Public Level Examination.
+
+He was responding to a question raised by Opposition Member Rohini Gavaratne at the time of the question of oral answer in Parliament on Monday (13).
+
+12 points of questions have been prepared for science lesson. How can the examiners respond when questioning from the unacceptable lesson?
+
+A few curriculums have been removed from the curriculum due to the lack of proper completion of the programs due to the infection of the school.
+
+Questions for the science course have been prepared from some of the eliminated sections. A few questions have not been answered and some questions have been very contradictory.
 
 ...
 
 [Data](articles/9f84f3ad.json)
 
+[Extended Data](ext_articles/9f84f3ad.ext.json)
+
 ---
 
-### விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத முப்படை வீரர்களுக்கு  சேவையிலிருந்து சட்டபூர்வமாக வெளியேறுவதற்கு அனுமதி வழங்க வேண்டும் - எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் வேண்டுகோல்
+### The soldiers who do not have a vacation without a holiday should be allowed to legally leave the service -Opposition Leader appeals to the government
 
 *2024-05-14 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183454) · `ta`
 
-முப்படைகளில் சேவையில் ஈடுபட்டுள்ள நிலையில் விடுமுறையின்றி கடமைக்கு சமுகமளிக்காதவர்களுக்கு பொது மன்னிப்பு காலத்தில்,  சேவையில் இருந்து சட்டபூர்வமாக வெளியேறுவதற்கு அனுமதி வழங்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  வேண்டுகோள் விடுத்தார்.
+Opposition Leader Sajith Premadasa urged the government to allow soldiers without vacation pay to legally leave the service during a public amnesty period from April to May 2024. He highlighted the need for the government to address the issue promptly, especially for those who have completed their military training but are still obligated due to unpaid vacation pay.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) விசேட கூற்றை முன்வைத்து குறிப்பிடுகையிலேயே இந்த வேண்டுகோளை முன்வைத்தார்.
+🟩
 
-முப்படைகளில் சேவையில் ஈடுபட்டுள்ள ஆனால், விடுமுறை நிறைவடைந்தும் நீண்ட நாட்களாக விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத இராணுவ வீரர்களுக்கு, 2024 ஏப்ரல் 20 முதல் மே 20 வரை சேவையில் இருந்து விலகுவதற்கான பொது மன்னிப்பு காலம் வழங்கப்பட்டுள்ளது.
+Opposition Leader Sajith Premadasa appealed to those who did not pay off without vacation in the armed forces and allowed them to legally leave the service during the Public Amnesty.
 
-இராணுவத்தில் இணைந்து விசேட பயிற்சி பெற்றவர்கள், இந்த பொது மன்னிப்பு காலத்தின் போது சேவையை விட்டு வெளியேற முடியாத நிலை ஏற்பட்டுள்ளது. 2024 ஏப்ரல் 2 க்கு முன்னர் விடுமுறையின்றி கடமைக்கு சமுகமளிக்காதவர்களுக்கும்  பொது மன்னிப்பு காலத்தில் இராணுவத்தை விட்டு வெளியேற முடியாத நிலை ஏற்பட்டுள்ளது.
+He made this appeal on Monday (13) in Parliament.
+
+For soldiers who have been working in the Armed Forces, but the holidays have not been completed for a long time, the Public amnesty has been granted to quit the service from April 2024 to May 20, 2024 to May 20.
+
+Special training in the military, unable to leave the service during this period of amnesty. Prior to April 2, 2024, those who did not pay off without holidays were unable to leave the military during the Public Amnesty.
 
 ...
 
 [Data](articles/8d2cfac4.json)
 
+[Extended Data](ext_articles/8d2cfac4.ext.json)
+
 ---
 
-### இஸ்ரேலின் கொலைகார அரச பயங்கரவாதம் உடனடியாக நிறுத்தப்பட வேண்டும். பாலஸ்தீனத்திற்காக நாங்கள் முன் நிற்கிறோம் - எதிர்க்கட்சித் தலைவர்
+### Israel's murderous state terrorism should be stopped immediately. We are standing in front of Palestine - Leader of the Opposition
 
 *2024-05-14 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183453) · `ta`
 
-பாலஸ்தீன மக்களுக்கு பல தசாப்தங்களாக இழைக்கப்பட்டு வரும் அநீதிக்கெதிராக இன, மத வேறுபாடின்றி பாலஸ்தீன மக்களுடன் என்றும் முன்நிற்போம். இந்த கொடூரமான தாக்குதல்கள் மற்றும் படுகொலைகளை உடனடியாக நிறுத்துமாறு இஸ்ரேலிய அரசாங்கத்திற்கு கோரிக்கை விடுகின்றேன் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa, Sri Lanka's Opposition Leader, calls for an immediate halt to Israel's "state terrorism" against Palestine, condemning the destruction of Palestinian lives and homeland. He urges the Israeli government to cease attacks on hospitals, schools, and civilians, emphasizing the need for peace and negotiations. Premadasa stands in solidarity with the Palestinian people, affirming Sri Lanka's support across all religious and political divides.
 
-கொலைகார அரசாக இஸ்ரேல் அரசு பாலஸ்தீன மக்களின் வாழ்வை முற்றாக அழித்து, அவர்களின் தாயகத்தை அழித்து, அரச பயங்கரவாதத்தை நடைமுறைப்படுத்தி பாலஸ்தீன மக்கள் மீது நடத்தி வரும் மிலேச்சத்தனமான தாக்குதலை வன்மையாக கண்டிக்கிறேன். இதற்கு எதிராக இலங்கையர்களாகிய நாம் உலக மக்களோடு  முன் நிற்போம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
 
-பலஸ்தீனர்களுக்கு ஆதரவு தெரிவித்து திங்கட்கிழமை (13) கொழும்பு லிபர்டி சுற்றுவட்டத்தில் இடம்பெற்ற கவனயீர்ப்பு ஆர்ப்பாட்டத்தில் கலந்து கொண்டு கருத்துத் தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+We will forever with the Palestinian people, regardless of the injustice that has been inflicted on the Palestinian people for decades.. The Opposition Leader said that I would request the Israeli government to stop these brutal attacks and assassinations immediately.
+
+The Israeli state as a murderous state has completely destroyed the lives of the Palestinian people, destroy their homeland, and implemented state terrorism and waged a fierce attack on the Palestinian people.. Opposition Leader Sajith Premadasa said that we, Sri Lankans, will come forward with the people of the world.
+
+Opposition Leader Sajith Premadasa said this while participating in a protest demonstration in Liberty in Colombo on Monday (13) in support of the Palestinians.
 
 ...
 
 [Data](articles/14389e1b.json)
+
+[Extended Data](ext_articles/14389e1b.ext.json)
 
 ---
 
@@ -1438,6 +1514,22 @@ It is reported that these personnel are also dangerous to other drivers, running
 
 ---
 
+### 
+
+*2024-05-13 18:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84022) · `en`
+
+What is greatly interesting about the Diana Gamage Saga  is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
+
+Leaving apart the typically hysterical political brouhaha about the unseating of Diana Gamage, former (and largely unlamented) Member of Sri Lanka’s Parliament, what is greatly interesting about this otherwise distasteful saga is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
+
+This concerned a parliamentarian whose seat was challenged by a social activist on the basis that she was the holder of a British passport thus ceasing to be a citizen of Sri Lanka and by virtue of Article 91 read with Article 89 of the Constitution, was disqualified from holding office as a Member of Parliament.
+
+...
+
+[Data](articles/8bb877e6.json)
+
+---
+
 ### Sri Lanka sells Rs70bn in 2028 to 2032 bonds
 
 *2024-05-13 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs70bn-in-2028-to-2032-bonds-162793/) · `en`
@@ -2183,37 +2275,5 @@ Thondaman, who has been critical on RPCs over their resistance in paying the lat
 [Data](articles/2cacffcb.json)
 
 [Extended Data](ext_articles/2cacffcb.ext.json)
-
----
-
-### Former Ambassador in the fraud of sending Sri Lankans to the Russian war?- Gamini Valaboda question
-
-*2024-05-13 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183402) · `ta`
-
-Gamini Valaboda, an Opposition Independent Member, questioned the involvement of the former Sri Lankan ambassador to Russia in a fraud that allegedly sent Sri Lankans to the Russian war. This issue has led to the death of 74 Sri Lankans and affected 600 more, with many not receiving proper treatment. Valaboda called for a parliamentary investigation into these fraudulent activities, which involve recruiting retired soldiers under false employment promises in Russia.
-
-🟩
-
-It is doubtful whether the former Sri Lankan ambassador to Russia is involved in the backdrop of the fraud of illegally sending Sri Lankans to the Russian war.
-
-74 Sri Lankans died in the Russian war field. Therefore, the Opposition Independent Member Gamini urged the Gamini Valaboda Sabha to investigate the matter.
-
-He was speaking at a special statement at a session held in Parliament on Monday (12).
-
-Frauds that merge retired soldiers into the Russian army are now intensifying, claiming to have employment opportunities in Russia.
-
-Sri Lankans affected by the Russian war are weeping and weeping.
-
-Sri Lankans, who were injured in the Russian war, are not provided with proper treatment.
-
-The Embassy states that when we negotiated with the Russian embassy in Sri Lanka in this regard, the Embassy states that we cannot intervene illegally.
-
-The former Sri Lankan Ambassador to Russia noted that he would bring Sri Lankans within a day or a week if he got power.
-
-...
-
-[Data](articles/080bd182.json)
-
-[Extended Data](ext_articles/080bd182.ext.json)
 
 ---

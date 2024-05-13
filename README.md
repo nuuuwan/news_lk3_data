@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 17:18:33**
+As of **2024-05-13 17:33:54**
 
 ## Newspaper Stats
 
-*Scraped **23,727** Articles*
+*Scraped **23,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,165 @@ islandlk | 1,286
 economynextcom | 1,357
 dailyftlk | 1,374
 adalk | 2,020
-adaderanalk | 2,771
+adaderanalk | 2,772
 tamilmirrorlk | 2,782
 virakesarilk | 3,533
 dailymirrorlk | 3,734
-adaderanasinhalalk | 3,804
+adaderanasinhalalk | 3,805
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,721 (100.0%) of 23,727 articles have been extended.
+23,727 (100.0%) of 23,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### இந்திய அரசின் ஆயுஷ் புலமைப்பரிசில்
+### SC concludes hearing petitions against ‘Sri Lanka Electricity Bill’
+
+*2024-05-13 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99192/sc-concludes-hearing-petitions-against-sri-lanka-electricity-bill) · `en`
+
+The Supreme Court has concluded its hearing of the petitions filed challenging the proposed Sri Lanka Electricity Bill, which includes proposed reforms for the electricity sector.
+
+Accordingly, the court announced that it will inform the determination to the Speaker of Parliament confidentially.
+
+The petitions were heard before the three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekera for three consecutive days.
+
+The petitions were submitted by 14 parties including the secretary of the Ceylon Electricity Workers’ Union, Ranjan Jayalal.
+
+◼️
+
+[Data](articles/ee23fdd7.json)
+
+---
+
+### University Employees Union struggle across the country
+
+*2024-05-13 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
+
+State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
+
+🟩
+
+The State University Employees Union held a protest on Monday (13) demanding a pay hike.
+
+A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
+
+The demonstration was held at the University of Jaffna at 10 am on Monday.
+
+After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
+
+During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
+
+The Vavuniya University Educational Employees Union and the Student Association were supported.
+
+The strike was launched by university non -academic staff at 11.30 am in Kandy.
+
+...
+
+[Data](articles/61ad6620.json)
+
+[Extended Data](ext_articles/61ad6620.ext.json)
+
+---
+
+### එවරස්ට් කන්දෙන් ඇසෙන සුපිරි ලෝක වාර්තාව
+
+*2024-05-13 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196582) · `si`
+
+ලොව උසින් වැඩිම කන්ද ලෙස සැලකෙන එවරස්ට් කන්ද තරණය කර ලෝක වාර්තා තැබීමට නේපාල ජාතික කඳු නගින්නෙක් සහ බ්‍රිතාන්‍ය ජාතික කඳු නගින්නෙක් පසුගියදා සමත්විය.
+
+එහිදී 29 වරක් එවරස්ට් තරණය කළ නේපාල ජාතික 54 හැවිරිදි කමයි රීටා ෂෙර්පා ලොව වැඩිම වාර ගණනක් එවරස්ට් තරණය කළ පුද්ගලයා බවට නැවතත් පත්වුණි.
+
+වෘත්තියෙන් එවරස්ට් තරණය කරන්නන්ගේ මඟ පෙන්වන්නෙක් වන රීටා එය පළමුව තරණය කර ඇත්තේ 1994 වසරේදීය.
+
+මේ අතර පසුගියදා එවරස්ට් තරණය කළ බ්‍රිතාන්‍ය ජාතික කෙන්ටන් කූල් මෙවර 18 වැනි එවරස්ට් තරණය කළ අතර ඔහු ඉතිහාසයට එක්වන්නේ වැඩිම වාර ගණනක් එවරස්ට් තරණය කළ විදේශිකයා ලෙසටය.
+
+◼️
+
+[Data](articles/a96801ce.json)
+
+---
+
+### Ayush scholarship of the Government of India
 
 *2024-05-13 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183424) · `ta`
 
-ஆயுஷ் புலமைப்பரிசில் திட்டத்தின்கீழ் 2024-25 கல்வியாண்டில்  பட்டப்படிப்பு/ பட்ட மேற்படிப்பு/ கலாநிதி கற்கைநெறி ஆகிய பிரிவுகளில் கற்க விரும்பும் இலங்கை பிரஜைகளுக்கு கீழ்வரும் கற்கைநெறிகளுக்கு கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயம் புலமைப் பரிசில்களை அறிவித்துள்ளது.
+The Ayush Scholarship Program by the Indian Government offers scholarships for Sri Lankan citizens to study Ayurveda, Unani, Siddha Medicine, Homeopathy, Yoga Shastra, and related fields. Eligibility requires GCE Advanced Level for Ayurveda, Unani, Siddha, and Homeopathy, and GCE Ordinary Level for Yoga Shastra. Applicants must also meet the requirements set by the Indian Medical Central Council. The scholarship covers monthly allowances, accommodation, and annual scholarships. Applications must be submitted by May 31, 2024, through the ICCR A2A site. For more information, contact the Indian High Commission in Colombo.
 
-ஆயுர்வேதம், யுனானி, சித்த மருத்துவம்  மற்றும் ஹோமியோபதி ஆகிய துறைகளில் பட்டப்படிப்பினை தொடர விரும்பும் விண்ணப்பதாரிகள் க.பொ.த உயர் தரத்தில் பௌதீகவியல், இரசாயனவியல் மற்றும் உயிரியல் ஆகியவற்றில் சித்திபெற்றிருக்கவேண்டியது அவசியமாகும்.
+🟩
 
-அதேவேளை யோகாவில் B.Sc மற்றும் B.A (யோகா சாஸ்திரம்)   ஆகியவற்றுக்கு விண்ணப்பிக்க விரும்புவோர் க.பொ.த உயர் தரத்தில் ஏதாவது ஒரு பிரிவில் சித்தியடைந்திருக்க வேண்டும். யோகாவில் MSc பயில விரும்புவோர் குறித்த பட்டப்படிப்பினை பூர்த்திசெய்திருத்தல் அவசியம்.
+Under the Ayush Scholarship Program, the Indian High Commission in Colombo has announced the scholarship prizes for the following courses for Sri Lankan citizens who want to study in the degree/ Degree/ Doctor of Studies in the Ayush Scholarship Program.
+
+Applicants who wish to pursue degree in Ayurveda, Unani, Siddha Medicine and Homeopathy need to be enlightened in the GCE Advanced Quality.
+
+At the same time, those who wish to apply for B.Sc and B.A (Yoga Shastra) in yoga must have passed in a category of GCE high quality.. The completion of the degree of MSC studying in yoga is essential.
+
+Also, those who wish to pursue degree in Ayurveda, Siddha, Unani and Homeopathic fields need to be completed by the Indian Medical Central Council.. Also, those who wish to continue PhD in Ayurveda, Unani and Yoga must have a youth and senior degrees recognized by the Indian Medical Central Council in the fields.
 
 ...
 
 [Data](articles/7de52355.json)
 
+[Extended Data](ext_articles/7de52355.ext.json)
+
 ---
 
-### இலங்கையின் சிவில் அலுவலர்களுக்கான திறன் மேம்பாட்டு பயிற்சி இந்தியாவின் நல்லாட்சிக்கான தேசிய மையத்தில் ஆரம்பம்
+### Skills Development Training for Civil Officers of Sri Lanka Begins at the National Center for Good Governance
 
 *2024-05-13 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183423) · `ta`
 
-இலங்கை அரசாங்கத்தின் அதிகாரிகளுக்கான இருவார கால திறன் மேம்பாட்டு நிகழ்ச்சித்திட்டம் இந்தியாவின் உத்தரகாண்ட், முசோரியில் உள்ள நல்லாட்சிக்கான தேசிய மையத்தில் (NCGG) இன்று  13ஆம் திகதி ஆரம்பமாகியது.
+Sri Lanka's civil officers are participating in a two-week skills development program at the National Center for Good Governance in India, focusing on digital technology adoption and public service improvement. The program, part of India's ITEC project, aims to share Indian innovations and experiences with 40 senior officers from various departments. The training covers digital use, disaster management, health insurance, and transparency, among other topics, to enhance governance and public service delivery.
 
-இந்திய அரசாங்கத்தின் வெளியுறவுத்துறை அமைச்சின் கீழான இந்திய தொழில்நுட்ப மற்றும் பொருளாதார ஒத்துழைப்பு நிகழ்ச்சித் திட்டத்தின் கீழ் (ITEC) குறித்த திட்டம் ஒழுங்கமைக்கப்பட்டுள்ளது.
+🟩
 
-இந்த நிகழ்ச்சித் திட்டத்தில் குறிப்பாக பொது நிருவாக, உள்நாட்டலுவல்கள், மாகாண சபை௧ள் மற்றும் உள்ளூராட்சி அமைச்சு, தேசிய பொலிஸ் ஆணைக்குழு, சட்டமா அதிபர் திணைக்களம், இலங்கை சுங்கம், நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசியக் கொள்கைகள் அமைச்சு,  கணக்காய்வு சேவை  ஆணைக்குழு உள்ளிட்ட அமைச்சுகள் மற்றும் திணைக்களங்களின்  பணிப்பாளர்கள், சிரேஸ்ட பிரதிப் பணிப்பாளர்கள், பிரதிப் பணிப்பாளர்கள், சிரேஸ்ட உதவிச் செயலாளர்கள், உதவி செயலாளர் உள்ளிட்ட பல்வேறு பதவிகளில் கடமையாற்றும் இலங்கையைச் சேர்ந்த 40 சிரேஸ்ட சிவில் அலுவலர்கள் கலந்துகொண்டுள்ளனர்.
+The two -week skills development program for the Sri Lankan government officials commenced today at the National Center for Good Governance in Mussori, Uttarakhand, India.
+
+The project on the ITEC of the Indian Technology and Economic Cooperation Program under the Ministry of Foreign Affairs of the Government of India has been organized.
+
+In the event, especially in the event, the Ministries and Deputy Directors of the Ministries and Departments including the Ministries and the Department of Senior Administration, Home Affairs, Provincial Council and Local Government Ministry, National Police Commission, Attorney General's Department, Sri Lanka Customs, Finance, Economic Stability and National Policies, Audit Service Commission40 Senior Civil Officers from Sri Lanka who are serving in various positions, including Senior Assistant Secretaries and Assistant Secretary.
 
 ...
 
 [Data](articles/3524c3af.json)
 
+[Extended Data](ext_articles/3524c3af.ext.json)
+
 ---
 
-### துக்கதினத்தை  அனுஸ்டிக்கும் உரிமை கூட  இலங்கையில் தமிழர்களிற்கு இல்லை-திருகோணமலையில் முள்ளிவாய்க்கால் கஞ்சி பரிமாறியதற்காக பெண்கள் தாக்கப்பட்டமை குறித்து மக்கள் பேரவைக்கான இயக்கம் கடும் கண்டனம்
+### Tamils in Sri Lanka have no right to observe mourning
 
 *2024-05-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183421) · `ta`
 
-திருகோணமலை சம்பூரில் முள்ளிவாய்க்கால் கஞ்சியை தயாரித்த பெண்களை நள்ளிரவில் வீடு புகுந்து பொலிஸார் கைதுசெய்ததை மிக மோசமாக செயற்பட்டதை கடுமையாக கண்டித்துள்ள மக்கள் பேரவைக்கான இயக்கம் துக்கதினத்தை கூட அனுஸ்டிக்கும் உரிமை இலங்கையில் தமிழர்களிற்கு இல்லை என தெரிவித்துள்ளது
+The Movement for the People's Forum criticized the arrest of women making Mullivaikkal Kanji in Sri Lanka, highlighting the lack of mourning rights for Tamils. They condemned the government's handling of the Tamil community, citing the 2009 conflict and the ongoing lack of justice. The group called for the protection of fundamental rights and urged nationwide commemoration events for Mullivaikkal.
 
-கொழும்பில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்த ராஜ்குமார் ரஜீவ்காந் இதனை தெரிவித்தார்
+🟩
 
-2009ம் ஆண்டு மே மாதம் இலங்கையின் மூன்று தசாப்தபோர் மிகவும் மோசமான முறையில் இலங்கை அரசாங்கத்தினால் முடித்துவைக்கப்பட்டது.
+The Movement for the People's Forum, which has strongly condemned the arrest of the women who produced Mullivaikkal Kanji in Sampur in Trincomalee, said that the Tamils in Sri Lanka have no right to observe even the mourning of the mourning of the police.
 
-தமிழ்மக்கள் தங்கள் நாட்டின் பிரஜைகள் என்ற கரிசனையில்லாமல் குண்டு வீசி கொத்துகொத்தாக கொல்லப்பட்டனர்.
+Speaking at a press conference held in Colombo, Rajkumar Rajiv Khan said this
 
-உணவு இல்லாததால் உணவு கிடைக்காததால் தண்ணீர் கலந்த அரிசியை கஞ்சியை குடித்து உயிர்வாழ்ந்தனர்.
+In May 2009, the three decades of Sri Lanka ended in the worst of the Sri Lankan government.
 
-அந்த மக்கள் 15 வருடங்கள் கடந்த பின்னரும் எந்த நீதியையும் பெறாமல் வாழ்கின்றனர் அரசாங்கம் அவர்களிற்கு எந்த ஒரு நீதியையும் வழங்கவில்லை எந்தவொரு முடிவையும் தெரிவிக்கவில்லை.
+The Tamils were killed and killed as a bomb without being known as the citizens of their country.
 
-இது அடிப்படை உரிமைகளை மீறுகின்ற செயல் நினைவுகூரலின் போது உணவு வழங்குவது பானங்களை வழங்குவதுஅடிப்படை உரிமையாகும்.
+Due to lack of food, they drank rice mixed with water and died.
 
-...
+After 15 years of 15 years, the government has not given any justice to them.
+
+It is the right to provide drinks during the process of violating fundamental rights.
+
+In this country, the state of Tamil Nadu is in a state of disrepair.
+
+We appeal to ensure that the commemoration events are held across the country during the week of Mullivaikkal.
+
+◼️
 
 [Data](articles/4838d0b5.json)
+
+[Extended Data](ext_articles/4838d0b5.ext.json)
 
 ---
 
@@ -200,19 +290,27 @@ When questioned about the inclusion of Dunit Wellalake in the squad, Taranga not
 
 ---
 
-### திருகோணமலை முள்ளிவாய்க்கால் கஞ்சி பரிமாறியதற்காக கைதானவர்களுக்கு விளக்கமறியல் !
+### Trincomalee Mullivaikkal Explain to the detainees for exchanging porridge!
 
 *2024-05-13 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183415) · `ta`
 
-திருகோணமலை - சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பரிமாறிய குற்றச்சாட்டில் சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டவர்களுக்கு எதிர்வரும் 27 ஆம் திகதி வரை விளக்கமறியல் நீடித்து மூதூர் நீதிவான் நீதிமன்றம் இன்று திங்கட்கிழமை (13) உத்தரவிட்டுள்ளது. குறித்த உத்தரவை  நீதிபதி தஸ்னீம் பௌசான் வழங்கியுள்ளார்.
+In a recent incident, the Sampur police were suspended for exchanging Kanji, a traditional Tamil dish, instead of porridge. This led to the arrest of three individuals and four university students on charges of exchanging Mullivaikkal. The detainees, including social activists and a former member of the Tamil National People's Front, were accused of attacking the police. A university student's mother, who opposed her son's arrest, was injured by a police officer, leading to the student's arrest as well. The incident, which took place at the Muttur Magistrate's Court, is a reminder of the Mullivaikkal massacre, as the event was held to commemorate the victims.
 
-முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பரிமாறிய குற்றச்சாட்டில் மூன்று பேரும் பல்கலைக்கழக மாணவி ஒருவருமாக நான்கு பேர் நேற்று ஞாயிற்றுக்கிழமை (12) சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டிருந்தனர்.
+🟩
 
-ஞாயிற்றுக்கிழமை இரவு 8:30 மணிக்கு பின்னர் கைது செய்யப்பட்ட பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு மறுநாள் (13) திங்கட்கிழமை மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையிலேயே விளக்கமறியல் நீடித்து உத்தரவிடப்பட்டுள்ளது.
+The Muttur Magistrate's Court today (13) ordered the suspension of the Sampur police on charges of exchanging Kanji. Judge Dasneem Fouusan issued the order.
+
+Three persons and four university student were arrested by the Sampur police on Sunday (12) on charges of exchanging Mullivaikkal.
+
+Three women and a male, including a university student arrested at 8:30 pm on Sunday, were detained at the Sampur police station and the next day (13) was produced before the Muttur court.
+
+Social activist Kamaleswaran Vijitha (age 40), social activist Selvinod Kumar Sujani (age 40) and former Tamil National People's Front member Naveratnarajah Hariharakumar (43 years old) have been accused of attacking the police.The age of 22) was arrested. They have been filed under the ICCP Act.
 
 ...
 
 [Data](articles/0b6aa13c.json)
+
+[Extended Data](ext_articles/0b6aa13c.ext.json)
 
 ---
 
@@ -508,19 +606,25 @@ The non -academic staff of all universities launched a strike from the 12th.
 
 ---
 
-### 'ஹரா'  படத்திற்காக ஏழு முறை....! - மோகன்
+### Seven times for 'Hara' ....!- Mohan
 
 *2024-05-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183405) · `ta`
 
-''இயக்குநர் விஜய் ஸ்ரீ ஜி, 'ஹரா' படத்தின் கதையை ஏழு முறை திருத்தம் செய்து முழுமையாக சொன்ன பிறகுதான் இதில் நடிக்க ஒப்புக்கொண்டேன்'' என அப்படத்தின் நாயகனான மோகன் தெரிவித்திருக்கிறார்.
+Mohan stars in 'Hara,' directed by Vijay Sri Ji, with a story refined seven times. The film features a star-studded cast and is set for a global release on June 7th. Mohan, appreciating his fans, agreed to act after the story's approval. The film aims to captivate all fans, with Coimbatore Brothers supporting its release.
 
-இயக்குநர் விஜய் ஸ்ரீ ஜி இயக்கத்தில் உருவாகி இருக்கும் 'ஹரா' எனும் திரைப்படத்தில் மோகன், அனு மோல், கௌஷிக், அனித்ரா நாயர், யோகி பாபு , சாருஹாசன், சுரேஷ் மேனன், வனிதா விஜயகுமார், மொட்டை ராஜேந்திரன், சிங்கம் புலி, தீபா, மைம் கோபி, சாம்ஸ், சந்தோஷ் பிரபாகர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பிரஹத் முனியசாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஷாந்த் அர்வின் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை தயாரிப்பாளர் கோயம்புத்தூர் எஸ். பி. மோகன்ராஜ் தயாரித்திருக்கிறார்.
+🟩
 
-எதிர்வரும் ஜூன் மாதம் ஏழாம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை வெளியீட்டு விழா நடிகர் மோகனின் பிறந்த நாளன்று  சென்னையில் சிறப்பாக நடைபெற்றது.  அப்போது இயக்குநர் கே. பாக்யராஜ் சிறப்பு அதிதியாக பங்கு பற்றினார்.
+The film's hero Mohan said, "I have agreed to act only after the story of director Vijay Sri Ji, 'Hara' is seven times."
+
+Directed by director Vijay Sri Ji, Mohan, Anu Mol, Kaushik, Anitra Nair, Yogi Babu, Saruhasan, Suresh Menon, Vanitha Vijayakumar, Motta Rajendran, Singam Tiger, Deepa, Mime Gopi, Santosh PrabhakarHave played. Rashant Arvin has composed the film, which is being recorded by Prahad Muniyasamy. The film was made by producer Coimbatore S.. B.. Produced by Mohanraj.
+
+The music launch of the film, which will be released in the film mansions worldwide on the seventh of June, was held in Chennai on the birthday of actor Mohan.Then director K.. Bhagyaraj participated as a special guest.
 
 ...
 
 [Data](articles/66ba990f.json)
+
+[Extended Data](ext_articles/66ba990f.ext.json)
 
 ---
 
@@ -610,19 +714,25 @@ Officers of the Special Investigation Division of the Special Investigation Divi
 
 ---
 
-### தாமரை கோபுரத்தில் பேஸ் ஜம்ப் சாகசம் ; வெளிநாட்டு பிரஜை காயம்
+### Base jump adventure in the lotus tower;Foreign citizen hurt
 
 *2024-05-13 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183404) · `ta`
 
-கொழும்பு தாமரை கோபுரத்தில் பேஸ் ஜம்ப் எனும் சாகச நிகழ்வில் ஈடுப்பட்ட  வெளிநாட்டு பிரஜை ஒருவர்  கீழே விழுந்து காயமடைந்துள்ளார்.
+A US citizen was injured during a Base Jump at Colombo's Lotus Tower due to a delayed opening of the parachute.
 
-தாமரை கோபுரத்தில் இருந்து பேஸ் ஜம்ப் பாய்ச்சலின் போது பரசூட்டை திறப்பதில் ஏற்பட்ட தாமத்தினால் இந்த விபத்து ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-காயமடைந்த வெளிநாட்டு பிரஜை அமெரிக்காவைச் சேர்ந்தவர் என்றும் அவர் தற்போது சிகிச்சை பெற்று வருவதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+A foreign citizen who was involved in a Base Jump adventure at the Lotus Tower in Colombo has been injured.
+
+The accident was reportedly due to the delay in the opening of the parasite during the Base jump flow from the Lotus Tower.
+
+Hospital sources say that the injured foreign citizen belongs to the United States and is currently being treated.
 
 ◼️
 
 [Data](articles/98322990.json)
+
+[Extended Data](ext_articles/98322990.ext.json)
 
 ---
 
@@ -877,36 +987,6 @@ The Health Trade Union Alliance confirmed its intention to spread the strike to 
 [Data](articles/00fb0ea5.json)
 
 [Extended Data](ext_articles/00fb0ea5.ext.json)
-
----
-
-### University Employees Union struggle across the country
-
-*2024-05-13 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
-
-State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
-
-🟩
-
-The State University Employees Union held a protest on Monday (13) demanding a pay hike.
-
-A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
-
-The demonstration was held at the University of Jaffna at 10 am on Monday.
-
-After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
-
-During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
-
-The Vavuniya University Educational Employees Union and the Student Association were supported.
-
-The strike was launched by university non -academic staff at 11.30 am in Kandy.
-
-...
-
-[Data](articles/61ad6620.json)
-
-[Extended Data](ext_articles/61ad6620.ext.json)
 
 ---
 
@@ -2213,51 +2293,5 @@ The suspect and antiquities have been handed over to the Puttalam Police Station
 [Data](articles/3219c905.json)
 
 [Extended Data](ext_articles/3219c905.ext.json)
-
----
-
-### The Sri Lankan government that threatens the Tamils who are engaging in the commemoration cannot be said to be trying to reconciliation- Pearl
-
-*2024-05-13 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183368) · `ta`
-
-The Sri Lankan government's threats against Tamils commemorating their history contradict claims of reconciliation efforts. The People's Organization for Equality and Relief in Sri Lanka criticizes the government for its role in the genocide 15 years ago, highlighting the arrest of those commemorating their lost loved ones. The incident involving police giving biscuits to locals on Vesak Day last year further exposes the government's hypocrisy.
-
-🟩
-
-The Sri Lankan government, which threatens to persecute Tamils who are engaged in the commemoration, cannot be informed that the Sri Lankan government is in the process of reconciliation, said the People's Organization for Equality and Relief in Sri Lanka.
-
-Mullivaikkal porridge at this moment has become part of the joint venture of the Sri Lankan government's ruthless genocide of the Sri Lankan government 15 years ago.
-
-The arrests that threaten the Tamils who commemorate their beloved people cannot be informed that the Sri Lankan government is trying to reconciliation.
-
-The Sri Lankan police were given biscuits to the local people on the eve of Vesak Day last year - the Trincomalee incident has revealed their pseudo -country.
-
-◼️
-
-[Data](articles/078f70e8.json)
-
-[Extended Data](ext_articles/078f70e8.ext.json)
-
----
-
-### Illegal shoe imports costing Sri Lanka billions of rupees in annual tax revenue
-
-*2024-05-13 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99173/illegal-shoe-imports-costing-sri-lanka-billions-of-rupees-in-annual-tax-revenue) · `en`
-
-Information has been uncovered regarding a large-scale racket of illegally importing shoes manufactured in foreign countries and selling them within Sri Lanka.
-
-It is reported the racket has been carried out with the involvement of certain Customs officers and without paying the due taxes.
-
-A tax of minimum Rs. 2,000 is levied for a pair of shoes imported into Sri Lanka from a foreign country.
-
-Meanwhile, it is reported that these illegally imported foreign-manufactured footwear are released to the market at prices much lower than the footwear produced locally.
-
-Ada Derana learns that the country has incurred annual tax revenue losses of around Rs. 35 billion due to such import rackets.
-
-◼️
-
-[Data](articles/2eb4fffb.json)
-
-[Extended Data](ext_articles/2eb4fffb.ext.json)
 
 ---

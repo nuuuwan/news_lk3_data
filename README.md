@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 02:33:47**
+As of **2024-05-14 02:52:00**
 
 ## Newspaper Stats
 
-*Scraped **23,811** Articles*
+*Scraped **23,814** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 214
+colombotelegraphcom | 215
 bbccomsinhala | 244
 dbsjeyarajcom | 245
 newsfirstlk | 363
@@ -17,20 +17,48 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,787
+tamilmirrorlk | 2,788
 virakesarilk | 3,552
-dailymirrorlk | 3,747
+dailymirrorlk | 3,748
 adaderanasinhalalk | 3,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,811 (100.0%) of 23,811 articles have been extended.
+23,811 (100.0%) of 23,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Touching scene
+
+*2024-05-14 02:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Touching-scene/110-282507) · `en`
+
+A girl tenderly shields a disabled elder from heavy rain at the Colombo Fort Railways Station, reflecting the heartwarming Sri Lankan hospitality and compassion. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/2712a779.json)
+
+---
+
+### ’600 இலங்கையர்களை அழைத்து வரவும்’
+
+*2024-05-14 00:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/600-இலங்கையர்களை-அழைத்து-வரவும்/175-337267) · `ta`
+
+ரஷ்ய யுத்த களத்தில் உள்ள இலங்கையர்கள் இன்னும் 10 நாட்களுக்குள் தற்கொலை குண்டுதாரிகளாக மாற்றப்படவுள்ளதால் ரஷ்ய யுத்த களத்தில் உள்ள 600 இலங்கையர்களை  நாட்டுக்கு அழைத்து வர உடனடியாக இராஜதந்திர மட்டத்தில் நடவடிக்கைளை அரசாங்கம் எடுக்க  வேண்டும் என எதிரணி எம்.பி.யான தயாசிறி ஜயசேகர வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13) விசேட கூற்றை முன்வைத்த போதே இவ்வாறு வலியுறுத்திய அவர் மேலும் பேசுகையில்,
+
+இலங்கையில் ஓய்வு பெற்ற இலங்கை இராணுவத்தினர்  ரஷ்யா- உக்ரைன் யுத்தக்களத்துக்கு சென்று பெரும் இன்னல்களுக்கு முகம் கொடுத்துள்ளனர் .தாங்கள் யு த்தகளத்துக்கு செல்கிறோம் என்பதை அறியாமலேயே  இவர்கள் அங்கு சென்றுள்ளார்கள். இவ்விடயம் தொடர்பில் தேசிய மட்டத்தில் தற்போது விசாரணைகள் முன்னெடுக்கப்பட்டு,ஓய்வு பெற்ற இரு இராணுவ மேஜர் ஜெனரல்கள் கைது செய்யப்பட்டுள்ளார்கள்.
+
+...
+
+[Data](articles/7d905b4c.json)
+
+---
 
 ### Explore the background of the model scam
 
@@ -2207,55 +2235,5 @@ The injured overseas has been admitted to the National Hospital for treatment.
 [Data](articles/4f420983.json)
 
 [Extended Data](ext_articles/4f420983.ext.json)
-
----
-
-### The king's knife
-
-*2024-05-13 15:49:26* · [`adalk`](https://www.ada.lk/breaking_news/රජ-පිහිල්ල/11-409602) · `si`
-
-Sri Lanka's ancient kingdom of Kandy, known for its royal antiquities, attracts both local and foreign tourists. The Senkadagala area, with its historical significance, remains a popular destination.
-
-🟩
-
-The people of Sri Lanka have been blessed today as many amazing designs in the kingdom. Antiquities that many such ancient places were as much as the king. Action at the Senkadagala can still be seen in the Senkadagala to date.
-
-A king, or royal snihonor of black stops for water to bathing the royal
-
-Located in the city of Kandy. But these ancient kingdoms to suffer the beauty of Kandy
-
-Incoming local and foreign tourists have become an eye on a large number of. So
-
-Many people have become a place not going to visit the ancient kingdoms. In a handful of
-
-A group goes to visit Kandy and many people know whether many people have such an ancient roshes close to the city of Kandy. (I J)
-
-◼️
-
-[Data](articles/3499cb68.json)
-
-[Extended Data](ext_articles/3499cb68.ext.json)
-
----
-
-### Sri Lanka might look into water tariff reduction “very soon”: Minister
-
-*2024-05-13 15:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-might-look-into-water-tariff-reduction-very-soon-minister-162750/) · `en`
-
-EXCONOMYNEXT – Sri Lanka might consider look into water price reduction due to lower cost of energy after sharp appreciation in the rupee, Minister of Water Supply Jeevan Thondaman said.
-
-President Ranil Wickremesinghe’s government has been implementing IMF-led pricing policies on utilities and the Water Supply Ministry has already come up with a formula.
-
-However, the formula developed with the help of the Asian Development Bank, has yet to be implemented.
-
-The National Water Supply and Drainage Board (NWS & DB) increased the water tariff sharply in August 2023, claiming that the operating cost had been increased owing to high interest payment for bank loans and increased electricity prices.
-
-“The biggest cost that we had was the energy cost. That is the cost we have been working on with and just to be transparent, according to the current formula, there was a 14% increase three months ago in the price of water,” Thondaman told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/3cc61339.json)
-
-[Extended Data](ext_articles/3cc61339.ext.json)
 
 ---

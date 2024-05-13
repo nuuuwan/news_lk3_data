@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 13:33:44**
+As of **2024-05-13 13:53:14**
 
 ## Newspaper Stats
 
-*Scraped **23,676** Articles*
+*Scraped **23,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,008
 adaderanalk | 2,764
-tamilmirrorlk | 2,774
+tamilmirrorlk | 2,775
 virakesarilk | 3,527
 dailymirrorlk | 3,727
 adaderanasinhalalk | 3,797
@@ -26,47 +26,79 @@ adaderanasinhalalk | 3,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,670 (100.0%) of 23,676 articles have been extended.
+23,676 (100.0%) of 23,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### පුටින්ගේ රජය අර්බුදයක
+### கோபுரத்திலிருந்து குதித்த வெளிநாட்டவருக்கு காயம்
+
+*2024-05-13 13:32:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபுரத்திலிருந்து-குதித்த-வெளிநாட்டவருக்கு-காயம்/175-337232) · `ta`
+
+தாமரை கோபுரத்தில் பாய்ச்சல் நிகழ்வை அனுபவிக்கும் போது வெளிநாட்டவர் ஒருவர் கீழே விழுந்ததில் காயம் அடைந்தார்.
+
+சற்று முன்னர் தாமரை கோபுரத்தில் பேஸ் ஜம்ப் போட்டியில் கலந்து கொண்ட வெளிநாட்டவர் ஒருவரே இவ்வாறு படுகாயமடைந்துள்ளார்.
+
+கோபுரத்தில் இருந்து குதித்த பின்னர் குறித்த வெளிநாட்டவர் தனது பரசூட்டை இயக்குவதில் தாமதித்ததாக சம்பவத்தைநேரில் பார்த்த ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/22934f7c.json)
+
+---
+
+### Putin's government in crisis
 
 *2024-05-13 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196574) · `si`
 
-රුසියාවේ නව ආරක්ෂක අමාත්‍යවරයා ලෙස 65 හැවිරිදි හිටපු උප අගමැති ඇන්ද්‍රෙයි බිලෝසොෆ් නම් කර තිබේ.
+Putin's government faces crisis with Washei Biltoff as new Defense Minister, replacing Surygi Shubev. Shubev's removal, reasons undisclosed, follows significant decisions like the Ukrainian invasion.
 
-ඒ 2012 වසරේ සිට රුසියානු ආරක්ෂක අමාත්‍ය ධුරයේ කටයුතු කළ පුටින්ගේ සමීපතමයෙකු ද වන සර්යෙගි ෂූලෝව් එම ධුරයෙන් ඉවත් කරමිනි.
+🟩
 
-ක්‍රිමියාව රුසියාව ඈඳාගැනීම, යුක්‍රේන ආක්‍රමණය වැනි ජාතික ආරක්ෂාව සම්බන්ධව වැදගත් තීන්දු ගෙන ඇත්තේ ෂූලෝව්ගේ ධුර කාලය තුළය.
+The 65-year-old former Deputy Prime Minister Washei Biltoff has been named as the new Defense Minister of Russia.
 
-68 හැවිරිදි ෂූලෝව් ධුරයෙන් ඉවත්කිරීමට නිශ්චිත හේතුවක් මෙතෙක් අනාවරණ වී නැහැ.
+Surygi Shubev, a close associate of Putin, who was the Russian defense minister from 2012 was removed from the post.
 
-කෙසේ නමුත් ආරක්ෂක ඇමති ධූරය ඔහුගෙන් ඉවත්කිරීමට ජනාධිපතිවරයා තීරණය කර ඇත්තේ, එම ඇමති ධුරය සිවිල් පුරවැසියෙකු වෙත ලබාදීමේ අවශ්‍යතාව මත බව ක්‍රෙම්ලින ප්‍රකාශකයෙක් පවසා තිබිණි.
+Crimea contacting Russia elastic decisions, such as Ukrainian invasion, have taken important decisions in Shulov's term.
 
-එහෙත් බොහෝ පාර්ශ්ව පෙන්වා දෙන්නේ මෙය පුටින් රජය තුළ පවතින අර්බුදවල ප්‍රතිඵලයක් ලෙසය.
+The reason for removing the 68-year-old shoolo has not yet been revealed.
+
+However, a spokesman for a Krembilin spokesman said that the post of defense minister has been removed from him.
+
+But many parties point out as a result of the crises of the Government of Putin.
 
 ◼️
 
 [Data](articles/53f7b133.json)
 
+[Extended Data](ext_articles/53f7b133.ext.json)
+
 ---
 
-### தொற்று நோயை காரணம் காட்டி கஞ்சி வழங்க தடையேற்படுத்தியது போல் வெசாக் பண்டிகை நிகழ்வுகளையும் தடுத்து நிறுத்துவார்களா? - அருட்தந்தை மா.சத்திவேல் கேள்வி
+### Would you stop the events of the Vesak festival, just as the porridge was disrupted due to the infection?- The Question of the Blessed
 
 *2024-05-13 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183395) · `ta`
 
-தொற்று நோய் அபாயத்தை காரணம் காட்டி கஞ்சி வழங்க தடையேற்படுத்திய பொலிஸார். அதேபோல் வெசாக் பண்டிகை நிகழ்வுகளையும் தடுத்து நிறுத்துவார்களா? என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் கேள்வி எழுப்பியுள்ளார்.
+The Vesak festival events are at risk due to police blocking porridge distribution to prevent infection spread. Aruttanda Ma Sathivel, a social justice activist, questions if the National Organization for the release of political prisoners should halt these events. The Sampur police have issued an injunction against sharing Mullivaikkal with salt porridge, fearing infection risks. This situation is likened to the challenges faced during the Corona period. The Tamil homeland commemorates the historical bargain and seeks justice for the unjustly killed and missing, using salt as a symbol of their voice for justice. The arrest of Tamil National People's Front (TNA) Assistant Secretary Harihara Kumar and female social activists, including a schoolgirl, is condemned. The Mullaitivu Police Station is urged to support the Mullivaikkal commemoration events, aiming to raise awareness among the international community.
 
-உப்பு கஞ்சி பகிர்வோடு முள்ளிவாய்க்கால் நினைவேந்தல் வாரம் ஆரம்பித்திருக்கையில் சம்பூர் பொலிஸார் கஞ்சி பகிருதலை தடுப்பதற்காக மூதூர் நீதிமன்றம் தடை உத்தரவை பெற்றிருப்பதோடு நிகழ்வு ஏற்பாட்டாளர்கள் என இதுவரை நால்வரை கைது செய்துள்ளதாக செய்திகள் வந்துள்ளன. மக்கள் ஒன்று கூடுதல் மூலம் தொற்றுநோய் பரவும் அபாயம் உள்ளது எனவும் காரணம் காட்டி உள்ளனர்.
+🟩
 
-இது கொரோனா காலத்தில் பயன்படுத்திய சொற் தொடராகும். அதனையே மீண்டும் நினைவேந்தலை தடுத்து நிறுத்தும் ஆயுதமாக கையில் எடுத்திருப்பதும் முள்ளி வாய்க்கால் நினைவேந்தலை தடுப்பதும் இறந்தவர்கள் மற்றும் கொல்லப்பட்டவர்களை நினைவு கூரும் அடிப்படை உரிமையை மறுக்கும் செயலாகும்.
+Police have blocked the supply of porridge due to the risk of infection. Do you stop the events of the Vesak festival?Aruttanda Ma Sathivel, an activist for social justice and a coordinator of the National Organization for the release of political prisoners.
+
+Sampur police have issued an injunction to prevent the sharing of Mullivaikkal with salt porridge partition.. People are also at risk of spreading the infection by additional.
+
+This is the term used by the Corona period. The same is true of the weapon that prevents the memorial and the prevention of the thorny mouth.
+
+Will the National Organization for the release of political prisoners for the release of this anarchy of the Sampur police stop and stop the events of the Vesak festival due to the risk of the same infection during the upcoming Vesak festival?Asks.
+
+While the chauvinist Sri Lankan government is carrying out the genocide in 2009, men and women, from adults to children, are fighting for life with blood and injuries.
 
 ...
 
 [Data](articles/11ed1629.json)
+
+[Extended Data](ext_articles/11ed1629.ext.json)
 
 ---
 
@@ -86,43 +118,57 @@ The injured foreigner was promptly taken to the General Hospital for treatment.
 
 [Data](articles/5590fe15.json)
 
+[Extended Data](ext_articles/5590fe15.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் பல்கலைக்கழக ஊழியர் சங்கம் போராட்டம்
+### University Employees Union struggle across the country
 
 *2024-05-13 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
 
-நாடளாவிய ரீதியில் அரச பல்கலைக்கழக ஊழியர் சங்கம் சம்பள உயர்வு கோரி இன்று திங்கட்கிழமை  (13) போராட்டத்தில் ஈடுபட்டனர்.
+State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்தில் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் மாணவர் ஒன்றியப் பிரதிநிதிகளின் பங்கேற்புடன் கவனயீர்ப்பு ஆர்ப்பாட்டமொன்று நடைபெற்றது.
+🟩
 
-இன்று திங்கட்கிழமை காலை 10 மணியளவில் யாழ் பல்கலைக்கழக நுழைவாயிலில் ஆர்ப்பாட்டம் நடைபெற்றது.
+The State University Employees Union held a protest on Monday (13) demanding a pay hike.
 
-வவுனியா பல்கலைக்கழக பூங்காவீதி அலுவலகத்தில் ஊடகங்களுக்கு கருத்து தெரிவித்ததன் பின்னர் அலுவலக வாயிலில் இருந்து ஆரம்பமான ஊர்வலம் ரயில் வீதியூடாக பழைய பஸ் நிலையம் வரை சென்று அங்கு கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
 
-இதன்போது MCA கொடுப்பனவை அதிகரி, அரசே 107 வீத சம்பள அதிகரிப்பை வழங்கு போன்ற வாசகங்கள் எழுதிய பதாதைகளை தாங்கிவாறு ஊர்வலத்தில் ஈடுபட்டனர்.
+The demonstration was held at the University of Jaffna at 10 am on Monday.
 
-இதன்போது வவுனியா பல்கலைக்கழக கல்விசார் ஊழியர் சங்கம் மற்றும் மாணவர் சங்கமும் ஆதரவு வழங்கியிருந்தது.
+After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
 
-கண்டி நகரில் இன்று முற்பகல் 11.30 மணிக்கு பல்கலைக்கழக கல்விசாரா ஊழியர்களால்  வேலைநிறுத்தப் போராட்டம் மேற்கொள்ளப்பட்டது.
+During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
+
+The Vavuniya University Educational Employees Union and the Student Association were supported.
+
+The strike was launched by university non -academic staff at 11.30 am in Kandy.
 
 ...
 
 [Data](articles/61ad6620.json)
 
+[Extended Data](ext_articles/61ad6620.ext.json)
+
 ---
 
-### දේවගැති ජෙරම් ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් නීතිපතිට නියෝගයක්
+### Supreme Court ordered at the Attorney General about the pastor Jerom
 
 *2024-05-13 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196573) · `si`
 
-දේවගැති ජෙරම් ප්‍රනාන්දු සම්බන්ධයෙන් සිදුකර තිබෙන විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරි සති දෙක තුළ ගොනුකිරීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (13) නීතිපතිවරයාට නියම කළේය.
+The Supreme Court, on the 13th, directed the Attorney General regarding Pastor Jerome Fernando's arrest. This action was taken following a fundamental claim filed under the Civil and Political Rights Act of Buddhism.
 
-බුදු දහම ඇතුළු අන්‍යාගම්වලට අපහාසාත්මක වන ප්‍රකාශයක් සිදුකිරීම සම්බන්ධයෙන් දේවගැති ජෙරම් ප්‍රනාන්දු අත්අඩංගුවට ගෙන සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ සම්මුති පනත යටතේ නඩු පවරන ලෙස නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සර්ව ආගමික නායකයින් විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවූ අවස්ථාවේ දී අග විනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+🟩
+
+The Supreme Court today (13th), the Supreme Court today (13), the Supreme Court today (13th), the Supreme Court today (13th) appointed the Attorney General.
+
+Pastole Jerome Fernando has been arrested by the Chief Justice Jayantha Jayasuriya, a fundamental claim filed by the Civil and Political Rights Act of Buddhism.Issued this order by a panel.
 
 ◼️
 
 [Data](articles/7521e2dc.json)
+
+[Extended Data](ext_articles/7521e2dc.ext.json)
 
 ---
 
@@ -800,21 +846,33 @@ The young man who was traveling on a motorcycle has been admitted to the Jaffna 
 
 ---
 
-### முள்ளிவாய்க்கால் கஞ்சி பகிர்ந்தோர் கைது
+### Mullivaikkal Kanji shared arrests
 
 *2024-05-13 10:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-கஞ்சி-பகிர்ந்தோர்-கைது/175-337221) · `ta`
 
-முள்ளிவாய்க்கால் படுகொலையை நினைவுகூர்ந்து முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் பல்கலைக்கழக மாணவி உட்பட நால்வர் கைது செய்யப்பட்டுள்ள சம்பவம்  நேற்று ஞாயிற்றுக்கிழமை இரவு   (12) திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் பதிவாகியுள்ளது.
+In the Senayoor area, three women and a man, including a university student, were arrested for participating in the Mullivaikkal Kanji event, which commemorates victims of a massacre. The event, despite a ban, proceeded, leading to the arrests. The detainees, including social activists and a former political member, are to be produced in court.
 
-இச்சம்பவத்தில் பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் கைது செய்யப்பட்டு சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் இன்றைய தினம் (13) மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாக தெரியவருகின்றது.
+The incident was reported in the Senayoor area of the Trincomalee Sampur police division last Sunday night (12) last night.
 
-சமூக செயற்பாட்டாளர் கமலேஸ்வரன் விஜிதா (வயது 40),  பல்கலைக்கழக மாணவி கமலேஸ்வரன் தேமிலா (வயது 22), சமூக செயற்பாட்டாளர் செல்வவினோத்குமார் சுஜானி (வயது 40), தமிழ் தேசிய மக்கள் முன்னணியின் முன்னாள் பிரதேச சபை முன்னாள் உறுப்பினர் நவரெட்ணராஜா ஹரிஹரகுமார் (வயது 43) ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Three women and a male, including a university student, have been arrested and detained at the Sampur police station.
 
-...
+The arrested persons are to be produced before the Muttur court today (13).
+
+Social activist Kamaleswaran Vijitha (age 40), university student Kamaleswaran Temila (age 22), social activist Selvinod Kumar Sujani (40) and former Tamil National People's Front member Naveratnaraja Hariharakumar (43) have been arrested.
+
+It is reported that her daughter, Temila, who was trying to prevent her, was now being treated at the hospital due to a knife injury.
+
+The Mullivaikkal Kanji event was held at the Senayoor Pillaiyar Temple on Sunday (12) to commemorate the massacred civilians at Mullivaikkal.
+
+It is reported that the Sampur police said that the Mullivaikkal porridge was carrying out an event, regardless of the ban.
+
+◼️
 
 [Data](articles/77444a91.json)
+
+[Extended Data](ext_articles/77444a91.ext.json)
 
 ---
 
@@ -2237,27 +2295,5 @@ Further investigations are being investigated by the Kilinochchi Police Special 
 [Data](articles/11f1b074.json)
 
 [Extended Data](ext_articles/11f1b074.ext.json)
-
----
-
-### Afghanistan floods devastate villages, killing 315
-
-*2024-05-13 01:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99170/afghanistan-floods-devastate-villages-killing-315) · `en`
-
-(Reuters) - Flash floods caused by heavy rains have devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday, as villagers buried their dead and aid agencies warned of widening havoc.
-
-Thousands of homes were damaged and livestock wiped out, the Taliban-run refugee ministry said, while aid groups warned of damage to health care facilities and vital infrastructure, such as water supply, with streets left coated in mud.
-
-In the Nahrin district of Baghlan province, people carried their shrouded dead to a gravesite.
-
-“We have no food, no drinking water, no shelter, no blankets, nothing at all, floods have destroyed everything,” said Muhammad Yahqoob, who has lost 13 members of his family, children among them.
-
-“Out of 42 houses, only two or three remain, it has destroyed the entire valley.”
-
-...
-
-[Data](articles/f2d885f5.json)
-
-[Extended Data](ext_articles/f2d885f5.ext.json)
 
 ---

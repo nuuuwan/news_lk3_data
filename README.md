@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 03:33:40**
+As of **2024-05-14 03:51:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,814 (100.0%) of 23,815 articles have been extended.
+23,815 (100.0%) of 23,815 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,31 @@ A girl tenderly shields a disabled elder from heavy rain at the Colombo Fort Rai
 
 ---
 
-### மஹிந்த பக்கமா ரணில் பக்கமா?
+### Mahinda Page Ranil side?
 
 *2024-05-14 00:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-பக்கமா-ரணில்-பக்கமா/175-337268) · `ta`
 
-அரச நிறுவனங்களை தனியார் மயப்படுத்தும் செயற்பாட்டை இடைநிறுத்துங்கள் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஸ விடுத்துள்ள கோரிக்கையை ஏற்பீர்களா அல்லது மறுசீரமைப்புக்களை தொடர்வீர்களா ?நீங்கள் மஹிந்த பக்கமா அல்லது ரணில் பக்கமா என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல  எம்.பி.மின்சக்தி  அமைச்சர் காஞ்சன விஜேசேகரவிடம் கேள்வி எழுப்பினார்.
+Lakshman Kiriella MP questioned opposition leader Kanjana Wijesekera on compliance with Mahinda Rajapaksa's demands, including suspending state institution proceedings and rehabilitating the Electricity Board. Wijesekera did not address Rajapaksa's reorganization. Kiriella urged not to privatize state institutions and to suspend proceedings, aligning with Rajapaksa's stance.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13)  விசேட கூற்றை முன்வைத்த   எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி.,
+🟩
 
-அரச நிறுவனங்களை தனியார் மயப்படுத்தல்,மறுசீரமைத்தல்  என்பதற்காக முன்னெடுத்துள்ள நடவடிக்கைகளை முழுமையாக இடைநிறுத்துமாறு முன்னாள் ஜனாதிபதி மஹிந்தராஜபக்ஸ விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.அத்துடன் இந்த நடவடிக்கைகளை  தொடருவதா இல்லையா என்பதனை அடுத்த அரசாங்கம் தீர்மானிக்கட்டும் என்வும் அவர்   குறிப்பிட்டுள்ளார்.
+Lakshman Kiriella MP Minsakthi MP MP Kanjana Wijesekera, the chief minister of the opposition parties, has been asked whether you will comply with the demands of former President Mahinda Rajapakse or will be rehabilitated?
 
-மின்சார சபையை மறுசீரமைப்பதற்கான நடவடிக்கைகள்  தற்போது முன்னெடுக்கப்பட்டுள்ளன.ஆகவே மின்சக்தி அமைச்சர் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஸவின்  ஆலோசனைக்கு அமைய செயற்படுவாரா ?அல்லது மறுசீரமைப்புக்களை தொடருவாரா எனக்கேள்வி எழுப்பினார்.
+Lakshman Kiriella MP, who presented a special claim in Parliament on Monday (13).
+
+Former President Mahinda Rajapaksa has issued a special statement to completely suspend the proceedings of state institutions and the next government will decide whether or not to continue these measures.
+
+Steps have been taken to rehabilitate the Electricity Board.
+
+Responding to this, Power and Power Minister Kanjana Wijesekera did not refer to the reorganization of former President Mahinda Rajapaksa.
+
+Lakshman Kiriella MP, who was raised again, should not answer all the questions. In a statement issued by former President Mahinda Rajapaksa, he said, "Do not privatize state institutions, suspend the proceedings and carry out work with the new people."
 
 ...
 
 [Data](articles/e09d059a.json)
+
+[Extended Data](ext_articles/e09d059a.ext.json)
 
 ---
 

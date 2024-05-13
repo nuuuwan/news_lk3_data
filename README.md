@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 19:18:24**
+As of **2024-05-13 19:33:48**
 
 ## Newspaper Stats
 
-*Scraped **23,745** Articles*
+*Scraped **23,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,773
 tamilmirrorlk | 2,782
 virakesarilk | 3,539
 dailymirrorlk | 3,735
-adaderanasinhalalk | 3,808
+adaderanasinhalalk | 3,809
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,745 (100.0%) of 23,745 articles have been extended.
+23,745 (100.0%) of 23,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### සුසිත්ගේ ඝාතනයට ඇල්ලූ පෙම්වතිය ඇතුළු 9කට අධිකරණය දුන් නියෝගය
+
+*2024-05-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196586) · `si`
+
+කුලියාපිටිය ප්‍රදේශයේ තරුණයෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළව සැකපිට අත්අඩංගුවට ගත් ඔහුගේ පෙම්වතිය ඇතුළු සැකකරුවන් 9 දෙනා එළැඹෙන 27 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+එම සැකකරුවන් කුලියාපිටිය මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+කුලියාපිටිය, කබලෑව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි සුසිත ජයවංශ යන අය පසුගිය අප්‍රේල් 22 වනදා සිට අතුරුදන්ව සිටි අතර දැඩි ලෙස පිළිස්සී තිබූ ඔහුගේ මළ සිරුර මාදම්පේ ප්‍රදේශයේ කැලෑබද ස්ථානයකින් පසුගිය 7වැනිදා සොයාගෙන තිබුණි.
+
+සිද්ධියෙන් පසුව අදාළ තරුණයාගේ පෙම්වතිය බව කියන 18 හැවිරිදි තරුණිය සහ ඇයගේ පවුලේ සාමාජිකයින් මෙන්ම ඥාතීන් කිහිපදෙනෙකුද අතුරුදන්ව සිටි අතර පසුව ඇයගේ පියා සහ මව ඇතුළු සැකකරුවන් අටදෙනෙකු මීට පෙර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+18 හැවිරිදි තරුණිය ඊයේ කුලියාපිටිය පොලිස් ස්ථානයට කැඳවා ප්‍රකාශයක් ලබාගැනිමෙන් පසු අත්අඩංගුවට ගෙන තිබූ බව සඳහන්ය.
+
+...
+
+[Data](articles/cc4933b8.json)
+
+---
 
 ### Bikers arrested for street racing on Galle Road fined, licenses suspended
 
@@ -2261,31 +2281,5 @@ Mahinda Rajapakse issued a statement that the recommendation came amid increasin
 [Data](articles/4c7e2d5d.json)
 
 [Extended Data](ext_articles/4c7e2d5d.ext.json)
-
----
-
-### 41 Blood Dansala
-
-*2024-05-13 10:58:43* · [`adalk`](https://www.ada.lk/breaking_news/41වසරක්-පුරා-දුන්-ලේ-දන්සැල/11-409587) · `si`
-
-The Arachchikattiya Sri Jayathiraniya Sri Jayathimarama Vidyalaya hosted a significant event, the 41st Blood Dansala, with 113 donors participating. The event included a Bodhi Pooja ceremony and the Karukkuliya Jayathilama Subscriptioning Program, attended by various dignitaries and a large crowd.
-
-🟩
-
-The Arachchikattiya Sri Jayathiraniya Sri Jayathimarama Vidyalaya has organized a papatory contributor to the 41th this year.
-
-113 donors have been requested for the vehicles. The Lord was a 40-month-old name.
-
-The Bodhi Pooja held a bodhi tree promoted to the area.
-
-The Karukkuliya Jayathilama Subscriptioning Program was organized by the Karukkuliya Jayathankulamarashaya of Meetanankulamaya Ven.
-
-Chilaw Padavi Radagasiri Radagasiri Jayasuriya, Assistant Regulatory Registrar Assistant Arachchikattuwa, Assistant Registrar Assistant Authority, Ven. M. P. Mr. Herath, Arachchikattuwa Divisional Secretary T. it. K. Mrs. Chandrika, including a large number of people attended. (Ij)
-
-◼️
-
-[Data](articles/68e35868.json)
-
-[Extended Data](ext_articles/68e35868.ext.json)
 
 ---

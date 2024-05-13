@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 20:18:20**
+As of **2024-05-13 20:33:57**
 
 ## Newspaper Stats
 
-*Scraped **23,754** Articles*
+*Scraped **23,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,362
 dailyftlk | 1,374
-adalk | 2,027
+adalk | 2,028
 adaderanalk | 2,773
 tamilmirrorlk | 2,783
-virakesarilk | 3,539
+virakesarilk | 3,545
 dailymirrorlk | 3,735
 adaderanasinhalalk | 3,809
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,753 (100.0%) of 23,754 articles have been extended.
+23,754 (100.0%) of 23,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### ලෝක කුසලානයට යන ක්‍රිකට් කණ්ඩායමට ජනපතිගෙන් සුබපැතුම්
+
+*2024-05-13 20:05:00* · [`adalk`](https://www.ada.lk/sports/ලෝක-කුසලානයට-යන-ක්‍රිකට්-කණ්ඩායමට-ජනපතිගෙන්-සුබපැතුම්/9-409616) · `si`
+
+ජුනි 01 වනදා සිට ජූනි 29 වනදා දක්වා ඇමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිත පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගිවීමට දිවයිනෙන් පිටත්ව යන ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+
+වනිදු හසරංගගේ නායකත්වයෙන් යුත් ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම හෙට (14) උදෑසන දිවයිනෙන් පිටත්ව යාමට නියමිතය.
+
+ක්‍රීඩකයන් දිරිමත් කරමින් ඔවුන් සමඟ සුහද කතා බහක නිරත වූ ජනාධිපතිවරයා රට වෙනුවෙන් විශිෂ්ට ජයග්‍රහණයක් අත්කර ගැනීමට සිය සුබපැතුම් ද පිරිනැමීය.
+
+මේ අතර ශ්‍රී ලංකාවේ පැවැති පළමු කොටසේ ආසියාතික රග්බි ශූරතාවලිය ජයග්‍රහණය කළ ශ්‍රී ලංකා රග්බි කණ්ඩායමද අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+
+වසර ගණනාවකට පසු රග්බි ක්‍රීඩාව තුළ අත්කරගත් මෙම විශිෂ්ට ජයග්‍රහණය රටට මහත් ආඩම්බරයක් බව පැවසු ජනාධිපතිවරයා ක්‍රීඩකයන්ගේ දක්ෂතා අගයමින් ඔවුන් වෙත ද සිය සුබපැතුම් පිරිනැමීය.
+
+...
+
+[Data](articles/c4860c2b.json)
+
+---
+
+### ஓய்வுபெற்ற கொழும்பு பேராயர் மேரியஸ் பீரிஸ் காலமானார்
+
+*2024-05-13 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183446) · `ta`
+
+தனது 83 வயதில் ஓய்வுபெற்ற கொழும்பு பேராயர் மரியஸ் பீரிஸ் 13 ஆம் திகதி திங்கட்கிழமை காலமானதாக அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b08c48fd.json)
+
+---
 
 ### Sri Lanka IORA Business Conclave to explore untapped markets
 
@@ -78,6 +110,24 @@ Another space rock is approximately 72 lakh km from Earth, while traveling at a 
 
 ---
 
+### கிணற்றுக்குள் இருந்து ஆண் ஒருவரின் சடலம் மீட்பு!
+
+*2024-05-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183443) · `ta`
+
+வடமராட்சி கிழக்கு கேவில் கடற்கரை பகுதியில் கிணற்றுக்குள் இருந்து திங்கட்கிழமை (13) ஆண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+
+கரைவலை வாடி ஒன்றில் தங்கி நின்று மீன்பிடியில் ஈடுபட்டுவந்த குறித்த நபர் திடீரென அப்பகுதியிலிருந்து காணாமல் போனதை அறிந்த மீனவர்கள் தேடுதல் நடத்தினர்.
+
+இதன் போது குறித்த குடும்பஸ்தர் அருகிலிருந்த கிணற்றுக்குள் சடலமாகக் காணப்பட்டதை அறிந்து அதிர்ச்சியடைந்த அயலவர்கள் சம்பவம் தொடர்பாக மருதங்கேணி பொலிசாருக்கு தெரியப்படுத்தினர்.
+
+சம்பவ இடத்திற்கு வருகை சென்ற பொலிசார் சடலத்தை மீட்டு விசாரணை மேற்கொண்டுவருவதுடன் சடலமாக மீட்கப்பட்ட நபர் மனோராசன் உடப்பு புத்தளம் பகுதியை சேர்ந்தவரென அடையாளம் காணப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fa8ea8e3.json)
+
+---
+
 ### Court orders Court for nine including girlfriend, who was arrested for murder of Susath's murder
 
 *2024-05-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196586) · `si`
@@ -108,19 +158,29 @@ However, the suspect arrested on charges of murder of human murder and arrested 
 
 ---
 
-### ලැගුම්හලක සිටි යුවළකින් අල්ලස් ගත් පොලීසියේ දෙදෙනෙකුගේ වැඩ තහනම්
+### Two policemen suspended from a couple in a lodge
 
 *2024-05-13 18:57:20* · [`adalk`](https://www.ada.lk/breaking_news/ලැගුම්හලක-සිටි-යුවළකින්-අල්ලස්-ගත්-පොලීසියේ-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-409608) · `si`
 
-යුක්තිය මෙහෙයුමට අදාළව  විශේෂ රාජකාරී සඳහා යොදවා සිටියදී ලැගුම්හලක සිටි යුවළකගෙන්  අල්ලස් මුදල් ලබා ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගත්  පොලිස් නිලධාරීන් දෙදෙනාගේ  රාජකාරි වැඩ තහනමට ලක් කළ බව පොලිස් මූලස්ථානය කියයි.
+Two policemen were suspended after an incident at a lodge, where they were attacked by an amateur police constable. The officers were investigating a receipt issue during their duty hours. The SSP and Deputy Director of the Sri Lanka Police ordered their suspension.
 
-මෙලෙස වැඩ තහනමට ලක්කර ඇත්තේ කොට්ටාව පොලිස් ස්ථානයට අනුයුක්තව 118-119 යතුරුපැදී රාජකාරී නිරතව සිටි පොලිස් සැරයන් 65073 වසන්ත කුමාර හාකළුතර පොලිස් අභ්‍යාස විද්‍යාලයට අනුයුක්තව විශේෂ රාජකාරි  වාර්තා කර සිටි ආධුනික  පොලිස් කොස්තාපල් 105166 ඩබ්ලිව් ඒ  ප්‍රසාන් යන නිලධාරීන් දෙදෙනාගේය.
+🟩
 
-මෙම නිලධාරීන් දෙදෙනා ඉකුත් අටවෙනි දින  පැය 0600 සිට 1800 දක්වා යතුරුපැදි රාජකාරී යෙදී සිටියදී පිළියන්දල සුවාරපොළ  ප්‍රදේශයේ ලැගුම්හලක යුවළක් අයිස් මද්දයිව සන්තකයේ තබාගෙන සිටින බවට ලද තොරතුරක්  පරීක්ෂා කිරීමට ගොස් ඇති අතර එහිදී එම යුවල සන්තකයේ අයිස් මත්ද්‍රව්‍ය  කිසියම් ප්‍රමාණයක් හමුවී තිබි ඇත.
+Police headquarters said that the duties of the two policemen who were arrested in a lodge in a lodge were arrested on a lodge in the operation of justice were suspended.
 
-...
+The suspects were attacked by the 65073 amateur police constable attached to the Kottawa Police Training College, attached to the Kottawa Police Training College.
+
+The two officers had gone to examine a receipt of a lodge in the Iight of the Ice, while two days were duties from 600 to 1800 hours.
+
+The remaining Rs.
+
+Due to the property, the two officials were banned by the SSP and Deputy Director of Sri Lanka Police (Deputy Director) of the Kalutara Police Station (Deputy Director) of the Sri Lanka Police (Deputy Director)
+
+◼️
 
 [Data](articles/a2f0e898.json)
+
+[Extended Data](ext_articles/a2f0e898.ext.json)
 
 ---
 
@@ -354,6 +414,24 @@ Police investigations revealed that the suspect and the victim were introduced d
 
 ---
 
+### மின்சார சபையை மறுசீரமைக்கும் பணிகள் தொடரும் - மின்சாரத்துறை அமைச்சர்
+
+*2024-05-13 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183410) · `ta`
+
+அரச நிறுவனங்களை தனியார் மயப்படுத்தும் செயற்பாட்டை இடைநிறுத்துங்கள் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ விடுத்துள்ள கோரிக்கைக்கு அமைய செயற்படுவீர்களா ?அல்லது மறுசீரமைப்புக்களை தொடர்வீர்களா என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல  மின்சாரத்துறை அமைச்சரிடம் கேள்வியெழுப்பினார்.
+
+மின்சார சபையை தனியார் மயப்படுத்தும் நோக்கம் அரசாங்கத்துக்கு கிடையாது.ஆகவே மின்சார சபையை மறுசீரமைக்கும் பணிகள் தொடரும் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர பதிலளித்தார்.
+
+பாராளுமன்றத்தில்  திங்கட்கிழமை (13) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல,
+
+அரச நிறுவனங்களை தனியார் மயப்படுத்தல்,மறுசீரமைத்தல்  என்பதற்காக முன்னெடுத்துள்ள நடவடிக்கைகளை முழுமையாக இடைநிறுத்துமாறு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.அத்துடன் இந்த நடவடிக்கைகளை அடுத்த அரசாங்கத்துக்கு பொறுப்பாக்குமாறும் அவர் அரசாங்கத்திடம் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/9db93cc6.json)
+
+---
+
 ### The first look of actor Ashwin Babu starring 'Sivam Baje'
 
 *2024-05-13 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183411) · `ta`
@@ -401,6 +479,24 @@ And the world will be branded as a world of people as a man and a person who doe
 [Data](articles/52c0a427.json)
 
 [Extended Data](ext_articles/52c0a427.ext.json)
+
+---
+
+### சகல வசதிகளுடன் ரஷ்யாவில் தொழில் வாய்ப்புகள் : முக புத்தக விளம்பரங்களுக்கு ஏமாற வேண்டாம் - பாதுகாப்பு அமைச்சு
+
+*2024-05-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183413) · `ta`
+
+முக புத்தகத்தை நம்பி ஏமாற்றமடையும் தரப்பினர் இன்றும் உள்ளார்கள். ரஷ்யாவில் தொழில் வாய்ப்புக்களை பெற்றுக்கொள்வதாக குறிப்பிட்டுக் கொண்டு ஒரு தரப்பினரால் முன்னெடுக்கப்படும் மோசடிகளுக்கு அகப்பட வேண்டாம் என மக்களிடம் கேட்டுக் கொள்கிறேன்.
+
+ரஷ்ய யுத்தக் களத்தில் உயிரிழந்த இலங்கையர்களின் உடல்கள் அடையாளப்படுத்தப்பட்டுள்ளன. மிகுதியாக உள்ளவர்களை நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில் பேச்சுவார்த்தைகளை  முன்னெடுத்துள்ளோம் என பாதுகாப்பு  இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை இடம்பெற்ற அமர்வின் போது ரஷ்ய யுத்தகளத்தில் நெருக்கடிக்குள்ளாகியுள்ள இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ரஷ்ய யுத்தகளத்துக்கு சென்றுள்ள இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் குறிப்பிட்ட ஒருசில விடயங்களை திருத்திக் கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/7ee9a025.json)
 
 ---
 
@@ -477,6 +573,30 @@ The victim was taken to Kamburugamuwa railway station and the police are conduct
 [Data](articles/5d01cf44.json)
 
 [Extended Data](ext_articles/5d01cf44.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில், அமைச்சர் ஜீவன் இந்தோனேஷியா பயணம்
+
+*2024-05-13 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183429) · `ta`
+
+இந்தோனேஷியாவின் பாலி நகரில் இடம்பெறவுள்ள சர்வதேச நீர் மாநாட்டில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணைந்து நானும் பங்கேற்கவுள்ளேன்.
+
+இந்த மாநாட்டில் இலங்கையின் நீர் வழங்கல் கட்டமைப்பு தொடர்பில் விசேட உரை நிகழ்த்தப்படவுள்ளதாக நீர் வழங்கல் வடிகாலமைப்பு அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (13) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+எதிர்வரும் 18ஆம் திகதி முதல் 25ஆம் திகதி வரை இம்மாநாடு இந்தோனேஷியாவில் இடம்பெறவுள்ளது. இதில் பங்குபற்றுவதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, நான் உட்பட முக்கியஸ்தர்கள் இந்தோனேஷியா செல்லவுள்ளோம்.
+
+இம்மாநாட்டில் நீழ் வழங்கல் கட்டமைப்பில் இலங்கையின் நிதி நிலைபேண்தகு தன்மை தொடர்பில் தெளிவுபடுத்தப்படவுள்ளது.
+
+தற்போது 3.196 மில்லியன் மக்களுக்கு நீழ் வழங்கல் வடிகாலமைப்பு சபை நீர் வழங்குகிறது. இவர்கள் நீருக்கான கட்டணத்தையும் செலுத்துகின்றனர்.
+
+எனினும் கிராம மட்டத்திலுள்ள மக்களுக்கு எமது அமைச்சின் கீழுள்ள திணைக்களத்தின் ஊடாகவே நீர் விநியோகிக்கப்படுகிறது.
+
+...
+
+[Data](articles/727db1c9.json)
 
 ---
 
@@ -765,6 +885,28 @@ Thondaman, who has been critical on RPCs over their resistance in paying the lat
 [Data](articles/2cacffcb.json)
 
 [Extended Data](ext_articles/2cacffcb.ext.json)
+
+---
+
+### இலங்கையர்களை ரஷ்ய யுத்த களத்துக்கு அனுப்பும் மோசடியில் முன்னாள் தூதுவரா ? - காமினி வலேபொட கேள்வி
+
+*2024-05-13 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183402) · `ta`
+
+ரஷ்ய யுத்த களத்துக்கு இலங்கையர்களை சட்டவிரோதமான முறையில் அனுப்பும் மோசடியின் பின்னணியில் ரஷ்யாவுக்கான  முன்னாள் இலங்கை தூதுவர் தொடர்புப்பட்டுள்ளாரா என்ற சந்தேகம் எழுகிறது.
+
+ரஷ்ய யுத்த களத்தில் 74 இலங்கையர்கள் உயிரிழந்துள்ளனர். ஆகவே இவ்விடயம் தொடர்பில் உடன் விசாரணைகளை மேற்கொள்ள வேண்டும் என எதிரணியின் சுயாதீன உறுப்பினர் காமினி வலேபொட சபையில் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (12) இடம்பெற்ற அமர்வில் விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ரஷ்யாவில்  தொழில் வாய்ப்புக்களை பெற்றுத் தருவதாக குறிப்பிட்டு ஓய்வு பெற்ற இராணுவத்தினரை ரஷ்ய இராணுவத்தில் இணைக்கும் மோசடிகள் தற்போது தீவிரமடைந்துள்ளன.
+
+ரஷ்ய யுத்தக் களத்தில் பாதிக்கப்பட்டுள்ள இலங்கையர்கள் எம்மை தொடர்புக் கொண்டு அழுது புலம்புகிறார்கள்.யுத்தக் களத்துக்கு செல்வதை தாங்கள் அறியவில்லை என்று குறிப்பிடுகிறார்கள்.
+
+ரஷ்ய யுத்தக் களத்தில் காயமடைந்துள்ள இலங்கையர்களுக்கு முறையான சிகிச்சை வழங்கப்படுவதில்லை.14 நாட்களாக ஒரே ஆடையுடன் அவர்கள் யுத்தகளத்தில் இருப்பதாக அறிய முடிகிறது.
+
+...
+
+[Data](articles/080bd182.json)
 
 ---
 
@@ -2129,167 +2271,5 @@ The service, which was scheduled to restart from May 13, has now been postponed 
 [Data](articles/b3d9dfd2.json)
 
 [Extended Data](ext_articles/b3d9dfd2.ext.json)
-
----
-
-### The robber arrested for intimidation of three-wheeler drivers
-
-*2024-05-13 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196570) · `si`
-
-A 25-year-old suspect from Ratmalana, arrested in Angulana, is accused of robbing and intimidating three-wheeler drivers under false pretenses. The suspect, targeted in a raid by the South District Criminal Division, was found with two stolen two-wheelers, two mobile phones, and cash. Further investigations are ongoing by the Mount Lavinia Police.
-
-🟩
-
-A person has been arrested in the Angulana area and intimidated the robberies and intimidate the drivers by the pretext of rental.
-
-The suspect was arrested in a raid conducted on information received by the South District Criminal Division of the Western Provincial Criminal Division.
-
-Initial investigations have revealed that the suspect had conducted two-wheelers, two mobile phones and two cash plundering.
-
-The suspect is a 25 year old resident of Ratmalana and Mount Lavinia Police are conducting further investigations.
-
-◼️
-
-[Data](articles/aa232a05.json)
-
-[Extended Data](ext_articles/aa232a05.ext.json)
-
----
-
-### Toddler dies after choking on piece of carrot
-
-*2024-05-13 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99180/toddler-dies-after-choking-on-piece-of-carrot) · `en`
-
-A tragic incident where a toddler had died after choking on a piece of carrot has been reported from the Saliyawewa area.
-
-The deceased, Saveen Dulsanda, is a one-and-half-year-old boy, Ada Derana reporter said.
-
-The incident has taken place while the child’s mother was cooking, and his four-year-old sister, unaware of the potential danger, had fed him a piece of carrot.
-
-Unfortunately, the piece of carrot had become lodged in the child’s throat, and despite attempts by the parents to remove it they had been unsuccessful.
-
-Subsequently, the child was immediately rushed to the Nochchiyagama Hospital via an ambulance. However, despite continuous efforts to save him, the child had passed away while being transferred to Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/b1195b24.json)
-
-[Extended Data](ext_articles/b1195b24.ext.json)
-
----
-
-### '10 crores of rupees amber rescue'
-
-*2024-05-13 11:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-அம்பர்-மீட்பு/175-337227) · `ta`
-
-On Sunday, five people were arrested in Kalpitiya for allegedly hiding and planning to sell Amber, a whale vomit worth about Rs 10 crore, found floating in the sea. The Criminal Investigation Division acted on confidential information. The suspects, including four who retrieved the Amber and the house owner, are in police custody for further legal proceedings.
-
-🟩
-
-The incident took place on Sunday (12) that five persons were arrested on suspicion of confiscation of Amber (whale's vomiting) worth about Rs 10 crore as he was buried in a house in Kalpitiya, Kandallai area.
-
-The Criminal Investigation Division (CID) officials have taken action on the basis of confidential information received by the Wannathilu Police Special Division.
-
-It has been revealed that the confiscated Amber, which was floating in the sea, was rescued by the fishermen and brought it into a boat and buried in the land in a secret to sell it.
-
-Meanwhile, five persons have been arrested, along with four suspects suspected of bringing the Ambara out of sea, and the owner of the house, which was hiding it.
-
-The suspects have been handed over to the Kalpitiya Police for further legal action and Amber, which was seized, is to be presented to court.
-
-◼️
-
-[Data](articles/b6db3ff0.json)
-
-[Extended Data](ext_articles/b6db3ff0.ext.json)
-
----
-
-### Yall. One arrested with ammunition
-
-*2024-05-13 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183385) · `ta`
-
-A man was arrested for possessing about 3 kg of ammunition found at Jaffna Chatti beach. Special Action Soldiers recovered the ammunition, which includes 12 motor overlaps, and handed them over to the Kayts police for further action.
-
-🟩
-
-About 03 kg of ammunition, including the Jaffna Chatti beach, has been recovered and a man has been arrested on charges of possessing them.
-
-Special Action Soldiers rushed to the scene on Sunday (12) on Sunday (12) that there are ammunition on the Chatti Beach area of the Kayts police division.. Motor overlaps 12 have been recovered.
-
-The recovered explosives and the arrested person have been handed over to the Kayts police for further legal action.
-
-◼️
-
-[Data](articles/26c58590.json)
-
-[Extended Data](ext_articles/26c58590.ext.json)
-
----
-
-### Mullivaikkal ban on the spread of the diseaseAmbika Sakthunanathan
-
-*2024-05-13 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183387) · `ta`
-
-Ambika Chakkunanathan, former Human Rights Commissioner of Sri Lanka, questioned the police's decision to prevent the Vesak Tanchals, citing the same reasons used to restrict Mullivaikkal commemorations. He criticized the arrests of Tamils for exchanging porridge, the only food they received during the final war, and the government's role in preventing history. Chakkunanathan also questioned the police's selective enforcement, comparing it to the potential banning of May Day meetings and election rallies, and suggested that the Tamil community is seeking a truth and goodwill commission in Geneva to address these issues.
-
-🟩
-
-Former Commissioner of Human Rights Commission of Sri Lanka Ambika Chakkunanathan has questioned whether the Sri Lankan police would prevent the Vesak Tanchals for the same reason, who prevented the supply of Mullivaikkal to the same reason.
-
-He said that Tamils are arrested for exchanging porridge (the only food they got during the final war) were prevented from commemorating the people killed in the final moments of the war.
-
-He also stated that the purpose of preventing history is to destroy history and the government is not responsible for the deaths of the public.
-
-The former Commissioner of the Human Rights Commission, who pointed out that the order was issued by the court order that the disease was issued because of the spread of food by gathering people, questioned why the police did not ask the courts to ban the May Day meetings.
-
-...
-
-[Data](articles/074b697f.json)
-
-[Extended Data](ext_articles/074b697f.ext.json)
-
----
-
-### Health trade unions launch strike at Central Province hospitals
-
-*2024-05-13 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99179/health-trade-unions-launch-strike-at-central-province-hospitals) · `en`
-
-A collective health sector trade unions have launched a token strike at all hospitals in the Central Province today (13) over their demands including an increase in allowances.
-
-Accordingly, the Co-Convenor of the Health Trade Union Alliance Ravi Kumudesh stated the strike will be expanded to other provinces as well starting from May 22, if their demands are not met.
-
-Commenting in this regard, the Director General of Trade Unions to the President, Saman Rathnapriya expressed that the primary concern with regard to this issue has been addressed, while affirming the decision to allocate the allowance in question. Additionally, he noted that the relevant circular has already been issued.
-
-“However, a small section [of health workers] have not received this allowance. We have requested the Health Minister to submit a cabinet paper requesting the allocation of the allowance for them. I think he is working on it”, he said.
-
-...
-
-[Data](articles/08e7953e.json)
-
-[Extended Data](ext_articles/08e7953e.ext.json)
-
----
-
-### Floods kill 37 in Indonesia’s West Sumatra
-
-*2024-05-13 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-kill-37-in-Indonesias-West-Sumatra/108-282479) · `en`
-
-TANAH DATAR, May 13 (Reuters) - Flash floods and mud slides in Indonesia's West Sumatra province killed at least 37 people this weekend while the search for 17 missing people is still ongoing, authorities said on Monday.
-
-Torrential rain on Saturday evening caused flash floods, landslides, and cold lava flow, which is a mixture of volcanic ash, rock debris and water that flows like mud, in three districts in West Sumatra province, Abdul Malik, the chief of the provincial rescue team told Reuters.
-
-The cold lava flow, known in Indonesia as a lahar, came from Mount Marapi, one of Sumatra's most active volcanoes.
-
-In December, more than 20 people were killed after Marapi erupted. A series of eruptions followed afterwards.
-
-"The heavy rain swept materials such as ash and large rocks from the Marapi volcano," said Abdul Malik.
-
-"Cold lava flow and flash floods have always been threats to us recently. But the problem is, it always happens late at night until dawn," he added.
-
-...
-
-[Data](articles/f005731a.json)
-
-[Extended Data](ext_articles/f005731a.ext.json)
 
 ---

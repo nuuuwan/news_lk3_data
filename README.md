@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 20:33:57**
+As of **2024-05-13 20:52:43**
 
 ## Newspaper Stats
 
-*Scraped **23,761** Articles*
+*Scraped **23,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,96 @@ adalk | 2,028
 adaderanalk | 2,773
 tamilmirrorlk | 2,783
 virakesarilk | 3,545
-dailymirrorlk | 3,735
-adaderanasinhalalk | 3,809
+dailymirrorlk | 3,736
+adaderanasinhalalk | 3,811
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,754 (100.0%) of 23,761 articles have been extended.
+23,761 (100.0%) of 23,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### ලෝක කුසලානයට යන ක්‍රිකට් කණ්ඩායමට ජනපතිගෙන් සුබපැතුම්
+### T20 ලෝක කුසලානයට යන අපේ කණ්ඩායම ජනපති හමුවෙයි
 
-*2024-05-13 20:05:00* · [`adalk`](https://www.ada.lk/sports/ලෝක-කුසලානයට-යන-ක්‍රිකට්-කණ්ඩායමට-ජනපතිගෙන්-සුබපැතුම්/9-409616) · `si`
+*2024-05-13 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196588) · `si`
 
-ජුනි 01 වනදා සිට ජූනි 29 වනදා දක්වා ඇමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිත පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගිවීමට දිවයිනෙන් පිටත්ව යන ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගිවීමට දිවයිනෙන් පිටත්ව යන ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
 
-වනිදු හසරංගගේ නායකත්වයෙන් යුත් ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම හෙට (14) උදෑසන දිවයිනෙන් පිටත්ව යාමට නියමිතය.
+වනිඳු හසරංගගේ නායකත්වයෙන් යුත් ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම හෙට (14) උදෑසන දිවයිනෙන් පිටත්ව යාමට නියමිතය.
 
-ක්‍රීඩකයන් දිරිමත් කරමින් ඔවුන් සමඟ සුහද කතා බහක නිරත වූ ජනාධිපතිවරයා රට වෙනුවෙන් විශිෂ්ට ජයග්‍රහණයක් අත්කර ගැනීමට සිය සුබපැතුම් ද පිරිනැමීය.
+ක්‍රීඩකයන් දිරිමත් කරමින් ඔවුන් සමඟ සුහද කතා බහක නිරත වූ ජනාධිපතිවරයා රට වෙනුවෙන් විශිෂ්ට ජයග්‍රහණයක් අත්කරගැනීමට සිය සුබපැතුම් ද පිරිනැමීය.
 
-මේ අතර ශ්‍රී ලංකාවේ පැවැති පළමු කොටසේ ආසියාතික රග්බි ශූරතාවලිය ජයග්‍රහණය කළ ශ්‍රී ලංකා රග්බි කණ්ඩායමද අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට ජූනි 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව්හිදී පැවැත්වීමට නියමිය.
 
-වසර ගණනාවකට පසු රග්බි ක්‍රීඩාව තුළ අත්කරගත් මෙම විශිෂ්ට ජයග්‍රහණය රටට මහත් ආඩම්බරයක් බව පැවසු ජනාධිපතිවරයා ක්‍රීඩකයන්ගේ දක්ෂතා අගයමින් ඔවුන් වෙත ද සිය සුබපැතුම් පිරිනැමීය.
+◼️
 
-...
-
-[Data](articles/c4860c2b.json)
+[Data](articles/3b1c2edf.json)
 
 ---
 
-### ஓய்வுபெற்ற கொழும்பு பேராயர் மேரியஸ் பீரிஸ் காலமானார்
+### ඩොනල්ඩ් ලූ සහ ජනපති අතර හමුවක්
+
+*2024-05-13 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196587) · `si`
+
+අමෙරිකා එක්සත් ජනපද රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ කාර්යාංශයේ සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී තිබේ.
+
+ඩොනල්ඩ් ලූ මහතා ශ්‍රී ලංකාවේ ආර්ථිකය යථා තත්ත්වයට පත්වීම පිළිබඳව සාකච්ඡා කිරීම සඳහා එලෙස අද (13) ජනාධිපති කාර්යාලයේදී ජනාධිපතිවරයාව හමුවිය.
+
+මෙහිදී ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ වැඩපිළිවෙල වෙනුවෙන් ජනාධිපතිවරයාගේ කැපවීම ඇගැයීමට ලක්විය.
+
+◼️
+
+[Data](articles/65438080.json)
+
+---
+
+### President greets the World Cup cricket team
+
+*2024-05-13 20:05:00* · [`adalk`](https://www.ada.lk/sports/ලෝක-කුසලානයට-යන-ක්‍රිකට්-කණ්ඩායමට-ජනපතිගෙන්-සුබපැතුම්/9-409616) · `si`
+
+President Ranil Wickremesinghe greeted the Sri Lanka Cricket Team at the Presidential Secretariat, encouraging them for the Twenty20 World Cup. The team, led by Vanudu Hasaranga, is set to leave tomorrow. The President also congratulated the Sri Lanka Rugby team on their recent victory, a significant achievement for the country.
+
+🟩
+
+President Ranil Wickremesinghe found President Ranil Wickremesinghe at the Presidential Secretariat this afternoon to attend the Twenty20 World Cup, US and West Indies.
+
+Sri Lanka Cricket Team (14), led by Vanudu Hasaranga is due to leave the island tomorrow morning.
+
+The President also congratulated his greeting to achieve a victory for the country by encouraging the players.
+
+Meanwhile Sri Lanka Rugby team won the first part of the first part of Sri Lanka and met President Ranil Wickremesinghe at the Presidential Secretariat this afternoon.
+
+The great achievement of this great achievement in the rugby game after many years is proud to the country.
+
+Minister Harin Fernando, State Minister Arundika Fernando, Presidential Counseling and Presidential Chief of Staff, Sagala Ratnayake were also present at the occasion.
+
+◼️
+
+[Data](articles/c4860c2b.json)
+
+[Extended Data](ext_articles/c4860c2b.ext.json)
+
+---
+
+### Retired Colombo Archbishop Marius Peiris passed away
 
 *2024-05-13 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183446) · `ta`
 
-தனது 83 வயதில் ஓய்வுபெற்ற கொழும்பு பேராயர் மரியஸ் பீரிஸ் 13 ஆம் திகதி திங்கட்கிழமை காலமானதாக அறிவிக்கப்பட்டுள்ளது.
+Retired Colombo Archbishop Marius Peiris, aged 83, passed away on Monday, 13th.
+
+🟩
+
+Colombo Archbishop Marius Peiris, who retired at the age of 83, has passed away on Monday, 13th.
 
 ◼️
 
 [Data](articles/b08c48fd.json)
+
+[Extended Data](ext_articles/b08c48fd.ext.json)
 
 ---
 
@@ -83,6 +131,22 @@ The event is organized in collaboration with the Ministry of Foreign Affairs. (C
 [Data](articles/94182c22.json)
 
 [Extended Data](ext_articles/94182c22.ext.json)
+
+---
+
+### Restraining order issued preventing obstacles to Wijedasa Rajapakse’ SLFP Chairmanship
+
+*2024-05-13 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restraining-order-issued-preventing-obstacles-to-Wijedasa-Rajapakse-SLFP-Chairmanship/108-282503) · `en`
+
+A restraining order on instituting any legal action against the decision taken by the Sri Lanka Freedom Party (SLFP) Executive Committee on May 12, to appoint Minister Wijedasa Rajapakse as Chairman of the SLFP was issued by Kaduwela District Judge Dulani Wickremesuriya.
+
+Executive Committee Members Isuru Abeywardene and Sumith Wijemuni Soysa had sought a court order allowing Chairman of the SLFP Wijedasa Rajapakse, Acting Secretary Kirthi Udawatta and the politburo to carry out their functions without any obstacles.
+
+A panel of lawyers including President’s Counsel Ikram Mohmed appeared for the petitioners who had sited 20 respondents to the petition.
+
+◼️
+
+[Data](articles/1d318bab.json)
 
 ---
 
@@ -110,21 +174,27 @@ Another space rock is approximately 72 lakh km from Earth, while traveling at a 
 
 ---
 
-### கிணற்றுக்குள் இருந்து ஆண் ஒருவரின் சடலம் மீட்பு!
+### Recovery of a man's body from the well!
 
 *2024-05-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183443) · `ta`
 
-வடமராட்சி கிழக்கு கேவில் கடற்கரை பகுதியில் கிணற்றுக்குள் இருந்து திங்கட்கிழமை (13) ஆண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+A man's body was found in a well near Vadamarachchi East Kavil on Monday. Fishermen searched for him after he vanished while fishing in a waterfall. Neighbors were stunned to discover the body in the well. Police investigated and recovered the body.
 
-கரைவலை வாடி ஒன்றில் தங்கி நின்று மீன்பிடியில் ஈடுபட்டுவந்த குறித்த நபர் திடீரென அப்பகுதியிலிருந்து காணாமல் போனதை அறிந்த மீனவர்கள் தேடுதல் நடத்தினர்.
+🟩
 
-இதன் போது குறித்த குடும்பஸ்தர் அருகிலிருந்த கிணற்றுக்குள் சடலமாகக் காணப்பட்டதை அறிந்து அதிர்ச்சியடைந்த அயலவர்கள் சம்பவம் தொடர்பாக மருதங்கேணி பொலிசாருக்கு தெரியப்படுத்தினர்.
+The body of a man has been recovered from the well on the coast of Vadamarachchi East Kavil on Monday (13).
 
-சம்பவ இடத்திற்கு வருகை சென்ற பொலிசார் சடலத்தை மீட்டு விசாரணை மேற்கொண்டுவருவதுடன் சடலமாக மீட்கப்பட்ட நபர் மனோராசன் உடப்பு புத்தளம் பகுதியை சேர்ந்தவரென அடையாளம் காணப்பட்டுள்ளார்.
+The fishermen were searched for the man who had been fishing in a waterfall and suddenly disappeared from the area.
+
+Neighbors were shocked to learn that the family was found in a nearby well.
+
+The police who visited the scene were recovering and investigated and the body of the body was recovered.
 
 ◼️
 
 [Data](articles/fa8ea8e3.json)
+
+[Extended Data](ext_articles/fa8ea8e3.ext.json)
 
 ---
 
@@ -414,21 +484,31 @@ Police investigations revealed that the suspect and the victim were introduced d
 
 ---
 
-### மின்சார சபையை மறுசீரமைக்கும் பணிகள் தொடரும் - மின்சாரத்துறை அமைச்சர்
+### Continuing work on reconstruction of the Electricity Board - Minister of Electricity
 
 *2024-05-13 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183410) · `ta`
 
-அரச நிறுவனங்களை தனியார் மயப்படுத்தும் செயற்பாட்டை இடைநிறுத்துங்கள் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ விடுத்துள்ள கோரிக்கைக்கு அமைய செயற்படுவீர்களா ?அல்லது மறுசீரமைப்புக்களை தொடர்வீர்களா என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல  மின்சாரத்துறை அமைச்சரிடம் கேள்வியெழுப்பினார்.
+Minister Kanchana Wijesekera clarified the government's stance on not privatizing the Electricity Board, responding to former President Mahinda Rajapaksa's request to halt its privatization. Rajapaksa also urged the government to take responsibility for the next government and suspend the proceedings of state establishment and reorganization. The Electricity Board is now focusing on its reconstruction.
 
-மின்சார சபையை தனியார் மயப்படுத்தும் நோக்கம் அரசாங்கத்துக்கு கிடையாது.ஆகவே மின்சார சபையை மறுசீரமைக்கும் பணிகள் தொடரும் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர பதிலளித்தார்.
+🟩
 
-பாராளுமன்றத்தில்  திங்கட்கிழமை (13) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல,
+Former President Mahinda Rajapakse, who will act on a request by former President Mahinda Rajapakse to suspend the process of privatizing state institutions?
 
-அரச நிறுவனங்களை தனியார் மயப்படுத்தல்,மறுசீரமைத்தல்  என்பதற்காக முன்னெடுத்துள்ள நடவடிக்கைகளை முழுமையாக இடைநிறுத்துமாறு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.அத்துடன் இந்த நடவடிக்கைகளை அடுத்த அரசாங்கத்துக்கு பொறுப்பாக்குமாறும் அவர் அரசாங்கத்திடம் வலியுறுத்தியுள்ளார்.
+Minister of Power and Power and Power and Power of Power Kanchana Wijesekera responded that the government does not have the intention of privatizing the Electricity Board.
+
+Lakshman Kiriella, the prime minister of the opposition parties, addressed a special statement during a session in Parliament on Monday (13).
+
+Former President Mahinda Rajapakse has issued a special statement to completely suspend the proceedings of state establishment and reorganization. He also urged the government to take responsibility for the next government.
+
+The Electricity Board has now taken steps to reconstruct the Electricity Board.
+
+Responding to this, the Minister of Power and Power and Energy Kanjana Wijesekera said that former President Mahinda Rajapaksa did not mention the reorganization of state agencies.
 
 ...
 
 [Data](articles/9db93cc6.json)
+
+[Extended Data](ext_articles/9db93cc6.ext.json)
 
 ---
 
@@ -482,21 +562,31 @@ And the world will be branded as a world of people as a man and a person who doe
 
 ---
 
-### சகல வசதிகளுடன் ரஷ்யாவில் தொழில் வாய்ப்புகள் : முக புத்தக விளம்பரங்களுக்கு ஏமாற வேண்டாம் - பாதுகாப்பு அமைச்சு
+### Employment Opportunities in Russia with all amenities: Don't cheat for facial book ads - Ministry of Defense
 
 *2024-05-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183413) · `ta`
 
-முக புத்தகத்தை நம்பி ஏமாற்றமடையும் தரப்பினர் இன்றும் உள்ளார்கள். ரஷ்யாவில் தொழில் வாய்ப்புக்களை பெற்றுக்கொள்வதாக குறிப்பிட்டுக் கொண்டு ஒரு தரப்பினரால் முன்னெடுக்கப்படும் மோசடிகளுக்கு அகப்பட வேண்டாம் என மக்களிடம் கேட்டுக் கொள்கிறேன்.
+Sri Lanka's Defense Ministry warns against employment scams in Russia, highlighting fake Facebook ads. The government is negotiating to bring back Sri Lankans who died in the Russian war. The President has called for immediate action against those involved in human trafficking and fake advertisements, urging caution against such scams.
 
-ரஷ்ய யுத்தக் களத்தில் உயிரிழந்த இலங்கையர்களின் உடல்கள் அடையாளப்படுத்தப்பட்டுள்ளன. மிகுதியாக உள்ளவர்களை நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில் பேச்சுவார்த்தைகளை  முன்னெடுத்துள்ளோம் என பாதுகாப்பு  இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை இடம்பெற்ற அமர்வின் போது ரஷ்ய யுத்தகளத்தில் நெருக்கடிக்குள்ளாகியுள்ள இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Faculty of Facebook is still disappointed. I urge people not to get caught up with frauds carried out by a party, noting that they are gaining employment opportunities in Russia.
 
-ரஷ்ய யுத்தகளத்துக்கு சென்றுள்ள இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் குறிப்பிட்ட ஒருசில விடயங்களை திருத்திக் கொள்ள வேண்டும்.
+The bodies of Sri Lankans who died in the Russian war field have been identified. Defense Minister Bandara Tennakoon said that we have launched negotiations at diplomatic levels to bring a large number of people to the country.
+
+In response to questions posed by the Opposition Leader regarding the Sri Lankans who were in crisis in the Russian battlefield during a session in Parliament on Monday.
+
+The Leader of the Opposition should correct a few issues regarding the Sri Lankans who have gone to the Russian battlefield.
+
+The President had invited parliamentarians Dayasiri Jayasekara and Gamini Valaboda to the Security Council meeting chaired by the President last Tuesday.. Both of them were involved.
+
+The Security Council meeting on several issues on Sri Lankans who have gone to Russia for employment opportunities.
 
 ...
 
 [Data](articles/7ee9a025.json)
+
+[Extended Data](ext_articles/7ee9a025.ext.json)
 
 ---
 
@@ -576,27 +666,35 @@ The victim was taken to Kamburugamuwa railway station and the police are conduct
 
 ---
 
-### ஜனாதிபதி ரணில், அமைச்சர் ஜீவன் இந்தோனேஷியா பயணம்
+### President Ranil, Minister Jeevan Indonesia travels
 
 *2024-05-13 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183429) · `ta`
 
-இந்தோனேஷியாவின் பாலி நகரில் இடம்பெறவுள்ள சர்வதேச நீர் மாநாட்டில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணைந்து நானும் பங்கேற்கவுள்ளேன்.
+President Ranil Wickremesinghe and Minister Jeevan Thondaman of Sri Lanka will attend the International Water Conference in Bali, Indonesia, from the 18th to the 25th. The conference will focus on Sri Lanka's water supply structure and financial status, with a special speech by Minister Thondaman. They aim to implement more programs under the Asian Development Bank's $100 million loan scheme.
 
-இந்த மாநாட்டில் இலங்கையின் நீர் வழங்கல் கட்டமைப்பு தொடர்பில் விசேட உரை நிகழ்த்தப்படவுள்ளதாக நீர் வழங்கல் வடிகாலமைப்பு அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (13) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+I will also attend the International Water Conference to be held in Bali, Indonesia, with President Ranil Wickremesinghe.
 
-எதிர்வரும் 18ஆம் திகதி முதல் 25ஆம் திகதி வரை இம்மாநாடு இந்தோனேஷியாவில் இடம்பெறவுள்ளது. இதில் பங்குபற்றுவதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, நான் உட்பட முக்கியஸ்தர்கள் இந்தோனேஷியா செல்லவுள்ளோம்.
+Minister of Water Supply and Drainage Jeevan Thondaman said that a special speech will be made on the water supply structure of Sri Lanka at the conference.
 
-இம்மாநாட்டில் நீழ் வழங்கல் கட்டமைப்பில் இலங்கையின் நிதி நிலைபேண்தகு தன்மை தொடர்பில் தெளிவுபடுத்தப்படவுள்ளது.
+He further stated at a press conference held at the Presidential Media Center on Monday (13).
 
-தற்போது 3.196 மில்லியன் மக்களுக்கு நீழ் வழங்கல் வடிகாலமைப்பு சபை நீர் வழங்குகிறது. இவர்கள் நீருக்கான கட்டணத்தையும் செலுத்துகின்றனர்.
+The conference will be held in Indonesia from the 18th to the 25th. We will go to Indonesia, including President Ranil Wickremesinghe and myself.
 
-எனினும் கிராம மட்டத்திலுள்ள மக்களுக்கு எமது அமைச்சின் கீழுள்ள திணைக்களத்தின் ஊடாகவே நீர் விநியோகிக்கப்படுகிறது.
+The conference will be clarified on the nature of Sri Lanka's financial status in the Conference.
+
+Currently offers 3.196 million people with water supply drainage board water. They also pay water fees.
+
+However, water is supplied to the village level through the department under the Ministry of our Ministry.
+
+We have paid attention to the regulation of the water supply with the Sri Lanka Public Use Commission.
 
 ...
 
 [Data](articles/727db1c9.json)
+
+[Extended Data](ext_articles/727db1c9.ext.json)
 
 ---
 
@@ -888,25 +986,35 @@ Thondaman, who has been critical on RPCs over their resistance in paying the lat
 
 ---
 
-### இலங்கையர்களை ரஷ்ய யுத்த களத்துக்கு அனுப்பும் மோசடியில் முன்னாள் தூதுவரா ? - காமினி வலேபொட கேள்வி
+### Former Ambassador in the fraud of sending Sri Lankans to the Russian war?- Gamini Valaboda question
 
 *2024-05-13 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183402) · `ta`
 
-ரஷ்ய யுத்த களத்துக்கு இலங்கையர்களை சட்டவிரோதமான முறையில் அனுப்பும் மோசடியின் பின்னணியில் ரஷ்யாவுக்கான  முன்னாள் இலங்கை தூதுவர் தொடர்புப்பட்டுள்ளாரா என்ற சந்தேகம் எழுகிறது.
+Gamini Valaboda, an Opposition Independent Member, questioned the involvement of the former Sri Lankan ambassador to Russia in a fraud that allegedly sent Sri Lankans to the Russian war. This issue has led to the death of 74 Sri Lankans and affected 600 more, with many not receiving proper treatment. Valaboda called for a parliamentary investigation into these fraudulent activities, which involve recruiting retired soldiers under false employment promises in Russia.
 
-ரஷ்ய யுத்த களத்தில் 74 இலங்கையர்கள் உயிரிழந்துள்ளனர். ஆகவே இவ்விடயம் தொடர்பில் உடன் விசாரணைகளை மேற்கொள்ள வேண்டும் என எதிரணியின் சுயாதீன உறுப்பினர் காமினி வலேபொட சபையில் வலியுறுத்தினார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (12) இடம்பெற்ற அமர்வில் விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+It is doubtful whether the former Sri Lankan ambassador to Russia is involved in the backdrop of the fraud of illegally sending Sri Lankans to the Russian war.
 
-ரஷ்யாவில்  தொழில் வாய்ப்புக்களை பெற்றுத் தருவதாக குறிப்பிட்டு ஓய்வு பெற்ற இராணுவத்தினரை ரஷ்ய இராணுவத்தில் இணைக்கும் மோசடிகள் தற்போது தீவிரமடைந்துள்ளன.
+74 Sri Lankans died in the Russian war field. Therefore, the Opposition Independent Member Gamini urged the Gamini Valaboda Sabha to investigate the matter.
 
-ரஷ்ய யுத்தக் களத்தில் பாதிக்கப்பட்டுள்ள இலங்கையர்கள் எம்மை தொடர்புக் கொண்டு அழுது புலம்புகிறார்கள்.யுத்தக் களத்துக்கு செல்வதை தாங்கள் அறியவில்லை என்று குறிப்பிடுகிறார்கள்.
+He was speaking at a special statement at a session held in Parliament on Monday (12).
 
-ரஷ்ய யுத்தக் களத்தில் காயமடைந்துள்ள இலங்கையர்களுக்கு முறையான சிகிச்சை வழங்கப்படுவதில்லை.14 நாட்களாக ஒரே ஆடையுடன் அவர்கள் யுத்தகளத்தில் இருப்பதாக அறிய முடிகிறது.
+Frauds that merge retired soldiers into the Russian army are now intensifying, claiming to have employment opportunities in Russia.
+
+Sri Lankans affected by the Russian war are weeping and weeping.
+
+Sri Lankans, who were injured in the Russian war, are not provided with proper treatment.
+
+The Embassy states that when we negotiated with the Russian embassy in Sri Lanka in this regard, the Embassy states that we cannot intervene illegally.
+
+The former Sri Lankan Ambassador to Russia noted that he would bring Sri Lankans within a day or a week if he got power.
 
 ...
 
 [Data](articles/080bd182.json)
+
+[Extended Data](ext_articles/080bd182.ext.json)
 
 ---
 
@@ -2207,69 +2315,5 @@ The Tamil general candidate's trust issue is gaining public interest, seen as a 
 [Data](articles/84c566a5.json)
 
 [Extended Data](ext_articles/84c566a5.ext.json)
-
----
-
-### Dismissal
-
-*2024-05-13 11:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பார்த்தவர்-பதவி-நீக்கம்/50-337229) · `ta`
-
-A police officer in Nashville, Tennessee, was fired after a video surfaced showing him improperly handling a woman's documents during a vehicle inspection. The officer, who asked for the woman's license and registration, was caught on camera making inappropriate comments, leading to immediate disciplinary action.
-
-🟩
-
-A police officer who carried out a vehicle inspection in Nashville, Tennessee province has been sacked.
-
-45 km of woman in Nashville city in Tennessee State of the United States. Has come to pay a car at speed. A police officer has asked him to show him the documents for the vehicle license and the vehicle registration.
-
-The woman left her breasts, saying that there were no proper documents.
-
-The officer also said, "I will allow you to go with caution as they look at the breasts."
-
-The officer has been immediately investigated and fired after the video spread on social networks.
-
-◼️
-
-[Data](articles/74b87ad0.json)
-
-[Extended Data](ext_articles/74b87ad0.ext.json)
-
----
-
-### The Tamil general candidate will make the Tamil people a confused political community
-
-*2024-05-13 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183326) · `ta`
-
-Ranil claims economic recovery, but polls show him third, with Sajith Premadasa and Anuragumara Dissanayake leading. Tamil candidate may confuse the community.
-
-🟩
-
-Ranil is trying to issue a certificate that the economy is recovering from the international side and the Governor of the Central Bank also issues a certificate.
-
-However, the Sri Lankan field situation does not seem to have returned to Ranil. The polls show that Ranil is in the 3rd position. In the first place, Sajith Premadasa and Anuragumara Dissanayake are changing.
-
-◼️
-
-[Data](articles/5cfe81a3.json)
-
-[Extended Data](ext_articles/5cfe81a3.ext.json)
-
----
-
-### Resumption of India-Sri Lanka passenger ferry service postponed
-
-*2024-05-13 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99181/resumption-of-india-sri-lanka-passenger-ferry-service-postponed) · `en`
-
-The resumption of the passenger ferry service from Nagapattinam to Kankesanthurai has been postponed due to the delay in arrival of the vessel and meeting regulatory compliance.
-
-The service, which was scheduled to restart from May 13, has now been postponed to May 17, IndSri Ferry Services Pvt. Ltd., which operates the service, said in a press statement on Sunday.
-
-“We have been assured by the authorities that all legal compliance requirement certificates will be issued well in time to start the service from Friday May 17, 2024. Tickets of customers who have booked for travel between May 13 and 16, will be rescheduled to May 17,” it said.
-
-◼️
-
-[Data](articles/b3d9dfd2.json)
-
-[Extended Data](ext_articles/b3d9dfd2.ext.json)
 
 ---

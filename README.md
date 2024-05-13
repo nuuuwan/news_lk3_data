@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 04:33:55**
+As of **2024-05-14 04:51:47**
 
 ## Newspaper Stats
 
-*Scraped **23,826** Articles*
+*Scraped **23,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,789
+tamilmirrorlk | 2,790
 virakesarilk | 3,562
 dailymirrorlk | 3,748
 adaderanasinhalalk | 3,816
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,826 (100.0%) of 23,826 articles have been extended.
+23,826 (100.0%) of 23,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -295,6 +295,22 @@ Opposition Leader Sajith Premadasa said this while participating in a protest de
 [Data](articles/14389e1b.json)
 
 [Extended Data](ext_articles/14389e1b.ext.json)
+
+---
+
+### ’இராணுவமே ஆங்கிலம் கற்பிக்கின்றது’
+
+*2024-05-14 00:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவமே-ஆங்கிலம்-கற்பிக்கின்றது/175-337269) · `ta`
+
+தற்போது நடைபெற்றுவரும் க.பொ.த. சாதாரண தரப் பரீட்சையில் பாடத்திட்டத்தில் இருந்து நீக்கப்பட்ட பிரிவுகளில் இருந்து விஞ்ஞான பாடத்துக்கு  12 புள்ளிகளைக் கொண்ட வினாக்கள் தயாரிக்கப்பட்டுள்ளன. கற்பிக்காத பாடப்பரப்பில் இருந்து கேள்வி கேட்கும் போது பரீட்சாத்திகள் எவ்வாறு பதிலளிப்பார்கள்  என ஐக்கிய மக்கள் சக்தி எம்.பி.யான ரோஹிணி கவிரத்ன கல்வி அமைச்சரிடம் கேள்வி எழுப்பினார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13)  விசேட கூற்றை முன்வைத்தே இவ்வாறு கேள்வி எழுப்பிய அவர் மேலும் கூறுகையில்,
+
+2023 ஆம் ஆண்டுக்கான கல்வி பொதுத்தராதர சாதாரன தர பரீட்சை தற்போது  இடம்பெறுகிறது. கொரோனா தொற்று காரணமாக பாடசாலை கல்வி நடவடிக்கைகள் பாதிக்கப்பட்டிருந்தன .பாடத்திட்டங்களை உரிய காலத்தில் நிறைவு செய்யாத காரணத்தால் ஒருசில பாடப்  பிரிவுகள் பாடத்திட்டத்தில் இருந்து நீக்கப்பட்டிருந்தன.
+
+...
+
+[Data](articles/f4274399.json)
 
 ---
 
@@ -1514,24 +1530,6 @@ It is reported that these personnel are also dangerous to other drivers, running
 
 ---
 
-### 
-
-*2024-05-13 18:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84022) · `en`
-
-What is greatly interesting about the Diana Gamage Saga  is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
-
-Leaving apart the typically hysterical political brouhaha about the unseating of Diana Gamage, former (and largely unlamented) Member of Sri Lanka’s Parliament, what is greatly interesting about this otherwise distasteful saga is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
-
-This concerned a parliamentarian whose seat was challenged by a social activist on the basis that she was the holder of a British passport thus ceasing to be a citizen of Sri Lanka and by virtue of Article 91 read with Article 89 of the Constitution, was disqualified from holding office as a Member of Parliament.
-
-...
-
-[Data](articles/8bb877e6.json)
-
-[Extended Data](ext_articles/8bb877e6.ext.json)
-
----
-
 ### Sri Lanka sells Rs70bn in 2028 to 2032 bonds
 
 *2024-05-13 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs70bn-in-2028-to-2032-bonds-162793/) · `en`
@@ -1573,6 +1571,24 @@ A bond maturing on 01.10.2032 closed down at 11.90/12.10 percent from 12.10/20 p
 [Data](articles/8bb09b35.json)
 
 [Extended Data](ext_articles/8bb09b35.ext.json)
+
+---
+
+### What is greatly interesting about the Diana Gamage Saga  is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
+
+*2024-05-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84022) · `en`
+
+Leaving apart the typically hysterical political brouhaha about the unseating of Diana Gamage, former (and largely unlamented) Member of Sri Lanka’s Parliament, what is greatly interesting about this otherwise distasteful saga is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
+
+This concerned a parliamentarian whose seat was challenged by a social activist on the basis that she was the holder of a British passport thus ceasing to be a citizen of Sri Lanka and by virtue of Article 91 read with Article 89 of the Constitution, was disqualified from holding office as a Member of Parliament.
+
+Significantly, the legal remedy sought was the rarely used Writ of Quo Warranto. This required Gamage to show ‘by what authority she claims to hold office and continue to function as a Member of Parliament.’
+
+...
+
+[Data](articles/8bb877e6.json)
+
+[Extended Data](ext_articles/8bb877e6.ext.json)
 
 ---
 
@@ -2257,25 +2273,5 @@ The panel of judges issued this announcement by concluding the exams held for th
 [Data](articles/924095cb.json)
 
 [Extended Data](ext_articles/924095cb.ext.json)
-
----
-
-### Sri Lanka expert panel reviews RPC land lease; Minister demands action
-
-*2024-05-13 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-expert-panel-reviews-rpc-land-lease-minister-demands-action-162758/) · `en`
-
-ECONOMYNEXT – An expert panel appointed by the Sri Lankan government is reviewing lease agreements with Regional Plantation Companies (RPC), Minister of Estate Infrastructure Development Jeevan Thondaman said.
-
-Thondaman, who has been critical on RPCs over their resistance in paying the latest daily wage of 1,700 rupees per tea plucker, said he wants action against the companies for destroying government assets.
-
-“We are reviewing the agreement as we speak. There is a committee that is going through it,” he told reporters at a media briefing on Monday (13) in Colombo.
-
-“My personal opinion is we can’t just look at it as just tea. Tea is an asset of the government of Sri Lanka. So when it is a Sri Lankan government asset, say if we have given 10,000 hectares of tea estates to a company, with 8,500 hectares of tea and 1,500 of abandoned, then today we need to conduct an audit to see of the 8,500 ha of tea lands exist.”
-
-...
-
-[Data](articles/2cacffcb.json)
-
-[Extended Data](ext_articles/2cacffcb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 11:53:21**
+As of **2024-05-13 12:05:49**
 
 ## Newspaper Stats
 
-*Scraped **23,650** Articles*
+*Scraped **23,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,119 @@ islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,008
-adaderanalk | 2,759
+adaderanalk | 2,762
 tamilmirrorlk | 2,771
 virakesarilk | 3,521
 dailymirrorlk | 3,722
-adaderanasinhalalk | 3,792
+adaderanasinhalalk | 3,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,649 (100.0%) of 23,650 articles have been extended.
+23,650 (100.0%) of 23,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### රට වටා කොල්ලකෑම් කල සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+### Resumption of India-Sri Lanka passenger ferry service postponed
+
+*2024-05-13 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99181/resumption-of-india-sri-lanka-passenger-ferry-service-postponed) · `en`
+
+The resumption of the passenger ferry service from Nagapattinam to Kankesanthurai has been postponed due to the delay in arrival of the vessel and meeting regulatory compliance.
+
+The service, which was scheduled to restart from May 13, has now been postponed to May 17, IndSri Ferry Services Pvt. Ltd., which operates the service, said in a press statement on Sunday.
+
+“We have been assured by the authorities that all legal compliance requirement certificates will be issued well in time to start the service from Friday May 17, 2024. Tickets of customers who have booked for travel between May 13 and 16, will be rescheduled to May 17,” it said.
+
+◼️
+
+[Data](articles/b3d9dfd2.json)
+
+---
+
+### ත්‍රීවිල් රියදුරන්ව බිය ගැන්වූ කොල්ලකරු අත්අඩංගුවට
+
+*2024-05-13 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196570) · `si`
+
+කුලී ගමන් යන මුවාවෙන් ත්‍රීරෝද රථවලට නැඟ ගොස් රියදුරන් බිය ගන්වා කොල්ලකෑම් සිදුකළ පුද්ගලයෙකු අඟුලාන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර පළාත් දකුණු දිසා අපරාධ කොට්ඨාසයේ නිලධාරීන්ට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලී‍සිය පැවසුවේය.
+
+සැකකරු ත්‍රීරෝද රථ 02ක්, ජංගම දුරකථන 02ක් සහ මුදල් කොල්ලකෑමේ සිද්ධි කිහිපයක් සිදුකර ඇති බව මුලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු 25 හැවිරිදි රත්මලාන ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර සිද්ධිය සම්බන්ධයෙන් ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/aa232a05.json)
+
+---
+
+### Toddler dies after choking on piece of carrot
+
+*2024-05-13 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99180/toddler-dies-after-choking-on-piece-of-carrot) · `en`
+
+A tragic incident where a toddler had died after choking on a piece of carrot has been reported from the Saliyawewa area.
+
+The deceased, Saveen Dulsanda, is a one-and-half-year-old boy, Ada Derana reporter said.
+
+The incident has taken place while the child’s mother was cooking, and his four-year-old sister, unaware of the potential danger, had fed him a piece of carrot.
+
+Unfortunately, the piece of carrot had become lodged in the child’s throat, and despite attempts by the parents to remove it they had been unsuccessful.
+
+Subsequently, the child was immediately rushed to the Nochchiyagama Hospital via an ambulance. However, despite continuous efforts to save him, the child had passed away while being transferred to Anuradhapura Teaching Hospital.
+
+◼️
+
+[Data](articles/b1195b24.json)
+
+---
+
+### Health trade unions launch strike at Central Province hospitals
+
+*2024-05-13 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99179/health-trade-unions-launch-strike-at-central-province-hospitals) · `en`
+
+A collective health sector trade unions have launched a token strike at all hospitals in the Central Province today (13) over their demands including an increase in allowances.
+
+Accordingly, the Co-Convenor of the Health Trade Union Alliance Ravi Kumudesh stated the strike will be expanded to other provinces as well starting from May 22, if their demands are not met.
+
+Commenting in this regard, the Director General of Trade Unions to the President, Saman Rathnapriya expressed that the primary concern with regard to this issue has been addressed, while affirming the decision to allocate the allowance in question. Additionally, he noted that the relevant circular has already been issued.
+
+“However, a small section [of health workers] have not received this allowance. We have requested the Health Minister to submit a cabinet paper requesting the allocation of the allowance for them. I think he is working on it”, he said.
+
+...
+
+[Data](articles/08e7953e.json)
+
+---
+
+### Two suspects arrested for plundering around the country
 
 *2024-05-13 11:21:49* · [`adalk`](https://www.ada.lk/breaking_news/රට-වටා-කොල්ලකෑම්-කල-සැකකරුවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-409588) · `si`
 
-ප්‍රදේශ රැසක කොල්ලකෑම් හා  සොරකම් රැසකට සම්බන්ධ කැස්බෑව නිවුන්ගම මයියා ඇතුළු පුද්ගලයන් දෙදෙනකු  හොරයින්  මත්කුඩු තොගයක් සමග අත්අඩංගුවට ගත් බව බණ්ඩාරගම පොලිසිය කියයි.
+Two suspects, including Kesbewa Mia, were arrested for robberies and drug possession. Police seized a three-wheeler and a sharp weapon. The suspects, aged 24 to 30, have been linked to multiple robberies over the past five years.
 
-එම සැකකරුවන් දෙදෙනා සමග හොරයින් මත්කුඩු මිලිගෑම් 11470 ක් කොල්ල කන ලද  ත්‍රී රෝද රථයක් සොරා ගන්නා ලද යතුරුපැදියක්ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-බණ්ඩාරගම ගම්මන්පිල වැව අසලදී  සැකපිට අත්අඩංගුවට ගත් පුද්ගලයකු පරික්ෂා කිරීමේදී ඔහු සන්තකයේ හොරයින්  මත්කුඩු මිලිගෑම් 5370 ක් තිබි හමුවීමෙන් අනතුරුව සිදු කළ ප්‍රශ්න කිරීමේදී  තවත් පුද්ගලයකු සමග එක්ව කොහුවල, හිරන, වැල්මිල්ල  , හා ඉදිල්පිටි යන ප්‍රදේශවල සිදු කළ කොල්ලකෑම් සහ සොරකම් ගණනාවක තොරතුරු අනාවරණය කළ බව පොලිසිය සඳහන් කරයි
+The Bandaragama Police say two persons including Kesbewa Mia, including robbers and robberies in several areas, were arrested with drugs with drugs.
 
-එම සැකකරු අනාවරණය කළ තොරතුරු අනුව ඔහු සමග කොල්ලකෑම් සිදු කළ අනිත් පුද්ගලයා  හිරණ පාලම අසලදී හොරයින් මත්කුඩු මිලිගෑම් 6100 ක් සමග අත්අඩංගුවට ගැනීමට හැකි වී ඇත.
+Police have also seized a three-wheeler robbed 11470 milligns with the two suspects.
+
+The police said that after the interrogation of a person who had been arrested near the Bandaragama Gammanpila tank, he was assisted with a number of robberies and robbery and a number of robbery in Kohuwala.Does
+
+According to the incident, the other person who had robbed with him was arrested near the Shirana Bridge.
+
+In the case of Rs.The police have revealed that a sharp weapon, Kindelpitiya's Ranmal, had been robbing a woman's boring office and had stolen four chairs..
+
+Depending on the suspects, the quarters detected, the stolen accused and stolen suspects were hidden in the houses of suspected suspects.
 
 ...
 
 [Data](articles/267ff782.json)
+
+[Extended Data](ext_articles/267ff782.ext.json)
 
 ---
 
@@ -98,7 +180,7 @@ US Assistant Secretary of State for South and Central Asian Affairs Donald Lu is
 
 *2024-05-13 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99178/us-assistant-secretary-donald-lu-embarks-on-visit-to-sri-lanka) · `en`
 
-U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has commenced  his official visit to Sri Lanka today (13).
+U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has commenced his official visit to Sri Lanka today (13).
 
 Accordingly, he is set to engage with officials from across the political spectrum and civil society to deepen the United States’ partnership with Sri Lanka.
 
@@ -500,7 +582,7 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.11 perc
 
 A person has reportedly died due to electrocution while engaged in preparations for a funeral in the Thihariya area in Nittambuwa.
 
-This incident had occured when the person in question and four others were working to install light bulbs to light up the road near a funeral house in the area.
+This incident had occurred when the person in question and four others were working to install light bulbs to light up the road near a funeral house in the area.
 
 During the police investigations, it has been revealed that they were electrocuted when the wire used to install the light bulbs had come into contact with a high-voltage power line on the road.
 
@@ -2151,85 +2233,5 @@ Note: "If European countries collectively take the position that Putin cannot be
 [Data](articles/ab29eddd.json)
 
 [Extended Data](ext_articles/ab29eddd.ext.json)
-
----
-
-### Padukka turmolyu swords gang
-
-*2024-05-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196551) · `si`
-
-In Padukka, unidentified attackers used sharp weapons to injure the owner's wife and employee at a debit iron mandrator. The same night, robbers targeted a demolium collection center, stealing goods and injuring the owner's wife. The incident was captured on CCTV, showing the robbers arriving on a scooter. The owner's wife was hospitalized, and the Padukka Police are investigating.
-
-🟩
-
-Three unidentified people who came to a debit iron mandrator in Padukka this morning have attacked the owner's wife and employee with sharp weapons.
-
-The plunder of the demolium collection center in Padukka Mawathagama has passed the robbery last night.
-
-A CCTV camera has been recorded how they came on a scoopy type.
-
-It is said that the robbers have taken a sum of Rs.
-
-The owner's wife's wife was injured and admitted to the Homagama Hospital.
-
-The Padukka Police have launched investigations into the incident.
-
-◼️
-
-[Data](articles/6c07c8f4.json)
-
-[Extended Data](ext_articles/6c07c8f4.ext.json)
-
----
-
-### Politicians tout Rs. 26 billion school lunch programme for 1.7 million children
-
-*2024-05-12 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-tout-Rs-26-billion-school-lunch-programme-for-1-7-million-children/108-282425) · `en`
-
-Colombo, May 12 (Daily Mirror) - Some people make popular statements from political platforms in the guise of continuing to develop and maintain the school lunch programme by spending Rs. 26 billion for 1.7 million children, covering all students in the primary grades in the country, said Education Minister Susil Premajayantha.
-
-While participating as the chief guest at the inauguration of the new six-storied dormitory complex built earlier for the students of the German Tech Institute, Minister Premajayantha said the politicians who claim that all schoolchildren in the country will receive lunch should have conducted a practical numerical analysis before making such statements.
-
-◼️
-
-[Data](articles/ad067e89.json)
-
-[Extended Data](ext_articles/ad067e89.ext.json)
-
----
-
-### Some 2,000 Buddhist monks abandon robes annually: Champika Ranawaka
-
-*2024-05-12 21:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-2-000-Buddhist-monks-abandon-robes-annually-Champika-Ranawaka/108-282423) · `en`
-
-MAy 12 (Daily Mirror) - As many as 2,000 Buddhist monks with higher ordination leave their robes annually and the economic crisis is one of the reasons for this, United Republican Front (URF) leader MP Patali Champika Ranawaka said.
-
-Addressing a gathering of leading Buddhist monks at the Nagananda Vihara in Manelwatte, he said everyone should cast aside their differences and unite to revitalize the economy.
-
-He stressed the importance of obtaining blessings of the Buddhist clergy for this.
-
-◼️
-
-[Data](articles/f210b61c.json)
-
-[Extended Data](ext_articles/f210b61c.ext.json)
-
----
-
-### Govt to introduce 4 new laws aimed at accelerating economic development – President
-
-*2024-05-12 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99169/govt-to-introduce-4-new-laws-aimed-at-accelerating-economic-development-president) · `en`
-
-President Ranil Wickremesinghe stated that he expects to increase the growth rate of Sri Lanka’s economy up to 3% by the year 2025 and mentioned that steps would be taken to increase the salaries of government employees.
-
-The President made these remarks during the celebration of International Nurses Day at the Temple Trees, today (12).
-
-Addressing the gathering, the President mentioned that four key laws will be introduced to propel the country’s economy towards rapid development, along with fostering an export-driven economy. The first among them is the Central Bank Law, aimed at granting autonomy to the Central Bank is already enacted and the bills called Public Debt Management Law, the Public Finance Act, and the Economic Transformation Law are slated for submission to Parliament this June.
-
-...
-
-[Data](articles/eb967fd9.json)
-
-[Extended Data](ext_articles/eb967fd9.ext.json)
 
 ---

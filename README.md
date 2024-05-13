@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 18:11:37**
+As of **2024-05-13 18:23:04**
 
 ## Newspaper Stats
 
-*Scraped **23,729** Articles*
+*Scraped **23,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,357
 dailyftlk | 1,374
-adalk | 2,020
+adalk | 2,024
 adaderanalk | 2,772
 tamilmirrorlk | 2,782
 virakesarilk | 3,533
 dailymirrorlk | 3,734
-adaderanasinhalalk | 3,805
+adaderanasinhalalk | 3,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,729 (100.0%) of 23,729 articles have been extended.
+23,729 (100.0%) of 23,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### මාතර වෙරළට ගොඩගැසූ තල්මස් සිරුර
+
+*2024-05-13 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196584) · `si`
+
+අප වාර්තාකරු සඳහන් කළේ මෙලෙස ගොඩගසා ඇති තල්මස් සිරුර දිග මීටර් 5ක් පමණ වන බවය.
+
+මිරිස්ස වනජීවී කාර්යාලය පවසන්නේ තල්මසාගේ සිරුරේ කිසිදු කැපුම් තුවාලයක් දක්නට නොලැබෙන බවය.
+
+මෙම තල්මසාගෙ මරණයට හේතුව පශ්චාත් මරණප පරීක්ෂණයෙන් පසුව හඳුනාගැනීමට බලාපොරොත්තු වන බවත් උඩවලව වනජීවී ඒකකයේ වෛද්‍යවරයකු විසින් පශ්චාත් මරණ පරීක්ෂණය පැවැත්වීමට නියමිතව බවත් මිරිස්ස වනජීවි කාර්යාලය සඳහන් කර සිටී.
+
+◼️
+
+[Data](articles/b9542e78.json)
+
+---
+
+### දුම්රියේ ගැටී පුද්ගලයෙකු මරුට
+
+*2024-05-13 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196583) · `si`
+
+මාතර පඹුරණ අබේගුණවර්ධන මාවතේ පිහිටි දුම්රිය හරස් මාර්ගය හරහා අපරික්ෂාකාරී ලෙස ධාවනය කළ යතුරුපැදියක් දුම්රියක ගැටීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් ජීවිතක්ෂයට පත්ව ඇත්තේ කඹුරුගමුව ප්‍රදේශයේ පදිංචි 56 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකි.
+
+අද (13) පස්වරුවේ මාතර සිට මරදාන දක්වා ධාවනය වෙමින් තිබූ සීඝ්‍රගාමි දුම්රියේ යතුරපැදිය ගැටීමෙන් එම අනතුර සිදුව තිබුණි.
+
+දුම්රියක් පැමිණෙන බවට ආලෝක සංඥා හා සීනුව නාද වෙමින් තිබියදී අපරික්ෂාකාරී ලෙස දුම්රිය හරස් මාර්ගය හරහා ගමන් කිරීමට යාමේදී මෙලෙස එම අනතුර සිදුව ඇතිබවට සැකපළකරයි.
+
+ජීවිතක්ෂයට පත්වූ පුදගලයාගේ දේහය කඹුරුගමුව දුම්රිය ස්ථානය වෙත රැගෙනගොස් ඇති අතර අනතුර සම්බන්ධයෙන් පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/5d01cf44.json)
+
+---
 
 ### SC concludes hearing petitions against ‘Sri Lanka Electricity Bill’
 
@@ -103,6 +139,22 @@ Meanwhile, the British Kenton Coole, which crossed Everest recently, climbed the
 [Data](articles/a96801ce.json)
 
 [Extended Data](ext_articles/a96801ce.ext.json)
+
+---
+
+### බෙලිඅත්ත ඝාතනයේ ’’ඩබල් ටැප් චූටි’’ ඉන්දියාවේදී අත්අඩංගුවට
+
+*2024-05-13 17:05:57* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-ඝාතනයේ-’’ඩබල්-ටැප්-චූටි’’-ඉන්දියාවේදී-අත්අඩංගුවට/11-409604) · `si`
+
+පසුගිය ජනවාරී 21වන  දින අධිවේගී මාර්ගයේ බෙලිඅත්ත  පිවිසුම ආසන්නයේදී  අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා ඇතුලු පුද්ගලයින් පස් දෙනෙකු වෙඩි තබා ඝාතන සිද්ධියේ මෙරටින් පලාගිය සැක කරුවන් දෙදෙනෙක් ඉන්දියාවේදී අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඒ අතර ඝාතන සිද්ධියේ වෙඩික්කරුවකු වන “ඩබල් ටැප් චූටි”  සිටින බව වාර්තා වේ.
+
+මෙම ඝාතනය කොස්ගොඩ සුජීගේ මෙහෙය වීම මත පෙජරෝ රථයකින් පැමිණ ටී56 වර්ගයේ ගිනි අවි දෙකක් භාවිතා කර ඩබල් ටැප් ක්‍රමයට එම වෙඩි තැබීම සිදු කර ඇති බව විමර්ශන වලදී අනාවරණය විය. පසුව එම වෙඩික්කරුවන් රටින් පලාගිය බවත් ඔවුන් නිට්ටබුව හා බලපිටිය ප්දේශයන් වල පුද්ගලයින් බව වාර්තා විය. සිද්ධිය සම්බන්ධයේ ආධාර අනුබල දුන් චෝදනා මත සැකකරුවන් කීප දෙනෙක් මේ වන විට අත්අඩංගුවට පත් වී සිටින අතර ඔවුන් මේ වන විට රක්ෂිත බන්ධනාගත කර ඇත.
+
+◼️
+
+[Data](articles/8cbe7bdd.json)
 
 ---
 
@@ -402,6 +454,18 @@ The Dadagur of retired assistant was 83 years old when he was in heaven.
 
 ---
 
+### ජනාධිපතිවරණයට සල්ලි ප්‍රශ්න නෑ...
+
+*2024-05-13 16:01:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-සල්ලි-ප්‍රශ්න-නෑ---/11-409603) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ හා ජනාධිපතිවරණ පනතේ දක්වා ඇති නිශ්චිත කාලවකවානු අනුව මෙවර ජනාධිපතිවරණය ද පැවැත්වීම හා දින නියම කිරීම සිදු කෙරෙන අතර එය කිසිසේත් හදිසියේ රජය ගත් තීරණයක් නොවන බවත් අය-වැය මගින් මුල දී ම ඒ සඳහා මුදල් ප්‍රතිපාදන ද වෙන් කර ඇති නිසා ජනාධිපතිවරණය පැවැත්වීම වෙනුවෙන් මූල්‍ය ගැටලු‍වක් මතු විය නොහැකි බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි. ( IJ)
+
+◼️
+
+[Data](articles/fec94a85.json)
+
+---
+
 ### "You can provide computers to schools with that money"
 
 *2024-05-13 15:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தப்-பணத்தில்-பாடசாலைகளுக்கு-கணனிகளை-வழங்கலாம்/175-337241) · `ta`
@@ -467,6 +531,28 @@ The injured overseas has been admitted to the National Hospital for treatment.
 [Data](articles/4f420983.json)
 
 [Extended Data](ext_articles/4f420983.ext.json)
+
+---
+
+### රජ පිහිල්ල
+
+*2024-05-13 15:49:26* · [`adalk`](https://www.ada.lk/breaking_news/රජ-පිහිල්ල/11-409602) · `si`
+
+රජ සමයේ ඉඳි කරන ලද බොහෝ විශ්මිත නිර්මාණයන් අදටත් එපරිද්දෙන් දැක ගන්නට මෙරට වැසියන් හට භාග්‍ය හිමිව තිබේ. එවැනි බොහෝ ඉපැරණි ස්ථාන රැසක් රජ සමයේ පැවැති අයුරින්ම ඒවායේ ක්‍රියාකාරීත්වය එපරිද්දෙන්පැ වැතීම විශ්ම ජනකය. රජ දවසේ නිර්මාණය කරන ලද පරිද්දෙන් අදටත් ක්‍රියාකාරී මට්ටමේ පවතින පෞරාණික රාජකීය පිහිල්ලක් අදටත් සෙංකඩගල පුරවරයේ දැකිය හැකිය.
+
+එකල රාජකීයන්ට දිය නෑම සඳහා කලු ගලින් නිර්මාණය කරන ලද රජපිහිල්ලක් නොහොත් රාජකීය ස්නානගාරයක්
+
+මහනුවර නගරය සමීපයේ පිහිටා තිබේ. එහෙත් මෙම ඉපැරණි රජපිහිල්ල මහනුවර නගරයේ අසිරිය විඳීමට
+
+පැමිණෙන දෙස් විදෙස් සංචාරකයන් විශාල පිරිසකගේ ඇස නොගැටෙන ස්ථානයක් බවට පත්ව තිබේ. එසේ හෙයින්
+
+මෙකී ඉපැරණි රජපිහිල්ල නැරඹීමට බොහෝ පිරිසක් නොයන ස්ථානයක් බවට පත්ව ඇත. ඉතාමත් අතලොස්සක
+
+පිරිසක් මහනුවර රජපිහිල්ල නැරඹීමට යන අතර, බොහෝ පිරිසක් මහනුවර නගරය සමීපයේ එවැනි ඉපැරණි රජපිහිල්ලක් තිබේද යන්න පවා නොදනිති. (I J)
+
+◼️
+
+[Data](articles/3499cb68.json)
 
 ---
 
@@ -1141,6 +1227,24 @@ While the chauvinist Sri Lankan government is carrying out the genocide in 2009,
 [Data](articles/11ed1629.json)
 
 [Extended Data](ext_articles/11ed1629.ext.json)
+
+---
+
+### හෙටත් වැස්ස වැඩිවෙයි
+
+*2024-05-13 13:09:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-වැස්ස-වැඩිවෙයි/11-409592) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහල වායුගෝලයේ කැළඹිලි ස්වභාවයක් වර්ධනය විම හේතුවෙන් දිවයින පුරා වැසි තත්වයේ වැඩි වීමක් හෙට (14) බලාගපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+දිවයිනේ බොහෝ පළාත්වල පස්වරු ප.ව. 1.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+සබරගමුව, මධ්‍යම, නැගෙනහිර,  හා ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+නැගෙනහිර හා දකුණු පළාත්වල ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තු නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/c27d4064.json)
 
 ---
 
@@ -2159,147 +2263,5 @@ The emir also suspended some articles of the constitution, including those stati
 [Data](articles/ef2cc866.json)
 
 [Extended Data](ext_articles/ef2cc866.ext.json)
-
----
-
-### Risk alert to 5 districts
-
-*2024-05-13 10:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-337217) · `ta`
-
-The Basic Research Institute warns of landslide risks in Sri Lanka's Badulla, Kandy, Ratnapura, Kegalle, and Kurunegala districts due to heavy rainfall exceeding 75mm. This alert comes as the country braces for increased rainfall due to atmospheric turbulence.
-
-🟩
-
-The Basic Research Institute has issued a landslide risk precaution for the five districts of Badulla, Kandy, Ratnapura, Kegalle and Kurunegala.
-
-The landslide alert has been issued after the rainfall has been reported in more than 75 millimeters in these districts.
-
-Meanwhile, as the turbulence in the recent low -lying atmosphere of Sri Lanka is expected to increase rainfall nationwide.. Remble
-
-◼️
-
-[Data](articles/f3a62158.json)
-
-[Extended Data](ext_articles/f3a62158.ext.json)
-
----
-
-### Child killed in a lot of carrots
-
-*2024-05-13 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196566) · `si`
-
-A tragic incident occurred in the Saliyawewa area where a 4-year-old boy died after a carrot got stuck in his throat. Despite immediate medical attention, including a transfer to Anuradhapura Teaching Hospital, the child succumbed to his injuries. The post-mortem examination was conducted by Mr. SC Gunatilake, revealing the cause of death.
-
-🟩
-
-A child has lost his lives in the Saliyawewa area due to a carrot.
-
-The deceased has been a boy who was residents of the Saliyawewa area.
-
-The father of 4 years, the sister of the child who died when the mother was cooked, gave a carrot.
-
-The carrot was stuck in the child's throat, and then the mother and the father had tried to take out the carrot.
-
-The child was immediately taken to the Nochchiyagama hospital with a 1990 ambulance due to the lack of success.
-
-Since then the child's condition is serious, transferred to Anuradhapura Teaching Hospital.
-
-Judicial Medical Officer Missing of Anuradhapura Teaching Hospital. M. it. The post mortem examination has been conducted by Mr. SC Gunatilake and is revealed that the child has been identified.
-
-◼️
-
-[Data](articles/1630a991.json)
-
-[Extended Data](ext_articles/1630a991.ext.json)
-
----
-
-### IORA chair Sri Lanka invited for BRICS Foreign Minister summit in Russia
-
-*2024-05-13 10:00:00* · [`economynextcom`](https://economynext.com/iora-chair-sri-lanka-invited-for-brics-foreign-minister-summit-in-russia-162680/) · `en`
-
-ECONOMYNEXT – Sri Lanka as the chair of the Indian Ocean Rim Association (IORA) has been invited to BRICS Foreign Ministers’ summit in Russia, the island nation’s Foreign Minister Ali Sabry said, from May 30-31 to discuss anti-microbial resistance.
-
-BRICS is an intergovernmental organization comprising Brazil, Russia, India, China, South Africa, Iran, Egypt, Ethiopia, and the United Arab Emirates, while the IORA is a regional forum, tripartite in nature, bringing together representatives of Government, Business and Academia, for promoting co-operation and closer interaction among them.
-
-We have been invited by BRICs Foreign Minsters’ meeting in Russia on the basis that we hold the chairman ship of the IORA,” Sabry told last week at a media briefing.
-
-Moscow will host the International Conference titled “Antimicrobial Resistance: A Global Challenge to the National Well-Being of BRICS. Reality and Innovation” at the end of May.
-
-...
-
-[Data](articles/a7cdee53.json)
-
-[Extended Data](ext_articles/a7cdee53.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 298.80/299.30 to US dollar
-
-*2024-05-13 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-80-299-30-to-us-dollar-162727/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 298.80/299.30 to the US dollar on Monday from 299.00/30 the previous week, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.45/50 percent from 10.40/55 percent.
-
-A bond maturing on 15.09.2027 was quoted up at 10.75/85 percent from 10.70/85 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 11.10/15 percent 11.15/25 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.11 percent at 12,532, and the S&P SL20 was up 0.08 percent at 3,733. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/ad06c064.json)
-
-[Extended Data](ext_articles/ad06c064.ext.json)
-
----
-
-### Person dies from electrocution in Nittambuwa
-
-*2024-05-13 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99174/person-dies-from-electrocution-in-nittambuwa-) · `en`
-
-A person has reportedly died due to electrocution while engaged in preparations for a funeral in the Thihariya area in Nittambuwa.
-
-This incident had occurred when the person in question and four others were working to install light bulbs to light up the road near a funeral house in the area.
-
-During the police investigations, it has been revealed that they were electrocuted when the wire used to install the light bulbs had come into contact with a high-voltage power line on the road.
-
-The deceased was a 40-year-old resident of Kalagedihena in Thihariya.
-
-The other four persons who were also electrocuted in the incident are currently undergoing treatment at the Wathupitiwala Hospital.
-
-◼️
-
-[Data](articles/1713aa7a.json)
-
-[Extended Data](ext_articles/1713aa7a.ext.json)
-
----
-
-### Antiquities suspected of gold at a house in Puttalam
-
-*2024-05-13 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196565) · `si`
-
-A 34-year-old man in Kalpitiya was arrested for possessing illegal antiquities, suspected of containing gold, during a search operation by the Sri Lanka Navy and Puttalam Police. The items were hidden in his house, and he has been handed over to the Puttalam Police for further investigation.
-
-🟩
-
-A suspect has been arrested with an archaeological stock of antiquities that were illegal in a house in Alankadu area in Kalpitiya.
-
-According to information received, the Sri Lanka Navy and the Puttalam Police Division Criminal Investigation Bureau were conducting a sedus operation conducted in a sediment operation conducted by gold.
-
-The police said that these antiquities were hidden in the house.
-
-The victim was a 34 year old resident of Kalpitiya.
-
-The suspect and antiquities have been handed over to the Puttalam Police Station Criminal Investigation Bureau for further legal action.
-
-◼️
-
-[Data](articles/3219c905.json)
-
-[Extended Data](ext_articles/3219c905.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 16:49:43**
+As of **2024-05-13 17:03:21**
 
 ## Newspaper Stats
 
-*Scraped **23,717** Articles*
+*Scraped **23,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,78 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,357
 dailyftlk | 1,374
-adalk | 2,019
-adaderanalk | 2,770
+adalk | 2,020
+adaderanalk | 2,771
 tamilmirrorlk | 2,782
 virakesarilk | 3,527
-dailymirrorlk | 3,733
-adaderanasinhalalk | 3,803
+dailymirrorlk | 3,734
+adaderanasinhalalk | 3,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,716 (100.0%) of 23,717 articles have been extended.
+23,717 (100.0%) of 23,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### විදුලිබල පනත ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝගයක්
+### ලෝක කුසලාන කණ්ඩායම ගැන තරංග කී කතාව
+
+*2024-05-13 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196581) · `si`
+
+එළැඹෙන ජුනි මාසයේ ආරම්භවන 20යි 20 ලෝක කුසලානය සඳහා සහභාගිවන ශ්‍රී ලංකා කණ්ඩායම ඕනෑම අභියෝගයක් භාරගත හැකි ආකාරයේ කණ්ඩායමක් බව ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටු සභාපති උපුල් තරංග පවසයි.
+
+තේරීම් කමිටු සභාපතිවරයා මෙම අදහස් පළකළේ 20යි 20 ලෝක කුසලාන සංචිතය පිළිබඳ දැනුවත් කිරීමේ ප්‍රවෘත්ති සාකච්ඡාවට අද (13) එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුවේ සභාපති උපුල් තරංග,
+
+"අමෙරිකාවේ ඇති තණතිලි පිළිබඳව අපිට එන පණිවිඩ අනුව විශේෂයෙන් නිව්යෝක් සහ ඩලස්වලත් ඩ්‍රොපින් පිච් වල තමයි ක්‍රිඩා කරන්නේ. මොකද ඒවා තියෙන්නේ ඕස්‍ට්‍රේලියාවේ.  ගිය අවුරුද්දේ මේජර් ලීග් එක ක්‍රීඩා කරලා තියෙන්නේ ඩලස්වල ඒවත් ඩ්‍රොපින් පිච්වල තමයි ක්‍රීඩා කරන්නේ. ඒ පිචස් ගත්තාම ගොඩක්... ඔස්ට්‍රේලියාවෙන් ආවත් කියන්නේ අර අන්ඉවන් විකට් කියලා. ඒ වගේ විකට් එක පොඩ්ඩක් ස්ලෝ ගතියක් තියෙනවා කියලා. විශේෂයෙන්ම එහේ කන්ඩිෂන් එක්ක බලද්දී අමෙරිකාවේ ඒ වගේම බටහිර ඉන්දීය කොදෙව්වල. ගොඩක් විදියහට එන නිව්ස් එක්ක තියෙන විකට්ස් ටිකක් ස්ලෝ වෙයි කියලා."
+
+...
+
+[Data](articles/127307d4.json)
+
+---
+
+### Weather advisory issued for heavy rain
+
+*2024-05-13 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99191/weather-advisory-issued-for-heavy-rain) · `en`
+
+The Meteorology Department has issued an advisory for heavy rain for Central, Sabaragamuwa, Uva provinces and in Galle, Matara and Kaluthara districts.
+
+Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to enhance during the next few days, the advisory says.
+
+Heavy rainfall above 100 mm can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle, Matara and Kaluthara districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3ae537f5.json)
+
+---
+
+### Supreme Court orders over the Electricity Act
 
 *2024-05-13 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196580) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි නිත්‍යානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කතානායකවරයා වෙත යොමුකරන බව නිවේදනය කළේය.
+The Supreme Court has secretly concluded a case against the Power and Petroleum Committee, following a three-day hearing by judges Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekere.
 
-විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ එම පෙත්සම් විභාගය පැවැත්වුණි.
+🟩
 
-පුරා දින තුනක් තිස්සේ පැවැති මෙම පෙත්සම් විභාගය අද දින අවසන් කරමින් විනිසුරු මඩුල්ල මෙම නිවේදනය නිකුත් කළේය.
+The Supreme Court announced his secret conclusion on the legacy of the petition against the Power and Petroleum Committee presented by the government.
+
+The petition hearing was held in front of a three-member judge with Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekere.
+
+The panel of judges issued this announcement by concluding the exams held for three days.
 
 ◼️
 
 [Data](articles/924095cb.json)
+
+[Extended Data](ext_articles/924095cb.ext.json)
 
 ---
 
@@ -131,6 +173,24 @@ Meanwhile, the National Catholic Director of Mass Communications Rev. Fr. Jude K
 [Data](articles/c5c68ba1.json)
 
 [Extended Data](ext_articles/c5c68ba1.ext.json)
+
+---
+
+### Big names miss out as Netherlands announce squad for T20 World Cup
+
+*2024-05-13 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-names-miss-out-as-Netherlands-announce-squad-for-T20-World-Cup/108-282495) · `en`
+
+(ICC) - A reliable top-order performer and experienced all-rounder miss the cut as the Dutch reveal their playing group for next month's tournament.
+
+A pair of experienced performers have missed out as the Netherlands named their squad for next month's ICC Men's T20 World Cup 2024.
+
+Veteran all-rounder Roelof van der Merwe and key batter Colin Ackermann missed the cut for the Dutch, with selectors instead opting for the more youthful choices of left-arm spinner Tim Pringle, young seamer Kyle Klein and hard-hitting opener Michael Levitt in their squad.
+
+Levitt turned heads with a blistering hundred against Namibia in a T20I tri-series played in Nepal back in February, hitting 11 fours and 10 sixes in a knock of 135 from just 62 balls.
+
+...
+
+[Data](articles/0c734506.json)
 
 ---
 
@@ -772,6 +832,26 @@ Sri Lankan Lebscribes who were departed to Russia from the battlefield from the 
 
 ---
 
+### වෙසක් කූඩු හදන්න බටගස් කපන්න පන්සලට ගිය 13 හැවිරිදි සිසුවාට හිමිනම අතවර කරලා
+
+*2024-05-13 13:21:44* · [`adalk`](https://www.ada.lk/breaking_news/වෙසක්-කූඩු-හදන්න-බටගස්-කපන්න-පන්සලට-ගිය-13-හැවිරිදි-සිසුවාට-හිමිනම-අතවර-කරලා/11-409593) · `si`
+
+වෙසක් කූඩු සකස් කිරීමට බට කැපිමට පන්සලට ගිය 13 හැවිරිදි පාසල් සිසුවෙකුට ලිංගික අතවර කල 27 හැවිරිදි  හිමිනමක කළුතර දකුණ පොලිසිය විසින්  අත්අඩංගුවට ගෙන තිබේ .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර, මෙනේරිතැන්න ප්‍රදේශයේ විහාරස්ථානයක වැඩවසන හිමිනමක බව පොලිසිය කීය.
+
+වින්දිත පාසල් සිසුවා දෙමාපියන් දැනුවත් කිරීමෙන් පසු ඔවුන් සමග පොලිසියට කල පැමිණිල්ලක් අනුව සැකකාර හිමිනම අත්අඩංගුවට ගෙන තිබේ.
+
+වින්දිත සිසුවා රෝහල් හතකර ඇති බවත්, සැකකාර හිමිනම කළුතර මහේස්ත්‍රාත් අධිකරණය ඉදිරිපත් කිරීමට නියමිත බවත් පොලිසිය කීය.
+
+කළුතර දකුණ මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි ළමා හා කාන්තා කාර්යාංශය පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/1585ea21.json)
+
+---
+
 ### Putin's government in crisis
 
 *2024-05-13 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196574) · `si`
@@ -1074,7 +1154,7 @@ Orion City has said it plans to further strengthen its sustainable infrastructur
 
 ---
 
-### Paper setters to take final decision on controversy over OL science paper: Susil
+### Paper setters to take final decision on controversy over O/L science paper: Susil
 
 *2024-05-13 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paper-setters-to-take-final-decision-on-controversy-over-OL-science-paper-Susil/108-282487) · `en`
 
@@ -2199,107 +2279,5 @@ Two main rivals are JVP/NPP (Malimawa) and SJB. JVP/NPP and SJB have not stated 
 [Data](articles/9595a2ed.json)
 
 [Extended Data](ext_articles/9595a2ed.ext.json)
-
----
-
-### Girlfriend arrested over Kuliyapitiya youth murder
-
-*2024-05-13 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Girlfriend-arrested-over-Kuliyapitiya-youth-murder/108-282455) · `en`
-
-Kuliyapitiya, May 13 (Daily Mirror) - An 18-year-old girl, the girlfriend of the youth from Kuliyapitiya who was allegedly murdered while visiting the girl's house in Kuliyapitiya, has been arrested.
-
-Police said the suspect has been arrested on charges of aiding and abetting the murder and concealing the crime.
-
-The body of the youth, who had gone missing while visiting his girlfriend’s house, was recovered in the Panirendawa area of Madampe last week.
-
-On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya.
-
-Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
-
-Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
-
-Earlier, the father and mother of the girlfriend were arrested and remanded over the murder.
-
-◼️
-
-[Data](articles/e338e739.json)
-
-[Extended Data](ext_articles/e338e739.ext.json)
-
----
-
-### A job racket in Ramamania
-
-*2024-05-13 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196562) · `si`
-
-In Negombo, a job racket aimed at sending locals to Romania for work was exposed. The scam, which collected funds ranging from Rs. 10 to Rs. 10 million, was denounced by victims who met in front of the job delegation. One victim shared their experience, stating they were promised jobs in Romania but were instead defrauded of 700 lakhs, with 120 others facing a similar fate.
-
-🟩
-
-The tense situation in Negombo yesterday has been aimed at a job delegation which has been operated in the Negombo area to provide jobs in Romania.
-
-The money has been obtained from Rs. 10 to Rs 10 million from one lakh.
-
-They all met in front of the job delegation yesterday and they expressed their views to the media.
-
-"I came in Wadduwa. I gave it 700 lakhs to go in Romania. And there are 120 out of this. They all tomorrow tells us to come today, and they say that it is content. They're a big fraud. "
-
-◼️
-
-[Data](articles/8408ff58.json)
-
-[Extended Data](ext_articles/8408ff58.ext.json)
-
----
-
-### 34 floods killed in Indonesia
-
-*2024-05-13 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196561) · `si`
-
-Indonesia floods killed 34, affected 16 missing, damaged 84 houses, 16 bridges, and two religious sites. 90 sent to IDP camps. In March, West Sumatra floods killed 26.
-
-🟩
-
-34 people were killed as a result of the floods affected by Indonesia.
-
-Foreign media reports that 16 others have gone missing.
-
-As a result of this, 84 houses, 16 bridges and two religious places were damaged.
-
-Foreign reported that 90 persons have been sent to the IDP camps.
-
-In the West Sumatra area last March, 26 people were killed due to floods and landslides.
-
-◼️
-
-[Data](articles/1bef5c48.json)
-
-[Extended Data](ext_articles/1bef5c48.ext.json)
-
----
-
-### 18 -year -old girlfriend arrested
-
-*2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளியாபிட்டிய-இளைஞன்-கொலை-18-வயது-காதலி-கைது/175-337214) · `ta`
-
-An 18-year-old's girlfriend is arrested for assisting in a murder. The victim, a young man, disappeared to visit her in Kuliyapitiya and was later found dead. The suspect's parents, Sujith Fernando and Dylani Pasa, are also in custody.
-
-🟩
-
-His 18 -year -old girlfriend has been arrested in connection with the murder of a young man who went to visit a girlfriend in Kuliyapitiya.
-
-The suspect has been arrested on charges of assisting and hiding the crime, police said.
-
-The young man from Kiliyapitiya disappeared on the 22nd of last month to go to the Vassaulla area of Kiliyapitiya to see his girlfriend.
-
-The body of the missing youth was later recovered in Chilaw - Madambe area.
-
-Sujith Fernando and his wife Dylani Pasa, known as 'Singhiti', the father of the girlfriend of the Vassaulla area of Kiliyapitiya, have already been arrested and kept in interrogation.. Remble
-
-◼️
-
-[Data](articles/d0bf9002.json)
-
-[Extended Data](ext_articles/d0bf9002.ext.json)
 
 ---

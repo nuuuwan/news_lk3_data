@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 08:33:41**
+As of **2024-05-13 08:52:26**
 
 ## Newspaper Stats
 
-*Scraped **23,606** Articles*
+*Scraped **23,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,122 @@ newsfirstlk | 363
 islandlk | 1,285
 economynextcom | 1,351
 dailyftlk | 1,374
-adalk | 2,002
+adalk | 2,003
 adaderanalk | 2,754
 tamilmirrorlk | 2,764
 virakesarilk | 3,516
-dailymirrorlk | 3,714
-adaderanasinhalalk | 3,782
+dailymirrorlk | 3,716
+adaderanasinhalalk | 3,784
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,601 (100.0%) of 23,606 articles have been extended.
+23,606 (100.0%) of 23,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பு - மழை அதிகரிப்பு
+### ඉන්දුනීසියාවේ ගංවතුරෙන් 34ක් ජීවිතක්ෂයට
+
+*2024-05-13 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196561) · `si`
+
+ඉන්දුනීසියාවට බටහිර ප්‍රදේශයට බලපෑ ගංවතුර තත්ත්වය හේතුවෙන් පුද්ගලයින් 34 දෙනෙකු මියගොස් තිබේ.
+
+තවත් පුද්ගලයින් 16 දෙනෙකු අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මේ හේතුවෙන් නිවාස 84ක්, පාලම් 16ක් සහ ආගමික ස්ථාන දෙකකට හානි සිදුවී ඇති බව සඳහන්ය.
+
+පුද්ගලයින් 90 දෙනෙකු අවතැන් කඳවුරු වෙත යොමු කර ඇති බව විදෙස් වාර්තා කළේය.
+
+පසුගිය මාර්තු මාසයේ බටහිර සුමාත්‍රා ප්‍රදේශයට බලපෑ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 26 දෙනෙකු මියගොස් තිබිණි.
+
+◼️
+
+[Data](articles/1bef5c48.json)
+
+---
+
+### Minister Alles vows stringent action against police misconduct in Yukthiya operation
+
+*2024-05-13 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-Alles-vows-stringent-action-against-police-misconduct-in-Yukthiya-operation/108-282451) · `en`
+
+Colombo, May 13 (Daily Mirror) - Responding to allegations of police officers misusing the Yukthiya Operation and being involved with criminals in exchange for bribes, Public Security Minister Tiran Alles said that stringent action will be taken against any officers found abusing their authority.
+
+The minister told Daily Mirror that he would not tolerate any such incidents and asserted that he had already taken action against certain police officers implicated in such allegations and their association with criminals. "When we look at recent incidents, everyone knows the about the action I have taken against those found misusing their uniforms," he said.
+
+Recently, several MPs alleged that innocent people including school children are arrested under the Yukthiya Operation for minor offences in some police stations and they are unreasonably charged under Act 54 of the Criminal Procedure.
+
+...
+
+[Data](articles/42647731.json)
+
+---
+
+### Govt. confident of attracting over US$ 3 bn investments this year
+
+*2024-05-13 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-confident-of-attracting-over-US-3-bn-investments-this-year/108-282437) · `en`
+
+Sri Lanka is all set to triple the investment target set for 2024, State Minister of Investment Promotion Dilum Amunugama said, as the necessary activities to realise the goal for 1Q24, set by the Finance Ministry has been successfully rolled out.
+
+Amunugama, addressing a press conference on Friday said that the authorities are confident in attracting over US$ 3 billion in investments to the country.
+
+“It is important to note that the investment projects signed in 2023 will be executed this year, though they are not counted as part of this year’s investments,” added Amunugama.
+
+He went on to stress that he can “confidently affirm” that the investment background has significantly improved, showing a 200 percent progress from two years ago, making Sri Lanka favourable for investors.
+
+He shared that this year Sri Lanka initiated investment promotion efforts in foreign countries by appointing representatives to the investment board.
+
+...
+
+[Data](articles/049f27c2.json)
+
+---
+
+### Turns out in the low -lying atmosphere - the increase in the shower
 
 *2024-05-13 08:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு-மழை-அதிகரிப்பு/175-337213) · `ta`
 
-இலங்கையை அண்மித்த தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பான தன்மை உருவாகியுள்ளதால், நாடளாவிய ரீதியில் மழைவீழ்ச்சி அதிகரிக்கும் என எதிர்பார்க்கப்படுகின்றது.
+Nationwide, Sri Lanka expects increased rainfall due to atmospheric turbulence, with over 100mm forecasted in Western, Sabaragamuwa, Central, North Western, Uva provinces, and Galle, Matara districts. Thunderstorms and heavy winds are anticipated, prompting the Department of Meteorology to advise caution.
 
-நாட்டின் பல மாகாணங்களில், பிற்பகல் 1.00 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யுக்கூடும்.
+🟩
 
-மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகளவான மழைவீழ்ச்சி எதிர்பார்க்கப்படுகிறது.
+Rainfall is expected to increase nationwide as the turbulence has developed in the recent low -lying atmosphere of Sri Lanka.
 
-கிழக்கு மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையில் ஒரு சில இடங்களில் மழை பெய்யக் கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+In many provinces of the country, rain or thunderstorms will occur at 1.00 pm.
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் சில இடங்களில் பனிமூட்டமான நிலை நிலவும்.
+More than 100 millimeters of rainfall is expected in some places in the Western, Sabaragamuwa, Central, North Western and Uva provinces and Galle and Matara districts.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+Rainfall is expected in a few places in the morning.
+
+In the morning, in the morning, in the Galle and Matara districts, there will be snowfall.
+
+The Department of Meteorology has urged the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/9f763418.json)
+
+[Extended Data](ext_articles/9f763418.ext.json)
+
+---
+
+### මළ ගෙදරට ලයිට් දාන්න ගිය පිරිසකට විදුලි සැර වැදෙයි
+
+*2024-05-13 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196560) · `si`
+
+මෙම පුද්ගලයා සහ තවත් සිව්දෙනෙකු එකතුව ප්‍රදේශයේ පැවති අවමංගල නිවසක් තිබ‍ූ මාර්ගයට ආලෝකය ලබා දීමට විදුලි බල්බ සවි කිරීමට කටයුතු කරමින් සිටිය දී මෙම අනතුර සිදුව ඇත.
+
+පොලීසිය විමර්ශනවලදී අනාවරණය වී ඇත්තේ, විදුලි බල්බ සවිකිරීමට යොදා ගත් වයරය මාර්ගයේ තිබු අධිබලැති විදුලි රැහැනක ගැටීමෙන් මෙම පුද්ගලයින්ට විදුලිසැර වැදී ඇති බවය.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 40 වයසැති තිහාරිය කළගෙඩිහේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+විදුලි සැර වැදුණු අනෙක් පුද්ගලයින් සිව්දෙනා වතුපිටිවල රෝහලේ නේවාසිකව ප්‍රථිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/adedb49a.json)
 
 ---
 
@@ -70,23 +150,35 @@ However, the body of the missing youth was discovered weeks later at the Paniren
 
 [Data](articles/5dc03d37.json)
 
+[Extended Data](ext_articles/5dc03d37.ext.json)
+
 ---
 
-### අද සෞඛ්‍ය වර්ජනය අද මධ්‍යම පළාතේ
+### Today's health boycott today
 
 *2024-05-13 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196559) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය විසින් අද (13) උදෑසන මධ්‍යම පළාතේ රෝහල් තුළ වර්ජන ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කර තිබේ.
+Health Trade Union Alliance in Sri Lanka's Central Province is on strike, protesting government's refusal to meet their demands. The strike, which began with health trade unions, has been criticized by the President's Trade Union Director General, Saman Ratnapriya, who believes it's not the right approach. Meanwhile, proposals to address issues of university non-academic workers, including a monthly allowance and salary anomalies, have been submitted to the Cabinet. The strike by these workers will continue today.
 
-සිය ඉල්ලීම් සඳහා රජය නිසි ප්‍රතිචාර නොදක්වන්නේ නම් එළැඹෙන 22 වන දා සිට දීප ව්‍යාප්ත වැඩවර්ජනයක් ආරම්භ කරන බව එම සන්ධානයේ සම කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+🟩
 
-සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කළ මෙම වර්ජන ක්‍රියාමාර්ගය සම්බන්ධයෙන් ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය මහතා අදහස් පළ කළේය.
+The Health Trade Union Alliance has decided to engage in a strike action at the Central Province this morning (13).
 
-"මේ ප්‍රශ්නයේ මුලික කාරණය විසඳලා ඉවරයි. දීමනාව දෙන්න තීරණය කරලා, චක්‍රලේඛයත් නිකුත් කරලා ඉවරයි. පොඩි කොටසකට තමා මේ දීමනාව දැනට අහිමිවෙලා තියෙන්නේ. පෙරදීමනාව නොගෙවීම යන කාරණාව මත. ඒ අයට දීමනාව දෙන්න කියලා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කරන්න කියලා අපි සෞඛ්‍ය ඇමතිතුමාට කිව්වා. එතුමා ඒක මං හිතන්නේ කරනවා. වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ගන්න ඒ අය තීරණය කරලා තියෙනවා. ඒ තීරණයට ටිකක් කල්දීලා මේක විසඳන්න කටයුතු කරන්න අවස්ථාව දෙන එක හොඳයි."
+The co-convener Ravi Kudmith was said that the government is not responsible for his demands.
+
+President's Trade Union Director General Saman Ratnapriya expressed his views regarding this strike action which was started with the health trade unions.
+
+"The main matter of this question is resolved. The circular is decided to give the allowance. He has lost this offer at present. On the point of not paying the previous one. We told the Minister of Health to present a cabinet paper to give them allowance. He thinks that. They have decided to take a trade union action. It is good to give that decision to resolve this. "
+
+He said that it is not acceptable to engage in such a trade union action according to the situation.
+
+Meanwhile, the proposals to resolve the problems of university non-academic workers have been submitted to the Cabinet of Cabinet today.
 
 ...
 
 [Data](articles/8eeb2739.json)
+
+[Extended Data](ext_articles/8eeb2739.ext.json)
 
 ---
 
@@ -133,6 +225,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/d902c542.json)
+
+[Extended Data](ext_articles/d902c542.ext.json)
 
 ---
 
@@ -770,17 +864,23 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 
 ---
 
-### பல்கலை ஊழியர் இன்று கவனவீர்ப்பு
+### University employee today's attention
 
 *2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-ஊழியர்-இன்று-கவனவீர்ப்பு/175-337212) · `ta`
 
-நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் நடைபெற்றுவரும் பல்கலைக்கழக ஊழியர் சங்கத்தின் தொடர்ச்சியான வேலைநிறுத்தத்தின் ஒரு பகுதியாக இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் அனைத்துப் பல்கலைக்கழகங்களிலும், பல்கலைக்கழக வாயிலில் அல்லது அருகில் உள்ள நகரில் கவனவீர்ப்பு ஆர்ப்பாட்டம் நடாத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+University employees nationwide are on strike, with a media briefing scheduled at Jaffna University at 10:00 am today, in partnership with the Student Union.
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்திலும் பல்கலைக்கழக ஊழியர் சங்கத்தினால் இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் கவனவீர்ப்பு ஆர்ப்பாட்டமும் அதனைத் தொடர்ந்து மாணவர் ஒன்றியத்தினருடன் இணைந்து ஊடக சந்திப்பு ஒன்றும் நடைபெறவுள்ளதென யாழ்ப்பாணப் பல்கலைக்கழக ஊழியர் சங்கத்தின் இணைச் செயலாளர் த.சிவரூபன் தெரிவித்தார். (a)
+🟩
+
+It is reported that as part of the continuous strike of the university employees' union at state universities across the country, it is reported that all universities, at the university gate or in a nearby city will be held today at 10.00 am.
+
+Jaffna University Employees Union (Jaffna University Employees Union) said that a media briefing will be held in partnership with the Student Union at 10.00 am on Monday morning by the University Employees Union.. (A)
 
 ◼️
 
 [Data](articles/d8653ca2.json)
+
+[Extended Data](ext_articles/d8653ca2.ext.json)
 
 ---
 
@@ -1402,6 +1502,22 @@ The desperation in western capitals is more than palpable. The looming defeat in
 
 ---
 
+### විභාග නොතියා කොරියා යවන ගිවිසුමක් නෑ
+
+*2024-05-12 20:14:19* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-නොතියා-කොරියා-යවන-ගිවිසුමක්-නෑ/11-409585) · `si`
+
+කෘෂිකර්ම ක්ෂේත්‍රයෙහි රැකියා සඳහා තරුණ තරුණියන්ට කොරියාවට යෑමේ හැකියාව පිළඳව සාකච්ජා කරමින් තිබෙන බවත්, විභාගයක් නොපවත්වා එරටට යැවීමේ කිසිදු ගිවිසුමකට  එළඹ නැති බවත් කොරියාවේ රැකියා ලබා දෙන බව පවසා  මුදල් එකතු කළ ජාවාරම්කරුවන් කිහිප දෙනෙකුම අත්අඩංගුවට ගැනීමට කටයුතු කළ බවත්කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+
+"මගෙන් පටන්ගමු ජයගමු ශ්‍රී ලංකා' හම්බන්තොට වැඩසටහන අඟුණුකොළපැලැස්ස බන්ධනාගාර ක්‍රීඩාංගණයේදී ආරම්භ කරමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+විගමනික ශ්‍රමික ප්‍රජාව සඳහා පහසුකම් සැපයීම හා විදෙස්ගත වීම බලාපොරොත්තු වන මෙරට තරුණ තරුණියන් නිවැරදිව විදෙස්ගත වන ආකාරය පිළිබඳව දැනුවත් කිරිම ඇතුළු වැඩසටහන් රැසක් 10 හා 11 දෙදින අඟුණකොළපැලැස්ස බන්ධනාගාර ක්‍රීඩාංගණයේදී පැවැත්විණ.එම උත්සව සභාව අමතමින් අමාත්‍යවරයා වැඩිදුරටත් මෙසේද පැවසීය.
+
+...
+
+[Data](articles/c0ab61e3.json)
+
+---
+
 ### If the government requests the Government of Russia, Sri Lankans imported in a week
 
 *2024-05-12 19:57:22* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ඉල්ලීමක්-කළොත්-රුසියාවේ-හමුදා-සේවයට-ගිය-ලාංකිකයන්-සතියකින්-ගෙන්වනවා/11-409582) · `si`
@@ -2017,123 +2133,5 @@ Rajapaksa emphasized his administration’s stance of not selling a single state
 [Data](articles/52d757b1.json)
 
 [Extended Data](ext_articles/52d757b1.ext.json)
-
----
-
-### Does the bashil take the hand on the hand?
-
-*2024-05-12 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183322) · `ta`
-
-Basil Rajapaksa, a key political figure, is known for his strategic maneuvers in Sri Lankan politics. Despite facing criticism and legal issues, he has demonstrated a knack for turning enemies into allies and vice versa, showcasing his ability to navigate the complex world of politics. His role in the unexpected appointment of Mahinda Rajapaksa as Prime Minister in 2018, despite opposition, highlights his skill in political maneuvering. Basil is currently working to rebuild the PA party and aims to return the Rajapaksa family to power, employing various strategies to influence political outcomes. His approach to politics, characterized by efficiency and tact, serves as a lesson for other politicians.
-
-🟩
-
-Rajapaksa is one of the politicians who think of the finger of the sand and the rope.
-
-This claim may not have agreement to many. It must be acknowledged that he has the ability to exceed any other politician in his politics and life or not.
-
-This is not a praise for Bashil. Lesson that other politicians should learn in politics. In the 2015 presidential election, the defeat of the Rajapakse family is attributed to the autocraticity of the family. Such criticisms were openly presented.
-
-Rajapaksa also had a significant share in Bashil. He is the one who left the hospital bed, not going to jail, although there are many corruption and fraud.
-
-After the defeat of Mahinda, he created the PA and developed it in the next few years.
-
-If the PA is strong in Sinhala politics today, Mahinda's leadership is not the only reason, but also Basil's efficient and tactfulness.
-
-He is the one who can do anything for politics and power to make enemies a friend and an enemy of friends.
-
-...
-
-[Data](articles/2643f136.json)
-
-[Extended Data](ext_articles/2643f136.ext.json)
-
----
-
-### Continuing curse
-
-*2024-05-12 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183324) · `ta`
-
-In a solitary prison, the speaker, accused and forgotten of innocence, experiences a cruel reality. Despite his innocence, he's trapped, questioning the nature of his confinement and the justice system.
-
-🟩
-
-The command came to be placed in a solitary prison with a meter. The demonstration again. But this time I have forgotten the argument that I am innocent. What a cruel this is!How is this prison?Sleeping?Don't you know this?He shouted.
-
-◼️
-
-[Data](articles/b003ebd5.json)
-
-[Extended Data](ext_articles/b003ebd5.ext.json)
-
----
-
-### Mahinda is a serious decision about the President's rule
-
-*2024-05-12 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196544) · `si`
-
-Mahinda Rajapaksa criticizes the current government for unrest, blaming trade unions and political parties. He mentions the IMF's influence and the interim government's role. Rajapaksa suggests suspending state asset sales until a new government is elected, aiming for a productive outcome.
-
-🟩
-
-Former President Mahinda Rajapaksa says that the trade unions have caused a unrest among the trade unions, political parties and general public due to the measures that the government is taking into custody.
-
-I am releasing an announcement.
-
-The current government is based on that this step is based on minimizing the costs of losses and the conditions of the International Monetary Fund.
-
-President Rajapaksa recalls that the present government is an interim program for the rest of the country during the rest of the contents of former President Gotabhaya Rajapaksa.
-
-In this case, it is said that individual parties to privatize that the country cannot get a productive result from selling state property.
-
-Former President Mahinda Rajapaksa proposes that all steps taken to sell state ownership or businesses should be suspended until a new government is formed after the next presidential election.
-
-◼️
-
-[Data](articles/98137066.json)
-
-[Extended Data](ext_articles/98137066.ext.json)
-
----
-
-### Vadivel Suresh for 1700 rupees till June 10 - Vadivel Suresh
-
-*2024-05-12 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183317) · `ta`
-
-Vadivel Suresh, a senior adviser, advocates for plantation workers to receive a 1700 rupee salary increase, citing government support. Companies challenging this raise face legal action, with President Ranil Wickremesinghe offering legal aid. The Minister of Labor's attention to a 1200 rupee payment is noted, but the focus remains on the 1700 rupee increase. The Commissioner of Labor aims to pay 1350 rupees as basic salary, with additional payments, but the inclusion of tea in the salary is undecided. Complaints about salary payments are limited to certain companies, leading to worker dissatisfaction and migration. The management system is criticized for its impact on worker well-being and the environment. Political representation for Tamil communities is discussed, with a call for action to address the issues faced by plantation workers.
-
-🟩
-
-Vadivel Suresh, a president's senior adviser and parliamentarian, said the government should ensure that the workers will be paid 1700 rupees without the increased job.
-
-He was presenting the Weerakesari weekly release on workers' salary affairs, plantation management system and plantation quadrilateral.
-
-Question: Can the company's next move, if the companies are legally challenging the gazette notification of the salary increase?
-
-Answer: Plantation workers must seek law on salary issue. But the estate companies are trying to seek the law. The companies went to the High Court on a thousand rupees. Eventually the workers were judged to pay a thousand rupees. Similarly, President Ranil Wickremesinghe has promised to arrange lawyers to appear on behalf of workers if the company is in court this time.. So this time the companies are not going to allow any problems.
-
-...
-
-[Data](articles/fb01ba03.json)
-
-[Extended Data](ext_articles/fb01ba03.ext.json)
-
----
-
-### Wide International Social Support to implement 13 - Eric Solheim in exclusive
-
-*2024-05-12 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183314) · `ta`
-
-Eric Solheim, after visiting Sri Lanka, is receiving wide international social support for his initiatives, especially in the North and East. His efforts are gaining momentum towards achieving his goals.
-
-🟩
-
-He recently visited Sri Lanka and held various meetings to the North and East.. To come to the full form of his body,
-
-◼️
-
-[Data](articles/43df802e.json)
-
-[Extended Data](ext_articles/43df802e.ext.json)
 
 ---

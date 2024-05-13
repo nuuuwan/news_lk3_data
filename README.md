@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 01:18:23**
+As of **2024-05-14 01:33:43**
 
 ## Newspaper Stats
 
-*Scraped **23,810** Articles*
+*Scraped **23,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,786
+tamilmirrorlk | 2,787
 virakesarilk | 3,552
 dailymirrorlk | 3,747
 adaderanasinhalalk | 3,816
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,810 (100.0%) of 23,810 articles have been extended.
+23,810 (100.0%) of 23,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### ’மோசடியின் பின்னணியை ஆராயவும்’
+
+*2024-05-14 00:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசடியின்-பின்னணியை-ஆராயவும்/175-337266) · `ta`
+
+ரஷ்ய யுத்த களத்துக்கு இலங்கையில் ஓய்வு பெற்ற இராணுவ வீரர்களை சட்டவிரோதமான முறையில் அனுப்பும் மோசடியின் பின்னணியில் ரஷ்யாவுக்கான  முன்னாள் இலங்கை தூதுவர் தொடர்புப்பட்டுள்ளாரா என்ற சந்தேகம் எழுவதாகத் தெரிவித்த சுயாதீன எதிரணி எம்.பி.யான காமினி வலேபொட, பலஸ்தீனத்துக்கும் இஸ்ரேலுக்கும் இடையிலான யுத்தம்  தற்போது தீவிரமடைந்துள்ளது. ஆகவே இந்த நாடுகளின் யுத்தக் களத்துக்கும் இலங்கையர்கள் சட்டவிரோதமான முறையில் அனுப்பி வைக்கப்படலாம் எனவும் தெரிவித்தார்
+
+பாராளுமன்றத்தில் திங்கட்கிழமை  (13) விசேட கூற்றை முன்வைத்த போதே இவ்வாறு தெரிவித்த அவர் மேலும்  பேசுகையில்,
+
+ரஷ்யாவில்  தொழில் வாய்ப்புக்களை பெற்றுத் தருவதாக கூறி  இங்கு ஓய்வு பெற்ற இராணுவத்தினரை ரஷ்ய இராணுவத்தில் இணைக்கும் மோசடிகள் தற்போது தீவிரமடைந்துள்ளன.ரஷ்ய யுத்த  களத்தில் பாதிக்கப்பட்டுள்ள இலங்கையர்கள் எம்மை தொடர்புக் கொண்டு அழுது புலம்புகிறார்கள்.யுத்த  களத்துக்கு செல்வதை தாங்கள் அறியவில்லை என்று  கூறுகின்றார்கள்
+
+...
+
+[Data](articles/5a4ed6a1.json)
+
+---
 
 ### Arrangement
 
@@ -2231,21 +2247,5 @@ The National Water Supply and Drainage Board (NWS & DB) increased the water tari
 [Data](articles/3cc61339.json)
 
 [Extended Data](ext_articles/3cc61339.ext.json)
-
----
-
-### Court order issued preventing disruptions to new SLFP Chairman and Act. Gen. Sec
-
-*2024-05-13 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99187/court-order-issued-preventing-disruptions-to-new-slfp-chairman-and-act-gen-sec) · `en`
-
-The Kaduwela District Court today (13) issued an enjoining order preventing any individuals from disrupting the new Chairman of the Sri Lanka Freedom Party (SLFP) Wijeyadasa Rajapakshe and Acting General Secretary Keerthi Udawatte from functioning in their respective roles.
-
-The order was issued after considering a petition filed with the Kaduwela District Court by two SLFP Executive Committee members namely, Isuru Abeywardena and Sumith Wijayamuni de Zoysa, naming 20 Executive Committee members as respondents.
-
-◼️
-
-[Data](articles/2f1bdb0f.json)
-
-[Extended Data](ext_articles/2f1bdb0f.ext.json)
 
 ---

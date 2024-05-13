@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 11:18:37**
+As of **2024-05-13 11:34:01**
 
 ## Newspaper Stats
 
-*Scraped **23,642** Articles*
+*Scraped **23,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,147 @@ islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,007
-adaderanalk | 2,757
+adaderanalk | 2,759
 tamilmirrorlk | 2,771
-virakesarilk | 3,518
+virakesarilk | 3,521
 dailymirrorlk | 3,722
-adaderanasinhalalk | 3,790
+adaderanasinhalalk | 3,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,640 (100.0%) of 23,642 articles have been extended.
+23,642 (100.0%) of 23,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### தனியார்மயப்படுத்தலை ஆறப்போடவும் ;மஹிந்த
+### සා පෙළ විද්‍යාව සහ ඉංග්‍රීසි ප්‍රශ්නපත්‍ර ගැන අවසන් තීරණය
+
+*2024-05-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196569) · `si`
+
+මෙවර සාමාන්‍ය පෙළ විභාගයේ විද්‍යාව සහ ඉංග්‍රීසි ප්‍රශ්නපත්‍ර සම්බන්ධයෙන් අද පාර්ලිමේන්තුවේ දී අධ්‍යාපන අමාත්‍යවරයා අදහස් පළ කළේය.
+
+පාර්ලිමේන්තු මන්ත්‍රී රෝහිණී කවිරත්න මහත්මිය විසින් ඉදිරිපත් කළ පැනයකට පිළිතුරු ලබාදෙමින් අමාත්‍යවරයා සඳහා කර සිටියේ, එම ප්‍රශ්නපත්‍ර සම්බන්ධයෙන් කිසිදු අවස්ථාවක දරුවන්ට අසාධාරණයක් සිදුනොවීමට වගබලා ගන්නා බවය.
+
+එමෙන්ම විද්‍යාව ප්‍රශ්නපත්‍රය සැකසු පිරිස රැස්වී ඒ සම්බන්ධයෙන් අවසන් තීන්දුවක් ගැනීමට කටයුතු කරමින් සිටින බවද අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා කියා සිටියේය.
+
+"විද්‍යාව ප්‍රශ්නපත්‍රයේ ප්‍රශ්න කිහිපයක් සම්බන්ධයෙන් සහ බහුවරණ ප්‍රශ්න කිහිපයක් සම්බන්ධයෙන් ප්‍රශ්නය ඇති වූ වේලාවේ සිට ඒ ප්‍රශ්නපත්‍රය සකස් කළ අය රැස්වෙලා ඒ සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට නියමිතව තිබෙනවා. ඒ වගේම විභාග කොමසාරිස්වරයා මේ සම්බන්ධයෙන් ප්‍රකාශයක් නිකුත් කළා. සාමාන්‍යයෙන් වෙන්නේ ඕනෑම විභාගයක දී සාම්පල් මාර්ක් එකක් කරනවා. එතැනින් පස්සේ බරතැබීම සම්බන්ධයෙන් වෙනස්කම් කරනවා. ඒ නිසා දරුවන්ට අසාධාරණයක් නොවන ආකාරයට මාර්කින් ස්කීම් එක සකස් කිරීමට ඒ පැනල් එක කටයුතු කිරීමට නියමිතයි."
+
+...
+
+[Data](articles/89ef3e93.json)
+
+---
+
+### ඩොනල්ඩ් ලූ අද දිවයිනට
+
+*2024-05-13 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196568) · `si`
+
+දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා අද (13) නිල සංචාරයක් සඳහා දිවයිනට පැමිණීමට නියමිතය.
+
+◼️
+
+[Data](articles/dea38845.json)
+
+---
+
+### US Assistant Secretary Donald Lu embarks on visit to Sri Lanka
+
+*2024-05-13 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99178/us-assistant-secretary-donald-lu-embarks-on-visit-to-sri-lanka) · `en`
+
+U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has commenced  his official visit to Sri Lanka today (13).
+
+Accordingly, he is set to engage with officials from across the political spectrum and civil society to deepen the United States’ partnership with Sri Lanka.
+
+Mr. Donald Lu’s Sri Lanka visit came as part of his broader tour of the region from May 10th to 15th, which included India and Bangladesh.
+
+Issuing a statement, the US State Department stated last week that in his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society.
+
+◼️
+
+[Data](articles/8e366b25.json)
+
+---
+
+### இ.போ. ச. சாரதி, நடத்துனர்கள் 1,000 பேருக்கு நிரந்தர நியமனம்!
+
+*2024-05-13 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183382) · `ta`
+
+இலங்கை போக்குவரத்து சபையில் பணியாற்றும்  1,000 சாரதிகள் மற்றும் நடத்துனர்களுக்கு நிரந்தர நியமனக் கடிதங்கள் வழங்கப்பட்டுள்ளன.
+
+நாடளாவிய ரீதியில் உள்ள அனைத்து டிப்போக்களையும் பிரதிநிதித்துவப்படுத்துவதற்கு தேவையான தகைமைகளைப் பெற்ற சாரதிகள் மற்றும் நடத்துனர்கள் குழுவொன்று நியமிக்கப்பட்டுள்ளதாக போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடக அமைச்சு தெரிவித்துள்ளது.
+
+2018ஆம் ஆண்டு முதல் ஒப்பந்த அடிப்படையில் பணிபுரிந்த ஊழியர்களுக்கு இவ்வாறான நிரந்தர நியமனங்கள் வழங்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/47bcfb15.json)
+
+---
+
+### Unidentified body discovered in Giriulla
+
+*2024-05-13 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99177/unidentified-body-discovered-in-giriulla) · `en`
+
+An unidentified body of a male has been recovered from a paddy field in the Kajuwetiyawatta area of Giriulla police division, the police said.
+
+While the identity of the deceased male is yet to be ascertain, police said that he is believed to be between 50-60 years old.
+
+Police also stated that the naked body was beyond recognition due to its advanced state of decomposition.
+
+The body has been placed at the Kuliyapitiya Hospital, while the Giriulla Police are conducting further investigations.
+
+◼️
+
+[Data](articles/8ef1494f.json)
+
+---
+
+### Make privatization;
 
 *2024-05-13 11:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்மயப்படுத்தலை-ஆறப்போடவும்-மஹிந்த/175-337225) · `ta`
 
-அரசாங்கத்தின் தனியார்மயமாக்கல் முயற்சியை எதிர்வரும் ஜனாதிபதித் தேர்தல் முடியும் வரை ஒத்திவைக்குமாறு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச முன்மொழிந்துள்ளார்.
+Former President Mahinda Rajapakse suggests postponing the privatization of state-owned assets until after the next presidential election, citing the interim nature of the current government. He argues that these assets should be managed by the incoming administration, as they were during his tenure, which saw no privatization and maintained profitability. This move comes amid growing public discontent over the rapid sale of state assets.
 
-தற்போதைய அரசாங்கத்தின் இடைக்காலத் தன்மையை வலியுறுத்தினார், மேலும் அரசுக்குச் சொந்தமான சொத்துக்கள் தொடர்பான முடிவுகளை வாக்காளர்களிடம் இருந்து பெறப்பட்ட ஆணைக்கு ஏற்ப, உள்வரும் நிர்வாகத்திடம் விட வேண்டும் என்று பரிந்துரைத்தார்.
+🟩
 
-2009 ஆம் ஆண்டிலிருந்து நான் நாட்டை 9 ஆண்டுகளுக்கும் மேலாக ஆட்சி செய்தேன். அப்போது அரசுக்கு சொந்தமான நிறுவனங்கள் ஒன்றைக் கூட விற்கவில்லை. உண்மையை சொன்னால், முன்னிருந்த அரசாங்கங்கள் விற்ற அரசுக்கு சொந்தமான நிறுவனங்களான காப்பீட்டு நிறுவனம் மற்றும் லங்கா வைத்தியசாலை போன்றவற்றை எனது அரசாங்கத்தில் மீளப் பெற்றேன். அவை இன்னும் இலாபமீட்டுகின்றன.
+Former President Mahinda Rajapakse has proposed to postpone the government's privatization effort until the upcoming presidential election.
 
-அரசுக்குச் சொந்தமான சொத்துக்களை விரைவாகப் பிரித்தெடுப்பதில் அதிகரித்துவரும் அதிருப்தியின் மத்தியில் இந்தப் பரிந்துரை வந்துள்ளது என ஒரு அறிக்கையை வெளியிட்டு மஹிந்த தெரிவித்துள்ளார்.
+He emphasized the interim nature of the current government, and recommended that the state -owned assets be given to the incoming administration in accordance with the decree received from the voters.
+
+I have ruled the country for over 9 years since 2009. At the time, state -owned companies did not sell even one. In fact, the government -owned corporations, such as the insurance company and the Lanka Hospital, have been recalled in my government.. They are still profitable.
+
+Mahinda Rajapakse issued a statement that the recommendation came amid increasing dissatisfaction with rapidly extracting state -owned assets.
+
+“I would like to propose all measures to sell state assets or corporations until the new government is formed after the next presidential election.
 
 ...
 
 [Data](articles/4c7e2d5d.json)
+
+[Extended Data](ext_articles/4c7e2d5d.ext.json)
+
+---
+
+### ஆப்கானிஸ்தானில் வெள்ளத்தால் கிராமங்கள் நீரில் மூழ்கின : 315 பேர் பலி
+
+*2024-05-13 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183376) · `ta`
+
+வட ஆப்கானிஸ்தானில் பெய்த கடும் மழையால் கிராமங்கள் நீரில் மூழ்கியுள்ளன. இதன் காரணமாக வெள்ளத்தில் சிக்கி 315 பேர் உயிரிழந்துள்ளதோடு, 1,600 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக அதிகாரிகள் ஞாயிற்றுக்கிழமை தெரிவித்தனர்.
+
+வீதிகள் சேற்றில் புதைந்திருப்பதோடு சுகாதாரப் பாதுகாப்பு வசதிகள் மற்றும் நீர் வழங்கல் போன்ற முக்கிய உள்கட்டமைப்புகளுக்கு சேதம் ஏற்படுவதாக உதவிக் குழுக்கள் எச்சரித்துள்ளன.
+
+"எங்களுக்கு உணவு இல்லை, குடிநீர் இல்லை, தங்குமிடம் இல்லை, போர்வைகள் இல்லை, எதுவும் இல்லை, வெள்ளம் அனைத்தையும் அழித்துவிட்டது,"
+
+உயிர் பிழைத்தவர்கள் வாழ போராடுகிறார்கள்.  42 வீடுகளில், இரண்டு அல்லது மூன்று வீடுகள் மாத்திரமே எஞ்சியுள்ளன, வெள்ளம் முழு பள்ளத்தாக்கையும் அழித்துவிட்டது என்றார்.
+
+வெள்ளத்தால் பாதிக்கப்பட்டவர்களுக்கு உதவுமாறு ஐக்கிய நாடுகள் சபை, மனிதாபிமான அமைப்புகள் மற்றும் தனியார் வணிகங்களை தலிபானின் பொருளாதார அமைச்சர் டின் முகமது ஹனிஃப் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/d3625f85.json)
 
 ---
 
@@ -65,6 +175,22 @@ The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is no
 [Data](articles/1eb8fb71.json)
 
 [Extended Data](ext_articles/1eb8fb71.ext.json)
+
+---
+
+### யாழில் இடம்பெற்ற வீதி விபத்தில் இளைஞரொருவர் காயம்
+
+*2024-05-13 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183373) · `ta`
+
+யாழ்ப்பாணம் இலுப்பையடிச் சந்திப் பகுதியில் ஜீப் ரக வாகனமொன்று மோட்டார் சைக்கிளுடன் மோதி ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் நாவலர் வீதியால் பயணித்த ஜீப்ரக வாகனம் இலுப்பையடிச் சந்தியை கடக்க முற்பட்டுள்ள நிலையில் யாழ்ப்பாணம் பலாலி வீதியூடாக புன்னாலைக்கட்டுவான் நோக்கி பயணித்துக் கொண்டிருந்த மோட்டார் சைக்கிள் இலுப்பையடிச் சந்தியை கடக்க முற்பட்ட போது குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞனின் கால்கள் முறிவடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6ccd10c3.json)
 
 ---
 
@@ -358,6 +484,30 @@ The suspect and antiquities have been handed over to the Puttalam Police Station
 
 ---
 
+### The Sri Lankan government that threatens the Tamils who are engaging in the commemoration cannot be said to be trying to reconciliation- Pearl
+
+*2024-05-13 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183368) · `ta`
+
+The Sri Lankan government's threats against Tamils commemorating their history contradict claims of reconciliation efforts. The People's Organization for Equality and Relief in Sri Lanka criticizes the government for its role in the genocide 15 years ago, highlighting the arrest of those commemorating their lost loved ones. The incident involving police giving biscuits to locals on Vesak Day last year further exposes the government's hypocrisy.
+
+🟩
+
+The Sri Lankan government, which threatens to persecute Tamils who are engaged in the commemoration, cannot be informed that the Sri Lankan government is in the process of reconciliation, said the People's Organization for Equality and Relief in Sri Lanka.
+
+Mullivaikkal porridge at this moment has become part of the joint venture of the Sri Lankan government's ruthless genocide of the Sri Lankan government 15 years ago.
+
+The arrests that threaten the Tamils who commemorate their beloved people cannot be informed that the Sri Lankan government is trying to reconciliation.
+
+The Sri Lankan police were given biscuits to the local people on the eve of Vesak Day last year - the Trincomalee incident has revealed their pseudo -country.
+
+◼️
+
+[Data](articles/078f70e8.json)
+
+[Extended Data](ext_articles/078f70e8.ext.json)
+
+---
+
 ### Illegal shoe imports costing Sri Lanka billions of rupees in annual tax revenue
 
 *2024-05-13 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99173/illegal-shoe-imports-costing-sri-lanka-billions-of-rupees-in-annual-tax-revenue) · `en`
@@ -426,27 +576,9 @@ The body has been placed at the Kuliyapitiya Hospital while the Giriulla Police 
 
 ---
 
-### පහළ වායුගෝලය කැළඹෙයි වැස්ස වැඩිවෙයි
-
-*2024-05-13 09:22:21* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-වායුගෝලය-කැළඹෙයි-වැස්ස-වැඩිවෙයි/11-409586) · `si`
-
-ශ්‍රී ලංකාව ආසන්න පහල වායුගෝලයේ කැළඹිලි ස්වභාවයක් වර්ධනය විම හේතුවෙන් දිවයින පුරා වැසි තත්වයේ වැඩි වීමක් බලාගපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
-
-දිවයිනේ බොහෝ පළාත්වල පස්වරු ප.ව. 1.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ හා ඌව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
-
-නැගෙනහිර හා දකුණු පළාත්වල වෙරළ බඩ ප්‍ර දේශවල උදෑසන කාලයේදිත් ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව අද පෙවරුවේ නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
-
-◼️
-
-[Data](articles/85560db9.json)
-
----
-
 ### Youth murder in Kiliyapitiya;Arresting girlfriend
 
-*2024-05-13 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183369) · `ta`
+*2024-05-13 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183369) · `ta`
 
 In Kiliyapitiya, an 18-year-old girlfriend was arrested for allegedly aiding in the murder and concealment of a 31-year-old man, Susitha Jayawansa, who went missing on April 22 and was found dead and burned on May 7 in Madampe. The main suspect, Sujit Fernando, and his wife, Dylani Kiza, were interrogated by lawyers on May 6.
 
@@ -471,6 +603,30 @@ In the meantime, Sujit Fernando and his wife Dylani Kiza, the main suspect, were
 [Data](articles/ad3d9bd7.json)
 
 [Extended Data](ext_articles/ad3d9bd7.ext.json)
+
+---
+
+### The lower atmosphere is turning down
+
+*2024-05-13 09:22:21* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-වායුගෝලය-කැළඹෙයි-වැස්ස-වැඩිවෙයි/11-409586) · `si`
+
+The Department of Meteorology warns of heavy showers exceeding 100mm in the Western, Sabaragamuwa, Central, North Western, and Uva provinces, with the possibility of thundershowers in many parts of the island.
+
+🟩
+
+The Department of Meteorology says that due to the development of the lowest atmosphere in the atmosphere, the Met Department said.
+
+In most parts of the island at many places. Showers or thundershowers will occur at several places, about 1.00.
+
+Heavy showers over 100 ml more than 100 millilitaries in the Western, Sabaragamuwa, Central, North Western and Uva provinces will experience Heavyvernals in the Galle and Matara Districts.
+
+The department has been reported in the East and Southern provinces during the morning.
+
+◼️
+
+[Data](articles/85560db9.json)
+
+[Extended Data](ext_articles/85560db9.ext.json)
 
 ---
 
@@ -759,30 +915,6 @@ China Duty Free may also start a duty free complex on June 14, if the required a
 [Data](articles/5ee4194b.json)
 
 [Extended Data](ext_articles/5ee4194b.ext.json)
-
----
-
-### The Sri Lankan government that threatens the Tamils who are engaging in the commemoration cannot be said to be trying to reconciliation- Pearl
-
-*2024-05-13 07:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183368) · `ta`
-
-The Sri Lankan government's threats against Tamils commemorating their history contradict claims of reconciliation efforts. The People's Organization for Equality and Relief in Sri Lanka criticizes the government for its role in the genocide 15 years ago, highlighting the arrest of those commemorating their lost loved ones. The incident involving police giving biscuits to locals on Vesak Day last year further exposes the government's hypocrisy.
-
-🟩
-
-The Sri Lankan government, which threatens to persecute Tamils who are engaged in the commemoration, cannot be informed that the Sri Lankan government is in the process of reconciliation, said the People's Organization for Equality and Relief in Sri Lanka.
-
-Mullivaikkal porridge at this moment has become part of the joint venture of the Sri Lankan government's ruthless genocide of the Sri Lankan government 15 years ago.
-
-The arrests that threaten the Tamils who commemorate their beloved people cannot be informed that the Sri Lankan government is trying to reconciliation.
-
-The Sri Lankan police were given biscuits to the local people on the eve of Vesak Day last year - the Trincomalee incident has revealed their pseudo -country.
-
-◼️
-
-[Data](articles/078f70e8.json)
-
-[Extended Data](ext_articles/078f70e8.ext.json)
 
 ---
 
@@ -2061,165 +2193,5 @@ The examination is being held at the meeting a tuition teacher in the Hasalaka a
 [Data](articles/26a4ebca.json)
 
 [Extended Data](ext_articles/26a4ebca.ext.json)
-
----
-
-### Chennai has been a bit of a player chance to beat Rajasthan
-
-*2024-05-12 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183360) · `ta`
-
-Chennai Super Kings clinched a 5-wicket victory over Rajasthan in the 61st IPL match, thanks to Ruturaj Gaikwad's 42 runs and accurate bowling. Rajasthan, batting first, scored 141/5 in 20 overs, with Yaswani Jaiswal (24) and Jos Buttler (21) leading the charge. Chennai reached 145/5 in 18.2 overs, with Ruturaj Gaikwad and contributions from Rachin Ravindra, Tylor Michelle, Shivam Dube, and Sam Curran.
-
-🟩
-
-Chennai M. A.. Chennai Super Kings won by 5 wickets in the 61st match of the 17th Indian Premier League chapter held at Chidambaram Stadium on Sunday (12).
-
-With this victory, Chennai Super Kings have been increasingly increasing with its Playing opportunity.
-
-However, Royal Challengers have only a match with Royal Challengers Bangalore and the up -the -up competition is not easy.
-
-Chennai Super Kings won the match with the most accurate bowling of Rajasthan Royals, which was very accurate in this match.
-
-Chennai Super Kings lost 5 wickets in 18.2 overs and scored 145 runs.
-
-In order to fall in Chennai's wickets, team captain Ruthuraj Kaikwad was very responsible and confirmed the team's victory with 42 runs without losing 41 balls.
-
-Rachin Ravindra (27), Tryl Michelle (22), Shivam Tube (18) and Sameer Rizvi (15 AE) scored more than 10 runs.
-
-Rajasthan Royals, who had previously decided to bat first in the upting match, scored 141 runs for the loss of 5 wickets in 20 overs.
-
-...
-
-[Data](articles/ecfbf8c1.json)
-
-[Extended Data](ext_articles/ecfbf8c1.ext.json)
-
----
-
-### S. Siritharan was attending a public meeting at Verugal
-
-*2024-05-12 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183352) · `ta`
-
-S. Siritharan, a TNA parliamentarian, held a public meeting at the Sree Shenbaganachiyamman Temple in Eichilampattu, invited by TNA Trincomalee leader Shanmugam Kukadasan. Attendees included Sundaralingam, former Verugal Pradeshiya Sabha Chairman, TNA officials, temple administrators, and civilians.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian S. Siritharan held a public meeting on Sunday (12) at the Sree Shenbaganachiyamman Temple - Eichilampattu.
-
-The people's meeting was held at the invitation of the Sri Lanka Tamil National Party (TNA) Trincomalee district leader Shanmugam Kukadasan.
-
-Sundaralingam, former Chairman of the Verugal Pradeshiya Sabha, Assistant Chairperson, TNA chiefs, temple administrators, representatives of public organizations and civilians were present.
-
-◼️
-
-[Data](articles/cf921f56.json)
-
-[Extended Data](ext_articles/cf921f56.ext.json)
-
----
-
-### Hand over MRIA management to aircraft-owning company: Udayanga Weeratunga
-
-*2024-05-12 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hand-over-MRIA-management-to-aircraft-owning-company-Udayanga-Weeratunga/108-282422) · `en`
-
-Colombo, May 12 (Daily Mirror) - The government should explore the option of assigning the management of the Mattala Rajapaksa International Airport (MRIA) to a company that not only specializes in management but also owns airplanes and has the capability to attract and facilitate aircraft operations, former Sri Lankan Ambassador to Russia Udayanga Weeratunga said.
-
-Addressing the media, he said that the government had handed over the management of the MRIA to Shaurya Aeronautics Pvt. Ltd. of India and Airports of Regions Management Company of Russia, or an affiliated company there, for a period of 30 years.
-
-...
-
-[Data](articles/c8892a79.json)
-
-[Extended Data](ext_articles/c8892a79.ext.json)
-
----
-
-### 14 bike race arrested on Maha road
-
-*2024-05-12 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196549) · `si`
-
-14 bikers arrested in Maharagama for an illegal race, winner planned to award a disguised man as a prize. Remanded until 15th at Nugegoda Magistrate's Court.
-
-🟩
-
-The Maharagama Police are arrested by the Maharagama Police today (12).
-
-It was revealed that this was a race and had joined the internet.
-
-It has been revealed that the winner of the competition was also prepared to provide a young man who disguised a beautiful girl in addition to the prize.
-
-The 14 arrested have been remanded until 15 of the Nugegoda Magistrate's Court.
-
-◼️
-
-[Data](articles/3164e49d.json)
-
-[Extended Data](ext_articles/3164e49d.ext.json)
-
----
-
-### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin? – Part III
-
-*2024-05-12 20:33:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin-part-iii/) · `en`
-
-The desperation in western capitals is more than palpable. The looming defeat in Ukraine – the fulcrum of Washington’s strategy to dominate Eurasia – has all but sealed the fate of the Neo-Conservatives’ Project for the New American Century to bring about a virtually endless global US domination. The rise of China, a resurgent Russia and the emerging BRICS are trashing NeoCon Francis Y. Fukuyama’s absurd ahistorical notion. Following the collapse of the USSR, he imagined an irrational hegemony of almost endless universal capitalist Liberal-Democracy, centred in the US, as the epitome of human political evolution in his “The End of History and the Last Man”. (Meanwhile he held several key academic positions in elite US universities.)
-
-...
-
-[Data](articles/91230ed1.json)
-
-[Extended Data](ext_articles/91230ed1.ext.json)
-
----
-
-### There is no agreement not to send Korea, not exams
-
-*2024-05-12 20:14:19* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-නොතියා-කොරියා-යවන-ගිවිසුමක්-නෑ/11-409585) · `si`
-
-The text discusses the government's efforts to inform and facilitate the overseas journey of Sri Lankan youth, particularly those seeking employment opportunities in Korea. It highlights a program at Angunakolapelessa Prison Stadium, aimed at providing facilities and opportunities for these young people. The Minister emphasized the government's commitment to supporting the youth's overseas endeavors without the need for exams, contrasting this with the previous practice of racketeers exploiting the situation. The narrative also touches on the collection of funds for these endeavors, distinguishing between legitimate government programs and fraudulent activities.
-
-🟩
-
-He said that several racketeers who were expelled into Korea were also arresting the youth to go to Korea and had no agreement to visit Korea.
-
-"The Minister starts from me to Jayahagamu Sri Lanka" Hambantota program at Angunakolapelessa Prison Stadium. "
-
-විගමනික ශ්‍රමික ප්‍රජාව සඳහා පහසුකම් සැපයීම හා විදෙස්ගත වීම බලාපොරොත්තු වන මෙරට තරුණ තරුණියන් නිවැරදිව විදෙස්ගත වන ආකාරය පිළිබඳව දැනුවත් කිරිම ඇතුළු වැඩසටහන් රැසක් 10 හා 11 දෙදින අඟුණකොළපැලැස්ස බන්ධනාගාර ක්‍රීඩාංගණයේදී පැවැත්විණ.එම උත්සව සභාව අමතමින් අමාත්‍යවරයා වැඩිදුරටත් මෙසේද පැවසීය.
-
-Our hope is that we are looking for the opportunity to send our youth without hearing without an examination to Korea.It was reported that the money was collected. There is no program to work in Korea without examination .It 's not.
-
-Only the wedding artists have the opportunity to go to Korea without an exam.There's. Some have collected money that my friends, my relatives say. If anyone adds money, you will immediately inform the country.
-
-...
-
-[Data](articles/c0ab61e3.json)
-
-[Extended Data](ext_articles/c0ab61e3.ext.json)
-
----
-
-### 12,066 from the army has already left
-
-*2024-05-12 20:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-සමා-කාලයේ-යුද-හමුදාවෙන්-12-066ක්-දැනටමත්-ඉවත්-වෙලා/11-409584) · `si`
-
-The army has announced that 12,066 personnel have left their posts, with the deadline for leaving being December 20th. This decision was made on November 11th, and 11,985 personnel have left since then.
-
-🟩
-
-Army Headquarters states that the public simultaneously declared to leave for army personnel at legal service without leave without leave is concluded on the 20th of this month.
-
-It is said that 12,066 have been removed from the 11th of the month of the year.
-
-A public concision has been announced from the 20th of this month to the 20th of this month and to leave for the 31st of December 31 last year to leaveThe opportunity is available.
-
-According to Mushadama Headquarters, the persons in this country have been given the opportunity to dismiss the regiments and regiments abiggued abducted.
-
-Accordingly, 11,985 military personnel have been removed during the period when the removal of the removable from the 20th to 11th.
-
-◼️
-
-[Data](articles/ca6a8f07.json)
-
-[Extended Data](ext_articles/ca6a8f07.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 15:33:53**
+As of **2024-05-13 15:52:21**
 
 ## Newspaper Stats
 
-*Scraped **23,695** Articles*
+*Scraped **23,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,120 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,015
-adaderanalk | 2,766
-tamilmirrorlk | 2,777
+adalk | 2,017
+adaderanalk | 2,767
+tamilmirrorlk | 2,779
 virakesarilk | 3,527
-dailymirrorlk | 3,731
+dailymirrorlk | 3,732
 adaderanasinhalalk | 3,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,694 (100.0%) of 23,695 articles have been extended.
+23,695 (100.0%) of 23,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### போராட்டக்காரர்கள் மீது நீர்த்தாரைப் பிரயோகம்
+### அமெரிக்க பிரதிநிதி இலங்கைக்கு விஜயம்
+
+*2024-05-13 15:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-விஜயம்/175-337238) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ, இன்று (13) காலை இலங்கைக்கு  வந்தார்.
+
+இரு நாடுகளுக்கு இடையிலான உறவுகளை மேலும் வலுப்படுத்துடன் இந்திய - பசுபிக் பிராந்தியத்தைக் கட்டியெழுப்புவதற்கு அமெரிக்கா வழங்கிவரும் ஆதரவை வெளிப்படுத்தும் நோக்கில் இந்த விஜயம் அமைந்துள்ளது.
+
+இம்மாதம் 10 - 15 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கு டொனால்ட் லூ சுற்றுப்பயணம் மேற்கொண்டுள்ளார்.
+
+இந்தியாவை கடந்த வெள்ளிக்கிழமை (10) சென்றடைந்த டொனால்ட் லூ, சென்னையில் கொன்சியூலர் அதிகாரியுடன் சந்திப்பை முன்னெடுத்திருந்தார்.
+
+◼️
+
+[Data](articles/0a8649ce.json)
+
+---
+
+### போதகர் ஜெரோம் தொடர்பில் பிறப்பிக்கப்பட்ட உத்தரவு
+
+*2024-05-13 15:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதகர்-ஜெரோம்-தொடர்பில்-பிறப்பிக்கப்பட்ட-உத்தரவு/175-337237) · `ta`
+
+மத நல்லிணக்கத்துக்கு எதிராக வெறுப்புணர்வை ஏற்படுத்தும் வகையில் கருத்து தெரிவித்த போதகர் ஜெரோம் பெர்னாண்டோவுக்கு எதிரான விசாரணைகளின் முன்னேற்ற அறிக்கையை இரண்டு வாரங்களுக்குள் சமர்ப்பிக்குமாறு உயர் நீதிமன்றம் இன்று சட்டமா அதிபருக்கு பணிப்புரை விடுத்துள்ளது.
+
+போதகர் ஜெரோம் பெர்னாண்டோவுக்கு எதிராக உடனடியாக நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு உத்தரவிடக் கோரி சமயத் தலைவர்கள் குழுவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7388fae8.json)
+
+---
+
+### Foreigner injured after base jumping from Colombo Lotus Tower
+
+*2024-05-13 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99186/foreigner-injured-after-base-jumping-from-colombo-lotus-tower) · `en`
+
+A foreigner national has reportedly sustained injuries in an accident while participating in the Base Jump event at the Colombo Lotus Tower this afternoon (13).
+
+According to reports, the foreigner had suffered a parachute failure after jumping from the tower due to strong gusty winds resulting in a delay in its deployment.
+
+The US national, who sustained minor injuries to his head following the accident, has been rushed to Colombo National Hospital for treatment. However, his condition in not critical, according to hospital sources.
+
+◼️
+
+[Data](articles/23794e96.json)
+
+---
+
+### Dilution
 
 *2024-05-13 15:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-337236) · `ta`
 
-பல்கலைக்கழக கல்விசாரா ஊழியர்கள் இன்று (13) கொழும்பு பத்தரமுல்லை தியத்த உயனவுக்கு முன்பாக நடத்திய ஆர்ப்பாட்டத்தை கலைக்க பொலிஸார் நீர்த்தாரை பிரயோகித்தனர்.
+Non-academic staff at all universities in Sri Lanka protested in Battaramulla, Colombo, demanding salary cuts and monthly allowances for 8 years. The strike began on the 12th.
 
-08 வருடங்களாக நிலவி வரும் சம்பள வெட்டு, மாதாந்த கொடுப்பனவு போன்ற பல பிரச்சினைகளை அடிப்படையாக கொண்டு இந்த போராட்டம் முன்னெடுக்கப்பட்டமு.
+🟩
 
-அனைத்துப் பல்கலைக்கழகங்களின் கல்விசாரா ஊழியர்கள் கடந்த 12ஆம் திகதி முதல் வேலைநிறுத்தப் போராட்டத்தை ஆரம்பித்தனர்.
+University of non -academic staff today (13) staged a protest in front of the Battaramulla Diyatta of Colombo.
+
+The struggle has been carried out based on a number of issues such as salary cuts and monthly allowances for 8 years.
+
+The non -academic staff of all universities launched a strike from the 12th.
 
 ◼️
 
 [Data](articles/550bc332.json)
+
+[Extended Data](ext_articles/550bc332.ext.json)
+
+---
+
+### නෙළුම් කුළුණෙන් පැන්න අයෙක් රෝහලේ
+
+*2024-05-13 15:06:55* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණෙන්-පැන්න-අයෙක්-රෝහලේ/11-409599) · `si`
+
+කොළඹ නෙළුම් කුළුණේ  බේස් ජම්ප්  ඉසව්ව  වැඩසටහනට අතරතුර  පැරෂුටයක් විවෘත වීම ප්‍රමාදවීම  හේතුවෙන් විදේශ ජාතික ක්‍රීඩකයකු වහලයක් මතට ඇද වැටී බරපතල තුවාල ලබා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
+
+මෙම බේස් ජම්ප් වැඩසටහන ඊයේ 12දින නෙළුම් කුළුණ මතදී ආරම්භ වී එය අද සහ හෙට දිනයේද ක්‍රියාත්මක කිරීමට කටයුතු යොදා තිබුණි.
+
+◼️
+
+[Data](articles/88921f5e.json)
+
+---
+
+### අනධ්‍යයන සේවකයන් දැවැන්ත උද්ඝෝෂණයක
+
+*2024-05-13 14:52:56* · [`adalk`](https://www.ada.lk/breaking_news/අනධ්‍යයන-සේවකයන්-දැවැන්ත-උද්ඝෝෂණයක/11-409598) · `si`
+
+පේරාදෙණිය රාදෙණිය විශ්වවිද්‍යාලයේ අනධ්‍යයන සේවකයන් මහනුවර ජෝර්ජී ද සිල්වා උද්‍යානය ඉදිරිපිටදී දැවැන්ත උද්ඝෝෂණයක නිරත වූහ.
+
+වැටුප් කප්පාදුව මාසික හිලව්දීමනා ලබා ගැනීම ඇතුළු වෘත්තිය ඉල්ලීම් ගණනාවක් පාදක කරගනිමින් විශ්ව විද්‍යාල අනධ්‍යයන සේවකයන් විසින්  රට පුරා ආරම්භ කොට ඇති වර්ජන ක්‍රියාවලියට සමගාමීව ඊයේ (13) විරෝධතා ව්‍යාපාරය සංවිධානය කොට තිබුණි .
+
+එහිදී පෙරදෙණිය විශ්වවිද්‍යාල වෘත්තීය සමිති බලමණ්ඩලයේ ප්‍රධාන ලේකම් ටී. ඒ.ඩී. සුරංජීව මහතා පවසා සිටියේ රජය කඩිනමින් ඔවුන්ගේ වෘත්තිය ගැටලු වලට විසඳුම් ලබා නොදුනහොත් මෙම වෘත්තිය සමිති ක්‍රියා මාර්ගය වඩාත් තීව්‍ර කරන බවයි . (IJ)
+
+◼️
+
+[Data](articles/6da87f03.json)
 
 ---
 
@@ -111,6 +195,24 @@ Scientists say this is a situation that the results of global weather warming an
 [Data](articles/b0f07dd4.json)
 
 [Extended Data](ext_articles/b0f07dd4.ext.json)
+
+---
+
+### Selectors deny favoritism in Sri Lanka’s T20 World Cup squad selection
+
+*2024-05-13 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Selectors-deny-favoritism-in-Sri-Lankas-T20-World-Cup-squad-selection/155-282491) · `en`
+
+Colombo, May 13 (Daily Mirror) - While denying any favoritism during the selection of players for the Sri Lanka squad in the ICC Men's T20 World Cup 2024, Sri Lanka Cricket Selection Committee Chairman Upul Tharanga said the Sri Lanka team is in a good position to challenge any team at the World Cup to be held in the West Indies and USA.
+
+At a media briefing held to address various concerns regarding the Sri Lanka T20 squad for the World Cup, Tharanga said there was no favoritism in the selection process except for talent, fitness and discipline of players. He said the 15-member squad named for the World Cup is balanced and powerful.
+
+Responding to injury concerns about skipper Wanindu Hasaranga and fast bowler Matheesha Pathirana, Tharanga said both players are fit for the tournament.
+
+When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga highlighted his all-round performance and the potential advantage for the team in conditions like those in the US.
+
+...
+
+[Data](articles/30489439.json)
 
 ---
 
@@ -2221,127 +2323,5 @@ Following the approval by the House Committee, the Speaker is expected to write 
 [Data](articles/8bc8e5e6.json)
 
 [Extended Data](ext_articles/8bc8e5e6.ext.json)
-
----
-
-### Sri Lanka VFS Global visa deal despite IMF anti-corruption requirements: opposition
-
-*2024-05-13 05:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-vfs-global-visa-deal-despite-imf-anti-corruption-requirements-opposition-162683/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s controversial visa deal with IVS-GBS and VFS Global is coming despite the country being required to reduce corruption stemming from an International Monetary Fund governance assessment, the island’s main opposition has said.
-
-The main opposition has also slammed the unsolicited deal with VFS Global, a private contractor, as being bigger than a central bank linked bondscam in 2015.
-
-“This is three or four times bigger than the bondscam,” opposition legislator Rauff Hakeem told parliament.
-
-“I am bringing to the attention of this house this massive fraud (visharler wanchawak).
-
-The deal came despite procurement requirements and anti-corruption roadmap required in an International Monetary Fund deal, following a ‘governance diagnostic assessment’.
-
-“Having pledged all those new measures, and agreed to the IMF conditions, what does the government do?,” Hakeem asked in parliament.
-
-...
-
-[Data](articles/93a97980.json)
-
-[Extended Data](ext_articles/93a97980.ext.json)
-
----
-
-### Tamil and Muslim voting trends in Presidential Elections
-
-*2024-05-13 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tamil-and-Muslim-voting-trends-in-Presidential-Elections/172-282447) · `en`
-
-The votes from the Tamil and Muslim communities may determine who the 2024 Presidential hustings victor is likely to be
-
-This is the fourth article in a series focusing on Sri Lankan President Ranil Wickremesinghe and his evolving strategy to contest the forthcoming 2024 Presidential Elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s Presidential Election plans and prospects, the objective of this series is to analyse in detail the  game plan and stratagems adopted by Wickremesinghe to face the 2024 Presidential hustings. Since Wickremesinghe is the incumbent President, priority is being given to him. However, after this series is concluded, I do intend to write about other presidential aspirants and their election campaigns also in the future.
-
-In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes, if delivered en bloc, may determine who the 2024 Presidential hustings victor is likely to be
-
-...
-
-[Data](articles/1275a800.json)
-
-[Extended Data](ext_articles/1275a800.ext.json)
-
----
-
-### Tamil and Muslim voting trends in Presidential Elections
-
-*2024-05-13 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/dbs-jeyaraj-column/Tamil-and-Muslim-voting-trends-in-Presidential-Elections/192-282447) · `en`
-
-The votes from the Tamil and Muslim communities may determine who the 2024 Presidential hustings victor is likely to be
-
-This is the fourth article in a series focusing on Sri Lankan President Ranil Wickremesinghe and his evolving strategy to contest the forthcoming 2024 Presidential Elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s Presidential Election plans and prospects, the objective of this series is to analyse in detail the  game plan and stratagems adopted by Wickremesinghe to face the 2024 Presidential hustings. Since Wickremesinghe is the incumbent President, priority is being given to him. However, after this series is concluded, I do intend to write about other presidential aspirants and their election campaigns also in the future.
-
-In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes, if delivered en bloc, may determine who the 2024 Presidential hustings victor is likely to be
-
-...
-
-[Data](articles/19b55b44.json)
-
-[Extended Data](ext_articles/19b55b44.ext.json)
-
----
-
-### Israel has lost its moral compass and conscience
-
-*2024-05-13 05:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israel-has-lost-its-moral-compass-and-conscience/172-282446) · `en`
-
-A former IDF soldier, interviewed on another channel, admits that some of the IDF actions he witnessed in Gaza could amount to war crimes.
-
-Most Israelis simply do not care about what happens to Arabs and Palestinians
-
-Prime Minister Benjamin Netanyahu reflects this cynical insularity of the Israeli public
-
-Protests against Israeli excesses in conducting its war against Hamas in Gaza are widening in scope daily. This is not a war against Hamas; it’s a total war against the Palestinians designed to drive them out of ‘Greater Israel.’
-
-These protests are almost exclusively in the West. It isn’t that the rest of the world is deaf and blind to what’s going on. But this is a Western problem, because of the West’s troubled historical relationships with the Jews, culminating in a great deal of sympathy for Israel after its creation (essentially a Western creation because of British Middle Eastern politics after WWII).
-
-...
-
-[Data](articles/13eb670b.json)
-
-[Extended Data](ext_articles/13eb670b.ext.json)
-
----
-
-### Who’s to blame for Ms. Diana’s flaws - EDITORIAL
-
-*2024-05-13 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Whos-to-blame-for-Ms-Dianas-flaws-EDITORIAL/172-282445) · `en`
-
-Oh dear, oh dear, a British citizen and non-Sri Lankan, MP Diana (not to be mistaken for Britain’s Princess Diana) has been unseated as a Member of our Parliament. O tempora, o mores we are once again being made the laughing stock of the world. A British citizen is not only a member of our Parliament, she is also a State Minister of this country.
-
-The 60-year-old was (according to media reports) appointed a National List MP by the Samagi Jana Balawegaya (SJB) in return for the transferring of control of the Ape Jathika Peramuna (AJP) to the SJB.
-
-Ever-popular past Commissioner of Elections Mahinda Deshapriya -respected for his nonpartisan rulings during election controversies- and an expert on election practices, speaking to this newspaper days ago said: “Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election, while the law also prohibits a non-citizen to vote in an election...”.
-
-...
-
-[Data](articles/a1bc0b96.json)
-
-[Extended Data](ext_articles/a1bc0b96.ext.json)
-
----
-
-### Indo-Lanka land connectivity most ambitious  move- Indian High Commissioner
-
-*2024-05-13 05:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Indo-Lanka-land-connectivity-most-ambitious-move-Indian-High-Commissioner/231-282444) · `en`
-
-Indian High Commissioner Santos Jha: ‘The potential of India-Sri Lanka friendship is limitless’
-
-Indian High Commissioner Santos Jha, in an interview with a select group of journalists, discusses the current status of bilateral ties and the future direction particularly with emphasis on connectivity.
-
-Q  It has been a little over four months since you assumed duties as High Commissioner here. What are your initial impressions?
-
-Coming to Sri Lanka as India’s High Commissioner was in some way a homecoming for me - in a role with greater responsibility. I was here from 2007-10 as Counsellor. Sri Lanka has always been close to my heart with many memories and several friends who will stay with me for the rest of my life.
-
-Since December, I’ve had an action-packed 4-4.5 months. I’ve travelled the length and breadth of the country, met people across spheres - political, business, media, academia and so on - and everywhere I have experienced a sense of filial warmth.
-
-...
-
-[Data](articles/d7cb3117.json)
-
-[Extended Data](ext_articles/d7cb3117.ext.json)
 
 ---

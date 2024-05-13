@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 12:05:49**
+As of **2024-05-13 12:18:22**
 
 ## Newspaper Stats
 
-*Scraped **23,654** Articles*
+*Scraped **23,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,008
 adaderanalk | 2,762
-tamilmirrorlk | 2,771
+tamilmirrorlk | 2,773
 virakesarilk | 3,521
-dailymirrorlk | 3,722
-adaderanasinhalalk | 3,793
+dailymirrorlk | 3,725
+adaderanasinhalalk | 3,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,650 (100.0%) of 23,654 articles have been extended.
+23,654 (100.0%) of 23,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Restructuring of CEB will continue despite MR’s statement on privatisation: Minister
+
+*2024-05-13 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restructuring-of-CEB-will-continue-despite-MRs-statement-on-privatisation-Minister/108-282485) · `en`
+
+Parliament, May 13 (Daily Mirror)- Restructuring of the Ceylon Electricity Board (CEB) will continue as former President Mahinda Rajapaksa has not requested for such a thing, Minister of Power and Energy Kanchana Wijesekera told Parliament today.
+
+"Mahinda Rajapaksa has not requested for the postponement of the restructuring of state enterprises. He has only asked for the postponement of selling state enterprises. We have no intention of selling the CEB. The restructuring of the CEB will continue, " Minister Wijesekera said.
+
+The Minister was responding to a question raised by Chief Opposition Whip Lakshman Kiriella to this effect.
+
+MP Kiriella was referring to a letter sent by Rajapaksa to President Wickremesinghe asking him to stop privatizing state enterprises.
+
+"We would like to know whether Minister Wijesekera is with President Wickremesinghe or with Mahinda Rajapaksa," he questioned.
+
+◼️
+
+[Data](articles/294d5207.json)
+
+---
+
+### විරෝධතාකරුවන් පිරිසකට අධිකරණ නියෝගයක්
+
+*2024-05-13 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196571) · `si`
+
+අද (13) දින පැවැත්වීමට නියමිත විරෝධතා පා ගමනක් සහ උද්ඝෝෂණයක් තහනම් කරමින් අධිරකරණය විසින් ආඥාවක් නිකුත් කර තිබේ.
+
+ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය සහ නාවල විවෘත විශ්වවිද්‍යාලයේ සිසු සිසුවියන් හා අනධ්‍යයන කාර්ය මණ්ඩලය ඒකාබද්ධව අදාළ විරෝධතා පා ගමන සංවිධානය කර තිබේ.
+
+අදාළ විරෝධතාවයේ දී උද්ඝෝෂකයින් විසින් ශබ්ද විකාශන යන්ත්‍ර භාවිත කරමින් හා වීථී නාට්‍ය රඟදක්වමින් විරෝධතාවය පැවැත්වීමට නියමිත බවට මිරිහාන මුලස්ථාන පොලිස් පරීක්ෂකවරයාට ලද තොරතුරක් මත ඔහු විසින් කළ ඉල්ලීමක් අනුව නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය විසින් අදාළ නියෝගය ලබා දී තිබේ.
+
+ඒ අනුව පහත සඳහන් වගඋත්තරකරුවන් ඇතුළු තැනැත්තන්ට මෙම නියෝගය අධිකරණය විසින් නිකුත් කළ බව පොලීසිය දැනුම්දෙයි.
+
+1. ඉසුර ඉඳුවර, මහා ශිෂ්‍ය සංගමයේ සභාපති, ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය
+
+2. හර්ෂ නිපුන්, මහා ශිෂ්‍ය සංගමයේ ලේකම්, ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය
+
+3. උදාර රණසිංහ, මහා ශිෂ්‍ය සංගමයේ සභාපති, නාවල විවෘත විශ්වවිද්‍යාලය
+
+5. ධම්මික එස්. ප්‍රියන්ත, මංගල දාබරේරා, සම සභාපති විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව
+
+...
+
+[Data](articles/44316fe2.json)
+
+---
+
+### பார்த்தவர் பதவி நீக்கம்
+
+*2024-05-13 11:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பார்த்தவர்-பதவி-நீக்கம்/50-337229) · `ta`
+
+டென்னஸ்சி மாகாணத்தில் நாஷ்வில்லே நகரில் வாகன சோதனை நடவ​டிக்கை மேற்கொண்ட பொலிஸ் அதிகாரியொருவர் பதலி நீக்கம் செய்யப்பட்டுள்ளார்.
+
+அமெரிக்காவின் டென்னஸ்சி மாகாணத்தில் நாஷ்வில்லே நகரில் பெண்ணொருவர் 45 கி.மீ. வேகத்தில் காரொன்றை செலுத்தி வந்துள்ளார். இவரிடம் வாகன உரிமம், வாகன பதிவு உள்ளிட்டவற்றுக்கான ஆவணங்களை காண்பியுங்கள் என பொலிஸ் அதிகாரியொருவர் கேட்டுள்ளார்.
+
+அதற்கு அந்த பெண், சரியான ஆவணங்கள் எதுவும் இல்லை என கூறி விட்டு, தனது மார்பகங்களை காண்பித்துள்ளார்.
+
+அந்த அதிகாரியும் மார்பகங்களை பார்த்தவாறு, எச்சரிக்கையுடன் உங்களை செல்ல அனுமதிக்கிறேன் என தெரிவித்துள்ளார்.
+
+இந்த காணொளி சமூக வளைத்தளங்களில் பரவியதையடுத்து குறித்த அதிகாரி உடனடியாக விசாரணைக்குட்படுத்தப்பட்டு பணியிலிருந்து நீக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/74b87ad0.json)
+
+---
 
 ### Resumption of India-Sri Lanka passenger ferry service postponed
 
@@ -46,23 +112,31 @@ The service, which was scheduled to restart from May 13, has now been postponed 
 
 [Data](articles/b3d9dfd2.json)
 
+[Extended Data](ext_articles/b3d9dfd2.ext.json)
+
 ---
 
-### ත්‍රීවිල් රියදුරන්ව බිය ගැන්වූ කොල්ලකරු අත්අඩංගුවට
+### The robber arrested for intimidation of three-wheeler drivers
 
 *2024-05-13 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196570) · `si`
 
-කුලී ගමන් යන මුවාවෙන් ත්‍රීරෝද රථවලට නැඟ ගොස් රියදුරන් බිය ගන්වා කොල්ලකෑම් සිදුකළ පුද්ගලයෙකු අඟුලාන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A 25-year-old suspect from Ratmalana, arrested in Angulana, is accused of robbing and intimidating three-wheeler drivers under false pretenses. The suspect, targeted in a raid by the South District Criminal Division, was found with two stolen two-wheelers, two mobile phones, and cash. Further investigations are ongoing by the Mount Lavinia Police.
 
-බස්නාහිර පළාත් දකුණු දිසා අපරාධ කොට්ඨාසයේ නිලධාරීන්ට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලී‍සිය පැවසුවේය.
+🟩
 
-සැකකරු ත්‍රීරෝද රථ 02ක්, ජංගම දුරකථන 02ක් සහ මුදල් කොල්ලකෑමේ සිද්ධි කිහිපයක් සිදුකර ඇති බව මුලික විමර්ශනවලදී අනාවරණය වී ඇත.
+A person has been arrested in the Angulana area and intimidated the robberies and intimidate the drivers by the pretext of rental.
 
-අත්අඩංගුවට ගත් සැකකරු 25 හැවිරිදි රත්මලාන ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර සිද්ධිය සම්බන්ධයෙන් ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspect was arrested in a raid conducted on information received by the South District Criminal Division of the Western Provincial Criminal Division.
+
+Initial investigations have revealed that the suspect had conducted two-wheelers, two mobile phones and two cash plundering.
+
+The suspect is a 25 year old resident of Ratmalana and Mount Lavinia Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/aa232a05.json)
+
+[Extended Data](ext_articles/aa232a05.ext.json)
 
 ---
 
@@ -84,6 +158,26 @@ Subsequently, the child was immediately rushed to the Nochchiyagama Hospital via
 
 [Data](articles/b1195b24.json)
 
+[Extended Data](ext_articles/b1195b24.ext.json)
+
+---
+
+### '10 கோடி ரூபாய் அம்பர் மீட்பு '
+
+*2024-05-13 11:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-அம்பர்-மீட்பு/175-337227) · `ta`
+
+கற்பிட்டி, கண்டல்களி பகுதியில் ,வீடொன்றில் புதைத்து வைத்திருந்த நிலையில் சுமார் 10 கோடி ரூபாய் பெறுமதியான அம்பர் ( திமிங்கலத்தின் வாந்தி) பறிமுதல் செய்யப்பட்டு , சந்தேகத்தின் பெயரில் ஐவர் கைது செய்யப்பட்டுள்ள சம்பவம் ஞாயிற்றுக்கிழமை (12) இடம்பெற்றுள்ளது .
+
+வன்னாத்தவில்லு பொலிஸ் விஷேட பிரிவினருக்கு கிடைத்த இரகசிய தகவல் ஒன்றின் அடிப்படையில்  குற்ற விசாரணை பிரிவு அதிகாரிகளால் குறித்த  சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+பறிமுதல்  செய்யப்பட்ட அம்பர், கடலில் மிதந்து கொண்டிருந்த நிலையில் கண்டல்குழி மீனவர்களால் அதனை மீட்டு , படகு ஒன்றில் கொண்டுவரப்பட்டு, அதை  விற்பனை செய்யும் நோக்கில் மிகவும் பாதுகாப்பான முறையில் இரகசியமாக காணிக்குள் புதைத்து வைத்திருந்ததாக தெரியவந்துள்ளது .
+
+இதன்போது, குறித்த அம்பரை கடலில் இருந்து கொண்டு வந்ததாக சந்தேகிக்கப்படும் நால்வருடன், அதனை வளவுக்குள் மறைத்து வைத்திருந்த அந்த வீட்டின் உரிமையாரும் ஆகிய ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/b6db3ff0.json)
+
 ---
 
 ### Health trade unions launch strike at Central Province hospitals
@@ -101,6 +195,30 @@ Commenting in this regard, the Director General of Trade Unions to the President
 ...
 
 [Data](articles/08e7953e.json)
+
+[Extended Data](ext_articles/08e7953e.ext.json)
+
+---
+
+### Floods kill 37 in Indonesia’s West Sumatra
+
+*2024-05-13 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-kill-37-in-Indonesias-West-Sumatra/108-282479) · `en`
+
+TANAH DATAR, May 13 (Reuters) - Flash floods and mud slides in Indonesia's West Sumatra province killed at least 37 people this weekend while the search for 17 missing people is still ongoing, authorities said on Monday.
+
+Torrential rain on Saturday evening caused flash floods, landslides, and cold lava flow, which is a mixture of volcanic ash, rock debris and water that flows like mud, in three districts in West Sumatra province, Abdul Malik, the chief of the provincial rescue team told Reuters.
+
+The cold lava flow, known in Indonesia as a lahar, came from Mount Marapi, one of Sumatra's most active volcanoes.
+
+In December, more than 20 people were killed after Marapi erupted. A series of eruptions followed afterwards.
+
+"The heavy rain swept materials such as ash and large rocks from the Marapi volcano," said Abdul Malik.
+
+"Cold lava flow and flash floods have always been threats to us recently. But the problem is, it always happens late at night until dawn," he added.
+
+...
+
+[Data](articles/f005731a.json)
 
 ---
 
@@ -215,6 +333,24 @@ Such permanent appointments have been given to employees who have worked on cont
 [Data](articles/47bcfb15.json)
 
 [Extended Data](ext_articles/47bcfb15.ext.json)
+
+---
+
+### Chamal defends MR’s decision to construct airport, port, stadium in Hambantota
+
+*2024-05-13 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamal-defends-MRs-decision-to-construct-airport-port-stadium-in-Hambantota/108-282478) · `en`
+
+Parliament, May 13 (Daily Mirror)- Defending the allegations on former President Mahinda Rajapaksa's decisions to construct an international airport, habour and cricket stadium in the Hambantota District, SLPP MP Chamal Rajapaksa said the issue is not the constructions but the failure to develop them as business ventures.
+
+The MP told Parliament that if these constructions were developed as business ventures, it would not be a big issue to bring in dollar revenue to the country.
+
+He said this when Parliamentarian Lalith Ellawala raised a question regarding the construction of the Sooriyawewa cricket stadium in Hambantota.
+
+"Those who supported Mahinda Rajapaksa when he constructed ports, airports and stadiums are now raising these questions. Is Hambantota District not suitable to have these constructions? The then Cabinet decided to construct stadiums covering the whole country," MP Rajapaksa said.
+
+...
+
+[Data](articles/c36d65b7.json)
 
 ---
 
@@ -1352,7 +1488,7 @@ Ever-popular past Commissioner of Elections Mahinda Deshapriya -respected for hi
 
 *2024-05-13 05:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Indo-Lanka-land-connectivity-most-ambitious-move-Indian-High-Commissioner/231-282444) · `en`
 
-Indian High Commissioner Santhos Jha: ‘The potential of India-Sri Lanka friendship is limitless’
+Indian High Commissioner Santos Jha: ‘The potential of India-Sri Lanka friendship is limitless’
 
 Indian High Commissioner Santos Jha, in an interview with a select group of journalists, discusses the current status of bilateral ties and the future direction particularly with emphasis on connectivity.
 
@@ -2109,129 +2245,5 @@ India’s Deputy High Commissioner Dr. Satyanjal Pandey delivered the keynote ad
 [Data](articles/84881485.json)
 
 [Extended Data](ext_articles/84881485.ext.json)
-
----
-
-### Powerful invented in the middle of the electorate
-
-*2024-05-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196553) · `si`
-
-Maithripala Sirisena resigned as SLFP Chairman and Executive Council member, appointing Wijeadasa Rajapaksa as new Chairman. Nimal Siripala disputes the legality of the appointment. Sirisena called an executive meeting at a private festival, emphasizing the importance of the upcoming elections and the need to build a religious political culture. Keerthi Udawattwatuwa is the new acting Secretary.
-
-🟩
-
-Former President Maithripala Sirisena resigned from the Sri Lanka Freedom Party Chairman and the Executive Council today (12).
-
-Accordingly, the party is aimed at the party's new chairman, Mr. Wijeadasa Rajapaksa, a government minister.
-
-However, Nimal Siripala said that the executive council and new appointment were not legal.
-
-The Sri Lanka Freedom Party (SLFP) Maithripala Sirisena had summoned an executive meeting at a private festival in Pitakotte. Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party and the Executive Council.
-
-It was then that the Executive Committee has decided to appoint Rajapakse Rajapaksa as the new Chairman.
-
-...
-
-[Data](articles/26718f8a.json)
-
-[Extended Data](ext_articles/26718f8a.ext.json)
-
----
-
-### Some ministers seem determined to promote immorality through Diana Gamage’s programs
-
-*2024-05-12 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-ministers-seem-determined-to-promote-immorality-through-Diana-Gamages-programs/108-282426) · `en`
-
-Colombo, May 12 (Daily Mirror) - It is clear that some Ministers seem determined to promote immorality and erode morality by perpetuating the illegal and immoral programmes initiated by former State Minister Diana Gamage, Venerable Omalpe Sobitha Thera said.
-
-Addressing the media, the thera said that Diana Gamage does not seem to have done anything for the country.
-
-"The only thing that was done was that she raised her voice about the promotion of ganja and the promotion of immorality," he said.
-
-The conspiratorial act she tried to do by developing immorality in the country, destroying morals and showing the illusion of economic development has now stopped due to the court decision. But some Ministers want to continue those programmes, he added.
-
-According to the court decision, the role of Diana Gama has been rejected. That character does not suit social leadership at all. Finally, since she is not a Sri Lankan, she has no right to engage in politics in this country, the thera said.
-
-◼️
-
-[Data](articles/df62db67.json)
-
-[Extended Data](ext_articles/df62db67.ext.json)
-
----
-
-### Kalinga Kumara win gold medal to Lakmana
-
-*2024-05-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196552) · `si`
-
-Kalinga Kumarage won gold in the 400m at the 11th Kinmi Mishala Memorial Athletic Festival in Japan. Nadeesha Ramanayake secured her fourth win in the 400m, while Tharushi Karunaratne, infected with the 800m, did not compete.
-
-🟩
-
-The 11th Kinmi Mishala Memorial Athletic Festival will be held in Japan this day.
-
-The gold medal was won by Kalinga Kumarage in Sri Lanka and the 400m event.
-
-Meanwhile, Nadeesha Ramanayake, who participated in the 400mm, won its fourth.
-
-Meanwhile, Tharushi Karunaratne, who was infected with the 800mm, was not participating in the competition.
-
-◼️
-
-[Data](articles/ceb03269.json)
-
-[Extended Data](ext_articles/ceb03269.ext.json)
-
----
-
-### Economic growth, national security, and what next for Sri Lanka
-
-*2024-05-12 22:03:34* · [`dailyftlk`](https://www.ft.lk/columns/Economic-growth-national-security-and-what-next-for-Sri-Lanka/4-761675) · `en`
-
-Economic growth and national security are complementary to each other
-
-When States fail to observe the Rule of Law and maintain the Law and Order, markets will start disintegrating themselves leading to a collapse of the same. Collapsed markets will stunt economic growth and stunted growth, as we have explained earlier, will reduce national security. Consequently, the resources spent on national security is not a waste but an essential cost to ensure the smooth operation of all the needed economic activities. Hence, no nation should compromise the national security on the ground of saving resources. It will cause the nations to sacrifice all their gains on all the economic fronts
-
-...
-
-[Data](articles/7fd4fb50.json)
-
-[Extended Data](ext_articles/7fd4fb50.ext.json)
-
----
-
-### The way shepherds and the unrelenting society
-
-*2024-05-12 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183340) · `ta`
-
-The presidential election is anticipated to occur on September 17 or October 16, despite no official announcement. This expectation is driving significant political activity in the country.
-
-🟩
-
-The presidential election will be held on September 17 and October 16. Although the election date is not officially announced, there are many moves in the politics of the country on the expectation that the presidential election will be held.
-
-◼️
-
-[Data](articles/a09ec116.json)
-
-[Extended Data](ext_articles/a09ec116.ext.json)
-
----
-
-### Iron Man's Reconciliation: Putin's rule in Russia
-
-*2024-05-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183345) · `ta`
-
-Iron Man's Reconciliation: Putin's rule in Russia highlights the collective European stance on Putin's presidency and its implications for the Ukrainian-Russian conflict. It underscores Putin's heroic stature and his prioritization of Russia's safety over all else.
-
-🟩
-
-Note: "If European countries collectively take the position that Putin cannot be accepted as the Russian President, the difficult question of whom to talk about about the Ukrainian -Russian war will be headed.". The power of the nation of a superpower nation. The stage made Putin's heroic. He pleaded that he would prioritize Russia's safety than everything.
-
-◼️
-
-[Data](articles/ab29eddd.json)
-
-[Extended Data](ext_articles/ab29eddd.ext.json)
 
 ---

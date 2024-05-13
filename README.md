@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 21:03:19**
+As of **2024-05-13 21:18:25**
 
 ## Newspaper Stats
 
-*Scraped **23,765** Articles*
+*Scraped **23,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 2,773
 tamilmirrorlk | 2,783
 virakesarilk | 3,545
 dailymirrorlk | 3,736
-adaderanasinhalalk | 3,812
+adaderanasinhalalk | 3,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,764 (100.0%) of 23,765 articles have been extended.
+23,765 (100.0%) of 23,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### පෙර පාසල් දැරියට මරු කැඳවූ ජංගම දුරකථනය
+### දිස්ත්‍රික්ක 5කට නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කෙරේ
+
+*2024-05-13 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196590) · `si`
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් දිස්ත්‍රික්ක 5ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+එම නිවේදනයෙන් බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල සහ හපුතලේ ප්‍රදේශවලටත් මහනුවර දිස්ත්‍රික්කයේ යටිනුවර සහ උඩුනුවර ප්‍රදේශවලටත් කහ වර්ණයෙන් යුතු නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත.
+
+එසේම කෑගල්ල දිස්ත්‍රික්කයේ මෙලෙස නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත්තේ මාවනැල්ල, දෙහිඕවිට, ගලිගමුව, වරකාපොල සහ කෑගල්ල ප්‍රදේශවලටය.
+
+කුරුණෑගල දිස්ත්‍රික්කයේ මාවත්ගම ප්‍රදේශයටත් රත්නපුර දිස්ත්‍රික්කයේ ඉඹුල්පේ, රත්නපුර සහ බළන්ගොඩ ප්‍රදේශ සඳහා ද ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/f8b18cb8.json)
+
+---
+
+### Mobile karatu killed in the pre-school girl
 
 *2024-05-13 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196589) · `si`
 
-ජංගම දුරකථනය ආරෝපණය කිරීමට යාමේදී විදුලි සැර වැදීමෙන් පෙර පාසල් සිසුවියක මියගොස් තිබේ.
+A five-year-old girl from Munhena died after trying to charge her mobile phone. Her body is at Beruwala Hospital, to be transferred to Kalutara Teaching Hospital.
 
-මෙසේ මියගොස් ඇත්තේ මග්ගොන මුංහේන ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු පහක පෙර පාසල් දැරියකි.
+🟩
 
-මෘතදේහය බේරුවල රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය කළුතර ශික්ෂණ රෝහලට යොමුකිරීමට නියමිතය.
+A pre-school student has died after attempting to charge the mobile phone.
+
+The deceased has been identified as five years old, a five-year-old resident of Munhena.
+
+The body is placed at Beruwala Hospital and the body will be sent to Kalutara Teaching Hospital.
 
 ◼️
 
 [Data](articles/02f086d0.json)
+
+[Extended Data](ext_articles/02f086d0.ext.json)
 
 ---
 
@@ -2301,31 +2325,5 @@ Accordingly, the court has issued this order to persons including the following 
 [Data](articles/44316fe2.json)
 
 [Extended Data](ext_articles/44316fe2.ext.json)
-
----
-
-### US State Assistant Secretary Donald Lu
-
-*2024-05-13 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183389) · `ta`
-
-US State Assistant Secretary Donald Lu is on a visit to India, Sri Lanka, and Bangladesh from 10th to 15th of this month, aiming to bolster US relations and support in the Indo-Pacific region. In Sri Lanka, he will meet top political leaders to discuss strengthening ties and economic recovery, emphasizing civil society's role in building a democratic community.
-
-🟩
-
-US State Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has arrived in Sri Lanka this morning as he made an official visit to India, Sri Lanka and Bangladesh from 10th to 15th of this month.
-
-The main aim is to further strengthen the US's relations with these countries, express the support of the US to the building of the Indoor Indo -Pacific region.
-
-Accordingly, Donald Lu, who arrived in India on Friday (10), held a meeting with the Consular Officer in Chennai to further strengthen relations with South India.
-
-Donald Lu, who arrived in Sri Lanka this morning, will hold meetings with top political leaders in Colombo.. He will discuss further strengthening the goodwill between the two countries.
-
-He will also re -guarantee the US cooperation on the economic recovery of Sri Lanka and emphasizes the need to strengthen the civil society as the basis for building an independent democratic community.
-
-◼️
-
-[Data](articles/2cc3f693.json)
-
-[Extended Data](ext_articles/2cc3f693.ext.json)
 
 ---

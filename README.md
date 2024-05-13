@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 07:20:00**
+As of **2024-05-13 07:45:14**
 
 ## Newspaper Stats
 
-*Scraped **23,593** Articles*
+*Scraped **23,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 1,350
 dailyftlk | 1,374
 adalk | 2,002
 adaderanalk | 2,751
-tamilmirrorlk | 2,761
+tamilmirrorlk | 2,762
 virakesarilk | 3,516
 dailymirrorlk | 3,713
-adaderanasinhalalk | 3,778
+adaderanasinhalalk | 3,780
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,577 (99.9%) of 23,593 articles have been extended.
+23,581 (99.9%) of 23,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### බිලියන 35ක් රටට අහිමි කළ පාවහන් ජාවාරම
+
+*2024-05-13 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196557) · `si`
+
+විදෙස් රටවල නිෂ්පාදිත පාවහන් නීත්‍යානුකූල නොවන අයුරින් මෙරටට ආනයනය කර අලෙවි කිරීමේ මහාපරිමාණ ජාවාරමක් සම්බන්ධවෙන් තොරතුරු අනාවරණය වී තිබේ.
+
+නියමිත බදු ගෙවීමකින් තොරව ඇතැම් රේගු නිලධාරීන් හා සම්බන්ධවෙමින් ඔවුන් එම ජාවාරමේ නිරතව ඇති බව සඳහන්ය.
+
+විදෙස් රටකින් මෙරටට ආනයනය කරන ලද පාවහන් යුගලයක් සඳහා අවම වශයෙන් රුපියල් 2,000ක බදු මුදලක් අයකරනු ලබයි.
+
+දේශීයව නිපදවන පාවහන් මිලට වඩා ඉතා අඩු මිලකට මෙලෙස ගෙන්වන ලද විදෙස් පාවහන් වෙළෙඳපොළට නිකුත් කරන බව සඳහන්ය.
+
+මෙමඟින් වාර්ෂිකව රුපියල් බිලියන 35ක පමණ බදු ආදායමක් මෙරටට අහිමි වී ඇති බව "අද දෙරණ" වෙත වාර්තා වුණි.
+
+◼️
+
+[Data](articles/139c1c3e.json)
+
+---
+
+### ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක්
+
+*2024-05-13 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196555) · `si`
+
+ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක් වර්ධනය වීම හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩි වීමක් බලාපොරොත්තු වන බව කුලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ බොහෝ පළාත්වල ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී.100ට වැඩිතද වැසි ඇතිවිය හැකිය.
+
+නැගෙනහිර සහ දකුණු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/1ad41d7d.json)
+
+---
 
 ### Concessionary vehicle permits: MPs have their way, ignoring economic crisis
 
@@ -48,6 +90,8 @@ Following the approval by the House Committee, the Speaker is expected to write 
 
 [Data](articles/8bc8e5e6.json)
 
+[Extended Data](ext_articles/8bc8e5e6.ext.json)
+
 ---
 
 ### Tamil and Muslim voting trends in Presidential Elections
@@ -63,6 +107,8 @@ In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes
 ...
 
 [Data](articles/19b55b44.json)
+
+[Extended Data](ext_articles/19b55b44.ext.json)
 
 ---
 
@@ -84,6 +130,8 @@ These protests are almost exclusively in the West. It isn’t that the rest of t
 
 [Data](articles/13eb670b.json)
 
+[Extended Data](ext_articles/13eb670b.ext.json)
+
 ---
 
 ### Who’s to blame for Ms. Diana’s flaws - EDITORIAL
@@ -99,6 +147,8 @@ Ever-popular past Commissioner of Elections Mahinda Deshapriya -respected for hi
 ...
 
 [Data](articles/a1bc0b96.json)
+
+[Extended Data](ext_articles/a1bc0b96.ext.json)
 
 ---
 
@@ -507,6 +557,22 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 [Data](articles/92ca1c7e.json)
 
 [Extended Data](ext_articles/92ca1c7e.ext.json)
+
+---
+
+### வெளிநாட்டு சிகரட்டுகளுடன் ஒருவர் கைது
+
+*2024-05-13 00:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337210) · `ta`
+
+ஓமானில் இருந்து சட்டவிரோதமான முறையில் இலங்கைக்குக் கொண்டுவரப்பட்ட சுமார் பத்து  லட்சம் ரூபா பெறுமதியான வெளிநாட்டு சிகரெட்டுகளுடன்  ஒருவர் கைது செய்யப்பட்டுள்ளார் .
+
+கட்டுநாயக்க விமான நிலைய வருகை முனையத்தில் நேற்று அவர் கைது செய்யப்பட்டுள்ளார்.  இவரிடமிருந்த வெளிநாட்டு சிகரெட்டுகளும் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவின் அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளன .
+
+கைது செய்யப்பட்டவர் ஹொரணை பிரதேசத்தில் வசிக்கும் 32 வயதுடையவர் என்பதுடன் இவர் ஓமானில் கடை ஒன்றை நடத்தி வருகின்றார் என தெரியவந்துள்ளது .மேற்படி நபர் சட்டவிரோதமாக இலங்கைக்குக் கொண்டு வந்த வெளிநாட்டு  சிகரெட்டுகளுடன் எதிர்வரும் 22 ஆம் திகதி நீர்கொழும்பு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார் .  (a)
+
+◼️
+
+[Data](articles/123f793a.json)
 
 ---
 
@@ -2027,67 +2093,5 @@ Similarly, Japan has also appointed its senior diplomat Yasushi Akashi as a spec
 [Data](articles/7cd845c1.json)
 
 [Extended Data](ext_articles/7cd845c1.ext.json)
-
----
-
-### The child's death
-
-*2024-05-12 16:26:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க-ரட்-துண்டு-இறுகி-குழந்தை-மரணம்/175-337182) · `ta`
-
-A 19-month-old baby was killed by a girl in Anuradhapura, Sri Lanka. The incident occurred at home on November 11th. The parents rushed the child to Nochchiyagama District Hospital, then transferred to Anuradhapura Teaching Hospital.
-
-🟩
-
-Anuradhapura Saliyawwa police said that the baby was killed in a 19 -month -old girl's throat.
-
-The incident took place at home on the evening of the 11th. Parents who took immediate action were taken to the Nochchiyagama District Hospital through the 1990 ambulance service.
-
-Preliminary investigations have revealed that the child had taken immediate steps to send the child from the Nochchiyagama District Hospital to the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/8add4fcd.json)
-
-[Extended Data](ext_articles/8add4fcd.ext.json)
-
----
-
-### General candidate and Tamil party
-
-*2024-05-12 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183310) · `ta`
-
-"If the Tamil National Alliance (TNA) aligns with a common Tamil candidate, it aims to regain its lost influence and political dominance."
-
-🟩
-
-“If the TNA is exposed to compliance with the Tamil common candidate, the conditions that the TNA will be focusing on the restoration of its lost influence and political domination."
-
-◼️
-
-[Data](articles/e41fc163.json)
-
-[Extended Data](ext_articles/e41fc163.ext.json)
-
----
-
-### Why is the idea of fielding a Tamil general candidate in the presidential election?- Indian High Commissioner
-
-*2024-05-12 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183303) · `ta`
-
-The Indian High Commissioner to Sri Lanka, Santosh Ja, discussed the idea of fielding a Tamil general candidate in the upcoming presidential election with S. Sridharan, leader of the Sri Lanka Tamil State Party. Sridharan emphasized the need for a federal solution with internal self-determination for Tamils, highlighting issues like land seizures and the construction of Buddhist idols in Tamil areas. The mood among Tamils is one of seeking a fair resolution to their political issues, with the election seen as an opportunity to address these concerns.
-
-🟩
-
-What kind of mood is the Tamil people in the upcoming presidential election on behalf of Tamils on behalf of Tamils and voting in this election?The leader of the Sri Lanka Tamil State Party. Indian High Commissioner to Sri Lanka Santosh Ja has asked Sreedharan.
-
-A meeting between Sri Lanka's Tamil National Alliance (TNA) leader and parliamentarian S. Sridharan and Indian High Commissioner to Sri Lanka Santosh Jaw were held at the Indian residence in Colombo last Thursday.
-
-What is the mood of the Tamils in the upcoming presidential election that the Tamil general candidate has been proposed to field a Tamil general candidate on behalf of the Tamils and voting in this election?To whom will they vote?The High Commissioner Santosh Ja questioned the Sridharan.
-
-...
-
-[Data](articles/8a038935.json)
-
-[Extended Data](ext_articles/8a038935.ext.json)
 
 ---

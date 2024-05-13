@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 10:04:32**
+As of **2024-05-13 10:18:27**
 
 ## Newspaper Stats
 
-*Scraped **23,623** Articles*
+*Scraped **23,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,110 @@ bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,285
-economynextcom | 1,351
+economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,005
 adaderanalk | 2,755
 tamilmirrorlk | 2,765
 virakesarilk | 3,518
 dailymirrorlk | 3,718
-adaderanasinhalalk | 3,788
+adaderanasinhalalk | 3,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,618 (100.0%) of 23,623 articles have been extended.
+23,623 (100.0%) of 23,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### රත්‍රං බවට සැක පුරාවස්තු තොගයක් පුත්තලමේ නිවසක
+### කැරට් කැබැල්ලක් උගුරේ සිරවී දරුවෙක් ජීවිතක්ෂයට
+
+*2024-05-13 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196566) · `si`
+
+කැරට් කැබැල්ලක් උගුරේ සිරවීමෙන් සිඟිත්තෙකුට දිවි අහිමි වූ පුවතක් සාලියවැව ප්‍රදේශයෙන් වාර්තා වේ.
+
+එලෙස මියගොස් ඇත්තේ, සාලියවැව ප්‍රදේශයේ පදිංචිව සිටි අවුරුද්දයි මාස 7ක් වූ සවීන් දුල්සඳ නැමති පිරිමි දරුවෙකි.
+
+මව ආහාර පිසමින් සිටින අවස්ථාවේ මියගිය දරුවාගේ සහෝදරිය වූ අවුරුදු 4ක් වූ පුංචි දියණිය විසින් මල්ලීට කැරට් කැබැල්ලක් ලබාදී ඇත.
+
+එම කැරට් කැබැල්ල දරුවාගේ උගුරේ සිරවී ඇති අතර, පසුව මව සහ පියා එක්ව කැරට් කැබැල්ල පිටතට ගැනීමට උත්සාහ දරා ඇති තිබේ.
+
+එය සාර්ථක නොවීම හේතුවෙන් 1990 ගිලන්රථයකින් වහාම දරුවාව නොච්චියාගම රෝහල වෙත රැගෙන ගොස් තිබිණි.
+
+පසුව දරුවාගේ තත්ත්වය බරපතළ බැවින් අනුරාධපුර ශික්ෂණ රෝහලට මාරු කර යැවීමේ දී ජීවිතක්ෂයට පත්ව ඇත.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරී එම්. එම්. ඒ. සී ගුණතිලක මහතා විසින් පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඇති අතර, එහිදී අනාවරණය වී ඇත්තේ දරුවාගේ උගුරේ කැරට් කැබැල්ල සිරවීමෙන් ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+◼️
+
+[Data](articles/1630a991.json)
+
+---
+
+### IORA chair Sri Lanka invited for BRICS Foreign Minister summit in Russia
+
+*2024-05-13 10:00:00* · [`economynextcom`](https://economynext.com/iora-chair-sri-lanka-invited-for-brics-foreign-minister-summit-in-russia-162680/) · `en`
+
+ECONOMYNEXT – Sri Lanka as the chair of the Indian Ocean Rim Association (IORA) has been invited to BRICS Foreign Ministers’ summit in Russia, the island nation’s Foreign Minister Ali Sabry said, from May 30-31 to discuss anti-microbial resistance.
+
+BRICS is an intergovernmental organization comprising Brazil, Russia, India, China, South Africa, Iran, Egypt, Ethiopia, and the United Arab Emirates, while the IORA is a regional forum, tripartite in nature, bringing together representatives of Government, Business and Academia, for promoting co-operation and closer interaction among them.
+
+We have been invited by BRICs Foreign Minsters’ meeting in Russia on the basis that we hold the chairman ship of the IORA,” Sabry told last week at a media briefing.
+
+Moscow will host the International Conference titled “Antimicrobial Resistance: A Global Challenge to the National Well-Being of BRICS. Reality and Innovation” at the end of May.
+
+...
+
+[Data](articles/a7cdee53.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 298.80/299.30 to US dollar
+
+*2024-05-13 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-80-299-30-to-us-dollar-162727/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 298.80/299.30 to the US dollar on Monday from 299.00/30 the previous week, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.45/50 percent from 10.40/55 percent.
+
+A bond maturing on 15.09.2027 was quoted up at 10.75/85 percent from 10.70/85 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 11.10/15 percent 11.15/25 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.11 percent at 12,532, and the S&P SL20 was up 0.08 percent at 3,733. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/ad06c064.json)
+
+---
+
+### Antiquities suspected of gold at a house in Puttalam
 
 *2024-05-13 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196565) · `si`
 
-කල්පිටිය, ආලන්කුඩා ප්‍රදේශයේ නිවසක නීතිවිරෝධී ලෙස ළඟ තබාගෙන සිටි පුරාවස්තු තොගයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A 34-year-old man in Kalpitiya was arrested for possessing illegal antiquities, suspected of containing gold, during a search operation by the Sri Lanka Navy and Puttalam Police. The items were hidden in his house, and he has been handed over to the Puttalam Police for further investigation.
 
-‍ලැබුණු තොරතුරකට අනුව, ශ්‍රී ලංකා නාවික හමුදාව සහ පුත්තලම පොලිස්  කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය එක්ව පසුගිය 11 වනදා සිදුකළ සොදිසි මෙහෙයුමක දී රත්‍රං බවට සැකකෙරෙන මෙම  පුරාවස්තුන් සොයාගෙන තිබුණි.
+🟩
 
-පොලීසිය පැවසුවේ මෙම පුරාවස්තු නිවසේ සූක්ෂමව සඟවා තිබීය දී සොයා ගත් බවය.
+A suspect has been arrested with an archaeological stock of antiquities that were illegal in a house in Alankadu area in Kalpitiya.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 34 හැවිරිදි කල්පිටිය ඒත්තාලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+According to information received, the Sri Lanka Navy and the Puttalam Police Division Criminal Investigation Bureau were conducting a sedus operation conducted in a sediment operation conducted by gold.
 
-සැකකරු සහ පුරාවස්තු තොගය ඉදිරි නීතිමය කටයුතු සඳහා පුත්තලම පොලිස් කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය වෙත  භාරදී තිබේ.
+The police said that these antiquities were hidden in the house.
+
+The victim was a 34 year old resident of Kalpitiya.
+
+The suspect and antiquities have been handed over to the Puttalam Police Station Criminal Investigation Bureau for further legal action.
 
 ◼️
 
 [Data](articles/3219c905.json)
+
+[Extended Data](ext_articles/3219c905.ext.json)
 
 ---
 
@@ -168,6 +236,8 @@ However, misty conditions can be expected at some places in the Western, Sabarag
 
 [Data](articles/e55dc820.json)
 
+[Extended Data](ext_articles/e55dc820.ext.json)
+
 ---
 
 ### Girlfriend arrested over Kuliyapitiya youth murder
@@ -191,6 +261,8 @@ Earlier, the father and mother of the girlfriend were arrested and remanded over
 ◼️
 
 [Data](articles/e338e739.json)
+
+[Extended Data](ext_articles/e338e739.ext.json)
 
 ---
 
@@ -379,6 +451,28 @@ However, the body of the missing youth was discovered weeks later at the Paniren
 [Data](articles/5dc03d37.json)
 
 [Extended Data](ext_articles/5dc03d37.ext.json)
+
+---
+
+### Sri Lanka Port City offshore banking regulations within two months: Minister
+
+*2024-05-13 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-offshore-banking-regulations-within-two-months-minister-162722/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to pass banking regulations which will apply within the Colombo Port City within the next two months, State Minister for Investment Promotion, Dilum Amunugama said.
+
+The special economic zone is expected to be re-named International Financial and Technological City. Most of the regulations that governs the special economic zone is already in place allowing a number of businesses to start operations.
+
+“The banking regulations remains to be approved by parliament,” Minister Amunugama told reporters in Colombo Friday.
+
+“Within the next two months, we hope to bring to parliament and approve, all these regulations, including offshore banking regulation.”
+
+Several businesses including software firms which were approved to operated from the Port City are running at designated locations, pending the construction of buildings.
+
+China Duty Free may also start a duty free complex on June 14, if the required approval is received from cabinet.
+
+...
+
+[Data](articles/5ee4194b.json)
 
 ---
 
@@ -1780,19 +1874,25 @@ Only the wedding artists have the opportunity to go to Korea without an exam.The
 
 ---
 
-### දන්සල්වලට අවසර ගැනීම අනිවාර්යයි
+### Obtaining Dansal is mandatory
 
 *2024-05-12 20:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්වලට-අවසර-ගැනීම-අනිවාර්යයි/11-409583) · `si`
 
-වෙසක් සමයේ දන්සැල් පැවැත්වීමට බලාපොරොත්තුවන ප්‍රදේශයන්හි සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අයත් මහජන සෞඛ්‍ය පරීක්ෂකවරයා  ලිඛිතව දැනුම්වත් කොට අවසර ලබාගැනීමකින් අනතුරුව දන්සැල් පැවැත්වීම අනිවාර්ය වන අතර එසේ නොකරන පාර්ශ්වයන්ට එරෙහිව නීතිය ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
+During the Vesak season, it's mandatory for Medical Officers to inform Public Health Inspectors about the health conditions of food at dansals. Public health inspector Sandun Ratnayake emphasizes the importance of ensuring food safety and hygiene, with dansals required to display relevant health notifications.
 
-ඒ අනුව මේ සඳහා මහජන සෞඛ්‍ය පරීක්ෂකවරුන් 1800ක් පමණ දෙනෙකුගේ සහභාගිත්වයෙන් ජනතාව දැනුම්වත් කිරීමේ වැඩපිළිවෙළක් ක්‍රියාත්මක වන අතර දන්සැල් පැවැත්වීමේදී අනුගමනය කළ යුතු ක්‍රියාමාර්ග පිළිබඳ එහිදී ඔවුන් අදාළ උපදෙස් ලබා දීමට නියමිතය.
+🟩
 
-මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කරමින් මහජන සෞඛ්‍ය පරීක්ෂක සඳුන් රත්නායක මහතා සඳහන් කර සිටියේ දන්සැලක් පැවැත්වීමට ස්ථානයක් තෝරා ගැනීම, ආහාර ද්‍රව්‍ය තෝරා ගැනීම, ආහාර සකස් කිරීමට යොදාගන්නා උපකරණ, ආහාර පිසින පුද්ගලයන්ගේ සෞඛ්‍ය තත්ත්වය, ආහාර පිළිගන්වන පුද්ගලයන්ගේ සෞඛ්‍ය තත්ත්වය, දන්සැල් කටයුතු අවසන් කිරීම යනාදී කරුණු සම්බන්ධයෙන් අදාළ දැනුම්වත් කිරීම් සිදුකර ඊට අනුගතවන්නේ නම් පමණක් දන්සැල් පැවැත්වීමට අනුමැතිය ලබා දෙන බවයි.
+The Medical Officers of the Medical Officer of the Health Medical Officer of the Vesak season is compulsory to inform the Public Health Inspector of the Health Medical Officer of the Health Medical Officer of the Office of the Medical Officer of the Vesak.
+
+Accordingly, the public will be informed of the program with about 1800 public health inspectors and the action should be followed in the conduct of dansals.
+
+Commenting on this further, public health inspector Sandun Ratnayake said the health condition of the health and the health of food, food and the health of food, and food, the health conditions of food, and the health conditions of foods, and the health of the health of food and healthy.Only the dansals will be given to hold the relevant notifications and adhesives.
 
 ◼️
 
 [Data](articles/3c12102a.json)
+
+[Extended Data](ext_articles/3c12102a.ext.json)
 
 ---
 
@@ -1840,25 +1940,33 @@ The first six days of the examination has been completed and several other subje
 
 ---
 
-### පාස්කු ප්‍රහාර වන්දියෙන් මෛත්‍රී තවත් රු.මි. 28ක් ගෙවයි
+### Maithri is Rs.. 28 pays
 
 *2024-05-12 19:50:11* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-වන්දියෙන්-මෛත්‍රී-තවත්-රු-මි--28ක්-ගෙවයි/11-409581) · `si`
 
-පාස්කු ප්‍රහාරයේ වින්දිතයන්ට වන්දි ලෙස 'පාස්කු ප්‍රහාරය අප්‍රේල් 2019 - වින්දිත අරමුදල' යන නමින් ස්ථාපිත අරමුදල සඳහා තවත් රුපියල් මිලියන 28ක් බැර කර තිබේ.
+The Passover attack compensation fund received Rs. 28 million, with Rs. 13 million credited to former President Maithripala Sirisena on the 22nd and 30th. The fund, including Rs. 43 million from Sirisena, was fully credited by April 30th.
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පසුගිය 22 වැනිදා රුපියල් මිලියන 15ක් සහ පසුගිය 30 වැනිදා රුපියල් මිලියන 13ක් ලෙස මෙම මුදල බැර කර ඇත.
+🟩
 
-ඒ අනුව මේ දක්වා ගෙවීමට නියමිත රුපියල් කෝටි 10ක මුදලින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා රුපියල් මිලියන 43ක් ගෙවා අවසන් කර තිබේ.
+The Passover attack on the Passover attack has been compensated by the Passover attack on the 2011 - Various Rs. 28 million has been credited to the Fund.
 
-මෙම මුදල් බැර කිරීමත් සමග පසුගිය අප්‍රේල් 30 වැනිදා වන විට මෙම අරමුදල සඳහා රුපියල් 64,825,588.87ක් බැර කර ඇත.
+Former President Maithripala Sirisena has been credited to Rs. 13 million on the 22nd and Rs. 13 million on the 30th.
 
-පාස්කු ප්‍රහාරයේ වින්දිතයන්ට වන්දි ලෙස හිටපු ජාතික බුද්ධි ප්‍රධානී සිසිර මෙන්ඩිස් මහතා ගෙවීමට නියමිතව තිබූ රු.මි.10ක මුදල මේ වන විට ගෙවා අවසන් කර ඇති අතර, හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු මහතාට ගෙවීමට නියමිත රුපියල් මිලියන 50ක මුදලින් අවස්ථා 4දී රුපියල් මිලිය 05ක් ගෙවා අවසන් කර තිබේ.
+Former President Maithripala Sirisena has paid former President Maithripala Sirisena from Rs. 43 million in Rs.
 
-මීට අමතරව හිටපු පොලිස්පති පූජිත් ජයසුන්දර රුපියල් 1,725,588.87ක්ද, රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතා රුපියල් මිලියන 4.1ක්ද මේ දක්වා ගෙවා ඇත.
+Upon 30 April, the fund has been credited to this fund as at 30 April.
 
-...
+Former National Intelligence Head of Former Defense Assistance has been paid to the pronouncement to the victims of the Easter attack.Available.
+
+Former IGP Pujithan Jayasundera has paid Rs.
+
+The Treasury also paid the amount of Rs.
+
+◼️
 
 [Data](articles/86444e3b.json)
+
+[Extended Data](ext_articles/86444e3b.ext.json)
 
 ---
 
@@ -2115,79 +2223,5 @@ The Insurance Association of Sri Lanka (IASL) the representative body of the ins
 [Data](articles/07d887ae.json)
 
 [Extended Data](ext_articles/07d887ae.ext.json)
-
----
-
-### Litro Gas commissions its state-of-the-art storage and bottling Facility in Sapugaskanda
-
-*2024-05-12 18:52:00* · [`islandlk`](http://island.lk/litro-gas-commissions-its-state-of-the-art-storage-and-bottling-facility-in-sapugaskanda/) · `en`
-
-Litro Gas ceremonially commissioned its state-of-the-art refurbished and upgraded storage and bottling facility at Mabima, Sapugaskande last week. The ceremony was presided over by the Chief of Staff & National Security Advisor to the President, Sagala Rathnayaka. Recognized as one of the largest in the region, the Mabima facility reinforces Litro Gas’s commitment to operational excellence and national energy security.
-
-Commissioned in 1984 during Colombo Water & Gas Company, the Mabima Filling Plant has been completely refurbished after 40 years to meet international operation and safety standards, enhancing efficiency. The refurbishment and upgrading of the Mabima facility, which cost a little over Rs. 1 billion, will ensure bottling and distribution efficiency for another 10 to 15 years for the country. Mabima will play a vital role alongside the Kerawalapitiya plant, reducing dependency on the Kerawalapitiya filling plant, which was commissioned in 2014.
-
-...
-
-[Data](articles/7b72ab69.json)
-
-[Extended Data](ext_articles/7b72ab69.ext.json)
-
----
-
-### Sarva Ameresekere appointed as group chairman of George Steuart
-
-*2024-05-12 18:51:00* · [`islandlk`](http://island.lk/sarva-ameresekere-appointed-as-group-chairman-of-george-steuart/) · `en`
-
-Sarva Ameresekere has been appointed the Group Chairman of George Steuart & Co. Ltd.(GS&Co), Sri Lanka’s oldest company established in 1835. The appointment comes as Dilith Jayaweera resigned from the Group Chairmanship and all directorates he held within the Group in January, following his entry into politics.
-
-The new Group Chairman, Sarva Ameresekere was first appointed to the Board of GS&Co in 2020 and was then made Group Executive Director thereafter. He serves on many Boards within the Group including all its listed entities and had been the Chief Executive Officer of the Triad Group since 2008. Qualified in both business and engineering from the University of Michigan, Ann Arbor and the University of Southern California, Los Angeles, Sarva has extensive local and foreign experience. Under his stewardship, Sri Lanka’s oldest company will head to its future with global ambitions and a bold outlook.
-
-Sampath Bank unveils Vishwa Retail App, redefining Internet banking in Sri Lanka
-
-...
-
-[Data](articles/2d2a93d0.json)
-
-[Extended Data](ext_articles/2d2a93d0.ext.json)
-
----
-
-### Lanka Hospitals Academy consolidates its hold on healthcare education in Sri Lanka
-
-*2024-05-12 18:51:00* · [`islandlk`](http://island.lk/lanka-hospitals-academy-consolidates-its-hold-on-healthcare-education-in-sri-lanka/) · `en`
-
-Lanka Hospitals Academy, the healthcare education arm of Lanka Hospitals PLC, has reached a significant milestone with the inauguration of its new premises. The new facility, located at No. 657, Elvitigala Mawatha, Colombo 05, in the vicinity of the hospital, marks a new chapter in the academy’s commitment to providing high-quality healthcare education and producing skilled professionals in various healthcare disciplines.
-
-Deepthi Lokuarachchi, Group CEO of Lanka Hospitals PLC said, “Lanka Hospitals is taking its professional healthcare education to the next level, producing the most sought-after healthcare professionals of different disciplines. Lanka Hospitals Academy has become the ‘apex’ body in healthcare education, offering a wide range of courses from pharmacy, caregiving, phlebotomy and nursing.”
-
-...
-
-[Data](articles/969ae8db.json)
-
-[Extended Data](ext_articles/969ae8db.ext.json)
-
----
-
-### Landslide issues the pre-warnings of the landslide
-
-*2024-05-12 18:50:25* · [`adalk`](https://www.ada.lk/breaking_news/නායයෑමේ-පූර්ව-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-409577) · `si`
-
-The National Building Research Organization has issued landslide warnings for 13 Divisional Secretariats in five districts due to heavy rain. These warnings are effective from 3:00 pm today and include areas like Mawathagama, Ratnapura, and Badulla. Residents are advised to stay alert.
-
-🟩
-
-The National Building Research Organization has taken steps to issue landslide embarking announcements to 13 Divisional Secretariats in five districts due to heavy rainfalls affected by many areas in the island.
-
-The announcements are valid for the period from 3.00 pm today (12) at 3.00 pm today.
-
-Accordingly, the National Building Research Organization to issue a warning announcements in the Mawathagama, Ratnapura, Ratnapura and Imbulpe Divisional Secretariat Divisions in Badulla District, Badulla District, Udunuwara, Kegalle District District District District District District District District District District District District District District District District in Mawathagama, Badulla District, Kurunegala District.Steps have been taken.
-
-The people living in these areas should be aware of this and the organization said.
-
-◼️
-
-[Data](articles/2f4b9427.json)
-
-[Extended Data](ext_articles/2f4b9427.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 12:33:55**
+As of **2024-05-13 12:51:06**
 
 ## Newspaper Stats
 
-*Scraped **23,661** Articles*
+*Scraped **23,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,008
-adaderanalk | 2,762
+adaderanalk | 2,764
 tamilmirrorlk | 2,773
-virakesarilk | 3,521
-dailymirrorlk | 3,725
-adaderanasinhalalk | 3,794
+virakesarilk | 3,525
+dailymirrorlk | 3,726
+adaderanasinhalalk | 3,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,660 (100.0%) of 23,661 articles have been extended.
+23,661 (100.0%) of 23,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Court order against protest planned by uni. students and staff in Nugegoda
+
+*2024-05-13 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99183/court-order-against-protest-planned-by-uni-students-and-staff-in-nugegoda) · `en`
+
+The Nugegoda Magistrate’s Court has issued an order preventing the students and non-academic staff of the Open University of Sri Lanka and the University of Sri Jayawardenapura from engaging in a protest march near several schools in the Nugegoda area where G.C.E. Ordinary Level examination is currently held.
+
+This order has been issued in consideration of the fact presented to the court that Anula Vidyalaya, St. Joseph Girls’ College, Samudra Devi Girls’ College, St. John’s Boys’ College, and Sujatha Girls’ College which are located near the main road around the area, are being used as G.C.E. O/L examination centres with Anula Vidyalaya also serving as an examination coordination centre.
+
+The Nugegoda Magistrate issued this order as per a request made by the Inspector of Mirihana Police based on the information received that the agitators have planned to use loudspeakers and perform street plays during their protest march which is set to be held today (13).
+
+◼️
+
+[Data](articles/4c2c66ec.json)
+
+---
+
+### Police fire water cannons at protesting university non-academic staff
+
+*2024-05-13 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99182/police-fire-water-cannons-at-protesting-university-non-academic-staff) · `en`
+
+Police have used water cannons to disperse protesting university non-academic staff near Diyatha Uyana Junction at Battaramulla, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/e339b080.json)
+
+---
+
+### විරෝධතාවයකට පොලීසියෙන් ජල ප්‍රහාරයක්
+
+*2024-05-13 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196572) · `si`
+
+කොළඹ බත්තරමුල්ල දියත උයන ඉදිරිපිට විශ්වවිද්‍යාල අනධ්‍යන සේවකයින් විසින් අද (13) පැවැත්වූ උද්ඝෝෂණයක් විසුරුහැරීම සඳහා  පොලීසිය ජල ප්‍රහාරයක් එල්ල කර තිබේ.
+
+◼️
+
+[Data](articles/3500205c.json)
+
+---
+
+### இந்தோனேசியாவில் வெள்ளத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 41 ஆக அதிகரிப்பு : 17 பேர் மாயம்
+
+*2024-05-13 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
+
+மேற்கு இந்தோனேஷியாவில் வார இறுதியில் திடீர் வெள்ளம் மற்றும் எரிமலையிலிருந்து பெருக்கெடுத்த குழம்பு காரணமாக உயிரிழந்தவர்களின் எண்ணிக்கை 41 ஆக அதிகரித்துள்ளது.
+
+சனிக்கிழமை மாலை பல மணிநேரம் பெய்த கடும் மழையால் இந்தோனேசியாவின் மிகவும் தீவிரமான எரிமலைகளில் ஒன்றான மராபி  எரிமலையில் இருந்து பாறைகள் உருண்டு சுமத்ரா தீவில் இரண்டு மாவட்டங்களுக்குள் வீழ்ந்துள்ளன.
+
+"நேற்று இரவு நிலவரப்படி, 37 பேர் உயிரிழந்ததாக நாங்கள் பதிவு செய்துள்ளோம். ஆனால் இன்று காலை அந்த எண்ணிக்கை 41 ஆக அதிகரித்துள்ளதாக சுமாத்ரா அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+வெள்ளத்தால் மிக மோசமாகப் பாதிக்கப்பட்ட பகுதிகளான அகம் மாவட்டத்தில் 3 பேரும், தனாஹ் தாதர் நகரில்  14 பேருமாக 17 பேர் காணாமல் போயுள்ளார்கள். அவர்களை மீட்புப் படையினர் தேடி வருகின்றனர்.
+
+கடும் மழை காரணாக கூடாரங்களில் தங்குவதைவிட பாதுகாப்பான உறவினர்களின் இருப்பிடங்களுக்கு மக்களை வெளியேறுமாறு அறிவுறுத்தல் வழங்கப்பட்டுள்ளது. இதன்காரணமாக வெளியேற்றப்பட்ட உள்ளூர்வாசிகளின் எண்ணிக்கையை உறுதிப்படுத்த முடியவில்லை என சுமாத்ரா அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/817c0177.json)
+
+---
+
+### Paper setters to take final decision on controversy over OL science paper: Susil
+
+*2024-05-13 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paper-setters-to-take-final-decision-on-controversy-over-OL-science-paper-Susil/108-282487) · `en`
+
+Parliament, May 13 (Daily Mirror)- Clarifying the controversy over the GCE Ordinary Level (O/L) Science and English papers, Education Minister Susil Premajayantha said today that steps will be taken to ensure that no injustice is caused to any students.
+
+Responding to a question by SJB MP Rohini Kumari Kaviratne, he said issues have been reported on several questions and Multiple Choice Questions (MCQ) of the science paper and paper setters will meet to take a final decision on the matter.
+
+MP Kaviratne said that the structure of the English question paper has been changed this year and that it is unreasonable for most students in rural areas where there are no trained English teachers.
+
+The Minister said the Commissioner of Examinations has assured to pay special attention to these matters when preparing the marking scheme after the routine sample making so as no injustice will be caused to the students.
+
+◼️
+
+[Data](articles/004ad302.json)
+
+---
 
 ### Restructuring of CEB will continue despite MR’s statement on privatisation: Minister
 
@@ -88,6 +166,40 @@ Accordingly, the court has issued this order to persons including the following 
 
 ---
 
+### இலங்கை வந்தார் அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ !
+
+*2024-05-13 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183389) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ இம்மாதம் 10 - 15 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டுள்ள நிலையில், இன்றையதினம் காலை இலங்கைக்கு வருகைதந்துள்ளார்.
+
+இவ்விஜயமானது இந்நாடுகளுடனான அமெரிக்காவின் தொடர்புகளை மேலும் வலுப்படுத்துவதையும், சுதந்திரமானதும், சுபீட்சமானதுமான இந்திய - பசுபிக் பிராந்தியத்தைக் கட்டியெழுப்புவதற்கு அமெரிக்கா வழங்கிவரும் ஆதரவை வெளிப்படுத்துவதையுமே பிரதான நோக்கமாகக் கொண்டிருக்கின்றது.
+
+அதன்படி வெள்ளிக்கிழமை (10)  இந்தியாவை சென்றடைந்திருந்த இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ, தென்னிந்தியாவுடனான தொடர்புகளை மேலும் வலுப்படுத்தும் நோக்கில் சென்னையில் கொன்சியூலர் அதிகாரியுடன் சந்திப்பை முன்னெடுத்திருந்தார்.
+
+...
+
+[Data](articles/2cc3f693.json)
+
+---
+
+### Crossroad
+
+*2024-05-13 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183334) · `ta`
+
+The Tamil general candidate's trust issue is gaining public interest, seen as a positive sign.
+
+🟩
+
+“The issue of Tamil general candidate is now a trusted - the people are starting to become a matter of interest among the people. This is a good omen ”
+
+◼️
+
+[Data](articles/84c566a5.json)
+
+[Extended Data](ext_articles/84c566a5.ext.json)
+
+---
+
 ### Dismissal
 
 *2024-05-13 11:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பார்த்தவர்-பதவி-நீக்கம்/50-337229) · `ta`
@@ -111,6 +223,26 @@ The officer has been immediately investigated and fired after the video spread o
 [Data](articles/74b87ad0.json)
 
 [Extended Data](ext_articles/74b87ad0.ext.json)
+
+---
+
+### The Tamil general candidate will make the Tamil people a confused political community
+
+*2024-05-13 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183326) · `ta`
+
+Ranil claims economic recovery, but polls show him third, with Sajith Premadasa and Anuragumara Dissanayake leading. Tamil candidate may confuse the community.
+
+🟩
+
+Ranil is trying to issue a certificate that the economy is recovering from the international side and the Governor of the Central Bank also issues a certificate.
+
+However, the Sri Lankan field situation does not seem to have returned to Ranil. The polls show that Ranil is in the 3rd position. In the first place, Sajith Premadasa and Anuragumara Dissanayake are changing.
+
+◼️
+
+[Data](articles/5cfe81a3.json)
+
+[Extended Data](ext_articles/5cfe81a3.ext.json)
 
 ---
 
@@ -204,6 +336,40 @@ The suspects have been handed over to the Kalpitiya Police for further legal act
 
 ---
 
+### யாழ். சாட்டியில் வெடிபொருட்களுடன் ஒருவர் கைது !
+
+*2024-05-13 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183385) · `ta`
+
+யாழ்ப்பாணம் சாட்டி கடற்கரை பகுதியில் இருந்து சுமார் 03 கிலோ வெடிமருந்துகள் உள்ளிட்ட வெடிபொருட்கள் மீட்கப்பட்டுள்ளதுடன், அவற்றை உடைமையில் வைத்திருந்த குற்றச்சாட்டில் நபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
+
+ஊர்காவற்துறை பொலிஸ் பிரிவிற்குட்பட்ட சாட்டி கடற்கரை பகுதியில் வெடிபொருட்கள் காணப்படுவதாக, நேற்றைய தினம் ஞாயிற்றுக்கிழமை (12) பொலிஸ் விசேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த விசேட அதிரடி படையினர் 3 கிலோ 145 கிராம் வெடி மருந்துக்கள், ஆர்.பி.ஜி எறிகணைகள் 08 மற்றும் 60 எம்.எம். மோட்டார் எறிகணைகள் 12 என்பவை மீட்கப்பட்டுள்ளன.
+
+மீட்கப்பட்ட வெடி பொருட்களும் கைது செய்யப்பட்ட நபரும் மேலதிக சட்ட நடவடிக்கைக்காக ஊர்காவற்துறை பொலிசாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/26c58590.json)
+
+---
+
+### நோய் பரவலை காரணம் காட்டி முள்ளிவாய்க்கால் கஞ்சிக்கு தடை -  வெசாக் தன்சல்களை  தடை செய்வார்களா ? அம்பிகா சற்குணநாதன்
+
+*2024-05-13 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183387) · `ta`
+
+நோய் பரவும் ஆபத்து என தெரிவித்து முள்ளிவாய்க்கால் கஞ்சி விநியோகத்தினை தடுத்த இலங்கை பொலிஸார் இதே காரணத்திற்காக வெசாக் தன்சல்களை தடை செய்யுமாறு நீதிமன்றத்திடம் வேண்டுகோள் விடுப்பார்களா என  இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் கேள்வி எழுப்பியுள்ளார்.
+
+கஞ்சியை பரிமாறிக்கொண்டமைக்காக தமிழர்கள் கைதுசெய்யப்படுகின்றனர் ( இறுதி யுத்தத்தின் போது அவர்களுக்கு கிடைத்த ஒரே உணவு) யுத்தத்தின் இறுதி தருணங்களில் கொல்லப்பட்ட மக்களை நினைவுகூரவிடாமல் தடுக்கப்படுகின்றனர் என அவர் தெரிவித்துள்ளார்.
+
+வரலாற்றை அழிப்பதும் பொதுமக்களின் உயிரிழப்பிற்கு அரசாங்கம் காரணமில்லை என மறுப்பதுமே நினைவேந்தல்களை தடுப்பதின் நோக்கம் எனவும் அவர்தெரிவித்துள்ளார்.
+
+மக்கள் ஒன்றுகூடுவதன் மூலம் உணவை பரிமாறிக்கொள்வதன் மூலம்நோய் பரவும் என்பதாலேயே இந்த உத்தரவை பிறப்பித்துள்ளதாக நீதிமன்ற  உத்தரவில் தெரிவிக்கப்பட்டுள்ளதாக சுட்டிக்காட்டியுள்ள மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் ஏன் மே தினக்கூட்டங்களை தடை செய்யுமாறு பொலிஸார் நீதிமன்றங்களை கேட்டுக்கொள்ளவில்லை என கேள்வி எழுப்பியுள்ளார்.
+
+...
+
+[Data](articles/074b697f.json)
+
+---
+
 ### Health trade unions launch strike at Central Province hospitals
 
 *2024-05-13 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99179/health-trade-unions-launch-strike-at-central-province-hospitals) · `en`
@@ -276,6 +442,28 @@ Depending on the suspects, the quarters detected, the stolen accused and stolen 
 
 ---
 
+### E.Po. C. Permanent appointment to 1,000 drivers and conductors!
+
+*2024-05-13 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183382) · `ta`
+
+1,000 Sri Lanka Transport Board drivers and conductors, who met the qualifications, have been given permanent appointments, marking their transition from contract to permanent roles since 2018.
+
+🟩
+
+1,000 drivers and operators working in the Sri Lanka Transport Board have been issued permanent appointment letters.
+
+The Ministry of Transport, Highways and Mass Media has said that a group of drivers and conductors who received the qualifications needed to represent all depots across the country have been appointed.
+
+Such permanent appointments have been given to employees who have worked on contract basis since 2018.
+
+◼️
+
+[Data](articles/47bcfb15.json)
+
+[Extended Data](ext_articles/47bcfb15.ext.json)
+
+---
+
 ### Final decision on science and English science and English
 
 *2024-05-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196569) · `si`
@@ -337,28 +525,6 @@ Issuing a statement, the US State Department stated last week that in his meetin
 [Data](articles/8e366b25.json)
 
 [Extended Data](ext_articles/8e366b25.ext.json)
-
----
-
-### E.Po. C. Permanent appointment to 1,000 drivers and conductors!
-
-*2024-05-13 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183382) · `ta`
-
-1,000 Sri Lanka Transport Board drivers and conductors, who met the qualifications, have been given permanent appointments, marking their transition from contract to permanent roles since 2018.
-
-🟩
-
-1,000 drivers and operators working in the Sri Lanka Transport Board have been issued permanent appointment letters.
-
-The Ministry of Transport, Highways and Mass Media has said that a group of drivers and conductors who received the qualifications needed to represent all depots across the country have been appointed.
-
-Such permanent appointments have been given to employees who have worked on contract basis since 2018.
-
-◼️
-
-[Data](articles/47bcfb15.json)
-
-[Extended Data](ext_articles/47bcfb15.ext.json)
 
 ---
 
@@ -1364,27 +1530,37 @@ The annual tax revenue has been deprived of about Rs. 35 billion annually.
 
 ---
 
-### ඇස්ට්‍රාසෙනෙකා අතුරු ආබාධ: ශ්‍රී ලංකාවේ එන්නත ගත් අයට සිදුවන්නේ කුමක් ද?
+### Aetrazenaka Side Effects: What happens to the injection of Sri Lanka?
 
 *2024-05-13 06:32:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyvyw5lv7o) · `si`
 
-ඇස්ට්‍රාසෙනෙකා අතුරු ආබාධ: ශ්‍රී ලංකාවේ එන්නත ගත් අයට සිදුවන්නේ කුමක් ද?
+The AstraZeneca vaccine, used in Sri Lanka, faced concerns over rare side effects, including blood clots. Despite these fears, the vaccine was deemed safe by the World Health Organization and the National Drug Regulatory Authority of Sri Lanka. The vaccine was donated by India and distributed to health workers and the elderly. Some reported side effects like heart attacks and blood transfusions, but these were rare and manageable. The vaccine's use was recommended to control the COVID-19 pandemic, and the government assured the public of its safety.
 
-කොරෝනාවෛරස් වසංගතය සම්බන්ධයෙන් ලෝකයේ පැවති බිය පහවී ගියේ, කොවිඩ් එන්නත් හරහා වසංගතය යම් ආකාරයක පාලනයකට නතු වූ හෙයිනි.
+🟩
 
-එහෙත්, වසර කිහිපයකට පසු කොවිඩ් එන්නත්වලින් ඇති වන අතුරු ආබාධ සම්බන්ධයෙන් මේ වන විට බියක් මතු වී තිබේ.
+Aetrazenaka Side Effects: What happens to the injection of Sri Lanka?
 
-මෙම බිය නිර්මාණය වූයේ, සිය කොවිඩ් එන්නත මගින් "රුධිරය කැටී ගැසීමට බලපෑ හැකි ඉතා දුර්ලභ අතුරු ආබාධ (TTS) ඇති විය හැකි" බවට ඇස්ට්‍රාසෙනෙකා එන්නත නිෂ්පාදනය කළ සමාගම, බ්‍රිතාන්‍ය මහාධිකරණය ඉදිරියේ පිළිගැනීමත් සමග ය.
+The fear of the world of Coronai is about controls through the Cocony Vaccine.
 
-ඉන්පසුව, බිලියන තුනකට අධික මාත්‍රා ගණනක් ලබා දීමෙන් පසුව "වාණිජමය හේතු මත යාවත්කාලීන කරන ලද නව එන්නතක් හදුන්වා දීමේ අරමුණින් ඇස්ට්‍රාසෙනෙකා එන්නත භාවිතයෙන් ඉවත් කිරීමට තීරණය කර ඇතැයි එම සමාගම නිවේදනය කළේ ය.
+Yet, a few years later, there is a fear of the part of covard vaccines.
 
-එම සමාගම විසින් මෙම තීරණය ගනු ලැබුවේ, රුධිරය කැටි ගැසීම් ඇතුළු අතුරු ආබාධ ඇති වූ බවට සමාගමට එරෙහිව නඩු කිහිපයක් පැවරීමෙන් අනතුරුව ය.
+This fear was created by the company that was manufactured before the British High Court that the most rare side effects that could cause blood "in vaccine".
 
-කොවිඩ් එන්නත් අතුරු ආබාධ වන්දි සටනේ වින්දිතයින් තවත් පියවරක් ඉදිරියටකොවිඩ් එන්නත භාවිතයෙන් ඉවත් කිරීමට ඇස්ට්‍රාසෙනෙකා සමාගම සැරසේ
+After three billion doses of over three billion doses, "The company reported to remove a newly updated vaccine on commercial reasons.
+
+The company made this decision after the company was assigned a few cases against the company that blood clotings were caused by blood clotting.
+
+Asharazneaka is ready to remove the victims using another step in the compensation of the victims
+
+University of Oxford, University of Britain, was collaborated by the Oxford-Astrogene Vaccine.
+
+The vaccine was produced by the Saram Institute, an Indian-scale manufacturing company in India.
 
 ...
 
 [Data](articles/db85d154.json)
+
+[Extended Data](ext_articles/db85d154.ext.json)
 
 ---
 
@@ -2055,229 +2231,5 @@ Accordingly, steps are being taken to fill the vacancies in 425 schools for the 
 [Data](articles/56bdccb1.json)
 
 [Extended Data](ext_articles/56bdccb1.ext.json)
-
----
-
-### Targeted stimulus an option to push economic growth: SLBA Chief
-
-*2024-05-13 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Targeted-stimulus-an-option-to-push-economic-growth-SLBA-Chief/108-282443) · `en`
-
-Stresses SL must achieve an economic growth of 4-5% beyond IMF’s 3% forecast
-
-Says  targeted incentives for growth sectors critical - a negotiation SL has to undertake
-
-Points out SL can’t expect revenues to go up by simply increasing VAT to 18 percent on every possible product
-
-Sri Lanka may need to consider a targeted stimulus package to boost growth in productivity sectors upon completion of the on-going debt restructuring exercise, Sri Lanka Banks’ Association Chief said.
-
-SLBA Chairman and Standard Chartered Sri Lanka Chief Executive Officer Bingumal Thewarathanthri asserted that it remains critical for Sri Lanka to at least achieve an economic growth of 4-5 percent beyond IMF’s forecasted 3 percent over the next few years.
-
-...
-
-[Data](articles/54cae6cc.json)
-
-[Extended Data](ext_articles/54cae6cc.ext.json)
-
----
-
-### 2024-05-12 (Sunday)
-
-### The success of the Royal Challengers that fight for the Play Whoeing Opportunity;Telhi beat Capitles by 47 runs
-
-*2024-05-12 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183364) · `ta`
-
-Royal Challengers Bangalore secured a crucial 47-run victory over Delhi Capitals in the 17th IPL, advancing to 5th place. Batting first, they scored 187/9 in 20 overs, with Wil Jex and Rajad Patidar's 88-run partnership key. In response, Delhi lost all wickets in 19.1 overs for 140 runs, with Yash Dayal and Loki Bergasan taking key wickets.
-
-🟩
-
-Bangalore M. Royal Challengers Bangalore won by 47 runs in the 62nd match of the 17th Indian Premier League Chapter in the Chinnaswamy Stadium on Sunday night.
-
-This was a very essential victory for the Royal Challengers Bangalore team, who struggled to qualify for the Play White Round.
-
-With this victory, Royal Selectors Bangalore advanced to 5th place in teams.
-
-Royal Challengers Bangalore, who was first invited to bat first, scored 187 runs for the loss of 9 wickets in 20 overs.
-
-Royal Challengers Bangalore scored 36 runs in the 4th over to lose the game with the lowest runs.
-
-However, Wil Jex and Rajad Patidar shared 88 runs in the 3rd wicket and gave the team a dignity.
-
-Rajad Patidar scored 52 off 32 balls while Jax scored 41 off 29 balls and lost by 13 runs.
-
-Subsequently, Cemeran Kreen scored 32 runs off 24 balls.
-
-Rashik Salam took 2 wickets for 23 runs while Khalil Ahmad took 2 wickets for 31 runs.
-
-In reply, Telhi Capitols lost all the wickets in 19.1 overs and lost 140 runs.
-
-...
-
-[Data](articles/2e600f45.json)
-
-[Extended Data](ext_articles/2e600f45.ext.json)
-
----
-
-### Mullivaikkal porridge was awarded in Vavuniya!
-
-*2024-05-12 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183362) · `ta`
-
-Mullivaikkal porridge, a symbol of survival during the 2009 war, was presented in Vavuniya on its 15th anniversary, aiming to pass down history to future generations.
-
-🟩
-
-Mullivaikkal porridge was presented in Vavuniya on the 15th anniversary of Mullivaikal.
-
-The Kanji Municipal Council was presented on Sunday (12) in front of the Kanji Municipal Council of the Vavuniya District.
-
-During the final war of 2009, people survived the food of Mullivaikkal Kanji. This was given to the next generation with the aim of transporting history to the next generation.
-
-◼️
-
-[Data](articles/82bc5b90.json)
-
-[Extended Data](ext_articles/82bc5b90.ext.json)
-
----
-
-### Iran has threatened Israel
-
-*2024-05-12 23:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலுக்கு-அணுகுண்டு-மிரட்டல்-விடுத்தது-ஈரான்/50-337208) · `ta`
-
-Iran threatens Israel after an Israeli missile attack on its embassy in Syria in April, warning of a fierce response to any further assaults.
-
-🟩
-
-International media reports that Iran has threatened Israel.
-
-An Israeli missile attack on the Iranian embassy in Syria was killed in April.
-
-Following this, Iran has warned that Israel will be very fierce if Israel is re -assaulting, with Iran's attack on Israel.
-
-◼️
-
-[Data](articles/f316ae13.json)
-
-[Extended Data](ext_articles/f316ae13.ext.json)
-
----
-
-### For those who died in Mullivaikkal
-
-*2024-05-12 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183363) · `ta`
-
-Mullivaikkal commemoration held on Sunday by Diwakam Memorial Committee. A public flame lit for war victims.
-
-🟩
-
-Mullivaikkal's commemorative ceremony was held on Sunday (12), the Diwakam Memorial Committee organized by the Committee of the Committee.
-
-During the final war, a public flame was lit for the victims of the war.
-
-◼️
-
-[Data](articles/6f92f921.json)
-
-[Extended Data](ext_articles/6f92f921.ext.json)
-
----
-
-### Aragalaya effect vs. IMF effect
-
-*2024-05-12 23:00:06* · [`dailyftlk`](https://www.ft.lk/columns/Aragalaya-effect-vs-IMF-effect/4-761683) · `en`
-
-But the protestors did not have any clue about the alternative system that they were longing for – Pic by Shehan Gunasekara
-
-Apart from the forced resignation of two Rajapaksas, one a President and the other Prime Minister, a potentially epoch-breaking effect of the 2022 Aragalaya was the uncompromising message it sent to Sri Lankan voters that the multiple crises engulfing the nation and bankrupted the national treasury could not be solved by patchwork measures, but only through a radical overthrow of the socio-political paradigm within which Governments were chosen and the economy managed.
-
-...
-
-[Data](articles/0bc133ea.json)
-
-[Extended Data](ext_articles/0bc133ea.ext.json)
-
----
-
-### 176,000 kg of inappropriate rice raided
-
-*2024-05-12 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196554) · `si`
-
-Consumer Affairs Authority officials raided a private rice mill in Kipedia, seizing 176,000 kg of rice intended for low-income families. The rice, packed on the 30th, was unfit for human consumption and had its expiration date extended by 30 days. The mill's owner was arrested, and the seized rice is under investigation.
-
-🟩
-
-The Consumer Affairs Authority officials were raided while he was carrying out more than half a half kilograms of rice to human consumption.
-
-It has been revealed that the stock of rice has been planned to distribute to low income families by the government.
-
-The raid was carried out today (12), according to information received by the Consumer Affairs Authority's Anuradhapura Unit today.
-
-The raid was carried out by eight hundred thousand lrribs by eight hundred kilograms of rice to a private rice mill in the area of Kipedia by eight lorries.
-
-The date of the packing packages was completed on the 30th and the rice mercantrical was unwilling to consume human consumption and rebuild the expiration date for the next 30 days.
-
-Initial investigations have revealed that the stock of rice was planned for low income families free of charge for low income families free of charge.
-
-The stock of rice taken into custody authority has been seal and the Harmony Police have arrested the rice mill.
-
-◼️
-
-[Data](articles/a5dbce2e.json)
-
-[Extended Data](ext_articles/a5dbce2e.ext.json)
-
----
-
-### Uber Springboard: Sri Lankan start-ups set to soar with mentorship program
-
-*2024-05-12 22:42:09* · [`dailyftlk`](https://www.ft.lk/business/Uber-Springboard-Sri-Lankan-start-ups-set-to-soar-with-mentorship-program/34-761680) · `en`
-
-From left: US Embassy Economic Officer Andrew Shinn, Uber Delivery General Manager Varun Wijewardane, Kreader Founder Heshan J. Peiris, Ministry of Technology Secretary Dr. Dharmasri Kumaratunge, ManKiwwa Founder Shohan Kalusuriya, ICTA Head of Startup Engagement Abith Latiff on behalf of Megic Inc. Founder Yashen Ariyathilaka, Uber South Asia Director of Public Policy and Government Affairs Sanjay Chadha, and Uber Mobility – Sri Lanka Country Manager Kaushalya Gunaratne – Pix by Lasantha Kumara
-
-Uber, the global ride hailing and food and grocery delivery platform, recently hosted “Uber Springboard” – an initiative to encourage Sri Lankan start-ups to strengthen the country’s entrepreneurial ecosystem.
-
-With support from the Ministry of Technology, Government of Sri Lanka, Uber has selected three start-ups from a tech start-up competition that are set to travel to Uber’s centre of excellence in India for a mentorship program.
-
-...
-
-[Data](articles/4d1b3e50.json)
-
-[Extended Data](ext_articles/4d1b3e50.ext.json)
-
----
-
-### People’s Bank re-launches SPARK entrepreneurial development program to boost SMEs
-
-*2024-05-12 22:34:17* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-re-launches-SPARK-entrepreneurial-development-program-to-boost-SMEs/34-761679) · `en`
-
-People’s Bank has announced the re-launch of its SPARK entrepreneurial development program, aimed at bolstering young entrepreneurs and supporting the growth of small and medium enterprises (SMEs) throughout Sri Lanka.
-
-Initially launched in 2022, SPARK has been redesigned with updated eligibility criteria to make entrepreneurial success more accessible than ever before.
-
-The revamped SPARK program now welcomes applications from budding entrepreneurs aged 20-45, regardless of their educational background. This inclusive approach is designed to foster a wider range of business ideas and innovations, aligning with the Government’s policy to strengthen the SME-driven economy.
-
-...
-
-[Data](articles/7900ae8f.json)
-
-[Extended Data](ext_articles/7900ae8f.ext.json)
-
----
-
-### WORX Coworking unveils 4th property in Colombo
-
-*2024-05-12 22:33:28* · [`dailyftlk`](https://www.ft.lk/business/WORX-Coworking-unveils-4th-property-in-Colombo/34-761678) · `en`
-
-In response to the growing demand for flexible workspaces, WORX Coworking has announced the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05.
-
-As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
-
-Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
-
-...
-
-[Data](articles/8a14f00c.json)
-
-[Extended Data](ext_articles/8a14f00c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 01:03:30**
+As of **2024-05-14 01:18:23**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,806 (100.0%) of 23,810 articles have been extended.
+23,810 (100.0%) of 23,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### உயிருடன் இருப்போரை அழைத்துவர ஏற்பாடு
+### Arrangement
 
 *2024-05-14 00:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிருடன்-இருப்போரை-அழைத்துவர-ஏற்பாடு/175-337265) · `ta`
 
-ரஷ்யாவுக்கு இலங்கையர்களை அனுப்பும் மனித கடத்தல் மோசடியில் ஓய்வு பெற்ற இராணுவ அதிகாரிகள் ஈடுபட்டுள்ளமை விசாரணைகள் மூலம் தெரியவந்துள்ளது,இவர்களினால் அங்கு அனுப்பப்பட்டு ரஷ்ய யுத்தக் களத்தில் உயிரிழந்த இலங்கையர்களின் உடல்கள் அடையாளப்படுத்தப்பட்டுள்ள நிலையில் இன்னும் உயிருடன் இருப்பவர்களை   நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில்  நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பாதுகாப்பு  இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+Retired military officers are implicated in a human trafficking scandal, sending Sri Lankans to Russia. Bodies identified, survivors brought back. Opposition Leader Sajith Premadasa highlights fake Facebook ads luring people with land and visas, leading to crisis. Investigations ongoing, legal action promised.
 
-ரஷ்ய யுத்தகளத்தில்  போராடும்  இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பாராளுமன்றத்தில் திங்கட்கிழமை (13) முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும்போதே இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
+🟩
 
-...
+Investigations have revealed that retired military officers are involved in human trafficking scandal sent to Russia, and the bodies of the Sri Lankans who have been sent there have been identified as the bodies of the Sri Lankans who have been sent there and have taken steps to bring the survivors to the country at a diplomatic level.
+
+In response to questions posed by Opposition Leader Sajith Premadasa in Parliament on Monday (13), he said,
+
+No matter how many advice and warnings, a part of the country who cheats on Facebook fake advertisements. Promotions have been uploaded on Facebook that the land is being issued in the city of St. Peter, Russia, and the family is being given a visa and Rs 10 lakh. Sri Lankans have gone to Russia and are in crisis.
+
+Initial investigations have revealed that retired military officers are involved in human trafficking fraud sent to Russia. Strict legal action will be taken against them. The bodies of the victims of the Russian war have been identified.
+
+◼️
 
 [Data](articles/a0ce008c.json)
+
+[Extended Data](ext_articles/a0ce008c.ext.json)
 
 ---
 
@@ -412,6 +422,8 @@ The proposed scheme appears to introduce legal legitimacy for the current oppres
 
 [Data](articles/ab82e475.json)
 
+[Extended Data](ext_articles/ab82e475.ext.json)
+
 ---
 
 ### Electricity sector: What Rohan Samarajiva didn’t say
@@ -425,6 +437,8 @@ In his article, “Electricity sector: Without investment we will be in the dark
 ...
 
 [Data](articles/6024a4ab.json)
+
+[Extended Data](ext_articles/6024a4ab.ext.json)
 
 ---
 
@@ -457,6 +471,8 @@ You are urged to kindly consider enacting an ‘Economic Crime and Corporate Tra
 ...
 
 [Data](articles/31776f49.json)
+
+[Extended Data](ext_articles/31776f49.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 22:33:52**
+As of **2024-05-13 22:51:04**
 
 ## Newspaper Stats
 
-*Scraped **23,780** Articles*
+*Scraped **23,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,029
 adaderanalk | 2,774
 tamilmirrorlk | 2,784
 virakesarilk | 3,548
-dailymirrorlk | 3,742
+dailymirrorlk | 3,743
 adaderanasinhalalk | 3,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,780 (100.0%) of 23,780 articles have been extended.
+23,780 (100.0%) of 23,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Grace marks for questions outside of GCE (O/L) science syllabus
+
+*2024-05-13 22:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grace-marks-for-questions-outside-of-GCE-OL-science-syllabus/108-282527) · `en`
+
+Colombo, May 13 (Daily Mirror) - In response to concerns over irregularities during the 2023 (2024) G.C.E. Ordinary Level (O/L) examinations, grace marks are set to be awarded for answers of several questions found to be outside the Science syllabus.
+
+Commissioner General of Examinations, Amith Jayasundara said that only the problematic questions in the Science paper will receive these grace marks.
+
+◼️
+
+[Data](articles/d5b766e5.json)
+
+---
 
 ### Companies need to act in accordance with the state gazette notification!- Minister Jeevan Thondaman
 
@@ -2287,31 +2301,5 @@ But many parties point out as a result of the crises of the Government of Putin.
 [Data](articles/53f7b133.json)
 
 [Extended Data](ext_articles/53f7b133.ext.json)
-
----
-
-### Would you stop the events of the Vesak festival, just as the porridge was disrupted due to the infection?- The Question of the Blessed
-
-*2024-05-13 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183395) · `ta`
-
-The Vesak festival events are at risk due to police blocking porridge distribution to prevent infection spread. Aruttanda Ma Sathivel, a social justice activist, questions if the National Organization for the release of political prisoners should halt these events. The Sampur police have issued an injunction against sharing Mullivaikkal with salt porridge, fearing infection risks. This situation is likened to the challenges faced during the Corona period. The Tamil homeland commemorates the historical bargain and seeks justice for the unjustly killed and missing, using salt as a symbol of their voice for justice. The arrest of Tamil National People's Front (TNA) Assistant Secretary Harihara Kumar and female social activists, including a schoolgirl, is condemned. The Mullaitivu Police Station is urged to support the Mullivaikkal commemoration events, aiming to raise awareness among the international community.
-
-🟩
-
-Police have blocked the supply of porridge due to the risk of infection. Do you stop the events of the Vesak festival?Aruttanda Ma Sathivel, an activist for social justice and a coordinator of the National Organization for the release of political prisoners.
-
-Sampur police have issued an injunction to prevent the sharing of Mullivaikkal with salt porridge partition.. People are also at risk of spreading the infection by additional.
-
-This is the term used by the Corona period. The same is true of the weapon that prevents the memorial and the prevention of the thorny mouth.
-
-Will the National Organization for the release of political prisoners for the release of this anarchy of the Sampur police stop and stop the events of the Vesak festival due to the risk of the same infection during the upcoming Vesak festival?Asks.
-
-While the chauvinist Sri Lankan government is carrying out the genocide in 2009, men and women, from adults to children, are fighting for life with blood and injuries.
-
-...
-
-[Data](articles/11ed1629.json)
-
-[Extended Data](ext_articles/11ed1629.ext.json)
 
 ---

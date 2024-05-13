@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 19:33:48**
+As of **2024-05-13 19:51:39**
 
 ## Newspaper Stats
 
-*Scraped **23,746** Articles*
+*Scraped **23,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 244
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,286
-economynextcom | 1,357
+economynextcom | 1,362
 dailyftlk | 1,374
-adalk | 2,025
+adalk | 2,026
 adaderanalk | 2,773
-tamilmirrorlk | 2,782
+tamilmirrorlk | 2,783
 virakesarilk | 3,539
 dailymirrorlk | 3,735
 adaderanasinhalalk | 3,809
@@ -26,29 +26,77 @@ adaderanasinhalalk | 3,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,745 (100.0%) of 23,746 articles have been extended.
+23,746 (100.0%) of 23,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### සුසිත්ගේ ඝාතනයට ඇල්ලූ පෙම්වතිය ඇතුළු 9කට අධිකරණය දුන් නියෝගය
+### Sri Lanka IORA Business Conclave to explore untapped markets
+
+*2024-05-13 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-iora-business-conclave-to-explore-untapped-markets-162786/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce will host a Business Conclave to foster strategic alliances, explore untapped markets, and capitalise on emerging trends across sectors critical to economic development.
+
+The Indian Ocean Rim Association (IORA) Business Conclave on May 28 and 29 will focus on “sectors significant to the economic development and prosperity of the Indian Ocean Rim region, including agriculture, ICT, logistics, and tourism,” the Chamber said in a statement.
+
+“Participating countries expressing keen interest in these sectors include Australia, Bangladesh, France, India, Iran, Madagascar, Malaysia, Maldives, Mauritius, and Türkiye among others, ensuring significant business networking and facilitation opportunities.”
+
+The Conclave will feature a networking reception, plenary sessions, and several sector-focused breakout sessions followed by B-2-B meetings.
+
+The event is organized in collaboration with the Ministry of Foreign Affairs. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/94182c22.json)
+
+---
+
+### இன்று பூமிக்கு அருகில் வரும் விண்கற்கள்
+
+*2024-05-13 19:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பூமிக்கு-அருகில்-வரும்-விண்கற்கள்/175-337250) · `ta`
+
+இரண்டு பெரிய சிறுகோள்கள் இன்று பூமியை நோக்கி வேகமாக வருவதாக நாசா தெரிவித்துள்ளது.
+
+2024 JB2 மற்றும் 2020 JP10 என நியமிக்கப்பட்ட இந்த சிறுகோள்கள் முறையே 60-130 மீட்டர் மற்றும் 52-120 மீட்டர் அகலம் கொண்டவை.
+
+2024 JB2 பூமியிலிருந்து 44.3 லட்சம் கிமீ தொலைவில் இருக்கும் மற்றும் மணிக்கு 63,000 கிமீ வேகத்தில் பயணிக்கிறது.
+
+மற்றொரு விண்வெளிப் பாறை, பூமியில் இருந்து தோராயமாக 72 லட்சம் கிமீ தொலைவில் இருக்கும், அதே நேரத்தில் இன்னும் அதிக வேகத்தில் மணிக்கு 90,000 கி.மீ வேகத்தில் பயணிக்கும்.   R
+
+◼️
+
+[Data](articles/37415ab7.json)
+
+---
+
+### Court orders Court for nine including girlfriend, who was arrested for murder of Susath's murder
 
 *2024-05-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196586) · `si`
 
-කුලියාපිටිය ප්‍රදේශයේ තරුණයෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළව සැකපිට අත්අඩංගුවට ගත් ඔහුගේ පෙම්වතිය ඇතුළු සැකකරුවන් 9 දෙනා එළැඹෙන 27 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+Nine suspects, including a girlfriend, were remanded for the murder of Susitha Jayawansa, a 31-year-old from Kuliyapitiya who disappeared on April 22. The 18-year-old girl and her family were arrested after she claimed Susitha had threatened her. The suspects were produced before the Kuliyapitiya Magistrate's Court and underwent a medical examination.
 
-එම සැකකරුවන් කුලියාපිටිය මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-කුලියාපිටිය, කබලෑව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි සුසිත ජයවංශ යන අය පසුගිය අප්‍රේල් 22 වනදා සිට අතුරුදන්ව සිටි අතර දැඩි ලෙස පිළිස්සී තිබූ ඔහුගේ මළ සිරුර මාදම්පේ ප්‍රදේශයේ කැලෑබද ස්ථානයකින් පසුගිය 7වැනිදා සොයාගෙන තිබුණි.
+The nine suspects including his girlfriend, including his girlfriend and the suspects were remanded until the 27th of the suspect.
 
-සිද්ධියෙන් පසුව අදාළ තරුණයාගේ පෙම්වතිය බව කියන 18 හැවිරිදි තරුණිය සහ ඇයගේ පවුලේ සාමාජිකයින් මෙන්ම ඥාතීන් කිහිපදෙනෙකුද අතුරුදන්ව සිටි අතර පසුව ඇයගේ පියා සහ මව ඇතුළු සැකකරුවන් අටදෙනෙකු මීට පෙර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+The suspects were produced before the Kuliyapitiya Magistrate's Court.
 
-18 හැවිරිදි තරුණිය ඊයේ කුලියාපිටිය පොලිස් ස්ථානයට කැඳවා ප්‍රකාශයක් ලබාගැනිමෙන් පසු අත්අඩංගුවට ගෙන තිබූ බව සඳහන්ය.
+The 31-year-old Susitha Jayawansa, a resident of Kuliyapitiya, was disappeared from 22 April.
 
-...
+After the incident, the 18-year-old girl and her family members and relatives had been arrested by the police before her father and mother.
+
+The 18-year-old girl had been summoned to the Kuliyapitiya Police Station yesterday.
+
+The girl had stated that Susith had polluted himself in several occasions and that he had not informed the residents or any other party due to the threats he made.
+
+However, the suspect arrested on charges of murder of human murder and arrested the crime was presented to the Judicial Medical Officer of the Kuliyapitiya Teaching Hospital for a medical examination today.
+
+◼️
 
 [Data](articles/cc4933b8.json)
+
+[Extended Data](ext_articles/cc4933b8.ext.json)
 
 ---
 
@@ -65,6 +113,26 @@ Meanwhile, the Police Spokesman also stated that they were fined Rs. 427,500.
 [Data](articles/dd4f8572.json)
 
 [Extended Data](ext_articles/dd4f8572.ext.json)
+
+---
+
+### දිසා විනිසුරු නිල නිවසේ රාජකාරීය අතරතුරදී  සූර් පිට සිටි පී සී අත්අඩංගුවට
+
+*2024-05-13 18:38:31* · [`adalk`](https://www.ada.lk/breaking_news/දිසා-විනිසුරු-නිල-නිවසේ-රාජකාරීය-අතරතුරදී--සූර්-පිට-සිටි-පී-සී-අත්අඩංගුවට/11-409607) · `si`
+
+අවිස්සාවේල්ල දිසා විනිසුරු නිල රාජකාරී යොදවා සිටි පොලිස් කොස්තාපල්වරයෙකු   මත්පැන් පානය කර මාර්ගයේ රැඳී  සිටියදී අත්අඩංගුවට ගත් බව අවිස්සාවේල්ල පොලිසිය කියයි.
+
+සැකකාර කොස්තාපල්වරයා  ඉකුත් 12 වෙනිදින  පැය 0600 සිට පැය 1800 දක්වා දිසාව විනිසුරු නිළ   නිවසේ රාජකාරී යොදවා සිටියදී  ට එම ස්ථානයෙන් බැහැරව  ශාන්ත මරියා විද්‍යාලය අසල මාර්ගයේ රැඳී ඉතා අපහසුවෙන් සිටින අයුරු   ජංගම සංචාරයේ නිලධාරින් විසින් දැක තිබූ බව පොලිසිය කියයි.
+
+එම නිලධාරීන් විසින් කොස්තාපල්වරයා අසලට පැමිණ පරික්ෂා කිරීමේදී කටින් මත්පැන් ගඳ වාහනය වීම හේතුවෙන්  අධිකරණ වෛද්‍ය පෝරමයක් යටතේ අවිස්සාවේල්ල මූලික රෝහලේ  අධිකරණ වෛද්‍යවරයා වෙත ද ඉදිරිපත් කිරීමෙන් අනතුරුව  බීමත්ව ඇති බවට වෛද්‍ය වාර්තාවක් ලබාදී ඇති බව පොලිස් නිලධාරියකු පැවසීය.
+
+මෙම කොස්තාපල්වරයා මීට දින කීපයකට ඉහතදී කෑගල්ල පොලිස් කොට්ඨාසයේ දැඩිගම පොලිස් ස්ථානයේ සිට ස්ථාන මාරුවක් ලැබ අවිස්සාවේල්ල පොලිසියට අනුයුක්ත  කර තිබූ නිලධාරියකු බව පොලිසිය කියයි .
+
+සැකකාර කොස්තාපල්වරයාගේ රාජකාරී වැඩද තහනම් කිරීමට නියමිත බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/f2901c2f.json)
 
 ---
 
@@ -93,6 +161,46 @@ It is reported that these personnel are also dangerous to other drivers, running
 [Data](articles/7312fe20.json)
 
 [Extended Data](ext_articles/7312fe20.ext.json)
+
+---
+
+### Sri Lanka sells Rs70bn in 2028 to 2032 bonds
+
+*2024-05-13 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs70bn-in-2028-to-2032-bonds-162793/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 70 billion rupees in 2028, 2030 and 2032 bonds, data from the state debt office showed.
+
+The debt office sold an offered 15 billion rupees of 01 May 2028 at an average yield of 9.00 percent.
+
+All offered 25 billion rupees of 15 October 2030 bonds were sold at 11.00 percent.
+
+All 30 billion rupees offered of 01 October 2032 bonds were sold at 9.00 percent. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/4a350ce2.json)
+
+---
+
+### Sri Lanka rupee closes flat at 299.00/30 to US dollar
+
+*2024-05-13 18:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-299-00-30-to-us-dollar-162780/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 299.00/30 to the US dollar on Monday, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 10.10/30 percent from 10.40/55 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.50/70 percent from 10.70/85 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.80/95 percent 11.15/25 percent.
+
+A bond maturing on 15.05.2030 closed down at 11.55/70 percent 11.90/12.05 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.90/12.10 percent from 12.10/20 percent. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/8bb09b35.json)
 
 ---
 
@@ -556,6 +664,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### Sri Lanka stocks close down, turnover drops to 1.7bn
+
+*2024-05-13 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-drops-to-1-7bn-162766/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.16 percent, or 19.81 points, at 12,499; while the S&P SL20 Index closed down 0.19 percent, or 7.24 points, at 3,722.
+
+Turnover was the lowest in two weeks at 1.7 billion. The capital goods sector, which includes many of the bluechips, contributed the most to the day’s turnover.
+
+Hemas Holdings Plc saw the most active trading volumes (Rs365mn) in the day, and the share closed up at 88.00.
+
+C T Holdings Plc, which owns Cargills (Ceylon), C T Land Development, was among the top contributors to the ASPI in the day. The share closed up at 260.00.
+
+Royal Ceramics Lanka Plc also saw some investor interest (Rs75mn), and closed up at 36.90.
+
+Among the conglomerates, Aitken Spence Plc closed up at 134.25. John Keells Holdings Plc closed down at 207.00, as did Hayleys Plc which closed down at 93.30.
+
+...
+
+[Data](articles/4ab6e47b.json)
+
+---
+
 ### Supreme Court orders over the Electricity Act
 
 *2024-05-13 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196580) · `si`
@@ -575,6 +707,24 @@ The panel of judges issued this announcement by concluding the exams held for th
 [Data](articles/924095cb.json)
 
 [Extended Data](ext_articles/924095cb.ext.json)
+
+---
+
+### Sri Lanka expert panel reviews RPC land lease; Minister demands action
+
+*2024-05-13 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-expert-panel-reviews-rpc-land-lease-minister-demands-action-162758/) · `en`
+
+ECONOMYNEXT – An expert panel appointed by the Sri Lankan government is reviewing lease agreements with Regional Plantation Companies (RPC), Minister of Estate Infrastructure Development Jeevan Thondaman said.
+
+Thondaman, who has been critical on RPCs over their resistance in paying the latest daily wage of 1,700 rupees per tea plucker, said he wants action against the companies for destroying government assets.
+
+“We are reviewing the agreement as we speak. There is a committee that is going through it,” he told reporters at a media briefing on Monday (13) in Colombo.
+
+“My personal opinion is we can’t just look at it as just tea. Tea is an asset of the government of Sri Lanka. So when it is a Sri Lankan government asset, say if we have given 10,000 hectares of tea estates to a company, with 8,500 hectares of tea and 1,500 of abandoned, then today we need to conduct an audit to see of the 8,500 ha of tea lands exist.”
+
+...
+
+[Data](articles/2cacffcb.json)
 
 ---
 
@@ -2129,157 +2279,5 @@ Depending on the suspects, the quarters detected, the stolen accused and stolen 
 [Data](articles/267ff782.json)
 
 [Extended Data](ext_articles/267ff782.ext.json)
-
----
-
-### E.Po. C. Permanent appointment to 1,000 drivers and conductors!
-
-*2024-05-13 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183382) · `ta`
-
-1,000 Sri Lanka Transport Board drivers and conductors, who met the qualifications, have been given permanent appointments, marking their transition from contract to permanent roles since 2018.
-
-🟩
-
-1,000 drivers and operators working in the Sri Lanka Transport Board have been issued permanent appointment letters.
-
-The Ministry of Transport, Highways and Mass Media has said that a group of drivers and conductors who received the qualifications needed to represent all depots across the country have been appointed.
-
-Such permanent appointments have been given to employees who have worked on contract basis since 2018.
-
-◼️
-
-[Data](articles/47bcfb15.json)
-
-[Extended Data](ext_articles/47bcfb15.ext.json)
-
----
-
-### Final decision on science and English science and English
-
-*2024-05-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196569) · `si`
-
-The Minister of Education addressed concerns about the GCE O/L examination's science and English sections, stating that adjustments are being made to ensure fairness. The decision was based on feedback and the need to balance the exam's difficulty level. The Minister also highlighted efforts to address teacher shortages and improve the quality of education, including the recruitment of 500 English subject teachers and the appointment of sports trainers.
-
-🟩
-
-The Minister of Education today expressed the same regard to the science and English science of the GCE O / L examination.
-
-The Minister was responding to a question raised by MP Rohini Kaviratne.
-
-Minister of Education Susil Premjages said that the science paperwork is being taken to meet with the meeting.
-
-The number of questions that have been prepared for several questions about the question and several multiple-choice questions about the question and several multiple choice questions have been met to make a final decision on this matter.. Also, the Commissioner of Examinations issued a statement regarding this. Usually, a sample Mark does a sample. After that, changes in weight. The panel is due to adjust the skim in a way that does not be unfair. "
-
-Meanwhile, the Minister said that necessary steps will be taken to relieve the students to be relieved in the GCE Ordinary Level English question paper.
-
-...
-
-[Data](articles/89ef3e93.json)
-
-[Extended Data](ext_articles/89ef3e93.ext.json)
-
----
-
-### Donald Lu
-
-*2024-05-13 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196568) · `si`
-
-Donald Lu, US Assistant Secretary for South and Central Asian Affairs, is visiting the island today.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu is due to arrive in the island today (13).
-
-◼️
-
-[Data](articles/dea38845.json)
-
-[Extended Data](ext_articles/dea38845.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu embarks on visit to Sri Lanka
-
-*2024-05-13 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99178/us-assistant-secretary-donald-lu-embarks-on-visit-to-sri-lanka) · `en`
-
-U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has commenced his official visit to Sri Lanka today (13).
-
-Accordingly, he is set to engage with officials from across the political spectrum and civil society to deepen the United States’ partnership with Sri Lanka.
-
-Mr. Donald Lu’s Sri Lanka visit came as part of his broader tour of the region from May 10th to 15th, which included India and Bangladesh.
-
-Issuing a statement, the US State Department stated last week that in his meetings, he will reaffirm the United States’ support for Sri Lanka’s economic recovery, as well as the importance of a robust civil society as a cornerstone of a free and democratic society.
-
-◼️
-
-[Data](articles/8e366b25.json)
-
-[Extended Data](ext_articles/8e366b25.ext.json)
-
----
-
-### Chamal defends MR’s decision to construct airport, port, stadium in Hambantota
-
-*2024-05-13 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamal-defends-MRs-decision-to-construct-airport-port-stadium-in-Hambantota/108-282478) · `en`
-
-Parliament, May 13 (Daily Mirror)- Defending the allegations on former President Mahinda Rajapaksa's decisions to construct an international airport, habour and cricket stadium in the Hambantota District, SLPP MP Chamal Rajapaksa said the issue is not the constructions but the failure to develop them as business ventures.
-
-The MP told Parliament that if these constructions were developed as business ventures, it would not be a big issue to bring in dollar revenue to the country.
-
-He said this when Parliamentarian Lalith Ellawala raised a question regarding the construction of the Sooriyawewa cricket stadium in Hambantota.
-
-"Those who supported Mahinda Rajapaksa when he constructed ports, airports and stadiums are now raising these questions. Is Hambantota District not suitable to have these constructions? The then Cabinet decided to construct stadiums covering the whole country," MP Rajapaksa said.
-
-...
-
-[Data](articles/c36d65b7.json)
-
-[Extended Data](ext_articles/c36d65b7.ext.json)
-
----
-
-### Unidentified body discovered in Giriulla
-
-*2024-05-13 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99177/unidentified-body-discovered-in-giriulla) · `en`
-
-An unidentified body of a male has been recovered from a paddy field in the Kajuwetiyawatta area of Giriulla police division, the police said.
-
-While the identity of the deceased male is yet to be ascertain, police said that he is believed to be between 50-60 years old.
-
-Police also stated that the naked body was beyond recognition due to its advanced state of decomposition.
-
-The body has been placed at the Kuliyapitiya Hospital, while the Giriulla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/8ef1494f.json)
-
-[Extended Data](ext_articles/8ef1494f.ext.json)
-
----
-
-### Make privatization;
-
-*2024-05-13 11:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்மயப்படுத்தலை-ஆறப்போடவும்-மஹிந்த/175-337225) · `ta`
-
-Former President Mahinda Rajapakse suggests postponing the privatization of state-owned assets until after the next presidential election, citing the interim nature of the current government. He argues that these assets should be managed by the incoming administration, as they were during his tenure, which saw no privatization and maintained profitability. This move comes amid growing public discontent over the rapid sale of state assets.
-
-🟩
-
-Former President Mahinda Rajapakse has proposed to postpone the government's privatization effort until the upcoming presidential election.
-
-He emphasized the interim nature of the current government, and recommended that the state -owned assets be given to the incoming administration in accordance with the decree received from the voters.
-
-I have ruled the country for over 9 years since 2009. At the time, state -owned companies did not sell even one. In fact, the government -owned corporations, such as the insurance company and the Lanka Hospital, have been recalled in my government.. They are still profitable.
-
-Mahinda Rajapakse issued a statement that the recommendation came amid increasing dissatisfaction with rapidly extracting state -owned assets.
-
-“I would like to propose all measures to sell state assets or corporations until the new government is formed after the next presidential election.
-
-...
-
-[Data](articles/4c7e2d5d.json)
-
-[Extended Data](ext_articles/4c7e2d5d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 20:52:43**
+As of **2024-05-13 21:03:19**
 
 ## Newspaper Stats
 
-*Scraped **23,764** Articles*
+*Scraped **23,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,77 @@ adaderanalk | 2,773
 tamilmirrorlk | 2,783
 virakesarilk | 3,545
 dailymirrorlk | 3,736
-adaderanasinhalalk | 3,811
+adaderanasinhalalk | 3,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,761 (100.0%) of 23,764 articles have been extended.
+23,764 (100.0%) of 23,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### T20 ලෝක කුසලානයට යන අපේ කණ්ඩායම ජනපති හමුවෙයි
+### පෙර පාසල් දැරියට මරු කැඳවූ ජංගම දුරකථනය
+
+*2024-05-13 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196589) · `si`
+
+ජංගම දුරකථනය ආරෝපණය කිරීමට යාමේදී විදුලි සැර වැදීමෙන් පෙර පාසල් සිසුවියක මියගොස් තිබේ.
+
+මෙසේ මියගොස් ඇත්තේ මග්ගොන මුංහේන ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු පහක පෙර පාසල් දැරියකි.
+
+මෘතදේහය බේරුවල රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය කළුතර ශික්ෂණ රෝහලට යොමුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/02f086d0.json)
+
+---
+
+### Our team to visit T20 World Cup meet President
 
 *2024-05-13 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196588) · `si`
 
-විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා සහභාගිවීමට දිවයිනෙන් පිටත්ව යන ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
+The Sri Lankan cricket team, set to leave tomorrow, received a visit from President Ranil Wickremesinghe to attend the T20 World Cup today. The President congratulated the team, highlighting their friendship with the country. The tournament, hosted by the West Indies, runs from June 1st to 29th.
 
-වනිඳු හසරංගගේ නායකත්වයෙන් යුත් ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම හෙට (14) උදෑසන දිවයිනෙන් පිටත්ව යාමට නියමිතය.
+🟩
 
-ක්‍රීඩකයන් දිරිමත් කරමින් ඔවුන් සමඟ සුහද කතා බහක නිරත වූ ජනාධිපතිවරයා රට වෙනුවෙන් විශිෂ්ට ජයග්‍රහණයක් අත්කරගැනීමට සිය සුබපැතුම් ද පිරිනැමීය.
+President Ranil Wickremesinghe called on President Ranil Wickremesinghe this afternoon to attend the Twenty20 World Cup today (13).
 
-පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට ජූනි 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව්හිදී පැවැත්වීමට නියමිය.
+The Sri Lankan cricket team is due to leave the island tomorrow morning (14).
+
+The President also congratulated his friendship with the country by encouraging the players.
+
+The Twenty20 World Cup will be held on June 01 to June 01 in June 29 at the West Indies.
 
 ◼️
 
 [Data](articles/3b1c2edf.json)
 
+[Extended Data](ext_articles/3b1c2edf.ext.json)
+
 ---
 
-### ඩොනල්ඩ් ලූ සහ ජනපති අතර හමුවක්
+### Donald lo and President meets President
 
 *2024-05-13 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196587) · `si`
 
-අමෙරිකා එක්සත් ජනපද රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ කාර්යාංශයේ සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී තිබේ.
+Donald Lune, the Assistant Secretary of State for Southern and Central Asian Affairs, met President Ranil Wickremesinghe to discuss Sri Lanka's economic recovery and evaluate the President's dedication to economic reforms.
 
-ඩොනල්ඩ් ලූ මහතා ශ්‍රී ලංකාවේ ආර්ථිකය යථා තත්ත්වයට පත්වීම පිළිබඳව සාකච්ඡා කිරීම සඳහා එලෙස අද (13) ජනාධිපති කාර්යාලයේදී ජනාධිපතිවරයාව හමුවිය.
+🟩
 
-මෙහිදී ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ වැඩපිළිවෙල වෙනුවෙන් ජනාධිපතිවරයාගේ කැපවීම ඇගැයීමට ලක්විය.
+Assistant Secretary of State for Secretary of State for the Southern and Central Asian Affairs Bureau of the United States of State Department, has met President Ranil Wickremesinghe.
+
+Mr. Donald Lune met with the President today (13) to discuss the recovery of the Sri Lankan economy.
+
+The President's dedication was evaluated for the economic reform program in Sri Lanka.
 
 ◼️
 
 [Data](articles/65438080.json)
+
+[Extended Data](ext_articles/65438080.ext.json)
 
 ---
 
@@ -147,6 +175,8 @@ A panel of lawyers including President’s Counsel Ikram Mohmed appeared for the
 ◼️
 
 [Data](articles/1d318bab.json)
+
+[Extended Data](ext_articles/1d318bab.ext.json)
 
 ---
 
@@ -2297,23 +2327,5 @@ He will also re -guarantee the US cooperation on the economic recovery of Sri La
 [Data](articles/2cc3f693.json)
 
 [Extended Data](ext_articles/2cc3f693.ext.json)
-
----
-
-### Crossroad
-
-*2024-05-13 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183334) · `ta`
-
-The Tamil general candidate's trust issue is gaining public interest, seen as a positive sign.
-
-🟩
-
-“The issue of Tamil general candidate is now a trusted - the people are starting to become a matter of interest among the people. This is a good omen ”
-
-◼️
-
-[Data](articles/84c566a5.json)
-
-[Extended Data](ext_articles/84c566a5.ext.json)
 
 ---

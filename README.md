@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 23:33:39**
+As of **2024-05-13 23:53:01**
 
 ## Newspaper Stats
 
-*Scraped **23,787** Articles*
+*Scraped **23,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,286
 economynextcom | 1,362
 dailyftlk | 1,374
 adalk | 2,029
-adaderanalk | 2,774
+adaderanalk | 2,776
 tamilmirrorlk | 2,785
 virakesarilk | 3,552
 dailymirrorlk | 3,743
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,785 (100.0%) of 23,787 articles have been extended.
+23,787 (100.0%) of 23,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### சஜித்தை சந்தித்தார் டொனால்ட் லு
+### Donald Lu met Sajith
 
 *2024-05-13 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183452) · `ta`
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லு (Donald Lu ) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்தார்.
+Donald Lu, US Assistant Secretary for South and Central Asian Affairs, met Sri Lanka's Opposition Leader Sajith Premadasa during his official visit. Premadasa urged Lu to support Sri Lanka's development, emphasizing the need for US cooperation to help the country recover from bankruptcy.
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லு, உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள வேளையிலையே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவையும் சந்தித்தார்.
+🟩
 
-இலங்கைக்கும் ஐக்கிய அமெரிக்க குடியரசுக்கும் இடையில் தற்போதுள்ள கூட்டாண்மையை மேம்படுத்துவது குறித்து இரு தரப்பினரும் நீண்ட நேரம் கலந்துரையாடியதோடு, தற்போதைய வங்குரோத்து நிலையிலிருந்து நாட்டை கட்டியெழுப்புவதற்கு ஒத்துழைப்பு வழங்குமாறும் டொனால்ட் லூவிடம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச வேண்டுகோள் விடுத்தார்.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu met Opposition Leader Sajith Premadasa.
+
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu also met Opposition Leader Sajith Premadasa as he visited Sri Lanka on an official visit.
+
+Opposition Leader Sajith Premadasa appealed to Donald Lu to cooperate to build the country from the current bankruptcy state on the development of the current coalition between Sri Lanka and the United States.
 
 ◼️
 
 [Data](articles/c893d6da.json)
+
+[Extended Data](ext_articles/c893d6da.ext.json)
 
 ---
 
@@ -71,6 +77,22 @@ The President said that the country is very proud of this success in the Rugby G
 [Data](articles/34881c2e.json)
 
 [Extended Data](ext_articles/34881c2e.ext.json)
+
+---
+
+### President meets Sri Lankan cricket team heading to T20 World Cup, extends best wishes
+
+*2024-05-13 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99197/president-meets-sri-lankan-cricket-team-heading-to-t20-world-cup-extends-best-wishes) · `en`
+
+President Ranil Wickremesinghe extended his well-wishes to the Sri Lankan Cricket Team as they embark on their journey to participate in the upcoming Twenty20 World Cup Cricket Tournament, set to take place in the U.S. and the West Indies from June 1st to June 29th.
+
+In a meeting held at the Presidential Secretariat this afternoon (13), the President engaged in a friendly conversation with the team, led by Wanidu Hasaranga, offering words of encouragement and congratulating them on representing the nation with distinction, the PMD reported.
+
+Scheduled to depart the island tomorrow morning (14), the Sri Lankan cricket squad comprising 15 players received commendations from the President for their commitment to achieving success on the international stage.
+
+...
+
+[Data](articles/c284e9fd.json)
 
 ---
 
@@ -113,6 +135,26 @@ The GCE Ordinary Level examination has appeared to the mathematical subject ques
 [Data](articles/2c30887b.json)
 
 [Extended Data](ext_articles/2c30887b.ext.json)
+
+---
+
+### ‘Choose France’ investment push bags record $16 billion in pledges
+
+*2024-05-13 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99196/choose-france-investment-push-bags-record-16-billion-in-pledges) · `en`
+
+(Reuters) - France won a record 15 billion euros ($16.17 billion) in foreign investment pledges on Monday, allowing President Emmanuel Macron to bask in the limelight with global CEOs and forget about strained public finances and weak polls for a while.
+
+The bumper crop of pledges, in sectors ranging from artificial intelligence to pharmaceuticals and energy, stood Macron in good stead as he hosted business leaders for the annual “Choose France” summit at Versailles Palace.
+
+This year’s figure is up from 13 billion euros announced in 2023.
+
+The French presidency said the investments included 56 different business projects and could lead to the creation of 10,000 jobs.
+
+Microsoft said it would invest 4 billion euros in France in its cloud and AI infrastructure, expanding its centres in Paris and Marseilles and adding a new data centre in the eastern city of Mulhouse.
+
+...
+
+[Data](articles/ea23c95b.json)
 
 ---
 
@@ -1066,23 +1108,33 @@ It is known that steps have been taken to send the Sri Lankan soldiers who are j
 
 ---
 
-### சமூக ஆலோசனைக்குழு உருவாக்கும் சுற்று நிருபத்தில் உள்ளூராட்சி மன்ற வேட்பாளர்களை நியமிப்பது தொடர்பில் குறிப்பிடப்படவில்லை - பிரதமர் தினேஷ்
+### Social Advisory Committee is not mentioned on the appointment of local government candidates in the roundabout
 
 *2024-05-13 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183419) · `ta`
 
-சமூக ஆலோசனைக்குழு உருவாக்கும் சுற்று நிருபத்தில் எந்த ஒரு இடத்திலும் உள்ளூராட்சி சபை தேர்தலில் போட்டியிடும் வேட்பாளர்கள் உறுப்பினர்களாக நியமிக்கப்படுவது தொடர்பில் குறிப்பிடப்படவில்லை.
+The Social Advisory Committee's role in local government candidate appointments is not detailed. PM Dinesh Gunawardena mentioned the committee's composition, including retired engineers and sector experts, but not its involvement in candidate nominations. The budget aims to resume stalled local development projects, utilizing diversified funds and MP development programs. Opposition leader Lakshman Kiriella failed to convene a provincial council election today. The challenges in utilizing former Pradeshiya Sabha members nationwide are not specified.
 
-மாறாக அந்த குழுவில் நாடளாவிய ரீதியிலுள்ள ஓய்வு பெற்ற பொறியியலாளர்கள், தொழில்நுட்ப அதிகாரிகள், பல்வேறு துறைகளிலும் நிபுணத்துவம் பெற்றவர்கள் மற்றும் கிராமிய தலைவர்கள் நியமிக்கப்பட்டு அவர்கள் நாட்டின் அபிவிருத்திக்காக பயன்படுத்தப்படுகிறார்கள் என பிரதமர் தினேஷ் குணவர்தன  தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) தயாசிறி ஜயசேகர எம்பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+There is no mention of the nomination of candidates contesting the local council election anywhere in the roundabout of the Social Advisory Committee.
 
-உள்ளூராட்சி மன்றங்களில் கடந்த இரண்டு வருடங்கள் இடம்பெறாமல் இருந்த அபிவிருத்தி திட்டங்களை மீண்டும் ஆரம்பிப்பதற்கு வரவு செலவு திட்டத்தின் மூலம் திட்டமிடப்பட்டுள்ளது.
+On the contrary, Prime Minister Dinesh Gunawardena said that the committee is appointed by retired engineers, technical officials, experts in various sectors and rural leaders.
 
-அபிவிருத்தி குழுக்களில் பங்கு பற்றி, கோரிக்கைகள் மற்றும் யோசனைகளை சமர்ப்பித்துள்ள அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் பன்முகப்படுத்தப்பட்ட நிதி, மாகாண சபை மூலமான நிதி,மத்திய அரசாங்கத்தினது அபிவிருத்தித் திட்டங்களும் பெற்றுக் கொடுக்கப்பட்டுள்ளன.
+He said this while responding to a question raised by Dayasiri Jayasekara in Parliament on Monday (13).
 
-...
+The budget is scheduled to resume development projects that have not been held in local bodies for the past two years.
+
+Diversified funds, provincial council funds and development programs of all MPs who have submitted demands and ideas on the participation of development committees have been received.
+
+Opposition is not currently. Lakshman Kiriella MP has not been able to hold the provincial council election today.
+
+There are thousands of former Pradeshiya Sabha members nationwide. What are the obstacles to obtain use from them?Let me ask.
+
+◼️
 
 [Data](articles/1c7fa195.json)
+
+[Extended Data](ext_articles/1c7fa195.ext.json)
 
 ---
 
@@ -2257,47 +2309,5 @@ Furthermore, he pledged necessary measures to provide relief to students who may
 [Data](articles/9cb453f3.json)
 
 [Extended Data](ext_articles/9cb453f3.ext.json)
-
----
-
-### Questionnaire Controversy; Minister's description
-
-*2024-05-13 13:44:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-சர்ச்சை-அமைச்சர்-விளக்கம்/175-337234) · `ta`
-
-Minister Susil Premajayantha addressed the controversy over the GCE Ordinary Level Science and English Course Questionnaire, promising to prevent student injustice. He acknowledged issues with the questionnaires and the Dental Questionnaire, stating that the organizers would make a final decision. MP Rohini Kumari Gaviratne criticized the changes to this year's English questionnaire, arguing it's unfair for rural students lacking trained English teachers. The Minister assured that the Commissioner of Examinations would address these concerns in the score program preparation.
-
-🟩
-
-Minister of Education Susil Premajayantha, who clarified the controversy on the GCE Ordinary Level (S/D) Science and English Course Questionnaire, said he would take action to prevent any injustice to any students.
-
-Responding to a question by United People's Power MP Rohini Kumari Gaviratne, he said that the issues of the questionnaire and the Dental Questionnaire (MCQ) have been reported and that the questionnaire organizers will take a final decision on the incident.
-
-MP Gavaratne said that this year's English questionnaire has been changed and this is unreasonable for most of the students in rural areas with no trained English teachers.
-
-The Minister said that the Commissioner of Examinations has promised to pay special attention to these issues when preparing the score program after preparing a regular sample.
-
-◼️
-
-[Data](articles/37653431.json)
-
-[Extended Data](ext_articles/37653431.ext.json)
-
----
-
-### School sports coaches to receive teaching appointments?
-
-*2024-05-13 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99184/school-sports-coaches-to-receive-teaching-appointments) · `en`
-
-Minister of Education Susil Premajayantha announced plans to recruit sports coaches, previously appointed to non-academic positions in schools from National Colleges of Education (NIEs), into the teaching service.
-
-“Sports teachers were usually selected from the National Colleges of Education. Previously, approximately 3,000 individuals were recruited to serve as sports coaches. However, rather than being placed in teaching roles, they were assigned to non-academic staff positions. If these individuals meet the qualifications required for teaching service, appropriate measures will be taken to appoint them to teaching positions accordingly”, he assured.
-
-Furthermore, the Education Minister also commented regarding the issues pertaining to the recruitment of English Language teachers.
-
-...
-
-[Data](articles/990a122d.json)
-
-[Extended Data](ext_articles/990a122d.ext.json)
 
 ---

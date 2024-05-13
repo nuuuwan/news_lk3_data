@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 06:19:48**
+As of **2024-05-13 06:58:32**
 
 ## Newspaper Stats
 
-*Scraped **23,576** Articles*
+*Scraped **23,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 212
 bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
-islandlk | 1,277
+islandlk | 1,278
 economynextcom | 1,350
 dailyftlk | 1,374
 adalk | 2,002
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,576 (100.0%) of 23,576 articles have been extended.
+23,576 (100.0%) of 23,577 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1178,6 +1178,18 @@ The President said that all the conditions set up with the International Monetar
 
 ---
 
+### IASL introduces office bearers for 2024/25 tenure; Chandana Aluthgama continues as president
+
+*2024-05-12 18:53:00* · [`islandlk`](http://island.lk/iasl-introduces-office-bearers-for-2024-25-tenure-chandana-aluthgama-continues-as-president/) · `en`
+
+The Insurance Association of Sri Lanka (IASL) the representative body of the insurance industry in the country has announced the reappointment of its esteemed office bearers for the year 2024/25. The reappointment comes as a testament to the dedication, expertise, and commitment demonstrated by these individuals towards advancing the insurance industry in Sri Lanka. The event took place on the 27th of March, 2024 at the Annual General Meeting. Subsequently the sub-committee members were also appointed for the said term at the IASL Executive Committee Meeting which was held on the 3rd of May 2024.
+
+...
+
+[Data](articles/07d887ae.json)
+
+---
+
 ### Landslide issues the pre-warnings of the landslide
 
 *2024-05-12 18:50:25* · [`adalk`](https://www.ada.lk/breaking_news/නායයෑමේ-පූර්ව-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-409577) · `si`
@@ -2149,29 +2161,5 @@ In addition, the arrested suspect and the confiscated artifacts have handed over
 [Data](articles/f8cdfc1f.json)
 
 [Extended Data](ext_articles/f8cdfc1f.ext.json)
-
----
-
-### The people of the country sent two billion dollars at 4 months
-
-*2024-05-12 14:04:56* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මාස-4ට-ඩොලර්-බිලියන-දෙකක්-එවලා/11-409572) · `si`
-
-In the first four months, the US sent $2.079 billion to foreign workers, a 19.7% increase from April last year. The total for the period was $2.079 billion, with $543.8 million in April alone. This is an 11.4% increase compared to the same period last year. Minister Manusha Nanayakkara has overseen the transfer of $10.807 billion to foreign workers, with monthly transfers of $200 million to Sri Lanka. The government has also encouraged the import of essential commodities and the use of the banking system.
-
-🟩
-
-Foreign workers have been legally sent by US $ 2.079 billion in the first four months alone, US $ 543.8 million in April alone.
-
-Compared to the first four months of last year, the foreign foreign forest reserves have increased by 11.4 percent in the first four months of this year during the first four months of this year.. Compared to April last year, the country received in April alone in April this year was 19.7 percent.
-
-Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment has taken over US $ 10,807 million to foreign workers. The Minister has taken the foreign workers monthly to Sri Lanka by US $ 200 million.
-
-The oil queues, the oil queue, eliminating the shortfall, were asked to import the essential commodities of the country, and encouraged to send money to the banking system.
-
-...
-
-[Data](articles/cf356c29.json)
-
-[Extended Data](ext_articles/cf356c29.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 01:33:43**
+As of **2024-05-14 01:52:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,810 (100.0%) of 23,811 articles have been extended.
+23,811 (100.0%) of 23,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### ’மோசடியின் பின்னணியை ஆராயவும்’
+### Explore the background of the model scam
 
 *2024-05-14 00:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசடியின்-பின்னணியை-ஆராயவும்/175-337266) · `ta`
 
-ரஷ்ய யுத்த களத்துக்கு இலங்கையில் ஓய்வு பெற்ற இராணுவ வீரர்களை சட்டவிரோதமான முறையில் அனுப்பும் மோசடியின் பின்னணியில் ரஷ்யாவுக்கான  முன்னாள் இலங்கை தூதுவர் தொடர்புப்பட்டுள்ளாரா என்ற சந்தேகம் எழுவதாகத் தெரிவித்த சுயாதீன எதிரணி எம்.பி.யான காமினி வலேபொட, பலஸ்தீனத்துக்கும் இஸ்ரேலுக்கும் இடையிலான யுத்தம்  தற்போது தீவிரமடைந்துள்ளது. ஆகவே இந்த நாடுகளின் யுத்தக் களத்துக்கும் இலங்கையர்கள் சட்டவிரோதமான முறையில் அனுப்பி வைக்கப்படலாம் எனவும் தெரிவித்தார்
+Gamini Valaboda, an MP, suspects Sri Lankans are being fraudulently sent to Russian and Middle Eastern wars. He warned in Parliament about the exploitation of retired soldiers and the lack of proper treatment for those injured. The former Sri Lankan ambassador to Russia, who is implicated, claims to bring Sri Lankans to Russia within a week if authorized.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை  (13) விசேட கூற்றை முன்வைத்த போதே இவ்வாறு தெரிவித்த அவர் மேலும்  பேசுகையில்,
+🟩
 
-ரஷ்யாவில்  தொழில் வாய்ப்புக்களை பெற்றுத் தருவதாக கூறி  இங்கு ஓய்வு பெற்ற இராணுவத்தினரை ரஷ்ய இராணுவத்தில் இணைக்கும் மோசடிகள் தற்போது தீவிரமடைந்துள்ளன.ரஷ்ய யுத்த  களத்தில் பாதிக்கப்பட்டுள்ள இலங்கையர்கள் எம்மை தொடர்புக் கொண்டு அழுது புலம்புகிறார்கள்.யுத்த  களத்துக்கு செல்வதை தாங்கள் அறியவில்லை என்று  கூறுகின்றார்கள்
+Independent Opposition MP Gamini Valaboda, who has expressed suspicion that the former Sri Lankan ambassador to Russia has been suspected of being involved in the illegal fraud of illegally sending retired soldiers of Sri Lanka to the Russian war, is now intensifying the war between Palestine and Israel.. Therefore, Sri Lankans can be illegally sent to the battlefield of these countries.
+
+He further stated that he made a special statement in Parliament on Monday (13).
+
+Frauds of the Russian army have been intensified by the Russian army, claiming to have employment opportunities in Russia. The victims of the Russian war are weeping.
+
+Sri Lankans who are injured in the Russian war are not provided with proper treatment.. The embassy says that when talks with the Russian embassy in Sri Lanka, we cannot interfere with the Sri Lankans illegally.
+
+The former Sri Lankan ambassador to Russia has stated that he will bring Sri Lankans in Russia within a week if he is authorized.
 
 ...
 
 [Data](articles/5a4ed6a1.json)
+
+[Extended Data](ext_articles/5a4ed6a1.ext.json)
 
 ---
 

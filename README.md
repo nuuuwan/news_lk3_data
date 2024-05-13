@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 22:06:41**
+As of **2024-05-13 22:18:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 3,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,776 (100.0%) of 23,780 articles have been extended.
+23,780 (100.0%) of 23,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### அரச வர்த்தமானி அறிவிப்புக்கு அமைய கம்பனிகள் செயற்பட வேண்டியது அவசியம்! - அமைச்சர் ஜீவன் தொண்டமான்
+### Companies need to act in accordance with the state gazette notification!- Minister Jeevan Thondaman
 
 *2024-05-13 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183450) · `ta`
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு குறித்து அரசாங்கம் விடுத்துள்ள வர்த்தமானி அறிவித்தலுக்கு அமைய பெருந்தோட்ட கம்பனிகள் செயற்பட வேண்டியது அவசியமென வலியுறுத்திய நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான், அதற்கு எதிராக கம்பெனிகள்  மேற்கொள்ளும் நீதிமன்ற நடவடிக்கைளுக்கு முகம்கொடுக்கத் தயாரெனவும் தெரிவித்தார்.
+Minister Jeevan Thondaman emphasized the need for plantation companies to comply with the government's gazette notification on salary increases for plantation workers, highlighting the companies' previous refusal to increase salaries despite the notification. He criticized the day-to-day wage system and urged for a switch to a more stable system. The minister also addressed the controversy surrounding the salary increase announcement by President Ranil Wickremesinghe, noting the companies' initial resistance to a salary increase and their subsequent willingness to increase the basic salary by 200 rupees. He questioned the companies' claims of financial constraints and called for an investigation into the lack of re-planting and maintenance of gardens, which have led to their transformation into forests. The minister also touched on the issue of clean drinking water in Jaffna, stating that the opening of the Salt Water Supply Center will increase the percentage of the population with access to clean water.
 
-கூட்டு ஒப்பந்தம் இருந்த காலத்தில் 2 வருடங்களுக்கு ஒரு முறை சம்பளம் அதிகரிப்பு செய்யப்பட்ட நிலையில் கடந்த நான்கு வருடங்களாக தொழிலாளர்களுக்கு சம்பள அதிகரிப்பு வழங்கப்படவில்லை எனத் தெரிவித்த அமைச்சர் ஜீவன் தொண்டமான், டொலரின் பெறுமதி  வீழ்ச்சியை சாதகமாக கொண்டு பெருந்தோட்டத் தொழிலாளர்களின் சம்பளத்தை அதிகரிக்க கம்பனிகள் முன்வர வேண்டுமெனவும் வலியுறுத்தினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (13) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு மேலும் கருத்து தெரிவித்த  அமைச்சர் ஜீவன் தொண்டமான் மேலும் குறிப்பிட்டதாவது:
+The Minister of Water Supply and Plantation Infrastructure Development Jeevan Thondaman said that the plantation companies need to function in accordance with the government's gazette notification issued by the government on the salary increase of plantation workers.
+
+Minister Jeevan Thondaman said that workers have not been paid a salary increase for the past four years after the salary increased by 2 years during the joint agreement, and urged the companies to increase the salaries of plantation workers in favor of the dollar value.
+
+Minister Jeevan Thondaman further stated at a media briefing held at the Presidential Media Center on Monday (13).
+
+“The day -to -day wage system is inappropriate. It is necessary to switch from that system. Four years will be required for that. For that, the plantation workers cannot be accepted to wait for a salary of 1000 rupees.
 
 ...
 
 [Data](articles/2baaf3d9.json)
+
+[Extended Data](ext_articles/2baaf3d9.ext.json)
 
 ---
 
@@ -65,6 +73,8 @@ Subsequently, the suspects were produced before the Colombo Traffic Court, where
 ◼️
 
 [Data](articles/42519ba5.json)
+
+[Extended Data](ext_articles/42519ba5.ext.json)
 
 ---
 
@@ -128,17 +138,23 @@ Sri Lanka's 20 team leader Mondu Amunda has been received by the Sri Lanka Crick
 
 ---
 
-### ஜனாதிபதியை சந்தித்து பாராட்டினார் டொனால்ட் லு
+### Donald Lu congratulated the president
 
 *2024-05-13 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183449) · `ta`
 
-அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரப் பணியகத்தின் உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு ஜனாதிபதி ரணில் விக்கரமசிங்கவை சந்தித்து கலந்துரையாடியுள்ளார்.
+Donald Lu, US State Department's Assistant Secretary for South and Central Asian Affairs, met President Ranil Wickremesinghe to discuss restoring Sri Lanka's economy.
 
-இலங்கையின் பொருளாதாரத்தை மீட்டெடுப்பது தொடர்பாக திங்கட்கிழமை (13) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரப் பணியகத்தின் உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு, (Donald Lu)கலந்துரையாடினார்.
+🟩
+
+Donald Lu, Assistant Secretary of State for the US State Department's South and Central Asian Affairs Bureau, met with President Ranil Wickremesinghe.
+
+Donald Lu (Donald Lu), Assistant Secretary of State for the US State Department's South and Central Asian Affairs Bureau, met with President Ranil Wickremesinghe at the Presidential Office at the Presidential Office on Monday (13) to restore the Sri Lankan economy.
 
 ◼️
 
 [Data](articles/9f749a27.json)
+
+[Extended Data](ext_articles/9f749a27.ext.json)
 
 ---
 
@@ -942,21 +958,31 @@ The death of this whale is expected to identify the post-demonstratory trial and
 
 ---
 
-### டயனா கமகேவுக்கு கடவுச்சீட்டு விநியோகித்தமை தொடர்பில் விசாரணை நடத்தப்பட வேண்டும் - முஜிபுர் ரஹ்மான்
+### Mujibur Rahman should be investigated regarding the distribution of passport to Diana Kamage
 
 *2024-05-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183425) · `ta`
 
-டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை ஜனாதிபதியும் அரசாங்கமும் அறிந்திருந்தும் ஐக்கிய மக்கள் சக்திக்கு எதிராக செயற்படுத்த அவரை தவறாக பயன்படுத்தி வந்துள்ளது.
+Mujibur Rahman, an opposition member, calls for an investigation into the distribution of a passport to Diana Kamage, a non-citizen, by the current Immigration Control Officer. Rahman criticizes the government for protecting Diana and using her against the United People's Power. He also mentions his resignation from the MP post to contest local government elections, which the government did not support due to lack of funds. Rahman accuses the government of dishonesty and misuse of power, highlighting the need for transparency and accountability in passport distribution.
 
-அத்துடன் எமது நாட்டு பிரஜை அல்லாத டயனாவுக்கு குடிவரவு குடியகல்வு முன்னாள் கட்டுப்பாட்டு அதிகாரி  கடவுச்சீட்டு விநியோகிக்க மறுத்துள்ளபோதும் தற்போதுள்ள கட்டுப்பாட்டு அதிகாரி எவ்வாறு கடவுச்சீட்டு விநியோகித்தது என்பது தொடர்பில் விசாரணை மேற்கொள்ள வேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை(13) இடம்பெற்ற ஏற்றுமதி இறக்குமதி தொடர்பான கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The president and the government knows that Diana Kamage is not a citizen of the country, but he has misused him to implement against the United People's Power.
 
-உள்ளூராட்சி மன்ற தேர்தலில் போட்டியிடுவதற்காகவேண்டி கடந்த ஒன்றரை வருடங்களுக்கு முன்னர் பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்துவிட்டு சென்றேன். ஆனால் அரசாங்கம் பணம் இல்லை என தெரிவித்து தேர்தலை நடத்தாமல் விட்டு விட்டது.
+Opposition member Mujibur Rahman said that even though the former Immigration Emigration Control Officer has refused to distribute the passport to our country's non -citizen Diana, the current Control Officer should investigate how the passport is distributed.
+
+He said this while addressing the debate on export imports held in Parliament on Monday (13).
+
+I resigned from the post of MP for the past one and a half years to contest the local government elections.. But the government has left the election, saying there is no money.
+
+I honestly resigned my post. That's why I was able to come back to this congregation. But because Diana Kamage was acting dishonestly, he was left without a parliamentary position.
+
+He initially hid us that Diana Kamage was not a citizen of this country. The truth was revealed to us and we appealed to the court.
 
 ...
 
 [Data](articles/149309e1.json)
+
+[Extended Data](ext_articles/149309e1.ext.json)
 
 ---
 

@@ -1,76 +1,142 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 07:45:14**
+As of **2024-05-13 07:58:39**
 
 ## Newspaper Stats
 
-*Scraped **23,596** Articles*
+*Scraped **23,601** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 212
+colombotelegraphcom | 213
 bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,285
-economynextcom | 1,350
+economynextcom | 1,351
 dailyftlk | 1,374
 adalk | 2,002
-adaderanalk | 2,751
+adaderanalk | 2,752
 tamilmirrorlk | 2,762
 virakesarilk | 3,516
-dailymirrorlk | 3,713
-adaderanasinhalalk | 3,780
+dailymirrorlk | 3,714
+adaderanasinhalalk | 3,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,581 (99.9%) of 23,596 articles have been extended.
+23,586 (99.9%) of 23,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### බිලියන 35ක් රටට අහිමි කළ පාවහන් ජාවාරම
+### Showery conditions expected to enhance during next few days
+
+*2024-05-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99171/showery-conditions-expected-to-enhance-during-next-few-days) · `en`
+
+Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to be enhanced during the next few days, according to the Meteorology Department.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts, it said.
+
+Showers may occur at a few places in the coastal areas of Eastern and Southern provinces during the morning too.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/43699eef.json)
+
+---
+
+### Will Sajith, AKD, Prez accept Daily Mirror invitation for debate?
+
+*2024-05-13 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-Sajith-AKD-Prez-accept-Daily-Mirror-invitation-for-debate/108-282450) · `en`
+
+Colombo, May 13 (Daily Mirror) - In India Congress leader Rahul Gandhi on Saturday accepted an invitation to a public debate with Prime Minister Narendra Modi, which was requested by two former judges and a senior journalist through a letter sent to both the leaders.
+
+Yet in Sri Lanka, there is no acceptance of an invitation sent by the Daily Mirror for a debate among the three main prospective presidential candidates. Only National People’s Power ( NPP) leader Anura Kumara Dissanayake has responded positively so far while SJB Leader Sajith Premadasa and President Ranil Wickremesinghe both are yet to accept the invitation.
+
+◼️
+
+[Data](articles/89e6c459.json)
+
+---
+
+### කුලියාපිටියේ තරුණයා ඝාතන කළ සිදුවීමට පෙම්වතිය අත්අඩංගුවට
+
+*2024-05-13 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196558) · `si`
+
+කුලියාපිටිය ප්‍රදේශයේ තරුණයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් ඔහුගේ පෙම්වතිය අත්අඩංගුවට ගෙන තිබේ.
+
+ඝාතනයට ආධාර අනුබල දීම සහ අපරාධය වසන් කිරීමේ චෝදනා මත සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+
+පසුගිය 22වනදා  කුලියාපිටිය ප්‍රදේශයේ පදිංචි මෙම තරුණයා සිය පෙම්වතිය බැලීම සඳහා කුලියාපිටිය වස්සාමුල්ල ප්‍රදේශයට ගොස් සිටිය දී අතුරුදන්වු තරුණයාගේ මළ සිරුර හලාවත මාදම්පේ ප්‍රදේශයේ තිබී පසුගිය දා සොයා ගැනුණි.
+
+සිද්ධිය සම්බන්ධයෙන් කුලියාපිටිය වස්සාවුල්ල පදිංචි පෙම්වතියගේ මව සහ පියා වන සුජිත් ප්‍රනාන්දු නොහොත් 'සිඟිති' නමැත්තා සහ ඔහුගේ බිරුඳ වන දිලානි රසිකා යන අය මීටපෙර අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළේය.
+
+◼️
+
+[Data](articles/e1227b31.json)
+
+---
+
+### Shots lost to the country 35 billion
 
 *2024-05-13 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196557) · `si`
 
-විදෙස් රටවල නිෂ්පාදිත පාවහන් නීත්‍යානුකූල නොවන අයුරින් මෙරටට ආනයනය කර අලෙවි කිරීමේ මහාපරිමාණ ජාවාරමක් සම්බන්ධවෙන් තොරතුරු අනාවරණය වී තිබේ.
+A massive racket involving the import of goods to Sri Lanka, bypassing taxes with customs officers, has resulted in a loss of 35 billion rupees annually. This scheme, which includes underpaying taxes on items like footwear, has led to a significant reduction in the country's tax revenue.
 
-නියමිත බදු ගෙවීමකින් තොරව ඇතැම් රේගු නිලධාරීන් හා සම්බන්ධවෙමින් ඔවුන් එම ජාවාරමේ නිරතව ඇති බව සඳහන්ය.
+🟩
 
-විදෙස් රටකින් මෙරටට ආනයනය කරන ලද පාවහන් යුගලයක් සඳහා අවම වශයෙන් රුපියල් 2,000ක බදු මුදලක් අයකරනු ලබයි.
+Information has revealed in relation to a large racket of importing the products of the country to Sri Lanka.
 
-දේශීයව නිපදවන පාවහන් මිලට වඩා ඉතා අඩු මිලකට මෙලෙස ගෙන්වන ලද විදෙස් පාවහන් වෙළෙඳපොළට නිකුත් කරන බව සඳහන්ය.
+They are involved in the racket with certain customs officers without paying due taxes.
 
-මෙමඟින් වාර්ෂිකව රුපියල් බිලියන 35ක පමණ බදු ආදායමක් මෙරටට අහිමි වී ඇති බව "අද දෙරණ" වෙත වාර්තා වුණි.
+A tax of a pair of footwear will be charged for a pair of footwear in foreign country.
+
+It is said that the foreign footwear market will be released at a low price of footwear.
+
+The annual tax revenue has been deprived of about Rs. 35 billion annually.
 
 ◼️
 
 [Data](articles/139c1c3e.json)
 
+[Extended Data](ext_articles/139c1c3e.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක්
+### An atmosphere of the lower atmosphere near Sri Lanka
 
 *2024-05-13 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196555) · `si`
 
-ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක් වර්ධනය වීම හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩි වීමක් බලාපොරොත්තු වන බව කුලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's lower atmosphere is experiencing increased rainfall, affecting most of the island. Showers or thundershowers are expected in several places, including the Western, Sabaragamuwa, Central, North Western, Uva, Eastern, and Southern provinces. Some areas may experience showers lasting into the morning. The Department of Meteorology advises the public to prepare for temporary winds and lightning risks.
 
-දිවයිනේ බොහෝ පළාත්වල ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී.100ට වැඩිතද වැසි ඇතිවිය හැකිය.
+The department states that the increase in rain condition is expected to increase due to the development of the lower atmosphere in the lower atmosphere.
 
-නැගෙනහිර සහ දකුණු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+In most parts of the island. Showers or thundershowers will occur at several places about 1.00.
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+Some places in the Western, Sabaragamuwa, Central, Central, North Western and Uva provinces can also occur at the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers will occur at several places in the eastern and Southern provinces.
+
+Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1ad41d7d.json)
+
+[Extended Data](ext_articles/1ad41d7d.ext.json)
 
 ---
 
@@ -91,6 +157,28 @@ Following the approval by the House Committee, the Speaker is expected to write 
 [Data](articles/8bc8e5e6.json)
 
 [Extended Data](ext_articles/8bc8e5e6.ext.json)
+
+---
+
+### Sri Lanka VFS Global visa deal despite IMF anti-corruption requirements: opposition
+
+*2024-05-13 05:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-vfs-global-visa-deal-despite-imf-anti-corruption-requirements-opposition-162683/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s controversial visa deal with IVS-GBS and VFS Global is coming despite the country being required to reduce corruption stemming from an International Monetary Fund governance assessment, the island’s main opposition has said.
+
+The main opposition has also slammed the unsolicited deal with VFS Global, a private contractor, as being bigger than a central bank linked bondscam in 2015.
+
+“This is three or four times bigger than the bondscam,” opposition legislator Rauff Hakeem told parliament.
+
+“I am bringing to the attention of this house this massive fraud (visharler wanchawak).
+
+The deal came despite procurement requirements and anti-corruption roadmap required in an International Monetary Fund deal, following a ‘governance diagnostic assessment’.
+
+“Having pledged all those new measures, and agreed to the IMF conditions, what does the government do?,” Hakeem asked in parliament.
+
+...
+
+[Data](articles/93a97980.json)
 
 ---
 
@@ -170,6 +258,8 @@ Since December, I’ve had an action-packed 4-4.5 months. I’ve travelled the l
 
 [Data](articles/d7cb3117.json)
 
+[Extended Data](ext_articles/d7cb3117.ext.json)
+
 ---
 
 ### NMRA to introduce security sticker for all pharma registration certificates soon
@@ -186,6 +276,8 @@ NMRA Chairman Dr. Ananda Wijewickrama told the Daily Mirror yesterday that the m
 
 [Data](articles/a735f9f9.json)
 
+[Extended Data](ext_articles/a735f9f9.ext.json)
+
 ---
 
 ### IT Gallery – Hikvision Partner Summit 2024 fetes its islandwide partners
@@ -199,6 +291,8 @@ Dilantha Perera, Director/CEO of IT Gallery Computers Private Limited, expressed
 ...
 
 [Data](articles/60a0e070.json)
+
+[Extended Data](ext_articles/60a0e070.ext.json)
 
 ---
 
@@ -395,6 +489,22 @@ Miraclon, with operations across 180 countries and a vast customer base of over 
 [Data](articles/cff9ac56.json)
 
 [Extended Data](ext_articles/cff9ac56.ext.json)
+
+---
+
+### A Journey Of Courage & Pragmatism
+
+*2024-05-13 02:01:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-journey-of-courage-pragmatism/) · `en`
+
+Bandula Chandrasekara: The Author of “Asuwe Parapuren Sannaddawa”- [අසූවෙ පරපුරෙන් සන්නද්ධව ] A Journey of Courage and Pragmatism
+
+Bandula Chandrasekara – A name that symbolizes resilience, courage and relentless pursuit of one’s beliefs.  When I reflect on my school days, memories come flooding back of the boy who sat next to me at Royal College, wearing the iconic blue shorts that symbolized our junior school education.  From those early days, Bandula stood out as a bright light, embodying the school motto of *”Learn or Depart” in every aspect of his life.
+
+His journey described in his book *”Asuwe Parapuren Sannaddawa”* speaks of his unwavering determination and dedication to his ideals.  Although I am sad that I missed the book launch, I am proud to know that our 83 logo was represented there, along with notable figures like Keerthi, Panduka and Malinda Seneviratne, who started his  political journey with Bandula and Patali  Champika Ranawaka .
+
+...
+
+[Data](articles/719711fe.json)
 
 ---
 
@@ -1999,99 +2109,5 @@ This follows the appointment of new SLFP Chairman Wijeyadasa Rajapakshe.
 [Data](articles/a982b25f.json)
 
 [Extended Data](ext_articles/a982b25f.ext.json)
-
----
-
-### Love of a mom
-
-*2024-05-12 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Love-of-a-mom/110-282413) · `en`
-
-As the world commemorated Mother’s day yesterday there is a section of mothers in our society who have little to celebrate. Picture shows those mothers working hard on the streets of Colombo to earn a living for their families. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/335f4e31.json)
-
-[Extended Data](ext_articles/335f4e31.ext.json)
-
----
-
-### A rain over 100 mm millimeters today
-
-*2024-05-12 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196542) · `si`
-
-Heavy rain exceeding 100mm is expected today, with thundershowers in several areas in the evening. The Meteorological Department reports significant rainfall in Gampaha, Wattapitiya, and Palabaddala regions.
-
-🟩
-
-Thundershowers will occur at several places in the evening today (12).
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ මේ වනවිට ගම්පහ ප්‍රදේශයෙන් මිලිමීටර් 101ක වර්ෂාපතනයක්, වතුපිටිවල ආශ්‍රිතව මිලිමීටර් 98.5ක වර්ෂාපතනයක්, පලාබද්දල ප්‍රදේශය ආශ්‍රිතව මිලිමීටර් 81.5ක වර්ෂාපතනයක් වාර්තාවී ඇති බවය.
-
-The Meteorologist Shrahl Herath said the weather herath, who is expecting more than 100 millimeters in the Western, Sabaragamuwa, Central and Matara districts.
-
-◼️
-
-[Data](articles/8fd10511.json)
-
-[Extended Data](ext_articles/8fd10511.ext.json)
-
----
-
-### Indian Prime Minister Modi's controversy
-
-*2024-05-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183318) · `ta`
-
-Narendra Modi, the Indian Prime Minister, sparked controversy by stating that opposition parties, particularly the Congress, are uncomfortable with the truth being revealed. He questioned why they fear the truth, suggesting a defensive reaction to his candid remarks.
-
-🟩
-
-“Opposition parties, including Congress, are upset because I have spoken the truth. I have said that the Congress has said. Are they tense that the truth is revealed?Why are you afraid of the truth? ” - Narendra Modi
-
-◼️
-
-[Data](articles/97c39ab6.json)
-
-[Extended Data](ext_articles/97c39ab6.ext.json)
-
----
-
-### Kidnapping
-
-*2024-05-12 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183320) · `ta`
-
-Despite ample evidence of Tamil genocide, international justice remains elusive, leaving Tamil communities without peace for over a decade.
-
-🟩
-
-“Even though there were plenty of evidence of the genocide on the Tamils, it was brought to the attention of the international community, but the Tamil people have not received justice in these fifteen years.. There is no peaceful life ”
-
-◼️
-
-[Data](articles/77bc735f.json)
-
-[Extended Data](ext_articles/77bc735f.ext.json)
-
----
-
-### Japan
-
-*2024-05-12 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183332) · `ta`
-
-Japan, a close ally of Sri Lanka, has supported peace efforts during conflicts. The sixth phase of the Ranil Wickremesinghe government met with Japan in Hakone. Japan also appointed Yasushi Akashi as a special ambassador to Sri Lanka for peace and development.
-
-🟩
-
-Japan, which has a close friendship and development partner with Sri Lanka, has also contributed to efforts to bring peace during the war.
-
-With the LTTE, the sixth phase of the Ranil Wickremesinghe government was in Hakone, Japan.
-
-Similarly, Japan has also appointed its senior diplomat Yasushi Akashi as a special ambassador to Sri Lanka to provide peace and development in Sri Lanka.
-
-◼️
-
-[Data](articles/7cd845c1.json)
-
-[Extended Data](ext_articles/7cd845c1.ext.json)
 
 ---

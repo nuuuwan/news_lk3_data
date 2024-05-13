@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 09:52:48**
+As of **2024-05-13 10:04:32**
 
 ## Newspaper Stats
 
-*Scraped **23,618** Articles*
+*Scraped **23,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,285
 economynextcom | 1,351
 dailyftlk | 1,374
-adalk | 2,003
+adalk | 2,005
 adaderanalk | 2,755
 tamilmirrorlk | 2,765
 virakesarilk | 3,518
-dailymirrorlk | 3,716
-adaderanasinhalalk | 3,787
+dailymirrorlk | 3,718
+adaderanasinhalalk | 3,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,615 (100.0%) of 23,618 articles have been extended.
+23,618 (100.0%) of 23,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### රත්‍රං බවට සැක පුරාවස්තු තොගයක් පුත්තලමේ නිවසක
+
+*2024-05-13 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196565) · `si`
+
+කල්පිටිය, ආලන්කුඩා ප්‍රදේශයේ නිවසක නීතිවිරෝධී ලෙස ළඟ තබාගෙන සිටි පුරාවස්තු තොගයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+‍ලැබුණු තොරතුරකට අනුව, ශ්‍රී ලංකා නාවික හමුදාව සහ පුත්තලම පොලිස්  කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය එක්ව පසුගිය 11 වනදා සිදුකළ සොදිසි මෙහෙයුමක දී රත්‍රං බවට සැකකෙරෙන මෙම  පුරාවස්තුන් සොයාගෙන තිබුණි.
+
+පොලීසිය පැවසුවේ මෙම පුරාවස්තු නිවසේ සූක්ෂමව සඟවා තිබීය දී සොයා ගත් බවය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 34 හැවිරිදි කල්පිටිය ඒත්තාලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සැකකරු සහ පුරාවස්තු තොගය ඉදිරි නීතිමය කටයුතු සඳහා පුත්තලම පොලිස් කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය වෙත  භාරදී තිබේ.
+
+◼️
+
+[Data](articles/3219c905.json)
+
+---
 
 ### Illegal shoe imports costing Sri Lanka billions of rupees in annual tax revenue
 
@@ -50,39 +70,53 @@ Ada Derana learns that the country has incurred annual tax revenue losses of aro
 
 [Data](articles/2eb4fffb.json)
 
+[Extended Data](ext_articles/2eb4fffb.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-05-13 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196564) · `si`
 
-ඒ අනුව අද දින පෙරවරු 9.30ට පාර්ලිමේන්තුව රැස්වන අතර පෙරවරු 9.30 සිට 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර තිබේ.
+The Parliamentary Council starts today, addressing issues from 9:30 am to 10:30 am. The Customs Ordinance, under the Sri Lanka Export Development Act, will be presented for approval from 10:30 am to 5:00 pm, followed by a debate from 5:00 pm to 5:30 pm.
 
-පස්වරු 10.30 සිට පස්වරු 5.00 දක්වා ශ්‍රී ලංකා අපනයන සංවර්ධන පනත යටතේ නියෝගය, රේගු ආඥාපනත යටතේ යෝජනා සම්මතය, ආනයන අපනයන පනත යටතේ රෙගුලාසි අනුමත කිරීමට සහ සීමාසහිත ජය බහලුම් පර්යන්තයේ වාර්ෂික වාර්තාව විවාදයකින් තොරව අනුමත කිරීමට පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+🟩
 
-පස්වරු 5.00 සිට පස්වරු 5.30 දක්වා සභාව කල්තබන අවස්ථාවේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+Accordingly, Parliament will meet to meet the issues for questions expected from 9.30 am to 10.30 am today.
+
+The Customs Ordinance under the Sri Lanka Export Development Act from 10.30am to 5.00 pm is to be presented to the Customs Ordinance to Parliament to approve the regulations under the Import and Reporting.
+
+The debate is scheduled to be held from 5.00 pm to 5.30 pm.
 
 ◼️
 
 [Data](articles/4f99933e.json)
 
+[Extended Data](ext_articles/4f99933e.ext.json)
+
 ---
 
-### තවත් මළ සිරුරක්
+### Another dead body
 
 *2024-05-13 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196563) · `si`
 
-ගිරිඋල්ල පොලිස් වසමේ කජුවැටියවත්ත කුඹුරේ තිබී නාඳුනන පිරිමි මළ සිරුරක් හමුව තිබේ.
+A man's unidentified body, aged 50-60, found naked in Kaguwallewatte, Giriulla Police Division. Police investigating, body at Kuliyapitiya Hospital.
 
-මරණකරුගේ අනන්‍යතාවය මෙතෙක් අනාවරණය කරගෙන නොමැති අතර, වයස අවුරුදු 50ත් - 60ත් අතර වයසේ පසුවන අයෙකු බවට පොලීසිය සැකපළ කරයි.
+🟩
 
-නිරුවත් මළ සිරුර හඳුනාගත නොහැකි මට්ටමට විකෘති වී ඇතැයි ද පොලීසිය සඳහන් කරයි.
+A dead body of a man found found in the Giriulla Police Division in Kaguwallewatte.
 
-මෘත ශරීරය කුලියාපිටිය රෝහලේ තැන්පත් කර ඇති අතර, ගිරිඋල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The identity of the deceased has not been revealed yet, and the police are in charge of age 50 to 60 years old.
+
+The naked body has distorted the unidentified level, police said.
+
+The body has been placed at the Kuliyapitiya Hospital while the Giriulla Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/595c3bdf.json)
+
+[Extended Data](ext_articles/595c3bdf.ext.json)
 
 ---
 
@@ -113,6 +147,50 @@ In the meantime, Sujit Fernando and his wife Dylani Kiza, the main suspect, were
 [Data](articles/ad3d9bd7.json)
 
 [Extended Data](ext_articles/ad3d9bd7.ext.json)
+
+---
+
+### Due to low-level atmospheric disturbance, 100mm rain likely after 1p.m
+
+*2024-05-13 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Due-to-low-level-atmospheric-disturbance-100mm-rain-likely-after-1p-m/108-282460) · `en`
+
+Colombo, May13 (Daily Mirror) - Due to a low-level atmospheric disturbance, more than 100 mm of rain can be expected after 1 p.m. in the Western, Sabaragamuwa, Central, North-Western and Uva Provinces and in the  Galle and Matara districts, the forecasting division of the National Meteorological Centre said.
+
+They said the showery condition is expected to enhance during the next few days.
+
+Accordingly, thundershowers will occur at several places in most provinces of the island after 1 p.m.
+
+Meanwhile, showers may occur at a few places in the coastal areas of the Eastern and Southern Provinces during the morning.
+
+However, misty conditions can be expected at some places in the Western, Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/e55dc820.json)
+
+---
+
+### Girlfriend arrested over Kuliyapitiya youth murder
+
+*2024-05-13 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Girlfriend-arrested-over-Kuliyapitiya-youth-murder/108-282455) · `en`
+
+Kuliyapitiya, May 13 (Daily Mirror) - An 18-year-old girl, the girlfriend of the youth from Kuliyapitiya who was allegedly murdered while visiting the girl's house in Kuliyapitiya, has been arrested.
+
+Police said the suspect has been arrested on charges of aiding and abetting the murder and concealing the crime.
+
+The body of the youth, who had gone missing while visiting his girlfriend’s house, was recovered in the Panirendawa area of Madampe last week.
+
+On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya.
+
+Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
+
+Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
+
+Earlier, the father and mother of the girlfriend were arrested and remanded over the murder.
+
+◼️
+
+[Data](articles/e338e739.json)
 
 ---
 
@@ -1702,6 +1780,22 @@ Only the wedding artists have the opportunity to go to Korea without an exam.The
 
 ---
 
+### දන්සල්වලට අවසර ගැනීම අනිවාර්යයි
+
+*2024-05-12 20:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්වලට-අවසර-ගැනීම-අනිවාර්යයි/11-409583) · `si`
+
+වෙසක් සමයේ දන්සැල් පැවැත්වීමට බලාපොරොත්තුවන ප්‍රදේශයන්හි සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අයත් මහජන සෞඛ්‍ය පරීක්ෂකවරයා  ලිඛිතව දැනුම්වත් කොට අවසර ලබාගැනීමකින් අනතුරුව දන්සැල් පැවැත්වීම අනිවාර්ය වන අතර එසේ නොකරන පාර්ශ්වයන්ට එරෙහිව නීතිය ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව මේ සඳහා මහජන සෞඛ්‍ය පරීක්ෂකවරුන් 1800ක් පමණ දෙනෙකුගේ සහභාගිත්වයෙන් ජනතාව දැනුම්වත් කිරීමේ වැඩපිළිවෙළක් ක්‍රියාත්මක වන අතර දන්සැල් පැවැත්වීමේදී අනුගමනය කළ යුතු ක්‍රියාමාර්ග පිළිබඳ එහිදී ඔවුන් අදාළ උපදෙස් ලබා දීමට නියමිතය.
+
+මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කරමින් මහජන සෞඛ්‍ය පරීක්ෂක සඳුන් රත්නායක මහතා සඳහන් කර සිටියේ දන්සැලක් පැවැත්වීමට ස්ථානයක් තෝරා ගැනීම, ආහාර ද්‍රව්‍ය තෝරා ගැනීම, ආහාර සකස් කිරීමට යොදාගන්නා උපකරණ, ආහාර පිසින පුද්ගලයන්ගේ සෞඛ්‍ය තත්ත්වය, ආහාර පිළිගන්වන පුද්ගලයන්ගේ සෞඛ්‍ය තත්ත්වය, දන්සැල් කටයුතු අවසන් කිරීම යනාදී කරුණු සම්බන්ධයෙන් අදාළ දැනුම්වත් කිරීම් සිදුකර ඊට අනුගතවන්නේ නම් පමණක් දන්සැල් පැවැත්වීමට අනුමැතිය ලබා දෙන බවයි.
+
+◼️
+
+[Data](articles/3c12102a.json)
+
+---
+
 ### If the government requests the Government of Russia, Sri Lankans imported in a week
 
 *2024-05-12 19:57:22* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ඉල්ලීමක්-කළොත්-රුසියාවේ-හමුදා-සේවයට-ගිය-ලාංකිකයන්-සතියකින්-ගෙන්වනවා/11-409582) · `si`
@@ -1743,6 +1837,28 @@ The first six days of the examination has been completed and several other subje
 [Data](articles/50400dac.json)
 
 [Extended Data](ext_articles/50400dac.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාර වන්දියෙන් මෛත්‍රී තවත් රු.මි. 28ක් ගෙවයි
+
+*2024-05-12 19:50:11* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-වන්දියෙන්-මෛත්‍රී-තවත්-රු-මි--28ක්-ගෙවයි/11-409581) · `si`
+
+පාස්කු ප්‍රහාරයේ වින්දිතයන්ට වන්දි ලෙස 'පාස්කු ප්‍රහාරය අප්‍රේල් 2019 - වින්දිත අරමුදල' යන නමින් ස්ථාපිත අරමුදල සඳහා තවත් රුපියල් මිලියන 28ක් බැර කර තිබේ.
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පසුගිය 22 වැනිදා රුපියල් මිලියන 15ක් සහ පසුගිය 30 වැනිදා රුපියල් මිලියන 13ක් ලෙස මෙම මුදල බැර කර ඇත.
+
+ඒ අනුව මේ දක්වා ගෙවීමට නියමිත රුපියල් කෝටි 10ක මුදලින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා රුපියල් මිලියන 43ක් ගෙවා අවසන් කර තිබේ.
+
+මෙම මුදල් බැර කිරීමත් සමග පසුගිය අප්‍රේල් 30 වැනිදා වන විට මෙම අරමුදල සඳහා රුපියල් 64,825,588.87ක් බැර කර ඇත.
+
+පාස්කු ප්‍රහාරයේ වින්දිතයන්ට වන්දි ලෙස හිටපු ජාතික බුද්ධි ප්‍රධානී සිසිර මෙන්ඩිස් මහතා ගෙවීමට නියමිතව තිබූ රු.මි.10ක මුදල මේ වන විට ගෙවා අවසන් කර ඇති අතර, හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු මහතාට ගෙවීමට නියමිත රුපියල් මිලියන 50ක මුදලින් අවස්ථා 4දී රුපියල් මිලිය 05ක් ගෙවා අවසන් කර තිබේ.
+
+මීට අමතරව හිටපු පොලිස්පති පූජිත් ජයසුන්දර රුපියල් 1,725,588.87ක්ද, රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතා රුපියල් මිලියන 4.1ක්ද මේ දක්වා ගෙවා ඇත.
+
+...
+
+[Data](articles/86444e3b.json)
 
 ---
 
@@ -2073,103 +2189,5 @@ The people living in these areas should be aware of this and the organization sa
 [Data](articles/2f4b9427.json)
 
 [Extended Data](ext_articles/2f4b9427.ext.json)
-
----
-
-### $ 10 kilometers find 34 kg
-
-*2024-05-12 18:46:31* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-10-අම්බර්-කිලෝ-34-ක්-සොයා-ගනී/11-409576) · `si`
-
-CID officers arrested five suspects linked to a massive gold haul found in a raid. The gold, weighing 34 kg, was discovered in a fishing vessel off the coast of Puttalam. The suspects, including Kandiliya fishermen, were taken into custody for further investigation. The case is being handled by the CID's Investigation Bureau, with the suspects expected to be produced in court at the end of the investigation.
-
-🟩
-
-Five suspects have been arrested by the CID officers who were in charge of Rs.
-
-According to Wanathavilluwa, Puttalam Planters said that the massive hember was found in the rallid of the CID.
-
-Despite the stock of pins, Kandiliya fishermen were placed in a fishing vessel and was placed in a fishing vessel.
-
-However, it is said that the house was raided the house on the information received on the stock, he said he was covered with security in the back.
-
-A phrase known as the whale vomiting says that big gold has a similar price.
-
-However, five people arrested with the suspects and the suspects who were brought to the sea with the suspects and the suspects of the suspects were taken into custody.
-
-The CID Marketing Bureau of Police Inspector General Inspector General (CID) Investigation Bureau of Police Inspector General of Police (CID) Master Inspector General of Investigation Bureau October, October Officers and Officers have started further investigations.
-
-...
-
-[Data](articles/067846df.json)
-
-[Extended Data](ext_articles/067846df.ext.json)
-
----
-
-### Environmental leaders of tomorrow
-
-*2024-05-12 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Environmental-leaders-of-tomorrow/110-282418) · `en`
-
-A workshop organised by the National Youth Services Council (NYSC) was held in Gampaha today. Senior Presidential advisor Ruwan Wijewardene participated in the programme as the chief guest. NYSC Chairman Pasindu Gunaratne was also present. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/d005501c.json)
-
-[Extended Data](ext_articles/d005501c.ext.json)
-
----
-
-### Did Sajith make a messenger?
-
-*2024-05-12 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183337) · `ta`
-
-Sajith Premadasa, during the 13th Amendment implementation, did not communicate with Tamil parties or send Mano Ganesan, indicating he didn't create a messenger.
-
-🟩
-
-“When the 13th Amendment is trying to implement, Sajith Premadasa does not have to speak to anyone. The Tamil parties are not to be called. There is no need to send Mano Ganesan. ”
-
-◼️
-
-[Data](articles/da1a081e.json)
-
-[Extended Data](ext_articles/da1a081e.ext.json)
-
----
-
-### In the boil
-
-*2024-05-12 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183335) · `ta`
-
-Western environmentalists oppose deforestation and development on the Nicobar Islands, disrupting tribal life.
-
-🟩
-
-Environmental protection activists of the West, especially internationally, are strongly opposed to the deforestation and development of the Nicobar Islands. Strict web articles have been published by the disruption of the lives of tribal people living in these islands.
-
-◼️
-
-[Data](articles/bcb218bd.json)
-
-[Extended Data](ext_articles/bcb218bd.ext.json)
-
----
-
-### Crossroad
-
-*2024-05-12 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183334) · `ta`
-
-The Tamil general candidate's trust issue is gaining public interest, seen as a positive sign.
-
-🟩
-
-“The issue of Tamil general candidate is now a trusted - the people are starting to become a matter of interest among the people. This is a good omen ”
-
-◼️
-
-[Data](articles/84c566a5.json)
-
-[Extended Data](ext_articles/84c566a5.ext.json)
 
 ---

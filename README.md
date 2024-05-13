@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 14:04:42**
+As of **2024-05-13 14:18:21**
 
 ## Newspaper Stats
 
-*Scraped **23,685** Articles*
+*Scraped **23,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,012
-adaderanalk | 2,764
+adaderanalk | 2,766
 tamilmirrorlk | 2,776
 virakesarilk | 3,527
 dailymirrorlk | 3,729
@@ -26,27 +26,67 @@ adaderanasinhalalk | 3,798
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,677 (100.0%) of 23,685 articles have been extended.
+23,685 (100.0%) of 23,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### வினாத்தாள் சர்ச்சை;அமைச்சர் விளக்கம்
+### Edu. Minister responds to concerns over O/L English and Science papers
+
+*2024-05-13 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99185/edu-minister-responds-to-concerns-over-ol-english-and-science-papers) · `en`
+
+In response to the concerns raised surrounding the alleged irregularities pertaining to the 2023 (2024) G.C.E. Ordinary Level examination’s English and Science question papers, Minister of Education Susil Premajayantha affirmed that measures will be taken to prevent any injustices to the affected students.
+
+Replying to a question raised by Member of Parliament Rohini Kaviratne during today’s parliamentary session, Premajayantha further stated a final decision will be made regarding the matter following discussions with the panel responsible for preparing the O/L science paper.
+
+The Education Minister emphasized that the Commissioner General of the Department of Examinations has issued a statement on the matter. He also confirmed that the panel will adjust the marking scheme appropriately to ensure fairness for students.
+
+Furthermore, he pledged necessary measures to provide relief to students who may have been affected by irregularities in the O/L English paper.
+
+◼️
+
+[Data](articles/9cb453f3.json)
+
+---
+
+### Questionnaire Controversy; Minister's description
 
 *2024-05-13 13:44:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-சர்ச்சை-அமைச்சர்-விளக்கம்/175-337234) · `ta`
 
-க.பொ.த சாதாரண தர (சா/த) விஞ்ஞானம் மற்றும் ஆங்கில பாட வினாத்தாள் தொடர்பான சர்ச்சையை தெளிவுபடுத்திய கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, எந்தவொரு மாணவர்களுக்கும் அநீதி ஏற்படாதவாறு நடவடிக்கை எடுப்பதாக இன்று தெரிவித்தார்.
+Minister Susil Premajayantha addressed the controversy over the GCE Ordinary Level Science and English Course Questionnaire, promising to prevent student injustice. He acknowledged issues with the questionnaires and the Dental Questionnaire, stating that the organizers would make a final decision. MP Rohini Kumari Gaviratne criticized the changes to this year's English questionnaire, arguing it's unfair for rural students lacking trained English teachers. The Minister assured that the Commissioner of Examinations would address these concerns in the score program preparation.
 
-ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் ரோஹினி குமாரி கவிரத்னவின் கேள்விக்கு பதிலளித்த அவர், வினாத்தாளின் பல  கேள்விகளிலும் பல் தேர்வு வினாத்தாளிலும் (MCQ) சிக்கல்கள் பதிவாகியுள்ளன என்றும், வினாத்தாள் அமைப்பாளர்கள் கூடி சம்பவம் குறித்து இறுதி முடிவு எடுக்கப்பார்கள் என்றும் தெரிவித்தார்.
+🟩
 
-இந்த ஆண்டு ஆங்கில வினாத்தாள் கட்டமைப்பில் மாற்றம் செய்யப்பட்டுள்ளதாகவும், பயிற்சி பெற்ற ஆங்கில ஆசிரியர்கள் இல்லாத கிராமப்புறங்களில் உள்ள பெரும்பாலான மாணவர்களுக்கு இது நியாயமற்றது என்றும் எம்.பி.கவிரத்ன தெரிவித்தார்.
+Minister of Education Susil Premajayantha, who clarified the controversy on the GCE Ordinary Level (S/D) Science and English Course Questionnaire, said he would take action to prevent any injustice to any students.
 
-மாணவர்களுக்கு எந்த வித அநீதியும் ஏற்படாத வகையில், வழக்கமான மாதிரி தயாரித்த பிறகு மதிப்பெண் திட்டத்தை தயாரிக்கும் போது, ​​இந்த விடயங்கள் குறித்து விசேட கவனம் செலுத்துவதாக பரீட்சைகள் ஆணையாளர் உறுதியளித்துள்ளதாக அமைச்சர் தெரிவித்தார்.
+Responding to a question by United People's Power MP Rohini Kumari Gaviratne, he said that the issues of the questionnaire and the Dental Questionnaire (MCQ) have been reported and that the questionnaire organizers will take a final decision on the incident.
+
+MP Gavaratne said that this year's English questionnaire has been changed and this is unreasonable for most of the students in rural areas with no trained English teachers.
+
+The Minister said that the Commissioner of Examinations has promised to pay special attention to these issues when preparing the score program after preparing a regular sample.
 
 ◼️
 
 [Data](articles/37653431.json)
+
+[Extended Data](ext_articles/37653431.ext.json)
+
+---
+
+### School sports coaches to receive teaching appointments?
+
+*2024-05-13 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99184/school-sports-coaches-to-receive-teaching-appointments) · `en`
+
+Minister of Education Susil Premajayantha announced plans to recruit sports coaches, previously appointed to non-academic positions in schools from National Colleges of Education (NIEs), into the teaching service.
+
+“Sports teachers were usually selected from the National Colleges of Education. Previously, approximately 3,000 individuals were recruited to serve as sports coaches. However, rather than being placed in teaching roles, they were assigned to non-academic staff positions. If these individuals meet the qualifications required for teaching service, appropriate measures will be taken to appoint them to teaching positions accordingly”, he assured.
+
+Furthermore, the Education Minister also commented regarding the issues pertaining to the recruitment of English Language teachers.
+
+...
+
+[Data](articles/990a122d.json)
 
 ---
 
@@ -63,6 +103,8 @@ The Health Trade Union Alliance confirmed its intention to spread the strike to 
 ...
 
 [Data](articles/00fb0ea5.json)
+
+[Extended Data](ext_articles/00fb0ea5.ext.json)
 
 ---
 
@@ -98,29 +140,37 @@ Tensions escalated near the Diyatha Uyana Junction in Battaramulla as police res
 
 [Data](articles/8bb3dfa4.json)
 
+[Extended Data](ext_articles/8bb3dfa4.ext.json)
+
 ---
 
-### රුසියානු යුද බිමේ සිටින ලාංකිකයින් කළ සංවේදී හෙළිදරව්ව
+### The Sri Lankans on the Russian battlefield
 
 *2024-05-13 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196575) · `si`
 
-රුසියානු  - යුක්‍රේන කුලී හමුදාවන්ට එක්ව සිටින ශ්‍රී ලාංකිකයින් පත්ව සිටින දුෂ්කරතා පිළිබඳ පසුගිය දිනවල අවස්ථා රැසක තොරතුරු වාර්තා වුණි.
+Sri Lankans in Russia-Ukraine conflict face hardships, including unpaid wages and economic desperation. High-ranking military officials allegedly involved in human trafficking. Over 500 casualties reported. Economic issues drive recruitment, with no clear numbers of Sri Lankans involved.
 
-එවන් වාතාවරණයක තවත් එවැනිම ශ්‍රී ලාංකිකයින් දෙදෙනකු රුසියාවේ යුද බිමේ සිට සිය අත්දැකීම් "අද දෙරණ" ට ප්‍රකාශ කළේය.
+🟩
 
-2022 පෙබරවාරි 24 වැනිදා රුසියානු හමුදා යුක්‍රේන භූමිය ආක්‍රමණය කිරීමත් සමග දෙරටේ යුද වැදීම සඳහා විවිධ රටවලින් කුලී හේවායන් බඳවා ගනු ලැබුවේ ඉහළ වැටුප් සහ රුසියානු පුරවැසිභාවය වැනි වරප්‍රසාද ලබාදෙන බවට පවසමිනි.
+Sri Lankans who have joined the Russian - Ukrainian merchants have been reported recently on difficulties.
 
-ශ්‍රී  ලාංකික විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්ද විශාල පිරිසක් එලෙස රුසියාව බලා පිටත්ව ගොස් තිබිණි.
+Two other similar Sri Lankans have told Ada Derana from the war in Russia.
 
-ත්‍රිවිධ හමුදාවේම සේවය කළ ඉහළ තනතුරු දැරූ පිරිසක් විසින් මෙම මිනිස් ජාවාරම සිදුකර තිබූ බවට මේ වනවිට කරුණු අනාවරණ වී තිබේ.
+As the Russian troops invade the Ukraine, 2022, the two countries were recruited from various countries to warn the two countries to give privileges of high wages and Russian citizenship.
 
-කෙසේ වෙතත් එලෙස රුසියානු යුක්‍රේන යුද්ධය සඳහා ගොස් සිටින ශ්‍රී ලාංකිකයන් පිරිස මෙතෙක් නිෂ්චිත වශයෙන් හඳුනාගෙන නොමැති අතර යුද්ධයට මැදිවූ බොහෝ පිරිසකගේ ජීවිත මේවනවිටත් අහිමිවී ඇතැයි තොරතුරු වාර්තා වේ.
+A large number of Sri Lankan retired armed forces left for Russia.
 
-මේ එලෙස රුසියාව බලා පිටත්ව ගිය ශ්‍රී ලාංකික ලෙබළුන් යුද බිමේ සිට 'අද දෙරණ' ට කළ හෙළිදරව්ව...
+It has been revealed that the human racket had been carried out by a group of high positions in the armed forces.
+
+However, the number of Sri Lankans who have gone for the Russian Ukrainian war have not been identified yet.
+
+Sri Lankan Lebscribes who were departed to Russia from the battlefield from the battlefield to Ada Derana
 
 ...
 
 [Data](articles/fa9d22e9.json)
+
+[Extended Data](ext_articles/fa9d22e9.ext.json)
 
 ---
 
@@ -252,17 +302,25 @@ Pastole Jerome Fernando has been arrested by the Chief Justice Jayantha Jayasuri
 
 ---
 
-### අගමැතිට යොමු කළ ප්‍රශ්නයට  අගමැතිගෙන් ප්‍රශ්නයක්
+### Prime Minister questions to the Prime Minister's question
 
 *2024-05-13 13:04:33* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිට-යොමු-කළ-ප්‍රශ්නයට--අගමැතිගෙන්-ප්‍රශ්නයක්/11-409591) · `si`
 
-ප්‍රජා උපදේශක කමිටු පිහිටුවීමේ චක්‍ර ලේඛයේ කිසි තැනක එහි සාමාජිකයන් ලෙස පළාත් පාලන ඡන්දයට තරඟ කරන අපේක්ෂකයන් පත්කිරීම ගැන සඳහන් නොවන බවද රට පුරා විශ්‍රාම ගිය ඉංජිනේරුවරු, කාර්මික නිලධාරින්, විවිධ වෘත්තීන්වල අය ආදී ප්‍රයෝගික දැනුමක් ඇති ග්‍රාමීය නායකයන්ගේ සහාය රටේ සංවර්ධනය සඳහා යොදාගැනීම මෙහිදී සිදු කෙරෙන බවද අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අවධාරණය කළේය. පළාත් සභාවේ සිටින උගත්, වගකීම් සහගත අයද යොදාගන්නා බව කී අග්‍රාමාත්‍යවරයා, එසේ නොකරන ලෙස විපක්ෂය ප්‍රකාශ කරන්නේද යන්න ප්‍රශ්න කළේය.
+Prime Minister Dinesh Gunawardena addressed concerns about the development of local government leaders and the establishment of Community Advisory Committees. He highlighted the importance of educated and responsible individuals in provincial councils and the resumption of development projects. The Prime Minister also mentioned decentralized finance and the role of the central government in these projects. He responded to questions from MP Dayasiri Jayasekera and Chief Opposition Whip Lakshman Kiriella, emphasizing the government's efforts to implement approved budgets and inviting opposition participation.
 
-වසර දෙකක් පමණ ඇණහිට තිබූ සංවර්ධන ව්‍යාපෘති නැවත ආරම්භ කිරීමට අයවැයෙන් ඉඩ සැලසූ බව පැවසූ ඔහු, සංවර්ධන කමිටුවලට සහභාගී වූ ඉල්ලීම්, යෝජනා  ඉදිරිපත් කළ සියලු මන්ත්‍රීවරුන්ට විමධ්‍යගත මුදල්, පළාත් සභා මුදල්, මධ්‍යම ආණ්ඩුවේ ව්‍යාපෘති ලබාදී ඇති බවද සඳහන් කළේය.
+🟩
+
+Prime Minister does not mention the development of the local government leaders who have retired from the Circular Committee of Community Advisory CommitteesDinesh Gunawardena emphasized. The Prime Minister said that the educated and responsible and responsible beneficiaries in the provincial council asked whether the opposition would not do so.
+
+He said that he had led the development projects that were resumed for about two years and the decentralized finance, decentralized finances, the decentralized finance, provincial councils, the central government projects.
+
+Prime Minister Dinesh Gunawardena stated that it was not the case with the Leader of the Provincial Council today due to the Leader of the Leader of the Provincial Council today.. The former Pradeshiya Sabha members questioned the country and questioned the opposition to the import of them.
 
 ...
 
 [Data](articles/1c73d48e.json)
+
+[Extended Data](ext_articles/1c73d48e.ext.json)
 
 ---
 
@@ -294,37 +352,55 @@ Heavy rains have been submerged in flooding and vehicles have been swept away in
 
 ---
 
-### කොළඹ දෙහි කිලෝව 2000යි රජරට දෙහි විකුණගන්නත් බෑ
+### 2000 kg of Colombo Lime, he can't sell the Rajarata Lime
 
 *2024-05-13 12:55:01* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දෙහි-කිලෝව-2000යි-රජරට-දෙහි-විකුණගන්නත්-බෑ/11-409590) · `si`
 
-රජරට ප්‍රදේශයේ හටගන්නා ආර්ථික භෝග විශාල වශයෙන් ආර්ථික වටිනාකමක් නොමැතිව ගස් යට වැටී යන බවත්, එම බෝග නාගරික ප්‍රදේශවල  සුවිශාල මිල ගණන් යටතේ අලෙවි කෙරෙන බවත්, ගොවියා මරා ගෙන කන අතරමැදි මාෆියාව වහා නතර කිරීමට රජයේ පියවර ගත යුතු බව ජාතික පාරිභෝගික පෙරමුණේ නායක අසේල සම්පත් මහතා පවසයි.
+Asela Sampath, leader of the National Customer Front, highlighted the government's role in promoting Rajarata crops, citing issues with selling Colombo Lime and the need for price controls to support farmers and consumers.
 
-ඒ මහතා මේ බව සඳහන් කලේ ඊයේ (12දා) තලාව ප්‍රාදේශීය ලේකම් කාර්යාලයේ පැවති වැඩ සටහනකට සහභාගි වීමෙන් අනතුරුව මධ්‍ය වෙත අදහස් දක්වමින්ය.
+🟩
 
-"රජරට ප්‍රදේශයේ තිබෙන ආර්ථික භෝග විශාල වශයෙන් ආර්ථික වටිනාකමක් නොමැතිව ගස්යට වැටී යනවා, එම බෝග නාගරික ප්‍රදේශවල  සුවිශාල මිල ගණන් යටතේ අලෙවි කෙරෙනවා එයට උදාහරණයක් ලෙස ගත්විට කොළඹ ප්‍රදේශයේ දෙහි කිලෝවක් රුපියල් 2000කට අලෙවි වනවා. එහෙම අලෙවින් වෙන කොට, එම දෙහි කිලෝ එක අනුරාධපුරයේ රුපියල් 50ත් අලෙවි කිරීමට නොහැකිව තිබෙනවා. ගලෙන්බිඳුනුවැව  පැත්තේ දෙහි ගස් යට වැටිලා තිබෙනවා  අපි දැක්කා.
+National Customer Front Leader Asela Sampath said the government's steps should be taken to the trees in the promotion of the crops in the Rajarata area..
+
+He was speaking at a program held at the Talawa Divisional Secretariat yesterday (12).
+
+"Economic crops in Rajarata area fall to trees without great economic value.. Similarly, the lime has not been unable to sell and sell Rs. We have seen we have fallen under the lime trees on the side of Galenbindunuwewa.
+
+There are a Samurdhi officers, there are Samurdhi officers on the Divisional Secretariat, there are the economic crops of their administrative officers, and how to make a systematic program.
+
+That's why, today a kilo of ginger has fled Rs 4000 and this is the true
+
+Get Rs.. The Thambuththegama Economic Center is now large in the Rajarata area, and the Tambuttegama Economic Center yesterday, a kilogram of mangoes, do not sell a fair price at Rs. 500.
 
 ...
 
 [Data](articles/d32b4ef1.json)
 
+[Extended Data](ext_articles/d32b4ef1.ext.json)
+
 ---
 
-### වලංගු බලපත් නොමැතිව පවත්වාගෙන ගිය ෆාමසි වටලයි
+### Pharmacy raided
 
 *2024-05-13 12:47:04* · [`adalk`](https://www.ada.lk/breaking_news/වලංගු-බලපත්-නොමැතිව-පවත්වාගෙන-ගිය-ෆාමසි-වටලයි/11-409589) · `si`
 
-වලංගු බලපත් නොමැතිව ගම්පහ නගරයේ පවත්වාගෙන ගිය බව කියන  ඔසුසල් දෙකක් සම්බන්ධයෙන් නීතිමය පියවර ගනු ලැබූ බව ගම්පහ දිස්ත්‍රික් ආහාර හා ඖෂධ පරීක්ෂක ඒකකය සදහන් කරයි.
+Gampaha District Food and Drugs Unit raided two unlicensed pharmacies. The Secretary of the Sri Lanka Food and Drugs Association noted discrepancies in the assessment of pharmacists. The Food and Drugs Inspector legalized a pharmacy without certified pharmacists on Gampaha-Ja-Easwela road.
 
-එම ඔසුසල් දෙක පරීක්ෂාවට ලක් කළ අවස්ථාවේදී ඒවායෙහි සහතික ලත් ඖෂධවේදීන් නොවූ බව පැවසූ ශ්‍රී ලංකා ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමයේ ලේකම් නීතීඥ වික්‍රමසේකර බණ්ඩාර මහතා , එම ඔසුහල් දෙකෙහි හිමිවරුන්ට එරෙහිව අධිකරණමය ක්‍රියා මාර්ග ගනු ලැබූ බවද වාර්තාවේ.
+🟩
 
-මේ අතර සහතික ලත් ඖෂධවේදීන් නොමැතිව ගම්පහ - ජාඇල මාර්ගයේ  පවත්වාගෙන ගිය ඔසුසලක් සම්බන්ධයෙන්ද නීතිමය පියවර ගනු ලැබූ පැවසූ ආහාර හා ඖෂධ පරීක්ෂකවරයා , එම ඔසුසලෙහි කල් ඉකුත්වූ ඖෂධ අලෙවිය සඳහා තිබූ බවද සදහන් කළේය.
+The Gampaha District Food and Drugs Unit, the Gampaha District Food and Drugs Unit said the legal action had been taken regarding the two pharmacies in Gampaha without valid licenses.
 
-ගම්පහ දිස්ත්‍රික් ආහාර හා ඖෂධ පරීක්ෂකවරුන්වන නීතීඥ වික්‍රමසේකර බණ්ඩාර සහ ඩී.එම්.වයි.රවීන්ද්‍ර යන මහත්වරුන් විසින් වැටලීම් සිදු කොට ඇති අතර නියම කරනු ලබන දිනකදී ගම්පහ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත්වීමට යටත්ව එම ඔසුසල්කරුවන් බැඳුම්කර ඇප මත මුදා හැර තිබේ.
+The Secretary of the Sri Lanka Food and Drugs Association, the Secretary of the Sri Lanka Food and Drugs Association, said that the assessed pharmacists were not the inspected pharmacologists.
+
+Meanwhile, the Food and Drugs Inspector of the Food and Drugs who have legalized a pharmacy has been legalized on the Gampaha-Ja-Easwela road without certified pharmacists.
+
+The raids were carried out by the Gampaha District Food and Drugs Inspectors, Gampaha District Food and Drugs.
 
 ◼️
 
 [Data](articles/1fa83c30.json)
+
+[Extended Data](ext_articles/1fa83c30.ext.json)
 
 ---
 
@@ -904,21 +980,29 @@ Mahinda Rajapakse issued a statement that the recommendation came amid increasin
 
 ---
 
-### 41වසරක් පුරා දුන් ලේ දන්සැල
+### 41 Blood Dansala
 
 *2024-05-13 10:58:43* · [`adalk`](https://www.ada.lk/breaking_news/41වසරක්-පුරා-දුන්-ලේ-දන්සැල/11-409587) · `si`
 
-ආරච්චිකට්ටුව කරුක්කුලිය ශ්‍රී ජයතිලකාරාම විහාරස්ථ දායක සභාව විසින් වරෂයක් පාසා නොකඩවා සංවිධානය කරනු ලැබූ  ලේදන්දීමේ වැඩසටහන් මෙවරත් 41 වෙනි වරට එම විහාරස්ථානයේදී අද (13) පැවැත්වීය.
+The Arachchikattiya Sri Jayathiraniya Sri Jayathimarama Vidyalaya hosted a significant event, the 41st Blood Dansala, with 113 donors participating. The event included a Bodhi Pooja ceremony and the Karukkuliya Jayathilama Subscriptioning Program, attended by various dignitaries and a large crowd.
 
-මෙහිදී ලේදන්දීම සඳහා පරිත්‍යාගශීලි දායකයින් 113දෙනෙකු ඉල්ලීම් සිදුකර තිබූ අතර ඉන් 110 නෙකුට ලේදන්දීම සඳහා අවස්ථාව ලැබුනි. එහිදී  ස්වාමීන් වහන්සේ කීප නමක්ද ලේදන්දීම විශේෂයක්  විය.
+🟩
 
-එදින සවස ප්‍රදේශ වාසීන්ට හා මුලු රටටම සෙත්පතා බෝධිපූජාමය ආශීරවාද පිංකමක් පැවැත්වූහ.
+The Arachchikattiya Sri Jayathiraniya Sri Jayathimarama Vidyalaya has organized a papatory contributor to the 41th this year.
 
-මයියාව විහාර පරම්පරාවේ අධිපති ශාෂනාරක්ෂක බලමණ්ඩලයේ ලේඛකාධිකාරී කරුක්කුලිය ජයතිලකාරාමාධිපති පූජ්‍ය නවදනකුලමේ මේදානන්දාභිධාන නායක ස්වාමීන්වහන්සේගේ අවවාද අනුශාෂනා වලට අනුකූලව කරුක්කුලිය ජයතිලකාරාම දායක සභාව විසින් මෙම ලේදන්දීමේ වැඩසටහන සංවිධානය විය.
+113 donors have been requested for the vehicles. The Lord was a 40-month-old name.
 
-...
+The Bodhi Pooja held a bodhi tree promoted to the area.
+
+The Karukkuliya Jayathilama Subscriptioning Program was organized by the Karukkuliya Jayathankulamarashaya of Meetanankulamaya Ven.
+
+Chilaw Padavi Radagasiri Radagasiri Jayasuriya, Assistant Regulatory Registrar Assistant Arachchikattuwa, Assistant Registrar Assistant Authority, Ven. M. P. Mr. Herath, Arachchikattuwa Divisional Secretary T. it. K. Mrs. Chandrika, including a large number of people attended. (Ij)
+
+◼️
 
 [Data](articles/68e35868.json)
+
+[Extended Data](ext_articles/68e35868.ext.json)
 
 ---
 
@@ -2245,49 +2329,5 @@ It has also requested information if the subject minister had obtained a study r
 [Data](articles/5c084048.json)
 
 [Extended Data](ext_articles/5c084048.ext.json)
-
----
-
-### Sobitha Thera claims 10 dual citizen MPs in Parliament
-
-*2024-05-13 02:27:47* · [`dailyftlk`](https://www.ft.lk/news/Sobitha-Thera-claims-10-dual-citizen-MPs-in-Parliament/56-761716) · `en`
-
-Calls for immediate resignations of all MPs holding dual citizenship prior to polls
-
-Refrains from disclosing names and warns to take legal action if they do not voluntarily step down soon
-
-Urges party leaders to be vigilant in selecting candidates going forward and to reveal dual citizens among their ranks
-
-Says MPs with dual citizenship lack loyalty and are motivated by personal gain alone
-
-VEN. Omalpe Sobitha Thera yesterday called for the immediate resignation of all parliamentarians holding dual citizenship.
-
-He asserted that there are approximately 10 MPs with dual citizenship currently serving in Parliament and emphasised the necessity for them to step down before the upcoming elections.
-
-...
-
-[Data](articles/9914a759.json)
-
-[Extended Data](ext_articles/9914a759.ext.json)
-
----
-
-### Cabinet clears to draft bill for National Teachers Council
-
-*2024-05-13 02:24:35* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-to-draft-bill-for-National-Teachers-Council/56-761715) · `en`
-
-The Cabinet of Ministers on Monday approved to direct the Legal Draftsman to a bill for the formation of a National Teachers Council.
-
-The decision aligns with the National Education Policy Framework’s recommendation to establish such a council, following global best practices and aiming to elevate the professionalism and quality of teachers through ongoing professional growth opportunities.
-
-“A preliminary draft has been prepared to pave the way for the establishment of the National Teachers Council,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
-
-The joint proposal was put forth by President Ranil Wickremesinghe and Education Minister Dr. Susil Premajayantha.
-
-◼️
-
-[Data](articles/ba6bc7ad.json)
-
-[Extended Data](ext_articles/ba6bc7ad.ext.json)
 
 ---

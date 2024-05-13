@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 14:52:30**
+As of **2024-05-13 15:03:37**
 
 ## Newspaper Stats
 
-*Scraped **23,692** Articles*
+*Scraped **23,693** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 213
+colombotelegraphcom | 214
 bbccomsinhala | 244
 dbsjeyarajcom | 245
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,688 (100.0%) of 23,692 articles have been extended.
+23,692 (100.0%) of 23,693 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The petitioners Ven. Elle Gunawansa Thera, Ven. Bengamuwe Nalaka Thera, Ven. Ang
 
 [Data](articles/37dd2848.json)
 
+[Extended Data](ext_articles/37dd2848.ext.json)
+
 ---
 
-### අවසන් ග්ලැසියරයත් අහිමිවෙයි
+### Larvest the final glacier
 
 *2024-05-13 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196576) · `si`
 
-වෙනිසියුලාවේ පිහිටා තිබූ අවසන් ග්ලැසියරය වන්නේ ලා කොරෝනා එනම් හම්බෝල්ට් ග්ලැසියරය යි.
+The B Colona, the last glacier in Venezuela, is melting rapidly due to global warming, a clear sign of its impact on our planet.
 
-මේ වනවිට එම ග්ලැසියරය දියවීම වේගවත් වී අයිස් පෙතක් බවට පත්ව ඇති බව විද්‍යාඥයින් පෙන්වා දෙයි.
+🟩
 
-මෙය ගෝලීය කාලගුණ විපර්යාස සහ ගෝලීය උණුසුම ඉහළයාමේ ප්‍රතිඵල මැනවින් පෙන්නුම් කරන තත්ත්වයක් බව විද්‍යාඥයින් පවසයි.
+The last glacier in Venezuela is the B Colona, the Hulolt Glaze.
+
+Scientists point out that the melting of the glacier has accelerated has accelerated.
+
+Scientists say this is a situation that the results of global weather warming and global warming are high.
 
 ◼️
 
 [Data](articles/b0f07dd4.json)
+
+[Extended Data](ext_articles/b0f07dd4.ext.json)
 
 ---
 
@@ -84,35 +92,49 @@ When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga h
 
 ---
 
-### තද වැසි ගැන කාලගුනයෙන් අවවාදාත්මක නිවේදනයක්
+### An announcement of heavy rains
 
 *2024-05-13 14:01:16* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුනයෙන්-අවවාදාත්මක-නිවේදනයක්/11-409595) · `si`
 
-මධ්‍යම, සබරගමුව සහ ඌව පළොත්, සහ ගොල්ල, මාතර හා කළුතර දිස්ත්‍රික්ක සඳහා තද වැසි පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන් මගින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of heavy rains in Central, Sabaragamuwa, and Uva regions, with showers exceeding 100 millimeters expected. The announcement is valid from 11:30 pm today.
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ කැළඹිලි ස්වාභාවයක් වර්ධනය විම හේතුවෙන් මෙසේ දිවයින පුරා වැසි තත්ත්වයේ වැඩි විමක් බලාපොරොත්තු වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-මේ අනුව ඉහත සඳහන් ප්‍ර දේශවල ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි අපේක්ෂා කරන බව එම දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology has issued an announcement on heavy showers in the Central, Sabaragamuwa and Uva.
 
-මෙම අවවාදාත්මක නිවේදනය අද රාත්‍රී 11.30 තෙක් වලංග බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+As a result of the development of the lower atmosphere, the Department of Meteorology says he is looking forward to rainy industry.
+
+Accordingly, heavy showers exceeding over 100 millilitioners in the above lands will be expected.
+
+The announcement is valid at 11.30 pm today.
 
 ◼️
 
 [Data](articles/a6174fba.json)
 
+[Extended Data](ext_articles/a6174fba.ext.json)
+
 ---
 
-### කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිගෙන් තෑගි
+### Gifts from Senior Superintendent of Police in Kebithigollewa
 
 *2024-05-13 13:46:09* · [`adalk`](https://www.ada.lk/breaking_news/කැබිතිගොල්ලෑව-කොට්ඨාස-භාර-ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරිගෙන්-තෑගි/11-409594) · `si`
 
-ඉතිහාසයේ ප්‍රථම වතාවට කැබිතිගොල්ලෑව කොට්ඨාසයේ පාසල් සිසුන්ට හා පොලිස් ස්ථාන නිලධාරින්හට ලෙඳර් ක්‍රිකට් ක්‍රීඩාවේ නිරත වීමට අවශ්‍ය නව වැඩ පිළිවෙලක් ලෙස කැබිතිගොල්ලෑව පොලිස් ස්ථානයේ ක්‍රීඩා පිටියේ ඉදිකළ පැති විකට්ටුව හා ක්‍රීඩා උපකරණ කට්ටල් නවක ක්‍රීඩකයින් අයිතියට පත් කිරීම අද (13) දින උදෑසන කැබිතිගොල්ලෑව පොලිස් ස්ථානයේ ක්‍රීඩා පිටියේදී, කැබිතිගොල්ලෑව කොට්ඨාස භර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි එම්.එස්. කේ.වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණි.
+For the first time, the Kebithigollewa Division Police Station, under Senior Superintendent of Police Kubanicri, distributed construction and sports goods to schools and villages, enhancing community health and police welfare. This initiative, supported by the OICs of the 13 police stations, marks a significant step in the division's development programs, including opening the Divisional Secretariat and promoting women's work.
 
-කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි එම්.එස්. කේ.වික්‍රමනායක මහතාගේ සංකල්පයක් මත කොට්ඨාසයේ පිහිටි පොලිස් ස්ථාන 13 තුළ සිටින ස්ථානාධිපතිවරුන්ගේ සහයෝගයෙන් ලක්ෂ 03 ට ආසන්න මුදලක් වැය කරමින් මෙම ඉදි කිරීම් කටයුතු හා ක්‍රීඩා භාණ්ඩ ලබා ගැනීම සිදුකර තිබුණි.
+🟩
+
+For the first time in the history of the history of the Cabithigollewa Division and the police officers in the Kebithigollewa Division and the Board of Police Station at the Kebithigollewa Police Station this morning at the Kebithigollewa Police Station this morning.Section at Kebithigollewa Divisional Police M.S. The chaired by Mr. Kubanicri.
+
+Senior Superintendent of Police. The construction and sports goods were purchased at the co-operation of the OICs in the 13 police stations in the 13 police stations in the three police stations in the division on a concept of Kubaniman.
+
+It will be able to get the doors and healthy in schoolchildren and the health status of the police are able to get the villagers from the village and the senior Superintendentum.. Kubanmanayake said Kubanicranayake said.
 
 ...
 
 [Data](articles/3f9144fa.json)
+
+[Extended Data](ext_articles/3f9144fa.ext.json)
 
 ---
 
@@ -1652,6 +1674,22 @@ However, misty conditions can be expected at some places in the Western, Sabarag
 
 ---
 
+### Tentative Recovery Of The Economy Will Not Be Stalled By The Presidential Election: Response To The Governor Of The Central Bank
+
+*2024-05-13 09:10:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tentative-recovery-of-the-economy-will-not-be-stalled-by-the-presidential-election-response-to-the-governor-of-the-central-bank/) · `en`
+
+The Governor of the Central Bank of Sri Lanka warned that the presidential election due later this year will stall tentative recovery from its economic crisis. This is a response to the above.
+
+1. No element of substance in the warning by the Governor: The governor said, “Domestically, what I see as the challenge is to continue the same policies as we advance irrespective of the administration; this is an important one.” Furthermore, the Governor seems to agree with Wickremesinghe’s party’s concern that his two main rivals have said they want to renegotiate the terms of the IMF bailout, reduce taxes, and increase food and energy subsidies.
+
+Two main rivals are JVP/NPP (Malimawa) and SJB. JVP/NPP and SJB have not stated that they will discontinue the IMF’s austerity measures. Instead, they want to renegotiate. Discontinuation and renegotiation are two entirely different things. It is up to JVP/NPP and SJB to renegotiate, as well as how and in what way.
+
+...
+
+[Data](articles/9595a2ed.json)
+
+---
+
 ### Girlfriend arrested over Kuliyapitiya youth murder
 
 *2024-05-13 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Girlfriend-arrested-over-Kuliyapitiya-youth-murder/108-282455) · `en`
@@ -2295,23 +2333,5 @@ Dilantha Perera, Director/CEO of IT Gallery Computers Private Limited, expressed
 [Data](articles/60a0e070.json)
 
 [Extended Data](ext_articles/60a0e070.ext.json)
-
----
-
-### Ministry of Technology collaborates with Mastercard for DigiEcon Global Investment Summit 2024
-
-*2024-05-13 04:02:00* · [`islandlk`](http://island.lk/ministry-of-technology-collaborates-with-mastercard-for-digiecon-global-investment-summit-2024/) · `en`
-
-The Ministry of Technology has collaborated with Mastercard for the DigiEcon Global Investment Summit 2024, which is aimed at catalyzing the country’s economic resurgence by encouraging collaborations between global investors, industry leaders, entrepreneurs and policymakers.
-
-Scheduled to be held on June 25, 2024, the summit will focus on connecting domestic and foreign investors with Sri Lanka’s leading tech startups, allowing them to showcase their innovative products and services. It will also facilitate knowledge sharing between the government and industry, thereby supporting the vision of Sri Lanka becoming a digital-first nation.
-
-The summit will include a host of activities, such as keynote address by subject matter experts, panel discussions involving government and industry representatives, and one-to-one interactions between investors and startups. The event will delve into subjects, such as emerging technologies, fintech, and the potential of the digital economy.
-
-...
-
-[Data](articles/fde33bbf.json)
-
-[Extended Data](ext_articles/fde33bbf.ext.json)
 
 ---

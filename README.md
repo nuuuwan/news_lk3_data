@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 12:51:06**
+As of **2024-05-13 13:03:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,661 (100.0%) of 23,669 articles have been extended.
+23,669 (100.0%) of 23,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The Nugegoda Magistrate issued this order as per a request made by the Inspector
 
 [Data](articles/4c2c66ec.json)
 
+[Extended Data](ext_articles/4c2c66ec.ext.json)
+
 ---
 
 ### Police fire water cannons at protesting university non-academic staff
@@ -58,37 +60,53 @@ Police have used water cannons to disperse protesting university non-academic st
 
 [Data](articles/e339b080.json)
 
+[Extended Data](ext_articles/e339b080.ext.json)
+
 ---
 
-### විරෝධතාවයකට පොලීසියෙන් ජල ප්‍රහාරයක්
+### Police attack water
 
 *2024-05-13 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196572) · `si`
 
-කොළඹ බත්තරමුල්ල දියත උයන ඉදිරිපිට විශ්වවිද්‍යාල අනධ්‍යන සේවකයින් විසින් අද (13) පැවැත්වූ උද්ඝෝෂණයක් විසුරුහැරීම සඳහා  පොලීසිය ජල ප්‍රහාරයක් එල්ල කර තිබේ.
+Non-academic staff at a university in Colombo protest at Diyatha Uyana, opposing police action against water.
+
+🟩
+
+University non-academic workers have launched a protest in Colombo to the Diyatha Uyana in Colombo.
 
 ◼️
 
 [Data](articles/3500205c.json)
 
+[Extended Data](ext_articles/3500205c.ext.json)
+
 ---
 
-### இந்தோனேசியாவில் வெள்ளத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 41 ஆக அதிகரிப்பு : 17 பேர் மாயம்
+### The number of flood victims in Indonesia increases to 41: 17
 
 *2024-05-13 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
 
-மேற்கு இந்தோனேஷியாவில் வார இறுதியில் திடீர் வெள்ளம் மற்றும் எரிமலையிலிருந்து பெருக்கெடுத்த குழம்பு காரணமாக உயிரிழந்தவர்களின் எண்ணிக்கை 41 ஆக அதிகரித்துள்ளது.
+Indonesia's flood and volcanic eruption have increased casualties to 41, with 37 deaths and 17 missing. Heavy rains triggered landslides from the Marabi volcano, affecting Sumatra Island. Evacuation orders are in place, but the number of displaced is unclear.
 
-சனிக்கிழமை மாலை பல மணிநேரம் பெய்த கடும் மழையால் இந்தோனேசியாவின் மிகவும் தீவிரமான எரிமலைகளில் ஒன்றான மராபி  எரிமலையில் இருந்து பாறைகள் உருண்டு சுமத்ரா தீவில் இரண்டு மாவட்டங்களுக்குள் வீழ்ந்துள்ளன.
+🟩
 
-"நேற்று இரவு நிலவரப்படி, 37 பேர் உயிரிழந்ததாக நாங்கள் பதிவு செய்துள்ளோம். ஆனால் இன்று காலை அந்த எண்ணிக்கை 41 ஆக அதிகரித்துள்ளதாக சுமாத்ரா அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+The number of casualties in West Indonesia has increased to 41 due to the sudden floods and volcanic broth.
 
-வெள்ளத்தால் மிக மோசமாகப் பாதிக்கப்பட்ட பகுதிகளான அகம் மாவட்டத்தில் 3 பேரும், தனாஹ் தாதர் நகரில்  14 பேருமாக 17 பேர் காணாமல் போயுள்ளார்கள். அவர்களை மீட்புப் படையினர் தேடி வருகின்றனர்.
+Due to heavy rains on Saturday evening, the rocks rolled from the Marabi volcano, one of Indonesia's most serious volcanoes, and fell into two districts on Sumatra Island.
 
-கடும் மழை காரணாக கூடாரங்களில் தங்குவதைவிட பாதுகாப்பான உறவினர்களின் இருப்பிடங்களுக்கு மக்களை வெளியேறுமாறு அறிவுறுத்தல் வழங்கப்பட்டுள்ளது. இதன்காரணமாக வெளியேற்றப்பட்ட உள்ளூர்வாசிகளின் எண்ணிக்கையை உறுதிப்படுத்த முடியவில்லை என சுமாத்ரா அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+“As of last night, we have recorded that 37 people have died. But the number has increased to 41 this morning, the Sumatra Disaster Management Center said.
+
+Three people in the flood -affected areas of Agam district and 14 in Tanah Dadar, 17 have disappeared.. Rescuers are searching for them.
+
+The people have been instructed to get out of the locations of safe relatives rather than stay in tents as a heavy rainfall. The Sumatra Disaster Management Center said that the number of locals who had been evacuated could not be confirmed.
+
+Heavy rains have been submerged in flooding and vehicles have been swept away in a nearby river. At the same time, volcanic gray and large boulders have fallen down from the Marabi volcano.
 
 ...
 
 [Data](articles/817c0177.json)
+
+[Extended Data](ext_articles/817c0177.ext.json)
 
 ---
 
@@ -107,6 +125,8 @@ The Minister said the Commissioner of Examinations has assured to pay special at
 ◼️
 
 [Data](articles/004ad302.json)
+
+[Extended Data](ext_articles/004ad302.ext.json)
 
 ---
 
@@ -166,19 +186,29 @@ Accordingly, the court has issued this order to persons including the following 
 
 ---
 
-### இலங்கை வந்தார் அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ !
+### US State Assistant Secretary Donald Lu
 
 *2024-05-13 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183389) · `ta`
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ இம்மாதம் 10 - 15 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டுள்ள நிலையில், இன்றையதினம் காலை இலங்கைக்கு வருகைதந்துள்ளார்.
+US State Assistant Secretary Donald Lu is on a visit to India, Sri Lanka, and Bangladesh from 10th to 15th of this month, aiming to bolster US relations and support in the Indo-Pacific region. In Sri Lanka, he will meet top political leaders to discuss strengthening ties and economic recovery, emphasizing civil society's role in building a democratic community.
 
-இவ்விஜயமானது இந்நாடுகளுடனான அமெரிக்காவின் தொடர்புகளை மேலும் வலுப்படுத்துவதையும், சுதந்திரமானதும், சுபீட்சமானதுமான இந்திய - பசுபிக் பிராந்தியத்தைக் கட்டியெழுப்புவதற்கு அமெரிக்கா வழங்கிவரும் ஆதரவை வெளிப்படுத்துவதையுமே பிரதான நோக்கமாகக் கொண்டிருக்கின்றது.
+🟩
 
-அதன்படி வெள்ளிக்கிழமை (10)  இந்தியாவை சென்றடைந்திருந்த இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ, தென்னிந்தியாவுடனான தொடர்புகளை மேலும் வலுப்படுத்தும் நோக்கில் சென்னையில் கொன்சியூலர் அதிகாரியுடன் சந்திப்பை முன்னெடுத்திருந்தார்.
+US State Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, has arrived in Sri Lanka this morning as he made an official visit to India, Sri Lanka and Bangladesh from 10th to 15th of this month.
 
-...
+The main aim is to further strengthen the US's relations with these countries, express the support of the US to the building of the Indoor Indo -Pacific region.
+
+Accordingly, Donald Lu, who arrived in India on Friday (10), held a meeting with the Consular Officer in Chennai to further strengthen relations with South India.
+
+Donald Lu, who arrived in Sri Lanka this morning, will hold meetings with top political leaders in Colombo.. He will discuss further strengthening the goodwill between the two countries.
+
+He will also re -guarantee the US cooperation on the economic recovery of Sri Lanka and emphasizes the need to strengthen the civil society as the basis for building an independent democratic community.
+
+◼️
 
 [Data](articles/2cc3f693.json)
+
+[Extended Data](ext_articles/2cc3f693.ext.json)
 
 ---
 
@@ -336,37 +366,49 @@ The suspects have been handed over to the Kalpitiya Police for further legal act
 
 ---
 
-### யாழ். சாட்டியில் வெடிபொருட்களுடன் ஒருவர் கைது !
+### Yall. One arrested with ammunition
 
 *2024-05-13 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183385) · `ta`
 
-யாழ்ப்பாணம் சாட்டி கடற்கரை பகுதியில் இருந்து சுமார் 03 கிலோ வெடிமருந்துகள் உள்ளிட்ட வெடிபொருட்கள் மீட்கப்பட்டுள்ளதுடன், அவற்றை உடைமையில் வைத்திருந்த குற்றச்சாட்டில் நபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
+A man was arrested for possessing about 3 kg of ammunition found at Jaffna Chatti beach. Special Action Soldiers recovered the ammunition, which includes 12 motor overlaps, and handed them over to the Kayts police for further action.
 
-ஊர்காவற்துறை பொலிஸ் பிரிவிற்குட்பட்ட சாட்டி கடற்கரை பகுதியில் வெடிபொருட்கள் காணப்படுவதாக, நேற்றைய தினம் ஞாயிற்றுக்கிழமை (12) பொலிஸ் விசேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த விசேட அதிரடி படையினர் 3 கிலோ 145 கிராம் வெடி மருந்துக்கள், ஆர்.பி.ஜி எறிகணைகள் 08 மற்றும் 60 எம்.எம். மோட்டார் எறிகணைகள் 12 என்பவை மீட்கப்பட்டுள்ளன.
+🟩
 
-மீட்கப்பட்ட வெடி பொருட்களும் கைது செய்யப்பட்ட நபரும் மேலதிக சட்ட நடவடிக்கைக்காக ஊர்காவற்துறை பொலிசாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+About 03 kg of ammunition, including the Jaffna Chatti beach, has been recovered and a man has been arrested on charges of possessing them.
+
+Special Action Soldiers rushed to the scene on Sunday (12) on Sunday (12) that there are ammunition on the Chatti Beach area of the Kayts police division.. Motor overlaps 12 have been recovered.
+
+The recovered explosives and the arrested person have been handed over to the Kayts police for further legal action.
 
 ◼️
 
 [Data](articles/26c58590.json)
 
+[Extended Data](ext_articles/26c58590.ext.json)
+
 ---
 
-### நோய் பரவலை காரணம் காட்டி முள்ளிவாய்க்கால் கஞ்சிக்கு தடை -  வெசாக் தன்சல்களை  தடை செய்வார்களா ? அம்பிகா சற்குணநாதன்
+### Mullivaikkal ban on the spread of the diseaseAmbika Sakthunanathan
 
 *2024-05-13 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183387) · `ta`
 
-நோய் பரவும் ஆபத்து என தெரிவித்து முள்ளிவாய்க்கால் கஞ்சி விநியோகத்தினை தடுத்த இலங்கை பொலிஸார் இதே காரணத்திற்காக வெசாக் தன்சல்களை தடை செய்யுமாறு நீதிமன்றத்திடம் வேண்டுகோள் விடுப்பார்களா என  இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் கேள்வி எழுப்பியுள்ளார்.
+Ambika Chakkunanathan, former Human Rights Commissioner of Sri Lanka, questioned the police's decision to prevent the Vesak Tanchals, citing the same reasons used to restrict Mullivaikkal commemorations. He criticized the arrests of Tamils for exchanging porridge, the only food they received during the final war, and the government's role in preventing history. Chakkunanathan also questioned the police's selective enforcement, comparing it to the potential banning of May Day meetings and election rallies, and suggested that the Tamil community is seeking a truth and goodwill commission in Geneva to address these issues.
 
-கஞ்சியை பரிமாறிக்கொண்டமைக்காக தமிழர்கள் கைதுசெய்யப்படுகின்றனர் ( இறுதி யுத்தத்தின் போது அவர்களுக்கு கிடைத்த ஒரே உணவு) யுத்தத்தின் இறுதி தருணங்களில் கொல்லப்பட்ட மக்களை நினைவுகூரவிடாமல் தடுக்கப்படுகின்றனர் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-வரலாற்றை அழிப்பதும் பொதுமக்களின் உயிரிழப்பிற்கு அரசாங்கம் காரணமில்லை என மறுப்பதுமே நினைவேந்தல்களை தடுப்பதின் நோக்கம் எனவும் அவர்தெரிவித்துள்ளார்.
+Former Commissioner of Human Rights Commission of Sri Lanka Ambika Chakkunanathan has questioned whether the Sri Lankan police would prevent the Vesak Tanchals for the same reason, who prevented the supply of Mullivaikkal to the same reason.
 
-மக்கள் ஒன்றுகூடுவதன் மூலம் உணவை பரிமாறிக்கொள்வதன் மூலம்நோய் பரவும் என்பதாலேயே இந்த உத்தரவை பிறப்பித்துள்ளதாக நீதிமன்ற  உத்தரவில் தெரிவிக்கப்பட்டுள்ளதாக சுட்டிக்காட்டியுள்ள மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் ஏன் மே தினக்கூட்டங்களை தடை செய்யுமாறு பொலிஸார் நீதிமன்றங்களை கேட்டுக்கொள்ளவில்லை என கேள்வி எழுப்பியுள்ளார்.
+He said that Tamils are arrested for exchanging porridge (the only food they got during the final war) were prevented from commemorating the people killed in the final moments of the war.
+
+He also stated that the purpose of preventing history is to destroy history and the government is not responsible for the deaths of the public.
+
+The former Commissioner of the Human Rights Commission, who pointed out that the order was issued by the court order that the disease was issued because of the spread of food by gathering people, questioned why the police did not ask the courts to ban the May Day meetings.
 
 ...
 
 [Data](articles/074b697f.json)
+
+[Extended Data](ext_articles/074b697f.ext.json)
 
 ---
 

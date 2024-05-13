@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 16:04:50**
+As of **2024-05-13 16:18:34**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 3,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,701 (100.0%) of 23,705 articles have been extended.
+23,705 (100.0%) of 23,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### විජයදාසට බාධා නොකරන්නැයි අධිකරණ නියෝගයක්
+### Court order not to interfere with Wijayaka
 
 *2024-05-13 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196578) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපතිවරයා ලෙස පත්කරන ලද අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ සහ එම පක්ෂයේ වැඩබලන ලේකම් කීර්ති උඩවත්ත හට එම ධුරවල රාජාකාරී සිදුකිරීමට බාධා කිරීම් වළක්වාලමින් අධිකරණය වාරණ නියෝගයක් නිකුත් කර ඇත.
+The Kaduwela Magistrate's Court issued an injunction, preventing interference with Dr. Wijayadasa Rajapakse, appointed as the SLFP Minister, and Keerthi Udawatte, the party's acting secretary.
 
-ඊට අදාළ කරුණු සලකාබැලීමෙන් අනතුරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය මෙම නියෝගය ලබාදී තිබේ.
+🟩
+
+Appointed as Minister of Sri Lanka Freedom Party (SLFP) Minister Dr. Wijayadasa Rajapakse and the party's acting secretary Keerthi Udawatte had issued an injunction.
+
+The Kaduwela Magistrate's Court has issued the order after the consideration of the matter.
 
 ◼️
 
 [Data](articles/1f145b2a.json)
 
+[Extended Data](ext_articles/1f145b2a.ext.json)
+
 ---
 
-### නෙළුම් කුලුනේ පැරෂුට් අනතුර
+### The Parachute Crash of the Lotus Tent
 
 *2024-05-13 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196577) · `si`
 
-නෙළුම් කුලුනෙන් පහළට පැරෂුට් ආධාරයෙන් පැනීමේ අවස්ථාවකට එක්වූ පුද්ගලයෙකු ඉන් ඇදවැටී අනතුරට ලක්ව තිබේ.
+A parachutist from the Lotus Tower crashed due to a missing parachute, injuring him. He's now in the National Hospital for treatment.
 
-නෙළුම් කුලුන මුදුනේ සිට පහළට පැනීමේදී නිසි වේලාවට ඔහුගේ පැරෂුටය ක්‍රියාත්මක නොවීම හේතුවෙන් මෙම අනතුර සිදුව ඇත.
+🟩
 
-අනතුරින් තුවාල ලැබූ එම විදෙස් ජාතිකයා ප්‍රතිකාර සඳහා ජාතික රෝහලට ඇතුළත් කර තිබේ.
+A person who had joined the Parachute aid from the Lotus Tower
+
+The accident had occurred due to the absence of his parachute when his parachute was not implemented at the bottom of the tablet.
+
+The injured overseas has been admitted to the National Hospital for treatment.
 
 ◼️
 
 [Data](articles/4f420983.json)
+
+[Extended Data](ext_articles/4f420983.ext.json)
 
 ---
 
@@ -71,6 +83,8 @@ The Kaduwela District Court today (13) issued an enjoining order preventing any 
 ◼️
 
 [Data](articles/2f1bdb0f.json)
+
+[Extended Data](ext_articles/2f1bdb0f.ext.json)
 
 ---
 
@@ -191,6 +205,8 @@ This generous gesture from Nahil Wijesuriya follows closely on the heels of his 
 ◼️
 
 [Data](articles/759e7899.json)
+
+[Extended Data](ext_articles/759e7899.ext.json)
 
 ---
 

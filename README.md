@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 19:03:31**
+As of **2024-05-13 19:18:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,743 (100.0%) of 23,745 articles have been extended.
+23,745 (100.0%) of 23,745 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Meanwhile, the Police Spokesman also stated that they were fined Rs. 427,500.
 ◼️
 
 [Data](articles/dd4f8572.json)
+
+[Extended Data](ext_articles/dd4f8572.ext.json)
 
 ---
 
@@ -146,17 +148,23 @@ Speaking during the ‘Environment Leaders of Tomorrow workshop’ organized by 
 
 ---
 
-### අධිකරණය ඇමතිගේ සභාපතිකමට බාධා නොකරන්නැයි නියෝගයක්
+### Court orders that the Court not interfere with Minister's Chairman
 
 *2024-05-13 17:58:42* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණය-ඇමතිගේ-සභාපතිකමට-බාධා-නොකරන්නැයි-නියෝගයක්/11-409605) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා ඊයේ (12) දින පත් කර ගැනීමට සහ විධායක සභාව විසින් ගත් තීරණවලට බාධා කිරීම සියලු පාර්ශවයන්ට වළක්වාලමින් වාරණ නියෝගයක් කඩුවෙල දිසා අධිකරණය අද (13) නිකුත් කළේය.
+Kaduwela District Court issued an order to prevent interference with the appointment of Mr. Wijayadasa Rajapakse as the new Chairman of the SLFP, following a case filed by two SLFP executives.
 
-ඉල්ලමින් ඉසුරු අබේවර්ධන සහ සුමිත් විජයමුණි සොයිසා යන ශ්‍රි ලංකා නිදහස් පක්ෂයේ විධායක සභිකයන් දෙදෙනකු විසින් මෙම නඩුව ගොනුකර තිබුණි.
+🟩
+
+Kaduwela District Court today issued an enjoining order to appoint Mr. Wijayadasa Rajapakse yesterday (12) as the new Chairman of the SLFP and interfere with the decisions made by the Executive Council.
+
+The case had been filed by two executives of Sri Lanka Freedom Party (SLFP) asking for Isuru Abeywardena and Sumith Vijayamuni Soysa.
 
 ◼️
 
 [Data](articles/3db1ca86.json)
+
+[Extended Data](ext_articles/3db1ca86.ext.json)
 
 ---
 

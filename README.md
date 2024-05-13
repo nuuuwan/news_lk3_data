@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 02:52:00**
+As of **2024-05-14 03:03:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,811 (100.0%) of 23,814 articles have been extended.
+23,814 (100.0%) of 23,814 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,21 +42,33 @@ A girl tenderly shields a disabled elder from heavy rain at the Colombo Fort Rai
 
 [Data](articles/2712a779.json)
 
+[Extended Data](ext_articles/2712a779.ext.json)
+
 ---
 
 ### ’600 இலங்கையர்களை அழைத்து வரவும்’
 
 *2024-05-14 00:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/600-இலங்கையர்களை-அழைத்து-வரவும்/175-337267) · `ta`
 
-ரஷ்ய யுத்த களத்தில் உள்ள இலங்கையர்கள் இன்னும் 10 நாட்களுக்குள் தற்கொலை குண்டுதாரிகளாக மாற்றப்படவுள்ளதால் ரஷ்ய யுத்த களத்தில் உள்ள 600 இலங்கையர்களை  நாட்டுக்கு அழைத்து வர உடனடியாக இராஜதந்திர மட்டத்தில் நடவடிக்கைளை அரசாங்கம் எடுக்க  வேண்டும் என எதிரணி எம்.பி.யான தயாசிறி ஜயசேகர வலியுறுத்தினார்.
+Opposition MP Dayasiri Jayasekara calls for urgent government action to repatriate 600 Sri Lankans from the Russian battlefield, warning they could become suicide bombers within 10 days. He highlights the plight of retired Sri Lankan soldiers in the conflict and the government's efforts to investigate and repatriate them.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) விசேட கூற்றை முன்வைத்த போதே இவ்வாறு வலியுறுத்திய அவர் மேலும் பேசுகையில்,
+🟩
 
-இலங்கையில் ஓய்வு பெற்ற இலங்கை இராணுவத்தினர்  ரஷ்யா- உக்ரைன் யுத்தக்களத்துக்கு சென்று பெரும் இன்னல்களுக்கு முகம் கொடுத்துள்ளனர் .தாங்கள் யு த்தகளத்துக்கு செல்கிறோம் என்பதை அறியாமலேயே  இவர்கள் அங்கு சென்றுள்ளார்கள். இவ்விடயம் தொடர்பில் தேசிய மட்டத்தில் தற்போது விசாரணைகள் முன்னெடுக்கப்பட்டு,ஓய்வு பெற்ற இரு இராணுவ மேஜர் ஜெனரல்கள் கைது செய்யப்பட்டுள்ளார்கள்.
+Opposition MP Dayasiri Jayasekara has urged the government to take immediate action at the diplomatic level to bring 600 Sri Lankans in the Russian battlefield to the country as Sri Lankans in the Russian war will be converted into suicide bombs within 10 days.
 
-...
+He further stressed that when he made a special claim in Parliament on Monday (13), he said.
+
+Retired Sri Lankan soldiers in Sri Lanka have gone to the Russia-Ukraine battlefield and faced great troubles.. Investigations are currently being carried out at the national level and two retired military Major Generals have been arrested.
+
+The Russian army has decided to end the Russian -Ukraine war within 10 days.It is learned that steps have been taken to send Sri Lankan soldiers joining the Russian war as pre -selected soldiers on the battlefield and to make them suicide attacks.
+
+600 Sri Lankans have suffered from Sri Lanka to Russia to send a special committee to Russia and take talks with the country's Defense Ministry.
+
+◼️
 
 [Data](articles/7d905b4c.json)
+
+[Extended Data](ext_articles/7d905b4c.ext.json)
 
 ---
 

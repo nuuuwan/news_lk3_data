@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 00:49:09**
+As of **2024-05-14 00:33:33**
 
 ## Newspaper Stats
 
-*Scraped **23,809** Articles*
+*Scraped **23,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,029
 adaderanalk | 2,776
 tamilmirrorlk | 2,785
 virakesarilk | 3,552
-dailymirrorlk | 3,747
+dailymirrorlk | 3,743
 adaderanasinhalalk | 3,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,789 (99.9%) of 23,809 articles have been extended.
+23,789 (99.9%) of 23,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -159,72 +159,6 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 ...
 
 [Data](articles/7898079a.json)
-
----
-
-### Foreigner, Freeman forced out of Parliament 90 years ago First British passport holder elected to Parliament in 1924
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Foreigner-Freeman-forced-out-of-Parliament-90-years-ago-First-British-passport-holder-elected-to-Parliament-in-1924/172-282510) · `en`
-
-Born in March 1864, Herbert Rayner Freeman was elected to the Legislative Council-(LG) under the Colebrook Constitution in 1924, representing the North-Central Province
-
-Freeman was known to traverse miles along jungle trails, visiting the ill and those in need, always carrying his iconic umbrella. Remarkably, he even attended court sessions to advocate for individuals he believed had been unfairly accused in criminal cases
-
-Abolish the National List; empower the electorate to choose their representatives. The current system is flawed, with party leaders and secretaries often lacking insight. They appoint individuals with dubious backgrounds, including terrorists and non-citizens, merely for financial gain. This practice undermines the credibility of our democratic principles and turns them into a farce. Let’s restore integrity to our electoral process by allowing people to have a direct say in who represents them.
-
-...
-
-[Data](articles/0ebeaf68.json)
-
----
-
-### Untangling Sri Lanka’s messy government structure
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Untangling-Sri-Lankas-messy-government-structure/172-282513) · `en`
-
-This means that from 2010-2023, 111 gazettes have been published to  change either the duties and functions assigned to ministries, the  institutions that are assigned to those ministries or the laws that  these ministries are supposed to implement
-
-It would be an absolute surprise for someone walking into a local ministry to find everything crystal clear. Rather it could be just the opposite with the operation all over the place. Sri Lanka’s system of government has a history of assigning unrelated subjects to a single ministry, thereby including multiple departments and institutions under one roof. The latest blueprint document for rational government by Verité Research reveals that the compositions of ministries had undergone changes 111 times between 2010 and 2023.
-
-...
-
-[Data](articles/319debaf.json)
-
----
-
-### The rise and fall  of South Asian leaders in Britain and Ireland
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-rise-and-fall-of-South-Asian-leaders-in-Britain-and-Ireland/172-282512) · `en`
-
-According to the website www.politico.com Rishi Sunak’s Conservative  party is “marching inexorably towards annihilation” in  the next  parliamentary elections expected to be held either at the end of this  year or January 2025. This is indicated in the results of the local  council elections held throughout the UK on May 2
-
-The influence of South Asians at the highest political levels in the  British Isles appears to be on the wane. However, there is speculation  that Leo Varadkar might take up a top job in the European Union and  become the first person of part-Indian origin to do so
-
-But Varadkar could not solve Ireland’s acute housing problem. Under both  terms as Taoiseach, he failed to hit targets for affordable housing. A  whole generation of young voters were unable to purchase homes
-
-Leo Varadkar and Humza Yousaf have resigned and Rishi Sunak is shaky
-
-...
-
-[Data](articles/75e5839f.json)
-
----
-
-### Election merry-go-round
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Election-merry-go-round/172-282508) · `en`
-
-Election fever is in the air. Yet elections have not been announced. It’s ‘Fun-O-Rama’ time for politicians who are having a ball. Past President Mahinda Rajapaksa during his time was a past master at splitting political parties that
-
-This time around, the ex-president’s party-the Sri Lanka Podujana Peramuna (SLPP)- is one of the political outfits that is faced with several splits. The former chairman of the SLPP with 13 SLPP MPs defected and formed the ‘Freedom People’s Congress’. They now sit with the Samagi Jana Balawegaya (SJP) in Opposition
-
-SLPP strongman Basil Rajapaksa has demanded a General Election first. But added a rider as reported in the Daily Mirror on 8 May, that he would not leave room for a rift with the President. Former President Mahinda called for a rethink of the sale of state- owned enterprises, but in a very subdued tone.
-
-The Leader of the Samagi Jana Balawegaya is at war with his Party chairman.
-
-...
-
-[Data](articles/8d9489a7.json)
 
 ---
 
@@ -2207,5 +2141,87 @@ Donald Lu, who arrived in India last Friday (10), had a meeting with the Consula
 [Data](articles/0a8649ce.json)
 
 [Extended Data](ext_articles/0a8649ce.ext.json)
+
+---
+
+### Pastor
+
+*2024-05-13 15:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதகர்-ஜெரோம்-தொடர்பில்-பிறப்பிக்கப்பட்ட-உத்தரவு/175-337237) · `ta`
+
+The High Court has ordered the Attorney General to report on the investigation progress against Pastor Jerome Fernando within two weeks. This directive follows a Supreme Court hearing on a fundamental rights violation case filed by religious leaders against Pastor Fernando, seeking immediate action.
+
+🟩
+
+The High Court today issued a directive to the Attorney General to submit a report of the progress of the investigation against pastor Jerome Fernando within two weeks.
+
+The order was issued when a fundamental rights violation filed by a panel of religious leaders demanding immediate action against pastor Jerome Fernando was taken up in the Supreme Court.
+
+◼️
+
+[Data](articles/7388fae8.json)
+
+[Extended Data](ext_articles/7388fae8.ext.json)
+
+---
+
+### Similarly, the facilities provided to the student of St. Anthony's College
+
+*2024-05-13 15:20:00* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්ත-අන්තෝනි-විදුහලේ-සිසුවාට-සැපයූ-පහසුකම්-එලෙසින්ම/11-409600) · `si`
+
+St. Anthony's College provided facilities for three months to exam observers, including those from Wattala. Teachers are confident in the Commissioner of Examinations' investigation into the dismissal of SLAF and disabled students.
+
+🟩
+
+The first three-month facilities were given the first three-three examination observers from Friday, Wattala.When inquired about it, said.
+
+He further stated that he was observed at the examination center with the Advertisement of the Kelaniya Zealand today.
+
+However, the majority of the teachers have expressed confidence that the reasonable investigation will be carried out through the Commissioner of Examinations and the Commissioner of Examinations regarding the incident with regard to the dismissal of the SLAF and the disabled students.. (Ij)
+
+◼️
+
+[Data](articles/66169f96.json)
+
+[Extended Data](ext_articles/66169f96.ext.json)
+
+---
+
+### Foreigner injured after base jumping from Colombo Lotus Tower
+
+*2024-05-13 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99186/foreigner-injured-after-base-jumping-from-colombo-lotus-tower) · `en`
+
+A foreigner national has reportedly sustained injuries in an accident while participating in the Base Jump event at the Colombo Lotus Tower this afternoon (13).
+
+According to reports, the foreigner had suffered a parachute failure after jumping from the tower due to strong gusty winds resulting in a delay in its deployment.
+
+The US national, who sustained minor injuries to his head following the accident, has been rushed to Colombo National Hospital for treatment. However, his condition in not critical, according to hospital sources.
+
+◼️
+
+[Data](articles/23794e96.json)
+
+[Extended Data](ext_articles/23794e96.ext.json)
+
+---
+
+### Dilution
+
+*2024-05-13 15:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-337236) · `ta`
+
+Non-academic staff at all universities in Sri Lanka protested in Battaramulla, Colombo, demanding salary cuts and monthly allowances for 8 years. The strike began on the 12th.
+
+🟩
+
+University of non -academic staff today (13) staged a protest in front of the Battaramulla Diyatta of Colombo.
+
+The struggle has been carried out based on a number of issues such as salary cuts and monthly allowances for 8 years.
+
+The non -academic staff of all universities launched a strike from the 12th.
+
+◼️
+
+[Data](articles/550bc332.json)
+
+[Extended Data](ext_articles/550bc332.ext.json)
 
 ---

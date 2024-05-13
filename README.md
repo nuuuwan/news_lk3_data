@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 08:52:26**
+As of **2024-05-13 09:03:18**
 
 ## Newspaper Stats
 
-*Scraped **23,611** Articles*
+*Scraped **23,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,82 @@ economynextcom | 1,351
 dailyftlk | 1,374
 adalk | 2,003
 adaderanalk | 2,754
-tamilmirrorlk | 2,764
+tamilmirrorlk | 2,765
 virakesarilk | 3,516
 dailymirrorlk | 3,716
-adaderanasinhalalk | 3,784
+adaderanasinhalalk | 3,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,606 (100.0%) of 23,611 articles have been extended.
+23,611 (100.0%) of 23,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### ඉන්දුනීසියාවේ ගංවතුරෙන් 34ක් ජීවිතක්ෂයට
+### රැමේනියාවේ රැකියා ජාවාරමක තතු එළියට
+
+*2024-05-13 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196562) · `si`
+
+රුමේනියාවේ රැකියා ලබා දෙන බව පවසමින් මුදල් ලබා ගත් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය රැකියා නියෝජිත ආයතනයක් ඉදිරිපිට ඊයේ (12) නොසන්සුන්කාරී තත්ත්වයක් හට ගත්තේය.
+
+එක් අයෙකුගෙන් රුපියල් ලක්ෂ 7 සිට 10 දක්වා තරුණ තරුණියන් 128 දෙනෙකුගෙන් මෙලෙස මුදල් ලබාගෙන ඇති බව සඳහන්ය.
+
+ඔවුන් සියලුදෙනා ඊයේ එම රැකියා නියෝජිත ආයතනය ඉදිරිපිටට රැස්වු අතර එහිදී ඔවුන් මාධ්‍ය වෙත මෙලෙස අදහස් පළ කළේය.
+
+"මම වාද්දුවේ ඉ﻿ඳලා ආවේ. රුමේනියාවේ යන්න මම ලක්ෂ 7යි 45ක් දුන්නා. ඒ වගේම මෙතෙන 120ක් ඉන්නවා ඇවිත්. ඒ ඔක්කෝටම හෙට ඉන්ටර්විව් ඩේට් තියෙද්දි අද එන්න කියලා මෙයාලා කියනවා ඔක්කෝම කැන්සල් කරාලු. ලොකු වංචාවක් කරා මෙයාලා."
+
+◼️
+
+[Data](articles/8408ff58.json)
+
+---
+
+### 34 floods killed in Indonesia
 
 *2024-05-13 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196561) · `si`
 
-ඉන්දුනීසියාවට බටහිර ප්‍රදේශයට බලපෑ ගංවතුර තත්ත්වය හේතුවෙන් පුද්ගලයින් 34 දෙනෙකු මියගොස් තිබේ.
+Indonesia floods killed 34, affected 16 missing, damaged 84 houses, 16 bridges, and two religious sites. 90 sent to IDP camps. In March, West Sumatra floods killed 26.
 
-තවත් පුද්ගලයින් 16 දෙනෙකු අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-මේ හේතුවෙන් නිවාස 84ක්, පාලම් 16ක් සහ ආගමික ස්ථාන දෙකකට හානි සිදුවී ඇති බව සඳහන්ය.
+34 people were killed as a result of the floods affected by Indonesia.
 
-පුද්ගලයින් 90 දෙනෙකු අවතැන් කඳවුරු වෙත යොමු කර ඇති බව විදෙස් වාර්තා කළේය.
+Foreign media reports that 16 others have gone missing.
 
-පසුගිය මාර්තු මාසයේ බටහිර සුමාත්‍රා ප්‍රදේශයට බලපෑ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 26 දෙනෙකු මියගොස් තිබිණි.
+As a result of this, 84 houses, 16 bridges and two religious places were damaged.
+
+Foreign reported that 90 persons have been sent to the IDP camps.
+
+In the West Sumatra area last March, 26 people were killed due to floods and landslides.
 
 ◼️
 
 [Data](articles/1bef5c48.json)
+
+[Extended Data](ext_articles/1bef5c48.ext.json)
+
+---
+
+### குளியாபிட்டிய இளைஞன் கொலை - 18 வயது காதலி கைது
+
+*2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளியாபிட்டிய-இளைஞன்-கொலை-18-வயது-காதலி-கைது/175-337214) · `ta`
+
+குளியாபிட்டிய பிரதேசத்தில் காதலியை பார்க்கச் சென்ற இளைஞன் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் அவரது 18 வயதுடைய அவரது காதலி கைது செய்யப்பட்டுள்ளார்.
+
+கொலைக்கு உதவியமை மற்றும் குற்றத்தை மறைத்த குற்றச்சாட்டின் பேரில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குளியாப்பிட்டிய பிரதேசத்தைச் சேர்ந்த இந்த இளைஞன், கடந்த 22ஆம் திகதி தனது காதலியைப் பார்ப்பதற்காக குளியாப்பிட்டிய வஸ்ஸாவுல்ல பகுதிக்கு சென்றிருந்த நிலையில் காணாமல் போருந்தார்.
+
+பின்னர் காணாமல் போன இளைஞனின் சடலம் சிலாபம் - மாதம்பே பிரதேசத்தில் மீட்கப்பட்டிருந்தது.
+
+சம்பவம் தொடர்பில், குளியாப்பிட்டிய வஸ்ஸாவுல்ல பகுதியைச் சேர்ந்த காதலியின் தந்தையான 'சிங்கிதி' என அழைக்கப்படும் சுஜித் பெர்னாண்டோ மற்றும் அவரது மனைவு டிலானி ரசிகா ஆகியோர் ஏற்கனவே கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/d0bf9002.json)
 
 ---
 
@@ -65,6 +109,8 @@ Recently, several MPs alleged that innocent people including school children are
 ...
 
 [Data](articles/42647731.json)
+
+[Extended Data](ext_articles/42647731.ext.json)
 
 ---
 
@@ -85,6 +131,8 @@ He shared that this year Sri Lanka initiated investment promotion efforts in for
 ...
 
 [Data](articles/049f27c2.json)
+
+[Extended Data](ext_articles/049f27c2.ext.json)
 
 ---
 
@@ -116,21 +164,27 @@ The Department of Meteorology has urged the public to take necessary steps to re
 
 ---
 
-### මළ ගෙදරට ලයිට් දාන්න ගිය පිරිසකට විදුලි සැර වැදෙයි
+### Electricity weighs to the dead home
 
 *2024-05-13 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196560) · `si`
 
-මෙම පුද්ගලයා සහ තවත් සිව්දෙනෙකු එකතුව ප්‍රදේශයේ පැවති අවමංගල නිවසක් තිබ‍ූ මාර්ගයට ආලෝකය ලබා දීමට විදුලි බල්බ සවි කිරීමට කටයුතු කරමින් සිටිය දී මෙම අනතුර සිදුව ඇත.
+A fatal accident occurred at a funeral home, where five people, including a 40-year-old man from Kalganyihena, Thihariya, were electrocuted while installing bulbs. They collided with a power shelter while fusing the bulbs. The others are receiving treatment at Vathupitiwala Hospital.
 
-පොලීසිය විමර්ශනවලදී අනාවරණය වී ඇත්තේ, විදුලි බල්බ සවිකිරීමට යොදා ගත් වයරය මාර්ගයේ තිබු අධිබලැති විදුලි රැහැනක ගැටීමෙන් මෙම පුද්ගලයින්ට විදුලිසැර වැදී ඇති බවය.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 40 වයසැති තිහාරිය කළගෙඩිහේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The accident had occurred when the man and four others were trying to install the bulbs to light a funeral home.
 
-විදුලි සැර වැදුණු අනෙක් පුද්ගලයින් සිව්දෙනා වතුපිටිවල රෝහලේ නේවාසිකව ප්‍රථිකාර ලබමින් සිටී.
+Police investigations revealed that these people have been electrocuted when they collided with a power shelter in the wire to fuse the bulbs.
+
+The victim is a 40 year old resident of Kalganyihena, Thihariya, Thihariya.
+
+The four other people were receiving treatment at Vathupitiwala Hospital.
 
 ◼️
 
 [Data](articles/adedb49a.json)
+
+[Extended Data](ext_articles/adedb49a.ext.json)
 
 ---
 
@@ -1502,19 +1556,29 @@ The desperation in western capitals is more than palpable. The looming defeat in
 
 ---
 
-### විභාග නොතියා කොරියා යවන ගිවිසුමක් නෑ
+### There is no agreement not to send Korea, not exams
 
 *2024-05-12 20:14:19* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-නොතියා-කොරියා-යවන-ගිවිසුමක්-නෑ/11-409585) · `si`
 
-කෘෂිකර්ම ක්ෂේත්‍රයෙහි රැකියා සඳහා තරුණ තරුණියන්ට කොරියාවට යෑමේ හැකියාව පිළඳව සාකච්ජා කරමින් තිබෙන බවත්, විභාගයක් නොපවත්වා එරටට යැවීමේ කිසිදු ගිවිසුමකට  එළඹ නැති බවත් කොරියාවේ රැකියා ලබා දෙන බව පවසා  මුදල් එකතු කළ ජාවාරම්කරුවන් කිහිප දෙනෙකුම අත්අඩංගුවට ගැනීමට කටයුතු කළ බවත්කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+The text discusses the government's efforts to inform and facilitate the overseas journey of Sri Lankan youth, particularly those seeking employment opportunities in Korea. It highlights a program at Angunakolapelessa Prison Stadium, aimed at providing facilities and opportunities for these young people. The Minister emphasized the government's commitment to supporting the youth's overseas endeavors without the need for exams, contrasting this with the previous practice of racketeers exploiting the situation. The narrative also touches on the collection of funds for these endeavors, distinguishing between legitimate government programs and fraudulent activities.
 
-"මගෙන් පටන්ගමු ජයගමු ශ්‍රී ලංකා' හම්බන්තොට වැඩසටහන අඟුණුකොළපැලැස්ස බන්ධනාගාර ක්‍රීඩාංගණයේදී ආරම්භ කරමින් අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
+
+He said that several racketeers who were expelled into Korea were also arresting the youth to go to Korea and had no agreement to visit Korea.
+
+"The Minister starts from me to Jayahagamu Sri Lanka" Hambantota program at Angunakolapelessa Prison Stadium. "
 
 විගමනික ශ්‍රමික ප්‍රජාව සඳහා පහසුකම් සැපයීම හා විදෙස්ගත වීම බලාපොරොත්තු වන මෙරට තරුණ තරුණියන් නිවැරදිව විදෙස්ගත වන ආකාරය පිළිබඳව දැනුවත් කිරිම ඇතුළු වැඩසටහන් රැසක් 10 හා 11 දෙදින අඟුණකොළපැලැස්ස බන්ධනාගාර ක්‍රීඩාංගණයේදී පැවැත්විණ.එම උත්සව සභාව අමතමින් අමාත්‍යවරයා වැඩිදුරටත් මෙසේද පැවසීය.
+
+Our hope is that we are looking for the opportunity to send our youth without hearing without an examination to Korea.It was reported that the money was collected. There is no program to work in Korea without examination .It 's not.
+
+Only the wedding artists have the opportunity to go to Korea without an exam.There's. Some have collected money that my friends, my relatives say. If anyone adds money, you will immediately inform the country.
 
 ...
 
 [Data](articles/c0ab61e3.json)
+
+[Extended Data](ext_articles/c0ab61e3.ext.json)
 
 ---
 
@@ -2091,47 +2155,5 @@ The National Building Research Organization (NBRO) has issued the UPFA's 60 land
 [Data](articles/103a1848.json)
 
 [Extended Data](ext_articles/103a1848.ext.json)
-
----
-
-### Two more terrorists in Pakistan
-
-*2024-05-12 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196546) · `si`
-
-In Pakistan, two terrorist attacks resulted in the deaths of seven officials, including five at a security checkpoint in Vithirinn district and two others. Several security personnel were injured and hospitalized. In response, Pakistani security forces initiated a special military operation.
-
-🟩
-
-Seven officials were killed in two terrorists, aimed at two security guards at Pakistan.
-
-The first attack was launched to a security checkpoint in Vithirinn district and five officials were killed and 5 others died.
-
-Thereafter, two officials were killed and two officials were killed.
-
-Several security personnel have been injured and they have been admitted to the hospital for treatment.
-
-The Pakistani security forces have taken steps to launch a special military operation in the attack, foreign media reports said.
-
-◼️
-
-[Data](articles/59e79e14.json)
-
-[Extended Data](ext_articles/59e79e14.ext.json)
-
----
-
-### Former President Rajapaksa calls for postponing sale of national assets and SOEs
-
-*2024-05-12 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99166/former-president-rajapaksa-calls-for-postponing-sale-of-national-assets-and-soes) · `en`
-
-Issuing a statement addressing the growing concerns over the government’s plans to sell off national assets and state-owned enterprises (SOEs), former President Mahinda Rajapaksa has states that these actions of the government have given rise to discontent among trade unions, political parties and the general public.
-
-Rajapaksa emphasized his administration’s stance of not selling a single state-owned enterprise during his tenure as President. He pointed out that instead of privatization, his government focused on re-acquiring some previously sold enterprises, such as the Insurance Corporation and Lanka Hospitals, which continue to yield profits for the state.
-
-...
-
-[Data](articles/52d757b1.json)
-
-[Extended Data](ext_articles/52d757b1.ext.json)
 
 ---

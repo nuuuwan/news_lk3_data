@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 21:34:00**
+As of **2024-05-13 21:53:29**
 
 ## Newspaper Stats
 
-*Scraped **23,771** Articles*
+*Scraped **23,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,286
 economynextcom | 1,362
 dailyftlk | 1,374
 adalk | 2,029
-adaderanalk | 2,773
-tamilmirrorlk | 2,783
+adaderanalk | 2,774
+tamilmirrorlk | 2,784
 virakesarilk | 3,545
-dailymirrorlk | 3,740
-adaderanasinhalalk | 3,813
+dailymirrorlk | 3,741
+adaderanasinhalalk | 3,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,766 (100.0%) of 23,771 articles have been extended.
+23,771 (100.0%) of 23,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### President wishes Sri Lankan Cricket Team success
+
+*2024-05-13 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-wishes-Sri-Lankan-Cricket-Team-success/108-282509) · `en`
+
+President Ranil Wickremesinghe wished the Sri Lankan Cricket Team success at the upcoming T20 World Cup as they depart for the United States of America and the West Indies tomorrow, the President's Media Division (PMD) said.
+
+The President commended their commitment during a meeting at the Presidential Secretariat.
+
+Also, the victorious Sri Lankan Rugby Team, winners of the Asian Rugby Championship in the first division was also honoured by President Wickremesinghe.
+
+◼️
+
+[Data](articles/020fa315.json)
+
+---
+
+### மோசமான மோட்டார் சைக்கிள் ஓட்டுநர்களுக்கு கிடைத்த தண்டனை
+
+*2024-05-13 21:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமான-மோட்டார்-சைக்கிள்-ஓட்டுநர்களுக்கு-கிடைத்த-தண்டனை/175-337251) · `ta`
+
+வீதியில் சட்டவிரோதமாக மோட்டார் சைக்கிள் பந்தயத்தில் ஈடுபட்ட குழுவினருக்கு நீதிமன்றம் 427,500 ரூபாய் அபராதம் விதித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், குறித்த 15 மோட்டார் சைக்கிள் ஓட்டுநர்களின் சாரதி அனுமதிப்பத்திரங்களை 6 மாதங்களுக்கு இடைநிறுத்தவும் நீதிமன்றம் உத்தரவிட்டுள்ளதாக பொலிஸ் ஊடகப்பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ  தெரிவித்தார்.
+
+பம்பலப்பிட்டி, காலி வீதி,  டூப்ளிகேஷன் வீதி பகுதிகளில் மிகவும் மோசமான முறையில் மோட்டார் சைக்கிள்களை ஓட்டிச் சென்றதாக குறித்த மோட்டார் சைக்கிள்கள் ஓட்டுனர்கள் மீது குற்றம் சுமத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/38a10460.json)
+
+---
+
+### වනිඳු ලංකාවෙන් යන්න කලින් මාධ්‍යයට කී කතාව
+
+*2024-05-13 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196592) · `si`
+
+ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුවෙන් තමා විසින් ඉල්ලූ කණ්ඩායම ලැබුණු බව ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංග පවසයි.
+
+"නායකයා විදියට ක්‍රිකට් තේරීම් කමිටුවෙන් ඉල්ලපු කණ්ඩායම මට ඒ විදිහට ලැබුණා. ඇත්තටම ඒ අයටත් ස්තූතිවන්ත වෙන්න ඕනේ මට ඒ කණ්ඩායම ලබාදුන්න එකට. නායකයා නිදිහට මම මේ කණ්ඩායමත් එක්ක ගොඩක් සතුටින් මේ ලෝක කුසලාන යන්න ලෑස්ති. දවස් 10 කලින් අපි අමෙරිකාවට ගිහිල්ලා ඒ තණතීරුවලට හැට ගැහෙන්න තමයි අපි ඒ දවස් 10ය කලින් යන්න තීරණය කළේ ඉතින් අපි ඒ ගිහිල්ලා බලනවා තණතීරු USA ලීග් එකක් පැවැත්වුණා. ගිය වසරේ තරගවල ලකුණුත් අරගෙන අපි බලලා තණතීරු මොනවගේද කියලා. නායකයෙක් විදිහට මේ කණ්ඩායම ගැන ලොකු බලාපොරොත්තු තියාගෙන ඉන්නවා. මොකද අපේ ක්‍රීඩකයින් හොඳින් දක්කම් දක්වලා තියෙනවා පසුගිය තරගාවලි තුනේදී. මේ වසරෙදී අපිට ලොකු බලාපොරොත්තුවක් තියෙනවා අපිට මේ දේ කරන්න පුළුවන් කියලා."
+
+◼️
+
+[Data](articles/6d8b58a0.json)
+
+---
+
+### රුසියා-යුක්‍රේන කුලී හමුදාවන්ට එක්වූ ශ්‍රී ලාංකිකයින් ගැන රජය ගත් තීරණය
+
+*2024-05-13 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196591) · `si`
+
+ජාවාරම්කරුවන්ට හසුවීමෙන් පසුව රුසියානු - යුක්‍රේන කුලී හමුදාවන්ට එක්ව දුෂ්කරතා විඳින ශ්‍රී ලාංකිකයින් ඉන් මුදාගැනීමට රාජ්‍ය තාන්ත්‍රික මට්ටමින් අවශ්‍ය පියවර ගනිමින් සිටින බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා ඒ බව කියා සිටියේ අද පාර්ලිමේන්තුවේදී විපක්ෂය මේ පිළිබඳ කළ ප්‍රශ්න කිරීම් හමුවේ පිළිතුරු ලබාදෙමිනි.
+
+මේ අතර එලෙස රුසියානු කුලී හමුදාවල දැඩි ජීවිත අවදානම මැද සිටින තවත් ශ්‍රී ලාංකිකයන් පිරිසක් පිළිබඳ තොරතුරු අද දෙරණට වාර්තා වය.
+
+මෙරට හමුදා සේවයේ හිටපු සාමාජිකයන් පමණක් නොව රුසියානු යුක්‍රේන යුද්ධය ආරම්භ වීමට ප්‍රථම රුසියාවේ රැකියා සඳහා ගොස් සිටි ශ්‍රී ලාංකිකයින්ද එරට කුලී හමුදා සාමාජිකයින් ලෙස සේවයට බැඳී ඇතැයි මේ වනවිට තොරතුරු වාර්තාවෙයි.
+
+වලස්මුල්ල උඩදෙණිය ප්‍රදේශයේ පදිංචි 22හැවිරිදි ලක්ෂිත නුවන් සූරියබණ්ඩාර නමැති පුදග්ලයා මීට වසර දෙකකට ඉහතදී එලෙස රුසියාවේ පෞද්ගලික ආයතනයක රැකියාවක් සඳහා රුසියාව බලා පිටත්ව ගොස් පසුව කුලී හමුදා සේවයට එක්වූ අයෙකි.
+
+...
+
+[Data](articles/bc4709bc.json)
+
+---
+
+### US Assistant Secretary Donald Lu calls on President Ranil
+
+*2024-05-13 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99195/us-assistant-secretary-donald-lu-calls-on-president-ranil) · `en`
+
+United States’ Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, called on President Ranil Wickremesinghe today (13) at the Presidential Secretariat in Colombo.
+
+During the meeting, extensive discussions were held regarding Sri Lanka’s economic recovery strategies, a statement said.
+
+“President Wickremesinghe’s unwavering dedication and commitment to implementing the economic reform program was highly appreciated,” the President’s Media Division said.
+
+The President was accompanied by the Senior Advisor on the National security and Chief of Staff, Sagala Ratnayaka, Secretary to the President, Saman Ekanayake and US Ambassador to Sri Lanka Julie Chung.
+
+◼️
+
+[Data](articles/6dccae30.json)
+
+---
 
 ### Landslide warnings are issued for 5 districts
 
@@ -74,6 +158,8 @@ On Monday (13) National Selectors were questioned by the media during a press co
 
 [Data](articles/16bab5f3.json)
 
+[Extended Data](ext_articles/16bab5f3.ext.json)
+
 ---
 
 ### Mobile karatu killed in the pre-school girl
@@ -111,6 +197,8 @@ Hospice treatment is a programme to ensure the quality of life of a patient of a
 ...
 
 [Data](articles/99e180f8.json)
+
+[Extended Data](ext_articles/99e180f8.ext.json)
 
 ---
 
@@ -280,6 +368,8 @@ A protest organized by ‘Friends of Free Palestine’, calling on Israel to sto
 
 [Data](articles/59b69e0a.json)
 
+[Extended Data](ext_articles/59b69e0a.ext.json)
+
 ---
 
 ### Recovery of a man's body from the well!
@@ -306,19 +396,31 @@ The police who visited the scene were recovering and investigated and the body o
 
 ---
 
-### කුලියාපිටියේ තරුණයා ඝාතන සිද්ධියට පෙම්වතියත් රිමාන්ඩ්
+### Girlfriend remanded for murdering youth in Kuliyapitiya
 
 *2024-05-13 19:04:00* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේ-තරුණයා-ඝාතන-සිද්ධියට-පෙම්වතියත්-රිමාන්ඩ්/11-409609) · `si`
 
-කුලියාපිටියේ සුසිත් ජයවංශ ඝාතනය සම්බන්ධයෙන් සැකපිට අත් අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගත කර සිටි සිඟිති ඇතුළු සැකකරුවන් මේ මස 27 දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කරන්නැයි කුලියාපිටිය මහේස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (13දා) නියම කළේය.
+In Kuliyapitiya, a girlfriend was remanded for allegedly murdering a youth. The magistrate, Randik Lakmal Jayalath, was also remanded until the 27th, after being hospitalized for medical checks. The suspects include the girlfriend and eight others, with the case involving a phone call analysis. Attorney Hashini Mesissa represents the suspects.
 
-ඊට අමතරව අත් අඩංගුවට ගෙන තිබූ සිඟිති නමැත්තාගේ දියණිය වෛද්‍ය පරීක්ෂණ සඳහා කුලියාපිටිය ශික්ෂණ රෝහලට ඇතුළත් කර තිබූ බව පොලිසිය අධිකරණයට දැක්වූ කරුණු පිළිබඳ සැලකිල්ලට ගත් මහේස්ත්‍රාත්වරයා රෝහල වෙත ගොස් නඩුවේ 9 සැකකරු ලෙස නම් කර තිබූ දියණියද 27දා තෙක් රක්ෂිත බන්ධනාගාර ගත කරන්නැයි නියම කළේය.
+🟩
 
-දින 15ක් අතුරුදන්ව සිටියදී පණිරෙන්ඩාව රක්ෂිතයේ තිබී මෘත ශරීරය සොයාගන තිබූ සුසිත් ජයවංශ නැමැති 31 හැවිරිදි තරුණයෙකු ඝාතනය කළ බවට රක්ෂිත බන්ධනාගාර ගතකොට සිටි එම සැකකරුවන් එසේ යළි රක්ෂිත බන්ධනාගාර ගත කළ අතර ප්‍රධාන සැකකරුගේ දියණියද ඇතුළුව සිද්ධිය සම්බන්ධව මේ වනවිට 9 දෙනෙකු රිමාන්ඩ් ගතකර ඇත.
+Koliyapitiya Magistrate Randik Lakmal Jayalath, who was arrested on suspicion of suspicion of Susithi Jayawansa, remanded until the 27th of this month.
+
+The Magistrate was admitted to the hospital that the police had been admitted to the Kuliyawala Teaching Hospital for medical examinations in addition to the incident.
+
+The suspects were remanded that a 31-year-old youth who had discovered the body while 15 days were found in the Missed Reserve.
+
+The daughter of the Kalmbir, who was the first suspect in this case, is the ninth suspect in this case. The magistrate questioned and on which basis is that the case will be included in this case.
+
+The police said that the phone call was revealed by telephone analysis reports that he had called the Daily Daughter of the Singumba.
+
+Attorney Hashini Mesis for the suspects, Hashini Mesissa is the 1 suspected case in this case.
 
 ...
 
 [Data](articles/644427db.json)
+
+[Extended Data](ext_articles/644427db.ext.json)
 
 ---
 
@@ -1560,6 +1662,8 @@ The ‘Anti-Bribery and Anti-Waste Power Organization’ filed made a complaint 
 
 [Data](articles/0e23af96.json)
 
+[Extended Data](ext_articles/0e23af96.ext.json)
+
 ---
 
 ### Seven times for 'Hara' ....!- Mohan
@@ -2177,119 +2281,5 @@ Prime Minister Dinesh Gunawardena stated that it was not the case with the Leade
 [Data](articles/1c73d48e.json)
 
 [Extended Data](ext_articles/1c73d48e.ext.json)
-
----
-
-### The number of flood victims in Indonesia increases to 41: 17
-
-*2024-05-13 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
-
-Indonesia's flood and volcanic eruption have increased casualties to 41, with 37 deaths and 17 missing. Heavy rains triggered landslides from the Marabi volcano, affecting Sumatra Island. Evacuation orders are in place, but the number of displaced is unclear.
-
-🟩
-
-The number of casualties in West Indonesia has increased to 41 due to the sudden floods and volcanic broth.
-
-Due to heavy rains on Saturday evening, the rocks rolled from the Marabi volcano, one of Indonesia's most serious volcanoes, and fell into two districts on Sumatra Island.
-
-“As of last night, we have recorded that 37 people have died. But the number has increased to 41 this morning, the Sumatra Disaster Management Center said.
-
-Three people in the flood -affected areas of Agam district and 14 in Tanah Dadar, 17 have disappeared.. Rescuers are searching for them.
-
-The people have been instructed to get out of the locations of safe relatives rather than stay in tents as a heavy rainfall. The Sumatra Disaster Management Center said that the number of locals who had been evacuated could not be confirmed.
-
-Heavy rains have been submerged in flooding and vehicles have been swept away in a nearby river. At the same time, volcanic gray and large boulders have fallen down from the Marabi volcano.
-
-...
-
-[Data](articles/817c0177.json)
-
-[Extended Data](ext_articles/817c0177.ext.json)
-
----
-
-### 2000 kg of Colombo Lime, he can't sell the Rajarata Lime
-
-*2024-05-13 12:55:01* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දෙහි-කිලෝව-2000යි-රජරට-දෙහි-විකුණගන්නත්-බෑ/11-409590) · `si`
-
-Asela Sampath, leader of the National Customer Front, highlighted the government's role in promoting Rajarata crops, citing issues with selling Colombo Lime and the need for price controls to support farmers and consumers.
-
-🟩
-
-National Customer Front Leader Asela Sampath said the government's steps should be taken to the trees in the promotion of the crops in the Rajarata area..
-
-He was speaking at a program held at the Talawa Divisional Secretariat yesterday (12).
-
-"Economic crops in Rajarata area fall to trees without great economic value.. Similarly, the lime has not been unable to sell and sell Rs. We have seen we have fallen under the lime trees on the side of Galenbindunuwewa.
-
-There are a Samurdhi officers, there are Samurdhi officers on the Divisional Secretariat, there are the economic crops of their administrative officers, and how to make a systematic program.
-
-That's why, today a kilo of ginger has fled Rs 4000 and this is the true
-
-Get Rs.. The Thambuththegama Economic Center is now large in the Rajarata area, and the Tambuttegama Economic Center yesterday, a kilogram of mangoes, do not sell a fair price at Rs. 500.
-
-...
-
-[Data](articles/d32b4ef1.json)
-
-[Extended Data](ext_articles/d32b4ef1.ext.json)
-
----
-
-### Pharmacy raided
-
-*2024-05-13 12:47:04* · [`adalk`](https://www.ada.lk/breaking_news/වලංගු-බලපත්-නොමැතිව-පවත්වාගෙන-ගිය-ෆාමසි-වටලයි/11-409589) · `si`
-
-Gampaha District Food and Drugs Unit raided two unlicensed pharmacies. The Secretary of the Sri Lanka Food and Drugs Association noted discrepancies in the assessment of pharmacists. The Food and Drugs Inspector legalized a pharmacy without certified pharmacists on Gampaha-Ja-Easwela road.
-
-🟩
-
-The Gampaha District Food and Drugs Unit, the Gampaha District Food and Drugs Unit said the legal action had been taken regarding the two pharmacies in Gampaha without valid licenses.
-
-The Secretary of the Sri Lanka Food and Drugs Association, the Secretary of the Sri Lanka Food and Drugs Association, said that the assessed pharmacists were not the inspected pharmacologists.
-
-Meanwhile, the Food and Drugs Inspector of the Food and Drugs who have legalized a pharmacy has been legalized on the Gampaha-Ja-Easwela road without certified pharmacists.
-
-The raids were carried out by the Gampaha District Food and Drugs Inspectors, Gampaha District Food and Drugs.
-
-◼️
-
-[Data](articles/1fa83c30.json)
-
-[Extended Data](ext_articles/1fa83c30.ext.json)
-
----
-
-### Court order against protest planned by uni. students and staff in Nugegoda
-
-*2024-05-13 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99183/court-order-against-protest-planned-by-uni-students-and-staff-in-nugegoda) · `en`
-
-The Nugegoda Magistrate’s Court has issued an order preventing the students and non-academic staff of the Open University of Sri Lanka and the University of Sri Jayawardenapura from engaging in a protest march near several schools in the Nugegoda area where G.C.E. Ordinary Level examination is currently held.
-
-This order has been issued in consideration of the fact presented to the court that Anula Vidyalaya, St. Joseph Girls’ College, Samudra Devi Girls’ College, St. John’s Boys’ College, and Sujatha Girls’ College which are located near the main road around the area, are being used as G.C.E. O/L examination centres with Anula Vidyalaya also serving as an examination coordination centre.
-
-The Nugegoda Magistrate issued this order as per a request made by the Inspector of Mirihana Police based on the information received that the agitators have planned to use loudspeakers and perform street plays during their protest march which is set to be held today (13).
-
-◼️
-
-[Data](articles/4c2c66ec.json)
-
-[Extended Data](ext_articles/4c2c66ec.ext.json)
-
----
-
-### Police fire water cannons at protesting university non-academic staff
-
-*2024-05-13 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99182/police-fire-water-cannons-at-protesting-university-non-academic-staff) · `en`
-
-Police have used water cannons to disperse protesting university non-academic staff near Diyatha Uyana Junction at Battaramulla, Ada Derana reporter said.
-
-The protest march was planned in conjunction with the ongoing strike initiated by university non-academic staff over their monthly allowances and wage disparity. However, the strike also continues today for the 11th consecutive day.
-
-◼️
-
-[Data](articles/e339b080.json)
-
-[Extended Data](ext_articles/e339b080.ext.json)
 
 ---

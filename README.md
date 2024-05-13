@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 18:52:37**
+As of **2024-05-13 19:03:31**
 
 ## Newspaper Stats
 
-*Scraped **23,743** Articles*
+*Scraped **23,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,357
 dailyftlk | 1,374
-adalk | 2,024
-adaderanalk | 2,772
+adalk | 2,025
+adaderanalk | 2,773
 tamilmirrorlk | 2,782
 virakesarilk | 3,539
 dailymirrorlk | 3,735
@@ -26,29 +26,51 @@ adaderanasinhalalk | 3,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,742 (100.0%) of 23,743 articles have been extended.
+23,743 (100.0%) of 23,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### බයික් එකෙන් හඳට යන්න ගිය පිරිසට ලැබුණු දඬුවම
+### Bikers arrested for street racing on Galle Road fined, licenses suspended
+
+*2024-05-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99194/bikers-arrested-for-street-racing-on-galle-road-fined-licenses-suspended) · `en`
+
+The driving licenses of the 15 motorcycle riders who were arrested for engaging in illegal street racing and reckless riding on Galle Road in Bambalapitiya last week, have been suspended for six months by the court, the Police Media Spokesman DIG Nihal Thalduwa said.
+
+Meanwhile, the Police Spokesman also stated that they were fined Rs. 427,500.
+
+◼️
+
+[Data](articles/dd4f8572.json)
+
+---
+
+### The punishment that the people went to the moon from the bike
 
 *2024-05-13 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196585) · `si`
 
-නීතිවිරෝධී ලෙස මාර්ගයේ යතුරුපැදි ධාවන තරගවල නිරත වූ පිරිසකට අධිකරණය විසින් රුපියල් 427,500ක දඩ නියම කර ඇති බව පොලීසිය පවසයි.
+Fifteen motorists were fined and suspended for six months by the Court for reckless riding on Galle and Duplication Roads in Bambalapitiya. They were accused of dangerous stunts for entertainment, causing complaints from locals. The Bambalapitiya Police arrested them on May 05 for their dangerous behavior, posing a risk to other drivers.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ එහිදී අධිකරණය විසින් සැකකාර යතුරුපැදිකරුවන් 15 දෙනෙකුගේ රියදුරු බලපත්‍ර මාස 6ක කාලයකට අත්හිටුවීමට ද නියෝග කර ඇති බවය.
+🟩
 
-එම යතුරුපැදිකරුවන්ට බම්බලපිටිය ගාලුපාර හා ඩුප්ලිකේෂන් පාර යන ප්‍රදේශවල විනෝදාස්වාදය සඳහා නොසැලකිලිමත් ලෙස හා ඉතා අනතුරුදායක ලෙස යතුරුපැදි ධාවනයේ නිරත වූ බවට චෝදනා එල්ලවී තිබුණි.
+The Court has fined Rs.
 
-එක් දිශාවකට පමණක් දිවෙන මෙම මාර්ගයේ විශාල ශබ්දයක් සමඟ අධික වේගයෙන් හා ප්‍රතිවිරුද්ධ දිශාවට පවා නොහික්මුණු ආකාරයෙන් යතුරුපැදි ධාවනය කරන බවට ජනතාවගෙන් බම්බලපිටිය පොලීසියට පැමිණිලි ලැබී තිබුණි.
+Police Media Spokesperson DIG'sary DIG's Court Attorney Nihal Talduuwa has ordered that the driver of 15 motorists have been suspended for six months.
 
-ඒ අනුව බම්බලපිටිය පොලිස් ස්ථානයේ නිලධාරීන් පසුගිය මැයි මස 05 වනදා අලුයම මෙම විශේෂ වැටලීම සිදුකර සැකපිට එම යතුරුපැදිකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබුණි.
+These motorists were accused of reckless and very dangerous ride for entertainment in the Galle Road and Duplication Road in Bambalapitiya.
 
-...
+The Bambalapitiya Police had filed complaints from the people that they would run motorbikes with a large sound and in the opposite direction with a large sound of this road that runs only in one direction.
+
+Accordingly, officials of the Bambalapitiya Police Station was arrested on the morning of the morning of May 05.
+
+It is reported that these personnel are also dangerous to other drivers, running the motorcycle dangerous motorcycles, running the motorcycle throughout the road.
+
+◼️
 
 [Data](articles/7312fe20.json)
+
+[Extended Data](ext_articles/7312fe20.ext.json)
 
 ---
 
@@ -121,6 +143,20 @@ Speaking during the ‘Environment Leaders of Tomorrow workshop’ organized by 
 [Data](articles/cb283419.json)
 
 [Extended Data](ext_articles/cb283419.ext.json)
+
+---
+
+### අධිකරණය ඇමතිගේ සභාපතිකමට බාධා නොකරන්නැයි නියෝගයක්
+
+*2024-05-13 17:58:42* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණය-ඇමතිගේ-සභාපතිකමට-බාධා-නොකරන්නැයි-නියෝගයක්/11-409605) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා ඊයේ (12) දින පත් කර ගැනීමට සහ විධායක සභාව විසින් ගත් තීරණවලට බාධා කිරීම සියලු පාර්ශවයන්ට වළක්වාලමින් වාරණ නියෝගයක් කඩුවෙල දිසා අධිකරණය අද (13) නිකුත් කළේය.
+
+ඉල්ලමින් ඉසුරු අබේවර්ධන සහ සුමිත් විජයමුණි සොයිසා යන ශ්‍රි ලංකා නිදහස් පක්ෂයේ විධායක සභිකයන් දෙදෙනකු විසින් මෙම නඩුව ගොනුකර තිබුණි.
+
+◼️
+
+[Data](articles/3db1ca86.json)
 
 ---
 
@@ -2243,53 +2279,5 @@ Chilaw Padavi Radagasiri Radagasiri Jayasuriya, Assistant Regulatory Registrar A
 [Data](articles/68e35868.json)
 
 [Extended Data](ext_articles/68e35868.ext.json)
-
----
-
-### Villages drown in floods in Afghanistan: 315 killed
-
-*2024-05-13 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183376) · `ta`
-
-In Afghanistan, heavy rains have caused devastating floods, killing 315 and injuring over 1,600. Infrastructure and homes are destroyed, leaving survivors with no food, water, or shelter. The United Nations and humanitarian organizations are urged to assist. The crisis is exacerbated by economic instability and restrictions imposed after the Taliban takeover.
-
-🟩
-
-Villagers are submerged by heavy rains in North Afghanistan. Officials said on Sunday, 315 people were killed and more than 1,600 injured in the floods.
-
-Assistant groups have warned that the roads are buried in the mud and damage to major infrastructure such as health care facilities and water supply.
-
-"We have no food, no drinking water, no shelter, no blankets. Nothing. The flood has destroyed everything,"
-
-The survivors are struggling to live.Of the 42 houses, only two or three houses remain, and the flood has destroyed the entire valley.
-
-Tin Mohammed Hanif has urged the United Nations, humanitarian organizations and private businesses to help flood victims.
-
-"Life and livelihoods have been washed," "Suddenly flooding destroyed the villages, destroyed homes and killed cattle."Save the Children Afghan Afghan Director Arshad Malik said that there are 310,000 children living in the worst affected districts.
-
-Only 153 people have died in the Baglan province and the number is likely to rise.
-
-...
-
-[Data](articles/d3625f85.json)
-
-[Extended Data](ext_articles/d3625f85.ext.json)
-
----
-
-### No sufficient staff for office handling FTAs: Harsha
-
-*2024-05-13 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-sufficient-staff-for-office-handling-FTAs-Harsha/108-282474) · `en`
-
-Parliament, May 13 (Daily Mirror)- The new 'Office of International Trade' (OIT) which has been established at the President's office  has informed the Committee on Public Finance (COPF) that it has no sufficient staff members, COPF Chairman Dr. Harsha de Silva told Parliament today.
-
-The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is not possible to carry out feasibility studies on pending Free Trade Agreements (FTAs) with China and Thailand.
-
-"A decision should me made whether the Department of Commerce should be continued or closed down. It will be possible to transfer officers of the Department of Commerce to the OIT if a decision is made to close down the Commerce Department," he said.
-
-◼️
-
-[Data](articles/1eb8fb71.json)
-
-[Extended Data](ext_articles/1eb8fb71.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 16:33:28**
+As of **2024-05-13 16:49:43**
 
 ## Newspaper Stats
 
-*Scraped **23,716** Articles*
+*Scraped **23,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 2,770
 tamilmirrorlk | 2,782
 virakesarilk | 3,527
 dailymirrorlk | 3,733
-adaderanasinhalalk | 3,802
+adaderanasinhalalk | 3,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,705 (100.0%) of 23,716 articles have been extended.
+23,716 (100.0%) of 23,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### විදුලිබල පනත ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝගයක්
+
+*2024-05-13 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196580) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි නිත්‍යානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කතානායකවරයා වෙත යොමුකරන බව නිවේදනය කළේය.
+
+විජිත් මලල්ගොඩ, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ එම පෙත්සම් විභාගය පැවැත්වුණි.
+
+පුරා දින තුනක් තිස්සේ පැවැති මෙම පෙත්සම් විභාගය අද දින අවසන් කරමින් විනිසුරු මඩුල්ල මෙම නිවේදනය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/924095cb.json)
+
+---
 
 ### SC calls for progress report on probe into Pastor Jerome Fernando
 
@@ -48,37 +64,55 @@ Pastor Fernando found himself in hot water after a video of one of his sermons w
 
 [Data](articles/3f8773d3.json)
 
+[Extended Data](ext_articles/3f8773d3.ext.json)
+
 ---
 
-### வீரர்களைத் தேர்வு செய்யும் போது பாரபட்சம் பார்க்கப்படுகிறதா?
+### Is prejudice when choosing players?
 
 *2024-05-13 16:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீரர்களைத்-தேர்வு-செய்யும்-போது-பாரபட்சம்-பார்க்கப்படுகிறதா/175-337246) · `ta`
 
-2024 ஆம் ஆண்டு ஐசிசி ஆடவர் டி20 உலகக் கோப்பைக்கான இலங்கை அணிக்கான வீரர்களைத் தேர்ந்தெடுக்கும் போது, ​​பாரபட்சம் பார்ப்பதாக கூறப்பட்ட குற்றச்சாட்டுகளை மறுத்த இலங்கை கிரிக்கெட் தேர்வுக் குழுத் தலைவர் உபுல் தரங்க, மேற்கிந்திய தீவுகள் மற்றும் அமெரிக்காவில் நடைபெறவுள்ள உலகக் கோப்பையில் எந்த அணிக்கும் சவால் விடுமளவு இலங்கை அணி நல்ல நிலையில் இருப்பதாக தெரிவித்தார்.
+Upul Tharanga, Sri Lanka Cricket Board Chairman, denies prejudice in selecting the 2024 ICC men's T20 World Cup team, emphasizing skills, fitness, and discipline. The team, including injured players Wanindu Hasaranga and Madisha Pathirana, is balanced and powerful. Dunit Wellalake's inclusion benefits the team's performance in the United States. Panuka Rajapaksa's selection was a collective decision. The team prioritizes players over Tanjaya de Silva, despite his talent. Kusal Janith Perera was not included due to recent performance. The team's strong batting lineup includes Kusal Mendis, Padum Nissanka, Sarit Asalanga, and Dasun Shanaka. Vijayakanth Vyaskant's inclusion is based on his strong game, and discipline is a key factor in selection. The team departs for the United States for the World Cup.
 
-உலகக் கோப்பைக்கான இலங்கை டி20 அணி தொடர்பான பல்வேறு விசனங்களை நிவர்த்தி செய்ய நடைபெற்ற ஊடக சந்திப்பில், வீரர்களின் திறமை, உடற்தகுதி மற்றும் ஒழுக்கம் ஆகியவற்றைத் தவிர தேர்வில் எந்த பாரபட்சமும் இல்லை என்று தரங்க கூறினார். உலகக் கோப்பைக்காக பெயரிடப்பட்டுள்ள 15 பேர் கொண்ட அணி சமநிலை மற்றும் சக்தி வாய்ந்தது என்றார்.
+🟩
 
-அணித்தலைவர் வனிந்து ஹசரங்க மற்றும் வேகப்பந்து வீச்சாளர் மதீஷ பத்திரன பற்றிய காயம் குறித்த கவலைகளுக்கு பதிலளித்த தரங்கா, இரண்டு வீரர்களும் போட்டிக்கு தகுதியானவர்கள் என்று கூறினார்.
+Sri Lanka Cricket Board Chairman Upul Tharanga, who denied the allegations that the Sri Lankan team for the ICC men's T20 World Cup in 2024, said the Sri Lankan team was in good shape in the World Cup in the West Indies and the United States.
+
+At a press conference held to address the various regulations related to the Sri Lanka T20 team for the World Cup, Taranga said there was no prejudice in the exam except for the skills, fitness and discipline of the players.. He said the team of 15 people named for the World Cup was balanced and powerful.
+
+Responding to concerns over the injury of the captain of the team, Wanindu Hazaranga and fast bowler Madisha Pathirana, the two players were eligible for the competition.
+
+When questioned about the inclusion of Dunit Wellalake in the squad, Taranga noted that the team had a potential benefit to his Olord's performance and the conditions in the United States.
+
+"Tunit is a left -handed bowler, can even use him in the first 6 overs," he said.
 
 ...
 
 [Data](articles/e4666ae6.json)
 
+[Extended Data](ext_articles/e4666ae6.ext.json)
+
 ---
 
-### உதட்டுச்சாயத்துக்கு தடை
+### Labialism
 
 *2024-05-13 16:13:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உதட்டுச்சாயத்துக்கு-தடை/50-337245) · `ta`
 
-சிவப்பு நிற உதட்டுச்சாயத்தை தடை செய்ய நடவடிக்கை எடுத்துள்ளதாக வடகொரிய ஜனாதிபதி கிம் ஜாங் உன் ​தெரிவித்துள்ளார்.
+North Korea's Kim Jong Un has banned red lipstick and fashion, enforcing uniformity and potentially severe punishment for violations. This move reflects the country's strict adherence to a uniform lifestyle, symbolized by the ban on red lipstick, a common symbol of charm.
 
-அதாவது, சிவப்பு உதட்டுச்சாயம் மட்டுமல்லாது,  ஃபேஷனையும் தடை செய்ய சட்டங்களை இயற்றியுள்ளதாக தெரிவிக்கப்படுகிறது. இந்த சட்டத்தை மீறும் பெண்கள் கடுமையான தண்டனையை அனுபவிக்க நேரிடும் என்றும் தெரிவிக்கப்படுகிறது.
+🟩
 
-வடகொரியாவில் முதலில் இராணுவம் என்ற கருத்து நடைமுறைப்படுத்தப்படுகிறது. அனைத்து வட கொரியர்களும் ஒருவரையொருவர் பிரித்தறிய முடியாத வகையில் வாழ வேண்டும். மேலும் கவர்ச்சியின் அடையாளமாகிய சிவப்பு உதட்டுச்சாயத்தை தடை செய்ய கிம் ஜாங்-உன் நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+North Korean President Kim Jong Un has said that steps have been taken to ban red lipstick.
+
+That is, it is reported that the laws have been enacted to ban not only red lipstick but also fashion. It is also reported that women who violate this law may experience a severe punishment.
+
+In North Korea, the first concept of military is implemented. All North Koreans have to live in a way that cannot be distinguished by one another. It is noteworthy that Kim Jong-un has taken steps to ban the red lipstick, the symbol of charm.
 
 ◼️
 
 [Data](articles/bae280f9.json)
+
+[Extended Data](ext_articles/bae280f9.ext.json)
 
 ---
 
@@ -96,37 +130,53 @@ Meanwhile, the National Catholic Director of Mass Communications Rev. Fr. Jude K
 
 [Data](articles/c5c68ba1.json)
 
+[Extended Data](ext_articles/c5c68ba1.ext.json)
+
 ---
 
-### මේරියස් පීරිස් හිමිපාණන් ස්වර්ගස්ථ වෙයි
+### Maryus Peiris is heaven
 
 *2024-05-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196579) · `si`
 
-කොළඹ අගරදගුරු පදවි විශ්‍රාමික සහායක රදගුරු අති උතුම් මේරියස් පීරිස් හිමිපාණන් ස්වර්ගස්ථ වී තිබේ.
+Maryus Peiris, the Archbishop of Colombo, retired at 83, is now revered as Lord.
 
-විශ්‍රාමික සහයක රදගුරු හිමිපාණන් ස්වර්ගස්ථ වන විට 83 හැවිරිදි වියේ පසුවිය.
+🟩
+
+The Archbishop of Colombo Paddy Retirement, Large Maryus Peiris has become the Lord.
+
+The Dadagur of retired assistant was 83 years old when he was in heaven.
 
 ◼️
 
 [Data](articles/6f9e67e4.json)
 
+[Extended Data](ext_articles/6f9e67e4.ext.json)
+
 ---
 
-### ”அந்தப் பணத்தில் பாடசாலைகளுக்கு கணனிகளை வழங்கலாம்”
+### "You can provide computers to schools with that money"
 
 *2024-05-13 15:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தப்-பணத்தில்-பாடசாலைகளுக்கு-கணனிகளை-வழங்கலாம்/175-337241) · `ta`
 
-தேர்தலை முன்னிட்டு ஒவ்வொரு உள்ளுராட்சி மன்றங்களுக்கு ஒதுக்கப்பட்டுள்ள ரூ. 10 மில்லியனைக் கொண்டு பாடசாலைகளுக்கு கணனிகளை வழங்குமாறு எதிர்க்கட்சித் தலைவர் பாராளுமன்ற உறுப்பினர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளார்.
+Opposition Leader Sajith Premadasa urged the government to allocate funds for computers in schools, suggesting that 10 million rupees could equip 341 local councils with 3,140 smart classrooms, emphasizing the need for transparency in election funding allocations.
 
-எதிர்வரும் தேர்தலை இலக்காகக் கொண்ட ஆலோசனைக் குழு வேலைத்திட்டத்தின் கீழ் உள்ளூராட்சி மன்றங்களுக்கு 10 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளது என பாராளுமன்ற உறுப்பினர் பிரேமதாச இன்று பாராளுமன்றத்தில் உரையாற்றுகையில் குறிப்பிட்டார்.
+🟩
 
-ஒதுக்கப்பட்ட பணத்தில் 10 ஸ்மார்ட் வகுப்பறைகளை வழங்க முடியும் என கல்வி அமைச்சர் தெரிவித்ததை சுட்டிக்காட்டிய எம்.பி பிரேமதாச, ஒதுக்கப்பட்ட பணத்தில் இலங்கையிலுள்ள 341 உள்ளுராட்சி மன்றங்களினால் 3,140 ஸ்மார்ட் வகுப்பறைகளை நிறுவ முடியும் எனவும் குறிப்பிட்டார்.
+Rs.. Opposition Leader Sajith Premadasa has asked the government to provide computers to schools with 10 million schools.
 
-உள்ளூராட்சி மன்றங்களுக்கு தேர்தலுக்காக ஒதுக்கப்பட்ட தொகை தொடர்பில் தேசிய தேர்தல்கள் ஆணைக்குழு உட்பட பல தரப்பினரால் ஆட்சேபனைகள் முன்வைக்கப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Speaking to Parliament today, Parliamentarian Premadasa said that 10 million rupees has been allocated to local bodies under the Advisory Committee program targeting the upcoming election.
 
-...
+MP Premadasa, who pointed out that 10 smart classrooms can be provided on allocated money, "he said, adding that 341 local councils in Sri Lanka could establish 3,140 smart classrooms.
+
+The Opposition Leader said that the National Elections Commission, including the National Elections Commission, said that the amount allocated to local bodies for elections.
+
+Premadasa called on Parliament to investigate the matter and asked the authorities to use the allotted money to schools.
+
+◼️
 
 [Data](articles/5d72178e.json)
+
+[Extended Data](ext_articles/5d72178e.ext.json)
 
 ---
 
@@ -190,6 +240,8 @@ The National Water Supply and Drainage Board (NWS & DB) increased the water tari
 
 [Data](articles/3cc61339.json)
 
+[Extended Data](ext_articles/3cc61339.ext.json)
+
 ---
 
 ### Court order issued preventing disruptions to new SLFP Chairman and Act. Gen. Sec
@@ -252,19 +304,25 @@ The order was issued when a fundamental rights violation filed by a panel of rel
 
 ---
 
-### ශාන්ත අන්තෝනි විදුහලේ සිසුවාට සැපයූ පහසුකම් එලෙසින්ම
+### Similarly, the facilities provided to the student of St. Anthony's College
 
 *2024-05-13 15:20:00* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්ත-අන්තෝනි-විදුහලේ-සිසුවාට-සැපයූ-පහසුකම්-එලෙසින්ම/11-409600) · `si`
 
-අපොස සාමාන්‍ය පෙළ ඉංග්‍රීසි දෙවන ප්‍රශ්න පත්‍රයට පෙනී සිටියදී අසාධාරණයට ලක්වූ බව කියන වත්තල ශාන්ත අන්තෝනි මහා විදුහලේ ආබාධිත තත්වයෙන්  පසුවන සිසුවාට පළමු තෙදින සැපයූ පහසුකම් එලෙසින්ම ඉකුත් සිකුරාදා දින සිට විභාග නිරීක්ෂකයන් තිදෙනකුගේ සහය ඇතිව විභාගයට පෙනී සිටීමේ අවස්ථාව ලබා දී ඇතැයි වත්තල කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂ බී කුමාරසිංහ මහතා ඒ පිළිබඳව කරන ලද විමසීමකදී පැවසීය.
+St. Anthony's College provided facilities for three months to exam observers, including those from Wattala. Teachers are confident in the Commissioner of Examinations' investigation into the dismissal of SLAF and disabled students.
 
-කැලණිය කලාපය භාර අධ්‍යාපන  අධ්‍යක්ෂිකා, නිල්මිණි පෙරේරා මහත්මිය සමග තමා අද 12 දිනත් අදාළ විභාග මධ්‍යස්ථානයේ නිරීක්ෂණ කටයුතු සිදුකළ බවත්,  අදාළ සිසුවා සුපුරුදු පරිදි විභාගයට හොඳින් මුහුණ දෙමින් සිටින බවට නිරීක්ෂණය වූ බවත් වැඩිදුරටත් පැවසීය.
+🟩
 
-කෙසේ වුවද විභාග කටයුතුවලින්  ඉවත් කරනු ලැබූ ශාලාධිපතිවරයා පිළිබඳව සහ අදාළ ආබාධිත  සිසු දරුවා සම්බන්ධ සිද්ධිය පිළිබඳව සාධාරණ පරීක්ෂණ කටයුතු අධ්‍යාපන ලේකම් හා විභාග කොමසාරිස් යන අධ්‍යාපන බලධාරීන් හරහා සිදුකෙරෙනු ඇති බවට ගුරු දෙගුරු බහුතරයක් විශ්වාසය පළ කර සිටිති. (IJ)
+The first three-month facilities were given the first three-three examination observers from Friday, Wattala.When inquired about it, said.
+
+He further stated that he was observed at the examination center with the Advertisement of the Kelaniya Zealand today.
+
+However, the majority of the teachers have expressed confidence that the reasonable investigation will be carried out through the Commissioner of Examinations and the Commissioner of Examinations regarding the incident with regard to the dismissal of the SLAF and the disabled students.. (Ij)
 
 ◼️
 
 [Data](articles/66169f96.json)
+
+[Extended Data](ext_articles/66169f96.ext.json)
 
 ---
 
@@ -368,21 +426,29 @@ The Chief Secretary of the Federation of Federation of Farmers' University Tra U
 
 ---
 
-### ජපන් රැකියාවට මුදල් අයකල හොර ඒජන්සිය වටලයි
+### Frequent agency raid money for Japanese job
 
 *2024-05-13 14:33:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපන්-රැකියාවට-මුදල්-අයකල-හොර-ඒජන්සිය-වටලයි/11-409597) · `si`
 
-විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව මාතර නගරයේ පවත්වාගෙන ගිය නීතිවිරෝධි විදේශ රැකියා නියෝජිතායතනයක් කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් ඊයේ දින (5/12) වැටලීම් කරන ලදී
+The Special Investigation Unit raided a company in Matara without a valid license, seizing passports and unemployment applications. The suspect was remanded until the 15th.
 
-මාතර නගරයේ ආයතනයක් පවත්වාගෙන යමින්, ජපානයේ රැකියා ලබාදෙන බවට මුදල් අයකරන බවට පෞද්ගලික ඔත්තුකරුවෙකු මගින් කාර්යාංශයේ විමර්ශන අංශයේ කළමනාකරුට ලද තොරතුරක් අනුව විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අදාල ස්ථානය වැටලීම් කරන ලදී.
+🟩
 
-ජපානයේ ශිෂ්‍ය වීසා සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන ආයතනයක් මුවාවෙන් කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව අදාළ ස්ථානය පවත්වාගෙන ගොස් ඇති බව විමර්ශනවලදී හෙළිවී තිබෙන අතර, ඒ අනුව එහි අධ්‍යක්ෂක ලෙස කටයුතු කළ මාතර ප්‍රදේශයේ පදිංචි අයෙකු අත්අඩංගුවට ගෙන තිබේ. එසේම අදාල ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර, රැකියා අයදුම්පත්‍ර විශාල ප්‍රමාණයක් හා තවත් ලිපිගොනු රැසක්ද නිළධාරීන් භාරයට ගන්නා ලදී.
+Special Investigation Unit of the Bureau (5/12) was raided by the Special Investigation Unit of the Bureau (5/12) without a valid license of the Foreign Employment Bureau.
 
-අත්අඩංගුවට ගත් සැකකරු අද දින මාතර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 15 දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ. ‍
+Officers of the Special Investigation Division (BC) were raided by the officials of the Special Investigation Division as per the private spy of the Bureau's Investigation Division by running a company in Matara town.
 
-...
+Investigations have revealed that the relevant location was carried out without a validity position without a validity in the Bureau, accordingly, with a validity of the Bureau for student visa.. Also, there were a large number of passports, unemployment applications and many other files were taken into the location.
+
+The suspect was produced before the Matara Magistrate's Court today and remanded until the 15th. ‍
+
+Officers of the Special Investigation Division of the Special Investigation Division of the Bureau for this raid were Assistant.
+
+◼️
 
 [Data](articles/df513cd6.json)
+
+[Extended Data](ext_articles/df513cd6.ext.json)
 
 ---
 
@@ -469,6 +535,8 @@ In 2023, Maldives’ current account deficit had widened amid foreign borrowings
 ...
 
 [Data](articles/d421283e.json)
+
+[Extended Data](ext_articles/d421283e.ext.json)
 
 ---
 
@@ -1001,6 +1069,8 @@ Orion City has said it plans to further strengthen its sustainable infrastructur
 ◼️
 
 [Data](articles/f4e55b46.json)
+
+[Extended Data](ext_articles/f4e55b46.ext.json)
 
 ---
 
@@ -2231,33 +2301,5 @@ Sujith Fernando and his wife Dylani Pasa, known as 'Singhiti', the father of the
 [Data](articles/d0bf9002.json)
 
 [Extended Data](ext_articles/d0bf9002.ext.json)
-
----
-
-### Lover's assassination;Arresting girlfriend
-
-*2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலன்-படுகொலை-காதலி-கைது/175-337214) · `ta`
-
-An 18-year-old woman from Walasmulla is arrested for allegedly supporting and hiding the murder of her missing boyfriend from Kuliyapitiya. The man disappeared to meet her on the 22nd and was found dead days later in Chilaw-Madampai. Her parents are also detained.
-
-🟩
-
-A girlfriend has been arrested in connection with the murder of a youth in Kiliyapitiya.
-
-Police say the suspect has been arrested on charges of supporting the murder and hiding the crime.
-
-The 18 -year -old woman from Walasmulla - Durakhinna has been arrested.
-
-A young man from Kuliyapitiya was missing to Valasmulla on the 22nd to meet his girlfriend.
-
-The body of the missing young man was found from the Chilaw -Madampai area several days later.
-
-The father and mother of a girlfriend from Valasmulla have been arrested and detained in connection with the incident.
-
-◼️
-
-[Data](articles/d7c387c0.json)
-
-[Extended Data](ext_articles/d7c387c0.ext.json)
 
 ---

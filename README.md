@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 11:04:30**
+As of **2024-05-13 11:18:37**
 
 ## Newspaper Stats
 
-*Scraped **23,640** Articles*
+*Scraped **23,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,006
+adalk | 2,007
 adaderanalk | 2,757
-tamilmirrorlk | 2,770
+tamilmirrorlk | 2,771
 virakesarilk | 3,518
 dailymirrorlk | 3,722
 adaderanasinhalalk | 3,790
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,636 (100.0%) of 23,640 articles have been extended.
+23,640 (100.0%) of 23,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### தனியார்மயப்படுத்தலை ஆறப்போடவும் ;மஹிந்த
+
+*2024-05-13 11:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்மயப்படுத்தலை-ஆறப்போடவும்-மஹிந்த/175-337225) · `ta`
+
+அரசாங்கத்தின் தனியார்மயமாக்கல் முயற்சியை எதிர்வரும் ஜனாதிபதித் தேர்தல் முடியும் வரை ஒத்திவைக்குமாறு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச முன்மொழிந்துள்ளார்.
+
+தற்போதைய அரசாங்கத்தின் இடைக்காலத் தன்மையை வலியுறுத்தினார், மேலும் அரசுக்குச் சொந்தமான சொத்துக்கள் தொடர்பான முடிவுகளை வாக்காளர்களிடம் இருந்து பெறப்பட்ட ஆணைக்கு ஏற்ப, உள்வரும் நிர்வாகத்திடம் விட வேண்டும் என்று பரிந்துரைத்தார்.
+
+2009 ஆம் ஆண்டிலிருந்து நான் நாட்டை 9 ஆண்டுகளுக்கும் மேலாக ஆட்சி செய்தேன். அப்போது அரசுக்கு சொந்தமான நிறுவனங்கள் ஒன்றைக் கூட விற்கவில்லை. உண்மையை சொன்னால், முன்னிருந்த அரசாங்கங்கள் விற்ற அரசுக்கு சொந்தமான நிறுவனங்களான காப்பீட்டு நிறுவனம் மற்றும் லங்கா வைத்தியசாலை போன்றவற்றை எனது அரசாங்கத்தில் மீளப் பெற்றேன். அவை இன்னும் இலாபமீட்டுகின்றன.
+
+அரசுக்குச் சொந்தமான சொத்துக்களை விரைவாகப் பிரித்தெடுப்பதில் அதிகரித்துவரும் அதிருப்தியின் மத்தியில் இந்தப் பரிந்துரை வந்துள்ளது என ஒரு அறிக்கையை வெளியிட்டு மஹிந்த தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4c7e2d5d.json)
+
+---
 
 ### No sufficient staff for office handling FTAs: Harsha
 
@@ -46,23 +64,37 @@ The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is no
 
 [Data](articles/1eb8fb71.json)
 
+[Extended Data](ext_articles/1eb8fb71.ext.json)
+
 ---
 
-### முள்ளிவாய்க்கால் நினைவேந்தலில் ஈடுபட்டோர் கைது
+### Mullivaikkal arrested for commemoration
 
 *2024-05-13 10:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தலில்-ஈடுபட்டோர்-கைது/175-337221) · `ta`
 
-முள்ளிவாய்க்கால் படுகொலையை நினைவுகூர்ந்து முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் பல்கலைக்கழக மாணவி உட்பட நால்வர் கைது செய்யப்பட்டுள்ள சம்பவம்  நேற்று ஞாயிற்றுக்கிழமை இரவு   (12) திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் பதிவாகியுள்ளது.
+In Senayoor, Trincomalee, four individuals, including a university student, were arrested for commemorating Mullivaikkal. They are to be produced in court. A social activist's daughter was injured during the event, which continued despite a ban.
 
-இச்சம்பவத்தில் பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் கைது செய்யப்பட்டு சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் இன்றைய தினம் (13) மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாக தெரியவருகின்றது.
+The incident was reported in the Senayoor area of the Trincomalee Sampur police division last Sunday night (12) last night.
 
-சமூக செயற்பாட்டாளர் கமலேஸ்வரன் விஜிதா (வயது 40),  பல்கலைக்கழக மாணவி கமலேஸ்வரன் தேமிலா (வயது 22), சமூக செயற்பாட்டாளர் செல்வவினோத்குமார் சுஜானி (வயது 40), தமிழ் தேசிய மக்கள் முன்னணியின் முன்னாள் பிரதேச சபை முன்னாள் உறுப்பினர் நவரெட்ணராஜா ஹரிஹரகுமார் (வயது 43) ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Three women and a male, including a university student, have been arrested and detained at the Sampur police station.
 
-...
+The arrested persons are to be produced before the Muttur court today (13).
+
+Social activist Kamaleswaran Vijitha (age 40), university student Kamaleswaran Temila (age 22), social activist Selvinod Kumar Sujani (40) and former Tamil National People's Front member Naveratnaraja Hariharakumar (43) have been arrested.
+
+It is reported that her daughter, Temila, who was trying to prevent her, was now being treated at the hospital due to a knife injury.
+
+Mullivaikkal Kanji was launched at the Senayoor Pillaiyar Temple on Sunday (12) to commemorate the massacred civilians at Mullivaikkal.
+
+It is reported that the Sampur police said that the Mullivaikkal porridge was carrying out an event, regardless of the ban.
+
+◼️
 
 [Data](articles/a65a4edf.json)
+
+[Extended Data](ext_articles/a65a4edf.ext.json)
 
 ---
 
@@ -85,6 +117,8 @@ Cane said the prospect of a three-year deal with the high-spending Tokyo club wa
 ...
 
 [Data](articles/567072f9.json)
+
+[Extended Data](ext_articles/567072f9.ext.json)
 
 ---
 
@@ -389,6 +423,24 @@ The body has been placed at the Kuliyapitiya Hospital while the Giriulla Police 
 [Data](articles/595c3bdf.json)
 
 [Extended Data](ext_articles/595c3bdf.ext.json)
+
+---
+
+### පහළ වායුගෝලය කැළඹෙයි වැස්ස වැඩිවෙයි
+
+*2024-05-13 09:22:21* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-වායුගෝලය-කැළඹෙයි-වැස්ස-වැඩිවෙයි/11-409586) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහල වායුගෝලයේ කැළඹිලි ස්වභාවයක් වර්ධනය විම හේතුවෙන් දිවයින පුරා වැසි තත්වයේ වැඩි වීමක් බලාගපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+දිවයිනේ බොහෝ පළාත්වල පස්වරු ප.ව. 1.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ හා ඌව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+නැගෙනහිර හා දකුණු පළාත්වල වෙරළ බඩ ප්‍ර දේශවල උදෑසන කාලයේදිත් ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව අද පෙවරුවේ නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/85560db9.json)
 
 ---
 
@@ -961,6 +1013,8 @@ In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes
 ...
 
 [Data](articles/1275a800.json)
+
+[Extended Data](ext_articles/1275a800.ext.json)
 
 ---
 
@@ -2167,51 +2221,5 @@ Accordingly, 11,985 military personnel have been removed during the period when 
 [Data](articles/ca6a8f07.json)
 
 [Extended Data](ext_articles/ca6a8f07.ext.json)
-
----
-
-### Obtaining Dansal is mandatory
-
-*2024-05-12 20:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්වලට-අවසර-ගැනීම-අනිවාර්යයි/11-409583) · `si`
-
-During the Vesak season, it's mandatory for Medical Officers to inform Public Health Inspectors about the health conditions of food at dansals. Public health inspector Sandun Ratnayake emphasizes the importance of ensuring food safety and hygiene, with dansals required to display relevant health notifications.
-
-🟩
-
-The Medical Officers of the Medical Officer of the Health Medical Officer of the Vesak season is compulsory to inform the Public Health Inspector of the Health Medical Officer of the Health Medical Officer of the Office of the Medical Officer of the Vesak.
-
-Accordingly, the public will be informed of the program with about 1800 public health inspectors and the action should be followed in the conduct of dansals.
-
-Commenting on this further, public health inspector Sandun Ratnayake said the health condition of the health and the health of food, food and the health of food, and food, the health conditions of food, and the health conditions of foods, and the health of the health of food and healthy.Only the dansals will be given to hold the relevant notifications and adhesives.
-
-◼️
-
-[Data](articles/3c12102a.json)
-
-[Extended Data](ext_articles/3c12102a.ext.json)
-
----
-
-### If the government requests the Government of Russia, Sri Lankans imported in a week
-
-*2024-05-12 19:57:22* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ඉල්ලීමක්-කළොත්-රුසියාවේ-හමුදා-සේවයට-ගිය-ලාංකිකයන්-සතියකින්-ගෙන්වනවා/11-409582) · `si`
-
-Udayanga Weeratunga, a former Russian Assault, suggested that Sri Lankan soldiers could be deployed in Russia and Ukraine. He criticized the government for sending soldiers as mercenaries, stating that officials should be held accountable. He mentioned that these soldiers are directly involved in the war, without proper training, and that there are around 1500 foreigners in the rear lines. Weeratunga expressed his willingness to serve as an ambassador to address this issue.
-
-🟩
-
-Former Russian Assault Udayanga Weeratunga said that he could bring the Sri Lankan soldiers in Russia and Ukraine in Russia and Ukraine in the event.Responding to a question.
-
-"The racket is being carried out in the country due to the sending of the soldiers in Sri Lanka to serve as a rented for many countries today.. Like the Government of Ceylon, the officials of the country should be held responsible.
-
-The Russian and Ukrainian government do not take rentiers directly. Ukraine or Russia does not take any responsibility regarding. There is no training for the renting forces. They directly refer to the front ring of the war. A diplomatic of the war was told with me about 1500 foreigners in the back line.
-
-There are many Sri Lankan soldiers.So don't get caught at a racket.. I do if I can be the ambassador to this week. "
-
-◼️
-
-[Data](articles/c7be4034.json)
-
-[Extended Data](ext_articles/c7be4034.ext.json)
 
 ---

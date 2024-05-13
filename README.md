@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 20:03:33**
+As of **2024-05-13 20:18:20**
 
 ## Newspaper Stats
 
-*Scraped **23,753** Articles*
+*Scraped **23,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,362
 dailyftlk | 1,374
-adalk | 2,026
+adalk | 2,027
 adaderanalk | 2,773
 tamilmirrorlk | 2,783
 virakesarilk | 3,539
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,753 (100.0%) of 23,753 articles have been extended.
+23,753 (100.0%) of 23,754 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,22 @@ However, the suspect arrested on charges of murder of human murder and arrested 
 [Data](articles/cc4933b8.json)
 
 [Extended Data](ext_articles/cc4933b8.ext.json)
+
+---
+
+### ලැගුම්හලක සිටි යුවළකින් අල්ලස් ගත් පොලීසියේ දෙදෙනෙකුගේ වැඩ තහනම්
+
+*2024-05-13 18:57:20* · [`adalk`](https://www.ada.lk/breaking_news/ලැගුම්හලක-සිටි-යුවළකින්-අල්ලස්-ගත්-පොලීසියේ-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-409608) · `si`
+
+යුක්තිය මෙහෙයුමට අදාළව  විශේෂ රාජකාරී සඳහා යොදවා සිටියදී ලැගුම්හලක සිටි යුවළකගෙන්  අල්ලස් මුදල් ලබා ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගත්  පොලිස් නිලධාරීන් දෙදෙනාගේ  රාජකාරි වැඩ තහනමට ලක් කළ බව පොලිස් මූලස්ථානය කියයි.
+
+මෙලෙස වැඩ තහනමට ලක්කර ඇත්තේ කොට්ටාව පොලිස් ස්ථානයට අනුයුක්තව 118-119 යතුරුපැදී රාජකාරී නිරතව සිටි පොලිස් සැරයන් 65073 වසන්ත කුමාර හාකළුතර පොලිස් අභ්‍යාස විද්‍යාලයට අනුයුක්තව විශේෂ රාජකාරි  වාර්තා කර සිටි ආධුනික  පොලිස් කොස්තාපල් 105166 ඩබ්ලිව් ඒ  ප්‍රසාන් යන නිලධාරීන් දෙදෙනාගේය.
+
+මෙම නිලධාරීන් දෙදෙනා ඉකුත් අටවෙනි දින  පැය 0600 සිට 1800 දක්වා යතුරුපැදි රාජකාරී යෙදී සිටියදී පිළියන්දල සුවාරපොළ  ප්‍රදේශයේ ලැගුම්හලක යුවළක් අයිස් මද්දයිව සන්තකයේ තබාගෙන සිටින බවට ලද තොරතුරක්  පරීක්ෂා කිරීමට ගොස් ඇති අතර එහිදී එම යුවල සන්තකයේ අයිස් මත්ද්‍රව්‍ය  කිසියම් ප්‍රමාණයක් හමුවී තිබි ඇත.
+
+...
+
+[Data](articles/a2f0e898.json)
 
 ---
 
@@ -2275,33 +2291,5 @@ In December, more than 20 people were killed after Marapi erupted. A series of e
 [Data](articles/f005731a.json)
 
 [Extended Data](ext_articles/f005731a.ext.json)
-
----
-
-### Two suspects arrested for plundering around the country
-
-*2024-05-13 11:21:49* · [`adalk`](https://www.ada.lk/breaking_news/රට-වටා-කොල්ලකෑම්-කල-සැකකරුවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-409588) · `si`
-
-Two suspects, including Kesbewa Mia, were arrested for robberies and drug possession. Police seized a three-wheeler and a sharp weapon. The suspects, aged 24 to 30, have been linked to multiple robberies over the past five years.
-
-🟩
-
-The Bandaragama Police say two persons including Kesbewa Mia, including robbers and robberies in several areas, were arrested with drugs with drugs.
-
-Police have also seized a three-wheeler robbed 11470 milligns with the two suspects.
-
-The police said that after the interrogation of a person who had been arrested near the Bandaragama Gammanpila tank, he was assisted with a number of robberies and robbery and a number of robbery in Kohuwala.Does
-
-According to the incident, the other person who had robbed with him was arrested near the Shirana Bridge.
-
-In the case of Rs.The police have revealed that a sharp weapon, Kindelpitiya's Ranmal, had been robbing a woman's boring office and had stolen four chairs..
-
-Depending on the suspects, the quarters detected, the stolen accused and stolen suspects were hidden in the houses of suspected suspects.
-
-...
-
-[Data](articles/267ff782.json)
-
-[Extended Data](ext_articles/267ff782.ext.json)
 
 ---

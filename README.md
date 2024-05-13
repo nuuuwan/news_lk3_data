@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 13:53:14**
+As of **2024-05-13 14:04:42**
 
 ## Newspaper Stats
 
-*Scraped **23,677** Articles*
+*Scraped **23,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,112 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,008
+adalk | 2,012
 adaderanalk | 2,764
-tamilmirrorlk | 2,775
+tamilmirrorlk | 2,776
 virakesarilk | 3,527
-dailymirrorlk | 3,727
-adaderanasinhalalk | 3,797
+dailymirrorlk | 3,729
+adaderanasinhalalk | 3,798
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,676 (100.0%) of 23,677 articles have been extended.
+23,677 (100.0%) of 23,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### கோபுரத்திலிருந்து குதித்த வெளிநாட்டவருக்கு காயம்
+### வினாத்தாள் சர்ச்சை;அமைச்சர் விளக்கம்
+
+*2024-05-13 13:44:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-சர்ச்சை-அமைச்சர்-விளக்கம்/175-337234) · `ta`
+
+க.பொ.த சாதாரண தர (சா/த) விஞ்ஞானம் மற்றும் ஆங்கில பாட வினாத்தாள் தொடர்பான சர்ச்சையை தெளிவுபடுத்திய கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, எந்தவொரு மாணவர்களுக்கும் அநீதி ஏற்படாதவாறு நடவடிக்கை எடுப்பதாக இன்று தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் ரோஹினி குமாரி கவிரத்னவின் கேள்விக்கு பதிலளித்த அவர், வினாத்தாளின் பல  கேள்விகளிலும் பல் தேர்வு வினாத்தாளிலும் (MCQ) சிக்கல்கள் பதிவாகியுள்ளன என்றும், வினாத்தாள் அமைப்பாளர்கள் கூடி சம்பவம் குறித்து இறுதி முடிவு எடுக்கப்பார்கள் என்றும் தெரிவித்தார்.
+
+இந்த ஆண்டு ஆங்கில வினாத்தாள் கட்டமைப்பில் மாற்றம் செய்யப்பட்டுள்ளதாகவும், பயிற்சி பெற்ற ஆங்கில ஆசிரியர்கள் இல்லாத கிராமப்புறங்களில் உள்ள பெரும்பாலான மாணவர்களுக்கு இது நியாயமற்றது என்றும் எம்.பி.கவிரத்ன தெரிவித்தார்.
+
+மாணவர்களுக்கு எந்த வித அநீதியும் ஏற்படாத வகையில், வழக்கமான மாதிரி தயாரித்த பிறகு மதிப்பெண் திட்டத்தை தயாரிக்கும் போது, ​​இந்த விடயங்கள் குறித்து விசேட கவனம் செலுத்துவதாக பரீட்சைகள் ஆணையாளர் உறுதியளித்துள்ளதாக அமைச்சர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/37653431.json)
+
+---
+
+### Patients bear the brunt as health strike continues
+
+*2024-05-13 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patients-bear-the-brunt-as-health-strike-continues/108-282490) · `en`
+
+Colombo, May 13 (Daily Mirror)  -  Patients have been highly inconvenienced due to the health strike launched by health professionals in all government hospitals at provincial level.
+
+The strike which commenced on May 09 targeting seven provinces has crippled healthcare services at respective hospitals. Today, the strike was launched at Central Province from 8am to 12 noon while the strike will affect hospitals in the Sabaragamuwa Province tomorrow (14).
+
+The Health Trade Union Alliance confirmed its intention to spread the strike to other provinces in the coming days if their demands are not met. Among the key issues prompting the strike are demands for higher allowances, particularly for a diverse range of health professionals. These include radiology and laboratory technicians, pharmacists, midwives, dental surgeons, public health inspectors and entomology officers.
+
+...
+
+[Data](articles/00fb0ea5.json)
+
+---
+
+### Hurt to foreigner who jumped from the tower
 
 *2024-05-13 13:32:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபுரத்திலிருந்து-குதித்த-வெளிநாட்டவருக்கு-காயம்/175-337232) · `ta`
 
-தாமரை கோபுரத்தில் பாய்ச்சல் நிகழ்வை அனுபவிக்கும் போது வெளிநாட்டவர் ஒருவர் கீழே விழுந்ததில் காயம் அடைந்தார்.
+A foreigner participating in the Base Jump Tournament at the Lotus Tower was injured after falling. Witnesses reported the jumper delayed deploying their parachute, leading to the accident.
 
-சற்று முன்னர் தாமரை கோபுரத்தில் பேஸ் ஜம்ப் போட்டியில் கலந்து கொண்ட வெளிநாட்டவர் ஒருவரே இவ்வாறு படுகாயமடைந்துள்ளார்.
+🟩
 
-கோபுரத்தில் இருந்து குதித்த பின்னர் குறித்த வெளிநாட்டவர் தனது பரசூட்டை இயக்குவதில் தாமதித்ததாக சம்பவத்தைநேரில் பார்த்த ஒருவர் தெரிவித்தார்.
+A foreigner fell down while experiencing a flowing event in the Lotus Tower.
+
+A foreigner who participated in the Base Jump Tournament at the Lotus Tower was the injured.
+
+One person who saw the incident said that the foreigner had delayed running his parasite after jumping out of the tower.
 
 ◼️
 
 [Data](articles/22934f7c.json)
+
+[Extended Data](ext_articles/22934f7c.ext.json)
+
+---
+
+### University staff protest dispersed...
+
+*2024-05-13 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-staff-protest-dispersed/110-282489) · `en`
+
+Tensions escalated near the Diyatha Uyana Junction in Battaramulla as police resorted to using water cannons to scatter a gathering of university non-academic staff engaged in a protest.  Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/8bb3dfa4.json)
+
+---
+
+### රුසියානු යුද බිමේ සිටින ලාංකිකයින් කළ සංවේදී හෙළිදරව්ව
+
+*2024-05-13 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196575) · `si`
+
+රුසියානු  - යුක්‍රේන කුලී හමුදාවන්ට එක්ව සිටින ශ්‍රී ලාංකිකයින් පත්ව සිටින දුෂ්කරතා පිළිබඳ පසුගිය දිනවල අවස්ථා රැසක තොරතුරු වාර්තා වුණි.
+
+එවන් වාතාවරණයක තවත් එවැනිම ශ්‍රී ලාංකිකයින් දෙදෙනකු රුසියාවේ යුද බිමේ සිට සිය අත්දැකීම් "අද දෙරණ" ට ප්‍රකාශ කළේය.
+
+2022 පෙබරවාරි 24 වැනිදා රුසියානු හමුදා යුක්‍රේන භූමිය ආක්‍රමණය කිරීමත් සමග දෙරටේ යුද වැදීම සඳහා විවිධ රටවලින් කුලී හේවායන් බඳවා ගනු ලැබුවේ ඉහළ වැටුප් සහ රුසියානු පුරවැසිභාවය වැනි වරප්‍රසාද ලබාදෙන බවට පවසමිනි.
+
+ශ්‍රී  ලාංකික විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්ද විශාල පිරිසක් එලෙස රුසියාව බලා පිටත්ව ගොස් තිබිණි.
+
+ත්‍රිවිධ හමුදාවේම සේවය කළ ඉහළ තනතුරු දැරූ පිරිසක් විසින් මෙම මිනිස් ජාවාරම සිදුකර තිබූ බවට මේ වනවිට කරුණු අනාවරණ වී තිබේ.
+
+කෙසේ වෙතත් එලෙස රුසියානු යුක්‍රේන යුද්ධය සඳහා ගොස් සිටින ශ්‍රී ලාංකිකයන් පිරිස මෙතෙක් නිෂ්චිත වශයෙන් හඳුනාගෙන නොමැති අතර යුද්ධයට මැදිවූ බොහෝ පිරිසකගේ ජීවිත මේවනවිටත් අහිමිවී ඇතැයි තොරතුරු වාර්තා වේ.
+
+මේ එලෙස රුසියාව බලා පිටත්ව ගිය ශ්‍රී ලාංකික ලෙබළුන් යුද බිමේ සිට 'අද දෙරණ' ට කළ හෙළිදරව්ව...
+
+...
+
+[Data](articles/fa9d22e9.json)
 
 ---
 
@@ -114,6 +190,10 @@ An eyewitness reported that the foreigner delayed opening his parachute after ju
 
 The injured foreigner was promptly taken to the General Hospital for treatment.
 
+According to hospital sources, the injured foreigner is a national of the USA and is currently undergoing treatment.
+
+He has reportedly sustained internal head injuries and has reported numbness of his legs and hand.
+
 ◼️
 
 [Data](articles/5590fe15.json)
@@ -172,6 +252,20 @@ Pastole Jerome Fernando has been arrested by the Chief Justice Jayantha Jayasuri
 
 ---
 
+### අගමැතිට යොමු කළ ප්‍රශ්නයට  අගමැතිගෙන් ප්‍රශ්නයක්
+
+*2024-05-13 13:04:33* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිට-යොමු-කළ-ප්‍රශ්නයට--අගමැතිගෙන්-ප්‍රශ්නයක්/11-409591) · `si`
+
+ප්‍රජා උපදේශක කමිටු පිහිටුවීමේ චක්‍ර ලේඛයේ කිසි තැනක එහි සාමාජිකයන් ලෙස පළාත් පාලන ඡන්දයට තරඟ කරන අපේක්ෂකයන් පත්කිරීම ගැන සඳහන් නොවන බවද රට පුරා විශ්‍රාම ගිය ඉංජිනේරුවරු, කාර්මික නිලධාරින්, විවිධ වෘත්තීන්වල අය ආදී ප්‍රයෝගික දැනුමක් ඇති ග්‍රාමීය නායකයන්ගේ සහාය රටේ සංවර්ධනය සඳහා යොදාගැනීම මෙහිදී සිදු කෙරෙන බවද අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අවධාරණය කළේය. පළාත් සභාවේ සිටින උගත්, වගකීම් සහගත අයද යොදාගන්නා බව කී අග්‍රාමාත්‍යවරයා, එසේ නොකරන ලෙස විපක්ෂය ප්‍රකාශ කරන්නේද යන්න ප්‍රශ්න කළේය.
+
+වසර දෙකක් පමණ ඇණහිට තිබූ සංවර්ධන ව්‍යාපෘති නැවත ආරම්භ කිරීමට අයවැයෙන් ඉඩ සැලසූ බව පැවසූ ඔහු, සංවර්ධන කමිටුවලට සහභාගී වූ ඉල්ලීම්, යෝජනා  ඉදිරිපත් කළ සියලු මන්ත්‍රීවරුන්ට විමධ්‍යගත මුදල්, පළාත් සභා මුදල්, මධ්‍යම ආණ්ඩුවේ ව්‍යාපෘති ලබාදී ඇති බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/1c73d48e.json)
+
+---
+
 ### The number of flood victims in Indonesia increases to 41: 17
 
 *2024-05-13 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
@@ -197,6 +291,40 @@ Heavy rains have been submerged in flooding and vehicles have been swept away in
 [Data](articles/817c0177.json)
 
 [Extended Data](ext_articles/817c0177.ext.json)
+
+---
+
+### කොළඹ දෙහි කිලෝව 2000යි රජරට දෙහි විකුණගන්නත් බෑ
+
+*2024-05-13 12:55:01* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දෙහි-කිලෝව-2000යි-රජරට-දෙහි-විකුණගන්නත්-බෑ/11-409590) · `si`
+
+රජරට ප්‍රදේශයේ හටගන්නා ආර්ථික භෝග විශාල වශයෙන් ආර්ථික වටිනාකමක් නොමැතිව ගස් යට වැටී යන බවත්, එම බෝග නාගරික ප්‍රදේශවල  සුවිශාල මිල ගණන් යටතේ අලෙවි කෙරෙන බවත්, ගොවියා මරා ගෙන කන අතරමැදි මාෆියාව වහා නතර කිරීමට රජයේ පියවර ගත යුතු බව ජාතික පාරිභෝගික පෙරමුණේ නායක අසේල සම්පත් මහතා පවසයි.
+
+ඒ මහතා මේ බව සඳහන් කලේ ඊයේ (12දා) තලාව ප්‍රාදේශීය ලේකම් කාර්යාලයේ පැවති වැඩ සටහනකට සහභාගි වීමෙන් අනතුරුව මධ්‍ය වෙත අදහස් දක්වමින්ය.
+
+"රජරට ප්‍රදේශයේ තිබෙන ආර්ථික භෝග විශාල වශයෙන් ආර්ථික වටිනාකමක් නොමැතිව ගස්යට වැටී යනවා, එම බෝග නාගරික ප්‍රදේශවල  සුවිශාල මිල ගණන් යටතේ අලෙවි කෙරෙනවා එයට උදාහරණයක් ලෙස ගත්විට කොළඹ ප්‍රදේශයේ දෙහි කිලෝවක් රුපියල් 2000කට අලෙවි වනවා. එහෙම අලෙවින් වෙන කොට, එම දෙහි කිලෝ එක අනුරාධපුරයේ රුපියල් 50ත් අලෙවි කිරීමට නොහැකිව තිබෙනවා. ගලෙන්බිඳුනුවැව  පැත්තේ දෙහි ගස් යට වැටිලා තිබෙනවා  අපි දැක්කා.
+
+...
+
+[Data](articles/d32b4ef1.json)
+
+---
+
+### වලංගු බලපත් නොමැතිව පවත්වාගෙන ගිය ෆාමසි වටලයි
+
+*2024-05-13 12:47:04* · [`adalk`](https://www.ada.lk/breaking_news/වලංගු-බලපත්-නොමැතිව-පවත්වාගෙන-ගිය-ෆාමසි-වටලයි/11-409589) · `si`
+
+වලංගු බලපත් නොමැතිව ගම්පහ නගරයේ පවත්වාගෙන ගිය බව කියන  ඔසුසල් දෙකක් සම්බන්ධයෙන් නීතිමය පියවර ගනු ලැබූ බව ගම්පහ දිස්ත්‍රික් ආහාර හා ඖෂධ පරීක්ෂක ඒකකය සදහන් කරයි.
+
+එම ඔසුසල් දෙක පරීක්ෂාවට ලක් කළ අවස්ථාවේදී ඒවායෙහි සහතික ලත් ඖෂධවේදීන් නොවූ බව පැවසූ ශ්‍රී ලංකා ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමයේ ලේකම් නීතීඥ වික්‍රමසේකර බණ්ඩාර මහතා , එම ඔසුහල් දෙකෙහි හිමිවරුන්ට එරෙහිව අධිකරණමය ක්‍රියා මාර්ග ගනු ලැබූ බවද වාර්තාවේ.
+
+මේ අතර සහතික ලත් ඖෂධවේදීන් නොමැතිව ගම්පහ - ජාඇල මාර්ගයේ  පවත්වාගෙන ගිය ඔසුසලක් සම්බන්ධයෙන්ද නීතිමය පියවර ගනු ලැබූ පැවසූ ආහාර හා ඖෂධ පරීක්ෂකවරයා , එම ඔසුසලෙහි කල් ඉකුත්වූ ඖෂධ අලෙවිය සඳහා තිබූ බවද සදහන් කළේය.
+
+ගම්පහ දිස්ත්‍රික් ආහාර හා ඖෂධ පරීක්ෂකවරුන්වන නීතීඥ වික්‍රමසේකර බණ්ඩාර සහ ඩී.එම්.වයි.රවීන්ද්‍ර යන මහත්වරුන් විසින් වැටලීම් සිදු කොට ඇති අතර නියම කරනු ලබන දිනකදී ගම්පහ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත්වීමට යටත්ව එම ඔසුසල්කරුවන් බැඳුම්කර ඇප මත මුදා හැර තිබේ.
+
+◼️
+
+[Data](articles/1fa83c30.json)
 
 ---
 
@@ -773,6 +901,24 @@ Mahinda Rajapakse issued a statement that the recommendation came amid increasin
 [Data](articles/4c7e2d5d.json)
 
 [Extended Data](ext_articles/4c7e2d5d.ext.json)
+
+---
+
+### 41වසරක් පුරා දුන් ලේ දන්සැල
+
+*2024-05-13 10:58:43* · [`adalk`](https://www.ada.lk/breaking_news/41වසරක්-පුරා-දුන්-ලේ-දන්සැල/11-409587) · `si`
+
+ආරච්චිකට්ටුව කරුක්කුලිය ශ්‍රී ජයතිලකාරාම විහාරස්ථ දායක සභාව විසින් වරෂයක් පාසා නොකඩවා සංවිධානය කරනු ලැබූ  ලේදන්දීමේ වැඩසටහන් මෙවරත් 41 වෙනි වරට එම විහාරස්ථානයේදී අද (13) පැවැත්වීය.
+
+මෙහිදී ලේදන්දීම සඳහා පරිත්‍යාගශීලි දායකයින් 113දෙනෙකු ඉල්ලීම් සිදුකර තිබූ අතර ඉන් 110 නෙකුට ලේදන්දීම සඳහා අවස්ථාව ලැබුනි. එහිදී  ස්වාමීන් වහන්සේ කීප නමක්ද ලේදන්දීම විශේෂයක්  විය.
+
+එදින සවස ප්‍රදේශ වාසීන්ට හා මුලු රටටම සෙත්පතා බෝධිපූජාමය ආශීරවාද පිංකමක් පැවැත්වූහ.
+
+මයියාව විහාර පරම්පරාවේ අධිපති ශාෂනාරක්ෂක බලමණ්ඩලයේ ලේඛකාධිකාරී කරුක්කුලිය ජයතිලකාරාමාධිපති පූජ්‍ය නවදනකුලමේ මේදානන්දාභිධාන නායක ස්වාමීන්වහන්සේගේ අවවාද අනුශාෂනා වලට අනුකූලව කරුක්කුලිය ජයතිලකාරාම දායක සභාව විසින් මෙම ලේදන්දීමේ වැඩසටහන සංවිධානය විය.
+
+...
+
+[Data](articles/68e35868.json)
 
 ---
 
@@ -2143,157 +2289,5 @@ The joint proposal was put forth by President Ranil Wickremesinghe and Education
 [Data](articles/ba6bc7ad.json)
 
 [Extended Data](ext_articles/ba6bc7ad.ext.json)
-
----
-
-### Sarva Ameresekere takes baton as Group Chairman of George Steuart & Co.
-
-*2024-05-13 02:18:41* · [`dailyftlk`](https://www.ft.lk/business/Sarva-Ameresekere-takes-baton-as-Group-Chairman-of-George-Steuart-Co/34-761714) · `en`
-
-Sri Lanka’s oldest company fortifies its Board in readiness for a phase of accelerated growth under new stewardship
-
-Sarva Ameresekere has been appointed the Group Chairman of George Steuart & Co. Ltd. (GS&Co), Sri Lanka’s oldest company established in 1835.
-
-The appointment comes as Dilith Jayaweera resigned from the Group Chairmanship and all directorates he held within the Group in January, as Jayaweera’s entrepreneurial journey shifts focus to creating a national level political impact.
-
-...
-
-[Data](articles/e58f95fa.json)
-
-[Extended Data](ext_articles/e58f95fa.ext.json)
-
----
-
-### Miraclon selects Sri Lanka’s ALFT Packaging to showcase business and technology evolution
-
-*2024-05-13 02:15:51* · [`dailyftlk`](https://www.ft.lk/business/Miraclon-selects-Sri-Lanka-s-ALFT-Packaging-to-showcase-business-and-technology-evolution/34-761713) · `en`
-
-From left: ALFT COO Tissa Gunaratne, Miraclon Director Andy Yarrow, Miraclon Sales Manager Hrishikesh Kulkarni, and Miraclon CEO Christopher Payne
-
-Miraclon, a global leader in the flexographic printing industry renowned for its cutting-edge plate making and prepress technologies, has chosen ALFT Packaging, Sri Lanka’s sole purpose-built packaging solutions provider, to showcase its business and technological advancements.
-
-Miraclon, with operations across 180 countries and a vast customer base of over 25,000, is a driving force behind the transformation to modern flexography for more than a decade.
-
-...
-
-[Data](articles/cff9ac56.json)
-
-[Extended Data](ext_articles/cff9ac56.ext.json)
-
----
-
-### A Journey Of Courage & Pragmatism
-
-*2024-05-13 02:01:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-journey-of-courage-pragmatism/) · `en`
-
-Bandula Chandrasekara: The Author of “Asuwe Parapuren Sannaddawa”- [අසූවෙ පරපුරෙන් සන්නද්ධව ] A Journey of Courage and Pragmatism
-
-Bandula Chandrasekara – A name that symbolizes resilience, courage and relentless pursuit of one’s beliefs.  When I reflect on my school days, memories come flooding back of the boy who sat next to me at Royal College, wearing the iconic blue shorts that symbolized our junior school education.  From those early days, Bandula stood out as a bright light, embodying the school motto of *”Learn or Depart” in every aspect of his life.
-
-His journey described in his book *”Asuwe Parapuren Sannaddawa”* speaks of his unwavering determination and dedication to his ideals.  Although I am sad that I missed the book launch, I am proud to know that our 83 logo was represented there, along with notable figures like Keerthi, Panduka and Malinda Seneviratne, who started his  political journey with Bandula and Patali  Champika Ranawaka .
-
-...
-
-[Data](articles/719711fe.json)
-
-[Extended Data](ext_articles/719711fe.ext.json)
-
----
-
-### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
-
-*2024-05-13 01:59:55* · [`dailyftlk`](https://www.ft.lk/business/AHK-Sri-Lanka-organises-first-ever-delegation-to-Hannover-Messe-2024-in-Germany/34-761712) · `en`
-
-With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24 to 26 April.
-
-AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunugama to lead the delegation along with other Government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
-
-...
-
-[Data](articles/d59358c1.json)
-
-[Extended Data](ext_articles/d59358c1.ext.json)
-
----
-
-### AHK Sri Lanka organises first-ever delegation to ‘Hannover Messe 2024’ in Germany
-
-*2024-05-13 01:59:02* · [`dailyftlk`](https://www.ft.lk/business/AHK-Sri-Lanka-organises-first-ever-delegation-to-Hannover-Messe-2024-in-Germany/34-761711) · `en`
-
-With the aim of promoting investment opportunities in Sri Lanka and building confidence among current and potential investors, the German Industry and Commerce Delegation to Sri Lanka (AHK Sri Lanka) organised a three-day delegation to the Hannover Messe from 24 to 26 April.
-
-AHK Sri Lanka had invited Minister of State for Investor Promotion Dilum Amunugama to lead the delegation along with other Government officials and representation of the Sri Lankan business community. This was the first time that Sri Lanka had officially participated at the Hannover Messe which is considered to be the world’s leading industrial trade fair.
-
-...
-
-[Data](articles/65e35b52.json)
-
-[Extended Data](ext_articles/65e35b52.ext.json)
-
----
-
-### ABMCL bags National Quality Award
-
-*2024-05-13 01:53:20* · [`dailyftlk`](https://www.ft.lk/business/ABMCL-bags-National-Quality-Award/34-761710) · `en`
-
-ABMCL Director/CEO P. Sarkar receives award from State Minister for Technology Kanaka Herath
-
-Associated Battery Manufacturers (Ceylon) Ltd., (a subsidiary of Exide Industries Ltd.,) [ABMCL] was honoured with the Sri Lanka National Quality Award under the Manufacturing - Medium Scale category organised by the Sri Lanka Standards Institution (SLSI), at the Monarch Imperial, Thalawathugoda recently.
-
-The Company is the manufacturer of renowned automotive batteries, Exide, Lucas and Dagenite.
-
-...
-
-[Data](articles/6c8ddffa.json)
-
-[Extended Data](ext_articles/6c8ddffa.ext.json)
-
----
-
-### Completely suspend work on reorganizing state institutions - urging Mahinda Rajapaksa government
-
-*2024-05-13 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183366) · `ta`
-
-Mahinda Rajapaksa urges the government to halt all actions on state asset restructuring until after the presidential election, emphasizing the need for the winning party to decide on state resources. He criticizes the current government's contradictory steps in selling state-owned assets and businesses, arguing for a progressive policy that benefits the public and supports economic growth without privatization.
-
-🟩
-
-The government must completely suspend all measures that the new government has taken place following the presidential election until a new government emerges.. Former President Mahinda Rajapakse has pointed out that measures can be taken on state assets and resources in accordance with the people who win the presidential election.
-
-He made the above statement on a special media statement on the restructuring of state institutions.
-
-The government's steps to sell state -owned assets and businesses have been contradictory among trade unions, political parties and the general public.. The government states that it is renovating state institutions in order to reduce the costs for loss and state institutions and to implement the IMF's implementation conditions.
-
-When I ruled as President from 2005 to 2015, I did not privatize and sell any resources.
-
-...
-
-[Data](articles/8225d70c.json)
-
-[Extended Data](ext_articles/8225d70c.ext.json)
-
----
-
-### 1 kg 760 g cannabis recovery in Kilinochchi!
-
-*2024-05-13 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183365) · `ta`
-
-In Kilinochchi, 1 kg of cannabis was recovered, including 760g from a motorcycle and two suspects in Kanakapuram and Vivekananda Nagar. The suspects were on their way to a cannabis business when caught. Further investigations are ongoing by the Kilinochchi Police STF.
-
-🟩
-
-A motorcycle and two suspects have been arrested in Kanakapuram and Vivekananda Nagar, which belongs to the Kilinochchi police division, 760 grams of cannabis.
-
-According to information received by the police, he escaped from a motorcycle and a kilo of 500 grams of cannabis as he tried to raid the motorcycle.
-
-Similarly, 260 grams of cannabis has been recovered from the two suspects who were on their way to the Cannabis Business after the Kilinochchi police were confidential information available to the Kilinochchi Division.
-
-Further investigations are being investigated by the Kilinochchi Police Special Task Force (STF) and the police.
-
-◼️
-
-[Data](articles/11f1b074.json)
-
-[Extended Data](ext_articles/11f1b074.ext.json)
 
 ---

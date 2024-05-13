@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 17:33:54**
+As of **2024-05-13 17:54:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,805
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,727 (100.0%) of 23,729 articles have been extended.
+23,729 (100.0%) of 23,729 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The petitions were submitted by 14 parties including the secretary of the Ceylon
 ◼️
 
 [Data](articles/ee23fdd7.json)
+
+[Extended Data](ext_articles/ee23fdd7.ext.json)
 
 ---
 
@@ -80,21 +82,27 @@ The strike was launched by university non -academic staff at 11.30 am in Kandy.
 
 ---
 
-### එවරස්ට් කන්දෙන් ඇසෙන සුපිරි ලෝක වාර්තාව
+### Super World Report to hear from Mount Everest
 
 *2024-05-13 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196582) · `si`
 
-ලොව උසින් වැඩිම කන්ද ලෙස සැලකෙන එවරස්ට් කන්ද තරණය කර ලෝක වාර්තා තැබීමට නේපාල ජාතික කඳු නගින්නෙක් සහ බ්‍රිතාන්‍ය ජාතික කඳු නගින්නෙක් පසුගියදා සමත්විය.
+Nepali climber Komi Rita, 54, has reached Mount Everest, the world's highest peak, for the first time since 1994. British climber Kenton Coole, marking the 18th anniversary of his Everest ascent, also reached the summit.
 
-එහිදී 29 වරක් එවරස්ට් තරණය කළ නේපාල ජාතික 54 හැවිරිදි කමයි රීටා ෂෙර්පා ලොව වැඩිම වාර ගණනක් එවරස්ට් තරණය කළ පුද්ගලයා බවට නැවතත් පත්වුණි.
+🟩
 
-වෘත්තියෙන් එවරස්ට් තරණය කරන්නන්ගේ මඟ පෙන්වන්නෙක් වන රීටා එය පළමුව තරණය කර ඇත්තේ 1994 වසරේදීය.
+Nepali climbs and British climbs have crossed Mount Everest, which is the highest mountain of the world.
 
-මේ අතර පසුගියදා එවරස්ට් තරණය කළ බ්‍රිතාන්‍ය ජාතික කෙන්ටන් කූල් මෙවර 18 වැනි එවරස්ට් තරණය කළ අතර ඔහු ඉතිහාසයට එක්වන්නේ වැඩිම වාර ගණනක් එවරස්ට් තරණය කළ විදේශිකයා ලෙසටය.
+The 54-year-old Komi Rita Rita, Rita, was once again crossing Everest.
+
+Rita, a guide of Everest, has crossed it first in 1994.
+
+Meanwhile, the British Kenton Coole, which crossed Everest recently, climbed the 18th anniversary of the Everest.
 
 ◼️
 
 [Data](articles/a96801ce.json)
+
+[Extended Data](ext_articles/a96801ce.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 06:58:32**
+As of **2024-05-13 07:20:00**
 
 ## Newspaper Stats
 
-*Scraped **23,577** Articles*
+*Scraped **23,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,195 @@ colombotelegraphcom | 212
 bbccomsinhala | 243
 dbsjeyarajcom | 245
 newsfirstlk | 363
-islandlk | 1,278
+islandlk | 1,285
 economynextcom | 1,350
 dailyftlk | 1,374
 adalk | 2,002
 adaderanalk | 2,751
-tamilmirrorlk | 2,760
+tamilmirrorlk | 2,761
 virakesarilk | 3,516
-dailymirrorlk | 3,705
+dailymirrorlk | 3,713
 adaderanasinhalalk | 3,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,576 (100.0%) of 23,577 articles have been extended.
+23,577 (99.9%) of 23,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Concessionary vehicle permits: MPs have their way, ignoring economic crisis
+
+*2024-05-13 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Concessionary-vehicle-permits-MPs-have-their-way-ignoring-economic-crisis/155-282449) · `en`
+
+Colombo, May 13 (Daily Mirror) - Despite the cost of living sizzling at red hot levels and the country being cash- strapped, the House Committee of Parliament has endorsed the proposal to offer concessionary vehicle permits for MPs as requested by them, a top source said.
+
+The source familiar with the decision said the committee which looks into the requirements of the MPs positively considered the request by them for such permits in line with the similar facilities offered to executive graders in different categories of the public service.
+
+The MPs , numbering more than 100 and representing different parties, submitted a letter to Speaker Mahinda Yapa Abeywardena asking for permission to import vehicles with no duty for their use.
+
+Following the approval by the House Committee, the Speaker is expected to write to President Ranil Wickremesinghe who is authorized to execute the decision as the Finance Minister.
+
+...
+
+[Data](articles/8bc8e5e6.json)
+
+---
+
+### Tamil and Muslim voting trends in Presidential Elections
+
+*2024-05-13 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/dbs-jeyaraj-column/Tamil-and-Muslim-voting-trends-in-Presidential-Elections/192-282447) · `en`
+
+The votes from the Tamil and Muslim communities may determine who the 2024 Presidential hustings victor is likely to be
+
+This is the fourth article in a series focusing on Sri Lankan President Ranil Wickremesinghe and his evolving strategy to contest the forthcoming 2024 Presidential Elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s Presidential Election plans and prospects, the objective of this series is to analyse in detail the  game plan and stratagems adopted by Wickremesinghe to face the 2024 Presidential hustings. Since Wickremesinghe is the incumbent President, priority is being given to him. However, after this series is concluded, I do intend to write about other presidential aspirants and their election campaigns also in the future.
+
+In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes, if delivered en bloc, may determine who the 2024 Presidential hustings victor is likely to be
+
+...
+
+[Data](articles/19b55b44.json)
+
+---
+
+### Israel has lost its moral compass and conscience
+
+*2024-05-13 05:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israel-has-lost-its-moral-compass-and-conscience/172-282446) · `en`
+
+A former IDF soldier, interviewed on another channel, admits that some of the IDF actions he witnessed in Gaza could amount to war crimes.
+
+Most Israelis simply do not care about what happens to Arabs and Palestinians
+
+Prime Minister Benjamin Netanyahu reflects this cynical insularity of the Israeli public
+
+Protests against Israeli excesses in conducting its war against Hamas in Gaza are widening in scope daily. This is not a war against Hamas; it’s a total war against the Palestinians designed to drive them out of ‘Greater Israel.’
+
+These protests are almost exclusively in the West. It isn’t that the rest of the world is deaf and blind to what’s going on. But this is a Western problem, because of the West’s troubled historical relationships with the Jews, culminating in a great deal of sympathy for Israel after its creation (essentially a Western creation because of British Middle Eastern politics after WWII).
+
+...
+
+[Data](articles/13eb670b.json)
+
+---
+
+### Who’s to blame for Ms. Diana’s flaws - EDITORIAL
+
+*2024-05-13 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Whos-to-blame-for-Ms-Dianas-flaws-EDITORIAL/172-282445) · `en`
+
+Oh dear, oh dear, a British citizen and non-Sri Lankan, MP Diana (not to be mistaken for Britain’s Princess Diana) has been unseated as a Member of our Parliament. O tempora, o mores we are once again being made the laughing stock of the world. A British citizen is not only a member of our Parliament, she is also a State Minister of this country.
+
+The 60-year-old was (according to media reports) appointed a National List MP by the Samagi Jana Balawegaya (SJB) in return for the transferring of control of the Ape Jathika Peramuna (AJP) to the SJB.
+
+Ever-popular past Commissioner of Elections Mahinda Deshapriya -respected for his nonpartisan rulings during election controversies- and an expert on election practices, speaking to this newspaper days ago said: “Sri Lankan law only prevents a non-citizen from becoming a Member of Parliament, to contest an election, while the law also prohibits a non-citizen to vote in an election...”.
+
+...
+
+[Data](articles/a1bc0b96.json)
+
+---
+
+### Indo-Lanka land connectivity most ambitious  move- Indian High Commissioner
+
+*2024-05-13 05:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Indo-Lanka-land-connectivity-most-ambitious-move-Indian-High-Commissioner/231-282444) · `en`
+
+Indian High Commissioner Santhos Jha: ‘The potential of India-Sri Lanka friendship is limitless’
+
+Indian High Commissioner Santos Jha, in an interview with a select group of journalists, discusses the current status of bilateral ties and the future direction particularly with emphasis on connectivity.
+
+Q  It has been a little over four months since you assumed duties as High Commissioner here. What are your initial impressions?
+
+Coming to Sri Lanka as India’s High Commissioner was in some way a homecoming for me - in a role with greater responsibility. I was here from 2007-10 as Counsellor. Sri Lanka has always been close to my heart with many memories and several friends who will stay with me for the rest of my life.
+
+Since December, I’ve had an action-packed 4-4.5 months. I’ve travelled the length and breadth of the country, met people across spheres - political, business, media, academia and so on - and everywhere I have experienced a sense of filial warmth.
+
+...
+
+[Data](articles/d7cb3117.json)
+
+---
+
+### NMRA to introduce security sticker for all pharma registration certificates soon
+
+*2024-05-13 04:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-to-introduce-security-sticker-for-all-pharma-registration-certificates-soon/108-282448) · `en`
+
+Colombo, May13 (Daily Mirror) - As a move to counter the controversial issue of substandard and dangerous medicines entering Sri Lanka through unregistered importers like the human immunoglobulin racket, the National Medicines Regulatory Authority (NMRA) will introduce a security sticker in future.
+
+The NMRA has decided to introduce a security sticker to all the medicines registration certificates, thus preventing any instances of forging the certificate by unlawful importers.
+
+NMRA Chairman Dr. Ananda Wijewickrama told the Daily Mirror yesterday that the measure was taken following the allegations made towards them that medicines are brought in by unregistered importers or the unlawful vendors have forged the registration certificate issued by the NMRA.
+
+...
+
+[Data](articles/a735f9f9.json)
+
+---
+
+### IT Gallery – Hikvision Partner Summit 2024 fetes its islandwide partners
+
+*2024-05-13 04:22:00* · [`islandlk`](http://island.lk/it-gallery-hikvision-partner-summit-2024-fetes-its-islandwide-partners/) · `en`
+
+IT Gallery Computers Private Limited, a leading player in Sri Lanka’s IT distribution market, recently hosted the prestigious “IT Gallery – Hikvision Partner Summit 2024,” a culmination of their annual partner gathering tradition since 2017. The event was held under the theme “New Security, New Success”, and organized to recognize and honour the island-wide partners of Hikvision for their exceptional performance in 2023 and 2024. The event showcased the latest trends and innovations in the security surveillance market.
+
+Dilantha Perera, Director/CEO of IT Gallery Computers Private Limited, expressed pride in IT Gallery’s longstanding partnership with Hikvision, stating, “Our commitment to innovation and support for our partners has established IT Gallery as a trusted hub of technological advancement in Sri Lanka’s surveillance market.”
+
+...
+
+[Data](articles/60a0e070.json)
+
+---
+
+### Ministry of Technology collaborates with Mastercard for DigiEcon Global Investment Summit 2024
+
+*2024-05-13 04:02:00* · [`islandlk`](http://island.lk/ministry-of-technology-collaborates-with-mastercard-for-digiecon-global-investment-summit-2024/) · `en`
+
+The Ministry of Technology has collaborated with Mastercard for the DigiEcon Global Investment Summit 2024, which is aimed at catalyzing the country’s economic resurgence by encouraging collaborations between global investors, industry leaders, entrepreneurs and policymakers.
+
+Scheduled to be held on June 25, 2024, the summit will focus on connecting domestic and foreign investors with Sri Lanka’s leading tech startups, allowing them to showcase their innovative products and services. It will also facilitate knowledge sharing between the government and industry, thereby supporting the vision of Sri Lanka becoming a digital-first nation.
+
+The summit will include a host of activities, such as keynote address by subject matter experts, panel discussions involving government and industry representatives, and one-to-one interactions between investors and startups. The event will delve into subjects, such as emerging technologies, fintech, and the potential of the digital economy.
+
+...
+
+[Data](articles/fde33bbf.json)
+
+---
+
+### CTC announces appointment of Fariyha Subhani as managing director
+
+*2024-05-13 03:58:00* · [`islandlk`](http://island.lk/ctc-announces-appointment-of-fariyha-subhani-as-managing-director-2/) · `en`
+
+Ceylon Tobacco Company PLC (CTC) announced the appointment of Fariyha Subhani as Managing Director and Chief Executive Officer, effective 15th April 2024.Subhani takes over the reins as Managing Director from Monisha Abraham, who was appointed to the position in December 2021. Prior to joining CTC, Fariyha served as Managing Director for Upfield (Private) Limited, South & Central Asia, a leading private equity food company. She also spent 28 years with Unilever PLC where she held various senior leadership roles, across geographies and a number of diverse FMCG categories.
+
+...
+
+[Data](articles/f8c1166b.json)
+
+---
+
+### Tourism earnings strengthen further despite March low levels
+
+*2024-05-13 02:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-earnings-strengthen-further-despite-March-low-levels/108-282440) · `en`
+
+Earnings from tourism displayed continued strengthening despite some softening from March. Arrivals eased last month but the momentum persists, projecting robust earnings from the trade which once saw a prolonged decline due to repeated crises from 2019 onwards through 2022.
+
+The tourism trade generated earnings of US$ 225.7 million April, down from US$ 338.4 million, but up from US$ 148.2 million a year ago.
+
+Arrivals softened somewhat in April to 148,867 from 209,181 in March which contributed to the pullback in April.
+
+Tourist arrivals and its earnings to Sri Lanka have been on a tear as the island nation was anyway a preferred leading destination for travel by the global travellers.
+
+Leading global travel publications also featured Sri Lanka among the top destinations for people to travel due to its offerings.
+
+The trade met with some slowdown in 2019 due to Easter bombings before it was nearly decimated by the two years of pandemic, and then by the so-called Aragalaya.
+
+...
+
+[Data](articles/c28d641e.json)
+
+---
 
 ### Wijeyadasa takes over SLFP leadership as Maithri steps down
 
@@ -337,6 +507,42 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 [Data](articles/92ca1c7e.json)
 
 [Extended Data](ext_articles/92ca1c7e.ext.json)
+
+---
+
+### சப்ரகமுவ மாகாணத்தில் ஆசிரியர்கள் வெற்றிடம்
+
+*2024-05-13 00:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-மாகாணத்தில்-ஆசிரியர்கள்-வெற்றிடம்/175-337209) · `ta`
+
+சப்ரகமுவ மாகாணத்தில் 1,080 பாடசாலைகளில் 4 ஆயிரத்து 600 ஆசிரியர் வெற்றிடங்கள் நிலவுகின்றன என கல்வி அமைச்சி தெரிவித்துள்ளது.
+
+இவற்றை நிரப்புவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சப்ரகமுவ மாகாண கல்வி செயலாளர் சாமர பமுனு ஆராச்சி கூறியுள்ளார்.
+
+அதற்கிணங்க, முதற்கட்டமாக 425 பாடசாலைகளில் நிலவும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்கு நடவடிக்கை எடுக்கப்பட்டு வருகின்றது. (a)
+
+◼️
+
+[Data](articles/56bdccb1.json)
+
+---
+
+### Targeted stimulus an option to push economic growth: SLBA Chief
+
+*2024-05-13 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Targeted-stimulus-an-option-to-push-economic-growth-SLBA-Chief/108-282443) · `en`
+
+Stresses SL must achieve an economic growth of 4-5% beyond IMF’s 3% forecast
+
+Says  targeted incentives for growth sectors critical - a negotiation SL has to undertake
+
+Points out SL can’t expect revenues to go up by simply increasing VAT to 18 percent on every possible product
+
+Sri Lanka may need to consider a targeted stimulus package to boost growth in productivity sectors upon completion of the on-going debt restructuring exercise, Sri Lanka Banks’ Association Chief said.
+
+SLBA Chairman and Standard Chartered Sri Lanka Chief Executive Officer Bingumal Thewarathanthri asserted that it remains critical for Sri Lanka to at least achieve an economic growth of 4-5 percent beyond IMF’s forecasted 3 percent over the next few years.
+
+...
+
+[Data](articles/54cae6cc.json)
 
 ---
 
@@ -1188,6 +1394,52 @@ The Insurance Association of Sri Lanka (IASL) the representative body of the ins
 
 [Data](articles/07d887ae.json)
 
+[Extended Data](ext_articles/07d887ae.ext.json)
+
+---
+
+### Litro Gas commissions its state-of-the-art storage and bottling Facility in Sapugaskanda
+
+*2024-05-12 18:52:00* · [`islandlk`](http://island.lk/litro-gas-commissions-its-state-of-the-art-storage-and-bottling-facility-in-sapugaskanda/) · `en`
+
+Litro Gas ceremonially commissioned its state-of-the-art refurbished and upgraded storage and bottling facility at Mabima, Sapugaskande last week. The ceremony was presided over by the Chief of Staff & National Security Advisor to the President, Sagala Rathnayaka. Recognized as one of the largest in the region, the Mabima facility reinforces Litro Gas’s commitment to operational excellence and national energy security.
+
+Commissioned in 1984 during Colombo Water & Gas Company, the Mabima Filling Plant has been completely refurbished after 40 years to meet international operation and safety standards, enhancing efficiency. The refurbishment and upgrading of the Mabima facility, which cost a little over Rs. 1 billion, will ensure bottling and distribution efficiency for another 10 to 15 years for the country. Mabima will play a vital role alongside the Kerawalapitiya plant, reducing dependency on the Kerawalapitiya filling plant, which was commissioned in 2014.
+
+...
+
+[Data](articles/7b72ab69.json)
+
+---
+
+### Sarva Ameresekere appointed as group chairman of George Steuart
+
+*2024-05-12 18:51:00* · [`islandlk`](http://island.lk/sarva-ameresekere-appointed-as-group-chairman-of-george-steuart/) · `en`
+
+Sarva Ameresekere has been appointed the Group Chairman of George Steuart & Co. Ltd.(GS&Co), Sri Lanka’s oldest company established in 1835. The appointment comes as Dilith Jayaweera resigned from the Group Chairmanship and all directorates he held within the Group in January, following his entry into politics.
+
+The new Group Chairman, Sarva Ameresekere was first appointed to the Board of GS&Co in 2020 and was then made Group Executive Director thereafter. He serves on many Boards within the Group including all its listed entities and had been the Chief Executive Officer of the Triad Group since 2008. Qualified in both business and engineering from the University of Michigan, Ann Arbor and the University of Southern California, Los Angeles, Sarva has extensive local and foreign experience. Under his stewardship, Sri Lanka’s oldest company will head to its future with global ambitions and a bold outlook.
+
+Sampath Bank unveils Vishwa Retail App, redefining Internet banking in Sri Lanka
+
+...
+
+[Data](articles/2d2a93d0.json)
+
+---
+
+### Lanka Hospitals Academy consolidates its hold on healthcare education in Sri Lanka
+
+*2024-05-12 18:51:00* · [`islandlk`](http://island.lk/lanka-hospitals-academy-consolidates-its-hold-on-healthcare-education-in-sri-lanka/) · `en`
+
+Lanka Hospitals Academy, the healthcare education arm of Lanka Hospitals PLC, has reached a significant milestone with the inauguration of its new premises. The new facility, located at No. 657, Elvitigala Mawatha, Colombo 05, in the vicinity of the hospital, marks a new chapter in the academy’s commitment to providing high-quality healthcare education and producing skilled professionals in various healthcare disciplines.
+
+Deepthi Lokuarachchi, Group CEO of Lanka Hospitals PLC said, “Lanka Hospitals is taking its professional healthcare education to the next level, producing the most sought-after healthcare professionals of different disciplines. Lanka Hospitals Academy has become the ‘apex’ body in healthcare education, offering a wide range of courses from pharmacy, caregiving, phlebotomy and nursing.”
+
+...
+
+[Data](articles/969ae8db.json)
+
 ---
 
 ### Landslide issues the pre-warnings of the landslide
@@ -1837,329 +2089,5 @@ What is the mood of the Tamils in the upcoming presidential election that the Ta
 [Data](articles/8a038935.json)
 
 [Extended Data](ext_articles/8a038935.ext.json)
-
----
-
-### MP claims issue with 2023 G.C.E O/L Science question paper
-
-*2024-05-12 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99164/mp-claims-issue-with-2023-gce-ol-science-question-paper) · `en`
-
-The Science question paper for the 2023 (2024) G.C.E O/L examination has been prepared beyond the provisioning plan, MP Madhura Withanage alleges.
-
-During a press briefing, MP Withanage highlighted that portions of three Multiple Choice Questions (MCQs) and three essay-type questions in this year’s O/L Science paper has been prepared outside the provisioning plan.
-
-The MP disclosed that he has already raised the issue with the Commissioner General of Examinations.
-
-Furthermore, MP Withanage stated that the Commissioner General assured him that during the review of the progress of granting marks, which will be conducted a month after the examination, the matter will be addressed to prevent any injustice to the students.
-
-◼️
-
-[Data](articles/9b7109ab.json)
-
-[Extended Data](ext_articles/9b7109ab.ext.json)
-
----
-
-### Judgment against Diana Kamage: United People's Power
-
-*2024-05-12 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183328) · `ta`
-
-Diana Kamage, a former Sri Lankan MP and Tourism Minister, lost her parliamentary status due to a High Court ruling on cannabis farming and sex industry legalization. She failed to maintain her Sri Lankan citizenship after acquiring British citizenship, leading to a Supreme Court ruling that she could not serve as an MP. Kamage was sentenced to six months in prison for fraudulently obtaining a Sri Lankan national identity card. The controversy over her citizenship and political affiliations, including her time with the United People's Power and subsequent support for the General Jana Peramuna, led to her downfall. Despite legal challenges and party controversies, Kamage remains hopeful of returning to politics.
-
-🟩
-
-Tourism Minister Diana Kamage has lost his MP's status as per the High Court ruling, which has been asked to legalize cannabis farming in the country whenever he has the opportunity, to export cannabis and legalize the sex industry.
-
-After giving British citizenship, Diana failed to continue with the status of Sri Lankan citizen. The Supreme Court has issued this ruling in the confirmation of evidence that he cannot be a Member of Parliament because he is not a Sri Lankan citizen.
-
-It is not to say that he lost his post and escaped the clutches of the law. He has to be sentenced to six months in prison, with his British citizen's status and the crime of obtaining a national identity card called Sri Lanka Citizens and Fake information to the Immigration and Immigration Controller through fake documents.
-
-...
-
-[Data](articles/e209a5e8.json)
-
-[Extended Data](ext_articles/e209a5e8.ext.json)
-
----
-
-### Plan to disconnect Chinese relationship
-
-*2024-05-12 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183330) · `ta`
-
-Japan aims to sever ties between Sri Lanka and China, aiming for a state of "unreconciliation" in the Indian Ocean region.
-
-🟩
-
-Note: "If Japan seeks to create a state of unreitionalism of Sri Lanka and China for the oceans, it is the plan to cut the nest between the two countries."
-
-◼️
-
-[Data](articles/93f1731d.json)
-
-[Extended Data](ext_articles/93f1731d.ext.json)
-
----
-
-### Running to the country on World Mothers Day
-
-*2024-05-12 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196540) · `si`
-
-"World Mothers Day honors mothers who've overcome hardships, like Renini, a 30-year-old who struggles to return home after leaving for the city. Despite the challenges, she remains hopeful for a better future."
-
-🟩
-
-"Today has been reported to the World mothers day of the world mothers who have forgotten their disorder and have a daughter of her mother's life.
-
-Renini, who suffer from a consequence of a conversation in the area, is now 30 years old.
-
-The mother's day is not forgetting about these mothers' Day, who is trying to go to the city and sell their living in the city.
-
-But that daughter is lack of a proper way to go home.
-
-"I'm very hard to watch my mother. Home shortcomings I don't ask anyone. Makes out alone. I don't leave a road to come home. I don't want anything else.. Give it a road. "Runka said.
-
-◼️
-
-[Data](articles/cb1c6cd2.json)
-
-[Extended Data](ext_articles/cb1c6cd2.ext.json)
-
----
-
-### Health strike tomorrow
-
-*2024-05-12 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196539) · `si`
-
-Health workers across various provinces will strike tomorrow (13) due to delayed agreement negotiations. The UPFA and Health Trade Union Alliance are involved, with the latter also protesting for doctors' allowances. The strike is a response to the delay in meeting the unions' demands.
-
-🟩
-
-Health workers have planned a strike tomorrow (13) due to the delay in the agreement.
-
-The Health Trade Unions UPFA says that the strike begins tomorrow is scheduled to cover various provinces.
-
-The Health Trade Union Alliance has also engaged in strike actions to the doctors and a parallel allowance for the doctors.
-
-However, the UPFA says that the delay in the agreement related to its demands will be resumed to the strike from tomorrow.
-
-◼️
-
-[Data](articles/67be4d01.json)
-
-[Extended Data](ext_articles/67be4d01.ext.json)
-
----
-
-### Sri Lanka strongly expects to sign up US$3.0 FDI in 2024, with China refinery
-
-*2024-05-12 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-strongly-expects-to-sign-up-us3-0-fdi-in-2024-with-china-refinery-162667/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting to sign foreign direct investment agreements of 3 billion US dollars in 2024, with help of a refinery to be built by Sinopec of China, State Minister for Investment Promotion Dilum Amunugama said.
-
-“The investment promotion ministry was given a target of billion US dollars of FDI for 2024,” Minister Amunugama said.
-
-“Though the final contracts have not been signed I am pleased to say even now discussions are steadily progressing to exceed that number.
-
-“By the second quarter we are likely to be able to double it and by the end of the year may be treble it.”
-
-A renewable energy project by India’s Adani group for which a power purchase agreement was approved by the cabinet this week was valued at 800 million US dollars.
-
-The first phase of an oil refinery in Hambantota by China’s Sinopec group will be around 2.8 billion US dollars.
-
-China’s refinery is to be a 5.0 billion US dollar in three phases with the first phase valued at 2.8 billion dollars.
-
-...
-
-[Data](articles/d7112d22.json)
-
-[Extended Data](ext_articles/d7112d22.ext.json)
-
----
-
-### Sri Lanka ex-President Mahinda Rajapaksa slams privatization
-
-*2024-05-12 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-mahinda-rajapaksa-slams-privatization-162672/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ex-President Mahinda Rajapaksa has slammed a current privatization drive, claiming that they are ‘national’ assets.
-
-“I ruled the country for more than nine years from November 2005 to January 2015 without ever selling a single state-owned enterprise,” President Rajapaksa said in statement.
-
-“In fact, my government actually re-acquired some state owned enterprises such as the Insurance Corporation, and Lanka Hospitals that had been sold off by previous governments and these enterprises continue to make profits for the state to date.”
-
-The Insurance Corporation ended up in state hands due to a court order, which has been questioned due to lack of opportunity to cross examine witnesses.
-
-Critics however have blamed the Rajapaksa administrations for running down state enterprises for off-budget spending and to give jobs to henchmen and family members.
-
-...
-
-[Data](articles/d7846cc7.json)
-
-[Extended Data](ext_articles/d7846cc7.ext.json)
-
----
-
-### India-Sri Lanka ferry service delayed till May 17
-
-*2024-05-12 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-ferry-service-delayed-till-May-17/108-282411) · `en`
-
-The passenger ferry services scheduled to begin operations on May 13 between Kankesanthurai in Sri Lanka and Nagapattinam in India wil be delayed further due to the delay in delivery of the ferry and unavoidable compliance requirements , IndSri Ferry Service Pvt. Ltd. said.
-
-While issuing an announcement company Managing Director S. Niranjan Nandagopan told the Daily Mirror that the service wil not operate on May 13 as planned but will operate on May 17.
-
-The passenger vessel ‘Sivagangai’ is all set to resume ferry services between Kankesanthurai in Sri Lanka and Nagapattinam in India on May 17, he said.
-
-However, the company said that they have been assured by the authorities that all legal compliance requirement certificates will be issued well in time to start the service from May 17.
-
-Those who have booked journeys from May 13 to 16, will be rescheduled to May 17.
-
-Alternatively, they may also choose to travel on any date after May 17, 2024.
-
-...
-
-[Data](articles/35390174.json)
-
-[Extended Data](ext_articles/35390174.ext.json)
-
----
-
-### A problem with the O / L Science paper
-
-*2024-05-12 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196537) · `si`
-
-MP Madura Withanage accuses the GCE Ordinary Level Science paper of being prepared outside the allocated time. He raised concerns at a press conference, highlighting issues with the science subject paper. He also mentioned a program to discuss exam marks after a month, suggesting a delay in the marking process.
-
-🟩
-
-MP Madura Withanage alleges that the Victory Topic Question Paper of the GCE Ordinary Level Examination has been prepared outside the provision of allocation.
-
-The MP said that a press conference was convented from a media briefing of the science subject issue paper issues related to the science's subject.
-
-He also said that he was inquired from the Commissioner General of Examinations and said that a program to discuss the marks for the examination after conducting the examination and appoints the marks after a month.
-
-◼️
-
-[Data](articles/f70e050c.json)
-
-[Extended Data](ext_articles/f70e050c.ext.json)
-
----
-
-### Acting Secretary General of SLFP Maithri Udawatte
-
-*2024-05-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196536) · `si`
-
-Maithri Udawatte, Attorney Keerthi Udawattuwa, has been appointed as the Acting Secretary General of the SLFP. This decision was made at a recent Executive Committee meeting chaired by Maithripala Sirisena, who had previously resigned from the SLFP Chairman post. The committee also decided to appoint Minister of Justice Wijeyadasa Rajapaksa as the new party chairman.
-
-🟩
-
-Attorney at Law Keerthi Udawattuwa has been appointed as the Acting Secretary General of the Sri Lanka Freedom Party (SLFP).
-
-The Executive Committee of the Sri Lanka Freedom Party Maithripala Sirisena was held at a private hotel in Petakotte this morning.
-
-Former President Maithripala Sirisena had resigned from the post of Sri Lanka Freedom Party Chairman.
-
-Also, at the Executive Committee, the Executive Committee has decided to appoint the Minister of Justice Wijeyadasa Rajapaksa as the party chairman.
-
-◼️
-
-[Data](articles/98ec4302.json)
-
-[Extended Data](ext_articles/98ec4302.ext.json)
-
----
-
-### Keerthi Udawatte appointed SLFP’s Acting General Secretary
-
-*2024-05-12 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99163/keerthi-udawatte-appointed-slfps-acting-general-secretary) · `en`
-
-The Sri Lanka Freedom Party’s (SLFP) faction led by former President Maithripala Sirisena has decided to appoint Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the party, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/bbc0772f.json)
-
-[Extended Data](ext_articles/bbc0772f.ext.json)
-
----
-
-### Wijeadda to the chair of Maithri
-
-*2024-05-12 14:13:21* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රිගෙන්-හිස්වූ-පුටුව-විජයදාසට/11-409573) · `si`
-
-Maithripala Sirisena resigns as SLFP Chairman, and Wijeyadasa is appointed to fill the vacancy.
-
-🟩
-
-Former President Maithripala Sirisena has resigned from the post of Sri Lanka Freedom Party Chairman. The resignation has expressed the resignation at the Executive Committee of Maithripala Sirisena, Malaka, General.
-
-The Evil Similarly, the Minister of Justice Wijeyadasa has been decided to appoint the emptied chairman.
-
-◼️
-
-[Data](articles/ebd35421.json)
-
-[Extended Data](ext_articles/ebd35421.ext.json)
-
----
-
-### Mahinda Rajapaksa urges postponement of national asset sales
-
-*2024-05-12 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Mahinda-Rajapaksa-urges-postponement-of-national-asset-sales/155-282410) · `en`
-
-May 12, Colombo (Daily Mirror) -  Former President Mahinda Rajapaksa has expressed concern over the current government's plans to sell off national assets and state-owned enterprises, calling for the postponement of all such moves until after the next Presidential election, allowing the incoming government to address the issue according to its mandate.
-
-In a statement issued today, Rajapaksa highlighted the discontent among trade unions, political parties, and the general public regarding the ongoing divestiture drive.
-
-Rajapaksa, who served as President from November 2005 to January 2015, emphasized his government's approach towards state-owned assets, stating that they refrained from privatizing profitable enterprises. Instead, they focused on managing prices to ensure economic stability and continued profitability of state-owned enterprises. During his tenure, the country experienced an economic boom, with no discussions of privatization, he noted.
-
-...
-
-[Data](articles/075a0c1e.json)
-
-[Extended Data](ext_articles/075a0c1e.ext.json)
-
----
-
-### Mahinda Rajapaksa urges postponement of national asset sales
-
-*2024-05-12 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mahinda-Rajapaksa-urges-postponement-of-national-asset-sales/108-282410) · `en`
-
-May 12 -  Former President Mahinda Rajapaksa has expressed concern over the current government's plans to sell off national assets and state-owned enterprises, calling for the postponement of all such moves until after the next Presidential election, allowing the incoming government to address the issue according to its mandate.
-
-In a statement issued today, Rajapaksa highlighted the discontent among trade unions, political parties, and the general public regarding the ongoing divestiture drive.
-
-Rajapaksa, who served as President from November 2005 to January 2015, emphasized his government's approach towards state-owned assets, stating that they refrained from privatizing profitable enterprises. Instead, they focused on managing prices to ensure economic stability and continued profitability of state-owned enterprises. During his tenure, the country experienced an economic boom, with no discussions of privatization, he noted.
-
-...
-
-[Data](articles/43dfb8c7.json)
-
-[Extended Data](ext_articles/43dfb8c7.ext.json)
-
----
-
-### Arrest of someone with archaeological
-
-*2024-05-12 14:06:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருட்களுடன்-ஒருவர்-கைது/175-337174) · `ta`
-
-A 34-year-old man was arrested in Kalpitiya for allegedly stealing gold artifacts, including a turtle, horse, and two statues, from a house. The Sri Lankan Navy and CID raided the site, seizing the items. The suspect and artifacts are now with the CID for further legal proceedings.
-
-🟩
-
-A suspect has been arrested on Saturday (11) with archaeologists suspected of being golden on charges of illegal allegations from a house in the Kalpitiya - Alanguda area.
-
-A 34 -year -old man from Kalpitiya and Ethalai area has been arrested, the navy said.
-
-When a special inspection was carried out in the area, the Sri Lankan Navy -owned Vijaya Navy and officials of the Puttalam Division Criminal Investigation Division had raided the house.
-
-During this time, one of the tail, which is made in gold, the turtle, the horse and the two small statues have been seized.
-
-In addition, the arrested suspect and the confiscated artifacts have handed over to the Criminal Investigation Division (CID) under the Puttalam Police Superintendent's Office for further legal action.
-
-◼️
-
-[Data](articles/f8cdfc1f.json)
-
-[Extended Data](ext_articles/f8cdfc1f.ext.json)
 
 ---

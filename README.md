@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 16:18:34**
+As of **2024-05-13 16:33:28**
 
 ## Newspaper Stats
 
-*Scraped **23,705** Articles*
+*Scraped **23,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,122 @@ bbccomsinhala | 244
 dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,286
-economynextcom | 1,354
+economynextcom | 1,357
 dailyftlk | 1,374
-adalk | 2,017
-adaderanalk | 2,768
-tamilmirrorlk | 2,779
+adalk | 2,019
+adaderanalk | 2,770
+tamilmirrorlk | 2,782
 virakesarilk | 3,527
 dailymirrorlk | 3,733
-adaderanasinhalalk | 3,801
+adaderanasinhalalk | 3,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,705 (100.0%) of 23,705 articles have been extended.
+23,705 (100.0%) of 23,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### SC calls for progress report on probe into Pastor Jerome Fernando
+
+*2024-05-13 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99189/sc-calls-for-progress-report-on-probe-into-pastor-jerome-fernando) · `en`
+
+The Supreme Court has instructed the Attorney General to submit a report pertaining to the progress of investigations into Pastor Jerome Fernando, the self-styled ‘prophet’ who came under fire over his controversial comments on other religions.
+
+This order was issued when a Fundamental Rights (FR) petition filed against Pastor Jerome Fernando was taken up before a three-member Supreme Court judge bench led by Chief Justice Jayantha Jayasuriya today (13).
+
+Several religious leaders had filed this petition seeking an order to prosecute Pastor Jerome Fernando under the United Nations International Covenant on Civil and Political Rights (ICCPR) over his derogatory statements related to Lord Buddha and other religious figures.
+
+Pastor Fernando found himself in hot water after a video of one of his sermons went viral on social media, due to allegations that it included derogatory statements related to Lord Buddha and other religious figures.
+
+...
+
+[Data](articles/3f8773d3.json)
+
+---
+
+### வீரர்களைத் தேர்வு செய்யும் போது பாரபட்சம் பார்க்கப்படுகிறதா?
+
+*2024-05-13 16:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீரர்களைத்-தேர்வு-செய்யும்-போது-பாரபட்சம்-பார்க்கப்படுகிறதா/175-337246) · `ta`
+
+2024 ஆம் ஆண்டு ஐசிசி ஆடவர் டி20 உலகக் கோப்பைக்கான இலங்கை அணிக்கான வீரர்களைத் தேர்ந்தெடுக்கும் போது, ​​பாரபட்சம் பார்ப்பதாக கூறப்பட்ட குற்றச்சாட்டுகளை மறுத்த இலங்கை கிரிக்கெட் தேர்வுக் குழுத் தலைவர் உபுல் தரங்க, மேற்கிந்திய தீவுகள் மற்றும் அமெரிக்காவில் நடைபெறவுள்ள உலகக் கோப்பையில் எந்த அணிக்கும் சவால் விடுமளவு இலங்கை அணி நல்ல நிலையில் இருப்பதாக தெரிவித்தார்.
+
+உலகக் கோப்பைக்கான இலங்கை டி20 அணி தொடர்பான பல்வேறு விசனங்களை நிவர்த்தி செய்ய நடைபெற்ற ஊடக சந்திப்பில், வீரர்களின் திறமை, உடற்தகுதி மற்றும் ஒழுக்கம் ஆகியவற்றைத் தவிர தேர்வில் எந்த பாரபட்சமும் இல்லை என்று தரங்க கூறினார். உலகக் கோப்பைக்காக பெயரிடப்பட்டுள்ள 15 பேர் கொண்ட அணி சமநிலை மற்றும் சக்தி வாய்ந்தது என்றார்.
+
+அணித்தலைவர் வனிந்து ஹசரங்க மற்றும் வேகப்பந்து வீச்சாளர் மதீஷ பத்திரன பற்றிய காயம் குறித்த கவலைகளுக்கு பதிலளித்த தரங்கா, இரண்டு வீரர்களும் போட்டிக்கு தகுதியானவர்கள் என்று கூறினார்.
+
+...
+
+[Data](articles/e4666ae6.json)
+
+---
+
+### உதட்டுச்சாயத்துக்கு தடை
+
+*2024-05-13 16:13:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உதட்டுச்சாயத்துக்கு-தடை/50-337245) · `ta`
+
+சிவப்பு நிற உதட்டுச்சாயத்தை தடை செய்ய நடவடிக்கை எடுத்துள்ளதாக வடகொரிய ஜனாதிபதி கிம் ஜாங் உன் ​தெரிவித்துள்ளார்.
+
+அதாவது, சிவப்பு உதட்டுச்சாயம் மட்டுமல்லாது,  ஃபேஷனையும் தடை செய்ய சட்டங்களை இயற்றியுள்ளதாக தெரிவிக்கப்படுகிறது. இந்த சட்டத்தை மீறும் பெண்கள் கடுமையான தண்டனையை அனுபவிக்க நேரிடும் என்றும் தெரிவிக்கப்படுகிறது.
+
+வடகொரியாவில் முதலில் இராணுவம் என்ற கருத்து நடைமுறைப்படுத்தப்படுகிறது. அனைத்து வட கொரியர்களும் ஒருவரையொருவர் பிரித்தறிய முடியாத வகையில் வாழ வேண்டும். மேலும் கவர்ச்சியின் அடையாளமாகிய சிவப்பு உதட்டுச்சாயத்தை தடை செய்ய கிம் ஜாங்-உன் நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bae280f9.json)
+
+---
+
+### Retired Auxiliary Bishop Marius Peiris passes away
+
+*2024-05-13 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99188/retired-auxiliary-bishop-marius-peiris-passes-away) · `en`
+
+The retired Auxiliary Bishop Emeritus of Colombo, His Lordship the most Rev. Dr. Marius Peiris has passed away, the Archdiocese of Colombo announced.
+
+Most Rev. Dr. Marius Peiris was aged 83 at the time of passing.
+
+Meanwhile, the National Catholic Director of Mass Communications Rev. Fr. Jude Krishantha stated that funeral arrangements will be notified later.
+
+◼️
+
+[Data](articles/c5c68ba1.json)
+
+---
+
+### මේරියස් පීරිස් හිමිපාණන් ස්වර්ගස්ථ වෙයි
+
+*2024-05-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196579) · `si`
+
+කොළඹ අගරදගුරු පදවි විශ්‍රාමික සහායක රදගුරු අති උතුම් මේරියස් පීරිස් හිමිපාණන් ස්වර්ගස්ථ වී තිබේ.
+
+විශ්‍රාමික සහයක රදගුරු හිමිපාණන් ස්වර්ගස්ථ වන විට 83 හැවිරිදි වියේ පසුවිය.
+
+◼️
+
+[Data](articles/6f9e67e4.json)
+
+---
+
+### ”அந்தப் பணத்தில் பாடசாலைகளுக்கு கணனிகளை வழங்கலாம்”
+
+*2024-05-13 15:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தப்-பணத்தில்-பாடசாலைகளுக்கு-கணனிகளை-வழங்கலாம்/175-337241) · `ta`
+
+தேர்தலை முன்னிட்டு ஒவ்வொரு உள்ளுராட்சி மன்றங்களுக்கு ஒதுக்கப்பட்டுள்ள ரூ. 10 மில்லியனைக் கொண்டு பாடசாலைகளுக்கு கணனிகளை வழங்குமாறு எதிர்க்கட்சித் தலைவர் பாராளுமன்ற உறுப்பினர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளார்.
+
+எதிர்வரும் தேர்தலை இலக்காகக் கொண்ட ஆலோசனைக் குழு வேலைத்திட்டத்தின் கீழ் உள்ளூராட்சி மன்றங்களுக்கு 10 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளது என பாராளுமன்ற உறுப்பினர் பிரேமதாச இன்று பாராளுமன்றத்தில் உரையாற்றுகையில் குறிப்பிட்டார்.
+
+ஒதுக்கப்பட்ட பணத்தில் 10 ஸ்மார்ட் வகுப்பறைகளை வழங்க முடியும் என கல்வி அமைச்சர் தெரிவித்ததை சுட்டிக்காட்டிய எம்.பி பிரேமதாச, ஒதுக்கப்பட்ட பணத்தில் இலங்கையிலுள்ள 341 உள்ளுராட்சி மன்றங்களினால் 3,140 ஸ்மார்ட் வகுப்பறைகளை நிறுவ முடியும் எனவும் குறிப்பிட்டார்.
+
+உள்ளூராட்சி மன்றங்களுக்கு தேர்தலுக்காக ஒதுக்கப்பட்ட தொகை தொடர்பில் தேசிய தேர்தல்கள் ஆணைக்குழு உட்பட பல தரப்பினரால் ஆட்சேபனைகள் முன்வைக்கப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/5d72178e.json)
+
+---
 
 ### Court order not to interfere with Wijayaka
 
@@ -74,11 +172,33 @@ The injured overseas has been admitted to the National Hospital for treatment.
 
 ---
 
+### Sri Lanka might look into water tariff reduction “very soon”: Minister
+
+*2024-05-13 15:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-might-look-into-water-tariff-reduction-very-soon-minister-162750/) · `en`
+
+EXCONOMYNEXT – Sri Lanka might consider look into water price reduction due to lower cost of energy after sharp appreciation in the rupee, Minister of Water Supply Jeevan Thondaman said.
+
+President Ranil Wickremesinghe’s government has been implementing IMF-led pricing policies on utilities and the Water Supply Ministry has already come up with a formula.
+
+However, the formula developed with the help of the Asian Development Bank, has yet to be implemented.
+
+The National Water Supply and Drainage Board (NWS & DB) increased the water tariff sharply in August 2023, claiming that the operating cost had been increased owing to high interest payment for bank loans and increased electricity prices.
+
+“The biggest cost that we had was the energy cost. That is the cost we have been working on with and just to be transparent, according to the current formula, there was a 14% increase three months ago in the price of water,” Thondaman told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/3cc61339.json)
+
+---
+
 ### Court order issued preventing disruptions to new SLFP Chairman and Act. Gen. Sec
 
 *2024-05-13 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99187/court-order-issued-preventing-disruptions-to-new-slfp-chairman-and-act-gen-sec) · `en`
 
 The Kaduwela District Court today (13) issued an enjoining order preventing any individuals from disrupting the new Chairman of the Sri Lanka Freedom Party (SLFP) Wijeyadasa Rajapakshe and Acting General Secretary Keerthi Udawatte from functioning in their respective roles.
+
+The order was issued after considering a petition filed with the Kaduwela District Court by two SLFP Executive Committee members namely, Isuru Abeywardena and Sumith Wijayamuni de Zoysa, naming 20 Executive Committee members as respondents.
 
 ◼️
 
@@ -129,6 +249,22 @@ The order was issued when a fundamental rights violation filed by a panel of rel
 [Data](articles/7388fae8.json)
 
 [Extended Data](ext_articles/7388fae8.ext.json)
+
+---
+
+### ශාන්ත අන්තෝනි විදුහලේ සිසුවාට සැපයූ පහසුකම් එලෙසින්ම
+
+*2024-05-13 15:20:00* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්ත-අන්තෝනි-විදුහලේ-සිසුවාට-සැපයූ-පහසුකම්-එලෙසින්ම/11-409600) · `si`
+
+අපොස සාමාන්‍ය පෙළ ඉංග්‍රීසි දෙවන ප්‍රශ්න පත්‍රයට පෙනී සිටියදී අසාධාරණයට ලක්වූ බව කියන වත්තල ශාන්ත අන්තෝනි මහා විදුහලේ ආබාධිත තත්වයෙන්  පසුවන සිසුවාට පළමු තෙදින සැපයූ පහසුකම් එලෙසින්ම ඉකුත් සිකුරාදා දින සිට විභාග නිරීක්ෂකයන් තිදෙනකුගේ සහය ඇතිව විභාගයට පෙනී සිටීමේ අවස්ථාව ලබා දී ඇතැයි වත්තල කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂ බී කුමාරසිංහ මහතා ඒ පිළිබඳව කරන ලද විමසීමකදී පැවසීය.
+
+කැලණිය කලාපය භාර අධ්‍යාපන  අධ්‍යක්ෂිකා, නිල්මිණි පෙරේරා මහත්මිය සමග තමා අද 12 දිනත් අදාළ විභාග මධ්‍යස්ථානයේ නිරීක්ෂණ කටයුතු සිදුකළ බවත්,  අදාළ සිසුවා සුපුරුදු පරිදි විභාගයට හොඳින් මුහුණ දෙමින් සිටින බවට නිරීක්ෂණය වූ බවත් වැඩිදුරටත් පැවසීය.
+
+කෙසේ වුවද විභාග කටයුතුවලින්  ඉවත් කරනු ලැබූ ශාලාධිපතිවරයා පිළිබඳව සහ අදාළ ආබාධිත  සිසු දරුවා සම්බන්ධ සිද්ධිය පිළිබඳව සාධාරණ පරීක්ෂණ කටයුතු අධ්‍යාපන ලේකම් හා විභාග කොමසාරිස් යන අධ්‍යාපන බලධාරීන් හරහා සිදුකෙරෙනු ඇති බවට ගුරු දෙගුරු බහුතරයක් විශ්වාසය පළ කර සිටිති. (IJ)
+
+◼️
+
+[Data](articles/66169f96.json)
 
 ---
 
@@ -232,6 +368,24 @@ The Chief Secretary of the Federation of Federation of Farmers' University Tra U
 
 ---
 
+### ජපන් රැකියාවට මුදල් අයකල හොර ඒජන්සිය වටලයි
+
+*2024-05-13 14:33:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපන්-රැකියාවට-මුදල්-අයකල-හොර-ඒජන්සිය-වටලයි/11-409597) · `si`
+
+විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව මාතර නගරයේ පවත්වාගෙන ගිය නීතිවිරෝධි විදේශ රැකියා නියෝජිතායතනයක් කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් ඊයේ දින (5/12) වැටලීම් කරන ලදී
+
+මාතර නගරයේ ආයතනයක් පවත්වාගෙන යමින්, ජපානයේ රැකියා ලබාදෙන බවට මුදල් අයකරන බවට පෞද්ගලික ඔත්තුකරුවෙකු මගින් කාර්යාංශයේ විමර්ශන අංශයේ කළමනාකරුට ලද තොරතුරක් අනුව විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අදාල ස්ථානය වැටලීම් කරන ලදී.
+
+ජපානයේ ශිෂ්‍ය වීසා සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන ආයතනයක් මුවාවෙන් කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව අදාළ ස්ථානය පවත්වාගෙන ගොස් ඇති බව විමර්ශනවලදී හෙළිවී තිබෙන අතර, ඒ අනුව එහි අධ්‍යක්ෂක ලෙස කටයුතු කළ මාතර ප්‍රදේශයේ පදිංචි අයෙකු අත්අඩංගුවට ගෙන තිබේ. එසේම අදාල ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර, රැකියා අයදුම්පත්‍ර විශාල ප්‍රමාණයක් හා තවත් ලිපිගොනු රැසක්ද නිළධාරීන් භාරයට ගන්නා ලදී.
+
+අත්අඩංගුවට ගත් සැකකරු අද දින මාතර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 15 දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ. ‍
+
+...
+
+[Data](articles/df513cd6.json)
+
+---
+
 ### Court calls for report on progress of investigations against Pastor Jerome
 
 *2024-05-13 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-calls-for-report-on-progress-of-investigations-against-Pastor-Jerome/108-282492) · `en`
@@ -295,6 +449,26 @@ Scientists say this is a situation that the results of global weather warming an
 [Data](articles/b0f07dd4.json)
 
 [Extended Data](ext_articles/b0f07dd4.ext.json)
+
+---
+
+### IMF urges Maldives to halt money printing to keep dollar peg amid ‘debt distress’
+
+*2024-05-13 14:13:00* · [`economynextcom`](https://economynext.com/imf-urges-maldives-to-halt-money-printing-to-keep-dollar-peg-amid-debt-distress-162745/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund urged the Maldives to stop printing money so that its exchange rate peg could be maintained, also warning that it was at high risk of debt distress.
+
+IMF’s executive directors asked for co-ordinated actions to with fiscal authorities to  facilitate necessary monetary policy actions to safeguard the exchange rate peg.
+
+“To this end, they commended the authorities’ decisive action to discontinue the exceptional use of the Maldives Monetary Authority advances, and underscored that this should be complemented by more active liquidity management over time,” an IMF statement said.
+
+“Directors also encouraged an acceleration of foreign exchange market reforms to enhance the credibility of the peg.”
+
+In 2023, Maldives’ current account deficit had widened amid foreign borrowings to finance capital spending also due to a run down of reserves after printing money for temporary advances.
+
+...
+
+[Data](articles/d421283e.json)
 
 ---
 
@@ -807,6 +981,26 @@ University non-academic workers have launched a protest in Colombo to the Diyath
 [Data](articles/3500205c.json)
 
 [Extended Data](ext_articles/3500205c.ext.json)
+
+---
+
+### Sri Lanka BoI, Orion sign US$1.78mn deal to expand Orion Colombo, Orion Nest
+
+*2024-05-13 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-boi-orion-sign-us1-78mn-deal-to-expand-orion-colombo-orion-nest-162735/) · `en`
+
+ECONOMYNEXT – Orion (Development) has signed an agreement with the Board of Investment of Sri Lanka for 1.78 million dollars to further develop its IT park with a ‘new ecosystem’.
+
+“Signed an agreement with Board of Investment of Sri Lanka for U$ 1.78 Mn expanding Orion Colombo, and Orion Nest to the next level,” the BoI said on X (twitter).
+
+Orion Development built Sri Lanka’s first IT Park in 2009 aiming to offer built-to-specification commercial and office infrastructure.
+
+Orion City has said it plans to further strengthen its sustainable infrastructure by transitioning to renewable energy, particularly solar power, by installing solar panels to reduce reliance on traditional energy sources.
+
+“Our goal for Phase II of Orion Tower is to achieve LEED Platinum certification setting a high standard in sustainable building practices,” Orion officials have said. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/f4e55b46.json)
 
 ---
 
@@ -2065,257 +2259,5 @@ The father and mother of a girlfriend from Valasmulla have been arrested and det
 [Data](articles/d7c387c0.json)
 
 [Extended Data](ext_articles/d7c387c0.ext.json)
-
----
-
-### Minister Alles vows stringent action against police misconduct in Yukthiya operation
-
-*2024-05-13 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-Alles-vows-stringent-action-against-police-misconduct-in-Yukthiya-operation/108-282451) · `en`
-
-Colombo, May 13 (Daily Mirror) - Responding to allegations of police officers misusing the Yukthiya Operation and being involved with criminals in exchange for bribes, Public Security Minister Tiran Alles said that stringent action will be taken against any officers found abusing their authority.
-
-The minister told Daily Mirror that he would not tolerate any such incidents and asserted that he had already taken action against certain police officers implicated in such allegations and their association with criminals. "When we look at recent incidents, everyone knows the about the action I have taken against those found misusing their uniforms," he said.
-
-Recently, several MPs alleged that innocent people including school children are arrested under the Yukthiya Operation for minor offences in some police stations and they are unreasonably charged under Act 54 of the Criminal Procedure.
-
-...
-
-[Data](articles/42647731.json)
-
-[Extended Data](ext_articles/42647731.ext.json)
-
----
-
-### Govt. confident of attracting over US$ 3 bn investments this year
-
-*2024-05-13 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-confident-of-attracting-over-US-3-bn-investments-this-year/108-282437) · `en`
-
-Sri Lanka is all set to triple the investment target set for 2024, State Minister of Investment Promotion Dilum Amunugama said, as the necessary activities to realise the goal for 1Q24, set by the Finance Ministry has been successfully rolled out.
-
-Amunugama, addressing a press conference on Friday said that the authorities are confident in attracting over US$ 3 billion in investments to the country.
-
-“It is important to note that the investment projects signed in 2023 will be executed this year, though they are not counted as part of this year’s investments,” added Amunugama.
-
-He went on to stress that he can “confidently affirm” that the investment background has significantly improved, showing a 200 percent progress from two years ago, making Sri Lanka favourable for investors.
-
-He shared that this year Sri Lanka initiated investment promotion efforts in foreign countries by appointing representatives to the investment board.
-
-...
-
-[Data](articles/049f27c2.json)
-
-[Extended Data](ext_articles/049f27c2.ext.json)
-
----
-
-### Turns out in the low -lying atmosphere - the increase in the shower
-
-*2024-05-13 08:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு-மழை-அதிகரிப்பு/175-337213) · `ta`
-
-Nationwide, Sri Lanka expects increased rainfall due to atmospheric turbulence, with over 100mm forecasted in Western, Sabaragamuwa, Central, North Western, Uva provinces, and Galle, Matara districts. Thunderstorms and heavy winds are anticipated, prompting the Department of Meteorology to advise caution.
-
-🟩
-
-Rainfall is expected to increase nationwide as the turbulence has developed in the recent low -lying atmosphere of Sri Lanka.
-
-In many provinces of the country, rain or thunderstorms will occur at 1.00 pm.
-
-More than 100 millimeters of rainfall is expected in some places in the Western, Sabaragamuwa, Central, North Western and Uva provinces and Galle and Matara districts.
-
-Rainfall is expected in a few places in the morning.
-
-In the morning, in the morning, in the Galle and Matara districts, there will be snowfall.
-
-The Department of Meteorology has urged the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/9f763418.json)
-
-[Extended Data](ext_articles/9f763418.ext.json)
-
----
-
-### Electricity weighs to the dead home
-
-*2024-05-13 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196560) · `si`
-
-A fatal accident occurred at a funeral home, where five people, including a 40-year-old man from Kalganyihena, Thihariya, were electrocuted while installing bulbs. They collided with a power shelter while fusing the bulbs. The others are receiving treatment at Vathupitiwala Hospital.
-
-🟩
-
-The accident had occurred when the man and four others were trying to install the bulbs to light a funeral home.
-
-Police investigations revealed that these people have been electrocuted when they collided with a power shelter in the wire to fuse the bulbs.
-
-The victim is a 40 year old resident of Kalganyihena, Thihariya, Thihariya.
-
-The four other people were receiving treatment at Vathupitiwala Hospital.
-
-◼️
-
-[Data](articles/adedb49a.json)
-
-[Extended Data](ext_articles/adedb49a.ext.json)
-
----
-
-### Murder of Kuliyapitiya youth: 18-year-old girlfriend arrested
-
-*2024-05-13 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99172/murder-of-kuliyapitiya-youth-18-year-old-girlfriend-arrested) · `en`
-
-Police have arrested the girlfriend of the youth from Kuliyapitiya who was found murdered weeks after his disappearance.
-
-The 18-year-old suspect, a resident of Wassawulla in Ilukhena, has been arrested on charges of aiding and abetting in the murder and concealing the crime, police said.
-
-Police had launched an investigation after the disappearance of the youth, Susitha Jayawansa, 31, a resident of Kabalewa area in Kuliyapitiya, was reported on April 22 and he was last seen visiting his girlfriend’s house following a phone call received from her father.
-
-However, the body of the missing youth was discovered weeks later at the Panirendawa forest reserve in the Madampe area. The body was found torched and dumped in a forest area in Madampe on May 07 while it was confirmed that the youth had been murdered.
-
-...
-
-[Data](articles/5dc03d37.json)
-
-[Extended Data](ext_articles/5dc03d37.ext.json)
-
----
-
-### Sri Lanka Port City offshore banking regulations within two months: Minister
-
-*2024-05-13 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-offshore-banking-regulations-within-two-months-minister-162722/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to pass banking regulations which will apply within the Colombo Port City within the next two months, State Minister for Investment Promotion, Dilum Amunugama said.
-
-The special economic zone is expected to be re-named International Financial and Technological City. Most of the regulations that governs the special economic zone is already in place allowing a number of businesses to start operations.
-
-“The banking regulations remains to be approved by parliament,” Minister Amunugama told reporters in Colombo Friday.
-
-“Within the next two months, we hope to bring to parliament and approve, all these regulations, including offshore banking regulation.”
-
-Several businesses including software firms which were approved to operated from the Port City are running at designated locations, pending the construction of buildings.
-
-China Duty Free may also start a duty free complex on June 14, if the required approval is received from cabinet.
-
-...
-
-[Data](articles/5ee4194b.json)
-
-[Extended Data](ext_articles/5ee4194b.ext.json)
-
----
-
-### Today's health boycott today
-
-*2024-05-13 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196559) · `si`
-
-Health Trade Union Alliance in Sri Lanka's Central Province is on strike, protesting government's refusal to meet their demands. The strike, which began with health trade unions, has been criticized by the President's Trade Union Director General, Saman Ratnapriya, who believes it's not the right approach. Meanwhile, proposals to address issues of university non-academic workers, including a monthly allowance and salary anomalies, have been submitted to the Cabinet. The strike by these workers will continue today.
-
-🟩
-
-The Health Trade Union Alliance has decided to engage in a strike action at the Central Province this morning (13).
-
-The co-convener Ravi Kudmith was said that the government is not responsible for his demands.
-
-President's Trade Union Director General Saman Ratnapriya expressed his views regarding this strike action which was started with the health trade unions.
-
-"The main matter of this question is resolved. The circular is decided to give the allowance. He has lost this offer at present. On the point of not paying the previous one. We told the Minister of Health to present a cabinet paper to give them allowance. He thinks that. They have decided to take a trade union action. It is good to give that decision to resolve this. "
-
-He said that it is not acceptable to engage in such a trade union action according to the situation.
-
-Meanwhile, the proposals to resolve the problems of university non-academic workers have been submitted to the Cabinet of Cabinet today.
-
-...
-
-[Data](articles/8eeb2739.json)
-
-[Extended Data](ext_articles/8eeb2739.ext.json)
-
----
-
-### Showery conditions expected to enhance during next few days
-
-*2024-05-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99171/showery-conditions-expected-to-enhance-during-next-few-days) · `en`
-
-Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to be enhanced during the next few days, according to the Meteorology Department.
-
-Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
-
-Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts, it said.
-
-Showers may occur at a few places in the coastal areas of Eastern and Southern provinces during the morning too.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/43699eef.json)
-
-[Extended Data](ext_articles/43699eef.ext.json)
-
----
-
-### Showery conditions to enhance during next few days
-
-*2024-05-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99171/showery-conditions-to-enhance-during-next-few-days) · `en`
-
-Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to be enhanced during the next few days, according to the Meteorology Department.
-
-Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
-
-Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts, it said.
-
-Showers may occur at a few places in the coastal areas of Eastern and Southern provinces during the morning too.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d902c542.json)
-
-[Extended Data](ext_articles/d902c542.ext.json)
-
----
-
-### Will Sajith, AKD, Prez accept Daily Mirror invitation for debate?
-
-*2024-05-13 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-Sajith-AKD-Prez-accept-Daily-Mirror-invitation-for-debate/108-282450) · `en`
-
-Colombo, May 13 (Daily Mirror) - In India Congress leader Rahul Gandhi on Saturday accepted an invitation to a public debate with Prime Minister Narendra Modi, which was requested by two former judges and a senior journalist through a letter sent to both the leaders.
-
-Yet in Sri Lanka, there is no acceptance of an invitation sent by the Daily Mirror for a debate among the three main prospective presidential candidates. Only National People’s Power ( NPP) leader Anura Kumara Dissanayake has responded positively so far while SJB Leader Sajith Premadasa and President Ranil Wickremesinghe both are yet to accept the invitation.
-
-◼️
-
-[Data](articles/89e6c459.json)
-
-[Extended Data](ext_articles/89e6c459.ext.json)
-
----
-
-### Girlfriend arrested for murder youth in Kuliyapitiya
-
-*2024-05-13 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196558) · `si`
-
-Girlfriend arrested for murder in Kuliyapitiya. Suspect charged with supporting and covering the crime. Body found in Kuliyamba, Kuliyampathu. Mother's mother and Sujith Fernando, along with Sitini, Sitiva, and Dilani Rasika, arrested and remanded.
-
-🟩
-
-His girlfriend has been arrested in connection with the assassination of a youth in Kuliyapitiya.
-
-The suspect was arrested on charges of supporting the murder and covering the crime.
-
-The body of the missing youth was found in Kuliyamba, Kuliyampathu area where the young man was traveling in Kuliyapitiya.
-
-The mother's mother and Sujith Fernando, his mother's mother, Sujith Fernando alphabetic, Sitini, Sitiva, and his bird Dilani Rasika, was arrested and remanded.
-
-◼️
-
-[Data](articles/e1227b31.json)
-
-[Extended Data](ext_articles/e1227b31.ext.json)
 
 ---

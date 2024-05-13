@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 10:18:27**
+As of **2024-05-13 10:33:54**
 
 ## Newspaper Stats
 
-*Scraped **23,627** Articles*
+*Scraped **23,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,88 @@ newsfirstlk | 363
 islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,005
-adaderanalk | 2,755
-tamilmirrorlk | 2,765
+adalk | 2,006
+adaderanalk | 2,756
+tamilmirrorlk | 2,768
 virakesarilk | 3,518
-dailymirrorlk | 3,718
+dailymirrorlk | 3,719
 adaderanasinhalalk | 3,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,623 (100.0%) of 23,627 articles have been extended.
+23,627 (100.0%) of 23,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### කැරට් කැබැල්ලක් උගුරේ සිරවී දරුවෙක් ජීවිතක්ෂයට
+### Kuwait forms new government headed by Ahmad Abdullah Al-Sabah
+
+*2024-05-13 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Kuwait-forms-new-government-headed-by-Ahmad-Abdullah-Al-Sabah/107-282466) · `en`
+
+May 13 (Reuters) - Kuwait formed a new cabinet headed by Sheikh Ahmad Abdullah Al-Sabah, according to a royal decree issued Sunday.
+
+Emad al al-Atiqi, Anwar Ali al-Mudhaf and Abdullah Ali al-Yahya retained their posts as oil, finance and foreign ministers respectively, according to the decree from the Emir of Kuwait Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah.
+
+Sheikh Ahmad is the emir's nephew and was previously appointed prime minister in April.
+
+"The Prime Minister and the ministers must implement this decree," stated Sheikh Mishal in the decree.
+
+The new government comes shortly after the emir dissolved parliament indefinitely on Friday, after a prolonged period of bickering between the government and the elected parliament.
+
+The emir also suspended some articles of the constitution, including those stating that a new parliament must be elected within two months of a dissolution and that laws must be approved by the parliament and the emir.
+
+...
+
+[Data](articles/ef2cc866.json)
+
+---
+
+### 5 மாவட்டங்களுக்கு அபாய எச்சரிக்கை
+
+*2024-05-13 10:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-337217) · `ta`
+
+பதுளை, கண்டி, இரத்தினபுரி, கேகாலை மற்றும் குருநாகல் ஆகிய 5 மாவட்டங்களுக்குதேசிய கட்டட ஆராய்ச்சி நிறுவகம் மண்சரிவு அபாய முன்னெச்சரிக்கை விடுத்துள்ளது.
+
+குறித்த மாவட்டங்களில் 75மில்லிமீற்றருக்கும் அதிகமான மழைவீழ்ச்சி பதிவாகியதையடுத்தே மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, இலங்கையை அண்மித்த தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பான தன்மை உருவாகியுள்ளதால், நாடளாவிய ரீதியில் மழைவீழ்ச்சி அதிகரிக்கும் என எதிர்பார்க்கப்படுகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/f3a62158.json)
+
+---
+
+### Child killed in a lot of carrots
 
 *2024-05-13 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196566) · `si`
 
-කැරට් කැබැල්ලක් උගුරේ සිරවීමෙන් සිඟිත්තෙකුට දිවි අහිමි වූ පුවතක් සාලියවැව ප්‍රදේශයෙන් වාර්තා වේ.
+A tragic incident occurred in the Saliyawewa area where a 4-year-old boy died after a carrot got stuck in his throat. Despite immediate medical attention, including a transfer to Anuradhapura Teaching Hospital, the child succumbed to his injuries. The post-mortem examination was conducted by Mr. SC Gunatilake, revealing the cause of death.
 
-එලෙස මියගොස් ඇත්තේ, සාලියවැව ප්‍රදේශයේ පදිංචිව සිටි අවුරුද්දයි මාස 7ක් වූ සවීන් දුල්සඳ නැමති පිරිමි දරුවෙකි.
+🟩
 
-මව ආහාර පිසමින් සිටින අවස්ථාවේ මියගිය දරුවාගේ සහෝදරිය වූ අවුරුදු 4ක් වූ පුංචි දියණිය විසින් මල්ලීට කැරට් කැබැල්ලක් ලබාදී ඇත.
+A child has lost his lives in the Saliyawewa area due to a carrot.
 
-එම කැරට් කැබැල්ල දරුවාගේ උගුරේ සිරවී ඇති අතර, පසුව මව සහ පියා එක්ව කැරට් කැබැල්ල පිටතට ගැනීමට උත්සාහ දරා ඇති තිබේ.
+The deceased has been a boy who was residents of the Saliyawewa area.
 
-එය සාර්ථක නොවීම හේතුවෙන් 1990 ගිලන්රථයකින් වහාම දරුවාව නොච්චියාගම රෝහල වෙත රැගෙන ගොස් තිබිණි.
+The father of 4 years, the sister of the child who died when the mother was cooked, gave a carrot.
 
-පසුව දරුවාගේ තත්ත්වය බරපතළ බැවින් අනුරාධපුර ශික්ෂණ රෝහලට මාරු කර යැවීමේ දී ජීවිතක්ෂයට පත්ව ඇත.
+The carrot was stuck in the child's throat, and then the mother and the father had tried to take out the carrot.
 
-අනුරාධපුර ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරී එම්. එම්. ඒ. සී ගුණතිලක මහතා විසින් පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඇති අතර, එහිදී අනාවරණය වී ඇත්තේ දරුවාගේ උගුරේ කැරට් කැබැල්ල සිරවීමෙන් ජීවිතක්ෂයට පත්ව ඇති බවය.
+The child was immediately taken to the Nochchiyagama hospital with a 1990 ambulance due to the lack of success.
+
+Since then the child's condition is serious, transferred to Anuradhapura Teaching Hospital.
+
+Judicial Medical Officer Missing of Anuradhapura Teaching Hospital. M. it. The post mortem examination has been conducted by Mr. SC Gunatilake and is revealed that the child has been identified.
 
 ◼️
 
 [Data](articles/1630a991.json)
+
+[Extended Data](ext_articles/1630a991.ext.json)
 
 ---
 
@@ -71,6 +115,8 @@ Moscow will host the International Conference titled “Antimicrobial Resistance
 ...
 
 [Data](articles/a7cdee53.json)
+
+[Extended Data](ext_articles/a7cdee53.ext.json)
 
 ---
 
@@ -91,6 +137,28 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.11 perc
 ◼️
 
 [Data](articles/ad06c064.json)
+
+[Extended Data](ext_articles/ad06c064.ext.json)
+
+---
+
+### Person dies from electrocution in Nittambuwa
+
+*2024-05-13 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99174/person-dies-from-electrocution-in-nittambuwa-) · `en`
+
+A person has reportedly died due to electrocution while engaged in preparations for a funeral in the Thihariya area in Nittambuwa.
+
+This incident had occured when the person in question and four others were working to install light bulbs to light up the road near a funeral house in the area.
+
+During the police investigations, it has been revealed that they were electrocuted when the wire used to install the light bulbs had come into contact with a high-voltage power line on the road.
+
+The deceased was a 40-year-old resident of Kalagedihena in Thihariya.
+
+The other four persons who were also electrocuted in the incident are currently undergoing treatment at the Wathupitiwala Hospital.
+
+◼️
+
+[Data](articles/1713aa7a.json)
 
 ---
 
@@ -130,7 +198,7 @@ It is reported the racket has been carried out with the involvement of certain C
 
 A tax of minimum Rs. 2,000 is levied for a pair of shoes imported into Sri Lanka from a foreign country.
 
-Meanwhile, it is reported that these illegally imported foreign-manufactured footwear are released to the market at prices much lower price than the footwear produced locally.
+Meanwhile, it is reported that these illegally imported foreign-manufactured footwear are released to the market at prices much lower than the footwear produced locally.
 
 Ada Derana learns that the country has incurred annual tax revenue losses of around Rs. 35 billion due to such import rackets.
 
@@ -342,6 +410,28 @@ Sujith Fernando and his wife Dylani Pasa, known as 'Singhiti', the father of the
 
 ---
 
+### காதலன் படுகொலை; காதலி கைது
+
+*2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலன்-படுகொலை-காதலி-கைது/175-337214) · `ta`
+
+குளியாபிட்டிய பகுதியில் இளைஞன் ஒருவன் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் அவரது காதலி கைது செய்யப்பட்டுள்ளார்.
+
+கொலை செய்வதற்கு ஆதரவு வழங்கியமை மற்றும் குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டுக்களின் கீழ், சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+வலஸ்முல்ல – இழுக்ஹின்ன பகுதியைச் சேர்ந்த 18 வயதான யுவதியே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+குளியாபிட்டிய பகுதியைச் சேர்ந்த இளைஞன் ஒருவன், தனத காதலியை சந்திப்பதற்காக கடந்த 22ம் திகதி வலஸ்முல்ல பகுதிக்கு சென்ற நிலையில் காணாமல் போயிருந்தார்.
+
+இவ்வாறு காணாமல் போன இளைஞனின் சடலம் பல நாட்களின் பின்னர் சிலாபம் – மாதம்பை பகுதியிலிருந்து கண்டெடுக்கப்பட்டது.
+
+இந்த சம்பவம் தொடர்பில் வலஸ்முல்ல பகுதியைச் சேர்ந்த காதலியின் தந்தை மற்றும் தாய் ஆகியோர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d7c387c0.json)
+
+---
+
 ### Minister Alles vows stringent action against police misconduct in Yukthiya operation
 
 *2024-05-13 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-Alles-vows-stringent-action-against-police-misconduct-in-Yukthiya-operation/108-282451) · `en`
@@ -473,6 +563,8 @@ China Duty Free may also start a duty free complex on June 14, if the required a
 ...
 
 [Data](articles/5ee4194b.json)
+
+[Extended Data](ext_articles/5ee4194b.ext.json)
 
 ---
 
@@ -1210,6 +1302,20 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 
 ---
 
+### பல்கலைக்கழக ஊழியர்கள் இன்று கவனயீர்ப்பு
+
+*2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்கள்-இன்று-கவனயீர்ப்பு/175-337212) · `ta`
+
+நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் நடைபெற்றுவரும் பல்கலைக்கழக ஊழியர் சங்கத்தின் தொடர்ச்சியான வேலைநிறுத்தத்தின் ஒரு பகுதியாக இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் அனைத்துப் பல்கலைக்கழகங்களிலும், பல்கலைக்கழக வாயிலில் அல்லது அருகில் உள்ள நகரில் கவனவீர்ப்பு ஆர்ப்பாட்டம் நடாத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்திலும் பல்கலைக்கழக ஊழியர் சங்கத்தினால் இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் கவனவீர்ப்பு ஆர்ப்பாட்டமும் அதனைத் தொடர்ந்து மாணவர் ஒன்றியத்தினருடன் இணைந்து ஊடக சந்திப்பு ஒன்றும் நடைபெறவுள்ளதென யாழ்ப்பாணப் பல்கலைக்கழக ஊழியர் சங்கத்தின் இணைச் செயலாளர் த.சிவரூபன் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/13a4d405.json)
+
+---
+
 ### University employee today's attention
 
 *2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-ஊழியர்-இன்று-கவனவீர்ப்பு/175-337212) · `ta`
@@ -1874,6 +1980,24 @@ Only the wedding artists have the opportunity to go to Korea without an exam.The
 
 ---
 
+### පොදු සමා කාලයේ යුද හමුදාවෙන් 12,066ක් දැනටමත් ඉවත් වෙලා
+
+*2024-05-12 20:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-සමා-කාලයේ-යුද-හමුදාවෙන්-12-066ක්-දැනටමත්-ඉවත්-වෙලා/11-409584) · `si`
+
+නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයන්ට නීත්‍යනුකූලව සේවයෙන් ඉවත් වීම සඳහා ප්‍රකාශයට පත් කර තිබෙන පොදු සමාකාලය මෙ මස 20වන දිනෙන් අවසන් වන බව යුද හමුදා මූලස්ථානය සඳහන් කරයි.
+
+පසුගිය 20වන දින සිටමේ මස 11වන දින දක්වා කාලය තුළදී 12,066ක් සේවයෙන් ඉවත් කර තිබෙන බවද පෙන්වා දෙයි.
+
+පසුගිය මස 20වන දින සිට මේ මස 20වන දින දක්වා පොදු සමාකාලයක් ප්‍රකාශයට පත් කර තිබෙන අතර,පසුගිය වසරේ දෙසැම්බර් 31වන දින සහ ඊට පෙර සිට නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින යුද හමුදා නිලධාරීන්ට හා සෙසු නිලයන්ට අයත් පිරිස් සඳහා නීත්‍යනුකූලව සේවයෙන් ඉවත් වීමට මෙම පොදු සමා කාලයේදී අවස්ථාව හිමිව තිබේ.
+
+මෙරට සිටින පිරිස් රෙජිමේන්තු වෙත වාර්තා කිරීමෙන් හා විදේශගතව සිටින පිරිස් රෙජිමේන්තු හා සම්බන්ධ වී නීත්‍යනුකූලව ඉවත් වීම සඳහා අවස්ථාව ලබා දී ඇති බවද යුදහමුදා මූලස්ථානය සඳහන් කරයි.
+
+...
+
+[Data](articles/ca6a8f07.json)
+
+---
+
 ### Obtaining Dansal is mandatory
 
 *2024-05-12 20:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්වලට-අවසර-ගැනීම-අනිවාර්යයි/11-409583) · `si`
@@ -2075,153 +2199,5 @@ Post-medical test of this death is the Judicial Medical Officer of Anuradhapura 
 [Data](articles/e357cb7c.json)
 
 [Extended Data](ext_articles/e357cb7c.ext.json)
-
----
-
-### President tells us to increase salaries
-
-*2024-05-12 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩිකරන-හැටි-ජනපති-කියයි/11-409579) · `si`
-
-President Ranil Wickremesinghe announced plans to increase public servant salaries and outlined four new laws aimed at boosting the country's economy, including a Public Debt Management Law and a State Currency Act. He also mentioned the International Monetary Fund and labor agreements as part of the economic strategy. The President emphasized the importance of all political parties supporting these initiatives for the country's future economic growth.
-
-🟩
-
-Steps will be taken to increase the salaries of public servants with the expected 3% economic growth in the next year
-
-Four new laws to establish rapid economic growth in the country
-
-Public Debt Management Law, State Currency Act and Economic Converting Law in Parliament in June
-
-The terms of the International Monetary Fund and the Countries of the Labor are also brought as a law.
-
-All political parties should be given to the future of the country - President Mahinda Rajapaksa addressing the International Nursing Day celebrations
-
-President Ranil Wickremesinghe said that the economic growth rate would increase to 3% in 2025, "President Ranil Wickremesinghe said.
-
-The President made this observation addressing the International Nursing Day Celebration organized by the Public Service United Nurses Association at Temple Trees this morning.
-
-...
-
-[Data](articles/ab11617f.json)
-
-[Extended Data](ext_articles/ab11617f.ext.json)
-
----
-
-### Meeting a suspicious motorcycle
-
-*2024-05-12 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196547) · `si`
-
-A motorcycle found in the jungle near the Meegama Bridge is under investigation by the Ihalapana Police for its possible link to three shootings in the Ahungalla area. The bike, lacking owner or chassis numbers, is suspected of being used in criminal activities.
-
-🟩
-
-A motorbike has been found in the jungle near the Meegama Bridge at the Ihalapana - Horawala Port Road.
-
-The Ihalapana Police have conducted an investigation on information that a motorcycle without a owner is in a jungle area.
-
-The motorcycle is deleted and chassis numbers on that motorcycle.
-
-Police say that the motorcycle was used by some crimes and was later suspected to leave this place.
-
-In the last few days, three shootings were shot dead in Ahungalla area.
-
-Police have launched an investigation into whether this motorcycle was used for these shoots.
-
-◼️
-
-[Data](articles/b8406c0f.json)
-
-[Extended Data](ext_articles/b8406c0f.ext.json)
-
----
-
-### Advisory issued for thundershowers and severe lightning
-
-*2024-05-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99168/advisory-issued-for-thundershowers-and-severe-lightning-) · `en`
-
-The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Central, Sabaragamuwa, Eastern and Uva provinces and in Colombo, Gampaha, Puttalam, Mullaitivu, Kilinochchi and Polonnaruwa districts today (12).
-
-There may be temporary localized strong winds during thundershowers, the department said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/48edae86.json)
-
-[Extended Data](ext_articles/48edae86.ext.json)
-
----
-
-### Long-term remedies to minimize landslide landslides
-
-*2024-05-12 19:01:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරඳගොල්ල-නායයාම-අවම-කිරීමට-දිගු-කාලීන-පිළියම්/11-409578) · `si`
-
-The Deputy Director of the Disaster Management Center in Badulla has initiated a project to reduce landslide risks in Ella Karandagolla, focusing on soil stabilization techniques. This effort involves technical officers from the National Building Institute, local government bodies, and residents. The project aims to address the increased landslide activity due to heavy rainfall, offering a sustainable solution for this tourist hotspot.
-
-🟩
-
-The Deputy Director of the Disaster Management Center, Badulla, has been launched since 12 to minimize the risk of landslide risk of landslides in Ella Karandagolla.
-
-He said that the removal of the rubbed to the interior of the earth has been launched from today to the interior of the earth using techniques in the earthly land.
-
-He said the technical officers including technical officials are carrying out the instructions of a specialist group of the National Building Institute.
-
-The Ella Divisional Secretariat, Ella Divisional Council, Ella Police, Water Supply and Electricity Board and the Residents.
-
-He said that the landslide will be more active as heavy rainfall in the Ella trouble.
-
-However, he said that the landslides have taken steps to minimize the risk of the Ella Wellawaya and its role in the Ella.
-
-A speedy program has been launched to build land and houses for those who have lost their homes regarding the landslide.
-
-...
-
-[Data](articles/3a7d6d97.json)
-
-[Extended Data](ext_articles/3a7d6d97.ext.json)
-
----
-
-### With 3% economic growth expected in the coming year, steps will be taken to increase the salaries of civil servants- the president
-
-*2024-05-12 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183358) · `ta`
-
-It seems like you've shared a comprehensive overview of recent developments and initiatives in Sri Lanka, focusing on economic reforms, the introduction of new laws, the celebration of International Nurses Day, and the establishment of the University of Sri Lanka. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps how to integrate this information into a specific project or document? Please let me know how I can be of help.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka's economic growth rate would rise to 3% by 2025 and steps would be taken to increase the salaries of public servants.
-
-The President made this statement while addressing the International Nurses Day event held on Sunday (12) at the Allaimalai.
-
-The President said that four major laws would be introduced to move the country's economy with the export economy, and that the central bank law has already passed the Central Bank Act and that the State Credit Management Act, the State Finance Act and the Economic Transfer Act will be submitted to Parliament this June.
-
-The President said that all the conditions set up with the International Monetary Fund and other countries that have been given to this country will be enacted in the future.
-
-...
-
-[Data](articles/1cf3457b.json)
-
-[Extended Data](ext_articles/1cf3457b.ext.json)
-
----
-
-### IASL introduces office bearers for 2024/25 tenure; Chandana Aluthgama continues as president
-
-*2024-05-12 18:53:00* · [`islandlk`](http://island.lk/iasl-introduces-office-bearers-for-2024-25-tenure-chandana-aluthgama-continues-as-president/) · `en`
-
-The Insurance Association of Sri Lanka (IASL) the representative body of the insurance industry in the country has announced the reappointment of its esteemed office bearers for the year 2024/25. The reappointment comes as a testament to the dedication, expertise, and commitment demonstrated by these individuals towards advancing the insurance industry in Sri Lanka. The event took place on the 27th of March, 2024 at the Annual General Meeting. Subsequently the sub-committee members were also appointed for the said term at the IASL Executive Committee Meeting which was held on the 3rd of May 2024.
-
-...
-
-[Data](articles/07d887ae.json)
-
-[Extended Data](ext_articles/07d887ae.ext.json)
 
 ---

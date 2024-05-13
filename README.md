@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 14:18:21**
+As of **2024-05-13 14:33:36**
 
 ## Newspaper Stats
 
-*Scraped **23,687** Articles*
+*Scraped **23,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,012
 adaderanalk | 2,766
 tamilmirrorlk | 2,776
 virakesarilk | 3,527
-dailymirrorlk | 3,729
+dailymirrorlk | 3,730
 adaderanasinhalalk | 3,798
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,685 (100.0%) of 23,687 articles have been extended.
+23,687 (100.0%) of 23,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Selectors deny favoritism in Sri Lanka’s T20 World Cup squad selection
+
+*2024-05-13 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Selectors-deny-favoritism-in-Sri-Lankas-T20-World-Cup-squad-selection/108-282491) · `en`
+
+Colombo, May 13 (Daily Mirror) - While denying any favoritism during the selection of players for the Sri Lanka squad in the ICC Men's T20 World Cup 2024, Sri Lanka Cricket Selection Committee Chairman Upul Tharanga said the Sri Lanka team is in a good position to challenge any team at the World Cup to be held in the West Indies and USA.
+
+At a media briefing held to address various concerns regarding the Sri Lanka T20 squad for the World Cup, Tharanga said there was no favoritism in the selection process except for talent, fitness and discipline of players. He said the 15-member squad named for the World Cup is balanced and powerful.
+
+Responding to injury concerns about skipper Wanindu Hasaranga and fast bowler Matheesha Pathirana, Tharanga said both players are fit for the tournament.
+
+When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga highlighted his all-round performance and the potential advantage for the team in conditions like those in the US.
+
+...
+
+[Data](articles/f6dc9d0c.json)
+
+---
 
 ### Edu. Minister responds to concerns over O/L English and Science papers
 
@@ -47,6 +65,8 @@ Furthermore, he pledged necessary measures to provide relief to students who may
 ◼️
 
 [Data](articles/9cb453f3.json)
+
+[Extended Data](ext_articles/9cb453f3.ext.json)
 
 ---
 
@@ -87,6 +107,8 @@ Furthermore, the Education Minister also commented regarding the issues pertaini
 ...
 
 [Data](articles/990a122d.json)
+
+[Extended Data](ext_articles/990a122d.ext.json)
 
 ---
 
@@ -232,9 +254,7 @@ While the chauvinist Sri Lankan government is carrying out the genocide in 2009,
 
 *2024-05-13 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreigner-injured-after-falling-from-Lotus-tower/108-282488) · `en`
 
-A foreigner sustained injuries while experiencing the Base Jump event at the Lotus Tower a Foreigner falls during Lotus Tower Base Jump event.
-
-A foreigner sustained injuries while participating in the Base Jump event at the Lotus Tower a short while ago.
+A foreigner sustained injuries while experiencing the Base Jump event at the Lotus Tower a short while ago.
 
 An eyewitness reported that the foreigner delayed opening his parachute after jumping from the tower.
 
@@ -2309,25 +2329,5 @@ According to previously available information, the aquaculture industrial park w
 [Data](articles/675e4f5e.json)
 
 [Extended Data](ext_articles/675e4f5e.ext.json)
-
----
-
-### CEJ to take legal action over degazetting of Vidataltivu
-
-*2024-05-13 02:28:33* · [`dailyftlk`](https://www.ft.lk/news/CEJ-to-take-legal-action-over-degazetting-of-Vidataltivu/56-761717) · `en`
-
-Center for Environmental Justice (CEJ) Chairman Attorney-at-Law Ravindranath Dabare yesterday said the organisation will take legal action against the Government’s move to degazette a section of the Vidataltivu Nature Reserve.
-
-According to Dabare, as an initial step the CEJ has filed a Right to Information (RTI) request to the Ministry of Wildlife and Forest Resources Conservation.
-
-CEJ is seeking an authentic copy of Extraordinary Gazette 2383/05, dated 6 May, which de-gazetted a portion of the nature reserve. Dabare said that the extent of the degazetted land and other details remain undisclosed since the appendix containing the information has not been made public.
-
-It has also requested information if the subject minister had obtained a study report on the impact the project may have on the reserve as stipulated by S. 2 (5) of the Flora and Fauna Protection Ordinance. He said based on the response received, the CEJ will challenge the Government’s decision in Court.
-
-...
-
-[Data](articles/5c084048.json)
-
-[Extended Data](ext_articles/5c084048.ext.json)
 
 ---

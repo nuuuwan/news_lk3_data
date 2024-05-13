@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 21:18:25**
+As of **2024-05-13 21:34:00**
 
 ## Newspaper Stats
 
-*Scraped **23,766** Articles*
+*Scraped **23,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,362
 dailyftlk | 1,374
-adalk | 2,028
+adalk | 2,029
 adaderanalk | 2,773
 tamilmirrorlk | 2,783
 virakesarilk | 3,545
-dailymirrorlk | 3,736
+dailymirrorlk | 3,740
 adaderanasinhalalk | 3,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,765 (100.0%) of 23,766 articles have been extended.
+23,766 (100.0%) of 23,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### දිස්ත්‍රික්ක 5කට නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කෙරේ
+### Landslide warnings are issued for 5 districts
 
 *2024-05-13 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196590) · `si`
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් දිස්ත්‍රික්ක 5ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings issued for 5 districts: Halduduwara, Haputale, Mawanella, Dehiowita, Galigamuwa, Kegalle, Mawagama, Imbulpe, Ratnapura, Balangoda.
 
-එම නිවේදනයෙන් බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල සහ හපුතලේ ප්‍රදේශවලටත් මහනුවර දිස්ත්‍රික්කයේ යටිනුවර සහ උඩුනුවර ප්‍රදේශවලටත් කහ වර්ණයෙන් යුතු නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත.
+🟩
 
-එසේම කෑගල්ල දිස්ත්‍රික්කයේ මෙලෙස නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත්තේ මාවනැල්ල, දෙහිඕවිට, ගලිගමුව, වරකාපොල සහ කෑගල්ල ප්‍රදේශවලටය.
+The National Building Research Organization has issued landslide warnings for 5 districts.
 
-කුරුණෑගල දිස්ත්‍රික්කයේ මාවත්ගම ප්‍රදේශයටත් රත්නපුර දිස්ත්‍රික්කයේ ඉඹුල්පේ, රත්නපුර සහ බළන්ගොඩ ප්‍රදේශ සඳහා ද ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇත.
+The announcement has issued a landslide landslide warnings in Halduduwara and Haputale in Badulla District.
+
+The landslide warnings were issued in Mawanella, Dehiowita, Galigamuwa and Kegalle areas.
+
+The National Building Research Organization has issued landslide warnings for Mawagama in Kurunegala and the Imbulpe, Ratnapura and Balangoda areas.
 
 ◼️
 
 [Data](articles/f8b18cb8.json)
+
+[Extended Data](ext_articles/f8b18cb8.ext.json)
+
+---
+
+### Wellalage inclusion hints Three-Spin Attack in World Cup
+
+*2024-05-13 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wellalage-inclusion-hints-Three-Spin-Attack-in-World-Cup/108-282500) · `en`
+
+May 13 (Daily Mirror) - National selectors announced the Sri Lankan squad for the upcoming T20 World Cup in USA & West Indies with uncapped Dunith Wellalage grabbing the headlines.
+
+Wellalage who has already played ODI and Test cricket for Sri Lanka, was named in the 15-man squad with Jaffna sensation Vijayakanth Viyaskanth only making it to the reserves.
+
+Viyaskanth who has made a rapid rise in the last couple of years through his LPL performances for Jaffna based franchises, is now taking part in number of top competition such as the Indian Premier League and International League T20 in UAE.
+
+In fact the leg spinner replaced his T20 captain Wanindu Hasaranga at Sunrises Hyderabad in the ongoing IPL season making debut under the captaincy of Pat Cummins.
+
+On Monday (13) National Selectors were questioned by the media during a press conference as to why Wellalage was named in the fifteen ahead of Viyaaskanth.
+
+...
+
+[Data](articles/16bab5f3.json)
 
 ---
 
@@ -69,6 +95,22 @@ The body is placed at Beruwala Hospital and the body will be sent to Kalutara Te
 [Data](articles/02f086d0.json)
 
 [Extended Data](ext_articles/02f086d0.ext.json)
+
+---
+
+### Hospice Sri Lanka Alliance makes a milestone in palliative care: Health Secy.
+
+*2024-05-13 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hospice-Sri-Lanka-Alliance-makes-a-milestone-in-palliative-care-Health-Secy/108-282505) · `en`
+
+Colombo, May 13 (Daily Mirror) - Forming an alliance in the hospice treatment sector in the country will make a milestone in the palliative care and will help to standardize an industry, which had rendered a significant service to the public, said Secretary of Health Dr. Palitha Mahipala.
+
+Dr. Mahipala made these remarks addressing the inaugural ceremony to launch Hospice Sri Lanka Alliance, which was organised by the College of Palliative Medicine of Sri Lanka (CPMSL) at the BMICH over the weekend.
+
+Hospice treatment is a programme to ensure the quality of life of a patient of a chronic disease like cancer who is nearing his end and to treat the person’s symptoms rather than the disease itself. Palliative is a form of medical care that relieves symptoms without dealing with the cause of the condition.
+
+...
+
+[Data](articles/99e180f8.json)
 
 ---
 
@@ -228,6 +270,18 @@ Another space rock is approximately 72 lakh km from Earth, while traveling at a 
 
 ---
 
+### Stop military offensive in Gaza
+
+*2024-05-13 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stop-military-offensive-in-Gaza/110-282499) · `en`
+
+A protest organized by ‘Friends of Free Palestine’, calling on Israel to stop the military offensive in Gaza, was held in Colombo today with the participation of Opposition Leader Sajith Premadasa and several Samagi Jana Balawegaya MPs. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/59b69e0a.json)
+
+---
+
 ### Recovery of a man's body from the well!
 
 *2024-05-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183443) · `ta`
@@ -249,6 +303,22 @@ The police who visited the scene were recovering and investigated and the body o
 [Data](articles/fa8ea8e3.json)
 
 [Extended Data](ext_articles/fa8ea8e3.ext.json)
+
+---
+
+### කුලියාපිටියේ තරුණයා ඝාතන සිද්ධියට පෙම්වතියත් රිමාන්ඩ්
+
+*2024-05-13 19:04:00* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේ-තරුණයා-ඝාතන-සිද්ධියට-පෙම්වතියත්-රිමාන්ඩ්/11-409609) · `si`
+
+කුලියාපිටියේ සුසිත් ජයවංශ ඝාතනය සම්බන්ධයෙන් සැකපිට අත් අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගත කර සිටි සිඟිති ඇතුළු සැකකරුවන් මේ මස 27 දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කරන්නැයි කුලියාපිටිය මහේස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (13දා) නියම කළේය.
+
+ඊට අමතරව අත් අඩංගුවට ගෙන තිබූ සිඟිති නමැත්තාගේ දියණිය වෛද්‍ය පරීක්ෂණ සඳහා කුලියාපිටිය ශික්ෂණ රෝහලට ඇතුළත් කර තිබූ බව පොලිසිය අධිකරණයට දැක්වූ කරුණු පිළිබඳ සැලකිල්ලට ගත් මහේස්ත්‍රාත්වරයා රෝහල වෙත ගොස් නඩුවේ 9 සැකකරු ලෙස නම් කර තිබූ දියණියද 27දා තෙක් රක්ෂිත බන්ධනාගාර ගත කරන්නැයි නියම කළේය.
+
+දින 15ක් අතුරුදන්ව සිටියදී පණිරෙන්ඩාව රක්ෂිතයේ තිබී මෘත ශරීරය සොයාගන තිබූ සුසිත් ජයවංශ නැමැති 31 හැවිරිදි තරුණයෙකු ඝාතනය කළ බවට රක්ෂිත බන්ධනාගාර ගතකොට සිටි එම සැකකරුවන් එසේ යළි රක්ෂිත බන්ධනාගාර ගත කළ අතර ප්‍රධාන සැකකරුගේ දියණියද ඇතුළුව සිද්ධිය සම්බන්ධව මේ වනවිට 9 දෙනෙකු රිමාන්ඩ් ගතකර ඇත.
+
+...
+
+[Data](articles/644427db.json)
 
 ---
 
@@ -1480,6 +1550,18 @@ The non -academic staff of all universities launched a strike from the 12th.
 
 ---
 
+### Complaint against Diana to Bribery Commission
+
+*2024-05-13 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Complaint-against-Diana-to-Bribery-Commission/110-282506) · `en`
+
+The ‘Anti-Bribery and Anti-Waste Power Organization’ filed made a complaint with the Bribery Commission today against former State Minister Diana Gamage, alleging that she had acquired a BMW vehicle and utilized government resources while possessing a dual citizenship. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/0e23af96.json)
+
+---
+
 ### Seven times for 'Hara' ....!- Mohan
 
 *2024-05-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183405) · `ta`
@@ -2209,121 +2291,5 @@ The protest march was planned in conjunction with the ongoing strike initiated b
 [Data](articles/e339b080.json)
 
 [Extended Data](ext_articles/e339b080.ext.json)
-
----
-
-### Police attack water
-
-*2024-05-13 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196572) · `si`
-
-Non-academic staff at a university in Colombo protest at Diyatha Uyana, opposing police action against water.
-
-🟩
-
-University non-academic workers have launched a protest in Colombo to the Diyatha Uyana in Colombo.
-
-◼️
-
-[Data](articles/3500205c.json)
-
-[Extended Data](ext_articles/3500205c.ext.json)
-
----
-
-### Sri Lanka BoI, Orion sign US$1.78mn deal to expand Orion Colombo, Orion Nest
-
-*2024-05-13 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-boi-orion-sign-us1-78mn-deal-to-expand-orion-colombo-orion-nest-162735/) · `en`
-
-ECONOMYNEXT – Orion (Development) has signed an agreement with the Board of Investment of Sri Lanka for 1.78 million dollars to further develop its IT park with a ‘new ecosystem’.
-
-“Signed an agreement with Board of Investment of Sri Lanka for U$ 1.78 Mn expanding Orion Colombo, and Orion Nest to the next level,” the BoI said on X (twitter).
-
-Orion Development built Sri Lanka’s first IT Park in 2009 aiming to offer built-to-specification commercial and office infrastructure.
-
-Orion City has said it plans to further strengthen its sustainable infrastructure by transitioning to renewable energy, particularly solar power, by installing solar panels to reduce reliance on traditional energy sources.
-
-“Our goal for Phase II of Orion Tower is to achieve LEED Platinum certification setting a high standard in sustainable building practices,” Orion officials have said. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/f4e55b46.json)
-
-[Extended Data](ext_articles/f4e55b46.ext.json)
-
----
-
-### Paper setters to take final decision on controversy over O/L science paper: Susil
-
-*2024-05-13 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paper-setters-to-take-final-decision-on-controversy-over-OL-science-paper-Susil/108-282487) · `en`
-
-Parliament, May 13 (Daily Mirror)- Clarifying the controversy over the GCE Ordinary Level (O/L) Science and English papers, Education Minister Susil Premajayantha said today that steps will be taken to ensure that no injustice is caused to any students.
-
-Responding to a question by SJB MP Rohini Kumari Kaviratne, he said issues have been reported on several questions and Multiple Choice Questions (MCQ) of the science paper and paper setters will meet to take a final decision on the matter.
-
-MP Kaviratne said that the structure of the English question paper has been changed this year and that it is unreasonable for most students in rural areas where there are no trained English teachers.
-
-The Minister said the Commissioner of Examinations has assured to pay special attention to these matters when preparing the marking scheme after the routine sample making so as no injustice will be caused to the students.
-
-◼️
-
-[Data](articles/004ad302.json)
-
-[Extended Data](ext_articles/004ad302.ext.json)
-
----
-
-### Restructuring of CEB will continue despite MR’s statement on privatisation: Minister
-
-*2024-05-13 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restructuring-of-CEB-will-continue-despite-MRs-statement-on-privatisation-Minister/108-282485) · `en`
-
-Parliament, May 13 (Daily Mirror)- Restructuring of the Ceylon Electricity Board (CEB) will continue as former President Mahinda Rajapaksa has not requested for such a thing, Minister of Power and Energy Kanchana Wijesekera told Parliament today.
-
-"Mahinda Rajapaksa has not requested for the postponement of the restructuring of state enterprises. He has only asked for the postponement of selling state enterprises. We have no intention of selling the CEB. The restructuring of the CEB will continue, " Minister Wijesekera said.
-
-The Minister was responding to a question raised by Chief Opposition Whip Lakshman Kiriella to this effect.
-
-MP Kiriella was referring to a letter sent by Rajapaksa to President Wickremesinghe asking him to stop privatizing state enterprises.
-
-"We would like to know whether Minister Wijesekera is with President Wickremesinghe or with Mahinda Rajapaksa," he questioned.
-
-◼️
-
-[Data](articles/294d5207.json)
-
-[Extended Data](ext_articles/294d5207.ext.json)
-
----
-
-### Court orders a group of protesters
-
-*2024-05-13 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196571) · `si`
-
-The court has ordered a ban on a protest march organized by students and non-academic staff from Sri Jayewardenepura University and Nawala Open University. The Mirihana Police Inspector will ensure the protest's safety, despite the court's order. The court's decision, affecting individuals including student union leaders and trade union representatives, has been criticized for not considering the facts.
-
-🟩
-
-Appointory has issued a command to ban a protest march and protest today (13).
-
-The students and non-academic staff of the Sri Jayewardenepura University and Nawala Open University have organized the joint venture.
-
-According to the Mirihana Police Inspector, the protest will be protected by the Mirihana Police Inspector, according to a request to the Mirihana Police Inspector, the Court of Nugegoda has issued the order on a request to the Mirihana Headquarters.
-
-Accordingly, the court has issued this order to persons including the following respondents.
-
-1. Isur East, Students Union President, University of Sri Jayewardenepura
-
-2. Hersha Niphuwan, Students Association Secretary, University of Sri Jayewardenepura
-
-3. Udara Ranasinghe, President of the Students Union, Nawala
-
-5. Dhammika S. Priyantha, Mangala Dabarara, Samaja Chairman University Trade Union Joint Committee
-
-6. Dayaratne, Co-Chairman, Management System Joint Committee, University of Sri Jayewardenepura
-
-...
-
-[Data](articles/44316fe2.json)
-
-[Extended Data](ext_articles/44316fe2.ext.json)
 
 ---

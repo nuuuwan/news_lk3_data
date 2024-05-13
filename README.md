@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 15:52:21**
+As of **2024-05-13 16:04:50**
 
 ## Newspaper Stats
 
-*Scraped **23,701** Articles*
+*Scraped **23,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,105 @@ islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,017
-adaderanalk | 2,767
+adaderanalk | 2,768
 tamilmirrorlk | 2,779
 virakesarilk | 3,527
-dailymirrorlk | 3,732
-adaderanasinhalalk | 3,799
+dailymirrorlk | 3,733
+adaderanasinhalalk | 3,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,695 (100.0%) of 23,701 articles have been extended.
+23,701 (100.0%) of 23,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### அமெரிக்க பிரதிநிதி இலங்கைக்கு விஜயம்
+### විජයදාසට බාධා නොකරන්නැයි අධිකරණ නියෝගයක්
+
+*2024-05-13 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196578) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපතිවරයා ලෙස පත්කරන ලද අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ සහ එම පක්ෂයේ වැඩබලන ලේකම් කීර්ති උඩවත්ත හට එම ධුරවල රාජාකාරී සිදුකිරීමට බාධා කිරීම් වළක්වාලමින් අධිකරණය වාරණ නියෝගයක් නිකුත් කර ඇත.
+
+ඊට අදාළ කරුණු සලකාබැලීමෙන් අනතුරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය මෙම නියෝගය ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/1f145b2a.json)
+
+---
+
+### නෙළුම් කුලුනේ පැරෂුට් අනතුර
+
+*2024-05-13 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196577) · `si`
+
+නෙළුම් කුලුනෙන් පහළට පැරෂුට් ආධාරයෙන් පැනීමේ අවස්ථාවකට එක්වූ පුද්ගලයෙකු ඉන් ඇදවැටී අනතුරට ලක්ව තිබේ.
+
+නෙළුම් කුලුන මුදුනේ සිට පහළට පැනීමේදී නිසි වේලාවට ඔහුගේ පැරෂුටය ක්‍රියාත්මක නොවීම හේතුවෙන් මෙම අනතුර සිදුව ඇත.
+
+අනතුරින් තුවාල ලැබූ එම විදෙස් ජාතිකයා ප්‍රතිකාර සඳහා ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/4f420983.json)
+
+---
+
+### Court order issued preventing disruptions to new SLFP Chairman and Act. Gen. Sec
+
+*2024-05-13 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99187/court-order-issued-preventing-disruptions-to-new-slfp-chairman-and-act-gen-sec) · `en`
+
+The Kaduwela District Court today (13) issued an enjoining order preventing any individuals from disrupting the new Chairman of the Sri Lanka Freedom Party (SLFP) Wijeyadasa Rajapakshe and Acting General Secretary Keerthi Udawatte from functioning in their respective roles.
+
+◼️
+
+[Data](articles/2f1bdb0f.json)
+
+---
+
+### US Representative visits Sri Lanka
 
 *2024-05-13 15:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-விஜயம்/175-337238) · `ta`
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ, இன்று (13) காலை இலங்கைக்கு  வந்தார்.
+US State Assistant Secretary Donald Lu visited Sri Lanka, part of a tour through India, Sri Lanka, and Bangladesh. The visit aims to strengthen US ties in the Indo-Pacific region, following a meeting in India.
 
-இரு நாடுகளுக்கு இடையிலான உறவுகளை மேலும் வலுப்படுத்துடன் இந்திய - பசுபிக் பிராந்தியத்தைக் கட்டியெழுப்புவதற்கு அமெரிக்கா வழங்கிவரும் ஆதரவை வெளிப்படுத்தும் நோக்கில் இந்த விஜயம் அமைந்துள்ளது.
+🟩
 
-இம்மாதம் 10 - 15 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியா, இலங்கை மற்றும் பங்களாதேஷ் ஆகிய நாடுகளுக்கு டொனால்ட் லூ சுற்றுப்பயணம் மேற்கொண்டுள்ளார்.
+US State Assistant Secretary of State for South and Central Asian Affairs Donald Lu arrived in Sri Lanka this morning.
 
-இந்தியாவை கடந்த வெள்ளிக்கிழமை (10) சென்றடைந்த டொனால்ட் லூ, சென்னையில் கொன்சியூலர் அதிகாரியுடன் சந்திப்பை முன்னெடுத்திருந்தார்.
+The visit is aimed at expressing the support of the US to build the Indo -Pacific region with further strengthening ties between the two countries.
+
+Donald Lu has a tour of India, Sri Lanka and Bangladesh from 10th to 15th of this month.
+
+Donald Lu, who arrived in India last Friday (10), had a meeting with the Consular Officer in Chennai.
 
 ◼️
 
 [Data](articles/0a8649ce.json)
 
+[Extended Data](ext_articles/0a8649ce.ext.json)
+
 ---
 
-### போதகர் ஜெரோம் தொடர்பில் பிறப்பிக்கப்பட்ட உத்தரவு
+### Pastor
 
 *2024-05-13 15:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதகர்-ஜெரோம்-தொடர்பில்-பிறப்பிக்கப்பட்ட-உத்தரவு/175-337237) · `ta`
 
-மத நல்லிணக்கத்துக்கு எதிராக வெறுப்புணர்வை ஏற்படுத்தும் வகையில் கருத்து தெரிவித்த போதகர் ஜெரோம் பெர்னாண்டோவுக்கு எதிரான விசாரணைகளின் முன்னேற்ற அறிக்கையை இரண்டு வாரங்களுக்குள் சமர்ப்பிக்குமாறு உயர் நீதிமன்றம் இன்று சட்டமா அதிபருக்கு பணிப்புரை விடுத்துள்ளது.
+The High Court has ordered the Attorney General to report on the investigation progress against Pastor Jerome Fernando within two weeks. This directive follows a Supreme Court hearing on a fundamental rights violation case filed by religious leaders against Pastor Fernando, seeking immediate action.
 
-போதகர் ஜெரோம் பெர்னாண்டோவுக்கு எதிராக உடனடியாக நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு உத்தரவிடக் கோரி சமயத் தலைவர்கள் குழுவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
+
+The High Court today issued a directive to the Attorney General to submit a report of the progress of the investigation against pastor Jerome Fernando within two weeks.
+
+The order was issued when a fundamental rights violation filed by a panel of religious leaders demanding immediate action against pastor Jerome Fernando was taken up in the Supreme Court.
 
 ◼️
 
 [Data](articles/7388fae8.json)
+
+[Extended Data](ext_articles/7388fae8.ext.json)
 
 ---
 
@@ -77,6 +131,8 @@ The US national, who sustained minor injuries to his head following the accident
 ◼️
 
 [Data](articles/23794e96.json)
+
+[Extended Data](ext_articles/23794e96.ext.json)
 
 ---
 
@@ -102,33 +158,61 @@ The non -academic staff of all universities launched a strike from the 12th.
 
 ---
 
-### නෙළුම් කුළුණෙන් පැන්න අයෙක් රෝහලේ
+### One hospitalized at the Lotus Tower
 
 *2024-05-13 15:06:55* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණෙන්-පැන්න-අයෙක්-රෝහලේ/11-409599) · `si`
 
-කොළඹ නෙළුම් කුළුණේ  බේස් ජම්ප්  ඉසව්ව  වැඩසටහනට අතරතුර  පැරෂුටයක් විවෘත වීම ප්‍රමාදවීම  හේතුවෙන් විදේශ ජාතික ක්‍රීඩකයකු වහලයක් මතට ඇද වැටී බරපතල තුවාල ලබා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
+A foreign national parachutist was hospitalized in Colombo due to a parachute delay during the Base Jump event at the Lotus Tower. The event, which started yesterday, continues today and tomorrow.
 
-මෙම බේස් ජම්ප් වැඩසටහන ඊයේ 12දින නෙළුම් කුළුණ මතදී ආරම්භ වී එය අද සහ හෙට දිනයේද ක්‍රියාත්මක කිරීමට කටයුතු යොදා තිබුණි.
+🟩
+
+A foreign national player has been admitted to the Colombo National Hospital due to the delay in the opening of a parachute during the Colombo Base Jump event.
+
+The Base Jump program began on the Lotus Tower yesterday and implemented today and tomorrow and tomorrow.
 
 ◼️
 
 [Data](articles/88921f5e.json)
 
+[Extended Data](ext_articles/88921f5e.ext.json)
+
 ---
 
-### අනධ්‍යයන සේවකයන් දැවැන්ත උද්ඝෝෂණයක
+### Philanthropist Nahil Wijesuriya donates Rs 270 Mn for Bishops College
+
+*2024-05-13 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Philanthropist-Nahil-Wijesuriya-donates-Rs-270-Mn-for-Bishops-College/108-282494) · `en`
+
+Colombo, May 13 -  Nahil Wijesuriya, a well-known figure in Sri Lanka's charitable circles, has stepped forward to contribute a sum of Rs 270,000,000 towards the construction of a modern A-Level building at Bishops College, Colombo.
+
+The new facility is poised to be a state-of-the-art establishment, equipped with the latest amenities to support academic excellence.
+
+This generous gesture from Nahil Wijesuriya follows closely on the heels of his previous philanthropic endeavors. In December 2023, he made headlines with a monumental donation of Rs 1 Billion towards the completion of the "Little Hearts Foundation."
+
+◼️
+
+[Data](articles/759e7899.json)
+
+---
+
+### Non-academic workers' agitation
 
 *2024-05-13 14:52:56* · [`adalk`](https://www.ada.lk/breaking_news/අනධ්‍යයන-සේවකයන්-දැවැන්ත-උද්ඝෝෂණයක/11-409598) · `si`
 
-පේරාදෙණිය රාදෙණිය විශ්වවිද්‍යාලයේ අනධ්‍යයන සේවකයන් මහනුවර ජෝර්ජී ද සිල්වා උද්‍යානය ඉදිරිපිටදී දැවැන්ත උද්ඝෝෂණයක නිරත වූහ.
+Non-academic staff at the University of Peradeniya protested in Kandy, organized by academic workers. The Chief Secretary of the Federation of Farmers' University Trade Union warned of escalating issues due to the government's slow response.
 
-වැටුප් කප්පාදුව මාසික හිලව්දීමනා ලබා ගැනීම ඇතුළු වෘත්තිය ඉල්ලීම් ගණනාවක් පාදක කරගනිමින් විශ්ව විද්‍යාල අනධ්‍යයන සේවකයන් විසින්  රට පුරා ආරම්භ කොට ඇති වර්ජන ක්‍රියාවලියට සමගාමීව ඊයේ (13) විරෝධතා ව්‍යාපාරය සංවිධානය කොට තිබුණි .
+🟩
 
-එහිදී පෙරදෙණිය විශ්වවිද්‍යාල වෘත්තීය සමිති බලමණ්ඩලයේ ප්‍රධාන ලේකම් ටී. ඒ.ඩී. සුරංජීව මහතා පවසා සිටියේ රජය කඩිනමින් ඔවුන්ගේ වෘත්තිය ගැටලු වලට විසඳුම් ලබා නොදුනහොත් මෙම වෘත්තිය සමිති ක්‍රියා මාර්ගය වඩාත් තීව්‍ර කරන බවයි . (IJ)
+The non-academic workers of the University of Peradeniya staged a massive agitation in front of GeorG de Silva Park in Kandy.
+
+The protest was organized by university academic workers in parallel to the strike scheduled by university academic workers in parallel to the stage of university academic workers.
+
+The Chief Secretary of the Federation of Federation of Farmers' University Tra University Trade Union. A.D. Mr. Surangaa said that the government would not solve their professional issues expeditiously that this trade union action would be more escalating. (Ij)
 
 ◼️
 
 [Data](articles/6da87f03.json)
+
+[Extended Data](ext_articles/6da87f03.ext.json)
 
 ---
 
@@ -213,6 +297,8 @@ When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga h
 ...
 
 [Data](articles/30489439.json)
+
+[Extended Data](ext_articles/30489439.ext.json)
 
 ---
 
@@ -2215,113 +2301,5 @@ The mother's mother and Sujith Fernando, his mother's mother, Sujith Fernando al
 [Data](articles/e1227b31.json)
 
 [Extended Data](ext_articles/e1227b31.ext.json)
-
----
-
-### Shots lost to the country 35 billion
-
-*2024-05-13 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196557) · `si`
-
-A massive racket involving the import of goods to Sri Lanka, bypassing taxes with customs officers, has resulted in a loss of 35 billion rupees annually. This scheme, which includes underpaying taxes on items like footwear, has led to a significant reduction in the country's tax revenue.
-
-🟩
-
-Information has revealed in relation to a large racket of importing the products of the country to Sri Lanka.
-
-They are involved in the racket with certain customs officers without paying due taxes.
-
-A tax of a pair of footwear will be charged for a pair of footwear in foreign country.
-
-It is said that the foreign footwear market will be released at a low price of footwear.
-
-The annual tax revenue has been deprived of about Rs. 35 billion annually.
-
-◼️
-
-[Data](articles/139c1c3e.json)
-
-[Extended Data](ext_articles/139c1c3e.ext.json)
-
----
-
-### Aetrazenaka Side Effects: What happens to the injection of Sri Lanka?
-
-*2024-05-13 06:32:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyvyw5lv7o) · `si`
-
-The AstraZeneca vaccine, used in Sri Lanka, faced concerns over rare side effects, including blood clots. Despite these fears, the vaccine was deemed safe by the World Health Organization and the National Drug Regulatory Authority of Sri Lanka. The vaccine was donated by India and distributed to health workers and the elderly. Some reported side effects like heart attacks and blood transfusions, but these were rare and manageable. The vaccine's use was recommended to control the COVID-19 pandemic, and the government assured the public of its safety.
-
-🟩
-
-Aetrazenaka Side Effects: What happens to the injection of Sri Lanka?
-
-The fear of the world of Coronai is about controls through the Cocony Vaccine.
-
-Yet, a few years later, there is a fear of the part of covard vaccines.
-
-This fear was created by the company that was manufactured before the British High Court that the most rare side effects that could cause blood "in vaccine".
-
-After three billion doses of over three billion doses, "The company reported to remove a newly updated vaccine on commercial reasons.
-
-The company made this decision after the company was assigned a few cases against the company that blood clotings were caused by blood clotting.
-
-Asharazneaka is ready to remove the victims using another step in the compensation of the victims
-
-University of Oxford, University of Britain, was collaborated by the Oxford-Astrogene Vaccine.
-
-The vaccine was produced by the Saram Institute, an Indian-scale manufacturing company in India.
-
-...
-
-[Data](articles/db85d154.json)
-
-[Extended Data](ext_articles/db85d154.ext.json)
-
----
-
-### An atmosphere of the lower atmosphere near Sri Lanka
-
-*2024-05-13 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196555) · `si`
-
-Sri Lanka's lower atmosphere is experiencing increased rainfall, affecting most of the island. Showers or thundershowers are expected in several places, including the Western, Sabaragamuwa, Central, North Western, Uva, Eastern, and Southern provinces. Some areas may experience showers lasting into the morning. The Department of Meteorology advises the public to prepare for temporary winds and lightning risks.
-
-🟩
-
-The department states that the increase in rain condition is expected to increase due to the development of the lower atmosphere in the lower atmosphere.
-
-In most parts of the island. Showers or thundershowers will occur at several places about 1.00.
-
-Some places in the Western, Sabaragamuwa, Central, Central, North Western and Uva provinces can also occur at the Galle and Matara districts.
-
-Showers will occur at several places in the eastern and Southern provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1ad41d7d.json)
-
-[Extended Data](ext_articles/1ad41d7d.ext.json)
-
----
-
-### Concessionary vehicle permits: MPs have their way, ignoring economic crisis
-
-*2024-05-13 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Concessionary-vehicle-permits-MPs-have-their-way-ignoring-economic-crisis/155-282449) · `en`
-
-Colombo, May 13 (Daily Mirror) - Despite the cost of living sizzling at red hot levels and the country being cash- strapped, the House Committee of Parliament has endorsed the proposal to offer concessionary vehicle permits for MPs as requested by them, a top source said.
-
-The source familiar with the decision said the committee which looks into the requirements of the MPs positively considered the request by them for such permits in line with the similar facilities offered to executive graders in different categories of the public service.
-
-The MPs , numbering more than 100 and representing different parties, submitted a letter to Speaker Mahinda Yapa Abeywardena asking for permission to import vehicles with no duty for their use.
-
-Following the approval by the House Committee, the Speaker is expected to write to President Ranil Wickremesinghe who is authorized to execute the decision as the Finance Minister.
-
-...
-
-[Data](articles/8bc8e5e6.json)
-
-[Extended Data](ext_articles/8bc8e5e6.ext.json)
 
 ---

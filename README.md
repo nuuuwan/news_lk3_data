@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 09:03:18**
+As of **2024-05-13 09:18:27**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,611 (100.0%) of 23,613 articles have been extended.
+23,613 (100.0%) of 23,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### රැමේනියාවේ රැකියා ජාවාරමක තතු එළියට
+### A job racket in Ramamania
 
 *2024-05-13 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196562) · `si`
 
-රුමේනියාවේ රැකියා ලබා දෙන බව පවසමින් මුදල් ලබා ගත් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය රැකියා නියෝජිත ආයතනයක් ඉදිරිපිට ඊයේ (12) නොසන්සුන්කාරී තත්ත්වයක් හට ගත්තේය.
+In Negombo, a job racket aimed at sending locals to Romania for work was exposed. The scam, which collected funds ranging from Rs. 10 to Rs. 10 million, was denounced by victims who met in front of the job delegation. One victim shared their experience, stating they were promised jobs in Romania but were instead defrauded of 700 lakhs, with 120 others facing a similar fate.
 
-එක් අයෙකුගෙන් රුපියල් ලක්ෂ 7 සිට 10 දක්වා තරුණ තරුණියන් 128 දෙනෙකුගෙන් මෙලෙස මුදල් ලබාගෙන ඇති බව සඳහන්ය.
+🟩
 
-ඔවුන් සියලුදෙනා ඊයේ එම රැකියා නියෝජිත ආයතනය ඉදිරිපිටට රැස්වු අතර එහිදී ඔවුන් මාධ්‍ය වෙත මෙලෙස අදහස් පළ කළේය.
+The tense situation in Negombo yesterday has been aimed at a job delegation which has been operated in the Negombo area to provide jobs in Romania.
 
-"මම වාද්දුවේ ඉ﻿ඳලා ආවේ. රුමේනියාවේ යන්න මම ලක්ෂ 7යි 45ක් දුන්නා. ඒ වගේම මෙතෙන 120ක් ඉන්නවා ඇවිත්. ඒ ඔක්කෝටම හෙට ඉන්ටර්විව් ඩේට් තියෙද්දි අද එන්න කියලා මෙයාලා කියනවා ඔක්කෝම කැන්සල් කරාලු. ලොකු වංචාවක් කරා මෙයාලා."
+The money has been obtained from Rs. 10 to Rs 10 million from one lakh.
+
+They all met in front of the job delegation yesterday and they expressed their views to the media.
+
+"I came in Wadduwa. I gave it 700 lakhs to go in Romania. And there are 120 out of this. They all tomorrow tells us to come today, and they say that it is content. They're a big fraud. "
 
 ◼️
 
 [Data](articles/8408ff58.json)
+
+[Extended Data](ext_articles/8408ff58.ext.json)
 
 ---
 
@@ -76,23 +82,29 @@ In the West Sumatra area last March, 26 people were killed due to floods and lan
 
 ---
 
-### குளியாபிட்டிய இளைஞன் கொலை - 18 வயது காதலி கைது
+### 18 -year -old girlfriend arrested
 
 *2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளியாபிட்டிய-இளைஞன்-கொலை-18-வயது-காதலி-கைது/175-337214) · `ta`
 
-குளியாபிட்டிய பிரதேசத்தில் காதலியை பார்க்கச் சென்ற இளைஞன் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் அவரது 18 வயதுடைய அவரது காதலி கைது செய்யப்பட்டுள்ளார்.
+An 18-year-old's girlfriend is arrested for assisting in a murder. The victim, a young man, disappeared to visit her in Kuliyapitiya and was later found dead. The suspect's parents, Sujith Fernando and Dylani Pasa, are also in custody.
 
-கொலைக்கு உதவியமை மற்றும் குற்றத்தை மறைத்த குற்றச்சாட்டின் பேரில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குளியாப்பிட்டிய பிரதேசத்தைச் சேர்ந்த இந்த இளைஞன், கடந்த 22ஆம் திகதி தனது காதலியைப் பார்ப்பதற்காக குளியாப்பிட்டிய வஸ்ஸாவுல்ல பகுதிக்கு சென்றிருந்த நிலையில் காணாமல் போருந்தார்.
+His 18 -year -old girlfriend has been arrested in connection with the murder of a young man who went to visit a girlfriend in Kuliyapitiya.
 
-பின்னர் காணாமல் போன இளைஞனின் சடலம் சிலாபம் - மாதம்பே பிரதேசத்தில் மீட்கப்பட்டிருந்தது.
+The suspect has been arrested on charges of assisting and hiding the crime, police said.
 
-சம்பவம் தொடர்பில், குளியாப்பிட்டிய வஸ்ஸாவுல்ல பகுதியைச் சேர்ந்த காதலியின் தந்தையான 'சிங்கிதி' என அழைக்கப்படும் சுஜித் பெர்னாண்டோ மற்றும் அவரது மனைவு டிலானி ரசிகா ஆகியோர் ஏற்கனவே கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். R
+The young man from Kiliyapitiya disappeared on the 22nd of last month to go to the Vassaulla area of Kiliyapitiya to see his girlfriend.
+
+The body of the missing youth was later recovered in Chilaw - Madambe area.
+
+Sujith Fernando and his wife Dylani Pasa, known as 'Singhiti', the father of the girlfriend of the Vassaulla area of Kiliyapitiya, have already been arrested and kept in interrogation.. Remble
 
 ◼️
 
 [Data](articles/d0bf9002.json)
+
+[Extended Data](ext_articles/d0bf9002.ext.json)
 
 ---
 

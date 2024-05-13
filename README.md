@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 18:34:24**
+As of **2024-05-13 18:52:37**
 
 ## Newspaper Stats
 
-*Scraped **23,742** Articles*
+*Scraped **23,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,85 @@ adaderanalk | 2,772
 tamilmirrorlk | 2,782
 virakesarilk | 3,539
 dailymirrorlk | 3,735
-adaderanasinhalalk | 3,807
+adaderanasinhalalk | 3,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,735 (100.0%) of 23,742 articles have been extended.
+23,742 (100.0%) of 23,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### அதிசிறந்த சமபலம் வாய்ந்த  அணியை ரி20 உலகக் கிண்ணத்திற்கு தெரிவுசெய்துள்ளோம் - உப்புல் தரங்க
+### බයික් එකෙන් හඳට යන්න ගිය පිරිසට ලැබුණු දඬුවම
+
+*2024-05-13 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196585) · `si`
+
+නීතිවිරෝධී ලෙස මාර්ගයේ යතුරුපැදි ධාවන තරගවල නිරත වූ පිරිසකට අධිකරණය විසින් රුපියල් 427,500ක දඩ නියම කර ඇති බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ එහිදී අධිකරණය විසින් සැකකාර යතුරුපැදිකරුවන් 15 දෙනෙකුගේ රියදුරු බලපත්‍ර මාස 6ක කාලයකට අත්හිටුවීමට ද නියෝග කර ඇති බවය.
+
+එම යතුරුපැදිකරුවන්ට බම්බලපිටිය ගාලුපාර හා ඩුප්ලිකේෂන් පාර යන ප්‍රදේශවල විනෝදාස්වාදය සඳහා නොසැලකිලිමත් ලෙස හා ඉතා අනතුරුදායක ලෙස යතුරුපැදි ධාවනයේ නිරත වූ බවට චෝදනා එල්ලවී තිබුණි.
+
+එක් දිශාවකට පමණක් දිවෙන මෙම මාර්ගයේ විශාල ශබ්දයක් සමඟ අධික වේගයෙන් හා ප්‍රතිවිරුද්ධ දිශාවට පවා නොහික්මුණු ආකාරයෙන් යතුරුපැදි ධාවනය කරන බවට ජනතාවගෙන් බම්බලපිටිය පොලීසියට පැමිණිලි ලැබී තිබුණි.
+
+ඒ අනුව බම්බලපිටිය පොලිස් ස්ථානයේ නිලධාරීන් පසුගිය මැයි මස 05 වනදා අලුයම මෙම විශේෂ වැටලීම සිදුකර සැකපිට එම යතුරුපැදිකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/7312fe20.json)
+
+---
+
+### We have selected the best equivalent team for the R20 World Cup - Uppul Taranga
 
 *2024-05-13 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183437) · `ta`
 
-ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் கூட்டாக நடத்தப்படும் 9ஆவது ஐசிசி ரி20 உலகக் கிண்ண கிரிக்கெட் அத்தியாயத்தில் எந்தவொரு அணியையும் எதிர்கொள்ளும் திராணி இலங்கைக்கு இருப்பதாக இலங்கை கிரிக்கெட் தெரிவுக் குழுத் தலைவர் உப்புல் சந்தன தெரிவித்தார்.
+Sri Lanka's Uppul Sandana, Chairman of the Cricket Select Committee, announced the selection of a balanced team for the 9th ICC R20 World Cup, emphasizing fitness, energy, and discipline. The team, including Wanindu Hasaranga and Mahish Pathirana as main spinners, is prepared to face any team in the US and West Indies. The squad also features experienced players like Angelo Mathews and Dasun Shanaka for fast bowling, with a focus on adapting to the conditions and scoring potential.
 
-பக்க சார்பாக அணி தெரிவுசெய்யப்பட்டதாகக் கூறப்படுவதை நிராகரித்த அவர், அதிசிறந்த சமபலம் கொண்ட அணியையே தெரிவுசெய்துள்ளோம் எனவும் அவர் கூறினார்.
+🟩
 
-ஸ்ரீலங்கா கிரிக்கெட் தலைமையகத்தில் திங்கட்கிழமை (13) முற்பகல் நடைபெற்ற ஊடக சந்திப்பில் எழுப்பப்பட்ட பல்வேறு கேள்விகளுக்கு பதிலளிக்கையிலேயே அவர் இதனைத் தெரிவித்தார்.
+Sri Lanka Cricket Select Committee Chairman Uppul Sandana said that Sri Lanka is facing any team in the 9th ICC R20 World Cup chapter, which is jointly held in the United States and the West Indies.
 
-வீரர்களின் உடற்தகுதி, ஆற்றல்கள், ஒழுக்கம் ஆகியவற்றைக் கவனத்தில் எடுத்துக்கொண்டு அதிசிறந்த சமபலம் வாய்ந்த 15 வீரர்களைக்கொண்ட குழாத்தை தெரிவு செய்ததாக அவர் கூறினார்.
+He rejected the claim that the team was selected on behalf of the side and said, "We have chosen the best equal team."
+
+He made this statement in response to various questions raised at a media briefing held at the Sri Lanka Cricket Headquarters on Monday (13).
+
+He said he had taken care of the fitness, energies and discipline of the players and selected a group of 15 of the best equality.
+
+In Australia, the outer spaces and goats are planted in the grounds by shipping.. Often they are all new domains and they are recession. The Major League Cricket in the United States has scored an average of 160 runs. The R20 is likely to get 200 runs in the World Cup. Considering them all, we have strengthened the spinning in the Sri Lankan group.
 
 ...
 
 [Data](articles/89e4dde4.json)
 
+[Extended Data](ext_articles/89e4dde4.ext.json)
+
 ---
 
-### முல்லைத்தீவு பெருங்கடலை நோக்கி எடுத்துச் செல்லப்பட்ட தீர்த்தக்குடம்
+### Theerthakkuttu, which was taken to the Ocean
 
 *2024-05-13 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183436) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க வற்றாப்பளை கண்ணகி அம்மன் ஆலயத்தினுடைய வருடாந்த பொங்கல் உற்சவத்தின் மிகச் சிறப்பம்சமாகக் காணப்படுகின்ற உப்பு நீரிலே விளக்கு எரிப்பதற்காக தீர்த்தமாடுகின்ற உற்சவம் திங்கட்கிழமை (13) மிகவும் பக்தி பூர்வமாக ஆரம்பமாகியுள்ளது.
+The Pongal festival at the Kannaki Amman Temple features a lamp-burning ritual in salt water, marking its devotional start. Following a special worship at the Mulliyawalai Wild Ganesha Temple, devotees carry the tirtha (holy water) to the Mullaitivu Ocean. This ritual, significant to the Mullaitivu community, involves breaking coconuts with sticks to welcome the tirtha pitcher.
 
-முள்ளியவளை காட்டு விநாயகர் ஆலயத்திலேயே விசேட வழிபாடுகள் இடம் பெற்றதைத் தொடர்ந்து முல்லைத்தீவு பெருங்கடலிலே தீர்த்தம் எடுப்பதற்காக தற்போது தீர்த்தக்குடம் முள்ளியவளை காட்டு விநாயகர் ஆலயத்திலிருந்து பாரம்பரிய வீதிகளூடாக முல்லைத்தீவு பெருங்கடலை நோக்கி கொண்டு செல்லப்பட்டிருக்கின்றது.
+🟩
 
-முல்லைத்தீவு பெருங்கடலுக்குத் தீர்த்தக்குடம் கொண்டு செல்லப்பட்டு அங்கு விசேட வழிபாடுகளைத் தொடர்ந்து முல்லைத்தீவு பெருங்கடலிலே தீர்த்தம் எடுக்கப்பட்டு வழமை போன்று பாரம்பரிய வழிகளுடாக மீண்டும் முளளியவளை காட்டு விநாயகர் ஆலயத்தை வந்தடைந்து அங்கே காட்டு விநாயகர் ஆலயத்திலே விசேடமாக  உப்பு நீரில் விளக்கெரிகின்ற கண்கொள்ளாக் காட்சி இடம்பெற இருக்கின்றது.
+The festival of burning the lamp in the salt water, which is the most characteristic of the annual Pongal festival of the Kannaki Amman Temple, is a very devotional beginning on Monday (13).
 
-...
+Following the special worship of the Mulliyawalai Wild Ganesha Temple, the Mullaitivu is now being taken to the Mullaitivu Ocean from the Mulliyavalai Wild Ganesha Temple to take the tirtha in the Mullaitivu Ocean.
+
+Following the special rituals of the Mullaitivu Ocean, the Tirtha in the Mullaitivu Ocean is taken up in the Mullaitivu Ocean.
+
+On the way to Mulliyavalai on the road to Mulliyavalai, the devotees are preparing to break the coconuts with the gangs to welcome the tirtha pitcher.
+
+◼️
 
 [Data](articles/1d6420fa.json)
+
+[Extended Data](ext_articles/1d6420fa.ext.json)
 
 ---
 
@@ -84,73 +120,107 @@ Speaking during the ‘Environment Leaders of Tomorrow workshop’ organized by 
 
 [Data](articles/cb283419.json)
 
+[Extended Data](ext_articles/cb283419.ext.json)
+
 ---
 
-### 15 வயது பாடசாலை மாணவி பாலியல் துஷ்பிரயோகம் ; பாடசாலை பஸ் சேவை சாரதி கைது
+### A 15 -year -old school student sexual abuse;School bus service driver arrested
 
 *2024-05-13 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183371) · `ta`
 
-பாடசாலை மாணவியொருவரை ஏமாற்றி ஆள் நடமாட்டமற்ற இடத்திற்கு அழைத்துச் சென்று காரொன்றில் வைத்து பாலியல் துஷ்பிரயோகம் செய்ததாக கூறப்படும் பாடசாலை பஸ் சேவை சாரதியொருவர் கைது செய்யப்பட்டுள்ளதாக குளியாப்பிட்டிய தலைமையக பொலிஸார் தெரிவித்தனர்.
+A 32-year-old school bus driver and owner was arrested for allegedly sexually abusing a 15-year-old girl, taking her to an unknown location. The victim was introduced to the suspect through the school bus service.
 
-குளியாப்பிட்டிய பிரதேசத்தைச் சேர்ந்த 32 வயதுடைய பாடசாலை பஸ் சேவை சாரதியும் பஸ்ஸின் உரிமையாளருமான இரு பிள்ளைகளின் தந்தையே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேகநபரும் பாதிக்கப்பட்ட மாணவியும் பாடசாலை பஸ் சேவையின் போது அறிமுகமாகியுள்ள நிலையில் இருவரும் காதல் உறவில் ஈடுபட்டிருந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+A school bus service driver has been arrested for allegedly sexually abusing a schoolgirl and taking her to a unaccounted place, police said.
+
+The 32 -year -old school bus service driver and the owner of the bus has been arrested by the father of two children.
+
+Police investigations revealed that the suspect and the victim were introduced during the school bus service.
 
 ◼️
 
 [Data](articles/cc4d352a.json)
 
+[Extended Data](ext_articles/cc4d352a.ext.json)
+
 ---
 
-### நடிகர் அஸ்வின் பாபு நடிக்கும் 'சிவம் பஜே' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+### The first look of actor Ashwin Babu starring 'Sivam Baje'
 
 *2024-05-13 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183411) · `ta`
 
-தெலுங்கு திரையுலகின் வசூல் நட்சத்திரமான அஸ்வின் பாபு கதையின் நாயகனாக நடித்திருக்கும் பான் இந்திய திரைப்படமான 'சிவம் பஜே' படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+The first look of 'Sivam Baje', directed by Apsar, features Ashwin Babu, a Telugu film industry star. The film also stars Tihankana, Arbas Khan, Hyper Adi, Sai Deena, Murali Sharma, Brahma G, Tulsi, and others. Produced by Maheshwara Reddy Muli under Ganga Entertainments, it's set to release in June in Tamil, Telugu, Malayalam, Kannada, and Hindi.
 
-இயக்குநர் அப்ஸர் இயக்கத்தில் உருவாகி இருக்கும் 'சிவம் பஜே' எனும் திரைப்படத்தில் அஸ்வின் பாபு, திஹன்கனா, பொலிவுட் நடிகர் அர்பாஸ் கான், ஹைப்பர் ஆதி, சாய் தீனா, முரளி ஷர்மா, பிரம்மா ஜி, துளசி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தாசரதி சிவேந்திரா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தை கங்கா என்டர்டெய்ன்மென்ட்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் மகேஸ்வர ரெட்டி மூலி தயாரித்திருக்கிறார்.
+🟩
 
-இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து, படப்பிடிப்பிற்கு பிந்தைய பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. எதிர்வரும் ஜூன் மாதத்தில் இப்படத்தை  வெளியிடுவதற்காக திட்டமிடப்பட்டு வருகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+The first look of Ban Indian film 'Sivam Baje' has been released as the hero of the story of Ashwin Babu, the star of the Telugu film industry.
 
-ஃபர்ஸ்ட் லுக்கில் கதையின் நாயகனான அஸ்வின் பாபுவின் ஆவேசமான தோற்றம் ரசிகர்களை வெகுவாக கவர்ந்திருக்கிறது. இந்த திரைப்படம் தமிழ், தெலுங்கு , மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் வெளியாகிறது.
+Directed by director Apsar, 'Sivam Baje' stars Aswin Babu, Tihankana, Bollywood actor Arbas Khan, Hyper Adi, Sai Deena, Murali Sharma, Brahma G, Tulsi and many others.. The film, which has been recorded by Dasarathi Sivendra, has produced the producer Maheshwara Reddy Muli on behalf of Ganga Entertainments.
+
+The shooting of the film is over and the post -shooting work is going on. The film crew has said that the film is scheduled to be released in June.
+
+Ashwin Babu, the hero of the story in First Look, has attracted a lot of fans. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi.
 
 ◼️
 
 [Data](articles/36554e24.json)
 
+[Extended Data](ext_articles/36554e24.ext.json)
+
 ---
 
-### விஜய் குமார் நடிக்கும் எலக்சன் படத்தின் முன்னோட்டம் வெளியீடு
+### Elkson movie starring Vijay Kumar
 
 *2024-05-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183407) · `ta`
 
-'உறியடி', 'ஃபைட் கிளப்' படத்தின் மூலம் ரசிகர்களிடத்தில் பிரபலமான நடிகர் விஜய் குமார் கதையின் நாயகனாக நடித்திருக்கும் 'எலக்சன்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னிட்டு படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையில் நடைபெற்றது அதன் போது படக்குழுவினர் பங்கு பற்றினர்.
+"Elkson," a movie set in Chennai, focuses on local elections but avoids political propaganda, emphasizing family values and the role of politics in daily life. It features a campaign led by volunteers, highlighting their dedication to serving the people, not the party. The film, starring Vijay Kumar, explores the life of a party volunteer and the impact of politics on family relationships, without directly addressing political parties. The preview has garnered attention for its emotional storytelling and director's unique approach to politics. "Elkson" is set to release worldwide on the 17th of this month."
 
-'எலக்சன்' திரைப்படம் உள்ளாட்சி தேர்தலை மையப்படுத்தி உருவாகி இருக்கிறது. படத்தின் கதைக்களம் தேர்தலாக இருந்தாலும்.. அது தொடர்பான கருத்துக்களை பார்வையாளர்களிடத்தில் வலிந்து திணிக்காமல் நாளாந்த வாழ்வில் அரசியலை ஒரு அங்கமாக பாவிக்கும் கதாபாத்திரத்தை மையப்படுத்தியும், குடும்ப உறவுகளுக்கு முன்னுரிமை வழங்கியும் குடும்ப கதையாக இப்படம் தயாராகி இருக்கிறது.
+🟩
 
-இந்த திரைப்படத்தில் நடித்திருக்கும் கதாபாத்திரங்கள் அரசியலைப் பற்றிய பிரச்சாரத்தை செய்வர். ஆனால் படம் எந்த அரசியலையும் பிரச்சாரம் செய்யவில்லை.
+'Eliyadi' and 'Fight Club'. The film was held in Chennai in Chennai.
+
+The movie 'Elkson' is centered on local elections. Although the storyline of the film is an election.. The film is being prepared as a family story, focusing on the role of politics in the daytime life, and prioritizing family relationships, without imposing its views on the viewers.
+
+The characters in the film will make a campaign on politics. But the film has not propagated any politics.
+
+There are a lot of volunteers who work for policy and party in politics. It is a work that speaks of the life of the party volunteer who wants to work for the people who do not consider the party who are not working for the party.
+
+And the world will be branded as a world of people as a man and a person who does not survive. This will cause a fair rage for their family members. I have played the hero in the character who expresses that anger.
 
 ...
 
 [Data](articles/52c0a427.json)
 
+[Extended Data](ext_articles/52c0a427.ext.json)
+
 ---
 
-### தென்மராட்சியில் முள்ளிவாய்க்கால் கஞ்சி விநியோகம்
+### Mullivaikkal Kanji Distribution in Thenmarachchi
 
 *2024-05-13 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183416) · `ta`
 
-இலங்கை தமிழரசு கட்சியின் ஏற்பாட்டில் வட்டுக்கோட்டை தொகுதி கிளையினால் முள்ளிவாய்க்கால் கஞ்சி விநியோகமும் முள்ளிவாய்க்கால் நினைவு ஊர்தி பவனியும் இன்று காலை 10.30மணியளவில் சாவகச்சேரி பேரூந்து நிலையத்திற்கு அண்மையில் அமைந்துள்ள சிவன் ஆலயத்தில் முன்னெடுக்கப்பட்டது.
+Mullivaikkal Kanji and Memorial Bhavani were held at Chavakachcheri Bus Station, commemorating survivors. Mrs. Sasikala Raviraj led the event, followed by a distribution of pamphlets detailing Mullivaikkal's history. The Kanji was also distributed at Raviraj's statue and led by Sivanesan at Kodikamam bus stand. The event will continue in Vadamarachchi, Kopay, Manipayi, Nallur, Vadukkottai, Velanai, and Karainagar from the 15th to the 18th, with organizers requesting the memorial's presence in these areas.
 
-இதன் பொழுது முள்ளிவாய்க்கால் மண்ணில் உயிர்நீத்தவர்களை நினைவுகூர்ந்து பொதுச்சுடர் திருமதி சசிகலா ரவிராஜ்ஜினால்  ஏற்றி வைக்கப்பட்டு தொடர்ச்சியாக ஈகைச்சுடரேற்றி அகவணக்கம் செலுத்தி மலரஞ்சலியும் செலுத்தப்பட்டது.
+🟩
 
-இதனை தொடர்ந்து தமிழின படுகொலை அடையாளப்படுத்தும்  முள்ளிவாய்க்கால் நினைவு ஊர்தியும்  இதேவேளை  முள்ளிவாய்க்கால் கஞ்சியும் விநியோகிக்கப்பட்டது. இதன் பொழுது முள்ளிவாய்க்கால் கஞ்சியின் வரலாற்றினை உள்ளடக்கிய துண்டுபிரசுரமும் வழங்கி வைக்கப்பட்டது.
+Mullivaikkal Kanji and Mullivaikkal Memorial Bhavani were held at the Shiva Temple at the Chavakachcheri Bus Station at 10.30 am today.
 
-தொடர்ந்து படுகொலை செய்யபட்ட மாமனிதர் நாடாளுமன்ற முன்னாள் உறுப்பினர் ரவிராஜ்ஜின் திருவுருவ சிலை முன்றலிலும் முள்ளிவாய்க்கால் நினைவு கஞ்சி விநியோகிக்கப்பட்டது
+At this time, Mullivaikkal was mounted by Mrs. Sasikala Ravirajj to commemorate the survivors of Mullivaikkal soil and continued to pay the flower.
+
+This was followed by the Mullivaikkal Memorial, the Mullivaikkal Kanji, which was followed by the Tamil massacre.. During this time, the pamphlet, which included the history of Mullivaikkal Kanji.
+
+Mullivaikkal Memorial Kanji was also distributed at the statue of Raviraj's statue of former Member of Parliament, Raviraj's statue.
+
+Meanwhile, the distribution of Mullivaikkal Kanji was carried out under the leadership of former Pradeshiya Sabha member Sivanesan at the Kodikamam bus stand.
+
+Following tomorrow, Vadamarachchi will travel in Vadamarachchi on the 15th, Kopay, Manipayi and Nallur areas on the 16th, Vadukkottai on the 16th, Velanai on the 17th and Karainagar on the 18th.
 
 ...
 
 [Data](articles/64001dba.json)
+
+[Extended Data](ext_articles/64001dba.ext.json)
 
 ---
 
@@ -2221,27 +2291,5 @@ The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is no
 [Data](articles/1eb8fb71.json)
 
 [Extended Data](ext_articles/1eb8fb71.ext.json)
-
----
-
-### Youth injured in a road accident in Jaffna
-
-*2024-05-13 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183373) · `ta`
-
-A young man was injured in a road accident in Jaffna when his motorcycle collided with a jeep at the Iluppaiyadich junction. He was admitted to the Jaffna Teaching Hospital for treatment.
-
-🟩
-
-A young man who was traveling on a motorcycle was injured in an injury when a jeep vehicle collided with a motorcycle at the Iluppaiyadich junction in Jaffna.
-
-The accident occurred when the motorcycle traveling by the Jaffna Naval road was trying to cross the junction of the Jaffna Palali road to Punnakkattuwan.
-
-The young man who was traveling on a motorcycle has been admitted to the Jaffna Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/6ccd10c3.json)
-
-[Extended Data](ext_articles/6ccd10c3.ext.json)
 
 ---

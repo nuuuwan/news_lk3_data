@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 14:33:36**
+As of **2024-05-13 14:52:30**
 
 ## Newspaper Stats
 
-*Scraped **23,688** Articles*
+*Scraped **23,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,354
 dailyftlk | 1,374
-adalk | 2,012
+adalk | 2,014
 adaderanalk | 2,766
 tamilmirrorlk | 2,776
 virakesarilk | 3,527
-dailymirrorlk | 3,730
-adaderanasinhalalk | 3,798
+dailymirrorlk | 3,731
+adaderanasinhalalk | 3,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,687 (100.0%) of 23,688 articles have been extended.
+23,688 (100.0%) of 23,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Court calls for report on progress of investigations against Pastor Jerome
+
+*2024-05-13 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-calls-for-report-on-progress-of-investigations-against-Pastor-Jerome/108-282492) · `en`
+
+Colombo, May 13 (Daily Mirror) - The Supreme Court today directed the Attorney General to submit the progress of the investigations against Pastor Jerome Fernando within two weeks over his alleged hate remarks against religious harmony in the country.
+
+The Supreme Court made this direction when the Fundamental Rights petition filed by a group of religious leaders seeking an order directing the authorities to immediately act against Pastor Jerome Fernando was called before the Supreme Court.
+
+The petitioners Ven. Elle Gunawansa Thera, Ven. Bengamuwe Nalaka Thera, Ven. Angulugalle Sri Ginanada Thera, Rev. Father Nishan Cooray, Dr. Sivasui Ramachandra Kurukkal Babu Sharma and Al-Haj-As-Seyed Hassan Moulana AlQuadri filed this petition naming Pastor Jerome Fernando, the IGP and several others as respondents.
+
+◼️
+
+[Data](articles/37dd2848.json)
+
+---
+
+### අවසන් ග්ලැසියරයත් අහිමිවෙයි
+
+*2024-05-13 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196576) · `si`
+
+වෙනිසියුලාවේ පිහිටා තිබූ අවසන් ග්ලැසියරය වන්නේ ලා කොරෝනා එනම් හම්බෝල්ට් ග්ලැසියරය යි.
+
+මේ වනවිට එම ග්ලැසියරය දියවීම වේගවත් වී අයිස් පෙතක් බවට පත්ව ඇති බව විද්‍යාඥයින් පෙන්වා දෙයි.
+
+මෙය ගෝලීය කාලගුණ විපර්යාස සහ ගෝලීය උණුසුම ඉහළයාමේ ප්‍රතිඵල මැනවින් පෙන්නුම් කරන තත්ත්වයක් බව විද්‍යාඥයින් පවසයි.
+
+◼️
+
+[Data](articles/b0f07dd4.json)
+
+---
 
 ### Selectors deny favoritism in Sri Lanka’s T20 World Cup squad selection
 
@@ -47,6 +79,40 @@ When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga h
 ...
 
 [Data](articles/f6dc9d0c.json)
+
+[Extended Data](ext_articles/f6dc9d0c.ext.json)
+
+---
+
+### තද වැසි ගැන කාලගුනයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-05-13 14:01:16* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුනයෙන්-අවවාදාත්මක-නිවේදනයක්/11-409595) · `si`
+
+මධ්‍යම, සබරගමුව සහ ඌව පළොත්, සහ ගොල්ල, මාතර හා කළුතර දිස්ත්‍රික්ක සඳහා තද වැසි පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන් මගින් නිකුත් කර තිබේ.
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ කැළඹිලි ස්වාභාවයක් වර්ධනය විම හේතුවෙන් මෙසේ දිවයින පුරා වැසි තත්ත්වයේ වැඩි විමක් බලාපොරොත්තු වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මේ අනුව ඉහත සඳහන් ප්‍ර දේශවල ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි අපේක්ෂා කරන බව එම දෙපාර්තමේන්තුව පවසයි.
+
+මෙම අවවාදාත්මක නිවේදනය අද රාත්‍රී 11.30 තෙක් වලංග බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/a6174fba.json)
+
+---
+
+### කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිගෙන් තෑගි
+
+*2024-05-13 13:46:09* · [`adalk`](https://www.ada.lk/breaking_news/කැබිතිගොල්ලෑව-කොට්ඨාස-භාර-ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරිගෙන්-තෑගි/11-409594) · `si`
+
+ඉතිහාසයේ ප්‍රථම වතාවට කැබිතිගොල්ලෑව කොට්ඨාසයේ පාසල් සිසුන්ට හා පොලිස් ස්ථාන නිලධාරින්හට ලෙඳර් ක්‍රිකට් ක්‍රීඩාවේ නිරත වීමට අවශ්‍ය නව වැඩ පිළිවෙලක් ලෙස කැබිතිගොල්ලෑව පොලිස් ස්ථානයේ ක්‍රීඩා පිටියේ ඉදිකළ පැති විකට්ටුව හා ක්‍රීඩා උපකරණ කට්ටල් නවක ක්‍රීඩකයින් අයිතියට පත් කිරීම අද (13) දින උදෑසන කැබිතිගොල්ලෑව පොලිස් ස්ථානයේ ක්‍රීඩා පිටියේදී, කැබිතිගොල්ලෑව කොට්ඨාස භර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි එම්.එස්. කේ.වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණි.
+
+කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි එම්.එස්. කේ.වික්‍රමනායක මහතාගේ සංකල්පයක් මත කොට්ඨාසයේ පිහිටි පොලිස් ස්ථාන 13 තුළ සිටින ස්ථානාධිපතිවරුන්ගේ සහයෝගයෙන් ලක්ෂ 03 ට ආසන්න මුදලක් වැය කරමින් මෙම ඉදි කිරීම් කටයුතු හා ක්‍රීඩා භාණ්ඩ ලබා ගැනීම සිදුකර තිබුණි.
+
+...
+
+[Data](articles/3f9144fa.json)
 
 ---
 
@@ -447,6 +513,8 @@ The Nugegoda Magistrate issued this order as per a request made by the Inspector
 *2024-05-13 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99182/police-fire-water-cannons-at-protesting-university-non-academic-staff) · `en`
 
 Police have used water cannons to disperse protesting university non-academic staff near Diyatha Uyana Junction at Battaramulla, Ada Derana reporter said.
+
+The protest march was planned in conjunction with the ongoing strike initiated by university non-academic staff over their monthly allowances and wage disparity. However, the strike also continues today for the 11th consecutive day.
 
 ◼️
 
@@ -2245,89 +2313,5 @@ The summit will include a host of activities, such as keynote address by subject
 [Data](articles/fde33bbf.json)
 
 [Extended Data](ext_articles/fde33bbf.ext.json)
-
----
-
-### CTC announces appointment of Fariyha Subhani as managing director
-
-*2024-05-13 03:58:00* · [`islandlk`](http://island.lk/ctc-announces-appointment-of-fariyha-subhani-as-managing-director-2/) · `en`
-
-Ceylon Tobacco Company PLC (CTC) announced the appointment of Fariyha Subhani as Managing Director and Chief Executive Officer, effective 15th April 2024.Subhani takes over the reins as Managing Director from Monisha Abraham, who was appointed to the position in December 2021. Prior to joining CTC, Fariyha served as Managing Director for Upfield (Private) Limited, South & Central Asia, a leading private equity food company. She also spent 28 years with Unilever PLC where she held various senior leadership roles, across geographies and a number of diverse FMCG categories.
-
-...
-
-[Data](articles/f8c1166b.json)
-
-[Extended Data](ext_articles/f8c1166b.ext.json)
-
----
-
-### Tourism earnings strengthen further despite March low levels
-
-*2024-05-13 02:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-earnings-strengthen-further-despite-March-low-levels/108-282440) · `en`
-
-Earnings from tourism displayed continued strengthening despite some softening from March. Arrivals eased last month but the momentum persists, projecting robust earnings from the trade which once saw a prolonged decline due to repeated crises from 2019 onwards through 2022.
-
-The tourism trade generated earnings of US$ 225.7 million April, down from US$ 338.4 million, but up from US$ 148.2 million a year ago.
-
-Arrivals softened somewhat in April to 148,867 from 209,181 in March which contributed to the pullback in April.
-
-Tourist arrivals and its earnings to Sri Lanka have been on a tear as the island nation was anyway a preferred leading destination for travel by the global travellers.
-
-Leading global travel publications also featured Sri Lanka among the top destinations for people to travel due to its offerings.
-
-The trade met with some slowdown in 2019 due to Easter bombings before it was nearly decimated by the two years of pandemic, and then by the so-called Aragalaya.
-
-...
-
-[Data](articles/c28d641e.json)
-
-[Extended Data](ext_articles/c28d641e.ext.json)
-
----
-
-### Wijeyadasa takes over SLFP leadership as Maithri steps down
-
-*2024-05-13 02:37:19* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-takes-over-SLFP-leadership-as-Maithri-steps-down/56-761719) · `en`
-
-SLFP pro-Sirisena faction names Wijeyadasa Rajapakshe as Maithripala Sirisena’s successor at special meeting in Kotte
-
-Pro-CBK faction accuses pro-Sirisena faction of violating injunction orders by holding a special party meeting
-
-Acting General Secretary Duminda Dissanayake in a letter to SLFP Senior Deputy Secretary asks him to refrain from calling such meetings in the future
-
-Stresses so-called Executive Council meeting held by Pro-Sirisena faction to appoint Rajapakshe has no legitimacy
-
-Former President Maithripala Sirisena relinquished his position as Chairman of the Sri Lanka Freedom Party (SLFP) yesterday, paving the way for Acting Chairperson Minister of Justice Wijeyadasa Rajapakshe to take over the role.
-
-The decision was announced at a special SLFP Executive Committee meeting held in Kotte by the Pro-Sirisena faction of the party yesterday morning.
-
-The party said a unanimous decision was reached to appoint Minister of Justice Wijeyadasa Rajapakshe as the new Chairman.
-
-...
-
-[Data](articles/6746fa25.json)
-
-[Extended Data](ext_articles/6746fa25.ext.json)
-
----
-
-### Govt. de-gazettes part of Vidataltivu Nature Reserve
-
-*2024-05-13 02:30:09* · [`dailyftlk`](https://www.ft.lk/news/Govt-de-gazettes-part-of-Vidataltivu-Nature-Reserve/56-761718) · `en`
-
-An extraordinary gazette has been issued de-gazetting a section of the Vidataltivu Nature Reserve to set up an aquaculture industrial park.
-
-The gazette issued by Minister of Wildlife and Forest Resources Conservation Pavithradevi Wanniarachchi, noted that the area specified in the appendix of the gazette will no longer be designated as part of the Vidataltivu Nature Reserve.
-
-However, the appendix of the gazette notification has not been made available to the public. Accordingly, the exact land extent of the area has been de-gazetted and other information remains unknown.
-
-According to previously available information, the aquaculture industrial park will be used for the farming of various species including marine finfish, crabs and exotic species of shrimp in a Public Private Partnership (3P) and is expected to raise $ 1.3 billion for the Government.
-
-...
-
-[Data](articles/675e4f5e.json)
-
-[Extended Data](ext_articles/675e4f5e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 08:09:21**
+As of **2024-05-13 08:33:41**
 
 ## Newspaper Stats
 
-*Scraped **23,601** Articles*
+*Scraped **23,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,285
 economynextcom | 1,351
 dailyftlk | 1,374
 adalk | 2,002
-adaderanalk | 2,752
-tamilmirrorlk | 2,762
+adaderanalk | 2,754
+tamilmirrorlk | 2,764
 virakesarilk | 3,516
 dailymirrorlk | 3,714
-adaderanasinhalalk | 3,781
+adaderanasinhalalk | 3,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,586 (99.9%) of 23,601 articles have been extended.
+23,601 (100.0%) of 23,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பு - மழை அதிகரிப்பு
+
+*2024-05-13 08:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு-மழை-அதிகரிப்பு/175-337213) · `ta`
+
+இலங்கையை அண்மித்த தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பான தன்மை உருவாகியுள்ளதால், நாடளாவிய ரீதியில் மழைவீழ்ச்சி அதிகரிக்கும் என எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் பல மாகாணங்களில், பிற்பகல் 1.00 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யுக்கூடும்.
+
+மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகளவான மழைவீழ்ச்சி எதிர்பார்க்கப்படுகிறது.
+
+கிழக்கு மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையில் ஒரு சில இடங்களில் மழை பெய்யக் கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் சில இடங்களில் பனிமூட்டமான நிலை நிலவும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/9f763418.json)
+
+---
+
+### Murder of Kuliyapitiya youth: 18-year-old girlfriend arrested
+
+*2024-05-13 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99172/murder-of-kuliyapitiya-youth-18-year-old-girlfriend-arrested) · `en`
+
+Police have arrested the girlfriend of the youth from Kuliyapitiya who was found murdered weeks after his disappearance.
+
+The 18-year-old suspect, a resident of Wassawulla in Ilukhena, has been arrested on charges of aiding and abetting in the murder and concealing the crime, police said.
+
+Police had launched an investigation after the disappearance of the youth, Susitha Jayawansa, 31, a resident of Kabalewa area in Kuliyapitiya, was reported on April 22 and he was last seen visiting his girlfriend’s house following a phone call received from her father.
+
+However, the body of the missing youth was discovered weeks later at the Panirendawa forest reserve in the Madampe area. The body was found torched and dumped in a forest area in Madampe on May 07 while it was confirmed that the youth had been murdered.
+
+...
+
+[Data](articles/5dc03d37.json)
+
+---
+
+### අද සෞඛ්‍ය වර්ජනය අද මධ්‍යම පළාතේ
+
+*2024-05-13 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196559) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය විසින් අද (13) උදෑසන මධ්‍යම පළාතේ රෝහල් තුළ වර්ජන ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කර තිබේ.
+
+සිය ඉල්ලීම් සඳහා රජය නිසි ප්‍රතිචාර නොදක්වන්නේ නම් එළැඹෙන 22 වන දා සිට දීප ව්‍යාප්ත වැඩවර්ජනයක් ආරම්භ කරන බව එම සන්ධානයේ සම කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+
+සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කළ මෙම වර්ජන ක්‍රියාමාර්ගය සම්බන්ධයෙන් ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය මහතා අදහස් පළ කළේය.
+
+"මේ ප්‍රශ්නයේ මුලික කාරණය විසඳලා ඉවරයි. දීමනාව දෙන්න තීරණය කරලා, චක්‍රලේඛයත් නිකුත් කරලා ඉවරයි. පොඩි කොටසකට තමා මේ දීමනාව දැනට අහිමිවෙලා තියෙන්නේ. පෙරදීමනාව නොගෙවීම යන කාරණාව මත. ඒ අයට දීමනාව දෙන්න කියලා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කරන්න කියලා අපි සෞඛ්‍ය ඇමතිතුමාට කිව්වා. එතුමා ඒක මං හිතන්නේ කරනවා. වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ගන්න ඒ අය තීරණය කරලා තියෙනවා. ඒ තීරණයට ටිකක් කල්දීලා මේක විසඳන්න කටයුතු කරන්න අවස්ථාව දෙන එක හොඳයි."
+
+...
+
+[Data](articles/8eeb2739.json)
+
+---
 
 ### Showery conditions expected to enhance during next few days
 
@@ -52,6 +110,30 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/43699eef.json)
 
+[Extended Data](ext_articles/43699eef.ext.json)
+
+---
+
+### Showery conditions to enhance during next few days
+
+*2024-05-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99171/showery-conditions-to-enhance-during-next-few-days) · `en`
+
+Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to be enhanced during the next few days, according to the Meteorology Department.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts, it said.
+
+Showers may occur at a few places in the coastal areas of Eastern and Southern provinces during the morning too.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d902c542.json)
+
 ---
 
 ### Will Sajith, AKD, Prez accept Daily Mirror invitation for debate?
@@ -66,23 +148,31 @@ Yet in Sri Lanka, there is no acceptance of an invitation sent by the Daily Mirr
 
 [Data](articles/89e6c459.json)
 
+[Extended Data](ext_articles/89e6c459.ext.json)
+
 ---
 
-### කුලියාපිටියේ තරුණයා ඝාතන කළ සිදුවීමට පෙම්වතිය අත්අඩංගුවට
+### Girlfriend arrested for murder youth in Kuliyapitiya
 
 *2024-05-13 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196558) · `si`
 
-කුලියාපිටිය ප්‍රදේශයේ තරුණයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් ඔහුගේ පෙම්වතිය අත්අඩංගුවට ගෙන තිබේ.
+Girlfriend arrested for murder in Kuliyapitiya. Suspect charged with supporting and covering the crime. Body found in Kuliyamba, Kuliyampathu. Mother's mother and Sujith Fernando, along with Sitini, Sitiva, and Dilani Rasika, arrested and remanded.
 
-ඝාතනයට ආධාර අනුබල දීම සහ අපරාධය වසන් කිරීමේ චෝදනා මත සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-පසුගිය 22වනදා  කුලියාපිටිය ප්‍රදේශයේ පදිංචි මෙම තරුණයා සිය පෙම්වතිය බැලීම සඳහා කුලියාපිටිය වස්සාමුල්ල ප්‍රදේශයට ගොස් සිටිය දී අතුරුදන්වු තරුණයාගේ මළ සිරුර හලාවත මාදම්පේ ප්‍රදේශයේ තිබී පසුගිය දා සොයා ගැනුණි.
+His girlfriend has been arrested in connection with the assassination of a youth in Kuliyapitiya.
 
-සිද්ධිය සම්බන්ධයෙන් කුලියාපිටිය වස්සාවුල්ල පදිංචි පෙම්වතියගේ මව සහ පියා වන සුජිත් ප්‍රනාන්දු නොහොත් 'සිඟිති' නමැත්තා සහ ඔහුගේ බිරුඳ වන දිලානි රසිකා යන අය මීටපෙර අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළේය.
+The suspect was arrested on charges of supporting the murder and covering the crime.
+
+The body of the missing youth was found in Kuliyamba, Kuliyampathu area where the young man was traveling in Kuliyapitiya.
+
+The mother's mother and Sujith Fernando, his mother's mother, Sujith Fernando alphabetic, Sitini, Sitiva, and his bird Dilani Rasika, was arrested and remanded.
 
 ◼️
 
 [Data](articles/e1227b31.json)
+
+[Extended Data](ext_articles/e1227b31.ext.json)
 
 ---
 
@@ -179,6 +269,8 @@ The deal came despite procurement requirements and anti-corruption roadmap requi
 ...
 
 [Data](articles/93a97980.json)
+
+[Extended Data](ext_articles/93a97980.ext.json)
 
 ---
 
@@ -310,6 +402,8 @@ The summit will include a host of activities, such as keynote address by subject
 
 [Data](articles/fde33bbf.json)
 
+[Extended Data](ext_articles/fde33bbf.ext.json)
+
 ---
 
 ### CTC announces appointment of Fariyha Subhani as managing director
@@ -321,6 +415,8 @@ Ceylon Tobacco Company PLC (CTC) announced the appointment of Fariyha Subhani a
 ...
 
 [Data](articles/f8c1166b.json)
+
+[Extended Data](ext_articles/f8c1166b.ext.json)
 
 ---
 
@@ -343,6 +439,8 @@ The trade met with some slowdown in 2019 due to Easter bombings before it was ne
 ...
 
 [Data](articles/c28d641e.json)
+
+[Extended Data](ext_articles/c28d641e.ext.json)
 
 ---
 
@@ -505,6 +603,8 @@ His journey described in his book *”Asuwe Parapuren Sannaddawa”* speaks of h
 ...
 
 [Data](articles/719711fe.json)
+
+[Extended Data](ext_articles/719711fe.ext.json)
 
 ---
 
@@ -670,35 +770,61 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 
 ---
 
-### வெளிநாட்டு சிகரட்டுகளுடன் ஒருவர் கைது
+### பல்கலை ஊழியர் இன்று கவனவீர்ப்பு
+
+*2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-ஊழியர்-இன்று-கவனவீர்ப்பு/175-337212) · `ta`
+
+நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் நடைபெற்றுவரும் பல்கலைக்கழக ஊழியர் சங்கத்தின் தொடர்ச்சியான வேலைநிறுத்தத்தின் ஒரு பகுதியாக இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் அனைத்துப் பல்கலைக்கழகங்களிலும், பல்கலைக்கழக வாயிலில் அல்லது அருகில் உள்ள நகரில் கவனவீர்ப்பு ஆர்ப்பாட்டம் நடாத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்திலும் பல்கலைக்கழக ஊழியர் சங்கத்தினால் இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் கவனவீர்ப்பு ஆர்ப்பாட்டமும் அதனைத் தொடர்ந்து மாணவர் ஒன்றியத்தினருடன் இணைந்து ஊடக சந்திப்பு ஒன்றும் நடைபெறவுள்ளதென யாழ்ப்பாணப் பல்கலைக்கழக ஊழியர் சங்கத்தின் இணைச் செயலாளர் த.சிவரூபன் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/d8653ca2.json)
+
+---
+
+### Arrest someone with foreign cigarettes
 
 *2024-05-13 00:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337210) · `ta`
 
-ஓமானில் இருந்து சட்டவிரோதமான முறையில் இலங்கைக்குக் கொண்டுவரப்பட்ட சுமார் பத்து  லட்சம் ரூபா பெறுமதியான வெளிநாட்டு சிகரெட்டுகளுடன்  ஒருவர் கைது செய்யப்பட்டுள்ளார் .
+A 32-year-old man was arrested at Katunayake airport for possessing foreign cigarettes, valued at Rs. He runs a shop in Oman and had the cigarettes seized by police.
 
-கட்டுநாயக்க விமான நிலைய வருகை முனையத்தில் நேற்று அவர் கைது செய்யப்பட்டுள்ளார்.  இவரிடமிருந்த வெளிநாட்டு சிகரெட்டுகளும் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவின் அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளன .
+🟩
 
-கைது செய்யப்பட்டவர் ஹொரணை பிரதேசத்தில் வசிக்கும் 32 வயதுடையவர் என்பதுடன் இவர் ஓமானில் கடை ஒன்றை நடத்தி வருகின்றார் என தெரியவந்துள்ளது .மேற்படி நபர் சட்டவிரோதமாக இலங்கைக்குக் கொண்டு வந்த வெளிநாட்டு  சிகரெட்டுகளுடன் எதிர்வரும் 22 ஆம் திகதி நீர்கொழும்பு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார் .  (a)
+A man has been arrested with foreign cigarettes worth Rs.
+
+He was arrested yesterday at the Katunayake airport.Foreign cigarettes have also been seized by the police authorities.
+
+The arrested person is 32 -year -old and is running a shop in Oman.(a)
 
 ◼️
 
 [Data](articles/123f793a.json)
 
+[Extended Data](ext_articles/123f793a.ext.json)
+
 ---
 
-### சப்ரகமுவ மாகாணத்தில் ஆசிரியர்கள் வெற்றிடம்
+### Teachers in Sabaragamuwa Province
 
 *2024-05-13 00:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-மாகாணத்தில்-ஆசிரியர்கள்-வெற்றிடம்/175-337209) · `ta`
 
-சப்ரகமுவ மாகாணத்தில் 1,080 பாடசாலைகளில் 4 ஆயிரத்து 600 ஆசிரியர் வெற்றிடங்கள் நிலவுகின்றன என கல்வி அமைச்சி தெரிவித்துள்ளது.
+In Sabaragamuwa Province, there are 4,600 teacher vacancies across 1,080 schools. The Ministry of Education is working to fill these, with a focus on 425 schools for the first time.
 
-இவற்றை நிரப்புவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சப்ரகமுவ மாகாண கல்வி செயலாளர் சாமர பமுனு ஆராச்சி கூறியுள்ளார்.
+🟩
 
-அதற்கிணங்க, முதற்கட்டமாக 425 பாடசாலைகளில் நிலவும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்கு நடவடிக்கை எடுக்கப்பட்டு வருகின்றது. (a)
+There are 4 thousand 600 vacancies in 1,080 schools in Sabaragamuwa Province, the Ministry of Education said.
+
+Sabaragamuwa Provincial Education Secretary Samara Pamunu Arachchi said that steps have been taken to fill these.
+
+Accordingly, steps are being taken to fill the vacancies in 425 schools for the first time.. (A)
 
 ◼️
 
 [Data](articles/56bdccb1.json)
+
+[Extended Data](ext_articles/56bdccb1.ext.json)
 
 ---
 
@@ -719,6 +845,8 @@ SLBA Chairman and Standard Chartered Sri Lanka Chief Executive Officer Bingumal 
 ...
 
 [Data](articles/54cae6cc.json)
+
+[Extended Data](ext_articles/54cae6cc.ext.json)
 
 ---
 
@@ -1586,6 +1714,8 @@ Commissioned in 1984 during Colombo Water & Gas Company, the Mabima Filling Plan
 
 [Data](articles/7b72ab69.json)
 
+[Extended Data](ext_articles/7b72ab69.ext.json)
+
 ---
 
 ### Sarva Ameresekere appointed as group chairman of George Steuart
@@ -1602,6 +1732,8 @@ Sampath Bank unveils Vishwa Retail App, redefining Internet banking in Sri Lanka
 
 [Data](articles/2d2a93d0.json)
 
+[Extended Data](ext_articles/2d2a93d0.ext.json)
+
 ---
 
 ### Lanka Hospitals Academy consolidates its hold on healthcare education in Sri Lanka
@@ -1615,6 +1747,8 @@ Deepthi Lokuarachchi, Group CEO of Lanka Hospitals PLC said, “Lanka Hospitals 
 ...
 
 [Data](articles/969ae8db.json)
+
+[Extended Data](ext_articles/969ae8db.ext.json)
 
 ---
 
@@ -1779,6 +1913,22 @@ However, the Sri Lankan field situation does not seem to have returned to Ranil.
 [Data](articles/5cfe81a3.json)
 
 [Extended Data](ext_articles/5cfe81a3.ext.json)
+
+---
+
+### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
+
+*2024-05-12 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
+
+May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
+
+May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
+
+...
+
+[Data](articles/5fbb9b96.json)
+
+[Extended Data](ext_articles/5fbb9b96.ext.json)
 
 ---
 
@@ -1985,129 +2135,5 @@ He recently visited Sri Lanka and held various meetings to the North and East.. 
 [Data](articles/43df802e.json)
 
 [Extended Data](ext_articles/43df802e.ext.json)
-
----
-
-### Man who received first pig kidney transplant dies
-
-*2024-05-12 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Man-who-received-first-pig-kidney-transplant-dies/107-282417) · `en`
-
-USA, May 12 (BBC) - The first man to receive a genetically modified pig kidney transplant has died two months after the operation, the hospital which carried out the procedure has said.
-
-Richard "Rick" Slayman, 62, was suffering with end-stage kidney disease before undergoing the operation in March.
-
-Massachusetts General Hospital (MGH) said on Sunday there was no indication his death was a result of the transplant.
-
-Transplants of other organs from genetically modified pigs have failed in the past, but the operation on Mr Slayman was hailed as a historic milestone.
-
-In addition to kidney disease, Mr Slayman also suffered from Type 2 diabetes and hypertension. In 2018, he had a human kidney transplant, but it began to fail after five years.
-
-Following his pig kidney transplant on 16 March, his doctors confirmed he no longer needed dialysis after the new organ was said to be functioning well.
-
-...
-
-[Data](articles/7f45c78c.json)
-
-[Extended Data](ext_articles/7f45c78c.ext.json)
-
----
-
-### Man who received first pig kidney transplant dies
-
-*2024-05-12 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-received-first-pig-kidney-transplant-dies/108-282417) · `en`
-
-USA, May 12 (BBC) - The first man to receive a genetically modified pig kidney transplant has died two months after the operation, the hospital which carried out the procedure has said.
-
-Richard "Rick" Slayman, 62, was suffering with end-stage kidney disease before undergoing the operation in March.
-
-Massachusetts General Hospital (MGH) said on Sunday there was no indication his death was a result of the transplant.
-
-Transplants of other organs from genetically modified pigs have failed in the past, but the operation on Mr Slayman was hailed as a historic milestone.
-
-In addition to kidney disease, Mr Slayman also suffered from Type 2 diabetes and hypertension. In 2018, he had a human kidney transplant, but it began to fail after five years.
-
-Following his pig kidney transplant on 16 March, his doctors confirmed he no longer needed dialysis after the new organ was said to be functioning well.
-
-...
-
-[Data](articles/91b3c13c.json)
-
-[Extended Data](ext_articles/91b3c13c.ext.json)
-
----
-
-### Health trade unions to launch token strike at Central Province hospitals
-
-*2024-05-12 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99165/health-trade-unions-to-launch-token-strike-at-central-province-hospitals) · `en`
-
-Several health sector trade unions have decided to launch a token strike at all hospitals in the Central Province on Monday (13) over their demands.
-
-Accordingly, the Health Trade Union Alliance stated the strike which commences tomorrow will gradually be expanded to other provinces as well.
-
-The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months demanding an allowance increase.
-
-The trade union actions stemmed from the Cabinet Ministers’ approval of a proposal tabled by President Ranil Wickremesinghe seeking to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-◼️
-
-[Data](articles/2b8400a7.json)
-
-[Extended Data](ext_articles/2b8400a7.ext.json)
-
----
-
-### Afghanistan floods devastate villages, killing 315
-
-*2024-05-12 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-floods-devastate-villages-killing-315/108-282416) · `en`
-
-NAHRIN, Afghanistan, May 12 (Reuters) - Flash floods caused by heavy rains have devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday, as villagers buried their dead and aid agencies warned of widening havoc.
-
-Thousands of homes were damaged and livestock wiped out, the Taliban-run refugee ministry said, while aid groups warned of damage to health care facilities and vital infrastructure, such as water supply, with streets left coated in mud.
-
-In the Nahrin district of Baghlan province, people carried their shrouded dead to a gravesite.
-
-"We have no food, no drinking water, no shelter, no blankets, nothing at all, floods have destroyed everything," said Muhammad Yahqoob, who has lost 13 members of his family, children among them.
-
-"Out of 42 houses, only two or three remain, it has destroyed the entire valley."
-
-...
-
-[Data](articles/4948f39b.json)
-
-[Extended Data](ext_articles/4948f39b.ext.json)
-
----
-
-### If the salary hike is not paid: CWC leader Senthil Thondaman Sevy
-
-*2024-05-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183311) · `ta`
-
-CWC leader Senthil Thondaman warns of legal action if salary hikes, negotiated and protested for, are not paid. Workers are entitled to Rs 1700 increase.
-
-🟩
-
-“The Ceylon Workers Congress has paid a salary increase to the appropriate workers by negotiations and protests. Currently, the Gazette has been issued for a salary of Rs 1700. If they do not provide this salary increase, legal action will be taken. ” - Senthil Thondaman
-
-◼️
-
-[Data](articles/79fa4099.json)
-
-[Extended Data](ext_articles/79fa4099.ext.json)
-
----
-
-### SLFP gets new acting General Secretary
-
-*2024-05-12 16:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-gets-new-acting-General-Secretary/108-282414) · `en`
-
-Colombo, May 12 - The faction of the Sri Lanka Freedom Party (SLFP) under the leadership of former President Maithripala Sirisena has announced the appointment of Attorney-at-Law Keerthi Udawatte as the Acting General Secretary.
-
-This follows the appointment of new SLFP Chairman Wijeyadasa Rajapakshe.
-
-◼️
-
-[Data](articles/a982b25f.json)
-
-[Extended Data](ext_articles/a982b25f.ext.json)
 
 ---

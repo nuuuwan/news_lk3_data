@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 10:33:54**
+As of **2024-05-13 10:52:26**
 
 ## Newspaper Stats
 
-*Scraped **23,633** Articles*
+*Scraped **23,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 1,285
 economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,006
-adaderanalk | 2,756
-tamilmirrorlk | 2,768
+adaderanalk | 2,757
+tamilmirrorlk | 2,769
 virakesarilk | 3,518
 dailymirrorlk | 3,719
-adaderanasinhalalk | 3,789
+adaderanasinhalalk | 3,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,627 (100.0%) of 23,633 articles have been extended.
+23,633 (100.0%) of 23,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### Indonesia flood death toll rises to 41 with 17 missing
+
+*2024-05-13 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99176/indonesia-flood-death-toll-rises-to-41-with-17-missing) · `en`
+
+The number of people killed by flash floods and cold lava flow from a volcano in western Indonesia over the weekend has risen to 41 with 17 more missing, a local disaster agency official told AFP Monday.
+
+Hours of heavy rain caused large volcanic rocks to roll down one of Indonesia’s most active volcanos into two districts on Sumatra island Saturday evening, while flooding inundated roads, homes and mosques.
+
+“Data as of last night, we recorded 37 dead victims... But from this morning it has grown again, the figure reached 41 (dead),” Ilham Wahab, West Sumatra disaster mitigation agency official, told AFP.
+
+Rescuers were searching for 17 still missing, three in Agam district and 14 in Tanah Datar, both the worst-hit areas of the flood and home to hundreds of thousands of people, he said.
+
+Ilham could not confirm the number of locals evacuated because officials had encouraged “people to evacuate to relatives’ places, which are safer” than tent shelters in heavy rains.
+
+...
+
+[Data](articles/bcbfcfbc.json)
+
+---
+
+### මෙක්සිකෝවේ වෙඩිතැබීමකින් 8ක් මරුට
+
+*2024-05-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196567) · `si`
+
+මෙක්සිකෝවේ, මොරෙලෝස් ප්‍රාන්තයේ සිදුවූ වෙඩි තැබීමකින් පුද්ගලයන් 08 දෙනෙකු මියගොස් තිබේ.
+
+එරට සංචාරක නගරයක දී වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+වෙඩි වැදීමෙන් පුද්ගලයින් සිව්දෙනෙකු එම ස්ථානයේදීම මිය ගොස් ඇති අතර තවත් සිව්දෙනෙකු රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බව සඳහන්ය.
+
+2006 වසරේ සිට මේ දක්වා මෙක්සිකොවේ පුද්ගලයින් 450,000ක් ඝාතනය ලක්ව ඇති අතර එරටට හඳුන්වා දුන් මතභේදාත්මක මත්ද්‍රව්‍ය විරෝධී නීති ද ඊට බලපා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/9424b819.json)
+
+---
+
+### எம்.பிக்களுக்கு சலுகையில் வாகன இறக்குமதி
+
+*2024-05-13 10:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-சலுகையில்-வாகன-இறக்குமதி/175-337219) · `ta`
+
+வாழ்க்கைச் செலவுகள் கடுமையாக உயர்ந்து, நாடு வங்குரோத்தடைந்த போதிலும், எம்.பி.க்கள் கோரியபடி, சலுகை விலையில் வாகன அனுமதிச் சீட்டு வழங்கும் முன்மொழிவுக்கு, பாராளுமன்ற அவைக் குழு ஒப்புதல் அளித்துள்ளது என முக்கிய ஆதாரம் அறியத்தருகிறது.
+
+எம்.பி.க்களின் தேவைகளை ஆராயும் குழு, பொதுச் சேவையின் பல்வேறு பிரிவுகளில் உள்ள நிர்வாக தரத்தினருக்கு வழங்கப்படும் இதே போன்ற வசதிகளுக்கு ஏற்ப அத்தகைய அனுமதிகளுக்கான கோரிக்கையை சாதகமாக பரிசீலித்ததாக முடிவை நன்கு அறிந்த வட்டாரம் தெரிவித்தது.
+
+100க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள், பல்வேறு கட்சிகளை பிரதிநிதித்துவப்படுத்தி, சபாநாயகர் மகிந்த யாப்பா அபேவர்தனவிடம் தமது பாவனைக்கான வரியற்ற வாகனங்களை இறக்குமதி செய்வதற்கு அனுமதி வழங்குமாறு கோரி கடிதம் ஒன்றை சமர்ப்பித்தனர்.
+
+சபைக் குழுவின் ஒப்புதலுக்குப் பிறகு, நிதியமைச்சர் என்ற முறையில் தீர்மானத்தை நிறைவேற்ற அதிகாரம் பெற்ற ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு சபாநாயகர் இது தொடர்பில் கடிதம் எழுதுவார் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/e371b1c6.json)
+
+---
 
 ### Kuwait forms new government headed by Ahmad Abdullah Al-Sabah
 
@@ -52,21 +108,29 @@ The emir also suspended some articles of the constitution, including those stati
 
 [Data](articles/ef2cc866.json)
 
+[Extended Data](ext_articles/ef2cc866.ext.json)
+
 ---
 
-### 5 மாவட்டங்களுக்கு அபாய எச்சரிக்கை
+### Risk alert to 5 districts
 
 *2024-05-13 10:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-337217) · `ta`
 
-பதுளை, கண்டி, இரத்தினபுரி, கேகாலை மற்றும் குருநாகல் ஆகிய 5 மாவட்டங்களுக்குதேசிய கட்டட ஆராய்ச்சி நிறுவகம் மண்சரிவு அபாய முன்னெச்சரிக்கை விடுத்துள்ளது.
+The Basic Research Institute warns of landslide risks in Sri Lanka's Badulla, Kandy, Ratnapura, Kegalle, and Kurunegala districts due to heavy rainfall exceeding 75mm. This alert comes as the country braces for increased rainfall due to atmospheric turbulence.
 
-குறித்த மாவட்டங்களில் 75மில்லிமீற்றருக்கும் அதிகமான மழைவீழ்ச்சி பதிவாகியதையடுத்தே மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, இலங்கையை அண்மித்த தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பான தன்மை உருவாகியுள்ளதால், நாடளாவிய ரீதியில் மழைவீழ்ச்சி அதிகரிக்கும் என எதிர்பார்க்கப்படுகின்றமை குறிப்பிடத்தக்கது. R
+The Basic Research Institute has issued a landslide risk precaution for the five districts of Badulla, Kandy, Ratnapura, Kegalle and Kurunegala.
+
+The landslide alert has been issued after the rainfall has been reported in more than 75 millimeters in these districts.
+
+Meanwhile, as the turbulence in the recent low -lying atmosphere of Sri Lanka is expected to increase rainfall nationwide.. Remble
 
 ◼️
 
 [Data](articles/f3a62158.json)
+
+[Extended Data](ext_articles/f3a62158.ext.json)
 
 ---
 
@@ -159,6 +223,8 @@ The other four persons who were also electrocuted in the incident are currently 
 ◼️
 
 [Data](articles/1713aa7a.json)
+
+[Extended Data](ext_articles/1713aa7a.ext.json)
 
 ---
 
@@ -410,25 +476,31 @@ Sujith Fernando and his wife Dylani Pasa, known as 'Singhiti', the father of the
 
 ---
 
-### காதலன் படுகொலை; காதலி கைது
+### Lover's assassination;Arresting girlfriend
 
 *2024-05-13 08:28:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலன்-படுகொலை-காதலி-கைது/175-337214) · `ta`
 
-குளியாபிட்டிய பகுதியில் இளைஞன் ஒருவன் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் அவரது காதலி கைது செய்யப்பட்டுள்ளார்.
+An 18-year-old woman from Walasmulla is arrested for allegedly supporting and hiding the murder of her missing boyfriend from Kuliyapitiya. The man disappeared to meet her on the 22nd and was found dead days later in Chilaw-Madampai. Her parents are also detained.
 
-கொலை செய்வதற்கு ஆதரவு வழங்கியமை மற்றும் குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டுக்களின் கீழ், சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-வலஸ்முல்ல – இழுக்ஹின்ன பகுதியைச் சேர்ந்த 18 வயதான யுவதியே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A girlfriend has been arrested in connection with the murder of a youth in Kiliyapitiya.
 
-குளியாபிட்டிய பகுதியைச் சேர்ந்த இளைஞன் ஒருவன், தனத காதலியை சந்திப்பதற்காக கடந்த 22ம் திகதி வலஸ்முல்ல பகுதிக்கு சென்ற நிலையில் காணாமல் போயிருந்தார்.
+Police say the suspect has been arrested on charges of supporting the murder and hiding the crime.
 
-இவ்வாறு காணாமல் போன இளைஞனின் சடலம் பல நாட்களின் பின்னர் சிலாபம் – மாதம்பை பகுதியிலிருந்து கண்டெடுக்கப்பட்டது.
+The 18 -year -old woman from Walasmulla - Durakhinna has been arrested.
 
-இந்த சம்பவம் தொடர்பில் வலஸ்முல்ல பகுதியைச் சேர்ந்த காதலியின் தந்தை மற்றும் தாய் ஆகியோர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+A young man from Kuliyapitiya was missing to Valasmulla on the 22nd to meet his girlfriend.
+
+The body of the missing young man was found from the Chilaw -Madampai area several days later.
+
+The father and mother of a girlfriend from Valasmulla have been arrested and detained in connection with the incident.
 
 ◼️
 
 [Data](articles/d7c387c0.json)
+
+[Extended Data](ext_articles/d7c387c0.ext.json)
 
 ---
 
@@ -1302,17 +1374,23 @@ DP Global Gestures for Empowerment or GG movement is being introduced to eradica
 
 ---
 
-### பல்கலைக்கழக ஊழியர்கள் இன்று கவனயீர்ப்பு
+### University staff today
 
 *2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்கள்-இன்று-கவனயீர்ப்பு/175-337212) · `ta`
 
-நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் நடைபெற்றுவரும் பல்கலைக்கழக ஊழியர் சங்கத்தின் தொடர்ச்சியான வேலைநிறுத்தத்தின் ஒரு பகுதியாக இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் அனைத்துப் பல்கலைக்கழகங்களிலும், பல்கலைக்கழக வாயிலில் அல்லது அருகில் உள்ள நகரில் கவனவீர்ப்பு ஆர்ப்பாட்டம் நடாத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+University staff across the country are on strike, with protests planned at all universities today. The Jaffna University Employees Union, in partnership with the Student Union, will hold a media briefing at 10:00 am.
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்திலும் பல்கலைக்கழக ஊழியர் சங்கத்தினால் இன்று திங்கட்கிழமை காலை 10.00 மணியளவில் கவனவீர்ப்பு ஆர்ப்பாட்டமும் அதனைத் தொடர்ந்து மாணவர் ஒன்றியத்தினருடன் இணைந்து ஊடக சந்திப்பு ஒன்றும் நடைபெறவுள்ளதென யாழ்ப்பாணப் பல்கலைக்கழக ஊழியர் சங்கத்தின் இணைச் செயலாளர் த.சிவரூபன் தெரிவித்தார். (a)
+🟩
+
+It is reported that as part of the continuous strike of the university employees' union at state universities across the country, a protest will be held at all universities, university gate or in a nearby city today.
+
+Jaffna University Employees Union (Jaffna University Employees Union) said that a media briefing will be held in partnership with the Student Union at 10.00 am on Monday morning by the University Employees Union.. (A)
 
 ◼️
 
 [Data](articles/13a4d405.json)
+
+[Extended Data](ext_articles/13a4d405.ext.json)
 
 ---
 
@@ -1980,21 +2058,29 @@ Only the wedding artists have the opportunity to go to Korea without an exam.The
 
 ---
 
-### පොදු සමා කාලයේ යුද හමුදාවෙන් 12,066ක් දැනටමත් ඉවත් වෙලා
+### 12,066 from the army has already left
 
 *2024-05-12 20:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-සමා-කාලයේ-යුද-හමුදාවෙන්-12-066ක්-දැනටමත්-ඉවත්-වෙලා/11-409584) · `si`
 
-නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයන්ට නීත්‍යනුකූලව සේවයෙන් ඉවත් වීම සඳහා ප්‍රකාශයට පත් කර තිබෙන පොදු සමාකාලය මෙ මස 20වන දිනෙන් අවසන් වන බව යුද හමුදා මූලස්ථානය සඳහන් කරයි.
+The army has announced that 12,066 personnel have left their posts, with the deadline for leaving being December 20th. This decision was made on November 11th, and 11,985 personnel have left since then.
 
-පසුගිය 20වන දින සිටමේ මස 11වන දින දක්වා කාලය තුළදී 12,066ක් සේවයෙන් ඉවත් කර තිබෙන බවද පෙන්වා දෙයි.
+🟩
 
-පසුගිය මස 20වන දින සිට මේ මස 20වන දින දක්වා පොදු සමාකාලයක් ප්‍රකාශයට පත් කර තිබෙන අතර,පසුගිය වසරේ දෙසැම්බර් 31වන දින සහ ඊට පෙර සිට නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින යුද හමුදා නිලධාරීන්ට හා සෙසු නිලයන්ට අයත් පිරිස් සඳහා නීත්‍යනුකූලව සේවයෙන් ඉවත් වීමට මෙම පොදු සමා කාලයේදී අවස්ථාව හිමිව තිබේ.
+Army Headquarters states that the public simultaneously declared to leave for army personnel at legal service without leave without leave is concluded on the 20th of this month.
 
-මෙරට සිටින පිරිස් රෙජිමේන්තු වෙත වාර්තා කිරීමෙන් හා විදේශගතව සිටින පිරිස් රෙජිමේන්තු හා සම්බන්ධ වී නීත්‍යනුකූලව ඉවත් වීම සඳහා අවස්ථාව ලබා දී ඇති බවද යුදහමුදා මූලස්ථානය සඳහන් කරයි.
+It is said that 12,066 have been removed from the 11th of the month of the year.
 
-...
+A public concision has been announced from the 20th of this month to the 20th of this month and to leave for the 31st of December 31 last year to leaveThe opportunity is available.
+
+According to Mushadama Headquarters, the persons in this country have been given the opportunity to dismiss the regiments and regiments abiggued abducted.
+
+Accordingly, 11,985 military personnel have been removed during the period when the removal of the removable from the 20th to 11th.
+
+◼️
 
 [Data](articles/ca6a8f07.json)
+
+[Extended Data](ext_articles/ca6a8f07.ext.json)
 
 ---
 
@@ -2125,79 +2211,5 @@ The doctor claimed that economic challenges are the primary reason for the decli
 [Data](articles/100262e3.json)
 
 [Extended Data](ext_articles/100262e3.ext.json)
-
----
-
-### Rapid decline in birthrate; making children has not become priority of new generation
-
-*2024-05-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapid-decline-in-birthrate-making-children-has-not-become-priority-of-new-generation/108-282419) · `en`
-
-Colombo, May 12 (Daily Mirror) - The birth rate in Sri Lanka is on a rapid decline, and currently it has decreased by 30%, Kalubowila Teaching Hospital gynecologist Prof. Ajith Fernando said.
-
-Addressing the media, the doctor said that the number of births, which was about 360,000, has decreased to about 240,000.
-
-The doctor claimed that economic challenges are the primary reason for the declining birth rate in the country. Many families are opting not to have a second child due to these economic difficulties.
-
-...
-
-[Data](articles/6ad7d768.json)
-
-[Extended Data](ext_articles/6ad7d768.ext.json)
-
----
-
-### May-18, Mulli Drain Kanji Week
-
-*2024-05-12 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183359) · `ta`
-
-The inauguration of Kanji Week on May 18th, organized by the Civil Organization of Batticaloa, commemorates the Mullivaikkal story. Participants brewed and served porridge in a pot symbolizing May-18, highlighting the hardships of the 2009 war, including death, hunger, and the thorny survival in the Vanni landscape. This event, aimed at sharing the pain, will continue across the Batticaloa district until May 18th.
-
-🟩
-
-The inauguration of the Kanji Week, May 18, was organized at the Chengaladi Badulla Road junction in Batticaloa on Sunday (12).
-
-This commemorative event was organized by the Civil Organization of Batticaloa in the sense of sharing the story of Mullivaikkal.
-
-The porridge was brewed in a pot, which was used as May-18, and served to the people on the road.
-
-In addition, pamphlets titled "Let's Share the Story of Pain."
-
-Death and hunger were surrounded during the final war of 2009. There is no value for money. There is no food for purchase.
-
-It is at this point that the people in the Vanni landscape introduced the life of the thorns for their survival.
-
-It is noteworthy that the Mulli Vaikkal Kanji week will be held in various places in the Batticaloa district until the 18th of May.
-
-◼️
-
-[Data](articles/98bb3cda.json)
-
-[Extended Data](ext_articles/98bb3cda.ext.json)
-
----
-
-### 19 month child accident dead in a piece of carrots
-
-*2024-05-12 19:43:43* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-අල-කැබැල්ලක්-සිරවී-මාස-19ක-දරුවා-මරුට/11-409580) · `si`
-
-A 19-month-old child died after choking on a piece of carrot in Saliyawewa, Anuradhapura. The incident occurred in the morning, and the child was rushed to the Ambulagama District Hospital. Despite efforts, the child was pronounced dead upon arrival. An autopsy was conducted by Mr. Gunatilake at the Anuradhapura Teaching Hospital.
-
-🟩
-
-Saliyawewa Police said that the death inspection of the Anuradhapura Teaching Hospital revealed that a piece of carrot was caused by a piece of carrots in Saliyawewa.
-
-Wijesinghe Mudiyanseesala's town was deceased, a bite of Wijesinghe Mudiyansesala's stay.
-
-The accident had occurred while at the end of the morning and immediately after his at the time, the motherland was taken to the Ambulagama District Hospital in the Ambulance Service to the Nochchiyagama District Hospital.
-
-Steps have been taken to the Anuradhapura Teaching Hospital, police said, but the child had detected the deceased to the hospital.
-
-Post-medical test of this death is the Judicial Medical Officer of Anuradhapura Teaching Hospital. The autopsy was carried out by Mr. Gunatilake and the autopsy was carried out by acting of acting of acting of acting at Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/e357cb7c.json)
-
-[Extended Data](ext_articles/e357cb7c.ext.json)
 
 ---

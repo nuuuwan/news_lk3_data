@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 23:18:07**
+As of **2024-05-13 23:33:39**
 
 ## Newspaper Stats
 
-*Scraped **23,785** Articles*
+*Scraped **23,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,374
 adalk | 2,029
 adaderanalk | 2,774
 tamilmirrorlk | 2,785
-virakesarilk | 3,550
+virakesarilk | 3,552
 dailymirrorlk | 3,743
 adaderanasinhalalk | 3,816
 
@@ -26,15 +26,31 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,785 (100.0%) of 23,785 articles have been extended.
+23,785 (100.0%) of 23,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
+### சஜித்தை சந்தித்தார் டொனால்ட் லு
+
+*2024-05-13 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183452) · `ta`
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லு (Donald Lu ) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்தார்.
+
+தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க உதவி இராஜாங்க செயலாளர் டொனால்ட் லு, உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள வேளையிலையே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவையும் சந்தித்தார்.
+
+இலங்கைக்கும் ஐக்கிய அமெரிக்க குடியரசுக்கும் இடையில் தற்போதுள்ள கூட்டாண்மையை மேம்படுத்துவது குறித்து இரு தரப்பினரும் நீண்ட நேரம் கலந்துரையாடியதோடு, தற்போதைய வங்குரோத்து நிலையிலிருந்து நாட்டை கட்டியெழுப்புவதற்கு ஒத்துழைப்பு வழங்குமாறும் டொனால்ட் லூவிடம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச வேண்டுகோள் விடுத்தார்.
+
+◼️
+
+[Data](articles/c893d6da.json)
+
+---
+
 ### President congratulates Sri Lanka Cricket Team for Twenty20 World Cup
 
-*2024-05-13 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183451) · `ta`
+*2024-05-13 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183451) · `ta`
 
 President Ranil Wickremesinghe congratulated the Sri Lankan cricket and rugby teams for their recent successes. The cricket team, led by Vanitu Hazaranga, will compete in the Twenty20 World Cup in the US and West Indies. The rugby team won the first division of Sri Lanka's Rugby Championship. The President, along with other officials, met with the teams to celebrate their achievements.
 
@@ -1047,6 +1063,26 @@ It is known that steps have been taken to send the Sri Lankan soldiers who are j
 [Data](articles/93d78ff6.json)
 
 [Extended Data](ext_articles/93d78ff6.ext.json)
+
+---
+
+### சமூக ஆலோசனைக்குழு உருவாக்கும் சுற்று நிருபத்தில் உள்ளூராட்சி மன்ற வேட்பாளர்களை நியமிப்பது தொடர்பில் குறிப்பிடப்படவில்லை - பிரதமர் தினேஷ்
+
+*2024-05-13 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183419) · `ta`
+
+சமூக ஆலோசனைக்குழு உருவாக்கும் சுற்று நிருபத்தில் எந்த ஒரு இடத்திலும் உள்ளூராட்சி சபை தேர்தலில் போட்டியிடும் வேட்பாளர்கள் உறுப்பினர்களாக நியமிக்கப்படுவது தொடர்பில் குறிப்பிடப்படவில்லை.
+
+மாறாக அந்த குழுவில் நாடளாவிய ரீதியிலுள்ள ஓய்வு பெற்ற பொறியியலாளர்கள், தொழில்நுட்ப அதிகாரிகள், பல்வேறு துறைகளிலும் நிபுணத்துவம் பெற்றவர்கள் மற்றும் கிராமிய தலைவர்கள் நியமிக்கப்பட்டு அவர்கள் நாட்டின் அபிவிருத்திக்காக பயன்படுத்தப்படுகிறார்கள் என பிரதமர் தினேஷ் குணவர்தன  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13) தயாசிறி ஜயசேகர எம்பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+உள்ளூராட்சி மன்றங்களில் கடந்த இரண்டு வருடங்கள் இடம்பெறாமல் இருந்த அபிவிருத்தி திட்டங்களை மீண்டும் ஆரம்பிப்பதற்கு வரவு செலவு திட்டத்தின் மூலம் திட்டமிடப்பட்டுள்ளது.
+
+அபிவிருத்தி குழுக்களில் பங்கு பற்றி, கோரிக்கைகள் மற்றும் யோசனைகளை சமர்ப்பித்துள்ள அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் பன்முகப்படுத்தப்பட்ட நிதி, மாகாண சபை மூலமான நிதி,மத்திய அரசாங்கத்தினது அபிவிருத்தித் திட்டங்களும் பெற்றுக் கொடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/1c7fa195.json)
 
 ---
 
@@ -2263,45 +2299,5 @@ Furthermore, the Education Minister also commented regarding the issues pertaini
 [Data](articles/990a122d.json)
 
 [Extended Data](ext_articles/990a122d.ext.json)
-
----
-
-### Patients bear the brunt as health strike continues
-
-*2024-05-13 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patients-bear-the-brunt-as-health-strike-continues/108-282490) · `en`
-
-Colombo, May 13 (Daily Mirror)  -  Patients have been highly inconvenienced due to the health strike launched by health professionals in all government hospitals at provincial level.
-
-The strike which commenced on May 09 targeting seven provinces has crippled healthcare services at respective hospitals. Today, the strike was launched at Central Province from 8am to 12 noon while the strike will affect hospitals in the Sabaragamuwa Province tomorrow (14).
-
-The Health Trade Union Alliance confirmed its intention to spread the strike to other provinces in the coming days if their demands are not met. Among the key issues prompting the strike are demands for higher allowances, particularly for a diverse range of health professionals. These include radiology and laboratory technicians, pharmacists, midwives, dental surgeons, public health inspectors and entomology officers.
-
-...
-
-[Data](articles/00fb0ea5.json)
-
-[Extended Data](ext_articles/00fb0ea5.ext.json)
-
----
-
-### Hurt to foreigner who jumped from the tower
-
-*2024-05-13 13:32:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபுரத்திலிருந்து-குதித்த-வெளிநாட்டவருக்கு-காயம்/175-337232) · `ta`
-
-A foreigner participating in the Base Jump Tournament at the Lotus Tower was injured after falling. Witnesses reported the jumper delayed deploying their parachute, leading to the accident.
-
-🟩
-
-A foreigner fell down while experiencing a flowing event in the Lotus Tower.
-
-A foreigner who participated in the Base Jump Tournament at the Lotus Tower was the injured.
-
-One person who saw the incident said that the foreigner had delayed running his parasite after jumping out of the tower.
-
-◼️
-
-[Data](articles/22934f7c.json)
-
-[Extended Data](ext_articles/22934f7c.ext.json)
 
 ---

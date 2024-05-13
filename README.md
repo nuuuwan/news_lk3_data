@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 13:18:15**
+As of **2024-05-13 13:33:44**
 
 ## Newspaper Stats
 
-*Scraped **23,670** Articles*
+*Scraped **23,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,142 @@ economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,008
 adaderanalk | 2,764
-tamilmirrorlk | 2,773
-virakesarilk | 3,525
-dailymirrorlk | 3,726
-adaderanasinhalalk | 3,795
+tamilmirrorlk | 2,774
+virakesarilk | 3,527
+dailymirrorlk | 3,727
+adaderanasinhalalk | 3,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,670 (100.0%) of 23,670 articles have been extended.
+23,670 (100.0%) of 23,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### පුටින්ගේ රජය අර්බුදයක
+
+*2024-05-13 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196574) · `si`
+
+රුසියාවේ නව ආරක්ෂක අමාත්‍යවරයා ලෙස 65 හැවිරිදි හිටපු උප අගමැති ඇන්ද්‍රෙයි බිලෝසොෆ් නම් කර තිබේ.
+
+ඒ 2012 වසරේ සිට රුසියානු ආරක්ෂක අමාත්‍ය ධුරයේ කටයුතු කළ පුටින්ගේ සමීපතමයෙකු ද වන සර්යෙගි ෂූලෝව් එම ධුරයෙන් ඉවත් කරමිනි.
+
+ක්‍රිමියාව රුසියාව ඈඳාගැනීම, යුක්‍රේන ආක්‍රමණය වැනි ජාතික ආරක්ෂාව සම්බන්ධව වැදගත් තීන්දු ගෙන ඇත්තේ ෂූලෝව්ගේ ධුර කාලය තුළය.
+
+68 හැවිරිදි ෂූලෝව් ධුරයෙන් ඉවත්කිරීමට නිශ්චිත හේතුවක් මෙතෙක් අනාවරණ වී නැහැ.
+
+කෙසේ නමුත් ආරක්ෂක ඇමති ධූරය ඔහුගෙන් ඉවත්කිරීමට ජනාධිපතිවරයා තීරණය කර ඇත්තේ, එම ඇමති ධුරය සිවිල් පුරවැසියෙකු වෙත ලබාදීමේ අවශ්‍යතාව මත බව ක්‍රෙම්ලින ප්‍රකාශකයෙක් පවසා තිබිණි.
+
+එහෙත් බොහෝ පාර්ශ්ව පෙන්වා දෙන්නේ මෙය පුටින් රජය තුළ පවතින අර්බුදවල ප්‍රතිඵලයක් ලෙසය.
+
+◼️
+
+[Data](articles/53f7b133.json)
+
+---
+
+### தொற்று நோயை காரணம் காட்டி கஞ்சி வழங்க தடையேற்படுத்தியது போல் வெசாக் பண்டிகை நிகழ்வுகளையும் தடுத்து நிறுத்துவார்களா? - அருட்தந்தை மா.சத்திவேல் கேள்வி
+
+*2024-05-13 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183395) · `ta`
+
+தொற்று நோய் அபாயத்தை காரணம் காட்டி கஞ்சி வழங்க தடையேற்படுத்திய பொலிஸார். அதேபோல் வெசாக் பண்டிகை நிகழ்வுகளையும் தடுத்து நிறுத்துவார்களா? என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் கேள்வி எழுப்பியுள்ளார்.
+
+உப்பு கஞ்சி பகிர்வோடு முள்ளிவாய்க்கால் நினைவேந்தல் வாரம் ஆரம்பித்திருக்கையில் சம்பூர் பொலிஸார் கஞ்சி பகிருதலை தடுப்பதற்காக மூதூர் நீதிமன்றம் தடை உத்தரவை பெற்றிருப்பதோடு நிகழ்வு ஏற்பாட்டாளர்கள் என இதுவரை நால்வரை கைது செய்துள்ளதாக செய்திகள் வந்துள்ளன. மக்கள் ஒன்று கூடுதல் மூலம் தொற்றுநோய் பரவும் அபாயம் உள்ளது எனவும் காரணம் காட்டி உள்ளனர்.
+
+இது கொரோனா காலத்தில் பயன்படுத்திய சொற் தொடராகும். அதனையே மீண்டும் நினைவேந்தலை தடுத்து நிறுத்தும் ஆயுதமாக கையில் எடுத்திருப்பதும் முள்ளி வாய்க்கால் நினைவேந்தலை தடுப்பதும் இறந்தவர்கள் மற்றும் கொல்லப்பட்டவர்களை நினைவு கூரும் அடிப்படை உரிமையை மறுக்கும் செயலாகும்.
+
+...
+
+[Data](articles/11ed1629.json)
+
+---
+
+### Foreigner injured after falling from Lotus tower
+
+*2024-05-13 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreigner-injured-after-falling-from-Lotus-tower/108-282488) · `en`
+
+A foreigner sustained injuries while experiencing the Base Jump event at the Lotus Tower a Foreigner falls during Lotus Tower Base Jump event.
+
+A foreigner sustained injuries while participating in the Base Jump event at the Lotus Tower a short while ago.
+
+An eyewitness reported that the foreigner delayed opening his parachute after jumping from the tower.
+
+The injured foreigner was promptly taken to the General Hospital for treatment.
+
+◼️
+
+[Data](articles/5590fe15.json)
+
+---
+
+### நாடளாவிய ரீதியில் பல்கலைக்கழக ஊழியர் சங்கம் போராட்டம்
+
+*2024-05-13 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
+
+நாடளாவிய ரீதியில் அரச பல்கலைக்கழக ஊழியர் சங்கம் சம்பள உயர்வு கோரி இன்று திங்கட்கிழமை  (13) போராட்டத்தில் ஈடுபட்டனர்.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தில் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் மாணவர் ஒன்றியப் பிரதிநிதிகளின் பங்கேற்புடன் கவனயீர்ப்பு ஆர்ப்பாட்டமொன்று நடைபெற்றது.
+
+இன்று திங்கட்கிழமை காலை 10 மணியளவில் யாழ் பல்கலைக்கழக நுழைவாயிலில் ஆர்ப்பாட்டம் நடைபெற்றது.
+
+வவுனியா பல்கலைக்கழக பூங்காவீதி அலுவலகத்தில் ஊடகங்களுக்கு கருத்து தெரிவித்ததன் பின்னர் அலுவலக வாயிலில் இருந்து ஆரம்பமான ஊர்வலம் ரயில் வீதியூடாக பழைய பஸ் நிலையம் வரை சென்று அங்கு கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+இதன்போது MCA கொடுப்பனவை அதிகரி, அரசே 107 வீத சம்பள அதிகரிப்பை வழங்கு போன்ற வாசகங்கள் எழுதிய பதாதைகளை தாங்கிவாறு ஊர்வலத்தில் ஈடுபட்டனர்.
+
+இதன்போது வவுனியா பல்கலைக்கழக கல்விசார் ஊழியர் சங்கம் மற்றும் மாணவர் சங்கமும் ஆதரவு வழங்கியிருந்தது.
+
+கண்டி நகரில் இன்று முற்பகல் 11.30 மணிக்கு பல்கலைக்கழக கல்விசாரா ஊழியர்களால்  வேலைநிறுத்தப் போராட்டம் மேற்கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/61ad6620.json)
+
+---
+
+### දේවගැති ජෙරම් ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් නීතිපතිට නියෝගයක්
+
+*2024-05-13 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196573) · `si`
+
+දේවගැති ජෙරම් ප්‍රනාන්දු සම්බන්ධයෙන් සිදුකර තිබෙන විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරි සති දෙක තුළ ගොනුකිරීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (13) නීතිපතිවරයාට නියම කළේය.
+
+බුදු දහම ඇතුළු අන්‍යාගම්වලට අපහාසාත්මක වන ප්‍රකාශයක් සිදුකිරීම සම්බන්ධයෙන් දේවගැති ජෙරම් ප්‍රනාන්දු අත්අඩංගුවට ගෙන සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ සම්මුති පනත යටතේ නඩු පවරන ලෙස නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සර්ව ආගමික නායකයින් විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවූ අවස්ථාවේ දී අග විනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/7521e2dc.json)
+
+---
+
+### The number of flood victims in Indonesia increases to 41: 17
+
+*2024-05-13 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
+
+Indonesia's flood and volcanic eruption have increased casualties to 41, with 37 deaths and 17 missing. Heavy rains triggered landslides from the Marabi volcano, affecting Sumatra Island. Evacuation orders are in place, but the number of displaced is unclear.
+
+🟩
+
+The number of casualties in West Indonesia has increased to 41 due to the sudden floods and volcanic broth.
+
+Due to heavy rains on Saturday evening, the rocks rolled from the Marabi volcano, one of Indonesia's most serious volcanoes, and fell into two districts on Sumatra Island.
+
+“As of last night, we have recorded that 37 people have died. But the number has increased to 41 this morning, the Sumatra Disaster Management Center said.
+
+Three people in the flood -affected areas of Agam district and 14 in Tanah Dadar, 17 have disappeared.. Rescuers are searching for them.
+
+The people have been instructed to get out of the locations of safe relatives rather than stay in tents as a heavy rainfall. The Sumatra Disaster Management Center said that the number of locals who had been evacuated could not be confirmed.
+
+Heavy rains have been submerged in flooding and vehicles have been swept away in a nearby river. At the same time, volcanic gray and large boulders have fallen down from the Marabi volcano.
+
+...
+
+[Data](articles/817c0177.json)
+
+[Extended Data](ext_articles/817c0177.ext.json)
+
+---
 
 ### Court order against protest planned by uni. students and staff in Nugegoda
 
@@ -79,34 +201,6 @@ University non-academic workers have launched a protest in Colombo to the Diyath
 [Data](articles/3500205c.json)
 
 [Extended Data](ext_articles/3500205c.ext.json)
-
----
-
-### The number of flood victims in Indonesia increases to 41: 17
-
-*2024-05-13 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183390) · `ta`
-
-Indonesia's flood and volcanic eruption have increased casualties to 41, with 37 deaths and 17 missing. Heavy rains triggered landslides from the Marabi volcano, affecting Sumatra Island. Evacuation orders are in place, but the number of displaced is unclear.
-
-🟩
-
-The number of casualties in West Indonesia has increased to 41 due to the sudden floods and volcanic broth.
-
-Due to heavy rains on Saturday evening, the rocks rolled from the Marabi volcano, one of Indonesia's most serious volcanoes, and fell into two districts on Sumatra Island.
-
-“As of last night, we have recorded that 37 people have died. But the number has increased to 41 this morning, the Sumatra Disaster Management Center said.
-
-Three people in the flood -affected areas of Agam district and 14 in Tanah Dadar, 17 have disappeared.. Rescuers are searching for them.
-
-The people have been instructed to get out of the locations of safe relatives rather than stay in tents as a heavy rainfall. The Sumatra Disaster Management Center said that the number of locals who had been evacuated could not be confirmed.
-
-Heavy rains have been submerged in flooding and vehicles have been swept away in a nearby river. At the same time, volcanic gray and large boulders have fallen down from the Marabi volcano.
-
-...
-
-[Data](articles/817c0177.json)
-
-[Extended Data](ext_articles/817c0177.ext.json)
 
 ---
 
@@ -703,6 +797,24 @@ The young man who was traveling on a motorcycle has been admitted to the Jaffna 
 [Data](articles/6ccd10c3.json)
 
 [Extended Data](ext_articles/6ccd10c3.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் கஞ்சி பகிர்ந்தோர் கைது
+
+*2024-05-13 10:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-கஞ்சி-பகிர்ந்தோர்-கைது/175-337221) · `ta`
+
+முள்ளிவாய்க்கால் படுகொலையை நினைவுகூர்ந்து முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் பல்கலைக்கழக மாணவி உட்பட நால்வர் கைது செய்யப்பட்டுள்ள சம்பவம்  நேற்று ஞாயிற்றுக்கிழமை இரவு   (12) திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் பதிவாகியுள்ளது.
+
+இச்சம்பவத்தில் பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் கைது செய்யப்பட்டு சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் இன்றைய தினம் (13) மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாக தெரியவருகின்றது.
+
+சமூக செயற்பாட்டாளர் கமலேஸ்வரன் விஜிதா (வயது 40),  பல்கலைக்கழக மாணவி கமலேஸ்வரன் தேமிலா (வயது 22), சமூக செயற்பாட்டாளர் செல்வவினோத்குமார் சுஜானி (வயது 40), தமிழ் தேசிய மக்கள் முன்னணியின் முன்னாள் பிரதேச சபை முன்னாள் உறுப்பினர் நவரெட்ணராஜா ஹரிஹரகுமார் (வயது 43) ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/77444a91.json)
 
 ---
 
@@ -2147,131 +2259,5 @@ In the Nahrin district of Baghlan province, people carried their shrouded dead t
 [Data](articles/f2d885f5.json)
 
 [Extended Data](ext_articles/f2d885f5.ext.json)
-
----
-
-### President announces plans to pass women-empowering bills in Parliament by June
-
-*2024-05-13 00:55:57* · [`dailyftlk`](https://www.ft.lk/news/President-announces-plans-to-pass-women-empowering-bills-in-Parliament-by-June/56-761699) · `en`
-
-At the launch of Good Gestures for Empowerment of Women and Girls Movement by DP Education Founder MP Dhammika Perera, President lists key upcoming legislations and new initiatives
-
-National Policy on Gender Equality, Women Empowerment; National Commission on Women; Mechanism to Protect Women’s Rights; and Prosecution for Violations of Women’s Rights
-
-Says laws should be amendment to ensure high percentage of women in politiebureau of political parties
-
-President commends Dhammika Perera for creating a new paradigm in education via DP Education
-
-Says launch of hand gestures serves as practical tool to combat harassment of women and girls
-
-President Ranil Wickremesinghe on Friday emphasised his recognition of the challenges women face in safeguarding their families amidst the economic crisis. He highlighted the Government’s swift action by presenting two bills to the Parliament aimed at empowering women during this initial phase of economic recovery.
-
-...
-
-[Data](articles/b507aa73.json)
-
-[Extended Data](ext_articles/b507aa73.ext.json)
-
----
-
-### Good Gestures for Empowerment
-
-*2024-05-13 00:50:54* · [`dailyftlk`](https://www.ft.lk/news/Good-Gestures-for-Empowerment/56-761698) · `en`
-
-The Good Gestures for Empowerment movement is in line with the United Nations Sustainable Development Goals (SDGs) Target 5.2, which advocates for the elimination of all forms of violence against women and girls in public and private realms. The three gestures launched yesterday were to convey the following message “You are harassing me” and “You are harassing me, and I need public help” aimed at those who may be subject to harassment and “I’m sorry, I respect your space” for possible offenders. The gestures were created by Andy Jacobs, from US Hawaii who is a TV and Internet producer.
-
-To discourage sexual harassment online or in the cyber space, a different set of emojis will be launched as well.
-
-DP Global Gestures for Empowerment or GG movement is being introduced to eradicate sexual harassment against women and girls in public spaces and to empower them to combat harassment effectively.
-
-...
-
-[Data](articles/92ca1c7e.json)
-
-[Extended Data](ext_articles/92ca1c7e.ext.json)
-
----
-
-### University staff today
-
-*2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்கள்-இன்று-கவனயீர்ப்பு/175-337212) · `ta`
-
-University staff across the country are on strike, with protests planned at all universities today. The Jaffna University Employees Union, in partnership with the Student Union, will hold a media briefing at 10:00 am.
-
-🟩
-
-It is reported that as part of the continuous strike of the university employees' union at state universities across the country, a protest will be held at all universities, university gate or in a nearby city today.
-
-Jaffna University Employees Union (Jaffna University Employees Union) said that a media briefing will be held in partnership with the Student Union at 10.00 am on Monday morning by the University Employees Union.. (A)
-
-◼️
-
-[Data](articles/13a4d405.json)
-
-[Extended Data](ext_articles/13a4d405.ext.json)
-
----
-
-### University employee today's attention
-
-*2024-05-13 00:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-ஊழியர்-இன்று-கவனவீர்ப்பு/175-337212) · `ta`
-
-University employees nationwide are on strike, with a media briefing scheduled at Jaffna University at 10:00 am today, in partnership with the Student Union.
-
-🟩
-
-It is reported that as part of the continuous strike of the university employees' union at state universities across the country, it is reported that all universities, at the university gate or in a nearby city will be held today at 10.00 am.
-
-Jaffna University Employees Union (Jaffna University Employees Union) said that a media briefing will be held in partnership with the Student Union at 10.00 am on Monday morning by the University Employees Union.. (A)
-
-◼️
-
-[Data](articles/d8653ca2.json)
-
-[Extended Data](ext_articles/d8653ca2.ext.json)
-
----
-
-### Arrest someone with foreign cigarettes
-
-*2024-05-13 00:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரட்டுகளுடன்-ஒருவர்-கைது/175-337210) · `ta`
-
-A 32-year-old man was arrested at Katunayake airport for possessing foreign cigarettes, valued at Rs. He runs a shop in Oman and had the cigarettes seized by police.
-
-🟩
-
-A man has been arrested with foreign cigarettes worth Rs.
-
-He was arrested yesterday at the Katunayake airport.Foreign cigarettes have also been seized by the police authorities.
-
-The arrested person is 32 -year -old and is running a shop in Oman.(a)
-
-◼️
-
-[Data](articles/123f793a.json)
-
-[Extended Data](ext_articles/123f793a.ext.json)
-
----
-
-### Teachers in Sabaragamuwa Province
-
-*2024-05-13 00:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-மாகாணத்தில்-ஆசிரியர்கள்-வெற்றிடம்/175-337209) · `ta`
-
-In Sabaragamuwa Province, there are 4,600 teacher vacancies across 1,080 schools. The Ministry of Education is working to fill these, with a focus on 425 schools for the first time.
-
-🟩
-
-There are 4 thousand 600 vacancies in 1,080 schools in Sabaragamuwa Province, the Ministry of Education said.
-
-Sabaragamuwa Provincial Education Secretary Samara Pamunu Arachchi said that steps have been taken to fill these.
-
-Accordingly, steps are being taken to fill the vacancies in 425 schools for the first time.. (A)
-
-◼️
-
-[Data](articles/56bdccb1.json)
-
-[Extended Data](ext_articles/56bdccb1.ext.json)
 
 ---

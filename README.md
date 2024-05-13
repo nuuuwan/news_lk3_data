@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 10:52:26**
+As of **2024-05-13 11:04:30**
 
 ## Newspaper Stats
 
-*Scraped **23,636** Articles*
+*Scraped **23,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 1,354
 dailyftlk | 1,374
 adalk | 2,006
 adaderanalk | 2,757
-tamilmirrorlk | 2,769
+tamilmirrorlk | 2,770
 virakesarilk | 3,518
-dailymirrorlk | 3,719
+dailymirrorlk | 3,722
 adaderanasinhalalk | 3,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,633 (100.0%) of 23,636 articles have been extended.
+23,636 (100.0%) of 23,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
+
+### No sufficient staff for office handling FTAs: Harsha
+
+*2024-05-13 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-sufficient-staff-for-office-handling-FTAs-Harsha/108-282474) · `en`
+
+Parliament, May 13 (Daily Mirror)- The new 'Office of International Trade' (OIT) which has been established at the President's office  has informed the Committee on Public Finance (COPF) that it has no sufficient staff members, COPF Chairman Dr. Harsha de Silva told Parliament today.
+
+The chief negotiator of the OIT A.G. Weerasinghe has informed COPF that it is not possible to carry out feasibility studies on pending Free Trade Agreements (FTAs) with China and Thailand.
+
+"A decision should me made whether the Department of Commerce should be continued or closed down. It will be possible to transfer officers of the Department of Commerce to the OIT if a decision is made to close down the Commerce Department," he said.
+
+◼️
+
+[Data](articles/1eb8fb71.json)
+
+---
+
+### முள்ளிவாய்க்கால் நினைவேந்தலில் ஈடுபட்டோர் கைது
+
+*2024-05-13 10:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தலில்-ஈடுபட்டோர்-கைது/175-337221) · `ta`
+
+முள்ளிவாய்க்கால் படுகொலையை நினைவுகூர்ந்து முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் பல்கலைக்கழக மாணவி உட்பட நால்வர் கைது செய்யப்பட்டுள்ள சம்பவம்  நேற்று ஞாயிற்றுக்கிழமை இரவு   (12) திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் பதிவாகியுள்ளது.
+
+இச்சம்பவத்தில் பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் கைது செய்யப்பட்டு சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் இன்றைய தினம் (13) மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாக தெரியவருகின்றது.
+
+சமூக செயற்பாட்டாளர் கமலேஸ்வரன் விஜிதா (வயது 40),  பல்கலைக்கழக மாணவி கமலேஸ்வரன் தேமிலா (வயது 22), சமூக செயற்பாட்டாளர் செல்வவினோத்குமார் சுஜானி (வயது 40), தமிழ் தேசிய மக்கள் முன்னணியின் முன்னாள் பிரதேச சபை முன்னாள் உறுப்பினர் நவரெட்ணராஜா ஹரிஹரகுமார் (வயது 43) ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/a65a4edf.json)
+
+---
+
+### All Blacks captain Cane to retire from international rugby
+
+*2024-05-13 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-Blacks-captain-Cane-to-retire-from-international-rugby/108-282471) · `en`
+
+Sydney (AFP) - New Zealand captain Sam Cane will retire from Test rugby at the end of 2024, the side said Monday, calling time on a World Cup winning 12-year international career.
+
+"Having played 95 Tests - 27 as captain - the 32-year-old has decided to focus on spending more time with family and sign a long-term contract with Suntory Goliath in Tokyo," New Zealand Rugby said in a statement.
+
+The All Blacks haven't played since they were defeated in the Rugby World Cup final by South Africa last year and Cane was already on a sabbatical in Japan.
+
+Cane said the prospect of a three-year deal with the high-spending Tokyo club was too good to pass up.
+
+"I had to weigh up everything and, in the end, with a young family, it seemed like the best decision to help set up our future," he said.
+
+"It was a very hard one because I love the teams that I represent here in New Zealand."
+
+...
+
+[Data](articles/567072f9.json)
+
+---
 
 ### Indonesia flood death toll rises to 41 with 17 missing
 
@@ -50,41 +106,55 @@ Ilham could not confirm the number of locals evacuated because officials had enc
 
 [Data](articles/bcbfcfbc.json)
 
+[Extended Data](ext_articles/bcbfcfbc.ext.json)
+
 ---
 
-### මෙක්සිකෝවේ වෙඩිතැබීමකින් 8ක් මරුට
+### 8 killed in shot in Mexico
 
 *2024-05-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196567) · `si`
 
-මෙක්සිකෝවේ, මොරෙලෝස් ප්‍රාන්තයේ සිදුවූ වෙඩි තැබීමකින් පුද්ගලයන් 08 දෙනෙකු මියගොස් තිබේ.
+Eight people died in a shooting in Mexico, including four at the scene and four in hospital. The incident occurred in a tourist area. Since 2006, Mexico has seen 450,000 deaths linked to drug laws.
 
-එරට සංචාරක නගරයක දී වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-වෙඩි වැදීමෙන් පුද්ගලයින් සිව්දෙනෙකු එම ස්ථානයේදීම මිය ගොස් ඇති අතර තවත් සිව්දෙනෙකු රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බව සඳහන්ය.
+Eight people have been killed in a shooting in the state of Mexico, Mexico.
 
-2006 වසරේ සිට මේ දක්වා මෙක්සිකොවේ පුද්ගලයින් 450,000ක් ඝාතනය ලක්ව ඇති අතර එරටට හඳුන්වා දුන් මතභේදාත්මක මත්ද්‍රව්‍ය විරෝධී නීති ද ඊට බලපා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the shooting was shot in a tourism town.
+
+Four persons have died on the spot and four others have died after being admitted to the hospital.
+
+Foreign media reports that 450,000 people in Mexico have been killed since 2006 and has also been killed and the controversial drug laws introduced to the country.
 
 ◼️
 
 [Data](articles/9424b819.json)
 
+[Extended Data](ext_articles/9424b819.ext.json)
+
 ---
 
-### எம்.பிக்களுக்கு சலுகையில் வாகன இறக்குமதி
+### Vehicle imports at offer for MPs
 
 *2024-05-13 10:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-சலுகையில்-வாகன-இறக்குமதி/175-337219) · `ta`
 
-வாழ்க்கைச் செலவுகள் கடுமையாக உயர்ந்து, நாடு வங்குரோத்தடைந்த போதிலும், எம்.பி.க்கள் கோரியபடி, சலுகை விலையில் வாகன அனுமதிச் சீட்டு வழங்கும் முன்மொழிவுக்கு, பாராளுமன்ற அவைக் குழு ஒப்புதல் அளித்துள்ளது என முக்கிய ஆதாரம் அறியத்தருகிறது.
+The Parliamentary Committee has approved a proposal to issue vehicle permits at concessionary prices to MPs, despite economic challenges. This decision, aimed at meeting the demand for such permits, follows similar practices in public service sectors. Over 100 MPs from various parties have requested Speaker Mahinda Yapa Abeywardena to allow them to import vehicles. The Speaker will likely forward this request to President Ranil Wickremesinghe, who, as Finance Minister, can pass the resolution. This comes after MPs elected in the 2020 general election were affected by a ban on vehicle imports due to the economic crisis. The government is considering lifting this ban, which could benefit MPs once implemented.
 
-எம்.பி.க்களின் தேவைகளை ஆராயும் குழு, பொதுச் சேவையின் பல்வேறு பிரிவுகளில் உள்ள நிர்வாக தரத்தினருக்கு வழங்கப்படும் இதே போன்ற வசதிகளுக்கு ஏற்ப அத்தகைய அனுமதிகளுக்கான கோரிக்கையை சாதகமாக பரிசீலித்ததாக முடிவை நன்கு அறிந்த வட்டாரம் தெரிவித்தது.
+🟩
 
-100க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள், பல்வேறு கட்சிகளை பிரதிநிதித்துவப்படுத்தி, சபாநாயகர் மகிந்த யாப்பா அபேவர்தனவிடம் தமது பாவனைக்கான வரியற்ற வாகனங்களை இறக்குமதி செய்வதற்கு அனுமதி வழங்குமாறு கோரி கடிதம் ஒன்றை சமர்ப்பித்தனர்.
+The main evidence reveals that the Parliamentary Committee has approved the proposal to issue a vehicle permit at concessionary prices, despite the rise of living costs and bankruptcy.
 
-சபைக் குழுவின் ஒப்புதலுக்குப் பிறகு, நிதியமைச்சர் என்ற முறையில் தீர்மானத்தை நிறைவேற்ற அதிகாரம் பெற்ற ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு சபாநாயகர் இது தொடர்பில் கடிதம் எழுதுவார் என எதிர்பார்க்கப்படுகிறது.
+The committee, which examines the needs of MPs, said that the decision was taken advantageous of the demand for such permits in accordance with similar facilities provided to the administrative standards in various sections of the public service.
+
+More than 100 MPs have represented various parties and submitted a letter to Speaker Mahinda Yapa Abeywardena to grant permission to import their useless vehicles.
+
+The Speaker is expected to write a letter to President Ranil Wickremesinghe, who has been authorized to pass the resolution as the Finance Minister after the approval of the Council Committee.
 
 ...
 
 [Data](articles/e371b1c6.json)
+
+[Extended Data](ext_articles/e371b1c6.ext.json)
 
 ---
 
@@ -875,6 +945,22 @@ The deal came despite procurement requirements and anti-corruption roadmap requi
 [Data](articles/93a97980.json)
 
 [Extended Data](ext_articles/93a97980.ext.json)
+
+---
+
+### Tamil and Muslim voting trends in Presidential Elections
+
+*2024-05-13 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tamil-and-Muslim-voting-trends-in-Presidential-Elections/172-282447) · `en`
+
+The votes from the Tamil and Muslim communities may determine who the 2024 Presidential hustings victor is likely to be
+
+This is the fourth article in a series focusing on Sri Lankan President Ranil Wickremesinghe and his evolving strategy to contest the forthcoming 2024 Presidential Elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s Presidential Election plans and prospects, the objective of this series is to analyse in detail the  game plan and stratagems adopted by Wickremesinghe to face the 2024 Presidential hustings. Since Wickremesinghe is the incumbent President, priority is being given to him. However, after this series is concluded, I do intend to write about other presidential aspirants and their election campaigns also in the future.
+
+In a situation where the Sinhala vote is trifurcated, the Tamil and Muslim votes, if delivered en bloc, may determine who the 2024 Presidential hustings victor is likely to be
+
+...
+
+[Data](articles/1275a800.json)
 
 ---
 
@@ -2127,89 +2213,5 @@ There are many Sri Lankan soldiers.So don't get caught at a racket.. I do if I c
 [Data](articles/c7be4034.json)
 
 [Extended Data](ext_articles/c7be4034.ext.json)
-
----
-
-### Explains the Future of the O / L examination
-
-*2024-05-12 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196548) · `si`
-
-The Commissioner General of Examinations, Amit Jayasundara, announced that the first six days of the O/L examination have been successfully completed. The remaining subjects, including mathematics, will be conducted in the next three days of May.
-
-🟩
-
-The Commissioner General of Examinations H.MM.c.. Amit Jayasundara says
-
-The first six days of the examination has been completed and several other subjects, including mathematics, will be held in the next three days of May.
-
-◼️
-
-[Data](articles/50400dac.json)
-
-[Extended Data](ext_articles/50400dac.ext.json)
-
----
-
-### Maithri is Rs.. 28 pays
-
-*2024-05-12 19:50:11* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-වන්දියෙන්-මෛත්‍රී-තවත්-රු-මි--28ක්-ගෙවයි/11-409581) · `si`
-
-The Passover attack compensation fund received Rs. 28 million, with Rs. 13 million credited to former President Maithripala Sirisena on the 22nd and 30th. The fund, including Rs. 43 million from Sirisena, was fully credited by April 30th.
-
-🟩
-
-The Passover attack on the Passover attack has been compensated by the Passover attack on the 2011 - Various Rs. 28 million has been credited to the Fund.
-
-Former President Maithripala Sirisena has been credited to Rs. 13 million on the 22nd and Rs. 13 million on the 30th.
-
-Former President Maithripala Sirisena has paid former President Maithripala Sirisena from Rs. 43 million in Rs.
-
-Upon 30 April, the fund has been credited to this fund as at 30 April.
-
-Former National Intelligence Head of Former Defense Assistance has been paid to the pronouncement to the victims of the Easter attack.Available.
-
-Former IGP Pujithan Jayasundera has paid Rs.
-
-The Treasury also paid the amount of Rs.
-
-◼️
-
-[Data](articles/86444e3b.json)
-
-[Extended Data](ext_articles/86444e3b.ext.json)
-
----
-
-### Reflections On The Life & Achievements Of Dr. N. Ethirveerasingam: An Exceptional Tamil Hailed From Sri Lanka
-
-*2024-05-12 19:48:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-the-life-achievements-of-dr-n-ethirveerasingam-an-exceptional-tamil-hailed-from-sri-lanka/) · `en`
-
-The Global Tamil Forum (GTF) is deeply saddened by the passing of Dr. Nagalingam Ethirveerasingam, affectionately known to colleagues as Ethir, on 18 April 2024 in the USA. He was 89 years old. We express our heartfelt condolences to the family and friends and the many whose lives were enriched by his selfless actions.
-
-Ethir was one of the exceptional individuals to hail from Jaffna, indeed Sri Lanka, in the last century. With his multi-faceted interests and accomplishments – whether in sports, academics, politics, or social services – he rose to the top making his mark against many odds while maintaining his down-to-earth nature, humbleness, and humanity. He identified with the sufferings of the Tamil people and contributed to their economic, social, and political wellbeing with an unwavering passion that set an exceptional precedent.
-
-...
-
-[Data](articles/ad00d73f.json)
-
-[Extended Data](ext_articles/ad00d73f.ext.json)
-
----
-
-### Rapid decline in birthrate; having kids has not become priority of new generation
-
-*2024-05-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapid-decline-in-birthrate-having-kids-has-not-become-priority-of-new-generation/108-282419) · `en`
-
-Colombo, May 12 (Daily Mirror) - The birth rate in Sri Lanka is on a rapid decline, and currently it has decreased by 30%, Kalubowila Teaching Hospital gynecologist Prof. Ajith Fernando said.
-
-Addressing the media, the doctor said that the number of births, which was about 360,000, has decreased to about 240,000.
-
-The doctor claimed that economic challenges are the primary reason for the declining birth rate in the country. Many families are opting not to have a second child due to these economic difficulties.
-
-...
-
-[Data](articles/100262e3.json)
-
-[Extended Data](ext_articles/100262e3.ext.json)
 
 ---

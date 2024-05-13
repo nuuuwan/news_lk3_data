@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 17:03:21**
+As of **2024-05-13 17:18:33**
 
 ## Newspaper Stats
 
-*Scraped **23,721** Articles*
+*Scraped **23,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,374
 adalk | 2,020
 adaderanalk | 2,771
 tamilmirrorlk | 2,782
-virakesarilk | 3,527
+virakesarilk | 3,533
 dailymirrorlk | 3,734
 adaderanasinhalalk | 3,804
 
@@ -26,27 +26,89 @@ adaderanasinhalalk | 3,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,717 (100.0%) of 23,721 articles have been extended.
+23,721 (100.0%) of 23,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### ලෝක කුසලාන කණ්ඩායම ගැන තරංග කී කතාව
+### இந்திய அரசின் ஆயுஷ் புலமைப்பரிசில்
+
+*2024-05-13 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183424) · `ta`
+
+ஆயுஷ் புலமைப்பரிசில் திட்டத்தின்கீழ் 2024-25 கல்வியாண்டில்  பட்டப்படிப்பு/ பட்ட மேற்படிப்பு/ கலாநிதி கற்கைநெறி ஆகிய பிரிவுகளில் கற்க விரும்பும் இலங்கை பிரஜைகளுக்கு கீழ்வரும் கற்கைநெறிகளுக்கு கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயம் புலமைப் பரிசில்களை அறிவித்துள்ளது.
+
+ஆயுர்வேதம், யுனானி, சித்த மருத்துவம்  மற்றும் ஹோமியோபதி ஆகிய துறைகளில் பட்டப்படிப்பினை தொடர விரும்பும் விண்ணப்பதாரிகள் க.பொ.த உயர் தரத்தில் பௌதீகவியல், இரசாயனவியல் மற்றும் உயிரியல் ஆகியவற்றில் சித்திபெற்றிருக்கவேண்டியது அவசியமாகும்.
+
+அதேவேளை யோகாவில் B.Sc மற்றும் B.A (யோகா சாஸ்திரம்)   ஆகியவற்றுக்கு விண்ணப்பிக்க விரும்புவோர் க.பொ.த உயர் தரத்தில் ஏதாவது ஒரு பிரிவில் சித்தியடைந்திருக்க வேண்டும். யோகாவில் MSc பயில விரும்புவோர் குறித்த பட்டப்படிப்பினை பூர்த்திசெய்திருத்தல் அவசியம்.
+
+...
+
+[Data](articles/7de52355.json)
+
+---
+
+### இலங்கையின் சிவில் அலுவலர்களுக்கான திறன் மேம்பாட்டு பயிற்சி இந்தியாவின் நல்லாட்சிக்கான தேசிய மையத்தில் ஆரம்பம்
+
+*2024-05-13 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183423) · `ta`
+
+இலங்கை அரசாங்கத்தின் அதிகாரிகளுக்கான இருவார கால திறன் மேம்பாட்டு நிகழ்ச்சித்திட்டம் இந்தியாவின் உத்தரகாண்ட், முசோரியில் உள்ள நல்லாட்சிக்கான தேசிய மையத்தில் (NCGG) இன்று  13ஆம் திகதி ஆரம்பமாகியது.
+
+இந்திய அரசாங்கத்தின் வெளியுறவுத்துறை அமைச்சின் கீழான இந்திய தொழில்நுட்ப மற்றும் பொருளாதார ஒத்துழைப்பு நிகழ்ச்சித் திட்டத்தின் கீழ் (ITEC) குறித்த திட்டம் ஒழுங்கமைக்கப்பட்டுள்ளது.
+
+இந்த நிகழ்ச்சித் திட்டத்தில் குறிப்பாக பொது நிருவாக, உள்நாட்டலுவல்கள், மாகாண சபை௧ள் மற்றும் உள்ளூராட்சி அமைச்சு, தேசிய பொலிஸ் ஆணைக்குழு, சட்டமா அதிபர் திணைக்களம், இலங்கை சுங்கம், நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசியக் கொள்கைகள் அமைச்சு,  கணக்காய்வு சேவை  ஆணைக்குழு உள்ளிட்ட அமைச்சுகள் மற்றும் திணைக்களங்களின்  பணிப்பாளர்கள், சிரேஸ்ட பிரதிப் பணிப்பாளர்கள், பிரதிப் பணிப்பாளர்கள், சிரேஸ்ட உதவிச் செயலாளர்கள், உதவி செயலாளர் உள்ளிட்ட பல்வேறு பதவிகளில் கடமையாற்றும் இலங்கையைச் சேர்ந்த 40 சிரேஸ்ட சிவில் அலுவலர்கள் கலந்துகொண்டுள்ளனர்.
+
+...
+
+[Data](articles/3524c3af.json)
+
+---
+
+### துக்கதினத்தை  அனுஸ்டிக்கும் உரிமை கூட  இலங்கையில் தமிழர்களிற்கு இல்லை-திருகோணமலையில் முள்ளிவாய்க்கால் கஞ்சி பரிமாறியதற்காக பெண்கள் தாக்கப்பட்டமை குறித்து மக்கள் பேரவைக்கான இயக்கம் கடும் கண்டனம்
+
+*2024-05-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183421) · `ta`
+
+திருகோணமலை சம்பூரில் முள்ளிவாய்க்கால் கஞ்சியை தயாரித்த பெண்களை நள்ளிரவில் வீடு புகுந்து பொலிஸார் கைதுசெய்ததை மிக மோசமாக செயற்பட்டதை கடுமையாக கண்டித்துள்ள மக்கள் பேரவைக்கான இயக்கம் துக்கதினத்தை கூட அனுஸ்டிக்கும் உரிமை இலங்கையில் தமிழர்களிற்கு இல்லை என தெரிவித்துள்ளது
+
+கொழும்பில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்த ராஜ்குமார் ரஜீவ்காந் இதனை தெரிவித்தார்
+
+2009ம் ஆண்டு மே மாதம் இலங்கையின் மூன்று தசாப்தபோர் மிகவும் மோசமான முறையில் இலங்கை அரசாங்கத்தினால் முடித்துவைக்கப்பட்டது.
+
+தமிழ்மக்கள் தங்கள் நாட்டின் பிரஜைகள் என்ற கரிசனையில்லாமல் குண்டு வீசி கொத்துகொத்தாக கொல்லப்பட்டனர்.
+
+உணவு இல்லாததால் உணவு கிடைக்காததால் தண்ணீர் கலந்த அரிசியை கஞ்சியை குடித்து உயிர்வாழ்ந்தனர்.
+
+அந்த மக்கள் 15 வருடங்கள் கடந்த பின்னரும் எந்த நீதியையும் பெறாமல் வாழ்கின்றனர் அரசாங்கம் அவர்களிற்கு எந்த ஒரு நீதியையும் வழங்கவில்லை எந்தவொரு முடிவையும் தெரிவிக்கவில்லை.
+
+இது அடிப்படை உரிமைகளை மீறுகின்ற செயல் நினைவுகூரலின் போது உணவு வழங்குவது பானங்களை வழங்குவதுஅடிப்படை உரிமையாகும்.
+
+...
+
+[Data](articles/4838d0b5.json)
+
+---
+
+### Tharanga Key talk about the World Cup team
 
 *2024-05-13 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196581) · `si`
 
-එළැඹෙන ජුනි මාසයේ ආරම්භවන 20යි 20 ලෝක කුසලානය සඳහා සහභාගිවන ශ්‍රී ලංකා කණ්ඩායම ඕනෑම අභියෝගයක් භාරගත හැකි ආකාරයේ කණ්ඩායමක් බව ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටු සභාපති උපුල් තරංග පවසයි.
+Upul Tharanga, Sri Lanka's Selection Committee Chairman, emphasized the team's readiness to face any challenge, highlighting the importance of adapting to different pitches, including the drop-in pitches in New York and Dallas. He mentioned the team's strategy to utilize spinners effectively, adjusting their approach based on the conditions and the opposition's strengths.
 
-තේරීම් කමිටු සභාපතිවරයා මෙම අදහස් පළකළේ 20යි 20 ලෝක කුසලාන සංචිතය පිළිබඳ දැනුවත් කිරීමේ ප්‍රවෘත්ති සාකච්ඡාවට අද (13) එක්වෙමිනි.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුවේ සභාපති උපුල් තරංග,
+Sri Lanka Cricket Selection Committee Chairman, Upul Tharanga says Sri Lanka Cricket Selection Committee Chairman says that the Sri Lankan team to take on any challenge.
 
-"අමෙරිකාවේ ඇති තණතිලි පිළිබඳව අපිට එන පණිවිඩ අනුව විශේෂයෙන් නිව්යෝක් සහ ඩලස්වලත් ඩ්‍රොපින් පිච් වල තමයි ක්‍රිඩා කරන්නේ. මොකද ඒවා තියෙන්නේ ඕස්‍ට්‍රේලියාවේ.  ගිය අවුරුද්දේ මේජර් ලීග් එක ක්‍රීඩා කරලා තියෙන්නේ ඩලස්වල ඒවත් ඩ්‍රොපින් පිච්වල තමයි ක්‍රීඩා කරන්නේ. ඒ පිචස් ගත්තාම ගොඩක්... ඔස්ට්‍රේලියාවෙන් ආවත් කියන්නේ අර අන්ඉවන් විකට් කියලා. ඒ වගේ විකට් එක පොඩ්ඩක් ස්ලෝ ගතියක් තියෙනවා කියලා. විශේෂයෙන්ම එහේ කන්ඩිෂන් එක්ක බලද්දී අමෙරිකාවේ ඒ වගේම බටහිර ඉන්දීය කොදෙව්වල. ගොඩක් විදියහට එන නිව්ස් එක්ක තියෙන විකට්ස් ටිකක් ස්ලෝ වෙයි කියලා."
+The Chairman of the Selection Committee Chairman was speaking at a press conference today (13) today.
+
+Chairman of the SLC Selection Committee, Upul Tharanga,
+
+"The draopin pitch in the Dropin Pitch of New York and Dallas, as per the message in the United States, is the draopin pich in. Because they are in Australia. Last year, the Major League is playing in Dallas, Drapin Pich. So much of the prary. Even if he comes from Australia, he is called Wikket. That's a vicket like a sloud. In particular, in the United States, in particular, in the United States, especially in the United States. Many Wikkets with the most visible news will be a little bit of the victs. "
 
 ...
 
 [Data](articles/127307d4.json)
+
+[Extended Data](ext_articles/127307d4.ext.json)
 
 ---
 
@@ -65,6 +127,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/3ae537f5.json)
+
+[Extended Data](ext_articles/3ae537f5.ext.json)
 
 ---
 
@@ -136,6 +200,22 @@ When questioned about the inclusion of Dunit Wellalake in the squad, Taranga not
 
 ---
 
+### திருகோணமலை முள்ளிவாய்க்கால் கஞ்சி பரிமாறியதற்காக கைதானவர்களுக்கு விளக்கமறியல் !
+
+*2024-05-13 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183415) · `ta`
+
+திருகோணமலை - சம்பூர் பொலிஸ் பிரிவுக்குட்பட்ட சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பரிமாறிய குற்றச்சாட்டில் சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டவர்களுக்கு எதிர்வரும் 27 ஆம் திகதி வரை விளக்கமறியல் நீடித்து மூதூர் நீதிவான் நீதிமன்றம் இன்று திங்கட்கிழமை (13) உத்தரவிட்டுள்ளது. குறித்த உத்தரவை  நீதிபதி தஸ்னீம் பௌசான் வழங்கியுள்ளார்.
+
+முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பரிமாறிய குற்றச்சாட்டில் மூன்று பேரும் பல்கலைக்கழக மாணவி ஒருவருமாக நான்கு பேர் நேற்று ஞாயிற்றுக்கிழமை (12) சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டிருந்தனர்.
+
+ஞாயிற்றுக்கிழமை இரவு 8:30 மணிக்கு பின்னர் கைது செய்யப்பட்ட பல்கலைக்கழக மாணவி உட்பட 3 பெண்களும் ஆண் ஒருவரும் சம்பூர் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு மறுநாள் (13) திங்கட்கிழமை மூதூர் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையிலேயே விளக்கமறியல் நீடித்து உத்தரவிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0b6aa13c.json)
+
+---
+
 ### Labialism
 
 *2024-05-13 16:13:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உதட்டுச்சாயத்துக்கு-தடை/50-337245) · `ta`
@@ -191,6 +271,8 @@ Levitt turned heads with a blistering hundred against Namibia in a T20I tri-seri
 ...
 
 [Data](articles/0c734506.json)
+
+[Extended Data](ext_articles/0c734506.ext.json)
 
 ---
 
@@ -426,6 +508,22 @@ The non -academic staff of all universities launched a strike from the 12th.
 
 ---
 
+### 'ஹரா'  படத்திற்காக ஏழு முறை....! - மோகன்
+
+*2024-05-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183405) · `ta`
+
+''இயக்குநர் விஜய் ஸ்ரீ ஜி, 'ஹரா' படத்தின் கதையை ஏழு முறை திருத்தம் செய்து முழுமையாக சொன்ன பிறகுதான் இதில் நடிக்க ஒப்புக்கொண்டேன்'' என அப்படத்தின் நாயகனான மோகன் தெரிவித்திருக்கிறார்.
+
+இயக்குநர் விஜய் ஸ்ரீ ஜி இயக்கத்தில் உருவாகி இருக்கும் 'ஹரா' எனும் திரைப்படத்தில் மோகன், அனு மோல், கௌஷிக், அனித்ரா நாயர், யோகி பாபு , சாருஹாசன், சுரேஷ் மேனன், வனிதா விஜயகுமார், மொட்டை ராஜேந்திரன், சிங்கம் புலி, தீபா, மைம் கோபி, சாம்ஸ், சந்தோஷ் பிரபாகர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பிரஹத் முனியசாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஷாந்த் அர்வின் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை தயாரிப்பாளர் கோயம்புத்தூர் எஸ். பி. மோகன்ராஜ் தயாரித்திருக்கிறார்.
+
+எதிர்வரும் ஜூன் மாதம் ஏழாம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை வெளியீட்டு விழா நடிகர் மோகனின் பிறந்த நாளன்று  சென்னையில் சிறப்பாக நடைபெற்றது.  அப்போது இயக்குநர் கே. பாக்யராஜ் சிறப்பு அதிதியாக பங்கு பற்றினார்.
+
+...
+
+[Data](articles/66ba990f.json)
+
+---
+
 ### One hospitalized at the Lotus Tower
 
 *2024-05-13 15:06:55* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණෙන්-පැන්න-අයෙක්-රෝහලේ/11-409599) · `si`
@@ -509,6 +607,22 @@ Officers of the Special Investigation Division of the Special Investigation Divi
 [Data](articles/df513cd6.json)
 
 [Extended Data](ext_articles/df513cd6.ext.json)
+
+---
+
+### தாமரை கோபுரத்தில் பேஸ் ஜம்ப் சாகசம் ; வெளிநாட்டு பிரஜை காயம்
+
+*2024-05-13 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183404) · `ta`
+
+கொழும்பு தாமரை கோபுரத்தில் பேஸ் ஜம்ப் எனும் சாகச நிகழ்வில் ஈடுப்பட்ட  வெளிநாட்டு பிரஜை ஒருவர்  கீழே விழுந்து காயமடைந்துள்ளார்.
+
+தாமரை கோபுரத்தில் இருந்து பேஸ் ஜம்ப் பாய்ச்சலின் போது பரசூட்டை திறப்பதில் ஏற்பட்ட தாமத்தினால் இந்த விபத்து ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+காயமடைந்த வெளிநாட்டு பிரஜை அமெரிக்காவைச் சேர்ந்தவர் என்றும் அவர் தற்போது சிகிச்சை பெற்று வருவதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/98322990.json)
 
 ---
 
@@ -766,6 +880,36 @@ The Health Trade Union Alliance confirmed its intention to spread the strike to 
 
 ---
 
+### University Employees Union struggle across the country
+
+*2024-05-13 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
+
+State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
+
+🟩
+
+The State University Employees Union held a protest on Monday (13) demanding a pay hike.
+
+A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
+
+The demonstration was held at the University of Jaffna at 10 am on Monday.
+
+After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
+
+During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
+
+The Vavuniya University Educational Employees Union and the Student Association were supported.
+
+The strike was launched by university non -academic staff at 11.30 am in Kandy.
+
+...
+
+[Data](articles/61ad6620.json)
+
+[Extended Data](ext_articles/61ad6620.ext.json)
+
+---
+
 ### Hurt to foreigner who jumped from the tower
 
 *2024-05-13 13:32:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபுரத்திலிருந்து-குதித்த-வெளிநாட்டவருக்கு-காயம்/175-337232) · `ta`
@@ -832,23 +976,29 @@ Sri Lankan Lebscribes who were departed to Russia from the battlefield from the 
 
 ---
 
-### වෙසක් කූඩු හදන්න බටගස් කපන්න පන්සලට ගිය 13 හැවිරිදි සිසුවාට හිමිනම අතවර කරලා
+### The 13-year-old student who went to the temple to cut the lantern bites
 
 *2024-05-13 13:21:44* · [`adalk`](https://www.ada.lk/breaking_news/වෙසක්-කූඩු-හදන්න-බටගස්-කපන්න-පන්සලට-ගිය-13-හැවිරිදි-සිසුවාට-හිමිනම-අතවර-කරලා/11-409593) · `si`
 
-වෙසක් කූඩු සකස් කිරීමට බට කැපිමට පන්සලට ගිය 13 හැවිරිදි පාසල් සිසුවෙකුට ලිංගික අතවර කල 27 හැවිරිදි  හිමිනමක කළුතර දකුණ පොලිසිය විසින්  අත්අඩංගුවට ගෙන තිබේ .
+A 13-year-old student was sexually abused by a 27-year-old monk at a temple in Kalutara South. The monk, from the Meraighton area, was arrested following a police complaint. Further investigations are being conducted by the Children and Women's Bureau.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර, මෙනේරිතැන්න ප්‍රදේශයේ විහාරස්ථානයක වැඩවසන හිමිනමක බව පොලිසිය කීය.
+🟩
 
-වින්දිත පාසල් සිසුවා දෙමාපියන් දැනුවත් කිරීමෙන් පසු ඔවුන් සමග පොලිසියට කල පැමිණිල්ලක් අනුව සැකකාර හිමිනම අත්අඩංගුවට ගෙන තිබේ.
+Kalutara South Police have arrested 27-year-old monk who had sexually abused the temple for the texts to be prepared.
+
+The suspect was the monk of a Buddhist monk in a Meraighton area in Kalutara.
+
+The suspect monk has been arrested following a complaint lodged with the police after the victim of the victim.
 
 වින්දිත සිසුවා රෝහල් හතකර ඇති බවත්, සැකකාර හිමිනම කළුතර මහේස්ත්‍රාත් අධිකරණය ඉදිරිපත් කිරීමට නියමිත බවත් පොලිසිය කීය.
 
-කළුතර දකුණ මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි ළමා හා කාන්තා කාර්යාංශය පරීක්ෂණ පවත්වති.
+The Children and Women's Bureau are conducting further investigations to the instructions of Kalutara South Headquarters Ruwan Wijesinghe.
 
 ◼️
 
 [Data](articles/1585ea21.json)
+
+[Extended Data](ext_articles/1585ea21.ext.json)
 
 ---
 
@@ -925,36 +1075,6 @@ He has reportedly sustained internal head injuries and has reported numbness of 
 [Data](articles/5590fe15.json)
 
 [Extended Data](ext_articles/5590fe15.ext.json)
-
----
-
-### University Employees Union struggle across the country
-
-*2024-05-13 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
-
-State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
-
-🟩
-
-The State University Employees Union held a protest on Monday (13) demanding a pay hike.
-
-A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
-
-The demonstration was held at the University of Jaffna at 10 am on Monday.
-
-After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
-
-During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
-
-The Vavuniya University Educational Employees Union and the Student Association were supported.
-
-The strike was launched by university non -academic staff at 11.30 am in Kandy.
-
-...
-
-[Data](articles/61ad6620.json)
-
-[Extended Data](ext_articles/61ad6620.ext.json)
 
 ---
 
@@ -2139,145 +2259,5 @@ Ada Derana learns that the country has incurred annual tax revenue losses of aro
 [Data](articles/2eb4fffb.json)
 
 [Extended Data](ext_articles/2eb4fffb.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-13 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196564) · `si`
-
-The Parliamentary Council starts today, addressing issues from 9:30 am to 10:30 am. The Customs Ordinance, under the Sri Lanka Export Development Act, will be presented for approval from 10:30 am to 5:00 pm, followed by a debate from 5:00 pm to 5:30 pm.
-
-🟩
-
-Accordingly, Parliament will meet to meet the issues for questions expected from 9.30 am to 10.30 am today.
-
-The Customs Ordinance under the Sri Lanka Export Development Act from 10.30am to 5.00 pm is to be presented to the Customs Ordinance to Parliament to approve the regulations under the Import and Reporting.
-
-The debate is scheduled to be held from 5.00 pm to 5.30 pm.
-
-◼️
-
-[Data](articles/4f99933e.json)
-
-[Extended Data](ext_articles/4f99933e.ext.json)
-
----
-
-### Another dead body
-
-*2024-05-13 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196563) · `si`
-
-A man's unidentified body, aged 50-60, found naked in Kaguwallewatte, Giriulla Police Division. Police investigating, body at Kuliyapitiya Hospital.
-
-🟩
-
-A dead body of a man found found in the Giriulla Police Division in Kaguwallewatte.
-
-The identity of the deceased has not been revealed yet, and the police are in charge of age 50 to 60 years old.
-
-The naked body has distorted the unidentified level, police said.
-
-The body has been placed at the Kuliyapitiya Hospital while the Giriulla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/595c3bdf.json)
-
-[Extended Data](ext_articles/595c3bdf.ext.json)
-
----
-
-### Youth murder in Kiliyapitiya;Arresting girlfriend
-
-*2024-05-13 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183369) · `ta`
-
-In Kiliyapitiya, an 18-year-old girlfriend was arrested for allegedly aiding in the murder and concealment of a 31-year-old man, Susitha Jayawansa, who went missing on April 22 and was found dead and burned on May 7 in Madampe. The main suspect, Sujit Fernando, and his wife, Dylani Kiza, were interrogated by lawyers on May 6.
-
-🟩
-
-His girlfriend has been arrested by the police in connection with the murder of a youth in Kiliyapitiya.
-
-The 18 -year -old girlfriend, who lives in Ilukhena Wassaulla area, has been arrested on charges of helping murder and hiding the crime.
-
-A 31 -year -old Susitha Jayawansa, a 31 -year -old from Kapaleva, Kiliyapitiya, was reported missing on April 22.
-
-In this case, the missing youth was found dead on May 7 in the Panerendawa forest in Madampe.
-
-The body of the youth was found after being murdered and burned, police said.
-
-Following the incident, the girlfriend, the main suspect and his wife, the two sons of the main suspect, the sister of the main suspect and the husband and her husband.
-
-In the meantime, Sujit Fernando and his wife Dylani Kiza, the main suspect, were ordered to be interrogated by lawyers on May 6 last year.
-
-◼️
-
-[Data](articles/ad3d9bd7.json)
-
-[Extended Data](ext_articles/ad3d9bd7.ext.json)
-
----
-
-### The lower atmosphere is turning down
-
-*2024-05-13 09:22:21* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-වායුගෝලය-කැළඹෙයි-වැස්ස-වැඩිවෙයි/11-409586) · `si`
-
-The Department of Meteorology warns of heavy showers exceeding 100mm in the Western, Sabaragamuwa, Central, North Western, and Uva provinces, with the possibility of thundershowers in many parts of the island.
-
-🟩
-
-The Department of Meteorology says that due to the development of the lowest atmosphere in the atmosphere, the Met Department said.
-
-In most parts of the island at many places. Showers or thundershowers will occur at several places, about 1.00.
-
-Heavy showers over 100 ml more than 100 millilitaries in the Western, Sabaragamuwa, Central, North Western and Uva provinces will experience Heavyvernals in the Galle and Matara Districts.
-
-The department has been reported in the East and Southern provinces during the morning.
-
-◼️
-
-[Data](articles/85560db9.json)
-
-[Extended Data](ext_articles/85560db9.ext.json)
-
----
-
-### Due to low-level atmospheric disturbance, 100mm rain likely after 1p.m
-
-*2024-05-13 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Due-to-low-level-atmospheric-disturbance-100mm-rain-likely-after-1p-m/108-282460) · `en`
-
-Colombo, May13 (Daily Mirror) - Due to a low-level atmospheric disturbance, more than 100 mm of rain can be expected after 1 p.m. in the Western, Sabaragamuwa, Central, North-Western and Uva Provinces and in the  Galle and Matara districts, the forecasting division of the National Meteorological Centre said.
-
-They said the showery condition is expected to enhance during the next few days.
-
-Accordingly, thundershowers will occur at several places in most provinces of the island after 1 p.m.
-
-Meanwhile, showers may occur at a few places in the coastal areas of the Eastern and Southern Provinces during the morning.
-
-However, misty conditions can be expected at some places in the Western, Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/e55dc820.json)
-
-[Extended Data](ext_articles/e55dc820.ext.json)
-
----
-
-### Tentative Recovery Of The Economy Will Not Be Stalled By The Presidential Election: Response To The Governor Of The Central Bank
-
-*2024-05-13 09:10:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tentative-recovery-of-the-economy-will-not-be-stalled-by-the-presidential-election-response-to-the-governor-of-the-central-bank/) · `en`
-
-The Governor of the Central Bank of Sri Lanka warned that the presidential election due later this year will stall tentative recovery from its economic crisis. This is a response to the above.
-
-1. No element of substance in the warning by the Governor: The governor said, “Domestically, what I see as the challenge is to continue the same policies as we advance irrespective of the administration; this is an important one.” Furthermore, the Governor seems to agree with Wickremesinghe’s party’s concern that his two main rivals have said they want to renegotiate the terms of the IMF bailout, reduce taxes, and increase food and energy subsidies.
-
-Two main rivals are JVP/NPP (Malimawa) and SJB. JVP/NPP and SJB have not stated that they will discontinue the IMF’s austerity measures. Instead, they want to renegotiate. Discontinuation and renegotiation are two entirely different things. It is up to JVP/NPP and SJB to renegotiate, as well as how and in what way.
-
-...
-
-[Data](articles/9595a2ed.json)
-
-[Extended Data](ext_articles/9595a2ed.ext.json)
 
 ---

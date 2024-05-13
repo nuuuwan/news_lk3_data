@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 00:18:24**
+As of **2024-05-14 00:33:33**
 
 ## Newspaper Stats
 
-*Scraped **23,789** Articles*
+*Scraped **23,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 245
 newsfirstlk | 363
 islandlk | 1,286
 economynextcom | 1,362
-dailyftlk | 1,374
+dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
 tamilmirrorlk | 2,785
@@ -26,11 +26,217 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,789 (100.0%) of 23,789 articles have been extended.
+23,789 (99.9%) of 23,805 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-14 (Tuesday)
+
+### CSE adopts two ambulances for 1990 Suwa Seriya Foundation
+
+*2024-05-14 00:06:23* · [`dailyftlk`](https://www.ft.lk/news/CSE-adopts-two-ambulances-for-1990-Suwa-Seriya-Foundation/56-761764) · `en`
+
+Teams from the 1990 Suwa Seriya Foundation and the Colombo Stock exchange release ambulances for service
+
+With the intention of supporting Sri Lanka’s healthcare system by ensuring increased access to emergency healthcare services, the CSE adopted two ambulances for the 1990 Suwa Seriya Foundation.
+
+This is in response to the program, ‘Adopt an Ambulance’ which was initiated by the Board and Management of the 1990 Suwa Seriya Foundation.
+
+The two ambulances were released for service on 12 May 2024 from the Colombo Stock Exchange head office located at the World Trade Centre. The CSE branches are located in Matara, Kandy, Kurunegala, Panadura, Negombo, Jaffna, Anuradhapura, Ratnapura, Batticaloa, and Ambalantota.
+
+Launched in 2016, Suwa Seriya is a national ambulance service providing free pre-hospital emergency care across the island, mobilising 322 ambulances country wide. Providing emergency pre-hospital care within the ‘golden hour’ saves lives and mitigates potential health complications.
+
+...
+
+[Data](articles/6885a47c.json)
+
+---
+
+### SL High Commission in UK sets up Advisory Council
+
+*2024-05-14 00:05:43* · [`dailyftlk`](https://www.ft.lk/news/SL-High-Commission-in-UK-sets-up-Advisory-Council/56-761763) · `en`
+
+The Sri Lanka High Commission in London inaugurated the Advisory Council of Sri Lanka’s Interests (ACSLI) on 7 May 2024, under the patronage of High Commissioner Rohitha Bogollagama.
+
+The Advisory Council constitutes a diverse panel of Sri Lankan and British experts from various spheres including legal, banking, investment, tourism and hospitality, UK polity, and social and cultural engagement.
+
+During the inaugural meeting, the Council deliberated on pivotal issues essential for fostering an investment-friendly climate in Sri Lanka, with discussions centring on critical topics such as taxation, employment laws, introducing new banking amenities, and the expanding service sector, as well as the new laws pertaining to the Colombo Port City. Additionally, the Council addressed the implementation of an appropriate visa program for foreign investors, and enhancing air connectivity between Sri Lanka and both the UK and the Republic of Ireland.
+
+...
+
+[Data](articles/a5b8d986.json)
+
+---
+
+### Verité Research forms governance and anti-corruption research division
+
+*2024-05-14 00:05:08* · [`dailyftlk`](https://www.ft.lk/news/Verité-Research-forms-governance-and-anti-corruption-research-division/56-761762) · `en`
+
+Sri Lanka’s leading think tank Verité Research has established a governance and anti-corruption research division under the leadership of Sankhitha Gunaratne, an attorney-at-law who has championed transparent, accountable, and participatory governance for over a decade.
+
+Verité Research has made this strategic move against the backdrop of widespread, systemic corruption in Sri Lanka and the reform and accountability needs of the moment. The Governance and Anti-Corruption (GAC) division will leverage research to provide guidance in navigating complex governance challenges, and shape sectoral and general anti-corruption solutions.
+
+As the newest division of Verité Research, GAC will work collaboratively with the economy, media and politics, and law divisions to enhance Verité’s standing as an interdisciplinary think tank.
+
+...
+
+[Data](articles/a00886f8.json)
+
+---
+
+### IOM Sri Lanka, Defence Ministry collaborate with SriLankan Airlines to curb human trafficking
+
+*2024-05-14 00:04:26* · [`dailyftlk`](https://www.ft.lk/news/IOM-Sri-Lanka-Defence-Ministry-collaborate-with-SriLankan-Airlines-to-curb-human-trafficking/56-761761) · `en`
+
+International Organisation for Migration (IOM) Sri Lanka and the Ministry of Defence (as the Chair of the National Anti-Human Trafficking Task Force – Sri Lanka) in collaboration with SriLankan Airlines, recently conducted a program for the trainers of national carrier on human trafficking with a special focus on the role and responsibilities of airlines in identifying, reporting, and effectively responding to incidents of trafficking.
+
+The participants were capacitated with the knowledge, analytical methods and resources that can be utilised to effectively identify victims of human trafficking and report such incidents. They also shared valuable insights and interesting encounters of successful identification of victims of trafficking.
+
+...
+
+[Data](articles/e277f867.json)
+
+---
+
+### Back in Parliament Mujibur slams President and Govt. for shielding Diana despite citizenship concerns
+
+*2024-05-14 00:03:14* · [`dailyftlk`](https://www.ft.lk/news/Back-in-Parliament-Mujibur-slams-President-and-Govt-for-shielding-Diana-despite-citizenship-concerns/56-761760) · `en`
+
+Alleges President and Govt. used Gamage to undermine SJB and target Opposition Leader Sajith Premadasa
+
+Accuses Speaker of inaction regarding Gamage’s citizenship issue despite being informed of it
+
+Calls for investigation into Immigration and Emigration Controller General and other officials involved in issuing diplomatic passport to Gamage
+
+Reveals CID investigator CI Sugath Amarasinghe was transferred to impede investigations into case against Gamage
+
+In his first address on returning to Parliament, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday slammed President Ranil Wickremesinghe and the Government for shielding former State Minister Diana Gamage to preserve her Parliamentary position, despite being aware of her non-Sri Lankan citizenship.
+
+...
+
+[Data](articles/37fa6947.json)
+
+---
+
+### Pro-Palestine protest
+
+*2024-05-14 00:02:14* · [`dailyftlk`](https://www.ft.lk/news/Pro-Palestine-protest/56-761759) · `en`
+
+Demonstrators gathered near the Liberty Circle in Colombo yesterday to condemn the ongoing atrocities being allegedly committed by Israel against Palestine. The protest was organised by the Palestine Friendship Organisation. Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa and MPs Mujibur Rahman and S.M. Marikkar are seen participating in the event.
+
+◼️
+
+[Data](articles/826cab2c.json)
+
+---
+
+### Four arrested in Sampur for commemorating war dead
+
+*2024-05-14 00:01:28* · [`dailyftlk`](https://www.ft.lk/news/Four-arrested-in-Sampur-for-commemorating-war-dead/56-761758) · `en`
+
+Three females and a male were arrested by the Sampur Police on Sunday night for violating a court order by holding a commemoration event in remembrance of the Mullivaikkal war dead. According to sources, the arrested had allegedly distributed porridge to neighbours in memory of their relatives who were killed during the armed conflict.
+
+The police, armed with a court order prohibiting such commemorative events, apprehended the four persons amidst a tense situation, as depicted in video footage showing the women being forcibly taken away.
+
+The arrested were further remanded until 27 May after being presented to the Mutur Magistrates Court yesterday.
+
+In 2016, the Human Rights Commission urged the Government to uphold the right to remember deceased relatives. However, activists view recent police arrests as a grave concern, considering this recommendation.
+
+◼️
+
+[Data](articles/1c4d0cad.json)
+
+---
+
+### Court issues order ensuring unimpeded duties for new SLFP Chair Wijeyadasa
+
+*2024-05-14 00:01:21* · [`dailyftlk`](https://www.ft.lk/news/Court-issues-order-ensuring-unimpeded-duties-for-new-SLFP-Chair-Wijeyadasa/56-761757) · `en`
+
+The Kaduwela District Court yesterday issued an enjoining order prohibiting any individual or group from obstructing the newly appointed Sri Lanka Freedom Party (SLFP) Chairperson Dr. Wijeyadasa Rajapaksa, and Acting Secretary Keerthi Udawatta, from performing their duties within the party.
+
+Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoining orders during a case brought forward by SLFP Executive Committee members Isuru Abeywardena and Sumith Wijayamuni de Soysa, who named 20 Executive Committee members as respondents.
+
+...
+
+[Data](articles/7898079a.json)
+
+---
+
 ### 2024-05-13 (Monday)
+
+### Unlocking Sri Lanka’s tourism potential: Challenges, opportunities, and strategies
+
+*2024-05-13 23:43:17* · [`dailyftlk`](https://www.ft.lk/columns/Unlocking-Sri-Lanka-s-tourism-potential-Challenges-opportunities-and-strategies/4-761746) · `en`
+
+Creating a conducive environment for leisure and recreation is essential for attracting and retaining tourists
+
+Sri Lanka, a country of rich cultural heritage and stunning natural beauty, has faced significant challenges in recent years, particularly in its tourism sector. Despite its potential as a top tourist destination, the nation has struggled with foreign exchange difficulties, hindering its ability to import essential medicines, and impacting its overall economic stability. However, amidst these challenges, there are opportunities for revitalising and enhancing the tourism industry to become a primary source of foreign exchange earnings. This paper delves into the intricate details of Sri Lanka’s tourism landscape, examining both the obstacles it faces and the strategies to overcome them.
+
+...
+
+[Data](articles/41fc8dac.json)
+
+---
+
+### London to host panel discussion today on Sri Lanka’s economic crisis
+
+*2024-05-13 23:03:53* · [`dailyftlk`](https://www.ft.lk/business/London-to-host-panel-discussion-today-on-Sri-Lanka-s-economic-crisis/34-761740) · `en`
+
+Presentation to be delivered by Dr. Nishan de Mel of Verité Research at SOAS
+
+A panel discussion titled “Sri Lanka’s economic crisis and beyond”, organised by the School of Oriental and African Studies (SOAS) of the University of London, will be held today (14 May) in London, UK, chaired by Professor Jonathan Goodhand.
+
+The main presentation at the event will be made by Verité Research Executive Director Dr. Nishan de Mel, and the discussant will be Prof. Mushtaq Khan.
+
+...
+
+[Data](articles/95a4632d.json)
+
+---
+
+### State Minister of Finance addresses taxation policies and trade issues
+
+*2024-05-13 23:02:46* · [`dailyftlk`](https://www.ft.lk/business/State-Minister-of-Finance-addresses-taxation-policies-and-trade-issues/34-761739) · `en`
+
+Says Govt. already initiated steps to remove taxes on special trade items
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday addressed key taxation policies and trade-related concerns during a statement in the Parliament, affirming the Government’s readiness to engage in negotiations and implement necessary changes.
+
+“The Government has already initiated steps to remove taxes on special trade items, indicating a willingness to accommodate any party with concerns in this regard through wide-scale negotiations,” he told the House.
+
+Despite ongoing discussions surrounding the sugar tax fraud, the State Minister highlighted the absence of practical solutions from parties critiquing the policy. He urged those with viable alternatives to present them for consideration and implementation.
+
+...
+
+[Data](articles/4de22187.json)
+
+---
+
+### National Chamber seminar on “Country of Origin certification for exporters and upcoming FTAs”
+
+*2024-05-13 23:01:40* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-seminar-on-Country-of-Origin-certification-for-exporters-and-upcoming-FTAs/34-761738) · `en`
+
+The National Chamber of Commerce of Sri Lanka in collaboration with the Department of Commerce, Sri Lanka, will hold a seminar on “Country of Origin certification for Exporters and upcoming FTAs” on Thursday, 16 May 2024 from 2.30 p.m. to 4.30 p.m. its auditorium at Colombo 10.
+
+...
+
+[Data](articles/b5644dc5.json)
+
+---
+
+### Playing “Blind Man’s Buff” with Sri Lanka’s Free Trade Agreements: Part 1
+
+*2024-05-13 23:00:46* · [`dailyftlk`](https://www.ft.lk/columns/Playing-Blind-Man-s-Buff-with-Sri-Lanka-s-Free-Trade-Agreements-Part-1/4-761737) · `en`
+
+Transparency and widespread consultation is vital for an FTA Feasibility Study that reflects the interests of the country rather than vested interests of a few politicians and their business henchmen
+
+It is mind boggling to perceive that in their haste to clinch as many FTAs as possible in obedience to the political masters in the fastest possible time with least dissent and negotiation, Sri Lanka is negotiating FTAs at the same level of its more developed partner countries opting for “substantial liberalisation” under GATT Article XXIV and Article V of the GATS in elimination of existing regulatory measures and prohibition of new regulations
+
+...
+
+[Data](articles/e26023b6.json)
+
+---
 
 ### Donald Lu met Sajith
 
@@ -80,6 +286,34 @@ The President said that the country is very proud of this success in the Rugby G
 
 ---
 
+### Government proposes law to co-opt and control non-governmental activity
+
+*2024-05-13 22:53:13* · [`dailyftlk`](https://www.ft.lk/columns/Government-proposes-law-to-co-opt-and-control-non-governmental-activity/4-761732) · `en`
+
+While we challenge these individual attempts to dismantle our freedoms and rights, it is important to take a step back and see the monstrous governance apparatus that is growing
+
+The proposed scheme appears to introduce legal legitimacy for the current oppressive treatment of non-governmental organisations. The scheme explicitly requires organisations to comply with governmental policy and agenda, rendering unlawful those who may criticise, challenge and question Government policy and agendas. It seeks to assert authority over all forms of non-governmental associations, groups and activities by introducing mandatory registration, whilst retaining powers to give directions to institutions that are specifically excluded from registration. The Government investment in the institutional mechanism and apparatus to oversee, supervise and direct non-governmental resources and activity is quite simply a taking control of the vast breadth of institutions and groups
+
+...
+
+[Data](articles/ab82e475.json)
+
+---
+
+### Electricity sector: What Rohan Samarajiva didn’t say
+
+*2024-05-13 22:49:51* · [`dailyftlk`](https://www.ft.lk/columns/Electricity-sector-What-Rohan-Samarajiva-didn-t-say/4-761731) · `en`
+
+Samarajiva bemoans the fact that wind projects in Sri Lanka must pass an environmental impact  assessment whereas those in India need not. And that is somehow a good thing?
+
+In his article, “Electricity sector: Without investment we will be in the dark again” (Daily FT, 7 April, 2024), Professor Rohan Samarajiva, evidently the latest apologist for India’s Adani Group, writes, “An eminent public intellectual, Rohan Pethiyagoda, bemoans the fact that a unit of electricity produced by the wind power facility proposed by Adani will cost more than wind-produced electricity in the US and in India.” He goes on, in the manner of a gifted prestidigitator, to cite a litany of excuses that argue for waiving the rules to help Adani cream of more than $ 700 million in excess profits from Sri Lankan electricity consumers. Much of what he writes consists purely of smoke and mirrors. But let’s cut to the bone.
+
+...
+
+[Data](articles/6024a4ab.json)
+
+---
+
 ### President meets Sri Lankan cricket team heading to T20 World Cup, extends best wishes
 
 *2024-05-13 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99197/president-meets-sri-lankan-cricket-team-heading-to-t20-world-cup-extends-best-wishes) · `en`
@@ -95,6 +329,20 @@ Scheduled to depart the island tomorrow morning (14), the Sri Lankan cricket squ
 [Data](articles/c284e9fd.json)
 
 [Extended Data](ext_articles/c284e9fd.ext.json)
+
+---
+
+### Urgently required additional law reforms: Letter to Justice Minister
+
+*2024-05-13 22:48:05* · [`dailyftlk`](https://www.ft.lk/opinion/Urgently-required-additional-law-reforms-Letter-to-Justice-Minister/14-761730) · `en`
+
+Consider enacting an ‘Economic Crime and Corporate Transparency Act’ along with proposed ‘Proceeds of Crime Act’
+
+You are urged to kindly consider enacting an ‘Economic Crime and Corporate Transparency Act’, along with the enactment of the ‘Proposed Proceeds of Crime Act’, in line with the firm commitments expressed by the Government in response to the expectations of the International Monetary Fund (IMF); and specifically, as targeted by the (IMF) in the Governance Diagnostics Assessment which was duly adopted by the Government.
+
+...
+
+[Data](articles/31776f49.json)
 
 ---
 
@@ -1975,343 +2223,5 @@ The non -academic staff of all universities launched a strike from the 12th.
 [Data](articles/550bc332.json)
 
 [Extended Data](ext_articles/550bc332.ext.json)
-
----
-
-### Complaint against Diana to Bribery Commission
-
-*2024-05-13 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Complaint-against-Diana-to-Bribery-Commission/110-282506) · `en`
-
-The ‘Anti-Bribery and Anti-Waste Power Organization’ filed made a complaint with the Bribery Commission today against former State Minister Diana Gamage, alleging that she had acquired a BMW vehicle and utilized government resources while possessing a dual citizenship. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/0e23af96.json)
-
-[Extended Data](ext_articles/0e23af96.ext.json)
-
----
-
-### Seven times for 'Hara' ....!- Mohan
-
-*2024-05-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183405) · `ta`
-
-Mohan stars in 'Hara,' directed by Vijay Sri Ji, with a story refined seven times. The film features a star-studded cast and is set for a global release on June 7th. Mohan, appreciating his fans, agreed to act after the story's approval. The film aims to captivate all fans, with Coimbatore Brothers supporting its release.
-
-🟩
-
-The film's hero Mohan said, "I have agreed to act only after the story of director Vijay Sri Ji, 'Hara' is seven times."
-
-Directed by director Vijay Sri Ji, Mohan, Anu Mol, Kaushik, Anitra Nair, Yogi Babu, Saruhasan, Suresh Menon, Vanitha Vijayakumar, Motta Rajendran, Singam Tiger, Deepa, Mime Gopi, Santosh PrabhakarHave played. Rashant Arvin has composed the film, which is being recorded by Prahad Muniyasamy. The film was made by producer Coimbatore S.. B.. Produced by Mohanraj.
-
-The music launch of the film, which will be released in the film mansions worldwide on the seventh of June, was held in Chennai on the birthday of actor Mohan.Then director K.. Bhagyaraj participated as a special guest.
-
-...
-
-[Data](articles/66ba990f.json)
-
-[Extended Data](ext_articles/66ba990f.ext.json)
-
----
-
-### One hospitalized at the Lotus Tower
-
-*2024-05-13 15:06:55* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණෙන්-පැන්න-අයෙක්-රෝහලේ/11-409599) · `si`
-
-A foreign national parachutist was hospitalized in Colombo due to a parachute delay during the Base Jump event at the Lotus Tower. The event, which started yesterday, continues today and tomorrow.
-
-🟩
-
-A foreign national player has been admitted to the Colombo National Hospital due to the delay in the opening of a parachute during the Colombo Base Jump event.
-
-The Base Jump program began on the Lotus Tower yesterday and implemented today and tomorrow and tomorrow.
-
-◼️
-
-[Data](articles/88921f5e.json)
-
-[Extended Data](ext_articles/88921f5e.ext.json)
-
----
-
-### Philanthropist Nahil Wijesuriya donates Rs 270 Mn for Bishops College
-
-*2024-05-13 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Philanthropist-Nahil-Wijesuriya-donates-Rs-270-Mn-for-Bishops-College/108-282494) · `en`
-
-Colombo, May 13 -  Nahil Wijesuriya, a well-known figure in Sri Lanka's charitable circles, has stepped forward to contribute a sum of Rs 270,000,000 towards the construction of a modern A-Level building at Bishops College, Colombo.
-
-The new facility is poised to be a state-of-the-art establishment, equipped with the latest amenities to support academic excellence.
-
-This generous gesture from Nahil Wijesuriya follows closely on the heels of his previous philanthropic endeavors. In December 2023, he made headlines with a monumental donation of Rs 1 Billion towards the completion of the "Little Hearts Foundation."
-
-◼️
-
-[Data](articles/759e7899.json)
-
-[Extended Data](ext_articles/759e7899.ext.json)
-
----
-
-### Non-academic workers' agitation
-
-*2024-05-13 14:52:56* · [`adalk`](https://www.ada.lk/breaking_news/අනධ්‍යයන-සේවකයන්-දැවැන්ත-උද්ඝෝෂණයක/11-409598) · `si`
-
-Non-academic staff at the University of Peradeniya protested in Kandy, organized by academic workers. The Chief Secretary of the Federation of Farmers' University Trade Union warned of escalating issues due to the government's slow response.
-
-🟩
-
-The non-academic workers of the University of Peradeniya staged a massive agitation in front of GeorG de Silva Park in Kandy.
-
-The protest was organized by university academic workers in parallel to the strike scheduled by university academic workers in parallel to the stage of university academic workers.
-
-The Chief Secretary of the Federation of Federation of Farmers' University Tra University Trade Union. A.D. Mr. Surangaa said that the government would not solve their professional issues expeditiously that this trade union action would be more escalating. (Ij)
-
-◼️
-
-[Data](articles/6da87f03.json)
-
-[Extended Data](ext_articles/6da87f03.ext.json)
-
----
-
-### Frequent agency raid money for Japanese job
-
-*2024-05-13 14:33:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපන්-රැකියාවට-මුදල්-අයකල-හොර-ඒජන්සිය-වටලයි/11-409597) · `si`
-
-The Special Investigation Unit raided a company in Matara without a valid license, seizing passports and unemployment applications. The suspect was remanded until the 15th.
-
-🟩
-
-Special Investigation Unit of the Bureau (5/12) was raided by the Special Investigation Unit of the Bureau (5/12) without a valid license of the Foreign Employment Bureau.
-
-Officers of the Special Investigation Division (BC) were raided by the officials of the Special Investigation Division as per the private spy of the Bureau's Investigation Division by running a company in Matara town.
-
-Investigations have revealed that the relevant location was carried out without a validity position without a validity in the Bureau, accordingly, with a validity of the Bureau for student visa.. Also, there were a large number of passports, unemployment applications and many other files were taken into the location.
-
-The suspect was produced before the Matara Magistrate's Court today and remanded until the 15th. ‍
-
-Officers of the Special Investigation Division of the Special Investigation Division of the Bureau for this raid were Assistant.
-
-◼️
-
-[Data](articles/df513cd6.json)
-
-[Extended Data](ext_articles/df513cd6.ext.json)
-
----
-
-### Base jump adventure in the lotus tower;Foreign citizen hurt
-
-*2024-05-13 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183404) · `ta`
-
-A US citizen was injured during a Base Jump at Colombo's Lotus Tower due to a delayed opening of the parachute.
-
-🟩
-
-A foreign citizen who was involved in a Base Jump adventure at the Lotus Tower in Colombo has been injured.
-
-The accident was reportedly due to the delay in the opening of the parasite during the Base jump flow from the Lotus Tower.
-
-Hospital sources say that the injured foreign citizen belongs to the United States and is currently being treated.
-
-◼️
-
-[Data](articles/98322990.json)
-
-[Extended Data](ext_articles/98322990.ext.json)
-
----
-
-### Court calls for report on progress of investigations against Pastor Jerome
-
-*2024-05-13 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-calls-for-report-on-progress-of-investigations-against-Pastor-Jerome/108-282492) · `en`
-
-Colombo, May 13 (Daily Mirror) - The Supreme Court today directed the Attorney General to submit the progress of the investigations against Pastor Jerome Fernando within two weeks over his alleged hate remarks against religious harmony in the country.
-
-The Supreme Court made this direction when the Fundamental Rights petition filed by a group of religious leaders seeking an order directing the authorities to immediately act against Pastor Jerome Fernando was called before the Supreme Court.
-
-The petitioners Ven. Elle Gunawansa Thera, Ven. Bengamuwe Nalaka Thera, Ven. Angulugalle Sri Ginanada Thera, Rev. Father Nishan Cooray, Dr. Sivasui Ramachandra Kurukkal Babu Sharma and Al-Haj-As-Seyed Hassan Moulana AlQuadri filed this petition naming Pastor Jerome Fernando, the IGP and several others as respondents.
-
-◼️
-
-[Data](articles/37dd2848.json)
-
-[Extended Data](ext_articles/37dd2848.ext.json)
-
----
-
-### Serious injuries to the head of the Ordinary Level of Police
-
-*2024-05-13 14:22:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පියාගේ-පහර-කෑමට-ලක්-වූ-සාමාන්‍ය-පෙළ-ලියන-සිසුවාගේ-හිසට-බරපතල-තුවාල/11-409596) · `si`
-
-A police sergeant in Kandy, Sri Lanka, was seriously injured, requiring five stitches, after an incident involving a student. The sergeant was found in an official residence with a weapon, leading to a complaint to the Children's and Women's Bureau. Investigations are ongoing.
-
-🟩
-
-According to Kandy Headquarters, the Kandy Headquarters has been admitted to the Peradeniya Teaching Hospital with serious injuries.
-
-Student study at a leading school in Kandy is scheduled to sit for the Ordinary Level Examination today (13). The mother of the student has lodged a complaint with the Children's and Women's Bureau of the Kandy Headquarters Police.
-
-The police officer in an official residence of a police official residence in Asgiriya has been revealed to the student who appeared to his wife and two children with a weapon.
-
-Five stitches of the student who are receiving treatment at the Peradeniya Teaching Hospital have been treated at the head of the student, hospital sources said.
-
-Upon inquiry from a high police officer in connection with the incident, he said that the police sergeant was hiding and the police investigation had commenced.
-
-...
-
-[Data](articles/a6353885.json)
-
-[Extended Data](ext_articles/a6353885.ext.json)
-
----
-
-### Larvest the final glacier
-
-*2024-05-13 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196576) · `si`
-
-The B Colona, the last glacier in Venezuela, is melting rapidly due to global warming, a clear sign of its impact on our planet.
-
-🟩
-
-The last glacier in Venezuela is the B Colona, the Hulolt Glaze.
-
-Scientists point out that the melting of the glacier has accelerated has accelerated.
-
-Scientists say this is a situation that the results of global weather warming and global warming are high.
-
-◼️
-
-[Data](articles/b0f07dd4.json)
-
-[Extended Data](ext_articles/b0f07dd4.ext.json)
-
----
-
-### IMF urges Maldives to halt money printing to keep dollar peg amid ‘debt distress’
-
-*2024-05-13 14:13:00* · [`economynextcom`](https://economynext.com/imf-urges-maldives-to-halt-money-printing-to-keep-dollar-peg-amid-debt-distress-162745/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund urged the Maldives to stop printing money so that its exchange rate peg could be maintained, also warning that it was at high risk of debt distress.
-
-IMF’s executive directors asked for co-ordinated actions to with fiscal authorities to  facilitate necessary monetary policy actions to safeguard the exchange rate peg.
-
-“To this end, they commended the authorities’ decisive action to discontinue the exceptional use of the Maldives Monetary Authority advances, and underscored that this should be complemented by more active liquidity management over time,” an IMF statement said.
-
-“Directors also encouraged an acceleration of foreign exchange market reforms to enhance the credibility of the peg.”
-
-In 2023, Maldives’ current account deficit had widened amid foreign borrowings to finance capital spending also due to a run down of reserves after printing money for temporary advances.
-
-...
-
-[Data](articles/d421283e.json)
-
-[Extended Data](ext_articles/d421283e.ext.json)
-
----
-
-### Selectors deny favoritism in Sri Lanka’s T20 World Cup squad selection
-
-*2024-05-13 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Selectors-deny-favoritism-in-Sri-Lankas-T20-World-Cup-squad-selection/155-282491) · `en`
-
-Colombo, May 13 (Daily Mirror) - While denying any favoritism during the selection of players for the Sri Lanka squad in the ICC Men's T20 World Cup 2024, Sri Lanka Cricket Selection Committee Chairman Upul Tharanga said the Sri Lanka team is in a good position to challenge any team at the World Cup to be held in the West Indies and USA.
-
-At a media briefing held to address various concerns regarding the Sri Lanka T20 squad for the World Cup, Tharanga said there was no favoritism in the selection process except for talent, fitness and discipline of players. He said the 15-member squad named for the World Cup is balanced and powerful.
-
-Responding to injury concerns about skipper Wanindu Hasaranga and fast bowler Matheesha Pathirana, Tharanga said both players are fit for the tournament.
-
-When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga highlighted his all-round performance and the potential advantage for the team in conditions like those in the US.
-
-...
-
-[Data](articles/30489439.json)
-
-[Extended Data](ext_articles/30489439.ext.json)
-
----
-
-### Selectors deny favoritism in Sri Lanka’s T20 World Cup squad selection
-
-*2024-05-13 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Selectors-deny-favoritism-in-Sri-Lankas-T20-World-Cup-squad-selection/108-282491) · `en`
-
-Colombo, May 13 (Daily Mirror) - While denying any favoritism during the selection of players for the Sri Lanka squad in the ICC Men's T20 World Cup 2024, Sri Lanka Cricket Selection Committee Chairman Upul Tharanga said the Sri Lanka team is in a good position to challenge any team at the World Cup to be held in the West Indies and USA.
-
-At a media briefing held to address various concerns regarding the Sri Lanka T20 squad for the World Cup, Tharanga said there was no favoritism in the selection process except for talent, fitness and discipline of players. He said the 15-member squad named for the World Cup is balanced and powerful.
-
-Responding to injury concerns about skipper Wanindu Hasaranga and fast bowler Matheesha Pathirana, Tharanga said both players are fit for the tournament.
-
-When questioned about the inclusion of Dunith Wellalage in the squad, Tharanga highlighted his all-round performance and the potential advantage for the team in conditions like those in the US.
-
-...
-
-[Data](articles/f6dc9d0c.json)
-
-[Extended Data](ext_articles/f6dc9d0c.ext.json)
-
----
-
-### An announcement of heavy rains
-
-*2024-05-13 14:01:16* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුනයෙන්-අවවාදාත්මක-නිවේදනයක්/11-409595) · `si`
-
-The Department of Meteorology warns of heavy rains in Central, Sabaragamuwa, and Uva regions, with showers exceeding 100 millimeters expected. The announcement is valid from 11:30 pm today.
-
-🟩
-
-The Department of Meteorology has issued an announcement on heavy showers in the Central, Sabaragamuwa and Uva.
-
-As a result of the development of the lower atmosphere, the Department of Meteorology says he is looking forward to rainy industry.
-
-Accordingly, heavy showers exceeding over 100 millilitioners in the above lands will be expected.
-
-The announcement is valid at 11.30 pm today.
-
-◼️
-
-[Data](articles/a6174fba.json)
-
-[Extended Data](ext_articles/a6174fba.ext.json)
-
----
-
-### Gifts from Senior Superintendent of Police in Kebithigollewa
-
-*2024-05-13 13:46:09* · [`adalk`](https://www.ada.lk/breaking_news/කැබිතිගොල්ලෑව-කොට්ඨාස-භාර-ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරිගෙන්-තෑගි/11-409594) · `si`
-
-For the first time, the Kebithigollewa Division Police Station, under Senior Superintendent of Police Kubanicri, distributed construction and sports goods to schools and villages, enhancing community health and police welfare. This initiative, supported by the OICs of the 13 police stations, marks a significant step in the division's development programs, including opening the Divisional Secretariat and promoting women's work.
-
-🟩
-
-For the first time in the history of the history of the Cabithigollewa Division and the police officers in the Kebithigollewa Division and the Board of Police Station at the Kebithigollewa Police Station this morning at the Kebithigollewa Police Station this morning.Section at Kebithigollewa Divisional Police M.S. The chaired by Mr. Kubanicri.
-
-Senior Superintendent of Police. The construction and sports goods were purchased at the co-operation of the OICs in the 13 police stations in the 13 police stations in the three police stations in the division on a concept of Kubaniman.
-
-It will be able to get the doors and healthy in schoolchildren and the health status of the police are able to get the villagers from the village and the senior Superintendentum.. Kubanmanayake said Kubanicranayake said.
-
-...
-
-[Data](articles/3f9144fa.json)
-
-[Extended Data](ext_articles/3f9144fa.ext.json)
-
----
-
-### Edu. Minister responds to concerns over O/L English and Science papers
-
-*2024-05-13 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99185/edu-minister-responds-to-concerns-over-ol-english-and-science-papers) · `en`
-
-In response to the concerns raised surrounding the alleged irregularities pertaining to the 2023 (2024) G.C.E. Ordinary Level examination’s English and Science question papers, Minister of Education Susil Premajayantha affirmed that measures will be taken to prevent any injustices to the affected students.
-
-Replying to a question raised by Member of Parliament Rohini Kaviratne during today’s parliamentary session, Premajayantha further stated a final decision will be made regarding the matter following discussions with the panel responsible for preparing the O/L science paper.
-
-The Education Minister emphasized that the Commissioner General of the Department of Examinations has issued a statement on the matter. He also confirmed that the panel will adjust the marking scheme appropriately to ensure fairness for students.
-
-Furthermore, he pledged necessary measures to provide relief to students who may have been affected by irregularities in the O/L English paper.
-
-◼️
-
-[Data](articles/9cb453f3.json)
-
-[Extended Data](ext_articles/9cb453f3.ext.json)
 
 ---

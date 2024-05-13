@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 00:49:09**
+As of **2024-05-14 01:03:30**
 
 ## Newspaper Stats
 
-*Scraped **23,809** Articles*
+*Scraped **23,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,785
+tamilmirrorlk | 2,786
 virakesarilk | 3,552
 dailymirrorlk | 3,747
 adaderanasinhalalk | 3,816
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,789 (99.9%) of 23,809 articles have been extended.
+23,806 (100.0%) of 23,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### உயிருடன் இருப்போரை அழைத்துவர ஏற்பாடு
+
+*2024-05-14 00:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிருடன்-இருப்போரை-அழைத்துவர-ஏற்பாடு/175-337265) · `ta`
+
+ரஷ்யாவுக்கு இலங்கையர்களை அனுப்பும் மனித கடத்தல் மோசடியில் ஓய்வு பெற்ற இராணுவ அதிகாரிகள் ஈடுபட்டுள்ளமை விசாரணைகள் மூலம் தெரியவந்துள்ளது,இவர்களினால் அங்கு அனுப்பப்பட்டு ரஷ்ய யுத்தக் களத்தில் உயிரிழந்த இலங்கையர்களின் உடல்கள் அடையாளப்படுத்தப்பட்டுள்ள நிலையில் இன்னும் உயிருடன் இருப்பவர்களை   நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில்  நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பாதுகாப்பு  இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+
+ரஷ்ய யுத்தகளத்தில்  போராடும்  இலங்கையர்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பாராளுமன்றத்தில் திங்கட்கிழமை (13) முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும்போதே இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
+
+...
+
+[Data](articles/a0ce008c.json)
+
+---
 
 ### CSE adopts two ambulances for 1990 Suwa Seriya Foundation
 
@@ -50,6 +64,8 @@ Launched in 2016, Suwa Seriya is a national ambulance service providing free pre
 
 [Data](articles/6885a47c.json)
 
+[Extended Data](ext_articles/6885a47c.ext.json)
+
 ---
 
 ### SL High Commission in UK sets up Advisory Council
@@ -65,6 +81,8 @@ During the inaugural meeting, the Council deliberated on pivotal issues essentia
 ...
 
 [Data](articles/a5b8d986.json)
+
+[Extended Data](ext_articles/a5b8d986.ext.json)
 
 ---
 
@@ -82,6 +100,8 @@ As the newest division of Verité Research, GAC will work collaboratively with t
 
 [Data](articles/a00886f8.json)
 
+[Extended Data](ext_articles/a00886f8.ext.json)
+
 ---
 
 ### IOM Sri Lanka, Defence Ministry collaborate with SriLankan Airlines to curb human trafficking
@@ -95,6 +115,8 @@ The participants were capacitated with the knowledge, analytical methods and res
 ...
 
 [Data](articles/e277f867.json)
+
+[Extended Data](ext_articles/e277f867.ext.json)
 
 ---
 
@@ -116,6 +138,8 @@ In his first address on returning to Parliament, Samagi Jana Balawegaya (SJB) MP
 
 [Data](articles/37fa6947.json)
 
+[Extended Data](ext_articles/37fa6947.ext.json)
+
 ---
 
 ### Pro-Palestine protest
@@ -127,6 +151,8 @@ Demonstrators gathered near the Liberty Circle in Colombo yesterday to condemn t
 ◼️
 
 [Data](articles/826cab2c.json)
+
+[Extended Data](ext_articles/826cab2c.ext.json)
 
 ---
 
@@ -146,6 +172,8 @@ In 2016, the Human Rights Commission urged the Government to uphold the right to
 
 [Data](articles/1c4d0cad.json)
 
+[Extended Data](ext_articles/1c4d0cad.ext.json)
+
 ---
 
 ### Court issues order ensuring unimpeded duties for new SLFP Chair Wijeyadasa
@@ -159,6 +187,8 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 ...
 
 [Data](articles/7898079a.json)
+
+[Extended Data](ext_articles/7898079a.ext.json)
 
 ---
 
@@ -176,6 +206,8 @@ Abolish the National List; empower the electorate to choose their representative
 
 [Data](articles/0ebeaf68.json)
 
+[Extended Data](ext_articles/0ebeaf68.ext.json)
+
 ---
 
 ### Untangling Sri Lanka’s messy government structure
@@ -189,6 +221,8 @@ It would be an absolute surprise for someone walking into a local ministry to fi
 ...
 
 [Data](articles/319debaf.json)
+
+[Extended Data](ext_articles/319debaf.ext.json)
 
 ---
 
@@ -208,6 +242,8 @@ Leo Varadkar and Humza Yousaf have resigned and Rishi Sunak is shaky
 
 [Data](articles/75e5839f.json)
 
+[Extended Data](ext_articles/75e5839f.ext.json)
+
 ---
 
 ### Election merry-go-round
@@ -226,6 +262,8 @@ The Leader of the Samagi Jana Balawegaya is at war with his Party chairman.
 
 [Data](articles/8d9489a7.json)
 
+[Extended Data](ext_articles/8d9489a7.ext.json)
+
 ---
 
 ### 2024-05-13 (Monday)
@@ -242,6 +280,8 @@ Sri Lanka, a country of rich cultural heritage and stunning natural beauty, has 
 
 [Data](articles/41fc8dac.json)
 
+[Extended Data](ext_articles/41fc8dac.ext.json)
+
 ---
 
 ### London to host panel discussion today on Sri Lanka’s economic crisis
@@ -257,6 +297,8 @@ The main presentation at the event will be made by Verité Research Executive Di
 ...
 
 [Data](articles/95a4632d.json)
+
+[Extended Data](ext_articles/95a4632d.ext.json)
 
 ---
 
@@ -276,6 +318,8 @@ Despite ongoing discussions surrounding the sugar tax fraud, the State Minister 
 
 [Data](articles/4de22187.json)
 
+[Extended Data](ext_articles/4de22187.ext.json)
+
 ---
 
 ### National Chamber seminar on “Country of Origin certification for exporters and upcoming FTAs”
@@ -287,6 +331,8 @@ The National Chamber of Commerce of Sri Lanka in collaboration with the Departme
 ...
 
 [Data](articles/b5644dc5.json)
+
+[Extended Data](ext_articles/b5644dc5.ext.json)
 
 ---
 
@@ -301,6 +347,8 @@ It is mind boggling to perceive that in their haste to clinch as many FTAs as po
 ...
 
 [Data](articles/e26023b6.json)
+
+[Extended Data](ext_articles/e26023b6.ext.json)
 
 ---
 
@@ -2183,29 +2231,5 @@ The order was issued after considering a petition filed with the Kaduwela Distri
 [Data](articles/2f1bdb0f.json)
 
 [Extended Data](ext_articles/2f1bdb0f.ext.json)
-
----
-
-### US Representative visits Sri Lanka
-
-*2024-05-13 15:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதி-இலங்கைக்கு-விஜயம்/175-337238) · `ta`
-
-US State Assistant Secretary Donald Lu visited Sri Lanka, part of a tour through India, Sri Lanka, and Bangladesh. The visit aims to strengthen US ties in the Indo-Pacific region, following a meeting in India.
-
-🟩
-
-US State Assistant Secretary of State for South and Central Asian Affairs Donald Lu arrived in Sri Lanka this morning.
-
-The visit is aimed at expressing the support of the US to build the Indo -Pacific region with further strengthening ties between the two countries.
-
-Donald Lu has a tour of India, Sri Lanka and Bangladesh from 10th to 15th of this month.
-
-Donald Lu, who arrived in India last Friday (10), had a meeting with the Consular Officer in Chennai.
-
-◼️
-
-[Data](articles/0a8649ce.json)
-
-[Extended Data](ext_articles/0a8649ce.ext.json)
 
 ---

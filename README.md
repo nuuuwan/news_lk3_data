@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-13 09:33:59**
+As of **2024-05-13 09:52:48**
 
 ## Newspaper Stats
 
-*Scraped **23,615** Articles*
+*Scraped **23,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,103 @@ islandlk | 1,285
 economynextcom | 1,351
 dailyftlk | 1,374
 adalk | 2,003
-adaderanalk | 2,754
+adaderanalk | 2,755
 tamilmirrorlk | 2,765
 virakesarilk | 3,518
 dailymirrorlk | 3,716
-adaderanasinhalalk | 3,785
+adaderanasinhalalk | 3,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,613 (100.0%) of 23,615 articles have been extended.
+23,615 (100.0%) of 23,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-13 (Monday)
 
-### குளியாப்பிட்டியவில் இளைஞர் கொலை ; காதலி கைது
+### Illegal shoe imports costing Sri Lanka billions of rupees in annual tax revenue
+
+*2024-05-13 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99173/illegal-shoe-imports-costing-sri-lanka-billions-of-rupees-in-annual-tax-revenue) · `en`
+
+Information has been uncovered regarding a large-scale racket of illegally importing shoes manufactured in foreign countries and selling them within Sri Lanka.
+
+It is reported the racket has been carried out with the involvement of certain Customs officers and without paying the due taxes.
+
+A tax of minimum Rs. 2,000 is levied for a pair of shoes imported into Sri Lanka from a foreign country.
+
+Meanwhile, it is reported that these illegally imported foreign-manufactured footwear are released to the market at prices much lower price than the footwear produced locally.
+
+Ada Derana learns that the country has incurred annual tax revenue losses of around Rs. 35 billion due to such import rackets.
+
+◼️
+
+[Data](articles/2eb4fffb.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-05-13 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196564) · `si`
+
+ඒ අනුව අද දින පෙරවරු 9.30ට පාර්ලිමේන්තුව රැස්වන අතර පෙරවරු 9.30 සිට 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර තිබේ.
+
+පස්වරු 10.30 සිට පස්වරු 5.00 දක්වා ශ්‍රී ලංකා අපනයන සංවර්ධන පනත යටතේ නියෝගය, රේගු ආඥාපනත යටතේ යෝජනා සම්මතය, ආනයන අපනයන පනත යටතේ රෙගුලාසි අනුමත කිරීමට සහ සීමාසහිත ජය බහලුම් පර්යන්තයේ වාර්ෂික වාර්තාව විවාදයකින් තොරව අනුමත කිරීමට පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+පස්වරු 5.00 සිට පස්වරු 5.30 දක්වා සභාව කල්තබන අවස්ථාවේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+
+◼️
+
+[Data](articles/4f99933e.json)
+
+---
+
+### තවත් මළ සිරුරක්
+
+*2024-05-13 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196563) · `si`
+
+ගිරිඋල්ල පොලිස් වසමේ කජුවැටියවත්ත කුඹුරේ තිබී නාඳුනන පිරිමි මළ සිරුරක් හමුව තිබේ.
+
+මරණකරුගේ අනන්‍යතාවය මෙතෙක් අනාවරණය කරගෙන නොමැති අතර, වයස අවුරුදු 50ත් - 60ත් අතර වයසේ පසුවන අයෙකු බවට පොලීසිය සැකපළ කරයි.
+
+නිරුවත් මළ සිරුර හඳුනාගත නොහැකි මට්ටමට විකෘති වී ඇතැයි ද පොලීසිය සඳහන් කරයි.
+
+මෘත ශරීරය කුලියාපිටිය රෝහලේ තැන්පත් කර ඇති අතර, ගිරිඋල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/595c3bdf.json)
+
+---
+
+### Youth murder in Kiliyapitiya;Arresting girlfriend
 
 *2024-05-13 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183369) · `ta`
 
-குளியாப்பிட்டிய பகுதியில் இளைஞரொருவர் கொலை செய்யப்பட்டமை தொடர்பில் அவரது காதலி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+In Kiliyapitiya, an 18-year-old girlfriend was arrested for allegedly aiding in the murder and concealment of a 31-year-old man, Susitha Jayawansa, who went missing on April 22 and was found dead and burned on May 7 in Madampe. The main suspect, Sujit Fernando, and his wife, Dylani Kiza, were interrogated by lawyers on May 6.
 
-இலுக்ஹென வஸ்ஸவுல்ல பகுதியில்  வசிக்கும் 18 வயதுடைய காதலியான சந்தேகநபர், கொலை செய்ய  உதவியமை மற்றும்  கொலை குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குளியாப்பிட்டிய, கபலேவ பகுதியைச் சேர்ந்த 31 வயதுடைய சுசித ஜயவன்ச என்ற இளைஞன் ஏப்ரல் மாதம் 22 ஆம் திகதி காணாமல் போனதாகத் தெரிவிக்கப்பட்டது.
+His girlfriend has been arrested by the police in connection with the murder of a youth in Kiliyapitiya.
 
-இந்நிலையில்,  காணாமல்போன இளைஞன் மாதம்பேயில் பனிரெண்டாவ வனப்பகுதியில் மே மாதம் 7 ஆம் திகதி சடலமாக மீட்கப்பட்டார்.
+The 18 -year -old girlfriend, who lives in Ilukhena Wassaulla area, has been arrested on charges of helping murder and hiding the crime.
 
-கொலை செய்யப்பட்டு எரிக்கப்பட்டு வீசப்பட்ட நிலையில் இளைஞனின்  சடலம் காணப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A 31 -year -old Susitha Jayawansa, a 31 -year -old from Kapaleva, Kiliyapitiya, was reported missing on April 22.
 
-இந்த சம்பவத்தை தொடர்ந்து காதலி, பிரதான சந்தேகநபரும் அவரது மனைவியும், பிரதான சந்தேகநபரின் இரண்டு மகன்களும், பிரதான சந்தேகநபரின் சகோதரி மற்றும் அவரது கணவரும் தலைமறைவாகி இருந்தனர்.
+In this case, the missing youth was found dead on May 7 in the Panerendawa forest in Madampe.
 
-...
+The body of the youth was found after being murdered and burned, police said.
+
+Following the incident, the girlfriend, the main suspect and his wife, the two sons of the main suspect, the sister of the main suspect and the husband and her husband.
+
+In the meantime, Sujit Fernando and his wife Dylani Kiza, the main suspect, were ordered to be interrogated by lawyers on May 6 last year.
+
+◼️
 
 [Data](articles/ad3d9bd7.json)
+
+[Extended Data](ext_articles/ad3d9bd7.ext.json)
 
 ---
 
@@ -242,21 +304,27 @@ However, the body of the missing youth was discovered weeks later at the Paniren
 
 ---
 
-### நினைவேந்தலில் ஈடுபடும் தமிழர்களை துன்புறுத்தும் அச்சுறுத்தும் கைதுசெய்யும் இலங்கை அரசாங்கம் நல்லிணக்கத்திற்கான முயற்சிகளில் ஈடுபடுவதாக தெரிவிக்க முடியாது- பேர்ள்
+### The Sri Lankan government that threatens the Tamils who are engaging in the commemoration cannot be said to be trying to reconciliation- Pearl
 
 *2024-05-13 07:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183368) · `ta`
 
-நினைவேந்தலில் ஈடுபடும் தமிழர்களை துன்புறுத்தும் அச்சுறுத்தும் கைதுசெய்யும் இலங்கை அரசாங்கம் நல்லிணக்கத்திற்கான முயற்சிகளில் ஈடுபடுவதாக தெரிவிக்க முடியாது என  இலங்கையில் சமத்துவம் மற்றும் நிவாரணத்திற்கான மக்கள் அமைப்பான பேர்ள் தெரிவித்துள்ளது.
+The Sri Lankan government's threats against Tamils commemorating their history contradict claims of reconciliation efforts. The People's Organization for Equality and Relief in Sri Lanka criticizes the government for its role in the genocide 15 years ago, highlighting the arrest of those commemorating their lost loved ones. The incident involving police giving biscuits to locals on Vesak Day last year further exposes the government's hypocrisy.
 
-15 வருடங்களிற்கு முன்னர் இலங்கை அரசாங்கத்தின் ஈவிரக்கமற்ற இனப்படுகொலையை தமிழர்கள் நினைவேந்தும் இந்த தருணத்தில் முள்ளிவாய்க்கால் கஞ்சி என்பது காயங்களை ஆற்றுதல் கூட்டு நினைவேந்தலின் ஒரு பகுதியாக மாறியுள்ளது.
+🟩
 
-தங்கள் நேசத்திற்குரியவர்களை நினைவுகூரும்  தமிழர்களை துன்புறுத்தும் அச்சுறுத்தும் கைதுசெய்யும்இலங்கை அரசாங்கம் நல்லிணக்கத்திற்கான முயற்சிகளில் ஈடுபடுவதாக தெரிவிக்க முடியாது.
+The Sri Lankan government, which threatens to persecute Tamils who are engaged in the commemoration, cannot be informed that the Sri Lankan government is in the process of reconciliation, said the People's Organization for Equality and Relief in Sri Lanka.
 
-கடந்த வருடம் வெசாக் தினத்தை முன்னிட்டு இலங்கை பொலிஸார் உள்ளுர் மக்களிற்கு பிஸ்கட்கள் போன்றவற்றை வழங்கியிருந்தனர் – திருகோணமலை சம்பவம் அவர்களின் போலிநாடகத்தை வெளிப்படுத்தியுள்ளது என பேர்ள் அமைப்பு  தெரிவித்துள்ளது.
+Mullivaikkal porridge at this moment has become part of the joint venture of the Sri Lankan government's ruthless genocide of the Sri Lankan government 15 years ago.
+
+The arrests that threaten the Tamils who commemorate their beloved people cannot be informed that the Sri Lankan government is trying to reconciliation.
+
+The Sri Lankan police were given biscuits to the local people on the eve of Vesak Day last year - the Trincomalee incident has revealed their pseudo -country.
 
 ◼️
 
 [Data](articles/078f70e8.json)
+
+[Extended Data](ext_articles/078f70e8.ext.json)
 
 ---
 
@@ -2103,63 +2171,5 @@ The Tamil general candidate's trust issue is gaining public interest, seen as a 
 [Data](articles/84c566a5.json)
 
 [Extended Data](ext_articles/84c566a5.ext.json)
-
----
-
-### Son injured in father's shot
-
-*2024-05-12 18:22:41* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-වෙඩි-පහරින්-පුතාට-තුවාල/11-409575) · `si`
-
-In Sooriyawewa, a father was shot by his son, seriously injuring him in the thigh. The incident occurred in the Wewagama area, and the son has taken over the father's house. The shooter fled, and police are investigating.
-
-🟩
-
-Suriyawewa Police said that a father was seriously injured in the Wewagama area in Sooriyawewa.
-
-Police said this shot had taken place yesterday (11). The father had shouting the son's home and the son of the father took over the father's house with an overwhelming father.
-
-Shot shot injured in the thigh area above the knees of the left leg. The father of the shooting has fled the matter. Sooriyawewa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3c61dd2c.json)
-
-[Extended Data](ext_articles/3c61dd2c.ext.json)
-
----
-
-### The Tamil general candidate will make the Tamil people a confused political community
-
-*2024-05-12 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183326) · `ta`
-
-Ranil claims economic recovery, but polls show him third, with Sajith Premadasa and Anuragumara Dissanayake leading. Tamil candidate may confuse the community.
-
-🟩
-
-Ranil is trying to issue a certificate that the economy is recovering from the international side and the Governor of the Central Bank also issues a certificate.
-
-However, the Sri Lankan field situation does not seem to have returned to Ranil. The polls show that Ranil is in the 3rd position. In the first place, Sajith Premadasa and Anuragumara Dissanayake are changing.
-
-◼️
-
-[Data](articles/5cfe81a3.json)
-
-[Extended Data](ext_articles/5cfe81a3.ext.json)
-
----
-
-### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
-
-*2024-05-12 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
-
-May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
-
-May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
-
-...
-
-[Data](articles/5fbb9b96.json)
-
-[Extended Data](ext_articles/5fbb9b96.ext.json)
 
 ---

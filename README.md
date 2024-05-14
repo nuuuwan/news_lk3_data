@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 17:03:43**
+As of **2024-05-14 17:18:21**
 
 ## Newspaper Stats
 
-*Scraped **23,978** Articles*
+*Scraped **23,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 2,793
 tamilmirrorlk | 2,811
 virakesarilk | 3,587
 dailymirrorlk | 3,774
-adaderanasinhalalk | 3,839
+adaderanasinhalalk | 3,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,974 (100.0%) of 23,978 articles have been extended.
+23,978 (100.0%) of 23,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### සාම්පූර් සිද්ධියේ සිව්දෙනා රිමාන්ඩ්
+
+*2024-05-14 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196619) · `si`
+
+අධිකරණ නියෝග කඩකිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුට ගත් සැකකරුවෙක් සහ සැකකාරියන් තිදෙනා මැයි 27 දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+◼️
+
+[Data](articles/c2ce9eeb.json)
+
+---
+
+### ලොකු වැස්සක් ගැන ජනතාවට දැනුම්දීමක්
+
+*2024-05-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196618) · `si`
+
+බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල මිලිමීටර් 100ක පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඉදිරි පැය 36ට අදාළව කාලගුණ නිවේදනය නිකුත් කරමින් එම දෙපාර්තමේන්තුව මේ බව සඳහන් කර ඇත.
+
+එසේම ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ වර්ධනය වී පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බවද එහි වැඩිදුරටත් දැක්වෙයි.
+
+දිවයිනේ බොහෝ පළාත්වල පස්වරු 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එහි සඳහන්ව ඇත.
+
+බස්නාහිර සහ දකුණු වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+
+මේ අතර ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං සහ අකුණු මගින් ඇතිවිය හැකි අනතුරු අවම කරගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7fd26b3a.json)
+
+---
 
 ### Preschooler dies of electric shock while using charging mobile phone
 
@@ -50,21 +84,31 @@ The girl, who had returned home from preschool, was using a mobile phone while i
 
 [Data](articles/6fc8f8be.json)
 
+[Extended Data](ext_articles/6fc8f8be.ext.json)
+
 ---
 
-### විජයදාස ගැන තීරණය හෙට
+### Wijayadasa decides tomorrow
 
 *2024-05-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196617) · `si`
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස කටයුතු කිරීම වළක්වාලමින් වාරණ නියෝගයක් නිකුත් කරන්නේ ද ? නැද්ද ? යන නියෝගය හෙට (15) දින ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (14) නියෝග කළේය.
+The Colombo District Court today ordered, following a complaint by the SLFP and MP Duminda Dissanayake, that it cannot issue an injunction against Mr. Wijayadasa Rajapaksa, appointed as the UNP Chairman, due to jurisdictional issues. The case, involving President's Counsel Romesh de Silva and Chandaka Jayasundara, highlights a dispute over the applicability of an injunction order issued by the Kaduwela District Court. The court's decision will be announced tomorrow.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන ලේකම් හා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් ගොනු කළ පැමිණිල්ලක් සලකාබැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතානගේ මහතා විසින් මෙම තීරණය ප්‍රකාශයට පත්කර ඇත.
+🟩
 
-පැමිණිල්ල සලකාබැලීම සඳහා කැඳවනු ලැබූ අවස්ථාවේදී එහි විත්තිකරුවකු වශයෙන් නම්කර සිටින විජයදාස රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින්,
+Does the Minister of Justice Wijayadasa Rajapaksa pretend to prevent the Chairman of the Sri Lanka Freedom Party?Not?The Colombo District Court today (14) ordered the Colombo District Court today.
+
+The decision was published by the Sri Lanka Freedom Secretary and Parliamentarian Judge Sandun Withanage following a complaint filed by the SLFP and MP Duminda Dissanayake.
+
+President's Counsel Romesh de Silva, who was named as a defendant, he appeared in behalf of Mr. Wijeshadasa Rajapakse, who is named as a defendant.
+
+"According to the decision taken by the SLFP Executive Committee on the 12th, Mr. Wijayadasa Rajapaksa has been appointed as the Chairman of the UNP. Kaduwela District Court issued a complaint file by the Kaduwela District Court and issued an enjoining order preventing the SLFP chairman. The petition has been presented in contrary to the injunction order. "
 
 ...
 
 [Data](articles/1370aac1.json)
+
+[Extended Data](ext_articles/1370aac1.ext.json)
 
 ---
 
@@ -352,15 +396,23 @@ Accordingly, the process of placing employees at the NSB is currently underway.
 
 ---
 
-### සොරකම් නඩුවකට  පැමිණි පුද්ගලයෙක් නඩුව ඉවර වී යතුරු පැදියකුත් හොරකම් කරගෙනම ගිහින්
+### A person who came to a steal case was running out of the case and stealing a motorcycle
 
 *2024-05-14 14:50:36* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-නඩුවකට--පැමිණි-පුද්ගලයෙක්-නඩුව-ඉවර-වී-යතුරු-පැදියකුත්-හොරකම්-කරගෙනම-ගිහින්/11-409627) · `si`
 
-මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සොරකමක් සම්බන්ධව විභාග වෙමින් පවතින නඩුවකට පසුගියදා(11දා) පැමිණි සැකකරුවෙකු නඩුව අවසන් වී, නිවස වෙත යමින් සිටියදී, අධිකරණය අසල නිවසක නවතා තිබූ, යතුරුපැදියක් සොරකම් කරගෙන ගොස් තිබියදී අත් අඩංගුවට ගත්බව මැදවච්චිය පොලිසිය පවසයි.
+A suspect in a theft case was apprehended after stealing a motorcycle. The incident occurred near the Medawachchiya Magistrate's Court, where the suspect was later arrested. The police, led by OIC RMIB Ratnayake, recovered the stolen motorcycle and identified the suspect through information gathered from theft cases and drug files. The suspect was found in possession of a 45mm firearm and was subsequently arrested and brought before the Medawachchiya Magistrate's Court.
+
+🟩
+
+The suspect had been arrested and taken to the house in the Medawachchiya Magistrate's Court (11), a motorbike was arrested and arrested in the court.
+
+A person has come to a case filed by the Medawachchiya Magistrate's Court on a private keyside at the Medawachchiya Magistrate's Court.. The man had then stopped his motorcycle at the former chairman of the Medawachchiya Pradeshiya Sabha near the courts.. The man who had come to the motorcycle back to 12:00 pm on the back of 12.00 pm, the man arrived in the motorcycle where the man had come back to the motorcycle, the man had begun to seek the key. The owner of the motorcyclist had gone to the Medawachchiya Police Station, as the attempt was unable to find the motorcycle.. Medawachchiya OIC has launched a special police team including Mr. RMIB Ratnayake, including the accident.
 
 ...
 
 [Data](articles/49be5d5c.json)
+
+[Extended Data](ext_articles/49be5d5c.ext.json)
 
 ---
 
@@ -1996,17 +2048,29 @@ If the symptoms of this situation continue, the expert emphasized the importance
 
 ---
 
-### තරුණයින් 11 දෙනෙකු පැහැරගෙන යාමේ නඩුව : වසන්ත කරන්නාගොඩට එරෙහි චෝදනා නොපවත්වාගෙන යාමට ගත්  තීරණයට සිදුවන්නේ කුමක්ද?
+### Case of Abduction of 11 Youth: What happens to the decision of the allegations against Wasantha Karannagoda?
 
 *2024-05-14 10:34:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglvv267v4jo) · `si`
 
-තරුණයින් 11 දෙනෙකු පැහැරගෙන යාමේ නඩුව : වසන්ත කරන්නාගොඩට එරෙහි චෝදනා නොපවත්වාගෙන යාමට ගත්  තීරණයට සිදුවන්නේ කුමක්ද?
+The case involves allegations against Wasantha Karannagoda, a former Navy Commander, for the abduction of 11 youth in Colombo and suburbs. The Attorney General initially decided to maintain the charges but later decided not to, leading to a petition by the relatives of the disappeared. The Court of Appeal is yet to decide on the continuation of the case.
 
-2008 වසරේ කොළඹ හා තදාසන්න ප්‍රදේශවල වාසය කළ දමිළ හා මුස්ලිම් තරුණයින් 11 දෙනෙකු කප්පම් ලබා ගැනීමේ අරමුණින් පැහැර  ගෙන ගොස් පසුව අතුරුදන් කිරීමේ සිද්ධියේ විත්තිකරුවකු වශයෙන් හිටපු නාවික හමුදාපති  වසන්ත කරන්නාගොඩ නම් කළ හැකි බවට නීතිපතිවරු තුන්දෙනෙකුම තීරණය කර තිබිය දී, 2019 වසරෙන් පසුව වසන්ත කරන්නාගොඩට එරෙහිව අදාළ චෝදනා නොපවත්වාගෙන යාමට එවකට සිටි නීතිපතිවරයා කටයුතු කිරීම ගැටලු සහගත බවත් එම අතුරුදන් වූවන්ගේ ඥාතීන් වෙනුවෙන් පෙනී සිටි නීතිඥ නුවන් බෝපගේ මැයි 13 වෙනිදා අභියාචනාදීකරණය හමුවේ එම නඩුව කැඳවූ අවස්ථාවේ දී කරුණු දැක්වීමක් සිදු කළේය.
+🟩
+
+Case of Abduction of 11 Youth: What happens to the decision of the allegations against Wasantha Karannagoda?
+
+Three Attorney General, Wasantha Karannagoda, the 2019, is said to be named as a defendant in Colombo and suburbs.Attorney at the time, the Attorney General was problematic as the Attorney General was taken up again and appeared on behalf of the relatives of the disappeared.
+
+When the petition was signed by the Navy Commander Wasantha Karannagoda called the Attorney General's decision to be resulted in the case of death in Colombo and Disappearances.The lawyer made this statement.
+
+The Court of Appeal was called before Mohamed Laifar Tahrir.
+
+Romesh de Silva, who appeared in behalf of Petitioner Wasantha Karannagoda, expressed his views before the deception.
 
 ...
 
 [Data](articles/7f74429d.json)
+
+[Extended Data](ext_articles/7f74429d.ext.json)
 
 ---
 
@@ -2229,39 +2293,5 @@ Q. What situation can the people of Sri Lanka be kept?
 [Data](articles/b0af1966.json)
 
 [Extended Data](ext_articles/b0af1966.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-14 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196604) · `si`
-
-The Parliamentary Council has convened, marking the start of its proceedings.
-
-🟩
-
-◼️
-
-[Data](articles/f6ea001f.json)
-
-[Extended Data](ext_articles/f6ea001f.ext.json)
-
----
-
-### Youth stabbed to death in Mahaoya
-
-*2024-05-14 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99201/youth-stabbed-to-death-in-mahaoya) · `en`
-
-A youth has been stabbed to death with a sharp weapon over to a dispute between two groups at Samagipura, Mahaoya.
-
-Police said that the incident was reported yesterday afternoon (13) and that the deceased was a 26-year-old resident of Samagipura.
-
-Two brothers, aged 18 and 23, who are also residents of Samagipura, have been arrested in connection with the murder.
-
-◼️
-
-[Data](articles/e374b36f.json)
-
-[Extended Data](ext_articles/e374b36f.ext.json)
 
 ---

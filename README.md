@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 22:33:38**
+As of **2024-05-14 22:51:05**
 
 ## Newspaper Stats
 
-*Scraped **24,046** Articles*
+*Scraped **24,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,377
 dailyftlk | 1,390
-adalk | 2,055
-adaderanalk | 2,797
+adalk | 2,056
+adaderanalk | 2,798
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
-dailymirrorlk | 3,783
+dailymirrorlk | 3,784
 adaderanasinhalalk | 3,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,046 (100.0%) of 24,046 articles have been extended.
+24,046 (100.0%) of 24,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Public Security Min. & Immigration Dept. officials a no-show at CoPF meeting?
+
+*2024-05-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99221/public-security-min-immigration-dept-officials-a-no-show-at-copf-meeting) · `en`
+
+The Committee on Public Finance (CoPF) expressed strong displeasure regarding the absence of officials from the Ministry of Public Security and the Department of Immigration and Emigration during discussions concerning the recent issues pertaining to the process of issuing online visa for foreigners visiting Sri Lanka.
+
+The committee chair Harsha de Silva noted that officials from the Public Security Ministry and the Immigration Department had previously committed to attending the committee meeting but failed to do so, which was viewed as disrespectful to the committee. The late notice provided the evening before the meeting was deemed unacceptable, the Parliamentary Communications Department said.
+
+As a result, it was decided to summon representatives from the relevant ministry and the department once again for further discussions regarding the appointment of GBS-IVS and VFS Global as authorized agents for online visa applications.
+
+...
+
+[Data](articles/3b1509c0.json)
+
+---
+
+### Sri Lankans have right to commemorate war dead: Vijitha
+
+*2024-05-14 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-have-right-to-commemorate-war-dead-Vijitha/108-282603) · `en`
+
+Claiming that relatives and comrades have a right to commemorate the war dead, NPP MP Vijitha Herath said today that the government must take steps to protect their rights.
+
+Speaking during the adjournment debate on the Palestine war, he said relatives and comrades of those who were killed in civil wars in Sri Lanka have a right to commemorate the war dead and condemned the arrest of three females and a male in Sampur for holding a commemoration event in remembrance of the Mullivaikkal war dead.
+
+The MP said United Nations declared a day for commemoration of the dead in the Nakba incident and similarly Sri Lankans also have a right to commemorate those dead in civil wars.
+
+He said right to commemorate war dead is a right accepted internationally and added that the right should be ensured in Sri Lanka as well.
+
+◼️
+
+[Data](articles/2d86314a.json)
+
+---
 
 ### Several houses flooded in rainwater
 
@@ -225,6 +259,22 @@ Meanwhile, more than a hundred police have been searching for the incident.
 [Data](articles/57bc67a0.json)
 
 [Extended Data](ext_articles/57bc67a0.ext.json)
+
+---
+
+### සුවසැරියේ ගිලන් රථ 56ක් ’කොට උඩ’
+
+*2024-05-14 19:43:34* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියේ-ගිලන්-රථ-56ක්-’කොට-උඩ’/11-409635) · `si`
+
+1990 සුවසැරිය ගිලන් රථ සේවයේ භාවිත කළ ගිලන් රථ 322න් ගිලන් රථ 56ක් භාවිතයට ගැනීමට නොහැකි තත්ත්වයට පත්ව ඇති බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+එමෙන්ම හදිසි වෛද්‍ය තාක්ෂණ ශිල්පීන් (Emergency Medical Technicians) සහ රියදුරන් රට අතහැර යාම නිසා පුරප්පාඩු මතුව ඇති බව අද (14දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+
+නව ගිලන් රථ ගැනීමේ වැඩපිළිවෙෙළක් ක්‍රියාත්මක වන බවත්, මෙම ගැටලුව පිළිබඳ සෞඛ්‍ය අමාත්‍යාංශයේ අවධානය යොමු කරන බවත් ඊට ප්‍රතිචාර දන්වමින් සභානායක, අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසීය.
+
+...
+
+[Data](articles/a1bebff6.json)
 
 ---
 
@@ -2263,77 +2313,5 @@ The US dollar purchasing price was Rs 295.6765 and the sales price were Rs 305.2
 [Data](articles/66f14ad2.json)
 
 [Extended Data](ext_articles/66f14ad2.ext.json)
-
----
-
-### Plans to gazette 20 savage land this year
-
-*2024-05-14 13:36:05* · [`adalk`](https://www.ada.lk/religion/මෙම-වසරේදී-පුජා-භූමි-20ක්-ගැසට්-කිරීමට-සැලසුම්/4-409624) · `si`
-
-The National Physical Planning Department plans to gazette 20 sacred lands this year, following the gazetting of 9 areas, including the Bambigala Raja Maha Viharaya and Hambantota. The Vesak Festival will be held from May 21st to 27th, with President Ranil Wickremesinghe in attendance. The department selects sacred grounds based on preparation and regional importance, with 130 lands already gazetted in Sri Lanka.
-
-🟩
-
-The National Physical Planning Department (NBRO) says that 20 privileges will be announced by gazette this year.
-
-The department says 9 sacred areas have been gazetted this year.
-
-Accordingly, the Bambigala Raja Maha Viharaya, Hambantota in Colombo, Colombo, Gampaha, Gampaha, Gampaha, Gampaha Batapotha Viharaya, Puttalam Deheragala Rajamaha Temple and MataleDeclared by gazette.
-
-This year's Vesak Festival is planning to be held from May 21 to May 27th May. The inauguration of the State Vesak Festival will be held under the patronage of President Ranil Wickremesinghe.
-
-The Physical Planning Department stated that the Henekana Rajamaha Viharaya in Hambantota and the Bandaranawala Sri Vishnatunga Devalaya in the Kazetha has already been sent to the Summal Development of Gampaha.
-
-Urban Development and Housing Prasanna Ranatunga pointed out that it is done according to three criteria when publishing sacred ground. These are selected in terms of preparation and regional importance.
-
-...
-
-[Data](articles/280093b0.json)
-
-[Extended Data](ext_articles/280093b0.ext.json)
-
----
-
-### 'Only 6,000 people are diploma'
-
-*2024-05-14 13:35:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-000-பேர்-மட்டுமே-டிப்ளோமா-பெற்றவர்கள்/175-337294) · `ta`
-
-In Sri Lanka, only 6,000 of 34,000 pre-school teachers hold diplomas. The Minister of Education highlighted the importance of early childhood development, criticizing the use of terms like "Montessori" and "Pre-School." He emphasized the critical role of early education in developed countries, noting a UNICEF report that 20% of children who need pre-school education may not receive it.
-
-🟩
-
-Minister of Education Susil Premajayantha today (14) said that only 6,000 of the 34,000 pre -school teachers and assistant teachers in Sri Lanka were Diploma.
-
-He told Parliament that there are 18,800 pre -schools in Sri Lanka and that most teachers and assistant teachers are not a diploma.
-
-Responding to a question of United People's Power Member of Parliament Hesha Vidhanage, he said that even the use of the words Montisori and Pre -School is wrong and that the right word should be early childhood development centers.
-
-In developed countries such as the United States and Japan, the minister noted that childhood development is the most important stage of education in children.
-
-Meanwhile, he pointed out that the UNICEF report has revealed that 20 percent of the children who need to receive pre -school education are unlikely to educate.
-
-◼️
-
-[Data](articles/c765be05.json)
-
-[Extended Data](ext_articles/c765be05.ext.json)
-
----
-
-### Keheliya’s writ petition challenging magistrate’s order to be heard on May 31
-
-*2024-05-14 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-writ-petition-challenging-magistrates-order-to-be-heard-on-May-31/108-282574) · `en`
-
-Colombo, May 14 (Daily Mirror)- The writ application filed by former Health Minister Keheliya Rambukwella seeking an order directing the Maligakanda Magistrate to release him on bail in connection with the alleged purchase of substandard Immunoglobulin injections, was today fixed for a fresh hearing by the Court of Appeal.
-
-The Court of Appeal two-judge-bench comprising Justice (President) Nissanka Bandula Karunaratne and Justice Shashi Mahendran fixed the matter for support on May 31.
-
-Through this petition, Keheliya Rambukwella is seeking an order in the nature of a Writ of Prohibition preventing Maligakanda Magistrate Lochani Abeywickrama from taking any steps to further detain him in remand custody.
-
-◼️
-
-[Data](articles/942878fe.json)
-
-[Extended Data](ext_articles/942878fe.ext.json)
 
 ---

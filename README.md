@@ -1,46 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 07:43:05**
+As of **2024-05-14 07:55:28**
 
 ## Newspaper Stats
 
-*Scraped **23,851** Articles*
+*Scraped **23,855** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 215
+colombotelegraphcom | 216
 bbccomsinhala | 244
 dbsjeyarajcom | 246
 newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
-adalk | 2,029
-adaderanalk | 2,776
+adalk | 2,030
+adaderanalk | 2,777
 tamilmirrorlk | 2,793
 virakesarilk | 3,562
 dailymirrorlk | 3,753
-adaderanasinhalalk | 3,820
+adaderanasinhalalk | 3,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,847 (100.0%) of 23,851 articles have been extended.
+23,851 (100.0%) of 23,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### සෞඛ්‍ය වර්ජනය අද සබරගමුවේ
+### Heavy showers of about 100mm expected in several provinces
+
+*2024-05-14 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99198/heavy-showers-of-about-100mm-expected-in-several-provinces) · `en`
+
+Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to continue further, says the Meteorology Department.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers of about 100mm are likely at some places in Southern, Central, Eastern and Uva provinces, it said.
+
+Showers may occur at Western and Southern provinces during the morning too.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1fb5515b.json)
+
+---
+
+### අත්ට්‍රැක්ටරයක් දුම්රියේ ගැටෙයි
+
+*2024-05-14 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196598) · `si`
+
+කොස්ගොඩ, දුවේමෝදර දුම්රිය හරස් මාර්ගය හරහා ධාවනය වූ අත් ට්‍රැක්ටරයක් දුම්රියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඊයේ (13) සවස් කාලයේ එම අනතුර සිදුව තිබුණේ මාතර සිට මරදාන බලා ධාවනය වූ ශීඝ්‍රගාමී දුම්රියේ ගැටීමෙනි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ අත් ට්‍රැක්ටර් රථයේ රියදුර හා එහි ගමන් ගත් පුද්ගලයෙකු බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු රියදුරු මියගොස් ඇත.
+
+අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා කරාපිටිය රෝහල වෙත මාරුකර යවා ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් මියගොස් ඇත්තේ, දෙහිගහවෙල ප්‍රදේශයේ පදිංචිව සිටි 49 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/2687a84c.json)
+
+---
+
+### Health strike in Sabaragamuwa today
 
 *2024-05-14 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196597) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය අද (14) දිනයේ සබරගමුව පළාතේ වැඩවර්ජනයක නිරත වේ.
+Health workers in Sabaragamuwa Province will strike today, affecting healthcare services.
+
+🟩
+
+The Health Trade Union Alliance will work in Sabaragamuwa Province today (14).
 
 ◼️
 
 [Data](articles/7ff330e6.json)
+
+[Extended Data](ext_articles/7ff330e6.ext.json)
 
 ---
 
@@ -394,6 +440,18 @@ This housing is a housing scheme to be built under the auspices of the Governmen
 
 ---
 
+### Preparing For Free & Fair Elections
+
+*2024-05-14 01:30:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/preparing-for-free-fair-elections/) · `en`
+
+Elections provide a unique situation where people become equal regardless of their class or ethnic and religious identity. This offers space to rival politicians to address their unmet needs. The government has commenced several development initiatives that will take resources to the community level in a targeted manner. These initiatives would be beneficial to the government in mustering support for it at the grassroots level. Those who wield governmental power have the ability to make tangible offerings to the people to secure their vote in a time of elections. The intervention of the Election Commission and civil society organisations in disapproving some of these governmental actions and ensuring free and fair elections needs to be seen in this light.
+
+...
+
+[Data](articles/d2523c6c.json)
+
+---
+
 ### Students will be prepared for not injustice to students in science -Education Minister Susil
 
 *2024-05-14 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183455) · `ta`
@@ -484,21 +542,27 @@ Competition is the answer for productivity improvement. The moment you have the 
 
 ---
 
-### ’அநீதி ஏற்படாத வகையில் புள்ளிகள் வழங்கப்படும்’
+### Points will be issued so as not to cause injustice
 
 *2024-05-14 00:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநீதி-ஏற்படாத-வகையில்-புள்ளிகள்-வழங்கப்படும்/175-337272) · `ta`
 
-கல்வி பொது தராதர சாதாரண தர பரீட்சையில் விஞ்ஞான பாட வினாத்தாள் தொடர்பில் மாணவர்களுக்கு அநீதி ஏற்படாத வகையில் உரிய புள்ளிகளை வழங்கப்படும் என கல்வியமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+Education Minister Susil Prema Jayantha announced a point system for the Science Course Questionnaire in the GCE Ordinary Level Examination to avoid injustice, addressing concerns raised by Opposition MP Rohini Gavaratne about errors in the science course questions.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற வாய்மூல விடைக்கான  வினா நேரத்தில் எதிர்க்கட்சி எம்.பி.  ரோஹிணி கவிரத்ன எழுப்பிய கேள்வி யொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த கல்வி அமைச்சர் மேலும் கூறுகையில்,
+🟩
 
-விஞ்ஞான பாட வினாத்தாளில் இடம்பெற்றுள்ள தவறுகள் தொடர்பில் சிக்கல்கள் எழுந்துள்ள நிலையில் அந்த வினாத்தாள்களைத் தயாரித்த விரிவுரையாளர்களை அழைத்து பேச்சுவார்த்தை நடத்தப்பட்டுள்ளது.
+Education Minister Susil Prema Jayantha said that students will be given appropriate points in order to avoid injustice regarding the Science Course Questionnaire in the GCE Ordinary Level Examination.
 
-இம்முறை கல்வி பொது தராதர சாதாரண தர பரீட்சையில் விஞ்ஞான பாட வினாத்தாள் தொடர்பில் மாணவர்களுக்கு அநீதி ஏற்படாத வகையில் புள்ளி முறைமை ஒன்று தயாரிக்கப்பட்டு உரிய புள்ளிகளை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என்றார்,.
+Opposition MP at the time of the oral answer in Parliament on Monday (13)In response to a question raised by Rohini Gavaratne, the Minister of Education added,
+
+The query has been negotiated with the lecturers who prepared the question papers as there are problems with the mistakes in the science course.
+
+This time, a point system will be prepared and to provide the appropriate points to ensure that students will not be unjust to the Science Course Questionnaire in the GCE Ordinary Level Examination.
 
 ◼️
 
 [Data](articles/cb9f7222.json)
+
+[Extended Data](ext_articles/cb9f7222.ext.json)
 
 ---
 
@@ -1718,6 +1782,24 @@ Another space rock is approximately 72 lakh km from Earth, while traveling at a 
 
 ---
 
+### දුරකතනය චාජ් කරන්න ගිහින් පස් හැවිරිදි දැරිය විදුලි සැර වැදී මරුට
+
+*2024-05-13 19:16:16* · [`adalk`](https://www.ada.lk/breaking_news/දුරකතනය-චාජ්-කරන්න-ගිහින්-පස්-හැවිරිදි-දැරිය-විදුලි-සැර-වැදී-මරුට/11-409610) · `si`
+
+ජංගම දුරකථනය ආරෝපණය කිරීමට යාමේදී විදුලි සැරවැදී පස් හැවිරිදි දැරියක මියගොස් ඇති බව පයාගල පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ මග්ගොන මුංහේන ප්‍රදේශයේ පදිංචිව සිටී විහිගි නෙතාෂා නමැති දැරියක බව පොලිසිය කීය
+
+මියගොස් ඇති දැරිය නිවසේදී ජංගම දුරකථනයක් ආරෝපණය කිරීම සදහා සූදානම් වීමේදී  විදුලි සැර වැදී ඇති අතර , බේරුවල ප්‍රාදේශීය රෝහලට රැගෙන ගොස් ඇති අතර , ඇය මියගොස් ඇති බව වෛද්‍යවරුන් පවසා ඇති බව සදහන් වේ.
+
+මෘතදේහය බේරුවල ප්‍රාදේශීය රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය සදහා කළුතර ශීක්ෂණ රෝහලට යොමුකිරීම නියමිත බව සදහන් වේ.
+
+◼️
+
+[Data](articles/abf3d7cc.json)
+
+---
+
 ### Stop military offensive in Gaza
 
 *2024-05-13 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stop-military-offensive-in-Gaza/110-282499) · `en`
@@ -2085,111 +2167,5 @@ Police investigations revealed that the suspect and the victim were introduced d
 [Data](articles/cc4d352a.json)
 
 [Extended Data](ext_articles/cc4d352a.ext.json)
-
----
-
-### Continuing work on reconstruction of the Electricity Board - Minister of Electricity
-
-*2024-05-13 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183410) · `ta`
-
-Minister Kanchana Wijesekera clarified the government's stance on not privatizing the Electricity Board, responding to former President Mahinda Rajapaksa's request to halt its privatization. Rajapaksa also urged the government to take responsibility for the next government and suspend the proceedings of state establishment and reorganization. The Electricity Board is now focusing on its reconstruction.
-
-🟩
-
-Former President Mahinda Rajapakse, who will act on a request by former President Mahinda Rajapakse to suspend the process of privatizing state institutions?
-
-Minister of Power and Power and Power and Power of Power Kanchana Wijesekera responded that the government does not have the intention of privatizing the Electricity Board.
-
-Lakshman Kiriella, the prime minister of the opposition parties, addressed a special statement during a session in Parliament on Monday (13).
-
-Former President Mahinda Rajapakse has issued a special statement to completely suspend the proceedings of state establishment and reorganization. He also urged the government to take responsibility for the next government.
-
-The Electricity Board has now taken steps to reconstruct the Electricity Board.
-
-Responding to this, the Minister of Power and Power and Energy Kanjana Wijesekera said that former President Mahinda Rajapaksa did not mention the reorganization of state agencies.
-
-...
-
-[Data](articles/9db93cc6.json)
-
-[Extended Data](ext_articles/9db93cc6.ext.json)
-
----
-
-### The first look of actor Ashwin Babu starring 'Sivam Baje'
-
-*2024-05-13 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183411) · `ta`
-
-The first look of 'Sivam Baje', directed by Apsar, features Ashwin Babu, a Telugu film industry star. The film also stars Tihankana, Arbas Khan, Hyper Adi, Sai Deena, Murali Sharma, Brahma G, Tulsi, and others. Produced by Maheshwara Reddy Muli under Ganga Entertainments, it's set to release in June in Tamil, Telugu, Malayalam, Kannada, and Hindi.
-
-🟩
-
-The first look of Ban Indian film 'Sivam Baje' has been released as the hero of the story of Ashwin Babu, the star of the Telugu film industry.
-
-Directed by director Apsar, 'Sivam Baje' stars Aswin Babu, Tihankana, Bollywood actor Arbas Khan, Hyper Adi, Sai Deena, Murali Sharma, Brahma G, Tulsi and many others.. The film, which has been recorded by Dasarathi Sivendra, has produced the producer Maheshwara Reddy Muli on behalf of Ganga Entertainments.
-
-The shooting of the film is over and the post -shooting work is going on. The film crew has said that the film is scheduled to be released in June.
-
-Ashwin Babu, the hero of the story in First Look, has attracted a lot of fans. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-◼️
-
-[Data](articles/36554e24.json)
-
-[Extended Data](ext_articles/36554e24.ext.json)
-
----
-
-### Elkson movie starring Vijay Kumar
-
-*2024-05-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183407) · `ta`
-
-"Elkson," a movie set in Chennai, focuses on local elections but avoids political propaganda, emphasizing family values and the role of politics in daily life. It features a campaign led by volunteers, highlighting their dedication to serving the people, not the party. The film, starring Vijay Kumar, explores the life of a party volunteer and the impact of politics on family relationships, without directly addressing political parties. The preview has garnered attention for its emotional storytelling and director's unique approach to politics. "Elkson" is set to release worldwide on the 17th of this month."
-
-🟩
-
-'Eliyadi' and 'Fight Club'. The film was held in Chennai in Chennai.
-
-The movie 'Elkson' is centered on local elections. Although the storyline of the film is an election.. The film is being prepared as a family story, focusing on the role of politics in the daytime life, and prioritizing family relationships, without imposing its views on the viewers.
-
-The characters in the film will make a campaign on politics. But the film has not propagated any politics.
-
-There are a lot of volunteers who work for policy and party in politics. It is a work that speaks of the life of the party volunteer who wants to work for the people who do not consider the party who are not working for the party.
-
-And the world will be branded as a world of people as a man and a person who does not survive. This will cause a fair rage for their family members. I have played the hero in the character who expresses that anger.
-
-...
-
-[Data](articles/52c0a427.json)
-
-[Extended Data](ext_articles/52c0a427.ext.json)
-
----
-
-### Employment Opportunities in Russia with all amenities: Don't cheat for facial book ads - Ministry of Defense
-
-*2024-05-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183413) · `ta`
-
-Sri Lanka's Defense Ministry warns against employment scams in Russia, highlighting fake Facebook ads. The government is negotiating to bring back Sri Lankans who died in the Russian war. The President has called for immediate action against those involved in human trafficking and fake advertisements, urging caution against such scams.
-
-🟩
-
-Faculty of Facebook is still disappointed. I urge people not to get caught up with frauds carried out by a party, noting that they are gaining employment opportunities in Russia.
-
-The bodies of Sri Lankans who died in the Russian war field have been identified. Defense Minister Bandara Tennakoon said that we have launched negotiations at diplomatic levels to bring a large number of people to the country.
-
-In response to questions posed by the Opposition Leader regarding the Sri Lankans who were in crisis in the Russian battlefield during a session in Parliament on Monday.
-
-The Leader of the Opposition should correct a few issues regarding the Sri Lankans who have gone to the Russian battlefield.
-
-The President had invited parliamentarians Dayasiri Jayasekara and Gamini Valaboda to the Security Council meeting chaired by the President last Tuesday.. Both of them were involved.
-
-The Security Council meeting on several issues on Sri Lankans who have gone to Russia for employment opportunities.
-
-...
-
-[Data](articles/7ee9a025.json)
-
-[Extended Data](ext_articles/7ee9a025.ext.json)
 
 ---

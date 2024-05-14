@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 16:49:57**
+As of **2024-05-14 17:03:43**
 
 ## Newspaper Stats
 
-*Scraped **23,974** Articles*
+*Scraped **23,978** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 217
-bbccomsinhala | 244
+bbccomsinhala | 245
 dbsjeyarajcom | 247
 newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,048
-adaderanalk | 2,792
+adalk | 2,049
+adaderanalk | 2,793
 tamilmirrorlk | 2,811
 virakesarilk | 3,587
 dailymirrorlk | 3,774
-adaderanasinhalalk | 3,838
+adaderanasinhalalk | 3,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,971 (100.0%) of 23,974 articles have been extended.
+23,974 (100.0%) of 23,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Preschooler dies of electric shock while using charging mobile phone
+
+*2024-05-14 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99216/preschooler-dies-of-electric-shock-while-using-charging-mobile-phone-) · `en`
+
+Pediatrician Dr. Deepal Perera says there is a 3 – 15% chance that a child can die due to electrocution.
+
+“It can affect the heart. It can affect the brain. That means it can damage the nervous system. The heart rate can change. We call it arrhythmia. Things like that can happen. Fainting, loss of consciousness, and even death can occur. This is very dangerous,” Dr. Perera warned.
+
+Therefore, he stressed that it is the duty of adults to immediately rush them to hospital when such incidents occur as well as to prevent such situation from arising.
+
+Meanwhile, a tragic incident has been reported from the Munhena area of Maggona, where a three-and-a-half-year-old girl has died allegedly due to electrocution while using a mobile phone that was plugged into a charger.
+
+The girl, who had returned home from preschool, was using a mobile phone while it was charging in a room of the house. Her elder brother discovered her lying unconscious and immediately alerted their father.
+
+...
+
+[Data](articles/6fc8f8be.json)
+
+---
+
+### විජයදාස ගැන තීරණය හෙට
+
+*2024-05-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196617) · `si`
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස කටයුතු කිරීම වළක්වාලමින් වාරණ නියෝගයක් නිකුත් කරන්නේ ද ? නැද්ද ? යන නියෝගය හෙට (15) දින ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (14) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන ලේකම් හා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් ගොනු කළ පැමිණිල්ලක් සලකාබැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතානගේ මහතා විසින් මෙම තීරණය ප්‍රකාශයට පත්කර ඇත.
+
+පැමිණිල්ල සලකාබැලීම සඳහා කැඳවනු ලැබූ අවස්ථාවේදී එහි විත්තිකරුවකු වශයෙන් නම්කර සිටින විජයදාස රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින්,
+
+...
+
+[Data](articles/1370aac1.json)
+
+---
 
 ### Duminda challenges Wijedasa’s appointment
 
@@ -49,6 +85,8 @@ The decision on whether the court will issue an enjoining order will be delivere
 ...
 
 [Data](articles/2f7606dd.json)
+
+[Extended Data](ext_articles/2f7606dd.ext.json)
 
 ---
 
@@ -196,19 +234,25 @@ Mumbai’s municipal corporation (BMC) said at least 75 injured people were take
 
 ---
 
-### கட்டிலுக்கு தவழ்ந்த கான்ஸ்டபிள் நீக்கம்
+### Deduction
 
 *2024-05-14 15:22:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டிலுக்கு-தவழ்ந்த-கான்ஸ்டபிள்-நீக்கம்/175-337300) · `ta`
 
-கொழும்பு, கரையோர பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்கும் விடுதிக்குள் நுழைந்து, அங்கிருந்த பெண் பொலிஸ் அதிகாரி ஒருவரை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றார் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட பொலிஸ் விசேட அதிரடி படையைச் சேர்ந்த கான்ஸ்டபிள் பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+A female police station in Colombo is suspended for allegedly attempting to rape a female officer. The STF's Senior Deputy Inspector General Varuna Jayasundara issued the directive, also suspending a constable involved in criminal activity.
 
-இதற்கான பணிப்புரையை சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர் சட்டத்தரணி  வருண ஜயசுந்தர  விடுத்துள்ளார்.
+🟩
 
-மாங்குளம்  முகாமில் கடமையாற்றும், கொழும்பு, கரையோர பொலிஸ் பிரிவில், குற்றவியல் நடவடிக்கை தொடர்பிலான பணிக்கு முன்னெடுப்பதற்காக, இணைக்கப்பட்டிருந்த கான்ஸ்டபிளே இவ்வாறு பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+A female police station belonging to the Special Task Force (STF) has been suspended for allegedly attempting to rape a female police officer at the coastal police station in Colombo.
+
+Senior Deputy Inspector General of Police Varuna Jayasundara has issued the directive.
+
+The connected constable has been suspended in the Mankulam Camp, in the Colombo and Coastal Police Division, to carry out a criminal activity.
 
 ◼️
 
 [Data](articles/032d84a9.json)
+
+[Extended Data](ext_articles/032d84a9.ext.json)
 
 ---
 
@@ -305,6 +349,18 @@ Accordingly, the process of placing employees at the NSB is currently underway.
 [Data](articles/c02d9c6c.json)
 
 [Extended Data](ext_articles/c02d9c6c.ext.json)
+
+---
+
+### සොරකම් නඩුවකට  පැමිණි පුද්ගලයෙක් නඩුව ඉවර වී යතුරු පැදියකුත් හොරකම් කරගෙනම ගිහින්
+
+*2024-05-14 14:50:36* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-නඩුවකට--පැමිණි-පුද්ගලයෙක්-නඩුව-ඉවර-වී-යතුරු-පැදියකුත්-හොරකම්-කරගෙනම-ගිහින්/11-409627) · `si`
+
+මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සොරකමක් සම්බන්ධව විභාග වෙමින් පවතින නඩුවකට පසුගියදා(11දා) පැමිණි සැකකරුවෙකු නඩුව අවසන් වී, නිවස වෙත යමින් සිටියදී, අධිකරණය අසල නිවසක නවතා තිබූ, යතුරුපැදියක් සොරකම් කරගෙන ගොස් තිබියදී අත් අඩංගුවට ගත්බව මැදවච්චිය පොලිසිය පවසයි.
+
+...
+
+[Data](articles/49be5d5c.json)
 
 ---
 
@@ -440,21 +496,27 @@ Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees
 
 ---
 
-### NSB வங்கி ஊழியர்களுக்கு VRS
+### Vrs for NSB Bank employees
 
 *2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS/175-337296) · `ta`
 
-2019 ஆம் ஆண்டு தேசிய சேமிப்பு வங்கியின் (NSB) கீழ் ஒருங்கிணைக்கப்பட்ட இலங்கை சேமிப்பு வங்கியின் ஊழியர்களுக்காக தன்னார்வ ஓய்வு திட்டம் (VRS) அறிமுகப்படுத்தப்படும்.
+The Volunteer Retirement Scheme (VRS) for NSB Bank employees, introduced in 2019, is a government initiative to merge the Sri Lanka Savings Bank with the National Savings Bank (NSB). This move aims to streamline operations and manage the transition effectively. The scheme, approved by President Ranil Wickremesinghe and the Cabinet, includes allowances based on market factors for volunteer employees.
 
-செயற்பாடுகளை நெறிப்படுத்துவதற்கும், மாற்றத்தை சீராக நிர்வகிப்பதற்கும், தேசிய சேமிப்பு வங்கியானது இலங்கை சேமிப்பு வங்கியின் சொத்துக்கள் மற்றும் பொறுப்புகள் இரண்டையும் உள்வாங்கும் என அரசாங்கம் தெரிவித்துள்ளது.
+🟩
 
-இதன்படி, நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சர் என்ற வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்மொழியப்பட்ட தன்னார்வ ஓய்வுத் திட்டம் அமைச்சரவையினால் அங்கீகரிக்கப்பட்டது.
+The Volunteer Retirement Scheme (VRS) will be introduced for employees of the Sri Lanka Savings Bank, which is coordinated under the National Savings Bank (NSB) in 2019.
 
-தானாக முன்வந்து ஓய்வுபெறும் ஊழியர்களுக்கு பல்வேறு சந்தை காரணிகளின் அடிப்படையில் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+The government has said that the National Savings Bank will take both the assets and responsibilities of the Sri Lanka Savings Bank to regulate the operations and to manage the change.
+
+Accordingly, as the Minister of Finance, Economic Strength and National Policies, the Volunteer Retirement Plan proposed by President Ranil Wickremesinghe was approved by the Cabinet.
+
+Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees will be given allowances on various market factors.
 
 ◼️
 
 [Data](articles/d4a9a851.json)
+
+[Extended Data](ext_articles/d4a9a851.ext.json)
 
 ---
 
@@ -1934,6 +1996,20 @@ If the symptoms of this situation continue, the expert emphasized the importance
 
 ---
 
+### තරුණයින් 11 දෙනෙකු පැහැරගෙන යාමේ නඩුව : වසන්ත කරන්නාගොඩට එරෙහි චෝදනා නොපවත්වාගෙන යාමට ගත්  තීරණයට සිදුවන්නේ කුමක්ද?
+
+*2024-05-14 10:34:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglvv267v4jo) · `si`
+
+තරුණයින් 11 දෙනෙකු පැහැරගෙන යාමේ නඩුව : වසන්ත කරන්නාගොඩට එරෙහි චෝදනා නොපවත්වාගෙන යාමට ගත්  තීරණයට සිදුවන්නේ කුමක්ද?
+
+2008 වසරේ කොළඹ හා තදාසන්න ප්‍රදේශවල වාසය කළ දමිළ හා මුස්ලිම් තරුණයින් 11 දෙනෙකු කප්පම් ලබා ගැනීමේ අරමුණින් පැහැර  ගෙන ගොස් පසුව අතුරුදන් කිරීමේ සිද්ධියේ විත්තිකරුවකු වශයෙන් හිටපු නාවික හමුදාපති  වසන්ත කරන්නාගොඩ නම් කළ හැකි බවට නීතිපතිවරු තුන්දෙනෙකුම තීරණය කර තිබිය දී, 2019 වසරෙන් පසුව වසන්ත කරන්නාගොඩට එරෙහිව අදාළ චෝදනා නොපවත්වාගෙන යාමට එවකට සිටි නීතිපතිවරයා කටයුතු කිරීම ගැටලු සහගත බවත් එම අතුරුදන් වූවන්ගේ ඥාතීන් වෙනුවෙන් පෙනී සිටි නීතිඥ නුවන් බෝපගේ මැයි 13 වෙනිදා අභියාචනාදීකරණය හමුවේ එම නඩුව කැඳවූ අවස්ථාවේ දී කරුණු දැක්වීමක් සිදු කළේය.
+
+...
+
+[Data](articles/7f74429d.json)
+
+---
+
 ### “All the promises are to deceive people”
 
 *2024-05-14 10:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குறுதிகள்-அனைத்தும்-மக்களை-ஏமாற்றுவதற்காகவே/175-337279) · `ta`
@@ -2187,95 +2263,5 @@ Two brothers, aged 18 and 23, who are also residents of Samagipura, have been ar
 [Data](articles/e374b36f.json)
 
 [Extended Data](ext_articles/e374b36f.ext.json)
-
----
-
-### The body of the missing person meets a well
-
-*2024-05-14 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196602) · `si`
-
-A body discovered in a well in Matugama, identified as a resident of Idugoda, Matugoda, was reported missing by police after vanishing yesterday evening.
-
-🟩
-
-A body found found in a well in Matugama, Matugama.
-
-It is revealed that the deceased is a resident of Idugoda, Matugoda.
-
-Police have lodged a complaint with the Matugama that he had disappeared from yesterday evening.
-
-◼️
-
-[Data](articles/778bd8d0.json)
-
-[Extended Data](ext_articles/778bd8d0.ext.json)
-
----
-
-### Lime prices up but cultivators incur losses
-
-*2024-05-14 09:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lime-prices-up-but-cultivators-incur-losses/108-282553) · `en`
-
-Farmers in the Anuradhapura District who cultivated lime are in a predicament for want of a remunerative market for their produce, while the price of lime has skyrocketed in urban areas due to the ongoing racket of the middleman.
-
-The National Consumers’ Organisation Asela Sampath told the media after attending a programme in Thalawa Divisional Secretariat that the farmers were being exploited by the racketeers who purchased their produce at very low prices.
-
-“The wholesale purchase price of lime in Anuradhapura area is Rs. 50.00 per kilo, but the current market price is Rs. 2,000. Farmers are not harvesting their yield to avoid heavy losses. The yield is left under the trees. Other agricultural produce face a similar fate. The current market price of ginger is Rs. 4,000. A mechanism should be worked out to preserve lime and other agricultural produce that are abundant during the harvesting season for the off-season market.
-
-...
-
-[Data](articles/6136b600.json)
-
-[Extended Data](ext_articles/6136b600.ext.json)
-
----
-
-### The possibility of increasing the rain
-
-*2024-05-14 09:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அதிகரிக்கக்-கூடிய-சாத்தியம்/175-337275) · `ta`
-
-Sri Lanka faces increased rain and thunderstorms, especially after 1 pm, with heavy rainfall in Central, Sabaragamuwa, Eastern, South, and Uva provinces. Coastal areas of Eastern and Southern Provinces may see morning rainfall. Snowfall is expected in the morning in Western, Sabaragamuwa, Central Provinces, and Galle and Matara districts. Thundershowers may affect upcoming areas, prompting caution against lightning impacts.
-
-🟩
-
-Due to the atmospheric conditions in the areas surrounding Sri Lanka, the rainy situation is likely to increase over the next few days.
-
-In most of the provinces of the country,. There is a possibility of rain or thunderstorms after 1 pm.
-
-Heavy rainfall is expected in some parts of the Central, Sabaragamuwa, Eastern, South and Uva provinces.
-
-In some parts of the coastal areas of the Eastern and Southern Provinces, there is expected rainfall in the morning.
-
-In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/cbfc3c4b.json)
-
-[Extended Data](ext_articles/cbfc3c4b.ext.json)
-
----
-
-### One dead, another injured as train hits hand tractor
-
-*2024-05-14 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99200/one-dead-another-injured-as-train-hits-hand-tractor-) · `en`
-
-One person has died and another sustained injuries in an accident where a hand tractor collided with a train at the Duwamodara railway crossing in Kosgoda.
-
-The accident had occurred last evening (13) involving an express train which was running from Matara to Maradana.
-
-The driver of the hand tractor, who was seriously injured in the accident, and another person who was traveling on it, were admitted to the Balapitiya hospital.
-
-However, the driver had succumbed to his injuries after admission to the hospital.
-
-The other injured person has been transferred to Karapitiya Hospital for further treatment, police said.
-
-◼️
-
-[Data](articles/4de89e08.json)
-
-[Extended Data](ext_articles/4de89e08.ext.json)
 
 ---

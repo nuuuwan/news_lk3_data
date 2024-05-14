@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 02:50:36**
+As of **2024-05-15 03:03:39**
 
 ## Newspaper Stats
 
-*Scraped **24,064** Articles*
+*Scraped **24,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,819
+tamilmirrorlk | 2,820
 virakesarilk | 3,615
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,063 (100.0%) of 24,064 articles have been extended.
+24,064 (100.0%) of 24,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ’பலஸ்தீன பேரழிவை ஊடகங்கள் மறைக்கின்றன’
+### தமிழர்களுக்கு இலங்கை என்ன செய்தது: சுமந்திரன் கேள்வி
+
+*2024-05-15 00:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-இலங்கை-என்ன-செய்தது-சுமந்திரன்-கேள்வி/175-337312) · `ta`
+
+பலஸ்தீனத்தில் நடக்கும் இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நடந்தது, ஆனால் பலஸ்தீனத்திற்காக குரல் கொடுக்கும் இலங்கை, தமிழர்களுக்கு என்ன செய்தது? இதுதான் இலங்கையின் நயவஞ்சக தன்மை மற்றும் இரட்டை வேடம் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் குற்றஞ்சாட்டினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18)  நடைபெற்ற பலஸ்தீனத்தில் இன்றைய நிலவரம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+பாலஸ்தீனத்தின் இன்றைய நிலைமை மிகவும் பாரதூரமானது. இந்த நிலைமையை யாரும் சாதாரணமாக கருதக் கூடாது. இந்நிலையில் இந்த பாராளுமன்றத்தில் இருதலைப்பட்சமாக நடந்துகொள்பவர்களும் இருக்கின்றனர். அவர்களின் செயற்பாடு நயவஞ்சகமானது என்றார்.
+
+மனித உரிமைகள், சர்வதேச மனித உரிமை சட்டங்கள், இனப்படுகொலை உள்ளிட்ட சர்வதேச குற்றங்கள் தொடர்பில் அவர்கள் பேசுகின்றனர். ஒரு நாட்டுக்குள் இடம்பெற்ற பயங்கரவாத நடவடிக்கைகள் தொடர்பில் குறிப்பிட்டு பலஸ்தீன நிலைமை குறித்து பேசுகின்றனர்.
+
+...
+
+[Data](articles/24dfd5d7.json)
+
+---
+
+### The media hides the Palestinian disaster
 
 *2024-05-15 00:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-பேரழிவை-ஊடகங்கள்-மறைக்கின்றன/175-337311) · `ta`
 
-பலஸ்தீன மண்ணில் ஆறு மாதங்களுக்கும் மேலாக நடத்தப்பட்டு வரும் இனப்படுகொலைகள் மற்றும் பேரழிவை உலகின் பலம் வாய்ந்த ஊடகங்களும், நமது நாட்டின் சில பலம் வாய்ந்த ஊடகங்களும் மூடி மறைத்து வருவதாக ஐக்கிய மக்கள் சக்தி எம்.பி.யான இம்தியாஸ் பாக்கீர் மாக்கார் தெரிவித்தார்.
+Imtiaz Pakir Makar accuses media of covering up the Palestinian crisis, likening it to the apartheid era. He criticizes the media for not exposing the ongoing disaster in Palestine, despite social media revealing some truths. Last week, the UN granted Palestine full membership, despite threats from Israel to cut US aid to the UN. This move was supported by 143 countries, with only nine, including the US and Israel, opposing it. Makar highlights the ongoing challenges to international justice and human rights.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற பலஸ்தீனத்தின் இன்றைய  நிலை தொடர்பாகன  சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-தென்னாப்பிரிக்க நிறவெறி ஆட்சியை காப்பாற்றிய சக்திகள், அதேபாணியில் இன்றும் பலஸ்தீன மண்ணில் நடக்கும் அநீதி, அடக்குமுறைகளை மூடி மறைத்து, உலக மக்கள் ஆணைக்கு எதிராக சென்று, பிரிவினைவாத, மனிதாபிமானமற்ற ஆட்சிக்கு அடைக்கலம் கொடுக்க முயல்கின்றன.
+United People's Power MP Imtiaz Pakir Makar said that the genocide and disaster that has been carried out on Palestinian soil for more than six months, the world's mighty media and some of our country's mighty media are covering up.
 
-பலம் வாய்ந்த ஊடகங்களும் மூடி மறைத்து வந்தாலும், சமூக ஊடகங்கள் வாயிலாக பாலஸ்தீனத்தின் யதார்த்தம் ஏறக்குறைய சமூகத்திற்கு அம்பலமானது.
+He said this while addressing the debate on the proposal on the present stage of Palestine in Parliament on Tuesday (14).
+
+The forces that saved the South African apartheid regime, in the same manner, are still trying to cover up the injustice and repression of Palestinian soil, and go against the mandate of the people of the world, and seek refuge for the separatist and inhumane rule.
+
+Although the mighty media is covered, the reality of Palestine is almost exposed to the community through social media.
 
 ...
 
 [Data](articles/bfb59356.json)
+
+[Extended Data](ext_articles/bfb59356.ext.json)
 
 ---
 
@@ -2337,33 +2361,5 @@ The amendment of the Information and Communication Technology Act was necessary 
 [Data](articles/91178517.json)
 
 [Extended Data](ext_articles/91178517.ext.json)
-
----
-
-### The government's aim is to stop the commemoration of violence and violence during the final period of the war - Ambika Sakkunanathan
-
-*2024-05-14 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183516) · `ta`
-
-The Sri Lankan government aims to halt commemorations of the final war period, particularly the Mullivaikkal event, which is seen as a reminder of the LTTE. Initially, the ban was justified by disease prevention, but it's now clear the government seeks to erase references to the LTTE and the violence of the war's end. Despite this, the Human Rights Commission intervened to allow the event in Batticaloa, highlighting the government's changing justifications for the ban.
-
-🟩
-
-Former Commissioner of the Sri Lanka Rights Commission, Ambika Sakthkunanathan, said that the government's continued actions and reasons for the prohibition of the Mullivaikkal porridge are clearly revealed that the government's aim is to stop the references and violence in the final periods of Sri Lanka's civil war.
-
-As far as the government is concerned, the Liberation Tigers of Tamil Eelam (LTTE) is refreshing to recall on May 18.
-
-The reasons for the ban on the events have been changed from preventing the spread of the disease from the prevention of the Liberation Tigers of Tamil Eelam (LTTE).
-
-In the last days of the war, the government's aim of the government is to stop commemoration of violence and violence.
-
-According to reports, people in Batticaloa this morning have blocked the transport of Mullivaikkal porridge.
-
-They have been granted permission only after the intervention of the Human Rights Commission of Sri Lanka has intervened.
-
-◼️
-
-[Data](articles/fec1e5b4.json)
-
-[Extended Data](ext_articles/fec1e5b4.ext.json)
 
 ---

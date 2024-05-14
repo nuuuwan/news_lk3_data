@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 00:04:58**
+As of **2024-05-15 00:18:26**
 
 ## Newspaper Stats
 
-*Scraped **24,051** Articles*
+*Scraped **24,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,815
+tamilmirrorlk | 2,817
 virakesarilk | 3,609
 dailymirrorlk | 3,784
 adaderanasinhalalk | 3,851
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,051 (100.0%) of 24,051 articles have been extended.
+24,051 (100.0%) of 24,053 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-15 (Wednesday)
+
+### விஜயதாசவுக்கு எதிராக வழக்கு
+
+*2024-05-15 00:00:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாசவுக்கு-எதிராக-வழக்கு/175-337309) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தவிசாளராக அமைச்சர் விஜதாச ராஜபக்ஷ செயற்படுவதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கோரி பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க, கொழும்பு மாவட்ட நீதிமன்றத்தில் செவ்வாய்க்கிழமை (14) வழக்குத் தாக்கல் செய்தார்.
+
+அந்த மனுவில் சரத் ஏக்கநாயக்க, அமைச்சர் விஜதாச ராஜபக்ஷ உள்ளிட்ட ஐவர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/839c5339.json)
+
+---
+
 ### 2024-05-14 (Tuesday)
+
+### தனிமையில் சென்ற சிறுமி கூட்டுப் பாலியல் துஷ்பிரயோகம்
+
+*2024-05-14 23:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-சென்ற-சிறுமி-கூட்டுப்-பாலியல்-துஷ்பிரயோகம்/175-337308) · `ta`
+
+மட்டக்களப்பு - வெல்லாவெளி பிரதேசத்தில் தனிமையில் வீதியில் சென்ற  15 வயது சிறுமியை கடத்திச் சென்று காட்டுப்பகுதியில் வைத்து பாலியல் துஷ்பிரயோகம் மேற்கொண்ட இளைஞர்கள் இருவரை நேற்று (13) இரவு கைது செய்துள்ளதாக வெல்லாவெளி பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பிரதேசத்தைச் சோந்த 15 வயது சிறுமி கடந்த 7ம் திகதி தனது வீட்டில் இருந்து அம்மம்மா வீட்டிற்கு சென்று அங்கிருந்து தனிமையில் திரும்பிக் கொண்டிருந்தபோது காட்டுப்பகுதியை அண்டிய பகுதியில் வைத்தி சிறுமியை இரு இளைஞர்கள் கடத்திச் சென்று பாலியல் துஸ்பிரயோகம் செய்துள்ளனர்.
+
+இது தொடர்பாக பாதிக்கப்பட்ட சிறுமி பெற்றோரிடம் தெரிவித்ததையடுத்து பொலிஸ் நிலையத்தில் நேற்று செய்த முறைப்பாட்டையடுத்து அந்த பகுதியைச் சேர்ந்த 26, 21 வயதுடைய இரு இளைஞர்களை கைது செய்ததுடன் பாதிக்கப்பட்ட சிறுமியை வைத்தியசாலையில் அனுமதித்தனர்.
+
+இதில் கைது செய்தவர்களை நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிசார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/58b335b6.json)
+
+---
 
 ### Murder of female;The corpse that was available after 4 years
 
@@ -2289,55 +2323,5 @@ Taking these facts into account, it has been identified that it is appropriate t
 [Data](articles/14a5eb2e.json)
 
 [Extended Data](ext_articles/14a5eb2e.ext.json)
-
----
-
-### The country is crying on a little consecutive journey
-
-*2024-05-14 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196613) · `si`
-
-Pediatrician Deepal Perera warns that 3% to 15% of children may suffer from heart and nervous system damage due to electric shocks. A tragic case involves a pre-school girl electrocuted by an unprotected power supply, highlighting the danger of electric hazards. Adults must educate children about the risks to prevent such incidents.
-
-🟩
-
-Pediatrician Deepal Perera says that between 3% to 15% can result in childhood due to electric weapons.
-
-"3% to 15% of 15% of the electric web. Could have a effect on the heart. Brain can influence. That means the nervous system may be damaged. Hearts speed can change. We say the Agrayas. Such things may happen. Feeling, unconscious, can happen, and even deaths. So this is very dangerous. If that happens, it is our duty to prevent it soon to take it to a hospital. "
-
-Meanwhile, a pre-school daughter of the Munune, Mugagonne, was also killed and a pre-school daughter of Mugagonne.
-
-The police said that a wife was about three and a half years old.
-
-A pre-school daughter of the Munune, Mugagon, has died of electricity to the mobile phone and watching it.
-
-The girl had gone back to the pre-school and was watching a mobile phone that had been attributed to the house.
-
-...
-
-[Data](articles/3238b862.json)
-
-[Extended Data](ext_articles/3238b862.ext.json)
-
----
-
-### Decision to cancel nominations in the local government election?
-
-*2024-05-14 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196612) · `si`
-
-Minister Bandula Gunawardena announced the cancellation of local government election nominations after a Cabinet Meeting. The decision was made to facilitate discussions with relevant parties for a partnership in the coming year. The move aims to address issues faced by government officials and other parties, with the intention to hold provincial council elections next year.
-
-🟩
-
-Minister Bandula Gunawardena said that the Cabinet Meeting held at the Cabinet Meeting held yesterday (13) to cancel nominations for the local government elections.
-
-He said that the President informed the Prime Minister to start a conversation with the relevant parties to hold a discussion with the partnership with the relevant parties in the coming year.
-
-"The government officials informed the Prime Minister and who accepted the nomination of the nominal nominations and knows their jobs and other parties in other difficulties in other difficulties and other parties.Finish the nomination of local government polls. That means it cancel it. Second, he said that the provincial council elections were held in the next year to be held in the next year, the provincial council election was held in the next year to begin a collateral and the party leaders. "
-
-◼️
-
-[Data](articles/6e3e2b57.json)
-
-[Extended Data](ext_articles/6e3e2b57.ext.json)
 
 ---

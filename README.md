@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 01:33:55**
+As of **2024-05-15 01:52:28**
 
 ## Newspaper Stats
 
-*Scraped **24,062** Articles*
+*Scraped **24,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,817
+tamilmirrorlk | 2,818
 virakesarilk | 3,615
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,062 (100.0%) of 24,062 articles have been extended.
+24,062 (100.0%) of 24,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### அச்சுறுத்தல்களுக்கு மத்தியில், முள்ளிவாய்க்கால் கஞ்சி
+
+*2024-05-15 00:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அச்சுறுத்தல்களுக்கு-மத்தியில்-முள்ளிவாய்க்கால்-கஞ்சி/175-337310) · `ta`
+
+மட்டக்களப்பில், முள்ளிவாய்க்கால் கஞ்சி வழங்கும் நிகழ்வு, பொலிஸாரின் கடுமையான தடைகளையும் மீறி, பல்வேறு அச்சுறுத்தல்களுக்கு மத்தியில், செவ்வாய்க்கிழமை (14) விநியோகிக்கப்பட்டது.
+
+கஞ்சி வாரத்தின் 3 நாள் கஞ்சி வழங்கும் நிகழ்வு   செவ்வாய்க்கிழமை (14) இடம்பெற்றது.  அதில்,  பங்குபற்ற சென்ற தமிழ்  தேசிய மக்கள் முன்னணி கட்சியின் தேசிய அமைப்பாளரை பங்கு கொள்ள விடாது பொலிஸார் விரட்டியடித்தனர்.
+
+தமிழன அழிப்பின் கஞ்சிவாரத்தையிட்டு மட்டக்களப்பு நகர் சுமைதாங்கி சந்தியிலுள்ள விநாயர் ஆலைய முன்றலில், வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத்தின் ஏற்பாட்டில்    கஞ்சி வழங்க ஏற்பாடு செய்யப்பட்டது.
+
+அதில், முன்னாள் பாராளுமன்ற உறுப்பினர் ஞா.சிறிநேசன், வலிந்துகாணாமல் ஆக்கப்பட்ட உறவினர்கள், மனித உரிமை செயற்பாட்டாளர் லவக்குமார் உட்பட பலர் கலந்து கொண்டு கஞ்சி காய்ச்சும் நடவடிக்கையினை முன்னெடுத்தனர்.
+
+இதன்போது,  பொது சுகாதார பரிசோதகர்களுடன் அங்கு சென்ற பொலிஸார்,   முகக்கவசம், தலைக்கவசம், கையுறை பாவிக்கவேண்டும் சுகாதாரமாக காய்ச்சவேண்டும் என பல்வேறு நெருக்கடிகளை கொடுத்து கஞ்சியை காய்ச்சவிடாது தடைகளை ஏற்படுத்தினர்.
+
+...
+
+[Data](articles/8e1b7a2d.json)
+
+---
 
 ### Lankan mercenaries fighting in Russo-Ukraine war - EDITORIAL
 
@@ -2341,29 +2361,5 @@ Keheliya Rambukwella has called for the ban to prevent him from taking steps to 
 [Data](articles/0aecbe1d.json)
 
 [Extended Data](ext_articles/0aecbe1d.ext.json)
-
----
-
-### Amendment to the military -providing system of state land for the military
-
-*2024-05-14 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183512) · `ta`
-
-The Sri Lankan Cabinet has approved amendments to the system for providing state land to the military, aiming to address issues with the current mechanism. The changes include setting a timeframe for land allocation to the Sri Lanka Police and Civil Defense Department, addressing the inadequacies in the military's concessions, and ensuring the economic value of the land is fully realized. The Cabinet has also authorized the necessary revisions to the existing mechanism to resolve ongoing problems.
-
-🟩
-
-The Cabinet has approved the idea of amendments to the mechanism adopted in order to avoid issues of implementing state land projects for the residence of the military.
-
-According to the Cabinet approval of the Cabinet Commissioner, the Cabinet Commissioner of Cabinet has issued a period of time when the land is to be adhered to when the state lands are supplied to the military of the Sri Lanka Police and Civil Defense Department for the Army of the Sri Lankan Police and Civil Defense Department.
-
-Under a system of recognized, the military's concessions are inadequate inadequate, and it has been monitored that the real economic values are not taken in the land due to the limits found in conditional documents for the land that is experienced.
-
-The Cabinet has approved the proposal submitted by the President to carry out the necessary steps to revise the existing mechanism that includes solutions to the problems that are currently being adhered to when the land is provided to the military.
-
-◼️
-
-[Data](articles/176bc7a9.json)
-
-[Extended Data](ext_articles/176bc7a9.ext.json)
 
 ---

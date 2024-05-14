@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 00:49:07**
+As of **2024-05-15 01:03:25**
 
 ## Newspaper Stats
 
-*Scraped **24,053** Articles*
+*Scraped **24,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
 tamilmirrorlk | 2,817
-virakesarilk | 3,609
-dailymirrorlk | 3,784
+virakesarilk | 3,615
+dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,053 (100.0%) of 24,053 articles have been extended.
+24,053 (100.0%) of 24,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Lankan mercenaries fighting in Russo-Ukraine war - EDITORIAL
+
+*2024-05-15 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lankan-mercenaries-fighting-in-Russo-Ukraine-war-EDITORIAL/172-282591) · `en`
+
+Media reports have been circulating of Sri Lankan ex-military personnel being involved in the Russo-Ukraine conflict. With the war raging in Ukraine, many Ukrainian males of military age have fled to neighbouring EU countries to avoid military service. It should not be unexpected that recruiters would seek battle-hardened military men from foreign lands.
+
+Our country with a large number of battle-hardened troops either idling in camps or having deserted military service is therefore a soft target for foreign recruiters. All they needed were locals with insider knowledge and capacity to help them recruit.
+
+According to media reports a former Major General and an ex-sergeant have been among their local point men.
+
+In the aftermath of the war, former veterans have had all their special allowances cut. They now depend on their basic wage.
+
+...
+
+[Data](articles/fd39d0d0.json)
+
+---
+
+### Last throes of dynastic enterprise: Rajapaksa plots to stall recovery after ruining economy
+
+*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Last-throes-of-dynastic-enterprise-Rajapaksa-plots-to-stall-recovery-after-ruining-economy/172-282590) · `en`
+
+Mahinda Rajapaksa thrives in a sense of inviolability and a culture of  impunity fostered by the very system that sustains their political  existence.
+
+Like the rest of his ilk in this part of the world, Mahinda Rajapaksa overstayed his welcome in the power. He ran the economy to the ground as he did with the national carrier, which he re-nationalized out of a fit of rage after its Emirates management refused to deplane fee-levying passengers to make room for his entourage.
+
+He tried on a dynastic power grab that went spectacularly wrong, ending in the worst-ever financial crisis since the independence.
+
+But, like every crook and conman in Third World politics,  Mahinda Rajapaksa thrives in a sense of inviolability and a culture of impunity fostered by the very system that sustains their political existence.
+
+...
+
+[Data](articles/548cc979.json)
+
+---
+
+### Expressway beam COLLAPSE causes Rs 66 ML loss  to Govt.
+
+*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Expressway-beam-COLLAPSE-causes-Rs-66-ML-loss-to-Govt/172-282592) · `en`
+
+The picture shows one of the beams of the highway after it collapsed
+
+The construction of the phase from Kottawa to Pinnaduwa- of the project titled ‘Expressway Network of Sri Lanka’- was completed in 2011. During its construction, a medical student died as a result of a minor collapse of a bridge on the expressway in 2008. This incident sparked widespread concern regarding the quality and reliability of this expressway facility. Although the concept of expressways was relatively new to Sri Lankans at that time, there was significant discourse regarding passenger safety; particularly in the event of a bridge or culvert falls apart while the facility is being used for travel. Investigations later confirmed that the cause of the collapse was the improper construction of the bridge.
+
+The other beams at a 45 degree angle are unaffected by the collapse of one beam
+
+...
+
+[Data](articles/84b8c049.json)
+
+---
 
 ### Case against Vijayadasa
 
@@ -166,6 +218,24 @@ It is also reported that the rainy drainage systems that drain is blocked due to
 
 ---
 
+### கல்முனை வடக்கு உப பிரதேச செயலக பிரச்சினைக்கு சுமந்திரன் எம்.பியே  காரணம் - ஹரீஸ் எம்.பி
+
+*2024-05-14 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183561) · `ta`
+
+கல்முனை வடக்கு உப பிரதேச செயலக பிரச்சினைக்கு சுமந்திரன் எம்.பி.தான் காரணம். அவர் உயர் நீதிமன்றத்தில் தொடுத்த வழக்கினாலே இந்தப்பிரச்சினை ஏற்பட்டுள்ளது என எதிர்க்கட்சி எம்.பி.எச்.எம்.எம். ஹரீஸ் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் கலந்துகாெண்டு உரையாற்றுகையிலேயே   இவ்வாறு தெரிவித்தார்.
+
+அம்பாறை மாவட்ட அரச அதிபர்  தமிழர்களுக்கு எதிரானவர் என்ற கருத்தை  கடந்த பாராளுமன்ற அமர்வில் பேசிய யாழ் எம்.பி.யான கஜேந்திரன் முன்வைத்தார்.கல்முனை வடக்கு பிரதேச செயலகத்திற்கு எதிராக அவர் செயற்படுவதாகவும்  குற்றம்சாட்டினார். அதனை நான்  நிராகரிக்கின்றேன்.
+
+அம்பாறை மாவட்ட அரச அதிபர் தமிழ்,முஸ்லிம், சிங்களவர் என்ற பேதம் பாராமல் செயற்படும் ஒருவர். அவர் அங்கு சிறந்த சேவையை வழங்குகின்றார். அவர் ஒரு அரச அதிகாரி. சட்டத்துக்  குட்பட்டுத்தான் செயற்பட முடியும். யாழ்ப்பாணத்தை  சேர்ந்த கஜேந்திரன் எம்.பிக்கு அம்பாறை மாவட்டம் பற்றியோ கல்முனை பற்றியோ எதுவுமே தெரியாது.
+
+...
+
+[Data](articles/1731ea49.json)
+
+---
+
 ### Top diplomat reveals the biggest support US can extend to Sri Lanka at this moment
 
 *2024-05-14 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99220/top-diplomat-reveals-the-biggest-support-us-can-extend-to-sri-lanka-atthismoment) · `en`
@@ -203,6 +273,22 @@ Also, it states that the turbulent nature developing in the lower atmosphere nea
 [Data](articles/89a09129.json)
 
 [Extended Data](ext_articles/89a09129.ext.json)
+
+---
+
+### தமிழீழம் தோற்றம் பெற்றிருந்தால் காஸாவின் நிலை எமக்கு ஏற்பட்டிருக்கும் - விமல் வீரவன்ச
+
+*2024-05-14 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183560) · `ta`
+
+விடுதலை புலிகளுடனான யுத்தம் முடிவுக்கு கொண்டு வராமலிருந்தால்  தென்னாசியாவில் தமிழீழம் தோற்றம் பெற்றிருக்கும்.அது இஸ்ரேல் போல் மாற்றமடைந்திருக்கும்,காஸாவின் இன்றைய நிலை எமக்கு ஏற்பட்டிருக்கும். இஸ்ரேலுக்கு ஆயுதத்தை வழங்கி விட்டு யுத்தத்தை முடிவுக்கு கொண்டு வருமாறு அமெரிக்கா முதலை கண்ணீர் வடிக்கிறது என தேசிய சுதந்திர முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இஸ்ரேலின் மனிதாபிமானமற்ற தாக்குதலினால் பலஸ்தீனர்கள் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள்.பலஸ்தீனர்களின்  இன்றைய நிலை குறித்து நாங்கள் கவலையடைகிறோம்.பலஸ்தீனர்கள் இன்று எதிர்கொண்டுள்ள நிலைமைக்கும்,இலங்கையின் நிலைமைக்கும் இடையில் பரஸ்பர ஒற்றுமை காணப்படுகிறது.
+
+...
+
+[Data](articles/040563e4.json)
 
 ---
 
@@ -293,6 +379,20 @@ The Railway Control Room notes that this situation has been emerged due to a sig
 [Data](articles/cf1afee5.json)
 
 [Extended Data](ext_articles/cf1afee5.ext.json)
+
+---
+
+### கடந்தகால ஜனாதிபதி தேர்தல்களில் தமிழர்களும் முஸ்லிம்களும் வாக்களித்த போக்குகள்
+
+*2024-05-14 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183559) · `ta`
+
+2024 ஜனாதிபதி தேர்தல் எதிர்வரும் செப்டெம்பர் 17 ஆம் திகதிக்கும்  அக்டோபர் 16 ஆம் திகதிக்கும் இடைப்பட்ட ஒரு திகதியால் நடத்தப்படும் என்று இலங்கை தேர்தல்கள் ஆணைக்குழு கடந்தவாரம் அறிவித்தது. ஏற்கெனவே தெரிந்த விடயத்தையே தேர்தல்கள் ஆணைக்குழு திரும்பக் கூறியிருக்கிறது. பிரத்தியேகமான திகதி ஒன்று அறிவிக்கப்படவில்லை என்றபோதிலும், தேர்தல் செப்டெம்பர் பிற்பகுதியில் அல்லது அக்டோபர் முற்பகுதியில் நடத்தப்படக்கூடிய சாத்தியம் இருக்கிறது.
+
+கடந்த காலத்தைப் போன்று ஜனாதிபதி பதவிக்கு பலர் போட்டியிடுவார்கள். சிலர் தேர்தலில் போட்டியிடும் தமது விருப்பத்தை வெளிப்படையாகக் கூறியிருக்கின்ற அதேவேளை, போட்டியிடக்கூடிய மற்றையவர்களின் பெயர்கள் ஊடகங்களில் வெளியாகின்றன.  ஆனால், வெற்றி வாய்ப்பைக் கொண்ட பிரதான போட்டியாளர்களாக மூவர் மாத்திரமே இருக்கின்றனர். தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி. ) / தேசிய மக்கள் சக்தியின் தலைவர் அநுரா குமாரதிசாநாயக்கவுமே அவர்கள்.
+
+...
+
+[Data](articles/1f31ffd4.json)
 
 ---
 
@@ -1514,6 +1614,44 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 
 ---
 
+### இலங்கை தொலைத்தொடர்புகள் திருத்த சட்டமூலத்தை வாபஸ் பெறவேண்டும் -    எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் கோரிக்கை
+
+*2024-05-14 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183531) · `ta`
+
+இலங்கை தொலைத் தொடர்புகள் திருத்த சட்டமூலத்தால் ஊடக சுதந்திரத்துக்கு பாதிப்பு ஏற்படும் அபாயம் இருக்கிறது. அதனால் இந்த சட்டமூலத்தை அரசாங்கம் வாபஸ் பெற்றுக்கொள்ள வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+மக்களின் கருத்துகளை போதியளவு ஆராயாமல் இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டத்தை பாராளுமன்றத்தில் சமர்ப்பித்துள்ளீர்கள்.
+
+இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டம் தொடர்பில் பலர் குற்றச்சாட்டுக்களை முன்வைக்கின்றனர்.  இந்த வரைவில் சுதந்திர ஊடகத்திற்கு பாதகம் விளைவிக்கும் பல முன்மொழிவுகள் உள்ளன.
+
+போதியளவு மக்கள் மத்தியில் கலந்தாலோசிக்காமல், ஏனைய தரப்பினரின் கருத்துக்களை கேட்டறியாமல் இந்த திருத்த சட்டமூலம் சமர்ப்பிக்கப்பட்டிருக்கிறது.
+
+இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டத்தில் சுதந்திர ஊடகத்திற்கு  பாதகமான பல ஷரத்துகள்  உள்ளடக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/8067f809.json)
+
+---
+
+### நெதன்யாகுவை பயங்கரவாதி என்று  குறிப்பிடுவதை தவிர்க்க முடியாது - டிலான் பெரேரா
+
+*2024-05-14 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183528) · `ta`
+
+பலஸ்தீனர்களுக்கு இலங்கை தனது ஒத்துழைப்பை வழங்க வேண்டும்.சர்வதேச யுத்த கோட்பாடுகளை இஸ்ரேல் கடைப்பிடிக்கும் வரை இஸ்ரேலுக்கு தொழில் வாய்ப்புகளுக்காக இலங்கையர்களை அனுப்புதை தற்காலிகமாக இடைநிறுத்த வேண்டும்.
+
+இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவை  பயங்கரவாதி என்று குறிப்பிடுவதை தவிர்க்க முடியாது என பாராளுமன்ற உறுப்பினர்  டிலான் பெரேரா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2024 ஆம் ஆண்டு வரவு செலவு திட்டத்தின் போது  பலஸ்தீனர்களுக்கு ஆதரவு வழங்கும் வகையில்  சால்வை அணிந்து சபைக்கு வருகை தந்தேன்.அப்போது ஒருசிலர் என்னை பார்த்து 'டிலான் சிங்கள தம்பியா' என்று குறிப்பிட்டார்கள்.கடந்த காலங்களில் தமிழர்களின் உரிமைகளுக்காக பேசி போது' டிலான் கொடியா' என்றும் ஒருசிலர்  என்னை விமர்சித்தார்கள்.
+
+...
+
+[Data](articles/36fbe19d.json)
+
+---
+
 ### Israeli attack on refugee in Gaza
 
 *2024-05-14 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183532) · `ta`
@@ -1723,6 +1861,24 @@ Are the liquor -licenses, the types of taxes and the taxes that the companies pa
 [Data](articles/0402fc62.json)
 
 [Extended Data](ext_articles/0402fc62.ext.json)
+
+---
+
+### பலஸ்தீனத்தில் இடம்பெறும்  இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நேர்ந்தது : இலங்கையின் நயவஞ்சகம் வெறுக்கத்தக்கது - சுமந்திரன்
+
+*2024-05-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183521) · `ta`
+
+பலஸ்தீனத்தில் இடம்பெறும்  இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நேர்ந்தது.  பலஸ்தீனத்திற்கு குரல் கொடுக்கும் இலங்கை, தமிழர்களுக்கு என்ன செய்தது? இதுதான் இலங்கையின் நயவஞ்சக தன்மை மற்றும் இரட்டை வேடம். பாலஸ்தீனத்தின் மீது அக்கறை கொண்டுள்ளீர்கள். அந்த அக்கறை எங்கள் மக்கள் மீது இல்லையா? என்று கேட்கின்றேன்.
+
+பலஸ்தீன விடயத்தில் சர்வதேச குற்றவியல் நீதிமன்றம் தொடர்பிலும், சர்வதேச தலையீடு அவசியம் என்றும் கூறும் இலங்கை எமது மக்கள் மீது கட்டவிழ்த்துவிடப்பட்ட நடவடிக்கைகள் தொடர்பில் கூறும் போது உள்ளக விவகாரம் என்று  கூறுவது ஏன் ?  என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் சபையில் கேள்வி எழுப்பினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பலஸ்தீனத்தின் இன்றைய நிலைமை மிகவும் பாரதூரமானதுடன்,கவலைக்குரியது . இந்த நிலைமையை எவரும் அலட்சியப்படுத்தகூடாது.
+
+...
+
+[Data](articles/7c81f764.json)
 
 ---
 
@@ -2131,209 +2287,5 @@ The Cabinet has approved the proposal submitted by the President to carry out th
 [Data](articles/176bc7a9.json)
 
 [Extended Data](ext_articles/176bc7a9.ext.json)
-
----
-
-### Dinesh Schaffter’s family appeals to return mobile phones obtained as evidence
-
-*2024-05-14 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99211/dinesh-schaffters-family-appeals-to-return-mobile-phones-obtained-as-evidence) · `en`
-
-The Colombo Magistrate’s Court today (14) ordered the Criminal Investigations Department (CID) to submit a report pertaining to the progress of investigations into the death of the renowned businessman Dinesh Schaffter on July 23, 2024.
-
-This case was taken up before Colombo Additional Magistrate Harshana Kekunawela this morning (14).
-
-However, the CID informed the court that further investigations are underway regarding the relevant incident.
-
-Meanwhile, the attorneys representing the aggrieved party stated before the court that the mobile phones that have been taken into custody by the police contain confidential information such as pictures of the deceased’s wife and children, and therefore requested that an order be issued to allow the victim’s family to retrieve the mobile phones.
-
-...
-
-[Data](articles/bed1ada5.json)
-
-[Extended Data](ext_articles/bed1ada5.ext.json)
-
----
-
-### VRS will be introduced to NSB Bank employees
-
-*2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS-அறிமுகப்படுத்தப்படும்/175-337296) · `ta`
-
-The Volunteer Retirement Scheme (VRS) is introduced for NSB Bank employees, with the government transferring Sri Lanka Savings Bank's assets and responsibilities to NSB for regulation and management. This move, approved by President Ranil Wickremesinghe and the Cabinet, includes allowances for volunteer employees based on market factors.
-
-🟩
-
-The Volunteer Retirement Scheme (VRS) will be introduced for employees of the Sri Lanka Savings Bank, which is coordinated under the National Savings Bank (NSB) in 2019.
-
-The government has said that the National Savings Bank will take both the assets and responsibilities of the Sri Lanka Savings Bank to regulate the operations and to manage the change.
-
-Accordingly, as the Minister of Finance, Economic Strength and National Policies, the Volunteer Retirement Plan proposed by President Ranil Wickremesinghe was approved by the Cabinet.
-
-Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees will be given allowances on various market factors.
-
-◼️
-
-[Data](articles/9f1468e9.json)
-
-[Extended Data](ext_articles/9f1468e9.ext.json)
-
----
-
-### Vrs for NSB Bank employees
-
-*2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS/175-337296) · `ta`
-
-The Volunteer Retirement Scheme (VRS) for NSB Bank employees, introduced in 2019, is a government initiative to merge the Sri Lanka Savings Bank with the National Savings Bank (NSB). This move aims to streamline operations and manage the transition effectively. The scheme, approved by President Ranil Wickremesinghe and the Cabinet, includes allowances based on market factors for volunteer employees.
-
-🟩
-
-The Volunteer Retirement Scheme (VRS) will be introduced for employees of the Sri Lanka Savings Bank, which is coordinated under the National Savings Bank (NSB) in 2019.
-
-The government has said that the National Savings Bank will take both the assets and responsibilities of the Sri Lanka Savings Bank to regulate the operations and to manage the change.
-
-Accordingly, as the Minister of Finance, Economic Strength and National Policies, the Volunteer Retirement Plan proposed by President Ranil Wickremesinghe was approved by the Cabinet.
-
-Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees will be given allowances on various market factors.
-
-◼️
-
-[Data](articles/d4a9a851.json)
-
-[Extended Data](ext_articles/d4a9a851.ext.json)
-
----
-
-### Preventing Memorial Reconciliation. Chandrakumar
-
-*2024-05-14 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183508) · `ta`
-
-Chandrakumar criticizes the Sri Lankan government for failing to facilitate ethnic reconciliation, essential for transitional justice. He highlights the inability of the Tamil community to commemorate their losses due to the government's lack of support, emphasizing the need for justice and harmony to achieve sustainable peace.
-
-🟩
-
-Commemoration is the most important part of the transitional justice mechanism carried out with the participation of the international. Therefore, the Tamil people are unable to carry out that commemoration, the government and its structure, the death of the country, the death of the country's reconciliation, the former MP and the General Secretary of the Equality Party.. Chandrakumar said.
-
-In the final war in 2009, a large number of people were killed and the Tamil people in Sri Lanka were unable to recall themselves and recall themselves.. The actions of the Tamil people are being carried out in the position of justice to the North to the North.
-
-The government that is supposed to bring harmony between ethnicity on this small island does not cause harmony between the ethnicities.
-
-He said that when there was no reconciliation between the ethnic cleansing, there would be no sustainable peace in Sri Lanka.
-
-...
-
-[Data](articles/6ce8d96c.json)
-
-[Extended Data](ext_articles/6ce8d96c.ext.json)
-
----
-
-### Creative, League
-
-*2024-05-14 14:09:48* · [`adalk`](https://www.ada.lk/breaking_news/නිර්මාණශීලීබව---ඉවසීම-ලැබෙන-වෙසක්-කූඩුව/11-409626) · `si`
-
-Vesak lantern manufacturers face challenges selling locally made lanterns due to competition from imported ones. They emphasize the need for creativity, patience, and understanding to compete. Despite this, they express a lack of knowledge and creativity among adults to innovate and improve their products. They call for government intervention to support local lantern industries.
-
-🟩
-
-Vesak cages manufacturers say that it has difficulty selling the products of local lanterns, creating creativity, patience, and understanding because of the vessel soldiers sold in the country.
-
-Wesak celebrations are not able to obtain the knowledge, creativity, creative and adults to improve the flu and creative creation by creating the west of wescs.He pointed out.
-
-They were asked to stop the required governmental authorities to stop the necessary lantern. (Ij)
-
-◼️
-
-[Data](articles/09a1db9e.json)
-
-[Extended Data](ext_articles/09a1db9e.ext.json)
-
----
-
-### Tamil politicians announcements after gazette notification…!
-
-*2024-05-14 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183510) · `ta`
-
-After the gazette notification for plantation workers' salary increase, politicians like Vadivel Suresh and Manusha Nanayakkara made public statements, with Suresh threatening companies and advocating for immediate implementation. The Labor Minister and others urged companies to discuss salary issues and avoid legal action, while the government offered legal support to workers. The situation was met with mixed reactions, with some finding the politicians' actions amusing.
-
-🟩
-
-The Gazette Notification for Plantation workers was released on April 30, the next day, the Labor Day was revealed to the country.. Some political figures have made a good performance through the media that the increased salary will be paid to workers since May 1st.
-
-Some people participated in the events organized in their territories and walked among the workers in the evening. Some people went on the procession. But the workers who enjoyed their performances returned home in the mindset of not getting this salary.
-
-But the events and politicians and statements were a good comedy treat for the upcountry people. Vadivel Suresh, a secretary of the Sri Lanka National Plantation Workers Union and the President's Senior Advisor and Badulla District Parliamentarian, threatened the companies that the gazette notification should be implemented immediately and the gardens could be handed over to the government.
-
-...
-
-[Data](articles/1fc3d304.json)
-
-[Extended Data](ext_articles/1fc3d304.ext.json)
-
----
-
-### Sri Lanka to allow renewable power wheeling
-
-*2024-05-14 14:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-renewable-power-wheeling-162969/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow consumers to build renewable power plants and use the Ceylon Electricity Board transmission network to carry it to a different location to be used, Minister Bandula Gunawardana said.
-
-So-called ‘wheeling’ was not allowed in Sri Lanka and a company that built a power plant had to sell the power to the Ceylon Electricity Board at the feed in price and buy power separately at as a customer at a retail tariff.
-
-Wheeling allows customer to carry the power from a new renewable plant by paying a fee to the transmission network.
-
-“For example if a mini-hydro plant is built in Kithulgala, the power can be carried through the grid for the use of a factory is Ja-Ela as long it is also owned by the same party for his own use,” Minister Gunawardana said.
-
-A committee was appointed to conduct a detailed study and the recommendation was made he said. (Colombo/May15/2024)
-
-◼️
-
-[Data](articles/a71e58c3.json)
-
-[Extended Data](ext_articles/a71e58c3.ext.json)
-
----
-
-### Approval received by the Economic Interpret Bill
-
-*2024-05-14 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196614) · `si`
-
-The Economic Interpret Bill has received cabinet approval and is set to be published in the Gazette after receiving the Attorney General's clearance and the President's approval.
-
-🟩
-
-Cabinet approval has been paid to publish the Economic Interpret Bill in the Gazette.
-
-At the meeting of the Cabinet meeting, the bill was approved by the bill.
-
-Accordingly, the proper bill has been instructed to preserve the formal bill to be presented with the amendments presented by the Attorney General.
-
-Accordingly, the Attorney General's clearance has been received for the Bill.
-
-The President's proposal has been approved by the President's proposal to publish the relevant Bill in the Government Gazette and submitting the relevant Bill.
-
-◼️
-
-[Data](articles/91e3212a.json)
-
-[Extended Data](ext_articles/91e3212a.ext.json)
-
----
-
-### Cabinet approves commencing A/L classes soon after O/L exam ends
-
-*2024-05-14 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-commencing-AL-classes-soon-after-OL-exam-ends/108-282575) · `en`
-
-Colombo, May 14 (Daily Mirror) - Cabinet approval was granted today to commence the General Certificate of Education (GCE) Advanced Level (A/L) classes immediately after the completion of the GCE Ordinary Level (O/L) examinations.
-
-Cabinet spokesman and Minister Bandula Gunawardana said it will take at least three months for the Examinations Department to release the results after the completion of the GCE (O/L) examinations.
-
-"During this period, the students' deviation from school education is the reason for the decrease in their tendency to proceed for the GCE (A/L) education, and it also creates various social issues," he said.
-
-Taking these facts into account, it has been identified that it is appropriate to start the GCE (A/L) education in schools with the completion of the O/L examinations in 2024. This makes it possible to manage the students' time effectively and provide enough time for teachers to cover the GCE (A/L) syllabus, Minister Gunawardana said.
-
-◼️
-
-[Data](articles/14a5eb2e.json)
-
-[Extended Data](ext_articles/14a5eb2e.ext.json)
 
 ---

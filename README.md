@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 10:18:06**
+As of **2024-05-14 10:33:53**
 
 ## Newspaper Stats
 
-*Scraped **23,874** Articles*
+*Scraped **23,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,032
-adaderanalk | 2,780
+adaderanalk | 2,781
 tamilmirrorlk | 2,796
 virakesarilk | 3,563
-dailymirrorlk | 3,757
-adaderanasinhalalk | 3,827
+dailymirrorlk | 3,758
+adaderanasinhalalk | 3,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,871 (100.0%) of 23,874 articles have been extended.
+23,874 (100.0%) of 23,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Health trade unions launch token strike in S’gamuwa Province hospitals
+
+*2024-05-14 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99202/health-trade-unions-launch-token-strike-in-sgamuwa-province-hospitals) · `en`
+
+The Health Trade Union Alliance is engaged in a token strike at government hospitals across the Sabaragamuwa Province today (14).
+
+Co-Convener of the Health Trade Union Alliance, Ravi Kumudesh, said that they are engaged in trade union action by withdrawing from duties for four hours from 8.00 a.m. to 12.00 noon today.
+
+The Health Trade Union Alliance has resorted to this strike action at the provincial level since May 09, due to the lack of a positive responses from authorities to their demands.
+
+He warned that if solutions are not provided to their grievances, they will engage in an indefinite strike across the island after May 21.
+
+◼️
+
+[Data](articles/d7464aff.json)
+
+---
+
+### US Assistant Secretary Donald Lu meets NPP representatives
+
+*2024-05-14 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Assistant-Secretary-Donald-Lu-meets-NPP-representatives/108-282557) · `en`
+
+Colombo, May 14 (Daily Mirror)- Assistant Secretary of State for South and Central Asian Affairs Donald Lu met representatives of the National People's Power (NPP) last evening at the Galle Face Hotel.
+
+US Ambossodor to Sri Lanka Julie Chung and NPP MP Vijitha Herath, NPP Executive Committee Members Nalinda Jayatissa and Wasantha Samarasinghe attended the meeting.
+
+The matters concerning the current economic situation in Sri Lanka,the involvement of the International Monetary Fund (IMF), ensuring the integrity of electoral processes, and security dynamics within the Indian Ocean region.
+
+◼️
+
+[Data](articles/c9bb66ac.json)
+
+---
+
+### ඩොනල්ඩ් ලූ සහ ජාතික ජන බලවේගය අතර හමුවක්
+
+*2024-05-14 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196605) · `si`
+
+ශ්‍රී ලංකාවට පැමිණ සිටින දකුණු සහ මධ්‍යම ආසියානු කලාපය භාර අමෙරිකා එක්සත් ජනපදයේ සහකාර ලේකම් ඩොනල්ඩ් ලූ සහ ජාතික ජන බලවේගයේ නියෝජිතයන් අතර සාකච්ඡාවක් පවත්වා තිබේ.
+
+මේ අවස්ථාවට ශ්‍රී ලංකාවේ අමෙරිකා එක්සත් ජනපද තානාපතිනි ජුලී චන්ග් මහත්මියද සහභාගි වූවාය.
+
+ජාතික ජන බලවේගය නියෝජනය කරමින් එහි ජාතික විධායක සභිකයින් වන පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත්, වසන්ත සමරසිංහ සහ වෛද්‍ය නලින්ද ජයතිස්ස යන අය සහභාගි වූහ.
+
+ශ්‍රී ලංකාවේ වත්මන් ආර්ථික තත්වය, ජාත්‍යන්තර මූල්‍ය අරමුදලේ මැදිහත්වීම, නිදහස් හා සාධාරණ මැතිවරණ පැවැත්වීම සහ ඉන්දියන් සාගර කලාපයේ ආරාක්ෂාව ඇතුළු කරුණු රැසක් පිළිබඳව මෙහිදී දෙපාර්ශවයේ අවධානය යොමුවිය.
+
+◼️
+
+[Data](articles/bf7fbe11.json)
+
+---
 
 ### The story of the dawn before going out
 
@@ -130,6 +182,8 @@ The National Consumers’ Organisation Asela Sampath told the media after attend
 
 [Data](articles/6136b600.json)
 
+[Extended Data](ext_articles/6136b600.ext.json)
+
 ---
 
 ### The possibility of increasing the rain
@@ -200,6 +254,8 @@ Accordingly, Matale, Kandy, Kegalle, Nuwara Eliya, Badulla, Monaragala, Kalutara
 
 [Data](articles/7b3a9fc0.json)
 
+[Extended Data](ext_articles/7b3a9fc0.ext.json)
+
 ---
 
 ### Sri Lanka 20/20 departed
@@ -257,6 +313,8 @@ Speaking during the debate, he said President Ranil Wickremesinghe claimed that 
 ◼️
 
 [Data](articles/4543966a.json)
+
+[Extended Data](ext_articles/4543966a.ext.json)
 
 ---
 
@@ -2085,73 +2143,5 @@ Colombo Archbishop Marius Peiris, who retired at the age of 83, has passed away 
 [Data](articles/b08c48fd.json)
 
 [Extended Data](ext_articles/b08c48fd.ext.json)
-
----
-
-### Sri Lanka IORA Business Conclave to explore untapped markets
-
-*2024-05-13 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-iora-business-conclave-to-explore-untapped-markets-162786/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce will host a Business Conclave to foster strategic alliances, explore untapped markets, and capitalise on emerging trends across sectors critical to economic development.
-
-The Indian Ocean Rim Association (IORA) Business Conclave on May 28 and 29 will focus on “sectors significant to the economic development and prosperity of the Indian Ocean Rim region, including agriculture, ICT, logistics, and tourism,” the Chamber said in a statement.
-
-“Participating countries expressing keen interest in these sectors include Australia, Bangladesh, France, India, Iran, Madagascar, Malaysia, Maldives, Mauritius, and Türkiye among others, ensuring significant business networking and facilitation opportunities.”
-
-The Conclave will feature a networking reception, plenary sessions, and several sector-focused breakout sessions followed by B-2-B meetings.
-
-The event is organized in collaboration with the Ministry of Foreign Affairs. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/94182c22.json)
-
-[Extended Data](ext_articles/94182c22.ext.json)
-
----
-
-### No disciplinary action from Minister Wijayada?
-
-*2024-05-13 19:26:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-පොහොට්ටුවෙන්-විනය-ක්‍රියාමාර්ග-නෑ-/11-409612) · `si`
-
-Wijayadasa Rajapakse, a minister in the Sri Lankan government, has not faced disciplinary action from the Sri Lanka Civil Front, despite concerns raised by the party's leaders. The General Secretary of the Sri Lanka General Front has communicated these concerns to the party's leadership, but no action has been taken. This situation is part of a larger debate within the party regarding the support for the interim government.
-
-🟩
-
-It is reported that Wijayadasa Rajapakse said the SLFP had obtained the SLFP member, but he will not take the relevant disciplinary action by the Sri Lanka Civil Front of the Sri Lanka Government.
-
-Accordingly, the General Secretary of the Sri Lanka General Front, the General Secretary of the Sri Lanka Civil Front, the General Secretary of the Sri Lanka Civil Front, said that the members of the party had informed the leaders of the party's heads of disciplinary action regarding Wijayadasa Rajapakse.
-
-However, he has to be discussed as a lengthy party in the event of the Sri Lanka General Wickremesinghe to support the maintenance of the interim government.said.
-
-Speaking further the General Secretary said that Wijayadasa Rajapakse is a minister representing the present government, he is abolishing against disciplinary action against him.
-
-◼️
-
-[Data](articles/0574891b.json)
-
-[Extended Data](ext_articles/0574891b.ext.json)
-
----
-
-### Government Executives work from tomorrow
-
-*2024-05-13 19:21:34* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-විධායක-නිලධාරීන්-හෙට-සිට-අකුරට-වැඩ/11-409611) · `si`
-
-Tomorrow, a joint committee of government executives will convene, addressing delays and launching various services including State Engineering, Aryurveda Medicine, Education Administration, Survey, English, Fisheries, and Labor Commissioner Services. The committee aims to resolve salary anomalies and unfair practices, following a strike and protest in Colombo. Prime Minister Dinesh Gunawardena has appointed a committee to address these issues, with decisions to be made by the Cabinet.
-
-🟩
-
-The joint committee of government executives will be launched tomorrow (15), due to the delay in government executives.
-
-State Engineering Service, Aryurved Medicine Service, Education Administrative Service, Survey Service, English Service, Fisheries and Fisheries, Fisheries, Fisheries, FisheriesIt pointed out that the professional action of the Labor Commissioner Service, the Commissioner of Labor, Accountant Service and Postal Service Executive and Board of Finance Executive and Board of Finance Executive and Board of Tod Corm are conducting working career.
-
-It is said that the District and Regional Coordinating Committee conducted on decentralized funding projects from last week will continue to participate in the professional procedures.
-
-...
-
-[Data](articles/7d4bee32.json)
-
-[Extended Data](ext_articles/7d4bee32.ext.json)
 
 ---

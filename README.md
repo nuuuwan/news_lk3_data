@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 18:23:24**
+As of **2024-05-14 18:34:43**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,003 (100.0%) of 24,007 articles have been extended.
+24,007 (100.0%) of 24,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### LTTEයට පනවා තිබූ තහනම ගැන තීරණයක්
+### Decision on the ban on the LTTE
 
 *2024-05-14 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196622) · `si`
 
-ඉන්දිය රජය LTTE කොටි ත්‍රස්ත සංවිධානයට එරෙහිව පනවා තිබූ තහනම තවත් වසර 5කින් දීර්ඝ කිරීමට තීරණය කර ඇත.
+The Indian government has extended the ban on the LTTE for 5 more years, citing their involvement in activities detrimental to the country's unity and security. Despite the LTTE's defeat in Sri Lanka in 2009, it continues to advocate for separatism, particularly in Tamil Nadu, India.
 
-එරට ස්වදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+🟩
 
-එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ LTTE කොටි ත්‍රස්ත සංවිධානය තවදුරටත් රටේ ඒකීයභාවයට සහ ආරක්ෂාවට අගතිගාමී ක්‍රියාකාරකම්වල නිරතවන බව ඔවුන්ගේ මතය බැවින් මෙම තීරණය ගෙන ඇති බව එහි සඳහන් වෙයි.
+The Indian government has decided to extend the ban on the LTTE by another 5 years.
 
-එසේම 2009 වර්ෂයේ මැයි මාසයේදී ශ්‍රී ලංකාව තුළදී  LTTE කොටි ත්‍රස්ත සංවිධානය ලද පරාජය සමග ඔවුන් ‘ඊළාම්’ සංකල්පය තවදුරටත් අත්හැර නොමැති බවද එහි සඳහන් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The Ministry of Home Affairs has issued a statement.
 
-එසේම එම LTTE කොටි ත්‍රස්ත සංවිධානය සඳහා අරමුදල් රැස්කිරීම සහ ‘ඊළාම්’ සංකල්පය සඳහා රහසිගත අයුරින් කටයුතුවල නිරතවන බවද එම නිවේදනයේ සඳහන් වන බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+The decision states that the decision has been taken as their opinion that the LTTE terrorists engage in prejudicial activities of the country and protection are engaged in prejudice to the unity and security of the country.
 
-LTTE කොටි ත්‍රස්ත සංවිධානය ඉන්දියාව තුළ මෙන්ම විශේෂයෙන් තමිල්නාඩු හි ජනතාව අතර සිය  බෙදුම්වාදී මතය අඛණ්ඩව ප්‍රචාරය මේ හේතුවෙන් අවසානයේ සමස්ත ඉන්දීයාවේ භෞමික අඛණ්ඩතාවයට බලපෑම් එල්ලකර ඇති බවත් මේ වනවිට නිරීක්ෂණය වී ඇති බවත් එම මාධ්‍ය වාර්තාවන් වැඩිදුරටත් සඳහන් කර ඇත.
+Foreign media reports that the LTTE has further abandoned the concept of 'Eelam' with the defeat of the LTTE in Sri Lanka in May 2009.
+
+The announcement states that the LTTE is also engaged in collaboration and operating for the LTTE's concept for the Eelam.
+
+The LTTE continues to promote its separatist opinion among the people in India as well as Tamil Nadu in India, especially Tamil Nadu.
 
 ◼️
 
 [Data](articles/547d3163.json)
+
+[Extended Data](ext_articles/547d3163.ext.json)
 
 ---
 
@@ -68,17 +74,23 @@ The Base Jump event from the Colombo Lotus Tower took place for third day today.
 
 ---
 
-### නායයෑම් අනතුරු ඇඟවීමක්
+### Landslide warning
 
 *2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
 
-ප්‍රදේශ රැසකට ඇදහැලෙන අධික වර්ෂාවත් සමග නායයෑම් අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+The National Building Research Organization has issued landslide warnings for Badulla, Kandy, Kegalle, and Ratnapura districts due to heavy rains, advising caution.
 
-ඒ් අනුව බදුල්ල, මහනුවර, කෑගල්ල, රත්නපුර යන දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා පළමු අදියරේ නායයෑම් අනතුරු ඇඟවීමක් නිකුත් කර ඇත.
+🟩
+
+The National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
+
+He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ratnapura districts.
 
 ◼️
 
 [Data](articles/16e338a5.json)
+
+[Extended Data](ext_articles/16e338a5.ext.json)
 
 ---
 
@@ -98,6 +110,8 @@ It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE 
 
 [Data](articles/6c19f390.json)
 
+[Extended Data](ext_articles/6c19f390.ext.json)
+
 ---
 
 ### India extends ban imposed on LTTE for five years
@@ -113,6 +127,8 @@ It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE 
 ...
 
 [Data](articles/1ffd0740.json)
+
+[Extended Data](ext_articles/1ffd0740.ext.json)
 
 ---
 

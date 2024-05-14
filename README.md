@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 14:52:17**
+As of **2024-05-14 15:03:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,948 (100.0%) of 23,953 articles have been extended.
+23,953 (100.0%) of 23,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### கெஹலியவின் மனு 31ஆம் திகதி விசாரணைக்கு
+### Keheliya's petition for hearing on the 31st
 
 *2024-05-14 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மனு-31ஆம்-திகதி-விசாரணைக்கு/175-337297) · `ta`
 
-தரமற்ற இம்யூனோகுளோபுலின் ஊசியை வாங்கியதாக கூறப்படும் குற்றச்சாட்டில் தன்னை பிணையில் விடுவிக்க மாளிகாகந்த நீதவானுக்கு உத்தரவிடுமாறு கோரி முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல தாக்கல் செய்த ரிட் மனு இன்று மீண்டும் மேல்முறையீட்டு நீதிமன்றத்தால் விசாரணைக்கு ஒத்திவைக்கப்பட்டது.
+Keheliya Rambukwella's petition for a hearing on May 31 was postponed by the Appeal Court, which demanded his release on bail due to charges of purchasing substandard immunoglobulin. The two-judge bench, including Justice Nissanka Bandula Karunaratne and Justice Sashi Mahendran, adjourned the case. Rambukwella sought the ban to avoid further legal complications.
 
-மேன்முறையீட்டு நீதிமன்ற நீதியரசர் நிஸ்ஸங்க பந்துல கருணாரத்ன மற்றும் நீதியரசர் சஷி மகேந்திரன் ஆகியோர் அடங்கிய இரு நீதிபதிகள் கொண்ட அமர்வு, மே 31 ஆம் திகதி இந்த வழக்கை ஒத்திவைத்தது.
+🟩
 
-மாளிகாகந்த நீதவான் லோச்சனி அபேவிக்ரம தன்னை மேலும் விளக்கமறியலில் வைக்க நடவடிக்கையும் எடுப்பதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கெஹலிய ரம்புக்வெல்ல இந்த மனுவின் மூலம் கோரியுள்ளார்.
+A writ petition filed by former Health Minister Keheliya Rambukwella has been postponed today by the appeal of the Appeal Court demanding a mansion to be released on bail on charges of buying a substandard immunoglobulin.
+
+A two -judge bench comprising Justice Court Judge Nissanka Bandula Karunaratne and Justice Sashi Mahendran adjourned the case on May 31.
+
+Keheliya Rambukwella has called for the ban to prevent him from taking steps to further detail himself.
 
 ◼️
 
 [Data](articles/0aecbe1d.json)
+
+[Extended Data](ext_articles/0aecbe1d.ext.json)
 
 ---
 
@@ -64,23 +70,31 @@ Meanwhile, the attorneys representing the aggrieved party stated before the cour
 
 [Data](articles/bed1ada5.json)
 
+[Extended Data](ext_articles/bed1ada5.ext.json)
+
 ---
 
-### NSB வங்கி ஊழியர்களுக்கு VRS அறிமுகப்படுத்தப்படும்
+### VRS will be introduced to NSB Bank employees
 
 *2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS-அறிமுகப்படுத்தப்படும்/175-337296) · `ta`
 
-2019 ஆம் ஆண்டு தேசிய சேமிப்பு வங்கியின் (NSB) கீழ் ஒருங்கிணைக்கப்பட்ட இலங்கை சேமிப்பு வங்கியின் ஊழியர்களுக்காக தன்னார்வ ஓய்வு திட்டம் (VRS) அறிமுகப்படுத்தப்படும்.
+The Volunteer Retirement Scheme (VRS) is introduced for NSB Bank employees, with the government transferring Sri Lanka Savings Bank's assets and responsibilities to NSB for regulation and management. This move, approved by President Ranil Wickremesinghe and the Cabinet, includes allowances for volunteer employees based on market factors.
 
-செயற்பாடுகளை நெறிப்படுத்துவதற்கும், மாற்றத்தை சீராக நிர்வகிப்பதற்கும், தேசிய சேமிப்பு வங்கியானது இலங்கை சேமிப்பு வங்கியின் சொத்துக்கள் மற்றும் பொறுப்புகள் இரண்டையும் உள்வாங்கும் என அரசாங்கம் தெரிவித்துள்ளது.
+🟩
 
-இதன்படி, நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சர் என்ற வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்மொழியப்பட்ட தன்னார்வ ஓய்வுத் திட்டம் அமைச்சரவையினால் அங்கீகரிக்கப்பட்டது.
+The Volunteer Retirement Scheme (VRS) will be introduced for employees of the Sri Lanka Savings Bank, which is coordinated under the National Savings Bank (NSB) in 2019.
 
-தானாக முன்வந்து ஓய்வுபெறும் ஊழியர்களுக்கு பல்வேறு சந்தை காரணிகளின் அடிப்படையில் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+The government has said that the National Savings Bank will take both the assets and responsibilities of the Sri Lanka Savings Bank to regulate the operations and to manage the change.
+
+Accordingly, as the Minister of Finance, Economic Strength and National Policies, the Volunteer Retirement Plan proposed by President Ranil Wickremesinghe was approved by the Cabinet.
+
+Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees will be given allowances on various market factors.
 
 ◼️
 
 [Data](articles/9f1468e9.json)
+
+[Extended Data](ext_articles/9f1468e9.ext.json)
 
 ---
 
@@ -202,17 +216,23 @@ He said that the President informed the Prime Minister to start a conversation w
 
 ---
 
-### ග්‍රාම නිලධාරින් දින තුනක් ලෙඩවෙලා, සිරකරුවන්ගෙන් සිර ගෙවල් පිරිලා
+### Grama Niladharis sick for three days and prisoners
 
 *2024-05-14 13:48:51* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරින්-දින-තුනක්-ලෙඩවෙලා--සිරකරුවන්ගෙන්-සිර-ගෙවල්-පිරිලා/11-409625) · `si`
 
-ග්‍රාම නිලධාරී හට ඉතිහාසයපුරා මේවන තෙක්ම සේවා ව්‍යවස්ථාවක් ලබා නොදීම හා ග්‍රාම නිලධාරී දීමනා ප්‍රමාණවත් නොවීම හේතුවෙන් දින 03 ක කාලයක් දිවයිනේ සියලුම  ග්‍රාම නිලධාරීන් වෘත්තීය ක්‍රියාමාර්ගයක් ලෙස අද(14) දින සිට අසනීප නිවාඩු වාර්තා කර ඇත.
+Grama Niladharis are sick, affecting service delivery. Not enough divisions reported today. Services were limited, impacting prisoners in prisons.
 
-ඒ හේතුවෙන් ජනතාවට ග්‍රාම නිලධාරීන්ගෙන් ලැබුණු සේවාවන් රැසක් ඒ අනුව අද සිට ඇනහිට ඇති බව අපට වාර්තා විය. එමෙන්ම සිරකරුවන් හට නිදහස් වීමට අවශ්‍ය ග්‍රාම නිලධාරි සහතික ලබා ගැනීමට නොහැකි වීම හේතුවෙන් බන්ධනාගාරවල සිරකරුවන්ගෙන් තද බදයකට ලක් විය හැකි බවද එම නිලධාරීහු පවසති. ( I J)
+🟩
+
+The Grama Niladhari is notified and not to provide a service minute and not inadequate a service minute and not enough Grama Niladhari Divisions have been reported from today's Grama Niladharis.
+
+As a result, we reported that the people had received a number of services from the Grama Niladharis today. Also, prisoners can be severely at prisoners due to prisoners in prisons. (I J)
 
 ◼️
 
 [Data](articles/6b00dcaf.json)
+
+[Extended Data](ext_articles/6b00dcaf.ext.json)
 
 ---
 
@@ -366,17 +386,31 @@ Gunawardena also revealed that the instructions were given considering the fact 
 
 ---
 
-### අපුර සහිරා විදුහලේ සාපෙළ විභාග මධ්‍යස්ථානය යුද පිටියක් වෙයි
+### Arasura Zahira Vidyalaya will be a military page
 
 *2024-05-14 13:19:48* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-සහිරා-විදුහලේ-සාපෙළ-විභාග-මධ්‍යස්ථානය-යුද-පිටියක්-වෙයි/11-409620) · `si`
 
-මෙවර පැවැත්වෙන අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය පැවැත්වෙන  අනුරාධපුර සහිරා විද්‍යාලයේදී සිසුන්  දෙපිරිසක් අතර ඇති වූ  ගැටුමකින් පසු, එක් පාසල් සිසුවෙකුගේ මවක්, විභාග මධ්‍යස්ථානය තුලට කඩා වැදී සිසුන් පිරිසකට පහර දීමට යාමේදී, දැඩි නොසන්සුන්කාරී තත්ත්වයක් ඇතිවී විද්‍යාල කාර්යාලය දේපල වලටද හානි සිදුව සිසුන් කිහිප දෙනෙකු තුවාල ලබා ඇති බව  ඇති බව වාර්තාවේ.
+Arasura Zahira Vidyalaya, a military page, witnessed a clash between students of Shira Muslim College and Pepigaswewa, Anuradhapura, following the GCE Ordinary Level examination. The college office was damaged, and several students were injured. The conflict, ongoing since the end of the examination, involved a group assaulting a student. The principal of Sahara Muslim College was severely injured. Minor injuries were reported among students, and one was taken to the Anuradhapura Teaching Hospital. Parents gathered at the scene, expressing concern over the conduct of the examination. A senior police officer arrested a student and their mother, releasing them on police bail.
 
-අනුරාධපුර දුර බැහැර සිසු සිසුවියන් සුළු පිරිසක් සිටින  ගම්මිරිගස්වැව මනාර්ලුලුම් මුස්ලිම් මහා  විද්‍යාලයේ  සිසු සිසුවියන් කණ්ඩායමක්ද, මෙම පාසලේ විභාග මධ්‍යස්ථානයට අනුයුක්ත කර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින බවත් අනුරාධපුර සහිරා මුස්ලිම්  විද්‍යාලයේ සිසුන් සහ ගම්මිරිගස්වැව  එම විද්‍යාලයේ සිසුන් කණ්ඩායම් දෙක අතර  මෙම ගැටුම හට ගත් බව පොලිසිය කියයි.
+🟩
+
+Several students of a school student collaborates at the GCE Ordinary Level examination in Anuradhapura, the college office has been severely damaged by a number of students to attack a group of students.It is reported that has been injured.
+
+The clash had occurred between the students of the Shira Muslim College, Anuradhapura and Pepigaswewa, Anuradhapura, who has a small number of students in Anuradhapura.
+
+This conflict has been constantly held between the two groups since the end of the GCE O / L examination.A group said that he had gone to the neck of one student and collaborate.
+
+The clash was severely damaged by the Principal of the Principal of the Principal of the Sahara Muslim College.
+
+After the examination was facing the examination, a group of students were seen by a group of students who were on the afternoon.
+
+A number of school children had minor injuries due to the gutting and a severely assault student was taken to the Anuradhapura Teaching Hospital.
 
 ...
 
 [Data](articles/e4b1678c.json)
+
+[Extended Data](ext_articles/e4b1678c.ext.json)
 
 ---
 

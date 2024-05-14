@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 15:03:25**
+As of **2024-05-14 15:18:37**
 
 ## Newspaper Stats
 
-*Scraped **23,953** Articles*
+*Scraped **23,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,042
+adalk | 2,043
 adaderanalk | 2,790
 tamilmirrorlk | 2,809
-virakesarilk | 3,585
-dailymirrorlk | 3,767
+virakesarilk | 3,587
+dailymirrorlk | 3,770
 adaderanasinhalalk | 3,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,953 (100.0%) of 23,953 articles have been extended.
+23,953 (100.0%) of 23,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Athapaththu climbs T20I rankings after stellar performance
+
+*2024-05-14 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththu-climbs-T20I-rankings-after-stellar-performance/108-282577) · `en`
+
+(ICC) - Sri Lanka opener Chamari Athapaththu and England bowlers Sarah Glenn and Lauren Bell have made notable progress in the ICC Women’s T20I Player Rankings after some fine performances over the past week.
+
+Athapaththu’s match-winning knock of 102 against Scotland in the final of the ICC Women’s T20 World Cup Qualifier has helped the captain move up two places to seventh position among batters, just one off her career-best sixth position attained in April this year.
+
+Athapaththu, who is currently ranked number one in the ODI batting rankings, has also moved up to fifth among all-rounders in the T20I rankings.
+
+Glenn’s haul of four for 12 and Bell’s figures of three for 22 in the first of their three-match series against Pakistan in Birmingham saw them move up to fourth and seventh positions respectively, Bell moving past 700 rating points for the first time in her career.
+
+...
+
+[Data](articles/8d5c57b7.json)
+
+---
+
+### Voluntary retirement scheme approved for NSB employees
+
+*2024-05-14 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Voluntary-retirement-scheme-approved-for-NSB-employees/108-282578) · `en`
+
+Colombo, May 14 (Daily Mirror) - The National Savings Bank (NSB) has decided to introduce a voluntary retirement scheme, and also to make a payment taking into account market factors for the employees who retire voluntarily.
+
+Addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said the NSB became a wholly owned subsidiary bank in 2019.
+
+Currently, the National Savings Bank has decided to take over the assets and liabilities of the Sri Lanka Savings Bank and absorb its employees.
+
+As such, the Cabinet approved the proposal presented by the President in his capacity as the Finance Minister, Economic Stabilization and National Policies to implement the said voluntary retirement scheme as decided.
+
+Accordingly, the process of placing employees at the NSB is currently underway.
+
+◼️
+
+[Data](articles/c02d9c6c.json)
+
+---
+
+### Governemnt approves Technology Promotion Act
+
+*2024-05-14 14:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governemnt-approves-Technology-Promotion-Act/108-282576) · `en`
+
+Colombo, May 14 (Daily Mirror) - The government today approved the Technology Promotion Act by cancelling the Information and Communication Technology Act and directing the Legal Draftsmen to prepare a draft bill based on the concept paper already prepared.
+
+Addressing the media Cabinet spokesman and Minister Bandula Gunawardana said a concept paper has been prepared for introducing new laws for digital improvement/transformation, and it has been proposed to establish a Technology Innovation Council as well as a Digital Transformation Agency.
+
+The amendment of the Information and Communication Technology Act was necessary to perform the required institutional reforms for digital transformation, the Minister added.
+
+◼️
+
+[Data](articles/91178517.json)
+
+---
+
+### போரின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் - அம்பிகா சற்குணநாதன்
+
+*2024-05-14 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183516) · `ta`
+
+இலங்கையின் உள்நாட்டு யுத்தத்தின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் என்பதை முள்ளிவாய்க்கால் கஞ்சி வழங்கப்படுவதை தடை செய்யும் அரசாங்கத்தின் தொடர்ச்சியான நடவடிக்கைகளும் அதற்காக தெரிவிக்கப்படும் காரணங்களும் தெளிவாக வெளிப்படுத்துகின்றன என இலங்கைமனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்
+
+அரசாங்கத்தை பொறுத்தவரை மே18 ம் திகதியை நினைவுகூருவது  தமிழீழ விடுதலைப்புலிகளுக்கு புத்துயுர் கொடுப்பதாகும்.
+
+நினைவேந்தல் நிகழ்வுகளை தடை செய்வதற்கான காரணங்கள் நோய் பரவுவதை தடுப்பதிலிருந்து  தமிழீழ விடுதலைப்புலிகள் புத்துயுர் பெறுவதை தடுப்பதாக மாற்றமடைந்துள்ளன.
+
+இதுபோரின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் என்பதை வெளிப்படுத்தியுள்ளன.
+
+இன்றுகாலை மட்டக்களப்பில் மக்கள் முள்ளிவாய்க்கால் கஞ்சியை பரிமாறுவதை பொலிஸார் தடுத்தனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/fec1e5b4.json)
+
+---
 
 ### Keheliya's petition for hearing on the 31st
 
@@ -98,9 +172,41 @@ Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees
 
 ---
 
+### நினைவேந்தலை தடுப்பது நல்லிணக்கத்திற்கு அடிக்கும் சாவு மணி - மு. சந்திரகுமார்
+
+*2024-05-14 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183508) · `ta`
+
+சர்வதேசத்தின் பங்களிப்புடன் மேற்கொள்ளப்பட்ட நிலைமாறுகால நீதி பொறிமுறையில் நினைவேந்தல் மிக முக்கிய பகுதியாகும். எனவே அந்த நினைவேந்தல் நிகழ்வை கூட தமிழ் மக்கள் மேற்கொள்ள முடியாத படி அரசும் அதன் கட்டமைப்பான பொலிஸாரும் மேற்கொள்ளும் தடை நடவடிக்கைகள் இந்த நாட்டின் நல்லிணக்கத்தின் மீது அடிக்கும் சாவு மணியே, என முன்னாள் நாடாளுமன்ற உறுப்பினரும், சமத்துவக் கட்சியின் பொதுச் செயலாளருமான மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+
+2009 இல் இடம்பெற்ற இறுதி யுத்தத்தில் ஏராளமான மக்கள் கொல்லப்பட்டார்கள், கொல்லப்பட்டவர்களை நினைவு கூர்ந்து தங்களை ஆற்றுப்படுத்திக்கொள்வதற்கு கூட முடியாத அளவுக்கு இலங்கையில் தமிழ் மக்கள் மீது அடக்கு முறை பிரயோகிக்கப்படுகிறது. தெற்கிற்கு ஒரு நீதி வடக்கிற்கு ஒரு நீதி என்ற நிலைப்பாட்டில் தமிழ் மக்கள் மீதான் செயற்பாடுகள் முன்னெடுக்கப்படுகிறது.
+
+இந்த சிறிய தீவில் இனங்களுக்கிடையே நல்லிணக்கத்தை ஏற்படுத்த வேண்டிய அரசும் அதன் கட்டமைப்பு பாரபட்சமாக நடந்து கொள்வது என்பது ஒரு காலமும் இனங்களுக்கு இடையே நல்லிணக்கத்தை ஏற்படுத்தாது.
+
+...
+
+[Data](articles/6ce8d96c.json)
+
+---
+
+### නිර්මාණශීලීබව , ඉවසීම ලැබෙන වෙසක් කූඩුව
+
+*2024-05-14 14:09:48* · [`adalk`](https://www.ada.lk/breaking_news/නිර්මාණශීලීබව---ඉවසීම-ලැබෙන-වෙසක්-කූඩුව/11-409626) · `si`
+
+රට තුල විකිණෙන ආනයනික ප්ලාස්ටික් සහ කාඩ් බෝඩ් වෙසක් කූඩු  නිසාවෙන් දේශීය වෙසක් කූඩු නිර්මාණකරුවන්ගේ නිෂ්පාදන විකුණා ගැනීමට දැඩි අපහසුතාවයක් පවතින බවත්, එමගින් රට තුල සිටින  දරු පරපුරේ නිර්මාණශීලීතාවය, ඉවසීම සහ අවබෝධය වැනිදේ ඔවුන්ගේ සිත් වලින් මැකී ගොස් ඇති බව වෙසක් කූඩු නිෂ්පාදකයෝ පවසති.
+
+උණ බට කපාගෙන ඇවිත් ඒවා ක්‍රමවත් ලෙස සකස් කරගෙන වෙසක් කූඩු නිර්මාණය කිරීම තුළින් ඉවසීම,ජීවිතය පිළිබඳ අවබෝධය, නිර්මාණශීලී  බව හා සහයෝගීත්වය  වැඩි දියුණු කර ගැනීමට දරුවන් සහ වැඩිහිටියන් සියලුම දෙනාට උපකාරී වන බවද ප්ලාස්ටික් වෙසක් කූඩුව තුලින් එම කිසිවක් නිසියාකාරව ලබා ගැනීමට නොහැකි බව වෙසක් කූඩු නිර්මාණකරුවන් මෙහිදී පෙන්වා දුන්හ.
+
+රජයේ අවශ්‍ය බලධාරීන් මැදිහත් වී පිටරටින් ගෙන්වන මෙම වෙසක් කූඩු  නවතාලීමට කටයුතු කරන ලෙසද ඔව්හු මෙහිදී ඉල්ලීමක් ඉස්සර සිටියහ. (IJ)
+
+◼️
+
+[Data](articles/09a1db9e.json)
+
+---
+
 ### Tamil politicians announcements after gazette notification…!
 
-*2024-05-14 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183510) · `ta`
+*2024-05-14 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183510) · `ta`
 
 After the gazette notification for plantation workers' salary increase, politicians like Vadivel Suresh and Manusha Nanayakkara made public statements, with Suresh threatening companies and advocating for immediate implementation. The Labor Minister and others urged companies to discuss salary issues and avoid legal action, while the government offered legal support to workers. The situation was met with mixed reactions, with some finding the politicians' actions amusing.
 
@@ -2133,125 +2239,5 @@ ECONOMYNEXT – Sri Lanka should make greater efforts to bring back citizens in 
 [Data](articles/fbd3e678.json)
 
 [Extended Data](ext_articles/fbd3e678.ext.json)
-
----
-
-### Health experts raise red flags over soaring influenza cases
-
-*2024-05-14 06:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-experts-raise-red-flags-over-soaring-influenza-cases/155-282547) · `en`
-
-Colombo, May 14 (Daily Mirror) - In the wake of the rising influenza cases at an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
-
-Speaking to Daily Mirror, Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo said, it’s vastly prevalent among children and thus the parents are advised to keep a close watch on their children.
-
-“There are usually two peaks of influenza namely November to February and April to July,” he stated.
-
-“This time, we have seen a substantial rise in cases among children and adults as well. The cases have doubled during the last week alone. As of now, the predominant type is influenza A. However, influenza B is also prevalent,” he pointed out.
-
-In light of the situation, the expert stressed the importance of seeking prompt medical care if the symptoms persist.
-
-...
-
-[Data](articles/78fef6d1.json)
-
-[Extended Data](ext_articles/78fef6d1.ext.json)
-
----
-
-### Facebook party raided inside Knuckles Reserve, over 20 arrested
-
-*2024-05-14 06:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facebook-party-raided-inside-Knuckles-Reserve-over-20-arrested/108-282546) · `en`
-
-Hunnasgiriya, May 14 (Daily Mirror) - A group of 22 young individuals, including five females, were apprehended by the Hunnasgiriya Range Forest Office for trespassing in the Knuckles Reserve and setting up illegal campfires, forest officials said. The suspects, hailing from various regions such as Bandarawela, Colombo, Badulla, and Kandy, are between the ages of 20 and 30.
-
-Among the arrested individuals are university students, a person purportedly affiliated with the security forces, and private sector employees. According to a senior forest official, the group had coordinated through Facebook and other social media platforms to organize a gathering within the Knuckles Reserve without obtaining proper permission.
-
-The investigation conducted by forest officials revealed that the group had entered the reserve on Saturday night and held a party inside the protected area.
-
-◼️
-
-[Data](articles/d96fa705.json)
-
-[Extended Data](ext_articles/d96fa705.ext.json)
-
----
-
-### Showers over 100mm
-
-*2024-05-14 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196594) · `si`
-
-Sri Lanka faces increased rainfall due to atmospheric changes, with showers expected in the south, central, eastern, and Uva provinces. The Department of Meteorology advises caution against temporary winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology says that Sri Lanka is expected to increase a rainy increase in the country due to the development of the lower atmosphere.
-
-The department states that in many parts of the island today (14). Showers or thundershowers will occur at several places about 1.00.
-
-The Department of Meteorology states that the south, Central, Eastern and Uva provinces will experience the rain.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/b7e3a69d.json)
-
-[Extended Data](ext_articles/b7e3a69d.ext.json)
-
----
-
-### Central Bank advises businesses to grasp current exchange rate mechanism
-
-*2024-05-14 04:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-advises-businesses-to-grasp-current-exchange-rate-mechanism/108-282544) · `en`
-
-Cautions if exchange rate is controlled, it would lead to a boom-and-bust cycle
-
-The Central Bank emphasised the importance of businesses in Sri Lanka understanding the current exchange rate system.
-
-As it would enable them to establish more precise expectations, thereby reducing the risk of incurring losses due to currency exchange fluctuations.
-
-Sri Lanka’s businesses, the exporters in particular, recently called for a stable and competitive exchange rate, amidst the recent sharp appreciation of the rupee.
-
-“The mechanism of how the exchange rate is determined is important to understand because the legacy of long periods of fixed exchange rate at a certain rate, the entities have got used to it, thinking this is the way to do business.
-
-...
-
-[Data](articles/5a5fa7de.json)
-
-[Extended Data](ext_articles/5a5fa7de.ext.json)
-
----
-
-### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
-
-*2024-05-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
-
-This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
-
-...
-
-[Data](articles/3e9bb270.json)
-
-[Extended Data](ext_articles/3e9bb270.ext.json)
-
----
-
-### CTC says drop in 1Q sales due to tax-led price increases
-
-*2024-05-14 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CTC-says-drop-in-1Q-sales-due-to-tax-led-price-increases/108-282539) · `en`
-
-Monopoly cigarette player Ceylon Tobacco Company PLC (CTC) yesterday said that its sales volume for the first quarter ended on March 31, 2024 was lower in comparison to the same period last year, mainly due to the tax-led price increases, in line with the government’s revenue proposals.
-
-The company recorded a turnover of Rs.45.8 billion, down from Rs.46.9 billion recorded in the year before.
-
-CTC recorded a revenue of Rs.14.15 billion for the period under review, which is a 11.3 percent increase year-on-year (YoY) but a contraction of 19.6 percent from the previous quarter. In a brief note accompanying the interim financial accounts, CTC said its cost base is impacted by the increase in raw material cost, driven through inflation and the appreciation in foreign currency.
-
-CTC’s profit before tax for the quarter ended in March stood at Rs.11.7 billion, a marginal increase from Rs.10.1 billion recorded in the corresponding period in 2023.
-
-...
-
-[Data](articles/1302415b.json)
-
-[Extended Data](ext_articles/1302415b.ext.json)
 
 ---

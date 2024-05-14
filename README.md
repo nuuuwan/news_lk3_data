@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 01:52:28**
+As of **2024-05-15 02:03:31**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,062 (100.0%) of 24,063 articles have been extended.
+24,063 (100.0%) of 24,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### அச்சுறுத்தல்களுக்கு மத்தியில், முள்ளிவாய்க்கால் கஞ்சி
+### In the midst of threats, Mullivaikkal porridge
 
 *2024-05-15 00:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அச்சுறுத்தல்களுக்கு-மத்தியில்-முள்ளிவாய்க்கால்-கஞ்சி/175-337310) · `ta`
 
-மட்டக்களப்பில், முள்ளிவாய்க்கால் கஞ்சி வழங்கும் நிகழ்வு, பொலிஸாரின் கடுமையான தடைகளையும் மீறி, பல்வேறு அச்சுறுத்தல்களுக்கு மத்தியில், செவ்வாய்க்கிழமை (14) விநியோகிக்கப்பட்டது.
+In Batticaloa, the Mullivaikkal porridge event, a 3-day offering, faced police threats and disruptions. Despite obstacles, it continued with participation from former parliamentarian Gnan Sirinasan and human rights activist Lavakumar. Police chased away the Tamil National People's Front's national organizer, Suarez, and prevented the distribution of porridge to the public, leading to heated arguments and further crises.
 
-கஞ்சி வாரத்தின் 3 நாள் கஞ்சி வழங்கும் நிகழ்வு   செவ்வாய்க்கிழமை (14) இடம்பெற்றது.  அதில்,  பங்குபற்ற சென்ற தமிழ்  தேசிய மக்கள் முன்னணி கட்சியின் தேசிய அமைப்பாளரை பங்கு கொள்ள விடாது பொலிஸார் விரட்டியடித்தனர்.
+🟩
 
-தமிழன அழிப்பின் கஞ்சிவாரத்தையிட்டு மட்டக்களப்பு நகர் சுமைதாங்கி சந்தியிலுள்ள விநாயர் ஆலைய முன்றலில், வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத்தின் ஏற்பாட்டில்    கஞ்சி வழங்க ஏற்பாடு செய்யப்பட்டது.
+In Batticaloa, the Mullivaikkal porridge event was distributed on Tuesday (14) amidst various threats, despite the severe obstacles of the police.
 
-அதில், முன்னாள் பாராளுமன்ற உறுப்பினர் ஞா.சிறிநேசன், வலிந்துகாணாமல் ஆக்கப்பட்ட உறவினர்கள், மனித உரிமை செயற்பாட்டாளர் லவக்குமார் உட்பட பலர் கலந்து கொண்டு கஞ்சி காய்ச்சும் நடவடிக்கையினை முன்னெடுத்தனர்.
+The 3 -day porridge offering of the porridge week was held on Tuesday (14).The police chased away the national organizer of the Tamil National People's Front (TNA).
 
-இதன்போது,  பொது சுகாதார பரிசோதகர்களுடன் அங்கு சென்ற பொலிஸார்,   முகக்கவசம், தலைக்கவசம், கையுறை பாவிக்கவேண்டும் சுகாதாரமாக காய்ச்சவேண்டும் என பல்வேறு நெருக்கடிகளை கொடுத்து கஞ்சியை காய்ச்சவிடாது தடைகளை ஏற்படுத்தினர்.
+Arrangements have been made to provide porridge under the auspices of the Relations Association of the Missing Relations in the Vinayar Plant at the Sumadangi junction in Batticaloa.
+
+Former parliamentarian Gnan Sirinasan, relatives who were uninhabited, and many other human rights activist Lavakumar participated in the event.
+
+During this time, the police, who went with the public health inspectors, gave various crises, such as facial, helmets, gloves and health problems.
+
+The people, who were involved in heavily arguments with the police and the public health inspector, fell into the crisis.
 
 ...
 
 [Data](articles/8e1b7a2d.json)
+
+[Extended Data](ext_articles/8e1b7a2d.ext.json)
 
 ---
 

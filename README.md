@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 12:51:34**
+As of **2024-05-14 13:03:18**
 
 ## Newspaper Stats
 
-*Scraped **23,910** Articles*
+*Scraped **23,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,034
-adaderanalk | 2,785
+adaderanalk | 2,786
 tamilmirrorlk | 2,803
 virakesarilk | 3,575
 dailymirrorlk | 3,761
-adaderanasinhalalk | 3,830
+adaderanasinhalalk | 3,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,910 (100.0%) of 23,910 articles have been extended.
+23,910 (100.0%) of 23,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Cabinet greenlights ‘Economic Transformation Bill’
+
+*2024-05-14 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99207/cabinet-greenlights-economic-transformation-bill) · `en`
+
+Cabinet approval has been received to gazette the ‘Economic Transformation Bill’ and to present it to Parliament for approval, the Department of Government Information (DGI) reported.
+
+The proposal was submitted to the Cabinet by President Ranil Wickremesinghe in his capacity as the Finance Minister.
+
+◼️
+
+[Data](articles/6437fb05.json)
+
+---
 
 ### Seven chickens die by consuming rice provided by the government;Is substandard rice distributed?- Mujibur Rahman question
 
@@ -101,6 +115,24 @@ This recruitment is delayed due to the spread of Corona virus and bankruptcy. Th
 [Data](articles/18e6b174.json)
 
 [Extended Data](ext_articles/18e6b174.ext.json)
+
+---
+
+### උසස් පෙළ ගැන අමාත්‍ය මණ්ඩලයෙන් තීරණයක්
+
+*2024-05-14 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196610) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහාම උසස් පෙළ පන්ති ආරම්භ කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+සිසුන්ගේ කාලය ඵලදායී ලෙස කළමනාකරණය කිරීම අරමුණු කරගෙන අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා විසින් ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+
+ඒ අනුව උසස් පෙළ විෂය නිර්දේශය ආවරණය කිරීමට ගුරුවරුන්ට ප්‍රමාණවත් කාලයක් සලසා දීමට හැකි වන පරිදි අපොස සාමාන්‍ය පෙළ අවසන් වීමත් සමග පාසල්වල උසස් පෙළ අධ්‍යාපන කටයුතු ආරම්භ කිරීමට නියමිතය.
+
+2023 වර්ෂයට අදාළව මේ වනවිට සාමාන්‍ය පෙළ විභාගය පැවැත්වෙමින් ඇත.
+
+◼️
+
+[Data](articles/079c86ba.json)
 
 ---
 
@@ -199,6 +231,24 @@ It is noteworthy that two people have been arrested as the main suspect has esca
 [Data](articles/b5f6944f.json)
 
 [Extended Data](ext_articles/b5f6944f.ext.json)
+
+---
+
+### කෙහෙළියගේ පෙත්සම සලකා බැලීමට දින දෙයි
+
+*2024-05-14 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196609) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම සලකා බැලීම සඳහා මේ මස 31 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (14) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+ඉන් අනතුරුව පෙත්සම සලකා බැලීම සඳහා මේ මස 31 වනදා කැඳවන ලෙසද අධිකරණයේ නියම කළේය.
+
+මේ අතර, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බල රහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා  සෞඛ්‍ය අමාත්‍යංශයේ හිටපු සැපයුම් අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම සලකා බැලීම
+
+◼️
+
+[Data](articles/bbba8081.json)
 
 ---
 
@@ -2181,57 +2231,5 @@ Seven Notes are seen in action at Sri Lankan events, in Dubai, including dances 
 [Data](articles/e6ad9b0f.json)
 
 [Extended Data](ext_articles/e6ad9b0f.ext.json)
-
----
-
-### London to host panel discussion today on Sri Lanka’s economic crisis
-
-*2024-05-13 23:03:53* · [`dailyftlk`](https://www.ft.lk/business/London-to-host-panel-discussion-today-on-Sri-Lanka-s-economic-crisis/34-761740) · `en`
-
-Presentation to be delivered by Dr. Nishan de Mel of Verité Research at SOAS
-
-A panel discussion titled “Sri Lanka’s economic crisis and beyond”, organised by the School of Oriental and African Studies (SOAS) of the University of London, will be held today (14 May) in London, UK, chaired by Professor Jonathan Goodhand.
-
-The main presentation at the event will be made by Verité Research Executive Director Dr. Nishan de Mel, and the discussant will be Prof. Mushtaq Khan.
-
-...
-
-[Data](articles/95a4632d.json)
-
-[Extended Data](ext_articles/95a4632d.ext.json)
-
----
-
-### State Minister of Finance addresses taxation policies and trade issues
-
-*2024-05-13 23:02:46* · [`dailyftlk`](https://www.ft.lk/business/State-Minister-of-Finance-addresses-taxation-policies-and-trade-issues/34-761739) · `en`
-
-Says Govt. already initiated steps to remove taxes on special trade items
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday addressed key taxation policies and trade-related concerns during a statement in the Parliament, affirming the Government’s readiness to engage in negotiations and implement necessary changes.
-
-“The Government has already initiated steps to remove taxes on special trade items, indicating a willingness to accommodate any party with concerns in this regard through wide-scale negotiations,” he told the House.
-
-Despite ongoing discussions surrounding the sugar tax fraud, the State Minister highlighted the absence of practical solutions from parties critiquing the policy. He urged those with viable alternatives to present them for consideration and implementation.
-
-...
-
-[Data](articles/4de22187.json)
-
-[Extended Data](ext_articles/4de22187.ext.json)
-
----
-
-### From reformist pedagogy to revolutionary pedagogy
-
-*2024-05-13 23:02:00* · [`islandlk`](http://island.lk/from-reformist-pedagogy-to-revolutionary-pedagogy/) · `en`
-
-Having been raised and schooled in Kandy, I have watched the festivities of the Esala Perahera at least 10 times, as a child, and drawn it at least five times during my school years. August was the best month for schools in Kandy Lake Round. We used to get a long school vacation as schools closed to house the forces providing security to the Esala Perahera. Ice cream carts, cotton candy vendors, popcorn, isso-wadai, balloon animals, sadda-nalaa  [whistles for the lack of an English equivalent], glowsticks; August was carnivalesque for my childhood self. Growing up, I saw it more as a circus. Why do crowds raise their arms with “saadu saadu”? Why are elephants in this procession? Why do new mothers take their children under the belly of elephants for good luck? Do elephants have healing powers? Are they divine? Why are they chained then? Are they beastly?
-
-...
-
-[Data](articles/b95488cc.json)
-
-[Extended Data](ext_articles/b95488cc.ext.json)
 
 ---

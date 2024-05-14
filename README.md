@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 06:18:06**
+As of **2024-05-14 06:57:29**
 
 ## Newspaper Stats
 
-*Scraped **23,827** Articles*
+*Scraped **23,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 215
 bbccomsinhala | 244
 dbsjeyarajcom | 246
 newsfirstlk | 363
-islandlk | 1,286
+islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,827 (100.0%) of 23,827 articles have been extended.
+23,827 (99.9%) of 23,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -666,6 +666,50 @@ Sri Lanka, a country of rich cultural heritage and stunning natural beauty, has 
 
 ---
 
+### London…here I come
+
+*2024-05-13 23:25:00* · [`islandlk`](http://island.lk/londonhere-i-come/) · `en`
+
+Versatile musician Hiruni Virginia Fernando is due to leave for London, today, to team up with her husband.
+
+Of course, the local music scene would very much miss this highly talented artiste who has impressed many with her booming bass sounds.
+
+A Trinity College London registered teacher, she did the needful, as music teacher, at Good Shepherd Convent Kotahena, Colombo 13, and at St. Lawrence’s Convent Wellawatte, Colombo 6.
+
+She also played bass for C&C with Chandani Hettiarachchi and was seen in action, as a pianist, at the Galadari Hotel, in Colombo.
+
+Hiruni says she will be busy with her music, in London, as well, but in a different format.
+
+Her teaching skills will surface, once again, as she will be conducting leisure playing and exam-based online and physical classes, connected with the piano and guitar (bass, electric and classical guitar).
+
+According to Hiruni, she will be operating from East Croydon, in London.
+
+...
+
+[Data](articles/c9c9f76e.json)
+
+---
+
+### Success for Seven Notes …in Dubai
+
+*2024-05-13 23:24:00* · [`islandlk`](http://island.lk/success-for-seven-notes-in-dubai/) · `en`
+
+The weather in Dubai, the past few weeks, has been so unpredictable, but it has now improved and the entertainment scene is brightening up, once again, and with the spotlight being focused on Sri Lankans – music, fashion shows, etc.
+
+News has come my way of a band, made up of all Sri Lankans, based in Dubai, who are doing extremely well…with their brand of music – a combination of western and oriental.
+
+They call themselves Seven Notes and the musicians who make up this outfit are Nishan Jayasinghe (leader – drums), Niluk Uswaththa (bass guitar), Desh Munasinghe (lead guitar), Sisira Sajith (keyboards), Diluksha Madushan (percussion), Krishiy Young (female vocalist) and Dahaam Fernando (male vocalist).
+
+According to bassist Niluk Uswaththa, although they operate as a seven-piece outfit, they have also got a newcomer, Rocky Jerom, doing the needful for them, as a singer.
+
+Seven Notes are seen in action at Sri Lankan events, in Dubai, including dances and charity shows.
+
+...
+
+[Data](articles/e6ad9b0f.json)
+
+---
+
 ### London to host panel discussion today on Sri Lanka’s economic crisis
 
 *2024-05-13 23:03:53* · [`dailyftlk`](https://www.ft.lk/business/London-to-host-panel-discussion-today-on-Sri-Lanka-s-economic-crisis/34-761740) · `en`
@@ -701,6 +745,18 @@ Despite ongoing discussions surrounding the sugar tax fraud, the State Minister 
 [Data](articles/4de22187.json)
 
 [Extended Data](ext_articles/4de22187.ext.json)
+
+---
+
+### From reformist pedagogy to revolutionary pedagogy
+
+*2024-05-13 23:02:00* · [`islandlk`](http://island.lk/from-reformist-pedagogy-to-revolutionary-pedagogy/) · `en`
+
+Having been raised and schooled in Kandy, I have watched the festivities of the Esala Perahera at least 10 times, as a child, and drawn it at least five times during my school years. August was the best month for schools in Kandy Lake Round. We used to get a long school vacation as schools closed to house the forces providing security to the Esala Perahera. Ice cream carts, cotton candy vendors, popcorn, isso-wadai, balloon animals, sadda-nalaa  [whistles for the lack of an English equivalent], glowsticks; August was carnivalesque for my childhood self. Growing up, I saw it more as a circus. Why do crowds raise their arms with “saadu saadu”? Why are elephants in this procession? Why do new mothers take their children under the belly of elephants for good luck? Do elephants have healing powers? Are they divine? Why are they chained then? Are they beastly?
+
+...
+
+[Data](articles/b95488cc.json)
 
 ---
 
@@ -909,6 +965,54 @@ Microsoft said it would invest 4 billion euros in France in its cloud and AI inf
 [Data](articles/ea23c95b.json)
 
 [Extended Data](ext_articles/ea23c95b.ext.json)
+
+---
+
+### ComBank ranked ‘Most Loved’ bank brand in Sri Lanka for 2024
+
+*2024-05-13 22:30:00* · [`islandlk`](http://island.lk/combank-ranked-most-loved-bank-brand-in-sri-lanka-for-2024/) · `en`
+
+The Commercial Bank of Ceylon has been voted Sri Lanka’s ‘Most Loved’ Bank brand and the second ‘Most Loved’ brand in the country overall in the ‘Service’ sector in 2024 by the leading business magazine LMD.
+
+These titles are based on the findings of an online survey by LMD’s research partner PepperCube Consultants.
+
+Readers of LMD from the Western, Southern, Central, North-western and Northern provinces participated in the survey and the Most Loved Brands have been ranked under 34 categories.
+
+Commenting on this valuable public endorsement, Commercial Bank Deputy General Manager Retail Banking and Marketing Mr Hasrath Munasinghe said: “An accolade of this nature, which is based on popular sentiment, must be accepted with humility and gratitude. Everything we do is intended to exceed customer expectations and fulfill our obligations to all stakeholder groups. This ranking is a great source of encouragement and an affirmation for every Commercial Bank employee that we are doing things right.”
+
+...
+
+[Data](articles/e4285246.json)
+
+---
+
+### Share market hit by parliament dissolution apprehensions
+
+*2024-05-13 22:30:00* · [`islandlk`](http://island.lk/share-market-hit-by-parliament-dissolution-apprehensions/) · `en`
+
+The stock market yesterday witnessed selling pressure due to political uncertainty stemming from the possibility of parliament being dissolved and former President Mahinda Rajapaksa’s statement urging the government not to divest state owned enterprises until elections are over, market analysts said.
+
+Consequently, both indices moved downwards. The All Share Price Index went down by 11.06 points while S and P SL20 declined by 3.79 points. Turnover stood at Rs 1.79 billion with three crossings.
+
+Those crossings were reported in PGP Glass, where 3 million shares crossed to the tune of Rs 87.3 million; its shares trading at Rs 29.10, Renuka Food (Rights) 25.5 million share volumes crossed for Rs 56.1 million; its shares traded at Rs 2.20 and Hayleys 250,000 shares crossed to the tune of Rs 23.1 million; its shares traded at Rs 92.70.
+
+...
+
+[Data](articles/fc75a3dd.json)
+
+---
+
+### IOM Sri Lanka and Ministry of Defence in collaboration with Sri Lankan Airlines conduct programme on responding to human trafficking
+
+*2024-05-13 22:26:00* · [`islandlk`](http://island.lk/iom-sri-lanka-and-ministry-of-defence-in-collaboration-with-sri-lankan-airlines-conduct-programme-on-responding-to-human-trafficking/) · `en`
+
+Aviation is the most frequent and quickest way to transport victims of human trafficking across borders. To combat this heinous crime, it’s crucial for airlines, law enforcement agencies to collaborate, implement efficient measures and train staff to recognize signs of human trafficking, and raise awareness among the stakeholders as they play an important role in effectively identifying, preventing, and responding to human trafficking.
+
+International Organisation for Migration (IOM) Sri Lanka and the Ministry of Defence (As the Chair of the National Anti-Human Trafficking Task Force – Sri Lanka) in collaboration with Sri Lankan Airlines, recently conducted a programme for the trainers of Sri Lankan Airlines on human trafficking with a special focus on the role and responsibilities of Airlines in identifying, reporting, and effectively responding to incidents of trafficking.
+
+...
+
+[Data](articles/461ce578.json)
 
 ---
 
@@ -2135,153 +2239,5 @@ Also, those who wish to pursue degree in Ayurveda, Siddha, Unani and Homeopathic
 [Data](articles/7de52355.json)
 
 [Extended Data](ext_articles/7de52355.ext.json)
-
----
-
-### Skills Development Training for Civil Officers of Sri Lanka Begins at the National Center for Good Governance
-
-*2024-05-13 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183423) · `ta`
-
-Sri Lanka's civil officers are participating in a two-week skills development program at the National Center for Good Governance in India, focusing on digital technology adoption and public service improvement. The program, part of India's ITEC project, aims to share Indian innovations and experiences with 40 senior officers from various departments. The training covers digital use, disaster management, health insurance, and transparency, among other topics, to enhance governance and public service delivery.
-
-🟩
-
-The two -week skills development program for the Sri Lankan government officials commenced today at the National Center for Good Governance in Mussori, Uttarakhand, India.
-
-The project on the ITEC of the Indian Technology and Economic Cooperation Program under the Ministry of Foreign Affairs of the Government of India has been organized.
-
-In the event, especially in the event, the Ministries and Deputy Directors of the Ministries and Departments including the Ministries and the Department of Senior Administration, Home Affairs, Provincial Council and Local Government Ministry, National Police Commission, Attorney General's Department, Sri Lanka Customs, Finance, Economic Stability and National Policies, Audit Service Commission40 Senior Civil Officers from Sri Lanka who are serving in various positions, including Senior Assistant Secretaries and Assistant Secretary.
-
-...
-
-[Data](articles/3524c3af.json)
-
-[Extended Data](ext_articles/3524c3af.ext.json)
-
----
-
-### Tamils in Sri Lanka have no right to observe mourning
-
-*2024-05-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183421) · `ta`
-
-The Movement for the People's Forum criticized the arrest of women making Mullivaikkal Kanji in Sri Lanka, highlighting the lack of mourning rights for Tamils. They condemned the government's handling of the Tamil community, citing the 2009 conflict and the ongoing lack of justice. The group called for the protection of fundamental rights and urged nationwide commemoration events for Mullivaikkal.
-
-🟩
-
-The Movement for the People's Forum, which has strongly condemned the arrest of the women who produced Mullivaikkal Kanji in Sampur in Trincomalee, said that the Tamils in Sri Lanka have no right to observe even the mourning of the mourning of the police.
-
-Speaking at a press conference held in Colombo, Rajkumar Rajiv Khan said this
-
-In May 2009, the three decades of Sri Lanka ended in the worst of the Sri Lankan government.
-
-The Tamils were killed and killed as a bomb without being known as the citizens of their country.
-
-Due to lack of food, they drank rice mixed with water and died.
-
-After 15 years of 15 years, the government has not given any justice to them.
-
-It is the right to provide drinks during the process of violating fundamental rights.
-
-In this country, the state of Tamil Nadu is in a state of disrepair.
-
-We appeal to ensure that the commemoration events are held across the country during the week of Mullivaikkal.
-
-◼️
-
-[Data](articles/4838d0b5.json)
-
-[Extended Data](ext_articles/4838d0b5.ext.json)
-
----
-
-### Tharanga Key talk about the World Cup team
-
-*2024-05-13 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196581) · `si`
-
-Upul Tharanga, Sri Lanka's Selection Committee Chairman, emphasized the team's readiness to face any challenge, highlighting the importance of adapting to different pitches, including the drop-in pitches in New York and Dallas. He mentioned the team's strategy to utilize spinners effectively, adjusting their approach based on the conditions and the opposition's strengths.
-
-🟩
-
-Sri Lanka Cricket Selection Committee Chairman, Upul Tharanga says Sri Lanka Cricket Selection Committee Chairman says that the Sri Lankan team to take on any challenge.
-
-The Chairman of the Selection Committee Chairman was speaking at a press conference today (13) today.
-
-Chairman of the SLC Selection Committee, Upul Tharanga,
-
-"The draopin pitch in the Dropin Pitch of New York and Dallas, as per the message in the United States, is the draopin pich in. Because they are in Australia. Last year, the Major League is playing in Dallas, Drapin Pich. So much of the prary. Even if he comes from Australia, he is called Wikket. That's a vicket like a sloud. In particular, in the United States, in particular, in the United States, especially in the United States. Many Wikkets with the most visible news will be a little bit of the victs. "
-
-...
-
-[Data](articles/127307d4.json)
-
-[Extended Data](ext_articles/127307d4.ext.json)
-
----
-
-### Weather advisory issued for heavy rain
-
-*2024-05-13 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99191/weather-advisory-issued-for-heavy-rain) · `en`
-
-The Meteorology Department has issued an advisory for heavy rain for Central, Sabaragamuwa, Uva provinces and in Galle, Matara and Kaluthara districts.
-
-Due to a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to enhance during the next few days, the advisory says.
-
-Heavy rainfall above 100 mm can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle, Matara and Kaluthara districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3ae537f5.json)
-
-[Extended Data](ext_articles/3ae537f5.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover drops to 1.7bn
-
-*2024-05-13 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-drops-to-1-7bn-162766/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.16 percent, or 19.81 points, at 12,499; while the S&P SL20 Index closed down 0.19 percent, or 7.24 points, at 3,722.
-
-Turnover was the lowest in two weeks at 1.7 billion. The capital goods sector, which includes many of the bluechips, contributed the most to the day’s turnover.
-
-Hemas Holdings Plc saw the most active trading volumes (Rs365mn) in the day, and the share closed up at 88.00.
-
-C T Holdings Plc, which owns Cargills (Ceylon), C T Land Development, was among the top contributors to the ASPI in the day. The share closed up at 260.00.
-
-Royal Ceramics Lanka Plc also saw some investor interest (Rs75mn), and closed up at 36.90.
-
-Among the conglomerates, Aitken Spence Plc closed up at 134.25. John Keells Holdings Plc closed down at 207.00, as did Hayleys Plc which closed down at 93.30.
-
-...
-
-[Data](articles/4ab6e47b.json)
-
-[Extended Data](ext_articles/4ab6e47b.ext.json)
-
----
-
-### Supreme Court orders over the Electricity Act
-
-*2024-05-13 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196580) · `si`
-
-The Supreme Court has secretly concluded a case against the Power and Petroleum Committee, following a three-day hearing by judges Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekere.
-
-🟩
-
-The Supreme Court announced his secret conclusion on the legacy of the petition against the Power and Petroleum Committee presented by the government.
-
-The petition hearing was held in front of a three-member judge with Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekere.
-
-The panel of judges issued this announcement by concluding the exams held for three days.
-
-◼️
-
-[Data](articles/924095cb.json)
-
-[Extended Data](ext_articles/924095cb.ext.json)
 
 ---

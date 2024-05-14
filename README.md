@@ -1,36 +1,106 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 13:33:40**
+As of **2024-05-14 13:53:08**
 
 ## Newspaper Stats
 
-*Scraped **23,921** Articles*
+*Scraped **23,928** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 216
 bbccomsinhala | 244
-dbsjeyarajcom | 246
+dbsjeyarajcom | 247
 newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,037
-adaderanalk | 2,786
+adalk | 2,039
+adaderanalk | 2,789
 tamilmirrorlk | 2,806
 virakesarilk | 3,575
 dailymirrorlk | 3,763
-adaderanasinhalalk | 3,832
+adaderanasinhalalk | 3,833
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,921 (100.0%) of 23,921 articles have been extended.
+23,921 (100.0%) of 23,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### විජයදාසට එරෙහිව දුමින්දගෙන් පෙත්සමක්
+
+*2024-05-14 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196611) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලන වාරණ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා කොළඹ දිසා අධිකරණය හමුවේ නඩුවක් ගොනුකර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් එම පෙත්සම ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/4a7f8f6d.json)
+
+---
+
+### Govt mulls nullifying 2023 LG poll nominations; election set for next year
+
+*2024-05-14 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99210/govt-mulls-nullifying-2023-lg-poll-nominations-election-set-for-next-year) · `en`
+
+President Ranil Wickremesinghe has instructed Prime Minister Dinesh Gunawardena to look into the possibility of invalidating the nominations accepted for the postponed 2023 Local Government (LG) election.
+
+Joining the Cabinet press briefing held this morning (14), Cabinet Spokesman Minister Bandula Gunawardena stated that accordingly, President Wickremesinghe has called on the Prime Minister to seek legal advice from the Attorney General in this regard.
+
+Furthermore, the Head of the State has directed the Premier to discuss with other political parties regarding the nullifying of the accepted nominations, the Minister added.
+
+Gunawardena also revealed that the instructions were given considering the fact that the government employees who have submitted nominations for the LG polls have undergone multiple issues in engaging in their jobs and during other activities.
+
+...
+
+[Data](articles/63cfb9d3.json)
+
+---
+
+### A/L classes to begin immediately after O/L exams
+
+*2024-05-14 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99209/al-classes-to-begin-immediately-after-ol-exams) · `en`
+
+The Cabinet of Ministers has granted approval for the proposal to commence G.C.E. Advanced Level classes immediately after the conclusion of the ongoing G.C.E. Ordinary Level examination.
+
+As it takes at least 03 months for the Department of Examinations to release the results after the completion of the G.C.E. O/L examination, students drop out of schools during this period, they are less inclined to continue studies and this leads to the creation of various social problems.
+
+Accordingly, it has been recognized that it is appropriate to start higher education activities in schools immediately after the completion of G.C.E. O/L examinations, the Department of Government Information (DGI) said in a release.
+
+Thus, the Cabinet of Ministers has approved the proposal table by Minister of Education Susil Premajayantha to commence G.C.E. Advanced Level classes immediately after the completion of G.C.E. Ordinary Level examination, which is currently underway.
+
+◼️
+
+[Data](articles/b1cd810f.json)
+
+---
+
+### Renewed crisis grips ‘Suwa Seriya’ ambulance service, claims Sajith
+
+*2024-05-14 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99208/renewed-crisis-grips-suwa-seriya-ambulance-service-claims-sajith-) · `en`
+
+Opposition Leader Sajith Premadasa alleged that 56 out of the 322 ambulances belonging to the ‘1990’ ‘Suwa Seriya’ free ambulance service are now out of service.
+
+Speaking during today’s (14) Parliamentary session, Premadasa urged the government to take immediate action to safeguard the ‘Suwa Seriya’ Ambulance Service from collapse.
+
+He further highlighted that a significant number of ‘Suwa Seriya’ ambulance drivers and Emergency Medical Technicians (EMTs) have departed the country, leading to prolonged periods required for training replacements.
+
+Additionally, only a limited number of individuals have shown interest in joining the ‘Suwa Seriya’ service, the Opposition Leader stressed.
+
+“In fact, adequate attention and support from the government has not been received for the repair of these ambulances and addressing their deficiencies. Therefore, I urge the government to intervene to maintain and protect this ‘Suwa Seriya’ service”, Premadasa further stated.
+
+◼️
+
+[Data](articles/b163f416.json)
+
+---
 
 ### Case against Vijayadasa Rajapaksa
 
@@ -114,6 +184,22 @@ He said a UNICEF report has revealed that 20 percent of the children who should 
 
 ---
 
+### පුතාගේ වැඩේට තාත්තත් බැහැලා
+
+*2024-05-14 12:22:58* · [`adalk`](https://www.ada.lk/breaking_news/පුතාගේ-වැඩේට-තාත්තත්-බැහැලා/11-409619) · `si`
+
+මිරිහාන  මාදිවෙල, සේනාලංකාදිකාරගම ප්‍රදේශයේ සිල්ලර බඩු විකිණීමේ වෙළඳසැලක් පවත්වාගෙන යන මුවාවෙන්  හෙරෝයින් මත්ද්‍රව්‍ය විකිණීමේ නියැලුණු පුද්ගලයෙකු රුපියල් ලක්ෂ තුනකට ආසන්න වටිනා  හෙරොයින් මත්කුඩු සමග අත්අඩංගුවට ගත් බව නුගේගොඩ කොට්ඨාස දූෂණ මර්දන ඒකකය පවසයි.
+
+සැකකරු සන්තකයේ තිබී හොරයින් මත්කුඩු මිලිගෑම් 10630 ක් පොලිස් භාරයට ගෙන ඇත.  මීට මාස එකහමාරකට පමණ පෙර යුක්තියේ මෙහෙයුමට සමගාමීව සිදුකළ වැටලීමකදී මෙම සිද්ධියට සම්බන්ධ සැකකරුගේ පුත්‍රයා හෙරොයින් මත්කුඩු සමග පොලිස් අත්අඩංගුවට පත්ව දැනට බන්ධනාගාර ගතව සිටින බවත් පුත්‍රයා බන්ධනාගාර ගතවීමෙන් අනතුරුව දැනට අත්අඩංගුවට පත්ව සිටින පියා විසින් මෙම මත්කුඩු ජාවාරම සිදු කරගෙන ගොස් ඇති බව සිදුකළ විමර්ශනවලදී අනාවරණය වූ බවද පොලිසිය පවසයි.
+
+අත්අඩංගුවට පත්ව සිටින සැකකාර පුද්ගලයා භාණ්ඩ මිලදී ගන්නා මුවාවෙන් වෙළඳසැලට පැමිණෙන හෙරෝයින් මත්ලෝලීන්ට මත්කුඩු හොර රහසේ විකුණන බවට පොලිස් සැරයන් වසන්ත නිලධාරියාට ලද රහසිගත තොරතුරක් මත සිදුකළ වැටලීමේදී සැකකරු අත්අඩංගුවට ගත් බවත් පොලිසිය සඳහන් කරයි
+
+...
+
+[Data](articles/12b2485b.json)
+
+---
+
 ### Twenty more sacred areas to be gazetted this year
 
 *2024-05-14 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twenty-more-sacred-areas-to-be-gazetted-this-year/108-282571) · `en`
@@ -149,6 +235,26 @@ Responding to this, Foreign Minister Taraka Balasuriya said, “Our foreign poli
 [Data](articles/896c972d.json)
 
 [Extended Data](ext_articles/896c972d.ext.json)
+
+---
+
+### ලෝකයේ ලොකුම තොරණ ලෙස ගිනස් වාර්තාවකට සැරසෙන පානදුර තොරණ
+
+*2024-05-14 12:15:11* · [`adalk`](https://www.ada.lk/religion/ලෝකයේ-ලොකුම-තොරණ-ලෙස-ගිනස්-වාර්තාවකට-සැරසෙන-පානදුර-තොරණ/4-409618) · `si`
+
+පානදුර ඓතිහාසික තොරණ සෑම වසරකම සිරිලක සමස්ත ජනතාවගේ නෙත් සිත් ඇද ගන්න මහා නිර්මාණයක් ලෙස ප්‍රචලිතය.මෙවර එය
+
+ලොව මෙතෙක් ඉදි වූ විශාලතම තොරණ ලෙසින් ලෝකයේම අවධානයට ලක් වන අතරේ ගිනස් වාර්තා අතරට ද  එක් වන්නට සූදානමින් ලහි ලහියේ ඉදි වෙමින් තිබේ.
+
+අභිමානවත් පානදුර බෞද්ධ පුනර්ජීවන නගරයේ නම ලොවට ගෙන යන්නට පානදුර ජයතිලක මාවතේ ඉදි වෙන එම තොරන් රාජයා උස අඩි  අසූ දෙකකට වැඩි ප්‍රමාණයක්  සහ පලල  අඩි අසූ හයකට වැඩි ප්‍රමාණයකින්  යුක්ත වේ.එය විදුලි බුබුළු එක්ලක්ෂ දස දහසකට ආසන්න ප්‍රමාණයකින් ද ඒකාලෝක වනු ඇත.
+
+පානදුර එක්සත් පොදු වෙළද පොළ බෞද්ධ සමිතිය පරිත්‍යාගශීලීන්ගේ ද ආධාරැතිව මෙම ඓතිහාසික තොරන් රාජයා ඉදි කරන අතර පසුගිය වසරේ (2023) එය  ශ්‍රී ලංකාවේ විශාලතම තොරණ ලෙස ද අභිෂේක ලැබීය.
+
+පුවක් කොටන්  යොදා ගනිමින් ලංකාවේ දැනට  ඉදිකෙරෙන එකම තොරණ ලෙස සැලකෙන මේ සඳහා මෙවර පුවක් ගස් හාරසියයක් පමණ යොදා ගෙන ඇති අතර ඒවා බුලත්සිංහල , යක්කලමුල්ල , මතුගම ආදී ප්‍රදේශවලින් සපයා ගෙන ඇත.
+
+...
+
+[Data](articles/528f18a2.json)
 
 ---
 
@@ -1522,6 +1628,18 @@ Sri Lanka’s businesses, the exporters in particular, recently called for a sta
 
 ---
 
+### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
+
+*2024-05-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
+
+This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
+
+...
+
+[Data](articles/3e9bb270.json)
+
+---
+
 ### CTC says drop in 1Q sales due to tax-led price increases
 
 *2024-05-14 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CTC-says-drop-in-1Q-sales-due-to-tax-led-price-increases/108-282539) · `en`
@@ -2129,129 +2247,5 @@ During the inaugural meeting, the Council deliberated on pivotal issues essentia
 [Data](articles/a5b8d986.json)
 
 [Extended Data](ext_articles/a5b8d986.ext.json)
-
----
-
-### Verité Research forms governance and anti-corruption research division
-
-*2024-05-14 00:05:08* · [`dailyftlk`](https://www.ft.lk/news/Verité-Research-forms-governance-and-anti-corruption-research-division/56-761762) · `en`
-
-Sri Lanka’s leading think tank Verité Research has established a governance and anti-corruption research division under the leadership of Sankhitha Gunaratne, an attorney-at-law who has championed transparent, accountable, and participatory governance for over a decade.
-
-Verité Research has made this strategic move against the backdrop of widespread, systemic corruption in Sri Lanka and the reform and accountability needs of the moment. The Governance and Anti-Corruption (GAC) division will leverage research to provide guidance in navigating complex governance challenges, and shape sectoral and general anti-corruption solutions.
-
-As the newest division of Verité Research, GAC will work collaboratively with the economy, media and politics, and law divisions to enhance Verité’s standing as an interdisciplinary think tank.
-
-...
-
-[Data](articles/a00886f8.json)
-
-[Extended Data](ext_articles/a00886f8.ext.json)
-
----
-
-### IOM Sri Lanka, Defence Ministry collaborate with SriLankan Airlines to curb human trafficking
-
-*2024-05-14 00:04:26* · [`dailyftlk`](https://www.ft.lk/news/IOM-Sri-Lanka-Defence-Ministry-collaborate-with-SriLankan-Airlines-to-curb-human-trafficking/56-761761) · `en`
-
-International Organisation for Migration (IOM) Sri Lanka and the Ministry of Defence (as the Chair of the National Anti-Human Trafficking Task Force – Sri Lanka) in collaboration with SriLankan Airlines, recently conducted a program for the trainers of national carrier on human trafficking with a special focus on the role and responsibilities of airlines in identifying, reporting, and effectively responding to incidents of trafficking.
-
-The participants were capacitated with the knowledge, analytical methods and resources that can be utilised to effectively identify victims of human trafficking and report such incidents. They also shared valuable insights and interesting encounters of successful identification of victims of trafficking.
-
-...
-
-[Data](articles/e277f867.json)
-
-[Extended Data](ext_articles/e277f867.ext.json)
-
----
-
-### Back in Parliament Mujibur slams President and Govt. for shielding Diana despite citizenship concerns
-
-*2024-05-14 00:03:14* · [`dailyftlk`](https://www.ft.lk/news/Back-in-Parliament-Mujibur-slams-President-and-Govt-for-shielding-Diana-despite-citizenship-concerns/56-761760) · `en`
-
-Alleges President and Govt. used Gamage to undermine SJB and target Opposition Leader Sajith Premadasa
-
-Accuses Speaker of inaction regarding Gamage’s citizenship issue despite being informed of it
-
-Calls for investigation into Immigration and Emigration Controller General and other officials involved in issuing diplomatic passport to Gamage
-
-Reveals CID investigator CI Sugath Amarasinghe was transferred to impede investigations into case against Gamage
-
-In his first address on returning to Parliament, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday slammed President Ranil Wickremesinghe and the Government for shielding former State Minister Diana Gamage to preserve her Parliamentary position, despite being aware of her non-Sri Lankan citizenship.
-
-...
-
-[Data](articles/37fa6947.json)
-
-[Extended Data](ext_articles/37fa6947.ext.json)
-
----
-
-### Pro-Palestine protest
-
-*2024-05-14 00:02:14* · [`dailyftlk`](https://www.ft.lk/news/Pro-Palestine-protest/56-761759) · `en`
-
-Demonstrators gathered near the Liberty Circle in Colombo yesterday to condemn the ongoing atrocities being allegedly committed by Israel against Palestine. The protest was organised by the Palestine Friendship Organisation. Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa and MPs Mujibur Rahman and S.M. Marikkar are seen participating in the event.
-
-◼️
-
-[Data](articles/826cab2c.json)
-
-[Extended Data](ext_articles/826cab2c.ext.json)
-
----
-
-### Four arrested in Sampur for commemorating war dead
-
-*2024-05-14 00:01:28* · [`dailyftlk`](https://www.ft.lk/news/Four-arrested-in-Sampur-for-commemorating-war-dead/56-761758) · `en`
-
-Three females and a male were arrested by the Sampur Police on Sunday night for violating a court order by holding a commemoration event in remembrance of the Mullivaikkal war dead. According to sources, the arrested had allegedly distributed porridge to neighbours in memory of their relatives who were killed during the armed conflict.
-
-The police, armed with a court order prohibiting such commemorative events, apprehended the four persons amidst a tense situation, as depicted in video footage showing the women being forcibly taken away.
-
-The arrested were further remanded until 27 May after being presented to the Mutur Magistrates Court yesterday.
-
-In 2016, the Human Rights Commission urged the Government to uphold the right to remember deceased relatives. However, activists view recent police arrests as a grave concern, considering this recommendation.
-
-◼️
-
-[Data](articles/1c4d0cad.json)
-
-[Extended Data](ext_articles/1c4d0cad.ext.json)
-
----
-
-### Court issues order ensuring unimpeded duties for new SLFP Chair Wijeyadasa
-
-*2024-05-14 00:01:21* · [`dailyftlk`](https://www.ft.lk/news/Court-issues-order-ensuring-unimpeded-duties-for-new-SLFP-Chair-Wijeyadasa/56-761757) · `en`
-
-The Kaduwela District Court yesterday issued an enjoining order prohibiting any individual or group from obstructing the newly appointed Sri Lanka Freedom Party (SLFP) Chairperson Dr. Wijeyadasa Rajapaksa, and Acting Secretary Keerthi Udawatta, from performing their duties within the party.
-
-Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoining orders during a case brought forward by SLFP Executive Committee members Isuru Abeywardena and Sumith Wijayamuni de Soysa, who named 20 Executive Committee members as respondents.
-
-...
-
-[Data](articles/7898079a.json)
-
-[Extended Data](ext_articles/7898079a.ext.json)
-
----
-
-### Foreigner, Freeman forced out of Parliament 90 years ago First British passport holder elected to Parliament in 1924
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Foreigner-Freeman-forced-out-of-Parliament-90-years-ago-First-British-passport-holder-elected-to-Parliament-in-1924/172-282510) · `en`
-
-Born in March 1864, Herbert Rayner Freeman was elected to the Legislative Council-(LG) under the Colebrook Constitution in 1924, representing the North-Central Province
-
-Freeman was known to traverse miles along jungle trails, visiting the ill and those in need, always carrying his iconic umbrella. Remarkably, he even attended court sessions to advocate for individuals he believed had been unfairly accused in criminal cases
-
-Abolish the National List; empower the electorate to choose their representatives. The current system is flawed, with party leaders and secretaries often lacking insight. They appoint individuals with dubious backgrounds, including terrorists and non-citizens, merely for financial gain. This practice undermines the credibility of our democratic principles and turns them into a farce. Let’s restore integrity to our electoral process by allowing people to have a direct say in who represents them.
-
-...
-
-[Data](articles/0ebeaf68.json)
-
-[Extended Data](ext_articles/0ebeaf68.ext.json)
 
 ---

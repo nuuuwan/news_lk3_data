@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 18:11:55**
+As of **2024-05-14 18:23:24**
 
 ## Newspaper Stats
 
-*Scraped **24,003** Articles*
+*Scraped **24,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,298
 economynextcom | 1,375
 dailyftlk | 1,390
 adalk | 2,049
-adaderanalk | 2,793
+adaderanalk | 2,794
 tamilmirrorlk | 2,811
 virakesarilk | 3,598
-dailymirrorlk | 3,776
-adaderanasinhalalk | 3,841
+dailymirrorlk | 3,777
+adaderanasinhalalk | 3,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,999 (100.0%) of 24,003 articles have been extended.
+24,003 (100.0%) of 24,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### LTTEයට පනවා තිබූ තහනම ගැන තීරණයක්
+
+*2024-05-14 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196622) · `si`
+
+ඉන්දිය රජය LTTE කොටි ත්‍රස්ත සංවිධානයට එරෙහිව පනවා තිබූ තහනම තවත් වසර 5කින් දීර්ඝ කිරීමට තීරණය කර ඇත.
+
+එරට ස්වදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ LTTE කොටි ත්‍රස්ත සංවිධානය තවදුරටත් රටේ ඒකීයභාවයට සහ ආරක්ෂාවට අගතිගාමී ක්‍රියාකාරකම්වල නිරතවන බව ඔවුන්ගේ මතය බැවින් මෙම තීරණය ගෙන ඇති බව එහි සඳහන් වෙයි.
+
+එසේම 2009 වර්ෂයේ මැයි මාසයේදී ශ්‍රී ලංකාව තුළදී  LTTE කොටි ත්‍රස්ත සංවිධානය ලද පරාජය සමග ඔවුන් ‘ඊළාම්’ සංකල්පය තවදුරටත් අත්හැර නොමැති බවද එහි සඳහන් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එසේම එම LTTE කොටි ත්‍රස්ත සංවිධානය සඳහා අරමුදල් රැස්කිරීම සහ ‘ඊළාම්’ සංකල්පය සඳහා රහසිගත අයුරින් කටයුතුවල නිරතවන බවද එම නිවේදනයේ සඳහන් වන බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+
+LTTE කොටි ත්‍රස්ත සංවිධානය ඉන්දියාව තුළ මෙන්ම විශේෂයෙන් තමිල්නාඩු හි ජනතාව අතර සිය  බෙදුම්වාදී මතය අඛණ්ඩව ප්‍රචාරය මේ හේතුවෙන් අවසානයේ සමස්ත ඉන්දීයාවේ භෞමික අඛණ්ඩතාවයට බලපෑම් එල්ලකර ඇති බවත් මේ වනවිට නිරීක්ෂණය වී ඇති බවත් එම මාධ්‍ය වාර්තාවන් වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/547d3163.json)
+
+---
 
 ### Up in the sky...
 
@@ -41,6 +63,56 @@ The Base Jump event from the Colombo Lotus Tower took place for third day today.
 ◼️
 
 [Data](articles/a355afe8.json)
+
+[Extended Data](ext_articles/a355afe8.ext.json)
+
+---
+
+### නායයෑම් අනතුරු ඇඟවීමක්
+
+*2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
+
+ප්‍රදේශ රැසකට ඇදහැලෙන අධික වර්ෂාවත් සමග නායයෑම් අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+ඒ් අනුව බදුල්ල, මහනුවර, කෑගල්ල, රත්නපුර යන දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා පළමු අදියරේ නායයෑම් අනතුරු ඇඟවීමක් නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/16e338a5.json)
+
+---
+
+### India extends ban imposed on LTTE for 5 years
+
+*2024-05-14 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99217/india-extends-ban-imposed-on-ltte-for-5-years) · `en`
+
+The Indian on Tuesday extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
+
+The Union Home Ministry of India imposed the ban invoking the sub-sections (1) and (3) of section 3 of the Unlawful Activities (Prevention) Act, 1967.
+
+In a notification, the home ministry said the central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
+
+It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of ‘Eelam’ (an independent country for Tamils) and has been clandestinely working towards the ‘Eelam’ cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
+
+...
+
+[Data](articles/6c19f390.json)
+
+---
+
+### India extends ban imposed on LTTE for five years
+
+*2024-05-14 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-extends-ban-imposed-on-LTTE-for-five-years/155-282584) · `en`
+
+India on May 14 extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
+
+In a notification, the Home Ministry said the Central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
+
+It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of 'Eelam' (an independent country for Tamils) and has been clandestinely working towards the 'Eelam' cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
+
+...
+
+[Data](articles/1ffd0740.json)
 
 ---
 
@@ -57,6 +129,8 @@ It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE 
 ...
 
 [Data](articles/ca607fc8.json)
+
+[Extended Data](ext_articles/ca607fc8.ext.json)
 
 ---
 
@@ -1558,6 +1632,8 @@ In footage shared on social media, two people were seen dragging an estate worke
 
 [Data](articles/8f547b61.json)
 
+[Extended Data](ext_articles/8f547b61.ext.json)
+
 ---
 
 ### Renewed crisis grips ‘Suwa Seriya’ ambulance service, claims Sajith
@@ -1757,6 +1833,8 @@ SLSB was acquired by the State-owned National Savings Bank (NSB) in October 2019
 ◼️
 
 [Data](articles/2c8f9d6f.json)
+
+[Extended Data](ext_articles/2c8f9d6f.ext.json)
 
 ---
 
@@ -2231,101 +2309,5 @@ GV Prakash and Sindhavi, who had been in love since school period, got married i
 [Data](articles/490657d7.json)
 
 [Extended Data](ext_articles/490657d7.ext.json)
-
----
-
-### Cricket team to be arrested
-
-*2024-05-14 11:23:47* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-ඇමෙරිකාවට-යයි/9-409617) · `si`
-
-The Sri Lanka Cricket team, led by Wanidu Hasaranga and managed by Mahinda Halangoda, departed for the US on 05/14 for the Twenty20 World Cup from 06/01 to 06/29. The team includes 15 players, with additional staff like managers, coaches, doctors, and physiotherapists.
-
-🟩
-
-The Sri Lanka Cricket team left for the United States at the Katunayake airport on 05/14 for the Twenty20 World Cup championship.
-
-The tournament will be held from June 1 to June on June 1 to 29 June on the 29th.
-
-The Sri Lankan team leadership is found by Wanidu Hazareley and Mahinda Halangoda is a team manager.
-
-Sri Lanka cricket team included 15 players, four additional players, and managers, coaches, doctors, physiotherators, physiotherators.
-
-The Sri Lankan team at 10.05 am on 05/14 on 05/14 pm Emirates Airlines.
-
-◼️
-
-[Data](articles/cc4ab20b.json)
-
-[Extended Data](ext_articles/cc4ab20b.ext.json)
-
----
-
-### Sri Lanka cigarette taxes down amid legal sales fall in 2024 March quarter
-
-*2024-05-14 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-cigarette-taxes-down-amid-legal-sales-fall-in-2024-march-quarter-162903/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Tobacco Company said its March quarter cigarette sales were down from a year earlier, leading to an absolute revenue fall as well amid tax hikes and an economic slowdown.
-
-Revenue in the March 2024 quarter fell to 45.85 billion rupees, down from 46.93 billion rupees last year.
-
-Turnover linked taxes fell to 31.7 billion rupees from 34.2 billion rupees.
-
-“The Company’s sales volume during the three months ended 31st March 2024 was lower in comparison to the same period last year, mainly due to the tax led price increases in line with the Government’s revenue proposals,” CTC told shareholders in the interim accounts.
-
-Tax revenues were almost the same as the September 23 quarter, but sharply down from the December 2023 quarter, where there was a pick-up in sales.
-
-CTC in the past has said there was a shift to beedi as well as rise in smuggling due to tax hikes.
-
-...
-
-[Data](articles/3e77a754.json)
-
-[Extended Data](ext_articles/3e77a754.ext.json)
-
----
-
-### US assures support to implement anti-corruption legislation and macro-economic reforms
-
-*2024-05-14 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99204/us-assures-support-to-implement-anti-corruption-legislation-and-macro-economic-reforms) · `en`
-
-Foreign Secretary Aruni Wijewardane has met with U.S. Assistant Secretary for South and Central Asian Affairs Donald Lu and discussed avenues to further consolidate Sri Lanka – U.S. bilateral relations.
-
-During the meeting held on Monday (13) at the Ministry of Foreign Affairs, Foreign Secretary Wijewardane apprised Assistant Secretary Lu of the recent developments in the economic front, as well as the export oriented, open market growth enhancement strategies and initiatives taken by Sri Lanka.
-
-Issuing a statement in this regard, the Ministry of Foreign Affairs said that she elaborated on the measures taken by the Government to improve governance, rule of law, financial oversight as well as to combat corruption, and foster reconciliation.
-
-Foreign Secretary Wijewardane also discussed the robust security cooperation between the two nations, including in the maritime sphere to effectively handle maritime safety and security as well as safeguard maritime trade.
-
-...
-
-[Data](articles/92f407d5.json)
-
-[Extended Data](ext_articles/92f407d5.ext.json)
-
----
-
-### Man arrested for shooting at Ahungalla
-
-*2024-05-14 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196608) · `si`
-
-A man was arrested by the STF in Kosgoda for shooting in Ahungalla. He was found with 1,150 milli and a mobile phone containing heroin. The suspect, known for his violent behavior, is now under investigation by the Kosgoda Police.
-
-🟩
-
-A person has been arrested by the STF in the Kosgoda area in Kosgoda.
-
-The suspect has been arrested by the Suspect's suspect in the Davodaya area Kosgoda, Kosgoda.
-
-It is said that the suspect is a descriptive person who shot in Ahungalla, Ahungalla, who supported the shot.
-
-He owned 1,150 milli and a mobile phone with heroin in his possession.
-
-The suspect has been submitted to the Kosgoda Police for further investigations.
-
-◼️
-
-[Data](articles/195f7641.json)
-
-[Extended Data](ext_articles/195f7641.ext.json)
 
 ---

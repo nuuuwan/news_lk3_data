@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 13:03:18**
+As of **2024-05-14 13:18:21**
 
 ## Newspaper Stats
 
-*Scraped **23,913** Articles*
+*Scraped **23,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,034
+adalk | 2,037
 adaderanalk | 2,786
-tamilmirrorlk | 2,803
+tamilmirrorlk | 2,806
 virakesarilk | 3,575
-dailymirrorlk | 3,761
+dailymirrorlk | 3,763
 adaderanasinhalalk | 3,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,910 (100.0%) of 23,913 articles have been extended.
+23,913 (100.0%) of 23,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### விஜதாச ராஜபக்ஷவுக்கு எதிராக வழக்கு
+
+*2024-05-14 12:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜதாச-ராஜபக்ஷவுக்கு-எதிராக-வழக்கு/175-337292) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தவிசாளராக அமைச்சர் விஜதாச ராஜபக்ஷ செயற்படுவதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கோரி பாராளுமன்ற உறுப்பினர்  துமிந்த திஸாநாயக்க, கொழும்பு மாவட்ட நீதிமன்றத்தில் இன்று (14) வழக்குத் தாக்கல் செய்தார்.
+
+அந்த மனுவில் சரத் ஏக்கநாயக்க, அமைச்சர் விஜதாச ராஜபக்ஷ உள்ளிட்ட ஐவர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/484d5114.json)
+
+---
 
 ### Cabinet greenlights ‘Economic Transformation Bill’
 
@@ -43,6 +57,76 @@ The proposal was submitted to the Cabinet by President Ranil Wickremesinghe in h
 ◼️
 
 [Data](articles/6437fb05.json)
+
+[Extended Data](ext_articles/6437fb05.ext.json)
+
+---
+
+### மின்னல் தாக்கி நான்கு கால்நடைகள் பலி
+
+*2024-05-14 12:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்னல்-தாக்கி-நான்கு-கால்நடைகள்-பலி/76-337289) · `ta`
+
+கம்பளை ,  கலமுதுன,  மீனகொல்ல  தோட்ட  பகுதியில் திங்கட்கிழமை  (13) மதியம்  ஏற்பட்ட  மின்னல் தாக்கினால் அப்பகுதியில்  மேச்சலுக்காக விடபட்டிருந்த பதினாரு கால் நடைகளிள்,  மூன்று கரவை  பசுக்களும்   ஒரு காளையும்  பலியாகியுள்ளன.
+
+குறித்த தோட்ட பகுதியில்  வசிக்கும்  சத்திவேள் சந்திரகுமார்  தனது  ஆறு  குடும்பஸ்தர்கள்லுடன் ,   இவ் கால் நடைகளில் இருந்து  கிடைக்கும்  வருமானத்தில் வாழ்க்கை நடத்தி வந்ததாக தெரிவிக்கப்பட்டுள்ளது .
+
+இந் நிலையில் வழமைபோல  கால்நடைகலை தோட்ட பகுதியில்  உள்ள  பல் தறைகழுக்கு மேச்சலுக்காக விட்டிருந்த சமயம் மழையுடன் ஏற்ப்பட்ட  மின்னல் தாக்கத்தினால் மாடுகள் உயிரிழந்துள்ளதாக அப்பகுதியில் பணிப்புரிந்த தொழிலாளர்கள் தெரிவித்துள்ளனர் .
+
+மேலும் இது தொடர்பிலான மேலதிக விசாரணைகளை குறுந்துவத்த பொலிஸார் மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/8b603eb8.json)
+
+---
+
+### Only 6,000 out of 34,000 pre-school teachers are diploma holders: Susil
+
+*2024-05-14 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-6-000-out-of-34-000-pre-school-teachers-are-diploma-holders-Susil/108-282572) · `en`
+
+Parliament, May 14 (Daily Mirror)- Education Minister Susil Premajayantha revealed today that only 6,000 out of 34,000 pre-school teachers and assistant teachers in Sri Lanka are diploma holders.
+
+He told Parliament that there are 18,800 pre-schools in Sri Lanka and it is a serious matter that most of the teachers and assistant teachers are not diploma holders.
+
+Responding to a question by SJB MP Hesha Vithanage, he said it is wrong to use even the terms Montessori and pre-school and that the correct term should be Early Childhood Development Centres.
+
+The Minister said in developed countries such as the US and Japan, top priority in education is given to Early Childhood Development as it is the most important stage of the child’s education.
+
+He said a UNICEF report has revealed that 20 percent of the children who should receive pre-school education have no access to it.
+
+◼️
+
+[Data](articles/30838d93.json)
+
+---
+
+### Twenty more sacred areas to be gazetted this year
+
+*2024-05-14 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twenty-more-sacred-areas-to-be-gazetted-this-year/108-282571) · `en`
+
+Colombo, May 14 (Daily Mirror) - Twenty more places of religious worship are expected to be gazetted this year as sacred areas, while nine places have already been gazetted so far, the National Physical Planning Department said.
+
+Accordingly, the Uddhakandara Rajamaha Viharaya in Hambantota, Dambadeniya Rajamaha Viharaya in Kurunegala, Kotasara Piangala Rajamaha Viharaya in Moneragala, Weheragala Rajamaha Viharaya in Puttalam, Bambarakale Rajamaha Viharaya in Nuwara Eliya, Batapotha Sri Sudharshanarama Purana Viharaya in Colombo, Wanduruppa Theraputthabhaya Rajamaha Viharaya in Hambantota, Kadigamuwa Sri Nagavanaramaya in Kegalle and the Kshetrarama Rajamaha Viharaya in Matale will be gazetted as sacred areas.
+
+...
+
+[Data](articles/8c23cd38.json)
+
+---
+
+### ”இஸ்ரேலுடனான உறவுகளை முறிக்க வேண்டும்”
+
+*2024-05-14 12:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுடனான-உறவுகளை-முறிக்க-வேண்டும்/175-337288) · `ta`
+
+காஸா மீதான இராணுவத் தாக்குதல்களை நிறுத்தத் தவறினால், இஸ்ரேலுடனான தூதரக உறவுகளை முறிப்பது குறித்து இலங்கை அரசாங்கம் பரிசீலிக்க வேண்டும் என்று எதிர்க்கட்சி எம்பி ரவூப் ஹக்கீம் இன்று வலியுறுத்தியுள்ளார்.
+
+"இஸ்ரேலை அச்சுறுத்தி, காஸா மீதான தாக்குதலை நிறுத்தாவிட்டால் இலங்கை இராஜதந்திர உறவுகளை விலக்கிக்கொள்ளும் என்று தெரிவிக்கவும். கடைசி முயற்சியாக இதை செய்யுங்கள்" என்று ஹக்கீம் பாராளுமன்றத்தில் கூறினார்.
+
+இதற்குப் பதிலளித்த வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய "அனைத்து நாடுகளுடனும் உறவுகளை ஏற்படுத்திக் கொள்வதும், பேணுவதும்தான் எங்களின் வெளியுறவுக் கொள்கை. இருப்பினும், பலஸ்தீனத்தை நாங்கள் கைவிட்டுவிட்டோம் என்று அர்த்தமில்லை" என்று தெரிவித்தார்.
+
+◼️
+
+[Data](articles/896c972d.json)
 
 ---
 
@@ -118,21 +202,27 @@ This recruitment is delayed due to the spread of Corona virus and bankruptcy. Th
 
 ---
 
-### උසස් පෙළ ගැන අමාත්‍ය මණ්ඩලයෙන් තීරණයක්
+### Cabinet decision about Advanced Level
 
 *2024-05-14 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196610) · `si`
 
-අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහාම උසස් පෙළ පන්ති ආරම්භ කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The Cabinet has approved starting the GCE A/L immediately after the GCE O/L exams in 2023, following a proposal by the Minister of Education. This decision aims to efficiently manage students' time and ensure the A/L syllabus is covered.
 
-සිසුන්ගේ කාලය ඵලදායී ලෙස කළමනාකරණය කිරීම අරමුණු කරගෙන අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා විසින් ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+🟩
 
-ඒ අනුව උසස් පෙළ විෂය නිර්දේශය ආවරණය කිරීමට ගුරුවරුන්ට ප්‍රමාණවත් කාලයක් සලසා දීමට හැකි වන පරිදි අපොස සාමාන්‍ය පෙළ අවසන් වීමත් සමග පාසල්වල උසස් පෙළ අධ්‍යාපන කටයුතු ආරම්භ කිරීමට නියමිතය.
+Cabinet approval has been approved by the Cabinet approval to commence the A / Lens immediately after the GCE Ordinary Level examination.
 
-2023 වර්ෂයට අදාළව මේ වනවිට සාමාන්‍ය පෙළ විභාගය පැවැත්වෙමින් ඇත.
+The proposal made by Minister of Education Susil Premajayantha has approved such a proposal to manage the students' time effectively.
+
+Accordingly, the GCE A Level education activities will be commenced in schools with the closing of the GCE A / L students to cover the GCE A / L syllabus.
+
+The GCE Ordinary Level examination is being held regarding the year 2023.
 
 ◼️
 
 [Data](articles/079c86ba.json)
+
+[Extended Data](ext_articles/079c86ba.ext.json)
 
 ---
 
@@ -234,21 +324,27 @@ It is noteworthy that two people have been arrested as the main suspect has esca
 
 ---
 
-### කෙහෙළියගේ පෙත්සම සලකා බැලීමට දින දෙයි
+### The Keheliya's petition will be considered to consider
 
 *2024-05-14 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196609) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම සලකා බැලීම සඳහා මේ මස 31 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+Keheliya Rambukwella's petition, regarding substandard antibodies and their injection inquiry, will be considered by the Court of Appeal. The court, presided over by Judge Nissankala Karunaratne and Shahi Mahendran, has ordered a precautionary call. The petition will also be reviewed on the 31st. Dr. Kapila Wickramanayaka, the former Provincial Supply Director, has submitted to the Ministry of Health's policy on substandard antibodies.
 
-මෙම පෙත්සම අද (14) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-ඉන් අනතුරුව පෙත්සම සලකා බැලීම සඳහා මේ මස 31 වනදා කැඳවන ලෙසද අධිකරණයේ නියම කළේය.
+Former Health Minister Keheliya Rambukwella to submit to remand the orders of the Standard antibody the substandard antibody the proceedings of the injection of the proceedings of the inquiry.The Court of Appeal ordered to call on the precaution.
 
-මේ අතර, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බල රහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා  සෞඛ්‍ය අමාත්‍යංශයේ හිටපු සැපයුම් අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම සලකා බැලීම
+The petition was summoned before the Court of Appeal, Judge Nissankala Karunaratne and Shahi Mahendran today (14).
+
+The court also ordered to be called on the petition on the 31st of this month.
+
+Meanwhile, the former Provincial Supply Director Dr. Kapila Wickramanayaka submitted to the execution policy of the Ministry of Health to issue the orders of the substandard antibodies and the order of the courts.Considering the petition
 
 ◼️
 
 [Data](articles/bbba8081.json)
+
+[Extended Data](ext_articles/bbba8081.ext.json)
 
 ---
 
@@ -321,6 +417,26 @@ GV Prakash and Sindhavi, who had been in love since school period, got married i
 [Data](articles/490657d7.json)
 
 [Extended Data](ext_articles/490657d7.ext.json)
+
+---
+
+### ක්‍රිකට් කණ්ඩායම ඇමෙරිකාවට යයි
+
+*2024-05-14 11:23:47* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-ඇමෙරිකාවට-යයි/9-409617) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම විස්සයි විස්ස ලෝක කුසලාන ශූරතා තරගාවලිය සදහා 05/14 දින උදෑසන කටුනායක ගුවන් තොටුපොළෙන් ඇමෙරිකා එක්සත් ජනපදය බලා පිටත්ව ගියහ .
+
+මෙම තරගාවලිය ජූනි මස 01 දින සිට ජූනි මස 29 දින දක්වා බටහිර ඉන්දීය කොදෙව් දූපත් රාජ්‍යයේ සහ ඇමෙරිකා එක්සත් ජනපදයේ පැවැත්වීමට නියමිතය .
+
+ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය වනිදු හසරංග විසින් හොඹවනු ලබන අතර කණ්ඩායමේ කළමනාකරු ලෙස මහින්ද හලංගොඩ මහතා කටයුතු කරනු ලැබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ක්‍රීඩකයින් 15 දෙනෙකු , අතිරේක ක්‍රීඩකයින් 04 දෙනෙකු සහ කළමනාකරුවන් , පුහුණුකරුවන් , වෛද්‍යවරුන් , භෞත චිකිත්සකයින් ඇතුළු 25 දෙනෙකුගෙන් යුතු පිරිසක් ඇතුළත් වී සිටියහ .
+
+මෙම ශ්‍රී ලංකා කණ්ඩායම 05/14 දින උදෑසන 10.05 ට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 651 දරන ගුවන් යානයෙන් මුළින්ම ඩුබායි බලා පිටත්ව ගොස් එතැන් සිට ඇමෙරිකාවේ නිව්යෝර්ක් නුවර බලා පිටත්ව යාමට නියමිතය .
+
+◼️
+
+[Data](articles/cc4ab20b.json)
 
 ---
 
@@ -2109,127 +2225,5 @@ Abolish the National List; empower the electorate to choose their representative
 [Data](articles/0ebeaf68.json)
 
 [Extended Data](ext_articles/0ebeaf68.ext.json)
-
----
-
-### Untangling Sri Lanka’s messy government structure
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Untangling-Sri-Lankas-messy-government-structure/172-282513) · `en`
-
-This means that from 2010-2023, 111 gazettes have been published to  change either the duties and functions assigned to ministries, the  institutions that are assigned to those ministries or the laws that  these ministries are supposed to implement
-
-It would be an absolute surprise for someone walking into a local ministry to find everything crystal clear. Rather it could be just the opposite with the operation all over the place. Sri Lanka’s system of government has a history of assigning unrelated subjects to a single ministry, thereby including multiple departments and institutions under one roof. The latest blueprint document for rational government by Verité Research reveals that the compositions of ministries had undergone changes 111 times between 2010 and 2023.
-
-...
-
-[Data](articles/319debaf.json)
-
-[Extended Data](ext_articles/319debaf.ext.json)
-
----
-
-### The rise and fall  of South Asian leaders in Britain and Ireland
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-rise-and-fall-of-South-Asian-leaders-in-Britain-and-Ireland/172-282512) · `en`
-
-According to the website www.politico.com Rishi Sunak’s Conservative  party is “marching inexorably towards annihilation” in  the next  parliamentary elections expected to be held either at the end of this  year or January 2025. This is indicated in the results of the local  council elections held throughout the UK on May 2
-
-The influence of South Asians at the highest political levels in the  British Isles appears to be on the wane. However, there is speculation  that Leo Varadkar might take up a top job in the European Union and  become the first person of part-Indian origin to do so
-
-But Varadkar could not solve Ireland’s acute housing problem. Under both  terms as Taoiseach, he failed to hit targets for affordable housing. A  whole generation of young voters were unable to purchase homes
-
-Leo Varadkar and Humza Yousaf have resigned and Rishi Sunak is shaky
-
-...
-
-[Data](articles/75e5839f.json)
-
-[Extended Data](ext_articles/75e5839f.ext.json)
-
----
-
-### Election merry-go-round
-
-*2024-05-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Election-merry-go-round/172-282508) · `en`
-
-Election fever is in the air. Yet elections have not been announced. It’s ‘Fun-O-Rama’ time for politicians who are having a ball. Past President Mahinda Rajapaksa during his time was a past master at splitting political parties that
-
-This time around, the ex-president’s party-the Sri Lanka Podujana Peramuna (SLPP)- is one of the political outfits that is faced with several splits. The former chairman of the SLPP with 13 SLPP MPs defected and formed the ‘Freedom People’s Congress’. They now sit with the Samagi Jana Balawegaya (SJP) in Opposition
-
-SLPP strongman Basil Rajapaksa has demanded a General Election first. But added a rider as reported in the Daily Mirror on 8 May, that he would not leave room for a rift with the President. Former President Mahinda called for a rethink of the sale of state- owned enterprises, but in a very subdued tone.
-
-The Leader of the Samagi Jana Balawegaya is at war with his Party chairman.
-
-...
-
-[Data](articles/8d9489a7.json)
-
-[Extended Data](ext_articles/8d9489a7.ext.json)
-
----
-
-### 2024-05-13 (Monday)
-
-### Unlocking Sri Lanka’s tourism potential: Challenges, opportunities, and strategies
-
-*2024-05-13 23:43:17* · [`dailyftlk`](https://www.ft.lk/columns/Unlocking-Sri-Lanka-s-tourism-potential-Challenges-opportunities-and-strategies/4-761746) · `en`
-
-Creating a conducive environment for leisure and recreation is essential for attracting and retaining tourists
-
-Sri Lanka, a country of rich cultural heritage and stunning natural beauty, has faced significant challenges in recent years, particularly in its tourism sector. Despite its potential as a top tourist destination, the nation has struggled with foreign exchange difficulties, hindering its ability to import essential medicines, and impacting its overall economic stability. However, amidst these challenges, there are opportunities for revitalising and enhancing the tourism industry to become a primary source of foreign exchange earnings. This paper delves into the intricate details of Sri Lanka’s tourism landscape, examining both the obstacles it faces and the strategies to overcome them.
-
-...
-
-[Data](articles/41fc8dac.json)
-
-[Extended Data](ext_articles/41fc8dac.ext.json)
-
----
-
-### London…here I come
-
-*2024-05-13 23:25:00* · [`islandlk`](http://island.lk/londonhere-i-come/) · `en`
-
-Versatile musician Hiruni Virginia Fernando is due to leave for London, today, to team up with her husband.
-
-Of course, the local music scene would very much miss this highly talented artiste who has impressed many with her booming bass sounds.
-
-A Trinity College London registered teacher, she did the needful, as music teacher, at Good Shepherd Convent Kotahena, Colombo 13, and at St. Lawrence’s Convent Wellawatte, Colombo 6.
-
-She also played bass for C&C with Chandani Hettiarachchi and was seen in action, as a pianist, at the Galadari Hotel, in Colombo.
-
-Hiruni says she will be busy with her music, in London, as well, but in a different format.
-
-Her teaching skills will surface, once again, as she will be conducting leisure playing and exam-based online and physical classes, connected with the piano and guitar (bass, electric and classical guitar).
-
-According to Hiruni, she will be operating from East Croydon, in London.
-
-...
-
-[Data](articles/c9c9f76e.json)
-
-[Extended Data](ext_articles/c9c9f76e.ext.json)
-
----
-
-### Success for Seven Notes …in Dubai
-
-*2024-05-13 23:24:00* · [`islandlk`](http://island.lk/success-for-seven-notes-in-dubai/) · `en`
-
-The weather in Dubai, the past few weeks, has been so unpredictable, but it has now improved and the entertainment scene is brightening up, once again, and with the spotlight being focused on Sri Lankans – music, fashion shows, etc.
-
-News has come my way of a band, made up of all Sri Lankans, based in Dubai, who are doing extremely well…with their brand of music – a combination of western and oriental.
-
-They call themselves Seven Notes and the musicians who make up this outfit are Nishan Jayasinghe (leader – drums), Niluk Uswaththa (bass guitar), Desh Munasinghe (lead guitar), Sisira Sajith (keyboards), Diluksha Madushan (percussion), Krishiy Young (female vocalist) and Dahaam Fernando (male vocalist).
-
-According to bassist Niluk Uswaththa, although they operate as a seven-piece outfit, they have also got a newcomer, Rocky Jerom, doing the needful for them, as a singer.
-
-Seven Notes are seen in action at Sri Lankan events, in Dubai, including dances and charity shows.
-
-...
-
-[Data](articles/e6ad9b0f.json)
-
-[Extended Data](ext_articles/e6ad9b0f.ext.json)
 
 ---

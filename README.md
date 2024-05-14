@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 21:18:27**
+As of **2024-05-14 21:33:53**
 
 ## Newspaper Stats
 
-*Scraped **24,039** Articles*
+*Scraped **24,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 2,795
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
 dailymirrorlk | 3,782
-adaderanasinhalalk | 3,848
+adaderanasinhalalk | 3,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,036 (100.0%) of 24,039 articles have been extended.
+24,039 (100.0%) of 24,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### දෙහිවලදී අත්අඩංගුවට ගත් 14දෙනා රිමාන්ඩ්
+
+*2024-05-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196629) · `si`
+
+රජයේ දේපොළකට අයුතු ලෙස ඇතුළු වූයේ යැයි පැවසෙන සිද්ධියක් සම්බන්ධයෙන් ගල්කිස්ස මහේස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කරන ලද සැකකරුවන් 14 දෙනෙකු ලබන 28 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසට ගල්කිස්ස මහෙස්ත්‍රාත් නිලුපුලි ලංකාපුර මෙනෙවිය අද නියෝග කළාය.
+
+ඉකුත් ජනවාරි මස පළමු වනදා බැකෝ යන්ත්‍ර යොදා කඩා ඉවත් කිරීමට කටයුතු කරන ලද දෙහිවල වෙරළ තීරයේ ඉදිකර තිබූ හෝටලයේ තාප්පයක් ඉදිකරමින් සිටි පුද්ගලයින් 14 දෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබුණි.
+
+ගල්කිස්ස විශේෂ විමර්ශන අපරාධ ඒකකය හා දෙහිවල පොලීසිය එක්වී සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කෙරුණි.
+
+◼️
+
+[Data](articles/4027e2e3.json)
+
+---
 
 ### Despite torrential rains...
 
@@ -63,6 +79,20 @@ In 2008, the previous owners, The Finesse Collection, purchased the property and
 [Data](articles/8cd75b66.json)
 
 [Extended Data](ext_articles/8cd75b66.ext.json)
+
+---
+
+### දුම්රිය ධාවනයට බාධා
+
+*2024-05-14 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196628) · `si`
+
+කැලණියේ සිට ප්‍රධාන මාර්ගයේ සහ පුත්තලම මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+
+දුම්රිය පාලක මැදිරිය සඳහන් කරන්නේ සංඥා දෝෂයක් හේතුවෙන් මෙම තත්ත්වය මතුවී ඇති බවය.
+
+◼️
+
+[Data](articles/cf1afee5.json)
 
 ---
 
@@ -204,19 +234,27 @@ The Chairman, MP Dr. Harsha de Silva said that the Committee on the Monetary Com
 
 ---
 
-### වීසා ගැටලුව ගැන සාකච්ඡාවට අමාත්‍යාංශයත් ආගමන විගමන දෙපාර්තමේන්තුවත් නෑ
+### The Ministry of Immigration and Emigration has no discussion on visa issue
 
 *2024-05-14 19:20:44* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ගැටලුව-ගැන-සාකච්ඡාවට-අමාත්‍යාංශයත්-ආගමන-විගමන-දෙපාර්තමේන්තුවත්-නෑ/11-409633) · `si`
 
-මෙරටට පැමිණෙන විදේශිකයන් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සමබන්ධයෙන් වූ සාකච්ඡාව සඳහා පෙර දැනුම්දී තිබියදී මහජන ආරක්ෂක අමාත්‍යාංශයේ සහ ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් නොපැමිණීම සම්බන්ධයෙන් රජයේ මුදල් කාරක සභාවේ දැඩි අප්‍රසාදය පළ කළේය.
+The Ministry of Immigration and Emigration did not discuss visa issues, despite prior notice of online visas for foreigners. The Public Finance Committee noted the absence of the Department of Immigration and Emigration. The Chairman criticized the Ministry and Department for not attending the committee meeting, especially after office hours, and questioned the approval process. The committee discussed the appointment of GBS-IVS and VFS Global Companies as authorized representatives for foreigners visiting Sri Lanka.
 
-මෙහිදී කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ මින් පෙර මෙම කමිටුව රැස්වූ අවස්ථාවේ මෙම අමාත්‍යාංශයේ සහ ‍මෙම දෙපාර්තමේන්තුවේ නිලධාරීන් අද දින කමිටුවට පැමිණීමට එකඟතාවය සඳහන් කළද හදිසියේම ඊයේ සවස දැනුම්දීමක් කරමින් අද දින කමිටුවට නොපැමිණීම මෙම කරකසභාවට ගරු නොකිරීමක් ලෙස දකින බවයි.
+🟩
 
-විශේෂයෙන්ම කාර්යාල වේලාවෙන් පසුව මෙම දැනුම්දීම සිදුව ඇති බවත් මෙහිදී නිදහසට දක්වා ඇති කරුණ අනුමත කළ නොහැකි බවත් හෙතෙම වැඩි දුරටත් පෙන්වා දුන්නේය. මේ නිසා මෙම අමාත්‍යාංශය සහ දෙපාර්තමේන්තුව නැවත දිනක කාරක සභාවට කැඳවා ශ්‍රී ලංකාවට පැමිණෙන විදේශිකයන් සඳහා වීසා අයදුම්පත් ඔන්ලයින් ක්‍රමයට ඉදිරිපත් කිරීමේ බලයලත් නියෝජිතයා ලෙස GBS-IVS සහ VFS Global සමාගම් පත් කිරීම සම්බන්ධයෙන් සාකච්ඡා කිරීමට තීරණය කෙරුණි.
+Despite the pre-informed of online visas for foreign visas for foreign visas, the Public Finance Committee commented on the absence of the Department of Immigration and Emigration.
 
-...
+The Chairman of the Committee pointed out that the committee of the Ministry and the officials of the Department participated in the committee today and not to come to the committee today.
+
+He further stated that this notification has taken place, especially after office hours, and the freedom cannot be approved.. As a result, the Ministry and the department decided to discuss the Committee on behalf of Sri Lanka and discussing the appointment of GBS-IVS and VFS Global Companies as the Authorized Representative for Foreigners to Sri Lanka.
+
+The Committee on Public Finance was given when the Committee met with Hon. (Dr.) Harsha De Silva today (14).
+
+◼️
 
 [Data](articles/e237b622.json)
+
+[Extended Data](ext_articles/e237b622.ext.json)
 
 ---
 
@@ -524,6 +562,8 @@ De Silva today made a statement in parliament. Officials had said they cannot co
 
 [Data](articles/90db8f63.json)
 
+[Extended Data](ext_articles/90db8f63.ext.json)
+
 ---
 
 ### Two youth arrested for abducting and abusing a 15 -year -old girl in Modu Wellaveli
@@ -669,6 +709,8 @@ Sri Lanka economic transformation bill to establish commission, investment zones
 ◼️
 
 [Data](articles/e7851dd1.json)
+
+[Extended Data](ext_articles/e7851dd1.ext.json)
 
 ---
 
@@ -2295,65 +2337,5 @@ Gunawardena also revealed that the instructions were given considering the fact 
 [Data](articles/63cfb9d3.json)
 
 [Extended Data](ext_articles/63cfb9d3.ext.json)
-
----
-
-### Kudu Shiro arrested in Borella
-
-*2024-05-14 13:25:37* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ලේ-කුඩු-ශිරෝ-අත්අඩංගුවට/11-409621) · `si`
-
-Kudu Shiro, a large-scale drug dealer, was arrested in Borella. The Colombo Crimes Division found Rs. 95,000 and 3.18 kg of drugs in his possession. The police raided his house, seizing bank documents and questioning him about his financial activities. The 46-year-old suspect is being investigated for drug trafficking.
-
-🟩
-
-The Colombo Crimes Division says that the large scale drug dealer called Kudu Shiro, a bank book deposited with a bank book deposited in Saranapala Thera.
-
-In addition, a sum of Rs. 95,000 / = has been taken into custody by drugs and a mobile earn of 3180 grams of drugs in possession of the suspect
-
-Police said the suspect was raided the house of the Narcotics and Bank Pass, including the Secretary to the Colombo Crimes Division.
-
-The police have recently recovered a sum of Rs.
-
-A police officer said that the suspect had failed to give a reasonable answer in questioning the banking
-
-A police officer who is conducting further exchanged money has been exchanged in the Internet while checking the Smartphone mobile phone in the suspect.
-
-46-year-old suspect is to be questioned in relation to drug trafficking
-
-Deputy Inspector Heshan and other officials are investigating the Chief Inspector of Police, Assistant Superintendent of Police of the Colombo Crimes Division.
-
-◼️
-
-[Data](articles/0987d085.json)
-
-[Extended Data](ext_articles/0987d085.ext.json)
-
----
-
-### Arasura Zahira Vidyalaya will be a military page
-
-*2024-05-14 13:19:48* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-සහිරා-විදුහලේ-සාපෙළ-විභාග-මධ්‍යස්ථානය-යුද-පිටියක්-වෙයි/11-409620) · `si`
-
-Arasura Zahira Vidyalaya, a military page, witnessed a clash between students of Shira Muslim College and Pepigaswewa, Anuradhapura, following the GCE Ordinary Level examination. The college office was damaged, and several students were injured. The conflict, ongoing since the end of the examination, involved a group assaulting a student. The principal of Sahara Muslim College was severely injured. Minor injuries were reported among students, and one was taken to the Anuradhapura Teaching Hospital. Parents gathered at the scene, expressing concern over the conduct of the examination. A senior police officer arrested a student and their mother, releasing them on police bail.
-
-🟩
-
-Several students of a school student collaborates at the GCE Ordinary Level examination in Anuradhapura, the college office has been severely damaged by a number of students to attack a group of students.It is reported that has been injured.
-
-The clash had occurred between the students of the Shira Muslim College, Anuradhapura and Pepigaswewa, Anuradhapura, who has a small number of students in Anuradhapura.
-
-This conflict has been constantly held between the two groups since the end of the GCE O / L examination.A group said that he had gone to the neck of one student and collaborate.
-
-The clash was severely damaged by the Principal of the Principal of the Principal of the Sahara Muslim College.
-
-After the examination was facing the examination, a group of students were seen by a group of students who were on the afternoon.
-
-A number of school children had minor injuries due to the gutting and a severely assault student was taken to the Anuradhapura Teaching Hospital.
-
-...
-
-[Data](articles/e4b1678c.json)
-
-[Extended Data](ext_articles/e4b1678c.ext.json)
 
 ---

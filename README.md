@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 22:51:05**
+As of **2024-05-14 23:03:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,046 (100.0%) of 24,049 articles have been extended.
+24,049 (100.0%) of 24,049 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ As a result, it was decided to summon representatives from the relevant ministry
 
 [Data](articles/3b1509c0.json)
 
+[Extended Data](ext_articles/3b1509c0.ext.json)
+
 ---
 
 ### Sri Lankans have right to commemorate war dead: Vijitha
@@ -63,6 +65,8 @@ He said right to commemorate war dead is a right accepted internationally and ad
 ◼️
 
 [Data](articles/2d86314a.json)
+
+[Extended Data](ext_articles/2d86314a.ext.json)
 
 ---
 
@@ -262,19 +266,25 @@ Meanwhile, more than a hundred police have been searching for the incident.
 
 ---
 
-### සුවසැරියේ ගිලන් රථ 56ක් ’කොට උඩ’
+### 56 ambulances in Sukara
 
 *2024-05-14 19:43:34* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියේ-ගිලන්-රථ-56ක්-’කොට-උඩ’/11-409635) · `si`
 
-1990 සුවසැරිය ගිලන් රථ සේවයේ භාවිත කළ ගිලන් රථ 322න් ගිලන් රථ 56ක් භාවිතයට ගැනීමට නොහැකි තත්ත්වයට පත්ව ඇති බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa criticized the government for 56 ambulances being out of service due to a lack of drivers and technicians. He highlighted the urgent need for state attention to address this issue. Minister Susil Premajayath responded by announcing a new ambulance campaign, assuring the Health Ministry's involvement.
 
-එමෙන්ම හදිසි වෛද්‍ය තාක්ෂණ ශිල්පීන් (Emergency Medical Technicians) සහ රියදුරන් රට අතහැර යාම නිසා පුරප්පාඩු මතුව ඇති බව අද (14දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-නව ගිලන් රථ ගැනීමේ වැඩපිළිවෙෙළක් ක්‍රියාත්මක වන බවත්, මෙම ගැටලුව පිළිබඳ සෞඛ්‍ය අමාත්‍යාංශයේ අවධානය යොමු කරන බවත් ඊට ප්‍රතිචාර දන්වමින් සභානායක, අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසීය.
+Opposition Leader Sajith Premadasa said that 56 ambulances were unable to use 56 ambulances in the 1990s.
+
+He said that today (14) a statement in parliament today, he said that the emergency medical technical technicians and drivers had left the country.
+
+The Leader of the House, Minister Susil Premajayath said that a new ambulance campaign will be implemented and the Health Ministry will address the matter.
 
 ...
 
 [Data](articles/a1bebff6.json)
+
+[Extended Data](ext_articles/a1bebff6.ext.json)
 
 ---
 

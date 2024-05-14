@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 18:52:35**
+As of **2024-05-14 19:03:33**
 
 ## Newspaper Stats
 
-*Scraped **24,007** Articles*
+*Scraped **24,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,375
 dailyftlk | 1,390
-adalk | 2,049
-adaderanalk | 2,794
-tamilmirrorlk | 2,811
-virakesarilk | 3,598
-dailymirrorlk | 3,777
+adalk | 2,050
+adaderanalk | 2,795
+tamilmirrorlk | 2,812
+virakesarilk | 3,604
+dailymirrorlk | 3,780
 adaderanasinhalalk | 3,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,007 (100.0%) of 24,007 articles have been extended.
+24,007 (100.0%) of 24,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### University non-academic staff withdraw from essential services
+
+*2024-05-14 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99218/university-non-academic-staff-withdraw-from-essential-services) · `en`
+
+The non-academic staff of state universities have decided to withdraw from the essential services of the university system including water and electricity services from today (14).
+
+The strike action launched by the Joint Committee of University Trade Unions continued for the 13th consecutive day today, citing wage issues.
+
+Although the proposals concerning the monthly allowance and wage disparities of university non-academic staff was tabled during the Cabinet meeting which was held on Monday (13), the granting of approval for the proposals were further delayed, since it has been decided to seek approval from the Ministry of Finance for the matters outlined in the proposal.
+
+Accordingly, the relevant proposal is expected to be resubmitted to the Cabinet following approval from the Ministry of Finance.
+
+◼️
+
+[Data](articles/4e4e73d1.json)
+
+---
+
+### Opposition leader’s proposal raises doubts over MPs’ loyalty amid liquor license issue
+
+*2024-05-14 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-leaders-proposal-raises-doubts-over-MPs-loyalty-amid-liquor-license-issue/108-282583) · `en`
+
+Colombo, May 14 (Daily Mirror) - If the MPs who have applied for liquor licenses are to face punishment, as the Opposition Leader suggests, it raises suspicions on how many MPs will remain loyal to him, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media, he said no arrangements have been made to provide liquor licenses to any of the parliamentarians' friends or acquaintances. The Opposition Leader claimed no such project was launched, but he repeats that over and over again.
+
+"Based on the reported population data, liquor licenses were issued 16 years ago. The government's approach doesn't involve promoting the use of legal alcohol; instead, it focuses on regulation through tax hikes and implementing new license fees. The overarching goal seems to be enhancing state revenue while simultaneously curbing the proliferation of illegal alcohol," the State mMnister said.
+
+...
+
+[Data](articles/26b5d34e.json)
+
+---
+
+### Return to work prioritising welfare of students: UGC Chairman
+
+*2024-05-14 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Return-to-work-prioritising-welfare-of-students-UGC-Chairman/108-282587) · `en`
+
+All non-academic employees are requested to return to work, prioritising the welfare of the students, University Grants Commission (UGC) Chairman Sampath Amaratunge said.
+
+Addressing the media today, he said that due to the ongoing trade union strike by non-academic employees, the country's university system is facing a significant crisis.
+
+Due to the ongoing non-academic employee strike, most of the lecturers conduct lectures through online platforms. About 3,500 resident students of the Rajarata University have left their hostels.
+
+"The children who faced a lot of trouble during the Covid-19 pandemic had sat for the Advanced Level examination scheduled for 2022 in 2023 and studied in the first year of the universities. The 2023 examination will be held this year, and the results will be released this month," Professor Amarathunga said.
+
+...
+
+[Data](articles/63eba12e.json)
+
+---
+
+### Police foil illegal LTTE commemoration in Eastern Province
+
+*2024-05-14 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-foil-illegal-LTTE-commemoration-in-Eastern-Province/108-282586) · `en`
+
+Colombo, May 14 - The Sampur Police Station has obtained a court order from the Muthur Magistrate's Court to prohibit planned celebrations in several Eastern Province areas to commemorate deceased members of the Liberation Tigers of Tamil Eelam (LTTE), particularly those who died in Vellamulli Vaikkal in 2009.
+
+On attempting to enforce the court order, the Officer in Charge of Sampur Police Station confronted a group preparing for the celebration. The group rejected the court order outright, insisting on proceeding with their plans.
+
+A tense situation emerged as police attempted to arrest the suspects. A female suspect's daughter threatened to kill herself with a knife, creating a standoff.
+
+...
+
+[Data](articles/c0027773.json)
+
+---
+
+### மட்டு வெல்லாவெளியில் 15 வயது சிறுமியை கடத்திச் சென்று பாலியல் துஷ்பிரயோகம் மேற்கொண்ட இரு இளைஞர்கள் கைது
+
+*2024-05-14 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183551) · `ta`
+
+மட்டக்களப்பு வெல்லாவெளி பிரதேசத்தில் தனது அம்மம்மாவீட்டிற்கு சென்று தனிமையில் வீதியில் திரும்பிக் கொண்டிருந்த 15 வயது சிறுமியை கடத்திச் சென்று காட்டுப்பகுதியில் வைத்து பாலியல் துஷ்பிரயோகம் மேற்கொண்ட 26, 21 வயதுடைய இளைஞர்கள் இருவரை  திங்கட்கிழமை (13) இரவு கைது செய்துள்ளதாக வெல்லாவெளி பொலிசார் தெரிவித்தனர்.
+
+குறித்த பிரதேசத்தைச் சோந்த 15 வயது சிறுமி கடந்த 7ம் திகதி தனது வீட்டிலிருந்து அம்மம்மா வீட்டிற்குச் சென்று அங்கிருந்து தனிமையில் திரும்பிக் கொண்டிருந்தபோது காட்டுப்பகுதியை அண்டிய பகுதியில் வைத்து சிறுமியை இரு இளைஞர்கள் கடத்திச் சென்று பாலியல் துஸ்பிரயோம் செய்துள்ளனர்.
+
+இது தொடர்பாகப் பாதிக்கப்பட்ட சிறுமி பெற்றோரிடம் தெரிவித்ததையடுத்து பொலிஸ் நிலையத்தில் திங்கட்கிழமை (13) செய்த முறைப்பாட்டையடுத்து அந்த பகுதியைச் சேர்ந்த 26,21 வயதுடைய இரு இளைஞர்களைக் கைது செய்ததுடன் பாதிக்கப்பட்ட சிறுமியை வைத்தியசாலையில் அனுமதித்தனர்.
+
+◼️
+
+[Data](articles/f8fb018b.json)
+
+---
+
+### நினைவேந்தும் உரிமையை நிராகரிக்கவே முடியாது சம்பந்தன் எடுத்துரைப்பு; மூதூர் கைதுகளுக்கு கடும் கண்டனம்
+
+*2024-05-14 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183552) · `ta`
+
+தமிழ் மக்கள் தங்களது உயிர்நீத்த உறவுகளை நினைவேந்துவதற்கான முழுமையான உரிமை உடையவர்கள். அது அவர்களின் அடிப்படை உரிமையாகும். அதனை நிராகரிக்கவே முடியாது என்று இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் தெரிவித்தார்.
+
+திருகோணமலை மூதூர் சேனையூரில் முள்ளிவாய்க்கால் கஞ்சியை விநியோகித்தவர்கள் இரவு நேரத்தில் பொலிஸாரால் கைது செய்யப்பட்டு 27ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளது.
+
+அதேபோன்று கல்முனையிலும் கஞ்சி விநியோகிக்கும் செயற்பாடுகளுக்கும் தடைகள் ஏற்படுத்தப்பட்டுள்ளது. இந்நிலையில் கருத்து வெளியிடும்போது சம்பந்தன் மேற்கண்டவாறு தெரிவித்தார்.
+
+தமிழ் மக்களைப் பொறுத்தவரையில் வைகாசி மாதம் உணர்வுப் பூர்வமானது. அவர்கள் தமது உறவுகளை நினைவு கூருவதற்கான புனிதமான மாதமாகும்.
+
+அவர்கள் போரில் உயிரிழந்த தமது உறவுகளை நினைவு கூருவதற்கு முழுமையான உரித்துடையவர்கள். அவர்களின் அந்த அடிப்படை உரித்தினை யாரும் நிராகரிக்கவே முடியாது. அவ்வாறு நிராகரிப்பதற்கு இடமளிக்க முடியாது.
+
+...
+
+[Data](articles/3f8d7179.json)
+
+---
 
 ### Decision on the ban on the LTTE
 
@@ -74,6 +178,56 @@ The Base Jump event from the Colombo Lotus Tower took place for third day today.
 
 ---
 
+### புலிகள் மீதான தடையை நீடித்தது இந்தியா
+
+*2024-05-14 17:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடையை-நீடித்தது-இந்தியா/175-337303) · `ta`
+
+மக்கள் மத்தியில் பிரிவினைவாதப் போக்கினைத் தொடர்ந்து வளர்த்து வருவதோடு, இந்தியாவில், குறிப்பாக தமிழ்நாட்டில் விடுதலைப்புலிகளுக்கான ஆதரவுத் தளத்தை மேம்படுத்துகிறது என்பதால் இந்தியா, விடுதலைப் புலிகள் மீது விதிக்கப்பட்ட தடையை மேலும் ஐந்து ஆண்டுகளுக்கு நீட்டித்துள்ளது.
+
+விடுதலைப் புலிகள் இன்னும் நாட்டின் ஒருமைப்பாடு மற்றும் பாதுகாப்பிற்கு பாதகமான நடவடிக்கைகளில் ஈடுபட்டு வருவதாக மத்திய அரசு கருதுவதாக உள்துறை அமைச்சகம் வெளியிட்டுள்ள அறிவிப்பில் தெரிவித்துள்ளது.
+
+2009 மே மாதம் இலங்கையில் தோல்விக்குப் பிறகும், விடுதலைப் புலிகள் 'ஈழம்' (தமிழர்களுக்கான சுதந்திர நாடு) என்ற கருத்தை கைவிடவில்லை என்றும், நிதி சேகரிப்பு மற்றும் ஈழத்துக்காக இரகசியமாக செயல்பட்டு வருவதாகவும் அதில் கூறப்பட்டுள்ளது.
+
+பரப்புரை நடவடிக்கைகள் மற்றும் எஞ்சியிருக்கும் புலிகளின் தலைவர்கள் அல்லது அங்கத்தவர்கள் சிதறிய செயற்பாட்டாளர்களை மீண்டும் ஒருங்கிணைத்து உள்நாட்டிலும் சர்வதேச அளவிலும் இந்த அமைப்பினை மீண்டும் எழுப்புவதற்கான முயற்சிகளை ஆரம்பித்துள்ளனர்.
+
+...
+
+[Data](articles/1739c817.json)
+
+---
+
+### சசிகுமார் - சூரி கூட்டணியின் உருவான 'கருடன்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183545) · `ta`
+
+'கிராமத்து நாயகர்கள்' எனும் பட்டத்திற்கு சொந்தமான சசிகுமார் - சூரி ஆகிய இருவரும் கதையின் நாயகர்களாக நடித்திருக்கும் 'கருடன்'  திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருப்பதுடன், இதற்காக பிரத்யேக காணொளி ஒன்றையும் பட குழுவினர் வெளியிட்டுள்ளனர்.
+
+இயக்குநர் ஆர். எஸ். துரை செந்தில்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'கருடன்' எனும் திரைப்படத்தில் சசிகுமார், சூரி, உன்னி முகுந்தன், ரேவதி சர்மா, ஷிவதா, ரோஷினி ஹரிப்பிரியன், சமுத்திரக்கனி, மைம் கோபி, துஷ்யந்த் ஜெயபிரகாஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர்தர் ஏ. வில்சன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார்.
+
+இயக்குநர் வெற்றிமாறன் கதை எழுதி இருக்கும் இந்த திரைப்படத்தை லார்க் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. குமார் தயாரித்திருக்கிறார். இந்தத் திரைப்படத்தை வெற்றிமாறனின் கிராஸ் ரூட் பிலிம் கம்பனி மற்றும் 'பைவ் ஸ்டார்' செந்தில் ஆகியோர் வழங்குகிறார்கள்.
+
+...
+
+[Data](articles/07a0ff2a.json)
+
+---
+
+### சுருள் சிரை நரம்பு பாதிப்பிற்கு நிவாரணம் அளிக்கும் நவீன வெப்ப கதிர்வீச்சு சிகிச்சை
+
+*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183546) · `ta`
+
+எம்மில் பலரும் நாளாந்தம் ஐந்து முதல் எட்டு மணி தியாலத்திற்கும் அதிகமாக தொடர்ந்து நின்று கொண்டே பணிபுரிவார்கள். இவர்களில் பெரும்பாலானவர்களுக்கு அவர்களுடைய கணுக்கால் மற்றும் கால்பகுதியில் சுருள் சிரை நரம்பு பாதிப்பு ஏற்படும்.
+
+இதனை எளிதாக விவரிக்க வேண்டும் எனில், எம்முடைய உடலின் அனைத்து பகுதிக்கும் இதயத்திலிருந்து ரத்தம் சீரான விசையுடன் உந்தப்படுகிறது.
+
+இதன் காரணமாக உடல் முழுவதும் பரவும் ரத்தம் மீண்டும் இதயத்திற்கு வருகிறது. இதயத்திலிருந்து உடலுக்கு செல்வதற்கு ஒரு பாதையும், உடலின் வேறு பகுதியிலிருந்து இதயத்திற்கு வருகை தருவதற்கு வேறொரு பாதையும்  என எம்முடைய உடலில் இயற்கையாகவே ரத்த குழாய் அமைப்பு அமைந்திருக்கிறது.
+
+...
+
+[Data](articles/31b575e0.json)
+
+---
+
 ### Landslide warning
 
 *2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
@@ -91,6 +245,22 @@ He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ra
 [Data](articles/16e338a5.json)
 
 [Extended Data](ext_articles/16e338a5.ext.json)
+
+---
+
+### சுப்பர் ஸ்டார் ரஜினிகாந்தின் 'வேட்டையன்' பட  அப்டேட்
+
+*2024-05-14 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183547) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகி வரும் 'வேட்டையன்' எனும் திரைப்படத்தின் படப்பிடிப்பில் சுப்பர் ஸ்டார் ரஜினிகாந்த் தன்னுடைய பங்களிப்பை நிறைவு செய்திருப்பதாக படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்திருக்கிறார்கள்.
+
+எழுத்தாளரும், திரைப்பட இயக்குநருமான த. செ. ஞானவேல் இயக்கத்தில் உருவாகி வரும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன், பகத் பாசில், ராணா டகுபதி, மஞ்சு வாரியர், ரித்திகா சிங், துஷாரா விஜயன், கிஷோர், ரோகிணி, ராவ் ரமேஷ், ஷாஜி, ரமேஷ் திலக், ரக்சன், ஜி. எம். சுந்தர் உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+
+எஸ். ஆர். கதிர் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/6dd5ae97.json)
 
 ---
 
@@ -233,6 +403,24 @@ The arrested suspect and the suspects were remanded until May 27.
 [Data](articles/c2ce9eeb.json)
 
 [Extended Data](ext_articles/c2ce9eeb.ext.json)
+
+---
+
+### பலஸ்தீனில் இடம்பெற்றுவரும் இனப்படுகொலைக்கு இஸ்ரேல் பிரதமர் நெதன்யாகு பொறுப்புக்கூற வேண்டும் - சஜித்
+
+*2024-05-14 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183539) · `ta`
+
+இஸ்ரேலின் கொலைகார அரச பயங்கரவாதம் பலஸ்தீன அப்பாவி மக்கள் மீது மேற்கொண்டுவரும் இனப்படுகொலையை நாங்கள் வன்மையாக கண்டிக்கிறோம். இந்த இனப்படுகொலைக்கு இஸ்ரேல் பிரதமர் நெததன்யாஹு பொறுப்புக்கூறவேண்டும்.
+
+அதேநேரம் பலஸ்தீன்,  இஸ்ரேல் இரண்டு நாட்டு தீர்வுக்கு வரவேண்டும் என்பதே எமது நிலைப்பாடு என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற பலஸ்தீனின் தற்பாேதைய நிலை தொடர்பாக சபை ஒத்திவைப்பு வேளை பிரேரணையில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+கொலைகார அரசாக இஸ்ரேல் அரசு பலஸ்தீன மக்களின் வாழ்வை முற்றாக அழித்து, அவர்களின் தாயகத்தை அழித்து, அரச பயங்கரவாதத்தை நடைமுறைப்படுத்தி பலஸ்தீன மக்கள் மீது நடத்தி வரும் மிலேச்சத்தனமான தாக்குதலை வன்மையாக கண்டிக்கிறோம். இதற்கு எதிராக இலங்கையர்களாகிய நாம் உலக மக்களோடு  முன் நிற்போம்
+
+...
+
+[Data](articles/b4ebbe58.json)
 
 ---
 
@@ -1366,6 +1554,24 @@ The US dollar purchasing price was Rs 295.6765 and the sales price were Rs 305.2
 
 ---
 
+### මෙම වසරේදී පුජා භූමි 20ක් ගැසට් කිරීමට සැලසුම්
+
+*2024-05-14 13:36:05* · [`adalk`](https://www.ada.lk/religion/මෙම-වසරේදී-පුජා-භූමි-20ක්-ගැසට්-කිරීමට-සැලසුම්/4-409624) · `si`
+
+මෙම වසරේදී පුජා භූමි 20ක් ගැසට් මගින් ප්‍රකාශය කිරීමට අපේක්ෂා කරන බව ජාතික භෞතික සැලසුම් දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පවසන්නේ මේ වසරේ මේ වනවිට පූජා භූමි 09ක් ගැසට් කර ඇති බවයි.
+
+ඒ අනුව හම්බන්තොට උද්ධකන්දර රජමහා විහාරස්ථානය, කුරුණෑගල දඹදෙණිය රජමහා විහාරස්ථානය, මොනරාගල කොටසර පියංගල රජමහා විහාරස්ථානය, පුත්තලම වෙහෙරගල රජමහා විහාරස්ථානය, නුවරඑළිය බඹරකැලේ රජමහා විහාරස්ථානය, කොළඹ බටපොත ශ්‍රී සුධර්ශනාරාම පුරාණ විහාරස්ථානය, හම්බන්තොට වාඳුරුප්ප ථේරපුත්තාභය රජමහා විහාරස්ථානය, කෑගල්ල කඩිගමුව ශ්‍රී නාගවනාරාමය සහ මාතලේ ක්ෂේත්‍රාරාම රජමහා විහාරස්ථානය ගැසට් මඟින් ප්‍රකාශයට පත් කර තිබේ.
+
+මෙවර රාජ්‍ය වෙසක් උත්සවය මැයි 21 දින සිට මැයි 27 දක්වා මාතලේ නගරය කේන්ද්‍ර ගත කර ගනිමින් පැවැත්වීමට සැලසුම් කර තිබේ. රාජ්‍ය වෙසක් උත්සවයේ සමාරම්භය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වෙන අතර එහිදී මාතලේ ක්ෂේත්‍රාරාම රජමහා විහාරස්ථානය පූජා භූමියක් ලෙස සංවර්ධනය කිරීමට අදාල සන්නස් පත්‍රය ලබා එහිදී දීමට නියමිතය.
+
+...
+
+[Data](articles/280093b0.json)
+
+---
+
 ### 'Only 6,000 people are diploma'
 
 *2024-05-14 13:35:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-000-பேர்-மட்டுமே-டிப்ளோமா-பெற்றவர்கள்/175-337294) · `ta`
@@ -2037,293 +2243,5 @@ He said questions were raised in the parliamentary session held two weeks ago re
 [Data](articles/078188cf.json)
 
 [Extended Data](ext_articles/078188cf.ext.json)
-
----
-
-### Plan to publish 20 places of worship this year in the Gazette
-
-*2024-05-14 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183485) · `ta`
-
-The National Physical Planning Department plans to publish 20 places of worship in the Gazette this year, including Hambantota Rajamaha Vikarai, Kurunegala's Sri Nagavanaramaya, and Matale's Kshetrarama Rajamaha Vihara. The announcement coincides with the Vesak festival in Matale, with President Ranil Wickremesinghe set to issue a Sunnas Bad for the Kshetrarama Rajamaha Vihara's development. The selection of these holy places is based on national, seasonal, and regional importance, with the relevant departments tasked with addressing any issues. This follows the publication of 19 holy places in 2023, bringing the total to 130 since the first declaration in 1961.
-
-🟩
-
-The National Physical Planning Department said that 20 holy places are expected to be published this year.
-
-Accordingly, Hambantota Rajamaha Vikarai, Kurunegala couple Rajamaha Vikarai Sri Nagavanaramaya and Matale Kshetrarama Rajamaha VikaraiPublished by the Gazette.
-
-This time the royal Vesak festival is scheduled to be held from May 21 to May 27, focusing on the city of Matale.
-
-President Ranil Wickremesinghe will be chaired by President Ranil Wickremesinghe to issue a Sunnas Bad for the development of the Kshetrarama Rajamaha Vihara as the worship of the Matale.
-
-The Department of Physical Planning has stated that the Sri Sundararamaya Bill, the Minister of Urban Development and Housing, Prasanna Ranatunga, has been forwarded to the Hanekaduwa Rajamaha Vihara and Kurunegala Konnava Sri Vishnu Temple.
-
-...
-
-[Data](articles/35ae12b5.json)
-
-[Extended Data](ext_articles/35ae12b5.ext.json)
-
----
-
-### Suspect arrested for aiding and abetting Ahungalla shooting
-
-*2024-05-14 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99206/suspect-arrested-for-aiding-and-abetting-ahungalla-shooting-) · `en`
-
-An individual who is suspected to have aided and abetted the recent shooting incident in the Ahungalla area has been arrested by the Police Special Task Force (STF) in the Kosgoda area.
-
-A team of officers from the Southern Province Special Operations Unit of the Police STF have apprehended the suspect in the Duwamodara area of Kosgoda.
-
-The apprehended individual, known by the alias “Adare,” is suspected to have aided the shooter in the fatal shooting which was carried out in the Ahungalla area on May 08.
-
-During the arrest, the Police STF has also taken into custody 1,150 mg of heroin and a mobile phone found in the suspect’s possession.
-
-The suspect has since been handed over to Kosgoda police for further investigation, the police said.
-
-The shooting incident, which resulted in the death of a 54-year-old individual, occurred in Ahungalla on Thursday (09). The assailants, who had arrived on a motorcycle at around 7.40 p.m., had called the victim out of his residence before opening fire at him.
-
-...
-
-[Data](articles/efc92fa5.json)
-
-[Extended Data](ext_articles/efc92fa5.ext.json)
-
----
-
-### Express new recruitment for nurses - Leader of the Opposition
-
-*2024-05-14 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183487) · `ta`
-
-Opposition Leader Sajith Premadasa urges expedited recruitment of 3000 nurses, citing delays due to COVID-19 and bankruptcy.
-
-🟩
-
-About 3000 people have been appointed as nurses during the period 2019/2020. Another 3000 people will be appointed. Opposition Leader Sajith Premadasa today (14) demanded that the recruitment be expedited.
-
-This recruitment is delayed due to the spread of Corona virus and bankruptcy. The Opposition Leader added that these recruits should be expedited without delaying this.
-
-◼️
-
-[Data](articles/18e6b174.json)
-
-[Extended Data](ext_articles/18e6b174.ext.json)
-
----
-
-### Cabinet decision about Advanced Level
-
-*2024-05-14 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196610) · `si`
-
-The Cabinet has approved starting the GCE A/L immediately after the GCE O/L exams in 2023, following a proposal by the Minister of Education. This decision aims to efficiently manage students' time and ensure the A/L syllabus is covered.
-
-🟩
-
-Cabinet approval has been approved by the Cabinet approval to commence the A / Lens immediately after the GCE Ordinary Level examination.
-
-The proposal made by Minister of Education Susil Premajayantha has approved such a proposal to manage the students' time effectively.
-
-Accordingly, the GCE A Level education activities will be commenced in schools with the closing of the GCE A / L students to cover the GCE A / L syllabus.
-
-The GCE Ordinary Level examination is being held regarding the year 2023.
-
-◼️
-
-[Data](articles/079c86ba.json)
-
-[Extended Data](ext_articles/079c86ba.ext.json)
-
----
-
-### Allow to start with U/The classes
-
-*2024-05-14 11:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-வகுப்புகளை-உடன்-ஆரம்பிக்க-அனுமதி/175-337287) · `ta`
-
-The Cabinet has approved high-quality classes for students before GCE Ordinary Level Exam results. The Ministry of Education plans to start these classes on the 5th, aiming to enhance education quality. This initiative, granted by provincial governors, involves sending students to nearby schools for top-tier education, even if specific curricula are not available. This move aligns with the closure of schools during the Corona period, as stated by Education Minister Susil Premajayantha.
-
-🟩
-
-The Cabinet has granted permission to start classes for high quality before the results of the GCE Ordinary Level Examination.
-
-The Ministry of Education has announced that it is scheduled to commence high quality classes for students who are currently facing the GCE Ordinary Level Examination on the 5th of this month.
-
-The new project has been granted permission from provincial governors and officials.
-
-Accordingly, it has been decided to send school students to nearby schools for the highest level of education, up to the normal quality of education.
-
-Even if high -quality classes are conducted, it is also planned to send students to schools that are taught if the specific curriculum is not taught in the appropriate school.
-
-Earlier, Education Minister Susil Premajayantha said that the scheme is being carried out in accordance with the closure of schools during the period of Corona.
-
-◼️
-
-[Data](articles/36cdead6.json)
-
-[Extended Data](ext_articles/36cdead6.ext.json)
-
----
-
-### Cabinet approval for proposal on uni. non-academic staff wage disparities delayed
-
-*2024-05-14 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99205/cabinet-approval-for-proposal-on-uni-non-academic-staff-wage-disparities-delayed) · `en`
-
-The granting of approval by the Cabinet of Ministers for the proposals concerning the monthly allowance and wage disparities of university non-academic staff has been further delayed.
-
-Minister of Education, Susil Premajayantha has submitted the proposal concerning the monthly allowance and wage disparity of university non-academic staff during the Cabinet meeting held on Monday (12).
-
-Subsequently, it has been decided to seek approval from the Ministry of Finance for the matters outlined in the proposal.
-
-Accordingly, the relevant proposal will be resubmitted to the Cabinet following approval from the Ministry of Finance.
-
-Meanwhile, Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyantha stated that intensified actions will be pursued as there has been a delay in receiving solutions for their demands.
-
-...
-
-[Data](articles/38f26bfa.json)
-
-[Extended Data](ext_articles/38f26bfa.ext.json)
-
----
-
-### Consider withdrawing diplomatic ties with Israel: Hakeem
-
-*2024-05-14 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consider-withdrawing-diplomatic-ties-with-Israel-Hakeem/108-282569) · `en`
-
-Parliament, May 14 (Daily Mirror)- Opposition MP Rauff Hakeem today urged the Sri Lankan government to consider withdrawing diplomatic ties with Israel if it fails to stop iys military offensives in Gaza.
-
-"Threaten Israel and inform it that Sri Lanka will withdraw diplomatic ties if the offensive is not stopped in Gaza. Do this as a last resort," Hakeem told Parliament.
-
-State Minister of Foreign Affairs Tharaka Balasuriya who responded said Sri Lanka's foreign policy is to establish and maintain ties will all countries.
-
-"Our foreign policy is to establish and maintain ties with all countries. However, that does not mean we have abandoned Palastine," he said.
-
-◼️
-
-[Data](articles/1c7390fc.json)
-
-[Extended Data](ext_articles/1c7390fc.ext.json)
-
----
-
-### Ice Drug Laboratory in Jaffna - Two arrested
-
-*2024-05-14 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183467) · `ta`
-
-In Jaffna, a raid on an ice drug lab led to the arrest of two suspects. The operation, based on confidential tips, recovered production materials. The house, now sealed, will be analyzed by chemical experts from Colombo. The main suspect is at large.
-
-🟩
-
-An Ice Narcotics Center in the area of the Chunnakam police division of Jaffna. Two suspects have been arrested.
-
-Based on the confidential information received by the Jaffna District Police Crime Unit, the raid was carried out on Sunday (12).. During this time, the products used for the production of ice have been recovered.
-
-Both the arrested suspects are under the supervision of the Jaffna District Police Crime Unit.
-
-It is reported that the house was operating as an ice drug manufacturing laboratory.
-
-In this case, the house has been sealed and the chemical analysts from Colombo will summoned and analyzed the analysis.
-
-It is noteworthy that two people have been arrested as the main suspect has escaped.
-
-◼️
-
-[Data](articles/b5f6944f.json)
-
-[Extended Data](ext_articles/b5f6944f.ext.json)
-
----
-
-### The Keheliya's petition will be considered to consider
-
-*2024-05-14 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196609) · `si`
-
-Keheliya Rambukwella's petition, regarding substandard antibodies and their injection inquiry, will be considered by the Court of Appeal. The court, presided over by Judge Nissankala Karunaratne and Shahi Mahendran, has ordered a precautionary call. The petition will also be reviewed on the 31st. Dr. Kapila Wickramanayaka, the former Provincial Supply Director, has submitted to the Ministry of Health's policy on substandard antibodies.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella to submit to remand the orders of the Standard antibody the substandard antibody the proceedings of the injection of the proceedings of the inquiry.The Court of Appeal ordered to call on the precaution.
-
-The petition was summoned before the Court of Appeal, Judge Nissankala Karunaratne and Shahi Mahendran today (14).
-
-The court also ordered to be called on the petition on the 31st of this month.
-
-Meanwhile, the former Provincial Supply Director Dr. Kapila Wickramanayaka submitted to the execution policy of the Ministry of Health to issue the orders of the substandard antibodies and the order of the courts.Considering the petition
-
-◼️
-
-[Data](articles/bbba8081.json)
-
-[Extended Data](ext_articles/bbba8081.ext.json)
-
----
-
-### Donald Lu met representatives of the National People's Power
-
-*2024-05-14 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183483) · `ta`
-
-Donald Lu, US State Department's Assistant Secretary for South and Central Asian Affairs, met with the National People's Power representatives in Colombo, discussing Sri Lanka's economy, IMF involvement, election fairness, and Indian Ocean security.
-
-🟩
-
-Donald Lu, Assistant Secretary of State for the US State Department's South and Central Asian Affairs Bureau, met with representatives of the National People's Power.
-
-The meeting was held yesterday (13) at the Colbees Hotel, Colombo.
-
-Members of Parliament Vijitha Herath, Wasantha Samarasinghe and Dr. Nalinda Jayadissa were also present.
-
-It is noteworthy that the current economic situation of Sri Lanka, the involvement of the International Monetary Fund, the conduct of independent and fair elections and security activities in the Indian Ocean region are discussed between the two sides.
-
-◼️
-
-[Data](articles/eb2e57aa.json)
-
-[Extended Data](ext_articles/eb2e57aa.ext.json)
-
----
-
-### Sajith wore a Palestinian shawl
-
-*2024-05-14 11:26:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-சால்வையை-அணிந்தார்-சஜித்/175-337286) · `ta`
-
-Sajith Premadasa, leader of the United People's Power, is in Parliament, wearing a Palestinian shawl with flags of Palestine and Sri Lanka. Today's debate focuses on postponing the Palestinian attack, with Rauf Hakeem and Imtiaz Pakir Markar addressing the issue.
-
-🟩
-
-Sajith Premadasa, the leader of the United People's Power and the Leader of the Opposition, is currently speaking in Parliament. He wears two flags engraved on the Palestinian flag and the National Flag of Sri Lanka.
-
-There is a debate on the postponement of the Palestinian attack on the attack on Palestine today (14).
-
-Sri Lanka Muslim Congress President Rauf Hakeem addressed the proposal. It was addressed by the United People's Power MP Imtiaz Pakir Markar.
-
-◼️
-
-[Data](articles/403d2fac.json)
-
-[Extended Data](ext_articles/403d2fac.ext.json)
-
----
-
-### Givi Prakash - Sindhavi's announcement
-
-*2024-05-14 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183481) · `ta`
-
-GV Prakash and Sindhavi Akiya, after 11 years of marriage, have decided to separate, emphasizing mutual respect and privacy. They request understanding and support from their fans and media.
-
-🟩
-
-GV Prakash and Sindhavi Akiya have announced that they have decided from marriage.
-
-“After various ideas, I and Sindhavi have decided after 11 years of marriage. For our peace and goodness, at the same time the mutual respect for one another will remain intact.
-
-We urge the media, friends and fans to respect and understand our private. With in mind that we are growing separately, we hope this will be the best decision for both of us. Your understanding and support is very important to us during this hard period. Thank you, ”GV Prakash said.
-
-Sindhavi also posted a similar announcement on her social networking pages.
-
-GV Prakash and Sindhavi, who had been in love since school period, got married in 2013. GV Prakash has sung various hit songs including the Elluvaya Pookkallai, the night of the night, and the sky.
-
-◼️
-
-[Data](articles/490657d7.json)
-
-[Extended Data](ext_articles/490657d7.ext.json)
 
 ---

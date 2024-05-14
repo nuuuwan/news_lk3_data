@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 01:03:25**
+As of **2024-05-15 01:18:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,053 (100.0%) of 24,062 articles have been extended.
+24,056 (100.0%) of 24,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In the aftermath of the war, former veterans have had all their special allowanc
 
 [Data](articles/fd39d0d0.json)
 
+[Extended Data](ext_articles/fd39d0d0.ext.json)
+
 ---
 
 ### Last throes of dynastic enterprise: Rajapaksa plots to stall recovery after ruining economy
@@ -66,6 +68,8 @@ But, like every crook and conman in Third World politics,  Mahinda Rajapaksa th
 
 [Data](articles/548cc979.json)
 
+[Extended Data](ext_articles/548cc979.ext.json)
+
 ---
 
 ### Expressway beam COLLAPSE causes Rs 66 ML loss  to Govt.
@@ -81,6 +85,8 @@ The other beams at a 45 degree angle are unaffected by the collapse of one beam
 ...
 
 [Data](articles/84b8c049.json)
+
+[Extended Data](ext_articles/84b8c049.ext.json)
 
 ---
 

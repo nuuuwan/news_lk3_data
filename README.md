@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 14:33:44**
+As of **2024-05-14 14:52:17**
 
 ## Newspaper Stats
 
-*Scraped **23,948** Articles*
+*Scraped **23,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,040
-adaderanalk | 2,789
-tamilmirrorlk | 2,807
+adalk | 2,042
+adaderanalk | 2,790
+tamilmirrorlk | 2,809
 virakesarilk | 3,585
 dailymirrorlk | 3,767
 adaderanasinhalalk | 3,836
@@ -26,11 +26,63 @@ adaderanasinhalalk | 3,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,948 (100.0%) of 23,948 articles have been extended.
+23,948 (100.0%) of 23,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### கெஹலியவின் மனு 31ஆம் திகதி விசாரணைக்கு
+
+*2024-05-14 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மனு-31ஆம்-திகதி-விசாரணைக்கு/175-337297) · `ta`
+
+தரமற்ற இம்யூனோகுளோபுலின் ஊசியை வாங்கியதாக கூறப்படும் குற்றச்சாட்டில் தன்னை பிணையில் விடுவிக்க மாளிகாகந்த நீதவானுக்கு உத்தரவிடுமாறு கோரி முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல தாக்கல் செய்த ரிட் மனு இன்று மீண்டும் மேல்முறையீட்டு நீதிமன்றத்தால் விசாரணைக்கு ஒத்திவைக்கப்பட்டது.
+
+மேன்முறையீட்டு நீதிமன்ற நீதியரசர் நிஸ்ஸங்க பந்துல கருணாரத்ன மற்றும் நீதியரசர் சஷி மகேந்திரன் ஆகியோர் அடங்கிய இரு நீதிபதிகள் கொண்ட அமர்வு, மே 31 ஆம் திகதி இந்த வழக்கை ஒத்திவைத்தது.
+
+மாளிகாகந்த நீதவான் லோச்சனி அபேவிக்ரம தன்னை மேலும் விளக்கமறியலில் வைக்க நடவடிக்கையும் எடுப்பதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கெஹலிய ரம்புக்வெல்ல இந்த மனுவின் மூலம் கோரியுள்ளார்.
+
+◼️
+
+[Data](articles/0aecbe1d.json)
+
+---
+
+### Dinesh Schaffter’s family appeals to return mobile phones obtained as evidence
+
+*2024-05-14 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99211/dinesh-schaffters-family-appeals-to-return-mobile-phones-obtained-as-evidence) · `en`
+
+The Colombo Magistrate’s Court today (14) ordered the Criminal Investigations Department (CID) to submit a report pertaining to the progress of investigations into the death of the renowned businessman Dinesh Schaffter on July 23, 2024.
+
+This case was taken up before Colombo Additional Magistrate Harshana Kekunawela this morning (14).
+
+However, the CID informed the court that further investigations are underway regarding the relevant incident.
+
+Meanwhile, the attorneys representing the aggrieved party stated before the court that the mobile phones that have been taken into custody by the police contain confidential information such as pictures of the deceased’s wife and children, and therefore requested that an order be issued to allow the victim’s family to retrieve the mobile phones.
+
+...
+
+[Data](articles/bed1ada5.json)
+
+---
+
+### NSB வங்கி ஊழியர்களுக்கு VRS அறிமுகப்படுத்தப்படும்
+
+*2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS-அறிமுகப்படுத்தப்படும்/175-337296) · `ta`
+
+2019 ஆம் ஆண்டு தேசிய சேமிப்பு வங்கியின் (NSB) கீழ் ஒருங்கிணைக்கப்பட்ட இலங்கை சேமிப்பு வங்கியின் ஊழியர்களுக்காக தன்னார்வ ஓய்வு திட்டம் (VRS) அறிமுகப்படுத்தப்படும்.
+
+செயற்பாடுகளை நெறிப்படுத்துவதற்கும், மாற்றத்தை சீராக நிர்வகிப்பதற்கும், தேசிய சேமிப்பு வங்கியானது இலங்கை சேமிப்பு வங்கியின் சொத்துக்கள் மற்றும் பொறுப்புகள் இரண்டையும் உள்வாங்கும் என அரசாங்கம் தெரிவித்துள்ளது.
+
+இதன்படி, நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சர் என்ற வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்மொழியப்பட்ட தன்னார்வ ஓய்வுத் திட்டம் அமைச்சரவையினால் அங்கீகரிக்கப்பட்டது.
+
+தானாக முன்வந்து ஓய்வுபெறும் ஊழியர்களுக்கு பல்வேறு சந்தை காரணிகளின் அடிப்படையில் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/9f1468e9.json)
+
+---
 
 ### Tamil politicians announcements after gazette notification…!
 
@@ -147,6 +199,20 @@ He said that the President informed the Prime Minister to start a conversation w
 [Data](articles/6e3e2b57.json)
 
 [Extended Data](ext_articles/6e3e2b57.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරින් දින තුනක් ලෙඩවෙලා, සිරකරුවන්ගෙන් සිර ගෙවල් පිරිලා
+
+*2024-05-14 13:48:51* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරින්-දින-තුනක්-ලෙඩවෙලා--සිරකරුවන්ගෙන්-සිර-ගෙවල්-පිරිලා/11-409625) · `si`
+
+ග්‍රාම නිලධාරී හට ඉතිහාසයපුරා මේවන තෙක්ම සේවා ව්‍යවස්ථාවක් ලබා නොදීම හා ග්‍රාම නිලධාරී දීමනා ප්‍රමාණවත් නොවීම හේතුවෙන් දින 03 ක කාලයක් දිවයිනේ සියලුම  ග්‍රාම නිලධාරීන් වෘත්තීය ක්‍රියාමාර්ගයක් ලෙස අද(14) දින සිට අසනීප නිවාඩු වාර්තා කර ඇත.
+
+ඒ හේතුවෙන් ජනතාවට ග්‍රාම නිලධාරීන්ගෙන් ලැබුණු සේවාවන් රැසක් ඒ අනුව අද සිට ඇනහිට ඇති බව අපට වාර්තා විය. එමෙන්ම සිරකරුවන් හට නිදහස් වීමට අවශ්‍ය ග්‍රාම නිලධාරි සහතික ලබා ගැනීමට නොහැකි වීම හේතුවෙන් බන්ධනාගාරවල සිරකරුවන්ගෙන් තද බදයකට ලක් විය හැකි බවද එම නිලධාරීහු පවසති. ( I J)
+
+◼️
+
+[Data](articles/6b00dcaf.json)
 
 ---
 
@@ -297,6 +363,20 @@ Gunawardena also revealed that the instructions were given considering the fact 
 [Data](articles/63cfb9d3.json)
 
 [Extended Data](ext_articles/63cfb9d3.ext.json)
+
+---
+
+### අපුර සහිරා විදුහලේ සාපෙළ විභාග මධ්‍යස්ථානය යුද පිටියක් වෙයි
+
+*2024-05-14 13:19:48* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-සහිරා-විදුහලේ-සාපෙළ-විභාග-මධ්‍යස්ථානය-යුද-පිටියක්-වෙයි/11-409620) · `si`
+
+මෙවර පැවැත්වෙන අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය පැවැත්වෙන  අනුරාධපුර සහිරා විද්‍යාලයේදී සිසුන්  දෙපිරිසක් අතර ඇති වූ  ගැටුමකින් පසු, එක් පාසල් සිසුවෙකුගේ මවක්, විභාග මධ්‍යස්ථානය තුලට කඩා වැදී සිසුන් පිරිසකට පහර දීමට යාමේදී, දැඩි නොසන්සුන්කාරී තත්ත්වයක් ඇතිවී විද්‍යාල කාර්යාලය දේපල වලටද හානි සිදුව සිසුන් කිහිප දෙනෙකු තුවාල ලබා ඇති බව  ඇති බව වාර්තාවේ.
+
+අනුරාධපුර දුර බැහැර සිසු සිසුවියන් සුළු පිරිසක් සිටින  ගම්මිරිගස්වැව මනාර්ලුලුම් මුස්ලිම් මහා  විද්‍යාලයේ  සිසු සිසුවියන් කණ්ඩායමක්ද, මෙම පාසලේ විභාග මධ්‍යස්ථානයට අනුයුක්ත කර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින බවත් අනුරාධපුර සහිරා මුස්ලිම්  විද්‍යාලයේ සිසුන් සහ ගම්මිරිගස්වැව  එම විද්‍යාලයේ සිසුන් කණ්ඩායම් දෙක අතර  මෙම ගැටුම හට ගත් බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/e4b1678c.json)
 
 ---
 
@@ -2139,121 +2219,5 @@ CTC’s profit before tax for the quarter ended in March stood at Rs.11.7 billio
 [Data](articles/1302415b.json)
 
 [Extended Data](ext_articles/1302415b.ext.json)
-
----
-
-### People continue to protest against heavy sand excavation in Mannar: Permission cannot be granted to permit an environmental impact - State Chancellor
-
-*2024-05-14 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183462) · `ta`
-
-Residents of Mannar protest against Titanium San Limited's heavy sand mining, citing environmental concerns. An emergency meeting convened by the Mannar District Secretariat, attended by company representatives and local organizations, resulted in a consensus against the project due to its potential environmental impact. The Geological Survey's Senior Lecturer, Nakamuthu Pradeeparajah, highlighted the project's adverse effects on Mannar's environment, a sentiment echoed by public and village representatives. The meeting concluded with a pledge from the public to oppose the project on Mannar Island, with Government Agent K. Kanageswaran confirming the project's non-implementation.
-
-🟩
-
-An emergency meeting was held at the Mannar District Secretariat from 2 pm on Monday (13) to get the wishes of the public on the heavy sand mining excavation to be carried out by the Titanium San Limited in Australia in Mannar district.
-
-Representatives of the company were also present, including Saliya, director of Titanium San Limited, based in Australia.
-
-When the company visited the selected places to obtain an assessment of the impact of the environment, people continued to express their opposition and protest.
-
-At the request of the Presidential Secretariat, the meeting was organized to raise public awareness.
-
-The meeting was chaired by Mannar Citizens' Committee, Representatives of Public Organizations, Fisheries Organizations, Social Level Organization Department Heads, chaired by Mannar District Government Agent K. Kanageswaran.
-
-...
-
-[Data](articles/1e5f5dd6.json)
-
-[Extended Data](ext_articles/1e5f5dd6.ext.json)
-
----
-
-### The country's economy is at the end of the knife - Minister Bandula Gunawardena
-
-*2024-05-14 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183461) · `ta`
-
-Minister Bandula Gunawardena warns the country's economy is on the brink, with the Central Bank banning money printing. He criticizes past governments for misusing funds, leading to broken bridges, soil degradation, and halted developments. He addresses the Parliament, highlighting the opposition's plans to alter Monetary Fund conditions if they gain power, suggesting a need for financial responsibility and transparency.
-
-🟩
-
-All bridges in the country can never print money again to edit it. Central Bank has banned printing money. Media and Transport Minister Bandula Gunawardena said that the opposition's announcement that it would change the conditions of the Monetary Fund if it came to power.
-
-He said this while addressing the debate on export imports held in Parliament on Monday (13).
-
-Bridges break down, soil decline and developments are stopped.
-
-Past governments have printed money and launched such plans. Currently not doing so. The central bank has banned printing money so that all the bridges in the country are broken and the money will not be printed. Turning the Mahaweli Ganga to the North is also a debt.
-
-It is the talk of deceiving the nation to report that the government is formed when they set up the government, and it is necessary to pay the loan of the last government.. The agreement has been signed.
-
-...
-
-[Data](articles/df629d29.json)
-
-[Extended Data](ext_articles/df629d29.ext.json)
-
----
-
-### Do the courts bow down to the orders of the communal police in the North and East?- Selvarasa Gajendran
-
-*2024-05-14 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183460) · `ta`
-
-Selvarasa Gajendran questioned if courts in the North and East of Sri Lanka are influenced by communal police orders, highlighting concerns over the independence of the judiciary and the ongoing impact of the Tamil genocide. He criticized the government's handling of Tamil issues, calling for immediate release of those detained for communal activities, and questioned the fairness of court decisions affecting Tamil communities.
-
-🟩
-
-Do courts in the North and East bow down to the orders of the communal police?Whatever the police went to the courts, the courts were independent of the courts to accept it?Selvarasa Gajendran, a member of the Tamil National People's Front, questioned the House.
-
-He said this while addressing a debate on the financial framework held in Parliament on Monday (13).
-
-The oppression of our Tamil nation has crossed the border from the very beginning. 15 years have passed since the Sri Lankan government staged the genocide on our nation.. Handed over to the army and Karuna, Pillaiyan, EPDP. Their relationships are still wandering in search of those who have been abducted and disappeared.
-
-...
-
-[Data](articles/c09b6344.json)
-
-[Extended Data](ext_articles/c09b6344.ext.json)
-
----
-
-### Touching scene
-
-*2024-05-14 02:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Touching-scene/110-282507) · `en`
-
-A girl tenderly shields a disabled elder from heavy rain at the Colombo Fort Railways Station, reflecting the heartwarming Sri Lankan hospitality and compassion. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/2712a779.json)
-
-[Extended Data](ext_articles/2712a779.ext.json)
-
----
-
-### Kannaki Amman Temple
-
-*2024-05-14 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183459) · `ta`
-
-The annual Pongal festival at the historic Kannaki Amman Temple in Vadapalai will be held on Monday, 20th, following the tradition of the sea tirtha ceremony. This year, the salt water from the sea tirtha will be taken to the Mulliyawalai Katha Ganesha Temple, where a lamp will be lit. The Pongal event will then move to the Katta Vinayakar Temple on Sunday, 19th, and finally to the Kannaki Amman Temple on Monday, 20th.
-
-🟩
-
-The event was held on Monday (13) to mark the annual Pongal festival of the Kannaki Amman Temple.
-
-The Annual Pongal Festival of the Kannaki Amman Temple, the historic Vadapalai, will be held on Monday, the 20th of this month.
-
-It is customary for the Pongal event to be held at the temple every time the sea tirtha is held.
-
-Accordingly, this time, the sea tirtha (salt water) will be taken and taken to the Mulliyawalai Katha Ganesha Temple and then the salt water lamp will be burned.
-
-The Pongal event will be held at the Katha Ganesha Temple on Sunday (19).
-
-The next day, the next day (20), the water lamp will be taken from the Katta Vinayakar Temple to the Kannaki Amman Temple with the Katta Vinayakar Temple with the staircase.
-
-◼️
-
-[Data](articles/0e4e5dc9.json)
-
-[Extended Data](ext_articles/0e4e5dc9.ext.json)
 
 ---

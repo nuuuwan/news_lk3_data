@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 21:53:33**
+As of **2024-05-14 22:06:42**
 
 ## Newspaper Stats
 
-*Scraped **24,043** Articles*
+*Scraped **24,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,298
 economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,055
-adaderanalk | 2,796
+adaderanalk | 2,797
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
 dailymirrorlk | 3,782
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,041 (100.0%) of 24,043 articles have been extended.
+24,043 (100.0%) of 24,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Top diplomat reveals the biggest support US can extend to Sri Lanka at this moment
+
+*2024-05-14 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99220/top-diplomat-reveals-the-biggest-support-us-can-extend-to-sri-lanka-atthismoment) · `en`
+
+U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu says it is important that Sri Lanka must have a functional truth and reconciliation program in place. He also mentioned that it is expected from the leaders emerging from the upcoming elections to make it a reality.
+
+Joining Ada Derana’s current affairs program ‘At HydePark’, the U.S. Assistant Secretary of State commending on the progress of the current debt restructuring process said, that the United States is ready to be a developing partner and willing to provide financial advices and credit for Sri Lanka’s development process.
+
+Furthermore, Mr. Donald Lu stated that the US encourages Sri Lanka to continue in strengthening bilateral relationships, and that Sri Lanka must provide equal opportunity for external parties to invest in the country in order to maintain healthy competition and fully pass on the benefit to its citizens.
+
+...
+
+[Data](articles/97164ce2.json)
+
+---
 
 ### Train services disrupted on main line and Puttalam line
 
@@ -41,6 +57,8 @@ The train services on the main line and the Puttalam line have been disrupted fr
 ◼️
 
 [Data](articles/2a9cfc03.json)
+
+[Extended Data](ext_articles/2a9cfc03.ext.json)
 
 ---
 
@@ -200,19 +218,27 @@ The founding he was assaulted by him and hide the body in a toilet pit near the 
 
 ---
 
-### කැන්ගරු දේශයේ රැකියා මවා මුදල් ගැරූ සැකකරු දැලේ
+### Suspect arrested with kangaroo
 
 *2024-05-14 19:34:22* · [`adalk`](https://www.ada.lk/breaking_news/කැන්ගරු-දේශයේ-රැකියා-මවා-මුදල්-ගැරූ-සැකකරු-දැලේ/11-409634) · `si`
 
-ඕස්ට්‍රේලියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් ඊයේ දින (5/13) අත්අඩංගුවට ගන්නා ලදී.
+A 65-year-old suspect from Polgahawela, accused of defrauding money in Australia, was arrested by the Special Investigation Unit. The suspect, who promised to provide Australian tourism for low-income Sri Lankan families, was found to have continued the fraud from another location. The case was presented at the Polgahawela Magistrate's Court.
 
-ශ්‍රි ලංකාවේ අඩු ආදායම් ලාභීන් සඳහා ඕස්ට්‍රේලියාවේ රැකියා ලබාදීමේ වැඩසටහනක් ක්‍රියාත්මක වන බවත්, ඒ සඳහා අවස්ථාවක් ලබාදිය හැකි බවත් පවසා පොල්ගහවෙල ප්‍රදේශයේ පදිංචි අයෙකු විසින් පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ තුන හමාරේ සිට ලක්ෂ 9 දක්වා මුදල් ලබාගෙන තිබේ. මුදල් ලබාදුන්නද පොරොන්දු වූ පරිදි රැකියාව හිමි නොවු බවට මුදල් ලබාදුන් පුද්ගලයින් විසින් කාර්යාංශයට පැමිණිලි කර ඇති අතර, ඒ අනුව අදාළ සැකකරු ප්‍රකාශ සටහන් කර ගැනීම සඳහා කාර්යාංශය වෙත කැඳවූ අවස්ථාවේදී අත්අඩංගුවට ගන්නා ලදී.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු පොල්ගහවෙල පදිංචි 65 හැවිරිදි පුද්ගලයෙකු වන අතර, ඔහු තවත් අයෙකුගේ සහයෙන් මෙම ජාවාරම කරගෙන ගොස් ඇති බව වැඩිදුර විමර්ශනවලදී අනාවරණය විය. ඒ අනුව එම පුද්ගලයා අත්අඩංගුවට ගැනීම සඳහාද විමර්ශන නිළධාරීන් විසින් විමර්ශන මෙහෙයවනු ලබයි.
+A person who has defrauded money in Australia, was arrested by the Special Investigation Unit (FTI) official investigations yesterday (5/13).
 
-...
+A resident of Polgahawela has been implemented in the Polgahawela area to provide a tourist in Australia for low income families in Sri Lanka and has been paid to Rs.. The money has been lodged with the Bureau by the people who gave money to be paid as promised.
+
+The suspect was a 65 year old resident of Polgahawela and he was revealed in further investigations that he had continued the racket from another.. Investigations are also conducted by investigations into the arrest of the man.
+
+The suspect was produced before the Polgahawela Magistrate's Court today (5/14) to the Polgahawela Magistrate's Court today.
+
+◼️
 
 [Data](articles/4000946e.json)
+
+[Extended Data](ext_articles/4000946e.ext.json)
 
 ---
 
@@ -2311,31 +2337,5 @@ Selectors also included left-arm quick Shoriful Islam, after the 22-year-old was
 [Data](articles/6d012d36.json)
 
 [Extended Data](ext_articles/6d012d36.ext.json)
-
----
-
-### Three injured or injured in a three-wheeler
-
-*2024-05-14 13:30:38* · [`adalk`](https://www.ada.lk/breaking_news/අලියෙකු-පහරදීමෙන්-තිදෙනෙකුට-තුවාල-ත්‍රීරෝද-රථයකටත්-බරපතළ-හානි/11-409622) · `si`
-
-An elephant severely damaged a house in Vellahwaya, injuring two children and another person. A nearby three-wheeler was also damaged. Despite efforts to protect wildlife, incidents like these occur due to garbage in the jungle and lack of electric fencing. Residents are unhappy, and compensation for damaged property is being discussed.
-
-🟩
-
-An elephant at a village in the Vellahwaya three-stake in the three-post-post area in the Wellawaya has been severely damaged today (14), and two young children and another were injured in the house.
-
-A three-wheeler at another home near the nearby house, the elephant was seriously damaged.
-
-Wildlife Site Protection of Wellawaya Wellawaya Wildlife Office, Nishantha Premalal has continued to engage in the garbage in the jungle, but also collides the garbage in the jungle.There is also the removal of it to be returned to save it. Some of the car owners return without connecting electric fence. The vanaging is the lack of it.
-
-The scenario and finding the possibility of the possessions of damaged property and pay compensation.
-
-After the incident, the residents were unhappily at the Wellawaya Moneragala after the police intervene and the protesters were given a conversation to the vehicles of the Wellawaya Moneragala.
-
-◼️
-
-[Data](articles/9e60c0d7.json)
-
-[Extended Data](ext_articles/9e60c0d7.ext.json)
 
 ---

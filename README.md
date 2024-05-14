@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 02:33:49**
+As of **2024-05-15 02:50:36**
 
 ## Newspaper Stats
 
-*Scraped **24,063** Articles*
+*Scraped **24,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,818
+tamilmirrorlk | 2,819
 virakesarilk | 3,615
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,063 (100.0%) of 24,063 articles have been extended.
+24,063 (100.0%) of 24,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ’பலஸ்தீன பேரழிவை ஊடகங்கள் மறைக்கின்றன’
+
+*2024-05-15 00:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-பேரழிவை-ஊடகங்கள்-மறைக்கின்றன/175-337311) · `ta`
+
+பலஸ்தீன மண்ணில் ஆறு மாதங்களுக்கும் மேலாக நடத்தப்பட்டு வரும் இனப்படுகொலைகள் மற்றும் பேரழிவை உலகின் பலம் வாய்ந்த ஊடகங்களும், நமது நாட்டின் சில பலம் வாய்ந்த ஊடகங்களும் மூடி மறைத்து வருவதாக ஐக்கிய மக்கள் சக்தி எம்.பி.யான இம்தியாஸ் பாக்கீர் மாக்கார் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற பலஸ்தீனத்தின் இன்றைய  நிலை தொடர்பாகன  சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+தென்னாப்பிரிக்க நிறவெறி ஆட்சியை காப்பாற்றிய சக்திகள், அதேபாணியில் இன்றும் பலஸ்தீன மண்ணில் நடக்கும் அநீதி, அடக்குமுறைகளை மூடி மறைத்து, உலக மக்கள் ஆணைக்கு எதிராக சென்று, பிரிவினைவாத, மனிதாபிமானமற்ற ஆட்சிக்கு அடைக்கலம் கொடுக்க முயல்கின்றன.
+
+பலம் வாய்ந்த ஊடகங்களும் மூடி மறைத்து வந்தாலும், சமூக ஊடகங்கள் வாயிலாக பாலஸ்தீனத்தின் யதார்த்தம் ஏறக்குறைய சமூகத்திற்கு அம்பலமானது.
+
+...
+
+[Data](articles/bfb59356.json)
+
+---
 
 ### In the midst of threats, Mullivaikkal porridge
 
@@ -2347,27 +2365,5 @@ They have been granted permission only after the intervention of the Human Right
 [Data](articles/fec1e5b4.json)
 
 [Extended Data](ext_articles/fec1e5b4.ext.json)
-
----
-
-### Keheliya's petition for hearing on the 31st
-
-*2024-05-14 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மனு-31ஆம்-திகதி-விசாரணைக்கு/175-337297) · `ta`
-
-Keheliya Rambukwella's petition for a hearing on May 31 was postponed by the Appeal Court, which demanded his release on bail due to charges of purchasing substandard immunoglobulin. The two-judge bench, including Justice Nissanka Bandula Karunaratne and Justice Sashi Mahendran, adjourned the case. Rambukwella sought the ban to avoid further legal complications.
-
-🟩
-
-A writ petition filed by former Health Minister Keheliya Rambukwella has been postponed today by the appeal of the Appeal Court demanding a mansion to be released on bail on charges of buying a substandard immunoglobulin.
-
-A two -judge bench comprising Justice Court Judge Nissanka Bandula Karunaratne and Justice Sashi Mahendran adjourned the case on May 31.
-
-Keheliya Rambukwella has called for the ban to prevent him from taking steps to further detail himself.
-
-◼️
-
-[Data](articles/0aecbe1d.json)
-
-[Extended Data](ext_articles/0aecbe1d.ext.json)
 
 ---

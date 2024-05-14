@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 22:06:42**
+As of **2024-05-14 22:18:19**
 
 ## Newspaper Stats
 
-*Scraped **24,044** Articles*
+*Scraped **24,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,055
 adaderanalk | 2,797
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
-dailymirrorlk | 3,782
-adaderanasinhalalk | 3,850
+dailymirrorlk | 3,783
+adaderanasinhalalk | 3,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,043 (100.0%) of 24,044 articles have been extended.
+24,044 (100.0%) of 24,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### නිවාස කිහිපයක් වැසි ජලයෙන් යටවෙයි
+
+*2024-05-14 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196630) · `si`
+
+අද (14) පස්වරුවේ ඇදහැලුණු අධික වර්ෂාව හේතුවෙන් වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කෙරවලපිටිය ප්‍රදේශයේ නිවාස කිහිපයක් ජලයෙන් යටවී ඇති බව වාර්තා වෙයි.
+
+අනවසර ඉදිකිරීම් හේතුවෙන් ජලය බැස යන කාණු පද්ධති අවහිරවීමෙන් නිවාස 20ක පමණ අඩි 2ත් 3ත් අතර ප්‍රමාණයකින් වැසි ජලයෙන් යටවී ඇති බව තවදුරටත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/741b1af6.json)
+
+---
 
 ### Top diplomat reveals the biggest support US can extend to Sri Lanka at this moment
 
@@ -45,6 +59,28 @@ Furthermore, Mr. Donald Lu stated that the US encourages Sri Lanka to continue i
 ...
 
 [Data](articles/97164ce2.json)
+
+[Extended Data](ext_articles/97164ce2.ext.json)
+
+---
+
+### Landslide early warning issued for four districts
+
+*2024-05-14 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-early-warning-issued-for-four-districts/108-282613) · `en`
+
+Colombo, May 14 (Daily Mirror) - The National Building Research Organization (NBRO) today issued early warnings for landslides in Badulla, Galle, Ratnapura and Kegalle districts.
+
+Those in these areas are to be watchful for sudden appearance of water sprouts, cracks on walls and on the soil as these may be signs of impending landslides.
+
+According to the Department of Meteorology, heavy rains of about 100 mm may occur in the Western, Central, Sabaragamuwa and Eastern Provinces.
+
+The department has mentioned this while issuing a weather statement for the next 36 hours.
+
+Also, it states that the turbulent nature developing in the lower atmosphere near Sri Lanka is expected to lead to rainy conditions over the island in the future.
+
+◼️
+
+[Data](articles/89a09129.json)
 
 ---
 
@@ -2291,51 +2327,5 @@ Through this petition, Keheliya Rambukwella is seeking an order in the nature of
 [Data](articles/942878fe.json)
 
 [Extended Data](ext_articles/942878fe.ext.json)
-
----
-
-### President tells America regarding the economy
-
-*2024-05-14 13:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගැන-ජනපති-ඇමෙරිකාවට-කරුණු-කියයි/11-409623) · `si`
-
-President Ranil Wickremesinghe met with US Assistant Secretary of State Donald Lu to discuss Sri Lanka's economic reforms. The meeting also included Presidential Advisor Sagala Ratnayake and Presidential Secretary Dr. Dinuk Colombage.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu found President Ranil Wickremesinghe at the Presidential Secretariat yesterday afternoon.
-
-The government's program was discussed at length, and Donald Leah was assessed by the new economic reforms process in Sri Lanka and the new economic reforms of Sri Lanka and Donald Lie.
-
-Presidential Advisor on National Security and Presidential Staff Head of the President Sagala Ratnayake, Presidential Secretary to the President Dr. Dinuk Colombage were also present at the occasion.
-
-◼️
-
-[Data](articles/845a1efc.json)
-
-[Extended Data](ext_articles/845a1efc.ext.json)
-
----
-
-### Shanto to lead Bangladesh’s squad for T20 World Cup
-
-*2024-05-14 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanto-to-lead-Bangladeshs-squad-for-T20-World-Cup/108-282573) · `en`
-
-(ICC) - Najmul Hossain Shanto, who was appointed as Bangladesh captain in all formats earlier this year, is poised to lead his team in the ICC Men's T20 World Cup 2024.
-
-On the back of a solid 4-1 win over Zimbabwe in the recently-concluded T20I home series, Bangladesh announced their 15-member squad for next month's marquee event.
-
-The squad also features experienced all-rounder Shakib Al Hasan, who returned to T20I cricket after a gap of nearly a year. Shakib was named in the squad for Bangladesh's final two T20Is against Zimbabwe and impressed with a four-wicket haul in the fourth game.
-
-There were no major surprises in Bangladesh’s 15-player squad for the T20 World Cup, with young quick Tanzim Hasan Sakib earning selection after two appearances against Zimbabwe.
-
-Selectors also included left-arm quick Shoriful Islam, after the 22-year-old was rested for the final two matches with Zimbabwe. Afif Hossain Dhrubo and Hasan Mahmud will travel to the tournament as reserves.
-
-...
-
-[Data](articles/6d012d36.json)
-
-[Extended Data](ext_articles/6d012d36.ext.json)
 
 ---

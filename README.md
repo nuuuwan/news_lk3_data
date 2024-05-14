@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 14:18:43**
+As of **2024-05-14 14:33:44**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 3,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,943 (100.0%) of 23,948 articles have been extended.
+23,948 (100.0%) of 23,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### வர்த்தமானி அறிவித்தலுக்குப் பின்னர் தமிழ் அரசியல்வாதிகளின் அறிவிப்புகள்…!
+### Tamil politicians announcements after gazette notification…!
 
 *2024-05-14 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183510) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபாய் நாளாந்த சம்பளம் வழங்குவதற்கான வர்த்தமானி அறிவித்தல் ஏப்ரல் மாதம் 30 ஆம் திகதி வெளியானதாக மறுநாள் மே மாதம் 1 ஆம் திகதி உழைப்பாளர் தினமன்றே  நாட்டுக்கே தெரியவந்தது. மே மாதம் முதலாம் திகதியிலிருந்து இந்த அதிகரிக்கப்பட்ட சம்பளம் தொழிலாளர்களுக்கு வழங்கப்படும் என்ற ரீதியில் சில அரசியல் பிரமுகர்களும் தொழிலாளர்களுக்கு ஊடகங்கள் வாயிலாக சிறந்த நடிப்பை வெளிப்படுத்தியிருந்தனர்.
+After the gazette notification for plantation workers' salary increase, politicians like Vadivel Suresh and Manusha Nanayakkara made public statements, with Suresh threatening companies and advocating for immediate implementation. The Labor Minister and others urged companies to discuss salary issues and avoid legal action, while the government offered legal support to workers. The situation was met with mixed reactions, with some finding the politicians' actions amusing.
 
-சிலர் தமது பிரதேசங்களில் தாமே ஏற்பாடு செய்த நிகழ்வுகளில் கலந்து கொண்டு மாலை மரியாதைகளுடன் தொழிலாளர்கள் மத்தியில் நடந்து சென்றனர். சிலர் மேதினமன்றே ஊர்வலம் சென்றனர். ஆனால் இவர்களின் நடிப்புகளை பார்த்து இரசித்து மகிழ்ந்த  தொழிலாளர்கள் தமக்கு இந்த சம்பள உயர்வு நிச்சயமாக கிடைக்காது என்ற மனநிலையிலேயே வீடு திரும்பினர்.
+🟩
+
+The Gazette Notification for Plantation workers was released on April 30, the next day, the Labor Day was revealed to the country.. Some political figures have made a good performance through the media that the increased salary will be paid to workers since May 1st.
+
+Some people participated in the events organized in their territories and walked among the workers in the evening. Some people went on the procession. But the workers who enjoyed their performances returned home in the mindset of not getting this salary.
+
+But the events and politicians and statements were a good comedy treat for the upcountry people. Vadivel Suresh, a secretary of the Sri Lanka National Plantation Workers Union and the President's Senior Advisor and Badulla District Parliamentarian, threatened the companies that the gazette notification should be implemented immediately and the gardens could be handed over to the government.
 
 ...
 
 [Data](articles/1fc3d304.json)
 
+[Extended Data](ext_articles/1fc3d304.ext.json)
+
 ---
 
-### ආර්ථික පරිවර්ථන පනත් කෙටුම්පතට ලැබුණු අනුමැතිය
+### Approval received by the Economic Interpret Bill
 
 *2024-05-14 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196614) · `si`
 
-ආර්ථික පරිවර්ථන පනත් කෙටුම්පත ගැසට් පත්‍රයේ පළ කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The Economic Interpret Bill has received cabinet approval and is set to be published in the Gazette after receiving the Attorney General's clearance and the President's approval.
 
-මාර්තු 25 වන දි පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී එම පනත් කෙටුම්පතෙහි මුලික කෙටුම්පත සඳහා ප්‍රතිපත්තිමය වශයෙන් අනුමැතිය හිමිවුණි.
+🟩
 
-ඒ අනුව නීතිපති විසින් ඉදිරිපත් කරනු ලබන සංශෝධනයන් ද ඇතුළත් කරමින් විධිමත් පනත් කෙටුම්පත කඩිනමින් ඉදිරිපත් කරන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස් ලබා දී තිබිණි.
+Cabinet approval has been paid to publish the Economic Interpret Bill in the Gazette.
 
-ඒ අනුව සකස් කළ පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී ඇත.
+At the meeting of the Cabinet meeting, the bill was approved by the bill.
 
-ඒ අනුව අදාළ පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Accordingly, the proper bill has been instructed to preserve the formal bill to be presented with the amendments presented by the Attorney General.
+
+Accordingly, the Attorney General's clearance has been received for the Bill.
+
+The President's proposal has been approved by the President's proposal to publish the relevant Bill in the Government Gazette and submitting the relevant Bill.
 
 ◼️
 
 [Data](articles/91e3212a.json)
+
+[Extended Data](ext_articles/91e3212a.ext.json)
 
 ---
 
@@ -82,25 +96,35 @@ Taking these facts into account, it has been identified that it is appropriate t
 
 [Data](articles/14a5eb2e.json)
 
+[Extended Data](ext_articles/14a5eb2e.ext.json)
+
 ---
 
-### රටම හඬවමින් පුංචි විහඟි අවසන් ගමනේ
+### The country is crying on a little consecutive journey
 
 *2024-05-14 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196613) · `si`
 
-විදුලි සැර වැදීම හේතුවෙන් 3% සිට 15% අතර ප්‍රමාණයක් ළමා මරණ සිදුවිය හැකි බව ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Pediatrician Deepal Perera warns that 3% to 15% of children may suffer from heart and nervous system damage due to electric shocks. A tragic case involves a pre-school girl electrocuted by an unprotected power supply, highlighting the danger of electric hazards. Adults must educate children about the risks to prevent such incidents.
 
-"විදුලි සැර වැදීම නිසා 3% ඉදලා 15% වෙනකම් දරුවෝ මරණයට පත්වෙන්න පුළුවන්. හෘද වස්තුවට බලපෑමක් ඇති කරන්න පුළුවන්. මොළයට බලපෑම් ඇති කරන්න පුළුවන්. ඒ කියන්නේ ස්නායු පද්ධතියට හානිවෙන්න පුළුවන්. හෘද වස්තුවේ වේගය වෙනස් වෙන්න පුළුවන්. අපි කියනවා ඇරිද්මියාස් කියලා. ඒ වගේ දේවල් ඇති වෙන්න පුළුවන්. ක්ලාන්ත ගතිය, සිහි නැතිවීම, ඒ එක්කම මරණ පවා සිදුවෙන්න පුළුවන්. ඒ නිසා මේක ඉතාමත් භයානකයි. ඒ වගේ දෙයක් වුණොත් ඉක්මනටම රෝහලක් වෙත ගෙනියන්න ඒක වළක්වාගැනීම වැඩිහිටියෝ විදිහට අපේ යුතුකම."
+🟩
 
-මේ අතර, ජංගම දුරකථනයට විදුලිය ආරෝපණය කර එය නරඹමින් සිටි මග්ගොනෙ, මුංහේන ප්‍රදේශයේ පෙර පාසල් දියණියක් විදුලි සැර වැදී මියගොස් තිබිණි.
+Pediatrician Deepal Perera says that between 3% to 15% can result in childhood due to electric weapons.
 
-පොලීසිය සඳහන් කළේ, අවුරුදු තුනහමාරක් පමණ වයසැති දැරියක් එලෙස මියගොස් ඇති බවය.
+"3% to 15% of 15% of the electric web. Could have a effect on the heart. Brain can influence. That means the nervous system may be damaged. Hearts speed can change. We say the Agrayas. Such things may happen. Feeling, unconscious, can happen, and even deaths. So this is very dangerous. If that happens, it is our duty to prevent it soon to take it to a hospital. "
 
-ජංගම දුරකථනයට විදුලිය ආරෝපණය කර එය නරඹමින් සිටි මග්ගොනෙ, මුංහේන ප්‍රදේශයේ පෙර පාසල් දියණියක් විදුලි සැර වැදී මියගොස් තිබේ.
+Meanwhile, a pre-school daughter of the Munune, Mugagonne, was also killed and a pre-school daughter of Mugagonne.
+
+The police said that a wife was about three and a half years old.
+
+A pre-school daughter of the Munune, Mugagon, has died of electricity to the mobile phone and watching it.
+
+The girl had gone back to the pre-school and was watching a mobile phone that had been attributed to the house.
 
 ...
 
 [Data](articles/3238b862.json)
+
+[Extended Data](ext_articles/3238b862.ext.json)
 
 ---
 
@@ -1147,6 +1171,8 @@ A discussion on media guidelines on the upcoming elections was held recently at 
 ◼️
 
 [Data](articles/bc563fcb.json)
+
+[Extended Data](ext_articles/bc563fcb.ext.json)
 
 ---
 

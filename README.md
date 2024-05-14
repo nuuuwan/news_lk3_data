@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 12:18:14**
+As of **2024-05-14 12:33:58**
 
 ## Newspaper Stats
 
-*Scraped **23,898** Articles*
+*Scraped **23,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,185 @@ islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,034
-adaderanalk | 2,783
+adaderanalk | 2,785
 tamilmirrorlk | 2,803
-virakesarilk | 3,567
-dailymirrorlk | 3,759
+virakesarilk | 3,575
+dailymirrorlk | 3,761
 adaderanasinhalalk | 3,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,897 (100.0%) of 23,898 articles have been extended.
+23,898 (99.9%) of 23,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### உ/த வகுப்புகளை உடன் ஆரம்பிக்க அனுமதி
+### அரசாங்கம் வழங்கிய அரிசியை உட்கொண்டு ஏழு கோழிகள் உயிரிழப்பு ; தரமற்ற அரிசி விநியோகிக்கப்பட்டுள்ளதா ? - முஜிபுர் ரஹ்மான் கேள்வி
 
-*2024-05-14 11:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-வகுப்புகளை-உடன்-ஆரம்பிக்க-அனுமதி/175-337287) · `ta`
+*2024-05-14 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183486) · `ta`
 
-கல்வி பொதுத்தராதர சாதாரண தர பரீட்சையின் பெறுபேறுகள் வெளியாகுவதற்கு முன்னதாக உயர்தரத்திற்கான வகுப்புகளை ஆரம்பிப்பதற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+அரசாங்கத்தினால் குறைந்த வருமானமுடைய குடும்பங்களுக்கு வழங்கப்பட்ட அரிசியை உட்கொண்டு பாணகமுவ பகுதியில் ஏழு கோழிகள் உயிரிழந்துள்ளன. அரசியின் தரம் தொடர்பில் எழுந்துள்ள பிரச்சினைகளை அரசாங்கம் அறிந்துள்ளதா என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் கேள்வியெழுப்பினார்.
 
-தற்போது கல்வி பொதுத்தராதர சாதாரண தர பரீட்சைக்கு தோற்றிவரும் மாணவர்களுக்கான உயர்தர வகுப்புகளை எதிர்வரும் 5ஆம் திகதி ஆரம்பிப்பதற்கு திட்டமிடப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14)  இடம்பெற்ற அமர்வின் போது  விசேட கூற்றை முன்வைத்து உரையாற்றும் போது  மேற்கண்டவாறு  கேள்வியெழுப்பினார்.
 
-இந்த புதிய திட்டத்திற்கு மாகாண ஆளுநர்கள் மற்றும் அதிகாரிகளின் அனுமதி கிடைத்துள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரசாங்கத்தினால்  அரசி வழங்கப்படுகின்றது. விநியோகிக்கப்படும் அரிசியின்  தரம் தொடர்பில் கடந்த காலங்களில் பல  கேள்விகள் எழுந்துள்ளன.
 
-அதனடிப்படையில், கல்வி பொதுத்தராதர சாதாரண தரம் வரை மாத்திரம் கல்வி நடவடிக்கைகள் முன்னெடுக்கப்படும் பாடசாலை மாணவர்களை உயர்தரத்திற்காக அருகிலுள்ள பாடசாலைகளுக்கு அனுப்புவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
-
-உயர்தர வகுப்புகள் நடத்தப்பட்டாலும், குறிப்பிட்ட பாடத்திட்டம் உரிய பாடசாலையில் கற்பிக்கப்படாவிடின், அப்பாடத்திட்டம் கற்பிக்கப்படும் பாடசாலைகளுக்கு மாணவர்களை அனுப்பவும் திட்டமிடப்பட்டுள்ளது.
+வழங்கப்படும் இலவச அரிசி தொடர்பில்  இன்று (நேற்று) ஊடங்களில் செய்தி  வெளியாகியுள்ளன. அதாவது பாணகமுவ பிரதேசத்தில் உள்ள ஒருவர் அரசாங்கத்தினால் கிடைக்கப் பெற்ற அரிசியை தான் வளர்க்கும் கோழிகளுக்கு தானியமாக வழங்கியுள்ளார்.இதனை உட்கொண்ட 07 கோழிகள் உயிரிழந்துள்ளன. இவ்விடயம் தொடர்பில் அரசாங்கம் அறிந்துள்ளதா?  என  என கேள்வி எழுப்பினார்.
 
 ...
 
+[Data](articles/078188cf.json)
+
+---
+
+### Suspect arrested for aiding and abetting Ahungalla shooting
+
+*2024-05-14 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99206/suspect-arrested-for-aiding-and-abetting-ahungalla-shooting-) · `en`
+
+An individual who is suspected to have aided and abetted the recent shooting incident in the Ahungalla area has been arrested by the Police Special Task Force (STF) in the Kosgoda area.
+
+A team of officers from the Southern Province Special Operations Unit of the Police STF have apprehended the suspect in the Duwamodara area of Kosgoda.
+
+The apprehended individual, known by the alias “Adare,” is suspected to have aided the shooter in the fatal shooting which was carried out in the Ahungalla area on May 08.
+
+During the arrest, the Police STF has also taken into custody 1,150 mg of heroin and a mobile phone found in the suspect’s possession.
+
+The suspect has since been handed over to Kosgoda police for further investigation, the police said.
+
+The shooting incident, which resulted in the death of a 54-year-old individual, occurred in Ahungalla on Thursday (09). The assailants, who had arrived on a motorcycle at around 7.40 p.m., had called the victim out of his residence before opening fire at him.
+
+...
+
+[Data](articles/efc92fa5.json)
+
+---
+
+### தாதியர்களுக்கான புதிய ஆட்சேர்ப்பை துரிதப்படுத்துங்கள் - எதிர்க்கட்சித் தலைவர்
+
+*2024-05-14 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183487) · `ta`
+
+2019/2020 காலப்பகுதியில் வெளியேறிய சுமார் 3000 பேர் தாதியர்களாக நியமிக்கப்பட்டுள்ளனர். மேலும் 3000 பேர் நியமிக்கப்படவுள்ளனர். இந்த ஆட்சேர்ப்புகளை துரிதப்படுத்துமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று செவ்வாய்க்கிழமை (14) பாராளுமன்றத்தில் கோரிக்கை விடுத்தார்.
+
+கொரோனா வைரஸ் பரவல், வங்குரோத்து நிலை போன்றவற்றால் இந்த ஆட்சேர்ப்பு தாமதமானது. இதை மேலும் தாமதப்படுத்தாமல் இந்த ஆட்சேர்ப்புகளை துரிதப்படுத்துமாறு எதிர்க்கட்சித் தலைவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/18e6b174.json)
+
+---
+
+### Allow to start with U/The classes
+
+*2024-05-14 11:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-வகுப்புகளை-உடன்-ஆரம்பிக்க-அனுமதி/175-337287) · `ta`
+
+The Cabinet has approved high-quality classes for students before GCE Ordinary Level Exam results. The Ministry of Education plans to start these classes on the 5th, aiming to enhance education quality. This initiative, granted by provincial governors, involves sending students to nearby schools for top-tier education, even if specific curricula are not available. This move aligns with the closure of schools during the Corona period, as stated by Education Minister Susil Premajayantha.
+
+🟩
+
+The Cabinet has granted permission to start classes for high quality before the results of the GCE Ordinary Level Examination.
+
+The Ministry of Education has announced that it is scheduled to commence high quality classes for students who are currently facing the GCE Ordinary Level Examination on the 5th of this month.
+
+The new project has been granted permission from provincial governors and officials.
+
+Accordingly, it has been decided to send school students to nearby schools for the highest level of education, up to the normal quality of education.
+
+Even if high -quality classes are conducted, it is also planned to send students to schools that are taught if the specific curriculum is not taught in the appropriate school.
+
+Earlier, Education Minister Susil Premajayantha said that the scheme is being carried out in accordance with the closure of schools during the period of Corona.
+
+◼️
+
 [Data](articles/36cdead6.json)
+
+[Extended Data](ext_articles/36cdead6.ext.json)
+
+---
+
+### Cabinet approval for proposal on uni. non-academic staff wage disparities delayed
+
+*2024-05-14 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99205/cabinet-approval-for-proposal-on-uni-non-academic-staff-wage-disparities-delayed) · `en`
+
+The granting of approval by the Cabinet of Ministers for the proposals concerning the monthly allowance and wage disparities of university non-academic staff has been further delayed.
+
+Minister of Education, Susil Premajayantha has submitted the proposal concerning the monthly allowance and wage disparity of university non-academic staff during the Cabinet meeting held on Monday (12).
+
+Subsequently, it has been decided to seek approval from the Ministry of Finance for the matters outlined in the proposal.
+
+Accordingly, the relevant proposal will be resubmitted to the Cabinet following approval from the Ministry of Finance.
+
+Meanwhile, Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyantha stated that intensified actions will be pursued as there has been a delay in receiving solutions for their demands.
+
+...
+
+[Data](articles/38f26bfa.json)
+
+---
+
+### Consider withdrawing diplomatic ties with Israel: Hakeem
+
+*2024-05-14 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consider-withdrawing-diplomatic-ties-with-Israel-Hakeem/108-282569) · `en`
+
+Parliament, May 14 (Daily Mirror)- Opposition MP Rauff Hakeem today urged the Sri Lankan government to consider withdrawing diplomatic ties with Israel if it fails to stop iys military offensives in Gaza.
+
+"Threaten Israel and inform it that Sri Lanka will withdraw diplomatic ties if the offensive is not stopped in Gaza. Do this as a last resort," Hakeem told Parliament.
+
+State Minister of Foreign Affairs Tharaka Balasuriya who responded said Sri Lanka's foreign policy is to establish and maintain ties will all countries.
+
+"Our foreign policy is to establish and maintain ties with all countries. However, that does not mean we have abandoned Palastine," he said.
+
+◼️
+
+[Data](articles/1c7390fc.json)
+
+---
+
+### Ice Drug Laboratory in Jaffna - Two arrested
+
+*2024-05-14 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183467) · `ta`
+
+In Jaffna, a raid on an ice drug lab led to the arrest of two suspects. The operation, based on confidential tips, recovered production materials. The house, now sealed, will be analyzed by chemical experts from Colombo. The main suspect is at large.
+
+🟩
+
+An Ice Narcotics Center in the area of the Chunnakam police division of Jaffna. Two suspects have been arrested.
+
+Based on the confidential information received by the Jaffna District Police Crime Unit, the raid was carried out on Sunday (12).. During this time, the products used for the production of ice have been recovered.
+
+Both the arrested suspects are under the supervision of the Jaffna District Police Crime Unit.
+
+It is reported that the house was operating as an ice drug manufacturing laboratory.
+
+In this case, the house has been sealed and the chemical analysts from Colombo will summoned and analyzed the analysis.
+
+It is noteworthy that two people have been arrested as the main suspect has escaped.
+
+◼️
+
+[Data](articles/b5f6944f.json)
+
+[Extended Data](ext_articles/b5f6944f.ext.json)
+
+---
+
+### தேசிய மக்கள் சக்தியின் பிரதிநிதிகளை சந்தித்தார் டொனால்ட் லு
+
+*2024-05-14 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183483) · `ta`
+
+அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரப் பணியகத்தின் உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு தேசிய மக்கள் சக்தியின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இச் சந்திப்பானது நேற்று  திங்கட்கிழமை (13 ) கொழும்பு கோல்பேஸ் ஹோட்டலில் இடம்பெற்றது.
+
+தேசிய மக்கள் சக்தியின் தேசியக் செயற்குழு உறுப்பினர்களான பாராளுமன்ற உறுப்பினர் விஜித்த ஹேரத், வசந்த சமரசிங்க, கலாநிதி நளிந்த ஜெயதிஸ்ஸ, ஆகியோர் கலந்துகொண்டனர்.
+
+இலங்கையின் தற்போதைய பொருளாதார நிலைமை, சர்வதேச நாணய நிதியத்தின் ஈடுபாடு, சுதந்திரமானதும் நீதியானதுமான தேர்தலை  நடாத்துதல் மற்றும் இந்து சமுத்திர பிராந்தியத்தில் பாதுகாப்பு செயற்பாடுகள் உள்ளிட்ட விடயப்பரப்புகள் இதன்போது இரு தரப்பினருக்கும் இடையில் கலந்துரையாடப்பட்டுள்ளமைகுறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/eb2e57aa.json)
 
 ---
 
@@ -71,6 +217,24 @@ Sri Lanka Muslim Congress President Rauf Hakeem addressed the proposal. It was a
 [Data](articles/403d2fac.json)
 
 [Extended Data](ext_articles/403d2fac.ext.json)
+
+---
+
+### ஜிவி பிரகாஷ் - சைந்தவி ஜோடி பிரிவதாக அறிவிப்பு
+
+*2024-05-14 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183481) · `ta`
+
+திருமண வாழ்க்கையிலிருந்து பிரிய முடிவு செய்திருப்பதாக ஜி.வி.பிரகாஷ் மற்றும் சைந்தவி அகிய இருவரும் அறிவித்துள்ளனர்.
+
+“பல்வேறு யோசனைகளுக்குப் பிறகு நானும் சைந்தவியும் 11 வருட திருமண வாழ்க்கைக்குப் பிறகு பிரிய முடிவு செய்திருக்கிறோம். எங்களுடைய மன அமைதிக்காகவும், நன்மைக்காகவும், அதே நேரம் ஒருவர் மீது ஒருவர் வைத்திருக்கும் பரஸ்பர மரியாதை அப்படியே நீடிக்கும்.
+
+மிகவும் தனிப்பட்ட இந்த் மாற்றத்தின் போது எங்களுடைய பிரைவசியை மதித்து புரிந்துகொள்ளுமாறு ஊடகத்தினர், நண்பர்கள் மற்றும் ரசிகர்களை கேட்டுக் கொள்கிறோம். நாங்கள் தனித்தனியாக வளர்ந்து கொண்டிருப்பதை மனதில் கொண்டு, இது எங்கள் இருவருக்கும் சிறந்த முடிவாக இருக்கும் என்று நம்புகிறோம். இந்த கடினமாக காலகட்டத்தில் உங்களுடைய புரிதலும் ஆதரவும் எங்களுக்கு மிகவும் முக்கியம். நன்றி” இவ்வாறு ஜி.வி.பிரகாஷ் தெரிவித்துள்ளார்.
+
+இதே போன்ற ஒரு அறிவிப்பை சைந்தவியும் தனது சமூக வலைதள பக்கங்களில் வெளியிட்டுள்ளார்.
+
+...
+
+[Data](articles/490657d7.json)
 
 ---
 
@@ -164,6 +328,40 @@ Opposition Leader MP. Sajith Premadasa, United People's Power MPs Mujibur Rahman
 
 ---
 
+### சிவப்பு உதட்டுச்சாயத்திற்கு தடை ; வட கொாியாவில் விநோத அறிவிப்பு
+
+*2024-05-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183479) · `ta`
+
+வட கொாியாவில் பெண்கள் சிவப்பு நிற உதட்டு சாயத்தை பூசிக்கொள்ள அந்த நாட்டு ஜனாதிபதி  கிம் ஜாங் உன் தடை விதித்துள்ளார்.
+
+பிரபலமான அலங்கார பொருட்களுக்கு ஏற்கனவே ஜனாதிபதி  தடை விதித்தார். தற்போது சிவப்பு நிற உதட்டு சாயத்திற்கும் தடை விதித்ததோடு இந்த தடையை மீறினால் பெரும் தொகை அபராதமாக விதிக்கப்படும் என்றும் எச்சரித்துள்ளார்.
+
+சிவப்பு வண்ணம் கம்யூனிசத்தின் ஆஸ்தான நிறமாக பார்க்கப்பட்டாலும் பெண்கள் பூசிக்கொள்ளும் உதட்டு சாயத்தை முதலாளித்துவத்தின் சின்னமாக வடகொரியா ஜனாதிபதி பார்ப்பதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/774ea9fc.json)
+
+---
+
+### காசாமீதான இஸ்ரேலின் யுத்தத்திற்கு அமெரிக்காவின் உதவி  தார்மீக காயங்கள்ஏற்படுத்தியது - பதவியை இராஜினாமா செய்த அமெரிக்காவின்  புலனாய்வு பிரிவு  அதிகாரி
+
+*2024-05-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183480) · `ta`
+
+காசாமீதான இஸ்ரேலின் யுத்தத்திற்கான அமெரிக்காவின் ஆதரவு பாலஸ்தீனியர்களிற்கு ஏற்பட்டுள்ள தீமைகள் காரணமாக ஏற்பட்ட தார்மீக காயம் காரணமாக அமெரிக்காவின் புலனாய்வு பிரிவிலிருந்து இராஜினாமா செய்ததாக அமெரிக்க புலனாய்வு அதிகாரியொருவர் தெரிவித்துள்ளார்
+
+நவம்பரில் தனது பதவியை இராஜினாமா செய்த இராணுவமேஜர் ஹரிசன் மான்  இது குறித்து திங்கட்கிழமை தனது சகாக்களிற்கு எழுதியுள்ள கடிதத்தில் தனது தார்மீக காயம்குறித்து குறிப்பிட்டுள்ளார்.
+
+எனது இராஜினாமாவிற்கான காரணங்களை அச்சம் காரணமாக நான் பல மாதங்களாக தெரிவிக்கவில்லை  தொழில்முறை விதிமுறைகளை மீறுவது நான் பெரிதும் மதிக்கும் எனது சிரேஸ்ட அதிகாரிகளிற்கு ஏமாற்றத்தை ஏற்படுத்துவது நான் துரோகம் செய்துவிட்டேன் என நீங்கள் கருதுவீர்கள் என பல அச்சங்களால் இராஜினாமாவிற்கான காரணத்தை முதலில் தெரிவிக்கவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+பாலஸ்தீனியர்கள் பாரியளவில் படுகொலை செய்வதற்கு காரணமான அமெரிக்காவின் கொள்கைகளை முன்னெடுக்க உதவுவது குறித்து வெட்கம் அடைந்தேன் குற்றவுணர்வினால் பாதிக்கப்பட்டேன் எனவும் ஹரிசன்மான் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8ea6636d.json)
+
+---
+
 ### Sajith's revelation again in crisis
 
 *2024-05-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196607) · `si`
@@ -253,6 +451,54 @@ During the meeting with representatives from the NPP, the discussion focused on 
 [Data](articles/982879a3.json)
 
 [Extended Data](ext_articles/982879a3.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் கஞ்சி தயாரிக்க முற்பட்டவர்களை தடுக்க கல்முனை பாண்டிருப்பில் பொலிஸார் குவிப்பு
+
+*2024-05-14 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/183473) · `ta`
+
+அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவுக்குட்பட்ட பாண்டிருப்பு பகுதியில் முள்ளிவாய்க்கால் கஞ்சி  தயாரிக்க முற்பட்டவர்களை தடுப்பதற்கு நூற்றுக்கணக்கான பொலிஸார் குவிக்கப்பட்டுள்ளனர்.
+
+குறித்த  சம்பவம், இன்று செவ்வாய்க்கிழமை  (14) காலை 8.30 மணிக்கு  இடம்பெற்றுள்ளதுடன் இச்சம்பவத்தில் தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் மாவட்ட அமைப்பாளர் புஸ்பராஜ் துஷானந்தன் , அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்க தலைவி தம்பிராசா செல்வராணி  ஆகியோருக்கு பொலிஸாரினால் எச்சரிக்கை விடுக்கப்பட்டு குறித்த நிகழ்வு தடுத்து நிறுத்தப்பட்டுள்ளது.
+
+இதன் போது, கல்முனை பாண்டிருப்பு அரசடி அம்மன்  ஆலய முன்றலில் தமிழ் தேசிய மக்கள் முன்னணி கட்சி ஏற்பாட்டில்  அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்கம்  பொதுமக்களுடன் இணைந்து   முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நிகழ்வினை முன்னெடுத்திருந்தது.
+
+...
+
+[Data](articles/a4644a5d.json)
+
+---
+
+### Preparing for Vesak
+
+*2024-05-14 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-Vesak/110-282566) · `en`
+
+Homagama town is currently witnessing the construction of a Vesak Pandol in anticipation of the upcoming Vesak festival. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/91a5d5ce.json)
+
+---
+
+### ரயிலுடன் சிறிய ரக உழவு இயந்திரம் மோதி விபத்து  ; ஒருவர் பலி
+
+*2024-05-14 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183474) · `ta`
+
+கொஸ்கொட பகுதியில் துவேமோதர ரயில் கடவையில் சிறிய ரக உழவு இயந்திரம் ரயிலுடன் மோதி இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றுமொருவர் படுகாயமடைந்துள்ளார்.
+
+நேற்று திங்கட்கிழமை (13) மாலை மாத்தறையில் இருந்து கொழும்பு மருதானை நோக்கி பயணித்த அதிவேக ரயிலில் மோதியே விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் படுகாயமடைந்த  உழவு இயந்திர சாரதியும் அவருடன் பயணித்த நபரும் பலப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+சாரதி வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.  தெஹிகஹவெல பகுதியைச் சேர்ந்த 49 வயதுடையவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+காயமடைந்த மற்றைய நபர் மேலதிக சிகிச்சைக்காக கராப்பிட்டிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/4a14ff2e.json)
 
 ---
 
@@ -476,34 +722,6 @@ Investigations carried out by the Forest Office have revealed that they visited 
 
 ---
 
-### Ice Drug Laboratory in Jaffna - Two arrested
-
-*2024-05-14 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183467) · `ta`
-
-In Jaffna, a raid on an ice drug lab led to the arrest of two suspects. The operation, based on confidential tips, recovered production materials. The house, now sealed, will be analyzed by chemical experts from Colombo. The main suspect is at large.
-
-🟩
-
-An Ice Narcotics Center in the area of the Chunnakam police division of Jaffna. Two suspects have been arrested.
-
-Based on the confidential information received by the Jaffna District Police Crime Unit, the raid was carried out on Sunday (12).. During this time, the products used for the production of ice have been recovered.
-
-Both the arrested suspects are under the supervision of the Jaffna District Police Crime Unit.
-
-It is reported that the house was operating as an ice drug manufacturing laboratory.
-
-In this case, the house has been sealed and the chemical analysts from Colombo will summoned and analyzed the analysis.
-
-It is noteworthy that two people have been arrested as the main suspect has escaped.
-
-◼️
-
-[Data](articles/b5f6944f.json)
-
-[Extended Data](ext_articles/b5f6944f.ext.json)
-
----
-
 ### The story of the dawn before going out
 
 *2024-05-14 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196603) · `si`
@@ -638,7 +856,7 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 *2024-05-14 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99200/one-dead-another-injured-as-train-hits-hand-tractor-) · `en`
 
-One person has died and another sustained injuries in an accident where a hand tractor collided with a train at the Duwemodara railway crossing in Kosgoda.
+One person has died and another sustained injuries in an accident where a hand tractor collided with a train at the Duwamodara railway crossing in Kosgoda.
 
 The accident had occurred last evening (13) involving an express train which was running from Matara to Maradana.
 
@@ -948,9 +1166,9 @@ ECONOMYNEXT – Sri Lanka should make greater efforts to bring back citizens in 
 
 “If we can, send a special envoy from the President to Russia, and discuss with the Defence Secretary at least to bring back the injured in Russian hospitals,” Jayasekera who was one of the first legislators to bring attention to the growing recruitment of Sri Lankan ex-soldiers for Russia’s war.
 
-“Then we can secondly bring back the people in the camps. There is a diplomatic intervention that is needed. We need some plan to bring back the 600 or so people who are there.”
+“There are many injured Sri Lankans in Russia. Some have lost their fingers, in others legs have been cut (kakul kaperla).
 
-One Sri Lanka ex-soldier estimated that 200 to 300 Sri Lankans may be treated in Russian hospitals at the moment and about 200 may have died. Up to 800 or more Sri Lankans – mainly ex-soldiers – may have left the country to fight for Russia, he said.
+“Then we can secondly bring back the people in the camps. There is a diplomatic intervention that is needed. We need some plan to bring back the 600 or so people who are there.”
 
 ...
 
@@ -1951,233 +2169,5 @@ Having been raised and schooled in Kandy, I have watched the festivities of the 
 [Data](articles/b95488cc.json)
 
 [Extended Data](ext_articles/b95488cc.ext.json)
-
----
-
-### National Chamber seminar on “Country of Origin certification for exporters and upcoming FTAs”
-
-*2024-05-13 23:01:40* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-seminar-on-Country-of-Origin-certification-for-exporters-and-upcoming-FTAs/34-761738) · `en`
-
-The National Chamber of Commerce of Sri Lanka in collaboration with the Department of Commerce, Sri Lanka, will hold a seminar on “Country of Origin certification for Exporters and upcoming FTAs” on Thursday, 16 May 2024 from 2.30 p.m. to 4.30 p.m. its auditorium at Colombo 10.
-
-...
-
-[Data](articles/b5644dc5.json)
-
-[Extended Data](ext_articles/b5644dc5.ext.json)
-
----
-
-### Playing “Blind Man’s Buff” with Sri Lanka’s Free Trade Agreements: Part 1
-
-*2024-05-13 23:00:46* · [`dailyftlk`](https://www.ft.lk/columns/Playing-Blind-Man-s-Buff-with-Sri-Lanka-s-Free-Trade-Agreements-Part-1/4-761737) · `en`
-
-Transparency and widespread consultation is vital for an FTA Feasibility Study that reflects the interests of the country rather than vested interests of a few politicians and their business henchmen
-
-It is mind boggling to perceive that in their haste to clinch as many FTAs as possible in obedience to the political masters in the fastest possible time with least dissent and negotiation, Sri Lanka is negotiating FTAs at the same level of its more developed partner countries opting for “substantial liberalisation” under GATT Article XXIV and Article V of the GATS in elimination of existing regulatory measures and prohibition of new regulations
-
-...
-
-[Data](articles/e26023b6.json)
-
-[Extended Data](ext_articles/e26023b6.ext.json)
-
----
-
-### Donald Lu met Sajith
-
-*2024-05-13 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183452) · `ta`
-
-Donald Lu, US Assistant Secretary for South and Central Asian Affairs, met Sri Lanka's Opposition Leader Sajith Premadasa during his official visit. Premadasa urged Lu to support Sri Lanka's development, emphasizing the need for US cooperation to help the country recover from bankruptcy.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu met Opposition Leader Sajith Premadasa.
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu also met Opposition Leader Sajith Premadasa as he visited Sri Lanka on an official visit.
-
-Opposition Leader Sajith Premadasa appealed to Donald Lu to cooperate to build the country from the current bankruptcy state on the development of the current coalition between Sri Lanka and the United States.
-
-◼️
-
-[Data](articles/c893d6da.json)
-
-[Extended Data](ext_articles/c893d6da.ext.json)
-
----
-
-### President congratulates Sri Lanka Cricket Team for Twenty20 World Cup
-
-*2024-05-13 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183451) · `ta`
-
-President Ranil Wickremesinghe congratulated the Sri Lankan cricket and rugby teams for their recent successes. The cricket team, led by Vanitu Hazaranga, will compete in the Twenty20 World Cup in the US and West Indies. The rugby team won the first division of Sri Lanka's Rugby Championship. The President, along with other officials, met with the teams to celebrate their achievements.
-
-🟩
-
-Sri Lankan cricket team from the country to participate in the Twenty20 World Cup cricket tournament, which will be held in the US and West Indies from June 01 to June 29, met with Ranil Wickremesinghe at the Presidential Office on Monday afternoon.
-
-The Sri Lankan cricket team, which includes 15 players led by Vanitu Hazaranga, will leave the country on Tuesday morning.
-
-The President, who encouraged the soldiers, discussed with them and congratulated them for his success for the country.
-
-Meanwhile, Sri Lanka Rugby, who won the first Division of Sri Lanka's Rugby Championship, met with President Ranil Wickremesinghe at the presidential office on Monday afternoon.
-
-The President said that the country is very proud of this success in the Rugby Games after many years, and congratulated the players and congratulated them.
-
-...
-
-[Data](articles/34881c2e.json)
-
-[Extended Data](ext_articles/34881c2e.ext.json)
-
----
-
-### Government proposes law to co-opt and control non-governmental activity
-
-*2024-05-13 22:53:13* · [`dailyftlk`](https://www.ft.lk/columns/Government-proposes-law-to-co-opt-and-control-non-governmental-activity/4-761732) · `en`
-
-While we challenge these individual attempts to dismantle our freedoms and rights, it is important to take a step back and see the monstrous governance apparatus that is growing
-
-The proposed scheme appears to introduce legal legitimacy for the current oppressive treatment of non-governmental organisations. The scheme explicitly requires organisations to comply with governmental policy and agenda, rendering unlawful those who may criticise, challenge and question Government policy and agendas. It seeks to assert authority over all forms of non-governmental associations, groups and activities by introducing mandatory registration, whilst retaining powers to give directions to institutions that are specifically excluded from registration. The Government investment in the institutional mechanism and apparatus to oversee, supervise and direct non-governmental resources and activity is quite simply a taking control of the vast breadth of institutions and groups
-
-...
-
-[Data](articles/ab82e475.json)
-
-[Extended Data](ext_articles/ab82e475.ext.json)
-
----
-
-### Electricity sector: What Rohan Samarajiva didn’t say
-
-*2024-05-13 22:49:51* · [`dailyftlk`](https://www.ft.lk/columns/Electricity-sector-What-Rohan-Samarajiva-didn-t-say/4-761731) · `en`
-
-Samarajiva bemoans the fact that wind projects in Sri Lanka must pass an environmental impact  assessment whereas those in India need not. And that is somehow a good thing?
-
-In his article, “Electricity sector: Without investment we will be in the dark again” (Daily FT, 7 April, 2024), Professor Rohan Samarajiva, evidently the latest apologist for India’s Adani Group, writes, “An eminent public intellectual, Rohan Pethiyagoda, bemoans the fact that a unit of electricity produced by the wind power facility proposed by Adani will cost more than wind-produced electricity in the US and in India.” He goes on, in the manner of a gifted prestidigitator, to cite a litany of excuses that argue for waiving the rules to help Adani cream of more than $ 700 million in excess profits from Sri Lankan electricity consumers. Much of what he writes consists purely of smoke and mirrors. But let’s cut to the bone.
-
-...
-
-[Data](articles/6024a4ab.json)
-
-[Extended Data](ext_articles/6024a4ab.ext.json)
-
----
-
-### President meets Sri Lankan cricket team heading to T20 World Cup, extends best wishes
-
-*2024-05-13 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99197/president-meets-sri-lankan-cricket-team-heading-to-t20-world-cup-extends-best-wishes) · `en`
-
-President Ranil Wickremesinghe extended his well-wishes to the Sri Lankan Cricket Team as they embark on their journey to participate in the upcoming Twenty20 World Cup Cricket Tournament, set to take place in the U.S. and the West Indies from June 1st to June 29th.
-
-In a meeting held at the Presidential Secretariat this afternoon (13), the President engaged in a friendly conversation with the team, led by Wanidu Hasaranga, offering words of encouragement and congratulating them on representing the nation with distinction, the PMD reported.
-
-Scheduled to depart the island tomorrow morning (14), the Sri Lankan cricket squad comprising 15 players received commendations from the President for their commitment to achieving success on the international stage.
-
-...
-
-[Data](articles/c284e9fd.json)
-
-[Extended Data](ext_articles/c284e9fd.ext.json)
-
----
-
-### Urgently required additional law reforms: Letter to Justice Minister
-
-*2024-05-13 22:48:05* · [`dailyftlk`](https://www.ft.lk/opinion/Urgently-required-additional-law-reforms-Letter-to-Justice-Minister/14-761730) · `en`
-
-Consider enacting an ‘Economic Crime and Corporate Transparency Act’ along with proposed ‘Proceeds of Crime Act’
-
-You are urged to kindly consider enacting an ‘Economic Crime and Corporate Transparency Act’, along with the enactment of the ‘Proposed Proceeds of Crime Act’, in line with the firm commitments expressed by the Government in response to the expectations of the International Monetary Fund (IMF); and specifically, as targeted by the (IMF) in the Governance Diagnostics Assessment which was duly adopted by the Government.
-
-...
-
-[Data](articles/31776f49.json)
-
-[Extended Data](ext_articles/31776f49.ext.json)
-
----
-
-### The tragedy of the girl who went to charge the phone
-
-*2024-05-13 22:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசியை-சார்ஜ்-செய்யச்-சென்ற-சிறுமிக்கு-நடந்த-சோகம்/175-337264) · `ta`
-
-A five-year-old girl, Vihiki Natasha, died while charging her phone in Munge Mungena. Her body is at Beruwala Hospital, awaiting autopsy at Kalutara Teaching Hospital.
-
-🟩
-
-Police said that a five -year -old girl died when she went to charge a cell phone in the Munge Mungena area.
-
-A girl named Vihiki Natasha from Maona Mungena area has died, police said.
-
-The body has been kept at the Beruwala Divisional Hospital and is to be sent to the Kalutara Teaching Hospital for autopsy.
-
-◼️
-
-[Data](articles/17e29fec.json)
-
-[Extended Data](ext_articles/17e29fec.ext.json)
-
----
-
-### Nimal faced the challenge for the dream of 80 years
-
-*2024-05-13 22:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196593) · `si`
-
-Nimal Silva, an 80-year-old, recently appeared for the GCE Ordinary Level mathematics exam, showcasing his lifelong dream of education.
-
-🟩
-
-A man of 80 years of age have appeared to the mathematical question paper of the GCE O / L examination this year.
-
-The GCE Ordinary Level examination has appeared to the mathematical subject question paper, a man named Nimal Silva.
-
-◼️
-
-[Data](articles/2c30887b.json)
-
-[Extended Data](ext_articles/2c30887b.ext.json)
-
----
-
-### ‘Choose France’ investment push bags record $16 billion in pledges
-
-*2024-05-13 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99196/choose-france-investment-push-bags-record-16-billion-in-pledges) · `en`
-
-(Reuters) - France won a record 15 billion euros ($16.17 billion) in foreign investment pledges on Monday, allowing President Emmanuel Macron to bask in the limelight with global CEOs and forget about strained public finances and weak polls for a while.
-
-The bumper crop of pledges, in sectors ranging from artificial intelligence to pharmaceuticals and energy, stood Macron in good stead as he hosted business leaders for the annual “Choose France” summit at Versailles Palace.
-
-This year’s figure is up from 13 billion euros announced in 2023.
-
-The French presidency said the investments included 56 different business projects and could lead to the creation of 10,000 jobs.
-
-Microsoft said it would invest 4 billion euros in France in its cloud and AI infrastructure, expanding its centres in Paris and Marseilles and adding a new data centre in the eastern city of Mulhouse.
-
-...
-
-[Data](articles/ea23c95b.json)
-
-[Extended Data](ext_articles/ea23c95b.ext.json)
-
----
-
-### ComBank ranked ‘Most Loved’ bank brand in Sri Lanka for 2024
-
-*2024-05-13 22:30:00* · [`islandlk`](http://island.lk/combank-ranked-most-loved-bank-brand-in-sri-lanka-for-2024/) · `en`
-
-The Commercial Bank of Ceylon has been voted Sri Lanka’s ‘Most Loved’ Bank brand and the second ‘Most Loved’ brand in the country overall in the ‘Service’ sector in 2024 by the leading business magazine LMD.
-
-These titles are based on the findings of an online survey by LMD’s research partner PepperCube Consultants.
-
-Readers of LMD from the Western, Southern, Central, North-western and Northern provinces participated in the survey and the Most Loved Brands have been ranked under 34 categories.
-
-Commenting on this valuable public endorsement, Commercial Bank Deputy General Manager Retail Banking and Marketing Mr Hasrath Munasinghe said: “An accolade of this nature, which is based on popular sentiment, must be accepted with humility and gratitude. Everything we do is intended to exceed customer expectations and fulfill our obligations to all stakeholder groups. This ranking is a great source of encouragement and an affirmation for every Commercial Bank employee that we are doing things right.”
-
-...
-
-[Data](articles/e4285246.json)
-
-[Extended Data](ext_articles/e4285246.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 11:18:36**
+As of **2024-05-14 11:34:57**
 
 ## Newspaper Stats
 
-*Scraped **23,887** Articles*
+*Scraped **23,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,80 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
-adalk | 2,033
-adaderanalk | 2,782
+adalk | 2,034
+adaderanalk | 2,783
 tamilmirrorlk | 2,798
 virakesarilk | 3,567
 dailymirrorlk | 3,759
-adaderanasinhalalk | 3,829
+adaderanasinhalalk | 3,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,885 (100.0%) of 23,887 articles have been extended.
+23,887 (100.0%) of 23,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### සුවසැරිය නැවතත් අර්බුදයක - සජිත්ගෙන් හෙළිදරව්වක්
+### US assures support to implement anti-corruption legislation and macro-economic reforms
+
+*2024-05-14 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99204/us-assures-support-to-implement-anti-corruption-legislation-and-macro-economic-reforms) · `en`
+
+Foreign Secretary Aruni Wijewardane has met with U.S. Assistant Secretary for South and Central Asian Affairs Donald Lu and discussed avenues to further consolidate Sri Lanka – U.S. bilateral relations.
+
+During the meeting held on Monday (13) at the Ministry of Foreign Affairs, Foreign Secretary Wijewardane apprised Assistant Secretary Lu of the recent developments in the economic front, as well as the export oriented, open market growth enhancement strategies and initiatives taken by Sri Lanka.
+
+Issuing a statement in this regard, the Ministry of Foreign Affairs said that she elaborated on the measures taken by the Government to improve governance, rule of law, financial oversight as well as to combat corruption, and foster reconciliation.
+
+Foreign Secretary Wijewardane also discussed the robust security cooperation between the two nations, including in the maritime sphere to effectively handle maritime safety and security as well as safeguard maritime trade.
+
+...
+
+[Data](articles/92f407d5.json)
+
+---
+
+### අහුංගල්ලේ වෙඩිතැබීමට අනුබල දුන් අයෙක් අත්අඩංගුවට
+
+*2024-05-14 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196608) · `si`
+
+අහුංගල්ල ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල ලබාදුන් පුද්ගලයෙකු කොස්ගොඩ ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+විශේෂ කාර්ය බළකායේ දකුණු පළාත් විශේෂ මෙහෙයුම් ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් සැකකරු කොස්ගොඩ, දූවමෝදර ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+සැකකරු පසුගිය 08 වන දින අහුංගල්ල ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමට අදාළ වෙඩික්කරු හට ආධාර අනුබල දුන් *ආදරේ* යන අනුවර්ථ නාමයෙන් හඳුන්වන පුද්ගලයකු බව සඳහන්ය.
+
+ඔහු සතුව තිබී හෙරොයින් මිලි ග්‍රෑම් 1,150ක් සහ ජංගම දුරකථනයක් පොලිස් විශේෂ කාර්ය බළකාය භාරයට ගෙන තිබේ.
+
+සැකකරු වැඩිදුර විමර්ශන කටයුතු සඳහා කොස්ගොඩ පොලිසීය වෙත ඉදිරිපත් කර ඇති බව පොලිස් විශේෂ කාර්ය බළකාය පැවසුවේය.
+
+◼️
+
+[Data](articles/195f7641.json)
+
+---
+
+### Sajith's revelation again in crisis
 
 *2024-05-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196607) · `si`
 
-1990 හදිසි ඇමතුම් අංකය ඔස්සේ මෙරට ක්‍රියාත්මක සුවසැරිය ගිලන්රථ සේවාවේ ගිලන් රථ 322න් 56ක් භාවිතයට ගැනීමට නොහැකි තත්ත්වයට පත්ව ඇති බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Opposition Leader Sajith Premadasa criticized the government for the poor state of the country's ambulance service, highlighting that 56 out of 322 ambulances are non-operational due to a lack of essential medicines and trained drivers. He urged immediate attention and support for the ambulance service to prevent further deterioration.
 
-අද (14) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් විපක්ෂ නායකවරයා රජයෙන් ඉල්ලා සිටියේ, සුවසැරිය වැඩසටහන කඩා වැටෙන්නට නොදී රැක ගන්නා ලෙසය.
+🟩
 
-"මේ මොහාත වනවිට සුවසැරිය ගිලන්රථ සේවාවේ ගිලන්රථ 322න් 56ක් අවුට් ඔෆ් සර්විස්. ඒ වගේම විශාල ප්‍රමාණයක් ඉමජන්සි මෙඩිකල් ටෙක්නීෂින්ලා ඒ වගේම රියදුරන් රට අතහැර ගිහිල්ලා තියෙනවා. ඒ වගේම ඇත්ත වශයෙන් ඒ අය පුහුණු කරන්නට කාලයක් ගත වෙනවා. ඒ කටයුත්ත ක්‍රියාත්මක කරන්නට අද පුද්ගලයින් නැහැ. ඒ වගේම ඉමර්ජන්සි මෙඩිකල් ටෙක්නිෂියන්ලා තෝරා ගෙන ඉන්න අයගේ බොහොම සුළු ප්‍රමාණයක් තමයි කැමත්ත පළ කරලා තියෙන්නේ මේකට බැඳෙන්න. ඒ වගේම මේ ගිලන්රථ රෙපෙයාර් කිරීමේදීත් ඒ අඩුපාඩුකම් සොයා බැලීමේදීත් ඇත්ත වශයෙන්ම ඒවට ප්‍රමාණවත් රාජ්‍ය අවධානය, රාජ්‍ය අනුග්‍රාහය ලැබිලා නැහැ. ඒ නිසා විශේෂයෙන් මේ සුවසැරිය වැඩසටහන කඩා වැටෙන්නට නොදී මෙය නඩත්තු කරන්නට, මේක රැක ගන්න රජයට මැදිහත් වෙන්න කියලා මම ඉල්ලා සිටිනවා."
+Opposition Leader Sajith Premadasa says that 56 out of 322 ambulances in the country are unable to use 56 out of 322 ambulances in the country.
+
+The Opposition Leader urged the government today (14) in parliament today.
+
+"By this time, 56 out of the 322 ambulances of the health of the health. And a large quantity of emnish medicine tequensin and the drivers left the country. And, of course, it takes time to train. There are no people today to carry out that purpose. Also, most of those who chose the Imrjansi Medical Technisianis were the one who committed the likes to join this. Also, it has not been adequate public attention, state patronage, and the state-sponsorship in researching these ambulances and the shortcomings. Therefore, I urge you to maintain this to maintain this to maintain this, especially if this welcome program is collapsed. "
 
 ◼️
 
 [Data](articles/480af8a3.json)
+
+[Extended Data](ext_articles/480af8a3.ext.json)
 
 ---
 
@@ -63,6 +107,8 @@ During the meeting with representatives from the NPP, the discussion focused on 
 ...
 
 [Data](articles/982879a3.json)
+
+[Extended Data](ext_articles/982879a3.ext.json)
 
 ---
 
@@ -2103,55 +2149,5 @@ Sri Lanka's 20 team leader Mondu Amunda has been received by the Sri Lanka Crick
 [Data](articles/6d8b58a0.json)
 
 [Extended Data](ext_articles/6d8b58a0.ext.json)
-
----
-
-### Donald Lu congratulated the president
-
-*2024-05-13 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183449) · `ta`
-
-Donald Lu, US State Department's Assistant Secretary for South and Central Asian Affairs, met President Ranil Wickremesinghe to discuss restoring Sri Lanka's economy.
-
-🟩
-
-Donald Lu, Assistant Secretary of State for the US State Department's South and Central Asian Affairs Bureau, met with President Ranil Wickremesinghe.
-
-Donald Lu (Donald Lu), Assistant Secretary of State for the US State Department's South and Central Asian Affairs Bureau, met with President Ranil Wickremesinghe at the Presidential Office at the Presidential Office on Monday (13) to restore the Sri Lankan economy.
-
-◼️
-
-[Data](articles/9f749a27.json)
-
-[Extended Data](ext_articles/9f749a27.ext.json)
-
----
-
-### Government decision on Sri Lankans joined Russia-Ukrainian mercenaries
-
-*2024-05-13 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196591) · `si`
-
-Sri Lanka's Defense Minister, Pipain Bandara Tennakoon, addressed the issue of Sri Lankans joining Russian-Ukrainian mercenaries, stating that some have resorted to such actions due to hardship. The State Minister also mentioned a parliamentary interrogation response from the opposition. Reports indicate that some Sri Lankans, including military personnel, have been involved with Russian forces before the Ukraine war. A case highlighted a Sri Lankan who left for a Russian company, then joined the mercenaries after obtaining Russian citizenship. Another Sri Lankan was hospitalized while serving in the Russian military.
-
-🟩
-
-Defense Minister Pipain Bandara Tennakoon says that Sri Lankans who have suffered joining the racketeers to resort to Russian - Ukrainian merchants.
-
-The State Minister said that the opposition responded to the interrogation in parliament today.
-
-Meanwhile, information about other Sri Lankans in the Russian rented forces is recorded in Derana.
-
-It is also reported that Sri Lankans in the Sri Lankan military personnel not only joined the job in Russia before the start of the Russian Ukraine's war.
-
-The 22, a resident of the Udadeniya Udaadeniya, Udadeniya, was left to Russia for a private company in Russia and later joined the mercenaries.
-
-Two months ago, he left his workplace and joined the Russian military service according to a positive positive in Russian citizenship.
-
-It is another Sri Lankan hospitalized while serving in the Russian Reeling Army, while serving in the Russian Reel.
-
-◼️
-
-[Data](articles/bc4709bc.json)
-
-[Extended Data](ext_articles/bc4709bc.ext.json)
 
 ---

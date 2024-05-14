@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 21:04:05**
+As of **2024-05-14 21:18:27**
 
 ## Newspaper Stats
 
-*Scraped **24,036** Articles*
+*Scraped **24,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 245
 dbsjeyarajcom | 247
 newsfirstlk | 363
 islandlk | 1,298
-economynextcom | 1,375
+economynextcom | 1,377
 dailyftlk | 1,390
-adalk | 2,053
+adalk | 2,054
 adaderanalk | 2,795
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,034 (100.0%) of 24,036 articles have been extended.
+24,036 (100.0%) of 24,039 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ People walking along the streets of Colombo on May 14, 2024 with umbrellas as he
 ◼️
 
 [Data](articles/032865f8.json)
+
+[Extended Data](ext_articles/032865f8.ext.json)
 
 ---
 
@@ -59,6 +61,8 @@ In 2008, the previous owners, The Finesse Collection, purchased the property and
 ...
 
 [Data](articles/8cd75b66.json)
+
+[Extended Data](ext_articles/8cd75b66.ext.json)
 
 ---
 
@@ -197,6 +201,22 @@ The Chairman, MP Dr. Harsha de Silva said that the Committee on the Monetary Com
 [Data](articles/6d11b85b.json)
 
 [Extended Data](ext_articles/6d11b85b.ext.json)
+
+---
+
+### වීසා ගැටලුව ගැන සාකච්ඡාවට අමාත්‍යාංශයත් ආගමන විගමන දෙපාර්තමේන්තුවත් නෑ
+
+*2024-05-14 19:20:44* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ගැටලුව-ගැන-සාකච්ඡාවට-අමාත්‍යාංශයත්-ආගමන-විගමන-දෙපාර්තමේන්තුවත්-නෑ/11-409633) · `si`
+
+මෙරටට පැමිණෙන විදේශිකයන් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සමබන්ධයෙන් වූ සාකච්ඡාව සඳහා පෙර දැනුම්දී තිබියදී මහජන ආරක්ෂක අමාත්‍යාංශයේ සහ ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් නොපැමිණීම සම්බන්ධයෙන් රජයේ මුදල් කාරක සභාවේ දැඩි අප්‍රසාදය පළ කළේය.
+
+මෙහිදී කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ මින් පෙර මෙම කමිටුව රැස්වූ අවස්ථාවේ මෙම අමාත්‍යාංශයේ සහ ‍මෙම දෙපාර්තමේන්තුවේ නිලධාරීන් අද දින කමිටුවට පැමිණීමට එකඟතාවය සඳහන් කළද හදිසියේම ඊයේ සවස දැනුම්දීමක් කරමින් අද දින කමිටුවට නොපැමිණීම මෙම කරකසභාවට ගරු නොකිරීමක් ලෙස දකින බවයි.
+
+විශේෂයෙන්ම කාර්යාල වේලාවෙන් පසුව මෙම දැනුම්දීම සිදුව ඇති බවත් මෙහිදී නිදහසට දක්වා ඇති කරුණ අනුමත කළ නොහැකි බවත් හෙතෙම වැඩි දුරටත් පෙන්වා දුන්නේය. මේ නිසා මෙම අමාත්‍යාංශය සහ දෙපාර්තමේන්තුව නැවත දිනක කාරක සභාවට කැඳවා ශ්‍රී ලංකාවට පැමිණෙන විදේශිකයන් සඳහා වීසා අයදුම්පත් ඔන්ලයින් ක්‍රමයට ඉදිරිපත් කිරීමේ බලයලත් නියෝජිතයා ලෙස GBS-IVS සහ VFS Global සමාගම් පත් කිරීම සම්බන්ධයෙන් සාකච්ඡා කිරීමට තීරණය කෙරුණි.
+
+...
+
+[Data](articles/e237b622.json)
 
 ---
 
@@ -486,6 +506,26 @@ A tense situation emerged as police attempted to arrest the suspects. A female s
 
 ---
 
+### New twist in VFS Global visa deal, officials dodge COPF summons
+
+*2024-05-14 18:25:00* · [`economynextcom`](https://economynext.com/new-twist-in-vfs-global-visa-deal-officials-dodge-copf-summons-163028/) · `en`
+
+ECONOMYNEXT – In a new twist to the controversial VFS Global visa deal which has shaken the country’s tourism sector, immigration and security ministry officials have dodged summons by the Committee of Public Finance, Sri Lanka’s parliament said.
+
+The COPF expressed deep displeasure after officials of the Department of Immigration and Emigration and the Ministry of Public Security failed to turn up at a meeting, the statement said.
+
+After agreeing to be present meeting last week, suddenly informing last evening that they will not turn up for the meeting was disrespecting the parliamentary committee, COPF Chief Harsha de Silva had said.
+
+De Silva today made a statement in parliament. Officials had said they cannot come because some files are missing from a move in 2016.
+
+“This is violation of the privileges of the parliament,” de Silva said. “This is unacceptable. Sometimes people get sick and cannot come. But not a single person came.
+
+...
+
+[Data](articles/90db8f63.json)
+
+---
+
 ### Two youth arrested for abducting and abusing a 15 -year -old girl in Modu Wellaveli
 
 *2024-05-14 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183551) · `ta`
@@ -603,6 +643,32 @@ This will eventually have a strong influence on India's regional integrity, ”t
 [Data](articles/1739c817.json)
 
 [Extended Data](ext_articles/1739c817.ext.json)
+
+---
+
+### Sri Lanka to present Economic Transformation Bill
+
+*2024-05-14 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-economic-transformation-bill-163015/) · `en`
+
+ECONOMYNEXT – A proposed Economic Transformation bill will be gazetted shortly, cabinet spokesman Minister Bandula Gunawardena said.
+
+“The Legal Draftsmen has prepared the formal draft bill, including the revisions suggested by the Attorney General, which will be published in the government gazette notification.”
+
+It will subsequently be presented to the Parliament for its concurrence.
+
+The bill will establish an economic commission, investment zones and international trade office, Gunawardena said earlier.
+
+“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena has said.
+
+The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/May14/2024)
+
+Sri Lanka making new economic laws to embed structural reforms
+
+Sri Lanka economic transformation bill to establish commission, investment zones
+
+◼️
+
+[Data](articles/e7851dd1.json)
 
 ---
 
@@ -2289,75 +2355,5 @@ A number of school children had minor injuries due to the gutting and a severely
 [Data](articles/e4b1678c.json)
 
 [Extended Data](ext_articles/e4b1678c.ext.json)
-
----
-
-### Young Journalists Association's Human Rights Commission letter to the Human Rights Commission on the issue of women being attacked by women in Sampur in Trincomalee
-
-*2024-05-14 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183501) · `ta`
-
-The Sri Lanka Youth Journalists Association has urged the Human Rights Commission to probe police actions against women in Sampur, Trincomalee, who produced the Mullivaikkal Kanji. The association, in a letter to the commission, seeks an investigation into police conduct, alleging violations of fundamental rights. It also requests disciplinary action against involved officers and calls for action against torture laws.
-
-🟩
-
-The Sri Lanka Youth Journalists Association has appealed to the Sri Lanka Human Rights Commission to investigate the manner in which the Sri Lankan police acted against the women who produced the Mullivaikkal Kanji in Sampur in Trincomalee.
-
-In a letter to the Chairman of the Sri Lanka Human Rights Commission, Jayawardena made this request.
-
-Investigations on the Sampur issue - under several sections of the Sri Lankan Constitution to investigate the activities of the Sri Lankan police;Jayawardena has appealed to us to take action
-
-He also appealed to the Sri Lanka Human Rights Commission to judge that the Sri Lankan police were acting in violation of the fundamental rights confirmed by the Sri Lankan constitution.
-
-In his letter, he appealed to the Human Rights Commission to recommend disciplinary action against the police officers who assisted the Human Rights and the National Police Commission.
-
-...
-
-[Data](articles/310c0cf2.json)
-
-[Extended Data](ext_articles/310c0cf2.ext.json)
-
----
-
-### A/L classes to begin immediately after O/L exams
-
-*2024-05-14 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99209/al-classes-to-begin-immediately-after-ol-exams) · `en`
-
-The Cabinet of Ministers has granted approval for the proposal to commence G.C.E. Advanced Level classes immediately after the conclusion of the ongoing G.C.E. Ordinary Level examination.
-
-As it takes at least 03 months for the Department of Examinations to release the results after the completion of the G.C.E. O/L examination, students drop out of schools during this period, they are less inclined to continue studies and this leads to the creation of various social problems.
-
-Accordingly, it has been recognized that it is appropriate to start higher education activities in schools immediately after the completion of G.C.E. O/L examinations, the Department of Government Information (DGI) said in a release.
-
-Thus, the Cabinet of Ministers has approved the proposal table by Minister of Education Susil Premajayantha to commence G.C.E. Advanced Level classes immediately after the completion of G.C.E. Ordinary Level examination, which is currently underway.
-
-◼️
-
-[Data](articles/b1cd810f.json)
-
-[Extended Data](ext_articles/b1cd810f.ext.json)
-
----
-
-### Ex-forces personnel being hired as estate managers a problem: Sri Lanka Minister
-
-*2024-05-14 13:09:00* · [`economynextcom`](https://economynext.com/ex-forces-personnel-being-hired-as-estate-managers-a-problem-sri-lanka-minister-162908/) · `en`
-
-ECONOMYNEXT – Hiring retired armed forces personnel by some private estate owners has led to violent actions against workers, Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has said after an incident in Ratnapura involving violent action against workers.
-
-“What they do is for private estates, they will get a retired person from the army or the Police,” Thondaman told reporters on Monday.
-
-“Back in the day it was only planters running the show, so planters knew you have to look after the workers to get good productivity. Unfortunately, that is not the case anymore.”
-
-This follows an incident where violence was perpetrated against estate workers at an privately-owned estate in the Ratnapura District recently.
-
-In footage shared on social media, two people were seen dragging an estate worker to the ground.
-
-“I did speak to the IGP this morning and the IGP gave me an assurance that this is not acceptable. We are immediately going to take action,” Thondaman said.
-
-...
-
-[Data](articles/8f547b61.json)
-
-[Extended Data](ext_articles/8f547b61.ext.json)
 
 ---

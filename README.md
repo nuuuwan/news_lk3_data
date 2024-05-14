@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 03:03:39**
+As of **2024-05-15 03:18:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,064 (100.0%) of 24,065 articles have been extended.
+24,065 (100.0%) of 24,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### தமிழர்களுக்கு இலங்கை என்ன செய்தது: சுமந்திரன் கேள்வி
+### What did Sri Lanka do for Tamils: Sumanthiran question
 
 *2024-05-15 00:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-இலங்கை-என்ன-செய்தது-சுமந்திரன்-கேள்வி/175-337312) · `ta`
 
-பலஸ்தீனத்தில் நடக்கும் இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நடந்தது, ஆனால் பலஸ்தீனத்திற்காக குரல் கொடுக்கும் இலங்கை, தமிழர்களுக்கு என்ன செய்தது? இதுதான் இலங்கையின் நயவஞ்சக தன்மை மற்றும் இரட்டை வேடம் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் குற்றஞ்சாட்டினார்.
+Sri Lanka's handling of Tamil issues contrasts sharply with its stance on Palestine. TNA MP MA Sumanthiran criticized Sri Lanka for its "hypocrisy" and "dual role," highlighting the disparity between condemning international crimes like those in Palestine while dismissing similar atrocities against Tamils as internal affairs. He referenced the Mullivaikkal massacre, where hundreds of thousands were trapped without food, contrasting it with the international outcry over Palestine. Sumanthiran questioned whether Sri Lanka's selective concern for international law applies equally to its own citizens, calling for an independent inquiry into the treatment of Tamils.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18)  நடைபெற்ற பலஸ்தீனத்தில் இன்றைய நிலவரம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-பாலஸ்தீனத்தின் இன்றைய நிலைமை மிகவும் பாரதூரமானது. இந்த நிலைமையை யாரும் சாதாரணமாக கருதக் கூடாது. இந்நிலையில் இந்த பாராளுமன்றத்தில் இருதலைப்பட்சமாக நடந்துகொள்பவர்களும் இருக்கின்றனர். அவர்களின் செயற்பாடு நயவஞ்சகமானது என்றார்.
+The genocide in Palestine took place for Tamils in Sri Lanka, but what did Sri Lanka do to the Tamils, who voice their voice for Palestine?Tamil National Alliance (TNA) parliamentarian MA Sumanthiran alleged that this is the hypocrisy and dual role of Sri Lanka.
 
-மனித உரிமைகள், சர்வதேச மனித உரிமை சட்டங்கள், இனப்படுகொலை உள்ளிட்ட சர்வதேச குற்றங்கள் தொடர்பில் அவர்கள் பேசுகின்றனர். ஒரு நாட்டுக்குள் இடம்பெற்ற பயங்கரவாத நடவடிக்கைகள் தொடர்பில் குறிப்பிட்டு பலஸ்தீன நிலைமை குறித்து பேசுகின்றனர்.
+He said this while addressing the debate on the postponement of today's situation in Palestine held in Parliament on Tuesday (18).
+
+Today's situation of Palestine is very serious. This situation should not be considered normal. In this case, there are also those who behave in this Parliament. He said their action was insidious.
+
+They are talking about international crimes, including human rights, international human rights laws, and genocide. They are talking about the Palestinian situation, referring to the terrorist activities that have taken place within a country.
 
 ...
 
 [Data](articles/24dfd5d7.json)
+
+[Extended Data](ext_articles/24dfd5d7.ext.json)
 
 ---
 

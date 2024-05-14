@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 20:03:47**
+As of **2024-05-14 20:18:28**
 
 ## Newspaper Stats
 
-*Scraped **24,025** Articles*
+*Scraped **24,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,375
 dailyftlk | 1,390
-adalk | 2,052
+adalk | 2,053
 adaderanalk | 2,795
 tamilmirrorlk | 2,813
 virakesarilk | 3,604
@@ -26,47 +26,59 @@ adaderanasinhalalk | 3,846
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,022 (100.0%) of 24,025 articles have been extended.
+24,025 (100.0%) of 24,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### මුදල් කාරක සභාවේ අප්‍රසාදය
+### Displeasure in the Finance Committee
 
 *2024-05-14 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196625) · `si`
 
-මෙරටට පැමිණෙන විදේශිකයින් සදහා ඔන්ලයින් වීසා නිකුත් කිරිම සම්බන්ධයෙන් වු සාකච්ඡාවට මහජන ආරක්ෂක අමාත්‍යාංශයේ සහ ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිළධාරීන් නොපැමිණීම සම්බන්ධයෙන් මුදල් කාරක සභාවේ දැඩි අප්‍රසාදය පළවතිබේ.
+The Cash Committee of the Department of Finance and Emigration expressed displeasure, citing the Department of Immigration and Emigration's inability to attend a meeting under MP Dr. Harsha de Silva's patronage. The committee, chaired by Dr. Harsha de Silva, criticized the lack of respect shown by the absence.
 
-රජයේ මුදල් පිළිබද කාරක සභාව අද එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා ප්‍රධානත්වයෙන් අද පාර්ලිමේන්තුවේ දී රැස්වුණි.
+🟩
 
-මීට පෙර මෙම කමිටුව රැස්වූ අවස්ථාවේ දී මෙම අමාත්‍යාංශය සහ දෙපාර්තමේන්තුවේ නිළධාරීන් අද දින කමිටුවට පැමිණීමට එකඟතාවක් පළකර ඇති බව සදහන් වෙයි.
+The Cash Committee of the Department of Cashion The Department of Cashion The Cashier Business of the Department of Finance and Emigration has the first displeasure of the Department of Immigration and Emigration.
 
-කෙසේවෙතත් ඊයේ සවස දැනුම්දීමක් සිදුකරමින් කමිටුව හමුවට පැමිණීමට නොහැකි බව මහජන ආරක්ෂක අමාත්‍යංශය සහ ආගමන හා විගමන දෙපාර්තමේන්තුව පවසා තිබේ.
+The Committee on Currency Dr. Harsha de Silva met today under the patronage of MP Dr. Harsha de Silva today.
 
-අද පැවැති මුදල් කාරක සභාවට නොපැමිණීම මෙම කාරක සභාවට ගරු නොකිරිමක් ලෙස සලකන බවද එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා ප්‍රකාශ කළේය.
+It is said that when the committee met before, the ministry and the officers of the department have agreed to visit the Committee today.
+
+However, the Department of Immigration and Emigration has said that he cannot attend the committee by carrying out yesterday evening.
+
+The Chairman, MP Dr. Harsha de Silva said that the Committee on the Monetary Committee today, the Committee Dr. Harsha de Silva said that the Committee is not respectful.
 
 ◼️
 
 [Data](articles/6d11b85b.json)
 
+[Extended Data](ext_articles/6d11b85b.ext.json)
+
 ---
 
-### පැරණි වැවිලි කර්මාන්තය වෙනුවට නව කෘෂි ව්‍යාපාරයක්
+### New agricultural movement instead of old plantation industry
 
 *2024-05-14 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196624) · `si`
 
+President Ranil Wickremesinghe emphasizes the shift from the traditional plantation industry to a new agricultural sector to boost the country's economy. He highlights the introduction of new technical management in the plantation sector and the importance of developing traditional crops like cocoa and cinnamon. The goal is to modernize agriculture, increase production, and create an export economy, addressing poverty and preparing for a growing population.
+
+🟩
+
 පැරණි වැවිලි කර්මාන්තය වෙනුවට නව කෘෂි ව්‍යාපාරයක් රටතුළ ඇති කරමින් රට ආර්ථික වශයෙන් ඉදිරියට ගෙන යාමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
 
-එහිදී අදාළ ආයතන අතර පවතින බාධක නව නීතියකින් ඉවත් කරන බවද පැවසු ජනාධිපතිවරයා නව තාක්ෂණික කළමණාකරණය වැවිලි ක්ෂේත්‍රයට හඳුන්වාදීමට කටයුතු කරන බවද සඳහන් කළේය.
+The President said that the new technical management is being introduced to the plantation sector.
 
-අතුරුගිරිය ජාතික වැවිලි කළමණාකරන ආයතනයේ නව අධ්‍යයන හා පරිපාලන ගොඩනැගීල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව කියා සිටියේය.
+President Ranil Wickremesinghe was speaking at the opening ceremony of the new studies and administrative building at the National Plantation Management Board of Athurgiriya.
 
-වැවිලි කර්මාන්තය සඳහා පුහුණු ආයතනයක අවශ්‍යතාව තිබුණෙ 1978 වසරේ සිටයි. එදා එම්.ඩී.එච්. ජයවර්ධන මහතාගේ ආසනය වන මේ ප්‍රදේශයේ මෙවැනි පුහුණු ආයතනයක් ඇති කිරීමට අවශ්‍ය ඉඩම ලබා දුන්නා. එදා මේ ප්‍රදේශය මේ තරම් නාගරික කරණය වී තිබුණේ නැහැ. මෙම ආයතනය ස්ථාපිත කිරීම සඳහා 2016 වසරේ වැවිලි කර්මාන්ත අමාත්‍යවරයා ලෙස නවීන් දිසානායක මහතා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කර ඉදිකිරීම් ආරම්භ කළා. ඉන්පසුව පත් වූ වැවිලි කර්මාන්ත අමාත්‍යවරුන් මෙම වැඩපිළිවෙළ ඉදිරියට ගෙන ආවා.
+Since 1978, a training body for the plantation industry was held in 1978. MDH. The land required to create such a training institute in this area of Jayawardene. This area was not so urban then. Naveen Dissanayake, Minister of Plantation Industries, was appointed as the Minister of Plantation Industries in 2016 to establish this institution.. ඉන්පසුව පත් වූ වැවිලි කර්මාන්ත අමාත්‍යවරුන් මෙම වැඩපිළිවෙළ ඉදිරියට ගෙන ආවා.
 
 ...
 
 [Data](articles/e0199b7b.json)
+
+[Extended Data](ext_articles/e0199b7b.ext.json)
 
 ---
 
@@ -90,25 +102,47 @@ Accordingly, the National Building Research Institute has issued a warning to ma
 
 ---
 
-### කොවිඩ්වලින් බේරෙන්න ගත් එන්නත ගැන සෞඛ්‍ය අංශ වෙතින් දැනුම්දීමක්
+### Health Sector Notifies the Vaccine Revisible from the Cowid
 
 *2024-05-14 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196623) · `si`
 
-කොවිඩ් වසංගතය පාලනය සඳහා ඇස්ට්‍රාසෙනෙකා සමාගම හඳුන්වාදුන් එන්නතින් අතුරු ආබාධ ඇතිවන බවට බ්‍රිතාන්‍ය මහාධිකරණයක් ඉදිරියේ එම සමාගම පිළිගත් පසුබිමක එන්නත සම්බන්ධයෙන් සැකසංකා මතුව පවතියි.
+The Health Sector has recommended the re-evaluation of the Covid vaccine, addressing concerns raised by the Divisional Secretariat. Dr. Ananda Wijewickrama, Chairman of the National Drug Regulatory Authority, assures Sri Lankans that the Covishield vaccine is safe and effective. The vaccine, developed by the University of Oxford, has the potential to save over 6 million lives in its first year. However, there have been rare side effects reported, including blood clotting issues, leading to its temporary suspension in some countries. The Sri Lankan Epidemiology Unit has administered the first dose to 1,479,631 people, with the second dose underway. The Government Medical Officers Association reassures that the vaccine is safe for Sri Lankans.
 
-කෙසේවෙතත් ජාතික ඖෂධ නියාමන අධිකාරියේ සභාපති වෛද්‍ය ආනන්ද විජේවික්‍රම මහතා පවසන්නේ ඇස්ට්‍රාසෙනෙකා - කොවිෂීල්ඩ් එන්නත සම්බන්ධයෙන් මෙරට ජනතාව කිසිදු අනියත බියක් ඇතිකර ගත යුතු නොවන බවය.
+🟩
 
-කොවිඩ් වසංගතය පාලනය සඳහා නිපදවූ එන්නත් මගින් එය මැඩපැවැත්වීමට ලබාදුන්නේ විශාල සහායකි.
+The company has an opinion in front of the vaccine in a reputable environment for the interrogation of the Divisional Secretariat for the administration of the Covid Epidemic.
 
-රටවල් වැසී දෛනික කටයුතු අඩපණව පැවති වාතාවරණයක කොවිඩ් පාලනයට එන්නතක් හඳුන්වාදීමට ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ විද්‍යාඥයින් සමත්වූයේ 2020 වසරේ අග භාගයේදීය.
+However, Chairman of the National Drug Regulatory Authority Dr. Ananda Wijewickrama says that the people of Sri Lanka should not be able to fear the Covery - Cowishield Vaccine.
 
-එන්නත නිපදවා පළමු වසර ඇතුළතදී එන්නත් මාත්‍රා බිලියන 3ක් ඇස්ට්‍රාසෙනෙකා සමාගම ලොවපුරා බෙදා ඇති අතර එමගින් මිලියන 6කට වැඩි ජීවිත සංඛ්‍යාවක් බේරාගැනීමට හැකිවූ බව එම සමාගම සඳහන් කළේය.
+The injection made for control of the covard epidemic is a great support for the control of it.
 
-පසුව තවත් කොවිඩ් එන්නත් කිහිපයක්ම ලොව හඳුන්වා දෙනු ලැබූ පසුබිමක අමෙරිකාව මෙම ඇස්ට්‍රාසෙනෙකා එන්නත ට අනුමැතිය නොදුන්නේ රුධිර කැටිගැසීම සඳහා එය හේතුවී ඇතැයි ලැබුණු සැකසහිත තොරතුරු මතය.
+The scientists of the University of Oxford were able to enable the construction of the countries to covered the daily activities of countries.
+
+According to Estnnaka, 3 billion of the dose of the vaccine in the first year, and it was able to rescue more than 6 million lives.
+
+In the context of another covard vaccines, the US did not approval of the process of sustaining blood to clot the blood.
+
+However, the company recently decided to remove the vaccine distribution three years after the use of Aetnaka Vaccine.
 
 ...
 
 [Data](articles/fe1a4c7f.json)
+
+[Extended Data](ext_articles/fe1a4c7f.ext.json)
+
+---
+
+### මුජිබර් පාර්ලිමේන්තුයට යළි ඒම නීති ගැටළුවක්?
+
+*2024-05-14 19:04:38* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්-පාර්ලිමේන්තුයට-යළි-ඒම-නීති-ගැටළුවක්-/11-409632) · `si`
+
+කොළඹ නගරාධිපති අපේක්ෂක මුජිබර් රහුමාන් මහතා පාර්ලිමේන්තු මන්ත්‍රීධුරයේ දිවුරුම්දීම නිසා ඇති වී ඇති නෛතික ගැටලුව විසඳීම සදහා නීතිපතිවරයා හමුවී නීති උපදෙස් ලබාගත යුතු බවට, පළාත් සභා හා පළාත් පාලන රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පෙන්වා දීමත් සමග, ඒ සඳහා වහා ක්‍රියා කරන ලෙස, අග්‍රාමාත්‍ය සහ රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන  අමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා රාජ්‍ය පරිපාලන අමාත්‍යාංශ නිලධාරීන්ට ඊයේ (13) උපදෙස් ලබා දුන්නේය.
+
+අග්‍රාමාත්‍ය සහ රාජ්‍ය පරිපාලන අමාත්‍ය ගරු දිනේෂ් ගුණවර්ධන, පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ගරු ජානක වක්කුඹුර සහ ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය ගරු අශෝක ප්‍රියන්ත යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් ඊයේ (13) පාර්ලිමේන්තුවේදී පැවති රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේදී මෙම දැනුම්දීම සිදුකෙරිණි.
+
+...
+
+[Data](articles/d8380a4a.json)
 
 ---
 
@@ -2285,29 +2319,5 @@ Police investigations have revealed that the girl was targeted for an electrical
 [Data](articles/94ae1417.json)
 
 [Extended Data](ext_articles/94ae1417.ext.json)
-
----
-
-### Four cattle killed
-
-*2024-05-14 12:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்னல்-தாக்கி-நான்கு-கால்நடைகள்-பலி/76-337289) · `ta`
-
-In Gampola, lightning strikes killed three cows and a bull in the Kalamuduna, Meenakolla plantation area. Residents attribute the deaths to the cows' three-legged condition, suggesting a predisposition to lightning strikes. Investigations by the CD police are ongoing.
-
-🟩
-
-In the Gampola, Kalamuduna, Meenakolla plantation area on Monday (13) after the lightning strikes in the area, three -legged cows and a bull were killed in the area.
-
-Sathivel Chandrakumar, who lives in the estate area, has been living with his six family members and has been living with the income from the foot.
-
-As usual, the workers in the area said that when the toothpaste in the livestock plantation area was left in the area, the cows were killed by lightning caused by lightning.
-
-It is noteworthy that further investigations are being carried out by the CD police.
-
-◼️
-
-[Data](articles/8b603eb8.json)
-
-[Extended Data](ext_articles/8b603eb8.ext.json)
 
 ---

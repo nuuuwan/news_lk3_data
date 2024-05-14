@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 16:18:23**
+As of **2024-05-14 16:33:56**
 
 ## Newspaper Stats
 
-*Scraped **23,966** Articles*
+*Scraped **23,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
-adalk | 2,046
+adalk | 2,048
 adaderanalk | 2,792
 tamilmirrorlk | 2,809
 virakesarilk | 3,587
-dailymirrorlk | 3,770
+dailymirrorlk | 3,773
 adaderanasinhalalk | 3,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,963 (100.0%) of 23,966 articles have been extended.
+23,966 (100.0%) of 23,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Iran granted Uma Oya project due to huge recognition for MR: Hakeem
+
+*2024-05-14 16:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-granted-Uma-Oya-project-due-to-huge-recognition-for-MR-Hakeem/108-282581) · `en`
+
+Parliament, May 14 (Daily Mirror)- Claiming that the Uma Oya multipurpose development project was granted to Sri Lanka by the Iranian government because of the huge recognition for former president Mahinda Rajapaksa those days, Parliamentarian Rauf Hakeem said today the current government is looking to take the credit for it.
+
+He told Parliament that the Iranian President came to Sri Lanka on the invitation of the Foreign Minister.
+
+“The Uma Oya project was initiated during former President Mahinda Rajapaksa government. He enjoyed huge recognition by the Iranian government those days. That is why the project was granted to Sri Lanka. You are trying to score now,” he said.
+
+The MP said State Minister of Foreign Affairs Tharaka Balasuriya was bragging recently during a debate in Parliament about the achievement of the President claiming that Sri Lanka got the Iranian President to visit here and Sri Lanka was able to send a naval force to the Red Sea.
+
+...
+
+[Data](articles/f59de5d1.json)
+
+---
+
+### කුසල් මෙන්ඩිස් සහ අසිත ප්‍රනාන්දුට අමරිකාවට වීසා ලැබී නෑ
+
+*2024-05-14 16:04:48* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-මෙන්ඩිස්-සහ-අසිත-ප්‍රනාන්දුට-අමරිකාවට-වීසා-ලැබී-නෑ/11-409629) · `si`
+
+කුසල් මෙන්ඩිස් සහ අසිත ප්‍රනාන්දුට එක්සත් ජනපදයට යාමට මෙතෙක් වීසා බලපත්‍ර ලැබී නොමැති බව වාර්තා වනවා.
+
+කෙසේවෙතත් සංචිතයේ සෙසු ක්‍රීඩකයන් අද උදෑසන ඩුබායි හරහා නිව්යෝර්ක් බලා පිටත්ව ගිය නමුත් වීසා ප්‍රමාදය හේතුවෙන් මෙන්ඩිස් සහ ප්‍රනාන්දුට ඔවුන් හා එක්වීමට නොහැකිවී ඇති බව වාර්තාවනවා.
+
+◼️
+
+[Data](articles/74ae6c99.json)
+
+---
+
+### Lightning strikes four cattle
+
+*2024-05-14 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lightning-strikes-four-cattle/108-282580) · `en`
+
+Three cows and a bull of a dairy farm were killed after being struck by lightning in the Galamuduna Estate during the thundershowers experienced in the Nawalapitiya area.
+
+The owner of the dairy farm said the four heads of cattle that died were valued at around Rs. 800,000.
+
+Residents of the area pointed out that a huge cavity had been caused on the ground by the lighting.
+
+◼️
+
+[Data](articles/de83390e.json)
+
+---
+
+### 2024 ට ලාදුරු රෝගීන් 1500ක්  ලාදුරු ගැන හරි තොරතුරු දැනගන්න
+
+*2024-05-14 15:47:59* · [`adalk`](https://www.ada.lk/breaking_news/2024-ට-ලාදුරු-රෝගීන්-1500ක්--ලාදුරු-ගැන-හරි-තොරතුරු-දැනගන්න/11-409628) · `si`
+
+ලාදුරු රෝගය සම්බන්ධව නිවැරදි තොරතුරු සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ සමාජ ගත කිරිමට ජාතික ලාදුරු මර්දන ව්‍යාපාරය සහ එලායන්ස් ඩිවලෝප්මන්ට් ට්‍රස්ටි (ADT)  ආයතනය එක්ව A2P (ACT2PREVENT CAMPAIGN 2024) නමින් ව්‍යාපෘතියක් දියත් කිරීමේ සමාරම්භක වැඩසටහන අද (14)  සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා පදනම් ආයතනයේ දී පැවැත්විනි.
+
+ඉතා ප්‍රබල මාධ්‍යයක් වන සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ නිවැරදි තොරතුරු ජනගත කිරිම මගින් රෝගය සම්බන්ධ නිවැරදි දත්ත, තොරතුරු සහ දැනුම්වත්භාවය ලබාදීම මෙහි මූලික අරමුණ වන අතර, රෝගය සම්බන්ධව පවතින වැරදි මත නිවැරදි කර ඉතා ඉක්මණින් සැඟවී සිටින රෝගීන් ප්‍රතිකාර සදහා යොමු කිරිමට අපේක්ෂා කරන අතර ම රෝගීන් සමාජයෙන් කොන් කිරීම අවම කිරිම තුලින් ඔවුන්ට යහපත් මානසික වටපිටාවක් නිර්මාණය කිරීම ද තවත් ඉළක්කයකි.
+
+...
+
+[Data](articles/c7f6706c.json)
+
+---
 
 ### Decision taken about lands given to war heroes
 
@@ -51,6 +113,28 @@ The decision has been taken with the observation that the relief of war heroes i
 [Data](articles/585e233b.json)
 
 [Extended Data](ext_articles/585e233b.ext.json)
+
+---
+
+### Fourteen killed and dozens injured after Mumbai billboard collapse
+
+*2024-05-14 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Fourteen-killed-and-dozens-injured-after-Mumbai-billboard-collapse/107-282579) · `en`
+
+India, May 1 (BBC) - At least 14 people have been killed and dozens more injured after a giant billboard collapsed during a sudden storm in the Indian city of Mumbai.
+
+The billboard, measuring 70m by 50m according to the police, fell onto houses and a petrol station in the city on Monday.
+
+Emergency services say a few people are still trapped under it and a rescue operation is under way.
+
+The government of Maharashtra state, where Mumbai is located, has ordered an inquiry into the incident.
+
+Footage on local news channels shows the huge billboard swaying in the wind before giving way and crashing into the buildings near a busy road in the city's eastern suburb of Ghatkopar. Several vehicles were crushed in the accident.
+
+In photos from the scene, emergency teams can be seen working through the wreckage. Dramatic video footage shows rescue workers pulling out a victim from under the fallen billboard and using power tools to cut the metal.
+
+...
+
+[Data](articles/6b5bcacc.json)
 
 ---
 
@@ -168,15 +252,23 @@ Accordingly, the process of placing employees at the NSB is currently underway.
 
 ---
 
-### සොරකම් නඩුවකට අධිකරණයට පැමිණි මැදවච්චියේ පුද්ගලයෙක් නඩුව ඉවර වී යතුරු පැදියකුත් හොරකම් කරගෙනම  ගිහින
+### A man in the courts in the courts in a steal case and stealing the key to the case
 
 *2024-05-14 14:50:36* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-නඩුවකට-අධිකරණයට-පැමිණි-මැදවච්චියේ-පුද්ගලයෙක්-නඩුව-ඉවර-වී-යතුරු-පැදියකුත්-හොරකම්-කරගෙනම--ගිහින/11-409627) · `si`
 
-මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සොරකමක් සම්බන්ධව විභාග වෙමින් පවතින නඩුවකට පසුගියදා(11දා) පැමිණි සැකකරුවෙකු නඩුව අවසන් වී, නිවස වෙත යමින් සිටියදී, අධිකරණය අසල නිවසක නවතා තිබූ, යතුරුපැදියක් සොරකම් කරගෙන ගොස් තිබියදී අත් අඩංගුවට ගත්බව මැදවච්චිය පොලිසිය පවසයි.
+A man was arrested in a theft case at the Medawachchiya Magistrate's Court. He stole a key and was caught with a stolen motorbike. The suspect was identified and arrested by a special police team led by RMIB Ratnayake. The police found 45mm in his possession and took him to court.
+
+🟩
+
+The suspect had been arrested and taken to the house in the Medawachchiya Magistrate's Court (11), a motorbike was arrested and arrested in the court.
+
+A person has come to a case filed by the Medawachchiya Magistrate's Court on a private keyside at the Medawachchiya Magistrate's Court.. The man had then stopped his motorcycle at the former chairman of the Medawachchiya Pradeshiya Sabha near the courts.. The man who had come to the motorcycle back to 12:00 pm on the back of 12.00 pm, the man arrived in the motorcycle where the man had come back to the motorcycle, the man had begun to seek the key. The owner of the motorcyclist had gone to the Medawachchiya Police Station, as the attempt was unable to find the motorcycle.. Medawachchiya OIC has launched a special police team including Mr. RMIB Ratnayake, including the accident.
 
 ...
 
 [Data](articles/8ce7fc5d.json)
+
+[Extended Data](ext_articles/8ce7fc5d.ext.json)
 
 ---
 
@@ -538,21 +630,27 @@ Through this petition, Keheliya Rambukwella is seeking an order in the nature of
 
 ---
 
-### ආර්ථිකය ගැන ජනපති ඇමෙරිකාවට කරුණු කියයි
+### President tells America regarding the economy
 
 *2024-05-14 13:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගැන-ජනපති-ඇමෙරිකාවට-කරුණු-කියයි/11-409623) · `si`
 
-දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ ඇමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා ජනපති හමු වෙයි
+President Ranil Wickremesinghe met with US Assistant Secretary of State Donald Lu to discuss Sri Lanka's economic reforms. The meeting also included Presidential Advisor Sagala Ratnayake and Presidential Secretary Dr. Dinuk Colombage.
 
-මෙරට සංචාරයක නිරත දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ ඇමෙරිකානු සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ (Donald Lu) මහතා ඊයේ (13) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+🟩
 
-ශ්‍රී ලංකා අර්ථිකය ප්‍රකෘතිමත් කිරීම වෙනුවෙන් රජය ගෙන යන වැඩපිළිවෙළ පිළිබඳ මෙහිදී දීර්ඝ ලෙස සාකච්ඡාවට ලක් වූ අතර ශ්‍රී ලංකාවේ නව ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලිය සහ ඒ වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කැපවීම ඩොනල්ඩ් ලූ මහතාගේ ඇගයීමට ලක් විය.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu
 
-ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, ජාත්‍යන්තර කටයුතු පිළිබඳ ජනාධිපති අධ්‍යක්ෂ දිනුක් කොළඹගේ යන මහත්වරුන් ද මෙම අවස්ථාවට එක්ව සිටියහ.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu found President Ranil Wickremesinghe at the Presidential Secretariat yesterday afternoon.
+
+The government's program was discussed at length, and Donald Leah was assessed by the new economic reforms process in Sri Lanka and the new economic reforms of Sri Lanka and Donald Lie.
+
+Presidential Advisor on National Security and Presidential Staff Head of the President Sagala Ratnayake, Presidential Secretary to the President Dr. Dinuk Colombage were also present at the occasion.
 
 ◼️
 
 [Data](articles/845a1efc.json)
+
+[Extended Data](ext_articles/845a1efc.ext.json)
 
 ---
 
@@ -644,21 +742,35 @@ Gunawardena also revealed that the instructions were given considering the fact 
 
 ---
 
-### බොරැල්ලේ කුඩු ශිරෝ අත්අඩංගුවට
+### Kudu Shiro arrested in Borella
 
 *2024-05-14 13:25:37* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ලේ-කුඩු-ශිරෝ-අත්අඩංගුවට/11-409621) · `si`
 
-බොරැල්ල සරණපාල හිමි මාවතේ නිවසක් වටලා සිදුකළ පරික්ෂාවේදී" කුඩු ශිරෝ" නමැති මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කාරිය  රුපියල් ලක්ෂ 80 කට ආසන්න මුදලක් තැන්පත්ව තිබූ බැංකු පොතක් , මත්ද්‍රව්‍ය  සහ මුදල් තොගයක් සමග අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+Kudu Shiro, a large-scale drug dealer, was arrested in Borella. The Colombo Crimes Division found Rs. 95,000 and 3.18 kg of drugs in his possession. The police raided his house, seizing bank documents and questioning him about his financial activities. The 46-year-old suspect is being investigated for drug trafficking.
 
-එයට අමතරව එම සැකකාරිය සන්තකයේ තිබී හොරයින් මත්කුඩු මිල ග්‍රෑම් 3180 ක්  ජාවාරමෙන් උපයා ගත්  රුපියල්  95000/= ක මුදලක් හා ජංගම දුරකථනයක් පොලිස් භාරයට ගෙන ඇත
+🟩
 
-කොළඹ අපරාධ කොට්ඨාසයට අනුයුක්ත කර සිටින  උප පොලිස් පරීක්ෂක හේෂාන් නිලධාරියා ඇතුළු කණ්ඩායමක් විසින් සංවිධානාත්මක අපරාධ මැඩලීමේ විශේෂ  මෙහෙයුමේදී ලද තොරතුරක් අනුව සැකකාරිය පදිංචි නිවස වටලා සිදු කළ  පරික්ෂාවේදී මෙම මත්ද්‍රව්‍ය  සහ බැංකු පාස් පොත ඇතුළු මුදල් තොගය සොයාගැනීමට හැකිවූ බව පොලිසිය කියයි
+The Colombo Crimes Division says that the large scale drug dealer called Kudu Shiro, a bank book deposited with a bank book deposited in Saranapala Thera.
 
-සැකකාරියගේ නිවස තුළ තිබී සොයා ගත් රාජ්‍ය බැංකුවකට අයත්  බැංකු පොත පරික්ෂා කිරීමේදී  එහි රුපියල් ලක්ෂ 80 ක මුදලක් තැන්පත්ව තිබියදී  මෑතකදී රුපියල් 50000/= මුදලක් නැවත ලබාගෙන ඇති අයුරු සටහන්ව තිබූ බව පොලිසිය කියයි
+In addition, a sum of Rs. 95,000 / = has been taken into custody by drugs and a mobile earn of 3180 grams of drugs in possession of the suspect
 
-...
+Police said the suspect was raided the house of the Narcotics and Bank Pass, including the Secretary to the Colombo Crimes Division.
+
+The police have recently recovered a sum of Rs.
+
+A police officer said that the suspect had failed to give a reasonable answer in questioning the banking
+
+A police officer who is conducting further exchanged money has been exchanged in the Internet while checking the Smartphone mobile phone in the suspect.
+
+46-year-old suspect is to be questioned in relation to drug trafficking
+
+Deputy Inspector Heshan and other officials are investigating the Chief Inspector of Police, Assistant Superintendent of Police of the Colombo Crimes Division.
+
+◼️
 
 [Data](articles/0987d085.json)
+
+[Extended Data](ext_articles/0987d085.ext.json)
 
 ---
 
@@ -2153,109 +2265,5 @@ In addition, the court has ordered the suspension of driver's licenses of the 15
 [Data](articles/b09e2a1a.json)
 
 [Extended Data](ext_articles/b09e2a1a.ext.json)
-
----
-
-### I hear that MPs’ vehicle permits approved: Chandima
-
-*2024-05-14 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-hear-that-MPs-vehicle-permits-approved-Chandima/108-282552) · `en`
-
-Parliament, May 14 (Daily Mirror)- Parliamentarian Chandima Weerakkody said yesterday he got to know that vehicle permits for Members of Parliament had been passed according to the request of the government.
-
-He told Parliament that most people were expecting to import vehicles but the government claimed that vehicles could be imported next year.
-
-"Most people are expecting to import vehicles. But, the government said vehicles can be imported only next year. However, I heard that MPs' permits have been passed following your request," he told the government MPs in Parliament.
-
-Speaking during the debate, he said President Ranil Wickremesinghe claimed that the salaries of government employees would be increased next year and added that all these promises are given to hoodwink the people.
-
-◼️
-
-[Data](articles/4543966a.json)
-
-[Extended Data](ext_articles/4543966a.ext.json)
-
----
-
-### Prosecuting Crimes Requires A System Change
-
-*2024-05-14 08:17:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prosecuting-crimes-requires-a-system-change/) · `en`
-
-In the context of Sri Lanka, a crucial question arises: Does the country still possess the capability to effectively prosecute crimes? This query can be raised for numerous reasons. However, even before delving into these underlying issues, one glaring reality has become evident to the people of Sri Lanka in recent years: a perceived lack of commitment on the part of the state to fulfil its obligation and utilize its power to prosecute crimes, regardless of any hindrances. This observation is widely shared among the public, who witness a multitude of crimes, including heinous acts against individuals or groups, such as the victims of the Easter Sunday Massacre, as well as pervasive corruption that has paralyzed the entire economy.
-
-...
-
-[Data](articles/45452d97.json)
-
-[Extended Data](ext_articles/45452d97.ext.json)
-
----
-
-### 14 killed as India's billboard collapses
-
-*2024-05-14 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196600) · `si`
-
-In Mumbai, a billboard collapse due to strong winds killed 14, damaged vehicles, and prompted an investigation by the Maharadharan Chief Minister into the billboard's legal permission.
-
-🟩
-
-14 people have been killed in a large billboard in Mumbai, India.
-
-The billboard had collapsed with strong winds in Mumbai.
-
-A billboard mounted near a filling station has crashed and many vehicles have been severely damaged.
-
-The Chief Minister of the Maharadharan has ordered an investigation into the legal permission of the billboard.
-
-◼️
-
-[Data](articles/7c4a1127.json)
-
-[Extended Data](ext_articles/7c4a1127.ext.json)
-
----
-
-### Solutions to university non-academic workers
-
-*2024-05-14 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196599) · `si`
-
-The Cabinet delayed a proposal to address salary issues of university non-academic staff, awaiting Ministry of Finance approval. This delay has prompted the University Traction Union Joint Committee to escalate strike measures. Additionally, the Sri Lanka United Grama Niladhari Union has threatened to protest in front of the Presidential Secretariat on the 27th if their demands, including a service minister, are not met within three days.
-
-🟩
-
-The proposal to the Cabinet was further delayed to resolve the salary problem of university non-academic workers.
-
-The proposal was submitted to the Cabinet of Education Susil Premajayantha meeting yesterday (13) and has decided to obtain the approval of the Ministry of Finance.
-
-The proposal was proposed to be restored to the Cabinet after obtaining the approval of the Ministry of Finance.
-
-However, the co-chairman of the University Traction Union Joint Committee, Dhammika Priyantha has said that he has decided to increase the strike measures commenced due to further delaying the problem.
-
-Meanwhile, the trade union action of the trade union action will be taken to report three days from today, taking several demands including a service minister.
-
-The Sri Lanka United Grama Niladhari Union Nandana Ranasinghe said that the authorities informed the authorities for two days last week.
-
-...
-
-[Data](articles/a2fb9d82.json)
-
-[Extended Data](ext_articles/a2fb9d82.ext.json)
-
----
-
-### Govt prepared to confront legal action from companies over estate workers’ wage hike - Jeevan
-
-*2024-05-14 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99199/govt-prepared-to-confront-legal-action-from-companies-over-estate-workers-wage-hike-jeevan-) · `en`
-
-Minister of Water Supply and Estate Infrastructure Development, Jeevan Thondaman, affirmed that the government is ready to face any situation if the estate companies take court action against the government’s decision to increase the wages of the estate workers’ community.
-
-Previously, plantation companies claimed an inability to augment the basic salary of workers even by a single rupee. However, following the government’s declaration of a daily wage of Rs. 1700, Minister Thondaman disclosed that the companies proposed a Rs. 200 increase in the basic salary for estate workers. He emphasized that the companies have the ability to increase the wages of estate workers.
-
-Minister Thondaman made these statements while addressing a press briefing held at the President Media Centre (PMC) on Monday (13) under the theme ‘Collective path to a stable country’.
-
-...
-
-[Data](articles/da970eaf.json)
-
-[Extended Data](ext_articles/da970eaf.ext.json)
 
 ---

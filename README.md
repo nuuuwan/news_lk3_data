@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 19:18:26**
+As of **2024-05-14 19:33:48**
 
 ## Newspaper Stats
 
-*Scraped **24,021** Articles*
+*Scraped **24,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,375
 dailyftlk | 1,390
 adalk | 2,052
 adaderanalk | 2,795
-tamilmirrorlk | 2,812
+tamilmirrorlk | 2,813
 virakesarilk | 3,604
 dailymirrorlk | 3,780
 adaderanasinhalalk | 3,843
@@ -26,43 +26,77 @@ adaderanasinhalalk | 3,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,019 (100.0%) of 24,021 articles have been extended.
+24,021 (100.0%) of 24,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### අධිකරණ ඇමතිට එරෙහි වාරණය ගැන තීන්දුව හෙට
+### 4 மாவட்டங்களுக்கு அபாய எச்சரிக்கை
+
+*2024-05-14 19:08:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-337304) · `ta`
+
+நாடளாவிய ரீதியில் பெய்து வரும் கடும் மழையினால் 4 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, பதுளை, கண்டி, கேகாலை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களின் பல பகுதிகளுக்கு  தேசிய கட்டிட ஆராய்ச்சி நிறுவனத்தினால் அபாய எச்சரிக்கை  விடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/99756dbc.json)
+
+---
+
+### Decision on Censorship against Court
 
 *2024-05-14 18:58:52* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිට-එරෙහි-වාරණය-ගැන-තීන්දුව-හෙට/11-409631) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතාගේ පත්වීම බල රහිත කරන්නැයි ඉල්ලා පක්ෂයේ වැඩ බලන ප්‍රධාන ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවරු නඩුවෙන් ඉල්ලා ඇති වාරණය නිකුත් කරනවාද? නැද්ද? යන්න පිළිබඳ නියෝගය හෙට (15) ප්‍රකාශයට පත්කරන බව කොළඹ ප්‍රධාන දිසා විනිසුරු සඳුන් විතානගේ මහතා අද (14) දැනුම් දුන්නේය.
+The Colombo Chief District Judge, Sandun Withanage, will announce a decision on censorship involving SLFP Chairman Nimal Siripala de Silva and Acting Chief Secretary Duminda Dissanayake. The order, affecting Sarath Ekanayake, Minister Wijedasa Rajapakse, and others, will be released tomorrow. President's Counsel Romesh de Silva argues that the injunction notice was not served, questioning the legitimacy of the Kaduwela District Court's order.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති නිමල් සිරිපාල ද සිල්වා සහ වැඩ බලන ප්‍රධාන ලේකම් දුමින්ද දිසානායක මහත්වරුන්ට පක්ෂ කටයුතු කරගෙන යෑමට බාධා කිරීම් වළක්වාලමින් වාරණයක් නිකුත් කරන්නැයි කළ ඉල්ලීම් සම්බන්ධ නියෝග ප්‍රකාශයට පත් කිරීම කිරීම මෙලෙස කල් තැබීණි.
+🟩
 
-පාර්ලිමේන්තු මන්ත්‍රී දිසානායක මහතා මගින් පැවරූ මෙම නඩුවේ වගඋත්තරකරුවන් වශයෙන් සරත් ඒකනායක, අමාත්‍ය විජේදාස රාජපක්ෂ, කීර්ති උඩවත්ත, වැඩ බලන සභාපති නිමල් සිරිපාල ද සිල්වා, ජ්‍යෙෂ්ඨ උප සභාපති මහින්ද අමරවීර මහත්වරුන් නම්කර ඇත.
+Does the party's acting chief secretary MP Duminda Dissanayake released as the Chairman of the SLFP as the Chairman of the SLFP.Not?Colombo Chief District Judge Sandun Withanage, the declaration of the order will be announced tomorrow (14).
+
+Sri Lanka Freedom Chairman Nimal Siripala de Silva and Acting Chief Secretary Duminda Dissanayake suspended the orders of the party.
+
+Sarath Ekanayake, Minister Wijedasa Rajapakse, Minister Wijedasa Rajapaksa, Acting Chairman Nimal Siripala de Silva, Senior Vice President Mahinda Amaraweera have been named the respondents.
+
+President's Counsel Romesh de Silva said he would not be legit from the Kaduwela District Court, preventing their client Wijeyeadasa Rajapakse.
+
+President Romesh de Silva said that the Kaduwela District Court had ordered the Kaduwela District Court.
+
+It was inquired that Wijedasa Rajapakse, a deceit of the Kaduwela District Court on behalf of Duminda Dissanayake.
 
 ...
 
 [Data](articles/d0cccc6f.json)
 
+[Extended Data](ext_articles/d0cccc6f.ext.json)
+
 ---
 
-### බන්ධනාගාර නියාමකවරිය ඝාතනයට ජේලර්වරියගෙන් කොන්ත්‍රාත්තුවක්
+### Jalartervation contract to murder prison guard
 
 *2024-05-14 18:51:35* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නියාමකවරිය-ඝාතනයට-ජේලර්වරියගෙන්-කොන්ත්‍රාත්තුවක්/11-409630) · `si`
 
-ගාල්ල බන්ධනාගාරයේ ජේලර්වරියක් විසින් එම බන්ධනාගාරයේම බන්ධනාගාර නියාමකවරියක්  ඝාතනය කිරිම සදහා රැදවි කාන්තාවකට කොන්ත්‍රාත්තුවක් ලබාදුන් බව කියන සිද්ධියක් සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇති බව ගාල්ල පොලිසිය කියයි.
+A woman has been contracted to kill a prison guard at Galle Prison, leading to an investigation by the Galle Police. The contract was allegedly given due to obstruction of promotion. The case involves a child of the prison and another woman, with the police recording statements from various parties, including the judiciary.
 
-ගාල්ල පොලිසියේ සුළු පැමිණිලි අංශයට මෙම පැමිණිල්ල ලැබී තිබේ. විවිධ අපරාධ  සම්බන්ධයෙන්  ගාල්ල බන්ධනාගාරයේ  රදවා සිටින  රැදවි කාන්තාවකට බන්ධනාගාර ජේලර්වරියක් විසින්  මෙම කොන්ත්‍රාත්තුව  ලබාදි ඇති බව බන්ධනාගාර නියාමකවරිය විසින් පොලිසියට කරනු ලැබු පැමිණිල්ලේ සදහන් වේ.
+🟩
 
-බන්ධනාගාර නියාමකවරිය ඝාතනය කිරිම සදහා ජේලර්වරිය විසින් තමන්ට කොන්ත්‍රාත්තුව ලබා දුන් බවට රැදවිකාන්තාව විසින් වෙනත් කාන්තාවකට පවසා ඇත. ඇය මේ බව බන්ධනාගාර නියාමකවරියට දැනුම්  දි ඇති බව පොලිසිය පවසයි. රැදවි කාන්තාව  විසින්  මෙම කොන්ත්‍රාත්තුව භාරගෙන නොමැති බව ද පොලිසිය පවසයි.
+The Galle Police say an investigation has been launched in connection with an incident that a woman has been a contract to the Galle Prison.
 
-ඒ අනුව  බන්ධනාගාර නියාමකවරිය විසින් මේ  පිළිබද ගාල්ල පොලිසියේ සුළු පැමිණිලි අංශයට පැමිණිලිකර ඇත. බන්ධනාගාර නියාමකවරියගෙන් සහ ජේලර්වරියගෙන්  ප්‍රකාශ සටහන් කරගෙන මේ පිළිබද අධිකරණයට කරුණු වාර්තාකොට ඇති බව ගාල්ල පොලිසියේ සුළු පැමිණිලි අංශය පවසයි.
+The complaint has been lodged with the Minor Complaint Division of Galle Police. The Prison Niyamakariya who has been given the contract has been provided with the contract to a child of the Galle Prison on various crimes.
+
+The Rajawanta has told another woman that Jalartervarian gave him the contract to kill the prison guard. Police said that she was informed of this informs the prison guilty. Police say that the contract has not been accepted by the Ladarge.
+
+Accordingly, the Prisons Piyawaraya has lodged a minor complaint sector at Galle Police. The minor complaint Division of the Galle Police has recorded statements from the Prison Regulatory and Jalarter.
+
+Police have also received a statement from Welwanthinka who has been ordered by the judiciary. The hearewoman is in prison on the accusations that the protection of firearms and closing firearms.
 
 ...
 
 [Data](articles/4013fbba.json)
+
+[Extended Data](ext_articles/4013fbba.ext.json)
 
 ---
 
@@ -2273,27 +2307,5 @@ Accordingly, the Uddhakandara Rajamaha Viharaya in Hambantota, Dambadeniya Rajam
 [Data](articles/8c23cd38.json)
 
 [Extended Data](ext_articles/8c23cd38.ext.json)
-
----
-
-### “To break up relationships with Israel”
-
-*2024-05-14 12:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுடனான-உறவுகளை-முறிக்க-வேண்டும்/175-337288) · `ta`
-
-Rauf Hakeem, an Opposition MP, urged Sri Lanka to consider breaking diplomatic ties with Israel if it doesn't halt military attacks on Gaza. He called for this action as a last resort. In response, Foreign Minister Taraka Balasuriya reaffirmed Sri Lanka's commitment to maintaining relations with all countries, including Palestine.
-
-🟩
-
-Opposition MP Rauf Hakeem today urged the Sri Lankan government to consider the breakup of diplomatic relations with Israel if it fails to stop the military attacks on Gaza.
-
-“Please report that Sri Lanka will withdraw diplomatic relations if it does not stop the attack on Gaza. Do this as the last attempt, ”Hakeem told parliament.
-
-Responding to this, Foreign Minister Taraka Balasuriya said, “Our foreign policy is to establish and maintain relations with all countries. However, it does not mean that we have abandoned Palestine. ”
-
-◼️
-
-[Data](articles/896c972d.json)
-
-[Extended Data](ext_articles/896c972d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 15:52:41**
+As of **2024-05-14 16:05:12**
 
 ## Newspaper Stats
 
-*Scraped **23,960** Articles*
+*Scraped **23,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,043
-adaderanalk | 2,791
+adaderanalk | 2,792
 tamilmirrorlk | 2,809
 virakesarilk | 3,587
 dailymirrorlk | 3,770
-adaderanasinhalalk | 3,836
+adaderanasinhalalk | 3,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,960 (100.0%) of 23,960 articles have been extended.
+23,960 (100.0%) of 23,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### රණවිරුවන්ට ලබාදෙන ඉඩම් ගැන රජය ගත් තීරණය
+
+*2024-05-14 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196616) · `si`
+
+රණවිරුවන්ට ඉඩම් ලබා දීමේදී දැනට අනුගමනය කරනු ලබන ක්‍රමවේදය හේතුවෙන් පැන නැගී ඇති ගැටලු සඳහා විසඳුම් ඇතුළත් කරමින් පවත්නා ක්‍රමවේදය සංශෝධනය කිරීම සඳහා ජනාධිපතිවරයා විසින් ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+ක්‍රියාන්විත රාජකාරියේ යෙදී සිටියදී දිවි පිදූ, අතුරුදන් වූ හා රණක්ෂිතයට පත් වූ, විශ්‍රාමික සහ දැනට සක්‍රීය සේවයේ යෙදී සිටින ත්‍රිවිධ හමුදාවේ, ශ්‍රී ලංකා පොලීසියේ හා සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවේ රණවිරුවන්ට පදිංචිය සඳහා රජයේ ඉඩම් ලබා දීමේදී අනුගමනය කළ යුතු ක්‍රමවේදය පිළිබඳව ඉඩම් කොමසාරිස් ජනරාල් විසින් අමාත්‍ය මණ්ඩල අනුමැතිය මත වරින් වර චක්‍රලේඛ උපදෙස් නිකුත් කරනු ලැබ ඇත.
+
+දැනට අනුමතව පවතින ක්‍රමවේදය තුළ රණවිරුවන්ට හිමි වන සහනය ප්‍රමාණවත් නොවන බවත්, භුක්තිවිඳින ඉඩම් සඳහා හිමිවන කොන්දේසි සහිත නිත්‍යානුකූල ලේඛනවල පවතින සීමාකාරී සාධක හේතුවෙන් එම ඉඩම්වල සැබෑ ආර්ථිකමය වටිනාකම නිරූපණය නොවන බවත් නිරීක්ෂණය වීමත් සමග මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/585e233b.json)
+
+---
+
+### At least 14 killed after billboard collapses in Mumbai during thunderstorm
+
+*2024-05-14 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99213/at-least-14-killed-after-billboard-collapses-in-mumbai-during-thunderstorm) · `en`
+
+At least 14 people died and 75 others were injured after a billboard bigger than an Olympic swimming pool fell on them during a thunderstorm in India’s financial capital Mumbai, authorities said on Tuesday, with dozens still feared trapped.
+
+Videos showed the towering hoarding billowing in the wind before collapsing on houses and a fuel station next to a busy road in the eastern suburb of Ghatkopar on Monday as a dust storm and rain lashed the city in the evening, bringing traffic to a standstill and disrupting flights at Mumbai airport.
+
+Mumbai’s municipal corporation (BMC) said at least 75 injured people were taken to hospitals following the accident and 31 have been discharged.
+
+...
+
+[Data](articles/ce192144.json)
+
+---
+
+### තරුණියකට අතවර කිරීමේ සිද්ධියකට මෝස්තර නිරූපණ ගුරා අත්අඩංගුවට
+
+*2024-05-14 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196615) · `si`
+
+මෝස්තර නිරූපණය පිළිබඳ පන්තියකට සහභාගී වූ 19 හැවිරිදි තරුණියක් දූෂණය කිරීමේ සිද්ධියක් වාර්තා වෙයි.
+
+ඒ, පොලිස් හදිසි ඇමතුම් අංක 119 ට ලැබුණු දුරකථන පණිවුඩයකට අනුවය.
+
+සිද්ධියට සම්බන්ධ සැකකරු අද (14) අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+මාවතගම නගරයේ පිහිටි පෞද්ගලික අධ්‍යාපන ආයතනයක පවත්වාගෙන යන මෝස්තර නිරූපණ ශිල්පය විෂයය ඉගෙන ගැනීමට අදාළ තරුණිය ඊයේ (13) පැමිණි අවස්ථාවේදී මෙම සිදුවීම ඇතිවී තිබේ.
+
+එහිදී අදාළ පන්තිය අවසන් වනවිට පැවැති අධික වර්ෂාව හේතුවෙන් එම තරුණිය ඇතුළු තවත් තරුණියන් තිදෙනෙකු කෙටි වෙලාවක් එහි නතරවී සිට ඇත.
+
+පසුව මෝස්තර නිරූපණ ශිල්පය උගන්වනු ලබන සැකකාර ගුරුවරයා අදාළ තරුණියන් සමග මත්පැන් පානය කර තිබෙන බවට සිදුකළ විමර්ශනවලදී අනාවරණය වූ බව මාවතගම පොලීසියේ උසස් නිලධාරියෙකු අද දෙරණට පැවසීය.
+
+පසුව අනෙක් තරුණියන් තිදෙනා පිටව ගොස් ඇති අතර අදාළ තරුණිය අධික ලෙස මත්වීමෙන් එහි නතරවී ඇත.
+
+ඒ අනුව සිද්ධිය සම්බන්ධයෙන් සැකපිට මෝස්තර නිරූපණ ශිල්පය උගන්වනු ලබන ගුරුවරයාව මාවතගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අතවරයට ලක්වූ තරුණිය වෛද්‍ය පරීක්ෂණයක් සඳහා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+
+...
+
+[Data](articles/4824cee5.json)
+
+---
 
 ### Keheliya’s writ fixed for consideration by Appeals Court
 
@@ -2199,71 +2259,5 @@ The Health Trade Union Alliance will work in Sabaragamuwa Province today (14).
 [Data](articles/7ff330e6.json)
 
 [Extended Data](ext_articles/7ff330e6.ext.json)
-
----
-
-### Over 178,000 temporary residents under scrutiny for criminal connections
-
-*2024-05-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-178-000-temporary-residents-under-scrutiny-for-criminal-connections/108-282548) · `en`
-
-Colombo, May 14 (Daily Mirror) - In light of reports indicating involvement in various criminal activities, including drug trafficking, originating from temporary residences, the police have gathered information on over 178,600 temporary residents during a two-day nationwide operation.
-
-The programme was initiated in response to observations that individuals engaged in various criminal activities, including drug trafficking, were residing in rented accommodations outside their permanent police jurisdictions. Acting upon this concern, IGP Deshabandu Tennakoon directed the police to conduct an operation over the weekend (May 11 and 12) to gather and verify information on temporary residents within each Grama Niladhari division, as per Section 76 of the Police Ordinance Act.
-
-...
-
-[Data](articles/b9843b40.json)
-
-[Extended Data](ext_articles/b9843b40.ext.json)
-
----
-
-### Two brothers arrested for murder
-
-*2024-05-14 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196596) · `si`
-
-Two brothers, aged 18 and 23, were arrested for murder in Mahaoya, Sanoya. A 26-year-old man was assaulted with a sharp object and died. The incident was reported yesterday.
-
-🟩
-
-A youth has been assaulted by a sharp object due to a sharp object in Mahaoya, the Sanoya area.
-
-The incident was reported yesterday in the afternoon, police said.
-
-The deceased is a 26 year old resident of Maha Oya, Samao.
-
-Two brothers from the area aged 18 and 23, 23 and 23, the 23rd, Saripura, Mahaoya area have been arrested.
-
-◼️
-
-[Data](articles/74ad6ba8.json)
-
-[Extended Data](ext_articles/74ad6ba8.ext.json)
-
----
-
-### New bills draft two women representing women's representation
-
-*2024-05-14 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196595) · `si`
-
-Two new bills aim to boost women's representation in Parliament, proposing amendments to the Parliamentary Elections Act to ensure at least 30% female representation. Additionally, a bill requires political parties or independent groups to submit proposals for women's representation. MP Sudarshani Fernandopulle has expressed concern over the lack of positive response to increasing women's representation.
-
-🟩
-
-Two new bills have been tabled in Parliament to increase women's representation in Parliament.
-
-It is reported that the private member proposals have submitted respect to Parliamentarian Sudarshani Fernandopulle.
-
-Accordingly, a bill has come forward to amend the Parliamentary Elections Act, suggesting that women represent not less than 30 percent of women.
-
-In addition, a proposal to be allocated to represent the Parliament of a political party or independent group of the National Party or an Independent group, a proposal should be submitted to Parliament as a bill.
-
-MP Sudarshani Fernandopulle said that he had requested to take measures to increase women's representation from political parties, whether it was not a positive response.
-
-◼️
-
-[Data](articles/6b302c1c.json)
-
-[Extended Data](ext_articles/6b302c1c.ext.json)
 
 ---

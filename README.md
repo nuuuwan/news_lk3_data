@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 10:52:13**
+As of **2024-05-14 11:03:29**
 
 ## Newspaper Stats
 
-*Scraped **23,882** Articles*
+*Scraped **23,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,78 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
-adalk | 2,032
+adalk | 2,033
 adaderanalk | 2,781
-tamilmirrorlk | 2,797
+tamilmirrorlk | 2,798
 virakesarilk | 3,567
-dailymirrorlk | 3,758
+dailymirrorlk | 3,759
 adaderanasinhalalk | 3,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,877 (100.0%) of 23,882 articles have been extended.
+23,882 (100.0%) of 23,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### ”வாக்குறுதிகள் அனைத்தும் மக்களை ஏமாற்றுவதற்காகவே ”
+### பொதுமக்களுக்கு விசேட அறிவித்தல்
+
+*2024-05-14 10:39:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-விசேட-அறிவித்தல்/175-337280) · `ta`
+
+இன்ஃப்ளூவன்ஸா பரவல் வழக்கத்திற்கு மாறாக அதிகரித்து வரும் நிலையில், காய்ச்சல், இருமல், தொண்டை புண், தலைவலி மற்றும் சோர்வு,மூக்கு ஒழுகுதல் அல்லது அடைத்தல், தசை அல்லது உடல் வலி போன்ற அறிகுறிகள் குறித்து எச்சரிக்கையாக இருக்குமாறு சுகாதார நிபுணர்கள் பொதுமக்களை வலியுறுத்தியுள்ளனர்.
+
+டெய்லி மிரருக்குப் பேட்டியளித்த கொழும்பு லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலை குழந்தை நல வைத்தியர் தீபால் பெரேரா, இந்நிலை குழந்தைகள் மத்தியில் அதிகமாகக் காணப்படுவதாகவும், எனவே பெற்றோர்கள் தங்கள் குழந்தைகளை உன்னிப்பாகக் கண்காணிக்குமாறு அறிவுறுத்தப்படுவதாகவும் தெரிவித்தார்.
+
+"வழக்கமாக நவம்பர் முதல் பிப்ரவரி வரை மற்றும் ஏப்ரல் முதல் ஜூலை வரை என .இக் காய்ச்சல் இரண்டு உச்சநிலைகளில் பரவும்,"
+
+“இந்த நேரத்தில், குழந்தைகள் மற்றும் பெரியவர்கள் மத்தியிலும் நோய் கணிசமாக உயர்ந்துள்ளது. கடந்த ஒரு வாரத்தில் மட்டும் இந்நோய் வழக்குகள் இரட்டிப்பாகியுள்ளன. தற்போதைய நிலவரப்படி, இன்ஃப்ளூவன்ஸா ஏ முதன்மையானது. இருப்பினும், இன்ஃப்ளூயன்ஸா பி யும் பரவலாக உள்ளது, ”என்று அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/f9b490e0.json)
+
+---
+
+### “All the promises are to deceive people”
 
 *2024-05-14 10:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குறுதிகள்-அனைத்தும்-மக்களை-ஏமாற்றுவதற்காகவே/175-337279) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களுக்கான வாகன அனுமதிப்பத்திரம் அரசாங்கத்தின் கோரிக்கைக்கு அமைய நிறைவேற்றப்பட்டுள்ளதாக நேற்று தமக்கு தெரியவந்ததாக பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடி தெரிவித்தார்.
+Chandima Weerakkody criticized the government for delaying vehicle imports, claiming MPs have already obtained permits. He accused the government of deceiving the public by promising salary increases for public servants next year.
 
-பெரும்பாலான மக்கள் வாகனங்களை இறக்குமதி செய்ய எதிர்பார்த்துள்ளதாகவும் ஆனால் அடுத்த வருடமே வாகனங்களை இறக்குமதி செய்ய முடியும் என அரசாங்கம் கூறுவதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
 
-"பெரும்பாலானோர் வாகனங்களை இறக்குமதி செய்ய எதிர்பார்க்கின்றனர். ஆனால், அடுத்த ஆண்டு தான் வாகனங்களை இறக்குமதி செய்ய முடியும் என அரசு கூறியது. ஆனால், உங்களின் கோரிக்கையை ஏற்று எம்.பி.,க்களுக்கு அனுமதிப்பத்திரம் நிறைவேற்றப்பட்டதாக கேள்விப்பட்டேன்” என அவர் அரசாங்க எம்.பிக்களைப் பார்த்துக் கூறினார்.
+Parliamentarian Chandima Weerakkody said that the vehicle permits for MPs have been passed at the request of the government.
 
-விவாதத்தின் போது ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரச ஊழியர்களின் சம்பளம் அடுத்த வருடம் அதிகரிக்கப்படும் என கூறியது போன்ற வாக்குறுதிகள் அனைத்தும் மக்களை ஏமாற்றுவதற்காக வழங்கப்படுவதாகவும் தெரிவித்தார்.
+He told parliament that most people are looking forward to importing vehicles but the government is saying that the government can import vehicles next year.
+
+“Most people expect to import vehicles. But the government said it could only import vehicles next year. But I have heard that the MPs have fulfilled your request, ”he said to the government MPs.
+
+During the debate, President Ranil Wickremesinghe said that all the promises of public servants would be increased next year to deceive the people.
 
 ◼️
 
 [Data](articles/62531ada.json)
+
+[Extended Data](ext_articles/62531ada.ext.json)
+
+---
+
+### Strategic dance between Health Ministry, trade unions: Dr. Bellana
+
+*2024-05-14 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strategic-dance-between-Health-Ministry-trade-unions-Dr-Bellana/108-282550) · `en`
+
+Colombo, May 14 (Daily Mirror) - The commencement of islandwide union actions has turned into a strategic interplay between Health Ministry officials and the collective health sector trade unions, the Government Medical Officers' Forum (GMOF) said today.
+
+GMOF president Dr. Rukshan Bellana claimed that the Health Ministry wants the health unions to go on strike for them to be lenient on the demands to be granted. He claimed that the Health Secretary is encouraging the strikes.
+
+A collective health sector trade union launched a token strike at all hospitals in the Central Province yesterday (13) over their demands, including an increase in allowances and said that the strike will be expanded to other provinces as well starting May 22 if their demands are not met.
+
+...
+
+[Data](articles/7dc9b9f6.json)
 
 ---
 
@@ -88,15 +128,21 @@ The matters concerning the current economic situation in Sri Lanka,the involveme
 
 ---
 
-### யுத்தம் முடிவுக்கு வந்தும் முடிவுறாத கடத்தல், சித்திரவதைகள் ! ; அடிப்படைக் காரணம் என்ன ?
+### The end of the war and the end of the abduction and torture!;What is the underlying cause?
 
 *2024-05-14 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183471) · `ta`
 
-இலங்கையில் உள்நாட்டு யுத்தம் விட்டுச் சென்ற சுவடுகளையும் வேதனைகளையும் மக்கள் இன்னும் மறந்துவிடவில்லை. அதனை இலகுவாக மறக்கும் மன நிலையிலும் அவர்கள் இல்லை.
+The end of Sri Lanka's civil war and the cessation of abductions and torture mark a significant moment, but the scars of the conflict remain vivid in the collective memory, making it difficult for the nation to forget the pain and suffering easily.
+
+🟩
+
+People have not yet forgotten the traces and pains that have left the civil war in Sri Lanka. They are not in the mood to forget it easily.
 
 ◼️
 
 [Data](articles/1c900407.json)
+
+[Extended Data](ext_articles/1c900407.ext.json)
 
 ---
 
@@ -124,63 +170,81 @@ The present economic situation in Sri Lanka, hold the International Monetary Fun
 
 ---
 
-### கைதிகளை சிறைச்சாலைக்கு அழைத்துச் சென்ற பஸ் விபத்து : யாழில் சம்பவம் !
+### Bus accident
 
 *2024-05-14 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183469) · `ta`
 
-யாழ்ப்பாண சிறைச்சாலைக்கு கைதிகளை ஏற்றி சென்ற, சிறைச்சாலைக்கு சொந்தமான பஸ் திங்கட்கிழமை (13) விபத்துக்குள்ளாகியுள்ளது.
+A prison bus carrying inmates crashed in Jaffna, injuring a passenger in a preceding vehicle. The inmates were transferred to another vehicle and taken to prison.
 
-ஊர்காவற்துறை நீதிமன்றில் வழக்கு விசாரணைகள் முடிவடைந்த பின்னர் கைதிகளை யாழ்ப்பாண சிறைச்சாலைக்கு ஏற்றிச்சென்ற போது, நாரந்தனை பகுதியில் முன்னால் சென்று கொண்டிருந்த ஹயஸ் ரக வாகனம் திடீரென நிறுத்தப்பட்டமையால், பின்னால் சென்ற சிறைச்சாலைக்கு சொந்தமான பஸ் மோதி விபத்துக்கு உள்ளானது.
+🟩
 
-விபத்தில் ஹயஸ் ரக வாகனத்தில் பயணித்த நபர் ஒருவர் காயமடைந்த நிலையில் , ஊர்காவற்துறை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A prison -owned bus, which was loaded with prisoners to the Jaffna Prison, crashed on Monday (13).
 
-விபத்தினை அடுத்து , சிறைச்சாலை பஸ்ஸிலிருந்த கைதிகள் வேறு வாகனத்திற்கு மாற்றப்பட்டு, சிறைச்சாலைக்கு கொண்டு செல்லப்பட்டனர்.
+When the prisoners were loaded with the Jaffna Prison after the case was completed, the Hayas vehicle in front of the Narandana area suddenly crashed into a bus -owned bus.
+
+A man who was traveling in a Hayas vehicle was injured and admitted to the Kayts Hospital.
+
+In the wake of the accident, the prisoners on the bus were transferred to a different vehicle and taken to the prison.
 
 ◼️
 
 [Data](articles/500b6746.json)
 
+[Extended Data](ext_articles/500b6746.ext.json)
+
 ---
 
-### நக்கிள்ஸ் வனப் பகுதியில் பேஸ்புக் களியாட்டம் : 22 பேர் கைது
+### Facebook extraordinary
 
 *2024-05-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/183466) · `ta`
 
-பாதுகாக்கப்பட்ட நக்கிள்ஸ் வனப் பகுதிக்குள் பேஸ்புக் நண்பர்காளால் ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வில் கலந்துகொண்ட  ஐந்து பெண்கள் உட்பட 22 பேர் கைது செய்யப்டபட்டுள்ளனர்.
+22 people, including five women, were arrested at an unauthorized event in the protected Nuckles Forest, organized via Facebook and social media. Participants ranged from university students to security force associates and private sector employees, aged 20 to 30, from Bandarawela, Colombo, Badulla, and Kandy. The Forest Office conducted investigations after the event, which took place without permission.
 
-பண்டாரவளை, கொழும்பு, பதுளை மற்றும் கண்டி  ஆகிய பகுதிகளைச் சேர்ந்த 20 முதல் 30 வயதுக்கு இடைப்பட்டவர்களே  இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைதுசெய்யப்பட்டவர்களில் பல்கலைக்கழக மாணவர்கள், பாதுகாப்புப் படையினருடன் தொடர்புடையவர் என கூறப்படும் நபரொருவர் மற்றும் தனியார் துறை ஊழியர்களும் அடங்குவர்.
+22 people, including five women, have been arrested at an extravagant event organized by Facebook friend inside the protected Nuckles Forest.
 
-பேஸ்புக் மற்றும் பிற சமூக ஊடக தளங்கள் மூலம் இந்த களியாட்ட நிகழ்வு ஒழுங்கு செய்யப்பட்டுள்ளதுடன், வனப் பகுதிக்குள்  முறையான அனுமதி பெறாமல் இந்த நிகழ்வு இடம்பெற்றுள்ளது.
+The arrested persons between the ages of 20 to 30 have been arrested from Bandarawela, Colombo, Badulla and Kandy.
 
-வனவள அலுவலக அதிகாரிகள் மேற்கொண்ட  விசாரணையில், இவர்கள் பாதுகாக்கப்பட்ட நக்கிள்ஸ் வனப் பகுதிக்குள் சனிக்கிழமை இரவு சென்று நிகழ்வை நடத்தியமை தெரியவந்துள்ளது.
+The arrests include university students, a person who is allegedly associated with security forces and private sector employees.
+
+The extravagant event has been organized through Facebook and other social media sites and the event has taken place without proper permission within the forest.
+
+Investigations carried out by the Forest Office have revealed that they visited the protected Nakles forest on Saturday night.
 
 ◼️
 
 [Data](articles/1b5c58ef.json)
 
+[Extended Data](ext_articles/1b5c58ef.ext.json)
+
 ---
 
-### யாழில் ஐஸ் போதைப்பொருள் ஆய்வுகூடம் சுற்றிவளைப்பு - இருவர் கைது
+### Ice Drug Laboratory in Jaffna - Two arrested
 
 *2024-05-14 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183467) · `ta`
 
-யாழ்ப்பாணம், சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட இணுவில் பகுதியில் ஐஸ் போதைப்பொருள் உற்பத்தி நிலையம் ஒன்று அதிரடியாக சுற்றிவளைக்கப்பட்டது. இதன்போது இரண்டு சந்தேகநபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+In Jaffna, a raid on an ice drug lab led to the arrest of two suspects. The operation, based on confidential tips, recovered production materials. The house, now sealed, will be analyzed by chemical experts from Colombo. The main suspect is at large.
 
-யாழ்ப்பாணம் மாவட்ட பொலிஸ் குற்றத்தடுப்பு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில், அவர்களால் இந்த சுற்றிவளைப்பு நடவடிக்கை ஞாயிற்றுக்கிழமை (12)  முன்னெடுக்கப்பட்டது. இதன்போது ஐஸ் போதைப்பொருள் உற்பத்தி செய்வதற்கு பயன்படும் பொருட்களும் மீட்கப்பட்டுள்ளன.
+🟩
 
-கைதுசெய்யப்பட்ட சந்தேகநபர்கள் இருவரும் யாழ்ப்பாணம் மாவட்ட பொலிஸ் குற்றத்தடுப்பு பிரிவினரின் கண்காணிப்பில் உள்ளனர்.
+An Ice Narcotics Center in the area of the Chunnakam police division of Jaffna. Two suspects have been arrested.
 
-குறித்த வீடானது ஐஸ் போதைப்பொருள் உற்பத்தி செய்யும் ஆய்வுகூடமாக செயற்பட்டு வந்ததாக தெரிவிக்கப்படுகிறது.
+Based on the confidential information received by the Jaffna District Police Crime Unit, the raid was carried out on Sunday (12).. During this time, the products used for the production of ice have been recovered.
 
-இந்நிலையில் வீடானது சீல் வைக்கப்பட்டுள்ளதுடன் கொழும்பில் இருந்து இரசாயன பகுப்பாய்வாளர்களை வரவழைத்து பகுப்பாய்வு நடவடிக்கைகள் முன்னெடுக்கப்படவுள்ளன.
+Both the arrested suspects are under the supervision of the Jaffna District Police Crime Unit.
 
-பிரதான சந்தேக நபர் தப்பியோடியுள்ள நிலையில் அங்கு பணிபுரியும் இருவர் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is reported that the house was operating as an ice drug manufacturing laboratory.
+
+In this case, the house has been sealed and the chemical analysts from Colombo will summoned and analyzed the analysis.
+
+It is noteworthy that two people have been arrested as the main suspect has escaped.
 
 ◼️
 
 [Data](articles/b5f6944f.json)
+
+[Extended Data](ext_articles/b5f6944f.ext.json)
 
 ---
 
@@ -2089,49 +2153,5 @@ The National Building Research Organization has issued landslide warnings for Ma
 [Data](articles/f8b18cb8.json)
 
 [Extended Data](ext_articles/f8b18cb8.ext.json)
-
----
-
-### Wellalage inclusion hints Three-Spin Attack in World Cup
-
-*2024-05-13 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wellalage-inclusion-hints-Three-Spin-Attack-in-World-Cup/108-282500) · `en`
-
-May 13 (Daily Mirror) - National selectors announced the Sri Lankan squad for the upcoming T20 World Cup in USA & West Indies with uncapped Dunith Wellalage grabbing the headlines.
-
-Wellalage who has already played ODI and Test cricket for Sri Lanka, was named in the 15-man squad with Jaffna sensation Vijayakanth Viyaskanth only making it to the reserves.
-
-Viyaskanth who has made a rapid rise in the last couple of years through his LPL performances for Jaffna based franchises, is now taking part in number of top competition such as the Indian Premier League and International League T20 in UAE.
-
-In fact the leg spinner replaced his T20 captain Wanindu Hasaranga at Sunrises Hyderabad in the ongoing IPL season making debut under the captaincy of Pat Cummins.
-
-On Monday (13) National Selectors were questioned by the media during a press conference as to why Wellalage was named in the fifteen ahead of Viyaaskanth.
-
-...
-
-[Data](articles/16bab5f3.json)
-
-[Extended Data](ext_articles/16bab5f3.ext.json)
-
----
-
-### Mobile karatu killed in the pre-school girl
-
-*2024-05-13 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196589) · `si`
-
-A five-year-old girl from Munhena died after trying to charge her mobile phone. Her body is at Beruwala Hospital, to be transferred to Kalutara Teaching Hospital.
-
-🟩
-
-A pre-school student has died after attempting to charge the mobile phone.
-
-The deceased has been identified as five years old, a five-year-old resident of Munhena.
-
-The body is placed at Beruwala Hospital and the body will be sent to Kalutara Teaching Hospital.
-
-◼️
-
-[Data](articles/02f086d0.json)
-
-[Extended Data](ext_articles/02f086d0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 11:34:57**
+As of **2024-05-14 11:53:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,887 (100.0%) of 23,890 articles have been extended.
+23,890 (100.0%) of 23,890 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Foreign Secretary Wijewardane also discussed the robust security cooperation bet
 
 [Data](articles/92f407d5.json)
 
+[Extended Data](ext_articles/92f407d5.ext.json)
+
 ---
 
-### අහුංගල්ලේ වෙඩිතැබීමට අනුබල දුන් අයෙක් අත්අඩංගුවට
+### Man arrested for shooting at Ahungalla
 
 *2024-05-14 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196608) · `si`
 
-අහුංගල්ල ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල ලබාදුන් පුද්ගලයෙකු කොස්ගොඩ ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested by the STF in Kosgoda for shooting in Ahungalla. He was found with 1,150 milli and a mobile phone containing heroin. The suspect, known for his violent behavior, is now under investigation by the Kosgoda Police.
 
-විශේෂ කාර්ය බළකායේ දකුණු පළාත් විශේෂ මෙහෙයුම් ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් සැකකරු කොස්ගොඩ, දූවමෝදර ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+🟩
 
-සැකකරු පසුගිය 08 වන දින අහුංගල්ල ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමට අදාළ වෙඩික්කරු හට ආධාර අනුබල දුන් *ආදරේ* යන අනුවර්ථ නාමයෙන් හඳුන්වන පුද්ගලයකු බව සඳහන්ය.
+A person has been arrested by the STF in the Kosgoda area in Kosgoda.
 
-ඔහු සතුව තිබී හෙරොයින් මිලි ග්‍රෑම් 1,150ක් සහ ජංගම දුරකථනයක් පොලිස් විශේෂ කාර්ය බළකාය භාරයට ගෙන තිබේ.
+The suspect has been arrested by the Suspect's suspect in the Davodaya area Kosgoda, Kosgoda.
 
-සැකකරු වැඩිදුර විමර්ශන කටයුතු සඳහා කොස්ගොඩ පොලිසීය වෙත ඉදිරිපත් කර ඇති බව පොලිස් විශේෂ කාර්ය බළකාය පැවසුවේය.
+It is said that the suspect is a descriptive person who shot in Ahungalla, Ahungalla, who supported the shot.
+
+He owned 1,150 milli and a mobile phone with heroin in his possession.
+
+The suspect has been submitted to the Kosgoda Police for further investigations.
 
 ◼️
 
 [Data](articles/195f7641.json)
+
+[Extended Data](ext_articles/195f7641.ext.json)
 
 ---
 

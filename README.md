@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 03:52:12**
+As of **2024-05-15 04:04:00**
 
 ## Newspaper Stats
 
-*Scraped **24,067** Articles*
+*Scraped **24,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,821
+tamilmirrorlk | 2,822
 virakesarilk | 3,615
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,066 (100.0%) of 24,067 articles have been extended.
+24,067 (100.0%) of 24,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ’பலஸ்தீன அமைதிக்காக தொடர் குரல்கொடுப்போம்’
+### ’அரிசியை உண்ட கோழிகள் இறந்தன’
+
+*2024-05-15 00:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-உண்ட-கோழிகள்-இறந்தன/175-337314) · `ta`
+
+குறைந்த வருமானமுடையவர்களுக்காக அரசாங்கத்தினால் வழங்கப்படும் அரிசியை உண்ட கோழிகள் இறந்தன என குற்றஞ்சாட்டிய  ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான், இதற்கு அரசாங்கத்தின் பதில் என்னவென வினவினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கேள்வியெழுப்பினார்.
+
+அரசாங்கத்தின் நிவாரண அரிசியின் தரம் தொடர்பில் கடந்த காலங்களில் கேள்விகளும் எழுந்திருந்தன. இந்நிலையில்,  பாணகமுவ பிரதேசத்தில் கிராமத்தவர் ஒருவர் பெற்றுச் சென்ற அரிசியை அவர் வளர்க்கும் கோழிகளுக்கு போட்டபோது, அதனை உண்ட 7 கோழிகள் உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது. இது தொடர்பில் அரசாங்கம் அறிந்துள்ளதா? என்று கேட்டார்.
+
+இதன்போது குறிப்பிட்ட சபை முதல்வரான அமைச்சர் சுசில் பிரேமஜயந்த, உடனடியாக இது தொடர்பில் பதிலளிக்க முடியாது. விடயத்திற்கு பொறுப்பான அமைச்சரிடம் சில வாரங்களுக்கு முன்னர் இது போன்ற கேள்வியொன்று கேட்கப்பட்டது என்றார்.
+
+◼️
+
+[Data](articles/332d5314.json)
+
+---
+
+### Continuing voice for Palestine Peace
 
 *2024-05-15 00:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-அமைதிக்காக-தொடர்-குரல்கொடுப்போம்/175-337313) · `ta`
 
-பலஸ்தீன மக்கள் எதிர்நோக்கும் அவலங்கள் நீங்கி, அங்கு அமைதியை ஏற்படுத்துவதற்காக தொடர்ந்தும் குரல் கொடுப்போம் என்று முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்‌ஷ தெரிவித்துள்ளார்.
+Mahinda Rajapakse, former Sri Lankan president, emphasized the ongoing support for Palestinian peace during a parliamentary debate. He highlighted Sri Lanka's historical ties with Palestine and called for international pressure to resolve the longstanding Israeli-Palestinian conflict. Rajapakse stressed the importance of peaceful solutions over war, citing the devastating impact of conflict on Palestinians.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) நடைபெற்ற பலஸ்தீனத்தில் இன்றைய நிலவரம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-பலஸ்தீன - இலங்கை ஒத்துழைப்பு அமைப்பின் ஆரம்ப தலைவர் என்ற ரீதியில் பலஸ்தீன மக்களின் உரிமைகளுக்காக நாங்கள் குரல் கொடுத்தோம் என்றும் மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+Former President Mahinda Rajapakse has said that the Palestinian people will continue to voice their voices for peace.
 
-அன்று முதல் இன்று வரையில் பலஸ்தீனத்திற்காகவும் அந்த மக்களுக்காகவும் முன்னிற்கின்றோம். அங்குள்ள நெருக்கடிகளை தீர்க்க வேண்டுமென்று அந்த விடயத்தில் தலையிடும் அனைத்து தரப்பினருக்கும் நாங்கள் அழுத்தம் கொடுக்க வேண்டும். 7 தசாப்தங்களாக தொடரும் பலஸ்தீன - இஸ்ரேல் நெருக்கடி தொடர்பில் உலக அரசியல் தொடர்பில் அறிந்த அனைவருக்கும் புரிந்துகொள்ள முடியும். ஐ.நா கூட்டத்தில் உரையாற்றும் சந்தர்ப்பங்களில் பலஸ்தீனத்தை சுயாதீன நாடாக அறிவிக்க வேண்டும் என்றும் அந்த மக்களுக்கு சுதந்திரத்தை கொடுக்க வேண்டும் என்றும் வலியுறுத்தினோம்.
+He said this while addressing a debate on the postponement of today's situation in Palestine held in Parliament on Tuesday (14).
+
+"We have voiced the rights of the Palestinian people as the initial leader of the Palestinian -Sri Lanka Cooperation Organization," Mahinda Rajapaksa said.
+
+We have come forward to Palestine and for those people from that day. We must put pressure on all parties who intervene in the matter to solve the crises there. All those who are aware of world politics can be understood in the Palestinian -Israeli crisis that continues for 7 decades. In the events of the UN meeting, we urged Palestine to declare Palestine as an independent country and give them freedom.
 
 ...
 
 [Data](articles/c20effb5.json)
+
+[Extended Data](ext_articles/c20effb5.ext.json)
 
 ---
 
@@ -2343,25 +2367,5 @@ Accordingly, the process of placing employees at the NSB is currently underway.
 [Data](articles/c02d9c6c.json)
 
 [Extended Data](ext_articles/c02d9c6c.ext.json)
-
----
-
-### A person who came to a steal case was running out of the case and stealing a motorcycle
-
-*2024-05-14 14:50:36* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-නඩුවකට--පැමිණි-පුද්ගලයෙක්-නඩුව-ඉවර-වී-යතුරු-පැදියකුත්-හොරකම්-කරගෙනම-ගිහින්/11-409627) · `si`
-
-A suspect in a theft case was apprehended after stealing a motorcycle. The incident occurred near the Medawachchiya Magistrate's Court, where the suspect was later arrested. The police, led by OIC RMIB Ratnayake, recovered the stolen motorcycle and identified the suspect through information gathered from theft cases and drug files. The suspect was found in possession of a 45mm firearm and was subsequently arrested and brought before the Medawachchiya Magistrate's Court.
-
-🟩
-
-The suspect had been arrested and taken to the house in the Medawachchiya Magistrate's Court (11), a motorbike was arrested and arrested in the court.
-
-A person has come to a case filed by the Medawachchiya Magistrate's Court on a private keyside at the Medawachchiya Magistrate's Court.. The man had then stopped his motorcycle at the former chairman of the Medawachchiya Pradeshiya Sabha near the courts.. The man who had come to the motorcycle back to 12:00 pm on the back of 12.00 pm, the man arrived in the motorcycle where the man had come back to the motorcycle, the man had begun to seek the key. The owner of the motorcyclist had gone to the Medawachchiya Police Station, as the attempt was unable to find the motorcycle.. Medawachchiya OIC has launched a special police team including Mr. RMIB Ratnayake, including the accident.
-
-...
-
-[Data](articles/49be5d5c.json)
-
-[Extended Data](ext_articles/49be5d5c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 23:34:01**
+As of **2024-05-14 23:53:05**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,049 (100.0%) of 24,051 articles have been extended.
+24,051 (100.0%) of 24,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### பெண் கொலை; 4 வருடங்களின் பின் கிடைத்த சடலம்
+### Murder of female;The corpse that was available after 4 years
 
 *2024-05-14 22:59:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொலை-4-வருடங்களின்-பின்-கிடைத்த-சடலம்/175-337306) · `ta`
 
-காலி - தவலம பிரதேசத்தில் 4 வருடங்களுக்கு முன் கொலை செய்யப்பட்ட பெண் தொடர்பில் தற்போது தகவல் வெளியாகி உள்ளது.
+A woman named Nilushika Santamaly, mother of three, was murdered four years ago in Galle, Tawalama. Her body was found in a toilet pit in Hallakanda, hidden after being killed by her ex-husband, Padala Shantha, who also assaulted her. The case, which has been under investigation for four years, led to the arrest of Padala Shantha and another man, Hanagodake Shantha. The incident highlights a tragic case of domestic violence and murder.
 
-குறித்த பெண்ணின் கள்ளக்காதலனே  அவரை கொன்று உடலை கழிவறை குழியில் வீசியது தெரியவந்தது.
+🟩
 
-இதன்படி, நான்கு வருடங்களுக்கு முன்னர் படுகொலை செய்யப்பட்ட மூன்று பிள்ளைகளின் தாயின் (29 வயது) சடலம் காலி தவலம் ஹல்லகந்த பிரதேசத்தில் உள்ள காட்டுப்பகுதியில் உள்ள கழிவறை குழி ஒன்றில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் கண்டு பிடிக்கப்பட்டிருந்தது.
+Information about a woman who was murdered 4 years ago in Galle - Tawalama area has now been revealed.
 
-நிலுஷிகா சந்தமாலி  2020  ஜூன் 6 ஆம் திகதி முதல் காணாமல் போயிருந்த நிலையில், அவரின் தாயார் அந்த நேரத்தில் பொலிஸில் முறைப்பாடு அளித்திருந்தார்.
+It was revealed that the woman's illicit killed him and threw his body into the toilet cavity.
 
-தனது முதல் திருமணத்திலிருந்து விவாகரத்து பெற்ற நிலுஷிகா, தனது இரண்டு குழந்தைகளுடன் "பதல சாந்த" என்ற ஆணுடன் வாழ்ந்து வந்தார், அவர்களுக்கு ஒரு ஆண் குழந்தை ஒன்றும் உள்ளதாக தெரிவிக்கப்படுகிறது.
+Accordingly, the body of the mother of three children who was murdered four years ago was found hidden in a toilet pit in the forest area in Hallakanda area in Galle.
 
-மூன்று பிள்ளைகளின் தாயான இவர் காணாமல் போனமை தொடர்பில் அப்போது பொலிஸார் விசாரணைகளை மேற்கொண்ட போதும் எவ்வித தகவலையும் வெளிக்கொணர முடியவில்லை.
+Her mother had lodged a complaint with the police at the time as Nilushika Santamaly had disappeared since June 6, 2020.
+
+Nilushika, who was divorced from her first marriage, lived with her two children with a man named "Padala Shantha" and has a baby boy.
+
+The mother of the three children, she was investigating the disappearance of the police, but could not reveal any information.
+
+It is against this backdrop that investigations into the incident have been sent to the Galle Division.
 
 ...
 
 [Data](articles/aa7024b8.json)
+
+[Extended Data](ext_articles/aa7024b8.ext.json)
 
 ---
 
@@ -268,21 +276,27 @@ The passengers were accused of stopping at the Horabe Railway Station at around 
 
 ---
 
-### ජනගහනය අනුව 1000ට වෛද්‍ය නිලධාරීන් 1.2ක්
+### 1.2 medical officers to 1000 per population
 
 *2024-05-14 19:54:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනගහනය-අනුව-1000ට-වෛද්‍ය-නිලධාරීන්-1-2ක්/11-409636) · `si`
 
-වර්ථමානයේ රෝගී අනුපාතනය අනුව ජනගහණය 1000ට වෛද්‍ය නිලධාරීන් 1.2ක් සිටින බවත්, එමෙන්ම රෝගී ඇඳන් අනුපාතය අනුව ජනගහණය 1000ට රෝගී ඇඳන් 4ක් තිබෙන බවත් පාර්ලිමේන්තුවේදී අනාවරණය විය.
+Sri Lanka has 1.2 medical officers per 1000 population, with 35,528 registered doctors under the Sri Lanka Medical Council. The Health Minister revealed the number of hospitals and beds, including 1,101 central state-owned hospitals, 190 private hospitals, and 41,109 beds in Provincial Councils. There's a concern about the outdated cart system and a shortage of cards, with instructions to build a new one.
 
-එමෙන්ම වර්ථමානයේ ශ්‍රී ලංකා වෛද්‍ය සභාව යටතේ ලියාපදිංචි ක්‍රියාකාරී වෛද්‍යවරැන් සංඛ්‍යාව 35,528ක් බවද මෙහිදී අනාවරණය විය.
+🟩
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරැණාතිලක මහතා ඊයේ(14දා) වාචික පිළිතුරැ අපේක්ෂාවෙන් පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් සෞඛ්‍ය රාජ්‍ය අමාත්‍ය වෛද්‍ය සීතා අරඹේපොල මහත්මිය මේ බව අනාවරණය කළාය.
+The population has 1.2 medical officers at the sickness rate and that 1000 population has 4 illness by the rate of illness.
 
-සෞඛ්‍ය රාජ්‍ය අමාත්‍ය වෛද්‍ය සීතා අරඹේපොල - ශ්‍රී ලංකාවේ මධ්‍යම රජයට අයත් රෝහල් සංඛ්‍යාව 60යි. පළාත් සභා වලට අයත් රෝහල් සංඛ්‍යාව 1,101යි. ශ්‍රී ලංකාවේ පෞද්ගලික අංශයට අයත් රෝහල් සංඛ්‍යාව 190යි. මධ්‍යම රජයේ රෝහල් වල ඇඳන් සංඛ්‍යාව 45,713යි.  පළාත් සභා වලට අයත් රෝහල් වල ඇඳන් සංඛ්‍යාව 41,109යි. පෞද්ගලික රෝහල් වල ඇඳන් සංඛ්‍යාව 5381යි. ඊට අමතරව අමාත්‍යාංශ හා දෙපාර්තමේන්තු වල සෞඛ්‍ය ආයතන වල 2,964ක් ඇඳවල් තියෙනවා.
+It was also revealed that 35,528 registered doctors under the Sri Lanka Medical Council.
+
+The Health Minister of Health has revealed this to a question referred to as a question referred to in Parliament yesterday (14) with the prospect of verbal answered in Parliament yesterday (14).
+
+Health Minister of Health Dr. Seeetha Ariyapola - Sri Lanka's central state-owned hospitals. There are 1,101 hospitals belonging to the Provincial Councils. The number of hospitals belonging to the private sector in Sri Lanka is 190. 45,713 in central government hospitals are 45,713. The number of beds of the Provincial Councils is 41,109. The number of beds of private hospitals is 5381. In addition, there are 2,964 health institutions in the Ministry of Ministries and Departments.
 
 ...
 
 [Data](articles/d7841dfb.json)
+
+[Extended Data](ext_articles/d7841dfb.ext.json)
 
 ---
 

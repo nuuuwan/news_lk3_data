@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 07:55:28**
+As of **2024-05-14 08:07:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,821
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,851 (100.0%) of 23,855 articles have been extended.
+23,855 (100.0%) of 23,855 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/1fb5515b.json)
 
+[Extended Data](ext_articles/1fb5515b.ext.json)
+
 ---
 
-### අත්ට්‍රැක්ටරයක් දුම්රියේ ගැටෙයි
+### Attachider collides
 
 *2024-05-14 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196598) · `si`
 
-කොස්ගොඩ, දුවේමෝදර දුම්රිය හරස් මාර්ගය හරහා ධාවනය වූ අත් ට්‍රැක්ටරයක් දුම්රියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+A man was killed in a train accident near Matara, hit by a train traveling to Maradana. The driver, seriously injured, died in Balapitiya hospital. Another passenger is in Karapitiya Hospital. The deceased, a 49-year-old from Dehiigahawela, was identified.
 
-ඊයේ (13) සවස් කාලයේ එම අනතුර සිදුව තිබුණේ මාතර සිට මරදාන බලා ධාවනය වූ ශීඝ්‍රගාමී දුම්රියේ ගැටීමෙනි.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබූ අත් ට්‍රැක්ටර් රථයේ රියදුර හා එහි ගමන් ගත් පුද්ගලයෙකු බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු රියදුරු මියගොස් ඇත.
+A man hit by a train accident was killed in a train tractor.
 
-අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා කරාපිටිය රෝහල වෙත මාරුකර යවා ඇති බව පොලීසිය පවසයි.
+The accident occurred in the evening yesterday due to the rapid train traveling from Matara to Maradana.
 
-අනතුරින් මියගොස් ඇත්තේ, දෙහිගහවෙල ප්‍රදේශයේ පදිංචිව සිටි 49 හැවිරිදි පුද්ගලයෙකි.
+The driver was killed after being admitted to the Balapitiya hospital with serious injuries.
+
+The other person has been transferred to the Karapitiya Hospital for further treatment.
+
+The deceased has been identified as a 49 year old resident of Dehiigahawela.
 
 ◼️
 
 [Data](articles/2687a84c.json)
+
+[Extended Data](ext_articles/2687a84c.ext.json)
 
 ---
 
@@ -449,6 +457,8 @@ Elections provide a unique situation where people become equal regardless of the
 ...
 
 [Data](articles/d2523c6c.json)
+
+[Extended Data](ext_articles/d2523c6c.ext.json)
 
 ---
 
@@ -1782,21 +1792,27 @@ Another space rock is approximately 72 lakh km from Earth, while traveling at a 
 
 ---
 
-### දුරකතනය චාජ් කරන්න ගිහින් පස් හැවිරිදි දැරිය විදුලි සැර වැදී මරුට
+### Five-year-old girl killed and dies after go to Charc
 
 *2024-05-13 19:16:16* · [`adalk`](https://www.ada.lk/breaking_news/දුරකතනය-චාජ්-කරන්න-ගිහින්-පස්-හැවිරිදි-දැරිය-විදුලි-සැර-වැදී-මරුට/11-409610) · `si`
 
-ජංගම දුරකථනය ආරෝපණය කිරීමට යාමේදී විදුලි සැරවැදී පස් හැවිරිදි දැරියක මියගොස් ඇති බව පයාගල පොලිසිය පවසයි.
+A five-year-old girl died after being electrocuted while charging her mobile phone at home in Payagala. Identified as a girl from Mugagon, Munhena, she was taken to Beruwala Hospital, where she passed away. Her body is now at the Kalutara Sath Hospital for a post-mortem examination.
 
-මෙසේ මියගොස් ඇත්තේ මග්ගොන මුංහේන ප්‍රදේශයේ පදිංචිව සිටී විහිගි නෙතාෂා නමැති දැරියක බව පොලිසිය කීය
+🟩
 
-මියගොස් ඇති දැරිය නිවසේදී ජංගම දුරකථනයක් ආරෝපණය කිරීම සදහා සූදානම් වීමේදී  විදුලි සැර වැදී ඇති අතර , බේරුවල ප්‍රාදේශීය රෝහලට රැගෙන ගොස් ඇති අතර , ඇය මියගොස් ඇති බව වෛද්‍යවරුන් පවසා ඇති බව සදහන් වේ.
+A five-year-old girl has died in charge of the mobile phone, Payagala Police said.
 
-මෘතදේහය බේරුවල ප්‍රාදේශීය රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය සදහා කළුතර ශීක්ෂණ රෝහලට යොමුකිරීම නියමිත බව සදහන් වේ.
+The deceased has been identified as a girl from Mugagon, Munhena, police said.
+
+The deceased has been preparing to charge a mobile phone at home and he has been taken to the Beruwala Authorization and she had said that she had died.
+
+The body is placed at the Beruwala Divisional Hospital and is to be sent to the Kalutara Sath Hospital for post mortem.
 
 ◼️
 
 [Data](articles/abf3d7cc.json)
+
+[Extended Data](ext_articles/abf3d7cc.ext.json)
 
 ---
 

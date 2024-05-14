@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 08:33:50**
+As of **2024-05-14 08:52:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,859 (100.0%) of 23,860 articles have been extended.
+23,860 (100.0%) of 23,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -598,19 +598,25 @@ Special training in the military, unable to leave the service during this period
 
 ---
 
-### கிரிக்கெட் அணிக்கு ஜனாதிபதி வாழ்த்து
+### President wishes to cricket team
 
 *2024-05-14 01:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-அணிக்கு-ஜனாதிபதி-வாழ்த்து/175-337273) · `ta`
 
-அமெரிக்கா மற்றும் மேற்கிந்தியத் தீவுகளில் ஜூன் 01 ஆம் திகதி முதல் ஜுன் 29 ஆம் திகதி வரை நடைபெறவுள்ள இருபதுக்கு 20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்றுவதற்காக நாட்டிலிருந்து புறப்பட்டுச் செல்லும் இலங்கை கிரிக்கெட் அணியினர் நேற்று பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்தனர்.
+The Sri Lankan cricket team, led by Vanitu Hasaranga, met President Ranil Wickremesinghe before their Twenty20 World Cup journey in the US and West Indies. The President wished them luck and success.
 
-வனிது ஹசரங்க தலைமையிலான 15 வீரர்கள் அடங்கிய இலங்கை கிரிக்கெட் அணி இன்று காலை நாட்டிலிருந்து புறப்படவுள்ளது.
+🟩
 
-வீரர்களை ஊக்குவித்த ஜனாதிபதி, அவர்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார். நாட்டிற்கு சிறந்த வெற்றியுடன் வருங்கள் எனவும் அவர்களை வாழ்த்தினார். (a)
+The Sri Lankan cricket team from the country met with President Ranil Wickremesinghe at the presidential office yesterday afternoon to participate in the Twenty20 World Cup in the United States and West Indies from June 01 to June 29.
+
+The Sri Lankan cricket team, which includes 15 players led by Vanitu Hasaranga, will leave the country this morning.
+
+The President, who promoted the soldiers, had a friendly discussion with them. He also congratulated them with the best success for the country. (A)
 
 ◼️
 
 [Data](articles/d2bb174e.json)
+
+[Extended Data](ext_articles/d2bb174e.ext.json)
 
 ---
 

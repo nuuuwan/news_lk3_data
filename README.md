@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 15:18:37**
+As of **2024-05-14 15:34:00**
 
 ## Newspaper Stats
 
-*Scraped **23,959** Articles*
+*Scraped **23,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,298
 economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,043
-adaderanalk | 2,790
+adaderanalk | 2,791
 tamilmirrorlk | 2,809
 virakesarilk | 3,587
 dailymirrorlk | 3,770
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,953 (100.0%) of 23,959 articles have been extended.
+23,959 (100.0%) of 23,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Keheliya’s writ fixed for consideration by Appeals Court
+
+*2024-05-14 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99212/keheliyas-writ-fixed-for-consideration-by-appeals-court) · `en`
+
+The Court of Appeal ordered that the writ application filed by former Health Minister Keheliya Rambukwella, seeking an order to invalidate the decision taken by the Maligakanda Magistrate’s Court to remand him in custody until the conclusion of the trial related to the import of substandard immunoglobulin vials, will be taken up for consideration on May 31.
+
+The petition was taken up for consideration before a two-member Appeals Court judge bench comprising Justices Nissanka Bandula Karunaratne and Shashi Mahendran on Tuesday (14).
+
+Thereafter, the court ordered for the petition to be taken up for consideration on May 31 and for it to be considered from the beginning once again.
+
+...
+
+[Data](articles/940f25cb.json)
+
+---
 
 ### Athapaththu climbs T20I rankings after stellar performance
 
@@ -47,6 +63,8 @@ Glenn’s haul of four for 12 and Bell’s figures of three for 22 in the first 
 ...
 
 [Data](articles/8d5c57b7.json)
+
+[Extended Data](ext_articles/8d5c57b7.ext.json)
 
 ---
 
@@ -68,6 +86,8 @@ Accordingly, the process of placing employees at the NSB is currently underway.
 
 [Data](articles/c02d9c6c.json)
 
+[Extended Data](ext_articles/c02d9c6c.ext.json)
+
 ---
 
 ### Governemnt approves Technology Promotion Act
@@ -84,25 +104,35 @@ The amendment of the Information and Communication Technology Act was necessary 
 
 [Data](articles/91178517.json)
 
+[Extended Data](ext_articles/91178517.ext.json)
+
 ---
 
-### போரின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் - அம்பிகா சற்குணநாதன்
+### The government's aim is to stop the commemoration of violence and violence during the final period of the war - Ambika Sakkunanathan
 
 *2024-05-14 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183516) · `ta`
 
-இலங்கையின் உள்நாட்டு யுத்தத்தின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் என்பதை முள்ளிவாய்க்கால் கஞ்சி வழங்கப்படுவதை தடை செய்யும் அரசாங்கத்தின் தொடர்ச்சியான நடவடிக்கைகளும் அதற்காக தெரிவிக்கப்படும் காரணங்களும் தெளிவாக வெளிப்படுத்துகின்றன என இலங்கைமனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்
+The Sri Lankan government aims to halt commemorations of the final war period, particularly the Mullivaikkal event, which is seen as a reminder of the LTTE. Initially, the ban was justified by disease prevention, but it's now clear the government seeks to erase references to the LTTE and the violence of the war's end. Despite this, the Human Rights Commission intervened to allow the event in Batticaloa, highlighting the government's changing justifications for the ban.
 
-அரசாங்கத்தை பொறுத்தவரை மே18 ம் திகதியை நினைவுகூருவது  தமிழீழ விடுதலைப்புலிகளுக்கு புத்துயுர் கொடுப்பதாகும்.
+🟩
 
-நினைவேந்தல் நிகழ்வுகளை தடை செய்வதற்கான காரணங்கள் நோய் பரவுவதை தடுப்பதிலிருந்து  தமிழீழ விடுதலைப்புலிகள் புத்துயுர் பெறுவதை தடுப்பதாக மாற்றமடைந்துள்ளன.
+Former Commissioner of the Sri Lanka Rights Commission, Ambika Sakthkunanathan, said that the government's continued actions and reasons for the prohibition of the Mullivaikkal porridge are clearly revealed that the government's aim is to stop the references and violence in the final periods of Sri Lanka's civil war.
 
-இதுபோரின் இறுதிகாலப்பகுதிகளில் இடம்பெற்றகொடுரங்கள் மற்றும் வன்முறையை நினைவுகூருவதை நிறுத்துவதே அரசாங்கத்தின் நோக்கம் என்பதை வெளிப்படுத்தியுள்ளன.
+As far as the government is concerned, the Liberation Tigers of Tamil Eelam (LTTE) is refreshing to recall on May 18.
 
-இன்றுகாலை மட்டக்களப்பில் மக்கள் முள்ளிவாய்க்கால் கஞ்சியை பரிமாறுவதை பொலிஸார் தடுத்தனர் என தகவல்கள் வெளியாகியுள்ளன.
+The reasons for the ban on the events have been changed from preventing the spread of the disease from the prevention of the Liberation Tigers of Tamil Eelam (LTTE).
 
-...
+In the last days of the war, the government's aim of the government is to stop commemoration of violence and violence.
+
+According to reports, people in Batticaloa this morning have blocked the transport of Mullivaikkal porridge.
+
+They have been granted permission only after the intervention of the Human Rights Commission of Sri Lanka has intervened.
+
+◼️
 
 [Data](articles/fec1e5b4.json)
+
+[Extended Data](ext_articles/fec1e5b4.ext.json)
 
 ---
 
@@ -172,35 +202,49 @@ Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees
 
 ---
 
-### நினைவேந்தலை தடுப்பது நல்லிணக்கத்திற்கு அடிக்கும் சாவு மணி - மு. சந்திரகுமார்
+### Preventing Memorial Reconciliation. Chandrakumar
 
 *2024-05-14 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183508) · `ta`
 
-சர்வதேசத்தின் பங்களிப்புடன் மேற்கொள்ளப்பட்ட நிலைமாறுகால நீதி பொறிமுறையில் நினைவேந்தல் மிக முக்கிய பகுதியாகும். எனவே அந்த நினைவேந்தல் நிகழ்வை கூட தமிழ் மக்கள் மேற்கொள்ள முடியாத படி அரசும் அதன் கட்டமைப்பான பொலிஸாரும் மேற்கொள்ளும் தடை நடவடிக்கைகள் இந்த நாட்டின் நல்லிணக்கத்தின் மீது அடிக்கும் சாவு மணியே, என முன்னாள் நாடாளுமன்ற உறுப்பினரும், சமத்துவக் கட்சியின் பொதுச் செயலாளருமான மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+Chandrakumar criticizes the Sri Lankan government for failing to facilitate ethnic reconciliation, essential for transitional justice. He highlights the inability of the Tamil community to commemorate their losses due to the government's lack of support, emphasizing the need for justice and harmony to achieve sustainable peace.
 
-2009 இல் இடம்பெற்ற இறுதி யுத்தத்தில் ஏராளமான மக்கள் கொல்லப்பட்டார்கள், கொல்லப்பட்டவர்களை நினைவு கூர்ந்து தங்களை ஆற்றுப்படுத்திக்கொள்வதற்கு கூட முடியாத அளவுக்கு இலங்கையில் தமிழ் மக்கள் மீது அடக்கு முறை பிரயோகிக்கப்படுகிறது. தெற்கிற்கு ஒரு நீதி வடக்கிற்கு ஒரு நீதி என்ற நிலைப்பாட்டில் தமிழ் மக்கள் மீதான் செயற்பாடுகள் முன்னெடுக்கப்படுகிறது.
+🟩
 
-இந்த சிறிய தீவில் இனங்களுக்கிடையே நல்லிணக்கத்தை ஏற்படுத்த வேண்டிய அரசும் அதன் கட்டமைப்பு பாரபட்சமாக நடந்து கொள்வது என்பது ஒரு காலமும் இனங்களுக்கு இடையே நல்லிணக்கத்தை ஏற்படுத்தாது.
+Commemoration is the most important part of the transitional justice mechanism carried out with the participation of the international. Therefore, the Tamil people are unable to carry out that commemoration, the government and its structure, the death of the country, the death of the country's reconciliation, the former MP and the General Secretary of the Equality Party.. Chandrakumar said.
+
+In the final war in 2009, a large number of people were killed and the Tamil people in Sri Lanka were unable to recall themselves and recall themselves.. The actions of the Tamil people are being carried out in the position of justice to the North to the North.
+
+The government that is supposed to bring harmony between ethnicity on this small island does not cause harmony between the ethnicities.
+
+He said that when there was no reconciliation between the ethnic cleansing, there would be no sustainable peace in Sri Lanka.
 
 ...
 
 [Data](articles/6ce8d96c.json)
 
+[Extended Data](ext_articles/6ce8d96c.ext.json)
+
 ---
 
-### නිර්මාණශීලීබව , ඉවසීම ලැබෙන වෙසක් කූඩුව
+### Creative, League
 
 *2024-05-14 14:09:48* · [`adalk`](https://www.ada.lk/breaking_news/නිර්මාණශීලීබව---ඉවසීම-ලැබෙන-වෙසක්-කූඩුව/11-409626) · `si`
 
-රට තුල විකිණෙන ආනයනික ප්ලාස්ටික් සහ කාඩ් බෝඩ් වෙසක් කූඩු  නිසාවෙන් දේශීය වෙසක් කූඩු නිර්මාණකරුවන්ගේ නිෂ්පාදන විකුණා ගැනීමට දැඩි අපහසුතාවයක් පවතින බවත්, එමගින් රට තුල සිටින  දරු පරපුරේ නිර්මාණශීලීතාවය, ඉවසීම සහ අවබෝධය වැනිදේ ඔවුන්ගේ සිත් වලින් මැකී ගොස් ඇති බව වෙසක් කූඩු නිෂ්පාදකයෝ පවසති.
+Vesak lantern manufacturers face challenges selling locally made lanterns due to competition from imported ones. They emphasize the need for creativity, patience, and understanding to compete. Despite this, they express a lack of knowledge and creativity among adults to innovate and improve their products. They call for government intervention to support local lantern industries.
 
-උණ බට කපාගෙන ඇවිත් ඒවා ක්‍රමවත් ලෙස සකස් කරගෙන වෙසක් කූඩු නිර්මාණය කිරීම තුළින් ඉවසීම,ජීවිතය පිළිබඳ අවබෝධය, නිර්මාණශීලී  බව හා සහයෝගීත්වය  වැඩි දියුණු කර ගැනීමට දරුවන් සහ වැඩිහිටියන් සියලුම දෙනාට උපකාරී වන බවද ප්ලාස්ටික් වෙසක් කූඩුව තුලින් එම කිසිවක් නිසියාකාරව ලබා ගැනීමට නොහැකි බව වෙසක් කූඩු නිර්මාණකරුවන් මෙහිදී පෙන්වා දුන්හ.
+🟩
 
-රජයේ අවශ්‍ය බලධාරීන් මැදිහත් වී පිටරටින් ගෙන්වන මෙම වෙසක් කූඩු  නවතාලීමට කටයුතු කරන ලෙසද ඔව්හු මෙහිදී ඉල්ලීමක් ඉස්සර සිටියහ. (IJ)
+Vesak cages manufacturers say that it has difficulty selling the products of local lanterns, creating creativity, patience, and understanding because of the vessel soldiers sold in the country.
+
+Wesak celebrations are not able to obtain the knowledge, creativity, creative and adults to improve the flu and creative creation by creating the west of wescs.He pointed out.
+
+They were asked to stop the required governmental authorities to stop the necessary lantern. (Ij)
 
 ◼️
 
 [Data](articles/09a1db9e.json)
+
+[Extended Data](ext_articles/09a1db9e.ext.json)
 
 ---
 
@@ -2219,25 +2263,5 @@ MP Sudarshani Fernandopulle said that he had requested to take measures to incre
 [Data](articles/6b302c1c.json)
 
 [Extended Data](ext_articles/6b302c1c.ext.json)
-
----
-
-### Hundreds of Sri Lankans hospitalised in Russia-Ukraine war; legislator seeks special envoy
-
-*2024-05-14 06:50:00* · [`economynextcom`](https://economynext.com/hundreds-of-sri-lankans-hospitalised-in-russia-ukraine-war-legislator-seeks-special-envoy-162804/) · `en`
-
-ECONOMYNEXT – Sri Lanka should make greater efforts to bring back citizens in mercenary companies who injured in a war between Russia and Ukraine, including sending a special presidential envoy, legislator Dayasiri Jayasekera said.
-
-“If we can, send a special envoy from the President to Russia, and discuss with the Defence Secretary at least to bring back the injured in Russian hospitals,” Jayasekera who was one of the first legislators to bring attention to the growing recruitment of Sri Lankan ex-soldiers for Russia’s war.
-
-“There are many injured Sri Lankans in Russia. Some have lost their fingers, in others legs have been cut (kakul kaperla).
-
-“Then we can secondly bring back the people in the camps. There is a diplomatic intervention that is needed. We need some plan to bring back the 600 or so people who are there.”
-
-...
-
-[Data](articles/fbd3e678.json)
-
-[Extended Data](ext_articles/fbd3e678.ext.json)
 
 ---

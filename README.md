@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 22:18:19**
+As of **2024-05-14 22:33:38**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,044 (100.0%) of 24,046 articles have been extended.
+24,046 (100.0%) of 24,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### නිවාස කිහිපයක් වැසි ජලයෙන් යටවෙයි
+### Several houses flooded in rainwater
 
 *2024-05-14 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196630) · `si`
 
-අද (14) පස්වරුවේ ඇදහැලුණු අධික වර්ෂාව හේතුවෙන් වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කෙරවලපිටිය ප්‍රදේශයේ නිවාස කිහිපයක් ජලයෙන් යටවී ඇති බව වාර්තා වෙයි.
+Heavy rains flooded several houses in Kerawalapitiya, Wattala, due to blocked drainage systems from unauthorized construction.
 
-අනවසර ඉදිකිරීම් හේතුවෙන් ජලය බැස යන කාණු පද්ධති අවහිරවීමෙන් නිවාස 20ක පමණ අඩි 2ත් 3ත් අතර ප්‍රමාණයකින් වැසි ජලයෙන් යටවී ඇති බව තවදුරටත් වාර්තා වෙයි.
+🟩
+
+It is reported that several houses have been flooded in the Kerawalapitiya area in Wattala Divisional Secretariat, the heavy rains that were passed this afternoon.
+
+It is also reported that the rainy drainage systems that drain is blocked due to unauthorized construction.
 
 ◼️
 
 [Data](articles/741b1af6.json)
+
+[Extended Data](ext_articles/741b1af6.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ Also, it states that the turbulent nature developing in the lower atmosphere nea
 ◼️
 
 [Data](articles/89a09129.json)
+
+[Extended Data](ext_articles/89a09129.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 17:54:29**
+As of **2024-05-14 18:11:55**
 
 ## Newspaper Stats
 
-*Scraped **24,001** Articles*
+*Scraped **24,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 2,049
 adaderanalk | 2,793
 tamilmirrorlk | 2,811
 virakesarilk | 3,598
-dailymirrorlk | 3,774
+dailymirrorlk | 3,776
 adaderanasinhalalk | 3,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,980 (99.9%) of 24,001 articles have been extended.
+23,999 (100.0%) of 24,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Up in the sky...
+
+*2024-05-14 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Up-in-the-sky/110-282585) · `en`
+
+The Base Jump event from the Colombo Lotus Tower took place for third day today. A total of 35 International Base Jumpers exhibited their adrenaline-fueled skills. The event was launched on Sunday (12). Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/a355afe8.json)
+
+---
+
+### India extends ban imposed on LTTE for five years
+
+*2024-05-14 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-extends-ban-imposed-on-LTTE-for-five-years/108-282584) · `en`
+
+India on May 14 extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
+
+In a notification, the Home Ministry said the Central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
+
+It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of 'Eelam' (an independent country for Tamils) and has been clandestinely working towards the 'Eelam' cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
+
+...
+
+[Data](articles/ca607fc8.json)
+
+---
 
 ### Sri Lanka’s EDB and Peoples’ Bank tie up to offer exporters finance, knowledge
 
@@ -47,6 +75,8 @@ The collaboration will provide educational initiatives for the Bank’s staff to
 ◼️
 
 [Data](articles/b7fc237e.json)
+
+[Extended Data](ext_articles/b7fc237e.ext.json)
 
 ---
 
@@ -72,6 +102,8 @@ A bond maturing on 01.10.2032 closed down at 11.85/95 percent from 11.90/12.10 p
 
 [Data](articles/5ccdf7ec.json)
 
+[Extended Data](ext_articles/5ccdf7ec.ext.json)
+
 ---
 
 ### Sri Lanka govt workers want basic salary hike over cost of living allowances
@@ -91,6 +123,8 @@ General secretary of the Joint Health Services Association Tampitiye Sugathanand
 ...
 
 [Data](articles/41692da5.json)
+
+[Extended Data](ext_articles/41692da5.ext.json)
 
 ---
 
@@ -112,49 +146,71 @@ The arrested suspect and the suspects were remanded until May 27.
 
 ---
 
-### சரத்குமார் - விஜய் கனிஷ்கா இணைந்து நடிக்கும் 'ஹிட் லிஸ்ட்' படத்தின் ஓடியோ வெளியீடு
+### Sarathkumar - Vijay Kanishka co -starring 'Hit List'
 
 *2024-05-14 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183538) · `ta`
 
-'சுப்ரீம் ஸ்டார்' ஆர். சரத்குமார்- புதுமுக நாயகன் விஜய் கனிஷ்கா இருவரும் இணைந்து மிரட்டி இருக்கும் 'ஹிட் லிஸ்ட்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் பிரம்மாண்டமாக நடைபெற்றது. அப்போது தமிழ் திரையுலகத்தின் முன்னணி இயக்குநர்களும், பிரபலமான திரைப்பட தயாரிப்பாளர்களும், முன்னணி நட்சத்திர நடிகர்களும் திரளாக பங்கு பற்றி விஜய் கனிஷ்காவிற்கு வாழ்த்து தெரிவித்தனர்.
+Sarathkumar and newcomer Vijay Kanishka co-star in 'Hit List', a Tamil film directed by R. Sarathkumar, among others. The music release in Chennai was attended by top Tamil film industry figures, who praised Vijay Kanishka's dedication and acting skills. The film features a star-studded cast and is produced by K. S. Ravikumar. The first song was recently released, followed by the music launch event.
 
-இயக்குநர்கள் சூரியக்கதிர்- கே. கார்த்திகேயன் ஆகியோர் இயக்கத்தில் உருவாகி இருக்கும் 'ஹிட் லிஸ்ட்' எனும் திரைப்படத்தில் ஆர். சரத்குமார், விஜய் கனிஷ்கா, சமுத்திரக்கனி, கௌதம் வாசுதேவ் மேனன், முனீஸ் காந்த், ரெடின் கிங்ஸ்லீ, சித்தாரா, ஸ்மிருதி வெங்கட், ராமச்சந்திர ராஜு, ராமச்சந்திரன், ஐஸ்வர்யா தத்தா, அபி நட்சத்திரா, அனுபமா குமார், பால சரவணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. ராம்சரண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சி. சத்யா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ஆர். கே. செல்லுலாய்ட்ஸ் எனும் திரைப்பட தயாரிப்பு நிறுவனம் சார்பில் தயாரிப்பாளர் கே. எஸ். ரவிக்குமார் தயாரித்திருக்கிறார்.
+🟩
+
+'Supreme Star' r. Sarathkumar- Newcomer Man Vijay Kanishka, the music release of the film 'Hit List', was held in Chennai. At the time, the leading directors of the Tamil film industry, the famous filmmakers and the leading star actors congratulated Vijay Kanishka on their participation.
+
+Directors Solar Radia. Karthikeyan is directed by R.. Sarathkumar, Vijay Kanishka, Samudrakani, Gautam Vasudev Menon, Munis Kant, Redin Kingsley, Siddara, Smriti Venkat, Ramachandra Raju, Ramachandran, Aishwarya Dutta, Abhi Star, Anupama Kumar, Bala Saravanan. K. The film has been recorded by Ramsaran. Satya has composed the music. This movie is. K. Producer K.. S.. Produced by Ravikumar.
+
+The first song of the film was recently released on the Internet. Following this, the music launch of the film was held in Chennai.
 
 ...
 
 [Data](articles/3c6c5a3e.json)
 
+[Extended Data](ext_articles/3c6c5a3e.ext.json)
+
 ---
 
-### நடிகர் பிரசன்னா வெளியிட்ட 'தி வெர்டிக்ட்' பட ஃபர்ஸ்ட் லுக்
+### Actor Prasanna's 'The Verdict' film First Look
 
 *2024-05-14 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183542) · `ta`
 
-திரைப்பட இயக்குநரும், நடிகையுமான சுகாசினி மணிரத்னம் அழுத்தமான வேடத்தில் நடித்திருக்கும் ' தி வெர்டிக்ட்' எனும் திரைப்படத்தின் முதல் பார்வை வெளியிடப்பட்டிருக்கிறது.
+"The Verdict," directed by Krishna Shankar and featuring Sukasini Mani Ratnam, has released its first look, raising anticipation. The film, produced by Agni Entertainment, stars Varalakshmi Sarathkumar, Suruthi Hariharan, Prakash Mohandas, and Vidyuleka Raman, with Aditya Rao composing and Arvind Krishna recording. The shooting is complete, and post-production is ongoing.
 
-இதனை நட்சத்திர தம்பதிகளான சினேகா மற்றும் பிரசன்னா இணைந்து அவர்களுடைய இணைய பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+🟩
 
-இயக்குநர் கிருஷ்ண சங்கர் இயக்கத்தில் உருவாகி வரும் ' தி வெர்டிக்ட்' எனும் திரைப்படத்தில் சுகாசினி மணிரத்னம், வரலட்சுமி சரத்குமார், சுருதி ஹரிஹரன், பிரகாஷ் மோகன்தாஸ், வித்யூலேகா ராமன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். அரவிந்த் கிருஷ்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆதித்யா ராவ் இசையமைத்திருக்கிறார்.
+Film director and actress Sukasini Mani Ratnam has been released in the first look of 'The Verdict'.
 
-குற்றவியல் பின்னணியில் தயாராகும் இந்த திரைப்படத்தை அக்னி என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் பிரகாஷ் மோகன்தாஸ் மற்றும் என். கோபிகிருஷ்ணன் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+Sneha and Prasanna have posted this on their web page and congratulated the film crew.
 
-...
+Directed by director Krishna Shankar, Sukasini Mani Ratnam, Varalakshmi Sarathkumar, Suruthi Hariharan, Prakash Mohandas, Vidyuleka Raman. Aditya Rao has composed the film, which is being recorded by Arvind Krishna.
+
+Producer Prakash Mohandas on behalf of Agni Entertainment Film Company. Gopikrishnan is co -produced.
+
+The shooting of the film is over and the post -shooting work is underway. In this case, the first look of the film has been released. In First Look, the expectation of the film has increased as the English version of the English text, which means' whatever it is going around us', is repeated. '
+
+◼️
 
 [Data](articles/d2986872.json)
 
+[Extended Data](ext_articles/d2986872.ext.json)
+
 ---
 
-### நுவரெலியா லவர்சீலிப் வனப்பகுதியில் சடலம் ஒன்று மீட்பு
+### Recovery of a corpse in the Nuwara Eliya Lavarcelip forest
 
 *2024-05-14 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183543) · `ta`
 
-நுவரெலியா லவர்சீலிப் பகுதியிலுள்ள வனப்பகுதியிலிருந்து ஆண் ஒருவரின் சடலம் இன்று செவ்வாய்க்கிழமை (14) மீட்கப்பட்டுள்ளது.
+A man's unidentified body, possibly aged 50-60, was found in the Nuwara Eliya Lavarselip forest on Tuesday.
 
-சடலம் அடையாளம் இதுவரை உறுதிப்படுத்தப்படவில்லை எனவும், அடையாளம் காண முடியாத அளவிற்கு சிதைவடைந்துள்ளதாகவும் , உயிரிழந்தவரின் அங்க அடையாளங்களைக் கொண்டு 50 தொடக்கம் 60 வயதாக இருக்கலாம் என சந்தேகிப்பதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+The body of a man has been recovered from the forest area in the Nuwara Eliya Lavarselip area on Tuesday (14).
+
+Police said that the body has not yet been confirmed and that it is unidentified, and that it may be 50 to 60 years old with the identities of the deceased.
 
 ◼️
 
 [Data](articles/2e47d78d.json)
+
+[Extended Data](ext_articles/2e47d78d.ext.json)
 
 ---
 
@@ -182,25 +238,33 @@ There was a net foreign outflow of 587 million. (Colombo/May14/2024)
 
 [Data](articles/e64468d2.json)
 
+[Extended Data](ext_articles/e64468d2.ext.json)
+
 ---
 
-### கசிப்பு கடத்திய இரு இளைஞர்களை பொதுமக்கள் மடக்கிப் பிடிப்பு
+### Two youths who were smuggled by leakage
 
 *2024-05-14 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183536) · `ta`
 
-சட்டவிரோதமான முறையில் 45 லீட்டர் கசிப்பை மோட்டார் சைக்கிள் மூலம் கடத்தி வந்த இரு இளைஞர்களை பிரதேச வாசிகள் மடக்கிப் பிடித்ததுடன், அவர்கள் கடத்தலுக்கு பயன்படுத்திய மோட்டார் சைக்கிளையும் பொதுமக்கள் அடித்து நொறுக்கி உள்ளனர்.
+Two youths were smuggled by a motorcycle leak, causing an accident in Pudukkudiyiruppu. They were injured and hospitalized. The public caught them smuggling from Kokkatichcholai. Police are investigating.
 
-இதனால் குறித்த வாலிபர்கள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இச்சம்பவம் நேற்று திங்கட்கிழமை (13) மாலை காத்தான்குடி பொலிஸ் பிரிவில் உள்ள புதுக்குடியிருப்பு பகுதியில் இடம்பெற்றுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்கா தெரிவித்தார்.
+🟩
 
-கொக்கட்டிச்சோலை பிரதேசத்திலிருந்து புதுக் குடியிருப்பு பகுதிக்கு கடத்தி வந்து கொண்டிருந்த நிலையிலேயே மேற்படி வாலிபர்கள் பொதுமக்களால் மடைக்க பிடிக்கப்பட்டனர்.
+Regional residents have folded two youths who have been abducted by motorcycle illegal 45 liters of leaks and have smashed the motorcycle used by the public.
 
-குறித்த வாலிபர்கள் வைத்தியசாலையில் இருந்து இன்று செவ்வாய்க்கிழமை மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டதாக காத்தான்குடி பொலிஸார் மேலும் தெரிவித்தனர்.
+The young men were injured and admitted to the hospital. The incident took place on Monday (13) evening at the Pudukkudiyiruppu area of the Kattankudy Police Division, said G. Gajanayake, Superintendent of Kattankudy Police Station.
 
-இது தொடர்பாக காத்தான்குடி பொலிஸ் நிலைய குற்றத்தடுப்பு பிரிவினர் தீவிர விசாரணைகளை மேற்கொண்டுள்ளனர்.
+The young men were caught by the public as they were smuggled from Kokkatichcholai to the new residential area.
+
+Kattankudy police said that the youths were produced before the Batticaloa Magistrate's Court on Tuesday.
+
+The Kattankudy Police Station Criminal Investigation Division is conducting serious investigations.
 
 ◼️
 
 [Data](articles/77e3d2cb.json)
+
+[Extended Data](ext_articles/77e3d2cb.ext.json)
 
 ---
 
@@ -254,21 +318,31 @@ The girl, who had returned home from preschool, was using a mobile phone while i
 
 ---
 
-### திருகோணமலையில் மாணவி உயிர்மாய்ப்பு
+### Student survival in Trincomalee
 
 *2024-05-14 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183540) · `ta`
 
-திருகோணமலை உப்புவெளி பொலிஸ் பிரிவுக்குட்பட்ட தேவாநகர் பகுதியில் பாடசாலை மாணவி ஒருவர் உயிரை மாய்த்துள்ளார். இன்று செவ்வாய்க்கிழமை (14) காலை இடம்பெற்ற குறித்த சம்பவத்தில் கோணேஸ் துசானி (வயது 17) என்ற மாணவியே உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+In Trincomalee, a school girl from Devanagar died after an argument, leading to her attempted suicide. The incident, involving a girl and her mother, resulted in the girl's death on the way to the hospital. The Uppuweli police are investigating. Additionally, an 18-year-old from Kinniya and a 32-year-old in Muttur-Bharathipuram died recently. The public calls for social organizations to address the increasing number of such incidents.
 
-திருகோணமலை தேவாநகர் பகுதியில் வசித்துவரும் குறித்த சிறுமிக்கும் தாய்க்கும் இடையே இன்றைய தினம் காலை வாக்குவாதம் ஏற்பட்டதாகவும், இதன் பின்னர் தாய் குறித்த சிறுமியின் அக்காவை பாடசாலைக்கு அழைத்துச் சென்றதாகவும் தெரியவருகின்றது.
+🟩
 
-இதன் பின்னர் காலை 7.00 மணியளவில் குறித்த சிறுமி உயிரை மாய்க்க முயற்சித்ததாகவும் அயலவர்கள் சிறுமியைக் காப்பாற்றி திருகோணமலை வைத்தியசாலைக்கு கொண்டு செல்லும் வழியில் சிறுமி உயிரிழந்ததாகவும் தெரிவிக்கப்படுகின்றது.
+A school girl in Devanagar area of the Uppuweli police division in Trincomalee. Gonase Dusani (age 17) has died in the incident which took place this morning (14).
 
-உயிரிழந்த சிறுமியின் சடலம் பிரேத பரிசோதனை மேற்கொள்ளப்பட்ட பின்னர் பெற்றோரிடம் ஒப்படைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளை உப்புவெளி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+It is reported that there was an argument between a girl and a mother who lives in Devanagar, Trincomalee, and then took the girl's sister to school.
 
-...
+It was later reported that the girl had tried to make her life at around 7.00 am and the girl died on the way to the Trincomalee hospital.
+
+The body of the deceased girl has been handed over to the parents after the autopsy is carried out. Further investigations are being carried out by the Uppuweli police.
+
+It is also worth noting that an 18 -year -old girl from Kinniya died today (14) and a 32 -year -old young family member in Muttur - Bharathipuram on the 12th.
+
+The public is demanding that social organizations come forward to prevent or control the number of people who have been living in recent years.
+
+◼️
 
 [Data](articles/93695397.json)
+
+[Extended Data](ext_articles/93695397.ext.json)
 
 ---
 
@@ -318,41 +392,55 @@ The decision on whether the court will issue an enjoining order will be delivere
 
 ---
 
-### சாதாரண தர பரீட்சை நிறைவடைந்தவுடன் உயர்தர கற்கையை ஆரம்பிக்க அமைச்சரவை அங்கீகாரம்
+### Cabinet approval to launch a high -quality study once the normal grade exam is completed
 
 *2024-05-14 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183537) · `ta`
 
-கல்விப் பொதுத் தராதர சாதாரணதர பரீட்சை முடிந்தவுடன் பாடசாலைகளில் கல்விப் பொதுத் தராதர உயர்தர வகுப்புகளை ஆரம்பிப்பதற்கு கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet approved a plan to start GCE Advanced Level classes immediately after the GCE Ordinary Level exam, aiming to enhance education quality and address social issues by providing adequate time for teachers and students.
 
-கல்விப் பொதுத்தராதர சாதாரணதர பரீட்சை முடிந்தவுடன் அதன் பெறுபேறுகளை வெளியிடுவதற்கு  பரீட்சைகள் திணைக்களத்துக்கு குறைந்தது மூன்று மாதங்கள் தேவையாகும். இக்காலப்பகுதியில்  மாணவர்கள் பாடசாலைக் கல்வியிலிருந்து விலகியிருப்பதால், அவர்கள் கல்வி பொதுத்தராதர  உயர்தரத்தை பயில்வதற்கான போக்குகள் குறைவடைவதால் பல்வேறு சமூகப் பிரச்சினைகள்  உருவாவதற்குக் காரணமாக அமைந்துள்ளது.
+🟩
 
-இவ்விடயத்தைக் கருத்தில் கொண்டு மாணவர்களுடைய நேரத்தை பயனுள்ளவாறு முகாமைத்துவப்படுத்துவதற்கும் க.பொ.த உயர்தர  பாடவிதானங்களை  உள்ளடக்குவதற்காக  ஆசிரியர்களுக்கு போதியளவு நேரத்தை ஒதுக்கி வழங்குவதற்கு இயலுமாகும் வகையில்  2024ஆம் ஆண்டில் சாதாரண பரிட்சை பூர்த்தியானதுடன் பாடசாலைகளில் உயர்கல்வி கற்கை நடவடிக்கைகளை ஆரம்பிப்பது பொருத்தமானதெனக் கண்டறியப்பட்டுள்ளது.
+The Cabinet has approved the proposal submitted by Minister of Education Susil Premjayantha to begin the GCE Ordinary Level Examination after the GCE Ordinary Level Examination.
 
-...
+The Department of Examinations requires at least three months to publish its results after the GCE Ordinary Level Examination. During this period, students have left school education and the tendencies of education in education are reduced to various social problems.
+
+Considering this, it has been found that it is appropriate to manage the students' time and provide adequate time for teachers to include GCE Advanced Level courses in 2024 and start higher education in schools by 2024.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Education to start the GCE Advanced Level Classes after the end of the examination for the students who passed the GCE Ordinary Level Examination for 2023.
+
+◼️
 
 [Data](articles/aa913e38.json)
 
+[Extended Data](ext_articles/aa913e38.ext.json)
+
 ---
 
-### காசாவில் அகதிமுகாம் மீது இஸ்ரேல் தாக்குதல் 13 பேர் பலி - பல உடல்கள் இடிபாடுகளுக்குள் சிக்குண்ட நிலையில்
+### Israeli attack on refugee in Gaza
 
 *2024-05-14 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183532) · `ta`
 
-காசாவின் மத்திய பகுதியில் நுசைரெத் அகதிமுகாமில்  உள்ள வீடொன்றின்  மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 13 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர்
+In Gaza, Israel's attack on a Nusareth refugee house in the central part of Gaza resulted in the death of 13 Palestinians. The Gaja family's four-storey house, which had been providing refuge to about 100 people displaced by war, was targeted. Bodies were found tied in the wreckage, and the situation is expected to worsen with potential increases in casualties. Videos on social media show the aftermath, including children trapped in the wreckage, as rescue efforts continue.
 
-அவர்களின் உடல்கள் இடிபாடுகளிற்குள் சிக்குண்டுள்ளதாக அல் அக்சா தியாகிகள் மருத்துவமனையின் மருத்துவர் ஒருவர் சிஎன்என்னிற்கு தெரிவித்துள்ளார்.
+🟩
 
-யுத்தம் காரணமாக இடம்பெயர்ந்து சுமார் 100பேருக்கு அடைக்கலம் அளித்திருந்த காஜா குடும்பத்தின் நான்குமாடி வீட்டின் மீது இஸ்ரேல் தாக்குதலை மேற்கொண்டுள்ளது.
+13 Palestinians have been killed in Israel's attack on a house in Nusareth refugee in the central part of Gaza
 
-கொல்லப்பட்ட சிறுவர்களின் உடல்களை டெய்ர் அல் பலாலில் உள்ள அக்அக்சா தியாகிகள் மருத்துவமனைக்கு எடுத்துச்சென்றுள்ளனர்.
+A doctor at the Al -Aqsa Martyrdom Hospital told CNN that their bodies were tied into the wreckage.
 
-உயிரிழப்புகள் அதிகரிக்கலாம் என தெரிவித்துள்ள சிஎன்என்னின் ஊடகவியலாளர் ஒருவர் குண்டுவீச்சில் சிக்கியவர்களுடன் தான் உரையாடியவேளை நால்வர் தங்கள் குடும்பங்களை சேர்ந்த ஆறு பேரின் உடல்கள் இடிபாடுகளிற்குள் சிக்குண்டுள்ளன என தெரிவித்தனர் என குறிப்பிட்;டுள்ளார்.
+Israel has launched a four -storey house of the Gaja family, which has been displaced by the war and providing refuge to about 100 people.
 
-சிறுவர்கள் உட்பட பலர் இடிபாடுகளிற்குள் சிக்குண்டிருப்பதையும் மீட்பு பணியாளர்கள் அவர்களை மீட்க முயல்வதையும்  காண்பிக்கும் வீடியோக்கள் சமூக ஊடகங்களில் வெளியாகியுள்ளன .
+The bodies of the killed boys have been taken to the Aqacsa martyrs in Tair al Balal.
+
+CNN's journalist said that the casualties could increase and the bodies of six of their families were inundated with the wreckage.
+
+Videos have been posted on social media, showing that many people, including children, have been deprived of the wreckage and that rescue workers are trying to rescue them.
 
 ◼️
 
 [Data](articles/da8c0a76.json)
+
+[Extended Data](ext_articles/da8c0a76.ext.json)
 
 ---
 
@@ -396,21 +484,33 @@ However, the rest of the squad, however, left for New York this morning, but it 
 
 ---
 
-### மட்டக்களப்பில் பொலிஸாரின் தடைகளின் மத்தியில் மூன்றாவது நாளாகவும் தொடரும் முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நடவடிக்கைகள்
+### Mullivaikkal porridge serving for the third day in the midst of the police restrictions in Batticaloa
 
 *2024-05-14 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183530) · `ta`
 
-இனப்படுகொலை வாரத்தின் மூன்றாம் நாளான இன்று மட்டக்களப்பில் முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நடவடிக்கைகள் பொலிஸாரின் பல்வேறு தடைகளையும் அச்சுறுத்தலையும் மீறி நடைபெற்றது.
+On the third day of the Mullivaikkal kanji serving in Batticaloa, despite police restrictions and threats, a large crowd gathered. The event, chaired by Mrs. A. Amalanayagi, faced police opposition but continued, with health checks and traffic control measures in place. Despite police efforts to halt the serving, many were able to purchase the porridge.
 
-இன்றைய தினம் மட்டக்களப்பு மாவட்ட வலிந்து காணாமல்ஆக்கப்பட்ட உறவுகளின் சங்கம் மற்றும் சிவில் சமூக செயற்பாட்டாளர்கள் இணைந்து மூன்றாவது நாளாகவும் முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நிகழ்வு மட்டக்களப்பு நகரில் விமான நிலைய வீதியில் உள்ள ஸ்ரீபரிபூர்ண விநாயகர் ஆலயத்திற்கு முன்பாக நடைபெற்றது.
+🟩
 
-மட்டக்களப்பு மாவட்ட வலிந்து காணாமல்ஆக்கப்பட்ட உறவுகளின் சங்க தலைவி திருமதி அ.அமலநாயகி தலைமையில் நடைபெற்ற இந்த நிகழ்வில் தமிழ் தேசிய கூட்டமைப்பின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஞா.சிறிநேசன்,ஜேசுசவை துறவி அருட்தந்தை ஜோசப்மேரி, சிவில் சமூக செயற்பாட்டாளர் வி.லவகுமார்,தமிழரசுக்கட்சியின் மகளிர் அணி செயலாளர் திருமதி ஆர்.ஜெயபிரகாஸ் உட்பட பலர் கலந்துகொண்டனர்.
+The third day of the genocide week, today, in Batticaloa, the Mullivaikkal kanji operations were held in violation of various obstacles and threats of the police.
 
-இதன்போது ஆலயத்திற்கு முன்பாக கஞ்சி செய்வதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்ட நிலையில் அங்கு பெருமளவான பொலிஸார் குவிக்கப்பட்டதுடன் பெருமளவு புலனாய்வாளர்களும் குவிக்கப்பட்டிருந்தனர்.
+The Mullivaikkal Kanji serve for the third day in front of the Sriparipurna Vinayagar Temple at the Airport Road in Batticaloa.
+
+The event was chaired by the President of the Batticaloa District Missing Relations Association, Mrs. A. Amalanayagi.
+
+A large number of police were mobilized and a large number of investigators were concentrated in front of the temple.
+
+The organizers who refused to take all the work to take all the things that the Batticaloa Regional Assistant Superintendent of Police should not perform the porridge.
+
+At this juncture, the police have tried to bring down the advice of the public health inspectors to follow the health procedure and to rescue the porridge.
+
+At this juncture, the public health inspector was asked to carry out health procedures and the health procedures were carried out.
 
 ...
 
 [Data](articles/f5450c17.json)
+
+[Extended Data](ext_articles/f5450c17.ext.json)
 
 ---
 
@@ -476,35 +576,51 @@ The decision has been taken with the observation that the relief of war heroes i
 
 ---
 
-### மதுபான உரிமப் பத்திரம் வழங்கும் சூதாட்டம் குறித்து சஜித் கேள்வி
+### Sajith's question of gambling
 
 *2024-05-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183524) · `ta`
 
-மதுபான அனுமதிப்பத்திரம் வழங்கும் போது  பாராளுமன்ற உறுப்பினர்களுக்கு இலஞ்சமாக இது வழங்கப்பட்டு வருகிறது. இடைத்தரகர்கள் பணம் சம்பாதிக்கும் விதமாக மதுபான உரிமப்பத்திரங்கள் வழங்கப்படுகின்றன. கடந்த காலங்களில் முறையான திட்டமிடல் இல்லாமல் மதுபானக் கடைகள் திறக்கப்பட்டதால் கலவரங்களும்  இடையூறுகளும் ஏற்பட்டன என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticized the government for issuing liquor licenses near religious sites and questioned the transparency of the process, including the criteria for license issuance and tax payments by liquor companies. He also inquired about the increase or decrease in tax payments from 2022 to 2023 and the handling of tax arrears.
 
-மத வழிபாட்டுத் தலங்களுக்கு அருகில் மதுபான கடைகளுக்கான அனுமதிப் பத்திரங்கள் வழங்கப்படுகின்றன. இது அரசியல் சூதாட்டமாகும். இது குறித்து அரசாங்கம் விளக்கம் அளிக்க வேண்டும் எனவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-2022 ஜூலை முதல் தற்போது வரை மது விற்பனைக்கான உரிமப் பத்திரங்களைப் பெற கிடைக்கப்பெற்ற கோரிக்கைகளின் எண்ணிக்கை மற்றும் அது தொடர்பான தகவல்களையும், இந்நிறுவனங்களின் பணிப்பாளர்கள் தொடர்பான தகவல்கள் குறித்தும் எதிர்க்கட்சித் தலைவர் கேள்வி எழுப்பினார்.
+It is being bribed to MPs during the issue of liquor licensing. Brewery licenses are issued to make money to make money. Opposition leader Sajith Premadasa said that in the past, there was riots and disruption due to the opening of liquor stores without proper planning.
+
+Liquor shops are issued near religious places. This is a political gambling. The opposition leader also said that the government should explain this.
+
+The Leader of the Opposition has questioned the number of demands available to the sale of liquor sales from July 2022 to the present.
+
+According to these demands, the Opposition Leader questioned the details of the licensed issues, the criteria and the rejected of the issue, and who was involved in the liquor law politics.
+
+Are the liquor -licenses, the types of taxes and the taxes that the companies pay, and the liquor companies have paid the tax for 2023?Is it an increase or less compared to 2022?He also questioned.
 
 ...
 
 [Data](articles/0402fc62.json)
 
+[Extended Data](ext_articles/0402fc62.ext.json)
+
 ---
 
-### சுவசெரிய அம்பியூலன்ஸ் சேவை செயலிழப்பதாக எதிர்க்கட்சித் தலைவர் குற்றச்சாட்டு
+### Opposition Leader accuses Susseuriya Ambulance Service
 
 *2024-05-14 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183522) · `ta`
 
-ஹர்ஷ டி சில்வாவின் எண்ணக்கருவாக ஆரம்பிக்கப்பட்ட சுவசெரிய அம்பியூலன்ஸ் சேவையின் 322 அம்பியூலன்ஸ் வண்டிகளில் 56 வண்டிகள் செயழிலந்துள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ இன்று (14 ) பாராளுமன்றில் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa criticized the government's handling of the Superiya Ambulance Service, accusing it of neglect and pointing out that key staff have left the country. He argued against the renewal of ambulances and staff, suggesting it's a decline rather than an improvement.
 
-சுவசெரிய அம்பியூலன்ஸ் சேவைகளில் பணிபுரிந்த சாரதிகளும் அவசர சேவை உத்தியோகத்தர்களும் நாட்டை விட்டு வெளியேறியுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேலும் தெரிவித்தார்.
+🟩
 
-அம்பியூலன்ஸைப் புதுப்பித்தல், ஊழியர்களை சேவையில் ஈடுபடுத்தல் போன்றவற்றில் அரசாங்கத்தின் கவனம் குறைந்துள்ளமையினால், இது தொடர்பில் அவதானம் செலுத்தி, இதனை வீழ்ச்சிக்கு இட்டுச்செல்ல இடமளிக்க வேண்டாம் எனவும் எதிர்க்கட்சித் தலைவர் மேலும் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa told Parliament today (14)
+
+Opposition leader Sajith Premadasa added that drivers and emergency service officers who worked on Superiya Ambulance services have left the country.
+
+The Opposition Leader added that the government's focus on renewal of Ambulance and employees should not be awarded to the decline.
 
 ◼️
 
 [Data](articles/611dd8eb.json)
+
+[Extended Data](ext_articles/611dd8eb.ext.json)
 
 ---
 
@@ -527,6 +643,8 @@ Motorcycles are in wide use in Nepal accounting for 78 percent of 3.22 million v
 ...
 
 [Data](articles/58aae0e5.json)
+
+[Extended Data](ext_articles/58aae0e5.ext.json)
 
 ---
 
@@ -664,6 +782,8 @@ Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for sm
 
 [Data](articles/1390b41a.json)
 
+[Extended Data](ext_articles/1390b41a.ext.json)
+
 ---
 
 ### Sri Lanka unlikely to hold O/L English, Science exams again despite complaints: Minister
@@ -685,6 +805,8 @@ He said the complaint on science paper will be considered when the marking schem
 ...
 
 [Data](articles/b5e873af.json)
+
+[Extended Data](ext_articles/b5e873af.ext.json)
 
 ---
 
@@ -838,19 +960,27 @@ Keheliya Rambukwella has called for the ban to prevent him from taking steps to 
 
 ---
 
-### இராணுவத்தினருக்கு அரச காணிகள் வழங்கும் கருத்திட்ட பொறிமுறையில் திருத்தம்
+### Amendment to the military -providing system of state land for the military
 
 *2024-05-14 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183512) · `ta`
 
-இராணுவத்தினரின் வதிவிடத்துக்காக அரச காணிகள் வழங்கும் கருத்திட்டத்தை நடைமுறைப்படுத்தும் ஏற்படும் சிக்கல்களை தவிர்ப்பதற்காக இதன் போது பின்பற்றப்படும் பொறிமுறையில் திருத்தங்களை மேற்கொள்வதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Sri Lankan Cabinet has approved amendments to the system for providing state land to the military, aiming to address issues with the current mechanism. The changes include setting a timeframe for land allocation to the Sri Lanka Police and Civil Defense Department, addressing the inadequacies in the military's concessions, and ensuring the economic value of the land is fully realized. The Cabinet has also authorized the necessary revisions to the existing mechanism to resolve ongoing problems.
 
-கடமைகளின் போது உயிர் நீத்தவர்கள், காணாமல் போனோர்  மற்றும் இயலாமைக்குட்பட்டோர், ஓய்வுபெற்ற மற்றும் தற்போது பணியில் கடமைகளில் ஈடுபட்டுக் கொண்டிருக்கும் முப்படையினர் இலங்கை பொலிஸ் மற்றும் சிவில் பாதுகாப்புத் திணைக்களத்தின் இராணுவத்தினருக்கு வதிவிடத்துக்காக அரச காணிகள் வழங்கும் போது கடைப்பிடிக்க வேண்டிய பொறிமுறை தொடர்பாக காணி ஆணையாளர் நாயக்கத்தினால் அமைச்சரவை அங்கீகாரத்தின் பிரகாரம் அவ்வப்போது சுற்றறிக்கை ஆலோசனைகள்  வெளியிடப்பட்டுள்ளன.
+🟩
 
-தற்போது அங்கீகரிக்கப்பட்டுள்ள ஒரு முறையின் கீழ் இராணுவத்தினருக்கு  உரித்தாகின்ற சலுகைகள் போதியளவாக இன்மையால், அனுபவித்துக் கொண்டிருக்கும் காணிகளுக்காக  நிபந்தனைகளுடன் கூடிய சட்டபூர்வ ஆவணங்களில் காணப்படுகின்ற  மட்டுப்பாடுகளால் குறித்த காணிகளில் உண்மையான பொருளாதார பெறுமதிகளை எடுத்தியம்பப்படுவதில்லை என்பது  கண்காணிக்கப்பட்டுள்ளது.
+The Cabinet has approved the idea of amendments to the mechanism adopted in order to avoid issues of implementing state land projects for the residence of the military.
 
-...
+According to the Cabinet approval of the Cabinet Commissioner, the Cabinet Commissioner of Cabinet has issued a period of time when the land is to be adhered to when the state lands are supplied to the military of the Sri Lanka Police and Civil Defense Department for the Army of the Sri Lankan Police and Civil Defense Department.
+
+Under a system of recognized, the military's concessions are inadequate inadequate, and it has been monitored that the real economic values are not taken in the land due to the limits found in conditional documents for the land that is experienced.
+
+The Cabinet has approved the proposal submitted by the President to carry out the necessary steps to revise the existing mechanism that includes solutions to the problems that are currently being adhered to when the land is provided to the military.
+
+◼️
 
 [Data](articles/176bc7a9.json)
+
+[Extended Data](ext_articles/176bc7a9.ext.json)
 
 ---
 
@@ -1007,6 +1137,8 @@ A committee was appointed to conduct a detailed study and the recommendation was
 ◼️
 
 [Data](articles/a71e58c3.json)
+
+[Extended Data](ext_articles/a71e58c3.ext.json)
 
 ---
 
@@ -2195,47 +2327,5 @@ The suspect has been submitted to the Kosgoda Police for further investigations.
 [Data](articles/195f7641.json)
 
 [Extended Data](ext_articles/195f7641.ext.json)
-
----
-
-### Struggle in Colombo in support of Palestine
-
-*2024-05-14 11:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீனத்திற்கு-ஆதரவாக-கொழும்பில்-போராட்டம்/175-337283) · `ta`
-
-In Colombo, a protest supported Palestinians, led by opposition leaders including Sajith Premadasa, Mujibur Rahman, SM. Marikar, and Rishad Bathiudeen, demanding an independent Palestine.
-
-🟩
-
-A protest was held in Colombo today to express support for the Palestinians affected by the confrontation with Israel.
-
-Opposition Leader MP. Sajith Premadasa, United People's Power MPs Mujibur Rahman, SM. Marikar and All Ceylon People's Congress leader Rishad Bathiudeen staged a protest demanding Independence Palestine.
-
-◼️
-
-[Data](articles/36168c7c.json)
-
-[Extended Data](ext_articles/36168c7c.ext.json)
-
----
-
-### Prohibition of red lipstick;Bizarre announcement in North Kia
-
-*2024-05-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183479) · `ta`
-
-North Korea's President Kim Jong Un has banned red lipstick, following previous restrictions on decorative items. The ban is seen as a symbolic move against capitalism, with lipstick traditionally representing beauty and communism. Violators face fines.
-
-🟩
-
-President Kim Jong Un has banned women from applying a red lip dye in North Khia.
-
-The President has already banned popular decorative items. He has now banned the red lip dye and warned that if the ban was violated, he would be fined.
-
-North Korea's president is said to be a symbol of capitalism as a symbol of the lip -dye that women can apply, though the red color is seen as the beauty of communism.
-
-◼️
-
-[Data](articles/774ea9fc.json)
-
-[Extended Data](ext_articles/774ea9fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 06:57:29**
+As of **2024-05-14 07:18:03**
 
 ## Newspaper Stats
 
-*Scraped **23,839** Articles*
+*Scraped **23,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,150 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,790
+tamilmirrorlk | 2,792
 virakesarilk | 3,562
-dailymirrorlk | 3,748
-adaderanasinhalalk | 3,816
+dailymirrorlk | 3,753
+adaderanasinhalalk | 3,819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,827 (99.9%) of 23,839 articles have been extended.
+23,834 (99.9%) of 23,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### ඝාතනයකට සහෝදරයින් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-05-14 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196596) · `si`
+
+මහඔය, සමගිපුර ප්‍රදේශයේදී දෙපිරිසක් අතර ඇතිවූ ආරවුලක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී තරුණයෙකු ඝාතනය කර තිබේ.
+
+ඊයේ (13) දහවල් කලායේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, සමගිපුර, මහඔය ප්‍රදේශයේ පදිංචි 26 හැවිරිදි තරුණයෙකි.
+
+ඝාතනය සම්බන්ධයෙන් වයස අවුරුදු 18ක් හා 23ක් වන සමගිපුර, මහඔය ප්‍රදේශයේ පදිංචි සහෝදරයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/74ad6ba8.json)
+
+---
+
+### පාර්ලිමේන්තුවේ කාන්තා නියෝජනය ඉහළ දැමීමට නව පනත් කෙටුම්පත් දෙකක්
+
+*2024-05-14 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196595) · `si`
+
+පාර්ලිමේන්තුවේ කාන්තා නියෝජනය ඉහළ දැමීම සඳහා නව පනත් කෙටුම්පත් දෙකක් පාර්ලිමේන්තුවට ඉදිරිපත් වී තිබේ.
+
+පෞද්ගලික මන්ත්‍රී යෝජනාවන් ලෙස පාර්ලිමේන්තු මන්ත්‍රී සුදර්ශනී ප්‍රනාන්දුපුල්ලේ මහත්මිය විසින් අදාළ පනත් කෙටුම්පත් ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව පාර්ලිමේන්තු මැතිවරණ පනත සංශෝධනය කිරීම සඳහා පනත් කෙටුම්පතක් ඉදිරිපත් වී ඇති අතර එමඟින් සෑම පිළිගත් දේශපාලන පක්ෂයකම කාන්තා නියෝජනය සියයට 30කට නොඅඩු ප්‍රතිශතයක් ඇතුළත් කිරීම සඳහා යෝජනා කර තිබේ.
+
+ඊට අමතරව විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ලෙස දේශපාලන පක්ෂයක හෝ ස්වාධීන කණ්ඩායමක පාර්ලිමේන්තුව නියෝජනය කිරීම සඳහා නම් කරනු ලබන ජාතික ලැයිස්තුවට සියයට 50කට නොඅඩු කාන්තා සාමාජිකයින් සංඛ්‍යාවක් ඇතුළත් කළ යුතු බවට වූ යෝජනාවක් පනත් කෙටුම්පතක් ලෙස පාර්ලිමේන්තුවට ඉදිරිපත් වී ඇති බව සඳහන්ය.
+
+දේශපාලන පක්ෂවලින් කාන්තා නියෝජනය ඉහළ දැමීමට අවශ්‍ය කටයුතු සිදුකරන ලෙස ඉල්ලීම් කළ ද ඒ සඳහා යහපත් ප්‍රතිචාරයක් නොලැබීම හේතුවෙන් අදාළ ඉල්ලීම නීතියක් ලෙස ගෙනඒමට තීරණය කළ බව පාර්ලිමේන්තු මන්ත්‍රී සුදර්ශනී ප්‍රනාන්දුපුල්ලේ මහත්මිය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/6b302c1c.json)
+
+---
+
+### Health experts raise red flags over soaring influenza cases
+
+*2024-05-14 06:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-experts-raise-red-flags-over-soaring-influenza-cases/155-282547) · `en`
+
+Colombo, May 14 (Daily Mirror) - In the wake of the rising influenza cases at an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
+
+Speaking to Daily Mirror, Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo said, it’s vastly prevalent among children and thus the parents are advised to keep a close watch on their children.
+
+“There are usually two peaks of influenza namely November to February and April to July,” he stated.
+
+“This time, we have seen a substantial rise in cases among children and adults as well. The cases have doubled during the last week alone. As of now, the predominant type is influenza A. However, influenza B is also prevalent,” he pointed out.
+
+In light of the situation, the expert stressed the importance of seeking prompt medical care if the symptoms persist.
+
+...
+
+[Data](articles/78fef6d1.json)
+
+---
+
+### Facebook party raided inside Knuckles Reserve, over 20 arrested
+
+*2024-05-14 06:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facebook-party-raided-inside-Knuckles-Reserve-over-20-arrested/108-282546) · `en`
+
+Hunnasgiriya, May 14 (Daily Mirror) - A group of 22 young individuals, including five females, were apprehended by the Hunnasgiriya Range Forest Office for trespassing in the Knuckles Reserve and setting up illegal campfires, forest officials said. The suspects, hailing from various regions such as Bandarawela, Colombo, Badulla, and Kandy, are between the ages of 20 and 30.
+
+Among the arrested individuals are university students, a person purportedly affiliated with the security forces, and private sector employees. According to a senior forest official, the group had coordinated through Facebook and other social media platforms to organize a gathering within the Knuckles Reserve without obtaining proper permission.
+
+The investigation conducted by forest officials revealed that the group had entered the reserve on Saturday night and held a party inside the protected area.
+
+◼️
+
+[Data](articles/d96fa705.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවු වැසි
+
+*2024-05-14 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196594) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක් වර්ධනය වීම හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ පළාත්වලට අද (14) ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+දකුණ, මධ්‍යම, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100ට වැඩිතද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/b7e3a69d.json)
+
+---
+
+### Central Bank advises businesses to grasp current exchange rate mechanism
+
+*2024-05-14 04:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-advises-businesses-to-grasp-current-exchange-rate-mechanism/108-282544) · `en`
+
+Cautions if exchange rate is controlled, it would lead to a boom-and-bust cycle
+
+The Central Bank emphasised the importance of businesses in Sri Lanka understanding the current exchange rate system.
+
+As it would enable them to establish more precise expectations, thereby reducing the risk of incurring losses due to currency exchange fluctuations.
+
+Sri Lanka’s businesses, the exporters in particular, recently called for a stable and competitive exchange rate, amidst the recent sharp appreciation of the rupee.
+
+“The mechanism of how the exchange rate is determined is important to understand because the legacy of long periods of fixed exchange rate at a certain rate, the entities have got used to it, thinking this is the way to do business.
+
+...
+
+[Data](articles/5a5fa7de.json)
+
+---
+
+### CTC says drop in 1Q sales due to tax-led price increases
+
+*2024-05-14 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CTC-says-drop-in-1Q-sales-due-to-tax-led-price-increases/108-282539) · `en`
+
+Monopoly cigarette player Ceylon Tobacco Company PLC (CTC) yesterday said that its sales volume for the first quarter ended on March 31, 2024 was lower in comparison to the same period last year, mainly due to the tax-led price increases, in line with the government’s revenue proposals.
+
+The company recorded a turnover of Rs.45.8 billion, down from Rs.46.9 billion recorded in the year before.
+
+CTC recorded a revenue of Rs.14.15 billion for the period under review, which is a 11.3 percent increase year-on-year (YoY) but a contraction of 19.6 percent from the previous quarter. In a brief note accompanying the interim financial accounts, CTC said its cost base is impacted by the increase in raw material cost, driven through inflation and the appreciation in foreign currency.
+
+CTC’s profit before tax for the quarter ended in March stood at Rs.11.7 billion, a marginal increase from Rs.10.1 billion recorded in the corresponding period in 2023.
+
+...
+
+[Data](articles/1302415b.json)
+
+---
 
 ### People continue to protest against heavy sand excavation in Mannar: Permission cannot be granted to permit an environmental impact - State Chancellor
 
@@ -295,6 +425,56 @@ Opposition Leader Sajith Premadasa said this while participating in a protest de
 [Data](articles/14389e1b.json)
 
 [Extended Data](ext_articles/14389e1b.ext.json)
+
+---
+
+### New entrepreneurs required for future productivity-based growth: Jafferjee
+
+*2024-05-14 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-entrepreneurs-required-for-future-productivity-based-growth-Jafferjee/108-282543) · `en`
+
+Sri Lanka needs a new set of entrepreneurs to drive future economic growth based on productivity, in transforming the current business landscape dominated by patronage, rent-seeking and crony capitalism, Advocata Institute Chairman Murtaza Jafferjee said.
+
+Given the limited capacity of the government to stimulate the economy, he stressed that productivity-based growth, through critical reforms, remains the only way forward.  “This growth can only be achieved by enhancing productivity, meaning accomplishing more with fewer resources. Going forward, we have no margin for experimentation. We must build upon our current efforts without regressing.
+
+Competition is the answer for productivity improvement. The moment you have the competition, then you need intelligent people to come and show how to reduce the costs,” he elaborated.  Jafferjee expressed his views while addressing a panel discussion hosted by the Central Bank, last week.
+
+...
+
+[Data](articles/5176261c.json)
+
+---
+
+### ’அராஜகம் மீண்டும் தலைதூக்கியுள்ளது’
+
+*2024-05-14 00:56:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அராஜகம்-மீண்டும்-தலைதூக்கியுள்ளது/175-337271) · `ta`
+
+பொலிஸ் அராஜகம், அடாவடித்தனம், மிருகத்தனம் இந்த மண்ணில் மீண்டும் வெளிப்படுத்தப்பட்டுள்ளது. இலங்கை மிக மோசமான நாடு,மிகக்கேவலமான நாடு என கடுமையாக விமர்சித்த  தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி.யான எஸ் சிறிதரன், முள்ளிவாய்க்கால்  கஞ்சி சுகாதாரமான முறையில் காய்ச்சப்படவில்லை என்று  கூறும் நீங்கள் வெசாக் வருகின்றபோது  தெருத்தெருவாக வழங்கும் உணவின்   சுகாதாரம் பற்றி எப்போதாவது கேட்டுள்ளீர்களா எனவும் கேள்வி எழுப்பினார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13)  இடம்பெற்ற நிதிக்கட்டளைகள் தொடர்பான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி எழுப்பிய அவர் தொடர்ந்தும் பேசுகையில்,
+
+இன்றைய நாட்கள்  தமிழர்களின் வாழ்வில் மிக முக்கியமான நாட்கள் .15 வருடங்களுக்கு முன்னர் தமிழர்கள் கொத்துக்கொத்தாக கொல்லப்பட்ட, பூண்டோடு அழிக்கப்பட்ட ,பாதுகாப்பு வலயம் என அரசினால் அறிவிக்கப்பட்டு அந்த பாதுகாப்பு வலயத்துக்குள் நம்பிச்சென்ற மக்கள் கொத்துக்குண்டுகளினாலும் பொஸ்பரஸ் குண்டுகளினாலும் மக்கள் வகைதொகையின்றிக்கொல்லப்பட்ட  நாட்கள். குழந்தைகள், கர்ப்பிணிகள்,வயோதிபர்கள் உற்பட பல்லாயிரக்கணக்கானோர் கொல்லப்பட்டார்கள்.
+
+...
+
+[Data](articles/f9b6fb65.json)
+
+---
+
+### ’அரசாங்கம் டயானாவை ஏமாற்றிவிட்டது’
+
+*2024-05-14 00:53:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-டயானாவை-ஏமாற்றிவிட்டது/175-337270) · `ta`
+
+டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை ஜனாதிபதியும் அரசாங்கமும் அறிந்திருந்தும் ஐக்கிய மக்கள் சக்திக்கு எதிராக அவரை தவறாக பயன்படுத்தி வந்ததாக ஐக்கிய மக்கள் சக்தி எம்.பி.யான முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற நிதிக் கட்டளைகள் மீதான விவாதத்தில்  உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+உள்ளூராட்சி சபைத்தேர்தலில் போட்டியிடுவதற்காக நான் நேர்மையாகவே எனது எம்.பி பதவியை இராஜிநாமா செய்தேன். அதனாலேயே என்னால்   மீண்டும் இந்த சபைக்கு வர முடிந்தது. ஆனால் டயனா கமகே நேர்மையற்ற முறையில் எம்.பி.யானதால் வந்ததால், அவருக்கு பாராளுமன்ற உறுப்பினர் பதவி இல்லாமல் போயுள்ளது.
+
+டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை அவர் ஆரம்பத்தில் எங்களுக்கும் மறைத்திருந்தார். அது தொடர்பான உண்மை எமக்கு தெரியவந்ததுடன் அது தொடர்பில் நாங்கள் நீதிமன்றில் முறையிட்டோம். ஆனால் ஜனாதிபதியும் அரசாங்கமும் டயனாவை பாதுகாத்து வந்தனர் . ஐக்கிய மக்கள் சக்திக்கு எதிராகவும் சஜித் பிரேமதாசவுக்கு எதிராகவும் செயற்பட ஜனாதிபதியும் அரசாங்கம் அவரை பயன்படுத்தி வந்தனர் .
+
+...
+
+[Data](articles/091ca144.json)
 
 ---
 
@@ -688,6 +868,8 @@ According to Hiruni, she will be operating from East Croydon, in London.
 
 [Data](articles/c9c9f76e.json)
 
+[Extended Data](ext_articles/c9c9f76e.ext.json)
+
 ---
 
 ### Success for Seven Notes …in Dubai
@@ -707,6 +889,8 @@ Seven Notes are seen in action at Sri Lankan events, in Dubai, including dances 
 ...
 
 [Data](articles/e6ad9b0f.json)
+
+[Extended Data](ext_articles/e6ad9b0f.ext.json)
 
 ---
 
@@ -757,6 +941,8 @@ Having been raised and schooled in Kandy, I have watched the festivities of the 
 ...
 
 [Data](articles/b95488cc.json)
+
+[Extended Data](ext_articles/b95488cc.ext.json)
 
 ---
 
@@ -984,6 +1170,8 @@ Commenting on this valuable public endorsement, Commercial Bank Deputy General M
 
 [Data](articles/e4285246.json)
 
+[Extended Data](ext_articles/e4285246.ext.json)
+
 ---
 
 ### Share market hit by parliament dissolution apprehensions
@@ -1000,6 +1188,8 @@ Those crossings were reported in PGP Glass, where 3 million shares crossed to th
 
 [Data](articles/fc75a3dd.json)
 
+[Extended Data](ext_articles/fc75a3dd.ext.json)
+
 ---
 
 ### IOM Sri Lanka and Ministry of Defence in collaboration with Sri Lankan Airlines conduct programme on responding to human trafficking
@@ -1013,6 +1203,8 @@ International Organisation for Migration (IOM) Sri Lanka and the Ministry of Def
 ...
 
 [Data](articles/461ce578.json)
+
+[Extended Data](ext_articles/461ce578.ext.json)
 
 ---
 
@@ -1981,263 +2173,5 @@ It is known that steps have been taken to send the Sri Lankan soldiers who are j
 [Data](articles/93d78ff6.json)
 
 [Extended Data](ext_articles/93d78ff6.ext.json)
-
----
-
-### Social Advisory Committee is not mentioned on the appointment of local government candidates in the roundabout
-
-*2024-05-13 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183419) · `ta`
-
-The Social Advisory Committee's role in local government candidate appointments is not detailed. PM Dinesh Gunawardena mentioned the committee's composition, including retired engineers and sector experts, but not its involvement in candidate nominations. The budget aims to resume stalled local development projects, utilizing diversified funds and MP development programs. Opposition leader Lakshman Kiriella failed to convene a provincial council election today. The challenges in utilizing former Pradeshiya Sabha members nationwide are not specified.
-
-🟩
-
-There is no mention of the nomination of candidates contesting the local council election anywhere in the roundabout of the Social Advisory Committee.
-
-On the contrary, Prime Minister Dinesh Gunawardena said that the committee is appointed by retired engineers, technical officials, experts in various sectors and rural leaders.
-
-He said this while responding to a question raised by Dayasiri Jayasekara in Parliament on Monday (13).
-
-The budget is scheduled to resume development projects that have not been held in local bodies for the past two years.
-
-Diversified funds, provincial council funds and development programs of all MPs who have submitted demands and ideas on the participation of development committees have been received.
-
-Opposition is not currently. Lakshman Kiriella MP has not been able to hold the provincial council election today.
-
-There are thousands of former Pradeshiya Sabha members nationwide. What are the obstacles to obtain use from them?Let me ask.
-
-◼️
-
-[Data](articles/1c7fa195.json)
-
-[Extended Data](ext_articles/1c7fa195.ext.json)
-
----
-
-### Whale body stumed by Matara beach
-
-*2024-05-13 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196584) · `si`
-
-A whale's body, estimated at 5 meters long, was found stunned at Matara beach. The Mirissa Wildlife Office confirmed the whale's death, with a post-mortem examination planned at the Udawalawe Wildlife Unit to determine the cause.
-
-🟩
-
-Our correspondent stated that the whale body has been piled up is about 5 meters long.
-
-Mirissa Wildlife Office says that the Whale's body is not found in the Whale.
-
-The death of this whale is expected to identify the post-demonstratory trial and the post mortem examination is scheduled to conduct a post mortem examination in the Udawalawe Wildlife Unit.
-
-◼️
-
-[Data](articles/b9542e78.json)
-
-[Extended Data](ext_articles/b9542e78.ext.json)
-
----
-
-### Mujibur Rahman should be investigated regarding the distribution of passport to Diana Kamage
-
-*2024-05-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183425) · `ta`
-
-Mujibur Rahman, an opposition member, calls for an investigation into the distribution of a passport to Diana Kamage, a non-citizen, by the current Immigration Control Officer. Rahman criticizes the government for protecting Diana and using her against the United People's Power. He also mentions his resignation from the MP post to contest local government elections, which the government did not support due to lack of funds. Rahman accuses the government of dishonesty and misuse of power, highlighting the need for transparency and accountability in passport distribution.
-
-🟩
-
-The president and the government knows that Diana Kamage is not a citizen of the country, but he has misused him to implement against the United People's Power.
-
-Opposition member Mujibur Rahman said that even though the former Immigration Emigration Control Officer has refused to distribute the passport to our country's non -citizen Diana, the current Control Officer should investigate how the passport is distributed.
-
-He said this while addressing the debate on export imports held in Parliament on Monday (13).
-
-I resigned from the post of MP for the past one and a half years to contest the local government elections.. But the government has left the election, saying there is no money.
-
-I honestly resigned my post. That's why I was able to come back to this congregation. But because Diana Kamage was acting dishonestly, he was left without a parliamentary position.
-
-He initially hid us that Diana Kamage was not a citizen of this country. The truth was revealed to us and we appealed to the court.
-
-...
-
-[Data](articles/149309e1.json)
-
-[Extended Data](ext_articles/149309e1.ext.json)
-
----
-
-### Man hit and killed by train
-
-*2024-05-13 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196583) · `si`
-
-A 56-year-old man was killed in a motorcycle-train collision at a railway crossing in Matara, traveling from Matara to Maradana. The accident occurred when the train was rushing through the crossing, despite warning signals. The victim was transported to the Kamburugamuwa railway station for further investigation.
-
-🟩
-
-A person was killed when a motorcycle collided with a train operation across the railway crossing in Matara Powerana Abeygunawardena Mawatha.
-
-The deceased has been identified as a 56 year old resident of Kamburugamuwa.
-
-The accident had occurred when the train was traveling from Matara to Maradana this afternoon.
-
-The accident occurred when a train was rushed through the railway crossing, while a train was ringing to come through the railway crossing.
-
-The victim was taken to Kamburugamuwa railway station and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/5d01cf44.json)
-
-[Extended Data](ext_articles/5d01cf44.ext.json)
-
----
-
-### President Ranil, Minister Jeevan Indonesia travels
-
-*2024-05-13 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183429) · `ta`
-
-President Ranil Wickremesinghe and Minister Jeevan Thondaman of Sri Lanka will attend the International Water Conference in Bali, Indonesia, from the 18th to the 25th. The conference will focus on Sri Lanka's water supply structure and financial status, with a special speech by Minister Thondaman. They aim to implement more programs under the Asian Development Bank's $100 million loan scheme.
-
-🟩
-
-I will also attend the International Water Conference to be held in Bali, Indonesia, with President Ranil Wickremesinghe.
-
-Minister of Water Supply and Drainage Jeevan Thondaman said that a special speech will be made on the water supply structure of Sri Lanka at the conference.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (13).
-
-The conference will be held in Indonesia from the 18th to the 25th. We will go to Indonesia, including President Ranil Wickremesinghe and myself.
-
-The conference will be clarified on the nature of Sri Lanka's financial status in the Conference.
-
-Currently offers 3.196 million people with water supply drainage board water. They also pay water fees.
-
-However, water is supplied to the village level through the department under the Ministry of our Ministry.
-
-We have paid attention to the regulation of the water supply with the Sri Lanka Public Use Commission.
-
-...
-
-[Data](articles/727db1c9.json)
-
-[Extended Data](ext_articles/727db1c9.ext.json)
-
----
-
-### SC concludes hearing petitions against ‘Sri Lanka Electricity Bill’
-
-*2024-05-13 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99192/sc-concludes-hearing-petitions-against-sri-lanka-electricity-bill) · `en`
-
-The Supreme Court has concluded its hearing of the petitions filed challenging the proposed Sri Lanka Electricity Bill, which includes proposed reforms for the electricity sector.
-
-Accordingly, the court announced that it will inform the determination to the Speaker of Parliament confidentially.
-
-The petitions were heard before the three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekera for three consecutive days.
-
-The petitions were submitted by 14 parties including the secretary of the Ceylon Electricity Workers’ Union, Ranjan Jayalal.
-
-◼️
-
-[Data](articles/ee23fdd7.json)
-
-[Extended Data](ext_articles/ee23fdd7.ext.json)
-
----
-
-### University Employees Union struggle across the country
-
-*2024-05-13 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183392) · `ta`
-
-State University Employees Union protested for a pay hike, with demonstrations at the University of Jaffna and Vavuniya University. The protest involved non-academic staff, threatening to strike and withdraw from essential services if demands are not met.
-
-🟩
-
-The State University Employees Union held a protest on Monday (13) demanding a pay hike.
-
-A protest demonstration was held at the University of Jaffna with the participation of the University Employees Union and Student Union representatives.
-
-The demonstration was held at the University of Jaffna at 10 am on Monday.
-
-After commenting to the media at the Vavuniya University Park office, the procession started from the office gate to the old bus station and engaged in a protest protest.
-
-During this time, the MCA allowance was increased and the government was involved in the procession to bear the posts written by the state.
-
-The Vavuniya University Educational Employees Union and the Student Association were supported.
-
-The strike was launched by university non -academic staff at 11.30 am in Kandy.
-
-...
-
-[Data](articles/61ad6620.json)
-
-[Extended Data](ext_articles/61ad6620.ext.json)
-
----
-
-### Super World Report to hear from Mount Everest
-
-*2024-05-13 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196582) · `si`
-
-Nepali climber Komi Rita, 54, has reached Mount Everest, the world's highest peak, for the first time since 1994. British climber Kenton Coole, marking the 18th anniversary of his Everest ascent, also reached the summit.
-
-🟩
-
-Nepali climbs and British climbs have crossed Mount Everest, which is the highest mountain of the world.
-
-The 54-year-old Komi Rita Rita, Rita, was once again crossing Everest.
-
-Rita, a guide of Everest, has crossed it first in 1994.
-
-Meanwhile, the British Kenton Coole, which crossed Everest recently, climbed the 18th anniversary of the Everest.
-
-◼️
-
-[Data](articles/a96801ce.json)
-
-[Extended Data](ext_articles/a96801ce.ext.json)
-
----
-
-### Double Tap Chuti arrested in Beliatta murder
-
-*2024-05-13 17:05:57* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-ඝාතනයේ-’’ඩබල්-ටැප්-චූටි’’-ඉන්දියාවේදී-අත්අඩංගුවට/11-409604) · `si`
-
-Saman Perera, leader of a Sri Lankan party, and another suspect were arrested in India for the Beliatta murder. The incident involved a 'Double Tap Chuti' and was executed with two T-56 rifles. Several suspects, including those from Nittabe and Balapitiya, have been remanded.
-
-🟩
-
-The Criminal Investigations Department (CID) said that two suspects including the leader of the Sri Lankan party Saman Perera have been arrested in India near the June 21st January.
-
-Meanwhile, it is reported that a shot of the murder is 'Double Tap Chuti'.
-
-Investigations revealed that the murder had been carried out by a petro, using two T-56 riffles in Kosgoda Sujee and two T-56 riffles.. The shooters were then fled and the people they were people in Nittabe and Balapitiya areas. Several suspects have been arrested on charges of the incident and have been remanded.
-
-◼️
-
-[Data](articles/8cbe7bdd.json)
-
-[Extended Data](ext_articles/8cbe7bdd.ext.json)
-
----
-
-### Ayush scholarship of the Government of India
-
-*2024-05-13 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183424) · `ta`
-
-The Ayush Scholarship Program by the Indian Government offers scholarships for Sri Lankan citizens to study Ayurveda, Unani, Siddha Medicine, Homeopathy, Yoga Shastra, and related fields. Eligibility requires GCE Advanced Level for Ayurveda, Unani, Siddha, and Homeopathy, and GCE Ordinary Level for Yoga Shastra. Applicants must also meet the requirements set by the Indian Medical Central Council. The scholarship covers monthly allowances, accommodation, and annual scholarships. Applications must be submitted by May 31, 2024, through the ICCR A2A site. For more information, contact the Indian High Commission in Colombo.
-
-🟩
-
-Under the Ayush Scholarship Program, the Indian High Commission in Colombo has announced the scholarship prizes for the following courses for Sri Lankan citizens who want to study in the degree/ Degree/ Doctor of Studies in the Ayush Scholarship Program.
-
-Applicants who wish to pursue degree in Ayurveda, Unani, Siddha Medicine and Homeopathy need to be enlightened in the GCE Advanced Quality.
-
-At the same time, those who wish to apply for B.Sc and B.A (Yoga Shastra) in yoga must have passed in a category of GCE high quality.. The completion of the degree of MSC studying in yoga is essential.
-
-Also, those who wish to pursue degree in Ayurveda, Siddha, Unani and Homeopathic fields need to be completed by the Indian Medical Central Council.. Also, those who wish to continue PhD in Ayurveda, Unani and Yoga must have a youth and senior degrees recognized by the Indian Medical Central Council in the fields.
-
-...
-
-[Data](articles/7de52355.json)
-
-[Extended Data](ext_articles/7de52355.ext.json)
 
 ---

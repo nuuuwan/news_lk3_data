@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 03:18:25**
+As of **2024-05-15 03:33:52**
 
 ## Newspaper Stats
 
-*Scraped **24,065** Articles*
+*Scraped **24,066** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 217
+colombotelegraphcom | 218
 bbccomsinhala | 245
 dbsjeyarajcom | 247
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,065 (100.0%) of 24,065 articles have been extended.
+24,065 (100.0%) of 24,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -339,6 +339,20 @@ Furthermore, Mr. Donald Lu stated that the US encourages Sri Lanka to continue i
 [Data](articles/97164ce2.json)
 
 [Extended Data](ext_articles/97164ce2.ext.json)
+
+---
+
+### A Call To Comrade Anura Kumara Dissanayake: Time To Reflect & Adapt
+
+*2024-05-14 21:44:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-call-to-comrade-anura-kumara-dissanayake-time-to-reflect-adapt/) · `en`
+
+I write these words with a sense of urgency and anticipation, believing that the time has come to reflect and adapt. The seeds you sow knowingly or unknowingly have reaped a bitter harvest of division and discontent among the people of our Nation. Your brand of politics has had a lasting impact on our society, characterized by its bitterness and divisiveness. From the turbulent events of 71 to the unrest of 88 and 89, the scars of past conflicts continue to haunt us. The stagnant narrative of 76 years of curse and rejection of 225 has perpetuated, casting a shadow over our collective aspirations.
+
+Your ability to mobilize support and empower people to your cause cannot be denied. The meetings last May showed the strength of your organization. But this energy, though powerful, is not without its dangers. It serves as a warning not only to you but to the entire nation.
+
+...
+
+[Data](articles/07df902a.json)
 
 ---
 
@@ -2349,23 +2363,5 @@ A person has come to a case filed by the Medawachchiya Magistrate's Court on a p
 [Data](articles/8ce7fc5d.json)
 
 [Extended Data](ext_articles/8ce7fc5d.ext.json)
-
----
-
-### Governemnt approves Technology Promotion Act
-
-*2024-05-14 14:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governemnt-approves-Technology-Promotion-Act/108-282576) · `en`
-
-Colombo, May 14 (Daily Mirror) - The government today approved the Technology Promotion Act by cancelling the Information and Communication Technology Act and directing the Legal Draftsmen to prepare a draft bill based on the concept paper already prepared.
-
-Addressing the media Cabinet spokesman and Minister Bandula Gunawardana said a concept paper has been prepared for introducing new laws for digital improvement/transformation, and it has been proposed to establish a Technology Innovation Council as well as a Digital Transformation Agency.
-
-The amendment of the Information and Communication Technology Act was necessary to perform the required institutional reforms for digital transformation, the Minister added.
-
-◼️
-
-[Data](articles/91178517.json)
-
-[Extended Data](ext_articles/91178517.ext.json)
 
 ---

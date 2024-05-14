@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 12:05:49**
+As of **2024-05-14 12:18:14**
 
 ## Newspaper Stats
 
-*Scraped **23,897** Articles*
+*Scraped **23,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,034
 adaderanalk | 2,783
-tamilmirrorlk | 2,802
+tamilmirrorlk | 2,803
 virakesarilk | 3,567
 dailymirrorlk | 3,759
 adaderanasinhalalk | 3,830
@@ -26,25 +26,51 @@ adaderanasinhalalk | 3,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,890 (100.0%) of 23,897 articles have been extended.
+23,897 (100.0%) of 23,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### பலஸ்தீன சால்வையை அணிந்தார் சஜித்
+### உ/த வகுப்புகளை உடன் ஆரம்பிக்க அனுமதி
+
+*2024-05-14 11:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-வகுப்புகளை-உடன்-ஆரம்பிக்க-அனுமதி/175-337287) · `ta`
+
+கல்வி பொதுத்தராதர சாதாரண தர பரீட்சையின் பெறுபேறுகள் வெளியாகுவதற்கு முன்னதாக உயர்தரத்திற்கான வகுப்புகளை ஆரம்பிப்பதற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+
+தற்போது கல்வி பொதுத்தராதர சாதாரண தர பரீட்சைக்கு தோற்றிவரும் மாணவர்களுக்கான உயர்தர வகுப்புகளை எதிர்வரும் 5ஆம் திகதி ஆரம்பிப்பதற்கு திட்டமிடப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+இந்த புதிய திட்டத்திற்கு மாகாண ஆளுநர்கள் மற்றும் அதிகாரிகளின் அனுமதி கிடைத்துள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+
+அதனடிப்படையில், கல்வி பொதுத்தராதர சாதாரண தரம் வரை மாத்திரம் கல்வி நடவடிக்கைகள் முன்னெடுக்கப்படும் பாடசாலை மாணவர்களை உயர்தரத்திற்காக அருகிலுள்ள பாடசாலைகளுக்கு அனுப்புவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+உயர்தர வகுப்புகள் நடத்தப்பட்டாலும், குறிப்பிட்ட பாடத்திட்டம் உரிய பாடசாலையில் கற்பிக்கப்படாவிடின், அப்பாடத்திட்டம் கற்பிக்கப்படும் பாடசாலைகளுக்கு மாணவர்களை அனுப்பவும் திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/36cdead6.json)
+
+---
+
+### Sajith wore a Palestinian shawl
 
 *2024-05-14 11:26:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-சால்வையை-அணிந்தார்-சஜித்/175-337286) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாஸ, பாராளுமன்றத்தில் தற்போது உரையாற்றிக்கொண்டிருக்கின்றார். அவர் பலஸ்தீன கொடி மற்றும் இலங்கையின் தேசிய கொடி ஆகிய இரண்டு கொடிகளும் பொறிக்கப்பட்ட சால்வை அணிந்துள்ளார்.
+Sajith Premadasa, leader of the United People's Power, is in Parliament, wearing a Palestinian shawl with flags of Palestine and Sri Lanka. Today's debate focuses on postponing the Palestinian attack, with Rauf Hakeem and Imtiaz Pakir Markar addressing the issue.
 
-பாராளுமன்றத்தில் இன்று (14), பலஸ்தீனம் மீதான தாக்குதல் தொடர்பிலான ஒத்திவைப்புவேளை பிரேரணை மீதான விவாதம் நடைபெற்றுக்கொண்டிருக்கின்றது.
+🟩
 
-ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், பிரேரணை முன்வைத்து உரையாற்றினார். அதனை, ஐக்கிய மக்கள் சக்தியின் எம்.பியான இம்தியாஸ் பாக்கிர் மார்க்கார் வழிமொழிந்து உரையாற்றினார்.
+Sajith Premadasa, the leader of the United People's Power and the Leader of the Opposition, is currently speaking in Parliament. He wears two flags engraved on the Palestinian flag and the National Flag of Sri Lanka.
+
+There is a debate on the postponement of the Palestinian attack on the attack on Palestine today (14).
+
+Sri Lanka Muslim Congress President Rauf Hakeem addressed the proposal. It was addressed by the United People's Power MP Imtiaz Pakir Markar.
 
 ◼️
 
 [Data](articles/403d2fac.json)
+
+[Extended Data](ext_articles/403d2fac.ext.json)
 
 ---
 
@@ -67,6 +93,8 @@ CTC in the past has said there was a shift to beedi as well as rise in smuggling
 ...
 
 [Data](articles/3e77a754.json)
+
+[Extended Data](ext_articles/3e77a754.ext.json)
 
 ---
 
@@ -116,17 +144,23 @@ The suspect has been submitted to the Kosgoda Police for further investigations.
 
 ---
 
-### பலஸ்தீனத்திற்கு ஆதரவாக கொழும்பில் போராட்டம்
+### Struggle in Colombo in support of Palestine
 
 *2024-05-14 11:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீனத்திற்கு-ஆதரவாக-கொழும்பில்-போராட்டம்/175-337283) · `ta`
 
-இஸ்ரேலுடனான மோதலில் பாதிக்கப்பட்டுள்ள பலஸ்தீனர்களுக்கான ஆதரவை வெளிப்படுத்தும் போராட்டமொன்று கொழும்பில் இன்று நடைபெற்றது.
+In Colombo, a protest supported Palestinians, led by opposition leaders including Sajith Premadasa, Mujibur Rahman, SM. Marikar, and Rishad Bathiudeen, demanding an independent Palestine.
 
-எதிர்க்கட்சித் தலைவர் எம்.பி. சஜித் பிரேமதாச, ஐக்கிய மக்கள் சக்தி எம்.பி.க்களான முஜிபுர் ரஹ்மான், எஸ்.எம். மரிக்கார், அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாத் பதியுதீன் ஆகியோர் சுதந்திர பலஸ்தீனத்தை வலியுறுத்தி ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+🟩
+
+A protest was held in Colombo today to express support for the Palestinians affected by the confrontation with Israel.
+
+Opposition Leader MP. Sajith Premadasa, United People's Power MPs Mujibur Rahman, SM. Marikar and All Ceylon People's Congress leader Rishad Bathiudeen staged a protest demanding Independence Palestine.
 
 ◼️
 
 [Data](articles/36168c7c.json)
+
+[Extended Data](ext_articles/36168c7c.ext.json)
 
 ---
 
@@ -152,35 +186,53 @@ The Opposition Leader urged the government today (14) in parliament today.
 
 ---
 
-### முள்ளிவாய்க்கால் கஞ்சிக்கு தடை: கல்முனையில் பதற்றம்
+### Mullivaikkal ban on porridge: tension in Kalmunai
 
 *2024-05-14 11:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/முள்ளிவாய்க்கால்-கஞ்சிக்கு-தடை-கல்முனையில்-பதற்றம்/73-337282) · `ta`
 
-அம்பாறை மாவட்டம் பெரிய நீலாவணை  பொலிஸ் பிரிவுக்கு உட்பட்ட பாண்டிருப்பு  பகுதியில் முள்ளிவாய்க்கால் கஞ்சி  தயாரிக்க முற்பட்டவர்களை தடுப்பதற்கு நூற்றுக்கணக்கான பொலிஸார் குவிக்கப்பட்டுள்ளனர்.
+In Kalmunai, tensions rose as hundreds of policemen were deployed to stop the making of Mullivaikkal porridge in the Pandaruppu area of Ampara district. The Tamil National People's Front (TNA) district organizer Pusparaj Dushanandan and missing union leader Thambirasa Selvarani were involved in organizing the event, which was halted by police orders. The Superintendent of Police issued a ban on Pusparaj Tushanandan, and Thambirasa Selvarani was warned to leave.
 
-குறித்த  சம்பவம் செவ்வாய்க்கிழமை (14) காலை  இடம்பெற்றுள்ளதுடன் இச்சம்பவத்தில் தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் மாவட்ட அமைப்பாளர் புஸ்பராஜ் துஷானந்தன், காணாமல்  அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்க தலைவி தம்பிராசா செல்வராணி,  ஆகியோருக்கு பொலிஸாரினால் எச்சரிக்கை விடுக்கப்பட்டு குறித்த நிகழ்வு தடுத்து நிறுத்தப்பட்டுள்ளது.
+🟩
 
-இதன் போது  கல்முனை பாண்டிருப்பு அரசடி அம்மன்  ஆலய முன்றலில் தமிழ் தேசிய மக்கள் முன்னணி கட்சி ஏற்பாட்டில்  அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்கம்  பொதுமக்களுடன் இணைந்து  முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நிகழ்வினை முன்னெடுத்திருந்தது.
+Hundreds of policemen have been deployed to prevent those who tried to make Mullivaikkal porridge in the Pandaruppu area of the Ampara district.
 
-...
+The incident took place on Tuesday morning (14) and the incident has been halted by the Tamil National People's Front (TNA) district organizer Pusparaj Dushanandan and the missing union leader Thambirasa Selvarani, the missing Association of Ampara District.
+
+The Tamil National People's Front (TNA) organized the Mullivaikkal Kanji Service with the public in the arrangement of the Ampara District.
+
+However, the police, led by the Superintendent of Police, who arrived at the scene, had issued a ban on the Tamil National People's Front (TNA) district organizer Pusparaj Tushanandan, who had been banned from the Kalmunai Magistrate's Court order to stop the incident.
+
+It is also noteworthy that the missing union leader Thambirasa Selvarani, who was missing the Ampara District, was warned by the police and warned to leave.
+
+◼️
 
 [Data](articles/30a163b2.json)
 
+[Extended Data](ext_articles/30a163b2.ext.json)
+
 ---
 
-### தொழிற்சங்க போராட்டங்கள் அதிகாரிகளின் ஒரு நாடகம்
+### Trade union protests are a play of officials
 
 *2024-05-14 10:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டங்கள்-அதிகாரிகளின்-ஒரு-நாடகம்/175-337281) · `ta`
 
-நாடளாவிய ரீதியில் ஆரம்பிக்கப்பட்டுள்ள தொழிற்சங்க நடவடிக்கையானது சுகாதார அமைச்சின் அதிகாரிகளுக்கும் கூட்டு சுகாதாரத் துறை தொழிற்சங்கங்களுக்கும் இடையிலான மூலோபாய ஊடாட்டமாக மாறியுள்ளதாக அரசாங்க மருத்துவ அதிகாரிகள் மன்றம் (GMOF) இன்று தெரிவித்துள்ளது.
+Trade union protests are a strategic move by health officials, with the GMOF stating that the Health Ministry and Joint Health Department are involved. The GMOF Chairman, Dr. Rukshan Bellana, revealed that the Health Secretary encourages strikes, despite the government's silence on health unions' demands. The strike, launched in Central Province hospitals, threatens to expand nationwide if demands aren't met. The Health Secretary is negotiating with striking unions, aiming to address concerns like excessive work hours and high tax rates on doctors' salaries, which are not seen in other industries. Dr. Bellana suggests reevaluating the Health Secretary's role as a mediator between the government and unions.
 
-GMOF தலைவர் வைத்தியர் ருக்ஷான் பெல்லனா, சுகாதார அமைச்சகம், சுகாதாரத் தொழிற்சங்கங்கள் வேலைநிறுத்தம் செய்ய விரும்புவதாகக் கூறி, அவர்களுக்கு வழங்கப்பட வேண்டிய கோரிக்கைகள் மீது மெத்தனமாக இருக்கும். சுகாதார செயலாளர் வேலைநிறுத்தங்களை ஊக்குவிப்பதாக அவர் கூறினார்.
+🟩
 
-கொடுப்பனவு அதிகரிப்பு உள்ளிட்ட கோரிக்கைகளை முன்வைத்து மத்திய மாகாணத்தில் உள்ள அனைத்து வைத்தியசாலைகளிலும் கூட்டு சுகாதாரத் துறை தொழிற்சங்கம் நேற்று (13) அடையாள வேலைநிறுத்தப் போராட்டத்தை ஆரம்பித்ததுடன், கோரிக்கைகள் நிறைவேற்றப்படாவிட்டால் மே 22 ஆம் திகதி முதல் வேலைநிறுத்தம் ஏனைய மாகாணங்களுக்கும் விரிவுபடுத்தப்படும் என்று தெரிவித்துள்ளது.
+The Government Medical Officers Forum (GMOF) today said that the trade union action launched nationwide has become a strategic internet between the Health Ministry officials and the Joint Health Department.
+
+GMOF Chairman Dr. Rukshan Bellana, the Ministry of Health, will be silent on the demands that health trade unions want to strike. He said the health secretary would encourage strikes.
+
+The Joint Health Department union in all hospitals in the Central Province launched a strike yesterday (13) and said that the strike would be expanded to other provinces from May 22 if the demands were not met.
+
+“The Health Secretary has not taken action yet against union leaders. Some of these leaders currently under investigation are actively involved in the ongoing trade union action over the possibility of being expelled from government work.
 
 ...
 
 [Data](articles/cf6e6e5a.json)
+
+[Extended Data](ext_articles/cf6e6e5a.ext.json)
 
 ---
 
@@ -271,6 +323,8 @@ The Colombo Stock Exchange opened down; The All Share Price Index was down 0.13 
 ◼️
 
 [Data](articles/316d794a.json)
+
+[Extended Data](ext_articles/316d794a.ext.json)
 
 ---
 
@@ -901,6 +955,8 @@ One Sri Lanka ex-soldier estimated that 200 to 300 Sri Lankans may be treated in
 ...
 
 [Data](articles/fbd3e678.json)
+
+[Extended Data](ext_articles/fbd3e678.ext.json)
 
 ---
 
@@ -2123,23 +2179,5 @@ Commenting on this valuable public endorsement, Commercial Bank Deputy General M
 [Data](articles/e4285246.json)
 
 [Extended Data](ext_articles/e4285246.ext.json)
-
----
-
-### Share market hit by parliament dissolution apprehensions
-
-*2024-05-13 22:30:00* · [`islandlk`](http://island.lk/share-market-hit-by-parliament-dissolution-apprehensions/) · `en`
-
-The stock market yesterday witnessed selling pressure due to political uncertainty stemming from the possibility of parliament being dissolved and former President Mahinda Rajapaksa’s statement urging the government not to divest state owned enterprises until elections are over, market analysts said.
-
-Consequently, both indices moved downwards. The All Share Price Index went down by 11.06 points while S and P SL20 declined by 3.79 points. Turnover stood at Rs 1.79 billion with three crossings.
-
-Those crossings were reported in PGP Glass, where 3 million shares crossed to the tune of Rs 87.3 million; its shares trading at Rs 29.10, Renuka Food (Rights) 25.5 million share volumes crossed for Rs 56.1 million; its shares traded at Rs 2.20 and Hayleys 250,000 shares crossed to the tune of Rs 23.1 million; its shares traded at Rs 92.70.
-
-...
-
-[Data](articles/fc75a3dd.json)
-
-[Extended Data](ext_articles/fc75a3dd.ext.json)
 
 ---

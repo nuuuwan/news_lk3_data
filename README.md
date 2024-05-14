@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 01:18:34**
+As of **2024-05-15 01:33:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,056 (100.0%) of 24,062 articles have been extended.
+24,062 (100.0%) of 24,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -224,21 +224,27 @@ It is also reported that the rainy drainage systems that drain is blocked due to
 
 ---
 
-### கல்முனை வடக்கு உப பிரதேச செயலக பிரச்சினைக்கு சுமந்திரன் எம்.பியே  காரணம் - ஹரீஸ் எம்.பி
+### Sumanthiran MP is responsible for the issue of Kalmunai Northern Provincial Secretariat - Haris MP
 
 *2024-05-14 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183561) · `ta`
 
-கல்முனை வடக்கு உப பிரதேச செயலக பிரச்சினைக்கு சுமந்திரன் எம்.பி.தான் காரணம். அவர் உயர் நீதிமன்றத்தில் தொடுத்த வழக்கினாலே இந்தப்பிரச்சினை ஏற்பட்டுள்ளது என எதிர்க்கட்சி எம்.பி.எச்.எம்.எம். ஹரீஸ் தெரிவித்தார்.
+Sumanthiran MP is linked to the Kalmunai North issue, blamed by the opposition for a Supreme Court case. Haris MP, in a parliamentary debate on the Palestinian state, defended Sumanthiran, criticizing the opposition for politicizing the issue. Gajendran MP from Jaffna, speaking at the Ampara District Government Agent's session, rejected the criticism, highlighting the official's service to all communities. Sumanthiran urged the Tamil community in Kalmunai to support him, asking not to turn the issue into a racial one.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் கலந்துகாெண்டு உரையாற்றுகையிலேயே   இவ்வாறு தெரிவித்தார்.
+🟩
 
-அம்பாறை மாவட்ட அரச அதிபர்  தமிழர்களுக்கு எதிரானவர் என்ற கருத்தை  கடந்த பாராளுமன்ற அமர்வில் பேசிய யாழ் எம்.பி.யான கஜேந்திரன் முன்வைத்தார்.கல்முனை வடக்கு பிரதேச செயலகத்திற்கு எதிராக அவர் செயற்படுவதாகவும்  குற்றம்சாட்டினார். அதனை நான்  நிராகரிக்கின்றேன்.
+Sumanthiran MP is responsible for the issue of Kalmunai North Deputy Divisional Secretariat. Opposition MPHMM said that the issue was caused by the case he filed in the Supreme Court.. Haris said.
 
-அம்பாறை மாவட்ட அரச அதிபர் தமிழ்,முஸ்லிம், சிங்களவர் என்ற பேதம் பாராமல் செயற்படும் ஒருவர். அவர் அங்கு சிறந்த சேவையை வழங்குகின்றார். அவர் ஒரு அரச அதிகாரி. சட்டத்துக்  குட்பட்டுத்தான் செயற்பட முடியும். யாழ்ப்பாணத்தை  சேர்ந்த கஜேந்திரன் எம்.பிக்கு அம்பாறை மாவட்டம் பற்றியோ கல்முனை பற்றியோ எதுவுமே தெரியாது.
+He said this while addressing the debate on the proposal on the Palestinian state on Tuesday (14) in Parliament.
+
+Speaking at the last parliamentary session, Jaffna MP Gajendran, speaking at the last parliamentary session of the Ampara District Government Agent.. I reject it.
+
+Ampara District Government Agent of Tamil, Muslim and Sinhalese. He offers the best service there. He is a state -official. The law can only act. Gajendran MP from Jaffna knows nothing about the Ampara district or Kalmunai.
 
 ...
 
 [Data](articles/1731ea49.json)
+
+[Extended Data](ext_articles/1731ea49.ext.json)
 
 ---
 
@@ -282,19 +288,29 @@ Also, it states that the turbulent nature developing in the lower atmosphere nea
 
 ---
 
-### தமிழீழம் தோற்றம் பெற்றிருந்தால் காஸாவின் நிலை எமக்கு ஏற்பட்டிருக்கும் - விமல் வீரவன்ச
+### If Tamil Eelam was origin
 
 *2024-05-14 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183560) · `ta`
 
-விடுதலை புலிகளுடனான யுத்தம் முடிவுக்கு கொண்டு வராமலிருந்தால்  தென்னாசியாவில் தமிழீழம் தோற்றம் பெற்றிருக்கும்.அது இஸ்ரேல் போல் மாற்றமடைந்திருக்கும்,காஸாவின் இன்றைய நிலை எமக்கு ஏற்பட்டிருக்கும். இஸ்ரேலுக்கு ஆயுதத்தை வழங்கி விட்டு யுத்தத்தை முடிவுக்கு கொண்டு வருமாறு அமெரிக்கா முதலை கண்ணீர் வடிக்கிறது என தேசிய சுதந்திர முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+Tamil Eelam, if it had originated, could have evolved into a South Asian Israel, akin to the transformation of Palestine. Wimal Weerawansa, a Sri Lankan parliamentarian, suggested the US's interest in ending the LTTE war was influenced by Israel. The comparison draws parallels between the struggles of Palestinians and Tamils, highlighting the international community's role in conflicts. The narrative also touches on the failed attempts by Britain to establish Tamil Eelam within Sri Lanka, contrasting it with their success in Palestine. The mention of the US's involvement, including a Marine Squadron visit to protect LTTE leader Velupillai Prabhakaran, and the use of veto power at the UN to support Sri Lanka, underscores the complex international dynamics in these conflicts.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இஸ்ரேலின் மனிதாபிமானமற்ற தாக்குதலினால் பலஸ்தீனர்கள் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள்.பலஸ்தீனர்களின்  இன்றைய நிலை குறித்து நாங்கள் கவலையடைகிறோம்.பலஸ்தீனர்கள் இன்று எதிர்கொண்டுள்ள நிலைமைக்கும்,இலங்கையின் நிலைமைக்கும் இடையில் பரஸ்பர ஒற்றுமை காணப்படுகிறது.
+If the war with the LTTE did not end, Tamil Eelam would have been originated in South Asia. It would have been transformed into Israel.. National Freedom Front leader and parliamentarian Wimal Weerawansa said that the US is tears to end the war by providing Israel and ending the war.
+
+He was speaking at a debate on the adjournment motion on the Palestinian Affairs Affairs in Parliament on Tuesday (14).
+
+Palestinians have been badly affected by the inhuman attack of Israel. We are worried about the present situation of the Palestinians.
+
+When World War II intensified, the Great Britain signed a deal with the Jews to end the war. The Jews urged the British to have a country or kingdom after the end of the war.
+
+Tamils live in the world. They are based on South Indian Dravidian language so that they are giving them a unique country within Sri Lanka, giving them a great British fake independence.
 
 ...
 
 [Data](articles/040563e4.json)
+
+[Extended Data](ext_articles/040563e4.ext.json)
 
 ---
 
@@ -388,17 +404,47 @@ The Railway Control Room notes that this situation has been emerged due to a sig
 
 ---
 
-### கடந்தகால ஜனாதிபதி தேர்தல்களில் தமிழர்களும் முஸ்லிம்களும் வாக்களித்த போக்குகள்
+### Trends that Tamils and Muslims voted in the past presidential elections
 
 *2024-05-14 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183559) · `ta`
 
-2024 ஜனாதிபதி தேர்தல் எதிர்வரும் செப்டெம்பர் 17 ஆம் திகதிக்கும்  அக்டோபர் 16 ஆம் திகதிக்கும் இடைப்பட்ட ஒரு திகதியால் நடத்தப்படும் என்று இலங்கை தேர்தல்கள் ஆணைக்குழு கடந்தவாரம் அறிவித்தது. ஏற்கெனவே தெரிந்த விடயத்தையே தேர்தல்கள் ஆணைக்குழு திரும்பக் கூறியிருக்கிறது. பிரத்தியேகமான திகதி ஒன்று அறிவிக்கப்படவில்லை என்றபோதிலும், தேர்தல் செப்டெம்பர் பிற்பகுதியில் அல்லது அக்டோபர் முற்பகுதியில் நடத்தப்படக்கூடிய சாத்தியம் இருக்கிறது.
+The upcoming 2024 presidential election in Sri Lanka is shaping up to be a significant event, with the potential for a close contest among the main contenders. The Sri Lanka Elections Commission has announced the election dates, and while the specific candidates have not been officially announced, the media has speculated on potential contestants, including Anura Kumarathisanayake from the Janata Vimukthi Peramuna (JVP) and the National People's Power.
 
-கடந்த காலத்தைப் போன்று ஜனாதிபதி பதவிக்கு பலர் போட்டியிடுவார்கள். சிலர் தேர்தலில் போட்டியிடும் தமது விருப்பத்தை வெளிப்படையாகக் கூறியிருக்கின்ற அதேவேளை, போட்டியிடக்கூடிய மற்றையவர்களின் பெயர்கள் ஊடகங்களில் வெளியாகின்றன.  ஆனால், வெற்றி வாய்ப்பைக் கொண்ட பிரதான போட்டியாளர்களாக மூவர் மாத்திரமே இருக்கின்றனர். தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி. ) / தேசிய மக்கள் சக்தியின் தலைவர் அநுரா குமாரதிசாநாயக்கவுமே அவர்கள்.
+
+
+The election is expected to be a triangular contest, with the votes of the Sinhalese community, the largest majority in Sri Lanka, potentially being split among the main candidates. This could lead to a situation where no candidate secures the 50% required to win outright in the first round, necessitating a second round of voting.
+
+
+
+The votes of minority communities, including Sri Lankan Tamils, Muslims, and Indian origin Tamils, are crucial in this context. These communities, while constituting a smaller percentage of the total population, are significant in certain districts and could potentially sway the outcome of the election.
+
+
+
+Historically, the votes of these minority communities have played a pivotal role in past presidential elections. For instance, in the 1999 election, Chandrika Kumaratunga's victory was attributed to a wave of sympathy following an assassination attempt, which also affected the outcome of the 2005 election. The 2015 election saw a significant shift, with the winning candidate, Maithripala Sirisena, receiving fewer Sinhalese votes but securing a majority among non-Sinhalese voters.
+
+
+
+The 2019 election saw a return to a more traditional voting pattern, with Gotabhaya Rajapaksa securing a majority among Sinhalese voters, despite receiving significant support from minority communities.
+
+
+
+As the 2024 election approaches, the role of minority communities, particularly the Sri Lankan Tamils and Muslims, will be crucial. Their support could potentially decide the outcome, especially if the Sinhalese votes are divided among the main candidates. The historical voting patterns and the strategic importance of minority communities in past elections suggest that their support could be decisive in the upcoming election.
+
+
+
+In conclusion, the 2024 presidential election in Sri Lanka is expected to be a closely contested affair, with the votes of minority communities potentially playing a pivotal role in determining the outcome. The historical context and the strategic importance of these communities in past elections underscore their significance in the upcoming contest.
+
+🟩
+
+The Sri Lanka Elections Commission announced last week that the 2024 presidential election will be held on September 17 and October 16. The Elections Commission has repeated the matter already known. Although the exclusive date has not been announced, the election is possible to be held in late September or early October.
+
+Many will compete for the presidency as in the past. While some have explicitly expressed their desire to contest the election, the names of other people who are contesting are published in the media.But, only the three are the main contestants with the opportunity to win. Janata Vimukthi Peramuna (JVP). ) / The leader of the National People's Power is Anura Kumarathisanayake.
 
 ...
 
 [Data](articles/1f31ffd4.json)
+
+[Extended Data](ext_articles/1f31ffd4.ext.json)
 
 ---
 
@@ -1620,41 +1666,59 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 
 ---
 
-### இலங்கை தொலைத்தொடர்புகள் திருத்த சட்டமூலத்தை வாபஸ் பெறவேண்டும் -    எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் கோரிக்கை
+### Sri Lankan telecommunications amendment Bill should be withdrawn - Opposition Leader requests government
 
 *2024-05-14 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183531) · `ta`
 
-இலங்கை தொலைத் தொடர்புகள் திருத்த சட்டமூலத்தால் ஊடக சுதந்திரத்துக்கு பாதிப்பு ஏற்படும் அபாயம் இருக்கிறது. அதனால் இந்த சட்டமூலத்தை அரசாங்கம் வாபஸ் பெற்றுக்கொள்ள வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa urges the Sri Lankan government to withdraw the Telecommunication Amendment Bill, citing risks to media freedom and lack of public consultation. The bill, criticized for its potential harm to free media, was submitted without sufficient examination of public opinions. Premadasa expresses dissatisfaction and threatens legal action, emphasizing the importance of independent media in a democratic country.
 
-மக்களின் கருத்துகளை போதியளவு ஆராயாமல் இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டத்தை பாராளுமன்றத்தில் சமர்ப்பித்துள்ளீர்கள்.
+🟩
 
-இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டம் தொடர்பில் பலர் குற்றச்சாட்டுக்களை முன்வைக்கின்றனர்.  இந்த வரைவில் சுதந்திர ஊடகத்திற்கு பாதகம் விளைவிக்கும் பல முன்மொழிவுகள் உள்ளன.
+There is a risk of media freedom by the Sri Lanka Telecommunication Bill. Opposition leader Sajith Premadasa said the government should withdraw the bill.
 
-போதியளவு மக்கள் மத்தியில் கலந்தாலோசிக்காமல், ஏனைய தரப்பினரின் கருத்துக்களை கேட்டறியாமல் இந்த திருத்த சட்டமூலம் சமர்ப்பிக்கப்பட்டிருக்கிறது.
+You have submitted the Sri Lanka Telecommunication Act to Parliament without insufficient examining the people's opinions.
 
-இலங்கை தொலைத் தொடர்புகள் திருத்தச் சட்டத்தில் சுதந்திர ஊடகத்திற்கு  பாதகமான பல ஷரத்துகள்  உள்ளடக்கப்பட்டுள்ளன.
+Many people make allegations regarding the Sri Lankan telecommunications amendment law.There are many proposals that are harmful to the free media in this draft.
+
+The amendment Bill has been presented without consulting enough people and without hearing the opinions of other parties.
+
+The Sri Lanka Telecommunication Amendment Act includes a number of adverse stages that are adverse to the free media.
+
+This includes the idea of obtaining compensation and obtaining their media permits and the Commission to issue a commission on the welfare of the public in accordance with the Commission's decision.
 
 ...
 
 [Data](articles/8067f809.json)
 
+[Extended Data](ext_articles/8067f809.ext.json)
+
 ---
 
-### நெதன்யாகுவை பயங்கரவாதி என்று  குறிப்பிடுவதை தவிர்க்க முடியாது - டிலான் பெரேரா
+### It is impossible to refer to Netanyahu as a terrorist - Dylan Perera
 
 *2024-05-14 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183528) · `ta`
 
-பலஸ்தீனர்களுக்கு இலங்கை தனது ஒத்துழைப்பை வழங்க வேண்டும்.சர்வதேச யுத்த கோட்பாடுகளை இஸ்ரேல் கடைப்பிடிக்கும் வரை இஸ்ரேலுக்கு தொழில் வாய்ப்புகளுக்காக இலங்கையர்களை அனுப்புதை தற்காலிகமாக இடைநிறுத்த வேண்டும்.
+Dylan Perera argues that labeling Netanyahu as a terrorist is unjust, emphasizing the need for humanitarian support for Palestinians. He criticizes the destruction in Gaza, where 34,183 deaths and 77,804 injuries have occurred, with 62% of homes damaged. Perera calls for Sri Lanka's support for Palestinians, highlighting the UN's role in peace and the US's support for Netanyahu, despite his actions challenging the UN Human Rights Commission.
 
-இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவை  பயங்கரவாதி என்று குறிப்பிடுவதை தவிர்க்க முடியாது என பாராளுமன்ற உறுப்பினர்  டிலான் பெரேரா தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Sri Lanka should provide its cooperation to the Palestinians.
 
-2024 ஆம் ஆண்டு வரவு செலவு திட்டத்தின் போது  பலஸ்தீனர்களுக்கு ஆதரவு வழங்கும் வகையில்  சால்வை அணிந்து சபைக்கு வருகை தந்தேன்.அப்போது ஒருசிலர் என்னை பார்த்து 'டிலான் சிங்கள தம்பியா' என்று குறிப்பிட்டார்கள்.கடந்த காலங்களில் தமிழர்களின் உரிமைகளுக்காக பேசி போது' டிலான் கொடியா' என்றும் ஒருசிலர்  என்னை விமர்சித்தார்கள்.
+Parliamentarian Dylan Perera said Israeli Prime Minister Benjamin Netanyahu could not be referred to as a terrorist.
+
+He was speaking at a debate on the adjournment of the Palestinian Affairs Council on Tuesday (13) in Parliament.
+
+During the budget of 2024, I came to the congregation to support the Palestinians to support the Palestinians. Some people looked at me and referred to me as 'Dylan Sinhala Thambia'.
+
+The plight of the Palestinians should not be seen from the religious angle of Sinhalese, Catholicism and Islam. It should be seen on a humanitarian basis.
+
+The United Nations Human Rights Commission has stated that 34 thousand 183 people have been killed and 77 thousand 804 have been killed in Gaza in Gaza area for 20 minutes.
 
 ...
 
 [Data](articles/36fbe19d.json)
+
+[Extended Data](ext_articles/36fbe19d.ext.json)
 
 ---
 
@@ -1870,21 +1934,29 @@ Are the liquor -licenses, the types of taxes and the taxes that the companies pa
 
 ---
 
-### பலஸ்தீனத்தில் இடம்பெறும்  இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நேர்ந்தது : இலங்கையின் நயவஞ்சகம் வெறுக்கத்தக்கது - சுமந்திரன்
+### The genocide in Palestine was also for Tamils in Sri Lanka: Sumanthiran is disgusting - Sumanthiran
 
 *2024-05-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183521) · `ta`
 
-பலஸ்தீனத்தில் இடம்பெறும்  இனப்படுகொலைதான் இலங்கையில் தமிழர்களுக்கும் நேர்ந்தது.  பலஸ்தீனத்திற்கு குரல் கொடுக்கும் இலங்கை, தமிழர்களுக்கு என்ன செய்தது? இதுதான் இலங்கையின் நயவஞ்சக தன்மை மற்றும் இரட்டை வேடம். பாலஸ்தீனத்தின் மீது அக்கறை கொண்டுள்ளீர்கள். அந்த அக்கறை எங்கள் மக்கள் மீது இல்லையா? என்று கேட்கின்றேன்.
+Sumanthiran, a TNA parliamentarian, draws parallels between the plight of Tamils in Sri Lanka and Palestinians, highlighting the need for international intervention in both cases. He criticizes the dual standards applied when addressing human rights violations and genocides, questioning why the International Criminal Court's involvement in Palestine is considered an internal affair for Sri Lanka's actions against its own people.
 
-பலஸ்தீன விடயத்தில் சர்வதேச குற்றவியல் நீதிமன்றம் தொடர்பிலும், சர்வதேச தலையீடு அவசியம் என்றும் கூறும் இலங்கை எமது மக்கள் மீது கட்டவிழ்த்துவிடப்பட்ட நடவடிக்கைகள் தொடர்பில் கூறும் போது உள்ளக விவகாரம் என்று  கூறுவது ஏன் ?  என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் சபையில் கேள்வி எழுப்பினார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற  பலஸ்தீன விவகாரம் தொடர்பான சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Tamils in Sri Lanka were the genocide in Palestine.What did Sri Lanka do to the Tamils, who voice their voice to Palestine?This is the insidious character and the dual role of Sri Lanka. You are concerned about Palestine.Isn't that concern over our people?I hear that.
 
-பலஸ்தீனத்தின் இன்றைய நிலைமை மிகவும் பாரதூரமானதுடன்,கவலைக்குரியது . இந்த நிலைமையை எவரும் அலட்சியப்படுத்தகூடாது.
+Why is it that the International Criminal Court on the Palestinian issue and the need for international intervention is a matter of internal affairs when we speak of the unleashed actions on our people?TNA parliamentarian MA Sumanthiran questioned the House.
+
+He was speaking at a debate on the adjournment motion on the Palestinian Affairs Affairs in Parliament on Tuesday (14).
+
+Today's situation of Palestine is very serious and worried. No one should ignore this situation.
+
+They are talking about international crimes, including human rights, international human rights laws, and genocide. They are talking about the Palestinian situation, referring to the terrorist activities that have taken place within a country.
 
 ...
 
 [Data](articles/7c81f764.json)
+
+[Extended Data](ext_articles/7c81f764.ext.json)
 
 ---
 

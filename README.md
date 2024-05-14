@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 21:33:53**
+As of **2024-05-14 21:53:33**
 
 ## Newspaper Stats
 
-*Scraped **24,041** Articles*
+*Scraped **24,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,298
 economynextcom | 1,377
 dailyftlk | 1,390
-adalk | 2,054
-adaderanalk | 2,795
+adalk | 2,055
+adaderanalk | 2,796
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
 dailymirrorlk | 3,782
@@ -26,25 +26,43 @@ adaderanasinhalalk | 3,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,039 (100.0%) of 24,041 articles have been extended.
+24,041 (100.0%) of 24,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### දෙහිවලදී අත්අඩංගුවට ගත් 14දෙනා රිමාන්ඩ්
+### Train services disrupted on main line and Puttalam line
+
+*2024-05-14 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99219/train-services-disrupted-on-main-line-and-puttalam-line) · `en`
+
+The train services on the main line and the Puttalam line have been disrupted from Kelaniya due to a signal failure, the Sri Lanka Railways Control Room announced.
+
+◼️
+
+[Data](articles/2a9cfc03.json)
+
+---
+
+### 14 arrested for arrested in Dehiwala
 
 *2024-05-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196629) · `si`
 
-රජයේ දේපොළකට අයුතු ලෙස ඇතුළු වූයේ යැයි පැවසෙන සිද්ධියක් සම්බන්ධයෙන් ගල්කිස්ස මහේස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කරන ලද සැකකරුවන් 14 දෙනෙකු ලබන 28 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසට ගල්කිස්ස මහෙස්ත්‍රාත් නිලුපුලි ලංකාපුර මෙනෙවිය අද නියෝග කළාය.
+Fourteen people were arrested in Dehiwala for demolishing shacks in January. They were taken to court by the Mount Lavinia Special Investigation Unit and Dehiwala Police.
 
-ඉකුත් ජනවාරි මස පළමු වනදා බැකෝ යන්ත්‍ර යොදා කඩා ඉවත් කිරීමට කටයුතු කරන ලද දෙහිවල වෙරළ තීරයේ ඉදිකර තිබූ හෝටලයේ තාප්පයක් ඉදිකරමින් සිටි පුද්ගලයින් 14 දෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-ගල්කිස්ස විශේෂ විමර්ශන අපරාධ ඒකකය හා දෙහිවල පොලීසිය එක්වී සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කෙරුණි.
+Mount Lavinia Chiefurpura, Mt.
+
+Fourteen persons were arrested in the Dehiwala coastal coast, which was taken to demolish the backbacks in January.
+
+Mount Lavinia Special Investigation Unit and the Dehiwala Police were arrested and produced before the court.
 
 ◼️
 
 [Data](articles/4027e2e3.json)
+
+[Extended Data](ext_articles/4027e2e3.ext.json)
 
 ---
 
@@ -82,17 +100,23 @@ In 2008, the previous owners, The Finesse Collection, purchased the property and
 
 ---
 
-### දුම්රිය ධාවනයට බාධා
+### Train interrupts
 
 *2024-05-14 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196628) · `si`
 
-කැලණියේ සිට ප්‍රධාන මාර්ගයේ සහ පුත්තලම මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+Train service from Kelaniya to the main road and Puttalam road is disrupted due to a signal error.
 
-දුම්රිය පාලක මැදිරිය සඳහන් කරන්නේ සංඥා දෝෂයක් හේතුවෙන් මෙම තත්ත්වය මතුවී ඇති බවය.
+🟩
+
+The train on the Kelaniya to the main road and Puttalam road has been disrupted.
+
+The Railway Control Room notes that this situation has been emerged due to a signal error.
 
 ◼️
 
 [Data](articles/cf1afee5.json)
+
+[Extended Data](ext_articles/cf1afee5.ext.json)
 
 ---
 
@@ -173,6 +197,22 @@ The founding he was assaulted by him and hide the body in a toilet pit near the 
 [Data](articles/2707e5fd.json)
 
 [Extended Data](ext_articles/2707e5fd.ext.json)
+
+---
+
+### කැන්ගරු දේශයේ රැකියා මවා මුදල් ගැරූ සැකකරු දැලේ
+
+*2024-05-14 19:34:22* · [`adalk`](https://www.ada.lk/breaking_news/කැන්ගරු-දේශයේ-රැකියා-මවා-මුදල්-ගැරූ-සැකකරු-දැලේ/11-409634) · `si`
+
+ඕස්ට්‍රේලියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් ඊයේ දින (5/13) අත්අඩංගුවට ගන්නා ලදී.
+
+ශ්‍රි ලංකාවේ අඩු ආදායම් ලාභීන් සඳහා ඕස්ට්‍රේලියාවේ රැකියා ලබාදීමේ වැඩසටහනක් ක්‍රියාත්මක වන බවත්, ඒ සඳහා අවස්ථාවක් ලබාදිය හැකි බවත් පවසා පොල්ගහවෙල ප්‍රදේශයේ පදිංචි අයෙකු විසින් පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ තුන හමාරේ සිට ලක්ෂ 9 දක්වා මුදල් ලබාගෙන තිබේ. මුදල් ලබාදුන්නද පොරොන්දු වූ පරිදි රැකියාව හිමි නොවු බවට මුදල් ලබාදුන් පුද්ගලයින් විසින් කාර්යාංශයට පැමිණිලි කර ඇති අතර, ඒ අනුව අදාළ සැකකරු ප්‍රකාශ සටහන් කර ගැනීම සඳහා කාර්යාංශය වෙත කැඳවූ අවස්ථාවේදී අත්අඩංගුවට ගන්නා ලදී.
+
+අත්අඩංගුවට ගත් සැකකරු පොල්ගහවෙල පදිංචි 65 හැවිරිදි පුද්ගලයෙකු වන අතර, ඔහු තවත් අයෙකුගේ සහයෙන් මෙම ජාවාරම කරගෙන ගොස් ඇති බව වැඩිදුර විමර්ශනවලදී අනාවරණය විය. ඒ අනුව එම පුද්ගලයා අත්අඩංගුවට ගැනීම සඳහාද විමර්ශන නිළධාරීන් විසින් විමර්ශන මෙහෙයවනු ලබයි.
+
+...
+
+[Data](articles/4000946e.json)
 
 ---
 
@@ -2297,45 +2337,5 @@ After the incident, the residents were unhappily at the Wellawaya Moneragala aft
 [Data](articles/9e60c0d7.json)
 
 [Extended Data](ext_articles/9e60c0d7.ext.json)
-
----
-
-### Petition from Duminda against Wijayaka
-
-*2024-05-14 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196611) · `si`
-
-Duminda Dissanayake, MP, filed a petition against Wijayadasa Rajapakse, SLFP Chairman, in Colombo District Court, seeking an order to prevent him.
-
-🟩
-
-The Chairman of the Sri Lanka Freedom Party (SLFP) was filed before the Colombo District Court to issue a enjoining order preventing Mr. Wijayadasa Rajapakse.
-
-MP Duminda Dissanayake presented the petition.
-
-◼️
-
-[Data](articles/4a7f8f6d.json)
-
-[Extended Data](ext_articles/4a7f8f6d.ext.json)
-
----
-
-### Govt mulls nullifying 2023 LG poll nominations; election set for next year
-
-*2024-05-14 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99210/govt-mulls-nullifying-2023-lg-poll-nominations-election-set-for-next-year) · `en`
-
-President Ranil Wickremesinghe has instructed Prime Minister Dinesh Gunawardena to look into the possibility of invalidating the nominations accepted for the postponed 2023 Local Government (LG) election.
-
-Joining the Cabinet press briefing held this morning (14), Cabinet Spokesman Minister Bandula Gunawardena stated that accordingly, President Wickremesinghe has called on the Prime Minister to seek legal advice from the Attorney General in this regard.
-
-Furthermore, the Head of the State has directed the Premier to discuss with other political parties regarding the nullifying of the accepted nominations, the Minister added.
-
-Gunawardena also revealed that the instructions were given considering the fact that the government employees who have submitted nominations for the LG polls have undergone multiple issues in engaging in their jobs and during other activities.
-
-...
-
-[Data](articles/63cfb9d3.json)
-
-[Extended Data](ext_articles/63cfb9d3.ext.json)
 
 ---

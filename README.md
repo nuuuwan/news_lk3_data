@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 20:52:52**
+As of **2024-05-14 21:04:05**
 
 ## Newspaper Stats
 
-*Scraped **24,034** Articles*
+*Scraped **24,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,72 @@ adalk | 2,053
 adaderanalk | 2,795
 tamilmirrorlk | 2,814
 virakesarilk | 3,609
-dailymirrorlk | 3,780
+dailymirrorlk | 3,782
 adaderanasinhalalk | 3,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,031 (100.0%) of 24,034 articles have been extended.
+24,034 (100.0%) of 24,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### சமிக்ஞை கோளாறு ரயில் பயணிகள் சிரமம்
+### Despite torrential rains...
 
-*2024-05-14 20:20:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமிக்ஞை-கோளாறு-ரயில்-பயணிகள்-சிரமம்/175-337305) · `ta`
+*2024-05-14 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Despite-torrential-rains/110-282589) · `en`
 
-களனியில் இருந்து ஜா-எல வரையிலான புகையிரத பாதையில் சமிக்ஞை விளக்கு செயலிழந்துள்ளதால், பல ரயில்கள் இடையில் நிறுத்தப்பட்டுள்ளதுடன், பிரதான பாதை மற்றும் புத்தளம் பாதையில் செல்லும் ரயில்கள் தாமதமாகச் செல்கின்றதாக தெரிவிக்கப்படுகின்றது.
+People walking along the streets of Colombo on May 14, 2024 with umbrellas as heavy showers were experienced during the day. Pix by Pradeep Pathirana
 
-அந்த வகையில், ராகம புகையிரத நிலையத்திற்கு அண்மித்த காட்டுப்பகுதியில் புகையிரதம் நிறுத்தப்பட்டமையினால் களனியில் இருந்து ராகம நோக்கி செல்லும் பல புகையிரதங்கள் நிறுத்தப்பட்டுள்ளதாகவும் பயணிகள் பெரும் சிரமத்திற்கு உள்ளாகியுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+◼️
 
-மாலை 5.05 மணியளவில் கொழும்பு கோட்டையில் இருந்து ரம்புக்கனை நோக்கி புறப்பட்ட ரயில் தற்போது ஹோரோப் புகையிரத நிலையத்திற்கு அருகில் உள்ள காட்டுப்பகுதியில் நிறுத்தி வைக்கப்பட்டுள்ளதாக புகையிரதத்தில் பயணித்த பயணிகள் தொலைபேசி மூலம் தகவல் வழங்கியுள்ளனர்.
+[Data](articles/032865f8.json)
 
-சுமார் இரண்டு மணி நேரம் ரயில் நிறுத்தப்பட்டதால் பயணிகள் நுளம்புத் தொல்லைக்கு ஆளானதாகவும், பின்னால் வந்த பல ரயில்கள் வேறு வழியில் முன்னேறிச் சென்றதாகவும் பயணிகள் தெரிவித்தனர்.
+---
+
+### A leading hotel in Derby, UK sold to Sri Lankan company
+
+*2024-05-14 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-leading-hotel-in-Derby-UK-sold-to-Sri-Lankan-company/108-282602) · `en`
+
+UK, May 14 - A leading hotel in Derby, in the United Kingdom - Cathedral Quarter Hotel - has been sold to a Sri Lankan company, Derbyshire Live news agency reported.
+
+The Grade II-listed Cathedral Quarter Hotel in St Mary's Gate has been bought by Rashmi Dedigama and Peter Karan of Lavendish Leisure, a subsidiary of the Dedigama Group, for an undisclosed amount
+
+The city centre hotel, where the late Queen Elizabeth II dined in 2010, which earned the head chef her personal thanks, has 38 individually designed ensuite bedrooms. It is a Victorian property that previously served as a police station and also as council headquarters.
+
+In 2008, the previous owners, The Finesse Collection, purchased the property and converted it into a boutique hotel. The property still retains its period features, including Victorian mosaic floors, stained-glass windows and a grand central staircase.
 
 ...
 
+[Data](articles/8cd75b66.json)
+
+---
+
+### Signal disorder train passenger difficulty
+
+*2024-05-14 20:20:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமிக்ஞை-கோளாறு-ரயில்-பயணிகள்-சிரமம்/175-337305) · `ta`
+
+Train delays and cancellations between Kelaniya and Ja-Ela, and from Kelaniya to Ragama, due to a stopped train in the forest near Ragama Railway Station. Passengers faced difficulties, with the Colombo Fort to Rambukkan train delayed and parked near Horop Railway Station.
+
+🟩
+
+Many trains have been shut down between Kelaniya to Ja-Ela railway line and many trains have been stopped and trains on the main route and Puttalam route are delayed.
+
+Accordingly, a number of trains from Kelaniya to Ragama have been stopped due to the stopping of the train in the forest near the Ragama Railway Station and the passengers have been in great difficulty.
+
+Passengers on the train have been informed by telephone that the train from Colombo Fort to Rambukkan at 5.05 pm has now been parked in the forest near the Horop Railway Station.
+
+The passengers said that the train was stopped for about two hours and that many trains that followed were progressing in a different way.
+
+The passengers were accused of stopping at the Horabe Railway Station at around 7.10 pm at 5.05 pm. Remble
+
+◼️
+
 [Data](articles/625eb671.json)
+
+[Extended Data](ext_articles/625eb671.ext.json)
 
 ---
 
@@ -70,51 +108,69 @@ Meanwhile, more than a hundred police have been searching for the incident.
 
 ---
 
-### වසර ගණනකට පසුව හෙළිවූ තිදරු මවගේ අභිරහස
+### The mystery of the mother revealed years later
 
 *2024-05-14 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196627) · `si`
 
-ගාල්ල තවලම ප්‍රදේශයේදී සිදුවූ කාන්තා ඝාතනයක අබිරහසක් සිව්වසරක් මුළුල්ලේ සිදුකළ විමර්ශනයකින් පසුව අනාවරණ කරගැනීමට ගාල්ල පොලිස් කොට්ඨාස අපරාධ අංශය සමත් වුණි.
+In 2020, a woman's body was found in a pit in Galle, leading to a murder investigation. The victim, a 25-year-old mother from Tawalama, was identified as Niroka, who had been reported missing. Her husband, Santha (also known as Henagam Shantha or Henagala St.), was arrested after four years of investigation. He confessed to assaulting Niroka and hiding her body. The case involved a family dispute and highlighted the challenges in solving such crimes.
 
-එහිදී අනාවරණ වී තිබුණේ අදාළ කාන්තාවගේ අනියම් සැමියා විසින් ඇය ඝාතනය කර සිරුර වැසිකිළි වළකට දමා තිබූ බවය.
+🟩
 
-ඒ අනුව මීට වසර හතරකට පෙර ඝාතනය කෙරුණු විසිනව හැවිරිදි තිදරු මවකගේ මෘතදේහය ගාල්ල තවලම හල්ලකන්ද ප්‍රදේශයේ කැලෑබද ඉඩමක වැසිකිලි වලක සඟවා තිබියදී ගොඩගෙන තිබුණි.
+The Galle Police Code of Criminal was later revealed after the investigation of a murder of a woman killed in Tawalama area in Galle.
 
-නිලූෂිකා සඳමාලි නම්වූ ඇය 2020 වසරේ ජූනි මස 6 වනදා සිට අතුරුදන්ව තිබූ අතර ඇයගේ මව විසින් ඒ සම්බන්ධයෙන් එවක පොලිසියට පැමිණිල්ලක්ද ගොනුකර තිබුණි.
+There was revealed that the woman's casual midnation was killed and the body had been put into a toilet pit.
 
-සිය පළමු විවාහයෙන් වෙන්වූ නිලූෂිකා සිය දරුවන් දෙදෙනාද සමඟ "බතල ශාන්ත" නමැත්තෙකු සමඟ දිවිගෙවමින් සිට ඇති අතර, ඔහුට දාව එක් පුතෙකුද ඇයට සිට තිබුණි.
+Accordingly, the remains of a twenty-five year old mother of Twentyian Hallakanda was recovered from Galle Hallakanda, Galle Hallakanda area.
 
-මෙම තිදරු මවගේ අතුරුදන්වීම සම්බන්ධයෙන් පොලිසිය එවකට විමර්ශන සිදුකළද කිසිදු තොරතුරක් අනාවරණ කර ගැනීමට නොහැකිවිය.
+She was named after June 6, 2020, and her mother had lodged a complaint with the police.
 
-සිද්ධිය සම්බන්ධ විමර්ශන ගාල්ල කොට්ඨාස අපරාධ අංශය වෙත යොමුකෙරෙන්නේ එවන් පසුබිමකය.
+Niroka has been ralved with his first marriages with her two children, and she had a son.
+
+The police were conducting investigations into the disappearance of the mother of the mother.
+
+It is from such a background that will refer to the Galle Divisional Secretariat Division.
+
+Accordingly, the police investigated four years, the police were arrested by the woman's casual husband, "Santha ', or Henagam Shantha, or" Henagala St. ".
+
+The founding he was assaulted by him and hide the body in a toilet pit near the house.
 
 ...
 
 [Data](articles/2707e5fd.json)
 
+[Extended Data](ext_articles/2707e5fd.ext.json)
+
 ---
 
-### රුසියානු ඛේදවාචකයේ අලුත්ම කතාව මෙන්න
+### Here is the latest story of the Russian tragedy
 
 *2024-05-14 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196626) · `si`
 
-රුසියානු හමුදා සේවය සඳහා අනීතිකව ගොස් සිටින ශ්‍රී ලාංකිකයින් පිළිබඳව අද දෙරණ දිගින් දිගටම සිදුකළ අනාවරණත් සමග මේ වනවිට දිවයිනේ විවිධ ප්‍රදේශවලින් තවදුරටත් තොරතුරු වාර්තා වෙයි.
+Sri Lankans, including Premasiri Abeykoon, a former commando, have been sent to Russia for military service. Their families demand intervention for their return, claiming they're given privileges. A group handed over a memorandum to the Russian embassy and the UN's Sri Lanka Office, seeking help.
 
-එලෙස රුසියානු යුද්ධයට යොමුකරන ලද පුද්ගලයෙකුගේ ඡායාරූපයක් ද සිද්ධියට මුහුණදුන් ලාංකිකයින් අප වෙත යොමුකර තිබේ.
+🟩
 
-රුසියාව බලා පිටත්ව ගිය ශ්‍රී ලාංකිකයින් සංඛ්‍යාව මෙතෙක් නිශ්චිත වශයෙන් ගණනය කරගැනීමට නොහැකිවූවද අද දෙරණ සිදුකරණ අනාවරණත් සමඟ තවත් බොහෝ පිරිසක් මෙම මිනිස් ජාවාරමට හසුවී ඇති බව පැහැදිළි කරුණකි.
+Ada Derana continued reveals regarding the Russian military service is further revealed in various parts of the island.
 
-බණ්ඩාරවෙල වටගමුව ප්‍රෙද්ශයේ පදිංචි ශ්‍රී ලංකා යුද හමුදාවේ කමාන්ඩෝ රෙජිමේන්තුවේ සේවය කළ ප්‍රේමසිරි අබේකෝන්ද එලෙස රුසියාවට ගිය තවත්  පුද්ගලයෙකි.
+As a photo of a person who was sent to the Russian war, the Sri Lankans have also been sent to us.
 
-නමුත් පසුගිය මාර්තු මාසයේ සිට ප්‍රේමසිරි පිළිබඳව කිසිදු තොරතුරක් ලැබී නොමැත.
+Although the number of Sri Lankans who have left for Russia has not yet calculated, there are many other people with Ada Derana.
 
-විවිධ වරප්‍රසාද ලබාදෙන බව පවසමින් රුසියාව වෙත ගෙන්වා ගත් එම පිරිසට පළමු දින කිහිපයේදී සුපිරි හෝටල් වෙතින් ආහාරපානද ලබාදුන් බවට මෙම සාක්ෂි දරන ඡායාරූප කිහිපයක් ද අපවෙත ලැබී ඇත.
+Premasiri Abeykoon, who had been in the Regiment of the Sri Lanka Army's commando regiment, who had been in the Regiment of the Sri Lanka Army's Commando Regiment, a resident of Watagamuwawela.
 
-ඒ අතර ලාංකිකයින්ගේ භාරකරු ලෙස රුසියාවේදී කටයුතු කරන පුද්ගලයෙකු ද සිටී.
+However, since March, no information on Premasiri has been received from March.
+
+We have also received several photos of this witness to Russia, claiming that they were given various privileges.
+
+In the meantime, there is a person who works in Russia as the trustee of Sri Lankans.
+
+The relatives of many who have gone to Russia say that they are provided with comfort and direct the Russian front ring.
 
 ...
 
 [Data](articles/08b40f7d.json)
+
+[Extended Data](ext_articles/08b40f7d.ext.json)
 
 ---
 
@@ -2303,51 +2359,5 @@ In footage shared on social media, two people were seen dragging an estate worke
 [Data](articles/8f547b61.json)
 
 [Extended Data](ext_articles/8f547b61.ext.json)
-
----
-
-### Renewed crisis grips ‘Suwa Seriya’ ambulance service, claims Sajith
-
-*2024-05-14 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99208/renewed-crisis-grips-suwa-seriya-ambulance-service-claims-sajith-) · `en`
-
-Opposition Leader Sajith Premadasa alleged that 56 out of the 322 ambulances belonging to the ‘1990’ ‘Suwa Seriya’ free ambulance service are now out of service.
-
-Speaking during today’s (14) Parliamentary session, Premadasa urged the government to take immediate action to safeguard the ‘Suwa Seriya’ Ambulance Service from collapse.
-
-He further highlighted that a significant number of ‘Suwa Seriya’ ambulance drivers and Emergency Medical Technicians (EMTs) have departed the country, leading to prolonged periods required for training replacements.
-
-Additionally, only a limited number of individuals have shown interest in joining the ‘Suwa Seriya’ service, the Opposition Leader stressed.
-
-“In fact, adequate attention and support from the government has not been received for the repair of these ambulances and addressing their deficiencies. Therefore, I urge the government to intervene to maintain and protect this ‘Suwa Seriya’ service”, Premadasa further stated.
-
-◼️
-
-[Data](articles/b163f416.json)
-
-[Extended Data](ext_articles/b163f416.ext.json)
-
----
-
-### Fourth phase of Indian parliamentary election - 67 per cent voting ..!
-
-*2024-05-14 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183500) · `ta`
-
-In the fourth phase of India's parliamentary elections, 67% of voters turned out across 96 constituencies in 10 states. Voting was peaceful, with minor incidents reported in Andhra Pradesh, West Bengal, and Bihar. The turnout was notably higher than the previous phase, indicating a strong voter interest.
-
-🟩
-
-The Election Commission said that 67 per cent of the voting was held in the fourth phase of the parliamentary elections in India.
-
-The fourth phase of the election was held on May 13 for the 96 Lok Sabha constituencies in the ten states of India - Andhra Pradesh, Telangana, West Bengal, Uttar Pradesh, Maharashtra, Bihar, Madhya Pradesh, Jharkhand, Odisha and Jammu and Kashmir.
-
-Elections officials were taken to the low -level areas of Andhra Pradesh, Jharkhand and Odisha with a helicopter and boat with voting machines.
-
-Voting was held from 7 am to 6:00 pm. The ruling YS in only a few constituencies in Andhra Pradesh. A small number of violence was held for the Congress party and the opposition Telugu Desam Party. Both parties have lodged a complaint with the Election Commission.There have also been reports that violence has taken place on some polling booths in West Bengal and Bihar.
-
-...
-
-[Data](articles/c866daf2.json)
-
-[Extended Data](ext_articles/c866daf2.ext.json)
 
 ---

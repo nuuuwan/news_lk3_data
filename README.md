@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 10:03:27**
+As of **2024-05-14 10:18:06**
 
 ## Newspaper Stats
 
-*Scraped **23,871** Articles*
+*Scraped **23,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,032
 adaderanalk | 2,780
 tamilmirrorlk | 2,796
 virakesarilk | 3,563
-dailymirrorlk | 3,754
+dailymirrorlk | 3,757
 adaderanasinhalalk | 3,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,869 (100.0%) of 23,871 articles have been extended.
+23,871 (100.0%) of 23,874 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,6 +116,22 @@ Police have lodged a complaint with the Matugama that he had disappeared from ye
 
 ---
 
+### Lime prices up but cultivators incur losses
+
+*2024-05-14 09:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lime-prices-up-but-cultivators-incur-losses/108-282553) · `en`
+
+Farmers in the Anuradhapura District who cultivated lime are in a predicament for want of a remunerative market for their produce, while the price of lime has skyrocketed in urban areas due to the ongoing racket of the middleman.
+
+The National Consumers’ Organisation Asela Sampath told the media after attending a programme in Thalawa Divisional Secretariat that the farmers were being exploited by the racketeers who purchased their produce at very low prices.
+
+“The wholesale purchase price of lime in Anuradhapura area is Rs. 50.00 per kilo, but the current market price is Rs. 2,000. Farmers are not harvesting their yield to avoid heavy losses. The yield is left under the trees. Other agricultural produce face a similar fate. The current market price of ginger is Rs. 4,000. A mechanism should be worked out to preserve lime and other agricultural produce that are abundant during the harvesting season for the off-season market.
+
+...
+
+[Data](articles/6136b600.json)
+
+---
+
 ### The possibility of increasing the rain
 
 *2024-05-14 09:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அதிகரிக்கக்-கூடிய-சாத்தியம்/175-337275) · `ta`
@@ -166,6 +182,26 @@ The other injured person has been transferred to Karapitiya Hospital for further
 
 ---
 
+### Temperatures to drop as monsoon arrives: Met. Dept.
+
+*2024-05-14 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperatures-to-drop-as-monsoon-arrives-Met-Dept/108-282551) · `en`
+
+Colombo, May 14 (Daily Mirror) - As higher rainfall spreads across the country and the southwest monsoon activates after May 20, temperatures, which have risen to a 'caution level' for human comfort, are expected to decrease, the Meteorology Department said.
+
+They said higher rainfall would be experienced in most of the parts of the country. Accordingly, due to a low-level atmospheric disturbance, heavy rainfall of more than 100mm is likely after 1 p.m. in the Central, Sabaragamuwa, Eastern, Southern and Uva provinces and the rain is expected to be enhanced during the next few days.
+
+Showers may occur in the eastern and southern provinces during the morning.
+
+Misty conditions can be expected at some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+Accordingly, Matale, Kandy, Kegalle, Nuwara Eliya, Badulla, Monaragala, Kalutara, Ratnapura, Galle and Matara districts were elevated to a high risk level due to higher rainfall.
+
+...
+
+[Data](articles/7b3a9fc0.json)
+
+---
+
 ### Sri Lanka 20/20 departed
 
 *2024-05-14 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196601) · `si`
@@ -203,6 +239,24 @@ In addition, the court has ordered the suspension of driver's licenses of the 15
 [Data](articles/b09e2a1a.json)
 
 [Extended Data](ext_articles/b09e2a1a.ext.json)
+
+---
+
+### I hear that MPs’ vehicle permits approved: Chandima
+
+*2024-05-14 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-hear-that-MPs-vehicle-permits-approved-Chandima/108-282552) · `en`
+
+Parliament, May 14 (Daily Mirror)- Parliamentarian Chandima Weerakkody said yesterday he got to know that vehicle permits for Members of Parliament had been passed according to the request of the government.
+
+He told Parliament that most people were expecting to import vehicles but the government claimed that vehicles could be imported next year.
+
+"Most people are expecting to import vehicles. But, the government said vehicles can be imported only next year. However, I heard that MPs' permits have been passed following your request," he told the government MPs in Parliament.
+
+Speaking during the debate, he said President Ranil Wickremesinghe claimed that the salaries of government employees would be increased next year and added that all these promises are given to hoodwink the people.
+
+◼️
+
+[Data](articles/4543966a.json)
 
 ---
 
@@ -2056,100 +2110,48 @@ The event is organized in collaboration with the Ministry of Foreign Affairs. (C
 
 ---
 
-### ඇමති විජයදාසට පොහොට්ටුවෙන් විනය ක්‍රියාමාර්ග නෑ?
+### No disciplinary action from Minister Wijayada?
 
 *2024-05-13 19:26:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-පොහොට්ටුවෙන්-විනය-ක්‍රියාමාර්ග-නෑ-/11-409612) · `si`
 
-විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂ සාමාජිකතවය ලබා ගත්තේ යැයි පැවසුවද ඔහු වත්මන් ආණ්ඩුවේ අමාත්‍ය ධුරයක් හොබවන බැවින් ඔහු පාර්ලිමේන්තු මන්ත්‍රී ධුරය නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් ඊට අදාළ විනය ක්‍රියාමාර්ග ගැනීම සිදු නොකරනු ඇතැයි 'අද'ට වාර්තා වේ.
+Wijayadasa Rajapakse, a minister in the Sri Lankan government, has not faced disciplinary action from the Sri Lanka Civil Front, despite concerns raised by the party's leaders. The General Secretary of the Sri Lanka General Front has communicated these concerns to the party's leadership, but no action has been taken. This situation is part of a larger debate within the party regarding the support for the interim government.
 
-ඒ අනුව මේ පිළිබඳ 'අද' සිදුකළ විමසීමේදී ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම්, පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා ප්‍රකාශ කර සිටියේ විජයදාස රාජපක්ෂ මහතා සම්බන්ධයෙන් ගතයුතු විනය ක්‍රියාමාර්ග පිළිබඳ වූ නිර්දේශ පක්ෂයේ විනය මණ්ඩලය විසින් පක්ෂ ප්‍රධානීන් වෙත මේ වනවිට දැනුම් දී ඇති බවයි.
+🟩
 
-කෙසේ වුවද , අන්තර්කාලීන ආණ්ඩුව පවත්වා ගෙන යාම සඳහා සහාය ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් ලබා දී ඇති එකඟතාව හේතුවෙන් එම ආණ්ඩුව නියෝජනය කරන අමාත්‍යවරයෙකු වන විජයදාස රාජපක්ෂ මහතා සම්බන්ධයෙන් විනය ක්‍රියාමාර්ග ගැනීම පිළිබඳ දීර්ඝ ලෙස තවදුරටත් පක්ෂයක් ලෙස සාකච්ඡා කළ යුතුව ඇතැයි ඔහු පැවසීය.
+It is reported that Wijayadasa Rajapakse said the SLFP had obtained the SLFP member, but he will not take the relevant disciplinary action by the Sri Lanka Civil Front of the Sri Lanka Government.
 
-...
+Accordingly, the General Secretary of the Sri Lanka General Front, the General Secretary of the Sri Lanka Civil Front, the General Secretary of the Sri Lanka Civil Front, said that the members of the party had informed the leaders of the party's heads of disciplinary action regarding Wijayadasa Rajapakse.
+
+However, he has to be discussed as a lengthy party in the event of the Sri Lanka General Wickremesinghe to support the maintenance of the interim government.said.
+
+Speaking further the General Secretary said that Wijayadasa Rajapakse is a minister representing the present government, he is abolishing against disciplinary action against him.
+
+◼️
 
 [Data](articles/0574891b.json)
 
+[Extended Data](ext_articles/0574891b.ext.json)
+
 ---
 
-### රජයේ විධායක නිලධාරීන් හෙට සිට අකුරට වැඩ
+### Government Executives work from tomorrow
 
 *2024-05-13 19:21:34* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-විධායක-නිලධාරීන්-හෙට-සිට-අකුරට-වැඩ/11-409611) · `si`
 
-රජයේ විධායක නිලධාරීන්ට ඇති වී තිබෙන විසඳීම ප්‍රමාද කරන නිසා එයට විරෝධය  පා ශ්‍රේණි 18 ක සේවය කරන නිලධාරීන් හෙට (15දා) සිට අකුරට වැඩ කිරිමේ වෘත්තීය ක්‍රියා මාර්ගයක් ආරම්භ කරන බව රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුව සඳහන් කරයි.
+Tomorrow, a joint committee of government executives will convene, addressing delays and launching various services including State Engineering, Aryurveda Medicine, Education Administration, Survey, English, Fisheries, and Labor Commissioner Services. The committee aims to resolve salary anomalies and unfair practices, following a strike and protest in Colombo. Prime Minister Dinesh Gunawardena has appointed a committee to address these issues, with decisions to be made by the Cabinet.
 
-රාජ්‍ය ඉංජිනේරු සේවය, අයුර්වේද වෛද්‍ය සේවාව,ක්‍රමසම්පාද සේවාව,රජයේ පශු වෛද්‍ය සේවාව ,අධ්‍යාපන පරිපාලන සේවය, මිනින්දෝරු සේවාවො, විද්‍යාත්මක සේවාව ,ගුරුඅධ්‍යාපනඥ සේවය,වාස්තු විද්‍යාඥ සේවාව, තොරුතුරැ හා සන්නිවේදන සේවයෙ,කෘෂිකාර්මික සේවය,දේශීය ආදායම් සේවාව, සංඛාලේඛනවරුන්ගේ සේවය, ධීවර හා ජලජසම්පත් සේවය,කම්කරු කොමසාරිස් සේවාව , ගණකාධිකාරි සේවාව සහ තැපැල් සේවා විධායක හා මණ්ඩලික සේවාවල පිරිස් අකුරුට වැඩ කිරිමේ වෘත්තීය ක්‍රියා මාර්ගය සිදුකරන බවද පෙන්වා දෙයි.
+🟩
 
-පසුගිය සතියේ සිට ක්‍රියාත්මක කරන විමධ්‍යගත අරමුදල්වලින් සිදුකරන ව්‍යාපෘති සම්බන්ධයෙන් පවත්වන දිස්ත්‍රික් හා ප්‍රාදේශීය සම්බන්ධීකරණ කමිටුවලට විධායක නිලධාරීන් සහාභාගි නොවන වෘත්තිය ක්‍රියා මාර්ග  අඛණ්ඩව සිදුකරන බවද සඳහන් කරයි.
+The joint committee of government executives will be launched tomorrow (15), due to the delay in government executives.
+
+State Engineering Service, Aryurved Medicine Service, Education Administrative Service, Survey Service, English Service, Fisheries and Fisheries, Fisheries, Fisheries, FisheriesIt pointed out that the professional action of the Labor Commissioner Service, the Commissioner of Labor, Accountant Service and Postal Service Executive and Board of Finance Executive and Board of Finance Executive and Board of Tod Corm are conducting working career.
+
+It is said that the District and Regional Coordinating Committee conducted on decentralized funding projects from last week will continue to participate in the professional procedures.
 
 ...
 
 [Data](articles/7d4bee32.json)
 
----
-
-### Restraining order issued preventing obstacles to Wijedasa Rajapakse’ SLFP Chairmanship
-
-*2024-05-13 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restraining-order-issued-preventing-obstacles-to-Wijedasa-Rajapakse-SLFP-Chairmanship/108-282503) · `en`
-
-A restraining order on instituting any legal action against the decision taken by the Sri Lanka Freedom Party (SLFP) Executive Committee on May 12, to appoint Minister Wijedasa Rajapakse as Chairman of the SLFP was issued by Kaduwela District Judge Dulani Wickremesuriya.
-
-Executive Committee Members Isuru Abeywardene and Sumith Wijemuni Soysa had sought a court order allowing Chairman of the SLFP Wijedasa Rajapakse, Acting Secretary Kirthi Udawatta and the politburo to carry out their functions without any obstacles.
-
-A panel of lawyers including President’s Counsel Ikram Mohmed appeared for the petitioners who had sited 20 respondents to the petition.
-
-◼️
-
-[Data](articles/1d318bab.json)
-
-[Extended Data](ext_articles/1d318bab.ext.json)
-
----
-
-### Meteorites that come near the earth today
-
-*2024-05-13 19:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பூமிக்கு-அருகில்-வரும்-விண்கற்கள்/175-337250) · `ta`
-
-NASA reports two large asteroids, 2024 JB2 and 2020 JP10, approaching Earth today. JB2, 60-130 meters wide, is 44.3 lakh km away, moving at 63,000 km/h. Another asteroid, 52-120 meters wide, is about 72 lakh km away, traveling at 90,000 km/h.
-
-🟩
-
-NASA has announced that two large asteroids are coming to Earth today.
-
-Designated as 2024 JB2 and 2020 JP10, these asteroids are 60-130 meters and 52-120 meters wide respectively.
-
-2024 JB2 is 44.3 lakh km from Earth and travels at speeds of 63,000 km / h.
-
-Another space rock is approximately 72 lakh km from Earth, while traveling at a high speed of 90,000 km / h.R
-
-◼️
-
-[Data](articles/37415ab7.json)
-
-[Extended Data](ext_articles/37415ab7.ext.json)
-
----
-
-### Five-year-old girl killed and dies after go to Charc
-
-*2024-05-13 19:16:16* · [`adalk`](https://www.ada.lk/breaking_news/දුරකතනය-චාජ්-කරන්න-ගිහින්-පස්-හැවිරිදි-දැරිය-විදුලි-සැර-වැදී-මරුට/11-409610) · `si`
-
-A five-year-old girl died after being electrocuted while charging her mobile phone at home in Payagala. Identified as a girl from Mugagon, Munhena, she was taken to Beruwala Hospital, where she passed away. Her body is now at the Kalutara Sath Hospital for a post-mortem examination.
-
-🟩
-
-A five-year-old girl has died in charge of the mobile phone, Payagala Police said.
-
-The deceased has been identified as a girl from Mugagon, Munhena, police said.
-
-The deceased has been preparing to charge a mobile phone at home and he has been taken to the Beruwala Authorization and she had said that she had died.
-
-The body is placed at the Beruwala Divisional Hospital and is to be sent to the Kalutara Sath Hospital for post mortem.
-
-◼️
-
-[Data](articles/abf3d7cc.json)
-
-[Extended Data](ext_articles/abf3d7cc.ext.json)
+[Extended Data](ext_articles/7d4bee32.ext.json)
 
 ---

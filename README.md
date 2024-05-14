@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 11:53:32**
+As of **2024-05-14 12:05:49**
 
 ## Newspaper Stats
 
-*Scraped **23,890** Articles*
+*Scraped **23,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 244
 dbsjeyarajcom | 246
 newsfirstlk | 363
 islandlk | 1,298
-economynextcom | 1,362
+economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,034
 adaderanalk | 2,783
-tamilmirrorlk | 2,798
+tamilmirrorlk | 2,802
 virakesarilk | 3,567
 dailymirrorlk | 3,759
 adaderanasinhalalk | 3,830
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,890 (100.0%) of 23,890 articles have been extended.
+23,890 (100.0%) of 23,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### பலஸ்தீன சால்வையை அணிந்தார் சஜித்
+
+*2024-05-14 11:26:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-சால்வையை-அணிந்தார்-சஜித்/175-337286) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாஸ, பாராளுமன்றத்தில் தற்போது உரையாற்றிக்கொண்டிருக்கின்றார். அவர் பலஸ்தீன கொடி மற்றும் இலங்கையின் தேசிய கொடி ஆகிய இரண்டு கொடிகளும் பொறிக்கப்பட்ட சால்வை அணிந்துள்ளார்.
+
+பாராளுமன்றத்தில் இன்று (14), பலஸ்தீனம் மீதான தாக்குதல் தொடர்பிலான ஒத்திவைப்புவேளை பிரேரணை மீதான விவாதம் நடைபெற்றுக்கொண்டிருக்கின்றது.
+
+ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், பிரேரணை முன்வைத்து உரையாற்றினார். அதனை, ஐக்கிய மக்கள் சக்தியின் எம்.பியான இம்தியாஸ் பாக்கிர் மார்க்கார் வழிமொழிந்து உரையாற்றினார்.
+
+◼️
+
+[Data](articles/403d2fac.json)
+
+---
+
+### Sri Lanka cigarette taxes down amid legal sales fall in 2024 March quarter
+
+*2024-05-14 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-cigarette-taxes-down-amid-legal-sales-fall-in-2024-march-quarter-162903/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Tobacco Company said its March quarter cigarette sales were down from a year earlier, leading to an absolute revenue fall as well amid tax hikes and an economic slowdown.
+
+Revenue in the March 2024 quarter fell to 45.85 billion rupees, down from 46.93 billion rupees last year.
+
+Turnover linked taxes fell to 31.7 billion rupees from 34.2 billion rupees.
+
+“The Company’s sales volume during the three months ended 31st March 2024 was lower in comparison to the same period last year, mainly due to the tax led price increases in line with the Government’s revenue proposals,” CTC told shareholders in the interim accounts.
+
+Tax revenues were almost the same as the September 23 quarter, but sharply down from the December 2023 quarter, where there was a pick-up in sales.
+
+CTC in the past has said there was a shift to beedi as well as rise in smuggling due to tax hikes.
+
+...
+
+[Data](articles/3e77a754.json)
+
+---
 
 ### US assures support to implement anti-corruption legislation and macro-economic reforms
 
@@ -78,6 +116,20 @@ The suspect has been submitted to the Kosgoda Police for further investigations.
 
 ---
 
+### பலஸ்தீனத்திற்கு ஆதரவாக கொழும்பில் போராட்டம்
+
+*2024-05-14 11:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீனத்திற்கு-ஆதரவாக-கொழும்பில்-போராட்டம்/175-337283) · `ta`
+
+இஸ்ரேலுடனான மோதலில் பாதிக்கப்பட்டுள்ள பலஸ்தீனர்களுக்கான ஆதரவை வெளிப்படுத்தும் போராட்டமொன்று கொழும்பில் இன்று நடைபெற்றது.
+
+எதிர்க்கட்சித் தலைவர் எம்.பி. சஜித் பிரேமதாச, ஐக்கிய மக்கள் சக்தி எம்.பி.க்களான முஜிபுர் ரஹ்மான், எஸ்.எம். மரிக்கார், அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாத் பதியுதீன் ஆகியோர் சுதந்திர பலஸ்தீனத்தை வலியுறுத்தி ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/36168c7c.json)
+
+---
+
 ### Sajith's revelation again in crisis
 
 *2024-05-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196607) · `si`
@@ -97,6 +149,38 @@ The Opposition Leader urged the government today (14) in parliament today.
 [Data](articles/480af8a3.json)
 
 [Extended Data](ext_articles/480af8a3.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் கஞ்சிக்கு தடை: கல்முனையில் பதற்றம்
+
+*2024-05-14 11:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/முள்ளிவாய்க்கால்-கஞ்சிக்கு-தடை-கல்முனையில்-பதற்றம்/73-337282) · `ta`
+
+அம்பாறை மாவட்டம் பெரிய நீலாவணை  பொலிஸ் பிரிவுக்கு உட்பட்ட பாண்டிருப்பு  பகுதியில் முள்ளிவாய்க்கால் கஞ்சி  தயாரிக்க முற்பட்டவர்களை தடுப்பதற்கு நூற்றுக்கணக்கான பொலிஸார் குவிக்கப்பட்டுள்ளனர்.
+
+குறித்த  சம்பவம் செவ்வாய்க்கிழமை (14) காலை  இடம்பெற்றுள்ளதுடன் இச்சம்பவத்தில் தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் மாவட்ட அமைப்பாளர் புஸ்பராஜ் துஷானந்தன், காணாமல்  அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்க தலைவி தம்பிராசா செல்வராணி,  ஆகியோருக்கு பொலிஸாரினால் எச்சரிக்கை விடுக்கப்பட்டு குறித்த நிகழ்வு தடுத்து நிறுத்தப்பட்டுள்ளது.
+
+இதன் போது  கல்முனை பாண்டிருப்பு அரசடி அம்மன்  ஆலய முன்றலில் தமிழ் தேசிய மக்கள் முன்னணி கட்சி ஏற்பாட்டில்  அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்கம்  பொதுமக்களுடன் இணைந்து  முள்ளிவாய்க்கால் கஞ்சி பரிமாறும் நிகழ்வினை முன்னெடுத்திருந்தது.
+
+...
+
+[Data](articles/30a163b2.json)
+
+---
+
+### தொழிற்சங்க போராட்டங்கள் அதிகாரிகளின் ஒரு நாடகம்
+
+*2024-05-14 10:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டங்கள்-அதிகாரிகளின்-ஒரு-நாடகம்/175-337281) · `ta`
+
+நாடளாவிய ரீதியில் ஆரம்பிக்கப்பட்டுள்ள தொழிற்சங்க நடவடிக்கையானது சுகாதார அமைச்சின் அதிகாரிகளுக்கும் கூட்டு சுகாதாரத் துறை தொழிற்சங்கங்களுக்கும் இடையிலான மூலோபாய ஊடாட்டமாக மாறியுள்ளதாக அரசாங்க மருத்துவ அதிகாரிகள் மன்றம் (GMOF) இன்று தெரிவித்துள்ளது.
+
+GMOF தலைவர் வைத்தியர் ருக்ஷான் பெல்லனா, சுகாதார அமைச்சகம், சுகாதாரத் தொழிற்சங்கங்கள் வேலைநிறுத்தம் செய்ய விரும்புவதாகக் கூறி, அவர்களுக்கு வழங்கப்பட வேண்டிய கோரிக்கைகள் மீது மெத்தனமாக இருக்கும். சுகாதார செயலாளர் வேலைநிறுத்தங்களை ஊக்குவிப்பதாக அவர் கூறினார்.
+
+கொடுப்பனவு அதிகரிப்பு உள்ளிட்ட கோரிக்கைகளை முன்வைத்து மத்திய மாகாணத்தில் உள்ள அனைத்து வைத்தியசாலைகளிலும் கூட்டு சுகாதாரத் துறை தொழிற்சங்கம் நேற்று (13) அடையாள வேலைநிறுத்தப் போராட்டத்தை ஆரம்பித்ததுடன், கோரிக்கைகள் நிறைவேற்றப்படாவிட்டால் மே 22 ஆம் திகதி முதல் வேலைநிறுத்தம் ஏனைய மாகாணங்களுக்கும் விரிவுபடுத்தப்படும் என்று தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/cf6e6e5a.json)
 
 ---
 
@@ -167,6 +251,26 @@ During the debate, President Ranil Wickremesinghe said that all the promises of 
 [Data](articles/62531ada.json)
 
 [Extended Data](ext_articles/62531ada.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 300.50/301.00 to US dollar
+
+*2024-05-14 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-300-50-301-00-to-us-dollar-162893/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 300.50/301.00 to the US dollar on Tuesday, from 299.00/30 the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted down at 9.95/10.05 percent from 10.10/30 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.20/40 percent from 10.50/70 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 10.60/65 percent 11.80/95 percent.
+
+The Colombo Stock Exchange opened down; The All Share Price Index was down 0.13 percent at 12,482, and the S&P SL20 was down 0.28 percent at 3,712. (Colombo/May14/2024)
+
+◼️
+
+[Data](articles/316d794a.json)
 
 ---
 
@@ -779,6 +883,24 @@ MP Sudarshani Fernandopulle said that he had requested to take measures to incre
 [Data](articles/6b302c1c.json)
 
 [Extended Data](ext_articles/6b302c1c.ext.json)
+
+---
+
+### Hundreds of Sri Lankans hospitalised in Russia-Ukraine war; legislator seeks special envoy
+
+*2024-05-14 06:50:00* · [`economynextcom`](https://economynext.com/hundreds-of-sri-lankans-hospitalised-in-russia-ukraine-war-legislator-seeks-special-envoy-162804/) · `en`
+
+ECONOMYNEXT – Sri Lanka should make greater efforts to bring back citizens in mercenary companies who injured in a war between Russia and Ukraine, including sending a special presidential envoy, legislator Dayasiri Jayasekera said.
+
+“If we can, send a special envoy from the President to Russia, and discuss with the Defence Secretary at least to bring back the injured in Russian hospitals,” Jayasekera who was one of the first legislators to bring attention to the growing recruitment of Sri Lankan ex-soldiers for Russia’s war.
+
+“Then we can secondly bring back the people in the camps. There is a diplomatic intervention that is needed. We need some plan to bring back the 600 or so people who are there.”
+
+One Sri Lanka ex-soldier estimated that 200 to 300 Sri Lankans may be treated in Russian hospitals at the moment and about 200 may have died. Up to 800 or more Sri Lankans – mainly ex-soldiers – may have left the country to fight for Russia, he said.
+
+...
+
+[Data](articles/fbd3e678.json)
 
 ---
 
@@ -2019,143 +2141,5 @@ Those crossings were reported in PGP Glass, where 3 million shares crossed to th
 [Data](articles/fc75a3dd.json)
 
 [Extended Data](ext_articles/fc75a3dd.ext.json)
-
----
-
-### IOM Sri Lanka and Ministry of Defence in collaboration with Sri Lankan Airlines conduct programme on responding to human trafficking
-
-*2024-05-13 22:26:00* · [`islandlk`](http://island.lk/iom-sri-lanka-and-ministry-of-defence-in-collaboration-with-sri-lankan-airlines-conduct-programme-on-responding-to-human-trafficking/) · `en`
-
-Aviation is the most frequent and quickest way to transport victims of human trafficking across borders. To combat this heinous crime, it’s crucial for airlines, law enforcement agencies to collaborate, implement efficient measures and train staff to recognize signs of human trafficking, and raise awareness among the stakeholders as they play an important role in effectively identifying, preventing, and responding to human trafficking.
-
-International Organisation for Migration (IOM) Sri Lanka and the Ministry of Defence (As the Chair of the National Anti-Human Trafficking Task Force – Sri Lanka) in collaboration with Sri Lankan Airlines, recently conducted a programme for the trainers of Sri Lankan Airlines on human trafficking with a special focus on the role and responsibilities of Airlines in identifying, reporting, and effectively responding to incidents of trafficking.
-
-...
-
-[Data](articles/461ce578.json)
-
-[Extended Data](ext_articles/461ce578.ext.json)
-
----
-
-### Grace marks for questions outside of GCE (O/L) science syllabus
-
-*2024-05-13 22:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grace-marks-for-questions-outside-of-GCE-OL-science-syllabus/108-282527) · `en`
-
-Colombo, May 13 (Daily Mirror) - In response to concerns over irregularities during the 2023 (2024) G.C.E. Ordinary Level (O/L) examinations, grace marks are set to be awarded for answers of several questions found to be outside the Science syllabus.
-
-Commissioner General of Examinations, Amith Jayasundara said that only the problematic questions in the Science paper will receive these grace marks.
-
-◼️
-
-[Data](articles/d5b766e5.json)
-
-[Extended Data](ext_articles/d5b766e5.ext.json)
-
----
-
-### Companies need to act in accordance with the state gazette notification!- Minister Jeevan Thondaman
-
-*2024-05-13 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183450) · `ta`
-
-Minister Jeevan Thondaman emphasized the need for plantation companies to comply with the government's gazette notification on salary increases for plantation workers, highlighting the companies' previous refusal to increase salaries despite the notification. He criticized the day-to-day wage system and urged for a switch to a more stable system. The minister also addressed the controversy surrounding the salary increase announcement by President Ranil Wickremesinghe, noting the companies' initial resistance to a salary increase and their subsequent willingness to increase the basic salary by 200 rupees. He questioned the companies' claims of financial constraints and called for an investigation into the lack of re-planting and maintenance of gardens, which have led to their transformation into forests. The minister also touched on the issue of clean drinking water in Jaffna, stating that the opening of the Salt Water Supply Center will increase the percentage of the population with access to clean water.
-
-🟩
-
-The Minister of Water Supply and Plantation Infrastructure Development Jeevan Thondaman said that the plantation companies need to function in accordance with the government's gazette notification issued by the government on the salary increase of plantation workers.
-
-Minister Jeevan Thondaman said that workers have not been paid a salary increase for the past four years after the salary increased by 2 years during the joint agreement, and urged the companies to increase the salaries of plantation workers in favor of the dollar value.
-
-Minister Jeevan Thondaman further stated at a media briefing held at the Presidential Media Center on Monday (13).
-
-“The day -to -day wage system is inappropriate. It is necessary to switch from that system. Four years will be required for that. For that, the plantation workers cannot be accepted to wait for a salary of 1000 rupees.
-
-...
-
-[Data](articles/2baaf3d9.json)
-
-[Extended Data](ext_articles/2baaf3d9.ext.json)
-
----
-
-### Court fines 15 motorcyclists for dangerous riding on money bets in Bambalapitiya
-
-*2024-05-13 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-fines-15-motorcyclists-for-dangerous-riding-on-money-bets-in-Bambalapitiya/108-282511) · `en`
-
-Colombo, May 13 (Daily Mirror) - Fifteen motorcyclists involved in dangerous riding for money bets on the Galle Road in Bambalapitiya, Colombo were fined Rs. 427,500 and had their driving licenses suspended for six months by the Colombo Traffic Court today.
-
-The Bambalapitiya Police arrested these motorcyclists early morning on May 5 and released them on police bail after processing at the police station. The suspects, aged between 20 and 28, are residents of Colombo and its surrounding areas.
-
-Following their arrest, the motorcycles were inspected for any defects by a vehicle inspector.
-
-Subsequently, the suspects were produced before the Colombo Traffic Court, where they were fined.
-
-"This isn't the first time these riders have faced legal action. They have been arrested previously and fined for dangerous riding, with the court consistently ordering them to pay fines," a senior police officer said.
-
-◼️
-
-[Data](articles/42519ba5.json)
-
-[Extended Data](ext_articles/42519ba5.ext.json)
-
----
-
-### President wishes Sri Lankan Cricket Team success
-
-*2024-05-13 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-wishes-Sri-Lankan-Cricket-Team-success/108-282509) · `en`
-
-President Ranil Wickremesinghe wished the Sri Lankan Cricket Team success at the upcoming T20 World Cup as they depart for the United States of America and the West Indies tomorrow, the President's Media Division (PMD) said.
-
-The President commended their commitment during a meeting at the Presidential Secretariat.
-
-Also, the victorious Sri Lankan Rugby Team, winners of the Asian Rugby Championship in the first division was also honoured by President Wickremesinghe.
-
-◼️
-
-[Data](articles/020fa315.json)
-
-[Extended Data](ext_articles/020fa315.ext.json)
-
----
-
-### Propagation for bad motorcycle drivers
-
-*2024-05-13 21:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமான-மோட்டார்-சைக்கிள்-ஓட்டுநர்களுக்கு-கிடைத்த-தண்டனை/175-337251) · `ta`
-
-Court fines Rs 427,500 for illegal motorcycle racing, suspends 15 drivers' licenses for six months. Accused of reckless driving in Bambalapitiya, Galle Road, Duplication Road.
-
-🟩
-
-Police said the court had fined Rs 427,500 for the illegal motorcycle racing on the road.
-
-In addition, the court has ordered the suspension of driver's licenses of the 15 motorcycle drivers for six months, said police media spokesman Senior Superintendent of Police Nihal Talduwa.
-
-It is noteworthy that motorcycles have been accused of driving motorcycles in Bambalapitiya, Galle Road and Duplication Road.
-
-◼️
-
-[Data](articles/38a10460.json)
-
-[Extended Data](ext_articles/38a10460.ext.json)
-
----
-
-### The story to the media before going from Faningu
-
-*2024-05-13 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196592) · `si`
-
-Mondu Amunda, Sri Lanka's 20-team leader, has been selected by the Sri Lanka Cricket Selection Committee for the World Cup. He expresses gratitude for the opportunity and highlights the team's success in the last three tournaments, hoping for continued success this year.
-
-🟩
-
-Sri Lanka's 20 team leader Mondu Amunda has been received by the Sri Lanka Cricket Selection Committee for the World Cup.
-
-"The team for the SLC selection committee was given that way as leader. I must thank those who really want to give me the team together. I enjoy this team with this team with this team to the leader. 10 days ago we decided to go before the 10 days, so we decided to go before the same 10 days, so we were going on a pitch USA League. We will watch the markets last year and take the pitchers. He holds a great hope for this group as a leader. Because our players are well-achieved in the last three tournaments. This year we have a great hope that we can do this. "
-
-◼️
-
-[Data](articles/6d8b58a0.json)
-
-[Extended Data](ext_articles/6d8b58a0.ext.json)
 
 ---

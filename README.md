@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 08:07:14**
+As of **2024-05-14 08:18:28**
 
 ## Newspaper Stats
 
-*Scraped **23,855** Articles*
+*Scraped **23,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,030
-adaderanalk | 2,777
+adaderanalk | 2,778
 tamilmirrorlk | 2,793
 virakesarilk | 3,562
-dailymirrorlk | 3,753
-adaderanasinhalalk | 3,821
+dailymirrorlk | 3,754
+adaderanasinhalalk | 3,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,855 (100.0%) of 23,855 articles have been extended.
+23,857 (100.0%) of 23,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### 14 killed as India's billboard collapses
+
+*2024-05-14 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196600) · `si`
+
+In Mumbai, a billboard collapse due to strong winds killed 14, damaged vehicles, and prompted an investigation by the Maharadharan Chief Minister into the billboard's legal permission.
+
+🟩
+
+14 people have been killed in a large billboard in Mumbai, India.
+
+The billboard had collapsed with strong winds in Mumbai.
+
+A billboard mounted near a filling station has crashed and many vehicles have been severely damaged.
+
+The Chief Minister of the Maharadharan has ordered an investigation into the legal permission of the billboard.
+
+◼️
+
+[Data](articles/7c4a1127.json)
+
+[Extended Data](ext_articles/7c4a1127.ext.json)
+
+---
+
+### Solutions to university non-academic workers
+
+*2024-05-14 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196599) · `si`
+
+The Cabinet delayed a proposal to address salary issues of university non-academic staff, awaiting Ministry of Finance approval. This delay has prompted the University Traction Union Joint Committee to escalate strike measures. Additionally, the Sri Lanka United Grama Niladhari Union has threatened to protest in front of the Presidential Secretariat on the 27th if their demands, including a service minister, are not met within three days.
+
+🟩
+
+The proposal to the Cabinet was further delayed to resolve the salary problem of university non-academic workers.
+
+The proposal was submitted to the Cabinet of Education Susil Premajayantha meeting yesterday (13) and has decided to obtain the approval of the Ministry of Finance.
+
+The proposal was proposed to be restored to the Cabinet after obtaining the approval of the Ministry of Finance.
+
+However, the co-chairman of the University Traction Union Joint Committee, Dhammika Priyantha has said that he has decided to increase the strike measures commenced due to further delaying the problem.
+
+Meanwhile, the trade union action of the trade union action will be taken to report three days from today, taking several demands including a service minister.
+
+The Sri Lanka United Grama Niladhari Union Nandana Ranasinghe said that the authorities informed the authorities for two days last week.
+
+...
+
+[Data](articles/a2fb9d82.json)
+
+[Extended Data](ext_articles/a2fb9d82.ext.json)
+
+---
+
+### Govt prepared to confront legal action from companies over estate workers’ wage hike - Jeevan
+
+*2024-05-14 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99199/govt-prepared-to-confront-legal-action-from-companies-over-estate-workers-wage-hike-jeevan-) · `en`
+
+Minister of Water Supply and Estate Infrastructure Development, Jeevan Thondaman, affirmed that the government is ready to face any situation if the estate companies take court action against the government’s decision to increase the wages of the estate workers’ community.
+
+Previously, plantation companies claimed an inability to augment the basic salary of workers even by a single rupee. However, following the government’s declaration of a daily wage of Rs. 1700, Minister Thondaman disclosed that the companies proposed a Rs. 200 increase in the basic salary for estate workers. He emphasized that the companies have the ability to increase the wages of estate workers.
+
+Minister Thondaman made these statements while addressing a press briefing held at the President Media Centre (PMC) on Monday (13) under the theme ‘Collective path to a stable country’.
+
+...
+
+[Data](articles/da970eaf.json)
+
+---
 
 ### Heavy showers of about 100mm expected in several provinces
 
@@ -95,6 +163,20 @@ The Health Trade Union Alliance will work in Sabaragamuwa Province today (14).
 [Data](articles/7ff330e6.json)
 
 [Extended Data](ext_articles/7ff330e6.ext.json)
+
+---
+
+### Over 178,000 temporary residents under scrutiny for criminal connections
+
+*2024-05-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-178-000-temporary-residents-under-scrutiny-for-criminal-connections/108-282548) · `en`
+
+Colombo, May 14 (Daily Mirror) - In light of reports indicating involvement in various criminal activities, including drug trafficking, originating from temporary residences, the police have gathered information on over 178,600 temporary residents during a two-day nationwide operation.
+
+The programme was initiated in response to observations that individuals engaged in various criminal activities, including drug trafficking, were residing in rented accommodations outside their permanent police jurisdictions. Acting upon this concern, IGP Deshabandu Tennakoon directed the police to conduct an operation over the weekend (May 11 and 12) to gather and verify information on temporary residents within each Grama Niladhari division, as per Section 76 of the Police Ordinance Act.
+
+...
+
+[Data](articles/b9843b40.json)
 
 ---
 
@@ -2095,93 +2177,5 @@ In Australia, the outer spaces and goats are planted in the grounds by shipping.
 [Data](articles/89e4dde4.json)
 
 [Extended Data](ext_articles/89e4dde4.ext.json)
-
----
-
-### Theerthakkuttu, which was taken to the Ocean
-
-*2024-05-13 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183436) · `ta`
-
-The Pongal festival at the Kannaki Amman Temple features a lamp-burning ritual in salt water, marking its devotional start. Following a special worship at the Mulliyawalai Wild Ganesha Temple, devotees carry the tirtha (holy water) to the Mullaitivu Ocean. This ritual, significant to the Mullaitivu community, involves breaking coconuts with sticks to welcome the tirtha pitcher.
-
-🟩
-
-The festival of burning the lamp in the salt water, which is the most characteristic of the annual Pongal festival of the Kannaki Amman Temple, is a very devotional beginning on Monday (13).
-
-Following the special worship of the Mulliyawalai Wild Ganesha Temple, the Mullaitivu is now being taken to the Mullaitivu Ocean from the Mulliyavalai Wild Ganesha Temple to take the tirtha in the Mullaitivu Ocean.
-
-Following the special rituals of the Mullaitivu Ocean, the Tirtha in the Mullaitivu Ocean is taken up in the Mullaitivu Ocean.
-
-On the way to Mulliyavalai on the road to Mulliyavalai, the devotees are preparing to break the coconuts with the gangs to welcome the tirtha pitcher.
-
-◼️
-
-[Data](articles/1d6420fa.json)
-
-[Extended Data](ext_articles/1d6420fa.ext.json)
-
----
-
-### Climate change to cause 1. 2 percent annual loss of Sri Lanka’s GDP by 2050: Ruwan
-
-*2024-05-13 18:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Climate-change-to-cause-1-2-percent-annual-loss-of-Sri-Lankas-GDP-by-2050-Ruwan/108-282497) · `en`
-
-Colombo, May 13 (Daily Mirror) - The cost of climate change will account for a 1.2 percent loss of the annual Gross Domestic Product (GDP) of Sri Lanka by 2050 according to estimates by the World Bank, Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene said.
-
-He said it would be a multi-million dollar loss to the country.
-
-Speaking during the ‘Environment Leaders of Tomorrow workshop’ organized by the National Youth Services Council over the weekend, Mr. Wijewardene said it is Sri Lanka’s agriculture which is mostly affected by climate change.
-
-“It is essential for Sri Lanka to safeguard its agriculture sector,” Mr. Wijewardene said.
-
-“Various buildings have been constructed in Sri Lanka lately. It is concluded that construction of modern buildings will give a good impression of a nation to the visitors. However, President Ranil Wickremesinghe holds a different view. He believes in a green economy. This is why he proposed setting up a tropical belt initiative,” he said.
-
-...
-
-[Data](articles/cb283419.json)
-
-[Extended Data](ext_articles/cb283419.ext.json)
-
----
-
-### Court orders that the Court not interfere with Minister's Chairman
-
-*2024-05-13 17:58:42* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණය-ඇමතිගේ-සභාපතිකමට-බාධා-නොකරන්නැයි-නියෝගයක්/11-409605) · `si`
-
-Kaduwela District Court issued an order to prevent interference with the appointment of Mr. Wijayadasa Rajapakse as the new Chairman of the SLFP, following a case filed by two SLFP executives.
-
-🟩
-
-Kaduwela District Court today issued an enjoining order to appoint Mr. Wijayadasa Rajapakse yesterday (12) as the new Chairman of the SLFP and interfere with the decisions made by the Executive Council.
-
-The case had been filed by two executives of Sri Lanka Freedom Party (SLFP) asking for Isuru Abeywardena and Sumith Vijayamuni Soysa.
-
-◼️
-
-[Data](articles/3db1ca86.json)
-
-[Extended Data](ext_articles/3db1ca86.ext.json)
-
----
-
-### A 15 -year -old school student sexual abuse;School bus service driver arrested
-
-*2024-05-13 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183371) · `ta`
-
-A 32-year-old school bus driver and owner was arrested for allegedly sexually abusing a 15-year-old girl, taking her to an unknown location. The victim was introduced to the suspect through the school bus service.
-
-🟩
-
-A school bus service driver has been arrested for allegedly sexually abusing a schoolgirl and taking her to a unaccounted place, police said.
-
-The 32 -year -old school bus service driver and the owner of the bus has been arrested by the father of two children.
-
-Police investigations revealed that the suspect and the victim were introduced during the school bus service.
-
-◼️
-
-[Data](articles/cc4d352a.json)
-
-[Extended Data](ext_articles/cc4d352a.ext.json)
 
 ---

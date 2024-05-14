@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 16:33:56**
+As of **2024-05-14 16:49:57**
 
 ## Newspaper Stats
 
-*Scraped **23,971** Articles*
+*Scraped **23,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,365
 dailyftlk | 1,390
 adalk | 2,048
 adaderanalk | 2,792
-tamilmirrorlk | 2,809
+tamilmirrorlk | 2,811
 virakesarilk | 3,587
-dailymirrorlk | 3,773
+dailymirrorlk | 3,774
 adaderanasinhalalk | 3,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,966 (100.0%) of 23,971 articles have been extended.
+23,971 (100.0%) of 23,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### Duminda challenges Wijedasa’s appointment
+
+*2024-05-14 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Duminda-challenges-Wijedasas-appointment/108-282582) · `en`
+
+Colombo, May 14 (Daily Mirror) -  Sri Lanka Freedom Party (SLFP) Parliamentarian Duminda Dissanayake today instituted legal action before the Colombo District Court challenging the appointment of Minister Wijeyadasa Rajapakshe and Keerthi Udawatta as SLFP Chairman and Acting General Secretary respectively.
+
+The plaintiff Dissanayake is seeking an enjoining order preventing Minister Wijeyadasa Rajapakshe PC and Attorney-at-Law Keerthi Udawatta from functioning as SLFP Chairman and party Acting General Secretary respectively.
+
+The plaintiff is further seeking a declaration that all decisions taken during an executive committee meeting held on May 12 are not valid in law.
+
+The plaintiff alleged that the executive committee meeting had been convened illegally, contrary to the provisions of  the SLFP constitution, and therefore its subsequent appointments are not legally valid.
+
+The decision on whether the court will issue an enjoining order will be delivered tomorrow (15).
+
+...
+
+[Data](articles/2f7606dd.json)
+
+---
 
 ### Iran granted Uma Oya project due to huge recognition for MR: Hakeem
 
@@ -48,19 +68,27 @@ The MP said State Minister of Foreign Affairs Tharaka Balasuriya was bragging re
 
 [Data](articles/f59de5d1.json)
 
+[Extended Data](ext_articles/f59de5d1.ext.json)
+
 ---
 
-### කුසල් මෙන්ඩිස් සහ අසිත ප්‍රනාන්දුට අමරිකාවට වීසා ලැබී නෑ
+### Kusal Mendis and Asapha Fernando have not received visas
 
 *2024-05-14 16:04:48* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-මෙන්ඩිස්-සහ-අසිත-ප්‍රනාන්දුට-අමරිකාවට-වීසා-ලැබී-නෑ/11-409629) · `si`
 
-කුසල් මෙන්ඩිස් සහ අසිත ප්‍රනාන්දුට එක්සත් ජනපදයට යාමට මෙතෙක් වීසා බලපත්‍ර ලැබී නොමැති බව වාර්තා වනවා.
+Kusal Mendis and Asitha Fernando couldn't join their squad in New York due to visa delays, while the rest of the team left.
 
-කෙසේවෙතත් සංචිතයේ සෙසු ක්‍රීඩකයන් අද උදෑසන ඩුබායි හරහා නිව්යෝර්ක් බලා පිටත්ව ගිය නමුත් වීසා ප්‍රමාදය හේතුවෙන් මෙන්ඩිස් සහ ප්‍රනාන්දුට ඔවුන් හා එක්වීමට නොහැකිවී ඇති බව වාර්තාවනවා.
+🟩
+
+It is reported that Kusal Mendis and Asitha Fernando had not received a visa to go to the United States.
+
+However, the rest of the squad, however, left for New York this morning, but it was reported that Mandis and Fernando had not been able to join them due to visa delay.
 
 ◼️
 
 [Data](articles/74ae6c99.json)
+
+[Extended Data](ext_articles/74ae6c99.ext.json)
 
 ---
 
@@ -78,19 +106,29 @@ Residents of the area pointed out that a huge cavity had been caused on the grou
 
 [Data](articles/de83390e.json)
 
+[Extended Data](ext_articles/de83390e.ext.json)
+
 ---
 
-### 2024 ට ලාදුරු රෝගීන් 1500ක්  ලාදුරු ගැන හරි තොරතුරු දැනගන්න
+### At 2024, 1500 leprosy patients know the right information about leprosy
 
 *2024-05-14 15:47:59* · [`adalk`](https://www.ada.lk/breaking_news/2024-ට-ලාදුරු-රෝගීන්-1500ක්--ලාදුරු-ගැන-හරි-තොරතුරු-දැනගන්න/11-409628) · `si`
 
-ලාදුරු රෝගය සම්බන්ධව නිවැරදි තොරතුරු සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ සමාජ ගත කිරිමට ජාතික ලාදුරු මර්දන ව්‍යාපාරය සහ එලායන්ස් ඩිවලෝප්මන්ට් ට්‍රස්ටි (ADT)  ආයතනය එක්ව A2P (ACT2PREVENT CAMPAIGN 2024) නමින් ව්‍යාපෘතියක් දියත් කිරීමේ සමාරම්භක වැඩසටහන අද (14)  සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා පදනම් ආයතනයේ දී පැවැත්විනි.
+In 2024, the National Latistics Control Business and Eyes2prevent Campaign Treene (ADT2PRATE CAMPAIGN 2024) aims to educate 1500 leprosy patients about the disease through social media, addressing misconceptions and promoting mental well-being. This initiative is part of the National Latestal Movement (ACT2PRATE CAMPAIGN 2024), held at the Sri Lanka Foundation Institute. The campaign seeks to combat the slow spread of leprosy, reduce societal marginalization, and mitigate the disease's economic impact.
 
-ඉතා ප්‍රබල මාධ්‍යයක් වන සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ නිවැරදි තොරතුරු ජනගත කිරිම මගින් රෝගය සම්බන්ධ නිවැරදි දත්ත, තොරතුරු සහ දැනුම්වත්භාවය ලබාදීම මෙහි මූලික අරමුණ වන අතර, රෝගය සම්බන්ධව පවතින වැරදි මත නිවැරදි කර ඉතා ඉක්මණින් සැඟවී සිටින රෝගීන් ප්‍රතිකාර සදහා යොමු කිරිමට අපේක්ෂා කරන අතර ම රෝගීන් සමාජයෙන් කොන් කිරීම අවම කිරිම තුලින් ඔවුන්ට යහපත් මානසික වටපිටාවක් නිර්මාණය කිරීම ද තවත් ඉළක්කයකි.
+🟩
+
+The inauguration program for the National Latistics Control Business and Eyes2prevent Campaign Treene (ADT2PRATE CAMPAIGN 2024) is the inauguration program of the National Latestal Movement (ACT2PRATE CAMPAIGN 2024). Health Secretary Palitha Maheepala (14)He was held at the Sri Lanka Foundation Institute.
+
+The main objective of this is the main objective of providing accurate data, information and knowledge of the disease through new methods through social media.It is also another is to create a good mental environment in reducing marginalizing the marginalizing society.
+
+A disease that is not slowly spreading to leprosy. The wrong papers of the disease and the sickness of the disease are still unsearchable today. Further, the disease is mentally delayed, and the patients' weaknesses are adversely affected the economy of the country.
 
 ...
 
 [Data](articles/c7f6706c.json)
+
+[Extended Data](ext_articles/c7f6706c.ext.json)
 
 ---
 
@@ -136,6 +174,8 @@ In photos from the scene, emergency teams can be seen working through the wrecka
 
 [Data](articles/6b5bcacc.json)
 
+[Extended Data](ext_articles/6b5bcacc.ext.json)
+
 ---
 
 ### At least 14 killed after billboard collapses in Mumbai during thunderstorm
@@ -153,6 +193,22 @@ Mumbai’s municipal corporation (BMC) said at least 75 injured people were take
 [Data](articles/ce192144.json)
 
 [Extended Data](ext_articles/ce192144.ext.json)
+
+---
+
+### கட்டிலுக்கு தவழ்ந்த கான்ஸ்டபிள் நீக்கம்
+
+*2024-05-14 15:22:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டிலுக்கு-தவழ்ந்த-கான்ஸ்டபிள்-நீக்கம்/175-337300) · `ta`
+
+கொழும்பு, கரையோர பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்கும் விடுதிக்குள் நுழைந்து, அங்கிருந்த பெண் பொலிஸ் அதிகாரி ஒருவரை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றார் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட பொலிஸ் விசேட அதிரடி படையைச் சேர்ந்த கான்ஸ்டபிள் பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+
+இதற்கான பணிப்புரையை சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர் சட்டத்தரணி  வருண ஜயசுந்தர  விடுத்துள்ளார்.
+
+மாங்குளம்  முகாமில் கடமையாற்றும், கொழும்பு, கரையோர பொலிஸ் பிரிவில், குற்றவியல் நடவடிக்கை தொடர்பிலான பணிக்கு முன்னெடுப்பதற்காக, இணைக்கப்பட்டிருந்த கான்ஸ்டபிளே இவ்வாறு பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/032d84a9.json)
 
 ---
 
@@ -381,6 +437,24 @@ Cabinet spokesman Minister Bandula Gunawardena said that the volunteer employees
 [Data](articles/9f1468e9.json)
 
 [Extended Data](ext_articles/9f1468e9.ext.json)
+
+---
+
+### NSB வங்கி ஊழியர்களுக்கு VRS
+
+*2024-05-14 14:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NSB-வங்கி-ஊழியர்களுக்கு-VRS/175-337296) · `ta`
+
+2019 ஆம் ஆண்டு தேசிய சேமிப்பு வங்கியின் (NSB) கீழ் ஒருங்கிணைக்கப்பட்ட இலங்கை சேமிப்பு வங்கியின் ஊழியர்களுக்காக தன்னார்வ ஓய்வு திட்டம் (VRS) அறிமுகப்படுத்தப்படும்.
+
+செயற்பாடுகளை நெறிப்படுத்துவதற்கும், மாற்றத்தை சீராக நிர்வகிப்பதற்கும், தேசிய சேமிப்பு வங்கியானது இலங்கை சேமிப்பு வங்கியின் சொத்துக்கள் மற்றும் பொறுப்புகள் இரண்டையும் உள்வாங்கும் என அரசாங்கம் தெரிவித்துள்ளது.
+
+இதன்படி, நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சர் என்ற வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்மொழியப்பட்ட தன்னார்வ ஓய்வுத் திட்டம் அமைச்சரவையினால் அங்கீகரிக்கப்பட்டது.
+
+தானாக முன்வந்து ஓய்வுபெறும் ஊழியர்களுக்கு பல்வேறு சந்தை காரணிகளின் அடிப்படையில் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d4a9a851.json)
 
 ---
 
@@ -2203,67 +2277,5 @@ The other injured person has been transferred to Karapitiya Hospital for further
 [Data](articles/4de89e08.json)
 
 [Extended Data](ext_articles/4de89e08.ext.json)
-
----
-
-### Temperatures to drop as monsoon arrives: Met. Dept.
-
-*2024-05-14 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperatures-to-drop-as-monsoon-arrives-Met-Dept/108-282551) · `en`
-
-Colombo, May 14 (Daily Mirror) - As higher rainfall spreads across the country and the southwest monsoon activates after May 20, temperatures, which have risen to a 'caution level' for human comfort, are expected to decrease, the Meteorology Department said.
-
-They said higher rainfall would be experienced in most of the parts of the country. Accordingly, due to a low-level atmospheric disturbance, heavy rainfall of more than 100mm is likely after 1 p.m. in the Central, Sabaragamuwa, Eastern, Southern and Uva provinces and the rain is expected to be enhanced during the next few days.
-
-Showers may occur in the eastern and southern provinces during the morning.
-
-Misty conditions can be expected at some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-Accordingly, Matale, Kandy, Kegalle, Nuwara Eliya, Badulla, Monaragala, Kalutara, Ratnapura, Galle and Matara districts were elevated to a high risk level due to higher rainfall.
-
-...
-
-[Data](articles/7b3a9fc0.json)
-
-[Extended Data](ext_articles/7b3a9fc0.ext.json)
-
----
-
-### Sri Lanka 20/20 departed
-
-*2024-05-14 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196601) · `si`
-
-Sri Lanka's cricket team has left for the World Cup in the US, hosted by the West Indies.
-
-🟩
-
-Sri Lanka cricket team left the island today to participate in the World Cup.
-
-The tournament is held at the West Indies in the United States and the West Indies.
-
-◼️
-
-[Data](articles/8a32f61b.json)
-
-[Extended Data](ext_articles/8a32f61b.ext.json)
-
----
-
-### Fines for 15 people involved in motorcycle racing
-
-*2024-05-14 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183464) · `ta`
-
-15 people arrested for illegal motorcycle racing on Galle Road, Bambalapitiya. Their licenses suspended for six months.
-
-🟩
-
-About 15 people were arrested for illegally driving motorcycles on the Galle Road, Bambalapitiya, Bambalapitiya.
-
-In addition, the court has ordered the suspension of driver's licenses of the 15 motorcycle drivers for six months, said police media spokesman Senior Superintendent of Police Nihal Talduwa.
-
-◼️
-
-[Data](articles/b09e2a1a.json)
-
-[Extended Data](ext_articles/b09e2a1a.ext.json)
 
 ---

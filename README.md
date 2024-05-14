@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 17:18:21**
+As of **2024-05-14 17:34:01**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 3,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,978 (100.0%) of 23,980 articles have been extended.
+23,980 (100.0%) of 23,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### සාම්පූර් සිද්ධියේ සිව්දෙනා රිමාන්ඩ්
+### Four of Sampur incident remanded
 
 *2024-05-14 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196619) · `si`
 
-අධිකරණ නියෝග කඩකිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුට ගත් සැකකරුවෙක් සහ සැකකාරියන් තිදෙනා මැයි 27 දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Four suspects in the Sampur incident were remanded until May 27th.
+
+🟩
+
+The arrested suspect and the suspects were remanded until May 27.
 
 ◼️
 
 [Data](articles/c2ce9eeb.json)
 
+[Extended Data](ext_articles/c2ce9eeb.ext.json)
+
 ---
 
-### ලොකු වැස්සක් ගැන ජනතාවට දැනුම්දීමක්
+### Notice of masses about a big rain
 
 *2024-05-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196618) · `si`
 
-බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල මිලිමීටර් 100ක පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department forecasts heavy rain (100mm) in Western, Central, Sabaragamuwa, Uva regions over the next 36 hours due to turbulent lower atmosphere conditions. Showers/thundershowers expected in many parts of the island, especially in the west and south. The department advises caution against strong winds and lightning during thunderstorms.
 
-ඉදිරි පැය 36ට අදාළව කාලගුණ නිවේදනය නිකුත් කරමින් එම දෙපාර්තමේන්තුව මේ බව සඳහන් කර ඇත.
+🟩
 
-එසේම ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ වර්ධනය වී පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බවද එහි වැඩිදුරටත් දැක්වෙයි.
+The Meteorology Department says that around 100 millimeters will occur at some places in the Western, Central, Sabaragamuwa, Uva and Uva.
 
-දිවයිනේ බොහෝ පළාත්වල පස්වරු 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එහි සඳහන්ව ඇත.
+The department was stated in the weather notification regarding the next 36 hours.
 
-බස්නාහිර සහ දකුණු වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+The rainy industry is further expected due to the turbulent nature of the lower atmosphere in the lower atmosphere.
 
-මේ අතර ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං සහ අකුණු මගින් ඇතිවිය හැකි අනතුරු අවම කරගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in many parts of the island.
+
+Showers will occur at the Western and southern coastal areas.
+
+Meanwhile, the Department of Meteorology has requested the people to minimize temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7fd26b3a.json)
+
+[Extended Data](ext_articles/7fd26b3a.ext.json)
 
 ---
 

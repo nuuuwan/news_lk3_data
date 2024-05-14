@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 04:33:33**
+As of **2024-05-15 04:51:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,072 (100.0%) of 24,073 articles have been extended.
+24,073 (100.0%) of 24,073 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,19 +132,29 @@ In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 run
 
 ---
 
-### ’தனி ஈழம் வெற்றி பெறும்’
+### Exchange Eelam Winning
 
 *2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-ஈழம்-வெற்றி-பெறும்/175-337315) · `ta`
 
-தமிழர்களுக்கு எதிராகவே யுத்தம் நடத்தப்பட்டது என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் வடக்கு கிழக்கில் தனி ஈழத்தை ஸ்தாபிக்க முயற்சிக்கும் அடிப்படைவாத நோக்கம் வெற்றி  பெறும் என்று ஆளும் தரப்பு எம்.பி.யான ரியர் அட்மிரல்  சரத் வீரசேகர தெரிவித்தார்.
+Riyar Admiral Sarath Weerasekera discusses the potential success of establishing a separate Eelam in Sri Lanka's North and East, highlighting the intensification of proceedings against the Sri Lankan military. He mentions the possibility of filing a case in the International Court of Justice, noting concerns about the impact on Sri Lanka's independence. The discussion also touches on the conflicts between Palestine and Israel, Israel's cooperation with Sri Lanka during its 30-year war, and the United States' stance towards the LTTE.
 
-இலங்கை இராணுவத்தினருக்கு எதிராக சாட்சியம் திரட்டும் நடவடிக்கைகள் தற்போது தீவிரப்படுத்தப்பட்டுள்ளதுடன் இந்த சாட்சியங்களை அடிப்படையாகக் கொண்டு சர்வதேச நீதிமன்றத்தில்  இலங்கை இராணுவத்துக்கு  எதிராக வழக்கு தாக்கல் செய்ய முடியுமா என்பது குறித்து உறுப்பு நாடுகளுடன் கலந்துரையாடுவதாக ஐ. நா. சபையின் உயர்ஸ்தானிகர் குறிப்பிட்டுள்ளமை சாதாரண விடயமல்ல என்றார்.
+🟩
 
-பாராளுமன்றத்தில்     செவ்வாய்க்கிழமை (14)  இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை  தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+Riyar Admiral Sarath Weerasekera, ruling party MP, said the fundamentalist objective of trying to establish a separate Eelam in the North and East would be a success if the war was proven.
+
+The proceedings against the Sri Lankan military have now been intensified and the II will discuss with member states on whether the Sri Lankan military can file a case in the International Court of Justice based on these testimony.. Na. The High Commissioner of the congregation said it was not normal.
+
+Speaking at a debate on the Motion on the Motion of the Palestinian Committee on Tuesday (14) in Parliament, he said.
+
+The conflicts between the two sides intensified only after Palestine's attack on a public event in Israel. The war is cruel. During the war, there will be losses on both sides.
+
+As the war intensifies between Palestine and Israel, the United States and the United Nations are able to understand.
 
 ...
 
 [Data](articles/e218ccd7.json)
+
+[Extended Data](ext_articles/e218ccd7.ext.json)
 
 ---
 

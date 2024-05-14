@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 04:18:33**
+As of **2024-05-15 04:33:33**
 
 ## Newspaper Stats
 
-*Scraped **24,072** Articles*
+*Scraped **24,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,822
+tamilmirrorlk | 2,823
 virakesarilk | 3,619
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,71 +26,125 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,068 (100.0%) of 24,072 articles have been extended.
+24,072 (100.0%) of 24,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### தொழுநோய் தொடர்பில் விழிப்புணர்வை ஏற்படுத்த புதிய இணையதளம் அங்குரார்ப்பணம்
+### New website to raise awareness on leprosy
 
 *2024-05-15 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183565) · `ta`
 
-தொழுநோய் தொடர்பில் பொது மக்களிடையே படிப்படியாக விழிப்புணர்வை ஏற்படுத்துவதற்காக தொழுநோய் தடுப்பு இயக்கம் மற்றும் அலையன்ஸ் டெவலப்மெண்ட் டிரஸ்ட் நிறுவனத்தின் கூட்டு முயற்ச்சியில் உருவாக்கப்பட்டுள்ள புதிய இணையதளம் செவ்வாய்க்கிழமை (14) உத்தியோக பூர்வமாக அங்குரார்ப்பணம் செய்யப்பட்டது.
+A new website, ACT2Prevent, aims to combat stigma around leprosy by providing accurate information about the disease, its onset, and treatments. Launched by the Leprosy Prevention Movement and Alliance Development Trust, it seeks to educate the public and promote understanding.
 
-எக்ட்டூப்ரேவேன்ட் (ACT2Prevent) என்ற பெயரில் இந்த இணையத்தளம் செயற்பட உள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. சுகாதார அமைச்சரின் தலைமையில் இடம்பெற்றிருந்த இந்நிகழ்வில் முன்னால் கிரிக்கெட் வீரர் ரொஷான் மஹாநாம, அலையன்ஸ் டெவலப்மென்ட் டிரஸ்ட் நிறுவன பணிப்பாளர் ரகு பாலசந்திரன், தொழுநோய் தடுப்பு இயக்கத்தின் பணிப்பாளர் விசேட வைத்திய நிபுணர் நிரூபா பல்லேவத்த, தொழுநோய் தடுப்பு இயக்கத்தின் முன்னாள் பணிப்பாளர் விசேட வைத்திய நிபுணர் ரனவீர, விசேட வைத்திய நிபுணர் திலினி விஜேசேகர, விசேட வைத்திய நிபுணர் இந்திரா காஹவிட்ட ஆகியோர் கலந்துக் கொண்டிருந்தனர்
+🟩
+
+The new website, which was developed in the joint venture of the Leprosy Prevention Movement and Alliance Development Trust, was officially launched on Tuesday (14) to raise awareness among the public on leprosy.
+
+It is also reported that the website is under the name of ACT2Prevent.. The event was chaired by the Minister of Health, former cricketer Roshan Mahanama, Director of the Alliance Development Trust, Raghu Balachandran, Director of Leprosy Prevention Movement, Special Vaidya Pallawatta, Former Director of Leopard Prevention MovementWere attending
+
+The new leprosy campaign website was officially launched by the Leprosy Prevention Movement and Alliance Development Dress at the Sri Lanka Foundation on Tuesday (14). It has also been mentioned that the public can get issues related to leprosy through the ACT2Prevent.
 
 ...
 
 [Data](articles/8f651082.json)
 
+[Extended Data](ext_articles/8f651082.ext.json)
+
 ---
 
-### உயர்தர மாணவர்களுக்கு ஜனாதிபதி நிதியம் வழங்கும் புலமைப்பரிசில் விண்ணப்பிக்குமாறு கல்வி இராஜாங்க அமைச்சர் அரவிந்தகுமார் அறிவுறுத்தல்
+### Minister of State for Education Aravindakumar advises to apply for scholarships to provide Presidential Fund to High Quality Students
 
 *2024-05-15 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183564) · `ta`
 
-2022 (2023) ஆம் ஆண்டு க.பொ.த (சா.த) பரீட்சைக்கு தோற்றி தற்போது க.பொ.த. உயர்தரம் தகவல் தொடர்பாடல் தொழில்நுட்பத்தை ஒரு பாடமாக கற்கும் மாணவ மாணவிகளுக்கு இலங்கை தொலைத் தொடர்புகள் ஒழுங்குபடுத்தல் ஆணைக்குழு மற்றும் சனாதிபதி நிதியம் ஆகியவை ஒன்றிணைந்து வழங்கும் புலமைப்பரிசில் நிகழ்ச்சித் திட்டம் 2024 2025 அறிமுகப்படுத்தப்பட்டுள்ளது.
+Aravindakumar encourages students to apply for the Presidential Fund Scholarship Program, aimed at enhancing education quality. The program, supported by the President's Telecommunication Commission, offers financial aid to high-quality students focusing on advanced communication technologies. Applications must be submitted by the 22nd of the current month.
 
-கல்வித் தரத்தை மேம்படுத்தும் முகமாக உயர்தரத்துக்கு தெரிவாகி தகவல் தொழில்நுட்ப பாடங்களைக் கற்கும் மாணவர்களுக்கு ஜனாதிபதியின் அறிவுறுத்தல்களுக்கமைய இலங்கை தொலைத் தொடர்பாடல் ஆணைக்குழுவின் ஒத்துழைப்பினூடாக, ஜனாதிபதி நிதியம் வழங்கும் இப்புலமைப்பரிசில் வேலைத்திட்டத்துக்கு தகுதியுடைய மாணவர்கள் விண்ணப்பிப்பதற்கு ஊக்குவிக்குமாறு அனைத்து பாடசாலை அதிபர்களையும் கல்வி இராஜாங்க அமைச்சர் அருணாச்சலம் அரவிந்தகுமார் அறிவுறுத்தியுள்ளார்.
+🟩
+
+2022 (2023). Sri Lanka Telecommunications Commission and the Presidential Fund of the Scholarship Program 2024 2025
+
+The Minister of State for Education, Arunachalam, has advised all school principals to encourage students to apply for the Presidential Fund Program, through the cooperation of the President's Telecommunication Commission on the instructions of the President's instructions for the students who are selected to improve the quality of education.
+
+In a statement issued by the Ministry of Education, the Ministry of Education said that the GCE Advanced Development of Sri Lanka's Education Department. Currently, the GCE Advanced Siddhi. The Scholarship Program has been announced from the President's Finance for students who are studying in high -quality communications technology as a subject.
+
+The project is the GCE.. High quality communications technology will be a boon for students who are lessons. The application should be completed and sent before the 22nd of this month.
 
 ...
 
 [Data](articles/8a00bbe2.json)
 
+[Extended Data](ext_articles/8a00bbe2.ext.json)
+
 ---
 
-### இஸ்ரேலுக்கு எதிராக முடியுமான அழுத்தங்களை அரசாங்கம் பிரயோகிக்க வேண்டும் - முஜிபுர் ரஹ்மான்
+### The government should use the pressure on Israel - Mujibur Rahman
 
 *2024-05-15 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183563) · `ta`
 
-ஜனாதிபதி உள்ளிட்ட அரசாங்கம் பலஸ்தீனுக்கு பணம் சேகரிப்பதற்கு பதிலாக இஸ்ரேல் அரசாங்கத்துக்கு எதிராக  முடியுமான அழுத்தங்களை பிரயோகிக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார். அத்துடன்  ஹவ்தி போராளிகளை அடக்குவதற்கு எமது கடற்படையை செங்களுக்கு அனுப்பும் ஜனாதிபதி, இந்திய மீனவர்கள் எமது கடற்பரப்புக்குள் வருவதை தடுப்பதற்கு எந்த நடவடிக்கையும் எடுக்காமல் இருக்கிறார்  எனவும் தெரிவித்தார்
+Mujibur Rahman urges the government to leverage its influence over Israel, citing historical support for Palestine and the potential to halt Sri Lankan labor exports to Israel as forms of pressure. He criticizes the dual approach of fundraising for Palestine while facilitating Israeli entry into the country, advocating for a unified stance in support of Palestine.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற பலஸ்தீனின் தற்பாேதைய நிலை தொடர்பாக சபை ஒத்திவைப்பு வேளை பிரேரணையில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Opposition member Mujibur Rahman said the government, including the president, said that instead of collecting money for Palestine, the Israeli government should put pressure on the Israeli government.. The President, who sends our navy to suppress the Hawdi militants, said that the Indian fishermen would not take any action to prevent the fishermen coming into our waters.
+
+He said this while addressing the adjournment motion on the current state of Palestine held in Parliament on Tuesday (14).
+
+All the heads of state who ruled Sri Lanka have supported Palestine since the early days. Despite our political disagreements with Mahinda Rajapaksa, he was firm on the Palestinian issue.. Similarly, Ranasinghe Premadasa took steps to evict the Israeli office in our country.
+
+The President is starting a fund for Palestinian people and raising money. But when he rallies money to Palestine, there may not be children in Palestine, where there are no people.. There are things that can be pressed.
 
 ...
 
 [Data](articles/ec1e6fdd.json)
 
+[Extended Data](ext_articles/ec1e6fdd.ext.json)
+
 ---
 
-### டெல்ஹியிடம் லக்னோவ் தோல்வி அடைந்ததால் ப்ளே ஒவ் வாய்ப்பை ராஜஸ்தான் உறுதி செய்துகொண்டது
+### Rajasthan confirmed the Playing opportunity as Lucknov failed to Telhi
 
 *2024-05-15 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183562) · `ta`
 
-டெல்ஹி அருண் ஜெய்ட்லி விளையாட்டரங்கில் செவ்வாய்க்கிழமை (14) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 64ஆவது போட்டியில் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் அணியை எதிர்த்தாடிய டெல்ஹி கெப்பிட்டல்ஸ் 19 ஓட்டங்களால் வெற்றியீட்டியது.
+Delhi Capitals won by 19 runs in IPL 2023, securing their playoff spot. Abhishek Patel and Shai Hope contributed significantly with their batting. Despite a strong start, Lucknow Super Giants fell short due to poor batting performance, especially from Quinton de Kock and KL Rahul.
 
-இந்தப் போட்டி முடிவை அடுத்து 16 புள்ளிகளுடன் இரண்டாம் இடத்திலுள்ள ராஜஸ்தான் றோயல்ஸ் இரண்டாவது அணியாக ப்ளே ஓவ் வாய்ப்பை உறுதி செய்துகொண்டது.
+🟩
 
-ஏற்கனவே கொல்கத்தா நைட் ரைடர்ஸ் முதலாவது அணியாக ப்ளே ஒவ் வாய்ப்பை உறுதி செய்துகொண்டிருந்தது.
+Tellhi Capitels won by 19 runs in the 64th match of the 17th Indian Premier League chapter held at Telhi Arun Jaitley Stadium on Tuesday night.
 
-தனது கடைசிப் போட்டியில் ஈட்டிய வெற்றியின்மூலம் டெல்ஹி கெப்பிட்டல்ஸ் மொத்தமாக 14 புள்ளிகளைப் பெற்றுள்ள போதிலும் அதன் நிகர ஓட்ட வேகம் போதமானதாக இல்லாததால் ப்ளே ஓவ் வாய்ப்பை பெறுவது சந்தேகமே.
+Following the end of the match, Rajasthan Royals, with 16 points, confirmed the Play Ov chance as the second team.
 
-சன்ரைசர்ஸ் ஹைதராபாத் தனது எஞ்சிய இரண்டு போட்டிகளிலும் மிக மோசமான தோல்விகளைத் தழுவினால் மாத்திரமே டெல்ஹிக்கு ப்ளே ஓவ் வாய்ப்பு கிடைக்கும். ஆனால், சன்ரைசர்ஸ் ஹைதராபாத் படுதோல்விகளைத் தழுவும் என எதிர்பார்க்க முடியாது.
+Already, Kolkata Knight Riders has been confirming the opportunity to be the first team.
+
+Through the victory in his last match, Telhi Capitols scored 14 points, but it is doubtful that the net speed is not enough, but it is doubtful.
+
+Sunrisers Hyderabad will only get the chance to Play the Playing of the Both of his remaining matches. But Sunrisers cannot expect Hyderabad to adapt to the defeats.
+
+At the same time, Lucknov Super Giants, who has failed, is still a match, but it is not expected to have a playful opportunity.
+
+In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 runs for the loss of 4 wickets in 20 overs.
 
 ...
 
 [Data](articles/e21b9a28.json)
+
+[Extended Data](ext_articles/e21b9a28.ext.json)
+
+---
+
+### ’தனி ஈழம் வெற்றி பெறும்’
+
+*2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-ஈழம்-வெற்றி-பெறும்/175-337315) · `ta`
+
+தமிழர்களுக்கு எதிராகவே யுத்தம் நடத்தப்பட்டது என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் வடக்கு கிழக்கில் தனி ஈழத்தை ஸ்தாபிக்க முயற்சிக்கும் அடிப்படைவாத நோக்கம் வெற்றி  பெறும் என்று ஆளும் தரப்பு எம்.பி.யான ரியர் அட்மிரல்  சரத் வீரசேகர தெரிவித்தார்.
+
+இலங்கை இராணுவத்தினருக்கு எதிராக சாட்சியம் திரட்டும் நடவடிக்கைகள் தற்போது தீவிரப்படுத்தப்பட்டுள்ளதுடன் இந்த சாட்சியங்களை அடிப்படையாகக் கொண்டு சர்வதேச நீதிமன்றத்தில்  இலங்கை இராணுவத்துக்கு  எதிராக வழக்கு தாக்கல் செய்ய முடியுமா என்பது குறித்து உறுப்பு நாடுகளுடன் கலந்துரையாடுவதாக ஐ. நா. சபையின் உயர்ஸ்தானிகர் குறிப்பிட்டுள்ளமை சாதாரண விடயமல்ல என்றார்.
+
+பாராளுமன்றத்தில்     செவ்வாய்க்கிழமை (14)  இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை  தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+...
+
+[Data](articles/e218ccd7.json)
 
 ---
 
@@ -2331,23 +2385,5 @@ DIG of Kurunegala District District is conducting further investigations into th
 [Data](articles/4824cee5.json)
 
 [Extended Data](ext_articles/4824cee5.ext.json)
-
----
-
-### Keheliya’s writ fixed for consideration by Appeals Court
-
-*2024-05-14 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99212/keheliyas-writ-fixed-for-consideration-by-appeals-court) · `en`
-
-The Court of Appeal ordered that the writ application filed by former Health Minister Keheliya Rambukwella, seeking an order to invalidate the decision taken by the Maligakanda Magistrate’s Court to remand him in custody until the conclusion of the trial related to the import of substandard immunoglobulin vials, will be taken up for consideration on May 31.
-
-The petition was taken up for consideration before a two-member Appeals Court judge bench comprising Justices Nissanka Bandula Karunaratne and Shashi Mahendran on Tuesday (14).
-
-Thereafter, the court ordered for the petition to be taken up for consideration on May 31 and for it to be considered from the beginning once again.
-
-...
-
-[Data](articles/940f25cb.json)
-
-[Extended Data](ext_articles/940f25cb.ext.json)
 
 ---

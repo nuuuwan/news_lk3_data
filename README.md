@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 11:03:29**
+As of **2024-05-14 11:18:36**
 
 ## Newspaper Stats
 
-*Scraped **23,885** Articles*
+*Scraped **23,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,79 @@ islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,033
-adaderanalk | 2,781
+adaderanalk | 2,782
 tamilmirrorlk | 2,798
 virakesarilk | 3,567
 dailymirrorlk | 3,759
-adaderanasinhalalk | 3,828
+adaderanasinhalalk | 3,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,882 (100.0%) of 23,885 articles have been extended.
+23,885 (100.0%) of 23,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### பொதுமக்களுக்கு விசேட அறிவித்தல்
+### සුවසැරිය නැවතත් අර්බුදයක - සජිත්ගෙන් හෙළිදරව්වක්
+
+*2024-05-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196607) · `si`
+
+1990 හදිසි ඇමතුම් අංකය ඔස්සේ මෙරට ක්‍රියාත්මක සුවසැරිය ගිලන්රථ සේවාවේ ගිලන් රථ 322න් 56ක් භාවිතයට ගැනීමට නොහැකි තත්ත්වයට පත්ව ඇති බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+අද (14) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් විපක්ෂ නායකවරයා රජයෙන් ඉල්ලා සිටියේ, සුවසැරිය වැඩසටහන කඩා වැටෙන්නට නොදී රැක ගන්නා ලෙසය.
+
+"මේ මොහාත වනවිට සුවසැරිය ගිලන්රථ සේවාවේ ගිලන්රථ 322න් 56ක් අවුට් ඔෆ් සර්විස්. ඒ වගේම විශාල ප්‍රමාණයක් ඉමජන්සි මෙඩිකල් ටෙක්නීෂින්ලා ඒ වගේම රියදුරන් රට අතහැර ගිහිල්ලා තියෙනවා. ඒ වගේම ඇත්ත වශයෙන් ඒ අය පුහුණු කරන්නට කාලයක් ගත වෙනවා. ඒ කටයුත්ත ක්‍රියාත්මක කරන්නට අද පුද්ගලයින් නැහැ. ඒ වගේම ඉමර්ජන්සි මෙඩිකල් ටෙක්නිෂියන්ලා තෝරා ගෙන ඉන්න අයගේ බොහොම සුළු ප්‍රමාණයක් තමයි කැමත්ත පළ කරලා තියෙන්නේ මේකට බැඳෙන්න. ඒ වගේම මේ ගිලන්රථ රෙපෙයාර් කිරීමේදීත් ඒ අඩුපාඩුකම් සොයා බැලීමේදීත් ඇත්ත වශයෙන්ම ඒවට ප්‍රමාණවත් රාජ්‍ය අවධානය, රාජ්‍ය අනුග්‍රාහය ලැබිලා නැහැ. ඒ නිසා විශේෂයෙන් මේ සුවසැරිය වැඩසටහන කඩා වැටෙන්නට නොදී මෙය නඩත්තු කරන්නට, මේක රැක ගන්න රජයට මැදිහත් වෙන්න කියලා මම ඉල්ලා සිටිනවා."
+
+◼️
+
+[Data](articles/480af8a3.json)
+
+---
+
+### US Assistant Secretary Donald Lu meets Sri Lanka’s opposition
+
+*2024-05-14 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99203/us-assistant-secretary-donald-lu-meets-sri-lankas-opposition-) · `en`
+
+United States’ Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, who is on an official visit to the island, has met with leaders from across Sri Lanka’s political spectrum including opposition parties the Samagi Jana Balawegaya (SJB) and the National Peoples’ Power (NPP).
+
+US Ambassador to Sri Lanka Julie Chung also took part in the discussions held on Monday (13).
+
+Posting on ‘X’, Ambassador Chung stated that the two meetings were aimed at gaining knowledge on Sri Lanka’s upcoming elections and the perspectives of the political parties regarding the country’s economic recovery, and their vision for the nation’s path forward.
+
+During the meeting with representatives from the NPP, the discussion focused on Sri Lanka’s current economic situation, the intervention of the International Monetary Fund (IMF), the conducting of free and fair elections and the security of the Indian Ocean region.
+
+...
+
+[Data](articles/982879a3.json)
+
+---
+
+### Special notification
 
 *2024-05-14 10:39:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-விசேட-அறிவித்தல்/175-337280) · `ta`
 
-இன்ஃப்ளூவன்ஸா பரவல் வழக்கத்திற்கு மாறாக அதிகரித்து வரும் நிலையில், காய்ச்சல், இருமல், தொண்டை புண், தலைவலி மற்றும் சோர்வு,மூக்கு ஒழுகுதல் அல்லது அடைத்தல், தசை அல்லது உடல் வலி போன்ற அறிகுறிகள் குறித்து எச்சரிக்கையாக இருக்குமாறு சுகாதார நிபுணர்கள் பொதுமக்களை வலியுறுத்தியுள்ளனர்.
+Health experts warn of unusual influenza spread, advising public to watch for symptoms like fever, cough, sore throat, headache, and fatigue. Doctor Deepal Perera highlights the situation is severe among children, urging parents to monitor them closely. The disease peaks in November-February and April-July, with cases doubling in the last week. Both influenza A and B are widespread. Immediate medical treatment is crucial for symptoms. High-risk groups include pregnant mothers, children under two, those over 60, and people with chronic illnesses. The Health Secretary has ordered increased surveillance in 20 hospitals.
 
-டெய்லி மிரருக்குப் பேட்டியளித்த கொழும்பு லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலை குழந்தை நல வைத்தியர் தீபால் பெரேரா, இந்நிலை குழந்தைகள் மத்தியில் அதிகமாகக் காணப்படுவதாகவும், எனவே பெற்றோர்கள் தங்கள் குழந்தைகளை உன்னிப்பாகக் கண்காணிக்குமாறு அறிவுறுத்தப்படுவதாகவும் தெரிவித்தார்.
+🟩
 
-"வழக்கமாக நவம்பர் முதல் பிப்ரவரி வரை மற்றும் ஏப்ரல் முதல் ஜூலை வரை என .இக் காய்ச்சல் இரண்டு உச்சநிலைகளில் பரவும்,"
+As the influenza spread is unusual, health experts have urged the public to be aware of the symptoms of fever, cough, sore throat, headache and fatigue, nose, or symptoms of muscle or physical pain.
 
-“இந்த நேரத்தில், குழந்தைகள் மற்றும் பெரியவர்கள் மத்தியிலும் நோய் கணிசமாக உயர்ந்துள்ளது. கடந்த ஒரு வாரத்தில் மட்டும் இந்நோய் வழக்குகள் இரட்டிப்பாகியுள்ளன. தற்போதைய நிலவரப்படி, இன்ஃப்ளூவன்ஸா ஏ முதன்மையானது. இருப்பினும், இன்ஃப்ளூயன்ஸா பி யும் பரவலாக உள்ளது, ”என்று அவர் சுட்டிக்காட்டினார்.
+In an interview with the Daily Mirror, Colombo Lady Ridgeway Children's Hospital Child Welfare Doctor Deepal Perera said that the situation is more among the children and therefore parents are advised to monitor their children.
+
+"Usually from November to February and April to July. The fever is spreading at two peaks,"
+
+“At this time, the disease has risen significantly despite children and adults. In the last one week alone, the cases have doubled. As per the current situation, Influnsaa is the first. However, influenza B is also widespread, ”he pointed out.
+
+If the symptoms of this situation continue, the expert emphasized the importance of seeking immediate medical treatment.
 
 ...
 
 [Data](articles/f9b490e0.json)
+
+[Extended Data](ext_articles/f9b490e0.ext.json)
 
 ---
 
@@ -87,6 +129,8 @@ A collective health sector trade union launched a token strike at all hospitals 
 ...
 
 [Data](articles/7dc9b9f6.json)
+
+[Extended Data](ext_articles/7dc9b9f6.ext.json)
 
 ---
 
@@ -2109,49 +2153,5 @@ It is another Sri Lankan hospitalized while serving in the Russian Reeling Army,
 [Data](articles/bc4709bc.json)
 
 [Extended Data](ext_articles/bc4709bc.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu calls on President Ranil
-
-*2024-05-13 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99195/us-assistant-secretary-donald-lu-calls-on-president-ranil) · `en`
-
-United States’ Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, called on President Ranil Wickremesinghe today (13) at the Presidential Secretariat in Colombo.
-
-During the meeting, extensive discussions were held regarding Sri Lanka’s economic recovery strategies, a statement said.
-
-“President Wickremesinghe’s unwavering dedication and commitment to implementing the economic reform program was highly appreciated,” the President’s Media Division said.
-
-The President was accompanied by the Senior Advisor on the National security and Chief of Staff, Sagala Ratnayaka, Secretary to the President, Saman Ekanayake and US Ambassador to Sri Lanka Julie Chung.
-
-◼️
-
-[Data](articles/6dccae30.json)
-
-[Extended Data](ext_articles/6dccae30.ext.json)
-
----
-
-### Landslide warnings are issued for 5 districts
-
-*2024-05-13 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196590) · `si`
-
-Landslide warnings issued for 5 districts: Halduduwara, Haputale, Mawanella, Dehiowita, Galigamuwa, Kegalle, Mawagama, Imbulpe, Ratnapura, Balangoda.
-
-🟩
-
-The National Building Research Organization has issued landslide warnings for 5 districts.
-
-The announcement has issued a landslide landslide warnings in Halduduwara and Haputale in Badulla District.
-
-The landslide warnings were issued in Mawanella, Dehiowita, Galigamuwa and Kegalle areas.
-
-The National Building Research Organization has issued landslide warnings for Mawagama in Kurunegala and the Imbulpe, Ratnapura and Balangoda areas.
-
-◼️
-
-[Data](articles/f8b18cb8.json)
-
-[Extended Data](ext_articles/f8b18cb8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 07:18:03**
+As of **2024-05-14 07:43:05**
 
 ## Newspaper Stats
 
-*Scraped **23,849** Articles*
+*Scraped **23,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,80 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,029
 adaderanalk | 2,776
-tamilmirrorlk | 2,792
+tamilmirrorlk | 2,793
 virakesarilk | 3,562
 dailymirrorlk | 3,753
-adaderanasinhalalk | 3,819
+adaderanasinhalalk | 3,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,834 (99.9%) of 23,849 articles have been extended.
+23,847 (100.0%) of 23,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
 
-### ඝාතනයකට සහෝදරයින් දෙදෙනෙක් අත්අඩංගුවට
+### සෞඛ්‍ය වර්ජනය අද සබරගමුවේ
+
+*2024-05-14 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196597) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය අද (14) දිනයේ සබරගමුව පළාතේ වැඩවර්ජනයක නිරත වේ.
+
+◼️
+
+[Data](articles/7ff330e6.json)
+
+---
+
+### Two brothers arrested for murder
 
 *2024-05-14 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196596) · `si`
 
-මහඔය, සමගිපුර ප්‍රදේශයේදී දෙපිරිසක් අතර ඇතිවූ ආරවුලක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී තරුණයෙකු ඝාතනය කර තිබේ.
+Two brothers, aged 18 and 23, were arrested for murder in Mahaoya, Sanoya. A 26-year-old man was assaulted with a sharp object and died. The incident was reported yesterday.
 
-ඊයේ (13) දහවල් කලායේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, සමගිපුර, මහඔය ප්‍රදේශයේ පදිංචි 26 හැවිරිදි තරුණයෙකි.
+A youth has been assaulted by a sharp object due to a sharp object in Mahaoya, the Sanoya area.
 
-ඝාතනය සම්බන්ධයෙන් වයස අවුරුදු 18ක් හා 23ක් වන සමගිපුර, මහඔය ප්‍රදේශයේ පදිංචි සහෝදරයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+The incident was reported yesterday in the afternoon, police said.
+
+The deceased is a 26 year old resident of Maha Oya, Samao.
+
+Two brothers from the area aged 18 and 23, 23 and 23, the 23rd, Saripura, Mahaoya area have been arrested.
 
 ◼️
 
 [Data](articles/74ad6ba8.json)
 
+[Extended Data](ext_articles/74ad6ba8.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවේ කාන්තා නියෝජනය ඉහළ දැමීමට නව පනත් කෙටුම්පත් දෙකක්
+### New bills draft two women representing women's representation
 
 *2024-05-14 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196595) · `si`
 
-පාර්ලිමේන්තුවේ කාන්තා නියෝජනය ඉහළ දැමීම සඳහා නව පනත් කෙටුම්පත් දෙකක් පාර්ලිමේන්තුවට ඉදිරිපත් වී තිබේ.
+Two new bills aim to boost women's representation in Parliament, proposing amendments to the Parliamentary Elections Act to ensure at least 30% female representation. Additionally, a bill requires political parties or independent groups to submit proposals for women's representation. MP Sudarshani Fernandopulle has expressed concern over the lack of positive response to increasing women's representation.
 
-පෞද්ගලික මන්ත්‍රී යෝජනාවන් ලෙස පාර්ලිමේන්තු මන්ත්‍රී සුදර්ශනී ප්‍රනාන්දුපුල්ලේ මහත්මිය විසින් අදාළ පනත් කෙටුම්පත් ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+🟩
 
-ඒ අනුව පාර්ලිමේන්තු මැතිවරණ පනත සංශෝධනය කිරීම සඳහා පනත් කෙටුම්පතක් ඉදිරිපත් වී ඇති අතර එමඟින් සෑම පිළිගත් දේශපාලන පක්ෂයකම කාන්තා නියෝජනය සියයට 30කට නොඅඩු ප්‍රතිශතයක් ඇතුළත් කිරීම සඳහා යෝජනා කර තිබේ.
+Two new bills have been tabled in Parliament to increase women's representation in Parliament.
 
-ඊට අමතරව විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ලෙස දේශපාලන පක්ෂයක හෝ ස්වාධීන කණ්ඩායමක පාර්ලිමේන්තුව නියෝජනය කිරීම සඳහා නම් කරනු ලබන ජාතික ලැයිස්තුවට සියයට 50කට නොඅඩු කාන්තා සාමාජිකයින් සංඛ්‍යාවක් ඇතුළත් කළ යුතු බවට වූ යෝජනාවක් පනත් කෙටුම්පතක් ලෙස පාර්ලිමේන්තුවට ඉදිරිපත් වී ඇති බව සඳහන්ය.
+It is reported that the private member proposals have submitted respect to Parliamentarian Sudarshani Fernandopulle.
 
-දේශපාලන පක්ෂවලින් කාන්තා නියෝජනය ඉහළ දැමීමට අවශ්‍ය කටයුතු සිදුකරන ලෙස ඉල්ලීම් කළ ද ඒ සඳහා යහපත් ප්‍රතිචාරයක් නොලැබීම හේතුවෙන් අදාළ ඉල්ලීම නීතියක් ලෙස ගෙනඒමට තීරණය කළ බව පාර්ලිමේන්තු මන්ත්‍රී සුදර්ශනී ප්‍රනාන්දුපුල්ලේ මහත්මිය සඳහන් කළාය.
+Accordingly, a bill has come forward to amend the Parliamentary Elections Act, suggesting that women represent not less than 30 percent of women.
+
+In addition, a proposal to be allocated to represent the Parliament of a political party or independent group of the National Party or an Independent group, a proposal should be submitted to Parliament as a bill.
+
+MP Sudarshani Fernandopulle said that he had requested to take measures to increase women's representation from political parties, whether it was not a positive response.
 
 ◼️
 
 [Data](articles/6b302c1c.json)
+
+[Extended Data](ext_articles/6b302c1c.ext.json)
 
 ---
 
@@ -88,6 +112,8 @@ In light of the situation, the expert stressed the importance of seeking prompt 
 
 [Data](articles/78fef6d1.json)
 
+[Extended Data](ext_articles/78fef6d1.ext.json)
+
 ---
 
 ### Facebook party raided inside Knuckles Reserve, over 20 arrested
@@ -104,23 +130,31 @@ The investigation conducted by forest officials revealed that the group had ente
 
 [Data](articles/d96fa705.json)
 
+[Extended Data](ext_articles/d96fa705.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවු වැසි
+### Showers over 100mm
 
 *2024-05-14 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196594) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ කැලඹිලි ස්වභාවයක් වර්ධනය වීම හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka faces increased rainfall due to atmospheric changes, with showers expected in the south, central, eastern, and Uva provinces. The Department of Meteorology advises caution against temporary winds and lightning during thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ පළාත්වලට අද (14) ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-දකුණ, මධ්‍යම, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100ට වැඩිතද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Meteorology says that Sri Lanka is expected to increase a rainy increase in the country due to the development of the lower atmosphere.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states that in many parts of the island today (14). Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology states that the south, Central, Eastern and Uva provinces will experience the rain.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/b7e3a69d.json)
+
+[Extended Data](ext_articles/b7e3a69d.ext.json)
 
 ---
 
@@ -142,6 +176,8 @@ Sri Lanka’s businesses, the exporters in particular, recently called for a sta
 
 [Data](articles/5a5fa7de.json)
 
+[Extended Data](ext_articles/5a5fa7de.ext.json)
+
 ---
 
 ### CTC says drop in 1Q sales due to tax-led price increases
@@ -159,6 +195,8 @@ CTC’s profit before tax for the quarter ended in March stood at Rs.11.7 billio
 ...
 
 [Data](articles/1302415b.json)
+
+[Extended Data](ext_articles/1302415b.ext.json)
 
 ---
 
@@ -442,39 +480,77 @@ Competition is the answer for productivity improvement. The moment you have the 
 
 [Data](articles/5176261c.json)
 
+[Extended Data](ext_articles/5176261c.ext.json)
+
 ---
 
-### ’அராஜகம் மீண்டும் தலைதூக்கியுள்ளது’
+### ’அநீதி ஏற்படாத வகையில் புள்ளிகள் வழங்கப்படும்’
+
+*2024-05-14 00:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநீதி-ஏற்படாத-வகையில்-புள்ளிகள்-வழங்கப்படும்/175-337272) · `ta`
+
+கல்வி பொது தராதர சாதாரண தர பரீட்சையில் விஞ்ஞான பாட வினாத்தாள் தொடர்பில் மாணவர்களுக்கு அநீதி ஏற்படாத வகையில் உரிய புள்ளிகளை வழங்கப்படும் என கல்வியமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற வாய்மூல விடைக்கான  வினா நேரத்தில் எதிர்க்கட்சி எம்.பி.  ரோஹிணி கவிரத்ன எழுப்பிய கேள்வி யொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த கல்வி அமைச்சர் மேலும் கூறுகையில்,
+
+விஞ்ஞான பாட வினாத்தாளில் இடம்பெற்றுள்ள தவறுகள் தொடர்பில் சிக்கல்கள் எழுந்துள்ள நிலையில் அந்த வினாத்தாள்களைத் தயாரித்த விரிவுரையாளர்களை அழைத்து பேச்சுவார்த்தை நடத்தப்பட்டுள்ளது.
+
+இம்முறை கல்வி பொது தராதர சாதாரண தர பரீட்சையில் விஞ்ஞான பாட வினாத்தாள் தொடர்பில் மாணவர்களுக்கு அநீதி ஏற்படாத வகையில் புள்ளி முறைமை ஒன்று தயாரிக்கப்பட்டு உரிய புள்ளிகளை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என்றார்,.
+
+◼️
+
+[Data](articles/cb9f7222.json)
+
+---
+
+### The anarchy has re -headed
 
 *2024-05-14 00:56:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அராஜகம்-மீண்டும்-தலைதூக்கியுள்ளது/175-337271) · `ta`
 
-பொலிஸ் அராஜகம், அடாவடித்தனம், மிருகத்தனம் இந்த மண்ணில் மீண்டும் வெளிப்படுத்தப்பட்டுள்ளது. இலங்கை மிக மோசமான நாடு,மிகக்கேவலமான நாடு என கடுமையாக விமர்சித்த  தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி.யான எஸ் சிறிதரன், முள்ளிவாய்க்கால்  கஞ்சி சுகாதாரமான முறையில் காய்ச்சப்படவில்லை என்று  கூறும் நீங்கள் வெசாக் வருகின்றபோது  தெருத்தெருவாக வழங்கும் உணவின்   சுகாதாரம் பற்றி எப்போதாவது கேட்டுள்ளீர்களா எனவும் கேள்வி எழுப்பினார்.
+The text highlights the ongoing issues in Sri Lanka, focusing on the Tamil community's struggles, including police brutality, the lack of an apology from Sinhalese leaders, and the commemoration of the Mullivaikkal massacre. It criticizes the country's handling of the Tamil issue and the arrest of women for providing porridge, highlighting the need for reconciliation and peace.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13)  இடம்பெற்ற நிதிக்கட்டளைகள் தொடர்பான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி எழுப்பிய அவர் தொடர்ந்தும் பேசுகையில்,
+🟩
 
-இன்றைய நாட்கள்  தமிழர்களின் வாழ்வில் மிக முக்கியமான நாட்கள் .15 வருடங்களுக்கு முன்னர் தமிழர்கள் கொத்துக்கொத்தாக கொல்லப்பட்ட, பூண்டோடு அழிக்கப்பட்ட ,பாதுகாப்பு வலயம் என அரசினால் அறிவிக்கப்பட்டு அந்த பாதுகாப்பு வலயத்துக்குள் நம்பிச்சென்ற மக்கள் கொத்துக்குண்டுகளினாலும் பொஸ்பரஸ் குண்டுகளினாலும் மக்கள் வகைதொகையின்றிக்கொல்லப்பட்ட  நாட்கள். குழந்தைகள், கர்ப்பிணிகள்,வயோதிபர்கள் உற்பட பல்லாயிரக்கணக்கானோர் கொல்லப்பட்டார்கள்.
+Police anarchy, adversity and brutality have been revealed in this soil. Sridharan, the Tamil National Alliance (TNA) MP of the Tamil National Alliance (TNA), who criticized Sri Lanka as the worst country and the largest country, questioned whether Mullivaikkal had not been wounded in a healthy manner.
+
+Speaking on the issue of Financial Commission on Monday (13) in Parliament, he continued to question.
+
+Today's days are the most important days in the lives of Tamils.. Tens of thousands of children, pregnant and elderly people were killed.
+
+The Archbishop of Mannar, the Archbishop of Mannar, submitted a complete accurate and credible document that more than 146,000 people were killed and disappeared before the Reconciliation Commission.. This document is an important tool by the United Nations Human Rights Commission and the world.
+
+Despite the killing of so many people, no brave Sinhalese leader has apologized to the Tamil people.
 
 ...
 
 [Data](articles/f9b6fb65.json)
 
+[Extended Data](ext_articles/f9b6fb65.ext.json)
+
 ---
 
-### ’அரசாங்கம் டயானாவை ஏமாற்றிவிட்டது’
+### The government has cheated Diana
 
 *2024-05-14 00:53:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-டயானாவை-ஏமாற்றிவிட்டது/175-337270) · `ta`
 
-டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை ஜனாதிபதியும் அரசாங்கமும் அறிந்திருந்தும் ஐக்கிய மக்கள் சக்திக்கு எதிராக அவரை தவறாக பயன்படுத்தி வந்ததாக ஐக்கிய மக்கள் சக்தி எம்.பி.யான முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Mujibur Rahman, a United People's Power MP, accused the government of misusing its power against Diana Kamage, claiming she's not a citizen. He resigned his MP post to contest a local election, criticizing Diana for being an "dishonest MP" and the government for protecting her. He questioned the issuance of a diplomatic passport to a non-citizen and called for an investigation into the matter.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (13) இடம்பெற்ற நிதிக் கட்டளைகள் மீதான விவாதத்தில்  உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-உள்ளூராட்சி சபைத்தேர்தலில் போட்டியிடுவதற்காக நான் நேர்மையாகவே எனது எம்.பி பதவியை இராஜிநாமா செய்தேன். அதனாலேயே என்னால்   மீண்டும் இந்த சபைக்கு வர முடிந்தது. ஆனால் டயனா கமகே நேர்மையற்ற முறையில் எம்.பி.யானதால் வந்ததால், அவருக்கு பாராளுமன்ற உறுப்பினர் பதவி இல்லாமல் போயுள்ளது.
+United People's Power MP Mujibur Rahman said that Diana Kamage was not a citizen of the country, but the government and the government had misused him against the United People's Power.
 
-டயனா கமகே இந்த நாட்டு பிரஜை அல்ல என்பதை அவர் ஆரம்பத்தில் எங்களுக்கும் மறைத்திருந்தார். அது தொடர்பான உண்மை எமக்கு தெரியவந்ததுடன் அது தொடர்பில் நாங்கள் நீதிமன்றில் முறையிட்டோம். ஆனால் ஜனாதிபதியும் அரசாங்கமும் டயனாவை பாதுகாத்து வந்தனர் . ஐக்கிய மக்கள் சக்திக்கு எதிராகவும் சஜித் பிரேமதாசவுக்கு எதிராகவும் செயற்பட ஜனாதிபதியும் அரசாங்கம் அவரை பயன்படுத்தி வந்தனர் .
+Speaking at a debate on the financial orders in Parliament on Monday (13), he said.
+
+I honestly resigned my MP post in order to contest the local government election. That's why I was able to come back to this congregation. But because Diana Kamage became a dishonest MP, he has not been appointed as a Member of Parliament.
+
+He initially hid us that Diana Kamage was not a citizen of this country. The fact was that we were informed and we appealed to the court. But the president and the government have protected Diana. The president and the government used the government to act against the United People's Power and Sajith Premadasa.
+
+When Diana Kamage had applied for a diplomatic passport, he said that he was not a citizen of the country and that he could not distribute her passport.
 
 ...
 
 [Data](articles/091ca144.json)
+
+[Extended Data](ext_articles/091ca144.ext.json)
 
 ---
 
@@ -2115,63 +2191,5 @@ The Security Council meeting on several issues on Sri Lankans who have gone to R
 [Data](articles/7ee9a025.json)
 
 [Extended Data](ext_articles/7ee9a025.ext.json)
-
----
-
-### Mullivaikkal Kanji Distribution in Thenmarachchi
-
-*2024-05-13 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183416) · `ta`
-
-Mullivaikkal Kanji and Memorial Bhavani were held at Chavakachcheri Bus Station, commemorating survivors. Mrs. Sasikala Raviraj led the event, followed by a distribution of pamphlets detailing Mullivaikkal's history. The Kanji was also distributed at Raviraj's statue and led by Sivanesan at Kodikamam bus stand. The event will continue in Vadamarachchi, Kopay, Manipayi, Nallur, Vadukkottai, Velanai, and Karainagar from the 15th to the 18th, with organizers requesting the memorial's presence in these areas.
-
-🟩
-
-Mullivaikkal Kanji and Mullivaikkal Memorial Bhavani were held at the Shiva Temple at the Chavakachcheri Bus Station at 10.30 am today.
-
-At this time, Mullivaikkal was mounted by Mrs. Sasikala Ravirajj to commemorate the survivors of Mullivaikkal soil and continued to pay the flower.
-
-This was followed by the Mullivaikkal Memorial, the Mullivaikkal Kanji, which was followed by the Tamil massacre.. During this time, the pamphlet, which included the history of Mullivaikkal Kanji.
-
-Mullivaikkal Memorial Kanji was also distributed at the statue of Raviraj's statue of former Member of Parliament, Raviraj's statue.
-
-Meanwhile, the distribution of Mullivaikkal Kanji was carried out under the leadership of former Pradeshiya Sabha member Sivanesan at the Kodikamam bus stand.
-
-Following tomorrow, Vadamarachchi will travel in Vadamarachchi on the 15th, Kopay, Manipayi and Nallur areas on the 16th, Vadukkottai on the 16th, Velanai on the 17th and Karainagar on the 18th.
-
-...
-
-[Data](articles/64001dba.json)
-
-[Extended Data](ext_articles/64001dba.ext.json)
-
----
-
-### Sri Lankans will be converted into suicide bombs on the Russian battlefield - Dayasiri says
-
-*2024-05-13 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183417) · `ta`
-
-Opposition MP Dayasiri Jayasekara urges swift diplomatic action to repatriate 600 Sri Lankans affected by the Russia-Ukraine war, including retired soldiers unknowingly deployed on the battlefield. He warns of a plan to convert them into suicide bombers, calling for a special team to negotiate their return.
-
-🟩
-
-Opposition parliamentarian Dayasiri Jayasekara said that the government should take swift action at the diplomatic level to bring 600 Sri Lankans affected by the Russian war in the country.
-
-He was speaking at a special statement during a session on Monday in Parliament.
-
-With the intensification of the Russia-Ukraine war, retired Sri Lankan soldiers have gone to the Russian battlefield and faced great troubles.
-
-They have gone there without knowing that they are going to the battlefield.
-
-Investigations are being carried out at the national level and the diplomatic level should be carried out.
-
-The Russian army has decided to end the Russian -Ukraine war within 10 days.
-
-It is known that steps have been taken to send the Sri Lankan soldiers who are joining the Russian war and to convert them into suicide attacks.. So this is serious.
-
-...
-
-[Data](articles/93d78ff6.json)
-
-[Extended Data](ext_articles/93d78ff6.ext.json)
 
 ---

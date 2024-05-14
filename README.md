@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 09:18:18**
+As of **2024-05-14 09:33:37**
 
 ## Newspaper Stats
 
-*Scraped **23,860** Articles*
+*Scraped **23,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,030
-adaderanalk | 2,778
+adaderanalk | 2,779
 tamilmirrorlk | 2,794
 virakesarilk | 3,562
 dailymirrorlk | 3,754
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,860 (100.0%) of 23,860 articles have been extended.
+23,860 (100.0%) of 23,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### One dead, another injured as train hits hand tractor
+
+*2024-05-14 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99200/one-dead-another-injured-as-train-hits-hand-tractor-) · `en`
+
+One person has died and another sustained injuries in an accident where a hand tractor collided with a train at the Duwemodara railway crossing in Kosgoda.
+
+The accident had occurred last evening (13) involving an express train which was running from Matara to Maradana.
+
+The driver of the hand tractor, who was seriously injured in the accident, and another person who was traveling on it, were admitted to the Balapitiya hospital.
+
+However, the driver had succumbed to his injuries after admission to the hospital.
+
+The other injured person has been transferred to Karapitiya Hospital for further treatment, police said.
+
+◼️
+
+[Data](articles/4de89e08.json)
+
+---
 
 ### 14 killed as India's billboard collapses
 
@@ -2159,23 +2179,5 @@ A bond maturing on 01.10.2032 closed down at 11.90/12.10 percent from 12.10/20 p
 [Data](articles/8bb09b35.json)
 
 [Extended Data](ext_articles/8bb09b35.ext.json)
-
----
-
-### What is greatly interesting about the Diana Gamage Saga  is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
-
-*2024-05-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84022) · `en`
-
-Leaving apart the typically hysterical political brouhaha about the unseating of Diana Gamage, former (and largely unlamented) Member of Sri Lanka’s Parliament, what is greatly interesting about this otherwise distasteful saga is the different approaches taken by the Supreme Court and a majority decision of the Court of Appeal with profound implications on the roll of the judicial dice in each instance.
-
-This concerned a parliamentarian whose seat was challenged by a social activist on the basis that she was the holder of a British passport thus ceasing to be a citizen of Sri Lanka and by virtue of Article 91 read with Article 89 of the Constitution, was disqualified from holding office as a Member of Parliament.
-
-Significantly, the legal remedy sought was the rarely used Writ of Quo Warranto. This required Gamage to show ‘by what authority she claims to hold office and continue to function as a Member of Parliament.’
-
-...
-
-[Data](articles/8bb877e6.json)
-
-[Extended Data](ext_articles/8bb877e6.ext.json)
 
 ---

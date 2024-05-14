@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 08:18:28**
+As of **2024-05-14 08:33:50**
 
 ## Newspaper Stats
 
-*Scraped **23,859** Articles*
+*Scraped **23,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,030
 adaderanalk | 2,778
-tamilmirrorlk | 2,793
+tamilmirrorlk | 2,794
 virakesarilk | 3,562
 dailymirrorlk | 3,754
 adaderanasinhalalk | 3,823
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,857 (100.0%) of 23,859 articles have been extended.
+23,859 (100.0%) of 23,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,8 @@ Minister Thondaman made these statements while addressing a press briefing held 
 ...
 
 [Data](articles/da970eaf.json)
+
+[Extended Data](ext_articles/da970eaf.ext.json)
 
 ---
 
@@ -177,6 +179,8 @@ The programme was initiated in response to observations that individuals engaged
 ...
 
 [Data](articles/b9843b40.json)
+
+[Extended Data](ext_articles/b9843b40.ext.json)
 
 ---
 
@@ -591,6 +595,22 @@ Special training in the military, unable to leave the service during this period
 [Data](articles/8d2cfac4.json)
 
 [Extended Data](ext_articles/8d2cfac4.ext.json)
+
+---
+
+### கிரிக்கெட் அணிக்கு ஜனாதிபதி வாழ்த்து
+
+*2024-05-14 01:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-அணிக்கு-ஜனாதிபதி-வாழ்த்து/175-337273) · `ta`
+
+அமெரிக்கா மற்றும் மேற்கிந்தியத் தீவுகளில் ஜூன் 01 ஆம் திகதி முதல் ஜுன் 29 ஆம் திகதி வரை நடைபெறவுள்ள இருபதுக்கு 20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்றுவதற்காக நாட்டிலிருந்து புறப்பட்டுச் செல்லும் இலங்கை கிரிக்கெட் அணியினர் நேற்று பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்தனர்.
+
+வனிது ஹசரங்க தலைமையிலான 15 வீரர்கள் அடங்கிய இலங்கை கிரிக்கெட் அணி இன்று காலை நாட்டிலிருந்து புறப்படவுள்ளது.
+
+வீரர்களை ஊக்குவித்த ஜனாதிபதி, அவர்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார். நாட்டிற்கு சிறந்த வெற்றியுடன் வருங்கள் எனவும் அவர்களை வாழ்த்தினார். (a)
+
+◼️
+
+[Data](articles/d2bb174e.json)
 
 ---
 
@@ -2151,31 +2171,5 @@ Significantly, the legal remedy sought was the rarely used Writ of Quo Warranto.
 [Data](articles/8bb877e6.json)
 
 [Extended Data](ext_articles/8bb877e6.ext.json)
-
----
-
-### We have selected the best equivalent team for the R20 World Cup - Uppul Taranga
-
-*2024-05-13 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183437) · `ta`
-
-Sri Lanka's Uppul Sandana, Chairman of the Cricket Select Committee, announced the selection of a balanced team for the 9th ICC R20 World Cup, emphasizing fitness, energy, and discipline. The team, including Wanindu Hasaranga and Mahish Pathirana as main spinners, is prepared to face any team in the US and West Indies. The squad also features experienced players like Angelo Mathews and Dasun Shanaka for fast bowling, with a focus on adapting to the conditions and scoring potential.
-
-🟩
-
-Sri Lanka Cricket Select Committee Chairman Uppul Sandana said that Sri Lanka is facing any team in the 9th ICC R20 World Cup chapter, which is jointly held in the United States and the West Indies.
-
-He rejected the claim that the team was selected on behalf of the side and said, "We have chosen the best equal team."
-
-He made this statement in response to various questions raised at a media briefing held at the Sri Lanka Cricket Headquarters on Monday (13).
-
-He said he had taken care of the fitness, energies and discipline of the players and selected a group of 15 of the best equality.
-
-In Australia, the outer spaces and goats are planted in the grounds by shipping.. Often they are all new domains and they are recession. The Major League Cricket in the United States has scored an average of 160 runs. The R20 is likely to get 200 runs in the World Cup. Considering them all, we have strengthened the spinning in the Sri Lankan group.
-
-...
-
-[Data](articles/89e4dde4.json)
-
-[Extended Data](ext_articles/89e4dde4.ext.json)
 
 ---

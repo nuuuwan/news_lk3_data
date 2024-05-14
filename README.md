@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 03:33:52**
+As of **2024-05-15 03:52:12**
 
 ## Newspaper Stats
 
-*Scraped **24,066** Articles*
+*Scraped **24,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,820
+tamilmirrorlk | 2,821
 virakesarilk | 3,615
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,065 (100.0%) of 24,066 articles have been extended.
+24,066 (100.0%) of 24,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ’பலஸ்தீன அமைதிக்காக தொடர் குரல்கொடுப்போம்’
+
+*2024-05-15 00:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-அமைதிக்காக-தொடர்-குரல்கொடுப்போம்/175-337313) · `ta`
+
+பலஸ்தீன மக்கள் எதிர்நோக்கும் அவலங்கள் நீங்கி, அங்கு அமைதியை ஏற்படுத்துவதற்காக தொடர்ந்தும் குரல் கொடுப்போம் என்று முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்‌ஷ தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) நடைபெற்ற பலஸ்தீனத்தில் இன்றைய நிலவரம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+பலஸ்தீன - இலங்கை ஒத்துழைப்பு அமைப்பின் ஆரம்ப தலைவர் என்ற ரீதியில் பலஸ்தீன மக்களின் உரிமைகளுக்காக நாங்கள் குரல் கொடுத்தோம் என்றும் மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+அன்று முதல் இன்று வரையில் பலஸ்தீனத்திற்காகவும் அந்த மக்களுக்காகவும் முன்னிற்கின்றோம். அங்குள்ள நெருக்கடிகளை தீர்க்க வேண்டுமென்று அந்த விடயத்தில் தலையிடும் அனைத்து தரப்பினருக்கும் நாங்கள் அழுத்தம் கொடுக்க வேண்டும். 7 தசாப்தங்களாக தொடரும் பலஸ்தீன - இஸ்ரேல் நெருக்கடி தொடர்பில் உலக அரசியல் தொடர்பில் அறிந்த அனைவருக்கும் புரிந்துகொள்ள முடியும். ஐ.நா கூட்டத்தில் உரையாற்றும் சந்தர்ப்பங்களில் பலஸ்தீனத்தை சுயாதீன நாடாக அறிவிக்க வேண்டும் என்றும் அந்த மக்களுக்கு சுதந்திரத்தை கொடுக்க வேண்டும் என்றும் வலியுறுத்தினோம்.
+
+...
+
+[Data](articles/c20effb5.json)
+
+---
 
 ### What did Sri Lanka do for Tamils: Sumanthiran question
 
@@ -353,6 +371,8 @@ Your ability to mobilize support and empower people to your cause cannot be deni
 ...
 
 [Data](articles/07df902a.json)
+
+[Extended Data](ext_articles/07df902a.ext.json)
 
 ---
 
@@ -2343,25 +2363,5 @@ A person has come to a case filed by the Medawachchiya Magistrate's Court on a p
 [Data](articles/49be5d5c.json)
 
 [Extended Data](ext_articles/49be5d5c.ext.json)
-
----
-
-### A man in the courts in the courts in a steal case and stealing the key to the case
-
-*2024-05-14 14:50:36* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-නඩුවකට-අධිකරණයට-පැමිණි-මැදවච්චියේ-පුද්ගලයෙක්-නඩුව-ඉවර-වී-යතුරු-පැදියකුත්-හොරකම්-කරගෙනම--ගිහින/11-409627) · `si`
-
-A man was arrested in a theft case at the Medawachchiya Magistrate's Court. He stole a key and was caught with a stolen motorbike. The suspect was identified and arrested by a special police team led by RMIB Ratnayake. The police found 45mm in his possession and took him to court.
-
-🟩
-
-The suspect had been arrested and taken to the house in the Medawachchiya Magistrate's Court (11), a motorbike was arrested and arrested in the court.
-
-A person has come to a case filed by the Medawachchiya Magistrate's Court on a private keyside at the Medawachchiya Magistrate's Court.. The man had then stopped his motorcycle at the former chairman of the Medawachchiya Pradeshiya Sabha near the courts.. The man who had come to the motorcycle back to 12:00 pm on the back of 12.00 pm, the man arrived in the motorcycle where the man had come back to the motorcycle, the man had begun to seek the key. The owner of the motorcyclist had gone to the Medawachchiya Police Station, as the attempt was unable to find the motorcycle.. Medawachchiya OIC has launched a special police team including Mr. RMIB Ratnayake, including the accident.
-
-...
-
-[Data](articles/8ce7fc5d.json)
-
-[Extended Data](ext_articles/8ce7fc5d.ext.json)
 
 ---

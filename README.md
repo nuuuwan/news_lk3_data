@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-14 09:33:37**
+As of **2024-05-14 09:52:36**
 
 ## Newspaper Stats
 
-*Scraped **23,861** Articles*
+*Scraped **23,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ islandlk | 1,298
 economynextcom | 1,362
 dailyftlk | 1,390
 adalk | 2,030
-adaderanalk | 2,779
-tamilmirrorlk | 2,794
-virakesarilk | 3,562
+adaderanalk | 2,780
+tamilmirrorlk | 2,796
+virakesarilk | 3,563
 dailymirrorlk | 3,754
-adaderanasinhalalk | 3,823
+adaderanasinhalalk | 3,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,860 (100.0%) of 23,861 articles have been extended.
+23,861 (100.0%) of 23,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-14 (Tuesday)
+
+### රටින් යන්න කලින් දසූන් කී කතාව
+
+*2024-05-14 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196603) · `si`
+
+ජනතාවගේ බලාපොරොත්තු අනිවාර්යයෙන් ඉටුකරන බව ශ්‍රී ලංකා කණ්ඩායමේ හිටපු නායක දසුන් ශානක පවසයි.
+
+20යි 20 ලෝක කුසලාන තරගාවලිය සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (14) දිවයිනෙන් පිටත්වන අවස්ථායේදී ඔහු ඒ බව සඳහන් කළේය.
+
+"ඇත්තටම හොඳයි කණ්ඩායම ඉතාම හොඳන් සූදානම් වුණා. හොඳ තරගාවලියකට යනවා."
+
+ප්‍රශ්නය - ශ්‍රී ලංකා ජනතාවගේ බලාපොරොත්තු මොන වගේ තත්ත්වයක තියාගන්න පුළුවන්ද?
+
+"ඉතා සතුටු වෙනවා. හොඳින් තරගාවලියක් පැවැත්වුවා යන්න කලින්. ක්‍රීඩකයෝ සියලුදෙනා සුපුරුදු රිද්මයට ඇවිල්ලා තියෙනවා."
+
+"ඉතාමත් හොඳයි. ඉතාමත් හොඳ එකමුතුවක් තියෙනවා. සීනියර් ප්ලේයර් සහ ජූනියර් ප්ලේයස්ලයි හොඳ සංකලනයක් තියෙනවා. මම හිතනවා ගොඩාක් හොඳ වෙයි කියලා. අනිවාර්යෙන් ජයග්‍රාහණය කරනවා."
+
+◼️
+
+[Data](articles/b0af1966.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-05-14 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196604) · `si`
+
+◼️
+
+[Data](articles/f6ea001f.json)
+
+---
+
+### Youth stabbed to death in Mahaoya
+
+*2024-05-14 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99201/youth-stabbed-to-death-in-mahaoya) · `en`
+
+A youth has been stabbed to death with a sharp weapon over to a dispute between two groups at Samagipura, Mahaoya.
+
+Police said that the incident was reported yesterday afternoon (13) and that the deceased was a 26-year-old resident of Samagipura.
+
+Two brothers, aged 18 and 23, who are also residents of Samagipura, have been arrested in connection with the murder.
+
+◼️
+
+[Data](articles/e374b36f.json)
+
+---
+
+### අතුරුදන් වූ පුද්ගලයාගේ සිරුර ළිඳකින් හමුවෙයි
+
+*2024-05-14 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196602) · `si`
+
+මතුගම, වැල්කන්දල ප්‍රදේශයේ ළිඳක තිබී පුද්ගල මළ සිරුරක් හමුව තිබේ.
+
+මියගිය පුද්ගලයා මතුගම, ඉද්දගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් වන බවට අනාවරණය වී ඇත.
+
+ඔහු ඊයේ (13) සවස සිට අතුරුදන්ව ඇති බවට මතුගම පොලීසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තිබූ බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/778bd8d0.json)
+
+---
+
+### மழை அதிகரிக்கக் கூடிய சாத்தியம்
+
+*2024-05-14 09:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அதிகரிக்கக்-கூடிய-சாத்தியம்/175-337275) · `ta`
+
+இலங்கையைச் சூழவுள்ள பகுதிகளில் கீழ் வளிமண்டலத்தில் ஏற்பட்டதளம்பல் நிலை காரணமாக அடுத்த சில நாட்களில் மழை நிலைமை அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டின் பெரும்பாலான மாகாணங்களில் பல இடங்களில் பி.ப. 1 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ, கிழக்கு, தென் மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் 100 மி.மீ க்கும் அதிகமான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+கிழக்கு மற்றும் தென் மாகாணங்களின் கரையோரப் பிரதேசங்களில் சில இடங்களில் காலை வேளையிலும் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/cbfc3c4b.json)
+
+---
 
 ### One dead, another injured as train hits hand tractor
 
@@ -49,6 +135,36 @@ The other injured person has been transferred to Karapitiya Hospital for further
 ◼️
 
 [Data](articles/4de89e08.json)
+
+[Extended Data](ext_articles/4de89e08.ext.json)
+
+---
+
+### ශ්‍රී ලංකා 20/20 කණ්ඩායම පිටත්වෙයි
+
+*2024-05-14 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196601) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලිය සඳහා සහභාගී වීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (14) දිවයිනෙන් පිටත්විය.
+
+එම තරගාවලිය මෙවර අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් දූපත්වලදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/8a32f61b.json)
+
+---
+
+### மோட்டார் சைக்கிள் பந்தயத்தில் ஈடுபட்ட 15 பேருக்கு அபராதம் விதிப்பு
+
+*2024-05-14 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/183464) · `ta`
+
+கடத்த வாரம் பம்பலப்பிட்டி, காலி வீதியில் சட்டவிரோதமான முறையில்  மோட்டார் சைக்கிள்களை ஓட்டி பந்தயத்தில் ஈடுபட்ட 15 பேர் கைது செய்யப்பட்டார்கள்.
+
+மேலும், குறித்த 15 மோட்டார் சைக்கிள் ஓட்டுநர்களின் சாரதி அனுமதிப்பத்திரங்களை 6 மாதங்களுக்கு இடைநிறுத்தவும் நீதிமன்றம் உத்தரவிட்டுள்ளதாக பொலிஸ் ஊடகப்பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b09e2a1a.json)
 
 ---
 
@@ -591,6 +707,24 @@ Questions for the science course have been prepared from some of the eliminated 
 [Data](articles/9f84f3ad.json)
 
 [Extended Data](ext_articles/9f84f3ad.ext.json)
+
+---
+
+### ’வர்த்தமானிக்கு அமைவாக கம்பனிகள் செயற்பட வேண்டும்’
+
+*2024-05-14 01:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானிக்கு-அமைவாக-கம்பனிகள்-செயற்பட-வேண்டும்/175-337274) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு குறித்து அரசாங்கம் விடுத்துள்ள வர்த்தமானி அறிவித்தலுக்கு அமைய பெருந்தோட்ட கம்பனிகள் செயற்பட வேண்டியது அவசியமென நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+தற்பொழுது நடைமுறைப்படுத்தப்படும் நாள் சம்பள முறைமை பொருத்தமற்றதாகும். அந்த முறைமையில் இருந்து மாற வேண்டியது அவசியம். அதற்காக நான்கைந்து வருடங்கள் அவசியப்படும். அதற்காக தோட்ட தொழிலாளர்களை 1000 ரூபா சம்பளத்துடன் காத்திருக்கச் வைப்பதை ஏற்றுகொள்ள முடியாது.
+
+தேர்தல் காலத்தில் ஒவ்வொரு கட்சியும் ஒவ்வொரு தொகையை பெற்றுத்தருவதாக கூறும். எதிர்கட்சிகள் தோட்ட மக்களை சிறுதோட்ட உரிமையாளர்களாக மாற்றுவதாக கூறினாலும் அதற்காக பொறிமுறை என்னவென்பது கேள்விக்குரியாகும்.
+
+...
+
+[Data](articles/7551d4d8.json)
 
 ---
 
@@ -1979,205 +2113,5 @@ The police who visited the scene were recovering and investigated and the body o
 [Data](articles/fa8ea8e3.json)
 
 [Extended Data](ext_articles/fa8ea8e3.ext.json)
-
----
-
-### Girlfriend remanded for murdering youth in Kuliyapitiya
-
-*2024-05-13 19:04:00* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේ-තරුණයා-ඝාතන-සිද්ධියට-පෙම්වතියත්-රිමාන්ඩ්/11-409609) · `si`
-
-In Kuliyapitiya, a girlfriend was remanded for allegedly murdering a youth. The magistrate, Randik Lakmal Jayalath, was also remanded until the 27th, after being hospitalized for medical checks. The suspects include the girlfriend and eight others, with the case involving a phone call analysis. Attorney Hashini Mesissa represents the suspects.
-
-🟩
-
-Koliyapitiya Magistrate Randik Lakmal Jayalath, who was arrested on suspicion of suspicion of Susithi Jayawansa, remanded until the 27th of this month.
-
-The Magistrate was admitted to the hospital that the police had been admitted to the Kuliyawala Teaching Hospital for medical examinations in addition to the incident.
-
-The suspects were remanded that a 31-year-old youth who had discovered the body while 15 days were found in the Missed Reserve.
-
-The daughter of the Kalmbir, who was the first suspect in this case, is the ninth suspect in this case. The magistrate questioned and on which basis is that the case will be included in this case.
-
-The police said that the phone call was revealed by telephone analysis reports that he had called the Daily Daughter of the Singumba.
-
-Attorney Hashini Mesis for the suspects, Hashini Mesissa is the 1 suspected case in this case.
-
-...
-
-[Data](articles/644427db.json)
-
-[Extended Data](ext_articles/644427db.ext.json)
-
----
-
-### Court orders Court for nine including girlfriend, who was arrested for murder of Susath's murder
-
-*2024-05-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196586) · `si`
-
-Nine suspects, including a girlfriend, were remanded for the murder of Susitha Jayawansa, a 31-year-old from Kuliyapitiya who disappeared on April 22. The 18-year-old girl and her family were arrested after she claimed Susitha had threatened her. The suspects were produced before the Kuliyapitiya Magistrate's Court and underwent a medical examination.
-
-🟩
-
-The nine suspects including his girlfriend, including his girlfriend and the suspects were remanded until the 27th of the suspect.
-
-The suspects were produced before the Kuliyapitiya Magistrate's Court.
-
-The 31-year-old Susitha Jayawansa, a resident of Kuliyapitiya, was disappeared from 22 April.
-
-After the incident, the 18-year-old girl and her family members and relatives had been arrested by the police before her father and mother.
-
-The 18-year-old girl had been summoned to the Kuliyapitiya Police Station yesterday.
-
-The girl had stated that Susith had polluted himself in several occasions and that he had not informed the residents or any other party due to the threats he made.
-
-However, the suspect arrested on charges of murder of human murder and arrested the crime was presented to the Judicial Medical Officer of the Kuliyapitiya Teaching Hospital for a medical examination today.
-
-◼️
-
-[Data](articles/cc4933b8.json)
-
-[Extended Data](ext_articles/cc4933b8.ext.json)
-
----
-
-### Two policemen suspended from a couple in a lodge
-
-*2024-05-13 18:57:20* · [`adalk`](https://www.ada.lk/breaking_news/ලැගුම්හලක-සිටි-යුවළකින්-අල්ලස්-ගත්-පොලීසියේ-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-409608) · `si`
-
-Two policemen were suspended after an incident at a lodge, where they were attacked by an amateur police constable. The officers were investigating a receipt issue during their duty hours. The SSP and Deputy Director of the Sri Lanka Police ordered their suspension.
-
-🟩
-
-Police headquarters said that the duties of the two policemen who were arrested in a lodge in a lodge were arrested on a lodge in the operation of justice were suspended.
-
-The suspects were attacked by the 65073 amateur police constable attached to the Kottawa Police Training College, attached to the Kottawa Police Training College.
-
-The two officers had gone to examine a receipt of a lodge in the Iight of the Ice, while two days were duties from 600 to 1800 hours.
-
-The remaining Rs.
-
-Due to the property, the two officials were banned by the SSP and Deputy Director of Sri Lanka Police (Deputy Director) of the Kalutara Police Station (Deputy Director) of the Sri Lanka Police (Deputy Director)
-
-◼️
-
-[Data](articles/a2f0e898.json)
-
-[Extended Data](ext_articles/a2f0e898.ext.json)
-
----
-
-### Bikers arrested for street racing on Galle Road fined, licenses suspended
-
-*2024-05-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99194/bikers-arrested-for-street-racing-on-galle-road-fined-licenses-suspended) · `en`
-
-The driving licenses of the 15 motorcycle riders who were arrested for engaging in illegal street racing and reckless riding on Galle Road in Bambalapitiya last week, have been suspended for six months by the court, the Police Media Spokesman DIG Nihal Thalduwa said.
-
-Meanwhile, the Police Spokesman also stated that they were fined Rs. 427,500.
-
-◼️
-
-[Data](articles/dd4f8572.json)
-
-[Extended Data](ext_articles/dd4f8572.ext.json)
-
----
-
-### PC arrested for Sudu
-
-*2024-05-13 18:38:31* · [`adalk`](https://www.ada.lk/breaking_news/දිසා-විනිසුරු-නිල-නිවසේ-රාජකාරීය-අතරතුරදී--සූර්-පිට-සිටි-පී-සී-අත්අඩංගුවට/11-409607) · `si`
-
-A police constable in Avissawella was arrested for misconduct, revealed during a mobile visit. The constable, previously from Dedigama Police Station, was transferred and tested for alcohol. Investigations are ongoing.
-
-🟩
-
-Avissawella police say that a police constable employed by the Avissawella District Judge has been arrested and arrested while staying on the road.
-
-The suspected constable was revealed by the officials of the mobile visit, where the district was deployed in the office until the 12th hours of the Judge of the Judge.
-
-A medical report has been submitted to the Judicial Doctor at Avissawella under the forest medical form due to the pretext of alcohol to the constable to come to the constable and checked.
-
-The constable has been transferred from the Dedigama Police Station, Kegalle to a few days ago.
-
-According to police sources, the duties of the suspect constable will also be banned.
-
-Investigations are conducted by the Chief Inspector Prasanna Jayalath of Avissawella headquarters.
-
-◼️
-
-[Data](articles/f2901c2f.json)
-
-[Extended Data](ext_articles/f2901c2f.ext.json)
-
----
-
-### The punishment that the people went to the moon from the bike
-
-*2024-05-13 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196585) · `si`
-
-Fifteen motorists were fined and suspended for six months by the Court for reckless riding on Galle and Duplication Roads in Bambalapitiya. They were accused of dangerous stunts for entertainment, causing complaints from locals. The Bambalapitiya Police arrested them on May 05 for their dangerous behavior, posing a risk to other drivers.
-
-🟩
-
-The Court has fined Rs.
-
-Police Media Spokesperson DIG'sary DIG's Court Attorney Nihal Talduuwa has ordered that the driver of 15 motorists have been suspended for six months.
-
-These motorists were accused of reckless and very dangerous ride for entertainment in the Galle Road and Duplication Road in Bambalapitiya.
-
-The Bambalapitiya Police had filed complaints from the people that they would run motorbikes with a large sound and in the opposite direction with a large sound of this road that runs only in one direction.
-
-Accordingly, officials of the Bambalapitiya Police Station was arrested on the morning of the morning of May 05.
-
-It is reported that these personnel are also dangerous to other drivers, running the motorcycle dangerous motorcycles, running the motorcycle throughout the road.
-
-◼️
-
-[Data](articles/7312fe20.json)
-
-[Extended Data](ext_articles/7312fe20.ext.json)
-
----
-
-### Sri Lanka sells Rs70bn in 2028 to 2032 bonds
-
-*2024-05-13 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs70bn-in-2028-to-2032-bonds-162793/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 70 billion rupees in 2028, 2030 and 2032 bonds, data from the state debt office showed.
-
-The debt office sold an offered 15 billion rupees of 01 May 2028 at an average yield of 9.00 percent.
-
-All offered 25 billion rupees of 15 October 2030 bonds were sold at 11.00 percent.
-
-All 30 billion rupees offered of 01 October 2032 bonds were sold at 9.00 percent. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/4a350ce2.json)
-
-[Extended Data](ext_articles/4a350ce2.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 299.00/30 to US dollar
-
-*2024-05-13 18:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-299-00-30-to-us-dollar-162780/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 299.00/30 to the US dollar on Monday, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 10.10/30 percent from 10.40/55 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.50/70 percent from 10.70/85 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.80/95 percent 11.15/25 percent.
-
-A bond maturing on 15.05.2030 closed down at 11.55/70 percent 11.90/12.05 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.90/12.10 percent from 12.10/20 percent. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/8bb09b35.json)
-
-[Extended Data](ext_articles/8bb09b35.ext.json)
 
 ---

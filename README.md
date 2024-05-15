@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 06:58:03**
+As of **2024-05-15 07:20:35**
 
 ## Newspaper Stats
 
-*Scraped **24,102** Articles*
+*Scraped **24,112** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
 bbccomsinhala | 245
-dbsjeyarajcom | 247
+dbsjeyarajcom | 248
 newsfirstlk | 363
-islandlk | 1,302
+islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,414
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,824
+tamilmirrorlk | 2,826
 virakesarilk | 3,619
 dailymirrorlk | 3,787
-adaderanasinhalalk | 3,851
+adaderanasinhalalk | 3,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,078 (99.9%) of 24,102 articles have been extended.
+24,083 (99.9%) of 24,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### අදත් මහ වැසි - බලපාන ප්‍රදේශ මෙන්න
+
+*2024-05-15 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196633) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ වර්ධනය වී පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+
+දිවයිනේ බොහෝ පළාත්වල ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර සහ දකුණු වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/33885fcf.json)
+
+---
 
 ### Chinese switches and sockets brand SIASE enters Sri Lankan market with SLS certification
 
@@ -46,6 +66,8 @@ SIASE has obtained Sri Lanka Standards Institution certification SLS 1000: Part1
 
 [Data](articles/55e58e5e.json)
 
+[Extended Data](ext_articles/55e58e5e.ext.json)
+
 ---
 
 ### New Envoy to Beijing meets Chinese companies in Sri lanka
@@ -57,6 +79,8 @@ Sri Lankan Ambassador Designate to China Majintha Jayesinghe met with the CEOs o
 ◼️
 
 [Data](articles/126efcaa.json)
+
+[Extended Data](ext_articles/126efcaa.ext.json)
 
 ---
 
@@ -76,6 +100,8 @@ The AIRMAN Service Excellence Award is presented subsequent to an extensive eval
 
 [Data](articles/bbaa3adf.json)
 
+[Extended Data](ext_articles/bbaa3adf.ext.json)
+
 ---
 
 ### Limiting Factor Analysis crucial in decision making amidst resource constraints
@@ -89,6 +115,8 @@ The Sunday Times of 28 April 2024 reported that plans are underway to lift the r
 ...
 
 [Data](articles/a3eaab42.json)
+
+[Extended Data](ext_articles/a3eaab42.ext.json)
 
 ---
 
@@ -113,6 +141,8 @@ Therein lies another tale. All this brouhaha is to appease creditors for us to g
 ...
 
 [Data](articles/9e60dac3.json)
+
+[Extended Data](ext_articles/9e60dac3.ext.json)
 
 ---
 
@@ -444,6 +474,24 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 
 ---
 
+### Biden slaps new tariffs on Chinese imports, ratcheting trade war
+
+*2024-05-15 04:45:00* · [`islandlk`](http://island.lk/biden-slaps-new-tariffs-on-chinese-imports-ratcheting-trade-war/) · `en`
+
+President Joe Biden has slapped major new tariffs on Chinese electric vehicles, advanced batteries, solar cells, steel, aluminium and medical equipment, taking potshots at Donald Trump along the way as he embraced a strategy that’s increasing friction between the world’s two largest economies.
+
+The Democratic president said on Tuesday that Chinese government subsidies ensure the nation’s companies do not have to turn a profit, giving them an unfair advantage in global trade.
+
+“American workers can outwork and out-compete anyone as long as the competition is fair,” Biden said in the White House Rose Garden. “But for too long, it hasn’t been fair. For years, the Chinese government has poured state money into Chinese companies … it’s not competition, it’s cheating.”
+
+China immediately promised retaliation. Its Ministry of Commerce said Beijing was opposed to the tariff hikes by the United States and would take measures to defend its interests.
+
+...
+
+[Data](articles/1e05d07e.json)
+
+---
+
 ### New website to raise awareness on leprosy
 
 *2024-05-15 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183565) · `ta`
@@ -544,6 +592,20 @@ In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 run
 
 ---
 
+### அமெரிக்க அதிகாரி ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-05-15 00:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-337317) · `ta`
+
+இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு, ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்துள்ளார்.
+
+இலங்கையின் பொருளாதார மீட்சி தொடர்பான அரசாங்கத்தின் வேலைத்திட்டம் தொடர்பில் இதன் போது விரிவாக கலந்துரையாடப்பட்டதுடன், இலங்கையின் புதிய பொருளாதார சீர்திருத்த செயற்பாடுகள் மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அர்ப்பணிப்பையும் டொனால்ட் லூ பாராட்டினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/11f43317.json)
+
+---
+
 ### Do not stop the telephone.
 
 *2024-05-15 00:43:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவசெரியவை-நிறுத்தாதீர்கள்/175-337316) · `ta`
@@ -565,6 +627,22 @@ Consider this as the government has diminished the focus of the Ambuulans and th
 [Data](articles/fe80dd52.json)
 
 [Extended Data](ext_articles/fe80dd52.ext.json)
+
+---
+
+### ’தனி ஈழம் வெற்றி பெறும்’
+
+*2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தனி-ஈழம்-வெற்றி-பெறும்/150-337315) · `ta`
+
+தமிழர்களுக்கு எதிராகவே யுத்தம் நடத்தப்பட்டது என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் வடக்கு கிழக்கில் தனி ஈழத்தை ஸ்தாபிக்க முயற்சிக்கும் அடிப்படைவாத நோக்கம் வெற்றி  பெறும் என்று ஆளும் தரப்பு எம்.பி.யான ரியர் அட்மிரல்  சரத் வீரசேகர தெரிவித்தார்.
+
+இலங்கை இராணுவத்தினருக்கு எதிராக சாட்சியம் திரட்டும் நடவடிக்கைகள் தற்போது தீவிரப்படுத்தப்பட்டுள்ளதுடன் இந்த சாட்சியங்களை அடிப்படையாகக் கொண்டு சர்வதேச நீதிமன்றத்தில்  இலங்கை இராணுவத்துக்கு  எதிராக வழக்கு தாக்கல் செய்ய முடியுமா என்பது குறித்து உறுப்பு நாடுகளுடன் கலந்துரையாடுவதாக ஐ. நா. சபையின் உயர்ஸ்தானிகர் குறிப்பிட்டுள்ளமை சாதாரண விடயமல்ல என்றார்.
+
+பாராளுமன்றத்தில்     செவ்வாய்க்கிழமை (14)  இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை  தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+...
+
+[Data](articles/a7a74124.json)
 
 ---
 
@@ -1052,6 +1130,38 @@ Mount Lavinia Special Investigation Unit and the Dehiwala Police were arrested a
 
 ---
 
+### New research explores the experiences of teachers with disabilities in education systems worldwide
+
+*2024-05-14 21:08:00* · [`islandlk`](http://island.lk/new-research-explores-the-experiences-of-teachers-with-disabilities-in-education-systems-worldwide/) · `en`
+
+The British Council in Sri Lanka is proud to announce the release of a groundbreaking publication titled “Being a Teacher with Disabilities: Perspectives, Practices, and Opportunities.” This comprehensive report delves into the challenges, opportunities, policies, and support networks encountered by teachers with disabilities within education systems in Sri Lanka and four other countries where the research was conducted.
+
+The report, a result of extensive research and collaboration, sheds light on the lived experiences of English language and other subject teachers with disabilities in national education systems in Sri Lanka, Brazil, Jordan, Rwanda and Spain. It features primary data from interviews with 25 teachers who identified themselves as having visible or non-visible disabilities, providing invaluable insights into the ways in which these educators navigate their working lives.
+
+...
+
+[Data](articles/4767baf4.json)
+
+---
+
+### CSE adopts two ambulances for 1990 Suwa Seriya Foundation
+
+*2024-05-14 21:08:00* · [`islandlk`](http://island.lk/cse-adopts-two-ambulances-for-1990-suwa-seriya-foundation/) · `en`
+
+With the intention of supporting Sri Lanka’s healthcare system by ensuring increased access to emergency healthcare services, the CSE adopted two ambulances for the 1990 Suwa Seriya Foundation.
+
+This is in response to the programme, ‘Adopt an Ambulance’ which was initiated by the Board and Management of the 1990 Suwa Seriya Foundation.
+
+The two ambulances were released for service on 12th May 2024 from the Colombo Stock Exchange head office located at the World Trade Centre. The CSE branches are located in Matara, Kandy, Kurunegala, Panadura, Negombo, Jaffna, Anuradhapura, Ratnapura, Batticaloa, and Ambalantota.
+
+Launched in 2016, Suwa Seriya is a national ambulance service providing free pre-hospital emergency care across the island, mobilizing 322 ambulances country wide. Providing emergency pre-hospital care within the ‘golden hour’ saves lives and mitigates potential health complications.
+
+...
+
+[Data](articles/aa54b75a.json)
+
+---
+
 ### Ransomware payments increase 500% in last year: Sophos
 
 *2024-05-14 21:05:00* · [`islandlk`](http://island.lk/ransomware-payments-increase-500-in-last-year-sophos/) · `en`
@@ -1065,6 +1175,22 @@ Despite the soaring ransoms, this year’s survey indicates a slight reduction i
 [Data](articles/47db846c.json)
 
 [Extended Data](ext_articles/47db846c.ext.json)
+
+---
+
+### LAUGFS International wins AIRMAN Service Excellence Award for 2nd consecutive year
+
+*2024-05-14 21:05:00* · [`islandlk`](http://island.lk/laugfs-international-wins-airman-service-excellence-award-for-2nd-consecutive-year/) · `en`
+
+LAUGFS International (Pvt) Ltd, the trusted supplier of Japanese-made AIRMAN power products in Sri Lanka, recently received the prestigious AIRMAN Service Excellence Award for the 2nd consecutive year. Presented by AIRMAN Japan, a globally recognized brand in power generators, the award underscores LAUGFS International’s unwavering commitment to excellence in delivering unparalleled service and technical support to its diverse customers. The AIRMAN Service Excellence Award is presented subsequent to an extensive evaluation based on stringent criteria. These include the availability of state-of-the-art tools in the company’s workshops, the technical capabilities of its service teams, and several other key benchmarks.
+
+LAUGFS Eco Sri unveils a State-of-the-Art eco test facility to combat vehicle emissions in Kirulapone
+
+USAID Island Climate Initiative paves way to tackle plastic waste and pollution in Sri Lanka
+
+...
+
+[Data](articles/5c0f62af.json)
 
 ---
 
@@ -1722,6 +1848,24 @@ De Silva today made a statement in parliament. Officials had said they cannot co
 
 ---
 
+### Four Sri Lankan  Tamils  in Eastern Province Arrested for  commemorating  their loved ones killed in the final phase of the civil war in 2009 ;Tamils’ Right to Memorialise the dead Put into  Sharp Focus
+
+*2024-05-14 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84032) · `en`
+
+The recent arrest of four Tamils in Sri Lanka’s Eastern Province — when they commemorated their loved ones killed in the final phases of the civil war in 2009 — has put Tamils’ right to memorialise in sharp focus yet again.
+
+The police said the arrests were based on magistrate court orders that ruled against holding such commemorative events, citing reasons of “public health” and “attempts to revive” the Liberation Tigers of Tamil Eelam (LTTE) that the Sri Lankan military eliminated.
+
+According to local Tamil media reports, three women, including a university student, and a man were arrested by the police in Sampur, located in the eastern Trincomalee district late on Sunday. Video footage widely shared on social media showed the police dragging a woman from her home.
+
+Another court in the Eastern Province on Tuesday issued an order observing that commemorating members of the LTTE may lead to a “revival of terrorist activities” in the country, and “disrupt people’s everyday lives”.
+
+...
+
+[Data](articles/15571391.json)
+
+---
+
 ### Two youth arrested for abducting and abusing a 15 -year -old girl in Modu Wellaveli
 
 *2024-05-14 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183551) · `ta`
@@ -2015,185 +2159,5 @@ It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE 
 [Data](articles/ca607fc8.json)
 
 [Extended Data](ext_articles/ca607fc8.ext.json)
-
----
-
-### Sri Lanka’s EDB and Peoples’ Bank tie up to offer exporters finance, knowledge
-
-*2024-05-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-edb-and-peoples-bank-tie-up-to-offer-exporters-finance-knowledge-162988/) · `en`
-
-ECONOMYNEXT – People’s Bank will offer financial advisory services, funding facilities, and trade finance options to exporters in partnership with the Sri Lanka Export Development Board.
-
-“This strategic alliance aims to bolster the development of small and medium scale enterprises (SMEs) and integrate them into the global export market,” the EDB said after signing the agreement.
-
-EDB will identify global market opportunities and facilitate the necessary prerequisites to promote exports from Sri Lanka.
-
-The collaboration will provide educational initiatives for the Bank’s staff to ensure they are well-equipped to advise customers on export market requirements and opportunities. The Bank has established export sector specific SME hubs (export hubs) at 7 of its branches. (Colombo/May14/2024)
-
-◼️
-
-[Data](articles/b7fc237e.json)
-
-[Extended Data](ext_articles/b7fc237e.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 301/302.00 to US dollar
-
-*2024-05-14 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-302-00-to-us-dollar-163008/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 301/302.00 to the US dollar on Tuesday, from 299.00/30 the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 9.95/10.10 percent from 10.10/30 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.25/35 percent from 10.50/70 percent.
-
-A bond maturing on 15.03.2028 closed down at 10.55/65 percent 11.80/95 percent.
-
-A bond maturing on 15.09.2029 closed at down at 10.90/11.05 percent from 11.05/35 percent.
-
-A bond maturing on 15.05.2030 closed down at 11.40/55 percent from 11.55/70 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.85/95 percent from 11.90/12.10 percent. (Colombo/May14/2024)
-
-◼️
-
-[Data](articles/5ccdf7ec.json)
-
-[Extended Data](ext_articles/5ccdf7ec.ext.json)
-
----
-
-### Sri Lanka govt workers want basic salary hike over cost of living allowances
-
-*2024-05-14 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-workers-want-basic-salary-hike-over-cost-of-living-allowances-162968/) · `en`
-
-ECONOMYNEXT — Public sector unions in Sri Lanka have urged the government to add 20,000 rupees to their basic salaries as opposed to ad hoc allowances to reflect increased living costs.
-
-At a joint press conference held on Monday May 13, representatives from a number of public sector trade unions called for an increase in their basic pay.
-
-“There are many expenses that government workers cannot afford such as transport costs, children’s education fees, inflation caused by various taxes, all of which they have had to bear under severe strain,” he said.
-
-“We urge the government to add an amount to the government workers’ basic salary, an amount that they can sustain themselves on,” he added.
-
-General secretary of the Joint Health Services Association Tampitiye Sugathananda thero told reporters at the press conference that increasing the basic salary is important as government pensions are calculated based on workers’ basic pay.
-
-...
-
-[Data](articles/41692da5.json)
-
-[Extended Data](ext_articles/41692da5.ext.json)
-
----
-
-### Four of Sampur incident remanded
-
-*2024-05-14 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196619) · `si`
-
-Four suspects in the Sampur incident were remanded until May 27th.
-
-🟩
-
-The arrested suspect and the suspects were remanded until May 27.
-
-◼️
-
-[Data](articles/c2ce9eeb.json)
-
-[Extended Data](ext_articles/c2ce9eeb.ext.json)
-
----
-
-### Israeli Prime Minister Netanyahu should be held responsible for the ongoing genocide in Palestine
-
-*2024-05-14 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183539) · `ta`
-
-The statement condemns Israeli Prime Minister Netanyahu for the ongoing genocide in Palestine, highlighting the destruction of Palestinian lives and homeland by Israel's state terrorism. It calls for international action to stop this violence and supports a peaceful negotiation between Israel and Palestine.
-
-🟩
-
-We vehemently condemn the genocide of Israel's murderous state terrorism on Palestinian innocent people. Israeli Prime Minister Nethananyahu should be held responsible for this genocide.
-
-At the same time, Opposition Leader Sajith Premadasa said that our position is that Palestine and Israel should come to a solution.
-
-He said this while addressing the adjournment motion on the current state of Palestine held in Parliament on Tuesday (14).
-
-As a murderous state, the Israeli government has completely destroyed the lives of the Palestinian people, destroy their homeland, and implement state terrorism and carry out the stupid attack on the Palestinian people.. As Sri Lankans against this, we will stand up with the people of the world
-
-The entire world demands that all the right to live in a ceasefire and the right to live in starvation. Israeli government carries bombing hospitals. Bombing to school. Blumatically killing civil citizens. We condemn this state terrorism.
-
-...
-
-[Data](articles/b4ebbe58.json)
-
-[Extended Data](ext_articles/b4ebbe58.ext.json)
-
----
-
-### Sarathkumar - Vijay Kanishka co -starring 'Hit List'
-
-*2024-05-14 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183538) · `ta`
-
-Sarathkumar and newcomer Vijay Kanishka co-star in 'Hit List', a Tamil film directed by R. Sarathkumar, among others. The music release in Chennai was attended by top Tamil film industry figures, who praised Vijay Kanishka's dedication and acting skills. The film features a star-studded cast and is produced by K. S. Ravikumar. The first song was recently released, followed by the music launch event.
-
-🟩
-
-'Supreme Star' r. Sarathkumar- Newcomer Man Vijay Kanishka, the music release of the film 'Hit List', was held in Chennai. At the time, the leading directors of the Tamil film industry, the famous filmmakers and the leading star actors congratulated Vijay Kanishka on their participation.
-
-Directors Solar Radia. Karthikeyan is directed by R.. Sarathkumar, Vijay Kanishka, Samudrakani, Gautam Vasudev Menon, Munis Kant, Redin Kingsley, Siddara, Smriti Venkat, Ramachandra Raju, Ramachandran, Aishwarya Dutta, Abhi Star, Anupama Kumar, Bala Saravanan. K. The film has been recorded by Ramsaran. Satya has composed the music. This movie is. K. Producer K.. S.. Produced by Ravikumar.
-
-The first song of the film was recently released on the Internet. Following this, the music launch of the film was held in Chennai.
-
-...
-
-[Data](articles/3c6c5a3e.json)
-
-[Extended Data](ext_articles/3c6c5a3e.ext.json)
-
----
-
-### Actor Prasanna's 'The Verdict' film First Look
-
-*2024-05-14 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183542) · `ta`
-
-"The Verdict," directed by Krishna Shankar and featuring Sukasini Mani Ratnam, has released its first look, raising anticipation. The film, produced by Agni Entertainment, stars Varalakshmi Sarathkumar, Suruthi Hariharan, Prakash Mohandas, and Vidyuleka Raman, with Aditya Rao composing and Arvind Krishna recording. The shooting is complete, and post-production is ongoing.
-
-🟩
-
-Film director and actress Sukasini Mani Ratnam has been released in the first look of 'The Verdict'.
-
-Sneha and Prasanna have posted this on their web page and congratulated the film crew.
-
-Directed by director Krishna Shankar, Sukasini Mani Ratnam, Varalakshmi Sarathkumar, Suruthi Hariharan, Prakash Mohandas, Vidyuleka Raman. Aditya Rao has composed the film, which is being recorded by Arvind Krishna.
-
-Producer Prakash Mohandas on behalf of Agni Entertainment Film Company. Gopikrishnan is co -produced.
-
-The shooting of the film is over and the post -shooting work is underway. In this case, the first look of the film has been released. In First Look, the expectation of the film has increased as the English version of the English text, which means' whatever it is going around us', is repeated. '
-
-◼️
-
-[Data](articles/d2986872.json)
-
-[Extended Data](ext_articles/d2986872.ext.json)
-
----
-
-### Recovery of a corpse in the Nuwara Eliya Lavarcelip forest
-
-*2024-05-14 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183543) · `ta`
-
-A man's unidentified body, possibly aged 50-60, was found in the Nuwara Eliya Lavarselip forest on Tuesday.
-
-🟩
-
-The body of a man has been recovered from the forest area in the Nuwara Eliya Lavarselip area on Tuesday (14).
-
-Police said that the body has not yet been confirmed and that it is unidentified, and that it may be 50 to 60 years old with the identities of the deceased.
-
-◼️
-
-[Data](articles/2e47d78d.json)
-
-[Extended Data](ext_articles/2e47d78d.ext.json)
 
 ---

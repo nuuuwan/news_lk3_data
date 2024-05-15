@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 12:33:53**
+As of **2024-05-15 12:51:43**
 
 ## Newspaper Stats
 
-*Scraped **24,182** Articles*
+*Scraped **24,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 2,806
 tamilmirrorlk | 2,845
 virakesarilk | 3,630
 dailymirrorlk | 3,803
-adaderanasinhalalk | 3,862
+adaderanasinhalalk | 3,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,180 (100.0%) of 24,182 articles have been extended.
+24,182 (100.0%) of 24,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### රුසියානු-යුක්‍රේන යුද්ධයේදී මියගිය අපේ රණවිරුවන් ගැන අලුත්ම හෙළිදරව්ව
+
+*2024-05-15 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196644) · `si`
+
+රුසියානු යුක්‍රේන යුද්ධය සඳහා අනීතිකව ගොස් සිටි ශ්‍රී ලාංකිකන් 16 දෙනෙකු මියගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+අමාත්‍යවරයා පැවසුවේ, යුද්ධයට එක් වූ ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් පැමිණිලි 288ක් මේවන විට ලැබී ඇති බවය.
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර මහතා විසින් රුසියානු හමුදා සේවයට ශ්‍රී ලාංකිකයින් බඳවා ගැනීමට පළ කළ දැන්වීම මෙලෙස ප්‍රසිද්ධ කළේය.
+
+"මේ වගේ දැන්වීම් රැසක් අපිට ලැබිලා තියෙනවා. ඒ වගේම මොවුන්ව ගිවිසුම් ගත කරගෙන තියෙනවා. රුසියානු භාෂාවෙන් ගිවිසුම ලබාදීලා තියෙන්නේ. ඒකේ සිංහල පරිවර්තනය ගූගල් ට්‍රාන්ස්ලේෂන් එකක් කරලා තියෙනවා කියලා අපිට හිතෙන්නේ."
+
+ප්‍රශ්නය - රුසියාවට ගිය අයගෙන් මියගිය සංඛ්‍යාව දැනුම් දුන්නා ද ?
+
+"මට තිබෙන තොරතුරු අනුව මියගිය අය ගණන 16ක් බවට තහවුරු වෙලා තියෙනවා."
+
+මේ අතර ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා පැවසුවේ  රුසියානු යුක්‍රේන යුද්ධයට ගොස් ඇති ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් රුසියානු තානාපතිවරයාගෙන් ඉල්ලීම් කළ බවය.
+
+...
+
+[Data](articles/d2275af6.json)
+
+---
 
 ### Tense situation near Presidential Secretariat
 
@@ -48,6 +72,8 @@ Later, the protestors handed over a memorandum to the President's Additional Sec
 
 [Data](articles/d4b7383a.json)
 
+[Extended Data](ext_articles/d4b7383a.ext.json)
+
 ---
 
 ### Tense situation near Presidential Secretariat due to protest
@@ -56,7 +82,7 @@ Later, the protestors handed over a memorandum to the President's Additional Sec
 
 A tense situation has been reported near the Presidential Secretariat in Colombo due to a protest.
 
-The “Citizen Power Organization against Bribery, Corruption and Waste” had organized a protest in front of the Presidential Secretariat this morning (15).
+The “Citizens’ Power Organization against Bribery, Corruption and Wastage” had organized a protest in front of the Presidential Secretariat this morning (15).
 
 As the protest commenced police officers had proceeded to remove the banners, sparking heated exchanges between law enforcement officers and the protestors.
 
@@ -87,6 +113,8 @@ The Base Jump event was held on May 12, 13 and 14 at the Lotus Tower.
 ◼️
 
 [Data](articles/17eb8901.json)
+
+[Extended Data](ext_articles/17eb8901.ext.json)
 
 ---
 
@@ -2203,29 +2231,5 @@ As the war intensifies between Palestine and Israel, the United States and the U
 [Data](articles/e218ccd7.json)
 
 [Extended Data](ext_articles/e218ccd7.ext.json)
-
----
-
-### Chickens died of rice
-
-*2024-05-15 00:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-உண்ட-கோழிகள்-இறந்தன/175-337314) · `ta`
-
-MP Mujibur Rahman criticized the government over the death of chickens from rice, questioning the quality of relief rice. He asked if the government knew about the incident where 7 chickens died after consuming it.
-
-🟩
-
-United People's Power MP Mujibur Rahman, who accused the government of the death of rice -based rice for low income, asked the government's response to this.
-
-He questioned this while addressing a special statement in Parliament on Tuesday (14).
-
-There have been questions in the past regarding the quality of the government's relief rice. In this case, when a village in the Panagamuwa area, the rice he was raised by the chickens he raised, the 7 chickens were killed.. Does the government know about this?He asked.
-
-Minister Susil Premajayantha, the chief minister of the council, cannot respond immediately. The Minister who was responsible for the matter was asked a similar question a few weeks ago.
-
-◼️
-
-[Data](articles/332d5314.json)
-
-[Extended Data](ext_articles/332d5314.ext.json)
 
 ---

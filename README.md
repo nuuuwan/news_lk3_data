@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 09:18:30**
+As of **2024-05-15 09:34:01**
 
 ## Newspaper Stats
 
-*Scraped **24,132** Articles*
+*Scraped **24,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
-adalk | 2,058
+adalk | 2,059
 adaderanalk | 2,800
 tamilmirrorlk | 2,830
 virakesarilk | 3,621
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,129 (100.0%) of 24,132 articles have been extended.
+24,132 (100.0%) of 24,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,33 @@ COPF Chief Dr. Harsha de Silva expressed his displeasure over their absence.
 
 [Data](articles/b3b83cee.json)
 
+[Extended Data](ext_articles/b3b83cee.ext.json)
+
 ---
 
-### ලංවිම දූෂිත ගනුදෙනු රැසක් කෝප් කමිටුවේ දී දිග හැරෙයි
+### Many corrupt deals are unfolding at the COPE committee
 
 *2024-05-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196638) · `si`
 
-ලංකා විදුලිබල මණ්ඩලයේ ඉංජිනේරුවරුන් 130 දෙනෙකු පමණ මෑත කාලය තුළ සේවය හැර ගොස් ඇති බව අනාවරණය වී තිබේ.
+The COPE committee exposed corruption involving 130 departing engineers from the Ceylon Electricity Board, leading to a shortage of 330 engineers due to non-recruitment of retirees. This revelation also highlighted a significant financial loss.
 
-පාර්ලිමේන්තු පොදු ව්‍යාපාර කාරක සභාව හෙවත් කෝප් කමිටුවේදී මේ බව අනාවරණය වී ඇති බව සඳහන්ය.
+🟩
 
-එහිදී මධුර විතානගේ මන්ත්‍රීවරයා කළ විමසීමේදී ප්‍රතිචාර දැක්වූ ලංකා විදුලිබල මණ්ඩලයේ නියෝජ්‍ය සාම්‍යාධිකාරී පාලිත පෙරේරා මහතා පැවසුවේ, මුළු ඉංජිනේවරු 330 දෙනෙකුගේ පුරප්පාඩු පවතින බවය.
+It has been revealed that about 130 engioners of the Ceylon Electricity Board have left the service.
 
-"130ක් ඉල්ලා අස්වෙලා ගිහින් තියෙනවා ගිය අවුරුද්දේ සහ මේ අවුරුද්දේ මුල් මාස 4 ඇතුළත. අපිට විශ්‍රාම ගිය අයත් බඳවා ගැනීම් සිදුනොකළ නිසා ඔක්කෝම ඉංජිනේරුවන් 330ක අඩුවක් තියෙනවා."
+This was revealed at the COPE, or COP Committee.
 
-ඒඑස් පවර් විදුලි බලාගාරය මිලදී ගැනීමට යෝජනා වී තිබුණු අවස්ථාවක එසේ නොකර එමඟින් හදිසි මිලදී ගැනීම් සිදුකිරීමෙන් රුපියල් බිලියන ගණනක පාඩුවක් විදුලිබල මණ්ඩලයට සිදුව ඇති බවද කෝප් කමිටුවේදී අනාවරණය වුණි.
+Deputy Palitha Perera of the Ceylon Electricity Board (Ceylon Electricity Board) stated that the vacancies of 330 engineers have been present.
+
+"There was 130 and the last year and first 4 months of this year had gone. Since we did not recruit retired, they were lacking in 330 engineers. "
+
+The COPE has uncovered a loss of billions of Rs.
 
 ◼️
 
 [Data](articles/6c9730b2.json)
+
+[Extended Data](ext_articles/6c9730b2.ext.json)
 
 ---
 
@@ -242,6 +250,8 @@ Meanwhile, showers may occur in the Western and Southern coastal areas during th
 
 [Data](articles/d1f5db8a.json)
 
+[Extended Data](ext_articles/d1f5db8a.ext.json)
+
 ---
 
 ### University non-academic workers decide to intensify trade union action
@@ -410,7 +420,7 @@ The Sunday Times of 28 April 2024 reported that plans are underway to lift the r
 
 When President Ranil Wickremesinghe announces his candidacy, we will hear people sing of dark times
 
-“For every complex problem, there is a solution that is clear, simple, and wrong.”
+“For every complex problem, there is a solution that is clear, simple, and wrong.” – H.L. Menken
 
 ‘Sustaining Stability’ is the oxymoronic title of the recent panel discussion organised by the Central Bank.
 
@@ -1834,6 +1844,24 @@ The cost of the construction of the new studies and administration building is R
 
 ---
 
+### මේ වසරේ මේ දක්වා ලාදුරු රෝගීන් 1500ක්
+
+*2024-05-14 20:03:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-ලාදුරු-රෝගීන්-1500ක්/11-409637) · `si`
+
+මෙම වසරේ මේ දක්වා ලාදුරු රෝගීන් 1500 ක් පමණ වාර්තා වී ඇති බවත්,  එසේම වර්ෂයේ පළමු කාර්තුවේ රෝගීන් වාර්තාවීමේ අඩුවක් දැකගන්නට ලැබෙන බවත් සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා සඳහන් කළේය.
+
+රෝගය මර්දනය සඳහා ගන්නා ලද විවිධ ක්‍රියාමාර්ග මීට හේතු වී ඇති බවද සඳහන් කළ ඒ මහතා රෝගය පිළිබඳ සැකසහිත විශාල රෝගීන් ප්‍රමාණයක් සායන සඳහා පැමිණි බව ද පැවැසීය.
+
+ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ චර්ම රෝග විශේෂඥ වෛද්‍යවරුන් ක්‍රියාත්මක කරන සායන සහ රෝහල් සායන හරහා ලෝක සෞඛ්‍ය සංවිධානය අනුමත කරන ලද ගුණාත්මක ඉහළ ප්‍රතිකාර මාස 06 ක්, අවුරුද්දක් වශයෙන් ලබාගත හැකි බවත්, එම කාලය තුළ නිසි පරිදි ප්‍රතිකාර ලබාගැනීමෙන් රෝගය සම්පූර්ණයෙන්ම සුව කළ හැකි බවත්ය.
+
+මේ අතර ලාදුරු රෝගය සම්බන්ධව නිවැරදි තොරතුරු සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ සමාජගත කිරිමට ජාතික ලාදුරු මර්දන ව්‍යාපාරය සහ එලායන්ස් ඩිවලෝප්මන්ට් ට්‍රස්ටි (ADT)  ආයතනය එක්ව A2P (ACT2PREVENT CAMPAIGN 2024) නමින් ව්‍යාපෘතියක් දියත් කිරීමේ සමාරම්භක වැඩසටහන සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා පදනම් ආයතනයේ දී ඊයේ (14දා) පැවැත්විණ.
+
+...
+
+[Data](articles/a8193ae1.json)
+
+---
+
 ### 1.2 medical officers to 1000 per population
 
 *2024-05-14 19:54:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනගහනය-අනුව-1000ට-වෛද්‍ය-නිලධාරීන්-1-2ක්/11-409636) · `si`
@@ -2193,33 +2221,5 @@ According to the existing election law, the MPs will be presenting that a Member
 [Data](articles/d8380a4a.json)
 
 [Extended Data](ext_articles/d8380a4a.ext.json)
-
----
-
-### Decision on Censorship against Court
-
-*2024-05-14 18:58:52* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිට-එරෙහි-වාරණය-ගැන-තීන්දුව-හෙට/11-409631) · `si`
-
-The Colombo Chief District Judge, Sandun Withanage, will announce a decision on censorship involving SLFP Chairman Nimal Siripala de Silva and Acting Chief Secretary Duminda Dissanayake. The order, affecting Sarath Ekanayake, Minister Wijedasa Rajapakse, and others, will be released tomorrow. President's Counsel Romesh de Silva argues that the injunction notice was not served, questioning the legitimacy of the Kaduwela District Court's order.
-
-🟩
-
-Does the party's acting chief secretary MP Duminda Dissanayake released as the Chairman of the SLFP as the Chairman of the SLFP.Not?Colombo Chief District Judge Sandun Withanage, the declaration of the order will be announced tomorrow (14).
-
-Sri Lanka Freedom Chairman Nimal Siripala de Silva and Acting Chief Secretary Duminda Dissanayake suspended the orders of the party.
-
-Sarath Ekanayake, Minister Wijedasa Rajapakse, Minister Wijedasa Rajapaksa, Acting Chairman Nimal Siripala de Silva, Senior Vice President Mahinda Amaraweera have been named the respondents.
-
-President's Counsel Romesh de Silva said he would not be legit from the Kaduwela District Court, preventing their client Wijeyeadasa Rajapakse.
-
-President Romesh de Silva said that the Kaduwela District Court had ordered the Kaduwela District Court.
-
-It was inquired that Wijedasa Rajapakse, a deceit of the Kaduwela District Court on behalf of Duminda Dissanayake.
-
-...
-
-[Data](articles/d0cccc6f.json)
-
-[Extended Data](ext_articles/d0cccc6f.ext.json)
 
 ---

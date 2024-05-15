@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 20:18:32**
+As of **2024-05-15 20:33:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 3,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,275 (100.0%) of 24,276 articles have been extended.
+24,276 (100.0%) of 24,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### සාපෙළ අවසන් කළ සිසුවිය පැහැර ගන්න උත්සාහ කළ 4ක් අල්ලයි
+### Four attempts trying to abduct
 
 *2024-05-15 19:57:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-අවසන්-කළ-සිසුවිය-පැහැර-ගන්න-උත්සාහ-කළ-4ක්-අල්ලයි/11-409652) · `si`
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය අවසන් කොට ආපසු නිවස බලා යමින් සිටි දාසය හැවිරිදි තරුණියක පැහැර ගැනීමට පැමිණිබව කියන වෑන් රථයක් සහ තරුණයන් හතර දෙනකු අලදෙණිය පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ .
+In Aladeniya, four youths were arrested for attempting to abduct a van. The incident involved the Youth GCE exam and led to the arrest of the local police chief, Inspector Senaratne, along with his team. A 24-year-old from Polonnaruwa was suspected of allowing the abduction after meeting the victim at Nugawela Maha Vidyalaya. The student was taken to Kandy National Hospital for a medical check-up.
 
-අද (15) එම තරුණියනුගවෙල මහා විද්‍යාලයේදීසාමාන්‍ය පෙළ විභාගයේ අවසන් ප්‍රශ්න පත්‍රයට පිළිතුරු සපයා කුළුගම්මන ඇය නවාතැන් ගෙන සිටි නවාතැන්පොල කරා යමින් සිටියදී යටිහලගල හන්දියේදී ඇය පැහැර ගැනීමට තැත්කළ අවස්ථාවේදී ඇය සමඟ සිටි තවත් පාසල් සිසුන් දෙදෙනෙකු එය වැළැක්වීමට උත්සාහ කළත් ඔවුන් තල්ලු කර දමා ශිෂ්‍යාව පැහැරගෙන යන අවස්ථාවේදී එම සිසුන්පොලිස් හදිසි ඇමතුම් ඒකකයට සිද්ධිය සම්බන්ධයෙන් දැනුම් දී තිබේ .
+🟩
 
-ඇමතුම ලැබුණ වහාම ක්‍රියාත්මක වූ අලදෙණිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සේනාරත්න මහතා ඇතුළු පොලිස් කණ්ඩායමක් වෑන් රථය හඹා ගොස් සැකකරුවන් සහ ඔවුන් පැමිණි වෑන් රථය අත්අඩංගුවට ගෙන තිබේ .
+A van and four youth have been arrested by the Aladeniya Police.
 
-...
+Answering the final question at the Youth GCE (15) at the Youth Values at the Youth AthlemanThe students have informed the emergency call unit in connection with the incident.
+
+Alandeniya OIC Chief Inspector Senaratne and a team of police have also been arrested by the van and the van.
+
+The student has lived with him after the 24 year old resident of the Polonnaruwa area.
+
+The police suspect that the student has been allowed to abduct the student after she appeared with him at the Nugawela Maha Vidyalaya, while she has not come back with him at the Nugawela Maha Vidyalaya, the police suspect that she had not come back with him.
+
+The student has been identified to the Kandy National Hospital for a medical examination.
+
+◼️
 
 [Data](articles/90ee27eb.json)
+
+[Extended Data](ext_articles/90ee27eb.ext.json)
 
 ---
 

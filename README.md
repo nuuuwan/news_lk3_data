@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 14:53:02**
+As of **2024-05-15 15:03:22**
 
 ## Newspaper Stats
 
-*Scraped **24,213** Articles*
+*Scraped **24,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 2,810
 tamilmirrorlk | 2,847
 virakesarilk | 3,635
 dailymirrorlk | 3,807
-adaderanasinhalalk | 3,867
+adaderanasinhalalk | 3,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,211 (100.0%) of 24,213 articles have been extended.
+24,213 (100.0%) of 24,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### කැලේ පැලට ආ තුන් නිවුන් දරු පැටවුන්ගේ දුක හිතෙන කතාව
+
+*2024-05-15 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196649) · `si`
+
+දරුවන් නොමැතිව දුක්වෙන බොහෝ දෙමාපියන් අතරේ වාසනාවන්ත දෙමාපිය යුවළක් පිළිබඳ අපිට වාර්තා වන්නේ හබරණ පුවක්පිටිය ප්‍රදේශයෙනි.
+
+එහෙත් ඒ වාසනාවන්තකම අද වනවිට ඔවුන්ව දැඩි ලෙස පීඩාවට පත්කර ඇති අයුරු අපට දැකගත හැකි විය .
+
+කුඩා දියණියක් ද සිටින මේ මාපිය යුවළට නිවුන් පුතුන් තිදෙනෙකුගේ උපත වාසනාවක් වුවත් ඔවුන් දිවි ගෙවන මේ කටුමැටි පැලට එය ආර්ථිකමය වශයෙන් දරාගැනීම අසීරු කරුණකි.
+
+මේ පුංචි නිවස අවට ඇත්තේ ඝන කැලෑවක් නිසා ආරක්ෂාව සඳහා ඔවුන් රාත්‍රී කාලයේ දිවි ගෙවන්නේ ගසක් මත තැනූ පැලකය.
+
+මේ පැටවුන්ගේ පියා එම පැලෙන් බිමට වැටි මේ වනවිට ආබාධිතව පසුවේ.
+
+කෙසේ වෙතත් දරුවන්ගේ මව්පියන් පවසන්නේ දරුවන්ට අවශ්‍ය පහසුකම් සහ ආරක්ෂාව ලබාදීමට තමන්ට වත්කමක් නොමැති බවය.
+
+දරුවන්ගේ මව ඉතා දුක්බරව ඉල්ලා සිටින්නේ, තම දරුවන් සිව්දෙනාගේ ආරක්ෂාව වෙනුවෙන් නිවසක් සදා ගැනීමට කිසිවකුගෙන් හෝ උපකාරයකි.
+
+මේ පුංචි පැටවුන්ට පිළිසරණක් විය හැකි නම් එය සැබවින්ම මහත් වූ පුණ්‍ය කර්මයකි.
+
+◼️
+
+[Data](articles/d147d0e1.json)
+
+---
 
 ### Two schoolgirls reported missing after O/L exam in Ambagamuwa
 
@@ -50,25 +76,33 @@ Authorities have disseminated information regarding the missing students to all 
 
 [Data](articles/20f8c4c3.json)
 
+[Extended Data](ext_articles/20f8c4c3.ext.json)
+
 ---
 
-### වන සංරක්ෂණ අධ්‍යක්ෂ ජනරාල්ට සහ පොලිස්පතිට අධිකරණයෙන් නියෝගයක්
+### Court orders the Director General of Forest Conservation and IGP
 
 *2024-05-15 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196648) · `si`
 
-බෝගහපැලැස්ස රක්ෂිත වනාන්තර කලාපයේ සිදුකෙරෙන නීතිවිරෝධී වනාන්තර විනාශය වැළැක්වීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය විසින් වන සංරක්ෂණ අධ්‍යක්ෂ ජනරාල්වරයාට සහ පොලිස්පතිවරයාට නියෝගයක් නිකුත් කළේය.
+The Court of Appeal directed the Director General of Forest Conservation and the Inspector General of Police (IGP) to protect the Bogahapitasse forest reserve after a petition from the Environment Justice Center. The court, led by Judges Nissanka Bandula Karunaratne and Shahi Mahendran, acted upon Attorney-at-Law Ravindhath Dabare's claim that the area belongs to Thamune Kataragama Devalaya. The order aims to prevent environmental damage and was issued on July 24.
 
-පරිසර යුක්ති කේන්ද්‍රය විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලූ අවස්ථාවේදී අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+🟩
 
-පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ රවීන්ද්‍රනාත් දාබරේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් බෝගහපැලැස්ස රක්ෂිත වනාන්තර කලාපය සොරගුණේ කුඩා කතරගම දේවාලයට අයත් බව සඳහන් කරමින් පිරිසක් විසින් වනාන්තර එළිපෙහෙළි කිරීම සහ ඉඩම් පැවරීම් සිදුකරන බවයි.
+The Court of Appeal issued an order to the Director General of Forest Conservation and the IGP to take action to prevent the destination of the Bogahapelessa forest reserve forest zone.
 
-මේ තුළින් දැඩි පාරිසරික හානියක් සිදුවන බවත් එම කටයුතු වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙසත් නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+The order was issued by the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shahi Mahendran when a petition filed by the Environment Justice Center.
 
-ඉන් අනතුරුව මෙම නියෝගය නිකුත් කළ අධිකරණය අනතුරුව පෙත්සම ජූලි මස 24 වනදා කැඳවීමට නියෝග කළේය.
+Attorney-at-Law Ravindhath Dabare, who appeared in the courts, appeared in the courts, claiming that the Forest Zone belongs to the Thamune Kataragama Devalaya.
+
+The lawyer also requested the court to issue a severe environmental damage and issued a preventive order.
+
+The court issued the order then ordered the petition on July 24.
 
 ◼️
 
 [Data](articles/87e3b16a.json)
+
+[Extended Data](ext_articles/87e3b16a.ext.json)
 
 ---
 
@@ -2265,29 +2299,5 @@ Premier Ceylon is an exclusive tea company specialising in handmade teas and spi
 [Data](articles/ea8bc15d.json)
 
 [Extended Data](ext_articles/ea8bc15d.ext.json)
-
----
-
-### Bakeer Markar in Parliament attributes Palestine crisis to global political interests
-
-*2024-05-15 05:09:13* · [`dailyftlk`](https://www.ft.lk/news/Bakeer-Markar-in-Parliament-attributes-Palestine-crisis-to-global-political-interests/56-761800) · `en`
-
-Accuses US President Biden of providing substantial support to Netanyahu, despite global protests
-
-Says Israel through its contradictory stances has revealed its Zionist agenda to the world
-
-Emphasises global call to eliminate the influence of AIPAC from the US Congress
-
-Stresses allowing atrocities in Gaza to continue in today’s modern era is an affront to humanity
-
-Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar yesterday said the current humanitarian crisis in Palestine is a product of international political interests.  Speaking in parliament at the Adjournment Debate on the Palestine Issue, he also pointed out the contradiction in Israel’s stance.
-
-“While Israeli propaganda suggests an end to the conflict if Israeli hostages are freed, statements from Prime Minister Benjamin Netanyahu and his government ministers have emphasised their determination to continue the war, revealing their clear Zionist agenda to the global community,” he said.
-
-...
-
-[Data](articles/f7fa69d8.json)
-
-[Extended Data](ext_articles/f7fa69d8.ext.json)
 
 ---

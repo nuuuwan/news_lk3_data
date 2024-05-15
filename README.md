@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 11:33:51**
+As of **2024-05-15 11:53:16**
 
 ## Newspaper Stats
 
-*Scraped **24,161** Articles*
+*Scraped **24,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,90 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
-adalk | 2,060
+adalk | 2,061
 adaderanalk | 2,804
-tamilmirrorlk | 2,840
+tamilmirrorlk | 2,841
 virakesarilk | 3,624
-dailymirrorlk | 3,797
+dailymirrorlk | 3,799
 adaderanasinhalalk | 3,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,155 (100.0%) of 24,161 articles have been extended.
+24,161 (100.0%) of 24,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ජනාධිපති ලේකම් කාර්යාලය අසල උණුසුම් තත්ත්වයක්
+### Two female students go missing after O/L in Nawalapitiya
+
+*2024-05-15 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-female-students-go-missing-after-OL-in-Nawalapitiya/108-282639) · `en`
+
+Nawalapitiya, May 15 (Daily Mirror) - A police complaint was lodged yesterday stating that two schoolgirls had not returned home after their GCE Ordinary Level (O/L) examinations held at an examination centre in Ginigathhena.
+
+The complaint was lodged by the guardians of the two girls, who had come to the examination centre at the Ambagamuwa National School with their parents.
+
+The students are from the Nagastenna and Agra Oya areas in Nawalapitiya.
+
+Police investigations revealed that the missing schoolgirls had met with friends near the examination centre and were later spotted in the Nawalapitiya town still in their school uniforms.
+
+Photos of the missing girls have been distributed to all police stations, and a special police investigation has been launched to locate them.
+
+◼️
+
+[Data](articles/02260af5.json)
+
+---
+
+### Warm stability near the Presidential Secretariat
 
 *2024-05-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196643) · `si`
 
-විරෝධතාවයක් හේතුවෙන් ජනාධිපති ලේකම් කාර්යාලය අසල උණුසුම් තත්ත්වයක් හට ගෙන තිබේ.
+Protesters gathered outside the Presidential Secretariat today, leading to a heated situation as police removed banners. They submitted a memorandum to the President's Additional Secretary, protesting against a decision affecting MPs.
 
-"අල්ලස් දූෂණයට නාස්තියට එරෙහි පුරවැසි බලය සංවිධානය" විසින් අද (15) උදෑසන ජනාධිපති ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවයක් සංවිධානය කර තිබිණි.
+🟩
 
-විරෝධතාවය ආරම්භ කිරීමත් සමග පොලීසිය විසින් බැනර් හකුළා ඉවත් කළ අතර, එහිදී විරෝධතාකරුවන් සමග උණුසුම් තත්ත්වයක් ඇති වුණි.
+Hot near the Presidential Secretariat has arisen due to a protest.
 
-පසුව විරෝධතාකරුවන් විසින් ජනාධිපති අතිරේක ලේකම් කපිල මුණසිංහ මහතා වෙත සංදේශයක් භාරදෙනු ලැබීය.
+A protest was organized in front of the Presidential Secretariat this morning (15).
 
-මන්ත්‍රීවරුන්ට වාහන බලපත්‍රය නැවත ලබාදීමට ගෙන ඇති තීරණය සම්බන්ධයෙන් විරෝධය පළ කරමින් ඔවුන් එම විරෝධය සංවිධානය කර තිබිණි.
+With the commencement of the protest, the police had removed the banner with a heated condition with the protesters.
+
+The protesters later handed over a memorandum to the President's Additional Secretary Kapila Munasinghe.
+
+They were organized in protest of the decision to be restored to the MPs.
 
 ◼️
 
 [Data](articles/bda28250.json)
 
+[Extended Data](ext_articles/bda28250.ext.json)
+
 ---
 
-### சிசுவை விட்டுச்சென்ற மாணவி சிக்கினார்
+### The student left the fetus was trapped
 
 *2024-05-15 11:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிசுவை-விட்டுச்சென்ற-மாணவி-சிக்கினார்/71-337348) · `ta`
 
-யாழ்.போதனா வைத்தியசாலையில் சிசுவை  பிரசவித்த பின்னர் , சிசுவை வைத்தியசாலையில் கைவிட்டு சென்ற 15 வயதான பாடசாலை மாணவியை பொலிஸார் மீட்டுள்ளதுடன் , மாணவியை வன்புணர்ந்து கர்ப்பமாக்கிய குற்றச்சாட்டில் 25 வயதான இளைஞனையும் பொலிஸார் கைது செய்துள்ளனர்.
+A 15-year-old schoolgirl gave birth at Jaffna Bodhana Hospital but abandoned her newborn there. A 25-year-old man from Mallavi, accused of rape, has been arrested.
 
-யாழ்.போதனா வைத்தியசாலையில் 15 வயதான பாடசாலை மாணவி பிரசவத்திற்காக கடந்த வாரம் அனுமதிக்கப்பட்டிருந்தார். தாயாரும் மாணவிகடகு உதவியாக தாயாரும் நின்றுள்ளார்.  மாணவிக்கு குழந்தை பிறந்ததும் மறுநாள், தாயும் மாணவியும் குழந்தையை வைத்தியசாலையில் கைவிட்டு அங்கிருந்து தப்பி சென்றுள்ளனர்.
+🟩
 
-சம்பவம் தொடர்பில் வைத்தியசாலை நிர்வாகத்தினர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தனர். முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் சிறுமி நெல்லியடி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்தவர் என கண்டறிந்து , அது தொடர்பில் நெல்லியடி பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+Police have rescued a 15 -year -old schoolgirl who abandoned the infant at the Jaffna Bodhana Hospital and the 25 -year -old youth has been arrested for allegedly raping the student.
 
-நெல்லியடி பொலிஸார் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் , குழந்தையை பிரசவித்த மாணவியையும் , அவரது தாயாரையும் கண்டறிந்து பொலிஸ் நிலையத்திற்கு அழைத்து சென்று விசாரணைகளை முன்னெடுத்தனர்.
+A 15 -year -old schoolgirl was admitted to the Jaffna Bodhana Hospital last week for delivery. The mother and the mother are standing to help the student.The next day when the student was born, the mother and the student abandoned the child at the hospital and fled.
+
+Hospital administration lodged a complaint at the Jaffna Police Station regarding the incident. According to the complaint, the police, who were investigating the complaint, found that the girl belonged to the Nelliyadi Police Division and was informed by the Nelliyadi police.
+
+Based on the investigation by the Nelliyadi police, the student and her mother who had delivered the baby were taken to the police station and carried out investigations.
 
 ...
 
 [Data](articles/4cad7160.json)
+
+[Extended Data](ext_articles/4cad7160.ext.json)
 
 ---
 
@@ -86,37 +118,51 @@ Together, they aim to address the stigma and myths surrounding leprosy, which ha
 
 [Data](articles/1dfa83ef.json)
 
+[Extended Data](ext_articles/1dfa83ef.ext.json)
+
 ---
 
-### சிறையில் இடம்பறெ்ற கொலை ஒப்பந்தம் குறித்து விசாரணை
+### Investigation into the murderous agreement
 
 *2024-05-15 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இடம்பறெ்ற-கொலை-ஒப்பந்தம்-குறித்து-விசாரணை/175-337347) · `ta`
 
-காலி சிறைச்சாலையில் உள்ள சிறைச்சாலை அதிகாரி ஒருவர் சக பெண் வார்டன் ஒருவரைக் கொலை செய்ய சிறையிலிருந்த பெண் கைதியை ஈடுபடுத்தியதாக எழுந்த குற்றச்சாட்டு தொடர்பில் காலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Galle police investigate claims of a prison officer's involvement in a warden's murder. Confessions from several individuals, including the accused, were recorded during visits to Galle Prison. The case involves allegations against a female prisoner given a special agreement within the prison.
 
-பொலிஸ் அதிகாரிகள் குழுவொன்று காலி சிறைச்சாலைக்கு விஜயம் செய்து, குற்றம் சாட்டப்பட்ட சிறைச்சாலை அதிகாரி மற்றும் இலக்கு வைக்கப்பட்ட வார்டன் உட்பட பல நபர்களிடம் வாக்குமூலங்களை பதிவு செய்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-காலி சிறைச்சாலையின் எல்லைக்குள் பல குற்றச் செயல்களில் ஈடுபட்டு சிறைவாசம் அனுபவித்து வரும் பெண் கைதி ஒருவருக்கு சிறைக்காவலர் ஒப்பந்தம் ஒன்றை வழங்கியதாக வார்டன் தாக்கல் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+Galle police have launched an investigation into the allegation that a prison officer in Galle Prison was involved in the murder of a female warden.
+
+A team of police officers has reportedly visited the Galle Prison and has recorded confessions to several persons, including the accused and the targeted warden.
+
+Warden's complaint states that a female prisoner who is engaged in a number of crimes within the boundaries of the Galle Prison has been given a prisoner agreement.
 
 ◼️
 
 [Data](articles/769d7a16.json)
 
+[Extended Data](ext_articles/769d7a16.ext.json)
+
 ---
 
-### வாட்ஸ்அப்பில் தகவல் பகிர்ந்தோர் கைது
+### Information Shares Arrested on WhatsApp
 
 *2024-05-15 10:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்ஸ்அப்பில்-தகவல்-பகிர்ந்தோர்-கைது/175-337346) · `ta`
 
-விசேட சுற்றிவளைப்பு நடவடிக்கைகளுக்காகக் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர்களைக் கண்காணித்து குற்றவாளிகளுக்கு வாட்ஸ்அப் மூலம் தகவல் தெரிவித்ததாக கூறப்படும் இருவரை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Colombo Chief Magistrate's Court ordered two men monitoring police activities via WhatsApp arrested by CID for special duties. Aged 23 and 30, they were detained for questioning.
 
-பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் சந்தேக நபர்கள் கணினி குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டு நேற்று (14) நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-தெய்யந்தர பிரதேசத்தைச் சேர்ந்த  23 மற்றும் 30 வயதுடைய இரண்டு நபர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+The Colombo Chief Magistrate's Court has ordered the two men who have been on duty to monitor the police officers who have been on duty for special rounds of activities and have been informed by WhatsApp until the 16th of this month.
+
+The order was issued after the suspects were arrested by the Computer Criminal Investigation Department (CID) and produced in court yesterday (14).
+
+Two persons aged 23 and 30 from the Tayantha area have been arrested and kept in interrogation.
 
 ◼️
 
 [Data](articles/89f9b78e.json)
+
+[Extended Data](ext_articles/89f9b78e.ext.json)
 
 ---
 
@@ -167,6 +213,26 @@ To two young women who stayed in the class for a while, would the suspect bring 
 [Data](articles/a210ab50.json)
 
 [Extended Data](ext_articles/a210ab50.ext.json)
+
+---
+
+### மதுகொடுத்து வன்புணர்ந்த   வடிவமைப்பாளர்
+
+*2024-05-15 10:45:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுகொடுத்து-வன்புணர்ந்த-வடிவமைப்பாளர்/175-337345) · `ta`
+
+19 வயது யுவதியை பாலியல் பலாத்காரம் செய்ததாக கூறப்படும் ஆடை வடிவமைப்பாளர் ஒருவரை மாவத்தகம பொலிஸ் அதிகாரிகள் குழு கைது செய்துள்ளது. மாவத்தகம பகுதியில் உள்ள கட்டிடம் ஒன்றிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மாவத்தகம பிரதேசத்தில் வசிக்கும் 40 வயதுடையவர் என்றும் அவர், இரண்டு பிள்ளைகளின் தந்தை ஆவார்.
+
+பாலியல் பலாத்காரம் செய்யப்பட்டதாகக் கூறப்படும் 19 வயதுடைய சிறுமி சந்தேக நபரின் உறவினர் என மாவத்தகம பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இந்த இளம் பெண் தனது உறவினரிடம் ஆடை வடிவமைப்பு (பேஷன் டிசைனிங்) பற்றி அறிந்து கொள்வதற்காக இந்த பயிற்சி வகுப்பில் கலந்து கொள்வதாக பொலிஸார் கூறுகின்றனர்.
+
+பயிற்சி வகுப்பு முடிந்ததும், பயிற்சி வகுப்பில் கலந்து கொண்ட மற்றொரு பெண்ணுடன் வகுப்பை விட்டு வெளியேறச் சென்றபோது, ​​மழை பெய்யத் தொடங்கியுள்ளது.
+
+...
+
+[Data](articles/f628acf4.json)
 
 ---
 
@@ -545,6 +611,28 @@ Lee, who faced the Prime Minister as the Prime Minister, he paid his pleasure to
 [Data](articles/05ac7b11.json)
 
 [Extended Data](ext_articles/05ac7b11.ext.json)
+
+---
+
+### End of Lee era for Singapore as PM steps down
+
+*2024-05-15 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/End-of-Lee-era-for-Singapore-as-PM-steps-down/107-282627) · `en`
+
+Singapore, May 15 (BBC) - Singapore's long-serving Prime Minister Lee Hsien Loong is stepping down, marking the end of a political era for the island nation.
+
+After 20 years in power, Mr Lee will formally hand over the reins to deputy PM and finance minister Lawrence Wong on Wednesday night.
+
+Since becoming an independent nation in 1965, Singapore has only had three prime ministers - all from the ruling People's Action Party (PAP).
+
+The first was Mr Lee's father, Lee Kuan Yew, who is widely considered as the founder of modern Singapore and led the country for 25 years.
+
+Analysts say the transition signals an evolution in Singapore's political leadership as it moves out of the shadow of the Lee family, even though Mr Lee will remain in cabinet as a senior minister.
+
+Over the weekend in his final interview as Prime Minister with local media, he thanked Singaporeans for their support.
+
+...
+
+[Data](articles/dc7b4e98.json)
 
 ---
 
@@ -975,6 +1063,8 @@ The final draft of the law titled ‘Non-governmental Organizations (Registratio
 ...
 
 [Data](articles/67af1272.json)
+
+[Extended Data](ext_articles/67af1272.ext.json)
 
 ---
 
@@ -2099,67 +2189,5 @@ Your ability to mobilize support and empower people to your cause cannot be deni
 [Data](articles/07df902a.json)
 
 [Extended Data](ext_articles/07df902a.ext.json)
-
----
-
-### Landslide early warning issued for four districts
-
-*2024-05-14 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-early-warning-issued-for-four-districts/108-282613) · `en`
-
-Colombo, May 14 (Daily Mirror) - The National Building Research Organization (NBRO) today issued early warnings for landslides in Badulla, Galle, Ratnapura and Kegalle districts.
-
-Those in these areas are to be watchful for sudden appearance of water sprouts, cracks on walls and on the soil as these may be signs of impending landslides.
-
-According to the Department of Meteorology, heavy rains of about 100 mm may occur in the Western, Central, Sabaragamuwa and Eastern Provinces.
-
-The department has mentioned this while issuing a weather statement for the next 36 hours.
-
-Also, it states that the turbulent nature developing in the lower atmosphere near Sri Lanka is expected to lead to rainy conditions over the island in the future.
-
-◼️
-
-[Data](articles/89a09129.json)
-
-[Extended Data](ext_articles/89a09129.ext.json)
-
----
-
-### If Tamil Eelam was origin
-
-*2024-05-14 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183560) · `ta`
-
-Tamil Eelam, if it had originated, could have evolved into a South Asian Israel, akin to the transformation of Palestine. Wimal Weerawansa, a Sri Lankan parliamentarian, suggested the US's interest in ending the LTTE war was influenced by Israel. The comparison draws parallels between the struggles of Palestinians and Tamils, highlighting the international community's role in conflicts. The narrative also touches on the failed attempts by Britain to establish Tamil Eelam within Sri Lanka, contrasting it with their success in Palestine. The mention of the US's involvement, including a Marine Squadron visit to protect LTTE leader Velupillai Prabhakaran, and the use of veto power at the UN to support Sri Lanka, underscores the complex international dynamics in these conflicts.
-
-🟩
-
-If the war with the LTTE did not end, Tamil Eelam would have been originated in South Asia. It would have been transformed into Israel.. National Freedom Front leader and parliamentarian Wimal Weerawansa said that the US is tears to end the war by providing Israel and ending the war.
-
-He was speaking at a debate on the adjournment motion on the Palestinian Affairs Affairs in Parliament on Tuesday (14).
-
-Palestinians have been badly affected by the inhuman attack of Israel. We are worried about the present situation of the Palestinians.
-
-When World War II intensified, the Great Britain signed a deal with the Jews to end the war. The Jews urged the British to have a country or kingdom after the end of the war.
-
-Tamils live in the world. They are based on South Indian Dravidian language so that they are giving them a unique country within Sri Lanka, giving them a great British fake independence.
-
-...
-
-[Data](articles/040563e4.json)
-
-[Extended Data](ext_articles/040563e4.ext.json)
-
----
-
-### Train services disrupted on main line and Puttalam line
-
-*2024-05-14 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99219/train-services-disrupted-on-main-line-and-puttalam-line) · `en`
-
-The train services on the main line and the Puttalam line have been disrupted from Kelaniya due to a signal failure, the Sri Lanka Railways Control Room announced.
-
-◼️
-
-[Data](articles/2a9cfc03.json)
-
-[Extended Data](ext_articles/2a9cfc03.ext.json)
 
 ---

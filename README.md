@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 15:18:23**
+As of **2024-05-15 15:33:56**
 
 ## Newspaper Stats
 
-*Scraped **24,214** Articles*
+*Scraped **24,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,065
-adaderanalk | 2,810
-tamilmirrorlk | 2,847
-virakesarilk | 3,635
+adalk | 2,066
+adaderanalk | 2,811
+tamilmirrorlk | 2,848
+virakesarilk | 3,639
 dailymirrorlk | 3,807
 adaderanasinhalalk | 3,868
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,214 (100.0%) of 24,214 articles have been extended.
+24,214 (100.0%) of 24,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Passenger arrested with foreign cigarettes worth Rs. 2.1m at BIA
+
+*2024-05-15 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99233/passenger-arrested-with-foreign-cigarettes-worth-rs-21m-at-bia) · `en`
+
+Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized a large consignment of smuggled cigarettes, valued at around Rs. 2.1 million, and arrested a suspect at the arrival terminal this morning (15).
+
+The arrested suspect has been identified as a 36-year-old businessman residing in Colombo 13.
+
+The passenger in question had arrived from Mumbai, India onboard a SriLankan Airlines flight at 10.15 p.m. last night (14), however he had remained at the airport’s duty-free shopping complex until this morning and was arrested while attempting to exit the airport.
+
+A total of 105 cartons containing 21,000 sticks of foreign-manufactured cigarettes were found concealed in his luggage.
+
+The arrested passenger has been released on police bail and is scheduled to appear before the Negombo Magistrate’s Court on May 22.
+
+◼️
+
+[Data](articles/2cb635ed.json)
+
+---
+
+### வவுனியாவில் 15 வயது சிறுமி கூட்டு பாலியல் துஷ்பிரயோகம் ; விடுதி முகாமையாளர் கைது
+
+*2024-05-15 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183615) · `ta`
+
+வவுனியா, தேக்கவத்தை பகுதியில் உள்ள விடுதி ஒன்றில் வைத்து 15 வயது சிறுமி கூட்டு வன்புணர்வுக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் விடுதி முகாமையாளர் கைது செய்யப்பட்டுள்ளதாக பொலிசார் இன்று புதன்கிழமை (15) தெரிவித்தனர்.
+
+வவுனியா, பண்டாரிக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வசிக்கும் 15 வயது பெண் ஒருவரை வவுனியா நகரையண்டிய தேக்கவத்தை பகுதியில் உள்ள விடுதி ஒன்றிற்கு இளைஞரொருவர் அழைத்து சென்றுள்ளார்.
+
+அங்கு சிறுமிக்கு இளைஞர் போதை மருந்து கொடுத்து கூட்டு பாலியல் துஷ்பிரயோகத்தில் ஈடுபட்டதாகவும், அதற்கு உடந்தையாக செயற்பட்ட பெண் உட்பட 4 பேர் அண்மையில் வவுனியா பொலிஸாரால் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவுக்கமைய தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+இது தொடர்பான விசாரணைகளை முன்னெடுத்து வரும் வவுனியா பொலிஸார் சம்பவம் இடம்பெற்றதாக கூறப்படும் தேக்கவத்தைப் பகுதியில் உள்ள விடுதியின் முகாமையாளர் கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளின் பின் அவரை நீதிமன்றில் முற்படுத்தவுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8c0908ca.json)
+
+---
 
 ### The story of twins that came in the jungle
 
@@ -61,6 +99,66 @@ If these little chicks could be a refusal, it was a really great charity.
 [Data](articles/d147d0e1.json)
 
 [Extended Data](ext_articles/d147d0e1.ext.json)
+
+---
+
+### பிரேசில் வெள்ளம் : ஆறுகளின் நீர்மட்டம் உயர்வு ; 149 பேர் பலி
+
+*2024-05-15 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183605) · `ta`
+
+பிரேசிலில் அடை மழையால் வெள்ளப் பெருக்கு ஏற்பட்டுள்ளது. இதன்காரணமாக ரியோ கிராண்டே டோ சுல் மாநிலத்தில் ஆறுகளின் நீர்மட்டம் உயர்வடைவதால் மேலும் சேதம் ஏற்படும் என தெரிவிக்கப்படுகிறது.
+
+செவ்வாய்க்கிழமை நிலவரப்படி, ரியோ கிராண்டே டோ சுல் மாநிலத்தில்   வெள்ளத்தால் 149 பேர் உயிரிழந்துள்ளதோடு, 124 பேர் காணாமல் போயுள்ளார்கள்.
+
+வெள்ளத்தால் சுமார் 155,000 வீடுகள்  சேதமடைந்துள்ளதோடு, 600,000 க்கும் மேற்பட்ட மக்கள் தங்கள் வீடுகளில் இருந்து இடம்பெயர்ந்துள்ளனர்.
+
+சீரற்ற வானிலையால் ரியோ கிராண்டே டோ சுல் மாநிலத்தில்  நெருக்கடியால் 21 இலட்சம் மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில், தொடர்ந்து பெய்து வரும் மழை காரணமாக ரியோ கிராண்டே டோ சுலின் தலைநகரான போர்டோ அலெக்ரேவில் உள்ள குவாபா ஆற்றின் நீர் மட்டம் 8  அடி வரை உயரும் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+வெள்ளத்தால் பாதிக்கப்பட்ட குடும்பங்களுக்கு உதவி வழங்க நடவடிக்கை எடுத்துவருதாக பிரேசிலின் நிதி அமைச்சர் பெர்னாண்டோ ஹடாட் திங்களன்று தெரிவித்ததுள்ளார்.
+
+...
+
+[Data](articles/fb4e7059.json)
+
+---
+
+### தள்ளிப் போகும் பேரறிவாளன் திருமணம்? கண்ணீர் மல்கப் பேசிய அற்புதம் அம்மாள்
+
+*2024-05-15 14:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தள்ளிப்-போகும்-பேரறிவாளன்-திருமணம்-கண்ணீர்-மல்கப்-பேசிய-அற்புதம்-அம்மாள்/175-337361) · `ta`
+
+தமிழ்நாட்டில் அற்புதம் அம்மாள் என்றால் தெரியாதவர்கள் இல்லை. அவரது மகனைச் சிறையிலிருந்து மீட்பதற்காக 31 வருடங்கள் சட்டப் போராட்டத்தைச் சலிக்காமல் நடத்தியவர்.
+
+எந்தக் கட்டத்திலும் சோர்ந்து போகாமல் இறுதிவரை உறுதியாக நின்று தனது மகனைச் சட்டத்தின் மூலம் விடுதலை பெற்றுத் தந்தவர்.
+
+பேரறிவாளன் 1991 ஆம் ஆண்டு கைதாகி வேலூர் சிறையில் அடைக்கப்பட்டார். இவருக்குத் தூக்குத்தண்டனை விதிக்கப்பட்டது. ஆனால், தனது மகன் ஒரு அப்பாவி. விசாரணை என்று அழைத்துப் போன காவல்துறை, அவனை ராஜீவ் கொலை வழக்கில் சிக்க வைத்துவிட்டது என்று கூறி, இடைவிடாமல் போராடி வந்தார் அற்புதம்.
+
+அதன்பின்னர் இவரது தூக்குத்தண்டனை 2014இல் ரத்து செய்யப்பட்டது. அதன்பின்னர் 2022 மே 18 அன்று உச்சநீதிமன்றத்தால் பேரறிவாளன் விடுதலை செய்யப்பட்டார்.
+
+பேரறிவாளன் வெளியே வந்து கிட்டத்தட்ட 2 ஆண்டுகள் மேலாகிவிட்டது. அவரது தாய் அன்னையர் தினத்தை ஒட்டி ஒரு யூடியூப் தளத்திற்குப் பேட்டி அளித்துள்ளார். அதில், தனது மகனின் எதிர்காலம் குறித்த கவலைகளை அவர் பகிர்ந்து கொண்டுள்ளார்.
+
+...
+
+[Data](articles/ee6e22ea.json)
+
+---
+
+### யாழில் இயங்கிய ஐஸ் போதைப்பொருள் உற்பத்தி மையத்தின் பின்னணியில் தம்பதியினர் ? - வெளியான அதிர்ச்சி தகவல்
+
+*2024-05-15 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183610) · `ta`
+
+யாழ்ப்பாணத்தில் இயங்கி வந்த ஐஸ் போதை உற்பத்தி மையத்தை தம்பதியினரே நடத்தி வந்துள்ளனர் என பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+இணுவில் பகுதியில் உள்ள வீடொன்றில் ஐஸ் போதை பொருள் தயாரிப்பு மையம் ஒன்று பொலிஸாரினால் சுற்றி வளைக்கப்பட்டு , போதைப்பொருள் தயாரிப்பு பொருட்கள் உள்ளிட்டவை கைப்பற்றப்பட்டு இருந்தது.
+
+இந்நிலையில் விசாரணைகளை முன்னெடுத்த பொலிஸார் வீட்டில் வசித்து வந்த நபரை கைது செய்துள்ளனர். கைது செய்யப்பட்ட நபரிடம் முன்னெடுக்கப்பட்ட விசாரணைகளில் , வீட்டின் அறையை தம்பதி ஒன்று வாடகைக்கு கொடுத்ததாகவும், அந்த அறையில் தம்பதியினர் வசித்து வந்ததாகவும் தெரிவித்துள்ளார்.
+
+குறித்த அறையில் தங்கியிருந்த தம்பதியினரில், கணவன் யாழில் இயங்கும் வன்முறை கும்பல் ஒன்றுடன் இணைந்து கடந்த காலங்களில் வன்முறைகளில் ஈடுபட்டு வந்தநிலையில் அவருக்கு எதிராக யாழ்ப்பாணத்தில் உள்ள நீதிமன்றங்களில் வழக்குகள் நிலுவையில் உள்ளன. தற்போது அவர் வன்முறை சம்பவங்களில் ஈடுபடுவதில்லை எனவும் , திருந்தி வாழ்வதாகவும் நீதிமன்ற வழக்கு விசாரணைகளில் தெரிவித்து வந்துள்ளார்.
+
+...
+
+[Data](articles/207efdf7.json)
 
 ---
 
@@ -109,6 +207,18 @@ The court issued the order then ordered the petition on July 24.
 [Data](articles/87e3b16a.json)
 
 [Extended Data](ext_articles/87e3b16a.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183606) · `ta`
+
+இன்று புதன்கிழமை (மே 15) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.7431 ஆகவும் விற்பனை விலை ரூபா 306.4280 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cef46f77.json)
 
 ---
 
@@ -219,6 +329,28 @@ According to the decree, the protesters should not be embarrassed in Deans Road,
 [Data](articles/15043da8.json)
 
 [Extended Data](ext_articles/15043da8.ext.json)
+
+---
+
+### ගුරුවරියගේ මෝටර් රථයට තරුණයෙක් බිලි
+
+*2024-05-15 13:24:45* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියගේ-මෝටර්-රථයට-තරුණයෙක්-බිලි/11-409646) · `si`
+
+පානදුර ප්‍රසිද්ධ විද්‍යාලයක ගුරුවරියක් පදවාගෙන  යමින් සිටි සුඛෝපභෝගී මෝටර් රථයක් යතුරුපැදියක ගැටීමෙන්  එය පැදවූ තරුණයා මිය ගොස් ඇතැයි අලුබෝමුල්ල පොලිසිය කියයි.
+
+අනතුරින් මිය ගොස් ඇත්තේ  පානදුර නිව්ඩාව හන්දියේ පදිංචිව සිටි අවිද්‍ය රසිදු ප්‍රනාන්දු  නැමැති 18,  හැවිරිදි තරුණයෙකි.
+
+මෝටර් රථය බණ්ඩාරග දෙස සිට පානදුර දෙසට ධාවනය වීමේදී  ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි  යතුරු පැදිය  හා මුහුණ ට මුහුණ ගැටිමෙන්  මෙම අනතුර වි ඇතැයි පොලිසිය කියයි .
+
+බරපතල තුවාල ලද යතුරු පැදිකරු පානදුර රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+
+අත්අඩංගුවට ගත් ගුරුවරිය පානදුර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+අලුබෝමුල්ල  පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක  අසංක රාජකරුණා මතාගේ උපදෙස් මත උප පොලිස් පරීක්ෂක ආර් ඒ එස් චාමින්ද පොලිස් කොස්තාපල් 28814  බණ්ඩාර පහත්වරුන් පරීක්ෂණ පවත්වයි .
+
+◼️
+
+[Data](articles/aa03a43f.json)
 
 ---
 
@@ -2167,143 +2299,5 @@ The final draft of the law titled ‘Non-governmental Organizations (Registratio
 [Data](articles/130a9a2a.json)
 
 [Extended Data](ext_articles/130a9a2a.ext.json)
-
----
-
-### US State Dept. gets involved in drafting local NGO law
-
-*2024-05-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/US-State-Dept-gets-involved-in-drafting-local-NGO-law/155-282604) · `en`
-
-May 14 (Daily Mirror) -  The U.S. State Department has sought to intervene in the drafting of Sri Lanka's new piece of legislation that, if enacted, will provide for the registration of both local and international NGOs in the country, a top source said yesterday.
-
-The final draft of the law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now pending with the Attorney General for certification before being announced in the gazette notification and then presented to Parliament for enactment. At the moment, there are 1,786 registered NGOs operating at national level, 1,636 at district levels and 38,524 at divisional levels.
-
-...
-
-[Data](articles/67af1272.json)
-
-[Extended Data](ext_articles/67af1272.ext.json)
-
----
-
-### Limiting Factor Analysis crucial in decision making amidst resource constraints
-
-*2024-05-15 05:38:38* · [`dailyftlk`](https://www.ft.lk/columns/Limiting-Factor-Analysis-crucial-in-decision-making-amidst-resource-constraints/4-761807) · `en`
-
-Policymakers must determine the level of full capacity national output in understanding the state of the economy and in making informed decisions regarding monetary and fiscal policies
-
-The Sunday Times of 28 April 2024 reported that plans are underway to lift the restrictions on the import of motor vehicles because a committee of Treasury Officials has stated that in the absence of duties on motor vehicle imports the country would not meet the revenue targets set by the International Monetary Fund. The news report states further that the trade-off is an $ 800 million drain on foreign reserves against the earning of a SL Rupee denominated tax revenue of Rs. 340 billion. Whilst accepting that there would be different views re the logic of this trade-off, I see this as a situation which calls for Limiting Factor Analysis (LFA).
-
-...
-
-[Data](articles/a3eaab42.json)
-
-[Extended Data](ext_articles/a3eaab42.ext.json)
-
----
-
-### A wise fool’s paradise
-
-*2024-05-15 05:26:54* · [`dailyftlk`](https://www.ft.lk/columns/A-wise-fool-s-paradise/4-761806) · `en`
-
-When President Ranil Wickremesinghe announces his candidacy, we will hear people sing of dark times
-
-“For every complex problem, there is a solution that is clear, simple, and wrong.” – H.L. Menken
-
-‘Sustaining Stability’ is the oxymoronic title of the recent panel discussion organised by the Central Bank.
-
-How to make a three-legged stool stand on two legs would have been a more commonsensical, down to earth title for the profoundly perplexing exchange of views by five panellists – all steeped in the science of economics.
-
-That makes it easy. A repetition of remarks made by participants or attempting to qualify who said what, is not necessary.
-
-It was a seriously choreographed discussion. It was in English – the language of Global Commerce, the IMF, and holders of our International Sovereign Bonds.
-
-Therein lies another tale. All this brouhaha is to appease creditors for us to get back to the business of borrowing.
-
-...
-
-[Data](articles/9e60dac3.json)
-
-[Extended Data](ext_articles/9e60dac3.ext.json)
-
----
-
-### Easter attack like NATO
-
-*2024-05-15 05:21:45* · [`dailyftlk`](https://www.ft.lk/opinion/Easter-attack-like-NATO/14-761805) · `en`
-
-Every year around late April we all speak about the Easter bomb disaster which affected thousands of people in the country.
-
-During that period there were several public requests for action to be taken against all who are guilty of failing in their duties.
-
-In an article on 2 May 2019 which was published in the papers soon after the disaster where I clearly mentioned:
-
-“It is absolutely necessary that those responsible, starting from the top two leaders and all others holding political office, be compelled by law to face appropriate penalties for their indifference and negligence.”
-
-As it has happened in the last 75 years after Independence, whenever a disaster takes place in the country we talk about it for some time and conveniently forget about it.
-
-...
-
-[Data](articles/b784fb86.json)
-
-[Extended Data](ext_articles/b784fb86.ext.json)
-
----
-
-### Playing “Blind Man’s Buff” with Sri Lanka’s Free Trade Agreements: Part 2
-
-*2024-05-15 05:19:14* · [`dailyftlk`](https://www.ft.lk/columns/Playing-Blind-Man-s-Buff-with-Sri-Lanka-s-Free-Trade-Agreements-Part-2/4-761803) · `en`
-
-Transparency and widespread consultation is vital for an FTA Feasibility Study that reflects the interests of the country rather than vested interests of a few politicians and their business henchmen
-
-It is important to realise that the mere reduction of an import duty at the border, through an FTA does not mean free market access for Sri Lanka goods to the Indian or any other market since there are many non-tariff barriers and trade facilitation documentation issues facing our exports to those markets. An UNCTAD Study on Non Tariff Measures in China and India (2020) noted that despite reduction in import duties at the border, a host of NTMs as sanitary and phytosanitary/technical barriers to trade, quotas, financial exchange and price changing measures, registration and administrative, non technical issues can adversely affect price and quantities traded.
-
-...
-
-[Data](articles/edf63b24.json)
-
-[Extended Data](ext_articles/edf63b24.ext.json)
-
----
-
-### Siddhalepa extends Ayurvedic Wellness to UAE
-
-*2024-05-15 05:12:11* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-extends-Ayurvedic-Wellness-to-UAE/34-761802) · `en`
-
-Siddhalepa, the globally acclaimed Ayurveda-based wellness brand, has unveiled its presence in the Middle East, particularly in the United Arab Emirates.
-
-This auspicious occasion celebrated on 9 May at the Pullman Hotel, Diera, Dubai, signifies a new era of holistic wellness in the region.
-
-The launch event commenced with a warm welcome address by Sri Lankan Business Council in Dubai and Northern Emirates representee Shihan Sherif setting the tone for an evening of cultural significance and health advocacy.
-
-Sri Lanka’s High Commissioner to the UAE Udaya Indrarathna reminisced about the historical importance of Siddhalepa in Sri Lankan households, emphasising its profound impact on generations. His insights shed light on the brand’s legacy and its transformative potential in the UAE.
-
-Sri Lanka’s Consul General to UAE Alexi Gunasekare delivered an insightful address, enhancing on the shared values and commitment to holistic wellness between Sri Lanka and the UAE.
-
-...
-
-[Data](articles/dfe5fa3d.json)
-
-[Extended Data](ext_articles/dfe5fa3d.ext.json)
-
----
-
-### Premier Ceylon Teas and Spices launches Gold Edition – 22kt Gold tea souvenir pack
-
-*2024-05-15 05:11:05* · [`dailyftlk`](https://www.ft.lk/business/Premier-Ceylon-Teas-and-Spices-launches-Gold-Edition-22kt-Gold-tea-souvenir-pack/34-761801) · `en`
-
-Premier Ceylon Teas and Spices has announced the launch of the Gold Edition with 22kt Gold Lion to add to the innovative product range adding to its exclusive artisanal tea and spice product range.
-
-It is an exclusive Gold Gift Pack with Premier Ceylon Cinnamon Honey Tea specially designed for the value seeking and discerning clients locally and internationally
-
-This product is specially designed as an exclusive souvenir and a gift pack to celebrate and cherish artistry and aesthetic values thus, together with the finest Premier Ceylon Honey Tea, catering to the discerning royal connoisseurs not only as an exclusive tea product but also as a life time souvenir from Premier Ceylon and Sri Lanka.
-
-Premier Ceylon is an exclusive tea company specialising in handmade teas and spices and with its continued and ongoing research and development process, is in the process of developing an exclusive new tea range to the world of teas with innovation in the forefront
-
-...
-
-[Data](articles/ea8bc15d.json)
-
-[Extended Data](ext_articles/ea8bc15d.ext.json)
 
 ---

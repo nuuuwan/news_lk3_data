@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 09:34:01**
+As of **2024-05-15 09:53:00**
 
 ## Newspaper Stats
 
-*Scraped **24,133** Articles*
+*Scraped **24,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,059
-adaderanalk | 2,800
+adaderanalk | 2,801
 tamilmirrorlk | 2,830
 virakesarilk | 3,621
 dailymirrorlk | 3,792
-adaderanasinhalalk | 3,857
+adaderanasinhalalk | 3,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,132 (100.0%) of 24,133 articles have been extended.
+24,133 (100.0%) of 24,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### University non-academic staff to intensify their strike action
+
+*2024-05-15 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99224/university-non-academic-staff-to-intensify-their-strike-action) · `en`
+
+The Joint Committee of University Trade Unions says they have decided to further intensify their strike action due to delays in addressing their demands.
+
+Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyantha stated that the association unanimously agreed to withdraw from all voluntary services within universities. This includes halting the supply of water and electricity, as well as discontinuing internet facilities. These disruptions will significantly impact various operations within the university system, he said.
+
+“Also, the authorities should take full responsibility for the destruction of samples maintained at the laboratory level in the university system. This kind of thing is happening to the university system because of the actions of this government. If the administration continues to avoid it, we should also rethink about the activities that we voluntarily carry out in the university,” said Priyantha.
+
+...
+
+[Data](articles/5d67dc6e.json)
+
+---
+
+### සිංගප්පුරුවේ යුගයක නිමාව
+
+*2024-05-15 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196639) · `si`
+
+ඉතා දීර්ඝ කාලයක් සිංගප්පුරුව පාලනය කළ අග්‍රාමාත්‍ය "Lee Hsien Loong" සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ. ඒ සමගම එරට දේශපාලනයේ එක් පරිච්ඡේදයක් නිමාවට පත්වන බව දේශපාලන විචාරකයෝ පවසති.
+
+වසර විස්සක් සිංගප්පුරුව පාලනය කිරීමෙන් අනතුරුව ලී සිය බලතල අද රාත්‍රියේ එරට නියෝජ්‍ය අගමැති සහ මුදල් අමාත්‍යවරයා ලෙස කටයුතු කරන ලෝරන්ස් වොන්ග් ට භාරදීමට නියමිතය.
+
+සිංගප්පුරුව නිදහස් දේශයක් බවට පත්වූයේ 1965 දීය. එතැන් සිට මේ දක්වා වූ වසර 59ට එරට පාලනය කර ඇත්තේ අගමැතිවරු තිදෙනෙක් පමණි.
+
+එරට පළමු අගමැති වූයේ ලී ක්වාන් යූ ය. ඔහු වර්තමාන අගමැතිවරයාගේ පියා වන අතර සිංගප්පුරුව වසර 25 පාලනය කළ ඔහු සැලකෙන්නේ නූතන සිංගප්පුරුවේ නිර්මාතෘවරයා ලෙසට ය.
+
+දේශපාලන විචාරකයින් පවසන්නේ මෙම බල හුවමාරුවත් සමගම එරට දේශපාලන නායකත්වය "ලී පවුලේ" සෙවනැල්ලෙන් මිදීමක් ලෙස දැක්විය හැකි බවයි.
+
+එහෙත් වර්තමාන අගමැතිවරයා එරට කැබිනට් මණ්ඩලයේ ඡ්‍යේෂ්ඨ අමාත්‍යවරයෙක් ලෙස කටයුතු කිරීමට නියමිතය.
+
+අග්‍රාමාත්‍යවරයා ලෙස සිය අවසන් මාධ්‍ය හමුවට සති අන්තයේ මුහුණදුන් ලී, තමාට දුන් සහාය සම්බන්ධයෙන් සිංගප්පුරු වැසියන්ට සිය ප්‍රණාමය පුද කළේය.
+
+...
+
+[Data](articles/05ac7b11.json)
+
+---
 
 ### Immigration and Emigration officials fail to attend COPF meeting
 
@@ -1844,21 +1884,29 @@ The cost of the construction of the new studies and administration building is R
 
 ---
 
-### මේ වසරේ මේ දක්වා ලාදුරු රෝගීන් 1500ක්
+### 1500 leprosy patients this year
 
 *2024-05-14 20:03:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-ලාදුරු-රෝගීන්-1500ක්/11-409637) · `si`
 
-මෙම වසරේ මේ දක්වා ලාදුරු රෝගීන් 1500 ක් පමණ වාර්තා වී ඇති බවත්,  එසේම වර්ෂයේ පළමු කාර්තුවේ රෝගීන් වාර්තාවීමේ අඩුවක් දැකගන්නට ලැබෙන බවත් සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා සඳහන් කළේය.
+This year, 1500 leprosy patients were reported, highlighting the need for effective treatments and public awareness campaigns. Measures like the A2P Project aim to combat the disease by providing accurate information and fostering a supportive community online.
 
-රෝගය මර්දනය සඳහා ගන්නා ලද විවිධ ක්‍රියාමාර්ග මීට හේතු වී ඇති බවද සඳහන් කළ ඒ මහතා රෝගය පිළිබඳ සැකසහිත විශාල රෝගීන් ප්‍රමාණයක් සායන සඳහා පැමිණි බව ද පැවැසීය.
+🟩
 
-ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ චර්ම රෝග විශේෂඥ වෛද්‍යවරුන් ක්‍රියාත්මක කරන සායන සහ රෝහල් සායන හරහා ලෝක සෞඛ්‍ය සංවිධානය අනුමත කරන ලද ගුණාත්මක ඉහළ ප්‍රතිකාර මාස 06 ක්, අවුරුද්දක් වශයෙන් ලබාගත හැකි බවත්, එම කාලය තුළ නිසි පරිදි ප්‍රතිකාර ලබාගැනීමෙන් රෝගය සම්පූර්ණයෙන්ම සුව කළ හැකි බවත්ය.
+According to the Ministry of Health, Dr. Palitha Mahipala said that about 1500 leprosy patients have been reported to date this year.
 
-මේ අතර ලාදුරු රෝගය සම්බන්ධව නිවැරදි තොරතුරු සමාජ මාධ්‍ය හරහා නව ක්‍රමවේද ඔස්සේ සමාජගත කිරිමට ජාතික ලාදුරු මර්දන ව්‍යාපාරය සහ එලායන්ස් ඩිවලෝප්මන්ට් ට්‍රස්ටි (ADT)  ආයතනය එක්ව A2P (ACT2PREVENT CAMPAIGN 2024) නමින් ව්‍යාපෘතියක් දියත් කිරීමේ සමාරම්භක වැඩසටහන සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා පදනම් ආයතනයේ දී ඊයේ (14දා) පැවැත්විණ.
+He said that the various measures taken for the repression of the disease have been caused by a large number of cases of cases arranged for clinics.
+
+He further stated that six months approved by the World Health Organization and the World Health Organization can be obtained for six months, a year, and proper treatment can be cured in the disease.
+
+Meanwhile, the inauguration of the National Latestal Movement to Reconciliation of the Right Information on Leprosy through Social Media(On the 14th) held.
+
+A2P Project is a program that operates the National Latestal Control Movement (Alliance Developed Trust) and ADt (Alliance Development Trust). The National Latestal Control Movement is the center of leprosy and the ADT is a non-governmental body.
 
 ...
 
 [Data](articles/a8193ae1.json)
+
+[Extended Data](ext_articles/a8193ae1.ext.json)
 
 ---
 
@@ -2171,55 +2219,5 @@ Young fast bowler Tancim Hasan Sakip has been included in the squad in two match
 [Data](articles/c0ff207a.json)
 
 [Extended Data](ext_articles/c0ff207a.ext.json)
-
----
-
-### The country needs a new agricultural business instead of traditional plantation industry - President
-
-*2024-05-14 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183555) · `ta`
-
-President Ranil Wickremesinghe is focusing on developing a new agricultural business to modernize Sri Lanka's economy, moving away from the traditional plantation industry. This initiative aims to lift restrictions between corporations, introduce technical management in the plantation sector, and enhance educational opportunities for youth in agriculture. The new Education and Administrative Building of the National Estate Management Institute, costing 750 million rupees, is part of this effort, featuring research facilities, lecture halls, and vocational centers. The President emphasizes the importance of agriculture in eradicating rural poverty and meeting the food needs of a growing population, aiming to transform Sri Lanka's economy into an export economy.
-
-🟩
-
-President Ranil Wickremesinghe said he was working to create a new agricultural business in the country instead of the traditional plantation industry and bring the country economically forward.
-
-The President said the ban would be lifted between corporations involved through the new law and would introduce a new technical management in the plantation sector.
-
-President Ranil Wickremesinghe made this statement while addressing the opening of the new Education and Administrative Building of the National Estate Management Institute on Tuesday morning.
-
-The National Estate Management Organization has established the establishment of new skills for the plantation department and to expand the opportunities of higher education for the youth.
-
-Research Cases, Lecture Halls, Computer Laboratory and Vocational Advisory Centers for Graduate Students are scheduled to be established here and the use of AI and GIS technology is to be established here.
-
-...
-
-[Data](articles/ffc9693b.json)
-
-[Extended Data](ext_articles/ffc9693b.ext.json)
-
----
-
-### Is it a law problem with the mujibur parliament?
-
-*2024-05-14 19:04:38* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්-පාර්ලිමේන්තුයට-යළි-ඒම-නීති-ගැටළුවක්-/11-409632) · `si`
-
-Janaka Wakkumbura, Minister of Prime Minister and Public Administration, highlighted a legal issue regarding Mujibar Rahman's eligibility for the Colombo Observation due to his swearing-in as an MP. Dinesh Gunawardena, Minister of Home Affairs, instructed officials to address this. Despite Wakkumbura's inability to demonstrate Parliamentary seat eligibility, Rahman is a mayoral candidate. The public minister expressed concern over this precedent under existing election law, which prohibits MPs from attending Divisional Coordinating Committees.
-
-🟩
-
-Minister of Prime Minister and Public Administration of Government Minister Janaka Wakkumbura that Mujibar Rahman should see the legal issue of the Colombo Observation due to the swearing in of the legal issue in the Member of Parliament.Minister of Home Affairs, Provincial Councils and Local Government Dinesh Gunawardena instructed officials of the Ministry yesterday (13).
-
-Hon. Janaka Wakkumbura and Minister of Public Administration and Minister of Public Administration Hon. Janaka Wakkumbura and Home Affairs Hon.The notice was made in the Ministry of Advisory Committee on the Ministry.
-
-Although State Minister Janaka Wakkumbura has not been able to take the demonstration of the Parliamentary seat, Mujibar Rahuman's name is a mayoral candidate.
-
-According to the existing election law, the MPs will be presenting that a Member of Parliament will not attend any Divisional Coordinating Committee.. The public minister pointed out that this is a bad precedent.
-
-◼️
-
-[Data](articles/d8380a4a.json)
-
-[Extended Data](ext_articles/d8380a4a.ext.json)
 
 ---

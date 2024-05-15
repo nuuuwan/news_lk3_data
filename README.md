@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 08:18:44**
+As of **2024-05-15 07:45:53**
 
 ## Newspaper Stats
 
-*Scraped **24,123** Articles*
+*Scraped **24,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,119 +14,37 @@ dbsjeyarajcom | 248
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
-dailyftlk | 1,415
+dailyftlk | 1,414
 adalk | 2,057
-adaderanalk | 2,799
-tamilmirrorlk | 2,827
-virakesarilk | 3,621
+adaderanalk | 2,798
+tamilmirrorlk | 2,826
+virakesarilk | 3,619
 dailymirrorlk | 3,790
-adaderanasinhalalk | 3,855
+adaderanasinhalalk | 3,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,105 (99.9%) of 24,123 articles have been extended.
+24,090 (99.9%) of 24,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### මහනුවර ඇසළ පෙරහැරට බාධාවක්
-
-*2024-05-15 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196636) · `si`
-
-මහනුවර ඇසළ පෙරහර සමයේම සබරගමුව මහ සමන් දේවාලයේ පෙරහැර යෙදීම හේතුවෙන් අලි ඇතුන් සහභාගී කරවීමේ ගැටලුවක් මතුව ඇති බව හීලෑ අලි ඇතුන් හිමිකරුවන්ගේ සංගමය පවසයි.
-
-එහි ලේකම් දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේ, පිංනවල අලි අනාථාගාරයේ සිටින අතිරික්ත පිරිමි සතුන් රජයේ අයිතිය යටතේ පෙරහැර සඳහා යොදා ගැනීමට සැලසුම් කර ඇති බවය.
-
-"නැකැත් එකම කාලයේ යෙදීම නිසා පෙරහැරවල් දෙකට ම විශේෂයෙන් මහනුවර පෙරහැරේ අලි ඇතුන්ගෙන් කොටසක් සහභාගී වීම හේතුවෙන් අලි ඇතුන් සොයාගැනීමේ දුෂ්කරතාවයක් මහනුවර දළදා මාළිගාවට වගේම සිව් මහා දේවාලවලට අද මුහුණදීමට සිදුව තිබේ. විශේෂයෙන්ම මේ තත්ත්වය පිළිබඳව රජයේ වගකිව යුතු පිරිසට වරින් වර හීලෑ අලි ඇතුන් සංගමය විසින් දැනුවත් කිරීම් කළා. ජනාධිපතිවරයාවත් දැනුවත් කරලා තියෙනවා."
-
-ශ්‍රී දළදා මාලිගාවේ දියවඩන නිළමේ ප්‍රදීප් නීලංග දෑල මහතාගේ ඉල්ලීම පදිරි අත්ගොව්වන් පුහුණු කිරීමේ වැඩසටහනක් "නයිටා" ආයතනය මඟින් සූදානම් කර ඇති බව ද දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/9f5fbe05.json)
-
----
-
-### Showery conditions expected to continue further
-
-*2024-05-15 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99222/showery-conditions-expected-to-continue-further) · `en`
-
-Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to continue further, the Meteorology Department said.
-
-Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
-
-Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
-
-Showers may occur in Western and Southern coastal areas during the morning too, it said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/a307c6dd.json)
-
----
-
-### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
-
-*2024-05-15 07:36:25* · [`dailyftlk`](https://www.ft.lk/business/KSPA-raises-benchmark-for-industry-sustainability-with-Carbon-Neutrality-Certification/34-761830) · `en`
-
-From left:  Anunine Holdings Sustainability Analyst Sithara Sewwandi, KSPA Packaging/KSPA Accessories CEO Nalin Anthony, Sri Lanka Climate Fund (SLCF) Chairman and  Environment Ministry Secretary  Prabhath Chandrakirthi, Anunine Holdings Group Director Sonali Abeyratne and Group Director  Saveen Abeyratne
-
-KSPA Packaging, an Anunine Holdings company, the nation’s leading export packaging provider and manufacturer, has achieved a significant milestone recently, by being awarded the Carbon Neutral Certification, which was certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka.
-
-"Our journey towards carbon neutrality and sustainability is a testament to our unwavering commitment to environmental stewardship and innovation, as leaders in the packaging industry.
-
-We recognize the importance of minimizing our environmental impact and are dedicated to driving positive change,” stated Anunine Holdings Chairman Deshamanya Anurath Abeyratne.
-
-...
-
-[Data](articles/ec833284.json)
-
----
-
-### වෘත්තීය සමිති ක්‍රියාමාර්ග තීව්‍ර කිරීමට විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගෙන් තීරණයක්
-
-*2024-05-15 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196635) · `si`
-
-සිය ඉල්ලීම් ලබාදීම ප්‍රමාද කිරීම හේතුවෙන් සිය වෘත්තීය ක්‍රියාමාර්ග තවදුරටත් තීව්‍ර කිරීමට තීරණය කළ බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
-
-එහි  සම සභාපති ධම්මික ප්‍රියන්ත මහතා පවසුවේ, විශ්වවිද්‍යාල තුළ ස්වේච්ඡාවෙන් කටයුතු කරන සියලුම සේවාවලින් ඉවත් වීමේ ඒකමතික තීරණයකට එළඹී ඇති බවය.
-
-"විශේෂයෙන්ම ජලය හා විදුලිය සැපයීම අපි සම්පූර්ණයෙන්ම නතර කරනවා. ඒ වගේම අන්තර්ජාල පහසුකම් සැපයීමෙන් සම්පූර්ණයෙන්ම ඉවත් වෙනවා. මේ බිඳ වැටීම් එක්ක විශ්වවිද්‍යාල පද්ධතියේ බොහෝ දේවල් නතර වේවි. ඒ වගේම විශ්වවිද්‍යාල පද්ධතිය තුළ රසායනාගාර මට්ටමේ පවත්වාගෙන යන සාම්පල විනාශ වීම සම්බන්ධයෙන් වගකීම සම්පුර්ණයෙන්ම රජයේ බලධාරීන් දැරිය යුතුයි. මෙවැනි අපරාධයක් විශ්වවිද්‍යාල පද්ධතියට සිදුවන්නේ, මේ රජයේ ක්‍රියාකලාපය නිසයි. තවදුරටත් පාලනාධිකාරීය මඟහරිනවා නම් අපි ස්වෙච්ඡාවෙන් විශ්වවිද්‍යාලයේ පවත්වාගෙන යන සංවේදී කටයුතු ගැනත් නැවත හිතන්න."
-
-විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිසමේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා සඳහන් කළේ, ළමුන්ගේ අධ්‍යාපනය පිළිබඳ අවධානය යොමුකර සේවයට පැමිණෙන ලෙස සියලු සේවකයින්ගෙන් ඉල්ලා සිටින බවය.
-
-...
-
-[Data](articles/8ad950cc.json)
-
----
-
-### It is revealed that the law contradicts eight vaccines
+### එන්නත් 8ක් සුපරීක්ෂණ කාලයකින් තොරව ලියාපදිංචි කිරීම නීතියට පටහැනි බව හෙළිවෙයි
 
 *2024-05-15 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196634) · `si`
 
-Human rights activists demand the National Drug Regulatory Authority terminate the registration of eight vaccines due to concerns over safety standards. The authority had previously approved these vaccines for use after a shorter than usual six-month review period. This decision is now under scrutiny, with legal proceedings highlighting discrepancies in the regulatory process.
+නිර්වින්දන කටයුතු මෙන්ම මොළය ආශ්‍රිත රෝගවලට ප්‍රතිකාර කිරීම සඳහා භාවිතා කරන ශ්‍රී ලාංකික සමාගමක් විසින් නිෂ්පාදනය කළ එන්නත් වර්ග 08ක් මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බව  ඊයේ (14) අභියාචනාධිකරණය හමුවේ අවධාරණය කෙරුණි.
 
-🟩
+අදාළ පුද්ගලික සමාගම විසින් නිෂ්පාදනය කළ එම එන්නත් වර්ග 8 මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා මානව හිමිකම් ක්‍රියාකාරීන් දෙදෙනෙකු වන ප්‍රණීතා. එන්. වර්ණකුලසූරිය සහ දෙව්ෂාන්. පී. බුද්ධරගේ යන අය විසින් ගොනුකළ පෙත්සමක් විභාගයට ගත් අවස්ථාවේදී පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි නීතීඥ නිල් ශාන්ත සිරිමාන්න මහතා මේ බව අවධාරණය කළේය.
 
-The National Drug Regulatory Authority was emphasized yesterday (14) that the decision of the National Drug Regulatory Authority was completely contrary to the registrations of an anesthesia.
-
-Two human rights activists, two human rights activists demanding a termination order to register the National Drug Regulatory Authority to register with 8 months of vaccines. N. Warnakulasuriya and Dayshanan. P. Attorney-at-Law Niladhari Sirimanna, who appeared on the petitioner party, stressed the petition filed by Buddhira's petition.
-
-The trial was held in the courtship of the Court of Appeal Nissanka Bandula Karunaratne and Shahi Mahendran, Chairman of the Court of Appeal.
-
-The lawyer of the petitioner before the courts, the National Drug Regulatory Authority stated that it should be subject to six months before a six-month monitoring before it is released to the market.
+අභියාචනාධීකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම නඩු විභාගය පැවැත්වුණි.
 
 ...
 
 [Data](articles/d81d5afc.json)
-
-[Extended Data](ext_articles/d81d5afc.ext.json)
 
 ---
 
@@ -219,8 +137,6 @@ The final draft of the law titled ‘Non-governmental Organizations (Registratio
 ...
 
 [Data](articles/130a9a2a.json)
-
-[Extended Data](ext_articles/130a9a2a.ext.json)
 
 ---
 
@@ -402,8 +318,6 @@ The visiting United States’ Assistant Secretary Bureau of South and Central As
 
 [Data](articles/0ce9d5ce.json)
 
-[Extended Data](ext_articles/0ce9d5ce.ext.json)
-
 ---
 
 ### YJA calls for investigation on Sampur arrests
@@ -419,8 +333,6 @@ They said the police have clearly neglected these recommendations and have said 
 ...
 
 [Data](articles/94ef6d4d.json)
-
-[Extended Data](ext_articles/94ef6d4d.ext.json)
 
 ---
 
@@ -440,8 +352,6 @@ The Bribery also sought the permission of the Court to record the statements fro
 
 [Data](articles/97dd5641.json)
 
-[Extended Data](ext_articles/97dd5641.ext.json)
-
 ---
 
 ### Mumbai becomes Asia’s Billionaires Hub
@@ -455,8 +365,6 @@ Mumbai now boasts 92 billionaires, edging past Beijing's count of 91, as reporte
 ...
 
 [Data](articles/b3255992.json)
-
-[Extended Data](ext_articles/b3255992.ext.json)
 
 ---
 
@@ -476,8 +384,6 @@ The decision involves the cancellation of the existing Information and Communica
 
 [Data](articles/fb4bb6ef.json)
 
-[Extended Data](ext_articles/fb4bb6ef.ext.json)
-
 ---
 
 ### Govt. allows power wheeling facility for renewable energy projects
@@ -494,8 +400,6 @@ Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said under the a
 
 [Data](articles/0e92a3c8.json)
 
-[Extended Data](ext_articles/0e92a3c8.ext.json)
-
 ---
 
 ### Pathfinder Foundation hosts delegation from Geneva’s International Trade Centre
@@ -511,8 +415,6 @@ The delegation also included Associate Project Adviser Camille Roy and Associate
 ...
 
 [Data](articles/da1eeea6.json)
-
-[Extended Data](ext_articles/da1eeea6.ext.json)
 
 ---
 
@@ -534,8 +436,6 @@ He said that the matter was taken into consideration under ‘other category’ 
 
 [Data](articles/ee1b4d68.json)
 
-[Extended Data](ext_articles/ee1b4d68.ext.json)
-
 ---
 
 ### Dr. Fernandopulle presents two private member bills to push for more women representation in Parliament
@@ -553,8 +453,6 @@ Fernandopulle told journalists that despite her requests to political parties to
 ◼️
 
 [Data](articles/6d4f9950.json)
-
-[Extended Data](ext_articles/6d4f9950.ext.json)
 
 ---
 
@@ -574,8 +472,6 @@ The problems of the development projects and the methods of expediting those pro
 
 [Data](articles/670df84f.json)
 
-[Extended Data](ext_articles/670df84f.ext.json)
-
 ---
 
 ### Cabinet green lights revision of land grant methodology for war heroes
@@ -589,8 +485,6 @@ The Cabinet of Ministers on Monday gave its green light to revise the existing m
 ...
 
 [Data](articles/7c1e5b30.json)
-
-[Extended Data](ext_articles/7c1e5b30.ext.json)
 
 ---
 
@@ -610,8 +504,6 @@ However Police said they will make a decision on that after consulting the inves
 
 [Data](articles/debed79b.json)
 
-[Extended Data](ext_articles/debed79b.ext.json)
-
 ---
 
 ### Duminda seeks injunction against SLFP Chair Wijeyadasa
@@ -627,8 +519,6 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 ...
 
 [Data](articles/b1306118.json)
-
-[Extended Data](ext_articles/b1306118.ext.json)
 
 ---
 
@@ -647,34 +537,6 @@ China immediately promised retaliation. Its Ministry of Commerce said Beijing wa
 ...
 
 [Data](articles/1e05d07e.json)
-
----
-
-### திரைக்கதை மன்னன் கே. பாக்யராஜ் தொடங்கி வைத்த 'குற்றம் புதிது'
-
-*2024-05-15 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183567) · `ta`
-
-புதுமுக நாயகன் தருண் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'குற்றம் புதிது' எனும் திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது. அப்போது தமிழ் திரையுலகின் மூத்த இயக்குநர்களில் ஒருவரான கே. பாக்யராஜ் சிறப்பு அதிதியாக பங்கு பற்றி படக் குழுவினருக்கு வாழ்த்து தெரிவித்ததுடன் புதுமுக நாயகனான தருணை அறிமுகப்படுத்தினார்.
-
-அறிமுக இயக்குநர் ரஜித் இயக்கத்தில் உருவாகும் 'குற்றம் புதிது' எனும் திரைப்படத்தில் தருண், செஷ்வித்தா, மதுசூதன் ராவ், ராமச்சந்திரன், 'பாய்ஸ்' ராஜன், பிரியதர்ஷினி, ஸ்ரீநிதி, சங்கீதா, தினேஷ் செல்லையா, ஸ்ரீகாந்த், மீரா ராஜ், 'டார்லிங்' நிவேதா உள்ளிட்ட பலர் நடிக்கிறார்கள். ஜேசன் வில்லியம்ஸ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு கரண் பி. கிருபா இசையமைக்கிறார். திரில்லர் வகையிலான திரைப்படமாக தயாராகும் இப்படத்தை ஜி கே ஆர் சினி ஆர்ட்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் டொக்டர் எஸ். கார்த்திகேயன் மற்றும் தருண் கார்த்திகேயன் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
-
-...
-
-[Data](articles/4c297136.json)
-
----
-
-### இஸ்ரேலிய, டெல் ஹாஷோமர் இராணுவ தளத்தில் ஏற்பட்ட பாரிய தீ விபத்து
-
-*2024-05-15 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183566) · `ta`
-
-இஸ்ரேலிய, ரமாத் கானில் உள்ள டெல் ஹாஷோமர் ராணுவ தளத்தில் உள்ள கிடங்கு வளாகத்தில் பாரிய தீ விபத்தொன்று ஏற்பட்டுள்ளது.
-
-குறித்த தீயை அணைக்கும் பணியில் தீயணைப்பு வீரர்கள் ஈடுபட்டுள்ளனர். 28 தீயணைப்பு குழுக்கள் சம்பவ இடத்திற்குச் சென்றதாக தீயணைப்பு மற்றும் மீட்புப் பணிகள் கூறுகின்றன.
-
-◼️
-
-[Data](articles/4c1d36b6.json)
 
 ---
 
@@ -791,22 +653,6 @@ SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was
 ...
 
 [Data](articles/1b5c3513.json)
-
----
-
-### ’புதிய விவசாய வர்த்தகத்துறை அவசியம்’
-
-*2024-05-15 00:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-விவசாய-வர்த்தகத்துறை-அவசியம்/175-337318) · `ta`
-
-பாரம்பரிய பெருந்தோட்டக் கைத்தொழிலுக்குப் பதிலாக புதிய விவசாய வர்த்தகத் துறையொன்றை நாட்டில் உருவாக்கி, நாட்டை பொருளாதார ரீதியாக முன்னோக்கி கொண்டு செல்வதற்கு நாம் செயற்பட்டு வருகின்றோம் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-அதுருகிரிய தேசிய தோட்ட முகாமைத்துவ நிறுவனத்தின் புதிய கல்வி மற்றும் நிர்வாக கட்டிடத்தை நேற்று காலை திறந்து வைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
-
-தற்போது விவசாயத்தை பலப்படுத்த வேண்டியது அவசியமாகிறது. அதனால் நாம் தோட்டங்களை விவசாய வர்த்தகமாக மாற்றி உற்பத்தியை பலப்படுத்த வேண்டும். தேயிலை மற்றும் இறப்பர் செய்கையை ஊக்குவிக்க வேண்டும். அதற்கான சந்தை வாய்ப்புக்களைப் பெற்றுக்கொள்ள வேண்டும். இன்று எமது தேயிலை தொழில் பன்முகப்படுத்தப்பட்டுள்ளது. பல நிறுவனங்கள் அதனை சாதகமாக செய்கின்றன.
-
-...
-
-[Data](articles/fedec7f9.json)
 
 ---
 
@@ -2147,5 +1993,171 @@ To cause such disruption and rejection is a violation of basic laws. At the same
 [Data](articles/3f8d7179.json)
 
 [Extended Data](ext_articles/3f8d7179.ext.json)
+
+---
+
+### Decision on the ban on the LTTE
+
+*2024-05-14 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196622) · `si`
+
+The Indian government has extended the ban on the LTTE for 5 more years, citing their involvement in activities detrimental to the country's unity and security. Despite the LTTE's defeat in Sri Lanka in 2009, it continues to advocate for separatism, particularly in Tamil Nadu, India.
+
+🟩
+
+The Indian government has decided to extend the ban on the LTTE by another 5 years.
+
+The Ministry of Home Affairs has issued a statement.
+
+The decision states that the decision has been taken as their opinion that the LTTE terrorists engage in prejudicial activities of the country and protection are engaged in prejudice to the unity and security of the country.
+
+Foreign media reports that the LTTE has further abandoned the concept of 'Eelam' with the defeat of the LTTE in Sri Lanka in May 2009.
+
+The announcement states that the LTTE is also engaged in collaboration and operating for the LTTE's concept for the Eelam.
+
+The LTTE continues to promote its separatist opinion among the people in India as well as Tamil Nadu in India, especially Tamil Nadu.
+
+◼️
+
+[Data](articles/547d3163.json)
+
+[Extended Data](ext_articles/547d3163.ext.json)
+
+---
+
+### Up in the sky...
+
+*2024-05-14 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Up-in-the-sky/110-282585) · `en`
+
+The Base Jump event from the Colombo Lotus Tower took place for third day today. A total of 35 International Base Jumpers exhibited their adrenaline-fueled skills. The event was launched on Sunday (12). Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/a355afe8.json)
+
+[Extended Data](ext_articles/a355afe8.ext.json)
+
+---
+
+### India extended the ban on the LTTE
+
+*2024-05-14 17:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடையை-நீடித்தது-இந்தியா/175-337303) · `ta`
+
+India has extended the ban on the LTTE for five more years, citing ongoing efforts to foster separatism and expand support in Tamil Nadu. The Home Ministry asserts that the LTTE, despite its defeat in Sri Lanka in 2009, continues to threaten national integrity and security by secretly raising funds and advocating for an independent Tamil state.
+
+🟩
+
+India has extended the ban on the LTTE for another five years as it continues to develop separatism among the people and improves the LTTE's support base in India, especially in Tamil Nadu.
+
+The Home Ministry said in a statement that the central government considers the LTTE to still engage in adverse activities for the integrity and security of the country.
+
+Even after the defeat in Sri Lanka in May 2009, the LTTE has not abandoned the notion of 'Eelam' (independent country for Tamils) and has been working secretly for financial raising and Eelam.
+
+Propaganda and the rest of the LTTE leaders or members have begun to reunite scattered activists and raise the organization at home and internationally.
+
+“The LTTE -backed groups/components are continuing to develop separatism among the masses and promote the LTTE's support base in India and especially Tamil Nadu.
+
+This will eventually have a strong influence on India's regional integrity, ”the announcement said.
+
+◼️
+
+[Data](articles/1739c817.json)
+
+[Extended Data](ext_articles/1739c817.ext.json)
+
+---
+
+### Sri Lanka to present Economic Transformation Bill
+
+*2024-05-14 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-economic-transformation-bill-163015/) · `en`
+
+ECONOMYNEXT – A proposed Economic Transformation bill will be gazetted shortly, cabinet spokesman Minister Bandula Gunawardena said.
+
+“The Legal Draftsmen has prepared the formal draft bill, including the revisions suggested by the Attorney General, which will be published in the government gazette notification.”
+
+It will subsequently be presented to the Parliament for its concurrence.
+
+The bill will establish an economic commission, investment zones and international trade office, Gunawardena said earlier.
+
+“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena has said.
+
+The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/May14/2024)
+
+Sri Lanka making new economic laws to embed structural reforms
+
+Sri Lanka economic transformation bill to establish commission, investment zones
+
+◼️
+
+[Data](articles/e7851dd1.json)
+
+[Extended Data](ext_articles/e7851dd1.ext.json)
+
+---
+
+### Sasikumar - Suri Alliance
+
+*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183545) · `ta`
+
+Sasikumar and Suri, titled 'Village Nayakars', announced in 'Garuda' film release. Directed by Durai Senthil Kumar, with music by Yuvan Shankar Raja. Produced by Lark Studios and Cross Root Film Company. Unni Mukundan stars, with Suri as the hero and villain.
+
+🟩
+
+Sasikumar and Suri, who belonged to the title of 'Village Nayakars', has been officially announced on the release date of the film 'Garuda', which has been released and a special video has been released.
+
+Director r. S.. Sasikumar, Suri, Unni Mukundan, Revathi Sharma, Shivada, Roshini Haripriyan, Samudrakani, Maim Gopi, Dushyant Jayaprakash, directed by Durai Senthil Kumar.. Arthur A. The film, which has been recorded by Wilson, has composed the film Yuvan Shankar Raja.
+
+The film is written by director Vijayamaran on behalf of Lark Studios.. Kumar has produced. The film is being offered by Victory Maran's Cross Root Film Company and 'Five Star' Senthil.
+
+The film has been announced on May 31 at the film House.. As well as the release of Malayalam actor Unni Mukundan in the special video, Suri is the villain and Suri is the hero of revenge.. Expectations among fans for the film have increased.
+
+◼️
+
+[Data](articles/07a0ff2a.json)
+
+[Extended Data](ext_articles/07a0ff2a.ext.json)
+
+---
+
+### Modern thermal radiation therapy that relieves varicose nerve impact
+
+*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183546) · `ta`
+
+Modern thermal radiation therapy, like Endovenous Laser Therapy, offers relief for varicose nerve issues, affecting many who work long hours. This treatment involves a small procedure to heat and eliminate the infection in the affected nerve area, improving blood flow and reducing discomfort. It's a welcome solution for patients, offering quick recovery and minimal downtime.
+
+🟩
+
+Many of us continue to work for more than five to eight hours a day. Most of them have a varicose nerve infection in their ankles and foot.
+
+If this is easy to describe, the blood is pumped from the heart of all parts of our body with a balanced force.
+
+Because of this, the blood that spreads throughout the body comes back to the heart. The blood vessel system is naturally in our body that we have one path to the body from the heart and another path to the heart from the other part of the body.
+
+In this case, the blood that runs up to the quarter of the area is contaminated, and when they are weak, the contaminated blood is stagnant when they are weak, or when they are weak, or weak, due to various disturbances or due to various disturbances or exclusive blood vessels.. This causes the skin in the quarter and ankle area in the end. It also makes the nerves and causes discomfort and sickness.
+
+...
+
+[Data](articles/31b575e0.json)
+
+[Extended Data](ext_articles/31b575e0.ext.json)
+
+---
+
+### Landslide warning
+
+*2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
+
+The National Building Research Organization has issued landslide warnings for Badulla, Kandy, Kegalle, and Ratnapura districts due to heavy rains, advising caution.
+
+🟩
+
+The National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
+
+He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ratnapura districts.
+
+◼️
+
+[Data](articles/16e338a5.json)
+
+[Extended Data](ext_articles/16e338a5.ext.json)
 
 ---

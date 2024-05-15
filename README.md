@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 03:52:22**
+As of **2024-05-16 04:05:14**
 
 ## Newspaper Stats
 
-*Scraped **24,319** Articles*
+*Scraped **24,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,430
+dailyftlk | 1,436
 adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
@@ -26,11 +26,115 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,319 (100.0%) of 24,319 articles have been extended.
+24,319 (100.0%) of 24,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Top Chinese garment delegation explores collaboration opportunities in Sri Lanka
+
+*2024-05-16 03:47:31* · [`dailyftlk`](https://www.ft.lk/business/Top-Chinese-garment-delegation-explores-collaboration-opportunities-in-Sri-Lanka/34-761866) · `en`
+
+A high-profile delegation comprising 30 members of the China National Garment Association (CNGA) embarked on a mission to explore business prospects and strengthen ties with Sri Lanka’s apparel industry.
+
+Led by Ningbo Garment Association Executive Vice President Xie Qing and Vice President/Secretary General Mao Yihua, the delegation engaged in a series of strategic meetings and engagements aimed at fostering collaboration and investment opportunities.
+
+The CNGA, a prestigious industry association representing over 1,400 major members and prominent original apparel brands in China, seeks to enhance existing trade relations and forge new partnerships in Sri Lanka’s vibrant apparel sector.
+
+...
+
+[Data](articles/bf207252.json)
+
+---
+
+### Fairway Colombo wins ‘Best City Business Hotel in Sri Lanka’ Award
+
+*2024-05-16 03:45:23* · [`dailyftlk`](https://www.ft.lk/business/Fairway-Colombo-wins-Best-City-Business-Hotel-in-Sri-Lanka-Award/34-761865) · `en`
+
+Fairway Colombo General Manager Saman Perera (centre) with the ‘Best City Business Hotel in Sri Lanka’ award received from Global Brand Magazine at a ceremony held at The Athenee Hotel Bangkok, Thailand
+
+Fairway Colombo, nestled in the vibrant heart of Sri Lanka’s capital city, said it has secured the coveted title of ‘Best City Business Hotel in Sri Lanka’ at the prestigious Global Brand Magazine Awards held at The Athenee Hotel Bangkok, Thailand on 4 May.
+
+It said this accolade stands as a testament to Fairway Colombo’s unwavering dedication to providing unparalleled service and luxury within Colombo’s dynamic business landscape.
+
+Global Brand Magazine, renowned for celebrating excellence across diverse industries worldwide, bestowed this honour upon Fairway Colombo, recognising the hotel’s commitment to delivering exceptional experiences to business travellers and visitors alike.
+
+...
+
+[Data](articles/b1b4e8a4.json)
+
+---
+
+### Koelnmesse explores opportunities in food and beverage industry in Sri Lanka
+
+*2024-05-16 03:43:05* · [`dailyftlk`](https://www.ft.lk/business/Koelnmesse-explores-opportunities-in-food-and-beverage-industry-in-Sri-Lanka/34-761864) · `en`
+
+From left : Koelnmesse India Group Director Sameer Mithia, Koelnmesse India Managing Director Milind Dixit, Delegation of German Industry and Commerce (AHK) in Sri Lanka Chief Delegate Marie Antonia von Schönburg, Sri Lanka Export Development Board Chairman Dr. Kingsley Bernard and AHK Head of Corporate Affairs and Export Promotions Malintha Gajanayake - Pix by Upul Abayasekara
+
+Some of the notable trade fairs hosted by Koelnmesse include Anuga for food and agriculture industry, Anuga FoodTec for agricultural technologies and Spoga+Gafa for the gardening and horticulture industry
+
+High ranking representatives from Koelnmesse India, a leading international trade fair and exhibition centre based in Cologne, Germany, visited Sri Lanka from 8 to 18 May.
+
+...
+
+[Data](articles/76faeabb.json)
+
+---
+
+### CIPM Sri Lanka’s National HR Conference on 5 and 6 June
+
+*2024-05-16 03:34:46* · [`dailyftlk`](https://www.ft.lk/business/CIPM-Sri-Lanka-s-National-HR-Conference-on-5-and-6-June/34-761863) · `en`
+
+The Chartered Institute of Personnel Management (CIPM) Sri Lanka has announced the return of its premier National HR Conference, NHRC 2024, on 5 and 6 June at the Monarch Imperial, Sri Jayewardenepura Kotte.
+
+Themed ‘Navigating the HR Horizon’ NHRC-2024 aims to tackle the pressing challenges and opportunities that are reshaping the future of human resources, particularly in the wake of the unprecedented convergence of pandemic aftershocks, economic turbulence, and evolving employee expectations.
+
+...
+
+[Data](articles/e110e5ab.json)
+
+---
+
+### Advocata conference on ’’Revitalising Economic Governance for Prosperity’’ on Saturday
+
+*2024-05-16 03:31:02* · [`dailyftlk`](https://www.ft.lk/business/Advocata-conference-on-Revitalising-Economic-Governance-for-Prosperity-on-Saturday/34-761862) · `en`
+
+Independent economic policy think-tank, the Advocata Institute will hold a conference titled “Charting the Course: Revitalizing Economic Governance for Prosperity” on Saturday 18 May at the Galle Face Hotel from 8:30 a.m. onwards.
+
+In an effort to address the ever-evolving landscape of global governance, the conference will draw an esteemed gathering of thought leaders from diverse backgrounds.
+
+It will serve as a platform to socialise the findings of the IMF Governance Diagnostics Assessment. Experts from various disciplines, including public administration, business, academia, civic society groups and non-profits, will engage in critical discussions surrounding the challenges and opportunities inherent in contemporary governance frameworks.
+
+Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, Sarath Jayamanne PC, Murtaza Jafferjee, Dr. Radika Coomaraswamy, Justice Aluwihare, Dr. Sharmini Cooray, Prof. Rohan Samarajiva are among the key speakers.
+
+...
+
+[Data](articles/2bcb5cee.json)
+
+---
+
+### Sumanthiran denounces Western hypocrisy on Palestine issue
+
+*2024-05-16 03:24:36* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-denounces-Western-hypocrisy-on-Palestine-issue/56-761861) · `en`
+
+Stresses importance of holding all parties involved in conflicts accountable, regardless of political affiliations or power dynamics
+
+Challenges narrative of some Israel supporters, advocating for compassion and fairness towards all inhabitants
+
+Links commemoration of Mullivaikkal massacre in Sri Lanka to Palestine justice struggle
+
+Urges SL to fulfil its commitment to justice and accountability, both domestically and internationally
+
+Tamil National Alliance (TNA) Jaffna district MP M.A Sumanthiran on Tuesday denounced what he termed the “blatant hypocrisy” of Western nations and accused them of turning a blind eye to Israel’s actions despite their professed commitment to human rights.
+
+Addressing the Adjournment debate on the Palestine issue Sumanthiran underscored the urgent need for international scrutiny, drawing stark parallels between the conflict in Palestine and Sri Lanka’s own tumultuous history of violence.
+
+...
+
+[Data](articles/c3c8492f.json)
+
+---
 
 ### HRCSL calls for criminal investigation into 2024 alleged enforced disappearance
 
@@ -1060,13 +1164,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
-
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2145,155 +2249,5 @@ The Vavuniya Police, who are conducting investigations into the matter, have bee
 [Data](articles/8c0908ca.json)
 
 [Extended Data](ext_articles/8c0908ca.ext.json)
-
----
-
-### Sri Lanka must modernise agriculture, reorient towards growing export markets: president
-
-*2024-05-15 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-modernise-agriculture-reorient-towards-growing-export-markets-president-163158/) · `en`
-
-ECONOMYNEXT — As Sri Lanka’s population declines, the island nation must modernise its agriculture and orient it towards emerging export markets whose own populations are on the rise, President Ranil Wickremesinghe said.
-
-Speaking at an event, Wickremesinghe said a modernised agriculture is the means with Sri Lanka can become an export economy and lift rural communities out of poverty.
-
-“Agriculture is what stabilises the economy. We can’t keep living on loans. That’s why we have decided to turn this country into an export economy. The cabinet on Monday approved the draft legislations needed for an export economy.
-
-“Now we’re trying to modernise agriculture and go for an export industry. That needs to be done. Agriculture is the way to eliminate poverty in our villages. For this, we need a modern agriculture,” he said.
-
-...
-
-[Data](articles/576cc849.json)
-
-[Extended Data](ext_articles/576cc849.ext.json)
-
----
-
-### Sri Lanka to investigate those who refused government free rice: State Minister
-
-*2024-05-15 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-investigate-those-who-refused-government-free-rice-state-minister-163157/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister for Finance has called for a report to identify people who did not collect the free rice given by the government, hoping this would help identify fraudulent beneficiaries of the Aswesuma welfare scheme.
-
-“Since there is a need to go to those places to collect the rice, if any party is fraudulently obtaining Aswesuma benefits, they may not have come forward to get it for fear of revealing their identity,” Shehan Semasinghe said in a statement.
-
-Free rice was given to the poorest families in the country, which include Aswesuma beneficiaries, in April.
-
-Semasinghe said the government has called for a report on the people who are currently receiving Aswesuma benefits but did not come to get free rice. The relevant report is being prepared by the Development Finance Department of the Ministry of Finance.
-
-The minister said that he will receive the report by next week.
-
-...
-
-[Data](articles/77cf7744.json)
-
-[Extended Data](ext_articles/77cf7744.ext.json)
-
----
-
-### Sri Lanka’s Supreme Court officials learn high tech system in India’s apex court
-
-*2024-05-15 14:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-supreme-court-officials-learn-high-tech-system-in-indias-apex-court-163159/) · `en`
-
-ECONOMYNEXT – Selected Sri Lankan Supreme Court officials underwent a four-day training organized by India’s apex court on technological and digital transformation of the Court including e-Courts project, Indian High Commission in Colombo said.
-
-A delegation consisting of 15 Sri Lanka Supreme Court registry officials completed the training program from 9-13 May at the Supreme Court of India, it said.
-
-“During the programme, the delegates were introduced to the technological and digital transformation of the Supreme Court of India including e-Courts project, Library, Court processes such as filing, listing, scrutiny, scanning and record keeping,” the High Commission said.
-
-“The Senior Registrars from the Registry explained to the delegates nuances of the same and demonstrated the systems with enhanced transparency, efficiency, and accessibility.”
-
-...
-
-[Data](articles/8d6ea260.json)
-
-[Extended Data](ext_articles/8d6ea260.ext.json)
-
----
-
-### The story of twins that came in the jungle
-
-*2024-05-15 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196649) · `si`
-
-In a remote jungle, a family of five lives in a tiny house surrounded by dense foliage. The father is disabled, making it hard for them to afford basic needs. Despite their hardships, they face life with resilience and hope.
-
-🟩
-
-Among many parents who are saddened without children, we have to be lucky Parent couple from Habarana Puwakpitiya.
-
-But we have seen how lucky have been severely affected today.
-
-Although the sons of three sons, who are a small daughter, is a difficult thing to bear the economy of these rumors.
-
-The little house is around a thick jungle, and they live on a tree.
-
-The father of the calves was disabled by the ground.
-
-However, children 'parents say that they have no possessions to provide the necessary facilities and protection.
-
-The mother of their children is very pleasantly urged by anyone to have a house for the defense of their four children.
-
-If these little chicks could be a refusal, it was a really great charity.
-
-◼️
-
-[Data](articles/d147d0e1.json)
-
-[Extended Data](ext_articles/d147d0e1.ext.json)
-
----
-
-### Is the marriage of a terrorist?Tears
-
-*2024-05-15 14:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தள்ளிப்-போகும்-பேரறிவாளன்-திருமணம்-கண்ணீர்-மல்கப்-பேசிய-அற்புதம்-அம்மாள்/175-337361) · `ta`
-
-A Tamil Nadu man spent 31 years fighting for his son's freedom, initially sentenced to death for a crime he didn't commit. Released in 2022, the father expresses mixed feelings about his son's release, highlighting the sacrifices made by his two daughters during his imprisonment. The son, now 52, plans to complete his education before considering marriage, prioritizing financial independence over immediate familial responsibilities.
-
-🟩
-
-There is no unknown in Tamil Nadu. He carried out a 31 -year legal struggle to rescue his son from prison.
-
-He stood firm to the end without getting tired at any stage and was released by his son through law.
-
-The terrorist was arrested in 1991 and imprisoned in Vellore jail. He was sentenced to death. But, his son is an innocent. The police called the investigation, saying that he was caught in the Rajiv murder case, and was amazing.
-
-His death sentence was then canceled in 2014. Subsequently, on May 18, 2022, the terrorist was released by the Supreme Court.
-
-Almost 2 years have passed the terrorist came out. Her mother interviewed a YouTube site on Mother's Day. In it, he shares the concerns of his son's future.
-
-I am not fully pleased with the release of the terrorist. He has to have a family that is. Only then will I attain full happiness. I am not happy because he is going out. '
-
-...
-
-[Data](articles/ee6e22ea.json)
-
-[Extended Data](ext_articles/ee6e22ea.ext.json)
-
----
-
-### In the context of the Ice Drug Production Center operating in Jaffna?- Shocking Information
-
-*2024-05-15 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183610) · `ta`
-
-A couple ran an Ice Drug Production Center in Jaffna, arrested after police found drugs in their home. The man, previously linked to a violent gang, now claims non-involvement. His wife works as a nurse, possibly aiding in drug production knowledge. Police investigate their roles and whereabouts.
-
-🟩
-
-Police investigations have revealed that the couple were running the Ice Drug Production Center in Jaffna.
-
-In a house in the area, an Ice Drug Center was surrounded by police and seized drug products.
-
-In this case, the police have arrested a man who lived in the house. Investigations carried out by the arrested person said that the couple had rented the house of the house and that the couple lived in the room.
-
-Among the couple who were staying in the room, the courts in Jaffna have been involved in violence in the past with a violent gang in Jaffna.. He has said that he is currently not involved in violence and that he lives in court.
-
-His wife is working as a nurse at a private hospital in Jaffna.Police suspect that even through the wife, the study of ice drug production may have been obtained.
-
-At the same time, police are investigating whether the husband and wife were involved in ice drugs or whether the other was complicit in production.
-
-...
-
-[Data](articles/207efdf7.json)
-
-[Extended Data](ext_articles/207efdf7.ext.json)
 
 ---

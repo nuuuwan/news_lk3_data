@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 19:03:32**
+As of **2024-05-15 19:18:57**
 
 ## Newspaper Stats
 
-*Scraped **24,254** Articles*
+*Scraped **24,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
 adalk | 2,068
-adaderanalk | 2,816
+adaderanalk | 2,818
 tamilmirrorlk | 2,852
 virakesarilk | 3,639
 dailymirrorlk | 3,810
-adaderanasinhalalk | 3,873
+adaderanasinhalalk | 3,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,240 (99.9%) of 24,254 articles have been extended.
+24,254 (100.0%) of 24,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Slovakia’s prime minister injured in shooting
+
+*2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
+
+(AP) — Media reports say Slovakia’s populist Prime Minister Robert Fico was injured in a shooting and taken to hospital.
+
+The incident took place in the town of Handlova, some 150 kilometers northeast of the capital, according to the news television station TA3. A suspect has been detained, it said.
+
+◼️
+
+[Data](articles/2b9ac6ba.json)
+
+---
+
+### ස්ලෝවැකියාවේ අගමැතිට වෙඩි ප්‍රහාරයක්
+
+*2024-05-15 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196655) · `si`
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ වෙඩිතැබීමෙන් තුවාල ලැබූ අග්‍රාමාත්‍ය රොබට් ෆිකෝ රෝහල්ගතකර ඇති බවය.
+
+කැබිනට් රැස්වීමකින් පසුව මෙම වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ සිද්ධිය සම්බන්ධයෙන් මේ වනවිට ආරක්ෂක අංශ විසින් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/76a8c90a.json)
+
+---
+
+### Former Pakistan PM Imran Khan gets bail in graft case, lawyer says
+
+*2024-05-15 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99239/former-pakistan-pm-imran-khan-gets-bail-in-graft-case-lawyer-says) · `en`
+
+A High Court in Pakistan on Wednesday granted bail to Imran Khan in the 190 million pounds corruption case, in which the jailed former prime minister and his wife are accused of receiving land worth billions of rupees as a bribe from a real estate tycoon.
+
+A two-member bench of the Islamabad High Court had reserved the verdict on Tuesday after the completion of arguments.
+
+On Wednesday, the court asked Khan to submit a surety bond of Rs 1 million in order to secure bail. However, the order will not result in the ex-premier’s release from Adiala jail since his sentences in the Iddat and cypher cases are yet to be suspended.
+
+In December last year, the National Accountability Bureau initiated an investigation against Pakistan Tehreek-e-Insaf (PTI) founder Khan, his wife Bushra Bibi, and others in a case of alleged acquisition of hundreds of canals of land under the name of Al Qadir University Trust, resulting in a reported loss of 190 million pounds to the exchequer.
+
+...
+
+[Data](articles/af9b7200.json)
+
+---
 
 ### Adani deal symptomatic of Sri Lanka’s high costs from lack of competition: Analyst
 
@@ -52,6 +100,8 @@ A competitive tender for a smaller wind plant also in Mannar where there is high
 
 [Data](articles/36cfc467.json)
 
+[Extended Data](ext_articles/36cfc467.ext.json)
+
 ---
 
 ### Sri Lanka T-bill yields down across maturities
@@ -69,6 +119,8 @@ The 12-month yield fell 33 basis points from 9.90 percent to 9.57 percent, with 
 ◼️
 
 [Data](articles/9f024812.json)
+
+[Extended Data](ext_articles/9f024812.ext.json)
 
 ---
 
@@ -118,6 +170,8 @@ A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/95 perc
 
 [Data](articles/fd8e913d.json)
 
+[Extended Data](ext_articles/fd8e913d.ext.json)
+
 ---
 
 ### Imran Khan bailed
@@ -161,6 +215,8 @@ Backing of currently serving military and retired armed forces is vital for any 
 ...
 
 [Data](articles/fa4406c8.json)
+
+[Extended Data](ext_articles/fa4406c8.ext.json)
 
 ---
 
@@ -292,6 +348,8 @@ Ambeon Capital Plc saw a high volume (Rs963mn) being traded, and the share close
 
 [Data](articles/488d973e.json)
 
+[Extended Data](ext_articles/488d973e.ext.json)
+
 ---
 
 ### 2 points free for O/L science
@@ -333,6 +391,8 @@ The interactions enhanced mutual understanding, facilitated knowledge sharing, a
 ...
 
 [Data](articles/a22ae899.json)
+
+[Extended Data](ext_articles/a22ae899.ext.json)
 
 ---
 
@@ -402,6 +462,8 @@ It will examine finding of an IMF Governance Diagnostics Assessment and will “
 
 [Data](articles/30e2f2be.json)
 
+[Extended Data](ext_articles/30e2f2be.ext.json)
+
 ---
 
 ### Sri Lanka defence university gets almost 1,000 applicants for medical degree
@@ -423,6 +485,8 @@ The government has also said it will change its medical ordinance to accept degr
 ◼️
 
 [Data](articles/ea86e02b.json)
+
+[Extended Data](ext_articles/ea86e02b.ext.json)
 
 ---
 
@@ -504,6 +568,8 @@ Asked if this brand new alliance will back the candidacy of President Ranil Wick
 
 [Data](articles/7382fb4d.json)
 
+[Extended Data](ext_articles/7382fb4d.ext.json)
+
 ---
 
 ### Russia envoy asked for list of Sri Lankans hired for Ukraine war, ashes of the dead
@@ -525,6 +591,8 @@ The retired general also asked others who have not come forward yet to do so wit
 ...
 
 [Data](articles/0e64c10d.json)
+
+[Extended Data](ext_articles/0e64c10d.ext.json)
 
 ---
 
@@ -686,6 +754,8 @@ Speaking at an event, Wickremesinghe said a modernised agriculture is the means 
 
 [Data](articles/576cc849.json)
 
+[Extended Data](ext_articles/576cc849.ext.json)
+
 ---
 
 ### Sri Lanka to investigate those who refused government free rice: State Minister
@@ -706,6 +776,8 @@ The minister said that he will receive the report by next week.
 
 [Data](articles/77cf7744.json)
 
+[Extended Data](ext_articles/77cf7744.ext.json)
+
 ---
 
 ### Sri Lanka’s Supreme Court officials learn high tech system in India’s apex court
@@ -723,6 +795,8 @@ A delegation consisting of 15 Sri Lanka Supreme Court registry officials complet
 ...
 
 [Data](articles/8d6ea260.json)
+
+[Extended Data](ext_articles/8d6ea260.ext.json)
 
 ---
 
@@ -1335,6 +1409,8 @@ On Tuesday a group of family members came to the Russian embassy in Colombo.
 ...
 
 [Data](articles/e384dc8d.json)
+
+[Extended Data](ext_articles/e384dc8d.ext.json)
 
 ---
 
@@ -2257,71 +2333,5 @@ It is noteworthy that the two students were friends and many students who appear
 [Data](articles/06270c1d.json)
 
 [Extended Data](ext_articles/06270c1d.ext.json)
-
----
-
-### Woman falls to death from first floor of house in Gampola
-
-*2024-05-15 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99226/woman-falls-to-death-from-first-floor-of-house-in-gampola) · `en`
-
-A woman has reportedly died after falling from the first floor of a house in Pihilladeniya area in the Gampola police division.
-
-Police said that according to the information received, the accident had occurred last evening (14).
-
-The body of the deceased, a 35-year-old resident of Narangwita area in Pihilladeniya, has been placed in Gampola Hospital, police said.
-
-◼️
-
-[Data](articles/b08df74b.json)
-
-[Extended Data](ext_articles/b08df74b.ext.json)
-
----
-
-### 264 new leprosy patients identified in Sri Lanka so far this year
-
-*2024-05-15 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99225/264-new-leprosy-patients-identified-in-sri-lanka-so-far-this-year) · `en`
-
-A total of 264 new leprosy patients have been identified from across the island during the period from the beginning of this year, according to the Anti-Leprosy Campaign (ALC).
-
-The Director of the ALC, Dr. Nirupa Pallewatte stated that of the new patients identified, 24 are children below the age of 15 years.
-
-She further stated that in 2023, a total of 1,580 leprosy patients were reported and that the majority of them (1520) are newly identified patients. Meanwhile, of those 1,580 patients, 180 are below the age of 15, which is 12% of the patients.
-
-“In the first quarter of 2024, we identified 274 patients. 264 of them are newly identified patients. 21 out of 274, which means about 8%, are children under the age of 15 years. They cannot spread the disease. Also, this year, we have identified about 8% of patients who have become disabled,” Dr. Pallewatte said.
-
-◼️
-
-[Data](articles/76cedb23.json)
-
-[Extended Data](ext_articles/76cedb23.ext.json)
-
----
-
-### The two students who were receiving constably written
-
-*2024-05-15 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196641) · `si`
-
-Two students from Agradhahena and Nawalapitiya arrived at the Ambagamuwa National School for the GCE Ordinary Level exam. Guards complained to the Ginigathena Police about them. The police are investigating after discovering the students spoke suspiciously before entering the exam center.
-
-🟩
-
-The guards have lodged a complaint with the Ginigathena Police claiming that two students who arrived at the Examination Center yesterday (14) to sit for the GCE Ordinary Level examination.
-
-The two girls have arrived at the Ambagamuwa National School to sit for the examination yesterday.
-
-One student has come to the examination center with parents.
-
-It has been revealed that the two students were families residing in Agradhahena, Agradha, Agra, Agra, Nawigashena, Nawalapitiya.
-
-The police have revealed that the two students were speaking before they were talking before the examination center.
-
-The information disappeared has been sent to all police stations and is said to have commenced a broad investigation.
-
-◼️
-
-[Data](articles/182d706d.json)
-
-[Extended Data](ext_articles/182d706d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 19:18:57**
+As of **2024-05-15 19:34:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,254 (100.0%) of 24,257 articles have been extended.
+24,257 (100.0%) of 24,257 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,29 @@ The incident took place in the town of Handlova, some 150 kilometers northeast o
 
 [Data](articles/2b9ac6ba.json)
 
+[Extended Data](ext_articles/2b9ac6ba.ext.json)
+
 ---
 
-### ස්ලෝවැකියාවේ අගමැතිට වෙඩි ප්‍රහාරයක්
+### Shot to Prime Minister Slovakia
 
 *2024-05-15 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196655) · `si`
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ වෙඩිතැබීමෙන් තුවාල ලැබූ අග්‍රාමාත්‍ය රොබට් ෆිකෝ රෝහල්ගතකර ඇති බවය.
+Prime Minister Robert Ficko was shot after a cabinet meeting, leading to his hospitalization. Security forces reportedly arrested the shooter.
 
-කැබිනට් රැස්වීමකින් පසුව මෙම වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+🟩
 
-එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ සිද්ධිය සම්බන්ධයෙන් මේ වනවිට ආරක්ෂක අංශ විසින් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+Foreign media reports that Prime Minister Robert Ficko was admitted to shooting.
+
+The shooting was reported after a cabinet meeting.
+
+The reports say that the security forces have been arrested by the security forces.
 
 ◼️
 
 [Data](articles/76a8c90a.json)
+
+[Extended Data](ext_articles/76a8c90a.ext.json)
 
 ---
 
@@ -77,6 +85,8 @@ In December last year, the National Accountability Bureau initiated an investiga
 ...
 
 [Data](articles/af9b7200.json)
+
+[Extended Data](ext_articles/af9b7200.ext.json)
 
 ---
 

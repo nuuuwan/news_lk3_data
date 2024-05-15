@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 04:05:14**
+As of **2024-05-16 04:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,319 (100.0%) of 24,325 articles have been extended.
+24,325 (100.0%) of 24,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The CNGA, a prestigious industry association representing over 1,400 major membe
 
 [Data](articles/bf207252.json)
 
+[Extended Data](ext_articles/bf207252.ext.json)
+
 ---
 
 ### Fairway Colombo wins ‘Best City Business Hotel in Sri Lanka’ Award
@@ -64,6 +66,8 @@ Global Brand Magazine, renowned for celebrating excellence across diverse indust
 
 [Data](articles/b1b4e8a4.json)
 
+[Extended Data](ext_articles/b1b4e8a4.ext.json)
+
 ---
 
 ### Koelnmesse explores opportunities in food and beverage industry in Sri Lanka
@@ -80,6 +84,8 @@ High ranking representatives from Koelnmesse India, a leading international trad
 
 [Data](articles/76faeabb.json)
 
+[Extended Data](ext_articles/76faeabb.ext.json)
+
 ---
 
 ### CIPM Sri Lanka’s National HR Conference on 5 and 6 June
@@ -93,6 +99,8 @@ Themed ‘Navigating the HR Horizon’ NHRC-2024 aims to tackle the pressing cha
 ...
 
 [Data](articles/e110e5ab.json)
+
+[Extended Data](ext_articles/e110e5ab.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriw
 ...
 
 [Data](articles/2bcb5cee.json)
+
+[Extended Data](ext_articles/2bcb5cee.ext.json)
 
 ---
 
@@ -133,6 +143,8 @@ Addressing the Adjournment debate on the Palestine issue Sumanthiran underscored
 ...
 
 [Data](articles/c3c8492f.json)
+
+[Extended Data](ext_articles/c3c8492f.ext.json)
 
 ---
 

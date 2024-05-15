@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 10:52:08**
+As of **2024-05-15 11:03:29**
 
 ## Newspaper Stats
 
-*Scraped **24,147** Articles*
+*Scraped **24,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,161 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,060
-adaderanalk | 2,803
-tamilmirrorlk | 2,834
-virakesarilk | 3,621
-dailymirrorlk | 3,794
+adaderanalk | 2,804
+tamilmirrorlk | 2,837
+virakesarilk | 3,624
+dailymirrorlk | 3,795
 adaderanasinhalalk | 3,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,144 (100.0%) of 24,147 articles have been extended.
+24,147 (100.0%) of 24,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### විජයදාසගේ විරෝධතා ඉවතට - දුමින්ද ඉල්ලූ වාරණයට ඉඩ
+### வட்சப்பில் தகவல் தெரிவித்தவர்கள் கைது
+
+*2024-05-15 10:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்சப்பில்-தகவல்-தெரிவித்தவர்கள்-கைது/175-337346) · `ta`
+
+விசேட சுற்றிவளைப்பு நடவடிக்கைகளுக்காகக் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர்களைக் கண்காணித்து குற்றவாளிகளுக்கு வட்சப் மூலம் தகவல் தெரிவித்ததாக கூறப்படும் இருவரை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் சந்தேக நபர்கள் கணினி குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டு நேற்று (14) நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+23 மற்றும் 30 வயதுடைய தெய்யந்தர பிரதேசத்தைச் சேர்ந்த இரண்டு நபர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/f6b44e3c.json)
+
+---
+
+### மதுகொடுத்து வன்புணர்ந்த ஆடை வடிவமைப்பாளர் மாட்டினார்
+
+*2024-05-15 10:45:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுகொடுத்து-வன்புணர்ந்த-ஆடை-வடிவமைப்பாளர்-மாட்டினார்/175-337345) · `ta`
+
+19 வயது யுவதியை பாலியல் பலாத்காரம் செய்ததாக கூறப்படும் ஆடை வடிவமைப்பாளர் ஒருவரை மாவத்தகம பொலிஸ் அதிகாரிகள் குழு கைது செய்துள்ளது. மாவத்தகம பகுதியில் உள்ள கட்டிடம் ஒன்றிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மாவத்தகம பிரதேசத்தில் வசிக்கும் 40 வயதுடையவர் என்றும் அவர், இரண்டு பிள்ளைகளின் தந்தை ஆவார்.
+
+பாலியல் பலாத்காரம் செய்யப்பட்டதாகக் கூறப்படும் 19 வயதுடைய சிறுமி சந்தேக நபரின் உறவினர் என மாவத்தகம பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இந்த இளம் பெண் தனது உறவினரிடம் ஆடை வடிவமைப்பு (பேஷன் டிசைனிங்) பற்றி அறிந்து கொள்வதற்காக இந்த பயிற்சி வகுப்பில் கலந்து கொள்வதாக பொலிஸார் கூறுகின்றனர்.
+
+பயிற்சி வகுப்பு முடிந்ததும், பயிற்சி வகுப்பில் கலந்து கொண்ட மற்றொரு பெண்ணுடன் வகுப்பை விட்டு வெளியேறச் சென்றபோது, ​​மழை பெய்யத் தொடங்கியுள்ளது.
+
+...
+
+[Data](articles/a210ab50.json)
+
+---
+
+### உயிரிழந்தவர்களை நினைவு கூர இலங்கையர்க்கு உரிமையுண்டு
+
+*2024-05-15 10:39:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவர்களை-நினைவு-கூர-இலங்கையர்க்கு-உரிமையுண்டு/175-337342) · `ta`
+
+யுத்தத்தில் உயிரிழந்தவர்களை நினைவு கூருவதற்கு உறவினர்களுக்கும் அவர்களின் தோழர்களுக்கும் உரிமை உண்டு என கூறியுள்ள தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், அவர்களின் உரிமைகளை பாதுகாக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+
+பலஸ்தீனப் போர் தொடர்பான விவாதத்தின் போது பேசிய அவர், இலங்கையில் உள்நாட்டுப் போரில் உயிரிழந்தவர்களின் உறவினர்கள் மற்றும் தோழர்களுக்கு போரில் இறந்தவர்களை நினைவு கூர உரிமை உண்டு என்று கூறியதுடன், சம்பூரில் முள்ளிவாய்க்கால் போரில் உயிரிழந்தவர்களை நினைவுகூரும் நினைவேந்தல் நடத்தியதற்காக 3 பெண்கள் மற்றும் ஒரு ஆண் கைது செய்யப்பட்டதற்கு கண்டனம் தெரிவித்தார்.
+
+நக்பா சம்பவத்தில் இறந்தவர்களை நினைவுகூரும் நாள் ஒன்றை ஐக்கிய நாடுகள் சபை பிரகடனப்படுத்தியுள்ளதாகவும், அதேபோன்று உள்நாட்டுப் போரில் இறந்தவர்களை நினைவுகூருவதற்கு இலங்கையர்களுக்கும் உரிமை உண்டு எனவும் எம்.பி. தெரிவித்தார்.
+
+போரில் இறந்தவர்களை நினைவு கூரும் உரிமையானது சர்வதேச ரீதியாக ஏற்றுக்கொள்ளப்பட்ட உரிமை எனவும், இலங்கையிலும் அந்த உரிமை உறுதிப்படுத்தப்பட வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1a6a40d1.json)
+
+---
+
+### Wijayadasa's protests away - Duminda allowed
 
 *2024-05-15 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196642) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා පත්කිරීම අභියෝගයට ලක් කරමින් එහි වැඩබලන මහ ලේකම් දුමින්ද දිසානායක මහතා විසින් ඉදිරිපත් කළ පෙත්සමට අදාළ වාරණ නියෝගය පිළිබඳව කරුණු සලකා බැලීමට කොළඹ දිසා අධිකරණය අද (15) අවසර ලබා දුන්නේය.
+Colombo District Court granted SLFP's petition for Wijalle Dissanayake's appointment, despite protests from Wijayadasa. Lawyers for Duminda Dissanayake obtained an injunction order, allowing them to proceed without further delay.
 
-මෙම පත්වීමට අදාළව කඩුවෙල දිසා අධිකරණය විසින් වාරණ නියෝගයක් නිකුත් කර ඇති නිසා පැමිණිලිකරු ඉල්ලා සිටින වාරණ නියෝගය නිකුත් කළ නොහැකි බවට විජයදාස රාජපක්ෂ මහතාගේ නීතිඥවරු ඊයේ (14) දින විරෝධතා මතු කර තිබිණි.
+🟩
 
-ඒ අනුව දුමින්ද දිසානායක මහතා ඉල්ලා සිටින වාරණ නියෝගය සම්බන්ධයෙන් තවදුරටත් කරුණු ඉදිරිපත් කිරීමට ඒ මහතාගේ නීතිඥවරුන්ට අවසර ලබා දෙන බව නියෝගයේ සඳහන් වුණි.
+The Colombo District Court today (15) permission to the petition filed by the Sri Lanka Freedom Party (SLFP) presided over the appointment of Wijalle Dissanayake.
 
-එම වාරණ නියෝගය පිළිබඳව වැඩිදුරටත් අද දහවල් කරුණු දැක්වීමට නියමිතය.
+The Attorneys of the Kaduwela District Court have issued an enjoining order due to the obsequalic court.
+
+Accordingly, Mr. Duminda Dissanayake said he would allow his lawyers permission to proceed with the injunction order.
+
+It is also about no further afternoon on the injunction.
 
 ◼️
 
 [Data](articles/18a61384.json)
 
+[Extended Data](ext_articles/18a61384.ext.json)
+
 ---
 
-### சா/த பரீட்சார்த்திகள்(மாணவிகள்)  இருவர் மாயம்
+### End of Lee era for Singapore as PM steps down
+
+*2024-05-15 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99227/end-of-lee-era-for-singapore-as-pm-steps-down) · `en`
+
+Singapore’s long-serving Prime Minister Lee Hsien Loong is stepping down, marking the end of a political era for the island nation.
+
+After 20 years in power, Mr Lee will formally hand over the reins to deputy PM and finance minister Lawrence Wong on Wednesday night.
+
+Since becoming an independent nation in 1965, Singapore has only had three prime ministers - all from the ruling People’s Action Party (PAP).
+
+The first was Mr Lee’s father, Lee Kuan Yew, who is widely considered as the founder of modern Singapore and led the country for 25 years.
+
+Analysts say the transition signals an evolution in Singapore’s political leadership as it moves out of the shadow of the Lee family, even though Mr Lee will remain in cabinet as a senior minister.
+
+Over the weekend in his final interview as Prime Minister with local media, he thanked Singaporeans for their support.
+
+“I didn’t try to run faster than everybody else. I tried to bring everybody to run with me,” he said. “And I think we did have some success.”
+
+...
+
+[Data](articles/1eec6958.json)
+
+---
+
+### Probe launched into alleged murder contract at Galle Prison
+
+*2024-05-15 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-launched-into-alleged-murder-contract-at-Galle-Prison/108-282636) · `en`
+
+Galle, May 15 (Daily Mirror) - The Galle Police has launched an investigation following a complaint alleging that a Jailor at the Galle Prison engaged a female inmate to assassinate a fellow female warden within the prison premises.
+
+It was reported that a team of police officers visited the Galle prison to record statements from several individuals, including the accused jailor and the targeted warden.
+
+According to the complaint filed by the warden, the jailor had given a contract to a female inmate, who is serving time for multiple offenses, to carry out the sinister act within the confines of the Galle prison.
+
+Meanwhile, the Prisons Department has also launched an inquiry into the matter.
+
+◼️
+
+[Data](articles/6bf2cafe.json)
+
+---
+
+### S/The Examiners (Students) Two Magic
 
 *2024-05-15 10:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சா-த-பரீட்சார்த்திகள்-மாணவிகள்-இருவர்-மாயம்/76-337341) · `ta`
 
-இன்றுடன் நிறைவடையும் கல்விப்பொதுத் தராதர சாதாரணத் பரீட்சை மத்திய நிலையத்துக்கு வருகைதந்த பாடசாலை மாணவிகள் இரவர்,  வீட்டுக்குத் திரும்பவில்லை என, அந்த மாணவிகள் இருவரின் பாதுகாவலர்கள் முறைப்பாடு செய்துள்ளனர் என கினிகத்ஹேன பொலிஸார் தெரிவித்தனர்.
+Two school students visiting an exam center didn't return home after the exam on Tuesday. They came with their parents and were known among other examinees.
 
-இவ்விரு மாணவிகளும் செவ்வாய்க்கிழமை (14)  பரீட்சைக்குத் தோற்றுவதற்காக, பரீட்சை மத்தியநிலையத்துக்கு வந்துள்ளனர். அதிலொரு மாணவி, பெற்றோருடன் பரீட்சை மத்திய நிலையத்துக்கு வந்துள்ளனர் என முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இவ்விரு மாணவிகளும் நண்பிகள் என்றும், பரீட்சை ஆரம்பிப்பதற்கு முன்னர் பரீட்சை மத்திய நிலையத்துக்கு அண்மையில் இவ்விருவரும் நீண்டநேரம் கதைத்துக்கொண்டிருந்ததை பரீட்சைக்குத் தோற்றிய மாணவிகள் பலரும் கண்டுள்ளனர் என்பதும் குறிப்பிடத்தக்கது.
+Ginigathena police said that the school students who visited the Center for Education, which were concluded today, had not returned home.
+
+The two students have come to the examination center for the exam on Tuesday (14). A student has come to the exam center with her parents, police said.
+
+It is noteworthy that the two students were friends and many students who appeared for the exam had been seen for a long time for the examination center before the exam.
 
 ◼️
 
 [Data](articles/06270c1d.json)
+
+[Extended Data](ext_articles/06270c1d.ext.json)
 
 ---
 
@@ -79,6 +187,8 @@ The body of the deceased, a 35-year-old resident of Narangwita area in Pihillade
 ◼️
 
 [Data](articles/b08df74b.json)
+
+[Extended Data](ext_articles/b08df74b.ext.json)
 
 ---
 
@@ -224,6 +334,22 @@ Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyan
 
 ---
 
+### அரசு தனது பேரினவாத மனநிலையினை வெளிப்படுத்தியுள்ளது - அகத்தியர் அடிகளார்
+
+*2024-05-15 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183573) · `ta`
+
+தங்கள் உறவுகளை நினைந்து கஞ்சி காய்ச்சி பரிமாறுவதை தடுப்பதன் மூலம் அரசு தனது பேரினவாத மனநிலையினை வெளிப்படுத்தியிருப்பதாக ஒருங்கிணைந்த தமிழர் கட்டமைப்பின் தலைமை ஒருங்கிணைப்பாளர் தவத்திரு அகத்தியர் அடிகளார் விடுத்துள்ள அறிக்கையில் தெரிவித்துள்ளார்.
+
+மூதூர் - சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பறிமாறிய குற்றச்சாட்டில் சம்பூர் பொலிசாரால் அப்பாவி மக்கள் கைது செய்யப்பட்ட சம்பவத்திற்கு எதிர்ப்பு தெரிவித்து வெளியிட்டுள்ள அறிக்கையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+நினைவு கூரல் என்பது ஒவ்வொரு மனிதனுடைய அடிப்படை உரிமையாகும். உலகளாவிய அனைத்து சர்வதேச சட்டங்களும் அதனை ஆழமாக வலியுறுத்துகின்றன. இந்நிலையில் திருகோணமலை சேனையூரில் நடைபெற்றுள்ள இச்சம்பவம் மிகுந்த வேதனையை ஒட்டுமொத்த தமிழ் மக்களுக்கும் ஏற்படுத்தி உள்ளது.
+
+...
+
+[Data](articles/81d189c3.json)
+
+---
+
 ### Woman dies after falling from the first floor of a house
 
 *2024-05-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196640) · `si`
@@ -241,6 +367,26 @@ Police said that the accident had occurred in the evening yesterday (14).
 [Data](articles/93a3ae4d.json)
 
 [Extended Data](ext_articles/93a3ae4d.ext.json)
+
+---
+
+### யாழில் அரச உத்தியோகத்தரின் இறப்பர் முத்திரையை போலியாக தயாரித்து சுமார் 17 இலட்சம் ரூபா மோசடி!
+
+*2024-05-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183570) · `ta`
+
+யாழ்ப்பாணம், கரவெட்டியில் அமைந்துள்ள ஆலயம் ஒன்றில் பிரதேச செயலக கலாச்சார உத்தியோகத்தரின் இறப்பர்  முத்திரையை போலியாகத் தயாரித்து சுமார் 17 இலட்சம் ரூபா நிதி மோசடி இடம்பெற்றுள்ளது.
+
+குறித்த ஆலயத்தின் தலைவரே இவ்வாறு  ஆலய நிலையான வைப்பில் இருந்த பெருந்தொகையான நிதியை களவாடியுள்ளார்.
+
+2023 ஐப்பசி மாதமளவில் 10 இலட்சம், 2024 தை மாதமளவில் 7 இலட்சம் இதற்காக போலியாக கூட்டறிக்கை தயாரித்தும் கலாச்சார உத்தியோகத்தரின் இறப்பர் முத்திரையையும் போலியாக தானகவே செய்து நெல்லியடி பிரபல  வங்கியிலிருந்த பணத்தை களவாடியள்ளார்.
+
+இதேவளை இவர்களின் மோசடி அம்பலம் ஆகியதும் உபதலைவர், பொருளாளர் தாமாகவே முன்வந்து பணத்தை வட்டியும் முதலுமாக செலுத்தியுள்ளனர் .
+
+இம்மோசடி தொடர்பாக நிர்வாகம் எவ்விதமான நடவடிக்கைகளை மேற்கொள்ளாது இருப்பது மிகவும் மனவேதனை அளிக்கும் நிலையில்  அரச முத்திரையை போலியாக தயாரித்தமைக்கு கரவெட்டி உத்தியோகத்தர் பிரதேசசெயலகம் நடவடிக்கைகள் எடுக்குமா ?
+
+...
+
+[Data](articles/175e752d.json)
 
 ---
 
@@ -295,6 +441,26 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 [Data](articles/f1c3a532.json)
 
 [Extended Data](ext_articles/f1c3a532.ext.json)
+
+---
+
+### இராணுவத்தினருக்கு காணி வழங்கும் பணிகளை துரிதப்படுத்த விசேட குழு - ஜனாதிபதி நடவடிக்கை
+
+*2024-05-15 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183569) · `ta`
+
+இராணுவ வீரர்களுக்கு காணிகளை வழங்கும் நடவடிக்கைகளை துரிதப்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவின் தலைமையில், பாதுகாப்பு அமைச்சின் மேலதிக செயலாளர், காணி ஆணையாளர் நாயகம், இராணுவ சேவை அதிகாரசபையின் தலைவர் மற்றும் சட்டமா அதிபர் திணைக்களத்தின் உறுப்பினரொருவர் இக்குழுவுக்கு நியமிக்கப்பட்டுள்ளனர்.
+
+தற்போது சேவையிலுள்ள, ஓய்வு பெற்ற, பணியின் போது உயிர் நீத்த பொலிஸ், சிவில் பாதுகாப்பு திணைக்களத்தினர், மற்றும் இராணுவத்தினருக்கு அரச காணி வழங்கப்படவுள்ளது.
+
+இராணுவ வீரர்களுக்கு காணி வழங்கும் வேலைத்திட்டம் இதற்கு முன்னர் பல தடவைகள் ஆரம்பிக்கப்பட்ட போதிலும், அது வெற்றிகரமாகவும் துரிதமாகவும் நடைமுறைப்படுத்தப்படாமையால் இவ்விடயம் தொடர்பில் பரிசீலித்த ஜனாதிபதி மேற்படி குழுவை நியமித்துள்ளார்.
+
+ஜனாதிபதியின் உத்தரவுக்கமைய இராணுவத்தினருக்கு காணிகளை வழங்குவது தொடர்பில் பரிசீலித்து அதற்கான பணிகளை துரிதமாக ஏற்பாடு செய்வது சம்பந்தப்பட்ட குழுவின் பொறுப்பாகும்.
+
+◼️
+
+[Data](articles/7b1f4113.json)
 
 ---
 
@@ -1955,207 +2121,5 @@ Amid those developments both indices moved downwards. All Share Price Index down
 [Data](articles/6ad83142.json)
 
 [Extended Data](ext_articles/6ad83142.ext.json)
-
----
-
-### Despite torrential rains...
-
-*2024-05-14 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Despite-torrential-rains/110-282589) · `en`
-
-People walking along the streets of Colombo on May 14, 2024 with umbrellas as heavy showers were experienced during the day. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/032865f8.json)
-
-[Extended Data](ext_articles/032865f8.ext.json)
-
----
-
-### A leading hotel in Derby, UK sold to Sri Lankan company
-
-*2024-05-14 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-leading-hotel-in-Derby-UK-sold-to-Sri-Lankan-company/108-282602) · `en`
-
-UK, May 14 - A leading hotel in Derby, in the United Kingdom - Cathedral Quarter Hotel - has been sold to a Sri Lankan company, Derbyshire Live news agency reported.
-
-The Grade II-listed Cathedral Quarter Hotel in St Mary's Gate has been bought by Rashmi Dedigama and Peter Karan of Lavendish Leisure, a subsidiary of the Dedigama Group, for an undisclosed amount
-
-The city centre hotel, where the late Queen Elizabeth II dined in 2010, which earned the head chef her personal thanks, has 38 individually designed ensuite bedrooms. It is a Victorian property that previously served as a police station and also as council headquarters.
-
-In 2008, the previous owners, The Finesse Collection, purchased the property and converted it into a boutique hotel. The property still retains its period features, including Victorian mosaic floors, stained-glass windows and a grand central staircase.
-
-...
-
-[Data](articles/8cd75b66.json)
-
-[Extended Data](ext_articles/8cd75b66.ext.json)
-
----
-
-### Train interrupts
-
-*2024-05-14 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196628) · `si`
-
-Train service from Kelaniya to the main road and Puttalam road is disrupted due to a signal error.
-
-🟩
-
-The train on the Kelaniya to the main road and Puttalam road has been disrupted.
-
-The Railway Control Room notes that this situation has been emerged due to a signal error.
-
-◼️
-
-[Data](articles/cf1afee5.json)
-
-[Extended Data](ext_articles/cf1afee5.ext.json)
-
----
-
-### Trends that Tamils and Muslims voted in the past presidential elections
-
-*2024-05-14 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183559) · `ta`
-
-The upcoming 2024 presidential election in Sri Lanka is shaping up to be a significant event, with the potential for a close contest among the main contenders. The Sri Lanka Elections Commission has announced the election dates, and while the specific candidates have not been officially announced, the media has speculated on potential contestants, including Anura Kumarathisanayake from the Janata Vimukthi Peramuna (JVP) and the National People's Power.
-
-
-
-The election is expected to be a triangular contest, with the votes of the Sinhalese community, the largest majority in Sri Lanka, potentially being split among the main candidates. This could lead to a situation where no candidate secures the 50% required to win outright in the first round, necessitating a second round of voting.
-
-
-
-The votes of minority communities, including Sri Lankan Tamils, Muslims, and Indian origin Tamils, are crucial in this context. These communities, while constituting a smaller percentage of the total population, are significant in certain districts and could potentially sway the outcome of the election.
-
-
-
-Historically, the votes of these minority communities have played a pivotal role in past presidential elections. For instance, in the 1999 election, Chandrika Kumaratunga's victory was attributed to a wave of sympathy following an assassination attempt, which also affected the outcome of the 2005 election. The 2015 election saw a significant shift, with the winning candidate, Maithripala Sirisena, receiving fewer Sinhalese votes but securing a majority among non-Sinhalese voters.
-
-
-
-The 2019 election saw a return to a more traditional voting pattern, with Gotabhaya Rajapaksa securing a majority among Sinhalese voters, despite receiving significant support from minority communities.
-
-
-
-As the 2024 election approaches, the role of minority communities, particularly the Sri Lankan Tamils and Muslims, will be crucial. Their support could potentially decide the outcome, especially if the Sinhalese votes are divided among the main candidates. The historical voting patterns and the strategic importance of minority communities in past elections suggest that their support could be decisive in the upcoming election.
-
-
-
-In conclusion, the 2024 presidential election in Sri Lanka is expected to be a closely contested affair, with the votes of minority communities potentially playing a pivotal role in determining the outcome. The historical context and the strategic importance of these communities in past elections underscore their significance in the upcoming contest.
-
-🟩
-
-The Sri Lanka Elections Commission announced last week that the 2024 presidential election will be held on September 17 and October 16. The Elections Commission has repeated the matter already known. Although the exclusive date has not been announced, the election is possible to be held in late September or early October.
-
-Many will compete for the presidency as in the past. While some have explicitly expressed their desire to contest the election, the names of other people who are contesting are published in the media.But, only the three are the main contestants with the opportunity to win. Janata Vimukthi Peramuna (JVP). ) / The leader of the National People's Power is Anura Kumarathisanayake.
-
-...
-
-[Data](articles/1f31ffd4.json)
-
-[Extended Data](ext_articles/1f31ffd4.ext.json)
-
----
-
-### Signal disorder train passenger difficulty
-
-*2024-05-14 20:20:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமிக்ஞை-கோளாறு-ரயில்-பயணிகள்-சிரமம்/175-337305) · `ta`
-
-Train delays and cancellations between Kelaniya and Ja-Ela, and from Kelaniya to Ragama, due to a stopped train in the forest near Ragama Railway Station. Passengers faced difficulties, with the Colombo Fort to Rambukkan train delayed and parked near Horop Railway Station.
-
-🟩
-
-Many trains have been shut down between Kelaniya to Ja-Ela railway line and many trains have been stopped and trains on the main route and Puttalam route are delayed.
-
-Accordingly, a number of trains from Kelaniya to Ragama have been stopped due to the stopping of the train in the forest near the Ragama Railway Station and the passengers have been in great difficulty.
-
-Passengers on the train have been informed by telephone that the train from Colombo Fort to Rambukkan at 5.05 pm has now been parked in the forest near the Horop Railway Station.
-
-The passengers said that the train was stopped for about two hours and that many trains that followed were progressing in a different way.
-
-The passengers were accused of stopping at the Horabe Railway Station at around 7.10 pm at 5.05 pm. Remble
-
-◼️
-
-[Data](articles/625eb671.json)
-
-[Extended Data](ext_articles/625eb671.ext.json)
-
----
-
-### Separate to investigate six months permission to produce production in two months
-
-*2024-05-14 20:14:42* · [`adalk`](https://www.ada.lk/breaking_news/මාස-06ක්-පරීක්ෂණයන්-කළ-යුතු-එන්නතක්-මාස-දෙකකින්-නිෂ්පාදනයට-අවසර-දීලා/11-409639) · `si`
-
-Attorney Nirmana Sirimanna argued against the National Drug Regulatory Authority's decision to approve a drug in two months, citing legal concerns. The case involves social activists and is being reviewed by the Court of Appeal. Deputy Solicitor General Manuhara Jayarawardena supports a six-month investigation period before release.
-
-🟩
-
-Attorney-at-Law Nirmana Sirimanna, the National Drug Regulatory Authority (NCC) was reported to be contrary to the law in two months.Attorney-at-Law Nil St. Sirimanna, appearing on behalf of the petitioner, was called for the petition filed by the Pharmaceutical Authority to prevent the approval of the approval of the law.
-
-The petition was in the face of the Court of Appeal of the Court of Appeal of the Court of Appeal, Judge Nissankala Karunaratne and Shashi Mahendran.
-
-Two social activists, Pranita Warnakulasuriya and DP. The National Drug Regulatory Authority has nominated as respondents in the petition as respondents, which have been filed by Buddharandra's gentleman.
-
-At the time of the petition, Attorney-at-Law Nilisha Sirimanna, who was adopted for the petitioners, is responsible for the petitioners who imported the petitioners and the National Drug Regulatory Authority is responsible for Sri Lanka.
-
-...
-
-[Data](articles/4b89149b.json)
-
-[Extended Data](ext_articles/4b89149b.ext.json)
-
----
-
-### Need a new agricultural movement instead of old plantation industry
-
-*2024-05-14 20:08:07* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-වැවිලි-කර්මාන්තය-වෙනුවට-නව-කෘෂි-ව්‍යාපාරයක්-ඕන/11-409638) · `si`
-
-President Ranil Wickremesinghe announced a shift towards a new agricultural movement, aiming to replace the old plantation industry. He emphasized removing institutional barriers through new legislation and highlighted the importance of expanding educational opportunities in the plantation sector. The initiative includes establishing labs, lecture halls, and career counseling centers. The President also stressed the potential of agriculture to alleviate rural poverty and boost exports, particularly catering to the dietary needs of the middle class.
-
-🟩
-
-President Ranil Wickremesinghe said that the country would continue to move a new agricultural movement in the country instead of the old plantation industry.
-
-The President said that the obstacles between the relevant institutions would be removed from a new law and will be identified in the plantation sector.
-
-President Ranil Wickremesinghe was speaking at the opening of the new studies and administrative building of the National Plantation Management Institute in Athurgiriya.
-
-The National Plantation Management Institute has established the National Plantation Management to create new skills graduates to the plantation sector and to expand higher education opportunities for youths.
-
-The undergraduates is planning to establish laboratories, lecture halls, computer laboratories and professional counseling centers.
-
-The cost of the construction of the new studies and administration building is Rs. 750 million.
-
-...
-
-[Data](articles/c0072ea6.json)
-
-[Extended Data](ext_articles/c0072ea6.ext.json)
-
----
-
-### 1500 leprosy patients this year
-
-*2024-05-14 20:03:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-ලාදුරු-රෝගීන්-1500ක්/11-409637) · `si`
-
-This year, 1500 leprosy patients were reported, highlighting the need for effective treatments and public awareness campaigns. Measures like the A2P Project aim to combat the disease by providing accurate information and fostering a supportive community online.
-
-🟩
-
-According to the Ministry of Health, Dr. Palitha Mahipala said that about 1500 leprosy patients have been reported to date this year.
-
-He said that the various measures taken for the repression of the disease have been caused by a large number of cases of cases arranged for clinics.
-
-He further stated that six months approved by the World Health Organization and the World Health Organization can be obtained for six months, a year, and proper treatment can be cured in the disease.
-
-Meanwhile, the inauguration of the National Latestal Movement to Reconciliation of the Right Information on Leprosy through Social Media(On the 14th) held.
-
-A2P Project is a program that operates the National Latestal Control Movement (Alliance Developed Trust) and ADt (Alliance Development Trust). The National Latestal Control Movement is the center of leprosy and the ADT is a non-governmental body.
-
-...
-
-[Data](articles/a8193ae1.json)
-
-[Extended Data](ext_articles/a8193ae1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 12:51:43**
+As of **2024-05-15 13:03:47**
 
 ## Newspaper Stats
 
-*Scraped **24,183** Articles*
+*Scraped **24,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,92 @@ economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,061
 adaderanalk | 2,806
-tamilmirrorlk | 2,845
+tamilmirrorlk | 2,847
 virakesarilk | 3,630
-dailymirrorlk | 3,803
+dailymirrorlk | 3,804
 adaderanasinhalalk | 3,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,182 (100.0%) of 24,183 articles have been extended.
+24,183 (100.0%) of 24,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### රුසියානු-යුක්‍රේන යුද්ධයේදී මියගිය අපේ රණවිරුවන් ගැන අලුත්ම හෙළිදරව්ව
+### Lagoon fresh...
+
+*2024-05-15 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lagoon-fresh/110-282648) · `en`
+
+Large lagoon prawns and crabs being sold near the Bolgoda Lake adjoining the Kospelena Bridge in Piliyandala. Unlike sea prawns and crabs, these are very rich in meat. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/7072bc8a.json)
+
+---
+
+### ஜனாதிபதி செயலகத்திற்கு அருகில் பதற்றம்
+
+*2024-05-15 12:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-அருகில்-பதற்றம்/175-337356) · `ta`
+
+இலஞ்சம், ஊழல் மற்றும் வீண்விரயத்திற்கு எதிரான குடிமக்கள் சக்தி அமைப்பினால் இன்று காலை முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டம் காரணமாக ஜனாதிபதி செயலகத்திற்கு அருகில் பதற்றமான சூழல் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+பாராளுமன்ற உறுப்பினர்களுக்கான வாகன அனுமதிப்பத்திரத்தை மீள வழங்குவதற்கு எதிராக அரசாங்கம் நடவடிக்கை எடுக்க வேண்டுமென ஆர்ப்பாட்டக்காரர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+பின்னர், ஆர்ப்பாட்டக்காரர்கள் ஜனாதிபதியின் மேலதிக செயலாளர் கபில முனசிங்கவிடம் மனு ஒன்றைக் கையளித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fd5b2d32.json)
+
+---
+
+### அஸ்ட்ராசெனெக்கா தடுப்பூசி குறித்து விசேட அறிவித்தல்
+
+*2024-05-15 12:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்ட்ராசெனெக்கா-தடுப்பூசி-குறித்து-விசேட-அறிவித்தல்/175-337354) · `ta`
+
+இரத்த உறைவு குறித்த கவலைகள் காரணமாக அஸ்ட்ராசெனெக்கா தடுப்பூசிகள் பெருமளவில் திரும்பப் பெறப்பட்டதை அடுத்து, அஸ்ட்ராசெனெக்கா தடுப்பூசியைப் பெற்ற நபர்கள் அதன் பாதுகாப்பு குறித்து தேவையற்ற அச்சம் கொள்ளத் தேவையில்லை என்று இலங்கை சுகாதார நிபுணர்கள் வலியுறுத்தியுள்ளனர்.
+
+ஊடகங்களுக்கு உரையாற்றிய தேசிய மருத்துவ மருந்துகள் ஒழுங்குமுறை ஆணையத் தலைவர் வைத்தியர் ஆனந்த விஜேவிக்ரம, தடுப்பூசியினால் ஏற்படும் சிக்கல்கள் மிகவும் அரிதானவை என்பதை AstraZeneca உற்பத்தியாளர் ஒப்புக்கொண்டதைக் சந்தர்ப்பத்தை குறிப்பிட்டார்.
+
+இந்த அரிய சிக்கல்கள் எதிர்காலத்தில் ஏற்படும் பாதகமான விளைவுகளைக் குறிக்கவில்லை என்பதை அவர் அடிக்கோடிட்டுக் காட்டினார், இது தடுப்பூசியின் ஒட்டுமொத்த பாதுகாப்பை உறுதி செய்கிறது என அவர் கூறினார்.
+
+◼️
+
+[Data](articles/4a1df7cc.json)
+
+---
+
+### The latest revelation of our war heroes who died in the Russian-Ukrainian war during the war
 
 *2024-05-15 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196644) · `si`
 
-රුසියානු යුක්‍රේන යුද්ධය සඳහා අනීතිකව ගොස් සිටි ශ්‍රී ලාංකිකන් 16 දෙනෙකු මියගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Sri Lanka's Defense Minister revealed that 16 citizens were killed in the Russian-Ukrainian conflict, with 288 complaints about recruitment. The minister criticized the lack of transparency in contracts and translations. The Defense Secretary sought a list of deceased and details of mercenaries from the Russian Ambassador, promising to honor them if alive. The Sri Lankan Ambassador in Russia offered assistance.
 
-අමාත්‍යවරයා පැවසුවේ, යුද්ධයට එක් වූ ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් පැමිණිලි 288ක් මේවන විට ලැබී ඇති බවය.
+🟩
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර මහතා විසින් රුසියානු හමුදා සේවයට ශ්‍රී ලාංකිකයින් බඳවා ගැනීමට පළ කළ දැන්වීම මෙලෙස ප්‍රසිද්ධ කළේය.
+Defense Minister Linea Bandara Tennakoon says that 16 Sri Lankans have been killed in the Russian Ukrainian war have been killed.
 
-"මේ වගේ දැන්වීම් රැසක් අපිට ලැබිලා තියෙනවා. ඒ වගේම මොවුන්ව ගිවිසුම් ගත කරගෙන තියෙනවා. රුසියානු භාෂාවෙන් ගිවිසුම ලබාදීලා තියෙන්නේ. ඒකේ සිංහල පරිවර්තනය ගූගල් ට්‍රාන්ස්ලේෂන් එකක් කරලා තියෙනවා කියලා අපිට හිතෙන්නේ."
+The Minister said 288 complaints have been received regarding Sri Lankans who joined the war.
 
-ප්‍රශ්නය - රුසියාවට ගිය අයගෙන් මියගිය සංඛ්‍යාව දැනුම් දුන්නා ද ?
+Defense Minister Pishy Bandara made the advertisement to recruit Sri Lankans to the Russian military service.
 
-"මට තිබෙන තොරතුරු අනුව මියගිය අය ගණන 16ක් බවට තහවුරු වෙලා තියෙනවා."
+"We've got a lot of ads like this. And they have contracted their contract. The agreement is issued in the Russian language. The Sinhala translation of it is that Google has done a Google Translation. "
 
-මේ අතර ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා පැවසුවේ  රුසියානු යුක්‍රේන යුද්ධයට ගොස් ඇති ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් රුසියානු තානාපතිවරයාගෙන් ඉල්ලීම් කළ බවය.
+Q: Did you communicate the death of those who went to Russia?
+
+"According to my information, the number of people have been confirmed to 16."
+
+Meanwhile, Defense Secretary Retired General Kamal Gunaratne said that the Russian Ambassador had requested the Sri Lankans who had gone to Russian Ukrainian war.
 
 ...
 
 [Data](articles/d2275af6.json)
+
+[Extended Data](ext_articles/d2275af6.ext.json)
 
 ---
 
@@ -2155,81 +2205,5 @@ But while I speak on that issue, I will also later in my speech refer to the dou
 [Data](articles/e4730e0b.json)
 
 [Extended Data](ext_articles/e4730e0b.ext.json)
-
----
-
-### Do not stop the telephone.
-
-*2024-05-15 00:43:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவசெரியவை-நிறுத்தாதீர்கள்/175-337316) · `ta`
-
-Sajith Premadasa urges suspension of Sri Lanka's Swaseriya Ambulance Service due to staff leaving, citing government neglect.
-
-🟩
-
-Opposition Leader Sajith Premadasa has urged the Swaseriya Ambulance Service to be suspended.
-
-He emphasized this while addressing a special claim in Parliament on Tuesday (14).
-
-56 of the 322 Ambulance of the Superiya Ambulance Service, which started as the concept of Dr. Harsha de Silva. Drivers and emergency officers who worked on them have left the country.
-
-Consider this as the government has diminished the focus of the Ambuulans and the service of employees.He said, "Do not allow the Swaseriya Ambulance Service to be suspended."
-
-◼️
-
-[Data](articles/fe80dd52.json)
-
-[Extended Data](ext_articles/fe80dd52.ext.json)
-
----
-
-### Exchange Eelam Winning
-
-*2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தனி-ஈழம்-வெற்றி-பெறும்/150-337315) · `ta`
-
-Riyar Admiral Sarath Weerasekera discusses the potential success of establishing a separate Eelam in Sri Lanka's North and East, highlighting intensified proceedings against the Sri Lankan military and discussions on filing a case in the International Court of Justice. He also touches on the conflict between Palestine and Israel, mentioning Israel's support during Sri Lanka's 30-year war against the LTTE, which resulted in significant casualties.
-
-🟩
-
-Riyar Admiral Sarath Weerasekera, ruling party MP, said the fundamentalist objective of trying to establish a separate Eelam in the North and East would be a success if the war was proven.
-
-The proceedings against the Sri Lankan military have now been intensified and the II will discuss with member states on whether the Sri Lankan military can file a case in the International Court of Justice based on these testimony.. Na. The High Commissioner of the congregation said it was not normal.
-
-Speaking at a debate on the Motion on the Motion of the Palestinian Committee on Tuesday (14) in Parliament, he said.
-
-The conflicts between the two sides intensified only after Palestine's attack on a public event in Israel. The war is cruel. During the war, there will be losses on both sides.
-
-As the war intensifies between Palestine and Israel, the United States and the United Nations are able to understand.
-
-...
-
-[Data](articles/a7a74124.json)
-
-[Extended Data](ext_articles/a7a74124.ext.json)
-
----
-
-### Exchange Eelam Winning
-
-*2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-ஈழம்-வெற்றி-பெறும்/175-337315) · `ta`
-
-Riyar Admiral Sarath Weerasekera discusses the potential success of establishing a separate Eelam in Sri Lanka's North and East, highlighting the intensification of proceedings against the Sri Lankan military. He mentions the possibility of filing a case in the International Court of Justice, noting concerns about the impact on Sri Lanka's independence. The discussion also touches on the conflicts between Palestine and Israel, Israel's cooperation with Sri Lanka during its 30-year war, and the United States' stance towards the LTTE.
-
-🟩
-
-Riyar Admiral Sarath Weerasekera, ruling party MP, said the fundamentalist objective of trying to establish a separate Eelam in the North and East would be a success if the war was proven.
-
-The proceedings against the Sri Lankan military have now been intensified and the II will discuss with member states on whether the Sri Lankan military can file a case in the International Court of Justice based on these testimony.. Na. The High Commissioner of the congregation said it was not normal.
-
-Speaking at a debate on the Motion on the Motion of the Palestinian Committee on Tuesday (14) in Parliament, he said.
-
-The conflicts between the two sides intensified only after Palestine's attack on a public event in Israel. The war is cruel. During the war, there will be losses on both sides.
-
-As the war intensifies between Palestine and Israel, the United States and the United Nations are able to understand.
-
-...
-
-[Data](articles/e218ccd7.json)
-
-[Extended Data](ext_articles/e218ccd7.ext.json)
 
 ---

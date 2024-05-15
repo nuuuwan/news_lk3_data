@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 13:53:07**
+As of **2024-05-15 14:04:34**
 
 ## Newspaper Stats
 
-*Scraped **24,199** Articles*
+*Scraped **24,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,122 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,064
+adalk | 2,065
 adaderanalk | 2,807
 tamilmirrorlk | 2,847
-virakesarilk | 3,630
-dailymirrorlk | 3,804
-adaderanasinhalalk | 3,865
+virakesarilk | 3,635
+dailymirrorlk | 3,807
+adaderanasinhalalk | 3,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,197 (100.0%) of 24,199 articles have been extended.
+24,199 (100.0%) of 24,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ නියෝගයක්
+### හිරෙන් පැන්න FLY
+
+*2024-05-15 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196647) · `si`
+
+ප්‍රංශයේ පොලිස් ග්‍රහණයෙන් පළාගිය මොහොමඩ් අම්රි නම් සිරකරුවෙකු සොයා එරට උතුරුදිග නෝමැන්ඩි කලාපයේ දැවැන්ත මෙහෙයුමක් ආරම්භ වී තිබේ.
+
+"ද ෆ්ලයි" නම් අන්වර්ථ නාමයෙන් හඳුන්වන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන මෙම සිරකරු පළා ගොස් තිබුණේ, තවත් පිරිසකගේ සහායෙනි.
+
+ඒ නඩු විමසුමකින් පසුව ආපසු බන්ධනාගාරය වෙත රැගෙන එමින් සිටියදී ය.
+
+බන්ධනාගාර රථ පෙළ අධිවේගී පිවිසුමකින් පිටතට පැමිණෙමින් තිබියදී එය අවහිර කළ මෝටර් රථයක පැමිණි සන්නද්ධ කල්ලියක් එම රථවලට සහ බන්ධනාගාර නිලධාරීන්ට වෙඩිතබා සිරකරු ද සමග පළාගොස් තිබුණි.
+
+මොහොමඩ් අම්රිට මත්ද්‍රව්‍ය ජාවාරම සහ පැහැරගැනීමක් සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති අතර මීට පෙරද ඔහු බන්ධනාගාරයෙන් පළායාමට උත්සාහ කළ අයෙකි.
+
+මොහොමඩ් අම්රි සෙවීමේ මෙහෙයුම් සඳහා නිලධාරීන් 200ක් පමණ යොදවා ඇති අතර අපරාධකරුවන් භාවිත කළ බවට සැකකෙරෙන මෝටර් රථ දෙකක් සොයා ගැනීමට ඔවුන් සමත්ව තිබුණි.
+
+◼️
+
+[Data](articles/5a56429d.json)
+
+---
+
+### 4 வயது மகளுக்கு சிறுநீரக பாதிப்பென பொய் கூறி யாழில் யாசகம் பெற்ற காத்தான்குடி வாசிக்கு விளக்கமறியல்
+
+*2024-05-15 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183598) · `ta`
+
+காத்தான்குடி பகுதியில் இருந்து யாழ்ப்பாணம் வந்து , தனது மகளுக்கு சிறுநீரக சிகிச்சைக்கு பணம் வேண்டும்  என பொய் கூறி  யாசகம் பெற்ற தந்தை கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் , கல்வியங்காடு சந்தை பகுதியில் 4 வயது சிறுமியை சக்கர நாற்காலியில் இருத்தி , சிறுமியின் இரு சிறுநீரகங்களுக்கு பழுதடைந்துள்ளதாகவும் , அதற்கான சிகிச்சைக்கு பண உதவி செய்யுமாறு கோரி ஒருவர் யாசகம் பெற்றுள்ளார்.
+
+யாழில் நிலவும் கடுமையான வெப்பமான காலநிலையில் , வெயிலுக்குள் சிறுமியை சக்கர நாற்காலியில் இருத்தி வைத்து ஒருவர் யாசகம் பெறுவதாக கோப்பாய் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் , சம்பவ இடத்திற்கு சென்ற பொலிஸார் சிறுமியை மீட்டு யாழ்.போதனா வைத்தியசாலையில் அனுமதித்ததுடன் , யாசகம் பெற்ற நபரையும் கைது செய்தனர்.
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிறுமிக்கு மேற்கொள்ளப்பட்ட வைத்திய பரிசோதனையில் சிறுமிக்கு எவ்விதமான உடல்நல குறைபாடுகளும் இல்லை. சிறுமி ஆரோக்கியமாகவுள்ளார் என தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/c1331568.json)
+
+---
+
+### Court order against protesters
 
 *2024-05-15 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196646) · `si`
 
-කේ ඩී ලාල්කාන්ත, මහින්ද ජයසිංහ, රන්ජන් ජයලාල් ඇතුළු විරෝධතාකරුවන් පිරිසකට එරෙහිව මාළිගාකන්ද අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+Maligakanda Court ordered protesters like K de Lal Kanthe, Mahinda Jayasinghe, Ranjan Jayalal to avoid embarrassment in specific areas: Deans Road, TB Jaya Mawatha, Technical Junction, Inbanne Junction.
 
-එම නියෝගයේ දැක්වෙන්නේ විරෝධතාකරුවන් ඩීන්ස් පාර, ටී බී ජයා මාවත, ටෙක්නිකල් හංදිය, ඉබ්බන්වල හංදිය වැනි ප්‍රදේශවලදී මහජනතාව අපහසුවට පත්වන ආකාරයෙන් කටයුතු නොකළ යුතු බවය.
+🟩
+
+The Maligakanda Court has issued an order against a group of protesters including K de Lal Kanthe, Mahinda Jayasinghe, Ranjan Jayalal.
+
+According to the decree, the protesters should not be embarrassed in Deans Road, TB Jaya Mawatha, Technical Junction, and Inbanne Junction.
 
 ◼️
 
 [Data](articles/15043da8.json)
+
+[Extended Data](ext_articles/15043da8.ext.json)
+
+---
+
+### Cheers to new beginnings!
+
+*2024-05-15 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Cheers-to-new-beginnings/110-282651) · `en`
+
+Students rushing out of the examination hall with smiles, as they eagerly share tales of triumph and relief after completing their GCE (O/L) examinations. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/fc7c7332.json)
+
+---
+
+### Indian Supreme Court trains Sri Lankan Supreme Court officials
+
+*2024-05-15 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Supreme-Court-trains-Sri-Lankan-Supreme-Court-officials/108-282650) · `en`
+
+A delegation comprising 15 officials of the Sri Lankan Supreme Court completed a four-day training programme from May 9 to13 at the Supreme Court of India, a statement from the Indian High Commission said.
+
+During the programme, the delegates were introduced to the technological and digital transformation of the Supreme Court of India including the e-Courts project, Library, Court processes such as filing, listing, scrutiny, scanning and record keeping.
+
+The Senior Registrars from the Registry explained to the delegates nuances of the same and demonstrated the systems with enhanced transparency, efficiency and accessibility, the High Commission said.
+
+This initiative is a testament to the strong bilateral relationship and mutual commitment to judicial excellence and technological innovation between India and Sri Lanka.
+
+...
+
+[Data](articles/61aad57b.json)
+
+---
+
+### අධිකරණ ඇමතිට එරෙහි වාරණය දිගු කරයි
+
+*2024-05-15 13:18:06* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිට-එරෙහි-වාරණය-දිගු-කරයි/11-409645) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන  සභාපති වශයෙන් පත්කළ අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතට එම ධුරයේ කටයුතු කිරිම වලක්වමින් කොළඹ දිසා අධිකරණය නිකුත් කර ඇති වාරණ නියෝගය යළිත් ලබන 27 දා තෙක් දිර්ඝ කිරිමට එම අධිකරණය අද නියෝග කළේය.
+
+◼️
+
+[Data](articles/ea80a7ce.json)
 
 ---
 
@@ -65,6 +153,24 @@ The President said that at the opening of the new Court Complex at Teldeniya thi
 [Data](articles/0c39db9d.json)
 
 [Extended Data](ext_articles/0c39db9d.ext.json)
+
+---
+
+### நீதி மன்றுக்கு எழுத்து மூலம் வழங்கிய உறுதிமொழியை நிறைவேற்றாத கரைச்சி பிரதேச சபை - தகவல் அறியும் உரிமைச் சட்டத்தின் மூலம் வெளிவந்த தகவல்
+
+*2024-05-15 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183599) · `ta`
+
+கிளிநொச்சி நீதவான் நீதி மன்றுக்கு 2020 ஆம் ஆண்டு கரைச்சி பிரதேச சபையால் சட்டவிரோத கடைகளை அகற்றுவது தொடர்பில் எழுத்து மூலம் வழங்கப்பட்ட உறுதிமொழி இன்றுவரை நிறைவேற்றப்படவில்லை என்பது தகவல் அறியும் உரிமைச் சட்டத்தின் மூலம் தெரியவந்துள்ளது.
+
+கரைச்சி பிரதேச சபைக்கு சொந்தமான கிளிநொச்சி கரடிபோக்கு சந்தியில் உள்ள காணியில் அப்போதிருந்த  மக்கள் பிரதிநிதிகளை கொண்டமைந்த சபையால் அனுமதி வழங்கப்பட்ட சட்டவிரோத கடை கட்டடங்கள் தொடர்பில் கிளிநொச்சி நீதவான் நீதி மன்றில்  செயலாளரினால் வழக்கு பதிவு செய்யப்பட்டது.
+
+இருப்பினும், 34688 இலக்கம் கொண்ட  வழக்கானது  தவறான சட்டப்பிரிவின் கீழ் தாக்கல் செய்யப்பட்டுமையாலும்,சட்ட ஏற்பாடுகளின் பிரகாரம் கௌரவ மன்றுக்கு பாரப்படுத்தாமல் சபையினால் அனுமதியற்ற கட்டங்களை அகற்றமுடியும்.
+
+எனவே குறித்த வழக்கினை மீளப்பெறுகின்றோம் எனத் தெரிவித்து NP/14/42(2)/KPS/SUB/2020 இலக்கம் கொண்ட 2020.10.26 திகதி கடிதம் மூலம் தாங்களே குறித்த சட்டவிரோத கடை கட்டடங்களை அகற்றுவதாக நீதி மன்றுக்கு அறிவித்து  வழக்கினை வாபஸ் பெற்றிருந்தனர்.
+
+...
+
+[Data](articles/982a5004.json)
 
 ---
 
@@ -92,6 +198,24 @@ Nominating the strategic business as a secondary business of importance of the s
 
 ---
 
+### சாதாரண தரப் பரீட்சை வளாகத்திற்குள் அத்துமீறி நுழைந்து மாணவர்களைத் தாக்கிய தாயார்!
+
+*2024-05-15 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183588) · `ta`
+
+கல்விப் பொது தராதர சாதாரண தரப் பரீட்சை வளாகத்திற்குள் நேற்று செவ்வாய்க்கிழமை (14) இரு மாணவ குழுக்களுக்கிடையில் ஏற்பட்ட முரண்பாடு காரணமாகப் பாடசாலை சூழலில் பதற்றமான நிலை ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சாதாரண தரப் பரீட்சைக்குத் தோற்றுவதற்காக அனுராதபுரம் பிரதேசத்தில் உள்ள பிரபல பாடசாலையொன்றிற்கு பிரிதொரு பாடசாலையிலிருந்து மாணவர்கள் சிலர் வருகைதந்துள்ள நிலையில் நேற்று செவ்வாய்க்கிழமை (14) இரு பாடசாலை மாணவ குழுக்களுக்கிடையிலும் முரண்பாடு ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பரீட்சை ஆரம்பித்த நாளிலிருந்து இருதரப்பினருக்குமிடையிலும் வாக்கு வாதம் ஏற்பட்டுள்ளதோடு, நேற்றைய தினம் மாணவரொருவரின் தாயொருவர் பரீட்சை வளாகத்திற்குள் அத்துமீறி நுழைந்து மாணவர்களைத் தாக்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, சந்தேக நபரைக்கைது செய்து கடுமையாக எச்சரித்து பொலிஸ் பிணையில் விடுவித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3106b37b.json)
+
+---
+
 ### Govt remains steadfast in commitment to combat crime and ensure justice – President
 
 *2024-05-15 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99230/govt-remains-steadfast-in-commitment-to-combat-crime-and-ensure-justice-president) · `en`
@@ -111,6 +235,26 @@ The President also reiterated his commitment to combating corruption by undertak
 [Data](articles/08b16689.json)
 
 [Extended Data](ext_articles/08b16689.ext.json)
+
+---
+
+### நாங்கள் இம்முறை தனியாக  இரண்டாவது நக்பாவை எதிர்கொள்கின்றோம் - பாலஸ்தீன மக்கள் கருத்து
+
+*2024-05-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183601) · `ta`
+
+நாங்கள் இரண்டாவது நக்பாவை எதிர்நோக்கியுள்ளோம் என தெரிவிக்கும் பாலஸ்தீனியர்கள் எனினும் இம்முறை தனித்துவிடப்பட்டுள்ளதாகவும் தனியாக அதனை எதிர்கொள்வதாகவும் குறிப்பிட்டுள்ளனர்.
+
+எனினும் காசாவில் இடம்பெறும் யுத்தங்களும் மேற்குகரையில் இஸ்ரேலின் இராணுவ ஆக்கிரமிப்பும் இரண்டாவது நக்பா அரங்கேறுகின்றது என்பதற்கான தெளிவான ஆதாரங்கள் என தெரிவித்துள்ள பாலஸ்தீன மக்கள் ஆனால் இம்முறை நாங்கள் அதனை தனியாக எதிர்கொள்கின்றோம் என தெரிவித்துள்ளனர்.
+
+சிலர் 1948ம் ஆண்டுஅராபிய இஸ்ரேலிய யுத்தத்தைநினைவுகூர்ந்துள்ளதுடன்  சமூகத்தின் அனைத்துர தரப்பினரும் பாலஸ்தீனத்திற்காக போரடி உயிர்நீத்தனர் என சுட்டிக்காட்டியுள்ளனர்.
+
+இந்த யுத்தத்தில் சியோனிஸ்ட்களிற்கு எதிராக பாலஸ்தீனியர்களுடன் இணைந்து ஈராக்கிய படையினர் போரிட்டனர் என அடிப் நசல் என்பவர் தெரிவித்துள்ளார்.
+
+தற்போது அராபிய இராணுவம் என்பதே இல்லை அனைவரும் தங்கள் சொந்த நலன்களை பாதுகாக்க விரும்புகின்றனர் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/566de186.json)
 
 ---
 
@@ -171,6 +315,34 @@ Large lagoon prawns and crabs being sold near the Bolgoda Lake adjoining the Kos
 [Data](articles/7072bc8a.json)
 
 [Extended Data](ext_articles/7072bc8a.ext.json)
+
+---
+
+### A girl who abandoned the child in Jaffna
+
+*2024-05-15 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183586) · `ta`
+
+A 15-year-old girl and her mother abandoned a newborn at Jaffna Bodhana Hospital. The girl, from Nelliyadi, was caught by police after giving birth. A 25-year-old woman from Mallavi, also pregnant, was arrested during the investigation.
+
+🟩
+
+A 15 -year -old girl who abandoned the child at the Jaffna Bodhana Hospital was caught by the police on Tuesday (14).
+
+A 15 -year -old schoolgirl was admitted to the Jaffna Bodhana Hospital last week.The mother is also standing for help with the girl.
+
+The next day when the girl was born, the mother and the girl abandoned the baby at the hospital and fled.
+
+According to the complaint, the police have found that the girl belongs to the Nelliyadi Police Division, which was informed by the Nelliyadi police.
+
+Based on investigations carried out by Nelliyadi police, the girl and her mother who gave birth to the baby were taken to the police station and carried out investigations.
+
+Based on the investigation, a 25 -year -old youth from Mallavi, who was pregnant and pregnant, has been arrested.
+
+◼️
+
+[Data](articles/0a279163.json)
+
+[Extended Data](ext_articles/0a279163.ext.json)
 
 ---
 
@@ -290,6 +462,22 @@ Premadasa said the opposition was against this, and would take legal action to c
 
 ---
 
+### முள்ளிவாய்க்கால் கஞ்சி ; அம்பாறையில் ஐவருக்கு நீதிமன்ற தடை உத்தரவு
+
+*2024-05-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183592) · `ta`
+
+முள்ளிவாய்க்காலில் படுகொலை செய்யப்பட்ட பொதுமக்களை நினைவுகூரும் முகமாகவும்  முள்ளிவாய்க்கால் கஞ்சி  தயாரிக்க முற்படுபவர்கள் என குறிப்பிட்டும் ஐவருக்கு நீதிமன்ற தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், அம்பாறை மாவட்டத்தில் குறித்த நிகழ்வினை ஏற்பாடு செய்ய முயற்சிகளை மேற்கொள்வார்கள் என தெரிவித்து சமூக சேவகர்கள், அரசியல் கட்சி பிரதிநிதிகள் மற்றும் பொதுமக்கள் என ஐவருக்கு இவ்வாறு கல்முனை நீதிமன்ற நீதிபதியின் கையொப்பத்துடன் பெரியநீலாவணை பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஜே.எஸ்.கே.வீரசிங்கவினால் குறித்த நபர்களுக்கு தடையுத்தரவு பத்திரம்  வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+இதற்கமைய தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் மாவட்ட அமைப்பாளர் புஸ்பராஜ் துஷானந்தன்   அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்க தலைவி தம்பிராசா செல்வராணி  மனித உரிமை செயற்பாட்டாளர் தாமோதரம் பிரதீவன் தமிழரசுக் கட்சி முக்கியஸ்தர்    கிருஸ்ணபிள்ளை ஜெயசிறில்  விநாயகம் விமலநாதன்ஆகிய ஐவருக்கே  இவ்வாறு தடையுத்தரவு பெறப்பட்டிருந்தது.
+
+...
+
+[Data](articles/0a8b37b6.json)
+
+---
+
 ### Tense situation near Presidential Secretariat due to protest
 
 *2024-05-15 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99229/tense-situation-near-presidential-secretariat-due-to-protest) · `en`
@@ -370,31 +558,19 @@ He underscored that these rare complications are not indicative of future advers
 
 ---
 
-### A girl who abandoned the child in Jaffna
+### Public asked not to panic over AstraZeneca vaccine
 
-*2024-05-15 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183586) · `ta`
+*2024-05-15 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-asked-not-to-panic-over-AstraZeneca-vaccine/155-282643) · `en`
 
-A 15-year-old girl and her mother abandoned a newborn at Jaffna Bodhana Hospital. The girl, from Nelliyadi, was caught by police after giving birth. A 25-year-old woman from Mallavi, also pregnant, was arrested during the investigation.
+Colombo, May 15 (Daily Mirror) - In the wake of the recent mass withdrawal of AstraZeneca vaccines due to concerns over rare blood clots, Sri Lanka health experts emphasized that individuals who have received the AstraZeneca vaccine need not harbour undue fears regarding its safety.
 
-🟩
+Addressing the media, Dr. Ananda Wijewickrama, Chairman of the National Medicinal Drugs Regulatory Authority, referenced a case in which the manufacturer of AstraZeneca acknowledged that complications from the vaccine are exceedingly rare, a fact they had previously admitted.
 
-A 15 -year -old girl who abandoned the child at the Jaffna Bodhana Hospital was caught by the police on Tuesday (14).
-
-A 15 -year -old schoolgirl was admitted to the Jaffna Bodhana Hospital last week.The mother is also standing for help with the girl.
-
-The next day when the girl was born, the mother and the girl abandoned the baby at the hospital and fled.
-
-According to the complaint, the police have found that the girl belongs to the Nelliyadi Police Division, which was informed by the Nelliyadi police.
-
-Based on investigations carried out by Nelliyadi police, the girl and her mother who gave birth to the baby were taken to the police station and carried out investigations.
-
-Based on the investigation, a 25 -year -old youth from Mallavi, who was pregnant and pregnant, has been arrested.
+He underscored that these rare complications are not indicative of future adverse effects, providing reassurance on the overall safety profile of the vaccine.
 
 ◼️
 
-[Data](articles/0a279163.json)
-
-[Extended Data](ext_articles/0a279163.ext.json)
+[Data](articles/cd1157cf.json)
 
 ---
 
@@ -1608,25 +1784,37 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### මුල්ලිවයික්කාල් කැඳ දන්සැල් තහනම් කිරීම සහ අත්අඩංගුවට ගැනීම් සිදු කරන්නේ ඇයි?
+### Why do Mullivaikkalkal-in ban and arrests?
 
 *2024-05-15 07:44:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87z7d5g0d3o) · `si`
 
-මුල්ලිවයික්කාල් කැඳ දන්සැල් තහනම් කිරීම සහ අත්අඩංගුවට ගැනීම් සිදු කරන්නේ ඇයි?
+Bans and arrests in Mullivaikkal during commemorations for war victims highlight tensions. Despite peaceful intentions, events are deemed threats to national security, leading to legal action.
 
-යුද්ධයෙන් මිය ගිය තම ආදරණීයයන් සිහිපත් කිරීම සදහා උතුරු නැගෙනහිර දෙමළ ජනයා සිදු කරනු ලබන අනුස්මණයන්ට පහළොස් වසරක් ගත වී තිබේ.
+🟩
 
-කෙසේ වෙතත් පසුගිය වසර ගණනාව පුරා මෙම සිහිපත් කිරීමේ අවස්ථා සංවිධානය කිරීමේදී ඔවුන්ට විටින් විට විවිධ පාර්ශවයන්ගෙන්; නොයක් ආකාරයේ බාධා එල්ල වීම් දක්නට ලැබුණි.
+Why do Mullivaikkalkal-in ban and arrests?
 
-යුද්ධය අවසන් වී වසර 14 යි : දෙමළ ජනයා සිහි කිරීමේ දී ඇති වූ බාධා කිරීම් නිසා බොරැල්ල උණුසුම් වෙයිබලය බෙදීම : 'ෆෙඩරල් කියන වචනයම අපිට ඕනා නැහැ. අපිට ඕනා වැඩි බලයක්'
+It has been fifteenth since the commemorations carried out by Tamils in the East to recall their war-torn loved ones.
 
-මේ අතර පසුගිය දින දෙකක් තුළ පොලිසිය විසින් “මුල්ලිවයික්කාල් කන්ජි” ලෙස ඉතිහාස ගතවී ඇති කැඳ දන්සල් දෙකක් උසාවි නියෝග ලබා ගනිමින් තහනම් කරන ලද්දේ උතුරු නැගෙනහිර පුරා මෙම සතියේදී එවැනි තවත් දන්සල් පැවැත්වෙමින් තිබියදී ය.
+However, for many years of organizing this reminder, they occasionally from different parties;There was no defensive obstacles.
 
-සම්පුර් හි පැවැති කැඳ දන්සලක් තහනම් කරමින් උසාවි නියෝගයක් ලබා ගත් පොලීසිය දෙමළ කාන්තාවන් තිදෙනකු ඇතුළු සිව් දෙනකු අත්අඩංගුවට ගෙන රිමාන්ඩ් ගත කර තිබේ.
+14 years after the end of the war. We need more power '
+
+Meanwhile, two Dansal has been banned from the North and East, while the police have been banned from the North and East.
+
+Four persons including three Tamil women have been arrested and remanded for banning a court order banning a garbage at the company.
+
+Sunday of May 12, Kamalaswaran Ten Deny Gen.says.
+
+In front of the people of the war, Mullivaikkal had been distributed to the residents of the area in front of the area of Trincomalee Savior, Trincomalee.
+
+The deceased commemoration in Vellamullivaikal and the orders of the court banned and supply of food and dedication have been rejected when they tried to deliver the court order.
 
 ...
 
 [Data](articles/02d0f073.json)
+
+[Extended Data](ext_articles/02d0f073.ext.json)
 
 ---
 
@@ -2045,193 +2233,5 @@ The Bribery also sought the permission of the Court to record the statements fro
 [Data](articles/97dd5641.json)
 
 [Extended Data](ext_articles/97dd5641.ext.json)
-
----
-
-### Mumbai becomes Asia’s Billionaires Hub
-
-*2024-05-15 05:03:20* · [`dailyftlk`](https://www.ft.lk/business/Mumbai-becomes-Asia-s-Billionaires-Hub/34-761795) · `en`
-
-Mumbai has emerged as Asia's billionaire capital in a notable development, as per the latest findings from the Hurun Global Rich List 2024. This shift underscores India's burgeoning economic prowess, as the city sees a significant surge in billionaire residents. With an impressive addition of nearly 100 billionaires compared to the previous year, Mumbai stands as a testament to the nation's growing economic confidence and prosperity.
-
-Mumbai now boasts 92 billionaires, edging past Beijing's count of 91, as reported by the Hurun Global Rich List. This meteoric rise solidifies Mumbai's position among the top three cities globally in terms of billionaire density.
-
-...
-
-[Data](articles/b3255992.json)
-
-[Extended Data](ext_articles/b3255992.ext.json)
-
----
-
-### Cabinet nod to introduce Technology Promotion Act replacing 20-year-old ICTA
-
-*2024-05-15 05:02:12* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-introduce-Technology-Promotion-Act-replacing-20-year-old-ICTA/34-761794) · `en`
-
-New legislation proposes Technology Innovation Council and Digital Transformation Agency
-
-The Cabinet of Ministers on Monday cleared the introduction of the Technology Promotion Act, signalling a significant step towards modernising the legislative framework to embrace the digital age.
-
-The decision involves the cancellation of the existing Information and Communication Technology Act (ICTA) No. 27 of 2003 and the drafting of a new Bill based on a concept paper prepared for this purpose.
-
-“The introduction of the Technology Promotion Act will provide a comprehensive legal framework to promote and regulate technology-related activities in the country. By updating outdated legislation and embracing new approaches to technology governance, the Government aims to create an enabling environment for technological advancement and digital entrepreneurship,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing held yesterday.
-
-...
-
-[Data](articles/fb4bb6ef.json)
-
-[Extended Data](ext_articles/fb4bb6ef.ext.json)
-
----
-
-### Govt. allows power wheeling facility for renewable energy projects
-
-*2024-05-15 05:01:41* · [`dailyftlk`](https://www.ft.lk/business/Govt-allows-power-wheeling-facility-for-renewable-energy-projects/34-761793) · `en`
-
-The Cabinet of Ministers at its meeting on Monday approved a power wheeling facility for private entities to collectively use the Ceylon Electricity Board (CEB) transmission network to transport electricity to different locations subject to a payment of fee.
-
-The progressive move aims to promote renewable energy adoption and boost energy self-sufficiency in Sri Lanka. The approach, known as ‘power wheeling’, allows electricity users to utilise existing supply from another location through the grid, subject to a fee, thereby reducing costs effectively.
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said under the approved proposal, electricity users will be allowed to build renewable energy plants, such as mini-hydro facilities and transmit the generated power through the CEB grid to other locations owned by the same party for personal use.
-
-...
-
-[Data](articles/0e92a3c8.json)
-
-[Extended Data](ext_articles/0e92a3c8.ext.json)
-
----
-
-### Pathfinder Foundation hosts delegation from Geneva’s International Trade Centre
-
-*2024-05-15 05:00:32* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-Foundation-hosts-delegation-from-Geneva-s-International-Trade-Centre/34-761792) · `en`
-
-Switzerland, Geneva-based International Trade Centre Chief of Asia Pacific Sylvie Bétemps Cochin (second from right) with Pathfinder Foundation Chairman Bernard Goonetilleke and Executive Director Dayaratna Silva
-
-Pathfinder Foun-dation yesterday welcomed a delegation from the International Trade Centre (ITC) based in Geneva, Switzerland led by Chief of Asia Pacific Sylvie Bétemps Cochin.
-
-The delegation also included Associate Project Adviser Camille Roy and Associate Program Officer Vidya Nathaniel.
-
-...
-
-[Data](articles/da1eeea6.json)
-
-[Extended Data](ext_articles/da1eeea6.ext.json)
-
----
-
-### President mulls invalidation of postponed LG election nominations
-
-*2024-05-15 04:59:04* · [`dailyftlk`](https://www.ft.lk/news/President-mulls-invalidation-of-postponed-LG-election-nominations/56-761791) · `en`
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena says Govt. sought legal advice from AG regarding the matter
-
-Asserts State sector employees who submitted nominations for LG polls faced difficulties at work places due to their political perspectives
-
-Says President directs to hold discussions with AG, party leaders and Election Commission to plan for LG polls next year under previous system which will enable higher participation of women
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday confirmed that President Ranil Wickremesinghe has directed Premier Dinesh Gunawardena to explore the possibility of quashing the nominations for the postponed 2023 Local Government elections.
-
-He said that the matter was taken into consideration under ‘other category’ at the weekly Cabinet meeting held on Monday.
-
-...
-
-[Data](articles/ee1b4d68.json)
-
-[Extended Data](ext_articles/ee1b4d68.ext.json)
-
----
-
-### Dr. Fernandopulle presents two private member bills to push for more women representation in Parliament
-
-*2024-05-15 04:54:49* · [`dailyftlk`](https://www.ft.lk/news/Dr-Fernandopulle-presents-two-private-member-bills-to-push-for-more-women-representation-in-Parliament/56-761790) · `en`
-
-Two private member bills have been presented to parliament with the aim of increasing women’s representation in the legislative body.
-
-The two bills, reportedly submitted by parliamentarian Dr Sudarshini Fernandopulle as private member proposals, aim to address the issue of female representation in parliament. One bill seeks to amend the Parliamentary Elections Act, advocating for a minimum of 30% female representation in every recognized political party.
-
-Additionally, another proposal submitted to Parliament as a draft bill aims to amend the Constitution as the 22nd Amendment. This proposal suggests that not less than 50% of women members be included in the national list nominated to represent the Parliament of a political party or an independent group.
-
-Fernandopulle told journalists that despite her requests to political parties to take steps to enhance women’s representation, she opted to introduce the necessary legislation herself due to the absence of a positive response.
-
-◼️
-
-[Data](articles/6d4f9950.json)
-
-[Extended Data](ext_articles/6d4f9950.ext.json)
-
----
-
-### PM initiates revival of techno parks in Galle, Kurunegala
-
-*2024-05-15 04:53:45* · [`dailyftlk`](https://www.ft.lk/news/PM-initiates-revival-of-techno-parks-in-Galle-Kurunegala/56-761789) · `en`
-
-People’s Bank and NSB had lent Rs. 750 million each for the proposed parks in 2021
-
-Prime Minister Dinesh Gunawardena is initiating key measures to revive the technological parks in Galle and Kurunegala initiated in 2021 but later abandoned.
-
-A statement from the Prime Minister’s Office said yesterday that the Ministry of Investment Promotion has been advised in the National Operations Room discussions to prepare a plan to make proper use of the buildings constructed in the Technology Parks by the Techno Park Company in Kurunegala and Galle Districts.
-
-The problems of the development projects and the methods of expediting those projects were discussed by the National Operation Room headed by the Secretary to the Prime Minister Anura Dissanayake.
-
-...
-
-[Data](articles/670df84f.json)
-
-[Extended Data](ext_articles/670df84f.ext.json)
-
----
-
-### Cabinet green lights revision of land grant methodology for war heroes
-
-*2024-05-15 04:51:48* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-revision-of-land-grant-methodology-for-war-heroes/56-761788) · `en`
-
-The Cabinet of Ministers on Monday gave its green light to revise the existing methodology for granting lands to war heroes, whilst addressing issues that have arisen under the existing system.
-
-“The key objective of the move is to address the shortcomings of the current system and ensure that war heroes receive adequate support and recognition for their sacrifices,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing held yesterday.
-
-...
-
-[Data](articles/7c1e5b30.json)
-
-[Extended Data](ext_articles/7c1e5b30.ext.json)
-
----
-
-### Govt. Analyst ordered to accelerate examination of Dinesh Schaffter’s mobile phone
-
-*2024-05-15 04:51:32* · [`dailyftlk`](https://www.ft.lk/news/Govt-Analyst-ordered-to-accelerate-examination-of-Dinesh-Schaffter-s-mobile-phone/56-761787) · `en`
-
-Colombo Additional Magist-erial Harshana Kakunawala yesterday sent a reminder to the Government Analyst to speed up inquiry examination of the mobile phone that was recovered from  custody  of deceased  young investor Dinesh Schaffter and to file the  findings in court  as soon as possible.
-
-The Magistrate made this order on the Government Analyst consequent to a request made by President Counsel Anuja Premaratna appearing with Senior Counsel Mohan Balendran on behalf of the family of Schaffter during the autopsy inquiry.
-
-Counsel Premaratna also asserted that among the contents of the mobile phone there is vital information about the bank accounts and other business matters of the deceased. Counsel Premaratna also appealed to make available that information to the family of Schaffter.
-
-However Police said they will make a decision on that after consulting the investigation officers who are conducting the inquiry and  will report to court.
-
-...
-
-[Data](articles/debed79b.json)
-
-[Extended Data](ext_articles/debed79b.ext.json)
-
----
-
-### Duminda seeks injunction against SLFP Chair Wijeyadasa
-
-*2024-05-15 04:49:47* · [`dailyftlk`](https://www.ft.lk/news/Duminda-seeks-injunction-against-SLFP-Chair-Wijeyadasa/56-761786) · `en`
-
-The internal crisis within the Sri Lanka Freedom Party (SLFP) showed no signs of abating, as party member MP Duminda Dissanayake filed a petition with the Colombo District Court yesterday. Dissanayake is seeking an injunction order to prevent newly appointed SLFP Chairperson Dr. Wijeyadasa Rajapakshe from carrying out his duties in the role.
-
-The move comes after the Kaduwela District Court on Monday issued an enjoining order prohibiting any individual or group from obstructing Rajapakshe and Acting Secretary, Keerthi Udawatta, from performing their duties within the party.
-
-Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoining orders during a case brought forward by SLFP Executive Committee members Isuru Abeywardena and Sumith Wijayamuni de Soysa, who named 20 Executive Committee members as respondents.
-
-...
-
-[Data](articles/b1306118.json)
-
-[Extended Data](ext_articles/b1306118.ext.json)
 
 ---

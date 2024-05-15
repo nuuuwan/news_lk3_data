@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 22:33:48**
+As of **2024-05-15 22:51:44**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,285 (100.0%) of 24,286 articles have been extended.
+24,286 (100.0%) of 24,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### සාමාන්‍ය පෙළ ලියා ගෙදර යද්දී පැහැරගත් සිසුවිය බේරූ ක්ෂණික මෙහෙයුම
+### Quick mission surviving student from writing the Ordinary Level
 
 *2024-05-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196658) · `si`
 
-සාමාන්‍ය පෙළ විභාගයට පෙනී සිට නිවස බලා යමින් සිටි 16 හැවිරිදි පාසල් සිසුවියක් පැහැරගැනීමට උත්සාහ කළ සිද්ධියක් සම්බන්ධයෙන් සැකපිට තරුණයින් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Four youths were arrested for allegedly attempting to kidnap a 16-year-old girl during her Ordinary Level exams. The incident involved a three-wheeler driver and a van, leading to their arrest by the Aladeniya Police. One suspect, a married man from Avissawella, had a romantic relationship with the girl, which ended when she discovered his marriage status. This led to her being targeted and abducted near her school.
 
-පැහැරගැනීම සම්බන්ධයෙන් ත්‍රිරෝද රථ රියදුරෙකු ක්ෂණිකව 119 පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව වහාම ක්‍රියාත්මක වූ අලදෙණිය පොලීසිය වෑන් රථය සහ එම පිරිස පැයක් තුළ අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පොලීසිය පවසන්නේ එම සැකකරුවන් සිව්දෙනා අතර සිටින එක් අයෙකු මෙම තරුණිය සමග ප්‍රේම සම්බන්ධතාවයක් පවත්වා ඇති බවත් ඔහු විවාහකයෙකු බවත්ය.
+Four youths have been arrested on suspicion of a 16-year-old schoolgirl who was trying to abduct a 16-year-old schoolgirl at the O / L examination.
 
-අවිස්සාවේල්ල ප්‍රදේශයේ පදිංචිකරුවෙකු වන හිටපු හමුදා සෙබළෙකු වන එම සැකකරු සිය මිතුරන් සමග වෑන් රථයක් කුලියට ගෙන මෙම පාසල් සිසුවිය පැහැරගැනීම සඳහා පැමිණ තිබේ.
+A three-wheeler driver in connection with the abduction of the 119 Police Emergency Call Number, the Aladeniya Police have arrested the van and their group in an hour.
 
-පොළොන්නරුව ප්‍රදේශයේ පදිංචි හමුදා සෙබළෙකු වන මෙම පාසල් සිසුවියගේ සොහොයුරෙකුගේ නිවසට සැකකාර තරුණයා අවස්ථා කිහිපයකදී පැමිණීමෙන් අනතුරුව මෙම ප්‍රේම සම්බන්ධතාවය ඇතිවී තිබේ.
+Police states that one of the four suspects had a love affair with the girl and he was a married man.
 
-සැකකරු විවාහක අයෙකු බවට අනාවරණය වීමත් සමග මෙම සිසුවිය ඔහුව අතහැර ඇති අතර සැකකරුගෙන් එල්ලවන බලපෑම් හේතුවෙන් සිසුවියගේ මව්පියන් ඇයව මෙලෙස කුළුගම්මන ප්‍රදේශයේ නිවසක නතරකර ඇත.
+The suspect, a resident of Avissawella, rented a van with his friends and rented a van with their friends and arrived in the schoolgirl.
 
-...
+Army soldier in Polonnaruwa, a soldier's brother, has arrived at several times, this romantic relationship has occurred.
+
+The student had abandoned him with revealing that the suspect was married and the influence of the suspect was impacted by the student at a house in the Kulugammana area.
+
+From there, the student was abducted while he sat for the O / L examination and returning home.
+
+◼️
 
 [Data](articles/781dcf05.json)
+
+[Extended Data](ext_articles/781dcf05.ext.json)
 
 ---
 

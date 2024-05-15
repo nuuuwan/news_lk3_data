@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 18:23:37**
+As of **2024-05-15 18:34:45**
 
 ## Newspaper Stats
 
-*Scraped **24,239** Articles*
+*Scraped **24,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,068
-adaderanalk | 2,815
+adaderanalk | 2,816
 tamilmirrorlk | 2,852
 virakesarilk | 3,639
 dailymirrorlk | 3,810
@@ -26,29 +26,57 @@ adaderanasinhalalk | 3,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,238 (100.0%) of 24,239 articles have been extended.
+24,239 (100.0%) of 24,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ඉම්රාන් ඛාන්ට ඇප
+### Cocaine, ‘Kush’ and ecstasy pills worth Rs. 9 mln seized at Central Mail Exchange
+
+*2024-05-15 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99238/cocaine-kush-and-ecstasy-pills-worth-rs-9-mln-seized-at-central-mail-exchange) · `en`
+
+At least 10 parcels containing narcotics including ‘Kush’ cannabis, cocaine and ecstasy pills have been detected at the Central Mail Exchange, during the inspections carried out by officers of the Narcotics Control Unit of Sri Lanka Customs.
+
+Sri Lankan Customs spokesman said the parcels in question had been sent from Canada, UK and Netherlands to addresses in Dehiwala, Wellawatta, Veyangoda and Anuradhapura.
+
+However, extensive investigations have confirmed that the addresses mentioned in the parcels were fake.
+
+After opening the parcels for inspection, customs officers had discovered approximately 150 ecstasy pills (methamphetamine), 466 grams of ‘Kush’ cannabis and 10 grams of cocaine inside them.
+
+The street value of the seized drugs is estimated to be nearly Rs. 9 million.
+
+The detection was made by the officers of the Narcotics Control Unit of Sri Lanka Customs with the assistance of the officials of Central Mail Exchange.
+
+...
+
+[Data](articles/97d9cd27.json)
+
+---
+
+### Imran Khan bailed
 
 *2024-05-15 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196654) · `si`
 
-සිර දඬුවම් ලබා සිටින පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන්ට එරෙහිව පවතින තවත් එක් නඩුවක් සම්බන්ධයෙන් ඔහුට ඇප නියමවී තිබේ.
+Imran Khan, former PM of Pakistan, granted bail in a land fraud case, previously jailed for awarding illegal aid during his tenure. He rejected bail in Islamabad court but remains ineligible for release due to ongoing sentences in two other cases.
 
-ඒ ඉඩම් වංචාවක් සම්බන්ධයෙන් ඔහුට එරෙහිව එල්ල වී තිබූ චෝදනාවකට අදාළවය.
+🟩
 
-හිටපු අගමැති ඛාන් පාකිස්තානයේ අගමැතිව සිටි කාලයේ දී නීති විරෝධී උපකාර සඳහා ත්‍යාග වශයෙන් දේපොළ වෙළෙඳාම්කරුවෙකු ලබාදුන් ඉඩම් සම්බන්ධයෙන් ඔහුට චෝදනා ගොනු වී තිබුණි.
+For another case against former Prime Minister of Pakistan, who is sentenced to imprisonment, has been paid to another bail against Imran Khan.
 
-හිටපු අගමැති ඛාන් ඉස්ලාමාබාද් අධිකරණය හමුවේ ඇප ඉල්ලුම් කළේ එම චෝදනා ප්‍රතික්ෂේප කරමිනි.
+Its accusation has been filed against him about the land fraud.
 
-පසුගිය අගෝස්තු මාසයේ සිට සිරගතව සිටින හිටපු අගමැතිවරයාට මෙලෙස ඇප නියම වුවත් තවත් නඩු දෙකකට අදාළව ඔහුට සිර දඩුවම් නියමව පවතින හෙයින් සිරගතව සිටින අගමැතිවරයාට මෙම ඇප හිමිවීම හරහා තවදුරටත් නිදහස් නොවනු ඇත.
+When the former Prime Minister Khan was prime minister, he was accused of prizes awarded to illegal help.
+
+The former Prime Minister Khan declined the bail to the Islamabad Court.
+
+Although the former Prime Minister who was imprisoned from August to be sentenced to two other cases, the Prime Minister who is imprisoned will not be released further through this guarantee.
 
 ◼️
 
 [Data](articles/408b7a8f.json)
+
+[Extended Data](ext_articles/408b7a8f.ext.json)
 
 ---
 
@@ -2327,29 +2355,5 @@ It is the responsibility of the concerned committee to consider the provision of
 [Data](articles/7b1f4113.json)
 
 [Extended Data](ext_articles/7b1f4113.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank net up 152-pct in March quarter
-
-*2024-05-15 08:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-152-pct-in-march-quarter-163082/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 152 percent from a year ago to 10.6 billion rupees in the March 2024 quarter amid higher net interest income and lower bad loan provisioning, interim accounts show.
-
-The bank reported earnings of 7.94 rupees per share for the quarter.
-
-Commercial Bank group net interest income went up 45 percent to 27.6 billion rupees even as interest income fell 7.3 percent to 70.3 billion rupees and interest expense fell at a faster 25 percent to 42.6 billion rupees.
-
-Net fee and commission income grew 4 percent to 5.6 billion rupees.
-
-Losses from trading was 1.9 billion rupees, down from 8.9 billion a year earlier.
-
-Loans and advances to customers were up 1.65 percent to 1,224 billion rupees, amid a contraction in foreign currency loans. The rupee loan growth was 120 billion rupees, the bank said.
-
-...
-
-[Data](articles/d55733d0.json)
-
-[Extended Data](ext_articles/d55733d0.ext.json)
 
 ---

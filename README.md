@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 05:18:10**
+As of **2024-05-15 05:36:05**
 
 ## Newspaper Stats
 
-*Scraped **24,074** Articles*
+*Scraped **24,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,823
+tamilmirrorlk | 2,824
 virakesarilk | 3,619
 dailymirrorlk | 3,787
 adaderanasinhalalk | 3,851
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,074 (100.0%) of 24,074 articles have been extended.
+24,074 (100.0%) of 24,075 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,24 @@ In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 run
 [Data](articles/e21b9a28.json)
 
 [Extended Data](ext_articles/e21b9a28.ext.json)
+
+---
+
+### ’சுவசெரியவை நிறுத்தாதீர்கள்’
+
+*2024-05-15 00:43:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவசெரியவை-நிறுத்தாதீர்கள்/175-337316) · `ta`
+
+சுவசெரிய அம்பியூலன்ஸ் சேவைத் திட்டத்தை இடைநிறுத்த இடமளிக்க வேண்டாம் என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (14) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே இவ்வாறு வலியுறுத்தினார்.
+
+கலாநிதி ஹர்ஷ டி சில்வாவின் எண்ணக்கருவாக ஆரம்பிக்கப்பட்ட சுவசெரிய அம்பியூலன்ஸ் சேவையின் 322 அம்பியூலன்ஸ் வண்டிகளில் 56 வண்டிகள் செயலிழந்துள்ளன. அவற்றில் பணிபுரிந்த சாரதிகளும் அவசர சேவை உத்தியோகத்தர்களும் நாட்டை விட்டு வெளியேறியுள்ளனர்.
+
+அம்பியூலன்ஸைப் புதுப்பித்தல், ஊழியர்களை சேவையில் ஈடுபடுத்தல் போன்றவற்றில் அரசாங்கத்தின் கவனம் குறைந்துள்ளமையினால், இது தொடர்பில் அவதானம் செலுத்துங்கள்.  சுவசெரிய அம்பியூலன்ஸ் சேவைத் திட்டத்தை இடைநிறுத்த இடமளித்து விடாதீர்கள் என்றார்.
+
+◼️
+
+[Data](articles/fe80dd52.json)
 
 ---
 
@@ -2359,41 +2377,5 @@ The connected constable has been suspended in the Mankulam Camp, in the Colombo 
 [Data](articles/032d84a9.json)
 
 [Extended Data](ext_articles/032d84a9.ext.json)
-
----
-
-### Pressure Teacher arrested for molesting a girl
-
-*2024-05-14 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196615) · `si`
-
-A 19-year-old design student was molested by her teacher, leading to his arrest. The incident occurred during a class, and the girl was later hospitalized for a medical examination. Investigations are ongoing.
-
-🟩
-
-A 19-year-old girl who participated in a class of designs was reported.
-
-It is according to a telephone message received by police emergency.
-
-The suspect has been arrested today (14).
-
-The incident occurred when the girl was running the subject yesterday (13) to learn the subject of designs operating in a private educational institution in Mawathagama.
-
-The girl and three other girls have stopped due to heavy rains at the end of the class.
-
-The Mawathagama police said that investigations were revealed in investigations into the suspect teacher who was taught that the suspect teacher was consumed with the young women.
-
-Later, the other three other girls left, and the girl had stopped there.
-
-The Mawathagama Police have been arrested by the Mawathagama Police.
-
-The girl who was abused has been admitted to the Kurunegala Teaching Hospital for a medical examination.
-
-DIG of Kurunegala District District is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/4824cee5.json)
-
-[Extended Data](ext_articles/4824cee5.ext.json)
 
 ---

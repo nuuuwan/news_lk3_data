@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 20:51:51**
+As of **2024-05-15 21:03:31**
 
 ## Newspaper Stats
 
-*Scraped **24,279** Articles*
+*Scraped **24,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
 adalk | 2,073
-adaderanalk | 2,818
+adaderanalk | 2,819
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
@@ -26,43 +26,79 @@ adaderanasinhalalk | 3,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,276 (100.0%) of 24,279 articles have been extended.
+24,279 (100.0%) of 24,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ஆறுகளின் நீர்மட்டம் அதிகரிப்பு
+### At least 16 Sri Lankans killed fighting in Russia-Ukraine war
+
+*2024-05-15 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99241/at-least-16-sri-lankans-killed-fighting-in-russia-ukraine-war) · `en`
+
+At least 16 Sri Lankan military veteran have been killed fighting in the war between Russia and Ukraine, the State Minister of Defence said.
+
+Sri Lanka opened an inquiry last week into the recruitment of its citizens for the conflict that has since identified the participation of 288 retired soldiers from the island nation, state minister Pramitha Bandara Tennakoon said.
+
+“We have confirmed information about 16 who have been killed,” he told reporters in Colombo.
+
+Tennakoon did not say which side of the conflict the soldiers had been fighting on.
+
+But ruling party lawmaker Gamini Waleboda told parliament on Monday that most had been recruited to fight alongside the Russian army.
+
+Those who joined had been duped with promises of high salaries and falsely told they would be given non-combat roles, Waleboda said.
+
+Tennakoon said the recruitment of Sri Lankans was being treated as a human trafficking enterprise and urged military officers not to fall prey to the recruitment drive.
+
+...
+
+[Data](articles/5eafbd66.json)
+
+---
+
+### Hydroval
 
 *2024-05-15 20:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுகளின்-நீர்மட்டம்-அதிகரிப்பு/175-337375) · `ta`
 
-மழையுடனான காலநிலையை அடுத்து ஆறுகளின் நீர்மட்டம் அதிகரித்து வருகின்றது. மேலும், சில பகுதிகளில் வெள்ளப் பெருக்குகளும் பதிவாகியுள்ளன.
+Rising river levels due to rain cause flooding in certain regions. The Kalu Ganga and Ganga Ganga exceed warning levels. Authorities warn residents in low-lying areas near rivers.
 
-களு கங்கை மற்றும் வளவ கங்கை ஆகிய ஆறுகளின் நீர்மட்டம் எச்சரிக்கை மட்டத்தை விடவும் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-எனவே ஆறுகளை அண்டியுள்ள தாழ்வான பகுதிகளில் வசிக்கும் மக்களை அவதானத்துடன் செயற்பாடுமாறு நீர்ப்பாசன திணைக்களம் அறிவுறுத்தியுள்ளது. R
+The rivers' water level is increasing in the wake of the rainy weather. In addition, floods have been reported in some areas.
+
+It is reported that the water level of the Kalu Ganga and the Ganga Ganga has increased above the warning level.
+
+Therefore, the Irrigation Department has advised people living in the low -lying areas near the rivers.. Remble
 
 ◼️
 
 [Data](articles/a557201b.json)
 
+[Extended Data](ext_articles/a557201b.ext.json)
+
 ---
 
-### සාපෙළ විද්‍යා ප්‍රශ්න පත්‍රයට නිදහස් ලකුණු දෙකක්
+### Two runs for the Fortuna Science question paper
 
 *2024-05-15 20:04:48* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-විද්‍යා-ප්‍රශ්න-පත්‍රයට-නිදහස්-ලකුණු-දෙකක්/11-409653) · `si`
 
-මෙවර අ.පො.ස (සා.පෙළ) විද්‍යා ප්‍රශ්න පත්‍රයේ ප්‍රශ්න දෙකක් සඳහා නිදහස් ලකුණු දෙකක් ලබාදීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+The Department of Examinations will award two extra marks for the GCE O/L Science paper due to concerns over its content quality. Commissioner General Amitith Jayasundara made this decision based on feedback from Minister of Education Dr. Susil Prema Jayantha, who highlighted issues with the paper not aligning with essential learning outcomes.
 
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේ, විද්‍යා ප්‍රශ්න පත්‍රයේ 09 සහ 39 ප්‍රශ්න සඳහා එලෙස නිදහස් ලකුණු දෙක ලබාදීමට තීරණය කර ඇති බවයි.
+🟩
 
-පසුගිය සතියේ පැවති සාමාන්‍ය පෙළ විද්‍යා ප්‍රශ්න පත්‍රයේ ගැටලුකාරි තත්වයක් පිළිබඳව කතිකාවක් පැන නැගුනු අතර විභාගයට පෙනී සිටි දරුවන්ට සාධාරණයක් කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම ජයන්ත මහතා මින් පෙර ප්‍රකාශ කොට තිබුණි .
+The Department of Examinations has decided to give two free marks for two issues of the GCE (O / L) paper question paper.
 
-විද්‍යාව ප්‍රශ්න පත්‍රයේ ප්‍රශ්න කිහිපයක් අත්‍යවශ්‍ය ඉගැනුම් අන්තර්ගතයන්ට බාහිරව සකස් කර ඇති බවට කරුණු අනාවරණය වීම නිසා අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+Commissioner General of Examinations, Amitith Jayasundara has decided to provide the two free marks in the science question paper.
+
+Minister of Education Dr. Susil Prema Jayantha had previously stated that it would be justified on the issues of the Ordinary Level Sciences.
+
+The Minister was revealed that several issues of the science issue question paper have been prepared outside essential learning content.
 
 ◼️
 
 [Data](articles/989ee5c1.json)
+
+[Extended Data](ext_articles/989ee5c1.ext.json)
 
 ---
 
@@ -112,17 +148,23 @@ Hazaranga, Sri Lanka's cricket team captain, secured the top spot among all play
 
 ---
 
-### ස්ලෝවැකියා අගමැතිට වෙඩි ප්‍රහාරයක්
+### Shot to Slovakia Prime Minister
 
 *2024-05-15 19:43:09* · [`adalk`](https://www.ada.lk/breaking_news/ස්ලෝවැකියා-අගමැතිට-වෙඩි-ප්‍රහාරයක්/11-409651) · `si`
 
-ස්ලේවැකියා අග්‍රාමාත්‍යවරයාට එල්ල වූ වෙඩි ප්‍රහාරයකින් අනතුරුව ඔහු තුවාල ලබා රෝහල් ගත කර ඇති බව විදේස් මාධ්‍ය තොරතුරු වාර්තා කරයි. වෙඩි තැබීමට සම්බන්ධ පුද්ගලයාද පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+Slovakia's Prime Minister was shot and injured during a cabinet meeting, leading to the arrest of the shooter.
 
-කැබිනට් රැස්වීමෙන් අනතුරුව මෙම වෙඩි තැබීම සිදුව ඇති බවත් ජාත්‍යන්තර මාධ්‍ය තොරතුරු වාර්තා කරයි.
+🟩
+
+Vidyawa Media reports say that he was injured after the shooting of the Prime Minister of Slevakia. Police also arrested the police.
+
+The shooting has taken place after the cabinet meeting.
 
 ◼️
 
 [Data](articles/a52c1ed1.json)
+
+[Extended Data](ext_articles/a52c1ed1.ext.json)
 
 ---
 
@@ -2299,35 +2341,5 @@ The court has also ordered the person to be interrogated and admitted the girl t
 [Data](articles/93b04f40.json)
 
 [Extended Data](ext_articles/93b04f40.ext.json)
-
----
-
-### Sri Lanka Human Rights Commission
-
-*2024-05-15 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183587) · `ta`
-
-The Sri Lanka Human Rights Commission has urged the Attorney General to probe the forced abduction of Kapila Kumara DeSilva from Anuradhapura, fearing a resurgence of disappearances. The commission, led by Justice LDP Tegiteniya, has expressed concern over DeSilva's disappearance since March 27, after his arrest by the Special Task Force. His mother reported him missing on March 29, and the STF claimed he was held at Silva Pitigala Police Station before being transferred to Galle Prison. The commission visited Galle Prison to record DeSilva's statement, where he denied being a suspect.
-
-🟩
-
-The Sri Lanka Human Rights Commission has requested the Attorney General to immediately investigate the forcible kidnapping of Kapila Kumara DeSilva from Anuradhapura.
-
-The Sri Lanka Human Rights Council has appealed to investigations into the abduction of Kapilakumara Deceilva from Horawapothana, Anuradhapura.
-
-The Human Rights Commission of Sri Lanka has made this appeal in fear of re -emergence of the disappearance of Sri Lanka.
-
-The President of the Sri Lanka Human Rights Commission, Justice LDP Tegiteniya, has sent a letter to the Attorney General regarding the fear of the disappearance of Kapiladisilva.
-
-In his letter, Kapila Decilwa has said that her mother has said that he has disappeared since March 27.
-
-He said that his mother had complained that the Special Task Force had arrested Kapila de Silva.
-
-The leader of the Human Rights Commission said that the mother had lodged a complaint with the Special Task Force on March 29.
-
-...
-
-[Data](articles/3dfd50fd.json)
-
-[Extended Data](ext_articles/3dfd50fd.ext.json)
 
 ---

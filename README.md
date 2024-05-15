@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 09:04:06**
+As of **2024-05-15 09:18:30**
 
 ## Newspaper Stats
 
-*Scraped **24,129** Articles*
+*Scraped **24,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,058
 adaderanalk | 2,800
 tamilmirrorlk | 2,830
 virakesarilk | 3,621
-dailymirrorlk | 3,790
-adaderanasinhalalk | 3,856
+dailymirrorlk | 3,792
+adaderanasinhalalk | 3,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,126 (100.0%) of 24,129 articles have been extended.
+24,129 (100.0%) of 24,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Immigration and Emigration officials fail to attend COPF meeting
+
+*2024-05-15 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-and-Emigration-officials-fail-to-attend-COPF-meeting/108-282622) · `en`
+
+Colombo, May 15 (Daily Mirror) - Officials of the Immigration and Emigration Department failed to attend the meeting of the Committee on Public Finance (COPF) yesterday.
+
+COPF Chief Dr. Harsha de Silva expressed his displeasure over their absence.
+
+"The officials had agreed to attend the meeting but had failed to turn up despite the assurance given last week," Dr. De Silva said.
+
+◼️
+
+[Data](articles/b3b83cee.json)
+
+---
+
+### ලංවිම දූෂිත ගනුදෙනු රැසක් කෝප් කමිටුවේ දී දිග හැරෙයි
+
+*2024-05-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196638) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ ඉංජිනේරුවරුන් 130 දෙනෙකු පමණ මෑත කාලය තුළ සේවය හැර ගොස් ඇති බව අනාවරණය වී තිබේ.
+
+පාර්ලිමේන්තු පොදු ව්‍යාපාර කාරක සභාව හෙවත් කෝප් කමිටුවේදී මේ බව අනාවරණය වී ඇති බව සඳහන්ය.
+
+එහිදී මධුර විතානගේ මන්ත්‍රීවරයා කළ විමසීමේදී ප්‍රතිචාර දැක්වූ ලංකා විදුලිබල මණ්ඩලයේ නියෝජ්‍ය සාම්‍යාධිකාරී පාලිත පෙරේරා මහතා පැවසුවේ, මුළු ඉංජිනේවරු 330 දෙනෙකුගේ පුරප්පාඩු පවතින බවය.
+
+"130ක් ඉල්ලා අස්වෙලා ගිහින් තියෙනවා ගිය අවුරුද්දේ සහ මේ අවුරුද්දේ මුල් මාස 4 ඇතුළත. අපිට විශ්‍රාම ගිය අයත් බඳවා ගැනීම් සිදුනොකළ නිසා ඔක්කෝම ඉංජිනේරුවන් 330ක අඩුවක් තියෙනවා."
+
+ඒඑස් පවර් විදුලි බලාගාරය මිලදී ගැනීමට යෝජනා වී තිබුණු අවස්ථාවක එසේ නොකර එමඟින් හදිසි මිලදී ගැනීම් සිදුකිරීමෙන් රුපියල් බිලියන ගණනක පාඩුවක් විදුලිබල මණ්ඩලයට සිදුව ඇති බවද කෝප් කමිටුවේදී අනාවරණය වුණි.
+
+◼️
+
+[Data](articles/6c9730b2.json)
+
+---
 
 ### 264 leprosy patients have been identified
 
@@ -54,23 +90,29 @@ The Director of the Director of the Director Dr. Navaruwawatta stated that 24 of
 
 ---
 
-### வளிமண்டலத்தில் ஏற்பட்ட தளம்பல் நிலையால் காலநிலையில் மாற்றம்
+### Climate change in the atmosphere
 
 *2024-05-15 08:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலத்தில்-ஏற்பட்ட-தளம்பல்-நிலையால்-காலநிலையில்-மாற்றம்/175-337334) · `ta`
 
-இலங்கையைச் சூழவுள்ள பகுதிகளில் கீழ் வளிமண்டலத்தில் ஏற்பட்ட தளம்பல் நிலை காரணமாக மழை நிலைமை மேலும் தொடரும் என எதிர்பார்க்கப்படுகின்றது.
+Sri Lanka faces ongoing rain issues due to unfavorable atmospheric conditions. Expectations include afternoon rain or thunderstorms across many provinces, with heavy rainfall (up to 100mm) forecasted for Central, Sabaragamuwa, Uva, and Eastern Provinces. Coastal regions of the Western and Southern Provinces may see morning rainfall. Thunderstorms could affect upcoming areas, prompting caution against lightning risks.
 
-நாட்டின் பெரும்பாலான மாகாணங்களில் பல இடங்களில் பி.ப. 1 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய, சப்ரகமுவ, ஊவா மற்றும் கிழக்கு மாகாணங்களில் சில இடங்களில் 100 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+Due to the lack of atmospheric conditions in the areas surrounding Sri Lanka, the rainy situation is expected to continue.
 
-மேல் மற்றும் தென் மாகாணங்களின் கரையோரப் பிரதேசங்களில் சில இடங்களில் காலை வேளையிலும் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+In most of the provinces of the country,. There is a possibility of rain or thunderstorms after 1 pm.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+100 mm of heavy rainfall is expected in some parts of the Central, Sabaragamuwa, Uva and Eastern Provinces.
+
+In some parts of the coastal areas of the Western and Southern Provinces, there is expected rainfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/d2d519c1.json)
+
+[Extended Data](ext_articles/d2d519c1.ext.json)
 
 ---
 
@@ -94,23 +136,29 @@ The Minister made these remarks on Tuesday (14) during a press briefing held at 
 
 ---
 
-### “அஸ்ட்ராசெனிகா”வால் இலங்கையர்களுக்கு பாதிப்பா?
+### Is the "Astrasenica" Wall affect Sri Lankans?
 
 *2024-05-15 08:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்ட்ராசெனிகா-வால்-இலங்கையர்களுக்கு-பாதிப்பா/175-337333) · `ta`
 
-கொரோனா தடுப்பூசிகளில் ஒன்றான அஸ்ட்ராசெனிகா தடுப்பூசியை இலங்கையில் செலுத்திக் கொண்டவர்கள் அச்சம் கொள்ளத் தேவையில்லை என தேசிய ஔடத ஒழுங்குப்படுத்தல் அதிகார சபையின் தலைவர் விசேட வைத்தியர் டொக்டர் ஆனந்த விஜேவிக்ரம தெரிவித்துள்ளார்.
+Dr. Ananda Wijewickrama assures Sri Lankans that the AstraZeneca vaccine is safe despite rare, severe side effects reported globally, including blood clots and low platelet counts. The vaccine production company has acknowledged these risks, leading to its temporary withdrawal from use in some countries.
 
-பிரித்தானியாவில் தாக்கல் செய்யப்பட்ட வழக்கொன்றில் அஸ்ட்ராசெனிகா தடுப்பூசி பக்க விளைவுகளை ஏற்படுத்தும் என அந்த தடுப்பூசியை உற்பத்தி செய்த நிறுவனம் ஏற்றுக் கொண்டுள்ளது.
+🟩
 
-குறித்த தடுப்பூசியால், அத்த அழுத்தம், ரத்தம் உறைதல் மற்றும் த்ரோம்போசைட்டோபீனியா (குறைந்த பிளேட்லெட் எண்ணிக்கை, டிடிஎஸ் / விஐடிடி-இன் விளைவுகள் உயிருக்கு ஆபத்தானவை. இதில் பக்கவாதம், மூளை பாதிப்பு, மாரடைப்பு, நுரையீரல் அடைப்பு மற்றும் உறுப்பு நீக்கம் ஆகியவையும் அடங்கும் என்று வழக்கறிஞர்கள் கூறுகின்றனர்.
+Special Dr. Ananda Wijewickrama, Chairman of the National Records Authority, said that those who have taken the Astrazenica vaccine in Sri Lanka, one of the Corona vaccines, should not be afraid.
 
-அதனைத் தொடர்ந்து, குறித்த நிறுவனத்தினால் தயாரிக்கப்பட்ட அஸ்ட்ராசெனிகா தடுப்பூசிகள் மீளப் பெற்றுக் கொள்ளப்பட்டன.
+The company that produced the vaccine has agreed that the astracenica vaccine has side effects in a case filed in Britain.
 
-இந்த நோய் அறிகுறிகள் எதிர்காலத்தில் பாதிப்பை  ஏற்படுத்தாது எனவும், தடுப்பூசி செலுத்தியவுடனேயே ஏற்படும் எனவும் அவர் தெரிவித்துள்ளார். R
+With the vaccine, the pressure, blood clotting and thrombocytopenia (low platelet count, DTS / VIDD-in effects are life-threatening. Prosecutors also say that this includes stroke, brain damage, heart attacks, lung obstruction and organ removal.
+
+Subsequently, the Astrasenica vaccines prepared by the company were recovered.
+
+He said that the symptoms would not be affected in the future and that the vaccine would be soon.. Remble
 
 ◼️
 
 [Data](articles/f3ece1d6.json)
+
+[Extended Data](ext_articles/f3ece1d6.ext.json)
 
 ---
 
@@ -177,6 +225,22 @@ We recognize the importance of minimizing our environmental impact and are dedic
 [Data](articles/ec833284.json)
 
 [Extended Data](ext_articles/ec833284.ext.json)
+
+---
+
+### Showers expected to continue further
+
+*2024-05-15 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-expected-to-continue-further/108-282621) · `en`
+
+Colombo, May 15 (Daily Mirror) - Due to the low-level atmospheric disturbance in the country heavy showers about 100mm are likely in the Western, Central, Sabaragamuwa and Uva Provinces after 1.00 p.m, the forecasting division of the National Meteorological Centre said.
+
+They said the showery condition is expected to continue further.
+
+Meanwhile, showers may occur in the Western and Southern coastal areas during the morning.
+
+◼️
+
+[Data](articles/d1f5db8a.json)
 
 ---
 
@@ -912,19 +976,27 @@ SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was
 
 ---
 
-### ’கல்வி நிர்வாக மறுசீரமைப்பு சுற்றுநிருபம் விரைவில்’
+### Model Education Administration Reorganization
 
 *2024-05-15 01:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-நிர்வாக-மறுசீரமைப்பு-சுற்றுநிருபம்-விரைவில்/175-337319) · `ta`
 
-கல்வி நிர்வாக சீர்திருத்தத்தின் ஆரம்ப கட்டமாக நாடளாவிய ரீதியில் 1220 கொத்தணிப் பாடசாலைகள் உருவாக்கப்படுவதுடன், அவற்றைக் கண்காணிக்க 350 பாடசாலைக் குழுக்கள் உருவாக்கப்படும். அதற்கான அமைச்சரவைப் பத்திரத்தை சமர்பித்து அதற்குரிய சுற்றுநிருபம் எதிர்வரும் நாள்களில் வெளியிடப்படுமென  கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+In a major educational reform, Sri Lanka plans to reorganize education administration by creating 1220 school clusters and 350 monitoring groups nationwide. This initiative, announced by Education Minister Susil Premajayantha, aims to streamline educational management and enhance student enrollment in grades 1 to 11.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி அமைச்சர் சுசுல் பிரேமஜயந்த இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கல்வி நிர்வாக மறுசீரமைப்புச் செயற்பாடுகள் ஆரம்ப கட்டத்தை எட்டியுள்ளோம். இது தொடர்பான அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்பட்டு அதன் சுற்றுநிருபம் எதிர்வரும் நாள்களில் வெளியிடப்படும். அதற்கமைய நாடளாவிய ரீதியில் 1220 கொத்தணிப் பாடசாலைகள் உருவாக்கப்படவுள்ளதுடன், அவற்றை மேற்பார்வையிடுவதற்காக 350 பாடசாலை சபைகள் உருவாக்கப்படும்.
+As an early stage of educational administration reform, 1220 clusters schools will be created nationwide and 350 school groups will be formed to monitor them.. Minister of Education Susil Premajayantha said that the Cabinet paper will be issued in the coming days.
 
-...
+Education Minister Susul Premajayantha said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+We have reached the initial stage of educational management processing. The Cabinet paper will be submitted and its circulation will be issued in the coming days. Accordingly, 1220 clusters will be created across the country and 350 school councils will be formed to oversee them.
+
+The existing 100 educational zones will be gradually increased. Based on school groups, schools with classes from 01 to 11 have said that the authorities have the power to enroll students to higher levels.. (A)
+
+◼️
 
 [Data](articles/c8e00c51.json)
+
+[Extended Data](ext_articles/c8e00c51.ext.json)
 
 ---
 
@@ -2149,69 +2221,5 @@ It was inquired that Wijedasa Rajapakse, a deceit of the Kaduwela District Court
 [Data](articles/d0cccc6f.json)
 
 [Extended Data](ext_articles/d0cccc6f.ext.json)
-
----
-
-### Jalartervation contract to murder prison guard
-
-*2024-05-14 18:51:35* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නියාමකවරිය-ඝාතනයට-ජේලර්වරියගෙන්-කොන්ත්‍රාත්තුවක්/11-409630) · `si`
-
-A woman has been contracted to kill a prison guard at Galle Prison, leading to an investigation by the Galle Police. The contract was allegedly given due to obstruction of promotion. The case involves a child of the prison and another woman, with the police recording statements from various parties, including the judiciary.
-
-🟩
-
-The Galle Police say an investigation has been launched in connection with an incident that a woman has been a contract to the Galle Prison.
-
-The complaint has been lodged with the Minor Complaint Division of Galle Police. The Prison Niyamakariya who has been given the contract has been provided with the contract to a child of the Galle Prison on various crimes.
-
-The Rajawanta has told another woman that Jalartervarian gave him the contract to kill the prison guard. Police said that she was informed of this informs the prison guilty. Police say that the contract has not been accepted by the Ladarge.
-
-Accordingly, the Prisons Piyawaraya has lodged a minor complaint sector at Galle Police. The minor complaint Division of the Galle Police has recorded statements from the Prison Regulatory and Jalarter.
-
-Police have also received a statement from Welwanthinka who has been ordered by the judiciary. The hearewoman is in prison on the accusations that the protection of firearms and closing firearms.
-
-...
-
-[Data](articles/4013fbba.json)
-
-[Extended Data](ext_articles/4013fbba.ext.json)
-
----
-
-### University non-academic staff withdraw from essential services
-
-*2024-05-14 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99218/university-non-academic-staff-withdraw-from-essential-services) · `en`
-
-The non-academic staff of state universities have decided to withdraw from the essential services of the university system including water and electricity services from today (14).
-
-The strike action launched by the Joint Committee of University Trade Unions continued for the 13th consecutive day today, citing wage issues.
-
-Although the proposals concerning the monthly allowance and wage disparities of university non-academic staff was tabled during the Cabinet meeting which was held on Monday (13), the granting of approval for the proposals were further delayed, since it has been decided to seek approval from the Ministry of Finance for the matters outlined in the proposal.
-
-Accordingly, the relevant proposal is expected to be resubmitted to the Cabinet following approval from the Ministry of Finance.
-
-◼️
-
-[Data](articles/4e4e73d1.json)
-
-[Extended Data](ext_articles/4e4e73d1.ext.json)
-
----
-
-### Opposition leader’s proposal raises doubts over MPs’ loyalty amid liquor license issue
-
-*2024-05-14 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-leaders-proposal-raises-doubts-over-MPs-loyalty-amid-liquor-license-issue/108-282583) · `en`
-
-Colombo, May 14 (Daily Mirror) - If the MPs who have applied for liquor licenses are to face punishment, as the Opposition Leader suggests, it raises suspicions on how many MPs will remain loyal to him, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media, he said no arrangements have been made to provide liquor licenses to any of the parliamentarians' friends or acquaintances. The Opposition Leader claimed no such project was launched, but he repeats that over and over again.
-
-"Based on the reported population data, liquor licenses were issued 16 years ago. The government's approach doesn't involve promoting the use of legal alcohol; instead, it focuses on regulation through tax hikes and implementing new license fees. The overarching goal seems to be enhancing state revenue while simultaneously curbing the proliferation of illegal alcohol," the State mMnister said.
-
-...
-
-[Data](articles/26b5d34e.json)
-
-[Extended Data](ext_articles/26b5d34e.ext.json)
 
 ---

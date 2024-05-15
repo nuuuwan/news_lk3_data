@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 03:03:32**
+As of **2024-05-16 03:18:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,303 (100.0%) of 24,314 articles have been extended.
+24,314 (100.0%) of 24,314 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,89 +148,123 @@ By Lacille de Silva, Rohan Prithiviraj Perera, Bernard Fernando, Ranjan de Silva
 
 ---
 
-### முல்லையில் கரும்புள்ளியான் குள நீர் விநியோக திட்ட அடிக்கல் நாட்டு விழா
+### Carmbuliyan Pond Water Supply Project
 
 *2024-05-16 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183651) · `ta`
 
-முல்லைத்தீவு மாவட்டம் மாந்தை கிழக்கு பிரதேச செயலகத்திற்குற்பட்ட கரும்புள்ளியான் குள நீர் விநியோக திட்ட அடிக்கல் நாட்டு விழா புதன்கிழமை (14) இடம்பெற்றது
+In Mullaitivu, a significant drinking water project was inaugurated by the Northern Province Governor Charles Avarakkal, who was later removed. The event also saw the laying of the foundation stone by Minister Jeevan Thondaman, funded by the World Bank. Attendees included various officials and representatives from public organizations.
 
-வடமாகாண ஆளுநர் சாள்ஸ் அவரக்ளினால் குறித்த குடிநீர் திட்டத்திற்கான பெயர்பலகை திரை நீக்கம் செய்துவைக்கப்பட்டிருந்தது
+🟩
 
-அதனை தொடர்ந்து அமைச்சர் ஜீவன் தொண்டமான் அவர்களினால் குடிநீர் திட்டத்திற்கான அடிக்கல் நாட்டப்பட்டதுடன்,  சம நேரத்தில் ஏனைய அதிதிகளினாலும் அடிக்கல் நாட்டப்பட்டிருந்தது
+Mullaitivu District Manthai East Divisional Secretariat was held on Wednesday (14)
 
-நிகழ்வில் வடமாகாண ஆளுநர், மாகாண பிரதம செயலாளர்,அமைச்சின் செயலாளர் ,பாராளுமன்ற உறுப்பினர்களான  காதர் மஸ்தான் , குலசிங்கம் திலீபன்,மாகாண நீர்வழங்கல் வடிகாலமைப்பு சபையின் அதிகாரிகள்,மாகாண நீர்ப்பாசன திணைக்கள அதிகாரிகள், மற்றும் முல்லை மாவட்ட செயலாளர், மற்றும்  யாழ்மாவட்ட மேலதிக அரசாங்க அதிபர், மற்றும் மாந்தை கிழக்கு  பிரதேச செயலாளர் , பிரதேச செயலக உத்தியோகத்தர்கள், மற்றும் பொது அமைப்புக்கள் என பலரும் கலந்து கொண்டிருந்தனர்
+Northern Province Governor Charles Avarakkal has been removed
 
-...
+This was followed by Minister Jeevan Thondaman, the foundation stone for the drinking water project and the foundation stone was laid at the same time.
+
+Governor of the Northern Province, Provincial Chief Secretary, Ministry Secretary, Members of Parliament, Khadar Mastan, Kulasingham Dileepan, Provincial Water Supply and Drainage Department Officers, Provincial Irrigation Department Officers, and Mullaitivu District Secretary, and Additional Government Agent of Jaffna, and Manthai East Divisional Secretary, Divisional Secretariat Officers, And many public organizations attended
+
+It is noteworthy that the drinking water project has been launched by the World Bank's 1856 million funds by the Water Supply and Drainage Board.
+
+◼️
 
 [Data](articles/417efb8c.json)
 
+[Extended Data](ext_articles/417efb8c.ext.json)
+
 ---
 
-### பாலியாறு நீர்த்திட்டம் அங்குரார்ப்பணம்
+### Polyutrition
 
 *2024-05-16 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183650) · `ta`
 
-வடக்கு மாகாண மக்களுக்குச் சுத்தமான குடிநீரைப் பெற்றுக்கொடுக்கும் தொலைநோக்கு சிந்தனையில் நிர்மாணிக்கப்படவுள்ள பாலியாறு நீர்த்திட்டம் புதன்கிழமை (15) அங்குரார்ப்பணம் செய்து வைக்கப்பட்டது. மன்னார் வெள்ளாங்குளம் பகுதியில் இதற்கான அங்குரார்ப்பண நிகழ்வு நடைபெற்றது.
+The inauguration of the Paliyaru Water Reservoir aims to provide clean drinking water to 127,746 families in the Northern Province, funded by a 250 million rupee allocation from the 2024 budget. Key figures including the Governor of the Northern Province, Minister Jeevan Thondaman, and members of parliament attended the ceremony in Mannar Velangulam.
 
-வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ், அமைச்சர் ஜீவன் தொண்டமான், பாராளுமன்ற உறுப்பினர்கள், வடக்கு மாகாண சபையின் அவைத்தலைவர், வடக்கு மாகாண பிரதம செயலாளர், தேசிய நீர்வழங்கல் வடிகாலமைப்புச் சபையின் உயர் அதிகாரிகள் உள்ளிட்ட பலர் இந்நிகழ்வில் கலந்து கொண்டனர்.
+🟩
 
-பாலியாறு நீர்த்திட்ட அங்குரார்ப்பண நிகழ்விற்கான நினைவுப் பதாதை வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் மற்றும் அமைச்சர் ஜீவன் தொண்டமான் ஆகியோரால் திரைநீக்கம் செய்யப்பட்டது. அதனை தொடர்ந்து பாலியாறு நீர்த்திட்ட அலுவலகமும் திறந்து வைக்கப்பட்டது.
+The Paliyaru Water Reservoir, which is to be constructed in a visionary thought that provides clean drinking water to the people of the Northern Province, was inaugurated on Wednesday (15). The event was held in the Mannar Velangulam area.
 
-...
+Governor of the Northern Province BSM. Charles, Minister Jeevan Thondaman, Members of Parliament, Chairman of the Northern Provincial Council, Chief Secretary of the Northern Provincial Council, top officials of the National Water Supply and Drainage Board were among those present.
+
+Governor of the Northern Province BSMM. Unloaded by Charles and Minister Jeevan Thondaman. This was followed by the opening of the Paliyar Dilut Office.
+
+250 million rupees has been allocated for the 2024 budget for the Paliyaru Dilut Project. The districts of Jaffna and Mannar and a part of the Poonakari area have been included in the project.. Accordingly, 127,746 families living in the West are expected to distribute clean drinking water.
+
+◼️
 
 [Data](articles/36626d7f.json)
 
+[Extended Data](ext_articles/36626d7f.ext.json)
+
 ---
 
-### சட்டவிரோதமாக அட்டைகளை பிடித்த நால்வர் கைது
+### Arrested four people who illegally caught cards
 
 *2024-05-16 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183649) · `ta`
 
-வடமராட்சி மாமுனை கடற்பகுதியில் சட்டவிரோதமாக இரவு நேரத்தில் அட்டைகளை பிடித்த நான்கு நபர்கள் இரண்டு படகுகளுடன் புதன்கிழமை (15) கடற்படையால் கைது செய்யப்பட்டுள்ளனர்.
+Navy arrests four for illegal card catching in Vadamarachchi Mamunai Sea; part of crackdown on illicit activities.
 
-சட்டவிரோத தொழில் முறைகளை தடுக்கும் நோக்கில் வெற்றிலைக்கேணி கடற்படையினர் திடீர் சுற்றிவளைப்புகளை மேற்கொண்டு பலரை கைது செய்துவருகின்றனர்
+🟩
 
-இந்த நடவடிக்கையின் ஒரு பகுதியாக செவ்வாய்க்கிழமை (14) அதிகாலை மாமுனை கடற்பகுதியில் குறித்த நால்வரும் கைது செய்யப்பட்டதாக கடற்படை தெரிவித்துள்ளது
+Four persons who illegally caught cards at Vadamarachchi Mamunai Sea were arrested by two boats on Wednesday (15) by the Navy.
 
-கைது செய்யப்பட்ட நால்வரும் கடற்படை முகாம் அழைத்து வரப்பட்டு விசாரணைகளின் பின்னர் மேலதிக சட்ட நடவடிக்கைகளுக்காக யாழ்ப்பாணம் கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+The Navy is carrying out a sudden raid and arresting many people in order to prevent illegal industrial systems.
+
+As part of the move, four people were arrested in the Mamunai Sea on Tuesday morning (14), the Navy said.
+
+The four arrested have been brought to the Jaffna Fisheries Inspector for further legal action after investigations.
 
 ◼️
 
 [Data](articles/99b5b82a.json)
 
+[Extended Data](ext_articles/99b5b82a.ext.json)
+
 ---
 
-### இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜீலி சங் யாழ்ப்பாண மாவட்டத்திற்கு விஜயம்
+### US Ambassador to Sri Lanka Jelly Sung visits Jaffna District
 
 *2024-05-16 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183648) · `ta`
 
-இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜீலி சங் யாழ்ப்பாண மாவட்டத்திற்கு விஜயம் செய்து பல சந்திப்புகளில் ஈடுபட்டார்.
+US Ambassador Jelly Sung visited Jaffna, meeting Tamil leaders, touring the Green Memorial Hospital, and discussing with the Northern Navy Commander, highlighting US engagement in Sri Lanka's northern regions.
 
-தமிழ் சிவில் சமூகப் பிரதிநிதிகளுடன் அமெரிக்க தூதர் ஜீலி சங் கலந்துரையாடலில் ஈடுபட்டார்.
+🟩
 
-மானிப்பாயில் உள்ள அமெரிக்க மிஷனரியின் கிறீன் மெமோரியல் வைத்தியசாலைக்கு தூதுவர் விஜயம் செய்து நிலைமைகளை பார்வையிட்டார்.
+US Ambassador to Sri Lanka Jelly Sung visited the Jaffna district and held several meetings.
 
-வடக்கு மாகாண கடற்படை தளபதியை காங்கேசன்துறை தலைமையகத்தில் அமெரிக்க தூதுவர் சந்தித்து கலந்துரையாடினார்.
+US Ambassador Jelly Sung held a discussion with Tamil civil society representatives.
 
-அத்துடன் அண்மையில் உயர் பாதுகாப்பு வலயங்களாக இருந்து விடுவிக்கப்பட்ட பகுதிகளையும் அமெரிக்க தூதுவர் பார்வையிட்டதாகவும் தகவல்கள் தெரிவிக்கின்றன.
+The ambassador visited the Green Memorial Hospital of the US Mission in Manipay and visited the conditions.
+
+The US Ambassador met with the Northern Navy Commander at the Kankesanthurai headquarters.
+
+According to reports, the US Ambassador has also visited areas released as high security zones.
 
 ◼️
 
 [Data](articles/b0cb548d.json)
 
+[Extended Data](ext_articles/b0cb548d.ext.json)
+
 ---
 
-### வவுனியா, கூமாங்குளம் வீட்டு வளாகத்தில் நுழைந்த 5 அடி நீள முதலை
+### 5 feet long crocodile entered the Kumangulam home complex in Vavuniya
 
 *2024-05-16 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183647) · `ta`
 
-வவுனியா, கூமாங்குளம் கிராமத்தில் வீட்டு வளாகத்தில் 5 அடி நீள முதலை ஒன்று நுழைந்துள்ளது.
+A 5-foot crocodile invaded a home complex in Vavuniya's Koomangulam village. Wildlife officers, aided by locals, relocated it safely to the forest.
 
-இதனையடுத்து குறித்த இடத்திற்கு வந்த வனஜூவராசிகள் உத்தியோகத்தர்கள் கிராமத்தவர்களின் ஒத்துழைப்புடன் முதலையினை பிடித்து காட்டில் பாதுகாப்பாக விடுவித்தனர்.
+🟩
+
+A 5 -foot -long crocodile has entered the home complex in Koomangulam village in Vavuniya.
+
+Subsequently, the Wildlife Officers who arrived at the place, with the cooperation of the villagers, took the first to the forest safely.
 
 ◼️
 
 [Data](articles/4f155f20.json)
+
+[Extended Data](ext_articles/4f155f20.ext.json)
 
 ---
 
@@ -258,41 +292,57 @@ Meanwhile, the US Ambassador to Sri Lanka Julie Sung X has posted on a visit to 
 
 ---
 
-### சாம் கரனின் சகலதுறை ஆட்டத்தால் பஞ்சாபுக்கு ஆறுதல் வெற்றி; ராஜஸ்தானுக்கு தொடர்ச்சியான 4ஆவது தோல்வி
+### Punjab victory for Sam Karan's all -round game;4th defeat for Rajasthan
 
 *2024-05-16 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183646) · `ta`
 
-குவாட்டி பர்சபரா கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (15) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 65ஆவது போட்டியில் ராஜஸ்தான் றோயல்ஸை எதிர்த்தாடிய  பஞ்சாப் கிங்ஸ் 5 விக்கெட்களால் வெற்றிபெற்றது.
+In the 65th match of the 17th IPL, Punjab Kings defeated Rajasthan Royals by 5 wickets, moving up to the 9th position. Sam Karan's all-round performance, including an unbeaten half-century, was crucial for Punjab's victory. Rajasthan suffered their 4th consecutive defeat, despite strong performances from Tom Kohler Cadmore and Sanju Samson. Nathan Ellis, Harshal Patel, and Rahul Chahar stood out for Punjab with their accurate bowling, while Avesh Khan and Yuzvendra Chahal were key for Rajasthan.
 
-கடைநிலையில் இருந்த பஞ்சாப் கிங்ஸுக்கு இந்த வெற்றி ஆறுதல் அளித்ததுடன் அணிகள் நிலையில் மும்பை இண்டியன்ஸை பின்தள்ளி 9ஆம் இடத்திற்கு முன்னேறியது.
+🟩
 
-இப் போட்டிக்கு முன்பதாக 3 போட்டிகளில் தொடர்ச்சியாக தோல்வி அடைந்த போதிலும் ப்ளே ஒவ் வாய்ப்பு உறுதிசெய்துகொண்டிருந்த ராஜஸ்தான் றோயல்ஸ் நான்காவது தொடர்ச்சியான தோல்வியால் பெரும் ஏமாற்றத்திற்குள்ளானது.
+Punjab Kings, who opposed Rajasthan Royals in the 65th match of the 17th Indian Premier League chapter held on Wednesday night (15) at the Quati Parzabara Cricket Stadium, won by 5 wickets.
 
-அத்துடன் அணிகள் நிலையில் இரண்டாம் இடத்தை ராஜஸ்தான் தக்கவைத்துக்கொள்ளுமா என்ற சந்தேகம் எழுந்துள்ளது.
+The victory was comforted by the Punjab Kings, who were in the field and advanced to the 9th to the 9th to Mumbai Indians.
 
-இரண்டு அணியினரும் பந்துவீச்சில் சிறப்பாக செயற்பட்டபோதிலும் வெற்றி இலக்கு குறைவாக இருந்ததால் பஞ்சாப் கிங்ஸுக்கு சாதகமான முடிவு கிடைத்தது.
+Rajasthan Royals, who were confirmed by the Playing chance, were disappointed by the fourth consecutive defeat, despite the defeat of 3 consecutive matches before the match.
+
+There is also suspicion that Rajasthan will retain second place in the teams.
+
+Punjab Kings got a favorable decision, as both teams performed well in bowling, as the winning goal was low.
+
+Nathan Ellis bowled very accurately on his first match on behalf of Punjab Kings. Sam Karan, Harshal Patel and Rahul Sahar also bowled well and controlled Rajasthan Royals to the total number.
+
+In reply, team captain Sam Karan's unbeaten half -century helped Punjab Kings to win.
 
 ...
 
 [Data](articles/911e02ca.json)
 
+[Extended Data](ext_articles/911e02ca.ext.json)
+
 ---
 
-### கடலுக்குள் விழுந்த கனரக ஹென்டர் வாகனம் மீட்பு
+### Rescue of heavy Hender vehicle that fell into the sea
 
 *2024-05-16 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183645) · `ta`
 
-அம்பாறை மாவட்டம்  கல்முனை மாநகர சபைக்குட்பட்ட சாய்ந்தமருது பௌஸி மைதானத்திற்கு அருகே புதன்கிழமை (15) மாலை இச்சம்பவம் இடம்பெற்றுள்ளது.
+A Hender heavy vehicle fell into the sea near Sainthamaruthu Fouzi Ground in Ampara District. The driver survived, and the vehicle was retrieved with assistance from another heavy machine after a difficult rescue operation.
 
-அண்மையில் இப்பகுதியில் ஏற்பட்ட கடலரிப்பினை தடுப்பதற்காக கரையோரம் பேணல் திணைக்களம் கண்காணிப்பில் பாரிய கற்கள் போடப்பட்டு வருகின்றன.
+🟩
 
-இதன் தொடர்ச்சியாக கல் அணைகள் அமைத்து கற்களைப் போட்டு நிரப்பும்  முதற்கட்ட நடவடிக்கைக்காக பாரிய கற்களை கொட்டுவதற்கு பயன்படுத்தப்பட்டு வந்த ஹென்டர் கனரக டிப்பர் வாகனம் வழமை போன்று கற்களை கடலுக்குள் கொட்டுவதற்காக சென்ற நிலையில் குடை சாய்ந்து கவிழ்ந்தது.
+The incident took place on Wednesday evening near the Sainthamaruthu Fouzi Ground, which belongs to the Kalmunai Municipal Council in Ampara District.
 
-எனினும் குறித்த வாகனத்தை செலுத்திய சாரதி தெய்வாதீனமாக உயிர்  தப்பியுள்ளதுடன் பொதுமக்கள் ஏனைய  கனரக  ஜே.சி.பி இயந்திரத்தின் உதவியுடன் கடலுக்குள் விழுந்த வாகனம் நீண்ட போராட்டத்தின் பின்னர் மீட்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Large stones have been put under surveillance of the coastal maintenance department to prevent the recent seas in the area.
+
+Following this, the head of the Hender heavy tipper vehicle, which was used to pour massive stones for the first step in the construction of stone dams and filling the stones, then collapsed as usual.
+
+However, the driver who drove the vehicle survived the divine survivor and the vehicle fell into the sea with the help of the other heavy JCP machine was recovered after a long struggle.
 
 ◼️
 
 [Data](articles/6eac05cd.json)
+
+[Extended Data](ext_articles/6eac05cd.ext.json)
 
 ---
 
@@ -418,19 +468,25 @@ British Prime Minister Rishi Sunak has said that he is shocked.. He said in x �
 
 ---
 
-### யார் என்ன சொன்னாலும் இஸ்ரேலுக்கு தொழிலாளர்களை அனுப்புவதை நிறுத்தப்போவதில்லை - தொழில் அமைச்சர் மனுஷ நாணயக்கார
+### No matter who says, he is not going to stop sending workers to Israel -Labor Minister Manusha Nanayakkara
 
 *2024-05-15 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183644) · `ta`
 
-பாராளுமன்றத்தில் ஆர்ப்பாட்டம் மேற்கொள்வதன் மூலம் இஸ்ரேல் யுத்தத்தை நிறுத்த முடியாது. எதிர்க்கட்சித் தலைவர் உள்ளிட்ட சில அரசியல் குழுக்கள் முஸ்லிம் வாக்குகளை பெற்றுக்கொள்ளும் நோக்கில் இலங்கை இளைஞர்களின் எதிர்காலத்தை பழிக்கடாவாக்க முற்படுகின்றனர். யார் என்ன சொன்னாலும் இஸ்ரேலுக்கு தொழிலாளர்களை அனுப்புவதை நிறுத்தப்போவதில்லை என தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாயணயக்கார தெரிவித்தார்.
+Despite protests and calls from various political groups to halt worker exports to Israel, Sri Lanka's Labor Minister Manusha Nanayakkara reaffirmed the government's commitment to continue sending workers there. This decision comes amidst concerns over the impact on Sri Lankan youth and the ongoing conflict in Israel.
 
-வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் செவ்வாய்க்கிழமை (14) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்தார்.
+🟩
 
-எமது இளைஞர்களை வெளிநாட்டு வேலைகளுக்கு, இஸ்ரேலுக்கு அனுப்ப வேண்டாம் என மக்கள் விடுதலை முன்னணி மாத்தறையில் இடம்பெற்ற மக்கள் சந்திப்பாென்றின் போது தெரிவித்திருந்தது. அதேபோன்று இஸ்ரேலுக்கு தொழிலாளர்களை அனுப்ப வேண்டாம். இஸ்ரேலுடனான இராஜதந்திர தொடர்புகளை நிறுத்திக்கொள்ளுமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பாராளுமன்றத்தில் தெரிவித்தார்.
+Israel cannot stop the war by protesting in parliament. Some political groups, including the Leader of the Opposition, seek to blame the future of Sri Lankan youth in order to get Muslim votes. The Minister of Labor and Foreign Employment, Manusha Nayanayakara, said he would not stop sending workers to Israel.
+
+He was speaking at an event held at the Foreign Employment Bureau on Tuesday (14).
+
+During the meeting held in Matara, the People's Liberation Front said that our youth should not be sent to Israel for foreign jobs. Do not send workers to Israel as well as. Opposition leader Sajith Premadasa told parliament to stop diplomatic relations with Israel.
 
 ...
 
 [Data](articles/3aa96915.json)
+
+[Extended Data](ext_articles/3aa96915.ext.json)
 
 ---
 
@@ -512,19 +568,25 @@ Although he joined his wife's surgery for the surgery of a leukemia, he had left
 
 ---
 
-### நானுஓயா டெஸ்போட்டில் சொகுசு கார் விபத்து - நால்வர் வைத்தியசாலையில் அனுமதி
+### Luxury car accident in Nanuoya Despe
 
 *2024-05-15 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183642) · `ta`
 
-நுவரெலியா - ஹட்டன் பிரதான வீதியில் நானுஓயா டெஸ்போட் பகுதியில்  பயணித்த சொகுசு கார் ஒன்று சாரதியின் கட்டுப்பாட்டையிழந்தது வீதியோரத்தில் உள்ள கற்பாறையில் மோதி புதன்கிழமை (15) மாலை விபத்துக்குள்ளானது.
+In Nanuoya Despe, a luxury car crashed into a boulder on the Nuwara Eliya-Hatton road, injuring four passengers who were taken to Nuwara Eliya District General Hospital. The accident occurred when the driver lost control while driving from Kandy to Nuwara Eliya.
 
-குறித்த விபத்தில் நால்வர் காயமடைந்து நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-கண்டி - அக்குரணை பகுதியிலிருந்து நுவரெலியாவிற்கு வருகைத்தந்து நானுஓயா டெஸ்போட் வழியாக கொழும்பு நோக்கி சென்ற சொகுசு கார் சாரதியின் கட்டுப்பாட்டை இழந்து வீதியின் இடது பக்கமாக இழுத்துச் செல்லப்பட்டு கற்பாறையில் மோதி விபத்துக்குள்ளானதாக தெரிவிக்கப்படுகிறது.
+A luxury car traveled in Nanuoya Desesbot area on Nuwara Eliya - Hatton main road crashed into a boulder on Wednesday evening.
+
+Four people were injured in the accident and were admitted to the Nuwara Eliya District General Hospital, police said.
+
+It is reported that the luxury car driver who was traveling from Kandy to Nuwara Eliya from Kandy - Nanuoya Destspot lost control of the driver of the car and crashed into a boulder.
 
 ◼️
 
 [Data](articles/3692308e.json)
+
+[Extended Data](ext_articles/3692308e.ext.json)
 
 ---
 
@@ -574,19 +636,27 @@ The dead was dead in early morning, the residents say that the water exits the w
 
 ---
 
-### தகுதியுடைய  2 இலட்சம் பேருக்கு அஸ்வெசும நலன்புரி கொடுப்பனவுகளை வழங்குவதில் சிக்கல் - பாராளுமன்ற வழிவகைகள் குழுவில் சுட்டிக்காட்டல்
+### Problem with issuing welfare payments to 2 lakh eligible people - pointing to the Panel of Parliament
 
 *2024-05-15 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183641) · `ta`
 
-அஸ்வெசும நலன்புரி திட்டத்தின் கீழ் இம்மாதம் மாத்திரம் (மே) 966,994 பயனாளர்களுக்குக் கொடுப்பனவுகள் வழங்கப்பட்டுள்ளன. தேசிய அடையாள அட்டைகள் மற்றும் வங்கிக் கணக்குகளில் உள்ள சிக்கல்கள் போன்ற பல்வேறு காரணங்களால் நலன்புரித் திட்டங்களைப் பெறுவதற்கு 200,000 பேர் தகுதியடைந்துள்ளபோதிலும் அவர்களுக்கு உரிய நலன்புரி கொடுப்பனவுகளை வழங்க முடியாமல் இருப்பதாக நலன்புரி சபையின் அதிகாரிகள் பாராளுமன்ற வழிவகைகள் பற்றிய குழுவில் தெரிவித்துள்ளனர்.
+The Parliamentary Committee discussed issues with the Aswesum Welfare Program, highlighting delays in welfare payments to 200,000 eligible individuals due to factors like missing national ID cards and banking issues. Despite efforts to assist the poorest segments, challenges persist in disbursing aid effectively. The Committee emphasized the need for clear accountability and efficient implementation strategies to ensure all beneficiaries receive their due support.
 
-பாராளுமன்ற வழிவகைகள் பற்றிய குழு அதன் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தலைமையில் செவ்வாய்க்கிழமை (14) பாராளுமன்ற குழு அறையில் கூடியது.
+🟩
 
-அஸ்வெசும நலன்புரித் திட்டத்தின் கீழ் 2024ஆம் ஆண்டு மே மாதம்  சுமார் பத்து இலட்சம்  குடும்பங்களுக்குக் கொடுப்பனவுகள் வழங்கப்பட்டுள்ளதுடன்,மிகவும் வறுமையான மற்றும் வறுமையான பிரிவுகளின் கீழ் முறையே 313,947 குடும்பங்களும்,653,047 குடும்பங்களும் கொடுப்பனவுகள் வழங்கப்பட்டுள்ளதாக நலன்புரி சபையின் அதிகாரிகள் பாராளுமன்ற வழிவகைகள் பற்றிய குழுவில் குறிப்பிட்டுள்ளனர்.
+966,994 beneficiaries have been paid this month (May) under the Aswesum Welfare Program. The Welfare Council officials have told the Parliamentary Series Committee that 200,000 people are eligible to obtain welfare schemes due to various reasons such as national identity cards and problems in bank accounts.
+
+The Committee on Parliamentary Systems met with its chairman Patali Champika Ranawaka on Tuesday (14).
+
+The Welfare Council officials have stated in the Committee on Parliamentary Provincial Council, according to the Azwesum Welfare Scheme in May 2024 and that 313,947 families and 653,047 families have been given allowances under the most poor and impoverished sections respectively.
+
+It has been pointed out that although 200,000 people are eligible to obtain welfare programs due to various reasons, such as National Identity Cards and Problems in Bank Accounts, they are unable to pay for welfare allowances.
 
 ...
 
 [Data](articles/6baab848.json)
+
+[Extended Data](ext_articles/6baab848.ext.json)
 
 ---
 
@@ -736,19 +806,29 @@ The Minister was revealed that several issues of the science issue question pape
 
 ---
 
-### தமிழர்களுக்கு இந்த நாட்டில் நீதி கிட்டப்போவதில்லை என்பதற்கு சம்பூர் சம்பவம் முன் உதாரணம் - முள்ளிவாய்க்கால் நினைவேந்தல் பொதுக்கட்டமைப்பு
+### Sampur incident is an example of the fact that Tamils are not going to get justice in this country - Mullivaikkal
 
 *2024-05-15 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183640) · `ta`
 
-தமிழர்களுக்கு இந்த நாட்டில் நீதி கிட்டப் போவதில்லை என்பதற்கு சம்பூர் சம்பவமே மிக அண்மைய நல்ல முன் உதாரணமாகும் என்று தெரிவித்துள்ள முள்ளிவாய்க்கால் நினைவேந்தல் பொதுக்கட்டமைப்பு சர்வதேசம் அதனை உணர்ந்து போர்க் குற்றங்களுக்கான நீதியையும் அரசியல் நீதியையும் பெற்றுக் கொடுப்பதற்கு முன்வர வேண்டும் என்று வலியுறுத்தப்பட்டுள்ளது.
+The Sampur incident highlights ongoing issues of injustice towards Tamils in Sri Lanka, particularly in the context of the Mullivaikkal massacre. The event, which involves the arrest of individuals for sharing porridge, symbolizes broader systemic racism and the suppression of Tamil rights. It underscores the need for international intervention to ensure justice and peace, especially during significant cultural events like Vesak, where tensions between communities are heightened.
 
-இலங்கையின் பேரினவாத அரச படைகளினதும் பொலிஸாரினதும் புலனாய்வு துறையினரதும் பல்வேறு அடக்குமுறை நெருக்கதல்களுக்கு மத்தியில் போர் வலி சுமந்த மக்களாக போரில் கொல்லப்பட்ட, இறந்த எம் உறவுகளுக்காக கடந்த 14 வருடங்களாக முள்ளிவாய்க்கால் நினைவேந்தலை வேதனையோடும் நீதி எதிர்ப்பார்ப்போடும் செய்கின்றோம்.
+🟩
 
-போர்க்காலத்தில் பட்டினிச்சாவை தவிர்ப்பதற்காக செல்லடினாலும், குண்டு தாக்குதலிலும், ஆங்காங்கே இரத்த வெள்ளத்தில் சதை சதைப்பிண்டங்களாக உறவுகள் வீழ்ந்து கிடைக்க கஞ்சிக்கு வரிசையில் நின்றதை மறக்க முடியாதவர்களாக ஒவ்வொரு வருடமும் உப்புக்கஞ்சி பகிர்ந்து நினைவுகளை மீட்கின்றோம்.
+Mullivaikkal's Memorial General Assembly has urged the international community to come up with justice and political justice for war crimes.
+
+For the past 14 years, Mullivaikkal has been in a state of distress and justice for the deaths of the dead and deadly people who have been killed as people who have been carrying out war in the midst of various repression of Sri Lanka's chauvinist state forces, police and intelligence agencies.
+
+Although we are going to avoid hunger in the war, we are unforgettable every year, as we can not forget that the flesh of the flesh of the flesh in the flood of the floods.
+
+Similarly, the Sampur police have arrested a man, including three women, including three women in Sampur, on charges of sharing Kanji on the first day of this year.
+
+This is a communal violence that silence all the Tamils who have been carrying the pain of the war and longing for justice.
 
 ...
 
 [Data](articles/f362d917.json)
+
+[Extended Data](ext_articles/f362d917.ext.json)
 
 ---
 

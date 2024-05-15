@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 06:18:05**
+As of **2024-05-15 06:58:03**
 
 ## Newspaper Stats
 
-*Scraped **24,078** Articles*
+*Scraped **24,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 247
 newsfirstlk | 363
 islandlk | 1,302
 economynextcom | 1,377
-dailyftlk | 1,390
+dailyftlk | 1,414
 adalk | 2,057
 adaderanalk | 2,798
 tamilmirrorlk | 2,824
@@ -26,11 +26,423 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,075 (100.0%) of 24,078 articles have been extended.
+24,078 (99.9%) of 24,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Chinese switches and sockets brand SIASE enters Sri Lankan market with SLS certification
+
+*2024-05-15 06:09:39* · [`dailyftlk`](https://www.ft.lk/business/Chinese-switches-and-sockets-brand-SIASE-enters-Sri-Lankan-market-with-SLS-certification/34-761820) · `en`
+
+Overseas Realty (Ceylon) Group CEO/Director Pravir Samarasinghe (left) receives the SLS certification from Sri Lanka Standards Institution Director General/ CEO Dr. Siddhika G. Senaratne, others from left: Overseas Realty Trading Assistant Manager Business Development Induwara Wijewardhana, Business Unit Head Lighting and Control Asitha Wijekoon, Chief Operating Officer Dhanushka Perera, SLSI Deputy Director General M.B.D. Neelakanthi, Director Product Certification B.S.P. Perera and Senior Deputy Director- Engineering Eng. P.R.S.C. Perera
+
+SIASE the leading Chinese brand for switches and switched socket outlets commenced operations in Sri Lanka through its exclusive distributor Overseas Realty Trading Ltd.
+
+SIASE has obtained Sri Lanka Standards Institution certification SLS 1000: Part1: 2021 for SIASE Brand switches and SLS734: Part2:2017 for SIASE brand switched socket outlets.
+
+...
+
+[Data](articles/55e58e5e.json)
+
+---
+
+### New Envoy to Beijing meets Chinese companies in Sri lanka
+
+*2024-05-15 06:08:15* · [`dailyftlk`](https://www.ft.lk/business/New-Envoy-to-Beijing-meets-Chinese-companies-in-Sri-lanka/34-761819) · `en`
+
+Sri Lankan Ambassador Designate to China Majintha Jayesinghe met with the CEOs of leading Chinese companies in Sri Lanka prior to his departure this week to Beijing. The meeting was organised by the Board of Investment of Sri Lanka. Chinese Ambassador to Sri Lanka Qi Zhenhong, Transport and Highways Minister Bandula Gunawardana, BOI Chairman Dinesh Weerakkody, Secretary to the Prime Minister Anura Dissanayake also participated at the event.
+
+◼️
+
+[Data](articles/126efcaa.json)
+
+---
+
+### LAUGFS International wins AIRMAN Service Excellence Award for 2nd consecutive year
+
+*2024-05-15 06:07:20* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-International-wins-AIRMAN-Service-Excellence-Award-for-2nd-consecutive-year/34-761818) · `en`
+
+From left:LAUGFS International Assistant Manager – Technical Ravi Nilaweera, Senior Technician Malik Aravinda, Airman Exclusive Sales Consultant Duminda Somaweera LAUGFS International Head of Business Unit Sasanka Chaturange
+
+LAUGFS International Ltd., the supplier of Japanese-made AIRMAN power products in Sri Lanka, recently received the prestigious AIRMAN Service Excellence Award for the 2nd consecutive year.
+
+Presented by AIRMAN Japan, a globally recognised brand in power generators, the award underscores LAUGFS International’s unwavering commitment to excellence in delivering unparalleled service and technical support to its diverse customers.
+
+The AIRMAN Service Excellence Award is presented subsequent to an extensive evaluation based on stringent criteria. These include the availability of state-of-the-art tools in the company’s workshops, the technical capabilities of its service teams, and several other key benchmarks.
+
+...
+
+[Data](articles/bbaa3adf.json)
+
+---
+
+### Limiting Factor Analysis crucial in decision making amidst resource constraints
+
+*2024-05-15 05:38:38* · [`dailyftlk`](https://www.ft.lk/columns/Limiting-Factor-Analysis-crucial-in-decision-making-amidst-resource-constraints/4-761807) · `en`
+
+Policymakers must determine the level of full capacity national output in understanding the state of the economy and in
+
+The Sunday Times of 28 April 2024 reported that plans are underway to lift the restrictions on the import of motor vehicles because a committee of Treasury Officials has stated that in the absence of duties on motor vehicle imports the country would not meet the revenue targets set by the International Monetary Fund. The news report states further that the trade-off is an $ 800 million drain on foreign reserves against the earning of a SL Rupee denominated tax revenue of Rs. 340 billion. Whilst accepting that there would be different views re the logic of this trade-off, I see this as a situation which calls for Limiting Factor Analysis (LFA).
+
+...
+
+[Data](articles/a3eaab42.json)
+
+---
+
+### A wise fool’s paradise
+
+*2024-05-15 05:26:54* · [`dailyftlk`](https://www.ft.lk/columns/A-wise-fool-s-paradise/4-761806) · `en`
+
+When President Ranil Wickremesinghe announces his candidacy, we will hear people sing of dark times
+
+“For every complex problem, there is a solution that is clear, simple, and wrong.”
+
+‘Sustaining Stability’ is the oxymoronic title of the recent panel discussion organised by the Central Bank.
+
+How to make a three-legged stool stand on two legs would have been a more commonsensical, down to earth title for the profoundly perplexing exchange of views by five panellists – all steeped in the science of economics.
+
+That makes it easy. A repetition of remarks made by participants or attempting to qualify who said what, is not necessary.
+
+It was a seriously choreographed discussion. It was in English – the language of Global Commerce, the IMF, and holders of our International Sovereign Bonds.
+
+Therein lies another tale. All this brouhaha is to appease creditors for us to get back to the business of borrowing.
+
+...
+
+[Data](articles/9e60dac3.json)
+
+---
+
+### Easter attack like NATO
+
+*2024-05-15 05:21:45* · [`dailyftlk`](https://www.ft.lk/opinion/Easter-attack-like-NATO/14-761805) · `en`
+
+Every year around late April we all speak about the Easter bomb disaster which affected thousands of people in the country.
+
+During that period there were several public requests for action to be taken against all who are guilty of failing in their duties.
+
+In an article on 2 May 2019 which was published in the papers soon after the disaster where I clearly mentioned:
+
+“It is absolutely necessary that those responsible, starting from the top two leaders and all others holding political office, be compelled by law to face appropriate penalties for their indifference and negligence.”
+
+As it has happened in the last 75 years after Independence, whenever a disaster takes place in the country we talk about it for some time and conveniently forget about it.
+
+...
+
+[Data](articles/b784fb86.json)
+
+---
+
+### Playing “Blind Man’s Buff” with Sri Lanka’s Free Trade Agreements: Part 2
+
+*2024-05-15 05:19:14* · [`dailyftlk`](https://www.ft.lk/columns/Playing-Blind-Man-s-Buff-with-Sri-Lanka-s-Free-Trade-Agreements-Part-2/4-761803) · `en`
+
+Transparency and widespread consultation is vital for an FTA Feasibility Study that reflects the interests of the country rather than vested interests of a few politicians and their business henchmen
+
+It is important to realise that the mere reduction of an import duty at the border, through an FTA does not mean free market access for Sri Lanka goods to the Indian or any other market since there are many non-tariff barriers and trade facilitation documentation issues facing our exports to those markets. An UNCTAD Study on Non Tariff Measures in China and India (2020) noted that despite reduction in import duties at the border, a host of NTMs as sanitary and phytosanitary/technical barriers to trade, quotas, financial exchange and price changing measures, registration and administrative, non technical issues can adversely affect price and quantities traded.
+
+...
+
+[Data](articles/edf63b24.json)
+
+---
+
+### Siddhalepa extends Ayurvedic Wellness to UAE
+
+*2024-05-15 05:12:11* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-extends-Ayurvedic-Wellness-to-UAE/34-761802) · `en`
+
+Siddhalepa, the globally acclaimed Ayurveda-based wellness brand, has unveiled its presence in the Middle East, particularly in the United Arab Emirates.
+
+This auspicious occasion celebrated on 9 May at the Pullman Hotel, Diera, Dubai, signifies a new era of holistic wellness in the region.
+
+The launch event commenced with a warm welcome address by Sri Lankan Business Council in Dubai and Northern Emirates representee Shihan Sherif setting the tone for an evening of cultural significance and health advocacy.
+
+Sri Lanka’s High Commissioner to the UAE Udaya Indrarathna reminisced about the historical importance of Siddhalepa in Sri Lankan households, emphasising its profound impact on generations. His insights shed light on the brand’s legacy and its transformative potential in the UAE.
+
+Sri Lanka’s Consul General to UAE Alexi Gunasekare delivered an insightful address, enhancing on the shared values and commitment to holistic wellness between Sri Lanka and the UAE.
+
+...
+
+[Data](articles/dfe5fa3d.json)
+
+---
+
+### Premier Ceylon Teas and Spices launches Gold Edition – 22kt Gold tea souvenir pack
+
+*2024-05-15 05:11:05* · [`dailyftlk`](https://www.ft.lk/business/Premier-Ceylon-Teas-and-Spices-launches-Gold-Edition-22kt-Gold-tea-souvenir-pack/34-761801) · `en`
+
+Premier Ceylon Teas and Spices has announced the launch of the Gold Edition with 22kt Gold Lion to add to the innovative product range adding to its exclusive artisanal tea and spice product range.
+
+It is an exclusive Gold Gift Pack with Premier Ceylon Cinnamon Honey Tea specially designed for the value seeking and discerning clients locally and internationally
+
+This product is specially designed as an exclusive souvenir and a gift pack to celebrate and cherish artistry and aesthetic values thus, together with the finest Premier Ceylon Honey Tea, catering to the discerning royal connoisseurs not only as an exclusive tea product but also as a life time souvenir from Premier Ceylon and Sri Lanka.
+
+Premier Ceylon is an exclusive tea company specialising in handmade teas and spices and with its continued and ongoing research and development process, is in the process of developing an exclusive new tea range to the world of teas with innovation in the forefront
+
+...
+
+[Data](articles/ea8bc15d.json)
+
+---
+
+### Bakeer Markar in Parliament attributes Palestine crisis to global political interests
+
+*2024-05-15 05:09:13* · [`dailyftlk`](https://www.ft.lk/news/Bakeer-Markar-in-Parliament-attributes-Palestine-crisis-to-global-political-interests/56-761800) · `en`
+
+Accuses US President Biden of providing substantial support to Netanyahu, despite global protests
+
+Says Israel through its contradictory stances has revealed its Zionist agenda to the world
+
+Emphasises global call to eliminate the influence of AIPAC from the US Congress
+
+Stresses allowing atrocities in Gaza to continue in today’s modern era is an affront to humanity
+
+Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar yesterday said the current humanitarian crisis in Palestine is a product of international political interests.  Speaking in parliament at the Adjournment Debate on the Palestine Issue, he also pointed out the contradiction in Israel’s stance.
+
+“While Israeli propaganda suggests an end to the conflict if Israeli hostages are freed, statements from Prime Minister Benjamin Netanyahu and his government ministers have emphasised their determination to continue the war, revealing their clear Zionist agenda to the global community,” he said.
+
+...
+
+[Data](articles/f7fa69d8.json)
+
+---
+
+### Hakeem calls on SL Govt. to cut ties with Israel
+
+*2024-05-15 05:07:22* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-calls-on-SL-Govt-to-cut-ties-with-Israel/56-761799) · `en`
+
+Says SL Govt. must convey a clear message to Israel and take a bold stance against it
+
+Expressed dismay that many countries still maintain diplomatic relations with Israel despite the atrocities taking place
+
+Opines Israeli hostages have become  mere excuse for Israeli regime to eliminate entire civilian population in Gaza
+
+Opposition MP Rauff Hakeem yesterday called on the Sri Lankan Government to consider severing diplomatic relations with Israel should it persist with its military operations in Gaza.
+
+Joining the Adjournment Debate on the Palestine Issue, Hakeem emphasised that the Sri Lankan Government should convey a clear message to Israel, warning that Sri Lanka would sever diplomatic relations if the offensive in Gaza persists. He underscored that this action should be considered as a last resort.  The MP said the entire world seems toothless when it comes to Israel and urged Sri Lanka to take a bold stance against the country.
+
+...
+
+[Data](articles/523c673b.json)
+
+---
+
+### US Assistant Secretary Bureau of South and Central Asian Affairs calls on President
+
+*2024-05-15 05:05:48* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-Bureau-of-South-and-Central-Asian-Affairs-calls-on-President/56-761798) · `en`
+
+The visiting United States’ Assistant Secretary Bureau of South and Central Asian Affairs Donald Lu on Monday called on President Ranil Wickremesinghe and held extensive discussions regarding Sri Lanka’s economic recovery strategies. President Wickremesinghe’s unwavering dedication and commitment to implementing the economic reform program was highly appreciated. The President was accompanied by the Senior Advisor on the National security and Chief of Staff, Sagala Ratnayaka, Secretary to the President, Saman Ekanayake, United States Ambassador to Sri Lanka Julie Chung and Director of International Affairs, Dinouk Colombage.
+
+◼️
+
+[Data](articles/0ce9d5ce.json)
+
+---
+
+### YJA calls for investigation on Sampur arrests
+
+*2024-05-15 05:04:46* · [`dailyftlk`](https://www.ft.lk/news/YJA-calls-for-investigation-on-Sampur-arrests/56-761797) · `en`
+
+The Young Journalists Association of Sri Lanka in a letter to the Human Rights Commission of Sri Lanka (HRCSL) has called for an investigation to be launched regarding the arrests of four persons in Sampur for holding a commemoration event in remembrance of the Mullivaikkal war dead.
+
+The YJA said the police had obtained a court order prohibiting the distribution of porridge and there have been several similar instances in the past. “Despite the Sri Lanka Human Rights Commission’s 2016 recommendation to uphold the right to commemoration, the police are obstructing these peaceful commemorations by obtaining court orders,” the YJA noted.
+
+They said the police have clearly neglected these recommendations and have said in court they will investigate whether an offence under the Convention on Civil and Political Rights Act (ICCPR) has been committed.
+
+...
+
+[Data](articles/94ef6d4d.json)
+
+---
+
+### Suspects who impersonated as Police Officers and robbed over Rs. 20 m in cash further remanded
+
+*2024-05-15 05:04:19* · [`dailyftlk`](https://www.ft.lk/news/Suspects-who-impersonated-as-Police-Officers-and-robbed-over-Rs-20-m-in-cash-further-remanded/56-761796) · `en`
+
+Four suspects including a woman who had impersonated as CID officers and searched a house at Colpetty and took away Rs. 12 million cash and 3,500 Dollars’ (approximately worth Rs. 10.5 million) were further remanded till 24 May.
+
+At the onset of inquiry before Colombo Chief Magistrate Thilina Gamage, officers of the Commission to Investigate Allegations of Bribery or Corruption informed the Magistrate that the CID had conducted a separate investigation on the matter and had arrested three other Police officers who had connived with the suspects.
+
+The Bribery Sleuths said the three suspects will be produced in court today for an identification parade.
+
+The Bribery also sought the permission of the Court to record the statements from the three suspects after holding the identification parade.
+
+...
+
+[Data](articles/97dd5641.json)
+
+---
+
+### Mumbai becomes Asia’s Billionaires Hub
+
+*2024-05-15 05:03:20* · [`dailyftlk`](https://www.ft.lk/business/Mumbai-becomes-Asia-s-Billionaires-Hub/34-761795) · `en`
+
+Mumbai has emerged as Asia's billionaire capital in a notable development, as per the latest findings from the Hurun Global Rich List 2024. This shift underscores India's burgeoning economic prowess, as the city sees a significant surge in billionaire residents. With an impressive addition of nearly 100 billionaires compared to the previous year, Mumbai stands as a testament to the nation's growing economic confidence and prosperity.
+
+Mumbai now boasts 92 billionaires, edging past Beijing's count of 91, as reported by the Hurun Global Rich List. This meteoric rise solidifies Mumbai's position among the top three cities globally in terms of billionaire density.
+
+...
+
+[Data](articles/b3255992.json)
+
+---
+
+### Cabinet nod to introduce Technology Promotion Act replacing 20-year-old ICTA
+
+*2024-05-15 05:02:12* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-introduce-Technology-Promotion-Act-replacing-20-year-old-ICTA/34-761794) · `en`
+
+New legislation proposes Technology Innovation Council and Digital Transformation Agency
+
+The Cabinet of Ministers on Monday cleared the introduction of the Technology Promotion Act, signalling a significant step towards modernising the legislative framework to embrace the digital age.
+
+The decision involves the cancellation of the existing Information and Communication Technology Act (ICTA) No. 27 of 2003 and the drafting of a new Bill based on a concept paper prepared for this purpose.
+
+“The introduction of the Technology Promotion Act will provide a comprehensive legal framework to promote and regulate technology-related activities in the country. By updating outdated legislation and embracing new approaches to technology governance, the Government aims to create an enabling environment for technological advancement and digital entrepreneurship,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing held yesterday.
+
+...
+
+[Data](articles/fb4bb6ef.json)
+
+---
+
+### Govt. allows power wheeling facility for renewable energy projects
+
+*2024-05-15 05:01:41* · [`dailyftlk`](https://www.ft.lk/business/Govt-allows-power-wheeling-facility-for-renewable-energy-projects/34-761793) · `en`
+
+The Cabinet of Ministers at its meeting on Monday approved a power wheeling facility for private entities to collectively use the Ceylon Electricity Board (CEB) transmission network to transport electricity to different locations subject to a payment of fee.
+
+The progressive move aims to promote renewable energy adoption and boost energy self-sufficiency in Sri Lanka. The approach, known as ‘power wheeling’, allows electricity users to utilise existing supply from another location through the grid, subject to a fee, thereby reducing costs effectively.
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said under the approved proposal, electricity users will be allowed to build renewable energy plants, such as mini-hydro facilities and transmit the generated power through the CEB grid to other locations owned by the same party for personal use.
+
+...
+
+[Data](articles/0e92a3c8.json)
+
+---
+
+### Pathfinder Foundation hosts delegation from Geneva’s International Trade Centre
+
+*2024-05-15 05:00:32* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-Foundation-hosts-delegation-from-Geneva-s-International-Trade-Centre/34-761792) · `en`
+
+Switzerland, Geneva-based International Trade Centre Chief of Asia Pacific Sylvie Bétemps Cochin (second from right) with Pathfinder Foundation Chairman Bernard Goonetilleke and Executive Director Dayaratna Silva
+
+Pathfinder Foun-dation yesterday welcomed a delegation from the International Trade Centre (ITC) based in Geneva, Switzerland led by Chief of Asia Pacific Sylvie Bétemps Cochin.
+
+The delegation also included Associate Project Adviser Camille Roy and Associate Program Officer Vidya Nathaniel.
+
+...
+
+[Data](articles/da1eeea6.json)
+
+---
+
+### President mulls invalidation of postponed LG election nominations
+
+*2024-05-15 04:59:04* · [`dailyftlk`](https://www.ft.lk/news/President-mulls-invalidation-of-postponed-LG-election-nominations/56-761791) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena says Govt. sought legal advice from AG regarding the matter
+
+Asserts State sector employees who submitted nominations for LG polls faced difficulties at work places due to their political perspectives
+
+Says President directs to hold discussions with AG, party leaders and Election Commission to plan for LG polls next year under previous system which will enable higher participation of women
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday confirmed that President Ranil Wickremesinghe has directed Premier Dinesh Gunawardena to explore the possibility of quashing the nominations for the postponed 2023 Local Government elections.
+
+He said that the matter was taken into consideration under ‘other category’ at the weekly Cabinet meeting held on Monday.
+
+...
+
+[Data](articles/ee1b4d68.json)
+
+---
+
+### Dr. Fernandopulle presents two private member bills to push for more women representation in Parliament
+
+*2024-05-15 04:54:49* · [`dailyftlk`](https://www.ft.lk/news/Dr-Fernandopulle-presents-two-private-member-bills-to-push-for-more-women-representation-in-Parliament/56-761790) · `en`
+
+Two private member bills have been presented to parliament with the aim of increasing women’s representation in the legislative body.
+
+The two bills, reportedly submitted by parliamentarian Dr Sudarshini Fernandopulle as private member proposals, aim to address the issue of female representation in parliament. One bill seeks to amend the Parliamentary Elections Act, advocating for a minimum of 30% female representation in every recognized political party.
+
+Additionally, another proposal submitted to Parliament as a draft bill aims to amend the Constitution as the 22nd Amendment. This proposal suggests that not less than 50% of women members be included in the national list nominated to represent the Parliament of a political party or an independent group.
+
+Fernandopulle told journalists that despite her requests to political parties to take steps to enhance women’s representation, she opted to introduce the necessary legislation herself due to the absence of a positive response.
+
+◼️
+
+[Data](articles/6d4f9950.json)
+
+---
+
+### PM initiates revival of techno parks in Galle, Kurunegala
+
+*2024-05-15 04:53:45* · [`dailyftlk`](https://www.ft.lk/news/PM-initiates-revival-of-techno-parks-in-Galle-Kurunegala/56-761789) · `en`
+
+People’s Bank and NSB had lent Rs. 750 million each for the proposed parks in 2021
+
+Prime Minister Dinesh Gunawardena is initiating key measures to revive the technological parks in Galle and Kurunegala initiated in 2021 but later abandoned.
+
+A statement from the Prime Minister’s Office said yesterday that the Ministry of Investment Promotion has been advised in the National Operations Room discussions to prepare a plan to make proper use of the buildings constructed in the Technology Parks by the Techno Park Company in Kurunegala and Galle Districts.
+
+The problems of the development projects and the methods of expediting those projects were discussed by the National Operation Room headed by the Secretary to the Prime Minister Anura Dissanayake.
+
+...
+
+[Data](articles/670df84f.json)
+
+---
+
+### Cabinet green lights revision of land grant methodology for war heroes
+
+*2024-05-15 04:51:48* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-revision-of-land-grant-methodology-for-war-heroes/56-761788) · `en`
+
+The Cabinet of Ministers on Monday gave its green light to revise the existing methodology for granting lands to war heroes, whilst addressing issues that have arisen under the existing system.
+
+“The key objective of the move is to address the shortcomings of the current system and ensure that war heroes receive adequate support and recognition for their sacrifices,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing held yesterday.
+
+...
+
+[Data](articles/7c1e5b30.json)
+
+---
+
+### Govt. Analyst ordered to accelerate examination of Dinesh Schaffter’s mobile phone
+
+*2024-05-15 04:51:32* · [`dailyftlk`](https://www.ft.lk/news/Govt-Analyst-ordered-to-accelerate-examination-of-Dinesh-Schaffter-s-mobile-phone/56-761787) · `en`
+
+Colombo Additional Magist-erial Harshana Kakunawala yesterday sent a reminder to the Government Analyst to speed up inquiry examination of the mobile phone that was recovered from  custody  of deceased  young investor Dinesh Schaffter and to file the  findings in court  as soon as possible.
+
+The Magistrate made this order on the Government Analyst consequent to a request made by President Counsel Anuja Premaratna appearing with Senior Counsel Mohan Balendran on behalf of the family of Schaffter during the autopsy inquiry.
+
+Counsel Premaratna also asserted that among the contents of the mobile phone there is vital information about the bank accounts and other business matters of the deceased. Counsel Premaratna also appealed to make available that information to the family of Schaffter.
+
+However Police said they will make a decision on that after consulting the investigation officers who are conducting the inquiry and  will report to court.
+
+...
+
+[Data](articles/debed79b.json)
+
+---
+
+### Duminda seeks injunction against SLFP Chair Wijeyadasa
+
+*2024-05-15 04:49:47* · [`dailyftlk`](https://www.ft.lk/news/Duminda-seeks-injunction-against-SLFP-Chair-Wijeyadasa/56-761786) · `en`
+
+The internal crisis within the Sri Lanka Freedom Party (SLFP) showed no signs of abating, as party member MP Duminda Dissanayake filed a petition with the Colombo District Court yesterday. Dissanayake is seeking an injunction order to prevent newly appointed SLFP Chairperson Dr. Wijeyadasa Rajapakshe from carrying out his duties in the role.
+
+The move comes after the Kaduwela District Court on Monday issued an enjoining order prohibiting any individual or group from obstructing Rajapakshe and Acting Secretary, Keerthi Udawatta, from performing their duties within the party.
+
+Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoining orders during a case brought forward by SLFP Executive Committee members Isuru Abeywardena and Sumith Wijayamuni de Soysa, who named 20 Executive Committee members as respondents.
+
+...
+
+[Data](articles/b1306118.json)
+
+---
 
 ### New website to raise awareness on leprosy
 
@@ -652,6 +1064,8 @@ Despite the soaring ransoms, this year’s survey indicates a slight reduction i
 
 [Data](articles/47db846c.json)
 
+[Extended Data](ext_articles/47db846c.ext.json)
+
 ---
 
 ### Election ambiguity and vagueness weighs on stock trading
@@ -665,6 +1079,8 @@ Amid those developments both indices moved downwards. All Share Price Index down
 ...
 
 [Data](articles/6ad83142.json)
+
+[Extended Data](ext_articles/6ad83142.ext.json)
 
 ---
 
@@ -1779,597 +2195,5 @@ Police said that the body has not yet been confirmed and that it is unidentified
 [Data](articles/2e47d78d.json)
 
 [Extended Data](ext_articles/2e47d78d.ext.json)
-
----
-
-### Sri Lanka stocks close down, driven by political uncertainty
-
-*2024-05-14 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-driven-by-political-uncertainty-163003/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 1.12 percent, or 140.36 points, at 12,358; while the S&P SL20 Index closed down 1.39 percent, or 51.65 points, at 3,671.
-
-“Market fell by about 140 points mostly driven by the uncertainty in the political situation,” market participants said.
-
-“However there was some notable activity from the retail and high-net-worth segments into Ceylon Tobacco Company Plc (up at 1,332.50), and Chevron Lubricants Lanka Plc (up at 120.75), due to the good results they had posted.”
-
-There was also increased activity on the construction counters, they said.
-
-Royal Ceramics Lanka Plc continued to be heavily traded (Rs75104mn). The share closed down at 36.30.
-
-John Keells Holdings Plc contributed the most (Rs888mn) to the day’s turnover; and the share closed down at 203.25.
-
-There was a net foreign outflow of 587 million. (Colombo/May14/2024)
-
-◼️
-
-[Data](articles/e64468d2.json)
-
-[Extended Data](ext_articles/e64468d2.ext.json)
-
----
-
-### Two youths who were smuggled by leakage
-
-*2024-05-14 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183536) · `ta`
-
-Two youths were smuggled by a motorcycle leak, causing an accident in Pudukkudiyiruppu. They were injured and hospitalized. The public caught them smuggling from Kokkatichcholai. Police are investigating.
-
-🟩
-
-Regional residents have folded two youths who have been abducted by motorcycle illegal 45 liters of leaks and have smashed the motorcycle used by the public.
-
-The young men were injured and admitted to the hospital. The incident took place on Monday (13) evening at the Pudukkudiyiruppu area of the Kattankudy Police Division, said G. Gajanayake, Superintendent of Kattankudy Police Station.
-
-The young men were caught by the public as they were smuggled from Kokkatichcholai to the new residential area.
-
-Kattankudy police said that the youths were produced before the Batticaloa Magistrate's Court on Tuesday.
-
-The Kattankudy Police Station Criminal Investigation Division is conducting serious investigations.
-
-◼️
-
-[Data](articles/77e3d2cb.json)
-
-[Extended Data](ext_articles/77e3d2cb.ext.json)
-
----
-
-### Notice of masses about a big rain
-
-*2024-05-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196618) · `si`
-
-The Meteorology Department forecasts heavy rain (100mm) in Western, Central, Sabaragamuwa, Uva regions over the next 36 hours due to turbulent lower atmosphere conditions. Showers/thundershowers expected in many parts of the island, especially in the west and south. The department advises caution against strong winds and lightning during thunderstorms.
-
-🟩
-
-The Meteorology Department says that around 100 millimeters will occur at some places in the Western, Central, Sabaragamuwa, Uva and Uva.
-
-The department was stated in the weather notification regarding the next 36 hours.
-
-The rainy industry is further expected due to the turbulent nature of the lower atmosphere in the lower atmosphere.
-
-Showers or thundershowers will occur at several places in many parts of the island.
-
-Showers will occur at the Western and southern coastal areas.
-
-Meanwhile, the Department of Meteorology has requested the people to minimize temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7fd26b3a.json)
-
-[Extended Data](ext_articles/7fd26b3a.ext.json)
-
----
-
-### Preschooler dies of electric shock while using charging mobile phone
-
-*2024-05-14 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99216/preschooler-dies-of-electric-shock-while-using-charging-mobile-phone-) · `en`
-
-Pediatrician Dr. Deepal Perera says there is a 3 – 15% chance that a child can die due to electrocution.
-
-“It can affect the heart. It can affect the brain. That means it can damage the nervous system. The heart rate can change. We call it arrhythmia. Things like that can happen. Fainting, loss of consciousness, and even death can occur. This is very dangerous,” Dr. Perera warned.
-
-Therefore, he stressed that it is the duty of adults to immediately rush them to hospital when such incidents occur as well as to prevent such situation from arising.
-
-Meanwhile, a tragic incident has been reported from the Munhena area of Maggona, where a three-and-a-half-year-old girl has died allegedly due to electrocution while using a mobile phone that was plugged into a charger.
-
-The girl, who had returned home from preschool, was using a mobile phone while it was charging in a room of the house. Her elder brother discovered her lying unconscious and immediately alerted their father.
-
-...
-
-[Data](articles/6fc8f8be.json)
-
-[Extended Data](ext_articles/6fc8f8be.ext.json)
-
----
-
-### Student survival in Trincomalee
-
-*2024-05-14 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183540) · `ta`
-
-In Trincomalee, a school girl from Devanagar died after an argument, leading to her attempted suicide. The incident, involving a girl and her mother, resulted in the girl's death on the way to the hospital. The Uppuweli police are investigating. Additionally, an 18-year-old from Kinniya and a 32-year-old in Muttur-Bharathipuram died recently. The public calls for social organizations to address the increasing number of such incidents.
-
-🟩
-
-A school girl in Devanagar area of the Uppuweli police division in Trincomalee. Gonase Dusani (age 17) has died in the incident which took place this morning (14).
-
-It is reported that there was an argument between a girl and a mother who lives in Devanagar, Trincomalee, and then took the girl's sister to school.
-
-It was later reported that the girl had tried to make her life at around 7.00 am and the girl died on the way to the Trincomalee hospital.
-
-The body of the deceased girl has been handed over to the parents after the autopsy is carried out. Further investigations are being carried out by the Uppuweli police.
-
-It is also worth noting that an 18 -year -old girl from Kinniya died today (14) and a 32 -year -old young family member in Muttur - Bharathipuram on the 12th.
-
-The public is demanding that social organizations come forward to prevent or control the number of people who have been living in recent years.
-
-◼️
-
-[Data](articles/93695397.json)
-
-[Extended Data](ext_articles/93695397.ext.json)
-
----
-
-### Wijayadasa decides tomorrow
-
-*2024-05-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196617) · `si`
-
-The Colombo District Court today ordered, following a complaint by the SLFP and MP Duminda Dissanayake, that it cannot issue an injunction against Mr. Wijayadasa Rajapaksa, appointed as the UNP Chairman, due to jurisdictional issues. The case, involving President's Counsel Romesh de Silva and Chandaka Jayasundara, highlights a dispute over the applicability of an injunction order issued by the Kaduwela District Court. The court's decision will be announced tomorrow.
-
-🟩
-
-Does the Minister of Justice Wijayadasa Rajapaksa pretend to prevent the Chairman of the Sri Lanka Freedom Party?Not?The Colombo District Court today (14) ordered the Colombo District Court today.
-
-The decision was published by the Sri Lanka Freedom Secretary and Parliamentarian Judge Sandun Withanage following a complaint filed by the SLFP and MP Duminda Dissanayake.
-
-President's Counsel Romesh de Silva, who was named as a defendant, he appeared in behalf of Mr. Wijeshadasa Rajapakse, who is named as a defendant.
-
-"According to the decision taken by the SLFP Executive Committee on the 12th, Mr. Wijayadasa Rajapaksa has been appointed as the Chairman of the UNP. Kaduwela District Court issued a complaint file by the Kaduwela District Court and issued an enjoining order preventing the SLFP chairman. The petition has been presented in contrary to the injunction order. "
-
-...
-
-[Data](articles/1370aac1.json)
-
-[Extended Data](ext_articles/1370aac1.ext.json)
-
----
-
-### Duminda challenges Wijedasa’s appointment
-
-*2024-05-14 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Duminda-challenges-Wijedasas-appointment/108-282582) · `en`
-
-Colombo, May 14 (Daily Mirror) -  Sri Lanka Freedom Party (SLFP) Parliamentarian Duminda Dissanayake today instituted legal action before the Colombo District Court challenging the appointment of Minister Wijeyadasa Rajapakshe and Keerthi Udawatta as SLFP Chairman and Acting General Secretary respectively.
-
-The plaintiff Dissanayake is seeking an enjoining order preventing Minister Wijeyadasa Rajapakshe PC and Attorney-at-Law Keerthi Udawatta from functioning as SLFP Chairman and party Acting General Secretary respectively.
-
-The plaintiff is further seeking a declaration that all decisions taken during an executive committee meeting held on May 12 are not valid in law.
-
-The plaintiff alleged that the executive committee meeting had been convened illegally, contrary to the provisions of  the SLFP constitution, and therefore its subsequent appointments are not legally valid.
-
-The decision on whether the court will issue an enjoining order will be delivered tomorrow (15).
-
-...
-
-[Data](articles/2f7606dd.json)
-
-[Extended Data](ext_articles/2f7606dd.ext.json)
-
----
-
-### Cabinet approval to launch a high -quality study once the normal grade exam is completed
-
-*2024-05-14 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183537) · `ta`
-
-The Cabinet approved a plan to start GCE Advanced Level classes immediately after the GCE Ordinary Level exam, aiming to enhance education quality and address social issues by providing adequate time for teachers and students.
-
-🟩
-
-The Cabinet has approved the proposal submitted by Minister of Education Susil Premjayantha to begin the GCE Ordinary Level Examination after the GCE Ordinary Level Examination.
-
-The Department of Examinations requires at least three months to publish its results after the GCE Ordinary Level Examination. During this period, students have left school education and the tendencies of education in education are reduced to various social problems.
-
-Considering this, it has been found that it is appropriate to manage the students' time and provide adequate time for teachers to include GCE Advanced Level courses in 2024 and start higher education in schools by 2024.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Education to start the GCE Advanced Level Classes after the end of the examination for the students who passed the GCE Ordinary Level Examination for 2023.
-
-◼️
-
-[Data](articles/aa913e38.json)
-
-[Extended Data](ext_articles/aa913e38.ext.json)
-
----
-
-### Sri Lankan telecommunications amendment Bill should be withdrawn - Opposition Leader requests government
-
-*2024-05-14 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183531) · `ta`
-
-Opposition Leader Sajith Premadasa urges the Sri Lankan government to withdraw the Telecommunication Amendment Bill, citing risks to media freedom and lack of public consultation. The bill, criticized for its potential harm to free media, was submitted without sufficient examination of public opinions. Premadasa expresses dissatisfaction and threatens legal action, emphasizing the importance of independent media in a democratic country.
-
-🟩
-
-There is a risk of media freedom by the Sri Lanka Telecommunication Bill. Opposition leader Sajith Premadasa said the government should withdraw the bill.
-
-You have submitted the Sri Lanka Telecommunication Act to Parliament without insufficient examining the people's opinions.
-
-Many people make allegations regarding the Sri Lankan telecommunications amendment law.There are many proposals that are harmful to the free media in this draft.
-
-The amendment Bill has been presented without consulting enough people and without hearing the opinions of other parties.
-
-The Sri Lanka Telecommunication Amendment Act includes a number of adverse stages that are adverse to the free media.
-
-This includes the idea of obtaining compensation and obtaining their media permits and the Commission to issue a commission on the welfare of the public in accordance with the Commission's decision.
-
-...
-
-[Data](articles/8067f809.json)
-
-[Extended Data](ext_articles/8067f809.ext.json)
-
----
-
-### It is impossible to refer to Netanyahu as a terrorist - Dylan Perera
-
-*2024-05-14 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183528) · `ta`
-
-Dylan Perera argues that labeling Netanyahu as a terrorist is unjust, emphasizing the need for humanitarian support for Palestinians. He criticizes the destruction in Gaza, where 34,183 deaths and 77,804 injuries have occurred, with 62% of homes damaged. Perera calls for Sri Lanka's support for Palestinians, highlighting the UN's role in peace and the US's support for Netanyahu, despite his actions challenging the UN Human Rights Commission.
-
-🟩
-
-Sri Lanka should provide its cooperation to the Palestinians.
-
-Parliamentarian Dylan Perera said Israeli Prime Minister Benjamin Netanyahu could not be referred to as a terrorist.
-
-He was speaking at a debate on the adjournment of the Palestinian Affairs Council on Tuesday (13) in Parliament.
-
-During the budget of 2024, I came to the congregation to support the Palestinians to support the Palestinians. Some people looked at me and referred to me as 'Dylan Sinhala Thambia'.
-
-The plight of the Palestinians should not be seen from the religious angle of Sinhalese, Catholicism and Islam. It should be seen on a humanitarian basis.
-
-The United Nations Human Rights Commission has stated that 34 thousand 183 people have been killed and 77 thousand 804 have been killed in Gaza in Gaza area for 20 minutes.
-
-...
-
-[Data](articles/36fbe19d.json)
-
-[Extended Data](ext_articles/36fbe19d.ext.json)
-
----
-
-### Israeli attack on refugee in Gaza
-
-*2024-05-14 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183532) · `ta`
-
-In Gaza, Israel's attack on a Nusareth refugee house in the central part of Gaza resulted in the death of 13 Palestinians. The Gaja family's four-storey house, which had been providing refuge to about 100 people displaced by war, was targeted. Bodies were found tied in the wreckage, and the situation is expected to worsen with potential increases in casualties. Videos on social media show the aftermath, including children trapped in the wreckage, as rescue efforts continue.
-
-🟩
-
-13 Palestinians have been killed in Israel's attack on a house in Nusareth refugee in the central part of Gaza
-
-A doctor at the Al -Aqsa Martyrdom Hospital told CNN that their bodies were tied into the wreckage.
-
-Israel has launched a four -storey house of the Gaja family, which has been displaced by the war and providing refuge to about 100 people.
-
-The bodies of the killed boys have been taken to the Aqacsa martyrs in Tair al Balal.
-
-CNN's journalist said that the casualties could increase and the bodies of six of their families were inundated with the wreckage.
-
-Videos have been posted on social media, showing that many people, including children, have been deprived of the wreckage and that rescue workers are trying to rescue them.
-
-◼️
-
-[Data](articles/da8c0a76.json)
-
-[Extended Data](ext_articles/da8c0a76.ext.json)
-
----
-
-### Iran granted Uma Oya project due to huge recognition for MR: Hakeem
-
-*2024-05-14 16:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-granted-Uma-Oya-project-due-to-huge-recognition-for-MR-Hakeem/108-282581) · `en`
-
-Parliament, May 14 (Daily Mirror)- Claiming that the Uma Oya multipurpose development project was granted to Sri Lanka by the Iranian government because of the huge recognition for former president Mahinda Rajapaksa those days, Parliamentarian Rauf Hakeem said today the current government is looking to take the credit for it.
-
-He told Parliament that the Iranian President came to Sri Lanka on the invitation of the Foreign Minister.
-
-“The Uma Oya project was initiated during former President Mahinda Rajapaksa government. He enjoyed huge recognition by the Iranian government those days. That is why the project was granted to Sri Lanka. You are trying to score now,” he said.
-
-The MP said State Minister of Foreign Affairs Tharaka Balasuriya was bragging recently during a debate in Parliament about the achievement of the President claiming that Sri Lanka got the Iranian President to visit here and Sri Lanka was able to send a naval force to the Red Sea.
-
-...
-
-[Data](articles/f59de5d1.json)
-
-[Extended Data](ext_articles/f59de5d1.ext.json)
-
----
-
-### Kusal Mendis and Asapha Fernando have not received visas
-
-*2024-05-14 16:04:48* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-මෙන්ඩිස්-සහ-අසිත-ප්‍රනාන්දුට-අමරිකාවට-වීසා-ලැබී-නෑ/11-409629) · `si`
-
-Kusal Mendis and Asitha Fernando couldn't join their squad in New York due to visa delays, while the rest of the team left.
-
-🟩
-
-It is reported that Kusal Mendis and Asitha Fernando had not received a visa to go to the United States.
-
-However, the rest of the squad, however, left for New York this morning, but it was reported that Mandis and Fernando had not been able to join them due to visa delay.
-
-◼️
-
-[Data](articles/74ae6c99.json)
-
-[Extended Data](ext_articles/74ae6c99.ext.json)
-
----
-
-### The government should condemn Israel's genocide in Palestine - Imtiaz Pakir Makar
-
-*2024-05-14 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183527) · `ta`
-
-Imtiaz Pakir Makar calls for government condemnation of Israel's genocide in Palestine, highlighting historical struggles against colonialism and the current international efforts to weaken unity against apartheid. He references the recent UN resolution granting new rights to Palestine, despite Israeli threats, and criticizes the ongoing humanitarian crisis in Gaza, where essential aid is blocked, leading to daily deaths and famine.
-
-🟩
-
-At the same time, Imtiaz Pakir Makar said the government should now condemn Israel's genocide.
-
-He was speaking on the proposal of the House on Tuesday in Parliament on the current state of Palestine.
-
-Through our history, we see that our ancestors, as the Palestinians face today, have faced many tragedies in the face of oppression and violence by imperialist colonialism for centuries.
-
-Moreover, from the 50s, Jawaharlal Nehru, Marshall Ditto and General Nasser, our country's leaders and non -governmental leaders have been a strong lead against colonialism and apartheid.
-
-But in recent years, we have been seen on the international site that the financial powers of the world, due to their wealth and power, are working to weaken that unity internationally.
-
-...
-
-[Data](articles/fa9be325.json)
-
-[Extended Data](ext_articles/fa9be325.ext.json)
-
----
-
-### Mullivaikkal porridge serving for the third day in the midst of the police restrictions in Batticaloa
-
-*2024-05-14 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183530) · `ta`
-
-On the third day of the Mullivaikkal kanji serving in Batticaloa, despite police restrictions and threats, a large crowd gathered. The event, chaired by Mrs. A. Amalanayagi, faced police opposition but continued, with health checks and traffic control measures in place. Despite police efforts to halt the serving, many were able to purchase the porridge.
-
-🟩
-
-The third day of the genocide week, today, in Batticaloa, the Mullivaikkal kanji operations were held in violation of various obstacles and threats of the police.
-
-The Mullivaikkal Kanji serve for the third day in front of the Sriparipurna Vinayagar Temple at the Airport Road in Batticaloa.
-
-The event was chaired by the President of the Batticaloa District Missing Relations Association, Mrs. A. Amalanayagi.
-
-A large number of police were mobilized and a large number of investigators were concentrated in front of the temple.
-
-The organizers who refused to take all the work to take all the things that the Batticaloa Regional Assistant Superintendent of Police should not perform the porridge.
-
-At this juncture, the police have tried to bring down the advice of the public health inspectors to follow the health procedure and to rescue the porridge.
-
-At this juncture, the public health inspector was asked to carry out health procedures and the health procedures were carried out.
-
-...
-
-[Data](articles/f5450c17.json)
-
-[Extended Data](ext_articles/f5450c17.ext.json)
-
----
-
-### Lightning strikes four cattle
-
-*2024-05-14 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lightning-strikes-four-cattle/108-282580) · `en`
-
-Three cows and a bull of a dairy farm were killed after being struck by lightning in the Galamuduna Estate during the thundershowers experienced in the Nawalapitiya area.
-
-The owner of the dairy farm said the four heads of cattle that died were valued at around Rs. 800,000.
-
-Residents of the area pointed out that a huge cavity had been caused on the ground by the lighting.
-
-◼️
-
-[Data](articles/de83390e.json)
-
-[Extended Data](ext_articles/de83390e.ext.json)
-
----
-
-### At 2024, 1500 leprosy patients know the right information about leprosy
-
-*2024-05-14 15:47:59* · [`adalk`](https://www.ada.lk/breaking_news/2024-ට-ලාදුරු-රෝගීන්-1500ක්--ලාදුරු-ගැන-හරි-තොරතුරු-දැනගන්න/11-409628) · `si`
-
-In 2024, the National Latistics Control Business and Eyes2prevent Campaign Treene (ADT2PRATE CAMPAIGN 2024) aims to educate 1500 leprosy patients about the disease through social media, addressing misconceptions and promoting mental well-being. This initiative is part of the National Latestal Movement (ACT2PRATE CAMPAIGN 2024), held at the Sri Lanka Foundation Institute. The campaign seeks to combat the slow spread of leprosy, reduce societal marginalization, and mitigate the disease's economic impact.
-
-🟩
-
-The inauguration program for the National Latistics Control Business and Eyes2prevent Campaign Treene (ADT2PRATE CAMPAIGN 2024) is the inauguration program of the National Latestal Movement (ACT2PRATE CAMPAIGN 2024). Health Secretary Palitha Maheepala (14)He was held at the Sri Lanka Foundation Institute.
-
-The main objective of this is the main objective of providing accurate data, information and knowledge of the disease through new methods through social media.It is also another is to create a good mental environment in reducing marginalizing the marginalizing society.
-
-A disease that is not slowly spreading to leprosy. The wrong papers of the disease and the sickness of the disease are still unsearchable today. Further, the disease is mentally delayed, and the patients' weaknesses are adversely affected the economy of the country.
-
-...
-
-[Data](articles/c7f6706c.json)
-
-[Extended Data](ext_articles/c7f6706c.ext.json)
-
----
-
-### Decision taken about lands given to war heroes
-
-*2024-05-14 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196616) · `si`
-
-The President has approved a proposal to amend the process for awarding lands to war heroes, addressing issues with the current methodology. The Cabinet, including the Lands Commissioner General, has endorsed this change, aiming to provide better relief to war heroes.
-
-🟩
-
-The President has approved the proposal by the President to amend the process that has arisen due to the issues that have arisen due to the issues that have arisen due to the proposal to the war heroes.
-
-Cabinet approval of the Cabinet of Lands Commissioner General for the disappearance of the Government and the Civil Defense Department, the Sri Lanka and Civil Defense Department (Civil Defense Department) to the war heroes of the Sri Lanka and Civil Defense Department while on active duty.Circular instructions have been issued from time to time.
-
-The decision has been taken with the observation that the relief of war heroes is not sufficient in the current approved methodology.
-
-◼️
-
-[Data](articles/585e233b.json)
-
-[Extended Data](ext_articles/585e233b.ext.json)
-
----
-
-### Sajith's question of gambling
-
-*2024-05-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183524) · `ta`
-
-Opposition leader Sajith Premadasa criticized the government for issuing liquor licenses near religious sites and questioned the transparency of the process, including the criteria for license issuance and tax payments by liquor companies. He also inquired about the increase or decrease in tax payments from 2022 to 2023 and the handling of tax arrears.
-
-🟩
-
-It is being bribed to MPs during the issue of liquor licensing. Brewery licenses are issued to make money to make money. Opposition leader Sajith Premadasa said that in the past, there was riots and disruption due to the opening of liquor stores without proper planning.
-
-Liquor shops are issued near religious places. This is a political gambling. The opposition leader also said that the government should explain this.
-
-The Leader of the Opposition has questioned the number of demands available to the sale of liquor sales from July 2022 to the present.
-
-According to these demands, the Opposition Leader questioned the details of the licensed issues, the criteria and the rejected of the issue, and who was involved in the liquor law politics.
-
-Are the liquor -licenses, the types of taxes and the taxes that the companies pay, and the liquor companies have paid the tax for 2023?Is it an increase or less compared to 2022?He also questioned.
-
-...
-
-[Data](articles/0402fc62.json)
-
-[Extended Data](ext_articles/0402fc62.ext.json)
-
----
-
-### The genocide in Palestine was also for Tamils in Sri Lanka: Sumanthiran is disgusting - Sumanthiran
-
-*2024-05-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183521) · `ta`
-
-Sumanthiran, a TNA parliamentarian, draws parallels between the plight of Tamils in Sri Lanka and Palestinians, highlighting the need for international intervention in both cases. He criticizes the dual standards applied when addressing human rights violations and genocides, questioning why the International Criminal Court's involvement in Palestine is considered an internal affair for Sri Lanka's actions against its own people.
-
-🟩
-
-Tamils in Sri Lanka were the genocide in Palestine.What did Sri Lanka do to the Tamils, who voice their voice to Palestine?This is the insidious character and the dual role of Sri Lanka. You are concerned about Palestine.Isn't that concern over our people?I hear that.
-
-Why is it that the International Criminal Court on the Palestinian issue and the need for international intervention is a matter of internal affairs when we speak of the unleashed actions on our people?TNA parliamentarian MA Sumanthiran questioned the House.
-
-He was speaking at a debate on the adjournment motion on the Palestinian Affairs Affairs in Parliament on Tuesday (14).
-
-Today's situation of Palestine is very serious and worried. No one should ignore this situation.
-
-They are talking about international crimes, including human rights, international human rights laws, and genocide. They are talking about the Palestinian situation, referring to the terrorist activities that have taken place within a country.
-
-...
-
-[Data](articles/7c81f764.json)
-
-[Extended Data](ext_articles/7c81f764.ext.json)
-
----
-
-### Opposition Leader accuses Susseuriya Ambulance Service
-
-*2024-05-14 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183522) · `ta`
-
-Opposition Leader Sajith Premadasa criticized the government's handling of the Superiya Ambulance Service, accusing it of neglect and pointing out that key staff have left the country. He argued against the renewal of ambulances and staff, suggesting it's a decline rather than an improvement.
-
-🟩
-
-Opposition Leader Sajith Premadasa told Parliament today (14)
-
-Opposition leader Sajith Premadasa added that drivers and emergency service officers who worked on Superiya Ambulance services have left the country.
-
-The Opposition Leader added that the government's focus on renewal of Ambulance and employees should not be awarded to the decline.
-
-◼️
-
-[Data](articles/611dd8eb.json)
-
-[Extended Data](ext_articles/611dd8eb.ext.json)
-
----
-
-### President consults the Prime Minister to investigate the cancellation of nomination for local government elections
-
-*2024-05-14 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183518) · `ta`
-
-President Ranil Wickremesinghe advised Prime Minister Dinesh Gunawardena to consult key parties on the cancellation of local government election nominations and the scheduling of provincial council elections within the next year. The President highlighted issues faced by state officials during their business and other measures, suggesting discussions with the Attorney General, Election Commissioner, and party leaders to address these problems and plan the provincial council election for the previous year, with the presidential election scheduled for this year.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has been advised by President Ranil Wickremesinghe on Monday (13) to consult with key parties on the cancellation of the nomination filed for the local government elections and the holding of the provincial council election within the next year.
-
-Cabinet Spokesperson Bandula Gunawardena said when a press conference was held on Tuesday to announce the weekly cabinet decisions.. He further stated in this regard,
-
-Most of the state officials who filed nominations to contest the local government elections.
-
-President Ranil Wickremesinghe made it clear to the Prime Minister that they are widely reported in Parliament and outside Parliament that they are facing some problems during their business and other measures.
-
-Therefore, the President said that the advocate of the Attorney General and the other parties should be addressed on the cancellation of the nomination.
-
-...
-
-[Data](articles/d59c7a13.json)
-
-[Extended Data](ext_articles/d59c7a13.ext.json)
-
----
-
-### Sri Lanka’s Pick Me powers JumJum mobike app in Nepal
-
-*2024-05-14 15:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-pick-me-powers-jumjum-mobike-app-in-nepal-162992/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based ride-sharing company PickMe said it is tying up with Nepal’s FISoft, a fintech company to start a ride sharing app for motorcycles.
-
-The app called JumJum (Let’s Go) will initially launch in Kathmandu, where 40 percent of the 2.5 million motorcycles are said to be used.
-
-“This strategic partnership is the culmination of a long search in South Asia to take our services to another country in the region,” PickMe’s Chief Executive Zulfer Jiffry said in a statement.
-
-“We have done it in a manner that adds value to the Nepali economy, by engaging with an acclaimed Nepalese tech company.”
-
-Motorcycles are in wide use in Nepal accounting for 78 percent of 3.22 million vehicles registered in the country.
-
-“In heralding the arrival of JumJum in Nepal, we witness the  convergence of two technological powerhouses: PickMe from Sri Lanka and F1Soft from Nepal,” Biswas Dhakal, President and Chairperson of F1Soft Group said.
-
-...
-
-[Data](articles/58aae0e5.json)
-
-[Extended Data](ext_articles/58aae0e5.ext.json)
-
----
-
-### Fourteen killed and dozens injured after Mumbai billboard collapse
-
-*2024-05-14 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Fourteen-killed-and-dozens-injured-after-Mumbai-billboard-collapse/107-282579) · `en`
-
-India, May 1 (BBC) - At least 14 people have been killed and dozens more injured after a giant billboard collapsed during a sudden storm in the Indian city of Mumbai.
-
-The billboard, measuring 70m by 50m according to the police, fell onto houses and a petrol station in the city on Monday.
-
-Emergency services say a few people are still trapped under it and a rescue operation is under way.
-
-The government of Maharashtra state, where Mumbai is located, has ordered an inquiry into the incident.
-
-Footage on local news channels shows the huge billboard swaying in the wind before giving way and crashing into the buildings near a busy road in the city's eastern suburb of Ghatkopar. Several vehicles were crushed in the accident.
-
-In photos from the scene, emergency teams can be seen working through the wreckage. Dramatic video footage shows rescue workers pulling out a victim from under the fallen billboard and using power tools to cut the metal.
-
-...
-
-[Data](articles/6b5bcacc.json)
-
-[Extended Data](ext_articles/6b5bcacc.ext.json)
 
 ---

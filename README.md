@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 05:36:05**
+As of **2024-05-15 05:58:37**
 
 ## Newspaper Stats
 
-*Scraped **24,075** Articles*
+*Scraped **24,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 218
 bbccomsinhala | 245
 dbsjeyarajcom | 247
 newsfirstlk | 363
-islandlk | 1,299
+islandlk | 1,302
 economynextcom | 1,377
 dailyftlk | 1,390
 adalk | 2,057
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,074 (100.0%) of 24,075 articles have been extended.
+24,075 (100.0%) of 24,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,21 +132,27 @@ In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 run
 
 ---
 
-### ’சுவசெரியவை நிறுத்தாதீர்கள்’
+### Do not stop the telephone.
 
 *2024-05-15 00:43:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவசெரியவை-நிறுத்தாதீர்கள்/175-337316) · `ta`
 
-சுவசெரிய அம்பியூலன்ஸ் சேவைத் திட்டத்தை இடைநிறுத்த இடமளிக்க வேண்டாம் என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச வலியுறுத்தினார்.
+Sajith Premadasa urges suspension of Sri Lanka's Swaseriya Ambulance Service due to staff leaving, citing government neglect.
 
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (14) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே இவ்வாறு வலியுறுத்தினார்.
+🟩
 
-கலாநிதி ஹர்ஷ டி சில்வாவின் எண்ணக்கருவாக ஆரம்பிக்கப்பட்ட சுவசெரிய அம்பியூலன்ஸ் சேவையின் 322 அம்பியூலன்ஸ் வண்டிகளில் 56 வண்டிகள் செயலிழந்துள்ளன. அவற்றில் பணிபுரிந்த சாரதிகளும் அவசர சேவை உத்தியோகத்தர்களும் நாட்டை விட்டு வெளியேறியுள்ளனர்.
+Opposition Leader Sajith Premadasa has urged the Swaseriya Ambulance Service to be suspended.
 
-அம்பியூலன்ஸைப் புதுப்பித்தல், ஊழியர்களை சேவையில் ஈடுபடுத்தல் போன்றவற்றில் அரசாங்கத்தின் கவனம் குறைந்துள்ளமையினால், இது தொடர்பில் அவதானம் செலுத்துங்கள்.  சுவசெரிய அம்பியூலன்ஸ் சேவைத் திட்டத்தை இடைநிறுத்த இடமளித்து விடாதீர்கள் என்றார்.
+He emphasized this while addressing a special claim in Parliament on Tuesday (14).
+
+56 of the 322 Ambulance of the Superiya Ambulance Service, which started as the concept of Dr. Harsha de Silva. Drivers and emergency officers who worked on them have left the country.
+
+Consider this as the government has diminished the focus of the Ambuulans and the service of employees.He said, "Do not allow the Swaseriya Ambulance Service to be suspended."
 
 ◼️
 
 [Data](articles/fe80dd52.json)
+
+[Extended Data](ext_articles/fe80dd52.ext.json)
 
 ---
 
@@ -631,6 +637,34 @@ Mount Lavinia Special Investigation Unit and the Dehiwala Police were arrested a
 [Data](articles/4027e2e3.json)
 
 [Extended Data](ext_articles/4027e2e3.ext.json)
+
+---
+
+### Ransomware payments increase 500% in last year: Sophos
+
+*2024-05-14 21:05:00* · [`islandlk`](http://island.lk/ransomware-payments-increase-500-in-last-year-sophos/) · `en`
+
+Sophos, a global leader of innovative security solutions that defeat cyberattacks, today released its annual “State of Ransomware 2024” survey report, which found that the average ransom payment has increased 500% in the last year. Organizations that paid the ransom reported an average payment of $2 million, up from $400,000 in 2023. However, ransoms are just one part of the cost. Excluding ransoms, the survey found the average cost of recovery reached $2.73 million, an increase of almost $1 million since the $1.82 million that Sophos reported in 2023.
+
+Despite the soaring ransoms, this year’s survey indicates a slight reduction in the rate of ransomware attacks with 59% of organizations being hit, compared with 66% in 2023. While the propensity to be hit by ransomware increases with revenue, even the smallest organizations (less than $10 million in revenue) are still regularly targeted, with just under half (47%) hit by ransomware in the last year.
+
+...
+
+[Data](articles/47db846c.json)
+
+---
+
+### Election ambiguity and vagueness weighs on stock trading
+
+*2024-05-14 21:02:00* · [`islandlk`](http://island.lk/election-ambiguity-and-vagueness-weighs-on-stock-trading/) · `en`
+
+The trading activities on the Colombo Stock Exchange (CSE) commenced at a slow pace and showed a shaky and volatile movement. Thus the indices declined to 160 points at the end of the trading day. Nevertheless, during mid-day, stock trading gained some momentum as assumptions were circulating about more political stability being created through a quicker parliamentary election preceding the presidential election.
+
+Amid those developments both indices moved downwards. All Share Price Index down by 140 points while S and P SL20 down by 41.6 points. Turnover stood at Rs 3.33 billion with six crossings.
+
+...
+
+[Data](articles/6ad83142.json)
 
 ---
 
@@ -2337,45 +2371,5 @@ In photos from the scene, emergency teams can be seen working through the wrecka
 [Data](articles/6b5bcacc.json)
 
 [Extended Data](ext_articles/6b5bcacc.ext.json)
-
----
-
-### At least 14 killed after billboard collapses in Mumbai during thunderstorm
-
-*2024-05-14 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99213/at-least-14-killed-after-billboard-collapses-in-mumbai-during-thunderstorm) · `en`
-
-At least 14 people died and 75 others were injured after a billboard bigger than an Olympic swimming pool fell on them during a thunderstorm in India’s financial capital Mumbai, authorities said on Tuesday, with dozens still feared trapped.
-
-Videos showed the towering hoarding billowing in the wind before collapsing on houses and a fuel station next to a busy road in the eastern suburb of Ghatkopar on Monday as a dust storm and rain lashed the city in the evening, bringing traffic to a standstill and disrupting flights at Mumbai airport.
-
-Mumbai’s municipal corporation (BMC) said at least 75 injured people were taken to hospitals following the accident and 31 have been discharged.
-
-...
-
-[Data](articles/ce192144.json)
-
-[Extended Data](ext_articles/ce192144.ext.json)
-
----
-
-### Deduction
-
-*2024-05-14 15:22:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டிலுக்கு-தவழ்ந்த-கான்ஸ்டபிள்-நீக்கம்/175-337300) · `ta`
-
-A female police station in Colombo is suspended for allegedly attempting to rape a female officer. The STF's Senior Deputy Inspector General Varuna Jayasundara issued the directive, also suspending a constable involved in criminal activity.
-
-🟩
-
-A female police station belonging to the Special Task Force (STF) has been suspended for allegedly attempting to rape a female police officer at the coastal police station in Colombo.
-
-Senior Deputy Inspector General of Police Varuna Jayasundara has issued the directive.
-
-The connected constable has been suspended in the Mankulam Camp, in the Colombo and Coastal Police Division, to carry out a criminal activity.
-
-◼️
-
-[Data](articles/032d84a9.json)
-
-[Extended Data](ext_articles/032d84a9.ext.json)
 
 ---

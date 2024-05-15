@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 22:18:29**
+As of **2024-05-15 22:33:48**
 
 ## Newspaper Stats
 
-*Scraped **24,285** Articles*
+*Scraped **24,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 2,819
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
-adaderanasinhalalk | 3,876
+adaderanasinhalalk | 3,877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,285 (100.0%) of 24,285 articles have been extended.
+24,285 (100.0%) of 24,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### සාමාන්‍ය පෙළ ලියා ගෙදර යද්දී පැහැරගත් සිසුවිය බේරූ ක්ෂණික මෙහෙයුම
+
+*2024-05-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196658) · `si`
+
+සාමාන්‍ය පෙළ විභාගයට පෙනී සිට නිවස බලා යමින් සිටි 16 හැවිරිදි පාසල් සිසුවියක් පැහැරගැනීමට උත්සාහ කළ සිද්ධියක් සම්බන්ධයෙන් සැකපිට තරුණයින් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පැහැරගැනීම සම්බන්ධයෙන් ත්‍රිරෝද රථ රියදුරෙකු ක්ෂණිකව 119 පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව වහාම ක්‍රියාත්මක වූ අලදෙණිය පොලීසිය වෑන් රථය සහ එම පිරිස පැයක් තුළ අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය පවසන්නේ එම සැකකරුවන් සිව්දෙනා අතර සිටින එක් අයෙකු මෙම තරුණිය සමග ප්‍රේම සම්බන්ධතාවයක් පවත්වා ඇති බවත් ඔහු විවාහකයෙකු බවත්ය.
+
+අවිස්සාවේල්ල ප්‍රදේශයේ පදිංචිකරුවෙකු වන හිටපු හමුදා සෙබළෙකු වන එම සැකකරු සිය මිතුරන් සමග වෑන් රථයක් කුලියට ගෙන මෙම පාසල් සිසුවිය පැහැරගැනීම සඳහා පැමිණ තිබේ.
+
+පොළොන්නරුව ප්‍රදේශයේ පදිංචි හමුදා සෙබළෙකු වන මෙම පාසල් සිසුවියගේ සොහොයුරෙකුගේ නිවසට සැකකාර තරුණයා අවස්ථා කිහිපයකදී පැමිණීමෙන් අනතුරුව මෙම ප්‍රේම සම්බන්ධතාවය ඇතිවී තිබේ.
+
+සැකකරු විවාහක අයෙකු බවට අනාවරණය වීමත් සමග මෙම සිසුවිය ඔහුව අතහැර ඇති අතර සැකකරුගෙන් එල්ලවන බලපෑම් හේතුවෙන් සිසුවියගේ මව්පියන් ඇයව මෙලෙස කුළුගම්මන ප්‍රදේශයේ නිවසක නතරකර ඇත.
+
+...
+
+[Data](articles/781dcf05.json)
+
+---
 
 ### The story of our Eranda who warned Ukraine to save his wife
 
@@ -344,7 +366,7 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS
 
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
@@ -2337,27 +2359,5 @@ Subsequently, the protestors submitted a memorandum to the President’s Additio
 [Data](articles/84b2dd06.json)
 
 [Extended Data](ext_articles/84b2dd06.ext.json)
-
----
-
-### Over 10,000 visitors witness 188 base jumps from Lotus Tower
-
-*2024-05-15 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-10-000-visitors-witness-188-base-jumps-from-Lotus-Tower/108-282645) · `en`
-
-Colombo, May 15 (Daily Mirror) - More than 10,000 local and foreign visitors witnessed a total of 188 base jump events held during the last three days at the Lotus Tower.
-
-The Lotus Tower Management Company (Private) Limited said two sets of fathers and daughters from the USA and Japan participated while highlighting the base jump event.
-
-They said a 35 international Base Jumpers exhibited their adrenaline-fueled skills.
-
-The jumpers were brought into the country by the Team Ill Vision who represents the Professional Stunt Skydivers and BASE Jumpers.
-
-The Base Jump event was held on May 12, 13 and 14 at the Lotus Tower.
-
-◼️
-
-[Data](articles/17eb8901.json)
-
-[Extended Data](ext_articles/17eb8901.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 16:33:51**
+As of **2024-05-15 17:04:09**
 
 ## Newspaper Stats
 
-*Scraped **24,223** Articles*
+*Scraped **24,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,067
-adaderanalk | 2,811
-tamilmirrorlk | 2,848
+adaderanalk | 2,814
+tamilmirrorlk | 2,849
 virakesarilk | 3,639
-dailymirrorlk | 3,807
-adaderanasinhalalk | 3,869
+dailymirrorlk | 3,809
+adaderanasinhalalk | 3,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,223 (100.0%) of 24,223 articles have been extended.
+24,230 (100.0%) of 24,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### T20I all-rounder rankings: Wanindu and Shakib tied at the top
+
+*2024-05-15 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99236/t20i-all-rounder-rankings-wanindu-and-shakib-tied-at-the-top) · `en`
+
+Two stars of the game are tied at the top of the T20I all-rounder rankings with a little more than a fortnight until the commencement of the T20 World Cup.
+
+The race to be the No.1 ranked all-rounder at the start of the ICC Men’s T20 World Cup has further intensified as two players share top billing following the latest update to the ICC Men’s T20 Player Rankings.
+
+Just 23 rating points separate the top five players on the updated list for T20I all-rounders, with Bangladesh veteran Shakib Al Hasan joined by Sri Lanka captain Wanindu Hasaranga in the top spot with just over a fortnight to the start of the T20 World Cup.
+
+Shakib drops three rating points following two appearances at the backend of Bangladesh’s recent five-match T20I series against Zimbabwe, with Hasaranga joining the veteran in a share of the top spot and Afghanistan’s Mohammad Nabi just a further 10 rating point adrift.
+
+...
+
+[Data](articles/8e4b5dac.json)
+
+[Extended Data](ext_articles/8e4b5dac.ext.json)
+
+---
+
+### Faninu is an unexpected place in the ICC
+
+*2024-05-15 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196651) · `si`
+
+In the ICC Sri Lanka T20 tournament, Faninu emerged unexpectedly, while Shakib Al Hasan from Bangladesh secured the top spot.
+
+🟩
+
+Sri Lanka T20 of Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty-Twenty-Twenty-three-year-old ratings have been identified.
+
+Accordingly, the other player who is the first place is the Bangladesh player Shakib al Hassan.
+
+◼️
+
+[Data](articles/927e5902.json)
+
+[Extended Data](ext_articles/927e5902.ext.json)
+
+---
+
+### Shakib and Hasaranga share top spot in T20 all-rounder rankings
+
+*2024-05-15 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-and-Hasaranga-share-top-spot-in-T20-all-rounder-rankings/108-282654) · `en`
+
+(ICC) - Two stars of the game are tied at the top of the T20I all-rounder rankings with a little more than a fortnight until the commencement of the T20 World Cup.
+
+The race to be the No.1 ranked all-rounder at the start of the ICC Men's T20 World Cup has further intensified as two players share top billing following the latest update to the ICC Men's T20 Player Rankings.
+
+Just 23 rating points separate the top five players on the updated list for T20I all-rounders, with Bangladesh veteran Shakib Al Hasan joined by Sri Lanka captain Wanindu Hasaranga in the top spot with just over a fortnight to the start of the T20 World Cup.
+
+Shakib drops three rating points following two appearances at the backend of Bangladesh's recent five-match T20I series against Zimbabwe, with Hasaranga joining the veteran in a share of the top spot and Afghanistan's Mohammad Nabi just a further 10 rating point adrift.
+
+...
+
+[Data](articles/0f9c14d5.json)
+
+[Extended Data](ext_articles/0f9c14d5.ext.json)
+
+---
+
+### Decision taken to award free marks for Science paper in question
+
+*2024-05-15 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Decision-taken-to-award-free-marks-for-Science-paper-in-question/108-282655) · `en`
+
+Colombo, May 15 (Daily Mirror) - In response to complaints received regarding questions 09 and 39 of the GCE (O/L) Science Paper 1, the Examinations Commissioner General has announced a decision to award two free marks to all candidates who attempted these questions.
+
+This decision comes after careful consideration of the concerns raised by students and educators alike regarding the clarity and fairness of these particular questions.
+
+◼️
+
+[Data](articles/18d429d9.json)
+
+[Extended Data](ext_articles/18d429d9.ext.json)
+
+---
+
+### France prison van attack: ‘Unprecedented’ manhunt for escaped prisoner
+
+*2024-05-15 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99235/france-prison-van-attack-unprecedented-manhunt-for-escaped-prisoner) · `en`
+
+An “unprecedented” manhunt is taking place in northern France for a prisoner who escaped during a deadly ambush.
+
+Mohamed Amra, known as “The Fly”, was being taken back to jail from a court in Normandy on Tuesday when a car rammed his prison van at a toll booth.
+
+Armed men then opened fire on the vehicle, killing two officers and seriously injuring three others.
+
+“All means are being used to find these criminals,” French Interior Minister Gerald Darmanin said.
+
+Mr Darmanin told French media on Wednesday the attack was an act of “cold-blooded barbarity” and that around 450 gendarmes and police officers had been mobilised in the Eure department of Normandy in an “unprecedented” search.
+
+President Emmanuel Macron has told France that “everything is being done to find the perpetrators”.
+
+Meanwhile, French prison officer unions have called for walkouts at institutions across the country on Wednesday in support of the two who died.
+
+...
+
+[Data](articles/480ba1a9.json)
+
+[Extended Data](ext_articles/480ba1a9.ext.json)
+
+---
 
 ### Two free marks for children who write ordinary
 
@@ -49,6 +151,40 @@ The Commissioner General of Examinations said that the two free marks for the is
 [Data](articles/9cc9fc28.json)
 
 [Extended Data](ext_articles/9cc9fc28.ext.json)
+
+---
+
+### Two ‘free marks’ for O/L exam’s science paper 1 – Exams Chief
+
+*2024-05-15 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99234/two-free-marks-for-ol-exams-science-paper-1-exams-chief) · `en`
+
+The Commissioner General of Examinations says that a decision has been taken to award one free mark each for questions No. 09 and 39 of the 2023 G.C.E. Ordinary Level examination’s Science Paper 01, following the complaints received.
+
+◼️
+
+[Data](articles/5f55a8b3.json)
+
+[Extended Data](ext_articles/5f55a8b3.ext.json)
+
+---
+
+### To build new political culture
+
+*2024-05-15 15:29:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கலாசாரத்தை-கட்டியெழுப்ப-வேண்டும்/175-337365) · `ta`
+
+President Wickremesinghe emphasizes the need for a new political culture, criticizing accusations of government protection for thieves while highlighting efforts to enact new laws against corruption.
+
+🟩
+
+President Ranil Wickremesinghe has pointed out that the government has introduced many new laws to capture the thieves, even though some have accused the government of protecting thieves.
+
+He said at a function on Wednesday (15) that the Teldeniya new court building should be abandoned and the new political culture should be abandoned and the new political culture should be built.
+
+◼️
+
+[Data](articles/4df575f5.json)
+
+[Extended Data](ext_articles/4df575f5.ext.json)
 
 ---
 
@@ -2209,151 +2345,5 @@ The deceased commemoration in Vellamullivaikal and the orders of the court banne
 [Data](articles/02d0f073.json)
 
 [Extended Data](ext_articles/02d0f073.ext.json)
-
----
-
-### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
-
-*2024-05-15 07:36:25* · [`dailyftlk`](https://www.ft.lk/business/KSPA-raises-benchmark-for-industry-sustainability-with-Carbon-Neutrality-Certification/34-761830) · `en`
-
-From left:  Anunine Holdings Sustainability Analyst Sithara Sewwandi, KSPA Packaging/KSPA Accessories CEO Nalin Anthony, Sri Lanka Climate Fund (SLCF) Chairman and  Environment Ministry Secretary  Prabhath Chandrakirthi, Anunine Holdings Group Director Sonali Abeyratne and Group Director  Saveen Abeyratne
-
-KSPA Packaging, an Anunine Holdings company, the nation’s leading export packaging provider and manufacturer, has achieved a significant milestone recently, by being awarded the Carbon Neutral Certification, which was certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka.
-
-"Our journey towards carbon neutrality and sustainability is a testament to our unwavering commitment to environmental stewardship and innovation, as leaders in the packaging industry.
-
-We recognize the importance of minimizing our environmental impact and are dedicated to driving positive change,” stated Anunine Holdings Chairman Deshamanya Anurath Abeyratne.
-
-...
-
-[Data](articles/ec833284.json)
-
-[Extended Data](ext_articles/ec833284.ext.json)
-
----
-
-### Showers expected to continue further
-
-*2024-05-15 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-expected-to-continue-further/108-282621) · `en`
-
-Colombo, May 15 (Daily Mirror) - Due to the low-level atmospheric disturbance in the country heavy showers about 100mm are likely in the Western, Central, Sabaragamuwa and Uva Provinces after 1.00 p.m, the forecasting division of the National Meteorological Centre said.
-
-They said the showery condition is expected to continue further.
-
-Meanwhile, showers may occur in the Western and Southern coastal areas during the morning.
-
-◼️
-
-[Data](articles/d1f5db8a.json)
-
-[Extended Data](ext_articles/d1f5db8a.ext.json)
-
----
-
-### University non-academic workers decide to intensify trade union action
-
-*2024-05-15 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196635) · `si`
-
-Non-academic staff at a university plan to escalate trade union actions due to delayed responses to their demands. They threaten to halt essential services like water, electricity, and internet, blaming the government for neglecting the university system. The Chairman of the University Grants Commission urges focusing on students' education amidst these tensions.
-
-🟩
-
-University Trade Union Joint Committee states that he decided to deturn further its demands due to delaying their demands.
-
-Dhammika Priyantha says that the unanimous decision has been entered into all voluntary services in the universities.
-
-"We completely stop providing water and electricity supply. Also, the provision of Internet facilities. The university system will stop with this crash. Also, government authorities should be fully responsible for the destruction of laboratory samples in the university system. This is because of this government's behavior to the university system. If you miss the administration, we also think of sensitive activities of the university. "
-
-The Chairman of the University Grants Commission Sampath Amaratunga said that he is requested to pay attention to the education of children.
-
-Meanwhile, administrative GSPs are due to join the trade union action to report the Grama Niladhari program based on several demands including a service minister.
-
-◼️
-
-[Data](articles/8ad950cc.json)
-
-[Extended Data](ext_articles/8ad950cc.ext.json)
-
----
-
-### It is revealed that the law contradicts eight vaccines
-
-*2024-05-15 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196634) · `si`
-
-Human rights activists demand the National Drug Regulatory Authority terminate the registration of eight vaccines due to concerns over safety standards. The authority had previously approved these vaccines for use after a shorter than usual six-month review period. This decision is now under scrutiny, with legal proceedings highlighting discrepancies in the regulatory process.
-
-🟩
-
-The National Drug Regulatory Authority was emphasized yesterday (14) that the decision of the National Drug Regulatory Authority was completely contrary to the registrations of an anesthesia.
-
-Two human rights activists, two human rights activists demanding a termination order to register the National Drug Regulatory Authority to register with 8 months of vaccines. N. Warnakulasuriya and Dayshanan. P. Attorney-at-Law Niladhari Sirimanna, who appeared on the petitioner party, stressed the petition filed by Buddhira's petition.
-
-The trial was held in the courtship of the Court of Appeal Nissanka Bandula Karunaratne and Shahi Mahendran, Chairman of the Court of Appeal.
-
-The lawyer of the petitioner before the courts, the National Drug Regulatory Authority stated that it should be subject to six months before a six-month monitoring before it is released to the market.
-
-...
-
-[Data](articles/d81d5afc.json)
-
-[Extended Data](ext_articles/d81d5afc.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-05-15 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196633) · `si`
-
-Sri Lanka experiences heavy rainfall across the island, especially in the Western, Central, Sabaragamuwa, and Uva provinces. The Met Department warns of possible showers and advises caution against wind and lightning risks during storms.
-
-🟩
-
-The rainy industry continues due to the turmoil that is near Sri Lanka near the lowest atmosphere.
-
-In most parts of the island. The Met Department announced that showers can occur at several places about 1.00.
-
-Some locations in the Western, Central, Sabaragamuwa and Uva provinces. Heavy showers can occur around 100.
-
-Showers will occur at the Western and southern coastal areas.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/33885fcf.json)
-
-[Extended Data](ext_articles/33885fcf.ext.json)
-
----
-
-### Chinese switches and sockets brand SIASE enters Sri Lankan market with SLS certification
-
-*2024-05-15 06:09:39* · [`dailyftlk`](https://www.ft.lk/business/Chinese-switches-and-sockets-brand-SIASE-enters-Sri-Lankan-market-with-SLS-certification/34-761820) · `en`
-
-Overseas Realty (Ceylon) Group CEO/Director Pravir Samarasinghe (left) receives the SLS certification from Sri Lanka Standards Institution Director General/ CEO Dr. Siddhika G. Senaratne, others from left: Overseas Realty Trading Assistant Manager Business Development Induwara Wijewardhana, Business Unit Head Lighting and Control Asitha Wijekoon, Chief Operating Officer Dhanushka Perera, SLSI Deputy Director General M.B.D. Neelakanthi, Director Product Certification B.S.P. Perera and Senior Deputy Director- Engineering Eng. P.R.S.C. Perera
-
-SIASE the leading Chinese brand for switches and switched socket outlets commenced operations in Sri Lanka through its exclusive distributor Overseas Realty Trading Ltd.
-
-SIASE has obtained Sri Lanka Standards Institution certification SLS 1000: Part1: 2021 for SIASE Brand switches and SLS734: Part2:2017 for SIASE brand switched socket outlets.
-
-...
-
-[Data](articles/55e58e5e.json)
-
-[Extended Data](ext_articles/55e58e5e.ext.json)
-
----
-
-### New Envoy to Beijing meets Chinese companies in Sri lanka
-
-*2024-05-15 06:08:15* · [`dailyftlk`](https://www.ft.lk/business/New-Envoy-to-Beijing-meets-Chinese-companies-in-Sri-lanka/34-761819) · `en`
-
-Sri Lankan Ambassador Designate to China Majintha Jayesinghe met with the CEOs of leading Chinese companies in Sri Lanka prior to his departure this week to Beijing. The meeting was organised by the Board of Investment of Sri Lanka. Chinese Ambassador to Sri Lanka Qi Zhenhong, Transport and Highways Minister Bandula Gunawardana, BOI Chairman Dinesh Weerakkody, Secretary to the Prime Minister Anura Dissanayake also participated at the event.
-
-◼️
-
-[Data](articles/126efcaa.json)
-
-[Extended Data](ext_articles/126efcaa.ext.json)
 
 ---

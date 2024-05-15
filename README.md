@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 14:04:34**
+As of **2024-05-15 14:18:35**
 
 ## Newspaper Stats
 
-*Scraped **24,209** Articles*
+*Scraped **24,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,065
-adaderanalk | 2,807
+adaderanalk | 2,808
 tamilmirrorlk | 2,847
 virakesarilk | 3,635
 dailymirrorlk | 3,807
@@ -26,49 +26,79 @@ adaderanasinhalalk | 3,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,199 (100.0%) of 24,209 articles have been extended.
+24,209 (100.0%) of 24,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### හිරෙන් පැන්න FLY
+### Fly from jail fly
 
 *2024-05-15 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196647) · `si`
 
-ප්‍රංශයේ පොලිස් ග්‍රහණයෙන් පළාගිය මොහොමඩ් අම්රි නම් සිරකරුවෙකු සොයා එරට උතුරුදිග නෝමැන්ඩි කලාපයේ දැවැන්ත මෙහෙයුමක් ආරම්භ වී තිබේ.
+In a major operation, a drug dealer named "The Flei" escaped from a French prison with the help of accomplices. After being recaptured, an armored gang stormed the prison, freeing him again along with other prisoners and officials. The escapee, Mohammed Amrey, faces charges of drug trafficking and abduction. A large force searched for him, locating two vehicles possibly used by criminals.
 
-"ද ෆ්ලයි" නම් අන්වර්ථ නාමයෙන් හඳුන්වන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන මෙම සිරකරු පළා ගොස් තිබුණේ, තවත් පිරිසකගේ සහායෙනි.
+🟩
 
-ඒ නඩු විමසුමකින් පසුව ආපසු බන්ධනාගාරය වෙත රැගෙන එමින් සිටියදී ය.
+A huge operation in the north of the North has launched a prisoner in the French police clutter.
 
-බන්ධනාගාර රථ පෙළ අධිවේගී පිවිසුමකින් පිටතට පැමිණෙමින් තිබියදී එය අවහිර කළ මෝටර් රථයක පැමිණි සන්නද්ධ කල්ලියක් එම රථවලට සහ බන්ධනාගාර නිලධාරීන්ට වෙඩිතබා සිරකරු ද සමග පළාගොස් තිබුණි.
+The prisoner, a drug dealer called "The Flei", this prisoner was fled by the help of another.
 
-මොහොමඩ් අම්රිට මත්ද්‍රව්‍ය ජාවාරම සහ පැහැරගැනීමක් සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති අතර මීට පෙරද ඔහු බන්ධනාගාරයෙන් පළායාමට උත්සාහ කළ අයෙකි.
+While he was taken back to the prison after that proceedings.
 
-මොහොමඩ් අම්රි සෙවීමේ මෙහෙයුම් සඳහා නිලධාරීන් 200ක් පමණ යොදවා ඇති අතර අපරාධකරුවන් භාවිත කළ බවට සැකකෙරෙන මෝටර් රථ දෙකක් සොයා ගැනීමට ඔවුන් සමත්ව තිබුණි.
+When the prison text was coming out of a high-speed entrance, an armored gang had fled with the vehicles and prison officials who had been blocked.
+
+Mohammed Amrey has been accused of drug trafficking and abduction and has been trying to flee from the prison.
+
+About 200 officers were deployed for Mohammed Ami search operations and they were able to find two cars suspected to use criminals.
 
 ◼️
 
 [Data](articles/5a56429d.json)
 
+[Extended Data](ext_articles/5a56429d.ext.json)
+
 ---
 
-### 4 வயது மகளுக்கு சிறுநீரக பாதிப்பென பொய் கூறி யாழில் யாசகம் பெற்ற காத்தான்குடி வாசிக்கு விளக்கமறியல்
+### Court order issued against trade union protest in Colombo
+
+*2024-05-15 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99231/court-order-issued-against-trade-union-protest-in-colombo) · `en`
+
+The Maligakanda Magistrate’s Court has issued an order on several trade union leaders of the Janatha Vimukthi Peramuna (JVP) and others over a protest march planned in Colombo this evening (15).
+
+Accordingly, the court order prevents K.D. Lal Kantha, Mahinda Jayasinghe, Ranjan Jayalal and other protestors from inconveniencing public or pedestrians along several major roads in Colombo including Dean’s Road, T.B. Jayah Mawatha, Technical Junction, Ibbanwala Junction, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/244f77d9.json)
+
+---
+
+### 4 -year -old daughter is a kidney damage to Kattankudy Vasi in Jaffna
 
 *2024-05-15 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183598) · `ta`
 
-காத்தான்குடி பகுதியில் இருந்து யாழ்ப்பாணம் வந்து , தனது மகளுக்கு சிறுநீரக சிகிச்சைக்கு பணம் வேண்டும்  என பொய் கூறி  யாசகம் பெற்ற தந்தை கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+In Jaffna, a 4-year-old girl from Kattankudi, named Yasakam, was falsely accused of needing kidney transplants due to alleged lies by her father. The father was arrested after the girl was found healthy during a medical exam at Jaffna Bodhana Hospital. The case is under investigation, with the father claiming the girl as his own.
 
-யாழ்ப்பாணம் , கல்வியங்காடு சந்தை பகுதியில் 4 வயது சிறுமியை சக்கர நாற்காலியில் இருத்தி , சிறுமியின் இரு சிறுநீரகங்களுக்கு பழுதடைந்துள்ளதாகவும் , அதற்கான சிகிச்சைக்கு பண உதவி செய்யுமாறு கோரி ஒருவர் யாசகம் பெற்றுள்ளார்.
+🟩
 
-யாழில் நிலவும் கடுமையான வெப்பமான காலநிலையில் , வெயிலுக்குள் சிறுமியை சக்கர நாற்காலியில் இருத்தி வைத்து ஒருவர் யாசகம் பெறுவதாக கோப்பாய் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் , சம்பவ இடத்திற்கு சென்ற பொலிஸார் சிறுமியை மீட்டு யாழ்.போதனா வைத்தியசாலையில் அனுமதித்ததுடன் , யாசகம் பெற்ற நபரையும் கைது செய்தனர்.
+The father of Yasakam, who had come to Jaffna from Kattankudi area, has been arrested and detained for allegedly lying to his daughter for kidney treatment.
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிறுமிக்கு மேற்கொள்ளப்பட்ட வைத்திய பரிசோதனையில் சிறுமிக்கு எவ்விதமான உடல்நல குறைபாடுகளும் இல்லை. சிறுமி ஆரோக்கியமாகவுள்ளார் என தெரியவந்துள்ளது.
+A 4 -year -old girl in the Kaliyangadu market in Jaffna has been left with a wheelchair and has been demanding a money -laundering of the girl's two kidneys.
 
-...
+Based on the confidential information received by the Kopay police, the girl was rescued and admitted to the Jaffna Bodhana Hospital and arrested the recipient of the person who had been kept in a wheelchair in the heat of Jaffna.
+
+The medical examination for the girl admitted to the hospital has no health disorders. It has been revealed that the girl is healthy.
+
+While the police are conducting investigations to the arrested person, she said that he belonged to Kattankudi area and the girl was her daughter.
+
+Following the sought to see the father in court, the father has been ordered to allow the girl to be interrogated.
+
+◼️
 
 [Data](articles/c1331568.json)
+
+[Extended Data](ext_articles/c1331568.ext.json)
 
 ---
 
@@ -102,6 +132,8 @@ Students rushing out of the examination hall with smiles, as they eagerly share 
 
 [Data](articles/fc7c7332.json)
 
+[Extended Data](ext_articles/fc7c7332.ext.json)
+
 ---
 
 ### Indian Supreme Court trains Sri Lankan Supreme Court officials
@@ -120,17 +152,25 @@ This initiative is a testament to the strong bilateral relationship and mutual c
 
 [Data](articles/61aad57b.json)
 
+[Extended Data](ext_articles/61aad57b.ext.json)
+
 ---
 
-### අධිකරණ ඇමතිට එරෙහි වාරණය දිගු කරයි
+### Censorship extends against court Minister
 
 *2024-05-15 13:18:06* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිට-එරෙහි-වාරණය-දිගු-කරයි/11-409645) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන  සභාපති වශයෙන් පත්කළ අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතට එම ධුරයේ කටයුතු කිරිම වලක්වමින් කොළඹ දිසා අධිකරණය නිකුත් කර ඇති වාරණ නියෝගය යළිත් ලබන 27 දා තෙක් දිර්ඝ කිරිමට එම අධිකරණය අද නියෝග කළේය.
+Court orders release of Minister Wijayadasa Rajapakse, previously held by SLFP's acting chairman.
+
+🟩
+
+The Court today ordered the Minister Wijayadasa Rajapakse, who was released by the SLFP's acting chairman.
 
 ◼️
 
 [Data](articles/ea80a7ce.json)
+
+[Extended Data](ext_articles/ea80a7ce.ext.json)
 
 ---
 
@@ -156,21 +196,27 @@ The President said that at the opening of the new Court Complex at Teldeniya thi
 
 ---
 
-### நீதி மன்றுக்கு எழுத்து மூலம் வழங்கிய உறுதிமொழியை நிறைவேற்றாத கரைச்சி பிரதேச சபை - தகவல் அறியும் உரிமைச் சட்டத்தின் மூலம் வெளிவந்த தகவல்
+### Karachi Pradeshiya Sabha - Information Act
 
 *2024-05-15 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183599) · `ta`
 
-கிளிநொச்சி நீதவான் நீதி மன்றுக்கு 2020 ஆம் ஆண்டு கரைச்சி பிரதேச சபையால் சட்டவிரோத கடைகளை அகற்றுவது தொடர்பில் எழுத்து மூலம் வழங்கப்பட்ட உறுதிமொழி இன்றுவரை நிறைவேற்றப்படவில்லை என்பது தகவல் அறியும் உரிமைச் சட்டத்தின் மூலம் தெரியவந்துள்ளது.
+The Right to Information Act exposed that the Karachi Pradeshiya Sabha failed to act against illegal shops in 2020, despite a court order. A case was filed but dismissed due to incorrect legal grounds. The council promised to remove the shops but hasn't acted after four years, causing public dissatisfaction.
 
-கரைச்சி பிரதேச சபைக்கு சொந்தமான கிளிநொச்சி கரடிபோக்கு சந்தியில் உள்ள காணியில் அப்போதிருந்த  மக்கள் பிரதிநிதிகளை கொண்டமைந்த சபையால் அனுமதி வழங்கப்பட்ட சட்டவிரோத கடை கட்டடங்கள் தொடர்பில் கிளிநொச்சி நீதவான் நீதி மன்றில்  செயலாளரினால் வழக்கு பதிவு செய்யப்பட்டது.
+🟩
 
-இருப்பினும், 34688 இலக்கம் கொண்ட  வழக்கானது  தவறான சட்டப்பிரிவின் கீழ் தாக்கல் செய்யப்பட்டுமையாலும்,சட்ட ஏற்பாடுகளின் பிரகாரம் கௌரவ மன்றுக்கு பாரப்படுத்தாமல் சபையினால் அனுமதியற்ற கட்டங்களை அகற்றமுடியும்.
+The Right to Information Act has revealed that the Kilinochchi Magistrate's Court has not fulfilled in writing on illegal shops by the Karachi Pradeshiya Sabha in 2020.
 
-எனவே குறித்த வழக்கினை மீளப்பெறுகின்றோம் எனத் தெரிவித்து NP/14/42(2)/KPS/SUB/2020 இலக்கம் கொண்ட 2020.10.26 திகதி கடிதம் மூலம் தாங்களே குறித்த சட்டவிரோத கடை கட்டடங்களை அகற்றுவதாக நீதி மன்றுக்கு அறிவித்து  வழக்கினை வாபஸ் பெற்றிருந்தனர்.
+A case has been registered by the Secretary of the Kilinochchi Magistrate's Court regarding the illegal shop buildings granted by the then council representatives of the Karachchi Pradeshiya Sabha.
+
+However, as the 34688 case is filed under the wrong legal, the council can remove the unauthorized phases of the Hon.
+
+So, by a letter of NP/14/42 (2)/kPS/Sub/2020, they had withdrawn the case by announcing the dismissal of illegal shop buildings on 2020.10.26.
 
 ...
 
 [Data](articles/982a5004.json)
+
+[Extended Data](ext_articles/982a5004.ext.json)
 
 ---
 
@@ -198,21 +244,27 @@ Nominating the strategic business as a secondary business of importance of the s
 
 ---
 
-### சாதாரண தரப் பரீட்சை வளாகத்திற்குள் அத்துமீறி நுழைந்து மாணவர்களைத் தாக்கிய தாயார்!
+### Mother who entered the ordinary grade exam premises and attacked the students!
 
 *2024-05-15 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183588) · `ta`
 
-கல்விப் பொது தராதர சாதாரண தரப் பரீட்சை வளாகத்திற்குள் நேற்று செவ்வாய்க்கிழமை (14) இரு மாணவ குழுக்களுக்கிடையில் ஏற்பட்ட முரண்பாடு காரணமாகப் பாடசாலை சூழலில் பதற்றமான நிலை ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A mother attacked students at an exam center due to a long-standing feud between two student groups. The incident occurred during the GCE Ordinary Level Examination in Anuradhapura, leading to a tense atmosphere. Police intervened, issuing a severe warning to the attacker before releasing her on bail.
 
-சாதாரண தரப் பரீட்சைக்குத் தோற்றுவதற்காக அனுராதபுரம் பிரதேசத்தில் உள்ள பிரபல பாடசாலையொன்றிற்கு பிரிதொரு பாடசாலையிலிருந்து மாணவர்கள் சிலர் வருகைதந்துள்ள நிலையில் நேற்று செவ்வாய்க்கிழமை (14) இரு பாடசாலை மாணவ குழுக்களுக்கிடையிலும் முரண்பாடு ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-பரீட்சை ஆரம்பித்த நாளிலிருந்து இருதரப்பினருக்குமிடையிலும் வாக்கு வாதம் ஏற்பட்டுள்ளதோடு, நேற்றைய தினம் மாணவரொருவரின் தாயொருவர் பரீட்சை வளாகத்திற்குள் அத்துமீறி நுழைந்து மாணவர்களைத் தாக்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the school environment was a tense situation in the school environment due to the conflict between two students groups inside the Education Public Standards Complex on Tuesday (14).
 
-இதனையடுத்து, சந்தேக நபரைக்கைது செய்து கடுமையாக எச்சரித்து பொலிஸ் பிணையில் விடுவித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that there was a conflict between two school student groups on Tuesday (14) as some students were visiting a popular school in Anuradhapura area to appear for the GCE Ordinary Level Examination.
+
+There has been a vote between the two sides since the beginning of the exam, and yesterday the mother of a student has broken into the exam premises and attacked the students, police said.
+
+Subsequently, police said that the suspect has been severely warned and released on bail.
 
 ◼️
 
 [Data](articles/3106b37b.json)
+
+[Extended Data](ext_articles/3106b37b.ext.json)
 
 ---
 
@@ -238,23 +290,29 @@ The President also reiterated his commitment to combating corruption by undertak
 
 ---
 
-### நாங்கள் இம்முறை தனியாக  இரண்டாவது நக்பாவை எதிர்கொள்கின்றோம் - பாலஸ்தீன மக்கள் கருத்து
+### We face the second Nakba this time - Palestinian people's opinion
 
 *2024-05-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183601) · `ta`
 
-நாங்கள் இரண்டாவது நக்பாவை எதிர்நோக்கியுள்ளோம் என தெரிவிக்கும் பாலஸ்தீனியர்கள் எனினும் இம்முறை தனித்துவிடப்பட்டுள்ளதாகவும் தனியாக அதனை எதிர்கொள்வதாகவும் குறிப்பிட்டுள்ளனர்.
+Palestinians view current conflicts as a "second Nakba," distinct from the 1948 war, highlighting Israel's ongoing military occupation in the West Bank. Adip Nasal mentions Iraqis fighting alongside Palestinians against Zionists but notes the absence of unified Arab military action today, focusing instead on self-interests.
 
-எனினும் காசாவில் இடம்பெறும் யுத்தங்களும் மேற்குகரையில் இஸ்ரேலின் இராணுவ ஆக்கிரமிப்பும் இரண்டாவது நக்பா அரங்கேறுகின்றது என்பதற்கான தெளிவான ஆதாரங்கள் என தெரிவித்துள்ள பாலஸ்தீன மக்கள் ஆனால் இம்முறை நாங்கள் அதனை தனியாக எதிர்கொள்கின்றோம் என தெரிவித்துள்ளனர்.
+🟩
 
-சிலர் 1948ம் ஆண்டுஅராபிய இஸ்ரேலிய யுத்தத்தைநினைவுகூர்ந்துள்ளதுடன்  சமூகத்தின் அனைத்துர தரப்பினரும் பாலஸ்தீனத்திற்காக போரடி உயிர்நீத்தனர் என சுட்டிக்காட்டியுள்ளனர்.
+Palestinians, who say we are facing the second Nakba, have stated that this time it is separate and confronted it alone.
 
-இந்த யுத்தத்தில் சியோனிஸ்ட்களிற்கு எதிராக பாலஸ்தீனியர்களுடன் இணைந்து ஈராக்கிய படையினர் போரிட்டனர் என அடிப் நசல் என்பவர் தெரிவித்துள்ளார்.
+However, the wars in Gaza and the West Center are clear evidence that Israel's military occupation on the West is the second Nakba.
 
-தற்போது அராபிய இராணுவம் என்பதே இல்லை அனைவரும் தங்கள் சொந்த நலன்களை பாதுகாக்க விரும்புகின்றனர் என அவர் தெரிவித்துள்ளார்.
+Some have fought the Arabian Israeli war in 1948 and all the community of the community fought for Palestine.
+
+Adip Nasal said that the Iraqi soldiers fought with the Palestinians against the Zionists in the war.
+
+He said that there is no Arab military at present, everyone wants to protect their own interests.
 
 ◼️
 
 [Data](articles/566de186.json)
+
+[Extended Data](ext_articles/566de186.ext.json)
 
 ---
 
@@ -462,19 +520,29 @@ Premadasa said the opposition was against this, and would take legal action to c
 
 ---
 
-### முள்ளிவாய்க்கால் கஞ்சி ; அம்பாறையில் ஐவருக்கு நீதிமன்ற தடை உத்தரவு
+### Mullivaikkal porridge;Court order for five in Amparai
 
 *2024-05-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183592) · `ta`
 
-முள்ளிவாய்க்காலில் படுகொலை செய்யப்பட்ட பொதுமக்களை நினைவுகூரும் முகமாகவும்  முள்ளிவாய்க்கால் கஞ்சி  தயாரிக்க முற்படுபவர்கள் என குறிப்பிட்டும் ஐவருக்கு நீதிமன்ற தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+A court order mandates five individuals to honor Mullivaikkal victims through porridge-making. This act, supported by social workers, political representatives, and civilians, faces opposition from local authorities. The Tamil National People's Front (TNA) district organizer and others involved are warned by the police. Despite this, the TNA proceeds with the event at the Kalmunai Pandaruppu temple, leading to a police intervention. Following the incident, human rights activists lodge a complaint with the Human Rights Commission.
 
-இந்நிலையில், அம்பாறை மாவட்டத்தில் குறித்த நிகழ்வினை ஏற்பாடு செய்ய முயற்சிகளை மேற்கொள்வார்கள் என தெரிவித்து சமூக சேவகர்கள், அரசியல் கட்சி பிரதிநிதிகள் மற்றும் பொதுமக்கள் என ஐவருக்கு இவ்வாறு கல்முனை நீதிமன்ற நீதிபதியின் கையொப்பத்துடன் பெரியநீலாவணை பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஜே.எஸ்.கே.வீரசிங்கவினால் குறித்த நபர்களுக்கு தடையுத்தரவு பத்திரம்  வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் மாவட்ட அமைப்பாளர் புஸ்பராஜ் துஷானந்தன்   அம்பாறை மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்க தலைவி தம்பிராசா செல்வராணி  மனித உரிமை செயற்பாட்டாளர் தாமோதரம் பிரதீவன் தமிழரசுக் கட்சி முக்கியஸ்தர்    கிருஸ்ணபிள்ளை ஜெயசிறில்  விநாயகம் விமலநாதன்ஆகிய ஐவருக்கே  இவ்வாறு தடையுத்தரவு பெறப்பட்டிருந்தது.
+Five people have been issued a court order to commemorate the civilians who were assassinated in Mullivaikkal and are trying to make Mullivaikkal porridge.
+
+In this backdrop, Social Workers, Political Party Representatives and civilians have been asked to issue an injunction to the persons by the Inspector General of Police, JSK Weerasinghe, who is in charge of the Kalmunai Police Station.
+
+Accordingly, the district organizer of the Tamil National People's Front (TNA) Pusparaj Dushanandan Ampara District, the missing union leader Thambirasa Selvarani Human Rights Operator Damodaram Pradevan Pradeepan TNA chief Krishnapillai Jayasiril Vimalanathan.
+
+In addition, the Mullivaikkal Kanji has been deployed in the area of the Pandaruppu Draupadi Amman temple.
+
+In addition, hundreds of policemen were mobilized to prevent those who tried to make Mullivaikkal porridge in the Kalmunai Pandaruppu area on Tuesday (14).
 
 ...
 
 [Data](articles/0a8b37b6.json)
+
+[Extended Data](ext_articles/0a8b37b6.ext.json)
 
 ---
 
@@ -571,6 +639,8 @@ He underscored that these rare complications are not indicative of future advers
 ◼️
 
 [Data](articles/cd1157cf.json)
+
+[Extended Data](ext_articles/cd1157cf.ext.json)
 
 ---
 
@@ -2213,25 +2283,5 @@ They said the police have clearly neglected these recommendations and have said 
 [Data](articles/94ef6d4d.json)
 
 [Extended Data](ext_articles/94ef6d4d.ext.json)
-
----
-
-### Suspects who impersonated as Police Officers and robbed over Rs. 20 m in cash further remanded
-
-*2024-05-15 05:04:19* · [`dailyftlk`](https://www.ft.lk/news/Suspects-who-impersonated-as-Police-Officers-and-robbed-over-Rs-20-m-in-cash-further-remanded/56-761796) · `en`
-
-Four suspects including a woman who had impersonated as CID officers and searched a house at Colpetty and took away Rs. 12 million cash and 3,500 Dollars’ (approximately worth Rs. 10.5 million) were further remanded till 24 May.
-
-At the onset of inquiry before Colombo Chief Magistrate Thilina Gamage, officers of the Commission to Investigate Allegations of Bribery or Corruption informed the Magistrate that the CID had conducted a separate investigation on the matter and had arrested three other Police officers who had connived with the suspects.
-
-The Bribery Sleuths said the three suspects will be produced in court today for an identification parade.
-
-The Bribery also sought the permission of the Court to record the statements from the three suspects after holding the identification parade.
-
-...
-
-[Data](articles/97dd5641.json)
-
-[Extended Data](ext_articles/97dd5641.ext.json)
 
 ---

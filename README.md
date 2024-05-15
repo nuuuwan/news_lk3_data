@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 05:03:24**
+As of **2024-05-16 05:18:14**
 
 ## Newspaper Stats
 
-*Scraped **24,325** Articles*
+*Scraped **24,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,436
+dailyftlk | 1,437
 adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,325 (100.0%) of 24,325 articles have been extended.
+24,325 (100.0%) of 24,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -275,6 +275,18 @@ The valuable certification acknowledges the company’s achievement of conformin
 [Data](articles/be7c1551.json)
 
 [Extended Data](ext_articles/be7c1551.ext.json)
+
+---
+
+### Co-creating family-friendly tea industry conference 2024
+
+*2024-05-16 02:16:59* · [`dailyftlk`](https://www.ft.lk/business/Co-creating-family-friendly-tea-industry-conference-2024/34-761849) · `en`
+
+On the International Day of Tea, 21 May, The Centre for Child Rights and Business, in collaboration with Save the Children, will host the third edition of the annual family-friendly tea industry conference. This year, the spotlight of the conference will be on the tea smallholders, who produce around 70% of Sri Lanka’s tea production, and the private small and mid-sized tea estates.
+
+...
+
+[Data](articles/f04fe4aa.json)
 
 ---
 
@@ -2237,29 +2249,5 @@ The arrested passenger has been released on police bail and is scheduled to appe
 [Data](articles/2cb635ed.json)
 
 [Extended Data](ext_articles/2cb635ed.ext.json)
-
----
-
-### A 15 -year -old girl joint sexual abuse in Vavuniya;Hostel Manager arrested
-
-*2024-05-15 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183615) · `ta`
-
-In Vavuniya, a 15-year-old girl was arrested for her involvement in a sexual abuse case at a hostel. Four others, including a female accomplice, were also apprehended. The hostel manager, implicated in the incident, was arrested by the Vavuniya Police and will face charges in court.
-
-🟩
-
-Police said that a 15 -year -old girl was arrested in connection with the incident in which a 15 -year -old girl was arrested at a hostel in Thekkawatte area in Vavuniya, police said.
-
-A 15 -year -old woman residing in the Vavuniya and Bandarikkulam police division has taken a youth to a hostel in Thekkawatte area in Vavuniya.
-
-There, four persons, including a woman who were complicit in the sexual abuse of a young man, were arrested by the Vavuniya police and detained by the Vavuniya police.
-
-The Vavuniya Police, who are conducting investigations into the matter, have been arrested by the hotel manager in Thekkawatte area where the incident took place.. The police added that he will be produced in court after further investigations.
-
-◼️
-
-[Data](articles/8c0908ca.json)
-
-[Extended Data](ext_articles/8c0908ca.ext.json)
 
 ---

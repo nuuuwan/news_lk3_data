@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 16:18:18**
+As of **2024-05-15 16:33:51**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,221 (100.0%) of 24,223 articles have been extended.
+24,223 (100.0%) of 24,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### සාමාන්‍ය පෙළ ලියන දරුවන්ට නිදහස් ලකුණු දෙකක්
+### Two free marks for children who write ordinary
 
 *2024-05-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196650) · `si`
 
-පැමිණිලි ලැබුණු අ.පො.ස (සා.පෙළ) විද්‍යා ප්‍රශ්න පත්‍රයේ ප්‍රශ්න දෙකක් සඳහා නිදහස් ලකුණු දෙකක් ලබාදීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+The Department of Examinations will award two extra marks for each child who receives two copies of the GCE O/L paper question paper. This applies specifically to the Science section.
 
-විද්‍යා ප්‍රශ්න පත්‍රයේ 09 සහ 39 ප්‍රශ්න සඳහා එලෙස නිදහස් ලකුණු දෙක ලබාදීමට තීරණය කර බව විභාග කොමසාරිස් ජනරාල්වරයා පැවසීය.
+🟩
+
+The Department of Examinations has decided to give two free marks for two issues of the GCE (O / L) paper question paper received received.
+
+The Commissioner General of Examinations said that the two free marks for the issue of the Science Question and 39.
 
 ◼️
 
 [Data](articles/9cc9fc28.json)
+
+[Extended Data](ext_articles/9cc9fc28.ext.json)
 
 ---
 
@@ -338,21 +344,29 @@ The order has been issued by Maligakanda Magistrate Lochani Abeywickrama after c
 
 ---
 
-### පාසල් පර්ෂද 1220ක්
+### 1220 schools
 
 *2024-05-15 13:40:03* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පර්ෂද-1220ක්/11-409647) · `si`
 
-අධ්‍යාපන පරිපාලන ප්‍රතිසංස්කරණවල මූලික අදියර යටතේ දිවයින පුරා පාසල් පර්ෂද 1220ක් නිර්මාණය කර ඒවායේ අධීක්ෂණ කටයුතු සඳහා පාසල් මණ්ඩල 350ක් නිර්මාණය කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Dr. Susil Premajayantha announced plans to monitor 350 schools as part of educational reforms, addressing past challenges like fuel shortages and power cuts affecting schooling. Now, all textbooks and uniforms are ready, exams are conducted regularly, and the Ordinary Level Exam is set for December. The GCE Advanced Level Exam will start in June for about 452,000 students. Educational administration changes are underway, including increasing 100-day education zones and addressing teacher shortages through interviews and training.
 
-ඒ සඳහා වන අමාත්‍ය මණ්ඩල සංදේශය ඉදිරිපත් කර ඊට අදාළ චක්‍රලේඛය ඉදිරියේ දී නිකුත් කරන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Education Dr. Susil Premajayantha said that 350 schools in order to monitor their monitoring under the primary phase of the educational administrative reforms.
 
-මා අධ්‍යාපන අමාත්‍යාංශය වසර දෙකකට පෙර බාර ගන්නා අවස්ථාව වන විට ඉන්ධන පෝලිම් නිසා දරුවන්ට පාසල් යාමට නොහැකි තත්ත්වයක් ඇතිව තිබුණා. පිළිතුරු පත්‍ර පරීක්ෂකවරුන්ට ඒ සඳහා ගමන් පහසුකම් සපයා ගැනීමටවත් ඉන්ධන තිබුණේ නැහැ. ඒ වගේම පැය 14ක විදුලි කප්පාදුවක් ක්‍රියාත්මක වූ නිසා දරුවන්ට අධ්‍යාපන කටයුතුවල නිරතවීමට නොහැකි වුණා. ඒ අතර වරින් වර පාසල් වැසීමට සිදුවුණා.
+The Cabinet Memorandum of the Cabinet Memorandum and the relevant circular will be issued in the future.
+
+Minister of Education Susil Premajayantha made this statement participating in a press conference held by the Media Center in the Ministry of Directors.
+
+The fuel queues were unable to go to school due to the time of the Ministry of Education Two years ago. The answer sheet inspectors had no fuel to provide travel facilities. Also, 14 hours of power cuts were implemented, and children could not engage in education. At time, schools were to close.
+
+Cowid - 19 school shutdown in the face of schools also hampered education. Conduct Examinations and issuing results. With the influence of the economic crisis, the education sector has been affected.
 
 ...
 
 [Data](articles/456d20d6.json)
+
+[Extended Data](ext_articles/456d20d6.ext.json)
 
 ---
 

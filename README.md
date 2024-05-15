@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 01:34:04**
+As of **2024-05-16 01:53:03**
 
 ## Newspaper Stats
 
-*Scraped **24,292** Articles*
+*Scraped **24,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,415
+dailyftlk | 1,418
 adalk | 2,077
 adaderanalk | 2,820
-tamilmirrorlk | 2,857
+tamilmirrorlk | 2,858
 virakesarilk | 3,650
 dailymirrorlk | 3,813
 adaderanasinhalalk | 3,877
@@ -26,11 +26,61 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,292 (100.0%) of 24,292 articles have been extended.
+24,292 (100.0%) of 24,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### அமெரிக்க தூதுவர் யாழ்ப்பாணத்துக்கு விஜயம்
+
+*2024-05-16 01:07:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதுவர்-யாழ்ப்பாணத்துக்கு-விஜயம்/175-337393) · `ta`
+
+யாழ். மானிப்பாயில் அமைந்துள்ள கிரீன் ஞாபகார்த்த வைத்தியசாலைக்கு விஜயம் செய்த இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங், வைத்தியசாலை செயற்பாடுகளை பார்வையிட்டார்.
+
+மேலும், விஜயத்தின் போது இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வைத்தியசாலை வளாகத்தில் மரக்கன்று ஒன்றையும் நாட்டினார்.
+
+இதன்போது, மீள் சுழற்சி மற்றும் மரங்களை நடுதல் தொடர்பில் விழிப்புணர்வை ஏற்படுத்தும் வகையிலான நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டிருந்தன.
+
+இதேவேளை, வட மாகாணத்தில் உள்ள இலங்கையர்களுக்கு அமெரிக்காவின் தொடர்சியான ஒத்துழைப்பையும் ஆதரவுக்கான வழிகளையும் ஆராய்வதற்கான சந்திப்புகளை முன்னெடுப்பதற்காக யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டதாக இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் எக்ஸ் பக்கத்தில் பதிவிட்டுள்ளார்.  (a)
+
+◼️
+
+[Data](articles/024deca4.json)
+
+---
+
+### Telecom Act amendments don’t address the future: Are they at least fixing flaws from the past?
+
+*2024-05-16 00:40:44* · [`dailyftlk`](https://www.ft.lk/columns/Telecom-Act-amendments-don-t-address-the-future-Are-they-at-least-fixing-flaws-from-the-past/4-761833) · `en`
+
+The country is changing. Apartments and condominiums are popping up everywhere. Technology and markets are changing. Navigating the streets without Google maps seems unthinkable. Data consumed in a month 25 years ago is now consumed in a few hours.
+
+The world is changing. Stories about vehicles that are communicating our braking patterns back to the manufacturer and insurance companies do not seem like science fiction, though we know our cars (and our insurance companies) are not like that, yet.
+
+The future is already here; it’s just not very evenly distributed, as William Gibson, the writer, says. Are our laws ready for the future? Are they at least adequate for the present?
+
+...
+
+[Data](articles/f3544cd7.json)
+
+---
+
+### Sri Lanka’s amended Telecommunications Bill should be sent back to the drawing board
+
+*2024-05-16 00:37:02* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-amended-Telecommunications-Bill-should-be-sent-back-to-the-drawing-board/4-761832) · `en`
+
+It is critical that the Government puts a stop to its conservative and traditional approach to telecoms regulation and handles it in a way that will ensure that digital connectivity spurs the development of the nation
+
+Sri Lanka’s Telecommunications Act first came into force in 1991. It was subsequently amended in 1996. There have been no further amendments or revisions to the Act since then, although there have been several (but failed) attempts to update this legacy Act over the years. An amended Bill has now been sent to Parliament for consideration and is expected to be debated by the country’s lawmakers in the next few weeks.
+
+One would think that the legislation governing one of the most dynamic and critical sectors should have kept up with the times, but here we are 28 years later, attempting to maintain a historical artefact and supplement it with piecemeal amendments, in the hope that this will help sustain digital development for the next decade and more.
+
+...
+
+[Data](articles/397575b9.json)
+
+---
 
 ### Stolen Assets Recovery Framework: There is much room for improvement
 
@@ -67,6 +117,22 @@ Families stay together if they regularly pray or meditate together. This is a ha
 ---
 
 ### 2024-05-15 (Wednesday)
+
+### Change, not continuity is imperative for consensus, stability and recovery
+
+*2024-05-15 23:43:43* · [`dailyftlk`](https://www.ft.lk/columns/Change-not-continuity-is-imperative-for-consensus-stability-and-recovery/4-761831) · `en`
+
+Basil Rajapaksa’s idea of a snap Parliamentary election proceeds from the ruling party’s viewpoint that it has a better chance of survival while its partner Ranil holds office and controls the administration.
+
+There is no guarantee though, that if and when that Parliamentary election is held, Ranil won’t tell the country “Ok, now you’ve had your election for this year”, and press ‘pause’ on the scheduled Presidential election.
+
+That is almost exactly what happened in 1982. We had one national election but not the other. The Presidential election was in October 1982, and JR Jayewardene won. The Parliamentary election was scheduled for early 1983, but a Referendum was held instead in December 1982 which the UNP coercively and fraudulently won, and the Parliamentary election was postponed. That lit the fuse that led to Black July 1983, two civil wars (North and South), and foreign military intervention.
+
+...
+
+[Data](articles/5bb5b5c8.json)
+
+---
 
 ### Firing on the Prime Minister!World leaders condemn
 
@@ -2263,101 +2329,5 @@ On Tuesday a group of family members came to the Russian embassy in Colombo.
 [Data](articles/e3e5846c.json)
 
 [Extended Data](ext_articles/e3e5846c.ext.json)
-
----
-
-### Lagoon fresh...
-
-*2024-05-15 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lagoon-fresh/110-282648) · `en`
-
-Large lagoon prawns and crabs being sold near the Bolgoda Lake adjoining the Kospelena Bridge in Piliyandala. Unlike sea prawns and crabs, these are very rich in meat. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/7072bc8a.json)
-
-[Extended Data](ext_articles/7072bc8a.ext.json)
-
----
-
-### Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
-
-*2024-05-15 12:32:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1nrmjp83o) · `si`
-
-Investigations have begun into complaints against the Kitulgala Police for allegedly forcibly arresting individuals and remanding them. The Police Commission received a complaint about this, along with audio recordings of the incidents. The young man and his aunt were arrested for selling cannabis, despite efforts to improve their lives. The Senior DIG of the Sabaragamuwa Province has been instructed to inquire into the matter.
-
-🟩
-
-None contains none of this. Fource Forest, "" Do you draw you and send the child into probation and send the kid to probation? "
-
-Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
-
-Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
-
-The Police Commission has received a complaint that the Kitulgala Police had been remanded by Kitulgala Police.
-
-The sound of recorded in the police has also been handed over to the Senior DIG and the Sabaragamuwa Province in charge of the young man.
-
-She said that the threatening of the police officers.
-
-The young man and her aunt were remanded due to marketing cannabis. But now the family is trying to live better, but the police say that the police will not allow it.
-
-Senior DIG Sabaragamuwa Province, DIG Dharmawardena inquiry was instructed by the President of the Assistant Superintendent of Police in response to the incident.
-
-◼️
-
-[Data](articles/dd880201.json)
-
-[Extended Data](ext_articles/dd880201.ext.json)
-
----
-
-### A girl who abandoned the child in Jaffna
-
-*2024-05-15 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183586) · `ta`
-
-A 15-year-old girl and her mother abandoned a newborn at Jaffna Bodhana Hospital. The girl, from Nelliyadi, was caught by police after giving birth. A 25-year-old woman from Mallavi, also pregnant, was arrested during the investigation.
-
-🟩
-
-A 15 -year -old girl who abandoned the child at the Jaffna Bodhana Hospital was caught by the police on Tuesday (14).
-
-A 15 -year -old schoolgirl was admitted to the Jaffna Bodhana Hospital last week.The mother is also standing for help with the girl.
-
-The next day when the girl was born, the mother and the girl abandoned the baby at the hospital and fled.
-
-According to the complaint, the police have found that the girl belongs to the Nelliyadi Police Division, which was informed by the Nelliyadi police.
-
-Based on investigations carried out by Nelliyadi police, the girl and her mother who gave birth to the baby were taken to the police station and carried out investigations.
-
-Based on the investigation, a 25 -year -old youth from Mallavi, who was pregnant and pregnant, has been arrested.
-
-◼️
-
-[Data](articles/0a279163.json)
-
-[Extended Data](ext_articles/0a279163.ext.json)
-
----
-
-### Tension near the Presidential Secretariat
-
-*2024-05-15 12:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-அருகில்-பதற்றம்/175-337356) · `ta`
-
-Citizens Power Organization protested near the Presidential Secretariat against corruption and wasteful practices, specifically targeting the reconstruction of vehicle permits for MPs. They handed a petition to President's Additional Secretary Kapila Munasinghe, demanding government action.
-
-🟩
-
-It is reported that a tense situation near the Presidential Secretariat has caused a demonstration by the Citizens Power Organization against bribery, corruption and waste.
-
-Demonstrators have called for the government to take action against the reconstruction of vehicle permits for MPs.
-
-Later, it was noteworthy that the demonstrators handed over a petition to the President's Additional Secretary Kapila Munasinghe.
-
-◼️
-
-[Data](articles/fd5b2d32.json)
-
-[Extended Data](ext_articles/fd5b2d32.ext.json)
 
 ---

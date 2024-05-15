@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 14:18:35**
+As of **2024-05-15 14:33:46**
 
 ## Newspaper Stats
 
-*Scraped **24,210** Articles*
+*Scraped **24,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,065
-adaderanalk | 2,808
+adaderanalk | 2,809
 tamilmirrorlk | 2,847
 virakesarilk | 3,635
 dailymirrorlk | 3,807
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,209 (100.0%) of 24,210 articles have been extended.
+24,210 (100.0%) of 24,211 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,24 @@ Accordingly, the court order prevents K.D. Lal Kantha, Mahinda Jayasinghe, Ranja
 ◼️
 
 [Data](articles/244f77d9.json)
+
+[Extended Data](ext_articles/244f77d9.ext.json)
+
+---
+
+### Court order issued against JVP trade unions’ protest in Colombo
+
+*2024-05-15 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99231/court-order-issued-against-jvp-trade-unions-protest-in-colombo) · `en`
+
+The Maligakanda Magistrate’s Court has issued an order on several trade union leaders of the Janatha Vimukthi Peramuna (JVP) and others over a protest march planned in Colombo this evening (15).
+
+Accordingly, the court order prevents K.D. Lal Kantha, Mahinda Jayasinghe, Ranjan Jayalal and other protestors from inconveniencing the public or pedestrians along several major roads in Colombo including Dean’s Road, T.B. Jayah Mawatha, Technical Junction, Ibbanwala Junction, Ada Derana reporter said.
+
+The order has been issued by Maligakanda Magistrate Lochani Abeywickrama after considering a request made by the Officer-In-Charge (OIC) of the Maradana Police Station today.
+
+...
+
+[Data](articles/8eea8f88.json)
 
 ---
 
@@ -2265,23 +2283,5 @@ The visiting United States’ Assistant Secretary Bureau of South and Central As
 [Data](articles/0ce9d5ce.json)
 
 [Extended Data](ext_articles/0ce9d5ce.ext.json)
-
----
-
-### YJA calls for investigation on Sampur arrests
-
-*2024-05-15 05:04:46* · [`dailyftlk`](https://www.ft.lk/news/YJA-calls-for-investigation-on-Sampur-arrests/56-761797) · `en`
-
-The Young Journalists Association of Sri Lanka in a letter to the Human Rights Commission of Sri Lanka (HRCSL) has called for an investigation to be launched regarding the arrests of four persons in Sampur for holding a commemoration event in remembrance of the Mullivaikkal war dead.
-
-The YJA said the police had obtained a court order prohibiting the distribution of porridge and there have been several similar instances in the past. “Despite the Sri Lanka Human Rights Commission’s 2016 recommendation to uphold the right to commemoration, the police are obstructing these peaceful commemorations by obtaining court orders,” the YJA noted.
-
-They said the police have clearly neglected these recommendations and have said in court they will investigate whether an offence under the Convention on Civil and Political Rights Act (ICCPR) has been committed.
-
-...
-
-[Data](articles/94ef6d4d.json)
-
-[Extended Data](ext_articles/94ef6d4d.ext.json)
 
 ---

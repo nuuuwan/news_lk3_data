@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 17:54:30**
+As of **2024-05-15 18:12:11**
 
 ## Newspaper Stats
 
-*Scraped **24,236** Articles*
+*Scraped **24,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,068
 adaderanalk | 2,815
-tamilmirrorlk | 2,851
+tamilmirrorlk | 2,852
 virakesarilk | 3,639
-dailymirrorlk | 3,809
+dailymirrorlk | 3,810
 adaderanasinhalalk | 3,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,236 (100.0%) of 24,236 articles have been extended.
+24,236 (100.0%) of 24,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Army Commander obtains order against YouTube channel under Online Safety Act
+
+*2024-05-15 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-Commander-obtains-order-against-YouTube-channel-under-Online-Safety-Act/108-282656) · `en`
+
+The Colombo Chief Magistrate’s Court today issued a conditional order preventing a YouTube channel from publishing and communicating defamatory information against Army Commander Lieutenant General Vikum Liyanage, under the newly enacted Online Safety Act.
+
+Colombo Chief Magistrate Thilina Gamage issued a conditional order in favour of the Army Commander in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the respondents Lanka V news-YouTube Channel and its owner Thushara Saliya Ranawaka.
+
+The petitioner alleged that the respondents had uploaded malicious and defamatory video contents and statements against him in a manner threatening the country’s national security.
+
+The respondent parties were ordered to show cause under Section 24(6) of the Act.
+
+◼️
+
+[Data](articles/25d8fef2.json)
+
+---
+
+### பணிப்பெண்ணின் 13 இலட்சம் ரூபாய் ஏப்பம்
+
+*2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ரூபாய்-ஏப்பம்/76-337369) · `ta`
+
+குவைட்டில் இரண்டு வருடங்களாக பணிப்பெண்ணாக  பணியாற்றி அரச வங்கியில் வைப்பிலிட்ட 13, 44, 000  (பதின்மூன்று இலட்சத்து நாற்பத்தி நான்காயிரம்)  ரூபாய் பணம் மாயமான சம்பவம் பொகவந்தலாவை பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு உரிய வங்கிக்கணக்கில் இடம்பெற்றுள்ளது.
+
+பொகவந்தலாவை, பொலிஸ் பிரிவுக்கு உட்பட்ட எல்பட கீழ் பிரிவை சேர்ந்த நித்தியஜோதியம்மா சுந்தரலிங்கம்  என்பவருக்குச் சொந்தமான பணமே இவ்வாறு மாயமாகியுள்ளது.
+
+குடும்ப வறுமைக்காரணமாக 2022 ஆம் ஆண்டு வெளிநாட்டிற்கு வீட்டுப்பணிப்பெண்ணாக வேலைக்குச் சென்ற இப்பெண் (நித்தியஜோதியம்மா சுந்தரலிங்கம்) , தனது மாதாந்த சம்பளத்தை அரச வங்கியொன்றில் வைப்பு செய்துள்ளார்.
+
+இரண்டு வருடங்கள் வெளிநாட்டில் வேலை செய்து விட்டு 2024 ஏப்ரல் 28 ஆம் திகதி நாடு திரும்பியுள்ளார். இரண்டு நாட்கள் கழித்து ஏப்ரல் 30 ஆம் திகதியன்று குறித்த வங்கிக்குச் சென்று  பணத்தை மீளப்பெறுவதற்கான சிலிப்பை நிரப்பி கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/3d0cc9b5.json)
+
+---
 
 ### The maid's 13 lakhs
 
@@ -2301,53 +2337,5 @@ COPF Chief Dr. Harsha de Silva expressed his displeasure over their absence.
 [Data](articles/b3b83cee.json)
 
 [Extended Data](ext_articles/b3b83cee.ext.json)
-
----
-
-### Many corrupt deals are unfolding at the COPE committee
-
-*2024-05-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196638) · `si`
-
-The COPE committee exposed corruption involving 130 departing engineers from the Ceylon Electricity Board, leading to a shortage of 330 engineers due to non-recruitment of retirees. This revelation also highlighted a significant financial loss.
-
-🟩
-
-It has been revealed that about 130 engioners of the Ceylon Electricity Board have left the service.
-
-This was revealed at the COPE, or COP Committee.
-
-Deputy Palitha Perera of the Ceylon Electricity Board (Ceylon Electricity Board) stated that the vacancies of 330 engineers have been present.
-
-"There was 130 and the last year and first 4 months of this year had gone. Since we did not recruit retired, they were lacking in 330 engineers. "
-
-The COPE has uncovered a loss of billions of Rs.
-
-◼️
-
-[Data](articles/6c9730b2.json)
-
-[Extended Data](ext_articles/6c9730b2.ext.json)
-
----
-
-### 264 leprosy patients have been identified
-
-*2024-05-15 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196637) · `si`
-
-In 2023, 1,580 leprosy cases were reported, with 1,520 being new diagnoses. The first quarter of 2024 saw 264 new cases, including 21 children under 15, who cannot spread the disease.
-
-🟩
-
-264 leprosy patients have been identified during the period of the year.
-
-The Director of the Director of the Director Dr. Navaruwawatta stated that 24 of them are children under 15 years.
-
-"In 2023 we have reported 1,580 leprosy patients. Most of this is the newly identified. That means 1,520 new patients. And there are 180 out of 1,580 people. That means about 12% of the children under 15 years. In the first quarter of 2024, we identified 274 patients. 264 newly identified patients. 21 out of the 274 here is children under 15 years old. They cannot spread the disease. And this year we have found about 8% of the disabled patients. "
-
-◼️
-
-[Data](articles/c6b54e20.json)
-
-[Extended Data](ext_articles/c6b54e20.ext.json)
 
 ---

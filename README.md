@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 17:18:19**
+As of **2024-05-15 17:34:01**
 
 ## Newspaper Stats
 
-*Scraped **24,231** Articles*
+*Scraped **24,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,126 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,067
-adaderanalk | 2,814
-tamilmirrorlk | 2,849
+adalk | 2,068
+adaderanalk | 2,815
+tamilmirrorlk | 2,851
 virakesarilk | 3,639
 dailymirrorlk | 3,809
-adaderanasinhalalk | 3,871
+adaderanasinhalalk | 3,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,230 (100.0%) of 24,231 articles have been extended.
+24,231 (100.0%) of 24,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### ලෝක කුසලානයේ තීරණාත්මක තරගයක් ගැන සුවිශේෂී තීරණයක්
+### பணிப்பெண்ணின் 13 இலட்சம் ஏப்பம்
 
-*2024-05-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196652) · `si`
+*2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ஏப்பம்/76-337369) · `ta`
 
-2024 පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය වෙනුවෙන් අතිරේක දිනයක් ලබානොදෙන බව ක්‍රික් බස් වෙබ් අඩවිය වාර්තා කරයි.
+குவைட்டில் இரண்டு வருடங்களாக பணிப்பெண்ணாக  பணியாற்றி அரச வங்கியில் வைப்பிலிட்ட 13, 44, 000  (பதின்மூன்று இலட்சத்து நாற்பத்தி நான்காயிரம்)  ரூபாய் பணம் மாயமான சம்பவம் பொகவந்தலாவை பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு உரிய வங்கிக்கணக்கில் இடம்பெற்றுள்ளது.
 
-එම තරගයට වර්ෂාවෙන් බාධා එල්ලවුවහොත් පැය 4ක අමතර කාලයක් පමණක් ලබාදීමට ICCය හා බටහිර ඉන්දීය කොදෙව් ක්‍රිකට් ආයතන තීරණ කර ඇත.
+பொகவந்தலாவை, பொலிஸ் பிரிவுக்கு உட்பட்ட எல்பட கீழ் பிரிவை சேர்ந்த நித்தியஜோதியம்மா சுந்தரலிங்கம்  என்பவருக்குச் சொந்தமான பணமே இவ்வாறு மாயமாகியுள்ளது.
 
-2024 පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි  2 වනදා ආරම්භවීමට නියමිත අතර අවසන් මහා තරගය ජුනි 29 වැනිදා පැවැත්වීමට නියමිතය.
+குடும்ப வறுமைக்காரணமாக 2022 ஆம் ஆண்டு வெளிநாட்டிற்கு வீட்டுப்பணிப்பெண்ணாக வேலைக்குச் சென்ற இப்பெண் (நித்தியஜோதியம்மா சுந்தரலிங்கம்) , தனது மாதாந்த சம்பளத்தை அரச வங்கியொன்றில் வைப்பு செய்துள்ளார்.
 
-තරගාවලිය ආරම්භයට පෙර සඳහන් කර තිබුණේ තරගාවලියේ අවසන් පූර්ව තරග සහ අවසන් මහා තරගයට වර්ෂාවෙන් යම් බාධාවක් සිදුවුවහොත් ඒ වෙනුවෙන් අතිරේක දින ලබාදෙන බවය.
-
-පළමු අවසන් පූර්ව තරගයට එලෙස අමතර දිනයක් ලබාදුන්නත් දෙවන අවසන් පූර්ව තරගයට එලෙස අමතර දිනයක් ලබාදීමට හැකිවන්නේ නැත.
-
-ඒ දෙවන අවසන් පූර්ව තරගයට යම් හෙයකින් එලෙස අමතර දිනයක් ලබාදීමට සිදුවුවහොත් අවසන් මහා තරගයට සුදුසුකම් ලබාගන්නා ජයග්‍රාහී කණ්ඩායමට ඒ වෙනුවෙන් ක්‍රීඩා කිරීමට ඉතිරිව ඇත්තේ පැය 24කටත් නොඅඩු කාලයක් පමණි.
+இரண்டு வருடங்கள் வெளிநாட்டில் வேலை செய்து விட்டு 2024 ஏப்ரல் 28 ஆம் திகதி நாடு திரும்பியுள்ளார். இரண்டு நாட்கள் கழித்து ஏப்ரல் 30 ஆம் திகதியன்று குறித்த வங்கிக்குச் சென்று  பணத்தை மீளப்பெறுவதற்கான சிலிப்பை நிரப்பி கொடுத்துள்ளார்.
 
 ...
 
+[Data](articles/d770b607.json)
+
+---
+
+### මිලියන 9කට ආසන්න මත්ද්‍රව්‍ය තොගයක් කොටුවෙයි
+
+*2024-05-15 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196653) · `si`
+
+මධ්‍යම තැපැල් හුවමාරුව වෙත විදෙස් රටවල් කිහිපයක සිට පැමිණි පාර්සල් කිහිපයක තිබී මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
+
+ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සිදුකළ ආවේක්ෂණ රාජකාරීවලදී මෙරටට එවා තිබූ සැකසහිත පාර්සල් කිහිපයක තිබී මෙම මත්ද්‍රව්‍ය සොයාගෙන ඇත.
+
+එහි තිබී මත්පෙති 150ක්, කුෂ් ග්‍රෑම් 466ක් සහ කොකේන් ග්‍රෑම් 10ක් සොයාගෙන තිබේ.
+
+එම මත්ද්‍රව්‍යවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 9කට ආසන බව රේගුව පවසයි.
+
+රේගුව වැඩිදුරටත් සඳහන් කරන්නේ එම මත්ද්‍රව්‍ය සහිත පාර්සල් කැනඩාව, එංගලන්තය සහ නෙදර්ලන්යේ සිට දෙහිවල, වැල්ලවත්ත, වේයන්ගොඩ සහ අනුරාධපුරය යන ප්‍රදේශවල පදිංචි පුද්ගලයින් වෙත ඒවා තිබුණි.
+
+කෙසේ වෙතත් වැඩිදුරටත් සිදුකර ඇති විමර්ශනවලදී අනාවරණය වී ඇත්තේ එම මෙරට ලිපිනයන් ව්‍යාජ බවය.
+
+ශ්‍රී ලංකා රේගුවේ විමර්ශන අවසානයේ මෙම මත්ද්‍රව්‍ය අඩංගු පාර්සල් වැඩිදුර විමර්ශන කටයුතු සඳහා ශ්‍රී ලංකා පොලීසියේ මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාරදීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/5b3dae4d.json)
+
+---
+
+### O/L விஞ்ஞானத்துக்கு 2 புள்ளிகள் இலவசம்
+
+*2024-05-15 16:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விஞ்ஞானத்துக்கு-2-புள்ளிகள்-இலவசம்/175-337367) · `ta`
+
+நடந்துமுடிந்த கல்விப்பொதுத் தராதர சாதாரணதரப் பரீட்சையின் விஞ்ஞான  வினாக்கள் இரண்டுக்கு இரண்டு இலவச புள்ளிகளை வழங்க தீர்மானிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம்  ஆந்த் ஜயசுந்தர தெரிவித்தார்.
+
+விஞ்ஞானப் பாடத்தின் 9 மற்றும் 39 ஆகிய வினாக்களுக்கே இலவசமாக இரண்டு புள்ளிகளை வழங்க தீர்மானிக்கப்பட்டுள்ளதாகவும் பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.
+
+கல்விப் பொதுத் தரப் பரீட்சையின் விஞ்ஞான வினாத்தாள், ஒதுக்கீட்டுத் திட்டத்திற்குப் புறம்பாக தயாரிக்கப்பட்டதாக எழுந்த குற்றச்சாட்டுக்கள் தொடர்பில் அவதானம் செலுத்தி இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/223a1e2b.json)
+
+---
+
+### Court issues directive to halt deforestation at Bogahapalassa reserve
+
+*2024-05-15 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99237/court-issues-directive-to-halt-deforestation-at-bogahapalassa-reserve) · `en`
+
+The Court of Appeal has issued an order to the Director General of the Wildlife Conservation Department and the Inspector General of Police (IGP) to take action to prevent the illegal deforestation taking place within the Bogahapalassa Forest Reserve.
+
+This order has been issued by a judge bench consisting of the President of the Court of Appeal, Justice Nissanka Bandula Karunaratne and Justice Sasi Mahendran, while considering a petition submitted by the Centre for Environmental Justice.
+
+During the case was taken up today, Attorney-at-Law Ravindranath Dabare, appearing on behalf of the petitioning party, informed the court that a certain group is engaging in deforestation in a section of the Bogahapalassa Forest Reserve while claiming that it belongs to the Soragune Devalaya in Kataragama.
+
+Therefore, the attorney requested the court to issue a restraining order to prevent further environmental damage in the area.
+
+...
+
+[Data](articles/468a1862.json)
+
+---
+
+### A significant decision on a critical match of the World Cup
+
+*2024-05-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196652) · `si`
+
+The 20th World Cup, starting June 2nd, won't reschedule its matches due to rain, except for the second semi-final, which gets only 4 extra hours.
+
+🟩
+
+The Cric Bus website reports that there is no additional date for the second semi-final in the 20th World Cup.
+
+The ICC and West Indies have made decisions to be given only 4 hours additional additional time if the competition interferes with rain.
+
+2024 The 20th World Cup will commence on June 2nd and the final will be held on June 2nd match.
+
+The tournament was mentioned before the end of the semi-finals and the final will be provided with additional date.
+
+The second semi-final will not be able to give the second semi-final will be available for the second semi-final.
+
+If the second final will be given to the second semi-final, the winning team will be able to play for 24 hours.
+
+As a result, the International Cricket Council and the West will have decided to provide only additional 4 hours without any additional date for the second semi-final.
+
+◼️
+
 [Data](articles/6b408b48.json)
+
+[Extended Data](ext_articles/6b408b48.ext.json)
 
 ---
 
@@ -465,6 +549,24 @@ About 200 officers were deployed for Mohammed Ami search operations and they wer
 [Data](articles/5a56429d.json)
 
 [Extended Data](ext_articles/5a56429d.ext.json)
+
+---
+
+### කොළඹ ගංවතුර අවම කිරිමේ ව්‍යාපාති කඩිනම් කරයි
+
+*2024-05-15 13:46:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ගංවතුර-අවම-කිරිමේ-ව්‍යාපාති-කඩිනම්-කරයි/11-409648) · `si`
+
+කොළඹ හා ඒ අවට ප්‍රදේශවල ගංවතුර අවම කිරීම සදහා ක්‍රියාත්මක ව්‍යාපෘති  කඩිනම් කරන්නැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නිලධාරීන්ට උපදෙස් දෙයි.
+
+ප්‍රමුඛතාවය හදුනාගෙන මෙම ව්‍යාපෘති ක්‍රියාත්මක කරන ලෙසද ඇමතිවරයා වැඩි දුරටත් උපදෙස් දුන්නේය.  ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාව කොළඹ හා ඒ අවට ප්‍රදේශවල ගංවතුර අවම කිරීම සදහා විශේෂ ව්‍යාපෘති 07ක් ක්‍රියාත්මක කරයි.
+
+ඇමති ප්‍රසන්න රණතුංග මහතා පවසන්නේ කොළඹ හා තදාසන්න ප්‍රදේශ වල ගංවතුර අවම කිරීමේ ව්‍යාපෘතිය අදියර 03ක් යටතේ ක්‍රියාත්මක බවයි. කෙටි කාලීන, මධ්‍ය කාලීන හා දීර්ඝ කාලීන ව්‍යාපෘති ලෙස මෙම වැඩ සටහන ක්‍රියාත්මක වෙයි.
+
+කොළඹින් පිට ජලාප්‍රවාහන කටයුතු වැඩිදියුණු කිරීම හා නාගරික භූමි අලංකරණ ව්‍යාපෘතිය, පැලන්ගස්තුඩුවේ පොම්පාගාර ව්‍යපෘතිය වැසි ජල පොම්පාගාර ගංවතුර දොරටු ඇතුලු ගංවතුර පාලන පහසුකම් ක්‍රියාතක්මක කිරීමේ හා නඩත්තු කිරීමේ ව්‍යාපෘතිය, ඒකාබද්ධ ගංවතුර කළමණාකරණ පද්ධති සහ ත්‍යතයකාලීන පාලන දත්ත ම්‍යධස්ථාන සදහා ස්ථාපිත පහසුකම් ක්‍රියාත්මක කිරීමේ හා නඩත්තු කිරීමේ ව්‍යාපෘතිය,
+
+...
+
+[Data](articles/fb5d7612.json)
 
 ---
 
@@ -2215,123 +2317,5 @@ The Director of the Director of the Director Dr. Navaruwawatta stated that 24 of
 [Data](articles/c6b54e20.json)
 
 [Extended Data](ext_articles/c6b54e20.ext.json)
-
----
-
-### Climate change in the atmosphere
-
-*2024-05-15 08:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலத்தில்-ஏற்பட்ட-தளம்பல்-நிலையால்-காலநிலையில்-மாற்றம்/175-337334) · `ta`
-
-Sri Lanka faces ongoing rain issues due to unfavorable atmospheric conditions. Expectations include afternoon rain or thunderstorms across many provinces, with heavy rainfall (up to 100mm) forecasted for Central, Sabaragamuwa, Uva, and Eastern Provinces. Coastal regions of the Western and Southern Provinces may see morning rainfall. Thunderstorms could affect upcoming areas, prompting caution against lightning risks.
-
-🟩
-
-Due to the lack of atmospheric conditions in the areas surrounding Sri Lanka, the rainy situation is expected to continue.
-
-In most of the provinces of the country,. There is a possibility of rain or thunderstorms after 1 pm.
-
-100 mm of heavy rainfall is expected in some parts of the Central, Sabaragamuwa, Uva and Eastern Provinces.
-
-In some parts of the coastal areas of the Western and Southern Provinces, there is expected rainfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/d2d519c1.json)
-
-[Extended Data](ext_articles/d2d519c1.ext.json)
-
----
-
-### Circular on education administration reforms to be issued soon - Minister
-
-*2024-05-15 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99223/circular-on-education-administration-reforms-to-be-issued-soon-minister) · `en`
-
-Education Minister Dr. Susil Premajayantha said that arrangements are in place to establish 1,220 school clusters across the country and 350 school boards are to be formed to oversee their operations under the initial phase of educational administration reforms.
-
-Dr. Premajayantha emphasized that the necessary Cabinet memorandum outlining these reforms will be imminently presented, with the accompanying circular set to be issued in the near future.
-
-The Minister made these remarks on Tuesday (14) during a press briefing held at the Presidential Media Centre (PMC) under the theme of ‘Collective Path to a Stable Country’.
-
-“When I assumed the role of Education Minister two years ago, we were confronted with a dire situation. Fuel shortages were preventing children from attending school, and examiners lacked fuel for essential travel. Additionally, a 14-hour power cut disrupted educational engagement, while schools had to be closed in time to time.
-
-...
-
-[Data](articles/a264339e.json)
-
-[Extended Data](ext_articles/a264339e.ext.json)
-
----
-
-### Is the "Astrasenica" Wall affect Sri Lankans?
-
-*2024-05-15 08:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்ட்ராசெனிகா-வால்-இலங்கையர்களுக்கு-பாதிப்பா/175-337333) · `ta`
-
-Dr. Ananda Wijewickrama assures Sri Lankans that the AstraZeneca vaccine is safe despite rare, severe side effects reported globally, including blood clots and low platelet counts. The vaccine production company has acknowledged these risks, leading to its temporary withdrawal from use in some countries.
-
-🟩
-
-Special Dr. Ananda Wijewickrama, Chairman of the National Records Authority, said that those who have taken the Astrazenica vaccine in Sri Lanka, one of the Corona vaccines, should not be afraid.
-
-The company that produced the vaccine has agreed that the astracenica vaccine has side effects in a case filed in Britain.
-
-With the vaccine, the pressure, blood clotting and thrombocytopenia (low platelet count, DTS / VIDD-in effects are life-threatening. Prosecutors also say that this includes stroke, brain damage, heart attacks, lung obstruction and organ removal.
-
-Subsequently, the Astrasenica vaccines prepared by the company were recovered.
-
-He said that the symptoms would not be affected in the future and that the vaccine would be soon.. Remble
-
-◼️
-
-[Data](articles/f3ece1d6.json)
-
-[Extended Data](ext_articles/f3ece1d6.ext.json)
-
----
-
-### Kandy Perahera hinders Kandy
-
-*2024-05-15 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196636) · `si`
-
-The Kandy Esala Perahera procession, including tamed elephants from the Sabaragamuwa Maha Saman Devalaya, faces delays due to auspicious elephant sections, affecting the schedule of the Dalada Maligawa Palace and four highways. The Tame Elephants Association (SSP) and the Secretary of the Elephant Orphanage have been notified about these changes.
-
-🟩
-
-During the Kandy Esala Perahera, the Tame Elephants Association (SSP) says that the procession of the Sabaragamuwa Maha Saman Devalaya during the Kandy Esala Perahera.
-
-Secretary to the Secretary of the Elephant in the Elephant Orphanage of Penshyna Elephant Orphanage is scheduled for the procession.
-
-"As a result of auspicious section of elephants in the Kandy Perahera, the Dalada Maliga Palace in Kandy and four highways have to face today. In particular, the Tame Ali Seymonal Association has made aware of this situation in particular. The president has been informed. "
-
-Diyawadana Niladhi Dela, Diyawadana Nilame, Pradeep Neelanga Dela, has been prepared by the Nita, "Nita".
-
-◼️
-
-[Data](articles/9f5fbe05.json)
-
-[Extended Data](ext_articles/9f5fbe05.ext.json)
-
----
-
-### Showery conditions expected to continue further
-
-*2024-05-15 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99222/showery-conditions-expected-to-continue-further) · `en`
-
-Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to continue further, the Meteorology Department said.
-
-Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
-
-Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
-
-Showers may occur in Western and Southern coastal areas during the morning too, it said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/a307c6dd.json)
-
-[Extended Data](ext_articles/a307c6dd.ext.json)
 
 ---

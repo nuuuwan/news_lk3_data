@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 02:33:52**
+As of **2024-05-16 02:51:55**
 
 ## Newspaper Stats
 
-*Scraped **24,301** Articles*
+*Scraped **24,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,423
+dailyftlk | 1,425
 adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,299 (100.0%) of 24,301 articles have been extended.
+24,301 (100.0%) of 24,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### IDB and Ceylon Federation of MSMEs sign historic MoU
+
+*2024-05-16 02:22:51* · [`dailyftlk`](https://www.ft.lk/business/IDB-and-Ceylon-Federation-of-MSMEs-sign-historic-MoU/34-761851) · `en`
+
+IDB Chairman Dr. Saranga Alahapperuma (right) and Ceylon Federation of MSME President Sashika de Silva with the copy of the MoU signed between the two organisations and their officials – Pic by Lasantha Kumara
+
+Marking a significant milestone for Sri Lanka’s entrepreneurial landscape, the Ceylon Federation of MSMEs and the Industrial Development Board (IDB) last week signed a momentous Memorandum of Understanding (MoU).
+
+IDB Chairman Dr. Saranga Alahapperuma and Ceylon Federation of MSMEs President Sashika De Silva were the signatories.
+
+De Silva said the Federation’s journey has been one of immense dedication and achievement, evident in the successful implementation of the Federation for Entrepreneurship.
+
+“This authentic platform has not only benefited entrepreneurs but has also positively impacted the broader community. The MoU with IDB signifies another crucial step towards realising the Federation’s strategic objectives,” she added.
+
+...
+
+[Data](articles/b3916bc6.json)
+
+---
+
+### National Chamber of Exporters bestows ‘Certificate of Ethical Trading’ on Alumex
+
+*2024-05-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-bestows-Certificate-of-Ethical-Trading-on-Alumex/34-761850) · `en`
+
+Alumex PLC, a subsidiary of Hayleys was awarded with the prestigious ‘Certificate of Ethical Trading’ by the National Chamber of Exporters of Sri Lanka (NCE) recently.
+
+The valuable certification acknowledges the company’s achievement of conforming to changing regulatory needs and consumer preferences through good practices related to trade, labour, ethical behaviour, environment and society. The NCE selects awardees based on fair treatment of workers, safe working conditions, respect for the environment and engagement with local communities. Through the certification, the NCE aims to promote ethical practices within the export sector and encourage more companies to adopt sustainable and responsible business practices. The certification not only benefits the companies, but also enhances Sri Lanka’s reputation as a responsible trading partner in the global market.
+
+...
+
+[Data](articles/be7c1551.json)
+
+---
 
 ### SLT-Mobitel Enterprise introduces unlimited voice calling
 
@@ -44,6 +78,8 @@ Voice communication stands as a cornerstone of any successful business operation
 
 [Data](articles/dfdef219.json)
 
+[Extended Data](ext_articles/dfdef219.ext.json)
+
 ---
 
 ### United Motors Lanka PLC announces appointment of Vish Govindasamy as Independent Non-Executive Director
@@ -55,6 +91,8 @@ Currently serving as the Sunshine Holdings PLC Deputy Chairman, Vish Govindasamy
 ...
 
 [Data](articles/0fb9e688.json)
+
+[Extended Data](ext_articles/0fb9e688.ext.json)
 
 ---
 
@@ -658,13 +696,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
-
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2247,53 +2285,5 @@ So, by a letter of NP/14/42 (2)/kPS/Sub/2020, they had withdrawn the case by ann
 [Data](articles/982a5004.json)
 
 [Extended Data](ext_articles/982a5004.ext.json)
-
----
-
-### Sriina Harbor to be taxed in 10 bills to the Colombo Port City
-
-*2024-05-15 13:08:03* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයේ-චයිනා-හාබර්-සමාගමට-පනත්-10-කින්-බදු-නිදහස-ඇතුළු-වරප්‍රසාද-රැසක්/11-409644) · `si`
-
-Sriina Harbor, part of China Harbor Engineering (Ceylon) Limited, will face 10 bills related to the Colombo Port City development. This decision, announced via a special gazette notification by President Ranil Wickremesinghe, aligns with the Casino Business Regulatory Act No. 17 of 2010. The move aims to nominate strategic business as a secondary business of importance, highlighting the company's contribution through its infrastructure and job creation. Despite facing these bills, the company benefits from various tax exemptions under the Finance Act No. 11 of 2002, VAT Act No. 24 of 2017, Customs Act No. 13 of 2009, and others, providing relief on income, profit, dividends, and import taxes.
-
-🟩
-
-China Harbor Engineering (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) LimitedPresident Ranil Wickremesinghe has issued a special gazette notification by President Ranil Wickremesinghe.
-
-However, Between No. 40 of 1988, Between No. 40 of 1988, the gazette notification is issued by the Casino Business Regulatory Act No. 17 of 2010.
-
-President of the Colombo Port City City City City City City Commission (CDITUS)I was released on the 9th of this month.
-
-Nominating the strategic business as a secondary business of importance of the strategy.The gazette notification has shown that is engaged.
-
-...
-
-[Data](articles/d46ce5be.json)
-
-[Extended Data](ext_articles/d46ce5be.ext.json)
-
----
-
-### Mother who entered the ordinary grade exam premises and attacked the students!
-
-*2024-05-15 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183588) · `ta`
-
-A mother attacked students at an exam center due to a long-standing feud between two student groups. The incident occurred during the GCE Ordinary Level Examination in Anuradhapura, leading to a tense atmosphere. Police intervened, issuing a severe warning to the attacker before releasing her on bail.
-
-🟩
-
-Police said that the school environment was a tense situation in the school environment due to the conflict between two students groups inside the Education Public Standards Complex on Tuesday (14).
-
-Police said that there was a conflict between two school student groups on Tuesday (14) as some students were visiting a popular school in Anuradhapura area to appear for the GCE Ordinary Level Examination.
-
-There has been a vote between the two sides since the beginning of the exam, and yesterday the mother of a student has broken into the exam premises and attacked the students, police said.
-
-Subsequently, police said that the suspect has been severely warned and released on bail.
-
-◼️
-
-[Data](articles/3106b37b.json)
-
-[Extended Data](ext_articles/3106b37b.ext.json)
 
 ---

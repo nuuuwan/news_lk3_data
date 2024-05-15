@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 08:11:26**
+As of **2024-05-15 08:18:44**
 
 ## Newspaper Stats
 
-*Scraped **24,119** Articles*
+*Scraped **24,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,057
-adaderanalk | 2,798
+adaderanalk | 2,799
 tamilmirrorlk | 2,827
-virakesarilk | 3,619
+virakesarilk | 3,621
 dailymirrorlk | 3,790
-adaderanasinhalalk | 3,854
+adaderanasinhalalk | 3,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,105 (99.9%) of 24,119 articles have been extended.
+24,105 (99.9%) of 24,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### මහනුවර ඇසළ පෙරහැරට බාධාවක්
+
+*2024-05-15 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196636) · `si`
+
+මහනුවර ඇසළ පෙරහර සමයේම සබරගමුව මහ සමන් දේවාලයේ පෙරහැර යෙදීම හේතුවෙන් අලි ඇතුන් සහභාගී කරවීමේ ගැටලුවක් මතුව ඇති බව හීලෑ අලි ඇතුන් හිමිකරුවන්ගේ සංගමය පවසයි.
+
+එහි ලේකම් දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේ, පිංනවල අලි අනාථාගාරයේ සිටින අතිරික්ත පිරිමි සතුන් රජයේ අයිතිය යටතේ පෙරහැර සඳහා යොදා ගැනීමට සැලසුම් කර ඇති බවය.
+
+"නැකැත් එකම කාලයේ යෙදීම නිසා පෙරහැරවල් දෙකට ම විශේෂයෙන් මහනුවර පෙරහැරේ අලි ඇතුන්ගෙන් කොටසක් සහභාගී වීම හේතුවෙන් අලි ඇතුන් සොයාගැනීමේ දුෂ්කරතාවයක් මහනුවර දළදා මාළිගාවට වගේම සිව් මහා දේවාලවලට අද මුහුණදීමට සිදුව තිබේ. විශේෂයෙන්ම මේ තත්ත්වය පිළිබඳව රජයේ වගකිව යුතු පිරිසට වරින් වර හීලෑ අලි ඇතුන් සංගමය විසින් දැනුවත් කිරීම් කළා. ජනාධිපතිවරයාවත් දැනුවත් කරලා තියෙනවා."
+
+ශ්‍රී දළදා මාලිගාවේ දියවඩන නිළමේ ප්‍රදීප් නීලංග දෑල මහතාගේ ඉල්ලීම පදිරි අත්ගොව්වන් පුහුණු කිරීමේ වැඩසටහනක් "නයිටා" ආයතනය මඟින් සූදානම් කර ඇති බව ද දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9f5fbe05.json)
+
+---
+
+### Showery conditions expected to continue further
+
+*2024-05-15 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99222/showery-conditions-expected-to-continue-further) · `en`
+
+Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to continue further, the Meteorology Department said.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
+
+Showers may occur in Western and Southern coastal areas during the morning too, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a307c6dd.json)
+
+---
 
 ### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
 
@@ -609,6 +647,34 @@ China immediately promised retaliation. Its Ministry of Commerce said Beijing wa
 ...
 
 [Data](articles/1e05d07e.json)
+
+---
+
+### திரைக்கதை மன்னன் கே. பாக்யராஜ் தொடங்கி வைத்த 'குற்றம் புதிது'
+
+*2024-05-15 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183567) · `ta`
+
+புதுமுக நாயகன் தருண் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'குற்றம் புதிது' எனும் திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது. அப்போது தமிழ் திரையுலகின் மூத்த இயக்குநர்களில் ஒருவரான கே. பாக்யராஜ் சிறப்பு அதிதியாக பங்கு பற்றி படக் குழுவினருக்கு வாழ்த்து தெரிவித்ததுடன் புதுமுக நாயகனான தருணை அறிமுகப்படுத்தினார்.
+
+அறிமுக இயக்குநர் ரஜித் இயக்கத்தில் உருவாகும் 'குற்றம் புதிது' எனும் திரைப்படத்தில் தருண், செஷ்வித்தா, மதுசூதன் ராவ், ராமச்சந்திரன், 'பாய்ஸ்' ராஜன், பிரியதர்ஷினி, ஸ்ரீநிதி, சங்கீதா, தினேஷ் செல்லையா, ஸ்ரீகாந்த், மீரா ராஜ், 'டார்லிங்' நிவேதா உள்ளிட்ட பலர் நடிக்கிறார்கள். ஜேசன் வில்லியம்ஸ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு கரண் பி. கிருபா இசையமைக்கிறார். திரில்லர் வகையிலான திரைப்படமாக தயாராகும் இப்படத்தை ஜி கே ஆர் சினி ஆர்ட்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் டொக்டர் எஸ். கார்த்திகேயன் மற்றும் தருண் கார்த்திகேயன் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+...
+
+[Data](articles/4c297136.json)
+
+---
+
+### இஸ்ரேலிய, டெல் ஹாஷோமர் இராணுவ தளத்தில் ஏற்பட்ட பாரிய தீ விபத்து
+
+*2024-05-15 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183566) · `ta`
+
+இஸ்ரேலிய, ரமாத் கானில் உள்ள டெல் ஹாஷோமர் ராணுவ தளத்தில் உள்ள கிடங்கு வளாகத்தில் பாரிய தீ விபத்தொன்று ஏற்பட்டுள்ளது.
+
+குறித்த தீயை அணைக்கும் பணியில் தீயணைப்பு வீரர்கள் ஈடுபட்டுள்ளனர். 28 தீயணைப்பு குழுக்கள் சம்பவ இடத்திற்குச் சென்றதாக தீயணைப்பு மற்றும் மீட்புப் பணிகள் கூறுகின்றன.
+
+◼️
+
+[Data](articles/4c1d36b6.json)
 
 ---
 
@@ -2081,103 +2147,5 @@ To cause such disruption and rejection is a violation of basic laws. At the same
 [Data](articles/3f8d7179.json)
 
 [Extended Data](ext_articles/3f8d7179.ext.json)
-
----
-
-### Decision on the ban on the LTTE
-
-*2024-05-14 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196622) · `si`
-
-The Indian government has extended the ban on the LTTE for 5 more years, citing their involvement in activities detrimental to the country's unity and security. Despite the LTTE's defeat in Sri Lanka in 2009, it continues to advocate for separatism, particularly in Tamil Nadu, India.
-
-🟩
-
-The Indian government has decided to extend the ban on the LTTE by another 5 years.
-
-The Ministry of Home Affairs has issued a statement.
-
-The decision states that the decision has been taken as their opinion that the LTTE terrorists engage in prejudicial activities of the country and protection are engaged in prejudice to the unity and security of the country.
-
-Foreign media reports that the LTTE has further abandoned the concept of 'Eelam' with the defeat of the LTTE in Sri Lanka in May 2009.
-
-The announcement states that the LTTE is also engaged in collaboration and operating for the LTTE's concept for the Eelam.
-
-The LTTE continues to promote its separatist opinion among the people in India as well as Tamil Nadu in India, especially Tamil Nadu.
-
-◼️
-
-[Data](articles/547d3163.json)
-
-[Extended Data](ext_articles/547d3163.ext.json)
-
----
-
-### Up in the sky...
-
-*2024-05-14 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Up-in-the-sky/110-282585) · `en`
-
-The Base Jump event from the Colombo Lotus Tower took place for third day today. A total of 35 International Base Jumpers exhibited their adrenaline-fueled skills. The event was launched on Sunday (12). Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/a355afe8.json)
-
-[Extended Data](ext_articles/a355afe8.ext.json)
-
----
-
-### India extended the ban on the LTTE
-
-*2024-05-14 17:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடையை-நீடித்தது-இந்தியா/175-337303) · `ta`
-
-India has extended the ban on the LTTE for five more years, citing ongoing efforts to foster separatism and expand support in Tamil Nadu. The Home Ministry asserts that the LTTE, despite its defeat in Sri Lanka in 2009, continues to threaten national integrity and security by secretly raising funds and advocating for an independent Tamil state.
-
-🟩
-
-India has extended the ban on the LTTE for another five years as it continues to develop separatism among the people and improves the LTTE's support base in India, especially in Tamil Nadu.
-
-The Home Ministry said in a statement that the central government considers the LTTE to still engage in adverse activities for the integrity and security of the country.
-
-Even after the defeat in Sri Lanka in May 2009, the LTTE has not abandoned the notion of 'Eelam' (independent country for Tamils) and has been working secretly for financial raising and Eelam.
-
-Propaganda and the rest of the LTTE leaders or members have begun to reunite scattered activists and raise the organization at home and internationally.
-
-“The LTTE -backed groups/components are continuing to develop separatism among the masses and promote the LTTE's support base in India and especially Tamil Nadu.
-
-This will eventually have a strong influence on India's regional integrity, ”the announcement said.
-
-◼️
-
-[Data](articles/1739c817.json)
-
-[Extended Data](ext_articles/1739c817.ext.json)
-
----
-
-### Sri Lanka to present Economic Transformation Bill
-
-*2024-05-14 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-economic-transformation-bill-163015/) · `en`
-
-ECONOMYNEXT – A proposed Economic Transformation bill will be gazetted shortly, cabinet spokesman Minister Bandula Gunawardena said.
-
-“The Legal Draftsmen has prepared the formal draft bill, including the revisions suggested by the Attorney General, which will be published in the government gazette notification.”
-
-It will subsequently be presented to the Parliament for its concurrence.
-
-The bill will establish an economic commission, investment zones and international trade office, Gunawardena said earlier.
-
-“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena has said.
-
-The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/May14/2024)
-
-Sri Lanka making new economic laws to embed structural reforms
-
-Sri Lanka economic transformation bill to establish commission, investment zones
-
-◼️
-
-[Data](articles/e7851dd1.json)
-
-[Extended Data](ext_articles/e7851dd1.ext.json)
 
 ---

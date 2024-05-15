@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 22:51:44**
+As of **2024-05-15 23:03:28**
 
 ## Newspaper Stats
 
-*Scraped **24,286** Articles*
+*Scraped **24,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
 adalk | 2,076
-adaderanalk | 2,819
+adaderanalk | 2,820
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,286 (100.0%) of 24,286 articles have been extended.
+24,286 (100.0%) of 24,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Indian travelers’ boycott of Maldives is helping Sri Lanka, says Tourism Minister
+
+*2024-05-15 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99242/indian-travelers-boycott-of-maldives-is-helping-sri-lanka-says-tourism-minister) · `en`
+
+Calls for Indian travelers to boycott the Maldives is “absolutely” helping Sri Lanka’s travel industry, the country’s Tourism Minister Harin Fernando said Wednesday.
+
+“The Maldives issue is … helping us,” Fernando told CNBC, referencing a social media row in January that resulted in a sharp drop in Indian visitors to the Maldives this year.
+
+India was the Maldives’ largest source market in 2023. But now it sits in 6th place, behind arrivals from China, Russia, the United Kingdom, Italy and Germany, according to Sri Lanka’s Ministry of Tourism.
+
+By contrast, nearly 34,400 Indian travelers went to Sri Lanka in January, more than double the 13,759 that visited in January last year, according to the Sri Lanka Tourism Development Authority. Arrivals in the first quarter of 2024 outpaced the same time period in 2023, despite a dip in April caused by a visa controversy that saw Sri Lankan visa temporarily double in price.
+
+...
+
+[Data](articles/dae2e911.json)
+
+---
 
 ### Quick mission surviving student from writing the Ordinary Level
 
@@ -374,7 +392,7 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
 
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
@@ -2347,25 +2365,5 @@ In addition, hundreds of policemen were mobilized to prevent those who tried to 
 [Data](articles/0a8b37b6.json)
 
 [Extended Data](ext_articles/0a8b37b6.ext.json)
-
----
-
-### Tense situation near Presidential Secretariat due to protest
-
-*2024-05-15 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99229/tense-situation-near-presidential-secretariat-due-to-protest) · `en`
-
-A tense situation has been reported near the Presidential Secretariat in Colombo due to a protest.
-
-The “Citizens’ Power Organization against Bribery, Corruption and Wastage” had organized a protest in front of the Presidential Secretariat this morning (15).
-
-As the protest commenced police officers had proceeded to remove the banners, sparking heated exchanges between law enforcement officers and the protestors.
-
-Subsequently, the protestors submitted a memorandum to the President’s Additional Secretary, Mr. Kapila Munasinghe, voicing their opposition to the decision to once again provide vehicle permits for Members of Parliament.
-
-◼️
-
-[Data](articles/84b2dd06.json)
-
-[Extended Data](ext_articles/84b2dd06.ext.json)
 
 ---

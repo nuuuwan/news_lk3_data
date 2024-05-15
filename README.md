@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 07:45:53**
+As of **2024-05-15 07:59:35**
 
 ## Newspaper Stats
 
-*Scraped **24,116** Articles*
+*Scraped **24,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,59 @@ dbsjeyarajcom | 248
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
-dailyftlk | 1,414
+dailyftlk | 1,415
 adalk | 2,057
 adaderanalk | 2,798
-tamilmirrorlk | 2,826
+tamilmirrorlk | 2,827
 virakesarilk | 3,619
 dailymirrorlk | 3,790
-adaderanasinhalalk | 3,853
+adaderanasinhalalk | 3,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,090 (99.9%) of 24,116 articles have been extended.
+24,090 (99.9%) of 24,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
+
+*2024-05-15 07:36:25* · [`dailyftlk`](https://www.ft.lk/business/KSPA-raises-benchmark-for-industry-sustainability-with-Carbon-Neutrality-Certification/34-761830) · `en`
+
+From left:  Anunine Holdings Sustainability Analyst Sithara Sewwandi, KSPA Packaging/KSPA Accessories CEO Nalin Anthony, Sri Lanka Climate Fund (SLCF) Chairman and  Environment Ministry Secretary  Prabhath Chandrakirthi, Anunine Holdings Group Director Sonali Abeyratne and Group Director  Saveen Abeyratne
+
+KSPA Packaging, an Anunine Holdings company, the nation’s leading export packaging provider and manufacturer, has achieved a significant milestone recently, by being awarded the Carbon Neutral Certification, which was certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka.
+
+"Our journey towards carbon neutrality and sustainability is a testament to our unwavering commitment to environmental stewardship and innovation, as leaders in the packaging industry.
+
+We recognize the importance of minimizing our environmental impact and are dedicated to driving positive change,” stated Anunine Holdings Chairman Deshamanya Anurath Abeyratne.
+
+...
+
+[Data](articles/ec833284.json)
+
+---
+
+### වෘත්තීය සමිති ක්‍රියාමාර්ග තීව්‍ර කිරීමට විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගෙන් තීරණයක්
+
+*2024-05-15 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196635) · `si`
+
+සිය ඉල්ලීම් ලබාදීම ප්‍රමාද කිරීම හේතුවෙන් සිය වෘත්තීය ක්‍රියාමාර්ග තවදුරටත් තීව්‍ර කිරීමට තීරණය කළ බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
+
+එහි  සම සභාපති ධම්මික ප්‍රියන්ත මහතා පවසුවේ, විශ්වවිද්‍යාල තුළ ස්වේච්ඡාවෙන් කටයුතු කරන සියලුම සේවාවලින් ඉවත් වීමේ ඒකමතික තීරණයකට එළඹී ඇති බවය.
+
+"විශේෂයෙන්ම ජලය හා විදුලිය සැපයීම අපි සම්පූර්ණයෙන්ම නතර කරනවා. ඒ වගේම අන්තර්ජාල පහසුකම් සැපයීමෙන් සම්පූර්ණයෙන්ම ඉවත් වෙනවා. මේ බිඳ වැටීම් එක්ක විශ්වවිද්‍යාල පද්ධතියේ බොහෝ දේවල් නතර වේවි. ඒ වගේම විශ්වවිද්‍යාල පද්ධතිය තුළ රසායනාගාර මට්ටමේ පවත්වාගෙන යන සාම්පල විනාශ වීම සම්බන්ධයෙන් වගකීම සම්පුර්ණයෙන්ම රජයේ බලධාරීන් දැරිය යුතුයි. මෙවැනි අපරාධයක් විශ්වවිද්‍යාල පද්ධතියට සිදුවන්නේ, මේ රජයේ ක්‍රියාකලාපය නිසයි. තවදුරටත් පාලනාධිකාරීය මඟහරිනවා නම් අපි ස්වෙච්ඡාවෙන් විශ්වවිද්‍යාලයේ පවත්වාගෙන යන සංවේදී කටයුතු ගැනත් නැවත හිතන්න."
+
+විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිසමේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා සඳහන් කළේ, ළමුන්ගේ අධ්‍යාපනය පිළිබඳ අවධානය යොමුකර සේවයට පැමිණෙන ලෙස සියලු සේවකයින්ගෙන් ඉල්ලා සිටින බවය.
+
+...
+
+[Data](articles/8ad950cc.json)
+
+---
 
 ### එන්නත් 8ක් සුපරීක්ෂණ කාලයකින් තොරව ලියාපදිංචි කිරීම නීතියට පටහැනි බව හෙළිවෙයි
 
@@ -653,6 +689,22 @@ SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was
 ...
 
 [Data](articles/1b5c3513.json)
+
+---
+
+### ’புதிய விவசாய வர்த்தகத்துறை அவசியம்’
+
+*2024-05-15 00:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-விவசாய-வர்த்தகத்துறை-அவசியம்/175-337318) · `ta`
+
+பாரம்பரிய பெருந்தோட்டக் கைத்தொழிலுக்குப் பதிலாக புதிய விவசாய வர்த்தகத் துறையொன்றை நாட்டில் உருவாக்கி, நாட்டை பொருளாதார ரீதியாக முன்னோக்கி கொண்டு செல்வதற்கு நாம் செயற்பட்டு வருகின்றோம் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அதுருகிரிய தேசிய தோட்ட முகாமைத்துவ நிறுவனத்தின் புதிய கல்வி மற்றும் நிர்வாக கட்டிடத்தை நேற்று காலை திறந்து வைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
+
+தற்போது விவசாயத்தை பலப்படுத்த வேண்டியது அவசியமாகிறது. அதனால் நாம் தோட்டங்களை விவசாய வர்த்தகமாக மாற்றி உற்பத்தியை பலப்படுத்த வேண்டும். தேயிலை மற்றும் இறப்பர் செய்கையை ஊக்குவிக்க வேண்டும். அதற்கான சந்தை வாய்ப்புக்களைப் பெற்றுக்கொள்ள வேண்டும். இன்று எமது தேயிலை தொழில் பன்முகப்படுத்தப்பட்டுள்ளது. பல நிறுவனங்கள் அதனை சாதகமாக செய்கின்றன.
+
+...
+
+[Data](articles/fedec7f9.json)
 
 ---
 
@@ -2091,73 +2143,5 @@ Sri Lanka economic transformation bill to establish commission, investment zones
 [Data](articles/e7851dd1.json)
 
 [Extended Data](ext_articles/e7851dd1.ext.json)
-
----
-
-### Sasikumar - Suri Alliance
-
-*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183545) · `ta`
-
-Sasikumar and Suri, titled 'Village Nayakars', announced in 'Garuda' film release. Directed by Durai Senthil Kumar, with music by Yuvan Shankar Raja. Produced by Lark Studios and Cross Root Film Company. Unni Mukundan stars, with Suri as the hero and villain.
-
-🟩
-
-Sasikumar and Suri, who belonged to the title of 'Village Nayakars', has been officially announced on the release date of the film 'Garuda', which has been released and a special video has been released.
-
-Director r. S.. Sasikumar, Suri, Unni Mukundan, Revathi Sharma, Shivada, Roshini Haripriyan, Samudrakani, Maim Gopi, Dushyant Jayaprakash, directed by Durai Senthil Kumar.. Arthur A. The film, which has been recorded by Wilson, has composed the film Yuvan Shankar Raja.
-
-The film is written by director Vijayamaran on behalf of Lark Studios.. Kumar has produced. The film is being offered by Victory Maran's Cross Root Film Company and 'Five Star' Senthil.
-
-The film has been announced on May 31 at the film House.. As well as the release of Malayalam actor Unni Mukundan in the special video, Suri is the villain and Suri is the hero of revenge.. Expectations among fans for the film have increased.
-
-◼️
-
-[Data](articles/07a0ff2a.json)
-
-[Extended Data](ext_articles/07a0ff2a.ext.json)
-
----
-
-### Modern thermal radiation therapy that relieves varicose nerve impact
-
-*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183546) · `ta`
-
-Modern thermal radiation therapy, like Endovenous Laser Therapy, offers relief for varicose nerve issues, affecting many who work long hours. This treatment involves a small procedure to heat and eliminate the infection in the affected nerve area, improving blood flow and reducing discomfort. It's a welcome solution for patients, offering quick recovery and minimal downtime.
-
-🟩
-
-Many of us continue to work for more than five to eight hours a day. Most of them have a varicose nerve infection in their ankles and foot.
-
-If this is easy to describe, the blood is pumped from the heart of all parts of our body with a balanced force.
-
-Because of this, the blood that spreads throughout the body comes back to the heart. The blood vessel system is naturally in our body that we have one path to the body from the heart and another path to the heart from the other part of the body.
-
-In this case, the blood that runs up to the quarter of the area is contaminated, and when they are weak, the contaminated blood is stagnant when they are weak, or when they are weak, or weak, due to various disturbances or due to various disturbances or exclusive blood vessels.. This causes the skin in the quarter and ankle area in the end. It also makes the nerves and causes discomfort and sickness.
-
-...
-
-[Data](articles/31b575e0.json)
-
-[Extended Data](ext_articles/31b575e0.ext.json)
-
----
-
-### Landslide warning
-
-*2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
-
-The National Building Research Organization has issued landslide warnings for Badulla, Kandy, Kegalle, and Ratnapura districts due to heavy rains, advising caution.
-
-🟩
-
-The National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
-
-He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ratnapura districts.
-
-◼️
-
-[Data](articles/16e338a5.json)
-
-[Extended Data](ext_articles/16e338a5.ext.json)
 
 ---

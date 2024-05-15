@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 00:33:46**
+As of **2024-05-16 00:49:38**
 
 ## Newspaper Stats
 
-*Scraped **24,290** Articles*
+*Scraped **24,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,48 @@ adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,857
 virakesarilk | 3,650
-dailymirrorlk | 3,811
+dailymirrorlk | 3,813
 adaderanasinhalalk | 3,877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,290 (100.0%) of 24,290 articles have been extended.
+24,290 (100.0%) of 24,292 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-16 (Thursday)
+
+### Stolen Assets Recovery Framework: There is much room for improvement
+
+*2024-05-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Stolen-Assets-Recovery-Framework-There-is-much-room-for-improvement/172-282665) · `en`
+
+The rallying call for recovering stolen assets during the 2022 protests is still fresh in our minds. If the Abacha loot could be returned to Nigeria by Switzerland, could Sri Lanka not do the same?
+
+In response to the protests and building on the work done by experts over many years, the agreement between the Government of Sri Lanka (GoSL) and the IMF now contains a structural benchmark where the GoSL has committed to enact a Proceeds of Crime Act (POCA) in keeping with international standards by April 2024.
+
+In March 2023, the Minister of Justice appointed a committee chaired by Supreme Court Justice Yasantha Kodagoda. Dated April 10, 2024, the182-page report of the POCA Committee, now available on the website of the Ministry of Justice, sets out a framework for an upcoming Proceeds of Crime Act.
+
+The current framework is a good start with room for improvement
+
+...
+
+[Data](articles/63e80b7a.json)
+
+---
+
+### Family is the first essential cell of human society
+
+*2024-05-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Family-is-the-first-essential-cell-of-human-society/172-282664) · `en`
+
+Families stay together if they regularly pray or meditate together. This is a hallowed philosophy that goes a long way to show that good families make good societies and countries. We need to see unity in diversity in families with none dominating or having his/her way. Family members need to be sacrificial and forgiving, embodying values of love, peace, joy, patience, kindness, humility, gentleness and meekness. Some believe the husband is the head of the family and must take the final decision on important issues, but this has been proven to be wrong. The right way is a collective decision by the husband, wife and grown up children. If all family members have an attitude of foot-washing service to others, it will set a good example to the neighbourhood and provide a solid base for the country of good citizens who are concerned not only about themselves, but about the future of the country and the future generations.
+
+...
+
+[Data](articles/7b6d7765.json)
+
+---
 
 ### 2024-05-15 (Wednesday)
 
@@ -470,13 +502,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
-
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2323,57 +2355,5 @@ Later, it was noteworthy that the demonstrators handed over a petition to the Pr
 [Data](articles/fd5b2d32.json)
 
 [Extended Data](ext_articles/fd5b2d32.ext.json)
-
----
-
-### Special Notification on Astraceneka Vaccine
-
-*2024-05-15 12:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்ட்ராசெனெக்கா-தடுப்பூசி-குறித்து-விசேட-அறிவித்தல்/175-337354) · `ta`
-
-Health experts reassure Sri Lanka about Astraceneka vaccine safety, noting rare side effects don't negate its protective benefits.
-
-🟩
-
-Sri Lankan health experts have urged that people who have received the Astraceneka vaccine do not need unnecessary fear of its safety after the astraceneka vaccines have been withdrawn due to the concerns of thrombosis.
-
-Speaking to the media, Dr. Ananda Wijewickrama, Chairman of the National Medical Drugs Regulatory Commission, stated that the Astrazeneca manufacturer agreed that the problems caused by the vaccine were very rare.
-
-He underlined that these rare problems did not indicate the adverse effects of the future, which ensures the overall protection of the vaccine.
-
-◼️
-
-[Data](articles/4a1df7cc.json)
-
-[Extended Data](ext_articles/4a1df7cc.ext.json)
-
----
-
-### The latest revelation of our war heroes who died in the Russian-Ukrainian war during the war
-
-*2024-05-15 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196644) · `si`
-
-Sri Lanka's Defense Minister revealed that 16 citizens were killed in the Russian-Ukrainian conflict, with 288 complaints about recruitment. The minister criticized the lack of transparency in contracts and translations. The Defense Secretary sought a list of deceased and details of mercenaries from the Russian Ambassador, promising to honor them if alive. The Sri Lankan Ambassador in Russia offered assistance.
-
-🟩
-
-Defense Minister Linea Bandara Tennakoon says that 16 Sri Lankans have been killed in the Russian Ukrainian war have been killed.
-
-The Minister said 288 complaints have been received regarding Sri Lankans who joined the war.
-
-Defense Minister Pishy Bandara made the advertisement to recruit Sri Lankans to the Russian military service.
-
-"We've got a lot of ads like this. And they have contracted their contract. The agreement is issued in the Russian language. The Sinhala translation of it is that Google has done a Google Translation. "
-
-Q: Did you communicate the death of those who went to Russia?
-
-"According to my information, the number of people have been confirmed to 16."
-
-Meanwhile, Defense Secretary Retired General Kamal Gunaratne said that the Russian Ambassador had requested the Sri Lankans who had gone to Russian Ukrainian war.
-
-...
-
-[Data](articles/d2275af6.json)
-
-[Extended Data](ext_articles/d2275af6.ext.json)
 
 ---

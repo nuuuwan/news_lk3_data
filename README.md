@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 09:53:00**
+As of **2024-05-15 10:04:41**
 
 ## Newspaper Stats
 
-*Scraped **24,135** Articles*
+*Scraped **24,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,059
 adaderanalk | 2,801
-tamilmirrorlk | 2,830
+tamilmirrorlk | 2,833
 virakesarilk | 3,621
 dailymirrorlk | 3,792
-adaderanasinhalalk | 3,858
+adaderanasinhalalk | 3,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,133 (100.0%) of 24,135 articles have been extended.
+24,135 (100.0%) of 24,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### நாட்டைவிட்டு வெளியேறவில்லை: டயானா
+
+*2024-05-15 09:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டைவிட்டு-வெளியேறவில்லை-டயானா/175-337338) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே பிரித்தானியாவுக்கு இடம்பெயரத் திட்டமிட்டுள்ளதாக வெளியான செய்திகளை இன்று (15) மறுத்துள்ளார்.
+
+“டயானா தனது தாய் நாட்டிற்குத் திரும்பப் போகிறார்” என்ற தலைப்பில் வெளியான செய்திகளுக்கு மறுப்பு வெளியிட்ட அவர், “இது எனது தாய்நாடு” என்று கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/d771f557.json)
+
+---
+
+### மாடியில் இருந்து விழுந்து பெண் உயிரிழப்பு
+
+*2024-05-15 09:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்து-பெண்-உயிரிழப்பு/175-337336) · `ta`
+
+கம்பளை பொலிஸ் பிரிவிற்குட்பட்ட பிஹில்லதெனிய பிரதேசத்தில் வீடொன்றின் முதல் மாடியில் இருந்து விழுந்த பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/bb2a518a.json)
+
+---
+
+### வாகனங்களை ஒப்படைத்தார் டயானா
+
+*2024-05-15 09:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-ஒப்படைத்தார்-டயானா/175-337335) · `ta`
+
+முன்னாள் சுற்றுலா இராஜாங்க அமைச்சர் டயானா கமகே தனது உத்தியோகபூர்வ வாகனங்கள் மூன்றை கடந்த 10ஆம் திகதி அதிகாரிகளிடம் கையளித்துள்ளார்.
+
+இரட்டைக் குடியுரிமை விவகாரத்தில் டயானா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி உயர் நீதிமன்றத்தால் ரத்து செய்யப்பட்டது.
+
+இதனால், அரசிடம் இருந்து பெற்ற வாகனங்கள் உட்பட அனைத்து சொத்துகளையும் அவர் ஒப்படைக்க வேண்டும்.
+
+◼️
+
+[Data](articles/a5f77961.json)
+
+---
 
 ### University non-academic staff to intensify their strike action
 
@@ -46,29 +88,51 @@ Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyan
 
 [Data](articles/5d67dc6e.json)
 
+[Extended Data](ext_articles/5d67dc6e.ext.json)
+
 ---
 
-### සිංගප්පුරුවේ යුගයක නිමාව
+### නිවසක පළමු මහලෙන් ඇද වැටී කාන්තාවක් මරුට
+
+*2024-05-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196640) · `si`
+
+ගම්පොළ පොලිස් වසමේ පිහිල්ලදෙණිය ප්‍රදේශයේ කාන්තාවක් නිවසක පළමු මහළින් ඇද වැටී ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (14) සවස් කාලයේ දී එම අනතුර සිදුව ඇති බවට තොරතුරු ලැබුණු බවය.
+
+◼️
+
+[Data](articles/93a3ae4d.json)
+
+---
+
+### End in Singapore
 
 *2024-05-15 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196639) · `si`
 
-ඉතා දීර්ඝ කාලයක් සිංගප්පුරුව පාලනය කළ අග්‍රාමාත්‍ය "Lee Hsien Loong" සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ. ඒ සමගම එරට දේශපාලනයේ එක් පරිච්ඡේදයක් නිමාවට පත්වන බව දේශපාලන විචාරකයෝ පවසති.
+After 20 years leading Singapore, PM Lee Hsien Loong steps down, marking the end of an era. His successor, Lawrence Wong, takes charge. This transition follows the footsteps of only three PMs since Singapore gained independence in 1965. The departure signifies a shift away from the "Lee Family" influence, with Lee expressing satisfaction in his service: "I didn't try to run faster than others; I ran my race."
 
-වසර විස්සක් සිංගප්පුරුව පාලනය කිරීමෙන් අනතුරුව ලී සිය බලතල අද රාත්‍රියේ එරට නියෝජ්‍ය අගමැති සහ මුදල් අමාත්‍යවරයා ලෙස කටයුතු කරන ලෝරන්ස් වොන්ග් ට භාරදීමට නියමිතය.
+🟩
 
-සිංගප්පුරුව නිදහස් දේශයක් බවට පත්වූයේ 1965 දීය. එතැන් සිට මේ දක්වා වූ වසර 59ට එරට පාලනය කර ඇත්තේ අගමැතිවරු තිදෙනෙක් පමණි.
+Prime Minister's Prime Minister 'Lee Hsien Loong "has decided to resign for a long time. At the same time, political commentators say one chapter of politics will end.
 
-එරට පළමු අගමැති වූයේ ලී ක්වාන් යූ ය. ඔහු වර්තමාන අගමැතිවරයාගේ පියා වන අතර සිංගප්පුරුව වසර 25 පාලනය කළ ඔහු සැලකෙන්නේ නූතන සිංගප්පුරුවේ නිර්මාතෘවරයා ලෙසට ය.
+Twenty years after the controlling Singapore, his powers will be handed over to 'Lawrence Vong tonight.
 
-දේශපාලන විචාරකයින් පවසන්නේ මෙම බල හුවමාරුවත් සමගම එරට දේශපාලන නායකත්වය "ලී පවුලේ" සෙවනැල්ලෙන් මිදීමක් ලෙස දැක්විය හැකි බවයි.
+Singapore became a free land in 1965. Only three Prime Ministers have been ruled by 59 years since then.
 
-එහෙත් වර්තමාන අගමැතිවරයා එරට කැබිනට් මණ්ඩලයේ ඡ්‍යේෂ්ඨ අමාත්‍යවරයෙක් ලෙස කටයුතු කිරීමට නියමිතය.
+The first Prime Minister of the country was the wood Quan. He is the father of the Prime Minister of the Prime Minister and he is considered the founder of modern Singapore.
 
-අග්‍රාමාත්‍යවරයා ලෙස සිය අවසන් මාධ්‍ය හමුවට සති අන්තයේ මුහුණදුන් ලී, තමාට දුන් සහාය සම්බන්ධයෙන් සිංගප්පුරු වැසියන්ට සිය ප්‍රණාමය පුද කළේය.
+Political commentators say that the political leadership of the country can be redeemed as a redemption from the "Lee Family" shadow.
+
+However, the current Prime Minister is due to be a bogt minister of the Cabinet of the Cabinet.
+
+Lee, who faced the Prime Minister as the Prime Minister, he paid his pleasure to the people of Singapore regarding his last press conference.
 
 ...
 
 [Data](articles/05ac7b11.json)
+
+[Extended Data](ext_articles/05ac7b11.ext.json)
 
 ---
 
@@ -2113,111 +2177,5 @@ The Committee on Public Finance was given when the Committee met with Hon. (Dr.)
 [Data](articles/e237b622.json)
 
 [Extended Data](ext_articles/e237b622.ext.json)
-
----
-
-### New agricultural movement instead of old plantation industry
-
-*2024-05-14 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196624) · `si`
-
-President Ranil Wickremesinghe emphasizes the shift from the traditional plantation industry to a new agricultural sector to boost the country's economy. He highlights the introduction of new technical management in the plantation sector and the importance of developing traditional crops like cocoa and cinnamon. The goal is to modernize agriculture, increase production, and create an export economy, addressing poverty and preparing for a growing population.
-
-🟩
-
-පැරණි වැවිලි කර්මාන්තය වෙනුවට නව කෘෂි ව්‍යාපාරයක් රටතුළ ඇති කරමින් රට ආර්ථික වශයෙන් ඉදිරියට ගෙන යාමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-The President said that the new technical management is being introduced to the plantation sector.
-
-President Ranil Wickremesinghe was speaking at the opening ceremony of the new studies and administrative building at the National Plantation Management Board of Athurgiriya.
-
-Since 1978, a training body for the plantation industry was held in 1978. MDH. The land required to create such a training institute in this area of Jayawardene. This area was not so urban then. Naveen Dissanayake, Minister of Plantation Industries, was appointed as the Minister of Plantation Industries in 2016 to establish this institution.. ඉන්පසුව පත් වූ වැවිලි කර්මාන්ත අමාත්‍යවරුන් මෙම වැඩපිළිවෙළ ඉදිරියට ගෙන ආවා.
-
-...
-
-[Data](articles/e0199b7b.json)
-
-[Extended Data](ext_articles/e0199b7b.ext.json)
-
----
-
-### Risk alert to 4 districts
-
-*2024-05-14 19:08:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-337304) · `ta`
-
-Heavy rains trigger landslide warnings in Badulla, Kandy, Kegalle, and Ratnapura districts. National Building Research Institute advises caution.
-
-🟩
-
-Four districts have been warned of landslides due to heavy rains across the country.
-
-Accordingly, the National Building Research Institute has issued a warning to many parts of Badulla, Kandy, Kegalle and Ratnapura districts.. Remble
-
-◼️
-
-[Data](articles/99756dbc.json)
-
-[Extended Data](ext_articles/99756dbc.ext.json)
-
----
-
-### Health Sector Notifies the Vaccine Revisible from the Cowid
-
-*2024-05-14 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196623) · `si`
-
-The Health Sector has recommended the re-evaluation of the Covid vaccine, addressing concerns raised by the Divisional Secretariat. Dr. Ananda Wijewickrama, Chairman of the National Drug Regulatory Authority, assures Sri Lankans that the Covishield vaccine is safe and effective. The vaccine, developed by the University of Oxford, has the potential to save over 6 million lives in its first year. However, there have been rare side effects reported, including blood clotting issues, leading to its temporary suspension in some countries. The Sri Lankan Epidemiology Unit has administered the first dose to 1,479,631 people, with the second dose underway. The Government Medical Officers Association reassures that the vaccine is safe for Sri Lankans.
-
-🟩
-
-The company has an opinion in front of the vaccine in a reputable environment for the interrogation of the Divisional Secretariat for the administration of the Covid Epidemic.
-
-However, Chairman of the National Drug Regulatory Authority Dr. Ananda Wijewickrama says that the people of Sri Lanka should not be able to fear the Covery - Cowishield Vaccine.
-
-The injection made for control of the covard epidemic is a great support for the control of it.
-
-The scientists of the University of Oxford were able to enable the construction of the countries to covered the daily activities of countries.
-
-According to Estnnaka, 3 billion of the dose of the vaccine in the first year, and it was able to rescue more than 6 million lives.
-
-In the context of another covard vaccines, the US did not approval of the process of sustaining blood to clot the blood.
-
-However, the company recently decided to remove the vaccine distribution three years after the use of Aetnaka Vaccine.
-
-...
-
-[Data](articles/fe1a4c7f.json)
-
-[Extended Data](ext_articles/fe1a4c7f.ext.json)
-
----
-
-### Bangladesh team captain in T20 World Cup
-
-*2024-05-14 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/183556) · `ta`
-
-Najmul Hossain Shanto Santo Ri 20 is Bangladesh's new captain across all cricket formats. Bangladesh won 4-1 against Zimbabwe in a recent T20 series. The Bangladesh Cricket Board announced a 15-member squad for the T20 World Cup, including Shakib Al Hasan, who returned to international T20 cricket after a year. Young fast bowler Tancim Hasan Sakip was also included. Bangladesh will compete against South Africa, Sri Lanka, the Netherlands, and Nepal in the ICC men's T20 World Cup next month in the United States and the West Indies, with their first match against Sri Lanka on June 7 in Dallas.
-
-🟩
-
-Najmul Hosain Shanto Santo Ri 20 has been appointed as the captain of the Bangladesh team in all kinds of cricket.
-
-Bangladesh won by 4 - 1 in the recent International T20 cricket series against Zimbabwe.
-
-Following this, the Bangladesh Cricket Board today announced the Group of 15 players in honor of the T20 World Cup.
-
-Shakib Al Hasan, an experienced all -rounder and former team captain, has been joined by the group.
-
-He has returned to international T20 cricket after almost a year.
-
-He played the last two international T20 cricket matches against Zimbabwe and took 4 wickets in the fourth match.
-
-All the players who have been recruited in the T20 World Cup of Bangladesh are continuously playing in international T20 cricket.
-
-Young fast bowler Tancim Hasan Sakip has been included in the squad in two matches against Zimbabwe.
-
-...
-
-[Data](articles/c0ff207a.json)
-
-[Extended Data](ext_articles/c0ff207a.ext.json)
 
 ---

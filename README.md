@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 21:33:41**
+As of **2024-05-15 21:52:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,283 (100.0%) of 24,284 articles have been extended.
+24,284 (100.0%) of 24,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### බිරිඳ බේරගන්න යුක්‍රේනයට එරෙහිව යුද වැදුණු අපේ එරන්දගේ කඳුළු කතාව
+### The story of our Eranda who warned Ukraine to save his wife
 
 *2024-05-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196657) · `si`
 
-රුසියානු මිනිස් ජාවාරමට හසුවී දැඩි දුෂ්කරතාවයන්ට ලක්වූ පුද්ගලයෙකු පිළිබඳව පුවතක් කුරුණෑගල කුඹුක්ගැටේ ප්‍රදේශයෙන් වාර්තාවෙයි.
+Eranda Chinthaka Tennakoon, from Sri Lanka, was killed in Russia during a conflict. He worked there but was shocked by the war. After being shot, he was treated in Kurunegala Teaching Hospital. Despite needing surgery for leukemia, he left his wife behind in March before returning home.
 
-එරන්ද චින්තක තෙන්නකෝන් නම් ඔහු යුධ බිමේදී වෙඩි වැදී යළි මෙරටට පැමිණ තිබුණේ ඉකුත් 9 වැනිදාය.
+🟩
 
-ඔහු අද දෙරණට පැවසුවේ රුසියාවේ වෙනත් රැකියාවක නියැලෙමින් සිටියදී රුසියානු කුලී හමුදාවට එක්ව යුදබිමේදී හිසට වෙඩිවැදුණු බවය.
+The news of a person who has been severely discontinued in the Russian human driver is reported from Kumbukotte area in Kurunegala.
 
-මින් දෙදිනකට පෙර කුරුණෑගල ශික්ෂණ රෝහලේදී ඔහු සැත්කමකට භාජනය කර තවමත් ප්‍රතිකාර ලබමින් පසුවෙයි.
+Eranda Chinthaka Tennakoon was shot dead on the battlefield and returned to Sri Lanka on the 9th.
 
-රුසියානු යුධ බිමේදී එරන්දගේ නළලට වෙඩි වැදීමත් සමග ඔහු රෝහල් ගත කර තිබූ අතර එහිදී ඔහු රෝහලෙන් පැනගොස් සිය මිතුරෙක් මාර්ගයෙන් මෙරටට පැමිණ තිබේ.
+He told Ada Derana that while working in another job in Russia, he was shocked to the Russian Rental Army.
 
-ලියුකේමියා රෝගයකින් පෙළුණු සිය බිරිඳගේ ශල්‍යකර්මය සඳහා මුදල් සොයාගැනීමේ අරමුණින් එරන්ද රුසියානු කුලී හමුදාවට බැඳුනත්, ඔහු මෙරටට පැමිණීමටත් පෙර පසුගිය මාර්තු මාසයේදී බිරිඳ මෙලොවින් සමුගෙන තිබුණි.
+He is surgery at Kurunegala Teaching Hospital and still receiving treatment.
+
+He had been hospitalized after he was shot dead by the Indian forefront of the Russian battlefront and he had escaped from the hospital.
+
+Although he joined his wife's surgery for the surgery of a leukemia, he had left his wife in March before he visited Sri Lanka.
 
 ◼️
 
 [Data](articles/9074b8f9.json)
+
+[Extended Data](ext_articles/9074b8f9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 18:12:11**
+As of **2024-05-15 18:23:37**
 
 ## Newspaper Stats
 
-*Scraped **24,238** Articles*
+*Scraped **24,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,815
 tamilmirrorlk | 2,852
 virakesarilk | 3,639
 dailymirrorlk | 3,810
-adaderanasinhalalk | 3,872
+adaderanasinhalalk | 3,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,236 (100.0%) of 24,238 articles have been extended.
+24,238 (100.0%) of 24,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ඉම්රාන් ඛාන්ට ඇප
+
+*2024-05-15 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196654) · `si`
+
+සිර දඬුවම් ලබා සිටින පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන්ට එරෙහිව පවතින තවත් එක් නඩුවක් සම්බන්ධයෙන් ඔහුට ඇප නියමවී තිබේ.
+
+ඒ ඉඩම් වංචාවක් සම්බන්ධයෙන් ඔහුට එරෙහිව එල්ල වී තිබූ චෝදනාවකට අදාළවය.
+
+හිටපු අගමැති ඛාන් පාකිස්තානයේ අගමැතිව සිටි කාලයේ දී නීති විරෝධී උපකාර සඳහා ත්‍යාග වශයෙන් දේපොළ වෙළෙඳාම්කරුවෙකු ලබාදුන් ඉඩම් සම්බන්ධයෙන් ඔහුට චෝදනා ගොනු වී තිබුණි.
+
+හිටපු අගමැති ඛාන් ඉස්ලාමාබාද් අධිකරණය හමුවේ ඇප ඉල්ලුම් කළේ එම චෝදනා ප්‍රතික්ෂේප කරමිනි.
+
+පසුගිය අගෝස්තු මාසයේ සිට සිරගතව සිටින හිටපු අගමැතිවරයාට මෙලෙස ඇප නියම වුවත් තවත් නඩු දෙකකට අදාළව ඔහුට සිර දඩුවම් නියමව පවතින හෙයින් සිරගතව සිටින අගමැතිවරයාට මෙම ඇප හිමිවීම හරහා තවදුරටත් නිදහස් නොවනු ඇත.
+
+◼️
+
+[Data](articles/408b7a8f.json)
+
+---
 
 ### Army Commander obtains order against YouTube channel under Online Safety Act
 
@@ -48,23 +68,35 @@ The respondent parties were ordered to show cause under Section 24(6) of the Act
 
 [Data](articles/25d8fef2.json)
 
+[Extended Data](ext_articles/25d8fef2.ext.json)
+
 ---
 
-### பணிப்பெண்ணின் 13 இலட்சம் ரூபாய் ஏப்பம்
+### 13 lakhs of rupees of the maid
 
 *2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ரூபாய்-ஏப்பம்/76-337369) · `ta`
 
-குவைட்டில் இரண்டு வருடங்களாக பணிப்பெண்ணாக  பணியாற்றி அரச வங்கியில் வைப்பிலிட்ட 13, 44, 000  (பதின்மூன்று இலட்சத்து நாற்பத்தி நான்காயிரம்)  ரூபாய் பணம் மாயமான சம்பவம் பொகவந்தலாவை பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு உரிய வங்கிக்கணக்கில் இடம்பெற்றுள்ளது.
+A maid in Kuwait, Nithyajodiamma Sundaralingam, earned 13,44,000 rupees over two years and deposited it in a bank in Bogawantalawa. Upon returning to Sri Lanka in 2024, she discovered only 1,046 rupees in her account. Investigations led to the recovery of 13,44,858 rupees from various banks but raised suspicions about unauthorized withdrawals. The case involves missing documents and a dispute over identity verification, highlighting issues with remote banking security and fraud prevention.
 
-பொகவந்தலாவை, பொலிஸ் பிரிவுக்கு உட்பட்ட எல்பட கீழ் பிரிவை சேர்ந்த நித்தியஜோதியம்மா சுந்தரலிங்கம்  என்பவருக்குச் சொந்தமான பணமே இவ்வாறு மாயமாகியுள்ளது.
+🟩
 
-குடும்ப வறுமைக்காரணமாக 2022 ஆம் ஆண்டு வெளிநாட்டிற்கு வீட்டுப்பணிப்பெண்ணாக வேலைக்குச் சென்ற இப்பெண் (நித்தியஜோதியம்மா சுந்தரலிங்கம்) , தனது மாதாந்த சம்பளத்தை அரச வங்கியொன்றில் வைப்பு செய்துள்ளார்.
+13, 44, 000 (thirteen hundred and forty -four thousand rupees), who worked as a maid in Kuwait for two years, had taken a bank account for a woman from Bogawantalawa.
 
-இரண்டு வருடங்கள் வெளிநாட்டில் வேலை செய்து விட்டு 2024 ஏப்ரல் 28 ஆம் திகதி நாடு திரும்பியுள்ளார். இரண்டு நாட்கள் கழித்து ஏப்ரல் 30 ஆம் திகதியன்று குறித்த வங்கிக்குச் சென்று  பணத்தை மீளப்பெறுவதற்கான சிலிப்பை நிரப்பி கொடுத்துள்ளார்.
+The money belonging to Nithyajodiamma Sundaralingam, a lower section of the police division, belonging to the Bogawantalawa, police division.
+
+The woman (Nithyjodiamma Sundaralingam), who went to work as a homework in 2022 as a family poverty, has deposited her monthly salary at a state bank.
+
+He returned to the country on April 28, 2024 after leaving work abroad for two years. Two days later, on April 30, he went to the bank and filling the money to recover the money.
+
+The large amount of money written in Chilip is not in the account and that the bank has only Rs 1,046, the bank official said.
+
+Bank officials said that 13 lakhs 44 thousand 858 rupees had been recovered from the bank account.
 
 ...
 
 [Data](articles/3d0cc9b5.json)
+
+[Extended Data](ext_articles/3d0cc9b5.ext.json)
 
 ---
 
@@ -2319,23 +2351,5 @@ Loans and advances to customers were up 1.65 percent to 1,224 billion rupees, am
 [Data](articles/d55733d0.json)
 
 [Extended Data](ext_articles/d55733d0.ext.json)
-
----
-
-### Immigration and Emigration officials fail to attend COPF meeting
-
-*2024-05-15 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-and-Emigration-officials-fail-to-attend-COPF-meeting/108-282622) · `en`
-
-Colombo, May 15 (Daily Mirror) - Officials of the Immigration and Emigration Department failed to attend the meeting of the Committee on Public Finance (COPF) yesterday.
-
-COPF Chief Dr. Harsha de Silva expressed his displeasure over their absence.
-
-"The officials had agreed to attend the meeting but had failed to turn up despite the assurance given last week," Dr. De Silva said.
-
-◼️
-
-[Data](articles/b3b83cee.json)
-
-[Extended Data](ext_articles/b3b83cee.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 23:33:55**
+As of **2024-05-15 23:53:01**
 
 ## Newspaper Stats
 
-*Scraped **24,287** Articles*
+*Scraped **24,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 247
 dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
-economynextcom | 1,397
+economynextcom | 1,398
 dailyftlk | 1,415
 adalk | 2,076
 adaderanalk | 2,820
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,287 (100.0%) of 24,287 articles have been extended.
+24,287 (100.0%) of 24,288 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -370,6 +370,24 @@ Steps have been taken to hand over the drug taken to the Police Narcotics Unit f
 
 ---
 
+### Sri Lanka adopted 75 new laws in the past two years: President
+
+*2024-05-15 19:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-adopted-75-new-laws-in-the-past-two-years-president-163268/) · `en`
+
+ECONOMYNEXT – Sri Lanka has adopted 75 new laws in the past two years, the island-nation the country with the most up-to-date legal framework in South Asia, President Ranil Wickremesinghe has said.
+
+“After almost a century, we have implemented numerous reforms in the field of law. Over the past two years, we have enacted approximately 75 new laws. This is a significant achievement, considering that some parliaments work for even 4 or 5 years without passing this amount of laws,” Wickremesinghe said during the opening of the new Court Complex in Theldeniya on Wednesday (15).
+
+The original Magistrate’s Court in Theldeniya was submerged under the Victoria Reservoir. The new court complex, a three-storey building, accommodates the Magistrate and District Courts along with other essential facilities.
+
+“A government’s purpose is to work, and MPs should attend Parliament to fulfil their legislative duties. We have worked to introduce a new legal system by adopting these laws in Parliament.”
+
+...
+
+[Data](articles/11fb23d1.json)
+
+---
+
 ### Court allows Duminda to present facts in case against Wijedasa’s appointment
 
 *2024-05-15 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-allows-Duminda-to-present-facts-in-case-against-Wijedasas-appointment/108-282657) · `en`
@@ -394,13 +412,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
+
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
-
-It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2341,31 +2359,5 @@ Premadasa said the opposition was against this, and would take legal action to c
 [Data](articles/4f250dcc.json)
 
 [Extended Data](ext_articles/4f250dcc.ext.json)
-
----
-
-### Mullivaikkal porridge;Court order for five in Amparai
-
-*2024-05-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183592) · `ta`
-
-A court order mandates five individuals to honor Mullivaikkal victims through porridge-making. This act, supported by social workers, political representatives, and civilians, faces opposition from local authorities. The Tamil National People's Front (TNA) district organizer and others involved are warned by the police. Despite this, the TNA proceeds with the event at the Kalmunai Pandaruppu temple, leading to a police intervention. Following the incident, human rights activists lodge a complaint with the Human Rights Commission.
-
-🟩
-
-Five people have been issued a court order to commemorate the civilians who were assassinated in Mullivaikkal and are trying to make Mullivaikkal porridge.
-
-In this backdrop, Social Workers, Political Party Representatives and civilians have been asked to issue an injunction to the persons by the Inspector General of Police, JSK Weerasinghe, who is in charge of the Kalmunai Police Station.
-
-Accordingly, the district organizer of the Tamil National People's Front (TNA) Pusparaj Dushanandan Ampara District, the missing union leader Thambirasa Selvarani Human Rights Operator Damodaram Pradevan Pradeepan TNA chief Krishnapillai Jayasiril Vimalanathan.
-
-In addition, the Mullivaikkal Kanji has been deployed in the area of the Pandaruppu Draupadi Amman temple.
-
-In addition, hundreds of policemen were mobilized to prevent those who tried to make Mullivaikkal porridge in the Kalmunai Pandaruppu area on Tuesday (14).
-
-...
-
-[Data](articles/0a8b37b6.json)
-
-[Extended Data](ext_articles/0a8b37b6.ext.json)
 
 ---

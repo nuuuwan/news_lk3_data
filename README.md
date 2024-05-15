@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 10:18:13**
+As of **2024-05-15 10:33:49**
 
 ## Newspaper Stats
 
-*Scraped **24,142** Articles*
+*Scraped **24,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,060
-adaderanalk | 2,801
+adaderanalk | 2,802
 tamilmirrorlk | 2,833
 virakesarilk | 3,621
 dailymirrorlk | 3,794
-adaderanasinhalalk | 3,859
+adaderanasinhalalk | 3,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,139 (100.0%) of 24,142 articles have been extended.
+24,142 (100.0%) of 24,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### 264 new leprosy patients identified in Sri Lanka so far this year
+
+*2024-05-15 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99225/264-new-leprosy-patients-identified-in-sri-lanka-so-far-this-year) · `en`
+
+A total of 264 new leprosy patients have been identified from across the island during the period from the beginning of this year, according to the Anti-Leprosy Campaign (ALC).
+
+The Director of the ALC, Dr. Nirupa Pallewatte stated that of the new patients identified, 24 are children below the age of 15 years.
+
+She further stated that in 2023, a total of 1,580 leprosy patients were reported and that the majority of them (1520) are newly identified patients. Meanwhile, of those 1,580 patients, 180 are below the age of 15, which is 12% of the patients.
+
+“In the first quarter of 2024, we identified 274 patients. 264 of them are newly identified patients. 21 out of 274, which means about 8%, are children under the age of 15 years. They cannot spread the disease. Also, this year, we have identified about 8% of patients who have become disabled,” Dr. Pallewatte said.
+
+◼️
+
+[Data](articles/76cedb23.json)
+
+---
+
+### සාපෙළ ලියන්න ගිය සිසුවියන් දෙදෙනා අතුරුදන්
+
+*2024-05-15 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196641) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට ඊයේ (14) දින විභාග මධ්‍යස්ථානය වෙත පැමිණි පාසල් සිසුවියන් දෙදෙනෙකු ආපසු සිය නිවාස වෙත නොපැමිණි බව පවසමින් ඔවුන්ගේ භාරකරුවන් විසින් ගිනිගත්හේන පොලීසියට පැමිණිලි කර තිබේ.
+
+අදාළ සිසුවියන් දෙදෙනා ඊයේ උදෑසන විභාගයට පෙනී සිටීම සඳහා අඹගමුව ජාතික පාසලේ විභාග මධ්‍යස්ථානය වෙත පැමිණ ඇත.
+
+ඉන් එක් සිසුවියක් දෙමාපියන් සමග විභාග මධ්‍යස්ථානය වෙත පැමිණ ඇති බව පැමිණිල්ලේ සඳහන් වේ.
+
+ගිනිගත්හේන, අග්‍රඔය සහ නාවලපිටිය නාගස්තැන්න ප්‍රදේශයේ පදිංචි එම සිසුවියන් දෙදෙනා මිතුරියන් බවට තොරතුරු අනාවරණය වී තිබේ.
+
+ඔවුන් දෙදෙනා විභාග මධ්‍යස්ථානය අසල විභාගය ආරම්භ වීමට පෙර කතා කරමින් සිටි බවට සිසුන් කිහිපදෙනෙකු දැක ඇති අතර, ඉන් මද වේලාවකට පසු ඔවුන් නාවලපිටිය නගරයේ නිල ඇඳුමින් සිට ඇති බවත් සිදුකළ මුලික විමර්ශනවලදී පොලීසියට අනාවරණය වී ඇත.
+
+අතුරුදන් වූ සිසුවියන්ගේ තොරතුරු මේ වනවිට සියලු පොලිස් ස්ථාන වෙත යොමු කර ඇති අතර, ඒ සම්බන්ධයෙන් ගිනිගත්හේන පොලීසිය පුළුල් විමර්ශනයක් ආරම්භ කර ඇති බවත් වාර්තා වේ.
+
+◼️
+
+[Data](articles/182d706d.json)
+
+---
 
 ### Not left the country: Diana
 
@@ -81,6 +121,8 @@ Colombo, May 15 (Daily Mirror) - Former State Minister Diana Gamage today denied
 ◼️
 
 [Data](articles/3bd970fd.json)
+
+[Extended Data](ext_articles/3bd970fd.ext.json)
 
 ---
 
@@ -193,6 +235,8 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 ...
 
 [Data](articles/f1c3a532.json)
+
+[Extended Data](ext_articles/f1c3a532.ext.json)
 
 ---
 
@@ -1980,19 +2024,27 @@ The passengers were accused of stopping at the Horabe Railway Station at around 
 
 ---
 
-### මාස 06ක් පරීක්ෂණයන් කළ යුතු එන්නතක් මාස දෙකකින් නිෂ්පාදනයට අවසර දීලා
+### Separate to investigate six months permission to produce production in two months
 
 *2024-05-14 20:14:42* · [`adalk`](https://www.ada.lk/breaking_news/මාස-06ක්-පරීක්ෂණයන්-කළ-යුතු-එන්නතක්-මාස-දෙකකින්-නිෂ්පාදනයට-අවසර-දීලා/11-409639) · `si`
 
-මාස 06ක කාලයක පරීක්ෂණයන්ට යටත් විය යුතු එන්නතක් මාස දෙකක කාලයක් තුළ නිෂ්පාදනයට අවසර දීමෙන් ජාතික ඖෂධ නියාමන අධිකාරිය නීතියට පටහැණිව කටයුතු කර ඇතැයි නීතිඥ නිල් ශාන්ත සිරිමාන්න මහතා අභියාචනාධිකරණයට ඊයේ (14දා) දැනුම් දුන්නේය.නිර්වින්දන ඇතුළු වෙනත් රෝග සඳහා භාවිත කරන එන්නත් 08 ක් නිෂ්පාදනය කිරීමට ජාතික ඖෂධ නියාමක අධිකාරිය නීතියට පටහැණිව දුන් අනුමැතිය වළකාලන්නැයි ඉල්ලමින් සමාජ ක්‍රියාකාරිකයන් දෙදෙනෙකු  ගොනු කර ඇති පෙත්සම කැඳවූ අවස්ථාවේදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥ නිල් ශාන්ත සිරිමාන්න මහතා එසේ දැනුම් දුන්නේය.
+Attorney Nirmana Sirimanna argued against the National Drug Regulatory Authority's decision to approve a drug in two months, citing legal concerns. The case involves social activists and is being reviewed by the Court of Appeal. Deputy Solicitor General Manuhara Jayarawardena supports a six-month investigation period before release.
 
-අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ෂශි මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සැදුම්ලත් අභියාචනාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම සලකා බැලිණ.
+🟩
 
-සමාජ ක්‍රියාකාරිකයන් දෙදෙනෙකු වන ප්‍රණීතා වර්ණකුලසූරීය සහ ඩී.පී. බුද්ධරගේ මහත්මා මහත්මින් විසින් ගොනුකර ඇති මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජාතික ඖෂධ නියාමන අධිකාරිය ඇතුළු පිරිසක් නම් කර ඇත.
+Attorney-at-Law Nirmana Sirimanna, the National Drug Regulatory Authority (NCC) was reported to be contrary to the law in two months.Attorney-at-Law Nil St. Sirimanna, appearing on behalf of the petitioner, was called for the petition filed by the Pharmaceutical Authority to prevent the approval of the approval of the law.
+
+The petition was in the face of the Court of Appeal of the Court of Appeal of the Court of Appeal, Judge Nissankala Karunaratne and Shashi Mahendran.
+
+Two social activists, Pranita Warnakulasuriya and DP. The National Drug Regulatory Authority has nominated as respondents in the petition as respondents, which have been filed by Buddharandra's gentleman.
+
+At the time of the petition, Attorney-at-Law Nilisha Sirimanna, who was adopted for the petitioners, is responsible for the petitioners who imported the petitioners and the National Drug Regulatory Authority is responsible for Sri Lanka.
 
 ...
 
 [Data](articles/4b89149b.json)
+
+[Extended Data](ext_articles/4b89149b.ext.json)
 
 ---
 
@@ -2113,63 +2165,5 @@ The Leader of the House, Minister Susil Premajayath said that a new ambulance ca
 [Data](articles/a1bebff6.json)
 
 [Extended Data](ext_articles/a1bebff6.ext.json)
-
----
-
-### The mystery of the mother revealed years later
-
-*2024-05-14 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196627) · `si`
-
-In 2020, a woman's body was found in a pit in Galle, leading to a murder investigation. The victim, a 25-year-old mother from Tawalama, was identified as Niroka, who had been reported missing. Her husband, Santha (also known as Henagam Shantha or Henagala St.), was arrested after four years of investigation. He confessed to assaulting Niroka and hiding her body. The case involved a family dispute and highlighted the challenges in solving such crimes.
-
-🟩
-
-The Galle Police Code of Criminal was later revealed after the investigation of a murder of a woman killed in Tawalama area in Galle.
-
-There was revealed that the woman's casual midnation was killed and the body had been put into a toilet pit.
-
-Accordingly, the remains of a twenty-five year old mother of Twentyian Hallakanda was recovered from Galle Hallakanda, Galle Hallakanda area.
-
-She was named after June 6, 2020, and her mother had lodged a complaint with the police.
-
-Niroka has been ralved with his first marriages with her two children, and she had a son.
-
-The police were conducting investigations into the disappearance of the mother of the mother.
-
-It is from such a background that will refer to the Galle Divisional Secretariat Division.
-
-Accordingly, the police investigated four years, the police were arrested by the woman's casual husband, "Santha ', or Henagam Shantha, or" Henagala St. ".
-
-The founding he was assaulted by him and hide the body in a toilet pit near the house.
-
-...
-
-[Data](articles/2707e5fd.json)
-
-[Extended Data](ext_articles/2707e5fd.ext.json)
-
----
-
-### Suspect arrested with kangaroo
-
-*2024-05-14 19:34:22* · [`adalk`](https://www.ada.lk/breaking_news/කැන්ගරු-දේශයේ-රැකියා-මවා-මුදල්-ගැරූ-සැකකරු-දැලේ/11-409634) · `si`
-
-A 65-year-old suspect from Polgahawela, accused of defrauding money in Australia, was arrested by the Special Investigation Unit. The suspect, who promised to provide Australian tourism for low-income Sri Lankan families, was found to have continued the fraud from another location. The case was presented at the Polgahawela Magistrate's Court.
-
-🟩
-
-A person who has defrauded money in Australia, was arrested by the Special Investigation Unit (FTI) official investigations yesterday (5/13).
-
-A resident of Polgahawela has been implemented in the Polgahawela area to provide a tourist in Australia for low income families in Sri Lanka and has been paid to Rs.. The money has been lodged with the Bureau by the people who gave money to be paid as promised.
-
-The suspect was a 65 year old resident of Polgahawela and he was revealed in further investigations that he had continued the racket from another.. Investigations are also conducted by investigations into the arrest of the man.
-
-The suspect was produced before the Polgahawela Magistrate's Court today (5/14) to the Polgahawela Magistrate's Court today.
-
-◼️
-
-[Data](articles/4000946e.json)
-
-[Extended Data](ext_articles/4000946e.ext.json)
 
 ---

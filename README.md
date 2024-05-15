@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 08:34:39**
+As of **2024-05-15 08:53:02**
 
 ## Newspaper Stats
 
-*Scraped **24,124** Articles*
+*Scraped **24,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
-adalk | 2,057
+adalk | 2,058
 adaderanalk | 2,800
 tamilmirrorlk | 2,827
 virakesarilk | 3,621
 dailymirrorlk | 3,790
-adaderanasinhalalk | 3,855
+adaderanasinhalalk | 3,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,123 (100.0%) of 24,124 articles have been extended.
+24,123 (100.0%) of 24,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ලාදුරු රෝගීන් 264ක් අලුතින් හඳුනා ගැනේ
+
+*2024-05-15 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196637) · `si`
+
+වසරේ ගත වූ කාලසීමාව තුළ ලාදුරු රෝගීන් 264ක් අලුතින් හඳුනාගෙන ඇති බව ලාදුරු මර්දන ව්‍යාපාරය පවසයි.
+
+එහි අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය නිරූපා පල්ලේවත්ත මහත්මිය සඳහන් කළේ, ඉන් 24 දෙනෙකු අවුරුදු 15ට අඩු දරුවන් බවය.
+
+"2023 වසරේ දී අපිට ලාදුරු රෝගීන් 1,580ක් වාර්තා වෙලා තියෙනවා. මේකෙන් වැඩි දෙනෙක් අලුතින් හඳුනාගත්ත අය. ඒ කියන්නේ 1,520ක්ම අලුත් රෝගීන්. ඒ වගේම අපිට රෝගය වැලඳුන ළමයි ඉන්නවා 1,580න් 180ක් ඉන්නවා. ඒ කියන්නේ 12%ක පමණ ප්‍රතිශතයක් දරුවන් ඉන්නවා අවුරුදු 15ට අඩු. 2024 පළමු කාර්තුවේ දී අපි හඳුනාගත්තා රෝගීන් 274ක්. මේකෙනුත් 264ක්ම අලුතින් හඳුනාගත් රෝගීන්. මෙතැනින් 274න් 21ක් ඒ කියන්නේ 8%ක් විතර අවුරුදු 15ට අඩු දරුවන්. ඔවුන්ට රෝගය පැතිරවීමේ හැකියාවක් නෑ. ඒ වගේම මේ අවුරුද්දෙත් 8%ක් විතර අපට හමුවෙලා තියෙනවා ආබාධ තත්ත්වයට පත්වූ රෝගීන්."
+
+◼️
+
+[Data](articles/c6b54e20.json)
+
+---
 
 ### Circular on education administration reforms to be issued soon - Minister
 
@@ -1654,6 +1670,28 @@ The passengers were accused of stopping at the Horabe Railway Station at around 
 
 ---
 
+### පැරණි වැවිලි කර්මාන්තය වෙනුවට නව කෘෂි ව්‍යාපාරයක් ඕන
+
+*2024-05-14 20:08:07* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-වැවිලි-කර්මාන්තය-වෙනුවට-නව-කෘෂි-ව්‍යාපාරයක්-ඕන/11-409638) · `si`
+
+පැරණි වැවිලි කර්මාන්තය වෙනුවට නව කෘෂි ව්‍යාපාරයක් රට තුළ ඇති කරමින් රට ආර්ථික වශයෙන් ඉදිරියට ගෙන යාමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එහිදී අදාළ ආයතන අතර ඇති බාධක නව නීතියකින් ඉවත් කරන බවද පැවසූ ජනාධිපතිවරයා නව තාක්ෂණික කළමනාකරණය වැවිලි ක්ෂේත්‍රයට හඳුන්වා දීමට කටයුතු කරන බව ද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අතුරුගිරිය ජාතික වැවිලි කළමනාකරණ ආයතනයේ නව අධ්‍යයන හා පරිපාලන ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට අද (14) පෙරවරුවේ එක් වෙමිනි.
+
+වැවිලි ක්ෂේත්‍රයට අවශ්‍ය නව නිපුණතාවලින් හෙබි උපාධිධාරීන් බිහි කිරීම වෙනුවෙන් සහ තරුණ තරුණියන් සඳහා උසස් අධ්‍යාපන අවස්ථා පුළුල් කිරීමේ අරමුණින් ජාතික වැවිලි කළමනාකරණ ආයතනය ස්ථාපිත කර තිබේ.
+
+උපාධි අපේක්ෂකයන් සඳහා පර්යේෂණාගාර, දේශන ශාලා, පරිගණක විද්‍යාගාර හා වෘත්තීය උපදේශන මධ්‍යස්ථාන ස්ථාපිත කිරීමට සැලසුම් කර තිබෙන අතර AI හා GIS තාක්ෂණය යොදා ගැනීමට අවශ්‍ය මධ්‍යස්ථානයක් ද මෙහි ස්ථාපිත කිරීමට නියමිතය.
+
+මෙම නව අධ්‍යයන හා පරිපාලන ගොඩනැගිල්ල ඉදිකිරීම සඳහා වැය කර ඇති මුදල රුපියල් මිලියන 750කි.
+
+...
+
+[Data](articles/c0072ea6.json)
+
+---
+
 ### 1.2 medical officers to 1000 per population
 
 *2024-05-14 19:54:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනගහනය-අනුව-1000ට-වෛද්‍ය-නිලධාරීන්-1-2ක්/11-409636) · `si`
@@ -2165,47 +2203,5 @@ De Silva today made a statement in parliament. Officials had said they cannot co
 [Data](articles/90db8f63.json)
 
 [Extended Data](ext_articles/90db8f63.ext.json)
-
----
-
-### Four Sri Lankan  Tamils  in Eastern Province Arrested for  commemorating  their loved ones killed in the final phase of the civil war in 2009 ;Tamils’ Right to Memorialise the dead Put into  Sharp Focus
-
-*2024-05-14 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84032) · `en`
-
-The recent arrest of four Tamils in Sri Lanka’s Eastern Province — when they commemorated their loved ones killed in the final phases of the civil war in 2009 — has put Tamils’ right to memorialise in sharp focus yet again.
-
-The police said the arrests were based on magistrate court orders that ruled against holding such commemorative events, citing reasons of “public health” and “attempts to revive” the Liberation Tigers of Tamil Eelam (LTTE) that the Sri Lankan military eliminated.
-
-According to local Tamil media reports, three women, including a university student, and a man were arrested by the police in Sampur, located in the eastern Trincomalee district late on Sunday. Video footage widely shared on social media showed the police dragging a woman from her home.
-
-Another court in the Eastern Province on Tuesday issued an order observing that commemorating members of the LTTE may lead to a “revival of terrorist activities” in the country, and “disrupt people’s everyday lives”.
-
-...
-
-[Data](articles/15571391.json)
-
-[Extended Data](ext_articles/15571391.ext.json)
-
----
-
-### Two youth arrested for abducting and abusing a 15 -year -old girl in Modu Wellaveli
-
-*2024-05-14 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183551) · `ta`
-
-Two youths, aged 26 and 21, were arrested for abducting and sexually abusing a 15-year-old girl in Modu Wellaveli. The incident occurred on the 7th of last month, and the victim was returning home. The suspects were apprehended following a complaint lodged at the police station on Monday (13).
-
-🟩
-
-Wellaveli police said that two youths aged 26 and 21 years old were arrested on Monday night (13), abducting a 15 -year -old girl who had gone to her motherveli in Wellaveli, Batticaloa.
-
-A 15 -year -old girl from the area was returning home from her home on the 7th of last month and was abducted by two youths and sexually abused the girl in the neighborhood of the forest.
-
-The victim told the parents that the 26,21 -year -old youth from the area was arrested and admitted to the hospital after a complaint lodged at the police station on Monday (13).
-
-◼️
-
-[Data](articles/f8fb018b.json)
-
-[Extended Data](ext_articles/f8fb018b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 17:04:09**
+As of **2024-05-15 17:18:19**
 
 ## Newspaper Stats
 
-*Scraped **24,230** Articles*
+*Scraped **24,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 2,814
 tamilmirrorlk | 2,849
 virakesarilk | 3,639
 dailymirrorlk | 3,809
-adaderanasinhalalk | 3,870
+adaderanasinhalalk | 3,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,230 (100.0%) of 24,230 articles have been extended.
+24,230 (100.0%) of 24,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ලෝක කුසලානයේ තීරණාත්මක තරගයක් ගැන සුවිශේෂී තීරණයක්
+
+*2024-05-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196652) · `si`
+
+2024 පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය වෙනුවෙන් අතිරේක දිනයක් ලබානොදෙන බව ක්‍රික් බස් වෙබ් අඩවිය වාර්තා කරයි.
+
+එම තරගයට වර්ෂාවෙන් බාධා එල්ලවුවහොත් පැය 4ක අමතර කාලයක් පමණක් ලබාදීමට ICCය හා බටහිර ඉන්දීය කොදෙව් ක්‍රිකට් ආයතන තීරණ කර ඇත.
+
+2024 පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි  2 වනදා ආරම්භවීමට නියමිත අතර අවසන් මහා තරගය ජුනි 29 වැනිදා පැවැත්වීමට නියමිතය.
+
+තරගාවලිය ආරම්භයට පෙර සඳහන් කර තිබුණේ තරගාවලියේ අවසන් පූර්ව තරග සහ අවසන් මහා තරගයට වර්ෂාවෙන් යම් බාධාවක් සිදුවුවහොත් ඒ වෙනුවෙන් අතිරේක දින ලබාදෙන බවය.
+
+පළමු අවසන් පූර්ව තරගයට එලෙස අමතර දිනයක් ලබාදුන්නත් දෙවන අවසන් පූර්ව තරගයට එලෙස අමතර දිනයක් ලබාදීමට හැකිවන්නේ නැත.
+
+ඒ දෙවන අවසන් පූර්ව තරගයට යම් හෙයකින් එලෙස අමතර දිනයක් ලබාදීමට සිදුවුවහොත් අවසන් මහා තරගයට සුදුසුකම් ලබාගන්නා ජයග්‍රාහී කණ්ඩායමට ඒ වෙනුවෙන් ක්‍රීඩා කිරීමට ඉතිරිව ඇත්තේ පැය 24කටත් නොඅඩු කාලයක් පමණි.
+
+...
+
+[Data](articles/6b408b48.json)
+
+---
 
 ### T20I all-rounder rankings: Wanindu and Shakib tied at the top
 
@@ -2311,39 +2333,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/a307c6dd.json)
 
 [Extended Data](ext_articles/a307c6dd.ext.json)
-
----
-
-### Why do Mullivaikkalkal-in ban and arrests?
-
-*2024-05-15 07:44:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87z7d5g0d3o) · `si`
-
-Bans and arrests in Mullivaikkal during commemorations for war victims highlight tensions. Despite peaceful intentions, events are deemed threats to national security, leading to legal action.
-
-🟩
-
-Why do Mullivaikkalkal-in ban and arrests?
-
-It has been fifteenth since the commemorations carried out by Tamils in the East to recall their war-torn loved ones.
-
-However, for many years of organizing this reminder, they occasionally from different parties;There was no defensive obstacles.
-
-14 years after the end of the war. We need more power '
-
-Meanwhile, two Dansal has been banned from the North and East, while the police have been banned from the North and East.
-
-Four persons including three Tamil women have been arrested and remanded for banning a court order banning a garbage at the company.
-
-Sunday of May 12, Kamalaswaran Ten Deny Gen.says.
-
-In front of the people of the war, Mullivaikkal had been distributed to the residents of the area in front of the area of Trincomalee Savior, Trincomalee.
-
-The deceased commemoration in Vellamullivaikal and the orders of the court banned and supply of food and dedication have been rejected when they tried to deliver the court order.
-
-...
-
-[Data](articles/02d0f073.json)
-
-[Extended Data](ext_articles/02d0f073.ext.json)
 
 ---

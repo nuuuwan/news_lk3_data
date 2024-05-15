@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 13:18:25**
+As of **2024-05-15 13:34:08**
 
 ## Newspaper Stats
 
-*Scraped **24,194** Articles*
+*Scraped **24,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,062
+adalk | 2,064
 adaderanalk | 2,807
 tamilmirrorlk | 2,847
 virakesarilk | 3,630
 dailymirrorlk | 3,804
-adaderanasinhalalk | 3,863
+adaderanasinhalalk | 3,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,186 (100.0%) of 24,194 articles have been extended.
+24,194 (100.0%) of 24,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### වසර දෙකක් තුළ නව නීති 75ක්
+
+*2024-05-15 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196645) · `si`
+
+පසුගිය වසර 02 තුළ පමණක් නව නීති 75ක් සම්මත කර ගැනීමට රජය කටයුතු කළ බව ජනාධිපති රනිල් වික්‍රමසිංහ පවසයි.
+
+ඒ අනුව දකුණු ආසියාවේ අලුත්ම නීති පද්ධතියක් ක්‍රියාත්මක වන එකම රට බවට ශ්‍රී ලංකාව පත්ව ඇති බවත් පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  දූෂණය පිටුදැකීම වෙනුවෙන් ද විප්ලවීය පියවර රැසක් ගෙන ඇති බව පැවසීය.
+
+ජනාධිපතිවරයා ඒ බව පැවසුවේ තෙල්දෙණිය නව උසාවි සංකිර්ණය විවෘත කිරීමේ අවස්ථාවට අද (15) පෙරවරුවේ එක් වෙමිනි.
+
+◼️
+
+[Data](articles/0c39db9d.json)
+
+---
+
+### කොළඹ වරාය නගරයේ චයිනා හාබර් සමාගමට පනත් 10 කින් බදු නිදහස ඇතුළු වරප්‍රසාද රැසක්
+
+*2024-05-15 13:08:03* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයේ-චයිනා-හාබර්-සමාගමට-පනත්-10-කින්-බදු-නිදහස-ඇතුළු-වරප්‍රසාද-රැසක්/11-409644) · `si`
+
+කොළඹ වරාය නගරයේ  මේ වන විට ප්‍රධාන සංවර්ධන ව්‍යාපෘති දෙකක් ක්‍රියාත්මක කර සිටින චයිනා හාබර් ඉංජිනියරින් කොම්පැනි (ලංකා) ලිමිටඩ් ආයතනය සඳහා මෙරට ක්‍රියාත්මක වන පනත් 10 ක් යටතේ  තීරු බදු ,ආනයන බදු  ,ආදායම් බදු ,ලාභාංශ බදු ආදී බදුවලින්,විවිධ අයකිරීම්  හා මූල්‍යමය හා විවිධ  විධි විධානවලින් නිදහස් කිරීම් හා  දිරිගැන්වීම් රැසක් ප්‍රදානය කරමින්  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අති විශේෂ ගැසට් නිවේදනක් නිකුත් කර තිබේ.
+
+නමුත් 1988 අංක 40  දරන ඔට්ටු ඇල්ලීම හා සූදු බදු පනත ,2010 අංක 17 දරන කැසිනෝ ව්‍යාපාර නියාමන පනත සහ විනෝද බදු පනත යටතේ කිසිදු බදු නිදහසක් හෝ දිරිගැන්වීමක් ප්‍රදානය නොකරන බව ගැසට් නිවේදනය මගින් දක්වා ඇත.
+
+කොළඹ වරාය නගර ආර්තික කොමිෂන් සභාවේ නිර්දේශ හා අමාත්‍ය මන්ඩලයේ අනුමැතිය ලැබී ඇති මෙකී බදු හා අයකිරීම්වලින් නිදහස් කිරීම පිළිබඳ නියමයන් ආයෝජන  ප්‍රවර්ධන අමාත්‍යවරයා ලෙස 2021 අංක 11 දරණ කොළඹ වරාය නගරය  ආර්ථික කොමිෂන් සභා පනත යටතේ පැවරී ඇති බලතල අනුව  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම ගැසට් නිවේදනය මෙම මස 09 දාතමින් නිකුත් කෙරිණි .
+
+...
+
+[Data](articles/d46ce5be.json)
+
+---
 
 ### Govt remains steadfast in commitment to combat crime and ensure justice – President
 
@@ -45,6 +77,24 @@ Despite facing accusations of shielding wrongdoers, the government remains stead
 ◼️
 
 [Data](articles/08b16689.json)
+
+[Extended Data](ext_articles/08b16689.ext.json)
+
+---
+
+### පිළියන්දල ප්‍රදේශයේ නිවසකින් ආයුධ තොගයක් හමුවේ
+
+*2024-05-15 12:56:14* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-ප්‍රදේශයේ-නිවසකින්-ආයුධ-තොගයක්-හමුවේ/11-409643) · `si`
+
+පිළියන්දල හොරණ පාරේ පිහිටි කළකට පෙර මියගිය පරිසර වේදියෙකු ලෙස ක්‍රියා කළ පුද්ගලයෙකුගේ නිවසේ තිබී මෝටර් උණ්ඩයක්, අංක මකා දමන ලද ටී56 ගිනි අවියක්, මැගසින් 4 ක්, ජීව උණ්ඩ 96 ක්, ට්‍රසර් උණ්ඩ 20ක්, බෝර දොළහ වර්ගයේ ගිනි අවියක් සොයාගත් බව කැස්බෑව පොලිසිය පවසයි.
+
+එම පරිසර වේදියාගේ පුත්‍රයා විසින් පොලිසියට කළ පැමිණිල්ලකට අනුව ඔහුගේ පිළියන්දල පිහිටි නිවසේ උඩුමහලේ සොල්දොර තට්ටුවේ යන්ත්‍රෝපකරණ කාමරය පරීක්ෂා කිරීමේ මෙම ආයුධ තොගය සොයාගැනීමට පොලිස් නිලධාරීන්ට හැකි වී තිබේ.
+
+එම ආයුධ තොගය එම ස්ථානයට පැමිණියේ කෙසේද යන්න පිළිබඳවත්, කිසිවෙකු විසින් එම ආයුධ තොගය මෙම ස්ථානයට ගෙනවිත් දමන්නට ඇත්දැයි යන්න පිළිබඳව විමර්ශන සිදුකිරීමට නියමිත අතර මේ වන විට කිසිවෙකු අත්අඩංගුවට ගෙන නොමැති බවත් පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/0613273a.json)
 
 ---
 
@@ -67,6 +117,8 @@ On Tuesday a group of family members came to the Russian embassy in Colombo.
 ...
 
 [Data](articles/e3e5846c.json)
+
+[Extended Data](ext_articles/e3e5846c.ext.json)
 
 ---
 
@@ -195,6 +247,8 @@ Premadasa said the opposition was against this, and would take legal action to c
 ...
 
 [Data](articles/4f250dcc.json)
+
+[Extended Data](ext_articles/4f250dcc.ext.json)
 
 ---
 
@@ -456,6 +510,8 @@ The State Minister’s comments come a month after Indian arm manufacturers demo
 
 [Data](articles/fe0b73af.json)
 
+[Extended Data](ext_articles/fe0b73af.ext.json)
+
 ---
 
 ### I will put an end to alcohol and drugs for children's generation - Sajith
@@ -606,21 +662,33 @@ In 2016, a massive wildfire spread in Port McMure and forced 90,000 residents to
 
 ---
 
-### කැලේ පැලට අලුතින් එකතු උන තුන් නිවුන් පැටවුන්ගේ දුක හිතෙන කතාව
+### The story of the grieving story of the newly added tributaries of the jungle
 
 *2024-05-15 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැලේ-පැලට-අලුතින්-එකතු-උන-තුන්-නිවුන්-පැටවුන්ගේ-දුක-හිතෙන-කතාව/11-409642) · `si`
 
-හබරණ පුවක්පිටිය ප්‍ර දේශයේ මහා වන මැද පුංචි කටු මැටි ගැසූ පැලක දිවා කාලයේ ජිවත් වන රාත්‍රිය ගසක් උඩ පැලක ජිවත්වන  තරුණ මවක් පසුගිය අම්මාවරුන්ගේ දිනයට පැය කිහිපයක් තියෙද්දී දඹුල්ල රෝහලේදී තුන් නිවුන් පිරිමි දරු උපතක් සිදුකලාය.
+In the Dambulla Hospital, a young mother lives in a tree with her three children: a three-year-old girl and twin boys. Born in Habarana Puwakpitiya, she moved here due to lack of resources like electricity and proper housing. Despite challenges like insufficient milk and basic necessities, she hopes for better conditions for her children.
 
-මෙම මවට තවත් අවුරුදු 03 ක පුංචි දියණියක්ද  සිටි ,මිට පෙර නිවුන් පුතුන් දෙන්නෙක් අහිමි වූ බවද කියයි .
+🟩
 
-මෙසේ තුන් නිවුන් දරු උපත සිදුකර ඇත්තේ හබරණ පුවක්පිටිය පදිංචි 25 හැවිරිදි ගිහානි සුපෙෂලා කුමාරි නමැති මවකි ,මේ දරුවන්ගේ පියා සන්ජිත් අසෝක දයානන්ද මහතා කැලේ ගසක් උඩ තැනු අලි පැලකින් බිමට වැටි අබාධිතව පසුවෙන බව එම මව පවසන්නීය .
+A young mother living in a tree in the Dambulla Hospital, a large number of hours of daylight, was born in the Dambulla Hospital.
 
-දරුවන්ගේ මව හා පියා  දඹුල්ල රෝහලෙන් දරුවන් තුන් දෙනා අරගෙන සුපුරුදු වන මැද පැලට 14 පස්වරුවේ මොර සුරන වරුසාවේ රැගෙන ආහ .වරුසාවට පුංචි පැල තෙමි හිරිකඩ ගෙතුලට එද්දී පුංචි පැටවූ මොරදී හඩද්දී   පියාත් මවත් සංවේදී වන අයුරු එහි ගිය අපට දැකගැනීමට හැකිවිය .
+The mother is also a three-year-old daughter and two sons of twins before him.
+
+The mother says that the mother of these three was born in Habarana Puwakpitiya, a mother of Suzhala Kumari, the father of Sanjith Asoka Dayananda.
+
+The mother and father of the children took three children at the Dambulla Hospital.
+
+This is a 40km from Dambulla. A three-wheeler was brought to carry these children .The journalists, as a journalists, have been given to the cubs where they could not take children from the vehicle.
+
+The mother told us that the night of a large tree on the middle tree to escape children. Power and water - no electricity to roofing the sheets of tining of the cubs.
+
+When the loaded, a Great was a great slaughter, and the house was gone everywhere.
 
 ...
 
 [Data](articles/288059ef.json)
+
+[Extended Data](ext_articles/288059ef.ext.json)
 
 ---
 
@@ -1048,6 +1116,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was down 0.64 pe
 
 [Data](articles/d7f0a647.json)
 
+[Extended Data](ext_articles/d7f0a647.ext.json)
+
 ---
 
 ### Diana handed over the vehicles
@@ -1262,6 +1332,8 @@ Losses from trading was 4.1 billion rupees down from 7.2 billion rupees last yea
 
 [Data](articles/f7310231.json)
 
+[Extended Data](ext_articles/f7310231.ext.json)
+
 ---
 
 ### Special Committee to expedite land supplying to military - President's action
@@ -1309,6 +1381,8 @@ Loans and advances to customers were up 1.65 percent to 1,224 billion rupees, am
 ...
 
 [Data](articles/d55733d0.json)
+
+[Extended Data](ext_articles/d55733d0.ext.json)
 
 ---
 
@@ -2141,71 +2215,5 @@ Speaking of the film, the director said, “The screenplay of the film 'Crime Ne
 [Data](articles/4c297136.json)
 
 [Extended Data](ext_articles/4c297136.ext.json)
-
----
-
-### A massive fire broke out at the Israeli, Del Hashmar military base
-
-*2024-05-15 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183566) · `ta`
-
-A major fire erupted at Israel's Tel Hashomer military base, causing significant damage. Firefighters are actively working to control the blaze, with 28 personnel dispatched to the scene.
-
-🟩
-
-A massive fire broke out in the warehouse complex at the Tell Hashomer Army base in Ramad Khan, Israeli.
-
-Firefighters are in the process of extinguishing the fire. Fire and rescue operations say 28 firefighters went to the scene.
-
-◼️
-
-[Data](articles/4c1d36b6.json)
-
-[Extended Data](ext_articles/4c1d36b6.ext.json)
-
----
-
-### New website to raise awareness on leprosy
-
-*2024-05-15 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183565) · `ta`
-
-A new website, ACT2Prevent, aims to combat stigma around leprosy by providing accurate information about the disease, its onset, and treatments. Launched by the Leprosy Prevention Movement and Alliance Development Trust, it seeks to educate the public and promote understanding.
-
-🟩
-
-The new website, which was developed in the joint venture of the Leprosy Prevention Movement and Alliance Development Trust, was officially launched on Tuesday (14) to raise awareness among the public on leprosy.
-
-It is also reported that the website is under the name of ACT2Prevent.. The event was chaired by the Minister of Health, former cricketer Roshan Mahanama, Director of the Alliance Development Trust, Raghu Balachandran, Director of Leprosy Prevention Movement, Special Vaidya Pallawatta, Former Director of Leopard Prevention MovementWere attending
-
-The new leprosy campaign website was officially launched by the Leprosy Prevention Movement and Alliance Development Dress at the Sri Lanka Foundation on Tuesday (14). It has also been mentioned that the public can get issues related to leprosy through the ACT2Prevent.
-
-...
-
-[Data](articles/8f651082.json)
-
-[Extended Data](ext_articles/8f651082.ext.json)
-
----
-
-### Minister of State for Education Aravindakumar advises to apply for scholarships to provide Presidential Fund to High Quality Students
-
-*2024-05-15 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183564) · `ta`
-
-Aravindakumar encourages students to apply for the Presidential Fund Scholarship Program, aimed at enhancing education quality. The program, supported by the President's Telecommunication Commission, offers financial aid to high-quality students focusing on advanced communication technologies. Applications must be submitted by the 22nd of the current month.
-
-🟩
-
-2022 (2023). Sri Lanka Telecommunications Commission and the Presidential Fund of the Scholarship Program 2024 2025
-
-The Minister of State for Education, Arunachalam, has advised all school principals to encourage students to apply for the Presidential Fund Program, through the cooperation of the President's Telecommunication Commission on the instructions of the President's instructions for the students who are selected to improve the quality of education.
-
-In a statement issued by the Ministry of Education, the Ministry of Education said that the GCE Advanced Development of Sri Lanka's Education Department. Currently, the GCE Advanced Siddhi. The Scholarship Program has been announced from the President's Finance for students who are studying in high -quality communications technology as a subject.
-
-The project is the GCE.. High quality communications technology will be a boon for students who are lessons. The application should be completed and sent before the 22nd of this month.
-
-...
-
-[Data](articles/8a00bbe2.json)
-
-[Extended Data](ext_articles/8a00bbe2.ext.json)
 
 ---

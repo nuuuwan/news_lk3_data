@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 11:03:29**
+As of **2024-05-15 11:18:20**
 
 ## Newspaper Stats
 
@@ -26,63 +26,83 @@ adaderanasinhalalk | 3,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,147 (100.0%) of 24,155 articles have been extended.
+24,155 (100.0%) of 24,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### வட்சப்பில் தகவல் தெரிவித்தவர்கள் கைது
+### Arrested
 
 *2024-05-15 10:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்சப்பில்-தகவல்-தெரிவித்தவர்கள்-கைது/175-337346) · `ta`
 
-விசேட சுற்றிவளைப்பு நடவடிக்கைகளுக்காகக் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர்களைக் கண்காணித்து குற்றவாளிகளுக்கு வட்சப் மூலம் தகவல் தெரிவித்ததாக கூறப்படும் இருவரை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Colombo Chief Magistrate's Court ordered arrest of two suspects linked to special police duties. Arrested by CID, they face charges related to computer crimes.
 
-பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் சந்தேக நபர்கள் கணினி குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டு நேற்று (14) நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-23 மற்றும் 30 வயதுடைய தெய்யந்தர பிரதேசத்தைச் சேர்ந்த இரண்டு நபர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+The Colombo Chief Magistrate's Court has ordered the two persons who were alleged to have been tracked down by the police officers who were on duty for special rounds of activities until the 16th of this month.
+
+The order was issued after the suspects were arrested by the Computer Criminal Investigation Department (CID) and produced in court yesterday (14).
+
+Two persons from the 23rd and 30 -year -old Tayanthara area have been arrested and kept under interrogation.
 
 ◼️
 
 [Data](articles/f6b44e3c.json)
 
+[Extended Data](ext_articles/f6b44e3c.ext.json)
+
 ---
 
-### மதுகொடுத்து வன்புணர்ந்த ஆடை வடிவமைப்பாளர் மாட்டினார்
+### The designer of the wine
 
 *2024-05-15 10:45:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுகொடுத்து-வன்புணர்ந்த-ஆடை-வடிவமைப்பாளர்-மாட்டினார்/175-337345) · `ta`
 
-19 வயது யுவதியை பாலியல் பலாத்காரம் செய்ததாக கூறப்படும் ஆடை வடிவமைப்பாளர் ஒருவரை மாவத்தகம பொலிஸ் அதிகாரிகள் குழு கைது செய்துள்ளது. மாவத்தகம பகுதியில் உள்ள கட்டிடம் ஒன்றிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+In Mawathagama, a 40-year-old man, suspected of raping a 19-year-old female relative during a fashion design workshop, was arrested. The incident involved offering wine to two other attendees before taking the victim to her home, where the assault occurred. Witnesses alerted by noises found the victim partially undressed, leading to the suspect's arrest.
 
-கைது செய்யப்பட்ட சந்தேக நபர் மாவத்தகம பிரதேசத்தில் வசிக்கும் 40 வயதுடையவர் என்றும் அவர், இரண்டு பிள்ளைகளின் தந்தை ஆவார்.
+🟩
 
-பாலியல் பலாத்காரம் செய்யப்பட்டதாகக் கூறப்படும் 19 வயதுடைய சிறுமி சந்தேக நபரின் உறவினர் என மாவத்தகம பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A group of police officers arrested for allegedly raping a 19 -year -old girl. The incident took place in a building in the Mawathagama area.
 
-இந்த இளம் பெண் தனது உறவினரிடம் ஆடை வடிவமைப்பு (பேஷன் டிசைனிங்) பற்றி அறிந்து கொள்வதற்காக இந்த பயிற்சி வகுப்பில் கலந்து கொள்வதாக பொலிஸார் கூறுகின்றனர்.
+The arrested suspect is a 40 -year -old resident of the Mawathagama area and is the father of two children.
 
-பயிற்சி வகுப்பு முடிந்ததும், பயிற்சி வகுப்பில் கலந்து கொண்ட மற்றொரு பெண்ணுடன் வகுப்பை விட்டு வெளியேறச் சென்றபோது, ​​மழை பெய்யத் தொடங்கியுள்ளது.
+A 19 -year -old girl allegedly raped was a relative of a suspect, a police officer said.
+
+Police say that the young woman is attending the workshop to learn about her fashion design.
+
+When the training course is over, it has begun to rain when he left the class with another woman who attended the workshop.
+
+To two young women who stayed in the class for a while, would the suspect bring something to drink?Have asked. The two women were also impressed.The person has already given the wine that has already been poured into the empty.Police investigations have revealed that the two women had been drinking alcohol without themselves.
 
 ...
 
 [Data](articles/a210ab50.json)
 
+[Extended Data](ext_articles/a210ab50.ext.json)
+
 ---
 
-### உயிரிழந்தவர்களை நினைவு கூர இலங்கையர்க்கு உரிமையுண்டு
+### Sri Lanka has the right to recall the dead
 
 *2024-05-15 10:39:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவர்களை-நினைவு-கூர-இலங்கையர்க்கு-உரிமையுண்டு/175-337342) · `ta`
 
-யுத்தத்தில் உயிரிழந்தவர்களை நினைவு கூருவதற்கு உறவினர்களுக்கும் அவர்களின் தோழர்களுக்கும் உரிமை உண்டு என கூறியுள்ள தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், அவர்களின் உரிமைகளை பாதுகாக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+Vijitha Herath urges the Sri Lankan government to protect the right of families to honor war dead, condemning arrests for such acts. He cites international norms supporting this right, including UN recognition of similar remembrance days.
 
-பலஸ்தீனப் போர் தொடர்பான விவாதத்தின் போது பேசிய அவர், இலங்கையில் உள்நாட்டுப் போரில் உயிரிழந்தவர்களின் உறவினர்கள் மற்றும் தோழர்களுக்கு போரில் இறந்தவர்களை நினைவு கூர உரிமை உண்டு என்று கூறியதுடன், சம்பூரில் முள்ளிவாய்க்கால் போரில் உயிரிழந்தவர்களை நினைவுகூரும் நினைவேந்தல் நடத்தியதற்காக 3 பெண்கள் மற்றும் ஒரு ஆண் கைது செய்யப்பட்டதற்கு கண்டனம் தெரிவித்தார்.
+🟩
 
-நக்பா சம்பவத்தில் இறந்தவர்களை நினைவுகூரும் நாள் ஒன்றை ஐக்கிய நாடுகள் சபை பிரகடனப்படுத்தியுள்ளதாகவும், அதேபோன்று உள்நாட்டுப் போரில் இறந்தவர்களை நினைவுகூருவதற்கு இலங்கையர்களுக்கும் உரிமை உண்டு எனவும் எம்.பி. தெரிவித்தார்.
+Relatives and their comrades have the right to recall those who died in the war, the National PA parliamentarian Vijitha Herath said that the government should take steps to protect the rights of their rights.
 
-போரில் இறந்தவர்களை நினைவு கூரும் உரிமையானது சர்வதேச ரீதியாக ஏற்றுக்கொள்ளப்பட்ட உரிமை எனவும், இலங்கையிலும் அந்த உரிமை உறுதிப்படுத்தப்பட வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+Speaking during the debate on the Palestinian war, he said that relatives and comrades of the civil war in Sri Lanka had the right to remember the dead in the war and condemned the arrest of three women and a man for commemorating the victims of the Mullivaikkal war in Sampur.
+
+The United Nations has declared a day to commemorate the dead in the Nagba incident, as well as Sri Lankans have the right to commemorate the dead in the civil war.. Said.
+
+He said that the right to commemorate the dead in the war is an internationally accepted right and that the right to Sri Lanka should be ensured.
 
 ◼️
 
 [Data](articles/1a6a40d1.json)
+
+[Extended Data](ext_articles/1a6a40d1.ext.json)
 
 ---
 
@@ -132,6 +152,8 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 
 [Data](articles/1eec6958.json)
 
+[Extended Data](ext_articles/1eec6958.ext.json)
+
 ---
 
 ### Probe launched into alleged murder contract at Galle Prison
@@ -149,6 +171,8 @@ Meanwhile, the Prisons Department has also launched an inquiry into the matter.
 ◼️
 
 [Data](articles/6bf2cafe.json)
+
+[Extended Data](ext_articles/6bf2cafe.ext.json)
 
 ---
 
@@ -334,19 +358,27 @@ Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyan
 
 ---
 
-### அரசு தனது பேரினவாத மனநிலையினை வெளிப்படுத்தியுள்ளது - அகத்தியர் அடிகளார்
+### The government has expressed its chauvinist mindset - Agathiyar Adikallar
 
 *2024-05-15 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183573) · `ta`
 
-தங்கள் உறவுகளை நினைந்து கஞ்சி காய்ச்சி பரிமாறுவதை தடுப்பதன் மூலம் அரசு தனது பேரினவாத மனநிலையினை வெளிப்படுத்தியிருப்பதாக ஒருங்கிணைந்த தமிழர் கட்டமைப்பின் தலைமை ஒருங்கிணைப்பாளர் தவத்திரு அகத்தியர் அடிகளார் விடுத்துள்ள அறிக்கையில் தெரிவித்துள்ளார்.
+The government's chauvinist actions, highlighted by the arrest of individuals for disturbing Mullivaikkal Kanji in Muttur-Senayoor, have sparked outrage among Tamil nationalists. Dawatru Agathiyar Adikallar criticizes the government for violating the basic human rights of memorializing, emphasizing the importance of unity among Tamil national parties to oppose such actions. The incident, affecting the goodwill between ethnic groups, underscores the need for the release of innocent detainees and the protection of the right to remember.
 
-மூதூர் - சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி காய்ச்சி பறிமாறிய குற்றச்சாட்டில் சம்பூர் பொலிசாரால் அப்பாவி மக்கள் கைது செய்யப்பட்ட சம்பவத்திற்கு எதிர்ப்பு தெரிவித்து வெளியிட்டுள்ள அறிக்கையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-நினைவு கூரல் என்பது ஒவ்வொரு மனிதனுடைய அடிப்படை உரிமையாகும். உலகளாவிய அனைத்து சர்வதேச சட்டங்களும் அதனை ஆழமாக வலியுறுத்துகின்றன. இந்நிலையில் திருகோணமலை சேனையூரில் நடைபெற்றுள்ள இச்சம்பவம் மிகுந்த வேதனையை ஒட்டுமொத்த தமிழ் மக்களுக்கும் ஏற்படுத்தி உள்ளது.
+In a statement issued by the Chief Coordinator of the Integrated Tamil Framework, Dawatru Agathiyar Adikallar, said the government had expressed its chauvinist mindset by preventing them from being able to disturb them.
+
+He said this in a statement in protest against the arrest of innocent people by the Sampur police on charges of disturbing Mullivaikkal Kanji in Muttur - Senayoor area.
+
+Memorial is the basic right of every human being. All the international laws globally emphasize it deeply. The incident, which took place in Senayoor, Trincomalee, has caused great pain to the entire Tamil people.
+
+In the days of painfulness, these days to pray for their relationships in those days, they have seen the plight of the tragedy of the tragedy of the tragedy of the life of the state apparatus.. This is a process that continues to deeply affects the goodwill between the ethnicities.
 
 ...
 
 [Data](articles/81d189c3.json)
+
+[Extended Data](ext_articles/81d189c3.ext.json)
 
 ---
 
@@ -370,23 +402,31 @@ Police said that the accident had occurred in the evening yesterday (14).
 
 ---
 
-### யாழில் அரச உத்தியோகத்தரின் இறப்பர் முத்திரையை போலியாக தயாரித்து சுமார் 17 இலட்சம் ரூபா மோசடி!
+### About 17 lakhs of rupees fraudulently prepared by the rubber stamp of the state official in Jaffna!
 
 *2024-05-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183570) · `ta`
 
-யாழ்ப்பாணம், கரவெட்டியில் அமைந்துள்ள ஆலயம் ஒன்றில் பிரதேச செயலக கலாச்சார உத்தியோகத்தரின் இறப்பர்  முத்திரையை போலியாகத் தயாரித்து சுமார் 17 இலட்சம் ரூபா நிதி மோசடி இடம்பெற்றுள்ளது.
+In Jaffna, a temple in Karavetti faces a financial fraud accusation of about 17 lakhs rupees. The temple's head allegedly misappropriated funds, including 7 lakhs in 2023 through a false partnership and a forged cultural officer's seal. This case has led to the resignation of the Vice President and Treasurer. The local administration's inaction over the misuse of the state seal has raised concerns, prompting the Divisional Secretary to lodge a complaint at the Mallakam Police Station regarding the fraudulent use of a fake rubber seal.
 
-குறித்த ஆலயத்தின் தலைவரே இவ்வாறு  ஆலய நிலையான வைப்பில் இருந்த பெருந்தொகையான நிதியை களவாடியுள்ளார்.
+🟩
 
-2023 ஐப்பசி மாதமளவில் 10 இலட்சம், 2024 தை மாதமளவில் 7 இலட்சம் இதற்காக போலியாக கூட்டறிக்கை தயாரித்தும் கலாச்சார உத்தியோகத்தரின் இறப்பர் முத்திரையையும் போலியாக தானகவே செய்து நெல்லியடி பிரபல  வங்கியிலிருந்த பணத்தை களவாடியள்ளார்.
+A temple located in Karavetti, Jaffna, has been accused of financial fraud of about 17 lakhs of rupees.
 
-இதேவளை இவர்களின் மோசடி அம்பலம் ஆகியதும் உபதலைவர், பொருளாளர் தாமாகவே முன்வந்து பணத்தை வட்டியும் முதலுமாக செலுத்தியுள்ளனர் .
+The head of the temple has thus stolen a large amount of funds in the temple.
 
-இம்மோசடி தொடர்பாக நிர்வாகம் எவ்விதமான நடவடிக்கைகளை மேற்கொள்ளாது இருப்பது மிகவும் மனவேதனை அளிக்கும் நிலையில்  அரச முத்திரையை போலியாக தயாரித்தமைக்கு கரவெட்டி உத்தியோகத்தர் பிரதேசசெயலகம் நடவடிக்கைகள் எடுக்குமா ?
+By the month of 2023, the month of 2023, by the month of 2023, 7 lakhs for the sake of a false partnership and the rubber stamp of the cultural officer, the nelliyadi was stolen money from the famous bank.
 
-...
+Their fraudulent exposure and the Vice President and Treasurer have volunteered for the first time.
+
+Will the Karavetti Officer Divisional Secretariat take action to make the state seal for fake as it is very disturbing that the administration does not take any action in this regard?
+
+When contacted by the Karavetti Divisional Secretary about the matter, he said that the money was taken using a fake rubber seal and that a complaint has been lodged at the Mallakam Police Station.
+
+◼️
 
 [Data](articles/175e752d.json)
+
+[Extended Data](ext_articles/175e752d.ext.json)
 
 ---
 
@@ -444,23 +484,29 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 
 ---
 
-### இராணுவத்தினருக்கு காணி வழங்கும் பணிகளை துரிதப்படுத்த விசேட குழு - ஜனாதிபதி நடவடிக்கை
+### Special Committee to expedite land supplying to military - President's action
 
 *2024-05-15 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183569) · `ta`
 
-இராணுவ வீரர்களுக்கு காணிகளை வழங்கும் நடவடிக்கைகளை துரிதப்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe has formed a committee led by Secretary Saman Ekanayake to speed up land allocation to soldiers, including police and civil defense personnel. The team includes officials from the Ministry of Defense, Army Service Authority, and the Attorney General's Department. This initiative aims to address previous unsuccessful attempts at launching similar programs.
 
-ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவின் தலைமையில், பாதுகாப்பு அமைச்சின் மேலதிக செயலாளர், காணி ஆணையாளர் நாயகம், இராணுவ சேவை அதிகாரசபையின் தலைவர் மற்றும் சட்டமா அதிபர் திணைக்களத்தின் உறுப்பினரொருவர் இக்குழுவுக்கு நியமிக்கப்பட்டுள்ளனர்.
+🟩
 
-தற்போது சேவையிலுள்ள, ஓய்வு பெற்ற, பணியின் போது உயிர் நீத்த பொலிஸ், சிவில் பாதுகாப்பு திணைக்களத்தினர், மற்றும் இராணுவத்தினருக்கு அரச காணி வழங்கப்படவுள்ளது.
+A special committee has been appointed by President Ranil Wickremesinghe to accelerate the process of providing land to soldiers.
 
-இராணுவ வீரர்களுக்கு காணி வழங்கும் வேலைத்திட்டம் இதற்கு முன்னர் பல தடவைகள் ஆரம்பிக்கப்பட்ட போதிலும், அது வெற்றிகரமாகவும் துரிதமாகவும் நடைமுறைப்படுத்தப்படாமையால் இவ்விடயம் தொடர்பில் பரிசீலித்த ஜனாதிபதி மேற்படி குழுவை நியமித்துள்ளார்.
+The committee has been appointed to the committee, headed by President Secretary Saman Ekanayake, Additional Secretary of the Ministry of Defense, the Commissioner General of Land, the Chairman of the Army Service Authority and the Attorney General's Department.
 
-ஜனாதிபதியின் உத்தரவுக்கமைய இராணுவத்தினருக்கு காணிகளை வழங்குவது தொடர்பில் பரிசீலித்து அதற்கான பணிகளை துரிதமாக ஏற்பாடு செய்வது சம்பந்தப்பட்ட குழுவின் பொறுப்பாகும்.
+The state land will be provided to the police, the civil defense department and the military who are currently in the service of the retired and retired work.
+
+The President has appointed the committee, which has considering the issue as the land provision program for soldiers has been launched several times before, but it has not been successfully implemented.
+
+It is the responsibility of the concerned committee to consider the provision of land to the military at the behest of the president.
 
 ◼️
 
 [Data](articles/7b1f4113.json)
+
+[Extended Data](ext_articles/7b1f4113.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 20:33:48**
+As of **2024-05-15 20:51:51**
 
 ## Newspaper Stats
 
-*Scraped **24,276** Articles*
+*Scraped **24,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
-adalk | 2,071
+adalk | 2,073
 adaderanalk | 2,818
-tamilmirrorlk | 2,855
+tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
 adaderanasinhalalk | 3,874
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,276 (100.0%) of 24,276 articles have been extended.
+24,276 (100.0%) of 24,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ஆறுகளின் நீர்மட்டம் அதிகரிப்பு
+
+*2024-05-15 20:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுகளின்-நீர்மட்டம்-அதிகரிப்பு/175-337375) · `ta`
+
+மழையுடனான காலநிலையை அடுத்து ஆறுகளின் நீர்மட்டம் அதிகரித்து வருகின்றது. மேலும், சில பகுதிகளில் வெள்ளப் பெருக்குகளும் பதிவாகியுள்ளன.
+
+களு கங்கை மற்றும் வளவ கங்கை ஆகிய ஆறுகளின் நீர்மட்டம் எச்சரிக்கை மட்டத்தை விடவும் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+எனவே ஆறுகளை அண்டியுள்ள தாழ்வான பகுதிகளில் வசிக்கும் மக்களை அவதானத்துடன் செயற்பாடுமாறு நீர்ப்பாசன திணைக்களம் அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/a557201b.json)
+
+---
+
+### සාපෙළ විද්‍යා ප්‍රශ්න පත්‍රයට නිදහස් ලකුණු දෙකක්
+
+*2024-05-15 20:04:48* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-විද්‍යා-ප්‍රශ්න-පත්‍රයට-නිදහස්-ලකුණු-දෙකක්/11-409653) · `si`
+
+මෙවර අ.පො.ස (සා.පෙළ) විද්‍යා ප්‍රශ්න පත්‍රයේ ප්‍රශ්න දෙකක් සඳහා නිදහස් ලකුණු දෙකක් ලබාදීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේ, විද්‍යා ප්‍රශ්න පත්‍රයේ 09 සහ 39 ප්‍රශ්න සඳහා එලෙස නිදහස් ලකුණු දෙක ලබාදීමට තීරණය කර ඇති බවයි.
+
+පසුගිය සතියේ පැවති සාමාන්‍ය පෙළ විද්‍යා ප්‍රශ්න පත්‍රයේ ගැටලුකාරි තත්වයක් පිළිබඳව කතිකාවක් පැන නැගුනු අතර විභාගයට පෙනී සිටි දරුවන්ට සාධාරණයක් කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම ජයන්ත මහතා මින් පෙර ප්‍රකාශ කොට තිබුණි .
+
+විද්‍යාව ප්‍රශ්න පත්‍රයේ ප්‍රශ්න කිහිපයක් අත්‍යවශ්‍ය ඉගැනුම් අන්තර්ගතයන්ට බාහිරව සකස් කර ඇති බවට කරුණු අනාවරණය වීම නිසා අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/989ee5c1.json)
+
+---
 
 ### Four attempts trying to abduct
 
@@ -75,6 +109,20 @@ Hazaranga, Sri Lanka's cricket team captain, secured the top spot among all play
 [Data](articles/6c70b56a.json)
 
 [Extended Data](ext_articles/6c70b56a.ext.json)
+
+---
+
+### ස්ලෝවැකියා අගමැතිට වෙඩි ප්‍රහාරයක්
+
+*2024-05-15 19:43:09* · [`adalk`](https://www.ada.lk/breaking_news/ස්ලෝවැකියා-අගමැතිට-වෙඩි-ප්‍රහාරයක්/11-409651) · `si`
+
+ස්ලේවැකියා අග්‍රාමාත්‍යවරයාට එල්ල වූ වෙඩි ප්‍රහාරයකින් අනතුරුව ඔහු තුවාල ලබා රෝහල් ගත කර ඇති බව විදේස් මාධ්‍ය තොරතුරු වාර්තා කරයි. වෙඩි තැබීමට සම්බන්ධ පුද්ගලයාද පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+කැබිනට් රැස්වීමෙන් අනතුරුව මෙම වෙඩි තැබීම සිදුව ඇති බවත් ජාත්‍යන්තර මාධ්‍ය තොරතුරු වාර්තා කරයි.
+
+◼️
+
+[Data](articles/a52c1ed1.json)
 
 ---
 
@@ -1776,9 +1824,11 @@ Wickremesinghe also highlighted the government’s achievement of implementing 7
 
 Despite facing accusations of shielding wrongdoers, the government remains steadfast in its commitment to combatting crime and ensuring justice, he further said.
 
-The President also reiterated his commitment to combating corruption by undertaking various transformative measures, the President’s Media Division (PMD) reported.
+“Some accuse the government of protecting thieves. However, illogically, this same government, accused of protecting thieves, has introduced legislation to arrest them.”
 
-◼️
+However, he added that effective implementation of these laws requires practical experience, requiring comprehensive training programs.
+
+...
 
 [Data](articles/08b16689.json)
 
@@ -2279,73 +2329,5 @@ The leader of the Human Rights Commission said that the mother had lodged a comp
 [Data](articles/3dfd50fd.json)
 
 [Extended Data](ext_articles/3dfd50fd.ext.json)
-
----
-
-### Two female students go missing after O/L in Nawalapitiya
-
-*2024-05-15 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-female-students-go-missing-after-OL-in-Nawalapitiya/108-282639) · `en`
-
-Nawalapitiya, May 15 (Daily Mirror) - A police complaint was lodged yesterday stating that two schoolgirls had not returned home after their GCE Ordinary Level (O/L) examinations held at an examination centre in Ginigathhena.
-
-The complaint was lodged by the guardians of the two girls, who had come to the examination centre at the Ambagamuwa National School with their parents.
-
-The students are from the Nagastenna and Agra Oya areas in Nawalapitiya.
-
-Police investigations revealed that the missing schoolgirls had met with friends near the examination centre and were later spotted in the Nawalapitiya town still in their school uniforms.
-
-Photos of the missing girls have been distributed to all police stations, and a special police investigation has been launched to locate them.
-
-◼️
-
-[Data](articles/02260af5.json)
-
-[Extended Data](ext_articles/02260af5.ext.json)
-
----
-
-### Warm stability near the Presidential Secretariat
-
-*2024-05-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196643) · `si`
-
-Protesters gathered outside the Presidential Secretariat today, leading to a heated situation as police removed banners. They submitted a memorandum to the President's Additional Secretary, protesting against a decision affecting MPs.
-
-🟩
-
-Hot near the Presidential Secretariat has arisen due to a protest.
-
-A protest was organized in front of the Presidential Secretariat this morning (15).
-
-With the commencement of the protest, the police had removed the banner with a heated condition with the protesters.
-
-The protesters later handed over a memorandum to the President's Additional Secretary Kapila Munasinghe.
-
-They were organized in protest of the decision to be restored to the MPs.
-
-◼️
-
-[Data](articles/bda28250.json)
-
-[Extended Data](ext_articles/bda28250.ext.json)
-
----
-
-### Sri Lanka in talks with India to set up arms manufacturing unit: State Defence Minister
-
-*2024-05-15 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-india-to-set-up-arms-manufacturing-unit-state-defence-minister-163113/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in discussion with Indian arm producers to establish an arms manufacturing unit in the island nation, State Defence Minister Premitha Bandara Tennakoon said.
-
-The State Minister’s comments come a month after Indian arm manufacturers demonstrated Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar while the island nation has been expecting for future joint collaboration in weapon production and military services.
-
-“We are in discussion with India to set up a small arms manufacturing unit,” Tennakoon told reporters at a media briefing in Colombo on Wednesday (15).
-
-“What you have to understand is the Indian defence manufacturing arm has boomed during the last two decades. It is a model that we have to look into. We can take a lot from Indian model and nothing wrong in learning from them. I think we also should get into the manufacturing,” he said.
-
-...
-
-[Data](articles/fe0b73af.json)
-
-[Extended Data](ext_articles/fe0b73af.ext.json)
 
 ---

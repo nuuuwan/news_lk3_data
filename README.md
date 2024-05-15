@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 12:05:19**
+As of **2024-05-15 12:18:25**
 
 ## Newspaper Stats
 
-*Scraped **24,168** Articles*
+*Scraped **24,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,061
-adaderanalk | 2,805
-tamilmirrorlk | 2,842
-virakesarilk | 3,624
-dailymirrorlk | 3,799
+adaderanalk | 2,806
+tamilmirrorlk | 2,845
+virakesarilk | 3,630
+dailymirrorlk | 3,801
 adaderanasinhalalk | 3,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,165 (100.0%) of 24,168 articles have been extended.
+24,168 (100.0%) of 24,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Tense situation near Presidential Secretariat due to protest
+
+*2024-05-15 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99229/tense-situation-near-presidential-secretariat-due-to-protest) · `en`
+
+A tense situation has been reported near the Presidential Secretariat in Colombo due to a protest.
+
+The “Citizen Power Organization against Bribery, Corruption and Waste” had organized a protest in front of the Presidential Secretariat this morning (15).
+
+As the protest commenced police officers had proceeded to remove the banners, sparking heated exchanges between law enforcement officers and the protestors.
+
+Subsequently, the protestors submitted a memorandum to the President’s Additional Secretary, Mr. Kapila Munasinghe, voicing their opposition to the decision to once again provide vehicle permits for Members of Parliament.
+
+◼️
+
+[Data](articles/84b2dd06.json)
+
+---
 
 ### CEB facing serious shortage of engineers – officials tell COPE
 
@@ -48,11 +66,79 @@ Meanwhile, it was revealed in the COPE meeting that the Ceylon Electricity Board
 
 [Data](articles/f5a67878.json)
 
+[Extended Data](ext_articles/f5a67878.ext.json)
+
 ---
 
-### மகளுக்கு சிகிச்சை ; யாசகம்  பெற்றவர் கைது
+### Public asked not to panic over AstraZeneca vaccine
+
+*2024-05-15 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-asked-not-to-panic-over-AstraZeneca-vaccine/108-282643) · `en`
+
+Colombo, May 15 (Daily Mirror) - In the wake of the recent mass withdrawal of AstraZeneca vaccines due to concerns over rare blood clots, Sri Lanka health experts emphasized that individuals who have received the AstraZeneca vaccine need not harbour undue fears regarding its safety.
+
+Addressing the media, Dr. Ananda Wijewickrama, Chairman of the National Medicinal Drugs Regulatory Authority, referenced a case in which the manufacturer of AstraZeneca acknowledged that complications from the vaccine are exceedingly rare, a fact they had previously admitted.
+
+He underscored that these rare complications are not indicative of future adverse effects, providing reassurance on the overall safety profile of the vaccine.
+
+◼️
+
+[Data](articles/24323728.json)
+
+---
+
+### யாழ்.போதனாவில் குழந்தையை பிரசவித்துவிட்மு கைவிட்டு சென்ற சிறுமி பொலிஸாரிடம் சிக்கினார் : இளைஞன் ஒருவரும் கைது
+
+*2024-05-15 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183586) · `ta`
+
+யாழ்.போதனா வைத்தியசாலையில்  பிரசவித்த குழந்தையை கைவிட்டு சென்ற 15 வயதுடைய சிறுமி நேற்று செவ்வாய்க்கிழமை (14)  பொலிஸாரிடம் சிக்கியுள்ளார்.
+
+யாழ்.போதனா வைத்தியசாலையில் கடந்த வாரம் 15 வயதான பாடசாலை மாணவி பிரசவத்திற்காக அனுமதிக்கப்பட்டிருந்தார். தாயரும் குறித்து சிறுமியுடன் உதவிக்கு நின்றுள்ளார்.
+
+சிறுமிக்கு குழந்தை பிறந்ததும் மறுநாள், தாயும் சிறுமியும் குழந்தையை வைத்தியசாலையில் கைவிட்டுவிட்டு அங்கிருந்து தப்பி சென்றுள்ளனர்.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் சிறுமி நெல்லியடி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்தவர் என கண்டறிந்து , அது தொடர்பில் நெல்லியடி பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+
+நெல்லியடி பொலிஸார் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் , குழந்தையை பிரசவித்த சிறுமியையும் அவரது தாயாரையும் கண்டறிந்து பொலிஸ் நிலையத்திற்கு அழைத்து சென்று விசாரணைகளை முன்னெடுத்தனர்.
+
+விசாரணைகளின் அடிப்படையில் , மாணவியை வன்புணர்வுக்குட்படுத்தி, கர்ப்பமாக்கிய மல்லாவி பகுதியை சேர்ந்த 25 வயதான இளைஞனை கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/0a279163.json)
+
+---
+
+### Treatment for daughter;Arrest
 
 *2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளுக்கு-சிகிச்சை-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
+
+A father from Kattankudi allegedly deceived his daughter, leading to her needing kidney treatment due to damage from a fall in Jaffna. The police, acting on confidential tips, rescued the child and arrested the father after admitting her to Jaffna Bodhana Hospital, where it was found she was not ill. The case involves a 4-year-old girl in a wheelchair, highlighting a tragic situation involving deception and medical urgency.
+
+🟩
+
+A father has been arrested for allegedly lying to his daughter from Kattankudi area and for his daughter to have money for kidney treatment.
+
+A 4 -year -old girl in the Kaliyangadu market in Jaffna has left a 4 -year -old girl in a wheelchair and a girl's two kidneys have been damaged.
+
+Based on the confidential information received by the Kopay police, the police have rescued the girl and arrested the girl and arrested the person who had been admitted to the Jaffna Bodhana Hospital.
+
+A medical examination for the girl who was admitted to the hospital revealed that the girl had no health and that the girl would be healthy.
+
+During the investigation of the man who was arrested, the girl said that she belonged to Kattankudi area and the girl was her daughter.
+
+The court has also ordered the person to be interrogated and admitted the girl to the children's archive.
+
+◼️
+
+[Data](articles/69354300.json)
+
+[Extended Data](ext_articles/69354300.ext.json)
+
+---
+
+### பொய் கூறி   யாசகம்  பெற்றவர் கைது
+
+*2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்-கூறி-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
 
 காத்தான்குடி பகுதியில் இருந்து யாழ்ப்பாணம் வந்து , தனது மகளுக்கு சிறுநீரக சிகிச்சைக்கு பணம் வேணும் என பொய் கூறி  யாசகம் பெற்ற தந்தையொருவர் கைது செய்யப்பட்டுள்ளார்.
 
@@ -64,7 +150,27 @@ Meanwhile, it was revealed in the COPE meeting that the Ceylon Electricity Board
 
 ...
 
-[Data](articles/69354300.json)
+[Data](articles/93b04f40.json)
+
+---
+
+### அனுராதபுரத்தில் வெள்ளை வானில் ஒருவர் கடத்தப்பட்ட சம்பவம் - உடனடியாக விசாரணைகளை கோரியது இலங்கைமனித உரிமை ஆணைக்குழு
+
+*2024-05-15 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183587) · `ta`
+
+அனுராதபுரத்தை சேர்ந்த கபில குமார டிசில்வா என்பவர் பலவந்தமாக கடத்தப்பட்டது  தொடர்பில் சட்டமாஅதிபர் உடனடியாக விசாரணைகளை ஆரம்பிக்கவேண்டும் என இலங்கையின்மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+அனுராதபுரம் ஹொரவப்பொத்தானையை சேர்ந்த கபிலகுமார டிசில்வா கடத்தப்பட்டு இரகசியமறைவிடத்தில் தடுத்துவைக்கப்பட்டிருக்கலாம் என்பது குறித்து விசாரணைகளை மேற்கொள்ளுமாறு இலங்கை மனித உரிமைஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+இலங்கையை மீகநீண்டகாலமாக பாதித்துவரும் பலவந்த காணாமல்போகச்செய்தல் மீண்டும் தலைதூக்குகின்றது என்ற அச்சத்தின்மத்தியில்இலங்கையின் மனித உரிமை ஆணைக்குழு இந்த வேண்டுகோளை விடுத்துள்ளது.
+
+கபிலடிசில்வா என்பவர் காணாமல்போனதன் பின்னணியில்உள்ள  அச்சத்தை ஏற்படுத்தும் விடயங்கள் குறித்து இலங்கை மனித உரிமை ஆணைக்குழுவின் தலைவர் நீதிபதி எல்டிபி தெகிதெனிய கடிதமொன்றை சட்டமா அதிபருக்கு அனுப்பியுள்ளார்.
+
+மார்ச் 27 ம் திகதி முதல் கபில டிசில்வா என்பவர் காணாமல்போயுள்ளார் என அவரது தாயார் தெரிவித்துள்ளார் என அவர் தனது கடிதத்தில்  குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/3dfd50fd.json)
 
 ---
 
@@ -116,6 +222,22 @@ They were organized in protest of the decision to be restored to the MPs.
 
 ---
 
+### சிறுவர் தலைமுறைக்காக மதுபானம், போதைவஸ்துகளுக்கு முற்றுப்புள்ளி வைப்பேன் - சஜித்
+
+*2024-05-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183579) · `ta`
+
+மதுபான அனுமதிப் பத்திரங்கள், குறைந்த அளவில் போதையூட்டும் மதுபான வகைகளுக்கான அனுமதிப்பத்திரம் மற்றும் அதிக போதையூட்டும் மதுபான வகைகளுக்கான அனுமதிப்பத்திரம் என பெரும் அரசியல் சூதாட்டம் நடந்து வருகிறதென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+அத்துடன் இதன் மூலம் வாக்கு சேகரிக்க சிலருக்கு பணம் கிடைத்தாலும், நாட்டுக்கும், மக்களுக்கும், இளைஞர்களுக்கும் பயன் ஏதுமில்லை. அரசியல்வாதிகள் வைத்தியசாலைகளுக்கு உபகரணங்களை வழங்குவதை போல மது மற்றும் போதைப்பொருளால் ஏற்படும் பாதிப்புகள் குறித்து வெளிப்படையாக பேச வேண்டும் எனவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+மதுபான நிறுவனங்கள் இன்று சக்தி வாய்ந்த ஒன்றாக மாறிவிட்டன. இந்நிறுவனங்களால் எந்தவொரு பிரபல நபரையும் பணத்துக்காக எடுத்துக் கொண்டு, அரசாங்கத்திற்கு செலுத்த வேண்டிய முறையான வரிகளை செலுத்தத் தவறிவிடுகின்றனர். பண பலம் இருப்பதால் மாத்திரம் வரி செலுத்தாமல் இருப்பது ஒருபுறமிருக்க,மறுபுறம் நாட்டு மக்களையும், பிள்ளைகளையும், இளைஞர்களையும் மரணப் படுக்கைக்கு இட்டுச்செல்கின்றனர் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/cc706790.json)
+
+---
+
 ### The student left the fetus was trapped
 
 *2024-05-15 11:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிசுவை-விட்டுச்சென்ற-மாணவி-சிக்கினார்/71-337348) · `ta`
@@ -157,6 +279,78 @@ Together, they aim to address the stigma and myths surrounding leprosy, which ha
 [Data](articles/1dfa83ef.json)
 
 [Extended Data](ext_articles/1dfa83ef.ext.json)
+
+---
+
+### இலங்கையில் செயற்படும் உண்மை மற்றும் நல்லிணக்க திட்டம் காணப்படுவது அவசியம் - எதிர்கால தேர்தல்களில் வெற்றிபெறுபவர்கள் இதனை உறுதி செய்யவேண்டும்  அமெரிக்காவின் உதவி இராஜாங்க செயலாளர் டொனால்ட் லு
+
+*2024-05-15 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183582) · `ta`
+
+இலங்கையில் செயற்படும் உண்மை மற்றும் நல்லிணக்க திட்டமொன்று காணப்படுவது அவசியம் என தெரிவித்துள்ள அமெரிக்காவின் தெற்கு மற்றும் மத்திய ஆசியாவிற்கான உதவி இராஜாங்க செயலாளர்  டொனால்ட் லு எதிர்வரும் தேர்தல்களில் வெற்றிபெறும் தலைவர்கள்  இதனை முன்னெடுப்பார்கள் என  எதிர்பார்ப்பதாகவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கையின் தற்போதைய கடன்மறுசீரமைப்பு திட்டம் குறித்து கருத்து தெரிவித்துள்ள அவர் அமெரிக்கா அபிவிருத்தி சகாவாக விளங்குவதற்கு தயார் இலங்கையின் அபிவிருத்தி செயற்பாடுகளுக்கு நிதி ஆலோசனை மற்றும் கடனை வழங்க தயார் எனவும் குறிப்பிட்டுள்ளார்.
+
+இருதரப்பு உறவுகளை இலங்கை தொடர்ந்தும் வலுப்படுத்தவேண்டும் என அமெரிக்கா ஊக்குவிக்கின்றது ஆரோக்கியமான போட்டிதன்மையை பேணுவதற்கு வெளிநாட்டு தரப்புகள் இலங்கையில் முதலீடு செய்வதற்கு இலங்கை வாய்ப்புகளை வழங்கவேண்டும் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+அதன் மூலம் கிடைக்கின்ற நன்மைகளை பொதுமக்களிற்கு வழங்கவேண்டும் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/6b0b9128.json)
+
+---
+
+### பான் ஏசியா வங்கியின் ட்ரெயில்பிளேசர் வருடாந்த  சில்லறை விற்பனை விருதுகளில் அதன் உயர்மட்ட பணியாளர்களில் உள்ள விதிவிலக்கான சாதனையாளர்கள் முக்கிய இடம்
+
+*2024-05-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183577) · `ta`
+
+பான் ஏசியா வங்கியின் ட்ரெயில்பிளேசர் வருடாந்த  சில்லறை விற்பனை விருதுகளில் அதன் உயர்மட்ட பணியாளர்களில் உள்ள விதிவிலக்கான சாதனையாளர்கள் முக்கிய இடத்தைப் பிடித்தனர்.
+
+கடுமையான சந்தை நிலைமைகளுக்கு மத்தியிலும், 2023 நிதியாண்டில் செய்யப்பட்ட விதிவிலக்கான சாதனைகளை அங்கீகரிப்பதற்காக இந்த சந்தர்ப்பம் வழங்கப்பட்டது.
+
+மிகவும் கொந்தளிப்பான காலங்களிலும் வங்கியை வெற்றியடையச் செய்ததில் ஊழியர்கள் காட்டிய அர்ப்பணிப்பையும் விடாமுயற்சியையும் பாராட்டுவதற்காக  கொண்டாடப்பட்ட இந்நிகழ்வில்  குதூகலமும் பெருமையும்  கரைபுரண்டு ஓடியதைக் காணமுடிந்தது. அத்துடன் வாடிக்கையாளர்களுக்கு சேவை செய்வதிலும் நாட்டின் செழிப்பிலும் பான் ஏசியா வங்கி காட்டிவந்த  அக்கறையும் ஒற்றுமையும்  இங்கு  புடம்  போட்டுக் காட்டப்பட்டிருந்தது.
+
+...
+
+[Data](articles/23e720d3.json)
+
+---
+
+### காட்டுத் தீ : கனடாவின் எண்ணெய் வளமிக்க பகுதிக்கு அச்சுறுத்தல்
+
+*2024-05-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183580) · `ta`
+
+கனடாவின் எண்ணெய் வளம் மிக்க போர்ட் மெக்முரே பகுதியில் (Fort McMurray) பாரிய காட்டுத்தீ தீவிரமாகப் பரவி வருகிறது.
+
+இதன் காரணமாக நான்கு புறநகர்ப் பகுதிகளில் உள்ள சுமார் 6,000 மக்களை  வெளியேறுமாறு செவ்வாய்க்கிழமை உத்தரவிடப்பட்டுள்ளது.
+
+வரட்சி மற்றும் பலத்த காற்றினால் ஆல்பர்ட்டாவின் மேற்கு மாகாணத்தில் கடந்த வாரம் முதல் காட்டுத் தீ தீவிரமடைந்துள்ளது.
+
+தற்போது காட்டுத் தீ தென்மேற்கே சுமார் 13 கிலோ மீற்றர் (8 மைல்) தொலைவில் உள்ளது. அங்கு மணிக்கு 40 கிலோ மீற்றர் (24.8 மைல்) வேகத்தில் காற்று வீசியுள்ளது.
+
+பலத்த காற்று வீசுவது துரதிர்ஷ்டவசமாக எங்களுக்கு சாதகமானதாக இல்லை.  காற்றின் வேகம் குறையும் வரை காட்டு தீ நகரத்தை நோக்கி தொடர்ந்து பரவி வரும் என  ஆல்பர்ட்டா காட்டுத் தீ தகவல் தொடர்பு அதிகாரி ஜோசி செயின்ட்-ஓங்கே தெரிவித்துள்ளார்.
+
+காட்டுத் தீ தீவிரமடைந்துள்ளதால் வானம் புகையால் சூழப்பட்டுள்ளது. பாதுகாப்பு காரணங்களுக்காக தீயணைப்பு வீரர்கள் தீ பரவும்  பகுதியிலிருந்து வெளியேற்றப்பட்டனர். 10,000 ஹெக்டயர் பரப்பிலான வனப்பகுதிகளில் தீ பற்றி எரிந்து வருகிறது.
+
+...
+
+[Data](articles/dda531df.json)
+
+---
+
+### சிறையில் இடம்பெற்ற கொலை ஒப்பந்தம் குறித்து விசாரணை
+
+*2024-05-15 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இடம்பெற்ற-கொலை-ஒப்பந்தம்-குறித்து-விசாரணை/175-337347) · `ta`
+
+காலி சிறைச்சாலையில் உள்ள சிறைச்சாலை அதிகாரி ஒருவர், சக பெண் வார்டன் ஒருவரைக் கொலை செய்ய சிறையிலிருந்த பெண் கைதியை ஈடுபடுத்தியதாக எழுந்த குற்றச்சாட்டு தொடர்பில் காலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+பொலிஸ் அதிகாரிகள் குழுவொன்று காலி சிறைச்சாலைக்கு விஜயம் செய்து, குற்றம் சாட்டப்பட்ட சிறைச்சாலை அதிகாரி மற்றும் இலக்கு வைக்கப்பட்ட வார்டன் உட்பட பல நபர்களிடம் வாக்குமூலங்களை பதிவு செய்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+காலி சிறைச்சாலையின் எல்லைக்குள் பல குற்றச் செயல்களில் ஈடுபட்டு சிறைவாசம் அனுபவித்து வரும் பெண் கைதி ஒருவருக்கு சிறைக்காவலர் ஒப்பந்தம் ஒன்றை வழங்கியதாக வார்டன் தாக்கல் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/137bc34f.json)
 
 ---
 
@@ -303,6 +497,24 @@ He said that the right to commemorate the dead in the war is an internationally 
 [Data](articles/1a6a40d1.json)
 
 [Extended Data](ext_articles/1a6a40d1.ext.json)
+
+---
+
+### உயிரிழந்தவர்களை நினைவு கூர  உரிமையுண்டு
+
+*2024-05-15 10:39:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவர்களை-நினைவு-கூர-உரிமையுண்டு/175-337342) · `ta`
+
+யுத்தத்தில் உயிரிழந்தவர்களை நினைவு கூருவதற்கு உறவினர்களுக்கும் அவர்களின் தோழர்களுக்கும் உரிமை உண்டு என கூறியுள்ள தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், அவர்களின் உரிமைகளை பாதுகாக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+
+பலஸ்தீனப் போர் தொடர்பான விவாதத்தின் போது பேசிய அவர், இலங்கையில் உள்நாட்டுப் போரில் உயிரிழந்தவர்களின் உறவினர்கள் மற்றும் தோழர்களுக்கு போரில் இறந்தவர்களை நினைவு கூர உரிமை உண்டு என்று கூறியதுடன், சம்பூரில் முள்ளிவாய்க்கால் போரில் உயிரிழந்தவர்களை நினைவுகூரும் நினைவேந்தல் நடத்தியதற்காக 3 பெண்கள் மற்றும் ஒரு ஆண் கைது செய்யப்பட்டதற்கு கண்டனம் தெரிவித்தார்.
+
+நக்பா சம்பவத்தில் இறந்தவர்களை நினைவுகூரும் நாள் ஒன்றை ஐக்கிய நாடுகள் சபை பிரகடனப்படுத்தியுள்ளதாகவும், அதேபோன்று உள்நாட்டுப் போரில் இறந்தவர்களை நினைவுகூருவதற்கு இலங்கையர்களுக்கும் உரிமை உண்டு எனவும் எம்.பி. தெரிவித்தார்.
+
+போரில் இறந்தவர்களை நினைவு கூரும் உரிமையானது சர்வதேச ரீதியாக ஏற்றுக்கொள்ளப்பட்ட உரிமை எனவும், இலங்கையிலும் அந்த உரிமை உறுதிப்படுத்தப்பட வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/82670bc5.json)
 
 ---
 
@@ -1802,6 +2014,8 @@ But while I speak on that issue, I will also later in my speech refer to the dou
 
 [Data](articles/e4730e0b.json)
 
+[Extended Data](ext_articles/e4730e0b.ext.json)
+
 ---
 
 ### Do not stop the telephone.
@@ -1949,247 +2163,5 @@ They are talking about international crimes, including human rights, internation
 [Data](articles/24dfd5d7.json)
 
 [Extended Data](ext_articles/24dfd5d7.ext.json)
-
----
-
-### The media hides the Palestinian disaster
-
-*2024-05-15 00:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-பேரழிவை-ஊடகங்கள்-மறைக்கின்றன/175-337311) · `ta`
-
-Imtiaz Pakir Makar accuses media of covering up the Palestinian crisis, likening it to the apartheid era. He criticizes the media for not exposing the ongoing disaster in Palestine, despite social media revealing some truths. Last week, the UN granted Palestine full membership, despite threats from Israel to cut US aid to the UN. This move was supported by 143 countries, with only nine, including the US and Israel, opposing it. Makar highlights the ongoing challenges to international justice and human rights.
-
-🟩
-
-United People's Power MP Imtiaz Pakir Makar said that the genocide and disaster that has been carried out on Palestinian soil for more than six months, the world's mighty media and some of our country's mighty media are covering up.
-
-He said this while addressing the debate on the proposal on the present stage of Palestine in Parliament on Tuesday (14).
-
-The forces that saved the South African apartheid regime, in the same manner, are still trying to cover up the injustice and repression of Palestinian soil, and go against the mandate of the people of the world, and seek refuge for the separatist and inhumane rule.
-
-Although the mighty media is covered, the reality of Palestine is almost exposed to the community through social media.
-
-...
-
-[Data](articles/bfb59356.json)
-
-[Extended Data](ext_articles/bfb59356.ext.json)
-
----
-
-### In the midst of threats, Mullivaikkal porridge
-
-*2024-05-15 00:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அச்சுறுத்தல்களுக்கு-மத்தியில்-முள்ளிவாய்க்கால்-கஞ்சி/175-337310) · `ta`
-
-In Batticaloa, the Mullivaikkal porridge event, a 3-day offering, faced police threats and disruptions. Despite obstacles, it continued with participation from former parliamentarian Gnan Sirinasan and human rights activist Lavakumar. Police chased away the Tamil National People's Front's national organizer, Suarez, and prevented the distribution of porridge to the public, leading to heated arguments and further crises.
-
-🟩
-
-In Batticaloa, the Mullivaikkal porridge event was distributed on Tuesday (14) amidst various threats, despite the severe obstacles of the police.
-
-The 3 -day porridge offering of the porridge week was held on Tuesday (14).The police chased away the national organizer of the Tamil National People's Front (TNA).
-
-Arrangements have been made to provide porridge under the auspices of the Relations Association of the Missing Relations in the Vinayar Plant at the Sumadangi junction in Batticaloa.
-
-Former parliamentarian Gnan Sirinasan, relatives who were uninhabited, and many other human rights activist Lavakumar participated in the event.
-
-During this time, the police, who went with the public health inspectors, gave various crises, such as facial, helmets, gloves and health problems.
-
-The people, who were involved in heavily arguments with the police and the public health inspector, fell into the crisis.
-
-...
-
-[Data](articles/8e1b7a2d.json)
-
-[Extended Data](ext_articles/8e1b7a2d.ext.json)
-
----
-
-### Lankan mercenaries fighting in Russo-Ukraine war - EDITORIAL
-
-*2024-05-15 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lankan-mercenaries-fighting-in-Russo-Ukraine-war-EDITORIAL/172-282591) · `en`
-
-Media reports have been circulating of Sri Lankan ex-military personnel being involved in the Russo-Ukraine conflict. With the war raging in Ukraine, many Ukrainian males of military age have fled to neighbouring EU countries to avoid military service. It should not be unexpected that recruiters would seek battle-hardened military men from foreign lands.
-
-Our country with a large number of battle-hardened troops either idling in camps or having deserted military service is therefore a soft target for foreign recruiters. All they needed were locals with insider knowledge and capacity to help them recruit.
-
-According to media reports a former Major General and an ex-sergeant have been among their local point men.
-
-In the aftermath of the war, former veterans have had all their special allowances cut. They now depend on their basic wage.
-
-...
-
-[Data](articles/fd39d0d0.json)
-
-[Extended Data](ext_articles/fd39d0d0.ext.json)
-
----
-
-### Last throes of dynastic enterprise: Rajapaksa plots to stall recovery after ruining economy
-
-*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Last-throes-of-dynastic-enterprise-Rajapaksa-plots-to-stall-recovery-after-ruining-economy/172-282590) · `en`
-
-Mahinda Rajapaksa thrives in a sense of inviolability and a culture of  impunity fostered by the very system that sustains their political  existence.
-
-Like the rest of his ilk in this part of the world, Mahinda Rajapaksa overstayed his welcome in the power. He ran the economy to the ground as he did with the national carrier, which he re-nationalized out of a fit of rage after its Emirates management refused to deplane fee-levying passengers to make room for his entourage.
-
-He tried on a dynastic power grab that went spectacularly wrong, ending in the worst-ever financial crisis since the independence.
-
-But, like every crook and conman in Third World politics,  Mahinda Rajapaksa thrives in a sense of inviolability and a culture of impunity fostered by the very system that sustains their political existence.
-
-...
-
-[Data](articles/548cc979.json)
-
-[Extended Data](ext_articles/548cc979.ext.json)
-
----
-
-### Expressway beam COLLAPSE causes Rs 66 ML loss  to Govt.
-
-*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Expressway-beam-COLLAPSE-causes-Rs-66-ML-loss-to-Govt/172-282592) · `en`
-
-The picture shows one of the beams of the highway after it collapsed
-
-The construction of the phase from Kottawa to Pinnaduwa- of the project titled ‘Expressway Network of Sri Lanka’- was completed in 2011. During its construction, a medical student died as a result of a minor collapse of a bridge on the expressway in 2008. This incident sparked widespread concern regarding the quality and reliability of this expressway facility. Although the concept of expressways was relatively new to Sri Lankans at that time, there was significant discourse regarding passenger safety; particularly in the event of a bridge or culvert falls apart while the facility is being used for travel. Investigations later confirmed that the cause of the collapse was the improper construction of the bridge.
-
-The other beams at a 45 degree angle are unaffected by the collapse of one beam
-
-...
-
-[Data](articles/84b8c049.json)
-
-[Extended Data](ext_articles/84b8c049.ext.json)
-
----
-
-### FX Global Code to be rolled out by end 2024
-
-*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FX-Global-Code-to-be-rolled-out-by-end-2024/108-282616) · `en`
-
-In line with the objectives to foster a deeper and more liquid foreign exchange market and develop adequate systems for managing exchange rate risks, the Central Bank (CB) plans to implement the FX Global Code (FXGC) in the domestic forex market by the end of this year.
-
-CB recently revealed that it is in discussions with the ACI Financial Markets Association and market participants to enable it to implement the anticipated FX Global Code (FXGC).
-
-“The purpose of implementing the FXGC in the domestic foreign exchange market is to provide a common set of guidelines to promote a robust, fair, liquid, open, and appropriately transparent market, in which market participants can confidently and effectively transact at competitive prices that reflect available market information,” the CB said.
-
-...
-
-[Data](articles/c2ecf7df.json)
-
-[Extended Data](ext_articles/c2ecf7df.ext.json)
-
----
-
-### Case against Vijayadasa
-
-*2024-05-15 00:00:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாசவுக்கு-எதிராக-வழக்கு/175-337309) · `ta`
-
-Duminda Dissanayake sued in Colombo District Court, seeking to stop Vijayadasa Rajapaksa from leading SLFP. The lawsuit names five defendants, including Sarath Ekanayake.
-
-🟩
-
-Parliamentarian Duminda Dissanayake filed a lawsuit in the Colombo District Court on Tuesday (14) demanding an injunction to prevent the act of acting as the SLFP leader.
-
-In the petition, five defendants, including Sarath Ekanayake and Minister Vijayadasa Rajapaksa.
-
-◼️
-
-[Data](articles/839c5339.json)
-
-[Extended Data](ext_articles/839c5339.ext.json)
-
----
-
-### 2024-05-14 (Tuesday)
-
-### Lonely girl
-
-*2024-05-14 23:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-சென்ற-சிறுமி-கூட்டுப்-பாலியல்-துஷ்பிரயோகம்/175-337308) · `ta`
-
-Two youths, aged 26 and 21, were arrested for abducting a 15-year-old girl in Batticaloa-Wellaveli. The girl was alone when she was taken from a forest area. The suspects are in hospital after a complaint was filed. Police are preparing to take them to court.
-
-🟩
-
-Wellaveli police said that two youths have been arrested last night (13), abducting a 15 -year -old girl who was abducted in a forest area in Batticaloa - Wellaveli.
-
-A 15 -year -old girl from the area was returning home from her home on the 7th and returning from there in solitude.
-
-The victim told the parents that the 26 and 21 -year -old youth from the area were arrested and admitted to the hospital after a complaint lodged at the police station yesterday.
-
-Police said that steps have been taken to bring the arrested persons to court. Remble
-
-◼️
-
-[Data](articles/58b335b6.json)
-
-[Extended Data](ext_articles/58b335b6.ext.json)
-
----
-
-### Murder of female;The corpse that was available after 4 years
-
-*2024-05-14 22:59:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொலை-4-வருடங்களின்-பின்-கிடைத்த-சடலம்/175-337306) · `ta`
-
-A woman named Nilushika Santamaly, mother of three, was murdered four years ago in Galle, Tawalama. Her body was found in a toilet pit in Hallakanda, hidden after being killed by her ex-husband, Padala Shantha, who also assaulted her. The case, which has been under investigation for four years, led to the arrest of Padala Shantha and another man, Hanagodake Shantha. The incident highlights a tragic case of domestic violence and murder.
-
-🟩
-
-Information about a woman who was murdered 4 years ago in Galle - Tawalama area has now been revealed.
-
-It was revealed that the woman's illicit killed him and threw his body into the toilet cavity.
-
-Accordingly, the body of the mother of three children who was murdered four years ago was found hidden in a toilet pit in the forest area in Hallakanda area in Galle.
-
-Her mother had lodged a complaint with the police at the time as Nilushika Santamaly had disappeared since June 6, 2020.
-
-Nilushika, who was divorced from her first marriage, lived with her two children with a man named "Padala Shantha" and has a baby boy.
-
-The mother of the three children, she was investigating the disappearance of the police, but could not reveal any information.
-
-It is against this backdrop that investigations into the incident have been sent to the Galle Division.
-
-...
-
-[Data](articles/aa7024b8.json)
-
-[Extended Data](ext_articles/aa7024b8.ext.json)
-
----
-
-### Public Security Min. & Immigration Dept. officials a no-show at CoPF meeting?
-
-*2024-05-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99221/public-security-min-immigration-dept-officials-a-no-show-at-copf-meeting) · `en`
-
-The Committee on Public Finance (CoPF) expressed strong displeasure regarding the absence of officials from the Ministry of Public Security and the Department of Immigration and Emigration during discussions concerning the recent issues pertaining to the process of issuing online visa for foreigners visiting Sri Lanka.
-
-The committee chair Harsha de Silva noted that officials from the Public Security Ministry and the Immigration Department had previously committed to attending the committee meeting but failed to do so, which was viewed as disrespectful to the committee. The late notice provided the evening before the meeting was deemed unacceptable, the Parliamentary Communications Department said.
-
-As a result, it was decided to summon representatives from the relevant ministry and the department once again for further discussions regarding the appointment of GBS-IVS and VFS Global as authorized agents for online visa applications.
-
-...
-
-[Data](articles/3b1509c0.json)
-
-[Extended Data](ext_articles/3b1509c0.ext.json)
-
----
-
-### Sri Lankans have right to commemorate war dead: Vijitha
-
-*2024-05-14 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-have-right-to-commemorate-war-dead-Vijitha/108-282603) · `en`
-
-Claiming that relatives and comrades have a right to commemorate the war dead, NPP MP Vijitha Herath said today that the government must take steps to protect their rights.
-
-Speaking during the adjournment debate on the Palestine war, he said relatives and comrades of those who were killed in civil wars in Sri Lanka have a right to commemorate the war dead and condemned the arrest of three females and a male in Sampur for holding a commemoration event in remembrance of the Mullivaikkal war dead.
-
-The MP said United Nations declared a day for commemoration of the dead in the Nakba incident and similarly Sri Lankans also have a right to commemorate those dead in civil wars.
-
-He said right to commemorate war dead is a right accepted internationally and added that the right should be ensured in Sri Lanka as well.
-
-◼️
-
-[Data](articles/2d86314a.json)
-
-[Extended Data](ext_articles/2d86314a.ext.json)
 
 ---

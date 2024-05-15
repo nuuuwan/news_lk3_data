@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 15:03:22**
+As of **2024-05-15 15:18:23**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,213 (100.0%) of 24,214 articles have been extended.
+24,214 (100.0%) of 24,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### කැලේ පැලට ආ තුන් නිවුන් දරු පැටවුන්ගේ දුක හිතෙන කතාව
+### The story of twins that came in the jungle
 
 *2024-05-15 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196649) · `si`
 
-දරුවන් නොමැතිව දුක්වෙන බොහෝ දෙමාපියන් අතරේ වාසනාවන්ත දෙමාපිය යුවළක් පිළිබඳ අපිට වාර්තා වන්නේ හබරණ පුවක්පිටිය ප්‍රදේශයෙනි.
+In a remote jungle, a family of five lives in a tiny house surrounded by dense foliage. The father is disabled, making it hard for them to afford basic needs. Despite their hardships, they face life with resilience and hope.
 
-එහෙත් ඒ වාසනාවන්තකම අද වනවිට ඔවුන්ව දැඩි ලෙස පීඩාවට පත්කර ඇති අයුරු අපට දැකගත හැකි විය .
+🟩
 
-කුඩා දියණියක් ද සිටින මේ මාපිය යුවළට නිවුන් පුතුන් තිදෙනෙකුගේ උපත වාසනාවක් වුවත් ඔවුන් දිවි ගෙවන මේ කටුමැටි පැලට එය ආර්ථිකමය වශයෙන් දරාගැනීම අසීරු කරුණකි.
+Among many parents who are saddened without children, we have to be lucky Parent couple from Habarana Puwakpitiya.
 
-මේ පුංචි නිවස අවට ඇත්තේ ඝන කැලෑවක් නිසා ආරක්ෂාව සඳහා ඔවුන් රාත්‍රී කාලයේ දිවි ගෙවන්නේ ගසක් මත තැනූ පැලකය.
+But we have seen how lucky have been severely affected today.
 
-මේ පැටවුන්ගේ පියා එම පැලෙන් බිමට වැටි මේ වනවිට ආබාධිතව පසුවේ.
+Although the sons of three sons, who are a small daughter, is a difficult thing to bear the economy of these rumors.
 
-කෙසේ වෙතත් දරුවන්ගේ මව්පියන් පවසන්නේ දරුවන්ට අවශ්‍ය පහසුකම් සහ ආරක්ෂාව ලබාදීමට තමන්ට වත්කමක් නොමැති බවය.
+The little house is around a thick jungle, and they live on a tree.
 
-දරුවන්ගේ මව ඉතා දුක්බරව ඉල්ලා සිටින්නේ, තම දරුවන් සිව්දෙනාගේ ආරක්ෂාව වෙනුවෙන් නිවසක් සදා ගැනීමට කිසිවකුගෙන් හෝ උපකාරයකි.
+The father of the calves was disabled by the ground.
 
-මේ පුංචි පැටවුන්ට පිළිසරණක් විය හැකි නම් එය සැබවින්ම මහත් වූ පුණ්‍ය කර්මයකි.
+However, children 'parents say that they have no possessions to provide the necessary facilities and protection.
+
+The mother of their children is very pleasantly urged by anyone to have a house for the defense of their four children.
+
+If these little chicks could be a refusal, it was a really great charity.
 
 ◼️
 
 [Data](articles/d147d0e1.json)
+
+[Extended Data](ext_articles/d147d0e1.ext.json)
 
 ---
 

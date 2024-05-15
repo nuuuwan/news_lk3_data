@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 20:04:36**
+As of **2024-05-15 20:18:32**
 
 ## Newspaper Stats
 
-*Scraped **24,275** Articles*
+*Scraped **24,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
-adalk | 2,070
+adalk | 2,071
 adaderanalk | 2,818
 tamilmirrorlk | 2,855
 virakesarilk | 3,650
@@ -26,41 +26,69 @@ adaderanasinhalalk | 3,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,270 (100.0%) of 24,275 articles have been extended.
+24,275 (100.0%) of 24,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### வனிந்து ஹசரங்கவுக்கு கிடைத்த அங்கீகாரம்
+### සාපෙළ අවසන් කළ සිසුවිය පැහැර ගන්න උත්සාහ කළ 4ක් අල්ලයි
+
+*2024-05-15 19:57:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-අවසන්-කළ-සිසුවිය-පැහැර-ගන්න-උත්සාහ-කළ-4ක්-අල්ලයි/11-409652) · `si`
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය අවසන් කොට ආපසු නිවස බලා යමින් සිටි දාසය හැවිරිදි තරුණියක පැහැර ගැනීමට පැමිණිබව කියන වෑන් රථයක් සහ තරුණයන් හතර දෙනකු අලදෙණිය පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ .
+
+අද (15) එම තරුණියනුගවෙල මහා විද්‍යාලයේදීසාමාන්‍ය පෙළ විභාගයේ අවසන් ප්‍රශ්න පත්‍රයට පිළිතුරු සපයා කුළුගම්මන ඇය නවාතැන් ගෙන සිටි නවාතැන්පොල කරා යමින් සිටියදී යටිහලගල හන්දියේදී ඇය පැහැර ගැනීමට තැත්කළ අවස්ථාවේදී ඇය සමඟ සිටි තවත් පාසල් සිසුන් දෙදෙනෙකු එය වැළැක්වීමට උත්සාහ කළත් ඔවුන් තල්ලු කර දමා ශිෂ්‍යාව පැහැරගෙන යන අවස්ථාවේදී එම සිසුන්පොලිස් හදිසි ඇමතුම් ඒකකයට සිද්ධිය සම්බන්ධයෙන් දැනුම් දී තිබේ .
+
+ඇමතුම ලැබුණ වහාම ක්‍රියාත්මක වූ අලදෙණිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සේනාරත්න මහතා ඇතුළු පොලිස් කණ්ඩායමක් වෑන් රථය හඹා ගොස් සැකකරුවන් සහ ඔවුන් පැමිණි වෑන් රථය අත්අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/90ee27eb.json)
+
+---
+
+### Recognition for Hazaranga
 
 *2024-05-15 19:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வனிந்து-ஹசரங்கவுக்கு-கிடைத்த-அங்கீகாரம்/175-337374) · `ta`
 
-சர்வதேச கிரிக்கெட் பேரவையின் இருபதுக்கு இருபது போட்டிகளில் சகல துறை வீரர்கள் வரிசையில் இணை முதல் இடத்தை இலங்கை கிரிக்கெட்டின் இருபதுக்கு இருபது போட்டி அணித் தலைவர் வனிந்து ஹசரங்க இடம்பெற்றுள்ளார். R
+Hazaranga, Sri Lanka's cricket team captain, secured the top spot among all players across all fields in the International Cricket Council's Twenty20 World Cup.
+
+🟩
+
+சர்வதேச கிரிக்கெட் பேரவையின் இருபதுக்கு இருபது போட்டிகளில் சகல துறை வீரர்கள் வரிசையில் இணை முதல் இடத்தை இலங்கை கிரிக்கெட்டின் இருபதுக்கு இருபது போட்டி அணித் தலைவர் வனிந்து ஹசரங்க இடம்பெற்றுள்ளார். Remble
 
 ◼️
 
 [Data](articles/6c70b56a.json)
 
+[Extended Data](ext_articles/6c70b56a.ext.json)
+
 ---
 
-### ලක්ෂ 90ක මත්ද්‍රව්‍ය රේගුවේදී අත්අඩංගුවට
+### 90 lakhs arrested in customs
 
 *2024-05-15 19:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-90ක-මත්ද්‍රව්‍ය-රේගුවේදී-අත්අඩංගුවට/11-409650) · `si`
 
-රුපියල් ලක්ෂ අනූවක් ( රුපියල් මිලියන 09 ක් ) පමණ වටිනා මත්ද්‍රව්‍ය තොගයක් ගුවන් තැපැල් ඔස්සේ කොළඹ මධ්‍යම තැපැල් හුවමාරුව වෙත පාර්සල් 10 ක් ලෙස එවා තිබියදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 05/15 දින පස්වරුවේ  අත් අඩංගුවට ගෙන ඇති බව රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසීය .
+In a significant operation, 90 lakhs were arrested by the Customs Drug Administration Division for smuggling drugs. The parcels were addressed to fake locations in Sri Lanka and abroad, containing 466 grams of cannabis and 10 grams of cocaine. A joint effort with postal department officials led to the seizure, which will be investigated further by the Police Narcotics Unit.
 
-මෙම පාර්සල් කැනඩාව , එංගලන්තය සහ නෙදර්ලන්තය යන රටවල සිට දෙහිවල , වැල්ලවත්ත , වේයන්ගොඩ සහ අනුරාධපුරය යන ප්‍රදේශයේ පිහිටි ව්‍යාජ ලිපිනයන් වෙත එවා තිබුණි.
+🟩
 
-මෙසේ විවෘත කළ පාර්සල් තුළ තිබී මෙතැම්පටමයින් පෙති 150 ක්, " කුෂ් " නැමැති ගංජා ග්‍රෑම් 466 ක් සහ කොකේන් ග්‍රෑම් 10 ක් ද තිබී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි.
+Customs Media Spokesperson, additional customs have been arrested by a group of employees of the Customs Drug Administration Division on the 5/15th Census.Director General, Savali Aruukgoda said.
 
-මෙම අත් අඩංගුවට ගැනීම සදහා ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිලධාරීන් පිරිසක් ද සහභාගී වී සිටියහ.
+Parcels were sent to the fake address in Dehiwala, Wellawatte and Anuradhapura to the Dehiwala, England and Netherlands.
 
-මෙසේ අත් අඩංගුවට ගත් මත්ද්‍රව්‍ය තොගය මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබේ.
+The Customs Drug Administration Unit had been arrested in the parcel opened and 466 grams of Kushmba and 10 grams of cocaine.
+
+A group of officers of the Postal Department officials were also present at the arrest.
+
+Steps have been taken to hand over the drug taken to the Police Narcotics Unit for further investigations.
 
 ◼️
 
 [Data](articles/bfaf7045.json)
+
+[Extended Data](ext_articles/bfaf7045.ext.json)
 
 ---
 
@@ -79,6 +107,8 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 ...
 
 [Data](articles/bdc16707.json)
+
+[Extended Data](ext_articles/bdc16707.ext.json)
 
 ---
 
@@ -454,19 +484,25 @@ With the release of the first look of the film, the first song, which is now tit
 
 ---
 
-### දෙහිවල සෝල් බීච් හෝටලය සාදා ඇත්තේ රජයේ සතු ඉඩමක
+### The Dehiwala Seal Beach Hotel is built in government owned land
 
 *2024-05-15 17:15:24* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-සෝල්-බීච්-හෝටලය-සාදා-ඇත්තේ-රජයේ-සතු-ඉඩමක/11-409649) · `si`
 
-ශිරාන් බාසික් යන අයට අයත් බව කියන දෙහිවල සෝල් බීච් හෝටලය සම්බන්දයෙන් ගල්කිස්ස කොට්ඨාස විශේෂ අපරාධ විමර්ශන අංශය මගින් සිදුකරන ලද විමර්ශන වලදී සැකකරුවන් විසින් ඉදිරිපත් කර ඇති බදු ඔප්පුව ව්‍යාජ ලෙස සකස් කර ඇති බවට විමර්ශන නිළධාරීන්ට අනාවරණය වී ඇත. මෙම හෝටලය මීට මාස කිහිපයකට ඉහතදී වෙරළ සංරක්ෂණ දෙපාර්තමේන්තුව විසින් කඩා ඉවත් කිරීමෙන් පසුව පසුගිය දිනවල නැවත අලුත්වැඩියා ආරම්භ කර ගෙන ගොස් ඇති අතර පසුව නිළධාරීන් කණ්ඩායමක් සෝල් බීච් හෝටලය නැවත අලුත්වැඩියා කරන ස්ථානය වෙත ගොස් එහි ඉදිකිරීම් කටයුතු සිදුකරමින් සිටි සැකකරුවන් 14 දෙනෙකු අත්අඩංගුවට ගෙන ඊයේ (14දින) අධිකරණය වෙත ඉදිරිපත් කර ඔවුන් මේ මස 28 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇත.
+The Dehiwala Seal Beach Hotel, located on government-owned land, underwent repairs after being demolished due to coastal conservation issues. A criminal investigation led to the arrest of 14 suspects involved in the hotel's reconstruction. These individuals were charged under Article 433 with Sections 4(1) and 5(2) of the Ceylon Penal Code, related to false deeds.
 
-මෙම ඉඩම රජයේ මිනින්දෝරු දෙපාර්තමේන්තුවේ නිළධාරීන් කණ්ඩායමක් විසින් පරීක්ෂා කිරීමෙන් පසු එය රජයේ සතු ඉඩමක් බවටද වාර්තා වී ඇත.
+🟩
 
-මෙම සැකකරුවන්ට එරෙහිව පොදු දේපල පනතේ 5(1), 5(2) වගන්ති යටතේ ලංකා දණ්ඩ නීති සංග්‍රහ පනතේ 32 වගන්තිය සමග කියවෙන 433 වගන්තිය යටතේ සැකකරුවන් අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+Investigations carried out by the Mount Lavinia Seal Beach Hotel, Shiran Bache Hotel is owned by the Mount Lavinia Division Special Criminal Investigations Division has deed that the deed of the suspects have been falsely prepared.. The hotel has been re-repaired after the demolition of the coast conservation a few months ago and later arrested 14 suspects who were later carried out to the reconstruction of Seo Beach Hotel again.They were produced before the court and remanded until the 28th of this month.
+
+It has been reported that the land team is inspected by a group of officers of the Government Sandoo Department.
+
+The suspects have been produced before Article 433 with Section 4 (1), 5 (2) of the Ceylon Penal Regional Regulations.
 
 ◼️
 
 [Data](articles/ce68dc8a.json)
+
+[Extended Data](ext_articles/ce68dc8a.ext.json)
 
 ---
 
@@ -1848,27 +1884,35 @@ Large lagoon prawns and crabs being sold near the Bolgoda Lake adjoining the Kos
 
 ---
 
-### පොලීසිය බලහත්කාරයෙන් අයිස් දමා තරුණයෙකු රිමාන්ඩ් කළ බවට ලැබුණු පැමිණිල්ලක් ගැන විමර්ශන ඇරඹේ
+### Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
 
 *2024-05-15 12:32:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1nrmjp83o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''උඹ ගේම ඇදගෙන ගිහිල්ලා ළමයා පරිවාසයට යවලා, ගෑණිත් එවන්නද?''
+Investigations have begun into complaints against the Kitulgala Police for allegedly forcibly arresting individuals and remanding them. The Police Commission received a complaint about this, along with audio recordings of the incidents. The young man and his aunt were arrested for selling cannabis, despite efforts to improve their lives. The Senior DIG of the Sabaragamuwa Province has been instructed to inquire into the matter.
 
-පොලීසිය බලහත්කාරයෙන් අයිස් දමා තරුණයෙකු රිමාන්ඩ් කළ බවට ලැබුණු පැමිණිල්ලක් ගැන විමර්ශන ඇරඹේ
+🟩
 
-පොලීසිය බලහත්කාරයෙන් අයිස් දමා තරුණයෙකු රිමාන්ඩ් කළ බවට ලැබුණු පැමිණිල්ලක් ගැන විමර්ශන ඇරඹේ
+None contains none of this. Fource Forest, "" Do you draw you and send the child into probation and send the kid to probation? "
 
-අයිස් මත්ද්‍රව්‍ය අලෙවි කළ බවට ව්‍යාජ චෝදනා ඉදිරිපත් කරමින් කිතුල්ගල පොලීසිය විසින් තරුණයෙකු රක්ෂිත බන්ධනාගාරගතකර ඇති බවට අද (මැයි 15) පොලිස් කොමිසමට පැමිණිල්ලක් ලැබී තිබේ.
+Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
 
-පොලීසිය තුළ දී පටිගත කළ බව කියන හඬ පටයක් ද එම තරුණයාගේ බිරිඳ විසින් පොලිස් කොමිසමට සහ සබරගමුව පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා වෙත භාර දී තිබේ.
+Investigations begin to investigate the complaint that the police were forcibly ice and had been remanded
 
-පොලිස් නිලධාරීන් තර්ජනය කරන ආකාරය එහි ඇතුලත්වෙන බව ඇය පැවසුවාය.
+The Police Commission has received a complaint that the Kitulgala Police had been remanded by Kitulgala Police.
 
-ගංජා අලෙවි කිරීම නිසා අදාළ තරුණයා සහ ඇගේ නැන්දනිය මීට පෙර රක්ෂිත බන්ධනාගාරගත කර තිබිණි. නමුත් දැන් තම පවුල යහපත්ව ජීවත් වීමට උත්සාහ කළ ද පොලීසිය ඊට ඉඩ ලබා නොදෙන බවට  අහිංසා සඳමාලි පවසන්නීය.
+The sound of recorded in the police has also been handed over to the Senior DIG and the Sabaragamuwa Province in charge of the young man.
 
-...
+She said that the threatening of the police officers.
+
+The young man and her aunt were remanded due to marketing cannabis. But now the family is trying to live better, but the police say that the police will not allow it.
+
+Senior DIG Sabaragamuwa Province, DIG Dharmawardena inquiry was instructed by the President of the Assistant Superintendent of Police in response to the incident.
+
+◼️
 
 [Data](articles/dd880201.json)
+
+[Extended Data](ext_articles/dd880201.ext.json)
 
 ---
 
@@ -2291,29 +2335,5 @@ The State Minister’s comments come a month after Indian arm manufacturers demo
 [Data](articles/fe0b73af.json)
 
 [Extended Data](ext_articles/fe0b73af.ext.json)
-
----
-
-### I will put an end to alcohol and drugs for children's generation - Sajith
-
-*2024-05-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183579) · `ta`
-
-Sajith Premadasa criticizes political maneuvers like liquor permits and high-tech liquor licenses, arguing they benefit only politicians and corporations, not the nation or its youth. He calls for open discussions on alcohol and drug impacts, highlighting the harm to health and society. Premadasa emphasizes the importance of raising awareness and protecting children from substance abuse, advocating for policies that prioritize public welfare over political gains.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that there is a great political gambling, such as liquor permits, low -level alcoholic beverages and a license for high -tech liquor.
-
-And even if some people get money to collect votes, the country, the people and the youth do not benefit. Opposition Leader Sajith Premadasa said that politicians should speak openly about the effects of alcohol and drugs as they provide equipment to hospitals.
-
-The liquor companies have become a powerful one today. These companies fail to pay any famous person for money and pay for the government to pay for the government. The opposition leader said that the people, children and young people on the other hand, on the other hand, are leading the death bed because of money strength.
-
-We need to raise awareness about this. Even if adults do such things, young people and children should be released from this.
-
-...
-
-[Data](articles/cc706790.json)
-
-[Extended Data](ext_articles/cc706790.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 13:34:08**
+As of **2024-05-15 13:53:07**
 
 ## Newspaper Stats
 
-*Scraped **24,197** Articles*
+*Scraped **24,199** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
-bbccomsinhala | 245
+bbccomsinhala | 246
 dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
@@ -20,47 +20,75 @@ adaderanalk | 2,807
 tamilmirrorlk | 2,847
 virakesarilk | 3,630
 dailymirrorlk | 3,804
-adaderanasinhalalk | 3,864
+adaderanasinhalalk | 3,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,194 (100.0%) of 24,197 articles have been extended.
+24,197 (100.0%) of 24,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### වසර දෙකක් තුළ නව නීති 75ක්
+### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ නියෝගයක්
+
+*2024-05-15 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196646) · `si`
+
+කේ ඩී ලාල්කාන්ත, මහින්ද ජයසිංහ, රන්ජන් ජයලාල් ඇතුළු විරෝධතාකරුවන් පිරිසකට එරෙහිව මාළිගාකන්ද අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+
+එම නියෝගයේ දැක්වෙන්නේ විරෝධතාකරුවන් ඩීන්ස් පාර, ටී බී ජයා මාවත, ටෙක්නිකල් හංදිය, ඉබ්බන්වල හංදිය වැනි ප්‍රදේශවලදී මහජනතාව අපහසුවට පත්වන ආකාරයෙන් කටයුතු නොකළ යුතු බවය.
+
+◼️
+
+[Data](articles/15043da8.json)
+
+---
+
+### 75 new laws within two years
 
 *2024-05-15 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196645) · `si`
 
-පසුගිය වසර 02 තුළ පමණක් නව නීති 75ක් සම්මත කර ගැනීමට රජය කටයුතු කළ බව ජනාධිපති රනිල් වික්‍රමසිංහ පවසයි.
+Sri Lanka has introduced 75 new laws in two years under President Ranil Wickremesinghe, making it unique in South Asia for implementing a new legal system. This significant legislative overhaul was announced during the inauguration of the new Court Complex at Teldeniya.
 
-ඒ අනුව දකුණු ආසියාවේ අලුත්ම නීති පද්ධතියක් ක්‍රියාත්මක වන එකම රට බවට ශ්‍රී ලංකාව පත්ව ඇති බවත් පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  දූෂණය පිටුදැකීම වෙනුවෙන් ද විප්ලවීය පියවර රැසක් ගෙන ඇති බව පැවසීය.
+🟩
 
-ජනාධිපතිවරයා ඒ බව පැවසුවේ තෙල්දෙණිය නව උසාවි සංකිර්ණය විවෘත කිරීමේ අවස්ථාවට අද (15) පෙරවරුවේ එක් වෙමිනි.
+President Ranil Wickremesinghe says that the government has adopted 75 new laws in the last two years.
+
+Accordingly, Sri Lanka has become the only country in which South Asia is the only country in which a new legal system is being implemented.
+
+The President said that at the opening of the new Court Complex at Teldeniya this morning (15).
 
 ◼️
 
 [Data](articles/0c39db9d.json)
 
+[Extended Data](ext_articles/0c39db9d.ext.json)
+
 ---
 
-### කොළඹ වරාය නගරයේ චයිනා හාබර් සමාගමට පනත් 10 කින් බදු නිදහස ඇතුළු වරප්‍රසාද රැසක්
+### Sriina Harbor to be taxed in 10 bills to the Colombo Port City
 
 *2024-05-15 13:08:03* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයේ-චයිනා-හාබර්-සමාගමට-පනත්-10-කින්-බදු-නිදහස-ඇතුළු-වරප්‍රසාද-රැසක්/11-409644) · `si`
 
-කොළඹ වරාය නගරයේ  මේ වන විට ප්‍රධාන සංවර්ධන ව්‍යාපෘති දෙකක් ක්‍රියාත්මක කර සිටින චයිනා හාබර් ඉංජිනියරින් කොම්පැනි (ලංකා) ලිමිටඩ් ආයතනය සඳහා මෙරට ක්‍රියාත්මක වන පනත් 10 ක් යටතේ  තීරු බදු ,ආනයන බදු  ,ආදායම් බදු ,ලාභාංශ බදු ආදී බදුවලින්,විවිධ අයකිරීම්  හා මූල්‍යමය හා විවිධ  විධි විධානවලින් නිදහස් කිරීම් හා  දිරිගැන්වීම් රැසක් ප්‍රදානය කරමින්  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අති විශේෂ ගැසට් නිවේදනක් නිකුත් කර තිබේ.
+Sriina Harbor, part of China Harbor Engineering (Ceylon) Limited, will face 10 bills related to the Colombo Port City development. This decision, announced via a special gazette notification by President Ranil Wickremesinghe, aligns with the Casino Business Regulatory Act No. 17 of 2010. The move aims to nominate strategic business as a secondary business of importance, highlighting the company's contribution through its infrastructure and job creation. Despite facing these bills, the company benefits from various tax exemptions under the Finance Act No. 11 of 2002, VAT Act No. 24 of 2017, Customs Act No. 13 of 2009, and others, providing relief on income, profit, dividends, and import taxes.
 
-නමුත් 1988 අංක 40  දරන ඔට්ටු ඇල්ලීම හා සූදු බදු පනත ,2010 අංක 17 දරන කැසිනෝ ව්‍යාපාර නියාමන පනත සහ විනෝද බදු පනත යටතේ කිසිදු බදු නිදහසක් හෝ දිරිගැන්වීමක් ප්‍රදානය නොකරන බව ගැසට් නිවේදනය මගින් දක්වා ඇත.
+🟩
 
-කොළඹ වරාය නගර ආර්තික කොමිෂන් සභාවේ නිර්දේශ හා අමාත්‍ය මන්ඩලයේ අනුමැතිය ලැබී ඇති මෙකී බදු හා අයකිරීම්වලින් නිදහස් කිරීම පිළිබඳ නියමයන් ආයෝජන  ප්‍රවර්ධන අමාත්‍යවරයා ලෙස 2021 අංක 11 දරණ කොළඹ වරාය නගරය  ආර්ථික කොමිෂන් සභා පනත යටතේ පැවරී ඇති බලතල අනුව  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම ගැසට් නිවේදනය මෙම මස 09 දාතමින් නිකුත් කෙරිණි .
+China Harbor Engineering (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) Limited (Ceylon) LimitedPresident Ranil Wickremesinghe has issued a special gazette notification by President Ranil Wickremesinghe.
+
+However, Between No. 40 of 1988, Between No. 40 of 1988, the gazette notification is issued by the Casino Business Regulatory Act No. 17 of 2010.
+
+President of the Colombo Port City City City City City City Commission (CDITUS)I was released on the 9th of this month.
+
+Nominating the strategic business as a secondary business of importance of the strategy.The gazette notification has shown that is engaged.
 
 ...
 
 [Data](articles/d46ce5be.json)
+
+[Extended Data](ext_articles/d46ce5be.ext.json)
 
 ---
 
@@ -72,7 +100,11 @@ President Ranil Wickremesinghe has highlighted the government’s efforts to ena
 
 He made this observation during the opening ceremony of the new Court Complex in Theldeniya today (15).
 
-Despite facing accusations of shielding wrongdoers, the government remains steadfast in its commitment to combatting crime and ensuring justice, the President further said.
+Wickremesinghe also highlighted the government’s achievement of implementing 75 new laws in the past two years emphasizing that this initiative has positioned Sri Lanka as the sole country in South Asia with a modern legal system.
+
+Despite facing accusations of shielding wrongdoers, the government remains steadfast in its commitment to combatting crime and ensuring justice, he further said.
+
+The President also reiterated his commitment to combating corruption by undertaking various transformative measures, the President’s Media Division (PMD) reported.
 
 ◼️
 
@@ -82,23 +114,29 @@ Despite facing accusations of shielding wrongdoers, the government remains stead
 
 ---
 
-### පිළියන්දල ප්‍රදේශයේ නිවසකින් ආයුධ තොගයක් හමුවේ
+### A large haul of weapons from Piliyandala
 
 *2024-05-15 12:56:14* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-ප්‍රදේශයේ-නිවසකින්-ආයුධ-තොගයක්-හමුවේ/11-409643) · `si`
 
-පිළියන්දල හොරණ පාරේ පිහිටි කළකට පෙර මියගිය පරිසර වේදියෙකු ලෙස ක්‍රියා කළ පුද්ගලයෙකුගේ නිවසේ තිබී මෝටර් උණ්ඩයක්, අංක මකා දමන ලද ටී56 ගිනි අවියක්, මැගසින් 4 ක්, ජීව උණ්ඩ 96 ක්, ට්‍රසර් උණ්ඩ 20ක්, බෝර දොළහ වර්ගයේ ගිනි අවියක් සොයාගත් බව කැස්බෑව පොලිසිය පවසයි.
+Kesbewa Police discovered a cache of weapons including a T-56 rifle and 192 bullets in Piliyandala. The discovery was made after a complaint by the Environmental Topic Piliyand.
 
-එම පරිසර වේදියාගේ පුත්‍රයා විසින් පොලිසියට කළ පැමිණිල්ලකට අනුව ඔහුගේ පිළියන්දල පිහිටි නිවසේ උඩුමහලේ සොල්දොර තට්ටුවේ යන්ත්‍රෝපකරණ කාමරය පරීක්ෂා කිරීමේ මෙම ආයුධ තොගය සොයාගැනීමට පොලිස් නිලධාරීන්ට හැකි වී තිබේ.
+🟩
 
-එම ආයුධ තොගය එම ස්ථානයට පැමිණියේ කෙසේද යන්න පිළිබඳවත්, කිසිවෙකු විසින් එම ආයුධ තොගය මෙම ස්ථානයට ගෙනවිත් දමන්නට ඇත්දැයි යන්න පිළිබඳව විමර්ශන සිදුකිරීමට නියමිත අතර මේ වන විට කිසිවෙකු අත්අඩංගුවට ගෙන නොමැති බවත් පොලිසිය පවසයි.
+The Kesbewa Police said that a T-56 rifle, 96 live bullets, 96 live bullets in the house of Piliyandala.
+
+According to a complaint lodged with the police by the Environmental Topic Piliyand, police officers have been able to find the stock of stock of employment.
+
+Police say that the stock of weapons arrived at the place and that no one has brought the stock of weapons to this place, police said.
 
 ◼️
 
 [Data](articles/0613273a.json)
 
+[Extended Data](ext_articles/0613273a.ext.json)
+
 ---
 
-### Complaints about 280 Sri Lankans in Russia-Ukraine war so far, 16 confirmed dead
+### Families complain about 280 Sri Lankans in Russia-Ukraine war, 16 confirmed dead
 
 *2024-05-15 12:45:00* · [`economynextcom`](https://economynext.com/complaints-about-280-sri-lankans-in-russia-ukraine-war-so-far-16-confirmed-dead-163121/) · `en`
 
@@ -1570,6 +1608,28 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
+### මුල්ලිවයික්කාල් කැඳ දන්සැල් තහනම් කිරීම සහ අත්අඩංගුවට ගැනීම් සිදු කරන්නේ ඇයි?
+
+*2024-05-15 07:44:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87z7d5g0d3o) · `si`
+
+මුල්ලිවයික්කාල් කැඳ දන්සැල් තහනම් කිරීම සහ අත්අඩංගුවට ගැනීම් සිදු කරන්නේ ඇයි?
+
+යුද්ධයෙන් මිය ගිය තම ආදරණීයයන් සිහිපත් කිරීම සදහා උතුරු නැගෙනහිර දෙමළ ජනයා සිදු කරනු ලබන අනුස්මණයන්ට පහළොස් වසරක් ගත වී තිබේ.
+
+කෙසේ වෙතත් පසුගිය වසර ගණනාව පුරා මෙම සිහිපත් කිරීමේ අවස්ථා සංවිධානය කිරීමේදී ඔවුන්ට විටින් විට විවිධ පාර්ශවයන්ගෙන්; නොයක් ආකාරයේ බාධා එල්ල වීම් දක්නට ලැබුණි.
+
+යුද්ධය අවසන් වී වසර 14 යි : දෙමළ ජනයා සිහි කිරීමේ දී ඇති වූ බාධා කිරීම් නිසා බොරැල්ල උණුසුම් වෙයිබලය බෙදීම : 'ෆෙඩරල් කියන වචනයම අපිට ඕනා නැහැ. අපිට ඕනා වැඩි බලයක්'
+
+මේ අතර පසුගිය දින දෙකක් තුළ පොලිසිය විසින් “මුල්ලිවයික්කාල් කන්ජි” ලෙස ඉතිහාස ගතවී ඇති කැඳ දන්සල් දෙකක් උසාවි නියෝග ලබා ගනිමින් තහනම් කරන ලද්දේ උතුරු නැගෙනහිර පුරා මෙම සතියේදී එවැනි තවත් දන්සල් පැවැත්වෙමින් තිබියදී ය.
+
+සම්පුර් හි පැවැති කැඳ දන්සලක් තහනම් කරමින් උසාවි නියෝගයක් ලබා ගත් පොලීසිය දෙමළ කාන්තාවන් තිදෙනකු ඇතුළු සිව් දෙනකු අත්අඩංගුවට ගෙන රිමාන්ඩ් ගත කර තිබේ.
+
+...
+
+[Data](articles/02d0f073.json)
+
+---
+
 ### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
 
 *2024-05-15 07:36:25* · [`dailyftlk`](https://www.ft.lk/business/KSPA-raises-benchmark-for-industry-sustainability-with-Carbon-Neutrality-Certification/34-761830) · `en`
@@ -2173,47 +2233,5 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 [Data](articles/b1306118.json)
 
 [Extended Data](ext_articles/b1306118.ext.json)
-
----
-
-### Biden slaps new tariffs on Chinese imports, ratcheting trade war
-
-*2024-05-15 04:45:00* · [`islandlk`](http://island.lk/biden-slaps-new-tariffs-on-chinese-imports-ratcheting-trade-war/) · `en`
-
-President Joe Biden has slapped major new tariffs on Chinese electric vehicles, advanced batteries, solar cells, steel, aluminium and medical equipment, taking potshots at Donald Trump along the way as he embraced a strategy that’s increasing friction between the world’s two largest economies.
-
-The Democratic president said on Tuesday that Chinese government subsidies ensure the nation’s companies do not have to turn a profit, giving them an unfair advantage in global trade.
-
-“American workers can outwork and out-compete anyone as long as the competition is fair,” Biden said in the White House Rose Garden. “But for too long, it hasn’t been fair. For years, the Chinese government has poured state money into Chinese companies … it’s not competition, it’s cheating.”
-
-China immediately promised retaliation. Its Ministry of Commerce said Beijing was opposed to the tariff hikes by the United States and would take measures to defend its interests.
-
-...
-
-[Data](articles/1e05d07e.json)
-
-[Extended Data](ext_articles/1e05d07e.ext.json)
-
----
-
-### King of Screenplay. 'Crime is new' started by Bhagyaraj
-
-*2024-05-15 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183567) · `ta`
-
-"Crime Puthiyadhu," starring newcomer Tarun, premiered in Chennai. Directed by Rajith, it features a mix of fresh faces like Tarun, Seshwitha, and Madhusudhan Rao, alongside experienced actors. The thriller, produced by Karthikeyan and Tarun Karthikeyan, aims for a realistic narrative style. Shooting starts soon."
-
-🟩
-
-The inauguration of the film 'Crime Puthiyadhu', which played the lead role as the hero of the newcomer Tarun, was held in Chennai. One of the senior directors of the Tamil film industry was K.. Bhagyaraj congratulated the film crew on the participation of a special guest and introduced the newcomer man Taruna.
-
-In the film 'Crime Puthu', directed by debutant director Rajith, Tarun, Seshwitha, Madhusudhan Rao, Ramachandran, 'Boys' Rajan, Priyadarshini, Srinidhi, Sangeetha, Dinesh Selvaya, Srikanth, Meera Raj, 'Darling'. Karan B for the film, which is being recorded by Jason Williams. Kripa is composed. The film is being made as a thriller film.. Karthikeyan and Tarun Karthikeyan are co -produced.
-
-Speaking of the film, the director said, “The screenplay of the film 'Crime New' is set as a realistic style of realistic style.. The shooting of the film is scheduled to begin on the 23rd of this month. ”
-
-◼️
-
-[Data](articles/4c297136.json)
-
-[Extended Data](ext_articles/4c297136.ext.json)
 
 ---

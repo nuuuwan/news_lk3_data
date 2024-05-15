@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 03:18:26**
+As of **2024-05-16 03:33:51**
 
 ## Newspaper Stats
 
-*Scraped **24,314** Articles*
+*Scraped **24,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,425
+dailyftlk | 1,430
 adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
@@ -26,11 +26,93 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,314 (100.0%) of 24,314 articles have been extended.
+24,314 (100.0%) of 24,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### HRCSL calls for criminal investigation into 2024 alleged enforced disappearance
+
+*2024-05-16 03:21:42* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-calls-for-criminal-investigation-into-2024-alleged-enforced-disappearance/56-761860) · `en`
+
+The Human Rights Commission of Sri Lanka (HRCSL) in a letter to the Attorney General this week has stressed that it is imperative that an independent and impartial criminal investigation be launched into the alleged enforced disappearance of Gonapinuwala Kapila Kumara De Silva, a resident of Horowpathana, Anuradhapura in March 2024.
+
+The HRCSL urged the Attorney General to review the evidence and allegations and decide whether a separate criminal inquiry should be initiated by the Sri Lanka Police under the International Convention for the Protection of All Persons from Enforced Disappearance Act, based on the Attorney General’s counsel.
+
+The HRCSL observed that De Silva was reported missing on 27 March 2024. According to De Silva’s account, he was allegedly abducted by a group in civilian attire in a white van who identified themselves as law enforcement officers.
+
+...
+
+[Data](articles/014afe85.json)
+
+---
+
+### International transitional justice scholars call on SL to halt establishing truth commission
+
+*2024-05-16 03:21:06* · [`dailyftlk`](https://www.ft.lk/news/International-transitional-justice-scholars-call-on-SL-to-halt-establishing-truth-commission/56-761859) · `en`
+
+Over 70 international transitional justice and human rights scholars have urged the Sri Lankan Government to halt the establishment of a Commission for Truth, Unity and Reconciliation (CTUR) as it has been rejected by victim groups and the broader national context is not conducive for such a process.
+
+The statement signed by leading authors and researchers of transitional justice from across the world also highlights concerns over the Government’s lack of political commitment towards genuine truth-seeking that could lead to justice and reconciliation in Sri Lanka.
+
+The statement said it recognises the right to truth as a key human right affirmed in UN treaties and other mechanisms and asserts that if conducted properly a truth-seeking process can contribute towards establishing the extent and the patterns of past violations, as well as their causes and consequences. In so doing, it can help reconcile deeply divided communities and help bring closure to victim-survivors, it said.
+
+...
+
+[Data](articles/c444c420.json)
+
+---
+
+### Karu condemns mishandling of commemorative event for war victims in Sampur
+
+*2024-05-16 03:19:32* · [`dailyftlk`](https://www.ft.lk/news/Karu-condemns-mishandling-of-commemorative-event-for-war-victims-in-Sampur/56-761858) · `en`
+
+Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya
+
+Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya voiced his profound regret yesterday over the Police’s handling of the porridge distribution event in Sampur commemorating the victims of the war and enforced disappearances.
+
+In a statement, Jayasuriya said the society must empathetically acknowledge the anguish of those who have lost loved ones to death or disappearance. “It is our collective responsibility to prevent such tragedies from plunging our country into another dark era,” he said.
+
+“Therefore, it is imperative for the entire society, including Government authorities, to act in these situations with the best interests of the country at heart. Failure to do so could potentially lead our nation into a dark age,” remarked the former speaker.
+
+...
+
+[Data](articles/53ebff7d.json)
+
+---
+
+### Charitha highlights importance of timely Presidential poll
+
+*2024-05-16 03:17:11* · [`dailyftlk`](https://www.ft.lk/news/Charitha-highlights-importance-of-timely-Presidential-poll/56-761857) · `en`
+
+Freedom People’s Congress (FPC) member MP Prof. Charitha Herath on Tuesday emphasised the importance of prioritising the Presidential Election over Parliamentary Polls, urging the Election Commission of Sri Lanka (ECSL) to focus on this goal. Speaking at a press conference held at the party headquarters, Herath highlighted the constitutional mandate to hold the Presidential Election in a timely manner.
+
+He noted that while dissolving parliament and conducting a general election are separate processes, there have been instances of delays in convening parliament after dissolution, leading to delayed general elections. Given this context, Herath stressed the need to prioritise the Presidential Election, which is mandated by the constitution.
+
+...
+
+[Data](articles/539cf79d.json)
+
+---
+
+### Veteran philatelist bids farewell at 97
+
+*2024-05-16 03:15:06* · [`dailyftlk`](https://www.ft.lk/news/Veteran-philatelist-bids-farewell-at-97/56-761856) · `en`
+
+Frederick Medis is a well-known name amongst all philatelists, young and old. He has rendered immense service to the field in the form of sharing knowledge, valuing philately items, exhibiting and distributing his own collection for a fair price.
+
+He was the founding President of the Philatelic Society of Sri Lanka (PSSL). During his time, the society was very much active and had many events including national exhibitions. These events encouraged children to become interested in the field which was the foremost purpose of the society.
+
+He was born on 28 December 1926 and was very much active with the society until his 90s before passing away at the ripe age of 97 on 14 May 2024, Philatelic Association of Sri Lanka President
+
+The funeral service will be held today evening at SS Mary and John Church in Nugegoda. An opportunity for philatelists to pay their last respects to the philately giant amongst men. Some of his work and details can be viewed via http://philately.lk
+
+◼️
+
+[Data](articles/9bb6079d.json)
+
+---
 
 ### IDB and Ceylon Federation of MSMEs sign historic MoU
 
@@ -2203,125 +2285,5 @@ At the same time, police are investigating whether the husband and wife were inv
 [Data](articles/207efdf7.json)
 
 [Extended Data](ext_articles/207efdf7.ext.json)
-
----
-
-### Two schoolgirls reported missing after O/L exam in Ambagamuwa
-
-*2024-05-15 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99232/two-schoolgirls-reported-missing-after-ol-exam-in-ambagamuwa) · `en`
-
-The guardians of two schoolgirls, who had failed to return home from the G.C.E. Ordinary Level Examination center at a school in Ambagamuwa, have filed a complaint with Ginigathhena Police.
-
-The students in question were scheduled to sit for the exam held yesterday (14) at the Ambagamuwa National School’s examination center last morning. According to the complaint, one of the students had arrived at the examination center accompanied by her parents.
-
-The two missing students, who are residents of Nagastenne in Nawalapitiya and Agraoya in Ginigathhena, are reportedly close friends.
-
-Eyewitnesses had seen the two students conversing near the examination center before the exam had commence. Later, they were spotted in the Nawalapitiya town wearing their school uniforms.
-
-Authorities have disseminated information regarding the missing students to all police stations, and Ginigathhena Police have initiated an extensive investigation into this matter.
-
-◼️
-
-[Data](articles/20f8c4c3.json)
-
-[Extended Data](ext_articles/20f8c4c3.ext.json)
-
----
-
-### Court orders the Director General of Forest Conservation and IGP
-
-*2024-05-15 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196648) · `si`
-
-The Court of Appeal directed the Director General of Forest Conservation and the Inspector General of Police (IGP) to protect the Bogahapitasse forest reserve after a petition from the Environment Justice Center. The court, led by Judges Nissanka Bandula Karunaratne and Shahi Mahendran, acted upon Attorney-at-Law Ravindhath Dabare's claim that the area belongs to Thamune Kataragama Devalaya. The order aims to prevent environmental damage and was issued on July 24.
-
-🟩
-
-The Court of Appeal issued an order to the Director General of Forest Conservation and the IGP to take action to prevent the destination of the Bogahapelessa forest reserve forest zone.
-
-The order was issued by the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shahi Mahendran when a petition filed by the Environment Justice Center.
-
-Attorney-at-Law Ravindhath Dabare, who appeared in the courts, appeared in the courts, claiming that the Forest Zone belongs to the Thamune Kataragama Devalaya.
-
-The lawyer also requested the court to issue a severe environmental damage and issued a preventive order.
-
-The court issued the order then ordered the petition on July 24.
-
-◼️
-
-[Data](articles/87e3b16a.json)
-
-[Extended Data](ext_articles/87e3b16a.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183606) · `ta`
-
-On May 15, the US dollar's purchase rate was 295.7431, while its sale rate was 306.4280, as per the Central Bank's latest update.
-
-🟩
-
-The US dollar purchasing price was 295.7431, based on the currency exchange rate released by the Central Bank on Wednesday (May 15) and the sales price were 306.4280.
-
-◼️
-
-[Data](articles/cef46f77.json)
-
-[Extended Data](ext_articles/cef46f77.ext.json)
-
----
-
-### Fly from jail fly
-
-*2024-05-15 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196647) · `si`
-
-In a major operation, a drug dealer named "The Flei" escaped from a French prison with the help of accomplices. After being recaptured, an armored gang stormed the prison, freeing him again along with other prisoners and officials. The escapee, Mohammed Amrey, faces charges of drug trafficking and abduction. A large force searched for him, locating two vehicles possibly used by criminals.
-
-🟩
-
-A huge operation in the north of the North has launched a prisoner in the French police clutter.
-
-The prisoner, a drug dealer called "The Flei", this prisoner was fled by the help of another.
-
-While he was taken back to the prison after that proceedings.
-
-When the prison text was coming out of a high-speed entrance, an armored gang had fled with the vehicles and prison officials who had been blocked.
-
-Mohammed Amrey has been accused of drug trafficking and abduction and has been trying to flee from the prison.
-
-About 200 officers were deployed for Mohammed Ami search operations and they were able to find two cars suspected to use criminals.
-
-◼️
-
-[Data](articles/5a56429d.json)
-
-[Extended Data](ext_articles/5a56429d.ext.json)
-
----
-
-### Expedite floods to reduce floods
-
-*2024-05-15 13:46:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ගංවතුර-අවම-කිරිමේ-ව්‍යාපාති-කඩිනම්-කරයි/11-409648) · `si`
-
-Prasanna Ranatunga, Minister of Urban Development and Housing, directs the Land Development Corporation to launch seven projects aimed at reducing floods in Colombo and its surroundings. These initiatives are divided into short-term, medium-term, and long-term strategies, focusing on improving drainage systems, controlling rainwater, and maintaining flood control systems. Two projects, costing Rs. 203 million, are set to complete this year, alongside the completion of the current pampatone's development project and the establishment of Gate Mount Pumps at Black Bridge. Additionally, efforts are underway to remove invasive plants and clean urban canals, with a budget of Rs. 295 million allocated for canal maintenance.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga instructs the officials of the Land Development Corporation to reduce floods in Colombo and surrounding areas.
-
-The Minister further instructed that the priority was identified and implementing these projects.Land Development Corporation launches seven special projects to reduce floods in Colombo and surrounding areas.
-
-Minister Prasanna Ranatunga says the flood reduction of flood reduction in Colombo and suburbs is being implemented in three phases. The program works as short-term, medium term and long-term projects.
-
-Improvement of drainage activities outside Colombo and urban land control factory, including rain water control facilities and maintenance facilitation and maintenance project for joint flood control system and maintenance project controlment project,
-
-The Drainage Improvement Project of the Chief Development Plan of Piliyandala, Drainage Improvement Project and the high catchment area of the parliament is 7 projects.
-
-...
-
-[Data](articles/fb5d7612.json)
-
-[Extended Data](ext_articles/fb5d7612.ext.json)
 
 ---

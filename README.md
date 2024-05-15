@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 12:18:25**
+As of **2024-05-15 12:33:53**
 
 ## Newspaper Stats
 
-*Scraped **24,180** Articles*
+*Scraped **24,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,061
 adaderanalk | 2,806
 tamilmirrorlk | 2,845
 virakesarilk | 3,630
-dailymirrorlk | 3,801
+dailymirrorlk | 3,803
 adaderanasinhalalk | 3,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,168 (100.0%) of 24,180 articles have been extended.
+24,180 (100.0%) of 24,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Tense situation near Presidential Secretariat
+
+*2024-05-15 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-near-Presidential-Secretariat/108-282646) · `en`
+
+Colombo, May 15 (Daily Mirro) - A tense situation was reported near the Presidential Secretariat due to a protest by the Citizen Power Organization Against Bribery, Corruption and Waste this morning.
+
+The protesters demand the government take action against the decision to restore the vehicle permits to the MPs.
+
+Soon after the protest started, the police removed the banners and as a result, the heated situation occurred.
+
+Later, the protestors handed over a memorandum to the President's Additional Secretary, Kapila Munasinghe.
+
+◼️
+
+[Data](articles/d4b7383a.json)
+
+---
 
 ### Tense situation near Presidential Secretariat due to protest
 
@@ -47,6 +65,28 @@ Subsequently, the protestors submitted a memorandum to the President’s Additio
 ◼️
 
 [Data](articles/84b2dd06.json)
+
+[Extended Data](ext_articles/84b2dd06.ext.json)
+
+---
+
+### Over 10,000 visitors witness 188 base jumps from Lotus Tower
+
+*2024-05-15 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-10-000-visitors-witness-188-base-jumps-from-Lotus-Tower/108-282645) · `en`
+
+Colombo, May 15 (Daily Mirror) - More than 10,000 local and foreign visitors witnessed a total of 188 base jump events held during the last three days at the Lotus Tower.
+
+The Lotus Tower Management Company (Private) Limited said two sets of fathers and daughters from the USA and Japan participated while highlighting the base jump event.
+
+They said a 35 international Base Jumpers exhibited their adrenaline-fueled skills.
+
+The jumpers were brought into the country by the Team Ill Vision who represents the Professional Stunt Skydivers and BASE Jumpers.
+
+The Base Jump event was held on May 12, 13 and 14 at the Lotus Tower.
+
+◼️
+
+[Data](articles/17eb8901.json)
 
 ---
 
@@ -84,27 +124,35 @@ He underscored that these rare complications are not indicative of future advers
 
 [Data](articles/24323728.json)
 
+[Extended Data](ext_articles/24323728.ext.json)
+
 ---
 
-### யாழ்.போதனாவில் குழந்தையை பிரசவித்துவிட்மு கைவிட்டு சென்ற சிறுமி பொலிஸாரிடம் சிக்கினார் : இளைஞன் ஒருவரும் கைது
+### A girl who abandoned the child in Jaffna
 
 *2024-05-15 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183586) · `ta`
 
-யாழ்.போதனா வைத்தியசாலையில்  பிரசவித்த குழந்தையை கைவிட்டு சென்ற 15 வயதுடைய சிறுமி நேற்று செவ்வாய்க்கிழமை (14)  பொலிஸாரிடம் சிக்கியுள்ளார்.
+A 15-year-old girl and her mother abandoned a newborn at Jaffna Bodhana Hospital. The girl, from Nelliyadi, was caught by police after giving birth. A 25-year-old woman from Mallavi, also pregnant, was arrested during the investigation.
 
-யாழ்.போதனா வைத்தியசாலையில் கடந்த வாரம் 15 வயதான பாடசாலை மாணவி பிரசவத்திற்காக அனுமதிக்கப்பட்டிருந்தார். தாயரும் குறித்து சிறுமியுடன் உதவிக்கு நின்றுள்ளார்.
+🟩
 
-சிறுமிக்கு குழந்தை பிறந்ததும் மறுநாள், தாயும் சிறுமியும் குழந்தையை வைத்தியசாலையில் கைவிட்டுவிட்டு அங்கிருந்து தப்பி சென்றுள்ளனர்.
+A 15 -year -old girl who abandoned the child at the Jaffna Bodhana Hospital was caught by the police on Tuesday (14).
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் சிறுமி நெல்லியடி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்தவர் என கண்டறிந்து , அது தொடர்பில் நெல்லியடி பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+A 15 -year -old schoolgirl was admitted to the Jaffna Bodhana Hospital last week.The mother is also standing for help with the girl.
 
-நெல்லியடி பொலிஸார் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் , குழந்தையை பிரசவித்த சிறுமியையும் அவரது தாயாரையும் கண்டறிந்து பொலிஸ் நிலையத்திற்கு அழைத்து சென்று விசாரணைகளை முன்னெடுத்தனர்.
+The next day when the girl was born, the mother and the girl abandoned the baby at the hospital and fled.
 
-விசாரணைகளின் அடிப்படையில் , மாணவியை வன்புணர்வுக்குட்படுத்தி, கர்ப்பமாக்கிய மல்லாவி பகுதியை சேர்ந்த 25 வயதான இளைஞனை கைது செய்துள்ளனர்.
+According to the complaint, the police have found that the girl belongs to the Nelliyadi Police Division, which was informed by the Nelliyadi police.
+
+Based on investigations carried out by Nelliyadi police, the girl and her mother who gave birth to the baby were taken to the police station and carried out investigations.
+
+Based on the investigation, a 25 -year -old youth from Mallavi, who was pregnant and pregnant, has been arrested.
 
 ◼️
 
 [Data](articles/0a279163.json)
+
+[Extended Data](ext_articles/0a279163.ext.json)
 
 ---
 
@@ -136,41 +184,61 @@ The court has also ordered the person to be interrogated and admitted the girl t
 
 ---
 
-### பொய் கூறி   யாசகம்  பெற்றவர் கைது
+### Arrested
 
 *2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்-கூறி-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
 
-காத்தான்குடி பகுதியில் இருந்து யாழ்ப்பாணம் வந்து , தனது மகளுக்கு சிறுநீரக சிகிச்சைக்கு பணம் வேணும் என பொய் கூறி  யாசகம் பெற்ற தந்தையொருவர் கைது செய்யப்பட்டுள்ளார்.
+A father from Kattankudi allegedly deceived his daughter for kidney treatment funds, leading to her being hospitalized in Jaffna due to damaged kidneys. The police, acting on confidential tips, rescued the child and arrested the father after confirming the girl's poor health condition.
 
-யாழ்ப்பாணம் , கல்வியங்காடு சந்தை பகுதியில் 4 வயது சிறுமியை சக்கர நாற்காலியில் இருத்தி , சிறுமியின் இரு சிறுநீரகங்கள் பழுதடைந்துள்ளதாகவும் , அதற்கான சிகிச்சைக்கு பண உதவி செய்யுமாறு கோரி ஒருவர் யாசகம் பெற்றுள்ளார்.
+🟩
 
-யாழில் நிலவும் கடுமையான வெப்பமான காலநிலையில் , வெயிலுக்குள் சிறுமியை சக்கர நாற்காலியில் இருத்தி வைத்து ஒருவர் யாசகம் பெறுவதாக கோப்பாய் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் , சம்பவ இடத்திற்கு சென்ற பொலிஸார் சிறுமியை மீட்டு யாழ்.போதனா வைத்தியசாலையில் அனுமதித்ததுடன் , யாசகம் பெற்ற நபரையும் கைது செய்துள்ளனர்.
+A father has been arrested for allegedly lying to his daughter from Kattankudi area and for his daughter to have money for kidney treatment.
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிறுமிக்கு மேற்கொள்ளப்பட்ட வைத்திய பரிசோதனையில் சிறுமிக்கு எவ்விதமான உடல்நல குறைப்பாடுகளும் இல்லை எனவும் சிறுமி ஆரோக்கியமாக்கவுள்ளார் எனவும் தெரியவந்துள்ளது.
+A 4 -year -old girl in the Kaliyangadu market in Jaffna has left a 4 -year -old girl in a wheelchair and a girl's two kidneys have been damaged.
 
-...
+Based on the confidential information received by the Kopay police, the police have rescued the girl and arrested the girl and arrested the person who had been admitted to the Jaffna Bodhana Hospital.
+
+A medical examination for the girl who was admitted to the hospital revealed that the girl had no health and that the girl would be healthy.
+
+During the investigation of the man who was arrested by the police, he said that she belonged to Kattankudi area and the girl was her daughter.
+
+The court has also ordered the person to be interrogated and admitted the girl to the children's archive.
+
+◼️
 
 [Data](articles/93b04f40.json)
 
+[Extended Data](ext_articles/93b04f40.ext.json)
+
 ---
 
-### அனுராதபுரத்தில் வெள்ளை வானில் ஒருவர் கடத்தப்பட்ட சம்பவம் - உடனடியாக விசாரணைகளை கோரியது இலங்கைமனித உரிமை ஆணைக்குழு
+### Sri Lanka Human Rights Commission
 
 *2024-05-15 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183587) · `ta`
 
-அனுராதபுரத்தை சேர்ந்த கபில குமார டிசில்வா என்பவர் பலவந்தமாக கடத்தப்பட்டது  தொடர்பில் சட்டமாஅதிபர் உடனடியாக விசாரணைகளை ஆரம்பிக்கவேண்டும் என இலங்கையின்மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+The Sri Lanka Human Rights Commission has urged the Attorney General to probe the forced abduction of Kapila Kumara DeSilva from Anuradhapura, fearing a resurgence of disappearances. The commission, led by Justice LDP Tegiteniya, has expressed concern over DeSilva's disappearance since March 27, after his arrest by the Special Task Force. His mother reported him missing on March 29, and the STF claimed he was held at Silva Pitigala Police Station before being transferred to Galle Prison. The commission visited Galle Prison to record DeSilva's statement, where he denied being a suspect.
 
-அனுராதபுரம் ஹொரவப்பொத்தானையை சேர்ந்த கபிலகுமார டிசில்வா கடத்தப்பட்டு இரகசியமறைவிடத்தில் தடுத்துவைக்கப்பட்டிருக்கலாம் என்பது குறித்து விசாரணைகளை மேற்கொள்ளுமாறு இலங்கை மனித உரிமைஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+🟩
 
-இலங்கையை மீகநீண்டகாலமாக பாதித்துவரும் பலவந்த காணாமல்போகச்செய்தல் மீண்டும் தலைதூக்குகின்றது என்ற அச்சத்தின்மத்தியில்இலங்கையின் மனித உரிமை ஆணைக்குழு இந்த வேண்டுகோளை விடுத்துள்ளது.
+The Sri Lanka Human Rights Commission has requested the Attorney General to immediately investigate the forcible kidnapping of Kapila Kumara DeSilva from Anuradhapura.
 
-கபிலடிசில்வா என்பவர் காணாமல்போனதன் பின்னணியில்உள்ள  அச்சத்தை ஏற்படுத்தும் விடயங்கள் குறித்து இலங்கை மனித உரிமை ஆணைக்குழுவின் தலைவர் நீதிபதி எல்டிபி தெகிதெனிய கடிதமொன்றை சட்டமா அதிபருக்கு அனுப்பியுள்ளார்.
+The Sri Lanka Human Rights Council has appealed to investigations into the abduction of Kapilakumara Deceilva from Horawapothana, Anuradhapura.
 
-மார்ச் 27 ம் திகதி முதல் கபில டிசில்வா என்பவர் காணாமல்போயுள்ளார் என அவரது தாயார் தெரிவித்துள்ளார் என அவர் தனது கடிதத்தில்  குறிப்பிட்டுள்ளார்.
+The Human Rights Commission of Sri Lanka has made this appeal in fear of re -emergence of the disappearance of Sri Lanka.
+
+The President of the Sri Lanka Human Rights Commission, Justice LDP Tegiteniya, has sent a letter to the Attorney General regarding the fear of the disappearance of Kapiladisilva.
+
+In his letter, Kapila Decilwa has said that her mother has said that he has disappeared since March 27.
+
+He said that his mother had complained that the Special Task Force had arrested Kapila de Silva.
+
+The leader of the Human Rights Commission said that the mother had lodged a complaint with the Special Task Force on March 29.
 
 ...
 
 [Data](articles/3dfd50fd.json)
+
+[Extended Data](ext_articles/3dfd50fd.ext.json)
 
 ---
 
@@ -222,19 +290,27 @@ They were organized in protest of the decision to be restored to the MPs.
 
 ---
 
-### சிறுவர் தலைமுறைக்காக மதுபானம், போதைவஸ்துகளுக்கு முற்றுப்புள்ளி வைப்பேன் - சஜித்
+### I will put an end to alcohol and drugs for children's generation - Sajith
 
 *2024-05-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183579) · `ta`
 
-மதுபான அனுமதிப் பத்திரங்கள், குறைந்த அளவில் போதையூட்டும் மதுபான வகைகளுக்கான அனுமதிப்பத்திரம் மற்றும் அதிக போதையூட்டும் மதுபான வகைகளுக்கான அனுமதிப்பத்திரம் என பெரும் அரசியல் சூதாட்டம் நடந்து வருகிறதென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Sajith Premadasa criticizes political maneuvers like liquor permits and high-tech liquor licenses, arguing they benefit only politicians and corporations, not the nation or its youth. He calls for open discussions on alcohol and drug impacts, highlighting the harm to health and society. Premadasa emphasizes the importance of raising awareness and protecting children from substance abuse, advocating for policies that prioritize public welfare over political gains.
 
-அத்துடன் இதன் மூலம் வாக்கு சேகரிக்க சிலருக்கு பணம் கிடைத்தாலும், நாட்டுக்கும், மக்களுக்கும், இளைஞர்களுக்கும் பயன் ஏதுமில்லை. அரசியல்வாதிகள் வைத்தியசாலைகளுக்கு உபகரணங்களை வழங்குவதை போல மது மற்றும் போதைப்பொருளால் ஏற்படும் பாதிப்புகள் குறித்து வெளிப்படையாக பேச வேண்டும் எனவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+🟩
 
-மதுபான நிறுவனங்கள் இன்று சக்தி வாய்ந்த ஒன்றாக மாறிவிட்டன. இந்நிறுவனங்களால் எந்தவொரு பிரபல நபரையும் பணத்துக்காக எடுத்துக் கொண்டு, அரசாங்கத்திற்கு செலுத்த வேண்டிய முறையான வரிகளை செலுத்தத் தவறிவிடுகின்றனர். பண பலம் இருப்பதால் மாத்திரம் வரி செலுத்தாமல் இருப்பது ஒருபுறமிருக்க,மறுபுறம் நாட்டு மக்களையும், பிள்ளைகளையும், இளைஞர்களையும் மரணப் படுக்கைக்கு இட்டுச்செல்கின்றனர் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that there is a great political gambling, such as liquor permits, low -level alcoholic beverages and a license for high -tech liquor.
+
+And even if some people get money to collect votes, the country, the people and the youth do not benefit. Opposition Leader Sajith Premadasa said that politicians should speak openly about the effects of alcohol and drugs as they provide equipment to hospitals.
+
+The liquor companies have become a powerful one today. These companies fail to pay any famous person for money and pay for the government to pay for the government. The opposition leader said that the people, children and young people on the other hand, on the other hand, are leading the death bed because of money strength.
+
+We need to raise awareness about this. Even if adults do such things, young people and children should be released from this.
 
 ...
 
 [Data](articles/cc706790.json)
+
+[Extended Data](ext_articles/cc706790.ext.json)
 
 ---
 
@@ -282,75 +358,105 @@ Together, they aim to address the stigma and myths surrounding leprosy, which ha
 
 ---
 
-### இலங்கையில் செயற்படும் உண்மை மற்றும் நல்லிணக்க திட்டம் காணப்படுவது அவசியம் - எதிர்கால தேர்தல்களில் வெற்றிபெறுபவர்கள் இதனை உறுதி செய்யவேண்டும்  அமெரிக்காவின் உதவி இராஜாங்க செயலாளர் டொனால்ட் லு
+### Those who win the future elections must ensure that the US Assistant Secretary of State Donald Lou
 
 *2024-05-15 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183582) · `ta`
 
-இலங்கையில் செயற்படும் உண்மை மற்றும் நல்லிணக்க திட்டமொன்று காணப்படுவது அவசியம் என தெரிவித்துள்ள அமெரிக்காவின் தெற்கு மற்றும் மத்திய ஆசியாவிற்கான உதவி இராஜாங்க செயலாளர்  டொனால்ட் லு எதிர்வரும் தேர்தல்களில் வெற்றிபெறும் தலைவர்கள்  இதனை முன்னெடுப்பார்கள் என  எதிர்பார்ப்பதாகவும் குறிப்பிட்டுள்ளார்.
+Donald Loo, US Assistant Secretary of State for South and Central Asia, emphasized the need for a reconciliation program in Sri Lanka, highlighting the US's readiness to offer financial advice and support for its development projects. He encouraged continued US-Sri Lanka bilateral ties and invited foreign investment to foster competition, while calling for transparency in benefiting from such investments.
 
-இலங்கையின் தற்போதைய கடன்மறுசீரமைப்பு திட்டம் குறித்து கருத்து தெரிவித்துள்ள அவர் அமெரிக்கா அபிவிருத்தி சகாவாக விளங்குவதற்கு தயார் இலங்கையின் அபிவிருத்தி செயற்பாடுகளுக்கு நிதி ஆலோசனை மற்றும் கடனை வழங்க தயார் எனவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-இருதரப்பு உறவுகளை இலங்கை தொடர்ந்தும் வலுப்படுத்தவேண்டும் என அமெரிக்கா ஊக்குவிக்கின்றது ஆரோக்கியமான போட்டிதன்மையை பேணுவதற்கு வெளிநாட்டு தரப்புகள் இலங்கையில் முதலீடு செய்வதற்கு இலங்கை வாய்ப்புகளை வழங்கவேண்டும் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+Donald Loo, Assistant Secretary of State for South and Central Asia, said that there is a need for a reality and reconciliation program in Sri Lanka.
 
-அதன் மூலம் கிடைக்கின்ற நன்மைகளை பொதுமக்களிற்கு வழங்கவேண்டும் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+Commenting on Sri Lanka's current Debt Service Project, he said that the US is ready to provide financial advice and debt to Sri Lanka's development activities.
+
+He urged the US to continue strengthening bilateral relations and that foreign parties should be given the opportunity to invest in Sri Lanka to maintain healthy competition.
+
+He has also requested the public to provide the benefits.
 
 ◼️
 
 [Data](articles/6b0b9128.json)
 
+[Extended Data](ext_articles/6b0b9128.ext.json)
+
 ---
 
-### பான் ஏசியா வங்கியின் ட்ரெயில்பிளேசர் வருடாந்த  சில்லறை விற்பனை விருதுகளில் அதன் உயர்மட்ட பணியாளர்களில் உள்ள விதிவிலக்கான சாதனையாளர்கள் முக்கிய இடம்
+### Ban Asia Bank's Trailblazer Annual Retail Sales Awards in its top -level employees
 
 *2024-05-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183577) · `ta`
 
-பான் ஏசியா வங்கியின் ட்ரெயில்பிளேசர் வருடாந்த  சில்லறை விற்பனை விருதுகளில் அதன் உயர்மட்ட பணியாளர்களில் உள்ள விதிவிலக்கான சாதனையாளர்கள் முக்கிய இடத்தைப் பிடித்தனர்.
+In a challenging fiscal year 2023, Ban Asia Bank celebrated its top-level employees' achievements at the Annual Retail Sales Awards, highlighting their resilience and dedication. Despite tough market conditions, the bank recognized exceptional performances, with the Kottawa Branch winning the Best Branch of the Year award, followed by the Homagama Branch. CEO Naleen Etisinghe commended the winners for their outstanding service and commitment, reinforcing Ban Asia Bank's position as a leading financial institution in Sri Lanka.
 
-கடுமையான சந்தை நிலைமைகளுக்கு மத்தியிலும், 2023 நிதியாண்டில் செய்யப்பட்ட விதிவிலக்கான சாதனைகளை அங்கீகரிப்பதற்காக இந்த சந்தர்ப்பம் வழங்கப்பட்டது.
+🟩
 
-மிகவும் கொந்தளிப்பான காலங்களிலும் வங்கியை வெற்றியடையச் செய்ததில் ஊழியர்கள் காட்டிய அர்ப்பணிப்பையும் விடாமுயற்சியையும் பாராட்டுவதற்காக  கொண்டாடப்பட்ட இந்நிகழ்வில்  குதூகலமும் பெருமையும்  கரைபுரண்டு ஓடியதைக் காணமுடிந்தது. அத்துடன் வாடிக்கையாளர்களுக்கு சேவை செய்வதிலும் நாட்டின் செழிப்பிலும் பான் ஏசியா வங்கி காட்டிவந்த  அக்கறையும் ஒற்றுமையும்  இங்கு  புடம்  போட்டுக் காட்டப்பட்டிருந்தது.
+Ban Asia Bank's Exceptional Achievement Achievers in its top -level employees took prominent place at the Annual Retail Sales Awards.
+
+Despite the strict market conditions, the opportunity was given to recognize the exceptional achievements made in the fiscal year 2023.
+
+The event, which was celebrated to commemorate the commitment and perseverance of the employees in the most turbulent times, was found to be a gut and pride.. In addition to serving customers and prosperity in the country, BANAsia Bank's concern and unity was shown here.
+
+The awards for the Branch of the Year were at the peak of the event, and the best performance and commitment was proudly commemorated in the presence of Ban Asia Bank Chairman Aravinda Perera and Director of Director/Chief Executive Officer Naleen Ethi Sinha, who received the Best Branch of the Year.Is evidence. The Kottawa Branch won the second place and the Homagama branch third.
 
 ...
 
 [Data](articles/23e720d3.json)
 
+[Extended Data](ext_articles/23e720d3.ext.json)
+
 ---
 
-### காட்டுத் தீ : கனடாவின் எண்ணெய் வளமிக்க பகுதிக்கு அச்சுறுத்தல்
+### Wild Fire: Threatening the oil prosperous area of Canada
 
 *2024-05-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183580) · `ta`
 
-கனடாவின் எண்ணெய் வளம் மிக்க போர்ட் மெக்முரே பகுதியில் (Fort McMurray) பாரிய காட்டுத்தீ தீவிரமாகப் பரவி வருகிறது.
+A severe wildfire in Canada's Fort McMurray threatens oil-rich regions, forcing evacuations and halting oil production. The blaze, fueled by drought and high winds, has expanded rapidly, endangering thousands and causing significant environmental damage.
 
-இதன் காரணமாக நான்கு புறநகர்ப் பகுதிகளில் உள்ள சுமார் 6,000 மக்களை  வெளியேறுமாறு செவ்வாய்க்கிழமை உத்தரவிடப்பட்டுள்ளது.
+🟩
 
-வரட்சி மற்றும் பலத்த காற்றினால் ஆல்பர்ட்டாவின் மேற்கு மாகாணத்தில் கடந்த வாரம் முதல் காட்டுத் தீ தீவிரமடைந்துள்ளது.
+A massive wildfire is spreading seriously in the Fort McMurray area of Canada.
 
-தற்போது காட்டுத் தீ தென்மேற்கே சுமார் 13 கிலோ மீற்றர் (8 மைல்) தொலைவில் உள்ளது. அங்கு மணிக்கு 40 கிலோ மீற்றர் (24.8 மைல்) வேகத்தில் காற்று வீசியுள்ளது.
+As a result, about 6,000 people in the four suburbs were ordered to leave.
 
-பலத்த காற்று வீசுவது துரதிர்ஷ்டவசமாக எங்களுக்கு சாதகமானதாக இல்லை.  காற்றின் வேகம் குறையும் வரை காட்டு தீ நகரத்தை நோக்கி தொடர்ந்து பரவி வரும் என  ஆல்பர்ட்டா காட்டுத் தீ தகவல் தொடர்பு அதிகாரி ஜோசி செயின்ட்-ஓங்கே தெரிவித்துள்ளார்.
+Wild fire has intensified since last week in Alberta's western province due to drought and strong winds.
 
-காட்டுத் தீ தீவிரமடைந்துள்ளதால் வானம் புகையால் சூழப்பட்டுள்ளது. பாதுகாப்பு காரணங்களுக்காக தீயணைப்பு வீரர்கள் தீ பரவும்  பகுதியிலிருந்து வெளியேற்றப்பட்டனர். 10,000 ஹெக்டயர் பரப்பிலான வனப்பகுதிகளில் தீ பற்றி எரிந்து வருகிறது.
+Currently the wildfire is about 13 kilometers (8 miles) to the southwest. There is a speed of 40 km / h (24.8 mph).
 
-...
+Strong wind blowing is not favorable to us.Alberta Wild Communication Officer Josi St. Onge said the wildfire would continue to spread towards the city until the wind speeds slowed.
+
+The sky is surrounded by smoke as the wildfire has intensified. Firefighters were expelled from the fire area for security reasons.Fire is burning in forest areas of 10,000 hectares.
+
+Residents of Abbasant, Peakan Hill, Brery Creek and Greling have been advised to leave by 4 pm.
+
+In 2016, a massive wildfire spread in Port McMure and forced 90,000 residents to evacuate.Oil production of more than one million barrels of oil a day stopped.
+
+◼️
 
 [Data](articles/dda531df.json)
 
+[Extended Data](ext_articles/dda531df.ext.json)
+
 ---
 
-### சிறையில் இடம்பெற்ற கொலை ஒப்பந்தம் குறித்து விசாரணை
+### Investigation into the murderous contract in the jail
 
 *2024-05-15 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இடம்பெற்ற-கொலை-ஒப்பந்தம்-குறித்து-விசாரணை/175-337347) · `ta`
 
-காலி சிறைச்சாலையில் உள்ள சிறைச்சாலை அதிகாரி ஒருவர், சக பெண் வார்டன் ஒருவரைக் கொலை செய்ய சிறையிலிருந்த பெண் கைதியை ஈடுபடுத்தியதாக எழுந்த குற்றச்சாட்டு தொடர்பில் காலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Galle Police investigate a prison officer suspected of murdering a female inmate. Officers visited Galle Prison, recording statements from several individuals, including the accused and the victim. The case involves a controversial prisoner agreement involving a criminal inmate.
 
-பொலிஸ் அதிகாரிகள் குழுவொன்று காலி சிறைச்சாலைக்கு விஜயம் செய்து, குற்றம் சாட்டப்பட்ட சிறைச்சாலை அதிகாரி மற்றும் இலக்கு வைக்கப்பட்ட வார்டன் உட்பட பல நபர்களிடம் வாக்குமூலங்களை பதிவு செய்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-காலி சிறைச்சாலையின் எல்லைக்குள் பல குற்றச் செயல்களில் ஈடுபட்டு சிறைவாசம் அனுபவித்து வரும் பெண் கைதி ஒருவருக்கு சிறைக்காவலர் ஒப்பந்தம் ஒன்றை வழங்கியதாக வார்டன் தாக்கல் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+Galle police have launched an investigation into the allegation that a prison officer in the Galle Prison has been involved in the murder of a female wardan.
+
+A team of police officers has reportedly visited the Galle Prison and has recorded confessions to several persons, including the accused and the targeted warden.
+
+Warden's complaint states that a female prisoner who is engaged in a number of crimes within the boundaries of the Galle Prison has been given a prisoner agreement.
 
 ◼️
 
 [Data](articles/137bc34f.json)
+
+[Extended Data](ext_articles/137bc34f.ext.json)
 
 ---
 
@@ -500,21 +606,27 @@ He said that the right to commemorate the dead in the war is an internationally 
 
 ---
 
-### உயிரிழந்தவர்களை நினைவு கூர  உரிமையுண்டு
+### He has the right to recall the dead
 
 *2024-05-15 10:39:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவர்களை-நினைவு-கூர-உரிமையுண்டு/175-337342) · `ta`
 
-யுத்தத்தில் உயிரிழந்தவர்களை நினைவு கூருவதற்கு உறவினர்களுக்கும் அவர்களின் தோழர்களுக்கும் உரிமை உண்டு என கூறியுள்ள தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், அவர்களின் உரிமைகளை பாதுகாக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+Vijitha Herath advocates for the right of families and comrades to honor war dead, criticizing arrests for such memorials. He cites international norms supporting this right, urging protection for Sri Lankan commemoration practices.
 
-பலஸ்தீனப் போர் தொடர்பான விவாதத்தின் போது பேசிய அவர், இலங்கையில் உள்நாட்டுப் போரில் உயிரிழந்தவர்களின் உறவினர்கள் மற்றும் தோழர்களுக்கு போரில் இறந்தவர்களை நினைவு கூர உரிமை உண்டு என்று கூறியதுடன், சம்பூரில் முள்ளிவாய்க்கால் போரில் உயிரிழந்தவர்களை நினைவுகூரும் நினைவேந்தல் நடத்தியதற்காக 3 பெண்கள் மற்றும் ஒரு ஆண் கைது செய்யப்பட்டதற்கு கண்டனம் தெரிவித்தார்.
+🟩
 
-நக்பா சம்பவத்தில் இறந்தவர்களை நினைவுகூரும் நாள் ஒன்றை ஐக்கிய நாடுகள் சபை பிரகடனப்படுத்தியுள்ளதாகவும், அதேபோன்று உள்நாட்டுப் போரில் இறந்தவர்களை நினைவுகூருவதற்கு இலங்கையர்களுக்கும் உரிமை உண்டு எனவும் எம்.பி. தெரிவித்தார்.
+Relatives and their comrades have the right to recall those who died in the war, the National PA parliamentarian Vijitha Herath said that the government should take steps to protect the rights of their rights.
 
-போரில் இறந்தவர்களை நினைவு கூரும் உரிமையானது சர்வதேச ரீதியாக ஏற்றுக்கொள்ளப்பட்ட உரிமை எனவும், இலங்கையிலும் அந்த உரிமை உறுதிப்படுத்தப்பட வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+Speaking during the debate on the Palestinian war, he said that relatives and comrades of the civil war in Sri Lanka had the right to remember the dead in the war and condemned the arrest of three women and a man for commemorating the victims of the Mullivaikkal war in Sampur.
+
+The United Nations has declared a day to commemorate the dead in the Nagba incident, as well as Sri Lankans have the right to commemorate the dead in the civil war.. Said.
+
+He said that the right to commemorate the dead in the war is an internationally accepted right and that the right to Sri Lanka should be confirmed.
 
 ◼️
 
 [Data](articles/82670bc5.json)
+
+[Extended Data](ext_articles/82670bc5.ext.json)
 
 ---
 
@@ -2115,53 +2227,5 @@ Minister Susil Premajayantha, the chief minister of the council, cannot respond 
 [Data](articles/332d5314.json)
 
 [Extended Data](ext_articles/332d5314.ext.json)
-
----
-
-### Continuing voice for Palestine Peace
-
-*2024-05-15 00:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலஸ்தீன-அமைதிக்காக-தொடர்-குரல்கொடுப்போம்/175-337313) · `ta`
-
-Mahinda Rajapakse, former Sri Lankan president, emphasized the ongoing support for Palestinian peace during a parliamentary debate. He highlighted Sri Lanka's historical ties with Palestine and called for international pressure to resolve the longstanding Israeli-Palestinian conflict. Rajapakse stressed the importance of peaceful solutions over war, citing the devastating impact of conflict on Palestinians.
-
-🟩
-
-Former President Mahinda Rajapakse has said that the Palestinian people will continue to voice their voices for peace.
-
-He said this while addressing a debate on the postponement of today's situation in Palestine held in Parliament on Tuesday (14).
-
-"We have voiced the rights of the Palestinian people as the initial leader of the Palestinian -Sri Lanka Cooperation Organization," Mahinda Rajapaksa said.
-
-We have come forward to Palestine and for those people from that day. We must put pressure on all parties who intervene in the matter to solve the crises there. All those who are aware of world politics can be understood in the Palestinian -Israeli crisis that continues for 7 decades. In the events of the UN meeting, we urged Palestine to declare Palestine as an independent country and give them freedom.
-
-...
-
-[Data](articles/c20effb5.json)
-
-[Extended Data](ext_articles/c20effb5.ext.json)
-
----
-
-### What did Sri Lanka do for Tamils: Sumanthiran question
-
-*2024-05-15 00:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-இலங்கை-என்ன-செய்தது-சுமந்திரன்-கேள்வி/175-337312) · `ta`
-
-Sri Lanka's handling of Tamil issues contrasts sharply with its stance on Palestine. TNA MP MA Sumanthiran criticized Sri Lanka for its "hypocrisy" and "dual role," highlighting the disparity between condemning international crimes like those in Palestine while dismissing similar atrocities against Tamils as internal affairs. He referenced the Mullivaikkal massacre, where hundreds of thousands were trapped without food, contrasting it with the international outcry over Palestine. Sumanthiran questioned whether Sri Lanka's selective concern for international law applies equally to its own citizens, calling for an independent inquiry into the treatment of Tamils.
-
-🟩
-
-The genocide in Palestine took place for Tamils in Sri Lanka, but what did Sri Lanka do to the Tamils, who voice their voice for Palestine?Tamil National Alliance (TNA) parliamentarian MA Sumanthiran alleged that this is the hypocrisy and dual role of Sri Lanka.
-
-He said this while addressing the debate on the postponement of today's situation in Palestine held in Parliament on Tuesday (18).
-
-Today's situation of Palestine is very serious. This situation should not be considered normal. In this case, there are also those who behave in this Parliament. He said their action was insidious.
-
-They are talking about international crimes, including human rights, international human rights laws, and genocide. They are talking about the Palestinian situation, referring to the terrorist activities that have taken place within a country.
-
-...
-
-[Data](articles/24dfd5d7.json)
-
-[Extended Data](ext_articles/24dfd5d7.ext.json)
 
 ---

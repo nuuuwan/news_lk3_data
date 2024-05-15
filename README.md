@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 03:33:51**
+As of **2024-05-16 03:52:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,314 (100.0%) of 24,319 articles have been extended.
+24,319 (100.0%) of 24,319 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The HRCSL observed that De Silva was reported missing on 27 March 2024. Accordin
 
 [Data](articles/014afe85.json)
 
+[Extended Data](ext_articles/014afe85.ext.json)
+
 ---
 
 ### International transitional justice scholars call on SL to halt establishing truth commission
@@ -61,6 +63,8 @@ The statement said it recognises the right to truth as a key human right affirme
 ...
 
 [Data](articles/c444c420.json)
+
+[Extended Data](ext_articles/c444c420.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ In a statement, Jayasuriya said the society must empathetically acknowledge the 
 
 [Data](articles/53ebff7d.json)
 
+[Extended Data](ext_articles/53ebff7d.ext.json)
+
 ---
 
 ### Charitha highlights importance of timely Presidential poll
@@ -93,6 +99,8 @@ He noted that while dissolving parliament and conducting a general election are 
 ...
 
 [Data](articles/539cf79d.json)
+
+[Extended Data](ext_articles/539cf79d.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ The funeral service will be held today evening at SS Mary and John Church in Nug
 ◼️
 
 [Data](articles/9bb6079d.json)
+
+[Extended Data](ext_articles/9bb6079d.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 23:03:28**
+As of **2024-05-15 23:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,286 (100.0%) of 24,287 articles have been extended.
+24,287 (100.0%) of 24,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ By contrast, nearly 34,400 Indian travelers went to Sri Lanka in January, more t
 ...
 
 [Data](articles/dae2e911.json)
+
+[Extended Data](ext_articles/dae2e911.ext.json)
 
 ---
 
@@ -392,13 +394,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
-
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 

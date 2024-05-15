@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 11:18:20**
+As of **2024-05-15 11:33:51**
 
 ## Newspaper Stats
 
-*Scraped **24,155** Articles*
+*Scraped **24,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,060
 adaderanalk | 2,804
-tamilmirrorlk | 2,837
+tamilmirrorlk | 2,840
 virakesarilk | 3,624
-dailymirrorlk | 3,795
-adaderanasinhalalk | 3,861
+dailymirrorlk | 3,797
+adaderanasinhalalk | 3,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,155 (100.0%) of 24,155 articles have been extended.
+24,155 (100.0%) of 24,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### ජනාධිපති ලේකම් කාර්යාලය අසල උණුසුම් තත්ත්වයක්
+
+*2024-05-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196643) · `si`
+
+විරෝධතාවයක් හේතුවෙන් ජනාධිපති ලේකම් කාර්යාලය අසල උණුසුම් තත්ත්වයක් හට ගෙන තිබේ.
+
+"අල්ලස් දූෂණයට නාස්තියට එරෙහි පුරවැසි බලය සංවිධානය" විසින් අද (15) උදෑසන ජනාධිපති ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවයක් සංවිධානය කර තිබිණි.
+
+විරෝධතාවය ආරම්භ කිරීමත් සමග පොලීසිය විසින් බැනර් හකුළා ඉවත් කළ අතර, එහිදී විරෝධතාකරුවන් සමග උණුසුම් තත්ත්වයක් ඇති වුණි.
+
+පසුව විරෝධතාකරුවන් විසින් ජනාධිපති අතිරේක ලේකම් කපිල මුණසිංහ මහතා වෙත සංදේශයක් භාරදෙනු ලැබීය.
+
+මන්ත්‍රීවරුන්ට වාහන බලපත්‍රය නැවත ලබාදීමට ගෙන ඇති තීරණය සම්බන්ධයෙන් විරෝධය පළ කරමින් ඔවුන් එම විරෝධය සංවිධානය කර තිබිණි.
+
+◼️
+
+[Data](articles/bda28250.json)
+
+---
+
+### சிசுவை விட்டுச்சென்ற மாணவி சிக்கினார்
+
+*2024-05-15 11:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிசுவை-விட்டுச்சென்ற-மாணவி-சிக்கினார்/71-337348) · `ta`
+
+யாழ்.போதனா வைத்தியசாலையில் சிசுவை  பிரசவித்த பின்னர் , சிசுவை வைத்தியசாலையில் கைவிட்டு சென்ற 15 வயதான பாடசாலை மாணவியை பொலிஸார் மீட்டுள்ளதுடன் , மாணவியை வன்புணர்ந்து கர்ப்பமாக்கிய குற்றச்சாட்டில் 25 வயதான இளைஞனையும் பொலிஸார் கைது செய்துள்ளனர்.
+
+யாழ்.போதனா வைத்தியசாலையில் 15 வயதான பாடசாலை மாணவி பிரசவத்திற்காக கடந்த வாரம் அனுமதிக்கப்பட்டிருந்தார். தாயாரும் மாணவிகடகு உதவியாக தாயாரும் நின்றுள்ளார்.  மாணவிக்கு குழந்தை பிறந்ததும் மறுநாள், தாயும் மாணவியும் குழந்தையை வைத்தியசாலையில் கைவிட்டு அங்கிருந்து தப்பி சென்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் வைத்தியசாலை நிர்வாகத்தினர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தனர். முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் சிறுமி நெல்லியடி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்தவர் என கண்டறிந்து , அது தொடர்பில் நெல்லியடி பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+
+நெல்லியடி பொலிஸார் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் , குழந்தையை பிரசவித்த மாணவியையும் , அவரது தாயாரையும் கண்டறிந்து பொலிஸ் நிலையத்திற்கு அழைத்து சென்று விசாரணைகளை முன்னெடுத்தனர்.
+
+...
+
+[Data](articles/4cad7160.json)
+
+---
+
+### Sri Lanka launches ’’Act2Prevent’’ campaign to combat Leprosy stigma
+
+*2024-05-15 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-launches-Act2Prevent-campaign-to-combat-Leprosy-stigma/108-282638) · `en`
+
+Colombo, May 15 (Daily Mirror) -  Leprosy, a long-neglected disease, continues to impact the psychological well-being of those affected and imposes an unseen burden on Sri Lanka's economy.
+
+Despite significant medical advancements, the associated stigma and discrimination remain persistent challenges. In response, Sri Lanka has embarked on a journey to eliminate leprosy from the country, spearheaded by the newly launched "Act2Prevent" (A2P) campaign.
+
+The Act2Prevent campaign is a collaborative initiative between the Anti-Leprosy Campaign (ALC) and the Alliance Development Trust (ADT). The ALC, the primary authority overseeing leprosy control activities in Sri Lanka, has partnered with ADT, a seasoned Non-Governmental Organization known for its grassroots work across the country's diverse districts.
+
+Together, they aim to address the stigma and myths surrounding leprosy, which have been identified as significant barriers to its elimination.
+
+...
+
+[Data](articles/1dfa83ef.json)
+
+---
+
+### சிறையில் இடம்பறெ்ற கொலை ஒப்பந்தம் குறித்து விசாரணை
+
+*2024-05-15 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இடம்பறெ்ற-கொலை-ஒப்பந்தம்-குறித்து-விசாரணை/175-337347) · `ta`
+
+காலி சிறைச்சாலையில் உள்ள சிறைச்சாலை அதிகாரி ஒருவர் சக பெண் வார்டன் ஒருவரைக் கொலை செய்ய சிறையிலிருந்த பெண் கைதியை ஈடுபடுத்தியதாக எழுந்த குற்றச்சாட்டு தொடர்பில் காலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+பொலிஸ் அதிகாரிகள் குழுவொன்று காலி சிறைச்சாலைக்கு விஜயம் செய்து, குற்றம் சாட்டப்பட்ட சிறைச்சாலை அதிகாரி மற்றும் இலக்கு வைக்கப்பட்ட வார்டன் உட்பட பல நபர்களிடம் வாக்குமூலங்களை பதிவு செய்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+காலி சிறைச்சாலையின் எல்லைக்குள் பல குற்றச் செயல்களில் ஈடுபட்டு சிறைவாசம் அனுபவித்து வரும் பெண் கைதி ஒருவருக்கு சிறைக்காவலர் ஒப்பந்தம் ஒன்றை வழங்கியதாக வார்டன் தாக்கல் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/769d7a16.json)
+
+---
+
+### வாட்ஸ்அப்பில் தகவல் பகிர்ந்தோர் கைது
+
+*2024-05-15 10:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்ஸ்அப்பில்-தகவல்-பகிர்ந்தோர்-கைது/175-337346) · `ta`
+
+விசேட சுற்றிவளைப்பு நடவடிக்கைகளுக்காகக் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர்களைக் கண்காணித்து குற்றவாளிகளுக்கு வாட்ஸ்அப் மூலம் தகவல் தெரிவித்ததாக கூறப்படும் இருவரை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் சந்தேக நபர்கள் கணினி குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டு நேற்று (14) நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+தெய்யந்தர பிரதேசத்தைச் சேர்ந்த  23 மற்றும் 30 வயதுடைய இரண்டு நபர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/89f9b78e.json)
+
+---
 
 ### Arrested
 
@@ -876,11 +964,25 @@ The final draft of the law titled ‘Non-governmental Organizations (Registratio
 
 ---
 
+### US State Dept. gets involved in drafting local NGO law
+
+*2024-05-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/US-State-Dept-gets-involved-in-drafting-local-NGO-law/155-282604) · `en`
+
+May 14 (Daily Mirror) -  The U.S. State Department has sought to intervene in the drafting of Sri Lanka's new piece of legislation that, if enacted, will provide for the registration of both local and international NGOs in the country, a top source said yesterday.
+
+The final draft of the law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now pending with the Attorney General for certification before being announced in the gazette notification and then presented to Parliament for enactment. At the moment, there are 1,786 registered NGOs operating at national level, 1,636 at district levels and 38,524 at divisional levels.
+
+...
+
+[Data](articles/67af1272.json)
+
+---
+
 ### Limiting Factor Analysis crucial in decision making amidst resource constraints
 
 *2024-05-15 05:38:38* · [`dailyftlk`](https://www.ft.lk/columns/Limiting-Factor-Analysis-crucial-in-decision-making-amidst-resource-constraints/4-761807) · `en`
 
-Policymakers must determine the level of full capacity national output in understanding the state of the economy and in
+Policymakers must determine the level of full capacity national output in understanding the state of the economy and in making informed decisions regarding monetary and fiscal policies
 
 The Sunday Times of 28 April 2024 reported that plans are underway to lift the restrictions on the import of motor vehicles because a committee of Treasury Officials has stated that in the absence of duties on motor vehicle imports the country would not meet the revenue targets set by the International Monetary Fund. The news report states further that the trade-off is an $ 800 million drain on foreign reserves against the earning of a SL Rupee denominated tax revenue of Rs. 340 billion. Whilst accepting that there would be different views re the logic of this trade-off, I see this as a situation which calls for Limiting Factor Analysis (LFA).
 
@@ -2059,113 +2161,5 @@ The train services on the main line and the Puttalam line have been disrupted fr
 [Data](articles/2a9cfc03.json)
 
 [Extended Data](ext_articles/2a9cfc03.ext.json)
-
----
-
-### 14 arrested for arrested in Dehiwala
-
-*2024-05-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196629) · `si`
-
-Fourteen people were arrested in Dehiwala for demolishing shacks in January. They were taken to court by the Mount Lavinia Special Investigation Unit and Dehiwala Police.
-
-🟩
-
-Mount Lavinia Chiefurpura, Mt.
-
-Fourteen persons were arrested in the Dehiwala coastal coast, which was taken to demolish the backbacks in January.
-
-Mount Lavinia Special Investigation Unit and the Dehiwala Police were arrested and produced before the court.
-
-◼️
-
-[Data](articles/4027e2e3.json)
-
-[Extended Data](ext_articles/4027e2e3.ext.json)
-
----
-
-### New research explores the experiences of teachers with disabilities in education systems worldwide
-
-*2024-05-14 21:08:00* · [`islandlk`](http://island.lk/new-research-explores-the-experiences-of-teachers-with-disabilities-in-education-systems-worldwide/) · `en`
-
-The British Council in Sri Lanka is proud to announce the release of a groundbreaking publication titled “Being a Teacher with Disabilities: Perspectives, Practices, and Opportunities.” This comprehensive report delves into the challenges, opportunities, policies, and support networks encountered by teachers with disabilities within education systems in Sri Lanka and four other countries where the research was conducted.
-
-The report, a result of extensive research and collaboration, sheds light on the lived experiences of English language and other subject teachers with disabilities in national education systems in Sri Lanka, Brazil, Jordan, Rwanda and Spain. It features primary data from interviews with 25 teachers who identified themselves as having visible or non-visible disabilities, providing invaluable insights into the ways in which these educators navigate their working lives.
-
-...
-
-[Data](articles/4767baf4.json)
-
-[Extended Data](ext_articles/4767baf4.ext.json)
-
----
-
-### CSE adopts two ambulances for 1990 Suwa Seriya Foundation
-
-*2024-05-14 21:08:00* · [`islandlk`](http://island.lk/cse-adopts-two-ambulances-for-1990-suwa-seriya-foundation/) · `en`
-
-With the intention of supporting Sri Lanka’s healthcare system by ensuring increased access to emergency healthcare services, the CSE adopted two ambulances for the 1990 Suwa Seriya Foundation.
-
-This is in response to the programme, ‘Adopt an Ambulance’ which was initiated by the Board and Management of the 1990 Suwa Seriya Foundation.
-
-The two ambulances were released for service on 12th May 2024 from the Colombo Stock Exchange head office located at the World Trade Centre. The CSE branches are located in Matara, Kandy, Kurunegala, Panadura, Negombo, Jaffna, Anuradhapura, Ratnapura, Batticaloa, and Ambalantota.
-
-Launched in 2016, Suwa Seriya is a national ambulance service providing free pre-hospital emergency care across the island, mobilizing 322 ambulances country wide. Providing emergency pre-hospital care within the ‘golden hour’ saves lives and mitigates potential health complications.
-
-...
-
-[Data](articles/aa54b75a.json)
-
-[Extended Data](ext_articles/aa54b75a.ext.json)
-
----
-
-### Ransomware payments increase 500% in last year: Sophos
-
-*2024-05-14 21:05:00* · [`islandlk`](http://island.lk/ransomware-payments-increase-500-in-last-year-sophos/) · `en`
-
-Sophos, a global leader of innovative security solutions that defeat cyberattacks, today released its annual “State of Ransomware 2024” survey report, which found that the average ransom payment has increased 500% in the last year. Organizations that paid the ransom reported an average payment of $2 million, up from $400,000 in 2023. However, ransoms are just one part of the cost. Excluding ransoms, the survey found the average cost of recovery reached $2.73 million, an increase of almost $1 million since the $1.82 million that Sophos reported in 2023.
-
-Despite the soaring ransoms, this year’s survey indicates a slight reduction in the rate of ransomware attacks with 59% of organizations being hit, compared with 66% in 2023. While the propensity to be hit by ransomware increases with revenue, even the smallest organizations (less than $10 million in revenue) are still regularly targeted, with just under half (47%) hit by ransomware in the last year.
-
-...
-
-[Data](articles/47db846c.json)
-
-[Extended Data](ext_articles/47db846c.ext.json)
-
----
-
-### LAUGFS International wins AIRMAN Service Excellence Award for 2nd consecutive year
-
-*2024-05-14 21:05:00* · [`islandlk`](http://island.lk/laugfs-international-wins-airman-service-excellence-award-for-2nd-consecutive-year/) · `en`
-
-LAUGFS International (Pvt) Ltd, the trusted supplier of Japanese-made AIRMAN power products in Sri Lanka, recently received the prestigious AIRMAN Service Excellence Award for the 2nd consecutive year. Presented by AIRMAN Japan, a globally recognized brand in power generators, the award underscores LAUGFS International’s unwavering commitment to excellence in delivering unparalleled service and technical support to its diverse customers. The AIRMAN Service Excellence Award is presented subsequent to an extensive evaluation based on stringent criteria. These include the availability of state-of-the-art tools in the company’s workshops, the technical capabilities of its service teams, and several other key benchmarks.
-
-LAUGFS Eco Sri unveils a State-of-the-Art eco test facility to combat vehicle emissions in Kirulapone
-
-USAID Island Climate Initiative paves way to tackle plastic waste and pollution in Sri Lanka
-
-...
-
-[Data](articles/5c0f62af.json)
-
-[Extended Data](ext_articles/5c0f62af.ext.json)
-
----
-
-### Election ambiguity and vagueness weighs on stock trading
-
-*2024-05-14 21:02:00* · [`islandlk`](http://island.lk/election-ambiguity-and-vagueness-weighs-on-stock-trading/) · `en`
-
-The trading activities on the Colombo Stock Exchange (CSE) commenced at a slow pace and showed a shaky and volatile movement. Thus the indices declined to 160 points at the end of the trading day. Nevertheless, during mid-day, stock trading gained some momentum as assumptions were circulating about more political stability being created through a quicker parliamentary election preceding the presidential election.
-
-Amid those developments both indices moved downwards. All Share Price Index down by 140 points while S and P SL20 down by 41.6 points. Turnover stood at Rs 3.33 billion with six crossings.
-
-...
-
-[Data](articles/6ad83142.json)
-
-[Extended Data](ext_articles/6ad83142.ext.json)
 
 ---

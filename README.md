@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 11:53:16**
+As of **2024-05-15 12:05:19**
 
 ## Newspaper Stats
 
-*Scraped **24,165** Articles*
+*Scraped **24,168** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
 bbccomsinhala | 245
-dbsjeyarajcom | 248
+dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,061
-adaderanalk | 2,804
-tamilmirrorlk | 2,841
+adaderanalk | 2,805
+tamilmirrorlk | 2,842
 virakesarilk | 3,624
 dailymirrorlk | 3,799
 adaderanasinhalalk | 3,862
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,862
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,161 (100.0%) of 24,165 articles have been extended.
+24,165 (100.0%) of 24,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### CEB facing serious shortage of engineers – officials tell COPE
+
+*2024-05-15 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99228/ceb-facing-serious-shortage-of-engineers-officials-tell-cope-) · `en`
+
+It has been revealed during the meeting of the Committee on Public Enterprises (COPE) that about 130 engineers of the Ceylon Electricity Board (CEB) have left the service as of recently.
+
+Responding to a question put forward by MP Madhura Withanage during the meeting, the Deputy Managing Director of CEB Mr. Palitha Perera said that there are 330 vacancies for engineers in total presently.
+
+“130 have resigned last year and within the first 4 months of this year. We have a shortfall of 330 engineers because we did not recruit for those who have retired,” he said.
+
+Meanwhile, it was revealed in the COPE meeting that the Ceylon Electricity Board has incurred losses of billions of rupees by making emergency power purchases without buying the Ace Power Station when it was proposed.
+
+◼️
+
+[Data](articles/f5a67878.json)
+
+---
+
+### மகளுக்கு சிகிச்சை ; யாசகம்  பெற்றவர் கைது
+
+*2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளுக்கு-சிகிச்சை-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
+
+காத்தான்குடி பகுதியில் இருந்து யாழ்ப்பாணம் வந்து , தனது மகளுக்கு சிறுநீரக சிகிச்சைக்கு பணம் வேணும் என பொய் கூறி  யாசகம் பெற்ற தந்தையொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் , கல்வியங்காடு சந்தை பகுதியில் 4 வயது சிறுமியை சக்கர நாற்காலியில் இருத்தி , சிறுமியின் இரு சிறுநீரகங்கள் பழுதடைந்துள்ளதாகவும் , அதற்கான சிகிச்சைக்கு பண உதவி செய்யுமாறு கோரி ஒருவர் யாசகம் பெற்றுள்ளார்.
+
+யாழில் நிலவும் கடுமையான வெப்பமான காலநிலையில் , வெயிலுக்குள் சிறுமியை சக்கர நாற்காலியில் இருத்தி வைத்து ஒருவர் யாசகம் பெறுவதாக கோப்பாய் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் , சம்பவ இடத்திற்கு சென்ற பொலிஸார் சிறுமியை மீட்டு யாழ்.போதனா வைத்தியசாலையில் அனுமதித்ததுடன் , யாசகம் பெற்ற நபரையும் கைது செய்துள்ளனர்.
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிறுமிக்கு மேற்கொள்ளப்பட்ட வைத்திய பரிசோதனையில் சிறுமிக்கு எவ்விதமான உடல்நல குறைப்பாடுகளும் இல்லை எனவும் சிறுமி ஆரோக்கியமாக்கவுள்ளார் எனவும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/69354300.json)
+
+---
 
 ### Two female students go missing after O/L in Nawalapitiya
 
@@ -49,6 +85,8 @@ Photos of the missing girls have been distributed to all police stations, and a 
 ◼️
 
 [Data](articles/02260af5.json)
+
+[Extended Data](ext_articles/02260af5.ext.json)
 
 ---
 
@@ -216,23 +254,31 @@ To two young women who stayed in the class for a while, would the suspect bring 
 
 ---
 
-### மதுகொடுத்து வன்புணர்ந்த   வடிவமைப்பாளர்
+### Bachelor
 
 *2024-05-15 10:45:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுகொடுத்து-வன்புணர்ந்த-வடிவமைப்பாளர்/175-337345) · `ta`
 
-19 வயது யுவதியை பாலியல் பலாத்காரம் செய்ததாக கூறப்படும் ஆடை வடிவமைப்பாளர் ஒருவரை மாவத்தகம பொலிஸ் அதிகாரிகள் குழு கைது செய்துள்ளது. மாவத்தகம பகுதியில் உள்ள கட்டிடம் ஒன்றிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+In Mawathagama, a 40-year-old father of two was arrested for allegedly raping a 19-year-old relative during a fashion design workshop. After consuming alcohol, the suspect brought drinks to two other women, leading to suspicions. A young man found them, and upon intervention, the suspect attempted to sexually assault the 19-year-old again. Witnesses heard noises and arrived to find the victim partially undressed, prompting immediate rescue efforts.
 
-கைது செய்யப்பட்ட சந்தேக நபர் மாவத்தகம பிரதேசத்தில் வசிக்கும் 40 வயதுடையவர் என்றும் அவர், இரண்டு பிள்ளைகளின் தந்தை ஆவார்.
+🟩
 
-பாலியல் பலாத்காரம் செய்யப்பட்டதாகக் கூறப்படும் 19 வயதுடைய சிறுமி சந்தேக நபரின் உறவினர் என மாவத்தகம பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A group of police officers arrested for allegedly raping a 19 -year -old girl. The incident took place in a building in the Mawathagama area.
 
-இந்த இளம் பெண் தனது உறவினரிடம் ஆடை வடிவமைப்பு (பேஷன் டிசைனிங்) பற்றி அறிந்து கொள்வதற்காக இந்த பயிற்சி வகுப்பில் கலந்து கொள்வதாக பொலிஸார் கூறுகின்றனர்.
+The arrested suspect is a 40 -year -old resident of the Mawathagama area and is the father of two children.
 
-பயிற்சி வகுப்பு முடிந்ததும், பயிற்சி வகுப்பில் கலந்து கொண்ட மற்றொரு பெண்ணுடன் வகுப்பை விட்டு வெளியேறச் சென்றபோது, ​​மழை பெய்யத் தொடங்கியுள்ளது.
+A 19 -year -old girl allegedly raped was a relative of a suspect, a police officer said.
+
+Police say that the young woman is attending the workshop to learn about her fashion design.
+
+When the training course is over, it has begun to rain when he left the class with another woman who attended the workshop.
+
+To two young women who stayed in the class for a while, would the suspect bring something to drink?Have asked. The two women were also impressed.The person has already given the wine that has already been poured into the empty.Police investigations have revealed that the two women had been drinking alcohol without themselves.
 
 ...
 
 [Data](articles/f628acf4.json)
+
+[Extended Data](ext_articles/f628acf4.ext.json)
 
 ---
 
@@ -633,6 +679,8 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 ...
 
 [Data](articles/dc7b4e98.json)
+
+[Extended Data](ext_articles/dc7b4e98.ext.json)
 
 ---
 
@@ -1656,6 +1704,20 @@ SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was
 
 ---
 
+### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
+
+*2024-05-15 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
+
+This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
+
+...
+
+[Data](articles/3e9bb270.json)
+
+[Extended Data](ext_articles/3e9bb270.ext.json)
+
+---
+
 ### Model Education Administration Reorganization
 
 *2024-05-15 01:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-நிர்வாக-மறுசீரமைப்பு-சுற்றுநிருபம்-விரைவில்/175-337319) · `ta`
@@ -1721,6 +1783,24 @@ Donald Louzy has appreciated the government's program on Sri Lanka's economic re
 [Data](articles/11f43317.json)
 
 [Extended Data](ext_articles/11f43317.ext.json)
+
+---
+
+### “We are hypocritical when we say what happened in Sri Lanka is an internal matter for Sri Lanka, but what happens in Palestine is not an internal matter for Israel. That is double speak. ! If you are true to what you are saying Sign the ICC Rome statute “- MA  Sumanthiran MP
+
+*2024-05-15 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84034) · `en`
+
+(Text of speech made in Parliament  by ITAK  Jaffna District Parliamentarian  M.A.Sumanthiran  during Adjournment motion debate on 14 May 2024)
+
+Thank you deputy speaker for the time allocated for me to speak on this very important, adjournment motion that has been moved by Honorable Rauff Hakeem.
+
+I wish to approve of and support the sentiments expressed by the proposer and seconder of this motion. The situation that prevails in Palestine today is horrible, a very serious issue and cannot be ignored by any civilized country or people.
+
+But while I speak on that issue, I will also later in my speech refer to the double speak and hypocrisy of the members of this House as they debate this issue.
+
+...
+
+[Data](articles/e4730e0b.json)
 
 ---
 
@@ -2111,83 +2191,5 @@ He said right to commemorate war dead is a right accepted internationally and ad
 [Data](articles/2d86314a.json)
 
 [Extended Data](ext_articles/2d86314a.ext.json)
-
----
-
-### Several houses flooded in rainwater
-
-*2024-05-14 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196630) · `si`
-
-Heavy rains flooded several houses in Kerawalapitiya, Wattala, due to blocked drainage systems from unauthorized construction.
-
-🟩
-
-It is reported that several houses have been flooded in the Kerawalapitiya area in Wattala Divisional Secretariat, the heavy rains that were passed this afternoon.
-
-It is also reported that the rainy drainage systems that drain is blocked due to unauthorized construction.
-
-◼️
-
-[Data](articles/741b1af6.json)
-
-[Extended Data](ext_articles/741b1af6.ext.json)
-
----
-
-### Sumanthiran MP is responsible for the issue of Kalmunai Northern Provincial Secretariat - Haris MP
-
-*2024-05-14 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183561) · `ta`
-
-Sumanthiran MP is linked to the Kalmunai North issue, blamed by the opposition for a Supreme Court case. Haris MP, in a parliamentary debate on the Palestinian state, defended Sumanthiran, criticizing the opposition for politicizing the issue. Gajendran MP from Jaffna, speaking at the Ampara District Government Agent's session, rejected the criticism, highlighting the official's service to all communities. Sumanthiran urged the Tamil community in Kalmunai to support him, asking not to turn the issue into a racial one.
-
-🟩
-
-Sumanthiran MP is responsible for the issue of Kalmunai North Deputy Divisional Secretariat. Opposition MPHMM said that the issue was caused by the case he filed in the Supreme Court.. Haris said.
-
-He said this while addressing the debate on the proposal on the Palestinian state on Tuesday (14) in Parliament.
-
-Speaking at the last parliamentary session, Jaffna MP Gajendran, speaking at the last parliamentary session of the Ampara District Government Agent.. I reject it.
-
-Ampara District Government Agent of Tamil, Muslim and Sinhalese. He offers the best service there. He is a state -official. The law can only act. Gajendran MP from Jaffna knows nothing about the Ampara district or Kalmunai.
-
-...
-
-[Data](articles/1731ea49.json)
-
-[Extended Data](ext_articles/1731ea49.ext.json)
-
----
-
-### Top diplomat reveals the biggest support US can extend to Sri Lanka at this moment
-
-*2024-05-14 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99220/top-diplomat-reveals-the-biggest-support-us-can-extend-to-sri-lanka-atthismoment) · `en`
-
-U.S. Assistant Secretary of State for South and Central Asian Affairs, Donald Lu says it is important that Sri Lanka must have a functional truth and reconciliation program in place. He also mentioned that it is expected from the leaders emerging from the upcoming elections to make it a reality.
-
-Joining Ada Derana’s current affairs program ‘At HydePark’, the U.S. Assistant Secretary of State commending on the progress of the current debt restructuring process said, that the United States is ready to be a developing partner and willing to provide financial advices and credit for Sri Lanka’s development process.
-
-Furthermore, Mr. Donald Lu stated that the US encourages Sri Lanka to continue in strengthening bilateral relationships, and that Sri Lanka must provide equal opportunity for external parties to invest in the country in order to maintain healthy competition and fully pass on the benefit to its citizens.
-
-...
-
-[Data](articles/97164ce2.json)
-
-[Extended Data](ext_articles/97164ce2.ext.json)
-
----
-
-### A Call To Comrade Anura Kumara Dissanayake: Time To Reflect & Adapt
-
-*2024-05-14 21:44:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-call-to-comrade-anura-kumara-dissanayake-time-to-reflect-adapt/) · `en`
-
-I write these words with a sense of urgency and anticipation, believing that the time has come to reflect and adapt. The seeds you sow knowingly or unknowingly have reaped a bitter harvest of division and discontent among the people of our Nation. Your brand of politics has had a lasting impact on our society, characterized by its bitterness and divisiveness. From the turbulent events of 71 to the unrest of 88 and 89, the scars of past conflicts continue to haunt us. The stagnant narrative of 76 years of curse and rejection of 225 has perpetuated, casting a shadow over our collective aspirations.
-
-Your ability to mobilize support and empower people to your cause cannot be denied. The meetings last May showed the strength of your organization. But this energy, though powerful, is not without its dangers. It serves as a warning not only to you but to the entire nation.
-
-...
-
-[Data](articles/07df902a.json)
-
-[Extended Data](ext_articles/07df902a.ext.json)
 
 ---

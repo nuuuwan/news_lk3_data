@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 13:03:47**
+As of **2024-05-15 13:18:25**
 
 ## Newspaper Stats
 
-*Scraped **24,186** Articles*
+*Scraped **24,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 245
 dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
-economynextcom | 1,377
+economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,061
-adaderanalk | 2,806
+adalk | 2,062
+adaderanalk | 2,807
 tamilmirrorlk | 2,847
 virakesarilk | 3,630
 dailymirrorlk | 3,804
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,183 (100.0%) of 24,186 articles have been extended.
+24,186 (100.0%) of 24,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Govt remains steadfast in commitment to combat crime and ensure justice – President
+
+*2024-05-15 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99230/govt-remains-steadfast-in-commitment-to-combat-crime-and-ensure-justice-president) · `en`
+
+President Ranil Wickremesinghe has highlighted the government’s efforts to enact numerous new laws aimed at apprehending criminals over the past two years.
+
+He made this observation during the opening ceremony of the new Court Complex in Theldeniya today (15).
+
+Despite facing accusations of shielding wrongdoers, the government remains steadfast in its commitment to combatting crime and ensuring justice, the President further said.
+
+◼️
+
+[Data](articles/08b16689.json)
+
+---
+
+### Complaints about 280 Sri Lankans in Russia-Ukraine war so far, 16 confirmed dead
+
+*2024-05-15 12:45:00* · [`economynextcom`](https://economynext.com/complaints-about-280-sri-lankans-in-russia-ukraine-war-so-far-16-confirmed-dead-163121/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s defence ministry has so far received 280 complaints from family members of citizens who have been recruited to fight in the Russia-Ukraine warfront by mercenary companies, State Minister of Defense, Premitha Bandara Tennakoon said.
+
+So far 16 persons have been confirmed dead, he told reporters in Colombo.
+
+Sri Lanka’s Defence Ministry set up a hotline for family to members to lodge complaints after a few returnees exposed the deadly conditions facing mostly ex-soldiers who left to fight mainly for Russia.
+
+Sri Lanka authorities have confirmed that 16 persons have died, Minister Tennakoon said.
+
+Local media reports quoting returnees and social media messages from Sri Lankans fighting in the Russia-Ukraine front said many more were dead from Ukrainian drone attacks.
+
+On Tuesday a group of family members came to the Russian embassy in Colombo.
+
+...
+
+[Data](articles/e3e5846c.json)
+
+---
 
 ### Lagoon fresh...
 
@@ -42,37 +80,51 @@ Large lagoon prawns and crabs being sold near the Bolgoda Lake adjoining the Kos
 
 [Data](articles/7072bc8a.json)
 
+[Extended Data](ext_articles/7072bc8a.ext.json)
+
 ---
 
-### ஜனாதிபதி செயலகத்திற்கு அருகில் பதற்றம்
+### Tension near the Presidential Secretariat
 
 *2024-05-15 12:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-அருகில்-பதற்றம்/175-337356) · `ta`
 
-இலஞ்சம், ஊழல் மற்றும் வீண்விரயத்திற்கு எதிரான குடிமக்கள் சக்தி அமைப்பினால் இன்று காலை முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டம் காரணமாக ஜனாதிபதி செயலகத்திற்கு அருகில் பதற்றமான சூழல் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Citizens Power Organization protested near the Presidential Secretariat against corruption and wasteful practices, specifically targeting the reconstruction of vehicle permits for MPs. They handed a petition to President's Additional Secretary Kapila Munasinghe, demanding government action.
 
-பாராளுமன்ற உறுப்பினர்களுக்கான வாகன அனுமதிப்பத்திரத்தை மீள வழங்குவதற்கு எதிராக அரசாங்கம் நடவடிக்கை எடுக்க வேண்டுமென ஆர்ப்பாட்டக்காரர்கள் கோரிக்கை விடுத்துள்ளனர்.
+🟩
 
-பின்னர், ஆர்ப்பாட்டக்காரர்கள் ஜனாதிபதியின் மேலதிக செயலாளர் கபில முனசிங்கவிடம் மனு ஒன்றைக் கையளித்தமை குறிப்பிடத்தக்கது.
+It is reported that a tense situation near the Presidential Secretariat has caused a demonstration by the Citizens Power Organization against bribery, corruption and waste.
+
+Demonstrators have called for the government to take action against the reconstruction of vehicle permits for MPs.
+
+Later, it was noteworthy that the demonstrators handed over a petition to the President's Additional Secretary Kapila Munasinghe.
 
 ◼️
 
 [Data](articles/fd5b2d32.json)
 
+[Extended Data](ext_articles/fd5b2d32.ext.json)
+
 ---
 
-### அஸ்ட்ராசெனெக்கா தடுப்பூசி குறித்து விசேட அறிவித்தல்
+### Special Notification on Astraceneka Vaccine
 
 *2024-05-15 12:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்ட்ராசெனெக்கா-தடுப்பூசி-குறித்து-விசேட-அறிவித்தல்/175-337354) · `ta`
 
-இரத்த உறைவு குறித்த கவலைகள் காரணமாக அஸ்ட்ராசெனெக்கா தடுப்பூசிகள் பெருமளவில் திரும்பப் பெறப்பட்டதை அடுத்து, அஸ்ட்ராசெனெக்கா தடுப்பூசியைப் பெற்ற நபர்கள் அதன் பாதுகாப்பு குறித்து தேவையற்ற அச்சம் கொள்ளத் தேவையில்லை என்று இலங்கை சுகாதார நிபுணர்கள் வலியுறுத்தியுள்ளனர்.
+Health experts reassure Sri Lanka about Astraceneka vaccine safety, noting rare side effects don't negate its protective benefits.
 
-ஊடகங்களுக்கு உரையாற்றிய தேசிய மருத்துவ மருந்துகள் ஒழுங்குமுறை ஆணையத் தலைவர் வைத்தியர் ஆனந்த விஜேவிக்ரம, தடுப்பூசியினால் ஏற்படும் சிக்கல்கள் மிகவும் அரிதானவை என்பதை AstraZeneca உற்பத்தியாளர் ஒப்புக்கொண்டதைக் சந்தர்ப்பத்தை குறிப்பிட்டார்.
+🟩
 
-இந்த அரிய சிக்கல்கள் எதிர்காலத்தில் ஏற்படும் பாதகமான விளைவுகளைக் குறிக்கவில்லை என்பதை அவர் அடிக்கோடிட்டுக் காட்டினார், இது தடுப்பூசியின் ஒட்டுமொத்த பாதுகாப்பை உறுதி செய்கிறது என அவர் கூறினார்.
+Sri Lankan health experts have urged that people who have received the Astraceneka vaccine do not need unnecessary fear of its safety after the astraceneka vaccines have been withdrawn due to the concerns of thrombosis.
+
+Speaking to the media, Dr. Ananda Wijewickrama, Chairman of the National Medical Drugs Regulatory Commission, stated that the Astrazeneca manufacturer agreed that the problems caused by the vaccine were very rare.
+
+He underlined that these rare problems did not indicate the adverse effects of the future, which ensures the overall protection of the vaccine.
 
 ◼️
 
 [Data](articles/4a1df7cc.json)
+
+[Extended Data](ext_articles/4a1df7cc.ext.json)
 
 ---
 
@@ -123,6 +175,26 @@ Later, the protestors handed over a memorandum to the President's Additional Sec
 [Data](articles/d4b7383a.json)
 
 [Extended Data](ext_articles/d4b7383a.ext.json)
+
+---
+
+### Sri Lanka telecom law change hits media freedom: opposition
+
+*2024-05-15 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-law-change-hits-media-freedom-opposition-163118/) · `en`
+
+ECONOMYNEXT – A proposed change to Sri Lanka’s Telecom Regulatory law will give powers to the commission to cancel license of electronic media, undermining media freedom, the opposition has warned.
+
+“These changes to the Act contain several proposals that are detrimental to media freedom. One is the that you have to pay a fine to get your license back. Also the commission can interpret and decide what is not in the public’s interest,” Opposition Leader Sajith Premadasa said in parliament.
+
+Premadasa said the opposition was against this, and would take legal action to challenge it.
+
+“This will create a dangerous situation, where power will be concentrated among a few people who will be able to decide on the granting of the media license,” SJB MP S M Marikkar said.
+
+“I know sometimes there is extortion to get the media license. When you grant greater power, there would be an increase in the opportunity for extortion.”
+
+...
+
+[Data](articles/4f250dcc.json)
 
 ---
 
@@ -368,6 +440,24 @@ They were organized in protest of the decision to be restored to the MPs.
 
 ---
 
+### Sri Lanka in talks with India to set up arms manufacturing unit: State Defence Minister
+
+*2024-05-15 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-india-to-set-up-arms-manufacturing-unit-state-defence-minister-163113/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in discussion with Indian arm producers to establish an arms manufacturing unit in the island nation, State Defence Minister Premitha Bandara Tennakoon said.
+
+The State Minister’s comments come a month after Indian arm manufacturers demonstrated Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar while the island nation has been expecting for future joint collaboration in weapon production and military services.
+
+“We are in discussion with India to set up a small arms manufacturing unit,” Tennakoon told reporters at a media briefing in Colombo on Wednesday (15).
+
+“What you have to understand is the Indian defence manufacturing arm has boomed during the last two decades. It is a model that we have to look into. We can take a lot from Indian model and nothing wrong in learning from them. I think we also should get into the manufacturing,” he said.
+
+...
+
+[Data](articles/fe0b73af.json)
+
+---
+
 ### I will put an end to alcohol and drugs for children's generation - Sajith
 
 *2024-05-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183579) · `ta`
@@ -513,6 +603,24 @@ In 2016, a massive wildfire spread in Port McMure and forced 90,000 residents to
 [Data](articles/dda531df.json)
 
 [Extended Data](ext_articles/dda531df.ext.json)
+
+---
+
+### කැලේ පැලට අලුතින් එකතු උන තුන් නිවුන් පැටවුන්ගේ දුක හිතෙන කතාව
+
+*2024-05-15 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැලේ-පැලට-අලුතින්-එකතු-උන-තුන්-නිවුන්-පැටවුන්ගේ-දුක-හිතෙන-කතාව/11-409642) · `si`
+
+හබරණ පුවක්පිටිය ප්‍ර දේශයේ මහා වන මැද පුංචි කටු මැටි ගැසූ පැලක දිවා කාලයේ ජිවත් වන රාත්‍රිය ගසක් උඩ පැලක ජිවත්වන  තරුණ මවක් පසුගිය අම්මාවරුන්ගේ දිනයට පැය කිහිපයක් තියෙද්දී දඹුල්ල රෝහලේදී තුන් නිවුන් පිරිමි දරු උපතක් සිදුකලාය.
+
+මෙම මවට තවත් අවුරුදු 03 ක පුංචි දියණියක්ද  සිටි ,මිට පෙර නිවුන් පුතුන් දෙන්නෙක් අහිමි වූ බවද කියයි .
+
+මෙසේ තුන් නිවුන් දරු උපත සිදුකර ඇත්තේ හබරණ පුවක්පිටිය පදිංචි 25 හැවිරිදි ගිහානි සුපෙෂලා කුමාරි නමැති මවකි ,මේ දරුවන්ගේ පියා සන්ජිත් අසෝක දයානන්ද මහතා කැලේ ගසක් උඩ තැනු අලි පැලකින් බිමට වැටි අබාධිතව පසුවෙන බව එම මව පවසන්නීය .
+
+දරුවන්ගේ මව හා පියා  දඹුල්ල රෝහලෙන් දරුවන් තුන් දෙනා අරගෙන සුපුරුදු වන මැද පැලට 14 පස්වරුවේ මොර සුරන වරුසාවේ රැගෙන ආහ .වරුසාවට පුංචි පැල තෙමි හිරිකඩ ගෙතුලට එද්දී පුංචි පැටවූ මොරදී හඩද්දී   පියාත් මවත් සංවේදී වන අයුරු එහි ගිය අපට දැකගැනීමට හැකිවිය .
+
+...
+
+[Data](articles/288059ef.json)
 
 ---
 
@@ -920,6 +1028,28 @@ Colombo, May 15 (Daily Mirror) - Former State Minister Diana Gamage today denied
 
 ---
 
+### Sri Lanka rupee opens weaker at 301.50/302.50 to US dollar
+
+*2024-05-15 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-301-50-302-50-to-us-dollar-163100/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 301.50/302.50 to the US dollar on Wednesday, from 301/302.00 the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted down at 9.90/10.00 percent from 9.95/10.10 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.25/27 percent from 10.25/35 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 10.50/60 percent 10.55/65 percent.
+
+A bond maturing on 15.05.2030 was quoted down at 11.45/50 percent from 11.40/55 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was down 0.64 percent at 12,438, and the S&P SL20 was up 1.08 percent at 3,710. (Colombo/May15/2024)
+
+◼️
+
+[Data](articles/d7f0a647.json)
+
+---
+
 ### Diana handed over the vehicles
 
 *2024-05-15 09:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-ஒப்படைத்தார்-டயானா/175-337335) · `ta`
@@ -1110,6 +1240,30 @@ Over the weekend in his final interview as Prime Minister with local media, he t
 
 ---
 
+### Sri Lanka’s HNB net up 2-pct in March 2024 quarter
+
+*2024-05-15 09:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-net-up-2-pct-in-march-2024-quarter-163087/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit grew 2 percent to 7.2 billion rupees in March 2024, helped by lower provisioning and its insurance unit, interim accounts show.
+
+Net interest income at standalone bank level fell 30 percent to 21.9 billion rupees in the quarter the March 31, while interest income fell 20 percent to 60.2 billion rupees and interest expenses fell at a slower 13 percent to 38.2 billion rupees.
+
+Hatton National Bank group net interest income was 25 billion rupees.
+
+Customer loans were down 3 percent to 930 billion rupees. Debt and other instruments were up 19 percent to 549 billion rupees.
+
+Impairment charges were 1.3 billion rupees, down from 11.3 billion last year.
+
+Net fee and commission income was down 3 percent to 4.10 billion rupees.
+
+Losses from trading was 4.1 billion rupees down from 7.2 billion rupees last year.
+
+...
+
+[Data](articles/f7310231.json)
+
+---
+
 ### Special Committee to expedite land supplying to military - President's action
 
 *2024-05-15 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183569) · `ta`
@@ -1133,6 +1287,28 @@ It is the responsibility of the concerned committee to consider the provision of
 [Data](articles/7b1f4113.json)
 
 [Extended Data](ext_articles/7b1f4113.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank net up 152-pct in March quarter
+
+*2024-05-15 08:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-152-pct-in-march-quarter-163082/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 152 percent from a year ago to 10.6 billion rupees in the March 2024 quarter amid higher net interest income and lower bad loan provisioning, interim accounts show.
+
+The bank reported earnings of 7.94 rupees per share for the quarter.
+
+Commercial Bank group net interest income went up 45 percent to 27.6 billion rupees even as interest income fell 7.3 percent to 70.3 billion rupees and interest expense fell at a faster 25 percent to 42.6 billion rupees.
+
+Net fee and commission income grew 4 percent to 5.6 billion rupees.
+
+Losses from trading was 1.9 billion rupees, down from 8.9 billion a year earlier.
+
+Loans and advances to customers were up 1.65 percent to 1,224 billion rupees, amid a contraction in foreign currency loans. The rupee loan growth was 120 billion rupees, the bank said.
+
+...
+
+[Data](articles/d55733d0.json)
 
 ---
 
@@ -2031,179 +2207,5 @@ The project is the GCE.. High quality communications technology will be a boon f
 [Data](articles/8a00bbe2.json)
 
 [Extended Data](ext_articles/8a00bbe2.ext.json)
-
----
-
-### The government should use the pressure on Israel - Mujibur Rahman
-
-*2024-05-15 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183563) · `ta`
-
-Mujibur Rahman urges the government to leverage its influence over Israel, citing historical support for Palestine and the potential to halt Sri Lankan labor exports to Israel as forms of pressure. He criticizes the dual approach of fundraising for Palestine while facilitating Israeli entry into the country, advocating for a unified stance in support of Palestine.
-
-🟩
-
-Opposition member Mujibur Rahman said the government, including the president, said that instead of collecting money for Palestine, the Israeli government should put pressure on the Israeli government.. The President, who sends our navy to suppress the Hawdi militants, said that the Indian fishermen would not take any action to prevent the fishermen coming into our waters.
-
-He said this while addressing the adjournment motion on the current state of Palestine held in Parliament on Tuesday (14).
-
-All the heads of state who ruled Sri Lanka have supported Palestine since the early days. Despite our political disagreements with Mahinda Rajapaksa, he was firm on the Palestinian issue.. Similarly, Ranasinghe Premadasa took steps to evict the Israeli office in our country.
-
-The President is starting a fund for Palestinian people and raising money. But when he rallies money to Palestine, there may not be children in Palestine, where there are no people.. There are things that can be pressed.
-
-...
-
-[Data](articles/ec1e6fdd.json)
-
-[Extended Data](ext_articles/ec1e6fdd.ext.json)
-
----
-
-### Rajasthan confirmed the Playing opportunity as Lucknov failed to Telhi
-
-*2024-05-15 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183562) · `ta`
-
-Delhi Capitals won by 19 runs in IPL 2023, securing their playoff spot. Abhishek Patel and Shai Hope contributed significantly with their batting. Despite a strong start, Lucknow Super Giants fell short due to poor batting performance, especially from Quinton de Kock and KL Rahul.
-
-🟩
-
-Tellhi Capitels won by 19 runs in the 64th match of the 17th Indian Premier League chapter held at Telhi Arun Jaitley Stadium on Tuesday night.
-
-Following the end of the match, Rajasthan Royals, with 16 points, confirmed the Play Ov chance as the second team.
-
-Already, Kolkata Knight Riders has been confirming the opportunity to be the first team.
-
-Through the victory in his last match, Telhi Capitols scored 14 points, but it is doubtful that the net speed is not enough, but it is doubtful.
-
-Sunrisers Hyderabad will only get the chance to Play the Playing of the Both of his remaining matches. But Sunrisers cannot expect Hyderabad to adapt to the defeats.
-
-At the same time, Lucknov Super Giants, who has failed, is still a match, but it is not expected to have a playful opportunity.
-
-In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 runs for the loss of 4 wickets in 20 overs.
-
-...
-
-[Data](articles/e21b9a28.json)
-
-[Extended Data](ext_articles/e21b9a28.ext.json)
-
----
-
-### VRS scheme for NSB subsidiary employees gets Cabinet nod
-
-*2024-05-15 02:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VRS-scheme-for-NSB-subsidiary-employees-gets-Cabinet-nod/108-282610) · `en`
-
-The Cabinet green lighted the proposal to introduce a voluntary retirement scheme (VRS) for employees of Sri Lanka Savings Bank (SLSBL), a fully-owned subsidiary of National Savings Bank.
-
-President Ranil Wickremesinghe in his capacity as the Minister of Finance, Economic Stabilisation and National Policies sought the approval of the Cabinet of Ministers on Monday to implement the voluntary retirement scheme.
-
-SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was established in July 2006 under the Banking Act and incorporated under the provision of the Companies Act.  It commenced business on 10th of March 2008 as a state-owned Licensed Specialised Bank. The bank has acquired SLSBL as a fully-owned subsidiary of NSB by paying Rs. 3,111 million on 11th of October 2019 based on the budget proposal of 2016.
-
-...
-
-[Data](articles/1b5c3513.json)
-
-[Extended Data](ext_articles/1b5c3513.ext.json)
-
----
-
-### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
-
-*2024-05-15 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
-
-This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
-
-...
-
-[Data](articles/3e9bb270.json)
-
-[Extended Data](ext_articles/3e9bb270.ext.json)
-
----
-
-### Model Education Administration Reorganization
-
-*2024-05-15 01:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-நிர்வாக-மறுசீரமைப்பு-சுற்றுநிருபம்-விரைவில்/175-337319) · `ta`
-
-In a major educational reform, Sri Lanka plans to reorganize education administration by creating 1220 school clusters and 350 monitoring groups nationwide. This initiative, announced by Education Minister Susil Premajayantha, aims to streamline educational management and enhance student enrollment in grades 1 to 11.
-
-🟩
-
-As an early stage of educational administration reform, 1220 clusters schools will be created nationwide and 350 school groups will be formed to monitor them.. Minister of Education Susil Premajayantha said that the Cabinet paper will be issued in the coming days.
-
-Education Minister Susul Premajayantha said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-We have reached the initial stage of educational management processing. The Cabinet paper will be submitted and its circulation will be issued in the coming days. Accordingly, 1220 clusters will be created across the country and 350 school councils will be formed to oversee them.
-
-The existing 100 educational zones will be gradually increased. Based on school groups, schools with classes from 01 to 11 have said that the authorities have the power to enroll students to higher levels.. (A)
-
-◼️
-
-[Data](articles/c8e00c51.json)
-
-[Extended Data](ext_articles/c8e00c51.ext.json)
-
----
-
-### The new agricultural trade sector is essential
-
-*2024-05-15 00:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-விவசாய-வர்த்தகத்துறை-அவசியம்/175-337318) · `ta`
-
-President Wickremesinghe aims to revitalize Sri Lanka's economy by shifting from traditional plantations to a modern agricultural trade sector, emphasizing diversification, modernization, and increased production of crops like tea, rubber, cocoa, and spices. This initiative targets enhancing market opportunities, incorporating small estate owners, and utilizing existing and new lands efficiently to combat rural poverty and boost exports.
-
-🟩
-
-President Ranil Wickremesinghe said, "We are working to create a new agricultural trade sector in the country and bring the country economically to replace the traditional plantation industry."
-
-The President said this while addressing the opening of the new Education and Administrative Building of the Athurukiriya National Estate Management Institute yesterday morning.. When he further addresses,
-
-It is necessary to strengthen agriculture at present. So we need to convert gardens into agricultural trade and strengthen production. To promote tea and rubber. We need to have the appropriate market opportunities. Today our tea industry is diverse. Many companies make it positive.
-
-To strengthen the country's traditional crop production. Our country should re -plant cocoa, karva and other spices. To produce new crops. For that, the industry needs to introduce a new technical management. Second, small estate owners should be incorporated into this modernization program to increase production.
-
-...
-
-[Data](articles/fedec7f9.json)
-
-[Extended Data](ext_articles/fedec7f9.ext.json)
-
----
-
-### Meeting with US official president
-
-*2024-05-15 00:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-337317) · `ta`
-
-Donald Lu, U.S. Assistant Secretary for South and Central Asia, praised Sri Lanka's economic recovery efforts during his meeting with President Ranil Wickremesinghe, highlighting the leader's commitment to new economic reforms.
-
-🟩
-
-Donald Lu, Assistant Secretary of State for South and Central Asian Affairs, who is visiting Sri Lanka, has met President Ranil Wickremesinghe.
-
-Donald Louzy has appreciated the government's program on Sri Lanka's economic recovery and the dedication of President Ranil Wickremesinghe in Sri Lanka's new economic reforms and the dedication of President Ranil Wickremesinghe.. (A)
-
-◼️
-
-[Data](articles/11f43317.json)
-
-[Extended Data](ext_articles/11f43317.ext.json)
-
----
-
-### “We are hypocritical when we say what happened in Sri Lanka is an internal matter for Sri Lanka, but what happens in Palestine is not an internal matter for Israel. That is double speak. ! If you are true to what you are saying Sign the ICC Rome statute “- MA  Sumanthiran MP
-
-*2024-05-15 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84034) · `en`
-
-(Text of speech made in Parliament  by ITAK  Jaffna District Parliamentarian  M.A.Sumanthiran  during Adjournment motion debate on 14 May 2024)
-
-Thank you deputy speaker for the time allocated for me to speak on this very important, adjournment motion that has been moved by Honorable Rauff Hakeem.
-
-I wish to approve of and support the sentiments expressed by the proposer and seconder of this motion. The situation that prevails in Palestine today is horrible, a very serious issue and cannot be ignored by any civilized country or people.
-
-But while I speak on that issue, I will also later in my speech refer to the double speak and hypocrisy of the members of this House as they debate this issue.
-
-...
-
-[Data](articles/e4730e0b.json)
-
-[Extended Data](ext_articles/e4730e0b.ext.json)
 
 ---

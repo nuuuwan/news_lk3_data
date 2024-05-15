@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 14:33:46**
+As of **2024-05-15 14:53:02**
 
 ## Newspaper Stats
 
-*Scraped **24,211** Articles*
+*Scraped **24,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
 adalk | 2,065
-adaderanalk | 2,809
+adaderanalk | 2,810
 tamilmirrorlk | 2,847
 virakesarilk | 3,635
 dailymirrorlk | 3,807
-adaderanasinhalalk | 3,866
+adaderanasinhalalk | 3,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,210 (100.0%) of 24,211 articles have been extended.
+24,211 (100.0%) of 24,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Two schoolgirls reported missing after O/L exam in Ambagamuwa
+
+*2024-05-15 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99232/two-schoolgirls-reported-missing-after-ol-exam-in-ambagamuwa) · `en`
+
+The guardians of two schoolgirls, who had failed to return home from the G.C.E. Ordinary Level Examination center at a school in Ambagamuwa, have filed a complaint with Ginigathhena Police.
+
+The students in question were scheduled to sit for the exam held yesterday (14) at the Ambagamuwa National School’s examination center last morning. According to the complaint, one of the students had arrived at the examination center accompanied by her parents.
+
+The two missing students, who are residents of Nagastenne in Nawalapitiya and Agraoya in Ginigathhena, are reportedly close friends.
+
+Eyewitnesses had seen the two students conversing near the examination center before the exam had commence. Later, they were spotted in the Nawalapitiya town wearing their school uniforms.
+
+Authorities have disseminated information regarding the missing students to all police stations, and Ginigathhena Police have initiated an extensive investigation into this matter.
+
+◼️
+
+[Data](articles/20f8c4c3.json)
+
+---
+
+### වන සංරක්ෂණ අධ්‍යක්ෂ ජනරාල්ට සහ පොලිස්පතිට අධිකරණයෙන් නියෝගයක්
+
+*2024-05-15 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196648) · `si`
+
+බෝගහපැලැස්ස රක්ෂිත වනාන්තර කලාපයේ සිදුකෙරෙන නීතිවිරෝධී වනාන්තර විනාශය වැළැක්වීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය විසින් වන සංරක්ෂණ අධ්‍යක්ෂ ජනරාල්වරයාට සහ පොලිස්පතිවරයාට නියෝගයක් නිකුත් කළේය.
+
+පරිසර යුක්ති කේන්ද්‍රය විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලූ අවස්ථාවේදී අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ රවීන්ද්‍රනාත් දාබරේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් බෝගහපැලැස්ස රක්ෂිත වනාන්තර කලාපය සොරගුණේ කුඩා කතරගම දේවාලයට අයත් බව සඳහන් කරමින් පිරිසක් විසින් වනාන්තර එළිපෙහෙළි කිරීම සහ ඉඩම් පැවරීම් සිදුකරන බවයි.
+
+මේ තුළින් දැඩි පාරිසරික හානියක් සිදුවන බවත් එම කටයුතු වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙසත් නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+ඉන් අනතුරුව මෙම නියෝගය නිකුත් කළ අධිකරණය අනතුරුව පෙත්සම ජූලි මස 24 වනදා කැඳවීමට නියෝග කළේය.
+
+◼️
+
+[Data](articles/87e3b16a.json)
+
+---
 
 ### Fly from jail fly
 
@@ -89,6 +129,8 @@ The order has been issued by Maligakanda Magistrate Lochani Abeywickrama after c
 ...
 
 [Data](articles/8eea8f88.json)
+
+[Extended Data](ext_articles/8eea8f88.ext.json)
 
 ---
 
@@ -158,7 +200,7 @@ Students rushing out of the examination hall with smiles, as they eagerly share 
 
 *2024-05-15 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Supreme-Court-trains-Sri-Lankan-Supreme-Court-officials/108-282650) · `en`
 
-A delegation comprising 15 officials of the Sri Lankan Supreme Court completed a four-day training programme from May 9 to13 at the Supreme Court of India, a statement from the Indian High Commission said.
+Colombo, May 15 (Daily Mirror) - A delegation comprising 15 officials of the Sri Lankan Supreme Court completed a four-day training programme from May 9 to13 at the Supreme Court of India, a statement from the Indian High Commission said.
 
 During the programme, the delegates were introduced to the technological and digital transformation of the Supreme Court of India including the e-Courts project, Library, Court processes such as filing, listing, scrutiny, scanning and record keeping.
 
@@ -2247,41 +2289,5 @@ Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar yesterday said the current
 [Data](articles/f7fa69d8.json)
 
 [Extended Data](ext_articles/f7fa69d8.ext.json)
-
----
-
-### Hakeem calls on SL Govt. to cut ties with Israel
-
-*2024-05-15 05:07:22* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-calls-on-SL-Govt-to-cut-ties-with-Israel/56-761799) · `en`
-
-Says SL Govt. must convey a clear message to Israel and take a bold stance against it
-
-Expressed dismay that many countries still maintain diplomatic relations with Israel despite the atrocities taking place
-
-Opines Israeli hostages have become  mere excuse for Israeli regime to eliminate entire civilian population in Gaza
-
-Opposition MP Rauff Hakeem yesterday called on the Sri Lankan Government to consider severing diplomatic relations with Israel should it persist with its military operations in Gaza.
-
-Joining the Adjournment Debate on the Palestine Issue, Hakeem emphasised that the Sri Lankan Government should convey a clear message to Israel, warning that Sri Lanka would sever diplomatic relations if the offensive in Gaza persists. He underscored that this action should be considered as a last resort.  The MP said the entire world seems toothless when it comes to Israel and urged Sri Lanka to take a bold stance against the country.
-
-...
-
-[Data](articles/523c673b.json)
-
-[Extended Data](ext_articles/523c673b.ext.json)
-
----
-
-### US Assistant Secretary Bureau of South and Central Asian Affairs calls on President
-
-*2024-05-15 05:05:48* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-Bureau-of-South-and-Central-Asian-Affairs-calls-on-President/56-761798) · `en`
-
-The visiting United States’ Assistant Secretary Bureau of South and Central Asian Affairs Donald Lu on Monday called on President Ranil Wickremesinghe and held extensive discussions regarding Sri Lanka’s economic recovery strategies. President Wickremesinghe’s unwavering dedication and commitment to implementing the economic reform program was highly appreciated. The President was accompanied by the Senior Advisor on the National security and Chief of Staff, Sagala Ratnayaka, Secretary to the President, Saman Ekanayake, United States Ambassador to Sri Lanka Julie Chung and Director of International Affairs, Dinouk Colombage.
-
-◼️
-
-[Data](articles/0ce9d5ce.json)
-
-[Extended Data](ext_articles/0ce9d5ce.ext.json)
 
 ---

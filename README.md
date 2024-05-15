@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 18:52:39**
+As of **2024-05-15 19:03:32**
 
 ## Newspaper Stats
 
-*Scraped **24,240** Articles*
+*Scraped **24,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 246
 dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
-economynextcom | 1,383
+economynextcom | 1,397
 dailyftlk | 1,415
 adalk | 2,068
 adaderanalk | 2,816
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,240 (100.0%) of 24,240 articles have been extended.
+24,240 (99.9%) of 24,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### Adani deal symptomatic of Sri Lanka’s high costs from lack of competition: Analyst
+
+*2024-05-15 18:30:00* · [`economynextcom`](https://economynext.com/adani-deal-symptomatic-of-sri-lankas-high-costs-from-lack-of-competition-analyst-163116/) · `en`
+
+ECONOMYNEXT – Sri Lanka has to open both traded and non-traded sectors to competition, in order to boost productivity and drive prices down, Murtaza Jafferjee, Chairman of Advocata Institute, a Colombo-based think tank said.
+
+An unsolicited deal given to India’s Adani group without competition despite a requirement under an International Monetary Fund to reduce corruption though tendering was symptomatic of the crisis facing Sri Lanka.
+
+Sri Lanka has agreed to buy power for 8.26 US cents a unit from its 484 MegaWatt wind power project in Mannar and Pooneryn.
+
+A competitive tender for a smaller wind plant also in Mannar where there is high wind potential closed this month.
+
+“Probably the tariff is less than 6 cents,” Jafferjee said at forum at Sri Lanka’s central bank on sustaining stability.
+
+“The IMF Governance Diagnostic Report says tender, tender, tender. We don’t have a procurement law, we have procurement guidelines.”
+
+...
+
+[Data](articles/36cfc467.json)
+
+---
+
+### Sri Lanka T-bill yields down across maturities
+
+*2024-05-15 18:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-t-bill-yields-down-across-maturities-163254/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, data from the state debt office showed.
+
+The 3-month yield fell 39 basis points from 9.43 percent to 9.04 percent, with 45 billion rupees in securities offered and 26.56 billion rupees sold.
+
+The 6-month yield fell 33 basis points from 9.76 percent to 9.43 percent, with 77.5 billion rupees in securities offered and 74.74 billion rupees sold.
+
+The 12-month yield fell 33 basis points from 9.90 percent to 9.57 percent, with 55 billion rupees in securities offered and 76.19 billion sold. (Colombo/May15/2024)
+
+◼️
+
+[Data](articles/9f024812.json)
+
+---
 
 ### Cocaine, ‘Kush’ and ecstasy pills worth Rs. 9 mln seized at Central Mail Exchange
 
@@ -53,6 +93,30 @@ The detection was made by the officers of the Narcotics Control Unit of Sri Lank
 [Data](articles/97d9cd27.json)
 
 [Extended Data](ext_articles/97d9cd27.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 302.00/40 to US dollar
+
+*2024-05-15 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-00-40-to-us-dollar-163234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.00/40 to the US dollar on Wednesday, from 301/302.00 the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 9.90/10.05 percent from 9.95/10.10 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.20/35 percent from 10.25/35 percent.
+
+A bond maturing on 15.03.2028 closed down at 10.50/65 percent 10.55/65 percent.
+
+A bond maturing on 15.09.2029 closed at down at 10.85/11.15 percent from 10.90/11.05 percent.
+
+A bond maturing on 15.05.2030 closed up at 11.50/65 percent from 11.40/55 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/95 percent. (Colombo/May15/2024)
+
+◼️
+
+[Data](articles/fd8e913d.json)
 
 ---
 
@@ -79,6 +143,24 @@ Although the former Prime Minister who was imprisoned from August to be sentence
 [Data](articles/408b7a8f.json)
 
 [Extended Data](ext_articles/408b7a8f.ext.json)
+
+---
+
+### Sri Lanka govt extends military benefits for CDF ahead of polls
+
+*2024-05-15 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-extends-military-benefits-for-cdf-ahead-of-polls-163246/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has decided to extend the same benefits given to war time army to Civil Defence Force (CDF), State Defence Minister Premitha Bandara Tennakoon said, ahead of the island nation declare the Presidential polls.
+
+The presidential election date is expected to be declared after July 17, but the Election Commission has already declared that the polls will be held between September 17 and October 16.
+
+President Ranil Wickremesinghe, who is also the country’s Defence Minister, is expected to contest under an independent common coalition with the support most parties backing him in the current government, his close allies have said.
+
+Backing of currently serving military and retired armed forces is vital for any political leader to win a presidency, analysts say.
+
+...
+
+[Data](articles/fa4406c8.json)
 
 ---
 
@@ -188,6 +270,30 @@ The Parcel, which contains the drug at the end of the Sri Lanka Customs investig
 
 ---
 
+### Sri Lanka stocks close down, selling pressure on banks
+
+*2024-05-15 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-banks-163230/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.55 percent, or 67.69 points, at 12,291; while the S&P SL20 Index closed down 0.94 percent, or 34.57 points, at 3,636.
+
+“Market was a bit volatile today, and there was some profit-taking seen,” market participants said.
+
+“There was selling pressure on the banks despite many of them posting good results.”
+
+Hatton National Bank Plc closed down at 195.25, National Development Bank Plc closed down at 78.70, Sampath Bank Plc closed down at 78.10, Dfcc Bank Plc closed down at 79.90.
+
+Profits at Hatton National Bank, which also has an insurance unit grew 2 percent to 7.2 billion rupees in March 2024, helped by lower provisioning and its insurance unit, interim accounts show.
+
+Ambeon Capital Plc saw a high volume (Rs963mn) being traded, and the share closed down at 14.30.
+
+...
+
+[Data](articles/488d973e.json)
+
+---
+
 ### 2 points free for O/L science
 
 *2024-05-15 16:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விஞ்ஞானத்துக்கு-2-புள்ளிகள்-இலவசம்/175-337367) · `ta`
@@ -207,6 +313,26 @@ The Commissioner General of Examinations added that the action has been taken to
 [Data](articles/223a1e2b.json)
 
 [Extended Data](ext_articles/223a1e2b.ext.json)
+
+---
+
+### Visiting China Garment Association members meet Sri Lanka firms
+
+*2024-05-15 16:43:00* · [`economynextcom`](https://economynext.com/visiting-china-garment-association-members-meet-sri-lanka-firms-163213/) · `en`
+
+ECONOMYNEXT – A delegation of China National Garment Association has met 12 Sri Lanka firms in a bid to explore potential synergies, the Export Development Board said.
+
+The 30 member CNGA delegation participated in business-to-business (B2B) meetings, factory visits, and dialogues with key governmental institutions.
+
+“The primary objective of this high-level delegation was to bolster existing trade relations and explore fresh avenues of collaboration and invest in the Sri Lankan apparel industry,” the EDB said in a statement.
+
+“The B2B meetings provided a conducive environment for fostering direct dialogue and exploring potential synergies between the Chinese representatives and their Sri Lankan counterparts.
+
+The interactions enhanced mutual understanding, facilitated knowledge sharing, and lay the groundwork for investment opportunities and mutually advantageous partnerships, EDB said.
+
+...
+
+[Data](articles/a22ae899.json)
 
 ---
 
@@ -257,6 +383,46 @@ As a result, the International Cricket Council and the West will have decided to
 [Data](articles/6b408b48.json)
 
 [Extended Data](ext_articles/6b408b48.ext.json)
+
+---
+
+### Sri Lanka economic governance forum hosted by Advocata
+
+*2024-05-15 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-governance-forum-hosted-by-advocata-163203/) · `en`
+
+ECONOMYNEXT – A forum on economic “Charting the Course: Revitalizing Economic Governance for Prosperity” will be held on May 18, with a high level panel from public sector, civil society and legal professions taking part.
+
+It will examine finding of an IMF Governance Diagnostics Assessment and will “engage in critical discussions surrounding the challenges and opportunities inherent in contemporary governance frameworks.”
+
+“We are at a crucial juncture where effective governance is paramount for economic prosperity and societal well-being,” Murtaza Jafferjee, Chair of the Advocata Institute said in a statement.
+
+“This conference provides a unique opportunity for stakeholders to come together, share insights, and chart a path forward towards more resilient and equitable governance structures.”
+
+...
+
+[Data](articles/30e2f2be.json)
+
+---
+
+### Sri Lanka defence university gets almost 1,000 applicants for medical degree
+
+*2024-05-15 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-defence-university-gets-almost-1000-applicants-for-medical-degree-163196/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s General Sir John Kotelawala Defence University (KDU) has received 956 applications for its paid medical degree program from students who passed local and London A Levels, State Minister of Defense, Premitha Bandara Tennakoon said.
+
+“We have received 956 eligible applications; 868 from local syllabus and from London syllabus 88,” Tennakoon told reporters Wednesday.
+
+Sri Lanka’s cabinet approved paid medical degrees at KDU on April 2024. KDU charges 12.5 million rupees for its medical degree.
+
+In 2023, the University of Colombo started a paid medical degree for foreign students at a fee of 62,500 dollars.
+
+Sri Lanka calls foreigners to enroll in Colombo University for medical degree; to charge $62,500
+
+The government has also said it will change its medical ordinance to accept degrees awarded by internationally recognized universities. (Colombo/May15/2024)
+
+◼️
+
+[Data](articles/ea86e02b.json)
 
 ---
 
@@ -317,6 +483,48 @@ Shakib drops three rating points following two appearances at the backend of Ban
 [Data](articles/0f9c14d5.json)
 
 [Extended Data](ext_articles/0f9c14d5.ext.json)
+
+---
+
+### Sri Lanka Freedom Party anti-Sirisena faction, New Alliance meet for talks
+
+*2024-05-15 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-anti-sirisena-faction-new-alliance-meet-for-talks-163177/) · `en`
+
+ECONOMYNEXT — The faction of crisis-hit Sri Lanka Freedom Party (SLFP) led by Aviation Minister Nimal Siripala de Silva has held a round of talks with members of MP Nimal Lanza’s ‘New Alliance’ on joining forces.
+
+Chairman of the Lanza’s New Alliance MP Anura Priyadarshana Yapa told reporters after the meeting that he expects some 70 MPs to join the new political formation.
+
+“Today, the voter is disillusioned with the parties they had voted for.  We’re all part of the same political stream. We have a duty to create a refuge for them,” he said.
+
+“Next month, we intend to form a new political alliance,” he added.
+
+Asked if this brand new alliance will back the candidacy of President Ranil Wickremesinghe at the upcoming presidential election, the MP said that it’s still early days.
+
+...
+
+[Data](articles/7382fb4d.json)
+
+---
+
+### Russia envoy asked for list of Sri Lankans hired for Ukraine war, ashes of the dead
+
+*2024-05-15 16:11:00* · [`economynextcom`](https://economynext.com/russia-envoy-asked-for-list-of-sri-lankans-hired-for-ukraine-war-ashes-of-the-dead-163190/) · `en`
+
+ECONOMYNEXT – Sri Lanka has made several requests from the Russian Ambassador to Colombo, the Defense Secretary has said.
+
+“One is that they provide us with a list of Sri Lankan war heroes (ranaviruvo) engaged in the war,” Kamal Gunaratne told reporters Wednesday. “Then a complete list of the dead, so we can inform their family that their war hero died in that war.”
+
+Sri Lanka has also learnt that there are injured soldiers. “We asked that they repatriate the injured, so we can look after them in our Army Hospital.”
+
+“And finally we asked if they can repatriate the remains of the dead Sri Lankan war heroes, if we can get the ashes even, at least we can give that to their families,” he said.
+
+Gunaratne said the ambassador had promised to look into the appeals.
+
+The retired general also asked others who have not come forward yet to do so with details of those who have gone to fight in the Russia-Ukraine war. (Colombo/May15/2024)
+
+...
+
+[Data](articles/0e64c10d.json)
 
 ---
 
@@ -459,6 +667,62 @@ The Vavuniya Police, who are conducting investigations into the matter, have bee
 [Data](articles/8c0908ca.json)
 
 [Extended Data](ext_articles/8c0908ca.ext.json)
+
+---
+
+### Sri Lanka must modernise agriculture, reorient towards growing export markets: president
+
+*2024-05-15 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-modernise-agriculture-reorient-towards-growing-export-markets-president-163158/) · `en`
+
+ECONOMYNEXT — As Sri Lanka’s population declines, the island nation must modernise its agriculture and orient it towards emerging export markets whose own populations are on the rise, President Ranil Wickremesinghe said.
+
+Speaking at an event, Wickremesinghe said a modernised agriculture is the means with Sri Lanka can become an export economy and lift rural communities out of poverty.
+
+“Agriculture is what stabilises the economy. We can’t keep living on loans. That’s why we have decided to turn this country into an export economy. The cabinet on Monday approved the draft legislations needed for an export economy.
+
+“Now we’re trying to modernise agriculture and go for an export industry. That needs to be done. Agriculture is the way to eliminate poverty in our villages. For this, we need a modern agriculture,” he said.
+
+...
+
+[Data](articles/576cc849.json)
+
+---
+
+### Sri Lanka to investigate those who refused government free rice: State Minister
+
+*2024-05-15 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-investigate-those-who-refused-government-free-rice-state-minister-163157/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister for Finance has called for a report to identify people who did not collect the free rice given by the government, hoping this would help identify fraudulent beneficiaries of the Aswesuma welfare scheme.
+
+“Since there is a need to go to those places to collect the rice, if any party is fraudulently obtaining Aswesuma benefits, they may not have come forward to get it for fear of revealing their identity,” Shehan Semasinghe said in a statement.
+
+Free rice was given to the poorest families in the country, which include Aswesuma beneficiaries, in April.
+
+Semasinghe said the government has called for a report on the people who are currently receiving Aswesuma benefits but did not come to get free rice. The relevant report is being prepared by the Development Finance Department of the Ministry of Finance.
+
+The minister said that he will receive the report by next week.
+
+...
+
+[Data](articles/77cf7744.json)
+
+---
+
+### Sri Lanka’s Supreme Court officials learn high tech system in India’s apex court
+
+*2024-05-15 14:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-supreme-court-officials-learn-high-tech-system-in-indias-apex-court-163159/) · `en`
+
+ECONOMYNEXT – Selected Sri Lankan Supreme Court officials underwent a four-day training organized by India’s apex court on technological and digital transformation of the Court including e-Courts project, Indian High Commission in Colombo said.
+
+A delegation consisting of 15 Sri Lanka Supreme Court registry officials completed the training program from 9-13 May at the Supreme Court of India, it said.
+
+“During the programme, the delegates were introduced to the technological and digital transformation of the Supreme Court of India including e-Courts project, Library, Court processes such as filing, listing, scrutiny, scanning and record keeping,” the High Commission said.
+
+“The Senior Registrars from the Registry explained to the delegates nuances of the same and demonstrated the systems with enhanced transparency, efficiency, and accessibility.”
+
+...
+
+[Data](articles/8d6ea260.json)
 
 ---
 
@@ -1049,6 +1313,28 @@ Police say that the stock of weapons arrived at the place and that no one has br
 [Data](articles/0613273a.json)
 
 [Extended Data](ext_articles/0613273a.ext.json)
+
+---
+
+### Families complain about 280 Sri Lankans in Russia-Ukraine war, 16 confirmed dead
+
+*2024-05-15 12:45:00* · [`economynextcom`](https://economynext.com/families-complain-about-280-sri-lankans-in-russia-ukraine-war-16-confirmed-dead-163121/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s defence ministry has so far received 280 complaints from family members of citizens who have been recruited to fight in the Russia-Ukraine warfront by mercenary companies, State Minister of Defense, Premitha Bandara Tennakoon said.
+
+So far 16 persons have been confirmed dead, he told reporters in Colombo.
+
+Sri Lanka’s Defence Ministry set up a hotline for family to members to lodge complaints after a few returnees exposed the deadly conditions facing mostly ex-soldiers who left to fight mainly for Russia.
+
+Sri Lanka authorities have confirmed that 16 persons have died, Minister Tennakoon said.
+
+Local media reports quoting returnees and social media messages from Sri Lankans fighting in the Russia-Ukraine front said many more were dead from Ukrainian drone attacks.
+
+On Tuesday a group of family members came to the Russian embassy in Colombo.
+
+...
+
+[Data](articles/e384dc8d.json)
 
 ---
 
@@ -2037,325 +2323,5 @@ The information disappeared has been sent to all police stations and is said to 
 [Data](articles/182d706d.json)
 
 [Extended Data](ext_articles/182d706d.ext.json)
-
----
-
-### Not left the country: Diana
-
-*2024-05-15 09:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டைவிட்டு-வெளியேறவில்லை-டயானா/175-337338) · `ta`
-
-Diana Kamage, former State Minister, denies plans to move to Britain, calling it her homeland despite rumors suggesting otherwise.
-
-🟩
-
-Former State Minister Diana Kamage today denied reports that it is planning to relocate to Britain.
-
-He denied the news published titled "Diana returning to her mother country" and said, "This is my homeland."
-
-◼️
-
-[Data](articles/d771f557.json)
-
-[Extended Data](ext_articles/d771f557.ext.json)
-
----
-
-### Female death
-
-*2024-05-15 09:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்து-பெண்-உயிரிழப்பு/175-337336) · `ta`
-
-A woman tragically died after falling from the first floor of her home in Bihillatheniya, under the jurisdiction of the Gampola police division.
-
-🟩
-
-A woman who fell from the first floor of a house in Bihillatheniya, which belongs to the Gampola police division, has died.
-
-◼️
-
-[Data](articles/bb2a518a.json)
-
-[Extended Data](ext_articles/bb2a518a.ext.json)
-
----
-
-### Diana denies reports on migration plan
-
-*2024-05-15 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-denies-reports-on-migration-plan/108-282630) · `en`
-
-Colombo, May 15 (Daily Mirror) - Former State Minister Diana Gamage today denied reports that she is planning to migrate to the UK.
-
-"This is my motherland," she said responding to a report running on websites with the headline "Diana to go back to her mother country."
-
-◼️
-
-[Data](articles/3bd970fd.json)
-
-[Extended Data](ext_articles/3bd970fd.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 301.50/302.50 to US dollar
-
-*2024-05-15 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-301-50-302-50-to-us-dollar-163100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 301.50/302.50 to the US dollar on Wednesday, from 301/302.00 the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted down at 9.90/10.00 percent from 9.95/10.10 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 10.25/27 percent from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 10.50/60 percent 10.55/65 percent.
-
-A bond maturing on 15.05.2030 was quoted down at 11.45/50 percent from 11.40/55 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was down 0.64 percent at 12,438, and the S&P SL20 was up 1.08 percent at 3,710. (Colombo/May15/2024)
-
-◼️
-
-[Data](articles/d7f0a647.json)
-
-[Extended Data](ext_articles/d7f0a647.ext.json)
-
----
-
-### Diana handed over the vehicles
-
-*2024-05-15 09:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-ஒப்படைத்தார்-டயானா/175-337335) · `ta`
-
-Diana Kamage, former Tourism Minister, surrendered her official vehicles to authorities after her MP status was revoked due to a dual citizenship issue. The High Court mandated she relinquish all state assets, including vehicles.
-
-🟩
-
-Former Tourism Minister Diana Kamage has handed over his official vehicles to the authorities on the 10th.
-
-Diana Kamage's Member of Parliament on the dual citizenship issue was canceled by the High Court.
-
-Thus, he should hand over all the assets, including vehicles received from the state.
-
-◼️
-
-[Data](articles/a5f77961.json)
-
-[Extended Data](ext_articles/a5f77961.ext.json)
-
----
-
-### University non-academic staff to intensify their strike action
-
-*2024-05-15 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99224/university-non-academic-staff-to-intensify-their-strike-action) · `en`
-
-The Joint Committee of University Trade Unions says they have decided to further intensify their strike action due to delays in addressing their demands.
-
-Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyantha stated that the association unanimously agreed to withdraw from all voluntary services within universities. This includes halting the supply of water and electricity, as well as discontinuing internet facilities. These disruptions will significantly impact various operations within the university system, he said.
-
-“Also, the authorities should take full responsibility for the destruction of samples maintained at the laboratory level in the university system. This kind of thing is happening to the university system because of the actions of this government. If the administration continues to avoid it, we should also rethink about the activities that we voluntarily carry out in the university,” said Priyantha.
-
-...
-
-[Data](articles/5d67dc6e.json)
-
-[Extended Data](ext_articles/5d67dc6e.ext.json)
-
----
-
-### The government has expressed its chauvinist mindset - Agathiyar Adikallar
-
-*2024-05-15 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183573) · `ta`
-
-The government's chauvinist actions, highlighted by the arrest of individuals for disturbing Mullivaikkal Kanji in Muttur-Senayoor, have sparked outrage among Tamil nationalists. Dawatru Agathiyar Adikallar criticizes the government for violating the basic human rights of memorializing, emphasizing the importance of unity among Tamil national parties to oppose such actions. The incident, affecting the goodwill between ethnic groups, underscores the need for the release of innocent detainees and the protection of the right to remember.
-
-🟩
-
-In a statement issued by the Chief Coordinator of the Integrated Tamil Framework, Dawatru Agathiyar Adikallar, said the government had expressed its chauvinist mindset by preventing them from being able to disturb them.
-
-He said this in a statement in protest against the arrest of innocent people by the Sampur police on charges of disturbing Mullivaikkal Kanji in Muttur - Senayoor area.
-
-Memorial is the basic right of every human being. All the international laws globally emphasize it deeply. The incident, which took place in Senayoor, Trincomalee, has caused great pain to the entire Tamil people.
-
-In the days of painfulness, these days to pray for their relationships in those days, they have seen the plight of the tragedy of the tragedy of the tragedy of the life of the state apparatus.. This is a process that continues to deeply affects the goodwill between the ethnicities.
-
-...
-
-[Data](articles/81d189c3.json)
-
-[Extended Data](ext_articles/81d189c3.ext.json)
-
----
-
-### Woman dies after falling from the first floor of a house
-
-*2024-05-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196640) · `si`
-
-In Knisadeniya, a woman tragically fell from her home's first floor and passed away. The incident happened in the evening of March 14th.
-
-🟩
-
-A woman in Knakedeniya, a woman in Knisadeniya, has died after falling from the first floor of a house in the Gampola.
-
-Police said that the accident had occurred in the evening yesterday (14).
-
-◼️
-
-[Data](articles/93a3ae4d.json)
-
-[Extended Data](ext_articles/93a3ae4d.ext.json)
-
----
-
-### About 17 lakhs of rupees fraudulently prepared by the rubber stamp of the state official in Jaffna!
-
-*2024-05-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183570) · `ta`
-
-In Jaffna, a temple in Karavetti faces a financial fraud accusation of about 17 lakhs rupees. The temple's head allegedly misappropriated funds, including 7 lakhs in 2023 through a false partnership and a forged cultural officer's seal. This case has led to the resignation of the Vice President and Treasurer. The local administration's inaction over the misuse of the state seal has raised concerns, prompting the Divisional Secretary to lodge a complaint at the Mallakam Police Station regarding the fraudulent use of a fake rubber seal.
-
-🟩
-
-A temple located in Karavetti, Jaffna, has been accused of financial fraud of about 17 lakhs of rupees.
-
-The head of the temple has thus stolen a large amount of funds in the temple.
-
-By the month of 2023, the month of 2023, by the month of 2023, 7 lakhs for the sake of a false partnership and the rubber stamp of the cultural officer, the nelliyadi was stolen money from the famous bank.
-
-Their fraudulent exposure and the Vice President and Treasurer have volunteered for the first time.
-
-Will the Karavetti Officer Divisional Secretariat take action to make the state seal for fake as it is very disturbing that the administration does not take any action in this regard?
-
-When contacted by the Karavetti Divisional Secretary about the matter, he said that the money was taken using a fake rubber seal and that a complaint has been lodged at the Mallakam Police Station.
-
-◼️
-
-[Data](articles/175e752d.json)
-
-[Extended Data](ext_articles/175e752d.ext.json)
-
----
-
-### End in Singapore
-
-*2024-05-15 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196639) · `si`
-
-After 20 years leading Singapore, PM Lee Hsien Loong steps down, marking the end of an era. His successor, Lawrence Wong, takes charge. This transition follows the footsteps of only three PMs since Singapore gained independence in 1965. The departure signifies a shift away from the "Lee Family" influence, with Lee expressing satisfaction in his service: "I didn't try to run faster than others; I ran my race."
-
-🟩
-
-Prime Minister's Prime Minister 'Lee Hsien Loong "has decided to resign for a long time. At the same time, political commentators say one chapter of politics will end.
-
-Twenty years after the controlling Singapore, his powers will be handed over to 'Lawrence Vong tonight.
-
-Singapore became a free land in 1965. Only three Prime Ministers have been ruled by 59 years since then.
-
-The first Prime Minister of the country was the wood Quan. He is the father of the Prime Minister of the Prime Minister and he is considered the founder of modern Singapore.
-
-Political commentators say that the political leadership of the country can be redeemed as a redemption from the "Lee Family" shadow.
-
-However, the current Prime Minister is due to be a bogt minister of the Cabinet of the Cabinet.
-
-Lee, who faced the Prime Minister as the Prime Minister, he paid his pleasure to the people of Singapore regarding his last press conference.
-
-...
-
-[Data](articles/05ac7b11.json)
-
-[Extended Data](ext_articles/05ac7b11.ext.json)
-
----
-
-### End of Lee era for Singapore as PM steps down
-
-*2024-05-15 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/End-of-Lee-era-for-Singapore-as-PM-steps-down/107-282627) · `en`
-
-Singapore, May 15 (BBC) - Singapore's long-serving Prime Minister Lee Hsien Loong is stepping down, marking the end of a political era for the island nation.
-
-After 20 years in power, Mr Lee will formally hand over the reins to deputy PM and finance minister Lawrence Wong on Wednesday night.
-
-Since becoming an independent nation in 1965, Singapore has only had three prime ministers - all from the ruling People's Action Party (PAP).
-
-The first was Mr Lee's father, Lee Kuan Yew, who is widely considered as the founder of modern Singapore and led the country for 25 years.
-
-Analysts say the transition signals an evolution in Singapore's political leadership as it moves out of the shadow of the Lee family, even though Mr Lee will remain in cabinet as a senior minister.
-
-Over the weekend in his final interview as Prime Minister with local media, he thanked Singaporeans for their support.
-
-...
-
-[Data](articles/dc7b4e98.json)
-
-[Extended Data](ext_articles/dc7b4e98.ext.json)
-
----
-
-### End of Lee era for Singapore as PM steps down
-
-*2024-05-15 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/End-of-Lee-era-for-Singapore-as-PM-steps-down/108-282627) · `en`
-
-Singapore, May 15 (BBC) - Singapore's long-serving Prime Minister Lee Hsien Loong is stepping down, marking the end of a political era for the island nation.
-
-After 20 years in power, Mr Lee will formally hand over the reins to deputy PM and finance minister Lawrence Wong on Wednesday night.
-
-Since becoming an independent nation in 1965, Singapore has only had three prime ministers - all from the ruling People's Action Party (PAP).
-
-The first was Mr Lee's father, Lee Kuan Yew, who is widely considered as the founder of modern Singapore and led the country for 25 years.
-
-Analysts say the transition signals an evolution in Singapore's political leadership as it moves out of the shadow of the Lee family, even though Mr Lee will remain in cabinet as a senior minister.
-
-Over the weekend in his final interview as Prime Minister with local media, he thanked Singaporeans for their support.
-
-...
-
-[Data](articles/f1c3a532.json)
-
-[Extended Data](ext_articles/f1c3a532.ext.json)
-
----
-
-### Sri Lanka’s HNB net up 2-pct in March 2024 quarter
-
-*2024-05-15 09:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-net-up-2-pct-in-march-2024-quarter-163087/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit grew 2 percent to 7.2 billion rupees in March 2024, helped by lower provisioning and its insurance unit, interim accounts show.
-
-Net interest income at standalone bank level fell 30 percent to 21.9 billion rupees in the quarter the March 31, while interest income fell 20 percent to 60.2 billion rupees and interest expenses fell at a slower 13 percent to 38.2 billion rupees.
-
-Hatton National Bank group net interest income was 25 billion rupees.
-
-Customer loans were down 3 percent to 930 billion rupees. Debt and other instruments were up 19 percent to 549 billion rupees.
-
-Impairment charges were 1.3 billion rupees, down from 11.3 billion last year.
-
-Net fee and commission income was down 3 percent to 4.10 billion rupees.
-
-Losses from trading was 4.1 billion rupees down from 7.2 billion rupees last year.
-
-...
-
-[Data](articles/f7310231.json)
-
-[Extended Data](ext_articles/f7310231.ext.json)
-
----
-
-### Special Committee to expedite land supplying to military - President's action
-
-*2024-05-15 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183569) · `ta`
-
-President Ranil Wickremesinghe has formed a committee led by Secretary Saman Ekanayake to speed up land allocation to soldiers, including police and civil defense personnel. The team includes officials from the Ministry of Defense, Army Service Authority, and the Attorney General's Department. This initiative aims to address previous unsuccessful attempts at launching similar programs.
-
-🟩
-
-A special committee has been appointed by President Ranil Wickremesinghe to accelerate the process of providing land to soldiers.
-
-The committee has been appointed to the committee, headed by President Secretary Saman Ekanayake, Additional Secretary of the Ministry of Defense, the Commissioner General of Land, the Chairman of the Army Service Authority and the Attorney General's Department.
-
-The state land will be provided to the police, the civil defense department and the military who are currently in the service of the retired and retired work.
-
-The President has appointed the committee, which has considering the issue as the land provision program for soldiers has been launched several times before, but it has not been successfully implemented.
-
-It is the responsibility of the concerned committee to consider the provision of land to the military at the behest of the president.
-
-◼️
-
-[Data](articles/7b1f4113.json)
-
-[Extended Data](ext_articles/7b1f4113.ext.json)
 
 ---

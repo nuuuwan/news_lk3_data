@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 02:03:41**
+As of **2024-05-16 02:33:52**
 
 ## Newspaper Stats
 
-*Scraped **24,296** Articles*
+*Scraped **24,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 249
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
-dailyftlk | 1,418
+dailyftlk | 1,423
 adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
@@ -26,27 +26,107 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,292 (100.0%) of 24,296 articles have been extended.
+24,299 (100.0%) of 24,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### அமெரிக்க தூதுவர் யாழ்ப்பாணத்துக்கு விஜயம்
+### SLT-Mobitel Enterprise introduces unlimited voice calling
+
+*2024-05-16 02:11:02* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-Enterprise-introduces-unlimited-voice-calling/34-761848) · `en`
+
+Focused on delivering a comprehensive suite of solutions tailored for the business sector, SLT-Mobitel Enterprise has introduced its latest offering: an Unlimited Voice calling package with a fixed rental.
+
+Voice communication stands as a cornerstone of any successful business operation. With SLT-Mobitel Enterprise’s new Unlimited Voice calling package, customers can enjoy the freedom of unlimited calls, rendering business conversations more economical than ever. This initiative aims to empower enterprises to optimise their operational costs and streamline communication processes. By offering a fixed rental fee and eliminating fluctuating usage costs, customers can now enjoy peace of mind, knowing that their communication expenses remain stable and predictable. This enhancement is specifically designed to benefit existing Enterprise Megaline customers, who have long-standing relationships with SLT-Mobitel, as well as for any LTE Voice customers.
+
+...
+
+[Data](articles/dfdef219.json)
+
+---
+
+### United Motors Lanka PLC announces appointment of Vish Govindasamy as Independent Non-Executive Director
+
+*2024-05-16 02:08:53* · [`dailyftlk`](https://www.ft.lk/business/United-Motors-Lanka-PLC-announces-appointment-of-Vish-Govindasamy-as-Independent-Non-Executive-Director/34-761847) · `en`
+
+Currently serving as the Sunshine Holdings PLC Deputy Chairman, Vish Govindasamy has been instrumental in steering one of Sri Lanka’s top 50 listed companies to great heights. His tenure in various top-tier roles, including as an appointed Member of the Governing Board of the Central Bank of Sri Lanka and as the Immediate Past Chairman of the Ceylon Chamber of Commerce, reflects his extensive expertise and deep commitment in advancing Sri Lanka’s economic and social landscapes.
+
+...
+
+[Data](articles/0fb9e688.json)
+
+---
+
+### Dialog customers contribute over Rs. 18 million to Little Hearts via Star Points
+
+*2024-05-16 02:03:53* · [`dailyftlk`](https://www.ft.lk/business/Dialog-customers-contribute-over-Rs-18-million-to-Little-Hearts-via-Star-Points/34-761846) · `en`
+
+Over Rs. 140 million donated via Star Points to Little Hearts project since 2016
+
+Dialog customers came together extending their support once again to contribute over Rs. 18 million towards Little Hearts, an initiative spearheaded by the Sri Lanka College of Pediatricians, bringing the total donation amount since 2016 to Rs. 140 million. The program aims to develop a 12-storey cardiac and critical care complex at Lady Ridgeway Hospital in aid of children with heart diseases and critical illnesses.
+
+...
+
+[Data](articles/cfae447d.json)
+
+[Extended Data](ext_articles/cfae447d.ext.json)
+
+---
+
+### Joining BRICS opens new possibilities for Sri Lanka
+
+*2024-05-16 01:59:52* · [`dailyftlk`](https://www.ft.lk/opinion/Joining-BRICS-opens-new-possibilities-for-Sri-Lanka/14-761845) · `en`
+
+Recently, the Ambassador of the Republic of Sri Lanka in Moscow, Janita Liyanage, told reporters about her country’s desire to join BRICS in the near future. The Government expects that this will have a positive effect on the economy and lead to a significant increase in the standard of living of ordinary citizens, since it will not only allow the country to conduct duty-free trade with the member states of the bloc, but also provide an opportunity to receive financial support necessary to solve Sri Lanka’s problems from large BRICS regional development funds.
+
+Considering that the total share of GDP of the bloc is 37% of the global total, all this might give a good impetus to the development of the island.
+
+...
+
+[Data](articles/7d1286c9.json)
+
+[Extended Data](ext_articles/7d1286c9.ext.json)
+
+---
+
+### Driving systemic change: Roadmap for five-pillar governance framework
+
+*2024-05-16 01:54:29* · [`dailyftlk`](https://www.ft.lk/opinion/Driving-systemic-change-Roadmap-for-five-pillar-governance-framework/14-761844) · `en`
+
+A supreme and inviolable Constitution represents the people’s sovereignty and provides strong and enforceable structures and laws
+
+By Lacille de Silva, Rohan Prithiviraj Perera, Bernard Fernando, Ranjan de Silva, Geewananda Gunawardana, Leonard Pinto, and Chula Goonasekera
+
+...
+
+[Data](articles/a101c220.json)
+
+[Extended Data](ext_articles/a101c220.ext.json)
+
+---
+
+### US Ambassador visited Jaffna
 
 *2024-05-16 01:07:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதுவர்-யாழ்ப்பாணத்துக்கு-விஜயம்/175-337393) · `ta`
 
-யாழ். மானிப்பாயில் அமைந்துள்ள கிரீன் ஞாபகார்த்த வைத்தியசாலைக்கு விஜயம் செய்த இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங், வைத்தியசாலை செயற்பாடுகளை பார்வையிட்டார்.
+US Ambassador Julie Sung visited Jaffna, engaging in hospital activities at Green Memorial Hospital and planting a tree at the Sung Hospital complex. The event aimed to raise awareness about tree re-circulation and planting. She also discussed ongoing US-Sri Lanka cooperation and support initiatives.
 
-மேலும், விஜயத்தின் போது இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வைத்தியசாலை வளாகத்தில் மரக்கன்று ஒன்றையும் நாட்டினார்.
+🟩
 
-இதன்போது, மீள் சுழற்சி மற்றும் மரங்களை நடுதல் தொடர்பில் விழிப்புணர்வை ஏற்படுத்தும் வகையிலான நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டிருந்தன.
+Yall. US Ambassador to Sri Lanka Julie Sung visited the hospital activities at the Green Memorial Hospital in Manipay.
 
-இதேவேளை, வட மாகாணத்தில் உள்ள இலங்கையர்களுக்கு அமெரிக்காவின் தொடர்சியான ஒத்துழைப்பையும் ஆதரவுக்கான வழிகளையும் ஆராய்வதற்கான சந்திப்புகளை முன்னெடுப்பதற்காக யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டதாக இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் எக்ஸ் பக்கத்தில் பதிவிட்டுள்ளார்.  (a)
+Also, during the visit, the US Ambassador to Sri Lanka Julie landed a tree at the Sung Hospital complex.
+
+In the meantime, events were organized to raise awareness about the re -circulation and the planting of trees.
+
+Meanwhile, the US Ambassador to Sri Lanka Julie Sung X has posted on a visit to Jaffna to meet with Sri Lankans in the Northern Province to meet with the United States continuing cooperation and ways to support support.(a)
 
 ◼️
 
 [Data](articles/024deca4.json)
+
+[Extended Data](ext_articles/024deca4.ext.json)
 
 ---
 
@@ -64,6 +144,8 @@ The future is already here; it’s just not very evenly distributed, as William 
 
 [Data](articles/f3544cd7.json)
 
+[Extended Data](ext_articles/f3544cd7.ext.json)
+
 ---
 
 ### Sri Lanka’s amended Telecommunications Bill should be sent back to the drawing board
@@ -79,6 +161,8 @@ One would think that the legislation governing one of the most dynamic and criti
 ...
 
 [Data](articles/397575b9.json)
+
+[Extended Data](ext_articles/397575b9.ext.json)
 
 ---
 
@@ -131,6 +215,8 @@ That is almost exactly what happened in 1982. We had one national election but n
 ...
 
 [Data](articles/5bb5b5c8.json)
+
+[Extended Data](ext_articles/5bb5b5c8.ext.json)
 
 ---
 
@@ -2209,125 +2295,5 @@ Subsequently, police said that the suspect has been severely warned and released
 [Data](articles/3106b37b.json)
 
 [Extended Data](ext_articles/3106b37b.ext.json)
-
----
-
-### Govt remains steadfast in commitment to combat crime and ensure justice – President
-
-*2024-05-15 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99230/govt-remains-steadfast-in-commitment-to-combat-crime-and-ensure-justice-president) · `en`
-
-President Ranil Wickremesinghe has highlighted the government’s efforts to enact numerous new laws aimed at apprehending criminals over the past two years.
-
-He made this observation during the opening ceremony of the new Court Complex in Theldeniya today (15).
-
-Wickremesinghe also highlighted the government’s achievement of implementing 75 new laws in the past two years emphasizing that this initiative has positioned Sri Lanka as the sole country in South Asia with a modern legal system.
-
-Despite facing accusations of shielding wrongdoers, the government remains steadfast in its commitment to combatting crime and ensuring justice, he further said.
-
-“Some accuse the government of protecting thieves. However, illogically, this same government, accused of protecting thieves, has introduced legislation to arrest them.”
-
-However, he added that effective implementation of these laws requires practical experience, requiring comprehensive training programs.
-
-...
-
-[Data](articles/08b16689.json)
-
-[Extended Data](ext_articles/08b16689.ext.json)
-
----
-
-### We face the second Nakba this time - Palestinian people's opinion
-
-*2024-05-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183601) · `ta`
-
-Palestinians view current conflicts as a "second Nakba," distinct from the 1948 war, highlighting Israel's ongoing military occupation in the West Bank. Adip Nasal mentions Iraqis fighting alongside Palestinians against Zionists but notes the absence of unified Arab military action today, focusing instead on self-interests.
-
-🟩
-
-Palestinians, who say we are facing the second Nakba, have stated that this time it is separate and confronted it alone.
-
-However, the wars in Gaza and the West Center are clear evidence that Israel's military occupation on the West is the second Nakba.
-
-Some have fought the Arabian Israeli war in 1948 and all the community of the community fought for Palestine.
-
-Adip Nasal said that the Iraqi soldiers fought with the Palestinians against the Zionists in the war.
-
-He said that there is no Arab military at present, everyone wants to protect their own interests.
-
-◼️
-
-[Data](articles/566de186.json)
-
-[Extended Data](ext_articles/566de186.ext.json)
-
----
-
-### A large haul of weapons from Piliyandala
-
-*2024-05-15 12:56:14* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-ප්‍රදේශයේ-නිවසකින්-ආයුධ-තොගයක්-හමුවේ/11-409643) · `si`
-
-Kesbewa Police discovered a cache of weapons including a T-56 rifle and 192 bullets in Piliyandala. The discovery was made after a complaint by the Environmental Topic Piliyand.
-
-🟩
-
-The Kesbewa Police said that a T-56 rifle, 96 live bullets, 96 live bullets in the house of Piliyandala.
-
-According to a complaint lodged with the police by the Environmental Topic Piliyand, police officers have been able to find the stock of stock of employment.
-
-Police say that the stock of weapons arrived at the place and that no one has brought the stock of weapons to this place, police said.
-
-◼️
-
-[Data](articles/0613273a.json)
-
-[Extended Data](ext_articles/0613273a.ext.json)
-
----
-
-### Families complain about 280 Sri Lankans in Russia-Ukraine war, 16 confirmed dead
-
-*2024-05-15 12:45:00* · [`economynextcom`](https://economynext.com/families-complain-about-280-sri-lankans-in-russia-ukraine-war-16-confirmed-dead-163121/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s defence ministry has so far received 280 complaints from family members of citizens who have been recruited to fight in the Russia-Ukraine warfront by mercenary companies, State Minister of Defense, Premitha Bandara Tennakoon said.
-
-So far 16 persons have been confirmed dead, he told reporters in Colombo.
-
-Sri Lanka’s Defence Ministry set up a hotline for family to members to lodge complaints after a few returnees exposed the deadly conditions facing mostly ex-soldiers who left to fight mainly for Russia.
-
-Sri Lanka authorities have confirmed that 16 persons have died, Minister Tennakoon said.
-
-Local media reports quoting returnees and social media messages from Sri Lankans fighting in the Russia-Ukraine front said many more were dead from Ukrainian drone attacks.
-
-On Tuesday a group of family members came to the Russian embassy in Colombo.
-
-...
-
-[Data](articles/e384dc8d.json)
-
-[Extended Data](ext_articles/e384dc8d.ext.json)
-
----
-
-### Families complain about 280 Sri Lankans in Russia-Ukraine war, 16 confirmed dead
-
-*2024-05-15 12:45:00* · [`economynextcom`](https://economynext.com/complaints-about-280-sri-lankans-in-russia-ukraine-war-so-far-16-confirmed-dead-163121/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s defence ministry has so far received 280 complaints from family members of citizens who have been recruited to fight in the Russia-Ukraine warfront by mercenary companies, State Minister of Defense, Premitha Bandara Tennakoon said.
-
-So far 16 persons have been confirmed dead, he told reporters in Colombo.
-
-Sri Lanka’s Defence Ministry set up a hotline for family to members to lodge complaints after a few returnees exposed the deadly conditions facing mostly ex-soldiers who left to fight mainly for Russia.
-
-Sri Lanka authorities have confirmed that 16 persons have died, Minister Tennakoon said.
-
-Local media reports quoting returnees and social media messages from Sri Lankans fighting in the Russia-Ukraine front said many more were dead from Ukrainian drone attacks.
-
-On Tuesday a group of family members came to the Russian embassy in Colombo.
-
-...
-
-[Data](articles/e3e5846c.json)
-
-[Extended Data](ext_articles/e3e5846c.ext.json)
 
 ---

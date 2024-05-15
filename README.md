@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 00:49:38**
+As of **2024-05-16 01:03:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,290 (100.0%) of 24,292 articles have been extended.
+24,292 (100.0%) of 24,292 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The current framework is a good start with room for improvement
 
 [Data](articles/63e80b7a.json)
 
+[Extended Data](ext_articles/63e80b7a.ext.json)
+
 ---
 
 ### Family is the first essential cell of human society
@@ -59,6 +61,8 @@ Families stay together if they regularly pray or meditate together. This is a ha
 ...
 
 [Data](articles/7b6d7765.json)
+
+[Extended Data](ext_articles/7b6d7765.ext.json)
 
 ---
 

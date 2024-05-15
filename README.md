@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 21:52:58**
+As of **2024-05-15 22:05:51**
 
 ## Newspaper Stats
 
-*Scraped **24,284** Articles*
+*Scraped **24,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
-adalk | 2,075
+adalk | 2,076
 adaderanalk | 2,819
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,284 (100.0%) of 24,284 articles have been extended.
+24,284 (100.0%) of 24,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,20 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 [Data](articles/5eafbd66.json)
 
 [Extended Data](ext_articles/5eafbd66.ext.json)
+
+---
+
+### කවුරු මොනවා කීවත් ඊශ්‍රායලයට ශ්‍රමිකයින් යවන එක නවත්වන්නේ නෑ
+
+*2024-05-15 20:24:56* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-මොනවා-කීවත්-ඊශ්‍රායලයට-ශ්‍රමිකයින්-යවන-එක-නවත්වන්නේ-නෑ/11-409655) · `si`
+
+ශ්‍රි ලංකාව නොබැඳි ජාතීන්ට අයත් රටක් වන බැවින් වෙනත් රටවල දේශපාලන කටයුතුවලට බලපෑම් කළ නොහැකි බවත්, පාර්ලිමේන්තුවේ උද්ඝෝෂණ කිරීමෙන් ඊශ්‍රායල් යුද්ධය නතර කිරීමට නොහැකි බවත්, කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා සඳහන් කරයි. විපක්ෂ නායක සජිත් ප්‍රේමදාස ඇතුළු විපක්ෂයේ ඇතැම් දේශපාලන කණ්ඩායම් මුස්ලිම් ජනතාවගේ ජන්ද ලබාගැනීමේ අරමුණෙන්, ශ්‍රි ලංකාවේ තරුණයින්ගේ අනාගතය බිල්ලට ගෙන ඇති බව අමාත්‍යවරයා වැඩිදුරටත් ප්‍රකාශ කලේය. අමාත්‍යවරයා මේ අදහස් පළකළේ අද දින (5/15) විදේශ සේවා නියුක්ති කාර්යාංශයේදී පැවැති වැඩසටහනකට එක්වෙමිනි.
+
+“ජේ.වී.පි එක මාතර තිබුණ රැලියේදී තරුණයෝ රට රැකියාවලට නතර කරන්න කිව්වා. ඊශ්‍රායලයේ රැකියා සඳහා යවන්න එපා කිව්වා. විපක්ෂ නායක සජිත් ප්‍රේමදාස පාර්ලිමේන්තුවේදි කිව්වා ඊශ්‍රායලයට ශ්‍රමිකයෝ යවන්න එපා, ඊශ්‍රායල් තානාපති සබඳතා නවත්තන්න කියලා. රාවුෆ් හකීම් කියනවා අපි ශ්‍රමිකයෝ යවන්නේ පලස්තීනේ අය වැඩ කරපු තැන්වල වැඩකරන්න කියලා. අපි නොබැඳි රටක්. අපි වෙනත් රටවල දේශපාලන ප්‍රශ්නවලට අතදාන එක වැරදියි.
+
+...
+
+[Data](articles/dc27b79d.json)
 
 ---
 
@@ -324,7 +338,7 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
 
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
@@ -2339,25 +2353,5 @@ The Base Jump event was held on May 12, 13 and 14 at the Lotus Tower.
 [Data](articles/17eb8901.json)
 
 [Extended Data](ext_articles/17eb8901.ext.json)
-
----
-
-### CEB facing serious shortage of engineers – officials tell COPE
-
-*2024-05-15 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99228/ceb-facing-serious-shortage-of-engineers-officials-tell-cope-) · `en`
-
-It has been revealed during the meeting of the Committee on Public Enterprises (COPE) that about 130 engineers of the Ceylon Electricity Board (CEB) have left the service as of recently.
-
-Responding to a question put forward by MP Madhura Withanage during the meeting, the Deputy Managing Director of CEB Mr. Palitha Perera said that there are 330 vacancies for engineers in total presently.
-
-“130 have resigned last year and within the first 4 months of this year. We have a shortfall of 330 engineers because we did not recruit for those who have retired,” he said.
-
-Meanwhile, it was revealed in the COPE meeting that the Ceylon Electricity Board has incurred losses of billions of rupees by making emergency power purchases without buying the Ace Power Station when it was proposed.
-
-◼️
-
-[Data](articles/f5a67878.json)
-
-[Extended Data](ext_articles/f5a67878.ext.json)
 
 ---

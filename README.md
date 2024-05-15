@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 00:18:35**
+As of **2024-05-16 00:33:46**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,288 (100.0%) of 24,290 articles have been extended.
+24,290 (100.0%) of 24,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### பிரதமர் மீது துப்பாக்கிச் சூடு! உலகத் தலைவர்கள் கண்டனம்
+### Firing on the Prime Minister!World leaders condemn
 
 *2024-05-15 23:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-மீது-துப்பாக்கிச்-சூடு-உலகத்-தலைவர்கள்-கண்டனம்/50-337380) · `ta`
 
-சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் ஒருவரை பாதுகாப்பு தரப்பினர் கைது செய்துள்ளதாக  செய்திகள்  தெரிவிக்கின்றன.
+Security forces arrest suspect after PM Fico's shooting, condemned globally. Leaders like Ursula von der Leyen, Marcel Siolaku, Petr Fiala, Victor Orban, Rishi Sunak, Donald Tusk, Gaja Kallas, Volodymyr Zelenskyy, and Michael Martin express shock and support for Fico and democracy.
 
-பிரதமர் தற்போது உயிருக்கு ஆபத்தான நிலையில் உள்ளார் என்றும் அவர் ஹெலிகாப்டர் மூலம் அருகிலுள்ள நகரமான பான்ஸ்கா பைஸ்ட்ரிகாவிற்கு கொண்டு செல்லப்பட்டுள்ளார் என்றும் கூறப்படுகின்றது.
+🟩
 
-இந்த நிலையில், குறித்த சம்பவத்திற்கு உலக தலைவர்கள் பலர் கண்டனம் வெளியிட்டு வருகின்றனர்.
+According to reports, security forces have arrested one person on suspicion of the incident.
 
-ஐரோப்பிய ஆணையத்தின் தலைவர் Ursula von der Leyen, Fico மீதான “மோசமான தாக்குதல்” என்று அழைத்துள்ளார்.
+It is reported that the Prime Minister is currently in a state of danger and has been taken by helicopter to the nearby city of Banska Bastrica.
 
-ருமேனிய பிரதமர் மார்செல் சியோலாகு, துப்பாக்கிச் சூடு பற்றிய செய்தியால் தான் “ஆழ்ந்த அதிர்ச்சியில்” இருப்பதாகவும், குற்றவாளிகள் பொறுப்புக்கூற வேண்டும் என்றும் கூறியுள்ளார்.
+In this case, many world leaders are condemning the incident.
 
-செக் பிரதம மந்திரி Petr Fiala, துப்பாக்கிச்சூடு “அதிர்ச்சியூட்டுவதாக” கூறினார் மற்றும் Fico விரைவில் குணமடைய வாழ்த்தினார்.
+Ursula von der Leyen, the chairman of the European Commission, called the “worst attack” on FICO.
 
-ஹங்கேரியின் பிரதமர் விக்டர் ஓர்பன் கூறுகையில், “எனது நண்பரான பிரதமர் ராபர்ட் ஃபிகோவுக்கு எதிரான கொடூரமான தாக்குதலால் நான் மிகவும் அதிர்ச்சியடைந்தேன்”. என்றார்.
+Romanian Prime Minister Marcel Siolaku has said that he is “deeply shocked” and that the culprits should be held accountable.
+
+Czech prime minister Petr Fiala said the shooting was “shocking” and FICO congratulated him to heal quickly.
+
+Hungary's Prime Minister Victor Orban said, "I am very shocked by the brutal attack on my friend Robert Figo". said.
+
+British Prime Minister Rishi Sunak has said that he is shocked.. He said in x “I was shocked to hear this bad news. All our thoughts are with Prime Minister Figo and his family. ”Has posted.
 
 ...
 
 [Data](articles/8026e362.json)
+
+[Extended Data](ext_articles/8026e362.ext.json)
 
 ---
 
@@ -206,19 +214,27 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 
 ---
 
-### ජාත්‍යන්තර බැඳුම්කර හිමියන්ගේ යෝජනාව සජබ පිළි නොගනියි
+### Campaign not accepted by international bonds
 
 *2024-05-15 20:40:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-බැඳුම්කර-හිමියන්ගේ-යෝජනාව-සජබ-පිළි-නොගනියි/11-409657) · `si`
 
-ජාත්‍යන්තර බැඳුම්කර හිමියන් අප්‍රේල් මාසයේ ඉදිරිපත් කළ යෝජනාව පිළිනොගන්නා බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+Dr. Harsha de Silva, MP, announced at a press conference that the International Bonds' owners rejected a proposal made in April. He criticized the lack of response from both the government and the JVP after meeting with the President of International Bonds. De Silva highlighted concerns over the proposed terms, especially regarding the low return rate of 7% by 2028, which he believes undermines national success. He also pointed out the absence of clear communication from the government on the restructuring of local debt, suggesting it favors international creditors over locals.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ අද (15දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-"ජාත්‍යන්තර බැඳුම්කර හිමියන් ලංකාවට පැමිණි පසු ඔවුන් ජනාධිපතිවරයා , සමගි ජනබලවේග කණ්ඩායම , ජනතා විමුක්ති පෙරමුණේ කණ්ඩායම හමුවුණා.  මේ සම්බන්ධයෙන් ආණ්ඩුවේ සහ ජනතා විමුක්ති පෙරමුණේ කිසිදු ප්‍රතිචාරයක් අපි දැක්කේ නෑ. නමුත් අපි ඍජුවම කියනවා අප්‍රේල් මාසයේ ජාත්‍යන්තර බැඳුම්කර හිමියන් ඉදිරිපත් කරලා තිබෙන යෝජනාව පිළිගන්න බෑ. අපි ඒක කෙළින්ම කියනවා. ඒකට හේතුව තමයි ජාත්‍යන්තර බැඳුම්කර හිමියන්ගේ යෝජනා අනුව 2028 දී තමයි මුහුණත අගය  කපා දැමීම සිදුකරනු ලබන්නේ. දැන් යන විදියට බැලුවොත් රටේ ආර්ථිකයේ සාර්ථකත්වය  මනින්න ඔවුන් එක්සත් ජනපද ඩොලර්වලින්.
+Members of Parliament Dr. Harsha de Silva, MP, said that the International Bonds The owners would not accept the proposal in April.
+
+He was speaking at a press conference held at the Colombo Opposition Office today (15). He added:
+
+"The President of International Bonds arrived in Sri Lanka, the President met the JVP group. We did not see any response to the government and the JVP in this regard.. However, we say that the proposal presented in April cannot be accepted. We tell that straight. The reason for this is the proposals of international bond owners in 2028. If you look like it is going, the success of the country is in US dollars.
+
+That is why the cutting of part of their face depends on. By 2028, we get the face value by 2028, only 7 percent. The International Monetary Fund has not expressed their views.
 
 ...
 
 [Data](articles/5a520ef5.json)
+
+[Extended Data](ext_articles/5a520ef5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 21:03:31**
+As of **2024-05-15 21:18:28**
 
 ## Newspaper Stats
 
-*Scraped **24,280** Articles*
+*Scraped **24,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,397
 dailyftlk | 1,415
-adalk | 2,073
+adalk | 2,075
 adaderanalk | 2,819
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
-adaderanasinhalalk | 3,874
+adaderanasinhalalk | 3,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,279 (100.0%) of 24,280 articles have been extended.
+24,280 (100.0%) of 24,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### රවී වෛද්‍යාලංකාරට කෝටියක ශරීර ඇප දෙකක්
+
+*2024-05-15 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196656) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ නියෝජ්‍ය පොලිස්පති රවී වෛද්‍යාලංකාර මහතා ශරීර ඇප දෙකක් මත මුදාහරින ලෙසට අද අධිකරණය නියෝග කර තිබේ.
+
+නිවාස ලබාදෙන බවට පවසා මුදල් වංචා කර බවට පැවසෙන සිද්ධියකට අදාළ නඩුව කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේ වැඩිදුරටත් නියෝග කර ඇත්තේ ඒ මහතාව රුපියල් ලක්ෂ 100 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
+
+එසේම හිටපු නියෝජ්‍ය පොලිස්පති රවී වෛද්‍යාලංකාර මහතාට විදෙස් ගමන් තහනමක් පැනවීමට ද එහිදී අධිකරණය නියෝග කර ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් වූ නඩුව ලබන සැප්තැම්බර් මාසයේ 25 වනදා කැඳවන ලෙසට අධිකරණය වැඩිදුරටත් නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/7293c298.json)
+
+---
+
+### ලංකාවේ විශාලම හැරෆයිමා මත්ස්‍යා මිය යයි
+
+*2024-05-15 20:57:51* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-හැරෆයිමා-මත්ස්‍යා-මිය-යයි/11-409659) · `si`
+
+මත්ස්‍යයන් අනුභව කරන ලංකාවේ ව්ශාලතම මත්ස්‍යයා ලෙස සැලකෙන මසකට විශාල මුදලක් වැයකර නඩත්තු කරන ලද,  හැරෆයිමා මාළුවා අද (15දා) මියගොස් තිබේ.
+
+පසුගිය කාලයේ මෙම අපූරු මත්ස්‍යයා සමාජ මාධ්‍ය ඔස්සේ ජනප්‍රියව තිබුණි. මෙම මාළුවා අඩි අටක් දිග වන අතර වට ප්‍රමාණය අඩි තුනකි. වයස අවුරුදු 13ක් බව මාළුවාගේ හිමිකරු පැවසීය.මෙම මාළු විශේෂයේ ආහාරය වනුයේද කුඩා මාළුන්ය. පැල්මඩුල්ල රිල්හේනේ සුරංග විජයරත්න මහතාගේ පුද්ගලික මින් මැදුරේ මෙම මාළුවා ඇති කළ අතර උගේ ආහාර සඳහා කුඩා මුහුදු මත්ස්‍යයන් දිනපතා කිලෝ ගණනින් මිලදී ගෙන ලබාදී ඇත.
+
+හැරෆයිමා නම් මෙම මාළුවා අද අලුයම කාලයේ මියගොස් ඇත්තේ ඌට වෙනම ඉදිකරන තිබූ දැවැන්ත ටැංකියේ ජලය පිටවෙන ස්ථානයෙන් හදිසියේ ජලය පිටවීමෙන් පසුව බව නිවැසියෝ පවසති . සුරංග විජේරත්න මහතා විසින් විනෝදාංශයක් ලෙස සුරතල් මාළුන්ද විශේෂිත මාළුන්ද ඇති කරන අතර එම කටයුතු නඩත්තුව සඳහා මාසිකව විශාල මුදලක්ද වැය කරයි. ඔහුගේ මින් මැදුර නැරැඹීමට පාසල් සිසුහුද වෙනත් අයද පැමිණෙති . මියගිය දැවන්ත මාළුවා නැරඹීමට ද විශාල පිරිසක් පැමිණ ඇත.
+
+◼️
+
+[Data](articles/3bd85df9.json)
+
+---
 
 ### At least 16 Sri Lankans killed fighting in Russia-Ukraine war
 
@@ -53,6 +87,28 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 ...
 
 [Data](articles/5eafbd66.json)
+
+[Extended Data](ext_articles/5eafbd66.ext.json)
+
+---
+
+### මියගිය කතක නමින් ජීවත්ව සිටි බවට ලිපියක් නිකුත් කල ග්‍රාම නිළධාරී අත්අඩංගුවට
+
+*2024-05-15 20:16:21* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-කතක-නමින්-ජීවත්ව-සිටි-බවට-ලිපියක්-නිකුත්-කල-ග්‍රාම-නිළධාරී-අත්අඩංගුවට/11-409654) · `si`
+
+මියගොස් ඇති තැනැත්තියක වෙනුවෙන් ජීවත්ව සිටී බව සදහන් කරමින් ලියවිල්ලක් නිකුත්  කිරීම සම්බන්ධයෙන් ග්‍රාම නිළධාරීවරයෙකු  කළුතර කොට්ඨාශ විශේෂ අපරාධ විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර  තේක්කවත්ත ග්‍රාම නිළධාරී වසමේ මේ වනවිට රාජකාරි කරන ග්‍රාම නිළධාරී වරයා බව පොලිසිය කීය.
+
+සැකකරු වස්කඩුව, මිල්ලගහන්දිය ප්‍රදේශයේ පදිංචි කරුවෙකු බවත්  52 හැවිරිදි වියේ පසුවන බවත් සදහන් වේ.
+
+සැකකාර ග්‍රාම නිළධාරී වරයා 2021 වර්ෂයේ කළුතර ප්‍රාදේශයේ  වෙනත් ග්‍රාම නිළධාරී වසමක රාජකාරි ආවරණය  කරමින් සිටියදී මියගොස් ඇති  කාන්තාවකගේ නමට ඇය ජීවත්ව සිටී බව සදහන් කරමින් මුස්ලිම්  දේවස්ථානයක මව්ලවි වරයෙකු අමතා  ලිපියක් නිකුත්කර ඇති බව පොලිසිය සදහන් කරයි.
+
+එසේ නිකුත් කල ලිපිය රැගෙන ගිය කාන්තාව එම ලිපිය ඉදිරිපත් කර වෙනත් පුද්ගලයකුට හිමිකම් ඇති කළුතර වෙට්ටුමකඩ ප්‍රදේශයේ ඉඩමක කොටසක් වෙනුවෙන් ව්‍යාජ ඔප්පුවක් සකස්කර ගෙන ඇති බවද පොලිසිය සදහන් කරයි.
+
+...
+
+[Data](articles/c282e72a.json)
 
 ---
 
@@ -218,11 +274,15 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-(AP) — Media reports say Slovakia’s populist Prime Minister Robert Fico was injured in a shooting and taken to hospital.
+(AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
-The incident took place in the town of Handlova, some 150 kilometers northeast of the capital, according to the news television station TA3. A suspect has been detained, it said.
+The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
-◼️
+A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
+
+...
 
 [Data](articles/2b9ac6ba.json)
 
@@ -2267,79 +2327,5 @@ He underscored that these rare complications are not indicative of future advers
 [Data](articles/24323728.json)
 
 [Extended Data](ext_articles/24323728.ext.json)
-
----
-
-### Public asked not to panic over AstraZeneca vaccine
-
-*2024-05-15 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-asked-not-to-panic-over-AstraZeneca-vaccine/155-282643) · `en`
-
-Colombo, May 15 (Daily Mirror) - In the wake of the recent mass withdrawal of AstraZeneca vaccines due to concerns over rare blood clots, Sri Lanka health experts emphasized that individuals who have received the AstraZeneca vaccine need not harbour undue fears regarding its safety.
-
-Addressing the media, Dr. Ananda Wijewickrama, Chairman of the National Medicinal Drugs Regulatory Authority, referenced a case in which the manufacturer of AstraZeneca acknowledged that complications from the vaccine are exceedingly rare, a fact they had previously admitted.
-
-He underscored that these rare complications are not indicative of future adverse effects, providing reassurance on the overall safety profile of the vaccine.
-
-◼️
-
-[Data](articles/cd1157cf.json)
-
-[Extended Data](ext_articles/cd1157cf.ext.json)
-
----
-
-### Treatment for daughter;Arrest
-
-*2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளுக்கு-சிகிச்சை-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
-
-A father from Kattankudi allegedly deceived his daughter, leading to her needing kidney treatment due to damage from a fall in Jaffna. The police, acting on confidential tips, rescued the child and arrested the father after admitting her to Jaffna Bodhana Hospital, where it was found she was not ill. The case involves a 4-year-old girl in a wheelchair, highlighting a tragic situation involving deception and medical urgency.
-
-🟩
-
-A father has been arrested for allegedly lying to his daughter from Kattankudi area and for his daughter to have money for kidney treatment.
-
-A 4 -year -old girl in the Kaliyangadu market in Jaffna has left a 4 -year -old girl in a wheelchair and a girl's two kidneys have been damaged.
-
-Based on the confidential information received by the Kopay police, the police have rescued the girl and arrested the girl and arrested the person who had been admitted to the Jaffna Bodhana Hospital.
-
-A medical examination for the girl who was admitted to the hospital revealed that the girl had no health and that the girl would be healthy.
-
-During the investigation of the man who was arrested, the girl said that she belonged to Kattankudi area and the girl was her daughter.
-
-The court has also ordered the person to be interrogated and admitted the girl to the children's archive.
-
-◼️
-
-[Data](articles/69354300.json)
-
-[Extended Data](ext_articles/69354300.ext.json)
-
----
-
-### Arrested
-
-*2024-05-15 11:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்-கூறி-யாசகம்-பெற்றவர்-கைது/175-337352) · `ta`
-
-A father from Kattankudi allegedly deceived his daughter for kidney treatment funds, leading to her being hospitalized in Jaffna due to damaged kidneys. The police, acting on confidential tips, rescued the child and arrested the father after confirming the girl's poor health condition.
-
-🟩
-
-A father has been arrested for allegedly lying to his daughter from Kattankudi area and for his daughter to have money for kidney treatment.
-
-A 4 -year -old girl in the Kaliyangadu market in Jaffna has left a 4 -year -old girl in a wheelchair and a girl's two kidneys have been damaged.
-
-Based on the confidential information received by the Kopay police, the police have rescued the girl and arrested the girl and arrested the person who had been admitted to the Jaffna Bodhana Hospital.
-
-A medical examination for the girl who was admitted to the hospital revealed that the girl had no health and that the girl would be healthy.
-
-During the investigation of the man who was arrested by the police, he said that she belonged to Kattankudi area and the girl was her daughter.
-
-The court has also ordered the person to be interrogated and admitted the girl to the children's archive.
-
-◼️
-
-[Data](articles/93b04f40.json)
-
-[Extended Data](ext_articles/93b04f40.ext.json)
 
 ---

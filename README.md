@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 07:20:35**
+As of **2024-05-15 07:45:53**
 
 ## Newspaper Stats
 
-*Scraped **24,112** Articles*
+*Scraped **24,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,58 @@ adalk | 2,057
 adaderanalk | 2,798
 tamilmirrorlk | 2,826
 virakesarilk | 3,619
-dailymirrorlk | 3,787
-adaderanasinhalalk | 3,852
+dailymirrorlk | 3,790
+adaderanasinhalalk | 3,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,083 (99.9%) of 24,112 articles have been extended.
+24,090 (99.9%) of 24,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### අදත් මහ වැසි - බලපාන ප්‍රදේශ මෙන්න
+### එන්නත් 8ක් සුපරීක්ෂණ කාලයකින් තොරව ලියාපදිංචි කිරීම නීතියට පටහැනි බව හෙළිවෙයි
+
+*2024-05-15 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196634) · `si`
+
+නිර්වින්දන කටයුතු මෙන්ම මොළය ආශ්‍රිත රෝගවලට ප්‍රතිකාර කිරීම සඳහා භාවිතා කරන ශ්‍රී ලාංකික සමාගමක් විසින් නිෂ්පාදනය කළ එන්නත් වර්ග 08ක් මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බව  ඊයේ (14) අභියාචනාධිකරණය හමුවේ අවධාරණය කෙරුණි.
+
+අදාළ පුද්ගලික සමාගම විසින් නිෂ්පාදනය කළ එම එන්නත් වර්ග 8 මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා මානව හිමිකම් ක්‍රියාකාරීන් දෙදෙනෙකු වන ප්‍රණීතා. එන්. වර්ණකුලසූරිය සහ දෙව්ෂාන්. පී. බුද්ධරගේ යන අය විසින් ගොනුකළ පෙත්සමක් විභාගයට ගත් අවස්ථාවේදී පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි නීතීඥ නිල් ශාන්ත සිරිමාන්න මහතා මේ බව අවධාරණය කළේය.
+
+අභියාචනාධීකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම නඩු විභාගය පැවැත්වුණි.
+
+...
+
+[Data](articles/d81d5afc.json)
+
+---
+
+### Heavy rains today
 
 *2024-05-15 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196633) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ වර්ධනය වී පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+Sri Lanka experiences heavy rainfall across the island, especially in the Western, Central, Sabaragamuwa, and Uva provinces. The Met Department warns of possible showers and advises caution against wind and lightning risks during storms.
 
-දිවයිනේ බොහෝ පළාත්වල ප.ව. 1.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකිය.
+The rainy industry continues due to the turmoil that is near Sri Lanka near the lowest atmosphere.
 
-බස්නාහිර සහ දකුණු වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇති වේ.
+In most parts of the island. The Met Department announced that showers can occur at several places about 1.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western, Central, Sabaragamuwa and Uva provinces. Heavy showers can occur around 100.
+
+Showers will occur at the Western and southern coastal areas.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/33885fcf.json)
+
+[Extended Data](ext_articles/33885fcf.ext.json)
 
 ---
 
@@ -101,6 +123,20 @@ The AIRMAN Service Excellence Award is presented subsequent to an extensive eval
 [Data](articles/bbaa3adf.json)
 
 [Extended Data](ext_articles/bbaa3adf.ext.json)
+
+---
+
+### US State Dept. gets involved in drafting local NGO law
+
+*2024-05-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-State-Dept-gets-involved-in-drafting-local-NGO-law/108-282604) · `en`
+
+May 14 (Daily Mirror) -  The U.S. State Department has sought to intervene in the drafting of Sri Lanka's new piece of legislation that, if enacted, will provide for the registration of both local and international NGOs in the country, a top source said yesterday.
+
+The final draft of the law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now pending with the Attorney General for certification before being announced in the gazette notification and then presented to Parliament for enactment. At the moment, there are 1,786 registered NGOs operating at national level, 1,636 at district levels and 38,524 at divisional levels.
+
+...
+
+[Data](articles/130a9a2a.json)
 
 ---
 
@@ -164,6 +200,8 @@ As it has happened in the last 75 years after Independence, whenever a disaster 
 
 [Data](articles/b784fb86.json)
 
+[Extended Data](ext_articles/b784fb86.ext.json)
+
 ---
 
 ### Playing “Blind Man’s Buff” with Sri Lanka’s Free Trade Agreements: Part 2
@@ -177,6 +215,8 @@ It is important to realise that the mere reduction of an import duty at the bord
 ...
 
 [Data](articles/edf63b24.json)
+
+[Extended Data](ext_articles/edf63b24.ext.json)
 
 ---
 
@@ -198,6 +238,8 @@ Sri Lanka’s Consul General to UAE Alexi Gunasekare delivered an insightful add
 
 [Data](articles/dfe5fa3d.json)
 
+[Extended Data](ext_articles/dfe5fa3d.ext.json)
+
 ---
 
 ### Premier Ceylon Teas and Spices launches Gold Edition – 22kt Gold tea souvenir pack
@@ -215,6 +257,8 @@ Premier Ceylon is an exclusive tea company specialising in handmade teas and spi
 ...
 
 [Data](articles/ea8bc15d.json)
+
+[Extended Data](ext_articles/ea8bc15d.ext.json)
 
 ---
 
@@ -238,6 +282,8 @@ Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar yesterday said the current
 
 [Data](articles/f7fa69d8.json)
 
+[Extended Data](ext_articles/f7fa69d8.ext.json)
+
 ---
 
 ### Hakeem calls on SL Govt. to cut ties with Israel
@@ -257,6 +303,8 @@ Joining the Adjournment Debate on the Palestine Issue, Hakeem emphasised that th
 ...
 
 [Data](articles/523c673b.json)
+
+[Extended Data](ext_articles/523c673b.ext.json)
 
 ---
 
@@ -592,6 +640,22 @@ In the 64th match, Delhi Capitols, who were first invited to bat, scored 208 run
 
 ---
 
+### VRS scheme for NSB subsidiary employees gets Cabinet nod
+
+*2024-05-15 02:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VRS-scheme-for-NSB-subsidiary-employees-gets-Cabinet-nod/108-282610) · `en`
+
+The Cabinet green lighted the proposal to introduce a voluntary retirement scheme (VRS) for employees of Sri Lanka Savings Bank (SLSBL), a fully-owned subsidiary of National Savings Bank.
+
+President Ranil Wickremesinghe in his capacity as the Minister of Finance, Economic Stabilisation and National Policies sought the approval of the Cabinet of Ministers on Monday to implement the voluntary retirement scheme.
+
+SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was established in July 2006 under the Banking Act and incorporated under the provision of the Companies Act.  It commenced business on 10th of March 2008 as a state-owned Licensed Specialised Bank. The bank has acquired SLSBL as a fully-owned subsidiary of NSB by paying Rs. 3,111 million on 11th of October 2019 based on the budget proposal of 2016.
+
+...
+
+[Data](articles/1b5c3513.json)
+
+---
+
 ### அமெரிக்க அதிகாரி ஜனாதிபதியுடன் சந்திப்பு
 
 *2024-05-15 00:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-337317) · `ta`
@@ -851,6 +915,22 @@ The other beams at a 45 degree angle are unaffected by the collapse of one beam
 [Data](articles/84b8c049.json)
 
 [Extended Data](ext_articles/84b8c049.ext.json)
+
+---
+
+### FX Global Code to be rolled out by end 2024
+
+*2024-05-15 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FX-Global-Code-to-be-rolled-out-by-end-2024/108-282616) · `en`
+
+In line with the objectives to foster a deeper and more liquid foreign exchange market and develop adequate systems for managing exchange rate risks, the Central Bank (CB) plans to implement the FX Global Code (FXGC) in the domestic forex market by the end of this year.
+
+CB recently revealed that it is in discussions with the ACI Financial Markets Association and market participants to enable it to implement the anticipated FX Global Code (FXGC).
+
+“The purpose of implementing the FXGC in the domestic foreign exchange market is to provide a common set of guidelines to promote a robust, fair, liquid, open, and appropriately transparent market, in which market participants can confidently and effectively transact at competitive prices that reflect available market information,” the CB said.
+
+...
+
+[Data](articles/c2ecf7df.json)
 
 ---
 
@@ -2079,85 +2159,5 @@ He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ra
 [Data](articles/16e338a5.json)
 
 [Extended Data](ext_articles/16e338a5.ext.json)
-
----
-
-### Super Star Rajinikanth's 'Vettayan' image update
-
-*2024-05-14 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183547) · `ta`
-
-Super Star Rajinikanth has wrapped up his role in 'Vettayan', a film he also wrote and directed. The cast includes Amitabh Bachchan, Rana Daggubati, and Manju Warrier, among others. Anirudh composes the music, and Kadir handles cinematography. The film, produced by Subaskaran of Leica Productions, is set for a worldwide release in October, sparking excitement among fans.
-
-🟩
-
-Super Star Rajinikanth has been enthusiastically announced that Super Star Rajinikanth has completed his contribution in the film 'Vettayan' starring Super Star Rajinikanth.
-
-Writer and Film Director. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Bhagat Basil, Rana Dagupati, Manju Warrior, Ritika Singh, Dushara Vijayan, Kishore, Rohini, Rao Ramesh, Ramesh Dilak, Ramesh Dilk. M.. Many people, including Sundar.
-
-S.. R. Anirudh composes the film, which is being recorded by Kadir. The film is being produced as an existing entertainer and produced by producer Subhashkaran on behalf of Leica Productions.
-
-The shooting of the film has been completed in two stages and is currently underway.. In this case, the film crew has officially announced that the shooting of the film's hero, Super Star Rajinikanth, has been completed.
-
-...
-
-[Data](articles/6dd5ae97.json)
-
-[Extended Data](ext_articles/6dd5ae97.ext.json)
-
----
-
-### India extends ban imposed on LTTE for 5 years
-
-*2024-05-14 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99217/india-extends-ban-imposed-on-ltte-for-5-years) · `en`
-
-The Indian on Tuesday extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
-
-The Union Home Ministry of India imposed the ban invoking the sub-sections (1) and (3) of section 3 of the Unlawful Activities (Prevention) Act, 1967.
-
-In a notification, the home ministry said the central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
-
-It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of ‘Eelam’ (an independent country for Tamils) and has been clandestinely working towards the ‘Eelam’ cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
-
-...
-
-[Data](articles/6c19f390.json)
-
-[Extended Data](ext_articles/6c19f390.ext.json)
-
----
-
-### India extends ban imposed on LTTE for five years
-
-*2024-05-14 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-extends-ban-imposed-on-LTTE-for-five-years/155-282584) · `en`
-
-India on May 14 extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
-
-In a notification, the Home Ministry said the Central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
-
-It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of 'Eelam' (an independent country for Tamils) and has been clandestinely working towards the 'Eelam' cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
-
-...
-
-[Data](articles/1ffd0740.json)
-
-[Extended Data](ext_articles/1ffd0740.ext.json)
-
----
-
-### India extends ban imposed on LTTE for five years
-
-*2024-05-14 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-extends-ban-imposed-on-LTTE-for-five-years/108-282584) · `en`
-
-India on May 14 extended the ban imposed on the LTTE for five more years as it continues to foster a separatist tendency amongst the masses and enhance the support base for it in India, particularly in Tamil Nadu.
-
-In a notification, the Home Ministry said the Central government is of the opinion that the LTTE is still indulging in activities which are prejudicial to the integrity and security of the country.
-
-It said that even after its military defeat in May, 2009 in Sri Lanka, the LTTE has not abandoned the concept of 'Eelam' (an independent country for Tamils) and has been clandestinely working towards the 'Eelam' cause by undertaking fund raising and propaganda activities and the remnant LTTE leaders or cadres have also initiated efforts to regroup the scattered activists and resurrect the outfit locally and internationally.
-
-...
-
-[Data](articles/ca607fc8.json)
-
-[Extended Data](ext_articles/ca607fc8.ext.json)
 
 ---

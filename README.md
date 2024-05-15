@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 16:04:26**
+As of **2024-05-15 16:18:18**
 
 ## Newspaper Stats
 
-*Scraped **24,221** Articles*
+*Scraped **24,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,383
 dailyftlk | 1,415
-adalk | 2,066
+adalk | 2,067
 adaderanalk | 2,811
 tamilmirrorlk | 2,848
 virakesarilk | 3,639
 dailymirrorlk | 3,807
-adaderanasinhalalk | 3,868
+adaderanasinhalalk | 3,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,221 (100.0%) of 24,221 articles have been extended.
+24,221 (100.0%) of 24,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### සාමාන්‍ය පෙළ ලියන දරුවන්ට නිදහස් ලකුණු දෙකක්
+
+*2024-05-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196650) · `si`
+
+පැමිණිලි ලැබුණු අ.පො.ස (සා.පෙළ) විද්‍යා ප්‍රශ්න පත්‍රයේ ප්‍රශ්න දෙකක් සඳහා නිදහස් ලකුණු දෙකක් ලබාදීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+විද්‍යා ප්‍රශ්න පත්‍රයේ 09 සහ 39 ප්‍රශ්න සඳහා එලෙස නිදහස් ලකුණු දෙක ලබාදීමට තීරණය කර බව විභාග කොමසාරිස් ජනරාල්වරයා පැවසීය.
+
+◼️
+
+[Data](articles/9cc9fc28.json)
+
+---
 
 ### Passenger arrested with foreign cigarettes worth Rs. 2.1m at BIA
 
@@ -321,6 +335,24 @@ The order has been issued by Maligakanda Magistrate Lochani Abeywickrama after c
 [Data](articles/8eea8f88.json)
 
 [Extended Data](ext_articles/8eea8f88.ext.json)
+
+---
+
+### පාසල් පර්ෂද 1220ක්
+
+*2024-05-15 13:40:03* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පර්ෂද-1220ක්/11-409647) · `si`
+
+අධ්‍යාපන පරිපාලන ප්‍රතිසංස්කරණවල මූලික අදියර යටතේ දිවයින පුරා පාසල් පර්ෂද 1220ක් නිර්මාණය කර ඒවායේ අධීක්ෂණ කටයුතු සඳහා පාසල් මණ්ඩල 350ක් නිර්මාණය කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+ඒ සඳහා වන අමාත්‍ය මණ්ඩල සංදේශය ඉදිරිපත් කර ඊට අදාළ චක්‍රලේඛය ඉදිරියේ දී නිකුත් කරන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+මා අධ්‍යාපන අමාත්‍යාංශය වසර දෙකකට පෙර බාර ගන්නා අවස්ථාව වන විට ඉන්ධන පෝලිම් නිසා දරුවන්ට පාසල් යාමට නොහැකි තත්ත්වයක් ඇතිව තිබුණා. පිළිතුරු පත්‍ර පරීක්ෂකවරුන්ට ඒ සඳහා ගමන් පහසුකම් සපයා ගැනීමටවත් ඉන්ධන තිබුණේ නැහැ. ඒ වගේම පැය 14ක විදුලි කප්පාදුවක් ක්‍රියාත්මක වූ නිසා දරුවන්ට අධ්‍යාපන කටයුතුවල නිරතවීමට නොහැකි වුණා. ඒ අතර වරින් වර පාසල් වැසීමට සිදුවුණා.
+
+...
+
+[Data](articles/456d20d6.json)
 
 ---
 
@@ -2309,41 +2341,5 @@ Sri Lankan Ambassador Designate to China Majintha Jayesinghe met with the CEOs o
 [Data](articles/126efcaa.json)
 
 [Extended Data](ext_articles/126efcaa.ext.json)
-
----
-
-### LAUGFS International wins AIRMAN Service Excellence Award for 2nd consecutive year
-
-*2024-05-15 06:07:20* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-International-wins-AIRMAN-Service-Excellence-Award-for-2nd-consecutive-year/34-761818) · `en`
-
-From left:LAUGFS International Assistant Manager – Technical Ravi Nilaweera, Senior Technician Malik Aravinda, Airman Exclusive Sales Consultant Duminda Somaweera LAUGFS International Head of Business Unit Sasanka Chaturange
-
-LAUGFS International Ltd., the supplier of Japanese-made AIRMAN power products in Sri Lanka, recently received the prestigious AIRMAN Service Excellence Award for the 2nd consecutive year.
-
-Presented by AIRMAN Japan, a globally recognised brand in power generators, the award underscores LAUGFS International’s unwavering commitment to excellence in delivering unparalleled service and technical support to its diverse customers.
-
-The AIRMAN Service Excellence Award is presented subsequent to an extensive evaluation based on stringent criteria. These include the availability of state-of-the-art tools in the company’s workshops, the technical capabilities of its service teams, and several other key benchmarks.
-
-...
-
-[Data](articles/bbaa3adf.json)
-
-[Extended Data](ext_articles/bbaa3adf.ext.json)
-
----
-
-### US State Dept. gets involved in drafting local NGO law
-
-*2024-05-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-State-Dept-gets-involved-in-drafting-local-NGO-law/108-282604) · `en`
-
-May 14 (Daily Mirror) -  The U.S. State Department has sought to intervene in the drafting of Sri Lanka's new piece of legislation that, if enacted, will provide for the registration of both local and international NGOs in the country, a top source said yesterday.
-
-The final draft of the law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now pending with the Attorney General for certification before being announced in the gazette notification and then presented to Parliament for enactment. At the moment, there are 1,786 registered NGOs operating at national level, 1,636 at district levels and 38,524 at divisional levels.
-
-...
-
-[Data](articles/130a9a2a.json)
-
-[Extended Data](ext_articles/130a9a2a.ext.json)
 
 ---

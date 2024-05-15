@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 10:04:41**
+As of **2024-05-15 10:18:13**
 
 ## Newspaper Stats
 
-*Scraped **24,139** Articles*
+*Scraped **24,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,62 +15,94 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
-adalk | 2,059
+adalk | 2,060
 adaderanalk | 2,801
 tamilmirrorlk | 2,833
 virakesarilk | 3,621
-dailymirrorlk | 3,792
+dailymirrorlk | 3,794
 adaderanasinhalalk | 3,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,135 (100.0%) of 24,139 articles have been extended.
+24,139 (100.0%) of 24,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### நாட்டைவிட்டு வெளியேறவில்லை: டயானா
+### Not left the country: Diana
 
 *2024-05-15 09:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டைவிட்டு-வெளியேறவில்லை-டயானா/175-337338) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே பிரித்தானியாவுக்கு இடம்பெயரத் திட்டமிட்டுள்ளதாக வெளியான செய்திகளை இன்று (15) மறுத்துள்ளார்.
+Diana Kamage, former State Minister, denies plans to move to Britain, calling it her homeland despite rumors suggesting otherwise.
 
-“டயானா தனது தாய் நாட்டிற்குத் திரும்பப் போகிறார்” என்ற தலைப்பில் வெளியான செய்திகளுக்கு மறுப்பு வெளியிட்ட அவர், “இது எனது தாய்நாடு” என்று கூறியுள்ளார்.
+🟩
+
+Former State Minister Diana Kamage today denied reports that it is planning to relocate to Britain.
+
+He denied the news published titled "Diana returning to her mother country" and said, "This is my homeland."
 
 ◼️
 
 [Data](articles/d771f557.json)
 
+[Extended Data](ext_articles/d771f557.ext.json)
+
 ---
 
-### மாடியில் இருந்து விழுந்து பெண் உயிரிழப்பு
+### Female death
 
 *2024-05-15 09:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்து-பெண்-உயிரிழப்பு/175-337336) · `ta`
 
-கம்பளை பொலிஸ் பிரிவிற்குட்பட்ட பிஹில்லதெனிய பிரதேசத்தில் வீடொன்றின் முதல் மாடியில் இருந்து விழுந்த பெண் ஒருவர் உயிரிழந்துள்ளார்.
+A woman tragically died after falling from the first floor of her home in Bihillatheniya, under the jurisdiction of the Gampola police division.
+
+🟩
+
+A woman who fell from the first floor of a house in Bihillatheniya, which belongs to the Gampola police division, has died.
 
 ◼️
 
 [Data](articles/bb2a518a.json)
 
+[Extended Data](ext_articles/bb2a518a.ext.json)
+
 ---
 
-### வாகனங்களை ஒப்படைத்தார் டயானா
+### Diana denies reports on migration plan
+
+*2024-05-15 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-denies-reports-on-migration-plan/108-282630) · `en`
+
+Colombo, May 15 (Daily Mirror) - Former State Minister Diana Gamage today denied reports that she is planning to migrate to the UK.
+
+"This is my motherland," she said responding to a report running on websites with the headline "Diana to go back to her mother country."
+
+◼️
+
+[Data](articles/3bd970fd.json)
+
+---
+
+### Diana handed over the vehicles
 
 *2024-05-15 09:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-ஒப்படைத்தார்-டயானா/175-337335) · `ta`
 
-முன்னாள் சுற்றுலா இராஜாங்க அமைச்சர் டயானா கமகே தனது உத்தியோகபூர்வ வாகனங்கள் மூன்றை கடந்த 10ஆம் திகதி அதிகாரிகளிடம் கையளித்துள்ளார்.
+Diana Kamage, former Tourism Minister, surrendered her official vehicles to authorities after her MP status was revoked due to a dual citizenship issue. The High Court mandated she relinquish all state assets, including vehicles.
 
-இரட்டைக் குடியுரிமை விவகாரத்தில் டயானா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி உயர் நீதிமன்றத்தால் ரத்து செய்யப்பட்டது.
+🟩
 
-இதனால், அரசிடம் இருந்து பெற்ற வாகனங்கள் உட்பட அனைத்து சொத்துகளையும் அவர் ஒப்படைக்க வேண்டும்.
+Former Tourism Minister Diana Kamage has handed over his official vehicles to the authorities on the 10th.
+
+Diana Kamage's Member of Parliament on the dual citizenship issue was canceled by the High Court.
+
+Thus, he should hand over all the assets, including vehicles received from the state.
 
 ◼️
 
 [Data](articles/a5f77961.json)
+
+[Extended Data](ext_articles/a5f77961.ext.json)
 
 ---
 
@@ -92,17 +124,23 @@ Co-Chairman of the Joint Committee of University Trade Unions Dhammika S. Priyan
 
 ---
 
-### නිවසක පළමු මහලෙන් ඇද වැටී කාන්තාවක් මරුට
+### Woman dies after falling from the first floor of a house
 
 *2024-05-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196640) · `si`
 
-ගම්පොළ පොලිස් වසමේ පිහිල්ලදෙණිය ප්‍රදේශයේ කාන්තාවක් නිවසක පළමු මහළින් ඇද වැටී ජීවිතක්ෂයට පත්ව තිබේ.
+In Knisadeniya, a woman tragically fell from her home's first floor and passed away. The incident happened in the evening of March 14th.
 
-පොලීසිය සඳහන් කළේ, ඊයේ (14) සවස් කාලයේ දී එම අනතුර සිදුව ඇති බවට තොරතුරු ලැබුණු බවය.
+🟩
+
+A woman in Knakedeniya, a woman in Knisadeniya, has died after falling from the first floor of a house in the Gampola.
+
+Police said that the accident had occurred in the evening yesterday (14).
 
 ◼️
 
 [Data](articles/93a3ae4d.json)
+
+[Extended Data](ext_articles/93a3ae4d.ext.json)
 
 ---
 
@@ -133,6 +171,28 @@ Lee, who faced the Prime Minister as the Prime Minister, he paid his pleasure to
 [Data](articles/05ac7b11.json)
 
 [Extended Data](ext_articles/05ac7b11.ext.json)
+
+---
+
+### End of Lee era for Singapore as PM steps down
+
+*2024-05-15 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/End-of-Lee-era-for-Singapore-as-PM-steps-down/108-282627) · `en`
+
+Singapore, May 15 (BBC) - Singapore's long-serving Prime Minister Lee Hsien Loong is stepping down, marking the end of a political era for the island nation.
+
+After 20 years in power, Mr Lee will formally hand over the reins to deputy PM and finance minister Lawrence Wong on Wednesday night.
+
+Since becoming an independent nation in 1965, Singapore has only had three prime ministers - all from the ruling People's Action Party (PAP).
+
+The first was Mr Lee's father, Lee Kuan Yew, who is widely considered as the founder of modern Singapore and led the country for 25 years.
+
+Analysts say the transition signals an evolution in Singapore's political leadership as it moves out of the shadow of the Lee family, even though Mr Lee will remain in cabinet as a senior minister.
+
+Over the weekend in his final interview as Prime Minister with local media, he thanked Singaporeans for their support.
+
+...
+
+[Data](articles/f1c3a532.json)
 
 ---
 
@@ -1920,6 +1980,22 @@ The passengers were accused of stopping at the Horabe Railway Station at around 
 
 ---
 
+### මාස 06ක් පරීක්ෂණයන් කළ යුතු එන්නතක් මාස දෙකකින් නිෂ්පාදනයට අවසර දීලා
+
+*2024-05-14 20:14:42* · [`adalk`](https://www.ada.lk/breaking_news/මාස-06ක්-පරීක්ෂණයන්-කළ-යුතු-එන්නතක්-මාස-දෙකකින්-නිෂ්පාදනයට-අවසර-දීලා/11-409639) · `si`
+
+මාස 06ක කාලයක පරීක්ෂණයන්ට යටත් විය යුතු එන්නතක් මාස දෙකක කාලයක් තුළ නිෂ්පාදනයට අවසර දීමෙන් ජාතික ඖෂධ නියාමන අධිකාරිය නීතියට පටහැණිව කටයුතු කර ඇතැයි නීතිඥ නිල් ශාන්ත සිරිමාන්න මහතා අභියාචනාධිකරණයට ඊයේ (14දා) දැනුම් දුන්නේය.නිර්වින්දන ඇතුළු වෙනත් රෝග සඳහා භාවිත කරන එන්නත් 08 ක් නිෂ්පාදනය කිරීමට ජාතික ඖෂධ නියාමක අධිකාරිය නීතියට පටහැණිව දුන් අනුමැතිය වළකාලන්නැයි ඉල්ලමින් සමාජ ක්‍රියාකාරිකයන් දෙදෙනෙකු  ගොනු කර ඇති පෙත්සම කැඳවූ අවස්ථාවේදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥ නිල් ශාන්ත සිරිමාන්න මහතා එසේ දැනුම් දුන්නේය.
+
+අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ෂශි මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සැදුම්ලත් අභියාචනාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම සලකා බැලිණ.
+
+සමාජ ක්‍රියාකාරිකයන් දෙදෙනෙකු වන ප්‍රණීතා වර්ණකුලසූරීය සහ ඩී.පී. බුද්ධරගේ මහත්මා මහත්මින් විසින් ගොනුකර ඇති මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජාතික ඖෂධ නියාමන අධිකාරිය ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/4b89149b.json)
+
+---
+
 ### Need a new agricultural movement instead of old plantation industry
 
 *2024-05-14 20:08:07* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-වැවිලි-කර්මාන්තය-වෙනුවට-නව-කෘෂි-ව්‍යාපාරයක්-ඕන/11-409638) · `si`
@@ -2095,87 +2171,5 @@ The suspect was produced before the Polgahawela Magistrate's Court today (5/14) 
 [Data](articles/4000946e.json)
 
 [Extended Data](ext_articles/4000946e.ext.json)
-
----
-
-### Here is the latest story of the Russian tragedy
-
-*2024-05-14 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196626) · `si`
-
-Sri Lankans, including Premasiri Abeykoon, a former commando, have been sent to Russia for military service. Their families demand intervention for their return, claiming they're given privileges. A group handed over a memorandum to the Russian embassy and the UN's Sri Lanka Office, seeking help.
-
-🟩
-
-Ada Derana continued reveals regarding the Russian military service is further revealed in various parts of the island.
-
-As a photo of a person who was sent to the Russian war, the Sri Lankans have also been sent to us.
-
-Although the number of Sri Lankans who have left for Russia has not yet calculated, there are many other people with Ada Derana.
-
-Premasiri Abeykoon, who had been in the Regiment of the Sri Lanka Army's commando regiment, who had been in the Regiment of the Sri Lanka Army's Commando Regiment, a resident of Watagamuwawela.
-
-However, since March, no information on Premasiri has been received from March.
-
-We have also received several photos of this witness to Russia, claiming that they were given various privileges.
-
-In the meantime, there is a person who works in Russia as the trustee of Sri Lankans.
-
-The relatives of many who have gone to Russia say that they are provided with comfort and direct the Russian front ring.
-
-...
-
-[Data](articles/08b40f7d.json)
-
-[Extended Data](ext_articles/08b40f7d.ext.json)
-
----
-
-### Displeasure in the Finance Committee
-
-*2024-05-14 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196625) · `si`
-
-The Cash Committee of the Department of Finance and Emigration expressed displeasure, citing the Department of Immigration and Emigration's inability to attend a meeting under MP Dr. Harsha de Silva's patronage. The committee, chaired by Dr. Harsha de Silva, criticized the lack of respect shown by the absence.
-
-🟩
-
-The Cash Committee of the Department of Cashion The Department of Cashion The Cashier Business of the Department of Finance and Emigration has the first displeasure of the Department of Immigration and Emigration.
-
-The Committee on Currency Dr. Harsha de Silva met today under the patronage of MP Dr. Harsha de Silva today.
-
-It is said that when the committee met before, the ministry and the officers of the department have agreed to visit the Committee today.
-
-However, the Department of Immigration and Emigration has said that he cannot attend the committee by carrying out yesterday evening.
-
-The Chairman, MP Dr. Harsha de Silva said that the Committee on the Monetary Committee today, the Committee Dr. Harsha de Silva said that the Committee is not respectful.
-
-◼️
-
-[Data](articles/6d11b85b.json)
-
-[Extended Data](ext_articles/6d11b85b.ext.json)
-
----
-
-### The Ministry of Immigration and Emigration has no discussion on visa issue
-
-*2024-05-14 19:20:44* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ගැටලුව-ගැන-සාකච්ඡාවට-අමාත්‍යාංශයත්-ආගමන-විගමන-දෙපාර්තමේන්තුවත්-නෑ/11-409633) · `si`
-
-The Ministry of Immigration and Emigration did not discuss visa issues, despite prior notice of online visas for foreigners. The Public Finance Committee noted the absence of the Department of Immigration and Emigration. The Chairman criticized the Ministry and Department for not attending the committee meeting, especially after office hours, and questioned the approval process. The committee discussed the appointment of GBS-IVS and VFS Global Companies as authorized representatives for foreigners visiting Sri Lanka.
-
-🟩
-
-Despite the pre-informed of online visas for foreign visas for foreign visas, the Public Finance Committee commented on the absence of the Department of Immigration and Emigration.
-
-The Chairman of the Committee pointed out that the committee of the Ministry and the officials of the Department participated in the committee today and not to come to the committee today.
-
-He further stated that this notification has taken place, especially after office hours, and the freedom cannot be approved.. As a result, the Ministry and the department decided to discuss the Committee on behalf of Sri Lanka and discussing the appointment of GBS-IVS and VFS Global Companies as the Authorized Representative for Foreigners to Sri Lanka.
-
-The Committee on Public Finance was given when the Committee met with Hon. (Dr.) Harsha De Silva today (14).
-
-◼️
-
-[Data](articles/e237b622.json)
-
-[Extended Data](ext_articles/e237b622.ext.json)
 
 ---

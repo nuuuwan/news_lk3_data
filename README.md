@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 17:34:01**
+As of **2024-05-15 17:54:30**
 
 ## Newspaper Stats
 
@@ -26,67 +26,89 @@ adaderanasinhalalk | 3,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,231 (100.0%) of 24,236 articles have been extended.
+24,236 (100.0%) of 24,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### பணிப்பெண்ணின் 13 இலட்சம் ஏப்பம்
+### The maid's 13 lakhs
 
 *2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ஏப்பம்/76-337369) · `ta`
 
-குவைட்டில் இரண்டு வருடங்களாக பணிப்பெண்ணாக  பணியாற்றி அரச வங்கியில் வைப்பிலிட்ட 13, 44, 000  (பதின்மூன்று இலட்சத்து நாற்பத்தி நான்காயிரம்)  ரூபாய் பணம் மாயமான சம்பவம் பொகவந்தலாவை பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு உரிய வங்கிக்கணக்கில் இடம்பெற்றுள்ளது.
+A maid in Kuwait earned 13 lakh 44 thousand rupees over two years and deposited it in a bank in Sri Lanka. Upon return, she found only 1,046 rupees in her account. Investigations reveal discrepancies and missing documents, leading to suspicions of fraud.
 
-பொகவந்தலாவை, பொலிஸ் பிரிவுக்கு உட்பட்ட எல்பட கீழ் பிரிவை சேர்ந்த நித்தியஜோதியம்மா சுந்தரலிங்கம்  என்பவருக்குச் சொந்தமான பணமே இவ்வாறு மாயமாகியுள்ளது.
+🟩
 
-குடும்ப வறுமைக்காரணமாக 2022 ஆம் ஆண்டு வெளிநாட்டிற்கு வீட்டுப்பணிப்பெண்ணாக வேலைக்குச் சென்ற இப்பெண் (நித்தியஜோதியம்மா சுந்தரலிங்கம்) , தனது மாதாந்த சம்பளத்தை அரச வங்கியொன்றில் வைப்பு செய்துள்ளார்.
+13, 44, 000 (thirteen hundred and forty -four thousand rupees), who worked as a maid in Kuwait for two years, has taken a bank account for a woman from Bogawantalawa.
 
-இரண்டு வருடங்கள் வெளிநாட்டில் வேலை செய்து விட்டு 2024 ஏப்ரல் 28 ஆம் திகதி நாடு திரும்பியுள்ளார். இரண்டு நாட்கள் கழித்து ஏப்ரல் 30 ஆம் திகதியன்று குறித்த வங்கிக்குச் சென்று  பணத்தை மீளப்பெறுவதற்கான சிலிப்பை நிரப்பி கொடுத்துள்ளார்.
+The money belonging to Nithyajodiamma Sundaralingam, a lower section of the police division, belonging to the Bogawantalawa, police division.
+
+The woman (Nithyjodiamma Sundaralingam), who went to work as a homework in 2022 as a family poverty, has deposited her monthly salary at a state bank.
+
+He returned to the country on April 28, 2024 after leaving work abroad for two years. Two days later, on April 30, he went to the bank and filling the money to recover the money.
+
+The large amount of money written in Chilip is not in the account and that the bank has only Rs 1,046, the bank official said.
+
+Bank officials said that 13 lakhs 44 thousand 859 rupees had been recovered from the bank account.
 
 ...
 
 [Data](articles/d770b607.json)
 
+[Extended Data](ext_articles/d770b607.ext.json)
+
 ---
 
-### මිලියන 9කට ආසන්න මත්ද්‍රව්‍ය තොගයක් කොටුවෙයි
+### Nearly 9 million drug caught
 
 *2024-05-15 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196653) · `si`
 
-මධ්‍යම තැපැල් හුවමාරුව වෙත විදෙස් රටවල් කිහිපයක සිට පැමිණි පාර්සල් කිහිපයක තිබී මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
+Sri Lanka Customs intercepted nearly 9 million rupees worth of drugs in suspicious parcels from Canada, England, and Netherlands. The haul included 150 ecstasy pills, 466 grams of cannabis, and 10 grams of cocaine. Investigations revealed false addresses; the parcels will be investigated further by the SLFP's Narcotics Bureau.
 
-ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සිදුකළ ආවේක්ෂණ රාජකාරීවලදී මෙරටට එවා තිබූ සැකසහිත පාර්සල් කිහිපයක තිබී මෙම මත්ද්‍රව්‍ය සොයාගෙන ඇත.
+🟩
 
-එහි තිබී මත්පෙති 150ක්, කුෂ් ග්‍රෑම් 466ක් සහ කොකේන් ග්‍රෑම් 10ක් සොයාගෙන තිබේ.
+A large quantity of drugs have been found in several parcels from several foreign countries to the Central Mail Exchange.
 
-එම මත්ද්‍රව්‍යවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 9කට ආසන බව රේගුව පවසයි.
+The drug has been found in several suspicious parcels that were sent to Sri Lanka at several sustained parcel.
 
-රේගුව වැඩිදුරටත් සඳහන් කරන්නේ එම මත්ද්‍රව්‍ය සහිත පාර්සල් කැනඩාව, එංගලන්තය සහ නෙදර්ලන්යේ සිට දෙහිවල, වැල්ලවත්ත, වේයන්ගොඩ සහ අනුරාධපුරය යන ප්‍රදේශවල පදිංචි පුද්ගලයින් වෙත ඒවා තිබුණි.
+There were 150 drugs, 466 grams of kus and 10 grams of cocaine.
 
-කෙසේ වෙතත් වැඩිදුරටත් සිදුකර ඇති විමර්ශනවලදී අනාවරණය වී ඇත්තේ එම මෙරට ලිපිනයන් ව්‍යාජ බවය.
+Customs say that the market value of the drug is seats for Rs 9 million.
 
-ශ්‍රී ලංකා රේගුවේ විමර්ශන අවසානයේ මෙම මත්ද්‍රව්‍ය අඩංගු පාර්සල් වැඩිදුර විමර්ශන කටයුතු සඳහා ශ්‍රී ලංකා පොලීසියේ මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාරදීමට නියමිතව ඇත.
+Customs further stated that they were residents from Canada, England and Netherlan to Dehiwala, Wellawatte, Wellawatte, Veyangoda and Anuradhapura.
+
+However, investigations have revealed that the addresses were false.
+
+The Parcel, which contains the drug at the end of the Sri Lanka Customs investigation, is due to be handed over to the SLFP's Narcotics Bureau for further investigations.
 
 ◼️
 
 [Data](articles/5b3dae4d.json)
 
+[Extended Data](ext_articles/5b3dae4d.ext.json)
+
 ---
 
-### O/L விஞ்ஞானத்துக்கு 2 புள்ளிகள் இலவசம்
+### 2 points free for O/L science
 
 *2024-05-15 16:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விஞ்ஞானத்துக்கு-2-புள்ளிகள்-இலவசம்/175-337367) · `ta`
 
-நடந்துமுடிந்த கல்விப்பொதுத் தராதர சாதாரணதரப் பரீட்சையின் விஞ்ஞான  வினாக்கள் இரண்டுக்கு இரண்டு இலவச புள்ளிகளை வழங்க தீர்மானிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம்  ஆந்த் ஜயசுந்தர தெரிவித்தார்.
+Ant Jayasundara, Commissioner General of Examinations, announced that the GCE Ordinary Level Exam will offer two free points for the 9th and 39th science questions due to concerns raised about the science section.
 
-விஞ்ஞானப் பாடத்தின் 9 மற்றும் 39 ஆகிய வினாக்களுக்கே இலவசமாக இரண்டு புள்ளிகளை வழங்க தீர்மானிக்கப்பட்டுள்ளதாகவும் பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.
+🟩
 
-கல்விப் பொதுத் தரப் பரீட்சையின் விஞ்ஞான வினாத்தாள், ஒதுக்கீட்டுத் திட்டத்திற்குப் புறம்பாக தயாரிக்கப்பட்டதாக எழுந்த குற்றச்சாட்டுக்கள் தொடர்பில் அவதானம் செலுத்தி இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் மேலும் தெரிவித்துள்ளார்.
+The Commissioner General of Examinations Ant Jayasundara said that the scientific questions of the GCE Ordinary Level Examination have been decided to provide two free points.
+
+The Commissioner General of Examinations said that it has been decided to provide two points for free for the 9th and 39th of the science course.
+
+The Commissioner General of Examinations added that the action has been taken to pay attention to the allegations that have been prepared in the field of Science Questionnaire of the Education General Examination.
 
 ◼️
 
 [Data](articles/223a1e2b.json)
+
+[Extended Data](ext_articles/223a1e2b.ext.json)
 
 ---
 
@@ -105,6 +127,8 @@ Therefore, the attorney requested the court to issue a restraining order to prev
 ...
 
 [Data](articles/468a1862.json)
+
+[Extended Data](ext_articles/468a1862.ext.json)
 
 ---
 
@@ -552,21 +576,29 @@ About 200 officers were deployed for Mohammed Ami search operations and they wer
 
 ---
 
-### කොළඹ ගංවතුර අවම කිරිමේ ව්‍යාපාති කඩිනම් කරයි
+### Expedite floods to reduce floods
 
 *2024-05-15 13:46:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ගංවතුර-අවම-කිරිමේ-ව්‍යාපාති-කඩිනම්-කරයි/11-409648) · `si`
 
-කොළඹ හා ඒ අවට ප්‍රදේශවල ගංවතුර අවම කිරීම සදහා ක්‍රියාත්මක ව්‍යාපෘති  කඩිනම් කරන්නැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නිලධාරීන්ට උපදෙස් දෙයි.
+Prasanna Ranatunga, Minister of Urban Development and Housing, directs the Land Development Corporation to launch seven projects aimed at reducing floods in Colombo and its surroundings. These initiatives are divided into short-term, medium-term, and long-term strategies, focusing on improving drainage systems, controlling rainwater, and maintaining flood control systems. Two projects, costing Rs. 203 million, are set to complete this year, alongside the completion of the current pampatone's development project and the establishment of Gate Mount Pumps at Black Bridge. Additionally, efforts are underway to remove invasive plants and clean urban canals, with a budget of Rs. 295 million allocated for canal maintenance.
 
-ප්‍රමුඛතාවය හදුනාගෙන මෙම ව්‍යාපෘති ක්‍රියාත්මක කරන ලෙසද ඇමතිවරයා වැඩි දුරටත් උපදෙස් දුන්නේය.  ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාව කොළඹ හා ඒ අවට ප්‍රදේශවල ගංවතුර අවම කිරීම සදහා විශේෂ ව්‍යාපෘති 07ක් ක්‍රියාත්මක කරයි.
+🟩
 
-ඇමති ප්‍රසන්න රණතුංග මහතා පවසන්නේ කොළඹ හා තදාසන්න ප්‍රදේශ වල ගංවතුර අවම කිරීමේ ව්‍යාපෘතිය අදියර 03ක් යටතේ ක්‍රියාත්මක බවයි. කෙටි කාලීන, මධ්‍ය කාලීන හා දීර්ඝ කාලීන ව්‍යාපෘති ලෙස මෙම වැඩ සටහන ක්‍රියාත්මක වෙයි.
+Minister of Urban Development and Housing Prasanna Ranatunga instructs the officials of the Land Development Corporation to reduce floods in Colombo and surrounding areas.
 
-කොළඹින් පිට ජලාප්‍රවාහන කටයුතු වැඩිදියුණු කිරීම හා නාගරික භූමි අලංකරණ ව්‍යාපෘතිය, පැලන්ගස්තුඩුවේ පොම්පාගාර ව්‍යපෘතිය වැසි ජල පොම්පාගාර ගංවතුර දොරටු ඇතුලු ගංවතුර පාලන පහසුකම් ක්‍රියාතක්මක කිරීමේ හා නඩත්තු කිරීමේ ව්‍යාපෘතිය, ඒකාබද්ධ ගංවතුර කළමණාකරණ පද්ධති සහ ත්‍යතයකාලීන පාලන දත්ත ම්‍යධස්ථාන සදහා ස්ථාපිත පහසුකම් ක්‍රියාත්මක කිරීමේ හා නඩත්තු කිරීමේ ව්‍යාපෘතිය,
+The Minister further instructed that the priority was identified and implementing these projects.Land Development Corporation launches seven special projects to reduce floods in Colombo and surrounding areas.
+
+Minister Prasanna Ranatunga says the flood reduction of flood reduction in Colombo and suburbs is being implemented in three phases. The program works as short-term, medium term and long-term projects.
+
+Improvement of drainage activities outside Colombo and urban land control factory, including rain water control facilities and maintenance facilitation and maintenance project for joint flood control system and maintenance project controlment project,
+
+The Drainage Improvement Project of the Chief Development Plan of Piliyandala, Drainage Improvement Project and the high catchment area of the parliament is 7 projects.
 
 ...
 
 [Data](articles/fb5d7612.json)
+
+[Extended Data](ext_articles/fb5d7612.ext.json)
 
 ---
 

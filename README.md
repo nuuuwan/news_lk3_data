@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 22:05:51**
+As of **2024-05-15 22:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,284 (100.0%) of 24,285 articles have been extended.
+24,285 (100.0%) of 24,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,17 +132,23 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 
 ---
 
-### කවුරු මොනවා කීවත් ඊශ්‍රායලයට ශ්‍රමිකයින් යවන එක නවත්වන්නේ නෑ
+### It does not stop send to Israel to Israel if anyone says
 
 *2024-05-15 20:24:56* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-මොනවා-කීවත්-ඊශ්‍රායලයට-ශ්‍රමිකයින්-යවන-එක-නවත්වන්නේ-නෑ/11-409655) · `si`
 
-ශ්‍රි ලංකාව නොබැඳි ජාතීන්ට අයත් රටක් වන බැවින් වෙනත් රටවල දේශපාලන කටයුතුවලට බලපෑම් කළ නොහැකි බවත්, පාර්ලිමේන්තුවේ උද්ඝෝෂණ කිරීමෙන් ඊශ්‍රායල් යුද්ධය නතර කිරීමට නොහැකි බවත්, කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා සඳහන් කරයි. විපක්ෂ නායක සජිත් ප්‍රේමදාස ඇතුළු විපක්ෂයේ ඇතැම් දේශපාලන කණ්ඩායම් මුස්ලිම් ජනතාවගේ ජන්ද ලබාගැනීමේ අරමුණෙන්, ශ්‍රි ලංකාවේ තරුණයින්ගේ අනාගතය බිල්ලට ගෙන ඇති බව අමාත්‍යවරයා වැඩිදුරටත් ප්‍රකාශ කලේය. අමාත්‍යවරයා මේ අදහස් පළකළේ අද දින (5/15) විදේශ සේවා නියුක්ති කාර්යාංශයේදී පැවැති වැඩසටහනකට එක්වෙමිනි.
+Sri Lanka, as a non-aligned nation, cannot allow its political activities to be influenced by others. Despite protests, the government plans to continue sending workers to Israel, emphasizing the importance of foreign employment for economic stability. The Minister criticizes opposition leader Sajith Premadasa for politicizing this issue, accusing him of seeking Muslim votes through divisive tactics.
 
-“ජේ.වී.පි එක මාතර තිබුණ රැලියේදී තරුණයෝ රට රැකියාවලට නතර කරන්න කිව්වා. ඊශ්‍රායලයේ රැකියා සඳහා යවන්න එපා කිව්වා. විපක්ෂ නායක සජිත් ප්‍රේමදාස පාර්ලිමේන්තුවේදි කිව්වා ඊශ්‍රායලයට ශ්‍රමිකයෝ යවන්න එපා, ඊශ්‍රායල් තානාපති සබඳතා නවත්තන්න කියලා. රාවුෆ් හකීම් කියනවා අපි ශ්‍රමිකයෝ යවන්නේ පලස්තීනේ අය වැඩ කරපු තැන්වල වැඩකරන්න කියලා. අපි නොබැඳි රටක්. අපි වෙනත් රටවල දේශපාලන ප්‍රශ්නවලට අතදාන එක වැරදියි.
+🟩
+
+Sri Lanka is a non-aligned nations, the political activities of other countries cannot be influenced by other countries and the protests of parliament is unable to stop the war, Minister of Labor and Foreign Employment Minister Manusha Nanayakkara. The Minister further stated that some political groups of the opposition leader Sajith Premadasa have been sacrificed to obtain the votes of the Muslim people and the future of Sri Lanka.. He was speaking at a program held at the Foreign Employment Bureau today (5/15).
+
+"When the JVP Matara was in Matara, the youth asked to stop the country to work. No send for the jobs in Israel. Opposition Leader Sajith Premadasa told Israeli not to send workers to Israel, to stop Israeli embassy relations. Rauf Hakeem says workers are sent to work at the places of Palestine. We are a non-aligned country. It is wrong for us to have political issues in other countries.
 
 ...
 
 [Data](articles/dc27b79d.json)
+
+[Extended Data](ext_articles/dc27b79d.ext.json)
 
 ---
 

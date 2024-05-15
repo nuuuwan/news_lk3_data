@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 10:33:49**
+As of **2024-05-15 10:52:08**
 
 ## Newspaper Stats
 
-*Scraped **24,144** Articles*
+*Scraped **24,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,308
 economynextcom | 1,377
 dailyftlk | 1,415
 adalk | 2,060
-adaderanalk | 2,802
-tamilmirrorlk | 2,833
+adaderanalk | 2,803
+tamilmirrorlk | 2,834
 virakesarilk | 3,621
 dailymirrorlk | 3,794
-adaderanasinhalalk | 3,860
+adaderanasinhalalk | 3,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,142 (100.0%) of 24,144 articles have been extended.
+24,144 (100.0%) of 24,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### විජයදාසගේ විරෝධතා ඉවතට - දුමින්ද ඉල්ලූ වාරණයට ඉඩ
+
+*2024-05-15 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196642) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා පත්කිරීම අභියෝගයට ලක් කරමින් එහි වැඩබලන මහ ලේකම් දුමින්ද දිසානායක මහතා විසින් ඉදිරිපත් කළ පෙත්සමට අදාළ වාරණ නියෝගය පිළිබඳව කරුණු සලකා බැලීමට කොළඹ දිසා අධිකරණය අද (15) අවසර ලබා දුන්නේය.
+
+මෙම පත්වීමට අදාළව කඩුවෙල දිසා අධිකරණය විසින් වාරණ නියෝගයක් නිකුත් කර ඇති නිසා පැමිණිලිකරු ඉල්ලා සිටින වාරණ නියෝගය නිකුත් කළ නොහැකි බවට විජයදාස රාජපක්ෂ මහතාගේ නීතිඥවරු ඊයේ (14) දින විරෝධතා මතු කර තිබිණි.
+
+ඒ අනුව දුමින්ද දිසානායක මහතා ඉල්ලා සිටින වාරණ නියෝගය සම්බන්ධයෙන් තවදුරටත් කරුණු ඉදිරිපත් කිරීමට ඒ මහතාගේ නීතිඥවරුන්ට අවසර ලබා දෙන බව නියෝගයේ සඳහන් වුණි.
+
+එම වාරණ නියෝගය පිළිබඳව වැඩිදුරටත් අද දහවල් කරුණු දැක්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/18a61384.json)
+
+---
+
+### சா/த பரீட்சார்த்திகள்(மாணவிகள்)  இருவர் மாயம்
+
+*2024-05-15 10:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சா-த-பரீட்சார்த்திகள்-மாணவிகள்-இருவர்-மாயம்/76-337341) · `ta`
+
+இன்றுடன் நிறைவடையும் கல்விப்பொதுத் தராதர சாதாரணத் பரீட்சை மத்திய நிலையத்துக்கு வருகைதந்த பாடசாலை மாணவிகள் இரவர்,  வீட்டுக்குத் திரும்பவில்லை என, அந்த மாணவிகள் இருவரின் பாதுகாவலர்கள் முறைப்பாடு செய்துள்ளனர் என கினிகத்ஹேன பொலிஸார் தெரிவித்தனர்.
+
+இவ்விரு மாணவிகளும் செவ்வாய்க்கிழமை (14)  பரீட்சைக்குத் தோற்றுவதற்காக, பரீட்சை மத்தியநிலையத்துக்கு வந்துள்ளனர். அதிலொரு மாணவி, பெற்றோருடன் பரீட்சை மத்திய நிலையத்துக்கு வந்துள்ளனர் என முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+இவ்விரு மாணவிகளும் நண்பிகள் என்றும், பரீட்சை ஆரம்பிப்பதற்கு முன்னர் பரீட்சை மத்திய நிலையத்துக்கு அண்மையில் இவ்விருவரும் நீண்டநேரம் கதைத்துக்கொண்டிருந்ததை பரீட்சைக்குத் தோற்றிய மாணவிகள் பலரும் கண்டுள்ளனர் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/06270c1d.json)
+
+---
+
+### Woman falls to death from first floor of house in Gampola
+
+*2024-05-15 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99226/woman-falls-to-death-from-first-floor-of-house-in-gampola) · `en`
+
+A woman has reportedly died after falling from the first floor of a house in Pihilladeniya area in the Gampola police division.
+
+Police said that according to the information received, the accident had occurred last evening (14).
+
+The body of the deceased, a 35-year-old resident of Narangwita area in Pihilladeniya, has been placed in Gampola Hospital, police said.
+
+◼️
+
+[Data](articles/b08df74b.json)
+
+---
 
 ### 264 new leprosy patients identified in Sri Lanka so far this year
 
@@ -48,27 +98,35 @@ She further stated that in 2023, a total of 1,580 leprosy patients were reported
 
 [Data](articles/76cedb23.json)
 
+[Extended Data](ext_articles/76cedb23.ext.json)
+
 ---
 
-### සාපෙළ ලියන්න ගිය සිසුවියන් දෙදෙනා අතුරුදන්
+### The two students who were receiving constably written
 
 *2024-05-15 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196641) · `si`
 
-අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට ඊයේ (14) දින විභාග මධ්‍යස්ථානය වෙත පැමිණි පාසල් සිසුවියන් දෙදෙනෙකු ආපසු සිය නිවාස වෙත නොපැමිණි බව පවසමින් ඔවුන්ගේ භාරකරුවන් විසින් ගිනිගත්හේන පොලීසියට පැමිණිලි කර තිබේ.
+Two students from Agradhahena and Nawalapitiya arrived at the Ambagamuwa National School for the GCE Ordinary Level exam. Guards complained to the Ginigathena Police about them. The police are investigating after discovering the students spoke suspiciously before entering the exam center.
 
-අදාළ සිසුවියන් දෙදෙනා ඊයේ උදෑසන විභාගයට පෙනී සිටීම සඳහා අඹගමුව ජාතික පාසලේ විභාග මධ්‍යස්ථානය වෙත පැමිණ ඇත.
+🟩
 
-ඉන් එක් සිසුවියක් දෙමාපියන් සමග විභාග මධ්‍යස්ථානය වෙත පැමිණ ඇති බව පැමිණිල්ලේ සඳහන් වේ.
+The guards have lodged a complaint with the Ginigathena Police claiming that two students who arrived at the Examination Center yesterday (14) to sit for the GCE Ordinary Level examination.
 
-ගිනිගත්හේන, අග්‍රඔය සහ නාවලපිටිය නාගස්තැන්න ප්‍රදේශයේ පදිංචි එම සිසුවියන් දෙදෙනා මිතුරියන් බවට තොරතුරු අනාවරණය වී තිබේ.
+The two girls have arrived at the Ambagamuwa National School to sit for the examination yesterday.
 
-ඔවුන් දෙදෙනා විභාග මධ්‍යස්ථානය අසල විභාගය ආරම්භ වීමට පෙර කතා කරමින් සිටි බවට සිසුන් කිහිපදෙනෙකු දැක ඇති අතර, ඉන් මද වේලාවකට පසු ඔවුන් නාවලපිටිය නගරයේ නිල ඇඳුමින් සිට ඇති බවත් සිදුකළ මුලික විමර්ශනවලදී පොලීසියට අනාවරණය වී ඇත.
+One student has come to the examination center with parents.
 
-අතුරුදන් වූ සිසුවියන්ගේ තොරතුරු මේ වනවිට සියලු පොලිස් ස්ථාන වෙත යොමු කර ඇති අතර, ඒ සම්බන්ධයෙන් ගිනිගත්හේන පොලීසිය පුළුල් විමර්ශනයක් ආරම්භ කර ඇති බවත් වාර්තා වේ.
+It has been revealed that the two students were families residing in Agradhahena, Agradha, Agra, Agra, Nawigashena, Nawalapitiya.
+
+The police have revealed that the two students were speaking before they were talking before the examination center.
+
+The information disappeared has been sent to all police stations and is said to have commenced a broad investigation.
 
 ◼️
 
 [Data](articles/182d706d.json)
+
+[Extended Data](ext_articles/182d706d.ext.json)
 
 ---
 
@@ -2099,71 +2157,5 @@ A2P Project is a program that operates the National Latestal Control Movement (A
 [Data](articles/a8193ae1.json)
 
 [Extended Data](ext_articles/a8193ae1.ext.json)
-
----
-
-### 1.2 medical officers to 1000 per population
-
-*2024-05-14 19:54:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනගහනය-අනුව-1000ට-වෛද්‍ය-නිලධාරීන්-1-2ක්/11-409636) · `si`
-
-Sri Lanka has 1.2 medical officers per 1000 population, with 35,528 registered doctors under the Sri Lanka Medical Council. The Health Minister revealed the number of hospitals and beds, including 1,101 central state-owned hospitals, 190 private hospitals, and 41,109 beds in Provincial Councils. There's a concern about the outdated cart system and a shortage of cards, with instructions to build a new one.
-
-🟩
-
-The population has 1.2 medical officers at the sickness rate and that 1000 population has 4 illness by the rate of illness.
-
-It was also revealed that 35,528 registered doctors under the Sri Lanka Medical Council.
-
-The Health Minister of Health has revealed this to a question referred to as a question referred to in Parliament yesterday (14) with the prospect of verbal answered in Parliament yesterday (14).
-
-Health Minister of Health Dr. Seeetha Ariyapola - Sri Lanka's central state-owned hospitals. There are 1,101 hospitals belonging to the Provincial Councils. The number of hospitals belonging to the private sector in Sri Lanka is 190. 45,713 in central government hospitals are 45,713. The number of beds of the Provincial Councils is 41,109. The number of beds of private hospitals is 5381. In addition, there are 2,964 health institutions in the Ministry of Ministries and Departments.
-
-...
-
-[Data](articles/d7841dfb.json)
-
-[Extended Data](ext_articles/d7841dfb.ext.json)
-
----
-
-### Attack on a prison vehicle in France - two officers killed - prisoner escape
-
-*2024-05-14 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183557) · `ta`
-
-In France, two prison officials were killed in an attack on a prison vehicle, and the prisoner being transported to court escaped. Over a hundred police are searching for the fugitive.
-
-🟩
-
-Two prison officials have been killed in an attack on a prison vehicle in France while the prisoner who was taken to court has fled.
-
-Meanwhile, more than a hundred police have been searching for the incident.
-
-◼️
-
-[Data](articles/57bc67a0.json)
-
-[Extended Data](ext_articles/57bc67a0.ext.json)
-
----
-
-### 56 ambulances in Sukara
-
-*2024-05-14 19:43:34* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියේ-ගිලන්-රථ-56ක්-’කොට-උඩ’/11-409635) · `si`
-
-Opposition Leader Sajith Premadasa criticized the government for 56 ambulances being out of service due to a lack of drivers and technicians. He highlighted the urgent need for state attention to address this issue. Minister Susil Premajayath responded by announcing a new ambulance campaign, assuring the Health Ministry's involvement.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that 56 ambulances were unable to use 56 ambulances in the 1990s.
-
-He said that today (14) a statement in parliament today, he said that the emergency medical technical technicians and drivers had left the country.
-
-The Leader of the House, Minister Susil Premajayath said that a new ambulance campaign will be implemented and the Health Ministry will address the matter.
-
-...
-
-[Data](articles/a1bebff6.json)
-
-[Extended Data](ext_articles/a1bebff6.ext.json)
 
 ---

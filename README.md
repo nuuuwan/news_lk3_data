@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 00:04:41**
+As of **2024-05-16 00:18:35**
 
 ## Newspaper Stats
 
-*Scraped **24,288** Articles*
+*Scraped **24,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,398
 dailyftlk | 1,415
-adalk | 2,076
+adalk | 2,077
 adaderanalk | 2,820
-tamilmirrorlk | 2,856
+tamilmirrorlk | 2,857
 virakesarilk | 3,650
 dailymirrorlk | 3,811
 adaderanasinhalalk | 3,877
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,288 (100.0%) of 24,288 articles have been extended.
+24,288 (100.0%) of 24,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
+
+### பிரதமர் மீது துப்பாக்கிச் சூடு! உலகத் தலைவர்கள் கண்டனம்
+
+*2024-05-15 23:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-மீது-துப்பாக்கிச்-சூடு-உலகத்-தலைவர்கள்-கண்டனம்/50-337380) · `ta`
+
+சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் ஒருவரை பாதுகாப்பு தரப்பினர் கைது செய்துள்ளதாக  செய்திகள்  தெரிவிக்கின்றன.
+
+பிரதமர் தற்போது உயிருக்கு ஆபத்தான நிலையில் உள்ளார் என்றும் அவர் ஹெலிகாப்டர் மூலம் அருகிலுள்ள நகரமான பான்ஸ்கா பைஸ்ட்ரிகாவிற்கு கொண்டு செல்லப்பட்டுள்ளார் என்றும் கூறப்படுகின்றது.
+
+இந்த நிலையில், குறித்த சம்பவத்திற்கு உலக தலைவர்கள் பலர் கண்டனம் வெளியிட்டு வருகின்றனர்.
+
+ஐரோப்பிய ஆணையத்தின் தலைவர் Ursula von der Leyen, Fico மீதான “மோசமான தாக்குதல்” என்று அழைத்துள்ளார்.
+
+ருமேனிய பிரதமர் மார்செல் சியோலாகு, துப்பாக்கிச் சூடு பற்றிய செய்தியால் தான் “ஆழ்ந்த அதிர்ச்சியில்” இருப்பதாகவும், குற்றவாளிகள் பொறுப்புக்கூற வேண்டும் என்றும் கூறியுள்ளார்.
+
+செக் பிரதம மந்திரி Petr Fiala, துப்பாக்கிச்சூடு “அதிர்ச்சியூட்டுவதாக” கூறினார் மற்றும் Fico விரைவில் குணமடைய வாழ்த்தினார்.
+
+ஹங்கேரியின் பிரதமர் விக்டர் ஓர்பன் கூறுகையில், “எனது நண்பரான பிரதமர் ராபர்ட் ஃபிகோவுக்கு எதிரான கொடூரமான தாக்குதலால் நான் மிகவும் அதிர்ச்சியடைந்தேன்”. என்றார்.
+
+...
+
+[Data](articles/8026e362.json)
+
+---
 
 ### Indian travelers’ boycott of Maldives is helping Sri Lanka, says Tourism Minister
 
@@ -179,6 +203,22 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 [Data](articles/5eafbd66.json)
 
 [Extended Data](ext_articles/5eafbd66.ext.json)
+
+---
+
+### ජාත්‍යන්තර බැඳුම්කර හිමියන්ගේ යෝජනාව සජබ පිළි නොගනියි
+
+*2024-05-15 20:40:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-බැඳුම්කර-හිමියන්ගේ-යෝජනාව-සජබ-පිළි-නොගනියි/11-409657) · `si`
+
+ජාත්‍යන්තර බැඳුම්කර හිමියන් අප්‍රේල් මාසයේ ඉදිරිපත් කළ යෝජනාව පිළිනොගන්නා බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේ අද (15දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"ජාත්‍යන්තර බැඳුම්කර හිමියන් ලංකාවට පැමිණි පසු ඔවුන් ජනාධිපතිවරයා , සමගි ජනබලවේග කණ්ඩායම , ජනතා විමුක්ති පෙරමුණේ කණ්ඩායම හමුවුණා.  මේ සම්බන්ධයෙන් ආණ්ඩුවේ සහ ජනතා විමුක්ති පෙරමුණේ කිසිදු ප්‍රතිචාරයක් අපි දැක්කේ නෑ. නමුත් අපි ඍජුවම කියනවා අප්‍රේල් මාසයේ ජාත්‍යන්තර බැඳුම්කර හිමියන් ඉදිරිපත් කරලා තිබෙන යෝජනාව පිළිගන්න බෑ. අපි ඒක කෙළින්ම කියනවා. ඒකට හේතුව තමයි ජාත්‍යන්තර බැඳුම්කර හිමියන්ගේ යෝජනා අනුව 2028 දී තමයි මුහුණත අගය  කපා දැමීම සිදුකරනු ලබන්නේ. දැන් යන විදියට බැලුවොත් රටේ ආර්ථිකයේ සාර්ථකත්වය  මනින්න ඔවුන් එක්සත් ජනපද ඩොලර්වලින්.
+
+...
+
+[Data](articles/5a520ef5.json)
 
 ---
 
@@ -414,13 +454,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
+
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
-
-It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2319,47 +2359,5 @@ Meanwhile, Defense Secretary Retired General Kamal Gunaratne said that the Russi
 [Data](articles/d2275af6.json)
 
 [Extended Data](ext_articles/d2275af6.ext.json)
-
----
-
-### Tense situation near Presidential Secretariat
-
-*2024-05-15 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-near-Presidential-Secretariat/108-282646) · `en`
-
-Colombo, May 15 (Daily Mirro) - A tense situation was reported near the Presidential Secretariat due to a protest by the Citizen Power Organization Against Bribery, Corruption and Waste this morning.
-
-The protesters demand the government take action against the decision to restore the vehicle permits to the MPs.
-
-Soon after the protest started, the police removed the banners and as a result, the heated situation occurred.
-
-Later, the protestors handed over a memorandum to the President's Additional Secretary, Kapila Munasinghe.
-
-◼️
-
-[Data](articles/d4b7383a.json)
-
-[Extended Data](ext_articles/d4b7383a.ext.json)
-
----
-
-### Sri Lanka telecom law change hits media freedom: opposition
-
-*2024-05-15 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-law-change-hits-media-freedom-opposition-163118/) · `en`
-
-ECONOMYNEXT – A proposed change to Sri Lanka’s Telecom Regulatory law will give powers to the commission to cancel license of electronic media, undermining media freedom, the opposition has warned.
-
-“These changes to the Act contain several proposals that are detrimental to media freedom. One is the that you have to pay a fine to get your license back. Also the commission can interpret and decide what is not in the public’s interest,” Opposition Leader Sajith Premadasa said in parliament.
-
-Premadasa said the opposition was against this, and would take legal action to challenge it.
-
-“This will create a dangerous situation, where power will be concentrated among a few people who will be able to decide on the granting of the media license,” SJB MP S M Marikkar said.
-
-“I know sometimes there is extortion to get the media license. When you grant greater power, there would be an increase in the opportunity for extortion.”
-
-...
-
-[Data](articles/4f250dcc.json)
-
-[Extended Data](ext_articles/4f250dcc.ext.json)
 
 ---

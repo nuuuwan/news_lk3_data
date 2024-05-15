@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 07:45:53**
+As of **2024-05-15 08:34:39**
 
 ## Newspaper Stats
 
-*Scraped **24,116** Articles*
+*Scraped **24,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,155 @@ dbsjeyarajcom | 248
 newsfirstlk | 363
 islandlk | 1,308
 economynextcom | 1,377
-dailyftlk | 1,414
+dailyftlk | 1,415
 adalk | 2,057
-adaderanalk | 2,798
-tamilmirrorlk | 2,826
-virakesarilk | 3,619
+adaderanalk | 2,800
+tamilmirrorlk | 2,827
+virakesarilk | 3,621
 dailymirrorlk | 3,790
-adaderanasinhalalk | 3,853
+adaderanasinhalalk | 3,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,090 (99.9%) of 24,116 articles have been extended.
+24,123 (100.0%) of 24,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### එන්නත් 8ක් සුපරීක්ෂණ කාලයකින් තොරව ලියාපදිංචි කිරීම නීතියට පටහැනි බව හෙළිවෙයි
+### Circular on education administration reforms to be issued soon - Minister
+
+*2024-05-15 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99223/circular-on-education-administration-reforms-to-be-issued-soon-minister) · `en`
+
+Education Minister Dr. Susil Premajayantha said that arrangements are in place to establish 1,220 school clusters across the country and 350 school boards are to be formed to oversee their operations under the initial phase of educational administration reforms.
+
+Dr. Premajayantha emphasized that the necessary Cabinet memorandum outlining these reforms will be imminently presented, with the accompanying circular set to be issued in the near future.
+
+The Minister made these remarks on Tuesday (14) during a press briefing held at the Presidential Media Centre (PMC) under the theme of ‘Collective Path to a Stable Country’.
+
+“When I assumed the role of Education Minister two years ago, we were confronted with a dire situation. Fuel shortages were preventing children from attending school, and examiners lacked fuel for essential travel. Additionally, a 14-hour power cut disrupted educational engagement, while schools had to be closed in time to time.
+
+...
+
+[Data](articles/a264339e.json)
+
+---
+
+### Kandy Perahera hinders Kandy
+
+*2024-05-15 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196636) · `si`
+
+The Kandy Esala Perahera procession, including tamed elephants from the Sabaragamuwa Maha Saman Devalaya, faces delays due to auspicious elephant sections, affecting the schedule of the Dalada Maligawa Palace and four highways. The Tame Elephants Association (SSP) and the Secretary of the Elephant Orphanage have been notified about these changes.
+
+🟩
+
+During the Kandy Esala Perahera, the Tame Elephants Association (SSP) says that the procession of the Sabaragamuwa Maha Saman Devalaya during the Kandy Esala Perahera.
+
+Secretary to the Secretary of the Elephant in the Elephant Orphanage of Penshyna Elephant Orphanage is scheduled for the procession.
+
+"As a result of auspicious section of elephants in the Kandy Perahera, the Dalada Maliga Palace in Kandy and four highways have to face today. In particular, the Tame Ali Seymonal Association has made aware of this situation in particular. The president has been informed. "
+
+Diyawadana Niladhi Dela, Diyawadana Nilame, Pradeep Neelanga Dela, has been prepared by the Nita, "Nita".
+
+◼️
+
+[Data](articles/9f5fbe05.json)
+
+[Extended Data](ext_articles/9f5fbe05.ext.json)
+
+---
+
+### Showery conditions expected to continue further
+
+*2024-05-15 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99222/showery-conditions-expected-to-continue-further) · `en`
+
+Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to continue further, the Meteorology Department said.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
+
+Showers may occur in Western and Southern coastal areas during the morning too, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a307c6dd.json)
+
+[Extended Data](ext_articles/a307c6dd.ext.json)
+
+---
+
+### KSPA raises benchmark for industry sustainability with Carbon Neutrality Certification
+
+*2024-05-15 07:36:25* · [`dailyftlk`](https://www.ft.lk/business/KSPA-raises-benchmark-for-industry-sustainability-with-Carbon-Neutrality-Certification/34-761830) · `en`
+
+From left:  Anunine Holdings Sustainability Analyst Sithara Sewwandi, KSPA Packaging/KSPA Accessories CEO Nalin Anthony, Sri Lanka Climate Fund (SLCF) Chairman and  Environment Ministry Secretary  Prabhath Chandrakirthi, Anunine Holdings Group Director Sonali Abeyratne and Group Director  Saveen Abeyratne
+
+KSPA Packaging, an Anunine Holdings company, the nation’s leading export packaging provider and manufacturer, has achieved a significant milestone recently, by being awarded the Carbon Neutral Certification, which was certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka.
+
+"Our journey towards carbon neutrality and sustainability is a testament to our unwavering commitment to environmental stewardship and innovation, as leaders in the packaging industry.
+
+We recognize the importance of minimizing our environmental impact and are dedicated to driving positive change,” stated Anunine Holdings Chairman Deshamanya Anurath Abeyratne.
+
+...
+
+[Data](articles/ec833284.json)
+
+[Extended Data](ext_articles/ec833284.ext.json)
+
+---
+
+### University non-academic workers decide to intensify trade union action
+
+*2024-05-15 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196635) · `si`
+
+Non-academic staff at a university plan to escalate trade union actions due to delayed responses to their demands. They threaten to halt essential services like water, electricity, and internet, blaming the government for neglecting the university system. The Chairman of the University Grants Commission urges focusing on students' education amidst these tensions.
+
+🟩
+
+University Trade Union Joint Committee states that he decided to deturn further its demands due to delaying their demands.
+
+Dhammika Priyantha says that the unanimous decision has been entered into all voluntary services in the universities.
+
+"We completely stop providing water and electricity supply. Also, the provision of Internet facilities. The university system will stop with this crash. Also, government authorities should be fully responsible for the destruction of laboratory samples in the university system. This is because of this government's behavior to the university system. If you miss the administration, we also think of sensitive activities of the university. "
+
+The Chairman of the University Grants Commission Sampath Amaratunga said that he is requested to pay attention to the education of children.
+
+Meanwhile, administrative GSPs are due to join the trade union action to report the Grama Niladhari program based on several demands including a service minister.
+
+◼️
+
+[Data](articles/8ad950cc.json)
+
+[Extended Data](ext_articles/8ad950cc.ext.json)
+
+---
+
+### It is revealed that the law contradicts eight vaccines
 
 *2024-05-15 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196634) · `si`
 
-නිර්වින්දන කටයුතු මෙන්ම මොළය ආශ්‍රිත රෝගවලට ප්‍රතිකාර කිරීම සඳහා භාවිතා කරන ශ්‍රී ලාංකික සමාගමක් විසින් නිෂ්පාදනය කළ එන්නත් වර්ග 08ක් මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බව  ඊයේ (14) අභියාචනාධිකරණය හමුවේ අවධාරණය කෙරුණි.
+Human rights activists demand the National Drug Regulatory Authority terminate the registration of eight vaccines due to concerns over safety standards. The authority had previously approved these vaccines for use after a shorter than usual six-month review period. This decision is now under scrutiny, with legal proceedings highlighting discrepancies in the regulatory process.
 
-අදාළ පුද්ගලික සමාගම විසින් නිෂ්පාදනය කළ එම එන්නත් වර්ග 8 මාස හයක සුපරීක්ෂණ කාලයකට යටත් නොකොට ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා මානව හිමිකම් ක්‍රියාකාරීන් දෙදෙනෙකු වන ප්‍රණීතා. එන්. වර්ණකුලසූරිය සහ දෙව්ෂාන්. පී. බුද්ධරගේ යන අය විසින් ගොනුකළ පෙත්සමක් විභාගයට ගත් අවස්ථාවේදී පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි නීතීඥ නිල් ශාන්ත සිරිමාන්න මහතා මේ බව අවධාරණය කළේය.
+🟩
 
-අභියාචනාධීකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම නඩු විභාගය පැවැත්වුණි.
+The National Drug Regulatory Authority was emphasized yesterday (14) that the decision of the National Drug Regulatory Authority was completely contrary to the registrations of an anesthesia.
+
+Two human rights activists, two human rights activists demanding a termination order to register the National Drug Regulatory Authority to register with 8 months of vaccines. N. Warnakulasuriya and Dayshanan. P. Attorney-at-Law Niladhari Sirimanna, who appeared on the petitioner party, stressed the petition filed by Buddhira's petition.
+
+The trial was held in the courtship of the Court of Appeal Nissanka Bandula Karunaratne and Shahi Mahendran, Chairman of the Court of Appeal.
+
+The lawyer of the petitioner before the courts, the National Drug Regulatory Authority stated that it should be subject to six months before a six-month monitoring before it is released to the market.
 
 ...
 
 [Data](articles/d81d5afc.json)
+
+[Extended Data](ext_articles/d81d5afc.ext.json)
 
 ---
 
@@ -137,6 +255,8 @@ The final draft of the law titled ‘Non-governmental Organizations (Registratio
 ...
 
 [Data](articles/130a9a2a.json)
+
+[Extended Data](ext_articles/130a9a2a.ext.json)
 
 ---
 
@@ -318,6 +438,8 @@ The visiting United States’ Assistant Secretary Bureau of South and Central As
 
 [Data](articles/0ce9d5ce.json)
 
+[Extended Data](ext_articles/0ce9d5ce.ext.json)
+
 ---
 
 ### YJA calls for investigation on Sampur arrests
@@ -333,6 +455,8 @@ They said the police have clearly neglected these recommendations and have said 
 ...
 
 [Data](articles/94ef6d4d.json)
+
+[Extended Data](ext_articles/94ef6d4d.ext.json)
 
 ---
 
@@ -352,6 +476,8 @@ The Bribery also sought the permission of the Court to record the statements fro
 
 [Data](articles/97dd5641.json)
 
+[Extended Data](ext_articles/97dd5641.ext.json)
+
 ---
 
 ### Mumbai becomes Asia’s Billionaires Hub
@@ -365,6 +491,8 @@ Mumbai now boasts 92 billionaires, edging past Beijing's count of 91, as reporte
 ...
 
 [Data](articles/b3255992.json)
+
+[Extended Data](ext_articles/b3255992.ext.json)
 
 ---
 
@@ -384,6 +512,8 @@ The decision involves the cancellation of the existing Information and Communica
 
 [Data](articles/fb4bb6ef.json)
 
+[Extended Data](ext_articles/fb4bb6ef.ext.json)
+
 ---
 
 ### Govt. allows power wheeling facility for renewable energy projects
@@ -400,6 +530,8 @@ Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said under the a
 
 [Data](articles/0e92a3c8.json)
 
+[Extended Data](ext_articles/0e92a3c8.ext.json)
+
 ---
 
 ### Pathfinder Foundation hosts delegation from Geneva’s International Trade Centre
@@ -415,6 +547,8 @@ The delegation also included Associate Project Adviser Camille Roy and Associate
 ...
 
 [Data](articles/da1eeea6.json)
+
+[Extended Data](ext_articles/da1eeea6.ext.json)
 
 ---
 
@@ -436,6 +570,8 @@ He said that the matter was taken into consideration under ‘other category’ 
 
 [Data](articles/ee1b4d68.json)
 
+[Extended Data](ext_articles/ee1b4d68.ext.json)
+
 ---
 
 ### Dr. Fernandopulle presents two private member bills to push for more women representation in Parliament
@@ -453,6 +589,8 @@ Fernandopulle told journalists that despite her requests to political parties to
 ◼️
 
 [Data](articles/6d4f9950.json)
+
+[Extended Data](ext_articles/6d4f9950.ext.json)
 
 ---
 
@@ -472,6 +610,8 @@ The problems of the development projects and the methods of expediting those pro
 
 [Data](articles/670df84f.json)
 
+[Extended Data](ext_articles/670df84f.ext.json)
+
 ---
 
 ### Cabinet green lights revision of land grant methodology for war heroes
@@ -485,6 +625,8 @@ The Cabinet of Ministers on Monday gave its green light to revise the existing m
 ...
 
 [Data](articles/7c1e5b30.json)
+
+[Extended Data](ext_articles/7c1e5b30.ext.json)
 
 ---
 
@@ -504,6 +646,8 @@ However Police said they will make a decision on that after consulting the inves
 
 [Data](articles/debed79b.json)
 
+[Extended Data](ext_articles/debed79b.ext.json)
+
 ---
 
 ### Duminda seeks injunction against SLFP Chair Wijeyadasa
@@ -519,6 +663,8 @@ Judge Dulani Wickramasooriya of the Kaduwela District Court issued these enjoini
 ...
 
 [Data](articles/b1306118.json)
+
+[Extended Data](ext_articles/b1306118.ext.json)
 
 ---
 
@@ -537,6 +683,50 @@ China immediately promised retaliation. Its Ministry of Commerce said Beijing wa
 ...
 
 [Data](articles/1e05d07e.json)
+
+[Extended Data](ext_articles/1e05d07e.ext.json)
+
+---
+
+### King of Screenplay. 'Crime is new' started by Bhagyaraj
+
+*2024-05-15 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183567) · `ta`
+
+"Crime Puthiyadhu," starring newcomer Tarun, premiered in Chennai. Directed by Rajith, it features a mix of fresh faces like Tarun, Seshwitha, and Madhusudhan Rao, alongside experienced actors. The thriller, produced by Karthikeyan and Tarun Karthikeyan, aims for a realistic narrative style. Shooting starts soon."
+
+🟩
+
+The inauguration of the film 'Crime Puthiyadhu', which played the lead role as the hero of the newcomer Tarun, was held in Chennai. One of the senior directors of the Tamil film industry was K.. Bhagyaraj congratulated the film crew on the participation of a special guest and introduced the newcomer man Taruna.
+
+In the film 'Crime Puthu', directed by debutant director Rajith, Tarun, Seshwitha, Madhusudhan Rao, Ramachandran, 'Boys' Rajan, Priyadarshini, Srinidhi, Sangeetha, Dinesh Selvaya, Srikanth, Meera Raj, 'Darling'. Karan B for the film, which is being recorded by Jason Williams. Kripa is composed. The film is being made as a thriller film.. Karthikeyan and Tarun Karthikeyan are co -produced.
+
+Speaking of the film, the director said, “The screenplay of the film 'Crime New' is set as a realistic style of realistic style.. The shooting of the film is scheduled to begin on the 23rd of this month. ”
+
+◼️
+
+[Data](articles/4c297136.json)
+
+[Extended Data](ext_articles/4c297136.ext.json)
+
+---
+
+### A massive fire broke out at the Israeli, Del Hashmar military base
+
+*2024-05-15 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183566) · `ta`
+
+A major fire erupted at Israel's Tel Hashomer military base, causing significant damage. Firefighters are actively working to control the blaze, with 28 personnel dispatched to the scene.
+
+🟩
+
+A massive fire broke out in the warehouse complex at the Tell Hashomer Army base in Ramad Khan, Israeli.
+
+Firefighters are in the process of extinguishing the fire. Fire and rescue operations say 28 firefighters went to the scene.
+
+◼️
+
+[Data](articles/4c1d36b6.json)
+
+[Extended Data](ext_articles/4c1d36b6.ext.json)
 
 ---
 
@@ -654,19 +844,51 @@ SLSBL is a successor to defaulted Pramuka Savings and Investment Bank and it was
 
 [Data](articles/1b5c3513.json)
 
+[Extended Data](ext_articles/1b5c3513.ext.json)
+
 ---
 
-### அமெரிக்க அதிகாரி ஜனாதிபதியுடன் சந்திப்பு
+### The new agricultural trade sector is essential
+
+*2024-05-15 00:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-விவசாய-வர்த்தகத்துறை-அவசியம்/175-337318) · `ta`
+
+President Wickremesinghe aims to revitalize Sri Lanka's economy by shifting from traditional plantations to a modern agricultural trade sector, emphasizing diversification, modernization, and increased production of crops like tea, rubber, cocoa, and spices. This initiative targets enhancing market opportunities, incorporating small estate owners, and utilizing existing and new lands efficiently to combat rural poverty and boost exports.
+
+🟩
+
+President Ranil Wickremesinghe said, "We are working to create a new agricultural trade sector in the country and bring the country economically to replace the traditional plantation industry."
+
+The President said this while addressing the opening of the new Education and Administrative Building of the Athurukiriya National Estate Management Institute yesterday morning.. When he further addresses,
+
+It is necessary to strengthen agriculture at present. So we need to convert gardens into agricultural trade and strengthen production. To promote tea and rubber. We need to have the appropriate market opportunities. Today our tea industry is diverse. Many companies make it positive.
+
+To strengthen the country's traditional crop production. Our country should re -plant cocoa, karva and other spices. To produce new crops. For that, the industry needs to introduce a new technical management. Second, small estate owners should be incorporated into this modernization program to increase production.
+
+...
+
+[Data](articles/fedec7f9.json)
+
+[Extended Data](ext_articles/fedec7f9.ext.json)
+
+---
+
+### Meeting with US official president
 
 *2024-05-15 00:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-337317) · `ta`
 
-இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான உதவி இராஜாங்கச் செயலாளர் டொனால்ட் லு, ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்துள்ளார்.
+Donald Lu, U.S. Assistant Secretary for South and Central Asia, praised Sri Lanka's economic recovery efforts during his meeting with President Ranil Wickremesinghe, highlighting the leader's commitment to new economic reforms.
 
-இலங்கையின் பொருளாதார மீட்சி தொடர்பான அரசாங்கத்தின் வேலைத்திட்டம் தொடர்பில் இதன் போது விரிவாக கலந்துரையாடப்பட்டதுடன், இலங்கையின் புதிய பொருளாதார சீர்திருத்த செயற்பாடுகள் மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அர்ப்பணிப்பையும் டொனால்ட் லூ பாராட்டினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+🟩
+
+Donald Lu, Assistant Secretary of State for South and Central Asian Affairs, who is visiting Sri Lanka, has met President Ranil Wickremesinghe.
+
+Donald Louzy has appreciated the government's program on Sri Lanka's economic recovery and the dedication of President Ranil Wickremesinghe in Sri Lanka's new economic reforms and the dedication of President Ranil Wickremesinghe.. (A)
 
 ◼️
 
 [Data](articles/11f43317.json)
+
+[Extended Data](ext_articles/11f43317.ext.json)
 
 ---
 
@@ -694,19 +916,29 @@ Consider this as the government has diminished the focus of the Ambuulans and th
 
 ---
 
-### ’தனி ஈழம் வெற்றி பெறும்’
+### Exchange Eelam Winning
 
 *2024-05-15 00:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தனி-ஈழம்-வெற்றி-பெறும்/150-337315) · `ta`
 
-தமிழர்களுக்கு எதிராகவே யுத்தம் நடத்தப்பட்டது என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் வடக்கு கிழக்கில் தனி ஈழத்தை ஸ்தாபிக்க முயற்சிக்கும் அடிப்படைவாத நோக்கம் வெற்றி  பெறும் என்று ஆளும் தரப்பு எம்.பி.யான ரியர் அட்மிரல்  சரத் வீரசேகர தெரிவித்தார்.
+Riyar Admiral Sarath Weerasekera discusses the potential success of establishing a separate Eelam in Sri Lanka's North and East, highlighting intensified proceedings against the Sri Lankan military and discussions on filing a case in the International Court of Justice. He also touches on the conflict between Palestine and Israel, mentioning Israel's support during Sri Lanka's 30-year war against the LTTE, which resulted in significant casualties.
 
-இலங்கை இராணுவத்தினருக்கு எதிராக சாட்சியம் திரட்டும் நடவடிக்கைகள் தற்போது தீவிரப்படுத்தப்பட்டுள்ளதுடன் இந்த சாட்சியங்களை அடிப்படையாகக் கொண்டு சர்வதேச நீதிமன்றத்தில்  இலங்கை இராணுவத்துக்கு  எதிராக வழக்கு தாக்கல் செய்ய முடியுமா என்பது குறித்து உறுப்பு நாடுகளுடன் கலந்துரையாடுவதாக ஐ. நா. சபையின் உயர்ஸ்தானிகர் குறிப்பிட்டுள்ளமை சாதாரண விடயமல்ல என்றார்.
+🟩
 
-பாராளுமன்றத்தில்     செவ்வாய்க்கிழமை (14)  இடம்பெற்ற  பலஸ்தீனத்தின் இனறைய நிலை  தொடர்பான சபை ஒத்திவைப்பு வேளை  பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+Riyar Admiral Sarath Weerasekera, ruling party MP, said the fundamentalist objective of trying to establish a separate Eelam in the North and East would be a success if the war was proven.
+
+The proceedings against the Sri Lankan military have now been intensified and the II will discuss with member states on whether the Sri Lankan military can file a case in the International Court of Justice based on these testimony.. Na. The High Commissioner of the congregation said it was not normal.
+
+Speaking at a debate on the Motion on the Motion of the Palestinian Committee on Tuesday (14) in Parliament, he said.
+
+The conflicts between the two sides intensified only after Palestine's attack on a public event in Israel. The war is cruel. During the war, there will be losses on both sides.
+
+As the war intensifies between Palestine and Israel, the United States and the United Nations are able to understand.
 
 ...
 
 [Data](articles/a7a74124.json)
+
+[Extended Data](ext_articles/a7a74124.ext.json)
 
 ---
 
@@ -931,6 +1163,8 @@ CB recently revealed that it is in discussions with the ACI Financial Markets As
 ...
 
 [Data](articles/c2ecf7df.json)
+
+[Extended Data](ext_articles/c2ecf7df.ext.json)
 
 ---
 
@@ -1222,6 +1456,8 @@ The report, a result of extensive research and collaboration, sheds light on the
 
 [Data](articles/4767baf4.json)
 
+[Extended Data](ext_articles/4767baf4.ext.json)
+
 ---
 
 ### CSE adopts two ambulances for 1990 Suwa Seriya Foundation
@@ -1239,6 +1475,8 @@ Launched in 2016, Suwa Seriya is a national ambulance service providing free pre
 ...
 
 [Data](articles/aa54b75a.json)
+
+[Extended Data](ext_articles/aa54b75a.ext.json)
 
 ---
 
@@ -1271,6 +1509,8 @@ USAID Island Climate Initiative paves way to tackle plastic waste and pollution 
 ...
 
 [Data](articles/5c0f62af.json)
+
+[Extended Data](ext_articles/5c0f62af.ext.json)
 
 ---
 
@@ -1944,6 +2184,8 @@ Another court in the Eastern Province on Tuesday issued an order observing that 
 
 [Data](articles/15571391.json)
 
+[Extended Data](ext_articles/15571391.ext.json)
+
 ---
 
 ### Two youth arrested for abducting and abusing a 15 -year -old girl in Modu Wellaveli
@@ -1965,199 +2207,5 @@ The victim told the parents that the 26,21 -year -old youth from the area was ar
 [Data](articles/f8fb018b.json)
 
 [Extended Data](ext_articles/f8fb018b.ext.json)
-
----
-
-### Sampanthan cannot be rejected;Muttur arrests
-
-*2024-05-14 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183552) · `ta`
-
-R. Sampanthan, a senior Tamil leader, asserts the right of Tamil people to remember their relationships, especially during the sacred Vaikasi month. He condemns the arrest of those distributing Mullivaikkal Kanji in Muttur and restrictions in Kalmunai, calling it a violation of basic human rights. He urges the government to release the arrested without delay and to share federal powers to protect Tamil rights.
-
-🟩
-
-The Tamil people have the full right to remember their lively relationships. That is their basic right. Senior leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian R. Sampanthan said it could not be rejected.
-
-Those who distributed Mullivaikkal Kanji at Muttur Senayoor in Trincomalee have been arrested by the police at night and kept in detention till the 27th.
-
-Similarly, Kalmunai and Kanji distribution activities have been restricted. In this case, Sampanthan said the above.
-
-As for the Tamil people, Vaikasi month is emotionally. It is a sacred month for them to recall their relationships.
-
-They are completely entitled to commemorate their relationships that have died in war. No one can reject their basic right. It is not possible to reject it.
-
-To cause such disruption and rejection is a violation of basic laws. At the same time, those who recalled their relations in Muttur, Trincomalee have been arrested. Remembering in Kalmunai is blocked.
-
-...
-
-[Data](articles/3f8d7179.json)
-
-[Extended Data](ext_articles/3f8d7179.ext.json)
-
----
-
-### Decision on the ban on the LTTE
-
-*2024-05-14 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196622) · `si`
-
-The Indian government has extended the ban on the LTTE for 5 more years, citing their involvement in activities detrimental to the country's unity and security. Despite the LTTE's defeat in Sri Lanka in 2009, it continues to advocate for separatism, particularly in Tamil Nadu, India.
-
-🟩
-
-The Indian government has decided to extend the ban on the LTTE by another 5 years.
-
-The Ministry of Home Affairs has issued a statement.
-
-The decision states that the decision has been taken as their opinion that the LTTE terrorists engage in prejudicial activities of the country and protection are engaged in prejudice to the unity and security of the country.
-
-Foreign media reports that the LTTE has further abandoned the concept of 'Eelam' with the defeat of the LTTE in Sri Lanka in May 2009.
-
-The announcement states that the LTTE is also engaged in collaboration and operating for the LTTE's concept for the Eelam.
-
-The LTTE continues to promote its separatist opinion among the people in India as well as Tamil Nadu in India, especially Tamil Nadu.
-
-◼️
-
-[Data](articles/547d3163.json)
-
-[Extended Data](ext_articles/547d3163.ext.json)
-
----
-
-### Up in the sky...
-
-*2024-05-14 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Up-in-the-sky/110-282585) · `en`
-
-The Base Jump event from the Colombo Lotus Tower took place for third day today. A total of 35 International Base Jumpers exhibited their adrenaline-fueled skills. The event was launched on Sunday (12). Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/a355afe8.json)
-
-[Extended Data](ext_articles/a355afe8.ext.json)
-
----
-
-### India extended the ban on the LTTE
-
-*2024-05-14 17:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடையை-நீடித்தது-இந்தியா/175-337303) · `ta`
-
-India has extended the ban on the LTTE for five more years, citing ongoing efforts to foster separatism and expand support in Tamil Nadu. The Home Ministry asserts that the LTTE, despite its defeat in Sri Lanka in 2009, continues to threaten national integrity and security by secretly raising funds and advocating for an independent Tamil state.
-
-🟩
-
-India has extended the ban on the LTTE for another five years as it continues to develop separatism among the people and improves the LTTE's support base in India, especially in Tamil Nadu.
-
-The Home Ministry said in a statement that the central government considers the LTTE to still engage in adverse activities for the integrity and security of the country.
-
-Even after the defeat in Sri Lanka in May 2009, the LTTE has not abandoned the notion of 'Eelam' (independent country for Tamils) and has been working secretly for financial raising and Eelam.
-
-Propaganda and the rest of the LTTE leaders or members have begun to reunite scattered activists and raise the organization at home and internationally.
-
-“The LTTE -backed groups/components are continuing to develop separatism among the masses and promote the LTTE's support base in India and especially Tamil Nadu.
-
-This will eventually have a strong influence on India's regional integrity, ”the announcement said.
-
-◼️
-
-[Data](articles/1739c817.json)
-
-[Extended Data](ext_articles/1739c817.ext.json)
-
----
-
-### Sri Lanka to present Economic Transformation Bill
-
-*2024-05-14 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-economic-transformation-bill-163015/) · `en`
-
-ECONOMYNEXT – A proposed Economic Transformation bill will be gazetted shortly, cabinet spokesman Minister Bandula Gunawardena said.
-
-“The Legal Draftsmen has prepared the formal draft bill, including the revisions suggested by the Attorney General, which will be published in the government gazette notification.”
-
-It will subsequently be presented to the Parliament for its concurrence.
-
-The bill will establish an economic commission, investment zones and international trade office, Gunawardena said earlier.
-
-“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena has said.
-
-The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/May14/2024)
-
-Sri Lanka making new economic laws to embed structural reforms
-
-Sri Lanka economic transformation bill to establish commission, investment zones
-
-◼️
-
-[Data](articles/e7851dd1.json)
-
-[Extended Data](ext_articles/e7851dd1.ext.json)
-
----
-
-### Sasikumar - Suri Alliance
-
-*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183545) · `ta`
-
-Sasikumar and Suri, titled 'Village Nayakars', announced in 'Garuda' film release. Directed by Durai Senthil Kumar, with music by Yuvan Shankar Raja. Produced by Lark Studios and Cross Root Film Company. Unni Mukundan stars, with Suri as the hero and villain.
-
-🟩
-
-Sasikumar and Suri, who belonged to the title of 'Village Nayakars', has been officially announced on the release date of the film 'Garuda', which has been released and a special video has been released.
-
-Director r. S.. Sasikumar, Suri, Unni Mukundan, Revathi Sharma, Shivada, Roshini Haripriyan, Samudrakani, Maim Gopi, Dushyant Jayaprakash, directed by Durai Senthil Kumar.. Arthur A. The film, which has been recorded by Wilson, has composed the film Yuvan Shankar Raja.
-
-The film is written by director Vijayamaran on behalf of Lark Studios.. Kumar has produced. The film is being offered by Victory Maran's Cross Root Film Company and 'Five Star' Senthil.
-
-The film has been announced on May 31 at the film House.. As well as the release of Malayalam actor Unni Mukundan in the special video, Suri is the villain and Suri is the hero of revenge.. Expectations among fans for the film have increased.
-
-◼️
-
-[Data](articles/07a0ff2a.json)
-
-[Extended Data](ext_articles/07a0ff2a.ext.json)
-
----
-
-### Modern thermal radiation therapy that relieves varicose nerve impact
-
-*2024-05-14 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183546) · `ta`
-
-Modern thermal radiation therapy, like Endovenous Laser Therapy, offers relief for varicose nerve issues, affecting many who work long hours. This treatment involves a small procedure to heat and eliminate the infection in the affected nerve area, improving blood flow and reducing discomfort. It's a welcome solution for patients, offering quick recovery and minimal downtime.
-
-🟩
-
-Many of us continue to work for more than five to eight hours a day. Most of them have a varicose nerve infection in their ankles and foot.
-
-If this is easy to describe, the blood is pumped from the heart of all parts of our body with a balanced force.
-
-Because of this, the blood that spreads throughout the body comes back to the heart. The blood vessel system is naturally in our body that we have one path to the body from the heart and another path to the heart from the other part of the body.
-
-In this case, the blood that runs up to the quarter of the area is contaminated, and when they are weak, the contaminated blood is stagnant when they are weak, or when they are weak, or weak, due to various disturbances or due to various disturbances or exclusive blood vessels.. This causes the skin in the quarter and ankle area in the end. It also makes the nerves and causes discomfort and sickness.
-
-...
-
-[Data](articles/31b575e0.json)
-
-[Extended Data](ext_articles/31b575e0.ext.json)
-
----
-
-### Landslide warning
-
-*2024-05-14 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196621) · `si`
-
-The National Building Research Organization has issued landslide warnings for Badulla, Kandy, Kegalle, and Ratnapura districts due to heavy rains, advising caution.
-
-🟩
-
-The National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
-
-He has issued a landslide warning for the risk of Badulla, Kandy, Kegalle and Ratnapura districts.
-
-◼️
-
-[Data](articles/16e338a5.json)
-
-[Extended Data](ext_articles/16e338a5.ext.json)
 
 ---

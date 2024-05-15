@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-15 21:18:28**
+As of **2024-05-15 21:33:41**
 
 ## Newspaper Stats
 
-*Scraped **24,283** Articles*
+*Scraped **24,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,83 @@ adaderanalk | 2,819
 tamilmirrorlk | 2,856
 virakesarilk | 3,650
 dailymirrorlk | 3,811
-adaderanasinhalalk | 3,875
+adaderanasinhalalk | 3,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,280 (100.0%) of 24,283 articles have been extended.
+24,283 (100.0%) of 24,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-15 (Wednesday)
 
-### රවී වෛද්‍යාලංකාරට කෝටියක ශරීර ඇප දෙකක්
+### බිරිඳ බේරගන්න යුක්‍රේනයට එරෙහිව යුද වැදුණු අපේ එරන්දගේ කඳුළු කතාව
+
+*2024-05-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196657) · `si`
+
+රුසියානු මිනිස් ජාවාරමට හසුවී දැඩි දුෂ්කරතාවයන්ට ලක්වූ පුද්ගලයෙකු පිළිබඳව පුවතක් කුරුණෑගල කුඹුක්ගැටේ ප්‍රදේශයෙන් වාර්තාවෙයි.
+
+එරන්ද චින්තක තෙන්නකෝන් නම් ඔහු යුධ බිමේදී වෙඩි වැදී යළි මෙරටට පැමිණ තිබුණේ ඉකුත් 9 වැනිදාය.
+
+ඔහු අද දෙරණට පැවසුවේ රුසියාවේ වෙනත් රැකියාවක නියැලෙමින් සිටියදී රුසියානු කුලී හමුදාවට එක්ව යුදබිමේදී හිසට වෙඩිවැදුණු බවය.
+
+මින් දෙදිනකට පෙර කුරුණෑගල ශික්ෂණ රෝහලේදී ඔහු සැත්කමකට භාජනය කර තවමත් ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+රුසියානු යුධ බිමේදී එරන්දගේ නළලට වෙඩි වැදීමත් සමග ඔහු රෝහල් ගත කර තිබූ අතර එහිදී ඔහු රෝහලෙන් පැනගොස් සිය මිතුරෙක් මාර්ගයෙන් මෙරටට පැමිණ තිබේ.
+
+ලියුකේමියා රෝගයකින් පෙළුණු සිය බිරිඳගේ ශල්‍යකර්මය සඳහා මුදල් සොයාගැනීමේ අරමුණින් එරන්ද රුසියානු කුලී හමුදාවට බැඳුනත්, ඔහු මෙරටට පැමිණීමටත් පෙර පසුගිය මාර්තු මාසයේදී බිරිඳ මෙලොවින් සමුගෙන තිබුණි.
+
+◼️
+
+[Data](articles/9074b8f9.json)
+
+---
+
+### Ravi Manangularan two bail of bail
 
 *2024-05-15 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196656) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ නියෝජ්‍ය පොලිස්පති රවී වෛද්‍යාලංකාර මහතා ශරීර ඇප දෙකක් මත මුදාහරින ලෙසට අද අධිකරණය නියෝග කර තිබේ.
+DIG Ravi Waidyalankara granted two surety bails after being accused of housing fraud. The case was heard in the Fort Magistrate's Court, where he was also banned from traveling abroad.
 
-නිවාස ලබාදෙන බවට පවසා මුදල් වංචා කර බවට පැවසෙන සිද්ධියකට අදාළ නඩුව කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේ වැඩිදුරටත් නියෝග කර ඇත්තේ ඒ මහතාව රුපියල් ලක්ෂ 100 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
+🟩
 
-එසේම හිටපු නියෝජ්‍ය පොලිස්පති රවී වෛද්‍යාලංකාර මහතාට විදෙස් ගමන් තහනමක් පැනවීමට ද එහිදී අධිකරණය නියෝග කර ඇත.
+DIG Ravi Ravi Ravi Waidyalankara has ordered the release of the DIG Ravi Ravi Waidyalankara on two surety bail.
 
-සිද්ධිය සම්බන්ධයෙන් වූ නඩුව ලබන සැප්තැම්බර් මාසයේ 25 වනදා කැඳවන ලෙසට අධිකරණය වැඩිදුරටත් නියෝග කර ඇත.
+The case was taken up before the Fort Magistrate's Court to be released before the housing was cheated on the courts.
+
+The court ordered that former DIG Ravi Waidyalankara imposed foreign travel ban
+
+The Court has ordered the case against the incident on the 25th September.
 
 ◼️
 
 [Data](articles/7293c298.json)
 
+[Extended Data](ext_articles/7293c298.ext.json)
+
 ---
 
-### ලංකාවේ විශාලම හැරෆයිමා මත්ස්‍යා මිය යයි
+### Sri Lanka's largest allfeaman dies
 
 *2024-05-15 20:57:51* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-හැරෆයිමා-මත්ස්‍යා-මිය-යයි/11-409659) · `si`
 
-මත්ස්‍යයන් අනුභව කරන ලංකාවේ ව්ශාලතම මත්ස්‍යයා ලෙස සැලකෙන මසකට විශාල මුදලක් වැයකර නඩත්තු කරන ලද,  හැරෆයිමා මාළුවා අද (15දා) මියගොස් තිබේ.
+Sri Lanka mourns the loss of its largest all-female fish, named Hazi, who lived in the care of 13-year-old Suranga Wijeyeratne. Hazi, known for her impressive size—eight feet long and three feet wide—was fed small fish and gained popularity on social media. Her death, reported on March 15th, shocked locals, who gathered to pay their respects.
 
-පසුගිය කාලයේ මෙම අපූරු මත්ස්‍යයා සමාජ මාධ්‍ය ඔස්සේ ජනප්‍රියව තිබුණි. මෙම මාළුවා අඩි අටක් දිග වන අතර වට ප්‍රමාණය අඩි තුනකි. වයස අවුරුදු 13ක් බව මාළුවාගේ හිමිකරු පැවසීය.මෙම මාළු විශේෂයේ ආහාරය වනුයේද කුඩා මාළුන්ය. පැල්මඩුල්ල රිල්හේනේ සුරංග විජයරත්න මහතාගේ පුද්ගලික මින් මැදුරේ මෙම මාළුවා ඇති කළ අතර උගේ ආහාර සඳහා කුඩා මුහුදු මත්ස්‍යයන් දිනපතා කිලෝ ගණනින් මිලදී ගෙන ලබාදී ඇත.
+🟩
 
-හැරෆයිමා නම් මෙම මාළුවා අද අලුයම කාලයේ මියගොස් ඇත්තේ ඌට වෙනම ඉදිකරන තිබූ දැවැන්ත ටැංකියේ ජලය පිටවෙන ස්ථානයෙන් හදිසියේ ජලය පිටවීමෙන් පසුව බව නිවැසියෝ පවසති . සුරංග විජේරත්න මහතා විසින් විනෝදාංශයක් ලෙස සුරතල් මාළුන්ද විශේෂිත මාළුන්ද ඇති කරන අතර එම කටයුතු නඩත්තුව සඳහා මාසිකව විශාල මුදලක්ද වැය කරයි. ඔහුගේ මින් මැදුර නැරැඹීමට පාසල් සිසුහුද වෙනත් අයද පැමිණෙති . මියගිය දැවන්ත මාළුවා නැරඹීමට ද විශාල පිරිසක් පැමිණ ඇත.
+The Hazi Faculty has been identified today (15), maintained a large sum of money per month, which is considered as the first fish in Sri Lanka.
+
+The wonderful fish was popular in the social media. This fish is eight feet long and the round is three feet. The fish owner is 13 years old, the food of the fish species is small fish. The fish was created in the personal fish in Pelhena Rilhena Suranga Wijeyeratne, and the small sea fish have been purchased in several kilograms for their food.
+
+The dead was dead in early morning, the residents say that the water exits the water on the water of the water. Mr. Suranga Wijeratne also produces a large amount of pet fish and a large amount of pet fish. Schools and others come to cover his body. A large number of people have also visited the dead masses.
 
 ◼️
 
 [Data](articles/3bd85df9.json)
+
+[Extended Data](ext_articles/3bd85df9.ext.json)
 
 ---
 
@@ -92,23 +126,33 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 
 ---
 
-### මියගිය කතක නමින් ජීවත්ව සිටි බවට ලිපියක් නිකුත් කල ග්‍රාම නිළධාරී අත්අඩංගුවට
+### Grama Niladhari arrested for alive in the deceased woman
 
 *2024-05-15 20:16:21* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-කතක-නමින්-ජීවත්ව-සිටි-බවට-ලිපියක්-නිකුත්-කල-ග්‍රාම-නිළධාරී-අත්අඩංගුවට/11-409654) · `si`
 
-මියගොස් ඇති තැනැත්තියක වෙනුවෙන් ජීවත්ව සිටී බව සදහන් කරමින් ලියවිල්ලක් නිකුත්  කිරීම සම්බන්ධයෙන් ග්‍රාම නිළධාරීවරයෙකු  කළුතර කොට්ඨාශ විශේෂ අපරාධ විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A Grama Niladhari, identified as a 52-year-old resident of Mallagamuwa, Waskaduwa, was arrested by the Kalutara Special Criminal Investigation Unit for allegedly issuing a fraudulent death certificate. The incident involved a woman who submitted this document, which was intended for someone else, leading to the arrest of the suspect.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර  තේක්කවත්ත ග්‍රාම නිළධාරී වසමේ මේ වනවිට රාජකාරි කරන ග්‍රාම නිළධාරී වරයා බව පොලිසිය කීය.
+🟩
 
-සැකකරු වස්කඩුව, මිල්ලගහන්දිය ප්‍රදේශයේ පදිංචි කරුවෙකු බවත්  52 හැවිරිදි වියේ පසුවන බවත් සදහන් වේ.
+The Kalutara Special Criminal Investigation Unit has been arrested by the Kalutara Division Special Criminal Criminal Criminal Investigation Unit regarding the issuance of a deceased.
 
-සැකකාර ග්‍රාම නිළධාරී වරයා 2021 වර්ෂයේ කළුතර ප්‍රාදේශයේ  වෙනත් ග්‍රාම නිළධාරී වසමක රාජකාරි ආවරණය  කරමින් සිටියදී මියගොස් ඇති  කාන්තාවකගේ නමට ඇය ජීවත්ව සිටී බව සදහන් කරමින් මුස්ලිම්  දේවස්ථානයක මව්ලවි වරයෙකු අමතා  ලිපියක් නිකුත්කර ඇති බව පොලිසිය සදහන් කරයි.
+The suspect was the Grama Niladhari, the Grama Niladhari of the Divisional Secretariat, Kalutara.
 
-එසේ නිකුත් කල ලිපිය රැගෙන ගිය කාන්තාව එම ලිපිය ඉදිරිපත් කර වෙනත් පුද්ගලයකුට හිමිකම් ඇති කළුතර වෙට්ටුමකඩ ප්‍රදේශයේ ඉඩමක කොටසක් වෙනුවෙන් ව්‍යාජ ඔප්පුවක් සකස්කර ගෙන ඇති බවද පොලිසිය සදහන් කරයි.
+The suspect is a resident of Mallagamuwa, Waskaduwa, a 52 year old.
 
-...
+The suspect Grama Niladhari has issued a letter from a mosque who has been living in a village officer in Kalutara district, police said.
+
+The woman who had taken the letter was carried out by submitting the letter had been prepared for another person, police said.
+
+The statement of the letter has been released after the post is not known and the letter has been issued and the letter has been released after requesting two children with two young children.
+
+The suspect was to be produced before the Kalutara Magistrate's Court. Kalutara Division Special Criminal Investigation Unit Investigations
+
+◼️
 
 [Data](articles/c282e72a.json)
+
+[Extended Data](ext_articles/c282e72a.ext.json)
 
 ---
 
@@ -274,13 +318,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS
+
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
-
-It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2309,23 +2353,5 @@ Meanwhile, it was revealed in the COPE meeting that the Ceylon Electricity Board
 [Data](articles/f5a67878.json)
 
 [Extended Data](ext_articles/f5a67878.ext.json)
-
----
-
-### Public asked not to panic over AstraZeneca vaccine
-
-*2024-05-15 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-asked-not-to-panic-over-AstraZeneca-vaccine/108-282643) · `en`
-
-Colombo, May 15 (Daily Mirror) - In the wake of the recent mass withdrawal of AstraZeneca vaccines due to concerns over rare blood clots, Sri Lanka health experts emphasized that individuals who have received the AstraZeneca vaccine need not harbour undue fears regarding its safety.
-
-Addressing the media, Dr. Ananda Wijewickrama, Chairman of the National Medicinal Drugs Regulatory Authority, referenced a case in which the manufacturer of AstraZeneca acknowledged that complications from the vaccine are exceedingly rare, a fact they had previously admitted.
-
-He underscored that these rare complications are not indicative of future adverse effects, providing reassurance on the overall safety profile of the vaccine.
-
-◼️
-
-[Data](articles/24323728.json)
-
-[Extended Data](ext_articles/24323728.ext.json)
 
 ---

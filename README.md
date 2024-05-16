@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 01:52:30**
+As of **2024-05-17 02:03:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,554 (100.0%) of 24,557 articles have been extended.
+24,557 (100.0%) of 24,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -284,6 +284,8 @@ As Sri Lanka continues to recover from the recent crisis, this time last year, a
 
 [Data](articles/c97297f5.json)
 
+[Extended Data](ext_articles/c97297f5.ext.json)
+
 ---
 
 ### Is Sri Lanka’s population truly declining amid economic crisis and COVID-19?
@@ -297,6 +299,8 @@ Despite concerns about declining population in Sri Lanka due to factors like red
 ...
 
 [Data](articles/ff6a61be.json)
+
+[Extended Data](ext_articles/ff6a61be.ext.json)
 
 ---
 
@@ -1606,21 +1610,29 @@ The people have been asked to take necessary steps to reduce the damages caused 
 
 ---
 
-### ’’ தடை உத்தரவை நீக்கிய  நீதி மன்றம் ’’
+### The tribunal removed the ban
 
 *2024-05-16 16:41:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடை-உத்தரவை-நீக்கிய-நீதி-மன்றம்/175-337434) · `ta`
 
-முள்ளிவாய்க்கால் நினைவுக் கஞ்சியை வழங்குவதற்கு மூதூர் நீதிமன்றம் முன்னர் வழங்கியிருந்த தடை உத்தரவை வியாழக்கிழமை (16) மூதூர் நீதிமன்றம் நீக்கியது என  இவ் வழக்கில் எதிராளிகள் சார்பில் முன்னிலையாகிய சட்டத்தரணி சுகாஸ் கூறியுள்ளார் .
+The tribunal lifted a ban after Attorney Sukhas argued on behalf of the opponents in the Muttur court. The ban was initially imposed by the same court but was reversed due to Sukhas' intervention. A man and three women were arrested for violating the ban, and they remain in custody until further notice.
 
-சேனையூர் பிள்ளையார் கோவிலில் வைத்து முள்ளிவாய்க்கால் கஞ்சி வழங்கியமைக்காக கைது செய்யப்பட்டிருந்தவர்களின் வழக்கு புதன்கிழமை (15) விசேட நகர்த்தல் பத்திரம் மூலம் மூதூர் நீதிமன்றத்தில் எடுத்துக்கொள்ளப்பட்ட்டபோதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார் .
+🟩
 
-மேலும் அவர் தெரிவிக்கையில், " எதிராளிகள் சார்பில் முன்னிலையாகிய  எனது வாதத்தை அடுத்து மூதூர் நீதிபதி தஸ்னீம் பெளசான் பானு இவ் தடை நீக்கல் தொடர்பான உத்தரவை விடுத்தார்.
+Attorney Sukhas, who appeared on behalf of the opponents, said that the Muttur court had removed the previous ban issued by the Muttur court on Thursday (16).
 
-சென்ற12 ம் திகதி இரவு கஞ்சி வழங்கியமை மூலம் நீதிமன்ற தடையுத்தரவை மீறிய குற்றச்சாட்டின் கீழ் ஒரு ஆணும்,மூன்று பெண்களும் சம்பூர் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+He was speaking at the Muttur court on Wednesday (15) by the case of Mullivaikkal Kanji at the Senayoor Pillaiyar temple.
 
-...
+He also said, “Following my argument on behalf of the opponents, Muttur Judge Dasneem Bhusan Banu issued an order on the ban.
+
+A man and three women were arrested by the Sampur police on charges of violating a court ban on the night of the 12th.
+
+They were produced before the Muttur court on the 13th and ordered to be remanded until the 27th of this month.. R. He was not granted bail on Wednesday (15) because of his arrest under the law. ”
+
+◼️
 
 [Data](articles/9ad5dc17.json)
+
+[Extended Data](ext_articles/9ad5dc17.ext.json)
 
 ---
 

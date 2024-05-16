@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 00:18:37**
+As of **2024-05-17 00:33:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,540 (100.0%) of 24,541 articles have been extended.
+24,541 (100.0%) of 24,541 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -990,19 +990,27 @@ He also pointed out that he has obtained legal documents to be obtained through 
 
 ---
 
-### இலங்கை தேர்தல்கள் பற்றிய கணக்கெடுப்பு எதனையும் ஐக்கிய நாடுகள் அகதிகள் முகவரகம் நடத்தவில்லை
+### The United Nations Refugee Agency has not conducted any survey on Sri Lankan elections
 
 *2024-05-16 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183711) · `ta`
 
-இலங்கையில் நடைபெறவுள்ள தேர்தல் குறித்து இலங்கையிலுள்ள ஐக்கிய நாடுகள் அகதிகள் முகவரகம் நடத்திய தனித்துவமான கணக்கெடுப்பின் அறிக்கை அவர்களது தலைமை அலுவலகத்துக்கு அனுப்பப்படுவதற்கு முன்பே வெளியிடப்பட்டுள்ளதாகவும், இந்நாட்டின் உயர்மட்ட புலனாய்வு அதிகாரி ஒருவர் ஊடாக இந்த அறிக்கை கசிந்துள்ளதாகவும் 'அரகல நியூஸ்' எனும் இணையதளம் செய்தியொன்றை பிரசுரித்துள்ளது.
+The UN Refugee Agency hasn't surveyed Sri Lankan elections, but a leaked report predicts Sajith Premadasa's party will win with 36.31% of the vote, followed by SLPA with 34.53%. UNP under Ranil Wickremesinghe is projected to finish third with 16.35%, and the national people's power fourth with 10.59%. This report, allegedly based on a 20-day survey by 330 university students, is widely shared online despite skepticism about its authenticity.
 
-இந்தச்செய்தியுடன் அறிக்கை ஒன்றும் இணைக்கப்பட்டு சமூக வலைதளங்களில் வேகமாக பகிரப்பட்டு வருவதுடன், அது குறித்து பல்வேறு கருத்துக்களும் முன்வைக்கப்பட்டு வருகின்றன.
+🟩
 
-மேலும், இந்த அறிக்கை 330 பல்கலைக்கழக மாணவர்களால் 20 நாட்களாக நடத்தப்பட்ட கணக்கெடுப்பு எனக் கூறப்பட்டுள்ளது. இதில் ஒவ்வொரு மாவட்டத்தையும், ஒவ்வொரு தேர்தல் தொகுதியையும் பிரதிநிதித்துவப்படுத்தியும், ஒவ்வொரு இனத்தவர் மற்றும் ஒவ்வொரு தொழில்முறை நபர்களைப் பிரதிநிதித்துவப்படுத்தியும் மக்களின் கருத்துக்கள் பெறப்பட்டதாக அவர்கள் இந்த அறிக்கையில் தெரிவித்துள்ளனர். 28 பக்கங்களைக் கொண்ட இந்த அறிக்கையில் உள்ளகடக்கப்பட்டுள்ள விடயங்களாவன:
+A report by the United Nations Refugee Agency in Sri Lanka has issued a report on the elections in Sri Lanka and has published a website called 'Arakala News' that the report has been leaked by a high -level intelligence officer of the country before it was sent to their head office.
+
+A report with this message is being linked and rapidly shared on social networks, and various comments are being made on it.
+
+In addition, the report is said to be a 20 -day survey by 330 university students. In this statement, they said that the opinions of the people were received by representing each district and every electoral constituency, representing each ethnicity and every professional person.. The 28 -page report contains the subjects inner:
+
+United People's Power President Sajith Premadasa will get 36.31 per cent votes, and it is 34.53 per cent that the Sri Lanka PA will get second votes.
 
 ...
 
 [Data](articles/a59e2cc8.json)
+
+[Extended Data](ext_articles/a59e2cc8.ext.json)
 
 ---
 

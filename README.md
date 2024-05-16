@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 15:03:23**
+As of **2024-05-16 15:18:22**
 
 ## Newspaper Stats
 
-*Scraped **24,452** Articles*
+*Scraped **24,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,091
-adaderanalk | 2,830
+adalk | 2,092
+adaderanalk | 2,832
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
 dailymirrorlk | 3,836
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,899
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,448 (100.0%) of 24,452 articles have been extended.
+24,452 (100.0%) of 24,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Complaint filed with Bribery Commission against Maithripala Sirisena
+
+*2024-05-16 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99254/complaint-filed-with-bribery-commission-against-maithripala-sirisena) · `en`
+
+A former executive member of the Sri Lanka Freedom Party (SLFP), Montague Sarathchandra has filed a complaint with the Commission to Investigate Allegations of Bribery or Corruption against former President Maithripala Sirisena.
+
+In a letter to the Chairman of the Bribery Commission, Mr. Sarathchandra claims that party supporters are speculating that former President Maithripala Sirisena has paid the compensation to the victims of the Easter Sunday terror attacks, with an “advance obtained from selling the Sri Lanka Freedom Party”.
+
+The said complaint has been filed seeking an investigation in relation to how he had obtained the relevant funds.
+
+◼️
+
+[Data](articles/738e1d1b.json)
+
+---
+
+### Rise in high blood pressure observed among Sri Lankan adults
+
+*2024-05-16 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99253/rise-in-high-blood-pressure-observed-among-sri-lankan-adults) · `en`
+
+Consultant Community Physician Dr. Sherine Balasingham of the Health Ministry’s Directorate of Non-Communicable Disease says that the number of patients with high blood pressure reported in Sri Lanka has increased.
+
+She revealed that following a survey carried out covering all districts in the island on the adult population between the ages 18-69 years, it was reported that 35% of them are suffering from hypertension.
+
+She further stated that several programmes are held globally each year on May 17 to raise awareness on high blood pressure and on the third week of May regarding salt intake.
+
+Dr. Balasingham stated that a survey is also conducted in Sri Lanka once every 5 years and that according to the statistics of the last survey conducted in 2021, 35% of the individuals who took part in the survey had high blood pressure.
+
+...
+
+[Data](articles/2385e050.json)
+
+---
 
 ### ICFS offers affordable path to European master’s degree in Malta under Schengen visa
 
@@ -48,23 +82,33 @@ She said that students can be sponsored by individuals with the financial capaci
 
 [Data](articles/1c65531d.json)
 
+[Extended Data](ext_articles/1c65531d.ext.json)
+
 ---
 
-### මුදල් රාජ්‍ය අමාත්‍යවරයාට පුද්ගලයෙක්ගෙන් අනතුරු ඇගවීමක්
+### Warning to the Minister of Finance
 
 *2024-05-16 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-රාජ්‍ය-අමාත්‍යවරයාට-පුද්ගලයෙක්ගෙන්-අනතුරු-ඇගවීමක්/11-409679) · `si`
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා ඝාතනය කර  පුළුස්සා දමන බවට  නාඳුනන පුද්ගලයකු සිදුකරන ලද තර්ජනයක් සම්බන්ධයෙන් කොටුව පොලිසිය මගින්  විමර්ශන ආරම්භ කර ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Fort Police investigating threats against an unknown individual, including death and arson. A management assistant and office worker reported receiving threatening calls at 4 PM on 15th. The caller claimed to be outside Colombo. Investigations ongoing; phone analysis underway.
 
-ඊයේ (15) දිනයේ පස්වරු 4 ට හා 4.09  ට එම තර්ජනාත්මක ඇමතුම් දෙක ලැබී ඇති බව මුදල් රාජ්‍ය අමාත්‍ය කාර්යාලයේ කළමනාකරණ සහකාරවරයෙක් සහ කාර්යාල කාර්ය සේවකයෙක් පැමිණිලි කර ඇත.
+🟩
 
-ප්‍රධාන දුරකථන අංකය හරහා පස්වරු 4ට ඇමතුම ලැබීමේදී කාර්යාල කාර්ය සහායකයකු   එය ලබාගෙන ඇති අතර  මුදල් රාජ්‍ය අමාත්‍යවරයා කාර්යාලයේ නොමැති බවට පැවසීමෙන් අනතුරුව එම පුද්ගලයා " ඡන්දෙ කාලෙදි අපි තමයි සර් ට උදව් කරේ ,එයාට කොළඹට වෙලාම ඉන්න කියන ආයි මෙහේ එන්න එපා කියන්න ,ආවොත් ජීවිතයෙන් තමයි වන්දි ගෙවන්නේ වෙන්නේ යැයි පවසා දුරකථනයේ විසන්ධි කර ඇති බව " කාර්යාල කාර්ය සහයකයා  කරන ලද එම පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස් නිලධාරියා කීය නිලධාරියා කීය
+Fort police said that the Fort Police have commenced investigations into a threat to an unknown person to kill and burn and burn and burn and burn and burn and burn.
 
-ඒ ආකාරයෙන් ඊට විනාඩි නවයකට පසු  ප්‍රධාන දුරකථන අංකය හරහා ඇමතුමක් ගෙන  ඒ ආකාරයෙන්ම තර්ජනය කර ඇති බවත් එම අවස්ථාවේදී කළමනාකරන සහකාරවරයෙකු එම ඇමතුම ලබාගෙන ඇති බවත් පොලිසිය සඳහන් කරයි.
+A management Assistant and an office worker has complained that the two threatened calls have been received at 4 pm yesterday (15).
 
-...
+At 4 pm, after the government minister is not at the office, the government has obtained it at the office and the government is the office of the government, "we're the one who is not in Colombo and say that he is not in Colombo."The office assistant has said that the office assistant has said that the office assistant has stated that the office assistant has said.
+
+According to the police, a manager comprising had taken the call after a call from the main telephone number after nine minutes later.
+
+He further stated that investigations into the court regarding the threat and are conducting the telephone analysis reports.
+
+◼️
 
 [Data](articles/abcb6e2f.json)
+
+[Extended Data](ext_articles/abcb6e2f.ext.json)
 
 ---
 
@@ -631,6 +675,22 @@ Addressing the media briefing held at the PMC, he said the delegation will inclu
 [Data](articles/b588c160.json)
 
 [Extended Data](ext_articles/b588c160.ext.json)
+
+---
+
+### රුසියානු හමුදා සේවයට ලාංකිකයන් යොමුකළ රැකියා ඒජන්සිය වටලයි
+
+*2024-05-16 12:45:46* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-හමුදා-සේවයට-ලාංකිකයන්-යොමුකළ-රැකියා-ඒජන්සිය-වටලයි/11-409670) · `si`
+
+රැසියානු හමුදාවේ සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකළ බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනයක හිමිකරු හා එහි කළමනාකරු විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (5/15) අත්අඩංගුවට ගන්නා ලදී.
+
+සංචාරක වීසා මගින් රැසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන බව පවසා එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15බැගින් මුදල් අයකර විදේශ ගත කර ඇති අතර, එරටදී රැසියානු-යුක්රේන යුද්ධයේ යුධ පෙරමුණට යාමට මෙම ලාංකිකයින්ට සිදුවී ඇත.මෙම ඒජන්සි ආයතනය විසින් සිදුකළ මෙම ජාවාරම සම්බන්ධයෙන් කාර්යාංශට පැමිණිලි 7ක් ලැබී ඇති අතර, එම පැමිණිලිවලට අනුව මෙම ආයතනය වංචාකර ඇති මුදල් ප්‍රමාණය රුපියල් කෝටියකට අධික වේ.
+
+ඒ අනුව, නුගේගොඩ ස්ටැන්ලි තිලකරත්න මාවතේ පවත්වාගෙන ගිය අදාල ආයතනය ඊයේ දින (5/15) වැටලීම් කර, එහි හිමිකරු සහ කළමනාකරු වශයෙන් සේවය කළ පුද්ගලයින් දෙදෙනෙකු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+...
+
+[Data](articles/d1d47572.json)
 
 ---
 
@@ -1866,6 +1926,8 @@ Corruption in Sri Lanka manifests in various forms, from high-level political gr
 
 [Data](articles/6302f2a5.json)
 
+[Extended Data](ext_articles/6302f2a5.ext.json)
+
 ---
 
 ### Labour Party Commits To Referring Sri Lankan War Criminals To International Criminal Court
@@ -1877,6 +1939,8 @@ On Mullivaikkal Remembrance Day event organised by Tamils for Labour in the Hous
 ...
 
 [Data](articles/0a00d31d.json)
+
+[Extended Data](ext_articles/0a00d31d.ext.json)
 
 ---
 
@@ -2269,75 +2333,5 @@ However, the final decision has not yet been taken in this regard.
 [Data](articles/38274a00.json)
 
 [Extended Data](ext_articles/38274a00.ext.json)
-
----
-
-### Sri Lanka plans small arms ammo factory - Premitha
-
-*2024-05-16 06:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-plans-small-arms-ammo-factory-Premitha/108-282691) · `en`
-
-Colombo, May 16 (Daily Mirror) - State Minister of Defence Premitha Bandara Tennakoon yesterday announced that Sri Lanka is in the process of establishing a small arms ammunition manufacturing unit within the country.
-
-Speaking to reporters at the Presidential Media Centre (PMC) State Minister Tennakoon said, “We are in discussion with India to set up a small arms manufacturing unit.”
-
-“What you have to understand is the Indian defence manufacturing arm has boomed during the last two decades. It is a model that we have to look into. We can take a lot from Indian model and nothing wrong in learning from them. I think we also should get into manufacturing,” he said.
-
-In response to a question whether Sri Lanka is going to buy military equipment from India, the Minister said, “We are not trying to buy anything at the moment.”
-
-...
-
-[Data](articles/6a188fe3.json)
-
-[Extended Data](ext_articles/6a188fe3.ext.json)
-
----
-
-### What is Mullivaik Kangi Kanji '?Why is it preparation?
-
-*2024-05-16 05:01:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyg1zzme0o) · `si`
-
-Mullivaikkal Porridge Day commemorates the end of Sri Lanka's civil war, highlighting the hardships faced by civilians during the conflict. It symbolizes unity and resilience among the Northern and Eastern communities, who endured shortages and displacement. The event, marked annually, involves distributing a simple meal of rice gruel (porridge) to remember the struggles and losses experienced during the war's final days.
-
-🟩
-
-What is Mullivaik Kangi Kanji '?Why is it preparation?
-
-The civil war in Sri Lanka is a micratory and many bitter meals that saved to both parties before the war.
-
-It is not possible that this is the exact number of people regarding the number of victims of war disappearances and the disabled of the war disappearances and the victims of the war.
-
-Many of the civilians who were attacked by the Army and the LTTE were attacked by the Army and the LTTE were attacked by the LTTE and the LTTE.
-
-During the final, the people of the North and East were limited to the people of the North and East.
-
-The LTTE had no products sufficient to give the LTTE in his boundaries, and civilians in the war were moving to save everything they owned.
-
-More than three lakhs of war were no way to provide food and more than three lakhs, while some had only a rice.
-
-The inhabitants of Mullivaik coast were given to some of the gold and obtained the rice in the final combat day.
-
-...
-
-[Data](articles/53dee1c1.json)
-
-[Extended Data](ext_articles/53dee1c1.ext.json)
-
----
-
-### Top Chinese garment delegation explores collaboration opportunities in Sri Lanka
-
-*2024-05-16 03:47:31* · [`dailyftlk`](https://www.ft.lk/business/Top-Chinese-garment-delegation-explores-collaboration-opportunities-in-Sri-Lanka/34-761866) · `en`
-
-A high-profile delegation comprising 30 members of the China National Garment Association (CNGA) embarked on a mission to explore business prospects and strengthen ties with Sri Lanka’s apparel industry.
-
-Led by Ningbo Garment Association Executive Vice President Xie Qing and Vice President/Secretary General Mao Yihua, the delegation engaged in a series of strategic meetings and engagements aimed at fostering collaboration and investment opportunities.
-
-The CNGA, a prestigious industry association representing over 1,400 major members and prominent original apparel brands in China, seeks to enhance existing trade relations and forge new partnerships in Sri Lanka’s vibrant apparel sector.
-
-...
-
-[Data](articles/bf207252.json)
-
-[Extended Data](ext_articles/bf207252.ext.json)
 
 ---

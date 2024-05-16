@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 22:51:39**
+As of **2024-05-16 23:04:42**
 
 ## Newspaper Stats
 
-*Scraped **24,532** Articles*
+*Scraped **24,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,438
 adalk | 2,106
 adaderanalk | 2,840
 tamilmirrorlk | 2,883
-virakesarilk | 3,691
+virakesarilk | 3,692
 dailymirrorlk | 3,851
 adaderanasinhalalk | 3,914
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,527 (100.0%) of 24,532 articles have been extended.
+24,532 (100.0%) of 24,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Dr Sachin Karale, chair of Ipswich Hindu Samaj, said: “It shows the great dive
 ...
 
 [Data](articles/8cd02e26.json)
+
+[Extended Data](ext_articles/8cd02e26.ext.json)
 
 ---
 
@@ -94,6 +96,8 @@ The Petitioner states that he always had a deep affection and keen interest in a
 
 [Data](articles/c7cbfd25.json)
 
+[Extended Data](ext_articles/c7cbfd25.ext.json)
+
 ---
 
 ### O/L examination for 14 students
@@ -132,6 +136,8 @@ The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthura
 
 [Data](articles/8d710e12.json)
 
+[Extended Data](ext_articles/8d710e12.ext.json)
+
 ---
 
 ### Resumption of India-Sri Lanka ferry service delayed indefinitely
@@ -155,6 +161,20 @@ India has also extended a grant assistance of USD 63.65 million -- the entire pr
 [Data](articles/fe0e4ed8.json)
 
 [Extended Data](ext_articles/fe0e4ed8.ext.json)
+
+---
+
+### இலங்கை அரசாங்கம் ஈழத்தமிழர்களை  இனப்படுகொலை செய்தது  என்பதை அங்கீகரிக்கவேண்டும்  -அமெரிக்க காங்கிரஸில் சமர்ப்பிக்கப்பட்டுள்ள தீர்மானத்தில் வேண்டுகோள்
+
+*2024-05-16 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183734) · `ta`
+
+இலங்கை அரசாங்கம் தமிழ் மக்களிற்கு எதிரான இனப்படுகொலையில் ஈடுபட்டது என்பதை அமெரிக்க காங்கிரஸ் ஏற்றுக்கொள்ளவேண்டும்  ஈழத்தமிழர்களிற்கானசுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை நடத்துவதை நோக்கிய செயற்பாடுகளில் ஈடுபடவேண்டும் என கோரும் வரலாற்று முக்கியத்துவம் வாய்ந்த தீர்மானம் அமெரிக்க காங்கிரஸில் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+ஈழத்தமிழர்களின் சுயநிர்ணய உரிமைக்கு ஆதரவளிப்பதன்மூலம் நிரந்தர சமாதானத்திற்காக சுதந்திரத்திற்கான சர்வஜன வாக்கெடுப்பிற்கு ஆதரவளிப்பதன் மூலம் தமிழர்கள் இனப்படுகொலை உட்பட வன்முறைகள மீள நிகழாமையை உறுதி செய்யவேண்டும் என தீர்மானத்தில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/97a5e4c7.json)
 
 ---
 
@@ -235,6 +255,8 @@ Employees of the Irrigation Department held a protest outside their office today
 ◼️
 
 [Data](articles/f00136df.json)
+
+[Extended Data](ext_articles/f00136df.ext.json)
 
 ---
 
@@ -332,21 +354,29 @@ SJB Leader Sajith Premadasa has still not responded to the invitation while NPP 
 
 ---
 
-### ඇමති ශෙහාන්ට මරණ තර්ජන
+### Minister of Ministers Sheha threatened with death
 
 *2024-05-16 19:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ශෙහාන්ට-මරණ-තර්ජන/11-409688) · `si`
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා ඝාතනය කර  පුළුස්සා දමන බවට   නාඳුනන පුද්ගලයකු සිදුකරන ලද තර්ජනයක් සම්බන්ධයෙන් කොටුව පොලිසිය මගින්  විමර්ශන ආරම්භ කර ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Sheha, Minister of Ministers, faced a death threat, prompting Fort Police to investigate. A government office received two threatening calls on the 15th, demanding not to attend work. The caller identified himself as "Sir" but was disconnected before revealing his identity. The case is under investigation, including phone analysis.
 
-ඊයේ (15) පස්වරු 4 ට හා 4.09  ට එම තර්ජනාත්මක ඇමතුම් දෙක ලැබී ඇති බව   මුදල් රාජ්‍ය අමාත්‍ය කාර්යාලයේ කළමනාකරණ සහකාරවරයෙක් සහ කාර්යාල කාර්ය සේවකයෙක්  පැමිණිලි කර ඇත.
+🟩
 
-ප්‍රධාන දුරකථන අංකය හරහා පස්වරු 4.ට ඇමතුම ලැබීමේදී කාර්යාල කාර්ය සහායකයකු   එය ලබාගෙන ඇති අතර  මුදල් රාජ්‍ය අමාත්‍යවරයා කාර්යාලයේ නොමැති බවට පැවසීමෙන් අනතුරුව එම පුද්ගලයා " ඡන්දෙ කාලෙදි අපි තමයි සර්ට උදව් කරේ ,එයාට කොළඹට වෙලාම ඉන්න කියන ආයි මෙහේ එන්න එපා කියන්න ,ආවොත් ජීවිතයෙන් තමයි වන්දි ගෙවන්නේ වෙන්නේ යැයි පවසා දුරකථනයේ විසන්ධි කර ඇති බව  " කාර්යාල කාර්ය සහයකයා  කරන ලද එම පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස් නිලධාරියා කීය නිලධාරියා කීය.
+Fort police said that the Fort Police have commenced investigations into a threat to an unknown person to kill and burn and burn and burn and burn and burn and burn.
 
-ඒ ආකාරයෙන් ඊට විනාඩි නවයකට පසු  ප්‍රධාන දුරකථන අංකය හරහා ඇමතුමක් ගෙන  ඒ ආකාරයෙන්ම තර්ජනය කර ඇති බවත් එම අවස්ථාවේදී කළමනාකරන සහකාරවරයෙකු එම ඇමතුම ලබාගෙන ඇති බවත්  පොලිසිය සඳහන් කරයි.
+A management Assistant and an office worker has complained that the two threatened calls have been received at 4 pm yesterday (15th).
 
-...
+It has been obtained by a office staff of the government through the main telephone number and after the government minister is in office, he is the one who says to Sir, don't say, 'Don't come here in the life,"The Office Assistant said that the office assistant was disconnected to say he would be compensated."
+
+According to the police, a manager comprising had taken the call after a call from the main telephone number after nine minutes later.
+
+Speaking to the court regarding the threat, the Higher Police Officer added that investigations are conducted through telephone analysis reports
+
+◼️
 
 [Data](articles/96a42f6f.json)
+
+[Extended Data](ext_articles/96a42f6f.ext.json)
 
 ---
 
@@ -2347,29 +2377,5 @@ Those responsible for these crimes continue to remain in high positions in the S
 [Data](articles/c81ef29d.json)
 
 [Extended Data](ext_articles/c81ef29d.ext.json)
-
----
-
-### Timeline until the 10th
-
-*2024-05-16 12:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆம்-திகதி-வரை-கால-அவகாசம்/175-337423) · `ta`
-
-The Public Utilities Commission plans to announce electricity tariff rates in July. The Electricity Board requested more time to suggest ways to lower these rates. Despite the General Utilities Commission extending the proposal submission deadline to May 10th, the proposals were not received by the Ceylon Electricity Commission on this date, according to Chairman Professor Manjula Fernando.
-
-🟩
-
-The Public Utilities Commission said that the rate of electricity tariffs will be announced in July.
-
-Meanwhile, the Electricity Board has asked the Public Utilities Commission to grant time to submit ideas on reducing electricity tariffs.
-
-As these proposals are to be presented to the Commission on May 1, the General Utilities Commission has extended the deadline until the 10th of this month.
-
-However, the proposals were not submitted to the Ceylon Electricity Commission on the 10th of this month, its chairman Professor Manjula Fernando said.
-
-◼️
-
-[Data](articles/2311d80f.json)
-
-[Extended Data](ext_articles/2311d80f.ext.json)
 
 ---

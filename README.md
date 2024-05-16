@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 18:52:30**
+As of **2024-05-16 19:03:26**
 
 ## Newspaper Stats
 
-*Scraped **24,499** Articles*
+*Scraped **24,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,099
+adalk | 2,101
 adaderanalk | 2,837
-tamilmirrorlk | 2,879
-virakesarilk | 3,685
+tamilmirrorlk | 2,880
+virakesarilk | 3,687
 dailymirrorlk | 3,844
 adaderanasinhalalk | 3,908
 
@@ -26,29 +26,63 @@ adaderanasinhalalk | 3,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,497 (100.0%) of 24,499 articles have been extended.
+24,499 (100.0%) of 24,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### පාරිභෝගික අධිකාරියේ බලය ගැන හෙළිදරව්වක්
+### வெல்லவாய – எல்ல பிரதான வீதிக்கு பூட்டு
+
+*2024-05-16 18:46:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெல்லவாய-எல்ல-பிரதான-வீதிக்கு-பூட்டு/76-337439) · `ta`
+
+வெல்லவாய – எல்ல பிரதான  வீதியூடான போக்குவரத்து வியாழக்கிழமை (16) மாலை 6 மணி முதல் வௌ்ளிக்கிழமை (17) காலை 6 மணி வரை தற்காலிகமாக மூடப்படும் என பொலிஸார் அறிவித்துள்ளனர்.
+
+கரந்தகொல்ல மற்றும் இராவணா எல்ல ஆகிய பகுதிகளுக்கு இடைப்பட்ட பிரதேசத்தில் கற்கள் மற்றும் மண் மேடுகள் சரிந்து வீழ்ந்துள்ளதாக பொலிஸார் குறிப்பிடுகிறனர்.
+
+குறித்த பகுதியில் பெய்யும் கடும் மழையுடனான வானிலையை அடுத்தே, மண் மேடுகள் சரிந்து வீழ்ந்துள்ளன.
+
+◼️
+
+[Data](articles/41923198.json)
+
+---
+
+### විස්සයි20 තුන් ඉරියව් ක්‍රීඩකයන් අතර වනිඳුට සම පළමු තැන
+
+*2024-05-16 18:43:30* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තුන්-ඉරියව්-ක්‍රීඩකයන්-අතර-වනිඳුට-සම-පළමු-තැන/9-409683) · `si`
+
+විස්සයි20 තුන් ඉරියව් ක්‍රීඩකයන් ශ්‍රේණිගත කිරීම්වල සම පළමු ස්ථානයට ශ්‍රී ලංකාවේ විස්සයි20 නායක වනිඳු හසරංග හා බංග්ලාදේශ තුන් ඉරියව් ක්‍රීඩක ශකිබ් අල් හසන් පත්ව තිබේ. වනිඳු හා ශකිබ් සම ලකුණු 228ක් ලබාගෙන තිබේ.
+
+◼️
+
+[Data](articles/75d313cc.json)
+
+---
+
+### A revelation of the power of the Consumer Authority
 
 *2024-05-16 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196693) · `si`
 
-වසර 19ක් පමාවී ඇති පාරිභෝගික අධිකාරියේ පනත සංශෝධනය කඩිනම් කරන්න ලෙස කෝප් කමිටුව පාරිභෝගික සේවා අධිකාරියට දැනුම්දී තිබේ.
+The COPE Committee urged the Consumer Affairs Authority to speed up the implementation of its Act, which has been pending for 19 years. This call came after a meeting between the committee and the authority, where the latter presented its current performance. The Minister of Trade emphasized the need for a robust program to combat major fraud cases, involving Sri Lanka Customs. He also mentioned upcoming amendments to the Act, with the aim of concluding the process within the next 19 years.
 
-පාරිභෝගික ‍කටයුතු අධිකාරියේ 2021 සහ 2022 මුදල් වර්ෂවල විගණකාධිපති වාර්තා සහ වත්මන් කාර්ය සාධනය පරීක්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව පසුගියදා රැස්වූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකර ඇත.
+🟩
 
-ශ්‍රී ලංකා රේගුව හා සම්බන්ධවෙමින් මහා පරිමාණ තොග ව්‍යාපාර වැටලීම් සිදුකිරීම සඳහා විධිමත් වැඩපිළිවෙළක් සකස් කිරීම පිළිබඳ අවධානය යොමුවූ අවස්ථාවේදී වෙළෙඳ අමාත්‍යාංශ ලේකම්වරයා පවසා ඇත්තේ වත්මන් පනත අනුව වැටලීම් කිරීම සඳහා බලය ඇත්තේ සිල්ලර වෙළෙඳාම සම්බන්ධයෙන් පමණක් බවත් තොග හෝ නිෂ්පාදකයාගේ ගබඩා පරීක්ෂා කර නෛතික පියවර ගැනීමට බලයක් නැති බවත්ය.
+The COPE Committee has informed the Consumer Affairs Authority to expedite the Consumer Affairs Authority Act in 19 years.
 
-මේ අනුව අදාළ අංශ අනාවරණය වන ලෙස පනත සංශෝධනය කිරීම සිදුවන බවත් මේ වන විට එය අවසන් අදියරේ පවතින බවත් ඒ මහතා වැඩිදුරටත් පවසා ඇත.
+The notice has been made when the Committee on Public Enterprises were recently met with the Consumer Affairs Authority, the report and the current performance of the Current Performance.
 
-මෙහිදී කාරක සභා සභාපති පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා අවධාරණය කළේ 2004 වසරේ ආරම්භ කළ පනත සංශෝධනය කිරීම වසර 19ක් පමා වී ඇති බැවින් මෙම කටයුතු කඩිනමින් නිමා කරන ලෙසය.
+The Director of the Ministry of Trade, the Trade Secretary to the Board has said that the maintenance of a proper program to conduct a major armation business raids on behalf of the Sri Lanka Customs..
+
+He added that the Act is being amended as the bill will be revealed to be revealed.
+
+Committees Chairman Rohitha Abeygunawardena stressed the 2004 amendment to amend the 2004 Amendment to the establishment of 19 years to end the work.
 
 ◼️
 
 [Data](articles/6076406f.json)
+
+[Extended Data](ext_articles/6076406f.ext.json)
 
 ---
 
@@ -57,6 +91,8 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-05-16 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99259/ella-wellawaya-road-temporarily-closed) · `en`
 
 The Ella - Wellawaya main road will be temporarily closed for traffic from 6.00 p.m. today (16) until 6.00 a.m. tomorrow due to the prevailing inclement weather conditions.
+
+This decision has been taken owing to the dangerous condition of the road in several areas including the Malithagolla area while motorists using the road are advised to use alternate routes.
 
 ◼️
 
@@ -84,6 +120,8 @@ The expert forensic doctor at the Nuwara Eliya District General Hospital conduct
 
 [Data](articles/ae0d3b1b.json)
 
+[Extended Data](ext_articles/ae0d3b1b.ext.json)
+
 ---
 
 ### Agency owner, manager arrested for illegally recruiting Sri Lankans for Russian army
@@ -103,6 +141,24 @@ The SLBFE said it has received 07 complaints regarding the racket operated by th
 [Data](articles/37d685d6.json)
 
 [Extended Data](ext_articles/37d685d6.ext.json)
+
+---
+
+### விடுதலைப் புலிகள் மீதான தடை அநீதியானது -  உலகத் தமிழர் பேரமைப்பின் தலைவர் பழ. நெடுமாறன் கண்டனம்
+
+*2024-05-16 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183719) · `ta`
+
+தமிழீழ விடுதலைப்புலிகள் மீதான தடையை மேலும் ஐந்து ஆண்டுகளுக்கு நீட்டிப்பதாக இந்திய அரசின் உள்துறை அறிவித்துள்ளது. இதற்கு உலகத் தமிழர் பேரமைப்பின் தலைவர் பழ. நெடுமாறன் கண்டனம் தெரிவித்து அறிக்கையொன்றை வெளியிட்டுள்ளார்.
+
+தமிழீழ விடுதலைப்புலிகள் மீதான தடையை மேலும் ஐந்து ஆண்டுகளுக்கு நீட்டிப்பதாக இந்திய அரசின் உள்துறை அறிவித்துள்ளது. அதற்குரிய காரணங்களாகக் கீழ்க்கண்டவற்றை குறித்துள்ளது.
+
+“2009ஆம் ஆண்டு இலங்கையில் நடைபெற்ற போர் முடிவுக்கு வந்த பிறகும், விடுதலைப்புலிகள் இயக்கம் தமிழீழத் தனிநாட்டுக் கோரிக்கையைக் கைவிடவில்லை. அதற்கான ஆதரவு மற்றும் நிதித் திரட்டல் வேலைகளில் தொடர்ந்து ஈடுபட்டு வருகிறது.
+
+விடுதலைப்புலிகளின் இயக்கம் தமிழ்நாட்டில் இரகசியமாகச் செயல்படுகிறது. அனைத்துத் தமிழர்களுக்குமான தனி நாடு என்ற கோரிக்கையில் இந்தியாவில் உள்ள தமிழ்நாட்டையும் சேர்த்துள்ளது. இந்தியாவின் இறையாண்மை, ஒருமைப்பாடு ஆகியவற்றுக்கு புலிகளின் நோக்கம் எதிரானது மட்டுமல்ல, இந்தியாவின் பாதுகாப்புக்கு அச்சுறுத்தலாகவும் உள்ளது.”
+
+...
+
+[Data](articles/1c9bc7ad.json)
 
 ---
 
@@ -504,6 +560,22 @@ Meanwhile, speaking to the media in Habarana, the State Minister revealed that t
 
 ---
 
+### ජනපතිට ඉන්දුනීසියාවේ සංචාරක්
+
+*2024-05-16 16:19:14* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-ඉන්දුනීසියාවේ-සංචාරක්/11-409682) · `si`
+
+ඉන්දුනීසියාවේ බාලි නගරයේ පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගීවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මැයි 18වනදා දිවයිනෙන් පිටත්ව යාමට නියමිත බව එම මාධ්‍ය අංශය සදහන් කරයි.
+
+“සාමුහික සෞභාග්‍ය සඳහා ජලය” යන තේමාව යටතේ  10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසිය මැයි 18 සිට 20 දක්වා ඉන්දුනීසියාවේ බාලි නගරයේ දී පැවැත් වේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මැයි 20 වනදා සමුළුව අමතා සිය දේශනය ඉදිරිපත් කිරීමට නියමිත බව වැඩිදුරටත් ජනාධිපති මාධ්‍ය අංශය සදහන් කරයි.
+
+◼️
+
+[Data](articles/bb3034ee.json)
+
+---
+
 ### Press first begins Sri Lanka
 
 *2024-05-16 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196686) · `si`
@@ -649,6 +721,22 @@ The Ministry of Education has further stated that the Circular is still inquiry 
 [Data](articles/cc4acbf6.json)
 
 [Extended Data](ext_articles/cc4acbf6.ext.json)
+
+---
+
+### பொறுப்புக்கூறலுக்கும் நல்லிணக்கத்தை ஏற்படுத்துவதற்கும் பாரிய பின்னடைவு - யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு
+
+*2024-05-16 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183682) · `ta`
+
+முள்ளிவாய்க்கால் கஞ்சி வழங்கியவர்களை கைது செய்வது பொறுப்புக்கூறலுக்கும், நீதியை நிலைநாட்டுவதற்கும். நல்லிணக்கத்தை ஏற்படுத்துவதற்கும்,  பாரிய பின்னடைவாகும் என யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு தெரிவித்துள்ளது
+
+முள்ளிவாய்க்கால்  கஞ்சி வழங்கியவர்களை கைது செய்தல்,தடையேற்படுத்துவது தொடர்பாக யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு வெளியிட்ட அறிக்கையில் தெரிவித்துள்ளது.
+
+வடக்குக்கிழக்குத்தமிழ் மக்களுக்கெதிராக இலங்கை அரசினால் 3 தசாப்தங்களுக்கு மேல் மேற்கொள்ளப்பட்ட இனஅழிப்புப்போரின் ஒரு முக்கிய குறியீடு தான் இந்த முள்ளி வாய்க்கால் கஞ்சி. இன்று முள்ளிவாய்க்கால் கஞ்சியை குடித்து சாவிலிருந்து தப்பியவர்கள் சிலர் இன்னமும் நம் மத்தியில் வாழ்கிறார்கள். அவர்களது துயர அனுபவம் வருங்கால சமுதாயத்தினருக்கு விளக்கிப்பகிரப்பட வேண்டியதொன்று.
+
+...
+
+[Data](articles/a3446bd6.json)
 
 ---
 
@@ -2259,111 +2347,5 @@ Lakshmi was taken to the interim camp where about 250 000 people were detained f
 [Data](articles/bea01390.json)
 
 [Extended Data](ext_articles/bea01390.ext.json)
-
----
-
-### MPs request to incorporate family members on their insurance
-
-*2024-05-16 10:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமது-காப்பீட்டில்-குடும்பத்தவரையும்-இணைக்க-எம்-பிக்கள்-கோரிக்கை/175-337411) · `ta`
-
-MPs seek to extend their insurance coverage to include family members, requesting an increase from one million rupees. This follows their authorization for concession vehicle licenses, discussed during a House Committee meeting. The move comes as they already cover their own insurance and that of the Ministry of Parliamentary Affairs, indicating willingness to pay more for family inclusion. The Speaker has urged the President to consider granting these permits, with the government potentially reviewing such concessions post-lift of the vehicle import ban.
-
-🟩
-
-A reliable source yesterday said that the MPs had requested that their family members be extended to one million rupees insurance for the inclusion of their family members following the authorization for concession vehicle licenses.
-
-At the House Committee meeting held last Friday, MPs have heard this while urging the permission of the vehicle permit for the second time.
-
-They are currently paying the amount of insurance of MPs and the Ministry of Parliamentary Affairs. They are said to have tried to add their family members to it and agreed to pay an increased amount.
-
-More. The Daily Mirror has reported that Speaker Mahinda Yapa Abeywardena has written to President Ranil Wickremesinghe to consider the grant of permits demanded by MPs.
-
-The government is considering such concessions once the ban on vehicle imports is lifted.
-
-◼️
-
-[Data](articles/723a19c3.json)
-
-[Extended Data](ext_articles/723a19c3.ext.json)
-
----
-
-### Two missing students found in Kaduwela
-
-*2024-05-16 10:57:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාන්‍යපෙල-විභාගයට-පෙනි-සිටිමට-ගොස්-අතුරුදහන්-වු-සිසුවියන්-දෙදෙනා-කඩුවෙලෙන්-හමුවෙයි/11-409667) · `si`
-
-Two missing students from Ginigathena were found in Kaduwela after being reported missing. They had gone to Colombo and then stayed with a relative in Kaduwela before being located.
-
-🟩
-
-The Ginigathena Police OIC Chief Police Inspector Viraj Vithanage said that the two students were informed of the two students in Kaduwela yesterday (14).
-
-The parents of the two students had lodged a complaint with the Ginigathena police, as the two students who had been closed to the examination center in the Ginigamuwa National School (14).
-
-The OIC said that the two students went to Colombo and later went to a cousin at Kaduwela, who later went to a neo-Kaduwela, and said that the 15th night in Kaduwela has been told that this night has been informed of it.
-
-The two schoolgirls are brought to the Ginigathena Police today (16) by their relatives today (16).
-
-◼️
-
-[Data](articles/ddccbd54.json)
-
-[Extended Data](ext_articles/ddccbd54.ext.json)
-
----
-
-### President advises against the problem of Russia
-
-*2024-05-16 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196671) · `si`
-
-President instructs immediate dispatch of a delegation including the Foreign Minister, Defense Secretary, and a former ambassador to address issues with Russia. The Defense Ministry will gather additional information from individuals returning from Russia.
-
-🟩
-
-Minister of External Affairs Tharaka Balasuriya said that the President has instructed the President to send a delegation as soon as possible.
-
-Speaking at a press conference held at a press conference held at a press conference held today (16), the State Minister was instructed to send them the delegation from the Ministry of External Affairs, Defense Secretary and former ambassador.
-
-The Ministry of Defense states that the Ministry of Defense has also operates to add information from the people who went to Russia.
-
-◼️
-
-[Data](articles/f81d11ee.json)
-
-[Extended Data](ext_articles/f81d11ee.ext.json)
-
----
-
-### President to visit Indonesia
-
-*2024-05-16 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-visit-Indonesia/108-282714) · `en`
-
-Colombo, May 16 (Daily Mirror)- President Ranil Wickremesinghe will attend the 10th World Water Forum High-Level Meeting in Indonesia, from 18 - 20 May at the invitation of Indonesian President Joko Widodo, the President's Media Division (PMD) said.
-
-President Wickremesinghe will deliver a statement at the High-Level forum on May 20 themed "Water for Shared Prosperity", and engage in several bilateral meetings, including with President Widodo, the PMD said.
-
-◼️
-
-[Data](articles/cfe93638.json)
-
-[Extended Data](ext_articles/cfe93638.ext.json)
-
----
-
-### Duminda's plea rejection
-
-*2024-05-16 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவின்-மனு-நிராகரிப்பு/175-337410) · `ta`
-
-Duminda Dissanayake's petition against SLFP's appointment was dismissed without hearing from Justice Minister Vijayadasa Rajapakse.
-
-🟩
-
-The petition filed by Parliamentarian Duminda Dissanayake has been rejected without the hearing of Justice Minister Vijayadasa Rajapakse, challenging the appointment of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/937c137a.json)
-
-[Extended Data](ext_articles/937c137a.ext.json)
 
 ---

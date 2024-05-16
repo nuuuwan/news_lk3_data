@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 10:18:27**
+As of **2024-05-16 10:33:34**
 
 ## Newspaper Stats
 
-*Scraped **24,371** Articles*
+*Scraped **24,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 1,401
 dailyftlk | 1,437
 adalk | 2,079
 adaderanalk | 2,823
-tamilmirrorlk | 2,864
+tamilmirrorlk | 2,865
 virakesarilk | 3,661
 dailymirrorlk | 3,822
-adaderanasinhalalk | 3,885
+adaderanasinhalalk | 3,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,369 (100.0%) of 24,371 articles have been extended.
+24,371 (100.0%) of 24,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### විජයදාස ඇතුළු නිලධාරීන්ට එරෙහිව වාරණයක් නිකුත් කිරීම ප්‍රතික්ෂේප කෙරේ
+
+*2024-05-16 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196669) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතාත්, වැඩබලන ලේකම්වරයා ලෙස කීර්ති උඩවත්ත මහතාත් පත් කර ගැනීමට ගනු ලැබූ තීරණය මත එම පක්ෂය, එහි සංවිධාන හා නිලධාරීන් ක්‍රියා කිරීම වළක්වාලමින් වාරණ නියෝගයක් නිකුත් කිරීම කොළඹ දිසා අධිකරණය අද (16) ප්‍රතික්ෂේප කළේය.
+
+කෙසේ වෙතත් පැමිණිලිකරුට මෙම පැමිණිල්ල සංශෝධනය කර යළි අදාළ වාරණ නියෝගය සඳහා කරුණු තහවුරු කිරීමට අවස්ථාව තිබෙන බවත් විනිසුරු සඳුන් විතාන මහතා ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන මහ ලේකම් දුමින්ද දිසානායක මහතා විසින් මෙම පැමිණිල්ල ඉදිරිපත් කර තිබිණි.
+
+◼️
+
+[Data](articles/d0105592.json)
+
+---
+
+### ධාවනය වෙමින් තිබු ලංගම බසයේ රියදුරු අසුනේදි මියයයි
+
+*2024-05-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196668) · `si`
+
+නුවරඑළිය සිට නාවලපිටිය දක්වා ධාවනය වෙමින් තිබූ නාවලපිටිය ලංගම ඩිපෝවට අයත් බස් රථයක රියදුරා, එම බස් රථයේ රියදුරු අසුන මත ජිවිතක්ෂයට පත්විමේ අවාසනාවන්ත පුවතක් වාර්තා විය.
+
+ඒ හේතුවෙන් එම බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුරට පත් වි ඇති බව ළිඳුල පොලීසිය පැවසිය.
+
+මෙසේ ධාවනය වෙමින් තිබු බස් රථය තුළදි ම ජිවිතක්ෂයට පත් වි තිබුණේ නාවලපිටිය ලංගම ඩිපෝවේ 39 හැවිරිදි රියදුරෙකි.
+
+නුවරඑළිය සිට දිඹුල පතන හරහා නාවලපිටිය දක්වා ඊයේ (15) පස්වරුවේ සේවයේ යොදවා තිබූ එම බස් රථය කාර්මික දෝෂයකට ලක්විම නිසා මගීන්ව වෙනත් බස් රථයකට මාරුකර බස් රථයේ රියදුරු සහ කොන්දොස්තර, බස් රථයේ කාර්මික දෝෂය යථා තත්ත්වයට පත් කර යළි නාවලපිටිය දක්වා ධාවනය කරවන අවස්ථාවේ රියදුරුට හදිසි රෝගි තත්ත්වයක් ඇතිවී තිබුණි.
+
+කොන්දොස්තරවරයා ඒ පිළිබඳ ළිඳුල පොලීසිය වෙත දැනුම්දිමෙන් පසු පොලිස් නිලධාරීන් විසින් රියදුරු අසුනෙන් රියැදුරාව ඉවත් කර ඔහුව ළිඳුල  ප්‍රාදේශිය රෝහල වෙත රැගෙන ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/fce0a32a.json)
+
+---
+
+### O/L குளறுபடிகளுக்கு பரீட்சை திணைக்களம் விளக்கம்
+
+*2024-05-16 10:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-குளறுபடிகளுக்கு-பரீட்சை-திணைக்களம்-விளக்கம்/175-337402) · `ta`
+
+கல்வி பொதுத் தராதர சாதாரண தர பரீட்சையின் ஆங்கில மற்றும் விஞ்ஞான பாடங்களின் முறைகேடுகள்  தொடர்பில் பரீட்சை திணைக்களம் விளக்கமளித்துள்ளது.
+
+அதன்படி, விஞ்ஞானப் பரீட்சை தாளில் உள்ள சில கேள்விகள் பாடத்திட்டத்திற்கு வெளியே இருப்பது கண்டறியப்பட்டது. விஞ்ஞான பரீட்சை குழப்பகரமான வினாக்களுக்கு மாத்திரம் கருணை புள்ளிகள் வழங்கப்படும் என பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+இதேவேளை, ஆங்கிலப் பரீட்சை வினாத்தாள்களை இரத்துச் செய்ய தேவை இல்லை எனவும் பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
+
+கடந்த வாரம் நடைபெற்ற கல்வி பொதுத் தராதர சாதாரணதரப் பரீட்சையின் ஆங்கில மொழி வினாத்தாள் பரீட்சையின் போது வட்ஸ்அப் ஊடாக பகிரப்பட்டமை கண்டுபிடிக்கப்பட்டது.
+
+ஆங்கிலப் பாட வினாத்தாள் விடைகளை பெறுவதற்கு வட்ஸ் அப்  ஊடாக பகிரப்பட்டுள்ளது. இது  ஆங்கில மொழி வினாத்தாளின் இரகசியத்தன்மைக்கு பாதிப்பை ஏற்படுத்தவில்லை எனவும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/6bae3cae.json)
+
+---
 
 ### Some individuals making claims to cause stock market downturn: President
 
@@ -49,6 +105,8 @@ Sri Lanka’s Opposition members, mainly the Samagi Jana Balavegaya, have been c
 ...
 
 [Data](articles/819e622d.json)
+
+[Extended Data](ext_articles/819e622d.ext.json)
 
 ---
 
@@ -113,6 +171,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.40 perc
 ◼️
 
 [Data](articles/54f4437a.json)
+
+[Extended Data](ext_articles/54f4437a.ext.json)
 
 ---
 
@@ -2129,75 +2189,5 @@ A competitive tender for a smaller wind plant also in Mannar where there is high
 [Data](articles/36cfc467.json)
 
 [Extended Data](ext_articles/36cfc467.ext.json)
-
----
-
-### Sri Lanka T-bill yields down across maturities
-
-*2024-05-15 18:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-t-bill-yields-down-across-maturities-163254/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, data from the state debt office showed.
-
-The 3-month yield fell 39 basis points from 9.43 percent to 9.04 percent, with 45 billion rupees in securities offered and 26.56 billion rupees sold.
-
-The 6-month yield fell 33 basis points from 9.76 percent to 9.43 percent, with 77.5 billion rupees in securities offered and 74.74 billion rupees sold.
-
-The 12-month yield fell 33 basis points from 9.90 percent to 9.57 percent, with 55 billion rupees in securities offered and 76.19 billion sold. (Colombo/May15/2024)
-
-◼️
-
-[Data](articles/9f024812.json)
-
-[Extended Data](ext_articles/9f024812.ext.json)
-
----
-
-### Cocaine, ‘Kush’ and ecstasy pills worth Rs. 9 mln seized at Central Mail Exchange
-
-*2024-05-15 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99238/cocaine-kush-and-ecstasy-pills-worth-rs-9-mln-seized-at-central-mail-exchange) · `en`
-
-At least 10 parcels containing narcotics including ‘Kush’ cannabis, cocaine and ecstasy pills have been detected at the Central Mail Exchange, during the inspections carried out by officers of the Narcotics Control Unit of Sri Lanka Customs.
-
-Sri Lankan Customs spokesman said the parcels in question had been sent from Canada, UK and Netherlands to addresses in Dehiwala, Wellawatta, Veyangoda and Anuradhapura.
-
-However, extensive investigations have confirmed that the addresses mentioned in the parcels were fake.
-
-After opening the parcels for inspection, customs officers had discovered approximately 150 ecstasy pills (methamphetamine), 466 grams of ‘Kush’ cannabis and 10 grams of cocaine inside them.
-
-The street value of the seized drugs is estimated to be nearly Rs. 9 million.
-
-The detection was made by the officers of the Narcotics Control Unit of Sri Lanka Customs with the assistance of the officials of Central Mail Exchange.
-
-...
-
-[Data](articles/97d9cd27.json)
-
-[Extended Data](ext_articles/97d9cd27.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.00/40 to US dollar
-
-*2024-05-15 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-00-40-to-us-dollar-163234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.00/40 to the US dollar on Wednesday, from 301/302.00 the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 9.90/10.05 percent from 9.95/10.10 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.20/35 percent from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 closed down at 10.50/65 percent 10.55/65 percent.
-
-A bond maturing on 15.09.2029 closed at down at 10.85/11.15 percent from 10.90/11.05 percent.
-
-A bond maturing on 15.05.2030 closed up at 11.50/65 percent from 11.40/55 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/95 percent. (Colombo/May15/2024)
-
-◼️
-
-[Data](articles/fd8e913d.json)
-
-[Extended Data](ext_articles/fd8e913d.ext.json)
 
 ---

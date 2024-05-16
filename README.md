@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 09:52:14**
+As of **2024-05-16 10:03:26**
 
 ## Newspaper Stats
 
-*Scraped **24,366** Articles*
+*Scraped **24,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,079
 adaderanalk | 2,823
 tamilmirrorlk | 2,864
 virakesarilk | 3,661
-dailymirrorlk | 3,821
-adaderanasinhalalk | 3,883
+dailymirrorlk | 3,822
+adaderanasinhalalk | 3,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,363 (100.0%) of 24,366 articles have been extended.
+24,366 (100.0%) of 24,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### අධිරුධිර පීඩනය සහිත රෝගීන් ඉහළට
+
+*2024-05-16 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196667) · `si`
+
+මෙරටින් වාර්තා වන අධිරුධිර පීඩන සහිත පුද්ගලයින්ගේ සංඛ්‍යාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග අධ්‍යක්ෂ කාර්යාලයේ ප්‍රජා වෛද්‍ය විශේෂඥ ශෙරිල් බාලසිංහ මහත්මිය පවසන්නීය.
+
+ඇය පෙන්වා දෙන්නේ දිවයිනේ, සෑම දිස්ත්‍රික්ක ආවරණය වන පරිදි වයස අවුරුදු 18ත් 69ත් අතර පුද්ගලයින්ගෙන් සිදුකළ සමීක්ෂණයකදී අධිරුධිර පීඩකයින් සියයට 35ක් වාර්තා වු බවය.
+
+◼️
+
+[Data](articles/b502f34b.json)
+
+---
+
+### Drug Lord’s illegal seaside hotel in Dehiwala allegedly built on Govt. land
+
+*2024-05-16 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drug-Lords-illegal-seaside-hotel-in-Dehiwala-allegedly-built-on-Govt-land/108-282701) · `en`
+
+Colombo, May 16 (Daily Mirror)- The hotel ‘Soul Beach,’ which was located in Dehiwala and later demolished, is suspected to have belonged to Shiran Basik, a major drug smuggler currently operating from abroad, was alleged to have been built on government land, it was revealed.
+
+The hotel’s structures were removed in January this year by the Coast Guard and Police after it was found to be an illegal construction.
+
+However, a group of individuals who were carrying out construction work at the site were taken into the custody on Tuesday for illegal construction.
+
+Mount Lavinia Division Special Investigation Unit officers revealed that the tax deed presented by the suspects had been forged.
+
+Accordingly, 14 suspects were arrested on Tuesday and remanded till May 28 after being presented in Court.
+
+Following an inspection carried out by surveyors from the Government Survey Department, the subject land has been reported to be a government-owned land.
+
+◼️
+
+[Data](articles/251b4900.json)
+
+---
 
 ### President orders establishment of ‘Ashraf Memorial Museum’ in Kalmunai
 
@@ -49,6 +85,30 @@ The President has allocated Rs. 25 million for the project and has instructed of
 ...
 
 [Data](articles/9eb8f6c0.json)
+
+[Extended Data](ext_articles/9eb8f6c0.ext.json)
+
+---
+
+### නෙතන්යාහු ට අමාත්‍යවරයෙක්ගෙන් වාග් ප්‍රහාරයක්
+
+*2024-05-16 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196666) · `si`
+
+ඊශ්‍රායල ආරක්ෂක අමාත්‍ය යෝඅව් ගැලන්ට් එරට අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු ට එරෙහිව ප්‍රබල වාග් ප්‍රහාරයක් එල්ලකර ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+එයින් හෙළිවන්නේ ගාසා යුද්ධය සහ යුද්ධය අවසන්වීමෙන් අනතුරුව ගාසා හි පාලනය සම්බන්ධයෙන් ඊශ්‍රායල අගමැතිවරයා සහ යුද කැබිනට් මණ්ඩල සාමාජිකයින් අතර පරස්පර මත මතුවෙමින් ඇති බව ජාත්‍යන්තර විචාරකයෝ පවසති.
+
+ආරක්ෂක අමාත්‍ය ගැලන්ට් පවසන්නේ යුද්ධය අවසන්වීමෙන් අනතුරුව ගාසා තීරයේ හමුදාමය හෝ සිවිල් පාලනයක සියතට ගැනීමට ඊශ්‍රායලයට සැලසුමක් නොමැති බව ප්‍රසිද්ධියේ පවසන ලෙසයි.
+
+"මම මේ සම්බන්ධයෙන් පසුගිය ඔක්තෝබර් මාසයේ සිට කැබිනට් මණ්ඩලයේදී විමසුවා. හැබැයි මට තවම ප්‍රතිචාරයක් ලැබුණේ නෑ...", ගැලන්ට් පැවසීය.
+
+ඒ සම්බන්ධයෙන් නිසි තීරණයක් නොගතහොත් ගාසා තීරයේ ඇතිවිය හැක්කේ ඊශ්‍රායල හමුදා පාලනයක් හෝ හමාස් පාලනයක් බව ඔහුගේ අදහසයි.
+
+නමුත් සිය ආරක්ෂක අමාත්‍යවරයාගේ ප්‍රකාශය සම්බන්ධයෙන් අගමැතිවරයා පැහැදිලි ප්‍රතිචාරයක් මෙතෙක් දක්වා නොමැති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/73e2efb6.json)
 
 ---
 
@@ -107,6 +167,8 @@ According to police, one of the arrested suspects had been involved in a relatio
 ...
 
 [Data](articles/10420731.json)
+
+[Extended Data](ext_articles/10420731.ext.json)
 
 ---
 
@@ -289,6 +351,8 @@ However, researchers have found no clear proof of a link between MSG and these s
 ...
 
 [Data](articles/bc602337.json)
+
+[Extended Data](ext_articles/bc602337.ext.json)
 
 ---
 
@@ -2127,81 +2191,5 @@ Backing of currently serving military and retired armed forces is vital for any 
 [Data](articles/fa4406c8.json)
 
 [Extended Data](ext_articles/fa4406c8.ext.json)
-
----
-
-### Private bus driver attack
-
-*2024-05-15 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183624) · `ta`
-
-In Batticaloa, a private bus driver assaulted the driver and conductor of a Sri Lanka Transport Board bus, causing them to be hospitalized. The attacker fled with his bus, leading to its impounding. Police have since arrested the private bus operator and are searching for the fleeing driver.
-
-🟩
-
-A private bus driver attacked the driver and conductor of the Sri Lanka Transport Board on Wednesday (15) at the bus stand in Batticaloa.
-
-In this attack,. The driver and the conductor of the bus have been admitted to the hospital and the driver of the attack has fled with his bus, police said.
-
-The bus station is being held at the bus station at 11 am today.
-
-The bus belonging to the Batticaloa Sri Lanka Transport Board (SLTB), which was traveling to Kalmunai behind it.
-
-In order to stop the EBS bus, its driver has asked the private bus to move a little forward.
-
-As a result of this, the private bus driver is angry and the driver of the bus has attacked the driver and conductor.
-
-The two injured in the attack were admitted to the hospital and a private bus driver had escaped, police said.
-
-Meanwhile, police said that the private bus operator has been arrested and steps are being taken to arrest the driver who fled.
-
-◼️
-
-[Data](articles/2531a32c.json)
-
-[Extended Data](ext_articles/2531a32c.ext.json)
-
----
-
-### Narendra Modi filed nominations in Varanasi constituency
-
-*2024-05-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183631) · `ta`
-
-Narendra Modi, India's PM, has nominated for the Varanasi seat for the 18th Lok Sabha, marking his third bid from there. Elections are in seven phases; four have passed, with the next on May 20. Modi, victorious in 2014 and 2019, returns to Varanasi for June 1 voting. His nomination filing was supported by BJP, UP CM, and other coalition parties. Despite past successes, his re-election outcome remains uncertain until June 4 results.
-
-🟩
-
-Prime Minister Narendra Modi has filed a nomination for the third time in the Varanasi Lok Sabha constituency in Uttar Pradesh.
-
-The election for the eighteenth Indian Lok Sabha is held in seven phases. There are four phases completed until now. The next phase of the election will be held on May twenty.
-
-Prime Minister Narendra Modi is back in the Varanasi constituency that won twice in 2014 and 2019. The election is held here on June 1st. The filing of nominations began.
-
-Following this, Prime Minister Narendra Modi, who is campaigning across the country, arrived in the Varanasi constituency to file a nomination papers.. He was welcomed by the Bharatiya Janata Party, the Chief Minister of Uttar Pradesh and the coalition party. Prime Minister Narendra Modi, who went to the Ganga River and the Kalabiravar temple before filing the nomination, arrived at the office of the then Varanasi Collector.
-
-...
-
-[Data](articles/82c05399.json)
-
-[Extended Data](ext_articles/82c05399.ext.json)
-
----
-
-### Army Commander obtains order against YouTube channel under Online Safety Act
-
-*2024-05-15 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-Commander-obtains-order-against-YouTube-channel-under-Online-Safety-Act/108-282656) · `en`
-
-The Colombo Chief Magistrate’s Court today issued a conditional order preventing a YouTube channel from publishing and communicating defamatory information against Army Commander Lieutenant General Vikum Liyanage, under the newly enacted Online Safety Act.
-
-Colombo Chief Magistrate Thilina Gamage issued a conditional order in favour of the Army Commander in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the respondents Lanka V news-YouTube Channel and its owner Thushara Saliya Ranawaka.
-
-The petitioner alleged that the respondents had uploaded malicious and defamatory video contents and statements against him in a manner threatening the country’s national security.
-
-The respondent parties were ordered to show cause under Section 24(6) of the Act.
-
-◼️
-
-[Data](articles/25d8fef2.json)
-
-[Extended Data](ext_articles/25d8fef2.ext.json)
 
 ---

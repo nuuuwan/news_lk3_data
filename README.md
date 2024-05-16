@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 11:33:43**
+As of **2024-05-16 11:52:50**
 
 ## Newspaper Stats
 
-*Scraped **24,394** Articles*
+*Scraped **24,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
 adalk | 2,082
-adaderanalk | 2,824
-tamilmirrorlk | 2,870
+adaderanalk | 2,826
+tamilmirrorlk | 2,871
 virakesarilk | 3,661
 dailymirrorlk | 3,830
-adaderanasinhalalk | 3,889
+adaderanasinhalalk | 3,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,394 (100.0%) of 24,394 articles have been extended.
+24,394 (100.0%) of 24,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### මෛත්‍රීට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්
+
+*2024-05-16 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196672) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+ශ්‍රීලනිප හිටපු විධායක සභිකයෙකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා අල්ලස් කොමිසමට ලිපියක් යොමු කරමින් සඳහන් කරන්නේ මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය විකුණා ලබාගත් අත්තිකාරමකින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවා ඇති බවක් පෙනෙන්නට අති බවය.
+
+එබැවින් අදාළ මුදල් උපයා ගත්තේ කෙසේද? යන්න සම්බන්ධයෙන් විමර්ශනයක් කරන ලෙස ඉල්ලා මෙම පැමිණිල්ල ගොනු කර තිබේ.
+
+◼️
+
+[Data](articles/37f494d1.json)
+
+---
+
+### பேயாட்டம் ஆடிய இராஜாங்க அமைச்சர்
+
+*2024-05-16 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேயாட்டம்-ஆடிய-இராஜாங்க-அமைச்சர்/175-337416) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்திற்கு வந்த இராஜாங்க அமைச்சர் ஒருவர் பயணிகளின் பயணப்பொதிகளை கொண்டு செல்லும்  ஊழியர் ஒருவரை (போர்ட்டர்) கன்னத்தில்  அறைந்து, பாதுகாப்பு அதிகாரிகளையும் அச்சுறுத்தியதாக விமான நிலைய வட்டாரங்கள் தெரிவித்துள்ளது .
+
+இந்த இராஜாங்க அமைச்சரின் மனைவி உட்பட சிலரின் வெளிநாட்டு பயணமொன்றுக்காக குறித்த இராஜாங்க அமைச்சர் புதன்கிழமை (15) அதிகாலை கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார் .
+
+அவர் தனது பாதுகாவலர்களுடன் நுழைவுச்சீட்டு வாங்காமல் பிரதான நுழைவாயில் ஊடாக விமான நிலையத்திற்குள் பிரவேசிக்க முயற்சித்துள்ளார்.  அவரின் பாதுகாவலர்கள் துப்பாக்கியுடன் இருந்ததால் அவை கொண்டு செல்ல அனுமதிக்க முடியாது என விமான நிலைய பாதுகாப்பு அதிகாரிகள் இராஜாங்க அமைச்சரிடம் கூறியுள்ளனர் .
+
+அப்போது, அவர் ​​பாதுகாப்பு  அதிகாரிகளை திட்டி, அவர்களை தனது கைத்தொலைபேசியால் புகைப்படமாகவும் பதிவு செய்துகொண்டுள்ளதாக விமான நிலைய பாதுகாப்பு அதிகாரிகள் தெரிவித்துள்ளனர் .
+
+...
+
+[Data](articles/60102824.json)
+
+---
+
+### Schoolgirl injured in ‘Fox Hill’ tragedy succumbs to injuries
+
+*2024-05-16 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99248/schoolgirl-injured-in-fox-hill-tragedy-succumbs-to-injuries-) · `en`
+
+The schoolgirl, who was critically injured in the tragic accident during the Diyatalawa Fox Hill car race, has succumbed to injuries while receiving treatment in hospital last night (15), increasing the death toll from the fatal crash to 08.
+
+She had been receiving treatment in the intensive care unit of Badulla General Hospital.
+
+The body of the 16-year-old girl, Sathdarani Kavishka, who was a resident of Galedanda area in the Diyatalawa police area, has been placed at the Badulla General Hospital.
+
+Seven persons including a child were killed while 23 others were injured following a tragic accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on April 21.
+
+Among the deceased were four officials of the racing event who were stationed as flag marshals. The other victims were civilians who were spectators of the event, as reported by the police.
+
+The incident occurred when a race car had veered off the race track and collided with a group of spectators.
+
+...
+
+[Data](articles/15bf2789.json)
+
+---
+
+### President Ranil to attend 10th World Water Forum in Indonesia
+
+*2024-05-16 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99247/president-ranil-to-attend-10th-world-water-forum-in-indonesia) · `en`
+
+President Ranil Wickremesinghe is scheduled to attend the 10th World Water Forum High-Level Meeting in Indonesia, from 18 - 20 May, following an invitation extended by Indonesian President Joko Widodo.
+
+During the visit, President Wickremesinghe will deliver a statement at the high-level forum on May 20 under the theme “Water for Shared Prosperity”, and will also engage in several bilateral meetings, including with President Widodo, the PMD reported.
+
+Indonesia is set to host the 10th World Water Forum in Bali on 18-25 May 2024 in partnership with the World Water Council (WWC). The theme of the forum will be “Water for Shared Prosperity”, presenting a critical opportunity to unite the nations in the pursuit of efficient and integrated strategies that ensure water prosperity for all.
+
+At the World Water Forum, leaders, experts, scholars, entrepreneurs, and policymakers will gather to share insights, experiences, and best practices on a spectrum of water-related topics.
+
+...
+
+[Data](articles/8f2636c2.json)
+
+---
 
 ### A future SJB government will close down liquor shops, taverns: Sajith
 
@@ -2117,105 +2191,5 @@ The Court has ordered the case against the incident on the 25th September.
 [Data](articles/7293c298.json)
 
 [Extended Data](ext_articles/7293c298.ext.json)
-
----
-
-### Sri Lanka's largest allfeaman dies
-
-*2024-05-15 20:57:51* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-හැරෆයිමා-මත්ස්‍යා-මිය-යයි/11-409659) · `si`
-
-Sri Lanka mourns the loss of its largest all-female fish, named Hazi, who lived in the care of 13-year-old Suranga Wijeyeratne. Hazi, known for her impressive size—eight feet long and three feet wide—was fed small fish and gained popularity on social media. Her death, reported on March 15th, shocked locals, who gathered to pay their respects.
-
-🟩
-
-The Hazi Faculty has been identified today (15), maintained a large sum of money per month, which is considered as the first fish in Sri Lanka.
-
-The wonderful fish was popular in the social media. This fish is eight feet long and the round is three feet. The fish owner is 13 years old, the food of the fish species is small fish. The fish was created in the personal fish in Pelhena Rilhena Suranga Wijeyeratne, and the small sea fish have been purchased in several kilograms for their food.
-
-The dead was dead in early morning, the residents say that the water exits the water on the water of the water. Mr. Suranga Wijeratne also produces a large amount of pet fish and a large amount of pet fish. Schools and others come to cover his body. A large number of people have also visited the dead masses.
-
-◼️
-
-[Data](articles/3bd85df9.json)
-
-[Extended Data](ext_articles/3bd85df9.ext.json)
-
----
-
-### 11 billion per year per year if the electricity purchase agreement has been changed
-
-*2024-05-15 20:46:52* · [`adalk`](https://www.ada.lk/breaking_news/සුළං-බලාගාරවලින්-විදුලිය-මිලදී-ගැනීමේ-ගිවිසුම-වෙනස්-නොකළොත්-වසරකට-බිලියන-11ක-පාඩුවක්/11-409658) · `si`
-
-If the electricity purchase agreement changes, the Ceylon Electricity Board (CEB) could save 11 billion annually. The CEB Association mentioned contracts with two wind power stations, potentially reducing costs due to lower electricity rates. The chairman highlighted a deal with an Indian company to build two power plants, contracting electricity units at 8.26 million each. A notice was issued for refining 50 MW of wind energy recently. This move aligns with the government's strategy to increase local electricity production, aiming to reduce reliance on imported fuel and stabilize energy prices.
-
-🟩
-
-The Ceylon Electricity Board (CEB) Association states that if the contract has been signed by two wind power stations from two wind power plants, the Ceylon Electricity Board (CEB) Association said.
-
-The Chairman of the Association Dhanushka Parakrasinghe said that the Electricity Board (CEB) has only a sum of Rs.
-
-However, Indian company has given an opportunity to build two power plants in Sri Lanka and that a unit of electricity has been contracted to 8.26 million.
-
-He said that a denERRE has been sent to the refinement of 50 MW of winds in the last week.
-
-The Chairman added that the Ceylon Government accounts for the bank of Sri Lanka and the company will be owned by the Government of Sri Lanka and the company can cred with the company.
-
-He said that the country was unique to the country in accordance with the amount of electricity to manufacture electricity from the power booth and the prices of the prices of the recent days.
-
-◼️
-
-[Data](articles/f2237034.json)
-
-[Extended Data](ext_articles/f2237034.ext.json)
-
----
-
-### Problem with issuing welfare payments to 2 lakh eligible people - pointing to the Panel of Parliament
-
-*2024-05-15 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183641) · `ta`
-
-The Parliamentary Committee discussed issues with the Aswesum Welfare Program, highlighting delays in welfare payments to 200,000 eligible individuals due to factors like missing national ID cards and banking issues. Despite efforts to assist the poorest segments, challenges persist in disbursing aid effectively. The Committee emphasized the need for clear accountability and efficient implementation strategies to ensure all beneficiaries receive their due support.
-
-🟩
-
-966,994 beneficiaries have been paid this month (May) under the Aswesum Welfare Program. The Welfare Council officials have told the Parliamentary Series Committee that 200,000 people are eligible to obtain welfare schemes due to various reasons such as national identity cards and problems in bank accounts.
-
-The Committee on Parliamentary Systems met with its chairman Patali Champika Ranawaka on Tuesday (14).
-
-The Welfare Council officials have stated in the Committee on Parliamentary Provincial Council, according to the Azwesum Welfare Scheme in May 2024 and that 313,947 families and 653,047 families have been given allowances under the most poor and impoverished sections respectively.
-
-It has been pointed out that although 200,000 people are eligible to obtain welfare programs due to various reasons, such as National Identity Cards and Problems in Bank Accounts, they are unable to pay for welfare allowances.
-
-...
-
-[Data](articles/6baab848.json)
-
-[Extended Data](ext_articles/6baab848.ext.json)
-
----
-
-### At least 16 Sri Lankans killed fighting in Russia-Ukraine war
-
-*2024-05-15 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99241/at-least-16-sri-lankans-killed-fighting-in-russia-ukraine-war) · `en`
-
-At least 16 Sri Lankan military veteran have been killed fighting in the war between Russia and Ukraine, the State Minister of Defence said.
-
-Sri Lanka opened an inquiry last week into the recruitment of its citizens for the conflict that has since identified the participation of 288 retired soldiers from the island nation, state minister Pramitha Bandara Tennakoon said.
-
-“We have confirmed information about 16 who have been killed,” he told reporters in Colombo.
-
-Tennakoon did not say which side of the conflict the soldiers had been fighting on.
-
-But ruling party lawmaker Gamini Waleboda told parliament on Monday that most had been recruited to fight alongside the Russian army.
-
-Those who joined had been duped with promises of high salaries and falsely told they would be given non-combat roles, Waleboda said.
-
-Tennakoon said the recruitment of Sri Lankans was being treated as a human trafficking enterprise and urged military officers not to fall prey to the recruitment drive.
-
-...
-
-[Data](articles/5eafbd66.json)
-
-[Extended Data](ext_articles/5eafbd66.ext.json)
 
 ---

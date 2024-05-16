@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 01:18:25**
+As of **2024-05-17 01:33:44**
 
 ## Newspaper Stats
 
-*Scraped **24,544** Articles*
+*Scraped **24,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,411
-dailyftlk | 1,438
+dailyftlk | 1,450
 adalk | 2,107
 adaderanalk | 2,840
 tamilmirrorlk | 2,883
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,541 (100.0%) of 24,544 articles have been extended.
+24,544 (100.0%) of 24,556 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Exactly eight days ago (May 9) people of this country were reminded that two yea
 
 [Data](articles/f642be79.json)
 
+[Extended Data](ext_articles/f642be79.ext.json)
+
 ---
 
 ### Nakba continues amid Zionist newspeak
@@ -58,6 +60,24 @@ Nakba is indisputably a living testimony to the brutality of the beast among hum
 
 [Data](articles/ae01731e.json)
 
+[Extended Data](ext_articles/ae01731e.ext.json)
+
+---
+
+### Trillium Group breaks ground for $ 15 m Trillium Duplex – Colombo 5
+
+*2024-05-17 00:51:13* · [`dailyftlk`](https://www.ft.lk/business/Trillium-Group-breaks-ground-for-15-m-Trillium-Duplex-Colombo-5/34-761911) · `en`
+
+Trillium Group Chairman Janaka Ratnayake with his two sons Rachitha Ratnayake and Lekhya Ratnayake
+
+Trillium Group, a leading real estate developer in Sri Lanka, yesterday began the construction for its highly anticipated project, Trillium Duplex – Colombo 5 located in the residential side of Colombo 5 on a private road called Lionel Edirisinghe Mawatha.
+
+This marks the third real estate development Trillium has engaged in, in the Colombo 5 locality, with the other two being the Trillium Tower Colombo 5, and Trillium Havelock Residencies.
+
+...
+
+[Data](articles/45c08698.json)
+
 ---
 
 ### 1998 Bharathipuram killings and accountability for wartime atrocities
@@ -69,6 +89,194 @@ The killing of civilians and other atrocities were widespread during the three-d
 ...
 
 [Data](articles/027dbadb.json)
+
+[Extended Data](ext_articles/027dbadb.ext.json)
+
+---
+
+### US Embassy Colombo to host Indo-Pacific Business Forum via satellite
+
+*2024-05-17 00:49:57* · [`dailyftlk`](https://www.ft.lk/business/US-Embassy-Colombo-to-host-Indo-Pacific-Business-Forum-via-satellite/34-761910) · `en`
+
+The US Embassy in Colombo is set to host a satellite event of the Indo-Pacific Business Forum (IPBF) under the theme “Driving Sustainable Development in the Ports Sector” on 21 May.
+
+The event will take place concurrently with the sixth Indo-Pacific Business Forum in Manila, Philippines, co-hosted by the US Trade Development Agency and the Government of the Philippines, in partnership with the US Department of State. Businesses and stakeholders from across the Indo-Pacific region are invited to participate in this significant event. For those unable to attend in person, online registration is available through the main website: IPBF | Indo-Pacific Business Forum (indopacificbusinessforum.com) #IndoPacificBizForum.
+
+...
+
+[Data](articles/f5c2c815.json)
+
+---
+
+### Lankan envoy in Ha Noi woos Vietnam-based leading Southeast Asian EV manufacturer
+
+*2024-05-17 00:49:46* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Ha-Noi-woos-Vietnam-based-leading-Southeast-Asian-EV-manufacturer/34-761909) · `en`
+
+The Embassy had a meeting with the top-most management of the iconic automobile manufacturer, VinFast, at their corporate Head Office in Ha Noi to discuss and explore commercial and investment opportunities, thus benefiting both Sri Lanka and VinFast.
+
+VinFast is the auto manufacturer under the parent company of Vingroup, one of the largest listed corporates in South-East Asia.
+
+Ambassador Dr. A Saj U Mendis along with the Minister Commercial Kishani Wickramasinghe, met with the Vingroup Chief of International and Government Affairs cum VinFast Deputy CEO Bui Kim Thuy, along with the senior management of VinFast. The meeting lasted over an hour and discussed a myriad of economic, commercial, and trade opportunities.
+
+...
+
+[Data](articles/77424b7f.json)
+
+---
+
+### IADRC holds ’’Regional Alternative Dispute Resolution Symposium 2024’’
+
+*2024-05-17 00:49:17* · [`dailyftlk`](https://www.ft.lk/business/IADRC-holds-Regional-Alternative-Dispute-Resolution-Symposium-2024/34-761908) · `en`
+
+From left: Bangladesh International Arbitration Centre’s Saqueb Mahabub, International ADR Centre Sri Lanka Director General Dhara Wijayatilake, Pakistan Musaliha International Centre for Arbitration and Dispute Resolution Sarha Rasheed and International ADR Centre Sri Lanka Director Shehara Varia
+
+The International ADR Centre, Sri Lanka (IADRC) held its annual ‘Regional Alternative Dispute Resolution Symposium 2024’ from 13 to 15 May.
+
+The Symposium was organised in collaboration with the Commercial Law Development Program (CLDP) of the Department of Commerce, USA.
+
+The Symposium was attended by members of the legal community and law students of Sri Lanka as well as experts from regional ADR Centres in Bangladesh, Hong Kong, Maldives, Malaysia, Mumbai, Nepal, Pakistan, Singapore and Thailand.
+
+...
+
+[Data](articles/490f0672.json)
+
+---
+
+### Strong Q4 net profit growth boosts Teejay Lanka’s outlook for year ahead
+
+*2024-05-17 00:48:41* · [`dailyftlk`](https://www.ft.lk/business/Strong-Q4-net-profit-growth-boosts-Teejay-Lanka-s-outlook-for-year-ahead/34-761907) · `en`
+
+Strong net profit growth in the final quarter of 2023-24 has enabled Teejay Lanka PLC to end the financial year on an optimistic note despite the impacts of the appreciation of the Rupee, which contributed to its 12-month results falling below those of the preceding year
+
+Sri Lanka’s first multinational textile manufacturer has reported net profit of Rs. 549.1 million for the three months ending 31 March 2024, up 260% over the corresponding quarter of the previous year and a 15% improvement over the preceding quarter.
+
+Despite an increase in sales volumes, the Group’s revenue for the quarter, at Rs 15.3 billion, was down 4% over the figure for the third quarter of the year and 12% lower than the revenue of the corresponding quarter of the previous year. This was due to the appreciation of the Sri Lanka Rupee.
+
+...
+
+[Data](articles/82beda69.json)
+
+---
+
+### Mano criticises International Community’s failure to support SL’s Tamils
+
+*2024-05-17 00:47:27* · [`dailyftlk`](https://www.ft.lk/news/Mano-criticises-International-Community-s-failure-to-support-SL-s-Tamils/56-761906) · `en`
+
+Expresses outrage over the arrest of Tamil women for commemorating loved ones lost due to war
+
+Questions actions of Police, emphasising importance of Tamil community’s right to remember their loved ones
+
+Criticises UNHRC for failing to ensure the basic right of commemorating the dead
+
+Suggests unity between Tamil and Sinhalese to address shared concerns and commemorate those lost in the war
+
+Democratic People’s Front (DPF) Member of Parliament Mano Ganesan yesterday condemned both the international community and Sri Lankan authorities following the recent arrest of Tamil women in Sampur, Sri Lanka. Taking to X (formerly Twitter) Ganesan criticised the international community, alleging its failure to support the Tamil community throughout Sri Lanka’s turbulent history.
+
+“The international community has completely failed the Tamil people of Sri Lanka,” remarked MP Mano Ganesan in a recent statement.
+
+...
+
+[Data](articles/7ed70767.json)
+
+---
+
+### Gammanpila calls for designation of incoming US Ambassador as persona non grata
+
+*2024-05-17 00:46:21* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-calls-for-designation-of-incoming-US-Ambassador-as-persona-non-grata/56-761905) · `en`
+
+PHU leader Udaya Gammanpila alleges that Horst told US Senate SL’s ban on foreign research vessels was influenced by the US
+
+Criticises Horst’s statement arguing that it reflects a lack of respect for SL’s sovereignty
+
+Expresses concern over Horst’s intention to follow in footsteps of current US Ambassador Julie Chung
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila called on the Government yesterday to declare incoming US Ambassador to Sri Lanka Elizabeth Horst as persona non grata over a recent statement on Sri Lanka’s ban on foreign research vessels.
+
+Speaking at a press conference, Gammanpila alleged that Horst had testified before the US Senate, asserting that Sri Lanka’s decision to impose a one-year ban on foreign research vessels was at the behest of the US.
+
+...
+
+[Data](articles/4efea4c5.json)
+
+---
+
+### Specialised delegation dispatched to Russia to investigate welfare of Sri Lankans amidst Russian-Ukraine war – State Minister
+
+*2024-05-17 00:45:20* · [`dailyftlk`](https://www.ft.lk/news/Specialised-delegation-dispatched-to-Russia-to-investigate-welfare-of-Sri-Lankans-amidst-Russian-Ukraine-war-State-Minister/56-761904) · `en`
+
+Delegation includes Defence Secretary, former Ambassador to Russia, officials from Foreign Affairs Ministry
+
+Raises concerns on safety and well-being of Sri Lankans in Russia, including retired military personnel who entered country on tourist visas
+
+Unofficial estimates suggest around 600 to 800 Sri Lankans are currently in Russia
+
+Govt. expresses gratitude to media institutes for assistance in identifying Sri Lankans affected by war
+
+State Minister of Foreign Affairs Tharaka Balasuriya yesterday revealed yesterday that President Ranil Wickremesinghe has issued directives for the dispatch of a specialised delegation to Russia to investigate the welfare of Sri Lankans amidst the ongoing Russian-Ukraine war.
+
+The delegation comprises the Secretary to the Defence Ministry, former Ambassador to Russia and officials from the Ministry of Foreign Affairs, with plans for a prompt departure to Russia.
+
+...
+
+[Data](articles/8a2d245b.json)
+
+---
+
+### RTI Commission orders Thondaman’s Ministry to disclose “NAAM-200” event expenses
+
+*2024-05-17 00:44:22* · [`dailyftlk`](https://www.ft.lk/news/RTI-Commission-orders-Thondaman-s-Ministry-to-disclose-NAAM-200-event-expenses/56-761903) · `en`
+
+The Right to Information (RTI) Commission has ordered the Water Supply and Estate Infrastructure Development Ministry to disclose all details, including expenses, related to the “NAAM-200” event organised by Minister Jeevan Thondaman and presided over by President Ranil Wickremesinghe in November 2023.
+
+The event, marking the 200th anniversary of the arrival of Malaiyaha Tamils in Sri Lanka, was also attended by Indian Finance Minister Nirmala Sitharaman.
+
+This order follows an appeal filed by journalist B. Nirosh Kumar, who submitted an RTI request on 6 November 2023, seeking comprehensive information about the event. The Ministry initially provided some information but failed to disclose key details, prompting Kumar to appeal to the RTI Commission.
+
+...
+
+[Data](articles/14fd381f.json)
+
+---
+
+### Restructure SriLankan Airlines – but no mandate for sale
+
+*2024-05-17 00:24:03* · [`dailyftlk`](https://www.ft.lk/columns/Restructure-SriLankan-Airlines-but-no-mandate-for-sale/4-761891) · `en`
+
+Former President Mahinda Rajapaksa’s official statement on the issue of the restructuring of State-Owned Enterprises (SOEs) has driven the usual suspects into a fit of rage. Instead of addressing the content of the statement through facts and rational argument, one Ranga Jayasuriya has gone on a hate-spewing tirade on Daily Mirror. Let us keep aside all the ad hominem fallacies in his article, including childish name-calling, fear-mongering and false accusations. Such immature personal attacks only support Mahinda’s stance.
+
+Although Mahinda Rajapaksa speaks about all SOEs in general, Jayasuriya seems to have read it as impacting only SriLankan Airlines. Perhaps it is not because he has any money to be made in the proposed sale of the national carrier but because of his undying passion for turning loss-making SOEs into profit-making Privately-Owned Enterprises (POWs) in Sri Lanka… But let us look at his claims logically.
+
+...
+
+[Data](articles/18d9b0a4.json)
+
+---
+
+### For Sri Lanka the road to recovery is long and must stay the course
+
+*2024-05-17 00:21:54* · [`dailyftlk`](https://www.ft.lk/columns/For-Sri-Lanka-the-road-to-recovery-is-long-and-must-stay-the-course/4-761890) · `en`
+
+President Ranil Wickremesinghe recently emphasised the necessity of a new economic reform program for the country’s economic recovery
+
+As Sri Lanka continues to recover from the recent crisis, this time last year, a mere 12 months ago, we saw the peak of Sri Lanka’s worst economic crisis since independence. The economic recovery partially remains hindered by slow growth in exports and low foreign direct investment (FDI), with export growth projected at a modest 5.27% from 2024 to 2028 and FDI below 3% of GDP. The country faces a significant challenge with a decade-long period of low productivity growth, averaging 1.4% annually, underlying major structural weakness in the economy, principally almost endemic policy inconsistency.
+
+...
+
+[Data](articles/c97297f5.json)
+
+---
+
+### Is Sri Lanka’s population truly declining amid economic crisis and COVID-19?
+
+*2024-05-17 00:19:49* · [`dailyftlk`](https://www.ft.lk/columns/Is-Sri-Lanka-s-population-truly-declining-amid-economic-crisis-and-COVID-19/4-761889) · `en`
+
+While short-term trends may indicate population decline, historical precedents suggest resilience and the potential for rebound
+
+Despite concerns about declining population in Sri Lanka due to factors like reduced fertility, increased emigration, and rising mortality rates, short-term fluctuations do not necessarily signify long-term decline. Population dynamics are intricate, influenced by various factors. Even during slower growth periods, populations tend to increase due to past trends in fertility and mortality, known as population growth momentum. This article aims to provide a scientific understanding of how Sri Lanka’s population might evolve, going beyond short-term fluctuations and addressing misconceptions about population decline.
+
+...
+
+[Data](articles/ff6a61be.json)
 
 ---
 
@@ -2039,307 +2247,5 @@ Therefore, the complaint has been filed asking to investigate the manner in whic
 [Data](articles/a4d71825.json)
 
 [Extended Data](ext_articles/a4d71825.ext.json)
-
----
-
-### Youth clubbed to death inside home in Hokandara
-
-*2024-05-16 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99251/youth-clubbed-to-death-inside-home-in-hokandara-) · `en`
-
-A 26-year-old youth has been clubbed to death inside a house in the Horahena area in Hokandara.
-
-According to Ada Derana reporter, the incident had occurred at around 7.30 p.m. yesterday (15).
-
-The victim who had sustained critical injuries after being struck in the head with a club by another individual, had succumbed to his injuries following admission to the Athurugiriya Hospital.
-
-The deceased is a 26-year-old married man residing at Horahena Road in Hokandara
-
-The suspect who had carried out the attack has since been apprehended by Athurugiriya police this morning (16).
-
-Athurigiriya Police revealed that the assailant had been in remand custody over drug-related charges and that he had only been released from custody around 10 days ago.
-
-The two individuals were reportedly friends, and police suspect the attack had been carried out over a personal dispute between them.
-
-Nugegoda Scene of Crime Officers (SOCO) have conducted an investigation at the scene of the crime this morning.
-
-...
-
-[Data](articles/014bc4c4.json)
-
-[Extended Data](ext_articles/014bc4c4.ext.json)
-
----
-
-### Amit Shah's Prime Minister - Arvind Kejriwal
-
-*2024-05-16 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183680) · `ta`
-
-Arvind Kejriwal predicts Amit Shah as PM after BJP's expected loss in Lok Sabha elections, citing PM Modi's potential retirement. He also hints at Yogi Adityanath's removal and BJP's struggle against SC/ST reservations.
-
-🟩
-
-Arvind Kejriwal, leader of the Aam Aadmi Party and New Delhi Chief Minister, has said that if the BJP wins the Lok Sabha elections, Amit Shah will take over the post of Prime Minister since 2025.
-
-Akhilesh Yadav, the leader of the party at the Samajwadi Party headquarters in Lucknow, Uttar Pradesh for the fifth phase. Together, Arvind Kejriwal met with reporters.
-
-PM Modi will be 75 years old on September 17 next year. Modi has since decided to lead Amit Shah as the country's prime minister. The Prime Minister has not yet announced that he will not retire with the age of 75.
-
-Yogi Adityanath, the Chief Minister of Uttar Pradesh, is to be sacked in two or three months.
-
-The Bharatiya Janata Party (BJP) is trying to cancel the reservation for the SC and SD sect.
-
-...
-
-[Data](articles/b241e90d.json)
-
-[Extended Data](ext_articles/b241e90d.ext.json)
-
----
-
-### SLFP cases on one
-
-*2024-05-16 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196681) · `si`
-
-SLFP Chairman Keerthi Udawatta acted as Secretary, reinforcing a case. The court ordered a summons for next Monday.
-
-🟩
-
-The case was reinforced by the Chairman of the Sri Lanka Freedom Party (SLFP as acting Secretary Keerthi Udawatta).
-
-The Court sentenced the court to be summoned next Monday to ensure the case.
-
-◼️
-
-[Data](articles/3acc6f57.json)
-
-[Extended Data](ext_articles/3acc6f57.ext.json)
-
----
-
-### West Indies Women to tour Sri Lanka for T20I series
-
-*2024-05-16 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/West-Indies-Women-to-tour-Sri-Lanka-for-T20I-series/108-282729) · `en`
-
-(SLC) - The West Indies National Women’s Team will arrive in Sri Lanka during the month of June for a white ball tour consisting of a three match ODI and a three-match T20I series.
-
-The team will play the ODI series in GICS, Galle, while the T20I series will be played in MRICS, Hambantota.
-
-◼️
-
-[Data](articles/777bdc47.json)
-
-[Extended Data](ext_articles/777bdc47.ext.json)
-
----
-
-### Russia and China looking for a political solution
-
-*2024-05-16 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196680) · `si`
-
-In a significant move, Russian President Vladimir Putin embarks on his first foreign visit post-re-election, heading to China for discussions on global politics, including conflicts in Ukraine and Gaza. Both nations stress the importance of a diplomatic resolution to these issues, marking their third high-level meeting in quick succession.
-
-🟩
-
-Russian President Vlamingor Putin has already begun a visit to China.
-
-This is the first foreign visit after the President of Russia commences his 5th term of office.
-
-There he also discussed the world politics, Ukraine war clashes and Gaza War.
-
-Putin said Russia and China emphasize a political solution to the Ukrainian problem.
-
-The Chinese President has also said that the solution to the war is the solution to the war.
-
-This is the third meeting between the two Chinese and Russian leaders in a short period of time.
-
-◼️
-
-[Data](articles/33319321.json)
-
-[Extended Data](ext_articles/33319321.ext.json)
-
----
-
-### Sri Lanka will not recover for 15 years if current policies change: Semasinghe
-
-*2024-05-16 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-not-recover-for-15-years-if-current-policies-change-semasinghe-163334/) · `en`
-
-ECONOMYNEXT — If there is a change in Sri Lanka’s current policy trajectory, the economy would not recover for another 15 years, State Minister of Finance Shehan Semasinghe warned.
-
-Speaking to reporters on Wednesday May 15, Senasinghe said the economy will be the deciding factor at the upcoming elections.
-
-“The president has stated clearly that the presidential election will be held first, followed by the parliamentary and other elections.
-
-“The decisive factor of the next election will be the economy. Strengthening the economy and taking the country forward will receive more attention over what ones wants to hear,” he said.
-
-Disingenuous statements will not count at the election, said Semasinghe.
-
-“If there is a change in the policies that the country is currently on, the economy will collapse and we won’t be able to raise our heads again for another 15 years at least,” he added.
-
-...
-
-[Data](articles/8ef43ac8.json)
-
-[Extended Data](ext_articles/8ef43ac8.ext.json)
-
----
-
-### Government stands on increasing the salaries of public servants
-
-*2024-05-16 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196679) · `si`
-
-Mahinda Amaraweera, Minister of Agriculture, stated that public servant salaries won't rise this year due to economic concerns. He discussed this with trade union officials from various divisions, including Animal Production and Livestock Development. The minister highlighted potential economic risks if salaries were increased, citing last year's Rs. 10,000 raise as an example.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera says that state employees cannot increase the salary increase in public servants this year.
-
-The Minister was speaking at the discussion with trade union officials representing several staff members from the Animal Production and Livestock Development Division.
-
-The Minister has asked the Minister of Representatives from a number of problems presented by the representatives of the trade union representatives.
-
-The Minister emphasized that if a salary increase will be resumed for public servants in the next year, the country could have a decline again.
-
-In this year, state employees have increased Rs. 10,000.
-
-These discussions have also participated in the veterinarians' Association, Animal Development Advisors Association and the workers representing the workers of the livestock development sector.
-
-◼️
-
-[Data](articles/76243e3f.json)
-
-[Extended Data](ext_articles/76243e3f.ext.json)
-
----
-
-### A six islands in five islands in Kalpitiya
-
-*2024-05-16 13:46:31* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටියේ-දූපත්-හයක්-බදුගත්-සමාගම්-පහකින්--කෝටි-හයක-බදු-පොල්ලක්/11-409676) · `si`
-
-The Tourism Development Authority (TDA) in Sri Lanka faces criticism for failing to collect taxes from several islands, including Kalpitiya, leading to financial losses. The National Audit Office highlighted this issue, stating that the TDA did not remit funds owed between 2022.120 and 2022.30. The audit also pointed out discrepancies in the handling of funds by former Ceylon Tourist Council President Sinni Arachchle and others involved in unregulated projects. The report suggests significant tax evasion, particularly by the company leasing Ippantiv Island, and calls for improved financial management and transparency.
-
-🟩
-
-The Tourism Development Authority has revealed that the tourism development authority has failed to recover a tax of Rs.
-
-The National Audit Office states that the shortage of tourism has not been paid to 2022.120 to 2022.30 of the company due to the final audit date by the companies.
-
-The Tourism Development Authority has not been recovered by the then President of the Ceylon Tourist Council, Sinni Arachchle, Sinnna Aradhivin, Sinnna Arachchle and Iraksters, and the Fourts Unrulated ProjectsBy five.
-
-The audit has shown that the highest tax amount of these islands had to be the company that leased the Ippantiv Island.
-
-The Audit Report states that the Travel Development Authority has not done so, but the Travel Development Authority has not done so.
-
-The circuit development Authority has shown that over 10 years to invest in the 2010 tornics, Sinnna Arachchle, Sinnay Arachchle and the Four Secretaries that were assigned 2010.
-
-◼️
-
-[Data](articles/9b7c9fed.json)
-
-[Extended Data](ext_articles/9b7c9fed.ext.json)
-
----
-
-### Ombudsman is appointed first in Sri Lanka
-
-*2024-05-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196678) · `si`
-
-Mr. Chulananda Perera becomes Sri Lanka's first Ombudsman, tasked with conducting impartial investigations into decisions/actions related to national sports associations.
-
-🟩
-
-Sri Lanka's first games as the Omburdsman. it. Mr. Chulananda Perera has been appointed.
-
-The Ministry of Sports releases a statement that he is a special series of Sri Lanka Administrative Service.
-
-Accordingly, an independent and impartial inquiry is to conduct an independent and impartial investigation into anyone in a decision or action in terms of the registered National Sports Association or a conference.
-
-◼️
-
-[Data](articles/c213a1e0.json)
-
-[Extended Data](ext_articles/c213a1e0.ext.json)
-
----
-
-### The driver of the bus traveling from Nuwara Eliya to Navalapitiya
-
-*2024-05-16 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183670) · `ta`
-
-A SLTB bus driver from Nuwara Eliya to Nawalapitiya died unexpectedly around 7:30 pm on Wednesday. The driver, aged 39 from Gampola, passed away en route to Nuwara Eliya-Thalawakelle. His body was taken for autopsy at the Nuwara Eliya District General Hospital, with Lindula police investigating the cause of death.
-
-🟩
-
-The driver of a bus belonging to the Sri Lanka Transport Board (SLTB), who was traveling from Nuwara Eliya to Nawalapitiya, died suddenly at around 7:30 pm on Wednesday (16).
-
-The bus was traveling from Nuwara Eliya to Nawalapitiya on the way to Nuwara Eliya - Thalawakelle.
-
-Hospital sources said that the driver died without treatment.
-
-The body has been taken to the Nuwara Eliya District General Hospital for autopsy. Lindula police are conducting further investigations into the incident.
-
-It is also worth noting that the driver who died in the incident belongs to the 39 -year -old Gampola area.
-
-◼️
-
-[Data](articles/cf957d44.json)
-
-[Extended Data](ext_articles/cf957d44.ext.json)
-
----
-
-### State Minister Shehan Semasinghe threatened with death
-
-*2024-05-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196677) · `si`
-
-State Minister Shehan Semasinghe faces death threats, prompting an investigation. The threat, received via a phone call to his office, warned against his participation in future elections. Semasinghe reported this to the Fort Police, initiating an inquiry.
-
-🟩
-
-State Minister of State Shehan Semasinghe has begun an investigation into the threat of death threats.
-
-The telephone call was received by the State Minister's office yesterday afternoon.
-
-Shehan Semasinghe does not allow him to contest for future election and the person who threatened the phone that he would kill his threat.
-
-According to a complaint lodged by the State Minister, Shehan Semasinghe said that the Fort Police had begun investigations.
-
-Meanwhile, Minister of State Shehan Semasinghe said that the President said that he said that he said that he said that he said he was first held after the presidential election was held first.
-
-◼️
-
-[Data](articles/ed6a4ee0.json)
-
-[Extended Data](ext_articles/ed6a4ee0.ext.json)
-
----
-
-### Police a lesson for tribute to school
-
-*2024-05-16 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුබිම-වැනසු-සාපෙළ-සිසුන්ට-පොලිසියෙන්-පාඩමක්/11-409675) · `si`
-
-In Anamaduwa, police investigated a case where students from Kannangara Model School disrupted the testing center. The principal reported this incident, leading to disciplinary actions against the students involved. Despite this, over 220 students from the same school successfully took part in the GCE Ordinary Level exam.
-
-🟩
-
-Anamaduwa police say that students who have seen a group of students who sat at the Anama Kannangara Model Center have had a group of students who were looking for the Testing Center.
-
-The police investigations have confirmed that the Kannangara Model School students have been conducted by another Galadam roofs from another flower powder.
-
-The group has informed the principal by the other students who were inferior to the school premises.
-
-Principal Wijayaratne has taken steps to complain to the police and complained to the police.
-
-It is said that the number of students and their parents who have been called to the Anamaduwa Police and their parents who have been called to the Anamaduwa Police have been admonished.
-
-However, nearly 220 students from Kannangara Vidyalaya have joined the GCE Ordinary Level examination.
-
-According to other students and parents, the students have been reduced to the name of Kannangara Vidyalaya.
-
-◼️
-
-[Data](articles/38a15de4.json)
-
-[Extended Data](ext_articles/38a15de4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 16:50:51**
+As of **2024-05-16 17:03:43**
 
 ## Newspaper Stats
 
-*Scraped **24,467** Articles*
+*Scraped **24,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,095
+adalk | 2,096
 adaderanalk | 2,835
 tamilmirrorlk | 2,877
 virakesarilk | 3,673
 dailymirrorlk | 3,838
-adaderanasinhalalk | 3,902
+adaderanasinhalalk | 3,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,464 (100.0%) of 24,467 articles have been extended.
+24,467 (100.0%) of 24,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### ඉදිරි සතිය ගැන සැලකිලිමත් වන්න!
+
+*2024-05-16 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196688) · `si`
+
+ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින "පෙර-මෝසම් කාලගුණික ලක්ෂණ" හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් ඉදිරි දිනවල දී බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඉදිරි සතියකට වලංගු වන පරිදි "සැලකිලිමත් වන ලෙස" දන්වමින් එම දෙපාර්තමේන්තුව දැනුම් දී ඇත්තේ දිවයිනේ නිරිත දිග ප්‍රදේශවල විශේෂයෙන්ම බස්නාහිර, සබරගමුව මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල මාතර, සහ මන්නාරම දිස්ත්‍රික්කවලත් තද වැසි සහ තද සුළං ඇතිවිය හැකි බවය.
+
+දිවයින වටාවන මුහුදු ප්‍රදේශවලත් (0-10) N (60-90) E මගින් ආවරණය වන මුහුදු ප්‍රදේශවලත් තද සුළං සමගින් තද වැසි පැවතිය හැකි බව සඳහන් වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් මේ සම්බන්ධයෙන් නිකුත් කරනු ලබන ඉදිරි නිවේදන පිළිබඳව මහජනතාවත්, ධීවර සහ නාවීක ප්‍රජාවත් අවධානයෙන් පසු වන ලෙස දන්වා ඇත.
+
+ගිඟුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/c42b46a3.json)
+
+---
 
 ### Probe launched into death threats against State Minister Semasinghe
 
@@ -50,29 +70,39 @@ Meanwhile, speaking to the media in Habarana, the State Minister revealed that t
 
 [Data](articles/bb499599.json)
 
+[Extended Data](ext_articles/bb499599.ext.json)
+
 ---
 
-### ඉන්දියාවේ PhonePe ලංකාවේ වැඩ අරඹයි
+### Press first begins Sri Lanka
 
 *2024-05-16 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196686) · `si`
 
-ඉන්දියාවේ ක්‍රියාත්මක PhonePe ඩිජිටල් ගෙවීම් ක්‍රමය මෙරටදී නිල වශයෙන් එළිදැක්වීම ඊයේ (15) කොළඹදී සිදුකෙරුණි.
+India launched its official payment system in Colombo, aiming to facilitate transactions for Indian tourists in Sri Lanka. This move strengthens financial cooperation between the two countries, supports Sri Lanka's tourism and investment sectors, and introduces the UPI, QR payment method, enhancing economic ties.
 
-ඒ ශ්‍රී ලංකාවේ ඉන්දියානු මහකොමසාරිස් සහ මෙරට මහ බැංකු අධිපතිවරයාගේ ප්‍රධානත්වයෙනි.
+🟩
 
-මෙම ක්‍රමය මගින් ඉන්දියානු සංචාරකයින්ට මුදල් භාවිතයෙන් තොරව ගනුදෙනු කළ හැකිය.
+The official payment system in India was officially launched in Colombo yesterday (15).
 
-මෙහිදී අදහස් දැක්වූ ශ්‍රී ලංකාවේ ඉන්දියානු මහකොමසාරිස් සන්තෝෂ් ජා මහතා,
+It is the main Commissioner of Indian High Commissioner and the Central Bank of Sri Lanka.
 
-"ඔබ බොහෝ දෙනා දන්නා ආකරයට ඉන්දියාව තමයි ශ්‍රී ලංකාවේ ප්‍රමුඛතම ආර්ථික සහකරුවා. අපි ශ්‍රී ලංකාවේ විශාලතම වෙළෙඳ පාර්ශ්වකරු වගේම මෑත කාලයේදී ශ්‍රී ලංකාවට විශාලතම සෘජු විදේශ ආයෝජන සිදුකළ මුලාශ්‍ර ද වනවා. එමෙන්ම ශ්‍රී ලංකාවට වැඩිම සංචාරකයින් පිරිසක් රැගෙන ඒමට ඉන්දියාව දායක වී තිබෙනවා."
+This method can deal with Indian tourists without money.
 
-"ඒ වගේම UPI, QR ගෙවීම් ක්‍රමය හඳුන්වාදීම තුළින් ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය ප්‍රවර්ධනය කිරීමට සහ මෙරටට ලැබෙන ආයෝජන ඉහළ නැංවීම සඳහා සහායවීමට අපි අපේක්ෂා කරනවා."
+Indian High Commissioner Sanantha Raman, Sri Lanka
 
-"UPI, QR ගෙවීම් ක්‍රමය හඳුන්වාදීමත් සමඟ ශ්‍රී ලංකාවේ සංචාරය කරන ඉන්දියානුවන්ට ගෙවීම් සිදුකිරීම සඳහා UPI පද්ධතිය යොදාගත හැකියි."
+"Most you know mostly the pricome of India is the leading economic association in Sri Lanka. We are the largest foreign investment partner in Sri Lanka as well as the largest foreign investment partner in Sri Lanka. India has also brought the highest number of tourists to Sri Lanka. "
+
+"We hope to help promote the tourism industry in Sri Lanka and enhance investment in Sri Lanka by introducing the UPI, QR payment method."
+
+"With the introduction of UPI, QR payment method, the UPI system can use the UPI system to pay for Sri Lanka."
+
+"It does not only make India comfortable. It is stimulating the economy and tourism industry.. Cooperation in the field of finance technology is further strengthened. "
 
 ...
 
 [Data](articles/06019ca8.json)
+
+[Extended Data](ext_articles/06019ca8.ext.json)
 
 ---
 
@@ -484,6 +514,8 @@ The team will play the ODI series in GICS, Galle, while the T20I series will be 
 
 [Data](articles/777bdc47.json)
 
+[Extended Data](ext_articles/777bdc47.ext.json)
+
 ---
 
 ### Russia and China looking for a political solution
@@ -639,6 +671,26 @@ Meanwhile, Minister of State Shehan Semasinghe said that the President said that
 [Data](articles/ed6a4ee0.json)
 
 [Extended Data](ext_articles/ed6a4ee0.ext.json)
+
+---
+
+### විදුබිම වැනසු සාපෙළ සිසුන්ට පොලිසියෙන් පාඩමක්
+
+*2024-05-16 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුබිම-වැනසු-සාපෙළ-සිසුන්ට-පොලිසියෙන්-පාඩමක්/11-409675) · `si`
+
+ආණමඩුව කන්නන්ගර ආදර්ශ විද්‍යාලයෙ අපොස සාපෙල විභාග මධ්‍යස්ථානයෙ විභාගයට පෙනි සිටි  සිසුන් පිරිසක් පාසල් භුමියෙ දේපොල වනසා ඇති තිබෙන බව ආණමඩුව පොලිසිය පවසයි.
+
+පාසල් භුමියෙ මල් පොච්චි කුඩුකර කෙසෙල් ගස් ගලවා දමා තවත් මල් පොච්චි වලින් තහඩු වහල වලට හානි කිරීම ඇතුළු දෑ මෙවර සාමාන්‍ය පෙළ විභාගයට ඉදිරිපත් වු කන්නන්ගර ආදර්ශ විද්‍යාලයෙ සිසුන් පිරිසක් විසින් සිදු කර ඇති බව පොලිස් පරික්ෂණ වලදි තහවුරු වී ඇති බව කියයි.
+
+අදාල සිසුන් පිරිස ඉතා පහත් ලෙස මෙලෙස පාසල් භුමියෙ දෑ වනසා තිබෙන බවත් එම සිසුන් විසින් කල ක්‍රියාව අනිකුත් සිසුන් විසින් විදුහල්පතිවරයාට දන්වා තිබේ.
+
+ඉන් පසුව අදාල හානි කල සිසුන් පිරිස හදුනා ගෙන පොලිසියට පැමිනිලි කිරීමට විදුහල්පති විමල් විජයරත්න මහතා කටයුතු කර තිබේ.
+
+මෙසේ පාසල් භුමියෙ සම්පත් වැනසු සිසුන් පිරිස හා ඔවුන්ගේ මව්පියන් ආණමඩුව  පොලිසියට කැදවා සිසුන් කර ඇති මෙම විනාශයට අදාල සියල්ලම නැවත තිබු ලෙසම සකසන ලෙසට දැඩි අවවාදයක් කිරීමට කටයුතු කර ඇති බව කියයි.
+
+...
+
+[Data](articles/38a15de4.json)
 
 ---
 
@@ -2275,59 +2327,5 @@ According to police, one of the arrested suspects had been involved in a relatio
 [Data](articles/10420731.json)
 
 [Extended Data](ext_articles/10420731.ext.json)
-
----
-
-### School girl killed in fox hill accident
-
-*2024-05-16 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196665) · `si`
-
-A schoolgirl died in a tragic accident during the Diyatalawa Fox Hill motor race, treated at Badulla General Hospital. The incident led to the suspension of the race for five years, with four other fatalities reported.
-
-🟩
-
-The school girl was killed in the accident during the Diyatalawa Fox Hill motor race.
-
-She was receiving treatment at the ICU of the Badulla General Hospital.
-
-The body of the 16 year old Seedarai Kawkka girl, a 16-year-old resident of the Diyatalawa Police Division, has been placed at the Badulla General Hospital.
-
-The Fox Hill car racing began on April 21, 7 days after the fatalawa accident occurred there.
-
-Four Assistants of the race were losing their lives and the funerals were also visiting the tourist.
-
-Sivivukana, a resident of Welimada, a 55-year-old resident of the Mutthasami Udayakumara, a 55 year old resident of the Mutthizami Udayakumar, the 20-year-old resident of Akuressa, a resident of Akuressa, and 60 year old residents of Akuressa, a 60 year old residents of Akuressa.Ganesh Jayawardena was lost here.
-
-The race was held on 21st April 2019 and the event had to be stopped.
-
-...
-
-[Data](articles/ad9394b0.json)
-
-[Extended Data](ext_articles/ad9394b0.ext.json)
-
----
-
-### A public holiday for Sajith and Anura's debate?
-
-*2024-05-16 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196664) · `si`
-
-Minister Harin Fernando suggests making Sajith Premadasa and Anura's debate a public holiday, highlighting its importance but noting lack of interest from both leaders. He criticizes their communication styles, with one speaking Sinhalese and the other heavily in English, creating a barrier. Minister Wijayadasa Rajapakse mentions future plans, while State Minister Piyal Nishantha hints at revelations from the Sri Lanka Generalian Front soon.
-
-🟩
-
-Minister Harin Fernando says that the public should be made a public holiday to see the debate that the Leader of the Opposition Sajith Premadasa and the leader of the national popularity.
-
-But he pointed out that both parties have no interest in the debate.
-
-"Today the two main candidates like to make one request. Please have that debate. Because there is a hiding a hiding down to this debate. I actually name a public holiday to the President to ask the President and tell the people of Sri Lanka. How to look for the debate. Because people who can't accept the challenges see how the country is making the country. This is a lonely game. Both sides know that this can't be done. One speaks in Sinhala. The other one speaks in the heavy in English. The two people do not understand. We are asking, not by the work, show yourself. "
-
-Meanwhile, Minister Wijayadasa Rajapakse said that the first was held in the future.
-
-...
-
-[Data](articles/6532d717.json)
-
-[Extended Data](ext_articles/6532d717.ext.json)
 
 ---

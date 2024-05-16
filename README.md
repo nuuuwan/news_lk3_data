@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 14:05:03**
+As of **2024-05-16 14:18:25**
 
 ## Newspaper Stats
 
-*Scraped **24,433** Articles*
+*Scraped **24,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,438
-adalk | 2,086
+adalk | 2,087
 adaderanalk | 2,828
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
 dailymirrorlk | 3,835
-adaderanasinhalalk | 3,895
+adaderanasinhalalk | 3,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,431 (100.0%) of 24,433 articles have been extended.
+24,433 (100.0%) of 24,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### එක පිට දැමෙන ශ්‍රීලනිප නඩු
+
+*2024-05-16 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196681) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා සහ වැඩබලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු පත්කිරීම වළක්වන වාරණ නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කළ නඩුව අද (16) සංශෝධනය සිදුකොට කොළඹ දිසා අධිකරණය හමුවේ යළි කැඳවනු ලැබීය.
+
+එම නඩුව කරුණු තහවුරු කිරීම සඳහා ලබන සඳුදා කැඳවන ලෙස අධිකරණය නියම කළේය.
+
+◼️
+
+[Data](articles/3acc6f57.json)
+
+---
+
+### රුසියාව සහ චීනය දේශපාලන විසඳුමක් සොයයි
+
+*2024-05-16 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196680) · `si`
+
+රුසියානු ජනාධිපති ව්ලැදීමීර් පුටින් මේ වනවිට චීනයේ නිල සංචාරයක් ආරම්භ කර තිබේ.
+
+රුසියාවේ ජනාධිපතිවරයා සිය 5වැනි ධුරකාලය ආරම්භ කිරීමෙන් අනතුරුව පුටින් ගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
+
+එහිදී ඔහු ලෝක දේශපාලනය, යුක්‍රේන යුද ගැටුම් සහ ගාසා යුද්ධය ගැන චීන ජනාධිපති ෂී ජින්පින් සමග සාකච්ඡා කර ඇති බව සඳහන් ය.
+
+පුටින් පවසා ඇත්තේ රුසියාව සහ චීනය, යුක්‍රේන ගැටලුව සඳහා දේශපාලන විසඳුමක් අවශ්‍ය බවට අවධාරණය කරන බවයි.
+
+එසේම ගාසා යුද්ධය සඳහා හොඳම වන්නේ රාජ්‍ය දෙකක් යන විසඳුම බව චීන ජනපතිවරයා පවසා තිබේ.
+
+මෙය චීන සහ රුසියානු නායකයින් දෙදෙනා අතර වසරක් වැනි කෙටි කාලයක් තුළදී සිදුකළ තෙවැනි හමුව යි.
+
+◼️
+
+[Data](articles/33319321.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප් වැඩිකිරීම ගැන රජයේ ස්ථාවරය
+
+*2024-05-16 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196679) · `si`
+
+මෙම වර්ෂය තුළ රාජ්‍ය සේවකයින්ට නැවත වැටුප් වැඩි කිරීමක් සිදුකළ නොහැකි බව ජනාධිපතිවරයා අමාත්‍ය මණ්ඩලයට දැනුම්දුන් බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+
+සත්ත්ව නිෂ්පාදන හා පශු සම්පත් සංවර්ධන අංශයට අයත් සේවක මණ්ඩල කිහිපයක් නියෝජනය කරන වෘත්තිය සමිති නිලධාරින් සමග ඔවුන්ගේ ගැටලු සම්බන්ධයෙන් ඊයේ (15) පැවති සාකච්ඡාවේ දී අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+එම වෘත්තිය සමිති නියෝජිතයින් ඉදිරිපත් කළ ගැටලු රැසකට විසඳුම් ලබා දීමට එකඟත්වය පළ වී ඇති අතර, මෙම වසර තුළ නැවත වැටුප් වැඩිවීමක් ලබා දෙන ලෙස සියලු වෘත්තිය සමිති නියෝජිතයින් අමාත්‍යවරයාගෙන් ඉල්ලිමක් කර තිබේ.
+
+නැවත රජයේ සේවකයින් සඳහා වැටුප් වැඩිවීමක් සිදුවන්නේ ලබන වසරේ දී බවත්, මෙම වසර තුළ නැවත වැටුප් වැඩිවීමක් සිදු කළහොත් රට ආර්ථික වශයෙන් නැවතත් කඩා වැටීමකට ලක්විය හැකි බවත් අමාත්‍යවරයා අවධාරණය කළේය.
+
+මේ වසරේ දී රාජ්‍ය සේවකයින්ට රු 10,000ක වැටුප් වැඩිවීමක් සිදුවුණි.
+
+මෙම සාකච්ඡාවන්ට පශු වෛද්‍යවරුන්ගේ සංගමය, සත්ව සංවර්ධන උපදේශකවරුන්ගේ සංගමය හා පශු සංවර්ධන අංශයේ කම්කරුවන් නියෝජනය කරමින් නියෝජිතයෝ රැසක් සහභාගි වූහ.
+
+◼️
+
+[Data](articles/76243e3f.json)
+
+---
+
+### ශ්‍රී ලංකාවේ පළමු ක්‍රීඩා ඔම්බූඩ්ස්මන්වරයා පත් කෙරෙයි
+
+*2024-05-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196678) · `si`
+
+ශ්‍රී ලංකාවේ පළමු ක්‍රීඩා ඔම්බූඩ්ස්මන්වරයා ලෙස ඩබ්ලිව්. ඒ. චූලානන්ද පෙරේරා මහතා පත් කර තිබේ.
+
+ක්‍රීඩා අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පෙන්වා දෙන්නේ ඔහු ශ්‍රී ලංකා පරිපාලන සේවයේ (විශ්‍රාමික) විශේෂ ශ්‍රේණිධාරියෙකු බවය.
+
+ඒ අනුව පනත ප්‍රකාරව ලියාපදිංචි ජාතික ක්‍රීඩා සංගමයක හෝ සම්මේලනයක යම් තීරණයකින් හෝ ක්‍රියාවකින් අගතියතට පත් ඕනෑම තැනැත්තෙකු සම්බන්ධයෙන් ස්වාධීන සහ අපක්ෂපාතී පරීක්ෂණයක් පැවැත්වීම ඔහුගේ රාජකාරී අතර වෙයි.
+
+◼️
+
+[Data](articles/c213a1e0.json)
+
+---
 
 ### State Minister Shehan Semasinghe threatened with death
 
@@ -180,21 +254,41 @@ President Ranil Wickremesinghe will hold a discussion with top officials, includ
 
 ---
 
-### மஹிந்தவிடம் என்ன கேட்டார் ஜனரஞ்சனி
+### ඇමති විජයදාසට එරෙහිව ඉල්ලූ වාරණයක් ඉවතට
+
+*2024-05-16 13:00:24* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-එරෙහිව-ඉල්ලූ-වාරණයක්-ඉවතට/11-409672) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ  සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීමට ගත් තීරණය ක්‍රියාත්මක කිරීම වළක්වන වාරණ නියෝගයක් නිකුත් කරන්නැයි පාර්ලිමේන්තු මන්ත්‍රි දුමින්ද දිසානායක මහතා කළ ඉල්ලීම  කොළඹ ප්‍රධාන දිසා අධිකරණය ප්‍රතික්ෂේප කළේය.
+
+කෙසේ වෙතත් පැමිණිලිකරුට මෙම පැමිණිල්ල සංශෝධනය කර යළි අදාළ වාරණ නියෝගය සඳහා කරුණු තහවුරු කිරීමට අවස්ථාව තිබෙන බවත් අධිකරණය සඳහන් කළෙය.
+
+◼️
+
+[Data](articles/febedaa6.json)
+
+---
+
+### What did Mahinda ask
 
 *2024-05-16 12:59:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-என்ன-கேட்டார்-ஜனரஞ்சனி/175-337424) · `ta`
 
-எமது சகோதர பத்திரிக்கையான ‘அத‘ பத்திரிக்கையில், ஜனரஞ்சனி எனும் சிந்தனை சித்திரத்தில், மஹிந்தவிடம் ஜனரஞ்சனி, புதன்கிழமை (15) கேள்வியொன்றை கேட்டுள்ளார்.
+Mahinda Rajapakse, in a magazine interview, expressed support for Palestinians, emphasizing the need for peace efforts. He also humorously suggested serving porridge to benefit northern communities.
 
-முன்னதாக பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (14) நடைபெற்ற பலஸ்தீனத்தில் இன்றைய நிலவரம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றிய முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, “பலஸ்தீன மக்கள் எதிர்நோக்கும் அவலங்கள் நீங்கி, அங்கு அமைதியை ஏற்படுத்துவதற்காக தொடர்ந்தும் குரல் கொடுப்போம்” என்றார்.
+🟩
 
-அக்கூற்றை முன்வைத்து ‘அத‘ பத்திரிக்கையில், கீறப்பட்டுள்ள சிந்தனை சித்திரத்தில், “துன்பகரமான நேரத்தில் நாங்கள் பலஸ்தீனத்துக்கு உதவ வேண்டும்” என்கிறார்.
+In our brotherly magazine, the magazine, in the image of Janaranjani, Mahinda asked Mahinda on Wednesday (15).
 
-மறுபுரத்தில் இருக்கும் ஜனரஞ்சனி, “அப்படியானால் சேர், “எங்களுடைய வடக்கு மக்களுக்கு கஞ்சி குடிக்க இடமளிப்பது நல்லது அல்லவா”? என்று வினவுகின்றார்.
+Former President Mahinda Rajapakse, speaking at the post of postponement of today's Palestinian Palestinian in Parliament on Tuesday (14), said, "We will continue to give up the plight of the Palestinian people and make peace there."
+
+In the magazine, in the magazine, in the scratched image, he says, "We must help Palestine in a miserable time."
+
+On the other hand, the Janaranjani said, "So add," Isn't it good to drink porridge for our northern people? "He asks.
 
 ◼️
 
 [Data](articles/10b11694.json)
+
+[Extended Data](ext_articles/10b11694.ext.json)
 
 ---
 
@@ -248,21 +342,27 @@ However, the proposals were not submitted to the Ceylon Electricity Commission o
 
 ---
 
-### 10  வரை கால அவகாசம்
+### Time for up to 10
 
 *2024-05-16 12:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வரை-கால-அவகாசம்/175-337423) · `ta`
 
-மின்சாரக் கட்டணக் குறைப்பு சதவீதம் எதிர்வரும் ஜூலை மாதம் அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Public Utilities Commission plans to announce electricity tariff rates in July. The Electricity Board requested more time to suggest ways to lower these rates. Despite extending the deadline to May 10, the proposals weren't submitted by the 10th, according to Chairman Professor Manjula Fernando.
 
-இதேவேளை, மின்சார கட்டணத்தை குறைப்பது தொடர்பான யோசனைகளை சமர்ப்பிக்க வௌ்ளிக்கிழமை (17) வரை கால அவகாசம் வழங்குமாறு மின்சார சபை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளது.
+🟩
 
-இந்த முன்மொழிவுகள் ஆணைக்குழுவிடம் மே 1ஆம் திகதி வழங்கப்படவிருந்த நிலையில், மின்சார சபையின் கோரிக்கைக்கு அமைய பொதுப் பயன்பாட்டு ஆணைக்குழு எதிர்வரும் 10ஆம் திகதி வரை கால அவகாசத்தை நீட்டித்துள்ளது.
+The Public Utilities Commission said that the rate of electricity tariffs will be announced in July.
 
-எவ்வாறாயினும், இது தொடர்பான முன்மொழிவுகளை கடந்த 10ஆம் திகதி இலங்கை மின்சார சபை ஆணைக்குழுவிடம் சமர்ப்பிக்கவில்லை என அதன் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+Meanwhile, the Electricity Board has asked the Public Utilities Commission to grant time to submit ideas on reducing electricity tariffs.
+
+As these proposals are to be presented to the Commission on May 1, the General Utilities Commission has extended the deadline until the 10th of this month.
+
+However, the proposals were not submitted to the Ceylon Electricity Commission on the 10th of this month, its chairman Professor Manjula Fernando said.
 
 ◼️
 
 [Data](articles/eeb3db9a.json)
+
+[Extended Data](ext_articles/eeb3db9a.ext.json)
 
 ---
 
@@ -2169,87 +2269,5 @@ On the International Day of Tea, 21 May, The Centre for Child Rights and Busines
 [Data](articles/f04fe4aa.json)
 
 [Extended Data](ext_articles/f04fe4aa.ext.json)
-
----
-
-### SLT-Mobitel Enterprise introduces unlimited voice calling
-
-*2024-05-16 02:11:02* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-Enterprise-introduces-unlimited-voice-calling/34-761848) · `en`
-
-Focused on delivering a comprehensive suite of solutions tailored for the business sector, SLT-Mobitel Enterprise has introduced its latest offering: an Unlimited Voice calling package with a fixed rental.
-
-Voice communication stands as a cornerstone of any successful business operation. With SLT-Mobitel Enterprise’s new Unlimited Voice calling package, customers can enjoy the freedom of unlimited calls, rendering business conversations more economical than ever. This initiative aims to empower enterprises to optimise their operational costs and streamline communication processes. By offering a fixed rental fee and eliminating fluctuating usage costs, customers can now enjoy peace of mind, knowing that their communication expenses remain stable and predictable. This enhancement is specifically designed to benefit existing Enterprise Megaline customers, who have long-standing relationships with SLT-Mobitel, as well as for any LTE Voice customers.
-
-...
-
-[Data](articles/dfdef219.json)
-
-[Extended Data](ext_articles/dfdef219.ext.json)
-
----
-
-### Rupee expected to dip to Rs.310-320 range later this year: FCR
-
-*2024-05-16 02:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rupee-expected-to-dip-to-Rs-310-320-range-later-this-year-FCR/108-282689) · `en`
-
-The Sri Lankan rupee is likely to depreciate in the range of Rs.310-320 against the US dollar in the latter part of the year, First Capital Research (FCR) said.
-
-This will be driven by the heightened demand for imports and restart of foreign loan repayments upon completion of the External Debt Restructuring (EDR).
-
-The rupee is expected to appreciate up to Rs.295 in the first half of the year, as the higher taxes eat into the rising consumer demand in the short term, amid the escalation in the cost of living.  The indicative rate of the USD/LKR spot exchange rate stood at Rs.300.83 yesterday.
-
-“Slower consumer demand may lead to a reduction in imports, while the peak tourism season in the 1Q 2024 and higher worker remittances could further bolster the LKR. Subsequently, some stabilisation is anticipated as consumer demand improves and tourism income moderates,” FCR said.
-
-...
-
-[Data](articles/c5a35eb8.json)
-
-[Extended Data](ext_articles/c5a35eb8.ext.json)
-
----
-
-### United Motors Lanka PLC announces appointment of Vish Govindasamy as Independent Non-Executive Director
-
-*2024-05-16 02:08:53* · [`dailyftlk`](https://www.ft.lk/business/United-Motors-Lanka-PLC-announces-appointment-of-Vish-Govindasamy-as-Independent-Non-Executive-Director/34-761847) · `en`
-
-Currently serving as the Sunshine Holdings PLC Deputy Chairman, Vish Govindasamy has been instrumental in steering one of Sri Lanka’s top 50 listed companies to great heights. His tenure in various top-tier roles, including as an appointed Member of the Governing Board of the Central Bank of Sri Lanka and as the Immediate Past Chairman of the Ceylon Chamber of Commerce, reflects his extensive expertise and deep commitment in advancing Sri Lanka’s economic and social landscapes.
-
-...
-
-[Data](articles/0fb9e688.json)
-
-[Extended Data](ext_articles/0fb9e688.ext.json)
-
----
-
-### Dialog customers contribute over Rs. 18 million to Little Hearts via Star Points
-
-*2024-05-16 02:03:53* · [`dailyftlk`](https://www.ft.lk/business/Dialog-customers-contribute-over-Rs-18-million-to-Little-Hearts-via-Star-Points/34-761846) · `en`
-
-Over Rs. 140 million donated via Star Points to Little Hearts project since 2016
-
-Dialog customers came together extending their support once again to contribute over Rs. 18 million towards Little Hearts, an initiative spearheaded by the Sri Lanka College of Pediatricians, bringing the total donation amount since 2016 to Rs. 140 million. The program aims to develop a 12-storey cardiac and critical care complex at Lady Ridgeway Hospital in aid of children with heart diseases and critical illnesses.
-
-...
-
-[Data](articles/cfae447d.json)
-
-[Extended Data](ext_articles/cfae447d.ext.json)
-
----
-
-### Joining BRICS opens new possibilities for Sri Lanka
-
-*2024-05-16 01:59:52* · [`dailyftlk`](https://www.ft.lk/opinion/Joining-BRICS-opens-new-possibilities-for-Sri-Lanka/14-761845) · `en`
-
-Recently, the Ambassador of the Republic of Sri Lanka in Moscow, Janita Liyanage, told reporters about her country’s desire to join BRICS in the near future. The Government expects that this will have a positive effect on the economy and lead to a significant increase in the standard of living of ordinary citizens, since it will not only allow the country to conduct duty-free trade with the member states of the bloc, but also provide an opportunity to receive financial support necessary to solve Sri Lanka’s problems from large BRICS regional development funds.
-
-Considering that the total share of GDP of the bloc is 37% of the global total, all this might give a good impetus to the development of the island.
-
-...
-
-[Data](articles/7d1286c9.json)
-
-[Extended Data](ext_articles/7d1286c9.ext.json)
 
 ---

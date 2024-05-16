@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 15:52:15**
+As of **2024-05-16 16:04:21**
 
 ## Newspaper Stats
 
-*Scraped **24,461** Articles*
+*Scraped **24,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,093
 adaderanalk | 2,834
-tamilmirrorlk | 2,876
+tamilmirrorlk | 2,877
 virakesarilk | 3,673
 dailymirrorlk | 3,837
 adaderanasinhalalk | 3,901
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,460 (100.0%) of 24,461 articles have been extended.
+24,461 (100.0%) of 24,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,24 @@ The circular to this effect has already been issued by the Education Ministry to
 [Data](articles/055fe7e7.json)
 
 [Extended Data](ext_articles/055fe7e7.ext.json)
+
+---
+
+### இலங்கையர்களை நாடு திருப்ப விசேட குழு நியமனம்
+
+*2024-05-16 15:17:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாடு-திருப்ப-விசேட-குழு-நியமனம்/175-337429) · `ta`
+
+ரஷ்யாவிற்கு கடத்தப்பட்ட இலங்கையர்களை நாடு திருப்புவதற்கான சாத்தியக்கூறுகளை ஆராய ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட குழுவொன்றை ரஷ்யாவிற்கு அனுப்பியுள்ளார்.
+
+ரஷ்யாவில் உள்ள மற்றும் ரஷ்யா உக்ரைன் போரில் ஈடுபட்டதாக கூறப்படும் இலங்கையர்களின் சரியான எண்ணிக்கையை சரிபார்க்க அரசாங்கம் தற்போது முயற்சித்து வருவதாக வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தெரிவித்துள்ளார்.
+
+வெளிவிவகார அமைச்சின் அதிகாரிகள், பாதுகாப்பு செயலாளர் மற்றும் ரஷ்யாவுக்கான முன்னாள் இலங்கை தூதுவர் ஆகியோரை அனுப்புமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளார் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+
+"ரஷ்யாவில் தற்போது எத்தனை இலங்கையர்கள் உள்ளனர், அவர்களில் பலர் இந்தியா வழியாகவும், விசிட் விசாக்கள் மூலமாகவும் நாட்டிற்குள் நுழைந்துள்ளனர்" என்று பாலசூரிய கூறினார், புலம்பெயர்ந்தவர்களில் சிலரை வேலை வாய்ப்புகள் கிடைக்கப்பெறும் என நம்ப வைத்து அவர்கள் ஏமாற்றியுள்ளனர் என அவர் கூறினார்
+
+...
+
+[Data](articles/c65379a6.json)
 
 ---
 
@@ -185,6 +203,8 @@ The propaganda in Nuwara Eliya was earlier handled by SJB ally, the Tamil Progre
 ◼️
 
 [Data](articles/948d76f9.json)
+
+[Extended Data](ext_articles/948d76f9.ext.json)
 
 ---
 
@@ -2297,25 +2317,5 @@ However, researchers have found no clear proof of a link between MSG and these s
 [Data](articles/6f0326a2.json)
 
 [Extended Data](ext_articles/6f0326a2.ext.json)
-
----
-
-### Is the flavour enhancer a health risk?
-
-*2024-05-16 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-the-flavour-enhancer-a-health-risk/108-282693) · `en`
-
-Colombo, May 16 (Daily Mirror) - Monosodium glutamate (MSG), the main common food additive or flavor enhancer, has always come under scrutiny in Sri Lanka given its potential health effects. Is it really bad for your health?
-
-While the U.S. Food and Drug Administration (FDA) considers the addition of MSG to foods to be “generally recognized as safe” (GRAS), concerns persist over among consumers regarding its adverse reactions in the long run.
-
-That’s why MSG has been a subject of controversy due to reported adverse reactions like headache, flushing, excessive sweating and chest pain.
-
-However, researchers have found no clear proof of a link between MSG and these symptoms. Researchers admit, though, that a small number of people may have short-term and long-term reactions to MSG. The only way to prevent a reaction is to cut out foods that have MSG in them.
-
-...
-
-[Data](articles/bc602337.json)
-
-[Extended Data](ext_articles/bc602337.ext.json)
 
 ---

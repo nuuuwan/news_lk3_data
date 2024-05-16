@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 10:51:43**
+As of **2024-05-16 11:03:32**
 
 ## Newspaper Stats
 
-*Scraped **24,378** Articles*
+*Scraped **24,381** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
-bbccomsinhala | 247
+bbccomsinhala | 248
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
-adalk | 2,079
+adalk | 2,081
 adaderanalk | 2,824
 tamilmirrorlk | 2,865
 virakesarilk | 3,661
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,374 (100.0%) of 24,378 articles have been extended.
+24,378 (100.0%) of 24,381 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,25 +42,33 @@ The Colombo District Court today rejected the petition filed by Duminda Dissanay
 
 [Data](articles/f83928bf.json)
 
+[Extended Data](ext_articles/f83928bf.ext.json)
+
 ---
 
-### ජනපති සෙනසුරාදා ඉන්දුනීසියාව ට
+### President to Indonesia on Saturday
 
 *2024-05-16 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196670) · `si`
 
-ඉන්දුනීසියාවේ පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ හමුවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගීවීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+President Ranil Wickremesinghe will attend the 10th World Water Conference in Indonesia from May 18-20, invited by Indonesian President Joko Widodo. He will deliver a special statement at this event held in Bali from May 18-25.
 
-ඉන්දුනීසියා ජනාධිපති ජොකෝ විඩෝඩෝ මහතාගේ ආරාධනයක් අනුව ජනපති රනිල් වික්‍රමසිංහ මහතා එම සමුළුවට එක්වෙයි.
+🟩
 
-ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මැයි 18 සිට 20 දක්වා එරට සංචාරය කිරීමට නියමිතය.
+President Ranil Wickremesinghe is scheduled to attend the top 10th World Water Conference in Indonesia, the Presidential Media Unit said.
 
-ජනාධිපති වික්‍රමසිංහ මහතා මැයි 20 වනදා එම සමුළුවේ ඉහළ පෙළේ හමුව සඳහා විශේෂ ප්‍රකාශයක් කිරීමට නියමිත බවද ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+Ranil Wickremesinghe joins the conference on the invitation of Indonesia President Jooko Vitorido.
 
-10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ හමුව මැයි 18 සිට 25 වනදා දක්වා ඉන්දුනීසියාවේ බාලි දුපතේ පැවැත්වෙයි.
+Accordingly, President Ranil Wickremesinghe is due to visit the country from 18 to 20.
+
+President Wickremesinghe has announced a special statement for the top meeting at the conference.
+
+The top 10th World Water Conference is held at Bali Island in Indonesia until May 18th to 25th May.
 
 ◼️
 
 [Data](articles/5e08cf84.json)
+
+[Extended Data](ext_articles/5e08cf84.ext.json)
 
 ---
 
@@ -83,6 +91,8 @@ Following an inspection carried out by surveyors from the Government Survey Depa
 ◼️
 
 [Data](articles/5f69a12b.json)
+
+[Extended Data](ext_articles/5f69a12b.ext.json)
 
 ---
 
@@ -197,6 +207,28 @@ Sri Lanka Ports Authority, together with the Ministry of Ports, Shipping and Avi
 ...
 
 [Data](articles/cecce447.json)
+
+[Extended Data](ext_articles/cecce447.ext.json)
+
+---
+
+### ‍ෆොක්ස්හිල් අනතුරින් තුවා ලැබූ 16 හැවැරිදි දියණිය මරුට
+
+*2024-05-16 09:50:52* · [`adalk`](https://www.ada.lk/breaking_news/‍ෆොක්ස්හිල්-අනතුරින්-තුවා-ලැබූ-16-හැවැරිදි-දියණිය-මරුට/11-409664) · `si`
+
+දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ ධාවන තරගය අතරතුරේ හත්දෙනෙකු ට මරු කැදවමින් 21 ට බරපතළ තුවාල සිදු කරමින් සිදු වූ මෝටර් රථ අනතුරින් තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටි 16 හැවිරිදි  ලාබාල    තරුණියක් ඊයේ (15) රාත්‍රි මියගිය බව දියතලාව පොලිසිය පවසයි .
+
+දියතලාව ගල් ඒදණ්ඩ  හෙලගෙදර ප්‍රදේශයේ පදිංචිව සිටි ඩබ්ලිව් .පී. සත්සරණී චාමින්දි (16) නැමති බාලවයස්කාර දැරිය මෙසේ මියගිය බවද පොලිසිය කීය .
+
+මේ අනුව දියතලාව ෆොක්ස්හිල් මෝටර්රථ ධාවන තරග මාරක අනතුරින් මියගිය ගණන  අට දක්වා ඉහළ ගොස් තිබේ.
+
+ශ්‍රී ලංකා මෝටර් රථ  ධාවකයින්ගේ සංගමය සහ දියතලාව යුදහමුදා විද්‍යා පීඨය මගින් සංවිධානය කළ මෙම ෆොක්ස්හිල් මෝටර්රථ,  යතුරුපැදි  ධාවන තරග දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ ධාවන පථයෙදී ඉකුත් අප්‍රේල් මස 21 වනදින පැවත්විණ .
+
+එහිදී ෆෝඩ් ලේසර් මැස්ඩා එන්ජින් ධාරිතාව 1500 සිසි මෝටර් රථ කාණ්ඩයේ තරගයේදී මෙසේ තරග වැදුන මෝටර් රථ දෙකක් එකිනෙක ගැටි එක  මෝටර්රථයක් ධාවන පථයෙන් ඉවතට පැන නරඹන්නන් රැදී සිටි ඉසව්වට කඩා  වැදීමෙන් මෙම මාරක මෝටර් රථ අනතුර ඉකුත් අප්‍රේල් මස 21  සිදුවිය.
+
+...
+
+[Data](articles/3c521670.json)
 
 ---
 
@@ -677,6 +709,26 @@ In response to a question whether Sri Lanka is going to buy military equipment f
 [Data](articles/6a188fe3.json)
 
 [Extended Data](ext_articles/6a188fe3.ext.json)
+
+---
+
+### 'මුල්ලිවයික්කාල් කන්ජි' නොහොත් කැඳ යනු මොනවාද? එය සකස් කරන්නේ ඇයි?
+
+*2024-05-16 05:01:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyg1zzme0o) · `si`
+
+'මුල්ලිවයික්කාල් කන්ජි' නොහොත් කැඳ යනු මොනවාද? එය සකස් කරන්නේ ඇයි?
+
+ශ්‍රී ලංකාව තුළ පැවති  සිවිල් යුද්ධය මීට වසර 15 කට පෙර යුදමය වශයෙන්  නිමාවුව ද යුද්ධය විසින් දෙපාර්ශවයටම ඉතිරි කළ අමිහිරි මතක රාශියකි.
+
+මෙරට පැවති යුද්ධය හේතුවෙන් ජිවිතක්ෂයට පත්වූවන් සංඛ්‍යාව සම්බන්ධයෙන් නිශ්චිත සංඛ්‍යාව මෙපමණ යැයි සඳහන් කළ නොහැකි අතර, යුද්ධයෙන් අතුරුදහන්වූවන්ගේ පවුල්වල සාමාජිකයින් හා ආබාධිතවූවන් සහ වින්දිතයින් බවට පත්වූ පිරිස මෙතකැයි කිව නොහැක.
+
+යුද්ධයේ අවසන්  සමයේදී යුධ හමුදාව හා එල් ටී ටී  සංවිධානයේ ප්‍රහාරයන්ට මැදි වු සිවිල් ජනතාව අතුරින් බොහෝ පිරිසක් ජිවිතක්ෂයට පත්වු අතර, දමිළ ජනතාව විශාල පිරිසක් මුලතිව් මුල්ලිවයික්කාල් වෙරළ  සීමාවේ සීමිත ඉඩකට කොටු  වී සිටියහ.
+
+අවසන් යුධ සමයේ උතුරු නැගෙනහිර ජනතාව වෙත භාණ්ඩ හා සේවා සැපයීම සීමා කොට තිබු අතර, යුද්ධයේ අවසන් දිනවල දී  එල් ටී ටී  සංවිධානයේ පාලන සීමාවේ සිටි ජනතාවට අවශ්‍ය ආහාර හා අනෙකුත් ද්‍රව්‍ය සපයා ගැනීමට නොහැකි තත්ත්වයක් ඇතිවිය.
+
+...
+
+[Data](articles/53dee1c1.json)
 
 ---
 
@@ -1704,6 +1756,26 @@ It is reported that the luxury car driver who was traveling from Kandy to Nuwara
 
 ---
 
+### රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ මූලික අදියර අවසන්
+
+*2024-05-15 21:07:15* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසාය-ප්‍රතිව්‍යුහගත-කිරීමේ-මූලික-අදියර-අවසන්/11-409660) · `si`
+
+රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතුවල මූලික අදියර අවසන්ව ඇති බව වාර්තා වේ.
+
+ඒ අනුව තාක්ෂණික කමිටුවේ කටයුතු අවසන්ව ඇත. එම කමිටුව මගින් එම ආයතන මිලදී ගැනීම වෙනුවෙන් යෝජනා ඉදිරිපත් කර තිබූ ආයතන අතරින් මූලික සුදුසුකම් සපුරා ඇති ආයතනවල අවසන් ලැයිස්තුව සකස් කර තිබේ.
+
+ඊළඟ අදියර ලෙස මූල්‍ය අභිලාෂ කැඳවීමට නියමිත අතර, ඒ සදහා මූල්‍ය කමිටුව විසින් ඉහළ ලංසුව ඉදිරිපත් කරන ආයතනය සඳහා එම ආයතනය මිලදී ගැනීමේ අවස්ථාව හිමි වේ.
+
+එමෙන්ම රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු සඳහා කැබිනට් මණ්ඩලය විසින් පත් කරන ලද කමිටු කිහිපයක් ඇති බවත්, එම කමිටු විෂය විශේෂඥයන්, ප්‍රවීණයන් හා රාජ්‍ය නිලධාරින්ගෙන් සමන්විත බවත් රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහත කිරීමේ කමිටුවේ ප්‍රකාශකයෙක් සඳහන් කළේය.
+
+එමෙන්ම එම කමිටුවේ සාමාජිකයන් කිසිදු දීමනාවක් ලබානොගන්නා බව ද එම ප්‍රකාශකයා සඳහන් කළේය
+
+◼️
+
+[Data](articles/f0a4f6e3.json)
+
+---
+
 ### Ravi Manangularan two bail of bail
 
 *2024-05-15 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196656) · `si`
@@ -2117,75 +2189,5 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 [Data](articles/bdc16707.json)
 
 [Extended Data](ext_articles/bdc16707.ext.json)
-
----
-
-### Slovakia’s prime minister injured in shooting
-
-*2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
-
-(AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
-
-The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
-
-A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
-
-It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
-
-...
-
-[Data](articles/2b9ac6ba.json)
-
-[Extended Data](ext_articles/2b9ac6ba.ext.json)
-
----
-
-### Shot to Prime Minister Slovakia
-
-*2024-05-15 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196655) · `si`
-
-Prime Minister Robert Ficko was shot after a cabinet meeting, leading to his hospitalization. Security forces reportedly arrested the shooter.
-
-🟩
-
-Foreign media reports that Prime Minister Robert Ficko was admitted to shooting.
-
-The shooting was reported after a cabinet meeting.
-
-The reports say that the security forces have been arrested by the security forces.
-
-◼️
-
-[Data](articles/76a8c90a.json)
-
-[Extended Data](ext_articles/76a8c90a.ext.json)
-
----
-
-### Rajasthan attempt to ensure that the first two places in the IPL are in the IPL;Punjab mark for success
-
-*2024-05-15 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183638) · `ta`
-
-Rajasthan Royals, despite losing their last three IPL matches, aim to secure top-two spots after winning eight of their first nine games. Their upcoming match against Punjab Kings is crucial to avoid being overtaken. Key players like Jos Buttler and Shimron Hetmyer face uncertainties due to international commitments and injuries. Yaswani Jaiswal and Dhruv Jurel are expected to perform well, while Punjab Kings, also facing challenges, hope for contributions from Liam Livingstone and others.
-
-🟩
-
-Rajasthan Royals, who have been in the last three matches of the Indian Premier League, have been defeated in their last 3 matches, but will try to ensure that the teams are in the first two are in the first place.
-
-Rajasthan, who won eight in its first 9 matches, finally lost by Sunrisers Hyderabad, 20 runs for Delhi Capitles and 5 wickets for Chennai Super Kings.
-
-Rajasthan Royals will meet the stall team Punjab Kings tonight (15th) night to prevent the retrieval of the series and prevent the third place.
-
-The Rajasthan Royals Play Ow round was confirmed that Telhi Capitles won the Lucknow Super Giants in Tuesday (14) in Telhi.
-
-Rajasthan has a problem with Jos Butler joining the England squad for the R20 World Cup.
-
-It is still unknown whether Shimran Headmayar, who has not played in the last two matches due to harassment, has been fully recovered.
-
-...
-
-[Data](articles/388390a1.json)
-
-[Extended Data](ext_articles/388390a1.ext.json)
 
 ---

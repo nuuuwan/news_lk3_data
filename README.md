@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 11:18:26**
+As of **2024-05-16 11:33:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,381 (99.9%) of 24,394 articles have been extended.
+24,394 (100.0%) of 24,394 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,69 +48,99 @@ A future Samagi Jana Balawegaya (SJB) government will close down all taverns and
 
 [Data](articles/536dec0c.json)
 
+[Extended Data](ext_articles/536dec0c.ext.json)
+
 ---
 
-### இந்தோனேசியா செல்கிறார் ஜனாதிபதி
+### The President goes to Indonesia
 
 *2024-05-16 11:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-செல்கிறார்-ஜனாதிபதி/175-337412) · `ta`
 
-இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் அழைப்பின் பேரில் மே 18 முதல் 20 வரை இந்தோனேசியாவில் நடைபெறும் 10வது உலக நீர் மன்றத்தின் உயர்மட்டக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொள்வார் என்று ஜனாதிபதியின் ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+President Ranil Wickremesinghe attends the 10th World Water Forum in Indonesia from May 18-20, invited by President Joko Widodo. He'll discuss "shared prosperity," meet bilaterally with President Widodo.
 
-ஜனாதிபதி விக்கிரமசிங்க மே 20 அன்று உயர்மட்ட மன்றத்தில் "பகிரப்பட்ட செழுமைக்கான நீர்" என்ற கருப்பொருளில் ஒரு அறிக்கையை வழங்குவார், மேலும் ஜனாதிபதி விடோடோ உட்பட பல இருதரப்பு சந்திப்புகளில் ஈடுபடுவார் என்று PMD தெரிவித்துள்ளது.
+🟩
+
+President Ranil Wickremesinghe will attend a high -level meeting of the 10th World Water Water Forum in Indonesia from May 18 to 20 at the invitation of Indonesian President Joko Widodo, the President's Media Division (PMD) said.
+
+President Wickremesinghe will issue a report on the theme of "shared prosperity" on May 20, and will hold a number of bilateral meetings, including President Vidodo.
 
 ◼️
 
 [Data](articles/28f54181.json)
 
+[Extended Data](ext_articles/28f54181.ext.json)
+
 ---
 
-### தமது காப்பீட்டில் குடும்பத்தவரையும் இணைக்க எம்.பிக்கள் கோரிக்கை
+### MPs request to incorporate family members on their insurance
 
 *2024-05-16 10:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமது-காப்பீட்டில்-குடும்பத்தவரையும்-இணைக்க-எம்-பிக்கள்-கோரிக்கை/175-337411) · `ta`
 
-சலுகை வாகன அனுமதிப்பத்திரங்களுக்கு அங்கீகாரம் கிடைத்ததைத் தொடர்ந்து எம்.பி.க்கள், தமது குடும்ப உறுப்பினர்களையும் சேர்த்துக்கொள்வதற்காக தங்களின் ஒரு மில்லியன் ரூபா காப்புறுதித் தொகையை நீடிக்குமாறு கோரிக்கை விடுத்துள்ளதாக நம்பத்தகுந்த  வட்டாரம் ஒன்று நேற்று தெரிவித்தது.
+MPs seek to extend their insurance coverage to include family members, requesting an increase from one million rupees. This follows their authorization for concession vehicle licenses, discussed during a House Committee meeting. The move comes as they already cover their own insurance and that of the Ministry of Parliamentary Affairs, indicating willingness to pay more for family inclusion. The Speaker has urged the President to consider granting these permits, with the government potentially reviewing such concessions post-lift of the vehicle import ban.
 
-கடந்த வெள்ளிக்கிழமை நடைபெற்ற ஹவுஸ் கமிட்டி கூட்டத்தில், இரண்டாவது முறையாக சலுகை வாகன அனுமதியை வலியுறுத்தும் போது, ​​எம்.பி.,க்கள் இதனைக் கேட்டுள்ளனர்.
+🟩
 
-தற்போது எம்.பி.க்களின் காப்பீட்டுக்கான தொகையை அவர்களும், பாராளுமன்ற விவகார அமைச்சகமும் இணைந்து செலுத்தி வருகின்றனர். அவர்கள் தங்கள் குடும்ப உறுப்பினர்களை அதில் சேர்க்க முயன்றதுடன் அவர்கள் அதிகரித்த தொகையை செலுத்த ஒப்புக்கொண்டதாகவும் கூறப்படுகிறது.
+A reliable source yesterday said that the MPs had requested that their family members be extended to one million rupees insurance for the inclusion of their family members following the authorization for concession vehicle licenses.
 
-மேலும், முந்தைய கூட்டத்தில் ஒப்புதல் அளிக்கப்பட்ட போதிலும், எம்.பி.க்கள் மீண்டும் வாகன அனுமதியை வலியுறுத்தினர். பாராளுமன்ற உறுப்பினர்கள் எழுத்துமூலம் கோரிய அனுமதிகளை வழங்குவது குறித்து பரிசீலிக்குமாறு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு கடிதம் எழுதியுள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+At the House Committee meeting held last Friday, MPs have heard this while urging the permission of the vehicle permit for the second time.
 
-...
+They are currently paying the amount of insurance of MPs and the Ministry of Parliamentary Affairs. They are said to have tried to add their family members to it and agreed to pay an increased amount.
+
+More. The Daily Mirror has reported that Speaker Mahinda Yapa Abeywardena has written to President Ranil Wickremesinghe to consider the grant of permits demanded by MPs.
+
+The government is considering such concessions once the ban on vehicle imports is lifted.
+
+◼️
 
 [Data](articles/723a19c3.json)
 
+[Extended Data](ext_articles/723a19c3.ext.json)
+
 ---
 
-### සමාන්‍යපෙල විභාගයට පෙනි සිටිමට ගොස් අතුරුදහන් වු සිසුවියන් දෙදෙනා කඩුවෙලෙන් හමුවෙයි
+### Two missing students found in Kaduwela
 
 *2024-05-16 10:57:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාන්‍යපෙල-විභාගයට-පෙනි-සිටිමට-ගොස්-අතුරුදහන්-වු-සිසුවියන්-දෙදෙනා-කඩුවෙලෙන්-හමුවෙයි/11-409667) · `si`
 
-අපොස සමාන්‍ය පෙල විභාගයට පෙනි සිටිමට ගොස් පසුගිය (14දා) දින අතුරුදහන් වු පාසල් සිසුවියන් දෙදෙනා කඩුවෙල ප්‍රදේශයේ පිහිටි ඥාති නිවසක සිටියදි ඊයේ (15) දින රාත්‍රියේ එම සිසුවියන් දෙදෙනාගේ ඥාතින් විසින් පොලිසිය වෙත දැනුම් දුන් බව ගිනිගත්හේන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+Two missing students from Ginigathena were found in Kaduwela after being reported missing. They had gone to Colombo and then stayed with a relative in Kaduwela before being located.
 
-ගිනිගත්හේන පොලිස් වසමට අයත් අඹගමුව ජාතික පාසලේ ස්ථාපනය කර ඇති විභාග මධ්‍යස්ථානය වෙත (14) දින උදැසන විභාගයට පෙනි සිටිමට ගිය සිසුවියන් දෙදෙනා විභාගයට පෙනි නොසිට කිසිවෙකුට නොදන්වා එදින නිවසට නොපැමිණි නිසා එම සිසුවියන් දෙදෙනාගේ දෙමව්පියන් විසින් ගිනිගත්හේන පොලිසියට පැමිණිලි කර තිබුණි.
+🟩
 
-රැකියාවක් සොයාගැනිමේ අපෙක්ෂාවෙන් සිසුවියන් දෙදෙනා කොළඹට ගිය බවත්, පසුව කඩුවෙල ප්‍රදේශයේ පිහිටි ඥාති නිවසකට ගොස් (15) දින රාත්‍රියේ ඒ බව තම දෙමව්පියන්ට දැනුම් දි ඇති බවයි පොලිස් ස්ථානාධිපතිවරයා කියා සිටියේ.
+The Ginigathena Police OIC Chief Police Inspector Viraj Vithanage said that the two students were informed of the two students in Kaduwela yesterday (14).
 
-...
+The parents of the two students had lodged a complaint with the Ginigathena police, as the two students who had been closed to the examination center in the Ginigamuwa National School (14).
+
+The OIC said that the two students went to Colombo and later went to a cousin at Kaduwela, who later went to a neo-Kaduwela, and said that the 15th night in Kaduwela has been told that this night has been informed of it.
+
+The two schoolgirls are brought to the Ginigathena Police today (16) by their relatives today (16).
+
+◼️
 
 [Data](articles/ddccbd54.json)
 
+[Extended Data](ext_articles/ddccbd54.ext.json)
+
 ---
 
-### රුසියාවේ ගැටලුවට ජනපතිගෙන් හදිසි උපදෙසක්
+### President advises against the problem of Russia
 
 *2024-05-16 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196671) · `si`
 
-හැකි තරම් ඉක්මනින් ධූත පිරිසක් රුසියාවට යැවීමට කටයුතු කරන ලෙස ජනාධිපතිවරයා උපදෙස් ලබාදුන් බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+President instructs immediate dispatch of a delegation including the Foreign Minister, Defense Secretary, and a former ambassador to address issues with Russia. The Defense Ministry will gather additional information from individuals returning from Russia.
 
-අද (16) උදෑසන පැවති මාධ්‍ය හමුවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර සිටියේ, විදේශ කටයුතු අමාත්‍යාංශය, ආරක්ෂක ලේකම්වරයා සහ හිටපු තානාපතිවරයෙකු ඇතුළු පිරිසක් නියෝජනය කරමින් එම ධූත පිරිස යැවීමට ජනාධිපතිවරයා උපෙදස් දුන් බවය.
+🟩
 
-රුසියාවට ගිය පුද්ගලයින්ගේ තොරතුරු එක් කිරීම සඳහා මේ වනවිට ආරක්ෂක අමාත්‍යාංශයේ ක්ෂෙණික දුරකථන අංකයක් ද ක්‍රියාත්මක වන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+Minister of External Affairs Tharaka Balasuriya said that the President has instructed the President to send a delegation as soon as possible.
+
+Speaking at a press conference held at a press conference held at a press conference held today (16), the State Minister was instructed to send them the delegation from the Ministry of External Affairs, Defense Secretary and former ambassador.
+
+The Ministry of Defense states that the Ministry of Defense has also operates to add information from the people who went to Russia.
 
 ◼️
 
 [Data](articles/f81d11ee.json)
+
+[Extended Data](ext_articles/f81d11ee.ext.json)
 
 ---
 
@@ -126,17 +156,25 @@ President Wickremesinghe will deliver a statement at the High-Level forum on May
 
 [Data](articles/cfe93638.json)
 
+[Extended Data](ext_articles/cfe93638.ext.json)
+
 ---
 
-### துமிந்தவின் மனு நிராகரிப்பு
+### Duminda's plea rejection
 
 *2024-05-16 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவின்-மனு-நிராகரிப்பு/175-337410) · `ta`
 
-நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவை, ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் தவிசாளராக நியமிக்கப்பட்டமையை சவாலுக்கு உட்படுத்தி, பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க தாக்கல் செய்த மனு, விசாரணைக்கு எடுத்துக்கொள்ளாமல் நிராகரிக்கப்பட்டுள்ளது.
+Duminda Dissanayake's petition against SLFP's appointment was dismissed without hearing from Justice Minister Vijayadasa Rajapakse.
+
+🟩
+
+The petition filed by Parliamentarian Duminda Dissanayake has been rejected without the hearing of Justice Minister Vijayadasa Rajapakse, challenging the appointment of the Sri Lanka Freedom Party (SLFP).
 
 ◼️
 
 [Data](articles/937c137a.json)
+
+[Extended Data](ext_articles/937c137a.ext.json)
 
 ---
 
@@ -160,6 +198,8 @@ The Cricket Association of Nepal said Lamichhane was free to resume his career.
 
 [Data](articles/b0533527.json)
 
+[Extended Data](ext_articles/b0533527.ext.json)
+
 ---
 
 ### Another death reported from among victims of Fox Hill tragedy
@@ -179,6 +219,8 @@ Earlier, seven persons, including an 8-year-old child, were killed, leaving 21 o
 ◼️
 
 [Data](articles/c65bae7f.json)
+
+[Extended Data](ext_articles/c65bae7f.ext.json)
 
 ---
 
@@ -200,27 +242,35 @@ The Committee Chair instructed the Ministry of Education to provide a report on 
 
 [Data](articles/fd0e0db2.json)
 
+[Extended Data](ext_articles/fd0e0db2.ext.json)
+
 ---
 
-### அரச நிலத்தில் போதைப்பொருள் கடத்தல்காரரின் ஹோட்டல்
+### Hotel of the drug trafficker on the royal land
 
 *2024-05-16 10:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-நிலத்தில்-போதைப்பொருள்-கடத்தல்காரரின்-ஹோட்டல்/175-337409) · `ta`
 
-தெஹிவளையில் அமைந்திருந்து பின்னர் அழிக்கப்பட்ட சோல் பீச் ஹோட்டல், வெளிநாட்டில் இருந்து இயங்கி வரும் பாரிய போதைப்பொருள் கடத்தல்காரரான ஷிரான் பாசிக் என்பவருக்கு சொந்தமானது என கருதப்படுவதுடன் அது அரசுக்கு சொந்தமான நிலத்தில் கட்டப்பட்டதாகவும் தற்போது சந்தேகிக்கப்டுகிறது..
+"Soul Beach Hotel, linked to foreign drug trafficker Shiran Basik, was demolished by authorities due to illegal construction on state-owned land. Arrests made for fraudulent documents; 14 suspects remanded till May 28."
 
-இந்த ஹோட்டல் சட்டவிரோத கட்டுமானம் என கண்டறியப்பட்டதையடுத்து, கடந்த ஜனவரி மாதம் கடலோர காவல்படை மற்றும் பொலிஸாரால் தகர்க்கப்பட்டது.
+🟩
 
-எவ்வாறாயினும், குறித்த இடத்தில் நிர்மாணப் பணிகளை மேற்கொண்டிருந்த தனிநபர்கள் குழுவொன்று சட்டவிரோத கட்டுமானத்திற்காக செவ்வாய்க்கிழமை கைது செய்யப்பட்டுள்ளனர்.
+The Soul Beach Hotel, located in Dehiwala, is considered to belong to Shiran Basik, a massive drug trafficker from abroad and is now suspected of being built on a state -owned land.
 
-சந்தேகநபர்கள் முன்வைத்த வரிப்பத்திரம் போலியானது என கல்கிசை பிரிவு விசேட புலனாய்வுப் பிரிவு அதிகாரிகள் தெரிவித்தனர்.
+The hotel was dismantled by the Coast Guard and the police last January after it was found to be illegal.
 
-இதன்படி, செவ்வாய்க்கிழமை கைது செய்யப்பட்ட 14 சந்தேகநபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதன் பின்னர் மே 28 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+However, a group of individuals who were carrying out construction work at the site were arrested on Tuesday for illegal construction.
 
-அரசாங்க நில அளவை திணைக்களத்தின் நில அளவையாளர்களினால் மேற்கொள்ளப்பட்ட ஆய்வுக்கு அமைய குறித்த காணி அரசாங்கத்திற்கு சொந்தமான காணி என தெரிவிக்கப்பட்டுள்ளது.
+Special Intelligence Unit officials said that the taxpayer presented by the suspects was fake.
+
+Accordingly, 14 suspects arrested on Tuesday have been remanded until May 28 after being produced in court.
+
+According to the land survey by the Department of Government Land Survey, the land is said to be a government -owned land.
 
 ◼️
 
 [Data](articles/f273f76f.json)
+
+[Extended Data](ext_articles/f273f76f.ext.json)
 
 ---
 
@@ -239,6 +289,8 @@ With the planned divestment, the cooperative intends to focus on being a B2B dai
 ...
 
 [Data](articles/518d8de6.json)
+
+[Extended Data](ext_articles/518d8de6.ext.json)
 
 ---
 
@@ -286,21 +338,27 @@ The top 10th World Water Conference is held at Bali Island in Indonesia until Ma
 
 ---
 
-### பெண் பரீட்சார்த்தியை கடத்திய நால்வர் கைது
+### Four persons arrested for abducting female examiner
 
 *2024-05-16 10:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்-பரீட்சார்த்தியை-கடத்திய-நால்வர்-கைது/76-337404) · `ta`
 
-கல்விப் பொதுத் தராதரப் பரீட்சையை முடித்து வீடு திரும்பிக் கொண்டிருந்த மாணவி ஒருவரை கடத்த வந்ததாக கூறப்படும் வேன் மற்றும் நான்கு இளைஞர்களை கண்டி, அலதெனிய பொலிஸார் கைது செய்துள்ளனர்.
+Four individuals were arrested for abducting a female student returning from her exams. Two other students attempted to intervene but were pushed aside. The incident occurred near Yatihalagala junction, leading to the arrest of the suspects and confiscation of their vehicle by the police.
 
-பொதுப் தரப் பரீட்சையின் இறுதி வினாத்தாளைப் பதிலளித்துவிட்டு, தான் தங்கியிருந்த விடுதிக்கு புதன்கிழமை (15) சென்று கொண்டிருந்த வேளையில் யதிஹலகல சந்தியில் வைத்து   கடத்த முயன்றுள்ளனர்.
+🟩
 
-அப்போது, ​​அவருடன் இருந்த மேலும் இரு  மாணவர்கள் அதைத் தடுக்க முயன்றனர், ஆனால் அவர்கள் அவர்களைத் தள்ளிவிட்டு மாணவியைக் கடத்திச் சென்றனர். இதுதொடர்பில் பொலிஸாரின் அவசர தொலைபேசி இலக்கத்துக்கு அவ்விரு மாணவர்களும் உடனடியாக முறையிட்டனர்.
+Police have arrested a van and four youths allegedly abducted by a student who was returning home after completing the Education General Examination.
 
-அழைப்பை பெற்றுக்கொண்ட அலதெனியா பொலிஸ் நிலைய கட்டளைத் தளபதி பிரதான பொலிஸ் பரிசோதகர் சேனாரத்ன உள்ளிட்ட பொலிஸ் குழுவினர் வேனை துரத்திச் சென்று சந்தேக நபர்களை கைது செய்தததுடன், மாணவியை கடத்திச் சென்ற வேனையும் கைப்பற்றினர்.
+Responding to the final questioning of the Public Grade Examination, they were trying to smuggle at the Yatihalagala junction while they were on their way to the hostel on Wednesday (15).
+
+At the time, two more students who were with him tried to stop it, but they pushed them away and abducted the student. The two students immediately appealed to the police emergency telephone number.
+
+Receiving the invitation, Alathenia Police Station Commander, including Chief Inspector Senaratne, chased away the van and arrested the suspects and seized the van who abducted the student.
 
 ◼️
 
 [Data](articles/87e69b36.json)
+
+[Extended Data](ext_articles/87e69b36.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 16:04:21**
+As of **2024-05-16 16:18:19**
 
 ## Newspaper Stats
 
-*Scraped **24,462** Articles*
+*Scraped **24,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,093
+adalk | 2,095
 adaderanalk | 2,834
 tamilmirrorlk | 2,877
 virakesarilk | 3,673
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,461 (100.0%) of 24,462 articles have been extended.
+24,462 (100.0%) of 24,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### උසස් පෙළ ආරම්භය ජූනි 4දා
+
+*2024-05-16 15:49:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ආරම්භය-ජූනි-4දා/11-409681) · `si`
+
+මෙවර අ.පො.ස (සාමාන්‍ය පෙළ) විභාගයට පෙනී සිටි සිසුන් සඳහා පාසල්වල උසස්පෙළ පන්ති එළ‌ෙඔන ජූනි මස 04 වැනිදා සිට ආරම්භ කිරීමට කටයුතු සිදුකරන බව අධ්‍යාපන අමාත්‍යංශය වක්‍රලේඛයක් නිකුත් කරමින් දන්වා සිටියි.
+
+මෙම චක්ක්‍රලේඛය මේ වනවිටත් නොලැබී ඇති විදුහල්පති වරුන් ඒ් පිළිබඳව  පළාත් සහ කලාප අධ්‍යාපන කාර්පාල වලින් විමසිය හැකි බව අධ්‍යාපන අමාත්‍යංශය වැඩි දුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/cc4acbf6.json)
+
+---
 
 ### Sri Lanka’s first-ever Sports Ombudsman appointed
 
@@ -56,6 +70,8 @@ The Ministry of Education says that G.C.E. Advanced Level classes for the studen
 
 The circular to this effect has already been issued by the Education Ministry to education authorities of all provinces.
 
+A media release issued by the Ministry further states that school principals who have not yet received the circular can inquire about it from the respective provincial and zonal education offices while students can obtain more information from the principals of their respective schools.
+
 ◼️
 
 [Data](articles/055fe7e7.json)
@@ -64,21 +80,29 @@ The circular to this effect has already been issued by the Education Ministry to
 
 ---
 
-### இலங்கையர்களை நாடு திருப்ப விசேட குழு நியமனம்
+### Special Committee Appointment to Country Sri Lankans
 
 *2024-05-16 15:17:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாடு-திருப்ப-விசேட-குழு-நியமனம்/175-337429) · `ta`
 
-ரஷ்யாவிற்கு கடத்தப்பட்ட இலங்கையர்களை நாடு திருப்புவதற்கான சாத்தியக்கூறுகளை ஆராய ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட குழுவொன்றை ரஷ்யாவிற்கு அனுப்பியுள்ளார்.
+President Ranil Wickremesinghe has dispatched a committee to Russia to explore potential collaboration. The External Affairs Minister, Taraka Balasuriya, is verifying the number of Sri Lankans reportedly involved in the Russian conflict. Unofficial reports suggest between 600 to 800 Sri Lankans are in Russia, many entering via India. Balasuriya highlights the need to halt this migration due to concerns over human trafficking.
 
-ரஷ்யாவில் உள்ள மற்றும் ரஷ்யா உக்ரைன் போரில் ஈடுபட்டதாக கூறப்படும் இலங்கையர்களின் சரியான எண்ணிக்கையை சரிபார்க்க அரசாங்கம் தற்போது முயற்சித்து வருவதாக வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தெரிவித்துள்ளார்.
+🟩
 
-வெளிவிவகார அமைச்சின் அதிகாரிகள், பாதுகாப்பு செயலாளர் மற்றும் ரஷ்யாவுக்கான முன்னாள் இலங்கை தூதுவர் ஆகியோரை அனுப்புமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளார் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has sent a special committee to Russia to investigate the possibility of turning the country to Russia.
 
-"ரஷ்யாவில் தற்போது எத்தனை இலங்கையர்கள் உள்ளனர், அவர்களில் பலர் இந்தியா வழியாகவும், விசிட் விசாக்கள் மூலமாகவும் நாட்டிற்குள் நுழைந்துள்ளனர்" என்று பாலசூரிய கூறினார், புலம்பெயர்ந்தவர்களில் சிலரை வேலை வாய்ப்புகள் கிடைக்கப்பெறும் என நம்ப வைத்து அவர்கள் ஏமாற்றியுள்ளனர் என அவர் கூறினார்
+External Affairs Minister Taraka Balasuriya has said that the government is currently trying to verify the exact number of Sri Lankans allegedly involved in the war in Russia and Russia.
 
-...
+The Minister of State has issued a directive to send the Ministry of External Affairs, Defense Secretary and former Sri Lanka Ambassador to Russia.
+
+"How many Sri Lankans are currently in Russia, many of them have entered the country through India and Visit visas," Balasuriya said that some of the immigrants would get employment opportunities.
+
+Unofficial sources say that 600 to 800 Sri Lankans are currently in Russia. “This is human trafficking, so the first commandment is to stop the migration of Sri Lankans to the country,” he emphasized.
+
+◼️
 
 [Data](articles/c65379a6.json)
+
+[Extended Data](ext_articles/c65379a6.ext.json)
 
 ---
 
@@ -471,6 +495,24 @@ These discussions have also participated in the veterinarians' Association, Anim
 [Data](articles/76243e3f.json)
 
 [Extended Data](ext_articles/76243e3f.ext.json)
+
+---
+
+### කල්පිටියේ දූපත් හයක් බදුගත් සමාගම් පහකින්  කෝටි හයක බදු පොල්ලක්
+
+*2024-05-16 13:46:31* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටියේ-දූපත්-හයක්-බදුගත්-සමාගම්-පහකින්--කෝටි-හයක-බදු-පොල්ලක්/11-409676) · `si`
+
+කල්පිටිය සංචාරක සංවර්ධන ව්‍යාපෘතිය යටතේ ආයෝජන කටයුතු සඳහා  දූපත් හයක් බද්දට ගත් පුද්ගලික සමාගම් පහකින් නියමිත දිනට ලැබිය යුතු   රුපියල් 5,90,25,931 ක බදු මුදලක් අයකර  ගැනීමට සංචාරක සංවර්ධන අධිකාරිය අපොහොසත් වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+එම සමාගම් විසින් නිසි පරිදි මාසිකව බදු  වාරික  නොගෙවීම නිසා   අවසන් විගණිත දිනයවූ  2022.11.30 දක්වා එම හිග බදු මුදල අයවී නොතිබූ  බව   සංචාරක සංවර්ධන ව්‍යාපෘති පිළිබඳ කාර්ය සාධන විගණන වාර්තාවක් මගින් ජාතික විගණන කාර්යාලය පෙන්වා දෙයි.
+
+සංචාරක සංවර්ධන අධිකාරිය  මෙලෙස බදු මුදල් අයකරගෙන  නැත්තේ 2010 වර්ෂයේ එවකට ජනාධිපතිවරයා විසින් ලංකා සංචාරක මන්ඩලය  වෙත නිදහස් කර තිබූ   සින්න ඉරමතිව්,බටහිර ඉරමතිව්,සින්න ආරච්චල් සහ ඉරමතිවු යන දූපත් හතර සහ ඊට පෙර නිදහස් කර තිබූ ඉප්පන්තිව් සහ වෙල්ලයි යන දූපත් ගිවිසුම් මත  බදුගෙන තිබූ   පුද්ගලික සමාගම් පහකිනි.
+
+මෙම දූපත් අතරින්  වැඩිම බදු මුදල වූ රුපියල් 5,07,96,768 ක මුදලක් ඉප්පන්තිව් දූපත බද්දට ගත් සමාගමෙන්  අය විය යුතුව තිබූ බවද   විගණනයෙන් පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/9b7c9fed.json)
 
 ---
 
@@ -2275,47 +2317,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/593b6874.json)
 
 [Extended Data](ext_articles/593b6874.ext.json)
-
----
-
-### State attention to reduce the army to 100,000
-
-*2024-05-16 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196663) · `si`
-
-By 2030, Sri Lanka aims to reduce its army from 208,000 to 100,000, focusing on preparing for current and future threats post-war. This decision involves strengthening the navy and air force amidst geographical complexities. Additionally, the government plans to offer legal pardons to those leaving the army unlawfully, affecting around 15,000 individuals.
-
-🟩
-
-Defense Minister Linea Bandara Tennakoon says that by 2030, the army is expected to be taken to about 100,000 people.
-
-He says that the government's objective is to prepare a military intention to suit the current and future threats after the war period.
-
-President hopes to make analysis of the present and future threats after the war and the army that suits our country.. Accordingly, a separate expert panel has been appointed under the program of the security review 2030. Accordingly we have a numerically a cart of the army 208,000. Get it up to 100,000, he is our hope. We don't expect to remove anybody. Statistically we have made we have made naturally calculating the military's decrease by 2030 and keep the Army of the Army by 2030. And you have to strengthen the Navy and Air Force. Geographically we are in a very complex. Therefore, we are implementing the Navy to strengthen the Navy. "
-
-...
-
-[Data](articles/0bc2ff95.json)
-
-[Extended Data](ext_articles/0bc2ff95.ext.json)
-
----
-
-### Is the flavor enhancer a health risk?
-
-*2024-05-16 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-the-flavor-enhancer-a-health-risk/108-282693) · `en`
-
-Colombo, May 16 (Daily Mirror) - Monosodium glutamate (MSG), the main common food additive or flavor enhancer, has always come under scrutiny in Sri Lanka given its potential health effects. Is it really bad for your health?
-
-While the U.S. Food and Drug Administration (FDA) considers the addition of MSG to foods to be “generally recognized as safe” (GRAS), concerns persist over among consumers regarding its adverse reactions in the long run.
-
-That’s why MSG has been a subject of controversy due to reported adverse reactions like headache, flushing, excessive sweating and chest pain.
-
-However, researchers have found no clear proof of a link between MSG and these symptoms. Researchers admit, though, that a small number of people may have short-term and long-term reactions to MSG. The only way to prevent a reaction is to cut out foods that have MSG in them.
-
-...
-
-[Data](articles/6f0326a2.json)
-
-[Extended Data](ext_articles/6f0326a2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 19:33:59**
+As of **2024-05-16 19:52:05**
 
 ## Newspaper Stats
 
-*Scraped **24,507** Articles*
+*Scraped **24,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,101
+adalk | 2,102
 adaderanalk | 2,838
 tamilmirrorlk | 2,880
 virakesarilk | 3,687
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,505 (100.0%) of 24,507 articles have been extended.
+24,507 (100.0%) of 24,508 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,17 +40,19 @@ State Minister of Small and Medium Enterprises Development Prasanna Ranaweera ha
 
 Meanwhile, the State Minister has also threatened several security officers at the airport, according to sources.
 
-Ranaweera had visited the airport with his wife accompanied by his ministerial security personnel in the early hours of Tuesday (May 14) as his spouse was to travel overseas.
+Accompanied by his ministerial security personnel, Ranaweera had visited the airport with his wife in the early hours of Tuesday (May 14) as his spouse was scheduled to travel overseas.
 
-The state minister had attempted to enter the airport through its main entrance along with the ministerial security officers who were carrying firearms, sources said.
+The state minister had attempted to enter the airport through its main entrance along with his ministerial security officers who were carrying firearms, sources said.
 
 At that moment, the airport security officers have informed the state minister that they could not allow the ministerial security officers to enter the airport while carrying the firearms.
 
-The state minister had then proceeded to verbally abuse the airport security officers.
+The state minister had then allegedly proceeded to verbally abuse the airport security officers.
 
 ...
 
 [Data](articles/dfecd30c.json)
+
+[Extended Data](ext_articles/dfecd30c.ext.json)
 
 ---
 
@@ -71,6 +73,8 @@ Responding to a question whether the SLPP will not approve of the action plans o
 ◼️
 
 [Data](articles/7c802356.json)
+
+[Extended Data](ext_articles/7c802356.ext.json)
 
 ---
 
@@ -103,6 +107,22 @@ The State Minister had left the airport premises following a cheeky hitting the 
 [Data](articles/394b925e.json)
 
 [Extended Data](ext_articles/394b925e.ext.json)
+
+---
+
+### ඇල්ල හරහා වැල්ලවාය මාර්ගය වසයි
+
+*2024-05-16 18:46:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-හරහා-වැල්ලවාය-මාර්ගය-වසයි/11-409684) · `si`
+
+බදුල්ල ඇල්ල හරහා වැල්ලවාය මාර්ගය අද  16 සවස හයේ සිට හෙට උදෑසන හය දක්වා තාවකාලිකව වසා  දැමීමට තීරණය කළ  බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+පවතින ධාරානිපාත වර්ෂාව සමඟ එම මාර්ගයේ මලිතගොල්ල කරඳගොල්ල  සහ ඒ ආශ්‍රිතව  එම මාර්ගයේ තැනින් තැන පවතින දැඩි නාය යෑම්  අවධානම්  තත්ත්වය හේතුවෙන් මහජනතාවගේ ආරක්ෂාව වෙනුවෙන් මෙම තීරණය ගත් බවද එම මධ්‍යස්ථානය පැවසීය.
+
+විකල්ප මාර්ග ලෙස බෙරගල  කොස්ලන්ද හරහා වැල්ලවාය මාර්ගය පස්සර බිබිල හරහා  මාර්ගය භාවිතා කරන ලෙසද පොලිසිය  සහ  ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+◼️
+
+[Data](articles/b91a7bdb.json)
 
 ---
 
@@ -2361,25 +2381,5 @@ Among the deceased were four officials of the racing event who were stationed as
 [Data](articles/15bf2789.json)
 
 [Extended Data](ext_articles/15bf2789.ext.json)
-
----
-
-### President Ranil to attend 10th World Water Forum in Indonesia
-
-*2024-05-16 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99247/president-ranil-to-attend-10th-world-water-forum-in-indonesia) · `en`
-
-President Ranil Wickremesinghe is scheduled to attend the 10th World Water Forum High-Level Meeting in Indonesia, from 18 - 20 May, following an invitation extended by Indonesian President Joko Widodo.
-
-During the visit, President Wickremesinghe will deliver a statement at the high-level forum on May 20 under the theme “Water for Shared Prosperity”, and will also engage in several bilateral meetings, including with President Widodo, the PMD reported.
-
-Indonesia is set to host the 10th World Water Forum in Bali on 18-25 May 2024 in partnership with the World Water Council (WWC). The theme of the forum will be “Water for Shared Prosperity”, presenting a critical opportunity to unite the nations in the pursuit of efficient and integrated strategies that ensure water prosperity for all.
-
-At the World Water Forum, leaders, experts, scholars, entrepreneurs, and policymakers will gather to share insights, experiences, and best practices on a spectrum of water-related topics.
-
-...
-
-[Data](articles/8f2636c2.json)
-
-[Extended Data](ext_articles/8f2636c2.ext.json)
 
 ---

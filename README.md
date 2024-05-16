@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 19:52:05**
+As of **2024-05-16 20:03:37**
 
 ## Newspaper Stats
 
-*Scraped **24,508** Articles*
+*Scraped **24,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,102
 adaderanalk | 2,838
-tamilmirrorlk | 2,880
+tamilmirrorlk | 2,881
 virakesarilk | 3,687
 dailymirrorlk | 3,845
-adaderanasinhalalk | 3,909
+adaderanasinhalalk | 3,910
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,507 (100.0%) of 24,508 articles have been extended.
+24,508 (100.0%) of 24,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### මෙරට අන්තර්ජාල ළමා අපයෝජන ඉහළ යන බව අමෙරිකාව පෙන්වයි
+
+*2024-05-16 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196695) · `si`
+
+මෙරට බාලවයස්කාර දරු දැරියන් අන්තර්ජාලය ඔස්සේ අපයෝජනයට ලක්වීම ඉහළයෑම සම්බන්ධයෙන් අමෙරිකානු ආයතනයක් ශ්‍රී ලංකාවට දැනුම්දීමක් කර තිබේ.
+
+එම වාර්තා පදනම් කරගනිමින් අධිකරණයට ගිය පොලිස් ළමා හා කාන්තා කාර්යංශය පැවසුවේ, ඒ සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් පවත්වන බවය.
+
+කෙසේ වෙතත්, අන්තර්ජාලය හරහා දරුවන්ගේ නිරුවත් ඡායාරූප භාවිත කරමින් ඔවුන්ට තර්ජනය කිරීම හා බලපෑම් කිරීම් සම්බන්ධයෙන් මේ වසරේ පළමු මාස තුනේදී පමණක් ජාතික ළමා ආරක්ෂක අධිකාරියට ලැබී ඇති පැමිණිලි ගණන 55කි.
+
+කුඩා කළ සිය මව්පිය රැකවරණ මැද හැදීවැඩෙන දරුවන් කෙමෙන් කෙමෙන් සමාජයට නිරාවරණය වීමත් සමග ජංගම දුරකථන හා අන්තර්ජාල ක්‍රියාකාරකම් සඳහා යොමු වෙයි.
+
+එය වර්තමානය වනවිට විශාල ගැටලුවක් බවට පත්වී ඇත්තේ දිනෙන් දින අන්තර්ජාලය ඔස්සේ සිදුවන ළමා අපචාර ඉහළයෑම හේතුවෙනි.
+
+ජාතික ළමා ආරක්ෂක අධිකාරිය පැවසුවේ අන්තර්ජාලය සහ සමාජ මාධ්‍ය ජාලා හරහා දරුවන්ගේ නිරුවත් ඡායාරූප භාවිත කරමින් ඔවුන්ට තර්ජනය කිරීම හා බලපෑම් කිරීම්වලට අදාළව 2023 වසරේදී පැමිණිලි 150ක්ද මේ වසරේ අප්‍රේල් 31 දක්වා පැමිණිලි 55ක්ද ලැබී ඇති බවය.
+
+...
+
+[Data](articles/90e43443.json)
+
+---
+
+### அரச ஊழியர்களுக்கு சம்பள உயர்வு இல்லை
+
+*2024-05-16 19:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-சம்பள-உயர்வு-இல்லை/175-337440) · `ta`
+
+அரச ஊழியர்களுக்கு இந்த வருடம் சம்பள உயர்வு வழங்கப்பட மாட்டாது என ஜனாதிபதி அமைச்சரவைக்கு அறிவித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+தொழிற்சங்க பிரதிநிதிகளினால் முன்வைக்கப்பட்ட பல பிரச்சினைகளுக்கு தீர்வுகளை வழங்குவதற்கு இணக்கம் காணப்பட்டுள்ளதுடன், இந்த வருடமும் சம்பள அதிகரிப்பை வழங்குமாறு அனைத்து தொழிற்சங்க பிரதிநிதிகளும் அமைச்சரிடம் கோரிக்கை விடுத்துள்ளனர்.
+
+அடுத்த வருடம் அரசாங்க ஊழியர்களுக்கு மீண்டும் சம்பள உயர்வு வழங்கப்படும் எனவும், இந்த வருடமும் சம்பள அதிகரிப்பு செய்யப்படுமானால் நாடு மீண்டும் பொருளாதார வீழ்ச்சியை சந்திக்க நேரிடும் எனவும் அமைச்சர் வலியுறுத்தியுள்ளார். R
+
+◼️
+
+[Data](articles/b68827bc.json)
+
+---
 
 ### State Minister Prasanna Ranaweera assaults ‘Porter’ at BIA
 
@@ -110,19 +148,25 @@ The State Minister had left the airport premises following a cheeky hitting the 
 
 ---
 
-### ඇල්ල හරහා වැල්ලවාය මාර්ගය වසයි
+### Wellawaya road across the falls
 
 *2024-05-16 18:46:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-හරහා-වැල්ලවාය-මාර්ගය-වසයි/11-409684) · `si`
 
-බදුල්ල ඇල්ල හරහා වැල්ලවාය මාර්ගය අද  16 සවස හයේ සිට හෙට උදෑසන හය දක්වා තාවකාලිකව වසා  දැමීමට තීරණය කළ  බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+Due to heavy rains causing landslides, the Wellawaya road through Badulla Ella is closed. The police and DMC suggest using the Wellawaya road through Beragala Koslanda as an alternate route to ensure public safety.
 
-පවතින ධාරානිපාත වර්ෂාව සමඟ එම මාර්ගයේ මලිතගොල්ල කරඳගොල්ල  සහ ඒ ආශ්‍රිතව  එම මාර්ගයේ තැනින් තැන පවතින දැඩි නාය යෑම්  අවධානම්  තත්ත්වය හේතුවෙන් මහජනතාවගේ ආරක්ෂාව වෙනුවෙන් මෙම තීරණය ගත් බවද එම මධ්‍යස්ථානය පැවසීය.
+🟩
 
-විකල්ප මාර්ග ලෙස බෙරගල  කොස්ලන්ද හරහා වැල්ලවාය මාර්ගය පස්සර බිබිල හරහා  මාර්ගය භාවිතා කරන ලෙසද පොලිසිය  සහ  ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Wellawaya road through the Badulla Ella
+
+The decision was taken to protect the public due to the strict landslides in the area with the existing heavy rains.
+
+Police and Disaster Management Center (DMC) said the Wellawaya road across the Wellawaya road through Beragala Koslanda as alternative routes.
 
 ◼️
 
 [Data](articles/b91a7bdb.json)
+
+[Extended Data](ext_articles/b91a7bdb.ext.json)
 
 ---
 
@@ -2339,47 +2383,5 @@ Later, airport sources said that when he asked the Porter who had come to take t
 [Data](articles/60102824.json)
 
 [Extended Data](ext_articles/60102824.ext.json)
-
----
-
-### Yall. Mullivaikkal porridge in academic students by university students
-
-*2024-05-16 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183663) · `ta`
-
-Jaffna University students prepared Mullivaikkal porridge, symbolizing the resilience of Tamils during the genocide, serving it at the Educational Junction to remember the painful past.
-
-🟩
-
-The Jaffna University students were delivered at the Educational Junction on Wednesday (15) as the Mullivaikkal Kanji Kanji events were being carried out in the Tamil homeland to smuggle the pains of the genocide war for generations.
-
-Mullivaikkal Kanji is being served in a variety of places daily on the eve of the Mullivaikkal genocide week. It is noteworthy that Mullivaikkal porridge was seen as the life -saving food of the Tamil people during the genocide war.
-
-◼️
-
-[Data](articles/a9f67067.json)
-
-[Extended Data](ext_articles/a9f67067.ext.json)
-
----
-
-### Schoolgirl injured in ‘Fox Hill’ tragedy succumbs to injuries
-
-*2024-05-16 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99248/schoolgirl-injured-in-fox-hill-tragedy-succumbs-to-injuries-) · `en`
-
-The schoolgirl, who was critically injured in the tragic accident during the recent ‘Fox Hill Super Cross 2024’ motorsport racing championship at Diyatalawa, has succumbed to injuries while receiving treatment in hospital last night (15), increasing the death toll from the fatal crash to 08.
-
-She had been receiving treatment in the intensive care unit of Badulla General Hospital.
-
-The body of the 16-year-old girl, Sathdarani Kavishka, who was a resident of Galedanda area in the Diyatalawa police area, has been placed at the Badulla General Hospital.
-
-Seven persons including a child were killed while 23 others were injured following a tragic accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on April 21.
-
-Among the deceased were four officials of the racing event who were stationed as flag marshals. The other victims were civilians who were spectators of the event, as reported by the police.
-
-...
-
-[Data](articles/15bf2789.json)
-
-[Extended Data](ext_articles/15bf2789.ext.json)
 
 ---

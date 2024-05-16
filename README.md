@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 06:58:01**
+As of **2024-05-16 07:18:39**
 
 ## Newspaper Stats
 
-*Scraped **24,341** Articles*
+*Scraped **24,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 2,820
 tamilmirrorlk | 2,858
 virakesarilk | 3,661
 dailymirrorlk | 3,816
-adaderanasinhalalk | 3,877
+adaderanasinhalalk | 3,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,335 (100.0%) of 24,341 articles have been extended.
+24,342 (100.0%) of 24,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Today too. Heavy rains exceeding 100 mees
+
+*2024-05-16 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196659) · `si`
+
+Heavy rains continue across the island, especially in the West, Center, Sabaragamuwa, and Uva provinces. The Department of Meteorology warns of more rain today, advising caution against lightning and strong winds.
+
+🟩
+
+The Department of Meteorology announces that the rainy season is still expected to be expected, as the turmoil is still available in the lowest atmosphere.
+
+In most parts of the island. Showers or thundershowers will occur at several places around 1.
+
+Heavy showers in some places in the Western, Central, Sabaragamuwa and Uva provinces can occur.
+
+Showers will occur at the Western, Southern and East Coastal areas.
+
+The Department of Science has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/7654b9dd.json)
+
+[Extended Data](ext_articles/7654b9dd.ext.json)
+
+---
 
 ### MPs seek their one million rupee insurance coverage to extended to include family members
 
@@ -47,6 +73,8 @@ However, the final decision has not yet been taken in this regard.
 ...
 
 [Data](articles/20ccc14c.json)
+
+[Extended Data](ext_articles/20ccc14c.ext.json)
 
 ---
 
@@ -65,6 +93,8 @@ In response to a question whether Sri Lanka is going to buy military equipment f
 ...
 
 [Data](articles/6a188fe3.json)
+
+[Extended Data](ext_articles/6a188fe3.ext.json)
 
 ---
 
@@ -2211,27 +2241,5 @@ Shakib drops three rating points following two appearances at the backend of Ban
 [Data](articles/0f9c14d5.json)
 
 [Extended Data](ext_articles/0f9c14d5.ext.json)
-
----
-
-### Sri Lanka Freedom Party anti-Sirisena faction, New Alliance meet for talks
-
-*2024-05-15 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-anti-sirisena-faction-new-alliance-meet-for-talks-163177/) · `en`
-
-ECONOMYNEXT — The faction of crisis-hit Sri Lanka Freedom Party (SLFP) led by Aviation Minister Nimal Siripala de Silva has held a round of talks with members of MP Nimal Lanza’s ‘New Alliance’ on joining forces.
-
-Chairman of the Lanza’s New Alliance MP Anura Priyadarshana Yapa told reporters after the meeting that he expects some 70 MPs to join the new political formation.
-
-“Today, the voter is disillusioned with the parties they had voted for.  We’re all part of the same political stream. We have a duty to create a refuge for them,” he said.
-
-“Next month, we intend to form a new political alliance,” he added.
-
-Asked if this brand new alliance will back the candidacy of President Ranil Wickremesinghe at the upcoming presidential election, the MP said that it’s still early days.
-
-...
-
-[Data](articles/7382fb4d.json)
-
-[Extended Data](ext_articles/7382fb4d.ext.json)
 
 ---

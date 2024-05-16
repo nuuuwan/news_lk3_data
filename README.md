@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 18:23:36**
+As of **2024-05-16 18:34:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,493 (100.0%) of 24,497 articles have been extended.
+24,497 (100.0%) of 24,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The Ella - Wellawaya main road will be temporarily closed for traffic from 6.00 
 ◼️
 
 [Data](articles/2f01f42d.json)
+
+[Extended Data](ext_articles/2f01f42d.ext.json)
 
 ---
 
@@ -367,6 +369,8 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 ...
 
 [Data](articles/f9c416cd.json)
+
+[Extended Data](ext_articles/f9c416cd.ext.json)
 
 ---
 
@@ -1334,19 +1338,25 @@ PhonePe, which uses India’s Unified Payment Interface will now allow Indian to
 
 ---
 
-### තොටළඟත් ලංකාවේ විශාලම තොරණක් හදයි
+### Sri Lanka's largest choice in Sri Lanka
 
 *2024-05-16 13:15:22* · [`adalk`](https://www.ada.lk/religion/තොටළඟත්-ලංකාවේ-විශාලම-තොරණක්-හදයි/4-409674) · `si`
 
-උසින් අඩි 80කට වැඩි සහ  පළලින් අඩි 80 ක් පමණවූ ශ්‍රී ලංකාවේ තොරණ් ඉතිහාසයේ විශාලතම සහ අලංකාරයෙන් වැඩිම තොරණ තොටළඟ නාගලගම් වීදිය පොදු වෙළෙඳ පොළ ඉදිරිපිට මේ දිනවල ඉදිවෙමින් පවතිනු අද 16දා පෙරවරුවේ කැමරා ඇසට මෙසේ හසුවිය.
+Thatawa Nagalagam Street, Sri Lanka's tallest structure over 80 feet, stands near the public market. The 69th annual Thatalanga Sri Virtual Community meeting focuses on "Tyrachanga Sri Virtual Story." Notable attendees include electrical veterans Narammala Pall and Ananda Jayalath from Vehimana, Yakkadi.
 
-උත්පලවර්‍ණා කතා පුවත තේමාව කොට ගෙන තොටළග ශ්‍රී වෛශාඛාලෝක තොරණ සමිතිය මගින් 69 වන වරටත් ඉදිරිපත් කරන මෙම තොරණ,  තොටළඟ වෙළෙඳ ප්‍රජාව හා ප්‍රදේශ වාසින්ගෙ දායකත්වයෙන් ඉදි වීම විශේෂත්වයකි.
+🟩
 
-කටු තොරණ සහ විදුලි රටා නිර්මාණය  ප්‍රවීණ විදුලි ශිල්පී නාරම්මල  සුසන්ත පියල් ( සදහිරු ඉලෙක්ට්‍රිකල්ස් ආයතනය නාරම්මල ) විසින්  සිදු කෙරෙන අතර චිත්‍ර සහා සැලසුම ප්‍රවීණ චිත්‍ර ශිල්පී යක්කඩුවේ ආනන්ද ජයලත් ගෙනි .
+The Thatawa Nagalagam Street, the largest and beauty of Sri Lanka, the largest pages of the height of more than 80 feet of Sri Lanka, have been built in front of the public market.
+
+The Tetna Communication Meeting of the Thotalanga Sri Virtual Community and the area, which will be submitted to the 69th consecutive year with the theme of the Tyrachanga Sri Virtual Story.
+
+Acceptance of thorns and electricity generation veteran electrical Narammala Pall (Narammala) and Ananda Jayalath of Vehimana, Yakkadi, was introduced.
 
 ◼️
 
 [Data](articles/b3f5f7e0.json)
+
+[Extended Data](ext_articles/b3f5f7e0.ext.json)
 
 ---
 

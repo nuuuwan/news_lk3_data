@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 14:52:00**
+As of **2024-05-16 15:03:23**
 
 ## Newspaper Stats
 
-*Scraped **24,448** Articles*
+*Scraped **24,452** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 218
+colombotelegraphcom | 220
 bbccomsinhala | 249
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,090
+adalk | 2,091
 adaderanalk | 2,830
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
-dailymirrorlk | 3,835
+dailymirrorlk | 3,836
 adaderanasinhalalk | 3,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,440 (100.0%) of 24,448 articles have been extended.
+24,448 (100.0%) of 24,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### ICFS offers affordable path to European master’s degree in Malta under Schengen visa
+
+*2024-05-16 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-offers-affordable-path-to-European-masters-degree-in-Malta-under-Schengen-visa/108-282731) · `en`
+
+Colombo, May 16 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) has introduced an opportunity for students aspiring to pursue a master's degree in Europe for 1.8 million LKR.
+
+Chathurika Dissanayake, the CEO of ICFS Education Center said that this initiative, facilitated under a Schengen Visa, opens doors to academic excellence in Malta, one of Europe's vibrant countries.
+
+The program, offered by ICFS Education Center, allows applicants to secure a master's degree in Europe at a reasonable cost.
+
+She said that students can be sponsored by individuals with the financial capacity to support their education. "Malta further sweetens the deal by reimbursing 70% of the tuition fees for students who remain in the country for 1.5 years post-graduation, contributing to its economy," she said.
+
+...
+
+[Data](articles/1c65531d.json)
+
+---
+
+### මුදල් රාජ්‍ය අමාත්‍යවරයාට පුද්ගලයෙක්ගෙන් අනතුරු ඇගවීමක්
+
+*2024-05-16 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-රාජ්‍ය-අමාත්‍යවරයාට-පුද්ගලයෙක්ගෙන්-අනතුරු-ඇගවීමක්/11-409679) · `si`
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා ඝාතනය කර  පුළුස්සා දමන බවට  නාඳුනන පුද්ගලයකු සිදුකරන ලද තර්ජනයක් සම්බන්ධයෙන් කොටුව පොලිසිය මගින්  විමර්ශන ආරම්භ කර ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+ඊයේ (15) දිනයේ පස්වරු 4 ට හා 4.09  ට එම තර්ජනාත්මක ඇමතුම් දෙක ලැබී ඇති බව මුදල් රාජ්‍ය අමාත්‍ය කාර්යාලයේ කළමනාකරණ සහකාරවරයෙක් සහ කාර්යාල කාර්ය සේවකයෙක් පැමිණිලි කර ඇත.
+
+ප්‍රධාන දුරකථන අංකය හරහා පස්වරු 4ට ඇමතුම ලැබීමේදී කාර්යාල කාර්ය සහායකයකු   එය ලබාගෙන ඇති අතර  මුදල් රාජ්‍ය අමාත්‍යවරයා කාර්යාලයේ නොමැති බවට පැවසීමෙන් අනතුරුව එම පුද්ගලයා " ඡන්දෙ කාලෙදි අපි තමයි සර් ට උදව් කරේ ,එයාට කොළඹට වෙලාම ඉන්න කියන ආයි මෙහේ එන්න එපා කියන්න ,ආවොත් ජීවිතයෙන් තමයි වන්දි ගෙවන්නේ වෙන්නේ යැයි පවසා දුරකථනයේ විසන්ධි කර ඇති බව " කාර්යාල කාර්ය සහයකයා  කරන ලද එම පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස් නිලධාරියා කීය නිලධාරියා කීය
+
+ඒ ආකාරයෙන් ඊට විනාඩි නවයකට පසු  ප්‍රධාන දුරකථන අංකය හරහා ඇමතුමක් ගෙන  ඒ ආකාරයෙන්ම තර්ජනය කර ඇති බවත් එම අවස්ථාවේදී කළමනාකරන සහකාරවරයෙකු එම ඇමතුම ලබාගෙන ඇති බවත් පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/abcb6e2f.json)
+
+---
 
 ### Sri Lanka planning patient bill of rights: Minister
 
@@ -48,25 +84,35 @@ The world’s opinion is that the harmony of the health staff with the patients 
 
 [Data](articles/9e104ef9.json)
 
+[Extended Data](ext_articles/9e104ef9.ext.json)
+
 ---
 
-### රුසියා යුක්‍රේන යුද්ධයට පුද්ගලයින් යැවූ හිටපු යුදහමුදා සෙබලෙකු අත්අඩංගුවට
+### Armhonemada soldier arrested for the Russian arrival in Ukrainian war
 
 *2024-05-16 14:25:37* · [`adalk`](https://www.ada.lk/breaking_news/රුසියා-යුක්‍රේන-යුද්ධයට-පුද්ගලයින්-යැවූ-හිටපු-යුදහමුදා-සෙබලෙකු-අත්අඩංගුවට/11-409678) · `si`
 
+A former Sri Lankan army soldier, who previously worked in Russia but returned to Sri Lanka due to job dissatisfaction, was arrested by the Moneragala police based on a complaint filed by another ex-army personnel. This incident highlights the ongoing issue of Sri Lankans being recruited for jobs in Russia, particularly in conflict zones, raising concerns about their safety and well-being.
+
+🟩
+
 දඹගල්ල පොලිස් වසමට අයත් මහබැද්ද ප්‍රදේශයේ පදිංචි හිටපු ගුවන්හමුදා සෙබලෙකු විසින් කරන ලද පැමිණිල්ලක් මත රුසියායාවේ රැකියා සඳහා යවන බව පවසා රුසියා යුක්‍රේන යුද්ධයට පුද්ගලයින් යැවූ හිටපු යුදහමුදා සෙබලෙකු දඹගල්ල පොලීසිය මඟින් මොනරාගල පොලීසියට දැනුම්දීමෙන් පසු ඉකුත් අද(16) දින මොනරාගල පොලීසිය විසින් අත්අඩංගුවටගෙන ඇත.
 
-පැමිණිලිකරු වන හිටපු ගුවන්හමුදා සෙබලාගෙන් රුසියාවේ රැකියාවක් ලබාදෙන බවට පොරොන්දුවී රුපියල් ලක්ෂ පහක ලබාගෙන ඇති විත්තිකරු වන හිටපු යුදහමුදා සෙබලා ඉකුත් අප්‍රේල් මස 29 වෙනි දින පැමිණිලිකරු රුසියාවට යවා ඇත.
+The plaintiff, former Army, who had acquired a job in Russia, has been sent to Russia on 29th April.
 
-නමුත් රුසියාවේදී ඔහු භාරගැනීමට කිසිදු ඒජන්සිකරුවෙකු නොමැතිවීම නිසා මැයි මස 01 වෙනි දින ආපසු ලංකාවට පැමිණ තිබේ.
+However, in Russia, he has returned to Sri Lanka on May 1st January 1 due to lack of agency in Russia.
 
-සිද්ධිය පිළිබඳව දඹගල්ල පොලීසියට දැනුම්දීමෙන් පසුව විමර්ශන සිදුකළ පොලීසිය සැකකරු අත්අඩංගුවටගෙන ඇත.
+The suspect was arrested by investigations after informing Dambagalla Police.
 
-සැකකරු අවුරුදු පහක පමණ යුදහමුදාවේ සේවයකර ඉවත්වූ රුසියාවේ රැකියාවක් නිරතව සිට ලංකාවට පැමිණි 35 හැවිරිදි පුද්ගලයෙකි.
+A 35-year-old man visited Sri Lanka to work in Russia, who had quit in the war and was working in Russia.
+
+Investigations have revealed that Russia had been given jobs to Russia in various parts of the country and had obtained jobs from military assistants and trade complexes to Russia.
 
 ...
 
 [Data](articles/64d8e62e.json)
+
+[Extended Data](ext_articles/64d8e62e.ext.json)
 
 ---
 
@@ -92,19 +138,25 @@ However, he had been pronounced dead on admission to the hospital.
 
 ---
 
-### මෛත්‍රීට විරුද්ධව තවත් පැමිණිල්ලක්
+### Another complaint against Maithri
 
 *2024-05-16 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-විරුද්ධව-තවත්-පැමිණිල්ලක්/11-409677) · `si`
 
-ශ්‍රීලනිප හිටපු විධායක සභිකයෙකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා විසින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+SLFP Executive Monteguara Sarachindra complained to Maithripala Sirisena about alleged payments to the Sri Lankan Freedom Party. The complaint seeks investigation into how funds were raised for Easter victim compensation.
 
-මොන්ටේගු සරච්චන්ද්‍ර මහතා අල්ලස් කොමිසමට ලිපියක් යොමු කරමින් සඳහන් කරන්නේ මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය විකුණා ලබාගත් අත්තිකාරමකින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවා ඇති බව පාක්ෂිකයන් අතර කතාබහක්  ඇති බවයි.
+🟩
 
-එබැවින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවීම සඳහා අදාළ මුදල් උපයා ගත්තේ කුමණ ආකාරයෙන්ද යන්න සම්බන්ධයෙන් විමර්ශනයක් කරන ලෙස ඉල්ලා මෙම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+A SLFP Executive Monteguara Sarachindra has lodged a complaint with former President Maithripala Sirisena against former President Maithripala Sirisena against former President Maithripala Sirisena.
+
+Mount Sarachchandra writes a letter to the Bribery Commission, Maithripala Sirisena has been speaking to the party that he had paid the Sri Lankan Freedom Party.
+
+Therefore, the complaint has been filed asking to investigate the manner in which the passengers earned the money for the payment of the Easter victims.
 
 ◼️
 
 [Data](articles/a4d71825.json)
+
+[Extended Data](ext_articles/a4d71825.ext.json)
 
 ---
 
@@ -203,6 +255,8 @@ Disingenuous statements will not count at the election, said Semasinghe.
 ...
 
 [Data](articles/8ef43ac8.json)
+
+[Extended Data](ext_articles/8ef43ac8.ext.json)
 
 ---
 
@@ -321,6 +375,8 @@ PhonePe, which uses India’s Unified Payment Interface will now allow Indian to
 ...
 
 [Data](articles/a495e587.json)
+
+[Extended Data](ext_articles/a495e587.ext.json)
 
 ---
 
@@ -732,21 +788,33 @@ Also, if we come to power, all the liquor licenses currently being issued will b
 
 ---
 
-### හිටපු මැකෝ කියන රජය ගන්න යන අයුතු වාසිය
+### Advantage of the government to take the government of former Mako
 
 *2024-05-16 12:09:58* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැකෝ-කියන-රජය-ගන්න-යන-අයුතු-වාසිය/11-409668) · `si`
 
-පළාත් පාලන ඡන්ද විමසීමට කැදවූ නාම යෝජනා අවලංගු කිරීමට රජය අර අදින්නේ දේශපාලනික අයුතු වාසියක් ලබා ගැනීමට බව මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා අද (16) උදේ අම්බලන්ගොඩ පෝරඹ ඒ මහතාගේ නිවසේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+The government's decision to pull nominations for local government polls aims to boost political parties. Former Chairman Mahinda Deshapriya highlighted that only Parliament can cancel these nominations, citing legal complexities and the Election Commission's opposition. He emphasized the urgency of addressing public servant issues and the importance of immediate local governance reforms, suggesting these steps could provide strategic advantages ahead of future elections.
 
-දේශපාලන පක්ෂ ප්‍රවර්ධනය කිරීමට අවස්ථාවක් ලබා ගැනීමේ අරමුණින් මෙය සිදු කරන බවද මෙහිදී දේශප්‍රිය මහතා කීය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහින්ද දේශප්‍රිය මහතා අවලංගු කිරීමට බලාපොරොත්තු වන පළාත් පාලන නාමයෝජනා පිළිබදව පමණක් නොව හොරු අරන් ගිය පළාත් සභා ඡන්ද විමසීම හා ඉදිරියේදී ඒමට නියමිත ජනාධිපතිවරණය පිළිබදවද මෙහිදී අදහස් දැක්වූවේ මෙසේය.
+Former Chairman Mahinda Deshapriya said that the government pulls the nominations for local government polls today (16) at a press conference held at the house in Ambalangoda.
 
-"පළාත් පාලන ඡන්ද විමසීමට කැදවන නාමයෝජනා අවලංගු කිරීම කළ හැක්කේ පාර්ලිමේන්තුවේ සම්මත කරන පනතකින් විතරයි. එවැනි ඕනෑම පනතක් ගරු ශ්‍රේෂ්ඨාධිකරණයේදී යම් යම් අභියෝගයන්ට අනිවාර්‍යයෙන්ම ලක්වෙනවා. මෙවර එය ලක්වෙන වෙලාවේදී අනිවාර්‍යයෙන්ම ඉල්ලා සිටින්න ඕන මේ අවස්තාවේ මේක කිරීමෙන් බලාපොරොත්තු වෙන්නේ කුමක්ද කියන එක මේ බලාපොරොත්තුවීමෙන් අපේක්ෂකයන්ගේ ගැටුලු නිසා කරනවයි කියන එක පිළිගන්න පුළුවන් දෙයක් නෙමෙයි.
+He said that this is being done with the objective of gaining an opportunity to promote political parties.
+
+Speaking further, he said:
+
+"The nomination of the nominations calling for local government polls can only be canceled by Parliament. The Honorable Court of Supreme Court definites to some challenges in the Honorable Supreme Court. It is not possible that it is not sure that the time it is under this time to do this at this time, it is not possible to accept the claims of candidates.
+
+Because the problem of public servants is now solved by all the candidates.
+
+Because the Election Commission is opposed to that.I see as one to get advantage.
+
+There is nothing to make the new bill next to the Eelam next year.At the WC, chaired by Hon.
 
 ...
 
 [Data](articles/37961578.json)
+
+[Extended Data](ext_articles/37961578.ext.json)
 
 ---
 
@@ -785,6 +853,8 @@ The delegation will be made up of the former Ambassador to Russia Saman Weerasin
 ...
 
 [Data](articles/6d647439.json)
+
+[Extended Data](ext_articles/6d647439.ext.json)
 
 ---
 
@@ -903,6 +973,8 @@ Through the bilateral MoU, the IDB will support MSMEs by solving their problems,
 ◼️
 
 [Data](articles/7c482289.json)
+
+[Extended Data](ext_articles/7c482289.ext.json)
 
 ---
 
@@ -1782,6 +1854,32 @@ However, it is reported that the Prime Minister has not yet responded to the sta
 
 ---
 
+### Corruption In Sri Lanka: The Root Of Modern Social Instability
+
+*2024-05-16 09:21:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-the-root-of-modern-social-instability/) · `en`
+
+In this beautiful island nation of Sri Lanka, a shadow looms large, shaping much of the turmoil and instability that grips its society. This shadow is corruption, a pervasive issue that seeps through the layers of governance, eroding the trust between the people and their leaders, and undermining the foundations of social and economic development. The claim that corruption is the root cause of the social instability in Sri Lanka is not an exaggeration; rather, it is a reflection of a harsh reality. From FCID investigations to inquiries at local police stations to inquiries at immigration – corruption persists!
+
+Corruption in Sri Lanka manifests in various forms, from high-level political graft to everyday bureaucratic bribery. It affects everything from the simplest government transaction to the largest infrastructure projects. The impacts are profound and multifaceted, influencing not just the economic sphere but also the very social fabric of the nation.
+
+...
+
+[Data](articles/6302f2a5.json)
+
+---
+
+### Labour Party Commits To Referring Sri Lankan War Criminals To International Criminal Court
+
+*2024-05-16 09:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/labour-party-commits-to-referring-sri-lankan-war-criminals-to-international-criminal-court/) · `en`
+
+On Mullivaikkal Remembrance Day event organised by Tamils for Labour in the House of Commons yesterday, Keir Starmer, Leader of the Labour Party, has issued a poignant message through Anneliese Dodds MP, Chair of the Labour Party and Shadow Secretary of State for Women and Equalities, honoring the memory of tens of thousands of Tamil people who lost their lives and suffered egregious international crimes during the final stages of the Sri Lankan War.  Labour Party is widely expected to win the next General Election in the UK which is expected to be held this year.
+
+...
+
+[Data](articles/0a00d31d.json)
+
+---
+
 ### Foxhill accident - 16 year old girl death
 
 *2024-05-16 09:06:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/FOXHILL-விபத்து-16-வயதுச்-சிறுமி-உயிரிழப்பு/175-337401) · `ta`
@@ -2241,77 +2339,5 @@ The CNGA, a prestigious industry association representing over 1,400 major membe
 [Data](articles/bf207252.json)
 
 [Extended Data](ext_articles/bf207252.ext.json)
-
----
-
-### Official garment worker minimum wage not an accurate picture of total earnings: JAAF
-
-*2024-05-16 03:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Official-garment-worker-minimum-wage-not-an-accurate-picture-of-total-earnings-JAAF/108-282686) · `en`
-
-The Joint Apparel Association Forum (JAAF) stressed that the official garment worker minimum wage does not paint an accurate image of the total earnings of a garment worker in Sri Lanka.
-
-Responding to a recent article published on Just-Style, JAAF General Secretary Yohan Lawrence pointed out that the current two-tiered system of a fixed basic wage is complemented by productivity-based payments along with other non-cash benefits.
-
-The Clean Clothes Campaign, the international alliance of labour unions and nongovernmental organisations, claimed that Sri Lanka’s garment industry minimum wage pay scale in general has “failed to cover a worker family’s needs, due to high inflation”.
-
-...
-
-[Data](articles/01b999f3.json)
-
-[Extended Data](ext_articles/01b999f3.ext.json)
-
----
-
-### Fairway Colombo wins ‘Best City Business Hotel in Sri Lanka’ Award
-
-*2024-05-16 03:45:23* · [`dailyftlk`](https://www.ft.lk/business/Fairway-Colombo-wins-Best-City-Business-Hotel-in-Sri-Lanka-Award/34-761865) · `en`
-
-Fairway Colombo General Manager Saman Perera (centre) with the ‘Best City Business Hotel in Sri Lanka’ award received from Global Brand Magazine at a ceremony held at The Athenee Hotel Bangkok, Thailand
-
-Fairway Colombo, nestled in the vibrant heart of Sri Lanka’s capital city, said it has secured the coveted title of ‘Best City Business Hotel in Sri Lanka’ at the prestigious Global Brand Magazine Awards held at The Athenee Hotel Bangkok, Thailand on 4 May.
-
-It said this accolade stands as a testament to Fairway Colombo’s unwavering dedication to providing unparalleled service and luxury within Colombo’s dynamic business landscape.
-
-Global Brand Magazine, renowned for celebrating excellence across diverse industries worldwide, bestowed this honour upon Fairway Colombo, recognising the hotel’s commitment to delivering exceptional experiences to business travellers and visitors alike.
-
-...
-
-[Data](articles/b1b4e8a4.json)
-
-[Extended Data](ext_articles/b1b4e8a4.ext.json)
-
----
-
-### Koelnmesse explores opportunities in food and beverage industry in Sri Lanka
-
-*2024-05-16 03:43:05* · [`dailyftlk`](https://www.ft.lk/business/Koelnmesse-explores-opportunities-in-food-and-beverage-industry-in-Sri-Lanka/34-761864) · `en`
-
-From left : Koelnmesse India Group Director Sameer Mithia, Koelnmesse India Managing Director Milind Dixit, Delegation of German Industry and Commerce (AHK) in Sri Lanka Chief Delegate Marie Antonia von Schönburg, Sri Lanka Export Development Board Chairman Dr. Kingsley Bernard and AHK Head of Corporate Affairs and Export Promotions Malintha Gajanayake - Pix by Upul Abayasekara
-
-Some of the notable trade fairs hosted by Koelnmesse include Anuga for food and agriculture industry, Anuga FoodTec for agricultural technologies and Spoga+Gafa for the gardening and horticulture industry
-
-High ranking representatives from Koelnmesse India, a leading international trade fair and exhibition centre based in Cologne, Germany, visited Sri Lanka from 8 to 18 May.
-
-...
-
-[Data](articles/76faeabb.json)
-
-[Extended Data](ext_articles/76faeabb.ext.json)
-
----
-
-### CIPM Sri Lanka’s National HR Conference on 5 and 6 June
-
-*2024-05-16 03:34:46* · [`dailyftlk`](https://www.ft.lk/business/CIPM-Sri-Lanka-s-National-HR-Conference-on-5-and-6-June/34-761863) · `en`
-
-The Chartered Institute of Personnel Management (CIPM) Sri Lanka has announced the return of its premier National HR Conference, NHRC 2024, on 5 and 6 June at the Monarch Imperial, Sri Jayewardenepura Kotte.
-
-Themed ‘Navigating the HR Horizon’ NHRC-2024 aims to tackle the pressing challenges and opportunities that are reshaping the future of human resources, particularly in the wake of the unprecedented convergence of pandemic aftershocks, economic turbulence, and evolving employee expectations.
-
-...
-
-[Data](articles/e110e5ab.json)
-
-[Extended Data](ext_articles/e110e5ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 01:03:50**
+As of **2024-05-17 01:18:25**
 
 ## Newspaper Stats
 
-*Scraped **24,541** Articles*
+*Scraped **24,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,58 @@ adalk | 2,107
 adaderanalk | 2,840
 tamilmirrorlk | 2,883
 virakesarilk | 3,693
-dailymirrorlk | 3,852
+dailymirrorlk | 3,855
 adaderanasinhalalk | 3,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,541 (100.0%) of 24,541 articles have been extended.
+24,541 (100.0%) of 24,544 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-17 (Friday)
+
+### Lawmakers must note that stars in galaxy are dead - EDITORIAL
+
+*2024-05-17 00:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lawmakers-must-note-that-stars-in-galaxy-are-dead-EDITORIAL/172-282772) · `en`
+
+Sri Lanka is divided politically at present. Many years ago this country was divided in terms of race. Politics seems to be the cause of all this evil. Now we are told to prepare for a presidential election which is expected this year.
+
+Exactly eight days ago (May 9) people of this country were reminded that two years had passed after the ‘Aragalaya’ (Protest) took place. Largely these protests were held in and around Colombo; some protests took place in other places outside Western province, but not with the same aggression and success. Talking about Colombo, there is a hotel put up near Galle Face, where the main protest took place. That hotel was opened on April 24 (2024) and among the invitees and special guests were individuals who the protesters wanted out of politics.
+
+...
+
+[Data](articles/f642be79.json)
+
+---
+
+### Nakba continues amid Zionist newspeak
+
+*2024-05-17 00:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nakba-continues-amid-Zionist-newspeak/172-282771) · `en`
+
+Palestinian protesters take to the streets of the West Bank city of Ramallah on Wednesday to mark the 76th anniversary of the “Nakba” or “Catastrophe”, which sparked the exodus of hundreds of thousands of Palestinians in 1948. (AFP)
+
+Nakba is indisputably a living testimony to the brutality of the beast among humans. The fact that it has been committed against victimised Palestinians for the past 76 years, again and again, is a damning indictment of the United Nations system. It is not a mere accusation to say that the United States, the United Kingdom, and their partners are as directly responsible as Israel for letting Nakba happen in 1948 and continuing it for 76 years with massacre after massacre and displacement after displacement. It is a fact.
+
+...
+
+[Data](articles/ae01731e.json)
+
+---
+
+### 1998 Bharathipuram killings and accountability for wartime atrocities
+
+*2024-05-17 00:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/1998-Bharathipuram-killings-and-accountability-for-wartime-atrocities/172-282770) · `en`
+
+The killing of civilians and other atrocities were widespread during the three-decade war mostly in the North and the East. The Sri Lankan armed forces, police and the Liberation Tigers of Tamil Eelam (LTTE) are alleged to be responsible for many such massacres according to eye witnesses and circumstantial evidence. It’s rare that the Sri Lankan armed forces and police have been held accountable through domestic courts for such killings. Below are some observations and reflections on such a rare case, based on reading the case and talking to families of victims.
+
+...
+
+[Data](articles/027dbadb.json)
+
+---
 
 ### 2024-05-16 (Thursday)
 
@@ -2299,71 +2341,5 @@ According to other students and parents, the students have been reduced to the n
 [Data](articles/38a15de4.json)
 
 [Extended Data](ext_articles/38a15de4.ext.json)
-
----
-
-### International media surveillance in Mullivaikkal
-
-*2024-05-16 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/183675) · `ta`
-
-Tamil people honor victims of Mullivaikkal's tragedy, marked by international media monitoring. The event, held annually on May 18, commemorates the loss and destruction suffered by the community.
-
-🟩
-
-It has become a regular activity that all the Tamil people pay tribute to the dead amidst many harm as the destruction of the Tamil people in Mullivaikkal on May 18.
-
-Mullivaikkal has been given to the people of Mullivaikkal since the beginning of May. This is directly monitored by the international media.
-
-Mullivaikkal's main memorials and traces are being directly monitored by the International Media as the Mullivaikkal Mullivaikkal Western Communist Ceremony is being prepared today.
-
-◼️
-
-[Data](articles/935fa49d.json)
-
-[Extended Data](ext_articles/935fa49d.ext.json)
-
----
-
-### Sri Lanka’s Lanka Pay ties up with PhonePe to help Indian tourists
-
-*2024-05-16 13:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-lanka-pay-ties-up-with-phonepe-to-help-indian-tourists-163331/) · `en`
-
-ECONOMYNEXT – Indian tourists will be able to pay for their purchases in Sri Lanka through their mobile phones using QR codes after a tie up between Lanka Pay and India’s PhonePe, officials said.
-
-With India being the top source of tourists to the county, the tie up will strengthen bilateral relations co-operation, Central Bank Governor Nandala Weerasinghe said.
-
-Enhancing cross border payments was a priority among policymakers, and in Sri Lanka the central bank was also supporting cashless payments, he said.
-
-PhonePe, which uses India’s Unified Payment Interface will now allow Indian tourists visiting the country to pay at large network of merchants which use the LankaQR system of LankaPay.
-
-“This partnership is bound to provide greater convenience to Indian Tourists and Business Travelers in making seamless UPI payments at all LankaQR merchant points in Sri Lanka via PhonePe app,” LankaPay Chief Excutive Chanda de Silva said.
-
-...
-
-[Data](articles/a495e587.json)
-
-[Extended Data](ext_articles/a495e587.ext.json)
-
----
-
-### Sri Lanka's largest choice in Sri Lanka
-
-*2024-05-16 13:15:22* · [`adalk`](https://www.ada.lk/religion/තොටළඟත්-ලංකාවේ-විශාලම-තොරණක්-හදයි/4-409674) · `si`
-
-Thatawa Nagalagam Street, Sri Lanka's tallest structure over 80 feet, stands near the public market. The 69th annual Thatalanga Sri Virtual Community meeting focuses on "Tyrachanga Sri Virtual Story." Notable attendees include electrical veterans Narammala Pall and Ananda Jayalath from Vehimana, Yakkadi.
-
-🟩
-
-The Thatawa Nagalagam Street, the largest and beauty of Sri Lanka, the largest pages of the height of more than 80 feet of Sri Lanka, have been built in front of the public market.
-
-The Tetna Communication Meeting of the Thotalanga Sri Virtual Community and the area, which will be submitted to the 69th consecutive year with the theme of the Tyrachanga Sri Virtual Story.
-
-Acceptance of thorns and electricity generation veteran electrical Narammala Pall (Narammala) and Ananda Jayalath of Vehimana, Yakkadi, was introduced.
-
-◼️
-
-[Data](articles/b3f5f7e0.json)
-
-[Extended Data](ext_articles/b3f5f7e0.ext.json)
 
 ---

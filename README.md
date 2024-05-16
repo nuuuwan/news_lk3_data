@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 21:03:30**
+As of **2024-05-16 21:18:30**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,912
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,515 (100.0%) of 24,517 articles have been extended.
+24,517 (100.0%) of 24,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### රුසියාවට පිරිස් යැවීමේ තවත් සැකකරුවෙක් අත්අඩංගුවට
+### Another suspect in Sending Persons to Russia arrested
 
 *2024-05-16 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196697) · `si`
 
-තවත් පිරිසක් රුසියාවට යැවීම සඳහා මුදල් ලබාගත් බව කියන සැකකරුවෙකු ඊයේ (15) රාත්‍රියේ මොනරාගල දඹගල්ල ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect accused of funding individuals' travel to Russia was arrested in Sri Lanka's Dambagalla. Set to appear in court tomorrow, this case highlights ongoing efforts against human trafficking.
 
-සැකකරු හෙට (17) දින මොනරාගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+🟩
+
+Another suspect who was allegedly obtained money to send them to Russia was arrested by the police at Dambagalla area last night.
+
+The suspect is due to be produced before the Moneragala Magistrate's Court tomorrow (17).
 
 ◼️
 
 [Data](articles/3f209c17.json)
+
+[Extended Data](ext_articles/3f209c17.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ The situation escalated when a porter assisting with the luggage of the minister
 ...
 
 [Data](articles/199c2363.json)
+
+[Extended Data](ext_articles/199c2363.ext.json)
 
 ---
 

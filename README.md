@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 19:03:26**
+As of **2024-05-16 19:18:10**
 
 ## Newspaper Stats
 
-*Scraped **24,504** Articles*
+*Scraped **24,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,77 @@ adaderanalk | 2,837
 tamilmirrorlk | 2,880
 virakesarilk | 3,687
 dailymirrorlk | 3,844
-adaderanasinhalalk | 3,908
+adaderanasinhalalk | 3,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,499 (100.0%) of 24,504 articles have been extended.
+24,504 (100.0%) of 24,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### வெல்லவாய – எல்ல பிரதான வீதிக்கு பூட்டு
+### ප්‍රසන්න රණවීර කටුනායකදී ඇති කරගත් ගැටුමට හේතුව
+
+*2024-05-16 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196694) · `si`
+
+කටුනායක ගුවන්තොටුපොළේ ගුවන් මගීන්ගේ ගමන් මලු ප්‍රවාහනය කරන සේවකයෙක් හෙවත් පෝටර්වරයෙකුට කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පහරදී ඇතැයි වාර්තා වෙයි.
+
+එමෙන්ම ආරක්ෂක නිලධාරීන් කිහිප දෙනෙකුටද රණවීර රාජ්‍ය අමාත්‍යවරයා විසින් තර්ජනය කර ඇති බව ගුවන්තොටුපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පසුගිය 14 වනදා අලුයම් කාලයේදී සිය බිරිය හා ඇමති ආරක්ෂකයන්ද සමගින් කටුනායක ගුවන්තොටුපොළට ගොස් ඇත්තේ සිය බිරිඳ විදෙස්ගත කිරීම සඳහාය.
+
+එහිදී රාජ්‍ය අමාත්‍යවරයා ගිනිඅවි සහිත ඇමති ආරක්ෂකයන් ද සමගින් ප්‍රධාන දොරටුවෙන් ගුවන්තොටුපොළට ඇතුළුවීමට උත්සාහ දරා ඇති බව ගුවන්තොටුපොළ ආරංචි මාර්ග සඳහන් කළේය.
+
+එම අවස්ථාවේදී අමාත්‍යවරයාගේ ආරක්ෂකයන් සතු ගිනි අවි රැගෙන යාමට ඉඩදිය නොහැකි බව ගුවන්තොටුපොළ ආරක්ෂක නිලධාරීන් රාජ්‍ය අමාත්‍යවරයාට පවසා තිබේ.
+
+අනතුරුව රාජ්‍ය අමාත්‍යවරයාගේ බිරිඳගේ ගමන් මලු රැගෙන ගිය පෝටර්වරයාට රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පහරදී ඇති බවද ගුවන්තොටුපොළ ආරංචි මාර්ග පැවසීය.
+
+...
+
+[Data](articles/394b925e.json)
+
+---
+
+### Wellawa - Lock for Ella Main Street
 
 *2024-05-16 18:46:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெல்லவாய-எல்ல-பிரதான-வீதிக்கு-பூட்டு/76-337439) · `ta`
 
-வெல்லவாய – எல்ல பிரதான  வீதியூடான போக்குவரத்து வியாழக்கிழமை (16) மாலை 6 மணி முதல் வௌ்ளிக்கிழமை (17) காலை 6 மணி வரை தற்காலிகமாக மூடப்படும் என பொலிஸார் அறிவித்துள்ளனர்.
+Traffic on Wellawaya-Ella road will close from 6 PM on Thursday due to stones and mudslides caused by heavy rain near Karandagolla and Ravana Ella.
 
-கரந்தகொல்ல மற்றும் இராவணா எல்ல ஆகிய பகுதிகளுக்கு இடைப்பட்ட பிரதேசத்தில் கற்கள் மற்றும் மண் மேடுகள் சரிந்து வீழ்ந்துள்ளதாக பொலிஸார் குறிப்பிடுகிறனர்.
+🟩
 
-குறித்த பகுதியில் பெய்யும் கடும் மழையுடனான வானிலையை அடுத்தே, மண் மேடுகள் சரிந்து வீழ்ந்துள்ளன.
+Police have announced that the traffic along the Wellawaya - Ella main road will be temporarily closed from 6 pm to 6 pm on Thursday (16).
+
+Police say stones and mudslides have fallen in the area between Karandagolla and Ravana Ella.
+
+The mudslides have fallen in the wake of the heavy rainfall in the area.
 
 ◼️
 
 [Data](articles/41923198.json)
 
+[Extended Data](ext_articles/41923198.ext.json)
+
 ---
 
-### විස්සයි20 තුන් ඉරියව් ක්‍රීඩකයන් අතර වනිඳුට සම පළමු තැන
+### Twenty20 player players are the skin first
 
 *2024-05-16 18:43:30* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තුන්-ඉරියව්-ක්‍රීඩකයන්-අතර-වනිඳුට-සම-පළමු-තැන/9-409683) · `si`
 
-විස්සයි20 තුන් ඉරියව් ක්‍රීඩකයන් ශ්‍රේණිගත කිරීම්වල සම පළමු ස්ථානයට ශ්‍රී ලංකාවේ විස්සයි20 නායක වනිඳු හසරංග හා බංග්ලාදේශ තුන් ඉරියව් ක්‍රීඩක ශකිබ් අල් හසන් පත්ව තිබේ. වනිඳු හා ශකිබ් සම ලකුණු 228ක් ලබාගෙන තිබේ.
+In a cricket match against Sri Lanka, Shakib Al Hasan and Mahmudullah scored 228 runs, leading Bangladesh's performance.
+
+🟩
+
+Shakib Al Al Al Hasan Allawi, Vijindu Mason, and Bangladesh's three-genuiners in Sri Lanka. Mondu and Shakiib scored 228 runs.
 
 ◼️
 
 [Data](articles/75d313cc.json)
+
+[Extended Data](ext_articles/75d313cc.ext.json)
 
 ---
 
@@ -144,21 +178,29 @@ The SLBFE said it has received 07 complaints regarding the racket operated by th
 
 ---
 
-### விடுதலைப் புலிகள் மீதான தடை அநீதியானது -  உலகத் தமிழர் பேரமைப்பின் தலைவர் பழ. நெடுமாறன் கண்டனம்
+### The ban on the LTTE is unjust - the leader of the World Tamil Forum. Collar condemnation
 
 *2024-05-16 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183719) · `ta`
 
-தமிழீழ விடுதலைப்புலிகள் மீதான தடையை மேலும் ஐந்து ஆண்டுகளுக்கு நீட்டிப்பதாக இந்திய அரசின் உள்துறை அறிவித்துள்ளது. இதற்கு உலகத் தமிழர் பேரமைப்பின் தலைவர் பழ. நெடுமாறன் கண்டனம் தெரிவித்து அறிக்கையொன்றை வெளியிட்டுள்ளார்.
+Nedumaran criticizes India's decision to extend the ban on LTTE for another five years, arguing it's unjustified due to LTTE's non-aggression towards India and lack of support from Tamil Nadu. He highlights historical inaccuracies and alleged collusion between the Indian government and the Sinhalese government against LTTE, questioning the fairness of the ban.
 
-தமிழீழ விடுதலைப்புலிகள் மீதான தடையை மேலும் ஐந்து ஆண்டுகளுக்கு நீட்டிப்பதாக இந்திய அரசின் உள்துறை அறிவித்துள்ளது. அதற்குரிய காரணங்களாகக் கீழ்க்கண்டவற்றை குறித்துள்ளது.
+🟩
 
-“2009ஆம் ஆண்டு இலங்கையில் நடைபெற்ற போர் முடிவுக்கு வந்த பிறகும், விடுதலைப்புலிகள் இயக்கம் தமிழீழத் தனிநாட்டுக் கோரிக்கையைக் கைவிடவில்லை. அதற்கான ஆதரவு மற்றும் நிதித் திரட்டல் வேலைகளில் தொடர்ந்து ஈடுபட்டு வருகிறது.
+The Government of India has announced that it will extend the ban on the Liberation Tigers of Tamil Eelam (LTTE) for a further five years. For this, the leader of the World Tamil Forum. Nedumaran has issued a statement condemning.
 
-விடுதலைப்புலிகளின் இயக்கம் தமிழ்நாட்டில் இரகசியமாகச் செயல்படுகிறது. அனைத்துத் தமிழர்களுக்குமான தனி நாடு என்ற கோரிக்கையில் இந்தியாவில் உள்ள தமிழ்நாட்டையும் சேர்த்துள்ளது. இந்தியாவின் இறையாண்மை, ஒருமைப்பாடு ஆகியவற்றுக்கு புலிகளின் நோக்கம் எதிரானது மட்டுமல்ல, இந்தியாவின் பாதுகாப்புக்கு அச்சுறுத்தலாகவும் உள்ளது.”
+The Government of India has announced that it will extend the ban on the Liberation Tigers of Tamil Eelam (LTTE) for a further five years. The reasons for that are the following.
+
+“Even after the end of the war in Sri Lanka in 2009, the Liberation Tigers of Tamil Eelam (LTTE) did not abandon the demand for Tamil Eelam. Support and financial raising work continues.
+
+The movement of the Liberation Tigers is in secret in Tamil Nadu. Tamil Nadu in India has also added to the demand for a separate country for all Tamils. The LTTE's purpose is not only against the sovereignty and integrity of India but also a threat to India's security. ”
+
+The Indian governments in the past and the now in office of India are working in an attempt to make it true by repeating the same lie.
 
 ...
 
 [Data](articles/1c9bc7ad.json)
+
+[Extended Data](ext_articles/1c9bc7ad.ext.json)
 
 ---
 
@@ -560,19 +602,25 @@ Meanwhile, speaking to the media in Habarana, the State Minister revealed that t
 
 ---
 
-### ජනපතිට ඉන්දුනීසියාවේ සංචාරක්
+### President to visit Indonesia
 
 *2024-05-16 16:19:14* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-ඉන්දුනීසියාවේ-සංචාරක්/11-409682) · `si`
 
-ඉන්දුනීසියාවේ බාලි නගරයේ පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගීවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මැයි 18වනදා දිවයිනෙන් පිටත්ව යාමට නියමිත බව එම මාධ්‍ය අංශය සදහන් කරයි.
+President Ranil Wickremesinghe will travel to Bali, Indonesia, on May 18 for the 10th World Water Conference themed "Water for Collective Prosperity," where he will speak on May 20.
 
-“සාමුහික සෞභාග්‍ය සඳහා ජලය” යන තේමාව යටතේ  10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසිය මැයි 18 සිට 20 දක්වා ඉන්දුනීසියාවේ බාලි නගරයේ දී පැවැත් වේ.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මැයි 20 වනදා සමුළුව අමතා සිය දේශනය ඉදිරිපත් කිරීමට නියමිත බව වැඩිදුරටත් ජනාධිපති මාධ්‍ය අංශය සදහන් කරයි.
+President Ranil Wickremesinghe will leave the island on May 18 to attend the top session of the 10th World Water Conference in Bali, Indonesia.
+
+The top 10th World Water Conference will be held in Bali to the Town of Indonesia under the theme "Water for Collective Prosperity".
+
+President Ranil Wickremesinghe will call at the convention on May 20 and further presented his speech.
 
 ◼️
 
 [Data](articles/bb3034ee.json)
+
+[Extended Data](ext_articles/bb3034ee.ext.json)
 
 ---
 
@@ -724,19 +772,27 @@ The Ministry of Education has further stated that the Circular is still inquiry 
 
 ---
 
-### பொறுப்புக்கூறலுக்கும் நல்லிணக்கத்தை ஏற்படுத்துவதற்கும் பாரிய பின்னடைவு - யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு
+### Massive setback for accountability and reconciliation - the Diocese of Jaffna
 
 *2024-05-16 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183682) · `ta`
 
-முள்ளிவாய்க்கால் கஞ்சி வழங்கியவர்களை கைது செய்வது பொறுப்புக்கூறலுக்கும், நீதியை நிலைநாட்டுவதற்கும். நல்லிணக்கத்தை ஏற்படுத்துவதற்கும்,  பாரிய பின்னடைவாகும் என யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு தெரிவித்துள்ளது
+Arrests related to Mullivaikkal porridge hinder reconciliation efforts in Jaffna Diocese, highlighting ongoing human rights issues and the need for justice and acknowledgment of past atrocities.
 
-முள்ளிவாய்க்கால்  கஞ்சி வழங்கியவர்களை கைது செய்தல்,தடையேற்படுத்துவது தொடர்பாக யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு வெளியிட்ட அறிக்கையில் தெரிவித்துள்ளது.
+🟩
 
-வடக்குக்கிழக்குத்தமிழ் மக்களுக்கெதிராக இலங்கை அரசினால் 3 தசாப்தங்களுக்கு மேல் மேற்கொள்ளப்பட்ட இனஅழிப்புப்போரின் ஒரு முக்கிய குறியீடு தான் இந்த முள்ளி வாய்க்கால் கஞ்சி. இன்று முள்ளிவாய்க்கால் கஞ்சியை குடித்து சாவிலிருந்து தப்பியவர்கள் சிலர் இன்னமும் நம் மத்தியில் வாழ்கிறார்கள். அவர்களது துயர அனுபவம் வருங்கால சமுதாயத்தினருக்கு விளக்கிப்பகிரப்பட வேண்டியதொன்று.
+The arrest of Mullivaikkal porridge for the responsibility and to uphold justice. The Catholic Diocese Peace Commission of Jaffna has said that it is a major setback to bring about reconciliation
+
+In a statement issued by the Catholic Diocese of Jaffna, the Jaffna Diocese of Judicial Commission said in a statement on the arrest and obstacle of Mullivaikkal porridge.
+
+This thorny mouth is an important code of the ethnic groups carried out by the Sri Lankan government against the Tamil people of the North East.. Mullivaikkal today is still living among us. Their tragic experience is to be explained to the future society.
+
+According to the government's departments, the number of people who were closely blocked in a narrow landfill (declared by the state as a security zone) in the Mullivaikkal area.. Essential food items were sent to those who lived within various sanctions.
 
 ...
 
 [Data](articles/a3446bd6.json)
+
+[Extended Data](ext_articles/a3446bd6.ext.json)
 
 ---
 
@@ -2313,39 +2369,5 @@ President Wickremesinghe will issue a report on the theme of "shared prosperity"
 [Data](articles/28f54181.json)
 
 [Extended Data](ext_articles/28f54181.ext.json)
-
----
-
-### 15 years after the end of the conflict in Sri Lanka - the war crimes are still not judged - International Human Rights Watch
-
-*2024-05-16 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183662) · `ta`
-
-Fifteen years post-conflict, Sri Lanka's war crimes remain unjudged. Lakshmi recounts the horrors of the final days in 2009, describing the aftermath of the 26-year civil war between the Sri Lankan government and the LTTE. The conflict ended with alleged massacres, torture, and disappearances, impacting hundreds of thousands of civilians. Despite international calls for justice, including from the UN Human Rights Council, accountability remains elusive, contributing to ongoing economic challenges and societal unrest.
-
-🟩
-
-Lakshmi remembers the day when the guns finally silenced in May 2009.
-
-He had taken refuge in the sand in the sand. Hundreds of thousands of civilians, which were called Bunker, have been refugees on the coast.
-
-They faced a series of bombs for several weeks in the area announced by the Army Security Zone.
-
-Luxmi told us at a recent meeting that many were struggling to save their lives.
-
-We were inside the bunker.
-
-We have seen the blood flowing out and the body- we can never forget it, ”he said.
-
-The 26 -year war between the separatist Liberation Tigers of Tamil Eelam (LTTE) and the Sri Lankan government is finally over on May 19, alleged that more than one hundred Liberation Tigers of Tamil Eelam (LTTE) surrendered.
-
-The photos and videos of the state forces as their successes have shown the assassination of prisoners tied up by hands.
-
-Lakshmi was taken to the interim camp where about 250 000 people were detained from suspected LTTE - he is still fearing his true name.
-
-...
-
-[Data](articles/bea01390.json)
-
-[Extended Data](ext_articles/bea01390.ext.json)
 
 ---

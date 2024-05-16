@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 17:18:38**
+As of **2024-05-16 17:33:57**
 
 ## Newspaper Stats
 
-*Scraped **24,471** Articles*
+*Scraped **24,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,096
+adalk | 2,097
 adaderanalk | 2,835
 tamilmirrorlk | 2,878
 virakesarilk | 3,673
-dailymirrorlk | 3,839
-adaderanasinhalalk | 3,903
+dailymirrorlk | 3,841
+adaderanasinhalalk | 3,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,469 (100.0%) of 24,471 articles have been extended.
+24,471 (100.0%) of 24,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### සෝල් බීච් හෝටලයේ අධ්‍යක්ෂගෙන් ආන්දෝලනාත්මක අනාවරණයක්
+
+*2024-05-16 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196690) · `si`
+
+තම හෝටලය කඩා ඉවත් කිරීම පසුපස යම්කිසි බලවේගයක් ක්‍රියාත්මක වන බව දෙහිවල සෝල් බීච් හෝටලයේ අධ්‍යක්ෂවරයා පවසයි.
+
+එහිදී ඔහු වැඩිදුරටත් සඳහන් කරන්නේ සෝල් බීච් හෝටලය ඉවත්කරන්නේ නම් දෙහිවල මුහුදු වෙරළට මුහුණලා ඇති අනෙක් හෝටල් 52කට ආසන්න ප්‍රමාණයද කඩා ඉවත් කළ යුතු බවය.
+
+FCIDය හමුවේ තමන් මුදල් ඉපැයූ ආකාරයත්, තමන්ට ඇති ව්‍යාපාර පිළිබඳවත් නිසි පරිදි අනාවරණයක් කළ බවද ඒ මහතා වැඩිදුරටත් පවසයි.
+
+එසේම ව්‍යාපාරය පවත්වාගෙන යාම සඳහා තමන් විසින් සියලුම රජයේ ආයතන හරහා ලබාගතයුතු නිත්‍යානුකූල ලියකියවිලි ලබාගෙන ඇති බවත් ඔහු පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/78ef74bf.json)
+
+---
+
+### ශ්‍රී ලාංකිකයන් යුද බිමට යැවූ සිද්ධියේ සැකකරුවන් රිමාන්ඩ්
+
+*2024-05-16 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196689) · `si`
+
+විශ‍්‍රාමික හමුදා නිලධාරීන් නීතිවිරෝධි ලෙස රුසියාවේ හමුදා රැකියා සඳහා යැවීම සම්බන්ධයෙන් චෝදනා එල්ලවී ඇති සැකකරුවන් 05 දෙනා ලබන 30 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+විශ්‍රාමික හමුදා මේජර්වරයින් දෙදෙනෙක් සහ එම සිද්ධියට සම්බන්ධ තවත් පුද්ගලයින 03 දෙනෙකු මෙලෙස අද (16) මීගමුව අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+
+සැකකරුවන් මීගමුව අධිකරණය වෙත රැගෙන එන අවස්ථාවේදී වින්දිතයින්ගේ ඥතීන් විසින් මීගමුව අධිකරණය ඉදිරිපිටදී නිහඬ විරෝධතාවයක නිරත විය.
+
+රුසියානු හමුදාවේ සේවය සඳහා ශ්‍රී ලාංකිකයින් යොමු කළ බලපත්‍ර ලාභී විදේශ රැකියා නියෝජිතායතනයක හිමිකරු හා එහි කළමනාකරු විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ඊයේ දින (15) අත්අඩංගුවට ගෙන තිබුණි.
+
+සංචාරක වීසා මගින් රුසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රී ලාංකිකයින් යොමුකරන බව පවසා එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15 බැගින් මුදල් අයකර විදේශගත කර ඇති අතර, එරටදී රුසියානු - යුක්‍රේන යුද්ධයේ යුද පෙරමුණට යාමට මෙම ශ්‍රී ලාංකිකයින්ට සිදුවී ඇත.
+
+...
+
+[Data](articles/06f540cb.json)
+
+---
+
+### Asian Netball Tourney put off by a few weeks
+
+*2024-05-16 17:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asian-Netball-Tourney-put-off-by-a-few-weeks/108-282733) · `en`
+
+May 16 (Daily Mirror) - The 13th Asian Senior Netball Championship 2024 has been postponed by a few weeks, Netball Asia (NA) President, Lakshmi Victoria said today.
+
+The 16-nation tournament, conducted by NA and the Saudi Arabian Netball Association (SANA) was set to be held in Saudi Arabia from September 28 to October 6.
+
+Victoria further said that the tournament will be put off by at least three weeks following a request by the SANA.
+
+She said that they cannot put off the event for more than three weeks as the sixth Asian Indoor Marshal Art Games is scheduled to be held from November 21 to 30 in Bangkok, Thailand.
+
+For the first time in history, netball has been included at the Asian Indoor Marshal Art Games, conducted by the Olympic Council of Asia.
+
+Sri Lanka, Singapore, Malaysia, Maldives, Japan, Iran, Iraq, India, Saudi Arabia, Brunei, Thailand, Hong Kong, Bahrain, Pakistan, Philippines and Chinese Taipei are set to participate in the Asian Senior Netball Championship.
+
+...
+
+[Data](articles/aa3073f4.json)
+
+---
 
 ### Sajith bars Daily Mirror over liquor controversy liquor
 
@@ -47,6 +107,26 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 ...
 
 [Data](articles/9dbfd2a2.json)
+
+[Extended Data](ext_articles/9dbfd2a2.ext.json)
+
+---
+
+### Sajith bars Daily Mirror over liquor controversy
+
+*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-bars-Daily-Mirror-over-liquor-controversy/108-282735) · `en`
+
+Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
+
+The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
+
+Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
+
+One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
+
+...
+
+[Data](articles/fb7c9033.json)
 
 ---
 
@@ -130,21 +210,29 @@ Indian High Commissioner Sanantha Raman, Sri Lanka
 
 ---
 
-### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வு ஜூலையில்...
+### Humanity Excavation in July ...
 
 *2024-05-16 16:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-மனிதப்புதைகுழி-அகழ்வு-ஜூலையில்/175-337433) · `ta`
 
+Excavations in Mullaitivu revealed human burials during infrastructure work. A legal case was initiated due to the discovery. The site was investigated by archaeologists, revealing 40 human skeletons and evidence of historical conflicts. Further scans indicated more human remains in the area. The excavation was paused due to funding issues, but plans continue for further investigation.
+
+🟩
+
 முல்லைத்தீவு மாவட்ட நீதிமன்றில் கொக்குத்தொடுவாய் மனிதப்புதைகுழி தொடர்பான வழக்கு வியாழக்கிழமை  (16)  விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
 
-இந் நிலையில் முல்லைத்தீவு மாவட்டசெயலகம் அகழ்வாய்வுகளுக்குரிய நிதி ஒதுக்கீடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தெரிவித்துள்ள நிலையிலேயே, குறித்த மனிதப்புதைகுழி அகழ்வாய்வுப்பணிகளை மீள ஆரம்பிக்க முடிவெடுக்கப்பட்டுள்ளது.
+In this backdrop, the Mullaitivu District Secretariat has announced that the excavation allocations have been received.
 
-இது தொடர்பில் மேலும் தெரியவருகையில், கடந்த 2023ஆம் ஆண்டு ஜூன்மாதம் 29ஆம் திகதியன்று, முல்லைத்தீவு கொக்குத்தொடுவாய் பகுதியில் தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபையினர் நீர் இணைப்பினைப் பொருத்துவதற்காக, கனரக இயந்திரத்தின் மூலம் நிலத்தினை ஆகழ்ந்தபோது மனிதப் புதைகுழியொன்று இனங்காணப்பட்டிருந்தது.
+According to this, a human burial was identified when the land was struck by heavy machinery to fit the water connection by the National Water Supply and Drainage Board in the Mullaitivu Kokkuttuwai area on June 29, 2023.
 
 இதனையடுத்து முல்லைத்தீவு நீதிமன்றம், முல்லைத்தீவு சட்டவைத்திய அதிகாரி ஆகியோரின் கண்காணிப்பு மற்றும் பங்குபற்றுதல்களுடன், தொல்லியல் துறைப் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான குழுவினரால் இவ்வாறு இனங்காணப்பட்ட மனிதப்புதைகுழி இரண்டு கட்டங்களாக அகழ்வாய்வு மேற்கொள்ளப்பட்டது.
+
+According to both excavations, there have been 40 human skeletons from the human skeleton, and a number of obstacles, including the Tigers, the Liberation Tigers of Tamil Eelam (LTTE), and many other barriers.
 
 ...
 
 [Data](articles/a8c95746.json)
+
+[Extended Data](ext_articles/a8c95746.ext.json)
 
 ---
 
@@ -863,6 +951,24 @@ Police have arrested a suspect after the youth was assaulted and murdered.
 [Data](articles/2117f2f0.json)
 
 [Extended Data](ext_articles/2117f2f0.ext.json)
+
+---
+
+### බිහිකළ දරුවා රෝහලේ දමා ගිය 15 හැවිරිදි දැරිය පොලිස් භාරයට
+
+*2024-05-16 13:06:15* · [`adalk`](https://www.ada.lk/breaking_news/බිහිකළ-දරුවා-රෝහලේ-දමා-ගිය-15-හැවිරිදි-දැරිය-පොලිස්-භාරයට/11-409673) · `si`
+
+යාපනය ශික්ෂණ රෝහලට ඇතුල් වී බිහිකරන ලද බිළිඳා රෝහලේ දමා පලා ගිය 15 හැවිරිදි දැරිය හා දැරියගේ මව පොලිස් භාරයට ගත් බවටත් දැරිය ගැබිනියක් කල පුද්ගලයාද ඊයේ (15) දින අත්අඩංගුවට ගත් බවට යාපනය පොලීසිය පැවසීය.
+
+පසුගිය සතියේදී යපනය ශික්ෂණ රෝහලට අවුරුදු 15 ක් වයසැති දැරියක් ඇතුලත් වී ඇත්තේ ගැබිනියක් ලෙසිනි. අනතුරුව අඩුවයස්ව මෙලෙස ගැබ්ගැනීම සම්බන්ධයෙන් යාපනය ශික්ෂණ රෝහලේ කර්ය මණ්ඩලය විසින් යාපනය පොලීසියද දැනුවත් කෙට තිබුණි.
+
+අනතුරුව පසුගිය 13 වනදා අදාල දැරිය බිළිඳෙකු ප්‍රසූත කිරීමෙන් පසුව අදාල දැරිය සහ ඇගේ තනියට සිටි මවද බිළිඳා රෝහලේ දම අතුරුදහන්ව තිබුණි. පසුව ඒ පිළිබඳව රෝහල බලධාරීන් විසින් යපනය පොලීසියට දැනුම් දීමෙන් අනතුරුව පොලීසිය විසින් පරික්ෂණයක් අරඹා තිබුණි.
+
+අදාල දැරිය යාපනය නෙල්ලිඅඩි ප්‍රදේශයේ ජීවත්වන බවට පොලීසියට ලැබුනු තෙරතුරකට අනුව යාපනය පොලීසිය විසින් නෙල්ලිඅඩි පොලීසියට ඒ බව දැනුම් දී ඇති අතර අනතුරුව නෙල්ලිඅඩි පොලීසිය විසින් දැරිය හා දැරියගේ මව පොලිස් භාරයට ගෙන යාපනය පොලීසිය වෙතට භාර දෙන ලදි.
+
+...
+
+[Data](articles/314a1b3d.json)
 
 ---
 
@@ -2237,107 +2343,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.40 perc
 [Data](articles/54f4437a.json)
 
 [Extended Data](ext_articles/54f4437a.ext.json)
-
----
-
-### President orders establishment of ‘Ashraf Memorial Museum’ in Kalmunai
-
-*2024-05-16 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99245/president-orders-establishment-of-ashraf-memorial-museum-in-kalmunai) · `en`
-
-President Ranil Wickremesinghe has directed the prompt commencement of construction of the “Ashraf Memorial Museum” in Kalmunai, honoring the late M.H.M. Ashraf, founder of the Sri Lanka Muslim Congress (SLMC) and former Minister.
-
-A distinguished politician known for his dedicated service to the Muslim community, the late M.H.M. Ashraf is to be memorialized through this museum.
-
-In recognition of his contributions, President Ranil Wickremesinghe has directed the establishment of an “Ashraf Memorial Museum.”
-
-This initiative follows the request made by Mr. H.M.M. Haris, Digamadulla District Member of Parliament, and the local Muslim community, coinciding with the 24th anniversary of Mr. Ashraf’s death.
-
-The President has allocated Rs. 25 million for the project and has instructed officials to begin construction immediately, the President’s Media Division said.
-
-...
-
-[Data](articles/9eb8f6c0.json)
-
-[Extended Data](ext_articles/9eb8f6c0.ext.json)
-
----
-
-### Netanyahu is a Minister from Minister
-
-*2024-05-16 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196666) · `si`
-
-Israeli Defense Minister Yoav Gallant criticizes Prime Minister Netanyahu over Gaza strategy, suggesting a lack of planning for post-war governance. International critics question Israel's control and the end of conflict.
-
-🟩
-
-Israeli Defense Minister Youghtimes have launched a powerful strike against Prime Minister Benjamin Netanyaya in the country.
-
-International Critics say that the Israeli Prime Minister and the Army Cabinet members of Gaza reveals about the control of Gaza and the end of the war.
-
-Defense Minister Labons states that after the end of the war, it is public to say that there is no plan to take a military or civil administration in Gaza.
-
-"I asked in the cabinet since October last October. But I haven't yet reacted a response ... ", Galunt said.
-
-If you do not make a proper decision, Gaza can be on Gaza, a man or Hamas rule.
-
-However, it is reported that the Prime Minister has not yet responded to the statement of his defense minister.
-
-◼️
-
-[Data](articles/73e2efb6.json)
-
-[Extended Data](ext_articles/73e2efb6.ext.json)
-
----
-
-### Corruption In Sri Lanka: The Root Of Modern Social Instability
-
-*2024-05-16 09:21:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-the-root-of-modern-social-instability/) · `en`
-
-In this beautiful island nation of Sri Lanka, a shadow looms large, shaping much of the turmoil and instability that grips its society. This shadow is corruption, a pervasive issue that seeps through the layers of governance, eroding the trust between the people and their leaders, and undermining the foundations of social and economic development. The claim that corruption is the root cause of the social instability in Sri Lanka is not an exaggeration; rather, it is a reflection of a harsh reality. From FCID investigations to inquiries at local police stations to inquiries at immigration – corruption persists!
-
-Corruption in Sri Lanka manifests in various forms, from high-level political graft to everyday bureaucratic bribery. It affects everything from the simplest government transaction to the largest infrastructure projects. The impacts are profound and multifaceted, influencing not just the economic sphere but also the very social fabric of the nation.
-
-...
-
-[Data](articles/6302f2a5.json)
-
-[Extended Data](ext_articles/6302f2a5.ext.json)
-
----
-
-### Labour Party Commits To Referring Sri Lankan War Criminals To International Criminal Court
-
-*2024-05-16 09:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/labour-party-commits-to-referring-sri-lankan-war-criminals-to-international-criminal-court/) · `en`
-
-On Mullivaikkal Remembrance Day event organised by Tamils for Labour in the House of Commons yesterday, Keir Starmer, Leader of the Labour Party, has issued a poignant message through Anneliese Dodds MP, Chair of the Labour Party and Shadow Secretary of State for Women and Equalities, honoring the memory of tens of thousands of Tamil people who lost their lives and suffered egregious international crimes during the final stages of the Sri Lankan War.  Labour Party is widely expected to win the next General Election in the UK which is expected to be held this year.
-
-Anneliese Dodds, Chair of the Labour Party delivering Keir Starmer’s Mullivaikkal Message
-
-...
-
-[Data](articles/0a00d31d.json)
-
-[Extended Data](ext_articles/0a00d31d.ext.json)
-
----
-
-### Foxhill accident - 16 year old girl death
-
-*2024-05-16 09:06:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/FOXHILL-விபத்து-16-வயதுச்-சிறுமி-உயிரிழப்பு/175-337401) · `ta`
-
-In a tragic incident at Foxhill, a 16-year-old girl succumbed to injuries sustained during a car race, passing away at Badulla Hospital. The accident resulted in an increase in casualties.
-
-🟩
-
-It is reported that the number of casualties in the foxhill car race has increased.
-
-A 16 -year -old girl who was injured in the accident and was treated at the Badulla Hospital died at 8.30 pm last night.
-
-◼️
-
-[Data](articles/3b18c542.json)
-
-[Extended Data](ext_articles/3b18c542.ext.json)
 
 ---

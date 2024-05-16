@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 20:33:48**
+As of **2024-05-16 20:52:18**
 
 ## Newspaper Stats
 
-*Scraped **24,514** Articles*
+*Scraped **24,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,838
 tamilmirrorlk | 2,882
 virakesarilk | 3,687
 dailymirrorlk | 3,847
-adaderanasinhalalk | 3,910
+adaderanasinhalalk | 3,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,511 (100.0%) of 24,514 articles have been extended.
+24,514 (100.0%) of 24,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### සාමාන්‍ය පෙළ විභාගයේ තවත් අක්‍රමිකතාවයක් ?
+
+*2024-05-16 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196696) · `si`
+
+සාමාන්‍ය පෙළ විභාගයේ තවත් අක්‍රමිකතා කිහිපයක් සම්බන්ධයෙන් අද (16) ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාවට පැමිණිලි ඉදිරිපත් කෙරුණි.
+
+ඒ අනුව මිනුවන්ගොඩ පාසලක විභාගයට පෙනීසිටි දරුවන් 14 දෙනෙකුට භූගෝල විද්‍යාව ප්‍රශ්න පත්‍රයේ ඇතැම් කොටස් ලබානොදුන් බවට චෝදනා එල්ලවී තිබේ.
+
+එමෙන්ම විශේෂ අවශ්‍යතා සිසුන් දෙදෙනකුටත් පරීක්ෂකවරුන්ගෙන් බාධා එල්ලවූ බවට පැමිණිලිකරුවන් චෝදනා කරයි.
+
+ඊයේ (15) නිමාවට පත්වූ 2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ඇතැම් ප්‍රශ්න පත්‍රවල දෝෂ තිබූ බවට සහ විභාග ශාලා කිහිපයක අක්‍රමිකතා සිදුවූ බවට දිගින් දිගටම චෝදනා එල්ල වුණි.
+
+මෙවන් පසුබිමක මිනුවන්ගොඩ අධ්‍යාපන කලාපයේ අල්අමාන් මුස්ලිම් මහා විද්‍යාලයේ දෙමළ මාධ්‍යයෙන් විභාගයට පෙනීසිටි දරුවන් 14 දෙනෙකුට භූගෝල විද්‍යාව පළමු ප්‍රශ්න පත්‍රය හා සිතියම කොටස ලබා නොදුන් බවට එම සිසුන් චෝදනා කරයි.
+
+◼️
+
+[Data](articles/3096adeb.json)
+
+---
 
 ### Embarrassment
 
@@ -95,6 +115,8 @@ SJB Leader Sajith Premadasa has still not responded to the invitation while NPP 
 ...
 
 [Data](articles/bb0d7442.json)
+
+[Extended Data](ext_articles/bb0d7442.ext.json)
 
 ---
 
@@ -198,19 +220,31 @@ The State Minister had left the airport premises following a cheeky hitting the 
 
 ---
 
-### භාෂා පරිවර්තකයෙක් ලෙස ආපු චීන ජාතිකයා මාස 6කදී ලක්ෂ 3650ක් හොයලා
+### Chinese national as a translator as a translator for 3650 lakhs
 
 *2024-05-16 18:52:41* · [`adalk`](https://www.ada.lk/breaking_news/භාෂා-පරිවර්තකයෙක්-ලෙස-ආපු-චීන-ජාතිකයා-මාස-6කදී-ලක්ෂ-3650ක්-හොයලා/11-409685) · `si`
 
-චීන භාෂා පරිවර්තකයකු වශයෙන් රැකියාවක් කිරීමට ලංකාවට පැමිණ මැණික් හා ස්වර්ණාභරණ අධිකාරියේ බලපත්‍රයක් නොමැතිව ලංකාව තුළ මැණික් ව්‍යාපාරයක් පවත්වාගෙන යමින් මාස 06ක් වැනි කෙටි කාලයක් තුළදී උපයාගත් රුපියල් මිලියන 365 කට අධික මුදල රාජසන්තක කිරීමට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (16) නියම කළේය.
+A Chinese translator was fined 3 million rupees in Sri Lanka after being found guilty of possessing unlicensed gems. The case, involving the Gem and Jewelry Authority, began on September 1st, 2017, and concluded with a judgment on February 1st. Despite the defense arguing lack of knowledge about licensing requirements, the court deemed the offense serious enough to warrant a fine.
 
-රුපියල් කෝටි 3 1/2ක දඩයකටද ඔහු යටත් කළ  විනිසුරුවරයා විත්තිකරුට වසර දෙකක බරපතල වැඩ සහිත සිර දඬුවම් නියම කර එය වසර 15ක කාලයකට අත්හිටුවීමටද නියම කළේය.
+🟩
 
-නීතිය නොදැන සිටීම නිදහසට කරුණක් නොවන බව පෙන්වා දෙමින් මෙලෙස දඬුවම් නියම කරන ලද්දේ චීන භාෂා පරිවර්තකයකු වශයෙන් රැකියාවක් කිරීමට ලංකාවට පැමිණ මැණික් හා ස්වර්ණාභරණ අධිකාරියේ බලපත්‍රයක් නොමැතිව ලංකාව තුළ මැණික් ව්‍යාපාරයක් පවත්වාගෙන යමින් මාස 06ක් වැනි කෙටි කාලයක් තුළදී රුපියල් කෝටි 36 1/2 කට අධික මුදලක් උපයාගත් බවටට චෝදනා ලැබු චු ෂෙන් නමැති චීන ජාතිකයාටය.
+Colombo High Court Judge Navaratne Marasinghe has been sentenced to three million rupees in Sri Lanka without a three-month Rs.
+
+The judge surrendered to a fine of Rs.
+
+The punishment was imposed as a Chinese translator was not excused in Sri Lanka, with a gem and jewelery authority in Sri Lanka.The Chinese nationalman who was accused of allegedly.
+
+September 1st from February 1st from February 2017, with a gem and jewelry Authority (Under the Gem and Jewelery Authority) in Sri Lanka and the Tip of the Momed Authority under the Gem and Jewelery Authority Act of Rs.There was a possession.
+
+The judge decided to defend the accused against the defendant with a lengthy trial.
+
+Senior Deputy Solikitor General Sudarsitar General Sudarshana De Silva, who appeared for the plaintiff, this defendant was asked to be punished to the country and to a lesson to other foreigners.
 
 ...
 
 [Data](articles/881fed3f.json)
+
+[Extended Data](ext_articles/881fed3f.ext.json)
 
 ---
 
@@ -227,6 +261,8 @@ Motorists are urged to seek alternate routes during this period to ensure their 
 ◼️
 
 [Data](articles/89c121ee.json)
+
+[Extended Data](ext_articles/89c121ee.ext.json)
 
 ---
 
@@ -2349,27 +2385,5 @@ Police are conducting further investigations into the murder, and the suspect is
 [Data](articles/c4587e27.json)
 
 [Extended Data](ext_articles/c4587e27.ext.json)
-
----
-
-### Complaint to Bribery Commission against Maithri
-
-*2024-05-16 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196672) · `si`
-
-A complaint accuses former President Maithripala Sirisena of selling out the Sri Lanka Freedom Party (SLFP) for personal gain. The complainant, Mr. Mondragu Sarachcha, demands an investigation into Sirisena's financial dealings related to the party.
-
-🟩
-
-A complaint has lodged a complaint with former President Maithripala Sirisena against Sirisena.
-
-Mr. Mondragu Sarachcha, a former SLFP Executive, says that Maithripala Sirisena looks like the Sri Lanka Freedom Party to sell the Sri Lanka Freedom Party.
-
-So how did you earn the relevant money?The complaint has been filed asking for an investigation into whether to investigate.
-
-◼️
-
-[Data](articles/37f494d1.json)
-
-[Extended Data](ext_articles/37f494d1.ext.json)
 
 ---

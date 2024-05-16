@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 18:12:14**
+As of **2024-05-16 18:23:36**
 
 ## Newspaper Stats
 
-*Scraped **24,493** Articles*
+*Scraped **24,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,098
-adaderanalk | 2,836
+adalk | 2,099
+adaderanalk | 2,837
 tamilmirrorlk | 2,879
 virakesarilk | 3,685
-dailymirrorlk | 3,841
+dailymirrorlk | 3,843
 adaderanasinhalalk | 3,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,490 (100.0%) of 24,493 articles have been extended.
+24,493 (100.0%) of 24,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Ella-Wellawaya road temporarily closed
+
+*2024-05-16 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99259/ella-wellawaya-road-temporarily-closed) · `en`
+
+The Ella - Wellawaya main road will be temporarily closed for traffic from 6.00 p.m. today (16) until 6.00 a.m. tomorrow due to the prevailing inclement weather conditions.
+
+◼️
+
+[Data](articles/2f01f42d.json)
+
+---
 
 ### Agency owner, manager arrested for illegally recruiting Sri Lankans for Russian army
 
@@ -48,25 +60,35 @@ The SLBFE said it has received 07 complaints regarding the racket operated by th
 
 [Data](articles/37d685d6.json)
 
+[Extended Data](ext_articles/37d685d6.ext.json)
+
 ---
 
-### O/L எழுதிய மாணவர்களுக்கு அவசர அறிவிப்பு
+### Emergency notice for students who wrote o/l
 
 *2024-05-16 17:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-எழுதிய-மாணவர்களுக்கு-அவசர-அறிவிப்பு/175-337436) · `ta`
 
-நடைபெற்ற கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையின் விஞ்ஞானப் பாட வினாத்தாளின் சில வினாக்களில் காணப்பட்ட குளறுபடிகள் காரணமாக, குறித்த வினாக்களுக்கு மாத்திரம் இலவசப் புள்ளிகள் வழங்கத் தீர்மானிக்கப்பட்டுள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+Due to challenging questions in the GCE O/L Science exam, the Commissioner General of Examinations, Amit Jayasundera, announced free points for affected MCQs. The Ministry of Education plans to initiate high-quality classes starting April 4th, advising principals and students to seek information from relevant educational authorities.
 
-விஞ்ஞானப் பாடத்திற்கான வினாத்தாளில் காணப்படும் சில வினாக்கள் பாடத்திட்டத்திற்கு அப்பால் காணப்படும் விடயங்களில் இருந்து தயாரிக்கப்பட்டதாக தெரிவிக்கப்பட்டிருந்தது.
+🟩
 
-இச்சம்பவத்தை அடிப்படையாகக் கொண்டு 2 MCQ வினாக்களுக்கு 2 இலவசப் புள்ளிகளை வழங்க நடவடிக்கை எடுத்துள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர குறிப்பிட்டுள்ளார்.
+The Commissioner General of Examinations Amit Jayasundera said that due to the difficulties found in some questions of the Scientific Questionnaire of the GCE Ordinary Level Examination held, it has been decided to provide free points for these questions.
 
-இதேவேளை, பரீட்சைக்கு தோற்றிய மாணவர்களுக்கான உயர்தர வகுப்புக்களை ஆரம்பிக்க தேவையான அனைத்து நடவடிக்கைகளும் தயார்படுத்தப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+It was reported that some of the questions found in the science course were prepared from the subjects beyond the curriculum.
 
-இதன்படி, உயர்தர வகுப்புக்களை எதிர்வரும் 4ஆம் திகதி ஆரம்பிக்கவுள்ளதாக கல்வி அமைச்சு குறிப்பிடுகின்றது.
+The Commissioner General of Examination Amit Jayasundara has stated that steps have been taken to provide 2 free points for 2 MCQ questions based on the incident.
+
+Meanwhile, the Ministry of Education has said that all necessary steps have been prepared to start high quality classes for the students who have passed the exam.
+
+Accordingly, the Ministry of Education states that the high -level classes will begin on the 4th of this month.
+
+The Ministry of Education said that if the information was not available, the principals could contact the provincial or zonal education authorities.
 
 ...
 
 [Data](articles/48388493.json)
+
+[Extended Data](ext_articles/48388493.ext.json)
 
 ---
 
@@ -327,6 +349,24 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 [Data](articles/9dbfd2a2.json)
 
 [Extended Data](ext_articles/9dbfd2a2.ext.json)
+
+---
+
+### Sajith bars Daily Mirror over liquor controversy
+
+*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sajith-bars-Daily-Mirror-over-liquor-controversy/155-282735) · `en`
+
+Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
+
+The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
+
+Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
+
+One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
+
+...
+
+[Data](articles/f9c416cd.json)
 
 ---
 
@@ -1291,6 +1331,22 @@ PhonePe, which uses India’s Unified Payment Interface will now allow Indian to
 [Data](articles/a495e587.json)
 
 [Extended Data](ext_articles/a495e587.ext.json)
+
+---
+
+### තොටළඟත් ලංකාවේ විශාලම තොරණක් හදයි
+
+*2024-05-16 13:15:22* · [`adalk`](https://www.ada.lk/religion/තොටළඟත්-ලංකාවේ-විශාලම-තොරණක්-හදයි/4-409674) · `si`
+
+උසින් අඩි 80කට වැඩි සහ  පළලින් අඩි 80 ක් පමණවූ ශ්‍රී ලංකාවේ තොරණ් ඉතිහාසයේ විශාලතම සහ අලංකාරයෙන් වැඩිම තොරණ තොටළඟ නාගලගම් වීදිය පොදු වෙළෙඳ පොළ ඉදිරිපිට මේ දිනවල ඉදිවෙමින් පවතිනු අද 16දා පෙරවරුවේ කැමරා ඇසට මෙසේ හසුවිය.
+
+උත්පලවර්‍ණා කතා පුවත තේමාව කොට ගෙන තොටළග ශ්‍රී වෛශාඛාලෝක තොරණ සමිතිය මගින් 69 වන වරටත් ඉදිරිපත් කරන මෙම තොරණ,  තොටළඟ වෙළෙඳ ප්‍රජාව හා ප්‍රදේශ වාසින්ගෙ දායකත්වයෙන් ඉදි වීම විශේෂත්වයකි.
+
+කටු තොරණ සහ විදුලි රටා නිර්මාණය  ප්‍රවීණ විදුලි ශිල්පී නාරම්මල  සුසන්ත පියල් ( සදහිරු ඉලෙක්ට්‍රිකල්ස් ආයතනය නාරම්මල ) විසින්  සිදු කෙරෙන අතර චිත්‍ර සහා සැලසුම ප්‍රවීණ චිත්‍ර ශිල්පී යක්කඩුවේ ආනන්ද ජයලත් ගෙනි .
+
+◼️
+
+[Data](articles/b3f5f7e0.json)
 
 ---
 
@@ -2305,75 +2361,5 @@ Earlier, seven persons, including an 8-year-old child, were killed, leaving 21 o
 [Data](articles/c65bae7f.json)
 
 [Extended Data](ext_articles/c65bae7f.ext.json)
-
----
-
-### Meal programme boosts school attendance: Parliamentary Committee
-
-*2024-05-16 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meal-programme-boosts-school-attendance-Parliamentary-Committee/108-282712) · `en`
-
-Parliament, May 16 (Daily Mirror)- School attendance has increased after the implementation of the meal programme, a Parliamentary Committee revealed.
-
-It was also disclosed that the criteria have been prepared regarding the quality of the meal and the follow-up regarding the meal programme will be done by the Provincial Department of Education, Regional Educational Services officers and Public Health Inspectors.
-
-The Committee on Ways and Means has revealed that 600,000 school students come to school without breakfast and after the implementation of the meal programme, the attendance of school children has increased.
-
-This was revealed when the Parliamentary Committee on Methods and Procedures met at the Parliament premises under the chairmanship of Patali Champika Ranawaka.
-
-The Committee Chair instructed the Ministry of Education to provide a report on the progress regarding the entire programme.
-
-...
-
-[Data](articles/fd0e0db2.json)
-
-[Extended Data](ext_articles/fd0e0db2.ext.json)
-
----
-
-### Hotel of the drug trafficker on the royal land
-
-*2024-05-16 10:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-நிலத்தில்-போதைப்பொருள்-கடத்தல்காரரின்-ஹோட்டல்/175-337409) · `ta`
-
-"Soul Beach Hotel, linked to foreign drug trafficker Shiran Basik, was demolished by authorities due to illegal construction on state-owned land. Arrests made for fraudulent documents; 14 suspects remanded till May 28."
-
-🟩
-
-The Soul Beach Hotel, located in Dehiwala, is considered to belong to Shiran Basik, a massive drug trafficker from abroad and is now suspected of being built on a state -owned land.
-
-The hotel was dismantled by the Coast Guard and the police last January after it was found to be illegal.
-
-However, a group of individuals who were carrying out construction work at the site were arrested on Tuesday for illegal construction.
-
-Special Intelligence Unit officials said that the taxpayer presented by the suspects was fake.
-
-Accordingly, 14 suspects arrested on Tuesday have been remanded until May 28 after being produced in court.
-
-According to the land survey by the Department of Government Land Survey, the land is said to be a government -owned land.
-
-◼️
-
-[Data](articles/f273f76f.json)
-
-[Extended Data](ext_articles/f273f76f.ext.json)
-
----
-
-### Fonterra considers divesting Australian, Sri Lankan businesses
-
-*2024-05-16 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonterra-considers-divesting-Australian-Sri-Lankan-businesses/108-282711) · `en`
-
-May 16 (Inside FMCG) - Fonterra Co-operative Group is considering options to divest some or all of its global consumer business and integrated businesses, namely Fonterra Oceania and Fonterra Sri Lanka.
-
-“We have conducted a strategic review, which has reinforced the role of our core business,” said Fonterra chairman Peter McBride. “This is working alongside farmers to collect a sustainable supply of milk and efficiently manufacture products valued by customers, to deliver strong returns to farmer shareholders and unit holders.”
-
-With the planned divestment, the cooperative intends to focus on being a B2B dairy nutrition provider, prioritising its ingredients and foodservice channels.
-
-“While these are great businesses with recent strengthening in performance and potential for more, ownership of these businesses is not required to fulfil Fonterra’s core function of collecting, processing and selling milk,” said Fonterra CEO Miles Hurrell.
-
-...
-
-[Data](articles/518d8de6.json)
-
-[Extended Data](ext_articles/518d8de6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 07:44:16**
+As of **2024-05-16 07:57:14**
 
 ## Newspaper Stats
 
-*Scraped **24,342** Articles*
+*Scraped **24,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,398
 dailyftlk | 1,437
 adalk | 2,077
 adaderanalk | 2,820
-tamilmirrorlk | 2,858
+tamilmirrorlk | 2,860
 virakesarilk | 3,661
-dailymirrorlk | 3,816
+dailymirrorlk | 3,820
 adaderanasinhalalk | 3,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,342 (100.0%) of 24,342 articles have been extended.
+24,342 (100.0%) of 24,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Is the flavor enhancer a health risk?
+
+*2024-05-16 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-the-flavor-enhancer-a-health-risk/108-282693) · `en`
+
+Colombo, May 16 (Daily Mirror) - Monosodium glutamate (MSG), the main common food additive or flavor enhancer, has always come under scrutiny in Sri Lanka given its potential health effects. Is it really bad for your health?
+
+While the U.S. Food and Drug Administration (FDA) considers the addition of MSG to foods to be “generally recognized as safe” (GRAS), concerns persist over among consumers regarding its adverse reactions in the long run.
+
+That’s why MSG has been a subject of controversy due to reported adverse reactions like headache, flushing, excessive sweating and chest pain.
+
+However, researchers have found no clear proof of a link between MSG and these symptoms. Researchers admit, though, that a small number of people may have short-term and long-term reactions to MSG. The only way to prevent a reaction is to cut out foods that have MSG in them.
+
+...
+
+[Data](articles/6f0326a2.json)
+
+---
 
 ### Today too. Heavy rains exceeding 100 mees
 
@@ -113,6 +131,22 @@ The CNGA, a prestigious industry association representing over 1,400 major membe
 [Data](articles/bf207252.json)
 
 [Extended Data](ext_articles/bf207252.ext.json)
+
+---
+
+### Official garment worker minimum wage not an accurate picture of total earnings: JAAF
+
+*2024-05-16 03:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Official-garment-worker-minimum-wage-not-an-accurate-picture-of-total-earnings-JAAF/108-282686) · `en`
+
+The Joint Apparel Association Forum (JAAF) stressed that the official garment worker minimum wage does not paint an accurate image of the total earnings of a garment worker in Sri Lanka.
+
+Responding to a recent article published on Just-Style, JAAF General Secretary Yohan Lawrence pointed out that the current two-tiered system of a fixed basic wage is complemented by productivity-based payments along with other non-cash benefits.
+
+The Clean Clothes Campaign, the international alliance of labour unions and nongovernmental organisations, claimed that Sri Lanka’s garment industry minimum wage pay scale in general has “failed to cover a worker family’s needs, due to high inflation”.
+
+...
+
+[Data](articles/01b999f3.json)
 
 ---
 
@@ -374,6 +408,24 @@ Voice communication stands as a cornerstone of any successful business operation
 
 ---
 
+### Rupee expected to dip to Rs.310-320 range later this year: FCR
+
+*2024-05-16 02:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rupee-expected-to-dip-to-Rs-310-320-range-later-this-year-FCR/108-282689) · `en`
+
+The Sri Lankan rupee is likely to depreciate in the range of Rs.310-320 against the US dollar in the latter part of the year, First Capital Research (FCR) said.
+
+This will be driven by the heightened demand for imports and restart of foreign loan repayments upon completion of the External Debt Restructuring (EDR).
+
+The rupee is expected to appreciate up to Rs.295 in the first half of the year, as the higher taxes eat into the rising consumer demand in the short term, amid the escalation in the cost of living.  The indicative rate of the USD/LKR spot exchange rate stood at Rs.300.83 yesterday.
+
+“Slower consumer demand may lead to a reduction in imports, while the peak tourism season in the 1Q 2024 and higher worker remittances could further bolster the LKR. Subsequently, some stabilisation is anticipated as consumer demand improves and tourism income moderates,” FCR said.
+
+...
+
+[Data](articles/c5a35eb8.json)
+
+---
+
 ### United Motors Lanka PLC announces appointment of Vish Govindasamy as Independent Non-Executive Director
 
 *2024-05-16 02:08:53* · [`dailyftlk`](https://www.ft.lk/business/United-Motors-Lanka-PLC-announces-appointment-of-Vish-Govindasamy-as-Independent-Non-Executive-Director/34-761847) · `en`
@@ -533,6 +585,38 @@ According to reports, the US Ambassador has also visited areas released as high 
 [Data](articles/b0cb548d.json)
 
 [Extended Data](ext_articles/b0cb548d.ext.json)
+
+---
+
+### குடும்பப் பெண் வழுக்கி வீழ்ந்து உயிரிழப்பு
+
+*2024-05-16 01:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பப்-பெண்-வழுக்கி-வீழ்ந்து-உயிரிழப்பு/175-337396) · `ta`
+
+வீட்டின் மேல் மாடிக்குத் துணிகளை எடுப்பதற்காகச் சென்றிருந்த இளம் தாய் ஒருவர் வழுக்கி வீழ்ந்து  உயிரிழந்துள்ளார்.
+
+கம்பளை, நாராங்விட்ட பகுதியைச் சேர்ந்த 35 வயதான இரு பிள்ளைகளின் தாயே நேற்று இவ்வாறு உயிரிழந்துள்ளார்.
+
+மதியம் மழை பெய்தபோது, மேல் மாடியில் காயப்போட்டிருந்த துணிகளை எடுப்பதற்காக அவர் சென்றுள்ளார். இதன்போதே இந்த அனர்த்தம் இடம்பெற்றுள்ளது. (a)
+
+◼️
+
+[Data](articles/943a4a60.json)
+
+---
+
+### அஷ்ரப் அருங்காட்சியகம் நிர்மாணிக்க அறிவுறுத்தல்
+
+*2024-05-16 01:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஷ்ரப்-அருங்காட்சியகம்-நிர்மாணிக்க-அறிவுறுத்தல்/175-337395) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான மர்ஹூம் எம்.எச்.எம்.அஷ்ரப் ஆற்றிய சேவைகளை கௌரவிக்கும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைவாக 'அஷ்ரப் நினைவு அருங்காட்சியகம்' ஒன்றை நிர்மாணிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+எம்.எச்.எம். அஷ்ரபின் 24 ஆவது நினைவு தினத்தை முன்னிட்டு திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் எச்.எம்.எம்.ஹரீஸ் மற்றும் முஸ்லிம் சமூகத்தினரின் வேண்டுகோளுக்கு இணங்க எம்.எச்.எம்.அஷ்ரபின் பிறந்த ஊரான கல்முனையில் இந்த நினைவு அருங்காட்சியகம் நிர்மாணிக்கப்பட உள்ளது.
+
+இத்திட்டத்திற்காக 25 மில்லியன் ரூபா ஒதுக்கப்படும் என்று தெரிவித்த ஜனாதிபதி, அதற்கான நிர்மாணப் பணிகளை உடனடியாக ஆரம்பிக்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார் என ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e73e7cd4.json)
 
 ---
 
@@ -1105,6 +1189,18 @@ That is why the cutting of part of their face depends on. By 2028, we get the fa
 [Data](articles/5a520ef5.json)
 
 [Extended Data](ext_articles/5a520ef5.ext.json)
+
+---
+
+### Against privatising Govt. institutions
+
+*2024-05-15 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-privatising-Govt-institutions/110-282659) · `en`
+
+A protest was held in front of the Fort Railway station against the government privatising government institutions, including Telecom, Insurance and Milco. The protesters also demanded that the government abolish the Electricity Act, which will become a huge burden to the public. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/822fedff.json)
 
 ---
 
@@ -2117,129 +2213,5 @@ As a result, the International Cricket Council and the West will have decided to
 [Data](articles/6b408b48.json)
 
 [Extended Data](ext_articles/6b408b48.ext.json)
-
----
-
-### Sri Lanka economic governance forum hosted by Advocata
-
-*2024-05-15 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-governance-forum-hosted-by-advocata-163203/) · `en`
-
-ECONOMYNEXT – A forum on economic “Charting the Course: Revitalizing Economic Governance for Prosperity” will be held on May 18, with a high level panel from public sector, civil society and legal professions taking part.
-
-It will examine finding of an IMF Governance Diagnostics Assessment and will “engage in critical discussions surrounding the challenges and opportunities inherent in contemporary governance frameworks.”
-
-“We are at a crucial juncture where effective governance is paramount for economic prosperity and societal well-being,” Murtaza Jafferjee, Chair of the Advocata Institute said in a statement.
-
-“This conference provides a unique opportunity for stakeholders to come together, share insights, and chart a path forward towards more resilient and equitable governance structures.”
-
-...
-
-[Data](articles/30e2f2be.json)
-
-[Extended Data](ext_articles/30e2f2be.ext.json)
-
----
-
-### Sri Lanka defence university gets almost 1,000 applicants for medical degree
-
-*2024-05-15 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-defence-university-gets-almost-1000-applicants-for-medical-degree-163196/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s General Sir John Kotelawala Defence University (KDU) has received 956 applications for its paid medical degree program from students who passed local and London A Levels, State Minister of Defense, Premitha Bandara Tennakoon said.
-
-“We have received 956 eligible applications; 868 from local syllabus and from London syllabus 88,” Tennakoon told reporters Wednesday.
-
-Sri Lanka’s cabinet approved paid medical degrees at KDU on April 2024. KDU charges 12.5 million rupees for its medical degree.
-
-In 2023, the University of Colombo started a paid medical degree for foreign students at a fee of 62,500 dollars.
-
-Sri Lanka calls foreigners to enroll in Colombo University for medical degree; to charge $62,500
-
-The government has also said it will change its medical ordinance to accept degrees awarded by internationally recognized universities. (Colombo/May15/2024)
-
-◼️
-
-[Data](articles/ea86e02b.json)
-
-[Extended Data](ext_articles/ea86e02b.ext.json)
-
----
-
-### T20I all-rounder rankings: Wanindu and Shakib tied at the top
-
-*2024-05-15 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99236/t20i-all-rounder-rankings-wanindu-and-shakib-tied-at-the-top) · `en`
-
-Two stars of the game are tied at the top of the T20I all-rounder rankings with a little more than a fortnight until the commencement of the T20 World Cup.
-
-The race to be the No.1 ranked all-rounder at the start of the ICC Men’s T20 World Cup has further intensified as two players share top billing following the latest update to the ICC Men’s T20 Player Rankings.
-
-Just 23 rating points separate the top five players on the updated list for T20I all-rounders, with Bangladesh veteran Shakib Al Hasan joined by Sri Lanka captain Wanindu Hasaranga in the top spot with just over a fortnight to the start of the T20 World Cup.
-
-Shakib drops three rating points following two appearances at the backend of Bangladesh’s recent five-match T20I series against Zimbabwe, with Hasaranga joining the veteran in a share of the top spot and Afghanistan’s Mohammad Nabi just a further 10 rating point adrift.
-
-...
-
-[Data](articles/8e4b5dac.json)
-
-[Extended Data](ext_articles/8e4b5dac.ext.json)
-
----
-
-### Faninu is an unexpected place in the ICC
-
-*2024-05-15 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196651) · `si`
-
-In the ICC Sri Lanka T20 tournament, Faninu emerged unexpectedly, while Shakib Al Hasan from Bangladesh secured the top spot.
-
-🟩
-
-Sri Lanka T20 of Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty-Twenty-Twenty-three-year-old ratings have been identified.
-
-Accordingly, the other player who is the first place is the Bangladesh player Shakib al Hassan.
-
-◼️
-
-[Data](articles/927e5902.json)
-
-[Extended Data](ext_articles/927e5902.ext.json)
-
----
-
-### History
-
-*2024-05-15 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/183617) · `ta`
-
-On May 13, 1975, J.R. Jayawardene resigned as Opposition Leader. His resignation was submitted to the National Government Council on May 15, 1975, making headlines.
-
-🟩
-
-When the late former President and former United National Party (UNP) leader JR Jayawardene held the post of Opposition Leader, his MP on May 13, 1975. The post resigned.
-
-J.R.. On the day of May 15, 1975, the news of the submission of his resignation letter to the National Government Council. The resignation submission can be found on the front page with an editorial.
-
-◼️
-
-[Data](articles/96109104.json)
-
-[Extended Data](ext_articles/96109104.ext.json)
-
----
-
-### Shakib and Hasaranga share top spot in T20 all-rounder rankings
-
-*2024-05-15 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-and-Hasaranga-share-top-spot-in-T20-all-rounder-rankings/108-282654) · `en`
-
-(ICC) - Two stars of the game are tied at the top of the T20I all-rounder rankings with a little more than a fortnight until the commencement of the T20 World Cup.
-
-The race to be the No.1 ranked all-rounder at the start of the ICC Men's T20 World Cup has further intensified as two players share top billing following the latest update to the ICC Men's T20 Player Rankings.
-
-Just 23 rating points separate the top five players on the updated list for T20I all-rounders, with Bangladesh veteran Shakib Al Hasan joined by Sri Lanka captain Wanindu Hasaranga in the top spot with just over a fortnight to the start of the T20 World Cup.
-
-Shakib drops three rating points following two appearances at the backend of Bangladesh's recent five-match T20I series against Zimbabwe, with Hasaranga joining the veteran in a share of the top spot and Afghanistan's Mohammad Nabi just a further 10 rating point adrift.
-
-...
-
-[Data](articles/0f9c14d5.json)
-
-[Extended Data](ext_articles/0f9c14d5.ext.json)
 
 ---

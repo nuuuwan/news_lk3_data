@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 16:18:19**
+As of **2024-05-16 16:33:31**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,462 (100.0%) of 24,464 articles have been extended.
+24,464 (100.0%) of 24,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### උසස් පෙළ ආරම්භය ජූනි 4දා
+### Advanced Level on June 4th
 
 *2024-05-16 15:49:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ආරම්භය-ජූනි-4දා/11-409681) · `si`
 
-මෙවර අ.පො.ස (සාමාන්‍ය පෙළ) විභාගයට පෙනී සිටි සිසුන් සඳහා පාසල්වල උසස්පෙළ පන්ති එළ‌ෙඔන ජූනි මස 04 වැනිදා සිට ආරම්භ කිරීමට කටයුතු සිදුකරන බව අධ්‍යාපන අමාත්‍යංශය වක්‍රලේඛයක් නිකුත් කරමින් දන්වා සිටියි.
+On June 4th, the Ministry of Education announced the commencement of Advanced Level classes for students who took the GCE O/L Exam. The decision is under review by provincial and zonal education authorities.
 
-මෙම චක්ක්‍රලේඛය මේ වනවිටත් නොලැබී ඇති විදුහල්පති වරුන් ඒ් පිළිබඳව  පළාත් සහ කලාප අධ්‍යාපන කාර්පාල වලින් විමසිය හැකි බව අධ්‍යාපන අමාත්‍යංශය වැඩි දුරටත් දන්වා සිටියි.
+🟩
+
+The Ministry of Education has issued a securement to start the Advanced Level Classes in the schools to sit for students who sat for GCE (O / L) Examination.
+
+The Ministry of Education has further stated that the Circular is still inquiry into provincial and zonal education Carpala.
 
 ◼️
 
 [Data](articles/cc4acbf6.json)
+
+[Extended Data](ext_articles/cc4acbf6.ext.json)
 
 ---
 
@@ -498,21 +504,31 @@ These discussions have also participated in the veterinarians' Association, Anim
 
 ---
 
-### කල්පිටියේ දූපත් හයක් බදුගත් සමාගම් පහකින්  කෝටි හයක බදු පොල්ලක්
+### A six islands in five islands in Kalpitiya
 
 *2024-05-16 13:46:31* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටියේ-දූපත්-හයක්-බදුගත්-සමාගම්-පහකින්--කෝටි-හයක-බදු-පොල්ලක්/11-409676) · `si`
 
-කල්පිටිය සංචාරක සංවර්ධන ව්‍යාපෘතිය යටතේ ආයෝජන කටයුතු සඳහා  දූපත් හයක් බද්දට ගත් පුද්ගලික සමාගම් පහකින් නියමිත දිනට ලැබිය යුතු   රුපියල් 5,90,25,931 ක බදු මුදලක් අයකර  ගැනීමට සංචාරක සංවර්ධන අධිකාරිය අපොහොසත් වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+The Tourism Development Authority (TDA) in Sri Lanka faces criticism for failing to collect taxes from several islands, including Kalpitiya, leading to financial losses. The National Audit Office highlighted this issue, stating that the TDA did not remit funds owed between 2022.120 and 2022.30. The audit also pointed out discrepancies in the handling of funds by former Ceylon Tourist Council President Sinni Arachchle and others involved in unregulated projects. The report suggests significant tax evasion, particularly by the company leasing Ippantiv Island, and calls for improved financial management and transparency.
 
-එම සමාගම් විසින් නිසි පරිදි මාසිකව බදු  වාරික  නොගෙවීම නිසා   අවසන් විගණිත දිනයවූ  2022.11.30 දක්වා එම හිග බදු මුදල අයවී නොතිබූ  බව   සංචාරක සංවර්ධන ව්‍යාපෘති පිළිබඳ කාර්ය සාධන විගණන වාර්තාවක් මගින් ජාතික විගණන කාර්යාලය පෙන්වා දෙයි.
+🟩
 
-සංචාරක සංවර්ධන අධිකාරිය  මෙලෙස බදු මුදල් අයකරගෙන  නැත්තේ 2010 වර්ෂයේ එවකට ජනාධිපතිවරයා විසින් ලංකා සංචාරක මන්ඩලය  වෙත නිදහස් කර තිබූ   සින්න ඉරමතිව්,බටහිර ඉරමතිව්,සින්න ආරච්චල් සහ ඉරමතිවු යන දූපත් හතර සහ ඊට පෙර නිදහස් කර තිබූ ඉප්පන්තිව් සහ වෙල්ලයි යන දූපත් ගිවිසුම් මත  බදුගෙන තිබූ   පුද්ගලික සමාගම් පහකිනි.
+The Tourism Development Authority has revealed that the tourism development authority has failed to recover a tax of Rs.
 
-මෙම දූපත් අතරින්  වැඩිම බදු මුදල වූ රුපියල් 5,07,96,768 ක මුදලක් ඉප්පන්තිව් දූපත බද්දට ගත් සමාගමෙන්  අය විය යුතුව තිබූ බවද   විගණනයෙන් පෙන්වා දී ඇත.
+The National Audit Office states that the shortage of tourism has not been paid to 2022.120 to 2022.30 of the company due to the final audit date by the companies.
 
-...
+The Tourism Development Authority has not been recovered by the then President of the Ceylon Tourist Council, Sinni Arachchle, Sinnna Aradhivin, Sinnna Arachchle and Iraksters, and the Fourts Unrulated ProjectsBy five.
+
+The audit has shown that the highest tax amount of these islands had to be the company that leased the Ippantiv Island.
+
+The Audit Report states that the Travel Development Authority has not done so, but the Travel Development Authority has not done so.
+
+The circuit development Authority has shown that over 10 years to invest in the 2010 tornics, Sinnna Arachchle, Sinnay Arachchle and the Four Secretaries that were assigned 2010.
+
+◼️
 
 [Data](articles/9b7c9fed.json)
+
+[Extended Data](ext_articles/9b7c9fed.ext.json)
 
 ---
 
@@ -2129,6 +2145,8 @@ Corruption in Sri Lanka manifests in various forms, from high-level political gr
 *2024-05-16 09:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/labour-party-commits-to-referring-sri-lankan-war-criminals-to-international-criminal-court/) · `en`
 
 On Mullivaikkal Remembrance Day event organised by Tamils for Labour in the House of Commons yesterday, Keir Starmer, Leader of the Labour Party, has issued a poignant message through Anneliese Dodds MP, Chair of the Labour Party and Shadow Secretary of State for Women and Equalities, honoring the memory of tens of thousands of Tamil people who lost their lives and suffered egregious international crimes during the final stages of the Sri Lankan War.  Labour Party is widely expected to win the next General Election in the UK which is expected to be held this year.
+
+Anneliese Dodds, Chair of the Labour Party delivering Keir Starmer’s Mullivaikkal Message
 
 ...
 

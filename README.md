@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 15:33:37**
+As of **2024-05-16 15:52:15**
 
 ## Newspaper Stats
 
-*Scraped **24,460** Articles*
+*Scraped **24,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,093
 adaderanalk | 2,834
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
-dailymirrorlk | 3,836
+dailymirrorlk | 3,837
 adaderanasinhalalk | 3,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,455 (100.0%) of 24,460 articles have been extended.
+24,460 (100.0%) of 24,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ In his new role, Mr. Perera is tasked with conducting independent and impartial 
 
 [Data](articles/c1b0b0eb.json)
 
+[Extended Data](ext_articles/c1b0b0eb.ext.json)
+
 ---
 
 ### A/L classes for this year’s O/L students to begin on Jun. 4
@@ -58,33 +60,47 @@ The circular to this effect has already been issued by the Education Ministry to
 
 [Data](articles/055fe7e7.json)
 
+[Extended Data](ext_articles/055fe7e7.ext.json)
+
 ---
 
-### අපොස සාපෙළ ලියූ සිසුන්ට වැදගත් නිවේදනයක්
+### The GCE Overview of the Group
 
 *2024-05-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196684) · `si`
 
-මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට මුහුණදුන් සිසුන් සඳහා අපොස උසස්පෙළ පන්ති ආරම්භ කිරීමට සියලු කටයුතු සූදානම් කර ඇති බව නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The Ministry of Education has prepared for the GCE O/L exams, issuing directives to Provincial Education Authorities. Students seeking details should contact their schools.
 
-ඊට අදාළ චක්‍රලේඛය පළාත් අධ්‍යාපන බලධාරීන්ට යොමුකර ඇති බවත් ඒ පිළිබඳ තොරතුරු නොලැබුණු විදුහල්පතිවරුන්ට අදාළ පළාත් සහ කොට්ඨාස කාර්යාලවලින් අවශ්‍ය තොරතුරු ලබාගත හැකි බවත් එම නිවේදනයේ සඳහන් වෙයි..
+🟩
 
-එසේම වැඩි තොරතුරැ අවශ්‍ය සිසුන් ඒ සම්බන්ධයෙන් පාසල් බලධාරීන්ගෙන් විමසිය හැකි බවත් එහි දැක්වෙයි.
+The Ministry of Education has issued a statement that all arrangements have been made to start the GCE O / L examination this year.
+
+The statement states that the relevant circular has been directed to the Provincial Education Authorities and the relevant provincial and divisions can be obtained from the respective provinces and divisions.
+
+The students who need more information can be consulted from the school authorities.
 
 ◼️
 
 [Data](articles/65d5abbb.json)
 
+[Extended Data](ext_articles/65d5abbb.ext.json)
+
 ---
 
-### එදා කැරට් අද දෙහි
+### Carrots today
 
 *2024-05-16 15:04:35* · [`adalk`](https://www.ada.lk/breaking_news/එදා-කැරට්-අද-දෙහි/11-409680) · `si`
 
-පසුගිය කාලයේ වෙලඳපලේ කැරට් මිල ඉහල ගියා සේම මේ වනවිට දිවයිනේ බොහෝ ප්‍රදේශවල දෙහි කිලෝවක මිල රු.3000ද ඉක්මවා ගොස් ඇත. විශේෂයෙන් දඹුල්ල ආර් ථික මධ්‍යස්තානය වෙත ඌව පලාතෙන් දෙහි සැපයෙන නමුත් පෙර පරිදි ප්‍රමාණවත් තරම් දෙහි නොලැබෙන බව එම මඨ්‍යස්ථානය දන්වා සිටියි. මේ හේතුවෙන් දෙහි තොග හා සිල්ලර මිල විශාල ලෙස ඉහල ගොස් ඇති බව එහි වෙළඳුන් පවසති.
+Carrot prices exceed Rs.3000/kg nationwide, affecting consumers and farmers alike. In the Uva Province, supply issues persist despite efforts to increase production. Merchants report rising costs due to increased lime consignments.
+
+🟩
+
+The price of carrot prices in the market has increased, so far the price of a kilo of kilogram has exceeded Rs.3000 in many parts of the country.. The gardener is especially from the Uva Province from the Uva Province, which is provided in the Uva Province but will not be more sufficient than before. The merchants say that the lime consignment and retail prices have increased.
 
 ◼️
 
 [Data](articles/83f08e0a.json)
+
+[Extended Data](ext_articles/83f08e0a.ext.json)
 
 ---
 
@@ -106,25 +122,31 @@ The said complaint has been filed seeking an investigation in relation to how he
 
 ---
 
-### ග්‍රාම නිලධාරී වැඩවර්ජනය නිසා දේහය තාමත් ගේ ඇතුලේ
+### The remains are still in the house due to the Grama Niladhari strike
 
 *2024-05-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196682) · `si`
 
-සේවා ව්‍යවස්ථාවක් ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ග්‍රාම නිලධාරීන් ආරම්භ කළ තෙදින අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (16) තුන්වන දිනටත් ක්‍රියාත්මක වෙයි.
+Grama Niladhari strike disrupts services, leading to discomfort among locals. A 72-year-old dies without assistance, highlighting the impact of the strike on vulnerable communities.
 
-මේ අතර ග්‍රාම නිලධාරී වර්ජනය හේතුවෙන් නිවෙස්වල සිදුවන  ස්වභාවික මරණවලට අදාළ කටයුතු සිදුකරගෙන යෑමට නොහැකිව ජනතාව දැඩි අපහසුතාවයට පත්වී සිටී.
+🟩
 
-එවැනි සිදුවීමක් අද වාර්තා වුණේ පානදුර බටහිර 672 ඩී ග්‍රාම නිලධාරී වසමෙනි.
+The trade union action to commence the dominant leave of the three demands, including a service minister, will continue today (16).
 
-72 හැවිරිදි වයෝවෘද්ධ පුද්ගලයකු නිවසේදී මියගොස් ඇති අතර නිවැසියන් ග්‍රාම නිලධාරීවරයා සම්බන්ධ කරගැනීමට නොහැකිව අපහසුතාවට පත්විය.
+Meanwhile, the people have been severely uncomfortable due to the strike of the Natural Death at homes due to the strike of the Grama Niladhari.
 
-"ග්‍රාම නිලධාරීන්ගේ ප්‍රශ්නය බලපාන්නේ මිනිස්සුන්ට. එදාවේලත් අමාරුවෙන් කන මිනිස්සු මේ වගේ දේවල් වුණාම දැඩි ලෙස අසරණ වෙනවා."
+Such an incident today was reported from the Panadura West 672D Grama Niladhari Division.
 
-"ග්‍රාම නිලධාරීවරයා එන්නම් කියලා කිව්වා... ඒත් තාම නැහැ. වැඩවර්ජන කියලා කිව්වට වැඩක් නැහැනේ... මිනිහෙක් අසරණ වුණාම පොඩ්ඩක් බලන්න ඕනේ."
+A 72-year-old elderly person died at home and residents were unable to contact the Grama Niladhari.
+
+"The question of the Grama Niladhari is affected by people. People in Each and difficult people will be very helpless when they become like this. "
+
+"The Grama Niladhari calls on. But not yet. It's worth the strikes.. You have to look at the help of a man. "
 
 ◼️
 
 [Data](articles/696b7a3f.json)
+
+[Extended Data](ext_articles/696b7a3f.ext.json)
 
 ---
 
@@ -145,6 +167,24 @@ Dr. Balasingham stated that a survey is also conducted in Sri Lanka once every 5
 [Data](articles/2385e050.json)
 
 [Extended Data](ext_articles/2385e050.ext.json)
+
+---
+
+### Mayantha Dissanayake appointed SJB Nuwara Eliya District Leader
+
+*2024-05-16 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mayantha-Dissanayake-appointed-SJB-Nuwara-Eliya-District-Leader/108-282732) · `en`
+
+Samagi Jana Balawegaya (SJB) national list MP Mayantha Dissanayake has been appointed as the party's District Leader for Nuwara Eliya.
+
+Dissanayake, who made this announcement at a media briefing said he has also been appointed as the party organiser for the Nuwara Eliya constituency.
+
+He said he received the letters of appointment from party leader Sajith Premadasa.
+
+The propaganda in Nuwara Eliya was earlier handled by SJB ally, the Tamil Progressive Alliance led by MP Mano Ganesan.
+
+◼️
+
+[Data](articles/948d76f9.json)
 
 ---
 
@@ -2277,33 +2317,5 @@ However, researchers have found no clear proof of a link between MSG and these s
 [Data](articles/bc602337.json)
 
 [Extended Data](ext_articles/bc602337.ext.json)
-
----
-
-### CEB utility commissions demands to provide electricity tariffs
-
-*2024-05-16 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196662) · `si`
-
-The Public Utilities Commission requested the Ceylon Electricity Board to submit proposals for reducing electricity tariffs by the 17th. The deadline was extended from the 10th due to non-submission. The commission plans to review these proposals and initiate the process to lower tariffs, aiming to announce the percentage decrease in July.
-
-🟩
-
-The Public Utilities Commission has asked that the Ceylon Electricity Board has asked the Ceylon Electricity Board to give the proposals for the reduction of the proposals to the Commission to the 17th.
-
-The Public Utilities Commission was taken to extend the period until the 10th of the request made by the Ceylon Electricity Board on the request of the following proposals.
-
-However, the Chairman of the Public Utilities Commission Professor Manjula Fernando said that the Ceylon Electricity Board (PUCSF) has not been submitted to the Commission on the 10th.
-
-Accordingly, the Public Utilities Commission made reviscut to the Ceylon Electricity Board.
-
-Prof. Manjula Fernando said that the Ceylon Electricity Board (CEB) has asked the Ceylon Electricity Board for tomorrow.
-
-After receiving the proposals, the procedure to reduce the electricity tariffs will be launched and the percentage of the electricity tariff can be stated in July.
-
-◼️
-
-[Data](articles/3d182db8.json)
-
-[Extended Data](ext_articles/3d182db8.ext.json)
 
 ---

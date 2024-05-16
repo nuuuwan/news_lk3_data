@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 20:52:18**
+As of **2024-05-16 21:03:30**
 
 ## Newspaper Stats
 
-*Scraped **24,515** Articles*
+*Scraped **24,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,76 @@ adalk | 2,103
 adaderanalk | 2,838
 tamilmirrorlk | 2,882
 virakesarilk | 3,687
-dailymirrorlk | 3,847
-adaderanasinhalalk | 3,911
+dailymirrorlk | 3,848
+adaderanasinhalalk | 3,912
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,514 (100.0%) of 24,515 articles have been extended.
+24,515 (100.0%) of 24,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### සාමාන්‍ය පෙළ විභාගයේ තවත් අක්‍රමිකතාවයක් ?
+### රුසියාවට පිරිස් යැවීමේ තවත් සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-05-16 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196697) · `si`
+
+තවත් පිරිසක් රුසියාවට යැවීම සඳහා මුදල් ලබාගත් බව කියන සැකකරුවෙකු ඊයේ (15) රාත්‍රියේ මොනරාගල දඹගල්ල ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු හෙට (17) දින මොනරාගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/3f209c17.json)
+
+---
+
+### Prasanna Ranaweera assaults porter at BIA
+
+*2024-05-16 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prasanna-Ranaweera-assaults-porter-at-BIA/108-282744) · `en`
+
+Colombo, May 16 (Daily Mirror) - State Minister of Small and Medium Enterprises Development, Prasanna Ranaweera, has been accused of assaulting a porter at the Bandaranaike International Airport (BIA).
+
+The altercation occurred as the minister accompanied his wife, who was scheduled to travel overseas today.
+
+Sources told Daily Mirror that that the minister, along with his armed security personnel, attempted to enter the airport through the main entrance.
+
+However, airport security officers intervened, informing the minister that his security detail could not bring firearms into the airport. This prompted an alleged verbal outburst from Ranaweera, who reportedly threatened several security officers.
+
+The situation escalated when a porter assisting with the luggage of the minister's wife was allegedly assaulted. Witnesses claim the conflict arose after the porter objected to receiving only Rs. 750 instead of the standard Rs. 1,000 fee clearly posted at the airport.
+
+...
+
+[Data](articles/199c2363.json)
+
+---
+
+### Another irregularity of the O / L examination?
 
 *2024-05-16 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196696) · `si`
 
-සාමාන්‍ය පෙළ විභාගයේ තවත් අක්‍රමිකතා කිහිපයක් සම්බන්ධයෙන් අද (16) ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාවට පැමිණිලි ඉදිරිපත් කෙරුණි.
+The Human Rights Commission of Sri Lanka has filed complaints about irregularities in the 2023 GCE Ordinary Level Examination, including missing sections in the Geography exam for 14 students and interruptions for two special needs students. The examination faced accusations of errors across various halls.
 
-ඒ අනුව මිනුවන්ගොඩ පාසලක විභාගයට පෙනීසිටි දරුවන් 14 දෙනෙකුට භූගෝල විද්‍යාව ප්‍රශ්න පත්‍රයේ ඇතැම් කොටස් ලබානොදුන් බවට චෝදනා එල්ලවී තිබේ.
+🟩
 
-එමෙන්ම විශේෂ අවශ්‍යතා සිසුන් දෙදෙනකුටත් පරීක්ෂකවරුන්ගෙන් බාධා එල්ලවූ බවට පැමිණිලිකරුවන් චෝදනා කරයි.
+The Human Rights Commission of Sri Lanka (HRC) has filed complaints regarding several more disorders of the GCE Ordinary Level Examination.
 
-ඊයේ (15) නිමාවට පත්වූ 2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ඇතැම් ප්‍රශ්න පත්‍රවල දෝෂ තිබූ බවට සහ විභාග ශාලා කිහිපයක අක්‍රමිකතා සිදුවූ බවට දිගින් දිගටම චෝදනා එල්ල වුණි.
+Accordingly, 14 children have been accused of not given some sections of the Geography issue.
 
-මෙවන් පසුබිමක මිනුවන්ගොඩ අධ්‍යාපන කලාපයේ අල්අමාන් මුස්ලිම් මහා විද්‍යාලයේ දෙමළ මාධ්‍යයෙන් විභාගයට පෙනීසිටි දරුවන් 14 දෙනෙකුට භූගෝල විද්‍යාව පළමු ප්‍රශ්න පත්‍රය හා සිතියම කොටස ලබා නොදුන් බවට එම සිසුන් චෝදනා කරයි.
+Plaintins complain that two special needs were interrupted by the inspectors.
+
+The 2023 GCE Ordinary Level Examination had been accused of errors and disorders of several examination halls.
+
+The students accused 14 children who have sent the first question paper and the map of geography on the Tamil medium of the Almaan Muslim Maha Vidyalaya in Minuwangoda.
 
 ◼️
 
 [Data](articles/3096adeb.json)
+
+[Extended Data](ext_articles/3096adeb.ext.json)
 
 ---
 
@@ -2327,63 +2367,5 @@ Sri Lanka opened an inquiry last week into the recruitment of its citizens for t
 [Data](articles/e2a850c2.json)
 
 [Extended Data](ext_articles/e2a850c2.ext.json)
-
----
-
-### NIA arrests wanted accused in espionage case involving Sri Lankan
-
-*2024-05-16 11:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-arrests-wanted-accused-in-espionage-case-involving-Sri-Lankan/108-282719) · `en`
-
-India, May 16 (The Week) - The National Investigation Agency (NIA) on Wednesday arrested an accused in an espionage case involving a Sri Lankan and a Pakistani national. The accused, Nuruddin alias Rafi, had absconded after jumping bail.
-
-Rafi was carrying a cash reward of Rs 5 lakh. He was arrested from the Rajiv Nagar area of Mysuru, Karnataka by the NIA team.
-
-A house search was also conducted after his arrest and several "incriminating materials", including mobile phones, laptop, pen drives and a drone, were recovered, said the agency in an official statement.
-
-When Rafi failed to appear before the NIA Special Court, Chennai, after being released on bail, a non-bailable warrant was issued against him.
-
-The court had declared him a proclaimed offender on May 7 this year.
-
-The case is related to a terror conspiracy to carry out explosions at the US Consulate in Chennai and the Israel Embassy in Bengaluru in 2014.
-
-...
-
-[Data](articles/11b7de06.json)
-
-[Extended Data](ext_articles/11b7de06.ext.json)
-
----
-
-### Friends dispute ends dead
-
-*2024-05-16 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196673) · `si`
-
-In Horahena, Hokandara, a 26-year-old man was assaulted and died from injuries at Athurugiriya Hospital. The attacker, who was released 10 days prior, was arrested by Athurugiriya Police. Friends' dispute led to the fatal incident, under investigation by Nugegoda Criminal Investigators and set to appear in Kaduwela Magistrate's Court.
-
-🟩
-
-A young man was assaulted in a house in Horahena, Hokandara.
-
-Our correspondent said that the accident had occurred at around 7.30 pm yesterday.
-
-The victim has been admitted to the Athurugiriya Hospital due to a blow to the youth.
-
-The deceased has been identified as a 26 year old resident of Horahena Road, Hokandara.
-
-The attack was also taken into custody by the Athurugiriya Police today (16).
-
-The attack was released 10 days ago, the Athurugiriya Police said.
-
-The two are friends and the police suspect that the attack has occurred due to a dispute between the two.
-
-The site inspection of the Nugegoda Criminal Investigators (SEC) was held this morning.
-
-Police are conducting further investigations into the murder, and the suspect is to be produced before the Kaduwela Magistrate's Court.
-
-◼️
-
-[Data](articles/c4587e27.json)
-
-[Extended Data](ext_articles/c4587e27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 15:18:22**
+As of **2024-05-16 15:33:37**
 
 ## Newspaper Stats
 
-*Scraped **24,455** Articles*
+*Scraped **24,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,092
-adaderanalk | 2,832
+adalk | 2,093
+adaderanalk | 2,834
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
 dailymirrorlk | 3,836
-adaderanasinhalalk | 3,899
+adaderanasinhalalk | 3,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,452 (100.0%) of 24,455 articles have been extended.
+24,455 (100.0%) of 24,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Sri Lanka’s first-ever Sports Ombudsman appointed
+
+*2024-05-16 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99256/sri-lankas-first-ever-sports-ombudsman-appointed-) · `en`
+
+Retired administrative officer W.A. Chulananda Perera has been appointed as the first-ever Sports Ombudsman of Sri Lanka by the Minister of Sports Harin Fernando.
+
+In his new role, Mr. Perera is tasked with conducting independent and impartial inquiries into complaints from individuals aggrieved by any decision or action of any registered national sports association or federation.
+
+◼️
+
+[Data](articles/c1b0b0eb.json)
+
+---
+
+### A/L classes for this year’s O/L students to begin on Jun. 4
+
+*2024-05-16 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99255/al-classes-for-this-years-ol-students-to-begin-on-jun-4) · `en`
+
+The Ministry of Education says that G.C.E. Advanced Level classes for the students who sat for the G.C.E. Ordinary Level Examination this year, will commence on June 04, 2024.
+
+The circular to this effect has already been issued by the Education Ministry to education authorities of all provinces.
+
+◼️
+
+[Data](articles/055fe7e7.json)
+
+---
+
+### අපොස සාපෙළ ලියූ සිසුන්ට වැදගත් නිවේදනයක්
+
+*2024-05-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196684) · `si`
+
+මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට මුහුණදුන් සිසුන් සඳහා අපොස උසස්පෙළ පන්ති ආරම්භ කිරීමට සියලු කටයුතු සූදානම් කර ඇති බව නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+ඊට අදාළ චක්‍රලේඛය පළාත් අධ්‍යාපන බලධාරීන්ට යොමුකර ඇති බවත් ඒ පිළිබඳ තොරතුරු නොලැබුණු විදුහල්පතිවරුන්ට අදාළ පළාත් සහ කොට්ඨාස කාර්යාලවලින් අවශ්‍ය තොරතුරු ලබාගත හැකි බවත් එම නිවේදනයේ සඳහන් වෙයි..
+
+එසේම වැඩි තොරතුරැ අවශ්‍ය සිසුන් ඒ සම්බන්ධයෙන් පාසල් බලධාරීන්ගෙන් විමසිය හැකි බවත් එහි දැක්වෙයි.
+
+◼️
+
+[Data](articles/65d5abbb.json)
+
+---
+
+### එදා කැරට් අද දෙහි
+
+*2024-05-16 15:04:35* · [`adalk`](https://www.ada.lk/breaking_news/එදා-කැරට්-අද-දෙහි/11-409680) · `si`
+
+පසුගිය කාලයේ වෙලඳපලේ කැරට් මිල ඉහල ගියා සේම මේ වනවිට දිවයිනේ බොහෝ ප්‍රදේශවල දෙහි කිලෝවක මිල රු.3000ද ඉක්මවා ගොස් ඇත. විශේෂයෙන් දඹුල්ල ආර් ථික මධ්‍යස්තානය වෙත ඌව පලාතෙන් දෙහි සැපයෙන නමුත් පෙර පරිදි ප්‍රමාණවත් තරම් දෙහි නොලැබෙන බව එම මඨ්‍යස්ථානය දන්වා සිටියි. මේ හේතුවෙන් දෙහි තොග හා සිල්ලර මිල විශාල ලෙස ඉහල ගොස් ඇති බව එහි වෙළඳුන් පවසති.
+
+◼️
+
+[Data](articles/83f08e0a.json)
+
+---
 
 ### Complaint filed with Bribery Commission against Maithripala Sirisena
 
@@ -45,6 +101,30 @@ The said complaint has been filed seeking an investigation in relation to how he
 ◼️
 
 [Data](articles/738e1d1b.json)
+
+[Extended Data](ext_articles/738e1d1b.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරී වැඩවර්ජනය නිසා දේහය තාමත් ගේ ඇතුලේ
+
+*2024-05-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196682) · `si`
+
+සේවා ව්‍යවස්ථාවක් ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ග්‍රාම නිලධාරීන් ආරම්භ කළ තෙදින අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (16) තුන්වන දිනටත් ක්‍රියාත්මක වෙයි.
+
+මේ අතර ග්‍රාම නිලධාරී වර්ජනය හේතුවෙන් නිවෙස්වල සිදුවන  ස්වභාවික මරණවලට අදාළ කටයුතු සිදුකරගෙන යෑමට නොහැකිව ජනතාව දැඩි අපහසුතාවයට පත්වී සිටී.
+
+එවැනි සිදුවීමක් අද වාර්තා වුණේ පානදුර බටහිර 672 ඩී ග්‍රාම නිලධාරී වසමෙනි.
+
+72 හැවිරිදි වයෝවෘද්ධ පුද්ගලයකු නිවසේදී මියගොස් ඇති අතර නිවැසියන් ග්‍රාම නිලධාරීවරයා සම්බන්ධ කරගැනීමට නොහැකිව අපහසුතාවට පත්විය.
+
+"ග්‍රාම නිලධාරීන්ගේ ප්‍රශ්නය බලපාන්නේ මිනිස්සුන්ට. එදාවේලත් අමාරුවෙන් කන මිනිස්සු මේ වගේ දේවල් වුණාම දැඩි ලෙස අසරණ වෙනවා."
+
+"ග්‍රාම නිලධාරීවරයා එන්නම් කියලා කිව්වා... ඒත් තාම නැහැ. වැඩවර්ජන කියලා කිව්වට වැඩක් නැහැනේ... මිනිහෙක් අසරණ වුණාම පොඩ්ඩක් බලන්න ඕනේ."
+
+◼️
+
+[Data](articles/696b7a3f.json)
 
 ---
 
@@ -63,6 +143,8 @@ Dr. Balasingham stated that a survey is also conducted in Sri Lanka once every 5
 ...
 
 [Data](articles/2385e050.json)
+
+[Extended Data](ext_articles/2385e050.ext.json)
 
 ---
 
@@ -678,19 +760,29 @@ Addressing the media briefing held at the PMC, he said the delegation will inclu
 
 ---
 
-### රුසියානු හමුදා සේවයට ලාංකිකයන් යොමුකළ රැකියා ඒජන්සිය වටලයි
+### The Employment Agency of Sri Lankans raided for the Russian Military Service
 
 *2024-05-16 12:45:46* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-හමුදා-සේවයට-ලාංකිකයන්-යොමුකළ-රැකියා-ඒජන්සිය-වටලයි/11-409670) · `si`
 
-රැසියානු හමුදාවේ සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකළ බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනයක හිමිකරු හා එහි කළමනාකරු විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (5/15) අත්අඩංගුවට ගන්නා ලදී.
+In a raid by Sri Lanka's Employment Agency, owners of Sri Lankans and the Foreign Employment Bureau were arrested for allegedly cheating workers out of significant sums of money. The incident occurred at Stanley Thilakrathne Mawatha in Nugegoda, leading to the arrest of two suspects who will face charges at the Negombo Magistrate's Court. This action follows complaints from workers about being swindled, with the Labor and Foreign Employment Minister urging harsh penalties against such fraudsters.
 
-සංචාරක වීසා මගින් රැසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන බව පවසා එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15බැගින් මුදල් අයකර විදේශ ගත කර ඇති අතර, එරටදී රැසියානු-යුක්රේන යුද්ධයේ යුධ පෙරමුණට යාමට මෙම ලාංකිකයින්ට සිදුවී ඇත.මෙම ඒජන්සි ආයතනය විසින් සිදුකළ මෙම ජාවාරම සම්බන්ධයෙන් කාර්යාංශට පැමිණිලි 7ක් ලැබී ඇති අතර, එම පැමිණිලිවලට අනුව මෙම ආයතනය වංචාකර ඇති මුදල් ප්‍රමාණය රුපියල් කෝටියකට අධික වේ.
+🟩
 
-ඒ අනුව, නුගේගොඩ ස්ටැන්ලි තිලකරත්න මාවතේ පවත්වාගෙන ගිය අදාල ආයතනය ඊයේ දින (5/15) වැටලීම් කර, එහි හිමිකරු සහ කළමනාකරු වශයෙන් සේවය කළ පුද්ගලයින් දෙදෙනෙකු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+The owner of Sri Lankans and the owner of the Foreign Employment Bureau were arrested by the Special Investigation Division of the Foreign Employment Bureau (5/15).
+
+Sri Lankans have taken up the money of Rs.The complaints have been received, according to the complaints, the amount of money that the institute has been cheated is over Rs.
+
+Accordingly, the relevant institution held at Stanley Thilakrathne Mawatha in Nugegoda was arrested yesterday (5/15) and was arrested by the Investigation Officers.
+
+The two arrested suspects are to be produced before the Negombo Magistrate's Court today after hearing statements.
+
+Manager (Special Investigation) Kapila Karunaratne, Planting Investigation (Special Investigation)
 
 ...
 
 [Data](articles/d1d47572.json)
+
+[Extended Data](ext_articles/d1d47572.ext.json)
 
 ---
 
@@ -2213,125 +2305,5 @@ After receiving the proposals, the procedure to reduce the electricity tariffs w
 [Data](articles/3d182db8.json)
 
 [Extended Data](ext_articles/3d182db8.ext.json)
-
----
-
-### Patali's appeal petition Petition Examination Finished
-
-*2024-05-16 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196661) · `si`
-
-The Supreme Court, presided over by Justices Gamini Amarasekera and Yasantha Kodagoda, has concluded examining Patali Champika Ranawaka's appeal petition after a serious accident in 2016. The Attorney General's office, represented by Additional Solicitor General Rohantha Abeyuriya, argued against prosecuting Ranawaka, citing inconsistencies with the initial charges. Despite this, the Attorney General proceeded with the prosecution. The verdict on Ranawaka's appeal has been postponed.
-
-🟩
-
-Supreme Court who was appointed by the Attorney General's Excellency Chamber Champika Ranawaka has completed the Parath Patali Champika Ranawaka who has been involved in serious accident in the year 2016 was to be killed in the Colombo High Court.The declaration was postponed to publish its verdict.
-
-The trial was held in front of the Supreme Court judge with Mrs. Gamini Amarasekera and Yasantha Kodagoda.
-
-Attorney-at-Law Fism Mustapha, who appeared in the court on behalf of the petition, the driver of the vehicle had been admitted to the Colombo Magistrate's Court on behalf of the petition in 2016.
-
-Despite this, the Attorney General pointed out that the Attorney General was taken to prosecute the SLFP against his client in the 2019.
-
-The President's Counsel stressed that the decision taken by the Attorney General was completely contrary to the accusations to the accusations.
-
-...
-
-[Data](articles/77b90b71.json)
-
-[Extended Data](ext_articles/77b90b71.ext.json)
-
----
-
-### Court denies the Weliada Rajapakse who is appointed as the SLFP chairman
-
-*2024-05-16 06:59:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv262zvg4pxo) · `si`
-
-Colombo District Court denied an injunction against Weliada Rajapakse's appointment as SLFP chairman, citing insufficient evidence to support the claim. The court allowed the plaintiff to amend the complaint but upheld the decision due to lack of proof regarding the alleged irregularities in the appointment process.
-
-🟩
-
-Court denies the Weliada Rajapakse who is appointed as the SLFP chairman
-
-The party is the decision of the SLFP as the Chairman of the Sri Lanka Freedom Party as the acting secretary and the acting secretary of Keerthi Uda Estate.The Colombo District Court today refused to issue an injunction preventing their organizations and officers.
-
-However, the plaintiff had the opportunity to revise the complaint and confirmed the relevant injunction and said Colombo District Judge Sandun Withana.
-
-After considering a complaint by SLFP General Secretary Duminda Dissanayake, the District Judge announced this order.
-
-The District Judge said that the case was filed based on Nimal Siripala de Silva and Mahinda Amaraweera, who is named the fourth and fifth accused in the case.
-
-TB in the residence of those defendants. The judge pointed out that the Sri Lanka Freedom Party headquarters at Jayah Mawatha has been named and the complaint has failed to ensure the residence of the election.
-
-...
-
-[Data](articles/ce12c7e5.json)
-
-[Extended Data](ext_articles/ce12c7e5.ext.json)
-
----
-
-### Today too. Heavy rains exceeding 100 mees
-
-*2024-05-16 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196659) · `si`
-
-Heavy rains continue across the island, especially in the West, Center, Sabaragamuwa, and Uva provinces. The Department of Meteorology warns of more rain today, advising caution against lightning and strong winds.
-
-🟩
-
-The Department of Meteorology announces that the rainy season is still expected to be expected, as the turmoil is still available in the lowest atmosphere.
-
-In most parts of the island. Showers or thundershowers will occur at several places around 1.
-
-Heavy showers in some places in the Western, Central, Sabaragamuwa and Uva provinces can occur.
-
-Showers will occur at the Western, Southern and East Coastal areas.
-
-The Department of Science has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7654b9dd.json)
-
-[Extended Data](ext_articles/7654b9dd.ext.json)
-
----
-
-### MPs seek their one million rupee insurance coverage to extended to include family members
-
-*2024-05-16 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MPs-seek-their-one-million-rupee-insurance-coverage-to-extended-to-include-family-members/155-282692) · `en`
-
-Colombo, May 16 (Daily Mirror) - Following the approval of concessionary vehicle permits, the MPs across the political divide have asked for the extension of their one -million rupee insurance coverage to include their family members, a top source said yesterday.
-
-At the House Committee meeting held last Friday, the MPs have asked for this benefit while insisting for concessionary vehicle permits for the second time.
-
-Currently, the premium for the MPs’ insurance is paid by them and the Parliamentary Affairs Ministry together. They have sought to include their family members in the coverage. They have reportedly agreed to pay an increased premium.
-
-However, the final decision has not yet been taken in this regard.
-
-...
-
-[Data](articles/20ccc14c.json)
-
-[Extended Data](ext_articles/20ccc14c.ext.json)
-
----
-
-### MPs seek one million rupee insurance coverage to be extended to include family members
-
-*2024-05-16 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MPs-seek-one-million-rupee-insurance-coverage-to-be-extended-to-include-family-members/155-282692) · `en`
-
-Colombo, May 16 (Daily Mirror) - Following the approval of concessionary vehicle permits, the MPs across the political divide have asked for the extension of their one -million rupee insurance coverage to include their family members, a top source said yesterday.
-
-At the House Committee meeting held last Friday, the MPs have asked for this benefit while insisting for concessionary vehicle permits for the second time.
-
-Currently, the premium for the MPs’ insurance is paid by them and the Parliamentary Affairs Ministry together. They have sought to include their family members in the coverage. They have reportedly agreed to pay an increased premium.
-
-However, the final decision has not yet been taken in this regard.
-
-...
-
-[Data](articles/38274a00.json)
-
-[Extended Data](ext_articles/38274a00.ext.json)
 
 ---

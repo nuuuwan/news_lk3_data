@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 21:18:30**
+As of **2024-05-16 21:33:55**
 
 ## Newspaper Stats
 
-*Scraped **24,517** Articles*
+*Scraped **24,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,103
+adalk | 2,104
 adaderanalk | 2,838
 tamilmirrorlk | 2,882
 virakesarilk | 3,687
 dailymirrorlk | 3,848
-adaderanasinhalalk | 3,912
+adaderanasinhalalk | 3,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,517 (100.0%) of 24,517 articles have been extended.
+24,517 (100.0%) of 24,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### ඕනෑම අයෙකු සමග සාකච්ඡා කිරීමට සූදානම් - ජනපති
+
+*2024-05-16 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196698) · `si`
+
+සාකච්ඡා කිරීමට සූදානම් ඕනෑම අයෙකු සමග තමන් සාකච්ඡා කිරීමට සූදානම් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පවසා සිටියේ ජ්‍යේෂ්ඨ මාධ්‍යවේදීන් පිරිසක් සමග අද (16) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී පැවති හමුවකදීය.
+
+එසේම ඉදිරි ජනාධිපතිවරණයට තරගකරන්නේදැයි මාධ්‍යවේදීන් ඇසූ පැනයකට පිළිතුරු දෙමින් ජනපති පවසා ඇත්තේ තමන් ජනාධිපතිවරණයට ඉදිරිපත් වන්නේදැයි යන්න පිළිබඳව සමාජයේ පවතින ප්‍රශ්නය එලෙසම තිබෙන්නට ඉඩ හරින බවය.
+
+මේ අතර ණය ප්‍රතිව්‍යුහගතකරණය සාර්ථක කරගත හැකිවනු ඇති බවත්, විපක්ෂයේ ඇතැම් මන්ත්‍රීවරුන් පවසන ආකාරයේ අතිවිශාල ණය කපාහැරීමක් බලාපොරොත්තු විය නොහැකි බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී පෙන්වා දී තිබේ.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා පවසා ඇත්තේ මෙම වසර තුළ වැටුප් වැඩි නොකරන බවට දැනුම්දී ඇති පසුබිමක දේශපාලන වාසි ලබාගැනීමේ අරමුණින් ඡන්දයක් පැවැත්වීමට නියමිත මොහොතක වෘත්තීය සමිති වැඩවර්ජනයවල නිරතව සිටින බවය.
+
+◼️
+
+[Data](articles/d00417d9.json)
+
+---
 
 ### Another suspect in Sending Persons to Russia arrested
 
@@ -211,6 +231,24 @@ The state minister had then allegedly proceeded to verbally abuse the airport se
 [Data](articles/dfecd30c.json)
 
 [Extended Data](ext_articles/dfecd30c.ext.json)
+
+---
+
+### නාය යෑමේ පූර්ව අනතුරු ඇඟවීමේ නිවේදන නිකුත් කරයි
+
+*2024-05-16 19:09:57* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-පූර්ව-අනතුරු-ඇඟවීමේ-නිවේදන-නිකුත්-කරයි/11-409686) · `si`
+
+දිවයිනේ ප්‍රදේශ රැසකට බලපා ඇති අධික වර්ෂාව සහිත අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක අටක  ප්‍රාදේශිය ලේකම් කොට්ඨාශ 24ක් සඳහා  නායයාමේ පුර්ව අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය  පියවර ගෙන තිබේ.
+
+මෙම අනතුරු ඇඟවීමේ නිවේදන අද  (16) දින පස්වරු 4.00 සිට හෙට (17) දින පස්වරු 4.00 දක්වා වු කාලය සඳහා වලංගු වේ.
+
+ඒ අනුව බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල,  හල්දුම්මුල්ල, හපුතලේ, හාලිඇල, බදුල්ල  මහනුවර දිස්ත්‍රික්කයේ යටිනුවර, උඩපාලත,  උඩුනුවර කෑගල්ල දිස්ත්‍රික්කයේ යටියන්තොට, මාවනැල්ල, දෙහිඹ්විට, බුලත්කොහුපිටිය, ගලිගමුව, වරකාපොල, කෑගල්ල කුරුණෑගල දිස්ත්‍රික්කයේ මාවතගම නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ රත්නපුර දිස්ත්‍රික්කයේ  බලංගොඩ, රත්නපුර, කලවාන,  ඉඹුල්පේ කළුතර දිස්ත්‍රික්කයේ අගලවත්ත මාතලේ දිස්ත්‍රික්කයේ උකුවෙල සහ රත්තොට යන ප්‍රාදේශීය ලේකම් කොට්ඨාශයන් සඳහා පළමු  මට්ටමේ විමසිලිමත්වීමේ අනතුරු ඇඟවීමේ කහ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය  පියවර ගෙන තිබේ.
+
+මෙම  ප්‍රදේශවල ජීවත්වන වැසියන් මේ පිළිබඳවදැඩි අවදානයෙන් සිටිය යුතු බවද එම සංවිධානය  වැඩිදුටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7c4c90fb.json)
 
 ---
 
@@ -2333,47 +2371,5 @@ A complaint was lodged by the guardians of the two girls, who had come to the ex
 [Data](articles/e5de639e.json)
 
 [Extended Data](ext_articles/e5de639e.ext.json)
-
----
-
-### Sri Lanka plans diplomatic mission to rescue ex-soldiers from Russia-Ukraine war
-
-*2024-05-16 12:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-diplomatic-mission-to-rescue-ex-soldiers-from-russia-ukraine-war-163299/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to send a high-level mission on the instructions of President Ranil Wickremesinghe, to discuss the repatriation of ex-soldiers who have been hired by Russian mercenary companies as well as the injured, a minister said.
-
-“We have already spoken to the Russian Ambassador regarding this,” State Minister for Foreign Affairs Tharaka Balasuriya told reporters in Colombo.
-
-“But we will be asking the Russian ambassador to Sri Lanka to help us with some meetings with high-ranking officials.”
-
-The mission may be headed by the Foreign Minister or himself, and will be made up of a former Ambassador to Russia, the Defence Secretary and the Director General of Consular Affairs, he said.
-
-The delegation will be made up of the former Ambassador to Russia Saman Weerasinghe, Defense secretary Kamal Gunarathne, senior officials of the Foreign Ministry.
-
-...
-
-[Data](articles/6d647439.json)
-
-[Extended Data](ext_articles/6d647439.ext.json)
-
----
-
-### Sri Lankans in Russia-Ukraine warfront: President instructs to send delegation to Moscow
-
-*2024-05-16 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99249/sri-lankans-in-russia-ukraine-warfront-president-instructs-to-send-delegation-to-moscow-) · `en`
-
-President Ranil Wickremesinghe has instructed to send a team comprising the Defence Secretary, a Foreign Ministry official and a former Sri Lankan diplomat to Russia to look into the Sri Lankans who have joined the Russian military in the Ukrainian warfront, State Minister of Foreign Affairs Tharaka Balasuriya said.
-
-Speaking at a press briefing this morning (16), the state minister said that an emergency hotline number of the Ministry of Defense is currently in operation to collect the information of Sri Lankan nationals who have travelled to Russia to join the war.
-
-Meanwhile, Sri Lanka’s State Minister of Defence Pramitha Bandara Tennakoon said yesterday that at least 16 Sri Lankan military veteran have been killed fighting in the war between Russia and Ukraine.
-
-Sri Lanka opened an inquiry last week into the recruitment of its citizens for the conflict that has since identified the participation of 288 retired soldiers from the island nation, he said.
-
-...
-
-[Data](articles/e2a850c2.json)
-
-[Extended Data](ext_articles/e2a850c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 09:34:00**
+As of **2024-05-16 09:52:14**
 
 ## Newspaper Stats
 
-*Scraped **24,363** Articles*
+*Scraped **24,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,59 @@ islandlk | 1,320
 economynextcom | 1,399
 dailyftlk | 1,437
 adalk | 2,079
-adaderanalk | 2,821
+adaderanalk | 2,823
 tamilmirrorlk | 2,864
 virakesarilk | 3,661
-dailymirrorlk | 3,820
+dailymirrorlk | 3,821
 adaderanasinhalalk | 3,883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,362 (100.0%) of 24,363 articles have been extended.
+24,363 (100.0%) of 24,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### FOXHILL விபத்து - 16 வயதுச் சிறுமி உயிரிழப்பு
+### President orders establishment of ‘Ashraf Memorial Museum’ in Kalmunai
+
+*2024-05-16 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99245/president-orders-establishment-of-ashraf-memorial-museum-in-kalmunai) · `en`
+
+President Ranil Wickremesinghe has directed the prompt commencement of contraction of the “Ashraf Memorial Museum” in Kalmunai, honoring the late M.H.M. Ashraf, founder of the Sri Lanka Muslim Congress (SLMC) and former Minister.
+
+A distinguished politician known for his dedicated service to the Muslim community, the late M.H.M. Ashraf is to be memorialized through this museum.
+
+In recognition of his contributions, President Ranil Wickremesinghe has directed the establishment of an “Ashraf Memorial Museum.”
+
+This initiative follows the request made by Mr. H.M.M. Haris, Digamadulla District Member of Parliament, and the local Muslim community, coinciding with the 24th anniversary of Mr. Ashraf’s death.
+
+The President has allocated Rs. 25 million for the project and has instructed officials to begin construction immediately, the President’s Media Division said.
+
+...
+
+[Data](articles/9eb8f6c0.json)
+
+---
+
+### Foxhill accident - 16 year old girl death
 
 *2024-05-16 09:06:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/FOXHILL-விபத்து-16-வயதுச்-சிறுமி-உயிரிழப்பு/175-337401) · `ta`
 
-தியதலாவை – FOXHILL கார் பந்தயத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை மேலும் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+In a tragic incident at Foxhill, a 16-year-old girl succumbed to injuries sustained during a car race, passing away at Badulla Hospital. The accident resulted in an increase in casualties.
 
-குறித்த விபத்தில் காயமடைந்து பதுளை வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த 16 வயதுடைய சிறுமி ஒருவரே சிகிச்சை பலனின்றி நேற்றிரவு 8.30 அளவில் உயிரிழந்துள்ளார்.
+🟩
+
+It is reported that the number of casualties in the foxhill car race has increased.
+
+A 16 -year -old girl who was injured in the accident and was treated at the Badulla Hospital died at 8.30 pm last night.
 
 ◼️
 
 [Data](articles/3b18c542.json)
+
+[Extended Data](ext_articles/3b18c542.ext.json)
 
 ---
 
@@ -65,6 +91,22 @@ Granting of “Urumaya” freehold deeds is expected to enhance land value, pres
 [Data](articles/060d1868.json)
 
 [Extended Data](ext_articles/060d1868.ext.json)
+
+---
+
+### Four arrested for attempted abduction of schoolgirl in Aladeniya
+
+*2024-05-16 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99244/four-arrested-for-attempted-abduction-of-schoolgirl-in-aladeniya) · `en`
+
+Four youths have been arrested on suspicion of attempting to abduct a 16-year-old schoolgirl who was on her way home after sitting for the G.C.E. Ordinary Level examination.
+
+Following information received from a three-wheeler driver via the ‘119’ police emergency hotline regarding the abduction, Aladeniya Police had acted immediately and reportedly apprehended the suspects along with the van in question within an hour.
+
+According to police, one of the arrested suspects had been involved in a relationship with the teenage girl, despite him already being married. The suspect, a former army soldier from Avissawella, and his friends had hired a van to carry out the abduction, police said.
+
+...
+
+[Data](articles/10420731.json)
 
 ---
 
@@ -229,6 +271,24 @@ However, researchers have found no clear proof of a link between MSG and these s
 [Data](articles/6f0326a2.json)
 
 [Extended Data](ext_articles/6f0326a2.ext.json)
+
+---
+
+### Is the flavour enhancer a health risk?
+
+*2024-05-16 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-the-flavour-enhancer-a-health-risk/108-282693) · `en`
+
+Colombo, May 16 (Daily Mirror) - Monosodium glutamate (MSG), the main common food additive or flavor enhancer, has always come under scrutiny in Sri Lanka given its potential health effects. Is it really bad for your health?
+
+While the U.S. Food and Drug Administration (FDA) considers the addition of MSG to foods to be “generally recognized as safe” (GRAS), concerns persist over among consumers regarding its adverse reactions in the long run.
+
+That’s why MSG has been a subject of controversy due to reported adverse reactions like headache, flushing, excessive sweating and chest pain.
+
+However, researchers have found no clear proof of a link between MSG and these symptoms. Researchers admit, though, that a small number of people may have short-term and long-term reactions to MSG. The only way to prevent a reaction is to cut out foods that have MSG in them.
+
+...
+
+[Data](articles/bc602337.json)
 
 ---
 
@@ -1796,13 +1856,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
+🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
+
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
-
-It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2143,71 +2203,5 @@ The respondent parties were ordered to show cause under Section 24(6) of the Act
 [Data](articles/25d8fef2.json)
 
 [Extended Data](ext_articles/25d8fef2.ext.json)
-
----
-
-### Ashok Selvan's first song release of 'Ennu Nilu Nayan's Romance'
-
-*2024-05-15 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/183628) · `ta`
-
-"First song 'Pakura Thakura..' from 'I Niyana Varunas,' featuring Ashok Selvan, Avantika Mishra, and more, released. Directed by Ganesh Chandra, music by Prasanna, lyrics by Mohan Rajan, and composed by Kapil Kapilan. Aimed at younger audiences with its melody and romance."
-
-🟩
-
-The first song and a lyrical video for the song, 'Pakura Thakura ..', which is featured in the film 'I Niyana Varunas' starring Ashok Selvan's story in the Tamil film industry, has been released.
-
-Ashok Selvan, Avantika Mishra, Urvasi, M.. S.. Bhaskar, Vijay Varadaraj and many others have played. Ganesh Chandra has recorded the film for this movie. Prasanna has composed music. Producer M.. He has produced Tirumala.
-
-With the release of the first look of the film, the first song, which is now titled 'Pakura Thakura ..' which is currently being held in the film, has been released.. The song was written by songwriter Mohan Rajan and the musician Kapil Kapilan and composer and singer Niwas K.. Prasanna has sung together. The song is being made with a younger generation fans, with the melodic, rhythm rhythm and romantic songs.
-
-◼️
-
-[Data](articles/d7c93016.json)
-
-[Extended Data](ext_articles/d7c93016.ext.json)
-
----
-
-### The Dehiwala Seal Beach Hotel is built in government owned land
-
-*2024-05-15 17:15:24* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-සෝල්-බීච්-හෝටලය-සාදා-ඇත්තේ-රජයේ-සතු-ඉඩමක/11-409649) · `si`
-
-The Dehiwala Seal Beach Hotel, located on government-owned land, underwent repairs after being demolished due to coastal conservation issues. A criminal investigation led to the arrest of 14 suspects involved in the hotel's reconstruction. These individuals were charged under Article 433 with Sections 4(1) and 5(2) of the Ceylon Penal Code, related to false deeds.
-
-🟩
-
-Investigations carried out by the Mount Lavinia Seal Beach Hotel, Shiran Bache Hotel is owned by the Mount Lavinia Division Special Criminal Investigations Division has deed that the deed of the suspects have been falsely prepared.. The hotel has been re-repaired after the demolition of the coast conservation a few months ago and later arrested 14 suspects who were later carried out to the reconstruction of Seo Beach Hotel again.They were produced before the court and remanded until the 28th of this month.
-
-It has been reported that the land team is inspected by a group of officers of the Government Sandoo Department.
-
-The suspects have been produced before Article 433 with Section 4 (1), 5 (2) of the Ceylon Penal Regional Regulations.
-
-◼️
-
-[Data](articles/ce68dc8a.json)
-
-[Extended Data](ext_articles/ce68dc8a.ext.json)
-
----
-
-### Resolution to provide free points for two questions of the Science Course of the GCE Ordinary Level exam!
-
-*2024-05-15 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183625) · `ta`
-
-In response to social media criticism, the GCE Ordinary Level 2023 Science Course will offer two extra points for questions 9 and 39, addressing concerns over question preparation.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara said that it has been decided to provide two free points for the 9th and 39th of the Science Course Questionnaire of the GCE Ordinary Level Examination of 2023.
-
-It is noteworthy that many allegations have been posted on social media regarding the Scientific Course Questionnaire of the GCE Ordinary Level Examination.
-
-He also said that the action has been taken because the questions of the Science Questionnaire have been prepared in a state of curriculum.
-
-◼️
-
-[Data](articles/93e0452e.json)
-
-[Extended Data](ext_articles/93e0452e.ext.json)
 
 ---

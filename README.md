@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 01:33:44**
+As of **2024-05-17 01:52:30**
 
 ## Newspaper Stats
 
-*Scraped **24,556** Articles*
+*Scraped **24,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,411
 dailyftlk | 1,450
 adalk | 2,107
 adaderanalk | 2,840
-tamilmirrorlk | 2,883
+tamilmirrorlk | 2,884
 virakesarilk | 3,693
 dailymirrorlk | 3,855
 adaderanasinhalalk | 3,914
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,544 (100.0%) of 24,556 articles have been extended.
+24,554 (100.0%) of 24,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,6 +78,8 @@ This marks the third real estate development Trillium has engaged in, in the Col
 
 [Data](articles/45c08698.json)
 
+[Extended Data](ext_articles/45c08698.ext.json)
+
 ---
 
 ### 1998 Bharathipuram killings and accountability for wartime atrocities
@@ -106,6 +108,8 @@ The event will take place concurrently with the sixth Indo-Pacific Business Foru
 
 [Data](articles/f5c2c815.json)
 
+[Extended Data](ext_articles/f5c2c815.ext.json)
+
 ---
 
 ### Lankan envoy in Ha Noi woos Vietnam-based leading Southeast Asian EV manufacturer
@@ -121,6 +125,8 @@ Ambassador Dr. A Saj U Mendis along with the Minister Commercial Kishani Wickram
 ...
 
 [Data](articles/77424b7f.json)
+
+[Extended Data](ext_articles/77424b7f.ext.json)
 
 ---
 
@@ -140,6 +146,8 @@ The Symposium was attended by members of the legal community and law students of
 
 [Data](articles/490f0672.json)
 
+[Extended Data](ext_articles/490f0672.ext.json)
+
 ---
 
 ### Strong Q4 net profit growth boosts Teejay Lanka’s outlook for year ahead
@@ -155,6 +163,8 @@ Despite an increase in sales volumes, the Group’s revenue for the quarter, at 
 ...
 
 [Data](articles/82beda69.json)
+
+[Extended Data](ext_articles/82beda69.ext.json)
 
 ---
 
@@ -178,6 +188,8 @@ Democratic People’s Front (DPF) Member of Parliament Mano Ganesan yesterday co
 
 [Data](articles/7ed70767.json)
 
+[Extended Data](ext_articles/7ed70767.ext.json)
+
 ---
 
 ### Gammanpila calls for designation of incoming US Ambassador as persona non grata
@@ -197,6 +209,8 @@ Speaking at a press conference, Gammanpila alleged that Horst had testified befo
 ...
 
 [Data](articles/4efea4c5.json)
+
+[Extended Data](ext_articles/4efea4c5.ext.json)
 
 ---
 
@@ -220,6 +234,8 @@ The delegation comprises the Secretary to the Defence Ministry, former Ambassado
 
 [Data](articles/8a2d245b.json)
 
+[Extended Data](ext_articles/8a2d245b.ext.json)
+
 ---
 
 ### RTI Commission orders Thondaman’s Ministry to disclose “NAAM-200” event expenses
@@ -236,6 +252,8 @@ This order follows an appeal filed by journalist B. Nirosh Kumar, who submitted 
 
 [Data](articles/14fd381f.json)
 
+[Extended Data](ext_articles/14fd381f.ext.json)
+
 ---
 
 ### Restructure SriLankan Airlines – but no mandate for sale
@@ -249,6 +267,8 @@ Although Mahinda Rajapaksa speaks about all SOEs in general, Jayasuriya seems to
 ...
 
 [Data](articles/18d9b0a4.json)
+
+[Extended Data](ext_articles/18d9b0a4.ext.json)
 
 ---
 
@@ -1586,6 +1606,24 @@ The people have been asked to take necessary steps to reduce the damages caused 
 
 ---
 
+### ’’ தடை உத்தரவை நீக்கிய  நீதி மன்றம் ’’
+
+*2024-05-16 16:41:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடை-உத்தரவை-நீக்கிய-நீதி-மன்றம்/175-337434) · `ta`
+
+முள்ளிவாய்க்கால் நினைவுக் கஞ்சியை வழங்குவதற்கு மூதூர் நீதிமன்றம் முன்னர் வழங்கியிருந்த தடை உத்தரவை வியாழக்கிழமை (16) மூதூர் நீதிமன்றம் நீக்கியது என  இவ் வழக்கில் எதிராளிகள் சார்பில் முன்னிலையாகிய சட்டத்தரணி சுகாஸ் கூறியுள்ளார் .
+
+சேனையூர் பிள்ளையார் கோவிலில் வைத்து முள்ளிவாய்க்கால் கஞ்சி வழங்கியமைக்காக கைது செய்யப்பட்டிருந்தவர்களின் வழக்கு புதன்கிழமை (15) விசேட நகர்த்தல் பத்திரம் மூலம் மூதூர் நீதிமன்றத்தில் எடுத்துக்கொள்ளப்பட்ட்டபோதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார் .
+
+மேலும் அவர் தெரிவிக்கையில், " எதிராளிகள் சார்பில் முன்னிலையாகிய  எனது வாதத்தை அடுத்து மூதூர் நீதிபதி தஸ்னீம் பெளசான் பானு இவ் தடை நீக்கல் தொடர்பான உத்தரவை விடுத்தார்.
+
+சென்ற12 ம் திகதி இரவு கஞ்சி வழங்கியமை மூலம் நீதிமன்ற தடையுத்தரவை மீறிய குற்றச்சாட்டின் கீழ் ஒரு ஆணும்,மூன்று பெண்களும் சம்பூர் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/9ad5dc17.json)
+
+---
+
 ### Beginning Phonepe UPI payment system in Sri Lanka
 
 *2024-05-16 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183704) · `ta`
@@ -2225,27 +2263,5 @@ However, he had been pronounced dead on admission to the hospital.
 [Data](articles/4edbe5db.json)
 
 [Extended Data](ext_articles/4edbe5db.ext.json)
-
----
-
-### Another complaint against Maithri
-
-*2024-05-16 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-විරුද්ධව-තවත්-පැමිණිල්ලක්/11-409677) · `si`
-
-SLFP Executive Monteguara Sarachindra complained to Maithripala Sirisena about alleged payments to the Sri Lankan Freedom Party. The complaint seeks investigation into how funds were raised for Easter victim compensation.
-
-🟩
-
-A SLFP Executive Monteguara Sarachindra has lodged a complaint with former President Maithripala Sirisena against former President Maithripala Sirisena against former President Maithripala Sirisena.
-
-Mount Sarachchandra writes a letter to the Bribery Commission, Maithripala Sirisena has been speaking to the party that he had paid the Sri Lankan Freedom Party.
-
-Therefore, the complaint has been filed asking to investigate the manner in which the passengers earned the money for the payment of the Easter victims.
-
-◼️
-
-[Data](articles/a4d71825.json)
-
-[Extended Data](ext_articles/a4d71825.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 14:33:42**
+As of **2024-05-16 14:52:00**
 
 ## Newspaper Stats
 
-*Scraped **24,440** Articles*
+*Scraped **24,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 249
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
-economynextcom | 1,401
+economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,087
+adalk | 2,090
 adaderanalk | 2,830
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,899
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,438 (100.0%) of 24,440 articles have been extended.
+24,440 (100.0%) of 24,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Sri Lanka planning patient bill of rights: Minister
+
+*2024-05-16 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-patient-bill-of-rights-minister-163335/) · `en`
+
+ECONOMYNET – A patient rights charter will be introduced to ensure the safety of patients admitted to hospitals, amid complaints that patients are not heard, Health and Industry Minister Dr Ramesh Pathirana has said.
+
+“The fact that the medical and health staff sometimes do not listen to the patient is an opinion shared by patients all over the world, and in this regard, the Ministry of Health received nearly 700 complaints last year,” Pathirana was quoted in a statement.
+
+“According to reports from many countries of the world, one out of 7 patients who are admitted to hospital face at least some problem in the hospital, and it is a global situation.”
+
+The world’s opinion is that the harmony of the health staff with the patients should be improved, the minister told staff of the Wathupitiwala Hospital in Gampaha during an observation visit.
+
+...
+
+[Data](articles/9e104ef9.json)
+
+---
+
+### රුසියා යුක්‍රේන යුද්ධයට පුද්ගලයින් යැවූ හිටපු යුදහමුදා සෙබලෙකු අත්අඩංගුවට
+
+*2024-05-16 14:25:37* · [`adalk`](https://www.ada.lk/breaking_news/රුසියා-යුක්‍රේන-යුද්ධයට-පුද්ගලයින්-යැවූ-හිටපු-යුදහමුදා-සෙබලෙකු-අත්අඩංගුවට/11-409678) · `si`
+
+දඹගල්ල පොලිස් වසමට අයත් මහබැද්ද ප්‍රදේශයේ පදිංචි හිටපු ගුවන්හමුදා සෙබලෙකු විසින් කරන ලද පැමිණිල්ලක් මත රුසියායාවේ රැකියා සඳහා යවන බව පවසා රුසියා යුක්‍රේන යුද්ධයට පුද්ගලයින් යැවූ හිටපු යුදහමුදා සෙබලෙකු දඹගල්ල පොලීසිය මඟින් මොනරාගල පොලීසියට දැනුම්දීමෙන් පසු ඉකුත් අද(16) දින මොනරාගල පොලීසිය විසින් අත්අඩංගුවටගෙන ඇත.
+
+පැමිණිලිකරු වන හිටපු ගුවන්හමුදා සෙබලාගෙන් රුසියාවේ රැකියාවක් ලබාදෙන බවට පොරොන්දුවී රුපියල් ලක්ෂ පහක ලබාගෙන ඇති විත්තිකරු වන හිටපු යුදහමුදා සෙබලා ඉකුත් අප්‍රේල් මස 29 වෙනි දින පැමිණිලිකරු රුසියාවට යවා ඇත.
+
+නමුත් රුසියාවේදී ඔහු භාරගැනීමට කිසිදු ඒජන්සිකරුවෙකු නොමැතිවීම නිසා මැයි මස 01 වෙනි දින ආපසු ලංකාවට පැමිණ තිබේ.
+
+සිද්ධිය පිළිබඳව දඹගල්ල පොලීසියට දැනුම්දීමෙන් පසුව විමර්ශන සිදුකළ පොලීසිය සැකකරු අත්අඩංගුවටගෙන ඇත.
+
+සැකකරු අවුරුදු පහක පමණ යුදහමුදාවේ සේවයකර ඉවත්වූ රුසියාවේ රැකියාවක් නිරතව සිට ලංකාවට පැමිණි 35 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/64d8e62e.json)
+
+---
 
 ### Bus driver dies after falling ill at the wheel, causing crash
 
@@ -49,6 +87,24 @@ However, he had been pronounced dead on admission to the hospital.
 ◼️
 
 [Data](articles/4edbe5db.json)
+
+[Extended Data](ext_articles/4edbe5db.ext.json)
+
+---
+
+### මෛත්‍රීට විරුද්ධව තවත් පැමිණිල්ලක්
+
+*2024-05-16 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-විරුද්ධව-තවත්-පැමිණිල්ලක්/11-409677) · `si`
+
+ශ්‍රීලනිප හිටපු විධායක සභිකයෙකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා විසින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+මොන්ටේගු සරච්චන්ද්‍ර මහතා අල්ලස් කොමිසමට ලිපියක් යොමු කරමින් සඳහන් කරන්නේ මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය විකුණා ලබාගත් අත්තිකාරමකින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවා ඇති බව පාක්ෂිකයන් අතර කතාබහක්  ඇති බවයි.
+
+එබැවින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවීම සඳහා අදාළ මුදල් උපයා ගත්තේ කුමණ ආකාරයෙන්ද යන්න සම්බන්ධයෙන් විමර්ශනයක් කරන ලෙස ඉල්ලා මෙම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/a4d71825.json)
 
 ---
 
@@ -75,6 +131,8 @@ Nugegoda Scene of Crime Officers (SOCO) have conducted an investigation at the s
 ...
 
 [Data](articles/014bc4c4.json)
+
+[Extended Data](ext_articles/014bc4c4.ext.json)
 
 ---
 
@@ -123,6 +181,28 @@ This is the third meeting between the two Chinese and Russian leaders in a short
 [Data](articles/33319321.json)
 
 [Extended Data](ext_articles/33319321.ext.json)
+
+---
+
+### Sri Lanka will not recover for 15 years if current policies change: Semasinghe
+
+*2024-05-16 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-not-recover-for-15-years-if-current-policies-change-semasinghe-163334/) · `en`
+
+ECONOMYNEXT — If there is a change in Sri Lanka’s current policy trajectory, the economy would not recover for another 15 years, State Minister of Finance Shehan Semasinghe warned.
+
+Speaking to reporters on Wednesday May 15, Senasinghe said the economy will be the deciding factor at the upcoming elections.
+
+“The president has stated clearly that the presidential election will be held first, followed by the parliamentary and other elections.
+
+“The decisive factor of the next election will be the economy. Strengthening the economy and taking the country forward will receive more attention over what ones wants to hear,” he said.
+
+Disingenuous statements will not count at the election, said Semasinghe.
+
+“If there is a change in the policies that the country is currently on, the economy will collapse and we won’t be able to raise our heads again for another 15 years at least,” he added.
+
+...
+
+[Data](articles/8ef43ac8.json)
 
 ---
 
@@ -221,6 +301,26 @@ Mullivaikkal's main memorials and traces are being directly monitored by the Int
 [Data](articles/935fa49d.json)
 
 [Extended Data](ext_articles/935fa49d.ext.json)
+
+---
+
+### Sri Lanka’s Lanka Pay ties up with PhonePe to help Indian tourists
+
+*2024-05-16 13:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-lanka-pay-ties-up-with-phonepe-to-help-indian-tourists-163331/) · `en`
+
+ECONOMYNEXT – Indian tourists will be able to pay for their purchases in Sri Lanka through their mobile phones using QR codes after a tie up between Lanka Pay and India’s PhonePe, officials said.
+
+With India being the top source of tourists to the county, the tie up will strengthen bilateral relations co-operation, Central Bank Governor Nandala Weerasinghe said.
+
+Enhancing cross border payments was a priority among policymakers, and in Sri Lanka the central bank was also supporting cashless payments, he said.
+
+PhonePe, which uses India’s Unified Payment Interface will now allow Indian tourists visiting the country to pay at large network of merchants which use the LankaQR system of LankaPay.
+
+“This partnership is bound to provide greater convenience to Indian Tourists and Business Travelers in making seamless UPI payments at all LankaQR merchant points in Sri Lanka via PhonePe app,” LankaPay Chief Excutive Chanda de Silva said.
+
+...
+
+[Data](articles/a495e587.json)
 
 ---
 
@@ -632,6 +732,24 @@ Also, if we come to power, all the liquor licenses currently being issued will b
 
 ---
 
+### හිටපු මැකෝ කියන රජය ගන්න යන අයුතු වාසිය
+
+*2024-05-16 12:09:58* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැකෝ-කියන-රජය-ගන්න-යන-අයුතු-වාසිය/11-409668) · `si`
+
+පළාත් පාලන ඡන්ද විමසීමට කැදවූ නාම යෝජනා අවලංගු කිරීමට රජය අර අදින්නේ දේශපාලනික අයුතු වාසියක් ලබා ගැනීමට බව මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා අද (16) උදේ අම්බලන්ගොඩ පෝරඹ ඒ මහතාගේ නිවසේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+
+දේශපාලන පක්ෂ ප්‍රවර්ධනය කිරීමට අවස්ථාවක් ලබා ගැනීමේ අරමුණින් මෙය සිදු කරන බවද මෙහිදී දේශප්‍රිය මහතා කීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහින්ද දේශප්‍රිය මහතා අවලංගු කිරීමට බලාපොරොත්තු වන පළාත් පාලන නාමයෝජනා පිළිබදව පමණක් නොව හොරු අරන් ගිය පළාත් සභා ඡන්ද විමසීම හා ඉදිරියේදී ඒමට නියමිත ජනාධිපතිවරණය පිළිබදවද මෙහිදී අදහස් දැක්වූවේ මෙසේය.
+
+"පළාත් පාලන ඡන්ද විමසීමට කැදවන නාමයෝජනා අවලංගු කිරීම කළ හැක්කේ පාර්ලිමේන්තුවේ සම්මත කරන පනතකින් විතරයි. එවැනි ඕනෑම පනතක් ගරු ශ්‍රේෂ්ඨාධිකරණයේදී යම් යම් අභියෝගයන්ට අනිවාර්‍යයෙන්ම ලක්වෙනවා. මෙවර එය ලක්වෙන වෙලාවේදී අනිවාර්‍යයෙන්ම ඉල්ලා සිටින්න ඕන මේ අවස්තාවේ මේක කිරීමෙන් බලාපොරොත්තු වෙන්නේ කුමක්ද කියන එක මේ බලාපොරොත්තුවීමෙන් අපේක්ෂකයන්ගේ ගැටුලු නිසා කරනවයි කියන එක පිළිගන්න පුළුවන් දෙයක් නෙමෙයි.
+
+...
+
+[Data](articles/37961578.json)
+
+---
+
 ### Missing girls found in Kaduwela searching for jobs
 
 *2024-05-16 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Missing-girls-found-in-Kaduwela-searching-for-jobs/108-282723) · `en`
@@ -647,6 +765,26 @@ A complaint was lodged by the guardians of the two girls, who had come to the ex
 [Data](articles/e5de639e.json)
 
 [Extended Data](ext_articles/e5de639e.ext.json)
+
+---
+
+### Sri Lanka plans diplomatic mission to rescue ex-soldiers from Russia-Ukraine war
+
+*2024-05-16 12:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-diplomatic-mission-to-rescue-ex-soldiers-from-russia-ukraine-war-163299/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to send a high-level mission on the instructions of President Ranil Wickremesinghe, to discuss the repatriation of ex-soldiers who have been hired by Russian mercenary companies as well as the injured, a minister said.
+
+“We have already spoken to the Russian Ambassador regarding this,” State Minister for Foreign Affairs Tharaka Balasuriya told reporters in Colombo.
+
+“But we will be asking the Russian ambassador to Sri Lanka to help us with some meetings with high-ranking officials.”
+
+The mission may be headed by the Foreign Minister or himself, and will be made up of a former Ambassador to Russia, the Defence Secretary and the Director General of Consular Affairs, he said.
+
+The delegation will be made up of the former Ambassador to Russia Saman Weerasinghe, Defense secretary Kamal Gunarathne, senior officials of the Foreign Ministry.
+
+...
+
+[Data](articles/6d647439.json)
 
 ---
 
@@ -747,6 +885,24 @@ So how did you earn the relevant money?The complaint has been filed asking for a
 [Data](articles/37f494d1.json)
 
 [Extended Data](ext_articles/37f494d1.ext.json)
+
+---
+
+### Sri Lanka’s Industrial Development Boards signs deal to support MSMEs
+
+*2024-05-16 11:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-industrial-development-boards-signs-deal-to-support-msmes-163296/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Industrial Development Board has signed an agreement with the Micro, Small and Medium Scale Entrepreneurs Forum to support MSMEs and address their problems.
+
+“Micro, Small and Medium Enterprises have a leading role in an entrepreneurial culture,” Chairman of the Industrial Development Board Saranga Alahapperuma said in a statement.
+
+“In order to make the concept of building an export-oriented manufacturing economy a reality, the  Industrial Development Board is launching a planned program for the development of micro, small and medium scale entrepreneurs who have more space in the entrepreneurial society.”
+
+Through the bilateral MoU, the IDB will support MSMEs by solving their problems, Alahapperuma said. (Colombo/May16/2024)
+
+◼️
+
+[Data](articles/7c482289.json)
 
 ---
 
@@ -2157,163 +2313,5 @@ Themed ‘Navigating the HR Horizon’ NHRC-2024 aims to tackle the pressing cha
 [Data](articles/e110e5ab.json)
 
 [Extended Data](ext_articles/e110e5ab.ext.json)
-
----
-
-### Advocata conference on ’’Revitalising Economic Governance for Prosperity’’ on Saturday
-
-*2024-05-16 03:31:02* · [`dailyftlk`](https://www.ft.lk/business/Advocata-conference-on-Revitalising-Economic-Governance-for-Prosperity-on-Saturday/34-761862) · `en`
-
-Independent economic policy think-tank, the Advocata Institute will hold a conference titled “Charting the Course: Revitalizing Economic Governance for Prosperity” on Saturday 18 May at the Galle Face Hotel from 8:30 a.m. onwards.
-
-In an effort to address the ever-evolving landscape of global governance, the conference will draw an esteemed gathering of thought leaders from diverse backgrounds.
-
-It will serve as a platform to socialise the findings of the IMF Governance Diagnostics Assessment. Experts from various disciplines, including public administration, business, academia, civic society groups and non-profits, will engage in critical discussions surrounding the challenges and opportunities inherent in contemporary governance frameworks.
-
-Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, Sarath Jayamanne PC, Murtaza Jafferjee, Dr. Radika Coomaraswamy, Justice Aluwihare, Dr. Sharmini Cooray, Prof. Rohan Samarajiva are among the key speakers.
-
-...
-
-[Data](articles/2bcb5cee.json)
-
-[Extended Data](ext_articles/2bcb5cee.ext.json)
-
----
-
-### Sumanthiran denounces Western hypocrisy on Palestine issue
-
-*2024-05-16 03:24:36* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-denounces-Western-hypocrisy-on-Palestine-issue/56-761861) · `en`
-
-Stresses importance of holding all parties involved in conflicts accountable, regardless of political affiliations or power dynamics
-
-Challenges narrative of some Israel supporters, advocating for compassion and fairness towards all inhabitants
-
-Links commemoration of Mullivaikkal massacre in Sri Lanka to Palestine justice struggle
-
-Urges SL to fulfil its commitment to justice and accountability, both domestically and internationally
-
-Tamil National Alliance (TNA) Jaffna district MP M.A Sumanthiran on Tuesday denounced what he termed the “blatant hypocrisy” of Western nations and accused them of turning a blind eye to Israel’s actions despite their professed commitment to human rights.
-
-Addressing the Adjournment debate on the Palestine issue Sumanthiran underscored the urgent need for international scrutiny, drawing stark parallels between the conflict in Palestine and Sri Lanka’s own tumultuous history of violence.
-
-...
-
-[Data](articles/c3c8492f.json)
-
-[Extended Data](ext_articles/c3c8492f.ext.json)
-
----
-
-### HRCSL calls for criminal investigation into 2024 alleged enforced disappearance
-
-*2024-05-16 03:21:42* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-calls-for-criminal-investigation-into-2024-alleged-enforced-disappearance/56-761860) · `en`
-
-The Human Rights Commission of Sri Lanka (HRCSL) in a letter to the Attorney General this week has stressed that it is imperative that an independent and impartial criminal investigation be launched into the alleged enforced disappearance of Gonapinuwala Kapila Kumara De Silva, a resident of Horowpathana, Anuradhapura in March 2024.
-
-The HRCSL urged the Attorney General to review the evidence and allegations and decide whether a separate criminal inquiry should be initiated by the Sri Lanka Police under the International Convention for the Protection of All Persons from Enforced Disappearance Act, based on the Attorney General’s counsel.
-
-The HRCSL observed that De Silva was reported missing on 27 March 2024. According to De Silva’s account, he was allegedly abducted by a group in civilian attire in a white van who identified themselves as law enforcement officers.
-
-...
-
-[Data](articles/014afe85.json)
-
-[Extended Data](ext_articles/014afe85.ext.json)
-
----
-
-### International transitional justice scholars call on SL to halt establishing truth commission
-
-*2024-05-16 03:21:06* · [`dailyftlk`](https://www.ft.lk/news/International-transitional-justice-scholars-call-on-SL-to-halt-establishing-truth-commission/56-761859) · `en`
-
-Over 70 international transitional justice and human rights scholars have urged the Sri Lankan Government to halt the establishment of a Commission for Truth, Unity and Reconciliation (CTUR) as it has been rejected by victim groups and the broader national context is not conducive for such a process.
-
-The statement signed by leading authors and researchers of transitional justice from across the world also highlights concerns over the Government’s lack of political commitment towards genuine truth-seeking that could lead to justice and reconciliation in Sri Lanka.
-
-The statement said it recognises the right to truth as a key human right affirmed in UN treaties and other mechanisms and asserts that if conducted properly a truth-seeking process can contribute towards establishing the extent and the patterns of past violations, as well as their causes and consequences. In so doing, it can help reconcile deeply divided communities and help bring closure to victim-survivors, it said.
-
-...
-
-[Data](articles/c444c420.json)
-
-[Extended Data](ext_articles/c444c420.ext.json)
-
----
-
-### Karu condemns mishandling of commemorative event for war victims in Sampur
-
-*2024-05-16 03:19:32* · [`dailyftlk`](https://www.ft.lk/news/Karu-condemns-mishandling-of-commemorative-event-for-war-victims-in-Sampur/56-761858) · `en`
-
-Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya
-
-Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya voiced his profound regret yesterday over the Police’s handling of the porridge distribution event in Sampur commemorating the victims of the war and enforced disappearances.
-
-In a statement, Jayasuriya said the society must empathetically acknowledge the anguish of those who have lost loved ones to death or disappearance. “It is our collective responsibility to prevent such tragedies from plunging our country into another dark era,” he said.
-
-“Therefore, it is imperative for the entire society, including Government authorities, to act in these situations with the best interests of the country at heart. Failure to do so could potentially lead our nation into a dark age,” remarked the former speaker.
-
-...
-
-[Data](articles/53ebff7d.json)
-
-[Extended Data](ext_articles/53ebff7d.ext.json)
-
----
-
-### Charitha highlights importance of timely Presidential poll
-
-*2024-05-16 03:17:11* · [`dailyftlk`](https://www.ft.lk/news/Charitha-highlights-importance-of-timely-Presidential-poll/56-761857) · `en`
-
-Freedom People’s Congress (FPC) member MP Prof. Charitha Herath on Tuesday emphasised the importance of prioritising the Presidential Election over Parliamentary Polls, urging the Election Commission of Sri Lanka (ECSL) to focus on this goal. Speaking at a press conference held at the party headquarters, Herath highlighted the constitutional mandate to hold the Presidential Election in a timely manner.
-
-He noted that while dissolving parliament and conducting a general election are separate processes, there have been instances of delays in convening parliament after dissolution, leading to delayed general elections. Given this context, Herath stressed the need to prioritise the Presidential Election, which is mandated by the constitution.
-
-...
-
-[Data](articles/539cf79d.json)
-
-[Extended Data](ext_articles/539cf79d.ext.json)
-
----
-
-### Veteran philatelist bids farewell at 97
-
-*2024-05-16 03:15:06* · [`dailyftlk`](https://www.ft.lk/news/Veteran-philatelist-bids-farewell-at-97/56-761856) · `en`
-
-Frederick Medis is a well-known name amongst all philatelists, young and old. He has rendered immense service to the field in the form of sharing knowledge, valuing philately items, exhibiting and distributing his own collection for a fair price.
-
-He was the founding President of the Philatelic Society of Sri Lanka (PSSL). During his time, the society was very much active and had many events including national exhibitions. These events encouraged children to become interested in the field which was the foremost purpose of the society.
-
-He was born on 28 December 1926 and was very much active with the society until his 90s before passing away at the ripe age of 97 on 14 May 2024, Philatelic Association of Sri Lanka President
-
-The funeral service will be held today evening at SS Mary and John Church in Nugegoda. An opportunity for philatelists to pay their last respects to the philately giant amongst men. Some of his work and details can be viewed via http://philately.lk
-
-◼️
-
-[Data](articles/9bb6079d.json)
-
-[Extended Data](ext_articles/9bb6079d.ext.json)
-
----
-
-### IDB and Ceylon Federation of MSMEs sign historic MoU
-
-*2024-05-16 02:22:51* · [`dailyftlk`](https://www.ft.lk/business/IDB-and-Ceylon-Federation-of-MSMEs-sign-historic-MoU/34-761851) · `en`
-
-IDB Chairman Dr. Saranga Alahapperuma (right) and Ceylon Federation of MSME President Sashika de Silva with the copy of the MoU signed between the two organisations and their officials – Pic by Lasantha Kumara
-
-Marking a significant milestone for Sri Lanka’s entrepreneurial landscape, the Ceylon Federation of MSMEs and the Industrial Development Board (IDB) last week signed a momentous Memorandum of Understanding (MoU).
-
-IDB Chairman Dr. Saranga Alahapperuma and Ceylon Federation of MSMEs President Sashika De Silva were the signatories.
-
-De Silva said the Federation’s journey has been one of immense dedication and achievement, evident in the successful implementation of the Federation for Entrepreneurship.
-
-“This authentic platform has not only benefited entrepreneurs but has also positively impacted the broader community. The MoU with IDB signifies another crucial step towards realising the Federation’s strategic objectives,” she added.
-
-...
-
-[Data](articles/b3916bc6.json)
-
-[Extended Data](ext_articles/b3916bc6.ext.json)
 
 ---

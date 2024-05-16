@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 12:33:37**
+As of **2024-05-16 12:48:59**
 
 ## Newspaper Stats
 
-*Scraped **24,405** Articles*
+*Scraped **24,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
 adalk | 2,084
-adaderanalk | 2,827
+adaderanalk | 2,828
 tamilmirrorlk | 2,871
 virakesarilk | 3,661
 dailymirrorlk | 3,833
-adaderanasinhalalk | 3,891
+adaderanasinhalalk | 3,892
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,400 (100.0%) of 24,405 articles have been extended.
+24,400 (100.0%) of 24,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Showery and windy conditions to enhance during next few days
+
+*2024-05-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99250/showery-and-windy-conditions-to-enhance-during-next-few-days) · `en`
+
+The Meteorology Department warns that showery and windy conditions are expected to enhance during the next few days due to pre-monsoonal conditions over the country and surrounding sea areas.
+
+Issuing a special weather bulletin today, valid for the next week, it said heavy rainfalls are likely over the South-western parts of the country particularly in Western, Sabaragamuwa, and Central and North-western provinces and in Galle, Matara and Mannar districts.
+
+Strong winds of about 60-70 kmph accompanied with heavy rainfalls can be expected areas around the country and over the sea area bounded by (0-10) N (60-90) E, says the Met. Department.
+
+The general public, fishing and naval community are kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ba5f9548.json)
+
+---
+
+### සා පෙළ අතරතුර අතුරුදන් වූ සිසුවියන් ගැන තොරතුරක්
+
+*2024-05-16 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196674) · `si`
+
+සාමාන්‍ය පෙළ විභාගය පැවැත්වෙන අතරතුර අතුරුදන් වූ පාසල් සිසුවියන් දෙදෙනා ඥාති නිවසක සිටිය දී හමුවී තිබේ.
+
+ඊයේ (15) රාත්‍රියේ එම සිසුවියන් ඥාති නිවසක සිටින බවට ඔවුන් දෙදෙනාගේ පවුලේ අය විසින් පොලීසිය වෙත දැනුම්දී ඇත.
+
+ගිනිගත්හේන පොලිස් වසමේ අඹගමුව ජාතික පාසලේ ස්ථාපනය කර ඇති විභාග මධ්‍යස්ථානයට පැමිණි සිසුවියන් දෙදෙනා පසුගිය 14 වනදා විභාගයට පෙනී නොසිට අතුරුදන් වී තිබිණි.
+
+ඒ අනුව දරුවන් සම්බන්ධයෙන් ඔවුන්ගේ පවුල්වල ඥාතීන් විසින් ගිනිගත්හේන පොලීසියට පැමිණිල්ලක් ද යොමු කළේය.
+
+පසුව සිදුකළ විමර්ශනයේ දී අනාවරණය වී ඇත්තේ රැකියාවක් සොයා ගැනීමේ අපේක්ෂාවෙන් සිසුවියන් දෙදෙනා කොළඹ පැමිණ ඇති බවත්, කඩුවෙල ප්‍රදේශයේ ඥාතී නිවසකට ගොස් ඒ බව දෙමාපියන්ට දැනුම් දී ඇති බවත්ය.
+
+◼️
+
+[Data](articles/d1e6cb4d.json)
+
+---
 
 ### Missing girls found in Kaduwela searching for jobs
 
@@ -2159,51 +2197,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/4fc23b70.json)
 
 [Extended Data](ext_articles/4fc23b70.ext.json)
-
----
-
-### Quick mission surviving student from writing the Ordinary Level
-
-*2024-05-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196658) · `si`
-
-Four youths were arrested for allegedly attempting to kidnap a 16-year-old girl during her Ordinary Level exams. The incident involved a three-wheeler driver and a van, leading to their arrest by the Aladeniya Police. One suspect, a married man from Avissawella, had a romantic relationship with the girl, which ended when she discovered his marriage status. This led to her being targeted and abducted near her school.
-
-🟩
-
-Four youths have been arrested on suspicion of a 16-year-old schoolgirl who was trying to abduct a 16-year-old schoolgirl at the O / L examination.
-
-A three-wheeler driver in connection with the abduction of the 119 Police Emergency Call Number, the Aladeniya Police have arrested the van and their group in an hour.
-
-Police states that one of the four suspects had a love affair with the girl and he was a married man.
-
-The suspect, a resident of Avissawella, rented a van with his friends and rented a van with their friends and arrived in the schoolgirl.
-
-Army soldier in Polonnaruwa, a soldier's brother, has arrived at several times, this romantic relationship has occurred.
-
-The student had abandoned him with revealing that the suspect was married and the influence of the suspect was impacted by the student at a house in the Kulugammana area.
-
-From there, the student was abducted while he sat for the O / L examination and returning home.
-
-◼️
-
-[Data](articles/781dcf05.json)
-
-[Extended Data](ext_articles/781dcf05.ext.json)
-
----
-
-### Dialog Customers Contribute Over Rs. 18 Million to Little Hearts via Star Points
-
-*2024-05-15 22:06:00* · [`islandlk`](http://island.lk/dialog-customers-contribute-over-rs-18-million-to-little-hearts-via-star-points/) · `en`
-
-Over Rs. 140 Million donated via Star Points to Little Hearts Project Since 2016
-
-Dialog customers came together extending their support once again to contribute over Rs. 18 Million towards Little Hearts, an initiative spearheaded by the Sri Lanka College of Pediatricians, bringing the total donation amount since 2016 to Rs. 140 Million. The programme aims to develop a 12-storey cardiac and critical care complex at Lady Ridgeway Hospital in aid of children with heart diseases and critical illnesses.
-
-...
-
-[Data](articles/802f96dc.json)
-
-[Extended Data](ext_articles/802f96dc.ext.json)
 
 ---

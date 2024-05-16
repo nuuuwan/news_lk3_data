@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 02:18:21**
+As of **2024-05-17 02:33:53**
 
 ## Newspaper Stats
 
-*Scraped **24,557** Articles*
+*Scraped **24,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,411
 dailyftlk | 1,450
 adalk | 2,107
 adaderanalk | 2,840
-tamilmirrorlk | 2,884
+tamilmirrorlk | 2,885
 virakesarilk | 3,693
 dailymirrorlk | 3,855
 adaderanasinhalalk | 3,914
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,557 (100.0%) of 24,557 articles have been extended.
+24,557 (100.0%) of 24,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### சிறிதரனுடன் அமெரிக்க தூதுவர் சந்திப்பு
+
+*2024-05-17 02:21:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதரனுடன்-அமெரிக்க-தூதுவர்-சந்திப்பு/175-337444) · `ta`
+
+யாழ்ப்பாணத்திற்கு விஜயம் செய்துள்ள இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் பாராளுமன்ற உறுப்பினர்கள் சிலரை சந்தித்துள்ளார்.
+
+இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர்களான சிவஞானம் சிறிதரன், சார்ள்ஸ் நிர்மலநாதன், தமிழீழ மக்கள் விடுதலைக் கழகத்தின் தலைவரும் பாராளுமன்ற உறுப்பினருமான தர்மலிங்கம் சித்தார்த்தன் ஆகியோரை அமெரிக்க தூதுவர் நேற்று முன்தினம் சந்தித்துள்ளார்.
+
+வட மாகாண மக்கள் எதிர்கொள்ளும் தொடர்ச்சியான சவால்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டதாக இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தனது எக்ஸ் பதிவில் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/d8313d77.json)
+
+---
 
 ### Lawmakers must note that stars in galaxy are dead - EDITORIAL
 
@@ -2253,27 +2269,5 @@ Investigations have revealed that Russia had been given jobs to Russia in variou
 [Data](articles/64d8e62e.json)
 
 [Extended Data](ext_articles/64d8e62e.ext.json)
-
----
-
-### Bus driver dies after falling ill at the wheel, causing crash
-
-*2024-05-16 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99252/bus-driver-dies-after-falling-ill-at-the-wheel-causing-crash-) · `en`
-
-A 39-year-old bus driver attached to the Nawalapitiya SLTB Bus Depot has reportedly passed away due to a sudden illness while driving a bus towards Nawalapitiya, thereby causing the bus to veer off the road and crash.
-
-A bus which was operating on the route from Nuwara Eliya to Nawa-lapitiya via Dimbula Pathana had reportedly encountered a technical fault during its journey last evening (15).
-
-As a result of this, the passengers of the bus had been transferred to another SLTB bus. However, while the bus which had broken down was being driven back to Nawalapitiya after being repaired, the driver had suddenly fallen ill causing the vehicle to veer off the road.
-
-The conductor of the bus had immediately contacted the Lindula Police regarding the incident and police officers had arrived at the scene and rushed the driver to the Lindula Hospital.
-
-However, he had been pronounced dead on admission to the hospital.
-
-◼️
-
-[Data](articles/4edbe5db.json)
-
-[Extended Data](ext_articles/4edbe5db.ext.json)
 
 ---

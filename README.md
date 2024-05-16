@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 04:52:18**
+As of **2024-05-17 05:03:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,558 (100.0%) of 24,561 articles have been extended.
+24,561 (100.0%) of 24,561 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1134,39 +1134,55 @@ The Ministry of Education said that if the information was not available, the pr
 
 ---
 
-### வலிந்து காணாமலாக்கப்பட்டோரின் உறவினர்களை சந்திக்கிறார் மன்னிப்புச்சபையின் செயலாளர் நாயகம்
+### Amnesty Council Secretary General meets relatives of missing persons
 
 *2024-05-16 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183709) · `ta`
 
-முதன்முறையாக இலங்கைக்கு வருகைதந்துள்ள சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் வெள்ளிக்கிழமை  (17) முல்லைத்தீவில் வலிந்து காணாமலாக்கப்பட்டோரின் உறவினர்களைச் சந்தித்துக் கலந்துரையாடவுள்ளார்.
+Amnesty International's Secretary General visits Sri Lanka, meeting families of missing persons in Mullaitivu. Urging truth, justice, and accountability for war crimes and human rights abuses.
 
-யுத்தத்தின்போது இடம்பெற்றதாகக் கூறப்படும் போர்க்குற்றங்கள், மனித உரிமை மீறல்கள் மற்றும் மனிதகுலத்துக்கு எதிரான வன்முறைகள் என்பன தொடர்பில் உண்மை, நீதி மற்றும் பொறுப்புக்கூறல் என்பன உறுதிப்படுத்தப்படவேண்டும் என சர்வதேச மன்னிப்புச்சபை தொடர்ச்சியாக வலியுறுத்திவருவதுடன், சர்வதேச அரங்கில் இலங்கை மீதான அழுத்தங்களையும் பிரயோகித்துவருகின்றது.
+🟩
 
-அந்தவகையில் மூன்று தசாப்தகால யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு நாளைய தினத்துடன் (18) 15 வருடங்கள் பூர்த்தியடையும் நிலையில், முதன்முறையாக தெற்காசியப் பிராந்தியத்துக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருக்கும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், வியாழக்கிழமை (16) நாட்டை வந்தடைந்துள்ளார்.
+The Secretary General of the Amnesty International, who is visiting Sri Lanka for the first time, will meet with relatives of the missing persons in Mullaitivu on Friday (17).
+
+The Amnesty International has continued to urge truth, justice and accountability to ensure that war crimes, human rights violence and violence against humanity, have been urging Sri Lanka on the international stage.
+
+Amnesty International Secretary General of the International International, who has made an official visit to the South Asian region for the first time, has arrived in the country on Thursday (16), with the end of the three decades of war (18).
+
+Accordingly, he will visit Mullaitivu on Friday (17), where he will meet relatives of the missing persons.. The meeting will be held in Mullaithivu at 5.00 pm today, representing the association of the North and East Missing Relations Association, Jaffna, Vavuniya, Mannar, Kilinochchi, Mullaitivu, Batticaloa, Trincomalee and Ampara.
 
 ...
 
 [Data](articles/91c17b2f.json)
 
+[Extended Data](ext_articles/91c17b2f.ext.json)
+
 ---
 
-### குற்றச்செயல்களின் மூலம் பெறப்படும் சொத்துக்களை அரசுடமையாக்க புதிய சட்டம்   - நீதி அமைச்சர்
+### New Law - Minister of Justice to Correlate Assets by Criminal Affairs
 
 *2024-05-16 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183708) · `ta`
 
-குற்றச்செயல்கள் மூலம் மோசடியான முறையில் சம்பாதித்த சொத்துக்களை அரச உடமையாக்கும் வகையில் புதிய சட்டம்  கொண்டுவர விரைவில் நடவடிக்கை எடுப்போம் என நீதி, சிறைவாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Wijeyadasa Rajapaksa announced a new law to nationalize criminally acquired assets, emphasizing the importance of protecting citizens' rights and restoring order and economic stability through adherence to the rule of law.
 
-கண்டி நீதிமன்ற கட்டிட வளாகத்தில்  சட்டத்தரணிகளுக்கான புதிய காரியாலயம் ஒன்றுக்கான அடிக்கல் நாட்டும் நிகழ்வு நேற்று முன்தினம் புதன்கிழமை இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நீதியை நிலைநாட்டு நடவடிக்கையில் முக்கியமான விடயமாக இருப்பது, வழக்கு நடவடிக்கையில் சிக்கிக்கொண்டிருக்கும் பொது மக்களாகும்.
+Minister of Justice, Prison and Constitutional Reforms Wijeyadasa Rajapaksa said that the new law will be taken to bring in new legislation to the state -owned assets.
 
-சட்டத்தரணிகளால்  மேற்கொள்ளப்படுவது வேலை  அல்ல. அது கெளரவமான தொழிலாகும். யாராவது ஒருவர் நீதிமன்றத்தை நாடுவது, அவரது பிரச்சினைக்கு தீர்வுகாண வேறு ஒரு இடம் இல்லாத படியாகும். அதனால் நீதிமன்றத்துக்கு வரும் வாடிக்கையாளரின் உரிமையை நாங்கள் பாதுகாத்துக்கொடுக்க வேண்டும்.
+The foundation stone laying ceremony for a new office for lawyers at the Kandy Court Building was held on Wednesday. He said this while addressing the gathering.
 
-கடந்த காலங்களில் எமது நாட்டு பொதுளாதாரம் வீழ்ச்சியடைந்தது. நாடு அராஜகமானது. நாட்டை பொறுப்பேற்க யாரும் முன்வரவில்லை.
+The main issue of justice is the general public who is caught in the case.
+
+Conducting by lawyers is not working. That is the honorable profession. Someone seeking court is a place where there is no other place to solve his problem. So we must protect the customer's rights to court.
+
+In the past, our country's publicity has fallen. The country is anarchy. No one came forward to take responsibility for the country.
+
+We must protect such a situation from the future. When the country became anarchy, the economy fell and the rule of law fell into a state of instability. The rule of law must be protected to build the country's economy.
 
 ...
 
 [Data](articles/667499eb.json)
+
+[Extended Data](ext_articles/667499eb.ext.json)
 
 ---
 
@@ -1226,19 +1242,27 @@ The Son of the suspect has said, "I can't really think of what he did," he said.
 
 ---
 
-### ஜனாதிபதி பாராளுமன்றத்தை கலைக்கப்போவதில்லை  - ஆஷு மாரசிங்க உறுதி
+### President is not going to dissolve parliament - Ashu Marasinghe
 
 *2024-05-16 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183696) · `ta`
 
-கடன் மறுசீரமைப்பு உள்ளிட் பொருளாதார அபிவிருத்தி வேலைத்திட்டங்களை மேற்கொண்டுவரும் நிலையில் பாராளுமன்றத்தை கலைத்து தேர்தலுக்கு செல்வதற்கு ஜனாதிபதி ஒருபோதும் நடவடிக்கை எடுக்கமாட்டார். சட்டத்தின் பிரகாரம் ஜனாதிபதி தேர்தல் இந்த வருடம் இடம்பெறும்  என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+President won't dissolve parliament; debt restructuring ongoing. Ashu Marasinghe, former UNP MP, confirms elections this year per law. Opposition calls for general election but constitutionally due in October. President focuses on economic recovery, passing new laws, and IMF debt restructuring plans.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (16) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பொதுத் தேர்தலை நடத்துமாறு எதிர்க்கட்சில் சிலர் தெரிவித்து வருகின்றனர். ஆனால் பொதுத் தேர்தலை நடத்துவதற்கு இன்னும் காலம் இருக்கிறது. அரசியலமைப்பின் பிரகாரம்  எதிர்வரும் ஒக்டோபர் மாதத்தில்  ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும்.  அதனால் ஜனாதிபதி தேர்தலே ஆரம்பமாக நடக்கும் என்பதில் சந்தேகம் இல்லை.
+The president will never take action to dissolve parliament and go to the election as the debt renovation is underway. Former United National Party (UNP) parliamentarian Ashu Marasinghe said the presidential election would be held this year according to the law.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (16).
+
+Some in the opposition are calling for a general election. But there is still time to hold the general election. According to the Constitution, the presidential election should be held in October.So there is no doubt that the presidential election will begin.
+
+At the same time, the President is taking various steps to build the economy of the country that has fallen. He has taken steps to pass the new laws in Parliament and pass it. When Parliament meets next week, a new bill on financial funds is allowed to be submitted to Parliament.
 
 ...
 
 [Data](articles/ca3c5b09.json)
+
+[Extended Data](ext_articles/ca3c5b09.ext.json)
 
 ---
 

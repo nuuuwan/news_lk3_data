@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 21:52:57**
+As of **2024-05-16 22:05:28**
 
 ## Newspaper Stats
 
-*Scraped **24,523** Articles*
+*Scraped **24,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,104
-adaderanalk | 2,838
-tamilmirrorlk | 2,882
+adalk | 2,105
+adaderanalk | 2,839
+tamilmirrorlk | 2,883
 virakesarilk | 3,691
 dailymirrorlk | 3,848
 adaderanasinhalalk | 3,913
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,519 (100.0%) of 24,523 articles have been extended.
+24,523 (100.0%) of 24,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### O/L பரீட்சையில் 14 மாணவர்களுக்கு நடந்த கொடுமை
+
+*2024-05-16 21:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-14-மாணவர்களுக்கு-நடந்த-கொடுமை/175-337443) · `ta`
+
+கல்விப் பொதுத்தராதர சாதாரணத் தரப் பரீட்சையில் பல மோசடிகள் இடம்பெற்றுள்ளதாக இலங்கை  மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு அளிக்கப்பட்டுள்ளது.
+
+அதன்படி,  மினுவங்கொடை கல்வி வலயத்தின் அல்ஹமான் முஸ்லிம் மகா வித்தியாலத்தில் தமிழ் மொழி மூல பரீட்சையில் தோற்றிய 14 மாணவர்களுக்கு புவியியல் பாடத்தின் முதலாவது வினாத்தாள் மற்றும் வரைப்பட பகுதி பெற்றுக் கொடுக்கப்படவில்லை என குற்றம் சாட்டப்பட்டுள்ளது.
+
+அதேபோல், இரணடு விசேட தேவையுடைய மாணவர்களுக்கும் பரீட்சை மேற்பார்வையாளர்களால் இடையூறு ஏற்படுத்தப்பட்டதாகவும் முறைப்பாட்டாளர்கள் குற்றம் சாட்டியுள்ளனர்.
+
+நேற்று நிறைவடைந்த சாதாரண தரப் பரீட்சையில் பிழைகள் காணப்பட்டதாகவும் மற்றும் பரீடசை நிலையங்கள் சிலவற்றில் மோசடிகள் இடம்பெற்றதாகவும் தொடர்ந்து குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/ab64bbd6.json)
+
+---
+
+### Resumption of India-Sri Lanka ferry service delayed indefinitely
+
+*2024-05-16 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99261/resumption-of-india-sri-lanka-ferry-service-delayed-indefinitely) · `en`
+
+The resumption of the passenger ferry service between Nagapattinam in India and the Kankesanthurai region near Jaffna in the Northern Province of Sri Lanka has been delayed again for an indefinite period, Aviation Minister Nimal Siripala de Silva has said.
+
+The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthurai (KKS) suburb of Jaffna district, which was to resume on May 13, was delayed due to a “technical shortcoming”, de Silva said on Wednesday.
+
+The nature of the “technical shortcoming” was not revealed by the minister.
+
+The service, launched in October last year after nearly 40 years, was halted a few days later owing to rough weather.
+
+Since then, the resumption of the service, which is a vital component of India-Sri Lanka maritime cooperation, has been delayed three times.
+
+India has also extended a grant assistance of USD 63.65 million -- the entire project cost -- to Sri Lanka to rehabilitate the Kankesanthurai Port in the Northern Province.
+
+...
+
+[Data](articles/fe0e4ed8.json)
+
+---
 
 ### Ready to discuss with anyone - President
 
@@ -213,6 +253,22 @@ The Minister has urged that government employees will be given a re -pay hike ne
 [Data](articles/b68827bc.json)
 
 [Extended Data](ext_articles/b68827bc.ext.json)
+
+---
+
+### රුසියානු යුද්ධයට ගිය ලාංකිකයන් ගැන හොයන්න විශේෂිත දූත පිරිසක් රුසියාවට
+
+*2024-05-16 19:17:13* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-යුද්ධයට-ගිය-ලාංකිකයන්-ගැන-හොයන්න-විශේෂිත-දූත-පිරිසක්-රුසියාවට/11-409687) · `si`
+
+රුසියානු – යුක්‍රේන යුද්ධයට මැදි වී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් සොයා බැලීමට විශේෂිත දූත පිරිසක් රුසියාව බලා පිටත් කර යවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දුන් බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+
+ඒ අනුව ආරක්ෂක අමාත්‍යාංශයේ ලේකම්, රුසියාවේ හිටපු තානාපති සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන්ගෙන් සමන්විත දූත පිරිසක් කඩිනමින් රුසියාව බලා පිටත් කෙරෙන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (16) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/baf7c013.json)
 
 ---
 
@@ -620,57 +676,75 @@ The Son of the suspect has said, "I can't really think of what he did," he said.
 
 ---
 
-### அரிசியை உட்கொண்ட கோழிகள் இறந்ததாக தெரிவிக்கப்படும் குற்றச்சாட்டில் உண்மை இல்லை - ஆஷு மாரசிங்க
+### The allegations of the death of chickens who consumed rice are not true - Ashu Marasinghe
 
 *2024-05-16 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183694) · `ta`
 
-அரசாங்கம் நிவாரணமாக வழங்கிய அரிசியை உட்கொண்ட கோழிகள் இறந்துள்ளதாக தெரிவிக்கப்படும் செய்தியில் எந்த உண்மையும் இல்லை.
+Ashu Marasinghe, former UNP parliamentarian, denies claims that chickens fed government-distributed rice died. He accuses opposition of spreading false propaganda to discredit relief efforts. No studies confirm chicken deaths due to rice consumption; public health inspectors also deny it. Marasinghe calls for investigation into the allegations, emphasizing the importance of factual reporting to maintain trust in government aid programs.
 
-மக்களுக்கு நிவாரணம் வழங்கும் அரசாங்கத்தின் வேலைத்திட்டத்தை குழப்புவதற்கு எதிர்க்கட்சிகள் மேற்கொண்டுவரும் பொய் பிரசாரமாகும் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை  (16) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+There is no truth in the news that the chickens who consumed the rice provided by the government as a relief.
 
-குறைந்த வருமானம் உடைய குடும்பங்களுக்கு அரசாங்கம் நிவாரணமாக 10கிலாே அரிசி பகிர்ந்தளித்து வருகிறது. அரசாங்கத்தின் இந்த வேலைத்திட்டத்தை குழப்ப ஆரம்பத்தில் இருந்து பல்வேறு குற்றச்சாட்டுக்கள் தெரிவிக்கப்பட்டு வந்தன. தற்போது அரசாங்கம் வழங்கிய அரிசியை உட்கொண்ட 7 கோழிகள்  இறந்துள்ளதாக எதிர்க்கட்சி உறுப்பினர்கள் பொய் குற்றச்சாட்டு ஒன்றை தெரிவித்து வருகின்றனர்.
+Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the opposition parties are a false propaganda to confuse the government's program to provide relief to the people.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (16).
+
+The government distributes 10 kg of rice as relief to low -income families. Various allegations have been made from the beginning to confuse this program of the government. Opposition members have been accused of false allegations that 7 chickens who have consumed rice now provided by the government.
 
 ...
 
 [Data](articles/d1b3b633.json)
 
+[Extended Data](ext_articles/d1b3b633.ext.json)
+
 ---
 
-### ஜனாதிபதி பெருந்தோட்டத் தொழிலாளர்களை ஏமாற்றி விட்டார் - மயந்த திஸாநாயக்க
+### President deceives plantation workers - Dissanayake
 
 *2024-05-16 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183692) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபா நாளாந்த சம்பளம் வழங்கப்படும் எனக் கூறி ஜனாதிபதி ரணில் விக்கிரமசிங்க அந்த மக்களை ஏமாற்றியுள்ளார். ஐக்கிய மக்கள் சக்தி ஆட்சியில் அவர்களுக்கு நியாயமான சம்பளம் வழங்கப்படுவதோடு, அவர்கள் சிறுதோட்ட உரிமையாளர்களாகவும் மாற்றப்படுவர் என்று பாராளுமன்ற உறுப்பினர் மயந்த திஸாநாயக்க தெரிவித்தார்.
+Ranil Wickremesinghe allegedly misled plantation workers, promising a daily wage of 1700 rupees but only offering 1350. MP Mayantha Dissanayake criticizes this deception, emphasizing the United People's Power's commitment to fair wages and ownership opportunities for plantation workers. Dissanayake, newly appointed as Nuwara Eliya District Chairman, vows to serve the people and anticipates facing elections, with Sajith Premadasa as their candidate.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வியாழக்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-ஐக்கிய மக்கள் சக்தியின் நுவரெலியா மாவட்ட தலைவராகவும், தொகுதி அமைப்பாளராகவும் எனக்கு நியமனம் வழங்கப்பட்டுள்ளது. அதற்கமைய எனது பரம்பரையில் சகலரும் ஆற்றியதைப் போன்ற சிறந்த சேவையை நானும் நுவரெலியா மாவட்ட மக்களுக்காக ஆற்றுவேன்.
+President Ranil Wickremesinghe has deceived the people by saying that plantation workers will be paid a daily salary of 1700 rupees.. Parliamentarian Mayanta Dissanayake said that the United People's Power regime will be paid a fair salary and they will be turned into small owners.
 
-ஜனாதிபதித் தேர்தல் முதலில் இடம்பெறும் என்று நாம் எதிர்பார்க்கின்றோம். ஆனால் எந்த தேர்தல் இடம்பெற்றாலும் அதனை எதிர்கொள்ள நாம் தயாராகவுள்ளோம். எமது பொது வேட்பாளராக சஜித் பிரேமதாச களமிறக்கப்படுவார். நாட்டிலுள்ள பெரும்பான்மையான மக்கள் அவருக்கு வாக்களித்து வெற்றி பெற செய்வார்கள்.
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Thursday (16).
+
+I have been appointed as the Nuwara Eliya District Chairman of the United People's Power and the constituency organizer. I will serve the people of Nuwara Eliya for the people of Nuwara Eliya.
+
+We expect the presidential election to take place first. But we are ready to face any election. Sajith Premadasa will be fielded as our common candidate. Most of the people in the country will vote for him and win.
 
 ...
 
 [Data](articles/864eb977.json)
 
+[Extended Data](ext_articles/864eb977.ext.json)
+
 ---
 
-### பாராளுமன்ற தேர்தலை நடத்துவது பொருத்தமற்றது : ரணிலுக்கு இன்னொரு வாய்ப்பு வழங்கப்பட வேண்டும் - பிரசன்ன ரணதுங்க
+### It is inappropriate to hold parliamentary elections: Ranil should be given another chance - Prasanna Ranatunga
 
 *2024-05-16 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183686) · `ta`
 
-தற்போதைக்கு கட்சியை விட நாடு முக்கியம் எனவும் அதனால் தான் ரணில் விக்கிரமசிங்கவிற்கு மீண்டும் ஒரு சந்தர்ப்பம் வழங்கப்பட வேண்டும் எனவும் தாம் ஆலோசனை வழங்குவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க வலியுறுத்துகின்றார்.
+Urban Development Minister Prasanna Ranatunga advocates for giving Ranil Wickremesinghe another term, citing the need for stability during the economic crisis. He argues against holding parliamentary elections before the presidential ones, suggesting they could hinder recovery efforts. Ranatunga emphasizes the importance of forming a sustainable government post-presidential election to address the nation's economic challenges effectively.
 
-ஜனாதிபதி தேர்தலுக்கு முன்னர் பாராளுமன்ற தேர்தலை நடத்துவது தற்போது பொருத்தமற்றது என அவர் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-நாடு எதிர்நோக்கி வரும் பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு நிலையான அரசாங்கம் அமைய வேண்டும் எனவும் தற்போதைய சூழ்நிலையில் பாராளுமன்ற தேர்தலின் மூலம் நிலையான அரசாங்கம் உருவாகாது எனவும் அமைச்சர் சுட்டிக்காட்டியுள்ளார். ஆனால் ஜனாதிபதி தேர்தலின் பின்னர் பொதுத் தேர்தலை நடத்துவதன் மூலம் நாட்டில் மீண்டும் ஒரு நிலையான அரசாங்கத்தை உருவாக்க முடியும் என்பது அமைச்சரின் கருத்து.
+Urban Development and Housing Minister Prasanna Ranatunga urges him that he advises Ranil Wickremesinghe to be given an opportunity again than the party.
 
-மீரிகம தொகுதி உறுப்பினர்களுக்கு கட்சியை வலுப்படுத்துவது மற்றும் எதிர்வரும் அரசியல் செயற்பாடுகள் குறித்து அறிவிக்கும் நிகழ்ச்சி ஒன்றில் புதன்கிழமை  (15) கலந்து கொண்டு நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க இதனை தெரிவித்தார்.
+He pointed out that holding a parliamentary election before the presidential election is currently inappropriate.
+
+The Minister pointed out that the government should have a sustainable government to recover from the economic crisis facing the country and that in the current situation the parliamentary election will not be formed by the parliamentary election.. But the minister's opinion is that after the presidential election, the general election can be created again in the country.
+
+Minister of Urban Development and Housing Prasanna Ranatunga made this observation on Wednesday (15) at a function to strengthen the party and announce the upcoming political activities.
 
 ...
 
 [Data](articles/e2621f45.json)
+
+[Extended Data](ext_articles/e2621f45.ext.json)
 
 ---
 
@@ -918,19 +992,27 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 
 ---
 
-### தமிழ்க்கட்சிகளின் பிளவு குறித்து அமெரிக்கத்தூதுவர் சுட்டிக்காட்டியுள்ள விடயம்
+### The US Ambassador has pointed out the split of the Tamil parties
 
 *2024-05-16 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183700) · `ta`
 
-தமிழரசுக்கட்சி வழக்கு விவகாரம் தொடர்பில் கேட்டறிந்திருக்கும் அமெரிக்கத்தூதுவர் ஜுலி சங், தமிழ்க்கட்சிகள் இவ்வாறு பிளவுபட்டு நிற்பது பலவீனத்தையே வெளிப்படுத்தும் எனவும், கட்சிகள் ஒன்றுபட்டு நின்றால் மாத்திரமே தமிழர் பிரச்சினைகளுக்கான தீர்வு குறித்து தம்மால் பேசமுடியும் எனவும் சுட்டிக்காட்டியுள்ளார்.
+US Ambassador Juli Sung met Tamil political leaders in Jaffna, discussing the Tamil National Party case and the need for a unified approach to address Tamil issues. The discussion highlighted the importance of a federal solution with internal self-determination for fulfilling Tamil aspirations. There was disagreement among the leaders over the necessity of a common Tamil candidate for the upcoming presidential election, with some advocating for unity while others expressing concerns about vote support and rejection of demands.
 
-யாழ்ப்பாணத்துக்கு விஜயம் மேற்கொண்டிருக்கும் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங் மற்றும் தமிழ் அரசியல் கட்சிகளின் பிரதிநிதிகளுக்கு இடையிலான சந்திப்பு புதன்கிழமை (16) மாலை யாழில் உள்ள தனியார் உணவு விடுதியொன்றில் நடைபெற்றது.
+🟩
 
-இச்சந்திப்பில் தமிழ் அரசியல் கட்சிகளின் சார்பில் இலங்கைத் தமிழரசுக்கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன், புளொட் தலைவரும் பாராளுமன்ற உறுப்பினருமான தர்மலிங்கம் சித்தார்த்தன் மற்றும் தமிழரசுக்கட்சி பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன் ஆகியோர் கலந்துகொண்டிருந்தனர்.
+The US ambassador Juli Sung, who has been asked about the Tamil National Party case, pointed out that the Tamil parties will be able to talk about the weakness and that the parties can only speak about the solution to the problems of Tamil problems.
+
+A meeting between US ambassador Julie Sung and representatives of Tamil political parties, who are visiting Jaffna, held a private restaurant in Jaffna on Wednesday evening.
+
+Sivagnanam Sridharan, leader of the Sri Lankan Tamil party and parliamentarian Dharmalingam Siddharthan and TNA parliamentarian Charles Nirmalanathan were also present on behalf of the Tamil political parties.
+
+During the meeting, US ambassador Juli Sung heard about it as he was talking about the public candidate on behalf of the Tamils in the upcoming presidential election.
 
 ...
 
 [Data](articles/bc3c73fc.json)
+
+[Extended Data](ext_articles/bc3c73fc.ext.json)
 
 ---
 
@@ -2287,73 +2369,5 @@ The owner and its manager have been arrested in a licensed foreign employment ag
 [Data](articles/ce372e14.json)
 
 [Extended Data](ext_articles/ce372e14.ext.json)
-
----
-
-### One person arrested with 7,000 drug pills worth more than 20 lakhs
-
-*2024-05-16 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183667) · `ta`
-
-A 32-year-old man was arrested in Kalpitiya for possessing 7,000 drug pills worth over 20 lakhs, found during a raid on his home. The pills were hidden in 58 boxes and were reportedly transported from Colombo, selling at 300 rupees each.
-
-🟩
-
-A suspect has been arrested with 7,000 drug pills worth more than 20 lakhs hidden in a house in Kalpitiya, police said.
-
-According to information available to the police, a raid carried out in the suspect's home was seized in 58 boxes in a room.
-
-Police investigations revealed that the arrested was a 32 -year -old man and he worked at a pharmacy.
-
-The suspect told police that the drug pills are being brought from Colombo to Kalpitiya and a pill is being sold at a price of 300 rupees.
-
-◼️
-
-[Data](articles/1c4c3603.json)
-
-[Extended Data](ext_articles/1c4c3603.ext.json)
-
----
-
-### Showery and windy conditions to enhance during next few days
-
-*2024-05-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99250/showery-and-windy-conditions-to-enhance-during-next-few-days) · `en`
-
-The Meteorology Department warns that showery and windy conditions are expected to enhance during the next few days due to pre-monsoonal conditions over the country and surrounding sea areas.
-
-Issuing a special weather bulletin today, valid for the next week, it said heavy rainfalls are likely over the South-western parts of the country particularly in Western, Sabaragamuwa, and Central and North-western provinces and in Galle, Matara and Mannar districts.
-
-Strong winds of about 60-70 kmph accompanied with heavy rainfalls can be expected areas around the country and over the sea area bounded by (0-10) N (60-90) E, says the Met. Department.
-
-The general public, fishing and naval community are kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ba5f9548.json)
-
-[Extended Data](ext_articles/ba5f9548.ext.json)
-
----
-
-### Two of the magical female examiners recovery
-
-*2024-05-16 12:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாயமான-பெண்-பரீட்சார்த்திகள்-இருவர்-மீட்பு/76-337420) · `ta`
-
-Two female examiners were rescued from relatives' homes after appearing for an unknown exam. They visited Colombo for work and stayed in Kaduwela before being taken to the Ginigathena Police Station. Two local schoolgirls were also brought there by their families but were released after instructions.
-
-🟩
-
-Two mysterious examiners have been rescued from the home of relatives as they appeared for an unaccounted examination.
-
-The two students have gone to the Ginikathena Police Station on Wednesday night (15) at the home of relatives in Kaduwela as they went to the exam on Tuesday (14).
-
-Police said that the two had gone to Colombo in search of the job and had gone to the relative's home in Kaduwela on Wednesday night.
-
-Two schoolchildren from Kaduwela area were brought to the Ginigathena Police Station on Thursday (16) by their relatives.. Ginigathena police said that the two girls were instructed and later handed over to relatives.
-
-◼️
-
-[Data](articles/b42f9158.json)
-
-[Extended Data](ext_articles/b42f9158.ext.json)
 
 ---

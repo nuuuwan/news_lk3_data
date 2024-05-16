@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 20:18:33**
+As of **2024-05-16 20:33:48**
 
 ## Newspaper Stats
 
-*Scraped **24,511** Articles*
+*Scraped **24,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,38 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,102
+adalk | 2,103
 adaderanalk | 2,838
 tamilmirrorlk | 2,882
 virakesarilk | 3,687
-dailymirrorlk | 3,845
+dailymirrorlk | 3,847
 adaderanasinhalalk | 3,910
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,510 (100.0%) of 24,511 articles have been extended.
+24,511 (100.0%) of 24,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### தத்தளிக்கிறது கண்டி
+### Embarrassment
 
 *2024-05-16 20:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தத்தளிக்கிறது-கண்டி/76-337441) · `ta`
 
-கண்டியில் இன்று மாலை பெய்த கடும் மழை காரணமாக கண்டி புகையிரத நிலையம் மற்றும் கண்டியின் பல இடங்கள் வெள்ளத்தில் மூழ்கி போக்குவரத்து பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+Heavy rains flood Kandy Railway Station and parts of Kandy, affecting transportation and safety.
+
+🟩
+
+Due to heavy rains in Kandy this evening, the Kandy Railway Station and many other areas of Kandy have been flooded, the Disaster Management Center said.
 
 ◼️
 
 [Data](articles/cc63935f.json)
+
+[Extended Data](ext_articles/cc63935f.ext.json)
 
 ---
 
@@ -71,6 +77,24 @@ The National Center on the Missing and exploitation of the US, the National Cent
 [Data](articles/90e43443.json)
 
 [Extended Data](ext_articles/90e43443.ext.json)
+
+---
+
+### RW declines, Sajith yet to respond, AKD says yes
+
+*2024-05-16 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/RW-declines-Sajith-yet-to-respond-AKD-says-yes/108-282743) · `en`
+
+Colombo, May 16 - President Ranil Wickremesinghe informed the Daily Mirror that he is not in a position to participate in the live political debate organized by Daily Mirror and Lankadeepa between the political party leaders when an invitation was extended to him today.
+
+“I am engaged in debates in Parliament. If anyone wants to have debates with me they can join me in Parliament,” the President said.
+
+The Daily Mirror extended invitations to main presidential candidates Ranil Wickremesinghe, National Peoples Power Leader Anura Kumara Dissanayake and Leader of Opposition Sajith Premadasa for a live debate on their parties economic and political policies and their pledges in moving the country forward if they win the presidential election scheduled to be held this year.
+
+SJB Leader Sajith Premadasa has still not responded to the invitation while NPP Leader Anura Kumara Dissanayake has accepted to debate.
+
+...
+
+[Data](articles/bb0d7442.json)
 
 ---
 
@@ -171,6 +195,38 @@ The State Minister had left the airport premises following a cheeky hitting the 
 [Data](articles/394b925e.json)
 
 [Extended Data](ext_articles/394b925e.ext.json)
+
+---
+
+### භාෂා පරිවර්තකයෙක් ලෙස ආපු චීන ජාතිකයා මාස 6කදී ලක්ෂ 3650ක් හොයලා
+
+*2024-05-16 18:52:41* · [`adalk`](https://www.ada.lk/breaking_news/භාෂා-පරිවර්තකයෙක්-ලෙස-ආපු-චීන-ජාතිකයා-මාස-6කදී-ලක්ෂ-3650ක්-හොයලා/11-409685) · `si`
+
+චීන භාෂා පරිවර්තකයකු වශයෙන් රැකියාවක් කිරීමට ලංකාවට පැමිණ මැණික් හා ස්වර්ණාභරණ අධිකාරියේ බලපත්‍රයක් නොමැතිව ලංකාව තුළ මැණික් ව්‍යාපාරයක් පවත්වාගෙන යමින් මාස 06ක් වැනි කෙටි කාලයක් තුළදී උපයාගත් රුපියල් මිලියන 365 කට අධික මුදල රාජසන්තක කිරීමට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (16) නියම කළේය.
+
+රුපියල් කෝටි 3 1/2ක දඩයකටද ඔහු යටත් කළ  විනිසුරුවරයා විත්තිකරුට වසර දෙකක බරපතල වැඩ සහිත සිර දඬුවම් නියම කර එය වසර 15ක කාලයකට අත්හිටුවීමටද නියම කළේය.
+
+නීතිය නොදැන සිටීම නිදහසට කරුණක් නොවන බව පෙන්වා දෙමින් මෙලෙස දඬුවම් නියම කරන ලද්දේ චීන භාෂා පරිවර්තකයකු වශයෙන් රැකියාවක් කිරීමට ලංකාවට පැමිණ මැණික් හා ස්වර්ණාභරණ අධිකාරියේ බලපත්‍රයක් නොමැතිව ලංකාව තුළ මැණික් ව්‍යාපාරයක් පවත්වාගෙන යමින් මාස 06ක් වැනි කෙටි කාලයක් තුළදී රුපියල් කෝටි 36 1/2 කට අධික මුදලක් උපයාගත් බවටට චෝදනා ලැබු චු ෂෙන් නමැති චීන ජාතිකයාටය.
+
+...
+
+[Data](articles/881fed3f.json)
+
+---
+
+### Ella-Wellawaya main road temporarily closed
+
+*2024-05-16 18:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ella-Wellawaya-main-road-temporarily-closed/108-282739) · `en`
+
+May 16 (Daily Mirror) - In response to the ongoing inclement weather conditions, authorities have announced the temporary closure of the Ella-Wellawaya main road, effective from 6:00 p.m. today till 6:00 a.m. tomorrow.
+
+This decision comes as a precautionary measure due to the hazardous state of the road, particularly in areas such as Malithagolla.
+
+Motorists are urged to seek alternate routes during this period to ensure their safety.
+
+◼️
+
+[Data](articles/89c121ee.json)
 
 ---
 
@@ -2315,73 +2371,5 @@ So how did you earn the relevant money?The complaint has been filed asking for a
 [Data](articles/37f494d1.json)
 
 [Extended Data](ext_articles/37f494d1.ext.json)
-
----
-
-### Sri Lanka’s Industrial Development Boards signs deal to support MSMEs
-
-*2024-05-16 11:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-industrial-development-boards-signs-deal-to-support-msmes-163296/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Industrial Development Board has signed an agreement with the Micro, Small and Medium Scale Entrepreneurs Forum to support MSMEs and address their problems.
-
-“Micro, Small and Medium Enterprises have a leading role in an entrepreneurial culture,” Chairman of the Industrial Development Board Saranga Alahapperuma said in a statement.
-
-“In order to make the concept of building an export-oriented manufacturing economy a reality, the  Industrial Development Board is launching a planned program for the development of micro, small and medium scale entrepreneurs who have more space in the entrepreneurial society.”
-
-Through the bilateral MoU, the IDB will support MSMEs by solving their problems, Alahapperuma said. (Colombo/May16/2024)
-
-◼️
-
-[Data](articles/7c482289.json)
-
-[Extended Data](ext_articles/7c482289.ext.json)
-
----
-
-### Discussion on Coconut and Package.
-
-*2024-05-16 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183661) · `ta`
-
-A meeting on coconut and pukkai (a type of fruit) took place at the Jaffna District Secretariat, led by Marudalingam Pradeepan. The discussion included the current situation and plans for this year, involving officials like SM Saman Bandulasena and representatives from the World Food Program.
-
-🟩
-
-Discussion on Coconut and Pukkai was held today (15) at the Jaffna District Secretariat's Office at the Jaffna District Secretariat headed by Government Agent Marudalingam Pradeepan.
-
-The current status of the Jaffna District Coconut and Pukkai was also discussed on this year's plan.
-
-Senior Additional Secretary to the President, SM Saman Bandulasena, Deputy Director of the World Food Program, Gerald Rebelli, World Food Scheme Officer Mustafa NihmedLeaders, District Secretariat Officers and many others were present.
-
-◼️
-
-[Data](articles/2f315df4.json)
-
-[Extended Data](ext_articles/2f315df4.ext.json)
-
----
-
-### Suspect arrested with fake currency notes
-
-*2024-05-16 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183658) · `ta`
-
-A 32-year-old man from Medamulana, Weeraketiya, was arrested by the Tangalle Police Special Task Force for possessing fake thousand-rupee notes. The counterfeit money was discovered during a search of his home. He has been transferred to the Weeraketiya Police Station for further inquiries.
-
-🟩
-
-A suspect has been arrested by the Tangalle Police Special Task Force with a thousand rupee fake currency notes in Medamulana, Weeraketiya.
-
-A 32 -year -old man from Medamulana, Weeraketiya has been arrested.
-
-According to information received by the Tangalle Police Special Task Force, the police said that the fake currency notes were seized when the suspect was searched by the suspect's house.
-
-Police said that a thousand rupees of fake currency notes were seized from the suspect at the investigation.
-
-Subsequently, the suspect has been handed over to the Weeraketiya Police Station for further investigations, police said.
-
-◼️
-
-[Data](articles/e8bfbbcf.json)
-
-[Extended Data](ext_articles/e8bfbbcf.ext.json)
 
 ---

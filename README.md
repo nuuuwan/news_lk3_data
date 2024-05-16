@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 20:03:37**
+As of **2024-05-16 20:18:33**
 
 ## Newspaper Stats
 
-*Scraped **24,510** Articles*
+*Scraped **24,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,102
 adaderanalk | 2,838
-tamilmirrorlk | 2,881
+tamilmirrorlk | 2,882
 virakesarilk | 3,687
 dailymirrorlk | 3,845
 adaderanasinhalalk | 3,910
@@ -26,47 +26,73 @@ adaderanasinhalalk | 3,910
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,508 (100.0%) of 24,510 articles have been extended.
+24,510 (100.0%) of 24,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### මෙරට අන්තර්ජාල ළමා අපයෝජන ඉහළ යන බව අමෙරිකාව පෙන්වයි
+### தத்தளிக்கிறது கண்டி
+
+*2024-05-16 20:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தத்தளிக்கிறது-கண்டி/76-337441) · `ta`
+
+கண்டியில் இன்று மாலை பெய்த கடும் மழை காரணமாக கண்டி புகையிரத நிலையம் மற்றும் கண்டியின் பல இடங்கள் வெள்ளத்தில் மூழ்கி போக்குவரத்து பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/cc63935f.json)
+
+---
+
+### US shows that Sri Lanka's online child abuse is up
 
 *2024-05-16 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196695) · `si`
 
-මෙරට බාලවයස්කාර දරු දැරියන් අන්තර්ජාලය ඔස්සේ අපයෝජනයට ලක්වීම ඉහළයෑම සම්බන්ධයෙන් අමෙරිකානු ආයතනයක් ශ්‍රී ලංකාවට දැනුම්දීමක් කර තිබේ.
+Sri Lanka reports rising online child abuse cases, with 55 threats and influences reported to the National Child Protection Authority. The US has alerted about underage photos found in Sri Lanka. Investigations are underway, highlighting the need for parental oversight and education on safe internet usage.
 
-එම වාර්තා පදනම් කරගනිමින් අධිකරණයට ගිය පොලිස් ළමා හා කාන්තා කාර්යංශය පැවසුවේ, ඒ සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් පවත්වන බවය.
+🟩
 
-කෙසේ වෙතත්, අන්තර්ජාලය හරහා දරුවන්ගේ නිරුවත් ඡායාරූප භාවිත කරමින් ඔවුන්ට තර්ජනය කිරීම හා බලපෑම් කිරීම් සම්බන්ධයෙන් මේ වසරේ පළමු මාස තුනේදී පමණක් ජාතික ළමා ආරක්ෂක අධිකාරියට ලැබී ඇති පැමිණිලි ගණන 55කි.
+Sri Lanka has notified Sri Lanka an American institution regarding increasing the influence of the country's abuse online.
 
-කුඩා කළ සිය මව්පිය රැකවරණ මැද හැදීවැඩෙන දරුවන් කෙමෙන් කෙමෙන් සමාජයට නිරාවරණය වීමත් සමග ජංගම දුරකථන හා අන්තර්ජාල ක්‍රියාකාරකම් සඳහා යොමු වෙයි.
+The Police Children's and Women's Bureau, who went to court, said there was a comprehensive investigation into the matter.
 
-එය වර්තමානය වනවිට විශාල ගැටලුවක් බවට පත්වී ඇත්තේ දිනෙන් දින අන්තර්ජාලය ඔස්සේ සිදුවන ළමා අපචාර ඉහළයෑම හේතුවෙනි.
+However, the National Child Protection Authority has received 55 complaints regarding the threat and influence of children on the Internet.
 
-ජාතික ළමා ආරක්ෂක අධිකාරිය පැවසුවේ අන්තර්ජාලය සහ සමාජ මාධ්‍ය ජාලා හරහා දරුවන්ගේ නිරුවත් ඡායාරූප භාවිත කරමින් ඔවුන්ට තර්ජනය කිරීම හා බලපෑම් කිරීම්වලට අදාළව 2023 වසරේදී පැමිණිලි 150ක්ද මේ වසරේ අප්‍රේල් 31 දක්වා පැමිණිලි 55ක්ද ලැබී ඇති බවය.
+With her small parent, the children who tend to be exposed to the central and exposure to the society.
+
+It has now become a major problem due to the increment of the increasing child abuse online.
+
+The National Child Protection Authority said that 150 complaints have been taken to threaten their children and influence on the Internet and social media collaborations and 55 complaints of 55 complaints.
+
+The National Center on the Missing and exploitation of the US, the National Center of the Children Discloses the children online for abuse, 2021, 22 and 23 years.
 
 ...
 
 [Data](articles/90e43443.json)
 
+[Extended Data](ext_articles/90e43443.ext.json)
+
 ---
 
-### அரச ஊழியர்களுக்கு சம்பள உயர்வு இல்லை
+### There is no pay hike for public servants
 
 *2024-05-16 19:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-சம்பள-உயர்வு-இல்லை/175-337440) · `ta`
 
-அரச ஊழியர்களுக்கு இந்த வருடம் சம்பள உயர்வு வழங்கப்பட மாட்டாது என ஜனாதிபதி அமைச்சரவைக்கு அறிவித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Mahinda Amaraweera, Minister of Agriculture, announced no pay hike for public servants this year due to potential economic risks. Unions requested an increase, but the minister warned it could lead to an economic downturn.
 
-தொழிற்சங்க பிரதிநிதிகளினால் முன்வைக்கப்பட்ட பல பிரச்சினைகளுக்கு தீர்வுகளை வழங்குவதற்கு இணக்கம் காணப்பட்டுள்ளதுடன், இந்த வருடமும் சம்பள அதிகரிப்பை வழங்குமாறு அனைத்து தொழிற்சங்க பிரதிநிதிகளும் அமைச்சரிடம் கோரிக்கை விடுத்துள்ளனர்.
+🟩
 
-அடுத்த வருடம் அரசாங்க ஊழியர்களுக்கு மீண்டும் சம்பள உயர்வு வழங்கப்படும் எனவும், இந்த வருடமும் சம்பள அதிகரிப்பு செய்யப்படுமானால் நாடு மீண்டும் பொருளாதார வீழ்ச்சியை சந்திக்க நேரிடும் எனவும் அமைச்சர் வலியுறுத்தியுள்ளார். R
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera has said that the President has informed the Cabinet that the pay hike will not be paid this year.
+
+All union representatives have asked the minister to provide a salary increase this year and this year.
+
+The Minister has urged that government employees will be given a re -pay hike next year and if the salary increases this year, the country will re -face economic downturn.. Remble
 
 ◼️
 
 [Data](articles/b68827bc.json)
+
+[Extended Data](ext_articles/b68827bc.ext.json)
 
 ---
 
@@ -2357,31 +2383,5 @@ Subsequently, the suspect has been handed over to the Weeraketiya Police Station
 [Data](articles/e8bfbbcf.json)
 
 [Extended Data](ext_articles/e8bfbbcf.ext.json)
-
----
-
-### The Minister of State
-
-*2024-05-16 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேயாட்டம்-ஆடிய-இராஜாங்க-அமைச்சர்/175-337416) · `ta`
-
-A diplomat arriving at Katunayake airport caused a scene, threatening staff and security over entry procedures and payment disputes. The incident involved the Minister of State, his wife, and an altercation with a porter over fees, leading to physical confrontation. Despite the assault, no police complaint was filed due to concerns about creating trouble.
-
-🟩
-
-Airport sources said that a diplomatic minister who arrived at the Katunayake airport had threatened a passenger employee (porter) and threatened security officers.
-
-The Minister of State has arrived at the Katunayake airport in the early hours of Wednesday morning for a foreign trip, including the wife of the Minister of State.
-
-He has tried to enter the airport through the main gate without buying a ticket with his guards.Airport security officials have told the diplomatic minister that her guards were with a gun and could not be allowed to carry.
-
-Airport security officials said that he had scolded security officers and photographed them with his cell phone.
-
-Later, airport sources said that when he asked the Porter who had come to take the travel packages with the Minister of State for the Minister of State, the Porter had paid less money and when he asked for the proper fee, the angry Minister had trampled the Porter's leg and left with the guardians.
-
-...
-
-[Data](articles/60102824.json)
-
-[Extended Data](ext_articles/60102824.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 10:03:26**
+As of **2024-05-16 10:18:27**
 
 ## Newspaper Stats
 
-*Scraped **24,369** Articles*
+*Scraped **24,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 247
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
-economynextcom | 1,399
+economynextcom | 1,401
 dailyftlk | 1,437
 adalk | 2,079
 adaderanalk | 2,823
@@ -26,23 +26,49 @@ adaderanasinhalalk | 3,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,366 (100.0%) of 24,369 articles have been extended.
+24,369 (100.0%) of 24,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### අධිරුධිර පීඩනය සහිත රෝගීන් ඉහළට
+### Some individuals making claims to cause stock market downturn: President
+
+*2024-05-16 10:00:00* · [`economynextcom`](https://economynext.com/some-individuals-making-claims-to-cause-stock-market-downturn-president-163271/) · `en`
+
+ECONOMYNEXT – Claims about the progress of IMF discussions and upcoming elections are being made through some platforms with non-political intentions, Sri Lanka’s President has said.
+
+“Discussions with private creditors are also progressing positively,” Ranil Wickremesinghe said at the opening of the Theldeniya courts complex.
+
+“Some individuals claim that these discussions are unsuccessful, while others are predicting about the dissolution of Parliament. When they made this type of statements the stock market will face a down turn on the following day.
+
+“Then they are purchasing the shares. Despite government reassurances that no such decisions have been made, they persist in echoing these claims on their platforms. This is not a political issue.”
+
+Sri Lanka’s Opposition members, mainly the Samagi Jana Balavegaya, have been calling for parliament to be dissolved and polls to be held. The calls intensified in Parliament after the sacking of State Minister Diana Gamage last week.
+
+...
+
+[Data](articles/819e622d.json)
+
+---
+
+### Patients with high blood pressure
 
 *2024-05-16 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196667) · `si`
 
-මෙරටින් වාර්තා වන අධිරුධිර පීඩන සහිත පුද්ගලයින්ගේ සංඛ්‍යාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග අධ්‍යක්ෂ කාර්යාලයේ ප්‍රජා වෛද්‍ය විශේෂඥ ශෙරිල් බාලසිංහ මහත්මිය පවසන්නීය.
+A community medical specialist from Sri Lanka's Ministry of Health reports that 35% of adults aged 18 to 69 have high blood pressure across all districts.
 
-ඇය පෙන්වා දෙන්නේ දිවයිනේ, සෑම දිස්ත්‍රික්ක ආවරණය වන පරිදි වයස අවුරුදු 18ත් 69ත් අතර පුද්ගලයින්ගෙන් සිදුකළ සමීක්ෂණයකදී අධිරුධිර පීඩකයින් සියයට 35ක් වාර්තා වු බවය.
+🟩
+
+Community Medical Specialist at the non-communicated condition of the Ministry of Health has increased the number of veteran pressures of Sri Lanka.
+
+She pointed out that a survey of between 18 and 69 years of age covering every district, the high blood pressure was 35 percent.
 
 ◼️
 
 [Data](articles/b502f34b.json)
+
+[Extended Data](ext_articles/b502f34b.ext.json)
 
 ---
 
@@ -50,7 +76,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-16 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drug-Lords-illegal-seaside-hotel-in-Dehiwala-allegedly-built-on-Govt-land/108-282701) · `en`
 
-Colombo, May 16 (Daily Mirror)- The hotel ‘Soul Beach,’ which was located in Dehiwala and later demolished, is suspected to have belonged to Shiran Basik, a major drug smuggler currently operating from abroad, was alleged to have been built on government land, it was revealed.
+Colombo, May 16 (Daily Mirror)- The hotel ‘Soul Beach,’ which was located in Dehiwala and later demolished, is suspected to have belonged to Shiran Basik, an alleged major drug smuggler currently operating from abroad, was alleged to have been built on government land, it was revealed.
 
 The hotel’s structures were removed in January this year by the Coast Guard and Police after it was found to be an illegal construction.
 
@@ -65,6 +91,28 @@ Following an inspection carried out by surveyors from the Government Survey Depa
 ◼️
 
 [Data](articles/251b4900.json)
+
+[Extended Data](ext_articles/251b4900.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 301.75/302.50 to US dollar
+
+*2024-05-16 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-301-75-302-50-to-us-dollar-163289/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 301.75/302.50 to the US dollar on Thursday, from 302.00/40 the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 was quoted up at 10.10/20 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted up at 10.30/50 percent from 10.20/35 percent.
+
+A bond maturing on 15.03.2028 was quoted up at 10.70/80 percent 10.50/65 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.40 percent at 12,340, the S&P SL20 was up 0.48 percent at 3,654. (Colombo/May16/2024)
+
+◼️
+
+[Data](articles/54f4437a.json)
 
 ---
 
@@ -90,25 +138,31 @@ The President has allocated Rs. 25 million for the project and has instructed of
 
 ---
 
-### නෙතන්යාහු ට අමාත්‍යවරයෙක්ගෙන් වාග් ප්‍රහාරයක්
+### Netanyahu is a Minister from Minister
 
 *2024-05-16 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196666) · `si`
 
-ඊශ්‍රායල ආරක්ෂක අමාත්‍ය යෝඅව් ගැලන්ට් එරට අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු ට එරෙහිව ප්‍රබල වාග් ප්‍රහාරයක් එල්ලකර ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+Israeli Defense Minister Yoav Gallant criticizes Prime Minister Netanyahu over Gaza strategy, suggesting a lack of planning for post-war governance. International critics question Israel's control and the end of conflict.
 
-එයින් හෙළිවන්නේ ගාසා යුද්ධය සහ යුද්ධය අවසන්වීමෙන් අනතුරුව ගාසා හි පාලනය සම්බන්ධයෙන් ඊශ්‍රායල අගමැතිවරයා සහ යුද කැබිනට් මණ්ඩල සාමාජිකයින් අතර පරස්පර මත මතුවෙමින් ඇති බව ජාත්‍යන්තර විචාරකයෝ පවසති.
+🟩
 
-ආරක්ෂක අමාත්‍ය ගැලන්ට් පවසන්නේ යුද්ධය අවසන්වීමෙන් අනතුරුව ගාසා තීරයේ හමුදාමය හෝ සිවිල් පාලනයක සියතට ගැනීමට ඊශ්‍රායලයට සැලසුමක් නොමැති බව ප්‍රසිද්ධියේ පවසන ලෙසයි.
+Israeli Defense Minister Youghtimes have launched a powerful strike against Prime Minister Benjamin Netanyaya in the country.
 
-"මම මේ සම්බන්ධයෙන් පසුගිය ඔක්තෝබර් මාසයේ සිට කැබිනට් මණ්ඩලයේදී විමසුවා. හැබැයි මට තවම ප්‍රතිචාරයක් ලැබුණේ නෑ...", ගැලන්ට් පැවසීය.
+International Critics say that the Israeli Prime Minister and the Army Cabinet members of Gaza reveals about the control of Gaza and the end of the war.
 
-ඒ සම්බන්ධයෙන් නිසි තීරණයක් නොගතහොත් ගාසා තීරයේ ඇතිවිය හැක්කේ ඊශ්‍රායල හමුදා පාලනයක් හෝ හමාස් පාලනයක් බව ඔහුගේ අදහසයි.
+Defense Minister Labons states that after the end of the war, it is public to say that there is no plan to take a military or civil administration in Gaza.
 
-නමුත් සිය ආරක්ෂක අමාත්‍යවරයාගේ ප්‍රකාශය සම්බන්ධයෙන් අගමැතිවරයා පැහැදිලි ප්‍රතිචාරයක් මෙතෙක් දක්වා නොමැති බව වාර්තා වෙයි.
+"I asked in the cabinet since October last October. But I haven't yet reacted a response ... ", Galunt said.
+
+If you do not make a proper decision, Gaza can be on Gaza, a man or Hamas rule.
+
+However, it is reported that the Prime Minister has not yet responded to the statement of his defense minister.
 
 ◼️
 
 [Data](articles/73e2efb6.json)
+
+[Extended Data](ext_articles/73e2efb6.ext.json)
 
 ---
 
@@ -2145,51 +2199,5 @@ A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/95 perc
 [Data](articles/fd8e913d.json)
 
 [Extended Data](ext_articles/fd8e913d.ext.json)
-
----
-
-### Imran Khan bailed
-
-*2024-05-15 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196654) · `si`
-
-Imran Khan, former PM of Pakistan, granted bail in a land fraud case, previously jailed for awarding illegal aid during his tenure. He rejected bail in Islamabad court but remains ineligible for release due to ongoing sentences in two other cases.
-
-🟩
-
-For another case against former Prime Minister of Pakistan, who is sentenced to imprisonment, has been paid to another bail against Imran Khan.
-
-Its accusation has been filed against him about the land fraud.
-
-When the former Prime Minister Khan was prime minister, he was accused of prizes awarded to illegal help.
-
-The former Prime Minister Khan declined the bail to the Islamabad Court.
-
-Although the former Prime Minister who was imprisoned from August to be sentenced to two other cases, the Prime Minister who is imprisoned will not be released further through this guarantee.
-
-◼️
-
-[Data](articles/408b7a8f.json)
-
-[Extended Data](ext_articles/408b7a8f.ext.json)
-
----
-
-### Sri Lanka govt extends military benefits for CDF ahead of polls
-
-*2024-05-15 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-extends-military-benefits-for-cdf-ahead-of-polls-163246/) · `en`
-
-ECONOMYNEXT – Sri Lanka government has decided to extend the same benefits given to war time army to Civil Defence Force (CDF), State Defence Minister Premitha Bandara Tennakoon said, ahead of the island nation declare the Presidential polls.
-
-The presidential election date is expected to be declared after July 17, but the Election Commission has already declared that the polls will be held between September 17 and October 16.
-
-President Ranil Wickremesinghe, who is also the country’s Defence Minister, is expected to contest under an independent common coalition with the support most parties backing him in the current government, his close allies have said.
-
-Backing of currently serving military and retired armed forces is vital for any political leader to win a presidency, analysts say.
-
-...
-
-[Data](articles/fa4406c8.json)
-
-[Extended Data](ext_articles/fa4406c8.ext.json)
 
 ---

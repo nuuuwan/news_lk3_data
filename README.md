@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 23:53:03**
+As of **2024-05-17 00:04:14**
 
 ## Newspaper Stats
 
-*Scraped **24,533** Articles*
+*Scraped **24,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 249
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
-economynextcom | 1,406
+economynextcom | 1,411
 dailyftlk | 1,438
-adalk | 2,106
+adalk | 2,107
 adaderanalk | 2,840
 tamilmirrorlk | 2,883
 virakesarilk | 3,692
-dailymirrorlk | 3,851
+dailymirrorlk | 3,852
 adaderanasinhalalk | 3,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,533 (100.0%) of 24,533 articles have been extended.
+24,533 (100.0%) of 24,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Over 200 city trees still pose risk to public lives
+
+*2024-05-16 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-200-city-trees-still-pose-risk-to-public-lives/108-282746) · `en`
+
+Colombo, May 16 (Daily Mirror) - Amidst the prevailing inclement weather worsened by gusty winds, the Colombo Municipal Council has identified about 200 old and huge trees in the city to be removed as soon as possible owing to the grave risk they pose to the public, the Daily Mirror learns.
+
+Following the incident where a large tree fell on a bus on Anagarika Dharmapala Mawatha near the Kollupitiya Junction in October last year that claimed five lives and many casualties, the CMC has identified about 1, 000 trees needing immediate attention.
+
+This came to light when a large branch of a roadside tree fell on Sir Marcus Fernando Mawatha near the Colombo Museum yesterday morning, which was cleared by the authorities within hours.
+
+When contacted Commissioner CMC Bhadrani Jayawardena told the Daily Mirror following the Kollupitiya accident they had received a number of complaints regarding dangerous and old trees in Colombo that led to an immediate study on the city trees.
+
+...
+
+[Data](articles/7c8ca102.json)
+
+---
 
 ### Refugee from Sri Lanka becomes mayor of British town
 
@@ -357,6 +375,20 @@ SJB Leader Sajith Premadasa has still not responded to the invitation while NPP 
 [Data](articles/bb0d7442.json)
 
 [Extended Data](ext_articles/bb0d7442.ext.json)
+
+---
+
+### හබරණ තුන් නිවුන් දරුවන්ට ප්‍රසන්නගෙන් නිවසක්
+
+*2024-05-16 19:38:17* · [`adalk`](https://www.ada.lk/breaking_news/හබරණ-තුන්-නිවුන්-දරුවන්ට-ප්‍රසන්නගෙන්-නිවසක්/11-409689) · `si`
+
+තුන් නිවුන් දරු උපතක් බිහිකළ හබරණ පුවක්පිටිය මහා වන මැද කටුමැටි ගැසූ නිවසක ජීවත්වන ගිහානි සුපේෂලා කුමාරි මහත්මියට කඩිනමින් නිවසක් සදා දීමට කටයුතු කරන ලෙස නාගරික සංවර්ධන හා නිවාස අමාත්‍ යප්‍රසන්න රණතුංග මහතා ජාතික නිවාස සංවර්ධන අධිකාරියට උප දෙස් දෙයි.
+
+එම අධිකාරියේ සභාපති රජීව් සූරියආරච්චි මහතාට ඇමතිවරයා මෙම උපදෙස් ලබාදී ඇත්තේ අද උදෑසන මුද්‍රිත හා විද්‍යුත් මාධ්‍ යඔස්සේ පළ වී තිබූ අදාල පවුල ජීවත් වන නිවස සම්බන්ධයෙන් පළව තිබූ ප්‍රවෘත්ති වාර්තා සම්බන්ධයෙන්  අවධානය යොමු වීමෙන් පසුවයි.
+
+◼️
+
+[Data](articles/3c517f51.json)
 
 ---
 
@@ -703,6 +735,22 @@ The expert forensic doctor at the Nuwara Eliya District General Hospital conduct
 [Data](articles/ae0d3b1b.json)
 
 [Extended Data](ext_articles/ae0d3b1b.ext.json)
+
+---
+
+### US, Sri Lanka Navy discuss anti-drug trafficking measures
+
+*2024-05-16 17:48:00* · [`economynextcom`](https://economynext.com/us-sri-lanka-navy-discuss-anti-drug-trafficking-measures-163397/) · `en`
+
+ECONOMYNEXT – US Ambassador Julie Chung met Rear Admiral Rohitha Abeysinghe, the new Northern Naval Commander of the Sri Lanka Navy to discuss efforts between the United States and Sri Lanka supporting Sri Lanka’s maritime sovereignty.
+
+“We’re collaborating on initiatives to enhance maritime domain awareness, along with bolstering anti-drug trafficking measures, and jointly contributing to a Free and Open Indo Pacific and regional prosperity,” Chung said on X (twitter).
+
+Last month the Mini Cooperation Afloat Readiness and Training (CARAT) exercise 2024 concluded in Trincomalee, strengthened maritime cooperation between the two countries further. (Colombo/May16/2024)
+
+◼️
+
+[Data](articles/5fe2d76d.json)
 
 ---
 
@@ -1092,6 +1140,30 @@ Subsequently, the excavation was carried out in two phases by a group led by Arc
 
 ---
 
+### Sri Lanka rupee closes stronger at 300.70/90 to US dollar
+
+*2024-05-16 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-70-90-to-us-dollar-163389/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 300.70/90 to the US dollar on Thursday, from 302.00/40 the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 closed up at 10.05/15 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 closed up at 10.20/40 percent from 10.20/35 percent.
+
+A bond maturing on 15.03.2028 closed up at 10.55/70 percent 10.50/65 percent.
+
+A bond maturing on 15.09.2029 closed up at 10.85/11.30 percent from 10.85/11.15 percent.
+
+A bond maturing on 15.05.2030 closed up at 11.55/70 percent from 11.50/65 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.75/95 percent from 11.80/95 percent. (Colombo/May16/2024)
+
+◼️
+
+[Data](articles/eac694f6.json)
+
+---
+
 ### Sajith bars Daily Mirror over liquor controversy liquor
 
 *2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-bars-Daily-Mirror-over-liquor-controversy-liquor/108-282735) · `en`
@@ -1149,6 +1221,30 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 [Data](articles/fb7c9033.json)
 
 [Extended Data](ext_articles/fb7c9033.ext.json)
+
+---
+
+### Sri Lanka stocks close down, interest in JKH
+
+*2024-05-16 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-jkh-163383/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.26 percent, or 31.84 points, at 12,259; while the S&P SL20 Index closed down 0.08 percent, or 2.86 points, at 3,633.
+
+Turnover was down at 1.4 billion. This was its lowest since April 22.
+
+John Keells Holdings Plc saw the most active volumes traded in the day; the share closed up at 203.00.
+
+Hayleys Fabric Plc also saw most active volumes, and the share closed up at 42.40.
+
+The banking counter saw mixed sentiments: Sampath Bank Plc closed down at 77.40, Hatton National Bank Plc closed down at 195.00, Commercial Bank of Ceylon Plc closed flat at 114.75, while National Development Bank Plc closed up at 78.90, and DFCC Bank Plc closed up at 80.00.
+
+Several conglomerates closed down: Aitken Spence Plc was down at 130.25, Richard Pieris and Company Plc was down at 21.00, Melstacorp Plc was down at 89.50, and Sunshine Holdings Plc was down at 64.50.
+
+...
+
+[Data](articles/74d48e15.json)
 
 ---
 
@@ -1492,6 +1588,28 @@ The Secretary of the Ministry of Commerce said that when the Sri Lankan Customs 
 
 ---
 
+### Fonterra to exit or sell down Sri Lanka unit
+
+*2024-05-16 15:34:00* · [`economynextcom`](https://economynext.com/fonterra-to-exit-or-sell-down-sri-lanka-unit-163380/) · `en`
+
+ECONOMYNEXT – New Zealand’s Fonterra Co-operative Group Ltd said it was planning to fully or partially sell down its Sri Lanka assets as part of a strategy to exit its retail businesses worldwide.
+
+“We have conducted a strategic review which has reinforced the role of our core business,” Chairman Peter McBride said in a statement.
+
+“This is working alongside farmers to collect a sustainable supply of milk and efficiently manufacture products valued by customers, to deliver strong returns to farmer shareholders and unit holders.”
+
+The firm will continue to provide milk components to other food manufacturers and also the food service industry.
+
+We believe we can grow further value for the Co-op by focusing on being a B2B dairy nutrition provider, working closely with customers through our high-performing Ingredients and Foodservice channels,” Chief Executive Miles Hurrell said.
+
+Fonterra will appoint advisors and expects to exit retail businesses in the next 12 to 18 months.
+
+...
+
+[Data](articles/58de9353.json)
+
+---
+
 ### Sri Lanka’s first-ever Sports Ombudsman appointed
 
 *2024-05-16 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99256/sri-lankas-first-ever-sports-ombudsman-appointed-) · `en`
@@ -1679,6 +1797,26 @@ The propaganda in Nuwara Eliya was earlier handled by SJB ally, the Tamil Progre
 [Data](articles/948d76f9.json)
 
 [Extended Data](ext_articles/948d76f9.ext.json)
+
+---
+
+### Sri Lanka to shrink Army over 50-pct by 2030, to strengthen Navy: State Defence Minister
+
+*2024-05-16 14:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-shrink-army-over-50-pct-by-2030-to-strengthen-navy-state-defence-minister-163372/) · `en`
+
+ECONOMYNEXT – Sri Lanka will see more than 50 percent reduction in army cadres by 2030 and will strengthen the navy to safeguard the country’s Exclusive Economic Zone (EEZ) in the Indian Ocean, State Defence Minister Pramitha Bandara Tennakoon said.
+
+Sri Lanka is in the process of reducing a bloated state sector which is estimated at around 1.5 million in a country with 22 million population.
+
+Tri forces (army, navy, air force) and police account for nearly 30 percent of the total state sector employees.
+
+Tennakoon said an expert panel has been appointed to look into the cadres and strength of the tri forces under a strategic plan titled ‘Defence Review 2030’.
+
+“There is an approved cadres 0f 208,000 in the army (as of now). Our expectation is to bring it down to 100,000,” the State Minister said.
+
+...
+
+[Data](articles/5b0d7980.json)
 
 ---
 
@@ -2217,171 +2355,5 @@ At first, Sandeep Laminghe appealed to him against his imprisonment in the priso
 [Data](articles/5b55c413.json)
 
 [Extended Data](ext_articles/5b55c413.ext.json)
-
----
-
-### Sajith vows to scrap liquor licenses issued as inducements to politicos
-
-*2024-05-16 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-vows-to-scrap-liquor-licenses-issued-as-inducements-to-politicos/108-282728) · `en`
-
-May 16 - Samagi Jana Balawegaya (SJB) leader Sajith Premadasa vowed to scrap liquor permits issued recently as inducements under the current government when he gets into power in the future.
-
-Making his remarks at a public meeting, he stressed the need to   form a national movement to rid the country of the menace of   alcoholism. He asserted that such a programme should be implemented targeting school children and parents should unite hands with him.
-
-However, he said he would take certain steps for the promotion of tourism, and that would also be done in terms of a transparent criterion.
-
-◼️
-
-[Data](articles/c229976f.json)
-
-[Extended Data](ext_articles/c229976f.ext.json)
-
----
-
-### Suspect arrested for allegedly assassinating and murder
-
-*2024-05-16 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183655) · `ta`
-
-A suspect was arrested for allegedly murdering a 26-year-old named Prabhat Sandeepa in Horahena. The incident occurred when the victim was attacked and later died in a hospital.
-
-🟩
-
-Athurugiriya police said that a suspect was arrested on Thursday (16) in connection with the murder of a youth in Hohara and Horahena.
-
-A young man was attacked and fell down on Wednesday on the street in Horahena area.
-
-The youth was taken to a hospital in Athurugiriya area by a three -wheeler.
-
-The deceased is Prabhat Sandeepa, a 26 -year -old from Hokanda, Horahena.
-
-Police have arrested a suspect after the youth was assaulted and murdered.
-
-◼️
-
-[Data](articles/2117f2f0.json)
-
-[Extended Data](ext_articles/2117f2f0.ext.json)
-
----
-
-### 15-year-old girl who left the baby hospital
-
-*2024-05-16 13:06:15* · [`adalk`](https://www.ada.lk/breaking_news/බිහිකළ-දරුවා-රෝහලේ-දමා-ගිය-15-හැවිරිදි-දැරිය-පොලිස්-භාරයට/11-409673) · `si`
-
-A 15-year-old girl from Nelliadadi, Jaffna, was found pregnant last week. After delivering her baby at the Jaffna Teaching Hospital, she and her mother were arrested by the police. Authorities initiated an investigation upon learning of the situation. A 25-year-old woman from Mullaitivu was also detained as part of the inquiry.
-
-🟩
-
-The Jaffna police stated that the mother of the 15-year-old girl and the girl who had been admitted to the Jaffna Teaching Hospital have been arrested by the police yesterday (15).
-
-Last week, the applicant has included a 15-year-old girl with a pregnant. The Jaffna Police were also briefly briefly briefly informed of pregnancy.
-
-Thereafter the girl was deliberately delivered the girl and her own mother and her own mother, and her mother was in the hospital. The police had begun an investigation after informing the police by the authorities to inform the police.
-
-According to the police that the girl was living in Nelliadadi, Jaffna has been told that the girl and the girl was handed over to the Jaffna Police.
-
-The police began a 15-year-old girl in search of a pregnant person, where a 25-year-old resident of Mullaitivu, Mullaitivu, has been arrested and commenced further investigations.
-
-The infant was placed at the Jaffna Teaching Hospital under the supervision of the surrota authorities.
-
-◼️
-
-[Data](articles/314a1b3d.json)
-
-[Extended Data](ext_articles/314a1b3d.ext.json)
-
----
-
-### President to visit Indonesia
-
-*2024-05-16 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183666) · `ta`
-
-President Ranil Wickremesinghe, invited by Indonesian President Joko Widodo, will visit Indonesia from May 18 to 20 for the World Water Summit, focusing on "Water for Joint Prosperity." He'll meet top officials, including President Widodo.
-
-🟩
-
-The President will go there at the invitation of Indonesian President Joko Widodo, the Presidential Media Unit said.
-
-President Ranil Wickremesinghe will attend the World Water Summit in Indonesia from May 18 to 20 during the visit.
-
-Meanwhile, the President will address the theme "Water for Joint Prosperity" at the conference on May 20.
-
-President Ranil Wickremesinghe will hold a discussion with top officials, including Indonesian President Vidodo.
-
-◼️
-
-[Data](articles/a4583078.json)
-
-[Extended Data](ext_articles/a4583078.ext.json)
-
----
-
-### The terms received against Minister Wijayada
-
-*2024-05-16 13:00:24* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-එරෙහිව-ඉල්ලූ-වාරණයක්-ඉවතට/11-409672) · `si`
-
-Duminda Dissanayake requested the Chief District Court of Colombo regarding terms against Minister Wijayada. The court allowed the complainant to revise the complaint, focusing on specific injunction issues.
-
-🟩
-
-The Chief District Court of Colombo, Duminda Dissanayake was the request made by Hon.
-
-However, the court stated that the complainant has the opportunity to revise the complaint and confirm the issues of the respective injunction.
-
-◼️
-
-[Data](articles/febedaa6.json)
-
-[Extended Data](ext_articles/febedaa6.ext.json)
-
----
-
-### What did Mahinda ask
-
-*2024-05-16 12:59:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-என்ன-கேட்டார்-ஜனரஞ்சனி/175-337424) · `ta`
-
-Mahinda Rajapakse, in a magazine interview, expressed support for Palestinians, emphasizing the need for peace efforts. He also humorously suggested serving porridge to benefit northern communities.
-
-🟩
-
-In our brotherly magazine, the magazine, in the image of Janaranjani, Mahinda asked Mahinda on Wednesday (15).
-
-Former President Mahinda Rajapakse, speaking at the post of postponement of today's Palestinian Palestinian in Parliament on Tuesday (14), said, "We will continue to give up the plight of the Palestinian people and make peace there."
-
-In the magazine, in the magazine, in the scratched image, he says, "We must help Palestine in a miserable time."
-
-On the other hand, the Janaranjani said, "So add," Isn't it good to drink porridge for our northern people? "He asks.
-
-◼️
-
-[Data](articles/10b11694.json)
-
-[Extended Data](ext_articles/10b11694.ext.json)
-
----
-
-### Tamils in Sri Lanka continue to be unsafe - Mullivaikkal massacre in high positions
-
-*2024-05-16 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183668) · `ta`
-
-Tamils in Sri Lanka face ongoing repression, with key figures from the Mullivaikkal massacre still holding power. The event, marking its 15th anniversary this Sunday in Sydney, highlights the continued impunity of those responsible for the 2009 massacre, where thousands of civilians, including those protected by the Red Cross, were killed by the Sri Lankan military.
-
-🟩
-
-Australia's Greens Party's Senatertevit Sufridge has said that the government and the military are in high positions in the government and the military till date, the Tamils are in a state of repression.
-
-More than one hundred people will be held on Sunday at Sydney's Towncol, which will be held on Sunday for 15 years after the ruthless Mullivaikkal massacre.
-
-It was in May 2009 during the final moments of the war between Tamil Eelam and Sri Lanka.
-
-Thousands of Tamils - Multiple civilians - many people under the protection of the Red Cross were assassinated by the Sri Lankan military.
-
-Those responsible for these crimes continue to remain in high positions in the Sri Lankan army and the government.
-
-◼️
-
-[Data](articles/c81ef29d.json)
-
-[Extended Data](ext_articles/c81ef29d.ext.json)
 
 ---

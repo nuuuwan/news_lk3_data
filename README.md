@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 06:18:04**
+As of **2024-05-16 06:58:01**
 
 ## Newspaper Stats
 
-*Scraped **24,338** Articles*
+*Scraped **24,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,077
 adaderanalk | 2,820
 tamilmirrorlk | 2,858
 virakesarilk | 3,661
-dailymirrorlk | 3,813
+dailymirrorlk | 3,816
 adaderanasinhalalk | 3,877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,326 (100.0%) of 24,338 articles have been extended.
+24,335 (100.0%) of 24,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### MPs seek their one million rupee insurance coverage to extended to include family members
+
+*2024-05-16 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MPs-seek-their-one-million-rupee-insurance-coverage-to-extended-to-include-family-members/155-282692) · `en`
+
+Colombo, May 16 (Daily Mirror) - Following the approval of concessionary vehicle permits, the MPs across the political divide have asked for the extension of their one -million rupee insurance coverage to include their family members, a top source said yesterday.
+
+At the House Committee meeting held last Friday, the MPs have asked for this benefit while insisting for concessionary vehicle permits for the second time.
+
+Currently, the premium for the MPs’ insurance is paid by them and the Parliamentary Affairs Ministry together. They have sought to include their family members in the coverage. They have reportedly agreed to pay an increased premium.
+
+However, the final decision has not yet been taken in this regard.
+
+...
+
+[Data](articles/20ccc14c.json)
+
+---
+
+### Sri Lanka plans small arms ammo factory - Premitha
+
+*2024-05-16 06:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-plans-small-arms-ammo-factory-Premitha/108-282691) · `en`
+
+Colombo, May 16 (Daily Mirror) - State Minister of Defence Premitha Bandara Tennakoon yesterday announced that Sri Lanka is in the process of establishing a small arms ammunition manufacturing unit within the country.
+
+Speaking to reporters at the Presidential Media Centre (PMC) State Minister Tennakoon said, “We are in discussion with India to set up a small arms manufacturing unit.”
+
+“What you have to understand is the Indian defence manufacturing arm has boomed during the last two decades. It is a model that we have to look into. We can take a lot from Indian model and nothing wrong in learning from them. I think we also should get into manufacturing,” he said.
+
+In response to a question whether Sri Lanka is going to buy military equipment from India, the Minister said, “We are not trying to buy anything at the moment.”
+
+...
+
+[Data](articles/6a188fe3.json)
+
+---
 
 ### Top Chinese garment delegation explores collaboration opportunities in Sri Lanka
 
@@ -748,6 +784,8 @@ In order to use aloe vera gel on sunburnt skin, store fresh gel in the fridge an
 
 [Data](articles/a6e8b50f.json)
 
+[Extended Data](ext_articles/a6e8b50f.ext.json)
+
 ---
 
 ### Thinushka Soysa joins M Power Capital Securities as Independent Non-Executive Director
@@ -759,6 +797,8 @@ M Power Capital Securities is delighted to announce the appointment of Ms. Thinu
 ...
 
 [Data](articles/d32e365b.json)
+
+[Extended Data](ext_articles/d32e365b.ext.json)
 
 ---
 
@@ -777,6 +817,8 @@ Nations Trust Bank also maintained strong liquidity buffers with a Liquidity Rat
 ...
 
 [Data](articles/94cf42e5.json)
+
+[Extended Data](ext_articles/94cf42e5.ext.json)
 
 ---
 
@@ -799,6 +841,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/4fc23b70.json)
+
+[Extended Data](ext_articles/4fc23b70.ext.json)
 
 ---
 
@@ -844,6 +888,8 @@ Dialog customers came together extending their support once again to contribute 
 
 [Data](articles/802f96dc.json)
 
+[Extended Data](ext_articles/802f96dc.ext.json)
+
 ---
 
 ### Indices dip as share market’s struggles intensify
@@ -857,6 +903,8 @@ Those crossings were reported in Ambeon Capital, where 60 million shares crossed
 ...
 
 [Data](articles/adda55ad.json)
+
+[Extended Data](ext_articles/adda55ad.ext.json)
 
 ---
 
@@ -2185,45 +2233,5 @@ Asked if this brand new alliance will back the candidacy of President Ranil Wick
 [Data](articles/7382fb4d.json)
 
 [Extended Data](ext_articles/7382fb4d.ext.json)
-
----
-
-### Russia envoy asked for list of Sri Lankans hired for Ukraine war, ashes of the dead
-
-*2024-05-15 16:11:00* · [`economynextcom`](https://economynext.com/russia-envoy-asked-for-list-of-sri-lankans-hired-for-ukraine-war-ashes-of-the-dead-163190/) · `en`
-
-ECONOMYNEXT – Sri Lanka has made several requests from the Russian Ambassador to Colombo, the Defense Secretary has said.
-
-“One is that they provide us with a list of Sri Lankan war heroes (ranaviruvo) engaged in the war,” Kamal Gunaratne told reporters Wednesday. “Then a complete list of the dead, so we can inform their family that their war hero died in that war.”
-
-Sri Lanka has also learnt that there are injured soldiers. “We asked that they repatriate the injured, so we can look after them in our Army Hospital.”
-
-“And finally we asked if they can repatriate the remains of the dead Sri Lankan war heroes, if we can get the ashes even, at least we can give that to their families,” he said.
-
-Gunaratne said the ambassador had promised to look into the appeals.
-
-The retired general also asked others who have not come forward yet to do so with details of those who have gone to fight in the Russia-Ukraine war. (Colombo/May15/2024)
-
-...
-
-[Data](articles/0e64c10d.json)
-
-[Extended Data](ext_articles/0e64c10d.ext.json)
-
----
-
-### Decision taken to award free marks for Science paper in question
-
-*2024-05-15 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Decision-taken-to-award-free-marks-for-Science-paper-in-question/108-282655) · `en`
-
-Colombo, May 15 (Daily Mirror) - In response to complaints received regarding questions 09 and 39 of the GCE (O/L) Science Paper 1, the Examinations Commissioner General has announced a decision to award two free marks to all candidates who attempted these questions.
-
-This decision comes after careful consideration of the concerns raised by students and educators alike regarding the clarity and fairness of these particular questions.
-
-◼️
-
-[Data](articles/18d429d9.json)
-
-[Extended Data](ext_articles/18d429d9.ext.json)
 
 ---

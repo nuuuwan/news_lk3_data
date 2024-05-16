@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 11:03:32**
+As of **2024-05-16 11:18:26**
 
 ## Newspaper Stats
 
-*Scraped **24,381** Articles*
+*Scraped **24,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,232 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
-adalk | 2,081
+adalk | 2,082
 adaderanalk | 2,824
-tamilmirrorlk | 2,865
+tamilmirrorlk | 2,870
 virakesarilk | 3,661
-dailymirrorlk | 3,824
-adaderanasinhalalk | 3,888
+dailymirrorlk | 3,830
+adaderanasinhalalk | 3,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,378 (100.0%) of 24,381 articles have been extended.
+24,381 (99.9%) of 24,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### A future SJB government will close down liquor shops, taverns: Sajith
+
+*2024-05-16 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-future-SJB-government-will-close-down-liquor-shops-taverns-Sajith/108-282717) · `en`
+
+A future Samagi Jana Balawegaya (SJB) government will close down all taverns and liquor shops, Leader of the Opposition Sajith Premadasa said today.
+
+"Exceptions will be made only where tourism is concerned," Premadasa told a public gathering.
+
+"We will also begin a temporal movement right from the school level. This will be done to save the children of this country. I know I will lose votes for saying this, but it will be done for the sake of the children," he added.
+
+"Also, all liquor licences which have been given now will be cancelled if we come to power," Premadasa claimed.
+
+◼️
+
+[Data](articles/536dec0c.json)
+
+---
+
+### இந்தோனேசியா செல்கிறார் ஜனாதிபதி
+
+*2024-05-16 11:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-செல்கிறார்-ஜனாதிபதி/175-337412) · `ta`
+
+இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் அழைப்பின் பேரில் மே 18 முதல் 20 வரை இந்தோனேசியாவில் நடைபெறும் 10வது உலக நீர் மன்றத்தின் உயர்மட்டக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொள்வார் என்று ஜனாதிபதியின் ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+
+ஜனாதிபதி விக்கிரமசிங்க மே 20 அன்று உயர்மட்ட மன்றத்தில் "பகிரப்பட்ட செழுமைக்கான நீர்" என்ற கருப்பொருளில் ஒரு அறிக்கையை வழங்குவார், மேலும் ஜனாதிபதி விடோடோ உட்பட பல இருதரப்பு சந்திப்புகளில் ஈடுபடுவார் என்று PMD தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/28f54181.json)
+
+---
+
+### தமது காப்பீட்டில் குடும்பத்தவரையும் இணைக்க எம்.பிக்கள் கோரிக்கை
+
+*2024-05-16 10:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமது-காப்பீட்டில்-குடும்பத்தவரையும்-இணைக்க-எம்-பிக்கள்-கோரிக்கை/175-337411) · `ta`
+
+சலுகை வாகன அனுமதிப்பத்திரங்களுக்கு அங்கீகாரம் கிடைத்ததைத் தொடர்ந்து எம்.பி.க்கள், தமது குடும்ப உறுப்பினர்களையும் சேர்த்துக்கொள்வதற்காக தங்களின் ஒரு மில்லியன் ரூபா காப்புறுதித் தொகையை நீடிக்குமாறு கோரிக்கை விடுத்துள்ளதாக நம்பத்தகுந்த  வட்டாரம் ஒன்று நேற்று தெரிவித்தது.
+
+கடந்த வெள்ளிக்கிழமை நடைபெற்ற ஹவுஸ் கமிட்டி கூட்டத்தில், இரண்டாவது முறையாக சலுகை வாகன அனுமதியை வலியுறுத்தும் போது, ​​எம்.பி.,க்கள் இதனைக் கேட்டுள்ளனர்.
+
+தற்போது எம்.பி.க்களின் காப்பீட்டுக்கான தொகையை அவர்களும், பாராளுமன்ற விவகார அமைச்சகமும் இணைந்து செலுத்தி வருகின்றனர். அவர்கள் தங்கள் குடும்ப உறுப்பினர்களை அதில் சேர்க்க முயன்றதுடன் அவர்கள் அதிகரித்த தொகையை செலுத்த ஒப்புக்கொண்டதாகவும் கூறப்படுகிறது.
+
+மேலும், முந்தைய கூட்டத்தில் ஒப்புதல் அளிக்கப்பட்ட போதிலும், எம்.பி.க்கள் மீண்டும் வாகன அனுமதியை வலியுறுத்தினர். பாராளுமன்ற உறுப்பினர்கள் எழுத்துமூலம் கோரிய அனுமதிகளை வழங்குவது குறித்து பரிசீலிக்குமாறு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு கடிதம் எழுதியுள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/723a19c3.json)
+
+---
+
+### සමාන්‍යපෙල විභාගයට පෙනි සිටිමට ගොස් අතුරුදහන් වු සිසුවියන් දෙදෙනා කඩුවෙලෙන් හමුවෙයි
+
+*2024-05-16 10:57:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාන්‍යපෙල-විභාගයට-පෙනි-සිටිමට-ගොස්-අතුරුදහන්-වු-සිසුවියන්-දෙදෙනා-කඩුවෙලෙන්-හමුවෙයි/11-409667) · `si`
+
+අපොස සමාන්‍ය පෙල විභාගයට පෙනි සිටිමට ගොස් පසුගිය (14දා) දින අතුරුදහන් වු පාසල් සිසුවියන් දෙදෙනා කඩුවෙල ප්‍රදේශයේ පිහිටි ඥාති නිවසක සිටියදි ඊයේ (15) දින රාත්‍රියේ එම සිසුවියන් දෙදෙනාගේ ඥාතින් විසින් පොලිසිය වෙත දැනුම් දුන් බව ගිනිගත්හේන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+
+ගිනිගත්හේන පොලිස් වසමට අයත් අඹගමුව ජාතික පාසලේ ස්ථාපනය කර ඇති විභාග මධ්‍යස්ථානය වෙත (14) දින උදැසන විභාගයට පෙනි සිටිමට ගිය සිසුවියන් දෙදෙනා විභාගයට පෙනි නොසිට කිසිවෙකුට නොදන්වා එදින නිවසට නොපැමිණි නිසා එම සිසුවියන් දෙදෙනාගේ දෙමව්පියන් විසින් ගිනිගත්හේන පොලිසියට පැමිණිලි කර තිබුණි.
+
+රැකියාවක් සොයාගැනිමේ අපෙක්ෂාවෙන් සිසුවියන් දෙදෙනා කොළඹට ගිය බවත්, පසුව කඩුවෙල ප්‍රදේශයේ පිහිටි ඥාති නිවසකට ගොස් (15) දින රාත්‍රියේ ඒ බව තම දෙමව්පියන්ට දැනුම් දි ඇති බවයි පොලිස් ස්ථානාධිපතිවරයා කියා සිටියේ.
+
+...
+
+[Data](articles/ddccbd54.json)
+
+---
+
+### රුසියාවේ ගැටලුවට ජනපතිගෙන් හදිසි උපදෙසක්
+
+*2024-05-16 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196671) · `si`
+
+හැකි තරම් ඉක්මනින් ධූත පිරිසක් රුසියාවට යැවීමට කටයුතු කරන ලෙස ජනාධිපතිවරයා උපදෙස් ලබාදුන් බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+
+අද (16) උදෑසන පැවති මාධ්‍ය හමුවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර සිටියේ, විදේශ කටයුතු අමාත්‍යාංශය, ආරක්ෂක ලේකම්වරයා සහ හිටපු තානාපතිවරයෙකු ඇතුළු පිරිසක් නියෝජනය කරමින් එම ධූත පිරිස යැවීමට ජනාධිපතිවරයා උපෙදස් දුන් බවය.
+
+රුසියාවට ගිය පුද්ගලයින්ගේ තොරතුරු එක් කිරීම සඳහා මේ වනවිට ආරක්ෂක අමාත්‍යාංශයේ ක්ෂෙණික දුරකථන අංකයක් ද ක්‍රියාත්මක වන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f81d11ee.json)
+
+---
+
+### President to visit Indonesia
+
+*2024-05-16 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-visit-Indonesia/108-282714) · `en`
+
+Colombo, May 16 (Daily Mirror)- President Ranil Wickremesinghe will attend the 10th World Water Forum High-Level Meeting in Indonesia, from 18 - 20 May at the invitation of Indonesian President Joko Widodo, the President's Media Division (PMD) said.
+
+President Wickremesinghe will deliver a statement at the High-Level forum on May 20 themed "Water for Shared Prosperity", and engage in several bilateral meetings, including with President Widodo, the PMD said.
+
+◼️
+
+[Data](articles/cfe93638.json)
+
+---
+
+### துமிந்தவின் மனு நிராகரிப்பு
+
+*2024-05-16 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவின்-மனு-நிராகரிப்பு/175-337410) · `ta`
+
+நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவை, ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் தவிசாளராக நியமிக்கப்பட்டமையை சவாலுக்கு உட்படுத்தி, பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க தாக்கல் செய்த மனு, விசாரணைக்கு எடுத்துக்கொள்ளாமல் நிராகரிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/937c137a.json)
+
+---
+
+### Nepal’s ex-cricket captain acquitted of rape on appeal
+
+*2024-05-16 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nepals-ex-cricket-captain-acquitted-of-rape-on-appeal/108-282713) · `en`
+
+Kathmandu (AFP) - Former Nepali cricket captain Sandeep Lamichhane had his conviction and eight-year sentence for rape quashed on appeal on Wednesday and was cleared to resume his sporting career despite the cloud cast by the case.
+
+Lamichhane was accused of raping a young woman in a Kathmandu hotel in 2022 but was freed on bail and returned to the team to compete in international tournaments while his lengthy trial dragged on.
+
+The 23-year-old was suspended by Nepal's cricket association after his conviction late last year but remained at liberty after his sentencing to await the outcome of his appeal.
+
+"I am grateful to everyone for all the support during this time," Lamichhane said outside the court, where he was greeted by cheering fans.
+
+"In the coming days, I will try as much as possible to take Nepal much higher than I did before."
+
+The Cricket Association of Nepal said Lamichhane was free to resume his career.
+
+...
+
+[Data](articles/b0533527.json)
+
+---
+
+### Another death reported from among victims of Fox Hill tragedy
+
+*2024-05-16 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-death-reported-from-among-victims-of-Fox-Hill-tragedy/108-282716) · `en`
+
+Colombo, May 16 (Daily Mirror) - The 16-year-old schoolgirl who was injured during the Fox Hill Super Cross 2024 racing event died yesterday.
+
+She died yesterday while receiving treatment at the intensive care unit (ICU) of the Badulla Base Hospital.
+
+The Fox Hill Super Cross 2024 racing event was held in Diyatalawa on April 21.
+
+The girl is from the Galedannda area of Diyatalawa. Her remains lie at the Badulla Base Hospital.
+
+Earlier, seven persons, including an 8-year-old child, were killed, leaving 21 others hospitalized with injuries.
+
+◼️
+
+[Data](articles/c65bae7f.json)
+
+---
+
+### Meal programme boosts school attendance: Parliamentary Committee
+
+*2024-05-16 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meal-programme-boosts-school-attendance-Parliamentary-Committee/108-282712) · `en`
+
+Parliament, May 16 (Daily Mirror)- School attendance has increased after the implementation of the meal programme, a Parliamentary Committee revealed.
+
+It was also disclosed that the criteria have been prepared regarding the quality of the meal and the follow-up regarding the meal programme will be done by the Provincial Department of Education, Regional Educational Services officers and Public Health Inspectors.
+
+The Committee on Ways and Means has revealed that 600,000 school students come to school without breakfast and after the implementation of the meal programme, the attendance of school children has increased.
+
+This was revealed when the Parliamentary Committee on Methods and Procedures met at the Parliament premises under the chairmanship of Patali Champika Ranawaka.
+
+The Committee Chair instructed the Ministry of Education to provide a report on the progress regarding the entire programme.
+
+...
+
+[Data](articles/fd0e0db2.json)
+
+---
+
+### அரச நிலத்தில் போதைப்பொருள் கடத்தல்காரரின் ஹோட்டல்
+
+*2024-05-16 10:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-நிலத்தில்-போதைப்பொருள்-கடத்தல்காரரின்-ஹோட்டல்/175-337409) · `ta`
+
+தெஹிவளையில் அமைந்திருந்து பின்னர் அழிக்கப்பட்ட சோல் பீச் ஹோட்டல், வெளிநாட்டில் இருந்து இயங்கி வரும் பாரிய போதைப்பொருள் கடத்தல்காரரான ஷிரான் பாசிக் என்பவருக்கு சொந்தமானது என கருதப்படுவதுடன் அது அரசுக்கு சொந்தமான நிலத்தில் கட்டப்பட்டதாகவும் தற்போது சந்தேகிக்கப்டுகிறது..
+
+இந்த ஹோட்டல் சட்டவிரோத கட்டுமானம் என கண்டறியப்பட்டதையடுத்து, கடந்த ஜனவரி மாதம் கடலோர காவல்படை மற்றும் பொலிஸாரால் தகர்க்கப்பட்டது.
+
+எவ்வாறாயினும், குறித்த இடத்தில் நிர்மாணப் பணிகளை மேற்கொண்டிருந்த தனிநபர்கள் குழுவொன்று சட்டவிரோத கட்டுமானத்திற்காக செவ்வாய்க்கிழமை கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் முன்வைத்த வரிப்பத்திரம் போலியானது என கல்கிசை பிரிவு விசேட புலனாய்வுப் பிரிவு அதிகாரிகள் தெரிவித்தனர்.
+
+இதன்படி, செவ்வாய்க்கிழமை கைது செய்யப்பட்ட 14 சந்தேகநபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதன் பின்னர் மே 28 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+அரசாங்க நில அளவை திணைக்களத்தின் நில அளவையாளர்களினால் மேற்கொள்ளப்பட்ட ஆய்வுக்கு அமைய குறித்த காணி அரசாங்கத்திற்கு சொந்தமான காணி என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f273f76f.json)
+
+---
+
+### Fonterra considers divesting Australian, Sri Lankan businesses
+
+*2024-05-16 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonterra-considers-divesting-Australian-Sri-Lankan-businesses/108-282711) · `en`
+
+May 16 (Inside FMCG) - Fonterra Co-operative Group is considering options to divest some or all of its global consumer business and integrated businesses, namely Fonterra Oceania and Fonterra Sri Lanka.
+
+“We have conducted a strategic review, which has reinforced the role of our core business,” said Fonterra chairman Peter McBride. “This is working alongside farmers to collect a sustainable supply of milk and efficiently manufacture products valued by customers, to deliver strong returns to farmer shareholders and unit holders.”
+
+With the planned divestment, the cooperative intends to focus on being a B2B dairy nutrition provider, prioritising its ingredients and foodservice channels.
+
+“While these are great businesses with recent strengthening in performance and potential for more, ownership of these businesses is not required to fulfil Fonterra’s core function of collecting, processing and selling milk,” said Fonterra CEO Miles Hurrell.
+
+...
+
+[Data](articles/518d8de6.json)
+
+---
 
 ### Court refuses injunction against Wijeyadasa Rajapakshe
 
@@ -38,7 +248,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Colombo District Court today rejected the petition filed by Duminda Dissanayake seeking an interim injunction preventing Minister Wijeyadasa Rajapakshe from functioning as the Chairman and Keerthi Udawatta as Acting General Secretary of the Sri Lanka Freedom Party (SLFP).
 
-◼️
+Accordingly, the Colombo District Court refused to issue an injunction restraining the party, its organizations and officials from acting on the decision taken to appoint Minister Wijayadasa Rajapakshe as the Chairman and Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the SLFP.
+
+However, Colombo District Judge Sandun Withana stated that the complainant has the opportunity to amend this plaint and confirm the facts for the relevant injunction.
+
+...
 
 [Data](articles/f83928bf.json)
 
@@ -69,6 +283,24 @@ The top 10th World Water Conference is held at Bali Island in Indonesia until Ma
 [Data](articles/5e08cf84.json)
 
 [Extended Data](ext_articles/5e08cf84.ext.json)
+
+---
+
+### பெண் பரீட்சார்த்தியை கடத்திய நால்வர் கைது
+
+*2024-05-16 10:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்-பரீட்சார்த்தியை-கடத்திய-நால்வர்-கைது/76-337404) · `ta`
+
+கல்விப் பொதுத் தராதரப் பரீட்சையை முடித்து வீடு திரும்பிக் கொண்டிருந்த மாணவி ஒருவரை கடத்த வந்ததாக கூறப்படும் வேன் மற்றும் நான்கு இளைஞர்களை கண்டி, அலதெனிய பொலிஸார் கைது செய்துள்ளனர்.
+
+பொதுப் தரப் பரீட்சையின் இறுதி வினாத்தாளைப் பதிலளித்துவிட்டு, தான் தங்கியிருந்த விடுதிக்கு புதன்கிழமை (15) சென்று கொண்டிருந்த வேளையில் யதிஹலகல சந்தியில் வைத்து   கடத்த முயன்றுள்ளனர்.
+
+அப்போது, ​​அவருடன் இருந்த மேலும் இரு  மாணவர்கள் அதைத் தடுக்க முயன்றனர், ஆனால் அவர்கள் அவர்களைத் தள்ளிவிட்டு மாணவியைக் கடத்திச் சென்றனர். இதுதொடர்பில் பொலிஸாரின் அவசர தொலைபேசி இலக்கத்துக்கு அவ்விரு மாணவர்களும் உடனடியாக முறையிட்டனர்.
+
+அழைப்பை பெற்றுக்கொண்ட அலதெனியா பொலிஸ் நிலைய கட்டளைத் தளபதி பிரதான பொலிஸ் பரிசோதகர் சேனாரத்ன உள்ளிட்ட பொலிஸ் குழுவினர் வேனை துரத்திச் சென்று சந்தேக நபர்களை கைது செய்தததுடன், மாணவியை கடத்திச் சென்ற வேனையும் கைப்பற்றினர்.
+
+◼️
+
+[Data](articles/87e69b36.json)
 
 ---
 
@@ -212,23 +444,35 @@ Sri Lanka Ports Authority, together with the Ministry of Ports, Shipping and Avi
 
 ---
 
-### ‍ෆොක්ස්හිල් අනතුරින් තුවා ලැබූ 16 හැවැරිදි දියණිය මරුට
+### The daughter dies in Foxhill accident
 
 *2024-05-16 09:50:52* · [`adalk`](https://www.ada.lk/breaking_news/‍ෆොක්ස්හිල්-අනතුරින්-තුවා-ලැබූ-16-හැවැරිදි-දියණිය-මරුට/11-409664) · `si`
 
-දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ ධාවන තරගය අතරතුරේ හත්දෙනෙකු ට මරු කැදවමින් 21 ට බරපතළ තුවාල සිදු කරමින් සිදු වූ මෝටර් රථ අනතුරින් තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටි 16 හැවිරිදි  ලාබාල    තරුණියක් ඊයේ (15) රාත්‍රි මියගිය බව දියතලාව පොලිසිය පවසයි .
+In a tragic accident during the Foxhill Motor Races in Diyatalawa, a young girl died, while another was seriously injured. The event, organized by the Sri Lanka Motor Runners Association and Diyatalawa Warahamada Science Faculty, saw six other injuries, including an 8-year-old. This incident marks a significant increase in accidents related to the Foxhill races.
 
-දියතලාව ගල් ඒදණ්ඩ  හෙලගෙදර ප්‍රදේශයේ පදිංචිව සිටි ඩබ්ලිව් .පී. සත්සරණී චාමින්දි (16) නැමති බාලවයස්කාර දැරිය මෙසේ මියගිය බවද පොලිසිය කීය .
+🟩
 
-මේ අනුව දියතලාව ෆොක්ස්හිල් මෝටර්රථ ධාවන තරග මාරක අනතුරින් මියගිය ගණන  අට දක්වා ඉහළ ගොස් තිබේ.
+A 16-year-old younger girl was injured in the accident in the Badulla Teaching Hospital, a 16-year-old girl was hospitalized yesterday (15).
 
-ශ්‍රී ලංකා මෝටර් රථ  ධාවකයින්ගේ සංගමය සහ දියතලාව යුදහමුදා විද්‍යා පීඨය මගින් සංවිධානය කළ මෙම ෆොක්ස්හිල් මෝටර්රථ,  යතුරුපැදි  ධාවන තරග දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ ධාවන පථයෙදී ඉකුත් අප්‍රේල් මස 21 වනදින පැවත්විණ .
+Diyatalawa stone residents of Colombo, WD. The ministy girl named Monsoon is Charming (16).
 
-එහිදී ෆෝඩ් ලේසර් මැස්ඩා එන්ජින් ධාරිතාව 1500 සිසි මෝටර් රථ කාණ්ඩයේ තරගයේදී මෙසේ තරග වැදුන මෝටර් රථ දෙකක් එකිනෙක ගැටි එක  මෝටර්රථයක් ධාවන පථයෙන් ඉවතට පැන නරඹන්නන් රැදී සිටි ඉසව්වට කඩා  වැදීමෙන් මෙම මාරක මෝටර් රථ අනතුර ඉකුත් අප්‍රේල් මස 21  සිදුවිය.
+Accordingly, Diyatalawa Foxhill Motor Races Twenty to eight
+
+The Foxhill motorcycles, Diyatalawa fox, was organized by the Faculty of Sri Lanka Motor Runners Association and Diyatalawa Warahamada Science Faculty.
+
+The deadly accident occurred in April 21, after two cars that competed in the 1500 students who competed the visitors.
+
+Six others, including a 8-year-old girl, and 21 were injured and injured and injured and injured.
+
+The youngest woman was injured in the accident and injured in the death accident to watch the Foxhill motor racing.
+
+The Foxhill car racing crashes increased to 8.
 
 ...
 
 [Data](articles/3c521670.json)
+
+[Extended Data](ext_articles/3c521670.ext.json)
 
 ---
 
@@ -712,23 +956,35 @@ In response to a question whether Sri Lanka is going to buy military equipment f
 
 ---
 
-### 'මුල්ලිවයික්කාල් කන්ජි' නොහොත් කැඳ යනු මොනවාද? එය සකස් කරන්නේ ඇයි?
+### What is Mullivaik Kangi Kanji '?Why is it preparation?
 
 *2024-05-16 05:01:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgyg1zzme0o) · `si`
 
-'මුල්ලිවයික්කාල් කන්ජි' නොහොත් කැඳ යනු මොනවාද? එය සකස් කරන්නේ ඇයි?
+Mullivaikkal Porridge Day commemorates the end of Sri Lanka's civil war, highlighting the hardships faced by civilians during the conflict. It symbolizes unity and resilience among the Northern and Eastern communities, who endured shortages and displacement. The event, marked annually, involves distributing a simple meal of rice gruel (porridge) to remember the struggles and losses experienced during the war's final days.
 
-ශ්‍රී ලංකාව තුළ පැවති  සිවිල් යුද්ධය මීට වසර 15 කට පෙර යුදමය වශයෙන්  නිමාවුව ද යුද්ධය විසින් දෙපාර්ශවයටම ඉතිරි කළ අමිහිරි මතක රාශියකි.
+🟩
 
-මෙරට පැවති යුද්ධය හේතුවෙන් ජිවිතක්ෂයට පත්වූවන් සංඛ්‍යාව සම්බන්ධයෙන් නිශ්චිත සංඛ්‍යාව මෙපමණ යැයි සඳහන් කළ නොහැකි අතර, යුද්ධයෙන් අතුරුදහන්වූවන්ගේ පවුල්වල සාමාජිකයින් හා ආබාධිතවූවන් සහ වින්දිතයින් බවට පත්වූ පිරිස මෙතකැයි කිව නොහැක.
+What is Mullivaik Kangi Kanji '?Why is it preparation?
 
-යුද්ධයේ අවසන්  සමයේදී යුධ හමුදාව හා එල් ටී ටී  සංවිධානයේ ප්‍රහාරයන්ට මැදි වු සිවිල් ජනතාව අතුරින් බොහෝ පිරිසක් ජිවිතක්ෂයට පත්වු අතර, දමිළ ජනතාව විශාල පිරිසක් මුලතිව් මුල්ලිවයික්කාල් වෙරළ  සීමාවේ සීමිත ඉඩකට කොටු  වී සිටියහ.
+The civil war in Sri Lanka is a micratory and many bitter meals that saved to both parties before the war.
 
-අවසන් යුධ සමයේ උතුරු නැගෙනහිර ජනතාව වෙත භාණ්ඩ හා සේවා සැපයීම සීමා කොට තිබු අතර, යුද්ධයේ අවසන් දිනවල දී  එල් ටී ටී  සංවිධානයේ පාලන සීමාවේ සිටි ජනතාවට අවශ්‍ය ආහාර හා අනෙකුත් ද්‍රව්‍ය සපයා ගැනීමට නොහැකි තත්ත්වයක් ඇතිවිය.
+It is not possible that this is the exact number of people regarding the number of victims of war disappearances and the disabled of the war disappearances and the victims of the war.
+
+Many of the civilians who were attacked by the Army and the LTTE were attacked by the Army and the LTTE were attacked by the LTTE and the LTTE.
+
+During the final, the people of the North and East were limited to the people of the North and East.
+
+The LTTE had no products sufficient to give the LTTE in his boundaries, and civilians in the war were moving to save everything they owned.
+
+More than three lakhs of war were no way to provide food and more than three lakhs, while some had only a rice.
+
+The inhabitants of Mullivaik coast were given to some of the gold and obtained the rice in the final combat day.
 
 ...
 
 [Data](articles/53dee1c1.json)
+
+[Extended Data](ext_articles/53dee1c1.ext.json)
 
 ---
 
@@ -1756,23 +2012,29 @@ It is reported that the luxury car driver who was traveling from Kandy to Nuwara
 
 ---
 
-### රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ මූලික අදියර අවසන්
+### Phase phase of state enterprise restructuring is over
 
 *2024-05-15 21:07:15* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසාය-ප්‍රතිව්‍යුහගත-කිරීමේ-මූලික-අදියර-අවසන්/11-409660) · `si`
 
-රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතුවල මූලික අදියර අවසන්ව ඇති බව වාර්තා වේ.
+The primary phase of state enterprise restructuring is complete, with the Technical Committee finishing its tasks and preparing a list of qualified institutions. The next step involves the Finance Committee, which will oversee purchases. Committee members, including subject matter experts and public officials, will not receive allowances.
 
-ඒ අනුව තාක්ෂණික කමිටුවේ කටයුතු අවසන්ව ඇත. එම කමිටුව මගින් එම ආයතන මිලදී ගැනීම වෙනුවෙන් යෝජනා ඉදිරිපත් කර තිබූ ආයතන අතරින් මූලික සුදුසුකම් සපුරා ඇති ආයතනවල අවසන් ලැයිස්තුව සකස් කර තිබේ.
+🟩
 
-ඊළඟ අදියර ලෙස මූල්‍ය අභිලාෂ කැඳවීමට නියමිත අතර, ඒ සදහා මූල්‍ය කමිටුව විසින් ඉහළ ලංසුව ඉදිරිපත් කරන ආයතනය සඳහා එම ආයතනය මිලදී ගැනීමේ අවස්ථාව හිමි වේ.
+The primary phase of the restructuring of state enterprises is reported.
 
-එමෙන්ම රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු සඳහා කැබිනට් මණ්ඩලය විසින් පත් කරන ලද කමිටු කිහිපයක් ඇති බවත්, එම කමිටු විෂය විශේෂඥයන්, ප්‍රවීණයන් හා රාජ්‍ය නිලධාරින්ගෙන් සමන්විත බවත් රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහත කිරීමේ කමිටුවේ ප්‍රකාශකයෙක් සඳහන් කළේය.
+Accordingly, the activities of the Technical Committee have been completed. The final list of institutions that have met the basic qualifications have been prepared by the committee's fundamental qualifications.
 
-එමෙන්ම එම කමිටුවේ සාමාජිකයන් කිසිදු දීමනාවක් ලබානොගන්නා බව ද එම ප්‍රකාශකයා සඳහන් කළේය
+The next phase is to be summoned, and the Finance Committee will be purchased by the Finance Committee.
+
+A spokesman for the restructuring committee of the State Enterprise and Public Officers have the subject experts, experts and public officials of the committee are equipped with the subject experts, experts and public officers of the committee.
+
+The spokesman said that the members of the committee will not be given any allowance
 
 ◼️
 
 [Data](articles/f0a4f6e3.json)
+
+[Extended Data](ext_articles/f0a4f6e3.ext.json)
 
 ---
 
@@ -1897,297 +2159,5 @@ Tennakoon said the recruitment of Sri Lankans was being treated as a human traff
 [Data](articles/5eafbd66.json)
 
 [Extended Data](ext_articles/5eafbd66.ext.json)
-
----
-
-### Campaign not accepted by international bonds
-
-*2024-05-15 20:40:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-බැඳුම්කර-හිමියන්ගේ-යෝජනාව-සජබ-පිළි-නොගනියි/11-409657) · `si`
-
-Dr. Harsha de Silva, MP, announced at a press conference that the International Bonds' owners rejected a proposal made in April. He criticized the lack of response from both the government and the JVP after meeting with the President of International Bonds. De Silva highlighted concerns over the proposed terms, especially regarding the low return rate of 7% by 2028, which he believes undermines national success. He also pointed out the absence of clear communication from the government on the restructuring of local debt, suggesting it favors international creditors over locals.
-
-🟩
-
-Members of Parliament Dr. Harsha de Silva, MP, said that the International Bonds The owners would not accept the proposal in April.
-
-He was speaking at a press conference held at the Colombo Opposition Office today (15). He added:
-
-"The President of International Bonds arrived in Sri Lanka, the President met the JVP group. We did not see any response to the government and the JVP in this regard.. However, we say that the proposal presented in April cannot be accepted. We tell that straight. The reason for this is the proposals of international bond owners in 2028. If you look like it is going, the success of the country is in US dollars.
-
-That is why the cutting of part of their face depends on. By 2028, we get the face value by 2028, only 7 percent. The International Monetary Fund has not expressed their views.
-
-...
-
-[Data](articles/5a520ef5.json)
-
-[Extended Data](ext_articles/5a520ef5.ext.json)
-
----
-
-### Against privatising Govt. institutions
-
-*2024-05-15 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-privatising-Govt-institutions/110-282659) · `en`
-
-A protest was held in front of the Fort Railway station against the government privatising government institutions, including Telecom, Insurance and Milco. The protesters also demanded that the government abolish the Electricity Act, which will become a huge burden to the public. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/822fedff.json)
-
-[Extended Data](ext_articles/822fedff.ext.json)
-
----
-
-### It does not stop send to Israel to Israel if anyone says
-
-*2024-05-15 20:24:56* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-මොනවා-කීවත්-ඊශ්‍රායලයට-ශ්‍රමිකයින්-යවන-එක-නවත්වන්නේ-නෑ/11-409655) · `si`
-
-Sri Lanka, as a non-aligned nation, cannot allow its political activities to be influenced by others. Despite protests, the government plans to continue sending workers to Israel, emphasizing the importance of foreign employment for economic stability. The Minister criticizes opposition leader Sajith Premadasa for politicizing this issue, accusing him of seeking Muslim votes through divisive tactics.
-
-🟩
-
-Sri Lanka is a non-aligned nations, the political activities of other countries cannot be influenced by other countries and the protests of parliament is unable to stop the war, Minister of Labor and Foreign Employment Minister Manusha Nanayakkara. The Minister further stated that some political groups of the opposition leader Sajith Premadasa have been sacrificed to obtain the votes of the Muslim people and the future of Sri Lanka.. He was speaking at a program held at the Foreign Employment Bureau today (5/15).
-
-"When the JVP Matara was in Matara, the youth asked to stop the country to work. No send for the jobs in Israel. Opposition Leader Sajith Premadasa told Israeli not to send workers to Israel, to stop Israeli embassy relations. Rauf Hakeem says workers are sent to work at the places of Palestine. We are a non-aligned country. It is wrong for us to have political issues in other countries.
-
-...
-
-[Data](articles/dc27b79d.json)
-
-[Extended Data](ext_articles/dc27b79d.ext.json)
-
----
-
-### Grama Niladhari arrested for alive in the deceased woman
-
-*2024-05-15 20:16:21* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-කතක-නමින්-ජීවත්ව-සිටි-බවට-ලිපියක්-නිකුත්-කල-ග්‍රාම-නිළධාරී-අත්අඩංගුවට/11-409654) · `si`
-
-A Grama Niladhari, identified as a 52-year-old resident of Mallagamuwa, Waskaduwa, was arrested by the Kalutara Special Criminal Investigation Unit for allegedly issuing a fraudulent death certificate. The incident involved a woman who submitted this document, which was intended for someone else, leading to the arrest of the suspect.
-
-🟩
-
-The Kalutara Special Criminal Investigation Unit has been arrested by the Kalutara Division Special Criminal Criminal Criminal Investigation Unit regarding the issuance of a deceased.
-
-The suspect was the Grama Niladhari, the Grama Niladhari of the Divisional Secretariat, Kalutara.
-
-The suspect is a resident of Mallagamuwa, Waskaduwa, a 52 year old.
-
-The suspect Grama Niladhari has issued a letter from a mosque who has been living in a village officer in Kalutara district, police said.
-
-The woman who had taken the letter was carried out by submitting the letter had been prepared for another person, police said.
-
-The statement of the letter has been released after the post is not known and the letter has been issued and the letter has been released after requesting two children with two young children.
-
-The suspect was to be produced before the Kalutara Magistrate's Court. Kalutara Division Special Criminal Investigation Unit Investigations
-
-◼️
-
-[Data](articles/c282e72a.json)
-
-[Extended Data](ext_articles/c282e72a.ext.json)
-
----
-
-### Hydroval
-
-*2024-05-15 20:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுகளின்-நீர்மட்டம்-அதிகரிப்பு/175-337375) · `ta`
-
-Rising river levels due to rain cause flooding in certain regions. The Kalu Ganga and Ganga Ganga exceed warning levels. Authorities warn residents in low-lying areas near rivers.
-
-🟩
-
-The rivers' water level is increasing in the wake of the rainy weather. In addition, floods have been reported in some areas.
-
-It is reported that the water level of the Kalu Ganga and the Ganga Ganga has increased above the warning level.
-
-Therefore, the Irrigation Department has advised people living in the low -lying areas near the rivers.. Remble
-
-◼️
-
-[Data](articles/a557201b.json)
-
-[Extended Data](ext_articles/a557201b.ext.json)
-
----
-
-### Two runs for the Fortuna Science question paper
-
-*2024-05-15 20:04:48* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-විද්‍යා-ප්‍රශ්න-පත්‍රයට-නිදහස්-ලකුණු-දෙකක්/11-409653) · `si`
-
-The Department of Examinations will award two extra marks for the GCE O/L Science paper due to concerns over its content quality. Commissioner General Amitith Jayasundara made this decision based on feedback from Minister of Education Dr. Susil Prema Jayantha, who highlighted issues with the paper not aligning with essential learning outcomes.
-
-🟩
-
-The Department of Examinations has decided to give two free marks for two issues of the GCE (O / L) paper question paper.
-
-Commissioner General of Examinations, Amitith Jayasundara has decided to provide the two free marks in the science question paper.
-
-Minister of Education Dr. Susil Prema Jayantha had previously stated that it would be justified on the issues of the Ordinary Level Sciences.
-
-The Minister was revealed that several issues of the science issue question paper have been prepared outside essential learning content.
-
-◼️
-
-[Data](articles/989ee5c1.json)
-
-[Extended Data](ext_articles/989ee5c1.ext.json)
-
----
-
-### Sampur incident is an example of the fact that Tamils are not going to get justice in this country - Mullivaikkal
-
-*2024-05-15 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183640) · `ta`
-
-The Sampur incident highlights ongoing issues of injustice towards Tamils in Sri Lanka, particularly in the context of the Mullivaikkal massacre. The event, which involves the arrest of individuals for sharing porridge, symbolizes broader systemic racism and the suppression of Tamil rights. It underscores the need for international intervention to ensure justice and peace, especially during significant cultural events like Vesak, where tensions between communities are heightened.
-
-🟩
-
-Mullivaikkal's Memorial General Assembly has urged the international community to come up with justice and political justice for war crimes.
-
-For the past 14 years, Mullivaikkal has been in a state of distress and justice for the deaths of the dead and deadly people who have been killed as people who have been carrying out war in the midst of various repression of Sri Lanka's chauvinist state forces, police and intelligence agencies.
-
-Although we are going to avoid hunger in the war, we are unforgettable every year, as we can not forget that the flesh of the flesh of the flesh in the flood of the floods.
-
-Similarly, the Sampur police have arrested a man, including three women, including three women in Sampur, on charges of sharing Kanji on the first day of this year.
-
-This is a communal violence that silence all the Tamils who have been carrying the pain of the war and longing for justice.
-
-...
-
-[Data](articles/f362d917.json)
-
-[Extended Data](ext_articles/f362d917.ext.json)
-
----
-
-### Four attempts trying to abduct
-
-*2024-05-15 19:57:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-අවසන්-කළ-සිසුවිය-පැහැර-ගන්න-උත්සාහ-කළ-4ක්-අල්ලයි/11-409652) · `si`
-
-In Aladeniya, four youths were arrested for attempting to abduct a van. The incident involved the Youth GCE exam and led to the arrest of the local police chief, Inspector Senaratne, along with his team. A 24-year-old from Polonnaruwa was suspected of allowing the abduction after meeting the victim at Nugawela Maha Vidyalaya. The student was taken to Kandy National Hospital for a medical check-up.
-
-🟩
-
-A van and four youth have been arrested by the Aladeniya Police.
-
-Answering the final question at the Youth GCE (15) at the Youth Values at the Youth AthlemanThe students have informed the emergency call unit in connection with the incident.
-
-Alandeniya OIC Chief Inspector Senaratne and a team of police have also been arrested by the van and the van.
-
-The student has lived with him after the 24 year old resident of the Polonnaruwa area.
-
-The police suspect that the student has been allowed to abduct the student after she appeared with him at the Nugawela Maha Vidyalaya, while she has not come back with him at the Nugawela Maha Vidyalaya, the police suspect that she had not come back with him.
-
-The student has been identified to the Kandy National Hospital for a medical examination.
-
-◼️
-
-[Data](articles/90ee27eb.json)
-
-[Extended Data](ext_articles/90ee27eb.ext.json)
-
----
-
-### Recognition for Hazaranga
-
-*2024-05-15 19:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வனிந்து-ஹசரங்கவுக்கு-கிடைத்த-அங்கீகாரம்/175-337374) · `ta`
-
-Hazaranga, Sri Lanka's cricket team captain, secured the top spot among all players across all fields in the International Cricket Council's Twenty20 World Cup.
-
-🟩
-
-சர்வதேச கிரிக்கெட் பேரவையின் இருபதுக்கு இருபது போட்டிகளில் சகல துறை வீரர்கள் வரிசையில் இணை முதல் இடத்தை இலங்கை கிரிக்கெட்டின் இருபதுக்கு இருபது போட்டி அணித் தலைவர் வனிந்து ஹசரங்க இடம்பெற்றுள்ளார். Remble
-
-◼️
-
-[Data](articles/6c70b56a.json)
-
-[Extended Data](ext_articles/6c70b56a.ext.json)
-
----
-
-### Shot to Slovakia Prime Minister
-
-*2024-05-15 19:43:09* · [`adalk`](https://www.ada.lk/breaking_news/ස්ලෝවැකියා-අගමැතිට-වෙඩි-ප්‍රහාරයක්/11-409651) · `si`
-
-Slovakia's Prime Minister was shot and injured during a cabinet meeting, leading to the arrest of the shooter.
-
-🟩
-
-Vidyawa Media reports say that he was injured after the shooting of the Prime Minister of Slevakia. Police also arrested the police.
-
-The shooting has taken place after the cabinet meeting.
-
-◼️
-
-[Data](articles/a52c1ed1.json)
-
-[Extended Data](ext_articles/a52c1ed1.ext.json)
-
----
-
-### 90 lakhs arrested in customs
-
-*2024-05-15 19:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-90ක-මත්ද්‍රව්‍ය-රේගුවේදී-අත්අඩංගුවට/11-409650) · `si`
-
-In a significant operation, 90 lakhs were arrested by the Customs Drug Administration Division for smuggling drugs. The parcels were addressed to fake locations in Sri Lanka and abroad, containing 466 grams of cannabis and 10 grams of cocaine. A joint effort with postal department officials led to the seizure, which will be investigated further by the Police Narcotics Unit.
-
-🟩
-
-Customs Media Spokesperson, additional customs have been arrested by a group of employees of the Customs Drug Administration Division on the 5/15th Census.Director General, Savali Aruukgoda said.
-
-Parcels were sent to the fake address in Dehiwala, Wellawatte and Anuradhapura to the Dehiwala, England and Netherlands.
-
-The Customs Drug Administration Unit had been arrested in the parcel opened and 466 grams of Kushmba and 10 grams of cocaine.
-
-A group of officers of the Postal Department officials were also present at the arrest.
-
-Steps have been taken to hand over the drug taken to the Police Narcotics Unit for further investigations.
-
-◼️
-
-[Data](articles/bfaf7045.json)
-
-[Extended Data](ext_articles/bfaf7045.ext.json)
-
----
-
-### Sri Lanka adopted 75 new laws in the past two years: President
-
-*2024-05-15 19:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-adopted-75-new-laws-in-the-past-two-years-president-163268/) · `en`
-
-ECONOMYNEXT – Sri Lanka has adopted 75 new laws in the past two years, the island-nation the country with the most up-to-date legal framework in South Asia, President Ranil Wickremesinghe has said.
-
-“After almost a century, we have implemented numerous reforms in the field of law. Over the past two years, we have enacted approximately 75 new laws. This is a significant achievement, considering that some parliaments work for even 4 or 5 years without passing this amount of laws,” Wickremesinghe said during the opening of the new Court Complex in Theldeniya on Wednesday (15).
-
-The original Magistrate’s Court in Theldeniya was submerged under the Victoria Reservoir. The new court complex, a three-storey building, accommodates the Magistrate and District Courts along with other essential facilities.
-
-“A government’s purpose is to work, and MPs should attend Parliament to fulfil their legislative duties. We have worked to introduce a new legal system by adopting these laws in Parliament.”
-
-...
-
-[Data](articles/11fb23d1.json)
-
-[Extended Data](ext_articles/11fb23d1.ext.json)
-
----
-
-### Court allows Duminda to present facts in case against Wijedasa’s appointment
-
-*2024-05-15 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-allows-Duminda-to-present-facts-in-case-against-Wijedasas-appointment/108-282657) · `en`
-
-The Colombo District Court today granted permission to Sri Lanka Freedom Party (SLFP) Parliamentarian Duminda Dissanayake to present facts regarding an injunction order challenging the appointment of Justice Minister Wijeyadasa Rajapakshe PC as the SLFP Chairman.
-
-The decision on whether the court will issue an enjoining order will be delivered tomorrow (16).
-
-President's Counsel Romesh de Silva appearing for Minister Wijeyadasa Rajapakshe raised objections challenging the maintainability of the plaint since the Kaduwela District Court has already issued an order preventing all factions from disrupting Minister Wijeyadasa Rajapakshe functioning as the party Chairman.
-
-President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argued that the order issued by the Kaduwela District Court would not have any effect on this particular case.
-
-...
-
-[Data](articles/bdc16707.json)
-
-[Extended Data](ext_articles/bdc16707.ext.json)
 
 ---

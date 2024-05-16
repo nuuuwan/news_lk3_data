@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 12:03:31**
+As of **2024-05-16 12:18:25**
 
 ## Newspaper Stats
 
-*Scraped **24,399** Articles*
+*Scraped **24,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
-adalk | 2,082
+adalk | 2,083
 adaderanalk | 2,826
 tamilmirrorlk | 2,871
 virakesarilk | 3,661
@@ -26,37 +26,43 @@ adaderanasinhalalk | 3,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,398 (100.0%) of 24,399 articles have been extended.
+24,399 (100.0%) of 24,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### මිතුරු ආරවුල මරණයෙන් කෙළවර වෙයි
+### Friends dispute ends dead
 
 *2024-05-16 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196673) · `si`
 
-හෝකන්දර හොරහේන ප්‍රදේශයේ නිවසක් තුළ දී තරුණයෙකුට පහරදී ඝාතනය කර තිබේ.
+In Horahena, Hokandara, a 26-year-old man was assaulted and died from injuries at Athurugiriya Hospital. The attacker, who was released 10 days prior, was arrested by Athurugiriya Police. Friends' dispute led to the fatal incident, under investigation by Nugegoda Criminal Investigators and set to appear in Kaduwela Magistrate's Court.
 
-අප වාර්තාකරු පැවසුවේ, ඊයේ (15) රාත්‍රී 7.30ට පමණ එම අනතුර සිදුව ඇති බවය.
+🟩
 
-පුද්ගලයකු විසින් අදාළ තරුණයාට පොලු පහරක් එල්ල කිරීම හේතුවෙන් අතුරුගිරිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව එලෙස මියගොස් තිබේ.
+A young man was assaulted in a house in Horahena, Hokandara.
 
-මෙසේ මිය ගොස් ඇත්තේ වයස අවුරුදු 26ක් වූ හෝකන්දර, හොරහේන පාර ප්‍රදේශයේ පදිංචිව සිටි විවාහකයෙකි.
+Our correspondent said that the accident had occurred at around 7.30 pm yesterday.
 
-පහර දුන් පුද්ගලයාද අද (16) උදෑසන අතුරුගිරිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The victim has been admitted to the Athurugiriya Hospital due to a blow to the youth.
 
-පහර දුන් පුද්ගලයා අයිස් මත්ද්‍රව්‍ය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත වී සිට දින 10කට පෙර නිදහස් වී ආ පුද්ගලයෙකු බව අතුරුගිරිය පොලීසිය සඳහන් කළේය.
+The deceased has been identified as a 26 year old resident of Horahena Road, Hokandara.
 
-මොවුන් දෙදෙනා මිතුරන් වන අතර, දෙදෙනා අතර ඇතිවූ ආරවුලක් හේතුවෙන් මෙම පහරදීම සිදුවී ඇති බවට පොලීසිය සැක පළ කරයි.
+The attack was also taken into custody by the Athurugiriya Police today (16).
 
-නුගේගොඩ අපරාධ ස්ථාන පරීක්ෂක නිලධාරීන් විසින් (සොකො) ස්ථානීය පරීක්ෂණය අද පෙරවරුවේ සිදු කළේය.
+The attack was released 10 days ago, the Athurugiriya Police said.
 
-ඝාතනය සම්බන්ධව වැඩිදුර පරීක්ෂණ අතුරුගිරිය පොලීසිය විසින් සිදුකරන අතර, සැකකරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The two are friends and the police suspect that the attack has occurred due to a dispute between the two.
+
+The site inspection of the Nugegoda Criminal Investigators (SEC) was held this morning.
+
+Police are conducting further investigations into the murder, and the suspect is to be produced before the Kaduwela Magistrate's Court.
 
 ◼️
 
 [Data](articles/c4587e27.json)
+
+[Extended Data](ext_articles/c4587e27.ext.json)
 
 ---
 
@@ -551,6 +557,24 @@ After the conductor informed the Conductor in the well, police officers had remo
 [Data](articles/fce0a32a.json)
 
 [Extended Data](ext_articles/fce0a32a.ext.json)
+
+---
+
+### ලංගම රථයේ රියදුරු අසුනේදි මියයයි
+
+*2024-05-16 10:01:29* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-රථයේ-රියදුරු-අසුනේදි-මියයයි/11-409665) · `si`
+
+නුවරඑලිය සිට නාවලපිටිය දක්වා ධාවනය වු නාවලපිටිය ලංගම ඩිපෝවට අයත් බස් රථයේ රියදුරු රිය අසුන මත ජිවිතක්ෂයට පත් විම නිසා බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුරට පත් වි ඇති බව ලිදුල පොලිසිය පැවසිය.
+
+මෙසේ ධාවනය වෙමින් තිබු බස් රථය තුලදිම ජිවිතක්ෂයට පත් වි ඇත්තේ නාවලපිටිය ලංගම ඩිපෝවේ සේවය කරමින් සිටි සුරංග අරුණසිරි අත්තනායක නැමති (39) හැවිරිදි අයෙකි.
+
+නුවරඑලිය සිට දිඹුල පතන හරහා නාවලපිටිය දක්වා (15) දින පස්වරුවේ ධාවනය වු බස් රථය හදිසියේ කාර්මික දෝෂයකට ලක්විම නිසා එම බස් රථයේ ගමන් ගත් මගින්ව වෙනත් බස් රථයකට මාරු කර බස් රථයේ රියදුරු සහ කොන්දොස්තර එක්ව බස් රථයේ කාර්මික දෝෂය යථා තත්ත්වයට පත් කර යලිත් බස් රථය නාවලපිටිය දක්වා ධාවනය කරවන අවස්තාවේ බස් රථයේ රියදුරුට ඇති වු  හදිසි රෝගි තත්ත්වයක් හේතුවෙන් බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුර සිදු වි ඇත.
+
+මෙම අනතුර සිදු වි ඇත්තේ හැටන් නුවරඑලිය ප්‍රධාන මාර්ගයේ ලිදුල ෆාමස්ටන් ප්‍රදේශයේදිය.
+
+...
+
+[Data](articles/6659c900.json)
 
 ---
 
@@ -2187,31 +2211,5 @@ It is reported that the luxury car driver who was traveling from Kandy to Nuwara
 [Data](articles/3692308e.json)
 
 [Extended Data](ext_articles/3692308e.ext.json)
-
----
-
-### Phase phase of state enterprise restructuring is over
-
-*2024-05-15 21:07:15* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසාය-ප්‍රතිව්‍යුහගත-කිරීමේ-මූලික-අදියර-අවසන්/11-409660) · `si`
-
-The primary phase of state enterprise restructuring is complete, with the Technical Committee finishing its tasks and preparing a list of qualified institutions. The next step involves the Finance Committee, which will oversee purchases. Committee members, including subject matter experts and public officials, will not receive allowances.
-
-🟩
-
-The primary phase of the restructuring of state enterprises is reported.
-
-Accordingly, the activities of the Technical Committee have been completed. The final list of institutions that have met the basic qualifications have been prepared by the committee's fundamental qualifications.
-
-The next phase is to be summoned, and the Finance Committee will be purchased by the Finance Committee.
-
-A spokesman for the restructuring committee of the State Enterprise and Public Officers have the subject experts, experts and public officials of the committee are equipped with the subject experts, experts and public officers of the committee.
-
-The spokesman said that the members of the committee will not be given any allowance
-
-◼️
-
-[Data](articles/f0a4f6e3.json)
-
-[Extended Data](ext_articles/f0a4f6e3.ext.json)
 
 ---

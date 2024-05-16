@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 08:18:20**
+As of **2024-05-16 08:34:00**
 
 ## Newspaper Stats
 
-*Scraped **24,353** Articles*
+*Scraped **24,354** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
 bbccomsinhala | 247
-dbsjeyarajcom | 249
+dbsjeyarajcom | 250
 newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,398
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,348 (100.0%) of 24,353 articles have been extended.
+24,353 (100.0%) of 24,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,29 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/593b6874.json)
 
+[Extended Data](ext_articles/593b6874.ext.json)
+
 ---
 
-### හමුදාව ලක්ෂයක් දක්වා අඩු කිරීමට රජයේ අවධානය
+### State attention to reduce the army to 100,000
 
 *2024-05-16 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196663) · `si`
 
-2030 වසර වන විට යුද්ධ හමුදාව ලක්ෂයක පමණ සංඛ්‍යාවකට ගෙනඒමට අපේක්ෂා කරන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+By 2030, Sri Lanka aims to reduce its army from 208,000 to 100,000, focusing on preparing for current and future threats post-war. This decision involves strengthening the navy and air force amidst geographical complexities. Additionally, the government plans to offer legal pardons to those leaving the army unlawfully, affecting around 15,000 individuals.
 
-ඔහු පවසන්නේ යුද කාලයෙන් පසු වත්මන් සහ අනාගත තර්ජන පිළිබ﻿ඳ සැලකිල්ලට ගෙන මෙරටට ගැලපෙන පරිදි යුද හමුදාවක් සකස් කිරීම රජයේ අරමුණ බවය.
+🟩
+
+Defense Minister Linea Bandara Tennakoon says that by 2030, the army is expected to be taken to about 100,000 people.
+
+He says that the government's objective is to prepare a military intention to suit the current and future threats after the war period.
+
+President hopes to make analysis of the present and future threats after the war and the army that suits our country.. Accordingly, a separate expert panel has been appointed under the program of the security review 2030. Accordingly we have a numerically a cart of the army 208,000. Get it up to 100,000, he is our hope. We don't expect to remove anybody. Statistically we have made we have made naturally calculating the military's decrease by 2030 and keep the Army of the Army by 2030. And you have to strengthen the Navy and Air Force. Geographically we are in a very complex. Therefore, we are implementing the Navy to strengthen the Navy. "
 
 ...
 
 [Data](articles/0bc2ff95.json)
+
+[Extended Data](ext_articles/0bc2ff95.ext.json)
 
 ---
 
@@ -86,41 +96,57 @@ However, researchers have found no clear proof of a link between MSG and these s
 
 ---
 
-### විදුලි ගාස්තු අඩු කිරීමේ යෝජනා ලබාදීමට ලංවිම උපයෝගීතා කොමිසමෙන් කල් ඉල්ලයි
+### CEB utility commissions demands to provide electricity tariffs
 
 *2024-05-16 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196662) · `si`
 
-විදුලිබිල අඩු කිරීමට අදාළ යෝජනා සිය කොමිසම වෙත ඉදිරිපත් කිරීමට හෙට (17) දිනය දක්වා කාලය ලබාදෙන ලෙස දන්වමින් ලංකා විදුලිබල මණ්ඩලය ඉල්ලීමක් කළ බව මහජන උපයෝගීතා කොමිසම පවසයි.
+The Public Utilities Commission requested the Ceylon Electricity Board to submit proposals for reducing electricity tariffs by the 17th. The deadline was extended from the 10th due to non-submission. The commission plans to review these proposals and initiate the process to lower tariffs, aiming to announce the percentage decrease in July.
 
-එම යෝජනා මැයි පළමු වැනිදා කොමිසම වෙත ලබාදීමට නියමිතව තිබුණ ද විදුලිබල මණ්ඩලය සිදුකළ ඉල්ලීමක් මත එම කාලය පසුගිය 10 වන දින දක්වා දීර්ඝ කිරීමට මහජන උපයෝගීතා කොමිසම පියවර ගනු ලැබීය.
+🟩
 
-එහෙත් පසුගිය 10 වන දිනයේ ද ලංකා විදුලිබල මණ්ඩලය විසින් අදාළ යෝජනා කොමිසම වෙත ඉදිරිපත් නොකළ බව මහජන උපයෝගීතා කොමිසමේ සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+The Public Utilities Commission has asked that the Ceylon Electricity Board has asked the Ceylon Electricity Board to give the proposals for the reduction of the proposals to the Commission to the 17th.
 
-ඒ අනුව මහජන උපයෝගිතා කොමිසම විසින් ලංකා විදුලිබල මණ්ඩලයට යළි සිහිකැඳවීමක් සිදුකිරීමට කටයුතු කළේය.
+The Public Utilities Commission was taken to extend the period until the 10th of the request made by the Ceylon Electricity Board on the request of the following proposals.
 
-යෝජනා ඉදිරිපත් කිරීමට හෙට දිනය දක්වා කාලය ලබාදීමට ලංකා විදුලිබල මණ්ඩලය විසින් ඉල්ලීමක් සිදුකළ බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+However, the Chairman of the Public Utilities Commission Professor Manjula Fernando said that the Ceylon Electricity Board (PUCSF) has not been submitted to the Commission on the 10th.
 
-අදාළ යෝජනා ලැබීමෙන් පසු විදුලිබිල අඩු කිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ කෙරෙන අතර විදුලිබිල අඩු කිරීමේ ප්‍රතිශතය ජූලි මාසයේදී ප්‍රකාශ කළ හැකි බව මහජන උපයෝගීතා කොමිසම පැවසුවේය.
+Accordingly, the Public Utilities Commission made reviscut to the Ceylon Electricity Board.
+
+Prof. Manjula Fernando said that the Ceylon Electricity Board (CEB) has asked the Ceylon Electricity Board for tomorrow.
+
+After receiving the proposals, the procedure to reduce the electricity tariffs will be launched and the percentage of the electricity tariff can be stated in July.
 
 ◼️
 
 [Data](articles/3d182db8.json)
 
+[Extended Data](ext_articles/3d182db8.ext.json)
+
 ---
 
-### පාඨලීගේ අභියාචනා පෙත්සම් විභාගය අවසන් - තීන්දුව කල්යයි
+### Patali's appeal petition Petition Examination Finished
 
 *2024-05-16 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196661) · `si`
 
-2016 වසරේ රාජගිරිය ප්‍රදේශයේ දී අපරීක්ෂාකාරී ලෙස රිය පදවා පුද්ගලයකු බරපතළ අනතුරකට ලක් කළේ යැයි චෝදනා කරමින් නීතිපතිවරයා විසින් තමන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන අධිචෝදනා පත්‍රය  බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු අමාත්‍ය පාඨලී චම්පික රණවක මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමේ විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ප්‍රකාශයට පත් කිරීම කල් තැබීය.
+The Supreme Court, presided over by Justices Gamini Amarasekera and Yasantha Kodagoda, has concluded examining Patali Champika Ranawaka's appeal petition after a serious accident in 2016. The Attorney General's office, represented by Additional Solicitor General Rohantha Abeyuriya, argued against prosecuting Ranawaka, citing inconsistencies with the initial charges. Despite this, the Attorney General proceeded with the prosecution. The verdict on Ranawaka's appeal has been postponed.
 
-මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම නඩු විභාගය පැවතුණා.
+🟩
 
-මෙම පෙත්සම විභාගයට ගත් අවස්ථාවේදී පෙත්සම්කාර පාඨලී චම්පික රණවක මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් 2016 වසරේ සිදුවූ අදාළ රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් එම වාහනය පැදවූ  රියදුරා කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ වරද පිළිගෙන එම නඩු කටයුත්ත අවසන් කර තිබූ බව සඳහන් කළේය.
+Supreme Court who was appointed by the Attorney General's Excellency Chamber Champika Ranawaka has completed the Parath Patali Champika Ranawaka who has been involved in serious accident in the year 2016 was to be killed in the Colombo High Court.The declaration was postponed to publish its verdict.
+
+The trial was held in front of the Supreme Court judge with Mrs. Gamini Amarasekera and Yasantha Kodagoda.
+
+Attorney-at-Law Fism Mustapha, who appeared in the court on behalf of the petition, the driver of the vehicle had been admitted to the Colombo Magistrate's Court on behalf of the petition in 2016.
+
+Despite this, the Attorney General pointed out that the Attorney General was taken to prosecute the SLFP against his client in the 2019.
+
+The President's Counsel stressed that the decision taken by the Attorney General was completely contrary to the accusations to the accusations.
 
 ...
 
 [Data](articles/77b90b71.json)
+
+[Extended Data](ext_articles/77b90b71.ext.json)
 
 ---
 
@@ -1112,23 +1138,29 @@ Those crossings were reported in Ambeon Capital, where 60 million shares crossed
 
 ---
 
-### ජනාධිපතිවරණ ගැසට්ටුව ජූලි මාසයේදී
+### The presidential election was in July
 
 *2024-05-15 21:17:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ගැසට්ටුව-ජූලි-මාසයේදී/11-409663) · `si`
 
-ජනාධිපතිවරණය සඳහා වූ ගැසට් පත්‍රය එළඹෙන ජූලි මාසයේ දී නිකුත් කිරීමට නියමිත බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රකාශ කළේය.
+In July, Sri Lanka's presidential election gazette will be released, halting development activities until its conclusion. Minister Mahinda Amaraweera urged quick progress on his ministry's projects, noting ongoing financial support but incomplete groundwork in certain areas.
 
-ඒ අනුව තම අමාත්‍යාංශය යටතේ මෙම වසර සඳහා සැළසුම් කළ  සංවර්ධන ව්‍යාපෘතිවල කටයුතු කඩිනම් කළ යුතු බවට නිලධාරීන්ට ඔහු උපදෙස් දුන්නේ
+🟩
 
-පාර්ලිමේන්තු පරිශ්‍රයේදී පැවති කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ පාර්ලිමේන්තු උපදේශක කාරක සභාවේදීය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the gazette for the presidential election is to be released in July.
 
-මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා මෙසේ සඳහන් කර සිටියේය.
+Accordingly, he instructed the officials to expedite the development projects for the development projects this year under their ministry.
 
-"ජනාධිපතිවරණය සඳහා වන ගැසට් පත්‍රය පළ කිරීමෙන් පසුව කිසිදු සංවර්ධන කටයුත්තක් ක්‍රියාත්මක කළ නොහැකියි. මේ නිසා ජූලි මාසයෙන් පසුව ජනාධිපතිවරණය අවසන් වන තෙක් සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමට ඉඩ ලැබෙන්නේ නැහැ. රජය විසින් අවශ්‍ය තරම් මුල්‍ය ප්‍රතිපාදන ඒ සඳහා ලබා දී තිබෙනවා. නමුත් සමහර අංශ තවමත් මුලික කටයුතුවත් අවසන් කර නැති බව පෙනෙනවා"
+The Parliamentary Advisory Committee of the Ministry of Agriculture and Plantation Industries at the Parliamentary Complex was also present.
+
+Speaking further the Minister said:
+
+"No development activity can be implemented after posting the gazette for the presidential election. Therefore, development projects will not be implemented until the end of the presidential election after July.The government has provided financial allocations for it. But some aspects of some areas seem to have not yet finished the base
 
 ◼️
 
 [Data](articles/b14cb728.json)
+
+[Extended Data](ext_articles/b14cb728.ext.json)
 
 ---
 

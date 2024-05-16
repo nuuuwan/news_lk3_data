@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 11:52:50**
+As of **2024-05-16 12:03:31**
 
 ## Newspaper Stats
 
-*Scraped **24,398** Articles*
+*Scraped **24,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,91 @@ adaderanalk | 2,826
 tamilmirrorlk | 2,871
 virakesarilk | 3,661
 dailymirrorlk | 3,830
-adaderanasinhalalk | 3,890
+adaderanasinhalalk | 3,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,394 (100.0%) of 24,398 articles have been extended.
+24,398 (100.0%) of 24,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### මෛත්‍රීට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්
+### මිතුරු ආරවුල මරණයෙන් කෙළවර වෙයි
+
+*2024-05-16 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196673) · `si`
+
+හෝකන්දර හොරහේන ප්‍රදේශයේ නිවසක් තුළ දී තරුණයෙකුට පහරදී ඝාතනය කර තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, ඊයේ (15) රාත්‍රී 7.30ට පමණ එම අනතුර සිදුව ඇති බවය.
+
+පුද්ගලයකු විසින් අදාළ තරුණයාට පොලු පහරක් එල්ල කිරීම හේතුවෙන් අතුරුගිරිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව එලෙස මියගොස් තිබේ.
+
+මෙසේ මිය ගොස් ඇත්තේ වයස අවුරුදු 26ක් වූ හෝකන්දර, හොරහේන පාර ප්‍රදේශයේ පදිංචිව සිටි විවාහකයෙකි.
+
+පහර දුන් පුද්ගලයාද අද (16) උදෑසන අතුරුගිරිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පහර දුන් පුද්ගලයා අයිස් මත්ද්‍රව්‍ය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත වී සිට දින 10කට පෙර නිදහස් වී ආ පුද්ගලයෙකු බව අතුරුගිරිය පොලීසිය සඳහන් කළේය.
+
+මොවුන් දෙදෙනා මිතුරන් වන අතර, දෙදෙනා අතර ඇතිවූ ආරවුලක් හේතුවෙන් මෙම පහරදීම සිදුවී ඇති බවට පොලීසිය සැක පළ කරයි.
+
+නුගේගොඩ අපරාධ ස්ථාන පරීක්ෂක නිලධාරීන් විසින් (සොකො) ස්ථානීය පරීක්ෂණය අද පෙරවරුවේ සිදු කළේය.
+
+ඝාතනය සම්බන්ධව වැඩිදුර පරීක්ෂණ අතුරුගිරිය පොලීසිය විසින් සිදුකරන අතර, සැකකරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/c4587e27.json)
+
+---
+
+### Complaint to Bribery Commission against Maithri
 
 *2024-05-16 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196672) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+A complaint accuses former President Maithripala Sirisena of selling out the Sri Lanka Freedom Party (SLFP) for personal gain. The complainant, Mr. Mondragu Sarachcha, demands an investigation into Sirisena's financial dealings related to the party.
 
-ශ්‍රීලනිප හිටපු විධායක සභිකයෙකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා අල්ලස් කොමිසමට ලිපියක් යොමු කරමින් සඳහන් කරන්නේ මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය විකුණා ලබාගත් අත්තිකාරමකින් පාස්කු වින්දිතයන්ගේ වන්දිය ගෙවා ඇති බවක් පෙනෙන්නට අති බවය.
+🟩
 
-එබැවින් අදාළ මුදල් උපයා ගත්තේ කෙසේද? යන්න සම්බන්ධයෙන් විමර්ශනයක් කරන ලෙස ඉල්ලා මෙම පැමිණිල්ල ගොනු කර තිබේ.
+A complaint has lodged a complaint with former President Maithripala Sirisena against Sirisena.
+
+Mr. Mondragu Sarachcha, a former SLFP Executive, says that Maithripala Sirisena looks like the Sri Lanka Freedom Party to sell the Sri Lanka Freedom Party.
+
+So how did you earn the relevant money?The complaint has been filed asking for an investigation into whether to investigate.
 
 ◼️
 
 [Data](articles/37f494d1.json)
 
+[Extended Data](ext_articles/37f494d1.ext.json)
+
 ---
 
-### பேயாட்டம் ஆடிய இராஜாங்க அமைச்சர்
+### The Minister of State
 
 *2024-05-16 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேயாட்டம்-ஆடிய-இராஜாங்க-அமைச்சர்/175-337416) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்திற்கு வந்த இராஜாங்க அமைச்சர் ஒருவர் பயணிகளின் பயணப்பொதிகளை கொண்டு செல்லும்  ஊழியர் ஒருவரை (போர்ட்டர்) கன்னத்தில்  அறைந்து, பாதுகாப்பு அதிகாரிகளையும் அச்சுறுத்தியதாக விமான நிலைய வட்டாரங்கள் தெரிவித்துள்ளது .
+A diplomat arriving at Katunayake airport caused a scene, threatening staff and security over entry procedures and payment disputes. The incident involved the Minister of State, his wife, and an altercation with a porter over fees, leading to physical confrontation. Despite the assault, no police complaint was filed due to concerns about creating trouble.
 
-இந்த இராஜாங்க அமைச்சரின் மனைவி உட்பட சிலரின் வெளிநாட்டு பயணமொன்றுக்காக குறித்த இராஜாங்க அமைச்சர் புதன்கிழமை (15) அதிகாலை கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார் .
+🟩
 
-அவர் தனது பாதுகாவலர்களுடன் நுழைவுச்சீட்டு வாங்காமல் பிரதான நுழைவாயில் ஊடாக விமான நிலையத்திற்குள் பிரவேசிக்க முயற்சித்துள்ளார்.  அவரின் பாதுகாவலர்கள் துப்பாக்கியுடன் இருந்ததால் அவை கொண்டு செல்ல அனுமதிக்க முடியாது என விமான நிலைய பாதுகாப்பு அதிகாரிகள் இராஜாங்க அமைச்சரிடம் கூறியுள்ளனர் .
+Airport sources said that a diplomatic minister who arrived at the Katunayake airport had threatened a passenger employee (porter) and threatened security officers.
 
-அப்போது, அவர் ​​பாதுகாப்பு  அதிகாரிகளை திட்டி, அவர்களை தனது கைத்தொலைபேசியால் புகைப்படமாகவும் பதிவு செய்துகொண்டுள்ளதாக விமான நிலைய பாதுகாப்பு அதிகாரிகள் தெரிவித்துள்ளனர் .
+The Minister of State has arrived at the Katunayake airport in the early hours of Wednesday morning for a foreign trip, including the wife of the Minister of State.
+
+He has tried to enter the airport through the main gate without buying a ticket with his guards.Airport security officials have told the diplomatic minister that her guards were with a gun and could not be allowed to carry.
+
+Airport security officials said that he had scolded security officers and photographed them with his cell phone.
+
+Later, airport sources said that when he asked the Porter who had come to take the travel packages with the Minister of State for the Minister of State, the Porter had paid less money and when he asked for the proper fee, the angry Minister had trampled the Porter's leg and left with the guardians.
 
 ...
 
 [Data](articles/60102824.json)
+
+[Extended Data](ext_articles/60102824.ext.json)
 
 ---
 
@@ -86,6 +128,8 @@ The incident occurred when a race car had veered off the race track and collided
 
 [Data](articles/15bf2789.json)
 
+[Extended Data](ext_articles/15bf2789.ext.json)
+
 ---
 
 ### President Ranil to attend 10th World Water Forum in Indonesia
@@ -103,6 +147,8 @@ At the World Water Forum, leaders, experts, scholars, entrepreneurs, and policym
 ...
 
 [Data](articles/8f2636c2.json)
+
+[Extended Data](ext_articles/8f2636c2.ext.json)
 
 ---
 
@@ -2167,29 +2213,5 @@ The spokesman said that the members of the committee will not be given any allow
 [Data](articles/f0a4f6e3.json)
 
 [Extended Data](ext_articles/f0a4f6e3.ext.json)
-
----
-
-### Ravi Manangularan two bail of bail
-
-*2024-05-15 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196656) · `si`
-
-DIG Ravi Waidyalankara granted two surety bails after being accused of housing fraud. The case was heard in the Fort Magistrate's Court, where he was also banned from traveling abroad.
-
-🟩
-
-DIG Ravi Ravi Ravi Waidyalankara has ordered the release of the DIG Ravi Ravi Waidyalankara on two surety bail.
-
-The case was taken up before the Fort Magistrate's Court to be released before the housing was cheated on the courts.
-
-The court ordered that former DIG Ravi Waidyalankara imposed foreign travel ban
-
-The Court has ordered the case against the incident on the 25th September.
-
-◼️
-
-[Data](articles/7293c298.json)
-
-[Extended Data](ext_articles/7293c298.ext.json)
 
 ---

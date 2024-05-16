@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 00:04:14**
+As of **2024-05-17 00:18:37**
 
 ## Newspaper Stats
 
-*Scraped **24,540** Articles*
+*Scraped **24,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,438
 adalk | 2,107
 adaderanalk | 2,840
 tamilmirrorlk | 2,883
-virakesarilk | 3,692
+virakesarilk | 3,693
 dailymirrorlk | 3,852
 adaderanasinhalalk | 3,914
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,533 (100.0%) of 24,540 articles have been extended.
+24,540 (100.0%) of 24,541 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ When contacted Commissioner CMC Bhadrani Jayawardena told the Daily Mirror follo
 ...
 
 [Data](articles/7c8ca102.json)
+
+[Extended Data](ext_articles/7c8ca102.ext.json)
 
 ---
 
@@ -378,17 +380,23 @@ SJB Leader Sajith Premadasa has still not responded to the invitation while NPP 
 
 ---
 
-### හබරණ තුන් නිවුන් දරුවන්ට ප්‍රසන්නගෙන් නිවසක්
+### House in pleasing house to twin children three Habarana
 
 *2024-05-16 19:38:17* · [`adalk`](https://www.ada.lk/breaking_news/හබරණ-තුන්-නිවුන්-දරුවන්ට-ප්‍රසන්නගෙන්-නිවසක්/11-409689) · `si`
 
-තුන් නිවුන් දරු උපතක් බිහිකළ හබරණ පුවක්පිටිය මහා වන මැද කටුමැටි ගැසූ නිවසක ජීවත්වන ගිහානි සුපේෂලා කුමාරි මහත්මියට කඩිනමින් නිවසක් සදා දීමට කටයුතු කරන ලෙස නාගරික සංවර්ධන හා නිවාස අමාත්‍ යප්‍රසන්න රණතුංග මහතා ජාතික නිවාස සංවර්ධන අධිකාරියට උප දෙස් දෙයි.
+The Ministry of Urban Development and Housing, in response to media attention, supports the National Housing Development Authority's initiative to provide housing in Habarana, particularly for families like the twins' in Puwakpitiya.
 
-එම අධිකාරියේ සභාපති රජීව් සූරියආරච්චි මහතාට ඇමතිවරයා මෙම උපදෙස් ලබාදී ඇත්තේ අද උදෑසන මුද්‍රිත හා විද්‍යුත් මාධ්‍ යඔස්සේ පළ වී තිබූ අදාල පවුල ජීවත් වන නිවස සම්බන්ධයෙන් පළව තිබූ ප්‍රවෘත්ති වාර්තා සම්බන්ධයෙන්  අවධානය යොමු වීමෙන් පසුවයි.
+🟩
+
+The Ministry of Urban Development and Housing is a subtropical to the National Housing Development Authority to live in a house of Habarana Puwakpitiya, Habarana Puwakpitiya.
+
+The Minister was responding to the Chairman of the Authority after the focus of the news reports on the house of the family living in the house which had been published in the family.
 
 ◼️
 
 [Data](articles/3c517f51.json)
+
+[Extended Data](ext_articles/3c517f51.ext.json)
 
 ---
 
@@ -752,6 +760,8 @@ Last month the Mini Cooperation Afloat Readiness and Training (CARAT) exercise 2
 
 [Data](articles/5fe2d76d.json)
 
+[Extended Data](ext_articles/5fe2d76d.ext.json)
+
 ---
 
 ### Agency owner, manager arrested for illegally recruiting Sri Lankans for Russian army
@@ -980,6 +990,22 @@ He also pointed out that he has obtained legal documents to be obtained through 
 
 ---
 
+### இலங்கை தேர்தல்கள் பற்றிய கணக்கெடுப்பு எதனையும் ஐக்கிய நாடுகள் அகதிகள் முகவரகம் நடத்தவில்லை
+
+*2024-05-16 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183711) · `ta`
+
+இலங்கையில் நடைபெறவுள்ள தேர்தல் குறித்து இலங்கையிலுள்ள ஐக்கிய நாடுகள் அகதிகள் முகவரகம் நடத்திய தனித்துவமான கணக்கெடுப்பின் அறிக்கை அவர்களது தலைமை அலுவலகத்துக்கு அனுப்பப்படுவதற்கு முன்பே வெளியிடப்பட்டுள்ளதாகவும், இந்நாட்டின் உயர்மட்ட புலனாய்வு அதிகாரி ஒருவர் ஊடாக இந்த அறிக்கை கசிந்துள்ளதாகவும் 'அரகல நியூஸ்' எனும் இணையதளம் செய்தியொன்றை பிரசுரித்துள்ளது.
+
+இந்தச்செய்தியுடன் அறிக்கை ஒன்றும் இணைக்கப்பட்டு சமூக வலைதளங்களில் வேகமாக பகிரப்பட்டு வருவதுடன், அது குறித்து பல்வேறு கருத்துக்களும் முன்வைக்கப்பட்டு வருகின்றன.
+
+மேலும், இந்த அறிக்கை 330 பல்கலைக்கழக மாணவர்களால் 20 நாட்களாக நடத்தப்பட்ட கணக்கெடுப்பு எனக் கூறப்பட்டுள்ளது. இதில் ஒவ்வொரு மாவட்டத்தையும், ஒவ்வொரு தேர்தல் தொகுதியையும் பிரதிநிதித்துவப்படுத்தியும், ஒவ்வொரு இனத்தவர் மற்றும் ஒவ்வொரு தொழில்முறை நபர்களைப் பிரதிநிதித்துவப்படுத்தியும் மக்களின் கருத்துக்கள் பெறப்பட்டதாக அவர்கள் இந்த அறிக்கையில் தெரிவித்துள்ளனர். 28 பக்கங்களைக் கொண்ட இந்த அறிக்கையில் உள்ளகடக்கப்பட்டுள்ள விடயங்களாவன:
+
+...
+
+[Data](articles/a59e2cc8.json)
+
+---
+
 ### Teaser of 'Double I Smart' starring Ram
 
 *2024-05-16 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183713) · `ta`
@@ -1162,6 +1188,8 @@ A bond maturing on 01.10.2032 closed down at 11.75/95 percent from 11.80/95 perc
 
 [Data](articles/eac694f6.json)
 
+[Extended Data](ext_articles/eac694f6.ext.json)
+
 ---
 
 ### Sajith bars Daily Mirror over liquor controversy liquor
@@ -1245,6 +1273,8 @@ Several conglomerates closed down: Aitken Spence Plc was down at 130.25, Richard
 ...
 
 [Data](articles/74d48e15.json)
+
+[Extended Data](ext_articles/74d48e15.ext.json)
 
 ---
 
@@ -1608,6 +1638,8 @@ Fonterra will appoint advisors and expects to exit retail businesses in the next
 
 [Data](articles/58de9353.json)
 
+[Extended Data](ext_articles/58de9353.ext.json)
+
 ---
 
 ### Sri Lanka’s first-ever Sports Ombudsman appointed
@@ -1817,6 +1849,8 @@ Tennakoon said an expert panel has been appointed to look into the cadres and st
 ...
 
 [Data](articles/5b0d7980.json)
+
+[Extended Data](ext_articles/5b0d7980.ext.json)
 
 ---
 
@@ -2323,37 +2357,5 @@ Acceptance of thorns and electricity generation veteran electrical Narammala Pal
 [Data](articles/b3f5f7e0.json)
 
 [Extended Data](ext_articles/b3f5f7e0.ext.json)
-
----
-
-### Nepal Super Bulgest Arrivals in charge of rape charges
-
-*2024-05-16 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196676) · `si`
-
-Sandeep Lamichhane, a Nepalese cricketer, was acquitted of rape charges by the High Court, allowing him to rejoin cricket and potentially participate in the 20th World Cup. The Nepal Cricket Association expressed its approval for this decision.
-
-🟩
-
-The High Court has acquitted the alleged Nepal Cricketer Sandeep Laminna, who was found guilty of rape.
-
-Accordingly, he will return cricket again and is likely to join the 20th World Cup.
-
-The Nepalician Association has said that if the International Cricket Council was approved, the International Cup was named for his World Cup squad.
-
-A Pathan High Court spokesman said that the court ordered the release of the cricketer due to an error.
-
-The Katheangu Court has ordered the accused of abuse of an 18-year-old girl on January 10.
-
-He also fined $ 2,255 and was ordered to pay a $ 1500 compensation to the victim.
-
-Nepali Cricket Association imposed him on January 11.
-
-At first, Sandeep Laminghe appealed to him against his imprisonment in the prison that he was imposed.
-
-◼️
-
-[Data](articles/5b55c413.json)
-
-[Extended Data](ext_articles/5b55c413.ext.json)
 
 ---

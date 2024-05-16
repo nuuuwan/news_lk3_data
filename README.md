@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 22:33:34**
+As of **2024-05-16 22:51:39**
 
 ## Newspaper Stats
 
-*Scraped **24,527** Articles*
+*Scraped **24,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
-adalk | 2,105
-adaderanalk | 2,839
+adalk | 2,106
+adaderanalk | 2,840
 tamilmirrorlk | 2,883
 virakesarilk | 3,691
-dailymirrorlk | 3,848
+dailymirrorlk | 3,851
 adaderanasinhalalk | 3,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,527 (100.0%) of 24,527 articles have been extended.
+24,527 (100.0%) of 24,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Refugee from Sri Lanka becomes mayor of British town
+
+*2024-05-16 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99262/refugee-from-sri-lanka-becomes-mayor-of-british-town) · `en`
+
+A British town’s new mayor is a refugee from Sri Lanka who will be the first Hindu to hold the position.
+
+Labour councillor Elango Elavalakan has taken over the ceremonial role after a unanimous vote at Ipswich Borough Council’s annual meeting.
+
+“I’m so happy today, and very proud to be mayor of this great town,” said Mr Elavalakan.
+
+Council leader Neil MacDonald, who proposed the nomination, said Mr Elavalakan would get to read out a general election result during his year in office.
+
+“The announcement by a refugee who fled war and persecution, and who has made a new life and contributed to society here, will send a message,” he said.
+
+Members of Ipswich’s Hindu community attended Wednesday evening’s ceremony, with celebrations at the nearby temple planned for later in the week.
+
+Dr Sachin Karale, chair of Ipswich Hindu Samaj, said: “It shows the great diversity and multiculturalism of Ipswich town that a Hindu man is becoming mayor. I’m really proud.”
+
+...
+
+[Data](articles/8cd02e26.json)
+
+---
 
 ### Human Rights Commission complains against O / L persons
 
@@ -56,6 +80,22 @@ However, her parents had lodged a complaint with the Human Rights Commission tod
 
 ---
 
+### Court orders release of a flock of animals back to animal lover
+
+*2024-05-16 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-orders-release-of-a-flock-of-animals-back-to-animal-lover/108-282741) · `en`
+
+Colombo, May 16 (Daily Mirror) -  The Court of Appeal has issued an interim order to release a flock of animals back to an animal lover, following their seizure by Wildlife Department officials for an alleged violation of the Fauna and Flora Protection Ordinance.
+
+The Court of Appeal Justice Mohammed Laffar further issued an interim order staying the proceeding in the Welisara Magistrate Court Case against the petitioner Shafeek Shuail until the conclusion of this writ application.
+
+The Petitioner states that he always had a deep affection and keen interest in animals and their welfare, which has been ingrained since his childhood. The Petitioner states that as such since his upbringing at Aluth Mawatha, Colombo 15, he raised and cared for several animals as pets which includes some of the birds, reptiles and other animals which were seized and taken into custody by officers of the Wildlife Department. The Petitioner stated that all the animals were purchased through pet shops.
+
+...
+
+[Data](articles/c7cbfd25.json)
+
+---
+
 ### O/L examination for 14 students
 
 *2024-05-16 21:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-14-மாணவர்களுக்கு-நடந்த-கொடுமை/175-337443) · `ta`
@@ -77,6 +117,20 @@ It is noteworthy that allegations have been made that there were errors at the G
 [Data](articles/ab64bbd6.json)
 
 [Extended Data](ext_articles/ab64bbd6.ext.json)
+
+---
+
+### India-Sri Lanka ferry service resumption delayed indefinitely
+
+*2024-05-16 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-ferry-service-resumption-delayed-indefinitely/108-282745) · `en`
+
+The resumption of the passenger ferry service between Nagapattinam in India and the Kankesanthurai region near Jaffna in the Northern Province of Sri Lanka has been delayed again for an indefinite period, Aviation Minister Nimal Siripala de Silva has said.
+
+The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthurai (KKS) suburb of Jaffna district, which was to resume on May13, was delayed due to a "technical shortcoming", de Silva said on Wednesday.
+
+◼️
+
+[Data](articles/8d710e12.json)
 
 ---
 
@@ -172,6 +226,18 @@ The situation escalated when a porter assisting with the luggage of the minister
 
 ---
 
+### Irrigation officials in protest
+
+*2024-05-16 20:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Irrigation-officials-in-protest/110-282730) · `en`
+
+Employees of the Irrigation Department held a protest outside their office today, opposing the Ministry of Foreign Affairs' decision to take over their main building. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/f00136df.json)
+
+---
+
 ### Another irregularity of the O / L examination?
 
 *2024-05-16 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196696) · `si`
@@ -263,6 +329,24 @@ SJB Leader Sajith Premadasa has still not responded to the invitation while NPP 
 [Data](articles/bb0d7442.json)
 
 [Extended Data](ext_articles/bb0d7442.ext.json)
+
+---
+
+### ඇමති ශෙහාන්ට මරණ තර්ජන
+
+*2024-05-16 19:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ශෙහාන්ට-මරණ-තර්ජන/11-409688) · `si`
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා ඝාතනය කර  පුළුස්සා දමන බවට   නාඳුනන පුද්ගලයකු සිදුකරන ලද තර්ජනයක් සම්බන්ධයෙන් කොටුව පොලිසිය මගින්  විමර්ශන ආරම්භ කර ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+ඊයේ (15) පස්වරු 4 ට හා 4.09  ට එම තර්ජනාත්මක ඇමතුම් දෙක ලැබී ඇති බව   මුදල් රාජ්‍ය අමාත්‍ය කාර්යාලයේ කළමනාකරණ සහකාරවරයෙක් සහ කාර්යාල කාර්ය සේවකයෙක්  පැමිණිලි කර ඇත.
+
+ප්‍රධාන දුරකථන අංකය හරහා පස්වරු 4.ට ඇමතුම ලැබීමේදී කාර්යාල කාර්ය සහායකයකු   එය ලබාගෙන ඇති අතර  මුදල් රාජ්‍ය අමාත්‍යවරයා කාර්යාලයේ නොමැති බවට පැවසීමෙන් අනතුරුව එම පුද්ගලයා " ඡන්දෙ කාලෙදි අපි තමයි සර්ට උදව් කරේ ,එයාට කොළඹට වෙලාම ඉන්න කියන ආයි මෙහේ එන්න එපා කියන්න ,ආවොත් ජීවිතයෙන් තමයි වන්දි ගෙවන්නේ වෙන්නේ යැයි පවසා දුරකථනයේ විසන්ධි කර ඇති බව  " කාර්යාල කාර්ය සහයකයා  කරන ලද එම පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස් නිලධාරියා කීය නිලධාරියා කීය.
+
+ඒ ආකාරයෙන් ඊට විනාඩි නවයකට පසු  ප්‍රධාන දුරකථන අංකය හරහා ඇමතුමක් ගෙන  ඒ ආකාරයෙන්ම තර්ජනය කර ඇති බවත් එම අවස්ථාවේදී කළමනාකරන සහකාරවරයෙකු එම ඇමතුම ලබාගෙන ඇති බවත්  පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/96a42f6f.json)
 
 ---
 
@@ -2287,109 +2371,5 @@ However, the proposals were not submitted to the Ceylon Electricity Commission o
 [Data](articles/2311d80f.json)
 
 [Extended Data](ext_articles/2311d80f.ext.json)
-
----
-
-### Time for up to 10
-
-*2024-05-16 12:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வரை-கால-அவகாசம்/175-337423) · `ta`
-
-The Public Utilities Commission plans to announce electricity tariff rates in July. The Electricity Board requested more time to suggest ways to lower these rates. Despite extending the deadline to May 10, the proposals weren't submitted by the 10th, according to Chairman Professor Manjula Fernando.
-
-🟩
-
-The Public Utilities Commission said that the rate of electricity tariffs will be announced in July.
-
-Meanwhile, the Electricity Board has asked the Public Utilities Commission to grant time to submit ideas on reducing electricity tariffs.
-
-As these proposals are to be presented to the Commission on May 1, the General Utilities Commission has extended the deadline until the 10th of this month.
-
-However, the proposals were not submitted to the Ceylon Electricity Commission on the 10th of this month, its chairman Professor Manjula Fernando said.
-
-◼️
-
-[Data](articles/eeb3db9a.json)
-
-[Extended Data](ext_articles/eeb3db9a.ext.json)
-
----
-
-### Motorists carefully
-
-*2024-05-16 12:49:50* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදිකරුවන්-ප්‍රවේශමෙන්/11-409671) · `si`
-
-The Disaster Management Center warns motorists about potential dangers from landslides, advising caution while driving.
-
-🟩
-
-The Disaster Management Center (DMC) has informed the driver driving with a strong source of vehicles due to the flow of time and landslides.
-
-The Disaster Management Center (DMC) stated that several motorbikes have been in danger at the landslide landslide in the landslide of the accident.. (Ij)
-
-◼️
-
-[Data](articles/4d649ff9.json)
-
-[Extended Data](ext_articles/4d649ff9.ext.json)
-
----
-
-### Sri Lankans in Russian-Ukraine war: Specialized delegation to visit Russia
-
-*2024-05-16 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-in-Russian-Ukraine-war-Specialized-delegation-to-visit-Russia/108-282726) · `en`
-
-Colombo, May 16 (Daily Mirror)- A specialized delegation will leave for Russia on the direction of President Ranil Wickremesinghe to investigate into the welfare of Sri Lankans amidst the on-going Russian-Ukraine war, State Minister for Foreign Affairs Tharaka Balasuriya said today.
-
-Addressing the media briefing held at the PMC, he said the delegation will include the Secretary to the Ministry of Defence, the former Ambassador to Russia and officials from the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/b588c160.json)
-
-[Extended Data](ext_articles/b588c160.ext.json)
-
----
-
-### The Employment Agency of Sri Lankans raided for the Russian Military Service
-
-*2024-05-16 12:45:46* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-හමුදා-සේවයට-ලාංකිකයන්-යොමුකළ-රැකියා-ඒජන්සිය-වටලයි/11-409670) · `si`
-
-In a raid by Sri Lanka's Employment Agency, owners of Sri Lankans and the Foreign Employment Bureau were arrested for allegedly cheating workers out of significant sums of money. The incident occurred at Stanley Thilakrathne Mawatha in Nugegoda, leading to the arrest of two suspects who will face charges at the Negombo Magistrate's Court. This action follows complaints from workers about being swindled, with the Labor and Foreign Employment Minister urging harsh penalties against such fraudsters.
-
-🟩
-
-The owner of Sri Lankans and the owner of the Foreign Employment Bureau were arrested by the Special Investigation Division of the Foreign Employment Bureau (5/15).
-
-Sri Lankans have taken up the money of Rs.The complaints have been received, according to the complaints, the amount of money that the institute has been cheated is over Rs.
-
-Accordingly, the relevant institution held at Stanley Thilakrathne Mawatha in Nugegoda was arrested yesterday (5/15) and was arrested by the Investigation Officers.
-
-The two arrested suspects are to be produced before the Negombo Magistrate's Court today after hearing statements.
-
-Manager (Special Investigation) Kapila Karunaratne, Planting Investigation (Special Investigation)
-
-...
-
-[Data](articles/d1d47572.json)
-
-[Extended Data](ext_articles/d1d47572.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-16 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183673) · `ta`
-
-The USD to INR exchange rate today is approximately 297.3178.
-
-🟩
-
-The US $ 297.3178 was reported at Rs.
-
-◼️
-
-[Data](articles/5836a757.json)
-
-[Extended Data](ext_articles/5836a757.ext.json)
 
 ---

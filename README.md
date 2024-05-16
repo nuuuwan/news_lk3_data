@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 18:34:50**
+As of **2024-05-16 18:52:30**
 
 ## Newspaper Stats
 
-*Scraped **24,497** Articles*
+*Scraped **24,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,099
 adaderanalk | 2,837
 tamilmirrorlk | 2,879
 virakesarilk | 3,685
-dailymirrorlk | 3,843
-adaderanasinhalalk | 3,907
+dailymirrorlk | 3,844
+adaderanasinhalalk | 3,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,497 (100.0%) of 24,497 articles have been extended.
+24,497 (100.0%) of 24,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### පාරිභෝගික අධිකාරියේ බලය ගැන හෙළිදරව්වක්
+
+*2024-05-16 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196693) · `si`
+
+වසර 19ක් පමාවී ඇති පාරිභෝගික අධිකාරියේ පනත සංශෝධනය කඩිනම් කරන්න ලෙස කෝප් කමිටුව පාරිභෝගික සේවා අධිකාරියට දැනුම්දී තිබේ.
+
+පාරිභෝගික ‍කටයුතු අධිකාරියේ 2021 සහ 2022 මුදල් වර්ෂවල විගණකාධිපති වාර්තා සහ වත්මන් කාර්ය සාධනය පරීක්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව පසුගියදා රැස්වූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකර ඇත.
+
+ශ්‍රී ලංකා රේගුව හා සම්බන්ධවෙමින් මහා පරිමාණ තොග ව්‍යාපාර වැටලීම් සිදුකිරීම සඳහා විධිමත් වැඩපිළිවෙළක් සකස් කිරීම පිළිබඳ අවධානය යොමුවූ අවස්ථාවේදී වෙළෙඳ අමාත්‍යාංශ ලේකම්වරයා පවසා ඇත්තේ වත්මන් පනත අනුව වැටලීම් කිරීම සඳහා බලය ඇත්තේ සිල්ලර වෙළෙඳාම සම්බන්ධයෙන් පමණක් බවත් තොග හෝ නිෂ්පාදකයාගේ ගබඩා පරීක්ෂා කර නෛතික පියවර ගැනීමට බලයක් නැති බවත්ය.
+
+මේ අනුව අදාළ අංශ අනාවරණය වන ලෙස පනත සංශෝධනය කිරීම සිදුවන බවත් මේ වන විට එය අවසන් අදියරේ පවතින බවත් ඒ මහතා වැඩිදුරටත් පවසා ඇත.
+
+මෙහිදී කාරක සභා සභාපති පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා අවධාරණය කළේ 2004 වසරේ ආරම්භ කළ පනත සංශෝධනය කිරීම වසර 19ක් පමා වී ඇති බැවින් මෙම කටයුතු කඩිනමින් නිමා කරන ලෙසය.
+
+◼️
+
+[Data](articles/6076406f.json)
+
+---
 
 ### Ella-Wellawaya road temporarily closed
 
@@ -43,6 +63,26 @@ The Ella - Wellawaya main road will be temporarily closed for traffic from 6.00 
 [Data](articles/2f01f42d.json)
 
 [Extended Data](ext_articles/2f01f42d.ext.json)
+
+---
+
+### Bus driver dies at the wheel, narrowly avoids plunge into precipice
+
+*2024-05-16 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-driver-dies-at-the-wheel-narrowly-avoids-plunge-into-precipice/108-282737) · `en`
+
+May 16 (Daily Mirror) - The driver of a bus travelling from Nuwara-Eliya to Nawalapitiya died at the wheel, narrowly avoiding a plunge into a precipice.
+
+The bus, which had been experiencing technical issues, had its passengers transferred to another vehicle before the driver and conductor managed to fix the problem and resume the journey.
+
+However, while en route, the driver suffered a sudden illness, leading to the accident.
+
+The conductor, who noticed the driver lying on the seat after the accident, immediately contacted the police. The police promptly arrived at the scene, extricated the driver, and rushed him to the Lindula District Hospital, where he was pronounced dead.
+
+The expert forensic doctor at the Nuwara Eliya District General Hospital conducted a post-mortem examination. The body has been referred to the coroner and will be handed over to the relatives.
+
+...
+
+[Data](articles/ae0d3b1b.json)
 
 ---
 
@@ -2325,51 +2365,5 @@ The petition filed by Parliamentarian Duminda Dissanayake has been rejected with
 [Data](articles/937c137a.json)
 
 [Extended Data](ext_articles/937c137a.ext.json)
-
----
-
-### Nepal’s ex-cricket captain acquitted of rape on appeal
-
-*2024-05-16 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nepals-ex-cricket-captain-acquitted-of-rape-on-appeal/108-282713) · `en`
-
-Kathmandu (AFP) - Former Nepali cricket captain Sandeep Lamichhane had his conviction and eight-year sentence for rape quashed on appeal on Wednesday and was cleared to resume his sporting career despite the cloud cast by the case.
-
-Lamichhane was accused of raping a young woman in a Kathmandu hotel in 2022 but was freed on bail and returned to the team to compete in international tournaments while his lengthy trial dragged on.
-
-The 23-year-old was suspended by Nepal's cricket association after his conviction late last year but remained at liberty after his sentencing to await the outcome of his appeal.
-
-"I am grateful to everyone for all the support during this time," Lamichhane said outside the court, where he was greeted by cheering fans.
-
-"In the coming days, I will try as much as possible to take Nepal much higher than I did before."
-
-The Cricket Association of Nepal said Lamichhane was free to resume his career.
-
-...
-
-[Data](articles/b0533527.json)
-
-[Extended Data](ext_articles/b0533527.ext.json)
-
----
-
-### Another death reported from among victims of Fox Hill tragedy
-
-*2024-05-16 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-death-reported-from-among-victims-of-Fox-Hill-tragedy/108-282716) · `en`
-
-Colombo, May 16 (Daily Mirror) - The 16-year-old schoolgirl who was injured during the Fox Hill Super Cross 2024 racing event died yesterday.
-
-She died yesterday while receiving treatment at the intensive care unit (ICU) of the Badulla Base Hospital.
-
-The Fox Hill Super Cross 2024 racing event was held in Diyatalawa on April 21.
-
-The girl is from the Galedannda area of Diyatalawa. Her remains lie at the Badulla Base Hospital.
-
-Earlier, seven persons, including an 8-year-old child, were killed, leaving 21 others hospitalized with injuries.
-
-◼️
-
-[Data](articles/c65bae7f.json)
-
-[Extended Data](ext_articles/c65bae7f.ext.json)
 
 ---

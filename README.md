@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 19:18:10**
+As of **2024-05-16 19:33:59**
 
 ## Newspaper Stats
 
-*Scraped **24,505** Articles*
+*Scraped **24,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,93 @@ islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,101
-adaderanalk | 2,837
+adaderanalk | 2,838
 tamilmirrorlk | 2,880
 virakesarilk | 3,687
-dailymirrorlk | 3,844
+dailymirrorlk | 3,845
 adaderanasinhalalk | 3,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,504 (100.0%) of 24,505 articles have been extended.
+24,505 (100.0%) of 24,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### ප්‍රසන්න රණවීර කටුනායකදී ඇති කරගත් ගැටුමට හේතුව
+### State Minister Prasanna Ranaweera assaults ‘Porter’ at BIA
+
+*2024-05-16 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99260/state-minister-prasanna-ranaweera-assaults-porter-at-bia) · `en`
+
+State Minister of Small and Medium Enterprises Development Prasanna Ranaweera has reportedly assaulted a Porter at the Bandaranaike International Airport (BIA) in Katunayake.
+
+Meanwhile, the State Minister has also threatened several security officers at the airport, according to sources.
+
+Ranaweera had visited the airport with his wife accompanied by his ministerial security personnel in the early hours of Tuesday (May 14) as his spouse was to travel overseas.
+
+The state minister had attempted to enter the airport through its main entrance along with the ministerial security officers who were carrying firearms, sources said.
+
+At that moment, the airport security officers have informed the state minister that they could not allow the ministerial security officers to enter the airport while carrying the firearms.
+
+The state minister had then proceeded to verbally abuse the airport security officers.
+
+...
+
+[Data](articles/dfecd30c.json)
+
+---
+
+### SLPP ready for any election: MR
+
+*2024-05-16 19:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-ready-for-any-election-MR/108-282738) · `en`
+
+Colombo, May 16 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) is ready to face any election, whether it is a general election or the Presidential election, former President Mahinda Rajapaksa said today.
+
+"We are ready for any election. If the general election is held first, we are ready for it. We are ready for the Presidential election also if it is held first. We have no issue about that," he told the media after an event at the SLPP headquarters.
+
+When asked about his statement against selling national assets, he said not only he, but ninety-nine percent of the party holds that stance.
+
+"Not only I, but 99 percent in our party is of that stance," he said.
+
+Responding to a question whether the SLPP will not approve of the action plans of this government, he said, "We do not approve of the action plan of this government. We have a right to do so. We have our freedom. The SLPP has not betrayed its freedom to the government. We are ready to express our opinion at any time."
+
+◼️
+
+[Data](articles/7c802356.json)
+
+---
+
+### The reason for the clash that Prasanna Ranaweera was found in Katunayake
 
 *2024-05-16 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196694) · `si`
 
-කටුනායක ගුවන්තොටුපොළේ ගුවන් මගීන්ගේ ගමන් මලු ප්‍රවාහනය කරන සේවකයෙක් හෙවත් පෝටර්වරයෙකුට කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පහරදී ඇතැයි වාර්තා වෙයි.
+Prasanna Ranaweera, Sri Lanka's State Minister of Small and Medium Enterprise Development, clashed at Katunayake airport over entry restrictions for armed guards during his wife's event. He allegedly assaulted an employee handling his wife's luggage and faced resistance from airport security.
 
-එමෙන්ම ආරක්ෂක නිලධාරීන් කිහිප දෙනෙකුටද රණවීර රාජ්‍ය අමාත්‍යවරයා විසින් තර්ජනය කර ඇති බව ගුවන්තොටුපොළ ආරංචි මාර්ග සඳහන් කරයි.
+🟩
 
-කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පසුගිය 14 වනදා අලුයම් කාලයේදී සිය බිරිය හා ඇමති ආරක්ෂකයන්ද සමගින් කටුනායක ගුවන්තොටුපොළට ගොස් ඇත්තේ සිය බිරිඳ විදෙස්ගත කිරීම සඳහාය.
+It is reported that Minister of Prasanna Ranaweera has been assaulted by an employee transporting air traffic baggage at the Katunayake airport.
 
-එහිදී රාජ්‍ය අමාත්‍යවරයා ගිනිඅවි සහිත ඇමති ආරක්ෂකයන් ද සමගින් ප්‍රධාන දොරටුවෙන් ගුවන්තොටුපොළට ඇතුළුවීමට උත්සාහ දරා ඇති බව ගුවන්තොටුපොළ ආරංචි මාර්ග සඳහන් කළේය.
+According to airport sources, the State Minister has also threatened several security personnel.
 
-එම අවස්ථාවේදී අමාත්‍යවරයාගේ ආරක්ෂකයන් සතු ගිනි අවි රැගෙන යාමට ඉඩදිය නොහැකි බව ගුවන්තොටුපොළ ආරක්ෂක නිලධාරීන් රාජ්‍ය අමාත්‍යවරයාට පවසා තිබේ.
+State Minister of Small and Medium Enterprise Development Prasanna Ranaweera had gone to the Katunayake airport for the opening of his wife.
 
-අනතුරුව රාජ්‍ය අමාත්‍යවරයාගේ බිරිඳගේ ගමන් මලු රැගෙන ගිය පෝටර්වරයාට රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පහරදී ඇති බවද ගුවන්තොටුපොළ ආරංචි මාර්ග පැවසීය.
+According to airport sources, the public minister has tried to enter the airport at the main door with firearms' guards with firearms. "
+
+Airport security guards have told the State Minister that the firearms of the Minister's bodyguards cannot be allowed.
+
+According to Airport, Minister of State Prasanna Ranaweera has assaulted Porter's wife's baggage from the State Minister's wife.
+
+It is said that the public minister has protested to attack him about Rs.
+
+The State Minister had left the airport premises following a cheeky hitting the Porturb and had gone to the airport, a resident of Kurunegala.
 
 ...
 
 [Data](articles/394b925e.json)
+
+[Extended Data](ext_articles/394b925e.ext.json)
 
 ---
 
@@ -2329,45 +2381,5 @@ At the World Water Forum, leaders, experts, scholars, entrepreneurs, and policym
 [Data](articles/8f2636c2.json)
 
 [Extended Data](ext_articles/8f2636c2.ext.json)
-
----
-
-### A future SJB government will close down liquor shops, taverns: Sajith
-
-*2024-05-16 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-future-SJB-government-will-close-down-liquor-shops-taverns-Sajith/108-282717) · `en`
-
-A future Samagi Jana Balawegaya (SJB) government will close down all taverns and liquor shops, Leader of the Opposition Sajith Premadasa said today.
-
-"Exceptions will be made only where tourism is concerned," Premadasa told a public gathering.
-
-"We will also begin a temporal movement right from the school level. This will be done to save the children of this country. I know I will lose votes for saying this, but it will be done for the sake of the children," he added.
-
-"Also, all liquor licences which have been given now will be cancelled if we come to power," Premadasa claimed.
-
-◼️
-
-[Data](articles/536dec0c.json)
-
-[Extended Data](ext_articles/536dec0c.ext.json)
-
----
-
-### The President goes to Indonesia
-
-*2024-05-16 11:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-செல்கிறார்-ஜனாதிபதி/175-337412) · `ta`
-
-President Ranil Wickremesinghe attends the 10th World Water Forum in Indonesia from May 18-20, invited by President Joko Widodo. He'll discuss "shared prosperity," meet bilaterally with President Widodo.
-
-🟩
-
-President Ranil Wickremesinghe will attend a high -level meeting of the 10th World Water Water Forum in Indonesia from May 18 to 20 at the invitation of Indonesian President Joko Widodo, the President's Media Division (PMD) said.
-
-President Wickremesinghe will issue a report on the theme of "shared prosperity" on May 20, and will hold a number of bilateral meetings, including President Vidodo.
-
-◼️
-
-[Data](articles/28f54181.json)
-
-[Extended Data](ext_articles/28f54181.ext.json)
 
 ---

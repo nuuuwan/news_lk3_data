@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 08:07:44**
+As of **2024-05-16 08:18:20**
 
 ## Newspaper Stats
 
-*Scraped **24,348** Articles*
+*Scraped **24,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,398
 dailyftlk | 1,437
-adalk | 2,077
-adaderanalk | 2,820
+adalk | 2,078
+adaderanalk | 2,821
 tamilmirrorlk | 2,860
 virakesarilk | 3,661
 dailymirrorlk | 3,820
-adaderanasinhalalk | 3,878
+adaderanasinhalalk | 3,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,342 (100.0%) of 24,348 articles have been extended.
+24,348 (100.0%) of 24,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Heavy showers of about 100mm likely in several provinces
+
+*2024-05-16 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99243/heavy-showers-of-about-100mm-likely-in-several-provinces) · `en`
+
+The Meteorology Department says the low-level atmospheric disturbance still persists in the vicinity of the island and therefore, the prevailing showery conditions are expected to continue further.
+
+Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
+
+Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
+
+Showers may occur in Western, Southern and Eastern coastal areas during the morning too, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/593b6874.json)
+
+---
+
+### හමුදාව ලක්ෂයක් දක්වා අඩු කිරීමට රජයේ අවධානය
+
+*2024-05-16 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196663) · `si`
+
+2030 වසර වන විට යුද්ධ හමුදාව ලක්ෂයක පමණ සංඛ්‍යාවකට ගෙනඒමට අපේක්ෂා කරන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+ඔහු පවසන්නේ යුද කාලයෙන් පසු වත්මන් සහ අනාගත තර්ජන පිළිබ﻿ඳ සැලකිල්ලට ගෙන මෙරටට ගැලපෙන පරිදි යුද හමුදාවක් සකස් කිරීම රජයේ අරමුණ බවය.
+
+...
+
+[Data](articles/0bc2ff95.json)
+
+---
 
 ### Is the flavor enhancer a health risk?
 
@@ -47,6 +81,46 @@ However, researchers have found no clear proof of a link between MSG and these s
 ...
 
 [Data](articles/6f0326a2.json)
+
+[Extended Data](ext_articles/6f0326a2.ext.json)
+
+---
+
+### විදුලි ගාස්තු අඩු කිරීමේ යෝජනා ලබාදීමට ලංවිම උපයෝගීතා කොමිසමෙන් කල් ඉල්ලයි
+
+*2024-05-16 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196662) · `si`
+
+විදුලිබිල අඩු කිරීමට අදාළ යෝජනා සිය කොමිසම වෙත ඉදිරිපත් කිරීමට හෙට (17) දිනය දක්වා කාලය ලබාදෙන ලෙස දන්වමින් ලංකා විදුලිබල මණ්ඩලය ඉල්ලීමක් කළ බව මහජන උපයෝගීතා කොමිසම පවසයි.
+
+එම යෝජනා මැයි පළමු වැනිදා කොමිසම වෙත ලබාදීමට නියමිතව තිබුණ ද විදුලිබල මණ්ඩලය සිදුකළ ඉල්ලීමක් මත එම කාලය පසුගිය 10 වන දින දක්වා දීර්ඝ කිරීමට මහජන උපයෝගීතා කොමිසම පියවර ගනු ලැබීය.
+
+එහෙත් පසුගිය 10 වන දිනයේ ද ලංකා විදුලිබල මණ්ඩලය විසින් අදාළ යෝජනා කොමිසම වෙත ඉදිරිපත් නොකළ බව මහජන උපයෝගීතා කොමිසමේ සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+
+ඒ අනුව මහජන උපයෝගිතා කොමිසම විසින් ලංකා විදුලිබල මණ්ඩලයට යළි සිහිකැඳවීමක් සිදුකිරීමට කටයුතු කළේය.
+
+යෝජනා ඉදිරිපත් කිරීමට හෙට දිනය දක්වා කාලය ලබාදීමට ලංකා විදුලිබල මණ්ඩලය විසින් ඉල්ලීමක් සිදුකළ බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+
+අදාළ යෝජනා ලැබීමෙන් පසු විදුලිබිල අඩු කිරීම සඳහා වන ක්‍රියාදාමය ආරම්භ කෙරෙන අතර විදුලිබිල අඩු කිරීමේ ප්‍රතිශතය ජූලි මාසයේදී ප්‍රකාශ කළ හැකි බව මහජන උපයෝගීතා කොමිසම පැවසුවේය.
+
+◼️
+
+[Data](articles/3d182db8.json)
+
+---
+
+### පාඨලීගේ අභියාචනා පෙත්සම් විභාගය අවසන් - තීන්දුව කල්යයි
+
+*2024-05-16 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196661) · `si`
+
+2016 වසරේ රාජගිරිය ප්‍රදේශයේ දී අපරීක්ෂාකාරී ලෙස රිය පදවා පුද්ගලයකු බරපතළ අනතුරකට ලක් කළේ යැයි චෝදනා කරමින් නීතිපතිවරයා විසින් තමන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන අධිචෝදනා පත්‍රය  බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු අමාත්‍ය පාඨලී චම්පික රණවක මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමේ විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ප්‍රකාශයට පත් කිරීම කල් තැබීය.
+
+මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම නඩු විභාගය පැවතුණා.
+
+මෙම පෙත්සම විභාගයට ගත් අවස්ථාවේදී පෙත්සම්කාර පාඨලී චම්පික රණවක මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් 2016 වසරේ සිදුවූ අදාළ රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් එම වාහනය පැදවූ  රියදුරා කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ වරද පිළිගෙන එම නඩු කටයුත්ත අවසන් කර තිබූ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/77b90b71.json)
 
 ---
 
@@ -147,6 +221,8 @@ The Clean Clothes Campaign, the international alliance of labour unions and nong
 ...
 
 [Data](articles/01b999f3.json)
+
+[Extended Data](ext_articles/01b999f3.ext.json)
 
 ---
 
@@ -424,6 +500,8 @@ The rupee is expected to appreciate up to Rs.295 in the first half of the year, 
 
 [Data](articles/c5a35eb8.json)
 
+[Extended Data](ext_articles/c5a35eb8.ext.json)
+
 ---
 
 ### United Motors Lanka PLC announces appointment of Vish Govindasamy as Independent Non-Executive Director
@@ -588,35 +666,47 @@ According to reports, the US Ambassador has also visited areas released as high 
 
 ---
 
-### குடும்பப் பெண் வழுக்கி வீழ்ந்து உயிரிழப்பு
+### Dies
 
 *2024-05-16 01:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பப்-பெண்-வழுக்கி-வீழ்ந்து-உயிரிழப்பு/175-337396) · `ta`
 
-வீட்டின் மேல் மாடிக்குத் துணிகளை எடுப்பதற்காகச் சென்றிருந்த இளம் தாய் ஒருவர் வழுக்கி வீழ்ந்து  உயிரிழந்துள்ளார்.
+A 35-year-old mother of two from Narangwita, Gampola, tragically fell to her death while retrieving laundry on the roof during rain.
 
-கம்பளை, நாராங்விட்ட பகுதியைச் சேர்ந்த 35 வயதான இரு பிள்ளைகளின் தாயே நேற்று இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-மதியம் மழை பெய்தபோது, மேல் மாடியில் காயப்போட்டிருந்த துணிகளை எடுப்பதற்காக அவர் சென்றுள்ளார். இதன்போதே இந்த அனர்த்தம் இடம்பெற்றுள்ளது. (a)
+A young mother who went to take clothes on the top of the house has slipped and died.
+
+The mother of two 35 -year -old children from Narangwita, Gampola died yesterday.
+
+When it was raining in the afternoon, he went to pick up the clothes that had been wounded on the top floor. The disaster has taken place. (A)
 
 ◼️
 
 [Data](articles/943a4a60.json)
 
+[Extended Data](ext_articles/943a4a60.ext.json)
+
 ---
 
-### அஷ்ரப் அருங்காட்சியகம் நிர்மாணிக்க அறிவுறுத்தல்
+### Advice to construct Ashraf Museum
 
 *2024-05-16 01:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஷ்ரப்-அருங்காட்சியகம்-நிர்மாணிக்க-அறிவுறுத்தல்/175-337395) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான மர்ஹூம் எம்.எச்.எம்.அஷ்ரப் ஆற்றிய சேவைகளை கௌரவிக்கும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைவாக 'அஷ்ரப் நினைவு அருங்காட்சியகம்' ஒன்றை நிர்மாணிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+A museum honoring Sri Lanka Muslim Congress leader Marhoom MHM Ashraf will be built in Kalmunai, his birthplace. Funded by 25 million rupees, the project aims to commemorate Ashraf's contributions, initiated by local parliamentarian HMM Haris and supported by the Muslim community on his 24th death anniversary. Construction is set to begin promptly.
 
-எம்.எச்.எம். அஷ்ரபின் 24 ஆவது நினைவு தினத்தை முன்னிட்டு திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் எச்.எம்.எம்.ஹரீஸ் மற்றும் முஸ்லிம் சமூகத்தினரின் வேண்டுகோளுக்கு இணங்க எம்.எச்.எம்.அஷ்ரபின் பிறந்த ஊரான கல்முனையில் இந்த நினைவு அருங்காட்சியகம் நிர்மாணிக்கப்பட உள்ளது.
+🟩
 
-இத்திட்டத்திற்காக 25 மில்லியன் ரூபா ஒதுக்கப்படும் என்று தெரிவித்த ஜனாதிபதி, அதற்கான நிர்மாணப் பணிகளை உடனடியாக ஆரம்பிக்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார் என ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+Steps have been taken to construct a 'Ashraf Memorial Museum' in honor of the services of the Sri Lanka Muslim Congress and former minister Marhoom MHM Ashraf.
+
+MHMM. The Museum is to be constructed at Kalmunai, a town where MHM Ashraf was born at the request of Digamadulla District Parliamentarian HMM Haris and the Muslim community on the occasion of Ashraf's 24th anniversary.
+
+The President said that 25 million rupees would be allocated for the project and that the authorities had directed the authorities to immediately commence the construction work.. (A)
 
 ◼️
 
 [Data](articles/e73e7cd4.json)
+
+[Extended Data](ext_articles/e73e7cd4.ext.json)
 
 ---
 
@@ -1022,6 +1112,26 @@ Those crossings were reported in Ambeon Capital, where 60 million shares crossed
 
 ---
 
+### ජනාධිපතිවරණ ගැසට්ටුව ජූලි මාසයේදී
+
+*2024-05-15 21:17:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ගැසට්ටුව-ජූලි-මාසයේදී/11-409663) · `si`
+
+ජනාධිපතිවරණය සඳහා වූ ගැසට් පත්‍රය එළඹෙන ජූලි මාසයේ දී නිකුත් කිරීමට නියමිත බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රකාශ කළේය.
+
+ඒ අනුව තම අමාත්‍යාංශය යටතේ මෙම වසර සඳහා සැළසුම් කළ  සංවර්ධන ව්‍යාපෘතිවල කටයුතු කඩිනම් කළ යුතු බවට නිලධාරීන්ට ඔහු උපදෙස් දුන්නේ
+
+පාර්ලිමේන්තු පරිශ්‍රයේදී පැවති කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ පාර්ලිමේන්තු උපදේශක කාරක සභාවේදීය.
+
+මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා මෙසේ සඳහන් කර සිටියේය.
+
+"ජනාධිපතිවරණය සඳහා වන ගැසට් පත්‍රය පළ කිරීමෙන් පසුව කිසිදු සංවර්ධන කටයුත්තක් ක්‍රියාත්මක කළ නොහැකියි. මේ නිසා ජූලි මාසයෙන් පසුව ජනාධිපතිවරණය අවසන් වන තෙක් සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමට ඉඩ ලැබෙන්නේ නැහැ. රජය විසින් අවශ්‍ය තරම් මුල්‍ය ප්‍රතිපාදන ඒ සඳහා ලබා දී තිබෙනවා. නමුත් සමහර අංශ තවමත් මුලික කටයුතුවත් අවසන් කර නැති බව පෙනෙනවා"
+
+◼️
+
+[Data](articles/b14cb728.json)
+
+---
+
 ### The story of our Eranda who warned Ukraine to save his wife
 
 *2024-05-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196657) · `si`
@@ -1201,6 +1311,8 @@ A protest was held in front of the Fort Railway station against the government p
 ◼️
 
 [Data](articles/822fedff.json)
+
+[Extended Data](ext_articles/822fedff.ext.json)
 
 ---
 
@@ -2091,127 +2203,5 @@ Brazilian President Louis Inasio Lula Da Silva announced that National Civil Pro
 [Data](articles/fb4e7059.json)
 
 [Extended Data](ext_articles/fb4e7059.ext.json)
-
----
-
-### 7 special projects to reduce floods in Colombo and surrounding areas - Prasanna Ranatunga
-
-*2024-05-15 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183594) · `ta`
-
-Colombo faces significant flooding issues, prompting seven special projects aimed at mitigation. Led by Minister Prasanna Ranatunga, these initiatives are divided into short-term, medium-term, and long-term phases. Two projects are set for completion this year, including the Water Transport Development Program in Piliyandala and the Water Transport and Environmental Development Project in Battaramulla. Additionally, the Southern Transport Program, initiated in 2019, focuses on reducing flood risks through gate-mounted pumps. Annual maintenance and rehabilitation of Colombo's main canals, totaling 44 kilometers, are also underway, costing 295 million rupees.
-
-🟩
-
-Minister of Urban Development and Housing. The Minister further advised to identify the priorities and implement these projects.
-
-Land Development Corporation is implementing 07 special projects to reduce floods in Colombo and its surrounding areas.
-
-Minister Prasanna Ranatunga has said that the flooding program in Colombo and its suburbs is being implemented under three phases.. The project is implemented as short -term, medium -term and long -term projects.
-
-Flood Control and Maintenance Scheme, Integrated Flood Management Organization and Real -Time Control Data Implementation and Maintenance Program, Biliyandala Primary Development ProjectThe 7 projects are the Water Transport and Environmental Improvement Program of the Battaramulla Water Capture Area, the Water catchment area of ​​Parliament.
-
-...
-
-[Data](articles/285d0b02.json)
-
-[Extended Data](ext_articles/285d0b02.ext.json)
-
----
-
-### Visiting China Garment Association members meet Sri Lanka firms
-
-*2024-05-15 16:43:00* · [`economynextcom`](https://economynext.com/visiting-china-garment-association-members-meet-sri-lanka-firms-163213/) · `en`
-
-ECONOMYNEXT – A delegation of China National Garment Association has met 12 Sri Lanka firms in a bid to explore potential synergies, the Export Development Board said.
-
-The 30 member CNGA delegation participated in business-to-business (B2B) meetings, factory visits, and dialogues with key governmental institutions.
-
-“The primary objective of this high-level delegation was to bolster existing trade relations and explore fresh avenues of collaboration and invest in the Sri Lankan apparel industry,” the EDB said in a statement.
-
-“The B2B meetings provided a conducive environment for fostering direct dialogue and exploring potential synergies between the Chinese representatives and their Sri Lankan counterparts.
-
-The interactions enhanced mutual understanding, facilitated knowledge sharing, and lay the groundwork for investment opportunities and mutually advantageous partnerships, EDB said.
-
-...
-
-[Data](articles/a22ae899.json)
-
-[Extended Data](ext_articles/a22ae899.ext.json)
-
----
-
-### 16 Sri Lankans killed in Russian and Ukraine war - Minister of State for Defense
-
-*2024-05-15 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183611) · `ta`
-
-16 Sri Lankans died in the Russian-Ukraine conflict. Defense Minister Pramitha Bandara Tennakoon reported 288 complaints about military mercenary trafficking. Investigations are ongoing, with arrests made, including a retired senior army officer.
-
-🟩
-
-So far, we have received information that 16 Sri Lankans who participated in the Russian and Ukraine war have died. Defense Minister Pramitha Bandara Tennakoon said that 288 complaints have been received so far regarding those involved in the trafficking of military mercenaries.
-
-He further stated that the Presidential Media Center held a press conference held at the Presidential Media Center on Wednesday (15).
-
-The telephone number 011 240 1146 has been granted to inform those involved in the trafficking of Russian and Ukraine Military mercenaries.. Accordingly, 288 complaints have been received so far.
-
-The Ministry of Defense, the Criminal Investigation Department and the Intelligence Unit are conducting a wide range of investigations into these complaints.
-
-Some suspects, including a retired senior army officer, have been arrested.. The trafficking has been carried out through Facebook.
-
-...
-
-[Data](articles/fe0868ac.json)
-
-[Extended Data](ext_articles/fe0868ac.ext.json)
-
----
-
-### Court issues directive to halt deforestation at Bogahapalassa reserve
-
-*2024-05-15 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99237/court-issues-directive-to-halt-deforestation-at-bogahapalassa-reserve) · `en`
-
-The Court of Appeal has issued an order to the Director General of the Wildlife Conservation Department and the Inspector General of Police (IGP) to take action to prevent the illegal deforestation taking place within the Bogahapalassa Forest Reserve.
-
-This order has been issued by a judge bench consisting of the President of the Court of Appeal, Justice Nissanka Bandula Karunaratne and Justice Sasi Mahendran, while considering a petition submitted by the Centre for Environmental Justice.
-
-During the case was taken up today, Attorney-at-Law Ravindranath Dabare, appearing on behalf of the petitioning party, informed the court that a certain group is engaging in deforestation in a section of the Bogahapalassa Forest Reserve while claiming that it belongs to the Soragune Devalaya in Kataragama.
-
-Therefore, the attorney requested the court to issue a restraining order to prevent further environmental damage in the area.
-
-...
-
-[Data](articles/468a1862.json)
-
-[Extended Data](ext_articles/468a1862.ext.json)
-
----
-
-### A significant decision on a critical match of the World Cup
-
-*2024-05-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196652) · `si`
-
-The 20th World Cup, starting June 2nd, won't reschedule its matches due to rain, except for the second semi-final, which gets only 4 extra hours.
-
-🟩
-
-The Cric Bus website reports that there is no additional date for the second semi-final in the 20th World Cup.
-
-The ICC and West Indies have made decisions to be given only 4 hours additional additional time if the competition interferes with rain.
-
-2024 The 20th World Cup will commence on June 2nd and the final will be held on June 2nd match.
-
-The tournament was mentioned before the end of the semi-finals and the final will be provided with additional date.
-
-The second semi-final will not be able to give the second semi-final will be available for the second semi-final.
-
-If the second final will be given to the second semi-final, the winning team will be able to play for 24 hours.
-
-As a result, the International Cricket Council and the West will have decided to provide only additional 4 hours without any additional date for the second semi-final.
-
-◼️
-
-[Data](articles/6b408b48.json)
-
-[Extended Data](ext_articles/6b408b48.ext.json)
 
 ---

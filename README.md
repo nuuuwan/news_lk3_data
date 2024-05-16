@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 10:33:34**
+As of **2024-05-16 10:51:43**
 
 ## Newspaper Stats
 
-*Scraped **24,374** Articles*
+*Scraped **24,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,147 @@ islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
 adalk | 2,079
-adaderanalk | 2,823
+adaderanalk | 2,824
 tamilmirrorlk | 2,865
 virakesarilk | 3,661
-dailymirrorlk | 3,822
-adaderanasinhalalk | 3,887
+dailymirrorlk | 3,824
+adaderanasinhalalk | 3,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,371 (100.0%) of 24,374 articles have been extended.
+24,374 (100.0%) of 24,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### විජයදාස ඇතුළු නිලධාරීන්ට එරෙහිව වාරණයක් නිකුත් කිරීම ප්‍රතික්ෂේප කෙරේ
+### Court refuses injunction against Wijeyadasa Rajapakshe
+
+*2024-05-16 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99246/court-refuses-injunction-against-wijeyadasa-rajapakshe) · `en`
+
+The Colombo District Court today rejected the petition filed by Duminda Dissanayake seeking an interim injunction preventing Minister Wijeyadasa Rajapakshe from functioning as the Chairman and Keerthi Udawatta as Acting General Secretary of the Sri Lanka Freedom Party (SLFP).
+
+◼️
+
+[Data](articles/f83928bf.json)
+
+---
+
+### ජනපති සෙනසුරාදා ඉන්දුනීසියාව ට
+
+*2024-05-16 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196670) · `si`
+
+ඉන්දුනීසියාවේ පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ හමුවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගීවීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ඉන්දුනීසියා ජනාධිපති ජොකෝ විඩෝඩෝ මහතාගේ ආරාධනයක් අනුව ජනපති රනිල් වික්‍රමසිංහ මහතා එම සමුළුවට එක්වෙයි.
+
+ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මැයි 18 සිට 20 දක්වා එරට සංචාරය කිරීමට නියමිතය.
+
+ජනාධිපති වික්‍රමසිංහ මහතා මැයි 20 වනදා එම සමුළුවේ ඉහළ පෙළේ හමුව සඳහා විශේෂ ප්‍රකාශයක් කිරීමට නියමිත බවද ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ හමුව මැයි 18 සිට 25 වනදා දක්වා ඉන්දුනීසියාවේ බාලි දුපතේ පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/5e08cf84.json)
+
+---
+
+### Alleged drug lord’s illegal seaside hotel in Dehiwala allegedly built on Govt. land
+
+*2024-05-16 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Alleged-drug-lords-illegal-seaside-hotel-in-Dehiwala-allegedly-built-on-Govt-land/108-282708) · `en`
+
+Colombo, May 16 (Daily Mirror)- The hotel ‘Soul Beach,’ which was located in Dehiwala and later demolished, is suspected to have belonged to Shiran Basik, an alleged major drug smuggler currently operating from abroad, was alleged to have been built on government land, it was revealed.
+
+The hotel’s structures were removed in January this year by the Coast Guard and Police after it was found to be an illegal construction.
+
+However, a group of individuals who were carrying out construction work at the site were taken into the custody on Tuesday for illegal construction.
+
+Mount Lavinia Division Special Investigation Unit officers revealed that the tax deed presented by the suspects had been forged.
+
+Accordingly, 14 suspects were arrested on Tuesday and remanded till May 28 after being presented in Court.
+
+Following an inspection carried out by surveyors from the Government Survey Department, the subject land has been reported to be a government-owned land.
+
+◼️
+
+[Data](articles/5f69a12b.json)
+
+---
+
+### Rejection of a censorship against Wijayadasa
 
 *2024-05-16 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196669) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතාත්, වැඩබලන ලේකම්වරයා ලෙස කීර්ති උඩවත්ත මහතාත් පත් කර ගැනීමට ගනු ලැබූ තීරණය මත එම පක්ෂය, එහි සංවිධාන හා නිලධාරීන් ක්‍රියා කිරීම වළක්වාලමින් වාරණ නියෝගයක් නිකුත් කිරීම කොළඹ දිසා අධිකරණය අද (16) ප්‍රතික්ෂේප කළේය.
+Colombo District Court rejects SLFP's bid to halt appointment of Keerthi Udawatta as acting Secretary. SLFP's Duminda Dissanayake filed the complaint. Opportunity remains for revision.
 
-කෙසේ වෙතත් පැමිණිලිකරුට මෙම පැමිණිල්ල සංශෝධනය කර යළි අදාළ වාරණ නියෝගය සඳහා කරුණු තහවුරු කිරීමට අවස්ථාව තිබෙන බවත් විනිසුරු සඳුන් විතාන මහතා ප්‍රකාශ කළේය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන මහ ලේකම් දුමින්ද දිසානායක මහතා විසින් මෙම පැමිණිල්ල ඉදිරිපත් කර තිබිණි.
+The party of Sri Lanka Freedom Party was the decision to appoint Mr. Keerthi Udawatta as the acting Secretary, the Colombo District Court today (16) has rejected an injunction.
+
+However, the complainant has the opportunity to revise the complaint and confirm the issues of the respective injunction.
+
+The complaint was lodged by the Sri Lanka Freedom Party (SLFP) Acting Secretary General Duminda Dissanayake.
 
 ◼️
 
 [Data](articles/d0105592.json)
 
+[Extended Data](ext_articles/d0105592.ext.json)
+
 ---
 
-### ධාවනය වෙමින් තිබු ලංගම බසයේ රියදුරු අසුනේදි මියයයි
+### The driver of the SLTB bus dies in seat
 
 *2024-05-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196668) · `si`
 
-නුවරඑළිය සිට නාවලපිටිය දක්වා ධාවනය වෙමින් තිබූ නාවලපිටිය ලංගම ඩිපෝවට අයත් බස් රථයක රියදුරා, එම බස් රථයේ රියදුරු අසුන මත ජිවිතක්ෂයට පත්විමේ අවාසනාවන්ත පුවතක් වාර්තා විය.
+A SLTB bus driver died after a fatal accident near Nuwara Eliya. The 39-year-old driver, who worked for the CTB depot, lost control of the vehicle, causing it to veer off the road. Following the incident, the driver was rushed to the hospital but succumbed to his injuries.
 
-ඒ හේතුවෙන් එම බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුරට පත් වි ඇති බව ළිඳුල පොලීසිය පැවසිය.
+🟩
 
-මෙසේ ධාවනය වෙමින් තිබු බස් රථය තුළදි ම ජිවිතක්ෂයට පත් වි තිබුණේ නාවලපිටිය ලංගම ඩිපෝවේ 39 හැවිරිදි රියදුරෙකි.
+The driver of the SLTB depot from Nuwara Eliya to Nawalapitiya, a bus belonging to the bus driver was reported to have a unfortunate newspaper.
 
-නුවරඑළිය සිට දිඹුල පතන හරහා නාවලපිටිය දක්වා ඊයේ (15) පස්වරුවේ සේවයේ යොදවා තිබූ එම බස් රථය කාර්මික දෝෂයකට ලක්විම නිසා මගීන්ව වෙනත් බස් රථයකට මාරුකර බස් රථයේ රියදුරු සහ කොන්දොස්තර, බස් රථයේ කාර්මික දෝෂය යථා තත්ත්වයට පත් කර යළි නාවලපිටිය දක්වා ධාවනය කරවන අවස්ථාවේ රියදුරුට හදිසි රෝගි තත්ත්වයක් ඇතිවී තිබුණි.
+Accordingly, the bus had accidentally jumped out of the road accident.
 
-කොන්දොස්තරවරයා ඒ පිළිබඳ ළිඳුල පොලීසිය වෙත දැනුම්දිමෙන් පසු පොලිස් නිලධාරීන් විසින් රියදුරු අසුනෙන් රියැදුරාව ඉවත් කර ඔහුව ළිඳුල  ප්‍රාදේශිය රෝහල වෙත රැගෙන ගොස් තිබුණි.
+The LTTE was a 39 year old driver of the CTB depot in the bus.
+
+The bus driver and conductor from the bus, which was employed from Nuwara Eliya to Katuwelpitiya yesterday (15th) was transferred to another bus.There was a situation.
+
+After the conductor informed the Conductor in the well, police officers had removed the driver from the driver's seat and taken him to the Divisional Hospital.
 
 ◼️
 
 [Data](articles/fce0a32a.json)
 
+[Extended Data](ext_articles/fce0a32a.ext.json)
+
 ---
 
-### O/L குளறுபடிகளுக்கு பரீட்சை திணைக்களம் விளக்கம்
+### Explanation of the Examination for O/L
 
 *2024-05-16 10:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-குளறுபடிகளுக்கு-பரீட்சை-திணைக்களம்-விளக்கம்/175-337402) · `ta`
 
-கல்வி பொதுத் தராதர சாதாரண தர பரீட்சையின் ஆங்கில மற்றும் விஞ்ஞான பாடங்களின் முறைகேடுகள்  தொடர்பில் பரீட்சை திணைக்களம் விளக்கமளித்துள்ளது.
+The Department of Examinations addressed issues in the GCE Ordinary Level Exam, particularly in English and science subjects. Some science exam questions were out of syllabus, but only these will be corrected. No changes needed for English exams after discovering leaked question papers via WhatsApp.
 
-அதன்படி, விஞ்ஞானப் பரீட்சை தாளில் உள்ள சில கேள்விகள் பாடத்திட்டத்திற்கு வெளியே இருப்பது கண்டறியப்பட்டது. விஞ்ஞான பரீட்சை குழப்பகரமான வினாக்களுக்கு மாத்திரம் கருணை புள்ளிகள் வழங்கப்படும் என பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை, ஆங்கிலப் பரீட்சை வினாத்தாள்களை இரத்துச் செய்ய தேவை இல்லை எனவும் பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
+The Department of Examinations has explained the irregularities of English and scientific subjects of the GCE Ordinary Level Examination.
 
-கடந்த வாரம் நடைபெற்ற கல்வி பொதுத் தராதர சாதாரணதரப் பரீட்சையின் ஆங்கில மொழி வினாத்தாள் பரீட்சையின் போது வட்ஸ்அப் ஊடாக பகிரப்பட்டமை கண்டுபிடிக்கப்பட்டது.
+Accordingly, some questions in the science exam paper were found outside the curriculum. The Commissioner General of Examinations Amit Jayasundara said that only the chaotic questions will be given to the scientific exam.
 
-ஆங்கிலப் பாட வினாத்தாள் விடைகளை பெறுவதற்கு வட்ஸ் அப்  ஊடாக பகிரப்பட்டுள்ளது. இது  ஆங்கில மொழி வினாத்தாளின் இரகசியத்தன்மைக்கு பாதிப்பை ஏற்படுத்தவில்லை எனவும் தெரிவித்துள்ளார். R
+Meanwhile, the Commissioner General of Examinations has announced that there is no need to cancel the English exam question papers.
+
+It was discovered that the English Language Questionnaire of the Education General Level Examination last week was discovered through WhatsApp.
+
+Shared through WhatsApp to get the English text question papers. He said that this did not affect the secretory of the English language questionnaire. Remble
 
 ◼️
 
 [Data](articles/6bae3cae.json)
+
+[Extended Data](ext_articles/6bae3cae.ext.json)
 
 ---
 
@@ -107,6 +179,24 @@ Sri Lanka’s Opposition members, mainly the Samagi Jana Balavegaya, have been c
 [Data](articles/819e622d.json)
 
 [Extended Data](ext_articles/819e622d.ext.json)
+
+---
+
+### US Embassy Colombo to host Indo-Pacific Business Forum in Sri Lanka
+
+*2024-05-16 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Embassy-Colombo-to-host-Indo-Pacific-Business-Forum-in-Sri-Lanka/108-282707) · `en`
+
+Colombo, May 16 (Daily Mirror) - The U.S. Embassy in Colombo is set to host a satellite event of the Indo-Pacific Business Forum (IPBF) under the theme “Driving Sustainable Development in the Ports Sector” on May 21.
+
+The event will take place concurrently with the Sixth Indo-Pacific Business Forum in Manila, Philippines, co-hosted by the U.S. Trade Development Agency and the Government of the Philippines, in partnership with the U.S. Department of State.
+
+Businesses and stakeholders from across the Indo-Pacific region are invited to participate in this significant event. For those unable to attend in person, online registration is available through the main website: IPBF | Indo-Pacific Business Forum (indopacificbusinessforum.com) #IndoPacificBizForum.
+
+Sri Lanka Ports Authority, together with the Ministry of Ports, Shipping and Aviation, seeks to transform the nation’s ports into efficient and sustainable facilities through a greening initiative.
+
+...
+
+[Data](articles/cecce447.json)
 
 ---
 
@@ -180,7 +270,7 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.40 perc
 
 *2024-05-16 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99245/president-orders-establishment-of-ashraf-memorial-museum-in-kalmunai) · `en`
 
-President Ranil Wickremesinghe has directed the prompt commencement of contraction of the “Ashraf Memorial Museum” in Kalmunai, honoring the late M.H.M. Ashraf, founder of the Sri Lanka Muslim Congress (SLMC) and former Minister.
+President Ranil Wickremesinghe has directed the prompt commencement of construction of the “Ashraf Memorial Museum” in Kalmunai, honoring the late M.H.M. Ashraf, founder of the Sri Lanka Muslim Congress (SLMC) and former Minister.
 
 A distinguished politician known for his dedicated service to the Muslim community, the late M.H.M. Ashraf is to be memorialized through this museum.
 
@@ -2034,13 +2124,13 @@ President's Counsel Chandaka Jayasundere, representing Duminda Dissanayake, argu
 
 *2024-05-15 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99240/slovakias-prime-minister-injured-in-shooting) · `en`
 
-🇸🇰 Media release video of attempted assassination attempt on Slovak PMhttps://t.co/zfB5QnJO1k pic.twitter.com/dKPYFBXdAS— Ukrainska Pravda in English (@pravda_eng) May 15, 2024
-
 (AP) — Slovak Prime Minister Robert Fico is in life-threatening condition after being wounded in a shooting after a political event Wednesday afternoon, according to his Facebook profile.
 
 The populist, pro-Russian leader, 59, was hit in the stomach after four shots were fired outside the House of Culture in the town of Handlova, some 150 kilometers (93 miles) northeast of the capital where the leader was meeting with supporters, according to reports on TA3, a Slovak TV station. A suspect has been detained, the country’s president said in a televised statement.
 
 A message posted to Fico’s Facebook account said that the leader “has been shot multiple times and is currently in life-threatening condition.”
+
+It said he was being transported by helicopter to the Banská Bystrica, 29 kilometers (63 miles) away from Handlova because it would take too long to get to Bratislava due to the necessity of an acute procedure.
 
 ...
 
@@ -2097,97 +2187,5 @@ It is still unknown whether Shimran Headmayar, who has not played in the last tw
 [Data](articles/388390a1.json)
 
 [Extended Data](ext_articles/388390a1.ext.json)
-
----
-
-### Case under the Online Security Act for YouTube
-
-*2024-05-15 18:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-சனலுக்கு-ஒன்லைன்-பாதுகாப்பு-சட்டத்தின்-கீழ்-வழக்கு/175-337372) · `ta`
-
-The Colombo Chief Magistrate's Court issued a conditional order under the Magistrate's Security Act, preventing a YouTube channel from spreading defamatory content about Lieutenant General Vi and Lieutenant. The court acted based on Article 24(1) and Section 24(2) of the Ceremony Act No. 09 of 2024, ordering the channel and its owner, Tushara Saliya, to cease such activities. This action was taken due to accusations of the channel posting malicious videos and reports threatening the nation's security.
-
-🟩
-
-The Colombo Chief Magistrate's Court today issued a conditional order under the new Magistrate's Security Act to prevent a YouTube Channel from publishing and communicating slanderous information against Lieutenant General Lieutenant General Vi and Lieutenant.
-
-Colombo Chief Magistrate Tilina Kamage issued a conditional order in favor of the Army Commander based on Article 24 (1) and Section 24 (2) of the Ceremony Act No. 09 of 2024 and its owner of the Sri Lanka V News-Youtube Wandella and its owner Tushara Saliya SaliyaHe was also ordered to report.
-
-The petitioner accused the defendants of uploading malicious and slanderous video contents and reports against him to threaten the national security of the country.
-
-◼️
-
-[Data](articles/4d1f1e08.json)
-
-[Extended Data](ext_articles/4d1f1e08.ext.json)
-
----
-
-### Former Pakistan PM Imran Khan gets bail in graft case, lawyer says
-
-*2024-05-15 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99239/former-pakistan-pm-imran-khan-gets-bail-in-graft-case-lawyer-says) · `en`
-
-A High Court in Pakistan on Wednesday granted bail to Imran Khan in the 190 million pounds corruption case, in which the jailed former prime minister and his wife are accused of receiving land worth billions of rupees as a bribe from a real estate tycoon.
-
-A two-member bench of the Islamabad High Court had reserved the verdict on Tuesday after the completion of arguments.
-
-On Wednesday, the court asked Khan to submit a surety bond of Rs 1 million in order to secure bail. However, the order will not result in the ex-premier’s release from Adiala jail since his sentences in the Iddat and cypher cases are yet to be suspended.
-
-In December last year, the National Accountability Bureau initiated an investigation against Pakistan Tehreek-e-Insaf (PTI) founder Khan, his wife Bushra Bibi, and others in a case of alleged acquisition of hundreds of canals of land under the name of Al Qadir University Trust, resulting in a reported loss of 190 million pounds to the exchequer.
-
-...
-
-[Data](articles/af9b7200.json)
-
-[Extended Data](ext_articles/af9b7200.ext.json)
-
----
-
-### Demonstration in Parliament
-
-*2024-05-15 18:32:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-ஆர்ப்பாட்டம்-செய்வது-வீண்/175-337371) · `ta`
-
-Manusha Nanayakkara, Sri Lanka's Minister of Labor and Foreign Employment, stated that protesting in Parliament over Middle Eastern conflicts won't yield results due to Sri Lanka's limited influence globally. He criticized opposition parties for politicizing labor programs aimed at safeguarding ties with Israel, highlighting a March agreement enhancing employment prospects for Sri Lankans in sectors like hospitality, construction, and infrastructure. The minister announced the implementation of plans to send around 40,000 Sri Lankan job seekers to Israel, aiming to boost the youth's livelihoods.
-
-🟩
-
-The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that Sri Lanka is not an influential country in other countries.
-
-Speaking at a meeting held at the Sri Lanka Foreign Employment Bureau, the Minister said that it would be in vain to protest in Parliament with the expectation of ending conflicts in the Middle East.
-
-Nanayakkara accused the opposition parties of campaigning for votes by trying to disrupt the government's program of working in the Middle East to protect the government's relations with Israel.
-
-In March, Sri Lankan and Israeli governments reached an agreement to improve employment opportunities for Sri Lankans in many sectors, including hospitality, construction and infrastructure.
-
-Minister Nanayakkara said that plans to send about 40,000 Sri Lankan seekers to Israel are being implemented, thereby improving the livelihood of the youth.
-
-◼️
-
-[Data](articles/ce0fd114.json)
-
-[Extended Data](ext_articles/ce0fd114.ext.json)
-
----
-
-### Adani deal symptomatic of Sri Lanka’s high costs from lack of competition: Analyst
-
-*2024-05-15 18:30:00* · [`economynextcom`](https://economynext.com/adani-deal-symptomatic-of-sri-lankas-high-costs-from-lack-of-competition-analyst-163116/) · `en`
-
-ECONOMYNEXT – Sri Lanka has to open both traded and non-traded sectors to competition, in order to boost productivity and drive prices down, Murtaza Jafferjee, Chairman of Advocata Institute, a Colombo-based think tank said.
-
-An unsolicited deal given to India’s Adani group without competition despite a requirement under an International Monetary Fund to reduce corruption though tendering was symptomatic of the crisis facing Sri Lanka.
-
-Sri Lanka has agreed to buy power for 8.26 US cents a unit from its 484 MegaWatt wind power project in Mannar and Pooneryn.
-
-A competitive tender for a smaller wind plant also in Mannar where there is high wind potential closed this month.
-
-“Probably the tariff is less than 6 cents,” Jafferjee said at forum at Sri Lanka’s central bank on sustaining stability.
-
-“The IMF Governance Diagnostic Report says tender, tender, tender. We don’t have a procurement law, we have procurement guidelines.”
-
-...
-
-[Data](articles/36cfc467.json)
-
-[Extended Data](ext_articles/36cfc467.ext.json)
 
 ---

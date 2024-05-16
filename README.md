@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 05:18:14**
+As of **2024-05-16 05:35:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,325 (100.0%) of 24,326 articles have been extended.
+24,326 (100.0%) of 24,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -287,6 +287,8 @@ On the International Day of Tea, 21 May, The Centre for Child Rights and Busines
 ...
 
 [Data](articles/f04fe4aa.json)
+
+[Extended Data](ext_articles/f04fe4aa.ext.json)
 
 ---
 

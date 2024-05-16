@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 12:18:25**
+As of **2024-05-16 12:33:37**
 
 ## Newspaper Stats
 
-*Scraped **24,400** Articles*
+*Scraped **24,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,437
-adalk | 2,083
-adaderanalk | 2,826
+adalk | 2,084
+adaderanalk | 2,827
 tamilmirrorlk | 2,871
 virakesarilk | 3,661
-dailymirrorlk | 3,830
+dailymirrorlk | 3,833
 adaderanasinhalalk | 3,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,399 (100.0%) of 24,400 articles have been extended.
+24,400 (100.0%) of 24,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Missing girls found in Kaduwela searching for jobs
+
+*2024-05-16 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Missing-girls-found-in-Kaduwela-searching-for-jobs/108-282723) · `en`
+
+The two girls who went missing from Nawalapitiya on Tuesday (14), as soon as they had completed their GCE (O/L) examinations  have been found at one of their relatives' home in Kaduwela, police said.
+
+According to the police, the girls have gone to Colombo in the hope of finding jobs. The two students had stayed in the relative's house in Kaduwela on the night of 15.
+
+A complaint was lodged by the guardians of the two girls, who had come to the examination centre at the Ambagamuwa National School as the girls had not returned home after their GCE Ordinary Level (O/L) examinations held at an examination center in Ginigathhena.
+
+◼️
+
+[Data](articles/e5de639e.json)
+
+---
+
+### Sri Lankans in Russia-Ukraine warfront: President instructs to send delegation to Moscow
+
+*2024-05-16 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99249/sri-lankans-in-russia-ukraine-warfront-president-instructs-to-send-delegation-to-moscow-) · `en`
+
+President Ranil Wickremesinghe has instructed to send a team comprising the Defence Secretary, a Foreign Ministry official and a former Sri Lankan diplomat to Russia to look into the Sri Lankans who have joined the Russian military in the Ukrainian warfront, State Minister of Foreign Affairs Tharaka Balasuriya said.
+
+Speaking at a press briefing this morning (16), the state minister said that an emergency hotline number of the Ministry of Defense is currently in operation to collect the information of Sri Lankan nationals who have travelled to Russia to join the war.
+
+Meanwhile, Sri Lanka’s State Minister of Defence Pramitha Bandara Tennakoon said yesterday that at least 16 Sri Lankan military veteran have been killed fighting in the war between Russia and Ukraine.
+
+Sri Lanka opened an inquiry last week into the recruitment of its citizens for the conflict that has since identified the participation of 288 retired soldiers from the island nation, he said.
+
+...
+
+[Data](articles/e2a850c2.json)
+
+---
+
+### NIA arrests wanted accused in espionage case involving Sri Lankan
+
+*2024-05-16 11:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-arrests-wanted-accused-in-espionage-case-involving-Sri-Lankan/108-282719) · `en`
+
+India, May 16 (The Week) - The National Investigation Agency (NIA) on Wednesday arrested an accused in an espionage case involving a Sri Lankan and a Pakistani national. The accused, Nuruddin alias Rafi, had absconded after jumping bail.
+
+Rafi was carrying a cash reward of Rs 5 lakh. He was arrested from the Rajiv Nagar area of Mysuru, Karnataka by the NIA team.
+
+A house search was also conducted after his arrest and several "incriminating materials", including mobile phones, laptop, pen drives and a drone, were recovered, said the agency in an official statement.
+
+When Rafi failed to appear before the NIA Special Court, Chennai, after being released on bail, a non-bailable warrant was issued against him.
+
+The court had declared him a proclaimed offender on May 7 this year.
+
+The case is related to a terror conspiracy to carry out explosions at the US Consulate in Chennai and the Israel Embassy in Bengaluru in 2014.
+
+...
+
+[Data](articles/11b7de06.json)
+
+---
 
 ### Friends dispute ends dead
 
@@ -118,7 +174,7 @@ Later, airport sources said that when he asked the Porter who had come to take t
 
 *2024-05-16 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99248/schoolgirl-injured-in-fox-hill-tragedy-succumbs-to-injuries-) · `en`
 
-The schoolgirl, who was critically injured in the tragic accident during the Diyatalawa Fox Hill car race, has succumbed to injuries while receiving treatment in hospital last night (15), increasing the death toll from the fatal crash to 08.
+The schoolgirl, who was critically injured in the tragic accident during the recent ‘Fox Hill Super Cross 2024’ motorsport racing championship at Diyatalawa, has succumbed to injuries while receiving treatment in hospital last night (15), increasing the death toll from the fatal crash to 08.
 
 She had been receiving treatment in the intensive care unit of Badulla General Hospital.
 
@@ -127,8 +183,6 @@ The body of the 16-year-old girl, Sathdarani Kavishka, who was a resident of Gal
 Seven persons including a child were killed while 23 others were injured following a tragic accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on April 21.
 
 Among the deceased were four officials of the racing event who were stationed as flag marshals. The other victims were civilians who were spectators of the event, as reported by the police.
-
-The incident occurred when a race car had veered off the race track and collided with a group of spectators.
 
 ...
 
@@ -560,21 +614,35 @@ After the conductor informed the Conductor in the well, police officers had remo
 
 ---
 
-### ලංගම රථයේ රියදුරු අසුනේදි මියයයි
+### SLTB driver dies in seat
 
 *2024-05-16 10:01:29* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-රථයේ-රියදුරු-අසුනේදි-මියයයි/11-409665) · `si`
 
-නුවරඑලිය සිට නාවලපිටිය දක්වා ධාවනය වු නාවලපිටිය ලංගම ඩිපෝවට අයත් බස් රථයේ රියදුරු රිය අසුන මත ජිවිතක්ෂයට පත් විම නිසා බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුරට පත් වි ඇති බව ලිදුල පොලිසිය පැවසිය.
+A SLTB bus driver died when his vehicle veered off the Kandy-Nuwara Eliya road near Hatton Farmaston, causing an accident. The 39-year-old, identified as Nawala Arasiri Attanayake, was driving the bus from Nuwararationiya to Nawalapitiya. The incident led to the bus being severely damaged, and both the driver and conductor were injured.
 
-මෙසේ ධාවනය වෙමින් තිබු බස් රථය තුලදිම ජිවිතක්ෂයට පත් වි ඇත්තේ නාවලපිටිය ලංගම ඩිපෝවේ සේවය කරමින් සිටි සුරංග අරුණසිරි අත්තනායක නැමති (39) හැවිරිදි අයෙකි.
+🟩
 
-නුවරඑලිය සිට දිඹුල පතන හරහා නාවලපිටිය දක්වා (15) දින පස්වරුවේ ධාවනය වු බස් රථය හදිසියේ කාර්මික දෝෂයකට ලක්විම නිසා එම බස් රථයේ ගමන් ගත් මගින්ව වෙනත් බස් රථයකට මාරු කර බස් රථයේ රියදුරු සහ කොන්දොස්තර එක්ව බස් රථයේ කාර්මික දෝෂය යථා තත්ත්වයට පත් කර යලිත් බස් රථය නාවලපිටිය දක්වා ධාවනය කරවන අවස්තාවේ බස් රථයේ රියදුරුට ඇති වු  හදිසි රෝගි තත්ත්වයක් හේතුවෙන් බස් රථය මාර්ගයෙන් ඉවතට පැන අනතුර සිදු වි ඇත.
+The bus from the CTB depot, which was traveling from Nuwararationiya to Nawalapitiya, the bus has been destroyed by the bus.
 
-මෙම අනතුර සිදු වි ඇත්තේ හැටන් නුවරඑලිය ප්‍රධාන මාර්ගයේ ලිදුල ෆාමස්ටන් ප්‍රදේශයේදිය.
+The bus was killed in the bus and was a 39 year old in Nawala Arasiri Attanayake.
 
-...
+Bus industrial bugs and conductor moved to another bus due to a sudden bus to Nawalapitiya to Nawalapitiya to Nawalapitiya to Nawalapitiya (15).The bus has jumped out of the road due to an emergency condition of the bus driver.
+
+The accident occurred in the Hatton Farmaston area on the Kandy-Nuwara Eliya main road.
+
+The conductor of the bus has spoken to the driver and the driver of the bus has been asked to remove the driver's dissemination after noticeing the driver's seat.Doctors of the Divisional Hospital have said.
+
+The bus was in danger, police said.
+
+The bus driver and the conductor of the bus, which was in danger of the accident, referred to the Department of Post Dridge to the Lidula Policehas been.
+
+The bus and the road safety fence have been damaged.
+
+◼️
 
 [Data](articles/6659c900.json)
+
+[Extended Data](ext_articles/6659c900.ext.json)
 
 ---
 
@@ -1135,6 +1203,24 @@ However, the final decision has not yet been taken in this regard.
 [Data](articles/20ccc14c.json)
 
 [Extended Data](ext_articles/20ccc14c.ext.json)
+
+---
+
+### MPs seek one million rupee insurance coverage to be extended to include family members
+
+*2024-05-16 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MPs-seek-one-million-rupee-insurance-coverage-to-be-extended-to-include-family-members/155-282692) · `en`
+
+Colombo, May 16 (Daily Mirror) - Following the approval of concessionary vehicle permits, the MPs across the political divide have asked for the extension of their one -million rupee insurance coverage to include their family members, a top source said yesterday.
+
+At the House Committee meeting held last Friday, the MPs have asked for this benefit while insisting for concessionary vehicle permits for the second time.
+
+Currently, the premium for the MPs’ insurance is paid by them and the Parliamentary Affairs Ministry together. They have sought to include their family members in the coverage. They have reportedly agreed to pay an increased premium.
+
+However, the final decision has not yet been taken in this regard.
+
+...
+
+[Data](articles/38274a00.json)
 
 ---
 
@@ -2119,97 +2205,5 @@ Dialog customers came together extending their support once again to contribute 
 [Data](articles/802f96dc.json)
 
 [Extended Data](ext_articles/802f96dc.ext.json)
-
----
-
-### Indices dip as share market’s struggles intensify
-
-*2024-05-15 22:00:00* · [`islandlk`](http://island.lk/indices-dip-as-share-markets-struggles-intensify/) · `en`
-
-The share market struggled further yesterday with a sharper dip in indices although turnover improved. Consequently, both indices moved downwards. The All Share Price Index went down by 67.69 points while S and P SL20 declined by 34.2 points. Turnover stood at Rs 3.2 billion with six crossings.
-
-Those crossings were reported in Ambeon Capital, where 60 million shares crossed to the tune of Rs 912 million; its shares traded at Rs 15.20, JKH 1.4 million shares crossed for Rs 283 million; its shares traded at Rs 202, Aitken Spence 480,000 shares crossed for Rs 64.8 million; its shares traded at Rs 135, an Alumax 2.3 million share volume changed hands for Rs. 27.7 million and its shares traded at Rs 12, Distilleries 1 million shares crossed for Rs 27.5 million and its shares traded at Rs 27.50 and NTB 225,000 shares crossed for Rs 27.45 million; its shares traded at Rs 122.
-
-...
-
-[Data](articles/adda55ad.json)
-
-[Extended Data](ext_articles/adda55ad.ext.json)
-
----
-
-### The presidential election was in July
-
-*2024-05-15 21:17:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ගැසට්ටුව-ජූලි-මාසයේදී/11-409663) · `si`
-
-In July, Sri Lanka's presidential election gazette will be released, halting development activities until its conclusion. Minister Mahinda Amaraweera urged quick progress on his ministry's projects, noting ongoing financial support but incomplete groundwork in certain areas.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the gazette for the presidential election is to be released in July.
-
-Accordingly, he instructed the officials to expedite the development projects for the development projects this year under their ministry.
-
-The Parliamentary Advisory Committee of the Ministry of Agriculture and Plantation Industries at the Parliamentary Complex was also present.
-
-Speaking further the Minister said:
-
-"No development activity can be implemented after posting the gazette for the presidential election. Therefore, development projects will not be implemented until the end of the presidential election after July.The government has provided financial allocations for it. But some aspects of some areas seem to have not yet finished the base
-
-◼️
-
-[Data](articles/b14cb728.json)
-
-[Extended Data](ext_articles/b14cb728.ext.json)
-
----
-
-### The story of our Eranda who warned Ukraine to save his wife
-
-*2024-05-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196657) · `si`
-
-Eranda Chinthaka Tennakoon, from Sri Lanka, was killed in Russia during a conflict. He worked there but was shocked by the war. After being shot, he was treated in Kurunegala Teaching Hospital. Despite needing surgery for leukemia, he left his wife behind in March before returning home.
-
-🟩
-
-The news of a person who has been severely discontinued in the Russian human driver is reported from Kumbukotte area in Kurunegala.
-
-Eranda Chinthaka Tennakoon was shot dead on the battlefield and returned to Sri Lanka on the 9th.
-
-He told Ada Derana that while working in another job in Russia, he was shocked to the Russian Rental Army.
-
-He is surgery at Kurunegala Teaching Hospital and still receiving treatment.
-
-He had been hospitalized after he was shot dead by the Indian forefront of the Russian battlefront and he had escaped from the hospital.
-
-Although he joined his wife's surgery for the surgery of a leukemia, he had left his wife in March before he visited Sri Lanka.
-
-◼️
-
-[Data](articles/9074b8f9.json)
-
-[Extended Data](ext_articles/9074b8f9.ext.json)
-
----
-
-### Luxury car accident in Nanuoya Despe
-
-*2024-05-15 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183642) · `ta`
-
-In Nanuoya Despe, a luxury car crashed into a boulder on the Nuwara Eliya-Hatton road, injuring four passengers who were taken to Nuwara Eliya District General Hospital. The accident occurred when the driver lost control while driving from Kandy to Nuwara Eliya.
-
-🟩
-
-A luxury car traveled in Nanuoya Desesbot area on Nuwara Eliya - Hatton main road crashed into a boulder on Wednesday evening.
-
-Four people were injured in the accident and were admitted to the Nuwara Eliya District General Hospital, police said.
-
-It is reported that the luxury car driver who was traveling from Kandy to Nuwara Eliya from Kandy - Nanuoya Destspot lost control of the driver of the car and crashed into a boulder.
-
-◼️
-
-[Data](articles/3692308e.json)
-
-[Extended Data](ext_articles/3692308e.ext.json)
 
 ---

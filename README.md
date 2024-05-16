@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 09:18:16**
+As of **2024-05-16 09:34:00**
 
 ## Newspaper Stats
 
-*Scraped **24,356** Articles*
+*Scraped **24,363** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 218
 bbccomsinhala | 247
-dbsjeyarajcom | 250
+dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
-economynextcom | 1,398
+economynextcom | 1,399
 dailyftlk | 1,437
-adalk | 2,078
+adalk | 2,079
 adaderanalk | 2,821
-tamilmirrorlk | 2,860
+tamilmirrorlk | 2,864
 virakesarilk | 3,661
 dailymirrorlk | 3,820
 adaderanasinhalalk | 3,883
@@ -26,49 +26,145 @@ adaderanasinhalalk | 3,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,354 (100.0%) of 24,356 articles have been extended.
+24,362 (100.0%) of 24,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### ෆොක්ස් හිල් අනතුරින් තුවාල ලැබූ පාසල් සිසුවිය ජීවිතක්ෂයට
+### FOXHILL விபத்து - 16 வயதுச் சிறுமி உயிரிழப்பு
+
+*2024-05-16 09:06:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/FOXHILL-விபத்து-16-வயதுச்-சிறுமி-உயிரிழப்பு/175-337401) · `ta`
+
+தியதலாவை – FOXHILL கார் பந்தயத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை மேலும் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த விபத்தில் காயமடைந்து பதுளை வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த 16 வயதுடைய சிறுமி ஒருவரே சிகிச்சை பலனின்றி நேற்றிரவு 8.30 அளவில் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/3b18c542.json)
+
+---
+
+### Sri Lanka appoints special panel to provide state lands to military ahead of polls
+
+*2024-05-16 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-special-panel-to-provide-state-lands-to-military-ahead-of-polls-163273/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed a special committee to provide state-owned lands to military, State Defence Minister Premitha Bandara Tennakoon said, ahead of the country declaring the Presidential polls.
+
+The presidential election date is expected to be declared after July 17, but the Election Commission has already declared that the polls will be held between September 17 and October 16.
+
+President Ranil Wickremesinghe, who is also the country’s Defence Minister, is expected to contest under an independent coalition with the support of most parties backing him in the current government, his close allies have said.
+
+Wickremesinghe has launched a national programme to grant unconditional freehold ownership of lands allocated to farmers and low-income earners, titled “Urumaya”.
+
+Granting of “Urumaya” freehold deeds is expected to enhance land value, preserve heritage, and strengthen family economies.
+
+...
+
+[Data](articles/060d1868.json)
+
+[Extended Data](ext_articles/060d1868.ext.json)
+
+---
+
+### School girl killed in fox hill accident
 
 *2024-05-16 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196665) · `si`
 
-දියතලාව ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගය අතරතුර සිදුවු අනතුරෙන් තුවාල ලබා සිටි පාසල් සිසුවිය ඊයේ (15) රාත්‍රියේ ජීවිතක්ෂයට පත්ව තිබේ.
+A schoolgirl died in a tragic accident during the Diyatalawa Fox Hill motor race, treated at Badulla General Hospital. The incident led to the suspension of the race for five years, with four other fatalities reported.
 
-ඇය බදුල්ල මහ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියහ.
+🟩
 
-දියතලාව පොලිස් වසමේ ගල්ඒදණ්ඩ ප්‍රදේශයේ පදිංචිව සිටි 16 හැවිරිදි එම දැරියගේ මෘත ශරීරය මේ වනවිට බදුල්ල මහා රෝහලේ තැන්පත් කර තිබේ.
+The school girl was killed in the accident during the Diyatalawa Fox Hill motor race.
 
-2024 ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගාවලිය අප්‍රේල් 21වනදා පෙරවරුවේ දියතලාව නරියාකන්ද ධාවන පථයේ දී ආරම්භ වූ අතර එහිදී සිදුවු මාරක අනතුරින් 7 දෙනෙකුට දිවි අහිමිවුණි.
+She was receiving treatment at the ICU of the Badulla General Hospital.
 
-එහිදී ධාවන තරගයේ සහායකවරුන් සිව්දෙනෙකුට දිවි අහිමි වූ අතර, සෙසු සියලුදෙනා තරගය නැරඹීම සඳහා පැමිණ සිටි අයයි.
+The body of the 16 year old Seedarai Kawkka girl, a 16-year-old resident of the Diyatalawa Police Division, has been placed at the Badulla General Hospital.
 
-8 හැවිරිදි වැලිමඩ පදිංචිව සිටි ශිව කුමාර් දිනුෂිකා, 55 හැවිරිදි වැලිමඩ පදිංචිව සිටි මුත්තුසාමි උදයකුමාර්, සීදුවේ පදිංචිව සිටි 19 හැවිරිදි චමත් නිරෝෂන්, අරුණ ශාන්ත උපාලිගමගේ නැමති 62 හැවිරිදි මාතර පදිංචිව සිටි අයෙක්, 20 හැවිරිදි අකුරැස්සේ පදිංචි අසේන් හීනටිගල, රසික අබේනායක සහ 60 හැවිරිදි මාතර පදිංචිව සිටි ගනේෂ් ජයවර්ධන අයට මෙහිදී දිවි අහිමි වුණි.
+The Fox Hill car racing began on April 21, 7 days after the fatalawa accident occurred there.
+
+Four Assistants of the race were losing their lives and the funerals were also visiting the tourist.
+
+Sivivukana, a resident of Welimada, a 55-year-old resident of the Mutthasami Udayakumara, a 55 year old resident of the Mutthizami Udayakumar, the 20-year-old resident of Akuressa, a resident of Akuressa, and 60 year old residents of Akuressa, a 60 year old residents of Akuressa.Ganesh Jayawardena was lost here.
+
+The race was held on 21st April 2019 and the event had to be stopped.
 
 ...
 
 [Data](articles/ad9394b0.json)
 
+[Extended Data](ext_articles/ad9394b0.ext.json)
+
 ---
 
-### සජිත් සහ අනුරගේ විවාදය වෙනුවෙන් රජයේ නිවාඩු දිනයක්?
+### A public holiday for Sajith and Anura's debate?
 
 *2024-05-16 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196664) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස සහ ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක යන මහත්වරුන්ගේ විවාදය ජනතාවට දැක බලා ගැනීම සඳහා එදින රජයේ නිවාඩු දිනයක් කළ යුතු බව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Minister Harin Fernando suggests making Sajith Premadasa and Anura's debate a public holiday, highlighting its importance but noting lack of interest from both leaders. He criticizes their communication styles, with one speaking Sinhalese and the other heavily in English, creating a barrier. Minister Wijayadasa Rajapakse mentions future plans, while State Minister Piyal Nishantha hints at revelations from the Sri Lanka Generalian Front soon.
 
-එහෙත් ඔහු පෙන්වාදෙන්නේ අදාළ විවාදය පැවැත්වීම සඳහා එම දෙපාර්ශවයටම උනන්දුවක් නොමැති බවය.
+🟩
 
-"අද ප්‍රධාන අනිත් අපේක්ෂකයින් දෙදෙනාගෙන් එක ඉල්ලීමක් කරන්න කැමතියි. කරුණාකරලා අර විවාදය තියන්න. මොකද මේ විවාදයට දෙන්නම හැංඟෙන ගතියක් පේන්න තියෙනවා. මම ඇත්තටම ජනාධිපතිතුමාගෙන් ඉල්ලීමකුත් කරා රජයේ නිවාඩු දිනයක් නම් කරලා, මේ විවාදය ලංකාවේ මිනිස්සුන්ට බලන්න කියන්න. මේ දෙන්නාගේ විවාදය බලලා රට හදන හැටි. මොකද අභියෝග භාරගන්න බැරි මිනිස්සු කොහොමද රට හදන්නේ කියන එක ඉස්සෙල්ලාම බලන්න ඕනේ. මේක තනිකර ගේමක් යන්නේ. දෙපැත්තම දන්නවා මේක කරගන්න බෑ කියලා. එක්කෙනෙක් බර සිංහලෙන් කතා කරයි. අනෙක් කෙනා බර ඉංග්‍රීසියෙන් කතා කරයි. දෙන්නට දෙන්නා කතා කරපු එක තේරෙන්නේ නැති වෙයි. අපි කරුණාකරලා ඉල්ලනවා කයිවාරුවෙන් නෙමෙයි ක්‍රියාවෙන් කරලා පෙන්වන්න."
+Minister Harin Fernando says that the public should be made a public holiday to see the debate that the Leader of the Opposition Sajith Premadasa and the leader of the national popularity.
 
-මේ අතර ඉදිරියේදී පළමුව පවත්වනුයේ ජනාධිපතිවරණයක් බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+But he pointed out that both parties have no interest in the debate.
+
+"Today the two main candidates like to make one request. Please have that debate. Because there is a hiding a hiding down to this debate. I actually name a public holiday to the President to ask the President and tell the people of Sri Lanka. How to look for the debate. Because people who can't accept the challenges see how the country is making the country. This is a lonely game. Both sides know that this can't be done. One speaks in Sinhala. The other one speaks in the heavy in English. The two people do not understand. We are asking, not by the work, show yourself. "
+
+Meanwhile, Minister Wijayadasa Rajapakse said that the first was held in the future.
 
 ...
 
 [Data](articles/6532d717.json)
+
+[Extended Data](ext_articles/6532d717.ext.json)
+
+---
+
+### The rain condition will continue further
+
+*2024-05-16 08:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-நிலைமை-மேலும்-தொடரும்/175-337399) · `ta`
+
+Sri Lanka faces ongoing rain, with heavy falls expected in central regions and along the coast. The Department of Meteorology advises caution against lightning strikes.
+
+🟩
+
+The Department of Meteorology has announced that the rain conditions are expected to continue due to the lower atmospheric conditions in Sri Lanka.
+
+Rainfall or thunderstorms are expected in many provinces of the country at 1.00 pm.
+
+Heavy rains are expected to occur about 100 millimeters in some areas in the upper, Central, Sabaragamuwa and Uva provinces.
+
+Rainfall is likely in the morning in the upper, southern and eastern coastal areas.
+
+It has been raining since this morning in many parts of Jaffna.
+
+The Department of Meteorology has instructed the public to take necessary precautions to reduce the impact of lightning impacts during thunderstorms during thunderstorms.. Remble
+
+◼️
+
+[Data](articles/4568ffb9.json)
+
+[Extended Data](ext_articles/4568ffb9.ext.json)
+
+---
+
+### Holy water from India
+
+*2024-05-16 08:20:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதையம்மனுக்கு-இந்தியாவிலிருந்து-வந்த-புனித-நீர்/175-337398) · `ta`
+
+Holy water from India's Sita Eliya Seethayamman Temple was used in the Kumbabhishekam ceremony at Sri Lanka's Mayurapathy Temple in Wellawatte.
+
+🟩
+
+The holy water for the Kumbabhishekam of the Sita Eliya Seethayamman Temple has been brought from India and placed at the Mayurapathy Temple in Wellawatte.
+
+◼️
+
+[Data](articles/25364f24.json)
+
+[Extended Data](ext_articles/25364f24.ext.json)
 
 ---
 
@@ -706,6 +802,32 @@ The four arrested have been brought to the Jaffna Fisheries Inspector for furthe
 
 ---
 
+### 75 laws in 2 years
+
+*2024-05-16 01:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-வருடங்களில்-75-சட்டங்கள்-நிறைவேற்றம்/175-337397) · `ta`
+
+In the last two years, Sri Lanka's government has enacted 75 new laws, marking it as a leader in legislative activity in South Asia. President Ranil Wickremesinghe highlighted this achievement during the inauguration of a new court building, emphasizing the importance of timely law implementation and effective case handling to reduce delays.
+
+🟩
+
+President Ranil Wickremesinghe said the government has passed 75 new laws in the last two years alone and that Sri Lanka has become a new law in South Asia.
+
+The President said this while addressing the inauguration of the new court building yesterday.. As he further stated,
+
+A century later, we have made many new reforms in the law industry. 75 laws have been passed over the past two years. Although some parliamentarians have been working for 04 or 05 years, they have not passed these laws.
+
+The government must perform its tasks. Members of Parliament must come to parliament to make laws. Accordingly, we are looking forward to passing new laws and introducing the new legal structure.
+
+Also, we have also focused on the delay of the law. Judicial. The challenge of the former is to implement the law in a timely manner. Case investigations should be effectively conducted. He said that if he did so, a large number of cases would be filed. (A)
+
+◼️
+
+[Data](articles/f11f9c0c.json)
+
+[Extended Data](ext_articles/f11f9c0c.ext.json)
+
+---
+
 ### US Ambassador to Sri Lanka Jelly Sung visits Jaffna District
 
 *2024-05-16 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183648) · `ta`
@@ -1297,6 +1419,34 @@ The dead was dead in early morning, the residents say that the water exits the w
 [Data](articles/3bd85df9.json)
 
 [Extended Data](ext_articles/3bd85df9.ext.json)
+
+---
+
+### 11 billion per year per year if the electricity purchase agreement has been changed
+
+*2024-05-15 20:46:52* · [`adalk`](https://www.ada.lk/breaking_news/සුළං-බලාගාරවලින්-විදුලිය-මිලදී-ගැනීමේ-ගිවිසුම-වෙනස්-නොකළොත්-වසරකට-බිලියන-11ක-පාඩුවක්/11-409658) · `si`
+
+If the electricity purchase agreement changes, the Ceylon Electricity Board (CEB) could save 11 billion annually. The CEB Association mentioned contracts with two wind power stations, potentially reducing costs due to lower electricity rates. The chairman highlighted a deal with an Indian company to build two power plants, contracting electricity units at 8.26 million each. A notice was issued for refining 50 MW of wind energy recently. This move aligns with the government's strategy to increase local electricity production, aiming to reduce reliance on imported fuel and stabilize energy prices.
+
+🟩
+
+The Ceylon Electricity Board (CEB) Association states that if the contract has been signed by two wind power stations from two wind power plants, the Ceylon Electricity Board (CEB) Association said.
+
+The Chairman of the Association Dhanushka Parakrasinghe said that the Electricity Board (CEB) has only a sum of Rs.
+
+However, Indian company has given an opportunity to build two power plants in Sri Lanka and that a unit of electricity has been contracted to 8.26 million.
+
+He said that a denERRE has been sent to the refinement of 50 MW of winds in the last week.
+
+The Chairman added that the Ceylon Government accounts for the bank of Sri Lanka and the company will be owned by the Government of Sri Lanka and the company can cred with the company.
+
+He said that the country was unique to the country in accordance with the amount of electricity to manufacture electricity from the power booth and the prices of the prices of the recent days.
+
+◼️
+
+[Data](articles/f2237034.json)
+
+[Extended Data](ext_articles/f2237034.ext.json)
 
 ---
 
@@ -2059,169 +2209,5 @@ He also said that the action has been taken because the questions of the Science
 [Data](articles/93e0452e.json)
 
 [Extended Data](ext_articles/93e0452e.ext.json)
-
----
-
-### 13 lakhs of rupees of the maid
-
-*2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ரூபாய்-ஏப்பம்/76-337369) · `ta`
-
-A maid in Kuwait, Nithyajodiamma Sundaralingam, earned 13,44,000 rupees over two years and deposited it in a bank in Bogawantalawa. Upon returning to Sri Lanka in 2024, she discovered only 1,046 rupees in her account. Investigations led to the recovery of 13,44,858 rupees from various banks but raised suspicions about unauthorized withdrawals. The case involves missing documents and a dispute over identity verification, highlighting issues with remote banking security and fraud prevention.
-
-🟩
-
-13, 44, 000 (thirteen hundred and forty -four thousand rupees), who worked as a maid in Kuwait for two years, had taken a bank account for a woman from Bogawantalawa.
-
-The money belonging to Nithyajodiamma Sundaralingam, a lower section of the police division, belonging to the Bogawantalawa, police division.
-
-The woman (Nithyjodiamma Sundaralingam), who went to work as a homework in 2022 as a family poverty, has deposited her monthly salary at a state bank.
-
-He returned to the country on April 28, 2024 after leaving work abroad for two years. Two days later, on April 30, he went to the bank and filling the money to recover the money.
-
-The large amount of money written in Chilip is not in the account and that the bank has only Rs 1,046, the bank official said.
-
-Bank officials said that 13 lakhs 44 thousand 858 rupees had been recovered from the bank account.
-
-...
-
-[Data](articles/3d0cc9b5.json)
-
-[Extended Data](ext_articles/3d0cc9b5.ext.json)
-
----
-
-### The maid's 13 lakhs
-
-*2024-05-15 17:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பணிப்பெண்ணின்-13-இலட்சம்-ஏப்பம்/76-337369) · `ta`
-
-A maid in Kuwait earned 13 lakh 44 thousand rupees over two years and deposited it in a bank in Sri Lanka. Upon return, she found only 1,046 rupees in her account. Investigations reveal discrepancies and missing documents, leading to suspicions of fraud.
-
-🟩
-
-13, 44, 000 (thirteen hundred and forty -four thousand rupees), who worked as a maid in Kuwait for two years, has taken a bank account for a woman from Bogawantalawa.
-
-The money belonging to Nithyajodiamma Sundaralingam, a lower section of the police division, belonging to the Bogawantalawa, police division.
-
-The woman (Nithyjodiamma Sundaralingam), who went to work as a homework in 2022 as a family poverty, has deposited her monthly salary at a state bank.
-
-He returned to the country on April 28, 2024 after leaving work abroad for two years. Two days later, on April 30, he went to the bank and filling the money to recover the money.
-
-The large amount of money written in Chilip is not in the account and that the bank has only Rs 1,046, the bank official said.
-
-Bank officials said that 13 lakhs 44 thousand 859 rupees had been recovered from the bank account.
-
-...
-
-[Data](articles/d770b607.json)
-
-[Extended Data](ext_articles/d770b607.ext.json)
-
----
-
-### Nearly 9 million drug caught
-
-*2024-05-15 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196653) · `si`
-
-Sri Lanka Customs intercepted nearly 9 million rupees worth of drugs in suspicious parcels from Canada, England, and Netherlands. The haul included 150 ecstasy pills, 466 grams of cannabis, and 10 grams of cocaine. Investigations revealed false addresses; the parcels will be investigated further by the SLFP's Narcotics Bureau.
-
-🟩
-
-A large quantity of drugs have been found in several parcels from several foreign countries to the Central Mail Exchange.
-
-The drug has been found in several suspicious parcels that were sent to Sri Lanka at several sustained parcel.
-
-There were 150 drugs, 466 grams of kus and 10 grams of cocaine.
-
-Customs say that the market value of the drug is seats for Rs 9 million.
-
-Customs further stated that they were residents from Canada, England and Netherlan to Dehiwala, Wellawatte, Wellawatte, Veyangoda and Anuradhapura.
-
-However, investigations have revealed that the addresses were false.
-
-The Parcel, which contains the drug at the end of the Sri Lanka Customs investigation, is due to be handed over to the SLFP's Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/5b3dae4d.json)
-
-[Extended Data](ext_articles/5b3dae4d.ext.json)
-
----
-
-### The 'virgin' speaks of the uniqueness of paranoia
-
-*2024-05-15 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183627) · `ta`
-
-"Kanni," directed by Mayon Siva Torappadi, stars Ashwini Chandrasekhar and features a unique plot about a paranoid woman in a remote village practicing Siddha medicine. The film, set to release in theaters on May 17, promises a mix of languages including Tamil, Kannada, Telugu, and English.
-
-🟩
-
-Actress Ashwini Chandrasekhar is the heroine of the story, 'Kanni' is the leading role of the film.
-
-Directed by director Mayon Siva Torappadi, 'Kanni', Ashwini Chandrasekhar, Manimaran, Tara Krish, Ram Bharathan and many others.
-
-Rajkumar has composed the film, composed by Sebastian Satish. Producer M.. Selvaraj has produced.
-
-The film will be launched before the release of the film, which will be released in the film mansions on May 17. Senior producer K. Rajan participated as a special guest.
-
-“The screenplay is set in the backdrop of a small village located in the hills of Thenkanikottai near the Tamil Nadu city of Hosur.There are Siddha doctors who still practice Siddha medicine on Jawadu Mountain. A paranoia woman living in this hill saves a patient abandoned by modern medicine.
-
-...
-
-[Data](articles/7c7cb1fd.json)
-
-[Extended Data](ext_articles/7c7cb1fd.ext.json)
-
----
-
-### Sri Lanka stocks close down, selling pressure on banks
-
-*2024-05-15 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-banks-163230/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.55 percent, or 67.69 points, at 12,291; while the S&P SL20 Index closed down 0.94 percent, or 34.57 points, at 3,636.
-
-“Market was a bit volatile today, and there was some profit-taking seen,” market participants said.
-
-“There was selling pressure on the banks despite many of them posting good results.”
-
-Hatton National Bank Plc closed down at 195.25, National Development Bank Plc closed down at 78.70, Sampath Bank Plc closed down at 78.10, Dfcc Bank Plc closed down at 79.90.
-
-Profits at Hatton National Bank, which also has an insurance unit grew 2 percent to 7.2 billion rupees in March 2024, helped by lower provisioning and its insurance unit, interim accounts show.
-
-Ambeon Capital Plc saw a high volume (Rs963mn) being traded, and the share closed down at 14.30.
-
-...
-
-[Data](articles/488d973e.json)
-
-[Extended Data](ext_articles/488d973e.ext.json)
-
----
-
-### Sri Lankan High Court officials training in India
-
-*2024-05-15 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183619) · `ta`
-
-Fifteen Sri Lankan High Court Registrar officials trained in India from May 9 to 13, focusing on digital changes like online filing and court processes. The program highlighted India's advanced transparency and efficiency in its legal system, strengthening ties between the two countries' judicial systems.
-
-🟩
-
-A group of 15 Sri Lankan High Court Registrar officials has successfully completed the four -day training program in the Indian High Court from May 9 to 13.
-
-During this training program, the Indian High Court has explained the technology and digital change of the Indian High Court, including filing, listing, inspection, scanning and registration of the Internet -Court Scheme, Library and Court processes.
-
-Senior Registrars of the Indian High Court have explained the sophistication of upgraded transparency, performance and accessible organizations.
-
-This training program is a testament to the strong bilateral relationship between India and Sri Lanka and the mutual dedication of the judicial special and technical discovery.
-
-The Indian High Court Training Center has conducted the training on the basis of promoting knowledge and cooperation with international judicial institutions under the guidance of Indian Chief Justice Tanjaya Yashwant Chandrasood.
-
-◼️
-
-[Data](articles/8b51c2b2.json)
-
-[Extended Data](ext_articles/8b51c2b2.ext.json)
 
 ---

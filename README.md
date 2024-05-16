@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 13:03:26**
+As of **2024-05-16 13:18:22**
 
 ## Newspaper Stats
 
-*Scraped **24,412** Articles*
+*Scraped **24,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,76 @@ newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,438
-adalk | 2,084
+adalk | 2,085
 adaderanalk | 2,828
 tamilmirrorlk | 2,874
 virakesarilk | 3,661
-dailymirrorlk | 3,833
+dailymirrorlk | 3,834
 adaderanasinhalalk | 3,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,407 (100.0%) of 24,412 articles have been extended.
+24,412 (100.0%) of 24,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### 10ஆம் திகதி வரை கால அவகாசம்
+### Timeline until the 10th
 
 *2024-05-16 12:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆம்-திகதி-வரை-கால-அவகாசம்/175-337423) · `ta`
 
-மின்சாரக் கட்டணக் குறைப்பு சதவீதம் எதிர்வரும் ஜூலை மாதம் அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Public Utilities Commission plans to announce electricity tariff rates in July. The Electricity Board requested more time to suggest ways to lower these rates. Despite the General Utilities Commission extending the proposal submission deadline to May 10th, the proposals were not received by the Ceylon Electricity Commission on this date, according to Chairman Professor Manjula Fernando.
 
-இதேவேளை, மின்சார கட்டணத்தை குறைப்பது தொடர்பான யோசனைகளை சமர்ப்பிக்க வௌ்ளிக்கிழமை (17) வரை கால அவகாசம் வழங்குமாறு மின்சார சபை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளது.
+🟩
 
-இந்த முன்மொழிவுகள் ஆணைக்குழுவிடம் மே 1ஆம் திகதி வழங்கப்படவிருந்த நிலையில், மின்சார சபையின் கோரிக்கைக்கு அமைய பொதுப் பயன்பாட்டு ஆணைக்குழு எதிர்வரும் 10ஆம் திகதி வரை கால அவகாசத்தை நீட்டித்துள்ளது.
+The Public Utilities Commission said that the rate of electricity tariffs will be announced in July.
 
-எவ்வாறாயினும், இது தொடர்பான முன்மொழிவுகளை கடந்த 10ஆம் திகதி இலங்கை மின்சார சபை ஆணைக்குழுவிடம் சமர்ப்பிக்கவில்லை என அதன் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+Meanwhile, the Electricity Board has asked the Public Utilities Commission to grant time to submit ideas on reducing electricity tariffs.
+
+As these proposals are to be presented to the Commission on May 1, the General Utilities Commission has extended the deadline until the 10th of this month.
+
+However, the proposals were not submitted to the Ceylon Electricity Commission on the 10th of this month, its chairman Professor Manjula Fernando said.
 
 ◼️
 
 [Data](articles/2311d80f.json)
 
+[Extended Data](ext_articles/2311d80f.ext.json)
+
 ---
 
-### රුසියානු හමුදා සේවයට ලාංකිකයින් යොමුකළ ඒජන්සියක හිමිකරු අත්අඩංගුවට
+### Sri Lankans in Russian-Ukraine war: Specialized delegation to visit Russia
+
+*2024-05-16 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-in-Russian-Ukraine-war-Specialized-delegation-to-visit-Russia/108-282726) · `en`
+
+Colombo, May 16 (Daily Mirror)- A specialized delegation will leave for Russia on the direction of President Ranil Wickremesinghe to investigate into the welfare of Sri Lankans amidst the on-going Russian-Ukraine war, State Minister for Foreign Affairs Tharaka Balasuriya said today.
+
+Addressing the media briefing held at the PMC, he said the delegation will include the Secretary to the Ministry of Defence, the former Ambassador to Russia and officials from the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/b588c160.json)
+
+---
+
+### The owner of Sri Lankans arrested for the Russian military service
 
 *2024-05-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196675) · `si`
 
-රැසියානු හමුදාවේ සේවය සඳහා ශ්‍රී ලාංකිකයින් යොමුකළ බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනයක හිමිකරු හා එහි කළමනාකරු අත්අඩංගුවට ගෙන තිබේ.
+Owner and manager of a Sri Lankan company were arrested for allegedly providing services to the Russian military through a licensed foreign employment agency.
+
+🟩
+
+The owner and its manager have been arrested in a licensed foreign employment agency posed for the Russian army service.
 
 ◼️
 
 [Data](articles/ce372e14.json)
+
+[Extended Data](ext_articles/ce372e14.ext.json)
 
 ---
 
@@ -82,21 +108,27 @@ The general public, fishing and naval community are kindly requested to take ade
 
 ---
 
-### மாயமான பெண் பரீட்சார்த்திகள் இருவர் மீட்பு
+### Two of the magical female examiners recovery
 
 *2024-05-16 12:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாயமான-பெண்-பரீட்சார்த்திகள்-இருவர்-மீட்பு/76-337420) · `ta`
 
-கல்விப்பொதுத் தராத பரீட்சைக்குத் தோற்றிய நிலையில் மாயமான பரீட்சார்த்திகளான மாணவிகள் இருவர், உறவினர்களின் வீட்டிலில் இருந்து மீட்கப்பட்டுள்ளனர்.
+Two female examiners were rescued from relatives' homes after appearing for an unknown exam. They visited Colombo for work and stayed in Kaduwela before being taken to the Ginigathena Police Station. Two local schoolgirls were also brought there by their families but were released after instructions.
 
-இவ்விரு மாணவிகளும், பரீட்சைக்கு செவ்வாய்க்கிழமை (14) சென்றிருந்த நிலையில், கடுவெலவில் உள்ள உறவினர்களின் வீட்டில் இருந்தனர் என  புதன்கிழமை (15) இரவு கினிகத்ஹேன பொலிஸ் நிலையத்துக்கு அறிவுறுத்தியுள்ளனர்.
+🟩
 
-வேலையை வாய்ப்பை தேடி இவ்விருவரும் கொழும்புக்கு சென்றனர் என்றும், கடுவெல பிரதேசத்தில் உள்ள உறவினரின் வீட்டுக்கு புதன்கிழமை (15) இரவு சென்றுள்ளனர் என்றும் பொலிஸார் தெரிவித்தனர்.
+Two mysterious examiners have been rescued from the home of relatives as they appeared for an unaccounted examination.
 
-கடுவெல பிரதேசத்தில் இருந்து பாடசாலை மாணவர்கள் இருவரும் அவர்களின் உறவினர்களினால் கினிகத்ஹேன பொலிஸ் நிலையத்துக்கு வியாழக்கிழமை (16) அழைத்துவரப்பட்டனர். அவ்விரு சிறுமிகளும் அறிவுறுத்தப்பட்டனர் பின்னர் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளனர் என்று கினிகத்ஹேன பொலிஸார் தெரிவித்தார்.
+The two students have gone to the Ginikathena Police Station on Wednesday night (15) at the home of relatives in Kaduwela as they went to the exam on Tuesday (14).
+
+Police said that the two had gone to Colombo in search of the job and had gone to the relative's home in Kaduwela on Wednesday night.
+
+Two schoolchildren from Kaduwela area were brought to the Ginigathena Police Station on Thursday (16) by their relatives.. Ginigathena police said that the two girls were instructed and later handed over to relatives.
 
 ◼️
 
 [Data](articles/b42f9158.json)
+
+[Extended Data](ext_articles/b42f9158.ext.json)
 
 ---
 
@@ -126,21 +158,27 @@ The next two students had come to find a job in the hopeline of finding a job an
 
 ---
 
-### ”எமது ஆட்சியில் அனைத்து மதுக்கடைகளும் மூடப்படும்”
+### "All liquor shops will be closed in our regime"
 
 *2024-05-16 12:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-ஆட்சியில்-அனைத்து-மதுக்கடைகளும்-மூடப்படும்/175-337419) · `ta`
 
-எதிர்காலத்தில் அமையவுள்ள ஐக்கிய மக்கள் சக்தி (SJB) அரசாங்கம் அனைத்து மதுபானசாலைகள் மற்றும் மதுபானக் கடைகளை மூடும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (16) தெரிவித்துள்ளார்.
+In a statement, Opposition Leader Sajith Premadasa announced plans to close all liquor stores under his proposed United People's Power (SJB) government, with exceptions for tourism. He emphasized starting a campaign from schools to protect children, acknowledging potential vote loss but prioritizing child welfare. Additionally, he pledged to revoke existing liquor licenses upon taking office.
 
-"சுற்றுலாத்துறையைப் பொறுத்தமட்டில் மட்டும் விதிவிலக்குகள் வழங்கப்படும்" என்று பிரேமதாச பொதுக் கூட்டத்தில் தெரிவித்தார்.
+🟩
 
-"நாங்கள் பாடசாலை மட்டத்திலிருந்தே ஒரு தற்காலிக இயக்கத்தைத் தொடங்குவோம். இந்த நாட்டின் குழந்தைகளைக் காப்பாற்ற இது செய்யப்படும். இதைச் சொன்னதற்காக நான் வாக்குகளை இழக்க நேரிடும் என்று எனக்குத் தெரியும், ஆனால் இது குழந்தைகளுக்காக செய்யப்படும்" என்று அவர் கூறினார்.
+Opposition Leader Sajith Premadasa today (16) said that the United People's Power (SJB) government will close all liquor stores and liquor stores.
 
-மேலும், நாங்கள் ஆட்சிக்கு வந்தால் தற்போது வழங்கப்பட்டுள்ள அனைத்து மதுபான உரிமங்களும் ரத்து செய்யப்படும் என்றும் பிரேமதாச கூறினார்.
+Premadasa said at a public meeting, "Exceptions will be given only in terms of tourism."
+
+“We will start a temporary movement from the school level. This will be done to save the children of this country. I know that I will lose votes for saying this, but this is done for children, ”he said.
+
+Also, if we come to power, all the liquor licenses currently being issued will be revoked, Premadasa said.
 
 ◼️
 
 [Data](articles/9e176624.json)
+
+[Extended Data](ext_articles/9e176624.ext.json)
 
 ---
 
@@ -1768,6 +1806,8 @@ By Lacille de Silva, Rohan Prithiviraj Perera, Bernard Fernando, Ranjan de Silva
 
 [Data](articles/1b550e6c.json)
 
+[Extended Data](ext_articles/1b550e6c.ext.json)
+
 ---
 
 ### Driving systemic change: Roadmap for five-pillar governance framework
@@ -2173,27 +2213,5 @@ British Prime Minister Rishi Sunak has said that he is shocked.. He said in x �
 [Data](articles/8026e362.json)
 
 [Extended Data](ext_articles/8026e362.ext.json)
-
----
-
-### No matter who says, he is not going to stop sending workers to Israel -Labor Minister Manusha Nanayakkara
-
-*2024-05-15 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183644) · `ta`
-
-Despite protests and calls from various political groups to halt worker exports to Israel, Sri Lanka's Labor Minister Manusha Nanayakkara reaffirmed the government's commitment to continue sending workers there. This decision comes amidst concerns over the impact on Sri Lankan youth and the ongoing conflict in Israel.
-
-🟩
-
-Israel cannot stop the war by protesting in parliament. Some political groups, including the Leader of the Opposition, seek to blame the future of Sri Lankan youth in order to get Muslim votes. The Minister of Labor and Foreign Employment, Manusha Nayanayakara, said he would not stop sending workers to Israel.
-
-He was speaking at an event held at the Foreign Employment Bureau on Tuesday (14).
-
-During the meeting held in Matara, the People's Liberation Front said that our youth should not be sent to Israel for foreign jobs. Do not send workers to Israel as well as. Opposition leader Sajith Premadasa told parliament to stop diplomatic relations with Israel.
-
-...
-
-[Data](articles/3aa96915.json)
-
-[Extended Data](ext_articles/3aa96915.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 22:18:17**
+As of **2024-05-16 22:33:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,526 (100.0%) of 24,527 articles have been extended.
+24,527 (100.0%) of 24,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### සා/පෙළ අසාධාරණවලට එරෙහිව මානව හිමිකම් කොමිසමට පැමිණිලි
+### Human Rights Commission complains against O / L persons
 
 *2024-05-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196699) · `si`
 
-මෙවර සාමාන්‍ය පෙළ විභාගයේ වත්තල ශාන්ත අන්තෝනී විද්‍යාලයේ විභාග ශාලාවකදී විශේෂ අවශ්‍යතා සහිත දරුවෙකුට තම ප්‍රශ්න පත්‍රය අයෙකු ලවා කියවා ලබාදෙන පිළිතුර ලිවීමට අවසර ලබාදී තිබියදී ඉංග්‍රීසි ප්‍රශ්න පත්‍රය දෙවැනි කොටස සඳහා එම පහසුකම අවහිර කළ බවට චෝදනා කරමින් අද (16) මානව හිමිකම් කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කෙරුණි.
+St. Anthony's College, Wattala, faced a complaint from the Human Rights Commission regarding alleged discrimination during exams. Additionally, a student at Kollupitiya Methodist College, who requires special accommodations, was denied the chance to take her exams due to examiner refusal. The situation led to further complaints to the Human Rights Commission by the student's parents.
 
-එමෙන්ම, කොල්ලුපිටිය මෙතෝදිස්ත විද්‍යාලයේ විභාග ශාලාවකදී ද විශේෂ අවශ්‍යතා සහිත දැරියකට එම පහසුකම යටතේ විෂයයන් 4කට පෙනීසිටීමට විශේෂඥ මනෝ වෛද්‍යවරයෙකුගේ නිර්දේශ ලැබී තිබුණි.
+🟩
 
-ඒ අනුව විදුහල්පතිනිය කර තිබූ ඉල්ලීමට අනුව නියෝජ්‍ය විභාග කොමසාරිස්වරයා විසින් විභාග ශාලාධිපතිවරයාට අදාළ සහනයන් ඇතුළත් ලිපියක්ද යොමුකර තිබුණි.
+At the examination hall of St. Anthony's Examination at St. Anthony's College, Wattala, has lodged a complaint to the Human Rights Commission today.
 
-කෙසේවෙතත්, එම දැරියට ද ප්‍රශ්න පත්‍ර හතරටම එම පහසුකම් යටතේ පෙනීසිටීමට විභාග පරීක්ෂකවරු අවස්ථාව ලබානොදුන් බවට චෝදනා කරමින් ඇයගේ මව්පියන් අද මානව හිමිකම් කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+Also, at a special gathering of a special requirements at the Kollupitiya Methodist College, a specialist girl had received the recommendations of a specialist psychiatrist.
+
+Accordingly, according to the request made by the principal, the Deputy Commissioner of Examinations had also sent a letter with relief to the Examinations of Examinations.
+
+However, her parents had lodged a complaint with the Human Rights Commission today accusing that the examiners would not allow the opportunity to sit for the four pacearies.
 
 ◼️
 
 [Data](articles/96c14130.json)
+
+[Extended Data](ext_articles/96c14130.ext.json)
 
 ---
 

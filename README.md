@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 12:48:59**
+As of **2024-05-16 13:03:26**
 
 ## Newspaper Stats
 
-*Scraped **24,407** Articles*
+*Scraped **24,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,53 @@ dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,320
 economynextcom | 1,401
-dailyftlk | 1,437
+dailyftlk | 1,438
 adalk | 2,084
 adaderanalk | 2,828
-tamilmirrorlk | 2,871
+tamilmirrorlk | 2,874
 virakesarilk | 3,661
 dailymirrorlk | 3,833
-adaderanasinhalalk | 3,892
+adaderanasinhalalk | 3,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,400 (100.0%) of 24,407 articles have been extended.
+24,407 (100.0%) of 24,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### 10ஆம் திகதி வரை கால அவகாசம்
+
+*2024-05-16 12:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆம்-திகதி-வரை-கால-அவகாசம்/175-337423) · `ta`
+
+மின்சாரக் கட்டணக் குறைப்பு சதவீதம் எதிர்வரும் ஜூலை மாதம் அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதேவேளை, மின்சார கட்டணத்தை குறைப்பது தொடர்பான யோசனைகளை சமர்ப்பிக்க வௌ்ளிக்கிழமை (17) வரை கால அவகாசம் வழங்குமாறு மின்சார சபை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளது.
+
+இந்த முன்மொழிவுகள் ஆணைக்குழுவிடம் மே 1ஆம் திகதி வழங்கப்படவிருந்த நிலையில், மின்சார சபையின் கோரிக்கைக்கு அமைய பொதுப் பயன்பாட்டு ஆணைக்குழு எதிர்வரும் 10ஆம் திகதி வரை கால அவகாசத்தை நீட்டித்துள்ளது.
+
+எவ்வாறாயினும், இது தொடர்பான முன்மொழிவுகளை கடந்த 10ஆம் திகதி இலங்கை மின்சார சபை ஆணைக்குழுவிடம் சமர்ப்பிக்கவில்லை என அதன் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2311d80f.json)
+
+---
+
+### රුසියානු හමුදා සේවයට ලාංකිකයින් යොමුකළ ඒජන්සියක හිමිකරු අත්අඩංගුවට
+
+*2024-05-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196675) · `si`
+
+රැසියානු හමුදාවේ සේවය සඳහා ශ්‍රී ලාංකිකයින් යොමුකළ බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනයක හිමිකරු හා එහි කළමනාකරු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ce372e14.json)
+
+---
 
 ### Showery and windy conditions to enhance during next few days
 
@@ -48,25 +78,69 @@ The general public, fishing and naval community are kindly requested to take ade
 
 [Data](articles/ba5f9548.json)
 
+[Extended Data](ext_articles/ba5f9548.ext.json)
+
 ---
 
-### සා පෙළ අතරතුර අතුරුදන් වූ සිසුවියන් ගැන තොරතුරක්
+### மாயமான பெண் பரீட்சார்த்திகள் இருவர் மீட்பு
+
+*2024-05-16 12:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாயமான-பெண்-பரீட்சார்த்திகள்-இருவர்-மீட்பு/76-337420) · `ta`
+
+கல்விப்பொதுத் தராத பரீட்சைக்குத் தோற்றிய நிலையில் மாயமான பரீட்சார்த்திகளான மாணவிகள் இருவர், உறவினர்களின் வீட்டிலில் இருந்து மீட்கப்பட்டுள்ளனர்.
+
+இவ்விரு மாணவிகளும், பரீட்சைக்கு செவ்வாய்க்கிழமை (14) சென்றிருந்த நிலையில், கடுவெலவில் உள்ள உறவினர்களின் வீட்டில் இருந்தனர் என  புதன்கிழமை (15) இரவு கினிகத்ஹேன பொலிஸ் நிலையத்துக்கு அறிவுறுத்தியுள்ளனர்.
+
+வேலையை வாய்ப்பை தேடி இவ்விருவரும் கொழும்புக்கு சென்றனர் என்றும், கடுவெல பிரதேசத்தில் உள்ள உறவினரின் வீட்டுக்கு புதன்கிழமை (15) இரவு சென்றுள்ளனர் என்றும் பொலிஸார் தெரிவித்தனர்.
+
+கடுவெல பிரதேசத்தில் இருந்து பாடசாலை மாணவர்கள் இருவரும் அவர்களின் உறவினர்களினால் கினிகத்ஹேன பொலிஸ் நிலையத்துக்கு வியாழக்கிழமை (16) அழைத்துவரப்பட்டனர். அவ்விரு சிறுமிகளும் அறிவுறுத்தப்பட்டனர் பின்னர் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளனர் என்று கினிகத்ஹேன பொலிஸார் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b42f9158.json)
+
+---
+
+### Information about the missing students during the Order
 
 *2024-05-16 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196674) · `si`
 
-සාමාන්‍ය පෙළ විභාගය පැවැත්වෙන අතරතුර අතුරුදන් වූ පාසල් සිසුවියන් දෙදෙනා ඥාති නිවසක සිටිය දී හමුවී තිබේ.
+Two schoolgirls from Ambagamuwa National School went missing on the 14th but were later found at a cousin's house after attending a night event. Their disappearance was reported to both the Ginigathena and Ginigamuwa Police divisions.
 
-ඊයේ (15) රාත්‍රියේ එම සිසුවියන් ඥාති නිවසක සිටින බවට ඔවුන් දෙදෙනාගේ පවුලේ අය විසින් පොලීසිය වෙත දැනුම්දී ඇත.
+🟩
 
-ගිනිගත්හේන පොලිස් වසමේ අඹගමුව ජාතික පාසලේ ස්ථාපනය කර ඇති විභාග මධ්‍යස්ථානයට පැමිණි සිසුවියන් දෙදෙනා පසුගිය 14 වනදා විභාගයට පෙනී නොසිට අතුරුදන් වී තිබිණි.
+The two schoolgirls who were missing while being held during the GCE Ordinary Level examination were found in a cousin.
 
-ඒ අනුව දරුවන් සම්බන්ධයෙන් ඔවුන්ගේ පවුල්වල ඥාතීන් විසින් ගිනිගත්හේන පොලීසියට පැමිණිල්ලක් ද යොමු කළේය.
+Their family informed the police that the students were at a cousin night last night.
 
-පසුව සිදුකළ විමර්ශනයේ දී අනාවරණය වී ඇත්තේ රැකියාවක් සොයා ගැනීමේ අපේක්ෂාවෙන් සිසුවියන් දෙදෙනා කොළඹ පැමිණ ඇති බවත්, කඩුවෙල ප්‍රදේශයේ ඥාතී නිවසකට ගොස් ඒ බව දෙමාපියන්ට දැනුම් දී ඇති බවත්ය.
+The two girls who had been established at the Ambagamuwa National School in the Ginigamuwa Police Division have disappeared on the 14th.
+
+Relatives of their families also lodged a complaint with the Ginigathena Police.
+
+The next two students had come to find a job in the hopeline of finding a job and parents had gone to a relative house in Kaduwela.
 
 ◼️
 
 [Data](articles/d1e6cb4d.json)
+
+[Extended Data](ext_articles/d1e6cb4d.ext.json)
+
+---
+
+### ”எமது ஆட்சியில் அனைத்து மதுக்கடைகளும் மூடப்படும்”
+
+*2024-05-16 12:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-ஆட்சியில்-அனைத்து-மதுக்கடைகளும்-மூடப்படும்/175-337419) · `ta`
+
+எதிர்காலத்தில் அமையவுள்ள ஐக்கிய மக்கள் சக்தி (SJB) அரசாங்கம் அனைத்து மதுபானசாலைகள் மற்றும் மதுபானக் கடைகளை மூடும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (16) தெரிவித்துள்ளார்.
+
+"சுற்றுலாத்துறையைப் பொறுத்தமட்டில் மட்டும் விதிவிலக்குகள் வழங்கப்படும்" என்று பிரேமதாச பொதுக் கூட்டத்தில் தெரிவித்தார்.
+
+"நாங்கள் பாடசாலை மட்டத்திலிருந்தே ஒரு தற்காலிக இயக்கத்தைத் தொடங்குவோம். இந்த நாட்டின் குழந்தைகளைக் காப்பாற்ற இது செய்யப்படும். இதைச் சொன்னதற்காக நான் வாக்குகளை இழக்க நேரிடும் என்று எனக்குத் தெரியும், ஆனால் இது குழந்தைகளுக்காக செய்யப்படும்" என்று அவர் கூறினார்.
+
+மேலும், நாங்கள் ஆட்சிக்கு வந்தால் தற்போது வழங்கப்பட்டுள்ள அனைத்து மதுபான உரிமங்களும் ரத்து செய்யப்படும் என்றும் பிரேமதாச கூறினார்.
+
+◼️
+
+[Data](articles/9e176624.json)
 
 ---
 
@@ -83,6 +157,8 @@ A complaint was lodged by the guardians of the two girls, who had come to the ex
 ◼️
 
 [Data](articles/e5de639e.json)
+
+[Extended Data](ext_articles/e5de639e.ext.json)
 
 ---
 
@@ -101,6 +177,8 @@ Sri Lanka opened an inquiry last week into the recruitment of its citizens for t
 ...
 
 [Data](articles/e2a850c2.json)
+
+[Extended Data](ext_articles/e2a850c2.ext.json)
 
 ---
 
@@ -123,6 +201,8 @@ The case is related to a terror conspiracy to carry out explosions at the US Con
 ...
 
 [Data](articles/11b7de06.json)
+
+[Extended Data](ext_articles/11b7de06.ext.json)
 
 ---
 
@@ -1260,6 +1340,8 @@ However, the final decision has not yet been taken in this regard.
 
 [Data](articles/38274a00.json)
 
+[Extended Data](ext_articles/38274a00.ext.json)
+
 ---
 
 ### Sri Lanka plans small arms ammo factory - Premitha
@@ -1671,6 +1753,20 @@ Considering that the total share of GDP of the bloc is 37% of the global total, 
 [Data](articles/7d1286c9.json)
 
 [Extended Data](ext_articles/7d1286c9.ext.json)
+
+---
+
+### Driving systemic change: Roadmap for five-pillar governance framework
+
+*2024-05-16 01:54:29* · [`dailyftlk`](https://www.ft.lk/columns/Driving-systemic-change-Roadmap-for-five-pillar-governance-framework/4-761844) · `en`
+
+A supreme and inviolable Constitution represents the people’s sovereignty and provides strong and enforceable structures and laws
+
+By Lacille de Silva, Rohan Prithiviraj Perera, Bernard Fernando, Ranjan de Silva, Geewananda Gunawardana, Leonard Pinto, and Chula Goonasekera
+
+...
+
+[Data](articles/1b550e6c.json)
 
 ---
 
@@ -2099,103 +2195,5 @@ During the meeting held in Matara, the People's Liberation Front said that our y
 [Data](articles/3aa96915.json)
 
 [Extended Data](ext_articles/3aa96915.ext.json)
-
----
-
-### Indian travelers’ boycott of Maldives is helping Sri Lanka, says Tourism Minister
-
-*2024-05-15 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99242/indian-travelers-boycott-of-maldives-is-helping-sri-lanka-says-tourism-minister) · `en`
-
-Calls for Indian travelers to boycott the Maldives is “absolutely” helping Sri Lanka’s travel industry, the country’s Tourism Minister Harin Fernando said Wednesday.
-
-“The Maldives issue is … helping us,” Fernando told CNBC, referencing a social media row in January that resulted in a sharp drop in Indian visitors to the Maldives this year.
-
-India was the Maldives’ largest source market in 2023. But now it sits in 6th place, behind arrivals from China, Russia, the United Kingdom, Italy and Germany, according to Sri Lanka’s Ministry of Tourism.
-
-By contrast, nearly 34,400 Indian travelers went to Sri Lanka in January, more than double the 13,759 that visited in January last year, according to the Sri Lanka Tourism Development Authority. Arrivals in the first quarter of 2024 outpaced the same time period in 2023, despite a dip in April caused by a visa controversy that saw Sri Lankan visa temporarily double in price.
-
-...
-
-[Data](articles/dae2e911.json)
-
-[Extended Data](ext_articles/dae2e911.ext.json)
-
----
-
-### Benefits of aloe vera gel
-
-*2024-05-15 22:35:00* · [`islandlk`](http://island.lk/benefits-of-aloe-vera-gel/) · `en`
-
-From the comments I get from readers, it seems that aloe vera is what they like to dabble in to enhance their beauty. Believe me, aloe vera happens to be my favourite, as well.
-
-Okay, here’s how to use fresh aloe vera gel to reap all its beauty benefits.
-
-One of the best benefits of aloe vera gel is that it helps heal skin that has been sunburnt. Since the skin becomes sensitive and changes colour, too, it is important to apply a soothing ingredient on it. Aloe vera gel has cooling properties that help heal the skin faster.
-
-In order to use aloe vera gel on sunburnt skin, store fresh gel in the fridge and let it get cool for a few hours. Now, apply the gel on the skin and let it stay there. The skin will absorb the gel and the gel that is left at the top will protect and act as anti-inflammatory agent.
-
-...
-
-[Data](articles/a6e8b50f.json)
-
-[Extended Data](ext_articles/a6e8b50f.ext.json)
-
----
-
-### Thinushka Soysa joins M Power Capital Securities as Independent Non-Executive Director
-
-*2024-05-15 22:10:00* · [`islandlk`](http://island.lk/thinushka-soysa-joins-m-power-capital-securities-as-independent-non-executive-director/) · `en`
-
-M Power Capital Securities is delighted to announce the appointment of Ms. Thinushka Soysa as an Independent Non-Executive Director, effective 01 May 2024. Ms. Soysa brings with her a wealth of experience and expertise in Fund Management, Private Equity, and Investment Due Diligence in both public and private sectors.
-
-...
-
-[Data](articles/d32e365b.json)
-
-[Extended Data](ext_articles/d32e365b.ext.json)
-
----
-
-### Nations Trust Bank delivers a strong 1Q2024
-
-*2024-05-15 22:09:00* · [`islandlk`](http://island.lk/nations-trust-bank-delivers-a-strong-1q2024/) · `en`
-
-Nations Trust Bank PLC reported a strong performance in the first 3 months of 2024, posting a Profit Before Tax (PBT) of LKR 7.5 billion, up 28% year-on-year (YoY) and a Profit After Tax (PAT) of 3.7 billion, up 35% YoY.
-
-Commenting on the results, Hemantha Gunetilleke, Director & Chief Executive Officer of Nations Trust Bank said, “The Bank recorded a strong first quarter, highlighting steady growth across our customer segments. The Bank’s strong capital base, healthy liquidity buffers, robust risk management models and continued focus on digital empowerment are the fundamental strengths that continue to drive our performance”.
-
-Underpinning the Bank’s financial performance is its strong capital position with Tier I Capital at 17.33% and Total Capital Adequacy Ratio of 18.76%, well above the regulatory requirement of 8.5% and 12.5% respectively.
-
-Nations Trust Bank also maintained strong liquidity buffers with a Liquidity Ratio of 45% against the regulatory requirement of 20%.
-
-...
-
-[Data](articles/94cf42e5.json)
-
-[Extended Data](ext_articles/94cf42e5.ext.json)
-
----
-
-### Major UK retailer Tesco set to introduce two fashion brands owned by Hela across its stores
-
-*2024-05-15 22:07:00* · [`islandlk`](http://island.lk/major-uk-retailer-tesco-set-to-introduce-two-fashion-brands-owned-by-hela-across-its-stores/) · `en`
-
-The brand licensing division of Hela Apparel Holdings PLC, Focus Brands, has announced a strategic partnership with Tesco to introduce its Peter Werth and Fenchurch fashion brands to the retailer’s stores across the UK.
-
-The collaboration further enhances the Hela Group’s long-standing relationship with one of the UK’s largest retailers and will provide consumers with the opportunity to purchase two of its owned fashion brands in Tesco for the first time, with an initial rollout across 100 UK stores later this year.
-
-Hela’s manufacturing division has been a strategic supplier to Tesco for over a decade and received the supermarket’s Empowerment Award in 2023 for its innovative supply chain solutions.
-
-Dialog Customers Contribute Over Rs. 18 Million to Little Hearts via Star Points
-
-Thinushka Soysa joins M Power Capital Securities as Independent Non-Executive Director
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/4fc23b70.json)
-
-[Extended Data](ext_articles/4fc23b70.ext.json)
 
 ---

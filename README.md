@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 16:33:31**
+As of **2024-05-16 16:50:51**
 
 ## Newspaper Stats
 
-*Scraped **24,464** Articles*
+*Scraped **24,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,320
 economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,095
-adaderanalk | 2,834
+adaderanalk | 2,835
 tamilmirrorlk | 2,877
 virakesarilk | 3,673
-dailymirrorlk | 3,837
-adaderanasinhalalk | 3,901
+dailymirrorlk | 3,838
+adaderanasinhalalk | 3,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,464 (100.0%) of 24,464 articles have been extended.
+24,464 (100.0%) of 24,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
+
+### Probe launched into death threats against State Minister Semasinghe
+
+*2024-05-16 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99257/probe-launched-into-death-threats-against-state-minister-semasinghe) · `en`
+
+The Colombo Fort Police Station has initiated an investigation into an alleged incident of death threats made against the State Minister of Finance, Shehan Semasinghe.
+
+The threatening phone call was reportedly received at the State Minister’s office last afternoon (15).
+
+The anonymous caller is said to have threatened Semasinghe, stating he would not be allowed to contest the upcoming elections and that the state minister would be assassinated if the threat is ignored.
+
+Accordingly, the State Minister’s media unit confirmed that Colombo Fort Police have commenced an investigation based on a complaint lodged by State Minister Semasinghe.
+
+Meanwhile, speaking to the media in Habarana, the State Minister revealed that the President has stated that the Presidential Election would be held first, followed by other elections.
+
+◼️
+
+[Data](articles/bb499599.json)
+
+---
+
+### ඉන්දියාවේ PhonePe ලංකාවේ වැඩ අරඹයි
+
+*2024-05-16 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196686) · `si`
+
+ඉන්දියාවේ ක්‍රියාත්මක PhonePe ඩිජිටල් ගෙවීම් ක්‍රමය මෙරටදී නිල වශයෙන් එළිදැක්වීම ඊයේ (15) කොළඹදී සිදුකෙරුණි.
+
+ඒ ශ්‍රී ලංකාවේ ඉන්දියානු මහකොමසාරිස් සහ මෙරට මහ බැංකු අධිපතිවරයාගේ ප්‍රධානත්වයෙනි.
+
+මෙම ක්‍රමය මගින් ඉන්දියානු සංචාරකයින්ට මුදල් භාවිතයෙන් තොරව ගනුදෙනු කළ හැකිය.
+
+මෙහිදී අදහස් දැක්වූ ශ්‍රී ලංකාවේ ඉන්දියානු මහකොමසාරිස් සන්තෝෂ් ජා මහතා,
+
+"ඔබ බොහෝ දෙනා දන්නා ආකරයට ඉන්දියාව තමයි ශ්‍රී ලංකාවේ ප්‍රමුඛතම ආර්ථික සහකරුවා. අපි ශ්‍රී ලංකාවේ විශාලතම වෙළෙඳ පාර්ශ්වකරු වගේම මෑත කාලයේදී ශ්‍රී ලංකාවට විශාලතම සෘජු විදේශ ආයෝජන සිදුකළ මුලාශ්‍ර ද වනවා. එමෙන්ම ශ්‍රී ලංකාවට වැඩිම සංචාරකයින් පිරිසක් රැගෙන ඒමට ඉන්දියාව දායක වී තිබෙනවා."
+
+"ඒ වගේම UPI, QR ගෙවීම් ක්‍රමය හඳුන්වාදීම තුළින් ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය ප්‍රවර්ධනය කිරීමට සහ මෙරටට ලැබෙන ආයෝජන ඉහළ නැංවීම සඳහා සහායවීමට අපි අපේක්ෂා කරනවා."
+
+"UPI, QR ගෙවීම් ක්‍රමය හඳුන්වාදීමත් සමඟ ශ්‍රී ලංකාවේ සංචාරය කරන ඉන්දියානුවන්ට ගෙවීම් සිදුකිරීම සඳහා UPI පද්ධතිය යොදාගත හැකියි."
+
+...
+
+[Data](articles/06019ca8.json)
+
+---
 
 ### Advanced Level on June 4th
 
@@ -56,11 +100,15 @@ The Ministry of Education has further stated that the Circular is still inquiry 
 
 *2024-05-16 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99256/sri-lankas-first-ever-sports-ombudsman-appointed-) · `en`
 
-Retired administrative officer W.A. Chulananda Perera has been appointed as the first-ever Sports Ombudsman of Sri Lanka by the Minister of Sports Harin Fernando.
+Retired Special Grade officer of the Sri Lanka Administrative Service (SLAS), W.A. Chulananda Perera has been appointed as the first-ever Sports Ombudsman of Sri Lanka by the Minister of Sports Harin Fernando.
 
 In his new role, Mr. Perera is tasked with conducting independent and impartial inquiries into complaints from individuals aggrieved by any decision or action of any registered national sports association or federation.
 
-◼️
+Issuing a statement, the Sports Ministry stated that the aggrieved parties must submit a written request to the Sports Ombudsman within 14 days of any such decision or action.
+
+Following a thorough and unbiased examination, the Sports Ombudsman is required to deliver his recommendations to the Minister of Sports via the Director General of Sports within 14 days of receiving the request.
+
+...
 
 [Data](articles/c1b0b0eb.json)
 
@@ -421,6 +469,20 @@ The Court sentenced the court to be summoned next Monday to ensure the case.
 [Data](articles/3acc6f57.json)
 
 [Extended Data](ext_articles/3acc6f57.ext.json)
+
+---
+
+### West Indies Women to tour Sri Lanka for T20I series
+
+*2024-05-16 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/West-Indies-Women-to-tour-Sri-Lanka-for-T20I-series/108-282729) · `en`
+
+(SLC) - The West Indies National Women’s Team will arrive in Sri Lanka during the month of June for a white ball tour consisting of a three match ODI and a three-match T20I series.
+
+The team will play the ODI series in GICS, Galle, while the T20I series will be played in MRICS, Hambantota.
+
+◼️
+
+[Data](articles/777bdc47.json)
 
 ---
 
@@ -2267,73 +2329,5 @@ Meanwhile, Minister Wijayadasa Rajapakse said that the first was held in the fut
 [Data](articles/6532d717.json)
 
 [Extended Data](ext_articles/6532d717.ext.json)
-
----
-
-### The rain condition will continue further
-
-*2024-05-16 08:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-நிலைமை-மேலும்-தொடரும்/175-337399) · `ta`
-
-Sri Lanka faces ongoing rain, with heavy falls expected in central regions and along the coast. The Department of Meteorology advises caution against lightning strikes.
-
-🟩
-
-The Department of Meteorology has announced that the rain conditions are expected to continue due to the lower atmospheric conditions in Sri Lanka.
-
-Rainfall or thunderstorms are expected in many provinces of the country at 1.00 pm.
-
-Heavy rains are expected to occur about 100 millimeters in some areas in the upper, Central, Sabaragamuwa and Uva provinces.
-
-Rainfall is likely in the morning in the upper, southern and eastern coastal areas.
-
-It has been raining since this morning in many parts of Jaffna.
-
-The Department of Meteorology has instructed the public to take necessary precautions to reduce the impact of lightning impacts during thunderstorms during thunderstorms.. Remble
-
-◼️
-
-[Data](articles/4568ffb9.json)
-
-[Extended Data](ext_articles/4568ffb9.ext.json)
-
----
-
-### Holy water from India
-
-*2024-05-16 08:20:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதையம்மனுக்கு-இந்தியாவிலிருந்து-வந்த-புனித-நீர்/175-337398) · `ta`
-
-Holy water from India's Sita Eliya Seethayamman Temple was used in the Kumbabhishekam ceremony at Sri Lanka's Mayurapathy Temple in Wellawatte.
-
-🟩
-
-The holy water for the Kumbabhishekam of the Sita Eliya Seethayamman Temple has been brought from India and placed at the Mayurapathy Temple in Wellawatte.
-
-◼️
-
-[Data](articles/25364f24.json)
-
-[Extended Data](ext_articles/25364f24.ext.json)
-
----
-
-### Heavy showers of about 100mm likely in several provinces
-
-*2024-05-16 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99243/heavy-showers-of-about-100mm-likely-in-several-provinces) · `en`
-
-The Meteorology Department says the low-level atmospheric disturbance still persists in the vicinity of the island and therefore, the prevailing showery conditions are expected to continue further.
-
-Showers or thundershowers will occur at several places in most provinces of the island after 1.00 p.m.
-
-Heavy showers of about 100mm are likely at some places in Western, Central, Sabaragamuwa and Uva provinces.
-
-Showers may occur in Western, Southern and Eastern coastal areas during the morning too, it said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/593b6874.json)
-
-[Extended Data](ext_articles/593b6874.ext.json)
 
 ---

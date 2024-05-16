@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 14:18:25**
+As of **2024-05-16 14:33:42**
 
 ## Newspaper Stats
 
-*Scraped **24,438** Articles*
+*Scraped **24,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,320
 economynextcom | 1,401
 dailyftlk | 1,438
 adalk | 2,087
-adaderanalk | 2,828
+adaderanalk | 2,830
 tamilmirrorlk | 2,876
 virakesarilk | 3,673
 dailymirrorlk | 3,835
@@ -26,83 +26,153 @@ adaderanasinhalalk | 3,899
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,433 (100.0%) of 24,438 articles have been extended.
+24,438 (100.0%) of 24,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### එක පිට දැමෙන ශ්‍රීලනිප නඩු
+### Bus driver dies after falling ill at the wheel, causing crash
+
+*2024-05-16 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99252/bus-driver-dies-after-falling-ill-at-the-wheel-causing-crash-) · `en`
+
+A 39-year-old bus driver attached to the Nawalapitiya SLTB Bus Depot has reportedly passed away due to a sudden illness while driving a bus towards Nawalapitiya, thereby causing the bus to veer off the road and crash.
+
+A bus which was operating on the route from Nuwara Eliya to Nawa-lapitiya via Dimbula Pathana had reportedly encountered a technical fault during its journey last evening (15).
+
+As a result of this, the passengers of the bus had been transferred to another SLTB bus. However, while the bus which had broken down was being driven back to Nawalapitiya after being repaired, the driver had suddenly fallen ill causing the vehicle to veer off the road.
+
+The conductor of the bus had immediately contacted the Lindula Police regarding the incident and police officers had arrived at the scene and rushed the driver to the Lindula Hospital.
+
+However, he had been pronounced dead on admission to the hospital.
+
+◼️
+
+[Data](articles/4edbe5db.json)
+
+---
+
+### Youth clubbed to death inside home in Hokandara
+
+*2024-05-16 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99251/youth-clubbed-to-death-inside-home-in-hokandara-) · `en`
+
+A 26-year-old youth has been clubbed to death inside a house in the Horahena area in Hokandara.
+
+According to Ada Derana reporter, the incident had occurred at around 7.30 p.m. yesterday (15).
+
+The victim who had sustained critical injuries after being struck in the head with a club by another individual, had succumbed to his injuries following admission to the Athurugiriya Hospital.
+
+The deceased is a 26-year-old married man residing at Horahena Road in Hokandara
+
+The suspect who had carried out the attack has since been apprehended by Athurugiriya police this morning (16).
+
+Athurigiriya Police revealed that the assailant had been in remand custody over drug-related charges and that he had only been released from custody around 10 days ago.
+
+The two individuals were reportedly friends, and police suspect the attack had been carried out over a personal dispute between them.
+
+Nugegoda Scene of Crime Officers (SOCO) have conducted an investigation at the scene of the crime this morning.
+
+...
+
+[Data](articles/014bc4c4.json)
+
+---
+
+### SLFP cases on one
 
 *2024-05-16 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196681) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා සහ වැඩබලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු පත්කිරීම වළක්වන වාරණ නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කළ නඩුව අද (16) සංශෝධනය සිදුකොට කොළඹ දිසා අධිකරණය හමුවේ යළි කැඳවනු ලැබීය.
+SLFP Chairman Keerthi Udawatta acted as Secretary, reinforcing a case. The court ordered a summons for next Monday.
 
-එම නඩුව කරුණු තහවුරු කිරීම සඳහා ලබන සඳුදා කැඳවන ලෙස අධිකරණය නියම කළේය.
+🟩
+
+The case was reinforced by the Chairman of the Sri Lanka Freedom Party (SLFP as acting Secretary Keerthi Udawatta).
+
+The Court sentenced the court to be summoned next Monday to ensure the case.
 
 ◼️
 
 [Data](articles/3acc6f57.json)
 
+[Extended Data](ext_articles/3acc6f57.ext.json)
+
 ---
 
-### රුසියාව සහ චීනය දේශපාලන විසඳුමක් සොයයි
+### Russia and China looking for a political solution
 
 *2024-05-16 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196680) · `si`
 
-රුසියානු ජනාධිපති ව්ලැදීමීර් පුටින් මේ වනවිට චීනයේ නිල සංචාරයක් ආරම්භ කර තිබේ.
+In a significant move, Russian President Vladimir Putin embarks on his first foreign visit post-re-election, heading to China for discussions on global politics, including conflicts in Ukraine and Gaza. Both nations stress the importance of a diplomatic resolution to these issues, marking their third high-level meeting in quick succession.
 
-රුසියාවේ ජනාධිපතිවරයා සිය 5වැනි ධුරකාලය ආරම්භ කිරීමෙන් අනතුරුව පුටින් ගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
+🟩
 
-එහිදී ඔහු ලෝක දේශපාලනය, යුක්‍රේන යුද ගැටුම් සහ ගාසා යුද්ධය ගැන චීන ජනාධිපති ෂී ජින්පින් සමග සාකච්ඡා කර ඇති බව සඳහන් ය.
+Russian President Vlamingor Putin has already begun a visit to China.
 
-පුටින් පවසා ඇත්තේ රුසියාව සහ චීනය, යුක්‍රේන ගැටලුව සඳහා දේශපාලන විසඳුමක් අවශ්‍ය බවට අවධාරණය කරන බවයි.
+This is the first foreign visit after the President of Russia commences his 5th term of office.
 
-එසේම ගාසා යුද්ධය සඳහා හොඳම වන්නේ රාජ්‍ය දෙකක් යන විසඳුම බව චීන ජනපතිවරයා පවසා තිබේ.
+There he also discussed the world politics, Ukraine war clashes and Gaza War.
 
-මෙය චීන සහ රුසියානු නායකයින් දෙදෙනා අතර වසරක් වැනි කෙටි කාලයක් තුළදී සිදුකළ තෙවැනි හමුව යි.
+Putin said Russia and China emphasize a political solution to the Ukrainian problem.
+
+The Chinese President has also said that the solution to the war is the solution to the war.
+
+This is the third meeting between the two Chinese and Russian leaders in a short period of time.
 
 ◼️
 
 [Data](articles/33319321.json)
 
+[Extended Data](ext_articles/33319321.ext.json)
+
 ---
 
-### රාජ්‍ය සේවක වැටුප් වැඩිකිරීම ගැන රජයේ ස්ථාවරය
+### Government stands on increasing the salaries of public servants
 
 *2024-05-16 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196679) · `si`
 
-මෙම වර්ෂය තුළ රාජ්‍ය සේවකයින්ට නැවත වැටුප් වැඩි කිරීමක් සිදුකළ නොහැකි බව ජනාධිපතිවරයා අමාත්‍ය මණ්ඩලයට දැනුම්දුන් බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+Mahinda Amaraweera, Minister of Agriculture, stated that public servant salaries won't rise this year due to economic concerns. He discussed this with trade union officials from various divisions, including Animal Production and Livestock Development. The minister highlighted potential economic risks if salaries were increased, citing last year's Rs. 10,000 raise as an example.
 
-සත්ත්ව නිෂ්පාදන හා පශු සම්පත් සංවර්ධන අංශයට අයත් සේවක මණ්ඩල කිහිපයක් නියෝජනය කරන වෘත්තිය සමිති නිලධාරින් සමග ඔවුන්ගේ ගැටලු සම්බන්ධයෙන් ඊයේ (15) පැවති සාකච්ඡාවේ දී අමාත්‍යවරයා මේ බව කියා සිටියේය.
+🟩
 
-එම වෘත්තිය සමිති නියෝජිතයින් ඉදිරිපත් කළ ගැටලු රැසකට විසඳුම් ලබා දීමට එකඟත්වය පළ වී ඇති අතර, මෙම වසර තුළ නැවත වැටුප් වැඩිවීමක් ලබා දෙන ලෙස සියලු වෘත්තිය සමිති නියෝජිතයින් අමාත්‍යවරයාගෙන් ඉල්ලිමක් කර තිබේ.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera says that state employees cannot increase the salary increase in public servants this year.
 
-නැවත රජයේ සේවකයින් සඳහා වැටුප් වැඩිවීමක් සිදුවන්නේ ලබන වසරේ දී බවත්, මෙම වසර තුළ නැවත වැටුප් වැඩිවීමක් සිදු කළහොත් රට ආර්ථික වශයෙන් නැවතත් කඩා වැටීමකට ලක්විය හැකි බවත් අමාත්‍යවරයා අවධාරණය කළේය.
+The Minister was speaking at the discussion with trade union officials representing several staff members from the Animal Production and Livestock Development Division.
 
-මේ වසරේ දී රාජ්‍ය සේවකයින්ට රු 10,000ක වැටුප් වැඩිවීමක් සිදුවුණි.
+The Minister has asked the Minister of Representatives from a number of problems presented by the representatives of the trade union representatives.
 
-මෙම සාකච්ඡාවන්ට පශු වෛද්‍යවරුන්ගේ සංගමය, සත්ව සංවර්ධන උපදේශකවරුන්ගේ සංගමය හා පශු සංවර්ධන අංශයේ කම්කරුවන් නියෝජනය කරමින් නියෝජිතයෝ රැසක් සහභාගි වූහ.
+The Minister emphasized that if a salary increase will be resumed for public servants in the next year, the country could have a decline again.
+
+In this year, state employees have increased Rs. 10,000.
+
+These discussions have also participated in the veterinarians' Association, Animal Development Advisors Association and the workers representing the workers of the livestock development sector.
 
 ◼️
 
 [Data](articles/76243e3f.json)
 
+[Extended Data](ext_articles/76243e3f.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ පළමු ක්‍රීඩා ඔම්බූඩ්ස්මන්වරයා පත් කෙරෙයි
+### Ombudsman is appointed first in Sri Lanka
 
 *2024-05-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196678) · `si`
 
-ශ්‍රී ලංකාවේ පළමු ක්‍රීඩා ඔම්බූඩ්ස්මන්වරයා ලෙස ඩබ්ලිව්. ඒ. චූලානන්ද පෙරේරා මහතා පත් කර තිබේ.
+Mr. Chulananda Perera becomes Sri Lanka's first Ombudsman, tasked with conducting impartial investigations into decisions/actions related to national sports associations.
 
-ක්‍රීඩා අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පෙන්වා දෙන්නේ ඔහු ශ්‍රී ලංකා පරිපාලන සේවයේ (විශ්‍රාමික) විශේෂ ශ්‍රේණිධාරියෙකු බවය.
+🟩
 
-ඒ අනුව පනත ප්‍රකාරව ලියාපදිංචි ජාතික ක්‍රීඩා සංගමයක හෝ සම්මේලනයක යම් තීරණයකින් හෝ ක්‍රියාවකින් අගතියතට පත් ඕනෑම තැනැත්තෙකු සම්බන්ධයෙන් ස්වාධීන සහ අපක්ෂපාතී පරීක්ෂණයක් පැවැත්වීම ඔහුගේ රාජකාරී අතර වෙයි.
+Sri Lanka's first games as the Omburdsman. it. Mr. Chulananda Perera has been appointed.
+
+The Ministry of Sports releases a statement that he is a special series of Sri Lanka Administrative Service.
+
+Accordingly, an independent and impartial inquiry is to conduct an independent and impartial investigation into anyone in a decision or action in terms of the registered National Sports Association or a conference.
 
 ◼️
 
 [Data](articles/c213a1e0.json)
+
+[Extended Data](ext_articles/c213a1e0.ext.json)
 
 ---
 
@@ -254,17 +324,23 @@ President Ranil Wickremesinghe will hold a discussion with top officials, includ
 
 ---
 
-### ඇමති විජයදාසට එරෙහිව ඉල්ලූ වාරණයක් ඉවතට
+### The terms received against Minister Wijayada
 
 *2024-05-16 13:00:24* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-එරෙහිව-ඉල්ලූ-වාරණයක්-ඉවතට/11-409672) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ  සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීමට ගත් තීරණය ක්‍රියාත්මක කිරීම වළක්වන වාරණ නියෝගයක් නිකුත් කරන්නැයි පාර්ලිමේන්තු මන්ත්‍රි දුමින්ද දිසානායක මහතා කළ ඉල්ලීම  කොළඹ ප්‍රධාන දිසා අධිකරණය ප්‍රතික්ෂේප කළේය.
+Duminda Dissanayake requested the Chief District Court of Colombo regarding terms against Minister Wijayada. The court allowed the complainant to revise the complaint, focusing on specific injunction issues.
 
-කෙසේ වෙතත් පැමිණිලිකරුට මෙම පැමිණිල්ල සංශෝධනය කර යළි අදාළ වාරණ නියෝගය සඳහා කරුණු තහවුරු කිරීමට අවස්ථාව තිබෙන බවත් අධිකරණය සඳහන් කළෙය.
+🟩
+
+The Chief District Court of Colombo, Duminda Dissanayake was the request made by Hon.
+
+However, the court stated that the complainant has the opportunity to revise the complaint and confirm the issues of the respective injunction.
 
 ◼️
 
 [Data](articles/febedaa6.json)
+
+[Extended Data](ext_articles/febedaa6.ext.json)
 
 ---
 
@@ -2239,35 +2315,5 @@ De Silva said the Federation’s journey has been one of immense dedication and 
 [Data](articles/b3916bc6.json)
 
 [Extended Data](ext_articles/b3916bc6.ext.json)
-
----
-
-### National Chamber of Exporters bestows ‘Certificate of Ethical Trading’ on Alumex
-
-*2024-05-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-bestows-Certificate-of-Ethical-Trading-on-Alumex/34-761850) · `en`
-
-Alumex PLC, a subsidiary of Hayleys was awarded with the prestigious ‘Certificate of Ethical Trading’ by the National Chamber of Exporters of Sri Lanka (NCE) recently.
-
-The valuable certification acknowledges the company’s achievement of conforming to changing regulatory needs and consumer preferences through good practices related to trade, labour, ethical behaviour, environment and society. The NCE selects awardees based on fair treatment of workers, safe working conditions, respect for the environment and engagement with local communities. Through the certification, the NCE aims to promote ethical practices within the export sector and encourage more companies to adopt sustainable and responsible business practices. The certification not only benefits the companies, but also enhances Sri Lanka’s reputation as a responsible trading partner in the global market.
-
-...
-
-[Data](articles/be7c1551.json)
-
-[Extended Data](ext_articles/be7c1551.ext.json)
-
----
-
-### Co-creating family-friendly tea industry conference 2024
-
-*2024-05-16 02:16:59* · [`dailyftlk`](https://www.ft.lk/business/Co-creating-family-friendly-tea-industry-conference-2024/34-761849) · `en`
-
-On the International Day of Tea, 21 May, The Centre for Child Rights and Business, in collaboration with Save the Children, will host the third edition of the annual family-friendly tea industry conference. This year, the spotlight of the conference will be on the tea smallholders, who produce around 70% of Sri Lanka’s tea production, and the private small and mid-sized tea estates.
-
-...
-
-[Data](articles/f04fe4aa.json)
-
-[Extended Data](ext_articles/f04fe4aa.ext.json)
 
 ---

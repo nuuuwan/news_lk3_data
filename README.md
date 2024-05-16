@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 05:35:55**
+As of **2024-05-16 05:58:10**
 
 ## Newspaper Stats
 
-*Scraped **24,326** Articles*
+*Scraped **24,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 218
 bbccomsinhala | 247
 dbsjeyarajcom | 249
 newsfirstlk | 363
-islandlk | 1,308
+islandlk | 1,320
 economynextcom | 1,398
 dailyftlk | 1,437
 adalk | 2,077
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,326 (100.0%) of 24,326 articles have been extended.
+24,326 (100.0%) of 24,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -732,6 +732,76 @@ By contrast, nearly 34,400 Indian travelers went to Sri Lanka in January, more t
 
 ---
 
+### Benefits of aloe vera gel
+
+*2024-05-15 22:35:00* · [`islandlk`](http://island.lk/benefits-of-aloe-vera-gel/) · `en`
+
+From the comments I get from readers, it seems that aloe vera is what they like to dabble in to enhance their beauty. Believe me, aloe vera happens to be my favourite, as well.
+
+Okay, here’s how to use fresh aloe vera gel to reap all its beauty benefits.
+
+One of the best benefits of aloe vera gel is that it helps heal skin that has been sunburnt. Since the skin becomes sensitive and changes colour, too, it is important to apply a soothing ingredient on it. Aloe vera gel has cooling properties that help heal the skin faster.
+
+In order to use aloe vera gel on sunburnt skin, store fresh gel in the fridge and let it get cool for a few hours. Now, apply the gel on the skin and let it stay there. The skin will absorb the gel and the gel that is left at the top will protect and act as anti-inflammatory agent.
+
+...
+
+[Data](articles/a6e8b50f.json)
+
+---
+
+### Thinushka Soysa joins M Power Capital Securities as Independent Non-Executive Director
+
+*2024-05-15 22:10:00* · [`islandlk`](http://island.lk/thinushka-soysa-joins-m-power-capital-securities-as-independent-non-executive-director/) · `en`
+
+M Power Capital Securities is delighted to announce the appointment of Ms. Thinushka Soysa as an Independent Non-Executive Director, effective 01 May 2024. Ms. Soysa brings with her a wealth of experience and expertise in Fund Management, Private Equity, and Investment Due Diligence in both public and private sectors.
+
+...
+
+[Data](articles/d32e365b.json)
+
+---
+
+### Nations Trust Bank delivers a strong 1Q2024
+
+*2024-05-15 22:09:00* · [`islandlk`](http://island.lk/nations-trust-bank-delivers-a-strong-1q2024/) · `en`
+
+Nations Trust Bank PLC reported a strong performance in the first 3 months of 2024, posting a Profit Before Tax (PBT) of LKR 7.5 billion, up 28% year-on-year (YoY) and a Profit After Tax (PAT) of 3.7 billion, up 35% YoY.
+
+Commenting on the results, Hemantha Gunetilleke, Director & Chief Executive Officer of Nations Trust Bank said, “The Bank recorded a strong first quarter, highlighting steady growth across our customer segments. The Bank’s strong capital base, healthy liquidity buffers, robust risk management models and continued focus on digital empowerment are the fundamental strengths that continue to drive our performance”.
+
+Underpinning the Bank’s financial performance is its strong capital position with Tier I Capital at 17.33% and Total Capital Adequacy Ratio of 18.76%, well above the regulatory requirement of 8.5% and 12.5% respectively.
+
+Nations Trust Bank also maintained strong liquidity buffers with a Liquidity Ratio of 45% against the regulatory requirement of 20%.
+
+...
+
+[Data](articles/94cf42e5.json)
+
+---
+
+### Major UK retailer Tesco set to introduce two fashion brands owned by Hela across its stores
+
+*2024-05-15 22:07:00* · [`islandlk`](http://island.lk/major-uk-retailer-tesco-set-to-introduce-two-fashion-brands-owned-by-hela-across-its-stores/) · `en`
+
+The brand licensing division of Hela Apparel Holdings PLC, Focus Brands, has announced a strategic partnership with Tesco to introduce its Peter Werth and Fenchurch fashion brands to the retailer’s stores across the UK.
+
+The collaboration further enhances the Hela Group’s long-standing relationship with one of the UK’s largest retailers and will provide consumers with the opportunity to purchase two of its owned fashion brands in Tesco for the first time, with an initial rollout across 100 UK stores later this year.
+
+Hela’s manufacturing division has been a strategic supplier to Tesco for over a decade and received the supermarket’s Empowerment Award in 2023 for its innovative supply chain solutions.
+
+Dialog Customers Contribute Over Rs. 18 Million to Little Hearts via Star Points
+
+Thinushka Soysa joins M Power Capital Securities as Independent Non-Executive Director
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/4fc23b70.json)
+
+---
+
 ### Quick mission surviving student from writing the Ordinary Level
 
 *2024-05-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196658) · `si`
@@ -759,6 +829,34 @@ From there, the student was abducted while he sat for the O / L examination and 
 [Data](articles/781dcf05.json)
 
 [Extended Data](ext_articles/781dcf05.ext.json)
+
+---
+
+### Dialog Customers Contribute Over Rs. 18 Million to Little Hearts via Star Points
+
+*2024-05-15 22:06:00* · [`islandlk`](http://island.lk/dialog-customers-contribute-over-rs-18-million-to-little-hearts-via-star-points/) · `en`
+
+Over Rs. 140 Million donated via Star Points to Little Hearts Project Since 2016
+
+Dialog customers came together extending their support once again to contribute over Rs. 18 Million towards Little Hearts, an initiative spearheaded by the Sri Lanka College of Pediatricians, bringing the total donation amount since 2016 to Rs. 140 Million. The programme aims to develop a 12-storey cardiac and critical care complex at Lady Ridgeway Hospital in aid of children with heart diseases and critical illnesses.
+
+...
+
+[Data](articles/802f96dc.json)
+
+---
+
+### Indices dip as share market’s struggles intensify
+
+*2024-05-15 22:00:00* · [`islandlk`](http://island.lk/indices-dip-as-share-markets-struggles-intensify/) · `en`
+
+The share market struggled further yesterday with a sharper dip in indices although turnover improved. Consequently, both indices moved downwards. The All Share Price Index went down by 67.69 points while S and P SL20 declined by 34.2 points. Turnover stood at Rs 3.2 billion with six crossings.
+
+Those crossings were reported in Ambeon Capital, where 60 million shares crossed to the tune of Rs 912 million; its shares traded at Rs 15.20, JKH 1.4 million shares crossed for Rs 283 million; its shares traded at Rs 202, Aitken Spence 480,000 shares crossed for Rs 64.8 million; its shares traded at Rs 135, an Alumax 2.3 million share volume changed hands for Rs. 27.7 million and its shares traded at Rs 12, Distilleries 1 million shares crossed for Rs 27.5 million and its shares traded at Rs 27.50 and NTB 225,000 shares crossed for Rs 27.45 million; its shares traded at Rs 122.
+
+...
+
+[Data](articles/adda55ad.json)
 
 ---
 
@@ -2127,129 +2225,5 @@ This decision comes after careful consideration of the concerns raised by studen
 [Data](articles/18d429d9.json)
 
 [Extended Data](ext_articles/18d429d9.ext.json)
-
----
-
-### France prison van attack: ‘Unprecedented’ manhunt for escaped prisoner
-
-*2024-05-15 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99235/france-prison-van-attack-unprecedented-manhunt-for-escaped-prisoner) · `en`
-
-An “unprecedented” manhunt is taking place in northern France for a prisoner who escaped during a deadly ambush.
-
-Mohamed Amra, known as “The Fly”, was being taken back to jail from a court in Normandy on Tuesday when a car rammed his prison van at a toll booth.
-
-Armed men then opened fire on the vehicle, killing two officers and seriously injuring three others.
-
-“All means are being used to find these criminals,” French Interior Minister Gerald Darmanin said.
-
-Mr Darmanin told French media on Wednesday the attack was an act of “cold-blooded barbarity” and that around 450 gendarmes and police officers had been mobilised in the Eure department of Normandy in an “unprecedented” search.
-
-President Emmanuel Macron has told France that “everything is being done to find the perpetrators”.
-
-Meanwhile, French prison officer unions have called for walkouts at institutions across the country on Wednesday in support of the two who died.
-
-...
-
-[Data](articles/480ba1a9.json)
-
-[Extended Data](ext_articles/480ba1a9.ext.json)
-
----
-
-### Two free marks for children who write ordinary
-
-*2024-05-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196650) · `si`
-
-The Department of Examinations will award two extra marks for each child who receives two copies of the GCE O/L paper question paper. This applies specifically to the Science section.
-
-🟩
-
-The Department of Examinations has decided to give two free marks for two issues of the GCE (O / L) paper question paper received received.
-
-The Commissioner General of Examinations said that the two free marks for the issue of the Science Question and 39.
-
-◼️
-
-[Data](articles/9cc9fc28.json)
-
-[Extended Data](ext_articles/9cc9fc28.ext.json)
-
----
-
-### Two ‘free marks’ for O/L exam’s science paper 1 – Exams Chief
-
-*2024-05-15 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99234/two-free-marks-for-ol-exams-science-paper-1-exams-chief) · `en`
-
-The Commissioner General of Examinations says that a decision has been taken to award one free mark each for questions No. 09 and 39 of the 2023 G.C.E. Ordinary Level examination’s Science Paper 01, following the complaints received.
-
-◼️
-
-[Data](articles/5f55a8b3.json)
-
-[Extended Data](ext_articles/5f55a8b3.ext.json)
-
----
-
-### Husband - Wife Conflict;Husband's death!
-
-*2024-05-15 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183618) · `ta`
-
-A conflict between a husband and wife escalated tragically when the husband died at their home in the Ottamavadi-Manjolai Housing Scheme. The incident, investigated by the Valaichenai Police, suggests foul play within the family. The deceased's body is undergoing autopsy at the Bananachenai Resource Hospital, with ongoing police investigation.
-
-🟩
-
-The incident took place on Wednesday (15) at the Ottamavadi - Manjolai Housing Scheme belonging to the Valaichenai Police Division.
-
-Preliminary inquiries by the police revealed that the death was the cause of the death of the family between the husband and wife.
-
-The body of the person has been taken to the Bananachenai Resource Hospital for autopsy and further investigations are being carried out by the Valaichenai police.
-
-◼️
-
-[Data](articles/f1633925.json)
-
-[Extended Data](ext_articles/f1633925.ext.json)
-
----
-
-### To build new political culture
-
-*2024-05-15 15:29:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கலாசாரத்தை-கட்டியெழுப்ப-வேண்டும்/175-337365) · `ta`
-
-President Wickremesinghe emphasizes the need for a new political culture, criticizing accusations of government protection for thieves while highlighting efforts to enact new laws against corruption.
-
-🟩
-
-President Ranil Wickremesinghe has pointed out that the government has introduced many new laws to capture the thieves, even though some have accused the government of protecting thieves.
-
-He said at a function on Wednesday (15) that the Teldeniya new court building should be abandoned and the new political culture should be abandoned and the new political culture should be built.
-
-◼️
-
-[Data](articles/4df575f5.json)
-
-[Extended Data](ext_articles/4df575f5.ext.json)
-
----
-
-### Passenger arrested with foreign cigarettes worth Rs. 2.1m at BIA
-
-*2024-05-15 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99233/passenger-arrested-with-foreign-cigarettes-worth-rs-21m-at-bia) · `en`
-
-Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized a large consignment of smuggled cigarettes, valued at around Rs. 2.1 million, and arrested a suspect at the arrival terminal this morning (15).
-
-The arrested suspect has been identified as a 36-year-old businessman residing in Colombo 13.
-
-The passenger in question had arrived from Mumbai, India onboard a SriLankan Airlines flight at 10.15 p.m. last night (14), however he had remained at the airport’s duty-free shopping complex until this morning and was arrested while attempting to exit the airport.
-
-A total of 105 cartons containing 21,000 sticks of foreign-manufactured cigarettes were found concealed in his luggage.
-
-The arrested passenger has been released on police bail and is scheduled to appear before the Negombo Magistrate’s Court on May 22.
-
-◼️
-
-[Data](articles/2cb635ed.json)
-
-[Extended Data](ext_articles/2cb635ed.ext.json)
 
 ---

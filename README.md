@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 17:03:43**
+As of **2024-05-16 17:18:38**
 
 ## Newspaper Stats
 
-*Scraped **24,469** Articles*
+*Scraped **24,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,62 @@ economynextcom | 1,406
 dailyftlk | 1,438
 adalk | 2,096
 adaderanalk | 2,835
-tamilmirrorlk | 2,877
+tamilmirrorlk | 2,878
 virakesarilk | 3,673
-dailymirrorlk | 3,838
+dailymirrorlk | 3,839
 adaderanasinhalalk | 3,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,467 (100.0%) of 24,469 articles have been extended.
+24,469 (100.0%) of 24,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### ඉදිරි සතිය ගැන සැලකිලිමත් වන්න!
+### Sajith bars Daily Mirror over liquor controversy liquor
+
+*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-bars-Daily-Mirror-over-liquor-controversy-liquor/108-282735) · `en`
+
+May 16 Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
+
+The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
+
+Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
+
+One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
+
+...
+
+[Data](articles/9dbfd2a2.json)
+
+---
+
+### Take care of the next week!
 
 *2024-05-16 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196688) · `si`
 
-ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින "පෙර-මෝසම් කාලගුණික ලක්ෂණ" හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් ඉදිරි දිනවල දී බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect heavy rains and strong winds in Sri Lanka's Central, Mannar, Galle, and Matara districts over the next week, affecting the Western and Sabaragamuwa Provincial Councils. The Department of Meteorology warns of potential damage from storms and advises taking precautions against wind and landing accidents.
 
-ඉදිරි සතියකට වලංගු වන පරිදි "සැලකිලිමත් වන ලෙස" දන්වමින් එම දෙපාර්තමේන්තුව දැනුම් දී ඇත්තේ දිවයිනේ නිරිත දිග ප්‍රදේශවල විශේෂයෙන්ම බස්නාහිර, සබරගමුව මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල මාතර, සහ මන්නාරම දිස්ත්‍රික්කවලත් තද වැසි සහ තද සුළං ඇතිවිය හැකි බවය.
+🟩
 
-දිවයින වටාවන මුහුදු ප්‍රදේශවලත් (0-10) N (60-90) E මගින් ආවරණය වන මුහුදු ප්‍රදේශවලත් තද සුළං සමගින් තද වැසි පැවතිය හැකි බව සඳහන් වේ.
+The Department of Meteorology says that due to the growing "pre-monsoon 'areas in Sri Lanka and the surrounding sea areas.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් මේ සම්බන්ධයෙන් නිකුත් කරනු ලබන ඉදිරි නිවේදන පිළිබඳව මහජනතාවත්, ධීවර සහ නාවීක ප්‍රජාවත් අවධානයෙන් පසු වන ලෙස දන්වා ඇත.
+The Department has informed heavy rains and strong winds in the Central and Mannar Districts of Galle, Matara, and Mannar Districts, especially in the Western, Sabaragamuwa Provincial Councils, which are valid for the next week.
 
-ගිඟුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+Heavy showers in the sea areas area (0-10) in the island area (0.90) can continue with strong winds.
+
+The Department of Meteorology has informed the public, the fisheries and the Sailous Community on the announcements issued in this regard.
+
+The people have been asked to take necessary steps to reduce the damages caused by temporary strong winds and landing accidents.
 
 ◼️
 
 [Data](articles/c42b46a3.json)
+
+[Extended Data](ext_articles/c42b46a3.ext.json)
 
 ---
 
@@ -103,6 +127,24 @@ Indian High Commissioner Sanantha Raman, Sri Lanka
 [Data](articles/06019ca8.json)
 
 [Extended Data](ext_articles/06019ca8.ext.json)
+
+---
+
+### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வு ஜூலையில்...
+
+*2024-05-16 16:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-மனிதப்புதைகுழி-அகழ்வு-ஜூலையில்/175-337433) · `ta`
+
+முல்லைத்தீவு மாவட்ட நீதிமன்றில் கொக்குத்தொடுவாய் மனிதப்புதைகுழி தொடர்பான வழக்கு வியாழக்கிழமை  (16)  விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
+
+இந் நிலையில் முல்லைத்தீவு மாவட்டசெயலகம் அகழ்வாய்வுகளுக்குரிய நிதி ஒதுக்கீடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தெரிவித்துள்ள நிலையிலேயே, குறித்த மனிதப்புதைகுழி அகழ்வாய்வுப்பணிகளை மீள ஆரம்பிக்க முடிவெடுக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் மேலும் தெரியவருகையில், கடந்த 2023ஆம் ஆண்டு ஜூன்மாதம் 29ஆம் திகதியன்று, முல்லைத்தீவு கொக்குத்தொடுவாய் பகுதியில் தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபையினர் நீர் இணைப்பினைப் பொருத்துவதற்காக, கனரக இயந்திரத்தின் மூலம் நிலத்தினை ஆகழ்ந்தபோது மனிதப் புதைகுழியொன்று இனங்காணப்பட்டிருந்தது.
+
+இதனையடுத்து முல்லைத்தீவு நீதிமன்றம், முல்லைத்தீவு சட்டவைத்திய அதிகாரி ஆகியோரின் கண்காணிப்பு மற்றும் பங்குபற்றுதல்களுடன், தொல்லியல் துறைப் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான குழுவினரால் இவ்வாறு இனங்காணப்பட்ட மனிதப்புதைகுழி இரண்டு கட்டங்களாக அகழ்வாய்வு மேற்கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/a8c95746.json)
 
 ---
 
@@ -674,23 +716,33 @@ Meanwhile, Minister of State Shehan Semasinghe said that the President said that
 
 ---
 
-### විදුබිම වැනසු සාපෙළ සිසුන්ට පොලිසියෙන් පාඩමක්
+### Police a lesson for tribute to school
 
 *2024-05-16 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුබිම-වැනසු-සාපෙළ-සිසුන්ට-පොලිසියෙන්-පාඩමක්/11-409675) · `si`
 
-ආණමඩුව කන්නන්ගර ආදර්ශ විද්‍යාලයෙ අපොස සාපෙල විභාග මධ්‍යස්ථානයෙ විභාගයට පෙනි සිටි  සිසුන් පිරිසක් පාසල් භුමියෙ දේපොල වනසා ඇති තිබෙන බව ආණමඩුව පොලිසිය පවසයි.
+In Anamaduwa, police investigated a case where students from Kannangara Model School disrupted the testing center. The principal reported this incident, leading to disciplinary actions against the students involved. Despite this, over 220 students from the same school successfully took part in the GCE Ordinary Level exam.
 
-පාසල් භුමියෙ මල් පොච්චි කුඩුකර කෙසෙල් ගස් ගලවා දමා තවත් මල් පොච්චි වලින් තහඩු වහල වලට හානි කිරීම ඇතුළු දෑ මෙවර සාමාන්‍ය පෙළ විභාගයට ඉදිරිපත් වු කන්නන්ගර ආදර්ශ විද්‍යාලයෙ සිසුන් පිරිසක් විසින් සිදු කර ඇති බව පොලිස් පරික්ෂණ වලදි තහවුරු වී ඇති බව කියයි.
+🟩
 
-අදාල සිසුන් පිරිස ඉතා පහත් ලෙස මෙලෙස පාසල් භුමියෙ දෑ වනසා තිබෙන බවත් එම සිසුන් විසින් කල ක්‍රියාව අනිකුත් සිසුන් විසින් විදුහල්පතිවරයාට දන්වා තිබේ.
+Anamaduwa police say that students who have seen a group of students who sat at the Anama Kannangara Model Center have had a group of students who were looking for the Testing Center.
 
-ඉන් පසුව අදාල හානි කල සිසුන් පිරිස හදුනා ගෙන පොලිසියට පැමිනිලි කිරීමට විදුහල්පති විමල් විජයරත්න මහතා කටයුතු කර තිබේ.
+The police investigations have confirmed that the Kannangara Model School students have been conducted by another Galadam roofs from another flower powder.
 
-මෙසේ පාසල් භුමියෙ සම්පත් වැනසු සිසුන් පිරිස හා ඔවුන්ගේ මව්පියන් ආණමඩුව  පොලිසියට කැදවා සිසුන් කර ඇති මෙම විනාශයට අදාල සියල්ලම නැවත තිබු ලෙසම සකසන ලෙසට දැඩි අවවාදයක් කිරීමට කටයුතු කර ඇති බව කියයි.
+The group has informed the principal by the other students who were inferior to the school premises.
 
-...
+Principal Wijayaratne has taken steps to complain to the police and complained to the police.
+
+It is said that the number of students and their parents who have been called to the Anamaduwa Police and their parents who have been called to the Anamaduwa Police have been admonished.
+
+However, nearly 220 students from Kannangara Vidyalaya have joined the GCE Ordinary Level examination.
+
+According to other students and parents, the students have been reduced to the name of Kannangara Vidyalaya.
+
+◼️
 
 [Data](articles/38a15de4.json)
+
+[Extended Data](ext_articles/38a15de4.ext.json)
 
 ---
 
@@ -2287,45 +2339,5 @@ A 16 -year -old girl who was injured in the accident and was treated at the Badu
 [Data](articles/3b18c542.json)
 
 [Extended Data](ext_articles/3b18c542.ext.json)
-
----
-
-### Sri Lanka appoints special panel to provide state lands to military ahead of polls
-
-*2024-05-16 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-special-panel-to-provide-state-lands-to-military-ahead-of-polls-163273/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed a special committee to provide state-owned lands to military, State Defence Minister Premitha Bandara Tennakoon said, ahead of the country declaring the Presidential polls.
-
-The presidential election date is expected to be declared after July 17, but the Election Commission has already declared that the polls will be held between September 17 and October 16.
-
-President Ranil Wickremesinghe, who is also the country’s Defence Minister, is expected to contest under an independent coalition with the support of most parties backing him in the current government, his close allies have said.
-
-Wickremesinghe has launched a national programme to grant unconditional freehold ownership of lands allocated to farmers and low-income earners, titled “Urumaya”.
-
-Granting of “Urumaya” freehold deeds is expected to enhance land value, preserve heritage, and strengthen family economies.
-
-...
-
-[Data](articles/060d1868.json)
-
-[Extended Data](ext_articles/060d1868.ext.json)
-
----
-
-### Four arrested for attempted abduction of schoolgirl in Aladeniya
-
-*2024-05-16 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99244/four-arrested-for-attempted-abduction-of-schoolgirl-in-aladeniya) · `en`
-
-Four youths have been arrested on suspicion of attempting to abduct a 16-year-old schoolgirl who was on her way home after sitting for the G.C.E. Ordinary Level examination.
-
-Following information received from a three-wheeler driver via the ‘119’ police emergency hotline regarding the abduction, Aladeniya Police had acted immediately and reportedly apprehended the suspects along with the van in question within an hour.
-
-According to police, one of the arrested suspects had been involved in a relationship with the teenage girl, despite him already being married. The suspect, a former army soldier from Avissawella, and his friends had hired a van to carry out the abduction, police said.
-
-...
-
-[Data](articles/10420731.json)
-
-[Extended Data](ext_articles/10420731.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-16 22:05:28**
+As of **2024-05-16 22:18:17**
 
 ## Newspaper Stats
 
-*Scraped **24,526** Articles*
+*Scraped **24,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 2,839
 tamilmirrorlk | 2,883
 virakesarilk | 3,691
 dailymirrorlk | 3,848
-adaderanasinhalalk | 3,913
+adaderanasinhalalk | 3,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,523 (100.0%) of 24,526 articles have been extended.
+24,526 (100.0%) of 24,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-16 (Thursday)
 
-### O/L பரீட்சையில் 14 மாணவர்களுக்கு நடந்த கொடுமை
+### සා/පෙළ අසාධාරණවලට එරෙහිව මානව හිමිකම් කොමිසමට පැමිණිලි
+
+*2024-05-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196699) · `si`
+
+මෙවර සාමාන්‍ය පෙළ විභාගයේ වත්තල ශාන්ත අන්තෝනී විද්‍යාලයේ විභාග ශාලාවකදී විශේෂ අවශ්‍යතා සහිත දරුවෙකුට තම ප්‍රශ්න පත්‍රය අයෙකු ලවා කියවා ලබාදෙන පිළිතුර ලිවීමට අවසර ලබාදී තිබියදී ඉංග්‍රීසි ප්‍රශ්න පත්‍රය දෙවැනි කොටස සඳහා එම පහසුකම අවහිර කළ බවට චෝදනා කරමින් අද (16) මානව හිමිකම් කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කෙරුණි.
+
+එමෙන්ම, කොල්ලුපිටිය මෙතෝදිස්ත විද්‍යාලයේ විභාග ශාලාවකදී ද විශේෂ අවශ්‍යතා සහිත දැරියකට එම පහසුකම යටතේ විෂයයන් 4කට පෙනීසිටීමට විශේෂඥ මනෝ වෛද්‍යවරයෙකුගේ නිර්දේශ ලැබී තිබුණි.
+
+ඒ අනුව විදුහල්පතිනිය කර තිබූ ඉල්ලීමට අනුව නියෝජ්‍ය විභාග කොමසාරිස්වරයා විසින් විභාග ශාලාධිපතිවරයාට අදාළ සහනයන් ඇතුළත් ලිපියක්ද යොමුකර තිබුණි.
+
+කෙසේවෙතත්, එම දැරියට ද ප්‍රශ්න පත්‍ර හතරටම එම පහසුකම් යටතේ පෙනීසිටීමට විභාග පරීක්ෂකවරු අවස්ථාව ලබානොදුන් බවට චෝදනා කරමින් ඇයගේ මව්පියන් අද මානව හිමිකම් කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/96c14130.json)
+
+---
+
+### O/L examination for 14 students
 
 *2024-05-16 21:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-14-மாணவர்களுக்கு-நடந்த-கொடுமை/175-337443) · `ta`
 
-கல்விப் பொதுத்தராதர சாதாரணத் தரப் பரீட்சையில் பல மோசடிகள் இடம்பெற்றுள்ளதாக இலங்கை  மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு அளிக்கப்பட்டுள்ளது.
+The Human Rights Commission of Sri Lanka filed a complaint about alleged fraud in the GCE Ordinary Level Examination, accusing 14 students from Alhman Muslim Maha Vidyalaya of missing initial questionnaires and maps, and lacking required exam materials. The complaint follows reports of irregularities and potential fraud in the examination process.
 
-அதன்படி,  மினுவங்கொடை கல்வி வலயத்தின் அல்ஹமான் முஸ்லிம் மகா வித்தியாலத்தில் தமிழ் மொழி மூல பரீட்சையில் தோற்றிய 14 மாணவர்களுக்கு புவியியல் பாடத்தின் முதலாவது வினாத்தாள் மற்றும் வரைப்பட பகுதி பெற்றுக் கொடுக்கப்படவில்லை என குற்றம் சாட்டப்பட்டுள்ளது.
+🟩
 
-அதேபோல், இரணடு விசேட தேவையுடைய மாணவர்களுக்கும் பரீட்சை மேற்பார்வையாளர்களால் இடையூறு ஏற்படுத்தப்பட்டதாகவும் முறைப்பாட்டாளர்கள் குற்றம் சாட்டியுள்ளனர்.
+The Human Rights Commission of Sri Lanka has lodged a complaint with the Human Rights Commission that there were many frauds in the GCE Ordinary Level Examination.
 
-நேற்று நிறைவடைந்த சாதாரண தரப் பரீட்சையில் பிழைகள் காணப்பட்டதாகவும் மற்றும் பரீடசை நிலையங்கள் சிலவற்றில் மோசடிகள் இடம்பெற்றதாகவும் தொடர்ந்து குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது. R
+Accordingly, 14 students who have appeared in the Tamil Language Examination at the Alhman Muslim Maha Vidyalaya of the Minuwangoda Education Zone have been accused of not being given the first questionnaire and map of the geography.
+
+Similarly, the complainants have also accused the students of Iranku special needed by the exam supervisors.
+
+It is noteworthy that allegations have been made that there were errors at the GCE Ordinary Level Examination yesterday and some of the examinations were fraudulent.. Remble
 
 ◼️
 
 [Data](articles/ab64bbd6.json)
+
+[Extended Data](ext_articles/ab64bbd6.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ India has also extended a grant assistance of USD 63.65 million -- the entire pr
 ...
 
 [Data](articles/fe0e4ed8.json)
+
+[Extended Data](ext_articles/fe0e4ed8.ext.json)
 
 ---
 
@@ -256,19 +282,27 @@ The Minister has urged that government employees will be given a re -pay hike ne
 
 ---
 
-### රුසියානු යුද්ධයට ගිය ලාංකිකයන් ගැන හොයන්න විශේෂිත දූත පිරිසක් රුසියාවට
+### A special delegation to Russia to look into Sri Lankans who went to Russian war
 
 *2024-05-16 19:17:13* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-යුද්ධයට-ගිය-ලාංකිකයන්-ගැන-හොයන්න-විශේෂිත-දූත-පිරිසක්-රුසියාවට/11-409687) · `si`
 
-රුසියානු – යුක්‍රේන යුද්ධයට මැදි වී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් සොයා බැලීමට විශේෂිත දූත පිරිසක් රුසියාව බලා පිටත් කර යවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දුන් බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+Sri Lanka's President Ranil Wickremesinghe has ordered an investigation into Sri Lankans involved in the Russian-Ukrainian conflict. A delegation from the Ministries of Defense and External Affairs will travel to Russia to conduct a census and address concerns about individuals reportedly deceived into going there under false pretenses, such as offers of Russian citizenship. The government aims to protect its citizens and ensure their safe return.
 
-ඒ අනුව ආරක්ෂක අමාත්‍යාංශයේ ලේකම්, රුසියාවේ හිටපු තානාපති සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන්ගෙන් සමන්විත දූත පිරිසක් කඩිනමින් රුසියාව බලා පිටත් කෙරෙන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (16) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of External Affairs Tharaka Balasuriya said President Ranil Wickremesinghe has instructed to investigate Sri Lankans who are in the Russian-Ukrainian war.
+
+Accordingly, the Defense Secretary, the Secretary of the Ministry of Defense and the Ministry of External Affairs will leave for Russia soon.
+
+State Minister of State Minister spoke this commented at a press conference held at the Presidential Media Center today (16).
+
+The Ministry of External Affairs and the Ministry of Defense are doing a census in relation to Sri Lankans who are in Russian - Ukrainian war. It has been revealed that some Sri Lankans were sent to Russia by tourist visa.. Also, a large number of them are retired soldiers representing the Armed Forces. One of the main problems we have here is that how much is to go to Russia. According to unofficial sources, 600-800 have been reported to be in Russia. Sometimes that size may be less or more.
 
 ...
 
 [Data](articles/baf7c013.json)
+
+[Extended Data](ext_articles/baf7c013.ext.json)
 
 ---
 
@@ -2351,23 +2385,5 @@ The US $ 297.3178 was reported at Rs.
 [Data](articles/5836a757.json)
 
 [Extended Data](ext_articles/5836a757.ext.json)
-
----
-
-### The owner of Sri Lankans arrested for the Russian military service
-
-*2024-05-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196675) · `si`
-
-Owner and manager of a Sri Lankan company were arrested for allegedly providing services to the Russian military through a licensed foreign employment agency.
-
-🟩
-
-The owner and its manager have been arrested in a licensed foreign employment agency posed for the Russian army service.
-
-◼️
-
-[Data](articles/ce372e14.json)
-
-[Extended Data](ext_articles/ce372e14.ext.json)
 
 ---

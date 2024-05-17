@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 20:52:37**
+As of **2024-05-17 21:03:32**
 
 ## Newspaper Stats
 
-*Scraped **24,702** Articles*
+*Scraped **24,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
-adalk | 2,114
+adalk | 2,115
 adaderanalk | 2,863
-tamilmirrorlk | 2,897
+tamilmirrorlk | 2,898
 virakesarilk | 3,724
-dailymirrorlk | 3,874
+dailymirrorlk | 3,877
 adaderanasinhalalk | 3,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,702 (100.0%) of 24,702 articles have been extended.
+24,702 (100.0%) of 24,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### 'Mehta Toss Rule' for Indian Premier League Playoffs
+
+*2024-05-17 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mehta-Toss-Rule-for-Indian-Premier-League-Playoffs/108-282833) · `en`
+
+(Daily Mirror) - Dr. Rabindra D. Mehta, an India-origin Sports Aerodynamics Consultant, who, in 1980 used to open the bowling with Imran Khan for the Royal Grammar School in Worcester, and who has researched extensively on swing bowling, has been following the IPL from the USA, where he is now based at.
+
+When the Indian cricket board is considering abolishing the tossing of the coin in local matches, the scientist has expressed his views on how the coin would be advantageous to the well-deserving higher ranking teams only.
+
+"As we approach the end of the regular IPL season, all the teams in contention are vying for the first two spots (seed 1 and seed 2), and for good reason, since they get “two bites at the cherry”! However, what is the advantage of finishing first (as opposed to second)? NONE!! And, for that matter, there is no advantage in finishing third as opposed to fourth."
+
+...
+
+[Data](articles/26993d72.json)
+
+---
+
+### Election Commission urges prompt action on LG polls
+
+*2024-05-17 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-urges-prompt-action-on-LG-polls/108-282828) · `en`
+
+Colombo, May 17 (Daily Mirror) -  In a bid to resolve ongoing electoral issues and ensure the smooth functioning of local governance, the Election Commission has urged the government to hold the Local Government elections as early as possible.
+
+This was discussed and conveyed in a recent meeting held between election commission officials and Prime Minister Dinesh Gunawardena.
+
+During the meeting, the Election Commission also presented the Prime Minister with options for the upcoming Provincial Council elections.
+
+Speaking to Daily Mirror, Election Commission Chairman R.M.A.L. Rathnayake highlighted that these elections could be held under either the existing system or a newly demarcated system, providing flexibility to accommodate various logistical and administrative considerations.
+
+The discussion also focused on the hurdles impeding the Provincial Council elections.
+
+...
+
+[Data](articles/25dc8e11.json)
+
+---
+
+### எல்ல - வெல்லவாய பிரதான வீதிக்கு பூட்டு
+
+*2024-05-17 20:23:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-பிரதான-வீதிக்கு-பூட்டு/175-337460) · `ta`
+
+எல்ல - வெல்லவாய பிரதான வீதி இன்று இரவு 8 மணி முதல் நாளை காலை 6 மணி வரை போக்குவரத்துக்கு மூடப்படவுள்ளதாக அறிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/91e74033.json)
+
+---
+
+### Ella-Wellawaya road closed again
+
+*2024-05-17 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ella-Wellawaya-road-closed-again/108-282831) · `en`
+
+Colombo, May 17 (Daily Mirror) - In light of the ongoing adverse weather conditions, authorities have announced the temporary closure of the Ella-Wellawaya main road, effective from 8:00 p.m. today till 6:00 a.m. tomorrow (18).
+
+Hence, motorists are urged to seek alternate routes during this period to ensure their safety.
+
+This decision comes as a precautionary measure due to the hazardous state of the road.
+
+◼️
+
+[Data](articles/ce8eb629.json)
+
+---
 
 ### A controversial statement from the Commissioner of Examinations regarding the GCE O / L
 
@@ -399,6 +463,24 @@ Further, an adjournment Bill put forth by the opposition will be deliberated on 
 [Data](articles/77408c78.json)
 
 [Extended Data](ext_articles/77408c78.ext.json)
+
+---
+
+### පුලියක තිබූ කෝටි 10ක අයිස් අල්ලයි
+
+*2024-05-17 17:55:23* · [`adalk`](https://www.ada.lk/breaking_news/පුලියක-තිබූ-කෝටි-10ක-අයිස්-අල්ලයි/11-409698) · `si`
+
+රුපියල් කෝටි දහයක ආසන්න  වටිනාකමක් සහිත මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් , පුලියක සගවා  ලතින් ඇමෙරිකාවේ ගෝතමාළා රාජ්‍යයේ සිට කටුනායක , සීදුව කළම්බු කාර්ගෝ බන්ධිත ගුදම් ගබඩා සංකීර්ණය  වෙත කූරියර් පාර්සල් සේවය ඔස්සේ ගුවන් තැපැල් මගින්  එවා තිබියදී 05/17 පස්වරුවේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මෙම මත්ද්‍රව්‍ය තොගය පොළොන්නරුව ජයන්තිපුර ප්‍රදේශයේ 25 හැවිරිදි ගොවියෙකුගේ ලිපිනයට එවා තිබූ අතර , ඔහු මෙම " පුලිය " සහිත ඇසුරුම භාර ගැනීමට සීදුව බන්ධිත ගුදම් සංකීර්ණය වෙත පැමිණ සිටියදී , ඔහු ඉදිරිපිට මෙම ඇසුරුම ගලවා පරීක්ෂා කිරීමෙන් පසු , ඔහු  රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මෙම " පුලිය " තුළ කිලෝ ග්‍රෑම් 03 යි ග්‍රෑම් 101 ක් බරැති මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් සගවා තිබුණි .
+
+මෙසේ අත් අඩංගුවට ගත් මෙතැම්පටමයින් තොගය සහ ඒවා භාර ගැනීමට පැමිණි තරුණයා මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබේ .
+
+◼️
+
+[Data](articles/06244dbc.json)
 
 ---
 
@@ -2219,117 +2301,5 @@ In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh F
 [Data](articles/4fcdf71b.json)
 
 [Extended Data](ext_articles/4fcdf71b.ext.json)
-
----
-
-### One person killed in train
-
-*2024-05-17 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183744) · `ta`
-
-A fatal train accident occurred on Thursday evening near the Nube railway crossing in Matara, resulting in one fatality.
-
-🟩
-
-The accident took place on Thursday evening (16) near the Nube railway crossing of Matara.
-
-◼️
-
-[Data](articles/d1f70cdd.json)
-
-[Extended Data](ext_articles/d1f70cdd.ext.json)
-
----
-
-### Warm-up fixtures announced for the ICC Men’s T20 World Cup 2024
-
-*2024-05-17 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Warm-up-fixtures-announced-for-the-ICC-Mens-T20-World-Cup-2024/108-282799) · `en`
-
-ICC - The ICC Men’s T20 World Cup 2024 warm-up match fixtures have been announced, scheduled from Monday, 27 May to Saturday, 1 June across the USA and Trinidad and Tobago.
-
-The venues hosting the 16 warm-up matches ahead of the ICC Men's T20 World Cup 2024 include Grand Prairie Cricket Stadium in Texas, Broward County Stadium in Florida, Queen’s Park Oval and Brian Lara Cricket Academy in Trinidad and Tobago.
-
-A total of 17 teams play the warm-up games, including South Africa, who are playing an intra-squad on the 29th in Florida.
-
-These warm-up fixtures will be 20 overs per side and will not have international T20 status, allowing teams to field all members of their 15-player squad.
-
-In a departure from the previous cycle, teams can now choose to play up to two warm-up matches, depending on their arrival time at the event.
-
-...
-
-[Data](articles/f82b19aa.json)
-
-[Extended Data](ext_articles/f82b19aa.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 299.90/300.10 to US dollar
-
-*2024-05-17 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-90-300-10-to-us-dollar-163435/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.90/300.10 to the US dollar on Friday, from 300.70/90 the previous day, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted flat at 10.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 10.20/40 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 10.55/65 percent 10.55/70 percent.
-
-A bond maturing on 15.05.2030 was quoted flat at 11.55/70 percent.
-
-A bond maturing on 01.10.2032 was quoted up at 11.80/90 percent from 11.75/95 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 percent at 12,274, the S&P SL20 was marginally down at 3,633. (Colombo/May17/2024)
-
-◼️
-
-[Data](articles/aa35a28d.json)
-
-[Extended Data](ext_articles/aa35a28d.ext.json)
-
----
-
-### Tomorrow May 18 ... Memorial in Vavuniya
-
-*2024-05-17 09:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாளை-மே-18-வவுனியாவில்-நினைவேந்தல்/72-337450) · `ta`
-
-A memorial event for war victims, organized by various groups, will take place at Vavuniya Municipal Council Hall on May 18 at 5 pm. Public and religious leaders are expected to attend.
-
-🟩
-
-The commemoration event for the victims of the war will be held at the Vavuniya Municipal Council Hall tomorrow (18) at 5 pm.
-
-The event was organized by the Vanni People's Union, the Vanni District Missing Association, the Best Sri Lanka Forum, the Association of the Disappeared Children, the World Tamil Council and the Dharmasakthi Union.
-
-It is noteworthy that the public, including the religious leaders, will attend the event.. Remble
-
-◼️
-
-[Data](articles/9fb2fe0c.json)
-
-[Extended Data](ext_articles/9fb2fe0c.ext.json)
-
----
-
-### Sri Lankan women's team opposes West Indies women's team in two series
-
-*2024-05-17 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183741) · `ta`
-
-The Sri Lankan women's cricket team, set for the ICC Women's T20 World Cup, faces the West Indies in two limited-overs series: an ODI series followed by a T20 series. This serves as a test before competing in the Women's T20 Asian Cup and a T20 series against Ireland.
-
-🟩
-
-The Sri Lankan women's team, which is qualified for the upcoming ICC Women's T20 World Cup in Bangladesh, will oppose the West Indies women's team in two -limited overs.
-
-The women's international ODI series will be held first between the two teams.
-
-The series will be a series of Testing for both teams for the R20 World Cup.
-
-Following this, the women will play in the women's R20 Asian Cup cricket match and the T20 cricket series against Ireland.
-
-◼️
-
-[Data](articles/d4e4a94d.json)
-
-[Extended Data](ext_articles/d4e4a94d.ext.json)
 
 ---

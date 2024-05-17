@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 22:18:25**
+As of **2024-05-17 22:33:36**
 
 ## Newspaper Stats
 
-*Scraped **24,714** Articles*
+*Scraped **24,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,38 @@ bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
-economynextcom | 1,416
+economynextcom | 1,425
 dailyftlk | 1,450
 adalk | 2,115
 adaderanalk | 2,864
 tamilmirrorlk | 2,899
 virakesarilk | 3,724
 dailymirrorlk | 3,880
-adaderanasinhalalk | 3,948
+adaderanasinhalalk | 3,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,714 (100.0%) of 24,714 articles have been extended.
+24,714 (100.0%) of 24,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### දෙහිවල බිහිසුණු අනතුරක්
+
+*2024-05-17 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196738) · `si`
+
+දෙහිවල මුහුදු මාර්ගයේ අද (17) රාත්‍රී 7ට පමණ රිය අනතුරක් සිදුව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, කොළඹ සිට දෙහිවල බලා ධාවනය වෙමින් තිබූ මෝටර් රථයක් වේගය පාලනය කර ගත නොහැකිව මාර්ගයෙන් විරුද්ධ දෙස නවතා තිබූ ත්‍රීරෝද රථ දෙකක සහ මෝටර් රථයක මෙන්ම කැබ් රථයකත් ගැටී අනතුර සිදුව ඇති බවය.
+
+◼️
+
+[Data](articles/d4dadeb0.json)
+
+---
 
 ### High Court summoned Gotabhaya Rajapaksa
 
@@ -450,6 +464,24 @@ Police said a group of five police officers were on their way to Anuradhapura on
 
 ---
 
+### India, China interested in Sri Lanka’s Climate Change University; BC ready to bring UK universities
+
+*2024-05-17 18:43:00* · [`economynextcom`](https://economynext.com/india-china-interested-in-sri-lankas-climate-change-university-bc-ready-to-bring-uk-universities-163501/) · `en`
+
+ECONOMYNEXT – India and China have shown huge interest in International Climate Change University in Sri Lanka with an aim to promote climate related research and technologies while British Council has pledged to help bring in universities for academic activities, a climate change advisor said.
+
+Sri Lanka President Ranil Wickremesinghe launched his ambitious International Climate Change University at the 2023 United Nations Climate Change Conference (COP28) in Dubai.
+
+The International Climate Change University was one of the proposals Wickremesinghe made in the previous Climate Change Conference (COP27) in Egypt in 2022 and his government has already allocated 600 acres of land in the central Nuwara Eliya district.
+
+“There is a lot of interest on the university from India and China,” Ruwan Wijewardena, the senior advisor to president Wickremesinghe on Climate change told Economy Next in an interview.
+
+...
+
+[Data](articles/24879039.json)
+
+---
+
 ### Crew of 20 Indians, Sri Lankan stuck on crippled ship in Baltimore for 7 weeks, can’t pay bills
 
 *2024-05-17 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99286/crew-of-20-indians-sri-lankan-stuck-on-crippled-ship-in-baltimore-for-7-weeks-cant-pay-bills) · `en`
@@ -688,6 +720,24 @@ The Department of Meteorology urges the public to take steps to reduce the tempo
 
 ---
 
+### Supreme Global says ropes in Malaysia’s MMAG for SriLankan Airlines bid
+
+*2024-05-17 17:30:00* · [`economynextcom`](https://economynext.com/supreme-global-says-ropes-in-malaysias-mmag-for-srilankan-airlines-bid-163484/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Global says it has roped in Malaysia’s MMAG Aviation Consortium Sdn Bhd (MAC), which has interests in air cargo, for its bid to buy state-run SriLankan Airlines.
+
+“Supreme Global has identified MAC as the ideal partner to guide and support this acquisition, based on MAC’s expertise and recent contracts secured from major carriers like MasKargo and Teleport by AirAsia,” the company said in a statement.
+
+Under the terms of the agreement, MAC will provide freighter aircraft and operational support to establish a cargo feeder network for SriLankan Airlines if Supreme Global and its partners win the bid.
+
+Supreme Global was pre-qualified to conduct due diligence and eventually bid for SriLankan Airlines by Sri Lanka’s State Owned Enterprises Restructuring Unit.
+
+...
+
+[Data](articles/4c66b533.json)
+
+---
+
 ### Welgama to see Mahinda
 
 *2024-05-17 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196728) · `si`
@@ -765,6 +815,28 @@ The President made this announcement while observing the first AI -driven greenh
 [Data](articles/322f3793.json)
 
 [Extended Data](ext_articles/322f3793.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 299.70/80 to US dollar
+
+*2024-05-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-70-80-to-us-dollar-163495/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.70/80 to the US dollar on Friday, from 300.70/90 the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.09.2027 closed up at 10.25/40 percent from 10.20/40 percent.
+
+A bond maturing on 15.03.2028 closed up at 10.65/70 percent 10.55/70 percent.
+
+A bond maturing on 15.09.2029 closed up at 10.90/11.40 percent from 10.85/11.30 percent.
+
+A bond maturing on 15.05.2030 closed up at 11.60/75 percent from 11.55/70 percent.
+
+A bond maturing on 01.10.2032 closed up at 11.85/12.00 percent from 11.75/95 percent. (Colombo/May17/2024)
+
+◼️
+
+[Data](articles/159f796a.json)
 
 ---
 
@@ -859,6 +931,32 @@ Subsequently, the owner of the package had been bought from the police, claiming
 [Data](articles/91f38173.json)
 
 [Extended Data](ext_articles/91f38173.ext.json)
+
+---
+
+### Sri Lanka stocks close down, banks steady
+
+*2024-05-17 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-steady-163491/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.49 percent, or 60.43 points, at 12,319; while the S&P SL20 Index closed up 0.10 percent, or 3.76 points, at 3,637.
+
+Turnover was 1.2 billion. The banks and materials sectors brought in the most revenue.
+
+Dipped Products Plc saw investor interest (Rs115mn) and the share closed up at 33.50.
+
+Janashakthi Insurance Plc saw the most active trade volumes, the share closed down at 53.00.
+
+Banking shares were mostly up, with the exception of Commercial Bank of Ceylon Plc (down at 113.00) and Union Bank of Colombo Plc (down at 10.00).
+
+Hatton National Bank Plc closed flat at 195.00, National Development Bank Plc closed up at 79.00, Sampath Bank Plc closed up at 77.90, DFCC Bank Plc closed up at 80.50.
+
+Top contributors to the index in the day were C T Holdings Plc (up at 277.00), John Keells Holdings Plc (up at 205.25), and Lion Brewery (Ceylon) Plc (up at 1,166.25).
+
+...
+
+[Data](articles/d80a2fef.json)
 
 ---
 
@@ -1022,6 +1120,24 @@ It is said that the Porter who was assassinated has not been reported so far.
 
 ---
 
+### Sri Lanka fresh water fishermen protest floating solar plant in Chandrika tank
+
+*2024-05-17 15:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-fresh-water-fishermen-protest-floating-solar-plant-in-chandrika-tank-163472/) · `en`
+
+ECONOMYNEXT – Sri Lanka farmers and fresh water fishermen had complained to the island’s human rights commission against a plant to set up a floating solar plant in Chadrika Wewa (reservoir) and Kiriibbanara Lake at Embilipitiya.
+
+Floating solar plants, depending on how much of the area it covers, can reduce sunlight and plant growth in waterbodies, reducing food for fish and other organisms.
+
+“We urge the authorities to consider these risks and explore alternative locations or methods for the solar power project that would not compromise the health and livelihoods of the local communities,” Monlar Media, a civil society organization that promotes farmer rights said.
+
+The coalition of organizations, including the Walawa Farmers Rights Protection Organization, said they do not oppose the development of solar power plants in principle, but they have grave concerns about the potential threats to their livelihoods posed by the construction of these plants on the two reservoirs.
+
+...
+
+[Data](articles/fcaa9866.json)
+
+---
+
 ### Social activist goes to the house of Rajiv Gandhi's mother
 
 *2024-05-17 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183793) · `ta`
@@ -1093,6 +1209,22 @@ Meanwhile, the holy water for the Kumbabhishekam of the Sita Eliya Seethayamman 
 [Data](articles/53b66ecb.json)
 
 [Extended Data](ext_articles/53b66ecb.ext.json)
+
+---
+
+### Harsha says Sri Lanka must look to South India for growth, acknowledges president’s successes
+
+*2024-05-17 15:34:00* · [`economynextcom`](https://economynext.com/harsha-says-sri-lanka-must-look-to-south-india-for-growth-acknowledges-presidents-successes-163468/) · `en`
+
+ECONOMYNEXT — Sri Lanka can achieve 10 percent growth in 10 years if it dismantles the walls around its economy and starts building bridges instead, particularly to rapidly growing neighbouring regions like South India, opposition MP Harsha de Silva said, also acknowledging that President Ranil Wickremesinge has made some difficult achievements.
+
+“Can we bring 10 percent growth in 10 years? Yes, we can. How we do it is the question. What would be the programme? Break down the walls surrounding the country and build bridges. That’s number one. Nothing can be done without it,” the MP said at a press conference on Wednesday May 15.
+
+The main opposition Samagi Jana Balawegaya (SJB) legislator said South India is a notable example.
+
+...
+
+[Data](articles/0a030eac.json)
 
 ---
 
@@ -1347,6 +1479,26 @@ The US Ambassador nominee to Sri Lanka, Elizabeth K. Horst, said that if confirm
 [Data](articles/12b9d509.json)
 
 [Extended Data](ext_articles/12b9d509.ext.json)
+
+---
+
+### Sri Lanka consumers lack awareness, laws alone not enough: CAA
+
+*2024-05-17 15:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumers-lack-awareness-laws-alone-not-enough-caa-163452/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s consumers should be more aware and vigilant when purchasing goods through online platforms and e-marketing methods, the Consumer Affairs Authority has said.
+
+“There can be any number of laws in the country but it will be useless if consumers aren’t aware of the legal recourse,” Janaka Prasad, Assistant Director of the Consumer Affairs Authority said.
+
+The methods of consumers purchasing goods and services have evolving faster than a country can enact laws, Prasad told reporters Friday, adding that this was a global challenge.
+
+“The consumer plays and important role in navigating a fast evolving marketplace.”
+
+“We have a literacy rate of 90-95 percent, but this is not enough. The ability to read is not sufficient. Consumers have to be able to comprehend. That cognizance is lacking in Sri Lankan consumers when you compare with the rest of the world.”
+
+...
+
+[Data](articles/7a1de479.json)
 
 ---
 
@@ -1691,6 +1843,28 @@ It calls on the Government to acknowledge the involvement of state security forc
 [Data](articles/f08b9023.json)
 
 [Extended Data](ext_articles/f08b9023.ext.json)
+
+---
+
+### Sri Lanka state minister of finance says he received threatening phone call
+
+*2024-05-17 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-of-finance-says-he-received-threatening-phone-call-163456/) · `en`
+
+ECONOMYNEXT — Finance Ministry officials have lodged a complaint with the Fort police about a threatening phone call received at the office of State Minister of Finance Shehan Semasinghe, the state minister said.
+
+Semasinghe told reporters that certain groups may be attempting to jeopardise the government’s ongoing economic reforms.
+
+According to Semasinghe, the caller had said they possessed weapons and had also intimated that, failing to use a weapon, there would be a “burning of some sort”.
+
+We saw in the recent past how certain ideas were expressed that could spread violence,” said Semasinghe.
+
+The state minister also claimed that certain groups were trying to portray Sri Lanka’s ongoing reforms in a negative light.
+
+“Many groups are trying to send out a negative message about the stability in the country. Nobody believed that the economy would strengthened this way under the programme carried out by the president and the government,” he said.
+
+...
+
+[Data](articles/c139f2da.json)
 
 ---
 
@@ -2095,217 +2269,5 @@ Sachithra Senanayake has released on bail by the courts.
 [Data](articles/02b47f7a.json)
 
 [Extended Data](ext_articles/02b47f7a.ext.json)
-
----
-
-### Former Army Commander
-
-*2024-05-17 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183757) · `ta`
-
-Mahesh Senanayake, former Army Commander and Chief of Defense, joins the United People's Power under Opposition Leader Sajith Premadasa, supporting his nation-building project.
-
-🟩
-
-Former Army Commander and Chief of Defense Leader General Mahesh Senanayake joined the United People's Power.
-
-Former Army Commander Mahesh Senanayake has joined the United People's Council to support the project of building the country of Opposition Leader Sajith Premadasa.
-
-Opposition Leader Sajith Premadasa was appointed as the chief of the United Army Power, which was appointed as the chief of the United People's Power.
-
-◼️
-
-[Data](articles/d82ce4ff.json)
-
-[Extended Data](ext_articles/d82ce4ff.ext.json)
-
----
-
-### Former Army Commander General Mahesh Senanayake joins SJB
-
-*2024-05-17 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Army-Commander-General-Mahesh-Senanayake-joins-SJB/108-282804) · `en`
-
-Colombo, May 17 (Daily Mirror)- Former Army Commander General Mahesh Senanayake who  joined the Samagi Jana Balawegaya (SJB) today has been appointed the head of the party's Ranaviru Balakaya.
-
-Ranawiru Balakaya is a group of ex-military men who support the SJB.
-
-He received the appointment from Party Leader  Sajith Premadasa this morning.
-
-◼️
-
-[Data](articles/7ef6a9d1.json)
-
-[Extended Data](ext_articles/7ef6a9d1.ext.json)
-
----
-
-### Sri Lanka opposes Kyrgyzstan in the 3rd place in Central Asian
-
-*2024-05-17 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/183740) · `ta`
-
-In the Central Asia Volleyball Championship, Sri Lanka faces Kyrgyzstan for third place in Islamabad. Sri Lanka previously lost to Turkmenistan but secured its first-ever consecutive win against Iran, marking a significant achievement in international volleyball.
-
-🟩
-
-Sri Lanka will oppose Kyrgyzstan in the 3rd -place match between the six countries in Islamabad.
-
-Following the match, the final match between Pakistan and Turkmenistan will be held.
-
-Sri Lanka lost 3 straight sets against Turkmenistan on Thursday (16) in their last league match.
-
-Turkmenistan, who played efficiently on all three sides, won the basis of 25 - 22, 25 - 19, 25 - 19.
-
-Sri Lanka lost to Kyrgyzstan 2 - 3 in their opening match.In the next match, Sri Lanka fell to Pakistan in 3 straight sets.
-
-However, in the next match, Sri Lanka won three straights and Iran in three straights.
-
-This first victory against Iran is a historic consecutive victory for Sri Lanka in the international arrest.
-
-The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 60th victory in Iran at 15th place in the international sparrow rankings is a great commendation.
-
-◼️
-
-[Data](articles/5b202ddc.json)
-
-[Extended Data](ext_articles/5b202ddc.ext.json)
-
----
-
-### China's cars be afraid of America
-
-*2024-05-17 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196711) · `si`
-
-The U.S. is scrutinizing Chinese car imports due to concerns over data security. Commerce Secretary Gene Rhee has hinted at upcoming legislation aimed at protecting American consumers' data from potential threats posed by Chinese-made vehicles.
-
-🟩
-
-The United States has focused on the most famous care of China's manufactured cars imported to the United States.
-
-Commerce Secretary Geneehimee has said that his department brings legislation within the months of the coming months.
-
-According to Chinese vehicles, the Chinese vehicles may arise in the protection of the data of Americans's data.
-
-◼️
-
-[Data](articles/6f342be8.json)
-
-[Extended Data](ext_articles/6f342be8.ext.json)
-
----
-
-### Ronaldo tops highest-paid athlete list - Forbes
-
-*2024-05-17 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ronaldo-tops-highest-paid-athlete-list-Forbes/108-282803) · `en`
-
-(BBC) - Cristiano Ronaldo has topped the Forbes list of highest-paid athletes for the fourth time in his career, with Jon Rahm moving up to second.
-
-Ronaldo also headed the list last year following his move to Saudi Arabian football club Al Nassr.
-
-Business magazine Forbes says, external the 39-year-old Portugal forward earned $260m (£205m) - up from $136m (£108.7m) - over the past 12 months.
-
-Ronaldo's great rival Lionel Messi has fallen a place to third behind Rahm.
-
-The Spanish golfer has jumped up to second on the back of his switch to the Saudi-funded LIV Golf tour and is reported to have earned $218m (£172m).
-
-Footballers Neymar and Karim Benzema have also entered the top 10 after moves to the Saudi Pro League.
-
-Giannis Antetokounmpo (fifth) joins fellow basketball stars LeBron James (fourth) and Stephen Curry (ninth) on the list, while American football quarterback Lamar Jackson is in 10th spot.
-
-...
-
-[Data](articles/b89b716e.json)
-
-[Extended Data](ext_articles/b89b716e.ext.json)
-
----
-
-### The Jaffna University Medical Faculty to be opened by the President
-
-*2024-05-17 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183751) · `ta`
-
-President Ranil Wickremesinghe will inaugurate the new medical training and research building at Jaffna University during his two-day visit to the Northern Province. The facility, costing Rs. 700 million, includes two large theaters, a small theater, endoscopy and mammography units, fertility clinics, a conference hall, a postgraduate center, and staff rooms. However, its completion was delayed due to increased costs, raising the total expenditure to Rs. 830 million.
-
-🟩
-
-President Ranil Wickremesinghe is to be opened by President Ranil Wickremesinghe in the newly built medical training and research building in Jaffna for the Medical Faculty of the University of Jaffna.
-
-The President will be on a two -day visit to the Northern Province on the 24th and will open the building.
-
-The building has two large theaters, a small theater, endoscopy and mammogram, fertility maintenance, eurotenamic services, auditorium, postgraduate center and medical staff room and teaching facilities.
-
-The building has been constructed at a cost of Rs. 700 million.
-
-Meanwhile, the building of the building has not yet been completed due to the increase in the cost of building and the construction of the building has been estimated to be 130 million.
-
-◼️
-
-[Data](articles/d29cf92c.json)
-
-[Extended Data](ext_articles/d29cf92c.ext.json)
-
----
-
-### Armed forces personnel from Sri Lanka, India, Nepal to embark on Lumbini-Colombo bike expedition
-
-*2024-05-17 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99269/armed-forces-personnel-from-sri-lanka-india-nepal-to-embark-on-lumbini-colombo-bike-expedition) · `en`
-
-Armed Forces personnel from India, Sri Lanka and Nepal will embark on a bike expedition from Lumbini to Colombo, along the Buddha circuit, to strengthen ties and foster goodwill among south Asian nations.
-
-The Heartfulness Bike Expedition will be flagged off from Lumbini, the birthplace of Gautam Buddha, by Nepal’s Prime Minister Pushpa Kamal Dahal on Buddha Jayanti on May 23 and conclude in Colombo on June 16, said Rahul Patil, co-convenor of the Heartfulness Buddha Circuit Ride (HBCR).
-
-Initiated by the Sri Lankan government in collaboration with the governments of Nepal and India, the expedition will have 15 bikers from the Armed Forces of the three countries ride through diverse landscapes and historical landmarks linked to Gautam Buddha.
-
-The expedition will cover seven states and travel aboard an Indian Navy ship from Chennai to Kankesanthurai in Jaffna district of Sri Lanka, from where it will traverse through the island nation to its capital Colombo.
-
-...
-
-[Data](articles/3a6365e4.json)
-
-[Extended Data](ext_articles/3a6365e4.ext.json)
-
----
-
-### Young family girl death in Jaffna - mystery in death!
-
-*2024-05-17 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183752) · `ta`
-
-In Jaffna, a 31-year-old woman named Jensia Sivasuriyan was found dead on Thursday. She lived with her husband and daughter in France but returned home unexpectedly. Her sudden death remains unexplained after an autopsy, prompting further tests in Colombo.
-
-🟩
-
-A young family woman has been recovered on Thursday (16) in Jaffna.
-
-The mother of a child, Jensia Sivasuriyan (age 31), from Kali Temple Road, Dawadi south, died.
-
-The woman's husband and daughter live in France. He left the dinner on Wednesday and went to sleep. He was later recovered from bed on Thursday morning.
-
-A sudden death investigation officer A. Jayapalasingham. The body was recovered and taken to the hospital and an anatomical examination was carried out. However, the cause of death was not detected.
-
-Anatomical samples have been sent to Colombo for experiments. He has been ordered to bury his corpse.
-
-◼️
-
-[Data](articles/c6d04579.json)
-
-[Extended Data](ext_articles/c6d04579.ext.json)
-
----
-
-### 21 Sri Lankan fishermen arrested in India
-
-*2024-05-17 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183756) · `ta`
-
-21 Sri Lankan fishermen from Jaffna-Vadamarachchi were arrested by Tamil Nadu navy for crossing the Indian border with 5 boats, carrying cylinders. They were taken to Karaikal.
-
-🟩
-
-21 fishermen from Jaffna - Vadamarachchi area were arrested by Tamil Nadu navy on Thursday (16) with 5 boats. The 21 arrested were taken to the Karaikal area.
-
-All of them were arrested while they went into the Indian border and were holding a card with cylinders.
-
-◼️
-
-[Data](articles/5272d832.json)
-
-[Extended Data](ext_articles/5272d832.ext.json)
 
 ---

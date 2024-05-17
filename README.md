@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 10:33:57**
+As of **2024-05-17 10:53:51**
 
 ## Newspaper Stats
 
-*Scraped **24,604** Articles*
+*Scraped **24,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,110
-adaderanalk | 2,844
+adaderanalk | 2,845
 tamilmirrorlk | 2,890
 virakesarilk | 3,699
 dailymirrorlk | 3,858
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,604 (100.0%) of 24,604 articles have been extended.
+24,604 (100.0%) of 24,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Colombo HC sentences 9 Pakistani drug traffickers to 10 years in prison
+
+*2024-05-17 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99267/colombo-hc-sentences-9-pakistani-drug-traffickers-to-10-years-in-prison) · `en`
+
+Nine Pakistani nationals, who were arrested on charges of smuggling a large cache of drugs, have been sentenced to 10 years in prison by the Colombo High Court.
+
+During a joint operation carried out by the Police Narcotics Bureau (PNB) and the Sri Lanka Navy on January 01, 2020, the Pakistani nationals were apprehended while transporting 614 kg of ‘Ice’ (Crystal Methamphetamine) and 581 kg and 34 grams of suspected drugs by boat.
+
+The report of the Government Analyst has confirmed that the seized parcels contained over 491 kilograms of ‘Ketamine’ drugs and nearly 472 kilograms of ‘Ice’ (Crystal Methamphetamine).
+
+The accused pleaded guilty to the charges when the case was taken up before the court, and were subsequently sentenced to 10 years in prison, police said.
+
+Furthermore, the police mentioned that measures are underway to extradite the suspects to Pakistan in order to serve their sentences.
+
+◼️
+
+[Data](articles/6e9b836c.json)
+
+---
 
 ### Sri Lanka’s Bimputh Finance changes name
 
@@ -2195,29 +2215,5 @@ He also pointed out that he has obtained legal documents to be obtained through 
 [Data](articles/78ef74bf.json)
 
 [Extended Data](ext_articles/78ef74bf.ext.json)
-
----
-
-### The United Nations Refugee Agency has not conducted any survey on Sri Lankan elections
-
-*2024-05-16 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183711) · `ta`
-
-The UN Refugee Agency hasn't surveyed Sri Lankan elections, but a leaked report predicts Sajith Premadasa's party will win with 36.31% of the vote, followed by SLPA with 34.53%. UNP under Ranil Wickremesinghe is projected to finish third with 16.35%, and the national people's power fourth with 10.59%. This report, allegedly based on a 20-day survey by 330 university students, is widely shared online despite skepticism about its authenticity.
-
-🟩
-
-A report by the United Nations Refugee Agency in Sri Lanka has issued a report on the elections in Sri Lanka and has published a website called 'Arakala News' that the report has been leaked by a high -level intelligence officer of the country before it was sent to their head office.
-
-A report with this message is being linked and rapidly shared on social networks, and various comments are being made on it.
-
-In addition, the report is said to be a 20 -day survey by 330 university students. In this statement, they said that the opinions of the people were received by representing each district and every electoral constituency, representing each ethnicity and every professional person.. The 28 -page report contains the subjects inner:
-
-United People's Power President Sajith Premadasa will get 36.31 per cent votes, and it is 34.53 per cent that the Sri Lanka PA will get second votes.
-
-...
-
-[Data](articles/a59e2cc8.json)
-
-[Extended Data](ext_articles/a59e2cc8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 09:33:56**
+As of **2024-05-17 09:52:55**
 
 ## Newspaper Stats
 
-*Scraped **24,594** Articles*
+*Scraped **24,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,331
 economynextcom | 1,413
 dailyftlk | 1,450
 adalk | 2,109
-adaderanalk | 2,842
+adaderanalk | 2,844
 tamilmirrorlk | 2,889
-virakesarilk | 3,697
+virakesarilk | 3,699
 dailymirrorlk | 3,857
 adaderanasinhalalk | 3,922
 
@@ -26,29 +26,113 @@ adaderanasinhalalk | 3,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,591 (100.0%) of 24,594 articles have been extended.
+24,594 (100.0%) of 24,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### මෙරටදී අත්අඩංගුවට ගත් පාකිස්තාන ජාතිකයන් 09කට දුන් තීන්දුව
+### மேற்கிந்தியத் தீவுகள் மகளிர் அணியை இருவகை தொடர்களில் இலங்கை மகளிர் அணி எதிர்த்தாடும்
+
+*2024-05-17 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183741) · `ta`
+
+பங்களாதேஷில் எதிர்வரும் அக்டோபர் மாதம் நடைபெறவுள்ள ஐசிசி மகளிர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்ற தகுதிபெற்றுள்ள இலங்கை மகளிர் அணி, இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் தொடர்களில் மேற்கிந்தியத் தீவுகள் மகளிர் அணியை எதிர்த்தாடவுள்ளது.
+
+இரண்டு அணிகளுக்கும் இடையில் மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் முதலில் நடைபெறும்.
+
+இந்தத் தொடரானது இரண்டு அணிகளுக்கும் ரி20 உலகக் கிண்ணப் போட்டிக்கு தம்மை பரீட்சிக்கும் தொடராக அமையவுள்ளது.
+
+அதனைத் தொடர்ந்து மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியிலும் அதன் பின்னர் அயர்லாந்துக்கு எதிரான ரி20 கிரிக்கெட் தொடரிலும்  இல்ஙகை விளையாடவுள்ளது.
+
+◼️
+
+[Data](articles/d4e4a94d.json)
+
+---
+
+### மத்திய ஆசிய கரப்பத்தாட்டத்தில் 3ஆம் இடத்துக்கான போட்டியில் கிர்கிஸ்தானை எதிர்த்தாடும் இலங்கை !
+
+*2024-05-17 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183740) · `ta`
+
+இஸ்லாமாபாத்தில் நடைபெற்றுவரும் ஆறு நாடுகளுக்கு இடையிலான மத்திய ஆசிய கரப்பந்தாட்டத்தில் 3ஆம் இடத்திற்கான போட்டியில் கிர்கிஸ்தானை இலங்கை எதிர்த்தாடவுள்ளது.
+
+இப் போட்டியைத் தொடர்ந்து சம்பியனைத் தீரமானிக்கும் பாகிஸ்தானுக்கும் துர்க்மேனிஸ்தானுக்கும் இடையிலான இறுதிப் போட்டி நடைபெறும்.
+
+இந்த சுற்றுப் போட்டியில் தனது கடைசி லீக் போட்டியில் துர்க்மேனிஸ்தானை வியாழக்கிழமை (16) எதிர்த்தாடிய இலங்கை 3 நேர் செட்களில் தோல்வி அடைந்தது.
+
+மூன்று சேட்களிலும் திறமையாக விளையாடிய துர்க்மேனிஸ்தான் 25 - 22, 25 - 19, 25 - 19 என்ற புள்ளிகள் அடிப்படையில் வெற்றிபெற்றது.
+
+இந்த சுற்றுப் போட்டியில் இலங்கை தனது ஆரம்பப் போட்டியில் கிர்கிஸ்தானிடம் 2 - 3 என்ற செட்கள் கணக்கில் தோல்வி அடைந்தது.   அடுத்த போட்டியில் பாகிஸ்தானிடம்  இலங்கை  3 நேர் செட்களில் வீழ்ந்தது.
+
+எனினும் அடுத்த போட்டியில் ஆப்கானிஸ்தானை 3 நேர் செட்களிலும் தொடர்ந்து ஈரானை முற்றிலும் எதிர்பாராத விதமாக 3 நேர் செட்களிலும் இலங்கை வெற்றிகொண்டிருந்தது.
+
+...
+
+[Data](articles/5b202ddc.json)
+
+---
+
+### Ella-Wellawaya road reopened for traffic
+
+*2024-05-17 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99266/ella-wellawaya-road-reopened-for-traffic) · `en`
+
+The Ella-Wellawaya road which was temporarily closed due to inclement weather conditions has been reopened for traffic movement.
+
+Authorities advise that all vehicular movement on this road must be conducted with strict vigilance and under the full supervision of the police.
+
+However, the Disaster Management Centre has cautioned that if heavy rains persist today (17), the road could become hazardous once again.
+
+In that case, the relevant road would have to be closed again at any moment, it said.
+
+◼️
+
+[Data](articles/00d61cea.json)
+
+---
+
+### The verdict for 9 Pakistani nationals arrested in Sri Lanka
 
 *2024-05-17 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196708) · `si`
 
-මත්ද්‍රව්‍ය සමග ශ්‍රී ලංකාවේදී අත්අඩංගුවට ගැනුණු පාකිස්තාන ජාතිකයින් 09 දෙනෙකුට කොළඹ මහාධිකරණය විසින් වසර 10 බැගින් සිරදඬුවම් නියම කර තිබේ.
+Nine Pakistani nationals arrested in Sri Lanka for drug possession were sentenced to 10 years. They were caught with over 900 kilograms of drugs, including 614 kilograms of ice. The Attorney General advised charges, which the suspects acknowledged. They will be deported to Pakistan to serve their sentences.
 
-2020 වසරේ ජනවාරි මස 01 වනදා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ නාවික හමුදාව එක්වී සිදුකරන ලද වැටලීමකදී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 614යි ග්‍රෑම් 36ක් සහ මත්ද්‍රව්‍ය බවට සැක කරන ද්‍රව්‍ය කිලෝග්‍රෑම් 581යි ග්‍රෑම් 34ක් සමග මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-එම මත්ද්‍රව්‍ය සම්බන්ධයෙන් රස පරික්ෂක වාර්තාව ලැබී ඇති අතර එහිදී මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 900කට අධික ප්‍රමාණයක් එම පාර්සල්වල අඩංගු බවට අනාවරණය වී තිබේ.
+Nine Pakistani nationals arrested in Sri Lanka with drugs have been sentenced to 10 years.
 
-ඒ අනුව නීතිපතිවරයාගේ උපදෙස් ලැබීමෙන් අනතුරුව කොළඹ මහාධිකරණය හමුවේ සැකකරුවන්ට එරෙහිව නඩු පවරා තිබු අතර  නඩුව කැඳවු අවස්ථාවේදී අදාළ පාකිස්තාන ජාතිකයින් වරද පිළිගෙන ඇති බව සඳහන් ය.
+The suspects were arrested with 614 kilograms of ice and 34 grams of ice and 34 grams suspected of 36 grams and 34 grams suspected to be arrested.
 
-ඒ අනුව නියම කළ දඬුවම ක්‍රියාත්මක කිරීම සඳහා ඔවුන් පාකිස්තානය වෙත පිටුවහල් කිරීමට කටයුතු සිදුකරමින් පවතින බව පොලීසිය පැවසීය.
+The TNA has been received regarding the drug and has revealed that the parcels contain more than 900 kilograms of drugs.
+
+Accordingly, the suspects had been filed against the suspects after the Attorney General's advice and the Pakistani had accepted the wrongdoing when the case was taken up.
+
+According to police, they are deported to Pakistan to implement the sentence.
 
 ◼️
 
 [Data](articles/d89f2ed5.json)
+
+[Extended Data](ext_articles/d89f2ed5.ext.json)
+
+---
+
+### Inquiry launched into another O/L exam related incident
+
+*2024-05-17 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99265/inquiry-launched-into-another-ol-exam-related-incident) · `en`
+
+The Department of Examination has commenced an investigation related to an incident where a group of students had not received a section of the Geography question paper during the 2023 (2024) G.C.E. Ordinary Level examination.
+
+The Department of Examination has questioned the officials of the relevant examination center at the Al-Aman Muslim Maha Vidyalaya in Minuwangoda in relation to this incident.
+
+In response to a query from Ada Derana, a spokesperson for Education Ministry assured that measures will be taken to prevent any injustices to the affected students.
+
+However, many irregularities and issues have been reported with regard to the G.C.E. Ordinary Level examination Examination held this year.
+
+Responding to a question made in this regard, the spokesman mentioned that separate studies will be conducted on the candidates who faced the related incidents and necessary measures will be taken.
+
+◼️
+
+[Data](articles/93b5b98b.json)
 
 ---
 
@@ -65,6 +149,8 @@ Sources said, all the arrested fishermen belong to Paruthithurai in Sri Lanka. T
 ◼️
 
 [Data](articles/8821c79e.json)
+
+[Extended Data](ext_articles/8821c79e.ext.json)
 
 ---
 
@@ -150,17 +236,23 @@ In political circles, it is widely seen as inducements being offered to parliame
 
 ---
 
-### போரில் உயிரிழந்தவர்களுக்கு வவுனியாவில் நாளை நினைவேந்தல்
+### For those who died in the war, tomorrow in Vavuniya
 
 *2024-05-17 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183737) · `ta`
 
-போரில் உயிரிழந்தவர்களுக்கான நினைவேந்தல் நிகழ்வு வவுனியாவில் எதிர்வரும் சனிக்கிழமை (18)மாலை 5 மணிக்கு வவுனியப நகரசபை மண்டபத்தில் நடைபெறவுள்ளது.
+A commemoration for war victims in Vavuniya, organized by various groups, will take place on Saturday at 5 pm at the Vavuniya Municipal Council Hall.
 
-வன்னி மக்களுக்கான ஒன்றியம், வன்னி மாவட்ட காணாமல் ஆக்கப்பட்டவர்களின் சங்கம், சிறந்த இலங்கைக்கான மன்றம்,  காணாமலாக்கப்பட்டவர்களின் பிள்ளைகளின் சங்கம், உலகத்தமிழர் பேரவை, தர்மசக்தி ஒன்றியம் ஆகியன இணைந்து இந்த நிகழ்வினை ஏற்பாடு செய்துள்ளன.
+🟩
+
+The commemoration event for the victims of the war will be held in Vavuniya on Saturday (18) at 5 pm at the Vavuniya Municipal Council Hall.
+
+The event was organized by the Vanni People's Union, the Vanni District Missing Association, the Best Sri Lanka Forum, the Association of the Disappeared Children, the World Tamil Council and the Dharmasakthi Union.
 
 ◼️
 
 [Data](articles/ab9bd145.json)
+
+[Extended Data](ext_articles/ab9bd145.ext.json)
 
 ---
 
@@ -2125,91 +2217,5 @@ Subsequently, the excavation was carried out in two phases by a group led by Arc
 [Data](articles/3d0101c0.json)
 
 [Extended Data](ext_articles/3d0101c0.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 300.70/90 to US dollar
-
-*2024-05-16 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-70-90-to-us-dollar-163389/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 300.70/90 to the US dollar on Thursday, from 302.00/40 the previous day, dealers said. Bond yields were up.
-
-A bond maturing on 15.12.2026 closed up at 10.05/15 percent from 9.90/10.05 percent.
-
-A bond maturing on 15.09.2027 closed up at 10.20/40 percent from 10.20/35 percent.
-
-A bond maturing on 15.03.2028 closed up at 10.55/70 percent 10.50/65 percent.
-
-A bond maturing on 15.09.2029 closed up at 10.85/11.30 percent from 10.85/11.15 percent.
-
-A bond maturing on 15.05.2030 closed up at 11.55/70 percent from 11.50/65 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.75/95 percent from 11.80/95 percent. (Colombo/May16/2024)
-
-◼️
-
-[Data](articles/eac694f6.json)
-
-[Extended Data](ext_articles/eac694f6.ext.json)
-
----
-
-### Sajith bars Daily Mirror over liquor controversy liquor
-
-*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-bars-Daily-Mirror-over-liquor-controversy-liquor/108-282735) · `en`
-
-May 16 Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
-
-The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
-
-Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
-
-One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
-
-...
-
-[Data](articles/9dbfd2a2.json)
-
-[Extended Data](ext_articles/9dbfd2a2.ext.json)
-
----
-
-### Sajith bars Daily Mirror over liquor controversy
-
-*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sajith-bars-Daily-Mirror-over-liquor-controversy/155-282735) · `en`
-
-Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
-
-The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
-
-Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
-
-One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
-
-...
-
-[Data](articles/f9c416cd.json)
-
-[Extended Data](ext_articles/f9c416cd.ext.json)
-
----
-
-### Sajith bars Daily Mirror over liquor controversy
-
-*2024-05-16 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-bars-Daily-Mirror-over-liquor-controversy/108-282735) · `en`
-
-Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa has announced a ban on the Daily Mirror from covering any press briefings held by the SJB.
-
-The decision comes in the wake of accusations made by Premadasa, who criticized the publication for what he deemed as a "mockery of journalism."
-
-Accusing the Daily Mirror of deliberately misquoting a statement made by him on banning liqour licenses in the country, Premadasa expressed his frustration at the handling of his statements. However on many occasions Premadasa has taken out his frustration on the paper after the paper made critical coverage on him as an Opposition Leader.
-
-One such example is when Premadasa said he would lead the Aragalaya to oust former President Gotabaya Rajapaksa from his seat on July 9, 2022, but instead of leading the protest he got himself admitted at a private hospital in Colombo leaving the public to wonder where the Opposition Leader was.
-
-...
-
-[Data](articles/fb7c9033.json)
-
-[Extended Data](ext_articles/fb7c9033.ext.json)
 
 ---

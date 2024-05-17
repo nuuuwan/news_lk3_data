@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 16:50:26**
+As of **2024-05-17 17:03:32**
 
 ## Newspaper Stats
 
-*Scraped **24,667** Articles*
+*Scraped **24,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,113
-adaderanalk | 2,858
-tamilmirrorlk | 2,894
+adaderanalk | 2,859
+tamilmirrorlk | 2,895
 virakesarilk | 3,714
 dailymirrorlk | 3,867
-adaderanasinhalalk | 3,938
+adaderanasinhalalk | 3,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,667 (100.0%) of 24,667 articles have been extended.
+24,667 (100.0%) of 24,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### ‘Ice’ worth around Rs. 100mn found inside parcel from Guatemala
+
+*2024-05-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99283/-ice-worth-around-rs-100mn-found-inside-parcel-from-guatemala) · `en`
+
+Sri Lanka Customs have detected a large consignment of ‘Ice’, also known as Crystal Methamphetamine, valued at around Rs. 100 million, which had reportedly arrived in a parcel from Guatemala, through airmail service.
+
+The cache of drugs were found concealed inside a car engine part (pulley) which was contained in the parcel sent to a warehouse complex attached to a courier service in Seeduwa.
+
+The parcel had been addressed to a 25-year-old farmer residing in the Jayanthipura area of Polonnaruwa. The officers of the Narcotics Control Unit of Sri Lanka Customs had opened the parcel in front of the youth in question, upon his arrival to the warehouse to collect the parcel this afternoon (17).
+
+The Sri Lanka Customs officials later apprehended the suspect, after detecting the drugs concealed inside the parcel.
+
+The street value of the consignment of drugs, weighing 03 kilograms and 101 grams, is estimated to be around Rs. 100 million, according to Sri Lanka Customs.
+
+...
+
+[Data](articles/dcdbc273.json)
+
+---
+
+### AI  நவீன தொழில்நுட்பத்துடன் விவசாயத்தில் புதிய மாற்றம்
+
+*2024-05-17 16:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-நவீன-தொழில்நுட்பத்துடன்-விவசாயத்தில்-புதிய-மாற்றம்/175-337457) · `ta`
+
+செயற்கை நுண்ணறிவு (AI) உள்ளிட்ட நவீன தொழில்நுட்பத்துடன் இலங்கையின் விவசாயத்தில் புதிய மாற்றத்தை ஏற்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும், அதற்குத் தயாராக உள்ள   தனியார் துறை தொழில்முனைவோருக்குத்  தேவையான ஒத்துழைப்பை வழங்கத் தயாராக இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்திற்காக 100 பிரதேச செயலாளர் பிரிவுகள் தெரிவு செய்யப்பட்டுள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+செயற்கை நுண்ணறிவு தொழில்நுட்பத்தைப் பயன்படுத்தி இலங்கையில் முதன்முறையாக நிர்மாணிக்கப்பட்ட  பசுமை இல்லத்தை பார்வையிடுவதற்காக இன்று (17) கேகாலை பகுதிக்கு சென்ற போதே ஜனாதிபதி இதனைத்  தெரிவித்தார். R
+
+◼️
+
+[Data](articles/882ea463.json)
+
+---
+
+### පාර්ලිමේන්තුව මැයි 22 රැස්වෙයි
+
+*2024-05-17 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196726) · `si`
+
+පාර්ලිමේන්තුව මැයි 22 වැනි බදාදා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+පසුගිය මැයි 14 වනදා කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මේ බව තීරණය වී ඇත.
+
+මේ අනුව මැයි 22 වනදා පෙව 9.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර මැයි 14 දිනැතිව ගැසට්පත්‍රයේ පළ ‍කර ඇති ‘ආර්ථික පරිවර්තන’ සහ ‘රාජ්‍ය මූල්‍ය කළමනාකරණ’ නැමැති පනත් කෙටුම්පත් දෙක එදින පළමුවර කියවීම පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+අනතුරුව පෙව 9.45 සිට පව 5.30 දක්වා විරුද්ධ පාර්ශ්වය විසින් ඉදිරිපත් කිරීමට නියමිත සභාව කල්තැබීමේ යෝජනාවට අනුව විවාදය පැවැත්වීමට ද පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණයවූ බව මහලේකම්වරිය වැඩිදුරටත් පැවසුවාය.
+
+◼️
+
+[Data](articles/d06093ad.json)
+
+---
 
 ### China beats US to become India’s largest trading partner
 
@@ -2185,53 +2239,5 @@ Nakba is indisputably a living testimony to the brutality of the beast among hum
 [Data](articles/ae01731e.json)
 
 [Extended Data](ext_articles/ae01731e.ext.json)
-
----
-
-### Trillium Group breaks ground for $ 15 m Trillium Duplex – Colombo 5
-
-*2024-05-17 00:51:13* · [`dailyftlk`](https://www.ft.lk/business/Trillium-Group-breaks-ground-for-15-m-Trillium-Duplex-Colombo-5/34-761911) · `en`
-
-Trillium Group Chairman Janaka Ratnayake with his two sons Rachitha Ratnayake and Lekhya Ratnayake
-
-Trillium Group, a leading real estate developer in Sri Lanka, yesterday began the construction for its highly anticipated project, Trillium Duplex – Colombo 5 located in the residential side of Colombo 5 on a private road called Lionel Edirisinghe Mawatha.
-
-This marks the third real estate development Trillium has engaged in, in the Colombo 5 locality, with the other two being the Trillium Tower Colombo 5, and Trillium Havelock Residencies.
-
-...
-
-[Data](articles/45c08698.json)
-
-[Extended Data](ext_articles/45c08698.ext.json)
-
----
-
-### 1998 Bharathipuram killings and accountability for wartime atrocities
-
-*2024-05-17 00:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/1998-Bharathipuram-killings-and-accountability-for-wartime-atrocities/172-282770) · `en`
-
-The killing of civilians and other atrocities were widespread during the three-decade war mostly in the North and the East. The Sri Lankan armed forces, police and the Liberation Tigers of Tamil Eelam (LTTE) are alleged to be responsible for many such massacres according to eye witnesses and circumstantial evidence. It’s rare that the Sri Lankan armed forces and police have been held accountable through domestic courts for such killings. Below are some observations and reflections on such a rare case, based on reading the case and talking to families of victims.
-
-...
-
-[Data](articles/027dbadb.json)
-
-[Extended Data](ext_articles/027dbadb.ext.json)
-
----
-
-### US Embassy Colombo to host Indo-Pacific Business Forum via satellite
-
-*2024-05-17 00:49:57* · [`dailyftlk`](https://www.ft.lk/business/US-Embassy-Colombo-to-host-Indo-Pacific-Business-Forum-via-satellite/34-761910) · `en`
-
-The US Embassy in Colombo is set to host a satellite event of the Indo-Pacific Business Forum (IPBF) under the theme “Driving Sustainable Development in the Ports Sector” on 21 May.
-
-The event will take place concurrently with the sixth Indo-Pacific Business Forum in Manila, Philippines, co-hosted by the US Trade Development Agency and the Government of the Philippines, in partnership with the US Department of State. Businesses and stakeholders from across the Indo-Pacific region are invited to participate in this significant event. For those unable to attend in person, online registration is available through the main website: IPBF | Indo-Pacific Business Forum (indopacificbusinessforum.com) #IndoPacificBizForum.
-
-...
-
-[Data](articles/f5c2c815.json)
-
-[Extended Data](ext_articles/f5c2c815.ext.json)
 
 ---

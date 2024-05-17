@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 18:52:26**
+As of **2024-05-17 19:03:37**
 
 ## Newspaper Stats
 
-*Scraped **24,690** Articles*
+*Scraped **24,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,127 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,114
-adaderanalk | 2,861
-tamilmirrorlk | 2,896
+adaderanalk | 2,862
+tamilmirrorlk | 2,897
 virakesarilk | 3,724
 dailymirrorlk | 3,870
-adaderanasinhalalk | 3,942
+adaderanasinhalalk | 3,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,689 (100.0%) of 24,690 articles have been extended.
+24,690 (100.0%) of 24,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### කෘෂිකර්මාන්තයට මූල්‍ය සහාය සහ පුහුණුව දෙන්න රජය සූදානම් -ජනපති
+### ජ්‍යේෂ්ඨ පුරවැසියන්ගේ බැංකු තැන්පතු ගැන තීරණයක්
+
+*2024-05-17 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196732) · `si`
+
+ජ්‍යේෂ්ඨ පුරවැසි ගිණුම්වල පොලිය ඉහළ නැංවීම පිළිබඳ සොයා බැලීමේ කමිටු වාර්තාව ලබන සතියේ ජනාධිපතිවරයා වෙත ඉදිරිපත් කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ජ්‍යේෂ්ඨ පුරවැසි ගිණුම් සඳහා ලබාදෙන පොලී අනුපාතය ඉහළ නැංවීම පිළිබඳ කඩිනමින් සොයා වාර්තාවක් සකස් කිරීම සඳහා පත් කළ කමිටුව මුදල් අමාත්‍යාංශයේ දී රැස් වූ අවස්ථාවේ රාජ්‍ය අමාත්‍යවරයා මේ බව සදහන් කර තිබේ.
+
+එහි දී අමාත්‍යවරයා ප්‍රකාශ කර ඇත්තේ පවතින ආර්ථික තත්ත්වය අනුව පොලී අනුපාතය කොතරම් ඉහළ දැමිය හැකිදැයි සොයා බලා ඊට අනුව කටයුතු කරන ලෙසය.
+
+වයස අවුරුදු 60ට වඩා වැඩි පුද්ගලයන්ට හිමි ගිණුම් ලක්ෂ 11ක් පමණ පවතින අතර ඒවා විධිමත් කිරීමේ අවශ්‍යතාව ද මෙහි දී අවධාරණය කර ඇති බව සඳහන්ය.
+
+විශේෂයෙන් ම එකම පුද්ගලයා බැංකු ගිණුම් කිහිපයක් පවත්වාගෙන යාම, වෙනත් පාර්ශ්වයන්ගේ මුදල් එම ගිණුම්වල තැන්පත් කිරීම ආදිය පිළිබඳ සොයා බැලීම සම්බන්ධයෙන් ද මෙහි දී සාකච්ඡා වී තිබේ.
+
+◼️
+
+[Data](articles/2942c971.json)
+
+---
+
+### Crew of 20 Indians, Sri Lankan stuck on crippled ship in Baltimore for 7 weeks, can’t pay bills
+
+*2024-05-17 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99286/crew-of-20-indians-sri-lankan-stuck-on-crippled-ship-in-baltimore-for-7-weeks-cant-pay-bills) · `en`
+
+Twenty Indian crew members and a Sri Lankan are stranded on board the Dali, the container ship that collided with the Francis Scott Key Bridge in Baltimore. For the last seven weeks, they have been confined to the vessel due to an ongoing probe. With their phones confiscated, they cannot even pay bills for their families back home, the Indian media reported.
+
+“They can’t do any online banking. They can’t pay their bills at home. They don’t have any of their data or anyone’s contact information, so they’re really isolated right now. They just can’t reach out to the folks they need to, or even look at pictures of their children before they go to sleep. It’s really a sad situation,” Joshua Messick, executive director of the Baltimore International Seafarers’ Center, a non-profit organisation that works to protect the rights of mariners, was quoted as saying by the BBC.
+
+...
+
+[Data](articles/ae6e3d20.json)
+
+---
+
+### The government is ready to provide financial assistance and training to agriculture - President
 
 *2024-05-17 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196731) · `si`
 
-කෘත්‍රීම බුද්ධිය (AI) ඇතුළු නවීන තාක්ෂණය සමඟ මෙරට කෘෂිකර්මාන්තයේ නව පරිවර්ථනයක් සිදුකිරීමට රජය සැලසුම් කර තිබෙන බවත්, ඒ සඳහා කැමැත්තක් දක්වන පෞද්ගලික අංශයේ ව්‍යවසායකයින්ට අවශ්‍ය සහාය ලබා දීමට රජය කටයුතු කරන බවත් ජනපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Mahinda Rajapaksa announced plans for a new agricultural transformation in Sri Lanka, emphasizing AI integration and a bank loan scheme. This initiative aims to modernize farming through technology, aiming to double global food production by 2050.
 
-මේ වෙනුවෙන් බැංකු ණය ක්‍රමවේදයක් යෝජනා කරන ලෙසද ජනාධිපතිවරයා එහිදී නිලධාරීන්ට උපදෙස් දුන්නේය.
+🟩
 
-ජනාධිපතිවරයා මේ බව පැවසුවේ වේගා මෝටර් රථයේ නිර්මාතෘ ආචාර්ය හර්ෂ සුභසිංහ මහතා කෘත්‍රීම බුද්ධි තාක්ෂණය යොදා ගනිමින් ශ්‍රී ලංකාවේ ප්‍රථම වරට කෑගල්ල නෙළුම්දෙණිය ප්‍රදේශයේ ඉදිකර ඇති AI Grow සමාගමට අයත් හරිතාගාර පරිශ්‍රයේ නිරීක්ෂණ චාරිකාවකට අද (17) පෙරවරුවේ එක් වෙමිනි.
+President Mahinda Rajapaksa says that the government is planning to conduct a new translation of agriculture in Sri Lanka, including artificial intelligence (AI).
 
-කෘෂි නවීකරණ වැඩපිළිවෙළ සඳහා මෙම වසරේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 100ක් තෝරාගෙන ඇති බවත් එහි පළමු අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 25කට අවශ්‍ය පහසුකම් සැපයීමට කටයුතු කරන බවත්, දෙවන අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 75ක් නවීන කෘෂිකර්මාන්තය සඳහා යොදා ගන්නා බවත් ජනාධිපතිවරයා එහිදී ඳහන් කළේය.
+The President also instructed the officials to propose a bank loan scheme.
+
+The President was speaking at the conclusion of Sri Lanka's largest greenhouse premises in the Nelumdeniya area, Kegalle in Nelumdeniya, Kegalle in Nelumdeniya, the first time in Sri Lanka.
+
+The President summoned 100 Divisional Secretariat Divisions in this year and the facilities of the 25 Divisional Secretariat Divisions have been used under the second phase of the project.
+
+"The use of modern technology including artificial intelligence, including artistic intelligence, is to say that the use of future greenist economy. With the contribution of these personal entrepreneurs, the government is working to implement a wide agricultural modernization program in the country using intelligence technology.
 
 ...
 
 [Data](articles/efc9997d.json)
+
+[Extended Data](ext_articles/efc9997d.ext.json)
+
+---
+
+### Mullivaikkal - The solution to their national ethnic problem depends on the self -determination of Tamils.
+
+*2024-05-17 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183790) · `ta`
+
+Srinath Perera criticizes the government's handling of the Mullivaikkal tragedy, highlighting its impact on Tamil sentiment and the need for genuine justice and reconciliation. He emphasizes the importance of self-determination for Tamils and the lack of support from opposition politicians. The discussion also touches on the controversy surrounding the arrest of Mullivaikkal porridge makers and the perceived misuse of commissions by the ruling class to suppress Tamil demands.
+
+🟩
+
+Srinath Perera, a member of the Movement for the People's Forum and a member of the People's Congress movement, questioned that the government is misrepresenting the issue.
+
+During the interview, Srinatpererakutu said that Mullivaikkal was the place where the grief of the pain of the pain.
+
+Srinatperera, who has been present at the Mullivaikkal Memorial event, has joined himself in the struggles of the Missing Acadoor and the struggles of the Keppapilavu mudslide.
+
+Srinath Perera had recently met Tamil farmers who were involved in the struggle.
+
+He said that Sri Lanka is not in the context of real justice and reconciliation commissions, he said that they were not prepared to share the powers of the JVP.
+
+Question - Have you attended the Mullivaikkal commemoration events?What kind of feelings have you noticed in the past?
+
+Last year, many young people were able to observe that they were very enthusiastic about the events for commemoration events.
+
+...
+
+[Data](articles/d3f33734.json)
+
+[Extended Data](ext_articles/d3f33734.ext.json)
+
+---
+
+### போலி வைத்தியர்கள் - பொது மக்களுக்கு விஷேட செய்தி
+
+*2024-05-17 18:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-வைத்தியர்கள்-பொது-மக்களுக்கு-விஷேட-செய்தி/175-337459) · `ta`
+
+நாட்டில் 40,000 மேற்பட்ட போலி வைத்தியர்கள் காணப்படுவதாக அரச வைத்திய அதிகாரிகள் சங்கம் (GMOA) தெரிவித்துள்ளது.
+
+அவர்களில் சிலர் பொதுமக்களுக்குப் போதை மாத்திரைகளை விற்பனை செய்வதாகவும் அதிர்ச்சி தகவல் வெளியாகி உள்ளது.
+
+இவ்வாறான போலி வைத்தியர்கள் தொடர்பில் ஏதேனும் தகவல் கிடைத்தால் 1907 என்ற தொலைபேசி இலக்கத்திற்குத் தெரிவிக்குமாறு அரச வைத்திய அதிகாரிகள் சங்கத்தின் பேச்சாளர் சலின் விஜேசிங்க தெரிவித்துள்ளார்.
+
+இந்நிலையில், அவர்களில் பெரும்பாலானோர் வைத்திய துறை தொடர்பில் எந்தவித முன் அனுபவமும் திறனும் இல்லாதவர்கள் என அவர் மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/36cf9d5e.json)
 
 ---
 
@@ -553,36 +643,6 @@ And we will make an effort to stop the activities of the South Sri Lanka forces 
 [Data](articles/9cec9a73.json)
 
 [Extended Data](ext_articles/9cec9a73.ext.json)
-
----
-
-### Mullivaikkal - The solution to their national ethnic problem depends on the self -determination of Tamils.
-
-*2024-05-17 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183790) · `ta`
-
-Srinath Perera criticizes the government's handling of the Mullivaikkal tragedy, highlighting its impact on Tamil sentiment and the need for genuine justice and reconciliation. He emphasizes the importance of self-determination for Tamils and the lack of support from opposition politicians. The discussion also touches on the controversy surrounding the arrest of Mullivaikkal porridge makers and the perceived misuse of commissions by the ruling class to suppress Tamil demands.
-
-🟩
-
-Srinath Perera, a member of the Movement for the People's Forum and a member of the People's Congress movement, questioned that the government is misrepresenting the issue.
-
-During the interview, Srinatpererakutu said that Mullivaikkal was the place where the grief of the pain of the pain.
-
-Srinatperera, who has been present at the Mullivaikkal Memorial event, has joined himself in the struggles of the Missing Acadoor and the struggles of the Keppapilavu mudslide.
-
-Srinath Perera had recently met Tamil farmers who were involved in the struggle.
-
-He said that Sri Lanka is not in the context of real justice and reconciliation commissions, he said that they were not prepared to share the powers of the JVP.
-
-Question - Have you attended the Mullivaikkal commemoration events?What kind of feelings have you noticed in the past?
-
-Last year, many young people were able to observe that they were very enthusiastic about the events for commemoration events.
-
-...
-
-[Data](articles/d3f33734.json)
-
-[Extended Data](ext_articles/d3f33734.ext.json)
 
 ---
 
@@ -2241,75 +2301,5 @@ In political circles, it is widely seen as inducements being offered to parliame
 [Data](articles/aaade50f.json)
 
 [Extended Data](ext_articles/aaade50f.ext.json)
-
----
-
-### For those who died in the war, tomorrow in Vavuniya
-
-*2024-05-17 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183737) · `ta`
-
-A commemoration for war victims in Vavuniya, organized by various groups, will take place on Saturday at 5 pm at the Vavuniya Municipal Council Hall.
-
-🟩
-
-The commemoration event for the victims of the war will be held in Vavuniya on Saturday (18) at 5 pm at the Vavuniya Municipal Council Hall.
-
-The event was organized by the Vanni People's Union, the Vanni District Missing Association, the Best Sri Lanka Forum, the Association of the Disappeared Children, the World Tamil Council and the Dharmasakthi Union.
-
-◼️
-
-[Data](articles/ab9bd145.json)
-
-[Extended Data](ext_articles/ab9bd145.ext.json)
-
----
-
-### Murder of Mirisuvil Group: Supreme Court notice
-
-*2024-05-17 08:35:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qy6lgdzeo) · `si`
-
-Supreme Court issues notice to former Sri Lankan President Gotabhaya Rajapaksa over the pardon of Army Sergeant Sunil Ratnayake, convicted of murder. The court will hear arguments on September 4th regarding the legality of the pardon.
-
-🟩
-
-According to the Colombo High Court in Mirissuvil, Jaffna High Court and the Colombo High Court in the Mirissuvil area of ​​the Colombo Highways, the Colombo High Court in the Mirissuvil area and the Colombo High Court, to be released by the Colombo High Court.The Supreme Court today (May on May 17) ordered to be issued notice to former President Gotabhaya Rajapaksa.
-
-The order was issued this order today (May 17) when the fundamental rights filed by the Executive Director of the CPA on the CPA.
-
-President's Counsel appearing on behalf of the petitioner when the petition was called. Sumanthiran court said that the petitioners named President Gotabhaya Rajapakse, who was named respondents and president of the petition, was released to allow Sunil Ratnayake to issue the petition.
-
-The judge's panel of judges accepted the request to the President anddered to issue notice to former President Gotabhaya Rajapakse.
-
-...
-
-[Data](articles/6c1f4f4a.json)
-
-[Extended Data](ext_articles/6c1f4f4a.ext.json)
-
----
-
-### Increase wind and rain
-
-*2024-05-17 08:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றும்-மழையும்-அதிகரிக்கும்/175-337449) · `ta`
-
-Due to the southwest monsoon, expect increased wind and rain across Sri Lanka, especially in Sabaragamuwa, Upper, North Western, North, Eastern Provinces, and Galle/Matara districts from noon onwards. Heavy rainfall up to 100mm possible in Central, Sabaragamuwa, Upper, East, and Uva provinces. Be cautious of strong winds and lightning.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that the pre -south -wing weather is expected to increase due to the pre -south -west monsoon situation in the sea regions around the country.
-
-Rainfall or thunderstorms can occur frequently in Sabaragamuwa, Upper, North Western, North and Eastern Provinces as well as Galle and Matara districts.
-
-Rains or thunderstorms are expected after 12 pm in many parts of the country.
-
-Heavy rains are expected to occur up to 100 millimeters in some parts of the Central, Sabaragamuwa, Upper, East and Uva provinces.
-
-In cases where strong winds and lightning impacts occur. Remble
-
-◼️
-
-[Data](articles/c6576b1e.json)
-
-[Extended Data](ext_articles/c6576b1e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 14:18:24**
+As of **2024-05-17 14:33:45**
 
 ## Newspaper Stats
 
-*Scraped **24,642** Articles*
+*Scraped **24,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,111
 adaderanalk | 2,854
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
-dailymirrorlk | 3,862
+dailymirrorlk | 3,863
 adaderanasinhalalk | 3,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,641 (100.0%) of 24,642 articles have been extended.
+24,642 (100.0%) of 24,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Two schoolgirls, youth marooned in floods, rescued
+
+*2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-schoolgirls-youth-marooned-in-floods-rescued/108-282808) · `en`
+
+Badulla, Colombo 17 (Daily Mirror)- A youth and two schoolgirls who were marooned due to floods during their visit to Bombu Ella falls in Uva Paranagama on Thursday (16) were rescued by the Ambagasdowa police with the help of the residents of the area.
+
+The youth is 18 years old and the two school girls are 15 years old.
+
+Police said heavy rain is experienced in Welimada at present and the water level in the waterfall has increased creating a flood threat in its surroundings.
+
+The youth and the two girls had been stranded in the right bank of the waterfall when it swelled due to the heavy rain experienced in the afternoon.
+
+However, the police on information from the Police Emergency Service 119 had taken step to rescued them.
+
+Later, the police handed over the youth and the two girls to their parents.
+
+◼️
+
+[Data](articles/f34ace4a.json)
+
+---
 
 ### Four army personnel acquitted over 2013 Rathupaswala shooting
 
@@ -44,7 +66,7 @@ On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriy
 
 In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
 
-◼️
+...
 
 [Data](articles/152d81bc.json)
 
@@ -70,19 +92,29 @@ The Gampaha High Court today (17) ordered four suspects in the Rathupaswala area
 
 ---
 
-### முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் கைதான நால்வரும் பிணையில் விடுதலை
+### Mullivaikkal released on bail
 
 *2024-05-17 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183778) · `ta`
 
-திருகோணமலை மாவட்டத்தின் மூதூர் - சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் கைது செய்யப்பட்ட நால்வருக்கும் மூதூர் நீதிமன்றம் இன்று வெள்ளிக்கிழமை  (17) பிணை வழங்கி விடுதலை செய்துள்ளது.
+Four individuals arrested for allegedly trading Kanji in Muttur-Senayoor, Trincomalee, were granted bail by the Muttur court. Attorneys Bhuvirajasingham Mukundan, Thevarajah Ramanan, and Sayanthan supported the release. The case, filed under the ICCPR Act 3 (1), will resume on the 27th.
 
-குறித்த வழக்கானது நகர்த்தல் பத்திரத்தின்மூலம் இன்றையதினம் வழக்கு விசாரணைக்காக மூதூர் நீதிமன்ற நீதிபதி தஸ்னீம் பௌசான் முன்னிலையில் எடுத்துக் கொள்ளப்பட்டபோதே சட்டத்தரணிகள் முன்வைத்த சமர்ப்பணங்களை ஆராந்த நீதிபதி குறித்த நால்வரையும் தலா ஒரு இலட்சம் ரூபா சரீரப் பிணையில் விடுதலை செய்ய உத்தரவிட்டுள்ளார்.
+🟩
 
-குறித்த நபர்களுடைய பிணைக்கான நகர்த்தல் விண்ணப்பத்தினை சட்டத்தரணி நாகராஜா மோகன் இன்றையதினம்  தாக்கல் செய்திருந்தார். இதற்கு ஆதரவாக சட்டத்தரணி புவிராஜசிங்கம் முகுந்தன், சட்டத்தரணி தேவராஜா ரமணன் மற்றும் சட்டத்தரணி சயந்தன் ஆகியோர் முன்னிலையாகி இருந்தனர்.
+The Muttur court today granted bail of four persons arrested for allegedly exchanging Kanji in Muttur - Senayoor area of Trincomalee district.
 
-...
+As the case was taken up in the presence of Muttur Court Judge Dasneem Bhusan today, the lawyers have ordered the release of the four -judge judges on bail of Rs.
+
+Attorney -at -Law. Attorney Bhuvirajasingham Mukundan, Attorney -at -Law Thevarajah Ramanan and Attorney Sayanthan were present in support of this.
+
+The Sampur police have filed a case under the Sampur police in the Senayoor area under the Sampur police, which has been filed under the ICCPR Act 3 (1) against the Sampur police.. In this case, the judge accepted the bail application and ordered the bail. The case will be taken up again on the 27th.
+
+Kamaleswaran Vijitha, University student Kamleswaran Tilila, Selvinod Kumar Sujani and Navertnaraja Hariharakumar were arrested on the 12th of this month on charges of exchanging Mullivaikal Kanji at the Senayoor Bhubanapathi Temple.
+
+◼️
 
 [Data](articles/67c18df8.json)
+
+[Extended Data](ext_articles/67c18df8.ext.json)
 
 ---
 
@@ -2149,19 +2181,5 @@ According to the study report, the Sri Lanka Customs cost Rs. 10 billion to Rs.
 [Data](articles/e0cd5b0b.json)
 
 [Extended Data](ext_articles/e0cd5b0b.ext.json)
-
----
-
-### Irrigation officials in protest
-
-*2024-05-16 20:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Irrigation-officials-in-protest/110-282730) · `en`
-
-Employees of the Irrigation Department held a protest outside their office today, opposing the Ministry of Foreign Affairs' decision to take over their main building. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/f00136df.json)
-
-[Extended Data](ext_articles/f00136df.ext.json)
 
 ---

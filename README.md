@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 08:52:32**
+As of **2024-05-17 09:03:39**
 
 ## Newspaper Stats
 
-*Scraped **24,586** Articles*
+*Scraped **24,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,76 @@ adalk | 2,108
 adaderanalk | 2,841
 tamilmirrorlk | 2,889
 virakesarilk | 3,696
-dailymirrorlk | 3,855
-adaderanasinhalalk | 3,919
+dailymirrorlk | 3,856
+adaderanasinhalalk | 3,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,585 (100.0%) of 24,586 articles have been extended.
+24,586 (100.0%) of 24,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### காற்றும் மழையும் அதிகரிக்கும்
+### ස්මාර්ට් ෆෝන් නිසා දරුවන්ගේ සරසවි අධ්‍යාපනයත් කඩාකප්පල්වීමේ ප්‍රවණතාවයක්
+
+*2024-05-17 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196706) · `si`
+
+ජංගම දුරකථනයට ඇබ්බැහිවීම හරහා ඇතැම් සිසුන් තම විශ්වවිද්‍යාල අධ්‍යයන කටයුතු පවා අතරමඟ නතර කර ඇති බව අනාවරණය වී තිබේ.
+
+ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ මානව විද්‍යා අධ්‍යයන අංශයේ  ජ්‍යේෂ්ඨ මහාචාර්ය දේවිකා යසාංජලි ජයතිලක මහත්මිය සඳහන් කළේ දරුවන් ජංගම දුරකථන භාවිතය සම්බන්ධයෙන් මව්පියන් වැඩි සැලකිල්ලක් දැක්විය යුතු බවය.
+
+ජංගම දුරකථනය ලබාදීම වෙනුවට සිදුකළ යුත්තේ දරුවන් ක්‍රීඩා සෞන්දර්ය සඳහා සහ පරිසරය රසවිඳීමට හුරුකරවීම බවද  මහාචාර්ය දේවිකා යසාංජලි ජයතිලක මහත්මිය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/1650ffe9.json)
+
+---
+
+### MPs exploit liquor permit system, selling for up to Rs. 50 Million
+
+*2024-05-17 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-exploit-liquor-permit-system-selling-for-up-to-Rs-50-Million/108-282782) · `en`
+
+Colombo, May 17 (Daily Mirror) - The MPs across the political divide are inclined to secure liquor permits under the names of their associates and relatives only to be sold for amounts as large as Rs.50 million at times, the Daily Mirror learns.
+
+The government has initiated the process of issuing liquor licenses under a renewed criterion which will provide for the establishment of 478 new liquor shops in the country.
+
+An informed source said a top parliamentary committee has started inquiring into the criterion adopted in the issuance and approval of licenses to open liquor shops in the country. According to the source, the MPs, both from the government and the opposition, have sought to obtain licenses under the names of their relatives or associates to be sold for hefty sums.
+
+In political circles, it is widely seen as inducements being offered to parliamentarians from different hues ahead of the presidential election.
+
+...
+
+[Data](articles/aaade50f.json)
+
+---
+
+### Increase wind and rain
 
 *2024-05-17 08:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றும்-மழையும்-அதிகரிக்கும்/175-337449) · `ta`
 
-நாட்டை சூழ உள்ள கடல் பிராந்தியங்களிலும் தென்மேல் பருவப்பெயர்ச்சிக்கு முன்னரான நிலைமை காரணமாக காற்றும் மழையுடனுமான வானிலை அதிகரித்துக் காணப்படும் என எதிர்பார்க்கப்படுவதாக சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+Due to the southwest monsoon, expect increased wind and rain across Sri Lanka, especially in Sabaragamuwa, Upper, North Western, North, Eastern Provinces, and Galle/Matara districts from noon onwards. Heavy rainfall up to 100mm possible in Central, Sabaragamuwa, Upper, East, and Uva provinces. Be cautious of strong winds and lightning.
 
-சப்ரகமுவ, மேல், வடமேல், வடக்கு மற்றும் கிழக்கு மாகாணங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் நன்பகல் 12  மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Senior Weather Officer Dr. Mohamed Saliheen said that the pre -south -wing weather is expected to increase due to the pre -south -west monsoon situation in the sea regions around the country.
 
-மத்திய, சப்ரகமுவ, மேல்,கிழக்கு  மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் 100 மில்லிமீற்றர் வரையிலான பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Rainfall or thunderstorms can occur frequently in Sabaragamuwa, Upper, North Western, North and Eastern Provinces as well as Galle and Matara districts.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர். R
+Rains or thunderstorms are expected after 12 pm in many parts of the country.
+
+Heavy rains are expected to occur up to 100 millimeters in some parts of the Central, Sabaragamuwa, Upper, East and Uva provinces.
+
+In cases where strong winds and lightning impacts occur. Remble
 
 ◼️
 
 [Data](articles/c6576b1e.json)
+
+[Extended Data](ext_articles/c6576b1e.ext.json)
 
 ---
 
@@ -2193,59 +2233,5 @@ Meanwhile, speaking to the media in Habarana, the State Minister revealed that t
 [Data](articles/bb499599.json)
 
 [Extended Data](ext_articles/bb499599.ext.json)
-
----
-
-### President to visit Indonesia
-
-*2024-05-16 16:19:14* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-ඉන්දුනීසියාවේ-සංචාරක්/11-409682) · `si`
-
-President Ranil Wickremesinghe will travel to Bali, Indonesia, on May 18 for the 10th World Water Conference themed "Water for Collective Prosperity," where he will speak on May 20.
-
-🟩
-
-President Ranil Wickremesinghe will leave the island on May 18 to attend the top session of the 10th World Water Conference in Bali, Indonesia.
-
-The top 10th World Water Conference will be held in Bali to the Town of Indonesia under the theme "Water for Collective Prosperity".
-
-President Ranil Wickremesinghe will call at the convention on May 20 and further presented his speech.
-
-◼️
-
-[Data](articles/bb3034ee.json)
-
-[Extended Data](ext_articles/bb3034ee.ext.json)
-
----
-
-### Press first begins Sri Lanka
-
-*2024-05-16 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196686) · `si`
-
-India launched its official payment system in Colombo, aiming to facilitate transactions for Indian tourists in Sri Lanka. This move strengthens financial cooperation between the two countries, supports Sri Lanka's tourism and investment sectors, and introduces the UPI, QR payment method, enhancing economic ties.
-
-🟩
-
-The official payment system in India was officially launched in Colombo yesterday (15).
-
-It is the main Commissioner of Indian High Commissioner and the Central Bank of Sri Lanka.
-
-This method can deal with Indian tourists without money.
-
-Indian High Commissioner Sanantha Raman, Sri Lanka
-
-"Most you know mostly the pricome of India is the leading economic association in Sri Lanka. We are the largest foreign investment partner in Sri Lanka as well as the largest foreign investment partner in Sri Lanka. India has also brought the highest number of tourists to Sri Lanka. "
-
-"We hope to help promote the tourism industry in Sri Lanka and enhance investment in Sri Lanka by introducing the UPI, QR payment method."
-
-"With the introduction of UPI, QR payment method, the UPI system can use the UPI system to pay for Sri Lanka."
-
-"It does not only make India comfortable. It is stimulating the economy and tourism industry.. Cooperation in the field of finance technology is further strengthened. "
-
-...
-
-[Data](articles/06019ca8.json)
-
-[Extended Data](ext_articles/06019ca8.ext.json)
 
 ---

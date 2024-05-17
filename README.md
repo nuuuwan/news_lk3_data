@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 06:18:33**
+As of **2024-05-17 06:58:15**
 
 ## Newspaper Stats
 
-*Scraped **24,572** Articles*
+*Scraped **24,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,411
 dailyftlk | 1,450
 adalk | 2,107
 adaderanalk | 2,840
-tamilmirrorlk | 2,885
+tamilmirrorlk | 2,886
 virakesarilk | 3,696
 dailymirrorlk | 3,855
 adaderanasinhalalk | 3,914
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,563 (100.0%) of 24,572 articles have been extended.
+24,572 (100.0%) of 24,573 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Her Bharatanatyam performance was a spectacle of precision and grace, bringing a
 
 [Data](articles/8698f8df.json)
 
+[Extended Data](ext_articles/8698f8df.ext.json)
+
 ---
 
 ### Bourse mired in sluggishness as political uncertainties remain dominant
@@ -59,6 +61,8 @@ As a result, mixed reactions were noted in both indices. The Al-l Share Price In
 ...
 
 [Data](articles/d91ce05c.json)
+
+[Extended Data](ext_articles/d91ce05c.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ The itinerary of BikingMan Ultracycling World Championship was meticulously craf
 
 [Data](articles/e6c27477.json)
 
+[Extended Data](ext_articles/e6c27477.ext.json)
+
 ---
 
 ### Cross Border Partnership: It’s ‘JumJum’ for PickMe in Nepal— IFC endorses move to support Nepal’s startup ecosystem
@@ -87,6 +93,8 @@ PickMe’s CEO Zulfer Jiffry says it made perfect sense to launch their services
 ...
 
 [Data](articles/03486a0a.json)
+
+[Extended Data](ext_articles/03486a0a.ext.json)
 
 ---
 
@@ -102,6 +110,8 @@ The session covered various facets of CAR insurance, including its scope of cove
 
 [Data](articles/83d9ae48.json)
 
+[Extended Data](ext_articles/83d9ae48.ext.json)
+
 ---
 
 ### Professor Ajith De Alwis encourages AIA higher education scholarship winners to reach for excellence
@@ -113,6 +123,22 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 ...
 
 [Data](articles/f4181df1.json)
+
+[Extended Data](ext_articles/f4181df1.ext.json)
+
+---
+
+### 6 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-05-17 02:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-337445) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான வானிலையால் 06 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+பதுளை, கண்டி கேகாலை, களுத்துறை, குருநாகல், நுவரெலியா, மாத்தளை மற்றும் இரத்தினபுரி மாவட்டங்களின் சில பிரதேச செயலாளர் பிரிவுகளுக்குட்பட்ட பகுதிகளுக்கு முதலாம் கட்ட மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/7959fe23.json)
 
 ---
 
@@ -2215,23 +2241,5 @@ The students who need more information can be consulted from the school authorit
 [Data](articles/65d5abbb.json)
 
 [Extended Data](ext_articles/65d5abbb.ext.json)
-
----
-
-### Carrots today
-
-*2024-05-16 15:04:35* · [`adalk`](https://www.ada.lk/breaking_news/එදා-කැරට්-අද-දෙහි/11-409680) · `si`
-
-Carrot prices exceed Rs.3000/kg nationwide, affecting consumers and farmers alike. In the Uva Province, supply issues persist despite efforts to increase production. Merchants report rising costs due to increased lime consignments.
-
-🟩
-
-The price of carrot prices in the market has increased, so far the price of a kilo of kilogram has exceeded Rs.3000 in many parts of the country.. The gardener is especially from the Uva Province from the Uva Province, which is provided in the Uva Province but will not be more sufficient than before. The merchants say that the lime consignment and retail prices have increased.
-
-◼️
-
-[Data](articles/83f08e0a.json)
-
-[Extended Data](ext_articles/83f08e0a.ext.json)
 
 ---

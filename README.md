@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 13:34:00**
+As of **2024-05-17 13:53:01**
 
 ## Newspaper Stats
 
-*Scraped **24,628** Articles*
+*Scraped **24,637** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 220
 bbccomsinhala | 250
-dbsjeyarajcom | 251
+dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,111
-adaderanalk | 2,851
+adaderanalk | 2,852
 tamilmirrorlk | 2,891
-virakesarilk | 3,706
+virakesarilk | 3,713
 dailymirrorlk | 3,862
 adaderanasinhalalk | 3,926
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,628 (100.0%) of 24,628 articles have been extended.
+24,628 (100.0%) of 24,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Advisories issued for heavy rain, strong winds and rough seas
+
+*2024-05-17 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99275/advisories-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for the sea areas extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota.
+
+The sea areas extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota will be rough at times with strong gusty winds up to 60-70 kmph, the department warned.
+
+Showers or thundershowers will occur at times in these sea areas and heavy showers may occur at some places, it said while urging naval and fishing communities to be attentive in this regard.
+
+Meanwhile the Met. Department has also issued an advisory for strong winds and rough seas for the naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea
+
+The Meteorology Department warns that strong winds accompanied with heavy rainfalls and very rough seas are expected to enhance during the next few days over the sea areas around the country and over the South-eastern Sea areas.
+
+...
+
+[Data](articles/75f4cc14.json)
+
+---
 
 ### Sri Lanka’s macroeconomic policies are starting to bear fruit - IMF
 
@@ -50,6 +70,66 @@ Addressing a press briefing held on Thursday (16) in the Washington DC, the Dire
 
 ---
 
+### சர்வதேச குற்றவியல் விசாரணை தேவை என்கிறார் செல்வராசா கஜேந்திரன்
+
+*2024-05-17 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183767) · `ta`
+
+சர்வதேச குற்றவியல் விசாரணை வேண்டும் நல்லிணக்க ஆணைக்குழுவை உருவாக்கி அரசாங்கம் சர்வதேசத்தை ஏமாற்றியுள்ளது என பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தெரிவித்துள்ளார்.
+
+மூதூரில் இடம்பெற்ற  முள்ளிவாய்க்கால் நினைவேந்தலின் போது கைது செய்யப்பட்டவர்களின் நிலை தொடர்பில் சட்டத்தரணி சுகாஷ் செய்த சமர்ப்பணத்தின் பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்துள்ளார்.
+
+இந்த மாதம் தமிழர்களுக்கு வலி சுமந்த மாதம் எனவும்  தமிழர்களை 15 வருட காலமாக ஏமாற்றி வரும் இந்த அரசு முள்ளிவாய்க்கால் இனப்படுகொலை தொடர்பாக அவர்களை நினைவு கூர விடாமல் தடுத்துள்ளதாகவும் தெரிவித்துள்ளார்.
+
+இந்த நிலையில் மூதூரில் கைது செய்யப்பட்டவர்கள் தொடர்பில் ஐசிசிபி ஆர் தொடர்பான அறிக்கையை பொலிஸாரிடம் நீதிமன்றம் கோரியுள்ளது.
+
+இந்த விடயம் தொடர்பில் சமர்ப்பணங்களை முன்வைத்து நீதிமன்றத்தில் வாதாடிய சிரேஷ்ட சட்டத்தரணி சுகாஷ் மற்றும் முஸ்லிம் சட்டத்தரணிகளுக்கு இந்த நேரத்தில் நன்றிகளை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/3bf7997f.json)
+
+---
+
+### க. பொ.த. சாதாரண தரப் பரீட்சையில் பல முறைப்பாடுகள்
+
+*2024-05-17 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183763) · `ta`
+
+தற்போது நிறைவடைந்த 2023 கல்வி பொதுத் தராதர சாதாரண தரப் பரீட்சை தொடர்பில் புதிய முறைப்பாடு முன்வைக்கப்பட்டுள்ளன.
+
+மினுவாங்கொடை அல்-அமான் முஸ்லிம் மகா வித்தியாலயத்தில் 50 மதிப்பெண்கள் கொண்ட புவியியல் பாடத்திற்கான பகுதி 1 வினாத்தாள் மற்றும் வரைபடங்கள் தங்களுக்கு வழங்கப்படவில்லை என 14 தமிழ் மொழி மாணவர்கள் முறைப்பாடு அளித்துள்ளனர்.
+
+“நாங்கள் பகுதி 1 வினாத்தாளைக் கேட்டபோது, அது வழங்கப்பட்டுள்ளதாக கூறினார்கள். ஆனால் இறுதி வரை எங்களுக்கு வினாத்தாள் வழங்கப்படவில்லை. அனைத்து மாணவர்களும் புவியியல் பாடத்தில் சிறப்பாக தேர்ச்சி பெற்றவர்கள். 50 மதிப்பெண்களை இழந்தது மிகவும் அநியாயம்” என மாணவர்கள் தெரிவித்துள்ளனர்.
+
+இதேவேளை, விசேட தேவையுடைய இரு மாணவர்களும் தங்களுக்கான சேவைகளை புறக்கணித்தமை தொடர்பிலும் முறைப்பாடுகளை முன்வைத்துள்ளனர்.
+
+வத்தளை புனித அந்தோனியார் பாடசாலையில் பரீட்சைக்குத் தோற்றிய விசேட தேவையுடைய மாணவன் ஒருவருக்கு விடைகளை  எழுதுவதற்கு பரீட்சை திணைக்களத்தினால் அனுமதியளிக்கப்பட்ட தனிநபரின் சேவையை பெற முடியாமல் போனதாக தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/42ec106b.json)
+
+---
+
+### ரபா மீதான தாக்குதலை இஸ்ரேல் நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் - தென்னாபிரிக்கா வேண்டுகோள்
+
+*2024-05-17 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183769) · `ta`
+
+ரபாமீதான தாக்குதலை இஸ்ரேல் கைவிடவேண்டும் என சர்வதேச குற்றவியல் நீதிமன்றம் உத்தரவிடவேண்டும் என தென்னாபிரிக்கா வேண்டுகோள் விடுத்துள்ளது.
+
+ரபா மீதான தாக்குதலை இஸ்ரேல் நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் என அவர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+ஏழு மாத காசா யுத்தம் 35000 பேரை கொலை செய்துள்ளதுடன் காசாவை தரைமட்டமாக்கியுள்ளது எனஅவர்கள் தெரிவித்துள்ளனர்.
+
+துயரம் என்பது மிகமோசமானதாக காணப்படுவதால் உணவு மருந்து போன்றவற்றை காசாவிற்குள் கொண்டு செல்வதற்கு யுத்தநிறுத்தம் அவசியமாகின்றது என தென்னாபிரிக்காசட்டத்தரணிகள் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலின் தரைத்தாக்குதலை ரபா எதிர்கொண்டுள்ளது இது பாலஸ்தீனியர்களின் வாழ்க்கையின் அடித்தளத்தையே அழித்துவிடும் என தென்னாபிரிக்க சட்டத்தரணி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d170c9ca.json)
+
+---
+
 ### Two arrested with over 1,000 mobile phones and 200 pen drives at BIA
 
 *2024-05-17 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99273/two-arrested-with-over-1000-mobile-phones-and-200-pen-drives-at-bia) · `en`
@@ -58,13 +138,39 @@ The officers of the Criminal Investigation Department (CID) at the Bandaranaike 
 
 Police said that the duo had arrived at the BIA from Dubai this morning (17).
 
-The value of the confiscated items found in the possession of the suspects is estimated to be around Rs. 50 million, according to police.
+One of the two arrested suspects has been identified as a 59-year-old resident of the Colombo 12 while the other suspect is a 24-year-old hailed from Colombo 14, Ada Derana reporter said.
+
+The value of the confiscated items found in the possession of the suspects is estimated to be around Rs. 50 million, according to police. The seized items have been handed over to Sri Lankan Customs for further investigations.
 
 ◼️
 
 [Data](articles/d1055e01.json)
 
 [Extended Data](ext_articles/d1055e01.ext.json)
+
+---
+
+### பிரான்சில் யூதவழிபாட்டுதலத்தை தீயிட்டு எரிக்க முயன்ற நபர் பொலிஸாரால் சுட்டுக்கொலை
+
+*2024-05-17 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183765) · `ta`
+
+யூதவழிபாட்டுதலத்திலிருந்து புகைமண்டலம் வெளிவருவதை அவதானித்தவர்கள் பொலிஸாருக்கு தகவல் தெரிவித்துள்ளனர்-பொலிஸார் அங்கு சென்றவேளை கத்தி இரும்புடன் அவர்களை நோக்கி சென்ற நபர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/be8e3c43.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-17 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183766) · `ta`
+
+இன்று வெள்ளிக்கிழமை (மே 17) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 295.8026 ஆகவும் விற்பனை விலை ரூபா 305.1511 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6d8eba61.json)
 
 ---
 
@@ -88,6 +194,24 @@ Ashley de Silva said that Kusal's visa has not been rejected and the US embassy 
 
 ---
 
+### டயனா கமகே பயன்படுத்திய 4 வாகனங்களும் அமைச்சுக்கு கையளிக்கப்படவில்லை !
+
+*2024-05-17 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183738) · `ta`
+
+முன்னாள் சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே பயன்படுத்திய அமைச்சுக்கு சொந்தமான நான்கு வாகனங்களையும் உடனடியாக கையளிக்குமாறு அறிவிக்கப்பட்டும், அவை இதுவரை கையளிக்கப்படவில்லை என சுற்றுலாத்துறை அமைச்சு தெரிவித்துள்ளது.
+
+நான்கு வாகனங்களையும் மே மாதம் 08 ஆம்  திகதி அமைச்சிடம் ஒப்படைக்குமாறு சுற்றுலாத்துறை அமைச்சு அறிவித்துள்ளது.
+
+இதுவரை ஒப்படைக்கப்படாத வாகனங்களில் டிஸ்கவரி ஜீப், கெப் வண்டி, பிராடோ ஜீப் மற்றும் கார் ஒன்றும் காணப்படுகின்றது.
+
+இவற்றில் கெப் வண்டியானது விபத்துக்குள்ளான காரணத்தினால் குருணாகல் பொலிஸ் பாதுகாப்பில் இருப்பதாக தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/9feb0ba3.json)
+
+---
+
 ### Rathupaswala shooting: High Court to deliver verdict today
 
 *2024-05-17 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99272/rathupaswala-shooting-high-court-to-deliver-verdict-today) · `en`
@@ -105,6 +229,26 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 [Data](articles/e4de6692.json)
 
 [Extended Data](ext_articles/e4de6692.ext.json)
+
+---
+
+### வரலாற்றில் இன்று : 1973 - கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தை (BMICH) திறந்துவைத்த சிறிமாவும் சீன துணைத் தலைவரும்!
+
+*2024-05-17 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183761) · `ta`
+
+கொழும்பு பெளத்தலோக மாவத்தையில் பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபம் (BMICH) 1973ஆம் ஆண்டு மே 17 அன்று, இதே திகதியில் திறந்துவைக்கப்பட்டது.
+
+அன்றைய பிரதமர் சிறிமாவோ பண்டாரநாயக்கவின் அழைப்பை ஏற்று, சீன பிரதமர் சூ என் லாய் இலங்கைக்கு வருகை தந்து மண்டபத்தை திறந்துவைப்பதாக முதலில் அறிவிக்கப்பட்டிருந்தது.
+
+எனினும், வைபவ நாளில் சீன பிரதமருக்கு பதிலாக, அவரது விசேட பிரதிநிதியான சீன உப தலைவர் மார்ஷல் சூ சியாங் ஷென் பண்டாரநாயக்க மண்டபத்தை திறந்துவைத்தார்.
+
+சீன அரசாங்கத்தினால் சீன தொழில்நுட்ப உதவியாளர்கள், சீன தொழிலாளர்கள், இலங்கை பொறியியலாளர்கள் மற்றும் தொழிலாளர்கள் இணைந்து 3 கோடியே 50 லட்சம் ரூபாய் செலவில் பண்டாரநாயக்க மண்டபத்தை  கட்டியதாக கூறப்படுகிறது.
+
+இரத்மலானை விமான நிலையத்தை வந்தடைந்த சீன துணைத் தலைவரை  முன்னாள் பிரதமர் சிறிமாவோ பண்டாரநாயக்க வரவேற்பதையும், மண்டபம் திறப்பு மற்றும் பிரதமரின் உரை உள்ளிட்ட பல்வேறு விடயங்களோடு 1973 மே 9, 17, 18 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கங்களை இங்கே காணலாம்.
+
+◼️
+
+[Data](articles/88dbd330.json)
 
 ---
 
@@ -1999,187 +2143,5 @@ The National Center on the Missing and exploitation of the US, the National Cent
 [Data](articles/90e43443.json)
 
 [Extended Data](ext_articles/90e43443.ext.json)
-
----
-
-### RW declines, Sajith yet to respond, AKD says yes
-
-*2024-05-16 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/RW-declines-Sajith-yet-to-respond-AKD-says-yes/108-282743) · `en`
-
-Colombo, May 16 - President Ranil Wickremesinghe informed the Daily Mirror that he is not in a position to participate in the live political debate organized by Daily Mirror and Lankadeepa between the political party leaders when an invitation was extended to him today.
-
-“I am engaged in debates in Parliament. If anyone wants to have debates with me they can join me in Parliament,” the President said.
-
-The Daily Mirror extended invitations to main presidential candidates Ranil Wickremesinghe, National Peoples Power Leader Anura Kumara Dissanayake and Leader of Opposition Sajith Premadasa for a live debate on their parties economic and political policies and their pledges in moving the country forward if they win the presidential election scheduled to be held this year.
-
-SJB Leader Sajith Premadasa has still not responded to the invitation while NPP Leader Anura Kumara Dissanayake has accepted to debate.
-
-...
-
-[Data](articles/bb0d7442.json)
-
-[Extended Data](ext_articles/bb0d7442.ext.json)
-
----
-
-### House in pleasing house to twin children three Habarana
-
-*2024-05-16 19:38:17* · [`adalk`](https://www.ada.lk/breaking_news/හබරණ-තුන්-නිවුන්-දරුවන්ට-ප්‍රසන්නගෙන්-නිවසක්/11-409689) · `si`
-
-The Ministry of Urban Development and Housing, in response to media attention, supports the National Housing Development Authority's initiative to provide housing in Habarana, particularly for families like the twins' in Puwakpitiya.
-
-🟩
-
-The Ministry of Urban Development and Housing is a subtropical to the National Housing Development Authority to live in a house of Habarana Puwakpitiya, Habarana Puwakpitiya.
-
-The Minister was responding to the Chairman of the Authority after the focus of the news reports on the house of the family living in the house which had been published in the family.
-
-◼️
-
-[Data](articles/3c517f51.json)
-
-[Extended Data](ext_articles/3c517f51.ext.json)
-
----
-
-### Minister of Ministers Sheha threatened with death
-
-*2024-05-16 19:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ශෙහාන්ට-මරණ-තර්ජන/11-409688) · `si`
-
-Sheha, Minister of Ministers, faced a death threat, prompting Fort Police to investigate. A government office received two threatening calls on the 15th, demanding not to attend work. The caller identified himself as "Sir" but was disconnected before revealing his identity. The case is under investigation, including phone analysis.
-
-🟩
-
-Fort police said that the Fort Police have commenced investigations into a threat to an unknown person to kill and burn and burn and burn and burn and burn and burn.
-
-A management Assistant and an office worker has complained that the two threatened calls have been received at 4 pm yesterday (15th).
-
-It has been obtained by a office staff of the government through the main telephone number and after the government minister is in office, he is the one who says to Sir, don't say, 'Don't come here in the life,"The Office Assistant said that the office assistant was disconnected to say he would be compensated."
-
-According to the police, a manager comprising had taken the call after a call from the main telephone number after nine minutes later.
-
-Speaking to the court regarding the threat, the Higher Police Officer added that investigations are conducted through telephone analysis reports
-
-◼️
-
-[Data](articles/96a42f6f.json)
-
-[Extended Data](ext_articles/96a42f6f.ext.json)
-
----
-
-### There is no pay hike for public servants
-
-*2024-05-16 19:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-சம்பள-உயர்வு-இல்லை/175-337440) · `ta`
-
-Mahinda Amaraweera, Minister of Agriculture, announced no pay hike for public servants this year due to potential economic risks. Unions requested an increase, but the minister warned it could lead to an economic downturn.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera has said that the President has informed the Cabinet that the pay hike will not be paid this year.
-
-All union representatives have asked the minister to provide a salary increase this year and this year.
-
-The Minister has urged that government employees will be given a re -pay hike next year and if the salary increases this year, the country will re -face economic downturn.. Remble
-
-◼️
-
-[Data](articles/b68827bc.json)
-
-[Extended Data](ext_articles/b68827bc.ext.json)
-
----
-
-### A special delegation to Russia to look into Sri Lankans who went to Russian war
-
-*2024-05-16 19:17:13* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-යුද්ධයට-ගිය-ලාංකිකයන්-ගැන-හොයන්න-විශේෂිත-දූත-පිරිසක්-රුසියාවට/11-409687) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe has ordered an investigation into Sri Lankans involved in the Russian-Ukrainian conflict. A delegation from the Ministries of Defense and External Affairs will travel to Russia to conduct a census and address concerns about individuals reportedly deceived into going there under false pretenses, such as offers of Russian citizenship. The government aims to protect its citizens and ensure their safe return.
-
-🟩
-
-Minister of External Affairs Tharaka Balasuriya said President Ranil Wickremesinghe has instructed to investigate Sri Lankans who are in the Russian-Ukrainian war.
-
-Accordingly, the Defense Secretary, the Secretary of the Ministry of Defense and the Ministry of External Affairs will leave for Russia soon.
-
-State Minister of State Minister spoke this commented at a press conference held at the Presidential Media Center today (16).
-
-The Ministry of External Affairs and the Ministry of Defense are doing a census in relation to Sri Lankans who are in Russian - Ukrainian war. It has been revealed that some Sri Lankans were sent to Russia by tourist visa.. Also, a large number of them are retired soldiers representing the Armed Forces. One of the main problems we have here is that how much is to go to Russia. According to unofficial sources, 600-800 have been reported to be in Russia. Sometimes that size may be less or more.
-
-...
-
-[Data](articles/baf7c013.json)
-
-[Extended Data](ext_articles/baf7c013.ext.json)
-
----
-
-### State Minister Prasanna Ranaweera assaults ‘Porter’ at BIA
-
-*2024-05-16 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99260/state-minister-prasanna-ranaweera-assaults-porter-at-bia) · `en`
-
-State Minister of Small and Medium Enterprises Development Prasanna Ranaweera has reportedly assaulted a Porter at the Bandaranaike International Airport (BIA) in Katunayake.
-
-Meanwhile, the State Minister has also threatened several security officers at the airport, according to sources.
-
-Accompanied by his ministerial security personnel, Ranaweera had visited the airport with his wife in the early hours of Tuesday (May 14) as his spouse was scheduled to travel overseas.
-
-The state minister had attempted to enter the airport through its main entrance along with his ministerial security officers who were carrying firearms, sources said.
-
-At that moment, the airport security officers have informed the state minister that they could not allow the ministerial security officers to enter the airport while carrying the firearms.
-
-The state minister had then allegedly proceeded to verbally abuse the airport security officers.
-
-...
-
-[Data](articles/dfecd30c.json)
-
-[Extended Data](ext_articles/dfecd30c.ext.json)
-
----
-
-### Landsay releases early warning announcements
-
-*2024-05-16 19:09:57* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-පූර්ව-අනතුරු-ඇඟවීමේ-නිවේදන-නිකුත්-කරයි/11-409686) · `si`
-
-The National Building Research Organization issued early warnings about landslides in 24 Divisional Secretariats across eight districts due to heavy rains. The alerts are effective from 4:00 PM today until 4:00 PM tomorrow. Areas affected include Ella, Haputale, Halpuththa, Halpattuwa, Kegalle, Kotmale, Ratnapura, Gampaha, Kothma, Galle, Kurunegala, and others. Residents are advised to stay alert.
-
-🟩
-
-The National Building Research Organization has taken steps to issue landslide embarking announcements to 24 Divisional Secretariats in eight districts due to heavy rainfalls in the island.
-
-The announcements are valid for the period from 4.00 pm to 4.00 pm tomorrow (16).
-
-Accordingly, Ella, Haputale, Halpuththa, Halputha, Halputha, Halpattwita, Kegalle District, Kotmale, Ratnapura District, Gampaha District, Kothama, Ratnapura District, Galle, Kegalle District, Galle District, Kegalle District, Galle, Kegalle District, Kegalle District, Kurunegala, Kegalle District, Kegalle, Kegalle, Kegalle, RatnapuraThe National Building Research Organization has taken steps to issue the first inquiry in the Matale District in Kalutara District of Ukuwela and Rattota Divisional Secretariat Divisions.
-
-The people living in these areas should be aware of this and the organization said.
-
-◼️
-
-[Data](articles/7c4c90fb.json)
-
-[Extended Data](ext_articles/7c4c90fb.ext.json)
-
----
-
-### SLPP ready for any election: MR
-
-*2024-05-16 19:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-ready-for-any-election-MR/108-282738) · `en`
-
-Colombo, May 16 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) is ready to face any election, whether it is a general election or the Presidential election, former President Mahinda Rajapaksa said today.
-
-"We are ready for any election. If the general election is held first, we are ready for it. We are ready for the Presidential election also if it is held first. We have no issue about that," he told the media after an event at the SLPP headquarters.
-
-When asked about his statement against selling national assets, he said not only he, but ninety-nine percent of the party holds that stance.
-
-"Not only I, but 99 percent in our party is of that stance," he said.
-
-Responding to a question whether the SLPP will not approve of the action plans of this government, he said, "We do not approve of the action plan of this government. We have a right to do so. We have our freedom. The SLPP has not betrayed its freedom to the government. We are ready to express our opinion at any time."
-
-◼️
-
-[Data](articles/7c802356.json)
-
-[Extended Data](ext_articles/7c802356.ext.json)
 
 ---

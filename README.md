@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 10:18:12**
+As of **2024-05-17 10:33:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,601 (100.0%) of 24,604 articles have been extended.
+24,604 (100.0%) of 24,604 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh F
 ◼️
 
 [Data](articles/4fcdf71b.json)
+
+[Extended Data](ext_articles/4fcdf71b.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 perc
 ◼️
 
 [Data](articles/aa35a28d.json)
+
+[Extended Data](ext_articles/aa35a28d.ext.json)
 
 ---
 
@@ -281,6 +285,8 @@ There have been around 26,000 absentees from the armed forces, the State Ministe
 ...
 
 [Data](articles/1682eb82.json)
+
+[Extended Data](ext_articles/1682eb82.ext.json)
 
 ---
 

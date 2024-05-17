@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 21:03:32**
+As of **2024-05-17 21:18:27**
 
 ## Newspaper Stats
 
-*Scraped **24,707** Articles*
+*Scraped **24,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,115
 adaderanalk | 2,863
 tamilmirrorlk | 2,898
 virakesarilk | 3,724
-dailymirrorlk | 3,877
-adaderanasinhalalk | 3,946
+dailymirrorlk | 3,879
+adaderanasinhalalk | 3,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,702 (100.0%) of 24,707 articles have been extended.
+24,707 (100.0%) of 24,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Over 400 players to go under the hammer at LPL Auction
+
+*2024-05-17 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-400-players-to-go-under-the-hammer-at-LPL-Auction/108-282822) · `en`
+
+May 17 (Daily Mirror) - Over 400 players, both Sri Lankan and overseas, are poised to go under the hammer during the Player Auction of the Lanka Premier League (LPL) T20 Cricket Tournament on May 21 in Colombo.
+
+The auction will feature a collective purse of US $2.5m from all five franchise teams, with each franchise contributing US $500,000.
+
+The teams are mandated to utilize a minimum of 85 percent of the purse they bring into the auction to assemble their squads.
+
+Samantha Dodanwela, LPL Tournament Director told the media that approximately 260 overseas players, including several prominent international names, have been shortlisted for this year's auction.
+
+Dodanwela revealed that the fifth edition of the LPL 2024, scheduled to run from July 1 to 21, has witnessed the registration of over 600 overseas players. However, only around 260 of them have made it to the final shortlist for the auction.
+
+...
+
+[Data](articles/442f907e.json)
+
+---
 
 ### 'Mehta Toss Rule' for Indian Premier League Playoffs
 
@@ -45,6 +65,28 @@ When the Indian cricket board is considering abolishing the tossing of the coin 
 ...
 
 [Data](articles/26993d72.json)
+
+[Extended Data](ext_articles/26993d72.ext.json)
+
+---
+
+### කැත්‍රින් ගෙන් චීනයට ආ විරෝධය
+
+*2024-05-17 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196736) · `si`
+
+ශ්‍රී ලංකා ආර්ථික මුහුදු කලාපයෙන් චීන පර්යේෂණ නෞකා ඉවත්කර තැබීම සඳහා අමෙරිකාව මෙරට රජය සමඟ අඛණ්ඩව කටයුතු කරන බව ශ්‍රී ලංකාව සඳහා නම් කළ නව අමෙරිකානු තානාපතිනි එලිසබෙත් කැත්‍රින් හෝර්ස්ට් මහත්මිය එරට සෙනට් සභාව ඉදිරියේ ප්‍රකාශ කර තිබේ.
+
+ශ්‍රී ලංකාව් නව අමෙරිකානු තානාපතිනිය ලෙස එලිසබෙත් කැත්‍රින් හෝර්ස්ට් මහත්මිය නම් කර තිබේ.
+
+එරට ඇය අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවේ පාකිස්තානය භාර ප්‍රධාන නියෝජ්‍ය සහකාර ලේකම් ලෙස කටයුතු කළ ජ්‍යේෂ්ඨ රාජ්‍ය තාන්ත්‍රික නිලධාරිනියකි.
+
+පාකිස්තානයේ අග්‍රාමාත්‍යවරයා ලෙස කටයුතු කළ ඉම්රාන් ඛාන් පාලනය සමයේ එරට කටයුතු සඳහා අමෙරිකාවේ ප්‍රබලව මැදිහත්වීමක් සිදුවූ බවට ද චෝදනා එල්ලවන්නේ එවන් පසුබිමක් තුළය.
+
+කෙසේවෙතත් හෝස්ට් මහත්මිය මෙරට තානාපතිනිය ලෙස පත්වන්නේ එරට සෙනෙට් සභාවේ සහ ශ්‍රී ලංකා රජයෙන් අනුමැතිය හිමිවීමෙන් පසුව වන අතර පසුගියදා ඇය අමෙරිකාවේ සෙනෙට් සභාවේ විදේශ සබඳතා කමිටුව හමුවට කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/76874edf.json)
 
 ---
 
@@ -66,17 +108,25 @@ The discussion also focused on the hurdles impeding the Provincial Council elect
 
 [Data](articles/25dc8e11.json)
 
+[Extended Data](ext_articles/25dc8e11.ext.json)
+
 ---
 
-### எல்ல - வெல்லவாய பிரதான வீதிக்கு பூட்டு
+### Ella - Lock to the main road
 
 *2024-05-17 20:23:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-பிரதான-வீதிக்கு-பூட்டு/175-337460) · `ta`
 
-எல்ல - வெல்லவாய பிரதான வீதி இன்று இரவு 8 மணி முதல் நாளை காலை 6 மணி வரை போக்குவரத்துக்கு மூடப்படவுள்ளதாக அறிக்கப்பட்டுள்ளது.
+"Ella to Wellawaya main road closure: 8pm to 6am tomorrow."
+
+🟩
+
+The Ella - Wellawaya main road is to be closed from 8 pm to 6 am tomorrow.
 
 ◼️
 
 [Data](articles/91e74033.json)
+
+[Extended Data](ext_articles/91e74033.ext.json)
 
 ---
 
@@ -93,6 +143,8 @@ This decision comes as a precautionary measure due to the hazardous state of the
 ◼️
 
 [Data](articles/ce8eb629.json)
+
+[Extended Data](ext_articles/ce8eb629.ext.json)
 
 ---
 
@@ -466,21 +518,27 @@ Further, an adjournment Bill put forth by the opposition will be deliberated on 
 
 ---
 
-### පුලියක තිබූ කෝටි 10ක අයිස් අල්ලයි
+### 10 billion ices arrested
 
 *2024-05-17 17:55:23* · [`adalk`](https://www.ada.lk/breaking_news/පුලියක-තිබූ-කෝටි-10ක-අයිස්-අල්ලයි/11-409698) · `si`
 
-රුපියල් කෝටි දහයක ආසන්න  වටිනාකමක් සහිත මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් , පුලියක සගවා  ලතින් ඇමෙරිකාවේ ගෝතමාළා රාජ්‍යයේ සිට කටුනායක , සීදුව කළම්බු කාර්ගෝ බන්ධිත ගුදම් ගබඩා සංකීර්ණය  වෙත කූරියර් පාර්සල් සේවය ඔස්සේ ගුවන් තැපැල් මගින්  එවා තිබියදී 05/17 පස්වරුවේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+In Polonnaruwa, a 25-year-old farmer received a shipment of 101 grams of ice drugs, which were then confiscated by the local police narcotics unit.
 
-මෙම මත්ද්‍රව්‍ය තොගය පොළොන්නරුව ජයන්තිපුර ප්‍රදේශයේ 25 හැවිරිදි ගොවියෙකුගේ ලිපිනයට එවා තිබූ අතර , ඔහු මෙම " පුලිය " සහිත ඇසුරුම භාර ගැනීමට සීදුව බන්ධිත ගුදම් සංකීර්ණය වෙත පැමිණ සිටියදී , ඔහු ඉදිරිපිට මෙම ඇසුරුම ගලවා පරීක්ෂා කිරීමෙන් පසු , ඔහු  රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+🟩
 
-මෙම " පුලිය " තුළ කිලෝ ග්‍රෑම් 03 යි ග්‍රෑම් 101 ක් බරැති මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් සගවා තිබුණි .
+A large haul of Rs.Have arrested.
 
-මෙසේ අත් අඩංගුවට ගත් මෙතැම්පටමයින් තොගය සහ ඒවා භාර ගැනීමට පැමිණි තරුණයා මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබේ .
+The stock of drug was sent to a 25-year-old farmer address in the area in Polonnaruwa.Available.
+
+A large quantity of Ice drug, or Ice weighted 101 grams, or 101 grams weighing 101 grams.
+
+The arrival and the youth who had come to take over them and the youth have been handed over to the police narcotics unit of the Police Narcotics Division.
 
 ◼️
 
 [Data](articles/06244dbc.json)
+
+[Extended Data](ext_articles/06244dbc.ext.json)
 
 ---
 
@@ -1394,6 +1452,22 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 
 ---
 
+### Four including army Major General acquitted in Rathupaswala shooting case
+
+*2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Four-including-army-Major-General-acquitted-in-Rathupaswala-shooting-case/155-282812) · `en`
+
+Gampaha, May 17 (Daily Mirror) - The Gampaha High Court Trial-at-Bar acquitted the four accused including a Major General involved in the shooting incident that resulted in the deaths of three individuals and the injury of several others during a protest for clean drinking water in Rathupaswala on August 1, 2013.
+
+Court has ordered the release of the four Sri Lanka army personnel, including a Major General and three soldiers.
+
+The incident took place on August 01, 2013, when army personnel fired upon unarmed villagers in Weliweriya who were protesting against a factory they accused of contaminating their groundwater and demanding access to clean drinking water.
+
+◼️
+
+[Data](articles/e2a41ca2.json)
+
+---
+
 ### Two schoolgirls, youth marooned in floods, rescued
 
 *2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-schoolgirls-youth-marooned-in-floods-rescued/108-282808) · `en`
@@ -2223,83 +2297,5 @@ Furthermore, the police mentioned that measures are underway to extradite the su
 [Data](articles/6e9b836c.json)
 
 [Extended Data](ext_articles/6e9b836c.ext.json)
-
----
-
-### The old man in Jaffna
-
-*2024-05-17 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183748) · `ta`
-
-An elderly man in Jaffna, living alone after his wife's death, tragically fell into a well in his home, captured on CCTV. A sudden death investigation is underway, led by Officer A. Jayapalasingham, with the body now with family after autopsy.
-
-🟩
-
-An elderly man who was frustrated in the east of the Ezhukovil in Jaffna, Jaffna, died on Thursday (16).
-
-The old man's wife dies. The elderly man is living alone in the house of all his children living abroad.
-
-In this case, he fell into the well in his house today. The scene was recorded on the CCT camera.
-
-A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/8924b8df.json)
-
-[Extended Data](ext_articles/8924b8df.ext.json)
-
----
-
-### Woman murdered in JaffnaArrest
-
-*2024-05-17 10:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-துஷ்பிரயோகப்படுத்தப்பட்டு-பெண்-கொலை-கணவர்-கைது/71-337451) · `ta`
-
-In Jaffna, a woman was murdered; her husband, suspected of the crime, was arrested. The incident occurred in the Uruttarakku North Taladi area, where the victim was found dead. An autopsy revealed she was strangled and abused. The husband reported finding her body upon returning home early one morning. He was subsequently arrested and appeared in court.
-
-🟩
-
-A woman's husband has been arrested on suspicion of murdering a woman in Jaffna
-
-The Kankesanthurai Regional Criminal Investigation Division arrested the suspect and handed over to the Maruthankeni police.
-
-A woman was abused and strangled to death on the 10th of last month in the Uruttarakku North Taladi area of the Maruthankani police division.
-
-When he returned home early in the morning, the husband of the deceased woman had lodged a complaint at the police station, saying that his wife was found dead in front of the toilet of the house.
-
-An autopsy confirmed that the deceased woman was abused and strangled to death.
-
-The husband of a 52 -year -old woman was arrested on the 15th of September, on suspicion of having a frequent conflict between a woman and her husband who died in police investigation.
-
-The suspect was taken to the Kilinochchi Magistrate's Court yesterday (16). Remble
-
-◼️
-
-[Data](articles/27db5439.json)
-
-[Extended Data](ext_articles/27db5439.ext.json)
-
----
-
-### Sri Lanka’s Bimputh Finance changes name
-
-*2024-05-17 10:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-bimputh-finance-changes-name-163438/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Bimputh Finance Plc (BFP), a licensed finance company, has said it will change the company name.
-
-“Since the Central Bank required to exclude … using the word ‘Finance’, … board has decided to change the company name as Bimputh Lanka Investments PLC with effect from 20th May 2024,” the company said in a stock exchange filing.
-
-The Registrar of the Companies had approved the change, it said.
-
-Earlier this year, disciplinary action was taken against the Board of Directors of Bimputh Finance Plc for its failure to submit an annual report in violation of the Listing Rules.
-
-A penalty of one million rupees was imposed on each director of the Board of Directors of the Company on January 5.
-
-In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh Finance Plc, and announced that the remaining deposits will be repaid through a deposit insurance scheme. (Colombo/May17/2024)
-
-◼️
-
-[Data](articles/4fcdf71b.json)
-
-[Extended Data](ext_articles/4fcdf71b.ext.json)
 
 ---

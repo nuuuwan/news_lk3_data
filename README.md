@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 21:33:57**
+As of **2024-05-17 21:53:16**
 
 ## Newspaper Stats
 
-*Scraped **24,711** Articles*
+*Scraped **24,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 2,115
 adaderanalk | 2,863
 tamilmirrorlk | 2,898
 virakesarilk | 3,724
-dailymirrorlk | 3,879
+dailymirrorlk | 3,880
 adaderanasinhalalk | 3,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,710 (100.0%) of 24,711 articles have been extended.
+24,711 (100.0%) of 24,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### නාවිකයන් 3,146 ට උසස්වීම්
+### Promotions to 3,146 sailors
 
 *2024-05-17 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196737) · `si`
 
-15 වන රණවිරු සැමරුම් දිනයට සමගාමීව නාවිකයන් 3,146 දෙනෙක් ඊළඟ තරාතිරමට උසස් කර තිබේ.
+On the 15th War Heroes' Day, 3,146 sailors were promoted by Vice Admiral Priyantha Perera. This recognition honors their significant contributions to Sri Lanka's sovereignty and civilian defense against terrorism over 30 years, alongside the Police and Civil Defense.
 
-15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව සන්නද්ධ හමුදා සේනාධිනායක හා ශ්‍රී ලංකා ජනාධිපතිවරයාගේ අනුමැතිය ඇතුව නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා විසින් නාවික හමුදාවේ ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයන් 3,146 දෙනෙකුට මෙම උසස්වීම් සිදුකර ඇත.
+🟩
 
-වසර 30 කට ආසන්න කාලයක් මෙරට වෙලා ගනිමින් පැවති ත්‍රස්තවාදය මානුෂීය මෙහෙයුමකින් විජයග්‍රහණය කර මවිබිමේ ස්වෛරීභාවය සහ භෞමික අඛණ්ඩතාවය ස්ථාපිත කිරීම උදෙසා ත්‍රිවිධ හමුදාවේ, පොලීසියේ සහ සිවිල් ආරක්‍ෂක දෙපාර්තමේන්තුවේ වීරෝධාර රණවිරුවන් ජීවිත පරිත්‍යාගයෙන් සිදුකළ අනභිබවනීය දායකත්වය එම විජයග්‍රහණය සඳහා තීරණාත්මක සාධකයක් විය.
+3,146 sailors have been promoted to the 15th War Heroes' Day.
+
+Commander of the Navy Vice Admiral Priyantha Perera has made these promotions to 3,146 senior and junior sailors of the Navy.
+
+The brutal contribution made by the arrogance of the war heroes of the Police and the Civil Defense to establish the sovereignty and civilian defense of terrorism in Sri Lanka for nearly 30 years was a crucial factor for the ruling forces.
 
 ◼️
 
 [Data](articles/8bc6c20c.json)
+
+[Extended Data](ext_articles/8bc6c20c.ext.json)
+
+---
+
+### No legal representation for Gotabaya Rajapaksa in Supreme Court
+
+*2024-05-17 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-representation-for-Gotabaya-Rajapaksa-in-Supreme-Court/108-282832) · `en`
+
+Colombo, May 17 (Daily Mirror) - The Supreme Court today directed the petitioners to serve notices on former President Gotabaya Rajapaksa as he was not represented by a counsel in connection with five fundamental rights petitions.
+
+When the five Fundamental Rights petitions challenging former President Gotabaya Rajapaksa’s decision to grant a presidential pardon to ex-soldier Sunil Ratnayake, who was convicted and sentenced to death for the Mirusuvil murder case, were taken up for argument, neither Gotabaya Rajapaksa nor a lawyer represented him.
+
+Supreme Court two-judge-bench comprising Justices Yasantha Kodagoda and Achala Wengappuli further directed the petitioners to serve notices on Sunil Ratnayake, a respondent in the petitions as he was also not represented by a lawyer. These petitions are to be taken up for argument on September 4.
+
+The Supreme Court has already granted leave to proceed with these petitions in terms of Article 12(1) of the constitution (Right of equality).
+
+...
+
+[Data](articles/8a7d3d0b.json)
 
 ---
 
@@ -2283,25 +2307,5 @@ Later, Senanayake contested the 2019 Presidential Election under the National Pe
 [Data](articles/e50ea89c.json)
 
 [Extended Data](ext_articles/e50ea89c.ext.json)
-
----
-
-### Gen. Mahesh Senanayake to the CM
-
-*2024-05-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196709) · `si`
-
-General Mahesh Senanayake, ex-Army Commander and Chief of Staff, has rejoined the army and now leads the war heroes' community.
-
-🟩
-
-Former Army Commander and for former Army Chief of Staff, General Mahesh Senanayake has joined the resibriment.
-
-He has been appointed as the head of the war heroes after being joining the community.
-
-◼️
-
-[Data](articles/00296526.json)
-
-[Extended Data](ext_articles/00296526.ext.json)
 
 ---

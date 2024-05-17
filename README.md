@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 10:04:12**
+As of **2024-05-17 10:18:12**
 
 ## Newspaper Stats
 
-*Scraped **24,601** Articles*
+*Scraped **24,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 250
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,331
-economynextcom | 1,413
+economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,110
 adaderanalk | 2,844
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,598 (100.0%) of 24,601 articles have been extended.
+24,601 (100.0%) of 24,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Sri Lanka’s Bimputh Finance changes name
+
+*2024-05-17 10:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-bimputh-finance-changes-name-163438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Bimputh Finance Plc (BFP), a licensed finance company, has said it will change the company name.
+
+“Since the Central Bank required to exclude … using the word ‘Finance’, … board has decided to change the company name as Bimputh Lanka Investments PLC with effect from 20th May 2024,” the company said in a stock exchange filing.
+
+The Registrar of the Companies had approved the change, it said.
+
+Earlier this year, disciplinary action was taken against the Board of Directors of Bimputh Finance Plc for its failure to submit an annual report in violation of the Listing Rules.
+
+A penalty of one million rupees was imposed on each director of the Board of Directors of the Company on January 5.
+
+In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh Finance Plc, and announced that the remaining deposits will be repaid through a deposit insurance scheme. (Colombo/May17/2024)
+
+◼️
+
+[Data](articles/4fcdf71b.json)
+
+---
 
 ### Warm-up fixtures announced for the ICC Men’s T20 World Cup 2024
 
@@ -50,21 +72,53 @@ In a departure from the previous cycle, teams can now choose to play up to two w
 
 [Data](articles/f82b19aa.json)
 
+[Extended Data](ext_articles/f82b19aa.ext.json)
+
 ---
 
-### நாளை மே 18... வவுனியாவில் நினைவேந்தல்
+### Sri Lanka rupee opens stronger at 299.90/300.10 to US dollar
+
+*2024-05-17 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-90-300-10-to-us-dollar-163435/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.90/300.10 to the US dollar on Friday, from 300.70/90 the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted flat at 10.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 10.20/40 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 10.55/65 percent 10.55/70 percent.
+
+A bond maturing on 15.05.2030 was quoted flat at 11.55/70 percent.
+
+A bond maturing on 01.10.2032 was quoted up at 11.80/90 percent from 11.75/95 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 percent at 12,274, the S&P SL20 was marginally down at 3,633. (Colombo/May17/2024)
+
+◼️
+
+[Data](articles/aa35a28d.json)
+
+---
+
+### Tomorrow May 18 ... Memorial in Vavuniya
 
 *2024-05-17 09:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாளை-மே-18-வவுனியாவில்-நினைவேந்தல்/72-337450) · `ta`
 
-வவுனியாவில் நாளை (18)மாலை 5 மணிக்கு போரில் உயிரிழந்தவர்களுக்கான நினைவேந்தல் நிகழ்வு  வவுனியப நகரசபை மண்டபத்தில் நடைபெறவுள்ளது.
+A memorial event for war victims, organized by various groups, will take place at Vavuniya Municipal Council Hall on May 18 at 5 pm. Public and religious leaders are expected to attend.
 
-வன்னி மக்களுக்கான ஒன்றியம், வன்னி மாவட்ட காணாமல் ஆக்கப்பட்டவர்களின் சங்கம், சிறந்த இலங்கைக்கான மன்றம்,  காணாமலாக்கப்பட்டவர்களின் பிள்ளைகளின் சங்கம், உலகத்தமிழர் பேரவை, தர்மசக்தி ஒன்றியம் ஆகியன இணைந்து இந்த நிகழ்வினை ஏற்பாடு செய்துள்ளன.
+🟩
 
-இந்த நினைவேந்தல் நிகழ்வில் சர்வம மதத்தலைவர்கள் உள்ளிட்ட பொதுமக்கள் கலந்துகொள்ளவுள்ளமை குறிப்பிடத்தக்கது. R
+The commemoration event for the victims of the war will be held at the Vavuniya Municipal Council Hall tomorrow (18) at 5 pm.
+
+The event was organized by the Vanni People's Union, the Vanni District Missing Association, the Best Sri Lanka Forum, the Association of the Disappeared Children, the World Tamil Council and the Dharmasakthi Union.
+
+It is noteworthy that the public, including the religious leaders, will attend the event.. Remble
 
 ◼️
 
 [Data](articles/9fb2fe0c.json)
+
+[Extended Data](ext_articles/9fb2fe0c.ext.json)
 
 ---
 
@@ -207,6 +261,26 @@ Sources said, all the arrested fishermen belong to Paruthithurai in Sri Lanka. T
 [Data](articles/8821c79e.json)
 
 [Extended Data](ext_articles/8821c79e.ext.json)
+
+---
+
+### Sri Lanka sees 15,000 tri-force absentees respond to amnesty; State Minister says no extension
+
+*2024-05-17 09:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-15000-tri-force-absentees-respond-to-amnesty-state-minister-says-no-extension-163432/) · `en`
+
+ECONOMYNEXT – At least 15,000 Sri Lanka tri-forces absentees have come forward to obtain amnesty, responding to a one-month general amnesty call and the Defence Ministry has decided not to extend the period, State Defence Minister Pramitha Bandara Tennakoon said.
+
+The Defence Ministry last month declared a month long general amnesty from April 20 to May 20 for tri-forces absentees, enabling them to receive an official discharge from their respective services.
+
+Absentees of the army, navy and air force will receive their discharge from military service after they settle any financial obligations or amounts due.
+
+“So far, around 15,000 have come forward to obtain this amnesty,” Tennakoon told reporters in Colombo this week.
+
+There have been around 26,000 absentees from the armed forces, the State Minister said.
+
+...
+
+[Data](articles/1682eb82.json)
 
 ---
 
@@ -1312,21 +1386,29 @@ The students accused 14 children who have sent the first question paper and the 
 
 ---
 
-### නිරිත දිග මෝසම 25 දා වන විට ආරම්භ වෙයි
+### Southwest Monsoon begins
 
 *2024-05-16 20:03:36* · [`adalk`](https://www.ada.lk/breaking_news/නිරිත-දිග-මෝසම-25-දා-වන-විට-ආරම්භ-වෙයි/11-409692) · `si`
 
-මේවර නිරිත දිග මෝසම තත්වය මේ මස 25 වන දින වන විට ආරම්භ විය හැකි බවට කාලගුණවිද්‍යා දෙපාර්තමේන්තු පුරෝකථනය කර තිබෙන බව .ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කරයි.
+The Southwest Monsoon is expected to start around the 25th of this month, potentially bringing more rainfall than previous years. This season is crucial for monitoring landslides and managing water levels in reservoirs. The National Disaster Relief Center has communicated with district secretaries about preparedness efforts.
 
-නිරිත දිග මෝසම් වර්ෂාව හේතුවෙන් දිවයින පුරා සැළකිය යුතු වර්ෂාපතනයක් ලැබෙන බවත් නිරිත දිග මෝසම් වර්ෂාව පෙර වර්ෂවලට සාපේක්ෂව වැඩි විය හැකි බවටත් පුරෝකථන වලින් පෙනී යන බව එම මධ්‍යස්ථානය පෙන්වා දෙයි.
+🟩
 
-නිරිත දිග මෝසම් තත්ත්වය සක්‍රීයවීමත් සමග දිවයිනට බල පෑ හැකි ආපදා හානි අවම කර ගැනීම අරමුණු කරගනිමින් පාර්ශවකාර ආයතන දැනුවත් කිරීම හා සම්බන්ධීකරණ යාන්ත්‍රණය ශක්තිමත් කිරීම සිදුකර තිබෙන බවද සදහන් කරයි කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන පුරෝකථන පදනම්කර ගනිමින් ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නායයෑම් ආපදාඅවදානම නිරීක්ෂණ කිරීම සදහා කටයුතු කරනු ලබන බවත්  පෙන්වා දෙයි.
+The Meteorologies have been predicted that the southwest monsoon can commence by the 25th of this month.
 
-වාරිමාර්ග දෙපාර්තමේන්තුව යටතේ පවතින ජලාශවල ජල මට්ටම සළකාබැලීමේ දී පොදුවේ 75% ක පමණ ප්‍රතිශතයක් ජලය පිරී පවතින බවත් ජල පෝෂක ප්‍රදේශ සඳහා ලැබෙන වර්ෂාව පිළිබඳව අවධානය යොමු කරන බවට වාරිමාර්ග දෙපාර්තමේන්තුව පෙන්වා දි තිබෙන බවත්  ආපදා කළමනාරණ මධ්‍යස්ථානය සදහන් කරයි.
+The center also shows that the southwest monsoon is a significant rainfall of the island and that the southwest monsoon can increase over the previous years.
 
-...
+The Meteorological Institutions have been able to monitor the landslide disaster based on the basis of the enabling of the southwest monsoon.Points out that they are being done.
+
+The Department of Irrigation Center states that the water level is full of water levels in the reservoirs under the Department of Irrigation and the Irrigation Center (IRP) has shown that the water will pay attention to the rainfall areas.
+
+The National Disaster Relief Center has been referred to the District Secretaries to the District Secretaries this year, the National Disaster Services Center has been referred to the District Secretaries this year.It also pointed out that the work has been done.
+
+◼️
 
 [Data](articles/9e219c00.json)
+
+[Extended Data](ext_articles/9e219c00.ext.json)
 
 ---
 
@@ -2131,91 +2213,5 @@ United People's Power President Sajith Premadasa will get 36.31 per cent votes, 
 [Data](articles/a59e2cc8.json)
 
 [Extended Data](ext_articles/a59e2cc8.ext.json)
-
----
-
-### Teaser of 'Double I Smart' starring Ram
-
-*2024-05-16 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183713) · `ta`
-
-"Double I Smart," directed by Puri Jeganath, stars Ram, Sanjay Dutt, and others. The teaser, featuring action and romance, has garnered over five million views quickly. Produced by Puri Connects, it promises a mix of comedy and commercial elements, raising fan expectations.
-
-🟩
-
-The teaser of the film 'Double I Smart' has been released as the leading role of Telugu star actor Ram's leading star actor Ram's film 'The Warrior'.
-
-Within a short time of this teaser, more than five million viewers have been visited.
-
-Directed by director Puri Jeganath, 'Double I Smart', Ram, Bollywood actor Sanjay Dutt, Kavia Thapar, Bani J, Ali, Ketab Seanu, Shayaji Shinde, Temper Vamsi, Markrant Desh Pandey.
-
-Sam K.. Manisharma has composed the film, which is being recorded by Naidu and Giani Jiyanelli.
-
-The film is being produced by director Puri Jeganath and actress Charmi Kaur on behalf of Puri Connects.
-
-The teaser of the film has been released. Action scenes in the teaser of the movie romantic scenes. The expectation of the film has increased among fans as commercial features are incorporated into the comedy scenes.
-
-◼️
-
-[Data](articles/910bf975.json)
-
-[Extended Data](ext_articles/910bf975.ext.json)
-
----
-
-### Suspects of the incident were remanded in the war
-
-*2024-05-16 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196689) · `si`
-
-Five suspects, including two retired army majors, were remanded over an incident involving fraudulent recruitment practices for the Russian-Ukrainian conflict. The suspects' arrest followed complaints about fund misappropriation by a foreign employment agency. The agency's owner and manager were among those detained, leading to protests outside the Negombo court.
-
-🟩
-
-The five suspects have been remanded until the 30th of this month.
-
-Two retired army major and three other persons involved in the incident have been produced before the Negombo Magistrate today (16).
-
-When the suspects were brought to the Negombo court, the victims were silent protest in front of the Negombo court.
-
-The owner of a licensed foreign employment agency, the owner of Sri Lankans and its manager was arrested by the Special Investigation Division of the Foreign Employment Bureau.
-
-The Sri Lankans have taken place to go to the Russian - Ukrainian war in the Russian - Ukrainian war in the country.
-
-The Bureau has received seven complaints regarding the racket by the Agency, according to the complaints that the company has defrauded the funds for the fraud.
-
-Accordingly, the relevant institution held at Stanley Thilakratne Mawatha in Nugegoda was raided yesterday.
-
-There were two persons who worked as owner and manager.
-
-...
-
-[Data](articles/06f540cb.json)
-
-[Extended Data](ext_articles/06f540cb.ext.json)
-
----
-
-### Make appointments: Physical Diploma Students request Minister Douglas
-
-*2024-05-16 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183717) · `ta`
-
-Diploma students from Jaffna University's Physical Education Department met Minister Douglas Devananda, requesting job placements due to their qualifications in various sports sectors. The Minister assured them of his support, planning to facilitate their appointment process during the President's visit to Jaffna next week.
-
-🟩
-
-Students who have completed the Diploma in the 12th squad of the Jaffna University Department of Physical Education have asked Minister Douglas Devananda to get their jobs.
-
-The learners who visited the Minister's Jaffna office on Wednesday (16) were discussing their expectations to the Minister.
-
-They further stated that they have passed each sector sports in the field of Physical Education and are now inadequate in many schools in the Jaffna district.
-
-In this case, they have requested that they make their appointments for the vacancies.
-
-The Minister, who has been paying attention to the request of the students, said he would arrange for him to be held in person as the President was visiting the Jaffna next week and had volunteered to promote the development of the students' sports department of the schools in the area until permanent appointments were made.
-
-◼️
-
-[Data](articles/343b867d.json)
-
-[Extended Data](ext_articles/343b867d.ext.json)
 
 ---

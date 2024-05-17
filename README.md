@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 17:54:16**
+As of **2024-05-17 18:10:51**
 
 ## Newspaper Stats
 
-*Scraped **24,673** Articles*
+*Scraped **24,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
-adalk | 2,113
-adaderanalk | 2,860
+adalk | 2,114
+adaderanalk | 2,861
 tamilmirrorlk | 2,895
 virakesarilk | 3,714
 dailymirrorlk | 3,869
-adaderanasinhalalk | 3,939
+adaderanasinhalalk | 3,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,672 (100.0%) of 24,673 articles have been extended.
+24,673 (100.0%) of 24,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Economic Transformation Bill and Public Financial Mgmt. Bill to be tabled in parliament
+
+*2024-05-17 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99285/economic-transformation-bill-and-public-financial-mgmt-bill-to-be-tabled-in-parliament) · `en`
+
+The Economic Transformation Bill and the Public Financial Management Bill will be presented to the Parliament on Wednesday (22 May), according to the Secretary General of Parliament Kushani Rohanadeera.
+
+Issuing a statement, she said that the Parliament is scheduled to convene on Wednesday (May 22).
+
+This has been decided by the Committee on Parliamentary Business chaired by Speaker Mahinda Yapa Abeywardena, during its meeting held on May 14.
+
+Accordingly, the parliamentary session is scheduled to commence at 9.30 a.m. on Wednesday (May 22) while the Economic Transformation Bill and the Public Financial Management Bill are slated to be presented to the Parliament on that day for the first reading.
+
+The General Secretary further said that the Committee on Parliamentary Business decided to hold the debate on the adjournment motion to be presented by the opposition from 9.45 a.m. to 5.30 p.m.
+
+◼️
+
+[Data](articles/c497cd46.json)
+
+---
+
+### ඉදිරි පැය 36 ගැන කාලගුණයෙන් නිවේදනයක්
+
+*2024-05-17 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196729) · `si`
+
+ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අද (17) සවස් කාලයේ සිට ඉදිරි දින කිහිපයේ දී බලාපොරොත්තු විය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉදිරි පැය 36 සඳහා කාලගුණ නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර තිබේ.
+
+බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල දවල් 12න් පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ට වැඩි තද වැසි ඇති වේ.
+
+දිවයින හරහා විටින් විට හමන පැ.කි.මී 30 - 40ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/59a8576f.json)
+
+---
+
+### වෙල්ගම බලන්න මහින්ද යයි
+
+*2024-05-17 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196728) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී කුමාර වෙල්ගම මහතාගේ සුවදුක් බැලීම සඳහා හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ගොස් තිබේ.
+
+◼️
+
+[Data](articles/26b8420a.json)
+
+---
 
 ### Traffic advisory issued for tomorrow in Colombo
 
@@ -45,6 +101,8 @@ Hence, motorists are advised to use alternate routes during this time to avoid d
 ◼️
 
 [Data](articles/e085c1fa.json)
+
+[Extended Data](ext_articles/e085c1fa.ext.json)
 
 ---
 
@@ -279,6 +337,22 @@ Speaking further, the CEO of SLC said: “So, I think the information which has 
 [Data](articles/8d1067b5.json)
 
 [Extended Data](ext_articles/8d1067b5.ext.json)
+
+---
+
+### කෝටි පහක දුරකතන කටුනායකදි අත්අඩංගුවට
+
+*2024-05-17 15:33:33* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-දුරකතන-කටුනායකදි-අත්අඩංගුවට/11-409697) · `si`
+
+නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ආනයනය කර, තීරු බදු නොගෙවා ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි රුපියල් කෝටි පහක් පමණ වටිනා නවීනතම ජංගම දුරකථන තොගයක් සහ පෙන් ඩ්‍රයිව් තොගයක් සමග ඒවා ගුවන් තොටුපොළ වෙත රැගෙන ආ ව්‍යාපාරිකයන් දෙදෙනෙකු ද  05/17 දින අලුයම කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් දෙදෙනාගෙන් එක් අයෙකු කොළඹ - 12 ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු 59 හැවිරිදිය . අනෙක් ව්‍යාපාරිකයා කොළඹ - 14 පදිංචි 24 හැවිරිදි පුද්ගලයෙකි .
+
+ඔවුන් දෙදෙනා 05/17 දින අලුයම 04.55 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/11fb8007.json)
 
 ---
 
@@ -2151,93 +2225,5 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 [Data](articles/f4181df1.json)
 
 [Extended Data](ext_articles/f4181df1.ext.json)
-
----
-
-### The elderly man who is frustrated
-
-*2024-05-17 02:27:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன-விரக்தியடைந்த-வயோதிபர்-தவறான-முடிவு/175-337447) · `ta`
-
-In Jaffna, a 76-year-old man named Iyathurai Thiyagarajah, living alone after losing his wife and having children abroad, fell into a well due to frustration.
-
-🟩
-
-An elderly man who was frustrated in Jaffna yesterday made a wrong decision and fell into the well.
-
-The 76 -year -old Iyathurai Thiyagarajah, a 76 -year -old from East, East, has died.
-
-The elderly wife has already died. While all his children are living abroad, he lives alone at home.
-
-Frustrated in this situation, he fell into a well in his house yesterday. (A)
-
-◼️
-
-[Data](articles/17a30b71.json)
-
-[Extended Data](ext_articles/17a30b71.ext.json)
-
----
-
-### The Secretary of the Amnesty Council visits the country
-
-*2024-05-17 02:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்புச்-சபையின்-செயலாளர்-நாட்டிற்கு-வருகை/175-337446) · `ta`
-
-Amnesty International's Agnes Kalamart made her inaugural trip to South Asia, announcing she'll remain in the country till the 24th.
-
-🟩
-
-Amnesty International Secretary General Agnes Kalamart visited the country yesterday.
-
-This is the first visit to South Asia, Secretary -General of the Amnesty International, Agnes Kalamat.
-
-Agnes Kalamart has announced that he will stay in the country until the 24th of this month. (A)
-
-◼️
-
-[Data](articles/7705d455.json)
-
-[Extended Data](ext_articles/7705d455.ext.json)
-
----
-
-### Landslide alert to 6 districts
-
-*2024-05-17 02:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-337445) · `ta`
-
-Landslide warnings issued for six districts: Badulla, Kandy, Kegalle, Kalutara, Kurunegala, Nuwara Eliya, Matale, and Ratnapura due to heavy rain.
-
-🟩
-
-The landslide hazard warning has been issued to six districts due to rainfall in the country.
-
-The first phase of the landslide hazard has been issued for some of the Divisional Secretariats of Badulla, Kandy Kegalle, Kalutara, Kurunegala, Nuwara Eliya, Matale and Ratnapura districts.. (A)
-
-◼️
-
-[Data](articles/7959fe23.json)
-
-[Extended Data](ext_articles/7959fe23.ext.json)
-
----
-
-### US Ambassador to Meet Sridharan
-
-*2024-05-17 02:21:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதரனுடன்-அமெரிக்க-தூதுவர்-சந்திப்பு/175-337444) · `ta`
-
-US Ambassador Julie Sung met Sri Lankan MPs including LTTE leader Dharmalingam Siddharthan in Jaffna, discussing challenges facing the Northern Province.
-
-🟩
-
-US Ambassador to Sri Lanka, Julie Sung, who has visited Jaffna, has met some of the MPs.
-
-The US Ambassador yesterday met with Sivagnanam Sridharan, Charles Nirmalanathan and Dharmalingam Siddharthan, leader of the Liberation Tigers of Tamil Eelam (LTTE) and Member of Parliament.
-
-US Ambassador to Sri Lanka Julie Sung stated in his X post that the people of the Northern Province have been discussed on a series of challenges faced by the people of the Northern Province.. (A)
-
-◼️
-
-[Data](articles/d8313d77.json)
-
-[Extended Data](ext_articles/d8313d77.ext.json)
 
 ---

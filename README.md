@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 19:18:38**
+As of **2024-05-17 19:34:22**
 
 ## Newspaper Stats
 
-*Scraped **24,694** Articles*
+*Scraped **24,697** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 220
-bbccomsinhala | 251
+bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
@@ -19,18 +19,34 @@ adalk | 2,114
 adaderanalk | 2,862
 tamilmirrorlk | 2,897
 virakesarilk | 3,724
-dailymirrorlk | 3,871
+dailymirrorlk | 3,873
 adaderanasinhalalk | 3,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,693 (100.0%) of 24,694 articles have been extended.
+24,694 (100.0%) of 24,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### 21 sailors including Sri Lankan trapped on Baltimore ship for 7 weeks
+
+*2024-05-17 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/21-sailors-including-Sri-Lankan-trapped-on-Baltimore-ship-for-7-weeks/108-282826) · `en`
+
+May 17 - Twenty-one sailors, 20 from India and one from Sri Lanka, are stuck on board the Dali, a container vessel that collided with the Francis Scott Key Bridge in Baltimore, since March 26 due to the ongoing investigation.
+
+For the last seven weeks, they have been confined to the vessel due to an ongoing probe. With their phones confiscated, they cannot even pay bills for their families back home.
+
+The 21 on board were left without communication for weeks with their families, causing significant hardship for crew members with young children at home, and the outside world, as their mobile phones had been confiscated by the Federal Bureau of Investigation (FBI) as a part of the investigation into the crash.
+
+◼️
+
+[Data](articles/d6d2163d.json)
+
+---
 
 ### Brazil named as hosts for 2027 Women’s World Cup
 
@@ -51,6 +67,8 @@ The United States and Mexico withdrew their joint bid in April, saying they woul
 ...
 
 [Data](articles/b2162744.json)
+
+[Extended Data](ext_articles/b2162744.ext.json)
 
 ---
 
@@ -77,6 +95,24 @@ The same person is particularly discussed in the event of the search for the sam
 [Data](articles/2942c971.json)
 
 [Extended Data](ext_articles/2942c971.ext.json)
+
+---
+
+### Tree falls on policemen’s motorbike
+
+*2024-05-17 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-falls-on-policemens-motorbike/108-282825) · `en`
+
+May 17 (Daily Mirror) - Two policemen of the Anuradhapura Police Traffic Division riding on a motorcycle were seriously injured when a wayside tree fell on them at Kawarakkulama Junction.
+
+A spokesman for the hospital said one of them was in critical condition due to injuries caused to his spine.
+
+Two PCs, one from the Dambulla police and the other from Maradankdawala  police were injured in this incident.
+
+Police said a group of five police officers were on their way to Anuradhapura on three motorcycles for repairs and maintenance when the PC from Maradankadawala police boarded the ill-fated motorcycle.
+
+◼️
+
+[Data](articles/2d41b4b0.json)
 
 ---
 
@@ -1282,6 +1318,20 @@ It calls on the Government to acknowledge the involvement of state security forc
 
 ---
 
+### රතුපස්වල නඩු තීන්දුව:'විමර්ශකයින්ගේ දෝෂ සම්බන්ධයෙන් අධිකරණයට මැදිහත්වීමට හැකියාවක් නැහැ'
+
+*2024-05-17 13:28:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrj5e1zlz3o) · `si`
+
+පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් 45 දෙනෙකුට තුවාල කිරීමේ සිද්ධිය සම්බන්ධයෙන් වූ නඩු තීන්දුව අද (මැයි මස 17) වෙනිදා ප්‍රකාශයට පත් කරන ලදී. එම නඩු විභාගය පැවැත්වුයේ ගම්පහ මහාධිකරණයේ දීය.
+
+එම නඩුවේ තීන්දුව ප්‍රකාශයට පත් කරමින් විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (මැයි මස 17) සඳහන් කළේ විත්තිකරුවන්ට එරෙහි චෝදනා යටතේ මෙන්ම සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ පනත යටතේ නිසි විමර්ශනයක් නොකිරීම සම්බන්ධයෙන් මෙන්ම විමර්ශකයින්ගේ දෝෂ සම්බන්ධයෙන් අධිකරණයට මැදිහත්වීමට හැකියාවක් නැති බැවින් විත්තිකාර යුද හමුදා මේජර් ජනරාල්වරයකු සහ හමුදා සෙබළුන් තිදෙනෙකු සියලු චෝදනා වලින් නිදොස් කර නිදහස් කරන බවය.
+
+...
+
+[Data](articles/af287d0f.json)
+
+---
+
 ### Advisories issued for heavy rain, strong winds and rough seas
 
 *2024-05-17 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99275/advisories-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
@@ -2255,67 +2305,5 @@ There have been around 26,000 absentees from the armed forces, the State Ministe
 [Data](articles/1682eb82.json)
 
 [Extended Data](ext_articles/1682eb82.ext.json)
-
----
-
-### Rathupaswala case verdict today
-
-*2024-05-17 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196707) · `si`
-
-Today, a High Court judge will announce the verdict against six soldiers accused in a 2012 incident in Gampaha, Sri Lanka. The case was initiated by the Attorney General.
-
-🟩
-
-The verdict of the three-member High Court Judge will be announced today (17) against three soldiers and three army soldiers in Gampaha.
-
-The incident was reported 11 years ago and the case was filed by the Attorney General.
-
-◼️
-
-[Data](articles/ff3e5312.json)
-
-[Extended Data](ext_articles/ff3e5312.ext.json)
-
----
-
-### Person dies after being hit by train in Matara
-
-*2024-05-17 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99264/person-dies-after-being-hit-by-train-in-matara) · `en`
-
-A person has reportedly died after being hit by a train traveling from Matara to Galle.
-
-The accident had occurred near the Nupe railway crossing in Matara last evening (16).
-
-Police said that the identity of the deceased has not been confirmed as of yet.
-
-The body has been placed in the mortuary of the Matara Hospital.
-
-◼️
-
-[Data](articles/d295a2a1.json)
-
-[Extended Data](ext_articles/d295a2a1.ext.json)
-
----
-
-### Smartphones tend to sabotage their children's university education
-
-*2024-05-17 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196706) · `si`
-
-Smartphones distract students from university education, leading some to drop out. Prof. Devika Jayathilake advises parents to limit phone use, emphasizing the importance of outdoor activities and environmental engagement.
-
-🟩
-
-It has been revealed that some students have even stopped through their university studies through the mobile phone.
-
-Senior Professor Devaka Yoathmansubeli Jayatilakee stated that the parents should be more concerned about the use of mobile phones.
-
-Prof. Devika Jayathilake said that children should be familiar to enjoy sports aesthetic and the environment.
-
-◼️
-
-[Data](articles/1650ffe9.json)
-
-[Extended Data](ext_articles/1650ffe9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 15:03:41**
+As of **2024-05-17 15:18:24**
 
 ## Newspaper Stats
 
-*Scraped **24,648** Articles*
+*Scraped **24,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,111
 adaderanalk | 2,854
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
-dailymirrorlk | 3,865
-adaderanasinhalalk | 3,931
+dailymirrorlk | 3,866
+adaderanasinhalalk | 3,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,647 (100.0%) of 24,648 articles have been extended.
+24,648 (100.0%) of 24,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### මත්ද්‍රව්‍ය විනාශ කරන අධිබලැති උඳුන
+
+*2024-05-17 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196720) · `si`
+
+මත්ද්‍රව්‍ය විනාශ කිරීම සඳහා පුත්තලම වනාතවිල්ලුව ප්‍රදේශයේ අධිබලැති උඳුනක් ස්ථාපිත කර තිබේ.
+
+පොලිස් මූලස්ථානය නිවේදනය කළේ, පසුගිය කාල සීමාවේ අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය තොග විනාශ කිරීමට රජයට විශාල මුදලක් වැය කිරීමට සිදුවු අතර, මත්ද්‍රව්‍ය විනාශ කිරීමට ස්ථීර ස්ථානයක් නොමැති වීමෙන් අපහසුතා රැසක් පැන නැගුණ බවය.
+
+ඒ අනුව ස්ථීර විසඳුමක් ලෙස ලැක්ටෝස් වත්ත ඉඩමේ පර්චස් 20ක භූමියක් ආවරණය වන පරිදි මෙම් මත්ද්‍රව්‍ය විනාශ කරන අධිබලැති උඳුන ස්ථාපිත කර ඇත.
+
+මහජන ආරක්ෂක අමාත්‍යවරයාගේ මඟ පෙන්වීම යටතේ පොලිස්පතිවරයාගේ ඍජු අධීක්ෂණය යටතේ රුපියල් මිලියන 11කට අධික මුදලක් වැයකර මෙම උඳුන ස්ථාපිත කළ බව පොලීසිය පවසයි.
+
+මෙම උඳුන ස්ථානගත කිරීම සඳහා ස්ථානය සකස් කිරීමේ කටයුතු ශ්‍රී ලංකා නාවික හමුදාව විසින් භාරගත් අතර, ඒ සඳහා රුපියල් මිලියන 6.34ක මුදලක් ශ්‍රී ලංකා පොලීසිය වැය කර ඇත.
+
+මෙම උඳුනේ පළමු මත්ද්‍රව්‍ය තොගය විනාශ කිරීම හෙට (18) හවස 5ට ටිරාන් අලස් අමාත්‍යවරයාගේ සහ පොලිස්පතිවරයාගේ ප්‍රධානත්වයෙන් සිදුකිරීමට නියමිතය.
+
+...
+
+[Data](articles/c257e5d1.json)
+
+---
 
 ### ’I did something, I shouldn’t have done’: Prasanna Ranaweera
 
@@ -114,6 +136,22 @@ The two suspects including two suspects have said that the fake money owns the b
 
 ### Four including army Major acquitted in Rathupaswala shooting case
 
+*2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Four-including-army-Major-acquitted-in-Rathupaswala-shooting-case/155-282812) · `en`
+
+Gampaha, May 17 (Daily Mirror) - The Gampaha High Court Trial-at-Bar acquitted the four accused including a Major involved in the shooting incident that resulted in the deaths of three individuals and the injury of several others during a protest for clean drinking water in Rathupaswala on August 1, 2013.
+
+Court has ordered the release of the four Sri Lanka army personnel, including a Major and three soldiers.
+
+The incident took place on August 01, 2013, when army personnel fired upon unarmed villagers in Weliweriya who were protesting against a factory they accused of contaminating their groundwater and demanding access to clean drinking water.
+
+◼️
+
+[Data](articles/6d429aa9.json)
+
+---
+
+### Four including army Major acquitted in Rathupaswala shooting case
+
 *2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-including-army-Major-acquitted-in-Rathupaswala-shooting-case/108-282812) · `en`
 
 Gampaha, May 17 (Daily Mirror) - The Gampaha High Court Trial-at-Bar acquitted the four accused including a Major involved in the shooting incident that resulted in the deaths of three individuals and the injury of several others during a protest for clean drinking water in Rathupaswala on August 1, 2013.
@@ -125,6 +163,8 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 ◼️
 
 [Data](articles/cd3173eb.json)
+
+[Extended Data](ext_articles/cd3173eb.ext.json)
 
 ---
 
@@ -182,7 +222,7 @@ There are many people who have no knowledge of medical science in the 40,000 peo
 
 The four accused in the case over the shooting to death of three persons and injuring 45 others during a protest by villagers demanding clean drinking water at Rathupaswala in 2013, have been acquitted by the Gampaha High Court Trial-at-Bar.
 
-Delivering the verdict in the case today (17), the court ordered to acquit and release the four Sri Lanka army personnel including a Major and three soldiers, Ada Derana reporter said.
+Delivering the verdict in the case today (17), the court ordered to acquit and release the four Sri Lanka army personnel including a Major General and three soldiers, Ada Derana reporter said.
 
 On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
 
@@ -2141,49 +2181,5 @@ The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthura
 [Data](articles/8d710e12.json)
 
 [Extended Data](ext_articles/8d710e12.ext.json)
-
----
-
-### Resumption of India-Sri Lanka ferry service delayed indefinitely
-
-*2024-05-16 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99261/resumption-of-india-sri-lanka-ferry-service-delayed-indefinitely) · `en`
-
-The resumption of the passenger ferry service between Nagapattinam in India and the Kankesanthurai region near Jaffna in the Northern Province of Sri Lanka has been delayed again for an indefinite period, Aviation Minister Nimal Siripala de Silva has said.
-
-The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthurai (KKS) suburb of Jaffna district, which was to resume on May 13, was delayed due to a “technical shortcoming”, de Silva said on Wednesday.
-
-The nature of the “technical shortcoming” was not revealed by the minister.
-
-The service, launched in October last year after nearly 40 years, was halted a few days later owing to rough weather.
-
-Since then, the resumption of the service, which is a vital component of India-Sri Lanka maritime cooperation, has been delayed three times.
-
-India has also extended a grant assistance of USD 63.65 million -- the entire project cost -- to Sri Lanka to rehabilitate the Kankesanthurai Port in the Northern Province.
-
-...
-
-[Data](articles/fe0e4ed8.json)
-
-[Extended Data](ext_articles/fe0e4ed8.ext.json)
-
----
-
-### The Sri Lankan government should recognize that the genocide of the Eelam Tamils
-
-*2024-05-16 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183734) · `ta`
-
-The US Congress demands Sri Lanka acknowledge its genocide against the Tamil people, urging support for a Tamil referendum on independence for lasting peace and self-determination.
-
-🟩
-
-The US Congress has submitted a historic resolution demanding that the Sri Lankan government engaged in genocide against the Tamil people and to engage in the process of conducting a transaction on the Eelam Tamils.
-
-The resolution has stated that the Tamils should ensure the restoration of violence, including genocide, by supporting the referendum of independence for permanent peace by supporting the self -determination of the Eelam Tamils.
-
-◼️
-
-[Data](articles/97a5e4c7.json)
-
-[Extended Data](ext_articles/97a5e4c7.ext.json)
 
 ---

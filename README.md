@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 20:33:46**
+As of **2024-05-17 20:52:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,701 (100.0%) of 24,702 articles have been extended.
+24,702 (100.0%) of 24,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### සා පෙළ ප්‍රශ්නපත්‍ර ගැටලුව ගැන විභාග කොමසාරිස්ගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+### A controversial statement from the Commissioner of Examinations regarding the GCE O / L
 
 *2024-05-17 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196735) · `si`
 
-මෙවර සාමාන්‍ය පෙළ විභාගයේදී ඇතිවූ සියලු ගැටලුකාරී තත්ත්වයන්ට මුහුණදුන් සිසු දරුවන් වෙනුවෙන් සාධාරණයක් ඉටු කිරීමට ඉදිරියේ දී කටයුතු කරන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+Commissioner Amit Jayasundara, facing criticism over GCE O/L issues, met with Sri Lanka's Human Rights Commission for nearly three hours. He assured that actions would be taken to address student concerns and investigations into exam officials' conduct were underway.
 
-2024 සාමාන්‍ය පෙළ විභාගයේදී සිදුවූ අක්‍රමිකතා සම්බන්ධයෙන් ඉකුත් දින කිහිපය තුළ ලැබුණු පැමිණිලි මත සිදුකෙරෙන විමර්ශනවලට අදාළව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා අද (16) ශ්‍රී ලංකා මානව හිමිකම් කොමිසමට කැඳවා තිබුණි.
+🟩
 
-"අද දෙරණ" වාර්තාකරු පැවසුවේ පැය 03කට ආසන්න කාලයක් මානව හිමිකම් කොමිෂන් සභාව තුළ දී මෙම පැමිණිල්ල විභාගයට ලක්කළ බවය.
+Commissioner General of Examinations Amit Jayasundara says that the students who face all the problems of the GCE O / L examination will be taken to do justice.
 
-අදාළ විභාග ශාලාවල රාජකාරි සිදුකළ නිලධාරීන් සම්බන්ධයෙන් ද විමර්ශනයක් සිදුකරන බවත් මිනුවන්ගොඩ පාසලක විභාගයට පෙනීසිටි දරුවන් 14 දෙනෙකුට භූගෝල විද්‍යාව ප්‍රශ්න පත්‍රයේ ඇතැම් කොටස් ලබානොදීම සම්බන්ධයෙන් 100%ක්ම වැරදී අදාළ නිලධාරීන් බවත් ඒ මහතා වැඩිදුරටත් පැවසීය.
+The Commissioner General of Examinations Amit Jayasundara today (16) was summoned to the Human Rights Commission of Sri Lanka (HRC).
+
+"Today, Ada Derana reporter said that the complaint was heard during the Human Rights Commission for nearly three hours.
+
+He further stated that an investigation into the officials carried out at the relevant examinations are also conducted by the employees of the Gubargoda School, he added.
 
 ◼️
 
 [Data](articles/71a94448.json)
+
+[Extended Data](ext_articles/71a94448.ext.json)
 
 ---
 

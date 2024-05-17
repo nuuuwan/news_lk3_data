@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 16:18:30**
+As of **2024-05-17 16:33:49**
 
 ## Newspaper Stats
 
-*Scraped **24,665** Articles*
+*Scraped **24,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 2,113
 adaderanalk | 2,858
 tamilmirrorlk | 2,894
 virakesarilk | 3,714
-dailymirrorlk | 3,866
-adaderanasinhalalk | 3,937
+dailymirrorlk | 3,867
+adaderanasinhalalk | 3,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,663 (100.0%) of 24,665 articles have been extended.
+24,665 (100.0%) of 24,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### China beats US to become India’s largest trading partner
+
+*2024-05-17 16:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-beats-US-to-become-Indias-largest-trading-partner/108-282818) · `en`
+
+May 17 - China has emerged as India's largest trading partner in the FY 2023-24 with $118.4 billion two-way commerce, narrowly edging past the US, according to the data of economic think tank GTRI. The bilateral trade between India and the US stood at $118.3 billion in 2023-24.
+
+Washington was the top trading partner of New Delhi during 2021-22 and 2022-23, the Times of India reported
+
+According to the report, India's exports to China rose by 8.7 per cent to $16.67 billion in the last fiscal. The main sectors which recorded healthy growth in exports to that country include iron ore, cotton yarn/fabrics/madeups, handloom, spices, fruits and vegetables, plastic and linoleum.
+
+Imports from the neighbouring country increased by 3.24 per cent to $101.7 billion.
+
+◼️
+
+[Data](articles/354b169a.json)
+
+---
+
+### ලතින් අමෙරිකාවේ සිට පොළොන්නරුවේ ගොවියාට ආ අයිස් පාර්සලය
+
+*2024-05-17 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196725) · `si`
+
+රුපියල් කෝටි දහයක ආසන්න වටිනාකමක් සහිත මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් කුරියර් පාර්සලයක් ලෙස ගුවන් තැපෑලෙන් එවා තිබිය දී රේගු මත්ද්‍රව්‍ය පාලන අංශ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පුලියක සඟවා ලතින් අමෙරිකාවේ ග්වාතමාලා රාජ්‍යයේ සිට කටුනායක, සීදූවේ කලම්බූ කාර්ගෝ බන්ධිත ගුදම් ගබඩා සංකීර්ණය වෙත අදාළ පාර්සලය එවා තිබිණි.
+
+අදාළ මත්ද්‍රව්‍ය තොගය පොළොන්නරුව ජයන්තිපුර ප්‍රදේශයේ 25 හැවිරිදි ගොවියෙකුගේ ලිපිනයට එවා ඇති අතර, ඔහු මෙම පාර්සලය රැගෙන යෑමට පැමිණි අවස්ථාවේ දී ඇසුරුම ගලවා පරීක්ෂා කිරීමෙන් පසුව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම "පුලිය" තුළ කිලෝ ග්‍රෑම් 03යි ග්‍රෑම් 101ක් බරැති මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් සඟවා තිබී ඇත.
+
+අත්අඩංගුවට ගත් තරුණයා වැඩිදුර විමර්ශන සඳහා කටුනායක ගුවන්තොටුපොළ පොලිස් නාශක අංශයේ නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/46e66c23.json)
+
+---
 
 ### Special traffic plan for War Heroes’ Day ceremony
 
@@ -46,29 +84,37 @@ Accordingly, motorists are advised to use the following alternate routes during 
 
 [Data](articles/430d1871.json)
 
+[Extended Data](ext_articles/430d1871.ext.json)
+
 ---
 
-### හොඳ නැති වැඩක් වුණා - ප්‍රසන්න රණවීර
+### Prasanna Ranaweera was not good - Prasanna Ranaweera
 
 *2024-05-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196724) · `si`
 
-කටුනායක බණ්ඩාරණායක ජාත්‍යන්තර ගුවන් තොටුපළේදී පෝටර්වරයෙකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් ප්‍රකාශයක් ලබාගැනීම සඳහා රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා අද ගුවන්තොටුපළ පොලිසිය වෙත කැඳවා තිබුණි.
+State Minister Prasanna Ranaweera faced questioning at the airport police station regarding a controversy involving a service charge dispute at Katunayake airport. He was visiting for the Ministry of Small and Medium Enterprise Development. The incident involved a confrontation captured on camera, where Ranaweera allegedly assaulted a porter. Despite the incident, he claimed to be "typically good" as a Member of Parliament.
 
-එහිදී අමාත්‍යවරයාගෙන් පැයක පමණ කාලයක් ප්‍රකාශයක් පොලීසිය විසින් සටහන් කරගෙන තිබේ.
+🟩
 
-කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පසුගිය 14 වනදා අළුයම් කාලයේදී සිය බිරිඳ විදෙස්ගත කිරීම සඳහා කටුනායක ගුවන්තොටුපොළට පැමිණි අවස්ථාවේදී මෙම නොසන්සුන් තත්ත්වය හටගත්තේය.
+State Minister Prasanna Ranaweera had been summoned to the airport police today
 
-ඊට හේතුවී තිබුණේ, සේවා සපයන පෝටර්වරයෙකුට රුපියල් 1000ක මුදලක් ගෙවිය යුතු බවට ගුවන්තොටුපොළ තුළ පුවරු මගින් සඳහන් කර ඇති පසුබිමක රාජ්‍ය අමාත්‍යවරයා විසින් පෝටර්වරයෙකුට  රුපියල් 700ක මුදලක් ලබාදීම සම්බන්ධයෙන් ඇතිවූ මතභේදයකි.
+The police have noted a statement for about an hour to about an hour.
 
-එම අවස්ථාවේදී රාජ්‍ය අමාත්‍යවරයා පෝටර්වරයාට පහරදෙන ආකාරය ආරක්ෂක කැමරාවල සටහන්ව තිබුණි.
+Minister Prasanna Ranaweera had taken place when he visited the Katunayake airport to go to the Katunayake airport for the month of Little and Medium Enterprise Development.
 
-පොලීසියෙන් පිටතට පැමිණි රාජ්‍ය අමාත්‍යවරයා පවසා ඇත්තේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු  වශයෙන් තමන් අතින් එදා "සාමාන්‍යයෙන් හොඳ නැති වැඩක්" සිදු වූ බවය.
+The reason for this was a controversy in the background of the airport that the service porter should pay Rs.
 
-එහිදී පහරකෑමට ලක්වූ පෝටර්වරයා මෙතෙක් සේවයට වාර්තාකර නොමැති බවද සඳහන් වෙයි.
+The public minister was hitting the Porter's portion cameras.
+
+The public minister who came out of the police had said that as a Member of Parliament, he was "typically good".
+
+It is said that the Porter who was assassinated has not been reported so far.
 
 ◼️
 
 [Data](articles/2d0b0076.json)
+
+[Extended Data](ext_articles/2d0b0076.ext.json)
 
 ---
 
@@ -2179,43 +2225,5 @@ The event will take place concurrently with the sixth Indo-Pacific Business Foru
 [Data](articles/f5c2c815.json)
 
 [Extended Data](ext_articles/f5c2c815.ext.json)
-
----
-
-### Lankan envoy in Ha Noi woos Vietnam-based leading Southeast Asian EV manufacturer
-
-*2024-05-17 00:49:46* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Ha-Noi-woos-Vietnam-based-leading-Southeast-Asian-EV-manufacturer/34-761909) · `en`
-
-The Embassy had a meeting with the top-most management of the iconic automobile manufacturer, VinFast, at their corporate Head Office in Ha Noi to discuss and explore commercial and investment opportunities, thus benefiting both Sri Lanka and VinFast.
-
-VinFast is the auto manufacturer under the parent company of Vingroup, one of the largest listed corporates in South-East Asia.
-
-Ambassador Dr. A Saj U Mendis along with the Minister Commercial Kishani Wickramasinghe, met with the Vingroup Chief of International and Government Affairs cum VinFast Deputy CEO Bui Kim Thuy, along with the senior management of VinFast. The meeting lasted over an hour and discussed a myriad of economic, commercial, and trade opportunities.
-
-...
-
-[Data](articles/77424b7f.json)
-
-[Extended Data](ext_articles/77424b7f.ext.json)
-
----
-
-### IADRC holds ’’Regional Alternative Dispute Resolution Symposium 2024’’
-
-*2024-05-17 00:49:17* · [`dailyftlk`](https://www.ft.lk/business/IADRC-holds-Regional-Alternative-Dispute-Resolution-Symposium-2024/34-761908) · `en`
-
-From left: Bangladesh International Arbitration Centre’s Saqueb Mahabub, International ADR Centre Sri Lanka Director General Dhara Wijayatilake, Pakistan Musaliha International Centre for Arbitration and Dispute Resolution Sarha Rasheed and International ADR Centre Sri Lanka Director Shehara Varia
-
-The International ADR Centre, Sri Lanka (IADRC) held its annual ‘Regional Alternative Dispute Resolution Symposium 2024’ from 13 to 15 May.
-
-The Symposium was organised in collaboration with the Commercial Law Development Program (CLDP) of the Department of Commerce, USA.
-
-The Symposium was attended by members of the legal community and law students of Sri Lanka as well as experts from regional ADR Centres in Bangladesh, Hong Kong, Maldives, Malaysia, Mumbai, Nepal, Pakistan, Singapore and Thailand.
-
-...
-
-[Data](articles/490f0672.json)
-
-[Extended Data](ext_articles/490f0672.ext.json)
 
 ---

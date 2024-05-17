@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 18:10:51**
+As of **2024-05-17 18:22:59**
 
 ## Newspaper Stats
 
-*Scraped **24,677** Articles*
+*Scraped **24,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,114
 adaderanalk | 2,861
-tamilmirrorlk | 2,895
+tamilmirrorlk | 2,896
 virakesarilk | 3,714
-dailymirrorlk | 3,869
+dailymirrorlk | 3,870
 adaderanasinhalalk | 3,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,673 (100.0%) of 24,677 articles have been extended.
+24,677 (100.0%) of 24,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### 18 வயது காதலனை கடத்திய 17 வயது காதலி
+
+*2024-05-17 18:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-வயது-காதலனை-கடத்திய-17-வயது-காதலி/175-337458) · `ta`
+
+மஹகம - பொலேகொட பிரதேசத்தில் 18 வயது இளைஞனை கடத்திச் சென்ற சந்தேகத்தின் பேரில்  17 வயதுடைய யுவதி மற்றும் அவரது தந்தையை அகலவத்தை பொலிஸார் கைது செய்துள்ளனர்.
+
+நேற்று (16) பிற்பகல் மஹகம பொலேகொட பிரதேசத்தில் வசிக்கும் இந்த இளைஞன் முச்சக்கரவண்டி பழுதுபார்ப்பதற்காகச் சென்ற வேளை அவர் தாக்கப்பட்டுக் கடத்தப்பட்டதாக பொலிஸாருக்கு முறைப்பாடு கிடைக்கப்பெற்றுள்ளது .
+
+பொலிஸாருக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் விசாரணைகளை மேற்கொண்ட போது இந்த இளைஞன் அவரது காதலியின் வீட்டில் இருப்பதை பொலிஸார் கண்டறிந்துள்ளனர் .
+
+இந்த இளைஞனை பொலிஸார் மீட்டு வைத்தியசாலைக்கு அழைத்துச் சென்றதுடன் இளைஞனின் காதலி மற்றும் அவரது தந்தை இன்று (17) மத்துகம நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளனர் .  R
+
+◼️
+
+[Data](articles/da626645.json)
+
+---
+
+### Economic Transformation Bill to be presented to Parliament on May 22
+
+*2024-05-17 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Economic-Transformation-Bill-to-be-presented-to-Parliament-on-May-22/108-282821) · `en`
+
+Colombo May 17 (Daily Mirror) - The proposed Economic Transformation Bill and Public Finance Management Bill are set to be presented to Parliament on May 22, as announced by the Parliament media unit today.
+
+Party leaders, who convened with Speaker Mahinda Yapa Abeywardena today, reached the decision to introduce the two legislations on the specified date.
+
+Further, an adjournment Bill put forth by the opposition will be deliberated on the same day.
+
+◼️
+
+[Data](articles/77408c78.json)
+
+---
 
 ### Economic Transformation Bill and Public Financial Mgmt. Bill to be tabled in parliament
 
@@ -50,41 +84,55 @@ The General Secretary further said that the Committee on Parliamentary Business 
 
 [Data](articles/c497cd46.json)
 
+[Extended Data](ext_articles/c497cd46.ext.json)
+
 ---
 
-### ඉදිරි පැය 36 ගැන කාලගුණයෙන් නිවේදනයක්
+### Announcement in the next 36 hours
 
 *2024-05-17 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196729) · `si`
 
-ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අද (17) සවස් කාලයේ සිට ඉදිරි දින කිහිපයේ දී බලාපොරොත්තු විය හැකිය.
+Sri Lanka expects heavy rain and gusty winds over the next 36 hours due to monsoon conditions. The Department of Meteorology warns of showers and thundershowers across various regions, especially in the West, Sabaragamuwa, North-Western, and Northern provinces. Some areas may receive over 100mm of rainfall. Strong winds of 30-40 km/h are also anticipated. The public is advised to prepare for potential lightning and wind-related incidents.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉදිරි පැය 36 සඳහා කාලගුණ නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර තිබේ.
+🟩
 
-බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+In the evening of the evening, a rain and wind will be expected in the next few days due to the growing monsoon weather conditions in Sri Lanka.
 
-දිවයිනේ සෙසු ප්‍රදේශවල දවල් 12න් පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+The Department of Meteorologies issued a weather notification for the next 36 hours.
 
-බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ට වැඩි තද වැසි ඇති වේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
 
-දිවයින හරහා විටින් විට හමන පැ.කි.මී 30 - 40ක පමණ තද සුළං ඇති වේ.
+Showers or thundershowers will occur at several places after 12 in the rest of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In some places in the Western, Sabaragamuwa, North-Western provinces, in some places, experience at more than 100mm.
+
+There are about 30 and 40 strong winds in times of time.
+
+The Department of Meteorology urges the public to take steps to reduce the temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/59a8576f.json)
 
+[Extended Data](ext_articles/59a8576f.ext.json)
+
 ---
 
-### වෙල්ගම බලන්න මහින්ද යයි
+### Welgama to see Mahinda
 
 *2024-05-17 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196728) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී කුමාර වෙල්ගම මහතාගේ සුවදුක් බැලීම සඳහා හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ගොස් තිබේ.
+Mahinda Rajapaksa visited MP Kumara Welgama, indicating a meeting between former Sri Lankan President and the parliamentarian.
+
+🟩
+
+Former President Mahinda Rajapaksa has gone to see MP Kumara Welgama.
 
 ◼️
 
 [Data](articles/26b8420a.json)
+
+[Extended Data](ext_articles/26b8420a.ext.json)
 
 ---
 
@@ -340,19 +388,29 @@ Speaking further, the CEO of SLC said: “So, I think the information which has 
 
 ---
 
-### කෝටි පහක දුරකතන කටුනායකදි අත්අඩංගුවට
+### Five million phones arrested in Katunayakapandana
 
 *2024-05-17 15:33:33* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-දුරකතන-කටුනායකදි-අත්අඩංගුවට/11-409697) · `si`
 
-නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ආනයනය කර, තීරු බදු නොගෙවා ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි රුපියල් කෝටි පහක් පමණ වටිනා නවීනතම ජංගම දුරකථන තොගයක් සහ පෙන් ඩ්‍රයිව් තොගයක් සමග ඒවා ගුවන් තොටුපොළ වෙත රැගෙන ආ ව්‍යාපාරිකයන් දෙදෙනෙකු ද  05/17 දින අලුයම කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Two businessmen, aged 59 and 24, residents of Colombo, were arrested at Katunayaka Airport after arriving from Dubai. They were caught with a large quantity of contraband items including mobile phones and laptops. The Criminal Investigation Department (CID) took charge of the investigation, confiscating the goods for further examination.
 
-මොවුන් දෙදෙනාගෙන් එක් අයෙකු කොළඹ - 12 ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු 59 හැවිරිදිය . අනෙක් ව්‍යාපාරිකයා කොළඹ - 14 පදිංචි 24 හැවිරිදි පුද්ගලයෙකි .
+🟩
 
-ඔවුන් දෙදෙනා 05/17 දින අලුයම 04.55 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Two businessmen who had been brought to the airport with a stock of Rs.The airport criminal investigations have been arrested by a group of officers.
 
-...
+One of them is a resident of Colombo 12, and he is 59. The other business is a 24 year old resident of Colombo 14.
+
+They were two 05.55 am 4.55 am 4.55 am to 4.55 am from Dubai to SriLankan Airlines.
+
+In a number of luggage they brought, galaxy, Red bee, Hiro, and 200pm type at the airport, the airports, which are not able to express anything to the airport.The arrest had made the Criminal Investigation Department (CID) police officers who were in existence in the surrounding area.
+
+The mobile phone and Penriyu consignment have been handed over to the Katunayake airport customs for further investigations.
+
+◼️
 
 [Data](articles/11fb8007.json)
+
+[Extended Data](ext_articles/11fb8007.ext.json)
 
 ---
 
@@ -2195,35 +2253,5 @@ PickMe’s CEO Zulfer Jiffry says it made perfect sense to launch their services
 [Data](articles/03486a0a.json)
 
 [Extended Data](ext_articles/03486a0a.ext.json)
-
----
-
-### Sri Lanka Insurance Corporation General Limited organizes CAR insurance session for constructors enabling risk management roadmap
-
-*2024-05-17 02:38:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-general-limited-organizes-car-insurance-session-for-constructors-enabling-risk-management-roadmap/) · `en`
-
-Sri Lanka Insurance Corporation General Limited (SLICGL) hosted a comprehensive CAR (Construction All Risks) insurance Awareness Session at Courtyard by Marriott Colombo recently to educate stakeholders from the construction sector and the Road Development Authority (RDA) on the crucial role of CAR insurance in mitigating risks inherent to construction projects.
-
-The session covered various facets of CAR insurance, including its scope of coverage, benefits, risk assessment, policy features, claims management, and best practices in risk mitigation safeguarding projects against unforeseen risks and liabilities.
-
-...
-
-[Data](articles/83d9ae48.json)
-
-[Extended Data](ext_articles/83d9ae48.ext.json)
-
----
-
-### Professor Ajith De Alwis encourages AIA higher education scholarship winners to reach for excellence
-
-*2024-05-17 02:38:00* · [`islandlk`](http://island.lk/professor-ajith-de-alwis-encourages-aia-higher-education-scholarship-winners-to-reach-for-excellence/) · `en`
-
-The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29th consecutive year of recognizing the top performers from each district at the Grade 5 scholarship examination. Since its inception in 1994, the programme has been dedicated to supporting Sri Lanka’s brightest students on their journey to success, irrespective of whether they are AIA customers or not. This year’s awards ceremony was graced by the distinguished academic, Professor Ajith De Alwis, who shared invaluable insights to inspire the next generation of leaders.
-
-...
-
-[Data](articles/f4181df1.json)
-
-[Extended Data](ext_articles/f4181df1.ext.json)
 
 ---

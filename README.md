@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 11:05:48**
+As of **2024-05-17 11:18:15**
 
 ## Newspaper Stats
 
-*Scraped **24,610** Articles*
+*Scraped **24,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,110
-adaderanalk | 2,845
+adaderanalk | 2,846
 tamilmirrorlk | 2,890
 virakesarilk | 3,703
 dailymirrorlk | 3,858
@@ -26,39 +26,71 @@ adaderanasinhalalk | 3,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,605 (100.0%) of 24,610 articles have been extended.
+24,610 (100.0%) of 24,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### எரிபொருள் இன்மையால் ரையொதுங்கிய இந்திய படகு!
+### Former army chief Mahesh Senanayake joins SJB
+
+*2024-05-17 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99268/former-army-chief-mahesh-senanayake-joins-sjb) · `en`
+
+Former Commander of the Sri Lanka Army, General (Retd) Mahesh Senanayake has joined the Samagi Jana Balawegaya (SJB).
+
+Subsequently, he has been appointed as the leader of the ‘Samagi Ranawiru Balawegaya’ which is affiliated with the SJB.
+
+Senanayake was the 22nd Commander of the Army and served for over two years in the position. Prior to that, he had served as the Chief of Staff of the Sri Lanka Army.
+
+After formally retiring from the Sri Lanka Army, he was promoted to the rank of General by then-President Maithripala Sirisena on 20 August, 2019.
+
+Later, Senanayake contested the 2019 Presidential Election under the National People’s Party (NPP), and placed fourth the after three candidates from the three major political parties.
+
+◼️
+
+[Data](articles/e50ea89c.json)
+
+---
+
+### Indian boat
 
 *2024-05-17 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183755) · `ta`
 
-இந்தியா - மல்லிப்பட்டினம் பகுதியைச் சேர்ந்த மீனவர்களது படகு ஒன்று வியாழக்கிழமை (16) மாலை எரிபொருள் தீர்ந்ததனால் யாழ்ப்பாணம் - சம்பில்துறையில் கரையொதுங்கியது.
+Fishermen from India's Mallipattinam arrived in Sri Lanka's Jaffna on a boat. Three men, including Perumal Vanjinathan, Rajendran Mahesh, and Ilangovan Ranjit Kumar, were detained by the Ilavalai police for investigation.
 
-பெருமாள் வாஞ்சிநாதன், ராஜேந்திரன் மகேஷ், இளங்கோவன் ரஞ்சித்குமார் ஆகிய மீனவர்கள் படகுடன் கரையொதுங்கினர்.
+🟩
 
-குறித்த மீனவர்கள் மூவரும் இளவாலை பொலிஸ் நிலையத்திற்கு அழைத்து செல்லப்பட்டுள்ளனர். இளவாலை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+A boat of fishermen from India - Mallipattinam landed in Jaffna - Champilthurai on Thursday evening.
+
+The fishermen of Perumal Vanjinathan, Rajendran Mahesh and Ilangovan Ranjit Kumar were on the shore with the boat.
+
+The three fishermen have been taken to the Ilavalai police station. Ilavalai police are conducting investigations.
 
 ◼️
 
 [Data](articles/25bc716b.json)
 
+[Extended Data](ext_articles/25bc716b.ext.json)
+
 ---
 
-### ජෙනරාල් මහේෂ් සේනානායක සජබයට
+### Gen. Mahesh Senanayake to the CM
 
 *2024-05-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196709) · `si`
 
-හිටපු හමුදාපති මෙන්ම හිටපු යුද හමුදා මාණ්ඩලික ප්‍රධානී, ජෙනරාල් මහේෂ් සේනානායක සමගි ජන බලවේගයට එක්වී තිබේ.
+General Mahesh Senanayake, ex-Army Commander and Chief of Staff, has rejoined the army and now leads the war heroes' community.
 
-එසේ සමගි ජන බලවේගය හා එක්වීමෙන් අනතුරුව සමගි රණවිරු බලවේගයේ ප්‍රධානියා ලෙස ඔහුව පත්කර ඇත.
+🟩
+
+Former Army Commander and for former Army Chief of Staff, General Mahesh Senanayake has joined the resibriment.
+
+He has been appointed as the head of the war heroes after being joining the community.
 
 ◼️
 
 [Data](articles/00296526.json)
+
+[Extended Data](ext_articles/00296526.ext.json)
 
 ---
 
@@ -84,41 +116,53 @@ Furthermore, the police mentioned that measures are underway to extradite the su
 
 ---
 
-### யாழில் முதியவர் உயிர்மாய்ப்பு
+### The old man in Jaffna
 
 *2024-05-17 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183748) · `ta`
 
-யாழ்ப்பாணம், ஏழுகோவில் ஏழாலை கிழக்கு பகுதியில் மன விரக்தியில் இருந்த முதியவர் ஒருவர் வியாழக்கிழமை (16) தவறான முடிவெடுத்து கிணற்றில் விழுந்து உயிரிழந்துள்ளார்.
+An elderly man in Jaffna, living alone after his wife's death, tragically fell into a well in his home, captured on CCTV. A sudden death investigation is underway, led by Officer A. Jayapalasingham, with the body now with family after autopsy.
 
-குறித்த முதியவரின் மனைவி உயிரிழந்துள்ளார். அவரது பிள்ளைகள் அனைவரும் வெளிநாட்டில் வசித்து வருகின்ற நிலையில் குறித்த முதியவர் வீட்டில் தனியாக வசித்து வந்துள்ளார்.
+🟩
 
-இந்நிலையில், மன விரக்தியடைந்த அவர் இன்றையதினம் அவரது வீட்டில் உள்ள கிணற்றில் விழுந்து உயிர்மாய்த்துள்ளார். இந்த காட்சி அங்கிருந்த சி.சி.டி கமராவில் பதிவாகியுள்ளது.
+An elderly man who was frustrated in the east of the Ezhukovil in Jaffna, Jaffna, died on Thursday (16).
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The old man's wife dies. The elderly man is living alone in the house of all his children living abroad.
+
+In this case, he fell into the well in his house today. The scene was recorded on the CCT camera.
+
+A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/8924b8df.json)
 
+[Extended Data](ext_articles/8924b8df.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் இளம் குடும்பப் பெண் உயிரிழப்பு - மரணத்தில் மர்மம்!
+### Young family girl death in Jaffna - mystery in death!
 
 *2024-05-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183752) · `ta`
 
-யாழ்ப்பாணம் - தாவடி பகுதியில் இளம் குடும்பப் பெண் ஒருவர் வியாழக்கிழமை (16) சடலமாக மீட்கப்பட்டுள்ளார்.
+In Jaffna, a 31-year-old woman named Jensia Sivasuriyan was found dead on Thursday. She lived with her husband and daughter in France but returned home unexpectedly. Her sudden death remains unexplained after an autopsy, prompting further tests in Colombo.
 
-காளி கோவில் வீதி, தாவடி தெற்கு பகுதியைச் சேர்ந்த ஜென்சியா சிவசூரியன் (வயது 31) என்ற ஒரு பிள்ளையின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த பெண்ணின் கணவரும் மகளும் பிரான்ஸில் வசித்து வருகின்றனர். இவர் புதன்கிழமை இரவு  உணவருந்தி விட்டு தூக்கத்திற்கு சென்றார். பின்னர்  வியாழக்கிழமை காலை படுக்கையில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+A young family woman has been recovered on Thursday (16) in Jaffna.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். சடலம் மீட்கப்பட்டு வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்டு உடற்கூற்று பரிசோதனை மேற்கொள்ளப்பட்டது. இருப்பினும் மரணத்திற்கான காரணம் கண்டறியப்படவில்லை.
+The mother of a child, Jensia Sivasuriyan (age 31), from Kali Temple Road, Dawadi south, died.
 
-பரிசோதனைகளுக்காக உடற்கூற்று மாதிரிகள் கொழும்பிற்கு அனுப்பி வைக்கப்பட்டுள்ளது. அவரது சடலத்தை புதைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+The woman's husband and daughter live in France. He left the dinner on Wednesday and went to sleep. He was later recovered from bed on Thursday morning.
+
+A sudden death investigation officer A. Jayapalasingham. The body was recovered and taken to the hospital and an anatomical examination was carried out. However, the cause of death was not detected.
+
+Anatomical samples have been sent to Colombo for experiments. He has been ordered to bury his corpse.
 
 ◼️
 
 [Data](articles/c6d04579.json)
+
+[Extended Data](ext_articles/c6d04579.ext.json)
 
 ---
 
@@ -146,15 +190,21 @@ In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh F
 
 ---
 
-### மாத்தறையில் ரயிலில் மோதி ஒருவர் பலி
+### One person killed in train
 
 *2024-05-17 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183744) · `ta`
 
-இந்த விபத்து மாத்தறை, நுபே ரயில் கடவைக்கு அருகில் நேற்று வியாழக்கிழமை (16) மாலை  இடம்பெற்றுள்ளது.
+A fatal train accident occurred on Thursday evening near the Nube railway crossing in Matara, resulting in one fatality.
+
+🟩
+
+The accident took place on Thursday evening (16) near the Nube railway crossing of Matara.
 
 ◼️
 
 [Data](articles/d1f70cdd.json)
+
+[Extended Data](ext_articles/d1f70cdd.ext.json)
 
 ---
 
@@ -2141,41 +2191,5 @@ The steps have been taken due to a risk situation in several areas including Mal
 [Data](articles/ab37a486.json)
 
 [Extended Data](ext_articles/ab37a486.ext.json)
-
----
-
-### Confidence shot dead in Slovakia
-
-*2024-05-16 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196691) · `si`
-
-In Slovakia, Robert Priaco, a 59-year-old Prime Minister, survived an assassination attempt during a political meeting. A 71-year-old suspect, a security officer and poet from Lewis, fired five shots, leading to a five-hour surgery for Priaco. The motive behind the attack remains unclear, but it's speculated to stem from political disagreements. Authorities are investigating the incident, which has shocked the nation.
-
-🟩
-
-Robert Priaco's condition was intensely improved while returning after a political meeting.
-
-A 71-year-old man had been launched to the Prime Minister and the Prime Minister had taken 5 shots of shots and he had undergone 5 hours surgery yesterday.
-
-The suspects were accused of "attempt to murder" against the 59 year old Prime Minister.
-
-The shooting is thought that the shooting is considered to be carried out due to the clashes.
-
-Meanwhile, authorities have acquired information about the suspect.
-
-The suspect was a security officer of a shopping complex. He is a poetry writer. Also a founding member of the Slovak writer association.
-
-He also condemned the Rainbo Literature Association, who was the Creator.
-
-Meanwhile, the suspect had a note in his Facebook page show that he disagrees on government policies.
-
-The suspect was a resident of Lewis, a resident of Lewis.
-
-The Son of the suspect has said, "I can't really think of what he did," he said.
-
-◼️
-
-[Data](articles/3d3df2c7.json)
-
-[Extended Data](ext_articles/3d3df2c7.ext.json)
 
 ---

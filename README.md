@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 20:03:39**
+As of **2024-05-17 20:18:24**
 
 ## Newspaper Stats
 
-*Scraped **24,700** Articles*
+*Scraped **24,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,863
 tamilmirrorlk | 2,897
 virakesarilk | 3,724
 dailymirrorlk | 3,874
-adaderanasinhalalk | 3,944
+adaderanasinhalalk | 3,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,698 (100.0%) of 24,700 articles have been extended.
+24,700 (100.0%) of 24,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### ඇල්ල - වැල්ලවාය මාර්ගය අදත් වැසෙයි
+
+*2024-05-17 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196734) · `si`
+
+අධික වර්ෂාපතනයත් සමග ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයට ගල් සහ පස් කඳු කඩාවැටීම හේතුවෙන් අද (17) හවස 08 සිට හෙට (18) උදෑසන 06 දක්වා වසා තැබීමට ආපදා කළමානකරණ මධ්‍යස්ථානය පියවර ගෙන තිබේ.
+
+අයහපත් කාලගුණය හේතුවෙන් ඊයේ (16) දිනයේ ද පෙරවරු 06 සිට අද උදෑසන 06 දක්වා එම මාර්ගය වසා තැබීමට ආපදා කළමානකරණ මධ්‍යස්ථානය පියවර ගෙන තිබුණි.
+
+ඇල්ල වැල්ලවාය මාර්ගයේ රාවණා ඇල්ලට ඉහළ කොටසකින් විශාල ජල පහරක් ඇල්ල වැල්ලවාය මාර්ගයට කඩාවැටෙන අයුරු ජංගම දුරකථනයක සටහන්ව තිබූණි.
+
+මාර්ගයට ස්ථාන කිහිපයකින් පස්කඳු හා ගල් පෙරළීම නිසා වසා දැමුණු අතර වැල්ලවාය මාර්ගයට යෑමට තිබූ එකම විකල්ප මාර්ගය වූ අඹදණ්ඩේගම හරහා වැල්ලවාය මාර්ගයද ස්ථාන කිහිපයකින් නායගොස් තිබේ.
+
+ඒ අනුව එම මාර්ගයද වැසී තිබුණු අතර බණ්ඩාරවෙල පළාත් මාර්ග සංවර්ධන ඒකකය විසින් එම මාර්ග යථා තත්ත්වයට පත්කිරීම සිදුකරමින් පවතී.
+
+◼️
+
+[Data](articles/0f8f2a76.json)
+
+---
 
 ### Facebook, Instagram suspected to be ’too addictive’
 
@@ -52,6 +72,8 @@ in September, Meta provided regulators with a report on the risks associated wit
 
 [Data](articles/0ed25ce6.json)
 
+[Extended Data](ext_articles/0ed25ce6.ext.json)
+
 ---
 
 ### Ella–Wellawaya road temporarily closed again
@@ -63,6 +85,8 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 ◼️
 
 [Data](articles/6178eda1.json)
+
+[Extended Data](ext_articles/6178eda1.ext.json)
 
 ---
 
@@ -2297,31 +2321,5 @@ In that case, the relevant road would have to be closed again at any moment, it 
 [Data](articles/00d61cea.json)
 
 [Extended Data](ext_articles/00d61cea.ext.json)
-
----
-
-### The verdict for 9 Pakistani nationals arrested in Sri Lanka
-
-*2024-05-17 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196708) · `si`
-
-Nine Pakistani nationals arrested in Sri Lanka for drug possession were sentenced to 10 years. They were caught with over 900 kilograms of drugs, including 614 kilograms of ice. The Attorney General advised charges, which the suspects acknowledged. They will be deported to Pakistan to serve their sentences.
-
-🟩
-
-Nine Pakistani nationals arrested in Sri Lanka with drugs have been sentenced to 10 years.
-
-The suspects were arrested with 614 kilograms of ice and 34 grams of ice and 34 grams suspected of 36 grams and 34 grams suspected to be arrested.
-
-The TNA has been received regarding the drug and has revealed that the parcels contain more than 900 kilograms of drugs.
-
-Accordingly, the suspects had been filed against the suspects after the Attorney General's advice and the Pakistani had accepted the wrongdoing when the case was taken up.
-
-According to police, they are deported to Pakistan to implement the sentence.
-
-◼️
-
-[Data](articles/d89f2ed5.json)
-
-[Extended Data](ext_articles/d89f2ed5.ext.json)
 
 ---

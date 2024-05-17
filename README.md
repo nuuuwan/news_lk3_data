@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 00:18:33**
+As of **2024-05-18 00:33:38**
 
 ## Newspaper Stats
 
-*Scraped **24,731** Articles*
+*Scraped **24,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,425
-dailyftlk | 1,450
+dailyftlk | 1,460
 adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
@@ -26,11 +26,85 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,731 (100.0%) of 24,731 articles have been extended.
+24,731 (100.0%) of 24,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Embassy in Brussels holds “Sri Lanka: Your vital island”, trade and tourism promotion event
+
+*2024-05-17 23:52:05* · [`dailyftlk`](https://www.ft.lk/business/Embassy-in-Brussels-holds-Sri-Lanka-Your-vital-island-trade-and-tourism-promotion-event/34-761946) · `en`
+
+The Embassy of Sri Lanka in Brussels organised an event showcasing Sri Lanka’s recent economic recovery and the emerging economic opportunities, to over 55 participants representing the European Commission, Belgium Government and a cross section of the private sector in Belgium, at the ‘Sri Lanka Residence’ on 15 May.
+
+The networking session of the event provided the participants with the opportunity to interact with the Embassy officials and to discuss much focused future engagements in trade, tourism and investments sectors in detail.
+
+Ambassador of Sri Lanka in Brussels Chandana Weerasena briefly explained as to how Sri Lanka made a remarkable economic recovery after an unprecedented economic crisis, within a short period of time. He also emphasised that Sri Lanka is now ready for deeper economic activities with foreign countries.
+
+...
+
+[Data](articles/72bb798d.json)
+
+---
+
+### Adani Energy Solutions completes acquisition of Essar’s Operational Mahan-Sipat Transmission assets
+
+*2024-05-17 23:46:56* · [`dailyftlk`](https://www.ft.lk/business/Adani-Energy-Solutions-completes-acquisition-of-Essar-s-Operational-Mahan-Sipat-Transmission-assets/34-761944) · `en`
+
+Adani Energy Solutions Ltd. (AESL), one of the largest private transmission and distribution companies in South Asia with a growing smart metering portfolio, has acquired 100% stake in Essar Transco Ltd. after obtaining requisite regulatory and other approvals. The share acquisition is pursuant to definitive agreements signed in June, 2022.
+
+The acquisition covers fully operational 400 kV, 673 ckt km inter-state transmission lines. The project operates under the Central Electricity Regulatory Commission (CERC) regulated return framework and was commissioned on 22 September 2018.
+
+...
+
+[Data](articles/dc4f55d0.json)
+
+---
+
+### HNB and 3DH Building Solutions collaborate for seamless financing for generators and elevators
+
+*2024-05-17 23:45:15* · [`dailyftlk`](https://www.ft.lk/business/HNB-and-3DH-Building-Solutions-collaborate-for-seamless-financing-for-generators-and-elevators/34-761943) · `en`
+
+HNB Head of Retail Kanchana Karunagama exchanging the MoU with 3DH Building Solutions Managing Director Hirantha Goonesekara, in the presence of (from left): HNB Assistant Manager – Business Development Leasing Mahesh Ratnayake, HNB Assistant Manager – Leasing Roshan De Silva, HNB Head of Leasing Susith Perera, 3DH Building Solutions Chief Executive Officer Ruwan Fernando, 3DH Building Solutions Head of Business Development S. Narendran, 3DH Building Solutions General Manager – Elevator and Escalators Ajith Siriwardane
+
+Sri Lanka’s leading private sector bank, HNB PLC, has entered into a fresh agreement with 3DH Building Solutions to promote and offer financing solutions for FMT Generators and GLARIE elevators.
+
+Representatives from both organisations graced the occasion to formalise the partnership, with HNB Head of Retail Kanchana Karunagama and 3DH Building Solutions Managing Director Hirantha Goonesekara signing the agreement, in the presence of other representatives at HNB Towers.
+
+...
+
+[Data](articles/5f15554b.json)
+
+---
+
+### Sadaharitha partners with UAE’s Alweena Perfumes to expand global operations with agarwood exports
+
+*2024-05-17 23:42:27* · [`dailyftlk`](https://www.ft.lk/business/Sadaharitha-partners-with-UAE-s-Alweena-Perfumes-to-expand-global-operations-with-agarwood-exports/34-761942) · `en`
+
+Sadaharitha Group, the pioneering force in Sri Lanka’s commercial forestry industry, proudly announces the expansion of its global operations by exporting agarwood-based products to the United Arab Emirates (UAE). This milestone marks a strategic collaboration with Alweena Perfumes, a distinguished premium perfume brand based in the UAE.
+
+Since its inception in 2002, Sadaharitha Group has been at the forefront of revolutionising the agarwood forestry industry in Sri Lanka. With over two decades of accomplishments and a steadfast commitment to sustainable forestry practices, Sadaharitha Group has emerged as the largest agarwood nursery in Southeast Asia, spanning 1,300+ acres and encompassing over 30 estates across the island.
+
+...
+
+[Data](articles/19fe2e8d.json)
+
+---
+
+### Commercial Bank in strategic partnership with Q&E to enhance SME capabilities
+
+*2024-05-17 23:40:20* · [`dailyftlk`](https://www.ft.lk/business/Commercial-Bank-in-strategic-partnership-with-Q-E-to-enhance-SME-capabilities/34-761941) · `en`
+
+Commercial Bank has announced a strategic partnership with Q&E to enhance the capabilities of small and medium enterprises (SMEs) through the Commercial Bank LEAP Global Linker platform.
+
+The Commercial Bank LEAP GlobalLinker is a pioneering initiative in Sri Lanka, spearheaded by the bank itself. It’s a cutting-edge ecosystem designed to foster networking opportunities both domestically and internationally. Developed with the backing of the International Finance Corporation (IFC), this platform is tailored to digitise enterprises and enhance business operations.
+
+...
+
+[Data](articles/25729ba5.json)
+
+---
 
 ### Will Ranil regain support of Tamil and Muslim voters?
 
@@ -250,6 +324,40 @@ Dodanwela revealed that the fifth edition of the LPL 2024, scheduled to run from
 
 ---
 
+### What should we commemorate in Sri Lanka in the month of May?
+
+*2024-05-17 20:55:25* · [`dailyftlk`](https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926) · `en`
+
+Who among those associated in an era of violence, values peace, the most; it is those who are immersed in it
+
+The peace of a nation does not lie on the pulpit of the United Nations or any other international body. The long-term stability and sustainability of a country which has paid the price in blood for peace can only come, when like Japan, one revitalises the entire nation, in every sphere, from education to recreation, to sharpen a mind towards a peaceful and holistic mindset. One that is devoid of Mohaya (which can be interpreted as false pride or illusion) or Dweshaya (anger/spite). Such a nation will not have to face the consequences of these base qualities which is Dukkha
+
+Recognising that any political structure thriving on division and unrest is a maniacal terror
+
+Understanding that an arm or a limb or a life cannot be compensated
+
+Comprehending the ego and attachment that begins the minds’ first riot
+
+...
+
+[Data](articles/403831b2.json)
+
+---
+
+### Public-private partnerships and blended finance for climate action
+
+*2024-05-17 20:44:15* · [`dailyftlk`](https://www.ft.lk/columns/Public-private-partnerships-and-blended-finance-for-climate-action/4-761924) · `en`
+
+Public-private partnerships and blended finance facilities can be important tools for accelerating and scaling up climate action
+
+Public-private partnerships (PPPs) and blended finance facilities can be important tools for accelerating and scaling up climate action, particularly in resource-constrained developing countries. These financial frameworks mobilise funds from both public and private sectors to support projects aimed at climate change mitigation, adaptation, and resilience-building.
+
+...
+
+[Data](articles/f9d33ed6.json)
+
+---
+
 ### 'Mehta Toss Rule' for Indian Premier League Playoffs
 
 *2024-05-17 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mehta-Toss-Rule-for-Indian-Premier-League-Playoffs/108-282833) · `en`
@@ -318,6 +426,42 @@ The discussion also focused on the hurdles impeding the Provincial Council elect
 
 ---
 
+### ‘Interventions’: A book review
+
+*2024-05-17 20:36:12* · [`dailyftlk`](https://www.ft.lk/columns/Interventions-A-book-review/4-761923) · `en`
+
+“Until they become conscious, they will never rebel, and until after they have rebelled, they cannot become conscious.”
+
+This is a review (perhaps imprecise) of the anthology “Interventions” – Selected Political Writings of Dayan Jayatilleka edited by Uditha Devapriya and Uthpala Wijesuriya with a forward by Kamaya Jayatissa, published by Neptune.
+
+I say imprecise, because I wrote this review before reading the entirety of this collection of writings by Dayan J. When reading this missive I hope you will understand why I hurried to pen this review before digesting it in its whole.
+
+Dayan Jayatilleka as a public intellectual has been rediscovered by two millennial opinion journalists – the type who seek the narrative that’s alternative to that of the mainstream.
+
+I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silva who was my Editor at Ceylon Daily News. Mervyn was my friend and a mentor of sorts.
+
+...
+
+[Data](articles/5e1b9474.json)
+
+---
+
+### OPA seminar sheds insights to managing Sri Lanka’s ageing population
+
+*2024-05-17 20:27:15* · [`dailyftlk`](https://www.ft.lk/opinion/OPA-seminar-sheds-insights-to-managing-Sri-Lanka-s-ageing-population/14-761922) · `en`
+
+Sri Lanka has the largest ageing population in South Asia and urgent steps need to be taken to address the problems of this rapidly increasing demographic, according to the speakers at a recent program held at the Organisation of Professional Associations of Sri Lanka.
+
+The seminar, which focused on the topic of “Trends and Challenges in the Management of Ageing” featured University of Colombo Faculty of Nursing Dean Prof. Sudath Warnakulasuriya, University of Peradeniya Department of Nursing Senior Lecturer Dr. Sarath Rathnayake, and Consultant in Family Medicine, and Health and Nutrition Committee Chairman Dr. Sanath Hettige. The event was jointly organised by the Senior Professionals’ Committee and the Health and Nutrition Committee of the OPA.
+
+Eng. Shantha Senarath, a Past President of OPA and the Moderator of the seminar, delivering the introductory speech mentioned that the objective of the seminar is to find the real meaning of ageing and also how ageing can be slowed down.
+
+...
+
+[Data](articles/a61a376e.json)
+
+---
+
 ### Ella - Lock to the main road
 
 *2024-05-17 20:23:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-பிரதான-வீதிக்கு-பூட்டு/175-337460) · `ta`
@@ -375,6 +519,22 @@ He further stated that an investigation into the officials carried out at the re
 [Data](articles/71a94448.json)
 
 [Extended Data](ext_articles/71a94448.ext.json)
+
+---
+
+### What must Sri Lanka do to avoid a second default in the near future?
+
+*2024-05-17 20:19:41* · [`dailyftlk`](https://www.ft.lk/columns/What-must-Sri-Lanka-do-to-avoid-a-second-default-in-the-near-future/4-761921) · `en`
+
+A second default by Sri Lanka could be more devastating than Sri Lanka’s first default in 2022
+
+Past evidence shows that most countries that default on their external debt, have a history of defaulting once again within the next 10 years. Going by this data, there is a probability that Sri Lanka can default once again.
+
+A second default by Sri Lanka could be more devastating than Sri Lanka’s first default in 2022. In case of a second default Sri Lanka will have to go once again to the lender of last resort, the International Monetary Fund as a bankrupt nation. The conditions by the IMF if we default the second time will be much harsher and rightly so. The bilateral creditors and bondholders will also not be as kind if Sri Lanka goes for a second default. With harsher terms by the IMF, bilateral creditors and bondholders, Sri Lanka if it defaults again will have very little space to breathe.
+
+...
+
+[Data](articles/4df0c22e.json)
 
 ---
 
@@ -2049,229 +2209,5 @@ The army did in the North now, the people of the Weliianiya Weliyaarapus 'still 
 [Data](articles/af287d0f.json)
 
 [Extended Data](ext_articles/af287d0f.ext.json)
-
----
-
-### Advisories issued for heavy rain, strong winds and rough seas
-
-*2024-05-17 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99275/advisories-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for the sea areas extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota.
-
-The sea areas extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota will be rough at times with strong gusty winds up to 60-70 kmph, the department warned.
-
-Showers or thundershowers will occur at times in these sea areas and heavy showers may occur at some places, it said while urging naval and fishing communities to be attentive in this regard.
-
-Meanwhile the Met. Department has also issued an advisory for strong winds and rough seas for the naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea
-
-The Meteorology Department warns that strong winds accompanied with heavy rainfalls and very rough seas are expected to enhance during the next few days over the sea areas around the country and over the South-eastern Sea areas.
-
-...
-
-[Data](articles/75f4cc14.json)
-
-[Extended Data](ext_articles/75f4cc14.ext.json)
-
----
-
-### Sri Lanka’s macroeconomic policies are starting to bear fruit - IMF
-
-*2024-05-17 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99274/sri-lankas-macroeconomic-policies-are-starting-to-bear-fruit-imf) · `en`
-
-The International Monetary Fund (IMF) has highlighted Sri Lanka’s commendable macroeconomic policies, rapid inflation decline, and steady economic growth.
-
-Addressing a press briefing held on Thursday (16) in the Washington DC, the Director of IMF Communications Julie Kozack said “with respect to Sri Lanka’s economic performance, macroeconomic policies in Sri Lanka are starting to bear fruit. Commendable outcomes include a rapid decline in inflation, robust reserve accumulation and initial signs of economic growth while also preserving stability in the financial system. Overall programme performance has been strong.”
-
-“IMF staff and the Sri Lankan authorities have reached a staff-level agreement on economic policies to conclude the second review of the four-year EFF-supported program and the 2024 Article IV Consultation. Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to about US$337 million in financing”, she added.
-
-...
-
-[Data](articles/2c37e5bf.json)
-
-[Extended Data](ext_articles/2c37e5bf.ext.json)
-
----
-
-### Selvarasa Gajendran says the International Criminal Investigation
-
-*2024-05-17 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183767) · `ta`
-
-Selvarasa Gajendran accuses the Sri Lankan government of deceiving the international community by establishing a reconciliation commission, preventing Tamils from commemorating the Mullivaikkal genocide. He criticizes the government's handling of arrests related to the commemoration and calls for a boycott of the upcoming presidential election.
-
-🟩
-
-Parliamentarian Selvarasa Gajendran has said that the government has deceived the international community by creating a reconciliation commission.
-
-He was speaking to the media following the submission of Attorney Sukash on the status of those arrested during the Mullivaikkal commemoration of Muttur.
-
-He said that this month was a month of pain for the Tamils and that the government, which has been deceiving the Tamils for 15 years, has prevented them from remembering the genocide of Mullivaikkal.
-
-The court has asked the police a report on the ICCPR on the arrested persons arrested in Muttur.
-
-Senior Attorney Sukhash and Muslim lawyers thanked the court at this time, who appeared in court on this issue.
-
-He said that the police have filed a false accusation and have deceived the court and have now removed the court order.
-
-...
-
-[Data](articles/3bf7997f.json)
-
-[Extended Data](ext_articles/3bf7997f.ext.json)
-
----
-
-### Ka. C.. Multiple Complaints on the Normal Quality Examination
-
-*2024-05-17 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183763) · `ta`
-
-Fourteen Tamil students complained about missing question papers for a Geography course in the 2023 GCE Ordinary Level Exam, affecting their scores. Additionally, two students with special needs faced issues accessing necessary support during exams, leading to further complaints. The Sri Lanka Human Rights Commission intervened after one student's family reported the suspension of a support worker. Despite efforts from school officials, the student couldn't secure assistance for four subjects. Joseph Stalin, CTU General Secretary, criticized the lack of understanding and support for students' needs, highlighting the violation of students' rights under existing laws.
-
-🟩
-
-A new complaint has been filed regarding the GCE Ordinary Level Examination of 2023 Education.
-
-14 Tamil language students have lodged a complaint that part 1 question papers and maps for the Geological Course of 50 marks at the Al-Aman Muslim Maha Vidyalaya in Minuwangoda have not been provided.
-
-“When we asked for part 1 questionnaire, they said it was provided. But we have not been given the questionnaire until the end. All students are specially mastered in geography. It is very unjust to lose 50 marks, ”the students said.
-
-Meanwhile, two students with special needs have lodged complaints about the boycott of their services.
-
-It is reported that a special needy student who appeared for the exam at St. Anthony's School, Wattala was unable to obtain the service of the individual who was allowed by the Examination Department to write answers.
-
-...
-
-[Data](articles/42ec106b.json)
-
-[Extended Data](ext_articles/42ec106b.ext.json)
-
----
-
-### Israel should order Israel's attack on Rafa - South Africa appeals
-
-*2024-05-17 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183769) · `ta`
-
-South Africa has urged the ICC to halt Israel's assault on Rafah, citing the devastating impact of the Gaza War, which has claimed over 35,000 lives and left Gaza in ruins. The appeal emphasizes the urgent need for a ceasefire to allow humanitarian aid into the region, highlighting the dire situation facing Palestinians.
-
-🟩
-
-South Africa has appealed to the International Criminal Court to order Israel to abandon the attack on Rabam.
-
-They have requested the International Court of Justice to order Israel's attack on Rafa.
-
-The seven -month Gaza War has killed 35,000 people and has made Gaza on the ground, they said.
-
-South Africanists have said that there is a need for a ceasefire to transport food medicine into Gaza as it is so bad.
-
-The South African lawyer said that Rabba faced Israel's ground attack, which would destroy the foundation of the lives of the Palestinians.
-
-◼️
-
-[Data](articles/d170c9ca.json)
-
-[Extended Data](ext_articles/d170c9ca.ext.json)
-
----
-
-### Two arrested with over 1,000 mobile phones and 200 pen drives at BIA
-
-*2024-05-17 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99273/two-arrested-with-over-1000-mobile-phones-and-200-pen-drives-at-bia) · `en`
-
-The officers of the Criminal Investigation Department (CID) at the Bandaranaike International Airport (BIA) in Katunayake have arrested two Sri Lankan passengers who were in possession of 1,083 mobile phones and 200 high-capacity pen drives, which had not been declared.
-
-Police said that the duo had arrived at the BIA from Dubai this morning (17).
-
-One of the two arrested suspects has been identified as a 59-year-old resident of the Colombo 12 while the other suspect is a 24-year-old hailed from Colombo 14, Ada Derana reporter said.
-
-The value of the confiscated items found in the possession of the suspects is estimated to be around Rs. 50 million, according to police. The seized items have been handed over to Sri Lankan Customs for further investigations.
-
-◼️
-
-[Data](articles/d1055e01.json)
-
-[Extended Data](ext_articles/d1055e01.ext.json)
-
----
-
-### A man who tried to burn a Jews in France shot dead by police
-
-*2024-05-17 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183765) · `ta`
-
-In France, a man attempting to burn Jews was killed by police after witnesses alerted them. The officer was fatally stabbed with a knife upon arrival.
-
-🟩
-
-Those who observed the emergence of the smoke from the Jews have informed the police-The policeman was shot dead with a knife iron as they went there.
-
-◼️
-
-[Data](articles/be8e3c43.json)
-
-[Extended Data](ext_articles/be8e3c43.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-17 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183766) · `ta`
-
-US Dollar buying rate: 295.8026, selling rate: 305.1511 as per May 17 data from the Central Bank.
-
-🟩
-
-The US dollar purchasing price was 295.8026 and the sales price were Rs 305.1511 based on the Central Bank released today (May 17).
-
-◼️
-
-[Data](articles/6d8eba61.json)
-
-[Extended Data](ext_articles/6d8eba61.ext.json)
-
----
-
-### Sri Lanka Cricket on Kusal's Visa
-
-*2024-05-17 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196714) · `si`
-
-Sri Lanka Cricket CEO Ashley de Silva clarified at a press conference that Kusal Mendis' visa application hasn't been rejected. He mentioned Kusal will liaise with the US Embassy for further documentation, aiming for visa approval within a day or two. This process should enable Kusal to participate in upcoming training matches, including those against South Africa in New York on June 2nd.
-
-🟩
-
-Sri Lanka Cricket CEO of Sri Lanka Cricket at a press conference held at a press conference held on Visal Mendis, Sri Lanka's Vasal Mendis.
-
-He said the Kusal's visa application has not been rejected.
-
-Ashley de Silva said that Kusal would work with the US Embassy in this regard.
-
-"He has asked for some more docummen. After that Dokyments, he gets visas in the next one day / two. "
-
-He said he believed to be able to participate in the training matches.
-
-South Africa will be held in New York on June 02.
-
-◼️
-
-[Data](articles/a3319c29.json)
-
-[Extended Data](ext_articles/a3319c29.ext.json)
-
----
-
-### Mendis’ visa not denied, likely to join team before warm-up games: SLC CEO
-
-*2024-05-17 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-visa-not-denied-likely-to-join-team-before-warm-up-games-SLC-CEO/108-282806) · `en`
-
-Colombo, May 17 (Daily Mirror) -  Sri Lanka Cricket (SLC) has denied recent reports that visas for two key players, including Kusal Mendis, in the Sri Lankan squad for the T20 World Cup had been rejected.
-
-CEO Ashley de Silva said that Mendis' visa is currently under process and that he will likely join the team before the warm-up games.
-
-It was reported that Kusal Mendis and Asitha Fernando declined to travel to the United States for the upcoming ICC T20 World Cup, despite the rest of the squad having departed for the USA.
-
-Ashley de Silva said that Kusal's visa has not been rejected and the US embassy is in touch with Sri Lanka Cricket to get the visa approved.
-
-...
-
-[Data](articles/0b32b574.json)
-
-[Extended Data](ext_articles/0b32b574.ext.json)
 
 ---

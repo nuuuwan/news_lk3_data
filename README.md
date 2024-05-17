@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 19:03:37**
+As of **2024-05-17 19:18:38**
 
 ## Newspaper Stats
 
-*Scraped **24,693** Articles*
+*Scraped **24,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,64 @@ adalk | 2,114
 adaderanalk | 2,862
 tamilmirrorlk | 2,897
 virakesarilk | 3,724
-dailymirrorlk | 3,870
+dailymirrorlk | 3,871
 adaderanasinhalalk | 3,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,690 (100.0%) of 24,693 articles have been extended.
+24,693 (100.0%) of 24,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### ජ්‍යේෂ්ඨ පුරවැසියන්ගේ බැංකු තැන්පතු ගැන තීරණයක්
+### Brazil named as hosts for 2027 Women’s World Cup
+
+*2024-05-17 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Brazil-named-as-hosts-for-2027-Womens-World-Cup/108-282824) · `en`
+
+(BBC) - Brazil have been named hosts of the 2027 Women's World Cup after beating a joint bid by Belgium, the Netherlands and Germany (BNG).
+
+They became the first nation to be handed the rights by an open vote, with member associations voting 119 to 78 in favour of Brazil at Fifa's congress in Bangkok on Friday.
+
+It will be the first time a Women's World Cup has been hosted by a South American country.
+
+"We will have the best World Cup in Brazil. Many thanks as well to the BNG bid, who have been fantastic."
+
+Both bids met hosting criteria, but Brazil scored higher on technical aspects covering areas such as stadiums, accommodation, fan zones and transport in a Fifa bid evaluation report.
+
+The United States and Mexico withdrew their joint bid in April, saying they would focus on bidding for the tournament in 2031, while South Africa did the same in November.
+
+...
+
+[Data](articles/b2162744.json)
+
+---
+
+### Decision on Bank Deposits of Senior Citizens
 
 *2024-05-17 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196732) · `si`
 
-ජ්‍යේෂ්ඨ පුරවැසි ගිණුම්වල පොලිය ඉහළ නැංවීම පිළිබඳ සොයා බැලීමේ කමිටු වාර්තාව ලබන සතියේ ජනාධිපතිවරයා වෙත ඉදිරිපත් කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+An investigation committee will present its findings on senior citizens' bank deposits to the President next week. The committee was formed to address concerns over high interest rates due to the economic climate. It aims to regulate around 110,000 accounts held by individuals over 60, especially those managing multiple accounts and deposits from others.
 
-ජ්‍යේෂ්ඨ පුරවැසි ගිණුම් සඳහා ලබාදෙන පොලී අනුපාතය ඉහළ නැංවීම පිළිබඳ කඩිනමින් සොයා වාර්තාවක් සකස් කිරීම සඳහා පත් කළ කමිටුව මුදල් අමාත්‍යාංශයේ දී රැස් වූ අවස්ථාවේ රාජ්‍ය අමාත්‍යවරයා මේ බව සදහන් කර තිබේ.
+🟩
 
-එහි දී අමාත්‍යවරයා ප්‍රකාශ කර ඇත්තේ පවතින ආර්ථික තත්ත්වය අනුව පොලී අනුපාතය කොතරම් ඉහළ දැමිය හැකිදැයි සොයා බලා ඊට අනුව කටයුතු කරන ලෙසය.
+State Minister Ranjith Siyambalapitiya says the report of the investigation committee will be presented to the President next week.
 
-වයස අවුරුදු 60ට වඩා වැඩි පුද්ගලයන්ට හිමි ගිණුම් ලක්ෂ 11ක් පමණ පවතින අතර ඒවා විධිමත් කිරීමේ අවශ්‍යතාව ද මෙහි දී අවධාරණය කර ඇති බව සඳහන්ය.
+The Minister of State has made this statement when the appointment of the committee appointed to prepare a report on the increase in the interest rate for Senior Citizenships.
 
-විශේෂයෙන් ම එකම පුද්ගලයා බැංකු ගිණුම් කිහිපයක් පවත්වාගෙන යාම, වෙනත් පාර්ශ්වයන්ගේ මුදල් එම ගිණුම්වල තැන්පත් කිරීම ආදිය පිළිබඳ සොයා බැලීම සම්බන්ධයෙන් ද මෙහි දී සාකච්ඡා වී තිබේ.
+The Minister has stated that the interest rate could be depending on the current economic situation.
+
+There are about 11 lakhs of accounts with more than 60 years of age and the need to regulate them.
+
+The same person is particularly discussed in the event of the search for the same person, maintaining several bank accounts, deposit of other parties.
 
 ◼️
 
 [Data](articles/2942c971.json)
+
+[Extended Data](ext_articles/2942c971.ext.json)
 
 ---
 
@@ -63,6 +91,8 @@ Twenty Indian crew members and a Sri Lankan are stranded on board the Dali, the 
 ...
 
 [Data](articles/ae6e3d20.json)
+
+[Extended Data](ext_articles/ae6e3d20.ext.json)
 
 ---
 
@@ -122,21 +152,27 @@ Last year, many young people were able to observe that they were very enthusiast
 
 ---
 
-### போலி வைத்தியர்கள் - பொது மக்களுக்கு விஷேட செய்தி
+### Fake Doctors - Special News to the public
 
 *2024-05-17 18:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-வைத்தியர்கள்-பொது-மக்களுக்கு-விஷேட-செய்தி/175-337459) · `ta`
 
-நாட்டில் 40,000 மேற்பட்ட போலி வைத்தியர்கள் காணப்படுவதாக அரச வைத்திய அதிகாரிகள் சங்கம் (GMOA) தெரிவித்துள்ளது.
+Over 40,000 fake doctors identified nationwide, including those peddling drugs. GMOA urges reporting via 1907 hotline; many lack medical expertise.
 
-அவர்களில் சிலர் பொதுமக்களுக்குப் போதை மாத்திரைகளை விற்பனை செய்வதாகவும் அதிர்ச்சி தகவல் வெளியாகி உள்ளது.
+🟩
 
-இவ்வாறான போலி வைத்தியர்கள் தொடர்பில் ஏதேனும் தகவல் கிடைத்தால் 1907 என்ற தொலைபேசி இலக்கத்திற்குத் தெரிவிக்குமாறு அரச வைத்திய அதிகாரிகள் சங்கத்தின் பேச்சாளர் சலின் விஜேசிங்க தெரிவித்துள்ளார்.
+The State Medical Officers Association (GMOA) said that more than 40,000 fake doctors are found in the country.
 
-இந்நிலையில், அவர்களில் பெரும்பாலானோர் வைத்திய துறை தொடர்பில் எந்தவித முன் அனுபவமும் திறனும் இல்லாதவர்கள் என அவர் மேலும் தெரிவித்துள்ளார். R
+Shocking reports have also been revealed that some of them are selling drug pills to the public.
+
+Speaker of the State Medical Officers Association Salin Wijesinghe said that if you get any information on such fake doctors, the telephone number 1907 should be informed.
+
+In this case, most of them have no experience or skills regarding the medical sector, he added.. Remble
 
 ◼️
 
 [Data](articles/36cf9d5e.json)
+
+[Extended Data](ext_articles/36cf9d5e.ext.json)
 
 ---
 
@@ -2281,25 +2317,5 @@ Prof. Devika Jayathilake said that children should be familiar to enjoy sports a
 [Data](articles/1650ffe9.json)
 
 [Extended Data](ext_articles/1650ffe9.ext.json)
-
----
-
-### MPs exploit liquor permit system, selling for up to Rs. 50 Million
-
-*2024-05-17 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-exploit-liquor-permit-system-selling-for-up-to-Rs-50-Million/108-282782) · `en`
-
-Colombo, May 17 (Daily Mirror) - The MPs across the political divide are inclined to secure liquor permits under the names of their associates and relatives only to be sold for amounts as large as Rs.50 million at times, the Daily Mirror learns.
-
-The government has initiated the process of issuing liquor licenses under a renewed criterion which will provide for the establishment of 478 new liquor shops in the country.
-
-An informed source said a top parliamentary committee has started inquiring into the criterion adopted in the issuance and approval of licenses to open liquor shops in the country. According to the source, the MPs, both from the government and the opposition, have sought to obtain licenses under the names of their relatives or associates to be sold for hefty sums.
-
-In political circles, it is widely seen as inducements being offered to parliamentarians from different hues ahead of the presidential election.
-
-...
-
-[Data](articles/aaade50f.json)
-
-[Extended Data](ext_articles/aaade50f.ext.json)
 
 ---

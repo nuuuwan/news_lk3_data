@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 23:03:28**
+As of **2024-05-17 23:18:19**
 
 ## Newspaper Stats
 
-*Scraped **24,728** Articles*
+*Scraped **24,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,726
-dailymirrorlk | 3,880
+dailymirrorlk | 3,882
 adaderanasinhalalk | 3,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,726 (100.0%) of 24,728 articles have been extended.
+24,728 (100.0%) of 24,730 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The warning issued by the Irrigation Department stated that as per the warning a
 
 [Data](articles/91199518.json)
 
+[Extended Data](ext_articles/91199518.ext.json)
+
 ---
 
 ### Govt. to regulate third-party deposits in senior citizens’ savings accounts
@@ -63,6 +65,24 @@ Additionally, the need to regularize around 1.1 million accounts owned by citize
 ...
 
 [Data](articles/31d9345a.json)
+
+[Extended Data](ext_articles/31d9345a.ext.json)
+
+---
+
+### Who will benefit from an election boycott by Tamils?
+
+*2024-05-17 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Who-will-benefit-from-an-election-boycott-by-Tamils/231-282846) · `en`
+
+Prediction of the results of the forthcoming Presidential election would be the most difficult one in Sri Lankan history, since almost all traditional attachments of the voters with the main political parties seem to have been shattered to the core by the economic crisis that brought millions of people to the streets in 2022.
+
+The unprecedented economic hardships within their household and the agitations with slogans on the streets against all present and past rulers of the country for nearly four months seem to have shaped a new political mindset among the majority of people in the country.
+
+The impact of these two factors – the economic hardships and the Aragalaya – has been such that the Sri Lanka Podujana Peramuna (SLPP), the party that bagged 52.25 percent of votes has been ranked at the bottom of some poll surveys since mid-last year, with not even 10 percent of voter preferences in favour of them. Interestingly, the SLPP has never challenged the results of such surveys either.
+
+...
+
+[Data](articles/ac0ae853.json)
 
 ---
 
@@ -83,6 +103,44 @@ Our correspondent said that a car traveling from Colombo to Dehiwala had collaps
 [Data](articles/d4dadeb0.json)
 
 [Extended Data](ext_articles/d4dadeb0.ext.json)
+
+---
+
+### Members of our Parliament and French Queen Marie Antoinette -EDITORIAL
+
+*2024-05-17 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Members-of-our-Parliament-and-French-Queen-Marie-Antoinette-EDITORIAL/231-282845) · `en`
+
+Hardly a day passes without hearing the profligacy and misdeeds of one or the other members of Parliament. Just two days ago, while strong criticism was being voiced at Members of Parliament for demanding permits to import new cars for themselves, a State Minister reportedly slapped an airport worker for demanding payment for services rendered.
+
+Media reports inform us that many MPs across the political divide have secured liquor permits in the names of their friends and relatives. These permits we all know will subsequently be sold for huge sums of money.
+
+According to one report, the going price per permit is around rupees fifty million. The permit is for the establishment of new liquor shops in the country.
+
+To add insult to injury Members of Parliament are now demanding that the rupees one million insurance cover they enjoy be extended to cover their families as well.
+
+...
+
+[Data](articles/cc22f9e6.json)
+
+---
+
+### No legal representation for Gotabaya Rajapaksa in Supreme Court
+
+*2024-05-17 22:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-representation-for-Gotabaya-Rajapaksa-in-Supreme-Court/108-282832) · `en`
+
+Colombo, May 17 (Daily Mirror) - The Supreme Court today directed the petitioners to serve notices on former President Gotabaya Rajapaksa as he was not represented by a counsel in connection with five fundamental rights petitions.
+
+When the five Fundamental Rights petitions challenging former President Gotabaya Rajapaksa’s decision to grant a presidential pardon to ex-soldier Sunil Ratnayake, who was convicted and sentenced to death for the Mirusuvil murder case, were taken up for argument, neither Gotabaya Rajapaksa nor a lawyer represented him.
+
+Supreme Court two-judge-bench comprising Justices Yasantha Kodagoda and Achala Wengappuli further directed the petitioners to serve notices on Sunil Ratnayake, a respondent in the petitions as he was also not represented by a lawyer. These petitions are to be taken up for argument on September 4.
+
+The Supreme Court has already granted leave to proceed with these petitions in terms of Article 12(1) of the constitution (Right of equality).
+
+...
+
+[Data](articles/8a7d3d0b.json)
+
+[Extended Data](ext_articles/8a7d3d0b.ext.json)
 
 ---
 
@@ -147,26 +205,6 @@ The brutal contribution made by the arrogance of the war heroes of the Police an
 [Data](articles/8bc6c20c.json)
 
 [Extended Data](ext_articles/8bc6c20c.ext.json)
-
----
-
-### No legal representation for Gotabaya Rajapaksa in Supreme Court
-
-*2024-05-17 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-representation-for-Gotabaya-Rajapaksa-in-Supreme-Court/108-282832) · `en`
-
-Colombo, May 17 (Daily Mirror) - The Supreme Court today directed the petitioners to serve notices on former President Gotabaya Rajapaksa as he was not represented by a counsel in connection with five fundamental rights petitions.
-
-When the five Fundamental Rights petitions challenging former President Gotabaya Rajapaksa’s decision to grant a presidential pardon to ex-soldier Sunil Ratnayake, who was convicted and sentenced to death for the Mirusuvil murder case, were taken up for argument, neither Gotabaya Rajapaksa nor a lawyer represented him.
-
-Supreme Court two-judge-bench comprising Justices Yasantha Kodagoda and Achala Wengappuli further directed the petitioners to serve notices on Sunil Ratnayake, a respondent in the petitions as he was also not represented by a lawyer. These petitions are to be taken up for argument on September 4.
-
-The Supreme Court has already granted leave to proceed with these petitions in terms of Article 12(1) of the constitution (Right of equality).
-
-...
-
-[Data](articles/8a7d3d0b.json)
-
-[Extended Data](ext_articles/8a7d3d0b.ext.json)
 
 ---
 
@@ -2239,43 +2277,5 @@ It is reported that the Kept was under the protection of the Kurunegala police d
 [Data](articles/9feb0ba3.json)
 
 [Extended Data](ext_articles/9feb0ba3.ext.json)
-
----
-
-### Rathupaswala shooting: High Court to deliver verdict today
-
-*2024-05-17 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99272/rathupaswala-shooting-high-court-to-deliver-verdict-today) · `en`
-
-The verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army, over the shooting to death of three persons and injuring 45 others during a protest by villagers demanding clean drinking water at Rathupaswala, Gampaha is scheduled to be delivered today (17) by a special three-member high court bench.
-
-On April 30, 2024, the Gampaha High Court’s Trial-at-Bar deferred delivering the verdict in the case until today (May 17).
-
-On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
-
-In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
-
-◼️
-
-[Data](articles/e4de6692.json)
-
-[Extended Data](ext_articles/e4de6692.ext.json)
-
----
-
-### Mahesh Senanayake to uniwated people
-
-*2024-05-17 12:02:47* · [`adalk`](https://www.ada.lk/breaking_news/මහේෂ්-සේනානායක-සමගි-ජන-බලවේගයට/11-409695) · `si`
-
-General (Retired) Mahesh Senanayake, Sri Lanka's 22nd Army Commander, joins the reconciliation water force, while Opposition Leader Sajith Premadasa leads the war heroes forces.
-
-🟩
-
-Former Army Commander General (Retired) Mahesh Senanayake has joined the reconciliation water force. Opposition Leader Sajith Premadasa has been appointed as the leader of the war heroes forces. Mahesh Senanayake is 22nd army commander in Sri Lanka.
-
-◼️
-
-[Data](articles/825b8be0.json)
-
-[Extended Data](ext_articles/825b8be0.ext.json)
 
 ---

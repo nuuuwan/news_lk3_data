@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 23:18:19**
+As of **2024-05-17 23:33:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,728 (100.0%) of 24,730 articles have been extended.
+24,730 (100.0%) of 24,730 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,8 @@ The impact of these two factors – the economic hardships and the Aragalaya –
 
 [Data](articles/ac0ae853.json)
 
+[Extended Data](ext_articles/ac0ae853.ext.json)
+
 ---
 
 ### A horrifying accident in Dehiwala
@@ -121,6 +123,8 @@ To add insult to injury Members of Parliament are now demanding that the rupees 
 ...
 
 [Data](articles/cc22f9e6.json)
+
+[Extended Data](ext_articles/cc22f9e6.ext.json)
 
 ---
 

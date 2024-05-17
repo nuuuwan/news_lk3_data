@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 09:52:55**
+As of **2024-05-17 10:04:12**
 
 ## Newspaper Stats
 
-*Scraped **24,598** Articles*
+*Scraped **24,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,112 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,413
 dailyftlk | 1,450
-adalk | 2,109
+adalk | 2,110
 adaderanalk | 2,844
-tamilmirrorlk | 2,889
+tamilmirrorlk | 2,890
 virakesarilk | 3,699
-dailymirrorlk | 3,857
+dailymirrorlk | 3,858
 adaderanasinhalalk | 3,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,594 (100.0%) of 24,598 articles have been extended.
+24,598 (100.0%) of 24,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### மேற்கிந்தியத் தீவுகள் மகளிர் அணியை இருவகை தொடர்களில் இலங்கை மகளிர் அணி எதிர்த்தாடும்
+### Warm-up fixtures announced for the ICC Men’s T20 World Cup 2024
+
+*2024-05-17 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Warm-up-fixtures-announced-for-the-ICC-Mens-T20-World-Cup-2024/108-282799) · `en`
+
+ICC - The ICC Men’s T20 World Cup 2024 warm-up match fixtures have been announced, scheduled from Monday, 27 May to Saturday, 1 June across the USA and Trinidad and Tobago.
+
+The venues hosting the 16 warm-up matches ahead of the ICC Men's T20 World Cup 2024 include Grand Prairie Cricket Stadium in Texas, Broward County Stadium in Florida, Queen’s Park Oval and Brian Lara Cricket Academy in Trinidad and Tobago.
+
+A total of 17 teams play the warm-up games, including South Africa, who are playing an intra-squad on the 29th in Florida.
+
+These warm-up fixtures will be 20 overs per side and will not have international T20 status, allowing teams to field all members of their 15-player squad.
+
+In a departure from the previous cycle, teams can now choose to play up to two warm-up matches, depending on their arrival time at the event.
+
+...
+
+[Data](articles/f82b19aa.json)
+
+---
+
+### நாளை மே 18... வவுனியாவில் நினைவேந்தல்
+
+*2024-05-17 09:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாளை-மே-18-வவுனியாவில்-நினைவேந்தல்/72-337450) · `ta`
+
+வவுனியாவில் நாளை (18)மாலை 5 மணிக்கு போரில் உயிரிழந்தவர்களுக்கான நினைவேந்தல் நிகழ்வு  வவுனியப நகரசபை மண்டபத்தில் நடைபெறவுள்ளது.
+
+வன்னி மக்களுக்கான ஒன்றியம், வன்னி மாவட்ட காணாமல் ஆக்கப்பட்டவர்களின் சங்கம், சிறந்த இலங்கைக்கான மன்றம்,  காணாமலாக்கப்பட்டவர்களின் பிள்ளைகளின் சங்கம், உலகத்தமிழர் பேரவை, தர்மசக்தி ஒன்றியம் ஆகியன இணைந்து இந்த நிகழ்வினை ஏற்பாடு செய்துள்ளன.
+
+இந்த நினைவேந்தல் நிகழ்வில் சர்வம மதத்தலைவர்கள் உள்ளிட்ட பொதுமக்கள் கலந்துகொள்ளவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/9fb2fe0c.json)
+
+---
+
+### Sri Lankan women's team opposes West Indies women's team in two series
 
 *2024-05-17 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183741) · `ta`
 
-பங்களாதேஷில் எதிர்வரும் அக்டோபர் மாதம் நடைபெறவுள்ள ஐசிசி மகளிர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்ற தகுதிபெற்றுள்ள இலங்கை மகளிர் அணி, இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் தொடர்களில் மேற்கிந்தியத் தீவுகள் மகளிர் அணியை எதிர்த்தாடவுள்ளது.
+The Sri Lankan women's cricket team, set for the ICC Women's T20 World Cup, faces the West Indies in two limited-overs series: an ODI series followed by a T20 series. This serves as a test before competing in the Women's T20 Asian Cup and a T20 series against Ireland.
 
-இரண்டு அணிகளுக்கும் இடையில் மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் முதலில் நடைபெறும்.
+🟩
 
-இந்தத் தொடரானது இரண்டு அணிகளுக்கும் ரி20 உலகக் கிண்ணப் போட்டிக்கு தம்மை பரீட்சிக்கும் தொடராக அமையவுள்ளது.
+The Sri Lankan women's team, which is qualified for the upcoming ICC Women's T20 World Cup in Bangladesh, will oppose the West Indies women's team in two -limited overs.
 
-அதனைத் தொடர்ந்து மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியிலும் அதன் பின்னர் அயர்லாந்துக்கு எதிரான ரி20 கிரிக்கெட் தொடரிலும்  இல்ஙகை விளையாடவுள்ளது.
+The women's international ODI series will be held first between the two teams.
+
+The series will be a series of Testing for both teams for the R20 World Cup.
+
+Following this, the women will play in the women's R20 Asian Cup cricket match and the T20 cricket series against Ireland.
 
 ◼️
 
 [Data](articles/d4e4a94d.json)
 
+[Extended Data](ext_articles/d4e4a94d.ext.json)
+
 ---
 
-### மத்திய ஆசிய கரப்பத்தாட்டத்தில் 3ஆம் இடத்துக்கான போட்டியில் கிர்கிஸ்தானை எதிர்த்தாடும் இலங்கை !
+### Sri Lanka opposes Kyrgyzstan in the 3rd place in Central Asian
 
 *2024-05-17 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183740) · `ta`
 
-இஸ்லாமாபாத்தில் நடைபெற்றுவரும் ஆறு நாடுகளுக்கு இடையிலான மத்திய ஆசிய கரப்பந்தாட்டத்தில் 3ஆம் இடத்திற்கான போட்டியில் கிர்கிஸ்தானை இலங்கை எதிர்த்தாடவுள்ளது.
+In the Central Asia Volleyball Championship, Sri Lanka faces Kyrgyzstan for third place in Islamabad. Sri Lanka previously lost to Turkmenistan but secured its first-ever consecutive win against Iran, marking a significant achievement in international volleyball.
 
-இப் போட்டியைத் தொடர்ந்து சம்பியனைத் தீரமானிக்கும் பாகிஸ்தானுக்கும் துர்க்மேனிஸ்தானுக்கும் இடையிலான இறுதிப் போட்டி நடைபெறும்.
+🟩
 
-இந்த சுற்றுப் போட்டியில் தனது கடைசி லீக் போட்டியில் துர்க்மேனிஸ்தானை வியாழக்கிழமை (16) எதிர்த்தாடிய இலங்கை 3 நேர் செட்களில் தோல்வி அடைந்தது.
+Sri Lanka will oppose Kyrgyzstan in the 3rd -place match between the six countries in Islamabad.
 
-மூன்று சேட்களிலும் திறமையாக விளையாடிய துர்க்மேனிஸ்தான் 25 - 22, 25 - 19, 25 - 19 என்ற புள்ளிகள் அடிப்படையில் வெற்றிபெற்றது.
+Following the match, the final match between Pakistan and Turkmenistan will be held.
 
-இந்த சுற்றுப் போட்டியில் இலங்கை தனது ஆரம்பப் போட்டியில் கிர்கிஸ்தானிடம் 2 - 3 என்ற செட்கள் கணக்கில் தோல்வி அடைந்தது.   அடுத்த போட்டியில் பாகிஸ்தானிடம்  இலங்கை  3 நேர் செட்களில் வீழ்ந்தது.
+Sri Lanka lost 3 straight sets against Turkmenistan on Thursday (16) in their last league match.
 
-எனினும் அடுத்த போட்டியில் ஆப்கானிஸ்தானை 3 நேர் செட்களிலும் தொடர்ந்து ஈரானை முற்றிலும் எதிர்பாராத விதமாக 3 நேர் செட்களிலும் இலங்கை வெற்றிகொண்டிருந்தது.
+Turkmenistan, who played efficiently on all three sides, won the basis of 25 - 22, 25 - 19, 25 - 19.
 
-...
+Sri Lanka lost to Kyrgyzstan 2 - 3 in their opening match.In the next match, Sri Lanka fell to Pakistan in 3 straight sets.
+
+However, in the next match, Sri Lanka won three straights and Iran in three straights.
+
+This first victory against Iran is a historic consecutive victory for Sri Lanka in the international arrest.
+
+The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 60th victory in Iran at 15th place in the international sparrow rankings is a great commendation.
+
+◼️
 
 [Data](articles/5b202ddc.json)
+
+[Extended Data](ext_articles/5b202ddc.ext.json)
 
 ---
 
@@ -87,6 +139,8 @@ In that case, the relevant road would have to be closed again at any moment, it 
 ◼️
 
 [Data](articles/00d61cea.json)
+
+[Extended Data](ext_articles/00d61cea.ext.json)
 
 ---
 
@@ -133,6 +187,8 @@ Responding to a question made in this regard, the spokesman mentioned that separ
 ◼️
 
 [Data](articles/93b5b98b.json)
+
+[Extended Data](ext_articles/93b5b98b.ext.json)
 
 ---
 
@@ -1256,6 +1312,24 @@ The students accused 14 children who have sent the first question paper and the 
 
 ---
 
+### නිරිත දිග මෝසම 25 දා වන විට ආරම්භ වෙයි
+
+*2024-05-16 20:03:36* · [`adalk`](https://www.ada.lk/breaking_news/නිරිත-දිග-මෝසම-25-දා-වන-විට-ආරම්භ-වෙයි/11-409692) · `si`
+
+මේවර නිරිත දිග මෝසම තත්වය මේ මස 25 වන දින වන විට ආරම්භ විය හැකි බවට කාලගුණවිද්‍යා දෙපාර්තමේන්තු පුරෝකථනය කර තිබෙන බව .ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කරයි.
+
+නිරිත දිග මෝසම් වර්ෂාව හේතුවෙන් දිවයින පුරා සැළකිය යුතු වර්ෂාපතනයක් ලැබෙන බවත් නිරිත දිග මෝසම් වර්ෂාව පෙර වර්ෂවලට සාපේක්ෂව වැඩි විය හැකි බවටත් පුරෝකථන වලින් පෙනී යන බව එම මධ්‍යස්ථානය පෙන්වා දෙයි.
+
+නිරිත දිග මෝසම් තත්ත්වය සක්‍රීයවීමත් සමග දිවයිනට බල පෑ හැකි ආපදා හානි අවම කර ගැනීම අරමුණු කරගනිමින් පාර්ශවකාර ආයතන දැනුවත් කිරීම හා සම්බන්ධීකරණ යාන්ත්‍රණය ශක්තිමත් කිරීම සිදුකර තිබෙන බවද සදහන් කරයි කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන පුරෝකථන පදනම්කර ගනිමින් ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නායයෑම් ආපදාඅවදානම නිරීක්ෂණ කිරීම සදහා කටයුතු කරනු ලබන බවත්  පෙන්වා දෙයි.
+
+වාරිමාර්ග දෙපාර්තමේන්තුව යටතේ පවතින ජලාශවල ජල මට්ටම සළකාබැලීමේ දී පොදුවේ 75% ක පමණ ප්‍රතිශතයක් ජලය පිරී පවතින බවත් ජල පෝෂක ප්‍රදේශ සඳහා ලැබෙන වර්ෂාව පිළිබඳව අවධානය යොමු කරන බවට වාරිමාර්ග දෙපාර්තමේන්තුව පෙන්වා දි තිබෙන බවත්  ආපදා කළමනාරණ මධ්‍යස්ථානය සදහන් කරයි.
+
+...
+
+[Data](articles/9e219c00.json)
+
+---
+
 ### Embarrassment
 
 *2024-05-16 20:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தத்தளிக்கிறது-கண்டி/76-337441) · `ta`
@@ -2143,79 +2217,5 @@ The Minister, who has been paying attention to the request of the students, said
 [Data](articles/343b867d.json)
 
 [Extended Data](ext_articles/343b867d.ext.json)
-
----
-
-### Asian Netball Tourney put off by a few weeks
-
-*2024-05-16 17:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asian-Netball-Tourney-put-off-by-a-few-weeks/108-282733) · `en`
-
-May 16 (Daily Mirror) - The 13th Asian Senior Netball Championship 2024 has been postponed by a few weeks, Netball Asia (NA) President, Lakshmi Victoria said today.
-
-The 16-nation tournament, conducted by NA and the Saudi Arabian Netball Association (SANA) was set to be held in Saudi Arabia from September 28 to October 6.
-
-Victoria further said that the tournament will be put off by at least three weeks following a request by the SANA.
-
-She said that they cannot put off the event for more than three weeks as the sixth Asian Indoor Marshal Art Games is scheduled to be held from November 21 to 30 in Bangkok, Thailand.
-
-For the first time in history, netball has been included at the Asian Indoor Marshal Art Games, conducted by the Olympic Council of Asia.
-
-Sri Lanka, Singapore, Malaysia, Maldives, Japan, Iran, Iraq, India, Saudi Arabia, Brunei, Thailand, Hong Kong, Bahrain, Pakistan, Philippines and Chinese Taipei are set to participate in the Asian Senior Netball Championship.
-
-...
-
-[Data](articles/aa3073f4.json)
-
-[Extended Data](ext_articles/aa3073f4.ext.json)
-
----
-
-### Finance Minister
-
-*2024-05-16 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183712) · `ta`
-
-Colombo Fort Police investigate threat against Finance Minister Shehan Semasinghe over election participation, following an anonymous call.
-
-🟩
-
-The Colombo Fort Police Station has launched an investigation into the alleged murder of Finance Minister Shehan Semasinghe.
-
-Murder was threatened by an anonymous telephone call to the State Minister's office on Wednesday (15).
-
-It is reported that Shehan Semasinghe should not contest in the upcoming election and that he will be murdered if he contested.
-
-Accordingly, the Media Division of the Minister of State has confirmed that the Colombo Fort Police have begun investigations on the complaint lodged by the Minister of State.
-
-◼️
-
-[Data](articles/01ed0e3f.json)
-
-[Extended Data](ext_articles/01ed0e3f.ext.json)
-
----
-
-### Human burial excavations will begin in July
-
-*2024-05-16 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183706) · `ta`
-
-Excavations at the Kokkuttuvai Human Rights site in Mullaitivu, Sri Lanka, set to start in July after identifying human burials. Led by Archaeological Professor Raj Somadeva, the project involves two phases of excavation, recovering 40 human skeletons and artifacts like LTTE weapons. The site's historical significance and the discovery of human remains dating back to 1994 highlight its importance.
-
-🟩
-
-The Mullaitivu Court has announced that the excavation of the Kokkuttuvai Human Rights Excavation will begin in July.
-
-The case relating to the Kokkuttuwai Human Rights Ceremony in the Mullaitivu District Court was taken up for hearing today (16).
-
-In this backdrop, the Mullaitivu District Secretariat has announced that the excavation allocation has been received.
-
-According to this, a human burial was identified when the land was struck by heavy machinery to fit the water connection by the National Water Supply and Drainage Board in the Mullaitivu Kokkuttuvai area on June 29, 2023.
-
-Subsequently, the excavation was carried out in two phases by a group led by Archaeological Professor Raj Somadeva, with the monitoring and participation of the Mullaitivu Court and the Mullaitivu Legislative Officer.
-
-...
-
-[Data](articles/3d0101c0.json)
-
-[Extended Data](ext_articles/3d0101c0.ext.json)
 
 ---

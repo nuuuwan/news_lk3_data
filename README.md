@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 14:33:45**
+As of **2024-05-17 14:52:44**
 
 ## Newspaper Stats
 
-*Scraped **24,643** Articles*
+*Scraped **24,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 2,111
 adaderanalk | 2,854
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
-dailymirrorlk | 3,863
-adaderanasinhalalk | 3,928
+dailymirrorlk | 3,864
+adaderanasinhalalk | 3,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,642 (100.0%) of 24,643 articles have been extended.
+24,643 (100.0%) of 24,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### ’I did something, I shouldn’t have done’: Prasanna Ranaweera
+
+*2024-05-17 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-did-something-I-shouldnt-have-done-Prasanna-Ranaweera/108-282811) · `en`
+
+State Minister Prasanna Ranaweera, who was summoned to the airport police over the assault on a porter, said he had done something that he should not have done as a Parliamentarian.
+
+He told this to the media after giving a statement to the police this morning.
+
+Responding to a question that the porter who was assualted had not reported for duty after the incident and that his whereabouts were not known, the Minister said, "Why, he should come to work. Otherwise there is now way for him to live."
+
+State Minister Prasanna Ranaweera provided a statement to the Airport Police over the incident where he assaulted a porter at the Bandaranaike International Airport (BIA).
+
+Minister Ranaweera had been summoned by the Airport Police to record a statement over the incident this morning.
+
+...
+
+[Data](articles/03315135.json)
+
+---
+
+### ෆේස්බුක් සහ ඉන්ටග්‍රෑම් ගැන දැඩි තීරණයක් ?
+
+*2024-05-17 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196717) · `si`
+
+යුරෝපා සංගමය, මෙටා සමාගමේ ෆේස්බුක් සහ ඉන්ස්ටග්‍රෑම් සමාජ මාධ්‍ය ජාල පිළිබඳව නිල විමර්ශනයක් ආරම්භ කර තිබේ.
+
+ඒ සමාජ මාධ්‍ය ජාලවල ළමා ආරක්ෂාව සම්බන්ධයෙන් යුරෝපා සංගමය පනවා ඇති නීති උල්ලංඝනය කර ඇති බවට මෙටා සමාගමට එල්ලවී ඇති චෝදනා මතය.
+
+ෆේස්බුක් සහ ඉන්ස්ටග්‍රෑම් සමාජ මාධ්‍ය හරහා දරුවන් තුළ විවිධ ඇබ්බැහිවීම් නිර්මාණය වන බවත් ඉන් දරුවන්ගේ මානසික සෞඛ්‍යයට හානිවන බවත් යුරෝපා සංගමය පෙන්වා දෙයි.
+
+ඒ අනුව, එම සමාජ මාධ්‍යජාල භාවිතයේ දී පරිශීලිකයින්ට ස්වයංක්‍රීයව වීඩියෝ සහ ඡායාරූප නිර්දේශ කෙරෙන ඇල්ගොරිදමය පිළිබඳව ද විමර්ශනය කෙරෙන බව සඳහන් වෙයි.
+
+එමෙන්ම ෆේස්බුක් ගිණුමක් සැකසීමේ දී වයස සත්‍යාපනය කිරීමේ ක්‍රමය පිළිබඳව ද යුරෝපා සංගමයේ අවධානය යොමුව තිබේ.
+
+මෙටා සමාගම දරුවන්ගේ ආරක්ෂාව පිළිබඳ නීති උල්ලංඝනය කර ඇති බවට අනාවරණ වුවහොත් මෙටා සමාගමට එහි ගෝලීය පිරිවැටුමෙන් සියයට 6ක දඩයක් පැනවිය හැකිය.
+
+◼️
+
+[Data](articles/5c7174a8.json)
+
+---
+
+### ව්‍යාජ මුදල් දමා ව්‍යාපාරිකයෙක් කොල්ලකෑමට ගිය සැකකරුවන් හසුවෙයි
+
+*2024-05-17 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196718) · `si`
+
+මහනුවර ප්‍රධාන පෙළේ ව්‍යාපාරිකයෙකුට අයත් මාපනවතුර ප්‍රදේශයේ පිහිටි නිවසේ මුදල් කොල්ලයක් සැලසුම් කළ පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ නිවසේ හොර නෝට්ටු තිබෙන බව පවසමින් හොර නෝට්ටු තොගයක් ද රැගෙන ගොස් ව්‍යාපාරිකයා සතු මුදල් කොල්ලකෑමට සැකකරුවන් උත්සාහ කර ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් පොලිස් නිලධාරීන් දෙදෙනෙක් ඇතුළු පුද්ගලයන් 06 දෙනෙකු මහනුවර පොලීසියේ අපරාධ අංශය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+ව්‍යාපාරිකයාගේ නිවසේ හොර නෝට්ටු තිබූ බවට සැකකරුවන් කළ ප්‍රකාශයක් පදනම් කර ගනිමින් ප්‍රශ්න කිරීම සඳහා ව්‍යාපාරිකයා අත්අඩංගුවට ගැනීමට පොලීසිය පියවර ගෙන තිබුණි.
+
+ඒ අනුව සැකපිට අත්අඩංගුවට ගෙන සිටින මහනුවර පොලීසියේ හදිසි ඇමතුම් අංශයේ සේවයේ නියුතු පොලිස් කොස්තාපල්වරයා රාජකාරී අවසරය ලබාගෙන අදාළ ස්ථානයට ගොස් තිබෙන බව පොලිස් පරීක්ෂණ මගින් අනාවරණය වී ඇත.
+
+අත්අඩංගුවේ පසුවන අනෙක් පොලිස් නිලධාරියා කොළඹ පොලිස් මූලස්ථානයට අනුයුක්තව සේවය කරන පොලිස් සැරයන්වරයෙකි.
+
+අත්අඩංගුවට ගෙන ඇති පොලිස් නිලධාරීන් දෙදෙනා ඇතුළු සැකකරුවන් 06දෙනා පවසා ඇත්තේ අදාළ ව්‍යාජ මුදල් ව්‍යාපාරිකයා සතු බවය.
+
+...
+
+[Data](articles/f1a6336f.json)
+
+---
 
 ### Two schoolgirls, youth marooned in floods, rescued
 
@@ -51,6 +117,26 @@ Later, the police handed over the youth and the two girls to their parents.
 ◼️
 
 [Data](articles/f34ace4a.json)
+
+[Extended Data](ext_articles/f34ace4a.ext.json)
+
+---
+
+### හොර දොස්තරලා ගැන දැනුම් දෙන්නේ හොට්ලයින් එකක්
+
+*2024-05-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196716) · `si`
+
+රටපුරා ව්‍යාජ වෛද්‍යවරු 40,000ක් පමණ සිටින බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේසිංහ මහතා පැවසුවේ එවැනි සමහර පුද්ගලයින් ජනතාවට විවිධ මත් පෙති වර්ගද අලෙවි කරන බවයි.
+
+එවැනි පුද්ගලයින් සම්බන්ධයෙන් තොරතුරු ක්ෂණික දුරකථන අංකය වන 1907ට ලබාදෙන ලෙසද ඔහු ජනතාවගෙන් ඉල්ලා සිටියේය.
+
+එම 40,000 තුළ වෛද්‍ය විද්‍යාව සම්බන්ධයෙන් කිසිදු දැනුමක් නොමැති පුද්ගලයින් රැසක් ද සිටින බව වෛද්‍ය විජේසිංහ පැවසීය.
+
+◼️
+
+[Data](articles/7abc54a3.json)
 
 ---
 
@@ -2089,97 +2175,5 @@ The President has said that the trade union strike is engaged in strike at a tim
 [Data](articles/d00417d9.json)
 
 [Extended Data](ext_articles/d00417d9.ext.json)
-
----
-
-### Another suspect in Sending Persons to Russia arrested
-
-*2024-05-16 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196697) · `si`
-
-A suspect accused of funding individuals' travel to Russia was arrested in Sri Lanka's Dambagalla. Set to appear in court tomorrow, this case highlights ongoing efforts against human trafficking.
-
-🟩
-
-Another suspect who was allegedly obtained money to send them to Russia was arrested by the police at Dambagalla area last night.
-
-The suspect is due to be produced before the Moneragala Magistrate's Court tomorrow (17).
-
-◼️
-
-[Data](articles/3f209c17.json)
-
-[Extended Data](ext_articles/3f209c17.ext.json)
-
----
-
-### Prasanna Ranaweera assaults porter at BIA
-
-*2024-05-16 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prasanna-Ranaweera-assaults-porter-at-BIA/108-282744) · `en`
-
-Colombo, May 16 (Daily Mirror) - State Minister of Small and Medium Enterprises Development, Prasanna Ranaweera, has been accused of assaulting a porter at the Bandaranaike International Airport (BIA).
-
-The altercation occurred as the minister accompanied his wife, who was scheduled to travel overseas today.
-
-Sources told Daily Mirror that that the minister, along with his armed security personnel, attempted to enter the airport through the main entrance.
-
-However, airport security officers intervened, informing the minister that his security detail could not bring firearms into the airport. This prompted an alleged verbal outburst from Ranaweera, who reportedly threatened several security officers.
-
-The situation escalated when a porter assisting with the luggage of the minister's wife was allegedly assaulted. Witnesses claim the conflict arose after the porter objected to receiving only Rs. 750 instead of the standard Rs. 1,000 fee clearly posted at the airport.
-
-...
-
-[Data](articles/199c2363.json)
-
-[Extended Data](ext_articles/199c2363.ext.json)
-
----
-
-### No salary increase this year
-
-*2024-05-16 20:15:39* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ට-නැවතත්-මේ-වසරේදී-වැටුප්-වැඩිවීමක්-නෑ/11-409694) · `si`
-
-President Wickremesinghe announced no salary hikes for public workers this year, citing economic instability. He promised increases will resume next year, aiming to prevent economic collapse.
-
-🟩
-
-President Ranil Wickremesinghe has informed the Cabinet of the Cabinet that no salary increases in the period of this year.
-
-He said that a salary increase in a public worker would return to the coming year. Accordingly, if a salary increase in this year, the country can be a collapse of the economically.
-
-"Our economy is not yet stable. So if we have to overcome the next time, we face many difficulties. But the President stated that returning increases again next year. Therefore, all other professionals are solved. But our regret is not able to give a salary increase due to this financial crisis. "
-
-◼️
-
-[Data](articles/00a9adb5.json)
-
-[Extended Data](ext_articles/00a9adb5.ext.json)
-
----
-
-### Tax paid to 12-31 to 12-31 crores Rs. 106,608
-
-*2024-05-16 20:10:52* · [`adalk`](https://www.ada.lk/breaking_news/2023-1-1-සිට-12-31-දක්වා-ගෙවීම්-පැහැර-ඇති-බදු-මුදල-රුපියල්-කෝටි-106-608/11-409693) · `si`
-
-A central bank report shows 4,479 entities, including companies and individuals, defaulted on tax payments worth Rs. 3108 crore in Sri Lanka. Professor Wasantha Athukorala highlights significant defaults in the range of Rs. 6 to 10 crore, with 104 defaulters. The report also mentions ongoing legal trials for 350 cases and 2,934 appeals from government departments and 1,505 from the Tax Commission.
-
-🟩
-
-The central bank analytical analytical study report reveals that 4479 of various companies, individuals, individuals and individuals in this country have defaulted the payment of taxes from the government from Rs.. Professor Wasantha Athukorala, the University of Peradeniya, says that 28 organizations in this country are included.
-
-The study states that 3108 persons have taken over 3108 taxes from the Rs.
-
-According to the professor, 457 rupees of taxes from the six crores up to ten crores, 457 rupees from Rs 10 million to Rs.
-
-There are 104 persons who have defaulted taxes from Rs.. The statistics reveal that the judiciary is being trial in lease and that 350 cases will be implemented.
-
-2934 appeals of the Government Departments, 1505 Appeals in the Tax Commission and the Professor said. The number of teachers' taxes from January 1 to 31st December 31, 2023, was Rs. 106,608 million.
-
-According to the study report, the Sri Lanka Customs cost Rs. 10 billion to Rs.
-
-◼️
-
-[Data](articles/e0cd5b0b.json)
-
-[Extended Data](ext_articles/e0cd5b0b.ext.json)
 
 ---

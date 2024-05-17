@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 05:36:12**
+As of **2024-05-17 05:58:29**
 
 ## Newspaper Stats
 
-*Scraped **24,563** Articles*
+*Scraped **24,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 220
 bbccomsinhala | 249
 dbsjeyarajcom | 251
 newsfirstlk | 363
-islandlk | 1,322
+islandlk | 1,331
 economynextcom | 1,411
 dailyftlk | 1,450
 adalk | 2,107
@@ -26,11 +26,95 @@ adaderanasinhalalk | 3,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,561 (100.0%) of 24,563 articles have been extended.
+24,563 (100.0%) of 24,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Ramya Shankaran dazzles at the Kailashwara Natyanjali Festival
+
+*2024-05-17 05:02:00* · [`islandlk`](http://island.lk/ramya-shankaran-dazzles-at-the-kailashwara-natyanjali-festival/) · `en`
+
+The prestigious Kailashwara Natyanjali Festival witnessed a breathtaking performance by the renowned dancer, Ramya Shankaran. Her mastery over Bharatanatyam and Mohiniyattam captivated the audience, leaving them spellbound.
+
+Shankaran, a celebrated artist known for her dedication to classical dance, showcased her versatility and profound understanding of both art forms. With rhythmic footwork, expressive gestures, and emotive prowess, she transcended cultural barriers, narrating ancient stories that resonated with the international audience.
+
+Her Bharatanatyam performance was a spectacle of precision and grace, bringing ancient tales to life with eloquent mudras and spiritual transcendence. Seamlessly transitioning to Mohiniyattam, she embodied feminine elegance and beauty, weaving tales of love and devotion through graceful movements and poignant expressions.
+
+...
+
+[Data](articles/8698f8df.json)
+
+---
+
+### Bourse mired in sluggishness as political uncertainties remain dominant
+
+*2024-05-17 05:01:00* · [`islandlk`](http://island.lk/bourse-mired-in-sluggishness-as-political-uncertainties-remain-dominant/) · `en`
+
+CSE activities were sluggish throughout yesterday due to uncertainties prevailing on the political and economic fronts, market analysts said.
+
+As a result, mixed reactions were noted in both indices. The Al-l Share Price Index went down by 31 points while S and P SL 20 rose by 2.63 points. Turnover stood at Rs 1.44 billion with three crossings. Those crossings were, Hayley Fabrics, where 1.87 million shares crossed to the tune of Rs 78.5 million; its shares traded at Rs 42, TJ Lanka 1.4 million shares crossed for Rs 56.1 million; its shares sold at Rs 39 and JKH 270,000 crossed for Rs 54.5 million; its shares sold at Rs 202.
+
+...
+
+[Data](articles/d91ce05c.json)
+
+---
+
+### SriLankan Airlines powers BikingMan Ultracycling World Championship
+
+*2024-05-17 05:01:00* · [`islandlk`](http://island.lk/srilankan-airlines-powers-bikingman-ultracycling-world-championship/) · `en`
+
+SriLankan Airlines powered the seventh season finale of the BikingMan Ultracycling World Championship, which recently culminated in an exhilarating race through Sri Lanka’s scenic landscapes and showcased the island’s allure for adventure sports and tourism. The world’s first ultracycling championship, BikingMan offers athletes the ultimate endurance challenge on legendary international courses with extraordinary topographical and climatic conditions.
+
+The itinerary of BikingMan Ultracycling World Championship was meticulously crafted to showcase iconic Sri Lankan tourist hotspots, and captivate athletes and adventure enthusiasts. As the Official Airline Partner of the event, SriLankan Airlines supported the participants and organizers for a seamless journey and used the occasion to springboard content promoting Sri Lanka on social media as well as European sports channels and within the BikingMan network.
+
+...
+
+[Data](articles/e6c27477.json)
+
+---
+
+### Cross Border Partnership: It’s ‘JumJum’ for PickMe in Nepal— IFC endorses move to support Nepal’s startup ecosystem
+
+*2024-05-17 02:38:00* · [`islandlk`](http://island.lk/cross-border-partnership-its-jumjum-for-pickme-in-nepal-ifc-endorses-move-to-support-nepals-startup-ecosystem/) · `en`
+
+PickMe has crossed digital borders and will take the ride hailing market by storm with the launch of their latest technology partnership, JumJum (Let’s Go) in Nepal, a country where 78% of 3.22 million vehicles registered are motorcycles. Named as the Motorcycle city, Kathmandu Valley claims to have over a million motorcycles on their busy roads.
+
+PickMe’s CEO Zulfer Jiffry says it made perfect sense to launch their services for Nepal’s motorcycle segment. JumJum will initially launch in the Kathmandu valley, which is said to be home to 40% of the 2.5 million registered motorbikes in Nepal.
+
+...
+
+[Data](articles/03486a0a.json)
+
+---
+
+### Sri Lanka Insurance Corporation General Limited organizes CAR insurance session for constructors enabling risk management roadmap
+
+*2024-05-17 02:38:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-general-limited-organizes-car-insurance-session-for-constructors-enabling-risk-management-roadmap/) · `en`
+
+Sri Lanka Insurance Corporation General Limited (SLICGL) hosted a comprehensive CAR (Construction All Risks) insurance Awareness Session at Courtyard by Marriott Colombo recently to educate stakeholders from the construction sector and the Road Development Authority (RDA) on the crucial role of CAR insurance in mitigating risks inherent to construction projects.
+
+The session covered various facets of CAR insurance, including its scope of coverage, benefits, risk assessment, policy features, claims management, and best practices in risk mitigation safeguarding projects against unforeseen risks and liabilities.
+
+...
+
+[Data](articles/83d9ae48.json)
+
+---
+
+### Professor Ajith De Alwis encourages AIA higher education scholarship winners to reach for excellence
+
+*2024-05-17 02:38:00* · [`islandlk`](http://island.lk/professor-ajith-de-alwis-encourages-aia-higher-education-scholarship-winners-to-reach-for-excellence/) · `en`
+
+The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29th consecutive year of recognizing the top performers from each district at the Grade 5 scholarship examination. Since its inception in 1994, the programme has been dedicated to supporting Sri Lanka’s brightest students on their journey to success, irrespective of whether they are AIA customers or not. This year’s awards ceremony was graced by the distinguished academic, Professor Ajith De Alwis, who shared invaluable insights to inspire the next generation of leaders.
+
+...
+
+[Data](articles/f4181df1.json)
+
+---
 
 ### US Ambassador to Meet Sridharan
 
@@ -2149,133 +2233,5 @@ The price of carrot prices in the market has increased, so far the price of a ki
 [Data](articles/83f08e0a.json)
 
 [Extended Data](ext_articles/83f08e0a.ext.json)
-
----
-
-### Complaint filed with Bribery Commission against Maithripala Sirisena
-
-*2024-05-16 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99254/complaint-filed-with-bribery-commission-against-maithripala-sirisena) · `en`
-
-A former executive member of the Sri Lanka Freedom Party (SLFP), Montague Sarathchandra has filed a complaint with the Commission to Investigate Allegations of Bribery or Corruption against former President Maithripala Sirisena.
-
-In a letter to the Chairman of the Bribery Commission, Mr. Sarathchandra claims that party supporters are speculating that former President Maithripala Sirisena has paid the compensation to the victims of the Easter Sunday terror attacks, with an “advance obtained from selling the Sri Lanka Freedom Party”.
-
-The said complaint has been filed seeking an investigation in relation to how he had obtained the relevant funds.
-
-◼️
-
-[Data](articles/738e1d1b.json)
-
-[Extended Data](ext_articles/738e1d1b.ext.json)
-
----
-
-### The remains are still in the house due to the Grama Niladhari strike
-
-*2024-05-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196682) · `si`
-
-Grama Niladhari strike disrupts services, leading to discomfort among locals. A 72-year-old dies without assistance, highlighting the impact of the strike on vulnerable communities.
-
-🟩
-
-The trade union action to commence the dominant leave of the three demands, including a service minister, will continue today (16).
-
-Meanwhile, the people have been severely uncomfortable due to the strike of the Natural Death at homes due to the strike of the Grama Niladhari.
-
-Such an incident today was reported from the Panadura West 672D Grama Niladhari Division.
-
-A 72-year-old elderly person died at home and residents were unable to contact the Grama Niladhari.
-
-"The question of the Grama Niladhari is affected by people. People in Each and difficult people will be very helpless when they become like this. "
-
-"The Grama Niladhari calls on. But not yet. It's worth the strikes.. You have to look at the help of a man. "
-
-◼️
-
-[Data](articles/696b7a3f.json)
-
-[Extended Data](ext_articles/696b7a3f.ext.json)
-
----
-
-### Rise in high blood pressure observed among Sri Lankan adults
-
-*2024-05-16 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99253/rise-in-high-blood-pressure-observed-among-sri-lankan-adults) · `en`
-
-Consultant Community Physician Dr. Sherine Balasingham of the Health Ministry’s Directorate of Non-Communicable Disease says that the number of patients with high blood pressure reported in Sri Lanka has increased.
-
-She revealed that following a survey carried out covering all districts in the island on the adult population between the ages 18-69 years, it was reported that 35% of them are suffering from hypertension.
-
-She further stated that several programmes are held globally each year on May 17 to raise awareness on high blood pressure and on the third week of May regarding salt intake.
-
-Dr. Balasingham stated that a survey is also conducted in Sri Lanka once every 5 years and that according to the statistics of the last survey conducted in 2021, 35% of the individuals who took part in the survey had high blood pressure.
-
-...
-
-[Data](articles/2385e050.json)
-
-[Extended Data](ext_articles/2385e050.ext.json)
-
----
-
-### Mayantha Dissanayake appointed SJB Nuwara Eliya District Leader
-
-*2024-05-16 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mayantha-Dissanayake-appointed-SJB-Nuwara-Eliya-District-Leader/108-282732) · `en`
-
-Samagi Jana Balawegaya (SJB) national list MP Mayantha Dissanayake has been appointed as the party's District Leader for Nuwara Eliya.
-
-Dissanayake, who made this announcement at a media briefing said he has also been appointed as the party organiser for the Nuwara Eliya constituency.
-
-He said he received the letters of appointment from party leader Sajith Premadasa.
-
-The propaganda in Nuwara Eliya was earlier handled by SJB ally, the Tamil Progressive Alliance led by MP Mano Ganesan.
-
-◼️
-
-[Data](articles/948d76f9.json)
-
-[Extended Data](ext_articles/948d76f9.ext.json)
-
----
-
-### Sri Lanka to shrink Army over 50-pct by 2030, to strengthen Navy: State Defence Minister
-
-*2024-05-16 14:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-shrink-army-over-50-pct-by-2030-to-strengthen-navy-state-defence-minister-163372/) · `en`
-
-ECONOMYNEXT – Sri Lanka will see more than 50 percent reduction in army cadres by 2030 and will strengthen the navy to safeguard the country’s Exclusive Economic Zone (EEZ) in the Indian Ocean, State Defence Minister Pramitha Bandara Tennakoon said.
-
-Sri Lanka is in the process of reducing a bloated state sector which is estimated at around 1.5 million in a country with 22 million population.
-
-Tri forces (army, navy, air force) and police account for nearly 30 percent of the total state sector employees.
-
-Tennakoon said an expert panel has been appointed to look into the cadres and strength of the tri forces under a strategic plan titled ‘Defence Review 2030’.
-
-“There is an approved cadres 0f 208,000 in the army (as of now). Our expectation is to bring it down to 100,000,” the State Minister said.
-
-...
-
-[Data](articles/5b0d7980.json)
-
-[Extended Data](ext_articles/5b0d7980.ext.json)
-
----
-
-### ICFS offers affordable path to European master’s degree in Malta under Schengen visa
-
-*2024-05-16 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-offers-affordable-path-to-European-masters-degree-in-Malta-under-Schengen-visa/108-282731) · `en`
-
-Colombo, May 16 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) has introduced an opportunity for students aspiring to pursue a master's degree in Europe for 1.8 million LKR.
-
-Chathurika Dissanayake, the CEO of ICFS Education Center said that this initiative, facilitated under a Schengen Visa, opens doors to academic excellence in Malta, one of Europe's vibrant countries.
-
-The program, offered by ICFS Education Center, allows applicants to secure a master's degree in Europe at a reasonable cost.
-
-She said that students can be sponsored by individuals with the financial capacity to support their education. "Malta further sweetens the deal by reimbursing 70% of the tuition fees for students who remain in the country for 1.5 years post-graduation, contributing to its economy," she said.
-
-...
-
-[Data](articles/1c65531d.json)
-
-[Extended Data](ext_articles/1c65531d.ext.json)
 
 ---

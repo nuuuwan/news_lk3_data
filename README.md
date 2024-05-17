@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 14:52:44**
+As of **2024-05-17 15:03:41**
 
 ## Newspaper Stats
 
-*Scraped **24,647** Articles*
+*Scraped **24,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,111
 adaderanalk | 2,854
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
-dailymirrorlk | 3,864
+dailymirrorlk | 3,865
 adaderanasinhalalk | 3,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,643 (100.0%) of 24,647 articles have been extended.
+24,647 (100.0%) of 24,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,51 +50,81 @@ Minister Ranaweera had been summoned by the Airport Police to record a statement
 
 [Data](articles/03315135.json)
 
+[Extended Data](ext_articles/03315135.ext.json)
+
 ---
 
-### ෆේස්බුක් සහ ඉන්ටග්‍රෑම් ගැන දැඩි තීරණයක් ?
+### A serious decision about Facebook and Interros?
 
 *2024-05-17 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196717) · `si`
 
-යුරෝපා සංගමය, මෙටා සමාගමේ ෆේස්බුක් සහ ඉන්ස්ටග්‍රෑම් සමාජ මාධ්‍ය ජාල පිළිබඳව නිල විමර්ශනයක් ආරම්භ කර තිබේ.
+The European Union is investigating Meta (owner of Facebook and Instagram) over allegations of violating child protection laws on social media, leading to potential fines up to 6% of its global revenue. The probe focuses on issues like addiction and mental health impacts on minors, as well as age verification methods.
 
-ඒ සමාජ මාධ්‍ය ජාලවල ළමා ආරක්ෂාව සම්බන්ධයෙන් යුරෝපා සංගමය පනවා ඇති නීති උල්ලංඝනය කර ඇති බවට මෙටා සමාගමට එල්ලවී ඇති චෝදනා මතය.
+🟩
 
-ෆේස්බුක් සහ ඉන්ස්ටග්‍රෑම් සමාජ මාධ්‍ය හරහා දරුවන් තුළ විවිධ ඇබ්බැහිවීම් නිර්මාණය වන බවත් ඉන් දරුවන්ගේ මානසික සෞඛ්‍යයට හානිවන බවත් යුරෝපා සංගමය පෙන්වා දෙයි.
+An official investigation into the European Union, Meta and Instagram Social Media Network.
 
-ඒ අනුව, එම සමාජ මාධ්‍යජාල භාවිතයේ දී පරිශීලිකයින්ට ස්වයංක්‍රීයව වීඩියෝ සහ ඡායාරූප නිර්දේශ කෙරෙන ඇල්ගොරිදමය පිළිබඳව ද විමර්ශනය කෙරෙන බව සඳහන් වෙයි.
+Meta Company has been accused of violating laws imposed on child protection on child protection on social media networks.
 
-එමෙන්ම ෆේස්බුක් ගිණුමක් සැකසීමේ දී වයස සත්‍යාපනය කිරීමේ ක්‍රමය පිළිබඳව ද යුරෝපා සංගමයේ අවධානය යොමුව තිබේ.
+Facebook and Instagram creates various addiction through social media and that they are created in their children's mental health.
 
-මෙටා සමාගම දරුවන්ගේ ආරක්ෂාව පිළිබඳ නීති උල්ලංඝනය කර ඇති බවට අනාවරණ වුවහොත් මෙටා සමාගමට එහි ගෝලීය පිරිවැටුමෙන් සියයට 6ක දඩයක් පැනවිය හැකිය.
+Accordingly, in the use of the Social Media Magnet, the containers will also be investigated by the advertising videos and photography video and photographs.
+
+The European Union has also focused on the method of verifying the age verifying the age.
+
+If the Meta Company has been violated to have violated the safety laws of children, Meta Company can impose a fined 6 percent of its global turnover.
 
 ◼️
 
 [Data](articles/5c7174a8.json)
 
+[Extended Data](ext_articles/5c7174a8.ext.json)
+
 ---
 
-### ව්‍යාජ මුදල් දමා ව්‍යාපාරිකයෙක් කොල්ලකෑමට ගිය සැකකරුවන් හසුවෙයි
+### Suspects to rob a businessman falls for plundering fake money
 
 *2024-05-17 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196718) · `si`
 
-මහනුවර ප්‍රධාන පෙළේ ව්‍යාපාරිකයෙකුට අයත් මාපනවතුර ප්‍රදේශයේ පිහිටි නිවසේ මුදල් කොල්ලයක් සැලසුම් කළ පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Kandy, two police officers and six others were arrested for attempting to rob a businessman, falsely accusing him of possessing counterfeit money. The suspects claimed the businessman had fake notes but were caught red-handed. Investigations continue, revealing the suspects' involvement through CCTV footage.
 
-අදාළ නිවසේ හොර නෝට්ටු තිබෙන බව පවසමින් හොර නෝට්ටු තොගයක් ද රැගෙන ගොස් ව්‍යාපාරිකයා සතු මුදල් කොල්ලකෑමට සැකකරුවන් උත්සාහ කර ඇත.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් පොලිස් නිලධාරීන් දෙදෙනෙක් ඇතුළු පුද්ගලයන් 06 දෙනෙකු මහනුවර පොලීසියේ අපරාධ අංශය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+Two police officers have been arrested in the home of a house in the Mapavinuwa area owned by a leading businessman in Kandy.
 
-ව්‍යාපාරිකයාගේ නිවසේ හොර නෝට්ටු තිබූ බවට සැකකරුවන් කළ ප්‍රකාශයක් පදනම් කර ගනිමින් ප්‍රශ්න කිරීම සඳහා ව්‍යාපාරිකයා අත්අඩංගුවට ගැනීමට පොලීසිය පියවර ගෙන තිබුණි.
+The suspects have also tried to take counterfeit notes, claiming that there were counterfeit notes in the house.
 
-ඒ අනුව සැකපිට අත්අඩංගුවට ගෙන සිටින මහනුවර පොලීසියේ හදිසි ඇමතුම් අංශයේ සේවයේ නියුතු පොලිස් කොස්තාපල්වරයා රාජකාරී අවසරය ලබාගෙන අදාළ ස්ථානයට ගොස් තිබෙන බව පොලිස් පරීක්ෂණ මගින් අනාවරණය වී ඇත.
+Six policemen including two police officers including two police officers have been arrested by the Criminal Division of the Kandy Police.
 
-අත්අඩංගුවේ පසුවන අනෙක් පොලිස් නිලධාරියා කොළඹ පොලිස් මූලස්ථානයට අනුයුක්තව සේවය කරන පොලිස් සැරයන්වරයෙකි.
+The police had taken steps to arrest the businessman based on a statement made by the businessman's residents in the businessman's house.
 
-අත්අඩංගුවට ගෙන ඇති පොලිස් නිලධාරීන් දෙදෙනා ඇතුළු සැකකරුවන් 06දෙනා පවසා ඇත්තේ අදාළ ව්‍යාජ මුදල් ව්‍යාපාරිකයා සතු බවය.
+According to police investigations, the police constable service in the Kandy police station has been arrested on suspicion and had gone to the relevant position.
+
+The other police officer is attached to the Colombo Police Headquarters.
+
+The two suspects including two suspects have said that the fake money owns the businessman.
 
 ...
 
 [Data](articles/f1a6336f.json)
+
+[Extended Data](ext_articles/f1a6336f.ext.json)
+
+---
+
+### Four including army Major acquitted in Rathupaswala shooting case
+
+*2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-including-army-Major-acquitted-in-Rathupaswala-shooting-case/108-282812) · `en`
+
+Gampaha, May 17 (Daily Mirror) - The Gampaha High Court Trial-at-Bar acquitted the four accused including a Major involved in the shooting incident that resulted in the deaths of three individuals and the injury of several others during a protest for clean drinking water in Rathupaswala on August 1, 2013.
+
+Court has ordered the release of the four Sri Lanka army personnel, including a Major and three soldiers.
+
+The incident took place on August 01, 2013, when army personnel fired upon unarmed villagers in Weliweriya who were protesting against a factory they accused of contaminating their groundwater and demanding access to clean drinking water.
+
+◼️
+
+[Data](articles/cd3173eb.json)
 
 ---
 
@@ -122,21 +152,27 @@ Later, the police handed over the youth and the two girls to their parents.
 
 ---
 
-### හොර දොස්තරලා ගැන දැනුම් දෙන්නේ හොට්ලයින් එකක්
+### A hotline informs about fraudulent doctors
 
 *2024-05-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196716) · `si`
 
-රටපුරා ව්‍යාජ වෛද්‍යවරු 40,000ක් පමණ සිටින බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+Government Medical Officers' Association warns of 40,000 fake doctors nationwide. Spokesman Dr. Chamil Wijesinghe urges the public to report unqualified individuals selling drugs.
 
-එම සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේසිංහ මහතා පැවසුවේ එවැනි සමහර පුද්ගලයින් ජනතාවට විවිධ මත් පෙති වර්ගද අලෙවි කරන බවයි.
+🟩
 
-එවැනි පුද්ගලයින් සම්බන්ධයෙන් තොරතුරු ක්ෂණික දුරකථන අංකය වන 1907ට ලබාදෙන ලෙසද ඔහු ජනතාවගෙන් ඉල්ලා සිටියේය.
+There are about 40,000 fake doctors throughout the country, says the Government Medical Officers' Association.
 
-එම 40,000 තුළ වෛද්‍ය විද්‍යාව සම්බන්ධයෙන් කිසිදු දැනුමක් නොමැති පුද්ගලයින් රැසක් ද සිටින බව වෛද්‍ය විජේසිංහ පැවසීය.
+The association spokesman Dr. Chamil Wijesinghe said that some people sell various drugs to the people.
+
+He also requested the public to provide information on such persons to the immediate telephone number.
+
+There are many people who have no knowledge of medical science in the 40,000 people, Dr. Wijesinghe said.
 
 ◼️
 
 [Data](articles/7abc54a3.json)
+
+[Extended Data](ext_articles/7abc54a3.ext.json)
 
 ---
 
@@ -150,7 +186,7 @@ Delivering the verdict in the case today (17), the court ordered to acquit and r
 
 On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
 
-In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
+In August 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
 
 ...
 
@@ -2149,31 +2185,5 @@ The resolution has stated that the Tamils should ensure the restoration of viole
 [Data](articles/97a5e4c7.json)
 
 [Extended Data](ext_articles/97a5e4c7.ext.json)
-
----
-
-### Ready to discuss with anyone - President
-
-*2024-05-16 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196698) · `si`
-
-President Ranil Wickremesinghe is open to discussions with all parties, including journalists and potential presidential candidates like Mahinda Rajapaksa. He addresses concerns about economic restructuring and the timing of trade union strikes ahead of elections.
-
-🟩
-
-President Ranil Wickremesinghe says he is ready to discuss with anyone ready to discuss.
-
-The President was speaking at a meeting at the Presidential Secretariat this afternoon with a group of senior journalists.
-
-President Mahinda Rajapaksa has responded to a query asking journalists to contest the next presidential election.
-
-President Ranil Wickremesinghe has not been able to successfully a success, and that the restructuring of the debt will be able to successfully.
-
-The President has said that the trade union strike is engaged in strike at a time when a vote is to be held this year.
-
-◼️
-
-[Data](articles/d00417d9.json)
-
-[Extended Data](ext_articles/d00417d9.ext.json)
 
 ---

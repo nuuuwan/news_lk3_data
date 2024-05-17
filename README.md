@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 00:49:44**
+As of **2024-05-18 01:03:45**
 
 ## Newspaper Stats
 
-*Scraped **24,741** Articles*
+*Scraped **24,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,460
 adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
-virakesarilk | 3,726
+virakesarilk | 3,728
 dailymirrorlk | 3,883
 adaderanasinhalalk | 3,949
 
@@ -26,9 +26,51 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,737 (100.0%) of 24,741 articles have been extended.
+24,741 (100.0%) of 24,743 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-18 (Saturday)
+
+### போர் வெற்றியல்ல, மனித குலத்தின் தோல்வி வெறுப்புக்கு பதிலாக அன்பை பகிர்வோம் - சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க
+
+*2024-05-18 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183820) · `ta`
+
+போர் என்பது வெற்றியல்ல அது நாட்டினதும் அல்லது மனித குலத்தினதும் தோல்வியாகும். 30 வருட கால யுத்தம் இழப்புக்களை மாத்திரமே மிகுதியாக்கியுள்ளது. வெறுப்புக்கு பதிலாக அன்பை வெளிப்படுத்துவோம் என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க நாட்டு மக்களிடம் வலியுறுத்தியுள்ளார்.
+
+30 வருடகால யுத்தம் முடிவடைந்து 18 ஆம் திகதி சனிக்கிழமையுடன் 15 ஆண்டுகள் பூர்த்தியாகின்றன. இதனை முன்னிட்டு விசேட ஊடக அறிக்கையை வெளிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+
+போர் என்பது வெற்றியல்ல,அது நாடு அல்லது மனித குலத்துக்கு பாரிய தோல்வியாகும்..30 வருடகால இனபோராட்டம் காரணமாக நாடு பலவற்றை இழந்தது. வடக்கு மற்றும் கிழக்கு மாகாணங்களில் தாய்மார் தங்களின் பிள்ளைகளை இழந்தனர்.அதேபோல் பிள்ளைகள் தமது பெற்றோரை இழந்தனர்.
+
+சிங்களவர்கள், தமிழர்கள், முஸ்லிம்கள் என இன அடிப்படையில் நாம் பிளவடைந்துள்ளோம். இந்த யுத்தத்தின் காரணமாக நான் எனது கண்ணை இழந்தேன்.மேலும் பல இழப்புக்களை எதிர்க்கொண்டேன். இறுதி யுத்தத்தின் முடிவை நினைவு கூறும் இன்றைய தினத்தில் வெறுப்புக்கு பதிலாக அன்பை பகிர்வோம்.
+
+...
+
+[Data](articles/10753dcb.json)
+
+---
+
+### மத்திய ஆசிய கரப்பந்தாட்டம்: இலங்கை 4ஆம் இடம்; பாகிஸ்தான் சம்பியனானது
+
+*2024-05-18 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183819) · `ta`
+
+இஸ்லாமாபாத்தில் வெள்ளிக்கிழமை (17) நிறைவுக்கு வந்த மத்திய ஆசிய கரப்பந்தாட்ட சுற்றுப் போட்டியில் இலங்கை 4ஆம் இடத்தைப் பெற்றது.
+
+ஆறு நாடுகள் பங்குபற்றிய இந்த சுற்றுப் போட்டியில் 3ஆம் இடத்தைத் தீர்மானிப்பதாக வெள்ளிக்கிழமை (17) நடைபெற்ற போட்டியில் கிர்கிஸ்தானிடம் 1 - 3 என்ற செட்கள் அடிப்படையில் தோல்வி அடைந்த இலங்கை 4ஆம் இடத்தைப் பெற்றது.
+
+கிர்கிஸ்தானிடம் முதல் 2 செட்களில் முறையே 20 - 25, 17 - 25 என்ற புள்ளிகள் அடிப்படையில் தோல்வி அடைந்த இலங்கை 3ஆவது செட்டில் பதிலடி கொடுத்து 25 - 20 என வெற்றி பெற்றது.
+
+ஆனால், அடுத்த செட்டில் இலங்கையின் கடும் சவாலுக்கு மத்தியில் 25 - 23 என்ற புள்ளிகள்   அடிப்படையில் தோல்வி அடைந்தது.
+
+இந்த சுற்றுப் போட்டியில் லீக் சுற்றில் கிர்கிஸ்தான். பாகிஸ்தான், துர்க்மேனிஸ்தான் ஆகிய அணிகளிடம் தோல்வி அடைந்த போதிலும் ஆப்கானிஸ்தான், ஈரான் ஆகிய அணிகளை இலங்கை வெற்றிகொண்டிருந்தது.
+
+இப் போட்டியைத் தொடர்ந்து நடைபெற்ற இறுதிப் போட்டியில் துர்க்மேனிஸ்தானை 3 - 1 என்ற செட்கள் அடிப்படையில் வெற்றிகொண்டு பாகிஸ்தான் தோல்வி அடையாத ஒரே ஒரு அணியாக மத்திய ஆசிய  கரப்பந்தாட்ட  சம்பியனானது.
+
+...
+
+[Data](articles/a9d49345.json)
+
+---
 
 ### 2024-05-17 (Friday)
 
@@ -368,6 +410,8 @@ Public-private partnerships (PPPs) and blended finance facilities can be importa
 
 [Data](articles/f9d33ed6.json)
 
+[Extended Data](ext_articles/f9d33ed6.ext.json)
+
 ---
 
 ### 'Mehta Toss Rule' for Indian Premier League Playoffs
@@ -456,6 +500,8 @@ I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silv
 
 [Data](articles/5e1b9474.json)
 
+[Extended Data](ext_articles/5e1b9474.ext.json)
+
 ---
 
 ### OPA seminar sheds insights to managing Sri Lanka’s ageing population
@@ -471,6 +517,8 @@ Eng. Shantha Senarath, a Past President of OPA and the Moderator of the seminar,
 ...
 
 [Data](articles/a61a376e.json)
+
+[Extended Data](ext_articles/a61a376e.ext.json)
 
 ---
 
@@ -547,6 +595,8 @@ A second default by Sri Lanka could be more devastating than Sri Lanka’s first
 ...
 
 [Data](articles/4df0c22e.json)
+
+[Extended Data](ext_articles/4df0c22e.ext.json)
 
 ---
 
@@ -2173,53 +2223,5 @@ It calls on the Government to acknowledge the involvement of state security forc
 [Data](articles/f08b9023.json)
 
 [Extended Data](ext_articles/f08b9023.ext.json)
-
----
-
-### Sri Lanka state minister of finance says he received threatening phone call
-
-*2024-05-17 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-of-finance-says-he-received-threatening-phone-call-163456/) · `en`
-
-ECONOMYNEXT — Finance Ministry officials have lodged a complaint with the Fort police about a threatening phone call received at the office of State Minister of Finance Shehan Semasinghe, the state minister said.
-
-Semasinghe told reporters that certain groups may be attempting to jeopardise the government’s ongoing economic reforms.
-
-According to Semasinghe, the caller had said they possessed weapons and had also intimated that, failing to use a weapon, there would be a “burning of some sort”.
-
-We saw in the recent past how certain ideas were expressed that could spread violence,” said Semasinghe.
-
-The state minister also claimed that certain groups were trying to portray Sri Lanka’s ongoing reforms in a negative light.
-
-“Many groups are trying to send out a negative message about the stability in the country. Nobody believed that the economy would strengthened this way under the programme carried out by the president and the government,” he said.
-
-...
-
-[Data](articles/c139f2da.json)
-
-[Extended Data](ext_articles/c139f2da.ext.json)
-
----
-
-### Rathupaswala case verdict: 'Unable to intervene in investigative bugs'
-
-*2024-05-17 13:28:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrj5e1zlz3o) · `si`
-
-Gampaha High Court ruled on May 17th, stating it couldn't intervene in the Rathupaswala case due to insufficient evidence against the defendants. The verdict involved three soldiers facing charges related to a protest in 2013 where civilians demanded clean water. Despite the army's involvement in dispersing the protest, which resulted in injuries, the court found no clear criminal intent on the part of the defendants.
-
-🟩
-
-The verdict on the residents of Rathupaswala, who was demanding clean water, was declared today (May 17). The trial was held in the Gampaha High Court.
-
-Special three-member High Court Judge Madulla today (May 17) stated that the judiciary is not possible to intervene under the accusations against the defendants and the defenders of the Civilian and Policy Act and the defenders cannot intervene.Three soldiers lack of acquitting from all charges.
-
-In addition to these defendants in addition to these defendants, the panel of military personnel who had not been charged against these defendants had not been charged against these defendants, the other military officers mentioned in the verdict had not yet been charged against these defendants.The benefit of the suspicion is given to the defendants as the accused in the case.
-
-The army did in the North now, the people of the Weliianiya Weliyaarapus 'still thirsty'
-
-...
-
-[Data](articles/af287d0f.json)
-
-[Extended Data](ext_articles/af287d0f.ext.json)
 
 ---

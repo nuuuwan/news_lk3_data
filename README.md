@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 15:52:25**
+As of **2024-05-17 16:04:13**
 
 ## Newspaper Stats
 
-*Scraped **24,659** Articles*
+*Scraped **24,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
-adalk | 2,112
+adalk | 2,113
 adaderanalk | 2,857
-tamilmirrorlk | 2,891
+tamilmirrorlk | 2,894
 virakesarilk | 3,714
 dailymirrorlk | 3,866
 adaderanasinhalalk | 3,936
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,652 (100.0%) of 24,659 articles have been extended.
+24,659 (100.0%) of 24,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### ஊர்வலமாக எடுத்துச் செல்லப்படும் சீதையம்மனுக்கான சீர்வரிசை பொருட்கள்
+
+*2024-05-17 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊர்வலமாக-எடுத்துச்-செல்லப்படும்-சீதையம்மனுக்கான-சீர்வரிசை-பொருட்கள்/76-337456) · `ta`
+
+நுவரெலியா - சீதாஎலிய சீதையம்மன் ஆலய மஹா கும்பாபிஷேகப் பெருவிழாவிற்கான  சீர்வரிசை பொருட்களை தீர்த்த ஊர்வலமாக எடுத்துச் செல்லும் பூஜை வழிபாடுகள் இன்று(17) காலை கொழும்பு மயூரபதி ஆலயத்தில் இடம்பெற்றது.
+
+இதேவேளை, சீதாஎலிய சீதையம்மன் ஆலய கும்பாபிஷேகத்திற்கான புனித நீர் கடந்த 15ஆம் திகதி இந்தியாவில் இருந்து எடுத்துவரப்பட்டு வெள்ளவத்தை மயூரபதி ஆலயத்தில் வைக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/53b66ecb.json)
+
+---
 
 ### Kusal Mendis’ visa not rejected – SLC
 
@@ -47,6 +61,8 @@ Speaking further, the CEO of SLC said: “So, I think the information which has 
 ...
 
 [Data](articles/8d1067b5.json)
+
+[Extended Data](ext_articles/8d1067b5.ext.json)
 
 ---
 
@@ -66,55 +82,111 @@ President’s Counsel Kalinga Indatissa, who appeared on behalf of the defendant
 
 [Data](articles/bf694db8.json)
 
+[Extended Data](ext_articles/bf694db8.ext.json)
+
 ---
 
-### රථවාහන ගමනාගමනය සීමා කිරීමක් ගැන දැනුම්දීමක්
+### காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு
+
+*2024-05-17 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிப்பு-கடல்-கொந்தளிப்பு/175-337455) · `ta`
+
+காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 60 - 70 கிலோ மீற்றர் வரை அதிகரித்து வீசுவதுடன், கல்பிட்டி, கொழும்பு, காலி, ஹம்பாந்தோட்டை முதல் பொத்துவில் வரையான கடற்பரப்புகளில் கடல் கொந்தளிப்பாக காணப்படும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இந்த கடற்பரப்புகளில் அவ்வப்போது பலத்த மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மீனவ மற்றும் கடல்சார் சமூகம் இது தொடர்பில் அவதானம் செலுத்துமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக்கொண்டுள்ளது.
+
+இதேவேளை, நாட்டை சூழ உள்ள கடல் பிராந்தியங்களிலும் தென்மேல் பருவப்பெயர்ச்சிக்கு முன்னரான நிலைமை காரணமாக காற்றும் மழையுடனுமான வானிலை அதிகரித்துக் காணப்படும் என எதிர்வு கூறியுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/444b7ab6.json)
+
+---
+
+### Notice on traffic restriction restriction restriction
 
 *2024-05-17 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196723) · `si`
 
-රණවිරු දින සැමරුම් උත්සවය වෙනුවෙන් රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය පවසයි.
+Traffic restricted for Ranaviru Day celebration; Heroes Day at Parliament Stadium on 19th. Special traffic plan: entry/exit lanes on parliamentary road from 3 pm. Use alternative routes advised.
 
-ඒ අනුව 19 වන ඉරිදා දින සවස පාර්ලිමේන්තු ක්‍රීඩාංගණයේ දී විරු දින සැමරුම් උත්සවය පැවැත්වීමට නියමිතය.
+🟩
 
-ඒ වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලීසිය දැනුම් දී ඇත.
+Motor traffic will be restricted for the Ranaviru Day celebration.
 
-ඒ අනුව එදින සවස 3 සිට පොල්දූව හංදිය සහ කියැන්හෑම් හංදියෙන් පාර්ලිමේන්තු මාර්ගයට ඇතුළු වීමේ මංතීරුව සහ පිටවීමේ මංතීරුව වසැ තැබීමට ක්‍රියාකරනු ඇත.
+Accordingly, the Heroes Day celebrations will be held at the Parliament Stadium on Sunday, 19th.
 
-ඉහත මාර්ග භාවිත කරන රියදුරන්ට පහත විකල්ප මාර්ගයන් භාවිත කරන ලෙස පොලීසිය දැනුම් දෙයි.
+Police have informed that a special traffic plan will be implemented.
+
+Accordingly, the entry lane and exit lane will be held from 3 pm to the parliamentary road and the parliamentary road.
+
+The police are informed to use the following alternative routes using the above roads.
 
 ◼️
 
 [Data](articles/7e3d4ed0.json)
 
+[Extended Data](ext_articles/7e3d4ed0.ext.json)
+
 ---
 
-### ගෝඨාභයට නොතීසි නිකුත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝග
+### පාරකින් භාගයක්ම නාය යයි
+
+*2024-05-17 15:27:45* · [`adalk`](https://www.ada.lk/breaking_news/පාරකින්-භාගයක්ම-නාය-යයි/11-409696) · `si`
+
+පැවති ධාරාණිපාත වර්ෂාව සමග අද 17 අලුයම  බණ්ඩාරවෙල  අඹදණ්ඩේගම  ප්‍රදේශයේ විශාල නායාමක් සිදුවීමෙන් අඹදණ්ඩේගම  පිටවලපතන ගම්මානයට යාමට ඇති මාර්ගයද සම්පූර්ණයෙන් නාය ගොස් ඇතැයි   බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ පැවසීය.
+
+මෙම මාර්ගයේ මීටර් දෙසීයක් පමණ දිගට දිවෙන විශාල පැල්මක් ද ඇතිවී ඇති  අතර තවදුරටත් වර්ෂාව පැවතිය
+
+හොත් එම මාර්ගය විශාල වශයෙන් හානි වන බවද පිටවෙලපතන ගම්මානයේ  මිනිසුන්ගේ ගමන්මාර්ගය සම්පූර්ණයෙන් ඇන හිටින බවද ආපදා කළමනාකරණ මධ්‍යස්ථානයේ පැවසීය.
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය මෙම  ස්ථානය පරීක්ෂා කර නිරීක්ෂණ වාර්තාවක් ලබාදීමට නියමිත බවද බදුල්ල  ආපදාකළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+◼️
+
+[Data](articles/2bc4b8f9.json)
+
+---
+
+### Supreme Court orders notice to Gotabhaya
 
 *2024-05-17 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196722) · `si`
 
-කොළඹ මහාධිකරණය විසින් මරණීය දණ්ඩනය නියමවී සිටි යුද හමුදා සැරයන් සුනිල් රත්නායක මහතා ව ජනාධිපති සමාව මත නිදහස් කිරීම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වෙත නොතිසි නිකුත් කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (17) නියෝග කළා.
+The Supreme Court has directed former President Gotabhaya Rajapaksa to free Army Chief Suneshiya Sunil Ratnayake, who faces a death sentence in Jaffna's Mirissuvil area. This decision came after a fundamental rights petition filed by the CPA's Executive Director.
 
-2000 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනය මිරිසුවිල් ප්‍රදේශයේදී අවුරුදු පහක කුඩා දරුවකු ඇතුළු අවතැන්ව සිටි සිවිල් වැසියන් අට දෙනෙකු කපා කොටා මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් ඔහුට මරණ දණ්ඩනය දී තිබුණි.
+🟩
 
-විකල්ප ප්‍රතිපත්ති කේන්ද්‍රයේ විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු මහතා විසින් ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සමක් යසන්ත කෝදාගොඩ සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබු අවස්ථාවේදී මෙම නියෝගය නිකුත් කළේය.
+The Supreme Court today (17), the Supreme Court today (17) ordered former President Gotabhaya Rajapaksa to release the President of the Army Suneshiya Sunil Ratnayake.
+
+He had been sentenced to death in the Mirissuvil area in the Mirissuvil area in the Mirissuvil area in Jaffna.
+
+This order issued the order when he was summoned a fundamental rights petition with a fundamental rights petition filed by the Executive Director of the CPA.
 
 ◼️
 
 [Data](articles/b869f17d.json)
 
+[Extended Data](ext_articles/b869f17d.ext.json)
+
 ---
 
-### ආනන්ද කුමාරස්වාමි මාවත වැසෙයි
+### Ananda Kumaraswamy is closing
 
 *2024-05-17 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196721) · `si`
 
-විරෝධතා පාගමනක් හේතුවෙන් කොල්ලුපිටිය, ආනන්ද කුමාරස්වාමි මාවත පොලීසිය විසින් වසා දමා තිබේ.
+Ananda Kumaraswamy led a protest march in Kollupitiya against the Palestinian War, which was subsequently closed down by the police.
 
-අප වාර්තාකරු පැවසුවේ පලස්තීන යුද්ධයට විරෝධය පළ කරමින් මෙම විරෝධතාවය ආරම්භ කර ඇති බවය.
+🟩
+
+The police have closed by the police, Kollupitiya, a protest march.
+
+Our correspondent said that the protest had begun to protest the Palestinian War.
 
 ◼️
 
 [Data](articles/40d965ee.json)
+
+[Extended Data](ext_articles/40d965ee.ext.json)
 
 ---
 
@@ -168,6 +240,24 @@ The destruction of the first drug in the fetish is due to be chaired by Tiran Al
 
 ---
 
+### முள்ளிவாய்க்கால் கஞ்சி விநியோகித்த நால்வருக்கு பிணை
+
+*2024-05-17 14:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-கஞ்சி-விநியோகித்த-நால்வருக்கு-பிணை/175-337454) · `ta`
+
+சேனையூர் பிள்ளையார் கோவிலில் வைத்து சென்ற 12 ஆம் திகதி,முள்ளிவாய்க்கால் கஞ்சி வழங்கியமைக்காக,சம்பூர் பொலிஸாரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த நால்வரும் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+நவரெட்ணராஜா ஹரிகரகுமார்(43), கமலேஸ்வரன் விஜித்தா(40), கமலேஸ்வரன் தேமிலா(22), செல்வ வினோத்குமார் சுஜானி(40)ஆகிய நால்வரும் நேற்று(17) மூதூர் நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டனர்.
+
+தலா ஒரு இலட்சம் ரூபாய் சரீரப்பிணையில் இவர்களை மூதூர் நீதிபதி தஸ்னீம் பெளசான்பானு விடுவித்தார்.அத்துடன் வழக்கு இம்மாதம் 27 ஆம் திகதிக்கு ஒத்தி வைக்கப்பட்டது.
+
+சம்பூர் பொலிஸார் இவ் வழக்கை ஐ.சி.சி.பீ.ஆர்.சட்டத்தின் கீழ் முன்வைத்திருந்த போதும்,நேற்று  இவ் வழக்கு மீளவும் நகர்த்தல் பத்திரம் மூலம் எதிராளிகள் தரப்பினால் அழைக்கப்பட்ட போது தாம் முன்னர் முன்வைத்த சட்டப்பிரிவின் அடிப்படையிலான குற்றச்சாட்டை  விலக்கிக் கொள்வதாக சம்பூர் பொலிஸார் நீதிமன்றத்தில் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e90d79f0.json)
+
+---
+
 ### ’I did something, I shouldn’t have done’: Prasanna Ranaweera
 
 *2024-05-17 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-did-something-I-shouldnt-have-done-Prasanna-Ranaweera/108-282811) · `en`
@@ -190,23 +280,29 @@ Minister Ranaweera had been summoned by the Airport Police to record a statement
 
 ---
 
-### අනධ්‍යයන සේවක වර්ජනයෙන් විශ්වවිද්‍යාල දේශන ඔන්ලයින් ක්‍රමයට
+### University lecture on the strike of non-academic workers
 
 *2024-05-17 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196719) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වර්ජනය හේතුවෙන් විශ්වවිද්‍යාල දේශන කටයුතු ඔන්ලයින් ක්‍රමවේදය හරහා සිදුකෙරෙන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පවසයි.
+Due to a non-academic staff strike, the University Grants Commission has implemented a lecture system affecting 150,000 students' schedules. The strike, led by the University of Colombo Trade Union Joint Committee, aims to address long-standing issues faced by university workers.
 
-"අද දෙරණ" කළ විමසීමක දී එහි සභාපති මහාචාර්ය සම්පත් අමරතුංග මහතා පැවසුවේ මෙම වර්ජනය හේතුවෙන් සියලු විභාග කටයුතු ඇණහිට ඇති බවය.
+🟩
 
-ඒ අනුව සිසුන් 150,000කගේ පමණ උපාධිය අවසන් කිරීම ප්‍රමාද වී ඇති බව සඳහන්ය.
+The University Grants Commission says that due to the strike of university non-academic employees will be done through the University lecture system.
 
-මේ අතර විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වර්ජනය සම්බන්ධයෙන් කොළඹ විශ්වවිද්‍යාලයේ වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සභාපති සුසිල් සෝමරත්න මහතා මෙලෙස අදහස් පළ කළේය.
+Prof. Sampath Amaratunga said that Prof. Sampath Amaratunga said that the strike was held due to the strike.
 
-"අද 16 වන දිනටත් විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය ක්‍රියාත්මක වෙනවා. අපේ දරුවන්ගේ අධ්‍යාපනය කඩාකප්පල් වීම මේ හරහා සිදුවීම අපිට ඇත්තටම කනගාටුදායකයි. ඒ නිසා බලධාරීන්ගෙන් ඉල්ලා සිටිනවා වහාම මේ ස﻿ඳහා අවශ්‍ය මැදිහත්වීම ලබාදෙමින් සරසවි සේවකයින්ගේ වෘත්තීය ගැටලුව විසඳන්න කටයුතු කරන්න කියලා. මෙය වසර 8ක් පුරා ක්‍රියාත්මක සටනක්. අපි කවදාහරි දවසක මේක ජයග්‍රාහීව අවසන් කරන්න පුළුවන් වුණ දවසට තමා නැවත සේවයට වාර්තා කරන්නේ."
+Accordingly, it is delayed that the end of 150,000 students is delayed.
+
+Meanwhile, Chairman of the University of Colombo Trade Union Joint Committee on the strike of university trade union trade union joint committee president said:
+
+"The university non-academic strike operates on the 16th today. We are really sad that we have to disrupt our children's education. Therefore, asking the authorities, it is advisable to take action to resolve the professional issue of university workers. This is a battle for 8 years. When we one day, we will report back to work. "
 
 ◼️
 
 [Data](articles/1395d970.json)
+
+[Extended Data](ext_articles/1395d970.ext.json)
 
 ---
 
@@ -308,7 +404,7 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 
 *2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-schoolgirls-youth-marooned-in-floods-rescued/108-282808) · `en`
 
-Badulla, Colombo 17 (Daily Mirror)- A youth and two schoolgirls who were marooned due to floods during their visit to Bombu Ella falls in Uva Paranagama on Thursday (16) were rescued by the Ambagasdowa police with the help of the residents of the area.
+Badulla, Colombo 17 (Daily Mirror)- A youth and two schoolgirls who were marooned due to floods during their visit to Bomburu Ella falls in Uva Paranagama on Thursday (16) were rescued by the Ambagasdowa police with the help of the residents of the area.
 
 The youth is 18 years old and the two school girls are 15 years old.
 
@@ -702,15 +798,21 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 
 ---
 
-### මහේෂ් සේනානායක සමගි ජන බලවේගයට
+### Mahesh Senanayake to uniwated people
 
 *2024-05-17 12:02:47* · [`adalk`](https://www.ada.lk/breaking_news/මහේෂ්-සේනානායක-සමගි-ජන-බලවේගයට/11-409695) · `si`
 
-හිටපු යුද හමුදාපති ජනරාල් (විශ්‍රාමික) මහේෂ් සේනානායක මහතා සමගි ජල බලවේගය හා එක්ව තිබේ. ඒ අනුව ඔහු සමගි රණවිරු බලවේගයේ නායකයා ලෙස පත්කිරිමට විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර තිබේ. මහේෂ් සේනානායක මහතා ලංකාවේ 22 වැනි යුද හමුදාපතිවරයා වෙයි.
+General (Retired) Mahesh Senanayake, Sri Lanka's 22nd Army Commander, joins the reconciliation water force, while Opposition Leader Sajith Premadasa leads the war heroes forces.
+
+🟩
+
+Former Army Commander General (Retired) Mahesh Senanayake has joined the reconciliation water force. Opposition Leader Sajith Premadasa has been appointed as the leader of the war heroes forces. Mahesh Senanayake is 22nd army commander in Sri Lanka.
 
 ◼️
 
 [Data](articles/825b8be0.json)
+
+[Extended Data](ext_articles/825b8be0.ext.json)
 
 ---
 
@@ -2093,85 +2195,5 @@ Democratic People’s Front (DPF) Member of Parliament Mano Ganesan yesterday co
 [Data](articles/7ed70767.json)
 
 [Extended Data](ext_articles/7ed70767.ext.json)
-
----
-
-### Gammanpila calls for designation of incoming US Ambassador as persona non grata
-
-*2024-05-17 00:46:21* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-calls-for-designation-of-incoming-US-Ambassador-as-persona-non-grata/56-761905) · `en`
-
-PHU leader Udaya Gammanpila alleges that Horst told US Senate SL’s ban on foreign research vessels was influenced by the US
-
-Criticises Horst’s statement arguing that it reflects a lack of respect for SL’s sovereignty
-
-Expresses concern over Horst’s intention to follow in footsteps of current US Ambassador Julie Chung
-
-Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila called on the Government yesterday to declare incoming US Ambassador to Sri Lanka Elizabeth Horst as persona non grata over a recent statement on Sri Lanka’s ban on foreign research vessels.
-
-Speaking at a press conference, Gammanpila alleged that Horst had testified before the US Senate, asserting that Sri Lanka’s decision to impose a one-year ban on foreign research vessels was at the behest of the US.
-
-...
-
-[Data](articles/4efea4c5.json)
-
-[Extended Data](ext_articles/4efea4c5.ext.json)
-
----
-
-### Specialised delegation dispatched to Russia to investigate welfare of Sri Lankans amidst Russian-Ukraine war – State Minister
-
-*2024-05-17 00:45:20* · [`dailyftlk`](https://www.ft.lk/news/Specialised-delegation-dispatched-to-Russia-to-investigate-welfare-of-Sri-Lankans-amidst-Russian-Ukraine-war-State-Minister/56-761904) · `en`
-
-Delegation includes Defence Secretary, former Ambassador to Russia, officials from Foreign Affairs Ministry
-
-Raises concerns on safety and well-being of Sri Lankans in Russia, including retired military personnel who entered country on tourist visas
-
-Unofficial estimates suggest around 600 to 800 Sri Lankans are currently in Russia
-
-Govt. expresses gratitude to media institutes for assistance in identifying Sri Lankans affected by war
-
-State Minister of Foreign Affairs Tharaka Balasuriya yesterday revealed yesterday that President Ranil Wickremesinghe has issued directives for the dispatch of a specialised delegation to Russia to investigate the welfare of Sri Lankans amidst the ongoing Russian-Ukraine war.
-
-The delegation comprises the Secretary to the Defence Ministry, former Ambassador to Russia and officials from the Ministry of Foreign Affairs, with plans for a prompt departure to Russia.
-
-...
-
-[Data](articles/8a2d245b.json)
-
-[Extended Data](ext_articles/8a2d245b.ext.json)
-
----
-
-### RTI Commission orders Thondaman’s Ministry to disclose “NAAM-200” event expenses
-
-*2024-05-17 00:44:22* · [`dailyftlk`](https://www.ft.lk/news/RTI-Commission-orders-Thondaman-s-Ministry-to-disclose-NAAM-200-event-expenses/56-761903) · `en`
-
-The Right to Information (RTI) Commission has ordered the Water Supply and Estate Infrastructure Development Ministry to disclose all details, including expenses, related to the “NAAM-200” event organised by Minister Jeevan Thondaman and presided over by President Ranil Wickremesinghe in November 2023.
-
-The event, marking the 200th anniversary of the arrival of Malaiyaha Tamils in Sri Lanka, was also attended by Indian Finance Minister Nirmala Sitharaman.
-
-This order follows an appeal filed by journalist B. Nirosh Kumar, who submitted an RTI request on 6 November 2023, seeking comprehensive information about the event. The Ministry initially provided some information but failed to disclose key details, prompting Kumar to appeal to the RTI Commission.
-
-...
-
-[Data](articles/14fd381f.json)
-
-[Extended Data](ext_articles/14fd381f.ext.json)
-
----
-
-### Restructure SriLankan Airlines – but no mandate for sale
-
-*2024-05-17 00:24:03* · [`dailyftlk`](https://www.ft.lk/columns/Restructure-SriLankan-Airlines-but-no-mandate-for-sale/4-761891) · `en`
-
-Former President Mahinda Rajapaksa’s official statement on the issue of the restructuring of State-Owned Enterprises (SOEs) has driven the usual suspects into a fit of rage. Instead of addressing the content of the statement through facts and rational argument, one Ranga Jayasuriya has gone on a hate-spewing tirade on Daily Mirror. Let us keep aside all the ad hominem fallacies in his article, including childish name-calling, fear-mongering and false accusations. Such immature personal attacks only support Mahinda’s stance.
-
-Although Mahinda Rajapaksa speaks about all SOEs in general, Jayasuriya seems to have read it as impacting only SriLankan Airlines. Perhaps it is not because he has any money to be made in the proposed sale of the national carrier but because of his undying passion for turning loss-making SOEs into profit-making Privately-Owned Enterprises (POWs) in Sri Lanka… But let us look at his claims logically.
-
-...
-
-[Data](articles/18d9b0a4.json)
-
-[Extended Data](ext_articles/18d9b0a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 17:03:32**
+As of **2024-05-17 17:18:20**
 
 ## Newspaper Stats
 
-*Scraped **24,670** Articles*
+*Scraped **24,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,113
-adaderanalk | 2,859
+adaderanalk | 2,860
 tamilmirrorlk | 2,895
 virakesarilk | 3,714
-dailymirrorlk | 3,867
+dailymirrorlk | 3,868
 adaderanasinhalalk | 3,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,667 (100.0%) of 24,670 articles have been extended.
+24,670 (100.0%) of 24,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### President reveals plans for AI-driven agricultural transformation in Sri Lanka
+
+*2024-05-17 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99284/president-reveals-plans-for-ai-driven-agricultural-transformation-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe today announced plans to transform Sri Lanka’s agriculture sector using modern technology, including Artificial Intelligence (AI), and to support private sector entrepreneurs interested in this initiative.
+
+He stated that this year, 100 divisional secretariat divisions have been selected for agricultural modernization.
+
+The President made this announcement while observing the first AI -driven greenhouse in Sri Lanka, ‘AiGrow’, built by Dr. Harsha Subhasinghe in Nelumdeniya, Kegalle this morning (17).
+
+◼️
+
+[Data](articles/322f3793.json)
+
+---
 
 ### ‘Ice’ worth around Rs. 100mn found inside parcel from Guatemala
 
@@ -38,7 +54,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Sri Lanka Customs have detected a large consignment of ‘Ice’, also known as Crystal Methamphetamine, valued at around Rs. 100 million, which had reportedly arrived in a parcel from Guatemala, through airmail service.
 
-The cache of drugs were found concealed inside a car engine part (pulley) which was contained in the parcel sent to a warehouse complex attached to a courier service in Seeduwa.
+The cache of drugs were found concealed inside a car engine part (pulley) which was contained in the parcel sent to a bonded cargo warehouse attached to a courier service in Seeduwa.
 
 The parcel had been addressed to a 25-year-old farmer residing in the Jayanthipura area of Polonnaruwa. The officers of the Narcotics Control Unit of Sri Lanka Customs had opened the parcel in front of the youth in question, upon his arrival to the warehouse to collect the parcel this afternoon (17).
 
@@ -50,39 +66,65 @@ The street value of the consignment of drugs, weighing 03 kilograms and 101 gram
 
 [Data](articles/dcdbc273.json)
 
+[Extended Data](ext_articles/dcdbc273.ext.json)
+
 ---
 
-### AI  நவீன தொழில்நுட்பத்துடன் விவசாயத்தில் புதிய மாற்றம்
+### AI New Change in Agriculture with Modern Technology
 
 *2024-05-17 16:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-நவீன-தொழில்நுட்பத்துடன்-விவசாயத்தில்-புதிய-மாற்றம்/175-337457) · `ta`
 
-செயற்கை நுண்ணறிவு (AI) உள்ளிட்ட நவீன தொழில்நுட்பத்துடன் இலங்கையின் விவசாயத்தில் புதிய மாற்றத்தை ஏற்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும், அதற்குத் தயாராக உள்ள   தனியார் துறை தொழில்முனைவோருக்குத்  தேவையான ஒத்துழைப்பை வழங்கத் தயாராக இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe announces plans to revolutionize agriculture with AI and modern tech, inviting private sector collaboration. The initiative targets 100 divisions for modernization, spotlighted during his visit to Kegalle's innovative AI-powered greenhouse.
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்திற்காக 100 பிரதேச செயலாளர் பிரிவுகள் தெரிவு செய்யப்பட்டுள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-செயற்கை நுண்ணறிவு தொழில்நுட்பத்தைப் பயன்படுத்தி இலங்கையில் முதன்முறையாக நிர்மாணிக்கப்பட்ட  பசுமை இல்லத்தை பார்வையிடுவதற்காக இன்று (17) கேகாலை பகுதிக்கு சென்ற போதே ஜனாதிபதி இதனைத்  தெரிவித்தார். R
+President Ranil Wickremesinghe said the government is planning to make a new change in the agriculture of Sri Lanka with modern technology, including artificial intelligence (AI) and is ready to cooperate with the private sector entrepreneurs who are ready.
+
+The President also noted that 100 Divisional Secretariat Divisions have been selected for the agricultural modernization program.
+
+The President said this when he visited the Kegalle area today (17) to visit the Green House, which was built for the first time in Sri Lanka using artificial intelligence technology.. Remble
 
 ◼️
 
 [Data](articles/882ea463.json)
 
+[Extended Data](ext_articles/882ea463.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුව මැයි 22 රැස්වෙයි
+### Sancharaka Udawa 2024
+
+*2024-05-17 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sancharaka-Udawa-2024/110-282813) · `en`
+
+The highly anticipated 11th edition of ‘Sancharaka Udawa 2024,’ organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO), was launched today (17) and will be held until tomorrow (18) at the BMICH. This event promises to be a significant milestone in the growth of the industry. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/6102773f.json)
+
+---
+
+### May 22 gathers on May 22
 
 *2024-05-17 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196726) · `si`
 
-පාර්ලිමේන්තුව මැයි 22 වැනි බදාදා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+Parliament meets on May 22, addressing economic issues as decided by the Parliamentary Affairs Committee under Speaker Mahinda Yapa Abeywardena.
 
-පසුගිය මැයි 14 වනදා කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මේ බව තීරණය වී ඇත.
+🟩
 
-මේ අනුව මැයි 22 වනදා පෙව 9.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර මැයි 14 දිනැතිව ගැසට්පත්‍රයේ පළ ‍කර ඇති ‘ආර්ථික පරිවර්තන’ සහ ‘රාජ්‍ය මූල්‍ය කළමනාකරණ’ නැමැති පනත් කෙටුම්පත් දෙක එදින පළමුවර කියවීම පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+The Secretary General of Parliament Kushani Rohanadera said that Parliament will meet on Wednesday, May 22.
 
-අනතුරුව පෙව 9.45 සිට පව 5.30 දක්වා විරුද්ධ පාර්ශ්වය විසින් ඉදිරිපත් කිරීමට නියමිත සභාව කල්තැබීමේ යෝජනාවට අනුව විවාදය පැවැත්වීමට ද පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණයවූ බව මහලේකම්වරිය වැඩිදුරටත් පැවසුවාය.
+This has been decided at the Committee on Parliamentary Affairs at the Parliament He was chaired by Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the Parliament will meet to meet the two 'Economic Resvertless' and the 'Economic Management', published in the Gazette on May 14 and the 14th of May.
+
+According to the Secretary General of the House to promote the proposal to propose to be held at the Parliamentary Affairs Committee on the proposal to be presented to the opposition from 9.45 to 9.30 am.
 
 ◼️
 
 [Data](articles/d06093ad.json)
+
+[Extended Data](ext_articles/d06093ad.ext.json)
 
 ---
 
@@ -2207,37 +2249,5 @@ The people who live in fishing work have been built to provide kerosene to Keros
 [Data](articles/c56b744f.json)
 
 [Extended Data](ext_articles/c56b744f.ext.json)
-
----
-
-### Lawmakers must note that stars in galaxy are dead - EDITORIAL
-
-*2024-05-17 00:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lawmakers-must-note-that-stars-in-galaxy-are-dead-EDITORIAL/172-282772) · `en`
-
-Sri Lanka is divided politically at present. Many years ago this country was divided in terms of race. Politics seems to be the cause of all this evil. Now we are told to prepare for a presidential election which is expected this year.
-
-Exactly eight days ago (May 9) people of this country were reminded that two years had passed after the ‘Aragalaya’ (Protest) took place. Largely these protests were held in and around Colombo; some protests took place in other places outside Western province, but not with the same aggression and success. Talking about Colombo, there is a hotel put up near Galle Face, where the main protest took place. That hotel was opened on April 24 (2024) and among the invitees and special guests were individuals who the protesters wanted out of politics.
-
-...
-
-[Data](articles/f642be79.json)
-
-[Extended Data](ext_articles/f642be79.ext.json)
-
----
-
-### Nakba continues amid Zionist newspeak
-
-*2024-05-17 00:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nakba-continues-amid-Zionist-newspeak/172-282771) · `en`
-
-Palestinian protesters take to the streets of the West Bank city of Ramallah on Wednesday to mark the 76th anniversary of the “Nakba” or “Catastrophe”, which sparked the exodus of hundreds of thousands of Palestinians in 1948. (AFP)
-
-Nakba is indisputably a living testimony to the brutality of the beast among humans. The fact that it has been committed against victimised Palestinians for the past 76 years, again and again, is a damning indictment of the United Nations system. It is not a mere accusation to say that the United States, the United Kingdom, and their partners are as directly responsible as Israel for letting Nakba happen in 1948 and continuing it for 76 years with massacre after massacre and displacement after displacement. It is a fact.
-
-...
-
-[Data](articles/ae01731e.json)
-
-[Extended Data](ext_articles/ae01731e.ext.json)
 
 ---

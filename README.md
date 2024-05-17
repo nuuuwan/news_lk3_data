@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 19:51:57**
+As of **2024-05-17 20:03:39**
 
 ## Newspaper Stats
 
-*Scraped **24,698** Articles*
+*Scraped **24,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,85 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,114
-adaderanalk | 2,862
+adaderanalk | 2,863
 tamilmirrorlk | 2,897
 virakesarilk | 3,724
-dailymirrorlk | 3,873
+dailymirrorlk | 3,874
 adaderanasinhalalk | 3,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,697 (100.0%) of 24,698 articles have been extended.
+24,698 (100.0%) of 24,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### තිදෙනෙකුට මරු කැඳවූ රතුපස්වල ඛේදවාචකය
+### Facebook, Instagram suspected to be ’too addictive’
+
+*2024-05-17 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facebook-Instagram-suspected-to-be-too-addictive/108-282827) · `en`
+
+BBC-The European Union is investigating Facebook and Instagram over whether they are so addictive that they are having "negative effects" on the "physical and mental health" of children.
+
+It will also scrutinise if they have done enough to check whether users are old enough to use them, and how content is recommended to children.
+
+A number of big tech firms are now under investigation for potential breaches of the EU's tough new Digital Services Act (DSA), and could be fined up to 6% of annual global turnover.
+
+Meta, which owns both platforms, says it has "spent a decade developing more than 50 tools and policies" to protect children.
+
+This is a challenge the whole industry is facing, and we look forward to sharing details of our work with the European Commission," it said.
+
+in September, Meta provided regulators with a report on the risks associated with its platforms, as required under the DSA.
+
+...
+
+[Data](articles/0ed25ce6.json)
+
+---
+
+### Ella–Wellawaya road temporarily closed again
+
+*2024-05-17 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99287/ellawellawaya-road-temporarily-closed-again) · `en`
+
+The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. today (17) until 6.00 a.m. tomorrow (18) due to prevailing inclement weather conditions, the Badulla District Secretary announced.
+
+◼️
+
+[Data](articles/6178eda1.json)
+
+---
+
+### Rathupaswala tragedy that killed three
 
 *2024-05-17 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196733) · `si`
 
-ආන්දෝලනාත්මක රතුපස්වල වෙඩිතැබීමේ නඩුවේ විත්තිකරුවන් වූ හමුදා සාමාජිකයන් සිව්දෙනා නිදොස්කොට නිදහස් කිරීමට ගම්පහ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) නියෝග කළේය.
+In a landmark ruling, a Sri Lankan High Court acquitted four military personnel involved in the Rathupaswala tragedy of 2013, which resulted in three deaths during a protest against a private factory's waste disposal practices. The trial spanned over 11 years, involving 65 witnesses and covering 242 pages of proceedings. The court found insufficient evidence linking the defendants to direct orders to shoot, despite acknowledging the tragic outcome.
 
-ඒ, වසර 11කට වැඩි කාලයක් සිදුකෙරුණු දීර්ඝ නඩු විභාගයකින් අනතුරුවය.
+🟩
 
-ගම්පහ, රතුපස්වල ප්‍රදේශයේ පෞද්ගලික කර්මාන්ත ශාලාවකින් පිටවන අපද්‍රව්‍ය මඟින් පානීය ජලය අපවිත්‍ර වී ඇති බව පවසමින්, එම ප්‍රදේශයේ ජනතාව වැලිවේරිය නගරයේදී 2013 අගෝස්තු 01 වනදා විරෝධතාවක නිරත විය.
+The three-member High Court Judge Madulla today (16) ordered the acquitted of the four military personnel.
 
-පිරිසිදු පානීය ජලය ඉල්ලා සිදුකරන ලද විරෝධතාව විසුරුවා හැරීමට හමුදා නිලධාරින් වෙඩිතැබීම් සිදුකළ අතර එහිදී පාසල් සිසුන් දෙදෙනෙකු සහ තවත් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව පනහකට වැඩි පිරිසක් තුවාල ලැබීය.
+It was after a long trial that was over 11 years.
 
-සිද්ධිය සම්බන්ධයෙන් යුද හමුදා නිලධාරින් වූ බ්‍රිගේඩියර් අරුණ දේශප්‍රිය ගුණවර්ධන, සැරයන් ඩිංගිරි අරුණගේ සිරිසේන, කෝප්‍රල් ජේ.එම්. තිලකරත්න සහ කෝප්‍රල් ලලිත් ග්‍රේ යන හමුදා සාමාජිකයන්ට එරෙහිව නීතිපතිවරයා ගම්පහ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+The people of the area were protesting on August 1, claiming that the waste that leaving a private factor in Gampaha, Gampaha.
 
-ඒ, මිනීමැරීම, මිනීමැරීමට තැත් කිරීම, බරපතළ තුවාල සිදුකිරීම හා සුළු තුවාල සිදුකිරීම ඇතුළු අධි චෝදනා 94ක් යටතේය.
+Army officers were shot dead to disperse the protests that have been demanded to drink.
+
+Army officers Brigadier Aruna Deshapriya Gunawardena, Sergeant Dingiri Aruna's Sirisena, Corporal JM. Tillakaratne and Corporal Lalith Gray, the Attorney General has been indicted in the Gampaha High Court.
+
+This is in 94 overstandmats, including murder, serious injuries, and minor injuries.
+
+The total proceedings of 242 pages was announced for nearly 4 hours, High Court Judge Nimal Ranaweera, Sahan Mapa Bandara and Rushmi Singappuli.
+
+Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated the verdict.
 
 ...
 
 [Data](articles/953b3e44.json)
+
+[Extended Data](ext_articles/953b3e44.ext.json)
 
 ---
 
@@ -2279,45 +2323,5 @@ According to police, they are deported to Pakistan to implement the sentence.
 [Data](articles/d89f2ed5.json)
 
 [Extended Data](ext_articles/d89f2ed5.ext.json)
-
----
-
-### Inquiry launched into another O/L exam related incident
-
-*2024-05-17 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99265/inquiry-launched-into-another-ol-exam-related-incident) · `en`
-
-The Department of Examination has commenced an investigation related to an incident where a group of students had not received a section of the Geography question paper during the 2023 (2024) G.C.E. Ordinary Level examination.
-
-The Department of Examination has questioned the officials of the relevant examination center at the Al-Aman Muslim Maha Vidyalaya in Minuwangoda in relation to this incident.
-
-In response to a query from Ada Derana, a spokesperson for Education Ministry assured that measures will be taken to prevent any injustices to the affected students.
-
-However, many irregularities and issues have been reported with regard to the G.C.E. Ordinary Level examination Examination held this year.
-
-Responding to a question made in this regard, the spokesman mentioned that separate studies will be conducted on the candidates who faced the related incidents and necessary measures will be taken.
-
-◼️
-
-[Data](articles/93b5b98b.json)
-
-[Extended Data](ext_articles/93b5b98b.ext.json)
-
----
-
-### 14 Sri Lankan fishermen arrested by Indian Navy
-
-*2024-05-17 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-Sri-Lankan-fishermen-arrested-by-Indian-Navy/108-282792) · `en`
-
-India, May 17 (The Hindu) - The Indian Navy has arrested 14 Sri Lankan fishermen along with five boats for crossing the International Maritime Boundary Line (IMBL) and for fishing sea cucumber on Thursday, May 16, 2024,
-
-Sources from the Indian Navy said, ICGS Rani Durgavati apprehended five Sri Lankan fishing boats with 14 Sri Lankan crew at 13 nautical mile South East of Point Calimere Light, 7 nautical miles inside Indian waters. The Sri Lankan boats were caught in violation of Maritime Zones of India Act 1981. Approximately 200 kgs of endangered fish species were seized onboard in view of protecting the Indian Exclusive Economic Zone and curbing illegal activities at sea.
-
-Sources said, all the arrested fishermen belong to Paruthithurai in Sri Lanka. They were brought to the Nagapattinam fishing harbor and handed over to the Vedaranyam Marine police on late Thursday.
-
-◼️
-
-[Data](articles/8821c79e.json)
-
-[Extended Data](ext_articles/8821c79e.ext.json)
 
 ---

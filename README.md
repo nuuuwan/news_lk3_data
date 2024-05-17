@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 13:03:36**
+As of **2024-05-17 13:18:30**
 
 ## Newspaper Stats
 
-*Scraped **24,627** Articles*
+*Scraped **24,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,111
-adaderanalk | 2,850
+adaderanalk | 2,851
 tamilmirrorlk | 2,891
 virakesarilk | 3,706
 dailymirrorlk | 3,862
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,625 (100.0%) of 24,627 articles have been extended.
+24,627 (100.0%) of 24,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Sri Lanka’s macroeconomic policies are starting to bear fruit - IMF
+
+*2024-05-17 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99274/sri-lankas-macroeconomic-policies-are-starting-to-bear-fruit-imf) · `en`
+
+The International Monetary Fund (IMF) has highlighted Sri Lanka’s commendable macroeconomic policies, rapid inflation decline, and steady economic growth.
+
+Addressing a press briefing held on Thursday (16) in the Washington DC, the Director of IMF Communications Julie Kozack said “with respect to Sri Lanka’s economic performance, macroeconomic policies in Sri Lanka are starting to bear fruit. Commendable outcomes include a rapid decline in inflation, robust reserve accumulation and initial signs of economic growth while also preserving stability in the financial system. Overall programme performance has been strong.”
+
+“IMF staff and the Sri Lankan authorities have reached a staff-level agreement on economic policies to conclude the second review of the four-year EFF-supported program and the 2024 Article IV Consultation. Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to about US$337 million in financing”, she added.
+
+...
+
+[Data](articles/2c37e5bf.json)
+
+---
 
 ### Two arrested with over 1,000 mobile phones and 200 pen drives at BIA
 
@@ -45,6 +61,8 @@ The value of the confiscated items found in the possession of the suspects is es
 ◼️
 
 [Data](articles/d1055e01.json)
+
+[Extended Data](ext_articles/d1055e01.ext.json)
 
 ---
 
@@ -63,6 +81,8 @@ Ashley de Silva said that Kusal's visa has not been rejected and the US embassy 
 ...
 
 [Data](articles/0b32b574.json)
+
+[Extended Data](ext_articles/0b32b574.ext.json)
 
 ---
 
@@ -2159,37 +2179,5 @@ Responding to a question whether the SLPP will not approve of the action plans o
 [Data](articles/7c802356.json)
 
 [Extended Data](ext_articles/7c802356.ext.json)
-
----
-
-### The reason for the clash that Prasanna Ranaweera was found in Katunayake
-
-*2024-05-16 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196694) · `si`
-
-Prasanna Ranaweera, Sri Lanka's State Minister of Small and Medium Enterprise Development, clashed at Katunayake airport over entry restrictions for armed guards during his wife's event. He allegedly assaulted an employee handling his wife's luggage and faced resistance from airport security.
-
-🟩
-
-It is reported that Minister of Prasanna Ranaweera has been assaulted by an employee transporting air traffic baggage at the Katunayake airport.
-
-According to airport sources, the State Minister has also threatened several security personnel.
-
-State Minister of Small and Medium Enterprise Development Prasanna Ranaweera had gone to the Katunayake airport for the opening of his wife.
-
-According to airport sources, the public minister has tried to enter the airport at the main door with firearms' guards with firearms. "
-
-Airport security guards have told the State Minister that the firearms of the Minister's bodyguards cannot be allowed.
-
-According to Airport, Minister of State Prasanna Ranaweera has assaulted Porter's wife's baggage from the State Minister's wife.
-
-It is said that the public minister has protested to attack him about Rs.
-
-The State Minister had left the airport premises following a cheeky hitting the Porturb and had gone to the airport, a resident of Kurunegala.
-
-...
-
-[Data](articles/394b925e.json)
-
-[Extended Data](ext_articles/394b925e.ext.json)
 
 ---

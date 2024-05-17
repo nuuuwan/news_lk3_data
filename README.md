@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 16:04:13**
+As of **2024-05-17 16:18:30**
 
 ## Newspaper Stats
 
-*Scraped **24,663** Articles*
+*Scraped **24,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,79 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,113
-adaderanalk | 2,857
+adaderanalk | 2,858
 tamilmirrorlk | 2,894
 virakesarilk | 3,714
 dailymirrorlk | 3,866
-adaderanasinhalalk | 3,936
+adaderanasinhalalk | 3,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,659 (100.0%) of 24,663 articles have been extended.
+24,663 (100.0%) of 24,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### ஊர்வலமாக எடுத்துச் செல்லப்படும் சீதையம்மனுக்கான சீர்வரிசை பொருட்கள்
+### Special traffic plan for War Heroes’ Day ceremony
+
+*2024-05-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99282/special-traffic-plan-for-war-heroes-day-ceremony) · `en`
+
+The National War Heroes’ Day ceremony is scheduled to be held on Saturday (19) evening at the Parliament Ground and a special traffic plan to be implemented on that day was announced by Police today.
+
+Accordingly, the entry and exit lanes towards Parliament Road are closed from Polduwa Junction and Kiyanham Junction from 03.00 p.m. on May 19.
+
+Accordingly, motorists are advised to use the following alternate routes during the closure of the above road.
+
+◼️
+
+[Data](articles/430d1871.json)
+
+---
+
+### හොඳ නැති වැඩක් වුණා - ප්‍රසන්න රණවීර
+
+*2024-05-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196724) · `si`
+
+කටුනායක බණ්ඩාරණායක ජාත්‍යන්තර ගුවන් තොටුපළේදී පෝටර්වරයෙකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් ප්‍රකාශයක් ලබාගැනීම සඳහා රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා අද ගුවන්තොටුපළ පොලිසිය වෙත කැඳවා තිබුණි.
+
+එහිදී අමාත්‍යවරයාගෙන් පැයක පමණ කාලයක් ප්‍රකාශයක් පොලීසිය විසින් සටහන් කරගෙන තිබේ.
+
+කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය සංවර්ධන රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා පසුගිය 14 වනදා අළුයම් කාලයේදී සිය බිරිඳ විදෙස්ගත කිරීම සඳහා කටුනායක ගුවන්තොටුපොළට පැමිණි අවස්ථාවේදී මෙම නොසන්සුන් තත්ත්වය හටගත්තේය.
+
+ඊට හේතුවී තිබුණේ, සේවා සපයන පෝටර්වරයෙකුට රුපියල් 1000ක මුදලක් ගෙවිය යුතු බවට ගුවන්තොටුපොළ තුළ පුවරු මගින් සඳහන් කර ඇති පසුබිමක රාජ්‍ය අමාත්‍යවරයා විසින් පෝටර්වරයෙකුට  රුපියල් 700ක මුදලක් ලබාදීම සම්බන්ධයෙන් ඇතිවූ මතභේදයකි.
+
+එම අවස්ථාවේදී රාජ්‍ය අමාත්‍යවරයා පෝටර්වරයාට පහරදෙන ආකාරය ආරක්ෂක කැමරාවල සටහන්ව තිබුණි.
+
+පොලීසියෙන් පිටතට පැමිණි රාජ්‍ය අමාත්‍යවරයා පවසා ඇත්තේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු  වශයෙන් තමන් අතින් එදා "සාමාන්‍යයෙන් හොඳ නැති වැඩක්" සිදු වූ බවය.
+
+එහිදී පහරකෑමට ලක්වූ පෝටර්වරයා මෙතෙක් සේවයට වාර්තාකර නොමැති බවද සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/2d0b0076.json)
+
+---
+
+### Orthodox items for the procession
 
 *2024-05-17 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊர்வலமாக-எடுத்துச்-செல்லப்படும்-சீதையம்மனுக்கான-சீர்வரிசை-பொருட்கள்/76-337456) · `ta`
 
-நுவரெலியா - சீதாஎலிய சீதையம்மன் ஆலய மஹா கும்பாபிஷேகப் பெருவிழாவிற்கான  சீர்வரிசை பொருட்களை தீர்த்த ஊர்வலமாக எடுத்துச் செல்லும் பூஜை வழிபாடுகள் இன்று(17) காலை கொழும்பு மயூரபதி ஆலயத்தில் இடம்பெற்றது.
+The Sita Eliya Seethayamman Temple in Nuwara Eliya held its Maha Kumbabhishekam Festival, with sacred water imported from India on the 15th and consecrated at the Mayurapathy Temple in Wellawatte.
 
-இதேவேளை, சீதாஎலிய சீதையம்மன் ஆலய கும்பாபிஷேகத்திற்கான புனித நீர் கடந்த 15ஆம் திகதி இந்தியாவில் இருந்து எடுத்துவரப்பட்டு வெள்ளவத்தை மயூரபதி ஆலயத்தில் வைக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+🟩
+
+Nuwara Eliya - Sita Eliya Seethayamman Temple Maha Kumbabhishekam Festival
+
+Meanwhile, the holy water for the Kumbabhishekam of the Sita Eliya Seethayamman Temple was brought from India on the 15th and placed at the Mayurapathy Temple in Wellawatte.. Remble
 
 ◼️
 
 [Data](articles/53b66ecb.json)
+
+[Extended Data](ext_articles/53b66ecb.ext.json)
 
 ---
 
@@ -86,21 +132,27 @@ President’s Counsel Kalinga Indatissa, who appeared on behalf of the defendant
 
 ---
 
-### காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு
+### Increase in wind speed - sea turbulence
 
 *2024-05-17 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிப்பு-கடல்-கொந்தளிப்பு/175-337455) · `ta`
 
-காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 60 - 70 கிலோ மீற்றர் வரை அதிகரித்து வீசுவதுடன், கல்பிட்டி, கொழும்பு, காலி, ஹம்பாந்தோட்டை முதல் பொத்துவில் வரையான கடற்பரப்புகளில் கடல் கொந்தளிப்பாக காணப்படும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Wind speeds may rise to 60-70 km/h, causing sea turbulence off Kalpitiya to Pottuvil. Heavy rain or storms expected. Fisheries and maritime advised to be cautious. Pre-monsoon conditions also affecting national weather.
 
-இந்த கடற்பரப்புகளில் அவ்வப்போது பலத்த மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மீனவ மற்றும் கடல்சார் சமூகம் இது தொடர்பில் அவதானம் செலுத்துமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக்கொண்டுள்ளது.
+The atmospheric department has announced that the speed of the wind will increase from time to time to 60 to 70 km / h, with sea turbulence in the seas from Kalpitiya, Colombo, Galle, Hambantota to Pottuvil.
 
-இதேவேளை, நாட்டை சூழ உள்ள கடல் பிராந்தியங்களிலும் தென்மேல் பருவப்பெயர்ச்சிக்கு முன்னரான நிலைமை காரணமாக காற்றும் மழையுடனுமான வானிலை அதிகரித்துக் காணப்படும் என எதிர்வு கூறியுள்ளமை குறிப்பிடத்தக்கது. R
+The Department of Meteorology said in a statement issued by the Department of Meteorology that there would be heavy rainfall or thunderstorms in these seas.
+
+The Department of Meteorology has asked the fisheries and maritime community to pay attention to this.
+
+Meanwhile, in the country's marine regions, the pre -souvenir monsoon conditions will increase the weather and rainfall weather in the country.. Remble
 
 ◼️
 
 [Data](articles/444b7ab6.json)
+
+[Extended Data](ext_articles/444b7ab6.ext.json)
 
 ---
 
@@ -130,21 +182,27 @@ The police are informed to use the following alternative routes using the above 
 
 ---
 
-### පාරකින් භාගයක්ම නාය යයි
+### Half is landslides in a road
 
 *2024-05-17 15:27:45* · [`adalk`](https://www.ada.lk/breaking_news/පාරකින්-භාගයක්ම-නාය-යයි/11-409696) · `si`
 
-පැවති ධාරාණිපාත වර්ෂාව සමග අද 17 අලුයම  බණ්ඩාරවෙල  අඹදණ්ඩේගම  ප්‍රදේශයේ විශාල නායාමක් සිදුවීමෙන් අඹදණ්ඩේගම  පිටවලපතන ගම්මානයට යාමට ඇති මාර්ගයද සම්පූර්ණයෙන් නාය ගොස් ඇතැයි   බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ පැවසීය.
+Road to Petveramane village in Bandarawela, Sri Lanka, fully washed out due to heavy rains. A 200-meter-long hut along the route collapsed. NBRO inspecting damage; Pithththana village's road also affected.
 
-මෙම මාර්ගයේ මීටර් දෙසීයක් පමණ දිගට දිවෙන විශාල පැල්මක් ද ඇතිවී ඇති  අතර තවදුරටත් වර්ෂාව පැවතිය
+🟩
 
-හොත් එම මාර්ගය විශාල වශයෙන් හානි වන බවද පිටවෙලපතන ගම්මානයේ  මිනිසුන්ගේ ගමන්මාර්ගය සම්පූර්ණයෙන් ඇන හිටින බවද ආපදා කළමනාකරණ මධ්‍යස්ථානයේ පැවසීය.
+The road to the Petveramane village in Ambadandaragama area in Bandarawela has been completely launched today with the large number of heavy rains.
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය මෙම  ස්ථානය පරීක්ෂා කර නිරීක්ෂණ වාර්තාවක් ලබාදීමට නියමිත බවද බදුල්ල  ආපදාකළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+There was also a huge hut that runs about two hundred meters long in this route and no further rain
+
+The Disaster Management Center said that the road to the people of Pithththana village will be completely damaged.
+
+The National Building Research Organization (NBRO is to be inspected and submitting a surveillance report said.
 
 ◼️
 
 [Data](articles/2bc4b8f9.json)
+
+[Extended Data](ext_articles/2bc4b8f9.ext.json)
 
 ---
 
@@ -240,21 +298,27 @@ The destruction of the first drug in the fetish is due to be chaired by Tiran Al
 
 ---
 
-### முள்ளிவாய்க்கால் கஞ்சி விநியோகித்த நால்வருக்கு பிணை
+### Mullivaikkal bail for four people who distributed porridge
 
 *2024-05-17 14:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-கஞ்சி-விநியோகித்த-நால்வருக்கு-பிணை/175-337454) · `ta`
 
-சேனையூர் பிள்ளையார் கோவிலில் வைத்து சென்ற 12 ஆம் திகதி,முள்ளிவாய்க்கால் கஞ்சி வழங்கியமைக்காக,சம்பூர் பொலிஸாரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த நால்வரும் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Four individuals arrested for distributing Mullivaikkal Kanji at a temple were granted bail by the Muttur court after the case, initially filed under the ICCPR Act, was withdrawn by the opposing party.
 
-நவரெட்ணராஜா ஹரிகரகுமார்(43), கமலேஸ்வரன் விஜித்தா(40), கமலேஸ்வரன் தேமிலா(22), செல்வ வினோத்குமார் சுஜானி(40)ஆகிய நால்வரும் நேற்று(17) மூதூர் நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டனர்.
+🟩
 
-தலா ஒரு இலட்சம் ரூபாய் சரீரப்பிணையில் இவர்களை மூதூர் நீதிபதி தஸ்னீம் பெளசான்பானு விடுவித்தார்.அத்துடன் வழக்கு இம்மாதம் 27 ஆம் திகதிக்கு ஒத்தி வைக்கப்பட்டது.
+Four persons who were arrested and interrogated by the Sampur police have been released on bail for the supply of Mullivaikkal Kanji on the 12th of this month at the Senayoor Pillaiyar Temple.
 
-சம்பூர் பொலிஸார் இவ் வழக்கை ஐ.சி.சி.பீ.ஆர்.சட்டத்தின் கீழ் முன்வைத்திருந்த போதும்,நேற்று  இவ் வழக்கு மீளவும் நகர்த்தல் பத்திரம் மூலம் எதிராளிகள் தரப்பினால் அழைக்கப்பட்ட போது தாம் முன்னர் முன்வைத்த சட்டப்பிரிவின் அடிப்படையிலான குற்றச்சாட்டை  விலக்கிக் கொள்வதாக சம்பூர் பொலிஸார் நீதிமன்றத்தில் தெரிவித்தனர்.
+Naveratnarajah Harigarakumar (43), Kamaleswaran Vijitha (40), Kamaleswaran Thamila (22) and Selvin Vinod Kumar Sujani (40) were released on bail by the Muttur court yesterday.
+
+Muttur Judge Dasneem Bausanbanu acquitted them in a body of Rs.
+
+The Sampur police told the court that the case was filed under the ICCPR Act, but yesterday the case was withdrawn by the opponents by the opponents.
 
 ◼️
 
 [Data](articles/e90d79f0.json)
+
+[Extended Data](ext_articles/e90d79f0.ext.json)
 
 ---
 
@@ -2153,47 +2217,5 @@ The Symposium was attended by members of the legal community and law students of
 [Data](articles/490f0672.json)
 
 [Extended Data](ext_articles/490f0672.ext.json)
-
----
-
-### Strong Q4 net profit growth boosts Teejay Lanka’s outlook for year ahead
-
-*2024-05-17 00:48:41* · [`dailyftlk`](https://www.ft.lk/business/Strong-Q4-net-profit-growth-boosts-Teejay-Lanka-s-outlook-for-year-ahead/34-761907) · `en`
-
-Strong net profit growth in the final quarter of 2023-24 has enabled Teejay Lanka PLC to end the financial year on an optimistic note despite the impacts of the appreciation of the Rupee, which contributed to its 12-month results falling below those of the preceding year
-
-Sri Lanka’s first multinational textile manufacturer has reported net profit of Rs. 549.1 million for the three months ending 31 March 2024, up 260% over the corresponding quarter of the previous year and a 15% improvement over the preceding quarter.
-
-Despite an increase in sales volumes, the Group’s revenue for the quarter, at Rs 15.3 billion, was down 4% over the figure for the third quarter of the year and 12% lower than the revenue of the corresponding quarter of the previous year. This was due to the appreciation of the Sri Lanka Rupee.
-
-...
-
-[Data](articles/82beda69.json)
-
-[Extended Data](ext_articles/82beda69.ext.json)
-
----
-
-### Mano criticises International Community’s failure to support SL’s Tamils
-
-*2024-05-17 00:47:27* · [`dailyftlk`](https://www.ft.lk/news/Mano-criticises-International-Community-s-failure-to-support-SL-s-Tamils/56-761906) · `en`
-
-Expresses outrage over the arrest of Tamil women for commemorating loved ones lost due to war
-
-Questions actions of Police, emphasising importance of Tamil community’s right to remember their loved ones
-
-Criticises UNHRC for failing to ensure the basic right of commemorating the dead
-
-Suggests unity between Tamil and Sinhalese to address shared concerns and commemorate those lost in the war
-
-Democratic People’s Front (DPF) Member of Parliament Mano Ganesan yesterday condemned both the international community and Sri Lankan authorities following the recent arrest of Tamil women in Sampur, Sri Lanka. Taking to X (formerly Twitter) Ganesan criticised the international community, alleging its failure to support the Tamil community throughout Sri Lanka’s turbulent history.
-
-“The international community has completely failed the Tamil people of Sri Lanka,” remarked MP Mano Ganesan in a recent statement.
-
-...
-
-[Data](articles/7ed70767.json)
-
-[Extended Data](ext_articles/7ed70767.ext.json)
 
 ---

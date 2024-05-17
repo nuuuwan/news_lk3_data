@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 09:03:39**
+As of **2024-05-17 09:18:35**
 
 ## Newspaper Stats
 
-*Scraped **24,588** Articles*
+*Scraped **24,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,74 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,413
 dailyftlk | 1,450
-adalk | 2,108
-adaderanalk | 2,841
+adalk | 2,109
+adaderanalk | 2,842
 tamilmirrorlk | 2,889
 virakesarilk | 3,696
 dailymirrorlk | 3,856
-adaderanasinhalalk | 3,920
+adaderanasinhalalk | 3,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,586 (100.0%) of 24,588 articles have been extended.
+24,588 (100.0%) of 24,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### ස්මාර්ට් ෆෝන් නිසා දරුවන්ගේ සරසවි අධ්‍යාපනයත් කඩාකප්පල්වීමේ ප්‍රවණතාවයක්
+### රතුපස්වල නඩු තීන්දුව අද
+
+*2024-05-17 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196707) · `si`
+
+පිරිසිදු ජලය ඉල්ලා උද්ඝෝෂණය කළ ගම්පහ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර්වරයෙකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඬුල්ල හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද (17) ප්‍රකාශයට පත්කිරීමට නියමිතය.
+
+මීට වසර 11කට පෙර මෙම සිදුවීම වාර්තා වූ අතර, නීතිපතිවරයා විසින් මෙම නඩුව පවරා තිබිණි.
+
+◼️
+
+[Data](articles/ff3e5312.json)
+
+---
+
+### Person dies after being hit by train in Matara
+
+*2024-05-17 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99264/person-dies-after-being-hit-by-train-in-matara) · `en`
+
+A person has reportedly died after being hit by a train traveling from Matara to Galle.
+
+The accident had occurred near the Nupe railway crossing in Matara last evening (16).
+
+Police said that the identity of the deceased has not been confirmed as of yet.
+
+The body has been placed in the mortuary of the Matara Hospital.
+
+◼️
+
+[Data](articles/d295a2a1.json)
+
+---
+
+### Smartphones tend to sabotage their children's university education
 
 *2024-05-17 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196706) · `si`
 
-ජංගම දුරකථනයට ඇබ්බැහිවීම හරහා ඇතැම් සිසුන් තම විශ්වවිද්‍යාල අධ්‍යයන කටයුතු පවා අතරමඟ නතර කර ඇති බව අනාවරණය වී තිබේ.
+Smartphones distract students from university education, leading some to drop out. Prof. Devika Jayathilake advises parents to limit phone use, emphasizing the importance of outdoor activities and environmental engagement.
 
-ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ මානව විද්‍යා අධ්‍යයන අංශයේ  ජ්‍යේෂ්ඨ මහාචාර්ය දේවිකා යසාංජලි ජයතිලක මහත්මිය සඳහන් කළේ දරුවන් ජංගම දුරකථන භාවිතය සම්බන්ධයෙන් මව්පියන් වැඩි සැලකිල්ලක් දැක්විය යුතු බවය.
+🟩
 
-ජංගම දුරකථනය ලබාදීම වෙනුවට සිදුකළ යුත්තේ දරුවන් ක්‍රීඩා සෞන්දර්ය සඳහා සහ පරිසරය රසවිඳීමට හුරුකරවීම බවද  මහාචාර්ය දේවිකා යසාංජලි ජයතිලක මහත්මිය සඳහන් කළාය.
+It has been revealed that some students have even stopped through their university studies through the mobile phone.
+
+Senior Professor Devaka Yoathmansubeli Jayatilakee stated that the parents should be more concerned about the use of mobile phones.
+
+Prof. Devika Jayathilake said that children should be familiar to enjoy sports aesthetic and the environment.
 
 ◼️
 
 [Data](articles/1650ffe9.json)
+
+[Extended Data](ext_articles/1650ffe9.ext.json)
 
 ---
 
@@ -63,6 +101,8 @@ In political circles, it is widely seen as inducements being offered to parliame
 ...
 
 [Data](articles/aaade50f.json)
+
+[Extended Data](ext_articles/aaade50f.ext.json)
 
 ---
 
@@ -1081,6 +1121,20 @@ Due to heavy rains in Kandy this evening, the Kandy Railway Station and many oth
 [Data](articles/cc63935f.json)
 
 [Extended Data](ext_articles/cc63935f.ext.json)
+
+---
+
+### රත්නපුර හිටපු නගරාධිපතිගේ නැතිවූ පිස්තෝලය කාන්තාවක් ළග
+
+*2024-05-16 19:48:08* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-නැතිවූ-පිස්තෝලය-කාන්තාවක්-ළග/11-409690) · `si`
+
+රත්නපුර හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ සොරාගත් පිස්තෝලය කාන්තාවකගේ සන්තකයේ තිබී රත්නපුර පොලිසිය විසින් අත්අඩංගුවට ගෙන රත්නපුර අතිරේක මහේස්ත්‍රාත් කාංචන කොඩිතුවක්කු මහත්මිය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ පහ බැගින්වූ ශරිර ඇප දෙකක් මත කාන්තාව මුදා හැර තිබේ.
+
+ඉකුත් 10 වැනි දින දින හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ නිවසේ මිදුලේ නවතා තිබූ කැබ් රථයේ තිබී මෙම පිස්තෝලය සොරා ගෙන ගොස් තිබිණ.අත්අඩංගුවට ගත් කාන්තාව නම පුතා විසින් සොරාගත් පිස්තෝලය රුපියල් 40,000 කට උගස් කර ඇති බවත්, එය බේරා ගැනීමට ටිරෝන් අත්තනායක යන අයගෙන් මුදල් ඉල්ලා ගෙන තමාට දෙන බවට පවසා ඇති බවත්, පසුව මේ ගැන ටිරෝන් යන අයට පැවසීමෙන් පසුව තමාට මුදල් ගෙනවිත් දුන් බවත් පොලිසිය හමුවේ පවසා ඇත.
+
+...
+
+[Data](articles/abc7673d.json)
 
 ---
 
@@ -2163,75 +2217,5 @@ The people have been asked to take necessary steps to reduce the damages caused 
 [Data](articles/c42b46a3.json)
 
 [Extended Data](ext_articles/c42b46a3.ext.json)
-
----
-
-### The tribunal removed the ban
-
-*2024-05-16 16:41:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடை-உத்தரவை-நீக்கிய-நீதி-மன்றம்/175-337434) · `ta`
-
-The tribunal lifted a ban after Attorney Sukhas argued on behalf of the opponents in the Muttur court. The ban was initially imposed by the same court but was reversed due to Sukhas' intervention. A man and three women were arrested for violating the ban, and they remain in custody until further notice.
-
-🟩
-
-Attorney Sukhas, who appeared on behalf of the opponents, said that the Muttur court had removed the previous ban issued by the Muttur court on Thursday (16).
-
-He was speaking at the Muttur court on Wednesday (15) by the case of Mullivaikkal Kanji at the Senayoor Pillaiyar temple.
-
-He also said, “Following my argument on behalf of the opponents, Muttur Judge Dasneem Bhusan Banu issued an order on the ban.
-
-A man and three women were arrested by the Sampur police on charges of violating a court ban on the night of the 12th.
-
-They were produced before the Muttur court on the 13th and ordered to be remanded until the 27th of this month.. R. He was not granted bail on Wednesday (15) because of his arrest under the law. ”
-
-◼️
-
-[Data](articles/9ad5dc17.json)
-
-[Extended Data](ext_articles/9ad5dc17.ext.json)
-
----
-
-### Beginning Phonepe UPI payment system in Sri Lanka
-
-*2024-05-16 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183704) · `ta`
-
-Phonepe introduced its UPI payment system in Sri Lanka on May 15, 2024, aiming to boost digital transactions. Launched alongside Indian dignitaries, it's part of a broader initiative started by PM Modi and Sri Lankan President Ranil Wickremesinghe in February 2024. The system has processed over 6,000 payments worth 240 million Sri Lankan rupees since its inception, highlighting India's growing influence in Sri Lanka's tech sector.
-
-🟩
-
-To provide more opportunities for UPI -based services in Sri Lanka, Phonepe Transaction Framework launched Phonepe UPI payment systems in Sri Lanka on May 15, 2024.India's leading digital fee payments process was in the presence of Indian High Commissioner Sree Santosh Ja and Governor of the Central Bank of Central Bank of Sri Lanka, Dr. P Nandalal, with the presence of top officials, payment system providers, business organizations and journalists from the banking sector.
-
-Speaking here, the High Commissioner Jaa said that the ease of digital allowances would further promote the number of tourists visiting Sri Lanka from India.. He also called on Sri Lankan companies to create opportunities to use the UPI system for the posting of hotel, vehicle post and other distribution services.
-
-It is noteworthy that Indian Prime Minister Shree Narendra Modi and Sri Lankan President Ranil Wickremesinghe launched an integrated payment system UPI in Sri Lanka on 12 February 2024.
-
-...
-
-[Data](articles/ff88f36d.json)
-
-[Extended Data](ext_articles/ff88f36d.ext.json)
-
----
-
-### Probe launched into death threats against State Minister Semasinghe
-
-*2024-05-16 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99257/probe-launched-into-death-threats-against-state-minister-semasinghe) · `en`
-
-The Colombo Fort Police Station has initiated an investigation into an alleged incident of death threats made against the State Minister of Finance, Shehan Semasinghe.
-
-The threatening phone call was reportedly received at the State Minister’s office last afternoon (15).
-
-The anonymous caller is said to have threatened Semasinghe, stating he would not be allowed to contest the upcoming elections and that the state minister would be assassinated if the threat is ignored.
-
-Accordingly, the State Minister’s media unit confirmed that Colombo Fort Police have commenced an investigation based on a complaint lodged by State Minister Semasinghe.
-
-Meanwhile, speaking to the media in Habarana, the State Minister revealed that the President has stated that the Presidential Election would be held first, followed by other elections.
-
-◼️
-
-[Data](articles/bb499599.json)
-
-[Extended Data](ext_articles/bb499599.ext.json)
 
 ---

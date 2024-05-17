@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 03:03:27**
+As of **2024-05-18 03:18:32**
 
 ## Newspaper Stats
 
-*Scraped **24,748** Articles*
+*Scraped **24,749** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 220
+colombotelegraphcom | 221
 bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,748 (100.0%) of 24,748 articles have been extended.
+24,748 (100.0%) of 24,749 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -427,6 +427,22 @@ The order was issued in the presence of a Supreme Court session of the fundament
 [Data](articles/f5f88100.json)
 
 [Extended Data](ext_articles/f5f88100.ext.json)
+
+---
+
+### Insights Of A Tumultuous TV Debate & Airport Assault
+
+*2024-05-17 21:29:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/insights-of-a-tumultuous-tv-debate-airport-assault/) · `en`
+
+The recent video clip capturing a TV debate in Sri Lanka has ignited discussions surrounding the conduct and status of parliamentarians within the country. This video went viral and was commented on by several leading Youtubers. The footage reveals a factional dispute between members of the governing party and representatives from the JVP characterized by intense shouting matches, threats, warnings, and the use of indecent language.
+
+Such heated debates are common, but it appears in this instance, that either these members in the debate were briefed to behave in that fashion or the Governing party does not have any spokespersons, leave alone decency and integrity.
+
+Accessible through the provided link now available in many forms, the video shows a firsthand account of the intensity of the confrontation, shedding light on the underlying dignity and democracy  within Sri Lanka’s political landscape.
+
+...
+
+[Data](articles/5c6fece8.json)
 
 ---
 
@@ -2209,29 +2225,5 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 [Data](articles/e2a41ca2.json)
 
 [Extended Data](ext_articles/e2a41ca2.ext.json)
-
----
-
-### Two schoolgirls, youth marooned in floods, rescued
-
-*2024-05-17 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-schoolgirls-youth-marooned-in-floods-rescued/108-282808) · `en`
-
-Badulla, Colombo 17 (Daily Mirror)- A youth and two schoolgirls who were marooned due to floods during their visit to Bomburu Ella falls in Uva Paranagama on Thursday (16) were rescued by the Ambagasdowa police with the help of the residents of the area.
-
-The youth is 18 years old and the two school girls are 15 years old.
-
-Police said heavy rain is experienced in Welimada at present and the water level in the waterfall has increased creating a flood threat in its surroundings.
-
-The youth and the two girls had been stranded in the right bank of the waterfall when it swelled due to the heavy rain experienced in the afternoon.
-
-However, the police on information from the Police Emergency Service 119 had taken step to rescued them.
-
-Later, the police handed over the youth and the two girls to their parents.
-
-◼️
-
-[Data](articles/f34ace4a.json)
-
-[Extended Data](ext_articles/f34ace4a.ext.json)
 
 ---

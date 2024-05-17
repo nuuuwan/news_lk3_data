@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 04:18:15**
+As of **2024-05-18 04:34:39**
 
 ## Newspaper Stats
 
-*Scraped **24,763** Articles*
+*Scraped **24,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,742
-dailymirrorlk | 3,885
+dailymirrorlk | 3,888
 adaderanasinhalalk | 3,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,763 (100.0%) of 24,763 articles have been extended.
+24,763 (100.0%) of 24,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lanka Navy promotes over 3,000 sailors
+
+*2024-05-18 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-promotes-over-3-000-sailors/108-282874) · `en`
+
+In commemoration of the 15th anniversary of Victory Day, the Sri Lanka Navy has promoted 3,146 senior and junior sailors from the Regular and Voluntary Forces.
+
+The promotions were sanctioned by President and Commander-in-Chief of the Armed Forces, Ranil Wickremesinghe, and executed by the Commander of the Navy, Vice Admiral Priyantha Perera.
+
+◼️
+
+[Data](articles/2e31bd19.json)
+
+---
 
 ### The court stated that the witness in connection with the Vavuniya double murder
 
@@ -965,6 +979,26 @@ The discussion also focused on the hurdles impeding the Provincial Council elect
 [Data](articles/25dc8e11.json)
 
 [Extended Data](ext_articles/25dc8e11.ext.json)
+
+---
+
+### Election Commission urges prompt action on LG polls
+
+*2024-05-17 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-urges-prompt-action-on-LG-polls/155-282828) · `en`
+
+Colombo, May 17 (Daily Mirror) -  In a bid to resolve ongoing electoral issues and ensure the smooth functioning of local governance, the Election Commission has urged the government to hold the Local Government elections as early as possible.
+
+This was discussed and conveyed in a recent meeting held between election commission officials and Prime Minister Dinesh Gunawardena.
+
+During the meeting, the Election Commission also presented the Prime Minister with options for the upcoming Provincial Council elections.
+
+Speaking to Daily Mirror, Election Commission Chairman R.M.A.L. Rathnayake highlighted that these elections could be held under either the existing system or a newly demarcated system, providing flexibility to accommodate various logistical and administrative considerations.
+
+The discussion also focused on the hurdles impeding the Provincial Council elections.
+
+...
+
+[Data](articles/c23e6ee6.json)
 
 ---
 
@@ -2207,55 +2241,5 @@ Meanwhile, in the country's marine regions, the pre -souvenir monsoon conditions
 [Data](articles/444b7ab6.json)
 
 [Extended Data](ext_articles/444b7ab6.ext.json)
-
----
-
-### Notice on traffic restriction restriction restriction
-
-*2024-05-17 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196723) · `si`
-
-Traffic restricted for Ranaviru Day celebration; Heroes Day at Parliament Stadium on 19th. Special traffic plan: entry/exit lanes on parliamentary road from 3 pm. Use alternative routes advised.
-
-🟩
-
-Motor traffic will be restricted for the Ranaviru Day celebration.
-
-Accordingly, the Heroes Day celebrations will be held at the Parliament Stadium on Sunday, 19th.
-
-Police have informed that a special traffic plan will be implemented.
-
-Accordingly, the entry lane and exit lane will be held from 3 pm to the parliamentary road and the parliamentary road.
-
-The police are informed to use the following alternative routes using the above roads.
-
-◼️
-
-[Data](articles/7e3d4ed0.json)
-
-[Extended Data](ext_articles/7e3d4ed0.ext.json)
-
----
-
-### Half is landslides in a road
-
-*2024-05-17 15:27:45* · [`adalk`](https://www.ada.lk/breaking_news/පාරකින්-භාගයක්ම-නාය-යයි/11-409696) · `si`
-
-Road to Petveramane village in Bandarawela, Sri Lanka, fully washed out due to heavy rains. A 200-meter-long hut along the route collapsed. NBRO inspecting damage; Pithththana village's road also affected.
-
-🟩
-
-The road to the Petveramane village in Ambadandaragama area in Bandarawela has been completely launched today with the large number of heavy rains.
-
-There was also a huge hut that runs about two hundred meters long in this route and no further rain
-
-The Disaster Management Center said that the road to the people of Pithththana village will be completely damaged.
-
-The National Building Research Organization (NBRO is to be inspected and submitting a surveillance report said.
-
-◼️
-
-[Data](articles/2bc4b8f9.json)
-
-[Extended Data](ext_articles/2bc4b8f9.ext.json)
 
 ---

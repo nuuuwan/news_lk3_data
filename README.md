@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 07:19:02**
+As of **2024-05-17 07:44:00**
 
 ## Newspaper Stats
 
-*Scraped **24,574** Articles*
+*Scraped **24,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,102 @@ bbccomsinhala | 249
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,331
-economynextcom | 1,411
+economynextcom | 1,413
 dailyftlk | 1,450
 adalk | 2,107
 adaderanalk | 2,840
-tamilmirrorlk | 2,886
+tamilmirrorlk | 2,887
 virakesarilk | 3,696
 dailymirrorlk | 3,855
-adaderanasinhalalk | 3,915
+adaderanasinhalalk | 3,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,573 (100.0%) of 24,574 articles have been extended.
+24,574 (100.0%) of 24,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### වැසි තත්ත්වයේ වැඩිවීමක්
+### දුම්රියක ගැටී පුද්ගලයෙක් මරුට
+
+*2024-05-17 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196703) · `si`
+
+ඊයේ (16) සවස් කාලයේදී මාතර නූපේ රේල් ගේට්ටුව අසලදී මෙම අනතුර සිදුවී ඇත.
+
+මාතර සිට ගාල්ල බලා ධාවනය වූ දුම්රියක එම පුද්ගලයා ගැටී තිබුණි.
+
+පොලීසිය සඳහන් කළේ මියගිය පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බවය.
+
+◼️
+
+[Data](articles/5a08939a.json)
+
+---
+
+### සා/පෙළ භූගෝල විද්‍යා පේපරය ගැනත් පරීක්ෂණයක්
+
+*2024-05-17 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196702) · `si`
+
+මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ භුගෝල විද්‍යා ප්‍රශ්න පත්‍රයේ කොටසක් සිසුන් පිරිසකට ලබානොදීමේ සිද්ධිය සම්බන්ධයෙන් විභාග දෙපාර්තමේන්තුව පරීක්ෂණයක් ආරම්භ කර තිබේ.
+
+මිනුවන්ගොඩ අල්අමීන් මුස්ලිම් විද්‍යාලයේ පිහිටුවා තිබු අදාළ විභාග මධ්‍යස්ථානයේ සේවය කළ නිලධාරීන්ගෙන් මේ පිළිබඳ විභාග දෙපාර්තමේන්තුව ප්‍රශ්න කර ඇති බව සඳහන් ය.
+
+එම ප්‍රශ්න පත්‍රය සඳහා මුහුණ දුන් කිසිදු අපේක්ෂකයෙකුට ආසාධාරණයක් නොවන අයුරින් කටයුතු කරන බව අද දෙරණ කළ විමසීමක දී විභාග දෙපාර්තමේන්තුවේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+මෙවර සාමාන්‍ය පෙළ විභාගයේ ගැටලුකාරී තත්ත්වයන් රැසක් වරින් වර වාර්තා වුණි.
+
+ඒ සම්බන්ධයෙන් කළ විමසීමක දී එම ප්‍රකාශකයා සඳහන් කළේ අදාළ සිදුවීම් සඳහා මුහුණ දුන් අපේක්ෂකයින් පිළිබඳ වෙන වෙනම අධ්‍යයනයන් සිදුකර ඊට අවශ්‍ය පියවර ගන්නා බවය.
+
+◼️
+
+[Data](articles/f489d2ea.json)
+
+---
+
+### WFP, USAID support Sri Lanka focus on disaster management
+
+*2024-05-17 07:00:00* · [`economynextcom`](https://economynext.com/wfp-usaid-support-sri-lanka-focus-on-disaster-management-163426/) · `en`
+
+ECONOMYNEXT – The World Food Program facilitated a forum which provides an opportunity for a national level dialogue to develop and strengthen cooperation among all stakeholders involved in disaster risk reduction activities in Sri Lanka.
+
+“Disaster risk reduction is critical to building a strong community,” Defense Secretary General Kamal Gunaratne said speaking at the 67th National Disaster Management Coordinating Committee held on Thursday.
+
+Sri Lanka is increasingly affected by extreme weather conditions. Warnings have been issued of adverse weather conditions in store for the island this week.
+
+Foreign representatives, heads of United Nations agencies, managers and directors as well as senior officials of the Ministry of Defense and a group of senior officers of the Armed Forces participated at the forum. (Colombo/May17/2024)
+
+◼️
+
+[Data](articles/f5c8e80d.json)
+
+---
+
+### Increase in rain condition
 
 *2024-05-17 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196700) · `si`
 
-ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (17) නිවේදනය කළේය.
+Sri Lanka experiences increased rainfall and wind due to pre-monsoon conditions, affecting western, central, eastern, northern regions, and Matara district. Showers and thundershowers expected, with heavy rains possible. Public urged to prepare for potential damage from storms.
 
-ඒ හේතුවෙන් බස්නාහිර, සබරගමුව, නැගෙනහිර, උතුරු සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල දහවල් 12න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+The Department of Meteorology announced that there is a growth of rain and winds today due to the growing pre-monsoonal weather conditions in Sri Lanka and surrounding areas.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇති වෙයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Eastern, North and Northern and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places elsewhere in the rest of the island.
+
+Some locations in the Western, Sabaragamuwa, Central, Eastern and Uva provinces. Heavy showers will occur at around 100.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/54eebd33.json)
+
+[Extended Data](ext_articles/54eebd33.ext.json)
 
 ---
 
@@ -145,6 +205,22 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 [Data](articles/f4181df1.json)
 
 [Extended Data](ext_articles/f4181df1.ext.json)
+
+---
+
+### மன்னிப்புச் சபையின் செயலாளர் நாட்டிற்கு வருகை
+
+*2024-05-17 02:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்புச்-சபையின்-செயலாளர்-நாட்டிற்கு-வருகை/175-337446) · `ta`
+
+சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் நேற்று நாட்டிற்கு வருகை தந்தார்.
+
+சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்டின் தெற்காசியாவிற்கான முதல் விஜயம் இதுவாகும்.
+
+அக்னெஸ் கலமார்ட் எதிர்வரும் 24 ஆம் திகதி வரை நாட்டில் தங்கியிருப்பார் என அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/7705d455.json)
 
 ---
 
@@ -463,6 +539,22 @@ Despite concerns about declining population in Sri Lanka due to factors like red
 ---
 
 ### 2024-05-16 (Thursday)
+
+### MR doubles down on anti-privatisation even as party members defend reforms
+
+*2024-05-16 23:56:00* · [`economynextcom`](https://economynext.com/mr-doubles-down-on-anti-privatisation-even-as-party-members-defend-reforms-163417/) · `en`
+
+ECONOMYNEXT — Former President and leader of the ruling Sri Lanka Podujana Peramuna (SLPP) Mahinda Rajapaksa has seemingly upped the ante on his anti-privatisation rhetoric, claiming that a majority of his party are opposed to the “sale of national assets”, even as ministers representing the party continue to defend ongoing reforms.
+
+Rajapaksa told reporters on Thursday May 16 following a meeting at the SLPP headquarters in Colombo that 99 percent of the party share his views on the matter.
+
+“It’s not just me, the majority of our party, 99 percent, are of this view,” he said, asked for comment on a recent statement he made declaring his opposition to Sri Lanka’s ongoing International Monetary Fund (IMF)-backed efforts to restructure a number of state-owned enterprises (SOEs).
+
+...
+
+[Data](articles/e80c9ab5.json)
+
+---
 
 ### Over 200 city trees still pose risk to public lives
 
@@ -2135,115 +2227,5 @@ Police are investigating the woman's husband on the basis of information receive
 [Data](articles/4697f58d.json)
 
 [Extended Data](ext_articles/4697f58d.ext.json)
-
----
-
-### Exaggerate the late Consumer Affairs Authority Amendment for 19 years - Cobb Group's instruction
-
-*2024-05-16 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183695) · `ta`
-
-The Consumer Affairs Authority (CAA) faces a 19-year delay in implementing the Consumer Protection Act of 2003, despite instructions from the Committee on Government Responsibility (COPE). This delay has hindered efforts to regulate business practices and protect consumers. The CAA's failure to address issues such as inadequate staff, inefficient market price controls, and delays in implementing necessary amendments has led to criticism and legal challenges. The COPE has called for swift action to rectify these issues, emphasizing the importance of effective regulation and consumer protection.
-
-🟩
-
-The Committee on Government Responsibility (COP) recently instructed the Consumer Affairs Authority (COP) to fulfill the Authority Authority of the Authority Authority, No. 9 of 2003, which is delayed for 19 years.
-
-The instruction was given when the COPE Committee was held under the patronage of Hon. Rohitha Abeygunawardena, Chairman of the Government Responsibility Committee (COP), to consider the reports of the Auditor General of the Consumer Affairs Authority 2021 and 2022.
-
-The Secretary of the Ministry of Commerce said that when the Sri Lankan Customs were focused on preparing a systematic program to carry out a systematic program to carry out a large number of businesses, the Ministry of Commerce had the power to conduct tests on the current law and retail trade.
-
-...
-
-[Data](articles/b6940f95.json)
-
-[Extended Data](ext_articles/b6940f95.ext.json)
-
----
-
-### Fonterra to exit or sell down Sri Lanka unit
-
-*2024-05-16 15:34:00* · [`economynextcom`](https://economynext.com/fonterra-to-exit-or-sell-down-sri-lanka-unit-163380/) · `en`
-
-ECONOMYNEXT – New Zealand’s Fonterra Co-operative Group Ltd said it was planning to fully or partially sell down its Sri Lanka assets as part of a strategy to exit its retail businesses worldwide.
-
-“We have conducted a strategic review which has reinforced the role of our core business,” Chairman Peter McBride said in a statement.
-
-“This is working alongside farmers to collect a sustainable supply of milk and efficiently manufacture products valued by customers, to deliver strong returns to farmer shareholders and unit holders.”
-
-The firm will continue to provide milk components to other food manufacturers and also the food service industry.
-
-We believe we can grow further value for the Co-op by focusing on being a B2B dairy nutrition provider, working closely with customers through our high-performing Ingredients and Foodservice channels,” Chief Executive Miles Hurrell said.
-
-Fonterra will appoint advisors and expects to exit retail businesses in the next 12 to 18 months.
-
-...
-
-[Data](articles/58de9353.json)
-
-[Extended Data](ext_articles/58de9353.ext.json)
-
----
-
-### Sri Lanka’s first-ever Sports Ombudsman appointed
-
-*2024-05-16 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99256/sri-lankas-first-ever-sports-ombudsman-appointed-) · `en`
-
-Retired Special Grade officer of the Sri Lanka Administrative Service (SLAS), W.A. Chulananda Perera has been appointed as the first-ever Sports Ombudsman of Sri Lanka by the Minister of Sports Harin Fernando.
-
-In his new role, Mr. Perera is tasked with conducting independent and impartial inquiries into complaints from individuals aggrieved by any decision or action of any registered national sports association or federation.
-
-Issuing a statement, the Sports Ministry stated that the aggrieved parties must submit a written request to the Sports Ombudsman within 14 days of any such decision or action.
-
-Following a thorough and unbiased examination, the Sports Ombudsman is required to deliver his recommendations to the Minister of Sports via the Director General of Sports within 14 days of receiving the request.
-
-...
-
-[Data](articles/c1b0b0eb.json)
-
-[Extended Data](ext_articles/c1b0b0eb.ext.json)
-
----
-
-### A/L classes for this year’s O/L students to begin on Jun. 4
-
-*2024-05-16 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99255/al-classes-for-this-years-ol-students-to-begin-on-jun-4) · `en`
-
-The Ministry of Education says that G.C.E. Advanced Level classes for the students who sat for the G.C.E. Ordinary Level Examination this year, will commence on June 04, 2024.
-
-The circular to this effect has already been issued by the Education Ministry to education authorities of all provinces.
-
-A media release issued by the Ministry further states that school principals who have not yet received the circular can inquire about it from the respective provincial and zonal education offices while students can obtain more information from the principals of their respective schools.
-
-◼️
-
-[Data](articles/055fe7e7.json)
-
-[Extended Data](ext_articles/055fe7e7.ext.json)
-
----
-
-### Special Committee Appointment to Country Sri Lankans
-
-*2024-05-16 15:17:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாடு-திருப்ப-விசேட-குழு-நியமனம்/175-337429) · `ta`
-
-President Ranil Wickremesinghe has dispatched a committee to Russia to explore potential collaboration. The External Affairs Minister, Taraka Balasuriya, is verifying the number of Sri Lankans reportedly involved in the Russian conflict. Unofficial reports suggest between 600 to 800 Sri Lankans are in Russia, many entering via India. Balasuriya highlights the need to halt this migration due to concerns over human trafficking.
-
-🟩
-
-President Ranil Wickremesinghe has sent a special committee to Russia to investigate the possibility of turning the country to Russia.
-
-External Affairs Minister Taraka Balasuriya has said that the government is currently trying to verify the exact number of Sri Lankans allegedly involved in the war in Russia and Russia.
-
-The Minister of State has issued a directive to send the Ministry of External Affairs, Defense Secretary and former Sri Lanka Ambassador to Russia.
-
-"How many Sri Lankans are currently in Russia, many of them have entered the country through India and Visit visas," Balasuriya said that some of the immigrants would get employment opportunities.
-
-Unofficial sources say that 600 to 800 Sri Lankans are currently in Russia. “This is human trafficking, so the first commandment is to stop the migration of Sri Lankans to the country,” he emphasized.
-
-◼️
-
-[Data](articles/c65379a6.json)
-
-[Extended Data](ext_articles/c65379a6.ext.json)
 
 ---

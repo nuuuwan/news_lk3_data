@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 22:51:36**
+As of **2024-05-17 23:03:28**
 
 ## Newspaper Stats
 
-*Scraped **24,726** Articles*
+*Scraped **24,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,331
 economynextcom | 1,425
 dailyftlk | 1,450
 adalk | 2,115
-adaderanalk | 2,864
+adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,726
 dailymirrorlk | 3,880
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,724 (100.0%) of 24,726 articles have been extended.
+24,726 (100.0%) of 24,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Warning issued over possible floods in several river basins
+
+*2024-05-17 22:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99290/warning-issued-over-possible-floods-in-several-river-basins) · `en`
+
+The Irrigation Department has issued an ‘Amber’ flood warning for possible floods in the low-lying areas of several river basins including Kalu, Kelani, Gin, Nilwala, Deduru Oya, Maha Oya, Attanagalu Oya, Kala Oya and Malwathu Oya, if heavy rains persist over the coming days.
+
+The early flood warning notice has been issued as per the weather forecast issued by the Department of Meteorology this evening (17), that heavy rains exceeding 100 mm per day may occur at some places in the Western, Sabaragamuwa, and North Western provinces as well as Galle and Matara districts.
+
+The warning issued by the Irrigation Department stated that as per the warning and some other information of Department of Meteorology and some other sources, there is a possibility of floods occurring in one or more river basins mentioned as follows:
+
+...
+
+[Data](articles/91199518.json)
+
+---
+
+### Govt. to regulate third-party deposits in senior citizens’ savings accounts
+
+*2024-05-17 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99289/govt-to-regulate-third-party-deposits-in-senior-citizens-savings-accounts) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that the analysis report pertaining to the interest rates applicable to the savings of senior citizens will be handed over to President Ranil Wickremesinghe next week.
+
+Siyambalapitiya revealed this, during a meeting with the committee appointed to conduct a comprehensive analysis and prepare a detailed report on the possibility of increasing interest rates for senior citizens’ savings, held at the Ministry of Finance today (17).
+
+During the meeting, the Finance State Minister instructed the committee to determine the feasible increase in interest rates, considering current cash flows and the country’s economic situation.
+
+Additionally, the need to regularize around 1.1 million accounts owned by citizens over 60 years of age has reportedly been emphasized.
+
+...
+
+[Data](articles/31d9345a.json)
+
+---
 
 ### A horrifying accident in Dehiwala
 
@@ -286,17 +320,25 @@ He further stated that an investigation into the officials carried out at the re
 
 ---
 
-### 2024 ஜனாதிபதி தேர்தல்
+### 2024 presidential election
 
 *2024-05-17 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183818) · `ta`
 
-மக்களினால் தெரிவு செய்யப்படுகின்ற ஜனாதிபதி ஒருவர் ஒரு ஐந்து வருட பதவிக்காலத்துக்கு அதிகாரத்தில் இருப்பார் என்று அரசியலமைப்பு கூறுகிறது. அவர் மரணமடைந்தால், பதவிவிலகினால் அல்லது பதவியில் இருந்து நீக்கப்பட்டால் அவரது எஞ்சிய பதவிக்காலத்துக்கு அதிகாரத்தில் இருப்பதற்கு பாராளுமன்றம் ஒருவரை ஜனாதிபதியாக தெரிவுசெய்யும். அரசியலமைப்பில் குறித்துரைக்கப்பட்டிருக்கும் ஜனாதிபதியின் பதவிக்காலத்தை நீடிப்பதற்கு கொண்டுவரப்படக்கூடிய எந்தவொரு திருத்தச் சட்டமூலமும் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மை வாக்குகளினால் நிறைவேற்றப்படுவதுடன் சர்வஜனவாக்கெடுப்பு ஒன்றில் மக்களின் அங்கீகாரத்தையும் பெறவேண்டியது அவசியமாகும்.
+The 2024 presidential election in Sri Lanka follows a five-year term, amendable only by a two-thirds parliamentary majority. Candidates must be citizens, over 30 but not older than twice the age limit. Voting requires registration. For multi-candidate elections, a simple majority wins; otherwise, preferences are considered. The new president appoints a PM and Cabinet, aiming for a parliamentary majority. Challenges include ensuring a stable government amidst calls for abolishing the executive presidency due to concerns over corruption and misuse of power.
 
-அதிகாரத்தில் இருக்கும் ஜனாதிபதியின் பதவிக்காலம் முடிவடைவதற்கு ஒரு மாதத்துக்கும் குறையாததும் இரு மாதங்களுக்கு மேற்படாததுமான  காலப்பகுதிக்குள் ஜனாதிபதி தேர்தல் நடத்தப்படவேண்டும் என்றும் அரசியலமைப்பு கூறுகிறது.
+🟩
+
+The Constitution says that a president elected by the people will be in power for a five -year term. If he dies, if he resigns or fired from office. Any amendment that can be brought to extend the presidential term in the Constitution is passed by two -thirds of the majority of the votes in Parliament and the recognition of the people in a conference.
+
+The constitution also states that the presidential election should be held within a period of less than a month before the end of the term of office in power and not two months.
+
+Any citizen who has qualifications to take over the presidency can be a recognized political party as a candidate for the presidential election. Otherwise, a member of the Member of Parliament or the already Member of Parliament can be nominated by any other political party or any voter who is named in the voter turnout.
 
 ...
 
 [Data](articles/2917b3b5.json)
+
+[Extended Data](ext_articles/2917b3b5.ext.json)
 
 ---
 
@@ -396,19 +438,27 @@ Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated
 
 ---
 
-### நவீன தொழில்நுட்பத்துடன் விவசாயம் செய்ய முன்வரும் தனியார் தொழில்முனைவோருக்கு அரசாங்கம் முழு ஆதரவு வழங்கும் - ஜனாதிபதி
+### The government will fully support private entrepreneurs who come forward to farm with modern technology - President
 
 *2024-05-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183817) · `ta`
 
-செயற்கை நுண்ணறிவு (AI) உள்ளிட்ட நவீன தொழில்நுட்பத்துடன் இலங்கை விவசாயத்தில் புதிய மாற்றத்தை ஏற்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும், இதில் ஆர்வமுள்ள தனியார் துறை தொழில் முயற்சியாளர்களுக்குத் தேவையான ஆதரவை அரசாங்கம் வழங்கும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+The Sri Lankan government, led by President Ranil Wickremesinghe, is promoting agricultural modernization through the adoption of advanced technologies like AI. This initiative aims to enhance productivity and sustainability in farming across 100 selected Divisional Secretariats. Private entrepreneurs are encouraged to participate, with the government offering support, training, and financial aid. The focus is on increasing food production to meet the growing population's needs while optimizing yields from limited lands.
 
-விவசாய நவீனமயமாக்கல் வேலைத் திட்டத்திற்காக இவ்வருடம் 100 பிரதேச செயலகப் பிரிவுகள் தெரிவு செய்யப்பட்டுள்ளதாக ஜனாதிபதி தெரிவித்தார். இதில் முதற்கட்டமாக 25 பிரதேச செயலகப் பிரிவுகளுக்கும், இரண்டாம் கட்டமாக 75 பிரதேச செயலகப் பிரிவுகளும் விவசாயத்தை நவீனமயப்படுத்தத் தேவையான வசதிகள் வழங்கப்படும் எனவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-இலங்கையில் முதன்முறையாக செயற்கை நுண்ணறிவு தொழில்நுட்பத்தில் கேகாலை நெலுந்தெனிய பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள வேகா காரை உருவாக்கிய கலாநிதி ஹர்ஷ சுபசிங்கவின் பசுமை இல்லத்தைப் பார்வையிடுவதற்காக இன்று (17) சென்றபோதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said the government is planning to bring about a new change in Sri Lankan agriculture with modern technology, including artificial intelligence (AI) and the government will provide the necessary support to the interested private sector entrepreneurs.
+
+The President said that 100 Divisional Secretariats have been selected this year for the Agricultural Modernization Program.. For the first time, the President said that the 25 Divisional Secretariat Divisions and 75 Divisional Secretariats will be provided with the necessary facilities to modernize agriculture.
+
+President Ranil Wickremesinghe said this when he visited the Green House of Dr. Harsha Subasinghe, who built the Vega car built in the Kegalle Nelundeniya area for the first time in Sri Lanka.
+
+Both categories, including the Green House and Open Cultivation, have been carried out in the automated system by AI Grow (AI), which has a 7 year experience in the agricultural sector of the country.
 
 ...
 
 [Data](articles/5d36aed4.json)
+
+[Extended Data](ext_articles/5d36aed4.ext.json)
 
 ---
 
@@ -2227,49 +2277,5 @@ Former Army Commander General (Retired) Mahesh Senanayake has joined the reconci
 [Data](articles/825b8be0.json)
 
 [Extended Data](ext_articles/825b8be0.ext.json)
-
----
-
-### Sirima and Chinese Vice President who opened the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo today: 1973 - 1973!
-
-*2024-05-17 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183761) · `ta`
-
-On May 17, 1973, the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo was inaugurated by Sri Lanka's Prime Minister Sirimavo Bandaranaike, following an invitation from China's Premier Sue N Lai. However, due to unforeseen circumstances, it was her special envoy, Marshal Suu Chiang Shen, who performed the opening ceremony. The construction of BMICH, costing 3 million rupees, involved collaboration between Chinese technicians, workers, Sri Lankan engineers, and laborers.
-
-🟩
-
-The Bandaranaike Memorial International Conference Hall (BMICH) was opened on the same date on May 17, 1973.
-
-It was first announced that the Prime Minister Sirimavo Bandaranaike accepted the invitation of Chinese Prime Minister Sue N Lai and opened the hall.
-
-However, instead of the Chinese prime minister on the day of Vaibhava, his special representative, Marshall Suu Chiang Shen Shen Bandaranaike inaugurated the Hall.
-
-சீன அரசாங்கத்தினால் சீன தொழில்நுட்ப உதவியாளர்கள், சீன தொழிலாளர்கள், இலங்கை பொறியியலாளர்கள் மற்றும் தொழிலாளர்கள் இணைந்து 3 கோடியே 50 லட்சம் ரூபாய் செலவில் பண்டாரநாயக்க மண்டபத்தை  கட்டியதாக கூறப்படுகிறது.
-
-Here are the first pages of the Weerakesari magazine published on May 9, 17 and 18, with a number of issues, including former Prime Minister Sirimavo Bandaranaike's welcome to the Chinese vice president who arrived at the Ratmalana airport.
-
-◼️
-
-[Data](articles/88dbd330.json)
-
-[Extended Data](ext_articles/88dbd330.ext.json)
-
----
-
-### Forbes ‘30 Under 30 Asia’ list celebrates Sri Lanka’s Dinara
-
-*2024-05-17 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99270/forbes-30-under-30-asia-list-celebrates-sri-lankas-dinara) · `en`
-
-Forbes today announced the ninth edition of its “30 Under 30 Asia” list, featuring 300 young entrepreneurs, leaders and trailblazers across the Asia-Pacific region, all under the age of 30, who are leading the transformation of industries and finding innovative ways to navigate new business realities in the region.
-
-The Forbes 30 Under 30 Asia Class of 2024 features 300 notable listees selected across 10 categories, including The Arts (Art & Style, Food & Drink); Entertainment & Sports; Finance & Venture Capital; Media, Marketing & Advertising; Retail & Ecommerce; Enterprise Technology; Industry, Manufacturing & Energy; Healthcare & Science; Social Impact and Consumer Technology.
-
-Among those featured on this year’s list is Dinara Punchihewa, a Sri Lankan-born actress and filmmaker.
-
-...
-
-[Data](articles/0b5116e7.json)
-
-[Extended Data](ext_articles/0b5116e7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 11:34:02**
+As of **2024-05-17 11:53:14**
 
 ## Newspaper Stats
 
-*Scraped **24,615** Articles*
+*Scraped **24,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,450
 adalk | 2,110
 adaderanalk | 2,847
 tamilmirrorlk | 2,891
-virakesarilk | 3,703
+virakesarilk | 3,706
 dailymirrorlk | 3,860
 adaderanasinhalalk | 3,923
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 3,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,611 (100.0%) of 24,615 articles have been extended.
+24,615 (100.0%) of 24,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### முன்னாள் இராணுவத் தளபதி ஐக்கிய மக்கள் சக்தியில் இணைவு !
+
+*2024-05-17 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183757) · `ta`
+
+முன்னாள் இராணுவத் தளபதியும், பாதுகாப்புப் பதவி நிலை பிரதானியுமான ஜெனரல் மகேஷ் சேனாநாயக்க ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+
+முன்னாள் இராணுவத் தளபதி ஓய்வுபெற்ற ஜெனரல் மகேஷ் சேனாநாயக்க எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் நாட்டைக் கட்டியெழுப்பும் வேலைத்திட்டத்திற்கு ஆதரவளிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியுடன் இணைந்து கொண்டார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட அவர், ஐக்கிய இராணுவ வீரர்கள் சக்தியின் பிரதானியாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று வெள்ளிக்கிழமை  (17) தினம் நியமிக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/d82ce4ff.json)
+
+---
+
+### Sri Lanka opposes Kyrgyzstan in the 3rd place in Central Asian
+
+*2024-05-17 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/183740) · `ta`
+
+In the Central Asia Volleyball Championship, Sri Lanka faces Kyrgyzstan for third place in Islamabad. Sri Lanka previously lost to Turkmenistan but secured its first-ever consecutive win against Iran, marking a significant achievement in international volleyball.
+
+🟩
+
+Sri Lanka will oppose Kyrgyzstan in the 3rd -place match between the six countries in Islamabad.
+
+Following the match, the final match between Pakistan and Turkmenistan will be held.
+
+Sri Lanka lost 3 straight sets against Turkmenistan on Thursday (16) in their last league match.
+
+Turkmenistan, who played efficiently on all three sides, won the basis of 25 - 22, 25 - 19, 25 - 19.
+
+Sri Lanka lost to Kyrgyzstan 2 - 3 in their opening match.In the next match, Sri Lanka fell to Pakistan in 3 straight sets.
+
+However, in the next match, Sri Lanka won three straights and Iran in three straights.
+
+This first victory against Iran is a historic consecutive victory for Sri Lanka in the international arrest.
+
+The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 60th victory in Iran at 15th place in the international sparrow rankings is a great commendation.
+
+◼️
+
+[Data](articles/5b202ddc.json)
+
+[Extended Data](ext_articles/5b202ddc.ext.json)
+
+---
 
 ### Ronaldo tops highest-paid athlete list - Forbes
 
@@ -54,6 +102,28 @@ Giannis Antetokounmpo (fifth) joins fellow basketball stars LeBron James (fourth
 
 [Data](articles/b89b716e.json)
 
+[Extended Data](ext_articles/b89b716e.ext.json)
+
+---
+
+### ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ள யாழ்.பல்கலைக்கழக மருத்துவ பீட புதிய கட்டிடத்தொகுதி
+
+*2024-05-17 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183751) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தின் மருத்துவ பீடத்திற்காக யாழ் நகரில் புதிதாகக்கட்டப்பட்ட எட்டு மாடிகளைக் கொண்ட மருத்துவப் பயிற்சி மற்றும் ஆராய்ச்சித்தொகுதி கட்டிடம் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்படவுள்ளது.
+
+வட மாகாணத்திற்கு எதிர்வரும் 24 ஆம் திகதி இருநாள் விஜயம் மேற்கொள்ளும் ஜனாதிபதி, அங்கு குறித்த கட்டிடத்தை திறந்துவைக்கவுள்ளார்.
+
+இந்த கட்டிடத் தொகுதியில் இரண்டு பெரிய தியேட்டர்கள், ஒரு சிறிய தியேட்டர், எண்டோஸ்கோபி மற்றும் மேமோகிராம், கருவுறுதல் பராமரிப்பு, யூரோடைனமிக் சேவைகள், கேட்போர் கூடம், முதுகலை மையம் மற்றும் மருத்துவ பணியாளர் அறை மற்றும் கற்பித்தல் வசதிகள் உள்ளன.
+
+இந்தக் கட்டிடத்தொகுதி 700 மில்லியன் ரூபா செலவில் கல்வி அமைச்சின் நிதி ஒதுக்கீட்டுக்கமைய நிர்மாணிக்கப்பட்டுள்ளது.
+
+இதேவேளை, கட்டடிப்பொருட்களின் விலைகள் அதிகரிப்பால் கட்டிடத் தொகுதி இதுவரை நிறைவு பெறாமல் இருப்பதுடன் கட்டிடத்தை முழுமையாக நிர்மாணித்து பூர்த்தி செய்ய 130 மில்லியன் தேவை என கணக்கிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d29cf92c.json)
+
 ---
 
 ### Armed forces personnel from Sri Lanka, India, Nepal to embark on Lumbini-Colombo bike expedition
@@ -71,6 +141,70 @@ The expedition will cover seven states and travel aboard an Indian Navy ship fro
 ...
 
 [Data](articles/3a6365e4.json)
+
+[Extended Data](ext_articles/3a6365e4.ext.json)
+
+---
+
+### Young family girl death in Jaffna - mystery in death!
+
+*2024-05-17 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183752) · `ta`
+
+In Jaffna, a 31-year-old woman named Jensia Sivasuriyan was found dead on Thursday. She lived with her husband and daughter in France but returned home unexpectedly. Her sudden death remains unexplained after an autopsy, prompting further tests in Colombo.
+
+🟩
+
+A young family woman has been recovered on Thursday (16) in Jaffna.
+
+The mother of a child, Jensia Sivasuriyan (age 31), from Kali Temple Road, Dawadi south, died.
+
+The woman's husband and daughter live in France. He left the dinner on Wednesday and went to sleep. He was later recovered from bed on Thursday morning.
+
+A sudden death investigation officer A. Jayapalasingham. The body was recovered and taken to the hospital and an anatomical examination was carried out. However, the cause of death was not detected.
+
+Anatomical samples have been sent to Colombo for experiments. He has been ordered to bury his corpse.
+
+◼️
+
+[Data](articles/c6d04579.json)
+
+[Extended Data](ext_articles/c6d04579.ext.json)
+
+---
+
+### இலங்கை மீனவர்கள் 21 பேர் இந்தியாவில் கைது
+
+*2024-05-17 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183756) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி பகுதியைச் சேர்ந்த 21 மீனவர்கள் 5 படகுகளுடன் வியாழக்கிழமை (16) தமிழக கடற்படையினரால் கைது செய்யப்பட்டனர். கைது செய்யப்பட்ட 21 பேரும் காரைக்கால் பகுதிக்கு கொண்டு செல்லப்பட்டனர்.
+
+இவர்கள் அனைவரும் இந்திய எல்லைக்குள் சென்று சிலிண்டர்களுடன் அட்டை பிடித்துக்கொண்டு இருந்த வேளை இவ்வாறு கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/5272d832.json)
+
+---
+
+### Indian boat
+
+*2024-05-17 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183755) · `ta`
+
+Fishermen from India's Mallipattinam arrived in Sri Lanka's Jaffna on a boat. Three men, including Perumal Vanjinathan, Rajendran Mahesh, and Ilangovan Ranjit Kumar, were detained by the Ilavalai police for investigation.
+
+🟩
+
+A boat of fishermen from India - Mallipattinam landed in Jaffna - Champilthurai on Thursday evening.
+
+The fishermen of Perumal Vanjinathan, Rajendran Mahesh and Ilangovan Ranjit Kumar were on the shore with the boat.
+
+The three fishermen have been taken to the Ilavalai police station. Ilavalai police are conducting investigations.
+
+◼️
+
+[Data](articles/25bc716b.json)
+
+[Extended Data](ext_articles/25bc716b.ext.json)
 
 ---
 
@@ -93,28 +227,6 @@ Later, Senanayake contested the 2019 Presidential Election under the National Pe
 [Data](articles/e50ea89c.json)
 
 [Extended Data](ext_articles/e50ea89c.ext.json)
-
----
-
-### Indian boat
-
-*2024-05-17 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183755) · `ta`
-
-Fishermen from India's Mallipattinam arrived in Sri Lanka's Jaffna on a boat. Three men, including Perumal Vanjinathan, Rajendran Mahesh, and Ilangovan Ranjit Kumar, were detained by the Ilavalai police for investigation.
-
-🟩
-
-A boat of fishermen from India - Mallipattinam landed in Jaffna - Champilthurai on Thursday evening.
-
-The fishermen of Perumal Vanjinathan, Rajendran Mahesh and Ilangovan Ranjit Kumar were on the shore with the boat.
-
-The three fishermen have been taken to the Ilavalai police station. Ilavalai police are conducting investigations.
-
-◼️
-
-[Data](articles/25bc716b.json)
-
-[Extended Data](ext_articles/25bc716b.ext.json)
 
 ---
 
@@ -184,49 +296,33 @@ A sudden death investigation officer A. Jayapalasingham. The body was handed ove
 
 ---
 
-### யாழில் துஷ்பிரயோகப்படுத்தப்பட்டு பெண் கொலை; கணவர் கைது
+### Woman murdered in JaffnaArrest
 
 *2024-05-17 10:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-துஷ்பிரயோகப்படுத்தப்பட்டு-பெண்-கொலை-கணவர்-கைது/71-337451) · `ta`
 
-யாழ்ப்பாணம் - தாளையடியில் பெண்ணொருவர் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை செய்யப்பட்ட சம்பவம் தொடர்பாக பெண்ணின் கணவர் சந்தேகத்தின் அடிப்படையில் கைது செய்யப்பட்டார்.
-
-காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸார் சந்தேக நபரை கைது செய்து மருதங்கேணி பொலிஸாரிடம் ஒப்படைத்தனர்.
-
-மருதங்கேணி பொலிஸ் பிரிவிற்குட்பட்ட உடுத்துறை வடக்கு தாளையடி பகுதியில் கடந்த 10 ஆம் திகதி பெண் ஒருவர் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை செய்யப்பட்டார்.
-
-கடற்றொழிலுக்கு சென்று அதிகாலை வீடு திரும்பியபோது, வீட்டின் கழிப்பறைக்கு முன்பாக சந்தேகத்திற்கிடமான முறையில் மனைவி சடலமாகக் கிடந்துள்ளார் என தெரிவித்து உயிரிழந்த பெண்ணின் கணவன் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்திருந்தார்.
-
-உயிரிழந்த பெண் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கழுத்து நெரித்து கொலை செய்யப்பட்டமை பிரேத பரிசோதனையில் உறுதி செய்யப்பட்டது.
-
-...
-
-[Data](articles/27db5439.json)
-
----
-
-### Young family girl death in Jaffna - mystery in death!
-
-*2024-05-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183752) · `ta`
-
-In Jaffna, a 31-year-old woman named Jensia Sivasuriyan was found dead on Thursday. She lived with her husband and daughter in France but returned home unexpectedly. Her sudden death remains unexplained after an autopsy, prompting further tests in Colombo.
+In Jaffna, a woman was murdered; her husband, suspected of the crime, was arrested. The incident occurred in the Uruttarakku North Taladi area, where the victim was found dead. An autopsy revealed she was strangled and abused. The husband reported finding her body upon returning home early one morning. He was subsequently arrested and appeared in court.
 
 🟩
 
-A young family woman has been recovered on Thursday (16) in Jaffna.
+A woman's husband has been arrested on suspicion of murdering a woman in Jaffna
 
-The mother of a child, Jensia Sivasuriyan (age 31), from Kali Temple Road, Dawadi south, died.
+The Kankesanthurai Regional Criminal Investigation Division arrested the suspect and handed over to the Maruthankeni police.
 
-The woman's husband and daughter live in France. He left the dinner on Wednesday and went to sleep. He was later recovered from bed on Thursday morning.
+A woman was abused and strangled to death on the 10th of last month in the Uruttarakku North Taladi area of the Maruthankani police division.
 
-A sudden death investigation officer A. Jayapalasingham. The body was recovered and taken to the hospital and an anatomical examination was carried out. However, the cause of death was not detected.
+When he returned home early in the morning, the husband of the deceased woman had lodged a complaint at the police station, saying that his wife was found dead in front of the toilet of the house.
 
-Anatomical samples have been sent to Colombo for experiments. He has been ordered to bury his corpse.
+An autopsy confirmed that the deceased woman was abused and strangled to death.
+
+The husband of a 52 -year -old woman was arrested on the 15th of September, on suspicion of having a frequent conflict between a woman and her husband who died in police investigation.
+
+The suspect was taken to the Kilinochchi Magistrate's Court yesterday (16). Remble
 
 ◼️
 
-[Data](articles/c6d04579.json)
+[Data](articles/27db5439.json)
 
-[Extended Data](ext_articles/c6d04579.ext.json)
+[Extended Data](ext_articles/27db5439.ext.json)
 
 ---
 
@@ -363,38 +459,6 @@ Following this, the women will play in the women's R20 Asian Cup cricket match a
 [Data](articles/d4e4a94d.json)
 
 [Extended Data](ext_articles/d4e4a94d.ext.json)
-
----
-
-### Sri Lanka opposes Kyrgyzstan in the 3rd place in Central Asian
-
-*2024-05-17 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/183740) · `ta`
-
-In the Central Asia Volleyball Championship, Sri Lanka faces Kyrgyzstan for third place in Islamabad. Sri Lanka previously lost to Turkmenistan but secured its first-ever consecutive win against Iran, marking a significant achievement in international volleyball.
-
-🟩
-
-Sri Lanka will oppose Kyrgyzstan in the 3rd -place match between the six countries in Islamabad.
-
-Following the match, the final match between Pakistan and Turkmenistan will be held.
-
-Sri Lanka lost 3 straight sets against Turkmenistan on Thursday (16) in their last league match.
-
-Turkmenistan, who played efficiently on all three sides, won the basis of 25 - 22, 25 - 19, 25 - 19.
-
-Sri Lanka lost to Kyrgyzstan 2 - 3 in their opening match.In the next match, Sri Lanka fell to Pakistan in 3 straight sets.
-
-However, in the next match, Sri Lanka won three straights and Iran in three straights.
-
-This first victory against Iran is a historic consecutive victory for Sri Lanka in the international arrest.
-
-The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 60th victory in Iran at 15th place in the international sparrow rankings is a great commendation.
-
-◼️
-
-[Data](articles/5b202ddc.json)
-
-[Extended Data](ext_articles/5b202ddc.ext.json)
 
 ---
 
@@ -2109,79 +2173,5 @@ Last month the Mini Cooperation Afloat Readiness and Training (CARAT) exercise 2
 [Data](articles/5fe2d76d.json)
 
 [Extended Data](ext_articles/5fe2d76d.ext.json)
-
----
-
-### Agency owner, manager arrested for illegally recruiting Sri Lankans for Russian army
-
-*2024-05-16 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99258/agency-owner-manager-arrested-for-illegally-recruiting-sri-lankans-for-russian-army) · `en`
-
-The owner and the manager of a licensed foreign employment agency have been arrested for allegedly sending Sri Lankans for employment in the Russian army.
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) stated that the two suspects were arrested yesterday (15) by officials of the bureau’s Special Investigations Unit (SIU).
-
-It said that the agency had obtained a sum of Rs. 1.5 million from each individual after promising that they would be sent to Russia on tourist visas and given employment in the Russian army’s civil service. However, the Sri Lankans have been duped and sent to the Russia-Ukraine warfront instead.
-
-The SLBFE said it has received 07 complaints regarding the racket operated by the agency and that based on those complaints, the agency is believed to have cheated a total sum of over Rs. 10 million.
-
-...
-
-[Data](articles/37d685d6.json)
-
-[Extended Data](ext_articles/37d685d6.ext.json)
-
----
-
-### The ban on the LTTE is unjust - the leader of the World Tamil Forum. Collar condemnation
-
-*2024-05-16 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183719) · `ta`
-
-Nedumaran criticizes India's decision to extend the ban on LTTE for another five years, arguing it's unjustified due to LTTE's non-aggression towards India and lack of support from Tamil Nadu. He highlights historical inaccuracies and alleged collusion between the Indian government and the Sinhalese government against LTTE, questioning the fairness of the ban.
-
-🟩
-
-The Government of India has announced that it will extend the ban on the Liberation Tigers of Tamil Eelam (LTTE) for a further five years. For this, the leader of the World Tamil Forum. Nedumaran has issued a statement condemning.
-
-The Government of India has announced that it will extend the ban on the Liberation Tigers of Tamil Eelam (LTTE) for a further five years. The reasons for that are the following.
-
-“Even after the end of the war in Sri Lanka in 2009, the Liberation Tigers of Tamil Eelam (LTTE) did not abandon the demand for Tamil Eelam. Support and financial raising work continues.
-
-The movement of the Liberation Tigers is in secret in Tamil Nadu. Tamil Nadu in India has also added to the demand for a separate country for all Tamils. The LTTE's purpose is not only against the sovereignty and integrity of India but also a threat to India's security. ”
-
-The Indian governments in the past and the now in office of India are working in an attempt to make it true by repeating the same lie.
-
-...
-
-[Data](articles/1c9bc7ad.json)
-
-[Extended Data](ext_articles/1c9bc7ad.ext.json)
-
----
-
-### Emergency notice for students who wrote o/l
-
-*2024-05-16 17:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-எழுதிய-மாணவர்களுக்கு-அவசர-அறிவிப்பு/175-337436) · `ta`
-
-Due to challenging questions in the GCE O/L Science exam, the Commissioner General of Examinations, Amit Jayasundera, announced free points for affected MCQs. The Ministry of Education plans to initiate high-quality classes starting April 4th, advising principals and students to seek information from relevant educational authorities.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that due to the difficulties found in some questions of the Scientific Questionnaire of the GCE Ordinary Level Examination held, it has been decided to provide free points for these questions.
-
-It was reported that some of the questions found in the science course were prepared from the subjects beyond the curriculum.
-
-The Commissioner General of Examination Amit Jayasundara has stated that steps have been taken to provide 2 free points for 2 MCQ questions based on the incident.
-
-Meanwhile, the Ministry of Education has said that all necessary steps have been prepared to start high quality classes for the students who have passed the exam.
-
-Accordingly, the Ministry of Education states that the high -level classes will begin on the 4th of this month.
-
-The Ministry of Education said that if the information was not available, the principals could contact the provincial or zonal education authorities.
-
-...
-
-[Data](articles/48388493.json)
-
-[Extended Data](ext_articles/48388493.ext.json)
 
 ---

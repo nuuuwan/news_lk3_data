@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 01:52:34**
+As of **2024-05-18 02:03:36**
 
 ## Newspaper Stats
 
-*Scraped **24,744** Articles*
+*Scraped **24,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,728
-dailymirrorlk | 3,883
+dailymirrorlk | 3,885
 adaderanasinhalalk | 3,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,744 (100.0%) of 24,744 articles have been extended.
+24,744 (100.0%) of 24,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -254,6 +254,22 @@ Additionally, the need to regularize around 1.1 million accounts owned by citize
 
 ### Who will benefit from an election boycott by Tamils?
 
+*2024-05-17 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Who-will-benefit-from-an-election-boycott-by-Tamils/172-282846) · `en`
+
+Prediction of the results of the forthcoming Presidential election would be the most difficult one in Sri Lankan history, since almost all traditional attachments of the voters with the main political parties seem to have been shattered to the core by the economic crisis that brought millions of people to the streets in 2022.
+
+The unprecedented economic hardships within their household and the agitations with slogans on the streets against all present and past rulers of the country for nearly four months seem to have shaped a new political mindset among the majority of people in the country.
+
+The impact of these two factors – the economic hardships and the Aragalaya – has been such that the Sri Lanka Podujana Peramuna (SLPP), the party that bagged 52.25 percent of votes has been ranked at the bottom of some poll surveys since mid-last year, with not even 10 percent of voter preferences in favour of them. Interestingly, the SLPP has never challenged the results of such surveys either.
+
+...
+
+[Data](articles/1e3d7972.json)
+
+---
+
+### Who will benefit from an election boycott by Tamils?
+
 *2024-05-17 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Who-will-benefit-from-an-election-boycott-by-Tamils/231-282846) · `en`
 
 Prediction of the results of the forthcoming Presidential election would be the most difficult one in Sri Lankan history, since almost all traditional attachments of the voters with the main political parties seem to have been shattered to the core by the economic crisis that brought millions of people to the streets in 2022.
@@ -287,6 +303,24 @@ Our correspondent said that a car traveling from Colombo to Dehiwala had collaps
 [Data](articles/d4dadeb0.json)
 
 [Extended Data](ext_articles/d4dadeb0.ext.json)
+
+---
+
+### Members of our Parliament and French Queen Marie Antoinette -EDITORIAL
+
+*2024-05-17 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Members-of-our-Parliament-and-French-Queen-Marie-Antoinette-EDITORIAL/172-282845) · `en`
+
+Hardly a day passes without hearing the profligacy and misdeeds of one or the other members of Parliament. Just two days ago, while strong criticism was being voiced at Members of Parliament for demanding permits to import new cars for themselves, a State Minister reportedly slapped an airport worker for demanding payment for services rendered.
+
+Media reports inform us that many MPs across the political divide have secured liquor permits in the names of their friends and relatives. These permits we all know will subsequently be sold for huge sums of money.
+
+According to one report, the going price per permit is around rupees fifty million. The permit is for the establishment of new liquor shops in the country.
+
+To add insult to injury Members of Parliament are now demanding that the rupees one million insurance cover they enjoy be extended to cover their families as well.
+
+...
+
+[Data](articles/15b0b86a.json)
 
 ---
 
@@ -2201,49 +2235,5 @@ In August 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar 
 [Data](articles/152d81bc.json)
 
 [Extended Data](ext_articles/152d81bc.ext.json)
-
----
-
-### Here is the Bicket Witty Rathupas
-
-*2024-05-17 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196715) · `si`
-
-Gampaha High Court orders arrest of four suspects linked to Rathupaswala incidents in Weliweriya.
-
-🟩
-
-The Gampaha High Court today (17) ordered four suspects in the Rathupaswala area in Weliweriya.
-
-◼️
-
-[Data](articles/c32e9619.json)
-
-[Extended Data](ext_articles/c32e9619.ext.json)
-
----
-
-### Mullivaikkal released on bail
-
-*2024-05-17 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183778) · `ta`
-
-Four individuals arrested for allegedly trading Kanji in Muttur-Senayoor, Trincomalee, were granted bail by the Muttur court. Attorneys Bhuvirajasingham Mukundan, Thevarajah Ramanan, and Sayanthan supported the release. The case, filed under the ICCPR Act 3 (1), will resume on the 27th.
-
-🟩
-
-The Muttur court today granted bail of four persons arrested for allegedly exchanging Kanji in Muttur - Senayoor area of Trincomalee district.
-
-As the case was taken up in the presence of Muttur Court Judge Dasneem Bhusan today, the lawyers have ordered the release of the four -judge judges on bail of Rs.
-
-Attorney -at -Law. Attorney Bhuvirajasingham Mukundan, Attorney -at -Law Thevarajah Ramanan and Attorney Sayanthan were present in support of this.
-
-The Sampur police have filed a case under the Sampur police in the Senayoor area under the Sampur police, which has been filed under the ICCPR Act 3 (1) against the Sampur police.. In this case, the judge accepted the bail application and ordered the bail. The case will be taken up again on the 27th.
-
-Kamaleswaran Vijitha, University student Kamleswaran Tilila, Selvinod Kumar Sujani and Navertnaraja Hariharakumar were arrested on the 12th of this month on charges of exchanging Mullivaikal Kanji at the Senayoor Bhubanapathi Temple.
-
-◼️
-
-[Data](articles/67c18df8.json)
-
-[Extended Data](ext_articles/67c18df8.ext.json)
 
 ---

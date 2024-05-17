@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 12:33:38**
+As of **2024-05-17 12:50:55**
 
 ## Newspaper Stats
 
@@ -56,11 +56,11 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 
 *2024-05-17 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99270/forbes-30-under-30-asia-list-celebrates-sri-lankas-dinara) · `en`
 
-After a decade together, the all-female, hijab-wearing Indonesian metal band Voice of Baceprot (VoB) last year released its first album, Retas, then quit its record label to go independent. The gutsy decision matches its reputation for challenging stereotypes in the Muslim-majority country.
+Forbes today announced the ninth edition of its “30 Under 30 Asia” list, featuring 300 young entrepreneurs, leaders and trailblazers across the Asia-Pacific region, all under the age of 30, who are leading the transformation of industries and finding innovative ways to navigate new business realities in the region.
 
-Band members Firda Marsya Kurnia, 23, Widi Rahmawati, 22, and Euis Siti Aisyah, 23 are some of the trailblazing artists and athletes who made this year’s Forbes 30 Under 30 Asia: Entertainment & Sports list.
+The Forbes 30 Under 30 Asia Class of 2024 features 300 notable listees selected across 10 categories, including The Arts (Art & Style, Food & Drink); Entertainment & Sports; Finance & Venture Capital; Media, Marketing & Advertising; Retail & Ecommerce; Enterprise Technology; Industry, Manufacturing & Energy; Healthcare & Science; Social Impact and Consumer Technology.
 
-The trio were introduced to metal in their early teens by a teacher who taught them how to play instruments and helped set up their band. They have since gone from covering hits by groups such as Metallica for school events to creating their own music and touring internationally. In June they will attend Glastonbury, the first Indonesian musicians to perform at the U.K. festival in its 54-year history.
+Among those featured on this year’s list is Dinara Punchihewa, a Sri Lankan-born actress and filmmaker.
 
 ...
 
@@ -1498,15 +1498,15 @@ Despite concerns about declining population in Sri Lanka due to factors like red
 
 ### 2024-05-16 (Thursday)
 
-### MR doubles down on anti-privatisation even as party members defend reforms
+### MR doubles down on anti-privatisation even as party members bat for reforms
 
 *2024-05-16 23:56:00* · [`economynextcom`](https://economynext.com/mr-doubles-down-on-anti-privatisation-even-as-party-members-defend-reforms-163417/) · `en`
 
-ECONOMYNEXT — Former President and leader of the ruling Sri Lanka Podujana Peramuna (SLPP) Mahinda Rajapaksa has seemingly upped the ante on his anti-privatisation rhetoric, claiming that a majority of his party are opposed to the “sale of national assets”, even as ministers representing the party continue to defend ongoing reforms.
+ECONOMYNEXT — Former President and leader of the ruling Sri Lanka Podujana Peramuna (SLPP) Mahinda Rajapaksa has seemingly upped the ante on his anti-privatisation rhetoric, claiming that a majority of his party are opposed to the “sale of national assets”, even as ministers representing the party continue to express support for ongoing reforms.
 
 Rajapaksa told reporters on Thursday May 16 following a meeting at the SLPP headquarters in Colombo that 99 percent of the party share his views on the matter.
 
-“It’s not just me, the majority of our party, 99 percent, are of this view,” he said, asked for comment on a recent statement he made declaring his opposition to Sri Lanka’s ongoing International Monetary Fund (IMF)-backed efforts to restructure a number of state-owned enterprises (SOEs).
+“It’s not just me, the majority of our party, 99 percent, are of this opinion,” he said, asked for comment on a recent statement he had made declaring his opposition to Sri Lanka’s ongoing International Monetary Fund (IMF)-backed efforts to restructure a number of state-owned enterprises (SOEs).
 
 ...
 

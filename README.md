@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 13:53:01**
+As of **2024-05-17 14:04:10**
 
 ## Newspaper Stats
 
-*Scraped **24,637** Articles*
+*Scraped **24,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,111
-adaderanalk | 2,852
+adaderanalk | 2,854
 tamilmirrorlk | 2,891
 virakesarilk | 3,713
 dailymirrorlk | 3,862
-adaderanasinhalalk | 3,926
+adaderanasinhalalk | 3,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,628 (100.0%) of 24,637 articles have been extended.
+24,637 (100.0%) of 24,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Four army personnel acquitted over 2013 Rathupaswala shooting
+
+*2024-05-17 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99277/four-army-personnel-acquitted-over-2013-rathupaswala-shooting) · `en`
+
+The four accused in the case over the shooting to death of three persons and injuring 45 others during a protest by villagers demanding clean drinking water at Rathupaswala in 2013, have been acquitted by the Gampaha High Court Trial-at-Bar.
+
+Delivering the verdict in the case today (17), the court ordered to acquit and release the four Sri Lanka army personnel including a Major and three soldiers, Ada Derana reporter said.
+
+On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
+
+In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
+
+◼️
+
+[Data](articles/152d81bc.json)
+
+---
+
+### රටම බලාසිටි රතුපස්වල නඩු තීන්දුව මෙන්න
+
+*2024-05-17 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196715) · `si`
+
+වැලිවේරිය නගරයේදී රතුපස්වල ප්‍රදේශයේ ජනතාව පැවැත්වූ විරෝධතාවක් අතරතුර වෙඩි වැදීමෙන් පුද්ගලයින් තිදෙනෙකු  ජීවිතක්ෂයට පත්වීමේ සිද්ධියට අදාළ නඩුවෙන් හිටපු හමුදා මේජර්වරයෙකු ඇතුළු සැකකරුවන් සිව්දෙනෙකු නිදොස්කොට නිදහස් කිරීමට ගම්පහ මහාධිකරණය අද (17) නියෝග කළේය.
+
+◼️
+
+[Data](articles/c32e9619.json)
+
+---
+
+### UN report urges accountability and public apology for Sri Lanka’s enforced disappearances
+
+*2024-05-17 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99276/un-report-urges-accountability-and-public-apology-for-sri-lankas-enforced-disappearances) · `en`
+
+Sri Lanka’s Government must take meaningful action to determine and disclose the fates and whereabouts of tens of thousands of people who have been subjected to enforced disappearance over the decades and hold those responsible to account, a UN Human Rights Office report released today (May 17) says.
+
+It calls on the Government to acknowledge the involvement of state security forces and affiliated paramilitary groups, and to issue a public apology.
+
+“This report is yet another reminder that all Sri Lankans who have been subjected to enforced disappearance must never be forgotten,” said UN High Commissioner for Human Rights Volker Türk. “Their families and those who care about them have been waiting for so long. They are entitled to know the truth”.
+
+...
+
+[Data](articles/f08b9023.json)
+
+---
 
 ### Advisories issued for heavy rain, strong winds and rough seas
 
@@ -49,6 +95,8 @@ The Meteorology Department warns that strong winds accompanied with heavy rainfa
 ...
 
 [Data](articles/75f4cc14.json)
+
+[Extended Data](ext_articles/75f4cc14.ext.json)
 
 ---
 
@@ -70,63 +118,83 @@ Addressing a press briefing held on Thursday (16) in the Washington DC, the Dire
 
 ---
 
-### சர்வதேச குற்றவியல் விசாரணை தேவை என்கிறார் செல்வராசா கஜேந்திரன்
+### Selvarasa Gajendran says the International Criminal Investigation
 
 *2024-05-17 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183767) · `ta`
 
-சர்வதேச குற்றவியல் விசாரணை வேண்டும் நல்லிணக்க ஆணைக்குழுவை உருவாக்கி அரசாங்கம் சர்வதேசத்தை ஏமாற்றியுள்ளது என பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தெரிவித்துள்ளார்.
+Selvarasa Gajendran accuses the Sri Lankan government of deceiving the international community by establishing a reconciliation commission, preventing Tamils from commemorating the Mullivaikkal genocide. He criticizes the government's handling of arrests related to the commemoration and calls for a boycott of the upcoming presidential election.
 
-மூதூரில் இடம்பெற்ற  முள்ளிவாய்க்கால் நினைவேந்தலின் போது கைது செய்யப்பட்டவர்களின் நிலை தொடர்பில் சட்டத்தரணி சுகாஷ் செய்த சமர்ப்பணத்தின் பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-இந்த மாதம் தமிழர்களுக்கு வலி சுமந்த மாதம் எனவும்  தமிழர்களை 15 வருட காலமாக ஏமாற்றி வரும் இந்த அரசு முள்ளிவாய்க்கால் இனப்படுகொலை தொடர்பாக அவர்களை நினைவு கூர விடாமல் தடுத்துள்ளதாகவும் தெரிவித்துள்ளார்.
+Parliamentarian Selvarasa Gajendran has said that the government has deceived the international community by creating a reconciliation commission.
 
-இந்த நிலையில் மூதூரில் கைது செய்யப்பட்டவர்கள் தொடர்பில் ஐசிசிபி ஆர் தொடர்பான அறிக்கையை பொலிஸாரிடம் நீதிமன்றம் கோரியுள்ளது.
+He was speaking to the media following the submission of Attorney Sukash on the status of those arrested during the Mullivaikkal commemoration of Muttur.
 
-இந்த விடயம் தொடர்பில் சமர்ப்பணங்களை முன்வைத்து நீதிமன்றத்தில் வாதாடிய சிரேஷ்ட சட்டத்தரணி சுகாஷ் மற்றும் முஸ்லிம் சட்டத்தரணிகளுக்கு இந்த நேரத்தில் நன்றிகளை தெரிவித்துள்ளார்.
+He said that this month was a month of pain for the Tamils and that the government, which has been deceiving the Tamils for 15 years, has prevented them from remembering the genocide of Mullivaikkal.
+
+The court has asked the police a report on the ICCPR on the arrested persons arrested in Muttur.
+
+Senior Attorney Sukhash and Muslim lawyers thanked the court at this time, who appeared in court on this issue.
+
+He said that the police have filed a false accusation and have deceived the court and have now removed the court order.
 
 ...
 
 [Data](articles/3bf7997f.json)
 
+[Extended Data](ext_articles/3bf7997f.ext.json)
+
 ---
 
-### க. பொ.த. சாதாரண தரப் பரீட்சையில் பல முறைப்பாடுகள்
+### Ka. C.. Multiple Complaints on the Normal Quality Examination
 
 *2024-05-17 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183763) · `ta`
 
-தற்போது நிறைவடைந்த 2023 கல்வி பொதுத் தராதர சாதாரண தரப் பரீட்சை தொடர்பில் புதிய முறைப்பாடு முன்வைக்கப்பட்டுள்ளன.
+Fourteen Tamil students complained about missing question papers for a Geography course in the 2023 GCE Ordinary Level Exam, affecting their scores. Additionally, two students with special needs faced issues accessing necessary support during exams, leading to further complaints. The Sri Lanka Human Rights Commission intervened after one student's family reported the suspension of a support worker. Despite efforts from school officials, the student couldn't secure assistance for four subjects. Joseph Stalin, CTU General Secretary, criticized the lack of understanding and support for students' needs, highlighting the violation of students' rights under existing laws.
 
-மினுவாங்கொடை அல்-அமான் முஸ்லிம் மகா வித்தியாலயத்தில் 50 மதிப்பெண்கள் கொண்ட புவியியல் பாடத்திற்கான பகுதி 1 வினாத்தாள் மற்றும் வரைபடங்கள் தங்களுக்கு வழங்கப்படவில்லை என 14 தமிழ் மொழி மாணவர்கள் முறைப்பாடு அளித்துள்ளனர்.
+🟩
 
-“நாங்கள் பகுதி 1 வினாத்தாளைக் கேட்டபோது, அது வழங்கப்பட்டுள்ளதாக கூறினார்கள். ஆனால் இறுதி வரை எங்களுக்கு வினாத்தாள் வழங்கப்படவில்லை. அனைத்து மாணவர்களும் புவியியல் பாடத்தில் சிறப்பாக தேர்ச்சி பெற்றவர்கள். 50 மதிப்பெண்களை இழந்தது மிகவும் அநியாயம்” என மாணவர்கள் தெரிவித்துள்ளனர்.
+A new complaint has been filed regarding the GCE Ordinary Level Examination of 2023 Education.
 
-இதேவேளை, விசேட தேவையுடைய இரு மாணவர்களும் தங்களுக்கான சேவைகளை புறக்கணித்தமை தொடர்பிலும் முறைப்பாடுகளை முன்வைத்துள்ளனர்.
+14 Tamil language students have lodged a complaint that part 1 question papers and maps for the Geological Course of 50 marks at the Al-Aman Muslim Maha Vidyalaya in Minuwangoda have not been provided.
 
-வத்தளை புனித அந்தோனியார் பாடசாலையில் பரீட்சைக்குத் தோற்றிய விசேட தேவையுடைய மாணவன் ஒருவருக்கு விடைகளை  எழுதுவதற்கு பரீட்சை திணைக்களத்தினால் அனுமதியளிக்கப்பட்ட தனிநபரின் சேவையை பெற முடியாமல் போனதாக தெரிவிக்கப்பட்டுள்ளது.
+“When we asked for part 1 questionnaire, they said it was provided. But we have not been given the questionnaire until the end. All students are specially mastered in geography. It is very unjust to lose 50 marks, ”the students said.
+
+Meanwhile, two students with special needs have lodged complaints about the boycott of their services.
+
+It is reported that a special needy student who appeared for the exam at St. Anthony's School, Wattala was unable to obtain the service of the individual who was allowed by the Examination Department to write answers.
 
 ...
 
 [Data](articles/42ec106b.json)
 
+[Extended Data](ext_articles/42ec106b.ext.json)
+
 ---
 
-### ரபா மீதான தாக்குதலை இஸ்ரேல் நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் - தென்னாபிரிக்கா வேண்டுகோள்
+### Israel should order Israel's attack on Rafa - South Africa appeals
 
 *2024-05-17 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183769) · `ta`
 
-ரபாமீதான தாக்குதலை இஸ்ரேல் கைவிடவேண்டும் என சர்வதேச குற்றவியல் நீதிமன்றம் உத்தரவிடவேண்டும் என தென்னாபிரிக்கா வேண்டுகோள் விடுத்துள்ளது.
+South Africa has urged the ICC to halt Israel's assault on Rafah, citing the devastating impact of the Gaza War, which has claimed over 35,000 lives and left Gaza in ruins. The appeal emphasizes the urgent need for a ceasefire to allow humanitarian aid into the region, highlighting the dire situation facing Palestinians.
 
-ரபா மீதான தாக்குதலை இஸ்ரேல் நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் என அவர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+🟩
 
-ஏழு மாத காசா யுத்தம் 35000 பேரை கொலை செய்துள்ளதுடன் காசாவை தரைமட்டமாக்கியுள்ளது எனஅவர்கள் தெரிவித்துள்ளனர்.
+South Africa has appealed to the International Criminal Court to order Israel to abandon the attack on Rabam.
 
-துயரம் என்பது மிகமோசமானதாக காணப்படுவதால் உணவு மருந்து போன்றவற்றை காசாவிற்குள் கொண்டு செல்வதற்கு யுத்தநிறுத்தம் அவசியமாகின்றது என தென்னாபிரிக்காசட்டத்தரணிகள் தெரிவித்துள்ளனர்.
+They have requested the International Court of Justice to order Israel's attack on Rafa.
 
-இஸ்ரேலின் தரைத்தாக்குதலை ரபா எதிர்கொண்டுள்ளது இது பாலஸ்தீனியர்களின் வாழ்க்கையின் அடித்தளத்தையே அழித்துவிடும் என தென்னாபிரிக்க சட்டத்தரணி தெரிவித்துள்ளார்.
+The seven -month Gaza War has killed 35,000 people and has made Gaza on the ground, they said.
+
+South Africanists have said that there is a need for a ceasefire to transport food medicine into Gaza as it is so bad.
+
+The South African lawyer said that Rabba faced Israel's ground attack, which would destroy the foundation of the lives of the Palestinians.
 
 ◼️
 
 [Data](articles/d170c9ca.json)
+
+[Extended Data](ext_articles/d170c9ca.ext.json)
 
 ---
 
@@ -150,27 +218,61 @@ The value of the confiscated items found in the possession of the suspects is es
 
 ---
 
-### பிரான்சில் யூதவழிபாட்டுதலத்தை தீயிட்டு எரிக்க முயன்ற நபர் பொலிஸாரால் சுட்டுக்கொலை
+### A man who tried to burn a Jews in France shot dead by police
 
 *2024-05-17 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183765) · `ta`
 
-யூதவழிபாட்டுதலத்திலிருந்து புகைமண்டலம் வெளிவருவதை அவதானித்தவர்கள் பொலிஸாருக்கு தகவல் தெரிவித்துள்ளனர்-பொலிஸார் அங்கு சென்றவேளை கத்தி இரும்புடன் அவர்களை நோக்கி சென்ற நபர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+In France, a man attempting to burn Jews was killed by police after witnesses alerted them. The officer was fatally stabbed with a knife upon arrival.
+
+🟩
+
+Those who observed the emergence of the smoke from the Jews have informed the police-The policeman was shot dead with a knife iron as they went there.
 
 ◼️
 
 [Data](articles/be8e3c43.json)
 
+[Extended Data](ext_articles/be8e3c43.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-17 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183766) · `ta`
 
-இன்று வெள்ளிக்கிழமை (மே 17) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 295.8026 ஆகவும் விற்பனை விலை ரூபா 305.1511 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US Dollar buying rate: 295.8026, selling rate: 305.1511 as per May 17 data from the Central Bank.
+
+🟩
+
+The US dollar purchasing price was 295.8026 and the sales price were Rs 305.1511 based on the Central Bank released today (May 17).
 
 ◼️
 
 [Data](articles/6d8eba61.json)
+
+[Extended Data](ext_articles/6d8eba61.ext.json)
+
+---
+
+### කුසල් ගේ වීසා ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් ප්‍රකාශයක්
+
+*2024-05-17 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196714) · `si`
+
+අමෙරිකාවට යෑම සඳහා ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ උප නායක කුසල් මෙන්ඩිස් ඉදිරිපත් කළ වීසා අයදුම්පත සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ ප්‍රධාන විධායක ඈෂ්ලි ද සිල්වා අද (17) පැවති මාධ්‍ය හමුවකදී අදහස් දැක්වීය.
+
+ඔහු එහිදී පැවසුවේ කුසල් ගේ වීසා අයදුම්පත ප්‍රතික්ෂේප කර නොමැති බවයි.
+
+කුසල් ඒ සම්බන්ධයෙන් අමෙරිකානු තානාපති කාර්යාලයේ නිලධාරීන් සමග කටයුතු කරන බවද ඈෂ්ලි ද සිල්වා පැවසීය.
+
+"එයාගේ තව ඩොකියුමන්ට්ස් වගයක් ඉල්ලලා තියෙනවා. ඒ ඩොකියුමන්ට්ස් දුන්නට පස්සේ ඉදිරි දින එක/දෙක තුළ ඔහුට වීසා ලැබෙයි.."
+
+එබැවින් මෙන්ඩිස් ට පුහුණු තරගවලට සහභාගීවීමට අවස්ථාව ලැබෙතැයි තමා විශ්වාසකරන බව ඔහු පැවසීය.
+
+20යි 20 ලෝක කුසලාන තරගාවලියේ ශ්‍රී ලංකාව සහභාගී වන පළමු තරගය ජූනි 02 වනදා දකුණු අප්‍රිකාව සමග නිව් යෝර්ක් හීදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/a3319c29.json)
 
 ---
 
@@ -194,21 +296,27 @@ Ashley de Silva said that Kusal's visa has not been rejected and the US embassy 
 
 ---
 
-### டயனா கமகே பயன்படுத்திய 4 வாகனங்களும் அமைச்சுக்கு கையளிக்கப்படவில்லை !
+### 4 vehicles used by Diana Kamage have not been handed over to the Ministry!
 
 *2024-05-17 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183738) · `ta`
 
-முன்னாள் சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே பயன்படுத்திய அமைச்சுக்கு சொந்தமான நான்கு வாகனங்களையும் உடனடியாக கையளிக்குமாறு அறிவிக்கப்பட்டும், அவை இதுவரை கையளிக்கப்படவில்லை என சுற்றுலாத்துறை அமைச்சு தெரிவித்துள்ளது.
+Diana Kamage's four vehicles, including a Discovery Jeep, Kep Cart, Brado Jeep, and another car, were supposed to be handed over to the Ministry of Tourism on May 08 but haven't been. The Kep Cart was even under police protection after a crash.
 
-நான்கு வாகனங்களையும் மே மாதம் 08 ஆம்  திகதி அமைச்சிடம் ஒப்படைக்குமாறு சுற்றுலாத்துறை அமைச்சு அறிவித்துள்ளது.
+🟩
 
-இதுவரை ஒப்படைக்கப்படாத வாகனங்களில் டிஸ்கவரி ஜீப், கெப் வண்டி, பிராடோ ஜீப் மற்றும் கார் ஒன்றும் காணப்படுகின்றது.
+The Ministry of Tourism has said that the four vehicles belonging to the ministry owned by the former Minister of Tourism Diana Kamage have been announced immediately.
 
-இவற்றில் கெப் வண்டியானது விபத்துக்குள்ளான காரணத்தினால் குருணாகல் பொலிஸ் பாதுகாப்பில் இருப்பதாக தெரியவந்துள்ளது.
+The Ministry of Tourism has announced that all four vehicles will be handed over to the Ministry on May 08.
+
+There is a Discovery Jeep, Kep Cart, Brado Jeep and a car in vehicles that have not yet been handed over.
+
+It is reported that the Kept was under the protection of the Kurunegala police due to the crash.
 
 ◼️
 
 [Data](articles/9feb0ba3.json)
+
+[Extended Data](ext_articles/9feb0ba3.ext.json)
 
 ---
 
@@ -232,23 +340,29 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 
 ---
 
-### வரலாற்றில் இன்று : 1973 - கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தை (BMICH) திறந்துவைத்த சிறிமாவும் சீன துணைத் தலைவரும்!
+### Sirima and Chinese Vice President who opened the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo today: 1973 - 1973!
 
 *2024-05-17 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183761) · `ta`
 
-கொழும்பு பெளத்தலோக மாவத்தையில் பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபம் (BMICH) 1973ஆம் ஆண்டு மே 17 அன்று, இதே திகதியில் திறந்துவைக்கப்பட்டது.
+On May 17, 1973, the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo was inaugurated by Sri Lanka's Prime Minister Sirimavo Bandaranaike, following an invitation from China's Premier Sue N Lai. However, due to unforeseen circumstances, it was her special envoy, Marshal Suu Chiang Shen, who performed the opening ceremony. The construction of BMICH, costing 3 million rupees, involved collaboration between Chinese technicians, workers, Sri Lankan engineers, and laborers.
 
-அன்றைய பிரதமர் சிறிமாவோ பண்டாரநாயக்கவின் அழைப்பை ஏற்று, சீன பிரதமர் சூ என் லாய் இலங்கைக்கு வருகை தந்து மண்டபத்தை திறந்துவைப்பதாக முதலில் அறிவிக்கப்பட்டிருந்தது.
+🟩
 
-எனினும், வைபவ நாளில் சீன பிரதமருக்கு பதிலாக, அவரது விசேட பிரதிநிதியான சீன உப தலைவர் மார்ஷல் சூ சியாங் ஷென் பண்டாரநாயக்க மண்டபத்தை திறந்துவைத்தார்.
+The Bandaranaike Memorial International Conference Hall (BMICH) was opened on the same date on May 17, 1973.
+
+It was first announced that the Prime Minister Sirimavo Bandaranaike accepted the invitation of Chinese Prime Minister Sue N Lai and opened the hall.
+
+However, instead of the Chinese prime minister on the day of Vaibhava, his special representative, Marshall Suu Chiang Shen Shen Bandaranaike inaugurated the Hall.
 
 சீன அரசாங்கத்தினால் சீன தொழில்நுட்ப உதவியாளர்கள், சீன தொழிலாளர்கள், இலங்கை பொறியியலாளர்கள் மற்றும் தொழிலாளர்கள் இணைந்து 3 கோடியே 50 லட்சம் ரூபாய் செலவில் பண்டாரநாயக்க மண்டபத்தை  கட்டியதாக கூறப்படுகிறது.
 
-இரத்மலானை விமான நிலையத்தை வந்தடைந்த சீன துணைத் தலைவரை  முன்னாள் பிரதமர் சிறிமாவோ பண்டாரநாயக்க வரவேற்பதையும், மண்டபம் திறப்பு மற்றும் பிரதமரின் உரை உள்ளிட்ட பல்வேறு விடயங்களோடு 1973 மே 9, 17, 18 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கங்களை இங்கே காணலாம்.
+Here are the first pages of the Weerakesari magazine published on May 9, 17 and 18, with a number of issues, including former Prime Minister Sirimavo Bandaranaike's welcome to the Chinese vice president who arrived at the Ratmalana airport.
 
 ◼️
 
 [Data](articles/88dbd330.json)
+
+[Extended Data](ext_articles/88dbd330.ext.json)
 
 ---
 
@@ -2043,105 +2157,5 @@ The students accused 14 children who have sent the first question paper and the 
 [Data](articles/3096adeb.json)
 
 [Extended Data](ext_articles/3096adeb.ext.json)
-
----
-
-### Southwest Monsoon begins
-
-*2024-05-16 20:03:36* · [`adalk`](https://www.ada.lk/breaking_news/නිරිත-දිග-මෝසම-25-දා-වන-විට-ආරම්භ-වෙයි/11-409692) · `si`
-
-The Southwest Monsoon is expected to start around the 25th of this month, potentially bringing more rainfall than previous years. This season is crucial for monitoring landslides and managing water levels in reservoirs. The National Disaster Relief Center has communicated with district secretaries about preparedness efforts.
-
-🟩
-
-The Meteorologies have been predicted that the southwest monsoon can commence by the 25th of this month.
-
-The center also shows that the southwest monsoon is a significant rainfall of the island and that the southwest monsoon can increase over the previous years.
-
-The Meteorological Institutions have been able to monitor the landslide disaster based on the basis of the enabling of the southwest monsoon.Points out that they are being done.
-
-The Department of Irrigation Center states that the water level is full of water levels in the reservoirs under the Department of Irrigation and the Irrigation Center (IRP) has shown that the water will pay attention to the rainfall areas.
-
-The National Disaster Relief Center has been referred to the District Secretaries to the District Secretaries this year, the National Disaster Services Center has been referred to the District Secretaries this year.It also pointed out that the work has been done.
-
-◼️
-
-[Data](articles/9e219c00.json)
-
-[Extended Data](ext_articles/9e219c00.ext.json)
-
----
-
-### Embarrassment
-
-*2024-05-16 20:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தத்தளிக்கிறது-கண்டி/76-337441) · `ta`
-
-Heavy rains flood Kandy Railway Station and parts of Kandy, affecting transportation and safety.
-
-🟩
-
-Due to heavy rains in Kandy this evening, the Kandy Railway Station and many other areas of Kandy have been flooded, the Disaster Management Center said.
-
-◼️
-
-[Data](articles/cc63935f.json)
-
-[Extended Data](ext_articles/cc63935f.ext.json)
-
----
-
-### Woman's lost pistols former Mayor of Ratnapura
-
-*2024-05-16 19:48:08* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-නැතිවූ-පිස්තෝලය-කාන්තාවක්-ළග/11-409690) · `si`
-
-A woman was arrested in Ratnapura after her pistols were stolen from her home. The incident involved the Ratnapura Additional Magistrate, Tiran Attanayake, and led to investigations into the theft.
-
-🟩
-
-The woman was arrested by Ratnapura Police and the Ratnapura Additional Magistrate Kindithana Kodithaku, who was stolen to the Ratnapura Additional Magistrate Tiran Attanayake.
-
-On the 10th, the pistol was stolen in the Queen of Tyrone Attanayake on the 10th.Police have said that he had told him that he was later given to the people of Tyrone.
-
-She has asked the police that her son had heard that his son had received money in the night, calling for money in front of the house..Police have reported that there were no four of the five bullets in the 38-type pistol.
-
-Investigations have been conducted to arrest the suspect, police said.
-
-Criminal at Criminal Started on the instructions of Ratnapura Headquarters.. Attanayake Attanayake, UPP. Gunasekara, Cabhasekara (38730),. Tillakaratne (8046), CO.Lhiu (54287), / / ​​License (78834), / Conduct Teaching.
-
-◼️
-
-[Data](articles/abc7673d.json)
-
-[Extended Data](ext_articles/abc7673d.ext.json)
-
----
-
-### US shows that Sri Lanka's online child abuse is up
-
-*2024-05-16 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196695) · `si`
-
-Sri Lanka reports rising online child abuse cases, with 55 threats and influences reported to the National Child Protection Authority. The US has alerted about underage photos found in Sri Lanka. Investigations are underway, highlighting the need for parental oversight and education on safe internet usage.
-
-🟩
-
-Sri Lanka has notified Sri Lanka an American institution regarding increasing the influence of the country's abuse online.
-
-The Police Children's and Women's Bureau, who went to court, said there was a comprehensive investigation into the matter.
-
-However, the National Child Protection Authority has received 55 complaints regarding the threat and influence of children on the Internet.
-
-With her small parent, the children who tend to be exposed to the central and exposure to the society.
-
-It has now become a major problem due to the increment of the increasing child abuse online.
-
-The National Child Protection Authority said that 150 complaints have been taken to threaten their children and influence on the Internet and social media collaborations and 55 complaints of 55 complaints.
-
-The National Center on the Missing and exploitation of the US, the National Center of the Children Discloses the children online for abuse, 2021, 22 and 23 years.
-
-...
-
-[Data](articles/90e43443.json)
-
-[Extended Data](ext_articles/90e43443.ext.json)
 
 ---

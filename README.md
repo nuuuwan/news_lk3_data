@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 07:44:00**
+As of **2024-05-17 07:56:27**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 3,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,574 (100.0%) of 24,579 articles have been extended.
+24,579 (100.0%) of 24,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### දුම්රියක ගැටී පුද්ගලයෙක් මරුට
+### Man hit and killed by train
 
 *2024-05-17 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196703) · `si`
 
-ඊයේ (16) සවස් කාලයේදී මාතර නූපේ රේල් ගේට්ටුව අසලදී මෙම අනතුර සිදුවී ඇත.
+A man was fatally struck by a train near Colombo, Matara, while traveling from Matara to Galle. His identity remains unknown.
 
-මාතර සිට ගාල්ල බලා ධාවනය වූ දුම්රියක එම පුද්ගලයා ගැටී තිබුණි.
+🟩
 
-පොලීසිය සඳහන් කළේ මියගිය පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බවය.
+The accident occurred near the Colombo Collision of Matara yesterday (16).
+
+The man was hit by Matara to Galle.
+
+The police said that the identity of the deceased has not yet been established.
 
 ◼️
 
 [Data](articles/5a08939a.json)
 
+[Extended Data](ext_articles/5a08939a.ext.json)
+
 ---
 
-### සා/පෙළ භූගෝල විද්‍යා පේපරය ගැනත් පරීක්ෂණයක්
+### Investigation into the O / L Geography
 
 *2024-05-17 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196702) · `si`
 
-මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ භුගෝල විද්‍යා ප්‍රශ්න පත්‍රයේ කොටසක් සිසුන් පිරිසකට ලබානොදීමේ සිද්ධිය සම්බන්ධයෙන් විභාග දෙපාර්තමේන්තුව පරීක්ෂණයක් ආරම්භ කර තිබේ.
+The Department of Examinations is investigating issues with the GCE Ordinary Level exam, including questions raised by candidates at the Al-AMEN Muslim College, Minuwangoda. The department is looking into various problems reported during this year's exam and conducting separate investigations into incidents faced by candidates.
 
-මිනුවන්ගොඩ අල්අමීන් මුස්ලිම් විද්‍යාලයේ පිහිටුවා තිබු අදාළ විභාග මධ්‍යස්ථානයේ සේවය කළ නිලධාරීන්ගෙන් මේ පිළිබඳ විභාග දෙපාර්තමේන්තුව ප්‍රශ්න කර ඇති බව සඳහන් ය.
+🟩
 
-එම ප්‍රශ්න පත්‍රය සඳහා මුහුණ දුන් කිසිදු අපේක්ෂකයෙකුට ආසාධාරණයක් නොවන අයුරින් කටයුතු කරන බව අද දෙරණ කළ විමසීමක දී විභාග දෙපාර්තමේන්තුවේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+The Department of Examinations has commenced an investigation into the incident, whether part of the GCE Ordinary Level examination.
 
-මෙවර සාමාන්‍ය පෙළ විභාගයේ ගැටලුකාරී තත්ත්වයන් රැසක් වරින් වර වාර්තා වුණි.
+The Department of Examinations have questioned the officers of the Examination Center that was established at the Al-AMEN Muslim College, Minuwangoda.
 
-ඒ සම්බන්ධයෙන් කළ විමසීමක දී එම ප්‍රකාශකයා සඳහන් කළේ අදාළ සිදුවීම් සඳහා මුහුණ දුන් අපේක්ෂකයින් පිළිබඳ වෙන වෙනම අධ්‍යයනයන් සිදුකර ඊට අවශ්‍ය පියවර ගන්නා බවය.
+An inquiry made by any candidate faced by the question paper said a spokesperson of the Department of Examinations.
+
+Several problems of this year's GCE O / L examination were reported from time to time.
+
+In an inquiry, the spokesman said that they were conducted separate studies on the candidates who faced any other incidents.
 
 ◼️
 
 [Data](articles/f489d2ea.json)
+
+[Extended Data](ext_articles/f489d2ea.ext.json)
 
 ---
 
@@ -83,6 +95,8 @@ Foreign representatives, heads of United Nations agencies, managers and director
 ◼️
 
 [Data](articles/f5c8e80d.json)
+
+[Extended Data](ext_articles/f5c8e80d.ext.json)
 
 ---
 
@@ -208,19 +222,25 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 
 ---
 
-### மன்னிப்புச் சபையின் செயலாளர் நாட்டிற்கு வருகை
+### The Secretary of the Amnesty Council visits the country
 
 *2024-05-17 02:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்புச்-சபையின்-செயலாளர்-நாட்டிற்கு-வருகை/175-337446) · `ta`
 
-சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் நேற்று நாட்டிற்கு வருகை தந்தார்.
+Amnesty International's Agnes Kalamart made her inaugural trip to South Asia, announcing she'll remain in the country till the 24th.
 
-சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்டின் தெற்காசியாவிற்கான முதல் விஜயம் இதுவாகும்.
+🟩
 
-அக்னெஸ் கலமார்ட் எதிர்வரும் 24 ஆம் திகதி வரை நாட்டில் தங்கியிருப்பார் என அறிவிக்கப்பட்டுள்ளது. (a)
+Amnesty International Secretary General Agnes Kalamart visited the country yesterday.
+
+This is the first visit to South Asia, Secretary -General of the Amnesty International, Agnes Kalamat.
+
+Agnes Kalamart has announced that he will stay in the country until the 24th of this month. (A)
 
 ◼️
 
 [Data](articles/7705d455.json)
+
+[Extended Data](ext_articles/7705d455.ext.json)
 
 ---
 
@@ -553,6 +573,8 @@ Rajapaksa told reporters on Thursday May 16 following a meeting at the SLPP head
 ...
 
 [Data](articles/e80c9ab5.json)
+
+[Extended Data](ext_articles/e80c9ab5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 06:58:15**
+As of **2024-05-17 07:19:02**
 
 ## Newspaper Stats
 
-*Scraped **24,573** Articles*
+*Scraped **24,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,840
 tamilmirrorlk | 2,886
 virakesarilk | 3,696
 dailymirrorlk | 3,855
-adaderanasinhalalk | 3,914
+adaderanasinhalalk | 3,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,572 (100.0%) of 24,573 articles have been extended.
+24,573 (100.0%) of 24,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### වැසි තත්ත්වයේ වැඩිවීමක්
+
+*2024-05-17 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196700) · `si`
+
+ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (17) නිවේදනය කළේය.
+
+ඒ හේතුවෙන් බස්නාහිර, සබරගමුව, නැගෙනහිර, උතුරු සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල දහවල් 12න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇති වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/54eebd33.json)
+
+---
 
 ### Ramya Shankaran dazzles at the Kailashwara Natyanjali Festival
 
@@ -128,17 +148,23 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 
 ---
 
-### 6 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+### Landslide alert to 6 districts
 
 *2024-05-17 02:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-337445) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான வானிலையால் 06 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Landslide warnings issued for six districts: Badulla, Kandy, Kegalle, Kalutara, Kurunegala, Nuwara Eliya, Matale, and Ratnapura due to heavy rain.
 
-பதுளை, கண்டி கேகாலை, களுத்துறை, குருநாகல், நுவரெலியா, மாத்தளை மற்றும் இரத்தினபுரி மாவட்டங்களின் சில பிரதேச செயலாளர் பிரிவுகளுக்குட்பட்ட பகுதிகளுக்கு முதலாம் கட்ட மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது. (a)
+🟩
+
+The landslide hazard warning has been issued to six districts due to rainfall in the country.
+
+The first phase of the landslide hazard has been issued for some of the Divisional Secretariats of Badulla, Kandy Kegalle, Kalutara, Kurunegala, Nuwara Eliya, Matale and Ratnapura districts.. (A)
 
 ◼️
 
 [Data](articles/7959fe23.json)
+
+[Extended Data](ext_articles/7959fe23.ext.json)
 
 ---
 
@@ -2219,27 +2245,5 @@ Unofficial sources say that 600 to 800 Sri Lankans are currently in Russia. “T
 [Data](articles/c65379a6.json)
 
 [Extended Data](ext_articles/c65379a6.ext.json)
-
----
-
-### The GCE Overview of the Group
-
-*2024-05-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196684) · `si`
-
-The Ministry of Education has prepared for the GCE O/L exams, issuing directives to Provincial Education Authorities. Students seeking details should contact their schools.
-
-🟩
-
-The Ministry of Education has issued a statement that all arrangements have been made to start the GCE O / L examination this year.
-
-The statement states that the relevant circular has been directed to the Provincial Education Authorities and the relevant provincial and divisions can be obtained from the respective provinces and divisions.
-
-The students who need more information can be consulted from the school authorities.
-
-◼️
-
-[Data](articles/65d5abbb.json)
-
-[Extended Data](ext_articles/65d5abbb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 23:53:12**
+As of **2024-05-18 00:05:12**
 
 ## Newspaper Stats
 
-*Scraped **24,730** Articles*
+*Scraped **24,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,726
-dailymirrorlk | 3,882
+dailymirrorlk | 3,883
 adaderanasinhalalk | 3,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,730 (100.0%) of 24,730 articles have been extended.
+24,730 (100.0%) of 24,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Will Ranil regain support of Tamil and Muslim voters?
+
+*2024-05-17 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-Ranil-regain-support-of-Tamil-and-Muslim-voters/172-282864) · `en`
+
+President Ranil Wickremesinghe addressing the May Day rally in Kotagala
+
+Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
+
+...
+
+[Data](articles/3c5fbf18.json)
+
+---
 
 ### Warning issued over possible floods in several river basins
 
@@ -2257,29 +2271,5 @@ Ashley de Silva said that Kusal's visa has not been rejected and the US embassy 
 [Data](articles/0b32b574.json)
 
 [Extended Data](ext_articles/0b32b574.ext.json)
-
----
-
-### 4 vehicles used by Diana Kamage have not been handed over to the Ministry!
-
-*2024-05-17 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183738) · `ta`
-
-Diana Kamage's four vehicles, including a Discovery Jeep, Kep Cart, Brado Jeep, and another car, were supposed to be handed over to the Ministry of Tourism on May 08 but haven't been. The Kep Cart was even under police protection after a crash.
-
-🟩
-
-The Ministry of Tourism has said that the four vehicles belonging to the ministry owned by the former Minister of Tourism Diana Kamage have been announced immediately.
-
-The Ministry of Tourism has announced that all four vehicles will be handed over to the Ministry on May 08.
-
-There is a Discovery Jeep, Kep Cart, Brado Jeep and a car in vehicles that have not yet been handed over.
-
-It is reported that the Kept was under the protection of the Kurunegala police due to the crash.
-
-◼️
-
-[Data](articles/9feb0ba3.json)
-
-[Extended Data](ext_articles/9feb0ba3.ext.json)
 
 ---

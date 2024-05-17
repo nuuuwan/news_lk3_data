@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 15:18:24**
+As of **2024-05-17 15:33:58**
 
 ## Newspaper Stats
 
-*Scraped **24,650** Articles*
+*Scraped **24,652** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 220
-bbccomsinhala | 250
+bbccomsinhala | 251
 dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,111
-adaderanalk | 2,854
+adaderanalk | 2,855
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
 dailymirrorlk | 3,866
@@ -26,31 +26,57 @@ adaderanasinhalalk | 3,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,648 (100.0%) of 24,650 articles have been extended.
+24,650 (100.0%) of 24,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### මත්ද්‍රව්‍ය විනාශ කරන අධිබලැති උඳුන
+### Gammanpila urges govt to reject new US Ambassador nominee
+
+*2024-05-17 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99278/gammanpila-urges-govt-to-reject-new-us-ambassador-nominee) · `en`
+
+Member of Parliament Udaya Gammanpila has urged the government not to accept the appointment of U.S. President Joe Biden’s nominee for Ambassador to Sri Lanka, Elizabeth K. Horst.
+
+Gammanpila pointed out that Elizabeth Horst’s responses to the questions raised by the US Senate Foreign Relations Committee on May 9 could have an adverse impact on the situation of the country.
+
+The opposition parliamentarian made these remarks during a press conference held in Colombo, regarding the new US Ambassador nominee’s recent statement before the US Senate Foreign Relations Committee.
+
+The US Ambassador nominee to Sri Lanka, Elizabeth K. Horst, said that if confirmed she will support members of marginalized populations, accountability, truth and reconciliation, and transparency and justice in Sri Lanka.
+
+...
+
+[Data](articles/12b9d509.json)
+
+---
+
+### Drugs destroying the oven
 
 *2024-05-17 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196720) · `si`
 
+In Puttalam Vannathivilluwa, a powerful incinerator was installed to destroy drugs. The government spent Rs. 11 million, with the Sri Lanka Navy preparing the site. Drugs seized from Pakistani nationals, including 591 kg of heroin and 654 kg of methamphetamine, will be destroyed here. The process involves temperatures of 800-1200°C over 8 hours, costing 15 kg of gas and 4 liters of diesel per operation.
+
+🟩
+
 මත්ද්‍රව්‍ය විනාශ කිරීම සඳහා පුත්තලම වනාතවිල්ලුව ප්‍රදේශයේ අධිබලැති උඳුනක් ස්ථාපිත කර තිබේ.
 
-පොලිස් මූලස්ථානය නිවේදනය කළේ, පසුගිය කාල සීමාවේ අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය තොග විනාශ කිරීමට රජයට විශාල මුදලක් වැය කිරීමට සිදුවු අතර, මත්ද්‍රව්‍ය විනාශ කිරීමට ස්ථීර ස්ථානයක් නොමැති වීමෙන් අපහසුතා රැසක් පැන නැගුණ බවය.
+The police headquarters announced the government had to spend a lot of money to destroy drug stocks arrested on the recent past and no difficulties arranging the absence of a permanent place to destroy drugs.
 
-ඒ අනුව ස්ථීර විසඳුමක් ලෙස ලැක්ටෝස් වත්ත ඉඩමේ පර්චස් 20ක භූමියක් ආවරණය වන පරිදි මෙම් මත්ද්‍රව්‍ය විනාශ කරන අධිබලැති උඳුන ස්ථාපිත කර ඇත.
+Accordingly, the removal of drugs will be destroyed covering the Lactos Estate Land as a permanent solution.
 
-මහජන ආරක්ෂක අමාත්‍යවරයාගේ මඟ පෙන්වීම යටතේ පොලිස්පතිවරයාගේ ඍජු අධීක්ෂණය යටතේ රුපියල් මිලියන 11කට අධික මුදලක් වැයකර මෙම උඳුන ස්ථාපිත කළ බව පොලීසිය පවසයි.
+The oven have been established at a cost of Rs. 11 million under the direction of the IGP under the direction of the IGP.
 
-මෙම උඳුන ස්ථානගත කිරීම සඳහා ස්ථානය සකස් කිරීමේ කටයුතු ශ්‍රී ලංකා නාවික හමුදාව විසින් භාරගත් අතර, ඒ සඳහා රුපියල් මිලියන 6.34ක මුදලක් ශ්‍රී ලංකා පොලීසිය වැය කර ඇත.
+The Sri Lanka Navy has taken steps to prepare the site to place the oven and the Sri Lankan police have spent Rs. 6.34 million.
 
-මෙම උඳුනේ පළමු මත්ද්‍රව්‍ය තොගය විනාශ කිරීම හෙට (18) හවස 5ට ටිරාන් අලස් අමාත්‍යවරයාගේ සහ පොලිස්පතිවරයාගේ ප්‍රධානත්වයෙන් සිදුකිරීමට නියමිතය.
+The destruction of the first drug in the fetish is due to be chaired by Tiran Alles and the IGP in the 5th.
+
+ඒ අනුව මෑතක දී නඩු කටයුතු අවසන් වූ පාකිස්තාන ජාතිකයින් 7 දෙනෙකු සන්තකයේ තිබී අත්අඩංගුවට පත්වූ හෙරොයින් කිලෝ 279යි ග්‍රෑම් 591ක් සහ මෙතැම්පිටමින් හෙවත් අයිස් මත්ද්‍රව්‍ය කිලෝ 45යි ග්‍රෑම් 654ක ප්‍රමාණයක් හෙට විනාශ කිරීමට නියමිතය.
 
 ...
 
 [Data](articles/c257e5d1.json)
+
+[Extended Data](ext_articles/c257e5d1.ext.json)
 
 ---
 
@@ -147,6 +173,8 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 ◼️
 
 [Data](articles/6d429aa9.json)
+
+[Extended Data](ext_articles/6d429aa9.ext.json)
 
 ---
 
@@ -1358,6 +1386,20 @@ The event was organized by the Vanni People's Union, the Vanni District Missing 
 
 ---
 
+### මිරිසුවිල් සමූහ ඝාතනය: ශ්‍රේෂ්ඨාධිකරණයෙන් ගෝඨාභය රාජපක්ෂට නොතීසි
+
+*2024-05-17 08:35:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qy6lgdzeo) · `si`
+
+2000 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනය මිරිසුවිල් ප්‍රදේශයේදී අවුරුදු පහක කුඩා දරුවකු ඇතුළු අවතැන්ව සිටි සිවිල් වැසියන් 8 දෙනෙකු කපා කොටා මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර සිටි යුද හමුදා සැරයන් සුනිල් රත්නායක ජනාධිපති සමාව මත නිදහස් කිරීම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ  වෙත නොතීසි නිකුත් කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 17 වැනිදා) නියෝග කරනු ලැබීය.
+
+විකල්ප ප්‍රතිපත්ති කේන්ද්‍රයේ විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු විසින් ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් යසන්ත කෝදාගොඩ සහ අචල වෙංගප්පූලි යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අද (මැයි 17 වැනිදා)  කැඳවනු ලැබු අවස්ථාවේදී මෙම නියෝගය නිකුත් කරනු කෙරුණි.
+
+...
+
+[Data](articles/6c1f4f4a.json)
+
+---
+
 ### Increase wind and rain
 
 *2024-05-17 08:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றும்-மழையும்-அதிகரிக்கும்/175-337449) · `ta`
@@ -2141,45 +2183,5 @@ The Petitioner states that he always had a deep affection and keen interest in a
 [Data](articles/c7cbfd25.json)
 
 [Extended Data](ext_articles/c7cbfd25.ext.json)
-
----
-
-### O/L examination for 14 students
-
-*2024-05-16 21:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சையில்-14-மாணவர்களுக்கு-நடந்த-கொடுமை/175-337443) · `ta`
-
-The Human Rights Commission of Sri Lanka filed a complaint about alleged fraud in the GCE Ordinary Level Examination, accusing 14 students from Alhman Muslim Maha Vidyalaya of missing initial questionnaires and maps, and lacking required exam materials. The complaint follows reports of irregularities and potential fraud in the examination process.
-
-🟩
-
-The Human Rights Commission of Sri Lanka has lodged a complaint with the Human Rights Commission that there were many frauds in the GCE Ordinary Level Examination.
-
-Accordingly, 14 students who have appeared in the Tamil Language Examination at the Alhman Muslim Maha Vidyalaya of the Minuwangoda Education Zone have been accused of not being given the first questionnaire and map of the geography.
-
-Similarly, the complainants have also accused the students of Iranku special needed by the exam supervisors.
-
-It is noteworthy that allegations have been made that there were errors at the GCE Ordinary Level Examination yesterday and some of the examinations were fraudulent.. Remble
-
-◼️
-
-[Data](articles/ab64bbd6.json)
-
-[Extended Data](ext_articles/ab64bbd6.ext.json)
-
----
-
-### India-Sri Lanka ferry service resumption delayed indefinitely
-
-*2024-05-16 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-ferry-service-resumption-delayed-indefinitely/108-282745) · `en`
-
-The resumption of the passenger ferry service between Nagapattinam in India and the Kankesanthurai region near Jaffna in the Northern Province of Sri Lanka has been delayed again for an indefinite period, Aviation Minister Nimal Siripala de Silva has said.
-
-The passenger ferry service between Nagapattinam in Tamil Nadu and Kankesanthurai (KKS) suburb of Jaffna district, which was to resume on May13, was delayed due to a "technical shortcoming", de Silva said on Wednesday.
-
-◼️
-
-[Data](articles/8d710e12.json)
-
-[Extended Data](ext_articles/8d710e12.ext.json)
 
 ---

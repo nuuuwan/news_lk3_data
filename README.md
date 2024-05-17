@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 08:18:26**
+As of **2024-05-17 08:33:43**
 
 ## Newspaper Stats
 
-*Scraped **24,584** Articles*
+*Scraped **24,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,413
 dailyftlk | 1,450
 adalk | 2,108
 adaderanalk | 2,841
-tamilmirrorlk | 2,887
+tamilmirrorlk | 2,888
 virakesarilk | 3,696
 dailymirrorlk | 3,855
 adaderanasinhalalk | 3,919
@@ -26,47 +26,59 @@ adaderanasinhalalk | 3,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,582 (100.0%) of 24,584 articles have been extended.
+24,584 (100.0%) of 24,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### ශ්‍රී ලංකාවේ මීළඟ අමෙරිකානු තානාපතිනිය ගැන ගම්මන්පිල ගෙන්  චෝදනාවක්
+### Gammanpila charged with the next American Ambassador to Sri Lanka
 
 *2024-05-17 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196705) · `si`
 
-ශ්‍රී ලංකාවේ මීළඟ අමෙරිකානු තනාපතිනිය ලෙස නම් කර ඇති එළිසබෙත් හොස්ට් මහත්මියගේ පත්වීම පිළිනොගන්නා ලෙස උදය ගම්මන්පිල මන්ත්‍රීවරයා රජයෙන් ඉල්ලීමක් කරයි.
+Udaya Gammanpila, nominated as the next American Ambassador to Sri Lanka, opposes Lizage Host's appointment, citing potential harm from her responses to U.S. issues. He warns against accepting this nomination due to concerns raised by the Senate Committee.
 
-අමෙරිකාවේ විදේශ කටයුතු පිළිබඳ සෙනට් කාරක සභාවේ සභිකයින් එළිසබෙත් හොස්ට් මහත්මියට යොමුකළ ප්‍රශ්නවලට ඇය ලබාදුන් පිළිතුරු රටට අහිතකර තත්ත්වයක් නිර්මාණය කරනු ඇති බව මන්ත්‍රීවරයා පෙන්වා දෙයි.
+🟩
 
-ඇය සෙනට් කාරක සභාවේ සභිකයින් විසින් සිදුකළ විමසීම් හමුවේ ලබාදුන් ප්‍රකාශ මේ වනවිට අන්තර්ජාලයට යොමුකර තිබේ.
+Udaya Gammanpila, nominated as the next American Forest Sri Lanka, requests the government not to accept the appointment of Lizage Host.
 
-ඒ තුළ ණය ප්‍රතිව්‍යුගතකරණ ක්‍රියාවලිය, ජාත්‍යන්ර මුල්‍ය අරමුදල සමග ඇති කරගත් එකඟතා ක්‍රියාත්මක කිරීම, රාජ්‍ය තාන්ත්‍රික සබඳතා පවත්වාගෙන යාම, මෙරට විදේශ ප්‍රතිපත්තිය, විදෙස් නෞකා හා වරායන් සම්බන්ධ කරුණු ඇතුළු රජය සමග නව ප්‍රතිපත්ති ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් වු අදහස් රැසක් එළිසබෙත් හොස්ට් මහත්මිය සෙනට් කාරක සභාව ඉදිරියේ ප්‍රකාශ කර ඇති බව සඳහන් ය.
+The MP also pointed out that the answers to the issues of the United States of America to Mrs. Elizabeth Host were created to create a harmful situation.
 
-ඇයගේ මෙම කරුණු දැක්වීම සම්බන්ධයෙන් කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් උදය ගම්මන්පිල මන්ත්‍රීවරයා මෙලෙස අදහස් පළ කළේය.
+The claims made by the members of the Senate Committee have been sent to the Internet.
+
+The implementation of the Communication Process of the Debt Restructuring ProgramIt is said that has been stated.
+
+Addressing a media briefing in Colombo, he was speaking at a media briefing in Colombo.
 
 ◼️
 
 [Data](articles/f04d2698.json)
 
+[Extended Data](ext_articles/f04d2698.ext.json)
+
 ---
 
-### ඇල්ල - වැල්ලවාය මාර්ගය විවෘත කෙරේ
+### Opening of Ella - Wellawaya road
 
 *2024-05-17 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196704) · `si`
 
-තාවකාලිකව වසා දැමූ ඇල්ල - වැල්ලවාය මාර්ගය නැවත ගමනාගමනය සඳහා විවෘත කර තිබේ.
+The temporary Ella-Wellawaya Road reopened under police supervision, but may close due to rain.
 
-පොලීසියේ පූර්ණ අධීක්ෂණය යටතේ දැඩි සුපරික්ෂාවෙන් අදාළ මාර්ගයේ ගමනාගමන කටයුතුවල නිරතවන ලෙස දැනුම්දෙයි.
+🟩
 
-කෙසේවෙතත් අද (17) දිනයේ ද වර්ෂාව ඇදහැලුණ හොත් මෙම මාර්ගය යළි අවදානම් තත්ත්වයකට පත්විය හැකි බවද ආපදා කළමනාකරණ ඒකකය පවසයි.
+Temporary Ella - Wellawaya Road has been re-traffic.
 
-එසේ වුවහොත් යළිත් ඕනෑම අවස්ථාවක අදාළ මාර්ගය වසා දැමීමට සිදුවනු ඇත.
+Under the full supervision of the police, he is not informed to engage in traffic on the road.
+
+However, if the rain has fallen today (17), the road can be reached again.
+
+If so, the road will be closed at any time.
 
 ◼️
 
 [Data](articles/2d4288e2.json)
+
+[Extended Data](ext_articles/2d4288e2.ext.json)
 
 ---
 
@@ -279,6 +291,24 @@ The AIA Insurance’s Higher Education Scholarships Programme celebrated its 29t
 [Data](articles/f4181df1.json)
 
 [Extended Data](ext_articles/f4181df1.ext.json)
+
+---
+
+### மன விரக்தியடைந்த வயோதிபர் தவறான முடிவு
+
+*2024-05-17 02:27:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன-விரக்தியடைந்த-வயோதிபர்-தவறான-முடிவு/175-337447) · `ta`
+
+யாழ்ப்பாணத்தில் மன விரக்தியில் இருந்த வயோதிபர் ஒருவர் நேற்று தவறான முடிவெடுத்து கிணற்றில் வீழ்ந்து உயிர்மாய்த்துள்ளார்.
+
+ஏழாலை கிழக்கு, ஏழுகோவில் பகுதியைச் சேர்ந்த 76 வயதான ஐயாத்துரை தியாகராஜா என்ற வயோதிபரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த வயோதிபரின் மனைவி ஏற்கனவே உயிரிழந்துள்ளார். அவரது பிள்ளைகள் அனைவரும் வெளிநாட்டில் வசித்து வருகின்ற நிலையில், அவர் வீட்டில் தனியாக வசித்து வந்துள்ளார்.
+
+இந்நிலையில் மன விரக்தியடைந்த அவர் நேற்று அவரது வீட்டில் உள்ள கிணற்றில் வீழ்ந்து உயிர்மாய்த்துள்ளார். (a)
+
+◼️
+
+[Data](articles/17a30b71.json)
 
 ---
 
@@ -2217,29 +2247,5 @@ According to both excavations, there have been 40 human skeletons from the human
 [Data](articles/a8c95746.json)
 
 [Extended Data](ext_articles/a8c95746.ext.json)
-
----
-
-### Memorial in Colombo for those who died in war
-
-*2024-05-16 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183701) · `ta`
-
-A memorial in Colombo honors those who perished in war, urging unity and reflection. Held at Viharamakadevi Park, attendees from both north and south are encouraged to unite in silent prayer, marking a shift towards peace. The event emphasizes learning from past mistakes and fostering a humanitarian spirit.
-
-🟩
-
-The event will be held at the Viharamakadevi Park in Colombo at 6 pm tomorrow (17) at 6 pm.
-
-The deceased in the north and south, who lost their lives in the homeland of Nammaravaruppam, has been asked to join hands with silence with the prayer of the soul.
-
-Also, the organizers have been requested to swear that we have changed and to say that we have learned ourselves.
-
-It is also worth noting that it has been invited to play the minds of the war and to participate in a humanitarian friendly meeting.
-
-◼️
-
-[Data](articles/5c033b4b.json)
-
-[Extended Data](ext_articles/5c033b4b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 22:06:00**
+As of **2024-05-17 22:18:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,712 (100.0%) of 24,714 articles have been extended.
+24,714 (100.0%) of 24,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### கோட்டாபய ராஜபக்ஷவிற்கு உயர்நீதிமன்றம் அழைப்பாணை
+### High Court summoned Gotabhaya Rajapaksa
 
 *2024-05-17 21:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாபய-ராஜபக்ஷவிற்கு-உயர்நீதிமன்றம்-அழைப்பாணை/175-337461) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவிற்கு அழைப்பாணை வௌியிடுமாறு உயர் நீதிமன்றம் இன்று (17) உத்தரவிட்டுள்ளது.
+The Supreme Court has summoned former President Gotabhaya Rajapaksa to submit evidence regarding the release of Sunil Ratnayake, sentenced to death for murdering eight, including a child in 2000. This follows a case filed by Dr. Bhagyasothi Saravanamuthu over alleged rights violations.
 
-கொழும்பு மேல் நீதிமன்றத்தினால் மரண தண்டனை விதிக்கப்பட்டுள்ள இராணுவ சார்ஜன்ட் சுனில் ரத்நாயக்கவின் விடுதலை தொடர்பில் நீதிமன்றில் சமர்ப்பணங்களை முன்வைக்குமாறு கோரி இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-கடந்த 2000 ஆம் ஆண்டு பெரும் சர்ச்சையை ஏற்படுத்திய யாழ்ப்பாணம் மிரிசுவில் பகுதியில் ஐந்து வயதுக் குழந்தை உட்பட இடம்பெயர்ந்திருந்த 8 பேர் வெட்டிக் கொல்லப்பட்ட சம்பவம் தொடர்பில் அவருக்கு மரண தண்டனை விதிக்கப்பட்டது.
+The Supreme Court today (17) ordered the invitation to the former President Gotabhaya Rajapakse.
 
-மாற்றுக் கொள்கை மையத்தின் நிறைவேற்றுப் பணிப்பாளர் கலாநிதி பாக்யசோதி சரவணமுத்துவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு, யசந்த கோதாகொட மற்றும் அச்சல வெங்கப்புலி ஆகியோர் அடங்கிய உயர் நீதிமன்ற அமர்வு முன்னிலையில் அழைக்கப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+The order has been issued demanding submissions to the court on the release of Sunil Ratnayake, who has been sentenced to death by the Colombo High Court.
+
+He was sentenced to death in connection with the murder of eight people, including a five -year -old child, who had been displaced in Mirisuwil, Jaffna, which caused great controversy in 2000.
+
+The order was issued in the presence of a Supreme Court session of the fundamental rights violation filed by Dr. Bhagyasothi Saravanamuthu, Executive Director of the Transitional Policy Center. Remble
 
 ◼️
 
 [Data](articles/f5f88100.json)
+
+[Extended Data](ext_articles/f5f88100.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Sri Lanka’s security forces, including the armed forces, police, and Civil Sec
 ...
 
 [Data](articles/c7232c61.json)
+
+[Extended Data](ext_articles/c7232c61.ext.json)
 
 ---
 

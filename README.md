@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 22:33:36**
+As of **2024-05-17 22:51:36**
 
 ## Newspaper Stats
 
-*Scraped **24,724** Articles*
+*Scraped **24,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,450
 adalk | 2,115
 adaderanalk | 2,864
 tamilmirrorlk | 2,899
-virakesarilk | 3,724
+virakesarilk | 3,726
 dailymirrorlk | 3,880
 adaderanasinhalalk | 3,949
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,714 (100.0%) of 24,724 articles have been extended.
+24,724 (100.0%) of 24,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### දෙහිවල බිහිසුණු අනතුරක්
+### A horrifying accident in Dehiwala
 
 *2024-05-17 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196738) · `si`
 
-දෙහිවල මුහුදු මාර්ගයේ අද (17) රාත්‍රී 7ට පමණ රිය අනතුරක් සිදුව තිබේ.
+In Dehiwala, a tragic accident involving a car, a two-wheeler, and a taxi occurred near the sea around 7 PM yesterday.
 
-අප වාර්තාකරු පැවසුවේ, කොළඹ සිට දෙහිවල බලා ධාවනය වෙමින් තිබූ මෝටර් රථයක් වේගය පාලනය කර ගත නොහැකිව මාර්ගයෙන් විරුද්ධ දෙස නවතා තිබූ ත්‍රීරෝද රථ දෙකක සහ මෝටර් රථයක මෙන්ම කැබ් රථයකත් ගැටී අනතුර සිදුව ඇති බවය.
+🟩
+
+The accident occurred at the Dehiwala Sea around 7 pm today (17).
+
+Our correspondent said that a car traveling from Colombo to Dehiwala had collapsed at a two-wheeler and a car and a cab.
 
 ◼️
 
 [Data](articles/d4dadeb0.json)
+
+[Extended Data](ext_articles/d4dadeb0.ext.json)
 
 ---
 
@@ -280,6 +286,20 @@ He further stated that an investigation into the officials carried out at the re
 
 ---
 
+### 2024 ஜனாதிபதி தேர்தல்
+
+*2024-05-17 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183818) · `ta`
+
+மக்களினால் தெரிவு செய்யப்படுகின்ற ஜனாதிபதி ஒருவர் ஒரு ஐந்து வருட பதவிக்காலத்துக்கு அதிகாரத்தில் இருப்பார் என்று அரசியலமைப்பு கூறுகிறது. அவர் மரணமடைந்தால், பதவிவிலகினால் அல்லது பதவியில் இருந்து நீக்கப்பட்டால் அவரது எஞ்சிய பதவிக்காலத்துக்கு அதிகாரத்தில் இருப்பதற்கு பாராளுமன்றம் ஒருவரை ஜனாதிபதியாக தெரிவுசெய்யும். அரசியலமைப்பில் குறித்துரைக்கப்பட்டிருக்கும் ஜனாதிபதியின் பதவிக்காலத்தை நீடிப்பதற்கு கொண்டுவரப்படக்கூடிய எந்தவொரு திருத்தச் சட்டமூலமும் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மை வாக்குகளினால் நிறைவேற்றப்படுவதுடன் சர்வஜனவாக்கெடுப்பு ஒன்றில் மக்களின் அங்கீகாரத்தையும் பெறவேண்டியது அவசியமாகும்.
+
+அதிகாரத்தில் இருக்கும் ஜனாதிபதியின் பதவிக்காலம் முடிவடைவதற்கு ஒரு மாதத்துக்கும் குறையாததும் இரு மாதங்களுக்கு மேற்படாததுமான  காலப்பகுதிக்குள் ஜனாதிபதி தேர்தல் நடத்தப்படவேண்டும் என்றும் அரசியலமைப்பு கூறுகிறது.
+
+...
+
+[Data](articles/2917b3b5.json)
+
+---
+
 ### Ella - Wellawaya Road Site
 
 *2024-05-17 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196734) · `si`
@@ -373,6 +393,22 @@ Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated
 [Data](articles/953b3e44.json)
 
 [Extended Data](ext_articles/953b3e44.ext.json)
+
+---
+
+### நவீன தொழில்நுட்பத்துடன் விவசாயம் செய்ய முன்வரும் தனியார் தொழில்முனைவோருக்கு அரசாங்கம் முழு ஆதரவு வழங்கும் - ஜனாதிபதி
+
+*2024-05-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183817) · `ta`
+
+செயற்கை நுண்ணறிவு (AI) உள்ளிட்ட நவீன தொழில்நுட்பத்துடன் இலங்கை விவசாயத்தில் புதிய மாற்றத்தை ஏற்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும், இதில் ஆர்வமுள்ள தனியார் துறை தொழில் முயற்சியாளர்களுக்குத் தேவையான ஆதரவை அரசாங்கம் வழங்கும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+விவசாய நவீனமயமாக்கல் வேலைத் திட்டத்திற்காக இவ்வருடம் 100 பிரதேச செயலகப் பிரிவுகள் தெரிவு செய்யப்பட்டுள்ளதாக ஜனாதிபதி தெரிவித்தார். இதில் முதற்கட்டமாக 25 பிரதேச செயலகப் பிரிவுகளுக்கும், இரண்டாம் கட்டமாக 75 பிரதேச செயலகப் பிரிவுகளும் விவசாயத்தை நவீனமயப்படுத்தத் தேவையான வசதிகள் வழங்கப்படும் எனவும் ஜனாதிபதி தெரிவித்தார்.
+
+இலங்கையில் முதன்முறையாக செயற்கை நுண்ணறிவு தொழில்நுட்பத்தில் கேகாலை நெலுந்தெனிய பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள வேகா காரை உருவாக்கிய கலாநிதி ஹர்ஷ சுபசிங்கவின் பசுமை இல்லத்தைப் பார்வையிடுவதற்காக இன்று (17) சென்றபோதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/5d36aed4.json)
 
 ---
 
@@ -479,6 +515,8 @@ The International Climate Change University was one of the proposals Wickremesin
 ...
 
 [Data](articles/24879039.json)
+
+[Extended Data](ext_articles/24879039.ext.json)
 
 ---
 
@@ -736,6 +774,8 @@ Supreme Global was pre-qualified to conduct due diligence and eventually bid for
 
 [Data](articles/4c66b533.json)
 
+[Extended Data](ext_articles/4c66b533.ext.json)
+
 ---
 
 ### Welgama to see Mahinda
@@ -837,6 +877,8 @@ A bond maturing on 01.10.2032 closed up at 11.85/12.00 percent from 11.75/95 per
 ◼️
 
 [Data](articles/159f796a.json)
+
+[Extended Data](ext_articles/159f796a.ext.json)
 
 ---
 
@@ -957,6 +999,8 @@ Top contributors to the index in the day were C T Holdings Plc (up at 277.00), J
 ...
 
 [Data](articles/d80a2fef.json)
+
+[Extended Data](ext_articles/d80a2fef.ext.json)
 
 ---
 
@@ -1136,6 +1180,8 @@ The coalition of organizations, including the Walawa Farmers Rights Protection O
 
 [Data](articles/fcaa9866.json)
 
+[Extended Data](ext_articles/fcaa9866.ext.json)
+
 ---
 
 ### Social activist goes to the house of Rajiv Gandhi's mother
@@ -1225,6 +1271,8 @@ The main opposition Samagi Jana Balawegaya (SJB) legislator said South India is 
 ...
 
 [Data](articles/0a030eac.json)
+
+[Extended Data](ext_articles/0a030eac.ext.json)
 
 ---
 
@@ -1499,6 +1547,8 @@ The methods of consumers purchasing goods and services have evolving faster than
 ...
 
 [Data](articles/7a1de479.json)
+
+[Extended Data](ext_articles/7a1de479.ext.json)
 
 ---
 
@@ -1866,6 +1916,8 @@ The state minister also claimed that certain groups were trying to portray Sri L
 
 [Data](articles/c139f2da.json)
 
+[Extended Data](ext_articles/c139f2da.ext.json)
+
 ---
 
 ### Rathupaswala case verdict: 'Unable to intervene in investigative bugs'
@@ -2219,55 +2271,5 @@ Among those featured on this year’s list is Dinara Punchihewa, a Sri Lankan-bo
 [Data](articles/0b5116e7.json)
 
 [Extended Data](ext_articles/0b5116e7.ext.json)
-
----
-
-### A warning to the fishing community
-
-*2024-05-17 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196713) · `si`
-
-Coastal winds from Kalpitiya to Pottuvil will rise to 60-70 km/h, causing rough seas. Expect showers and thunderstorms over the sea. The Department of Meteorology advises caution.
-
-🟩
-
-The Winds of the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil will be increased from time to 60-70 kime and the sea is rough.
-
-Showers and thundershowers will occur at times in the sea areas.
-
-The Department of Meteorology has requested the Department of Meteorology to address it.
-
-◼️
-
-[Data](articles/d8ed704e.json)
-
-[Extended Data](ext_articles/d8ed704e.ext.json)
-
----
-
-### Sachithra's voice test report delayed
-
-*2024-05-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196712) · `si`
-
-Sachithra's voice test report delay due to a broken inspection machine. The Sports Pollenators Prevention Unit awaits the vocabulary report. Sachithra, represented by President's Counsel Kalinga Indatissa, was bailed out after a year-long voice test in court.
-
-🟩
-
-The Sports Pollenators Prevention Unit has not received the vocabulary report today (17) today (17).
-
-The complaint was heard before the Chief Magistrate Thilina Gamage.
-
-Officers in the Sports Corruption Department stated that the inspection machine was broken, the report has not yet been received as the relevant report has ever been received.
-
-President's Counsel Kalinga Indatissa appearing on behalf of the suspect, the voice test was taken in court about a year ago.
-
-After considering the work, the Magistrate ordered to render a reminder to the Government Analyst.
-
-Sachithra Senanayake has released on bail by the courts.
-
-◼️
-
-[Data](articles/02b47f7a.json)
-
-[Extended Data](ext_articles/02b47f7a.ext.json)
 
 ---

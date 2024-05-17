@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 11:53:14**
+As of **2024-05-17 12:05:23**
 
 ## Newspaper Stats
 
-*Scraped **24,618** Articles*
+*Scraped **24,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 2,110
 adaderanalk | 2,847
 tamilmirrorlk | 2,891
 virakesarilk | 3,706
-dailymirrorlk | 3,860
-adaderanasinhalalk | 3,923
+dailymirrorlk | 3,861
+adaderanasinhalalk | 3,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,615 (100.0%) of 24,618 articles have been extended.
+24,618 (100.0%) of 24,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### முன்னாள் இராணுவத் தளபதி ஐக்கிய மக்கள் சக்தியில் இணைவு !
+### සචිත්‍ර ගේ කටහඬ පරීක්ෂණ වාර්තාව පමා වෙයි
+
+*2024-05-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196712) · `si`
+
+මුදලට ක්‍රිකට් තරග පාවාදීමේ සිද්ධියක සැකකරු වශයෙන් නම්කර සිටින හිටපු ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක ට අදාළ පරීක්ෂණවලට අදාළ කටහඬ පරීක්ෂණ වාර්තාව මෙතෙක් ලැබී නොමැති බව ක්‍රීඩා දූෂණ වැළැක්වීමේ අංශය අද (17) කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+
+ඒ ඊට අදාළ පැමිණිල්ල කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ය.
+
+එහිදී ක්‍රීඩා දුෂණ වැළැක්වීමේ අංශයේ නිලධාරීන් සඳහන් කළේ සැකකරුගේ කටහඬ පරීක්ෂණය සිදුකර තිබුණ ද එම පරීක්ෂාව සිදුකරන යන්ත්‍රය කැඩී තිබීම නිසා ඊට අදාළ වාර්තාව මෙතෙක් ලැබී නොමැති බවය.
+
+එම අවස්ථාවේදී සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම කටහඬ පරීක්ෂණය මීට වසරකට පමණ ඉහතදී සිදුකළ ද එහි වාර්තාව මෙතෙක් නොලැබීම තුළින් තම සේවාදායකයාට අසාධාරණයක් සිදුවන බවය.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම කටහඬ පරීක්ෂණයට අදාළ වාර්තාව කඩිනමින් ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙස දන්වා රජයේ රස පරීක්ෂකවරයා වෙත සිහි කැඳවීමක් යොමු කිරීමට නියම කළේය.
+
+...
+
+[Data](articles/02b47f7a.json)
+
+---
+
+### Former Army Commander
 
 *2024-05-17 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183757) · `ta`
 
-முன்னாள் இராணுவத் தளபதியும், பாதுகாப்புப் பதவி நிலை பிரதானியுமான ஜெனரல் மகேஷ் சேனாநாயக்க ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+Mahesh Senanayake, former Army Commander and Chief of Defense, joins the United People's Power under Opposition Leader Sajith Premadasa, supporting his nation-building project.
 
-முன்னாள் இராணுவத் தளபதி ஓய்வுபெற்ற ஜெனரல் மகேஷ் சேனாநாயக்க எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் நாட்டைக் கட்டியெழுப்பும் வேலைத்திட்டத்திற்கு ஆதரவளிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியுடன் இணைந்து கொண்டார்.
+🟩
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட அவர், ஐக்கிய இராணுவ வீரர்கள் சக்தியின் பிரதானியாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று வெள்ளிக்கிழமை  (17) தினம் நியமிக்கப்பட்டார்.
+Former Army Commander and Chief of Defense Leader General Mahesh Senanayake joined the United People's Power.
+
+Former Army Commander Mahesh Senanayake has joined the United People's Council to support the project of building the country of Opposition Leader Sajith Premadasa.
+
+Opposition Leader Sajith Premadasa was appointed as the chief of the United Army Power, which was appointed as the chief of the United People's Power.
 
 ◼️
 
 [Data](articles/d82ce4ff.json)
+
+[Extended Data](ext_articles/d82ce4ff.ext.json)
+
+---
+
+### Former Army Commander General Mahesh Senanayake joins SJB
+
+*2024-05-17 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Army-Commander-General-Mahesh-Senanayake-joins-SJB/108-282804) · `en`
+
+Colombo, May 17 (Daily Mirror)- Former Army Commander General Mahesh Senanayake who  joined the Samagi Jana Balawegaya (SJB) today has been appointed the head of the party's Ranaviru Balakaya.
+
+Ranawiru Balakaya is a group of ex-military men who support the SJB.
+
+He received the appointment from Party Leader  Sajith Premadasa this morning.
+
+◼️
+
+[Data](articles/7ef6a9d1.json)
 
 ---
 
@@ -80,6 +122,22 @@ The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 6
 
 ---
 
+### චීනයේ මෝටර් රථවලට අමෙරිකාව බිය වෙයි
+
+*2024-05-17 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196711) · `si`
+
+අමෙරිකාවට ආනයනය කරන චීනයේ නිෂ්පාදිත මෝටර් රථ සම්බන්ධයෙන් දැඩි ලෙස විමසිලිමත්ව කටයුතු කිරීමට අමෙරිකාවේ අවධානය යොමුවී තිබේ.
+
+එරට වාණිජ ලේකම් ගීනා රයිමොන්ඩෝ පවසා ඇත්තේ චීන වාහන සම්බන්ධයෙන් ගතයුතු පියවර සඳහන් කරමින් තම දෙපාර්තමේන්තුව එළඹෙන මාස කිහිපය තුළදී නීති ගෙන එන බවය.
+
+නවීන තාක්ෂණයෙන් සමන්විත චීන වාහන හේතුවෙන් අමෙරිකානුවන්ගේ දත්ත වල ආරක්ෂාව සම්බන්ධයෙන් ගැටලු මතුවීමට ඉඩ ඇති බව ඇය පැවසුවාය.
+
+◼️
+
+[Data](articles/6f342be8.json)
+
+---
+
 ### Ronaldo tops highest-paid athlete list - Forbes
 
 *2024-05-17 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ronaldo-tops-highest-paid-athlete-list-Forbes/108-282803) · `en`
@@ -106,23 +164,29 @@ Giannis Antetokounmpo (fifth) joins fellow basketball stars LeBron James (fourth
 
 ---
 
-### ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ள யாழ்.பல்கலைக்கழக மருத்துவ பீட புதிய கட்டிடத்தொகுதி
+### The Jaffna University Medical Faculty to be opened by the President
 
 *2024-05-17 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/183751) · `ta`
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்தின் மருத்துவ பீடத்திற்காக யாழ் நகரில் புதிதாகக்கட்டப்பட்ட எட்டு மாடிகளைக் கொண்ட மருத்துவப் பயிற்சி மற்றும் ஆராய்ச்சித்தொகுதி கட்டிடம் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்படவுள்ளது.
+President Ranil Wickremesinghe will inaugurate the new medical training and research building at Jaffna University during his two-day visit to the Northern Province. The facility, costing Rs. 700 million, includes two large theaters, a small theater, endoscopy and mammography units, fertility clinics, a conference hall, a postgraduate center, and staff rooms. However, its completion was delayed due to increased costs, raising the total expenditure to Rs. 830 million.
 
-வட மாகாணத்திற்கு எதிர்வரும் 24 ஆம் திகதி இருநாள் விஜயம் மேற்கொள்ளும் ஜனாதிபதி, அங்கு குறித்த கட்டிடத்தை திறந்துவைக்கவுள்ளார்.
+🟩
 
-இந்த கட்டிடத் தொகுதியில் இரண்டு பெரிய தியேட்டர்கள், ஒரு சிறிய தியேட்டர், எண்டோஸ்கோபி மற்றும் மேமோகிராம், கருவுறுதல் பராமரிப்பு, யூரோடைனமிக் சேவைகள், கேட்போர் கூடம், முதுகலை மையம் மற்றும் மருத்துவ பணியாளர் அறை மற்றும் கற்பித்தல் வசதிகள் உள்ளன.
+President Ranil Wickremesinghe is to be opened by President Ranil Wickremesinghe in the newly built medical training and research building in Jaffna for the Medical Faculty of the University of Jaffna.
 
-இந்தக் கட்டிடத்தொகுதி 700 மில்லியன் ரூபா செலவில் கல்வி அமைச்சின் நிதி ஒதுக்கீட்டுக்கமைய நிர்மாணிக்கப்பட்டுள்ளது.
+The President will be on a two -day visit to the Northern Province on the 24th and will open the building.
 
-இதேவேளை, கட்டடிப்பொருட்களின் விலைகள் அதிகரிப்பால் கட்டிடத் தொகுதி இதுவரை நிறைவு பெறாமல் இருப்பதுடன் கட்டிடத்தை முழுமையாக நிர்மாணித்து பூர்த்தி செய்ய 130 மில்லியன் தேவை என கணக்கிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The building has two large theaters, a small theater, endoscopy and mammogram, fertility maintenance, eurotenamic services, auditorium, postgraduate center and medical staff room and teaching facilities.
+
+The building has been constructed at a cost of Rs. 700 million.
+
+Meanwhile, the building of the building has not yet been completed due to the increase in the cost of building and the construction of the building has been estimated to be 130 million.
 
 ◼️
 
 [Data](articles/d29cf92c.json)
+
+[Extended Data](ext_articles/d29cf92c.ext.json)
 
 ---
 
@@ -172,17 +236,23 @@ Anatomical samples have been sent to Colombo for experiments. He has been ordere
 
 ---
 
-### இலங்கை மீனவர்கள் 21 பேர் இந்தியாவில் கைது
+### 21 Sri Lankan fishermen arrested in India
 
 *2024-05-17 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183756) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சி பகுதியைச் சேர்ந்த 21 மீனவர்கள் 5 படகுகளுடன் வியாழக்கிழமை (16) தமிழக கடற்படையினரால் கைது செய்யப்பட்டனர். கைது செய்யப்பட்ட 21 பேரும் காரைக்கால் பகுதிக்கு கொண்டு செல்லப்பட்டனர்.
+21 Sri Lankan fishermen from Jaffna-Vadamarachchi were arrested by Tamil Nadu navy for crossing the Indian border with 5 boats, carrying cylinders. They were taken to Karaikal.
 
-இவர்கள் அனைவரும் இந்திய எல்லைக்குள் சென்று சிலிண்டர்களுடன் அட்டை பிடித்துக்கொண்டு இருந்த வேளை இவ்வாறு கைது செய்யப்பட்டனர்.
+🟩
+
+21 fishermen from Jaffna - Vadamarachchi area were arrested by Tamil Nadu navy on Thursday (16) with 5 boats. The 21 arrested were taken to the Karaikal area.
+
+All of them were arrested while they went into the Indian border and were holding a card with cylinders.
 
 ◼️
 
 [Data](articles/5272d832.json)
+
+[Extended Data](ext_articles/5272d832.ext.json)
 
 ---
 
@@ -2117,61 +2187,5 @@ Committees Chairman Rohitha Abeygunawardena stressed the 2004 amendment to amend
 [Data](articles/6076406f.json)
 
 [Extended Data](ext_articles/6076406f.ext.json)
-
----
-
-### Ella-Wellawaya road temporarily closed
-
-*2024-05-16 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99259/ella-wellawaya-road-temporarily-closed) · `en`
-
-The Ella - Wellawaya main road will be temporarily closed for traffic from 6.00 p.m. today (16) until 6.00 a.m. tomorrow due to the prevailing inclement weather conditions.
-
-This decision has been taken owing to the dangerous condition of the road in several areas including the Malithagolla area while motorists using the road are advised to use alternate routes.
-
-◼️
-
-[Data](articles/2f01f42d.json)
-
-[Extended Data](ext_articles/2f01f42d.ext.json)
-
----
-
-### Bus driver dies at the wheel, narrowly avoids plunge into precipice
-
-*2024-05-16 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-driver-dies-at-the-wheel-narrowly-avoids-plunge-into-precipice/108-282737) · `en`
-
-May 16 (Daily Mirror) - The driver of a bus travelling from Nuwara-Eliya to Nawalapitiya died at the wheel, narrowly avoiding a plunge into a precipice.
-
-The bus, which had been experiencing technical issues, had its passengers transferred to another vehicle before the driver and conductor managed to fix the problem and resume the journey.
-
-However, while en route, the driver suffered a sudden illness, leading to the accident.
-
-The conductor, who noticed the driver lying on the seat after the accident, immediately contacted the police. The police promptly arrived at the scene, extricated the driver, and rushed him to the Lindula District Hospital, where he was pronounced dead.
-
-The expert forensic doctor at the Nuwara Eliya District General Hospital conducted a post-mortem examination. The body has been referred to the coroner and will be handed over to the relatives.
-
-...
-
-[Data](articles/ae0d3b1b.json)
-
-[Extended Data](ext_articles/ae0d3b1b.ext.json)
-
----
-
-### US, Sri Lanka Navy discuss anti-drug trafficking measures
-
-*2024-05-16 17:48:00* · [`economynextcom`](https://economynext.com/us-sri-lanka-navy-discuss-anti-drug-trafficking-measures-163397/) · `en`
-
-ECONOMYNEXT – US Ambassador Julie Chung met Rear Admiral Rohitha Abeysinghe, the new Northern Naval Commander of the Sri Lanka Navy to discuss efforts between the United States and Sri Lanka supporting Sri Lanka’s maritime sovereignty.
-
-“We’re collaborating on initiatives to enhance maritime domain awareness, along with bolstering anti-drug trafficking measures, and jointly contributing to a Free and Open Indo Pacific and regional prosperity,” Chung said on X (twitter).
-
-Last month the Mini Cooperation Afloat Readiness and Training (CARAT) exercise 2024 concluded in Trincomalee, strengthened maritime cooperation between the two countries further. (Colombo/May16/2024)
-
-◼️
-
-[Data](articles/5fe2d76d.json)
-
-[Extended Data](ext_articles/5fe2d76d.ext.json)
 
 ---

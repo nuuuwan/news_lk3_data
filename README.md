@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 21:53:16**
+As of **2024-05-17 22:06:00**
 
 ## Newspaper Stats
 
-*Scraped **24,712** Articles*
+*Scraped **24,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,115
-adaderanalk | 2,863
-tamilmirrorlk | 2,898
+adaderanalk | 2,864
+tamilmirrorlk | 2,899
 virakesarilk | 3,724
 dailymirrorlk | 3,880
 adaderanasinhalalk | 3,948
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,711 (100.0%) of 24,712 articles have been extended.
+24,712 (100.0%) of 24,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### கோட்டாபய ராஜபக்ஷவிற்கு உயர்நீதிமன்றம் அழைப்பாணை
+
+*2024-05-17 21:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாபய-ராஜபக்ஷவிற்கு-உயர்நீதிமன்றம்-அழைப்பாணை/175-337461) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவிற்கு அழைப்பாணை வௌியிடுமாறு உயர் நீதிமன்றம் இன்று (17) உத்தரவிட்டுள்ளது.
+
+கொழும்பு மேல் நீதிமன்றத்தினால் மரண தண்டனை விதிக்கப்பட்டுள்ள இராணுவ சார்ஜன்ட் சுனில் ரத்நாயக்கவின் விடுதலை தொடர்பில் நீதிமன்றில் சமர்ப்பணங்களை முன்வைக்குமாறு கோரி இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+கடந்த 2000 ஆம் ஆண்டு பெரும் சர்ச்சையை ஏற்படுத்திய யாழ்ப்பாணம் மிரிசுவில் பகுதியில் ஐந்து வயதுக் குழந்தை உட்பட இடம்பெயர்ந்திருந்த 8 பேர் வெட்டிக் கொல்லப்பட்ட சம்பவம் தொடர்பில் அவருக்கு மரண தண்டனை விதிக்கப்பட்டது.
+
+மாற்றுக் கொள்கை மையத்தின் நிறைவேற்றுப் பணிப்பாளர் கலாநிதி பாக்யசோதி சரவணமுத்துவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு, யசந்த கோதாகொட மற்றும் அச்சல வெங்கப்புலி ஆகியோர் அடங்கிய உயர் நீதிமன்ற அமர்வு முன்னிலையில் அழைக்கப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f5f88100.json)
+
+---
+
+### Sri Lanka Navy promotes over 3,000 sailors on 15th Victory Day anniversary
+
+*2024-05-17 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99288/sri-lanka-navy-promotes-over-3000-sailors-on-15th-victory-day-anniversary-) · `en`
+
+In view of the 15th anniversary of Victory Day, the Sri Lanka Navy has promoted 3,146 senior and junior Sailors of the Regular and Voluntary Forces to their next ranks, Sri Lanka Navy said.
+
+The relevant promotions have been done by the Commander of the Navy, Vice Admiral Priyantha Perera, with the approval of President and Commander-in-Chief of the Armed Forces, Ranil Wickremesinghe.
+
+Sri Lanka’s security forces, including the armed forces, police, and Civil Security Department, played a critical role in defeating a nearly 30-year-long terrorism. Their selfless commitment, including those who made supreme sacrifice in the line of duty, were instrumental in a successful humanitarian operation that established sovereignty and territorial integrity of the country, the navy said.
+
+...
+
+[Data](articles/c7232c61.json)
+
+---
 
 ### Promotions to 3,146 sailors
 
@@ -69,6 +103,8 @@ The Supreme Court has already granted leave to proceed with these petitions in t
 ...
 
 [Data](articles/8a7d3d0b.json)
+
+[Extended Data](ext_articles/8a7d3d0b.ext.json)
 
 ---
 
@@ -2263,49 +2299,5 @@ All of them were arrested while they went into the Indian border and were holdin
 [Data](articles/5272d832.json)
 
 [Extended Data](ext_articles/5272d832.ext.json)
-
----
-
-### Indian boat
-
-*2024-05-17 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183755) · `ta`
-
-Fishermen from India's Mallipattinam arrived in Sri Lanka's Jaffna on a boat. Three men, including Perumal Vanjinathan, Rajendran Mahesh, and Ilangovan Ranjit Kumar, were detained by the Ilavalai police for investigation.
-
-🟩
-
-A boat of fishermen from India - Mallipattinam landed in Jaffna - Champilthurai on Thursday evening.
-
-The fishermen of Perumal Vanjinathan, Rajendran Mahesh and Ilangovan Ranjit Kumar were on the shore with the boat.
-
-The three fishermen have been taken to the Ilavalai police station. Ilavalai police are conducting investigations.
-
-◼️
-
-[Data](articles/25bc716b.json)
-
-[Extended Data](ext_articles/25bc716b.ext.json)
-
----
-
-### Former army chief Mahesh Senanayake joins SJB
-
-*2024-05-17 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99268/former-army-chief-mahesh-senanayake-joins-sjb) · `en`
-
-Former Commander of the Sri Lanka Army, General (Retd) Mahesh Senanayake has joined the Samagi Jana Balawegaya (SJB).
-
-Subsequently, he has been appointed as the leader of the ‘Samagi Ranawiru Balawegaya’ which is affiliated with the SJB.
-
-Senanayake was the 22nd Commander of the Army and served for over two years in the position. Prior to that, he had served as the Chief of Staff of the Sri Lanka Army.
-
-After formally retiring from the Sri Lanka Army, he was promoted to the rank of General by then-President Maithripala Sirisena on 20 August, 2019.
-
-Later, Senanayake contested the 2019 Presidential Election under the National People’s Party (NPP), and placed fourth after the three candidates from the three major political parties.
-
-◼️
-
-[Data](articles/e50ea89c.json)
-
-[Extended Data](ext_articles/e50ea89c.ext.json)
 
 ---

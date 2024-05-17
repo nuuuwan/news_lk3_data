@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 17:34:13**
+As of **2024-05-17 17:54:16**
 
 ## Newspaper Stats
 
-*Scraped **24,672** Articles*
+*Scraped **24,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,113
 adaderanalk | 2,860
 tamilmirrorlk | 2,895
 virakesarilk | 3,714
-dailymirrorlk | 3,868
+dailymirrorlk | 3,869
 adaderanasinhalalk | 3,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,672 (100.0%) of 24,672 articles have been extended.
+24,672 (100.0%) of 24,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Traffic advisory issued for tomorrow in Colombo
+
+*2024-05-17 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-advisory-issued-for-tomorrow-in-Colombo/108-282820) · `en`
+
+Colombo, May 17 (Daily Mirror) - In preparation for the National War Heroes' Day ceremony scheduled for Saturday evening (18), police announced that a special traffic plan will be implemented.
+
+Accordingly, from 3:00 p.m. on May 19, entry and exit lanes towards Parliament Road will be closed from Polduwa Junction and Kiyanham Junction.
+
+Hence, motorists are advised to use alternate routes during this time to avoid delays.
+
+◼️
+
+[Data](articles/e085c1fa.json)
+
+---
 
 ### President reveals plans for AI-driven agricultural transformation in Sri Lanka
 
@@ -182,7 +198,7 @@ The youth was handed over to the officers of Katunayake Airport for further inve
 
 *2024-05-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99282/special-traffic-plan-for-war-heroes-day-ceremony) · `en`
 
-The National War Heroes’ Day ceremony is scheduled to be held on Saturday (19) evening at the Parliament Ground and a special traffic plan to be implemented on that day was announced by Police today.
+The National War Heroes’ Day ceremony is scheduled to be held on Sunday (19) evening at the Parliament Ground and a special traffic plan to be implemented on that day was announced by Police today.
 
 Accordingly, the entry and exit lanes towards Parliament Road are closed from Polduwa Junction and Kiyanham Junction from 03.00 p.m. on May 19.
 
@@ -2223,35 +2239,5 @@ US Ambassador to Sri Lanka Julie Sung stated in his X post that the people of th
 [Data](articles/d8313d77.json)
 
 [Extended Data](ext_articles/d8313d77.ext.json)
-
----
-
-### 15 years since the end of the war, "Kudamma's view"
-
-*2024-05-17 02:00:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0klkl0zdw7o) · `si`
-
-Despite peace for 15 years post-war, villagers in Mullaitivu's Kokilai remain landless and impoverished, lacking basic amenities.
-
-🟩
-
-None contains none of this. 'We are in the Kokilai village from birth. But still no land license. "
-
-15 years since the end of the war, "Kudamma's view"
-
-We have reached the 15th consecutive celebration, over the decades of civil war.
-
-However, the villagers of Mullaitivu, Kokilai told the BBC Sinhala service that they are still living as 'orphan'.
-
-About 300 families live in this village and the majority are Sinhalese.
-
-In the 1930s, this village of settlement had to leave the war, and to leave for a short period of time. Even though generations, they have not received a license or license for land today.
-
-The people who live in fishing work have been built to provide kerosene to Kerosene, but it has not been opened today. The Kokilai said that there is no basic amenities in the village and no politician is looking into it.
-
-◼️
-
-[Data](articles/c56b744f.json)
-
-[Extended Data](ext_articles/c56b744f.ext.json)
 
 ---

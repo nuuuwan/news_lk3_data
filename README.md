@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 08:07:25**
+As of **2024-05-17 08:18:26**
 
 ## Newspaper Stats
 
-*Scraped **24,579** Articles*
+*Scraped **24,584** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 220
-bbccomsinhala | 249
+bbccomsinhala | 250
 dbsjeyarajcom | 251
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,413
 dailyftlk | 1,450
-adalk | 2,107
-adaderanalk | 2,840
+adalk | 2,108
+adaderanalk | 2,841
 tamilmirrorlk | 2,887
 virakesarilk | 3,696
 dailymirrorlk | 3,855
-adaderanasinhalalk | 3,917
+adaderanasinhalalk | 3,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,579 (100.0%) of 24,579 articles have been extended.
+24,582 (100.0%) of 24,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### ශ්‍රී ලංකාවේ මීළඟ අමෙරිකානු තානාපතිනිය ගැන ගම්මන්පිල ගෙන්  චෝදනාවක්
+
+*2024-05-17 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196705) · `si`
+
+ශ්‍රී ලංකාවේ මීළඟ අමෙරිකානු තනාපතිනිය ලෙස නම් කර ඇති එළිසබෙත් හොස්ට් මහත්මියගේ පත්වීම පිළිනොගන්නා ලෙස උදය ගම්මන්පිල මන්ත්‍රීවරයා රජයෙන් ඉල්ලීමක් කරයි.
+
+අමෙරිකාවේ විදේශ කටයුතු පිළිබඳ සෙනට් කාරක සභාවේ සභිකයින් එළිසබෙත් හොස්ට් මහත්මියට යොමුකළ ප්‍රශ්නවලට ඇය ලබාදුන් පිළිතුරු රටට අහිතකර තත්ත්වයක් නිර්මාණය කරනු ඇති බව මන්ත්‍රීවරයා පෙන්වා දෙයි.
+
+ඇය සෙනට් කාරක සභාවේ සභිකයින් විසින් සිදුකළ විමසීම් හමුවේ ලබාදුන් ප්‍රකාශ මේ වනවිට අන්තර්ජාලයට යොමුකර තිබේ.
+
+ඒ තුළ ණය ප්‍රතිව්‍යුගතකරණ ක්‍රියාවලිය, ජාත්‍යන්ර මුල්‍ය අරමුදල සමග ඇති කරගත් එකඟතා ක්‍රියාත්මක කිරීම, රාජ්‍ය තාන්ත්‍රික සබඳතා පවත්වාගෙන යාම, මෙරට විදේශ ප්‍රතිපත්තිය, විදෙස් නෞකා හා වරායන් සම්බන්ධ කරුණු ඇතුළු රජය සමග නව ප්‍රතිපත්ති ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් වු අදහස් රැසක් එළිසබෙත් හොස්ට් මහත්මිය සෙනට් කාරක සභාව ඉදිරියේ ප්‍රකාශ කර ඇති බව සඳහන් ය.
+
+ඇයගේ මෙම කරුණු දැක්වීම සම්බන්ධයෙන් කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් උදය ගම්මන්පිල මන්ත්‍රීවරයා මෙලෙස අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/f04d2698.json)
+
+---
+
+### ඇල්ල - වැල්ලවාය මාර්ගය විවෘත කෙරේ
+
+*2024-05-17 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196704) · `si`
+
+තාවකාලිකව වසා දැමූ ඇල්ල - වැල්ලවාය මාර්ගය නැවත ගමනාගමනය සඳහා විවෘත කර තිබේ.
+
+පොලීසියේ පූර්ණ අධීක්ෂණය යටතේ දැඩි සුපරික්ෂාවෙන් අදාළ මාර්ගයේ ගමනාගමන කටයුතුවල නිරතවන ලෙස දැනුම්දෙයි.
+
+කෙසේවෙතත් අද (17) දිනයේ ද වර්ෂාව ඇදහැලුණ හොත් මෙම මාර්ගය යළි අවදානම් තත්ත්වයකට පත්විය හැකි බවද ආපදා කළමනාකරණ ඒකකය පවසයි.
+
+එසේ වුවහොත් යළිත් ඕනෑම අවස්ථාවක අදාළ මාර්ගය වසා දැමීමට සිදුවනු ඇත.
+
+◼️
+
+[Data](articles/2d4288e2.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-05-17 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99263/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showery and windy conditions are expected to enhance due to pre-monsoonal conditions over the country and surrounding sea areas.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Eastern, Northern and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 12.00 noon, it said.
+
+Heavy showers about 100mm are likely at some places in Western, Sabaragamuwa, Central, Eastern and Uva provinces.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/f95be378.json)
+
+[Extended Data](ext_articles/f95be378.ext.json)
+
+---
 
 ### Man hit and killed by train
 
@@ -283,6 +343,36 @@ US Ambassador to Sri Lanka Julie Sung stated in his X post that the people of th
 [Data](articles/d8313d77.json)
 
 [Extended Data](ext_articles/d8313d77.ext.json)
+
+---
+
+### 15 years since the end of the war, "Kudamma's view"
+
+*2024-05-17 02:00:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0klkl0zdw7o) · `si`
+
+Despite peace for 15 years post-war, villagers in Mullaitivu's Kokilai remain landless and impoverished, lacking basic amenities.
+
+🟩
+
+None contains none of this. 'We are in the Kokilai village from birth. But still no land license. "
+
+15 years since the end of the war, "Kudamma's view"
+
+We have reached the 15th consecutive celebration, over the decades of civil war.
+
+However, the villagers of Mullaitivu, Kokilai told the BBC Sinhala service that they are still living as 'orphan'.
+
+About 300 families live in this village and the majority are Sinhalese.
+
+In the 1930s, this village of settlement had to leave the war, and to leave for a short period of time. Even though generations, they have not received a license or license for land today.
+
+The people who live in fishing work have been built to provide kerosene to Kerosene, but it has not been opened today. The Kokilai said that there is no basic amenities in the village and no politician is looking into it.
+
+◼️
+
+[Data](articles/c56b744f.json)
+
+[Extended Data](ext_articles/c56b744f.ext.json)
 
 ---
 
@@ -815,6 +905,28 @@ The situation escalated when a porter assisting with the luggage of the minister
 [Data](articles/199c2363.json)
 
 [Extended Data](ext_articles/199c2363.ext.json)
+
+---
+
+### No salary increase this year
+
+*2024-05-16 20:15:39* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ට-නැවතත්-මේ-වසරේදී-වැටුප්-වැඩිවීමක්-නෑ/11-409694) · `si`
+
+President Wickremesinghe announced no salary hikes for public workers this year, citing economic instability. He promised increases will resume next year, aiming to prevent economic collapse.
+
+🟩
+
+President Ranil Wickremesinghe has informed the Cabinet of the Cabinet that no salary increases in the period of this year.
+
+He said that a salary increase in a public worker would return to the coming year. Accordingly, if a salary increase in this year, the country can be a collapse of the economically.
+
+"Our economy is not yet stable. So if we have to overcome the next time, we face many difficulties. But the President stated that returning increases again next year. Therefore, all other professionals are solved. But our regret is not able to give a salary increase due to this financial crisis. "
+
+◼️
+
+[Data](articles/00a9adb5.json)
+
+[Extended Data](ext_articles/00a9adb5.ext.json)
 
 ---
 
@@ -2129,125 +2241,5 @@ It is also worth noting that it has been invited to play the minds of the war an
 [Data](articles/5c033b4b.json)
 
 [Extended Data](ext_articles/5c033b4b.ext.json)
-
----
-
-### The government should abandon the proceedings of the Bill to set up the Reconciliation Commission - International experts
-
-*2024-05-16 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183702) · `ta`
-
-International experts urge Sri Lanka to halt plans for a Reconciliation Commission, citing concerns over domestic mechanisms' effectiveness and past failures. They advocate for international involvement, emphasizing the need for transparency, justice, and adherence to human rights standards.
-
-🟩
-
-True;Internationals on transgender justice and human rights have jointly appealed to the Sri Lankan government to abandon the implementation of the law to establish the Commission on Reconciliation.
-
-International experts on transitional justice and human rights have requested to listen and examine the requests made by the war victims and the civil society to publish the war victims of war and civil society.
-
-International experts, who have said that the government should seriously investigate their request for international contribution to any domestic fact and reconciliation commission, is a wide range of confidence that the domestic mechanism alone cannot be established.
-
-They have also appealed to the Sri Lankan government not to help the Sri Lankan government as the victims of the war in Sri Lanka, with the experience of the United Nations with the fact that Sri Lanka should work with the truth and justice of the war in Sri Lanka.
-
-...
-
-[Data](articles/b74d0a54.json)
-
-[Extended Data](ext_articles/b74d0a54.ext.json)
-
----
-
-### Nagapattinam - Kankesanthurai Shipping Service No Service
-
-*2024-05-16 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183699) · `ta`
-
-The Nagapattinam-Kankesanthurai shipping service, initially set to launch on March 13, has been delayed until May 19 due to legal permit issues. Passengers can now book from May 19 onwards or seek refunds by contacting customer.care@sailindsri.com.
-
-🟩
-
-It was announced that the shipping service would be launched on the 13th of last month.. In this case, the shipping service has been postponed to the 19th.
-
-The delay was due to delay due to some legal permits, including the launch of the shipping service.
-
-So it has been announced that they can travel on or after May 19. Or if you want to completely recover the payment fee, please contact the e -mail address of customer.care@sailindsri.com. It has been announced that the payment fee can be obtained.
-
-◼️
-
-[Data](articles/1422bb0a.json)
-
-[Extended Data](ext_articles/1422bb0a.ext.json)
-
----
-
-### Advanced Level on June 4th
-
-*2024-05-16 15:49:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ආරම්භය-ජූනි-4දා/11-409681) · `si`
-
-On June 4th, the Ministry of Education announced the commencement of Advanced Level classes for students who took the GCE O/L Exam. The decision is under review by provincial and zonal education authorities.
-
-🟩
-
-The Ministry of Education has issued a securement to start the Advanced Level Classes in the schools to sit for students who sat for GCE (O / L) Examination.
-
-The Ministry of Education has further stated that the Circular is still inquiry into provincial and zonal education Carpala.
-
-◼️
-
-[Data](articles/cc4acbf6.json)
-
-[Extended Data](ext_articles/cc4acbf6.ext.json)
-
----
-
-### Massive setback for accountability and reconciliation - the Diocese of Jaffna
-
-*2024-05-16 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183682) · `ta`
-
-Arrests related to Mullivaikkal porridge hinder reconciliation efforts in Jaffna Diocese, highlighting ongoing human rights issues and the need for justice and acknowledgment of past atrocities.
-
-🟩
-
-The arrest of Mullivaikkal porridge for the responsibility and to uphold justice. The Catholic Diocese Peace Commission of Jaffna has said that it is a major setback to bring about reconciliation
-
-In a statement issued by the Catholic Diocese of Jaffna, the Jaffna Diocese of Judicial Commission said in a statement on the arrest and obstacle of Mullivaikkal porridge.
-
-This thorny mouth is an important code of the ethnic groups carried out by the Sri Lankan government against the Tamil people of the North East.. Mullivaikkal today is still living among us. Their tragic experience is to be explained to the future society.
-
-According to the government's departments, the number of people who were closely blocked in a narrow landfill (declared by the state as a security zone) in the Mullivaikkal area.. Essential food items were sent to those who lived within various sanctions.
-
-...
-
-[Data](articles/a3446bd6.json)
-
-[Extended Data](ext_articles/a3446bd6.ext.json)
-
----
-
-### Yall. Husband arrested in dress
-
-*2024-05-16 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183669) · `ta`
-
-In Jaffna's eastern region, a man was arrested for allegedly murdering his wife, Jegaseelan Sangeetha, 44, whose body was found in a water-filled container outside their home. The police conducted an autopsy confirming her death due to strangulation.
-
-🟩
-
-A woman's husband has been arrested in connection with the murder of a family woman in the eastern part of Jaffna - Vadamarachchi.
-
-The 44 -year -old Jegaseelan Sangeetha, a 44 -year -old from North, North, has been assassinated.
-
-The woman is found dead in a water -filled container (paral) that was placed in front of the toilet of the house.
-
-Following the announcement of the Maruthankeni police, the police rushed to the scene and handed over the body to the Point Pedro Base Hospital for anatomical examination.
-
-Anatomical examination has been found to have been murdered by a woman's neck.
-
-The woman's husband was arrested on Wednesday (15) as the Maruthankeni police were carrying out investigations into the incident.
-
-Police are investigating the woman's husband on the basis of information received by the police that there is frequent conflicts between husband and wife.
-
-◼️
-
-[Data](articles/4697f58d.json)
-
-[Extended Data](ext_articles/4697f58d.ext.json)
 
 ---

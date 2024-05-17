@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 16:33:49**
+As of **2024-05-17 16:50:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,665 (100.0%) of 24,667 articles have been extended.
+24,667 (100.0%) of 24,667 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Imports from the neighbouring country increased by 3.24 per cent to $101.7 billi
 
 [Data](articles/354b169a.json)
 
+[Extended Data](ext_articles/354b169a.ext.json)
+
 ---
 
-### ලතින් අමෙරිකාවේ සිට පොළොන්නරුවේ ගොවියාට ආ අයිස් පාර්සලය
+### I ice parcel from Latin America to the farmer to the farmer
 
 *2024-05-17 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196725) · `si`
 
-රුපියල් කෝටි දහයක ආසන්න වටිනාකමක් සහිත මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් කුරියර් පාර්සලයක් ලෙස ගුවන් තැපෑලෙන් එවා තිබිය දී රේගු මත්ද්‍රව්‍ය පාලන අංශ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A drug shipment from Latin America was intercepted by the Customs Drug Administration (IMPL). The package, addressed to a 25-year-old farmer in Polonnaruwa, contained 3 kg of drugs. It was delivered to a hidden location in Katunayake before being seized.
 
-පුලියක සඟවා ලතින් අමෙරිකාවේ ග්වාතමාලා රාජ්‍යයේ සිට කටුනායක, සීදූවේ කලම්බූ කාර්ගෝ බන්ධිත ගුදම් ගබඩා සංකීර්ණය වෙත අදාළ පාර්සලය එවා තිබිණි.
+🟩
 
-අදාළ මත්ද්‍රව්‍ය තොගය පොළොන්නරුව ජයන්තිපුර ප්‍රදේශයේ 25 හැවිරිදි ගොවියෙකුගේ ලිපිනයට එවා ඇති අතර, ඔහු මෙම පාර්සලය රැගෙන යෑමට පැමිණි අවස්ථාවේ දී ඇසුරුම ගලවා පරීක්ෂා කිරීමෙන් පසුව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+Customs Drug Administration Units have been arrested by the Customs Drug Administration (IMPL), nearly Rs.
 
-මෙම "පුලිය" තුළ කිලෝ ග්‍රෑම් 03යි ග්‍රෑම් 101ක් බරැති මෙතැම්පටමයින් හෙවත් අයිස් මත්ද්‍රව්‍ය තොගයක් සඟවා තිබී ඇත.
+The parcel was sent to the Piyin's hidden Latin state in Katunayake, Katunayake, Katunayake, Katunayake, Katunayake, Katunayake.
 
-අත්අඩංගුවට ගත් තරුණයා වැඩිදුර විමර්ශන සඳහා කටුනායක ගුවන්තොටුපොළ පොලිස් නාශක අංශයේ නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබිණි.
+The vehicle has been sent to a 25-year-old farmer address in the area in Polonnaruwa Jayanthipura, Polonnaruwa.
+
+There were three kilograms of mummadam, which weighted three kilograms and 101 grams, or 101 grams weighing 101 grams.
+
+The youth was handed over to the officers of Katunayake Airport for further investigations.
 
 ◼️
 
 [Data](articles/46e66c23.json)
+
+[Extended Data](ext_articles/46e66c23.ext.json)
 
 ---
 

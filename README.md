@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 11:18:15**
+As of **2024-05-17 11:34:02**
 
 ## Newspaper Stats
 
-*Scraped **24,611** Articles*
+*Scraped **24,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,110
-adaderanalk | 2,846
-tamilmirrorlk | 2,890
+adaderanalk | 2,847
+tamilmirrorlk | 2,891
 virakesarilk | 3,703
-dailymirrorlk | 3,858
+dailymirrorlk | 3,860
 adaderanasinhalalk | 3,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,610 (100.0%) of 24,611 articles have been extended.
+24,611 (100.0%) of 24,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Ronaldo tops highest-paid athlete list - Forbes
+
+*2024-05-17 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ronaldo-tops-highest-paid-athlete-list-Forbes/108-282803) · `en`
+
+(BBC) - Cristiano Ronaldo has topped the Forbes list of highest-paid athletes for the fourth time in his career, with Jon Rahm moving up to second.
+
+Ronaldo also headed the list last year following his move to Saudi Arabian football club Al Nassr.
+
+Business magazine Forbes says, external the 39-year-old Portugal forward earned $260m (£205m) - up from $136m (£108.7m) - over the past 12 months.
+
+Ronaldo's great rival Lionel Messi has fallen a place to third behind Rahm.
+
+The Spanish golfer has jumped up to second on the back of his switch to the Saudi-funded LIV Golf tour and is reported to have earned $218m (£172m).
+
+Footballers Neymar and Karim Benzema have also entered the top 10 after moves to the Saudi Pro League.
+
+Giannis Antetokounmpo (fifth) joins fellow basketball stars LeBron James (fourth) and Stephen Curry (ninth) on the list, while American football quarterback Lamar Jackson is in 10th spot.
+
+...
+
+[Data](articles/b89b716e.json)
+
+---
+
+### Armed forces personnel from Sri Lanka, India, Nepal to embark on Lumbini-Colombo bike expedition
+
+*2024-05-17 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99269/armed-forces-personnel-from-sri-lanka-india-nepal-to-embark-on-lumbini-colombo-bike-expedition) · `en`
+
+Armed Forces personnel from India, Sri Lanka and Nepal will embark on a bike expedition from Lumbini to Colombo, along the Buddha circuit, to strengthen ties and foster goodwill among south Asian nations.
+
+The Heartfulness Bike Expedition will be flagged off from Lumbini, the birthplace of Gautam Buddha, by Nepal’s Prime Minister Pushpa Kamal Dahal on Buddha Jayanti on May 23 and conclude in Colombo on June 16, said Rahul Patil, co-convenor of the Heartfulness Buddha Circuit Ride (HBCR).
+
+Initiated by the Sri Lankan government in collaboration with the governments of Nepal and India, the expedition will have 15 bikers from the Armed Forces of the three countries ride through diverse landscapes and historical landmarks linked to Gautam Buddha.
+
+The expedition will cover seven states and travel aboard an Indian Navy ship from Chennai to Kankesanthurai in Jaffna district of Sri Lanka, from where it will traverse through the island nation to its capital Colombo.
+
+...
+
+[Data](articles/3a6365e4.json)
+
+---
 
 ### Former army chief Mahesh Senanayake joins SJB
 
@@ -44,11 +86,13 @@ Senanayake was the 22nd Commander of the Army and served for over two years in t
 
 After formally retiring from the Sri Lanka Army, he was promoted to the rank of General by then-President Maithripala Sirisena on 20 August, 2019.
 
-Later, Senanayake contested the 2019 Presidential Election under the National People’s Party (NPP), and placed fourth the after three candidates from the three major political parties.
+Later, Senanayake contested the 2019 Presidential Election under the National People’s Party (NPP), and placed fourth after the three candidates from the three major political parties.
 
 ◼️
 
 [Data](articles/e50ea89c.json)
+
+[Extended Data](ext_articles/e50ea89c.ext.json)
 
 ---
 
@@ -137,6 +181,26 @@ A sudden death investigation officer A. Jayapalasingham. The body was handed ove
 [Data](articles/8924b8df.json)
 
 [Extended Data](ext_articles/8924b8df.ext.json)
+
+---
+
+### யாழில் துஷ்பிரயோகப்படுத்தப்பட்டு பெண் கொலை; கணவர் கைது
+
+*2024-05-17 10:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-துஷ்பிரயோகப்படுத்தப்பட்டு-பெண்-கொலை-கணவர்-கைது/71-337451) · `ta`
+
+யாழ்ப்பாணம் - தாளையடியில் பெண்ணொருவர் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை செய்யப்பட்ட சம்பவம் தொடர்பாக பெண்ணின் கணவர் சந்தேகத்தின் அடிப்படையில் கைது செய்யப்பட்டார்.
+
+காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸார் சந்தேக நபரை கைது செய்து மருதங்கேணி பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+மருதங்கேணி பொலிஸ் பிரிவிற்குட்பட்ட உடுத்துறை வடக்கு தாளையடி பகுதியில் கடந்த 10 ஆம் திகதி பெண் ஒருவர் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை செய்யப்பட்டார்.
+
+கடற்றொழிலுக்கு சென்று அதிகாலை வீடு திரும்பியபோது, வீட்டின் கழிப்பறைக்கு முன்பாக சந்தேகத்திற்கிடமான முறையில் மனைவி சடலமாகக் கிடந்துள்ளார் என தெரிவித்து உயிரிழந்த பெண்ணின் கணவன் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்திருந்தார்.
+
+உயிரிழந்த பெண் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கழுத்து நெரித்து கொலை செய்யப்பட்டமை பிரேத பரிசோதனையில் உறுதி செய்யப்பட்டது.
+
+...
+
+[Data](articles/27db5439.json)
 
 ---
 
@@ -2119,77 +2183,5 @@ The Ministry of Education said that if the information was not available, the pr
 [Data](articles/48388493.json)
 
 [Extended Data](ext_articles/48388493.ext.json)
-
----
-
-### Amnesty Council Secretary General meets relatives of missing persons
-
-*2024-05-16 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183709) · `ta`
-
-Amnesty International's Secretary General visits Sri Lanka, meeting families of missing persons in Mullaitivu. Urging truth, justice, and accountability for war crimes and human rights abuses.
-
-🟩
-
-The Secretary General of the Amnesty International, who is visiting Sri Lanka for the first time, will meet with relatives of the missing persons in Mullaitivu on Friday (17).
-
-The Amnesty International has continued to urge truth, justice and accountability to ensure that war crimes, human rights violence and violence against humanity, have been urging Sri Lanka on the international stage.
-
-Amnesty International Secretary General of the International International, who has made an official visit to the South Asian region for the first time, has arrived in the country on Thursday (16), with the end of the three decades of war (18).
-
-Accordingly, he will visit Mullaitivu on Friday (17), where he will meet relatives of the missing persons.. The meeting will be held in Mullaithivu at 5.00 pm today, representing the association of the North and East Missing Relations Association, Jaffna, Vavuniya, Mannar, Kilinochchi, Mullaitivu, Batticaloa, Trincomalee and Ampara.
-
-...
-
-[Data](articles/91c17b2f.json)
-
-[Extended Data](ext_articles/91c17b2f.ext.json)
-
----
-
-### New Law - Minister of Justice to Correlate Assets by Criminal Affairs
-
-*2024-05-16 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/183708) · `ta`
-
-Wijeyadasa Rajapaksa announced a new law to nationalize criminally acquired assets, emphasizing the importance of protecting citizens' rights and restoring order and economic stability through adherence to the rule of law.
-
-🟩
-
-Minister of Justice, Prison and Constitutional Reforms Wijeyadasa Rajapaksa said that the new law will be taken to bring in new legislation to the state -owned assets.
-
-The foundation stone laying ceremony for a new office for lawyers at the Kandy Court Building was held on Wednesday. He said this while addressing the gathering.
-
-The main issue of justice is the general public who is caught in the case.
-
-Conducting by lawyers is not working. That is the honorable profession. Someone seeking court is a place where there is no other place to solve his problem. So we must protect the customer's rights to court.
-
-In the past, our country's publicity has fallen. The country is anarchy. No one came forward to take responsibility for the country.
-
-We must protect such a situation from the future. When the country became anarchy, the economy fell and the rule of law fell into a state of instability. The rule of law must be protected to build the country's economy.
-
-...
-
-[Data](articles/667499eb.json)
-
-[Extended Data](ext_articles/667499eb.ext.json)
-
----
-
-### Falls temporarily closed the Wellawaya road
-
-*2024-05-16 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196692) · `si`
-
-Due to heavy rains, the Badulla Wellawaya road is temporarily closed from 6 pm, affecting travel through the Malitagolla area. Use alternative routes.
-
-🟩
-
-The Badulla Wellawaya road today has been temporarily closed from 6 pm today due to heavy rains.
-
-The steps have been taken due to a risk situation in several areas including Malitagolla area and informs the people to use alternative routes.
-
-◼️
-
-[Data](articles/ab37a486.json)
-
-[Extended Data](ext_articles/ab37a486.ext.json)
 
 ---

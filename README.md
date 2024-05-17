@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 10:53:51**
+As of **2024-05-17 11:05:48**
 
 ## Newspaper Stats
 
-*Scraped **24,605** Articles*
+*Scraped **24,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 1,450
 adalk | 2,110
 adaderanalk | 2,845
 tamilmirrorlk | 2,890
-virakesarilk | 3,699
+virakesarilk | 3,703
 dailymirrorlk | 3,858
-adaderanasinhalalk | 3,922
+adaderanasinhalalk | 3,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,604 (100.0%) of 24,605 articles have been extended.
+24,605 (100.0%) of 24,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### எரிபொருள் இன்மையால் ரையொதுங்கிய இந்திய படகு!
+
+*2024-05-17 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183755) · `ta`
+
+இந்தியா - மல்லிப்பட்டினம் பகுதியைச் சேர்ந்த மீனவர்களது படகு ஒன்று வியாழக்கிழமை (16) மாலை எரிபொருள் தீர்ந்ததனால் யாழ்ப்பாணம் - சம்பில்துறையில் கரையொதுங்கியது.
+
+பெருமாள் வாஞ்சிநாதன், ராஜேந்திரன் மகேஷ், இளங்கோவன் ரஞ்சித்குமார் ஆகிய மீனவர்கள் படகுடன் கரையொதுங்கினர்.
+
+குறித்த மீனவர்கள் மூவரும் இளவாலை பொலிஸ் நிலையத்திற்கு அழைத்து செல்லப்பட்டுள்ளனர். இளவாலை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/25bc716b.json)
+
+---
+
+### ජෙනරාල් මහේෂ් සේනානායක සජබයට
+
+*2024-05-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196709) · `si`
+
+හිටපු හමුදාපති මෙන්ම හිටපු යුද හමුදා මාණ්ඩලික ප්‍රධානී, ජෙනරාල් මහේෂ් සේනානායක සමගි ජන බලවේගයට එක්වී තිබේ.
+
+එසේ සමගි ජන බලවේගය හා එක්වීමෙන් අනතුරුව සමගි රණවිරු බලවේගයේ ප්‍රධානියා ලෙස ඔහුව පත්කර ඇත.
+
+◼️
+
+[Data](articles/00296526.json)
+
+---
 
 ### Colombo HC sentences 9 Pakistani drug traffickers to 10 years in prison
 
@@ -49,6 +79,46 @@ Furthermore, the police mentioned that measures are underway to extradite the su
 ◼️
 
 [Data](articles/6e9b836c.json)
+
+[Extended Data](ext_articles/6e9b836c.ext.json)
+
+---
+
+### யாழில் முதியவர் உயிர்மாய்ப்பு
+
+*2024-05-17 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183748) · `ta`
+
+யாழ்ப்பாணம், ஏழுகோவில் ஏழாலை கிழக்கு பகுதியில் மன விரக்தியில் இருந்த முதியவர் ஒருவர் வியாழக்கிழமை (16) தவறான முடிவெடுத்து கிணற்றில் விழுந்து உயிரிழந்துள்ளார்.
+
+குறித்த முதியவரின் மனைவி உயிரிழந்துள்ளார். அவரது பிள்ளைகள் அனைவரும் வெளிநாட்டில் வசித்து வருகின்ற நிலையில் குறித்த முதியவர் வீட்டில் தனியாக வசித்து வந்துள்ளார்.
+
+இந்நிலையில், மன விரக்தியடைந்த அவர் இன்றையதினம் அவரது வீட்டில் உள்ள கிணற்றில் விழுந்து உயிர்மாய்த்துள்ளார். இந்த காட்சி அங்கிருந்த சி.சி.டி கமராவில் பதிவாகியுள்ளது.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/8924b8df.json)
+
+---
+
+### யாழ்ப்பாணத்தில் இளம் குடும்பப் பெண் உயிரிழப்பு - மரணத்தில் மர்மம்!
+
+*2024-05-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183752) · `ta`
+
+யாழ்ப்பாணம் - தாவடி பகுதியில் இளம் குடும்பப் பெண் ஒருவர் வியாழக்கிழமை (16) சடலமாக மீட்கப்பட்டுள்ளார்.
+
+காளி கோவில் வீதி, தாவடி தெற்கு பகுதியைச் சேர்ந்த ஜென்சியா சிவசூரியன் (வயது 31) என்ற ஒரு பிள்ளையின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணின் கணவரும் மகளும் பிரான்ஸில் வசித்து வருகின்றனர். இவர் புதன்கிழமை இரவு  உணவருந்தி விட்டு தூக்கத்திற்கு சென்றார். பின்னர்  வியாழக்கிழமை காலை படுக்கையில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். சடலம் மீட்கப்பட்டு வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்டு உடற்கூற்று பரிசோதனை மேற்கொள்ளப்பட்டது. இருப்பினும் மரணத்திற்கான காரணம் கண்டறியப்படவில்லை.
+
+பரிசோதனைகளுக்காக உடற்கூற்று மாதிரிகள் கொழும்பிற்கு அனுப்பி வைக்கப்பட்டுள்ளது. அவரது சடலத்தை புதைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c6d04579.json)
 
 ---
 
@@ -73,6 +143,18 @@ In September 2023, Sri Lanka’s central bank cancelled the license of Bimputh F
 [Data](articles/4fcdf71b.json)
 
 [Extended Data](ext_articles/4fcdf71b.ext.json)
+
+---
+
+### மாத்தறையில் ரயிலில் மோதி ஒருவர் பலி
+
+*2024-05-17 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183744) · `ta`
+
+இந்த விபத்து மாத்தறை, நுபே ரயில் கடவைக்கு அருகில் நேற்று வியாழக்கிழமை (16) மாலை  இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/d1f70cdd.json)
 
 ---
 
@@ -2095,125 +2177,5 @@ The Son of the suspect has said, "I can't really think of what he did," he said.
 [Data](articles/3d3df2c7.json)
 
 [Extended Data](ext_articles/3d3df2c7.ext.json)
-
----
-
-### President is not going to dissolve parliament - Ashu Marasinghe
-
-*2024-05-16 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183696) · `ta`
-
-President won't dissolve parliament; debt restructuring ongoing. Ashu Marasinghe, former UNP MP, confirms elections this year per law. Opposition calls for general election but constitutionally due in October. President focuses on economic recovery, passing new laws, and IMF debt restructuring plans.
-
-🟩
-
-The president will never take action to dissolve parliament and go to the election as the debt renovation is underway. Former United National Party (UNP) parliamentarian Ashu Marasinghe said the presidential election would be held this year according to the law.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (16).
-
-Some in the opposition are calling for a general election. But there is still time to hold the general election. According to the Constitution, the presidential election should be held in October.So there is no doubt that the presidential election will begin.
-
-At the same time, the President is taking various steps to build the economy of the country that has fallen. He has taken steps to pass the new laws in Parliament and pass it. When Parliament meets next week, a new bill on financial funds is allowed to be submitted to Parliament.
-
-...
-
-[Data](articles/ca3c5b09.json)
-
-[Extended Data](ext_articles/ca3c5b09.ext.json)
-
----
-
-### The allegations of the death of chickens who consumed rice are not true - Ashu Marasinghe
-
-*2024-05-16 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183694) · `ta`
-
-Ashu Marasinghe, former UNP parliamentarian, denies claims that chickens fed government-distributed rice died. He accuses opposition of spreading false propaganda to discredit relief efforts. No studies confirm chicken deaths due to rice consumption; public health inspectors also deny it. Marasinghe calls for investigation into the allegations, emphasizing the importance of factual reporting to maintain trust in government aid programs.
-
-🟩
-
-There is no truth in the news that the chickens who consumed the rice provided by the government as a relief.
-
-Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the opposition parties are a false propaganda to confuse the government's program to provide relief to the people.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (16).
-
-The government distributes 10 kg of rice as relief to low -income families. Various allegations have been made from the beginning to confuse this program of the government. Opposition members have been accused of false allegations that 7 chickens who have consumed rice now provided by the government.
-
-...
-
-[Data](articles/d1b3b633.json)
-
-[Extended Data](ext_articles/d1b3b633.ext.json)
-
----
-
-### President deceives plantation workers - Dissanayake
-
-*2024-05-16 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183692) · `ta`
-
-Ranil Wickremesinghe allegedly misled plantation workers, promising a daily wage of 1700 rupees but only offering 1350. MP Mayantha Dissanayake criticizes this deception, emphasizing the United People's Power's commitment to fair wages and ownership opportunities for plantation workers. Dissanayake, newly appointed as Nuwara Eliya District Chairman, vows to serve the people and anticipates facing elections, with Sajith Premadasa as their candidate.
-
-🟩
-
-President Ranil Wickremesinghe has deceived the people by saying that plantation workers will be paid a daily salary of 1700 rupees.. Parliamentarian Mayanta Dissanayake said that the United People's Power regime will be paid a fair salary and they will be turned into small owners.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Thursday (16).
-
-I have been appointed as the Nuwara Eliya District Chairman of the United People's Power and the constituency organizer. I will serve the people of Nuwara Eliya for the people of Nuwara Eliya.
-
-We expect the presidential election to take place first. But we are ready to face any election. Sajith Premadasa will be fielded as our common candidate. Most of the people in the country will vote for him and win.
-
-...
-
-[Data](articles/864eb977.json)
-
-[Extended Data](ext_articles/864eb977.ext.json)
-
----
-
-### It is inappropriate to hold parliamentary elections: Ranil should be given another chance - Prasanna Ranatunga
-
-*2024-05-16 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183686) · `ta`
-
-Urban Development Minister Prasanna Ranatunga advocates for giving Ranil Wickremesinghe another term, citing the need for stability during the economic crisis. He argues against holding parliamentary elections before the presidential ones, suggesting they could hinder recovery efforts. Ranatunga emphasizes the importance of forming a sustainable government post-presidential election to address the nation's economic challenges effectively.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga urges him that he advises Ranil Wickremesinghe to be given an opportunity again than the party.
-
-He pointed out that holding a parliamentary election before the presidential election is currently inappropriate.
-
-The Minister pointed out that the government should have a sustainable government to recover from the economic crisis facing the country and that in the current situation the parliamentary election will not be formed by the parliamentary election.. But the minister's opinion is that after the presidential election, the general election can be created again in the country.
-
-Minister of Urban Development and Housing Prasanna Ranatunga made this observation on Wednesday (15) at a function to strengthen the party and announce the upcoming political activities.
-
-...
-
-[Data](articles/e2621f45.json)
-
-[Extended Data](ext_articles/e2621f45.ext.json)
-
----
-
-### Conduct discovery from the Director of Seoul Beach Hotel
-
-*2024-05-16 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196690) · `si`
-
-The Director of Dehiwala Zoul Beach Hotel warns of impending demolition due to external pressures. He mentions that 52 nearby hotels could also face demolition if his hotel is removed. Despite financial challenges and issues with the FCID, he asserts having secured necessary legal documents for continued operation.
-
-🟩
-
-The Director of the Dehiwala Zoul Beach Hotel says that some forces will be on the demolition of their hotel.
-
-He further stated that nearly 52 other hotels who face the Dehiwala seashood should be demolished if the Seoul Beach is removed.
-
-He added that he has developed money and the business he had with the FCID has detected.
-
-He also pointed out that he has obtained legal documents to be obtained through all government agencies to maintain the business.
-
-◼️
-
-[Data](articles/78ef74bf.json)
-
-[Extended Data](ext_articles/78ef74bf.ext.json)
 
 ---

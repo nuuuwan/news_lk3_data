@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 15:33:58**
+As of **2024-05-17 15:52:25**
 
 ## Newspaper Stats
 
-*Scraped **24,652** Articles*
+*Scraped **24,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
-adalk | 2,111
-adaderanalk | 2,855
+adalk | 2,112
+adaderanalk | 2,857
 tamilmirrorlk | 2,891
 virakesarilk | 3,714
 dailymirrorlk | 3,866
-adaderanasinhalalk | 3,932
+adaderanasinhalalk | 3,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,650 (100.0%) of 24,652 articles have been extended.
+24,652 (100.0%) of 24,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Kusal Mendis’ visa not rejected – SLC
+
+*2024-05-17 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99280/kusal-mendis-visa-not-rejected-slc-) · `en`
+
+The Chief Executive Officer (CEO) of Sri Lanka Cricket (SLC) Ashley de Silva today issued a clarification regarding the matter pertaining to the visa application submitted by Sri Lankan cricketer Kusal Mendis in order to take part in the upcoming ICC Men’s T20 World Cup in the US.
+
+Responding to a question during a press conference held in Colombo this afternoon (17), the SLC CEO assured that: “Kusal’s visa has not been rejected, but there is a process which we have to go through, and that the US Embassy in Sri Lanka is right now in touch with him”.
+
+“Hopefully we should get the visa within another day or two”, he added.
+
+Speaking further, the CEO of SLC said: “So, I think the information which has been gone out saying that his visa has been rejected is not right. His visa is not rejected. It is in the process of issuing, but they have asked for more information related to an issue, which I think the public knows.”
+
+...
+
+[Data](articles/8d1067b5.json)
+
+---
+
+### Match-fixing case: Sachithra Senanayake’s voice test report delayed
+
+*2024-05-17 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99279/match-fixing-case-sachithra-senanayakes-voice-test-report-delayed-) · `en`
+
+The Sports Ministry’s Anti-Corruption Unit today informed the Colombo Magistrate’s Court that they are yet to receive the voice test report related to the investigation being carried on former Sri Lankan cricketer Sachithra Senanayake, over allegations of match-fixing.
+
+This was informed to the court when the relevant case was taken up before the Colombo Chief Magistrate Thilina Gamage on Friday (17).
+
+The officials of the Sports Ministry’s Anti-Corruption Unit stated that even though the voice sample has been recorded, the relevant report has not been received yet due to a machine used for the voice test breaking down.
+
+President’s Counsel Kalinga Indatissa, who appeared on behalf of the defendant, then stated before the court that even though the voice test was carried out a year ago, his client has been treated unfairly due to the report not being received thus far.
+
+...
+
+[Data](articles/bf694db8.json)
+
+---
+
+### රථවාහන ගමනාගමනය සීමා කිරීමක් ගැන දැනුම්දීමක්
+
+*2024-05-17 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196723) · `si`
+
+රණවිරු දින සැමරුම් උත්සවය වෙනුවෙන් රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය පවසයි.
+
+ඒ අනුව 19 වන ඉරිදා දින සවස පාර්ලිමේන්තු ක්‍රීඩාංගණයේ දී විරු දින සැමරුම් උත්සවය පැවැත්වීමට නියමිතය.
+
+ඒ වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලීසිය දැනුම් දී ඇත.
+
+ඒ අනුව එදින සවස 3 සිට පොල්දූව හංදිය සහ කියැන්හෑම් හංදියෙන් පාර්ලිමේන්තු මාර්ගයට ඇතුළු වීමේ මංතීරුව සහ පිටවීමේ මංතීරුව වසැ තැබීමට ක්‍රියාකරනු ඇත.
+
+ඉහත මාර්ග භාවිත කරන රියදුරන්ට පහත විකල්ප මාර්ගයන් භාවිත කරන ලෙස පොලීසිය දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/7e3d4ed0.json)
+
+---
+
+### ගෝඨාභයට නොතීසි නිකුත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝග
+
+*2024-05-17 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196722) · `si`
+
+කොළඹ මහාධිකරණය විසින් මරණීය දණ්ඩනය නියමවී සිටි යුද හමුදා සැරයන් සුනිල් රත්නායක මහතා ව ජනාධිපති සමාව මත නිදහස් කිරීම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වෙත නොතිසි නිකුත් කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (17) නියෝග කළා.
+
+2000 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනය මිරිසුවිල් ප්‍රදේශයේදී අවුරුදු පහක කුඩා දරුවකු ඇතුළු අවතැන්ව සිටි සිවිල් වැසියන් අට දෙනෙකු කපා කොටා මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් ඔහුට මරණ දණ්ඩනය දී තිබුණි.
+
+විකල්ප ප්‍රතිපත්ති කේන්ද්‍රයේ විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු මහතා විසින් ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සමක් යසන්ත කෝදාගොඩ සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබු අවස්ථාවේදී මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/b869f17d.json)
+
+---
+
+### ආනන්ද කුමාරස්වාමි මාවත වැසෙයි
+
+*2024-05-17 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196721) · `si`
+
+විරෝධතා පාගමනක් හේතුවෙන් කොල්ලුපිටිය, ආනන්ද කුමාරස්වාමි මාවත පොලීසිය විසින් වසා දමා තිබේ.
+
+අප වාර්තාකරු පැවසුවේ පලස්තීන යුද්ධයට විරෝධය පළ කරමින් මෙම විරෝධතාවය ආරම්භ කර ඇති බවය.
+
+◼️
+
+[Data](articles/40d965ee.json)
+
+---
 
 ### Gammanpila urges govt to reject new US Ambassador nominee
 
@@ -47,6 +133,8 @@ The US Ambassador nominee to Sri Lanka, Elizabeth K. Horst, said that if confirm
 ...
 
 [Data](articles/12b9d509.json)
+
+[Extended Data](ext_articles/12b9d509.ext.json)
 
 ---
 
@@ -99,6 +187,26 @@ Minister Ranaweera had been summoned by the Airport Police to record a statement
 [Data](articles/03315135.json)
 
 [Extended Data](ext_articles/03315135.ext.json)
+
+---
+
+### අනධ්‍යයන සේවක වර්ජනයෙන් විශ්වවිද්‍යාල දේශන ඔන්ලයින් ක්‍රමයට
+
+*2024-05-17 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196719) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වර්ජනය හේතුවෙන් විශ්වවිද්‍යාල දේශන කටයුතු ඔන්ලයින් ක්‍රමවේදය හරහා සිදුකෙරෙන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පවසයි.
+
+"අද දෙරණ" කළ විමසීමක දී එහි සභාපති මහාචාර්ය සම්පත් අමරතුංග මහතා පැවසුවේ මෙම වර්ජනය හේතුවෙන් සියලු විභාග කටයුතු ඇණහිට ඇති බවය.
+
+ඒ අනුව සිසුන් 150,000කගේ පමණ උපාධිය අවසන් කිරීම ප්‍රමාද වී ඇති බව සඳහන්ය.
+
+මේ අතර විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වර්ජනය සම්බන්ධයෙන් කොළඹ විශ්වවිද්‍යාලයේ වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සභාපති සුසිල් සෝමරත්න මහතා මෙලෙස අදහස් පළ කළේය.
+
+"අද 16 වන දිනටත් විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය ක්‍රියාත්මක වෙනවා. අපේ දරුවන්ගේ අධ්‍යාපනය කඩාකප්පල් වීම මේ හරහා සිදුවීම අපිට ඇත්තටම කනගාටුදායකයි. ඒ නිසා බලධාරීන්ගෙන් ඉල්ලා සිටිනවා වහාම මේ ස﻿ඳහා අවශ්‍ය මැදිහත්වීම ලබාදෙමින් සරසවි සේවකයින්ගේ වෘත්තීය ගැටලුව විසඳන්න කටයුතු කරන්න කියලා. මෙය වසර 8ක් පුරා ක්‍රියාත්මක සටනක්. අපි කවදාහරි දවසක මේක ජයග්‍රාහීව අවසන් කරන්න පුළුවන් වුණ දවසට තමා නැවත සේවයට වාර්තා කරන්නේ."
+
+◼️
+
+[Data](articles/1395d970.json)
 
 ---
 
@@ -591,6 +699,18 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 [Data](articles/e4de6692.json)
 
 [Extended Data](ext_articles/e4de6692.ext.json)
+
+---
+
+### මහේෂ් සේනානායක සමගි ජන බලවේගයට
+
+*2024-05-17 12:02:47* · [`adalk`](https://www.ada.lk/breaking_news/මහේෂ්-සේනානායක-සමගි-ජන-බලවේගයට/11-409695) · `si`
+
+හිටපු යුද හමුදාපති ජනරාල් (විශ්‍රාමික) මහේෂ් සේනානායක මහතා සමගි ජල බලවේගය හා එක්ව තිබේ. ඒ අනුව ඔහු සමගි රණවිරු බලවේගයේ නායකයා ලෙස පත්කිරිමට විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර තිබේ. මහේෂ් සේනානායක මහතා ලංකාවේ 22 වැනි යුද හමුදාපතිවරයා වෙයි.
+
+◼️
+
+[Data](articles/825b8be0.json)
 
 ---
 
@@ -1386,17 +1506,27 @@ The event was organized by the Vanni People's Union, the Vanni District Missing 
 
 ---
 
-### මිරිසුවිල් සමූහ ඝාතනය: ශ්‍රේෂ්ඨාධිකරණයෙන් ගෝඨාභය රාජපක්ෂට නොතීසි
+### Murder of Mirisuvil Group: Supreme Court notice
 
 *2024-05-17 08:35:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qy6lgdzeo) · `si`
 
-2000 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනය මිරිසුවිල් ප්‍රදේශයේදී අවුරුදු පහක කුඩා දරුවකු ඇතුළු අවතැන්ව සිටි සිවිල් වැසියන් 8 දෙනෙකු කපා කොටා මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර සිටි යුද හමුදා සැරයන් සුනිල් රත්නායක ජනාධිපති සමාව මත නිදහස් කිරීම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ  වෙත නොතීසි නිකුත් කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 17 වැනිදා) නියෝග කරනු ලැබීය.
+Supreme Court issues notice to former Sri Lankan President Gotabhaya Rajapaksa over the pardon of Army Sergeant Sunil Ratnayake, convicted of murder. The court will hear arguments on September 4th regarding the legality of the pardon.
 
-විකල්ප ප්‍රතිපත්ති කේන්ද්‍රයේ විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු විසින් ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් යසන්ත කෝදාගොඩ සහ අචල වෙංගප්පූලි යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අද (මැයි 17 වැනිදා)  කැඳවනු ලැබු අවස්ථාවේදී මෙම නියෝගය නිකුත් කරනු කෙරුණි.
+🟩
+
+According to the Colombo High Court in Mirissuvil, Jaffna High Court and the Colombo High Court in the Mirissuvil area of ​​the Colombo Highways, the Colombo High Court in the Mirissuvil area and the Colombo High Court, to be released by the Colombo High Court.The Supreme Court today (May on May 17) ordered to be issued notice to former President Gotabhaya Rajapaksa.
+
+The order was issued this order today (May 17) when the fundamental rights filed by the Executive Director of the CPA on the CPA.
+
+President's Counsel appearing on behalf of the petitioner when the petition was called. Sumanthiran court said that the petitioners named President Gotabhaya Rajapakse, who was named respondents and president of the petition, was released to allow Sunil Ratnayake to issue the petition.
+
+The judge's panel of judges accepted the request to the President anddered to issue notice to former President Gotabhaya Rajapakse.
 
 ...
 
 [Data](articles/6c1f4f4a.json)
+
+[Extended Data](ext_articles/6c1f4f4a.ext.json)
 
 ---
 
@@ -2043,145 +2173,5 @@ Although Mahinda Rajapaksa speaks about all SOEs in general, Jayasuriya seems to
 [Data](articles/18d9b0a4.json)
 
 [Extended Data](ext_articles/18d9b0a4.ext.json)
-
----
-
-### For Sri Lanka the road to recovery is long and must stay the course
-
-*2024-05-17 00:21:54* · [`dailyftlk`](https://www.ft.lk/columns/For-Sri-Lanka-the-road-to-recovery-is-long-and-must-stay-the-course/4-761890) · `en`
-
-President Ranil Wickremesinghe recently emphasised the necessity of a new economic reform program for the country’s economic recovery
-
-As Sri Lanka continues to recover from the recent crisis, this time last year, a mere 12 months ago, we saw the peak of Sri Lanka’s worst economic crisis since independence. The economic recovery partially remains hindered by slow growth in exports and low foreign direct investment (FDI), with export growth projected at a modest 5.27% from 2024 to 2028 and FDI below 3% of GDP. The country faces a significant challenge with a decade-long period of low productivity growth, averaging 1.4% annually, underlying major structural weakness in the economy, principally almost endemic policy inconsistency.
-
-...
-
-[Data](articles/c97297f5.json)
-
-[Extended Data](ext_articles/c97297f5.ext.json)
-
----
-
-### Is Sri Lanka’s population truly declining amid economic crisis and COVID-19?
-
-*2024-05-17 00:19:49* · [`dailyftlk`](https://www.ft.lk/columns/Is-Sri-Lanka-s-population-truly-declining-amid-economic-crisis-and-COVID-19/4-761889) · `en`
-
-While short-term trends may indicate population decline, historical precedents suggest resilience and the potential for rebound
-
-Despite concerns about declining population in Sri Lanka due to factors like reduced fertility, increased emigration, and rising mortality rates, short-term fluctuations do not necessarily signify long-term decline. Population dynamics are intricate, influenced by various factors. Even during slower growth periods, populations tend to increase due to past trends in fertility and mortality, known as population growth momentum. This article aims to provide a scientific understanding of how Sri Lanka’s population might evolve, going beyond short-term fluctuations and addressing misconceptions about population decline.
-
-...
-
-[Data](articles/ff6a61be.json)
-
-[Extended Data](ext_articles/ff6a61be.ext.json)
-
----
-
-### 2024-05-16 (Thursday)
-
-### MR doubles down on anti-privatisation even as party members bat for reforms
-
-*2024-05-16 23:56:00* · [`economynextcom`](https://economynext.com/mr-doubles-down-on-anti-privatisation-even-as-party-members-defend-reforms-163417/) · `en`
-
-ECONOMYNEXT — Former President and leader of the ruling Sri Lanka Podujana Peramuna (SLPP) Mahinda Rajapaksa has seemingly upped the ante on his anti-privatisation rhetoric, claiming that a majority of his party are opposed to the “sale of national assets”, even as ministers representing the party continue to express support for ongoing reforms.
-
-Rajapaksa told reporters on Thursday May 16 following a meeting at the SLPP headquarters in Colombo that 99 percent of the party share his views on the matter.
-
-“It’s not just me, the majority of our party, 99 percent, are of this opinion,” he said, asked for comment on a recent statement he had made declaring his opposition to Sri Lanka’s ongoing International Monetary Fund (IMF)-backed efforts to restructure a number of state-owned enterprises (SOEs).
-
-...
-
-[Data](articles/e80c9ab5.json)
-
-[Extended Data](ext_articles/e80c9ab5.ext.json)
-
----
-
-### Over 200 city trees still pose risk to public lives
-
-*2024-05-16 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-200-city-trees-still-pose-risk-to-public-lives/108-282746) · `en`
-
-Colombo, May 16 (Daily Mirror) - Amidst the prevailing inclement weather worsened by gusty winds, the Colombo Municipal Council has identified about 200 old and huge trees in the city to be removed as soon as possible owing to the grave risk they pose to the public, the Daily Mirror learns.
-
-Following the incident where a large tree fell on a bus on Anagarika Dharmapala Mawatha near the Kollupitiya Junction in October last year that claimed five lives and many casualties, the CMC has identified about 1, 000 trees needing immediate attention.
-
-This came to light when a large branch of a roadside tree fell on Sir Marcus Fernando Mawatha near the Colombo Museum yesterday morning, which was cleared by the authorities within hours.
-
-When contacted Commissioner CMC Bhadrani Jayawardena told the Daily Mirror following the Kollupitiya accident they had received a number of complaints regarding dangerous and old trees in Colombo that led to an immediate study on the city trees.
-
-...
-
-[Data](articles/7c8ca102.json)
-
-[Extended Data](ext_articles/7c8ca102.ext.json)
-
----
-
-### Refugee from Sri Lanka becomes mayor of British town
-
-*2024-05-16 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99262/refugee-from-sri-lanka-becomes-mayor-of-british-town) · `en`
-
-A British town’s new mayor is a refugee from Sri Lanka who will be the first Hindu to hold the position.
-
-Labour councillor Elango Elavalakan has taken over the ceremonial role after a unanimous vote at Ipswich Borough Council’s annual meeting.
-
-“I’m so happy today, and very proud to be mayor of this great town,” said Mr Elavalakan.
-
-Council leader Neil MacDonald, who proposed the nomination, said Mr Elavalakan would get to read out a general election result during his year in office.
-
-“The announcement by a refugee who fled war and persecution, and who has made a new life and contributed to society here, will send a message,” he said.
-
-Members of Ipswich’s Hindu community attended Wednesday evening’s ceremony, with celebrations at the nearby temple planned for later in the week.
-
-Dr Sachin Karale, chair of Ipswich Hindu Samaj, said: “It shows the great diversity and multiculturalism of Ipswich town that a Hindu man is becoming mayor. I’m really proud.”
-
-...
-
-[Data](articles/8cd02e26.json)
-
-[Extended Data](ext_articles/8cd02e26.ext.json)
-
----
-
-### Human Rights Commission complains against O / L persons
-
-*2024-05-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196699) · `si`
-
-St. Anthony's College, Wattala, faced a complaint from the Human Rights Commission regarding alleged discrimination during exams. Additionally, a student at Kollupitiya Methodist College, who requires special accommodations, was denied the chance to take her exams due to examiner refusal. The situation led to further complaints to the Human Rights Commission by the student's parents.
-
-🟩
-
-At the examination hall of St. Anthony's Examination at St. Anthony's College, Wattala, has lodged a complaint to the Human Rights Commission today.
-
-Also, at a special gathering of a special requirements at the Kollupitiya Methodist College, a specialist girl had received the recommendations of a specialist psychiatrist.
-
-Accordingly, according to the request made by the principal, the Deputy Commissioner of Examinations had also sent a letter with relief to the Examinations of Examinations.
-
-However, her parents had lodged a complaint with the Human Rights Commission today accusing that the examiners would not allow the opportunity to sit for the four pacearies.
-
-◼️
-
-[Data](articles/96c14130.json)
-
-[Extended Data](ext_articles/96c14130.ext.json)
-
----
-
-### Court orders release of a flock of animals back to animal lover
-
-*2024-05-16 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-orders-release-of-a-flock-of-animals-back-to-animal-lover/108-282741) · `en`
-
-Colombo, May 16 (Daily Mirror) -  The Court of Appeal has issued an interim order to release a flock of animals back to an animal lover, following their seizure by Wildlife Department officials for an alleged violation of the Fauna and Flora Protection Ordinance.
-
-The Court of Appeal Justice Mohammed Laffar further issued an interim order staying the proceeding in the Welisara Magistrate Court Case against the petitioner Shafeek Shuail until the conclusion of this writ application.
-
-The Petitioner states that he always had a deep affection and keen interest in animals and their welfare, which has been ingrained since his childhood. The Petitioner states that as such since his upbringing at Aluth Mawatha, Colombo 15, he raised and cared for several animals as pets which includes some of the birds, reptiles and other animals which were seized and taken into custody by officers of the Wildlife Department. The Petitioner stated that all the animals were purchased through pet shops.
-
-...
-
-[Data](articles/c7cbfd25.json)
-
-[Extended Data](ext_articles/c7cbfd25.ext.json)
 
 ---

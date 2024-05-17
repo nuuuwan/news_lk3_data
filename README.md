@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 17:18:20**
+As of **2024-05-17 17:34:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,670 (100.0%) of 24,672 articles have been extended.
+24,672 (100.0%) of 24,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The President made this announcement while observing the first AI -driven greenh
 ◼️
 
 [Data](articles/322f3793.json)
+
+[Extended Data](ext_articles/322f3793.ext.json)
 
 ---
 
@@ -101,6 +103,8 @@ The highly anticipated 11th edition of ‘Sancharaka Udawa 2024,’ organized by
 ◼️
 
 [Data](articles/6102773f.json)
+
+[Extended Data](ext_articles/6102773f.ext.json)
 
 ---
 

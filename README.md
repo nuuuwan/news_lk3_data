@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 12:18:23**
+As of **2024-05-17 12:33:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,621 (100.0%) of 24,625 articles have been extended.
+24,625 (100.0%) of 24,625 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 
 [Data](articles/e4de6692.json)
 
+[Extended Data](ext_articles/e4de6692.ext.json)
+
 ---
 
 ### Forbes ‘30 Under 30 Asia’ list celebrates Sri Lanka’s Dinara
@@ -64,21 +66,29 @@ The trio were introduced to metal in their early teens by a teacher who taught t
 
 [Data](articles/0b5116e7.json)
 
+[Extended Data](ext_articles/0b5116e7.ext.json)
+
 ---
 
-### ධීවර ප්‍රජාවට අනතුරු ඇඟවීමක්
+### A warning to the fishing community
 
 *2024-05-17 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196713) · `si`
 
-කල්පිටිය සිට කොළඹ, ගාල්ල, හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළ ට ඔබ්බෙන් වන මුහුදු තීරයේ සුළඟේ වේගය විටින් විට පැයට කිමී 60-70 දක්වා වැඩිවන බවත් මුහුද රළු වන බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Coastal winds from Kalpitiya to Pottuvil will rise to 60-70 km/h, causing rough seas. Expect showers and thunderstorms over the sea. The Department of Meteorology advises caution.
 
-මෙම මුහුදු ප්‍රදේශවල විටින් තද වැසි හෝ ගිගිරුම් සහිත වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ දැක්වෙයි.
+🟩
 
-ඒ පිළිබඳව අවධානය යොමුකරන ලෙස ධීවර සහ නාවික ප්‍රජාවගෙන් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+The Winds of the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil will be increased from time to 60-70 kime and the sea is rough.
+
+Showers and thundershowers will occur at times in the sea areas.
+
+The Department of Meteorology has requested the Department of Meteorology to address it.
 
 ◼️
 
 [Data](articles/d8ed704e.json)
+
+[Extended Data](ext_articles/d8ed704e.ext.json)
 
 ---
 
@@ -1768,19 +1778,31 @@ He said that a salary increase in a public worker would return to the coming yea
 
 ---
 
-### 2023-1-1 සිට 12-31 දක්වා ගෙවීම් පැහැර ඇති බදු මුදල රුපියල් කෝටි 106,608
+### Tax paid to 12-31 to 12-31 crores Rs. 106,608
 
 *2024-05-16 20:10:52* · [`adalk`](https://www.ada.lk/breaking_news/2023-1-1-සිට-12-31-දක්වා-ගෙවීම්-පැහැර-ඇති-බදු-මුදල-රුපියල්-කෝටි-106-608/11-409693) · `si`
 
-මේ රටේ විවිධ සමාගම් ආයතන, පුද්ගලයන්  ඇතුළු 4479 දෙනෙකු රුපියල් කෝටියක් හෝ ඊට වැඩි ගණනකින් බදු මුදල් රජයට ගෙවීම පැහැර හැර ඇති බව  මහ බැංකු විශ්ලේෂණ අධ්‍යයන වාර්තාවක් මඟින් අනාවරණය වේ. පේරාදෙණිය විශ්ව විද්‍යාල අධ්‍යයයන සහ සංඛ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා පවසන්නේ මේ රටේ මද්‍යසාර නිෂ්පාදනය කරන ආයතන 28 ක් මෙයට ඇතුළත් වන බවය.
+A central bank report shows 4,479 entities, including companies and individuals, defaulted on tax payments worth Rs. 3108 crore in Sri Lanka. Professor Wasantha Athukorala highlights significant defaults in the range of Rs. 6 to 10 crore, with 104 defaulters. The report also mentions ongoing legal trials for 350 cases and 2,934 appeals from government departments and 1,505 from the Tax Commission.
 
-මෙම පිරිසෙන් රු.කෝටියේ සිට එක්කෝටි පනස් ලක්ෂය දක්වා බදු මුදල් පැහැර ඇති සංඛ්‍යාව 3108 දෙනෙකු බව ද එම අධ්‍යයයන වාර්තාවේ සඳහන් වේ.
+🟩
 
-කෝටි පහේ සිට කෝටි දහය දක්වා බදු මුදල් පැහැර ඇති  පුද්ගලයන් ගණන හයසීය තිස් දෙකක් බවත්, රුපියල් කෝටි දහයේ සිට රුපියල් කෝටි තිහ දක්වා බදු මුදල් පැහැර ඇති සංඛ්‍යාව 457ක්  බවත්  මහාචාර්යවරයා පැවසීය.
+The central bank analytical analytical study report reveals that 4479 of various companies, individuals, individuals and individuals in this country have defaulted the payment of taxes from the government from Rs.. Professor Wasantha Athukorala, the University of Peradeniya, says that 28 organizations in this country are included.
 
-...
+The study states that 3108 persons have taken over 3108 taxes from the Rs.
+
+According to the professor, 457 rupees of taxes from the six crores up to ten crores, 457 rupees from Rs 10 million to Rs.
+
+There are 104 persons who have defaulted taxes from Rs.. The statistics reveal that the judiciary is being trial in lease and that 350 cases will be implemented.
+
+2934 appeals of the Government Departments, 1505 Appeals in the Tax Commission and the Professor said. The number of teachers' taxes from January 1 to 31st December 31, 2023, was Rs. 106,608 million.
+
+According to the study report, the Sri Lanka Customs cost Rs. 10 billion to Rs.
+
+◼️
 
 [Data](articles/e0cd5b0b.json)
+
+[Extended Data](ext_articles/e0cd5b0b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 12:05:23**
+As of **2024-05-17 12:18:23**
 
 ## Newspaper Stats
 
-*Scraped **24,621** Articles*
+*Scraped **24,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,98 @@ newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
-adalk | 2,110
-adaderanalk | 2,847
+adalk | 2,111
+adaderanalk | 2,849
 tamilmirrorlk | 2,891
 virakesarilk | 3,706
 dailymirrorlk | 3,861
-adaderanasinhalalk | 3,925
+adaderanasinhalalk | 3,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,618 (100.0%) of 24,621 articles have been extended.
+24,621 (100.0%) of 24,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### සචිත්‍ර ගේ කටහඬ පරීක්ෂණ වාර්තාව පමා වෙයි
+### Rathupaswala shooting: High Court to deliver verdict today
 
-*2024-05-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196712) · `si`
+*2024-05-17 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99272/rathupaswala-shooting-high-court-to-deliver-verdict-today) · `en`
 
-මුදලට ක්‍රිකට් තරග පාවාදීමේ සිද්ධියක සැකකරු වශයෙන් නම්කර සිටින හිටපු ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක ට අදාළ පරීක්ෂණවලට අදාළ කටහඬ පරීක්ෂණ වාර්තාව මෙතෙක් ලැබී නොමැති බව ක්‍රීඩා දූෂණ වැළැක්වීමේ අංශය අද (17) කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+The verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army, over the shooting to death of three persons and injuring 45 others during a protest by villagers demanding clean drinking water at Rathupaswala, Gampaha is scheduled to be delivered today (17) by a special three-member high court bench.
 
-ඒ ඊට අදාළ පැමිණිල්ල කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ය.
+On April 30, 2024, the Gampaha High Court’s Trial-at-Bar deferred delivering the verdict in the case until today (May 17).
 
-එහිදී ක්‍රීඩා දුෂණ වැළැක්වීමේ අංශයේ නිලධාරීන් සඳහන් කළේ සැකකරුගේ කටහඬ පරීක්ෂණය සිදුකර තිබුණ ද එම පරීක්ෂාව සිදුකරන යන්ත්‍රය කැඩී තිබීම නිසා ඊට අදාළ වාර්තාව මෙතෙක් ලැබී නොමැති බවය.
+On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
 
-එම අවස්ථාවේදී සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම කටහඬ පරීක්ෂණය මීට වසරකට පමණ ඉහතදී සිදුකළ ද එහි වාර්තාව මෙතෙක් නොලැබීම තුළින් තම සේවාදායකයාට අසාධාරණයක් සිදුවන බවය.
+In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
 
-ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම කටහඬ පරීක්ෂණයට අදාළ වාර්තාව කඩිනමින් ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙස දන්වා රජයේ රස පරීක්ෂකවරයා වෙත සිහි කැඳවීමක් යොමු කිරීමට නියම කළේය.
+◼️
+
+[Data](articles/e4de6692.json)
+
+---
+
+### Forbes ‘30 Under 30 Asia’ list celebrates Sri Lanka’s Dinara
+
+*2024-05-17 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99270/forbes-30-under-30-asia-list-celebrates-sri-lankas-dinara) · `en`
+
+After a decade together, the all-female, hijab-wearing Indonesian metal band Voice of Baceprot (VoB) last year released its first album, Retas, then quit its record label to go independent. The gutsy decision matches its reputation for challenging stereotypes in the Muslim-majority country.
+
+Band members Firda Marsya Kurnia, 23, Widi Rahmawati, 22, and Euis Siti Aisyah, 23 are some of the trailblazing artists and athletes who made this year’s Forbes 30 Under 30 Asia: Entertainment & Sports list.
+
+The trio were introduced to metal in their early teens by a teacher who taught them how to play instruments and helped set up their band. They have since gone from covering hits by groups such as Metallica for school events to creating their own music and touring internationally. In June they will attend Glastonbury, the first Indonesian musicians to perform at the U.K. festival in its 54-year history.
 
 ...
 
+[Data](articles/0b5116e7.json)
+
+---
+
+### ධීවර ප්‍රජාවට අනතුරු ඇඟවීමක්
+
+*2024-05-17 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196713) · `si`
+
+කල්පිටිය සිට කොළඹ, ගාල්ල, හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළ ට ඔබ්බෙන් වන මුහුදු තීරයේ සුළඟේ වේගය විටින් විට පැයට කිමී 60-70 දක්වා වැඩිවන බවත් මුහුද රළු වන බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මෙම මුහුදු ප්‍රදේශවල විටින් තද වැසි හෝ ගිගිරුම් සහිත වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ දැක්වෙයි.
+
+ඒ පිළිබඳව අවධානය යොමුකරන ලෙස ධීවර සහ නාවික ප්‍රජාවගෙන් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/d8ed704e.json)
+
+---
+
+### Sachithra's voice test report delayed
+
+*2024-05-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196712) · `si`
+
+Sachithra's voice test report delay due to a broken inspection machine. The Sports Pollenators Prevention Unit awaits the vocabulary report. Sachithra, represented by President's Counsel Kalinga Indatissa, was bailed out after a year-long voice test in court.
+
+🟩
+
+The Sports Pollenators Prevention Unit has not received the vocabulary report today (17) today (17).
+
+The complaint was heard before the Chief Magistrate Thilina Gamage.
+
+Officers in the Sports Corruption Department stated that the inspection machine was broken, the report has not yet been received as the relevant report has ever been received.
+
+President's Counsel Kalinga Indatissa appearing on behalf of the suspect, the voice test was taken in court about a year ago.
+
+After considering the work, the Magistrate ordered to render a reminder to the Government Analyst.
+
+Sachithra Senanayake has released on bail by the courts.
+
+◼️
+
 [Data](articles/02b47f7a.json)
+
+[Extended Data](ext_articles/02b47f7a.ext.json)
 
 ---
 
@@ -88,6 +146,8 @@ He received the appointment from Party Leader  Sajith Premadasa this morning.
 
 [Data](articles/7ef6a9d1.json)
 
+[Extended Data](ext_articles/7ef6a9d1.ext.json)
+
 ---
 
 ### Sri Lanka opposes Kyrgyzstan in the 3rd place in Central Asian
@@ -122,19 +182,25 @@ The Sri Lankan cabinet federation president Kanjana Jayaratne said Sri Lanka's 6
 
 ---
 
-### චීනයේ මෝටර් රථවලට අමෙරිකාව බිය වෙයි
+### China's cars be afraid of America
 
 *2024-05-17 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196711) · `si`
 
-අමෙරිකාවට ආනයනය කරන චීනයේ නිෂ්පාදිත මෝටර් රථ සම්බන්ධයෙන් දැඩි ලෙස විමසිලිමත්ව කටයුතු කිරීමට අමෙරිකාවේ අවධානය යොමුවී තිබේ.
+The U.S. is scrutinizing Chinese car imports due to concerns over data security. Commerce Secretary Gene Rhee has hinted at upcoming legislation aimed at protecting American consumers' data from potential threats posed by Chinese-made vehicles.
 
-එරට වාණිජ ලේකම් ගීනා රයිමොන්ඩෝ පවසා ඇත්තේ චීන වාහන සම්බන්ධයෙන් ගතයුතු පියවර සඳහන් කරමින් තම දෙපාර්තමේන්තුව එළඹෙන මාස කිහිපය තුළදී නීති ගෙන එන බවය.
+🟩
 
-නවීන තාක්ෂණයෙන් සමන්විත චීන වාහන හේතුවෙන් අමෙරිකානුවන්ගේ දත්ත වල ආරක්ෂාව සම්බන්ධයෙන් ගැටලු මතුවීමට ඉඩ ඇති බව ඇය පැවසුවාය.
+The United States has focused on the most famous care of China's manufactured cars imported to the United States.
+
+Commerce Secretary Geneehimee has said that his department brings legislation within the months of the coming months.
+
+According to Chinese vehicles, the Chinese vehicles may arise in the protection of the data of Americans's data.
 
 ◼️
 
 [Data](articles/6f342be8.json)
+
+[Extended Data](ext_articles/6f342be8.ext.json)
 
 ---
 
@@ -1702,6 +1768,22 @@ He said that a salary increase in a public worker would return to the coming yea
 
 ---
 
+### 2023-1-1 සිට 12-31 දක්වා ගෙවීම් පැහැර ඇති බදු මුදල රුපියල් කෝටි 106,608
+
+*2024-05-16 20:10:52* · [`adalk`](https://www.ada.lk/breaking_news/2023-1-1-සිට-12-31-දක්වා-ගෙවීම්-පැහැර-ඇති-බදු-මුදල-රුපියල්-කෝටි-106-608/11-409693) · `si`
+
+මේ රටේ විවිධ සමාගම් ආයතන, පුද්ගලයන්  ඇතුළු 4479 දෙනෙකු රුපියල් කෝටියක් හෝ ඊට වැඩි ගණනකින් බදු මුදල් රජයට ගෙවීම පැහැර හැර ඇති බව  මහ බැංකු විශ්ලේෂණ අධ්‍යයන වාර්තාවක් මඟින් අනාවරණය වේ. පේරාදෙණිය විශ්ව විද්‍යාල අධ්‍යයයන සහ සංඛ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා පවසන්නේ මේ රටේ මද්‍යසාර නිෂ්පාදනය කරන ආයතන 28 ක් මෙයට ඇතුළත් වන බවය.
+
+මෙම පිරිසෙන් රු.කෝටියේ සිට එක්කෝටි පනස් ලක්ෂය දක්වා බදු මුදල් පැහැර ඇති සංඛ්‍යාව 3108 දෙනෙකු බව ද එම අධ්‍යයයන වාර්තාවේ සඳහන් වේ.
+
+කෝටි පහේ සිට කෝටි දහය දක්වා බදු මුදල් පැහැර ඇති  පුද්ගලයන් ගණන හයසීය තිස් දෙකක් බවත්, රුපියල් කෝටි දහයේ සිට රුපියල් කෝටි තිහ දක්වා බදු මුදල් පැහැර ඇති සංඛ්‍යාව 457ක්  බවත්  මහාචාර්යවරයා පැවසීය.
+
+...
+
+[Data](articles/e0cd5b0b.json)
+
+---
+
 ### Irrigation officials in protest
 
 *2024-05-16 20:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Irrigation-officials-in-protest/110-282730) · `en`
@@ -2099,93 +2181,5 @@ Motorists are urged to seek alternate routes during this period to ensure their 
 [Data](articles/89c121ee.json)
 
 [Extended Data](ext_articles/89c121ee.ext.json)
-
----
-
-### Wellawaya road across the falls
-
-*2024-05-16 18:46:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-හරහා-වැල්ලවාය-මාර්ගය-වසයි/11-409684) · `si`
-
-Due to heavy rains causing landslides, the Wellawaya road through Badulla Ella is closed. The police and DMC suggest using the Wellawaya road through Beragala Koslanda as an alternate route to ensure public safety.
-
-🟩
-
-The Wellawaya road through the Badulla Ella
-
-The decision was taken to protect the public due to the strict landslides in the area with the existing heavy rains.
-
-Police and Disaster Management Center (DMC) said the Wellawaya road across the Wellawaya road through Beragala Koslanda as alternative routes.
-
-◼️
-
-[Data](articles/b91a7bdb.json)
-
-[Extended Data](ext_articles/b91a7bdb.ext.json)
-
----
-
-### Wellawa - Lock for Ella Main Street
-
-*2024-05-16 18:46:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெல்லவாய-எல்ல-பிரதான-வீதிக்கு-பூட்டு/76-337439) · `ta`
-
-Traffic on Wellawaya-Ella road will close from 6 PM on Thursday due to stones and mudslides caused by heavy rain near Karandagolla and Ravana Ella.
-
-🟩
-
-Police have announced that the traffic along the Wellawaya - Ella main road will be temporarily closed from 6 pm to 6 pm on Thursday (16).
-
-Police say stones and mudslides have fallen in the area between Karandagolla and Ravana Ella.
-
-The mudslides have fallen in the wake of the heavy rainfall in the area.
-
-◼️
-
-[Data](articles/41923198.json)
-
-[Extended Data](ext_articles/41923198.ext.json)
-
----
-
-### Twenty20 player players are the skin first
-
-*2024-05-16 18:43:30* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තුන්-ඉරියව්-ක්‍රීඩකයන්-අතර-වනිඳුට-සම-පළමු-තැන/9-409683) · `si`
-
-In a cricket match against Sri Lanka, Shakib Al Hasan and Mahmudullah scored 228 runs, leading Bangladesh's performance.
-
-🟩
-
-Shakib Al Al Al Hasan Allawi, Vijindu Mason, and Bangladesh's three-genuiners in Sri Lanka. Mondu and Shakiib scored 228 runs.
-
-◼️
-
-[Data](articles/75d313cc.json)
-
-[Extended Data](ext_articles/75d313cc.ext.json)
-
----
-
-### A revelation of the power of the Consumer Authority
-
-*2024-05-16 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196693) · `si`
-
-The COPE Committee urged the Consumer Affairs Authority to speed up the implementation of its Act, which has been pending for 19 years. This call came after a meeting between the committee and the authority, where the latter presented its current performance. The Minister of Trade emphasized the need for a robust program to combat major fraud cases, involving Sri Lanka Customs. He also mentioned upcoming amendments to the Act, with the aim of concluding the process within the next 19 years.
-
-🟩
-
-The COPE Committee has informed the Consumer Affairs Authority to expedite the Consumer Affairs Authority Act in 19 years.
-
-The notice has been made when the Committee on Public Enterprises were recently met with the Consumer Affairs Authority, the report and the current performance of the Current Performance.
-
-The Director of the Ministry of Trade, the Trade Secretary to the Board has said that the maintenance of a proper program to conduct a major armation business raids on behalf of the Sri Lanka Customs..
-
-He added that the Act is being amended as the bill will be revealed to be revealed.
-
-Committees Chairman Rohitha Abeygunawardena stressed the 2004 amendment to amend the 2004 Amendment to the establishment of 19 years to end the work.
-
-◼️
-
-[Data](articles/6076406f.json)
-
-[Extended Data](ext_articles/6076406f.ext.json)
 
 ---

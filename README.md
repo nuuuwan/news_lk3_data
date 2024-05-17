@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 12:50:55**
+As of **2024-05-17 13:03:36**
 
 ## Newspaper Stats
 
-*Scraped **24,625** Articles*
+*Scraped **24,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,331
 economynextcom | 1,416
 dailyftlk | 1,450
 adalk | 2,111
-adaderanalk | 2,849
+adaderanalk | 2,850
 tamilmirrorlk | 2,891
 virakesarilk | 3,706
-dailymirrorlk | 3,861
+dailymirrorlk | 3,862
 adaderanasinhalalk | 3,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,625 (100.0%) of 24,625 articles have been extended.
+24,625 (100.0%) of 24,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### Two arrested with over 1,000 mobile phones and 200 pen drives at BIA
+
+*2024-05-17 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99273/two-arrested-with-over-1000-mobile-phones-and-200-pen-drives-at-bia) · `en`
+
+The officers of the Criminal Investigation Department (CID) at the Bandaranaike International Airport (BIA) in Katunayake have arrested two Sri Lankan passengers who were in possession of 1,083 mobile phones and 200 high-capacity pen drives, which had not been declared.
+
+Police said that the duo had arrived at the BIA from Dubai this morning (17).
+
+The value of the confiscated items found in the possession of the suspects is estimated to be around Rs. 50 million, according to police.
+
+◼️
+
+[Data](articles/d1055e01.json)
+
+---
+
+### Mendis’ visa not denied, likely to join team before warm-up games: SLC CEO
+
+*2024-05-17 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-visa-not-denied-likely-to-join-team-before-warm-up-games-SLC-CEO/108-282806) · `en`
+
+Colombo, May 17 (Daily Mirror) -  Sri Lanka Cricket (SLC) has denied recent reports that visas for two key players, including Kusal Mendis, in the Sri Lankan squad for the T20 World Cup had been rejected.
+
+CEO Ashley de Silva said that Mendis' visa is currently under process and that he will likely join the team before the warm-up games.
+
+It was reported that Kusal Mendis and Asitha Fernando declined to travel to the United States for the upcoming ICC T20 World Cup, despite the rest of the squad having departed for the USA.
+
+Ashley de Silva said that Kusal's visa has not been rejected and the US embassy is in touch with Sri Lanka Cricket to get the visa approved.
+
+...
+
+[Data](articles/0b32b574.json)
+
+---
 
 ### Rathupaswala shooting: High Court to deliver verdict today
 
@@ -2157,51 +2191,5 @@ The State Minister had left the airport premises following a cheeky hitting the 
 [Data](articles/394b925e.json)
 
 [Extended Data](ext_articles/394b925e.ext.json)
-
----
-
-### Chinese national as a translator as a translator for 3650 lakhs
-
-*2024-05-16 18:52:41* · [`adalk`](https://www.ada.lk/breaking_news/භාෂා-පරිවර්තකයෙක්-ලෙස-ආපු-චීන-ජාතිකයා-මාස-6කදී-ලක්ෂ-3650ක්-හොයලා/11-409685) · `si`
-
-A Chinese translator was fined 3 million rupees in Sri Lanka after being found guilty of possessing unlicensed gems. The case, involving the Gem and Jewelry Authority, began on September 1st, 2017, and concluded with a judgment on February 1st. Despite the defense arguing lack of knowledge about licensing requirements, the court deemed the offense serious enough to warrant a fine.
-
-🟩
-
-Colombo High Court Judge Navaratne Marasinghe has been sentenced to three million rupees in Sri Lanka without a three-month Rs.
-
-The judge surrendered to a fine of Rs.
-
-The punishment was imposed as a Chinese translator was not excused in Sri Lanka, with a gem and jewelery authority in Sri Lanka.The Chinese nationalman who was accused of allegedly.
-
-September 1st from February 1st from February 2017, with a gem and jewelry Authority (Under the Gem and Jewelery Authority) in Sri Lanka and the Tip of the Momed Authority under the Gem and Jewelery Authority Act of Rs.There was a possession.
-
-The judge decided to defend the accused against the defendant with a lengthy trial.
-
-Senior Deputy Solikitor General Sudarsitar General Sudarshana De Silva, who appeared for the plaintiff, this defendant was asked to be punished to the country and to a lesson to other foreigners.
-
-...
-
-[Data](articles/881fed3f.json)
-
-[Extended Data](ext_articles/881fed3f.ext.json)
-
----
-
-### Ella-Wellawaya main road temporarily closed
-
-*2024-05-16 18:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ella-Wellawaya-main-road-temporarily-closed/108-282739) · `en`
-
-May 16 (Daily Mirror) - In response to the ongoing inclement weather conditions, authorities have announced the temporary closure of the Ella-Wellawaya main road, effective from 6:00 p.m. today till 6:00 a.m. tomorrow.
-
-This decision comes as a precautionary measure due to the hazardous state of the road, particularly in areas such as Malithagolla.
-
-Motorists are urged to seek alternate routes during this period to ensure their safety.
-
-◼️
-
-[Data](articles/89c121ee.json)
-
-[Extended Data](ext_articles/89c121ee.ext.json)
 
 ---

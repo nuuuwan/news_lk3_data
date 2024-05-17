@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 00:05:12**
+As of **2024-05-18 00:18:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,730 (100.0%) of 24,731 articles have been extended.
+24,731 (100.0%) of 24,731 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Sri Lanka’s last official census was taken in 2012. According to that census, 
 ...
 
 [Data](articles/3c5fbf18.json)
+
+[Extended Data](ext_articles/3c5fbf18.ext.json)
 
 ---
 

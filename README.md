@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 14:04:10**
+As of **2024-05-17 14:18:24**
 
 ## Newspaper Stats
 
-*Scraped **24,641** Articles*
+*Scraped **24,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,450
 adalk | 2,111
 adaderanalk | 2,854
 tamilmirrorlk | 2,891
-virakesarilk | 3,713
+virakesarilk | 3,714
 dailymirrorlk | 3,862
 adaderanasinhalalk | 3,928
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,928
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,637 (100.0%) of 24,641 articles have been extended.
+24,641 (100.0%) of 24,642 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,17 +48,41 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 
 [Data](articles/152d81bc.json)
 
+[Extended Data](ext_articles/152d81bc.ext.json)
+
 ---
 
-### රටම බලාසිටි රතුපස්වල නඩු තීන්දුව මෙන්න
+### Here is the Bicket Witty Rathupas
 
 *2024-05-17 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196715) · `si`
 
-වැලිවේරිය නගරයේදී රතුපස්වල ප්‍රදේශයේ ජනතාව පැවැත්වූ විරෝධතාවක් අතරතුර වෙඩි වැදීමෙන් පුද්ගලයින් තිදෙනෙකු  ජීවිතක්ෂයට පත්වීමේ සිද්ධියට අදාළ නඩුවෙන් හිටපු හමුදා මේජර්වරයෙකු ඇතුළු සැකකරුවන් සිව්දෙනෙකු නිදොස්කොට නිදහස් කිරීමට ගම්පහ මහාධිකරණය අද (17) නියෝග කළේය.
+Gampaha High Court orders arrest of four suspects linked to Rathupaswala incidents in Weliweriya.
+
+🟩
+
+The Gampaha High Court today (17) ordered four suspects in the Rathupaswala area in Weliweriya.
 
 ◼️
 
 [Data](articles/c32e9619.json)
+
+[Extended Data](ext_articles/c32e9619.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் கைதான நால்வரும் பிணையில் விடுதலை
+
+*2024-05-17 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183778) · `ta`
+
+திருகோணமலை மாவட்டத்தின் மூதூர் - சேனையூர் பகுதியில் முள்ளிவாய்க்கால் கஞ்சி பரிமாறிய குற்றச்சாட்டில் கைது செய்யப்பட்ட நால்வருக்கும் மூதூர் நீதிமன்றம் இன்று வெள்ளிக்கிழமை  (17) பிணை வழங்கி விடுதலை செய்துள்ளது.
+
+குறித்த வழக்கானது நகர்த்தல் பத்திரத்தின்மூலம் இன்றையதினம் வழக்கு விசாரணைக்காக மூதூர் நீதிமன்ற நீதிபதி தஸ்னீம் பௌசான் முன்னிலையில் எடுத்துக் கொள்ளப்பட்டபோதே சட்டத்தரணிகள் முன்வைத்த சமர்ப்பணங்களை ஆராந்த நீதிபதி குறித்த நால்வரையும் தலா ஒரு இலட்சம் ரூபா சரீரப் பிணையில் விடுதலை செய்ய உத்தரவிட்டுள்ளார்.
+
+குறித்த நபர்களுடைய பிணைக்கான நகர்த்தல் விண்ணப்பத்தினை சட்டத்தரணி நாகராஜா மோகன் இன்றையதினம்  தாக்கல் செய்திருந்தார். இதற்கு ஆதரவாக சட்டத்தரணி புவிராஜசிங்கம் முகுந்தன், சட்டத்தரணி தேவராஜா ரமணன் மற்றும் சட்டத்தரணி சயந்தன் ஆகியோர் முன்னிலையாகி இருந்தனர்.
+
+...
+
+[Data](articles/67c18df8.json)
 
 ---
 
@@ -75,6 +99,8 @@ It calls on the Government to acknowledge the involvement of state security forc
 ...
 
 [Data](articles/f08b9023.json)
+
+[Extended Data](ext_articles/f08b9023.ext.json)
 
 ---
 
@@ -254,25 +280,31 @@ The US dollar purchasing price was 295.8026 and the sales price were Rs 305.1511
 
 ---
 
-### කුසල් ගේ වීසා ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් ප්‍රකාශයක්
+### Sri Lanka Cricket on Kusal's Visa
 
 *2024-05-17 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196714) · `si`
 
-අමෙරිකාවට යෑම සඳහා ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ උප නායක කුසල් මෙන්ඩිස් ඉදිරිපත් කළ වීසා අයදුම්පත සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ ප්‍රධාන විධායක ඈෂ්ලි ද සිල්වා අද (17) පැවති මාධ්‍ය හමුවකදී අදහස් දැක්වීය.
+Sri Lanka Cricket CEO Ashley de Silva clarified at a press conference that Kusal Mendis' visa application hasn't been rejected. He mentioned Kusal will liaise with the US Embassy for further documentation, aiming for visa approval within a day or two. This process should enable Kusal to participate in upcoming training matches, including those against South Africa in New York on June 2nd.
 
-ඔහු එහිදී පැවසුවේ කුසල් ගේ වීසා අයදුම්පත ප්‍රතික්ෂේප කර නොමැති බවයි.
+🟩
 
-කුසල් ඒ සම්බන්ධයෙන් අමෙරිකානු තානාපති කාර්යාලයේ නිලධාරීන් සමග කටයුතු කරන බවද ඈෂ්ලි ද සිල්වා පැවසීය.
+Sri Lanka Cricket CEO of Sri Lanka Cricket at a press conference held at a press conference held on Visal Mendis, Sri Lanka's Vasal Mendis.
 
-"එයාගේ තව ඩොකියුමන්ට්ස් වගයක් ඉල්ලලා තියෙනවා. ඒ ඩොකියුමන්ට්ස් දුන්නට පස්සේ ඉදිරි දින එක/දෙක තුළ ඔහුට වීසා ලැබෙයි.."
+He said the Kusal's visa application has not been rejected.
 
-එබැවින් මෙන්ඩිස් ට පුහුණු තරගවලට සහභාගීවීමට අවස්ථාව ලැබෙතැයි තමා විශ්වාසකරන බව ඔහු පැවසීය.
+Ashley de Silva said that Kusal would work with the US Embassy in this regard.
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ ශ්‍රී ලංකාව සහභාගී වන පළමු තරගය ජූනි 02 වනදා දකුණු අප්‍රිකාව සමග නිව් යෝර්ක් හීදී පැවැත්වෙයි.
+"He has asked for some more docummen. After that Dokyments, he gets visas in the next one day / two. "
+
+He said he believed to be able to participate in the training matches.
+
+South Africa will be held in New York on June 02.
 
 ◼️
 
 [Data](articles/a3319c29.json)
+
+[Extended Data](ext_articles/a3319c29.ext.json)
 
 ---
 
@@ -2131,31 +2163,5 @@ Employees of the Irrigation Department held a protest outside their office today
 [Data](articles/f00136df.json)
 
 [Extended Data](ext_articles/f00136df.ext.json)
-
----
-
-### Another irregularity of the O / L examination?
-
-*2024-05-16 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196696) · `si`
-
-The Human Rights Commission of Sri Lanka has filed complaints about irregularities in the 2023 GCE Ordinary Level Examination, including missing sections in the Geography exam for 14 students and interruptions for two special needs students. The examination faced accusations of errors across various halls.
-
-🟩
-
-The Human Rights Commission of Sri Lanka (HRC) has filed complaints regarding several more disorders of the GCE Ordinary Level Examination.
-
-Accordingly, 14 children have been accused of not given some sections of the Geography issue.
-
-Plaintins complain that two special needs were interrupted by the inspectors.
-
-The 2023 GCE Ordinary Level Examination had been accused of errors and disorders of several examination halls.
-
-The students accused 14 children who have sent the first question paper and the map of geography on the Tamil medium of the Almaan Muslim Maha Vidyalaya in Minuwangoda.
-
-◼️
-
-[Data](articles/3096adeb.json)
-
-[Extended Data](ext_articles/3096adeb.ext.json)
 
 ---

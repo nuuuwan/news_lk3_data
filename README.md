@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 02:03:36**
+As of **2024-05-18 02:18:27**
 
 ## Newspaper Stats
 
-*Scraped **24,746** Articles*
+*Scraped **24,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,425
-dailyftlk | 1,461
+dailyftlk | 1,463
 adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,744 (100.0%) of 24,746 articles have been extended.
+24,746 (100.0%) of 24,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Cabinet cannot decide on elections says Tissa
+
+*2024-05-18 01:08:10* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-cannot-decide-on-elections-says-Tissa/56-761949) · `en`
+
+SJB National Organiser Tissa Attanayake says Cabinet deciding to cancel nominations for LG polls undermines democratic principles and constitutes severe injustice to citizens
+
+Questions authority of Cabinet to make decisions regarding election nominations
+
+Criticises Govt’s actions as usurpation of people’s fundamental right to vote
+
+Promises to hold LG polls under future SJB Govt. led by Sajith Premadasa
+
+Samagi Jana Balawegaya (SJB) National Organiser Tissa Attanayake on Thursday condemned Cabinet Media Spokesman Minister Bandula Gunawardena’s annoucement that the Cabinet will take up for consideration the cancellation of nominations submitted for the Local Government polls last year.
+
+...
+
+[Data](articles/536ab9e9.json)
+
+---
+
+### Rishad’s wife and father-in-law to face indictments in domestic’s death
+
+*2024-05-18 01:03:29* · [`dailyftlk`](https://www.ft.lk/news/Rishad-s-wife-and-father-in-law-to-face-indictments-in-domestic-s-death/56-761948) · `en`
+
+Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegaya (SJB) yesterday during a meeting with SJB leader Sajith Premadasa.  The former Army Commander was also appointed as the Head of the Samagi Ranaviru Balawegaya by Premadasa. Other members of the Samagi Ranaviru Balawegaya, including Major Generals Nissanka Ranawana, Sumith Atapattu and Satyapriya Liyanage were also in attendance.
+
+Colombo Additional Magistrate Harshana Kekunawala on Thursday directed the Attorney General’s Department to proceed with indicting the wife and father-in-law of All Ceylon Makkal Congress (ACMC) Leader MP Rishad Bathiudeen, as well as the person who employed a minor as a domestic aide. This directive follows the tragic incident from 2021 where the young girl was burned to death while working in a house belonging to Bathiudeen.
+
+...
+
+[Data](articles/094a59ea.json)
+
+---
 
 ### Jaffna Uni teachers condemn obstruction of Mullivaikkal memorialisation events
 
@@ -266,6 +300,8 @@ The impact of these two factors – the economic hardships and the Aragalaya –
 
 [Data](articles/1e3d7972.json)
 
+[Extended Data](ext_articles/1e3d7972.ext.json)
+
 ---
 
 ### Who will benefit from an election boycott by Tamils?
@@ -321,6 +357,8 @@ To add insult to injury Members of Parliament are now demanding that the rupees 
 ...
 
 [Data](articles/15b0b86a.json)
+
+[Extended Data](ext_articles/15b0b86a.ext.json)
 
 ---
 
@@ -2191,49 +2229,5 @@ Later, the police handed over the youth and the two girls to their parents.
 [Data](articles/f34ace4a.json)
 
 [Extended Data](ext_articles/f34ace4a.ext.json)
-
----
-
-### A hotline informs about fraudulent doctors
-
-*2024-05-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196716) · `si`
-
-Government Medical Officers' Association warns of 40,000 fake doctors nationwide. Spokesman Dr. Chamil Wijesinghe urges the public to report unqualified individuals selling drugs.
-
-🟩
-
-There are about 40,000 fake doctors throughout the country, says the Government Medical Officers' Association.
-
-The association spokesman Dr. Chamil Wijesinghe said that some people sell various drugs to the people.
-
-He also requested the public to provide information on such persons to the immediate telephone number.
-
-There are many people who have no knowledge of medical science in the 40,000 people, Dr. Wijesinghe said.
-
-◼️
-
-[Data](articles/7abc54a3.json)
-
-[Extended Data](ext_articles/7abc54a3.ext.json)
-
----
-
-### Four army personnel acquitted over 2013 Rathupaswala shooting
-
-*2024-05-17 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99277/four-army-personnel-acquitted-over-2013-rathupaswala-shooting) · `en`
-
-The four accused in the case over the shooting to death of three persons and injuring 45 others during a protest by villagers demanding clean drinking water at Rathupaswala in 2013, have been acquitted by the Gampaha High Court Trial-at-Bar.
-
-Delivering the verdict in the case today (17), the court ordered to acquit and release the four Sri Lanka army personnel including a Major General and three soldiers, Ada Derana reporter said.
-
-On August 01, 2013, army personnel opened fire at unarmed villagers at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
-
-In August 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
-
-...
-
-[Data](articles/152d81bc.json)
-
-[Extended Data](ext_articles/152d81bc.ext.json)
 
 ---

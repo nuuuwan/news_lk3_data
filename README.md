@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 21:18:27**
+As of **2024-05-17 21:33:57**
 
 ## Newspaper Stats
 
-*Scraped **24,710** Articles*
+*Scraped **24,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 2,863
 tamilmirrorlk | 2,898
 virakesarilk | 3,724
 dailymirrorlk | 3,879
-adaderanasinhalalk | 3,947
+adaderanasinhalalk | 3,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,707 (100.0%) of 24,710 articles have been extended.
+24,710 (100.0%) of 24,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### නාවිකයන් 3,146 ට උසස්වීම්
+
+*2024-05-17 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196737) · `si`
+
+15 වන රණවිරු සැමරුම් දිනයට සමගාමීව නාවිකයන් 3,146 දෙනෙක් ඊළඟ තරාතිරමට උසස් කර තිබේ.
+
+15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව සන්නද්ධ හමුදා සේනාධිනායක හා ශ්‍රී ලංකා ජනාධිපතිවරයාගේ අනුමැතිය ඇතුව නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා විසින් නාවික හමුදාවේ ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයන් 3,146 දෙනෙකුට මෙම උසස්වීම් සිදුකර ඇත.
+
+වසර 30 කට ආසන්න කාලයක් මෙරට වෙලා ගනිමින් පැවති ත්‍රස්තවාදය මානුෂීය මෙහෙයුමකින් විජයග්‍රහණය කර මවිබිමේ ස්වෛරීභාවය සහ භෞමික අඛණ්ඩතාවය ස්ථාපිත කිරීම උදෙසා ත්‍රිවිධ හමුදාවේ, පොලීසියේ සහ සිවිල් ආරක්‍ෂක දෙපාර්තමේන්තුවේ වීරෝධාර රණවිරුවන් ජීවිත පරිත්‍යාගයෙන් සිදුකළ අනභිබවනීය දායකත්වය එම විජයග්‍රහණය සඳහා තීරණාත්මක සාධකයක් විය.
+
+◼️
+
+[Data](articles/8bc6c20c.json)
+
+---
 
 ### Over 400 players to go under the hammer at LPL Auction
 
@@ -49,6 +65,8 @@ Dodanwela revealed that the fifth edition of the LPL 2024, scheduled to run from
 ...
 
 [Data](articles/442f907e.json)
+
+[Extended Data](ext_articles/442f907e.ext.json)
 
 ---
 
@@ -70,23 +88,31 @@ When the Indian cricket board is considering abolishing the tossing of the coin 
 
 ---
 
-### කැත්‍රින් ගෙන් චීනයට ආ විරෝධය
+### Objection to China from Kathryn
 
 *2024-05-17 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196736) · `si`
 
-ශ්‍රී ලංකා ආර්ථික මුහුදු කලාපයෙන් චීන පර්යේෂණ නෞකා ඉවත්කර තැබීම සඳහා අමෙරිකාව මෙරට රජය සමඟ අඛණ්ඩව කටයුතු කරන බව ශ්‍රී ලංකාව සඳහා නම් කළ නව අමෙරිකානු තානාපතිනි එලිසබෙත් කැත්‍රින් හෝර්ස්ට් මහත්මිය එරට සෙනට් සභාව ඉදිරියේ ප්‍රකාශ කර තිබේ.
+Kathryn Hourste, a senior US diplomat, is criticized by MP Udaya Gammanpila for her appointment as Sri Lanka's new American Ambassador. The controversy arises amidst the US's removal of Chinese research vessels from Sri Lanka's economic zone.
 
-ශ්‍රී ලංකාව් නව අමෙරිකානු තානාපතිනිය ලෙස එලිසබෙත් කැත්‍රින් හෝර්ස්ට් මහත්මිය නම් කර තිබේ.
+🟩
 
-එරට ඇය අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවේ පාකිස්තානය භාර ප්‍රධාන නියෝජ්‍ය සහකාර ලේකම් ලෙස කටයුතු කළ ජ්‍යේෂ්ඨ රාජ්‍ය තාන්ත්‍රික නිලධාරිනියකි.
+The new American Ambassador to Sri Lanka has stated in front of the Senate in the country that the US is continuing to remove Chinese research vessels from the Sri Lanka Economic Shira.
 
-පාකිස්තානයේ අග්‍රාමාත්‍යවරයා ලෙස කටයුතු කළ ඉම්රාන් ඛාන් පාලනය සමයේ එරට කටයුතු සඳහා අමෙරිකාවේ ප්‍රබලව මැදිහත්වීමක් සිදුවූ බවට ද චෝදනා එල්ලවන්නේ එවන් පසුබිමක් තුළය.
+Elizabeth Kathryry Hourste has been named as Sri Lanka's New America Ambassador.
 
-කෙසේවෙතත් හෝස්ට් මහත්මිය මෙරට තානාපතිනිය ලෙස පත්වන්නේ එරට සෙනෙට් සභාවේ සහ ශ්‍රී ලංකා රජයෙන් අනුමැතිය හිමිවීමෙන් පසුව වන අතර පසුගියදා ඇය අමෙරිකාවේ සෙනෙට් සභාවේ විදේශ සබඳතා කමිටුව හමුවට කැඳවනු ලැබීය.
+She was a senior diplomat for the Deputy Deputy Assistant Secretary of the US Department of America.
 
-...
+It is in such a background that the USran Khan, who was the Prime Minister of Pakistan.
+
+However, however, however, is the Ambassador to the Sri Lankan Ambassador to the Senathana and Sri Lanka.
+
+However, MP Udaya Gammanpila, a press conference calls for a press conference that Mrs. Elizabeth Horsts should be rejected as Sri Lanka as ambassador to Sri Lanka.
+
+◼️
 
 [Data](articles/76874edf.json)
+
+[Extended Data](ext_articles/76874edf.ext.json)
 
 ---
 
@@ -1466,6 +1492,8 @@ The incident took place on August 01, 2013, when army personnel fired upon unarm
 
 [Data](articles/e2a41ca2.json)
 
+[Extended Data](ext_articles/e2a41ca2.ext.json)
+
 ---
 
 ### Two schoolgirls, youth marooned in floods, rescued
@@ -2275,27 +2303,5 @@ He has been appointed as the head of the war heroes after being joining the comm
 [Data](articles/00296526.json)
 
 [Extended Data](ext_articles/00296526.ext.json)
-
----
-
-### Colombo HC sentences 9 Pakistani drug traffickers to 10 years in prison
-
-*2024-05-17 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99267/colombo-hc-sentences-9-pakistani-drug-traffickers-to-10-years-in-prison) · `en`
-
-Nine Pakistani nationals, who were arrested on charges of smuggling a large cache of drugs, have been sentenced to 10 years in prison by the Colombo High Court.
-
-During a joint operation carried out by the Police Narcotics Bureau (PNB) and the Sri Lanka Navy on January 01, 2020, the Pakistani nationals were apprehended while transporting 614 kg of ‘Ice’ (Crystal Methamphetamine) and 581 kg and 34 grams of suspected drugs by boat.
-
-The report of the Government Analyst has confirmed that the seized parcels contained over 491 kilograms of ‘Ketamine’ drugs and nearly 472 kilograms of ‘Ice’ (Crystal Methamphetamine).
-
-The accused pleaded guilty to the charges when the case was taken up before the court, and were subsequently sentenced to 10 years in prison, police said.
-
-Furthermore, the police mentioned that measures are underway to extradite the suspects to Pakistan in order to serve their sentences.
-
-◼️
-
-[Data](articles/6e9b836c.json)
-
-[Extended Data](ext_articles/6e9b836c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 00:33:38**
+As of **2024-05-18 00:49:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,731 (100.0%) of 24,741 articles have been extended.
+24,737 (100.0%) of 24,741 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Ambassador of Sri Lanka in Brussels Chandana Weerasena briefly explained as to h
 
 [Data](articles/72bb798d.json)
 
+[Extended Data](ext_articles/72bb798d.ext.json)
+
 ---
 
 ### Adani Energy Solutions completes acquisition of Essar’s Operational Mahan-Sipat Transmission assets
@@ -59,6 +61,8 @@ The acquisition covers fully operational 400 kV, 673 ckt km inter-state transmis
 ...
 
 [Data](articles/dc4f55d0.json)
+
+[Extended Data](ext_articles/dc4f55d0.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Representatives from both organisations graced the occasion to formalise the par
 
 [Data](articles/5f15554b.json)
 
+[Extended Data](ext_articles/5f15554b.ext.json)
+
 ---
 
 ### Sadaharitha partners with UAE’s Alweena Perfumes to expand global operations with agarwood exports
@@ -90,6 +96,8 @@ Since its inception in 2002, Sadaharitha Group has been at the forefront of revo
 
 [Data](articles/19fe2e8d.json)
 
+[Extended Data](ext_articles/19fe2e8d.ext.json)
+
 ---
 
 ### Commercial Bank in strategic partnership with Q&E to enhance SME capabilities
@@ -103,6 +111,8 @@ The Commercial Bank LEAP GlobalLinker is a pioneering initiative in Sri Lanka, s
 ...
 
 [Data](articles/25729ba5.json)
+
+[Extended Data](ext_articles/25729ba5.ext.json)
 
 ---
 
@@ -341,6 +351,8 @@ Comprehending the ego and attachment that begins the minds’ first riot
 ...
 
 [Data](articles/403831b2.json)
+
+[Extended Data](ext_articles/403831b2.ext.json)
 
 ---
 

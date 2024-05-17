@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 19:34:22**
+As of **2024-05-17 19:51:57**
 
 ## Newspaper Stats
 
-*Scraped **24,697** Articles*
+*Scraped **24,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 2,862
 tamilmirrorlk | 2,897
 virakesarilk | 3,724
 dailymirrorlk | 3,873
-adaderanasinhalalk | 3,943
+adaderanasinhalalk | 3,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,694 (100.0%) of 24,697 articles have been extended.
+24,697 (100.0%) of 24,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
+
+### තිදෙනෙකුට මරු කැඳවූ රතුපස්වල ඛේදවාචකය
+
+*2024-05-17 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196733) · `si`
+
+ආන්දෝලනාත්මක රතුපස්වල වෙඩිතැබීමේ නඩුවේ විත්තිකරුවන් වූ හමුදා සාමාජිකයන් සිව්දෙනා නිදොස්කොට නිදහස් කිරීමට ගම්පහ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) නියෝග කළේය.
+
+ඒ, වසර 11කට වැඩි කාලයක් සිදුකෙරුණු දීර්ඝ නඩු විභාගයකින් අනතුරුවය.
+
+ගම්පහ, රතුපස්වල ප්‍රදේශයේ පෞද්ගලික කර්මාන්ත ශාලාවකින් පිටවන අපද්‍රව්‍ය මඟින් පානීය ජලය අපවිත්‍ර වී ඇති බව පවසමින්, එම ප්‍රදේශයේ ජනතාව වැලිවේරිය නගරයේදී 2013 අගෝස්තු 01 වනදා විරෝධතාවක නිරත විය.
+
+පිරිසිදු පානීය ජලය ඉල්ලා සිදුකරන ලද විරෝධතාව විසුරුවා හැරීමට හමුදා නිලධාරින් වෙඩිතැබීම් සිදුකළ අතර එහිදී පාසල් සිසුන් දෙදෙනෙකු සහ තවත් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව පනහකට වැඩි පිරිසක් තුවාල ලැබීය.
+
+සිද්ධිය සම්බන්ධයෙන් යුද හමුදා නිලධාරින් වූ බ්‍රිගේඩියර් අරුණ දේශප්‍රිය ගුණවර්ධන, සැරයන් ඩිංගිරි අරුණගේ සිරිසේන, කෝප්‍රල් ජේ.එම්. තිලකරත්න සහ කෝප්‍රල් ලලිත් ග්‍රේ යන හමුදා සාමාජිකයන්ට එරෙහිව නීතිපතිවරයා ගම්පහ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+
+ඒ, මිනීමැරීම, මිනීමැරීමට තැත් කිරීම, බරපතළ තුවාල සිදුකිරීම හා සුළු තුවාල සිදුකිරීම ඇතුළු අධි චෝදනා 94ක් යටතේය.
+
+...
+
+[Data](articles/953b3e44.json)
+
+---
 
 ### 21 sailors including Sri Lankan trapped on Baltimore ship for 7 weeks
 
@@ -45,6 +67,8 @@ The 21 on board were left without communication for weeks with their families, c
 ◼️
 
 [Data](articles/d6d2163d.json)
+
+[Extended Data](ext_articles/d6d2163d.ext.json)
 
 ---
 
@@ -113,6 +137,8 @@ Police said a group of five police officers were on their way to Anuradhapura on
 ◼️
 
 [Data](articles/2d41b4b0.json)
+
+[Extended Data](ext_articles/2d41b4b0.ext.json)
 
 ---
 
@@ -1318,17 +1344,27 @@ It calls on the Government to acknowledge the involvement of state security forc
 
 ---
 
-### රතුපස්වල නඩු තීන්දුව:'විමර්ශකයින්ගේ දෝෂ සම්බන්ධයෙන් අධිකරණයට මැදිහත්වීමට හැකියාවක් නැහැ'
+### Rathupaswala case verdict: 'Unable to intervene in investigative bugs'
 
 *2024-05-17 13:28:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrj5e1zlz3o) · `si`
 
-පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් 45 දෙනෙකුට තුවාල කිරීමේ සිද්ධිය සම්බන්ධයෙන් වූ නඩු තීන්දුව අද (මැයි මස 17) වෙනිදා ප්‍රකාශයට පත් කරන ලදී. එම නඩු විභාගය පැවැත්වුයේ ගම්පහ මහාධිකරණයේ දීය.
+Gampaha High Court ruled on May 17th, stating it couldn't intervene in the Rathupaswala case due to insufficient evidence against the defendants. The verdict involved three soldiers facing charges related to a protest in 2013 where civilians demanded clean water. Despite the army's involvement in dispersing the protest, which resulted in injuries, the court found no clear criminal intent on the part of the defendants.
 
-එම නඩුවේ තීන්දුව ප්‍රකාශයට පත් කරමින් විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (මැයි මස 17) සඳහන් කළේ විත්තිකරුවන්ට එරෙහි චෝදනා යටතේ මෙන්ම සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ පනත යටතේ නිසි විමර්ශනයක් නොකිරීම සම්බන්ධයෙන් මෙන්ම විමර්ශකයින්ගේ දෝෂ සම්බන්ධයෙන් අධිකරණයට මැදිහත්වීමට හැකියාවක් නැති බැවින් විත්තිකාර යුද හමුදා මේජර් ජනරාල්වරයකු සහ හමුදා සෙබළුන් තිදෙනෙකු සියලු චෝදනා වලින් නිදොස් කර නිදහස් කරන බවය.
+🟩
+
+The verdict on the residents of Rathupaswala, who was demanding clean water, was declared today (May 17). The trial was held in the Gampaha High Court.
+
+Special three-member High Court Judge Madulla today (May 17) stated that the judiciary is not possible to intervene under the accusations against the defendants and the defenders of the Civilian and Policy Act and the defenders cannot intervene.Three soldiers lack of acquitting from all charges.
+
+In addition to these defendants in addition to these defendants, the panel of military personnel who had not been charged against these defendants had not been charged against these defendants, the other military officers mentioned in the verdict had not yet been charged against these defendants.The benefit of the suspicion is given to the defendants as the accused in the case.
+
+The army did in the North now, the people of the Weliianiya Weliyaarapus 'still thirsty'
 
 ...
 
 [Data](articles/af287d0f.json)
+
+[Extended Data](ext_articles/af287d0f.ext.json)
 
 ---
 
@@ -2283,27 +2319,5 @@ Sources said, all the arrested fishermen belong to Paruthithurai in Sri Lanka. T
 [Data](articles/8821c79e.json)
 
 [Extended Data](ext_articles/8821c79e.ext.json)
-
----
-
-### Sri Lanka sees 15,000 tri-force absentees respond to amnesty; State Minister says no extension
-
-*2024-05-17 09:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-15000-tri-force-absentees-respond-to-amnesty-state-minister-says-no-extension-163432/) · `en`
-
-ECONOMYNEXT – At least 15,000 Sri Lanka tri-forces absentees have come forward to obtain amnesty, responding to a one-month general amnesty call and the Defence Ministry has decided not to extend the period, State Defence Minister Pramitha Bandara Tennakoon said.
-
-The Defence Ministry last month declared a month long general amnesty from April 20 to May 20 for tri-forces absentees, enabling them to receive an official discharge from their respective services.
-
-Absentees of the army, navy and air force will receive their discharge from military service after they settle any financial obligations or amounts due.
-
-“So far, around 15,000 have come forward to obtain this amnesty,” Tennakoon told reporters in Colombo this week.
-
-There have been around 26,000 absentees from the armed forces, the State Minister said.
-
-...
-
-[Data](articles/1682eb82.json)
-
-[Extended Data](ext_articles/1682eb82.ext.json)
 
 ---

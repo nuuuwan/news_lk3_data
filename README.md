@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-17 09:18:35**
+As of **2024-05-17 09:33:56**
 
 ## Newspaper Stats
 
-*Scraped **24,591** Articles*
+*Scraped **24,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,73 @@ dailyftlk | 1,450
 adalk | 2,109
 adaderanalk | 2,842
 tamilmirrorlk | 2,889
-virakesarilk | 3,696
-dailymirrorlk | 3,856
-adaderanasinhalalk | 3,921
+virakesarilk | 3,697
+dailymirrorlk | 3,857
+adaderanasinhalalk | 3,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,588 (100.0%) of 24,591 articles have been extended.
+24,591 (100.0%) of 24,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-17 (Friday)
 
-### රතුපස්වල නඩු තීන්දුව අද
+### මෙරටදී අත්අඩංගුවට ගත් පාකිස්තාන ජාතිකයන් 09කට දුන් තීන්දුව
+
+*2024-05-17 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196708) · `si`
+
+මත්ද්‍රව්‍ය සමග ශ්‍රී ලංකාවේදී අත්අඩංගුවට ගැනුණු පාකිස්තාන ජාතිකයින් 09 දෙනෙකුට කොළඹ මහාධිකරණය විසින් වසර 10 බැගින් සිරදඬුවම් නියම කර තිබේ.
+
+2020 වසරේ ජනවාරි මස 01 වනදා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ නාවික හමුදාව එක්වී සිදුකරන ලද වැටලීමකදී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 614යි ග්‍රෑම් 36ක් සහ මත්ද්‍රව්‍ය බවට සැක කරන ද්‍රව්‍ය කිලෝග්‍රෑම් 581යි ග්‍රෑම් 34ක් සමග මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබුණි.
+
+එම මත්ද්‍රව්‍ය සම්බන්ධයෙන් රස පරික්ෂක වාර්තාව ලැබී ඇති අතර එහිදී මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 900කට අධික ප්‍රමාණයක් එම පාර්සල්වල අඩංගු බවට අනාවරණය වී තිබේ.
+
+ඒ අනුව නීතිපතිවරයාගේ උපදෙස් ලැබීමෙන් අනතුරුව කොළඹ මහාධිකරණය හමුවේ සැකකරුවන්ට එරෙහිව නඩු පවරා තිබු අතර  නඩුව කැඳවු අවස්ථාවේදී අදාළ පාකිස්තාන ජාතිකයින් වරද පිළිගෙන ඇති බව සඳහන් ය.
+
+ඒ අනුව නියම කළ දඬුවම ක්‍රියාත්මක කිරීම සඳහා ඔවුන් පාකිස්තානය වෙත පිටුවහල් කිරීමට කටයුතු සිදුකරමින් පවතින බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/d89f2ed5.json)
+
+---
+
+### 14 Sri Lankan fishermen arrested by Indian Navy
+
+*2024-05-17 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-Sri-Lankan-fishermen-arrested-by-Indian-Navy/108-282792) · `en`
+
+India, May 17 (The Hindu) - The Indian Navy has arrested 14 Sri Lankan fishermen along with five boats for crossing the International Maritime Boundary Line (IMBL) and for fishing sea cucumber on Thursday, May 16, 2024,
+
+Sources from the Indian Navy said, ICGS Rani Durgavati apprehended five Sri Lankan fishing boats with 14 Sri Lankan crew at 13 nautical mile South East of Point Calimere Light, 7 nautical miles inside Indian waters. The Sri Lankan boats were caught in violation of Maritime Zones of India Act 1981. Approximately 200 kgs of endangered fish species were seized onboard in view of protecting the Indian Exclusive Economic Zone and curbing illegal activities at sea.
+
+Sources said, all the arrested fishermen belong to Paruthithurai in Sri Lanka. They were brought to the Nagapattinam fishing harbor and handed over to the Vedaranyam Marine police on late Thursday.
+
+◼️
+
+[Data](articles/8821c79e.json)
+
+---
+
+### Rathupaswala case verdict today
 
 *2024-05-17 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196707) · `si`
 
-පිරිසිදු ජලය ඉල්ලා උද්ඝෝෂණය කළ ගම්පහ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර්වරයෙකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඬුල්ල හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද (17) ප්‍රකාශයට පත්කිරීමට නියමිතය.
+Today, a High Court judge will announce the verdict against six soldiers accused in a 2012 incident in Gampaha, Sri Lanka. The case was initiated by the Attorney General.
 
-මීට වසර 11කට පෙර මෙම සිදුවීම වාර්තා වූ අතර, නීතිපතිවරයා විසින් මෙම නඩුව පවරා තිබිණි.
+🟩
+
+The verdict of the three-member High Court Judge will be announced today (17) against three soldiers and three army soldiers in Gampaha.
+
+The incident was reported 11 years ago and the case was filed by the Attorney General.
 
 ◼️
 
 [Data](articles/ff3e5312.json)
+
+[Extended Data](ext_articles/ff3e5312.ext.json)
 
 ---
 
@@ -61,6 +103,8 @@ The body has been placed in the mortuary of the Matara Hospital.
 ◼️
 
 [Data](articles/d295a2a1.json)
+
+[Extended Data](ext_articles/d295a2a1.ext.json)
 
 ---
 
@@ -103,6 +147,20 @@ In political circles, it is widely seen as inducements being offered to parliame
 [Data](articles/aaade50f.json)
 
 [Extended Data](ext_articles/aaade50f.ext.json)
+
+---
+
+### போரில் உயிரிழந்தவர்களுக்கு வவுனியாவில் நாளை நினைவேந்தல்
+
+*2024-05-17 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183737) · `ta`
+
+போரில் உயிரிழந்தவர்களுக்கான நினைவேந்தல் நிகழ்வு வவுனியாவில் எதிர்வரும் சனிக்கிழமை (18)மாலை 5 மணிக்கு வவுனியப நகரசபை மண்டபத்தில் நடைபெறவுள்ளது.
+
+வன்னி மக்களுக்கான ஒன்றியம், வன்னி மாவட்ட காணாமல் ஆக்கப்பட்டவர்களின் சங்கம், சிறந்த இலங்கைக்கான மன்றம்,  காணாமலாக்கப்பட்டவர்களின் பிள்ளைகளின் சங்கம், உலகத்தமிழர் பேரவை, தர்மசக்தி ஒன்றியம் ஆகியன இணைந்து இந்த நிகழ்வினை ஏற்பாடு செய்துள்ளன.
+
+◼️
+
+[Data](articles/ab9bd145.json)
 
 ---
 
@@ -1124,17 +1182,29 @@ Due to heavy rains in Kandy this evening, the Kandy Railway Station and many oth
 
 ---
 
-### රත්නපුර හිටපු නගරාධිපතිගේ නැතිවූ පිස්තෝලය කාන්තාවක් ළග
+### Woman's lost pistols former Mayor of Ratnapura
 
 *2024-05-16 19:48:08* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-නගරාධිපතිගේ-නැතිවූ-පිස්තෝලය-කාන්තාවක්-ළග/11-409690) · `si`
 
-රත්නපුර හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ සොරාගත් පිස්තෝලය කාන්තාවකගේ සන්තකයේ තිබී රත්නපුර පොලිසිය විසින් අත්අඩංගුවට ගෙන රත්නපුර අතිරේක මහේස්ත්‍රාත් කාංචන කොඩිතුවක්කු මහත්මිය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ පහ බැගින්වූ ශරිර ඇප දෙකක් මත කාන්තාව මුදා හැර තිබේ.
+A woman was arrested in Ratnapura after her pistols were stolen from her home. The incident involved the Ratnapura Additional Magistrate, Tiran Attanayake, and led to investigations into the theft.
 
-ඉකුත් 10 වැනි දින දින හිටපු නගරාධිපති ටිරෝන් අත්තනායක මහතාගේ නිවසේ මිදුලේ නවතා තිබූ කැබ් රථයේ තිබී මෙම පිස්තෝලය සොරා ගෙන ගොස් තිබිණ.අත්අඩංගුවට ගත් කාන්තාව නම පුතා විසින් සොරාගත් පිස්තෝලය රුපියල් 40,000 කට උගස් කර ඇති බවත්, එය බේරා ගැනීමට ටිරෝන් අත්තනායක යන අයගෙන් මුදල් ඉල්ලා ගෙන තමාට දෙන බවට පවසා ඇති බවත්, පසුව මේ ගැන ටිරෝන් යන අයට පැවසීමෙන් පසුව තමාට මුදල් ගෙනවිත් දුන් බවත් පොලිසිය හමුවේ පවසා ඇත.
+🟩
 
-...
+The woman was arrested by Ratnapura Police and the Ratnapura Additional Magistrate Kindithana Kodithaku, who was stolen to the Ratnapura Additional Magistrate Tiran Attanayake.
+
+On the 10th, the pistol was stolen in the Queen of Tyrone Attanayake on the 10th.Police have said that he had told him that he was later given to the people of Tyrone.
+
+She has asked the police that her son had heard that his son had received money in the night, calling for money in front of the house..Police have reported that there were no four of the five bullets in the 38-type pistol.
+
+Investigations have been conducted to arrest the suspect, police said.
+
+Criminal at Criminal Started on the instructions of Ratnapura Headquarters.. Attanayake Attanayake, UPP. Gunasekara, Cabhasekara (38730),. Tillakaratne (8046), CO.Lhiu (54287), / / ​​License (78834), / Conduct Teaching.
+
+◼️
 
 [Data](articles/abc7673d.json)
+
+[Extended Data](ext_articles/abc7673d.ext.json)
 
 ---
 
@@ -2141,81 +2211,5 @@ One such example is when Premadasa said he would lead the Aragalaya to oust form
 [Data](articles/fb7c9033.json)
 
 [Extended Data](ext_articles/fb7c9033.ext.json)
-
----
-
-### Sri Lanka stocks close down, interest in JKH
-
-*2024-05-16 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-jkh-163383/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.26 percent, or 31.84 points, at 12,259; while the S&P SL20 Index closed down 0.08 percent, or 2.86 points, at 3,633.
-
-Turnover was down at 1.4 billion. This was its lowest since April 22.
-
-John Keells Holdings Plc saw the most active volumes traded in the day; the share closed up at 203.00.
-
-Hayleys Fabric Plc also saw most active volumes, and the share closed up at 42.40.
-
-The banking counter saw mixed sentiments: Sampath Bank Plc closed down at 77.40, Hatton National Bank Plc closed down at 195.00, Commercial Bank of Ceylon Plc closed flat at 114.75, while National Development Bank Plc closed up at 78.90, and DFCC Bank Plc closed up at 80.00.
-
-Several conglomerates closed down: Aitken Spence Plc was down at 130.25, Richard Pieris and Company Plc was down at 21.00, Melstacorp Plc was down at 89.50, and Sunshine Holdings Plc was down at 64.50.
-
-...
-
-[Data](articles/74d48e15.json)
-
-[Extended Data](ext_articles/74d48e15.ext.json)
-
----
-
-### The US Ambassador has pointed out the split of the Tamil parties
-
-*2024-05-16 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/183700) · `ta`
-
-US Ambassador Juli Sung met Tamil political leaders in Jaffna, discussing the Tamil National Party case and the need for a unified approach to address Tamil issues. The discussion highlighted the importance of a federal solution with internal self-determination for fulfilling Tamil aspirations. There was disagreement among the leaders over the necessity of a common Tamil candidate for the upcoming presidential election, with some advocating for unity while others expressing concerns about vote support and rejection of demands.
-
-🟩
-
-The US ambassador Juli Sung, who has been asked about the Tamil National Party case, pointed out that the Tamil parties will be able to talk about the weakness and that the parties can only speak about the solution to the problems of Tamil problems.
-
-A meeting between US ambassador Julie Sung and representatives of Tamil political parties, who are visiting Jaffna, held a private restaurant in Jaffna on Wednesday evening.
-
-Sivagnanam Sridharan, leader of the Sri Lankan Tamil party and parliamentarian Dharmalingam Siddharthan and TNA parliamentarian Charles Nirmalanathan were also present on behalf of the Tamil political parties.
-
-During the meeting, US ambassador Juli Sung heard about it as he was talking about the public candidate on behalf of the Tamils in the upcoming presidential election.
-
-...
-
-[Data](articles/bc3c73fc.json)
-
-[Extended Data](ext_articles/bc3c73fc.ext.json)
-
----
-
-### Take care of the next week!
-
-*2024-05-16 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196688) · `si`
-
-Expect heavy rains and strong winds in Sri Lanka's Central, Mannar, Galle, and Matara districts over the next week, affecting the Western and Sabaragamuwa Provincial Councils. The Department of Meteorology warns of potential damage from storms and advises taking precautions against wind and landing accidents.
-
-🟩
-
-The Department of Meteorology says that due to the growing "pre-monsoon 'areas in Sri Lanka and the surrounding sea areas.
-
-The Department has informed heavy rains and strong winds in the Central and Mannar Districts of Galle, Matara, and Mannar Districts, especially in the Western, Sabaragamuwa Provincial Councils, which are valid for the next week.
-
-Heavy showers in the sea areas area (0-10) in the island area (0.90) can continue with strong winds.
-
-The Department of Meteorology has informed the public, the fisheries and the Sailous Community on the announcements issued in this regard.
-
-The people have been asked to take necessary steps to reduce the damages caused by temporary strong winds and landing accidents.
-
-◼️
-
-[Data](articles/c42b46a3.json)
-
-[Extended Data](ext_articles/c42b46a3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 01:03:45**
+As of **2024-05-18 01:18:16**
 
 ## Newspaper Stats
 
-*Scraped **24,743** Articles*
+*Scraped **24,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,331
 economynextcom | 1,425
-dailyftlk | 1,460
+dailyftlk | 1,461
 adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
@@ -26,49 +26,87 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,741 (100.0%) of 24,743 articles have been extended.
+24,743 (100.0%) of 24,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### போர் வெற்றியல்ல, மனித குலத்தின் தோல்வி வெறுப்புக்கு பதிலாக அன்பை பகிர்வோம் - சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க
+### Jaffna Uni teachers condemn obstruction of Mullivaikkal memorialisation events
 
-*2024-05-18 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183820) · `ta`
+*2024-05-18 00:59:43* · [`dailyftlk`](https://www.ft.lk/news/Jaffna-Uni-teachers-condemn-obstruction-of-Mullivaikkal-memorialisation-events/56-761947) · `en`
 
-போர் என்பது வெற்றியல்ல அது நாட்டினதும் அல்லது மனித குலத்தினதும் தோல்வியாகும். 30 வருட கால யுத்தம் இழப்புக்களை மாத்திரமே மிகுதியாக்கியுள்ளது. வெறுப்புக்கு பதிலாக அன்பை வெளிப்படுத்துவோம் என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க நாட்டு மக்களிடம் வலியுறுத்தியுள்ளார்.
+Says State and apparatuses are attempting to misrepresent and vilify community-driven memorialisation events
 
-30 வருடகால யுத்தம் முடிவடைந்து 18 ஆம் திகதி சனிக்கிழமையுடன் 15 ஆண்டுகள் பூர்த்தியாகின்றன. இதனை முன்னிட்டு விசேட ஊடக அறிக்கையை வெளிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+Stresses attempts to thwart memorialisation shows there is no space in SL for Tamils to commemorate their war dead
 
-போர் என்பது வெற்றியல்ல,அது நாடு அல்லது மனித குலத்துக்கு பாரிய தோல்வியாகும்..30 வருடகால இனபோராட்டம் காரணமாக நாடு பலவற்றை இழந்தது. வடக்கு மற்றும் கிழக்கு மாகாணங்களில் தாய்மார் தங்களின் பிள்ளைகளை இழந்தனர்.அதேபோல் பிள்ளைகள் தமது பெற்றோரை இழந்தனர்.
+Calls on all Sri Lankans to condemn ongoing state repression of memorialisation in North-East
 
-சிங்களவர்கள், தமிழர்கள், முஸ்லிம்கள் என இன அடிப்படையில் நாம் பிளவடைந்துள்ளோம். இந்த யுத்தத்தின் காரணமாக நான் எனது கண்ணை இழந்தேன்.மேலும் பல இழப்புக்களை எதிர்க்கொண்டேன். இறுதி யுத்தத்தின் முடிவை நினைவு கூறும் இன்றைய தினத்தில் வெறுப்புக்கு பதிலாக அன்பை பகிர்வோம்.
+Issuing a statement, the University of Jaffna Teachers’ Association said it is deeply concerned by the moves by the Sri Lankan state and its law-enforcing apparatuses to regulate, suppress and block Mullivaikkal memorialisation events planned to be held this week, to commemorate the war dead.
+
+The Association underlined the importance of memorialisation as a personal and collective act of resistance and resilience and said they may also help those affected by the war to find healing and peace.
 
 ...
 
-[Data](articles/10753dcb.json)
+[Data](articles/8f4316f5.json)
 
 ---
 
-### மத்திய ஆசிய கரப்பந்தாட்டம்: இலங்கை 4ஆம் இடம்; பாகிஸ்தான் சம்பியனானது
+### War is not a victory, we share love instead of hatred of mankind - Chandrika Bandaranaike Kumaratunga
+
+*2024-05-18 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183820) · `ta`
+
+Chandrika Bandaranaike Kumaratunga emphasizes peace over war, urging unity and love to replace division and hatred. Reflecting on the 30-year conflict's devastating impact, she calls for reconciliation and forgiveness, marking its end with a call for shared compassion and understanding.
+
+🟩
+
+War is not a victory, it is the failure of the country or the humanity. The 30 -year war has only made losses. Former President Chandrika Bandaranaike Kumaratunga has urged the people of the country to express love instead of hatred.
+
+The 30 -year war ended 15 years on Saturday 18th. This is the first time that a special media report was published.
+
+War is not a victory, it is a major defeat to the country or mankind.. In the Northern and Eastern Provinces, mothers lost their children. Similarly the children lost their parents.
+
+We have divided the Sinhalese, Tamils and Muslims on the basis of ethnicity. I lost my eyes because of this war.Al many losses. Today, we will share love instead of hatred in the day, remembering the end of the final war.
+
+Today we will pledge to sorry instead of revenge, to establish God instead of the demons and to transmit comfort to each other.
+
+◼️
+
+[Data](articles/10753dcb.json)
+
+[Extended Data](ext_articles/10753dcb.ext.json)
+
+---
+
+### Central Asian Strip: Sri Lanka 4th;Pakistan was the champion
 
 *2024-05-18 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183819) · `ta`
 
-இஸ்லாமாபாத்தில் வெள்ளிக்கிழமை (17) நிறைவுக்கு வந்த மத்திய ஆசிய கரப்பந்தாட்ட சுற்றுப் போட்டியில் இலங்கை 4ஆம் இடத்தைப் பெற்றது.
+Sri Lanka finished 4th in the Central Asian Ceylon Tournament, losing to Kyrgyzstan but defeating Afghanistan and Iran. Pakistan emerged as champions after beating Turkmenistan 3-1 in the finals.
 
-ஆறு நாடுகள் பங்குபற்றிய இந்த சுற்றுப் போட்டியில் 3ஆம் இடத்தைத் தீர்மானிப்பதாக வெள்ளிக்கிழமை (17) நடைபெற்ற போட்டியில் கிர்கிஸ்தானிடம் 1 - 3 என்ற செட்கள் அடிப்படையில் தோல்வி அடைந்த இலங்கை 4ஆம் இடத்தைப் பெற்றது.
+🟩
 
-கிர்கிஸ்தானிடம் முதல் 2 செட்களில் முறையே 20 - 25, 17 - 25 என்ற புள்ளிகள் அடிப்படையில் தோல்வி அடைந்த இலங்கை 3ஆவது செட்டில் பதிலடி கொடுத்து 25 - 20 என வெற்றி பெற்றது.
+Sri Lanka ranked 4th in the Central Asian Ceylon Tournament, which ended on Friday (17) in Islamabad.
 
-ஆனால், அடுத்த செட்டில் இலங்கையின் கடும் சவாலுக்கு மத்தியில் 25 - 23 என்ற புள்ளிகள்   அடிப்படையில் தோல்வி அடைந்தது.
+Sri Lanka lost the 4th place on Friday (17) in the tournament, which was ranked 3rd on Friday (17).
 
-இந்த சுற்றுப் போட்டியில் லீக் சுற்றில் கிர்கிஸ்தான். பாகிஸ்தான், துர்க்மேனிஸ்தான் ஆகிய அணிகளிடம் தோல்வி அடைந்த போதிலும் ஆப்கானிஸ்தான், ஈரான் ஆகிய அணிகளை இலங்கை வெற்றிகொண்டிருந்தது.
+Sri Lanka lost the 3rd set of the first two sets of Kyrgyzstan 20 - 25, 17 - 25, respectively and won 25 - 20.
 
-இப் போட்டியைத் தொடர்ந்து நடைபெற்ற இறுதிப் போட்டியில் துர்க்மேனிஸ்தானை 3 - 1 என்ற செட்கள் அடிப்படையில் வெற்றிகொண்டு பாகிஸ்தான் தோல்வி அடையாத ஒரே ஒரு அணியாக மத்திய ஆசிய  கரப்பந்தாட்ட  சம்பியனானது.
+But in the next set, Sri Lanka lost 25 - 23 in the midst of a serious challenge.
 
-...
+Kyrgyzstan in the league round this round. Despite losing Pakistan and Turkmenistan, Sri Lanka won the Afghanistan and Iran.
+
+In the final of the match, Pakistan became the only team that has not lost to Turkmenistan 3 - 1.
+
+Pakistan won the first two sets of the final, 25 - 21, 25 - 19.
+
+But Pakistan, who played effectively in the 4th set, won 25 - 14.
+
+◼️
 
 [Data](articles/a9d49345.json)
+
+[Extended Data](ext_articles/a9d49345.ext.json)
 
 ---
 
@@ -2205,23 +2243,5 @@ Kamaleswaran Vijitha, University student Kamleswaran Tilila, Selvinod Kumar Suja
 [Data](articles/67c18df8.json)
 
 [Extended Data](ext_articles/67c18df8.ext.json)
-
----
-
-### UN report urges accountability and public apology for Sri Lanka’s enforced disappearances
-
-*2024-05-17 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99276/un-report-urges-accountability-and-public-apology-for-sri-lankas-enforced-disappearances) · `en`
-
-Sri Lanka’s Government must take meaningful action to determine and disclose the fates and whereabouts of tens of thousands of people who have been subjected to enforced disappearance over the decades and hold those responsible to account, a UN Human Rights Office report released today (May 17) says.
-
-It calls on the Government to acknowledge the involvement of state security forces and affiliated paramilitary groups, and to issue a public apology.
-
-“This report is yet another reminder that all Sri Lankans who have been subjected to enforced disappearance must never be forgotten,” said UN High Commissioner for Human Rights Volker Türk. “Their families and those who care about them have been waiting for so long. They are entitled to know the truth”.
-
-...
-
-[Data](articles/f08b9023.json)
-
-[Extended Data](ext_articles/f08b9023.ext.json)
 
 ---

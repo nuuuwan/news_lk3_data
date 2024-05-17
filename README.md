@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 04:34:39**
+As of **2024-05-18 04:52:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,763 (100.0%) of 24,766 articles have been extended.
+24,766 (100.0%) of 24,766 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The promotions were sanctioned by President and Commander-in-Chief of the Armed 
 ◼️
 
 [Data](articles/2e31bd19.json)
+
+[Extended Data](ext_articles/2e31bd19.ext.json)
 
 ---
 
@@ -999,6 +1001,8 @@ The discussion also focused on the hurdles impeding the Provincial Council elect
 ...
 
 [Data](articles/c23e6ee6.json)
+
+[Extended Data](ext_articles/c23e6ee6.ext.json)
 
 ---
 

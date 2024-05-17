@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 02:18:27**
+As of **2024-05-18 02:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,746 (100.0%) of 24,748 articles have been extended.
+24,748 (100.0%) of 24,748 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Samagi Jana Balawegaya (SJB) National Organiser Tissa Attanayake on Thursday con
 
 [Data](articles/536ab9e9.json)
 
+[Extended Data](ext_articles/536ab9e9.ext.json)
+
 ---
 
 ### Rishad’s wife and father-in-law to face indictments in domestic’s death
@@ -63,6 +65,8 @@ Colombo Additional Magistrate Harshana Kekunawala on Thursday directed the Attor
 ...
 
 [Data](articles/094a59ea.json)
+
+[Extended Data](ext_articles/094a59ea.ext.json)
 
 ---
 

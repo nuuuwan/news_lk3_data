@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 20:33:46**
+As of **2024-05-18 20:52:24**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 3,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,867 (100.0%) of 24,868 articles have been extended.
+24,868 (100.0%) of 24,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### පොලීසිය පිටුපසට රැගෙන ගොස් සැකකරුවෙකුට අමානුෂික ලෙස පහරදෙයි
+### The police take the back and brutally assaulted a suspect
 
 *2024-05-18 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196765) · `si`
 
-ශ්‍රී ලංකා පොලීසියේ ලාංඡනය සහිත කමිසයක් පැළඳ සිටිම මුල් කරගනිමින් පොලිස් නිලධාරීන් පිරිසක් පුද්ගලයෙකුට පහරදී තිබේ.
+In a shocking incident, a former police sergeant, banned from service for 17 years, was brutally assaulted by a group of police officers in Sri Lanka. The officers targeted him because he wore a T-shirt with the Sri Lankan police logo while dining in a cafeteria. The victim, who had served as a police sergeant for 17 years, primarily worked as a building construction contractor after his ban. This case highlights a disturbing act of violence against a former law enforcement official by current officers, leading to his hospitalization at the Colombo South Teaching Hospital.
 
-පහරකෑමට ලක්වූයේ වසර 17ක් පොලිස් සේවයේ නියුතුව වැඩ තහනම් වූ හිටපු පොලිස් සැරයන්වරයෙකි.
+🟩
 
-වසර 17ක් පොලීසියේ සේවය කළ හිටපු සැරයන්වරයාගේ ආදායම් මාර්ගය වූයේ ගොඩනැගිලි ඉදිකිරීම් කොන්ත්‍රාත්කරුවෙකු යටතේ සේවය කිරීමය.
+A group of police officers attacked a person to wear a shirt with a shirt with the Sri Lankan police logo.
 
-පසුගිය 14වනදා රාත්‍රියේ වැඩ නිමවීමෙන් පසුව ඔහු තවත් කිහිපදෙනකු සමග රාත්‍රි ආහාර ගැනීම සඳහා කොහුවල ආපනශාලාවක් වෙත ගොස් තිබේ.
+The victim was a former police sergeant who was banned for 17 years.
 
-හිටපු පොලිස් සැරයන්වරයා එවිට පැළඳ සිට තිබුණේ ශ්‍රී ලංකා පොලීසියේ සේවය කරන කාලසීමාව තුළ ලබාගත් පොලිස් නිල ලාංඡනය සහිත ටී ෂර්ටයකි.
+The source of income of the police for 17 years was to serve a building construction contractor.
 
-එම අවස්ථාවේ පොලිස් නිල ඇඳුමෙන් සිටි නිලධාරීන් දෙදෙනෙකු සහ සිවිල් ඇඳුමෙන් සැරසී සිටි නිලධාරීන් 6 දෙනෙකු පමණ එම ආපනශාලාව තුළ ආහාර ගනිමින් සිට තිබුණි.
+After the work was completed on the 14 night, he had gone to a cafeteria for some nights.
 
-පසුව එම නිලධාරීන්, හිටපු පොලිස් සැරයන්වරයාගෙන් පැළඳ සිටි ටී ෂර්ටය සම්බන්ධයෙන් ප්‍රශ්න කර තිබේ.
+The former police sergeant was then worn with a T-shirt with the police officer who had obtained over the time spent on the Sri Lankan police.
 
-එහිදී ඔහු පවසා තිබුණේ, තමා වසර 17ක් පොලිස් සේවයේ නිරතව සිටි පුද්ගලයෙකු බවය.
+At the time, about two officers in police uniform and 6 officers dressed in civilian clothing were eating in the cafeteria.
 
-...
+The officers were later questioned about the T-Shirt of T-Shirt.
+
+He said he was a police in the ministry for 17 years.
+
+The police officers were then taken to the back and hit the police station in Kohuwala police station.
+
+The former sergeant had been hospitalized, by the contract company.
+
+He was receiving treatment at the Colombo South Teaching Hospital.
+
+◼️
 
 [Data](articles/be2de439.json)
+
+[Extended Data](ext_articles/be2de439.ext.json)
 
 ---
 

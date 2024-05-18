@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 15:51:48**
+As of **2024-05-18 16:03:29**
 
 ## Newspaper Stats
 
-*Scraped **24,838** Articles*
+*Scraped **24,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,61 @@ adaderanalk | 2,875
 tamilmirrorlk | 2,907
 virakesarilk | 3,749
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,963
+adaderanasinhalalk | 3,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,837 (100.0%) of 24,838 articles have been extended.
+24,838 (100.0%) of 24,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### හෙට මිලිමීටර් 100 ඉක්මවූ වැස්සක්
+### ඩිනාරා පුංචිහේවා ආසියාවේ ප්‍රබලයින් අතරට
+
+*2024-05-18 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196755) · `si`
+
+ෆෝබ්ස් සඟරාව 09වෙනි වරට ප්‍රකාශයට පත් කළ "30 අන්ඩර් 30 ඒෂියා" ලැයිස්තුවට ඇතුළුවීමට ශ්‍රී ලාංකික රංගන ශිල්පිනියක සහ චිත්‍රපට නිෂ්පාදිකාවක වන ඩිනාරා පුංචිහේවා මහත්මිය සමත්වී තිබේ.
+
+ඒ විනෝදාස්වාදය හා ක්‍රීඩා අංශයට විවිධ ක්ෂේත්‍ර හරහා තරුණ නායකයින් ලෙස හඳුනාගත් 300 දෙනෙකු අතරින් ය.
+
+ෆෝබ්ස් සඟරාව, ආසියා පැසිෆික් කාලාපයේ අවධානය යොමුකළ යුතු පුද්ගලයන් "30 අන්ඩර් 30 ඒෂියා" ලැයිස්තුව මගින් ප්‍රකාශයට පත් කරනු ලබයි.
+
+කාණ්ඩ 10ක් යටතේ එම ලැයිස්තුවට පුද්ගලයන් තෝරාගෙන ඇති අතර රසවින්දන සහ ක්‍රීඩා අංශයෙන් ඩිනාරා පුංචිහේවා මහත්මිය මෙම ලැයිස්තුවට ඇතුළත්වී තිබේ.
+
+ඩිනාරා චිත්‍රපට ක්ෂේත්‍රයට පිවිසෙන්නේ 2018 වසරේදී ඇයගේම චිත්‍රපටයක් වන "මාලා" සිනමාපටය ඔස්සේය.
+
+එම චිත්‍රපටය ජාත්‍යන්තර සිනමා උළෙලකදී ප්‍රදර්ශනයවීමත් සමඟ ඇයට ගාඩි චිත්‍රපටයට රංගනයෙන් දායක වීමටත් අවස්ථාව හිමි විය.
+
+ලන්ඩනයේ ක්වීන් මේරි විශ්වවිද්‍යාලයේ උපාධිධාරිනියක වන ඩිනාරා පුංචිහේවා මහත්මිය අඩු ආදායම්ලාභී පවුල්වල දරුවන්ට රංග කලාව සහ රංගනය හඳුන්වා දීම සඳහා කැප වූ ලාභ නොලබන ආයතනයක් වන Punchi Actors ආයතනයේ නිර්මාතෘවරියද වෙයි.
+
+◼️
+
+[Data](articles/4d6312b3.json)
+
+---
+
+### Rain exceeding 100 millimeters tomorrow
 
 *2024-05-18 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196754) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් හෙට (19) දිනය සඳහා වලංගු වන පරිදි නවතම කාලගුණ නිවේදනයක් නිකුත් කර තිබේ.
+Heavy rain expected tomorrow in Western, Sabaragamuwa, North-Western provinces, including Matara, Kandy, and Nuwara Eliya districts, with rainfall exceeding 100mm due to enhanced pre-monsoon conditions.
 
-එහි දැක්වෙන්නේ පෙර-මෝසම් කාලගුණික තත්ත්වයේ බලපෑම හේතුවෙන් තද වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බවය.
+🟩
 
-ඒ අනුව බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බවත්ය.
+The Department of Meteorology has issued a new weather notification to be valid for tomorrow (19).
+
+It states that the effectiveness of the pre-monsoon weather conditions, heavy rains and wind increase.
+
+Accordingly, in the Western, Sabaragamuwa, North-Western provinces, the Matara, Matara, Kandy and Nuwara Eliya districts can occur at more than 100 millimeters.
 
 ◼️
 
 [Data](articles/ddb89e97.json)
+
+[Extended Data](ext_articles/ddb89e97.ext.json)
 
 ---
 
@@ -2247,29 +2277,5 @@ The Supreme Court has already granted leave to proceed with these petitions in t
 [Data](articles/8a7d3d0b.json)
 
 [Extended Data](ext_articles/8a7d3d0b.ext.json)
-
----
-
-### High Court summoned Gotabhaya Rajapaksa
-
-*2024-05-17 21:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாபய-ராஜபக்ஷவிற்கு-உயர்நீதிமன்றம்-அழைப்பாணை/175-337461) · `ta`
-
-The Supreme Court has summoned former President Gotabhaya Rajapaksa to submit evidence regarding the release of Sunil Ratnayake, sentenced to death for murdering eight, including a child in 2000. This follows a case filed by Dr. Bhagyasothi Saravanamuthu over alleged rights violations.
-
-🟩
-
-The Supreme Court today (17) ordered the invitation to the former President Gotabhaya Rajapakse.
-
-The order has been issued demanding submissions to the court on the release of Sunil Ratnayake, who has been sentenced to death by the Colombo High Court.
-
-He was sentenced to death in connection with the murder of eight people, including a five -year -old child, who had been displaced in Mirisuwil, Jaffna, which caused great controversy in 2000.
-
-The order was issued in the presence of a Supreme Court session of the fundamental rights violation filed by Dr. Bhagyasothi Saravanamuthu, Executive Director of the Transitional Policy Center. Remble
-
-◼️
-
-[Data](articles/f5f88100.json)
-
-[Extended Data](ext_articles/f5f88100.ext.json)
 
 ---

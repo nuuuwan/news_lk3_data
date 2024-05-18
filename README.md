@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 06:57:32**
+As of **2024-05-18 07:18:07**
 
 ## Newspaper Stats
 
-*Scraped **24,775** Articles*
+*Scraped **24,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,742
 dailymirrorlk | 3,888
-adaderanasinhalalk | 3,949
+adaderanasinhalalk | 3,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,774 (100.0%) of 24,775 articles have been extended.
+24,775 (100.0%) of 24,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### අද සිට වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක්
+
+*2024-05-18 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196739) · `si`
+
+ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අද දින(18) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල දහවල් 12.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩිතද වැසි ඇතිවිය හැක.
+
+දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. (30-40)ක පමණ තරමක් තද සුළං ඇති වියහැකි බව දැනුම් දී තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසට කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/65dc6dcb.json)
+
+---
+
+### John Keells Foundation’s English Language Scholarship Programme marks 20 years of `Empowering the Nation’
+
+*2024-05-18 06:18:00* · [`islandlk`](http://island.lk/john-keells-foundations-english-language-scholarship-programme-marks-20-years-of-empowering-the-nation/) · `en`
+
+Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP) marks its 20th anniversary of enhancing the English language skills of schoolchildren and youth across Sri Lanka. This flagship initiative under JKF’s Education focus aims to empower children and youth from socially and economically disadvantaged backgrounds with English, IT, and career skills towards improving their higher education and career opportunities in today’s competitive world. Aligned with national priorities, initiatives under the programme have been implemented in all the provinces of the country.
+
+...
+
+[Data](articles/512044c0.json)
+
+[Extended Data](ext_articles/512044c0.ext.json)
+
+---
 
 ### Signature teams up with Sri Lanka Cricket as ‘Official Formal Clothing Partner’ for ICC Men’s T20 World Cup 2024
 
@@ -105,20 +141,6 @@ Those crossings were reported in Amana Bank, which crossed 14.5 million shares t
 [Data](articles/c6e3e64f.json)
 
 [Extended Data](ext_articles/c6e3e64f.ext.json)
-
----
-
-### John Keells Foundation’s English Language Scholarship Programme marks 20 years of `Empowering the Nation’
-
-*2024-05-18 04:03:00* · [`islandlk`](http://island.lk/john-keells-foundations-english-language-scholarship-programme-marks-20-years-of-empowering-the-nation/) · `en`
-
-Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP) marks its 20th anniversary of enhancing the English language skills of schoolchildren and youth across Sri Lanka. This flagship initiative under JKF’s Education focus aims to empower children and youth from socially and economically disadvantaged backgrounds with English, IT, and career skills towards improving their higher education and career opportunities in today’s competitive world. Aligned with national priorities, initiatives under the programme have been implemented in all the provinces of the country.
-
-...
-
-[Data](articles/512044c0.json)
-
-[Extended Data](ext_articles/512044c0.ext.json)
 
 ---
 
@@ -619,6 +641,8 @@ The second was the production of Calcium Superphosphate. The earliest sources of
 ...
 
 [Data](articles/068af87a.json)
+
+[Extended Data](ext_articles/068af87a.ext.json)
 
 ---
 
@@ -2193,25 +2217,5 @@ And we will make an effort to stop the activities of the South Sri Lanka forces 
 [Data](articles/9cec9a73.json)
 
 [Extended Data](ext_articles/9cec9a73.ext.json)
-
----
-
-### Orthodox items for the procession
-
-*2024-05-17 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊர்வலமாக-எடுத்துச்-செல்லப்படும்-சீதையம்மனுக்கான-சீர்வரிசை-பொருட்கள்/76-337456) · `ta`
-
-The Sita Eliya Seethayamman Temple in Nuwara Eliya held its Maha Kumbabhishekam Festival, with sacred water imported from India on the 15th and consecrated at the Mayurapathy Temple in Wellawatte.
-
-🟩
-
-Nuwara Eliya - Sita Eliya Seethayamman Temple Maha Kumbabhishekam Festival
-
-Meanwhile, the holy water for the Kumbabhishekam of the Sita Eliya Seethayamman Temple was brought from India on the 15th and placed at the Mayurapathy Temple in Wellawatte.. Remble
-
-◼️
-
-[Data](articles/53b66ecb.json)
-
-[Extended Data](ext_articles/53b66ecb.ext.json)
 
 ---

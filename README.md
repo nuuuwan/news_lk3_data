@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 11:53:02**
+As of **2024-05-18 12:04:19**
 
 ## Newspaper Stats
 
-*Scraped **24,803** Articles*
+*Scraped **24,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,117
 adaderanalk | 2,871
-tamilmirrorlk | 2,902
+tamilmirrorlk | 2,903
 virakesarilk | 3,744
 dailymirrorlk | 3,898
-adaderanasinhalalk | 3,954
+adaderanasinhalalk | 3,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,803 (100.0%) of 24,803 articles have been extended.
+24,803 (100.0%) of 24,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### சுகாதார சீர்கேட்டுடன் நடத்தப்பட்ட உணவகம்
+
+*2024-05-18 11:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சுகாதார-சீர்கேட்டுடன்-நடத்தப்பட்ட-உணவகம்/71-337465) · `ta`
+
+யாழ்ப்பாணம் , இணுவில் பகுதியில் சுகாதார சீர்கேட்டுடன் உணவகங்களை நடத்திய உணவாக உரிமையாளர் மூவரை கடுமையாக எச்சரித்த நீதிமன்றம் , அவர்களுக்கு 60 ஆயிரம் ரூபாய் தண்டமும் விதித்துள்ளது.
+
+இணுவில் பகுதிக்கான பொது சுகாதார பரிசோதகர் சி. சிவானுஜன் இணுவில் பகுதியில் உள்ள உணவகங்களில் திடீர் சோதனை நடவடிக்கையை மேற்கொண்டார்.
+
+அதன்போது மூன்று உணவகங்கள் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த நிலையில் , குறித்த உணவக உரிமையாளர்களுக்கு எதிராக மல்லாகம் நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+
+குறித்த வழக்கு நேற்றைய தினம் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட வேளை தம் மீதான குற்றச்சாட்டுக்களை உரிமையாளர்கள் ஏற்றுக்கொண்டதை அடுத்து, அவர்களை கடுமையாக எச்சரித்த மன்று , 25 ஆயிரம் , 15 ஆயிரம் மற்றும் 20 ஆயிரம் ரூபாய் என மூவருக்கும் 60 ஆயிரம் ரூபாய் தண்டம் விதித்தது.  R
+
+◼️
+
+[Data](articles/e7c6a2e2.json)
+
+---
+
+### වෙල්ලමුල්ලිවයික්කාල් සිහිකරමින් සැමරුමක් වැල්ලවත්තේදී
+
+*2024-05-18 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196745) · `si`
+
+මෙරට යුද ගැටුම්වල තීරණාත්මක ස්ථානයක් වූ වෙල්ලමුල්ලිවයිකාල් සිහිකරමින් වැල්ලවත්ත වෙරළ තීරයේදී පිරිසක් විසින් අද (18) උදෑසන සැමරුමක් සංවිධානය කර තිබුණි.
+
+එහිදී විරෝධය පළකළ සිවිල් සංවිධාන ක්‍රියාකාරිකයෙකුව පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+◼️
+
+[Data](articles/1bc90860.json)
+
+---
 
 ### Shortage of elephant participation for Kandy Esala Perahera
 
@@ -49,6 +81,22 @@ He said in 2000, a total of 225 tamed elephants were in the country, but now the
 [Data](articles/1d32f4ac.json)
 
 [Extended Data](ext_articles/1d32f4ac.ext.json)
+
+---
+
+### යතුරුපැදි අනතුරකින් එක් අයෙක් මරුට
+
+*2024-05-18 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196744) · `si`
+
+පොලීසිය ප්‍රකාශ කළේ යතුරුපැදි දෙකක් එකිනෙක ගැටී ඊයේ (17) රාත්‍රි‍යේ එම අනතුර සිදුවී ඇති බවය.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරුවන් දෙදෙනා සහ පසුපැදිකරුවෙකු ප්‍රතිකාර සඳහා කැකිරාව රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා දඹුල්ල රෝහලට ඇතුළත් කිරීමේදී එක් අයෙකු මියගොස් තිබේ.
+
+මෘත ශරීරය දඹුල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් කැකිරාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/80f7e571.json)
 
 ---
 
@@ -2149,85 +2197,5 @@ Twenty Indian crew members and a Sri Lankan are stranded on board the Dali, the 
 [Data](articles/ae6e3d20.json)
 
 [Extended Data](ext_articles/ae6e3d20.ext.json)
-
----
-
-### The government is ready to provide financial assistance and training to agriculture - President
-
-*2024-05-17 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196731) · `si`
-
-President Mahinda Rajapaksa announced plans for a new agricultural transformation in Sri Lanka, emphasizing AI integration and a bank loan scheme. This initiative aims to modernize farming through technology, aiming to double global food production by 2050.
-
-🟩
-
-President Mahinda Rajapaksa says that the government is planning to conduct a new translation of agriculture in Sri Lanka, including artificial intelligence (AI).
-
-The President also instructed the officials to propose a bank loan scheme.
-
-The President was speaking at the conclusion of Sri Lanka's largest greenhouse premises in the Nelumdeniya area, Kegalle in Nelumdeniya, Kegalle in Nelumdeniya, the first time in Sri Lanka.
-
-The President summoned 100 Divisional Secretariat Divisions in this year and the facilities of the 25 Divisional Secretariat Divisions have been used under the second phase of the project.
-
-"The use of modern technology including artificial intelligence, including artistic intelligence, is to say that the use of future greenist economy. With the contribution of these personal entrepreneurs, the government is working to implement a wide agricultural modernization program in the country using intelligence technology.
-
-...
-
-[Data](articles/efc9997d.json)
-
-[Extended Data](ext_articles/efc9997d.ext.json)
-
----
-
-### Mullivaikkal - The solution to their national ethnic problem depends on the self -determination of Tamils.
-
-*2024-05-17 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/183790) · `ta`
-
-Srinath Perera criticizes the government's handling of the Mullivaikkal tragedy, highlighting its impact on Tamil sentiment and the need for genuine justice and reconciliation. He emphasizes the importance of self-determination for Tamils and the lack of support from opposition politicians. The discussion also touches on the controversy surrounding the arrest of Mullivaikkal porridge makers and the perceived misuse of commissions by the ruling class to suppress Tamil demands.
-
-🟩
-
-Srinath Perera, a member of the Movement for the People's Forum and a member of the People's Congress movement, questioned that the government is misrepresenting the issue.
-
-During the interview, Srinatpererakutu said that Mullivaikkal was the place where the grief of the pain of the pain.
-
-Srinatperera, who has been present at the Mullivaikkal Memorial event, has joined himself in the struggles of the Missing Acadoor and the struggles of the Keppapilavu mudslide.
-
-Srinath Perera had recently met Tamil farmers who were involved in the struggle.
-
-He said that Sri Lanka is not in the context of real justice and reconciliation commissions, he said that they were not prepared to share the powers of the JVP.
-
-Question - Have you attended the Mullivaikkal commemoration events?What kind of feelings have you noticed in the past?
-
-Last year, many young people were able to observe that they were very enthusiastic about the events for commemoration events.
-
-...
-
-[Data](articles/d3f33734.json)
-
-[Extended Data](ext_articles/d3f33734.ext.json)
-
----
-
-### Fake Doctors - Special News to the public
-
-*2024-05-17 18:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-வைத்தியர்கள்-பொது-மக்களுக்கு-விஷேட-செய்தி/175-337459) · `ta`
-
-Over 40,000 fake doctors identified nationwide, including those peddling drugs. GMOA urges reporting via 1907 hotline; many lack medical expertise.
-
-🟩
-
-The State Medical Officers Association (GMOA) said that more than 40,000 fake doctors are found in the country.
-
-Shocking reports have also been revealed that some of them are selling drug pills to the public.
-
-Speaker of the State Medical Officers Association Salin Wijesinghe said that if you get any information on such fake doctors, the telephone number 1907 should be informed.
-
-In this case, most of them have no experience or skills regarding the medical sector, he added.. Remble
-
-◼️
-
-[Data](articles/36cf9d5e.json)
-
-[Extended Data](ext_articles/36cf9d5e.ext.json)
 
 ---

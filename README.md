@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 08:52:35**
+As of **2024-05-18 09:03:24**
 
 ## Newspaper Stats
 
-*Scraped **24,783** Articles*
+*Scraped **24,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
-adalk | 2,116
-adaderanalk | 2,867
+adalk | 2,117
+adaderanalk | 2,868
 tamilmirrorlk | 2,899
-virakesarilk | 3,742
+virakesarilk | 3,743
 dailymirrorlk | 3,889
 adaderanasinhalalk | 3,953
 
@@ -26,29 +26,75 @@ adaderanasinhalalk | 3,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,780 (100.0%) of 24,783 articles have been extended.
+24,783 (100.0%) of 24,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ගංගා ආශ්‍රිත පහත් බිම්වල සිටින පිරිසට අනතුරු ඇඟවීම්
+### President leaves for Indonesia to attend World Water Forum
+
+*2024-05-18 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99292/president-leaves-for-indonesia-to-attend-world-water-forum) · `en`
+
+President Ranil Wickremesinghe has left for Indonesia this morning (18) to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
+
+The 10th World Water Forum is being held from May 18th to 20th in Bali, Indonesia.
+
+This significant gathering, themed “Water for Shared Prosperity,” will convene global leaders to address pressing issues related to water management and sustainability.
+
+President Wickremesinghe left for Indonesia on Saturday, following an invitation from Indonesian President Joko Widodo, underscoring Sri Lanka’s commitment to international cooperation on water-related challenges.
+
+Scheduled to deliver a keynote address on May 20th, President Wickremesinghe will articulate Sri Lanka’s perspective on achieving equitable access to water resources for all, the President’s Media Division said.
+
+...
+
+[Data](articles/6b988f96.json)
+
+---
+
+### ஈழத்தமிழர்களின் சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் வரலாற்று முக்கியத்துவம் வாய்ந்ததீர்மானம்- அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் பலர் ஆதரவு தெரிவித்து உரை
+
+*2024-05-18 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183839) · `ta`
+
+ஈழத்தமிழர்களின் சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் வரலாற்று முக்கியத்துவம் வாய்ந்த தீர்மானத்தினை அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் வரவேற்றுள்ளனர்.
+
+ஈழத்தமிழர்களின்சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் மற்றும் ஈழத்தில் இடம்பெற்றது இனப்படுகொலை என அங்கீகரிக்கவேண்டும் என கோரும் தீர்மானம் அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள நிலையில் அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் அதனை வரவேற்றுள்ளனர்.
+
+தீர்மானம்சமர்ப்பிக்கப்பட்டு உரைகள் ஆற்றப்பட்ட பின்னர் அமெரிக்க காங்கிரஸ்; உறுப்பினர்கள் காங்கிரஸ் நூலகத்தில் இடம்பெற்ற நிகழ்வில் கலந்துகொண்டனர் .
+
+முள்ளிவாய்க்கால் படுகொலையின் 15 வருடத்தினை நினைவேந்துவதற்கு உலகம்எங்கிலும் உள்ள ஈழத்தமிழர்கள் தயாராகிவந்த நிலையிலேயே இந்த தீர்மானம்  அமெரிக்க காங்கிரஸில் சமர்ப்பிக்கப்பட்டது.
+
+இந்த தீர்மானம் இழப்பை நினைகூருகின்றது ஆனால் தமிழர்களை எதிர்கால வன்முறைகள் பாரபட்சங்களில் இருந்து பாதுகாக்க முயல்கின்றது என தீர்மானத்தை அமெரிக்க காங்கிரஸில் சமர்ப்பித்த சனப்பிரதிநிதிகள் சபை உறுப்பினர் வில்லே நிக்கல் தெரிவித்தார்.
+
+...
+
+[Data](articles/34d1a690.json)
+
+---
+
+### Warnings to the people of rivers
 
 *2024-05-18 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196742) · `si`
 
-පවතින වැසි සහිත කාලගුණ තත්ත්වයත් සමඟ ගංගා ආශ්‍රිත පහත් බිම්වල ගංවතුර තත්ත්වයක් ඇති වීමේ අවදානමක් පවතින බව වාරි මාර්ග දෙපාර්තමේන්තුව පවසයි.
+Irrigation warns of flood risks due to heavy rains, emphasizing the importance of preparedness. The National Building Research Organization extends its hours until 4 PM for geologists to assess potential hazards. The Wellawaya main road is temporarily closed due to the risk of landslides and rockfalls.
 
-අධික තීව්‍රතාවයක් සහිත වර්ෂාපතන තත්ත්වයන් සමඟ නගරාශ්‍රිතව ක්ෂණික ගංවතුර තත්ත්වයන් ඇතිවීමේ අවදානම ද අධික බව එම දෙපාර්තමේන්තුව පෙන්වා දී තිබේ.
+🟩
 
-වර්ෂාවේ තීව්‍රතාවය හා ප්‍රමාණය මත ගංවතුර තත්ත්වයේ ප්‍රබලතාවය හා අවදානම රඳාපවතින බව වාරි මාර්ග දෙපාර්තමේන්තුව පවසයි.
+The Irrigation Department says that with the prevailing rainy weather, the Irrigation Department says.
 
-මේ අතර දිස්ත්‍රික්ක කිහිපයක් සඳහා නිකුත්කර ඇති නාය යෑම් අනතුරු ඇඟවීම් නිවේදනය අද (18) පස්වරු 4 දක්වා දීර්ඝ කළ බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ‌ජ්‍යේෂ්ඨ භූ විද්‍යාඥ ආචාර්ය වසන්ත සේනාධීර මහතා පවසයි.
+The Department has pointed out that the risk of immediate floods in the city with high intensity measures is also the risk of instant floods.
 
-මේ අතර අධික වර්ෂාපතනයත් සමග ගල් සහ පස් කඳු කඩාවැටීමට ඇති අවදානම හේතුවෙන් ඊයේ (17) රාත්‍රි 8.00 සිට තාවකාලිකව වසා දැමුණු  ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය  අද උදෑසන 06.00 සිට යළි විවෘත කර තිබේ.
+The Irrigation Department says that the strength and risk of floods will be dependent on the intensity and extent of rain.
+
+Meanwhile, Senior Geologist Senior Geologist Senior Geologist of the National Building Research Organization (NBT) has been extended to 4 pm today (18).
+
+Meanwhile, the Wellawaya main road from the Wellawaya main road from the temporary closed due to the risk of stone and the earth, along with the risk of rock and earthfire.
 
 ◼️
 
 [Data](articles/dea4854a.json)
+
+[Extended Data](ext_articles/dea4854a.ext.json)
 
 ---
 
@@ -74,25 +120,33 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/7ee272dc.json)
 
+[Extended Data](ext_articles/7ee272dc.ext.json)
+
 ---
 
-### ජනපති ඉන්දුනීසියාව බලා පිටත් ‍වෙයි
+### President leaves for Indonesia
 
 *2024-05-18 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196741) · `si`
 
-ඉන්දුනීසියාවේ බාලි හි පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (18) දිවයිනෙන් පිටත්ව ගියේය.
+President Ranil Wickremesinghe traveled to Indonesia for the 10th World Water Conference in Bali, invited by Indonesian President Jooco Vishodo. The conference focuses on "Water for Collective Prosperity," with Wickremesinghe set to address it on May 20. He'll also engage in bilateral talks during his visit.
 
-ඉන්දුනීසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ මහතාගේ ආරාධනයක් මත  ජනාධිපතිවරයා මෙම සංචාරයට එක්වන බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසිය “සාමුහික සෞභාග්‍ය සඳහා ජලය” යන තේමාව යටතේ අද සිට මැයි 20 වන දින දක්වා ඉන්දුනීසියාවේ බාලි හි පැවැත්වීමට නියමිතය.
+President Ranil Wickremesinghe left the island today (18) to attend the top 10th World Water Conference in Bali, Indonesia.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මැයි 20 වනදා සමුළුව අමතා සිය විශේෂ දේශනය සිදුකිරීමට කිරීමට නියමිතව තිබේ.
+The President will join the visit on the invitation of Indonesian President Jooco Vishodo, the Presidential Media Unit.
 
-මේ අතර සිය නිල සංචාරයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දුනීසියානු ජනාධිපතිවරයා ඇතුළු එරට ඉහළ පෙළේ නියෝජිතයන් කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවල නිරත වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+The top session of the 10th World Water Conference will be held today under the theme "Water for Collective Prosperity" in Bali from May 20 to May 20.
+
+President Ranil Wickremesinghe is due to call on the summit on May 20.
+
+In the meantime, President Ranil Wickremesinghe is scheduled to hold bilateral talks with several top representatives including the Indonesian president on their official visit.
 
 ◼️
 
 [Data](articles/5dca69c6.json)
+
+[Extended Data](ext_articles/5dca69c6.ext.json)
 
 ---
 
@@ -147,6 +201,26 @@ The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
 [Data](articles/1d4aed83.json)
 
 [Extended Data](ext_articles/1d4aed83.ext.json)
+
+---
+
+### රතුපස්වල නඩුවෙන් හමුදා සාමාජිකයන් 4 දෙනා නිදොස් කොට නිදහස්
+
+*2024-05-18 07:42:52* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවෙන්-හමුදා-සාමාජිකයන්-4-දෙනා-නිදොස්-කොට-නිදහස්/11-409700) · `si`
+
+රතුපස්වල පැවිති විරෝධතාවයකට වෙඩිතැබීමේ නඩුවේ විත්තිකරුවන් වූ හමුදා සාමාජිකයන් සිව්දෙනා නිදොස්කොට නිදහස් කිරීමට ගම්පහ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) නියෝග කළේය.
+
+ගම්පහ, රතුපස්වල ප්‍රදේශයේ පෞද්ගලික කර්මාන්ත ශාලාවකින් පිටවන අපද්‍රව්‍ය මඟින් පානීය ජලය අපවිත්‍ර වී ඇති බව පවසමින්, එම ප්‍රදේශයේ ජනතාව වැලිවේරිය නගරයේදී 2013 අගෝස්තු 01 වනදා විරෝධතාවක නිරත වූ අතර එය විසුරුවා හැරිමට හමුදාව වෙඩි තැබිමක් සිදු කළේය.
+
+එම වෙඩි තැබිමෙන් පාසල් සිසුන් දෙදෙනෙකු සහ තවත් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව පනහකට වැඩි පිරිසක් තුවාල ලැබීය.
+
+සිද්ධිය සම්බන්ධයෙන් යුද හමුදා නිලධාරින් වූ බ්‍රිගේඩියර් අරුණ දේශප්‍රිය ගුණවර්ධන (එවක මේජර්), සැරයන් අරුණගේ සිරිසේන, කෝප්‍රල් ජේ.එම්. තිලකරත්න සහ කෝප්‍රල් ලලිත් ග්‍රේ යන හමුදා සාමාජිකයන්ට එරෙහිව නීතිපතිවරයා ගම්පහ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+
+පිටු 242කින් සමන්විත සම්පූර්ණ නඩු තීන්දුව පැය 4කට ආසන්න කාලයක් ප්‍රකාශයට පත්කළේ,  මහාධිකරණ විනිසුරු නිමල් රණවීර, සහන් මාපා බණ්ඩාර සහ රෂ්මි සිංගප්පුලි යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ ඒකමතික තීන්දුවක් ලෙසිනි.
+
+...
+
+[Data](articles/312fc196.json)
 
 ---
 
@@ -2145,71 +2219,5 @@ Top contributors to the index in the day were C T Holdings Plc (up at 277.00), J
 [Data](articles/d80a2fef.json)
 
 [Extended Data](ext_articles/d80a2fef.ext.json)
-
----
-
-### Sancharaka Udawa 2024
-
-*2024-05-17 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sancharaka-Udawa-2024/110-282813) · `en`
-
-The highly anticipated 11th edition of ‘Sancharaka Udawa 2024,’ organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO), was launched today (17) and will be held until tomorrow (18) at the BMICH. This event promises to be a significant milestone in the growth of the industry. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/6102773f.json)
-
-[Extended Data](ext_articles/6102773f.ext.json)
-
----
-
-### May 22 gathers on May 22
-
-*2024-05-17 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196726) · `si`
-
-Parliament meets on May 22, addressing economic issues as decided by the Parliamentary Affairs Committee under Speaker Mahinda Yapa Abeywardena.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohanadera said that Parliament will meet on Wednesday, May 22.
-
-This has been decided at the Committee on Parliamentary Affairs at the Parliament He was chaired by Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the Parliament will meet to meet the two 'Economic Resvertless' and the 'Economic Management', published in the Gazette on May 14 and the 14th of May.
-
-According to the Secretary General of the House to promote the proposal to propose to be held at the Parliamentary Affairs Committee on the proposal to be presented to the opposition from 9.45 to 9.30 am.
-
-◼️
-
-[Data](articles/d06093ad.json)
-
-[Extended Data](ext_articles/d06093ad.ext.json)
-
----
-
-### Sudden floods in Courtallam in India;The young man who was beaten
-
-*2024-05-17 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/183795) · `ta`
-
-In Tamil Nadu, India, a 17-year-old boy went missing during a sudden flood at the old Courtallam Falls. Heavy rain warnings were issued for the 19th and 20th, leading to the flood. The boy, who was bathing with his family, was swept away. Authorities are searching for him as tourists are evacuated due to safety concerns.
-
-🟩
-
-A 17 -year -old youth has been missing in a sudden flood of the old Courtallam Falls in Tamil Nadu in Tamil Nadu.
-
-A red warning has been issued due to the possibility of heavy rains on the 19th and 20th of Tamil Nadu.
-
-As a result of the rains in Tenkasi, the old Courtallam Falls has suddenly flooded.
-
-A young man from Tirunelveli has been beaten in this flood. Police and firefighters are actively searching for the young man who was now flooded.
-
-While the young man was bathing with his family, he was beaten when he was suddenly flooded.
-
-As many tourists were bathed in the area, many people screamed due to a sudden flood.Due to the flooding, tourists have been banned.
-
-◼️
-
-[Data](articles/c372bd96.json)
-
-[Extended Data](ext_articles/c372bd96.ext.json)
 
 ---

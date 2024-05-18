@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 15:03:30**
+As of **2024-05-18 15:18:23**
 
 ## Newspaper Stats
 
-*Scraped **24,832** Articles*
+*Scraped **24,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 252
 dbsjeyarajcom | 253
 newsfirstlk | 363
 islandlk | 1,339
-economynextcom | 1,428
+economynextcom | 1,431
 dailyftlk | 1,464
 adalk | 2,117
 adaderanalk | 2,875
@@ -26,33 +26,57 @@ adaderanasinhalalk | 3,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,829 (100.0%) of 24,832 articles have been extended.
+24,832 (100.0%) of 24,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### පාවෙන ජැටිය හරහා ගාසා තීරයට ආධාර
+### Sri Lanka suffers over $138mn foreign outflow from govt bonds in 2024 after rate cuts
+
+*2024-05-18 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-suffers-over-138mn-foreign-outflow-from-govt-bonds-in-2024-after-rate-cuts-163513/) · `en`
+
+ECONOMYNEXT – Foreign investors have dumped 41.6 billion-rupee ($138.6 million) worth of Sri Lanka government securities in the first 20 weeks of 2024, the central bank data showed, after reduction in the key policy interest rates.
+
+The foreign holding in Sri Lanka’s treasury bills and treasury bonds fell to 75.9 billion rupees on the week ended on Friday (17), May 2024, from 117.4 billion rupees on the week ended on December 29.
+
+The central bank rate has reduced the key policy rates by 50 basis points so far in 2024, extending the rates cut by 700 basis points since June last year.
+
+The rupee appreciated 9.1 percent in the first four months, but the gain failed to attract foreign investors amid a dragged debt restructuring negotiation with external private creditors.
+
+...
+
+[Data](articles/af22deea.json)
+
+---
+
+### Donations to Gaza via floating jetty
 
 *2024-05-18 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196752) · `si`
 
-අමෙරිකානු හමුදා සෙබළුන් සහ නාවිකයින් දහස් ගණනකගේ සහායෙන් ඩොලර් මිලියන 320ක් වැය කරමින් අමෙරිකාව ගාසා තීරයේ තාවකාලික පාවෙන ජැටියක් ඉදි කිරීම ආරම්භ කළේ පසුගිය අප්‍රේල් මාසයේ දීය.
+The US initiated a $320 million project to establish a temporary floating jetty off Gaza in April, aiming to transport 500 tons of aid daily. This initiative, which includes inspections by the US and Israel, allows for the shipment of goods via land, air, or sea to the jetty before reaching Gaza. The UN highlights the need for approximately 500 daily truckloads due to the ongoing humanitarian crisis, while Israeli forces discovered more bodies of Israeli soldiers killed by Hamas.
 
-ඒ අනුව ගාසා තීරයට මානුෂීය ආධාර ප්‍රවාහනය කිරීමේ නව මාර්ගයක් විවර කරමින් එම ජැටිය හරහා පළමු ආධාර තොගය ගාසා තීරය වෙත ළඟාවී තිබේ.
+🟩
 
-දෛනික ආධාර ටොන් 500ක් ගාසා තීරය වෙත ප්‍රවාහනය කිරීම අමෙරිකාවේ අරමුණය.
+The US, spending US $ 320 million US $ 320 million, was started in the event of a temporary floating jetty on April.
 
-ගුවනින් හෝ මුහුදින් පළමුව සයිප්‍රස් වෙත ප්‍රවාහනය කෙරෙන ආධාර අමෙරිකාවේ සහ ඊශ්‍රායලයේ පරීක්ෂාවෙන් පසුව ගාසා වෙරළට ආසන්න පාවෙන ජැටිය වෙත නැව්ගත කෙරෙයි.
+Accordingly, the first aid to operate a new route to transport human assistance to the Gaza is open to Gaza.
 
-දැනට දෛනික ආධාර රැගත් ට්‍රක් රථ 90ක් පමණ මෙම පාවෙන ජැටිය හරහා ප්‍රවාහන කළ හැකි අතර දෛනික ට්‍රක් රථ 150ක් පමණ යැවීමට සැලසුම් කර තිබේ.
+The US goal is to transport 500 tones Gaza to Gaza.
 
-කෙසේ වුවද එක්සත් ජාතීන් අවධාරණය කරන්නේ ගාසාහි උද්ගතව ඇති මානුෂීය අර්බුදය පාලනයට නම් දෛනික ට්‍රක් රථ 500ක් පමණ අවශ්‍ය බවය.
+The assistance of the airport or sea is shipped to the floating jetty to the beach after inspection of the US and Israel.
 
-මේ අතර ඊශ්‍රායල හමුදා විසින් හමාස් භාරයේ සිටි තවත් ඊශ්‍රායල ප්‍රාණ පකරුවන් තිදෙනෙකුගේ සිරුරු සොයාගෙන ඇත.
+About 90 trucks carrying daily aid can be transported through this floating jetty and to send about 150 daily trucks.
+
+However, the United Nations emphasizes that the humanitarian crisis that has arisen in Gaza is about 500 daily trucks.
+
+Meanwhile, Israeli troops found the bodies of three other Israeli hoisons in Hamas.
 
 ◼️
 
 [Data](articles/4e469c62.json)
+
+[Extended Data](ext_articles/4e469c62.ext.json)
 
 ---
 
@@ -76,25 +100,35 @@ Fairly strong winds about 30-40 kmph can be expected at times in Southern provin
 
 [Data](articles/4b8706b0.json)
 
+[Extended Data](ext_articles/4b8706b0.ext.json)
+
 ---
 
-### வெள்ளப்பெருக்கு ஏற்படும் அபாயம்
+### The risk of flooding
 
 *2024-05-18 14:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளப்பெருக்கு-ஏற்படும்-அபாயம்/175-337469) · `ta`
 
-நிலவும் சீரற்ற வானிலை காரணமாக தெதுரு ஓயா, மஹா ஓயா, அத்தனகலு ஓயா, களனி கங்கை, பெந்தர கங்கை, கிங் கங்கை, நில்வலா கங்கை, கிரம ஓயா, ஊரு பொக்கு ஓயா, கலா ஓயா, மஹாவலி கங்கை மற்றும் மல்வத்து ஓயா குளங்களைச் சூழவுள்ள தாழ்வான பகுதிகளுக்கு வௌ்ளப்பெருக்கு ஏற்படும் அபாயம் நிலவுவதாக அறிவிக்கப்பட்டுள்ளது.
+Heavy rains forecasted for several days pose a flood risk to low-lying areas near various rivers and ponds across Sri Lanka. The Meteorological Department warns of continued rain, affecting regions like Rajarata where the Rajanganaya reservoir's water level has risen significantly. Measures such as opening air doors at the Rajanganaya and Angamuwa reservoirs are being taken to manage the situation. Additionally, significant flooding has occurred in the Mahabulangulam area, impacting about 300 acres of paddy fields.
 
-தற்போது பெய்து வரும் கனமழை அடுத்த சில நாட்களுக்கு தொடர்ந்து பெய்யக்கூடும் என வானிலை  மையம் தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, ரஜரட்ட பிரதேசத்தில் பெய்து வரும் கடும் மழையினால் ராஜாங்கனை நீர்த்தேக்கத்தின் நீர்மட்டம் 31 அடியாக உயர்ந்துள்ளது.
+Due to the inclement weather, there is a risk that the low -lying areas surrounding the ponds surrounding Teduru Oya, Maha Oya, Attanagalu Oya, Kelaniya Ganga, Bendra Ganga, King Ganga, Nilwala Ganga, Uru Oya, Uru Pokku Oya, Kala Oya, Mahawali Ganga and Malwatu Oya ponds.
 
-இதனால் ராஜாங்கனை நீர்த்தேக்கத்தில் 4 வான் கதவுகள் திறக்கப்பட்டு வினாடிக்கு 2,100 கனஅடி வீதம் தண்ணீர் திறக்கப்பட்டுள்ளது.
+Heavy rains are expected to continue for the next few days, the Meteorological Department said.
 
-அங்கமுவ நீர்த்தேக்கத்தின் இரண்டு வான் கதவுகளும் திறக்கப்பட்டுள்ளதாகவும், இதன் காரணமாக தாழ்வான பகுதிகளில் வசிக்கும் மக்கள் இது தொடர்பில் அவதானமாக இருக்குமாறு நீர்த்தேக்கத்திற்கு பொறுப்பான பொறியியலாளர்கள் கோரிக்கை விடுத்துள்ளனர்.
+Meanwhile, heavy rains in Rajarata area have risen to 31 feet by the water level of the Rajanganaya reservoir.
 
-...
+As a result, 4 air doors are opened in the Rajangan reservoir and the water is opened at 2,100 cubic feet per second.
+
+The two air doors of the Angamuwa reservoir have been opened and the engineers responsible for the reservoir have requested that people living in the lowlands in the lowlands be cared for.
+
+About 300 acres of paddy fields have been flooded in the Mahabulangulam area of the 38th pillar of Anuradhapura. Remble
+
+◼️
 
 [Data](articles/759f0ee6.json)
+
+[Extended Data](ext_articles/759f0ee6.ext.json)
 
 ---
 
@@ -1113,6 +1147,28 @@ It may only apply to supermarkets and not to smaller merchants, however. (Colomb
 [Data](articles/12213732.json)
 
 [Extended Data](ext_articles/12213732.ext.json)
+
+---
+
+### Sri Lanka mulls mandating prices for shopping bags in supermarkets
+
+*2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-mandating-prices-for-shopping-bags-in-supermarkets-163506/) · `en`
+
+ECONOMYNEXT – Sri Lanka may end the practice of supermarkets giving free shopping bags, as part of efforts to contain plastic use according to deliberations at a parliamentary committee following a supreme court decision.
+
+Sri Lanka’s courts many years ago barred supermarkets from charging for plastic bags from customers after activists went to court.
+
+However a Supreme Court ruled in March this year to overturn that.
+
+The parliament Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development said it could not reverse the gazette issued under the Consumer Affairs Authority Act until it had received a copy of the ruling.
+
+The committee said the ruling might prompt shoppers to bring their own bags, which would lead to a reduction in polythene waste.
+
+It may only apply to supermarkets and not to smaller merchants, however. (Colombo/May18/2024)
+
+◼️
+
+[Data](articles/87562a1c.json)
 
 ---
 
@@ -2201,49 +2257,5 @@ The brutal contribution made by the arrogance of the war heroes of the Police an
 [Data](articles/8bc6c20c.json)
 
 [Extended Data](ext_articles/8bc6c20c.ext.json)
-
----
-
-### Over 400 players to go under the hammer at LPL Auction
-
-*2024-05-17 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-400-players-to-go-under-the-hammer-at-LPL-Auction/108-282822) · `en`
-
-May 17 (Daily Mirror) - Over 400 players, both Sri Lankan and overseas, are poised to go under the hammer during the Player Auction of the Lanka Premier League (LPL) T20 Cricket Tournament on May 21 in Colombo.
-
-The auction will feature a collective purse of US $2.5m from all five franchise teams, with each franchise contributing US $500,000.
-
-The teams are mandated to utilize a minimum of 85 percent of the purse they bring into the auction to assemble their squads.
-
-Samantha Dodanwela, LPL Tournament Director told the media that approximately 260 overseas players, including several prominent international names, have been shortlisted for this year's auction.
-
-Dodanwela revealed that the fifth edition of the LPL 2024, scheduled to run from July 1 to 21, has witnessed the registration of over 600 overseas players. However, only around 260 of them have made it to the final shortlist for the auction.
-
-...
-
-[Data](articles/442f907e.json)
-
-[Extended Data](ext_articles/442f907e.ext.json)
-
----
-
-### What should we commemorate in Sri Lanka in the month of May?
-
-*2024-05-17 20:55:25* · [`dailyftlk`](https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926) · `en`
-
-Who among those associated in an era of violence, values peace, the most; it is those who are immersed in it
-
-The peace of a nation does not lie on the pulpit of the United Nations or any other international body. The long-term stability and sustainability of a country which has paid the price in blood for peace can only come, when like Japan, one revitalises the entire nation, in every sphere, from education to recreation, to sharpen a mind towards a peaceful and holistic mindset. One that is devoid of Mohaya (which can be interpreted as false pride or illusion) or Dweshaya (anger/spite). Such a nation will not have to face the consequences of these base qualities which is Dukkha
-
-Recognising that any political structure thriving on division and unrest is a maniacal terror
-
-Understanding that an arm or a limb or a life cannot be compensated
-
-Comprehending the ego and attachment that begins the minds’ first riot
-
-...
-
-[Data](articles/403831b2.json)
-
-[Extended Data](ext_articles/403831b2.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 17:33:50**
+As of **2024-05-18 17:54:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,848 (100.0%) of 24,849 articles have been extended.
+24,849 (100.0%) of 24,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### හපුතලේ මීදුමෙන් වැසෙයි
+### Haputale closes
 
 *2024-05-18 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196760) · `si`
 
-අද (18) දිනය පුරා හපුතලේ නගරය හා අවට ප්‍රදේශවල මීදුම් සහිත තත්ත්වයක් පවතින බව අප වාර්තාකරුවන් සඳහන් කරයි.
+Haputale is shrouded in mist, affecting visibility. The road from Beragala to Haputale via Colombo-Badulla is slippery due to heavy fog. Drivers are advised to be cautious.
 
-කොළඹ -  බදුල්ල මාර්ගයේ බෙරගල හපුතලේ අතර බෑවුම් සහිත කොටසට විටින්විට තද මීදුම් තත්ත්වයක් පවතින බවත් වාර්තා වෙයි.
+🟩
 
-ඒ හේතුවෙන් එම මාර්ගයේ ගමනාගමන කටයුතු සිදුකිරීමේදී දැඩි  සැලකිලිමත්ව කටයුතු කරන ලෙස හපුතලේ පොලීසිය රියදුරන්ට දැනුම්දී ඇති බවද අප වාර්තාකරුවන් වැඩිදුරටත් පැවසීය.
+According to our correspondents today (18) a mist with all over the date of Haputale town and surrounding areas.
+
+It is also reported that the sloping section between the Beragala Haputale road along the Colombo-Badulla road has a heavy thumb.
+
+According to our correspondent, the Haputale police have informed the drivers to take care of the traffic on the road.
 
 ◼️
 
 [Data](articles/f8a54d88.json)
+
+[Extended Data](ext_articles/f8a54d88.ext.json)
 
 ---
 

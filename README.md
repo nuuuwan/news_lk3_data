@@ -1,36 +1,132 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 17:03:39**
+As of **2024-05-18 17:18:26**
 
 ## Newspaper Stats
 
-*Scraped **24,842** Articles*
+*Scraped **24,848** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 222
-bbccomsinhala | 252
+bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,431
 dailyftlk | 1,464
 adalk | 2,117
-adaderanalk | 2,875
-tamilmirrorlk | 2,907
+adaderanalk | 2,877
+tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,965
+adaderanasinhalalk | 3,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,842 (100.0%) of 24,842 articles have been extended.
+24,842 (100.0%) of 24,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### ඇෆ්ගනිස්තානයට යළිත් ගංවතුර - ජීවිත රැසක් අහිමි වෙයි
+
+*2024-05-18 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196759) · `si`
+
+මධ්‍යම ඇෆ්ගනිස්තානයට බලපා ඇති ගංවතුර තත්ත්වය හේතුවෙන් පුද්ගලයින් 50කට ආසන්න පිරිසක් ජීවිතක්ෂයට පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ආපදා තත්ත්වයෙන් තවත් පුද්ගලයින් විශාල පිරිසක් තුවාල ලබා ඇති අතර නිශ්චිත සංඛ්‍යාවක් මෙතෙක් ප්‍රකාශයට පත්කර නොමැති බව එරට බලධාරීන් පවසයි.
+
+අධික වර්ෂාවත් සමග ඇතිවූ ආපදා තත්ත්වය හේතුවෙන් නිවාස 2,000ක් පමණ සම්පූර්ණයෙන් විනාශයට පත්වී ඇති අතර තවත් නිවාස 4,000කට අර්ධ හානි සිදුවී තිබේ.
+
+පසුගිය සතියේ උතුරු දිග ඇෆ්ගනිස්තානයට බලපෑ දරුණු ගංවතුර තත්ත්වයකින් පුද්ගලයින් 315 දෙනෙකු මියගොස් තවත් 1600කට අධික පිරිසක් තුවාල ලැබීය.
+
+◼️
+
+[Data](articles/feb8ca41.json)
+
+---
+
+### Navy rescue Sri Lankan fishermen from distressed local fishing trawler in eastern waters
+
+*2024-05-18 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99300/navy-rescue-sri-lankan-fishermen-from-distressed-local-fishing-trawler-in-eastern-waters) · `en`
+
+Sri Lanka Navy, in coordination with the Maritime Rescue Coordination Centre (MRCC)in Colombo have rescued 03 fishermen from a distressed local fishing vessel off the east coast of Sri Lanka, about 42 nautical miles (77km) off the Batticaloa Lighthouse on Friday (17).
+
+The distressed trawler ‘ASWAR’ (IMUL-A-0266-TLE), had been at sea for a routine fishing expedition, having left from Valaichchenai Fisheries Harbour on 12 May 2024. In an unfortunate turn of events, it has faced this distress whilst in eastern seas, Sri Lanka Navy said.
+
+Having picked up the distress signal disseminated by the Communication Center at Valaichchenai Fisheries Harbour, a Fast Attack Craft of the 4th Fast Attack Flotilla and another craft from the Sri Lanka Coast Guard have been rushed to the designated sea area, at the directives of the Commander of the Navy Vice Admiral Priyantha Perera.
+
+...
+
+[Data](articles/f9a91d1a.json)
+
+---
+
+### බාල ඖෂධ සිද්ධිය ගැන CIDයට තවත් පැමිණිල්ලක්
+
+*2024-05-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196758) · `si`
+
+ප්‍රමිතියෙන් තොර ඖෂධ ආනයන සිද්ධිය සම්බන්ධයෙන් ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාව පදනම් කර ගනිමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+වෘත්තීය හා සිවිල් සංවිධාන නියෝජිතයින් පිරිසක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට එම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+
+2022 - 2023 වසරවල ඖෂධ අවශ්‍යතාවය, ප්‍රසම්පාදනය, සැපයුම, බෙදාහැරීම හා නියාමනය පිළිබඳ විශේෂ විගණන වාර්තාව ජාතික විගණන කාර්යාලය පසුගියදා නිකුත් කළේය.
+
+එම වාර්තා මගින් ප්‍රශ්නගත ඖෂධ ආනයන සිද්ධියට අදාළව ජාතික ඖෂධ නියාමන අධිකාරියේ එවක ප්‍රධාන විධායක නිලධාරියා හා එය අනුමත කළ පාලක මණ්ඩලයට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගත යුතු බවට නිර්දේශ කර තිබුණි.
+
+ඒ අනුව, අදාළ නිර්දේශ ඇතුළත් ලේඛන ඉදිරිපත් කරමින් අද (18) දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළ බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පැවසීය.
+
+...
+
+[Data](articles/ea3b319f.json)
+
+---
+
+### பல்கலைக்கழக மாணவிக்கு தொல்லை கொடுத்த இளைஞர்கள்
+
+*2024-05-18 16:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பல்கலைக்கழக-மாணவிக்கு-தொல்லை-கொடுத்த-இளைஞர்கள்/76-337470) · `ta`
+
+ஹட்டன் ரயில் நிலையத்தில் வைத்து பல்கலைக்கழக மாணவிக்கு தொல்லை கொடுத்த 06 இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த ரயிலில் சென்ற 06 இளைஞர்கள் அதே ரயிலில் பயணித்த பல்கலைக்கழக மாணவிக்கு பல தடவைகள் தொல்லை கொடுக்கும் வகையில் செயற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இது தொடர்பில் குறித்த மாணவி தனது பெற்றோருக்கு அறிவித்து பின்னர் ஹட்டன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+அதன்படி, குறித்த 06 இளைஞர்களை பொலிஸ் அதிகாரிகள் குழுவொன்று ஹட்டன் புகையிரத நிலையத்தில் வைத்து கைது செய்ததாக தெரிவிக்கப்படுகிறது.
+
+இவர்கள் சிவனொளிபாத மலைக்கு யாத்திரிகை வந்துள்ளதாகவும் கொழும்பில் வசிக்கும் 20 முதல் 30 வயதுக்கும் இடைப்பட்டவர்கள் எனவும் தெரிவிக்கப்படுகின்றது.
+
+சந்தேகநபர்களிடம் இருந்து ஆரம்பகட்ட வாக்குமூலங்களைப் பதிவு செய்த பின்னர், அவர்கள் இன்று ஹட்டன் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளனர். R
+
+◼️
+
+[Data](articles/afd662c2.json)
+
+---
+
+### Fifty dead in heavy rain, floods in central Afghanistan, official says
+
+*2024-05-18 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99299/fifty-dead-in-heavy-rain-floods-in-central-afghanistan-official-says) · `en`
+
+At least 50 people are dead following a fresh bout of heavy rain and flooding in central Afghanistan, an official said on Saturday.
+
+Mawlawi Abdul Hai Zaeem, the head of the information department for the central Ghor province, told Reuters that there was no information about how many people were injured in the rain spell that began on Friday, which had also cut off many key roads to the area.
+
+Zaeem added that 2,000 houses were completely destroyed, 4,000 partially damaged, and more than 2,000 shops were under water in the province’s capital, Feroz-Koh.
+
+Last week, flash floods caused by heavy rains devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday.
+
+On Wednesday, a helicopter used by the Afghan air force crashed due to “technical issues” during attempts to recover the bodies of people who had fallen into a river in Ghor province, killing one and injuring 12 people, the country’s defence ministry said.
+
+...
+
+[Data](articles/e41d8337.json)
+
+---
 
 ### Hardick Palinya fined and banned
 
@@ -729,6 +825,24 @@ Police arrested a civil organizer activist.
 [Data](articles/1bc90860.json)
 
 [Extended Data](ext_articles/1bc90860.ext.json)
+
+---
+
+### මැයි 18: වසර 15ක් මුල්ලිවයික්කාල් වෙරළ තීරයෙන් ඇසෙන යුද්ධයේ අමිහිරි දෝංකාරය
+
+*2024-05-18 10:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py2pelnz5o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මම එයාව අන්තිම වතාවට දැක්කේ මුල්ලිවයික්කාල් වෙරළේ ඉන්නකොට.''
+
+මැයි 18: වසර 15ක් මුල්ලිවයික්කාල් වෙරළ තීරයෙන් ඇසෙන යුද්ධයේ අමිහිරි දෝංකාරය
+
+''යුද්ධයේ අවසන් වෙලාවේ අපි යනකොට මුලතිව්වල රතුපාට CTB  බස් එකකට ටික දෙනෙක් නග්ගගෙන තියෙනවා. ආමි එකෙන් නගින්න කියලා, බස් එකට නග්ගගෙන තියෙන්නේ. එතන මගේ මහත්තයත් හිටියා කියලා  මගේ මස්සිනා දැකලා අපිට කිව්වා.'' යනුවෙන් වසර 15ක් තිස්සේ සිය සැමියා සොයන සෙල්වරාසා පද්මිණි BBC සිංහල සේවයට පැවසුවාය.
+
+යුද්ධයෙන් මිය ගිය සහ අතුරුදහන්වූවන් සිහි කිරීමට අද (මැයි 18) ඔවුන්ගේ පවුල්වල ඥාතීහු මුලතිව්, මුල්ලිවයික්කාල් වෙරළට පැමිණ සිටියහ.
+
+...
+
+[Data](articles/3757191f.json)
 
 ---
 
@@ -2189,115 +2303,5 @@ The Commercial Bank LEAP GlobalLinker is a pioneering initiative in Sri Lanka, s
 [Data](articles/25729ba5.json)
 
 [Extended Data](ext_articles/25729ba5.ext.json)
-
----
-
-### Will Ranil regain support of Tamil and Muslim voters?
-
-*2024-05-17 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-Ranil-regain-support-of-Tamil-and-Muslim-voters/172-282864) · `en`
-
-President Ranil Wickremesinghe addressing the May Day rally in Kotagala
-
-Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
-
-...
-
-[Data](articles/3c5fbf18.json)
-
-[Extended Data](ext_articles/3c5fbf18.ext.json)
-
----
-
-### Warning issued over possible floods in several river basins
-
-*2024-05-17 22:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99290/warning-issued-over-possible-floods-in-several-river-basins) · `en`
-
-The Irrigation Department has issued an ‘Amber’ flood warning for possible floods in the low-lying areas of several river basins including Kalu, Kelani, Gin, Nilwala, Deduru Oya, Maha Oya, Attanagalu Oya, Kala Oya and Malwathu Oya, if heavy rains persist over the coming days.
-
-The early flood warning notice has been issued as per the weather forecast issued by the Department of Meteorology this evening (17), that heavy rains exceeding 100 mm per day may occur at some places in the Western, Sabaragamuwa, and North Western provinces as well as Galle and Matara districts.
-
-The warning issued by the Irrigation Department stated that as per the warning and some other information of Department of Meteorology and some other sources, there is a possibility of floods occurring in one or more river basins mentioned as follows:
-
-...
-
-[Data](articles/91199518.json)
-
-[Extended Data](ext_articles/91199518.ext.json)
-
----
-
-### Govt. to regulate third-party deposits in senior citizens’ savings accounts
-
-*2024-05-17 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99289/govt-to-regulate-third-party-deposits-in-senior-citizens-savings-accounts) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that the analysis report pertaining to the interest rates applicable to the savings of senior citizens will be handed over to President Ranil Wickremesinghe next week.
-
-Siyambalapitiya revealed this, during a meeting with the committee appointed to conduct a comprehensive analysis and prepare a detailed report on the possibility of increasing interest rates for senior citizens’ savings, held at the Ministry of Finance today (17).
-
-During the meeting, the Finance State Minister instructed the committee to determine the feasible increase in interest rates, considering current cash flows and the country’s economic situation.
-
-Additionally, the need to regularize around 1.1 million accounts owned by citizens over 60 years of age has reportedly been emphasized.
-
-...
-
-[Data](articles/31d9345a.json)
-
-[Extended Data](ext_articles/31d9345a.ext.json)
-
----
-
-### Who will benefit from an election boycott by Tamils?
-
-*2024-05-17 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Who-will-benefit-from-an-election-boycott-by-Tamils/172-282846) · `en`
-
-Prediction of the results of the forthcoming Presidential election would be the most difficult one in Sri Lankan history, since almost all traditional attachments of the voters with the main political parties seem to have been shattered to the core by the economic crisis that brought millions of people to the streets in 2022.
-
-The unprecedented economic hardships within their household and the agitations with slogans on the streets against all present and past rulers of the country for nearly four months seem to have shaped a new political mindset among the majority of people in the country.
-
-The impact of these two factors – the economic hardships and the Aragalaya – has been such that the Sri Lanka Podujana Peramuna (SLPP), the party that bagged 52.25 percent of votes has been ranked at the bottom of some poll surveys since mid-last year, with not even 10 percent of voter preferences in favour of them. Interestingly, the SLPP has never challenged the results of such surveys either.
-
-...
-
-[Data](articles/1e3d7972.json)
-
-[Extended Data](ext_articles/1e3d7972.ext.json)
-
----
-
-### Who will benefit from an election boycott by Tamils?
-
-*2024-05-17 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Who-will-benefit-from-an-election-boycott-by-Tamils/231-282846) · `en`
-
-Prediction of the results of the forthcoming Presidential election would be the most difficult one in Sri Lankan history, since almost all traditional attachments of the voters with the main political parties seem to have been shattered to the core by the economic crisis that brought millions of people to the streets in 2022.
-
-The unprecedented economic hardships within their household and the agitations with slogans on the streets against all present and past rulers of the country for nearly four months seem to have shaped a new political mindset among the majority of people in the country.
-
-The impact of these two factors – the economic hardships and the Aragalaya – has been such that the Sri Lanka Podujana Peramuna (SLPP), the party that bagged 52.25 percent of votes has been ranked at the bottom of some poll surveys since mid-last year, with not even 10 percent of voter preferences in favour of them. Interestingly, the SLPP has never challenged the results of such surveys either.
-
-...
-
-[Data](articles/ac0ae853.json)
-
-[Extended Data](ext_articles/ac0ae853.ext.json)
-
----
-
-### A horrifying accident in Dehiwala
-
-*2024-05-17 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196738) · `si`
-
-In Dehiwala, a tragic accident involving a car, a two-wheeler, and a taxi occurred near the sea around 7 PM yesterday.
-
-🟩
-
-The accident occurred at the Dehiwala Sea around 7 pm today (17).
-
-Our correspondent said that a car traveling from Colombo to Dehiwala had collapsed at a two-wheeler and a car and a cab.
-
-◼️
-
-[Data](articles/d4dadeb0.json)
-
-[Extended Data](ext_articles/d4dadeb0.ext.json)
 
 ---

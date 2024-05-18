@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 11:33:36**
+As of **2024-05-18 11:53:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,801 (100.0%) of 24,803 articles have been extended.
+24,803 (100.0%) of 24,803 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He said in 2000, a total of 225 tamed elephants were in the country, but now the
 ◼️
 
 [Data](articles/1d32f4ac.json)
+
+[Extended Data](ext_articles/1d32f4ac.ext.json)
 
 ---
 
@@ -213,6 +215,8 @@ Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will 
 ...
 
 [Data](articles/9a186bcb.json)
+
+[Extended Data](ext_articles/9a186bcb.ext.json)
 
 ---
 

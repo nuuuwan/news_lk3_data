@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 06:18:19**
+As of **2024-05-18 06:57:32**
 
 ## Newspaper Stats
 
-*Scraped **24,774** Articles*
+*Scraped **24,775** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 221
+colombotelegraphcom | 222
 bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,766 (100.0%) of 24,774 articles have been extended.
+24,774 (100.0%) of 24,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Signature’s commitment to excellence extends beyond the realms of fashion, as 
 ...
 
 [Data](articles/7e6e1d87.json)
+
+[Extended Data](ext_articles/7e6e1d87.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/540d45bf.json)
 
+[Extended Data](ext_articles/540d45bf.ext.json)
+
 ---
 
 ### How to build a culture of service excellence: Ron Kaufman to lead event in Colombo
@@ -81,6 +85,8 @@ Ron Kaufman is known for his holistic approach to service design, execution and 
 ...
 
 [Data](articles/823b6089.json)
+
+[Extended Data](ext_articles/823b6089.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ Those crossings were reported in Amana Bank, which crossed 14.5 million shares t
 
 [Data](articles/c6e3e64f.json)
 
+[Extended Data](ext_articles/c6e3e64f.ext.json)
+
 ---
 
 ### John Keells Foundation’s English Language Scholarship Programme marks 20 years of `Empowering the Nation’
@@ -109,6 +117,8 @@ Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP
 ...
 
 [Data](articles/512044c0.json)
+
+[Extended Data](ext_articles/512044c0.ext.json)
 
 ---
 
@@ -595,6 +605,20 @@ But Pakistan, who played effectively in the 4th set, won 25 - 14.
 [Data](articles/a9d49345.json)
 
 [Extended Data](ext_articles/a9d49345.ext.json)
+
+---
+
+### Organic Agriculture To “Biodynamic Farming”
+
+*2024-05-18 00:30:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/organic-agriculture-to-biodynamic-farming/) · `en`
+
+Two epic developments which radically changed the face of Agriculture, took place in the latter part of the last century. The first was the technology for converting atmospheric nitrogen to ammonia by the Haber / Bosch process. This technology tapped the abundant (72%) atmospheric nitrogen to link with hydrogen to produce ammonia, which was further processed to produce Ammonium Sulphate and Urea fertilizers.
+
+The second was the production of Calcium Superphosphate. The earliest sources of fertilizer phosphate were guano and bone meal. It was discovered that when bone meal was treated with concentrated Sulfuric acid, to produce the more readily soluble Superphosphate. Rock phosphate became the favoured raw material. The phosphoric product, also contained significant amounts of calcium and sulphur – also important plant nutrients.
+
+...
+
+[Data](articles/068af87a.json)
 
 ---
 
@@ -2189,23 +2213,5 @@ Meanwhile, the holy water for the Kumbabhishekam of the Sita Eliya Seethayamman 
 [Data](articles/53b66ecb.json)
 
 [Extended Data](ext_articles/53b66ecb.ext.json)
-
----
-
-### Harsha says Sri Lanka must look to South India for growth, acknowledges president’s successes
-
-*2024-05-17 15:34:00* · [`economynextcom`](https://economynext.com/harsha-says-sri-lanka-must-look-to-south-india-for-growth-acknowledges-presidents-successes-163468/) · `en`
-
-ECONOMYNEXT — Sri Lanka can achieve 10 percent growth in 10 years if it dismantles the walls around its economy and starts building bridges instead, particularly to rapidly growing neighbouring regions like South India, opposition MP Harsha de Silva said, also acknowledging that President Ranil Wickremesinge has made some difficult achievements.
-
-“Can we bring 10 percent growth in 10 years? Yes, we can. How we do it is the question. What would be the programme? Break down the walls surrounding the country and build bridges. That’s number one. Nothing can be done without it,” the MP said at a press conference on Wednesday May 15.
-
-The main opposition Samagi Jana Balawegaya (SJB) legislator said South India is a notable example.
-
-...
-
-[Data](articles/0a030eac.json)
-
-[Extended Data](ext_articles/0a030eac.ext.json)
 
 ---

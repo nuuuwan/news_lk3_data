@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 22:50:44**
+As of **2024-05-18 23:03:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,874 (100.0%) of 24,875 articles have been extended.
+24,875 (100.0%) of 24,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -500,21 +500,31 @@ The summary of commitments that are not yet due include publishing implementatio
 
 ---
 
-### தமிழர்களிற்கு நீதியை வழங்குவது தொடர்பில் பிரிட்டன் தீர்க்கமான நிலைப்பாட்டை எடுக்கவேண்டும் - பிரிட்டனின் தொழிற்கட்சி நாடாளுமன்ற உறுப்பினர் தங்கம் டெபனயர்
+### Britain should take a decisive position on providing justice to Tamils - British Labor MP Thangam Debaneyar
 
 *2024-05-18 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183895) · `ta`
 
-ஆயுதமோதலின் இறுதிநாட்களில் தமிழர்களிற்கு எதிராக இடம்பெற்ற படுகொலைகளிற்கு நீதியும் பொறுப்புக்கூறலும் அவசியம் என பிரிட்டனின் தொழில்கட்சி நாடாளுமன்ற உறுப்பினர் தங்கம் டெபனயர் வேண்டுகோள் விடுத்துள்ளனர்.
+Thangam Debaneyar, a British Labor MP, calls for justice and accountability for the Tamil massacre during Sri Lanka's civil war, urging Britain to support the Tamil cause and ensure the Sri Lankan government investigates alleged war crimes.
 
-இலங்கையின் உள்நாட்டு போரின் இறுதிதருணங்களில்  கொல்லப்பட்ட ஆயிரக்கணக்கான மக்களையும் இடம்பெற்ற பரந்துபட்ட மனித உரிமை மீறல்களையும் நாங்கள் இன்று நினைவுகூருகின்றோம் என என டிஜிட்டல் கலாச்சாரம் ஊடகம் விளையாட்டு நிழல் அமைச்சர் தங்கம் டெபனெயர் தெரிவித்துள்ளார்.
+🟩
 
-இன்று எனது சிந்தனைகள் தாங்கள் எதிர்கொண்ட அநீதிகள் காரணமாக தொடர்ந்தும் வேதனையுடன் வாழும் பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் அவர்களின் அன்புக்குரியவர்கள் குறித்து காணப்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+British Labor MP Thangam Debaneyar has appealed for justice and accountability for the massacre against Tamils in the final days of the armed forces.
 
-முள்ளிவாய்க்கால் என்பது எப்படி  இழந்தவர்களை நினைகூரும் நாளோ அதேபோன்று குற்றவாளிகள் நீதியின் முன் நிறுத்தப்படவேண்டும் என்பதை வலியுறுத்தும் நாள் என டிஜிட்டல் கலாச்சாரம் ஊடகம் விளையாட்டு நிழல் அமைச்சர் தங்கம் டெபனெயர் தெரிவித்துள்ளார்.
+"We are recalling the widespread human rights violations of thousands of people killed in the final days of Sri Lanka's civil war," the Digital Culture Media Sports Minister of Sports Sports Sports Shadow Minister said.
+
+"Today, my thoughts and injustices have been faced by the injustices they have faced," he said.
+
+Digital Culture Media Sports Shadow Minister Thangam Debaneyir has said that Mullivaikkal is a day to emphasize how the criminals should be brought before justice.
+
+He said that the Sri Lankan government received 15 years after the end of the conflict, but that it had caused frustration without carrying out a meaningful investigation, he said.
+
+I urge the British government to support the Tamil people and take immediate steps to ensure that the Sri Lankan government promotes justice and accountability
 
 ...
 
 [Data](articles/97ae9752.json)
+
+[Extended Data](ext_articles/97ae9752.ext.json)
 
 ---
 

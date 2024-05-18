@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 16:03:29**
+As of **2024-05-18 16:18:29**
 
 ## Newspaper Stats
 
-*Scraped **24,839** Articles*
+*Scraped **24,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,41 +18,85 @@ dailyftlk | 1,464
 adalk | 2,117
 adaderanalk | 2,875
 tamilmirrorlk | 2,907
-virakesarilk | 3,749
+virakesarilk | 3,751
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,964
+adaderanasinhalalk | 3,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,838 (100.0%) of 24,839 articles have been extended.
+24,839 (100.0%) of 24,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ඩිනාරා පුංචිහේවා ආසියාවේ ප්‍රබලයින් අතරට
+### හර්දික් පාණ්ඩ්‍යා ට දඩයක් සහ තරග තහනමක්
+
+*2024-05-18 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196756) · `si`
+
+මුම්බායි ඉන්දියන්ස් කණ්ඩායමේ නායක හර්දික් පාණ්ඩ්‍යා ට ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය විසින් තරග තහනමක් සහ දඩ මුදලක් නියම කර තිබේ.
+
+ඒ ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ මුම්බායි ඉන්දියන්ස් කණ්ඩායම ඊයේ සහභාගී වූ අවසන් තරගයේදී අඩු පන්දුවාර වේගයක් පවත්වාගෙන යාම හේතුවෙනි.
+
+ඒ අනුව හර්දික් පාණ්ඩ්‍යාට දඩයක් හා එක් තරග තහනමක් පනවා ඇති බව සඳහන් ය.
+
+එමෙන්ම කණ්ඩායමේ සෙසු ක්‍රීඩකයින්ට ද ඉන්දීය රුපියල් ලක්ෂ 12ක දඩයක් හෝ තරග ගාස්තුවෙන් 50%ක් නියම කර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+අවස්ථා 05ක දී අයි.පී.එල් ශූරතාව හිමිකරගෙන ඇති මුම්බායි ඉන්දියන් කණ්ඩායමට මෙවර තරගාවලියේ ජයගැනීමට හැකිවූයේ නියමිත තරග 14න් 04ක් පමණක් වන අතර ඒ හේතුවෙන් ඔවුන් ප්‍රසාද ලකුණු සටහනේ අවසන් ස්ථානයට පත්වුණි.
+
+◼️
+
+[Data](articles/0cb9491c.json)
+
+---
+
+### புத்தளம் - எலுவாங்குளம் கலா ஓயா பாலம் முற்றாக நீரில் மூழ்கியது
+
+*2024-05-18 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183880) · `ta`
+
+புத்தளம், எலுவாங்குளம் பகுதியில் கலா ஓயா பாலம் முற்றாக நீரில் மூழ்கியுள்ளமையினால் குறித்த பகுதிக்குச் செல்வதைத் தவிர்க்குமாறு புத்தள மாவட்ட இடர்முகாமைத்துவ மத்திய நிலையைம் தெரிவித்துள்ளது.
+
+இராஜாங்கனை நீர்த்தேக்கத்தின் வான் கதவுகள் திறக்கப்பட்டுள்ளமையினால் புத்தளம் எலுவாங்குளம் பகுதியின் கலா ஓயா பாலம் முற்றாக நீரில் மூழ்கியுள்ளது.
+
+இதனால் வில்பத்து சரணாலயத்திற்குச் செல்லும் பாதை மூடப்பட்டுள்ளது. அத்துடன் சுற்றுலாப் பயணிகள் வில்பத்து சணாலயத்திற்கு குறித்த பகுதியினூடாக செல்ல வேண்டாமென்று வனஜீவராசிகள் திணைக்களத்தினர் எச்சரிக்கை விடுத்துள்ளனர்.
+
+அத்துடன் குறித்த பகுதியில் பொதுமக்கள் குளிப்பதையும் தவிர்க்குமாறு புத்தள மாவட்ட இடர்முகாமைத்துவ மத்திய நிலையம்  தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c1095280.json)
+
+---
+
+### Dinara, Dinara, among the punch in Asia
 
 *2024-05-18 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196755) · `si`
 
-ෆෝබ්ස් සඟරාව 09වෙනි වරට ප්‍රකාශයට පත් කළ "30 අන්ඩර් 30 ඒෂියා" ලැයිස්තුවට ඇතුළුවීමට ශ්‍රී ලාංකික රංගන ශිල්පිනියක සහ චිත්‍රපට නිෂ්පාදිකාවක වන ඩිනාරා පුංචිහේවා මහත්මිය සමත්වී තිබේ.
+Dinara Punchihewa, a Sri Lankan actress and producer known for her work in "Punchiwa," has been recognized as one of the top 300 young leaders across various sectors by Forbes magazine. She stands out in the Entertainment & Sports category. Additionally, she made her mark in the film industry with the 2018 film "Serje," which premiered at an international film festival. A graduate of Queen Mary University of London, Dinara also founded Punchi Actors, a nonprofit aimed at promoting arts and acting.
 
-ඒ විනෝදාස්වාදය හා ක්‍රීඩා අංශයට විවිධ ක්ෂේත්‍ර හරහා තරුණ නායකයින් ලෙස හඳුනාගත් 300 දෙනෙකු අතරින් ය.
+🟩
 
-ෆෝබ්ස් සඟරාව, ආසියා පැසිෆික් කාලාපයේ අවධානය යොමුකළ යුතු පුද්ගලයන් "30 අන්ඩර් 30 ඒෂියා" ලැයිස්තුව මගින් ප්‍රකාශයට පත් කරනු ලබයි.
+Dinara, a Sri Lankan performer and film production of Punchiwa, has been able to enter the "30"
 
-කාණ්ඩ 10ක් යටතේ එම ලැයිස්තුවට පුද්ගලයන් තෝරාගෙන ඇති අතර රසවින්දන සහ ක්‍රීඩා අංශයෙන් ඩිනාරා පුංචිහේවා මහත්මිය මෙම ලැයිස්තුවට ඇතුළත්වී තිබේ.
+The entertainment and sports sector have been among the 300 people identified as young leaders through various fields.
 
-ඩිනාරා චිත්‍රපට ක්ෂේත්‍රයට පිවිසෙන්නේ 2018 වසරේදී ඇයගේම චිත්‍රපටයක් වන "මාලා" සිනමාපටය ඔස්සේය.
+Forbes magazine publishes people who should pay attention to the Asia Pacific period.
 
-එම චිත්‍රපටය ජාත්‍යන්තර සිනමා උළෙලකදී ප්‍රදර්ශනයවීමත් සමඟ ඇයට ගාඩි චිත්‍රපටයට රංගනයෙන් දායක වීමටත් අවස්ථාව හිමි විය.
+The list has been selected to the list under 10 categories and Dinara Punchihewa has been included in this list from the Taste and Sports Division.
 
-ලන්ඩනයේ ක්වීන් මේරි විශ්වවිද්‍යාලයේ උපාධිධාරිනියක වන ඩිනාරා පුංචිහේවා මහත්මිය අඩු ආදායම්ලාභී පවුල්වල දරුවන්ට රංග කලාව සහ රංගනය හඳුන්වා දීම සඳහා කැප වූ ලාභ නොලබන ආයතනයක් වන Punchi Actors ආයතනයේ නිර්මාතෘවරියද වෙයි.
+Dinara is entering the film industry along the 2018 film "Serje" film.
+
+With the film that the film was displayed at a international film festival, she was able to contribute to the movie.
+
+Dinara, Punchihewa, a graduate of the Queen Mary University of London, is also the founder of Punchi Actors, a non-profit company to introduce the art and acting.
 
 ◼️
 
 [Data](articles/4d6312b3.json)
+
+[Extended Data](ext_articles/4d6312b3.ext.json)
 
 ---
 
@@ -75,6 +119,26 @@ Accordingly, in the Western, Sabaragamuwa, North-Western provinces, the Matara, 
 [Data](articles/ddb89e97.json)
 
 [Extended Data](ext_articles/ddb89e97.ext.json)
+
+---
+
+### ஸ்ரீ ஸ்ரீ ரவிசங்கர் இலங்கைக்கு விஜயம்!
+
+*2024-05-18 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183875) · `ta`
+
+பிரதமர் தினேஷ் குணவர்தனவின் அழைப்பின் பேரில் ஆன்மிக குரு, அமைதித் தூதுவர், வாழும் கலை பயிற்சி நிலையத்தின் ஸ்தாபகர் ஸ்ரீ ஸ்ரீ ரவிசங்கர் இன்று சனிக்கிழமை (18) நாட்டுக்கு வருகை தந்துள்ளார்.
+
+ஸ்ரீ ஸ்ரீ ரவிசங்கர் நாளை ஞாயிற்றுக்கிழமை (19) காலை 9.00 மணிக்கு நுவரெலியா சீதாஎலிய ஸ்ரீ சீதையம்மன் ஆலயத்தில் நடைபெறவுள்ள மஹா கும்பாபிஷேக பெருவிழாவில் கலந்துகொள்ளவுள்ளார்.
+
+அதனை தொடர்ந்து, நாளை மாலை 5.15 மணிக்கு கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் நடைபெறும் சத்சங்கத்தில் கலந்துகொண்டு உரையாற்றவுள்ளார்.
+
+அந்நிகழ்வில், நாடளாவிய ரீதியில் வாழும் கலையின் 12 திறன் மேம்பாட்டு மையங்களை திறந்து வைக்கவுள்ளார். இந்த மையங்கள் 5,000க்கும் மேற்பட்ட இளைஞர்களுக்கு திறன்களை வளர்த்து அவர்களை வேலைக்குத் தயார்ப்படுத்துவதை நோக்கமாகக் கொண்டுள்ளன.
+
+தொடர்ந்து, கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் அழைப்புக்கிணங்க, திங்கட்கிழமை (20) காலை 10.00 மணிக்கு திருகோணமலை உட்துறைமுக வீதியிலுள்ள இந்து கலாசார மண்டபத்துக்கு விஜயம் செய்யவுள்ளார். அங்கு ஸ்ரீ ஸ்ரீ ரவிசங்கரை கௌரவிக்கும் வகையில் நிகழ்ச்சிகள் ஏற்பாடு செய்யப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/22b9179d.json)
 
 ---
 
@@ -2217,65 +2281,5 @@ Our correspondent said that a car traveling from Colombo to Dehiwala had collaps
 [Data](articles/d4dadeb0.json)
 
 [Extended Data](ext_articles/d4dadeb0.ext.json)
-
----
-
-### Members of our Parliament and French Queen Marie Antoinette -EDITORIAL
-
-*2024-05-17 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Members-of-our-Parliament-and-French-Queen-Marie-Antoinette-EDITORIAL/172-282845) · `en`
-
-Hardly a day passes without hearing the profligacy and misdeeds of one or the other members of Parliament. Just two days ago, while strong criticism was being voiced at Members of Parliament for demanding permits to import new cars for themselves, a State Minister reportedly slapped an airport worker for demanding payment for services rendered.
-
-Media reports inform us that many MPs across the political divide have secured liquor permits in the names of their friends and relatives. These permits we all know will subsequently be sold for huge sums of money.
-
-According to one report, the going price per permit is around rupees fifty million. The permit is for the establishment of new liquor shops in the country.
-
-To add insult to injury Members of Parliament are now demanding that the rupees one million insurance cover they enjoy be extended to cover their families as well.
-
-...
-
-[Data](articles/15b0b86a.json)
-
-[Extended Data](ext_articles/15b0b86a.ext.json)
-
----
-
-### Members of our Parliament and French Queen Marie Antoinette -EDITORIAL
-
-*2024-05-17 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Members-of-our-Parliament-and-French-Queen-Marie-Antoinette-EDITORIAL/231-282845) · `en`
-
-Hardly a day passes without hearing the profligacy and misdeeds of one or the other members of Parliament. Just two days ago, while strong criticism was being voiced at Members of Parliament for demanding permits to import new cars for themselves, a State Minister reportedly slapped an airport worker for demanding payment for services rendered.
-
-Media reports inform us that many MPs across the political divide have secured liquor permits in the names of their friends and relatives. These permits we all know will subsequently be sold for huge sums of money.
-
-According to one report, the going price per permit is around rupees fifty million. The permit is for the establishment of new liquor shops in the country.
-
-To add insult to injury Members of Parliament are now demanding that the rupees one million insurance cover they enjoy be extended to cover their families as well.
-
-...
-
-[Data](articles/cc22f9e6.json)
-
-[Extended Data](ext_articles/cc22f9e6.ext.json)
-
----
-
-### No legal representation for Gotabaya Rajapaksa in Supreme Court
-
-*2024-05-17 22:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-legal-representation-for-Gotabaya-Rajapaksa-in-Supreme-Court/108-282832) · `en`
-
-Colombo, May 17 (Daily Mirror) - The Supreme Court today directed the petitioners to serve notices on former President Gotabaya Rajapaksa as he was not represented by a counsel in connection with five fundamental rights petitions.
-
-When the five Fundamental Rights petitions challenging former President Gotabaya Rajapaksa’s decision to grant a presidential pardon to ex-soldier Sunil Ratnayake, who was convicted and sentenced to death for the Mirusuvil murder case, were taken up for argument, neither Gotabaya Rajapaksa nor a lawyer represented him.
-
-Supreme Court two-judge-bench comprising Justices Yasantha Kodagoda and Achala Wengappuli further directed the petitioners to serve notices on Sunil Ratnayake, a respondent in the petitions as he was also not represented by a lawyer. These petitions are to be taken up for argument on September 4.
-
-The Supreme Court has already granted leave to proceed with these petitions in terms of Article 12(1) of the constitution (Right of equality).
-
-...
-
-[Data](articles/8a7d3d0b.json)
-
-[Extended Data](ext_articles/8a7d3d0b.ext.json)
 
 ---

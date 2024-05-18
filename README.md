@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 14:33:34**
+As of **2024-05-18 14:52:33**
 
 ## Newspaper Stats
 
-*Scraped **24,826** Articles*
+*Scraped **24,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,57 @@ dailyftlk | 1,464
 adalk | 2,117
 adaderanalk | 2,874
 tamilmirrorlk | 2,906
-virakesarilk | 3,747
+virakesarilk | 3,749
 dailymirrorlk | 3,902
-adaderanasinhalalk | 3,959
+adaderanasinhalalk | 3,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,824 (100.0%) of 24,826 articles have been extended.
+24,826 (100.0%) of 24,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### காரைதீவில் முள்ளிவாய்க்கால் நினைவேந்தல்
+### Mullivaikkal Memorial in Karadivu
 
 *2024-05-18 14:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காரைதீவில்-முள்ளிவாய்க்கால்-நினைவேந்தல்/175-337468) · `ta`
 
-இலங்கை தமிழரசுக் கட்சியின் காரைதீவு  பிரதேச சபையின் முன்னாள் தவிசாளருமான கிருஷ்ணபிள்ளை ஜெயசிறிலின் ஏற்பாட்டில் இந் நினைவேந்தல் நிகழ்த்தப்பட்டது.
+The Mullivaikkal Memorial in Karadivu was commemorated by Krishnapillai Jayasiril, ex-chairman of the Karativu Pradeshiya Sabha, with attendees including KC Sivalingam, P. Selvanayagam, Mrs. Sumitra, Mohanadas, TC Sivakumar, and Vinayagam Vimalanathan, among others.
 
-நிகழ்வில் கல்முனை மாநகர சபை முன்னாள் உறுப்பினர்களான க.சிவலிங்கம், பொ.செல்வநாயகம், திருமதி சுமித்ரா, காரைதீவு பிரதேச சபையின் முன்னாள் உறுப்பினர் த. மோகனதாஸ், ஆலய தர்மகர்த்தா த.சிவகுமார் ,சமூக செயற்பாட்டாளர் வினாயகம் விமலநாதன் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
+🟩
+
+The commemoration was organized by Krishnapillai Jayasiril, a former chairman of the Karativu Pradeshiya Sabha of Sri Lanka.
+
+Former Member of the Kalmunai Municipal Council KC Sivalingam, P. Selvanayagam, Mrs. Sumitra. Mohanadas, Temple Dharmakarta TC Sivakumar, social activist Vinayagam Vimalanathan and many others were present.
 
 ◼️
 
 [Data](articles/bca392f0.json)
+
+[Extended Data](ext_articles/bca392f0.ext.json)
+
+---
+
+### බදු ගෙවීම් පැහැර හරින්නන්ට දැඩි නීති අනුගමනය කරන්නැයි කියයි
+
+*2024-05-18 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196750) · `si`
+
+මෙරට බ﻿දු ගෙවීම පැහැර හරින මහා පරිමාණ ව්‍යාපාරිකයින්ගේ බදු අය කරගැනීම සඳහා නීතී තවදුරටත් දැඩිව ක්‍රියාත්මක කළ යුතු බව එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පවසයි.
+
+"බදු එකතු කිරීමේ යාන්ත්‍රණය නීති රීති වෙනස් කිරීමෙන් හෝ දැඩිව ක්‍රියාත්මක කළ යුතුයි. බදු පොලුකාරයන්ගේ බැංකු ගිණුම් තහනම් කරන්න අපි නියෝග කළා. අද පාකිස්තානයේ සිම් කාඩ් එකක් ගන්න බැහැ බදු පොලු තිබුණොත්. එවැනි දැඩි පියවර අනුගමනය නොකර මේ බදු එකතු කරන්න බැහැ."
+
+මෙහිදී අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමෙන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේ,
+
+"බදු ක්‍රමවේදය තවදුරටත් දැඩි කළ යුතුයි. ඒ සඳහා ඩිජිටල්කරණයක් අවශ්‍යයි. මානව මැදිහත්වීම් තුළ ගැටලු වැඩියි. සුරාබදු දෙපාර්තමේන්තුවට නිසි ක්‍රමවේදයක් නැහැ. මත්පැන් ස්ටිකරය කියන්නේ මහා වංචාවක්. මත්පැන් නිෂ්පාදකයින්ගේ බලපත්‍ර නැවත ලබාදුන්නා. හොරකම, වංචාව නතර කරන්න ඩිජිටල්කරණයක් අවශ්‍යයි. අපේ බදු අයකිරීම 5% දක්වා වැඩි කළ හැකියි."
+
+ජාතික ජන බලවේගයේ ආර්ථික කවුන්සිලයේ සාමාජික ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා,
+
+...
+
+[Data](articles/5e17eaf4.json)
 
 ---
 
@@ -93,6 +119,20 @@ It is reported that the huge kumbukggus collapse on either side of the canal fro
 [Data](articles/3761c4e6.json)
 
 [Extended Data](ext_articles/3761c4e6.ext.json)
+
+---
+
+### யாழில் பல்வேறு தரப்பினரை சந்தித்தார் அமெரிக்க தூதுவர்
+
+*2024-05-18 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183860) · `ta`
+
+யாழ்ப்பாண மாவட்டத்திற்கு விஜயம் செய்துள்ள அமெரிக்க தூதுவர் பல்வேறு தரப்பினரையும் சந்தித்து கலந்துரையாடி வருகிறார்.
+
+அதனொரு அங்கமாக நயினாதீவு நாகபூசணி அம்மன் ஆலயம் மற்றும் நயினாதீவு நாகவிகாரைக்கு 16 ஆம் திகதி சென்ற  இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வழிபாடுகளில் ஈடுபட்டதுடன், நெடுந்தீவில் கடற்றொழில் அமைப்புக்களையும் சந்தித்து பேசினார்.
+
+◼️
+
+[Data](articles/e43b98c1.json)
 
 ---
 
@@ -171,6 +211,20 @@ Krishnapillai Jayasiril, former leader of the Sri Lanka Tamil National Party (TN
 [Data](articles/b13f91b6.json)
 
 [Extended Data](ext_articles/b13f91b6.ext.json)
+
+---
+
+### தமிழர்களை நினைவுகூருவதில் அரசின் கட்டுப்பாடுகளும் அடக்குமுறைகளும் பிரயோகிக்கப்படும்போதும் முள்ளிவாய்க்கால் கஞ்சி தயாரித்து பகிர்ந்தளித்தல் நினைவேந்துதலின் வலிமையான செயற்பாடாகும்-ஹாஸ்டக் ஜெனரேசன்
+
+*2024-05-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183862) · `ta`
+
+தமிழர்களை நினைவுகூருவதில் அரசின் கட்டுப்பாடுகளும் அடக்குமுறைகளும் பிரயோகிக்கப்படும்போதும் முள்ளிவாய்க்கால் கஞ்சி தயாரித்து பகிர்ந்தளித்தல் நினைவேந்துதலின் வலிமையான செயற்பாடாகும்-என ஹாஸ்டக் ஜெனரேசன் தெரிவித்துள்ளது
+
+இலங்கை வாழ் தமிழர்களின் கூட்டு நினைவுகளில் முள்ளிவாய்க்கால் கஞ்சி முக்கிய பங்குவகிக்கிறது. இது இலங்கையின் இறுதி யுத்தத்தில் தமிழர்கள் அனுபவித்த சொல்லெண்ணாத் துயரத்தையும், மீண்டெழுதலையும் அடையாளப்படுத்துகிறது. மே 2009, முல்லைத்தீவின் No-fire zone இல் 150,000 - 190,000 வரையான தமிழ்மக்கள் சிக்குண்டிருந்தனர், தொடர் குண்டுத்தாக்குதல்களால் இந்தப்பிரதேசத்தில் பசியும் சாவும் நிறைந்திருந்தது. அரிசியும், தண்ணீரும், கையிருப்பிலிருந்த உப்பும் சேர்த்து தயாரிக்கப்பட்ட இந்தக் கஞ்சி, 15 வருடங்களுக்கு முதல் ஆயிரக்கணக்கான தமிழர்களின் உயிர்காப்பானக இருந்தது. இதுவே ஒரு அடக்கப்பட்ட சமூகத்தின் பிழைத்தலுக்கும் ஒருங்கிணைப்புக்கும் அடையாளமானது.
+
+...
+
+[Data](articles/a999260e.json)
 
 ---
 
@@ -2167,71 +2221,5 @@ However, MP Udaya Gammanpila, a press conference calls for a press conference th
 [Data](articles/76874edf.json)
 
 [Extended Data](ext_articles/76874edf.ext.json)
-
----
-
-### Election Commission urges prompt action on LG polls
-
-*2024-05-17 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-urges-prompt-action-on-LG-polls/108-282828) · `en`
-
-Colombo, May 17 (Daily Mirror) -  In a bid to resolve ongoing electoral issues and ensure the smooth functioning of local governance, the Election Commission has urged the government to hold the Local Government elections as early as possible.
-
-This was discussed and conveyed in a recent meeting held between election commission officials and Prime Minister Dinesh Gunawardena.
-
-During the meeting, the Election Commission also presented the Prime Minister with options for the upcoming Provincial Council elections.
-
-Speaking to Daily Mirror, Election Commission Chairman R.M.A.L. Rathnayake highlighted that these elections could be held under either the existing system or a newly demarcated system, providing flexibility to accommodate various logistical and administrative considerations.
-
-The discussion also focused on the hurdles impeding the Provincial Council elections.
-
-...
-
-[Data](articles/25dc8e11.json)
-
-[Extended Data](ext_articles/25dc8e11.ext.json)
-
----
-
-### Election Commission urges prompt action on LG polls
-
-*2024-05-17 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-urges-prompt-action-on-LG-polls/155-282828) · `en`
-
-Colombo, May 17 (Daily Mirror) -  In a bid to resolve ongoing electoral issues and ensure the smooth functioning of local governance, the Election Commission has urged the government to hold the Local Government elections as early as possible.
-
-This was discussed and conveyed in a recent meeting held between election commission officials and Prime Minister Dinesh Gunawardena.
-
-During the meeting, the Election Commission also presented the Prime Minister with options for the upcoming Provincial Council elections.
-
-Speaking to Daily Mirror, Election Commission Chairman R.M.A.L. Rathnayake highlighted that these elections could be held under either the existing system or a newly demarcated system, providing flexibility to accommodate various logistical and administrative considerations.
-
-The discussion also focused on the hurdles impeding the Provincial Council elections.
-
-...
-
-[Data](articles/c23e6ee6.json)
-
-[Extended Data](ext_articles/c23e6ee6.ext.json)
-
----
-
-### ‘Interventions’: A book review
-
-*2024-05-17 20:36:12* · [`dailyftlk`](https://www.ft.lk/columns/Interventions-A-book-review/4-761923) · `en`
-
-“Until they become conscious, they will never rebel, and until after they have rebelled, they cannot become conscious.”
-
-This is a review (perhaps imprecise) of the anthology “Interventions” – Selected Political Writings of Dayan Jayatilleka edited by Uditha Devapriya and Uthpala Wijesuriya with a forward by Kamaya Jayatissa, published by Neptune.
-
-I say imprecise, because I wrote this review before reading the entirety of this collection of writings by Dayan J. When reading this missive I hope you will understand why I hurried to pen this review before digesting it in its whole.
-
-Dayan Jayatilleka as a public intellectual has been rediscovered by two millennial opinion journalists – the type who seek the narrative that’s alternative to that of the mainstream.
-
-I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silva who was my Editor at Ceylon Daily News. Mervyn was my friend and a mentor of sorts.
-
-...
-
-[Data](articles/5e1b9474.json)
-
-[Extended Data](ext_articles/5e1b9474.ext.json)
 
 ---

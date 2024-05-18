@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 02:03:29**
+As of **2024-05-19 02:18:24**
 
 ## Newspaper Stats
 
-*Scraped **24,878** Articles*
+*Scraped **24,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,882
-tamilmirrorlk | 2,911
+tamilmirrorlk | 2,912
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,976
@@ -26,9 +26,29 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,878 (100.0%) of 24,878 articles have been extended.
+24,878 (100.0%) of 24,879 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-19 (Sunday)
+
+### கடவுச்சீட்டை ஒப்படைத்தார் டயானா கமகே
+
+*2024-05-19 01:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டை-ஒப்படைத்தார்-டயானா-கமகே/175-337475) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே தனது கடவுச்சீட்டை குடிவரவு குடியகல்வு திணைக்கள அதிகாரிகளிடம் ஒப்படைத்துள்ளார்.
+
+டயானா கமகேவின் பாராளுமன்ற உறுப்புரிமையை இரத்து செய்து உயர் நீதிமன்றம் அண்மையில் உத்தரவிட்டது.
+
+டயானா கமகே இலங்கைப் பிரஜை இல்லையென்பதால், அவர் தொடர்ந்தும் பாராளுமன்ற உறுப்பினர் பதவியை வகிக்க முடியாதென உயர் நீதிமன்றம் தீர்ப்பில் குறிப்பிட்டிருந்தது.
+
+இதனிடையே, முன்னாள் பாராளுமன்ற உறுப்பினர் டயானா கமகே வெளிநாடு செல்ல தடை விதித்து கொழும்பு பிரதம நீதவான் திலின கமகேவினால் கடந்த 9 ஆம் திகதி தடையுத்தரவு பிறப்பிக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/41084f91.json)
+
+---
 
 ### 2024-05-18 (Saturday)
 
@@ -2353,23 +2373,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/540d45bf.json)
 
 [Extended Data](ext_articles/540d45bf.ext.json)
-
----
-
-### How to build a culture of service excellence: Ron Kaufman to lead event in Colombo
-
-*2024-05-18 04:32:00* · [`islandlk`](http://island.lk/how-to-build-a-culture-of-service-excellence-ron-kaufman-to-lead-event-in-colombo/) · `en`
-
-In light of Sri Lanka’s emergence from its worst-ever economic crisis, organizations must prioritize customer service excellence as they navigate evolving business landscapes, changing customer needs, and heightened competition. Effective, authentic customer service remains the cornerstone of any successful organization.
-
-Well-known Global Customer Experience Guru Ron Kaufman will lead an event in Colombo, Sri Lanka, on 6 June 2024 at Waters Edge, Battaramulla, focusing on uplifting customer service and elevating organizational excellence amidst challenging contexts.
-
-Ron Kaufman is known for his holistic approach to service design, execution and transformation to create a customer service culture that supports employees, delights customers and drives organizational performance.
-
-...
-
-[Data](articles/823b6089.json)
-
-[Extended Data](ext_articles/823b6089.ext.json)
 
 ---

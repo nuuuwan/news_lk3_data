@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 20:03:21**
+As of **2024-05-18 20:18:38**
 
 ## Newspaper Stats
 
-*Scraped **24,866** Articles*
+*Scraped **24,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
 islandlk | 1,339
-economynextcom | 1,433
+economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,881
@@ -26,33 +26,65 @@ adaderanasinhalalk | 3,972
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,865 (100.0%) of 24,866 articles have been extended.
+24,866 (100.0%) of 24,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### යකදුරාට බැණවැදුණු කාන්තාව ඝාතනය කරයි
+### Sri Lanka seeks to draw youth into agri-entrepreneurship with 1.6bn funding
+
+*2024-05-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-to-draw-youth-into-agri-entrepreneurship-with-1-6bn-funding-163562/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Agriculture and Plantation Industries has earmarked 1.6 billion rupees for the establishment of 160 model farms across the island, that are to be owned and operated by youth agri-entrepreneurs.
+
+“The Ministry of Agriculture and Plantation Industries has taken steps to allocate 1,600 million rupees to establish 160 villages in 25 districts with 6 youth agri entrepreneurship villages in each district,” Minister Mahinda Amaraweera was quoted in a statement.
+
+“Arrangements have been made to provide an amount of one million rupees to each village under the first phase.”
+
+The Minister said the aim of the program is to attract youth to agriculture and to introduce them to new agricultural technology, so they could target local markets and exports.
+
+Under the initiative vegetables, fruits, plantation crops, and fish are to be harvested, and livestock products are to be produced in the villages. (Colombo/May18/2024)
+
+◼️
+
+[Data](articles/4768b83e.json)
+
+---
+
+### Woman assassinating the victim
 
 *2024-05-18 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196764) · `si`
 
-යකදුරෙකු විසින් ආරක්ෂාව සඳහා පැළඳූ සුරයකින් කිසිඳු සෙතක් නොවීම නිසා ඔහුට බැන වැදුණු කාන්තාවක් ඝාතනය කර තිබේ.
+Chandrika Perera, a 57-year-old woman from Alatapola, Eheliyagoda, was reported missing after visiting a shrine in Kiriella. Her son filed a complaint on April 24th, leading to a phone analysis revealing numerous calls from her number. The investigation led to a drug-addicted individual in Kiriella, who admitted to being involved with the victim and confessed to murdering Chandrika. He claimed she was taken to the jungle, killed, and her body hidden. The case remains under investigation.
 
-ඒ අදාළ යකදුරාගේ ආධාර අනුබල යටතේ ඔහුගේ ගෝලයා විසින් බව වාර්තා වෙයි.
+🟩
 
-චන්ද්‍රිකා පෙරේරා, ඇහැලියගොඩ, ඇරෑපොළ ප්‍රදේශයේ පදිංචිව සිටි 57 හැවිරිදි දෙදරු මවකි.
+A woman who was unconscious was unconscious because he worn to protect him by a demon.
 
-පසුගිය කාලය පුරාම ආර්ථික ගැටලු රැසකට මුහුණ දීමට සිදුවූ ඇය ඊට පිළියම් ලෙස නිරන්තරයෙන්ම ශාන්තිකර්ම සිදුකළ අතර තම පවුලට හිස එසවිය නොහැකි වන තරමටම කිසිවකු සිය පවුලට හූනියමක් සිදුකර ඇතැයි යන විශ්වාසයේ එල්බ තිබුණි.
+It is reported that his disciple was supported by the delegation of the devi.
 
-ඇය පසුගිය කාලය පුරාම කිරිඇල්ල ප්‍රදේශයේ යකදුරෙකු හමුවට ගියේ එකී හූනියම ඉවත් කර ආරක්ෂාවක් කර ගැනීම සඳහාය.
+Chandrika Perera is a 57 year old resident of the Alatapola, Eheliyagoda.
 
-රුපියල් ලක්ෂයකට වැඩි මුදලක් වැය කරමින් ඇය එම හූනියමක් ඉවත් කරගැනීමට උත්සාහ කළ අතර, යකදුරා විසින් ඇයට රන් සුරයක් ද පළඳවා තිබුණි.
+Throughout the recent past, she constantly carried out the peacefulness of the peace that his family could not burn into their family.
 
-මේ අතර එම කාන්තාව පසුගිය අප්‍රේල් 24 වැනිදා උදෑසන නිවසෙන් පිටව ගිය පසු ඇය ගැන කිසිදු තොරතුරක් නොමැති නිසා ඇගේ පුතු විසින් ඇහැලියගොඩ පොලීසියට පැමිණිල්ලක් සිදුකර තිබුණේ තම මව අතුරුදන් වී ඇති බවට සඳහන් කරමිනි.
+She recently visited a deviation in Kiriella to remove the genonds and protection.
+
+She tried to remove a genius at a cost of Rs.
+
+Meanwhile, her son had lodged a complaint with Eheliyagoda police because she had no information about her on the 24th of April.
+
+Accordingly, the Eheldiyagoda Police had obtained a telephone analysis through Chandrika's mobile number.
+
+The police were observed where the police had received a number of calls from her phone on April 24.
+
+It has also been observed to the police that she had also made calls.
 
 ...
 
 [Data](articles/c65070ea.json)
+
+[Extended Data](ext_articles/c65070ea.ext.json)
 
 ---
 
@@ -62,9 +94,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Global Peace Ambassador and Spiritual Leader Gurudev Sri Sri Ravi Shankar arrived in Sri Lanka this afternoon (18), on a three-day visit.
 
-State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival to Sri Lanka. Governor of Eastern Province Senthil Thondaman also joined State Minister on this occasion.
+State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival in the island. Governor of Eastern Province Senthil Thondaman also joined the State Minister on this occasion.
 
-Gurudev will stay in Sri Lanka from May 18 to 20 and he will attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   held at   Taj Samudra on May 19.
+He will stay in Sri Lanka from May 18 to 20 and is slated to attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   to be held at Taj Samudra on May 19.
 
 Gurudev Sri Sri Ravi Shankar is an Indian yoga guru and a spiritual leader popularly known as a global humanitarian and peace envoy. He is the founder of ‘Transcendental Meditation’.
 
@@ -84,7 +116,7 @@ The Colombo Air Show and Defence Exhibition (CADE 2024) which was scheduled to b
 
 The CADE, organized by the Sri Lanka Air Force, was rescheduled owing to the multiple requests from international partners and defence industry stakeholders, as well as foreign Air Forces to accommodate greater opportunities for their participation and provide a diverse experience to the spectators.
 
-The SLAF said that the event will be from 26 February to 02 March 2025, aligning with the 74th anniversary of the Sri Lanka Air Force.
+The SLAF said that the event will be held from 26 February to 02 March 2025, aligning with the 74th anniversary of the Sri Lanka Air Force.
 
 ◼️
 
@@ -2319,33 +2351,5 @@ However, the Joint organizer of the university trade unions said that the boycot
 [Data](articles/b537a9e4.json)
 
 [Extended Data](ext_articles/b537a9e4.ext.json)
-
----
-
-### Heroic speakers cannot solve the economic crisis
-
-*2024-05-18 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183827) · `ta`
-
-In a pivotal presidential election, former Army Commander Mahesh Senanayake urges retired military officers to support the United People's Power, led by opposition leader Sajith Premadasa. He emphasizes that political stability is key to resolving the ongoing economic crisis, highlighting the party's international backing. This call comes as part of a broader effort to influence the outcome of the election, seen as crucial for addressing national challenges.
-
-🟩
-
-The upcoming presidential election is decisive. Former Army Commander Mahesh Senanayake said that all retired military officers should join hands with us.
-
-He made this statement during a media briefing held at the Opposition Leader's office on Friday (17).
-
-Retired military officers, including myself, have joined the United People's Power, led by opposition leader Sajith Premadasa.
-
-Army officers and soldiers who served for about 35 years in the Sri Lankan army have joined the United People's Power.
-
-The economic crisis can only be solved by political stability. The United People's Power is in the presence of the United States.
-
-I have taken this decision in the 2019 Presidential election. I mentioned among the people who won the election during that period, but the people gave them power without respecting our opinion.
-
-...
-
-[Data](articles/585de893.json)
-
-[Extended Data](ext_articles/585de893.ext.json)
 
 ---

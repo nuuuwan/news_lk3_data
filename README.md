@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 02:18:24**
+As of **2024-05-19 02:33:52**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,878 (100.0%) of 24,879 articles have been extended.
+24,879 (100.0%) of 24,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### கடவுச்சீட்டை ஒப்படைத்தார் டயானா கமகே
+### Diana Kamage handed over the passport
 
 *2024-05-19 01:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டை-ஒப்படைத்தார்-டயானா-கமகே/175-337475) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே தனது கடவுச்சீட்டை குடிவரவு குடியகல்வு திணைக்கள அதிகாரிகளிடம் ஒப்படைத்துள்ளார்.
+Diana Kamage surrendered her passport after losing her parliamentary seat due to a Supreme Court ruling that she isn't a Sri Lankan citizen, preventing her from holding public office.
 
-டயானா கமகேவின் பாராளுமன்ற உறுப்புரிமையை இரத்து செய்து உயர் நீதிமன்றம் அண்மையில் உத்தரவிட்டது.
+🟩
 
-டயானா கமகே இலங்கைப் பிரஜை இல்லையென்பதால், அவர் தொடர்ந்தும் பாராளுமன்ற உறுப்பினர் பதவியை வகிக்க முடியாதென உயர் நீதிமன்றம் தீர்ப்பில் குறிப்பிட்டிருந்தது.
+Former State Minister Diana Kamage has handed over his passport to the Immigration and Emigration Department officials.
 
-இதனிடையே, முன்னாள் பாராளுமன்ற உறுப்பினர் டயானா கமகே வெளிநாடு செல்ல தடை விதித்து கொழும்பு பிரதம நீதவான் திலின கமகேவினால் கடந்த 9 ஆம் திகதி தடையுத்தரவு பிறப்பிக்கப்பட்டது. (a)
+The Supreme Court recently ordered the cancellation of Diana Kamage's parliamentary membership.
+
+The Supreme Court ruled that Diana Kamage was not a Sri Lankan citizen and that she could not continue to hold parliamentary membership.
+
+Meanwhile, former parliamentarian Diana Kamage was banned from going abroad by Colombo Chief Magistrate Thilina Kamage on the 9th.. (A)
 
 ◼️
 
 [Data](articles/41084f91.json)
+
+[Extended Data](ext_articles/41084f91.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 08:18:31**
+As of **2024-05-18 08:33:49**
 
 ## Newspaper Stats
 
-*Scraped **24,779** Articles*
+*Scraped **24,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,339
-economynextcom | 1,425
+economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,116
 adaderanalk | 2,866
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,779 (100.0%) of 24,779 articles have been extended.
+24,779 (100.0%) of 24,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lanka mulls forced charges for shopping bags in supermarkets only
+
+*2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-forced-charges-for-shopping-bags-in-supermarkets-only-163506/) · `en`
+
+ECONOMYNEXT – Sri Lanka may end the practice of supermarkets giving free shopping bags, as part of efforts to contain plastic use according to deliberations at a parliamentary committee following a supreme court decision.
+
+Sri Lanka’s courts many years ago barred supermarkets from charging for plastic bags from customers after activists went to court.
+
+However a Supreme Court ruled in March this year to overturn that.
+
+The parliament Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development said it could not reverse the gazette issued under the Consumer Affairs Authority Act until it had received a copy of the ruling.
+
+The committee said the ruling might prompt shoppers to bring their own bags, which would lead to a reduction in polythene waste.
+
+It may only apply to supermarkets and not to smaller merchants, however. (Colombo/May18/2024)
+
+◼️
+
+[Data](articles/12213732.json)
+
+---
 
 ### 15 years for war victory
 
@@ -2187,35 +2209,5 @@ Accordingly, motorists are advised to use the following alternate routes during 
 [Data](articles/430d1871.json)
 
 [Extended Data](ext_articles/430d1871.ext.json)
-
----
-
-### Prasanna Ranaweera was not good - Prasanna Ranaweera
-
-*2024-05-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196724) · `si`
-
-State Minister Prasanna Ranaweera faced questioning at the airport police station regarding a controversy involving a service charge dispute at Katunayake airport. He was visiting for the Ministry of Small and Medium Enterprise Development. The incident involved a confrontation captured on camera, where Ranaweera allegedly assaulted a porter. Despite the incident, he claimed to be "typically good" as a Member of Parliament.
-
-🟩
-
-State Minister Prasanna Ranaweera had been summoned to the airport police today
-
-The police have noted a statement for about an hour to about an hour.
-
-Minister Prasanna Ranaweera had taken place when he visited the Katunayake airport to go to the Katunayake airport for the month of Little and Medium Enterprise Development.
-
-The reason for this was a controversy in the background of the airport that the service porter should pay Rs.
-
-The public minister was hitting the Porter's portion cameras.
-
-The public minister who came out of the police had said that as a Member of Parliament, he was "typically good".
-
-It is said that the Porter who was assassinated has not been reported so far.
-
-◼️
-
-[Data](articles/2d0b0076.json)
-
-[Extended Data](ext_articles/2d0b0076.ext.json)
 
 ---

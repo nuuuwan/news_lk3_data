@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 05:36:13**
+As of **2024-05-18 05:58:28**
 
 ## Newspaper Stats
 
-*Scraped **24,766** Articles*
+*Scraped **24,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 221
 bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
-islandlk | 1,331
+islandlk | 1,339
 economynextcom | 1,425
 dailyftlk | 1,463
 adalk | 2,115
@@ -26,11 +26,91 @@ adaderanasinhalalk | 3,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,766 (100.0%) of 24,766 articles have been extended.
+24,766 (100.0%) of 24,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Signature teams up with Sri Lanka Cricket as ‘Official Formal Clothing Partner’ for ICC Men’s T20 World Cup 2024
+
+*2024-05-18 04:33:00* · [`islandlk`](http://island.lk/signature-teams-up-with-sri-lanka-cricket-as-official-formal-clothing-partner-for-icc-mens-t20-world-cup-2024/) · `en`
+
+In a testament to their enduring partnership, Signature, Sri Lanka’s most admired menswear brand, has once again teamed up with Sri Lanka Cricket as the ‘Official Formal Clothing Partner’ for the ICC Men’s T20 World Cup 2024. Building on their past collaborations, this renewed alliance signifies the mutual trust and shared commitment to excellence between both entities. The company previously served as the clothing sponsors for the Cricket World Cup in 1996 and the T20 World Cup in 2014, both victorious tournaments for Sri Lanka.
+
+Signature’s commitment to excellence extends beyond the realms of fashion, as the brand strives to make a meaningful impact in the sporting arena. By reaffirming its support for Sri Lanka Cricket, Signature aims to inspire athletes and fans alike to reach new heights of achievement.
+
+...
+
+[Data](articles/7e6e1d87.json)
+
+---
+
+### CMTA hosts forum to explore Sri Lanka’s economic growth & mobility
+
+*2024-05-18 04:32:00* · [`islandlk`](http://island.lk/cmta-hosts-forum-to-explore-sri-lankas-economic-growth-mobility/) · `en`
+
+The recent event organized by the Ceylon Motor Traders Association (CMTA), themed “Mobility and Economic Growth,” brought together key stakeholders and thought leaders to delve into crucial discussions shaping Sri Lanka’s economic landscape. The event, highlighted by a keynote speech from Katsuki Kotaro, Minister and Deputy Head of Mission at the Embassy of Japan, and a dynamic panel discussion, provided invaluable insights and strategies for sustainable growth and enhanced mobility.
+
+SLT-MOBITEL reports marginal growth in Q1 2024 amidst cost optimization efforts
+
+CMTA urges govt. to rethink its decision to allow import of old buses
+
+Motor trader faces mass exodus with latest tax increases – CMTA
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/540d45bf.json)
+
+---
+
+### How to build a culture of service excellence: Ron Kaufman to lead event in Colombo
+
+*2024-05-18 04:32:00* · [`islandlk`](http://island.lk/how-to-build-a-culture-of-service-excellence-ron-kaufman-to-lead-event-in-colombo/) · `en`
+
+In light of Sri Lanka’s emergence from its worst-ever economic crisis, organizations must prioritize customer service excellence as they navigate evolving business landscapes, changing customer needs, and heightened competition. Effective, authentic customer service remains the cornerstone of any successful organization.
+
+Well-known Global Customer Experience Guru Ron Kaufman will lead an event in Colombo, Sri Lanka, on 6 June 2024 at Waters Edge, Battaramulla, focusing on uplifting customer service and elevating organizational excellence amidst challenging contexts.
+
+Ron Kaufman is known for his holistic approach to service design, execution and transformation to create a customer service culture that supports employees, delights customers and drives organizational performance.
+
+...
+
+[Data](articles/823b6089.json)
+
+---
+
+### Illiquid shares turn active, making the CSE come alive
+
+*2024-05-18 04:30:00* · [`islandlk`](http://island.lk/illiquid-shares-turn-active-making-the-cse-come-alive/) · `en`
+
+The stock market yesterday kicked off on a negative note but later/ last session it turned positive due to illiquid shares/stocks in the market becoming active, market analysts said.JKH’s and a few banks’ stocks moved up after witnessing a dip owing to an improvement in investor sentiment during the latter part of the day.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 54.7 points while S and P SL20 rose by 1.22 points. Turnover stood at Rs 1.22 billion with three crossings.
+
+Those crossings were reported in Amana Bank, which crossed 14.5 million shares to the tune of Rs 33.3 million and its shares traded at Rs 2.30, Hayleys Fabrics 500,000 shares crossed for Rs 21.3 million; its shares traded at Rs 42.50 and DFCC Bank 250,000 shares crossed for Rs 20 million; its shares traded at Rs 80.
+
+...
+
+[Data](articles/c6e3e64f.json)
+
+---
+
+### John Keells Foundation’s English Language Scholarship Programme marks 20 years of `Empowering the Nation’
+
+*2024-05-18 04:03:00* · [`islandlk`](http://island.lk/john-keells-foundations-english-language-scholarship-programme-marks-20-years-of-empowering-the-nation/) · `en`
+
+Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP) marks its 20th anniversary of enhancing the English language skills of schoolchildren and youth across Sri Lanka. This flagship initiative under JKF’s Education focus aims to empower children and youth from socially and economically disadvantaged backgrounds with English, IT, and career skills towards improving their higher education and career opportunities in today’s competitive world. Aligned with national priorities, initiatives under the programme have been implemented in all the provinces of the country.
+
+...
+
+[Data](articles/512044c0.json)
+
+---
 
 ### Sri Lanka Navy promotes over 3,000 sailors
 
@@ -2127,123 +2207,5 @@ The main opposition Samagi Jana Balawegaya (SJB) legislator said South India is 
 [Data](articles/0a030eac.json)
 
 [Extended Data](ext_articles/0a030eac.ext.json)
-
----
-
-### Kusal Mendis’ visa not rejected – SLC
-
-*2024-05-17 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99280/kusal-mendis-visa-not-rejected-slc-) · `en`
-
-The Chief Executive Officer (CEO) of Sri Lanka Cricket (SLC) Ashley de Silva today issued a clarification regarding the matter pertaining to the visa application submitted by Sri Lankan cricketer Kusal Mendis in order to take part in the upcoming ICC Men’s T20 World Cup in the US.
-
-Responding to a question during a press conference held in Colombo this afternoon (17), the SLC CEO assured that: “Kusal’s visa has not been rejected, but there is a process which we have to go through, and that the US Embassy in Sri Lanka is right now in touch with him”.
-
-“Hopefully we should get the visa within another day or two”, he added.
-
-Speaking further, the CEO of SLC said: “So, I think the information which has been gone out saying that his visa has been rejected is not right. His visa is not rejected. It is in the process of issuing, but they have asked for more information related to an issue, which I think the public knows.”
-
-...
-
-[Data](articles/8d1067b5.json)
-
-[Extended Data](ext_articles/8d1067b5.ext.json)
-
----
-
-### Five million phones arrested in Katunayakapandana
-
-*2024-05-17 15:33:33* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-දුරකතන-කටුනායකදි-අත්අඩංගුවට/11-409697) · `si`
-
-Two businessmen, aged 59 and 24, residents of Colombo, were arrested at Katunayaka Airport after arriving from Dubai. They were caught with a large quantity of contraband items including mobile phones and laptops. The Criminal Investigation Department (CID) took charge of the investigation, confiscating the goods for further examination.
-
-🟩
-
-Two businessmen who had been brought to the airport with a stock of Rs.The airport criminal investigations have been arrested by a group of officers.
-
-One of them is a resident of Colombo 12, and he is 59. The other business is a 24 year old resident of Colombo 14.
-
-They were two 05.55 am 4.55 am 4.55 am to 4.55 am from Dubai to SriLankan Airlines.
-
-In a number of luggage they brought, galaxy, Red bee, Hiro, and 200pm type at the airport, the airports, which are not able to express anything to the airport.The arrest had made the Criminal Investigation Department (CID) police officers who were in existence in the surrounding area.
-
-The mobile phone and Penriyu consignment have been handed over to the Katunayake airport customs for further investigations.
-
-◼️
-
-[Data](articles/11fb8007.json)
-
-[Extended Data](ext_articles/11fb8007.ext.json)
-
----
-
-### Match-fixing case: Sachithra Senanayake’s voice test report delayed
-
-*2024-05-17 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99279/match-fixing-case-sachithra-senanayakes-voice-test-report-delayed-) · `en`
-
-The Sports Ministry’s Anti-Corruption Unit today informed the Colombo Magistrate’s Court that they are yet to receive the voice test report related to the investigation being carried on former Sri Lankan cricketer Sachithra Senanayake, over allegations of match-fixing.
-
-This was informed to the court when the relevant case was taken up before the Colombo Chief Magistrate Thilina Gamage on Friday (17).
-
-The officials of the Sports Ministry’s Anti-Corruption Unit stated that even though the voice sample has been recorded, the relevant report has not been received yet due to a machine used for the voice test breaking down.
-
-President’s Counsel Kalinga Indatissa, who appeared on behalf of the defendant, then stated before the court that even though the voice test was carried out a year ago, his client has been treated unfairly due to the report not being received thus far.
-
-...
-
-[Data](articles/bf694db8.json)
-
-[Extended Data](ext_articles/bf694db8.ext.json)
-
----
-
-### Mano question to the president whether there is no public policy regarding the commemoration!
-
-*2024-05-17 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183759) · `ta`
-
-Mano Ganesan questioned President Ranil Wickremesinghe about the lack of a public policy on commemorations. He highlighted an incident where Sri Lankan police arrested Tamil women carrying the deceased from a private home, noting the LTTE's legal ban and questioning the legality of such arrests. The President responded that the arrests were due to conflicts with police officers, and that Law and Order Minister Tran Ales advised against opposing bail requests. Despite Mano Ganesan's inquiry about a public policy on memorials, the President did not provide a direct answer.
-
-🟩
-
-Mano Ganesan said that President Ranil Wickremesinghe had telephoned President Ranil Wickremesinghe on why the government had no public policy regarding the commemoration.
-
-He also pointed out that the Sri Lankan police had gone to a personal home and had been arrested and arrested by Tamil women who were carrying the dead.
-
-He said that the LTTE was legally banned and that it was a legal issue and why the police should search and arrest the people who had drunk their home without any symbols of the movement.
-
-The President said that the arrested persons were arrested for conflicting with the police officers and that law and order minister Tran Ales had told the police not to oppose bail demands.
-
-President Ranil Wickremesinghe only replied to me, "They will be released."
-
-“Is there a public policy regarding the memory?Can't announce? ”The President did not answer my questions, "Mano Ganesan, president of the Tamil Progressive Alliance, added.
-
-◼️
-
-[Data](articles/77f97c04.json)
-
-[Extended Data](ext_articles/77f97c04.ext.json)
-
----
-
-### Increase in wind speed - sea turbulence
-
-*2024-05-17 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிப்பு-கடல்-கொந்தளிப்பு/175-337455) · `ta`
-
-Wind speeds may rise to 60-70 km/h, causing sea turbulence off Kalpitiya to Pottuvil. Heavy rain or storms expected. Fisheries and maritime advised to be cautious. Pre-monsoon conditions also affecting national weather.
-
-🟩
-
-The atmospheric department has announced that the speed of the wind will increase from time to time to 60 to 70 km / h, with sea turbulence in the seas from Kalpitiya, Colombo, Galle, Hambantota to Pottuvil.
-
-The Department of Meteorology said in a statement issued by the Department of Meteorology that there would be heavy rainfall or thunderstorms in these seas.
-
-The Department of Meteorology has asked the fisheries and maritime community to pay attention to this.
-
-Meanwhile, in the country's marine regions, the pre -souvenir monsoon conditions will increase the weather and rainfall weather in the country.. Remble
-
-◼️
-
-[Data](articles/444b7ab6.json)
-
-[Extended Data](ext_articles/444b7ab6.ext.json)
 
 ---

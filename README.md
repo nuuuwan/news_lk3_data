@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 01:18:15**
+As of **2024-05-19 01:33:59**
 
 ## Newspaper Stats
 
-*Scraped **24,877** Articles*
+*Scraped **24,878** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 222
+colombotelegraphcom | 223
 bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,877 (100.0%) of 24,877 articles have been extended.
+24,877 (100.0%) of 24,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -279,6 +279,18 @@ Under the initiative vegetables, fruits, plantation crops, and fish are to be ha
 [Data](articles/4768b83e.json)
 
 [Extended Data](ext_articles/4768b83e.ext.json)
+
+---
+
+### Western Discontents, Modi’s New India, And Sri Lankan Anniversaries
+
+*2024-05-18 19:39:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/western-discontents-modis-new-india-and-sri-lankan-anniversaries/) · `en`
+
+The attempted assassination of Slovakian Prime Minister Robert Fico has sent shivers down western spines. In a rare moment of unity, both Joe Biden and Vladimir Putin condemned the shooting. The identity of the arrested shooter has not been made public, but he is believed to be a 71 year old poet and writer violently protesting the Fico government’s attacks on media freedom including the replacement of Slovakia’s independent public broadcaster, RTVS, with a pro-government and ‘patriotic’ mouthpiece. The small country of five million that was born out of the 1993 dissolution of Czechoslovakia, in that famous “velvet divorce,” is now feared to be on the brink of more internal divisions and instability. And it has put Europe itself on edge.
+
+...
+
+[Data](articles/ead226ee.json)
 
 ---
 
@@ -2357,23 +2369,5 @@ Ron Kaufman is known for his holistic approach to service design, execution and 
 [Data](articles/823b6089.json)
 
 [Extended Data](ext_articles/823b6089.ext.json)
-
----
-
-### Illiquid shares turn active, making the CSE come alive
-
-*2024-05-18 04:30:00* · [`islandlk`](http://island.lk/illiquid-shares-turn-active-making-the-cse-come-alive/) · `en`
-
-The stock market yesterday kicked off on a negative note but later/ last session it turned positive due to illiquid shares/stocks in the market becoming active, market analysts said.JKH’s and a few banks’ stocks moved up after witnessing a dip owing to an improvement in investor sentiment during the latter part of the day.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 54.7 points while S and P SL20 rose by 1.22 points. Turnover stood at Rs 1.22 billion with three crossings.
-
-Those crossings were reported in Amana Bank, which crossed 14.5 million shares to the tune of Rs 33.3 million and its shares traded at Rs 2.30, Hayleys Fabrics 500,000 shares crossed for Rs 21.3 million; its shares traded at Rs 42.50 and DFCC Bank 250,000 shares crossed for Rs 20 million; its shares traded at Rs 80.
-
-...
-
-[Data](articles/c6e3e64f.json)
-
-[Extended Data](ext_articles/c6e3e64f.ext.json)
 
 ---

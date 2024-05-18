@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 13:52:38**
+As of **2024-05-18 14:04:07**
 
 ## Newspaper Stats
 
-*Scraped **24,822** Articles*
+*Scraped **24,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,339
 economynextcom | 1,428
 dailyftlk | 1,464
 adalk | 2,117
-adaderanalk | 2,873
+adaderanalk | 2,874
 tamilmirrorlk | 2,905
 virakesarilk | 3,747
 dailymirrorlk | 3,900
@@ -26,33 +26,57 @@ adaderanasinhalalk | 3,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,819 (100.0%) of 24,822 articles have been extended.
+24,822 (100.0%) of 24,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ප්‍රදේශ රැසකට නායයෑම් සහ ගංවතුර ගැන අනතුරු ඇඟවීමක්
+### Adani wind energy project challenged in Sri Lanka’s Supreme Court
+
+*2024-05-18 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99297/adani-wind-energy-project-challenged-in-sri-lankas-supreme-court) · `en`
+
+Adani Green Energy’s wind energy project, coming up in Sri Lanka’s northern Mannar and Pooneryn districts, has been challenged in the island’s apex court on grounds of potential environmental impact and “lack of transparency”.
+
+The Wildlife and Nature Protection Society (WNPS), one of Sri Lanka’s oldest environmental organisations set up over a century ago, on May 16 filed a Fundamental Rights petition at the Supreme Court of Sri Lanka, with the aim of “protecting the unique ecosystem of Mannar Island”.
+
+The Society’s petition argues that the project “poses a severe threat to the island’s unique biodiversity and pristine landscapes,” especially in Mannar. Mannar is the “southernmost point of the Central Asian Flyway used by innumerable migratory species”, while also being home to several indigenous water bird and bat species, the WNPS said, contending that Sri Lankan authorities’ decision approving the project disregarded Mannar’s “singular positioning as a biodiversity hub”.
+
+...
+
+[Data](articles/8b60bd53.json)
+
+---
+
+### Landslides and floods to many areas
 
 *2024-05-18 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196749) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ප්‍රදේශ කිහිපයක ගංවතුර අවදානමක් මතුවිය හැකි බව වාරිමාර්ග දෙපාර්ථමේන්තුව පවසයි.
+Heavy rains forecasted; flood risks in areas like Deduru Oya, Mahaweli, and Kirama Oya. Water levels rising; sluice gates opened at Rajanganaya and Angamuwa reservoirs. Landslides and collapses reported in various locations, affecting roads and causing flooding in certain regions.
 
-ඒ අනුව දැදුරු ඔය, මහ ඔය, අත්තනගලු ඔය, කැලණි ගඟ, බෙන්තර ගඟ, ගිං ගඟ, නිල්වලා ගඟ, කිරම ඔය, ඌරු බොකු ඔය, කලා ඔය, මහවැලි ගඟ, මල්වතු ඔය ද්‍රෝණි ආශ්‍රිත පහත් බිම් ගංවතුර අවධානමකට ලක්විය හැකි බව දැනුම්දී තිබේ.
+🟩
 
-පවතින අධික වැසි සහිත කාලගුණ තත්ත්වය ඉදිරි දින කිහිපයේදීත් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Irrigation says that there is a risk of floods in several areas due to inclement weather conditions.
 
-මේ අතර රජරට ප්‍රදේශයට ඇදහැලෙන අධික වර්ෂාවත් සමග රාජාංගනය ජලාශයේ ජල මට්ටම අඩි 31ක් දක්වා ඉහළ ගොස් තිබේ.
+Accordingly, Deduru Oya, Mahaweli, Mahaweli, Mahaweli, Kirama Oya, Kirama Oya, Kirama Oya, Kirama Oya, Kirama Oya.
 
-ඒ හේතුවෙන් රාජාංගනය ජලාශයේ වාන් දොරටු 4ක් විවෘත කර ඇති අතර ඉන් තත්පරයට ඝණ අඩි 2,100 බැගින් ජලය මුදා හැරේ.
+The existence of heavy rains will occur in the next few days, the Met Department said.
 
-අංගමුව ජලාශයේ වාන් දොරටු දෙක ද විවෘත කර ඇති අතර ඒ හේතුවෙන් පහත් බිම්වල වෙසෙන ජනතාවට ඒ පිළිබඳව අවධානයෙන් පසුවන ලෙස ජලාශ භාර ඉංජිනේරුවන් ඉල්ලා සිටී.
+Meanwhile, the water level of the Rajanganaya Reservoir has risen to 31 feet.
+
+Due to this, four sluice gates of the Rajanganaya reservoir have been opened, and it releases 2,100 cubic feet per second.
+
+The two sluice gates of the Angamuwa reservoir have also been opened and the people in the lowlands are requested to be considering.
 
 ජලාශවල වාන් දොරටු විවෘත කිරීමත් සමග අනුරාධපුර 38 කණුව මහබුලංකුලම ප්‍රදේශයේ කුඹුරු අක්කර 300ක් පමණ ජලයෙන් යටවී ගොස් තිබුණි.
+
+It is reported that the huge kumbukggus collapse on either side of the canal from Talawa due to a large Kumbukggus collapse on either side of the canal.
 
 ...
 
 [Data](articles/3761c4e6.json)
+
+[Extended Data](ext_articles/3761c4e6.ext.json)
 
 ---
 
@@ -171,6 +195,8 @@ He said the committee appointed to study and prepare a report regarding the incr
 ...
 
 [Data](articles/7ece246d.json)
+
+[Extended Data](ext_articles/7ece246d.ext.json)
 
 ---
 
@@ -1175,6 +1201,8 @@ And George wanted to remind those who receive his privately distributed newslett
 ...
 
 [Data](articles/b96c3f5a.json)
+
+[Extended Data](ext_articles/b96c3f5a.ext.json)
 
 ---
 
@@ -2213,23 +2241,5 @@ Mr. Alles said this at a seminar held at the Jayawardenapura Monoch Imperial Hot
 [Data](articles/d1cc7bda.json)
 
 [Extended Data](ext_articles/d1cc7bda.ext.json)
-
----
-
-### OPA seminar sheds insights to managing Sri Lanka’s ageing population
-
-*2024-05-17 20:27:15* · [`dailyftlk`](https://www.ft.lk/opinion/OPA-seminar-sheds-insights-to-managing-Sri-Lanka-s-ageing-population/14-761922) · `en`
-
-Sri Lanka has the largest ageing population in South Asia and urgent steps need to be taken to address the problems of this rapidly increasing demographic, according to the speakers at a recent program held at the Organisation of Professional Associations of Sri Lanka.
-
-The seminar, which focused on the topic of “Trends and Challenges in the Management of Ageing” featured University of Colombo Faculty of Nursing Dean Prof. Sudath Warnakulasuriya, University of Peradeniya Department of Nursing Senior Lecturer Dr. Sarath Rathnayake, and Consultant in Family Medicine, and Health and Nutrition Committee Chairman Dr. Sanath Hettige. The event was jointly organised by the Senior Professionals’ Committee and the Health and Nutrition Committee of the OPA.
-
-Eng. Shantha Senarath, a Past President of OPA and the Moderator of the seminar, delivering the introductory speech mentioned that the objective of the seminar is to find the real meaning of ageing and also how ageing can be slowed down.
-
-...
-
-[Data](articles/a61a376e.json)
-
-[Extended Data](ext_articles/a61a376e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 18:22:40**
+As of **2024-05-18 18:34:14**
 
 ## Newspaper Stats
 
-*Scraped **24,856** Articles*
+*Scraped **24,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,78 @@ newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,433
 dailyftlk | 1,464
-adalk | 2,120
-adaderanalk | 2,878
+adalk | 2,121
+adaderanalk | 2,879
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
-dailymirrorlk | 3,903
+dailymirrorlk | 3,904
 adaderanasinhalalk | 3,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,852 (100.0%) of 24,856 articles have been extended.
+24,856 (100.0%) of 24,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### රජයේ නවතම පරිවර්තනය ගැන ජනපති කියයි
+### Ella–Wellawaya road temporarily closed again tonight
+
+*2024-05-18 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99302/ellawellawaya-road-temporarily-closed-again-tonight) · `en`
+
+The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. today (17) until 6.00 a.m. tomorrow (18) due to prevailing inclement weather conditions, the Badulla District Secretary said.
+
+◼️
+
+[Data](articles/146d5927.json)
+
+---
+
+### Sri Lanka’s Dinara among prestigious Forbes “30 Under 30 Asia” list
+
+*2024-05-18 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-Dinara-among-prestigious-Forbes-30-Under-30-Asia-list/108-282882) · `en`
+
+Sri Lankan actress Dinara Punchihewa is among the prestigious Forbes magazine’s “30 Under 30 Asia” entertainment and sports list.
+
+The Forbes in its feature said the 29 year old Dinara Punchihewa burst on the Sri Lankan cinema scene in 2018 by writing, acting and directing her own short film Maala, which was screened at international film festivals and caught the attention of Sri Lankan filmmaker Prasanna Vithanage, who cast her in Gaadi – Children of the Sun (2019).
+
+Since then, she has been in four other films. Punchihewa, a graduate of Queen Mary University of London, went on to found Punchi Actors, a non-profit that introduces children from low-income families to theatre and acting, said the Forbes magazine in its story titled “Meet the 30 under 30 Stars and Athletes Breaking Stereotypes and Empowering Their Generation.
+
+The Forbes’ list was determined by judges Caldecott Music Group Founder and Group CEO Kuok Meng Ru and One Co-Founder and Group President Hua Fung Teh.
+
+◼️
+
+[Data](articles/489294b7.json)
+
+---
+
+### President tells the latest translations of government
 
 *2024-05-18 18:03:12* · [`adalk`](https://www.ada.lk/picture_story/රජයේ-නවතම-පරිවර්තනය-ගැන-ජනපති-කියයි/10-409703) · `si`
 
-නවීන තාක්ෂණය සමඟ නවීන කෘෂිකර්මාන්තයට සූදානම් පෞද්ගලික ව්‍යවසායකයින්ට රජයේ පූර්ණ සහාය ලබා දෙනවා
+In a bid to modernize agriculture, Sri Lanka's government, led by Presidents Mahinda Rajapaksa and Ranil Wickremesinghe, is launching initiatives like the Agricultural Modernization Program across 100 divisions. This includes financial aid, training, and integration of AI technologies. A notable example is AI Grow Company, which specializes in AI-driven farming, offering services from greenhouse planning to product sales. The government aims to foster partnerships with local universities and provide educational opportunities in AI.
 
-කෘෂි නවීකරණ වැඩපිළිවෙළ මෙම වසරේ දී ප්‍රාදේශීය ලේකම් කොට්ඨාස 100ක ක්‍රියාත්මක කරනවා.
+🟩
 
-මූල්‍ය සහාය සහ පුහුණුව ලබා දීමට රජය සූදානම් – කෘත්‍රීම බුද්ධි තාක්ෂණය යොදා ගනිමින් ශ්‍රී ලංකාවේ ප්‍රථම වරට ඉදිකර ඇති හරිතාගාරයේ නිරීක්ෂණ චාරිකාවකට එක්වෙමින් ජනපති පවසයි.
+Government entrepreneurs are fully supported for modern agriculture with modern technology
 
-කෘත්‍රීම බුද්ධිය (AI) ඇතුළු නවීන තාක්ෂණය සමඟ මෙරට කෘෂිකර්මාන්තයේ නව පරිවර්තනයක් සිදු කිරීමට රජය සැලසුම් කර තිබෙන බවත්, ඒ සඳහා කැමැත්තක් දක්වන පෞද්ගලික අංශයේ ව්‍යවසායකයින්ට අවශ්‍ය සහාය ලබා දීමට රජය කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The Agricultural Modernization Program will be implemented in 100 Divisional Secretariat Divisions this year.
 
-කෘෂි නවීකරණ වැඩපිළිවෙළ සඳහා මෙම වසරේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 100ක් තෝරාගෙන ඇති අතර එහි පළමු අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 25කට අවශ්‍ය පහසුකම් සැපයීමට කටයුතු කරන බවත්, දෙවන අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 75ක් නවීන කෘෂිකර්මාන්තය සඳහා යොදා ගන්නා බවත් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+The government is preparing to provide financial support and training - President Mahinda Rajapaksa has opened the first to inspect Sri Lanka's first conversation tour.
+
+President Ranil Wickremesinghe said that the government plans to carry out a new translation of agriculture including artificial intelligence (AI) and the government is working to provide the necessary assistance to private sector entrepreneurs.
+
+The President added that 100 Divisional Secretariat Divisions have been selected for the agro-renovation program and the first phase of the year will be facilitated in 25 Divisional Secretariat Divisions.
+
+President Ranil Wickremesinghe made this statement on the first time in Sri Lanka, with artistic intelligence in the Venerable Velamadeniya in Kegalle with the first time in Sri Lanka.
 
 ...
 
 [Data](articles/56fe1a76.json)
+
+[Extended Data](ext_articles/56fe1a76.ext.json)
 
 ---
 
@@ -73,6 +111,8 @@ The fishermen, dinghies and unauthorized fishing gear were handed over to the As
 ◼️
 
 [Data](articles/13d9c84f.json)
+
+[Extended Data](ext_articles/13d9c84f.ext.json)
 
 ---
 
@@ -126,6 +166,22 @@ That warning announcements today (18). 4:00 to tomorrow (19). The National Build
 
 ---
 
+### ඉදිරි දින කීපයේ දී ප්‍රදේශ රැසකට මිලිමීටර් 100 ඉක්මවා වැසි
+
+*2024-05-18 17:35:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කීපයේ-දී-ප්‍රදේශ-රැසකට-මිලිමීටර්-100-ඉක්මවා-වැසි/11-409702) · `si`
+
+ශ්‍රී ලංකාව සහ ඒ  ආශ්‍රිතව මුහුදු ප්‍රදේශවල ඇති වී තිබෙන කැළඹිලි සහගත ස්වභාවය හේතුවෙන්  දිවයිනේ නිරිත දිග ප්‍රදේශවලට අධික වර්ෂාපතනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත. එසේම සුළං තත්ත්වය  දිවයින හරහා විටින් විට පැයට කිලෝමීටර් 30 - 40ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ දක්වා ඇත.
+
+එසේම බස්නාහිර, සබරගමුව, වයඹ පළාත් වලත් ගාල්ල මාතර දිස්ත්‍රික්ක සදහා මිලි මීටර් 100 ක පමණ තද වැසි ඇතිවිය හැකි බව නිවේදනය කර ඇති අතර මෙම තත්වය ඉදිරි දින කීපය තුළ තවදුරටත් වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත.
+
+ඊට අමතරව කල්පිටිය සිට කොළව ගාල්ල හම්බන්තොට හරහා මුහුදු ප්‍රදේශ රළුවිය හැකි බවත් මෙම මුහුදු ප්‍රදේශවල සුළගේ වේගය පැයට කිලෝමීටර් 60 ක් 70 ක් දක්වා වැඩිවිය හැකි බවත් නිවේදනය කර ඇත. තද සුළං වැනි ආපදා සිදුවිය හැකි බවත් මේ නිසා ආපදා අවාදානම් අනතුරු ඇගවීම් පිළිබදව නිරන්තර අවධානය යොමු කරන මෙන් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව අවධාරණය කරන ලදී.
+
+...
+
+[Data](articles/7e74956e.json)
+
+---
+
 ### Haputale closes
 
 *2024-05-18 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196760) · `si`
@@ -161,6 +217,8 @@ It is sobering to stand in the same place where, 15 years ago, countless civilia
 ...
 
 [Data](articles/500139bb.json)
+
+[Extended Data](ext_articles/500139bb.ext.json)
 
 ---
 
@@ -2287,85 +2345,5 @@ Colombo Additional Magistrate Harshana Kekunawala on Thursday directed the Attor
 [Data](articles/094a59ea.json)
 
 [Extended Data](ext_articles/094a59ea.ext.json)
-
----
-
-### Jaffna Uni teachers condemn obstruction of Mullivaikkal memorialisation events
-
-*2024-05-18 00:59:43* · [`dailyftlk`](https://www.ft.lk/news/Jaffna-Uni-teachers-condemn-obstruction-of-Mullivaikkal-memorialisation-events/56-761947) · `en`
-
-Says State and apparatuses are attempting to misrepresent and vilify community-driven memorialisation events
-
-Stresses attempts to thwart memorialisation shows there is no space in SL for Tamils to commemorate their war dead
-
-Calls on all Sri Lankans to condemn ongoing state repression of memorialisation in North-East
-
-Issuing a statement, the University of Jaffna Teachers’ Association said it is deeply concerned by the moves by the Sri Lankan state and its law-enforcing apparatuses to regulate, suppress and block Mullivaikkal memorialisation events planned to be held this week, to commemorate the war dead.
-
-The Association underlined the importance of memorialisation as a personal and collective act of resistance and resilience and said they may also help those affected by the war to find healing and peace.
-
-...
-
-[Data](articles/8f4316f5.json)
-
-[Extended Data](ext_articles/8f4316f5.ext.json)
-
----
-
-### War is not a victory, we share love instead of hatred of mankind - Chandrika Bandaranaike Kumaratunga
-
-*2024-05-18 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183820) · `ta`
-
-Chandrika Bandaranaike Kumaratunga emphasizes peace over war, urging unity and love to replace division and hatred. Reflecting on the 30-year conflict's devastating impact, she calls for reconciliation and forgiveness, marking its end with a call for shared compassion and understanding.
-
-🟩
-
-War is not a victory, it is the failure of the country or the humanity. The 30 -year war has only made losses. Former President Chandrika Bandaranaike Kumaratunga has urged the people of the country to express love instead of hatred.
-
-The 30 -year war ended 15 years on Saturday 18th. This is the first time that a special media report was published.
-
-War is not a victory, it is a major defeat to the country or mankind.. In the Northern and Eastern Provinces, mothers lost their children. Similarly the children lost their parents.
-
-We have divided the Sinhalese, Tamils and Muslims on the basis of ethnicity. I lost my eyes because of this war.Al many losses. Today, we will share love instead of hatred in the day, remembering the end of the final war.
-
-Today we will pledge to sorry instead of revenge, to establish God instead of the demons and to transmit comfort to each other.
-
-◼️
-
-[Data](articles/10753dcb.json)
-
-[Extended Data](ext_articles/10753dcb.ext.json)
-
----
-
-### Central Asian Strip: Sri Lanka 4th;Pakistan was the champion
-
-*2024-05-18 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183819) · `ta`
-
-Sri Lanka finished 4th in the Central Asian Ceylon Tournament, losing to Kyrgyzstan but defeating Afghanistan and Iran. Pakistan emerged as champions after beating Turkmenistan 3-1 in the finals.
-
-🟩
-
-Sri Lanka ranked 4th in the Central Asian Ceylon Tournament, which ended on Friday (17) in Islamabad.
-
-Sri Lanka lost the 4th place on Friday (17) in the tournament, which was ranked 3rd on Friday (17).
-
-Sri Lanka lost the 3rd set of the first two sets of Kyrgyzstan 20 - 25, 17 - 25, respectively and won 25 - 20.
-
-But in the next set, Sri Lanka lost 25 - 23 in the midst of a serious challenge.
-
-Kyrgyzstan in the league round this round. Despite losing Pakistan and Turkmenistan, Sri Lanka won the Afghanistan and Iran.
-
-In the final of the match, Pakistan became the only team that has not lost to Turkmenistan 3 - 1.
-
-Pakistan won the first two sets of the final, 25 - 21, 25 - 19.
-
-But Pakistan, who played effectively in the 4th set, won 25 - 14.
-
-◼️
-
-[Data](articles/a9d49345.json)
-
-[Extended Data](ext_articles/a9d49345.ext.json)
 
 ---

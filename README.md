@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 19:18:29**
+As of **2024-05-18 19:34:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,971
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,861 (100.0%) of 24,864 articles have been extended.
+24,864 (100.0%) of 24,864 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The SLAF said that the event will be from 26 February to 02 March 2025, aligning
 
 [Data](articles/c047618b.json)
 
+[Extended Data](ext_articles/c047618b.ext.json)
+
 ---
 
 ### 26 injured as two buses collide head-on at Kottapola
@@ -61,6 +63,8 @@ Police suspect that the accident was caused due to reckless driving by the drive
 ◼️
 
 [Data](articles/03d9fdc2.json)
+
+[Extended Data](ext_articles/03d9fdc2.ext.json)
 
 ---
 
@@ -92,21 +96,27 @@ One of the buses of a bus is committed by a serious condition and the other pati
 
 ---
 
-### එංගලන්තෙ එහෙම වුණත් ලංකාවේ එහෙම නෙමෙයි
+### Nevertheless, in England, it is not in Sri Lanka
 
 *2024-05-18 18:40:35* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තෙ-එහෙම-වුණත්-ලංකාවේ-එහෙම-නෙමෙයි/11-409705) · `si`
 
-ලංකාවේ සෞඛ්‍ය සේවයට එංගලන්තයේ සෞඛ්‍ය සේවයත් පරාද බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා නිදසුනක් සහිතව අද (18) බලපිටිය මහලදූවේ පැවති උත්සවයකදී පෙන්වා දුන්නේය.
+Dr. Ramesh Pathirana, Sri Lanka's Minister of Health, admired England's healthcare system during his visit, highlighting its advanced facilities and successful surgeries. He expressed interest in replicating such successes in Sri Lanka's healthcare sector.
 
-එංගලන්තයේ වාසය කළ ලංකාවේ තමාගේ හිතවතෙක් තමා හමුවන්න ආවේ ඔහුට කළයුතුව තිබූ ශල්‍ය කර්මයක් පිළිබඳව පිහිටක් බලාපොරොත්තුවෙන් බවත් එම ශල්‍ය කර්මය එංගලන්තයෙන් කරවා ගැනීමට නම් ඔහුට අවුරුද්දක් දෙකක් පෝලීමේ සිටීමට සිදුව තිබූ බවත් රමේෂ් මහතා කීවේය.
+🟩
 
-තමා සිය හිතවතා කොළඹ විශේෂඥ වෛද්‍යවරයෙකුට මුණගැස්සූ බවත් හිතවතාගේ ශලකර්මය දින කිහිපයකින් ඉතා සාර්ථකව සිදු කළ බවත් රමේෂ් මහතා මෙහිදී කීවේය.ශලය කර්මයක් කිරීමට එංගලන්තයේ අවුරුදු ගණන් පෝලිම්වල සිටීමට සිදුවුණත් අපේ රටේ එසේ නොවන බවත් ඒ මහතා කීවේය.
+Minister of Health Dr. Ramesh Pathirana show that he loved the health service in England to Sri Lanka's health care.
 
-"මේවා මම ප්‍රසිද්ධ වේදීකාවේ කිව්වාම සමාජ මාධය ජාලාවලින් මට හොදටම දෙසන බව මම දන්නවා. නමුත් සත්‍ය තත්ත්වය එයයි.   ලෝකයේ මොනම රටකවත් නැති පහසුකම් සහිත ඉතා උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් ලංකාවේ තිබෙනවා."
+Ramesh said he was looking to a success of the surgery that he had come to see in England, who came to meet with the surgeon that he had to do with him in England.
+
+Mr. Ramesh said he was the case in the queue of the favor and the felt the pocket of the felt the pocket was successfully carried out.
+
+"මේවා මම ප්‍රසිද්ධ වේදීකාවේ කිව්වාම සමාජ මාධය ජාලාවලින් මට හොදටම දෙසන බව මම දන්නවා. But that is the truth.There is a very high level of healthcare with amenities in the world. "
 
 ◼️
 
 [Data](articles/27b666cb.json)
+
+[Extended Data](ext_articles/27b666cb.ext.json)
 
 ---
 

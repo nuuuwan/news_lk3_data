@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 09:03:24**
+As of **2024-05-18 09:18:37**
 
 ## Newspaper Stats
 
-*Scraped **24,786** Articles*
+*Scraped **24,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,117
 adaderanalk | 2,868
 tamilmirrorlk | 2,899
 virakesarilk | 3,743
-dailymirrorlk | 3,889
+dailymirrorlk | 3,893
 adaderanasinhalalk | 3,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,783 (100.0%) of 24,786 articles have been extended.
+24,786 (100.0%) of 24,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lanka to vie at Asian Relays in Thailand
+
+*2024-05-18 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-vie-at-Asian-Relays-in-Thailand/108-282823) · `en`
+
+(Daily Mirror) - The Sri Lanka Mixed Relay Team will leave for Bangkok on Sunday to participate in the Inaugural Asian Athletic Relay Championships – Paris Olympic Games Qualifying Meet – on May 20 and 21 in Thailand.
+
+The Sri Lanka contingent for the Inaugural Asian Athletic Relay Championships will include 23 athletes (Men and Women) and five coaches.
+
+The Inaugural Asian Athletic Relay Championships will include events for 4X100m Men and Women, 4X400m Men and Women and 4X400m Mixed Relay events.
+
+...
+
+[Data](articles/3e8bb26b.json)
+
+---
+
+### SL welcomes over 46,000 tourists from May 1 - 12
+
+*2024-05-18 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-welcomes-over-46-000-tourists-from-May-1-12/108-282868) · `en`
+
+Sri Lanka welcomed over 46,000 international tourists for the first 12 days of May, a drop in momentum due to the start of the off peak season.
+
+Provisional data from the Sri Lanka Tourism Development Authority (SLTDA) showed that the island nation saw 46, 042 tourists enter the country from 1 to 12 May.
+
+This brings the cumulative arrivals from 1 January to 12 May to 830, 693.
+
+The daily arrival average which was over 5,000 in the first couple of months has dropped to the levels of 3,800. The weekly arrival average has dropped to 26,000.
+
+The month of May is also seeing a change in the rankings of the key source markets.
+
+India remains the largest tourist traffic generator, bringing in 23 percent of the total number of tourists of the month.
+
+The Maldives, now ranks second, accounting for 11 percent of the arrivals. Ranking third is China, accounting for 7 percent of the total arrivals.
+
+...
+
+[Data](articles/de3e1983.json)
+
+---
 
 ### President leaves for Indonesia to attend World Water Forum
 
@@ -50,25 +90,35 @@ Scheduled to deliver a keynote address on May 20th, President Wickremesinghe wil
 
 [Data](articles/6b988f96.json)
 
+[Extended Data](ext_articles/6b988f96.ext.json)
+
 ---
 
-### ஈழத்தமிழர்களின் சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் வரலாற்று முக்கியத்துவம் வாய்ந்ததீர்மானம்- அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் பலர் ஆதரவு தெரிவித்து உரை
+### Historical importance
 
 *2024-05-18 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183839) · `ta`
 
-ஈழத்தமிழர்களின் சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் வரலாற்று முக்கியத்துவம் வாய்ந்த தீர்மானத்தினை அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் வரவேற்றுள்ளனர்.
+US Congress passed a historic resolution recognizing the genocide against Eelam Tamils and advocating for their right to self-determination. The resolution, submitted during the commemoration of the 15th anniversary of the Mullivaikkal massacre, marks a significant step towards acknowledging Tamil rights and addressing historical injustices.
 
-ஈழத்தமிழர்களின்சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை கோரும் மற்றும் ஈழத்தில் இடம்பெற்றது இனப்படுகொலை என அங்கீகரிக்கவேண்டும் என கோரும் தீர்மானம் அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள நிலையில் அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் அதனை வரவேற்றுள்ளனர்.
+🟩
 
-தீர்மானம்சமர்ப்பிக்கப்பட்டு உரைகள் ஆற்றப்பட்ட பின்னர் அமெரிக்க காங்கிரஸ்; உறுப்பினர்கள் காங்கிரஸ் நூலகத்தில் இடம்பெற்ற நிகழ்வில் கலந்துகொண்டனர் .
+US Congress members have welcomed a historic resolution demanding a universal resolution on the independence of the Eelam Tamils.
 
-முள்ளிவாய்க்கால் படுகொலையின் 15 வருடத்தினை நினைவேந்துவதற்கு உலகம்எங்கிலும் உள்ள ஈழத்தமிழர்கள் தயாராகிவந்த நிலையிலேயே இந்த தீர்மானம்  அமெரிக்க காங்கிரஸில் சமர்ப்பிக்கப்பட்டது.
+US Congress members have welcomed the US Congress as a resolution demanding the universal of Eelam Tamils and the recognition of the genocide in Eelam as a genocide.
 
-இந்த தீர்மானம் இழப்பை நினைகூருகின்றது ஆனால் தமிழர்களை எதிர்கால வன்முறைகள் பாரபட்சங்களில் இருந்து பாதுகாக்க முயல்கின்றது என தீர்மானத்தை அமெரிக்க காங்கிரஸில் சமர்ப்பித்த சனப்பிரதிநிதிகள் சபை உறுப்பினர் வில்லே நிக்கல் தெரிவித்தார்.
+US Congress after resolution and speeches;Members attended the event at the Congress Library.
+
+The resolution was submitted to the US Congress as the Eelam Tamils all over the world were preparing to commemorate the 15 years of the Mullivaikkal massacre.
+
+The resolution was losing but the resolution was submitted to the US Congress, said Vile Nickel, a member of the United Nations Congress, said that the future violence is trying to protect the Tamils from prejudice.
+
+My resolution recognizes that the Tamils were genocide and emphasized the rights of Tamils to self -determination through democratic methods, he said.
 
 ...
 
 [Data](articles/34d1a690.json)
+
+[Extended Data](ext_articles/34d1a690.ext.json)
 
 ---
 
@@ -150,6 +200,22 @@ In the meantime, President Ranil Wickremesinghe is scheduled to hold bilateral t
 
 ---
 
+### IMF commends SL’s progress achieved thus far
+
+*2024-05-18 08:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-commends-SLs-progress-achieved-thus-far/108-282873) · `en`
+
+The International Monetary Fund (IMF) this week commended the progress achieved by Sri Lanka thus far in rolling out the economic reforms, the majority of which have been rather painful to the general public.
+
+The Fund noted that the outcomes of the efforts taken to bring the economy on track are now evident as key indicators are showing improvements.
+
+“With respect to Sri Lanka’s economic performance, Macroeconomic policies in Sri Lanka are starting to bear fruit. Commendable outcomes include a rapid decline in inflation, robust reserve accumulation, and initial signs of economic growth, while also preserving stability in the financial system,” said IMF Director of Communications Julie Kozack speaking to journalists in Washington D.C. yesterday.
+
+...
+
+[Data](articles/d1337f28.json)
+
+---
+
 ### Sri Lanka mulls forced charges for shopping bags in supermarkets only
 
 *2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-forced-charges-for-shopping-bags-in-supermarkets-only-163506/) · `en`
@@ -204,23 +270,33 @@ The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
 
 ---
 
-### රතුපස්වල නඩුවෙන් හමුදා සාමාජිකයන් 4 දෙනා නිදොස් කොට නිදහස්
+### 4 troops free from Rathupaswala case
 
 *2024-05-18 07:42:52* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවෙන්-හමුදා-සාමාජිකයන්-4-දෙනා-නිදොස්-කොට-නිදහස්/11-409700) · `si`
 
-රතුපස්වල පැවිති විරෝධතාවයකට වෙඩිතැබීමේ නඩුවේ විත්තිකරුවන් වූ හමුදා සාමාජිකයන් සිව්දෙනා නිදොස්කොට නිදහස් කිරීමට ගම්පහ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) නියෝග කළේය.
+Four army officers have been acquitted in the Rathupaswala shooting case after a lengthy trial spanning over 11 years. The incident occurred during protests against waste management issues in Gampaha, resulting in two deaths and over 50 injuries.
 
-ගම්පහ, රතුපස්වල ප්‍රදේශයේ පෞද්ගලික කර්මාන්ත ශාලාවකින් පිටවන අපද්‍රව්‍ය මඟින් පානීය ජලය අපවිත්‍ර වී ඇති බව පවසමින්, එම ප්‍රදේශයේ ජනතාව වැලිවේරිය නගරයේදී 2013 අගෝස්තු 01 වනදා විරෝධතාවක නිරත වූ අතර එය විසුරුවා හැරිමට හමුදාව වෙඩි තැබිමක් සිදු කළේය.
+🟩
 
-එම වෙඩි තැබිමෙන් පාසල් සිසුන් දෙදෙනෙකු සහ තවත් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව පනහකට වැඩි පිරිසක් තුවාල ලැබීය.
+The three-member High Court Judge Madulla today (16) ordered to acquit the exemplance from the shooting case in Rathupaswala.
 
-සිද්ධිය සම්බන්ධයෙන් යුද හමුදා නිලධාරින් වූ බ්‍රිගේඩියර් අරුණ දේශප්‍රිය ගුණවර්ධන (එවක මේජර්), සැරයන් අරුණගේ සිරිසේන, කෝප්‍රල් ජේ.එම්. තිලකරත්න සහ කෝප්‍රල් ලලිත් ග්‍රේ යන හමුදා සාමාජිකයන්ට එරෙහිව නීතිපතිවරයා ගම්පහ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+The people of the area were protesting on August 1, claiming that the waste of waste of waste in Gampaha, Gampaha.
 
-පිටු 242කින් සමන්විත සම්පූර්ණ නඩු තීන්දුව පැය 4කට ආසන්න කාලයක් ප්‍රකාශයට පත්කළේ,  මහාධිකරණ විනිසුරු නිමල් රණවීර, සහන් මාපා බණ්ඩාර සහ රෂ්මි සිංගප්පුලි යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ ඒකමතික තීන්දුවක් ලෙසිනි.
+Two schoolchildren and another man died of the shooting and more than 50 years were injured.
 
-...
+Army Officers Brigadier Aruna Deshapriya Gunawardena (then Major), Sergeant Aruna's Sirisena, Corporal JM. Tillakaratne and Corporal Lalith Gray, the Attorney General has been indicted in the Gampaha High Court.
+
+The total proceedings of 242 pages was announced for nearly 4 hours, High Court Judge Nimal Ranaweera, Sahan Mapa Bandara and Rushmi Singappuli.
+
+Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated the verdict.
+
+A long trial was carried out on more than 11 years.
+
+◼️
 
 [Data](articles/312fc196.json)
+
+[Extended Data](ext_articles/312fc196.ext.json)
 
 ---
 
@@ -277,6 +353,24 @@ Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP
 [Data](articles/512044c0.json)
 
 [Extended Data](ext_articles/512044c0.ext.json)
+
+---
+
+### CEB records Rs. 88.3 bn profits in 1Q24
+
+*2024-05-18 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-records-Rs-88-3-bn-profits-in-1Q24/108-282872) · `en`
+
+State run Ceylon Electricity Board (CEB) for the first quarter ended 31 March (1Q24) has recorded a profit of Rs. 88.3 billion, which is a 349.8 percent change when compared with the Rs. 35.3 billion loss recorded in the corresponding period in 2023.
+
+The entity generated revenue of Rs. 179 billion in 1Q14. Having provided no concessions to domestic customers, and witnessing a reduction of 28 percent in cost of sales, and a gross profit of Rs. 69 billion was recorded. In 1Q23, the CEB posted a gross loss of Rs. 17 billion.
+
+With contractions in distribution cost (56 percent YoY), other expenses (32.7 percent YoY), and administrative expenses (14 percent YoY), CEB recorded an operating profit of Rs. 97 billion. This is a 608 percent change when compared to the Rs. 19.2 billion operating loss recorded in 1Q23.
+
+While proceeds of interest bearing loans and borrowings recorded Rs. 4.8 billion, repayments of interest bearing loans and borrowings were Rs. 7.8 billion for the 1Q24 period.
+
+...
+
+[Data](articles/248d927f.json)
 
 ---
 
@@ -2125,99 +2219,5 @@ The Governor also asked the US Ambassador to Sri Lanka to cooperate with the exh
 [Data](articles/a55f1be0.json)
 
 [Extended Data](ext_articles/a55f1be0.ext.json)
-
----
-
-### ‘Ice’ worth around Rs. 100mn found inside parcel from Guatemala
-
-*2024-05-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99283/-ice-worth-around-rs-100mn-found-inside-parcel-from-guatemala) · `en`
-
-Sri Lanka Customs have detected a large consignment of ‘Ice’, also known as Crystal Methamphetamine, valued at around Rs. 100 million, which had reportedly arrived in a parcel from Guatemala, through airmail service.
-
-The cache of drugs were found concealed inside a car engine part (pulley) which was contained in the parcel sent to a bonded cargo warehouse attached to a courier service in Seeduwa.
-
-The parcel had been addressed to a 25-year-old farmer residing in the Jayanthipura area of Polonnaruwa. The officers of the Narcotics Control Unit of Sri Lanka Customs had opened the parcel in front of the youth in question, upon his arrival to the warehouse to collect the parcel this afternoon (17).
-
-The Sri Lanka Customs officials later apprehended the suspect, after detecting the drugs concealed inside the parcel.
-
-The street value of the consignment of drugs, weighing 03 kilograms and 101 grams, is estimated to be around Rs. 100 million, according to Sri Lanka Customs.
-
-...
-
-[Data](articles/dcdbc273.json)
-
-[Extended Data](ext_articles/dcdbc273.ext.json)
-
----
-
-### AI New Change in Agriculture with Modern Technology
-
-*2024-05-17 16:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-நவீன-தொழில்நுட்பத்துடன்-விவசாயத்தில்-புதிய-மாற்றம்/175-337457) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe announces plans to revolutionize agriculture with AI and modern tech, inviting private sector collaboration. The initiative targets 100 divisions for modernization, spotlighted during his visit to Kegalle's innovative AI-powered greenhouse.
-
-🟩
-
-President Ranil Wickremesinghe said the government is planning to make a new change in the agriculture of Sri Lanka with modern technology, including artificial intelligence (AI) and is ready to cooperate with the private sector entrepreneurs who are ready.
-
-The President also noted that 100 Divisional Secretariat Divisions have been selected for the agricultural modernization program.
-
-The President said this when he visited the Kegalle area today (17) to visit the Green House, which was built for the first time in Sri Lanka using artificial intelligence technology.. Remble
-
-◼️
-
-[Data](articles/882ea463.json)
-
-[Extended Data](ext_articles/882ea463.ext.json)
-
----
-
-### Mystery package in Mullaitivu
-
-*2024-05-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183797) · `ta`
-
-A mysterious package discovered in Mullaitivu's Pudukkudiyiruppu Nagar sparked excitement. Identified near the Bank of Ceylon, its owner was later located by the police after missing it initially.
-
-🟩
-
-The mysterious package found in Pudukkudiyiruppu Nagar, Mullaitivu, caused a stir in the area.
-
-The mysterious bhadi has been identified near the Bank of Ceylon in Mullaitivu.
-
-Subsequently, the owner of the package had been bought from the police, claiming that the owner of the package had missed the matter while checking the mysterious package of the police who arrived at the scene.
-
-◼️
-
-[Data](articles/91f38173.json)
-
-[Extended Data](ext_articles/91f38173.ext.json)
-
----
-
-### Sri Lanka stocks close down, banks steady
-
-*2024-05-17 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-steady-163491/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.49 percent, or 60.43 points, at 12,319; while the S&P SL20 Index closed up 0.10 percent, or 3.76 points, at 3,637.
-
-Turnover was 1.2 billion. The banks and materials sectors brought in the most revenue.
-
-Dipped Products Plc saw investor interest (Rs115mn) and the share closed up at 33.50.
-
-Janashakthi Insurance Plc saw the most active trade volumes, the share closed down at 53.00.
-
-Banking shares were mostly up, with the exception of Commercial Bank of Ceylon Plc (down at 113.00) and Union Bank of Colombo Plc (down at 10.00).
-
-Hatton National Bank Plc closed flat at 195.00, National Development Bank Plc closed up at 79.00, Sampath Bank Plc closed up at 77.90, DFCC Bank Plc closed up at 80.50.
-
-Top contributors to the index in the day were C T Holdings Plc (up at 277.00), John Keells Holdings Plc (up at 205.25), and Lion Brewery (Ceylon) Plc (up at 1,166.25).
-
-...
-
-[Data](articles/d80a2fef.json)
-
-[Extended Data](ext_articles/d80a2fef.ext.json)
 
 ---

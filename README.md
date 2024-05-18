@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 21:52:49**
+As of **2024-05-18 22:04:48**
 
 ## Newspaper Stats
 
-*Scraped **24,872** Articles*
+*Scraped **24,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,339
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
-adaderanalk | 2,881
+adaderanalk | 2,882
 tamilmirrorlk | 2,909
 virakesarilk | 3,751
 dailymirrorlk | 3,906
@@ -26,39 +26,77 @@ adaderanasinhalalk | 3,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,870 (100.0%) of 24,872 articles have been extended.
+24,872 (100.0%) of 24,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### මත්ද්‍රව්‍ය කිලෝ 400ක් විනාශ කරයි
+### Landslide early warnings issued for four districts
+
+*2024-05-18 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99305/landslide-early-warnings-issued-for-four-districts) · `en`
+
+The National Building and Research Organisation (NBRO), on Saturday (May 18) issued early landslide warnings for several localities in four districts, to be in effect until 04.00 p.m. tomorrow (May 19).
+
+Accordingly, a Level 02 (Amber) alert was issued for the following areas:
+
+Badulla - Ella Divisional Secretariat Division (DSD) and surrounding areas
+
+Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
+
+Badulla – Hali Ela, Badulla, Haputale and Haldummulla DSDs and surrounding areas
+
+Kandy – Ganga Ihala Korale, Pasbage Korale, Udapalatha, Udunuwara and Yatinuwara DSDs and surrounding areas
+
+Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Ytiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
+
+Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
+
+◼️
+
+[Data](articles/549e36e5.json)
+
+---
+
+### 400 kilo of drugs destroying
 
 *2024-05-18 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196767) · `si`
 
-පසුගිය සමයේ නඩු කටයුතු අවසන් වූ මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 400කට ආසන්න ප්‍රමාණයක් අද (18) පස්වරුවේ දහනය කර විනාශ කර තිබේ.
+In the past season, nearly 400kg of narcotics were destroyed. A specialized oven was constructed in Vanathawilluwa, Puttalam by the STF for this purpose.
 
-ඒ පොලිස් විශේෂ කාර්යය බළකායට අයත් පුත්තලම වනාතවිල්ලුව ප්‍රදේශයේ ඉදිකෙරුණු විශේෂ උඳුන තුළදීය.
+🟩
+
+Nearly 400 kilograms of narcotics ended in the past season and destroyed.
+
+The special oven have been built in the Vanathawilluwa, Puttalam belonging to the STF.
 
 ◼️
 
 [Data](articles/35768b42.json)
 
+[Extended Data](ext_articles/35768b42.ext.json)
+
 ---
 
-### குருதேவ் ஸ்ரீ ஸ்ரீ ரவிசங்கரை வரவேற்ற தென்னகோன், செந்தில் தொண்டமான்
+### Gurudev Sri Ravi Shankar welcomed Thennakoon and Senthil Thondaman
 
 *2024-05-18 21:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருதேவ்-ஸ்ரீ-ஸ்ரீ-ரவிசங்கரை-வரவேற்ற-தென்னகோன்-செந்தில்-தொண்டமான்/175-337471) · `ta`
 
-இலங்கை வந்தடைந்த புகழ்பெற்ற ஆன்மீகத் தலைவரும் உலக சமாதான தூதுவருமான குருதேவ் ஸ்ரீ ஸ்ரீ ரவிசங்கர் அவர்களை பாதுகாப்பு இராஜாங்க அமைச்சர் கௌரவ பிரமித்த பண்டார தென்னகோன் இன்று (மே 18) பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து உத்தியோகபூர்வமாக வரவேற்றார்.
+Gurudev Sri Ravi Shankar, a spiritual leader and peace ambassador, was welcomed by Sri Lanka's Minister of Defense Bandara Thennakoon and Governor Senthil Thondaman upon his arrival. He will stay until May 20, attending events including 'Music, Meditation, and Wisdom'.
 
-இந்த வரவேற்கும் நிகழ்வில் கிழக்கு மாகாண ஆளுநர் கௌரவ செந்தில் தொண்டமானும்  இராஜாங்க அமைச்சருடன் வரவேற்றார்.
+🟩
 
-மே 18ஆம் திகதி முதல் 20ஆம் திகதி வரை இலங்கையில் தங்கியிருக்கும் குருதேவ், மே 19ஆம் திகதி கொழும்பு தாஜ் சமுத்திரா ஹோட்டலில் நடைபெறவுள்ள ‘ஏகமுத்துவ: இசை, தியானம் மற்றும் ஞானத்தின் மாலை’ என்ற நிகழ்ச்சியிலும் கலந்துகொள்ளவுள்ளமை குறிப்பிடத்தக்கது. R
+Gurudev Sri Ravi Shankar, a renowned spiritual leader and world peace ambassador to Sri Lanka, was officially welcomed by the Minister of Defense Bandara Thennakoon today (May 18) at the Bandaranaike International Airport.
+
+The Governor of the Eastern Province, Hon. Senthil Thondaman also welcomed the Minister of State.
+
+Gurudev, who is staying in Sri Lanka from May 18 to 20, will also attend the event at the Taj Samudra Hotel, Colombo on May 19, and will also attend the event called 'Music, Meditation and Wisdom'.. Remble
 
 ◼️
 
 [Data](articles/536eb7ff.json)
+
+[Extended Data](ext_articles/536eb7ff.ext.json)
 
 ---
 
@@ -2319,31 +2357,5 @@ Further investigations are being carried out by the person, the Mullaitivu Magis
 [Data](articles/b187bc5c.json)
 
 [Extended Data](ext_articles/b187bc5c.ext.json)
-
----
-
-### May 18 support the Tamil nation as a torch that burns all evil forces
-
-*2024-05-18 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183833) · `ta`
-
-On May 18, the Tamil nation rallies against oppression, commemorating the "May 18 Tamil genocide." The Mullivaikkal Memorial calls for unity and remembrance, urging everyone to join in solidarity with Tamil nationalism. Despite the sorrow, this day symbolizes resistance against divisive politics. People are encouraged to gather without fear, lighting lamps in homes and at the memorial yard, transcending religious barriers. This collective action signifies the strength of the Tamil people, uniting them in defiance against evil forces.
-
-🟩
-
-The Mullivaikkal Memorial is preparing to commemorate the "May 18 Tamil genocide" on Saturday 18th.
-
-Mullivaikkal, the co -chair of the Mullivaikkal General Assembly, said that all the people should come to your support to commemorate and pay tribute to the survivors of Tamil nationalism.
-
-Mullivaikkal made this comment on Friday 17 on the 17th.
-
-This is the identity of Tamil nationalism and politics. Even if it is a weeping day, we consider it a people gathering to defeat the politics of the politics of the weeping.. So if you want to succeed today, the people's power is essential, so we ask people to gather on Saturday 18th without any fear.
-
-At the same time, we are asking for the lamp in your homes and villages to light the lamp in the Mullivaikkal Memorial Yard. Moreover, at 6 pm on Saturday (18), we ask that the sacrifices of the sacrifices of the sacrifices of the sacrifices of all the temples without religious differences.
-
-...
-
-[Data](articles/237a0d79.json)
-
-[Extended Data](ext_articles/237a0d79.ext.json)
 
 ---

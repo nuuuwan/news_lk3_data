@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 14:52:33**
+As of **2024-05-18 15:03:30**
 
 ## Newspaper Stats
 
-*Scraped **24,829** Articles*
+*Scraped **24,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 1,339
 economynextcom | 1,428
 dailyftlk | 1,464
 adalk | 2,117
-adaderanalk | 2,874
-tamilmirrorlk | 2,906
+adaderanalk | 2,875
+tamilmirrorlk | 2,907
 virakesarilk | 3,749
 dailymirrorlk | 3,902
-adaderanasinhalalk | 3,960
+adaderanasinhalalk | 3,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,826 (100.0%) of 24,829 articles have been extended.
+24,829 (100.0%) of 24,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### පාවෙන ජැටිය හරහා ගාසා තීරයට ආධාර
+
+*2024-05-18 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196752) · `si`
+
+අමෙරිකානු හමුදා සෙබළුන් සහ නාවිකයින් දහස් ගණනකගේ සහායෙන් ඩොලර් මිලියන 320ක් වැය කරමින් අමෙරිකාව ගාසා තීරයේ තාවකාලික පාවෙන ජැටියක් ඉදි කිරීම ආරම්භ කළේ පසුගිය අප්‍රේල් මාසයේ දීය.
+
+ඒ අනුව ගාසා තීරයට මානුෂීය ආධාර ප්‍රවාහනය කිරීමේ නව මාර්ගයක් විවර කරමින් එම ජැටිය හරහා පළමු ආධාර තොගය ගාසා තීරය වෙත ළඟාවී තිබේ.
+
+දෛනික ආධාර ටොන් 500ක් ගාසා තීරය වෙත ප්‍රවාහනය කිරීම අමෙරිකාවේ අරමුණය.
+
+ගුවනින් හෝ මුහුදින් පළමුව සයිප්‍රස් වෙත ප්‍රවාහනය කෙරෙන ආධාර අමෙරිකාවේ සහ ඊශ්‍රායලයේ පරීක්ෂාවෙන් පසුව ගාසා වෙරළට ආසන්න පාවෙන ජැටිය වෙත නැව්ගත කෙරෙයි.
+
+දැනට දෛනික ආධාර රැගත් ට්‍රක් රථ 90ක් පමණ මෙම පාවෙන ජැටිය හරහා ප්‍රවාහන කළ හැකි අතර දෛනික ට්‍රක් රථ 150ක් පමණ යැවීමට සැලසුම් කර තිබේ.
+
+කෙසේ වුවද එක්සත් ජාතීන් අවධාරණය කරන්නේ ගාසාහි උද්ගතව ඇති මානුෂීය අර්බුදය පාලනයට නම් දෛනික ට්‍රක් රථ 500ක් පමණ අවශ්‍ය බවය.
+
+මේ අතර ඊශ්‍රායල හමුදා විසින් හමාස් භාරයේ සිටි තවත් ඊශ්‍රායල ප්‍රාණ පකරුවන් තිදෙනෙකුගේ සිරුරු සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/4e469c62.json)
+
+---
+
+### Heavy downpours and strong winds expected during next few days
+
+*2024-05-18 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99298/heavy-downpours-and-strong-winds-expected-during-next-few-days) · `en`
+
+Showery and windy conditions are expected to enhance during the next few days from today, due to pre-monsoonal conditions over the country and surrounding sea areas, the Department of Meteorology said.
+
+In its latest forecast, issued at 12 noon, the department stated that cloudy skies can be expected over most parts of the island.
+
+Meanwhile, showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces and in Mannar district, it added.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 12.00 noon on Sunday (19).
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times in Southern province, the Met. Department added.
+
+...
+
+[Data](articles/4b8706b0.json)
+
+---
+
+### வெள்ளப்பெருக்கு ஏற்படும் அபாயம்
+
+*2024-05-18 14:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளப்பெருக்கு-ஏற்படும்-அபாயம்/175-337469) · `ta`
+
+நிலவும் சீரற்ற வானிலை காரணமாக தெதுரு ஓயா, மஹா ஓயா, அத்தனகலு ஓயா, களனி கங்கை, பெந்தர கங்கை, கிங் கங்கை, நில்வலா கங்கை, கிரம ஓயா, ஊரு பொக்கு ஓயா, கலா ஓயா, மஹாவலி கங்கை மற்றும் மல்வத்து ஓயா குளங்களைச் சூழவுள்ள தாழ்வான பகுதிகளுக்கு வௌ்ளப்பெருக்கு ஏற்படும் அபாயம் நிலவுவதாக அறிவிக்கப்பட்டுள்ளது.
+
+தற்போது பெய்து வரும் கனமழை அடுத்த சில நாட்களுக்கு தொடர்ந்து பெய்யக்கூடும் என வானிலை  மையம் தெரிவித்துள்ளது.
+
+இதேவேளை, ரஜரட்ட பிரதேசத்தில் பெய்து வரும் கடும் மழையினால் ராஜாங்கனை நீர்த்தேக்கத்தின் நீர்மட்டம் 31 அடியாக உயர்ந்துள்ளது.
+
+இதனால் ராஜாங்கனை நீர்த்தேக்கத்தில் 4 வான் கதவுகள் திறக்கப்பட்டு வினாடிக்கு 2,100 கனஅடி வீதம் தண்ணீர் திறக்கப்பட்டுள்ளது.
+
+அங்கமுவ நீர்த்தேக்கத்தின் இரண்டு வான் கதவுகளும் திறக்கப்பட்டுள்ளதாகவும், இதன் காரணமாக தாழ்வான பகுதிகளில் வசிக்கும் மக்கள் இது தொடர்பில் அவதானமாக இருக்குமாறு நீர்த்தேக்கத்திற்கு பொறுப்பான பொறியியலாளர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+...
+
+[Data](articles/759f0ee6.json)
+
+---
 
 ### Mullivaikkal Memorial in Karadivu
 
@@ -52,23 +118,29 @@ Former Member of the Kalmunai Municipal Council KC Sivalingam, P. Selvanayagam, 
 
 ---
 
-### බදු ගෙවීම් පැහැර හරින්නන්ට දැඩි නීති අනුගමනය කරන්නැයි කියයි
+### Tax payers say to follow strict rules
 
 *2024-05-18 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196750) · `si`
 
-මෙරට බ﻿දු ගෙවීම පැහැර හරින මහා පරිමාණ ව්‍යාපාරිකයින්ගේ බදු අය කරගැනීම සඳහා නීතී තවදුරටත් දැඩිව ක්‍රියාත්මක කළ යුතු බව එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පවසයි.
+Leaders call for stricter tax enforcement, including banning bank accounts and requiring digital transactions to increase revenue. Suggestions include digitizing the tax system, reducing human intervention, and combating fraud.
 
-"බදු එකතු කිරීමේ යාන්ත්‍රණය නීති රීති වෙනස් කිරීමෙන් හෝ දැඩිව ක්‍රියාත්මක කළ යුතුයි. බදු පොලුකාරයන්ගේ බැංකු ගිණුම් තහනම් කරන්න අපි නියෝග කළා. අද පාකිස්තානයේ සිම් කාඩ් එකක් ගන්න බැහැ බදු පොලු තිබුණොත්. එවැනි දැඩි පියවර අනුගමනය නොකර මේ බදු එකතු කරන්න බැහැ."
+🟩
 
-මෙහිදී අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමෙන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේ,
+Leader of the United States Champika Ranawaka says that the law should be further enforced to levy the tax of large scale businessmen who are trying to pay the payment of the country.
 
-"බදු ක්‍රමවේදය තවදුරටත් දැඩි කළ යුතුයි. ඒ සඳහා ඩිජිටල්කරණයක් අවශ්‍යයි. මානව මැදිහත්වීම් තුළ ගැටලු වැඩියි. සුරාබදු දෙපාර්තමේන්තුවට නිසි ක්‍රමවේදයක් නැහැ. මත්පැන් ස්ටිකරය කියන්නේ මහා වංචාවක්. මත්පැන් නිෂ්පාදකයින්ගේ බලපත්‍ර නැවත ලබාදුන්නා. හොරකම, වංචාව නතර කරන්න ඩිජිටල්කරණයක් අවශ්‍යයි. අපේ බදු අයකිරීම 5% දක්වා වැඩි කළ හැකියි."
+"Tax collection mechanism should change or strictly operate the rules. We ordered to ban the bank accounts of taxes. Today, SIM card in Pakistan cannot be taken if tax elections. These tax cannot be collected without following such stronger steps. "
 
-ජාතික ජන බලවේගයේ ආර්ථික කවුන්සිලයේ සාමාජික ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා,
+Parliamentarian Harsha de Silva said that he said:
+
+"Tax system should be further strengthened. It requires a digitization. Human interventions are too many problems. There is no proper mechanism to the Excise Department. The alcohol sticker is a great scam. The licenses of alcohol producers were redeemed. Theft, stop the fraud, needs a digitization. Our tax charging can be increased to 5%. "
+
+Member of the Economic Council of the National Power, Dr. Harshana Sooriyapperuma, Member of the Economic Council,
 
 ...
 
 [Data](articles/5e17eaf4.json)
+
+[Extended Data](ext_articles/5e17eaf4.ext.json)
 
 ---
 
@@ -122,17 +194,23 @@ It is reported that the huge kumbukggus collapse on either side of the canal fro
 
 ---
 
-### யாழில் பல்வேறு தரப்பினரை சந்தித்தார் அமெரிக்க தூதுவர்
+### US Ambassador to meet various parties in Jaffna
 
 *2024-05-18 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183860) · `ta`
 
-யாழ்ப்பாண மாவட்டத்திற்கு விஜயம் செய்துள்ள அமெரிக்க தூதுவர் பல்வேறு தரப்பினரையும் சந்தித்து கலந்துரையாடி வருகிறார்.
+US Ambassador Julie Sangh visits Jaffna, meeting religious leaders and fisheries groups.
 
-அதனொரு அங்கமாக நயினாதீவு நாகபூசணி அம்மன் ஆலயம் மற்றும் நயினாதீவு நாகவிகாரைக்கு 16 ஆம் திகதி சென்ற  இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வழிபாடுகளில் ஈடுபட்டதுடன், நெடுந்தீவில் கடற்றொழில் அமைப்புக்களையும் சந்தித்து பேசினார்.
+🟩
+
+The US Ambassador has visited the Jaffna district and is meeting with various parties.
+
+As a part of this, the US Ambassador to Sri Lanka, Julie Sangh, who visited the Nayanadivu Nagabushani Amman Temple and Nainadivu Nagavikara on the 16th, also met with the Fisheries Organizations in Neduntivu.
 
 ◼️
 
 [Data](articles/e43b98c1.json)
+
+[Extended Data](ext_articles/e43b98c1.ext.json)
 
 ---
 
@@ -214,17 +292,25 @@ Krishnapillai Jayasiril, former leader of the Sri Lanka Tamil National Party (TN
 
 ---
 
-### தமிழர்களை நினைவுகூருவதில் அரசின் கட்டுப்பாடுகளும் அடக்குமுறைகளும் பிரயோகிக்கப்படும்போதும் முள்ளிவாய்க்கால் கஞ்சி தயாரித்து பகிர்ந்தளித்தல் நினைவேந்துதலின் வலிமையான செயற்பாடாகும்-ஹாஸ்டக் ஜெனரேசன்
+### Mullivaikkal porridge is the strongest activity of the Mullivaikkal porridge when the government's restrictions and repression are being used to commemorate the Tamils
 
 *2024-05-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183862) · `ta`
 
-தமிழர்களை நினைவுகூருவதில் அரசின் கட்டுப்பாடுகளும் அடக்குமுறைகளும் பிரயோகிக்கப்படும்போதும் முள்ளிவாய்க்கால் கஞ்சி தயாரித்து பகிர்ந்தளித்தல் நினைவேந்துதலின் வலிமையான செயற்பாடாகும்-என ஹாஸ்டக் ஜெனரேசன் தெரிவித்துள்ளது
+Mullivaikkal porridge, made from rice, water, and salt, symbolizes the resilience and unity of Tamil society in Sri Lanka amidst government restrictions. It commemorates the tragic loss and recovery during the country's final war, emphasizing the importance of remembering and honoring the past for future peace and ethnic harmony.
 
-இலங்கை வாழ் தமிழர்களின் கூட்டு நினைவுகளில் முள்ளிவாய்க்கால் கஞ்சி முக்கிய பங்குவகிக்கிறது. இது இலங்கையின் இறுதி யுத்தத்தில் தமிழர்கள் அனுபவித்த சொல்லெண்ணாத் துயரத்தையும், மீண்டெழுதலையும் அடையாளப்படுத்துகிறது. மே 2009, முல்லைத்தீவின் No-fire zone இல் 150,000 - 190,000 வரையான தமிழ்மக்கள் சிக்குண்டிருந்தனர், தொடர் குண்டுத்தாக்குதல்களால் இந்தப்பிரதேசத்தில் பசியும் சாவும் நிறைந்திருந்தது. அரிசியும், தண்ணீரும், கையிருப்பிலிருந்த உப்பும் சேர்த்து தயாரிக்கப்பட்ட இந்தக் கஞ்சி, 15 வருடங்களுக்கு முதல் ஆயிரக்கணக்கான தமிழர்களின் உயிர்காப்பானக இருந்தது. இதுவே ஒரு அடக்கப்பட்ட சமூகத்தின் பிழைத்தலுக்கும் ஒருங்கிணைப்புக்கும் அடையாளமானது.
+🟩
+
+Mullivaikkal porridge is the strongest activity of the Mullivaikkal porridge, even when the government's restrictions and repression are being used to commemorate the Tamils-the Hostel General
+
+Mullivaikkal Kanji plays an important role in the joint memories of Tamils living in Sri Lanka. This symbolizes the tragedy and recovery of Tamils in Sri Lanka's final war. May 2009, in the No -Fire Zone, Mullaitivu, 150,000 - 190,000 Tamils were cooked, with a series of bombshells in the region.. Made with rice, water and salt, the porridge was the lifeblood of thousands of Tamils for 15 years.. This is the symbol of the survival and coordination of a oppressed society.
+
+Mullivaikkal porridge is the strongest activity of making and distributed even when the government's restrictions and repression are being used to commemorate the assassinated and disappeared Tamils.. It emphasizes the united social sentiment of a society, the need of tolerance and understanding.
 
 ...
 
 [Data](articles/a999260e.json)
+
+[Extended Data](ext_articles/a999260e.ext.json)
 
 ---
 
@@ -2159,67 +2245,5 @@ Comprehending the ego and attachment that begins the minds’ first riot
 [Data](articles/403831b2.json)
 
 [Extended Data](ext_articles/403831b2.ext.json)
-
----
-
-### Public-private partnerships and blended finance for climate action
-
-*2024-05-17 20:44:15* · [`dailyftlk`](https://www.ft.lk/columns/Public-private-partnerships-and-blended-finance-for-climate-action/4-761924) · `en`
-
-Public-private partnerships and blended finance facilities can be important tools for accelerating and scaling up climate action
-
-Public-private partnerships (PPPs) and blended finance facilities can be important tools for accelerating and scaling up climate action, particularly in resource-constrained developing countries. These financial frameworks mobilise funds from both public and private sectors to support projects aimed at climate change mitigation, adaptation, and resilience-building.
-
-...
-
-[Data](articles/f9d33ed6.json)
-
-[Extended Data](ext_articles/f9d33ed6.ext.json)
-
----
-
-### 'Mehta Toss Rule' for Indian Premier League Playoffs
-
-*2024-05-17 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mehta-Toss-Rule-for-Indian-Premier-League-Playoffs/108-282833) · `en`
-
-(Daily Mirror) - Dr. Rabindra D. Mehta, an India-origin Sports Aerodynamics Consultant, who, in 1980 used to open the bowling with Imran Khan for the Royal Grammar School in Worcester, and who has researched extensively on swing bowling, has been following the IPL from the USA, where he is now based at.
-
-When the Indian cricket board is considering abolishing the tossing of the coin in local matches, the scientist has expressed his views on how the coin would be advantageous to the well-deserving higher ranking teams only.
-
-"As we approach the end of the regular IPL season, all the teams in contention are vying for the first two spots (seed 1 and seed 2), and for good reason, since they get “two bites at the cherry”! However, what is the advantage of finishing first (as opposed to second)? NONE!! And, for that matter, there is no advantage in finishing third as opposed to fourth."
-
-...
-
-[Data](articles/26993d72.json)
-
-[Extended Data](ext_articles/26993d72.ext.json)
-
----
-
-### Objection to China from Kathryn
-
-*2024-05-17 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196736) · `si`
-
-Kathryn Hourste, a senior US diplomat, is criticized by MP Udaya Gammanpila for her appointment as Sri Lanka's new American Ambassador. The controversy arises amidst the US's removal of Chinese research vessels from Sri Lanka's economic zone.
-
-🟩
-
-The new American Ambassador to Sri Lanka has stated in front of the Senate in the country that the US is continuing to remove Chinese research vessels from the Sri Lanka Economic Shira.
-
-Elizabeth Kathryry Hourste has been named as Sri Lanka's New America Ambassador.
-
-She was a senior diplomat for the Deputy Deputy Assistant Secretary of the US Department of America.
-
-It is in such a background that the USran Khan, who was the Prime Minister of Pakistan.
-
-However, however, however, is the Ambassador to the Sri Lankan Ambassador to the Senathana and Sri Lanka.
-
-However, MP Udaya Gammanpila, a press conference calls for a press conference that Mrs. Elizabeth Horsts should be rejected as Sri Lanka as ambassador to Sri Lanka.
-
-◼️
-
-[Data](articles/76874edf.json)
-
-[Extended Data](ext_articles/76874edf.ext.json)
 
 ---

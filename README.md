@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 10:03:48**
+As of **2024-05-18 10:18:31**
 
 ## Newspaper Stats
 
-*Scraped **24,793** Articles*
+*Scraped **24,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,117
-adaderanalk | 2,868
-tamilmirrorlk | 2,899
+adaderanalk | 2,869
+tamilmirrorlk | 2,902
 virakesarilk | 3,744
 dailymirrorlk | 3,894
 adaderanasinhalalk | 3,954
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,791 (100.0%) of 24,793 articles have been extended.
+24,793 (100.0%) of 24,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### முள்ளிவாய்க்கால் நினைவேந்தல் அனுஷ்டிப்பு
+
+*2024-05-18 10:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-அனுஷ்டிப்பு/175-337464) · `ta`
+
+இறுதிப் போரில் உயிர் நீத்த உறவுகளை நினைவுகூறும் முள்ளிவாய்க்கால் 15 ஆவது ஆண்டு நினைவேந்தல்   சனிக்கிழமை (18) வடக்கு -கிழக்கு   பகுதிகளில் நினைவு கூறப்பட்டு வருகிறது.
+
+அதனடிப்படையில் மன்னாரில்   சனிக்கிழமை(18) காலை 8.30 மணியளவில் முள்ளிவாய்க்கால் நினைவேந்தல் இடம் பெற்றது.
+
+தமிழ் தேசிய வாழ்வுரிமை இயக்கத்தின் ஏற்பாட்டில் அதன் தலைவர் வி.எஸ்.சிவகரன் தலைமையில் மன்னார் பஜார் பகுதியில் உள்ள தந்தை செல்வா சிலை பகுதியில் இடம்பெற்றது.
+
+இதன் போது முள்ளிவாய்க்கால் நினைவேந்தல் பொதுச்சுடரை அருட்தந்தை நவரட்னம்  அடிகளார் ஏற்றி மாலை அணிவித்து நினைவேந்தலை ஆரம்பித்து வைத்தார்.அதனைத் தொடர்ந்து  மக்கள் மலர் தூவி அஞ்சலி செலுத்தினர்.
+
+-அதனைத் தொடர்ந்து மக்களுக்கு முள்ளிவாய்க்கால் நினைவு கஞ்சி வழங்கப்பட்டது.குறித்த நினைவேந்தல் நிகழ்வில் அரசியல் பிரதிநிதிகள்,பொது அமைப்புகளின் பிரதிநிதிகள்,சமூக செயற்பாட்டாளர்கள்,பொதுமக்கள் என பலர் கலந்து கொண்டனர்.
+
+இதேவேளை இறுதிப் போரில் உயிர் நீத்த உறவுகளை நினைவுகூறும் முள்ளிவாய்க்கால் 15 ஆவது ஆண்டு நினைவேந்தலை யொட்டி தமிழ் தேசிய வாழ்வுரிமை இயக்கம் அறிக்கை ஒன்றை விடுத்துள்ளது.
+
+...
+
+[Data](articles/efdf299a.json)
+
+---
+
+### US reiterate steadfast commitment to Sri Lankans seeking justice, equal rights
+
+*2024-05-18 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99293/us-reiterate-steadfast-commitment-to-sri-lankans-seeking-justice-equal-rights) · `en`
+
+The United States assures that it stands in solidarity with all Sri Lankans, reflecting on the resilience and hope for a united future, on the anniversary marking 15 years since the end of Sri Lanka’s war.
+
+Posting on ‘X’ (formerly Twitter), the US Ambassador to Sri Lanka Julie Chung expressed that the US remains a steadfast partner to the Sri Lankan people, including those who continue seeking justice, equal rights, and access to opportunities.
+
+The US Ambassador further reaffirmed their commitment to support Sri Lanka’s journey toward a prosperous and inclusive future that embraces its diversity for sustainable peace and progress.
+
+◼️
+
+[Data](articles/8dc56b0c.json)
+
+---
 
 ### Sri Lankan authorities in Canada in dilemma
 
@@ -48,27 +86,73 @@ Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will 
 
 [Data](articles/79b81eae.json)
 
+[Extended Data](ext_articles/79b81eae.ext.json)
+
 ---
 
-### බහුදින ධීවර යාත්‍රාවක් නැවක ගැටෙයි
+### பொது வேட்பாளரை  ஆராய்கிறோம் என்கிறது டெலோ
+
+*2024-05-18 09:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொது-வேட்பாளரை-ஆராய்கிறோம்-என்கிறது-டெலோ/72-337463) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் மக்கள் சார்பில் பொது வேட்பாளர் விடயம் தொடர்பில் ஆராய்ந்து வருவதுடன் தேசியத்தின்பால் உள்ள தமிழ்
+
+கட்சிகளை ஒன்றிணைக்கும் செயற்பாட்டிலும் டெலோ ஈடுபடுவதாக தமிழீழ விடுதலை இயக்கத்தின் தலைவரும்  எம். பியுமான செல்வம் அடைக்கலநாதன் தெர்வித்தார்.
+
+எமது பூர்வீகம் ஓடுக்கப்படுகின்ற எங்களது தேசத்திலே அதனை மீட்டெடுக்கின்ற வகையிலும் எங்களது நிலங்களை பாதுகாக்கின்ற வகையிலும் எங்களது மக்களுடைய சுவிட்சமான வாழ்வை பெற்றுக் கொடுக்கின்ற வகையிலே தமிழீழ விடுதலை இயக்கம் தனது கடமையினை செய்து கொண்டிருக்கின்றோம்.
+
+தமிழ் ஈழ விடுதலை இயக்கமானது ஒற்றுமையாக தமிழ் கட்சிகளை அணிதிரட்டுகின்ற செயற்பாட்டினை முன்னெடுத்து வருவதோடு தேசியத்தினை நேசிக்கின்ற ஏனைய கட்சிகளினை உள்வாங்குவதற்கான பேச்சு வார்த்தையை ஆரம்பித்திருக்கின்றோம்.
+
+அந்த வகையிலே எமது மக்களிற்காகவும், மண்ணிற்காக துப்பாக்கி ஏந்திய நாம் எம் மண்ணையும், மக்களையும் காப்பாற்றும் செயற்பாட்டினை தொடர்ந்து செய்வோம்.
+
+...
+
+[Data](articles/80f19a41.json)
+
+---
+
+### இந்தோனேசியா பறந்தார் ஜனாதிபதி
+
+*2024-05-18 09:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-பறந்தார்-ஜனாதிபதி/175-337462) · `ta`
+
+இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் அழைப்பின் பேரில்> இந்தோனேசியாவின் பாலி நகரில் நடைபெறும் 10 ஆவது உலக நீர் மாநாட்டின் உயர்மட்டக் கூட்டத்தில் கலந்துகொள்வதற்காக ஜனாதிபதி இந்த உத்தியோகபூர்வ பயணத்தை மேற்கொள்கிறார்.
+
+'கூட்டு செழுமைக்கான நீர்' என்ற தொனிப்பொருளில் 10 ஆவது உலக நீர் மாநாடு மே 18 முதல் 20 வரை இந்தோனேசியாவின் பாலி நகரில் நடைபெறவுள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் மே மாதம் 20 ஆம் திகதி மாநாட்டில் விசேட உரையாற்றவுள்ளார்.
+
+இதேவேளை, ஜனாதிபதி ரணில் விக்ரமசிங்க தனது இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தின் போது, இந்தோனேசிய ஜனாதிபதி உள்ளிட்ட அந்நாட்டின் பல உயர்மட்ட பிரதிநிதிகளுடன் இருதரப்பு கலந்துரையாடல்களிலும் ஈடுபடவுள்ளார். R
+
+◼️
+
+[Data](articles/8f354b5e.json)
+
+---
+
+### A multi-day fishing vessel clashes
 
 *2024-05-18 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196743) · `si`
 
-බහුදින ධීවර යාත්‍රාවක් අනතුරට පත්වීමෙන් එහි සිටි එක් ධීවරයෙකු මියගොස් තවත් ධීවරයෙකු අතුරුදන්ව තිබේ.
+In a tragic multi-day fishing vessel accident 47km from Valachchenai Fisheries Harbor, one fisherman died and another went missing during heavy rain. The navy assisted in rescuing the remaining crew members.
 
-පසුගිය 12 වනදා වාලච්චේන ධීවර වරායෙන් ධීවරයින් පස්දෙනෙකු ධීවර කටයුතු සඳහා බහුදින ධීවර යාත්‍රාවකින් මුහුදු ගොස් සිටිය දී වරායේ සිට කිලෝ මීටර් 47ක් පමණ දුරින් මෙම අනතුර සිදුව ඇත.
+🟩
 
-මෙම බහුදින ධීවර යාත්‍රාව ධීවර කටයුතු සිදුකරමින් සිටි ප්‍රදේශයේ පැවති අධික වර්ෂාව හේතුවෙන් ඒ ආසන්යෙන් ගමන් කරමින් තිබූ නැවක ගැටී මෙම අනතුර සිදුව ඇති බවට දැනට සිදු කරන ලද විමර්ශන වලදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+One fisherman was killed and another fisherman missing due to a multi-day fishing vessel accident.
 
-අනතුරින් 47 හැවිරිදි නින්දවූර් ප්‍රදේශයේ පදිංචිකරුවෙකු දියේ ගිලී මියගොස් ඇති අතර 60 හැවිරිදි මුහුදු වෙරළ පාර, ඔලුවිල් හි පදිංචි ව සිටි තවත් පුද්ගලයෙකු අතුරුදන්ව ඇත.
+The accident had occurred about 47 km from the port while five fishermen were traveling from the Valachchenai Fisheries Harbor.
 
-අනෙක් පුද්ගලයින් දෙදෙනා අනතුරින් තුවාල ලබා නොමැති බව සඳහන් වේ.
+Investigations have revealed that the accident had occurred due to heavy rains, which were traveling near the ship in the area where the multi-day fishing vessel was fisheries.
 
-නාවික හමුදාව විසින් වෙනත් ධීවර බෝට්ටුවක සහාය ඇති ව මෙම පුද්ගලයින් බේරා ගැනීමට කටයුතු කර ඇත.
+A 47-year-old resident of the Nindavur resident of the Kiduwur area was drowned and the 60-year-old coast road, Oluvil, had gone missing.
+
+The other two people are not injured in the accident.
+
+The Navy has rescued these people with the assistance of another fishing boat.
 
 ◼️
 
 [Data](articles/b3b24353.json)
+
+[Extended Data](ext_articles/b3b24353.ext.json)
 
 ---
 
@@ -2143,87 +2227,5 @@ The Department of Meteorology urges the public to take steps to reduce the tempo
 [Data](articles/59a8576f.json)
 
 [Extended Data](ext_articles/59a8576f.ext.json)
-
----
-
-### Supreme Global says ropes in Malaysia’s MMAG for SriLankan Airlines bid
-
-*2024-05-17 17:30:00* · [`economynextcom`](https://economynext.com/supreme-global-says-ropes-in-malaysias-mmag-for-srilankan-airlines-bid-163484/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Global says it has roped in Malaysia’s MMAG Aviation Consortium Sdn Bhd (MAC), which has interests in air cargo, for its bid to buy state-run SriLankan Airlines.
-
-“Supreme Global has identified MAC as the ideal partner to guide and support this acquisition, based on MAC’s expertise and recent contracts secured from major carriers like MasKargo and Teleport by AirAsia,” the company said in a statement.
-
-Under the terms of the agreement, MAC will provide freighter aircraft and operational support to establish a cargo feeder network for SriLankan Airlines if Supreme Global and its partners win the bid.
-
-Supreme Global was pre-qualified to conduct due diligence and eventually bid for SriLankan Airlines by Sri Lanka’s State Owned Enterprises Restructuring Unit.
-
-...
-
-[Data](articles/4c66b533.json)
-
-[Extended Data](ext_articles/4c66b533.ext.json)
-
----
-
-### Welgama to see Mahinda
-
-*2024-05-17 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196728) · `si`
-
-Mahinda Rajapaksa visited MP Kumara Welgama, indicating a meeting between former Sri Lankan President and the parliamentarian.
-
-🟩
-
-Former President Mahinda Rajapaksa has gone to see MP Kumara Welgama.
-
-◼️
-
-[Data](articles/26b8420a.json)
-
-[Extended Data](ext_articles/26b8420a.ext.json)
-
----
-
-### Traffic advisory issued for tomorrow in Colombo
-
-*2024-05-17 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-advisory-issued-for-tomorrow-in-Colombo/108-282820) · `en`
-
-Colombo, May 17 (Daily Mirror) - In preparation for the National War Heroes' Day ceremony scheduled for Saturday evening (18), police announced that a special traffic plan will be implemented.
-
-Accordingly, from 3:00 p.m. on May 19, entry and exit lanes towards Parliament Road will be closed from Polduwa Junction and Kiyanham Junction.
-
-Hence, motorists are advised to use alternate routes during this time to avoid delays.
-
-◼️
-
-[Data](articles/e085c1fa.json)
-
-[Extended Data](ext_articles/e085c1fa.ext.json)
-
----
-
-### All families are entitled to engage in the commemoration - Julisung
-
-*2024-05-17 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/183800) · `ta`
-
-Julie Sung, US Ambassador to Sri Lanka, emphasized that all families deserve recognition for their lost loved ones, especially those affected by the Terrorism Act post-civil war. She highlighted ongoing threats faced by many families and underscored the importance of peaceful, lasting political solutions.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung said that all families have the right to make their loved ones.
-
-Julie Sung said that the missing families and former militants had met under the Terrorism Act, as it was completed for 15 years after the end of the civil war in Sri Lanka.
-
-He added that many families still face threats in Sri Lanka today.
-
-The US Ambassador to Sri Lanka has said that all families have the right to make their loved ones.
-
-Their stories recall the need for a peaceful durable politics, he said.
-
-◼️
-
-[Data](articles/9ba240ad.json)
-
-[Extended Data](ext_articles/9ba240ad.ext.json)
 
 ---

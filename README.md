@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 10:33:59**
+As of **2024-05-18 10:51:54**
 
 ## Newspaper Stats
 
-*Scraped **24,797** Articles*
+*Scraped **24,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,117
-adaderanalk | 2,869
+adaderanalk | 2,870
 tamilmirrorlk | 2,902
 virakesarilk | 3,744
-dailymirrorlk | 3,894
+dailymirrorlk | 3,896
 adaderanasinhalalk | 3,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,797 (100.0%) of 24,797 articles have been extended.
+24,797 (100.0%) of 24,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lankan fisherman dead, one missing after multi day fishing vessel collides with ship
+
+*2024-05-18 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99294/sri-lankan-fisherman-dead-one-missing-after-multi-day-fishing-vessel-collides-with-ship) · `en`
+
+One Sri Lankan fisherman has been killed while another is reported missing after a multi-day fishing vessel collided with a ship off Valaichchenai, Trincomalee.
+
+Five fishermen had left the Valaichchenai fisheries harbor on May 12 for a multiday fishing trip, whereas the accident took place approximately 47 kilometers off the coast.
+
+Preliminary investigations by the police suggest that the collision was caused by heavy rainfall in the area.
+
+The deceased, a 47-year-old from Nintavur, drowned, while a 60-year-old resident of the Oluvil area is reported missing, according to police. Meanwhile, another fisherman who was onboard the vessel in question and sustained injuries during the accident, has been admitted to Trincomalee Hospital for treatment.
+
+The two remaining fishermen onboard are safe, the police confirmed.
+
+◼️
+
+[Data](articles/b3ff22df.json)
+
+---
 
 ### Mullivaikkal memorial observation
 
@@ -77,6 +97,38 @@ The US Ambassador further reaffirmed their commitment to support Sri Lanka’s j
 [Data](articles/8dc56b0c.json)
 
 [Extended Data](ext_articles/8dc56b0c.ext.json)
+
+---
+
+### Spiritual Leader Gurudev Sri Sri Ravi Shankar to visit Sri Lanka
+
+*2024-05-18 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spiritual-Leader-Gurudev-Sri-Sri-Ravi-Shankar-to-visit-Sri-Lanka/108-282876) · `en`
+
+Colombo, May 18 (Daily Mirror) - Global spiritual leader and peacemaker Gurudev Sri Sri Ravi Shankar will be visitng Sri Lanka from 18th to 20th May, on an invitation from the Prime Minister of Sri Lanka, Dinesh Gunawardena. This is Gurudev’s sixth visit to the country.
+
+As thousands await Gurudev’s arrival in the island nation, during this visit, Gurudev will address a public meeting at an event titled ‘Ekamuthuva: An Evening of Music, Meditation and Wisdom’ at Taj Samudra on 19th May. At the event,12 skill development centers of The Art of Living across the country, will be inaugurated. These centers aim to empower over 5000 youth with skills to make them job-ready. At the same event, Gurudev will also virtually inaugurate The Art of Living Center in Wattala.
+
+...
+
+[Data](articles/eebda376.json)
+
+---
+
+### Arrest of four persons over War Dead Commemoration: Sri Lankan authorities in Canada in dilemma
+
+*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Arrest-of-four-persons-over-War-Dead-Commemoration-Sri-Lankan-authorities-in-Canada-in-dilemma/108-282875) · `en`
+
+Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
+
+Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
+
+An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
+
+Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
+
+...
+
+[Data](articles/6912c580.json)
 
 ---
 
@@ -2175,81 +2227,5 @@ Further, an adjournment Bill put forth by the opposition will be deliberated on 
 [Data](articles/77408c78.json)
 
 [Extended Data](ext_articles/77408c78.ext.json)
-
----
-
-### 10 billion ices arrested
-
-*2024-05-17 17:55:23* · [`adalk`](https://www.ada.lk/breaking_news/පුලියක-තිබූ-කෝටි-10ක-අයිස්-අල්ලයි/11-409698) · `si`
-
-In Polonnaruwa, a 25-year-old farmer received a shipment of 101 grams of ice drugs, which were then confiscated by the local police narcotics unit.
-
-🟩
-
-A large haul of Rs.Have arrested.
-
-The stock of drug was sent to a 25-year-old farmer address in the area in Polonnaruwa.Available.
-
-A large quantity of Ice drug, or Ice weighted 101 grams, or 101 grams weighing 101 grams.
-
-The arrival and the youth who had come to take over them and the youth have been handed over to the police narcotics unit of the Police Narcotics Division.
-
-◼️
-
-[Data](articles/06244dbc.json)
-
-[Extended Data](ext_articles/06244dbc.ext.json)
-
----
-
-### Economic Transformation Bill and Public Financial Mgmt. Bill to be tabled in parliament
-
-*2024-05-17 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99285/economic-transformation-bill-and-public-financial-mgmt-bill-to-be-tabled-in-parliament) · `en`
-
-The Economic Transformation Bill and the Public Financial Management Bill will be presented to the Parliament on Wednesday (22 May), according to the Secretary General of Parliament Kushani Rohanadeera.
-
-Issuing a statement, she said that the Parliament is scheduled to convene on Wednesday (May 22).
-
-This has been decided by the Committee on Parliamentary Business chaired by Speaker Mahinda Yapa Abeywardena, during its meeting held on May 14.
-
-Accordingly, the parliamentary session is scheduled to commence at 9.30 a.m. on Wednesday (May 22) while the Economic Transformation Bill and the Public Financial Management Bill are slated to be presented to the Parliament on that day for the first reading.
-
-The General Secretary further said that the Committee on Parliamentary Business decided to hold the debate on the adjournment motion to be presented by the opposition from 9.45 a.m. to 5.30 p.m.
-
-◼️
-
-[Data](articles/c497cd46.json)
-
-[Extended Data](ext_articles/c497cd46.ext.json)
-
----
-
-### Announcement in the next 36 hours
-
-*2024-05-17 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196729) · `si`
-
-Sri Lanka expects heavy rain and gusty winds over the next 36 hours due to monsoon conditions. The Department of Meteorology warns of showers and thundershowers across various regions, especially in the West, Sabaragamuwa, North-Western, and Northern provinces. Some areas may receive over 100mm of rainfall. Strong winds of 30-40 km/h are also anticipated. The public is advised to prepare for potential lightning and wind-related incidents.
-
-🟩
-
-In the evening of the evening, a rain and wind will be expected in the next few days due to the growing monsoon weather conditions in Sri Lanka.
-
-The Department of Meteorologies issued a weather notification for the next 36 hours.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places after 12 in the rest of the island.
-
-In some places in the Western, Sabaragamuwa, North-Western provinces, in some places, experience at more than 100mm.
-
-There are about 30 and 40 strong winds in times of time.
-
-The Department of Meteorology urges the public to take steps to reduce the temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/59a8576f.json)
-
-[Extended Data](ext_articles/59a8576f.ext.json)
 
 ---

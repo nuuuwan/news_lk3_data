@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 09:52:57**
+As of **2024-05-18 10:03:48**
 
 ## Newspaper Stats
 
-*Scraped **24,791** Articles*
+*Scraped **24,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,117
 adaderanalk | 2,868
 tamilmirrorlk | 2,899
 virakesarilk | 3,744
-dailymirrorlk | 3,893
-adaderanasinhalalk | 3,953
+dailymirrorlk | 3,894
+adaderanasinhalalk | 3,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,791 (100.0%) of 24,791 articles have been extended.
+24,791 (100.0%) of 24,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lankan authorities in Canada in dilemma
+
+*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-authorities-in-Canada-in-dilemma/108-282875) · `en`
+
+Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
+
+Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
+
+An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
+
+Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
+
+...
+
+[Data](articles/79b81eae.json)
+
+---
+
+### බහුදින ධීවර යාත්‍රාවක් නැවක ගැටෙයි
+
+*2024-05-18 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196743) · `si`
+
+බහුදින ධීවර යාත්‍රාවක් අනතුරට පත්වීමෙන් එහි සිටි එක් ධීවරයෙකු මියගොස් තවත් ධීවරයෙකු අතුරුදන්ව තිබේ.
+
+පසුගිය 12 වනදා වාලච්චේන ධීවර වරායෙන් ධීවරයින් පස්දෙනෙකු ධීවර කටයුතු සඳහා බහුදින ධීවර යාත්‍රාවකින් මුහුදු ගොස් සිටිය දී වරායේ සිට කිලෝ මීටර් 47ක් පමණ දුරින් මෙම අනතුර සිදුව ඇත.
+
+මෙම බහුදින ධීවර යාත්‍රාව ධීවර කටයුතු සිදුකරමින් සිටි ප්‍රදේශයේ පැවති අධික වර්ෂාව හේතුවෙන් ඒ ආසන්යෙන් ගමන් කරමින් තිබූ නැවක ගැටී මෙම අනතුර සිදුව ඇති බවට දැනට සිදු කරන ලද විමර්ශන වලදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් 47 හැවිරිදි නින්දවූර් ප්‍රදේශයේ පදිංචිකරුවෙකු දියේ ගිලී මියගොස් ඇති අතර 60 හැවිරිදි මුහුදු වෙරළ පාර, ඔලුවිල් හි පදිංචි ව සිටි තවත් පුද්ගලයෙකු අතුරුදන්ව ඇත.
+
+අනෙක් පුද්ගලයින් දෙදෙනා අනතුරින් තුවාල ලබා නොමැති බව සඳහන් වේ.
+
+නාවික හමුදාව විසින් වෙනත් ධීවර බෝට්ටුවක සහාය ඇති ව මෙම පුද්ගලයින් බේරා ගැනීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/b3b24353.json)
+
+---
 
 ### The President has traveled Indonesia
 
@@ -2185,47 +2225,5 @@ Their stories recall the need for a peaceful durable politics, he said.
 [Data](articles/9ba240ad.json)
 
 [Extended Data](ext_articles/9ba240ad.ext.json)
-
----
-
-### President reveals plans for AI-driven agricultural transformation in Sri Lanka
-
-*2024-05-17 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99284/president-reveals-plans-for-ai-driven-agricultural-transformation-in-sri-lanka) · `en`
-
-President Ranil Wickremesinghe today announced plans to transform Sri Lanka’s agriculture sector using modern technology, including Artificial Intelligence (AI), and to support private sector entrepreneurs interested in this initiative.
-
-He stated that this year, 100 divisional secretariat divisions have been selected for agricultural modernization.
-
-The President made this announcement while observing the first AI -driven greenhouse in Sri Lanka, ‘AiGrow’, built by Dr. Harsha Subhasinghe in Nelumdeniya, Kegalle this morning (17).
-
-◼️
-
-[Data](articles/322f3793.json)
-
-[Extended Data](ext_articles/322f3793.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 299.70/80 to US dollar
-
-*2024-05-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-70-80-to-us-dollar-163495/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.70/80 to the US dollar on Friday, from 300.70/90 the previous day, dealers said. Bond yields were up.
-
-A bond maturing on 15.09.2027 closed up at 10.25/40 percent from 10.20/40 percent.
-
-A bond maturing on 15.03.2028 closed up at 10.65/70 percent 10.55/70 percent.
-
-A bond maturing on 15.09.2029 closed up at 10.90/11.40 percent from 10.85/11.30 percent.
-
-A bond maturing on 15.05.2030 closed up at 11.60/75 percent from 11.55/70 percent.
-
-A bond maturing on 01.10.2032 closed up at 11.85/12.00 percent from 11.75/95 percent. (Colombo/May17/2024)
-
-◼️
-
-[Data](articles/159f796a.json)
-
-[Extended Data](ext_articles/159f796a.ext.json)
 
 ---

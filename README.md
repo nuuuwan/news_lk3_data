@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 08:33:49**
+As of **2024-05-18 08:52:35**
 
 ## Newspaper Stats
 
-*Scraped **24,780** Articles*
+*Scraped **24,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,116
-adaderanalk | 2,866
+adaderanalk | 2,867
 tamilmirrorlk | 2,899
 virakesarilk | 3,742
 dailymirrorlk | 3,889
-adaderanasinhalalk | 3,951
+adaderanasinhalalk | 3,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,779 (100.0%) of 24,780 articles have been extended.
+24,780 (100.0%) of 24,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### ගංගා ආශ්‍රිත පහත් බිම්වල සිටින පිරිසට අනතුරු ඇඟවීම්
+
+*2024-05-18 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196742) · `si`
+
+පවතින වැසි සහිත කාලගුණ තත්ත්වයත් සමඟ ගංගා ආශ්‍රිත පහත් බිම්වල ගංවතුර තත්ත්වයක් ඇති වීමේ අවදානමක් පවතින බව වාරි මාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+අධික තීව්‍රතාවයක් සහිත වර්ෂාපතන තත්ත්වයන් සමඟ නගරාශ්‍රිතව ක්ෂණික ගංවතුර තත්ත්වයන් ඇතිවීමේ අවදානම ද අධික බව එම දෙපාර්තමේන්තුව පෙන්වා දී තිබේ.
+
+වර්ෂාවේ තීව්‍රතාවය හා ප්‍රමාණය මත ගංවතුර තත්ත්වයේ ප්‍රබලතාවය හා අවදානම රඳාපවතින බව වාරි මාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර දිස්ත්‍රික්ක කිහිපයක් සඳහා නිකුත්කර ඇති නාය යෑම් අනතුරු ඇඟවීම් නිවේදනය අද (18) පස්වරු 4 දක්වා දීර්ඝ කළ බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ‌ජ්‍යේෂ්ඨ භූ විද්‍යාඥ ආචාර්ය වසන්ත සේනාධීර මහතා පවසයි.
+
+මේ අතර අධික වර්ෂාපතනයත් සමග ගල් සහ පස් කඳු කඩාවැටීමට ඇති අවදානම හේතුවෙන් ඊයේ (17) රාත්‍රි 8.00 සිට තාවකාලිකව වසා දැමුණු  ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය  අද උදෑසන 06.00 සිට යළි විවෘත කර තිබේ.
+
+◼️
+
+[Data](articles/dea4854a.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-05-18 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99291/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showery and windy conditions are expected to enhance during the next few days from today, due to pre-monsoonal conditions over the country and surrounding sea areas.
+
+Cloudy skies can be expected over most parts of the island, it said.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara-eliya districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 12.00 noon.
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times in Southern province, the department said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7ee272dc.json)
+
+---
+
+### ජනපති ඉන්දුනීසියාව බලා පිටත් ‍වෙයි
+
+*2024-05-18 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196741) · `si`
+
+ඉන්දුනීසියාවේ බාලි හි පැවැත්වෙන 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (18) දිවයිනෙන් පිටත්ව ගියේය.
+
+ඉන්දුනීසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ මහතාගේ ආරාධනයක් මත  ජනාධිපතිවරයා මෙම සංචාරයට එක්වන බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසිය “සාමුහික සෞභාග්‍ය සඳහා ජලය” යන තේමාව යටතේ අද සිට මැයි 20 වන දින දක්වා ඉන්දුනීසියාවේ බාලි හි පැවැත්වීමට නියමිතය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මැයි 20 වනදා සමුළුව අමතා සිය විශේෂ දේශනය සිදුකිරීමට කිරීමට නියමිතව තිබේ.
+
+මේ අතර සිය නිල සංචාරයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දුනීසියානු ජනාධිපතිවරයා ඇතුළු එරට ඉහළ පෙළේ නියෝජිතයන් කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවල නිරත වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5dca69c6.json)
+
+---
 
 ### Sri Lanka mulls forced charges for shopping bags in supermarkets only
 
@@ -51,6 +115,8 @@ It may only apply to supermarkets and not to smaller merchants, however. (Colomb
 ◼️
 
 [Data](articles/12213732.json)
+
+[Extended Data](ext_articles/12213732.ext.json)
 
 ---
 
@@ -2145,69 +2211,5 @@ As many tourists were bathed in the area, many people screamed due to a sudden f
 [Data](articles/c372bd96.json)
 
 [Extended Data](ext_articles/c372bd96.ext.json)
-
----
-
-### China beats US to become India’s largest trading partner
-
-*2024-05-17 16:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-beats-US-to-become-Indias-largest-trading-partner/108-282818) · `en`
-
-May 17 - China has emerged as India's largest trading partner in the FY 2023-24 with $118.4 billion two-way commerce, narrowly edging past the US, according to the data of economic think tank GTRI. The bilateral trade between India and the US stood at $118.3 billion in 2023-24.
-
-Washington was the top trading partner of New Delhi during 2021-22 and 2022-23, the Times of India reported
-
-According to the report, India's exports to China rose by 8.7 per cent to $16.67 billion in the last fiscal. The main sectors which recorded healthy growth in exports to that country include iron ore, cotton yarn/fabrics/madeups, handloom, spices, fruits and vegetables, plastic and linoleum.
-
-Imports from the neighbouring country increased by 3.24 per cent to $101.7 billion.
-
-◼️
-
-[Data](articles/354b169a.json)
-
-[Extended Data](ext_articles/354b169a.ext.json)
-
----
-
-### I ice parcel from Latin America to the farmer to the farmer
-
-*2024-05-17 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196725) · `si`
-
-A drug shipment from Latin America was intercepted by the Customs Drug Administration (IMPL). The package, addressed to a 25-year-old farmer in Polonnaruwa, contained 3 kg of drugs. It was delivered to a hidden location in Katunayake before being seized.
-
-🟩
-
-Customs Drug Administration Units have been arrested by the Customs Drug Administration (IMPL), nearly Rs.
-
-The parcel was sent to the Piyin's hidden Latin state in Katunayake, Katunayake, Katunayake, Katunayake, Katunayake, Katunayake.
-
-The vehicle has been sent to a 25-year-old farmer address in the area in Polonnaruwa Jayanthipura, Polonnaruwa.
-
-There were three kilograms of mummadam, which weighted three kilograms and 101 grams, or 101 grams weighing 101 grams.
-
-The youth was handed over to the officers of Katunayake Airport for further investigations.
-
-◼️
-
-[Data](articles/46e66c23.json)
-
-[Extended Data](ext_articles/46e66c23.ext.json)
-
----
-
-### Special traffic plan for War Heroes’ Day ceremony
-
-*2024-05-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99282/special-traffic-plan-for-war-heroes-day-ceremony) · `en`
-
-The National War Heroes’ Day ceremony is scheduled to be held on Sunday (19) evening at the Parliament Ground and a special traffic plan to be implemented on that day was announced by Police today.
-
-Accordingly, the entry and exit lanes towards Parliament Road are closed from Polduwa Junction and Kiyanham Junction from 03.00 p.m. on May 19.
-
-Accordingly, motorists are advised to use the following alternate routes during the closure of the above road.
-
-◼️
-
-[Data](articles/430d1871.json)
-
-[Extended Data](ext_articles/430d1871.ext.json)
 
 ---

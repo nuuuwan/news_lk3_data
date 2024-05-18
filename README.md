@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 12:33:49**
+As of **2024-05-18 12:51:25**
 
 ## Newspaper Stats
 
-*Scraped **24,810** Articles*
+*Scraped **24,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,428
-dailyftlk | 1,463
+dailyftlk | 1,464
 adalk | 2,117
 adaderanalk | 2,872
 tamilmirrorlk | 2,904
-virakesarilk | 3,744
-dailymirrorlk | 3,898
+virakesarilk | 3,747
+dailymirrorlk | 3,899
 adaderanasinhalalk | 3,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,808 (100.0%) of 24,810 articles have been extended.
+24,810 (100.0%) of 24,815 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,6 +98,44 @@ Organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO) and th
 
 [Data](articles/9ff6f185.json)
 
+[Extended Data](ext_articles/9ff6f185.ext.json)
+
+---
+
+### தமிழர்கள் ஜனாதிபதி தேர்தலை புறக்கணியுங்கள் : இந்திய காவிப் புலனாய்வு தொடர்பில் எச்சரிக்கையாக  இருங்கள் - கஜேந்திரன் எம்.பி வேண்டுகோள்
+
+*2024-05-18 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183857) · `ta`
+
+தமிழ் மக்கள் எதிர்வரும் ஜனாதிபதி தேர்தலை  புறக்கணிக்கும் சபதத்தை  இன்று (18) சனிக்கிழமை  முள்ளிவாய்க்கால் நினைவிடத்தில் நிறைவேற்றுவதற்கு அனைத்து தமிழ் மக்களும் அணி திரள வேண்டும் என தமிழ் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் அழைப்பு விடுத்தார்.
+
+நேற்று வெள்ளிக்கிழமை (17) யாழ்ப்பாணம் நல்லூர் தியாக தீபம் திலீபனின் நினைவிடத்திற்கு முன்னால் அமைக்கப்பட்ட தமிழர் இனப்படுகொலை வரலாற்று நினைவிடத்தை பார்வையிட்ட பின்னர் ஊடகவியலாளர்களுக்கு கருத்துத் தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+
+75 வருட காலமாக ஆட்சி பீடம் ஏறிய எந்த ஒரு அரசாங்கமும் தமிழ் மக்களின் அரசியல் தீர்வு விடயங்களை  முன்னெடுத்துச் செல்லாத நிலையில் தமிழ் மக்கள் எதிர்வரும் ஜனாதிபதி தேர்தலை புறக்கணிக்க வேண்டும்.
+
+2009 ஆம் ஆண்டு முள்ளிவாய்க்காலுடன் இறுதி யுத்தம் நிறைவடைந்த நிலையில் முள்ளிவாய்க்காலில் படுகொலை செய்யப்பட்ட உறவுகளின்  15ஆவது நினைவேந்தல்  இன்று சனிக்கிழமை (18) இடம்பெற உள்ள நிலையில்  அனைத்து தமிழ் மக்களும் எதிர்வரும் ஜனாதிபதி தேர்தலை புறக்கணிக்க வேண்டும் என்ற சபதத்தை எடுக்க வேண்டும்.
+
+...
+
+[Data](articles/18f53db3.json)
+
+---
+
+### Those in low-lying areas requested to be vigilant over floods
+
+*2024-05-18 11:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Those-in-low-lying-areas-requested-to-be-vigilant-over-floods/108-282879) · `en`
+
+Colombo, May 18 (DailyMirror) - People living in low-lying areas along the river basins of Kala Oya, Deduru Oya, Maha Oya, Attanagalu Oya, Kelani Ganga, Kalu Ganga, Gin Ganga, Nilwala Ganga, Bentara Ganga, Kirama Oya and Uruboku Oya are requested to be vigilent over possible floods with the continuous rain during the next few days, the Irrigation Department said.
+
+Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said no such flood situations have been reported from the above-mentioned areas for now.
+
+He mentioned that 75 percent of the water capacity is currently available in general in irrigation reservoirs. But some reservoirs have increased their water capacities by up to 85 percent.
+
+Therefore, there are high possibilities of opening the spillgates of these reservoirs in the catchment areas with higher rainfall in the next few days.
+
+...
+
+[Data](articles/a716e748.json)
+
 ---
 
 ### Restaurant
@@ -144,6 +182,24 @@ Police arrested a civil organizer activist.
 
 ---
 
+### யாழ். இணுவிலில் சுகாதார சீர்கேட்டுடன் உணவகத்தை நடாத்திய மூன்று உரிமையாளர்களுக்கு அபராதம்
+
+*2024-05-18 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183852) · `ta`
+
+யாழ்ப்பாணம், இணுவில் பகுதியில் சுகாதார சீர்கேட்டுடன் உணவகங்களை நடாத்திய உணவாக உரிமையாளர் மூவரை கடுமையாக எச்சரித்த நீதிமன்றம் அவர்களுக்கு 60 ஆயிரம் ரூபாய் தண்டமும் விதித்துள்ளது.
+
+இணுவில் பகுதிக்கான பொது சுகாதார பரிசோதகர் சி. சிவானுஜன் இணுவில் பகுதியில் உள்ள உணவகங்களில் திடீர் சோதனை நடவடிக்கையை மேற்கொண்டார்.
+
+அதன்போது மூன்று உணவகங்கள் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த நிலையில், குறித்த உணவக உரிமையாளர்களுக்கு எதிராக மல்லாகம் நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+
+குறித்த வழக்கு நேற்றைய தினம் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட வேளை தம் மீதான குற்றச்சாட்டுக்களை உரிமையாளர்கள் ஏற்றுக்கொண்டதை அடுத்து, அவர்களை கடுமையாக எச்சரித்த மன்று, 25 ஆயிரம், 15 ஆயிரம் மற்றும் 20 ஆயிரம் ரூபாய் என மூவருக்கும் 60 ஆயிரம் ரூபாய் தண்டம் விதித்தது.
+
+◼️
+
+[Data](articles/bc6aeed6.json)
+
+---
+
 ### Shortage of elephant participation for Kandy Esala Perahera
 
 *2024-05-18 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortage-of-elephant-participation-for-Kandy-Esala-Perahera/108-282877) · `en`
@@ -183,6 +239,24 @@ The remains are placed at the Dambulla hospital morgue and Kekirawa Police are c
 [Data](articles/80f7e571.json)
 
 [Extended Data](ext_articles/80f7e571.ext.json)
+
+---
+
+### யாழ். உடுவில் பகுதியில் மரத்திலிருந்து தவறி விழுந்து இளைஞன் பலி
+
+*2024-05-18 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183847) · `ta`
+
+யாழ்ப்பாணம் உடுவில் பகுதியில் மரத்திலிருந்து தவறிவிழுந்த இளைஞன் ஒருவர் வெள்ளிக்கிழமை (17) உயிரிழந்துள்ளார்.
+
+இதில் ஆலடி உடுவில் மானிப்பாயைச் சேர்ந்த சசிக்குமார் ரூபின்சன் என்ற 20 வயது இளைஞனே உயிரிழந்தவராவார்.
+
+குறித்த இளைஞன் கடந்த 12ஆம் திகதி மாங்கனிகளை பறிப்பதற்காக மாமரமொன்றில் ஏறிய நிலையில் தவறிவிழுந்ததில் சுயநினைவை இழந்து யாழ். போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையிலேயே நேற்றைய தினம் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+மரண விசாரணைகளை திடீர் மரணவிசாரணை அதிகாரி ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனையின் பின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/5dbce4ce.json)
 
 ---
 
@@ -275,6 +349,8 @@ LTL Holdings is a former transformer making unit of the CEB set up with ABB wher
 ...
 
 [Data](articles/cef1c957.json)
+
+[Extended Data](ext_articles/cef1c957.ext.json)
 
 ---
 
@@ -1428,6 +1504,22 @@ Ambassador of Sri Lanka in Brussels Chandana Weerasena briefly explained as to h
 
 ---
 
+### 11th Sancharaka Udawa 2024 kicks off
+
+*2024-05-17 23:50:05* · [`dailyftlk`](https://www.ft.lk/business/11th-Sancharaka-Udawa-2024-kicks-off/34-761945) · `en`
+
+Chief Guest Sri Lanka Tourism Promotion Bureau Chairman Chalaka Gajabahu cutting the ribbon and opening Sancharaka Udawa travel and tourism fair at BMICH yesterday – Pix by Ruwan Walpola
+
+The 11th edition of Sancharaka Udawa, was inaugurated yesterday by Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu alongside Sri Lanka Tourism Development Authority (SLTDA) Chairman Priantha Fernando, SLTDA Director-General Sariffo Deen, Sri Lanka Association of Inbound Tour Operators (SLAITO) President Nishad Wijetunga and industry leaders.
+
+Organised by SLAITO in collaboration with SLTPB, the premier travel and tourism expo will run till 8:00 p.m. tomorrow (18) at the Sirimavo Bandaranaike Exhibition Halls at BMICH, Colombo.
+
+...
+
+[Data](articles/b4115fc5.json)
+
+---
+
 ### Adani Energy Solutions completes acquisition of Essar’s Operational Mahan-Sipat Transmission assets
 
 *2024-05-17 23:46:56* · [`dailyftlk`](https://www.ft.lk/business/Adani-Energy-Solutions-completes-acquisition-of-Essar-s-Operational-Mahan-Sipat-Transmission-assets/34-761944) · `en`
@@ -2107,117 +2199,5 @@ in September, Meta provided regulators with a report on the risks associated wit
 [Data](articles/0ed25ce6.json)
 
 [Extended Data](ext_articles/0ed25ce6.ext.json)
-
----
-
-### Ella–Wellawaya road temporarily closed again
-
-*2024-05-17 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99287/ellawellawaya-road-temporarily-closed-again) · `en`
-
-The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. today (17) until 6.00 a.m. tomorrow (18) due to prevailing inclement weather conditions, the Badulla District Secretary announced.
-
-◼️
-
-[Data](articles/6178eda1.json)
-
-[Extended Data](ext_articles/6178eda1.ext.json)
-
----
-
-### Rathupaswala tragedy that killed three
-
-*2024-05-17 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196733) · `si`
-
-In a landmark ruling, a Sri Lankan High Court acquitted four military personnel involved in the Rathupaswala tragedy of 2013, which resulted in three deaths during a protest against a private factory's waste disposal practices. The trial spanned over 11 years, involving 65 witnesses and covering 242 pages of proceedings. The court found insufficient evidence linking the defendants to direct orders to shoot, despite acknowledging the tragic outcome.
-
-🟩
-
-The three-member High Court Judge Madulla today (16) ordered the acquitted of the four military personnel.
-
-It was after a long trial that was over 11 years.
-
-The people of the area were protesting on August 1, claiming that the waste that leaving a private factor in Gampaha, Gampaha.
-
-Army officers were shot dead to disperse the protests that have been demanded to drink.
-
-Army officers Brigadier Aruna Deshapriya Gunawardena, Sergeant Dingiri Aruna's Sirisena, Corporal JM. Tillakaratne and Corporal Lalith Gray, the Attorney General has been indicted in the Gampaha High Court.
-
-This is in 94 overstandmats, including murder, serious injuries, and minor injuries.
-
-The total proceedings of 242 pages was announced for nearly 4 hours, High Court Judge Nimal Ranaweera, Sahan Mapa Bandara and Rushmi Singappuli.
-
-Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated the verdict.
-
-...
-
-[Data](articles/953b3e44.json)
-
-[Extended Data](ext_articles/953b3e44.ext.json)
-
----
-
-### The government will fully support private entrepreneurs who come forward to farm with modern technology - President
-
-*2024-05-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183817) · `ta`
-
-The Sri Lankan government, led by President Ranil Wickremesinghe, is promoting agricultural modernization through the adoption of advanced technologies like AI. This initiative aims to enhance productivity and sustainability in farming across 100 selected Divisional Secretariats. Private entrepreneurs are encouraged to participate, with the government offering support, training, and financial aid. The focus is on increasing food production to meet the growing population's needs while optimizing yields from limited lands.
-
-🟩
-
-President Ranil Wickremesinghe said the government is planning to bring about a new change in Sri Lankan agriculture with modern technology, including artificial intelligence (AI) and the government will provide the necessary support to the interested private sector entrepreneurs.
-
-The President said that 100 Divisional Secretariats have been selected this year for the Agricultural Modernization Program.. For the first time, the President said that the 25 Divisional Secretariat Divisions and 75 Divisional Secretariats will be provided with the necessary facilities to modernize agriculture.
-
-President Ranil Wickremesinghe said this when he visited the Green House of Dr. Harsha Subasinghe, who built the Vega car built in the Kegalle Nelundeniya area for the first time in Sri Lanka.
-
-Both categories, including the Green House and Open Cultivation, have been carried out in the automated system by AI Grow (AI), which has a 7 year experience in the agricultural sector of the country.
-
-...
-
-[Data](articles/5d36aed4.json)
-
-[Extended Data](ext_articles/5d36aed4.ext.json)
-
----
-
-### 21 sailors including Sri Lankan trapped on Baltimore ship for 7 weeks
-
-*2024-05-17 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/21-sailors-including-Sri-Lankan-trapped-on-Baltimore-ship-for-7-weeks/108-282826) · `en`
-
-May 17 - Twenty-one sailors, 20 from India and one from Sri Lanka, are stuck on board the Dali, a container vessel that collided with the Francis Scott Key Bridge in Baltimore, since March 26 due to the ongoing investigation.
-
-For the last seven weeks, they have been confined to the vessel due to an ongoing probe. With their phones confiscated, they cannot even pay bills for their families back home.
-
-The 21 on board were left without communication for weeks with their families, causing significant hardship for crew members with young children at home, and the outside world, as their mobile phones had been confiscated by the Federal Bureau of Investigation (FBI) as a part of the investigation into the crash.
-
-◼️
-
-[Data](articles/d6d2163d.json)
-
-[Extended Data](ext_articles/d6d2163d.ext.json)
-
----
-
-### Brazil named as hosts for 2027 Women’s World Cup
-
-*2024-05-17 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Brazil-named-as-hosts-for-2027-Womens-World-Cup/108-282824) · `en`
-
-(BBC) - Brazil have been named hosts of the 2027 Women's World Cup after beating a joint bid by Belgium, the Netherlands and Germany (BNG).
-
-They became the first nation to be handed the rights by an open vote, with member associations voting 119 to 78 in favour of Brazil at Fifa's congress in Bangkok on Friday.
-
-It will be the first time a Women's World Cup has been hosted by a South American country.
-
-"We will have the best World Cup in Brazil. Many thanks as well to the BNG bid, who have been fantastic."
-
-Both bids met hosting criteria, but Brazil scored higher on technical aspects covering areas such as stadiums, accommodation, fan zones and transport in a Fifa bid evaluation report.
-
-The United States and Mexico withdrew their joint bid in April, saying they would focus on bidding for the tournament in 2031, while South Africa did the same in November.
-
-...
-
-[Data](articles/b2162744.json)
-
-[Extended Data](ext_articles/b2162744.ext.json)
 
 ---

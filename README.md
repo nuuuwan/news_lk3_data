@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 15:33:52**
+As of **2024-05-18 15:51:48**
 
 ## Newspaper Stats
 
-*Scraped **24,837** Articles*
+*Scraped **24,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,59 @@ adaderanalk | 2,875
 tamilmirrorlk | 2,907
 virakesarilk | 3,749
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,962
+adaderanasinhalalk | 3,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,835 (100.0%) of 24,837 articles have been extended.
+24,837 (100.0%) of 24,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### සරසවි සිසුවියකට හිරිහැර කළ තරුණයන් 06ක් අත්අඩංගුවට
+### හෙට මිලිමීටර් 100 ඉක්මවූ වැස්සක්
+
+*2024-05-18 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196754) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් හෙට (19) දිනය සඳහා වලංගු වන පරිදි නවතම කාලගුණ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ පෙර-මෝසම් කාලගුණික තත්ත්වයේ බලපෑම හේතුවෙන් තද වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බවය.
+
+ඒ අනුව බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බවත්ය.
+
+◼️
+
+[Data](articles/ddb89e97.json)
+
+---
+
+### Six youths arrested for harassment of university student
 
 *2024-05-18 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196753) · `si`
 
+Six youths harassing a university student during a journey from Colombo Fort to Badulla were arrested at Hatton Station. The victim informed her parents about the incident, leading to a police complaint. They are aged between 20 and 30 and reside in Colombo.
+
+🟩
+
 විශ්වවිද්‍යාල සිසුවියකට හිරිහැර සිදුකළ තරුණයන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-කොළඹ කොටුවේ සිට බදුල්ල බලා ගමන් කළ මෙම තරුණයන් 06 දෙනා එම දුම්රියේ ම ගමන් ගත් විශ්වවිද්‍යාල තරුණියකට අවස්ථා කිහිපයක දී හිරිහැර වන ආකාරයෙන් දුම්රිය තුළ හැසිරී ඇති බව වාර්තා වෙයි.
+It is reported that the six youths who were traveling from Colombo Fort to Badulla have been conducted in a bully manner in a bully manner.
 
 අදාළ තරුණිය විසින් මේ පිළිබඳව සිය දෙමව්පියන් දැනුවත් කර පසුව හැටන් පොලිස් ස්ථානයට පැමිණිල්ලක් ද සිදුකර තිබේ.
 
-ඒ අනුව එම පොලිස් නිලධාරීන් කණ්ඩායමක් හැටන් දුම්රිය ස්ථානයේ දී අදාළ තරුණයන් 06 දෙනා අත්අඩංගුවට ගෙන ඇති බව වාර්තා විය.
+Accordingly, the six youths have been arrested at Hatton Station at Hatton Station.
 
 ඔවුන් ශ්‍රී පාද වන්දනාවේ පැමිණ ඇති අතර අවුරුදු 20ත් 30ත් අතර වයස් කාණ්ඩවල පසුවන කොළඹ ප්‍රදේශයේ පදිංචිකරුවන් බවද සඳහන් ය.
 
-සැකකාර තරුණයන්ගෙන් මූලික ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව ඔවුන්ව අද හැටන් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+They are to be produced before the Hatton Magistrate's Court today after the basic statements of the suspect youth.
 
 ◼️
 
 [Data](articles/defbbee6.json)
+
+[Extended Data](ext_articles/defbbee6.ext.json)
 
 ---
 
@@ -73,6 +95,8 @@ The Colombo District, with 5,057 cases, has seen the highest number of infection
 ...
 
 [Data](articles/1ca37d5f.json)
+
+[Extended Data](ext_articles/1ca37d5f.ext.json)
 
 ---
 
@@ -2247,23 +2271,5 @@ The order was issued in the presence of a Supreme Court session of the fundament
 [Data](articles/f5f88100.json)
 
 [Extended Data](ext_articles/f5f88100.ext.json)
-
----
-
-### Insights Of A Tumultuous TV Debate & Airport Assault
-
-*2024-05-17 21:29:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/insights-of-a-tumultuous-tv-debate-airport-assault/) · `en`
-
-The recent video clip capturing a TV debate in Sri Lanka has ignited discussions surrounding the conduct and status of parliamentarians within the country. This video went viral and was commented on by several leading Youtubers. The footage reveals a factional dispute between members of the governing party and representatives from the JVP characterized by intense shouting matches, threats, warnings, and the use of indecent language.
-
-Such heated debates are common, but it appears in this instance, that either these members in the debate were briefed to behave in that fashion or the Governing party does not have any spokespersons, leave alone decency and integrity.
-
-Accessible through the provided link now available in many forms, the video shows a firsthand account of the intensity of the confrontation, shedding light on the underlying dignity and democracy  within Sri Lanka’s political landscape.
-
-...
-
-[Data](articles/5c6fece8.json)
-
-[Extended Data](ext_articles/5c6fece8.ext.json)
 
 ---

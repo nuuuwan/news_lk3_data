@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 20:18:38**
+As of **2024-05-18 20:33:46**
 
 ## Newspaper Stats
 
-*Scraped **24,867** Articles*
+*Scraped **24,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 2,881
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,905
-adaderanasinhalalk | 3,972
+adaderanasinhalalk | 3,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,866 (100.0%) of 24,867 articles have been extended.
+24,867 (100.0%) of 24,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### පොලීසිය පිටුපසට රැගෙන ගොස් සැකකරුවෙකුට අමානුෂික ලෙස පහරදෙයි
+
+*2024-05-18 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196765) · `si`
+
+ශ්‍රී ලංකා පොලීසියේ ලාංඡනය සහිත කමිසයක් පැළඳ සිටිම මුල් කරගනිමින් පොලිස් නිලධාරීන් පිරිසක් පුද්ගලයෙකුට පහරදී තිබේ.
+
+පහරකෑමට ලක්වූයේ වසර 17ක් පොලිස් සේවයේ නියුතුව වැඩ තහනම් වූ හිටපු පොලිස් සැරයන්වරයෙකි.
+
+වසර 17ක් පොලීසියේ සේවය කළ හිටපු සැරයන්වරයාගේ ආදායම් මාර්ගය වූයේ ගොඩනැගිලි ඉදිකිරීම් කොන්ත්‍රාත්කරුවෙකු යටතේ සේවය කිරීමය.
+
+පසුගිය 14වනදා රාත්‍රියේ වැඩ නිමවීමෙන් පසුව ඔහු තවත් කිහිපදෙනකු සමග රාත්‍රි ආහාර ගැනීම සඳහා කොහුවල ආපනශාලාවක් වෙත ගොස් තිබේ.
+
+හිටපු පොලිස් සැරයන්වරයා එවිට පැළඳ සිට තිබුණේ ශ්‍රී ලංකා පොලීසියේ සේවය කරන කාලසීමාව තුළ ලබාගත් පොලිස් නිල ලාංඡනය සහිත ටී ෂර්ටයකි.
+
+එම අවස්ථාවේ පොලිස් නිල ඇඳුමෙන් සිටි නිලධාරීන් දෙදෙනෙකු සහ සිවිල් ඇඳුමෙන් සැරසී සිටි නිලධාරීන් 6 දෙනෙකු පමණ එම ආපනශාලාව තුළ ආහාර ගනිමින් සිට තිබුණි.
+
+පසුව එම නිලධාරීන්, හිටපු පොලිස් සැරයන්වරයාගෙන් පැළඳ සිටි ටී ෂර්ටය සම්බන්ධයෙන් ප්‍රශ්න කර තිබේ.
+
+එහිදී ඔහු පවසා තිබුණේ, තමා වසර 17ක් පොලිස් සේවයේ නිරතව සිටි පුද්ගලයෙකු බවය.
+
+...
+
+[Data](articles/be2de439.json)
+
+---
 
 ### Sri Lanka seeks to draw youth into agri-entrepreneurship with 1.6bn funding
 
@@ -49,6 +75,8 @@ Under the initiative vegetables, fruits, plantation crops, and fish are to be ha
 ◼️
 
 [Data](articles/4768b83e.json)
+
+[Extended Data](ext_articles/4768b83e.ext.json)
 
 ---
 
@@ -2327,29 +2355,5 @@ I have come up with a new job culture. Do you agree with it?Don't want?The media
 [Data](articles/571bf36d.json)
 
 [Extended Data](ext_articles/571bf36d.ext.json)
-
----
-
-### Due to the boycott of the work of non -academic staff, all the university exams are postponed
-
-*2024-05-18 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/183828) · `ta`
-
-University exams postponed due to non-academic staff strike, affecting over 50,000 students. Admission process delayed as well. Education Minister proposes solutions, but strikes continue for the 16th day.
-
-🟩
-
-The University Grants Commission has announced that all examinations of university students have been delayed due to the union struggle by non -academic staff.
-
-As a result, more than 50 thousand university students have been unable to complete their degree during the planned period, said Professor Chandana Udawatta, Vice President of the University Grants Commission.. In addition, the university admission manual, which contains details to apply for the students who have passed the higher level of education this year, is also delaying the issue of issuance.
-
-Meanwhile, Education Minister Susil Premajayantha has already submitted the idea to solve the problems of non -academic staff, the professor said.
-
-However, the Joint organizer of the university trade unions said that the boycott will continue until the demands of non -academic staff are resolved.. Significantly, the union struggle of the non -academic employees was carried out for the 16th day yesterday.
-
-◼️
-
-[Data](articles/b537a9e4.json)
-
-[Extended Data](ext_articles/b537a9e4.ext.json)
 
 ---

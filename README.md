@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 12:18:50**
+As of **2024-05-18 12:33:49**
 
 ## Newspaper Stats
 
-*Scraped **24,808** Articles*
+*Scraped **24,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 252
 dbsjeyarajcom | 252
 newsfirstlk | 363
 islandlk | 1,339
-economynextcom | 1,426
+economynextcom | 1,428
 dailyftlk | 1,463
 adalk | 2,117
 adaderanalk | 2,872
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,806 (100.0%) of 24,808 articles have been extended.
+24,808 (100.0%) of 24,810 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,53 @@ Although no specific gatherings or locations were mentioned in the warnings, the
 
 [Data](articles/648ba723.json)
 
+[Extended Data](ext_articles/648ba723.ext.json)
+
 ---
 
-### இலங்கையர்களின் படகு விபத்து - ஒருவர் மரணம்
+### Sri Lankans boat accident - one death
 
 *2024-05-18 12:00:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இலங்கையர்களின்-படகு-விபத்து-ஒருவர்-மரணம்/73-337466) · `ta`
 
-வாழைச்சேனை துறைமுகத்திலிருந்து ஆழ்கடலுக்கு மீன்பிடிக்கச் சென்ற படகொன்று வெள்ளிக்கிழமை (17) விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In a tragic incident, a fishing boat from Valaichenai collided with another vessel, resulting in one fatality among its six passengers. The accident occurred on Friday, leading to a rescue operation for the missing individual.
 
-கல்முனை பகுதியைச் சேர்ந்த நபரின் இயந்திரப் படகு ஐந்து பேருடன் மீன்பிடிக்க ஆழ்கடலுக்குச் சென்றுள்ளது.
+🟩
 
-படகில் சென்றவர்கள் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டுக் கொண்டிருந்த போது அப்பகுதியால் சென்ற கப்பல் ஒன்று படகுடன் மோதி விபத்துக்குள்ளாகியுள்ளதாக விசாரணைகளின்போது தெரியவந்துள்ளது.
+A boat that was fishing from the port of Valaichenai to the deep sea crashed on Friday (17), police said.
 
-இவ் விபத்தில் படகு கடலில் கவிழ்ந்துள்ளதுடன், அதில் சென்ற ஐவரில் ஒருவர் மரணமடைந்த நிலையில் மீட்கப்பட்டுள்ளதுடன், ஒருவர் கடலில் விழுந்து காணாமல் போயுள்ளார்.
+A man from the Kalmunai area has gone to the deep sea with five people.
 
-காணாமல் போன நபரை தேடும் பணிகள் இடம்பெற்று வருவதுடன், மரணித்தவரின் உடலும், ஏனைய நபர்களையும் கரைக்கு கொண்டுவர நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.  R
+Investigations revealed that a ship carrying a boat crashed into a boat while engaging in fishing activities.
+
+The boat crashed into the sea, and one of the five who had gone into death was rescued and one of them fell into the sea and disappeared.
+
+The search for the missing person is underway and steps are being taken to bring the body and other people to shore.R
 
 ◼️
 
 [Data](articles/61c81fb7.json)
+
+[Extended Data](ext_articles/61c81fb7.ext.json)
+
+---
+
+### Sri Lanka’s ‘Sancharaka Udawa’ tourist fair seeks to involve universities
+
+*2024-05-18 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sancharaka-udawa-tourist-fair-seeks-to-involve-universities-163517/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ‘Sancharaka Udawa’ tourism fair kicked off this week to promote interaction between industry stakeholders and relevant Government bodies, including the Tourist Police, and also universities.
+
+“Several universities, including Colombo, Uva Wellasa, Kelaniya, Sabaragamuwa and Rajarata were given free stalls to facilitate student interaction with industry professionals,” Chairman of the Sancharaka Udawa Organising Committee, Charith De De Alwis said in a statement.
+
+The event takes place today (18) at the BMICH and houses stalls for hoteliers, tour and transport services, with a goal of attracting 10,000 visitors.
+
+Organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO) and the Sri Lanka Tourism Promotion Bureau (SLTPB), the 11th edition of Sancharaka Udawa offers a platform for both B2B and B2C sectors.
+
+“Sancharaka Udawa houses over 170 exhibitors and a footfall of more than 10,000 visitors,” De Alwis said.
+
+...
+
+[Data](articles/9ff6f185.json)
 
 ---
 
@@ -229,6 +257,24 @@ There has been no change in the 15 years after the genocide. There has been no c
 [Data](articles/efdf299a.json)
 
 [Extended Data](ext_articles/efdf299a.ext.json)
+
+---
+
+### Sri Lanka’s CEB sells LTL shares to West Coast IPP for Rs26bn
+
+*2024-05-18 10:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-sells-ltl-shares-to-west-coast-ipp-for-rs26bn-163531/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has sold shares of an affiliate to West Coast Power Company Limited, an independent power producer giving profits of 25.9 billion rupees in the March 2024 quarter, interim accounts showed.
+
+“Twenty-eight percent (28-pct) of share ownership of CEB within LTL Holding’s equity capital has been transferred to West Coast Power Company Ltd for a total consideration of Rs 26 billion as part of a partial settlement of outstanding dues…” the March interim accounts said.
+
+“This transaction resulted in a net gain of Rs25.9 billion rupees which has been recognized and reflected in the ‘Gain from Share Disposal’ in the individual financial statement in CEB.”
+
+LTL Holdings is a former transformer making unit of the CEB set up with ABB where the foreign holding was sold to its management.
+
+...
+
+[Data](articles/cef1c957.json)
 
 ---
 
@@ -624,7 +670,7 @@ The Fund noted that the outcomes of the efforts taken to bring the economy on tr
 
 ---
 
-### Sri Lanka mulls forced charges for shopping bags in supermarkets only
+### Sri Lanka mulls mandating prices for shopping bags in supermarkets
 
 *2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-forced-charges-for-shopping-bags-in-supermarkets-only-163506/) · `en`
 
@@ -2173,51 +2219,5 @@ The United States and Mexico withdrew their joint bid in April, saying they woul
 [Data](articles/b2162744.json)
 
 [Extended Data](ext_articles/b2162744.ext.json)
-
----
-
-### Decision on Bank Deposits of Senior Citizens
-
-*2024-05-17 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196732) · `si`
-
-An investigation committee will present its findings on senior citizens' bank deposits to the President next week. The committee was formed to address concerns over high interest rates due to the economic climate. It aims to regulate around 110,000 accounts held by individuals over 60, especially those managing multiple accounts and deposits from others.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says the report of the investigation committee will be presented to the President next week.
-
-The Minister of State has made this statement when the appointment of the committee appointed to prepare a report on the increase in the interest rate for Senior Citizenships.
-
-The Minister has stated that the interest rate could be depending on the current economic situation.
-
-There are about 11 lakhs of accounts with more than 60 years of age and the need to regulate them.
-
-The same person is particularly discussed in the event of the search for the same person, maintaining several bank accounts, deposit of other parties.
-
-◼️
-
-[Data](articles/2942c971.json)
-
-[Extended Data](ext_articles/2942c971.ext.json)
-
----
-
-### Tree falls on policemen’s motorbike
-
-*2024-05-17 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-falls-on-policemens-motorbike/108-282825) · `en`
-
-May 17 (Daily Mirror) - Two policemen of the Anuradhapura Police Traffic Division riding on a motorcycle were seriously injured when a wayside tree fell on them at Kawarakkulama Junction.
-
-A spokesman for the hospital said one of them was in critical condition due to injuries caused to his spine.
-
-Two PCs, one from the Dambulla police and the other from Maradankdawala  police were injured in this incident.
-
-Police said a group of five police officers were on their way to Anuradhapura on three motorcycles for repairs and maintenance when the PC from Maradankadawala police boarded the ill-fated motorcycle.
-
-◼️
-
-[Data](articles/2d41b4b0.json)
-
-[Extended Data](ext_articles/2d41b4b0.ext.json)
 
 ---

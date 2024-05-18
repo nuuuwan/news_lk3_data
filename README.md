@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 14:18:35**
+As of **2024-05-18 14:33:34**
 
 ## Newspaper Stats
 
-*Scraped **24,824** Articles*
+*Scraped **24,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 1,428
 dailyftlk | 1,464
 adalk | 2,117
 adaderanalk | 2,874
-tamilmirrorlk | 2,905
+tamilmirrorlk | 2,906
 virakesarilk | 3,747
-dailymirrorlk | 3,901
+dailymirrorlk | 3,902
 adaderanasinhalalk | 3,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,823 (100.0%) of 24,824 articles have been extended.
+24,824 (100.0%) of 24,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### காரைதீவில் முள்ளிவாய்க்கால் நினைவேந்தல்
+
+*2024-05-18 14:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காரைதீவில்-முள்ளிவாய்க்கால்-நினைவேந்தல்/175-337468) · `ta`
+
+இலங்கை தமிழரசுக் கட்சியின் காரைதீவு  பிரதேச சபையின் முன்னாள் தவிசாளருமான கிருஷ்ணபிள்ளை ஜெயசிறிலின் ஏற்பாட்டில் இந் நினைவேந்தல் நிகழ்த்தப்பட்டது.
+
+நிகழ்வில் கல்முனை மாநகர சபை முன்னாள் உறுப்பினர்களான க.சிவலிங்கம், பொ.செல்வநாயகம், திருமதி சுமித்ரா, காரைதீவு பிரதேச சபையின் முன்னாள் உறுப்பினர் த. மோகனதாஸ், ஆலய தர்மகர்த்தா த.சிவகுமார் ,சமூக செயற்பாட்டாளர் வினாயகம் விமலநாதன் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/bca392f0.json)
+
+---
 
 ### Adani wind energy project challenged in Sri Lanka’s Supreme Court
 
@@ -2219,29 +2233,5 @@ I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silv
 [Data](articles/5e1b9474.json)
 
 [Extended Data](ext_articles/5e1b9474.ext.json)
-
----
-
-### Police shortage of 22000 officers
-
-*2024-05-17 20:34:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියට-නිලධාරින්-22000කගේ-හිඟයක්/11-409699) · `si`
-
-Due to a severe shortage of 22,000 police officers across the island, recruitment is delayed due to unfavorable conditions. The Public Defense Minister expects official recruitments to commence next year.
-
-🟩
-
-According to the Public Defense Minister Tiran Alles said there was a shortage of 22,000 police officers in all police stations in the island.
-
-The Minister said that it is impossible to take new recruits in the face of the bad enatient environment in the country.
-
-Tiran Alles added that the official recruitments will be made by next year, Mr. Tiran Alles added.
-
-Mr. Alles said this at a seminar held at the Jayawardenapura Monoch Imperial Hotel today (17) at the Jayawardenaph Imperial Hotel.
-
-◼️
-
-[Data](articles/d1cc7bda.json)
-
-[Extended Data](ext_articles/d1cc7bda.ext.json)
 
 ---

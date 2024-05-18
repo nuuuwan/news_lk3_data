@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 18:10:52**
+As of **2024-05-18 18:22:40**
 
 ## Newspaper Stats
 
-*Scraped **24,852** Articles*
+*Scraped **24,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
 islandlk | 1,339
-economynextcom | 1,431
+economynextcom | 1,433
 dailyftlk | 1,464
-adalk | 2,118
+adalk | 2,120
 adaderanalk | 2,878
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
@@ -26,11 +26,55 @@ adaderanasinhalalk | 3,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,849 (100.0%) of 24,852 articles have been extended.
+24,852 (100.0%) of 24,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### රජයේ නවතම පරිවර්තනය ගැන ජනපති කියයි
+
+*2024-05-18 18:03:12* · [`adalk`](https://www.ada.lk/picture_story/රජයේ-නවතම-පරිවර්තනය-ගැන-ජනපති-කියයි/10-409703) · `si`
+
+නවීන තාක්ෂණය සමඟ නවීන කෘෂිකර්මාන්තයට සූදානම් පෞද්ගලික ව්‍යවසායකයින්ට රජයේ පූර්ණ සහාය ලබා දෙනවා
+
+කෘෂි නවීකරණ වැඩපිළිවෙළ මෙම වසරේ දී ප්‍රාදේශීය ලේකම් කොට්ඨාස 100ක ක්‍රියාත්මක කරනවා.
+
+මූල්‍ය සහාය සහ පුහුණුව ලබා දීමට රජය සූදානම් – කෘත්‍රීම බුද්ධි තාක්ෂණය යොදා ගනිමින් ශ්‍රී ලංකාවේ ප්‍රථම වරට ඉදිකර ඇති හරිතාගාරයේ නිරීක්ෂණ චාරිකාවකට එක්වෙමින් ජනපති පවසයි.
+
+කෘත්‍රීම බුද්ධිය (AI) ඇතුළු නවීන තාක්ෂණය සමඟ මෙරට කෘෂිකර්මාන්තයේ නව පරිවර්තනයක් සිදු කිරීමට රජය සැලසුම් කර තිබෙන බවත්, ඒ සඳහා කැමැත්තක් දක්වන පෞද්ගලික අංශයේ ව්‍යවසායකයින්ට අවශ්‍ය සහාය ලබා දීමට රජය කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+කෘෂි නවීකරණ වැඩපිළිවෙළ සඳහා මෙම වසරේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 100ක් තෝරාගෙන ඇති අතර එහි පළමු අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 25කට අවශ්‍ය පහසුකම් සැපයීමට කටයුතු කරන බවත්, දෙවන අදියර යටතේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 75ක් නවීන කෘෂිකර්මාන්තය සඳහා යොදා ගන්නා බවත් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/56fe1a76.json)
+
+---
+
+### Sri Lanka Navy nabs fishermen engaged in illegal fishing
+
+*2024-05-18 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-nabs-fishermen-engaged-in-illegal-fishing-163558/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Navy apprehended eight persons engaged in illegal fishing in the seas off Ambalanpokkanei, Mullaitivu, Poduwakattu, and Trincomalee, this week.
+
+“The operations also led to the seizure of 3 dinghies and unauthorized fishing gear employed for these illegal acts,” it said in a statement.
+
+“The Sri Lanka Navy remains vigilant and conducts operations to combat illegal fishing in its sea and coastal areas, with a view to supporting legal fishing activities.”
+
+The fishermen were engaging in light-coarse fishing and using unauthorized fishing nets.
+
+They were intercepted by the SLNS Gotabaya and SLNS Walagamba of the Eastern Naval Command.
+
+The individuals were identified as residents of Mullaitivu, Kuchchaveli and Poduwakattu, aged between 21 to 53 years.
+
+The fishermen, dinghies and unauthorized fishing gear were handed over to the Assistant Directorate of Fisheries – Mullaitivu, and the Fisheries Inspector of Trincomalee for legal action, the Navy said. (Colombo/May18/2024)
+
+◼️
+
+[Data](articles/13d9c84f.json)
+
+---
 
 ### Sri Lanka falls short on 19 transparency and legislative commitments to IMF programme - report
 
@@ -46,29 +90,39 @@ The summary of commitments that are not yet due include publishing implementatio
 
 [Data](articles/f13b284a.json)
 
+[Extended Data](ext_articles/f13b284a.ext.json)
+
 ---
 
-### නායයෑම් ගැන අලුත් අනතුරු ඇඟවීමක්
+### New warning about landslides
 
 *2024-05-18 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196761) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් දිස්ත්‍රික් කිහිපයක පුද්ගලයින් පීඩාවට පත්වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Heavy rains and strong winds have triggered landslides affecting 47 individuals across 11 families, damaging homes in Ratnapura and causing partial damage in Rambukkana. The National Building Research Organization issued landslide warnings for high-risk areas in Badulla, Kandy, Kegalle, and Ratnapura districts, effective from 4:00 PM today until tomorrow.
 
-අධික වර්ෂාව, තද සුළං සහ නායයෑම් හේතුවෙන් මහනුවර දිස්ත්‍රික්කයේ පවුල් 11කට අයත් පුද්ගලයින් 47 දෙනෙකු පීඩාවට පත්වී ඇති අතර නිවාස 11කට අර්ධ හානි සිදුවී ඇති බව එම මධ්‍යස්ථානය සඳහන් කළේය.
+🟩
 
-රත්නපුර දිස්ත්‍රික්කයේ නිවාස 04කට හානි සිදුවී ඇති අතර පුද්ගලයින් 21 දෙනෙකු පීඩාවට පත්වී තිබේ.
+The Disaster Management Center (DMC) says that due to the inclement weather conditions, several districts have been affected.
 
-කෑගල්ල, රඹුක්කන ප්‍රදේශයේ ගසක් කඩා වැටීමෙන් නිවසකට අර්ධ හානි සිදුවී ඇති බව සඳහන්ය.
+47 persons belonging to 11 families have been affected by heavy rains, strong winds and landslides.
 
-මේ අතර ප්‍රදේශ රැසකට ඇදහැලෙන අධික වර්ෂාවත් සමග නායයෑම් අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+4 houses in the Ratnapura District have been damaged and 21 persons have been affected.
 
-බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාසය සඳහා අනතුරු ඇඟවීමේ මට්ටම 2 යටතේ අවධානයෙන් පුවන්නැයි ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය දැනුම්දෙයි.
+The collapse of a tree in the Rambukkana area in Kegalle was partially damaged.
 
-තවද පළමු අදියරේ නායයෑම් අනතුරු ඇඟවීමක් ද බදුල්ල, මහනුවර, කෑගල්ල, රත්නපුර යන දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා නිකුත් කෙරුණි.
+Meanwhile, the National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
 
-...
+The National Building Research Organization is notified to pay attention to the Ella Divisional Secretariat Division of Badulla District.
+
+The first phase of landslide warning was also released for risky areas in Badulla, Kandy, Kegalle and Ratnapura districts.
+
+That warning announcements today (18). 4:00 to tomorrow (19). The National Building Research Organization (NBRO) says that it will be valid for 4:00.
+
+◼️
 
 [Data](articles/ca6af9ff.json)
+
+[Extended Data](ext_articles/ca6af9ff.ext.json)
 
 ---
 
@@ -91,6 +145,22 @@ According to our correspondent, the Haputale police have informed the drivers to
 [Data](articles/f8a54d88.json)
 
 [Extended Data](ext_articles/f8a54d88.ext.json)
+
+---
+
+### Fifteen years after the end of the war, victims still await justice at Mullivaikkal: Amnesty
+
+*2024-05-18 17:00:00* · [`economynextcom`](https://economynext.com/fifteen-years-after-the-end-of-the-war-victims-still-await-justice-at-mullivaikkal-amnesty-163551/) · `en`
+
+ECONOMYNEXT – Speaking at a commemoration marking the 15th anniversary of the end of Sri Lanka’s internal armed conflict on 18 May 2009, which culminated in the brutal Mullivaikkal offensive where countless civilian lives were lost, Secretary General at Amnesty International Agnès Callamard said:
+
+“Today’s anniversary is a grim reminder of the collective failure of the Sri Lankan authorities and the international community to deliver justice to the many victims of Sri Lanka’s three-decade-long internal armed conflict.
+
+It is sobering to stand in the same place where, 15 years ago, countless civilian lives were lost during the last days of the war.
+
+...
+
+[Data](articles/500139bb.json)
 
 ---
 
@@ -1594,17 +1664,23 @@ The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
 
 ---
 
-### නාවික හමුදාවේ 3146 කට උසස් විම්
+### Navy advanced in 3146
 
 *2024-05-18 07:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-3146-කට-උසස්-විම්/11-409701) · `si`
 
-15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව සන්නද්ධ හමුදා සේනාධිනායක හා ජනාධිපතිවරයාගේ අනුමැතිය ඇතිව, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා විසින් නාවික හමුදාවේ ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයන් 3146 ක් ඊලඟ තරාතිරමට උසස් කර ඇත.
+Navy Admiral Priyantha Perera promoted to 15th Ranger Commerce and President. Commemorating Sri Lanka Navy's heroic war heroes, marking victories and honoring those appointed.
 
-මානුෂීය මෙහෙයුම විජයග්‍රහණයකින් අවසන් කිරීම සඳහා ජීවිත පරිත්‍යාගයෙන් සහ රණක්‍ෂිතයට පත්වෙමින් කටයුතු කල වීරෝධාර රණවිරුවන් අනුස්මරණය කිරීමේ 15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව ශ්‍රී ලංකා නාවික හමුදාවේ නිත්‍ය සහ ස්වේච්ඡා අංශයන්ට අයත් විවිධ තරාතිරම් වල ජ්‍යෙෂ්ඨ සහ කණිෂ්ඨ නාවිකයන් 3146 ක් ඊලඟ තරාතිරම් දක්වා නාවික හමුදාධිපතිගේ නිර්දේශය මත මෙලෙස උසස් කිරීමට නාවික හමුදාව කටයුතු කෙරිණි.
+🟩
+
+Navy Depmiral Priyantha Perayantha Priyantha Perera has been promoted to the 15th Ranger Commerce and the President.
+
+The Sri Lanka Navy's regular and academic sailors of the Sri Lanka Navy to commemorate the heroic war heroes of the Sri Lankan Navy to conclude the heroic war heroes of the Sri Lankan Navy to conclude a victory and the heroic war heroes who have been appointed as a victory.Navy was operating.
 
 ◼️
 
 [Data](articles/a6bf198c.json)
+
+[Extended Data](ext_articles/a6bf198c.ext.json)
 
 ---
 
@@ -2291,59 +2367,5 @@ But Pakistan, who played effectively in the 4th set, won 25 - 14.
 [Data](articles/a9d49345.json)
 
 [Extended Data](ext_articles/a9d49345.ext.json)
-
----
-
-### Organic Agriculture To “Biodynamic Farming”
-
-*2024-05-18 00:30:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/organic-agriculture-to-biodynamic-farming/) · `en`
-
-Two epic developments which radically changed the face of Agriculture, took place in the latter part of the last century. The first was the technology for converting atmospheric nitrogen to ammonia by the Haber / Bosch process. This technology tapped the abundant (72%) atmospheric nitrogen to link with hydrogen to produce ammonia, which was further processed to produce Ammonium Sulphate and Urea fertilizers.
-
-The second was the production of Calcium Superphosphate. The earliest sources of fertilizer phosphate were guano and bone meal. It was discovered that when bone meal was treated with concentrated Sulfuric acid, to produce the more readily soluble Superphosphate. Rock phosphate became the favoured raw material. The phosphoric product, also contained significant amounts of calcium and sulphur – also important plant nutrients.
-
-...
-
-[Data](articles/068af87a.json)
-
-[Extended Data](ext_articles/068af87a.ext.json)
-
----
-
-### 2024-05-17 (Friday)
-
-### Embassy in Brussels holds “Sri Lanka: Your vital island”, trade and tourism promotion event
-
-*2024-05-17 23:52:05* · [`dailyftlk`](https://www.ft.lk/business/Embassy-in-Brussels-holds-Sri-Lanka-Your-vital-island-trade-and-tourism-promotion-event/34-761946) · `en`
-
-The Embassy of Sri Lanka in Brussels organised an event showcasing Sri Lanka’s recent economic recovery and the emerging economic opportunities, to over 55 participants representing the European Commission, Belgium Government and a cross section of the private sector in Belgium, at the ‘Sri Lanka Residence’ on 15 May.
-
-The networking session of the event provided the participants with the opportunity to interact with the Embassy officials and to discuss much focused future engagements in trade, tourism and investments sectors in detail.
-
-Ambassador of Sri Lanka in Brussels Chandana Weerasena briefly explained as to how Sri Lanka made a remarkable economic recovery after an unprecedented economic crisis, within a short period of time. He also emphasised that Sri Lanka is now ready for deeper economic activities with foreign countries.
-
-...
-
-[Data](articles/72bb798d.json)
-
-[Extended Data](ext_articles/72bb798d.ext.json)
-
----
-
-### 11th Sancharaka Udawa 2024 kicks off
-
-*2024-05-17 23:50:05* · [`dailyftlk`](https://www.ft.lk/business/11th-Sancharaka-Udawa-2024-kicks-off/34-761945) · `en`
-
-Chief Guest Sri Lanka Tourism Promotion Bureau Chairman Chalaka Gajabahu cutting the ribbon and opening Sancharaka Udawa travel and tourism fair at BMICH yesterday – Pix by Ruwan Walpola
-
-The 11th edition of Sancharaka Udawa, was inaugurated yesterday by Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu alongside Sri Lanka Tourism Development Authority (SLTDA) Chairman Priantha Fernando, SLTDA Director-General Sariffo Deen, Sri Lanka Association of Inbound Tour Operators (SLAITO) President Nishad Wijetunga and industry leaders.
-
-Organised by SLAITO in collaboration with SLTPB, the premier travel and tourism expo will run till 8:00 p.m. tomorrow (18) at the Sirimavo Bandaranaike Exhibition Halls at BMICH, Colombo.
-
-...
-
-[Data](articles/b4115fc5.json)
-
-[Extended Data](ext_articles/b4115fc5.ext.json)
 
 ---

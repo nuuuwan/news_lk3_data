@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 18:34:14**
+As of **2024-05-18 18:52:05**
 
 ## Newspaper Stats
 
-*Scraped **24,859** Articles*
+*Scraped **24,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 2,879
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,904
-adaderanasinhalalk | 3,969
+adaderanasinhalalk | 3,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,856 (100.0%) of 24,859 articles have been extended.
+24,859 (100.0%) of 24,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### ඇල්ල - වැල්ලවාය මාර්ගය යළිත් වැසෙයි
+
+*2024-05-18 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196762) · `si`
+
+ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය අද (18) රාත්‍රී 8 සිට හෙට (19) උදෑසන 6 දක්වා ගමනාගමනය සඳහා වසා තැබීමට යළිත් තීරණය කර තිබේ.
+
+අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම තීරණය ගත් බව දිස්ත්‍රික් ලේකම්වරයා පවසයි.
+
+◼️
+
+[Data](articles/698aec64.json)
+
+---
 
 ### Ella–Wellawaya road temporarily closed again tonight
 
@@ -41,6 +55,8 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 ◼️
 
 [Data](articles/146d5927.json)
+
+[Extended Data](ext_articles/146d5927.ext.json)
 
 ---
 
@@ -59,6 +75,8 @@ The Forbes’ list was determined by judges Caldecott Music Group Founder and Gr
 ◼️
 
 [Data](articles/489294b7.json)
+
+[Extended Data](ext_articles/489294b7.ext.json)
 
 ---
 
@@ -166,19 +184,27 @@ That warning announcements today (18). 4:00 to tomorrow (19). The National Build
 
 ---
 
-### ඉදිරි දින කීපයේ දී ප්‍රදේශ රැසකට මිලිමීටර් 100 ඉක්මවා වැසි
+### Showers at 100 mm of areas in the next few days
 
 *2024-05-18 17:35:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කීපයේ-දී-ප්‍රදේශ-රැසකට-මිලිමීටර්-100-ඉක්මවා-වැසි/11-409702) · `si`
 
-ශ්‍රී ලංකාව සහ ඒ  ආශ්‍රිතව මුහුදු ප්‍රදේශවල ඇති වී තිබෙන කැළඹිලි සහගත ස්වභාවය හේතුවෙන්  දිවයිනේ නිරිත දිග ප්‍රදේශවලට අධික වර්ෂාපතනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත. එසේම සුළං තත්ත්වය  දිවයින හරහා විටින් විට පැයට කිලෝමීටර් 30 - 40ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ දක්වා ඇත.
+Heavy rain expected in southwest Sri Lanka, reaching 100mm in Matara districts. Winds at 30-40 km/h. High-risk areas for landslides identified. Flooding, landslides, and sea waves possible. Public urged to prepare for potential disasters, especially in coastal lowlands.
 
-එසේම බස්නාහිර, සබරගමුව, වයඹ පළාත් වලත් ගාල්ල මාතර දිස්ත්‍රික්ක සදහා මිලි මීටර් 100 ක පමණ තද වැසි ඇතිවිය හැකි බව නිවේදනය කර ඇති අතර මෙම තත්වය ඉදිරි දින කීපය තුළ තවදුරටත් වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත.
+🟩
 
-ඊට අමතරව කල්පිටිය සිට කොළව ගාල්ල හම්බන්තොට හරහා මුහුදු ප්‍රදේශ රළුවිය හැකි බවත් මෙම මුහුදු ප්‍රදේශවල සුළගේ වේගය පැයට කිලෝමීටර් 60 ක් 70 ක් දක්වා වැඩිවිය හැකි බවත් නිවේදනය කර ඇත. තද සුළං වැනි ආපදා සිදුවිය හැකි බවත් මේ නිසා ආපදා අවාදානම් අනතුරු ඇගවීම් පිළිබදව නිරන්තර අවධානය යොමු කරන මෙන් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව අවධාරණය කරන ලදී.
+The Department of Meteorology has announced that there is heavy rainfall in the southwest areas of Sri Lanka and in the near future. The wind situation is also available in the island that there will be about 30 to 40 kilometers per hour.
+
+The Department of Meteorology has announced that heavy rains can be reached in the Western, Sabaragamuwa, North Western provinces and 100 mm in Matara districts.
+
+In addition, the sea areas can be reached through Hambantota with Kalpitiya and Galle in Hambantota.. The Department of Meteorology emphasized that disasters such as strong winds and the Department of Meteorology emphasized.
+
+The National Building Research Organization (NBRO) has also issued the District Badulla, Kalutara, Kandy, Kegalle, Kurunegala, Matale, Nuwara Eliya and landslide high risk areas.
 
 ...
 
 [Data](articles/7e74956e.json)
+
+[Extended Data](ext_articles/7e74956e.ext.json)
 
 ---
 
@@ -2329,21 +2355,5 @@ Samagi Jana Balawegaya (SJB) National Organiser Tissa Attanayake on Thursday con
 [Data](articles/536ab9e9.json)
 
 [Extended Data](ext_articles/536ab9e9.ext.json)
-
----
-
-### Rishad’s wife and father-in-law to face indictments in domestic’s death
-
-*2024-05-18 01:03:29* · [`dailyftlk`](https://www.ft.lk/news/Rishad-s-wife-and-father-in-law-to-face-indictments-in-domestic-s-death/56-761948) · `en`
-
-Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegaya (SJB) yesterday during a meeting with SJB leader Sajith Premadasa.  The former Army Commander was also appointed as the Head of the Samagi Ranaviru Balawegaya by Premadasa. Other members of the Samagi Ranaviru Balawegaya, including Major Generals Nissanka Ranawana, Sumith Atapattu and Satyapriya Liyanage were also in attendance.
-
-Colombo Additional Magistrate Harshana Kekunawala on Thursday directed the Attorney General’s Department to proceed with indicting the wife and father-in-law of All Ceylon Makkal Congress (ACMC) Leader MP Rishad Bathiudeen, as well as the person who employed a minor as a domestic aide. This directive follows the tragic incident from 2021 where the young girl was burned to death while working in a house belonging to Bathiudeen.
-
-...
-
-[Data](articles/094a59ea.json)
-
-[Extended Data](ext_articles/094a59ea.ext.json)
 
 ---

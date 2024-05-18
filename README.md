@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 10:51:54**
+As of **2024-05-18 11:03:20**
 
 ## Newspaper Stats
 
-*Scraped **24,800** Articles*
+*Scraped **24,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,117
-adaderanalk | 2,870
+adaderanalk | 2,871
 tamilmirrorlk | 2,902
 virakesarilk | 3,744
 dailymirrorlk | 3,896
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,797 (100.0%) of 24,800 articles have been extended.
+24,800 (100.0%) of 24,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lankan fisherman dead, one missing after trawler collides with ship
+
+*2024-05-18 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99294/sri-lankan-fisherman-dead-one-missing-after-trawler-collides-with-ship) · `en`
+
+One Sri Lankan fisherman has been killed while another is reported missing after a multi-day fishing vessel collided with a ship off Valaichchenai, Trincomalee.
+
+Five fishermen had left the Valaichchenai fisheries harbor on May 12 for a multi-day fishing trip, whereas the accident took place approximately 47 kilometers off the coast.
+
+Preliminary investigations by the police suggest that the collision was caused by heavy rainfall in the area.
+
+The deceased, a 47-year-old from Nintavur, drowned, while a 60-year-old resident of the Oluvil area is reported missing, according to police. Meanwhile, another fisherman who was onboard the vessel in question and sustained injuries during the accident, has been admitted to Trincomalee Hospital for treatment.
+
+The two remaining fishermen onboard are safe, the police confirmed.
+
+◼️
+
+[Data](articles/7d933396.json)
+
+---
 
 ### Sri Lankan fisherman dead, one missing after multi day fishing vessel collides with ship
 
@@ -49,6 +69,8 @@ The two remaining fishermen onboard are safe, the police confirmed.
 ◼️
 
 [Data](articles/b3ff22df.json)
+
+[Extended Data](ext_articles/b3ff22df.ext.json)
 
 ---
 
@@ -112,6 +134,8 @@ As thousands await Gurudev’s arrival in the island nation, during this visit, 
 
 [Data](articles/eebda376.json)
 
+[Extended Data](ext_articles/eebda376.ext.json)
+
 ---
 
 ### Arrest of four persons over War Dead Commemoration: Sri Lankan authorities in Canada in dilemma
@@ -129,6 +153,8 @@ Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will 
 ...
 
 [Data](articles/6912c580.json)
+
+[Extended Data](ext_articles/6912c580.ext.json)
 
 ---
 
@@ -2209,23 +2235,5 @@ The young man was taken to the hospital and the young man's girlfriend and his f
 [Data](articles/da626645.json)
 
 [Extended Data](ext_articles/da626645.ext.json)
-
----
-
-### Economic Transformation Bill to be presented to Parliament on May 22
-
-*2024-05-17 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Economic-Transformation-Bill-to-be-presented-to-Parliament-on-May-22/108-282821) · `en`
-
-Colombo May 17 (Daily Mirror) - The proposed Economic Transformation Bill and Public Finance Management Bill are set to be presented to Parliament on May 22, as announced by the Parliament media unit today.
-
-Party leaders, who convened with Speaker Mahinda Yapa Abeywardena today, reached the decision to introduce the two legislations on the specified date.
-
-Further, an adjournment Bill put forth by the opposition will be deliberated on the same day.
-
-◼️
-
-[Data](articles/77408c78.json)
-
-[Extended Data](ext_articles/77408c78.ext.json)
 
 ---

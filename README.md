@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 10:18:31**
+As of **2024-05-18 10:33:59**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,793 (100.0%) of 24,797 articles have been extended.
+24,797 (100.0%) of 24,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### முள்ளிவாய்க்கால் நினைவேந்தல் அனுஷ்டிப்பு
+### Mullivaikkal memorial observation
 
 *2024-05-18 10:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-அனுஷ்டிப்பு/175-337464) · `ta`
 
-இறுதிப் போரில் உயிர் நீத்த உறவுகளை நினைவுகூறும் முள்ளிவாய்க்கால் 15 ஆவது ஆண்டு நினைவேந்தல்   சனிக்கிழமை (18) வடக்கு -கிழக்கு   பகுதிகளில் நினைவு கூறப்பட்டு வருகிறது.
+On Mullivaikkal's 15th anniversary, commemorations highlighted the ongoing struggle against human rights abuses, oppression, and the lack of justice for victims of the final war. Despite international attention, there's been little progress on key issues like missing persons and human rights violations. Activists worldwide express frustration over the absence of meaningful action towards justice, questioning the sincerity of efforts to address past injustices.
 
-அதனடிப்படையில் மன்னாரில்   சனிக்கிழமை(18) காலை 8.30 மணியளவில் முள்ளிவாய்க்கால் நினைவேந்தல் இடம் பெற்றது.
+🟩
 
-தமிழ் தேசிய வாழ்வுரிமை இயக்கத்தின் ஏற்பாட்டில் அதன் தலைவர் வி.எஸ்.சிவகரன் தலைமையில் மன்னார் பஜார் பகுதியில் உள்ள தந்தை செல்வா சிலை பகுதியில் இடம்பெற்றது.
+Mullivaikkal's 15th anniversary, which commemorates the life -threatening relations in the final war, is commemorated on Saturday (18) in the North and East.
 
-இதன் போது முள்ளிவாய்க்கால் நினைவேந்தல் பொதுச்சுடரை அருட்தந்தை நவரட்னம்  அடிகளார் ஏற்றி மாலை அணிவித்து நினைவேந்தலை ஆரம்பித்து வைத்தார்.அதனைத் தொடர்ந்து  மக்கள் மலர் தூவி அஞ்சலி செலுத்தினர்.
+Accordingly, the Mullivaikkal memorial was held in Mannar on Saturday (18) at 8.30 am.
 
--அதனைத் தொடர்ந்து மக்களுக்கு முள்ளிவாய்க்கால் நினைவு கஞ்சி வழங்கப்பட்டது.குறித்த நினைவேந்தல் நிகழ்வில் அரசியல் பிரதிநிதிகள்,பொது அமைப்புகளின் பிரதிநிதிகள்,சமூக செயற்பாட்டாளர்கள்,பொதுமக்கள் என பலர் கலந்து கொண்டனர்.
+The Tamil National Life Rights Movement was organized by its leader VS Sivakaran in the statue of Father Selva in Mannar Bazaar.
 
-இதேவேளை இறுதிப் போரில் உயிர் நீத்த உறவுகளை நினைவுகூறும் முள்ளிவாய்க்கால் 15 ஆவது ஆண்டு நினைவேந்தலை யொட்டி தமிழ் தேசிய வாழ்வுரிமை இயக்கம் அறிக்கை ஒன்றை விடுத்துள்ளது.
+During this time, Mullivaikkal Nivendal Public Public Public Public Public Public Public Apallar Loading and launching the memorial.
+
+Mullivaikkal commemorates the people.
+
+Meanwhile, Mullivaikkal has issued a report on the 15th anniversary of commemoration of the life -threatening relations in the final war.
+
+There has been no change in the 15 years after the genocide. There has been no change. All of the various issues have been worthless.
 
 ...
 
 [Data](articles/efdf299a.json)
+
+[Extended Data](ext_articles/efdf299a.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ The US Ambassador further reaffirmed their commitment to support Sri Lanka’s j
 ◼️
 
 [Data](articles/8dc56b0c.json)
+
+[Extended Data](ext_articles/8dc56b0c.ext.json)
 
 ---
 
@@ -90,41 +100,55 @@ Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will 
 
 ---
 
-### பொது வேட்பாளரை  ஆராய்கிறோம் என்கிறது டெலோ
+### TELO says we are investigating the general candidate
 
 *2024-05-18 09:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொது-வேட்பாளரை-ஆராய்கிறோம்-என்கிறது-டெலோ/72-337463) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் மக்கள் சார்பில் பொது வேட்பாளர் விடயம் தொடர்பில் ஆராய்ந்து வருவதுடன் தேசியத்தின்பால் உள்ள தமிழ்
+The LTTE is investigating a common candidate for the Tamil people amidst the presidential election. They aim to protect Tamil lands and people, opposing South Sri Lanka forces affecting the Vanni district. Negotiations are underway with Tamil parties to unify efforts. The focus remains on addressing issues affecting Tamils, including potential parliamentary elections. Observations of Mullivaikkal Memorial Day highlight concerns over police actions against tribute events.
 
-கட்சிகளை ஒன்றிணைக்கும் செயற்பாட்டிலும் டெலோ ஈடுபடுவதாக தமிழீழ விடுதலை இயக்கத்தின் தலைவரும்  எம். பியுமான செல்வம் அடைக்கலநாதன் தெர்வித்தார்.
+🟩
 
-எமது பூர்வீகம் ஓடுக்கப்படுகின்ற எங்களது தேசத்திலே அதனை மீட்டெடுக்கின்ற வகையிலும் எங்களது நிலங்களை பாதுகாக்கின்ற வகையிலும் எங்களது மக்களுடைய சுவிட்சமான வாழ்வை பெற்றுக் கொடுக்கின்ற வகையிலே தமிழீழ விடுதலை இயக்கம் தனது கடமையினை செய்து கொண்டிருக்கின்றோம்.
+The presidential election is being investigated on the issue of common candidate on behalf of the Tamil people.
 
-தமிழ் ஈழ விடுதலை இயக்கமானது ஒற்றுமையாக தமிழ் கட்சிகளை அணிதிரட்டுகின்ற செயற்பாட்டினை முன்னெடுத்து வருவதோடு தேசியத்தினை நேசிக்கின்ற ஏனைய கட்சிகளினை உள்வாங்குவதற்கான பேச்சு வார்த்தையை ஆரம்பித்திருக்கின்றோம்.
+The leader of the Liberation Tigers of Tamil Eelam (LTTE). The wealth of the wealthy.
 
-அந்த வகையிலே எமது மக்களிற்காகவும், மண்ணிற்காக துப்பாக்கி ஏந்திய நாம் எம் மண்ணையும், மக்களையும் காப்பாற்றும் செயற்பாட்டினை தொடர்ந்து செய்வோம்.
+The Liberation Tigers of Tamil Eelam (LTTE) is doing its duty in order to restore our people in the country where our natives are running out of the country and protect our lands.
+
+The Tamil Eelam Liberation Movement is united in the process of mobilizing the Tamil parties and has begun negotiations to embrace other parties that love the nationality.
+
+In that way, for our people and for the soil, we will continue the process of protecting our soil and people.
+
+And we will make an effort to stop the activities of the South Sri Lanka forces that eradicate our Vanni district, especially the Vavuniya district.
 
 ...
 
 [Data](articles/80f19a41.json)
 
+[Extended Data](ext_articles/80f19a41.ext.json)
+
 ---
 
-### இந்தோனேசியா பறந்தார் ஜனாதிபதி
+### Indonesia flew the president
 
 *2024-05-18 09:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-பறந்தார்-ஜனாதிபதி/175-337462) · `ta`
 
-இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் அழைப்பின் பேரில்> இந்தோனேசியாவின் பாலி நகரில் நடைபெறும் 10 ஆவது உலக நீர் மாநாட்டின் உயர்மட்டக் கூட்டத்தில் கலந்துகொள்வதற்காக ஜனாதிபதி இந்த உத்தியோகபூர்வ பயணத்தை மேற்கொள்கிறார்.
+Indonesian President Joko Widodo invited President Ranil Wickremesinghe for a two-day visit to attend the 10th World Water Conference in Bali, focusing on 'Water for Joint Prosperity'. The event runs from May 18 to 20, with President Wickremesinghe addressing it on May 20.
 
-'கூட்டு செழுமைக்கான நீர்' என்ற தொனிப்பொருளில் 10 ஆவது உலக நீர் மாநாடு மே 18 முதல் 20 வரை இந்தோனேசியாவின் பாலி நகரில் நடைபெறவுள்ளது.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் மே மாதம் 20 ஆம் திகதி மாநாட்டில் விசேட உரையாற்றவுள்ளார்.
+At the invitation of Indonesian President Joko Vidodo, the President is on the official visit to attend the top meeting of the 10th World Water Conference in Bali, Indonesia.
 
-இதேவேளை, ஜனாதிபதி ரணில் விக்ரமசிங்க தனது இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தின் போது, இந்தோனேசிய ஜனாதிபதி உள்ளிட்ட அந்நாட்டின் பல உயர்மட்ட பிரதிநிதிகளுடன் இருதரப்பு கலந்துரையாடல்களிலும் ஈடுபடவுள்ளார். R
+The 10th World Water Conference will be held in Bali, Indonesia from May 18 to 20 under the theme of 'Water for Joint Prosperity'.
+
+President Ranil Wickremesinghe will address the upcoming conference on May 20.
+
+Meanwhile, President Ranil Wickremesinghe will engage in bilateral discussions with many top representatives of the country, including the Indonesian President, during his two -day official visit.. Remble
 
 ◼️
 
 [Data](articles/8f354b5e.json)
+
+[Extended Data](ext_articles/8f354b5e.ext.json)
 
 ---
 

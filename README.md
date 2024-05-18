@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 22:18:30**
+As of **2024-05-18 22:33:45**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,873 (100.0%) of 24,874 articles have been extended.
+24,874 (100.0%) of 24,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### 13 හැවිරිදි පාසල් සිසුවාටත් පොලීසිය ගැහුවා ද ?
+### Did police too hit the 13-year-old schoolgirl?
 
 *2024-05-18 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196768) · `si`
 
-පොලිස් නිලධාරීන් පිරිසකගේ පහරකෑමට ලක්වූ වයස අවුරුදු 13ක් වූ පාසල් සිසුවෙකු කුරුණෑගල ශික්ෂණ රෝහලට පසුගියදා ඇතුළත් වී තිබුණි.
+A 13-year-old schoolgirl, elected to the Kurunegala Teaching Hospital, claimed she was assaulted by police who stole her air rifle and mobile phone.
 
-සිසුවා පැවසුවේ, වායු රයිෆලයක් සහ ජංගම දුරකථනයක් සොරාගත් බවට පවසමින් පොලීසිය තමන්ට පහරදුන් බවය.
+🟩
 
-"ත්‍රීවීල් එක එලවපු මාමා නම් ගැහුවේ නැහැ. අනිත් අය නම් කටත් මිරුකුවා. දැන් කනට බෙහෙත් දුන්නා."
+The 13-year-old schoolgirl was elected to the Kurunegala Teaching Hospital.
+
+The student said the police were assaulted by the police to be stolen into a air rifle and a mobile phone.
+
+"Uncle of three-wheeler didn't. The other names were mortafa. Now giving medication to the ear. "
 
 ◼️
 
 [Data](articles/b09ab1bd.json)
+
+[Extended Data](ext_articles/b09ab1bd.ext.json)
 
 ---
 

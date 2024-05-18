@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 17:54:13**
+As of **2024-05-18 18:10:52**
 
 ## Newspaper Stats
 
-*Scraped **24,849** Articles*
+*Scraped **24,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,431
 dailyftlk | 1,464
-adalk | 2,117
-adaderanalk | 2,877
+adalk | 2,118
+adaderanalk | 2,878
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,968
+adaderanasinhalalk | 3,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,849 (100.0%) of 24,849 articles have been extended.
+24,849 (100.0%) of 24,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Sri Lanka falls short on 19 transparency and legislative commitments to IMF programme - report
+
+*2024-05-18 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99301/sri-lanka-falls-short-on-19-transparency-and-legislative-commitments-to-imf-programme-report) · `en`
+
+Sri Lanka has not met 30% of its due commitments to the IMF programme by the end of April 2024, which translates to a total of 19 unfulfilled obligations, according to a report by Verité Research.
+
+The report published on PublicFinance.lk, a platform for public finance-related information in Sri Lanka run by Verité Research, revealed that the majority of these unmet commitments pertain to enhancing transparency and enacting legislation.
+
+The summary of commitments that are not yet due include publishing implementation plans for the Anti-Corruption Act, implementation of the amendments to the Banking Act, obtaining Cabinet approval of a strategy to build a VAT (Value Added Tax) refund system and achieving a full repeal of SVAT, with timeline, intermediate steps and ensuring that starting from January 2024, cash transfers under Samurdhi will cease, among others.
+
+...
+
+[Data](articles/f13b284a.json)
+
+---
+
+### නායයෑම් ගැන අලුත් අනතුරු ඇඟවීමක්
+
+*2024-05-18 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196761) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් දිස්ත්‍රික් කිහිපයක පුද්ගලයින් පීඩාවට පත්වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+අධික වර්ෂාව, තද සුළං සහ නායයෑම් හේතුවෙන් මහනුවර දිස්ත්‍රික්කයේ පවුල් 11කට අයත් පුද්ගලයින් 47 දෙනෙකු පීඩාවට පත්වී ඇති අතර නිවාස 11කට අර්ධ හානි සිදුවී ඇති බව එම මධ්‍යස්ථානය සඳහන් කළේය.
+
+රත්නපුර දිස්ත්‍රික්කයේ නිවාස 04කට හානි සිදුවී ඇති අතර පුද්ගලයින් 21 දෙනෙකු පීඩාවට පත්වී තිබේ.
+
+කෑගල්ල, රඹුක්කන ප්‍රදේශයේ ගසක් කඩා වැටීමෙන් නිවසකට අර්ධ හානි සිදුවී ඇති බව සඳහන්ය.
+
+මේ අතර ප්‍රදේශ රැසකට ඇදහැලෙන අධික වර්ෂාවත් සමග නායයෑම් අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාසය සඳහා අනතුරු ඇඟවීමේ මට්ටම 2 යටතේ අවධානයෙන් පුවන්නැයි ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය දැනුම්දෙයි.
+
+තවද පළමු අදියරේ නායයෑම් අනතුරු ඇඟවීමක් ද බදුල්ල, මහනුවර, කෑගල්ල, රත්නපුර යන දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා නිකුත් කෙරුණි.
+
+...
+
+[Data](articles/ca6af9ff.json)
+
+---
 
 ### Haputale closes
 
@@ -1554,6 +1594,20 @@ The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
 
 ---
 
+### නාවික හමුදාවේ 3146 කට උසස් විම්
+
+*2024-05-18 07:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-3146-කට-උසස්-විම්/11-409701) · `si`
+
+15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව සන්නද්ධ හමුදා සේනාධිනායක හා ජනාධිපතිවරයාගේ අනුමැතිය ඇතිව, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා විසින් නාවික හමුදාවේ ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයන් 3146 ක් ඊලඟ තරාතිරමට උසස් කර ඇත.
+
+මානුෂීය මෙහෙයුම විජයග්‍රහණයකින් අවසන් කිරීම සඳහා ජීවිත පරිත්‍යාගයෙන් සහ රණක්‍ෂිතයට පත්වෙමින් කටයුතු කල වීරෝධාර රණවිරුවන් අනුස්මරණය කිරීමේ 15 වන රණවිරු සැමරුම් දිනයට සමඟාමීව ශ්‍රී ලංකා නාවික හමුදාවේ නිත්‍ය සහ ස්වේච්ඡා අංශයන්ට අයත් විවිධ තරාතිරම් වල ජ්‍යෙෂ්ඨ සහ කණිෂ්ඨ නාවිකයන් 3146 ක් ඊලඟ තරාතිරම් දක්වා නාවික හමුදාධිපතිගේ නිර්දේශය මත මෙලෙස උසස් කිරීමට නාවික හමුදාව කටයුතු කෙරිණි.
+
+◼️
+
+[Data](articles/a6bf198c.json)
+
+---
+
 ### 4 troops free from Rathupaswala case
 
 *2024-05-18 07:42:52* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවෙන්-හමුදා-සාමාජිකයන්-4-දෙනා-නිදොස්-කොට-නිදහස්/11-409700) · `si`
@@ -2291,55 +2345,5 @@ Organised by SLAITO in collaboration with SLTPB, the premier travel and tourism 
 [Data](articles/b4115fc5.json)
 
 [Extended Data](ext_articles/b4115fc5.ext.json)
-
----
-
-### Adani Energy Solutions completes acquisition of Essar’s Operational Mahan-Sipat Transmission assets
-
-*2024-05-17 23:46:56* · [`dailyftlk`](https://www.ft.lk/business/Adani-Energy-Solutions-completes-acquisition-of-Essar-s-Operational-Mahan-Sipat-Transmission-assets/34-761944) · `en`
-
-Adani Energy Solutions Ltd. (AESL), one of the largest private transmission and distribution companies in South Asia with a growing smart metering portfolio, has acquired 100% stake in Essar Transco Ltd. after obtaining requisite regulatory and other approvals. The share acquisition is pursuant to definitive agreements signed in June, 2022.
-
-The acquisition covers fully operational 400 kV, 673 ckt km inter-state transmission lines. The project operates under the Central Electricity Regulatory Commission (CERC) regulated return framework and was commissioned on 22 September 2018.
-
-...
-
-[Data](articles/dc4f55d0.json)
-
-[Extended Data](ext_articles/dc4f55d0.ext.json)
-
----
-
-### HNB and 3DH Building Solutions collaborate for seamless financing for generators and elevators
-
-*2024-05-17 23:45:15* · [`dailyftlk`](https://www.ft.lk/business/HNB-and-3DH-Building-Solutions-collaborate-for-seamless-financing-for-generators-and-elevators/34-761943) · `en`
-
-HNB Head of Retail Kanchana Karunagama exchanging the MoU with 3DH Building Solutions Managing Director Hirantha Goonesekara, in the presence of (from left): HNB Assistant Manager – Business Development Leasing Mahesh Ratnayake, HNB Assistant Manager – Leasing Roshan De Silva, HNB Head of Leasing Susith Perera, 3DH Building Solutions Chief Executive Officer Ruwan Fernando, 3DH Building Solutions Head of Business Development S. Narendran, 3DH Building Solutions General Manager – Elevator and Escalators Ajith Siriwardane
-
-Sri Lanka’s leading private sector bank, HNB PLC, has entered into a fresh agreement with 3DH Building Solutions to promote and offer financing solutions for FMT Generators and GLARIE elevators.
-
-Representatives from both organisations graced the occasion to formalise the partnership, with HNB Head of Retail Kanchana Karunagama and 3DH Building Solutions Managing Director Hirantha Goonesekara signing the agreement, in the presence of other representatives at HNB Towers.
-
-...
-
-[Data](articles/5f15554b.json)
-
-[Extended Data](ext_articles/5f15554b.ext.json)
-
----
-
-### Sadaharitha partners with UAE’s Alweena Perfumes to expand global operations with agarwood exports
-
-*2024-05-17 23:42:27* · [`dailyftlk`](https://www.ft.lk/business/Sadaharitha-partners-with-UAE-s-Alweena-Perfumes-to-expand-global-operations-with-agarwood-exports/34-761942) · `en`
-
-Sadaharitha Group, the pioneering force in Sri Lanka’s commercial forestry industry, proudly announces the expansion of its global operations by exporting agarwood-based products to the United Arab Emirates (UAE). This milestone marks a strategic collaboration with Alweena Perfumes, a distinguished premium perfume brand based in the UAE.
-
-Since its inception in 2002, Sadaharitha Group has been at the forefront of revolutionising the agarwood forestry industry in Sri Lanka. With over two decades of accomplishments and a steadfast commitment to sustainable forestry practices, Sadaharitha Group has emerged as the largest agarwood nursery in Southeast Asia, spanning 1,300+ acres and encompassing over 30 estates across the island.
-
-...
-
-[Data](articles/19fe2e8d.json)
-
-[Extended Data](ext_articles/19fe2e8d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 23:53:09**
+As of **2024-05-19 00:04:00**
 
 ## Newspaper Stats
 
-*Scraped **24,875** Articles*
+*Scraped **24,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,882
-tamilmirrorlk | 2,909
+tamilmirrorlk | 2,911
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,976
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,875 (100.0%) of 24,875 articles have been extended.
+24,875 (100.0%) of 24,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### இலங்கை - இந்திய கப்பல் சேவை காலவரையின்றி பிற்போடப்பட்டது
+
+*2024-05-18 23:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-காலவரையின்றி-பிற்போடப்பட்டது/175-337473) · `ta`
+
+நாகப்பட்டினத்திலிருந்து காங்கேசன்துறை வரையான கப்பல் சேவை ஆரம்பிக்கும் திகதி மறு அறிவித்தல் வரை பிற்போடப்பட்டுள்ளதாக இன்று அறிவிக்கப்பட்டுள்ளது.
+
+முன்னதாக குறித்த கப்பல் சேவையை கடந்த 13 ஆம் திகதி ஆரம்பிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டிருந்த நிலையில், சில சட்டரீதியான அனுமதிகள் உள்ளிட்ட காரணங்களால் தாமதம் ஏற்பட்டதுடன் மே மாதம் 19 வரையில் அந்த செயற்பாடு பிற்போடப்பட்டநிலையில் தற்போது மறு அறிவித்தல் வரை பிற்போடப்பட்டுள்ளது.
+
+பழைய கப்பல் என்பதால் சில பாதுகாப்பு குறைபாடுகள் இருப்பதாகவும், அதனை சரி செய்தால் மட்டுமே  உரிய அனுமதி வழங்கப்படும் என தகவல் வெளியாகியுள்ளது.
+
+டிக்கெட் முன்பதிவு செய்தவர்கள், கட்டணத்தை திரும்பப் பெற்றுக்கொள்ளலாம் என  படகுசேவை தனியார் நிறுவனத்தின் முகாமைத்துவம் அறிவித்துள்ளது.
+
+செலுத்திய கட்டணத்தினை முழுமையாக மீளப்பெற விரும்பினால், customer.care@sailindsri.com என்ற மின்னஞ்சல் முகவரியுடன் தொடர்பு கொண்டு செலுத்திய கட்டணத்தினை மீளப்பெற்றுக்கொள்ளலாம் என அறிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ca33b447.json)
+
+---
+
+### நேருக்கு நேர் மோதிய பேருந்துகள் - 26 பேர் படுகாயம்
+
+*2024-05-18 23:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேருக்கு-நேர்-மோதிய-பேருந்துகள்-26-பேர்-படுகாயம்/175-337472) · `ta`
+
+கேகாலை - அவிசாவளை வீதியில் இரண்டு தனியார் பேருந்துகள் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகியதில் 26 பேர் காயமடைந்துள்ளதாகவும், அவர்களில் இருவரின் நிலைமை கவலைக்கிடமாக இருப்பதாகவும் தெரிவிக்கப்படுகின்றது.
+
+இவ்விபத்து அவிசாவளை வீதியில் கொட்டபொல பிரதேசத்தில் நேற்று (18) மாலை 4.00 மணியளவில் இடம்பெற்றுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+கண்டியில் இருந்து அவிசாவளை நோக்கி பயணித்த தனியார் பேருந்து அதிவேகமாக பயணித்த மற்றுமொரு வாகனத்தை முந்திச் செல்ல முற்பட்ட போது இந்த விபத்து ஏற்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+
+காயமடைந்தவர்கள் கேகாலை பொது வைத்தியசாலை மற்றும் தோரணகஹபிட்டிய கிராமிய வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளதாக பிந்தெனிய பொலிஸார் தெரிவித்தனர்.
+
+விபத்துக்குள்ளான பேருந்து ஒன்றின் சாரதி ஆபத்தான நிலையில், உள்ளதாகவும் மற்றையவர் பெண் எனவும் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/910ebfc7.json)
+
+---
 
 ### Did police too hit the 13-year-old schoolgirl?
 
@@ -2323,39 +2363,5 @@ Those crossings were reported in Amana Bank, which crossed 14.5 million shares t
 [Data](articles/c6e3e64f.json)
 
 [Extended Data](ext_articles/c6e3e64f.ext.json)
-
----
-
-### Sri Lanka Navy promotes over 3,000 sailors
-
-*2024-05-18 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-promotes-over-3-000-sailors/108-282874) · `en`
-
-In commemoration of the 15th anniversary of Victory Day, the Sri Lanka Navy has promoted 3,146 senior and junior sailors from the Regular and Voluntary Forces.
-
-The promotions were sanctioned by President and Commander-in-Chief of the Armed Forces, Ranil Wickremesinghe, and executed by the Commander of the Navy, Vice Admiral Priyantha Perera.
-
-◼️
-
-[Data](articles/2e31bd19.json)
-
-[Extended Data](ext_articles/2e31bd19.ext.json)
-
----
-
-### 70th Anniversary of the Historic 55 Day Battle of Ðiên Biên Phú , from March 13 to May 7, 1954. In which  the French Army was catastrophically defeated by the Vietnamese Forces led by Ho Chi Minh and  Võ Nguyên Giáp
-
-*2024-05-18 03:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84053) · `en`
-
-I  had the most salutary email the other day, a reviving lift amid these, humanity’s darkest days, surely, in the memory of anyone living. It was from George Burchett, an Australian painter who resides in Hanoi, the city of his birth.
-
-George was born in Hanoi because he is the offspring of Wilfred Burchett, one of the towering greats among 20th century correspondents. Wilfred is celebrated for many things, one of which is his coverage of Vietnam’s anti-imperialist wars, of which there are two, from the North.
-
-And George wanted to remind those who receive his privately distributed newsletter, People’s Information Bureau, that it is time to mark the 70th anniversary of the victory of the Viêt Minh, Ho Chi Minh’s revolutionary movement, over the French at Ðiên Biên Phú, a valley in the remote highlands hard by the Laotian border in northwestern Vietnam.
-
-...
-
-[Data](articles/b96c3f5a.json)
-
-[Extended Data](ext_articles/b96c3f5a.ext.json)
 
 ---

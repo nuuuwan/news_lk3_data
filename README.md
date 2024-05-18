@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 08:07:20**
+As of **2024-05-18 08:18:31**
 
 ## Newspaper Stats
 
-*Scraped **24,777** Articles*
+*Scraped **24,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,425
 dailyftlk | 1,463
-adalk | 2,115
+adalk | 2,116
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,742
 dailymirrorlk | 3,889
-adaderanasinhalalk | 3,950
+adaderanasinhalalk | 3,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,777 (100.0%) of 24,777 articles have been extended.
+24,779 (100.0%) of 24,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### 15 years for war victory
+
+*2024-05-18 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196740) · `si`
+
+Over 15 years ago, Sri Lanka's military triumphed over the LTTE, ending a brutal conflict. This victory, marked by the defeat of LTTE leader Velupillai Prabhakaran, involved rescuing thousands of civilians in what was then the world's largest humanitarian operation. The event is celebrated annually, with this year's Ranaviru Day festivities set for tomorrow, featuring promotions for naval personnel.
+
+🟩
+
+For more than three decades, the country's LTTE terrorism has been defeated for over 15 years (18).
+
+In May 18, 2009, LTTE leader Velupillai Prabhakaran finished the brutal war against the war heroes with the war heroes.
+
+The security forces of the country also holds rescue of thousands of civilians from the world's largest humanitarian operation.
+
+At the time, President Mahinda Rajapaksa led the humanitarian operation and former President Gotabhaya Rajapaksa was the Defense Secretary.
+
+Meanwhile, 3,146 senior sailors of the Navy have been promoted to the next rank in parallel to the 15 Ranaviru Celebration Day.
+
+The Ranaviru Day Celebration will be held tomorrow (19) at the Ranaviru Member of the Battaramulla tomorrow.
+
+The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
+
+◼️
+
+[Data](articles/1d4aed83.json)
+
+[Extended Data](ext_articles/1d4aed83.ext.json)
+
+---
 
 ### Vesak pandals in the making….
 
@@ -1176,6 +1206,30 @@ I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silv
 
 ---
 
+### Police shortage of 22000 officers
+
+*2024-05-17 20:34:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියට-නිලධාරින්-22000කගේ-හිඟයක්/11-409699) · `si`
+
+Due to a severe shortage of 22,000 police officers across the island, recruitment is delayed due to unfavorable conditions. The Public Defense Minister expects official recruitments to commence next year.
+
+🟩
+
+According to the Public Defense Minister Tiran Alles said there was a shortage of 22,000 police officers in all police stations in the island.
+
+The Minister said that it is impossible to take new recruits in the face of the bad enatient environment in the country.
+
+Tiran Alles added that the official recruitments will be made by next year, Mr. Tiran Alles added.
+
+Mr. Alles said this at a seminar held at the Jayawardenapura Monoch Imperial Hotel today (17) at the Jayawardenaph Imperial Hotel.
+
+◼️
+
+[Data](articles/d1cc7bda.json)
+
+[Extended Data](ext_articles/d1cc7bda.ext.json)
+
+---
+
 ### OPA seminar sheds insights to managing Sri Lanka’s ageing population
 
 *2024-05-17 20:27:15* · [`dailyftlk`](https://www.ft.lk/opinion/OPA-seminar-sheds-insights-to-managing-Sri-Lanka-s-ageing-population/14-761922) · `en`
@@ -2163,53 +2217,5 @@ It is said that the Porter who was assassinated has not been reported so far.
 [Data](articles/2d0b0076.json)
 
 [Extended Data](ext_articles/2d0b0076.ext.json)
-
----
-
-### Sri Lanka fresh water fishermen protest floating solar plant in Chandrika tank
-
-*2024-05-17 15:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-fresh-water-fishermen-protest-floating-solar-plant-in-chandrika-tank-163472/) · `en`
-
-ECONOMYNEXT – Sri Lanka farmers and fresh water fishermen had complained to the island’s human rights commission against a plant to set up a floating solar plant in Chadrika Wewa (reservoir) and Kiriibbanara Lake at Embilipitiya.
-
-Floating solar plants, depending on how much of the area it covers, can reduce sunlight and plant growth in waterbodies, reducing food for fish and other organisms.
-
-“We urge the authorities to consider these risks and explore alternative locations or methods for the solar power project that would not compromise the health and livelihoods of the local communities,” Monlar Media, a civil society organization that promotes farmer rights said.
-
-The coalition of organizations, including the Walawa Farmers Rights Protection Organization, said they do not oppose the development of solar power plants in principle, but they have grave concerns about the potential threats to their livelihoods posed by the construction of these plants on the two reservoirs.
-
-...
-
-[Data](articles/fcaa9866.json)
-
-[Extended Data](ext_articles/fcaa9866.ext.json)
-
----
-
-### Social activist goes to the house of Rajiv Gandhi's mother
-
-*2024-05-17 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183793) · `ta`
-
-A social activist, Rajkumar Rajiv Gandhi, visited his grandmother's home in Trincomalee, where he was threatened by the CID without prior notice. He highlighted ongoing harassment and the intelligence community's knowledge of his situation, emphasizing the need for protection against rights violations.
-
-🟩
-
-Social activist Rajkumar Rajiv Gandhi's mother's mother's house
-
-Rajkumar Rajeevkan said that the CITs went to the house of Tanuthayar in Trincomalee.
-
-At 10 am this morning, the CID went to my mother's house in Trincomalee without any prior permission.
-
-The threats that take place in Colombo here are my dependence on it.. Already last year, at 12 pm, they went to the Trincomalee house.
-
-The intelligence agencies are fully aware of my details and cannot allow my family members to continue to harass.
-
-Mom asked for details about my family about me. Without any permission, they cannot be accepted that they are constantly engaged in such bad violations/ rights violations.
-
-◼️
-
-[Data](articles/f3d17ae0.json)
-
-[Extended Data](ext_articles/f3d17ae0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 13:03:51**
+As of **2024-05-18 13:18:28**
 
 ## Newspaper Stats
 
-*Scraped **24,817** Articles*
+*Scraped **24,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,79 @@ islandlk | 1,339
 economynextcom | 1,428
 dailyftlk | 1,464
 adalk | 2,117
-adaderanalk | 2,872
+adaderanalk | 2,873
 tamilmirrorlk | 2,905
 virakesarilk | 3,747
 dailymirrorlk | 3,899
-adaderanasinhalalk | 3,957
+adaderanasinhalalk | 3,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,815 (100.0%) of 24,817 articles have been extended.
+24,817 (100.0%) of 24,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
+### ප්‍රසිද්ධියේ සමාව ගන්නැයි ශ්‍රී ලංකා රජයට දැනුම්දෙයි
+
+*2024-05-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196748) · `si`
+
+දශක ගණනාවක් පුරාවට අතුරුදන් කිරීමට ලක්වූ දහස් ගණනකගේ ඉරණම පිළිබඳව සහ ඔවුන් සිටින ස්ථාන හෙළි කිරීමටත් එම අපරාධවලට වගකිව යුත්තන්ට දඬුවම් පැනවීමටත් ශ්‍රී ලංකා රජය අර්ථාන්විත පියවර අනුගමනය කළ යුතු බවට එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිසම ඊයේ (17) වාර්තාවක් නිකුත් කරමින් දන්වා තිබේ.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ, එම අපරාධ සඳහා රාජ්‍ය ආරක්ෂක අංශවල සහ අනුබද්ධ සන්නද්ධ කණ්ඩායම්වල මැදිහත්වීම පිළිගෙන ප්‍රසිද්ධියේ සමාව අයැද සිටිය යුතු බවය.
+
+අතුරුදන් කිරීම්වලට ලක්වූ සියලුම ශ්‍රී ලාංකිකයින් කිසිදා අමතක නොකළ යුතු බවට මෙම වාර්තා මගින් යළිත් සිහිකැඳවන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා පවසයි.
+
+බොහෝ කාලයක සිටි අතුරුදන් කිරීම්වලට ලක්වූවන් පිළිබඳව තොරතුරු දැනගැනීමට බලා සිටින ඥාතීන්ට සත්‍ය දැනගැනීමේ අයිතියක් පවතින බවත් අතුරුදන් කිරීම්වලට ලක් වූවන්ට රජය ණයගැති බවත් වෝල්කර් ටර්ක් මහතා එම වාර්තාව හරහා දන්වා තිබේ.
+
+මෙවැනි අපරාධ ඒවාට මුහුණ දුන් පිරිසට පමණක් නොව සමාජයක් ලෙස සමස්ත ශ්‍රී ලාංකීය ප්‍රජාවටම කම්පනය දනවන සුළු බව වාර්තාවේ දැක්වෙයි.
+
+...
+
+[Data](articles/819ed0c0.json)
+
+---
+
+### Naval, fishing communities cautioned of gusty winds and rough seas
+
+*2024-05-18 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99296/naval-fishing-communities-cautioned-of-gusty-winds-and-rough-seas-) · `en`
+
+The Department of Meteorology has issued an advisory warning the naval and fishing communities in the deep-sea areas in the South-eastern Arabian Sea of strong winds and rough seas.
+
+The advisory, issued at 12.30 p.m. today (18), warns that strong winds accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas during the next few days.
+
+Naval and fishing communities are advised not to venture into the sea areas marked by RED color on the map below until further notice.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard, it added.
+
+◼️
+
+[Data](articles/c20280b0.json)
+
+---
+
 ### தடையுத்தரவு விதிக்கப்பட்ட அதே இடத்தில் இன்று நினைவேந்தல்
 
 *2024-05-18 12:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தடையுத்தரவு-விதிக்கப்பட்ட-அதே-இடத்தில்-இன்று-நினைவேந்தல்/73-337467) · `ta`
 
-தடையுத்தரவு விதிக்கப்பட்ட அதே பாண்டிருப்பில் இன்று (18) சனிக்கிழமை முள்ளிவாய்க்கால் நினைவேந்தல் நடத்தப்பட்டது.
+Today marks Mullivaikkal commemoration in Pandiruppu, where a ban order was previously issued but later lifted by the Kalmunai High Court after considering a petition from police officers. This decision allows activities like the distribution of free food today. Key figures involved include Krishnapillai Jayasiril, a former leader of the Sri Lanka Tamil National Alliance (TNA), and Vinayagam Vimalanathan.
+
+🟩
+
+Mullivaikkal commemorates on Saturday (18th) in the same Pandiruppu.
 
 பெரிய நீலாவணை பொலிஸாரின் மனுவை ஏற்று கல்முனை நீதிவான் நீதிமன்றம் இந்த தடையுத்தரவை  பிறப்பித்திருந்நது.
 
-அத் தடையுத்தரவுக்கு எதிராக இலங்கை தமிழரசுக் கட்சியின் காரைதீவு பிரதேச தலைவரும் முன்னாள் தவிசாளருமான கிருஷ்ணபிள்ளை ஜெயசிறில்,  மற்றும் காரைதீவு வினாயகம் விமலநாதன் ஆகியோர்
+Krishnapillai Jayasiril, former leader and former leader of the Sri Lanka Tamil National Alliance (TNA) against the ban, and Vinayagam Vimalanathan
 
-நகர்த்தல் மனுவை சட்டத்தரணிகளூடாக சமர்ப்பித்தன் பேரில் நீதிமன்றம் அத் தடையுத்தரவு நேற்று  வெள்ளிக்கிழமை விலக்கி கொள்ளப்பட்டது.
+The court's ban on Friday was lifted on Friday by the lawyers.
 
 அதன் பயனாக பாண்டிருப்பு  திரௌபதி அம்மன் ஆலயம் முன்றளில் இன்று சனிக்கிழமை தமிழ் தேசிய மக்கள் முன்னணி இணைப்பாளர்  துஷாந்தன் ஏற்பாட்டில் சுடரேற்றி கஞ்சி வழங்கப்பட்டது.
 
-இதில் இலங்கை தமிழரசுக் கட்சியின் காரைதீவு பிரதேச தலைவரும் முன்னாள் தவிசாளருமான கிருஷ்ணபிள்ளை ஜெயசிறில் பிரதான பிரமுகராக கலந்து கருத்துரைத்தார்.
+Krishnapillai Jayasiril, former leader of the Sri Lanka Tamil National Party (TNA), Karadivu Divisional President and former Chairman, was the chief minister.
 
 கல்முனை மாநகர சபை முன்னாள் உறுப்பினர்களான க.சிவலிங்கம் பொ.செல்வநாயகம் திருமதி சுமித்ரா சமூக செயற்பாட்டாளர் வினாயகம் விமலநாதன் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
 
@@ -54,23 +96,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/b13f91b6.json)
 
+[Extended Data](ext_articles/b13f91b6.ext.json)
+
 ---
 
 ### මුහුද ඉතා රළු වෙයි
 
 *2024-05-18 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196746) · `si`
 
+"Beruwala to Hambantota, heavy rain and strong winds expected due to a low-pressure area affecting coastal areas. Winds reaching speeds of 60-70 km/h. High seas possible with showers or thunderstorms. Mariners advised to take precautions."
+
+🟩
+
 කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශ සඳහා තද වැසි, තද සුළං සහ රළු මුහුදු පිළිබඳව අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
 
 ඒ අනුව බේරුවල සිට ගාල්ල හරහා හම්බන්‍තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී 60 -70 දක්වා වැඩිවන අතර එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බව දැනුම්දී තිබේ.
 
-කල්පිටිය සිට කොළඹ හරහා ‍බේරුවල දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී 50 -60 දක්වා වැඩි වන අතර එම මුහුද විටින් විට රළු වන බව වාර්තා වෙයි.
+Winds from Beruwala and Beruwala and Hambantota to Beruwala and Hambantota to Pottuvil have been increased from time to 50 -60 hours and it is reported that the sea will be rough at times.
 
 එම මුහුදු ප්‍රදේශවල විටින්විට වැසි හෝ ගිඟුරුම් සහිත වැසි ඇතිවිය හැකි බවත් ඇතැම් ස්ථානවල තද වැසි ඇතිවිය හැකි බවත් ඒ සම්බන්ධයෙන් ධීවර සහ නාවික ප්‍රජාව අවධානයෙන් කටයුතු කරන ‍ලෙසටත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
 
 ◼️
 
 [Data](articles/bed1f474.json)
+
+[Extended Data](ext_articles/bed1f474.ext.json)
 
 ---
 
@@ -2175,45 +2225,5 @@ He further stated that an investigation into the officials carried out at the re
 [Data](articles/71a94448.json)
 
 [Extended Data](ext_articles/71a94448.ext.json)
-
----
-
-### What must Sri Lanka do to avoid a second default in the near future?
-
-*2024-05-17 20:19:41* · [`dailyftlk`](https://www.ft.lk/columns/What-must-Sri-Lanka-do-to-avoid-a-second-default-in-the-near-future/4-761921) · `en`
-
-A second default by Sri Lanka could be more devastating than Sri Lanka’s first default in 2022
-
-Past evidence shows that most countries that default on their external debt, have a history of defaulting once again within the next 10 years. Going by this data, there is a probability that Sri Lanka can default once again.
-
-A second default by Sri Lanka could be more devastating than Sri Lanka’s first default in 2022. In case of a second default Sri Lanka will have to go once again to the lender of last resort, the International Monetary Fund as a bankrupt nation. The conditions by the IMF if we default the second time will be much harsher and rightly so. The bilateral creditors and bondholders will also not be as kind if Sri Lanka goes for a second default. With harsher terms by the IMF, bilateral creditors and bondholders, Sri Lanka if it defaults again will have very little space to breathe.
-
-...
-
-[Data](articles/4df0c22e.json)
-
-[Extended Data](ext_articles/4df0c22e.ext.json)
-
----
-
-### 2024 presidential election
-
-*2024-05-17 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/183818) · `ta`
-
-The 2024 presidential election in Sri Lanka follows a five-year term, amendable only by a two-thirds parliamentary majority. Candidates must be citizens, over 30 but not older than twice the age limit. Voting requires registration. For multi-candidate elections, a simple majority wins; otherwise, preferences are considered. The new president appoints a PM and Cabinet, aiming for a parliamentary majority. Challenges include ensuring a stable government amidst calls for abolishing the executive presidency due to concerns over corruption and misuse of power.
-
-🟩
-
-The Constitution says that a president elected by the people will be in power for a five -year term. If he dies, if he resigns or fired from office. Any amendment that can be brought to extend the presidential term in the Constitution is passed by two -thirds of the majority of the votes in Parliament and the recognition of the people in a conference.
-
-The constitution also states that the presidential election should be held within a period of less than a month before the end of the term of office in power and not two months.
-
-Any citizen who has qualifications to take over the presidency can be a recognized political party as a candidate for the presidential election. Otherwise, a member of the Member of Parliament or the already Member of Parliament can be nominated by any other political party or any voter who is named in the voter turnout.
-
-...
-
-[Data](articles/2917b3b5.json)
-
-[Extended Data](ext_articles/2917b3b5.ext.json)
 
 ---

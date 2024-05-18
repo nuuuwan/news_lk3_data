@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 22:33:45**
+As of **2024-05-18 22:50:44**
 
 ## Newspaper Stats
 
-*Scraped **24,874** Articles*
+*Scraped **24,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,882
 tamilmirrorlk | 2,909
-virakesarilk | 3,751
+virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,976
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,874 (100.0%) of 24,874 articles have been extended.
+24,874 (100.0%) of 24,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -497,6 +497,24 @@ The summary of commitments that are not yet due include publishing implementatio
 [Data](articles/f13b284a.json)
 
 [Extended Data](ext_articles/f13b284a.ext.json)
+
+---
+
+### தமிழர்களிற்கு நீதியை வழங்குவது தொடர்பில் பிரிட்டன் தீர்க்கமான நிலைப்பாட்டை எடுக்கவேண்டும் - பிரிட்டனின் தொழிற்கட்சி நாடாளுமன்ற உறுப்பினர் தங்கம் டெபனயர்
+
+*2024-05-18 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183895) · `ta`
+
+ஆயுதமோதலின் இறுதிநாட்களில் தமிழர்களிற்கு எதிராக இடம்பெற்ற படுகொலைகளிற்கு நீதியும் பொறுப்புக்கூறலும் அவசியம் என பிரிட்டனின் தொழில்கட்சி நாடாளுமன்ற உறுப்பினர் தங்கம் டெபனயர் வேண்டுகோள் விடுத்துள்ளனர்.
+
+இலங்கையின் உள்நாட்டு போரின் இறுதிதருணங்களில்  கொல்லப்பட்ட ஆயிரக்கணக்கான மக்களையும் இடம்பெற்ற பரந்துபட்ட மனித உரிமை மீறல்களையும் நாங்கள் இன்று நினைவுகூருகின்றோம் என என டிஜிட்டல் கலாச்சாரம் ஊடகம் விளையாட்டு நிழல் அமைச்சர் தங்கம் டெபனெயர் தெரிவித்துள்ளார்.
+
+இன்று எனது சிந்தனைகள் தாங்கள் எதிர்கொண்ட அநீதிகள் காரணமாக தொடர்ந்தும் வேதனையுடன் வாழும் பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் அவர்களின் அன்புக்குரியவர்கள் குறித்து காணப்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+
+முள்ளிவாய்க்கால் என்பது எப்படி  இழந்தவர்களை நினைகூரும் நாளோ அதேபோன்று குற்றவாளிகள் நீதியின் முன் நிறுத்தப்படவேண்டும் என்பதை வலியுறுத்தும் நாள் என டிஜிட்டல் கலாச்சாரம் ஊடகம் விளையாட்டு நிழல் அமைச்சர் தங்கம் டெபனெயர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/97ae9752.json)
 
 ---
 
@@ -2329,27 +2347,5 @@ And George wanted to remind those who receive his privately distributed newslett
 [Data](articles/b96c3f5a.json)
 
 [Extended Data](ext_articles/b96c3f5a.ext.json)
-
----
-
-### The court stated that the witness in connection with the Vavuniya double murder
-
-*2024-05-18 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183835) · `ta`
-
-A witness in the Vavuniya double murder case revealed threats against a female village officer linked to the main suspect. The murders occurred on July 23, leading to seven arrests. The suspect's daughter identified him, and the village officer allegedly threatened her. The case continues, with three suspects at large.
-
-🟩
-
-The witness has brought to the notice of the Vavuniya court that a woman village officer has been threatened with the main suspect in connection with the double murder in Dhonikkal, Vavuniya.
-
-In the early hours of July 23, in the Vavuniya area, two husband and wife were killed in a furious sapphire.. Seven people have been arrested on suspicion of involvement in the double murder and they have been investigated by the Criminal Investigation Department and they have been detained by the Criminal Investigation Department.
-
-When the case was taken up for hearing at the Vavuniya court, the homeowner of the attack was present at the House of Representatives.. In the testimony, her daughter, who is currently educated in the attack on his home, has identified the suspect in connection with the incident.
-
-...
-
-[Data](articles/e0e8e902.json)
-
-[Extended Data](ext_articles/e0e8e902.ext.json)
 
 ---

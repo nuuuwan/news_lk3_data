@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 09:33:56**
+As of **2024-05-18 09:52:57**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,790 (100.0%) of 24,791 articles have been extended.
+24,791 (100.0%) of 24,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ஜனாதிபதி இந்தோனேசியா பயணமானார்
+### The President has traveled Indonesia
 
 *2024-05-18 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183841) · `ta`
 
-இந்தோனேசியாவின் பாலி நகரில் நடைபெறும் 10 ஆவது உலக நீர்  மாநாட்டின் உயர்மட்டக் கூட்டத்தில் கலந்துகொள்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று சனிக்கிழமை (18) காலை இந்தோனேசியா பயணமானார்.
+President Ranil Wickremesinghe visited Indonesia for the 10th World Water Conference in Bali, invited by President Joko Widodo. The conference, themed "Water for Joint Prosperity," runs from May 18 to 20, where he'll speak on May 20. He'll also hold bilateral talks with Indonesian leaders.
 
-இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் (Joko Widodo) அழைப்பின் பேரில் ஜனாதிபதி இந்த  உத்தியோகபூர்வ பயணத்தை மேற்கொண்டுள்ளார்.
+🟩
 
-"கூட்டு செழுமைக்கான நீர்" என்ற தொனிப்பொருளில் 10 ஆவது உலக நீர் மாநாடு மே 18 முதல் 20 வரை இந்தோனேசியாவின் பாலி நகரில் நடைபெறவுள்ளது.
+President Ranil Wickremesinghe traveled to Indonesia this morning to attend a high -level meeting of the 10th World Water Conference in Bali, Indonesia.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் மே மாதம் 20 ஆம் திகதி மாநாட்டில்  விசேட உரையாற்றவுள்ளார்.
+The President has made this official visit at the invitation of Indonesian President Joko Widodo.
 
-இதேவேளை, ஜனாதிபதி ரணில் விக்ரமசிங்க தனது இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தின் போது, இந்தோனேசிய ஜனாதிபதி உள்ளிட்ட அந்நாட்டின் பல உயர்மட்ட பிரதிநிதிகளுடன் இருதரப்பு கலந்துரையாடல்களிலும் ஈடுபடவுள்ளார்.
+The 10th World Water Conference will be held in Bali, Indonesia from May 18 to 20 under the theme of "Water for Joint Prosperity".
 
-ஜனாதிபதியுடனான விஜயத்தில்  ஜனாதிபதி செயலக மற்றும் வெளிவிவகார அமைச்சின் உயர் அதிகாரிகள் குழுவொன்றும் இணைந்து கொள்கிறது.
+President Ranil Wickremesinghe will address the upcoming conference on May 20.
+
+Meanwhile, President Ranil Wickremesinghe will engage in bilateral discussions with many top representatives of the country, including the Indonesian President, during his two -day official visit.
+
+A group of top officials of the Presidential Secretariat and the Ministry of External Affairs are joining the President.
 
 ◼️
 
 [Data](articles/81dcf10d.json)
+
+[Extended Data](ext_articles/81dcf10d.ext.json)
 
 ---
 

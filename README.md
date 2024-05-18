@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 18:52:05**
+As of **2024-05-18 19:03:37**
 
 ## Newspaper Stats
 
-*Scraped **24,860** Articles*
+*Scraped **24,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,57 @@ adaderanalk | 2,879
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,904
-adaderanasinhalalk | 3,970
+adaderanasinhalalk | 3,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,859 (100.0%) of 24,860 articles have been extended.
+24,860 (100.0%) of 24,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ඇල්ල - වැල්ලවාය මාර්ගය යළිත් වැසෙයි
+### බස් රථ දෙකක් මුහුණට මුහුණ ගැටෙයි
+
+*2024-05-18 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196763) · `si`
+
+කෑගල්ල අවිස්සාවේල්ල මාර්ගයේ කෝට්ටපොල ප්‍රදේශයේදී පුද්ගලික බස් රථ දෙකක් මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+
+එම අනතුරින් පුද්ගලයින් 26 දෙනෙකු තුවාල ලබා ඇති අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග පවසයි.
+
+අද (18) සවස 4.00 පමණ එම අනතුර සිදුවී ඇති බව අප වාර්තාකරු පැවසීය.
+
+නුවර සිට අවිස්සාවේල්ල බලා ධාවනය වු පෞද්ගලික බස් රථයේ අධික වේගයත් අපරික්ෂාකාරි ලෙස වෙනත් වාහනයකට ඉස්සර කිරීමට යාමත් නිසා මෙම අනතුර සිදුවන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+
+තුවාලකරුවන් කෑගල්ල මහ රෝහලට සහ තොරනගහපිටිය ග්‍රාමීය රෝහලට ඇතුළත් කළ බව පිංදෙනිය පොලීසිය පවසයි
+
+අනතුරට පත් එක් බස් රථයක රියදුරෙක් බරපතළ තත්වයෙන් ප්‍රථිකාර ලබන අතර අනෙක්  රෝගියා කාන්තාවක් බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/e779a5a8.json)
+
+---
+
+### Falls closed again
 
 *2024-05-18 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196762) · `si`
 
-ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය අද (18) රාත්‍රී 8 සිට හෙට (19) උදෑසන 6 දක්වා ගමනාගමනය සඳහා වසා තැබීමට යළිත් තීරණය කර තිබේ.
+Ella-Wellawaya road reopens from 6th to 6th tomorrow due to weather.
 
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම තීරණය ගත් බව දිස්ත්‍රික් ලේකම්වරයා පවසයි.
+🟩
+
+The Ella-Wellawaya main road has been restored today to 6th to 6th tomorrow (19).
+
+The decision has been taken due to inclement weather conditions.
 
 ◼️
 
 [Data](articles/698aec64.json)
+
+[Extended Data](ext_articles/698aec64.ext.json)
 
 ---
 
@@ -2333,27 +2361,5 @@ Under the supervision of the International Judges on the issue of the missing pe
 [Data](articles/8a390693.json)
 
 [Extended Data](ext_articles/8a390693.ext.json)
-
----
-
-### Cabinet cannot decide on elections says Tissa
-
-*2024-05-18 01:08:10* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-cannot-decide-on-elections-says-Tissa/56-761949) · `en`
-
-SJB National Organiser Tissa Attanayake says Cabinet deciding to cancel nominations for LG polls undermines democratic principles and constitutes severe injustice to citizens
-
-Questions authority of Cabinet to make decisions regarding election nominations
-
-Criticises Govt’s actions as usurpation of people’s fundamental right to vote
-
-Promises to hold LG polls under future SJB Govt. led by Sajith Premadasa
-
-Samagi Jana Balawegaya (SJB) National Organiser Tissa Attanayake on Thursday condemned Cabinet Media Spokesman Minister Bandula Gunawardena’s annoucement that the Cabinet will take up for consideration the cancellation of nominations submitted for the Local Government polls last year.
-
-...
-
-[Data](articles/536ab9e9.json)
-
-[Extended Data](ext_articles/536ab9e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 11:18:27**
+As of **2024-05-18 11:33:36**
 
 ## Newspaper Stats
 
-*Scraped **24,801** Articles*
+*Scraped **24,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,117
 adaderanalk | 2,871
 tamilmirrorlk | 2,902
 virakesarilk | 3,744
-dailymirrorlk | 3,896
+dailymirrorlk | 3,898
 adaderanasinhalalk | 3,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,801 (100.0%) of 24,801 articles have been extended.
+24,801 (100.0%) of 24,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Shortage of elephant participation for Kandy Esala Perahera
+
+*2024-05-18 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortage-of-elephant-participation-for-Kandy-Esala-Perahera/108-282877) · `en`
+
+Colombo, May 18 (Daily Mirror) - A situation has arisen where getting the participation of elephants at both peraheras has become a problem due to the holding of the Ratnapura Maha Saman Devalaya Perahera and the Kandy Esala Perahera on the same day, Sri Dalada Maligawa Diyawadana Nilame Pradeep Nilanga Dela said.
+
+He told the Daily Mirror that at least 60 elephants will be able to participate in the Kandy Esala Perahera this year. During previous Kandy Esala Perahera seasons, 75 elephants participated, he said.
+
+"There are a total of 96 tamed elephants available in the country, but only 80 elephants can be taken for peraheras this season due to their physical health conditions and other issues. At least 20 elephants will be sent for the Ratnapura Maha Saman Devalaya perahera, and the remaining elephants will be assigned to the Kandy Esala perahera," the Diyawadana Nilame said.
+
+He said in 2000, a total of 225 tamed elephants were in the country, but now the count had decreased to 96.
+
+◼️
+
+[Data](articles/1d32f4ac.json)
+
+---
 
 ### Sri Lankan fisherman dead, one missing after trawler collides with ship
 
@@ -177,6 +195,24 @@ Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will 
 [Data](articles/79b81eae.json)
 
 [Extended Data](ext_articles/79b81eae.ext.json)
+
+---
+
+### Arrest of four persons over War Dead Commemoration: Sri Lankan authorities in Canada in dilemma
+
+*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Arrest-of-four-persons-over-War-Dead-Commemoration-Sri-Lankan-authorities-in-Canada-in-dilemma/155-282875) · `en`
+
+Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
+
+Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
+
+An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
+
+Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
+
+...
+
+[Data](articles/9a186bcb.json)
 
 ---
 
@@ -2189,53 +2225,5 @@ In this case, most of them have no experience or skills regarding the medical se
 [Data](articles/36cf9d5e.json)
 
 [Extended Data](ext_articles/36cf9d5e.ext.json)
-
----
-
-### New program begins to prevent corruption in the public sector!- Jagat Kumara Sumitrarachi
-
-*2024-05-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183809) · `ta`
-
-A new program aims to curb corruption in Sri Lanka's public sector by digitizing transactions. Led by Parliamentarian Jagath Kumara Sumitraachi, it focuses on enhancing transparency and efficiency in government operations. The initiative includes reviewing annual performance reports, holding workshops on public service delivery, and considering salary increases for public servants.
-
-🟩
-
-Parliamentarian Jagath Kumara Sumitraachi, chairman of a government supervisory committee on transparent and responsible government, said that arrangements have been made to launch a program to carry out a program of transactions through technology and digital methods to prevent corruption scandals.
-
-He pointed out that only the political mechanism could be able to formulate and that the public officials should fulfill their duty to implement those policies.
-
-Parliamentarian Jagath Kumara made this statement at a media briefing held at the Presidential Media Center on Friday (17).
-
-“The Departmental Supervisory Committee on Outgoing and Responsible Government has done massive tasks for the benefit of the public so far. We are obliged to strengthen the government mechanism to be obvious and responsible. In this regard, the Department of Department of State is investigating the functioning of the state.
-
-...
-
-[Data](articles/3efc3ca5.json)
-
-[Extended Data](ext_articles/3efc3ca5.ext.json)
-
----
-
-### A 17 -year -old girlfriend who abducted an 18 year old boyfriend
-
-*2024-05-17 18:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-வயது-காதலனை-கடத்திய-17-வயது-காதலி/175-337458) · `ta`
-
-A 17-year-old girl and her father were arrested for allegedly kidnapping her 18-year-old boyfriend from their home in the Mahagama-Bologoda area. The incident occurred when the boy went for a three-wheeler repair. Police discovered him there and took him to the hospital.
-
-🟩
-
-Police have arrested a 17 -year -old girl and her father on suspicion of abducting an 18 -year -old youth in the Mahagama -Bolegoda area.
-
-The young man, who was living in the Mahakama Bolegoda area yesterday afternoon, was abducted and abducted for a three -wheeler repair.
-
-The young man found that the young man was in his girlfriend's house while investigating the complaints received by the police.
-
-The young man was taken to the hospital and the young man's girlfriend and his father are to be produced before the Matugama Magistrate's Court today (17).R
-
-◼️
-
-[Data](articles/da626645.json)
-
-[Extended Data](ext_articles/da626645.ext.json)
 
 ---

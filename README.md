@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 19:03:37**
+As of **2024-05-18 19:18:29**
 
 ## Newspaper Stats
 
-*Scraped **24,861** Articles*
+*Scraped **24,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,98 @@ newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,433
 dailyftlk | 1,464
-adalk | 2,121
-adaderanalk | 2,879
+adalk | 2,122
+adaderanalk | 2,880
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
-dailymirrorlk | 3,904
+dailymirrorlk | 3,905
 adaderanasinhalalk | 3,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,860 (100.0%) of 24,861 articles have been extended.
+24,861 (100.0%) of 24,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### බස් රථ දෙකක් මුහුණට මුහුණ ගැටෙයි
+### Colombo Air Show reschedule for next year
+
+*2024-05-18 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Air-Show-reschedule-for-next-year/108-282883) · `en`
+
+The Colombo Air Show and Defence Exhibition (CADE 2024) which was scheduled to be held from May 29 to June 2 at the Galle Face and Colombo Port City, has been postponed to next year, the Sri Lanka Air Force (SLAF) said.
+
+The CADE, organized by the Sri Lanka Air Force, was rescheduled owing to the multiple requests from international partners and defence industry stakeholders, as well as foreign Air Forces to accommodate greater opportunities for their participation and provide a diverse experience to the spectators.
+
+The SLAF said that the event will be from 26 February to 02 March 2025, aligning with the 74th anniversary of the Sri Lanka Air Force.
+
+◼️
+
+[Data](articles/c047618b.json)
+
+---
+
+### 26 injured as two buses collide head-on at Kottapola
+
+*2024-05-18 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99303/26-injured-as-two-buses-collide-head-on-at-kottapola) · `en`
+
+At least 26 persons have been injured and hospitalised following a head-on collision involving two private buses in the Kottapola area on the Kegalle – Avissawella main road this evening (18).
+
+Hospital sources said that 02 out of the 26 hospitalised individuals are in critical condition.
+
+Police suspect that the accident was caused due to reckless driving by the driver of the speeding private bus travelling from Kandy to Avissawella.
+
+◼️
+
+[Data](articles/03d9fdc2.json)
+
+---
+
+### Two buses collide face to face
 
 *2024-05-18 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196763) · `si`
 
-කෑගල්ල අවිස්සාවේල්ල මාර්ගයේ කෝට්ටපොල ප්‍රදේශයේදී පුද්ගලික බස් රථ දෙකක් මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+In a collision between two private buses in Kegalle, 26 people were injured, including two critically. The incident, suspected to be caused by excessive speed, occurred around 4 PM on 18th. Victims were taken to Kegalle General Hospital and Pandanagahapitiya Rural Hospital.
 
-එම අනතුරින් පුද්ගලයින් 26 දෙනෙකු තුවාල ලබා ඇති අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග පවසයි.
+🟩
 
-අද (18) සවස 4.00 පමණ එම අනතුර සිදුවී ඇති බව අප වාර්තාකරු පැවසීය.
+Two private buses were confronting two private buses in the Kottepola area in Kegalle.
 
-නුවර සිට අවිස්සාවේල්ල බලා ධාවනය වු පෞද්ගලික බස් රථයේ අධික වේගයත් අපරික්ෂාකාරි ලෙස වෙනත් වාහනයකට ඉස්සර කිරීමට යාමත් නිසා මෙම අනතුර සිදුවන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+26 people were injured in the accident and two of them were seriously critical.
 
-තුවාලකරුවන් කෑගල්ල මහ රෝහලට සහ තොරනගහපිටිය ග්‍රාමීය රෝහලට ඇතුළත් කළ බව පිංදෙනිය පොලීසිය පවසයි
+According to our correspondent about 4:00 pm today (18).
 
-අනතුරට පත් එක් බස් රථයක රියදුරෙක් බරපතළ තත්වයෙන් ප්‍රථිකාර ලබන අතර අනෙක්  රෝගියා කාන්තාවක් බවත් වාර්තා වෙයි.
+Police suspect that the accident had occurred due to the high speed of the private bus heading from Kandy to Avissawella due to the extreme speed of the private bus.
+
+Pinadeniya Police say that the injured were admitted to the Kegalle General Hospital and Pandanagahapitiya Rural Hospital
+
+One of the buses of a bus is committed by a serious condition and the other patient is a woman.
 
 ◼️
 
 [Data](articles/e779a5a8.json)
+
+[Extended Data](ext_articles/e779a5a8.ext.json)
+
+---
+
+### එංගලන්තෙ එහෙම වුණත් ලංකාවේ එහෙම නෙමෙයි
+
+*2024-05-18 18:40:35* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තෙ-එහෙම-වුණත්-ලංකාවේ-එහෙම-නෙමෙයි/11-409705) · `si`
+
+ලංකාවේ සෞඛ්‍ය සේවයට එංගලන්තයේ සෞඛ්‍ය සේවයත් පරාද බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා නිදසුනක් සහිතව අද (18) බලපිටිය මහලදූවේ පැවති උත්සවයකදී පෙන්වා දුන්නේය.
+
+එංගලන්තයේ වාසය කළ ලංකාවේ තමාගේ හිතවතෙක් තමා හමුවන්න ආවේ ඔහුට කළයුතුව තිබූ ශල්‍ය කර්මයක් පිළිබඳව පිහිටක් බලාපොරොත්තුවෙන් බවත් එම ශල්‍ය කර්මය එංගලන්තයෙන් කරවා ගැනීමට නම් ඔහුට අවුරුද්දක් දෙකක් පෝලීමේ සිටීමට සිදුව තිබූ බවත් රමේෂ් මහතා කීවේය.
+
+තමා සිය හිතවතා කොළඹ විශේෂඥ වෛද්‍යවරයෙකුට මුණගැස්සූ බවත් හිතවතාගේ ශලකර්මය දින කිහිපයකින් ඉතා සාර්ථකව සිදු කළ බවත් රමේෂ් මහතා මෙහිදී කීවේය.ශලය කර්මයක් කිරීමට එංගලන්තයේ අවුරුදු ගණන් පෝලිම්වල සිටීමට සිදුවුණත් අපේ රටේ එසේ නොවන බවත් ඒ මහතා කීවේය.
+
+"මේවා මම ප්‍රසිද්ධ වේදීකාවේ කිව්වාම සමාජ මාධය ජාලාවලින් මට හොදටම දෙසන බව මම දන්නවා. නමුත් සත්‍ය තත්ත්වය එයයි.   ලෝකයේ මොනම රටකවත් නැති පහසුකම් සහිත ඉතා උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් ලංකාවේ තිබෙනවා."
+
+◼️
+
+[Data](articles/27b666cb.json)
 
 ---
 
@@ -2283,83 +2339,5 @@ The rally, organized by the 'Roses for guns', the leader of the Global Alliance 
 [Data](articles/81591d6c.json)
 
 [Extended Data](ext_articles/81591d6c.ext.json)
-
----
-
-### HWPL calls for peace amid increasing tensions between Israel and Iran
-
-*2024-05-18 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183824) · `ta`
-
-HWPL, a UN-affiliated group promoting peace, has responded to escalating tensions between Israel and Iran, expressing deep concern over the impact on civilians. They call for decisive action to prevent further conflicts and advocate for international laws safeguarding peace for future generations.
-
-🟩
-
-Heavenly culture, global peace, light reorganization (HWPL) and the United Nations affiliated organization have issued a statement in response to an increasing conflict between Israel and Iran to develop peace through the public -led initiatives.
-
-The report said, “The latest violent conflict between Iran and Israel has caused significant concerns in the international community. The two countries that do not share the boundaries are attacking each other and gathering high -rich weapons to kill human lives
-
-In the statement, “It clearly shows that the most victims of the war are innocent civilians. How can you restore lost lives?What can be compensated for the scream of children and the pain of young people in dilapidated dwellings
-
-The international community has urged the international community to take decisive measures to confront the HWPL conflict, which argues to establish extensive international laws to protect peace for future generations.
-
-...
-
-[Data](articles/61036157.json)
-
-[Extended Data](ext_articles/61036157.ext.json)
-
----
-
-### The 15th anniversary of the Mullivaikkal Perala
-
-*2024-05-18 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183823) · `ta`
-
-On the 15th anniversary of Mullivaikkal Peravalavam, commemorations include a ceremony where a flame is passed from victim representatives, followed by tributes. The Mullivaikkal Memorial General Assembly urges unity among Tamils, while the system demands bells ring in temples nationwide. The event, organized by various groups, includes visits to significant sites, public tributes across districts, and international participation like Amnesty International's Secretary General. Commemorations also take place in Vavuniya, Batticaloa, and Colombo, involving religious and political leaders, and special rituals.
-
-🟩
-
-The 15th anniversary of the Mullivaikkal Peravalavam, which took place during the final, will be held on Saturday, 18th.
-
-Mullivaikkal is declared as the commemorative events with the innermost event, and then the main flame will be loaded.
-
-The flame will be accepted by a representative of the victims, followed by a tribute to the handcuffs.
-
-In this case, the Mullivaikkal Memorial General Assembly (North and East) has demanded that Tamils be dearly urged to unite in the public agenda, crossing the virtues, self -promotion and self -promotion.
-
-The Mullivaikkal Memorial System has demanded that the bell sounds in all the temples and temples on Saturday 18th and to commemorate the destruction of Mullivaikkal as long as possible.
-
-The Mullivaikkal Nivendal Corporation, which began with the Tamil National People's Front organizing the Bhavani Joining Tamil National People's Front, was aimed at visiting the eighths of the homeland as it began in the north on the 12th.
-
-...
-
-[Data](articles/20ca521b.json)
-
-[Extended Data](ext_articles/20ca521b.ext.json)
-
----
-
-### International inquiry is the solution to the affairs of the missing;Relations of the missing persons to the General Secretary of the International Council
-
-*2024-05-18 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183822) · `ta`
-
-Agnès Callamard, Amnesty International's Secretary-General, calls for resolving missing persons' issues through international inquiries, criticizing Sri Lanka's internal investigations. She proposes international judges oversee cases, suggesting mixed courts for justice, which is rejected. The situation highlights concerns over threats from investigators and the impact of terrorism laws on land encroachment and Buddhism in Tamil Nadu.
-
-🟩
-
-The Secretary General of the Amnesty International, Agnès Callamard, has urged the Society of the Northern and Eastern Provinces to resolve the issue of the missing persons.
-
-Amnesty International Secretary -General Agnès Salmard and Eighty -East of the Northeast. This is emphasized at the meeting.
-
-The association representatives of the relations of those who were not painful after the meeting told the media.
-
-They have urged the Secretary of the Amnesty International to seek justice in the international mechanism for the missing persons and that he has no confidence in the internal inquiry carried out by the Sri Lankan domestic commissions.
-
-Under the supervision of the International Judges on the issue of the missing persons, the Amnesty International Secretary has proposed the idea of obtaining justice in the mixed court mechanism, but they refused it and urged the missing persons in the international mechanism.
-
-...
-
-[Data](articles/8a390693.json)
-
-[Extended Data](ext_articles/8a390693.ext.json)
 
 ---

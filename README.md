@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 13:18:28**
+As of **2024-05-18 13:33:47**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,817 (100.0%) of 24,819 articles have been extended.
+24,819 (100.0%) of 24,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ප්‍රසිද්ධියේ සමාව ගන්නැයි ශ්‍රී ලංකා රජයට දැනුම්දෙයි
+### The government informs the government of public to apologize publicly
 
 *2024-05-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196748) · `si`
 
-දශක ගණනාවක් පුරාවට අතුරුදන් කිරීමට ලක්වූ දහස් ගණනකගේ ඉරණම පිළිබඳව සහ ඔවුන් සිටින ස්ථාන හෙළි කිරීමටත් එම අපරාධවලට වගකිව යුත්තන්ට දඬුවම් පැනවීමටත් ශ්‍රී ලංකා රජය අර්ථාන්විත පියවර අනුගමනය කළ යුතු බවට එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිසම ඊයේ (17) වාර්තාවක් නිකුත් කරමින් දන්වා තිබේ.
+The UN Human Rights Commission urges Sri Lanka to acknowledge and apologize for decades-old disappearances, emphasizing the need for public acknowledgment and investigation into these cases. The report highlights the failure of Sri Lankan authorities to hold accountable those responsible for these crimes, despite international obligations.
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ, එම අපරාධ සඳහා රාජ්‍ය ආරක්ෂක අංශවල සහ අනුබද්ධ සන්නද්ධ කණ්ඩායම්වල මැදිහත්වීම පිළිගෙන ප්‍රසිද්ධියේ සමාව අයැද සිටිය යුතු බවය.
+🟩
 
-අතුරුදන් කිරීම්වලට ලක්වූ සියලුම ශ්‍රී ලාංකිකයින් කිසිදා අමතක නොකළ යුතු බවට මෙම වාර්තා මගින් යළිත් සිහිකැඳවන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා පවසයි.
+The United Nations Human Rights Commission has issued a report yesterday (17) that the Government of Sri Lanka should adopt the meaning of thousands of the fate of decades.
 
-බොහෝ කාලයක සිටි අතුරුදන් කිරීම්වලට ලක්වූවන් පිළිබඳව තොරතුරු දැනගැනීමට බලා සිටින ඥාතීන්ට සත්‍ය දැනගැනීමේ අයිතියක් පවතින බවත් අතුරුදන් කිරීම්වලට ලක් වූවන්ට රජය ණයගැති බවත් වෝල්කර් ටර්ක් මහතා එම වාර්තාව හරහා දන්වා තිබේ.
+It further states that the intervention of the government security forces and an affiliate groups should be pardoned in public security and armed groups.
 
-මෙවැනි අපරාධ ඒවාට මුහුණ දුන් පිරිසට පමණක් නොව සමාජයක් ලෙස සමස්ත ශ්‍රී ලාංකීය ප්‍රජාවටම කම්පනය දනවන සුළු බව වාර්තාවේ දැක්වෙයි.
+The United Nations High Commissioner to Human Rights Walker Turk says that all Sri Lankans have never forgotten the disappearances.
+
+Relatives are the right to know the disappearances and that the government is owned by the report and the government is owed by the government.
+
+It is reported that these crimes have not only faced the crimes but also a society.
+
+The disappearances have adopted positive steps, such as the approval of the International Convention on the Protection of All Persons, has emphasized that investigations into the disappearances are limited.
 
 ...
 
 [Data](articles/819ed0c0.json)
+
+[Extended Data](ext_articles/819ed0c0.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ Naval and fishing communities are also requested to be attentive to future forec
 ◼️
 
 [Data](articles/c20280b0.json)
+
+[Extended Data](ext_articles/c20280b0.ext.json)
 
 ---
 

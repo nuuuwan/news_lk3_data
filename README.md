@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 21:33:38**
+As of **2024-05-18 21:52:49**
 
 ## Newspaper Stats
 
-*Scraped **24,870** Articles*
+*Scraped **24,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,881
-tamilmirrorlk | 2,908
+tamilmirrorlk | 2,909
 virakesarilk | 3,751
 dailymirrorlk | 3,906
-adaderanasinhalalk | 3,974
+adaderanasinhalalk | 3,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,870 (100.0%) of 24,870 articles have been extended.
+24,870 (100.0%) of 24,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### මත්ද්‍රව්‍ය කිලෝ 400ක් විනාශ කරයි
+
+*2024-05-18 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196767) · `si`
+
+පසුගිය සමයේ නඩු කටයුතු අවසන් වූ මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 400කට ආසන්න ප්‍රමාණයක් අද (18) පස්වරුවේ දහනය කර විනාශ කර තිබේ.
+
+ඒ පොලිස් විශේෂ කාර්යය බළකායට අයත් පුත්තලම වනාතවිල්ලුව ප්‍රදේශයේ ඉදිකෙරුණු විශේෂ උඳුන තුළදීය.
+
+◼️
+
+[Data](articles/35768b42.json)
+
+---
+
+### குருதேவ் ஸ்ரீ ஸ்ரீ ரவிசங்கரை வரவேற்ற தென்னகோன், செந்தில் தொண்டமான்
+
+*2024-05-18 21:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருதேவ்-ஸ்ரீ-ஸ்ரீ-ரவிசங்கரை-வரவேற்ற-தென்னகோன்-செந்தில்-தொண்டமான்/175-337471) · `ta`
+
+இலங்கை வந்தடைந்த புகழ்பெற்ற ஆன்மீகத் தலைவரும் உலக சமாதான தூதுவருமான குருதேவ் ஸ்ரீ ஸ்ரீ ரவிசங்கர் அவர்களை பாதுகாப்பு இராஜாங்க அமைச்சர் கௌரவ பிரமித்த பண்டார தென்னகோன் இன்று (மே 18) பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து உத்தியோகபூர்வமாக வரவேற்றார்.
+
+இந்த வரவேற்கும் நிகழ்வில் கிழக்கு மாகாண ஆளுநர் கௌரவ செந்தில் தொண்டமானும்  இராஜாங்க அமைச்சருடன் வரவேற்றார்.
+
+மே 18ஆம் திகதி முதல் 20ஆம் திகதி வரை இலங்கையில் தங்கியிருக்கும் குருதேவ், மே 19ஆம் திகதி கொழும்பு தாஜ் சமுத்திரா ஹோட்டலில் நடைபெறவுள்ள ‘ஏகமுத்துவ: இசை, தியானம் மற்றும் ஞானத்தின் மாலை’ என்ற நிகழ்ச்சியிலும் கலந்துகொள்ளவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/536eb7ff.json)
+
+---
 
 ### UN rights office urges Sri Lanka to reveal fate of the disappeared
 
@@ -2315,49 +2345,5 @@ At the same time, we are asking for the lamp in your homes and villages to light
 [Data](articles/237a0d79.json)
 
 [Extended Data](ext_articles/237a0d79.ext.json)
-
----
-
-### Innovation of Mines in Kayts!
-
-*2024-05-18 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183832) · `ta`
-
-Three mines discovered in Kayts; landowner reported after cleanup; police notified.
-
-🟩
-
-Three mines were found from a blank land in the area of the Kayts police division.
-
-The owner of the land was observed when the land was cleaned. In this case, the Kayts police were informed.
-
-◼️
-
-[Data](articles/081c586b.json)
-
-[Extended Data](ext_articles/081c586b.ext.json)
-
----
-
-### Batticaloa civil society
-
-*2024-05-18 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/183831) · `ta`
-
-Batticaloa Civil Society honored victims of the 1996 Kumarapuram massacre during Mullivaikkal Genocide Week, highlighting ongoing lack of justice for Tamil genocide in Sri Lanka.
-
-🟩
-
-The Batticaloa Civil community paid tribute to those who were assassinated in Kumarapuram in Trincomalee district on Friday evening.
-
-The event took place on Friday, the seventh day of the Mullivaikkal genocide week. The Batticaloa Civil Organization, who went to pay tribute to the people who died in Mullivaikkal, paid tribute to Kumarapuram, Trincomalee.
-
-On behalf of the Civil Society of Batticaloa, V. Lavakumar, Blessed K. Jegadas Adikallar, T. Jivan Adikallar, J. Josephmeri Adikallar, and Rajani were also present.
-
-K. Jegadas Adikallar, who commented on this….. In this Kumarapuram, the Sri Lankan government was assassinated by the Special Task Force in 1996 by the Special Task Force.Those people have not yet received justice. The remaining people were conferred that the military had assassinated it.
-
-...
-
-[Data](articles/510959fe.json)
-
-[Extended Data](ext_articles/510959fe.ext.json)
 
 ---

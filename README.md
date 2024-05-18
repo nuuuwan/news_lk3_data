@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 09:18:37**
+As of **2024-05-18 09:33:56**
 
 ## Newspaper Stats
 
-*Scraped **24,790** Articles*
+*Scraped **24,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,463
 adalk | 2,117
 adaderanalk | 2,868
 tamilmirrorlk | 2,899
-virakesarilk | 3,743
+virakesarilk | 3,744
 dailymirrorlk | 3,893
 adaderanasinhalalk | 3,953
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,786 (100.0%) of 24,790 articles have been extended.
+24,790 (100.0%) of 24,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### ஜனாதிபதி இந்தோனேசியா பயணமானார்
+
+*2024-05-18 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183841) · `ta`
+
+இந்தோனேசியாவின் பாலி நகரில் நடைபெறும் 10 ஆவது உலக நீர்  மாநாட்டின் உயர்மட்டக் கூட்டத்தில் கலந்துகொள்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று சனிக்கிழமை (18) காலை இந்தோனேசியா பயணமானார்.
+
+இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவின் (Joko Widodo) அழைப்பின் பேரில் ஜனாதிபதி இந்த  உத்தியோகபூர்வ பயணத்தை மேற்கொண்டுள்ளார்.
+
+"கூட்டு செழுமைக்கான நீர்" என்ற தொனிப்பொருளில் 10 ஆவது உலக நீர் மாநாடு மே 18 முதல் 20 வரை இந்தோனேசியாவின் பாலி நகரில் நடைபெறவுள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் மே மாதம் 20 ஆம் திகதி மாநாட்டில்  விசேட உரையாற்றவுள்ளார்.
+
+இதேவேளை, ஜனாதிபதி ரணில் விக்ரமசிங்க தனது இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தின் போது, இந்தோனேசிய ஜனாதிபதி உள்ளிட்ட அந்நாட்டின் பல உயர்மட்ட பிரதிநிதிகளுடன் இருதரப்பு கலந்துரையாடல்களிலும் ஈடுபடவுள்ளார்.
+
+ஜனாதிபதியுடனான விஜயத்தில்  ஜனாதிபதி செயலக மற்றும் வெளிவிவகார அமைச்சின் உயர் அதிகாரிகள் குழுவொன்றும் இணைந்து கொள்கிறது.
+
+◼️
+
+[Data](articles/81dcf10d.json)
+
+---
 
 ### Sri Lanka to vie at Asian Relays in Thailand
 
@@ -45,6 +67,8 @@ The Inaugural Asian Athletic Relay Championships will include events for 4X100m 
 ...
 
 [Data](articles/3e8bb26b.json)
+
+[Extended Data](ext_articles/3e8bb26b.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ The Maldives, now ranks second, accounting for 11 percent of the arrivals. Ranki
 ...
 
 [Data](articles/de3e1983.json)
+
+[Extended Data](ext_articles/de3e1983.ext.json)
 
 ---
 
@@ -213,6 +239,8 @@ The Fund noted that the outcomes of the efforts taken to bring the economy on tr
 ...
 
 [Data](articles/d1337f28.json)
+
+[Extended Data](ext_articles/d1337f28.ext.json)
 
 ---
 
@@ -371,6 +399,8 @@ While proceeds of interest bearing loans and borrowings recorded Rs. 4.8 billion
 ...
 
 [Data](articles/248d927f.json)
+
+[Extended Data](ext_articles/248d927f.ext.json)
 
 ---
 
@@ -2191,33 +2221,5 @@ A bond maturing on 01.10.2032 closed up at 11.85/12.00 percent from 11.75/95 per
 [Data](articles/159f796a.json)
 
 [Extended Data](ext_articles/159f796a.ext.json)
-
----
-
-### Ready to provide the necessary cooperation for the development of the Northern Province - US Ambassador
-
-*2024-05-17 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183799) · `ta`
-
-In a meeting between the US Ambassador to Sri Lanka, Julie Chung, and the Governor of the Northern Province, BSM. Charles, discussions focused on development, education, tourism, land release, transportation, employment, and investments. The Governor emphasized improving livestock product usage and adopting mechanical technology. The Ambassador expressed interest in facilitating land releases and enhancing market opportunities through exhibitions. She also announced the resumption of free English classes in Sri Lanka after 27 years, aiming for collaboration with the Governor.
-
-🟩
-
-Governor of the Northern Province BSM. Charles and US Ambassador to Sri Lanka Julie Chung held a meeting today (17).
-
-The Northern Province has discussed a number of issues including development activities, education, tourism, land release, transportation facilities for the islands, employment opportunities and investment activities.
-
-The governor said that the use of livestock products should be improved and people should be used to use mechanical technology.
-
-The US Ambassador asked the governor about the release of land and the facilities for people to enter the lands.
-
-The governor said that land release measures are being carried out in accordance with the president's guidelines. The governor also said that the roads to enter the recently released lands are opening the relevant procedures.
-
-The Governor also asked the US Ambassador to Sri Lanka to cooperate with the exhibition activities to provide market opportunities for products in the North.
-
-...
-
-[Data](articles/a55f1be0.json)
-
-[Extended Data](ext_articles/a55f1be0.ext.json)
 
 ---

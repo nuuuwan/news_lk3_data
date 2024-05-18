@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 15:18:23**
+As of **2024-05-18 15:33:52**
 
 ## Newspaper Stats
 
-*Scraped **24,835** Articles*
+*Scraped **24,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 2,117
 adaderanalk | 2,875
 tamilmirrorlk | 2,907
 virakesarilk | 3,749
-dailymirrorlk | 3,902
-adaderanasinhalalk | 3,961
+dailymirrorlk | 3,903
+adaderanasinhalalk | 3,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,832 (100.0%) of 24,835 articles have been extended.
+24,835 (100.0%) of 24,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### සරසවි සිසුවියකට හිරිහැර කළ තරුණයන් 06ක් අත්අඩංගුවට
+
+*2024-05-18 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196753) · `si`
+
+විශ්වවිද්‍යාල සිසුවියකට හිරිහැර සිදුකළ තරුණයන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+කොළඹ කොටුවේ සිට බදුල්ල බලා ගමන් කළ මෙම තරුණයන් 06 දෙනා එම දුම්රියේ ම ගමන් ගත් විශ්වවිද්‍යාල තරුණියකට අවස්ථා කිහිපයක දී හිරිහැර වන ආකාරයෙන් දුම්රිය තුළ හැසිරී ඇති බව වාර්තා වෙයි.
+
+අදාළ තරුණිය විසින් මේ පිළිබඳව සිය දෙමව්පියන් දැනුවත් කර පසුව හැටන් පොලිස් ස්ථානයට පැමිණිල්ලක් ද සිදුකර තිබේ.
+
+ඒ අනුව එම පොලිස් නිලධාරීන් කණ්ඩායමක් හැටන් දුම්රිය ස්ථානයේ දී අදාළ තරුණයන් 06 දෙනා අත්අඩංගුවට ගෙන ඇති බව වාර්තා විය.
+
+ඔවුන් ශ්‍රී පාද වන්දනාවේ පැමිණ ඇති අතර අවුරුදු 20ත් 30ත් අතර වයස් කාණ්ඩවල පසුවන කොළඹ ප්‍රදේශයේ පදිංචිකරුවන් බවද සඳහන් ය.
+
+සැකකාර තරුණයන්ගෙන් මූලික ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව ඔවුන්ව අද හැටන් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/defbbee6.json)
+
+---
+
+### Dengue cases pegged to surge, calls for clean surroundings
+
+*2024-05-18 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-pegged-to-surge-calls-for-clean-surroundings/108-282881) · `en`
+
+Colombo, May 18 (Daily Mirror) - Despite a recent dip in infections, ongoing showers are likely to drive a rise in Dengue cases, health officials predicted.
+
+Speaking to the Daily Mirror, Dr. Sudath Samaraweera, the Director of the National Dengue Control Unit, said local authorities and health organizations continue to work tirelessly to combat the spread of Dengue.
+
+“Public awareness campaigns, mosquito control measures and prompt medical assistance for those affected remain key strategies in the battle against the disease,” he stressed.
+
+As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
+
+According to the latest data from the Epidemiology Unit, a total of 23,731 Dengue cases have been reported as of May 16, 2024.
+
+The Colombo District, with 5,057 cases, has seen the highest number of infections.
+
+...
+
+[Data](articles/1ca37d5f.json)
+
+---
 
 ### Sri Lanka suffers over $138mn foreign outflow from govt bonds in 2024 after rate cuts
 
@@ -47,6 +91,8 @@ The rupee appreciated 9.1 percent in the first four months, but the gain failed 
 ...
 
 [Data](articles/af22deea.json)
+
+[Extended Data](ext_articles/af22deea.ext.json)
 
 ---
 
@@ -1170,6 +1216,8 @@ It may only apply to supermarkets and not to smaller merchants, however. (Colomb
 
 [Data](articles/87562a1c.json)
 
+[Extended Data](ext_articles/87562a1c.ext.json)
+
 ---
 
 ### 15 years for war victory
@@ -2217,45 +2265,5 @@ Accessible through the provided link now available in many forms, the video show
 [Data](articles/5c6fece8.json)
 
 [Extended Data](ext_articles/5c6fece8.ext.json)
-
----
-
-### Sri Lanka Navy promotes over 3,000 sailors on 15th Victory Day anniversary
-
-*2024-05-17 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99288/sri-lanka-navy-promotes-over-3000-sailors-on-15th-victory-day-anniversary-) · `en`
-
-In view of the 15th anniversary of Victory Day, the Sri Lanka Navy has promoted 3,146 senior and junior Sailors of the Regular and Voluntary Forces to their next ranks, Sri Lanka Navy said.
-
-The relevant promotions have been done by the Commander of the Navy, Vice Admiral Priyantha Perera, with the approval of President and Commander-in-Chief of the Armed Forces, Ranil Wickremesinghe.
-
-Sri Lanka’s security forces, including the armed forces, police, and Civil Security Department, played a critical role in defeating a nearly 30-year-long terrorism. Their selfless commitment, including those who made supreme sacrifice in the line of duty, were instrumental in a successful humanitarian operation that established sovereignty and territorial integrity of the country, the navy said.
-
-...
-
-[Data](articles/c7232c61.json)
-
-[Extended Data](ext_articles/c7232c61.ext.json)
-
----
-
-### Promotions to 3,146 sailors
-
-*2024-05-17 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196737) · `si`
-
-On the 15th War Heroes' Day, 3,146 sailors were promoted by Vice Admiral Priyantha Perera. This recognition honors their significant contributions to Sri Lanka's sovereignty and civilian defense against terrorism over 30 years, alongside the Police and Civil Defense.
-
-🟩
-
-3,146 sailors have been promoted to the 15th War Heroes' Day.
-
-Commander of the Navy Vice Admiral Priyantha Perera has made these promotions to 3,146 senior and junior sailors of the Navy.
-
-The brutal contribution made by the arrogance of the war heroes of the Police and the Civil Defense to establish the sovereignty and civilian defense of terrorism in Sri Lanka for nearly 30 years was a crucial factor for the ruling forces.
-
-◼️
-
-[Data](articles/8bc6c20c.json)
-
-[Extended Data](ext_articles/8bc6c20c.ext.json)
 
 ---

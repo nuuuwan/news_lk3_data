@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 22:04:48**
+As of **2024-05-18 22:18:30**
 
 ## Newspaper Stats
 
-*Scraped **24,873** Articles*
+*Scraped **24,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 2,882
 tamilmirrorlk | 2,909
 virakesarilk | 3,751
 dailymirrorlk | 3,906
-adaderanasinhalalk | 3,975
+adaderanasinhalalk | 3,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,872 (100.0%) of 24,873 articles have been extended.
+24,873 (100.0%) of 24,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### 13 හැවිරිදි පාසල් සිසුවාටත් පොලීසිය ගැහුවා ද ?
+
+*2024-05-18 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196768) · `si`
+
+පොලිස් නිලධාරීන් පිරිසකගේ පහරකෑමට ලක්වූ වයස අවුරුදු 13ක් වූ පාසල් සිසුවෙකු කුරුණෑගල ශික්ෂණ රෝහලට පසුගියදා ඇතුළත් වී තිබුණි.
+
+සිසුවා පැවසුවේ, වායු රයිෆලයක් සහ ජංගම දුරකථනයක් සොරාගත් බවට පවසමින් පොලීසිය තමන්ට පහරදුන් බවය.
+
+"ත්‍රීවීල් එක එලවපු මාමා නම් ගැහුවේ නැහැ. අනිත් අය නම් කටත් මිරුකුවා. දැන් කනට බෙහෙත් දුන්නා."
+
+◼️
+
+[Data](articles/b09ab1bd.json)
+
+---
 
 ### Landslide early warnings issued for four districts
 
@@ -55,6 +71,8 @@ Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayaga
 ◼️
 
 [Data](articles/549e36e5.json)
+
+[Extended Data](ext_articles/549e36e5.ext.json)
 
 ---
 
@@ -2327,35 +2345,5 @@ When the case was taken up for hearing at the Vavuniya court, the homeowner of t
 [Data](articles/e0e8e902.json)
 
 [Extended Data](ext_articles/e0e8e902.ext.json)
-
----
-
-### Siege of leakage plant at Pudukkudiyiruppu;Arrest
-
-*2024-05-18 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183834) · `ta`
-
-In Pudukkudiyiruppu, a man involved in illegal leakage was arrested with production equipment. The raid occurred at 8 AM on Friday, leading to the seizure of 1702 liters of Koda, 30 liters of burned Koda, 58 liters of leakage, and 18 Paralls. A 36-year-old suspect from Devipuram faces further investigation.
-
-🟩
-
-Pudukkudiyiruppu police said that a man who was involved in illegal leakage has been arrested today with equipment used for leakage production in the Devipuram area of Pudukkudiyiruppu.
-
-The arrest of the arrest that took place at 8 am on Friday (17)
-
-Pudukkudiyiruppu police station, Pudukkudiyiruppu police station, has taken a sudden raid on the issue of illegal leakage production in Devipuram Periyapikulam area.
-
-Pudukkudiyiruppu Police Station Superintendent Herat HerathThe arrest was carried out.
-
-Koda 1702 liters, burned Koda 30 liters, 58 liters of leakage, Parall 18, with equipment used to produce leakage
-
-A 36 -year -old suspect from Devipuram has been arrested.
-
-Further investigations are being carried out by the person, the Mullaitivu Magistrate's Court has said that action is being taken.
-
-◼️
-
-[Data](articles/b187bc5c.json)
-
-[Extended Data](ext_articles/b187bc5c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 19:51:23**
+As of **2024-05-18 20:03:21**
 
 ## Newspaper Stats
 
-*Scraped **24,865** Articles*
+*Scraped **24,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 2,881
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,905
-adaderanasinhalalk | 3,971
+adaderanasinhalalk | 3,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,864 (100.0%) of 24,865 articles have been extended.
+24,865 (100.0%) of 24,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### යකදුරාට බැණවැදුණු කාන්තාව ඝාතනය කරයි
+
+*2024-05-18 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196764) · `si`
+
+යකදුරෙකු විසින් ආරක්ෂාව සඳහා පැළඳූ සුරයකින් කිසිඳු සෙතක් නොවීම නිසා ඔහුට බැන වැදුණු කාන්තාවක් ඝාතනය කර තිබේ.
+
+ඒ අදාළ යකදුරාගේ ආධාර අනුබල යටතේ ඔහුගේ ගෝලයා විසින් බව වාර්තා වෙයි.
+
+චන්ද්‍රිකා පෙරේරා, ඇහැලියගොඩ, ඇරෑපොළ ප්‍රදේශයේ පදිංචිව සිටි 57 හැවිරිදි දෙදරු මවකි.
+
+පසුගිය කාලය පුරාම ආර්ථික ගැටලු රැසකට මුහුණ දීමට සිදුවූ ඇය ඊට පිළියම් ලෙස නිරන්තරයෙන්ම ශාන්තිකර්ම සිදුකළ අතර තම පවුලට හිස එසවිය නොහැකි වන තරමටම කිසිවකු සිය පවුලට හූනියමක් සිදුකර ඇතැයි යන විශ්වාසයේ එල්බ තිබුණි.
+
+ඇය පසුගිය කාලය පුරාම කිරිඇල්ල ප්‍රදේශයේ යකදුරෙකු හමුවට ගියේ එකී හූනියම ඉවත් කර ආරක්ෂාවක් කර ගැනීම සඳහාය.
+
+රුපියල් ලක්ෂයකට වැඩි මුදලක් වැය කරමින් ඇය එම හූනියමක් ඉවත් කරගැනීමට උත්සාහ කළ අතර, යකදුරා විසින් ඇයට රන් සුරයක් ද පළඳවා තිබුණි.
+
+මේ අතර එම කාන්තාව පසුගිය අප්‍රේල් 24 වැනිදා උදෑසන නිවසෙන් පිටව ගිය පසු ඇය ගැන කිසිදු තොරතුරක් නොමැති නිසා ඇගේ පුතු විසින් ඇහැලියගොඩ පොලීසියට පැමිණිල්ලක් සිදුකර තිබුණේ තම මව අතුරුදන් වී ඇති බවට සඳහන් කරමිනි.
+
+...
+
+[Data](articles/c65070ea.json)
+
+---
 
 ### Gurudev Sri Sri Ravi Shankar arrives in Sri Lanka
 
@@ -38,15 +62,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Global Peace Ambassador and Spiritual Leader Gurudev Sri Sri Ravi Shankar arrived in Sri Lanka this afternoon (18), on a three-day visit.
 
-State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival in the island. Governor of Eastern Province Senthil Thondaman also joined the State Minister on this occasion.
+State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival to Sri Lanka. Governor of Eastern Province Senthil Thondaman also joined State Minister on this occasion.
 
-He will stay in Sri Lanka from May 18 to 20 and is slated to attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   to be held at Taj Samudra on May 19.
+Gurudev will stay in Sri Lanka from May 18 to 20 and he will attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   held at   Taj Samudra on May 19.
 
 Gurudev Sri Sri Ravi Shankar is an Indian yoga guru and a spiritual leader popularly known as a global humanitarian and peace envoy. He is the founder of ‘Transcendental Meditation’.
 
 ◼️
 
 [Data](articles/67f5961d.json)
+
+[Extended Data](ext_articles/67f5961d.ext.json)
 
 ---
 
@@ -2321,27 +2347,5 @@ I have taken this decision in the 2019 Presidential election. I mentioned among 
 [Data](articles/585de893.json)
 
 [Extended Data](ext_articles/585de893.ext.json)
-
----
-
-### Some families in Jaffna are affected due to extraordinary climate!
-
-*2024-05-18 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183826) · `ta`
-
-Jaffna faces extreme heat affecting local families. The Assistant Director of Jaffna's Disaster Management Division reports damage to homes and displacement of residents in specific areas.
-
-🟩
-
-In Jaffna, there is a high temperature in the past few weeks.
-
-The Assistant Director of the Jaffna District Disaster Management Division, Mr.. Suriyaja said.
-
-In the Nallur Divisional Secretariat Division, four members of a family in the J/91 Grama Niladhari Division and a member of a family in the J/33 Grama Niladhari Division have been affected.. He also noted that a house in the Velanai Divisional Secretariat Division has been damaged in the J/26 Grama Niladhari Division.
-
-◼️
-
-[Data](articles/c2b8660e.json)
-
-[Extended Data](ext_articles/c2b8660e.ext.json)
 
 ---

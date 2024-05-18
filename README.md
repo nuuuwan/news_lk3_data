@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 21:03:21**
+As of **2024-05-18 21:18:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,868 (100.0%) of 24,870 articles have been extended.
+24,870 (100.0%) of 24,870 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The Liberation Tigers of Tamil Eelam (LTTE) also participated in abductions, whi
 
 [Data](articles/f54ee1f0.json)
 
+[Extended Data](ext_articles/f54ee1f0.ext.json)
+
 ---
 
-### රුසියානු යුද පුහුණු පාසලේ ඉන්න අපේ අය ගැන හෙළිදරව්වක්
+### A revelation of our people in Russian war training school
 
 *2024-05-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196766) · `si`
 
-රුසියානු - යුක්‍රේන යුද පෙරමුණුවලට අනීතික ලෙස ගොස් දරුණු ලෙස තුවාල ලබා දිවි බේරාගෙන යළි මෙරටට පළා ආ විශ්‍රාමික සෙබළුන් කිහිපදෙනෙකු තමන් මුහුණදුන් බිහිසුණු හා අමිහිරි අත්දැකීම් ගැන "අද දෙරණ" ට අනාවරණය කළේය.
+Retired soldiers from Sri Lanka recount harsh realities of Russian war training: inadequate pay, poor living conditions, and severe injuries without proper care.
 
-ඔවුන් පවසන්නේ, ඉහළ වැටුප් හා විවිධ පහසුකම් ලබාදෙන බව පවසා තමන්ව එරටට යොමු කළත් ඒ කිසිවක් නිසි ආකාරයෙන් නොලැබුණු බවය.
+🟩
 
-කොමාන්ඩෝ රෙජිමේන්තුවේ වසර 22ක කාලයක් සේවය කර විශ්‍රාම ගොස් රුසියාවට ගිය පසුව එරට කුලී හමුදාවට සම්බන්ධවී යළි මෙරටට පැමිණි මොනරාගල - දඹගල්ල ප්‍රදේශයේ පදිංචි ලලිත් ශාන්ත අද දෙරණට සිය අත්දැකීම් විස්තර කළේය.
+Russian-Ukrainian battlefronts, several retired soldiers who had fled the country with severe injury to the country and had expressed their terrible and bitter experiences.
 
-"16 දෙනෙත් විතර ගියා... එක එක තැන්වලට දැම්මා. ඒ තැනින් ඉදිරි ආරක්ෂක පෙළට දැම්මා. මෝටාර් ප්‍රහාරයක් එල්ල වුණා. උරහිසට, දණහිසට හා යටිපතුට වැදුණා. කිලොමීටර් 8ක් විතර මම කකුල ඇදගෙන ආවේ. එහෙ තියෙන්නේ තාක්ෂණික යුද්ධයක්. ඒක ජයගන්න අපිට අමාරුයි. කෑම හරියට දෙන්නේ නැහැ. පහසුකම් නැහැ. ටෙන්ට් ගහන් හට් ඇතුළේ ඉන්න තියෙන්නේ. අධික සීතලයි. බොහොම දුෂ්කරය ජීවිතයක් ගත කළේ. කිව්වේ පුරවැසිභාවය දෙනවා, දරුවන්ට ඉගෙන ගන්න පහසුකම් දෙනවා, ඒ අය ගොඩක් දේවල් කිව්වා. ඒත් ඒ කිසිම දෙයක් ලැබුණේ නැහැ."
+They say they have not received any of the high wages and various facilities, but none of them were due properly.
+
+Lalith Shantha, a resident of Dambagalla, who had retired and returned to Russia in the Commando Regiment, Lalith Shantalla, who came to Sri Lanka, described her experiences.
+
+"There were about 16 people.. Put on one place. It was placed in the front line of security. Mortar was attacked. The shoulder, knee and substance was hit. About 8kcilotors I dragged the leg. There is a technical war. It's hard to win. The food is not giving. No facilities. The tende have to be inside the hut. Excessive cold. The very difficulty was lived a life. Said citizenship, facilitating children, they said a lot. But none of that got anything. "
 
 ...
 
 [Data](articles/8b5e3c4f.json)
+
+[Extended Data](ext_articles/8b5e3c4f.ext.json)
 
 ---
 

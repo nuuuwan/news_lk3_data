@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 01:33:59**
+As of **2024-05-19 01:51:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,877 (100.0%) of 24,878 articles have been extended.
+24,878 (100.0%) of 24,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -291,6 +291,8 @@ The attempted assassination of Slovakian Prime Minister Robert Fico has sent shi
 ...
 
 [Data](articles/ead226ee.json)
+
+[Extended Data](ext_articles/ead226ee.ext.json)
 
 ---
 

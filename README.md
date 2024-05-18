@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 17:18:26**
+As of **2024-05-18 17:33:50**
 
 ## Newspaper Stats
 
-*Scraped **24,848** Articles*
+*Scraped **24,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 2,877
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,903
-adaderanasinhalalk | 3,967
+adaderanasinhalalk | 3,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,842 (100.0%) of 24,848 articles have been extended.
+24,848 (100.0%) of 24,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### ඇෆ්ගනිස්තානයට යළිත් ගංවතුර - ජීවිත රැසක් අහිමි වෙයි
+### හපුතලේ මීදුමෙන් වැසෙයි
+
+*2024-05-18 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196760) · `si`
+
+අද (18) දිනය පුරා හපුතලේ නගරය හා අවට ප්‍රදේශවල මීදුම් සහිත තත්ත්වයක් පවතින බව අප වාර්තාකරුවන් සඳහන් කරයි.
+
+කොළඹ -  බදුල්ල මාර්ගයේ බෙරගල හපුතලේ අතර බෑවුම් සහිත කොටසට විටින්විට තද මීදුම් තත්ත්වයක් පවතින බවත් වාර්තා වෙයි.
+
+ඒ හේතුවෙන් එම මාර්ගයේ ගමනාගමන කටයුතු සිදුකිරීමේදී දැඩි  සැලකිලිමත්ව කටයුතු කරන ලෙස හපුතලේ පොලීසිය රියදුරන්ට දැනුම්දී ඇති බවද අප වාර්තාකරුවන් වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/f8a54d88.json)
+
+---
+
+### Floods in Afghanistan again - losing many lives
 
 *2024-05-18 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196759) · `si`
 
-මධ්‍යම ඇෆ්ගනිස්තානයට බලපා ඇති ගංවතුර තත්ත්වය හේතුවෙන් පුද්ගලයින් 50කට ආසන්න පිරිසක් ජීවිතක්ෂයට පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Severe floods in Afghanistan claim over 300 lives, injure 1,600, destroy 2,000 homes, and damage 4,000 more.
 
-ආපදා තත්ත්වයෙන් තවත් පුද්ගලයින් විශාල පිරිසක් තුවාල ලබා ඇති අතර නිශ්චිත සංඛ්‍යාවක් මෙතෙක් ප්‍රකාශයට පත්කර නොමැති බව එරට බලධාරීන් පවසයි.
+🟩
 
-අධික වර්ෂාවත් සමග ඇතිවූ ආපදා තත්ත්වය හේතුවෙන් නිවාස 2,000ක් පමණ සම්පූර්ණයෙන් විනාශයට පත්වී ඇති අතර තවත් නිවාස 4,000කට අර්ධ හානි සිදුවී තිබේ.
+Foreign media reports that nearly 50 people have died due to floods affected by central Afghanistan.
 
-පසුගිය සතියේ උතුරු දිග ඇෆ්ගනිස්තානයට බලපෑ දරුණු ගංවතුර තත්ත්වයකින් පුද්ගලයින් 315 දෙනෙකු මියගොස් තවත් 1600කට අධික පිරිසක් තුවාල ලැබීය.
+A large number of other persons were injured in disaster and a certain number has not yet been announced.
+
+About 2,000 houses have been completely destroyed due to the disaster caused with heavy rain and 4,000 other houses were partially damaged.
+
+315 people were killed and another 1600 wounded in severe floods affected by the northern Afghanistan last week.
 
 ◼️
 
 [Data](articles/feb8ca41.json)
+
+[Extended Data](ext_articles/feb8ca41.ext.json)
 
 ---
 
@@ -64,47 +86,63 @@ Having picked up the distress signal disseminated by the Communication Center at
 
 [Data](articles/f9a91d1a.json)
 
+[Extended Data](ext_articles/f9a91d1a.ext.json)
+
 ---
 
-### බාල ඖෂධ සිද්ධිය ගැන CIDයට තවත් පැමිණිල්ලක්
+### Another complaint under CID
 
 *2024-05-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196758) · `si`
 
-ප්‍රමිතියෙන් තොර ඖෂධ ආනයන සිද්ධිය සම්බන්ධයෙන් ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාව පදනම් කර ගනිමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+Professional and civil groups have complained to the CID about the quality of medicine, as reported by the National Audit Office. This follows legal actions taken by the CEO of the National Drug Regulatory Authority against its General Executive Officer and Board of Directors. Dr. Chamal Sanjeewa, CID Chairman, filed a complaint on 18th, focusing on the fraud investigation into the Drug Regulatory Authority's database.
 
-වෘත්තීය හා සිවිල් සංවිධාන නියෝජිතයින් පිරිසක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට එම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+🟩
 
-2022 - 2023 වසරවල ඖෂධ අවශ්‍යතාවය, ප්‍රසම්පාදනය, සැපයුම, බෙදාහැරීම හා නියාමනය පිළිබඳ විශේෂ විගණන වාර්තාව ජාතික විගණන කාර්යාලය පසුගියදා නිකුත් කළේය.
+The CID has lodged a complaint with the Criminal Investigation Department based on the report issued by the National Audit Office regarding the quality of medicine.
 
-එම වාර්තා මගින් ප්‍රශ්නගත ඖෂධ ආනයන සිද්ධියට අදාළව ජාතික ඖෂධ නියාමන අධිකාරියේ එවක ප්‍රධාන විධායක නිලධාරියා හා එය අනුමත කළ පාලක මණ්ඩලයට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගත යුතු බවට නිර්දේශ කර තිබුණි.
+A group of professional and civil organizations representatives have lodged a complaint with the CID.
 
-ඒ අනුව, අදාළ නිර්දේශ ඇතුළත් ලේඛන ඉදිරිපත් කරමින් අද (18) දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළ බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පැවසීය.
+2022 - 2023 The National Audit Office was released recently.
 
-...
+The CEO of the National Drug Regulatory Authority of the National Drug Regulatory Authority had to take legal action against the General Executive Officer of the National Drug Regulatory Authority and the Board of Directors.
+
+Accordingly, Dr. Chamal Sanjeewa, Chairman of the CID, has lodged a complaint with the CID today (18), has lodged a complaint with the CID today (18).
+
+He also said that the procedure of the investigation conducted by the Criminal Investigation Department regarding the fraud on the Database of the Drug Regulatory Authority.
+
+◼️
 
 [Data](articles/ea3b319f.json)
 
+[Extended Data](ext_articles/ea3b319f.ext.json)
+
 ---
 
-### பல்கலைக்கழக மாணவிக்கு தொல்லை கொடுத்த இளைஞர்கள்
+### Young people who troubled the university student
 
 *2024-05-18 16:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பல்கலைக்கழக-மாணவிக்கு-தொல்லை-கொடுத்த-இளைஞர்கள்/76-337470) · `ta`
 
-ஹட்டன் ரயில் நிலையத்தில் வைத்து பல்கலைக்கழக மாணவிக்கு தொல்லை கொடுத்த 06 இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Six youths aged 20-30 from Colombo were arrested for harassing a university student on a train from Colombo Fort to Badulla. The student complained to her parents and then to the Hatton Police Station, leading to the arrests. They will face charges at the Hatton Magistrate's Court.
 
-கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த ரயிலில் சென்ற 06 இளைஞர்கள் அதே ரயிலில் பயணித்த பல்கலைக்கழக மாணவிக்கு பல தடவைகள் தொல்லை கொடுக்கும் வகையில் செயற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இது தொடர்பில் குறித்த மாணவி தனது பெற்றோருக்கு அறிவித்து பின்னர் ஹட்டன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Six youths have been arrested for allegedly harassing a university student at Hatton Railway Station.
 
-அதன்படி, குறித்த 06 இளைஞர்களை பொலிஸ் அதிகாரிகள் குழுவொன்று ஹட்டன் புகையிரத நிலையத்தில் வைத்து கைது செய்ததாக தெரிவிக்கப்படுகிறது.
+It is reported that six youths who traveled from Colombo Fort to Badulla have been harassing the university student who was traveling on the same train.
 
-இவர்கள் சிவனொளிபாத மலைக்கு யாத்திரிகை வந்துள்ளதாகவும் கொழும்பில் வசிக்கும் 20 முதல் 30 வயதுக்கும் இடைப்பட்டவர்கள் எனவும் தெரிவிக்கப்படுகின்றது.
+The student has notified her parents and later lodged a complaint at the Hatton Police Station.
 
-சந்தேகநபர்களிடம் இருந்து ஆரம்பகட்ட வாக்குமூலங்களைப் பதிவு செய்த பின்னர், அவர்கள் இன்று ஹட்டன் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளனர். R
+Accordingly, a group of police officers arrested the six youths at the Hatton Railway Station.
+
+It is reported that they have come to the Sivanolipada hill and are between the ages of 20 and 30 in Colombo.
+
+After registering the initial affidavits from the suspects, they will be produced before the Hatton Magistrate's Court today. Remble
 
 ◼️
 
 [Data](articles/afd662c2.json)
+
+[Extended Data](ext_articles/afd662c2.ext.json)
 
 ---
 
@@ -125,6 +163,8 @@ On Wednesday, a helicopter used by the Afghan air force crashed due to “techni
 ...
 
 [Data](articles/e41d8337.json)
+
+[Extended Data](ext_articles/e41d8337.ext.json)
 
 ---
 
@@ -828,21 +868,29 @@ Police arrested a civil organizer activist.
 
 ---
 
-### මැයි 18: වසර 15ක් මුල්ලිවයික්කාල් වෙරළ තීරයෙන් ඇසෙන යුද්ධයේ අමිහිරි දෝංකාරය
+### May 18: 15 years of war of the war to hear from Mullivaik Beach
 
 *2024-05-18 10:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py2pelnz5o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මම එයාව අන්තිම වතාවට දැක්කේ මුල්ලිවයික්කාල් වෙරළේ ඉන්නකොට.''
+On May 18, survivors and relatives gathered at Mullivaik Beach to remember the 15-year war and those who disappeared. Despite international findings of human rights violations, no independent national investigation has occurred.
 
-මැයි 18: වසර 15ක් මුල්ලිවයික්කාල් වෙරළ තීරයෙන් ඇසෙන යුද්ධයේ අමිහිරි දෝංකාරය
+🟩
 
-''යුද්ධයේ අවසන් වෙලාවේ අපි යනකොට මුලතිව්වල රතුපාට CTB  බස් එකකට ටික දෙනෙක් නග්ගගෙන තියෙනවා. ආමි එකෙන් නගින්න කියලා, බස් එකට නග්ගගෙන තියෙන්නේ. එතන මගේ මහත්තයත් හිටියා කියලා  මගේ මස්සිනා දැකලා අපිට කිව්වා.'' යනුවෙන් වසර 15ක් තිස්සේ සිය සැමියා සොයන සෙල්වරාසා පද්මිණි BBC සිංහල සේවයට පැවසුවාය.
+None contains anything here.Video heads, '' I saw him when I was on the beach. ''
 
-යුද්ධයෙන් මිය ගිය සහ අතුරුදහන්වූවන් සිහි කිරීමට අද (මැයි 18) ඔවුන්ගේ පවුල්වල ඥාතීහු මුලතිව්, මුල්ලිවයික්කාල් වෙරළට පැමිණ සිටියහ.
+May 18: 15 years of war of the war to hear from Mullivaik Beach
 
-...
+"A few people have been saved in Mullaita when the end of the war. To climb in the army, the bus has been saved. I saw my brother-in-law and told us. "
+
+Relatives of their families to commemorate the war and the disappearances were present at Mullaitivu Beach.
+
+"According to international law by the United Nations investigation, crime, international human rights and humanitarian law violations have been found, but today has not yet had an independent or impartial national investigation into such serious crimes. Their close associates have to contend with the families of families of the family during the conflict. The victims are really heartwarming to hear whether the victims were futile. "
+
+◼️
 
 [Data](articles/3757191f.json)
+
+[Extended Data](ext_articles/3757191f.ext.json)
 
 ---
 
@@ -2287,21 +2335,5 @@ Since its inception in 2002, Sadaharitha Group has been at the forefront of revo
 [Data](articles/19fe2e8d.json)
 
 [Extended Data](ext_articles/19fe2e8d.ext.json)
-
----
-
-### Commercial Bank in strategic partnership with Q&E to enhance SME capabilities
-
-*2024-05-17 23:40:20* · [`dailyftlk`](https://www.ft.lk/business/Commercial-Bank-in-strategic-partnership-with-Q-E-to-enhance-SME-capabilities/34-761941) · `en`
-
-Commercial Bank has announced a strategic partnership with Q&E to enhance the capabilities of small and medium enterprises (SMEs) through the Commercial Bank LEAP Global Linker platform.
-
-The Commercial Bank LEAP GlobalLinker is a pioneering initiative in Sri Lanka, spearheaded by the bank itself. It’s a cutting-edge ecosystem designed to foster networking opportunities both domestically and internationally. Developed with the backing of the International Finance Corporation (IFC), this platform is tailored to digitise enterprises and enhance business operations.
-
-...
-
-[Data](articles/25729ba5.json)
-
-[Extended Data](ext_articles/25729ba5.ext.json)
 
 ---

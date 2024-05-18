@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 11:03:20**
+As of **2024-05-18 11:18:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,800 (100.0%) of 24,801 articles have been extended.
+24,801 (100.0%) of 24,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The two remaining fishermen onboard are safe, the police confirmed.
 ◼️
 
 [Data](articles/7d933396.json)
+
+[Extended Data](ext_articles/7d933396.ext.json)
 
 ---
 

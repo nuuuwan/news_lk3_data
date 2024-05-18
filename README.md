@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 07:44:13**
+As of **2024-05-18 07:56:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,776 (100.0%) of 24,777 articles have been extended.
+24,777 (100.0%) of 24,777 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ As Vesak is just around the corner, people erecting pandals in various locations
 ◼️
 
 [Data](articles/68069612.json)
+
+[Extended Data](ext_articles/68069612.ext.json)
 
 ---
 

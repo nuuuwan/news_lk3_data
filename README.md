@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 14:04:07**
+As of **2024-05-18 14:18:35**
 
 ## Newspaper Stats
 
-*Scraped **24,823** Articles*
+*Scraped **24,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,117
 adaderanalk | 2,874
 tamilmirrorlk | 2,905
 virakesarilk | 3,747
-dailymirrorlk | 3,900
+dailymirrorlk | 3,901
 adaderanasinhalalk | 3,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,822 (100.0%) of 24,823 articles have been extended.
+24,823 (100.0%) of 24,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Society’s petition argues that the project “poses a severe threat to the
 ...
 
 [Data](articles/8b60bd53.json)
+
+[Extended Data](ext_articles/8b60bd53.ext.json)
 
 ---
 

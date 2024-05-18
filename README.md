@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 13:33:47**
+As of **2024-05-18 13:52:38**
 
 ## Newspaper Stats
 
-*Scraped **24,819** Articles*
+*Scraped **24,822** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 222
 bbccomsinhala | 252
-dbsjeyarajcom | 252
+dbsjeyarajcom | 253
 newsfirstlk | 363
 islandlk | 1,339
 economynextcom | 1,428
@@ -19,18 +19,42 @@ adalk | 2,117
 adaderanalk | 2,873
 tamilmirrorlk | 2,905
 virakesarilk | 3,747
-dailymirrorlk | 3,899
-adaderanasinhalalk | 3,958
+dailymirrorlk | 3,900
+adaderanasinhalalk | 3,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,819 (100.0%) of 24,819 articles have been extended.
+24,819 (100.0%) of 24,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### ප්‍රදේශ රැසකට නායයෑම් සහ ගංවතුර ගැන අනතුරු ඇඟවීමක්
+
+*2024-05-18 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196749) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ප්‍රදේශ කිහිපයක ගංවතුර අවදානමක් මතුවිය හැකි බව වාරිමාර්ග දෙපාර්ථමේන්තුව පවසයි.
+
+ඒ අනුව දැදුරු ඔය, මහ ඔය, අත්තනගලු ඔය, කැලණි ගඟ, බෙන්තර ගඟ, ගිං ගඟ, නිල්වලා ගඟ, කිරම ඔය, ඌරු බොකු ඔය, කලා ඔය, මහවැලි ගඟ, මල්වතු ඔය ද්‍රෝණි ආශ්‍රිත පහත් බිම් ගංවතුර අවධානමකට ලක්විය හැකි බව දැනුම්දී තිබේ.
+
+පවතින අධික වැසි සහිත කාලගුණ තත්ත්වය ඉදිරි දින කිහිපයේදීත් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර රජරට ප්‍රදේශයට ඇදහැලෙන අධික වර්ෂාවත් සමග රාජාංගනය ජලාශයේ ජල මට්ටම අඩි 31ක් දක්වා ඉහළ ගොස් තිබේ.
+
+ඒ හේතුවෙන් රාජාංගනය ජලාශයේ වාන් දොරටු 4ක් විවෘත කර ඇති අතර ඉන් තත්පරයට ඝණ අඩි 2,100 බැගින් ජලය මුදා හැරේ.
+
+අංගමුව ජලාශයේ වාන් දොරටු දෙක ද විවෘත කර ඇති අතර ඒ හේතුවෙන් පහත් බිම්වල වෙසෙන ජනතාවට ඒ පිළිබඳව අවධානයෙන් පසුවන ලෙස ජලාශ භාර ඉංජිනේරුවන් ඉල්ලා සිටී.
+
+ජලාශවල වාන් දොරටු විවෘත කිරීමත් සමග අනුරාධපුර 38 කණුව මහබුලංකුලම ප්‍රදේශයේ කුඹුරු අක්කර 300ක් පමණ ජලයෙන් යටවී ගොස් තිබුණි.
+
+...
+
+[Data](articles/3761c4e6.json)
+
+---
 
 ### The government informs the government of public to apologize publicly
 
@@ -131,6 +155,22 @@ Winds from Beruwala and Beruwala and Hambantota to Beruwala and Hambantota to Po
 [Data](articles/bed1f474.json)
 
 [Extended Data](ext_articles/bed1f474.ext.json)
+
+---
+
+### Report of committee on increasing senior citizens’ accounts interest rates to President next week
+
+*2024-05-18 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Report-of-committee-on-increasing-senior-citizens-accounts-interest-rates-to-President-next-week/108-282878) · `en`
+
+Colombo,May 18 (DailyMirror) - The report of the committee appointed to inquire on increasing the interest rates of the bank accounts of senior citizens will be handed over to the President next week, Finance State Minister Ranjith Siyambalapitiya said.
+
+He said the committee appointed to study and prepare a report regarding the increase in the interest rates for senior citizens’ accounts met at the  of Finance Ministry. Minister Siyambalapitiya said that during the meeting he had directed the committee to find out how the interest rates can be raised based on the current economic situation and act accordingly.
+
+"There are about 1.1 million accounts owned by people over 60 years of age and there is a need to regularize them. In particular, comments were expressed regarding the investigations of a single person maintaining several bank accounts, and depositing money of other parties in those accounts. The relevant report is to be submitted to the President next week," he said
+
+...
+
+[Data](articles/7ece246d.json)
 
 ---
 
@@ -1119,6 +1159,22 @@ The promotions were sanctioned by President and Commander-in-Chief of the Armed 
 [Data](articles/2e31bd19.json)
 
 [Extended Data](ext_articles/2e31bd19.ext.json)
+
+---
+
+### 70th Anniversary of the Historic 55 Day Battle of Ðiên Biên Phú , from March 13 to May 7, 1954. In which  the French Army was catastrophically defeated by the Vietnamese Forces led by Ho Chi Minh and  Võ Nguyên Giáp
+
+*2024-05-18 03:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84053) · `en`
+
+I  had the most salutary email the other day, a reviving lift amid these, humanity’s darkest days, surely, in the memory of anyone living. It was from George Burchett, an Australian painter who resides in Hanoi, the city of his birth.
+
+George was born in Hanoi because he is the offspring of Wilfred Burchett, one of the towering greats among 20th century correspondents. Wilfred is celebrated for many things, one of which is his coverage of Vietnam’s anti-imperialist wars, of which there are two, from the North.
+
+And George wanted to remind those who receive his privately distributed newsletter, People’s Information Bureau, that it is time to mark the 70th anniversary of the victory of the Viêt Minh, Ho Chi Minh’s revolutionary movement, over the French at Ðiên Biên Phú, a valley in the remote highlands hard by the Laotian border in northwestern Vietnam.
+
+...
+
+[Data](articles/b96c3f5a.json)
 
 ---
 
@@ -2175,65 +2231,5 @@ Eng. Shantha Senarath, a Past President of OPA and the Moderator of the seminar,
 [Data](articles/a61a376e.json)
 
 [Extended Data](ext_articles/a61a376e.ext.json)
-
----
-
-### Ella - Lock to the main road
-
-*2024-05-17 20:23:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-பிரதான-வீதிக்கு-பூட்டு/175-337460) · `ta`
-
-"Ella to Wellawaya main road closure: 8pm to 6am tomorrow."
-
-🟩
-
-The Ella - Wellawaya main road is to be closed from 8 pm to 6 am tomorrow.
-
-◼️
-
-[Data](articles/91e74033.json)
-
-[Extended Data](ext_articles/91e74033.ext.json)
-
----
-
-### Ella-Wellawaya road closed again
-
-*2024-05-17 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ella-Wellawaya-road-closed-again/108-282831) · `en`
-
-Colombo, May 17 (Daily Mirror) - In light of the ongoing adverse weather conditions, authorities have announced the temporary closure of the Ella-Wellawaya main road, effective from 8:00 p.m. today till 6:00 a.m. tomorrow (18).
-
-Hence, motorists are urged to seek alternate routes during this period to ensure their safety.
-
-This decision comes as a precautionary measure due to the hazardous state of the road.
-
-◼️
-
-[Data](articles/ce8eb629.json)
-
-[Extended Data](ext_articles/ce8eb629.ext.json)
-
----
-
-### A controversial statement from the Commissioner of Examinations regarding the GCE O / L
-
-*2024-05-17 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196735) · `si`
-
-Commissioner Amit Jayasundara, facing criticism over GCE O/L issues, met with Sri Lanka's Human Rights Commission for nearly three hours. He assured that actions would be taken to address student concerns and investigations into exam officials' conduct were underway.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara says that the students who face all the problems of the GCE O / L examination will be taken to do justice.
-
-The Commissioner General of Examinations Amit Jayasundara today (16) was summoned to the Human Rights Commission of Sri Lanka (HRC).
-
-"Today, Ada Derana reporter said that the complaint was heard during the Human Rights Commission for nearly three hours.
-
-He further stated that an investigation into the officials carried out at the relevant examinations are also conducted by the employees of the Gubargoda School, he added.
-
-◼️
-
-[Data](articles/71a94448.json)
-
-[Extended Data](ext_articles/71a94448.ext.json)
 
 ---

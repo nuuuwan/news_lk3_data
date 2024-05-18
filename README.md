@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 19:34:04**
+As of **2024-05-18 19:51:23**
 
 ## Newspaper Stats
 
-*Scraped **24,864** Articles*
+*Scraped **24,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,339
 economynextcom | 1,433
 dailyftlk | 1,464
 adalk | 2,122
-adaderanalk | 2,880
+adaderanalk | 2,881
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
 dailymirrorlk | 3,905
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,971
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,864 (100.0%) of 24,864 articles have been extended.
+24,864 (100.0%) of 24,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### Gurudev Sri Sri Ravi Shankar arrives in Sri Lanka
+
+*2024-05-18 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99304/gurudev-sri-sri-ravi-shankar-arrives-in-sri-lanka) · `en`
+
+The Global Peace Ambassador and Spiritual Leader Gurudev Sri Sri Ravi Shankar arrived in Sri Lanka this afternoon (18), on a three-day visit.
+
+State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival in the island. Governor of Eastern Province Senthil Thondaman also joined the State Minister on this occasion.
+
+He will stay in Sri Lanka from May 18 to 20 and is slated to attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   to be held at Taj Samudra on May 19.
+
+Gurudev Sri Sri Ravi Shankar is an Indian yoga guru and a spiritual leader popularly known as a global humanitarian and peace envoy. He is the founder of ‘Transcendental Meditation’.
+
+◼️
+
+[Data](articles/67f5961d.json)
+
+---
 
 ### Colombo Air Show reschedule for next year
 
@@ -2325,29 +2343,5 @@ In the Nallur Divisional Secretariat Division, four members of a family in the J
 [Data](articles/c2b8660e.json)
 
 [Extended Data](ext_articles/c2b8660e.ext.json)
-
----
-
-### People's rally towards the US embassy to stop Israel's aid;Interrupted by security forces
-
-*2024-05-18 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183825) · `ta`
-
-In Colombo, a rally against Israel's aid and Gaza violence, led by MP Rajitha Senaratne, was disrupted by security forces near the US embassy. Over 200 participants chanted for peace, against war, and called for the US to halt support for Israel. Despite police efforts to limit the protest, the event highlighted public discontent and calls for ceasefire.
-
-🟩
-
-A popular rally organized in Colombo on Friday (17), demanding the ceasefire in Gaza and the US to hold military assistance to Israel, was interrupted by a large number of security forces who had been mobilized before the US embassy.
-
-A rally was organized in Colombo on Friday by the World Alliance for the War of MP Rajitha Senaratne, who expressed their opposition to the ongoing assassinations in Gaza and the military aid to Israel to Israel by the United States.
-
-The rally, which commenced at 2.30 pm recently at the Vikramagadevi Park in Colombo, traveled to the US embassy via Sir Marcus Fernando Mawatha.
-
-The rally, organized by the 'Roses for guns', the leader of the Global Alliance and the United People's Power Member of Parliament Rajitha Senaratne, United People's Power Member of ParliamentMore than 200 people were present as children.
-
-...
-
-[Data](articles/81591d6c.json)
-
-[Extended Data](ext_articles/81591d6c.ext.json)
 
 ---

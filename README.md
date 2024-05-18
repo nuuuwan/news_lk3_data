@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 12:04:19**
+As of **2024-05-18 12:18:50**
 
 ## Newspaper Stats
 
-*Scraped **24,806** Articles*
+*Scraped **24,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,339
 economynextcom | 1,426
 dailyftlk | 1,463
 adalk | 2,117
-adaderanalk | 2,871
-tamilmirrorlk | 2,903
+adaderanalk | 2,872
+tamilmirrorlk | 2,904
 virakesarilk | 3,744
 dailymirrorlk | 3,898
 adaderanasinhalalk | 3,956
@@ -26,41 +26,93 @@ adaderanasinhalalk | 3,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,803 (100.0%) of 24,806 articles have been extended.
+24,806 (100.0%) of 24,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### சுகாதார சீர்கேட்டுடன் நடத்தப்பட்ட உணவகம்
+### US warns of possible Pride Month attacks worldwide
+
+*2024-05-18 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99295/us-warns-of-possible-pride-month-attacks-worldwide) · `en`
+
+US officials have warned that foreign terror organisations may attempt to target LGBT events around the world during Pride Month in June.
+
+“Stay alert in locations frequented by tourists, including Pride celebrations,” a warning issued by the state department said.
+
+The advisory came on Friday, a week after a similar alert issued by US law enforcement agencies.
+
+The Federal Bureau of Investigation (FBI) and Department of Homeland Security (DHS) said: “Foreign terrorist organizations or supporters may seek to exploit increased gatherings associated with the upcoming June 2024 Pride Month.”
+
+Although no specific gatherings or locations were mentioned in the warnings, the law enforcement agencies noted that messages from the Islamic State (IS) group distributed in English in February 2023 included rhetoric against LGBTQI+ (lesbian, gay, bisexual, transgender, questioning, and intersex) events and venues.
+
+...
+
+[Data](articles/648ba723.json)
+
+---
+
+### இலங்கையர்களின் படகு விபத்து - ஒருவர் மரணம்
+
+*2024-05-18 12:00:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இலங்கையர்களின்-படகு-விபத்து-ஒருவர்-மரணம்/73-337466) · `ta`
+
+வாழைச்சேனை துறைமுகத்திலிருந்து ஆழ்கடலுக்கு மீன்பிடிக்கச் சென்ற படகொன்று வெள்ளிக்கிழமை (17) விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கல்முனை பகுதியைச் சேர்ந்த நபரின் இயந்திரப் படகு ஐந்து பேருடன் மீன்பிடிக்க ஆழ்கடலுக்குச் சென்றுள்ளது.
+
+படகில் சென்றவர்கள் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டுக் கொண்டிருந்த போது அப்பகுதியால் சென்ற கப்பல் ஒன்று படகுடன் மோதி விபத்துக்குள்ளாகியுள்ளதாக விசாரணைகளின்போது தெரியவந்துள்ளது.
+
+இவ் விபத்தில் படகு கடலில் கவிழ்ந்துள்ளதுடன், அதில் சென்ற ஐவரில் ஒருவர் மரணமடைந்த நிலையில் மீட்கப்பட்டுள்ளதுடன், ஒருவர் கடலில் விழுந்து காணாமல் போயுள்ளார்.
+
+காணாமல் போன நபரை தேடும் பணிகள் இடம்பெற்று வருவதுடன், மரணித்தவரின் உடலும், ஏனைய நபர்களையும் கரைக்கு கொண்டுவர நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.  R
+
+◼️
+
+[Data](articles/61c81fb7.json)
+
+---
+
+### Restaurant
 
 *2024-05-18 11:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சுகாதார-சீர்கேட்டுடன்-நடத்தப்பட்ட-உணவகம்/71-337465) · `ta`
 
-யாழ்ப்பாணம் , இணுவில் பகுதியில் சுகாதார சீர்கேட்டுடன் உணவகங்களை நடத்திய உணவாக உரிமையாளர் மூவரை கடுமையாக எச்சரித்த நீதிமன்றம் , அவர்களுக்கு 60 ஆயிரம் ரூபாய் தண்டமும் விதித்துள்ளது.
+In Jaffna and Awil, three restaurant owners face fines totaling 60,000 rupees after a health inspection revealed violations. Public Health Inspector C. Sivanujan led the raid, leading to legal action from the Mallakam Magistrate's Court. The owners admitted guilt, receiving penalties ranging from 15,000 to 25,000 rupees each.
 
-இணுவில் பகுதிக்கான பொது சுகாதார பரிசோதகர் சி. சிவானுஜன் இணுவில் பகுதியில் உள்ள உணவகங்களில் திடீர் சோதனை நடவடிக்கையை மேற்கொண்டார்.
+🟩
 
-அதன்போது மூன்று உணவகங்கள் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த நிலையில் , குறித்த உணவக உரிமையாளர்களுக்கு எதிராக மல்லாகம் நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+The court has strongly warned the three owner of the restaurant with a health disorder in the Jaffna and Awil area, which has been sentenced to 60 thousand rupees.
 
-குறித்த வழக்கு நேற்றைய தினம் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட வேளை தம் மீதான குற்றச்சாட்டுக்களை உரிமையாளர்கள் ஏற்றுக்கொண்டதை அடுத்து, அவர்களை கடுமையாக எச்சரித்த மன்று , 25 ஆயிரம் , 15 ஆயிரம் மற்றும் 20 ஆயிரம் ரூபாய் என மூவருக்கும் 60 ஆயிரம் ரூபாய் தண்டம் விதித்தது.  R
+Public Health Inspector C The area. Sivanujan carried out a raid on restaurants in the Arauvil area.
+
+The Mallakam Magistrate's Court filed a lawsuit against the restaurant owners, while three restaurants were operating with health problems.
+
+When the case was taken up for hearing yesterday, the owners accepted the allegations against them, and they were severely warned of them, and the three were sentenced to Rs 25 thousand, 15 thousand and 20 thousand rupees.R
 
 ◼️
 
 [Data](articles/e7c6a2e2.json)
 
+[Extended Data](ext_articles/e7c6a2e2.ext.json)
+
 ---
 
-### වෙල්ලමුල්ලිවයික්කාල් සිහිකරමින් සැමරුමක් වැල්ලවත්තේදී
+### In Wellawatte, a celebration of Vellamullivaikkal
 
 *2024-05-18 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196745) · `si`
 
-මෙරට යුද ගැටුම්වල තීරණාත්මක ස්ථානයක් වූ වෙල්ලමුල්ලිවයිකාල් සිහිකරමින් වැල්ලවත්ත වෙරළ තීරයේදී පිරිසක් විසින් අද (18) උදෑසන සැමරුමක් සංවිධානය කර තිබුණි.
+A celebration marking Vellamullivaikal took place at Wellawatte coast, but it was marred by police arresting a civil activist organizer.
 
-එහිදී විරෝධය පළකළ සිවිල් සංවිධාන ක්‍රියාකාරිකයෙකුව පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+🟩
+
+Vellamullivaikal was organized by a group of celebrations at the Wellawatte coast today (18) at the Wellawatte coast.
+
+Police arrested a civil organizer activist.
 
 ◼️
 
 [Data](articles/1bc90860.json)
+
+[Extended Data](ext_articles/1bc90860.ext.json)
 
 ---
 
@@ -84,19 +136,25 @@ He said in 2000, a total of 225 tamed elephants were in the country, but now the
 
 ---
 
-### යතුරුපැදි අනතුරකින් එක් අයෙක් මරුට
+### One killed in motorcycle accident
 
 *2024-05-18 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196744) · `si`
 
-පොලීසිය ප්‍රකාශ කළේ යතුරුපැදි දෙකක් එකිනෙක ගැටී ඊයේ (17) රාත්‍රි‍යේ එම අනතුර සිදුවී ඇති බවය.
+A fatal motorcycle crash occurred last night involving two bikes. One rider died, while both were severely hurt and hospitalized. The investigation continues.
 
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරුවන් දෙදෙනා සහ පසුපැදිකරුවෙකු ප්‍රතිකාර සඳහා කැකිරාව රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා දඹුල්ල රෝහලට ඇතුළත් කිරීමේදී එක් අයෙකු මියගොස් තිබේ.
+🟩
 
-මෘත ශරීරය දඹුල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් කැකිරාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The police said that the accident had occurred last night at two motorbikes.
+
+The two motorcyclists who were seriously injured in the accident were admitted to the Kekirawa hospital for further treatment and was admitted to the Dambulla hospital.
+
+The remains are placed at the Dambulla hospital morgue and Kekirawa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/80f7e571.json)
+
+[Extended Data](ext_articles/80f7e571.ext.json)
 
 ---
 
@@ -2161,41 +2219,5 @@ Police said a group of five police officers were on their way to Anuradhapura on
 [Data](articles/2d41b4b0.json)
 
 [Extended Data](ext_articles/2d41b4b0.ext.json)
-
----
-
-### India, China interested in Sri Lanka’s Climate Change University; BC ready to bring UK universities
-
-*2024-05-17 18:43:00* · [`economynextcom`](https://economynext.com/india-china-interested-in-sri-lankas-climate-change-university-bc-ready-to-bring-uk-universities-163501/) · `en`
-
-ECONOMYNEXT – India and China have shown huge interest in International Climate Change University in Sri Lanka with an aim to promote climate related research and technologies while British Council has pledged to help bring in universities for academic activities, a climate change advisor said.
-
-Sri Lanka President Ranil Wickremesinghe launched his ambitious International Climate Change University at the 2023 United Nations Climate Change Conference (COP28) in Dubai.
-
-The International Climate Change University was one of the proposals Wickremesinghe made in the previous Climate Change Conference (COP27) in Egypt in 2022 and his government has already allocated 600 acres of land in the central Nuwara Eliya district.
-
-“There is a lot of interest on the university from India and China,” Ruwan Wijewardena, the senior advisor to president Wickremesinghe on Climate change told Economy Next in an interview.
-
-...
-
-[Data](articles/24879039.json)
-
-[Extended Data](ext_articles/24879039.ext.json)
-
----
-
-### Crew of 20 Indians, Sri Lankan stuck on crippled ship in Baltimore for 7 weeks, can’t pay bills
-
-*2024-05-17 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99286/crew-of-20-indians-sri-lankan-stuck-on-crippled-ship-in-baltimore-for-7-weeks-cant-pay-bills) · `en`
-
-Twenty Indian crew members and a Sri Lankan are stranded on board the Dali, the container ship that collided with the Francis Scott Key Bridge in Baltimore. For the last seven weeks, they have been confined to the vessel due to an ongoing probe. With their phones confiscated, they cannot even pay bills for their families back home, the Indian media reported.
-
-“They can’t do any online banking. They can’t pay their bills at home. They don’t have any of their data or anyone’s contact information, so they’re really isolated right now. They just can’t reach out to the folks they need to, or even look at pictures of their children before they go to sleep. It’s really a sad situation,” Joshua Messick, executive director of the Baltimore International Seafarers’ Center, a non-profit organisation that works to protect the rights of mariners, was quoted as saying by the BBC.
-
-...
-
-[Data](articles/ae6e3d20.json)
-
-[Extended Data](ext_articles/ae6e3d20.ext.json)
 
 ---

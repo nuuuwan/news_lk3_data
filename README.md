@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 07:18:07**
+As of **2024-05-18 07:44:13**
 
 ## Newspaper Stats
 
-*Scraped **24,776** Articles*
+*Scraped **24,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,56 @@ adalk | 2,115
 adaderanalk | 2,866
 tamilmirrorlk | 2,899
 virakesarilk | 3,742
-dailymirrorlk | 3,888
+dailymirrorlk | 3,889
 adaderanasinhalalk | 3,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,775 (100.0%) of 24,776 articles have been extended.
+24,776 (100.0%) of 24,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
 
-### අද සිට වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක්
+### Vesak pandals in the making….
+
+*2024-05-18 07:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-pandals-in-the-making/110-282829) · `en`
+
+As Vesak is just around the corner, people erecting pandals in various locations in Colombo, including Kosgashandiya, Thotalanga, Maradana, Peliyagoda, Orugodawaththa and Dematagoda. Pix by Pradeep Pathirana.
+
+◼️
+
+[Data](articles/68069612.json)
+
+---
+
+### Increase in showers and windy quality
 
 *2024-05-18 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196739) · `si`
 
-ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් අද දින(18) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect increased rainfall and stronger winds across Sri Lanka and nearby regions over the coming days, especially in the Western, Sabaragamuwa, North Western, and Southern provinces. Thunderstorms may bring heavy showers and gusty winds, reaching speeds of 30-40 km/h in some areas. The Department of Meteorology advises caution against potential lightning strikes and strong winds.
 
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල දහවල් 12.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+The Department of Meteorology states that a rain and wind will be increased from the next few days due to the growing pre-monsoonal weather conditions in Sri Lanka and surrounding areas.
 
-බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩිතද වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Southern provinces.
 
-දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. (30-40)ක පමණ තරමක් තද සුළං ඇති වියහැකි බව දැනුම් දී තිබේ.
+Showers or thundershowers will occur at several places about 12.00 pm in the rest of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසට කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Some locations in the Western, Sabaragamuwa, North Western provinces and in the Galle and Matara Districts. Rain time will also occur at 100.
+
+At the Southern Province. It has been informed that around (30-40) can be fairly strong winds.
+
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/65dc6dcb.json)
+
+[Extended Data](ext_articles/65dc6dcb.ext.json)
 
 ---
 
@@ -2191,31 +2209,5 @@ Mom asked for details about my family about me. Without any permission, they can
 [Data](articles/f3d17ae0.json)
 
 [Extended Data](ext_articles/f3d17ae0.ext.json)
-
----
-
-### We examine the issue of common candidate;TELO - Selvam MP
-
-*2024-05-17 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183791) · `ta`
-
-Selvam Adakkalanathan, representing the LTTE, aims to unite Tamil parties for the presidential election, focusing on restoring displaced Tamils and protecting their homeland. The Tamil Eelam Liberation Movement is negotiating with other nationalist parties. They vow to defend their land from South Sri Lanka forces, particularly targeting the Vanni and Vavuniya districts. Despite legal challenges, they stand ready to collaborate post-decision. Parliamentary elections may precede the presidential ones, but their priority remains addressing Tamil issues. Observations of Mullivaikkal Memorial Day highlight ongoing struggles against oppressive forces, emphasizing their commitment to defending Tamil rights and lands during the election period.
-
-🟩
-
-The leader of the Liberation Tigers of Tamil Eelam (LTTE) is engaged in the process of uniting the Tamil parties in the presidential election on behalf of the Tamil people.. Selvam Adakkalanathan said.
-
-The Liberation Tigers of Tamil Eelam (LTTE) is doing its duty in order to restore our people in the country where our natives are running out of the country and protect our lands.
-
-The Tamil Eelam Liberation Movement is carrying out the work of mobilizing the Tamil parties and has begun a negotiations to embrace other parties that love the nationality.
-
-In that way, for our people and for the soil, we will continue the process of protecting our soil and people
-
-And we will make an effort to stop the activities of the South Sri Lanka forces that eradicate our Vanni district, especially the Vavuniya district.
-
-...
-
-[Data](articles/9cec9a73.json)
-
-[Extended Data](ext_articles/9cec9a73.ext.json)
 
 ---

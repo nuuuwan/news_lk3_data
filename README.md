@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-18 20:52:24**
+As of **2024-05-18 21:03:21**
 
 ## Newspaper Stats
 
-*Scraped **24,868** Articles*
+*Scraped **24,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 2,122
 adaderanalk | 2,881
 tamilmirrorlk | 2,908
 virakesarilk | 3,751
-dailymirrorlk | 3,905
-adaderanasinhalalk | 3,973
+dailymirrorlk | 3,906
+adaderanasinhalalk | 3,974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,868 (100.0%) of 24,868 articles have been extended.
+24,868 (100.0%) of 24,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-18 (Saturday)
+
+### UN rights office urges Sri Lanka to reveal fate of the disappeared
+
+*2024-05-18 20:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-rights-office-urges-Sri-Lanka-to-reveal-fate-of-the-disappeared/108-282884) · `en`
+
+The UN human rights office, OHCHR, on Friday urged the Sri Lankan Government to take decisive action to uncover the fates and locations of tens of thousands of individuals subjected to enforced disappearances over the years and to hold those responsible accountable.
+
+The call accompanies the launch of a key report Opens in new window by OHCHR
+
+Opens in new window, highlighting also the need for the Government to acknowledge the involvement of State security forces and to issue a public apology.
+
+From the 1970s to 2009, Sri Lanka witnessed widespread enforced disappearances, predominantly carried out by the national army and associated paramilitary groups.
+
+The Liberation Tigers of Tamil Eelam (LTTE) also participated in abductions, which, according to the UN Working Group on Enforced or Involuntary Disappearances, tantamount to enforced disappearances.
+
+...
+
+[Data](articles/f54ee1f0.json)
+
+---
+
+### රුසියානු යුද පුහුණු පාසලේ ඉන්න අපේ අය ගැන හෙළිදරව්වක්
+
+*2024-05-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196766) · `si`
+
+රුසියානු - යුක්‍රේන යුද පෙරමුණුවලට අනීතික ලෙස ගොස් දරුණු ලෙස තුවාල ලබා දිවි බේරාගෙන යළි මෙරටට පළා ආ විශ්‍රාමික සෙබළුන් කිහිපදෙනෙකු තමන් මුහුණදුන් බිහිසුණු හා අමිහිරි අත්දැකීම් ගැන "අද දෙරණ" ට අනාවරණය කළේය.
+
+ඔවුන් පවසන්නේ, ඉහළ වැටුප් හා විවිධ පහසුකම් ලබාදෙන බව පවසා තමන්ව එරටට යොමු කළත් ඒ කිසිවක් නිසි ආකාරයෙන් නොලැබුණු බවය.
+
+කොමාන්ඩෝ රෙජිමේන්තුවේ වසර 22ක කාලයක් සේවය කර විශ්‍රාම ගොස් රුසියාවට ගිය පසුව එරට කුලී හමුදාවට සම්බන්ධවී යළි මෙරටට පැමිණි මොනරාගල - දඹගල්ල ප්‍රදේශයේ පදිංචි ලලිත් ශාන්ත අද දෙරණට සිය අත්දැකීම් විස්තර කළේය.
+
+"16 දෙනෙත් විතර ගියා... එක එක තැන්වලට දැම්මා. ඒ තැනින් ඉදිරි ආරක්ෂක පෙළට දැම්මා. මෝටාර් ප්‍රහාරයක් එල්ල වුණා. උරහිසට, දණහිසට හා යටිපතුට වැදුණා. කිලොමීටර් 8ක් විතර මම කකුල ඇදගෙන ආවේ. එහෙ තියෙන්නේ තාක්ෂණික යුද්ධයක්. ඒක ජයගන්න අපිට අමාරුයි. කෑම හරියට දෙන්නේ නැහැ. පහසුකම් නැහැ. ටෙන්ට් ගහන් හට් ඇතුළේ ඉන්න තියෙන්නේ. අධික සීතලයි. බොහොම දුෂ්කරය ජීවිතයක් ගත කළේ. කිව්වේ පුරවැසිභාවය දෙනවා, දරුවන්ට ඉගෙන ගන්න පහසුකම් දෙනවා, ඒ අය ගොඩක් දේවල් කිව්වා. ඒත් ඒ කිසිම දෙයක් ලැබුණේ නැහැ."
+
+...
+
+[Data](articles/8b5e3c4f.json)
+
+---
 
 ### The police take the back and brutally assaulted a suspect
 
@@ -2313,59 +2351,5 @@ K. Jegadas Adikallar, who commented on this….. In this Kumarapuram, the Sri La
 [Data](articles/510959fe.json)
 
 [Extended Data](ext_articles/510959fe.ext.json)
-
----
-
-### Uganda Cricket Team Visit Parliament
-
-*2024-05-18 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183830) · `ta`
-
-The Uganda Cricket Team, led by its officials, expressed gratitude to Speaker Mahinda Yapa Abeywardena for facilitating their Sri Lankan training tour. This visit occurred during the 27th CHOGM conference in Uganda, where the Speaker was present.
-
-🟩
-
-The Uganda National Kickat team and its officials recently met Speaker Mahinda Yapa Abeywardena in Parliament.
-
-The Uganda Cricket team thanked the Speaker for arranging the Sri Lankan tour of Sri Lanka's training, including the Uganda Kicit team.
-
-The tour was organized by the Uganda Cricket Association when the Speaker was present at the 27th conference of the Commonwealth Speaker of the Commonwealth Heads of Government (CHOGM) in Uganda from 3rd to 6th of January.
-
-◼️
-
-[Data](articles/d5d2f55e.json)
-
-[Extended Data](ext_articles/d5d2f55e.ext.json)
-
----
-
-### Why not meet the media?Prime Minister Narendra Modi
-
-*2024-05-18 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183829) · `ta`
-
-Prime Minister Narendra Modi avoids media due to perceived bias and self-interest among journalists, preferring direct communication. He criticizes the current media landscape as lacking neutrality, contrasting it with the "faceless" media of the past. This stance reflects a shift towards a more controlled political culture, where the media's role is questioned. Political observers suggest this move could indicate uncertainty about electoral outcomes.
-
-🟩
-
-'' The media is currently not to work with neutrality. So there is no media meeting, ”Prime Minister Narendra Modi explained.
-
-Prime Minister Narendra Modi who interviewed a private television channel.. ': Why not hold a press conference for ten years in charge of the regime? ”
-
-Currently journalists are identified with their own self -interest. The media is not neutral.
-
-The media that needs to work neutral is not doing so today. That is why the press conference was not held.
-
-Previously the media was faceless. Who writes?What is its policy?No one was worried about it before. The situation is not the case today.
-
-A new political culture that focuses on the media is not worried about the activities of politics.
-
-I have no confidence in going on this path. I can also cut the ribbon at Vigyan Bhavan. I am traveling for a small project in a small district in Jharkhand, though.
-
-I have come up with a new job culture. Do you agree with it?Don't want?The media must decide. ”
-
-...
-
-[Data](articles/571bf36d.json)
-
-[Extended Data](ext_articles/571bf36d.ext.json)
 
 ---

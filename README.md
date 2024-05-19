@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 16:33:53**
+As of **2024-05-19 16:50:45**
 
 ## Newspaper Stats
 
-*Scraped **24,983** Articles*
+*Scraped **24,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,136
+adalk | 2,137
 adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
 dailymirrorlk | 3,918
-adaderanasinhalalk | 3,996
+adaderanasinhalalk | 3,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,981 (100.0%) of 24,983 articles have been extended.
+24,983 (100.0%) of 24,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### ඉරාන තානාපතිට පහරදුන් සැකකරු රිමාන්ඩ්
+
+*2024-05-19 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196792) · `si`
+
+කොළඹ ප්‍රධාන සාප්පු සංකීර්ණයක රථගාලක් තුළදී ඉරාන තානාපතිවරයාට පහරදුන් බවට සැක කෙරෙන පුද්ගලයා හෙට 20 දක්වා රිමාන්ඩ් කිරීමට කොළඹ අලුත්කඩේ අංක දෙක මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+කොම්පඤ්ඤවීදියේ පොලීසිය විසින් අධිකරණයට ඉදිරිපත් කළ සැකකරු මෙලෙස රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+
+◼️
+
+[Data](articles/611dd524.json)
+
+---
+
+### ජාතික රණවිරු සැමරුම් උත්සවය ඇරඹෙයි
+
+*2024-05-19 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196791) · `si`
+
+බත්තරමුල්ල, පාර්ලිමේන්තු ක්‍රීඩාංගණය අසල පිහිටි රණවිරු ස්මාරකය අසලදී එම උත්සවය පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/eb654191.json)
+
+---
 
 ### Image to the debate
 
@@ -176,6 +202,8 @@ While proponents claim the act will drive significant economic transformation, t
 
 [Data](articles/1769e198.json)
 
+[Extended Data](ext_articles/1769e198.ext.json)
+
 ---
 
 ### BOI concerned over proposed Economic Transformation Act
@@ -246,21 +274,27 @@ The picture shows employees of a self-owned business in Demetagoda stitching Bud
 
 ---
 
-### පොලිස්  කොස්තාපල්වරුන් දෙදෙනෙක් අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට
+### Two police constables arrested with ice drugs
 
 *2024-05-19 14:04:49* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--කොස්තාපල්වරුන්-දෙදෙනෙක්-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-409721) · `si`
 
-කොම්පඤ්ඤවීදිය කුමාර රත්නම් මාවත තැබෑරුමක් අසලදී  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ  පොලිස්  කොස්තාපල්වරුන් දෙදෙනෙක් අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් බව කොම්පඤ්ඤවීදිය පොලිසිය කියයි.
+Two police constables from the Criminal Investigations division were arrested along with Kumara Ratnam Ramaduwa of Slave Island. They were found with 130mg of ice drugs during a raid led by the Anti-Corruption Division. One constable was also checked for drug addiction.
 
-අත්අඩංගුවට ගෙන ඇති පරිගණක අපරාධ විමර්ශන අංශයේ රාජකාරී කරන කොස්තාපල්වරුන් දෙදෙනෙකි.
+🟩
 
-අත්අඩංගුවට ගත් එක් කොස්තාපල්වරයෙකු සන්තකයේ අයිස් මත්ද්‍රව්‍ය  මිලිග්‍රෑම් 130 ක් තිබී පොලිස් භාරයට ගෙන ඇත. කොම්පඤ්ඤවිදිය පොලිස්  ස්ථානයේ දූෂණ මර්දන අංශයේ නිලධාරී කණ්ඩායමක් විසින්  සැකකාර පොලිස්  කොස්තාපල්වරුන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර  ඔවුන් දෙදෙනා පරික්ෂා කිරීමේදී එක් අයකු සන්තකයේ මෙම මත්ද්‍රව්‍ය  තිබී ඇත.
+The Slave Island Police say two police constables of the Criminal Investigations were arrested alongside a set of Slave Island Kumara Ratnam Ramaduwa.
 
-අනෙක් සැකකාර කොස්තාපල්වරයා මත්ද්‍රව්‍ය  සඳහා ඇබ්බැහිව සිටින අයෙක්ද යන්න පරික්ෂා කිරීම සඳහා  අධිකරණ වෛද්‍ය නිලධාරීවරයා වෙත ඉදිරිපත් කිරීම සඳහා සැකපිට අත්අඩංගුවට ගෙන ඇත.
+Two constables to be duties in the Computer Crime Investigation Division.
+
+Police seized 130 milligrams of ice narcotics. The two suspects have been arrested by a team of Chief of Anti-Corruption Division of Skani Road.
+
+The other suspect constable has been arrested on suspicion to check whether he is drug addicted to drugs.
 
 ◼️
 
 [Data](articles/e0dd610a.json)
+
+[Extended Data](ext_articles/e0dd610a.ext.json)
 
 ---
 
@@ -925,6 +959,24 @@ The promotions have been approved by Lieutenant General Lieutenant General Vikku
 [Data](articles/39472ff0.json)
 
 [Extended Data](ext_articles/39472ff0.ext.json)
+
+---
+
+### තත්පර 10ට අඩු කාලයකින් කටින් පොල්ලෙලි ගසන පදවියේ අමිල
+
+*2024-05-19 10:55:02* · [`adalk`](https://www.ada.lk/breaking_news/තත්පර-10ට-අඩු-කාලයකින්-කටින්-පොල්ලෙලි-ගසන-පදවියේ-අමිල/11-409716) · `si`
+
+තත්පර 10ට අඩු කාලයක දී කටේ දත් වලින් පොල්ලෙලි ගසන තරුණයෙකු අපට පදවිය බාලයාවැව ප්‍රදේශයෙන් හමුවිය. අඩියක් පමණ දිග අඟල් 21 කින් පමණ විෂ්කම්භයකින් යුතු වියළි කළාපයේ පොල් ගස් වල හැදෙන පොල් ගෙඩියක් තත්ත්පර 10ට අඩු කාලයකින් කටින් ලෙලි ගැසීමෙන් ගිනස් වාර්තා පොතට ඇතුත් කළ හැකි වික්‍රමයක් සිදු කරන තරුණයෙකි රාජපක්ෂ කරුණාපේලි ගෙදර අමිල රුවන් කුමාර රාජපක්ෂ.
+
+පදවිය බාලයාවැව ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඔහු මේ වන විට 34 වියැති තරුණයෙකු වන වේ.දෙදරු පියෙකුද වන අමිල මේ වන විට සේවය කරනු ලබන්නේ මුලතිව් විශ්ව මඩු ජාතික ආරක්ෂක බලමුළුවේ යුධ හමුදා රණවිරුවෙකු ලෙසය.
+
+"මේක මම මුලින්ම   පුහුණු වුණේ අනුරාධපුර යුධ හමුදා රෙජිමේන්තු මූළස්ථානයේ සිටිය කාලයේ ඉතින් ඒ් කාලයේ දී මං පුහූණු වුණ ඒක දිගටම පුරුදු වුණා.දැන් මට පොඩි කාලයක් තුළ කටින් පොල්ලලි ගහන්න් පුළුවන්.
+
+මං දන්න විදිහට මං සොයලා බැලුවා මං වගේ අඩු කාලයකින් කවුරුවත්ම පොල් ලෙලි ගහලා නෑ කටින් බොහොම පොඩි කාලයක් තුළ.ඒ් කියන්නේ තත්පර 11ට 10ට අඩුවෙන්" යැයි ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/6dca766c.json)
 
 ---
 
@@ -2233,63 +2285,5 @@ The driver of a bus accident is in danger and the other is the woman. Remble
 [Data](articles/910ebfc7.json)
 
 [Extended Data](ext_articles/910ebfc7.ext.json)
-
----
-
-### Did police too hit the 13-year-old schoolgirl?
-
-*2024-05-18 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196768) · `si`
-
-A 13-year-old schoolgirl, elected to the Kurunegala Teaching Hospital, claimed she was assaulted by police who stole her air rifle and mobile phone.
-
-🟩
-
-The 13-year-old schoolgirl was elected to the Kurunegala Teaching Hospital.
-
-The student said the police were assaulted by the police to be stolen into a air rifle and a mobile phone.
-
-"Uncle of three-wheeler didn't. The other names were mortafa. Now giving medication to the ear. "
-
-◼️
-
-[Data](articles/b09ab1bd.json)
-
-[Extended Data](ext_articles/b09ab1bd.ext.json)
-
----
-
-### How to build a culture of service excellence: Ron Kaufman to lead event in Colombo
-
-*2024-05-18 21:58:00* · [`islandlk`](http://island.lk/how-to-build-a-culture-of-service-excellence-ron-kaufman-to-lead-event-in-colombo-2/) · `en`
-
-In light of Sri Lanka’s emergence from its worst-ever economic crisis, organizations must prioritize customer service excellence as they navigate evolving business landscapes, changing customer needs, and heightened competition. Effective, authentic customer service remains the cornerstone of any successful organization, news release connected with an upcoming event said.
-
-Well-known Global Customer Experience Guru Ron Kaufman will lead an event in Colombo, Sri Lanka, on June 6 at Waters Edge, Battaramulla, focusing on uplifting customer service and elevating organizational excellence amidst challenging contexts.
-
-Kaufman is known for his holistic approach to service design, execution and transformation to create a customer service culture that supports employees, delights customers and drives organizational performance.
-
-...
-
-[Data](articles/928f24ca.json)
-
-[Extended Data](ext_articles/928f24ca.ext.json)
-
----
-
-### An encounter with James Bond creator Ian Fleming in his newspaper days
-
-*2024-05-18 21:50:00* · [`islandlk`](http://island.lk/an-encounter-with-james-bond-creator-ian-fleming-in-his-newspaper-days/) · `en`
-
-Many journalists develop what may be called the grasshopper mind. In their work it is necessary to hop from one subject to another. If at the end of their lives they have little to show for their pains, they may have bitter sweet memories stored up squirrel-wise of unusual people and events.
-
-There is of course, a certain vanity in being able to say, “Oh yes, I knew Mahatma Gandhi” or I saw Bradman making his first century at Lords.” Such a display of self-esteem may even provoke the reaction if unexpressed, “So what.” There is no reason why anyone else should be interested. But not always. If we have a hero or a favourite, we like to listen to someone who has met and talked with him.
-
-So Browning’s – Ah, did you once see Shelley plain, And did he stop and speak to you And did he speak to you again? How strange it seems and new. I recall a sentimental journey made with a friend in search of the house near La Spezia to which Shelley’s body was brought after the drowning.
-
-...
-
-[Data](articles/42fd34a1.json)
-
-[Extended Data](ext_articles/42fd34a1.ext.json)
 
 ---

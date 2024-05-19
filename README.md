@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 11:18:11**
+As of **2024-05-19 11:34:00**
 
 ## Newspaper Stats
 
-*Scraped **24,926** Articles*
+*Scraped **24,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,128
 adaderanalk | 2,886
-tamilmirrorlk | 2,924
+tamilmirrorlk | 2,926
 virakesarilk | 3,752
-dailymirrorlk | 3,909
+dailymirrorlk | 3,912
 adaderanasinhalalk | 3,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,923 (100.0%) of 24,926 articles have been extended.
+24,926 (100.0%) of 24,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வில் ஒருவர் கைது
+
+*2024-05-19 11:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-நிகழ்வில்-ஒருவர்-கைது/175-337508) · `ta`
+
+முள்ளிவாய்க்கால் தாக்குதலின் 15 வருடங்களை நினைவுகூரும் நிகழ்வில் வெள்ளவத்தையில் இடம்பெற்ற பதற்றமான சூழ்நிலையை அடுத்து ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இறுதிக்கட்ட போரின் போது ஆயிரக்கணக்கான பொதுமக்கள் உயிரிழந்த முல்லைத்தீவு முள்ளிவாய்க்காலில் உயிரிழந்தவர்களை நினைவுகூரும் வகையில் பல்வேறு சிவில் சமூக குழுக்களையும் செயற்பாட்டாளர்களையும் பிரதிநிதித்துவப்படுத்திய குழுவினர் வெள்ளவத்தை கடற்கரையில் இன்று காலை ஒன்று கூடினர்.
+
+இதேவேளை போரின் போதான இலங்கை இராணுவப் படைகளின் வெற்றியைக் கொண்டாடும் வகையில் மற்றுமொரு குழுவினர் ஆர்ப்பாட்டத்தில் ஈடுபட்டதால் குறித்த இடத்தில் பதற்றமான சூழ்நிலை ஏற்பட்டது.
+
+◼️
+
+[Data](articles/72f02e97.json)
+
+---
+
+### Over 280 kgs of narcotics destroyed using high-powered incinerator in Puttalam
+
+*2024-05-19 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-280-kgs-of-narcotics-destroyed-using-high-powered-incinerator-in-Puttalam/108-282889) · `en`
+
+Puttalam, May 19 (Daily Mirror) - Over 280 kgs of narcotics were destroyed using a new high-powered incinerator built at a cost of over Rs. 11 million at Vanathavilluwa in Puttalam yesterday.
+
+Police said that a total of 251 kgs of heroin and 38 kgs of Methamphetamine (ICE) were destroyed in the presence of Minister of Public Security Tiran Alles and IGP Deshabandu Tennakoon.
+
+Previously, the government had to spend a significant amount of money to destroy seized stocks of drugs due to the lack of a permanent facility for this purpose. As a permanent solution, the new high-powered incinerator has been installed on 20 perches of land in the Lactose Garden area of Vanathavilluwa, owned by the STF. The Sri Lanka Navy prepared the site for the installation of the incinerator with the Sri Lanka Police spending Rs. 6.34 million for the preparation.
+
+...
+
+[Data](articles/737845d4.json)
+
+---
 
 ### ‘Red’ warning issued for very heavy rainfall above 150mm
 
@@ -46,25 +78,49 @@ Meanwhile, very heavy showers above 150 mm are likely at some places in Western 
 
 [Data](articles/86e46e0c.json)
 
+[Extended Data](ext_articles/86e46e0c.ext.json)
+
 ---
 
-### ධීවරයින් 22ක් නාවික හමුදා භාරයට
+### 1,509 இராணுவ வீரர்களுக்கு பதவி உயர்வு
+
+*2024-05-19 11:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-509-இராணுவ-வீரர்களுக்கு-பதவி-உயர்வு/175-337506) · `ta`
+
+உள்நாட்டுப் போரில் தேசம் வெற்றி பெற்றதன் 15வது ஆண்டு நிறைவை ஒட்டி, 1,509 வீரர்களுக்கு பதவி உயர்வு வழங்குவதாக இலங்கை ராணுவம் அறிவித்துள்ளது.
+
+பதவி உயர்வுகளில் 114 அதிகாரிகள் மற்றும் 1,395 இதர தரவரிசைகளில் அடங்குவதுடன், அவர்கள் அனைவரும் அந்தந்த பதவிகளுக்குள் அடுத்த நிலைக்கு முன்னேறுகிறார்கள்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அனுமதியுடன் இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் விக்கும் லியனகேவினால் இந்த பதவி உயர்வுகள் அங்கீகரிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/39472ff0.json)
+
+---
+
+### Navy bears 22 fishermen
 
 *2024-05-19 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196778) · `si`
 
-නීතිවිරෝධී ධීවර කටයුතු සිදුකළ පුද්ගලයන් 22 දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+Navy detained 22 fishermen caught illegally fishing off Sri Lanka's coast near Kilinochchi, Nagarkovil, and Trincomalee. The suspects from Mannar, Kalpitiya, Mamunai, and Nilaveli will be handed over to local fisheries authorities.
 
-කිලිනොච්චිය, නගර්කෝවිල් හා කුඩාරප්පු මුහුදු ප්‍රදේශයන්හි සහ ත්‍රිකුණාමලය අඩුක්කුපාඩු  මුහුදු ප්‍රදේශයේ සිදුකළ මෙහෙයුම් මඟින් සැකකරුවන් සිය භාරයට ගත් බව නාවික හමුදාව පැවසීය.
+🟩
 
-එහිදී නීතිවිරෝධී ලෙස ධීවර කටයුතු සිදුකළ පුද්ගලයින් විසි දෙදෙනෙකු සමග ඩිංගි යාත්‍රා හතක්, මුහුදු කූඩැල්ලන් 400ක පමණ තොගයක් සහ තහනම් ධීවර ආම්පන්න නාවික හමුදා භාරයට ගෙන ඇත.
+Navy seized 22 persons who were committed to illegal fishing activities.
 
-සැකකරුවන් අවුරුදු 25ත් 50ත් අතර වයසේ පසුවන මන්නාරම, කල්පිටිය, මාමුණෙයි සහ නිලාවේලී යන ප්‍රදේශයන්හි පදිංචිකරුවන් බව සඳහන්ය.
+The suspects said that the suspects were taken into custody by operations in the Kilinochchi, Nagarkovil and Kudaruwevil and Kudaruwala sea areas and the low-Trincomalee seab.
 
-නාවික හමුදා භාරයට ගත් සැකකරුවන් ඉදිරි නීතිමය කටයුතු සඳහා යාපනය ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තු කාර්යාලයටත්, ත්‍රිකුණාමලය ධීවර පරීක්ෂක කාර්යාලය වෙතත් භාරදීමට නියමිතය.
+Seven vessels with twenty two persons who were illegally fisheries have been taken into custody by naval.
+
+The suspects are residents of Mannar, Kalpitiya, Mamuni and Nilaveli areas.
+
+The suspects are due to be handed over to the Fisheries and Aquatic Resources Department in Jaffna and the Fisheries Inspector of the Trincomalee Fisheries.
 
 ◼️
 
 [Data](articles/208a86ce.json)
+
+[Extended Data](ext_articles/208a86ce.ext.json)
 
 ---
 
@@ -118,6 +174,22 @@ Accordingly, warning notifications have been issued to Ella Divisional Secretari
 
 ---
 
+### President orders to resume ’Suraksha’ students’ insurance programme
+
+*2024-05-19 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-to-resume-Suraksha-students-insurance-programme/108-282888) · `en`
+
+Colombo, May 19 (Daily Mirror) - President Ranil Wickremesinghe has directed to resume the "Suraksha" student insurance programme, which was temporarily halted due to economic issues.
+
+From the first week of June, all school students across the island will benefit from this insurance, the President's Media Division said.
+
+The Cabinet approved the Joint Cabinet Memorandum presented by the President as Minister of Finance, Economic Stabilization & National Policy, along with Education Minister Susil Premajayantha.
+
+◼️
+
+[Data](articles/7d037d3c.json)
+
+---
+
 ### Arrest
 
 *2024-05-19 10:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கால்நடை-போலி-வைத்தியர்-கைது/76-337502) · `ta`
@@ -159,6 +231,8 @@ Police revealed that the arrested suspect is a 42-year-old man.
 ◼️
 
 [Data](articles/41e799e3.json)
+
+[Extended Data](ext_articles/41e799e3.ext.json)
 
 ---
 
@@ -317,6 +391,26 @@ Police say the machine is the machine that is a wind -operating machine using el
 [Data](articles/5953d84e.json)
 
 [Extended Data](ext_articles/5953d84e.ext.json)
+
+---
+
+### Families complain on over 400 Sri Lankans in Russia-Ukraine war
+
+*2024-05-19 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Families-complain-on-over-400-Sri-Lankans-in-Russia-Ukraine-war/155-282886) · `en`
+
+Colombo, May 19 (Daily Mirror) - Sri Lanka's Defence Ministry has received over 400 complaints from family members of citizens recruited by mercenary companies to fight in the Russia-Ukraine war.
+
+Authorities launched an investigation earlier this month into reports of Sri Lankan nationals with military backgrounds being trafficked to fight in Ukraine.
+
+In response, the Defence Ministry set up a hotline for family members to lodge complaints after a few returnees exposed the deadly conditions faced by mostly ex-soldiers fighting primarily for Russia. The Ministry reported that a total of 411 complaints have been received so far.
+
+It was reported that not only former members of the security forces but also citizens without any military training have been recruited as mercenaries in the Russia-Ukraine conflict.
+
+The government has decided to send a delegation to Russia to identify and repatriate its citizens fighting for Russia in Ukraine.
+
+◼️
+
+[Data](articles/0af01628.json)
 
 ---
 
@@ -2217,121 +2311,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/c20280b0.json)
 
 [Extended Data](ext_articles/c20280b0.ext.json)
-
----
-
-### தடையுத்தரவு விதிக்கப்பட்ட அதே இடத்தில் இன்று நினைவேந்தல்
-
-*2024-05-18 12:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தடையுத்தரவு-விதிக்கப்பட்ட-அதே-இடத்தில்-இன்று-நினைவேந்தல்/73-337467) · `ta`
-
-Today marks Mullivaikkal commemoration in Pandiruppu, where a ban order was previously issued but later lifted by the Kalmunai High Court after considering a petition from police officers. This decision allows activities like the distribution of free food today. Key figures involved include Krishnapillai Jayasiril, a former leader of the Sri Lanka Tamil National Alliance (TNA), and Vinayagam Vimalanathan.
-
-🟩
-
-Mullivaikkal commemorates on Saturday (18th) in the same Pandiruppu.
-
-பெரிய நீலாவணை பொலிஸாரின் மனுவை ஏற்று கல்முனை நீதிவான் நீதிமன்றம் இந்த தடையுத்தரவை  பிறப்பித்திருந்நது.
-
-Krishnapillai Jayasiril, former leader and former leader of the Sri Lanka Tamil National Alliance (TNA) against the ban, and Vinayagam Vimalanathan
-
-The court's ban on Friday was lifted on Friday by the lawyers.
-
-அதன் பயனாக பாண்டிருப்பு  திரௌபதி அம்மன் ஆலயம் முன்றளில் இன்று சனிக்கிழமை தமிழ் தேசிய மக்கள் முன்னணி இணைப்பாளர்  துஷாந்தன் ஏற்பாட்டில் சுடரேற்றி கஞ்சி வழங்கப்பட்டது.
-
-Krishnapillai Jayasiril, former leader of the Sri Lanka Tamil National Party (TNA), Karadivu Divisional President and former Chairman, was the chief minister.
-
-கல்முனை மாநகர சபை முன்னாள் உறுப்பினர்களான க.சிவலிங்கம் பொ.செல்வநாயகம் திருமதி சுமித்ரா சமூக செயற்பாட்டாளர் வினாயகம் விமலநாதன் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/b13f91b6.json)
-
-[Extended Data](ext_articles/b13f91b6.ext.json)
-
----
-
-### Mullivaikkal porridge is the strongest activity of the Mullivaikkal porridge when the government's restrictions and repression are being used to commemorate the Tamils
-
-*2024-05-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/183862) · `ta`
-
-Mullivaikkal porridge, made from rice, water, and salt, symbolizes the resilience and unity of Tamil society in Sri Lanka amidst government restrictions. It commemorates the tragic loss and recovery during the country's final war, emphasizing the importance of remembering and honoring the past for future peace and ethnic harmony.
-
-🟩
-
-Mullivaikkal porridge is the strongest activity of the Mullivaikkal porridge, even when the government's restrictions and repression are being used to commemorate the Tamils-the Hostel General
-
-Mullivaikkal Kanji plays an important role in the joint memories of Tamils living in Sri Lanka. This symbolizes the tragedy and recovery of Tamils in Sri Lanka's final war. May 2009, in the No -Fire Zone, Mullaitivu, 150,000 - 190,000 Tamils were cooked, with a series of bombshells in the region.. Made with rice, water and salt, the porridge was the lifeblood of thousands of Tamils for 15 years.. This is the symbol of the survival and coordination of a oppressed society.
-
-Mullivaikkal porridge is the strongest activity of making and distributed even when the government's restrictions and repression are being used to commemorate the assassinated and disappeared Tamils.. It emphasizes the united social sentiment of a society, the need of tolerance and understanding.
-
-...
-
-[Data](articles/a999260e.json)
-
-[Extended Data](ext_articles/a999260e.ext.json)
-
----
-
-### මුහුද ඉතා රළු වෙයි
-
-*2024-05-18 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196746) · `si`
-
-"Beruwala to Hambantota, heavy rain and strong winds expected due to a low-pressure area affecting coastal areas. Winds reaching speeds of 60-70 km/h. High seas possible with showers or thunderstorms. Mariners advised to take precautions."
-
-🟩
-
-කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශ සඳහා තද වැසි, තද සුළං සහ රළු මුහුදු පිළිබඳව අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව බේරුවල සිට ගාල්ල හරහා හම්බන්‍තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී 60 -70 දක්වා වැඩිවන අතර එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බව දැනුම්දී තිබේ.
-
-Winds from Beruwala and Beruwala and Hambantota to Beruwala and Hambantota to Pottuvil have been increased from time to 50 -60 hours and it is reported that the sea will be rough at times.
-
-එම මුහුදු ප්‍රදේශවල විටින්විට වැසි හෝ ගිඟුරුම් සහිත වැසි ඇතිවිය හැකි බවත් ඇතැම් ස්ථානවල තද වැසි ඇතිවිය හැකි බවත් ඒ සම්බන්ධයෙන් ධීවර සහ නාවික ප්‍රජාව අවධානයෙන් කටයුතු කරන ‍ලෙසටත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
-
-◼️
-
-[Data](articles/bed1f474.json)
-
-[Extended Data](ext_articles/bed1f474.ext.json)
-
----
-
-### Report of committee on increasing senior citizens’ accounts interest rates to President next week
-
-*2024-05-18 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Report-of-committee-on-increasing-senior-citizens-accounts-interest-rates-to-President-next-week/108-282878) · `en`
-
-Colombo,May 18 (DailyMirror) - The report of the committee appointed to inquire on increasing the interest rates of the bank accounts of senior citizens will be handed over to the President next week, Finance State Minister Ranjith Siyambalapitiya said.
-
-He said the committee appointed to study and prepare a report regarding the increase in the interest rates for senior citizens’ accounts met at the  of Finance Ministry. Minister Siyambalapitiya said that during the meeting he had directed the committee to find out how the interest rates can be raised based on the current economic situation and act accordingly.
-
-"There are about 1.1 million accounts owned by people over 60 years of age and there is a need to regularize them. In particular, comments were expressed regarding the investigations of a single person maintaining several bank accounts, and depositing money of other parties in those accounts. The relevant report is to be submitted to the President next week," he said
-
-...
-
-[Data](articles/7ece246d.json)
-
-[Extended Data](ext_articles/7ece246d.ext.json)
-
----
-
-### US warns of possible Pride Month attacks worldwide
-
-*2024-05-18 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99295/us-warns-of-possible-pride-month-attacks-worldwide) · `en`
-
-US officials have warned that foreign terror organisations may attempt to target LGBT events around the world during Pride Month in June.
-
-“Stay alert in locations frequented by tourists, including Pride celebrations,” a warning issued by the state department said.
-
-The advisory came on Friday, a week after a similar alert issued by US law enforcement agencies.
-
-The Federal Bureau of Investigation (FBI) and Department of Homeland Security (DHS) said: “Foreign terrorist organizations or supporters may seek to exploit increased gatherings associated with the upcoming June 2024 Pride Month.”
-
-Although no specific gatherings or locations were mentioned in the warnings, the law enforcement agencies noted that messages from the Islamic State (IS) group distributed in English in February 2023 included rhetoric against LGBTQI+ (lesbian, gay, bisexual, transgender, questioning, and intersex) events and venues.
-
-...
-
-[Data](articles/648ba723.json)
-
-[Extended Data](ext_articles/648ba723.ext.json)
 
 ---

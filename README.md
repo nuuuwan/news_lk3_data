@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 06:01:02**
+As of **2024-05-19 06:59:57**
 
 ## Newspaper Stats
 
-*Scraped **24,892** Articles*
+*Scraped **24,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
 adaderanalk | 2,882
-tamilmirrorlk | 2,912
+tamilmirrorlk | 2,913
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,976
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,885 (100.0%) of 24,892 articles have been extended.
+24,889 (100.0%) of 24,893 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Born in Moratuwa Sri Lanka she lost her father when she was six months. She clai
 ...
 
 [Data](articles/47fc2505.json)
+
+[Extended Data](ext_articles/47fc2505.ext.json)
 
 ---
 
@@ -99,6 +101,26 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 ...
 
 [Data](articles/9e0cbd03.json)
+
+[Extended Data](ext_articles/9e0cbd03.ext.json)
+
+---
+
+### அதிக மழையுடனான வானிலை தொடரும்
+
+*2024-05-19 01:26:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-மழையுடனான-வானிலை-தொடரும்/175-337476) · `ta`
+
+மழை மற்றும் காற்றுடனான வானிலை அதிகரிப்பு ஏற்படுமென எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+நாட்டை சூழவுள்ள கடற்பிராந்தியங்களை அண்மித்து ஏற்பட்டுள்ள, பருவப்பெயர்ச்சிக்கு முன்னரான தளம்பல் நிலையில் ஏற்பட்டுள்ள அதிகரிப்பு காரணமாக எதிர்வரும் நாள்களில் அதிக மழையுடனான வானிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதற்கமைய, நாட்டின் பல பகுதிகளிலும் 100 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகுமென எதிர்வுகூறப்பட்டுள்ளது.
+
+நாட்டின் பல பகுதிகளிலும் பிற்பகல் வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடுமெனவும் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/06669013.json)
 
 ---
 
@@ -234,6 +256,8 @@ So Browning’s – Ah, did you once see Shelley plain, And did he stop and spea
 
 [Data](articles/42fd34a1.json)
 
+[Extended Data](ext_articles/42fd34a1.ext.json)
+
 ---
 
 ### Landslide early warnings issued for four districts
@@ -317,6 +341,8 @@ The decision to build an army cantonment was taken in 1949 shortly after the fir
 ...
 
 [Data](articles/5c9bd3f4.json)
+
+[Extended Data](ext_articles/5c9bd3f4.ext.json)
 
 ---
 
@@ -2309,29 +2335,5 @@ It may only apply to supermarkets and not to smaller merchants, however. (Colomb
 [Data](articles/12213732.json)
 
 [Extended Data](ext_articles/12213732.ext.json)
-
----
-
-### Sri Lanka mulls mandating prices for shopping bags in supermarkets
-
-*2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-mandating-prices-for-shopping-bags-in-supermarkets-163506/) · `en`
-
-ECONOMYNEXT – Sri Lanka may end the practice of supermarkets giving free shopping bags, as part of efforts to contain plastic use according to deliberations at a parliamentary committee following a supreme court decision.
-
-Sri Lanka’s courts many years ago barred supermarkets from charging for plastic bags from customers after activists went to court.
-
-However a Supreme Court ruled in March this year to overturn that.
-
-The parliament Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development said it could not reverse the gazette issued under the Consumer Affairs Authority Act until it had received a copy of the ruling.
-
-The committee said the ruling might prompt shoppers to bring their own bags, which would lead to a reduction in polythene waste.
-
-It may only apply to supermarkets and not to smaller merchants, however. (Colombo/May18/2024)
-
-◼️
-
-[Data](articles/87562a1c.json)
-
-[Extended Data](ext_articles/87562a1c.ext.json)
 
 ---

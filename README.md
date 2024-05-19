@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 20:18:22**
+As of **2024-05-19 20:33:43**
 
 ## Newspaper Stats
 
-*Scraped **25,028** Articles*
+*Scraped **25,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,140
-adaderanalk | 2,897
+adaderanalk | 2,898
 tamilmirrorlk | 2,933
 virakesarilk | 3,782
 dailymirrorlk | 3,924
@@ -26,41 +26,69 @@ adaderanasinhalalk | 4,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,007 (99.9%) of 25,028 articles have been extended.
+25,027 (100.0%) of 25,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### ඉරාන අගමැති ට අකරතැබ්බක්
+### AKD says debate with Sajith is off if no confirmation before deadline
+
+*2024-05-19 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99321/akd-says-debate-with-sajith-is-off-if-no-confirmation-before-deadline) · `en`
+
+Leader of the National Peoples’ Power (NPP) Anura Kumara Dissanayake states that an NPP government will abolish all special privileges of the Heads of the State including pensions, allowances, official residences, vehicles etc.
+
+Addressing an event held in Maharagama today (19), the NPP leader also pledged to provide a ‘sufficient pension’ for the retired community, which he elaborated is an amount sufficient for the cost of living. Meanwhile, the NPP leader assured that the interest rates for the savings of senior citizens will be increased up to 15%.
+
+Speaking further during the event, Dissanayake said that since the deadline given for the Samagi Jana Balawegaya (SJB) to confirm a date for the proposed debate on the policies of both parties on economic issues ends tomorrow (May 20), it will be considered as a rejection of the debate.
+
+...
+
+[Data](articles/b4743812.json)
+
+---
+
+### The Iranian Prime Minister is suited
 
 *2024-05-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196796) · `si`
 
-ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි සහ එරට ජ්‍යෙෂ්ඨ නිලධාරීන් පිරිසක් ගමන් කරමින් තිබූ හෙළිකොප්ටර් යානාව අසර්බයිජානයේ කඳුකර ප්‍රදේශයකට හදිසියේ ගොඩබෑ බව විදෙස් මාධ්‍ය පවසයි.
+Iranian PM's visit to Azerbaijan faced heavy rain and wind, but no accidents occurred.
 
-ඒ අධික වැසි සහ සුළං සහිත අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එසේ සිදුකර ඇති බව සඳහන් වෙයි.
+🟩
 
-කෙසේ වෙතත් ජනාධිපතිවරයා සහ පිරිස අනතුරකට ලක්ව නොමැති බව එරට මාධ්‍ය වාර්තා පවසයි.
+Foreign media says that the helabrah depiction and a group of senior officials of Iranian president was traveling in Azerbaijan.
+
+It is said that heavy rains and windy bad weather conditions were made due to the bad weather conditions.
+
+However, the President and the group have not been involved in a accident.
 
 ◼️
 
 [Data](articles/e3f78c8a.json)
 
+[Extended Data](ext_articles/e3f78c8a.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதி பயணம் செய்வதற்கு பயன்படுத்தும் ஹெலிக்கொப்டர் விபத்தில் சிக்கியது
+### Iran's president is caught in a helicopter crash used to travel
 
 *2024-05-19 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183981) · `ta`
 
-ஈரான் ஜனாதிபதி பயணம் செய்த ஹெலிக்கொப்டர் தொலைதூர பகுதியொன்றில் அவசரமாக தரையிறங்கியுள்ளது என ஈரானின் அரச ஊடகம் தெரிவித்துள்ளது.
+Iran's President involved in a helicopter crash; it landed in a remote area while en route. The incident occurred during his trip to Iran's East Azerbaijan province, accompanied by the Foreign Minister. Officials noted the urgency of the situation.
 
-ஈரான் ஜனாதிபதி ஈரானின் கிழக்கு அஜர்பைஜான் மாகாணத்திற்கு பயணம் செய்துகொண்டிருந்தார் ஈரானின் வெளிவிவகார அமைச்சரும் அவருடன் பயணம் செய்தார் என ஈரான் ஊடகங்கள் தெரிவித்துள்ளன.
+🟩
 
-ஹெலிக்கொப்டர் அவசரமாக தரையிறங்கிய பகுதிக்கு செல்வது கடினமாக உள்ளது என ஈரான் அதிகாரிகள் தெரிவித்துள்ளனர்.
+Iran's state media reports that the helicopter who traveled to the Iranian president has landed in a distant area.
+
+Iranian media has reported that the Iranian Foreign Minister was traveling with Iran's East Azerbaijan province of Iran.
+
+Iranian officials said the helicopter was rushing to the landing area.
 
 ◼️
 
 [Data](articles/6502cd4b.json)
+
+[Extended Data](ext_articles/6502cd4b.ext.json)
 
 ---
 
@@ -84,19 +112,29 @@ Neither IRNA nor state TV offered any information on Raisi’s condition.
 
 ---
 
-### பாராளுமன்றத்தை கலைப்பது ஜனாதிபதிக்கு சாதகமாக அமையாது எந்த தேர்தலுக்கும் நாங்கள் தயார் - அநுரகுமார திஸாநாயக்க
+### The dissolution of Parliament is not favorable to the President - we are ready for any election - Anuragumara Dissanayake
 
 *2024-05-19 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183980) · `ta`
 
-ஜனாதிபதி தேர்தல்,பொதுத்தேர்தல் என்ற வேறுபாடில்லை. எந்த தேர்தலுக்கும் நாங்கள் தயார்.வெற்றியோ,தோல்வியோ அதனை நாங்கள் எதிர்கொள்வோம்.எந்த தேர்தல் முதலில் நடத்த வேண்டும் என்று பொதுஜன பெரமுன தீர்மானிக்குமாயின் தேசிய தேர்தல்கள் ஆணைக்குழு எதற்கு. பாராளுமன்றத்தைக் கலைப்பது ஜனாதிபதி சாதகமாக அமையாது எனத் தேசிய மக்கள் சக்தியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+Anurakumara Dissanayake, President of the National People's Power, opposes parliamentary dissolution, stating readiness for any election. He emphasizes no distinction between presidential and general elections, highlighting the importance of facing challenges head-on. Negotiations between President Ranil Wickremesinghe and Basil Rajapaksa focus on economic impacts, with discussions on dissolving parliament and holding elections within specific timelines. The Sri Lanka Peoples Freedom Alliance (PA) members' decision to leave the presidency and return to the PA could influence the outcome of both elections. The Rajapaksas' stance on supporting the current President in the presidential election is critical, considering their past handling of the economic crisis and public sentiment towards them.
 
-மஹரக பகுதியில் ஞாயிற்றுக்கிழமை (19) இடம்பெற்ற ஓய்வூதியலாளர்களின் தேசிய மாநாட்டில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பாராளுமன்றத்தைக் கலைக்கும் அதிகாரம் ஜனாதிபதிக்கு உண்டு அதேபோல் எதிர்வரும் செப்டெம்பர் மற்றும் ஒக்டோபர் மாதமளவில் ஜனாதிபதி தேர்தலை நடத்தும் அதிகாரம் தேசிய தேர்தல்கள் ஆணைக்குழுவுக்கு உண்டு.ஆகவே இவ்விரு தேர்தல்களும் நிச்சயம் வெகுவிரைவில் இடம்பெறும்.
+There is no difference between presidential election and general election. We will face any election. We will face it or failure.. The President of the National People's Power and a Member of Parliament, Anurakumara Dissanayake, said that dissolving parliament would not be favorable.
+
+He was speaking at the National Conference of Pensioners on Sunday (19) in the Maharaka area.
+
+The President has the power to dissolve parliament and the National Elections Commission has the power to hold the presidential election by September and October.
+
+There are a series of negotiations between President Ranil Wickremesinghe and Basil Rajapaksa, who is responsible for economic impact.
+
+The President has the power to dissolve parliament. President Ranil Wickremesinghe will try to remain in office until the end of the post.
 
 ...
 
 [Data](articles/1baf13e6.json)
+
+[Extended Data](ext_articles/1baf13e6.ext.json)
 
 ---
 
@@ -130,6 +168,8 @@ The Colombo Fire Brigade said that four fire engines were dispatched to the scen
 
 [Data](articles/f10a5694.json)
 
+[Extended Data](ext_articles/f10a5694.ext.json)
+
 ---
 
 ### Sajith gives rise to Sajith Anuradon
@@ -156,17 +196,23 @@ Meanwhile, the national folk force was due to end tomorrow's day to end tomorrow
 
 ---
 
-### கொழும்பு துறைமுக நகரில் தீ விபத்து!
+### Fire in Colombo port city
 
 *2024-05-19 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183979) · `ta`
 
-கொழும்பு துறைமுக வளாகத்தை அண்மித்த அதிவேக நெடுஞ்சாலையில் பணிபுரியும் ஊழியர்களின் வீடொன்றிலேயே இந்த தீ பரவியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A fire broke out in an employee housing near Colombo Port, prompting four fire trucks' response.
 
-சம்பவ இடத்திற்கு 4 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளதாகக் கொழும்பு தீயணைப்பு பிரிவினர் தெரிவித்தனர்.
+🟩
+
+The fire has been reported in a house of employees working on the highway that recently near the Colombo Port complex.
+
+Four fire trucks have been dispatched to the scene, the Colombo Fire Department said.
 
 ◼️
 
 [Data](articles/36ac5bef.json)
+
+[Extended Data](ext_articles/36ac5bef.ext.json)
 
 ---
 
@@ -182,129 +228,193 @@ There were 3 helicopters in this convoy, and two helicopters carrying some minis
 
 [Data](articles/179a398c.json)
 
+[Extended Data](ext_articles/179a398c.ext.json)
+
 ---
 
-### இந்தியாவின் தடை நீடிப்பு - இனவாதிகளுக்கு மகிழ்ச்சி
+### India's prohibition prolonged - joy to racists
 
 *2024-05-19 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183974) · `ta`
 
-இறுதி யுத்தத்தின் அழிவுகளையும் துயரங்களையும் சுமந்து வாழ்ந்து வரும் தமிழ் மக்கள் முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வின் ஒரு அங்கமாக கஞ்சி வழங்கும் நிகழ்வை வடக்கு, கிழக்கு தமிழர் பிரதேசங்களில் முன்னெடுத்து வருகின்றனர். இதற்கு பல வழிகளிலும் தடைகளையும் ஏற்படுத்தி வரும் அரசாங்கம், அந்நிகழ்வில் ஈடுபட்ட பெண்களை நடு இரவில் வீடு புகுந்து அச்சுறுத்தி கைது செய்யும் நடவடிக்கைகளிலும் இறங்கியுள்ளது.
+India extends LTTE ban, impacting Tamil remembrance events in Sri Lanka. Prohibition praised by nationalists, criticized by human rights advocates.
 
-சில பிரதேசங்களில் கஞ்சி பரிமாறலுக்கு நீதிமன்ற தடையை காரணங்காட்டி வரும் பொலிஸார், இறுதி யுத்தத்தில் உயிரிழந்தோர் காணாமல் போனோரை நினைவு கூருவதற்கும் தடை விதித்து வருகின்றனர்.  2009ஆம் ஆண்டுக்குப்பின்னர் ஒவ்வொரு வருடமும் மே மாதம் முள்ளிவாய்க்கால் நினைவேந்தல் முன்னெடுக்கப்படும் போதெல்லாம் வடக்கு, கிழக்கு வாழ் தமிழ் மக்களுக்கு இந்த நெருக்கடிகள் ஏற்படுவது வழமையாகி விட்டது.
+🟩
+
+The Tamil people, who are carrying the destruction and sorrow of the final war, are carrying out the event in the North and East Tamil areas as part of the Mullivaikkal Memorial event.. The government has embarked on a number of ways and has taken steps to threaten and arrest women involved in the event.
+
+In some areas, police are responsible for the court ban on the exchanging of porridge, and are also banned from commemorating the disappearance of the dead in the final war.Whenever Mullivaikkal commemorates every year after 2009, it is customary for the Tamil people in the North and East.
+
+In 2016, the Sri Lanka Human Rights Commission made recommendations to the then government to ensure the rights of commemoration.. The police, who have ignored these common recommendations, are giving many crises, letting these events of the events of court prohibitions and peaceful events.
 
 ...
 
 [Data](articles/b053a1c2.json)
 
+[Extended Data](ext_articles/b053a1c2.ext.json)
+
 ---
 
-### சம்பந்தனின் அர்த்தமற்ற கோரிக்கை
+### Samban's meaningless demand
 
 *2024-05-19 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183973) · `ta`
 
-“தமிழ் பொது வேட்பாளர் என்ற விடயத்தில் அவசரப்படக் கூடாதென சம்பந்தனிடத்தில்  இருந்து வந்திருக்கின்ற கோரிக்கை, குழம்பிய நிலையை, பலவீனத்தையே வெளிக்காட்டி இருக்கிறது. ஜனாதிபதி தேர்தலில் போட்டியிடும், வேட்பாளர்களின் தேர்தல் அறிக்கைகளை ஆராய்ந்து விட்டு தமிழ் மக்கள் தீர்க்கமான முடிவை எடுக்க வேண்டும் என்றால், வரலாற்றில் ஒருபோதும் பொது வேட்பாளரை நிறுத்தும் தீர்மானத்தை எடுக்க முடியாது”
+"The Tamil community's indecisiveness about supporting a common candidate in the presidential election highlights their internal divisions and lack of strategic clarity."
+
+🟩
+
+“The demand from the source of the issue of the Tamil general candidate has revealed the confusion and weakness. If the Tamil people are to contest the presidential election and take a decisive decision and make a decisive decision if the Tamil people have to make a decisive decision, it will never be a decision to stop the common candidate in history ”
 
 ◼️
 
 [Data](articles/91a208e1.json)
 
+[Extended Data](ext_articles/91a208e1.ext.json)
+
 ---
 
-### போரில் தோற்கிறதா உக்ரேன்?
+### Is Ukraine defeat in war?
 
 *2024-05-19 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183972) · `ta`
 
-ஐந்தாவது தடவையாகப் பதவியேற்றுள்ள ரஷ்ய அதிபர் விளாடிமிர் புட்டின் தனது படைத்துறை அமைச்சரை மாற்றியுள்ளார். கடந்த 12 ஆண்டுகளாக படைத்துறை அமைச்சராகப் பதவி வகித்துவந்த சேர்கை சொய்கு ர~;ய பாதுகாப்புப் பேரவையின் செயலாளராக நியமிக்கப்பட்டுள்ளார். முன்னாள் துணைத் தலைமை அமைச்சரும் பொருளியலாளருமான அன்ரை பெலூசோ புதிய படைத்துறை அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+Vladimir Putin replaces his army minister after being sworn in for the fifth term, appointing Sarga Saku as Secretary of the Security Council and economist Anir Belluso as the new Army Minister.
+
+🟩
+
+Russian President Vladimir Putin, who has been sworn in for the fifth time, has replaced his army minister. Sarga Saku, who has been the Minister of Army for the past 12 years, has been appointed as the Secretary of the Security Council.. Former Deputy Chief Minister and Economist Anir Belluso has been appointed as the new Army Minister.
 
 ◼️
 
 [Data](articles/f6e1bdf3.json)
 
+[Extended Data](ext_articles/f6e1bdf3.ext.json)
+
 ---
 
-### சிறந்ததொரு அரசியலுக்காக தயார் செய்யப்படவேண்டிய அடுத்த தலைமுறை
+### The next generation to be prepared for the best politics
 
 *2024-05-19 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183969) · `ta`
 
-அரசியலோடு நேரடியாக எந்தத் தொடர்புமில்லாத ஒரு கடைநிலை பொதுமகனையும் உலக அரசியல் எந்தளவுக்கு ஆட்டிப்படைக்கின்றது என்பதை வரலாறு நெடுகிலும் கண்டுகொண்டுதான் இருக்கின்றோம். அதேபோல், இலங்கை ஆட்சியாளர்களின் தவாறான போக்குகள் நம்மை எங்கே கொண்டு நிறுத்தியிருக்கின்றது என்பதற்கும் நாம் சாட்சியாகவும் இருக்கின்றோம்.
+Historically, world politics often diverge from direct political issues, influenced by public opinion. This trend is evident in Sri Lanka, where leadership decisions impact citizens' lives significantly.
+
+🟩
+
+Throughout history, we have seen the extent to which world politics has a publicity that has nothing to do with politics directly.. Similarly, we are also a witness to where the Sri Lankan rulers have taken us.
 
 ◼️
 
 [Data](articles/057416c3.json)
 
+[Extended Data](ext_articles/057416c3.ext.json)
+
 ---
 
-### தமிழர் நலனை கை கழுவும் இந்தியா
+### India is a handful of Tamil welfare
 
 *2024-05-19 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183971) · `ta`
 
-தமிழ் பொது வேட்பாளர் போட்டியில் நிறுத்தப்படுவதால் தனக்கு சாதகமான வேட்பாளரின் வெற்றி பாதிக்கப்படுமா என்பதையும் இந்தியா உற்று நோக்குகிறது”
+India considers Tamil welfare crucially, assessing how a Tamil general candidate's success might impact the community.
+
+🟩
+
+India also looks at whether the Tamil general candidate is in the competition, whether the success of the candidate will be affected. ”
 
 ◼️
 
 [Data](articles/129e92fa.json)
 
+[Extended Data](ext_articles/129e92fa.ext.json)
+
 ---
 
-### அமெரிக்கா அனுப்பும் இன்னொரு ‘ஜூலி’
+### Another Julie's sending of the United States
 
 *2024-05-19 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183967) · `ta`
 
-அமெரிக்க தூதுவர் ஜூலி சங் பின்பற்றும் அணுகுமுறையிலேயே தானும் பயணம் செய்ய விரும்புவதாக புதிய தூதுவராக பெயரிடப்பட்டுள்ள எலிசபெத் ஹோஸ்ட் குறிப்பிட்டுக் கூறியிருப்பதிலிருந்து அமெரிக்கா இன்னொரு ஜூலி சங்கை களம் இறக்குகிறது என்பது தெளிவாகிறது”
+US Ambassador Julie Sung expresses desire to travel, likening her role to being "another Julie" for the United States.
+
+🟩
+
+It is clear that the United States is another Julie Sangha, from the fact that the US Ambassador Julie Sung has said that he wants to travel as a new ambassador.
 
 ◼️
 
 [Data](articles/2a322f01.json)
 
+[Extended Data](ext_articles/2a322f01.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தல் கட்சிக்குள் பிளவை ஏற்படுத்துமா?
+### Will the presidential electorate cause divisions?
 
 *2024-05-19 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183958) · `ta`
 
-ரணில் விக்கிரமசிங்க ஜனாதிபதித் தேர்தலில் வெற்றி வாய்ப்பை ஏற்படுத்திக்கொள்ள வேண்டுமாயின் மொட்டுக் கட்சியினரின் முழுமையான ஆதரவு அவசியமாகும். இந்த நிலைப்பாடு வருகின்றபோது முஸ்லிம்களின் வாக்குகள் ரணில் விக்கிரமசிங்கவுக்கு அளிக்கப்படுமா என்பதில் பலத்த கேள்விக்குறி ஏற்படலாமென்று அவர் கருதுகின்றார்.
+Ranil Wickremesinghe needs Muslim votes for his presidential victory, relying on budget party support.
+
+🟩
+
+Ranil Wickremesinghe is required to win the presidential election and requires the full support of the budget parties. When this position comes, he thinks that the votes of the Muslims will be given to Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/3648a5e5.json)
 
+[Extended Data](ext_articles/3648a5e5.ext.json)
+
 ---
 
-### ராஜபக்ஷவினரின் வாய்ஜாலம்
+### Rulment
 
 *2024-05-19 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183966) · `ta`
 
-“வரப்போகும் ஜனாதிபதி தேர்தலில் போட்டியிடுவது தொடர்பாக எந்த முடிவையும் ரணில் விக்கிரமசிங்க அறிவிக்கவில்லை. ஆனால் அவர் தன்னை தயார் படுத்திக் கொண்டிருக்கிறார்” ரணில் விக்கிரமசிங்கவை ஆதரிப்பதில் பொதுஜன பொதுஜன பெரமுன உறுதியாக இருக்கிறது. அதனூடாக தங்களின் கட்சியை மீள கட்டியெழுப்பும் திட்டம் அவர்களிடம் இருக்கிறது. அதற்காக ரணிலை தங்களின் கட்டுப்பாட்டுக்குள் கொண்டு வருவதற்கான முயற்சிகளை பஷில் ராஜபக்ஷ முன்னெடுத்துக் கொண்டிருக்கிறார்”
+Ranil Wickremesinghe hasn't confirmed his candidacy for the upcoming presidential election but is preparing. The PA aims to back him, planning a party revival. Basil Rajapakse seeks to influence Wickremesinghe.
+
+🟩
+
+“Ranil Wickremesinghe has not announced any decision on contesting the upcoming presidential election. But he is preparing himself. ”The PA is determined to support Ranil Wickremesinghe. Through it, they have a plan to rebuild their party. Basil Rajapakse is making efforts to bring Ranil under their control. ”
 
 ◼️
 
 [Data](articles/8f35e8ab.json)
 
+[Extended Data](ext_articles/8f35e8ab.ext.json)
+
 ---
 
-### ரபா படுகொலைகளும் பொதுச்சபை வேண்டுகோளும்
+### Raba assassinations and general council request
 
 *2024-05-19 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183964) · `ta`
 
-இஸ்ரேலியப் பிரதமர் பல மாதங்களாக ரபா மீதான தாக்குதல்கள் பற்றி பேசி வந்தார். மேற்குலகம் நினைத்திருந்தால் இதைத் தடுத்திருக்கலாம். ஆனால் அவர்கள் அவ்வாறு செய்யவில்லை. உண்மையில் எந்தவொரு அரபு நாடும் கூட அச்சத்துக்கு உள்ளான பலஸ்தீன மக்களுக்கு ஆறுதல் கூற எதுவித நடவடிக்கைகளையும் எடுக்கவில்லை.
+Israeli PM criticized for failing to prevent Rafa attacks; West & Arab nations' inaction leaves Palestinians unsupported.
+
+🟩
+
+Israeli Prime Minister has been talking about attacks on Rafa for months. If the West could have blocked this. But they did not do so. In fact, no Arab country has taken any steps to comfort the Palestinian people.
 
 ◼️
 
 [Data](articles/b393cadb.json)
 
+[Extended Data](ext_articles/b393cadb.ext.json)
+
 ---
 
-### கைவிடப்படும் பொறுப்புக்கூறல்
+### Abandonment
 
 *2024-05-19 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183955) · `ta`
 
-அமெரிக்கா உதவி இராஜாங்க செயலாளர் டொனால்ட் லூவின் கருத்துக்கள்  இலங்கை அரசாங்கம் அமைக்க முற்படும் உண்மை, நல்லிணக்க ஆணைக்குழுவுக்கு அங்கீகாரம் அளிப்பதாகவே உள்ளன.
+Donald Lu's recognition of Sri Lanka's Reconciliation Commission impacts its relations with the US. The upcoming UNHRC session may influence Sri Lanka's presidential election timing.
 
-இலங்கையில் ஜனாதிபதி தேர்தல் நடைபெறப் போகும் காலப்பகுதியிலேயே  ஐ.நா மனித உரிமைகள் பேரவை அமர்வும் நடைபெறுவதால் தேர்தலில் அந்த தீர்மானம் தாக்கத்தை ஏற்படுத்தக்கூடும்
+🟩
+
+US Assistant Secretary of State Donald Lu's comments are recognized by the Sri Lankan government to recognize the Reconciliation Commission.
+
+The UN Human Rights Council (UNHRC) session is likely to have an impact on the time when the presidential election is due in Sri Lanka.
 
 ◼️
 
 [Data](articles/37490be6.json)
+
+[Extended Data](ext_articles/37490be6.ext.json)
 
 ---
 
@@ -328,15 +438,21 @@ The Colombo Fire Brigade said 4 fireworks were sent to the site.
 
 ---
 
-### உண்மை, நல்லிணக்க ஆணைக்குழுவின் ஊடாக  பாதிக்கப்பட்ட தரப்பினருக்கு நன்மை விளையும் - கலாநிதி அசங்க குணவன்ச செவ்வி
+### True, the benefit of the affected parties through the Reconciliation Commission - Dr.
 
 *2024-05-19 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183953) · `ta`
 
-பாதிக்கப்பட்ட தரப்பினர் அனுபவிக்கும் துன்பத்தையும், அவர்களது மனநிலையையும் தாம் நன்கு புரிந்துகொள்வதாகவும், உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டு, அதன்கீழ் சுயாதீன ஆணைக்குழு ஸ்தாபிக்கப்படுமாயின், அதனூடாக பாதிக்கப்பட்ட தரப்பினரை முன்னிறுத்திய நடவடிக்கைகள் நிச்சயமாக முன்னெடுக்கப்படும் எனவும் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் கலாநிதி அசங்க குணவன்ச உத்தரவாதமளித்துள்ளார்.
+Dr. Kannavasa Gunavansa, Director of Truth and Reconciliation, suggests that establishing a truth, unity, and reconciliation commission in Parliament could empower affected parties through an independent commission, enabling them to take action.
+
+🟩
+
+The Director of Truth and Reconciliation, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Kannavasa Gunavansa has stated that if the proposed truth, unity and reconciliation commission is established in Parliament and the Independent Commission is established under it, the action will be carried out by the affected parties.
 
 ◼️
 
 [Data](articles/e9743fe2.json)
+
+[Extended Data](ext_articles/e9743fe2.ext.json)
 
 ---
 
@@ -372,29 +488,41 @@ Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologi
 
 ---
 
-### முள்ளிவாய்க்கால் தந்த பெருவலி
+### Mullivaikal
 
 *2024-05-19 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183945) · `ta`
 
-முள்ளிவாய்க்கால் இலங்கைத் தீவில் வட மாகாணத்தில் முல்லைத்தீவு மாவட்டத்தில் முல்லைத்தீவு நகரத்திலிருந்து ஆறு கிலோமீற்றர் தூரத்தில் வடக்கு நோக்கி அமைந்துள்ள கடற்கரைக் கிராமமாகும்.
+Mullivaikkal, a coastal village in Sri Lanka's Northern Province, borders the Induma Sea, Nandikadal watershed, Vadduvagal River, and is six km from Mullaitivu.
 
-இக்கிராமம் கிழக்கு புறத்தில் இந்துமா கடலையும், மேற்குப் புறத்தில் ஒடுங்கிய நந்திக்கடல் நீரேரியையும், தெற்கே வட்டுவாகல் ஆற்றுக் கழிமுகத்தையும், வடக்கே வலைஞர் மடக் கிராமத்தையும் எல்லைகளாகக் கொண்ட மணற்பாங்கான சமதரைப் பிரதேசமாகும்....
+🟩
+
+Mullivaikkal is a coastal village in the Northern Province of the Mullaitivu District, six kilometers from Mullaitivu in the Northern Province.
+
+The village is a sandy land bordered by the Induma Sea in the east, the Nandikadal watershed in the west, the Vadduvagal River in the south and the north of the web.
 
 ◼️
 
 [Data](articles/5f0fb0e1.json)
 
+[Extended Data](ext_articles/5f0fb0e1.ext.json)
+
 ---
 
-### ஜோர்ஜிய பாராளுமன்றில் பெரும் அமளிதுமளி!  முறுகலடையும் ஐரோப்பிய ஒன்றிய இணைவு?
+### Georgian ParliamentThe EU fusion of the sprouting?
 
 *2024-05-19 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183951) · `ta`
 
-ஜோர்ஜிய எதிர்ப்பாளர்கள் சர்ச்சைக்குரிய ‘வெளிநாட்டு முகவர்’ சட்டமூலத்துக்கு எதிராக பாரிய பேரணிகளை நடத்தியுள்ளனர். நாட்டில் பரவலான தொடர் அமைதியின்மை மற்றும் ஐரோப்பிய ஒன்றியம் மற்றும் அமெரிக்காவின் எச்சரிக்கைகள் இருந்தபோதிலும், ‘வெளிநாட்டு முகவர்கள’ சட்டமூலத்துக்கு பாராளுமன்றம் ஒப்புதல் அளித்ததை அடுத்து, ஜோர்ஜியாவில் ஆயிரக்கணக்கான எதிர்ப்பாளர்கள் வீதிகளில் இறங்கியுள்ளனர்.
+In Georgia, mass protests erupted over a contentious foreign agents bill, defying warnings from the EU and US. Thousands gathered despite ongoing unrest.
+
+🟩
+
+Georgian protesters have held massive rallies against controversial foreign agents bill. Despite the widespread continuous unrest and the European Union and the US warning, thousands of protesters in Georgia have landed in Georgia following the approval of Parliament to the Foreign Agents Bill.
 
 ◼️
 
 [Data](articles/50e54fbd.json)
+
+[Extended Data](ext_articles/50e54fbd.ext.json)
 
 ---
 
@@ -446,21 +574,29 @@ The Israeli continues to attack the United Nations Security Council, despite the
 
 ---
 
-### மீண்டும் யுத்தம் தோற்றம் பெறாத வகையில் நாட்டை நிர்வகிப்பது சகலரதும் பொறுப்பாகும் - மஹிந்த ராஜபக்ஷ
+### It is the responsibility of all people to manage the country so that the war is not again - Mahinda Rajapaksa
 
 *2024-05-19 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183976) · `ta`
 
-யுத்தத்தின் கொடுமையான அனுபவங்கள் இல்லாத சூழலில் தற்போது வாழ்கிறோம்.ஆகவே யுத்தம் பற்றி சிந்திக்க கூடாது என ஒருசிலர் குறிப்பிடுகிறார்கள். இராணுவத்தின் வீரத்துக்கு உயரிய அந்தஸ்து வழங்கி எதிர்காலத்தில் மீண்டும் யுத்தம் தோற்றம் பெறாத வகையில் நாட்டை நிர்வகிப்பது அனைவரினதும் பொறுப்பாகும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
+Mahinda Rajapaksa emphasizes the collective responsibility to prevent future wars, highlighting the peaceful post-war era and the heroic efforts of the military during the LTTE conflict, which ended 15 years ago.
 
-15 ஆவது இராணுவ வெற்றியை முன்னிட்டு வெளியிட்டுள்ள விசேட அறிக்கையில் மேற்கண்டவாறு குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-மூன்று தசாப்தங்களாக இலங்கையை ஆக்கிரமித்திருந்த பிரிவினைவாத, பயங்கரவாத யுத்தம்  முடிவுக்கு கொண்டு வரப்பட்டு  15 ஆண்டுகள் பூர்த்தியைடைந்துள்ளன.
+We are currently living in an environment where there is no cruel experiences of the war.. Former President Mahinda Rajapakse has stressed that it is the responsibility of all to manage the country in the future to give the military's heroism and manage the country in the future.
 
-1970 ஆம் ஆண்டு காலப்பகுதியில் ஒரு குழுவாக ஆரம்பமான தமிழீழ விடுதலை புலிகள் அமைப்பு 2008 ஆம் ஆண்டு காலப்பகுதியில் உலகில் பிரபல்யமான பயங்கரவாத அமைப்பாக எழுச்சிப் பெற்றது.
+The above stated in a special statement issued by the 15th Military Success.
+
+15 years have passed since the separatist and terrorist war that occupied Sri Lanka for three decades has ended.
+
+The Liberation Tigers of Tamil Eelam (LTTE), which began as a group in the 1970s, emerged as the world's most popular terrorist organization in the world in 2008.
+
+The LTTE introduced the world to the world of suicide. It should be recalled that the LTTE organization operated in a strong structure, such as suicide bombs, and ships carrying weapons, including light aircraft that can attack at night.
 
 ...
 
 [Data](articles/d56fbf35.json)
+
+[Extended Data](ext_articles/d56fbf35.ext.json)
 
 ---
 
@@ -2067,29 +2203,5 @@ Deduru Oya, Maha Oya, Kotaka, Attaka Oya, Box Oya, Kotawalu Oya and Kelani, Kota
 [Data](articles/7f657fb0.json)
 
 [Extended Data](ext_articles/7f657fb0.ext.json)
-
----
-
-### Alcohol, drugs, as well as sugar damages to your life
-
-*2024-05-19 09:57:41* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්--මත්-ද්‍රව්‍ය-මෙන්ම-සීනි--කිරිපිටි-ඔබගේ-ජිවිතයට-හානි-කරයි/11-409713) · `si`
-
-Dr. Ramesh Pathirana, Sri Lanka's Health and Industry Minister, launched an artificial limb project, funded by the Rotary Club of Colombo and UK-based clubs. This initiative aims to provide affordable prosthetics, including legs and wheelchairs, to those in need. The minister emphasized globalization and Sri Lanka's potential for growth, highlighting the importance of self-sufficiency in industries like dairy, where imports could be reduced.
-
-🟩
-
-Dr. Ramesh Pathirana, Minister of Health and Industry, Dr. Ramesh Pathirana was declared open by artificial limb project, Health and Industry.
-
-Rotary Club, Colombo Wulvasumpton Rotary, UK, in Colombo, Wulves Green Rotary, UK, in the Rotary Society of Colombo, Colombo, Wolwered Society of Colombo, Colombo, Colombo Wulvasumpton Rotary, UK.- The Maldives have received valuable and valuable to the Rotari, including the UK London, including London.
-
-These artificial limbs are not only feet, but also wheelchairs that are needed for the people who are not only feet and long-term disorders.. In a very low amount, these products are available to the people and the artist is expected to prepare 100 feet per year.
-
-After opening the artificial limbing center, the Health Minister said that the countries were in zones and Sri Lanka has come to an era of countries as a region.
-
-...
-
-[Data](articles/3afe207e.json)
-
-[Extended Data](ext_articles/3afe207e.ext.json)
 
 ---

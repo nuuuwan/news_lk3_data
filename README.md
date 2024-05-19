@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 02:33:59**
+As of **2024-05-20 02:50:55**
 
 ## Newspaper Stats
 
-*Scraped **25,064** Articles*
+*Scraped **25,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,439
-dailyftlk | 1,467
+dailyftlk | 1,469
 adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
@@ -26,11 +26,41 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,064 (100.0%) of 25,064 articles have been extended.
+25,064 (100.0%) of 25,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Sri Lanka’s political paradox: Prioritising privileges over public interest
+
+*2024-05-20 02:27:26* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-political-paradox-Prioritising-privileges-over-public-interest/4-761980) · `en`
+
+It is high time for Sri Lanka to break free from the shackles of corrupt political culture that prioritises personal gain over public welfare
+
+In the bustling chambers of Sri Lanka’s Parliament, a disheartening spectacle unfolds with disturbing regularity – elected officials engaged not in constructive debate for the betterment of the nation, but in heated exchanges and even physical altercations. Yet, behind the façade of discord lies a disconcerting unity among MPs when it comes to safeguarding their own interests and privileges, even at the expense of the struggling populace.
+
+...
+
+[Data](articles/a5e37762.json)
+
+---
+
+### Prema Cooray – a man for all seasons: An appreciation
+
+*2024-05-20 02:24:02* · [`dailyftlk`](https://www.ft.lk/columns/Prema-Cooray-a-man-for-all-seasons-An-appreciation/4-761979) · `en`
+
+The Imexpro Import-Export Trade Fair 2008, at the PEP Pavilion Deputy Head of Mission Ferdinand Lahnstein greets the Chief Guest, Minister of Investment and Enterprise Development Sarath Amunugama. On the left is Netherlands Embassy Senior Program Officer Bandula Hennadige, Also in the picture Prema Cooray
+
+The head table at the PEP awards ceremony (from left): the writer, Chandra Vithanage, CCC Chairman J.D. Bandaranayake, Royal Embassy of the Netherlands Deputy Head of Mission Ferdinand Lahnstein, Prema Cooray, and CCC Deputy Chairman Dr. Anura Ekanayake
+
+The demise of travel industry veteran Prema Cooray which made front page news last week, drowned so many other areas like his services to the business community to create a sustainable environment, promote bio-diversity and eco-efficient productivity as the CEO of the premier Chamber of Sri Lanka, Chamber of Commerce (CCC).
+
+...
+
+[Data](articles/6b5e1465.json)
+
+---
 
 ### Protests and crackdown: Rappers vs. the regime in Iran
 
@@ -2113,59 +2143,5 @@ Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended t
 [Data](articles/795ce4c6.json)
 
 [Extended Data](ext_articles/795ce4c6.ext.json)
-
----
-
-### Ranil meets Elon Musk
-
-*2024-05-19 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-meets-Elon-Musk/108-282892) · `en`
-
-Bali, May 19 (Daily Mirror) - President Ranil Wickremesinghe met Elon Musk in Bali and spoke about Sri Lanka being connected to the starlink network.
-
-President Wickremesinghe left for Indonesia yesterday to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
-
-The 10th World Water Forum is being held from May 18 to 20 in Bali, Indonesia.
-
-Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended the President's meeting with Elon Musk.
-
-◼️
-
-[Data](articles/80160a30.json)
-
-[Extended Data](ext_articles/80160a30.ext.json)
-
----
-
-### How the Trinity was trapped in the Maldeniya
-
-*2024-05-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196781) · `si`
-
-In Mirigama, three individuals were arrested for suspected murder of a 78-year-old man, his 42-year-old son, and an 80-year-old relative. The suspects, including a 40-year-old man found with gold items, were linked through ID cards and family connections. They admitted to killing their elderly relatives to steal money and valuables.
-
-🟩
-
-Police have arrested three persons in the Kithalawalawa area in Mirigama this morning.
-
-The victim was a 78-year-old man, a 42-year-old son, aged 80 years old.
-
-It is reported that the Naval police have arrested the three suspects in suspicion of murders.
-
-At the time of this morning, a person who was involved in an investigation duties in Kithalawalawa area was observed.
-
-The police had taken steps to check him with suspicion of the aged 40-year-old person, where he was found in his possession, gold items as well as a 98-year-old man.
-
-Police officers had taken steps to visit the identity card item listed in the case of the identity of another.
-
-It was identified as the body of a 78-year-old man, a 88-year-old woman and a 42-year-old resident of the house.
-
-The police also confirmed that the National Identity Card found in the suspect belonging to the 78-year-old man who had home.
-
-Accordingly, interrogation was revealed that he had been close relatives of the respective residents.
-
-...
-
-[Data](articles/fdf046c0.json)
-
-[Extended Data](ext_articles/fdf046c0.ext.json)
 
 ---

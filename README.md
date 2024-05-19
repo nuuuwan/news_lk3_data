@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 01:34:04**
+As of **2024-05-20 01:52:17**
 
 ## Newspaper Stats
 
-*Scraped **25,062** Articles*
+*Scraped **25,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,439
-dailyftlk | 1,466
+dailyftlk | 1,467
 adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,062 (100.0%) of 25,062 articles have been extended.
+25,062 (100.0%) of 25,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,20 @@ To change something, first you have to understand it. But unless you fully under
 [Data](articles/a7ccd43a.json)
 
 [Extended Data](ext_articles/a7ccd43a.ext.json)
+
+---
+
+### ‘A Death in an Antique Shop’: Challenge to our cognitive capacity?
+
+*2024-05-19 23:02:31* · [`dailyftlk`](https://www.ft.lk/columns/A-Death-in-an-Antique-Shop-Challenge-to-our-cognitive-capacity/4-761965) · `en`
+
+The worm’s eye will show us how people behave differently in response to challenges posed to them by changing circumstances. Those pure black or white people we have seen through a bird’s eye will suddenly disappear and, instead, appear as a mixture of blackness and whiteness making it almost impossible to pass any clear judgment. On one occasion, they are pure white but commences a process of transformation that ends finally in pure blackness
+
+Asoka Handagama is notorious for challenging our cognitive capacity through his artwork, be it through poetry, fiction, stage drama, teledrama, or movies. His newest stage drama, ‘A Death in an Antique Shop’, is the best, or worst in some sense, in this tradition. You can watch it not on stage but on YouTube at https://youtu.be/ueUnoBfcYsk?si=EbLKDpeTRkk0kYB-.
+
+...
+
+[Data](articles/bb3091b2.json)
 
 ---
 
@@ -2155,21 +2169,5 @@ On Thursday (May 16), the Indian Coast Guard also arrested 14 Sri Lankan fisherm
 [Data](articles/387f2e5d.json)
 
 [Extended Data](ext_articles/387f2e5d.ext.json)
-
----
-
-### Advisory for small fishing boats due to bad weather
-
-*2024-05-19 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99311/advisory-for-small-fishing-boats-due-to-bad-weather-) · `en`
-
-The small fishing boats along the coasts of Mannar to Colombo via Galle, Hambantota to Pottuvil and Ampara are advised not to venture out to sea from 12 noon today until further notice.
-
-The advisory was issued by the Director of the Department of Fisheries and Aquatic Resources due to the prevailing inclement weather conditions.
-
-◼️
-
-[Data](articles/64e572a0.json)
-
-[Extended Data](ext_articles/64e572a0.ext.json)
 
 ---

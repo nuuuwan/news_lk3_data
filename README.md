@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 22:18:26**
+As of **2024-05-19 22:33:57**
 
 ## Newspaper Stats
 
-*Scraped **25,040** Articles*
+*Scraped **25,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,436
-dailyftlk | 1,464
+dailyftlk | 1,465
 adalk | 2,140
 adaderanalk | 2,899
 tamilmirrorlk | 2,935
@@ -26,27 +26,45 @@ adaderanasinhalalk | 4,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,039 (100.0%) of 25,040 articles have been extended.
+25,040 (100.0%) of 25,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### ඩයනා පාස්පෝට් එක භාරදෙයි
+### Mahesh Senanayake joined the Samagi Jana Balawegaya yesterday
+
+*2024-05-19 22:14:01* · [`dailyftlk`](https://www.ft.lk/news/Mahesh-Senanayake-joined-the-Samagi-Jana-Balawegaya-yesterday/56-761964) · `en`
+
+Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegaya (SJB) yesterday during a meeting with SJB leader Sajith Premadasa.  The former Army Commander was also appointed as the Head of the Samagi Ranaviru Balawegaya by Premadasa. Other members of the Samagi Ranaviru Balawegaya, including Major Generals Nissanka Ranawana, Sumith Atapattu and Satyapriya Liyanage were also in attendance.
+
+◼️
+
+[Data](articles/0d560c80.json)
+
+---
+
+### Diana passport is handed over
 
 *2024-05-19 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196798) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමිවූ ඩයනා ගමගේ මහත්මිය සිය ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍රය තමන් වෙත භාරදුන්  බව ආගමන විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතා "අද දෙරණ" ට ප්‍රකාශ කළේය.
+Mrs. Diana Gamage, a state minister, lost her parliamentary seat due to failing to prove her Sri Lankan citizenship, as per the Supreme Court ruling. Her passport was handed over, highlighting issues with her eligibility under Article 89 of the Constitution.
 
-රාජ්‍ය අමාත්‍යවරියක් ලෙස කටයුතු කරමින් සිටි ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය 08 වනදා තීන්දු කළේය.
+🟩
 
-ඒ ඇයගේ ශ්‍රී ලාංකික පුරවැසිභාවය ඔප්පු කිරීමට ඇය අධිකරණය හමුවේ අසමත් වී ඇති බව සඳහන් කරමිනි.
+Hersha, Harsha Kelhika, Harsha, told Ada Derana that Mrs. Diana Gamage was handed over to the Sri Lankan Passport of Diana Gamage.
 
-ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 89වන වගන්තිය යටතේ ශ්‍රී ලංකික පුරවැසිභාවය අහිමි අයෙකු මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි ක්‍රියාවක් බවත් ද අදාළ තීන්දුවේ සඳහන් වෙයි.
+The Supreme Court ruled that Mrs. Diana Gamage, a state minister, had no legal qualification to sit in parliament.
+
+It is said that she failed to prove her Sri Lankan citizenship.
+
+The decision will be said that the seat of Sri Lankan citizenship under Article 89 of the Constitution is that the seat of Sri Lankan citizenship is contrary to the Constitution.
 
 ◼️
 
 [Data](articles/7b278dd0.json)
+
+[Extended Data](ext_articles/7b278dd0.ext.json)
 
 ---
 
@@ -2175,29 +2193,5 @@ Sri Lanka Land Development Corporation with the purposes of 'Low Land Developmen
 [Data](articles/4813a0e9.json)
 
 [Extended Data](ext_articles/4813a0e9.ext.json)
-
----
-
-### Landslide hazard warning to 7 districts
-
-*2024-05-19 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-மாவட்டங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-337503) · `ta`
-
-Heavy rains trigger NBRO to issue a landslide hazard warning for seven districts including Badulla, affecting 33 divisional secretariat divisions across Kegalle, Ratnapura, Kalutara, Colombo, and Gampaha.
-
-🟩
-
-Due to heavy rains, the National Building Research Organization (NBRO) has issued a landslide hazard warning to seven districts.
-
-The warning has been issued today (19) from 3 am to 20 am.
-
-Accordingly, warning notifications have been issued to Ella Divisional Secretariats of the Badulla District.
-
-நிலை 1 இன் கீழ் விக்கப்பட்ட மண்சரிவு எச்சரிக்கை அறிவிப்பில் பதுளை மாவட்டம் மற்றும் கண்டி, கேகாலை, இரத்தினபுரி, களுத்துறை, கொழும்பு மற்றும் கம்பஹா ஆகிய மாவட்டங்களில் உள்ள 33 பிரதேச செயலகப் பிரிவுகளும் அடங்கும்.
-
-◼️
-
-[Data](articles/880a28f8.json)
-
-[Extended Data](ext_articles/880a28f8.ext.json)
 
 ---

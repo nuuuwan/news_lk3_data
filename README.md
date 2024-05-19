@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 12:33:54**
+As of **2024-05-19 12:50:27**
 
 ## Newspaper Stats
 
-*Scraped **24,952** Articles*
+*Scraped **24,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,129
-adaderanalk | 2,889
+adaderanalk | 2,890
 tamilmirrorlk | 2,928
 virakesarilk | 3,760
 dailymirrorlk | 3,913
@@ -26,31 +26,63 @@ adaderanasinhalalk | 3,988
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,941 (100.0%) of 24,952 articles have been extended.
+24,952 (100.0%) of 24,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### මාලදෙණියේ ත්‍රිත්ව ඝාතකයාව පොලීසියට කොටු වූ හැටි
+### President meets Elon Musk, discuss implementation of ‘Starlink’ in Sri Lanka
+
+*2024-05-19 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99313/president-meets-elon-musk-discuss-implementation-of-starlink-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe has met with billionaire and investor Elon Musk on the sidelines of the 10th World Water Forum High-Level Meeting being held in Indonesia.
+
+During the meeting, Wickremesinghe and Musk have discussed the implementation of ‘Starlink’ in Sri Lanka.
+
+The President has committed to fast-tracking the application process to connect Sri Lanka with the global ‘Starlink’ network, the President’s Media Division (PMD) said.
+
+Meanwhile, Minister Jeevan Thondaman, who is accompanying the President on his two-day visit to Indonesia, tweeted saying: “President and Elon discussed Sri Lanka’s recovery, economic potential, and new opportunities for investment.”
+
+“Great to have two visionary leaders come together for Sri Lanka.”
+
+◼️
+
+[Data](articles/f771cffd.json)
+
+---
+
+### How the Trinity was trapped in the Maldeniya
 
 *2024-05-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196781) · `si`
 
-මීරිගම, කිතලවලාව ප්‍රදේශයේ නිවසක් තුළ අද අලුයම පුද්ගලයින් තිදෙනකුව ඝාතනය කිරීම සම්බන්ධයෙන් සැකකරුවෙක් ව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+In Mirigama, three individuals were arrested for suspected murder of a 78-year-old man, his 42-year-old son, and an 80-year-old relative. The suspects, including a 40-year-old man found with gold items, were linked through ID cards and family connections. They admitted to killing their elderly relatives to steal money and valuables.
 
-එහිදී ඝාතනයට ලක්ව තිබුණේ වයස අවුරුදු 78 ක පිරිමි පුද්ගලයෙක්, වයස අවුරුදු 80ක කාන්තාවක් සහ විශේෂ අවශ්‍යතා සහිත පුද්ගලයෙකු වූ 42 හැවිරිදි  ඔවුන්ගේ පුත්‍රයා ය.
+🟩
 
-ඝාතන සම්බන්ධයෙන් සැකපිට මියගිය තිදෙනාගේ ඥාති පුද්ගලයෙක් නාල්ල පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+Police have arrested three persons in the Kithalawalawa area in Mirigama this morning.
 
-අද අලුයම් කාලයේ මීරිගම, කිතලවලාව ප්‍රදේශයේ විමර්ශන රාජකාරියක නිරතව සිටි පොලිස් නිලධාරීන් පිරිසකට එහි මාර්ගයක පාපැදියක් තල්ලු කරමින් යන පුද්ගලයෙකු නිරීක්ෂණය වී තිබුණි.
+The victim was a 78-year-old man, a 42-year-old son, aged 80 years old.
 
-වයස් අවුරුදු 40ක පමණ වන අදාළ පුද්ගලයා සම්බන්ධයෙන් ඇතිවූ සැකය මත පොලිසිය ඔහුව පරීක්ෂා කිරීමට පියවර ගෙන තිබූ අතර, එහිදී ඔහු සන්තකයේ තිබී මුදල්, රන් භාණ්ඩ මෙන්ම වයස අවුරුදු 78ක පිරිමි පුද්ගලයෙකුට අයත් ජාතික හැඳුනුම්පතක්ද සොයා ගෙන තිබේ.
+It is reported that the Naval police have arrested the three suspects in suspicion of murders.
 
-වෙනත් අයෙකුගේ හැඳුනුම්පතක් ඔහු සන්තකයේ තිබීම සම්බන්ධයෙන් සැකපළ වීම හේතුවෙන් පොලිස් නිලධාරින් හැඳුනුම්පතෙහි සඳහන් ලිපිනය සොයා එහි යෑමට පොලිස් නිලධාරීන් පියවර ගෙන තිබුණි.
+At the time of this morning, a person who was involved in an investigation duties in Kithalawalawa area was observed.
+
+The police had taken steps to check him with suspicion of the aged 40-year-old person, where he was found in his possession, gold items as well as a 98-year-old man.
+
+Police officers had taken steps to visit the identity card item listed in the case of the identity of another.
+
+It was identified as the body of a 78-year-old man, a 88-year-old woman and a 42-year-old resident of the house.
+
+The police also confirmed that the National Identity Card found in the suspect belonging to the 78-year-old man who had home.
+
+Accordingly, interrogation was revealed that he had been close relatives of the respective residents.
 
 ...
 
 [Data](articles/fdf046c0.json)
+
+[Extended Data](ext_articles/fdf046c0.ext.json)
 
 ---
 
@@ -70,6 +102,8 @@ On Thursday (May 16), the Indian Coast Guard also arrested 14 Sri Lankan fisherm
 
 [Data](articles/387f2e5d.json)
 
+[Extended Data](ext_articles/387f2e5d.ext.json)
+
 ---
 
 ### Advisory for small fishing boats due to bad weather
@@ -84,23 +118,35 @@ The advisory was issued by the Director of the Department of Fisheries and Aquat
 
 [Data](articles/64e572a0.json)
 
+[Extended Data](ext_articles/64e572a0.ext.json)
+
 ---
 
-### இனப்படுகொலை உட்பட சர்வதேச குற்றங்களை விசாரணை செய்வதற்கு சர்வதேச நீதிபொறிமுறை அவசியம் - முள்ளிவாய்க்கால் நினைவேந்தல் செய்தியில் அமெரிக்க காங்கிரஸ் உறுப்பினர்
+### The International Judicial System is necessary to investigate international crimes, including genocide - US Congress member in Mullivaikkal Memorial
 
 *2024-05-19 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183939) · `ta`
 
-முள்ளிவாய்க்கால் இனப்படுகொலை இடம்பெற்று 15 வருடங்களாகின்ற நிலையில் தமிழ் மக்கள் 2009 இனப்படுகொலைகளை நிiவுகூரூம்போது அவர்களிற்கு தங்கள் ஆதரவை வெளியிடுவதாக அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+Deputy Summer Lee advocates for an International Judicial System to probe international crimes like the Mullivaikkal genocide, highlighting its importance for justice and accountability.
 
-2009ம் ஆண்டு யுத்தத்தின் இறுதி தருணங்களின் போது அரசாங்கத்தின் ஆதரவுடன் இடம்பெற்ற இனப்படுகொலையின் போது கொல்லப்பட்டவர்கள் உயிர்பிழைத்தவர்களை உலகம் முழுவதிலும் உள்ள தமிழர்கள் நினைவுகூரூம்போது நான் அவர்களிற்கு ஆதரவாக உள்ளேன் என அமெரிக்க சனப்பிரதிநிதிகள் சபையின் பிரதி சம்மர் லீ தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையில் போதியளவு நீதியின்மை இந்த பயங்கரமான குற்றங்களிற்கு காரணமான யுத்த குற்றவாளிகள் அந்த நாட்டில் அதிகாரத்தைஅனுபவிக்க அனுமதியளித்துள்ளது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+It has been 15 years since the Mullivaikkal genocide took place.
 
-இலங்கையில் இடம்பெற்ற இனப்படுகொலை உட்பட சர்வதேச குற்றங்களிற்கு காரணமானவர்களை விசாரணை செய்வதற்காக சர்வதேச குற்றவியல் நீதிப்பொறிமுறையொன்றை உருவாக்கவேண்டும் என நான் வேண்டுகோள்விடுக்கின்றேன் என தெரிவித்துள்ள அவர் நீதிவழங்கப்பட்டபின்னரே அர்த்தபூர்வமான அமைதியையும் ஸ்திரதன்மையையும் ஏற்படுத்த முடியும் எனவும் குறிப்பிட்டுள்ளார்
+"I am in favor of Tamils ​​all over the world when I remember the survivors of the genocide of the government during the final moments of the war in 2009," said Deputy Summer Lee of the US House of Representatives.
 
-...
+He added that the war criminals responsible for these horrific crimes in Sri Lanka have allowed the country to establish power.
+
+He said that I urge you to create an International Criminal Justice System to investigate those responsible for international crimes, including genocide in Sri Lanka.
+
+US Congress member Debera Rose has said that I am also joining the Tamils ​​to commemorate the lives of the tragedy during the civil war of Sri Lanka today, the Tamil genocide day.
+
+He said that every day we should recall this tragedy and demand justice for the victims and their families.
+
+◼️
 
 [Data](articles/e095a8e8.json)
+
+[Extended Data](ext_articles/e095a8e8.ext.json)
 
 ---
 
@@ -278,15 +324,17 @@ At the same time, there was a tense situation in the area as another group stage
 
 *2024-05-19 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183933) · `ta`
 
-இலங்கையில் போர் இல்லாமை அனைத்து இன மக்களுக்கும் உள ரீதியான நிம்மதியை தருகிறது. காலாகாலமாக கல்வியையும் தங்கம் உள்ளிட்ட சொத்துக்களையும் சேர்த்த தமிழ் மக்களை மூன்று தசாப்தகால போரானது அனைத்து வகையிலும் பின்தள்ளியது மாத்திரமன்றி தமிழ்  சமூகத்தின் மூளைசாலிகளையும் அழித்துவிட்டது என்று பாதுகாப்பு பதவி நிலை பிரதானி ஜெனரல் சவேந்திர சில்வா தெரிவித்தார்.
+The lack of war in Sri Lanka brings psychological peace for all ethnic groups. The three decades of war that the Tamil people who have been educated and assets, including gold have been educated from time to time, have destroyed the brain of the Tamil community, ”said Defense Chief General Shavendra Silva.
 
 வீரகேசரி வாரவெளியீட்டு வழங்கிய விசேட செவ்வியிலேயே ஜெனரல் சவேந்திர சில்வா மேற்கண்டவாறு கூறினார். அவர் வழங்கிய முழமையான செவ்வி வருமாறு,
 
-15 வருடங்கள் கடந்துள்ள போர் தமிழீழ விடுதலைப் புலிகளுக்கு  எதிரான மூன்று  தசாப்த கால போர் நிறைவடைந்து 15 வருடங்கள் கடந்துள்ளன.  பயங்கரவாத அச்சுறுத்தல்  இன்றி  அனைத்து  இன மக்களும் அமைதியாக வாழும் சூழல் ஏற்பட்டுள்ளமையை இட்டு மகிழ்ச்சியடைகின்றேன். இலங்கையில் இனியொருபோதும் பயங்கரவாத அச்சுறுத்தல் ஏற்படாது என்ற நம்பிக்கை மக்களுக்கு உள்ளது.
+15 வருடங்கள் கடந்துள்ள போர் தமிழீழ விடுதலைப் புலிகளுக்கு  எதிரான மூன்று  தசாப்த கால போர் நிறைவடைந்து 15 வருடங்கள் கடந்துள்ளன.  பயங்கரவாத அச்சுறுத்தல்  இன்றி  அனைத்து  இன மக்களும் அமைதியாக வாழும் சூழல் ஏற்பட்டுள்ளமையை இட்டு மகிழ்ச்சியடைகின்றேன். People are confident that there will be no threat to terrorism in Sri Lanka anymore.
 
 ...
 
 [Data](articles/bacd7814.json)
+
+[Extended Data](ext_articles/bacd7814.ext.json)
 
 ---
 
@@ -374,17 +422,25 @@ The suspects are due to be handed over to the Fisheries and Aquatic Resources De
 
 ---
 
-### இலங்கை கடற்பரப்புக்குள் ஊடுருவும் நீர்மூழ்கி கப்பல்களை தடுக்க அமெரிக்கா உதவி  - தேசிய பாதுகாப்பு ஆலோசகர்
+### US Help to prevent submarines penetrating into Sri Lankan waters - National Security Advisor
 
 *2024-05-19 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183930) · `ta`
 
-அனுமதியின்றி இலங்கை கடற்பரப்புக்குள் ஊடுருவும் நீர்மூழ்கி கப்பல்களை தடுக்கவும் கண்காணிக்கவும் ஒத்துழைக்குமாறு அமெரிக்காவிடம் உதவி கோரப்பட்டுள்ளது. இதேவேளை, பிராந்தியத்தில் கொந்தளிப்புகளை ஏற்படுத்தும் சர்வதேச நாடுகளின் ஆய்வுக் கப்பல்களின் வருகையை கட்டுப்படுத்த உள்ளக சமுத்திரவியல் ஆய்வுக்குழுவை ஸ்தாபிக்கவும் தீர்மானிக்கப்பட்டுள்ளது.
+The U.S., responding to Sri Lanka's request, will assist in preventing unauthorized submarine entries into its territorial waters. This cooperation includes establishing an internal oceanic examination committee to manage foreign interference. During a meeting between Donald Lu, U.S. Deputy Secretary for South and Central Asian Affairs, and Sri Lanka's National Security Advisor, it was agreed to form a specialized domestic oceanic study group. This initiative aims to enhance Sri Lanka's maritime security without requiring external labs, ensuring data sharing with allies like Japan and Australia. The plan also involves modernizing Sri Lanka's military capabilities.
 
-இந்திய பெருங்கடலின் பாதுகாப்பு நடவடிக்கை குறித்து இலங்கை விஜயத்தின்போது கூடுதல் அவதானம் செலுத்தியிருந்த தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க இராஜாங்க திணைக்களத்தின் துணைச் செயலாளர் டொனல்ட் லூ, தேசிய பாதுகாப்பு ஆலோசரை சந்தித்து கலந்துரையாடி இருந்தார்.
+🟩
+
+The United States has been asked to cooperate to prevent and monitor submarines that penetrate into the Sri Lankan waters without permission. At the same time, it is also decided to establish an internal oceanic examination committee to curb the arrival of international countries that cause turbulence in the region.
+
+Donald Lu, Deputy Secretary of the US State Department for South and Central Asian Affairs, who had paid extra attention during the Sri Lankan visit to Sri Lanka, met with the National Security Advisor.
+
+It has been decided to establish a committee for special domestic oceanism for inspection activities in Sri Lankan waters. The creation of such a research committee does not require other countries' laboratories to come to Sri Lanka. Deputy Secretary Donald Lou agreed to cooperate with the United States during the need for training and other requirements that will occur when creating an ocean research committee.
 
 ...
 
 [Data](articles/01a6bf34.json)
+
+[Extended Data](ext_articles/01a6bf34.ext.json)
 
 ---
 
@@ -438,17 +494,27 @@ Accordingly, warning notifications have been issued to Ella Divisional Secretari
 
 ---
 
-### மௌனித்த பல கதைகள் நீடித்த அரசியல் தீர்வின் அவசியத்தை வலியுறுத்துகிறது  - அமெரிக்க தூதுவர் ஜூலி சங்
+### Many of the silent stories emphasize the need for a durable political solution - US Ambassador Julie Chung
 
 *2024-05-19 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183925) · `ta`
 
+US Ambassador Julie Chung emphasizes the importance of a lasting political solution, highlighting America's support for Sri Lanka's quest for justice, equality, and opportunity.
+
+🟩
+
 நீதி, சம உரிமைகள் மற்றும் சம வாய்ப்புகளை பெற்றுக்கொள்வதில் ஈடுபாட்டுடன் போராடும் இலங்கை மக்களின் உறுதியான பங்காளியாக அமெரிக்கா என்றும் இருக்கும் என்று தெரிவித்துள்ள அமெரிக்க தூதுவர் ஜூலி சங், மௌனிக்கப்பட்ட பல  கதைகள் நீடித்த அரசியல் தீர்வின் அவசியத்தை வலியுறுத்துவதாகவும் குறிப்பிட்டுள்ளார்.
 
-இலங்கையின் அரச படைகளுக்கும் விடுதலைப்புலிகளுக்கும் இடையிலான மூன்று தசாப்த கால போர்  முடிவடைந்து 15 வருடங்கள் ஆகின்ற நிலையில், வடக்கு மற்றும் கிழக்கில் போரில் உயிரிழந்தவர்களை நினைவுகூர்ந்து பல்வேறு நிகழ்வுகள் இடம்பெறுகின்றன. இவ்வாறானதொரு நிலையில் வடக்குக்கு விஜயம் செய்திருந்த அமெரிக்க தூதுவர் ஜூலி சங், யாழ்ப்பாணத்தில் அரச மற்றும் சிவில் தரப்புகளை சந்தித்து கலந்துரையாடியிருந்தார்.
+With the end of the three decades of war between the state forces and the Liberation Tigers of Sri Lanka, it has been 15 years since the end of the war.. In such a situation, US Ambassador Julie Sung, who had visited the North, had met with state and civil parties in Jaffna.
+
+Especially during the civil war, the relatives of the missing persons met with the families of former militants and former terrorist law inmates.. The US Ambassador, who said that all families have the right to commemorate the loved ones, stressed the need for a prolonged political solution.
+
+In this case, the US Ambassador commemorates 15 years after the end of Sri Lanka's Civil War, said further stated that the X -page recorded.
 
 ...
 
 [Data](articles/5af8579c.json)
+
+[Extended Data](ext_articles/5af8579c.ext.json)
 
 ---
 
@@ -536,21 +602,29 @@ The landslide warning announcement under Level 1 include Badulla district and 33
 
 ---
 
-### இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகளில் ஈடுபடுவதுடன்  திட்டமிட்டு பிழையான தகவல்களை பரப்புகின்றது - பிரம்டன் மேயர் பட்ரிக் பிரவுன்
+### The Sri Lankan government, which rejects the genocide, is planning to engage in international interventions and spreads wrong information
 
 *2024-05-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183929) · `ta`
 
-இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகளில் ஈடுபடுவதுடன்  திட்டமிட்டு பிழையான தகவல்களை வெளியிடுதல் பரப்புதல் போன்றவற்றில் ஈடுபட்டுள்ளது என கனடா பிரம்டன் மேயர் பட்ரிக் பிரவுன்  தெரிவித்துள்ளார்
+The Sri Lankan government denies genocide but engages in international interventions and disseminates false information. Pattrik Brown supports global Tamils' commemoration of the Mullivaikkal massacre, criticizing the government's lack of action on war crimes accountability.
 
-தமிழ் இனப்படுகொலை தினம் என குறிப்பிடப்படும் முள்ளிவாய்க்கால் படுகொலையின் 15 வருடத்தை இன்றைய தினம் குறிக்கின்றது என பட்ரிக் பிரவுண் குறிப்பிட்டுள்ளார்.
+🟩
 
-2009ம் ஆண்டு ஆயுதமோதலின் இறுதி தருணங்களில் அரச ஆதரவுடன் இடம்பெற்ற இனப்படுகொலையில் பலியானவர்கள் உயிர்பிழைத்தவர்களை உலகம் முழுவதிலும் உள்ள தமிழர்கள் நினைவுகூரும் இந்த தருணத்தில் நான் எனது ஆதரவை அவர்களிற்கு வெளியிடுகின்றேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+The Sri Lankan government, which rejects the genocide, is engaged in international intervention and is deliberately involved in publishing false information
 
-இந்த குற்றங்களிற்கும் யுத்தத்தின் போதும் அதன் பின்னரும் இடம்பெற்ற வலிந்து காணாமலாக்கப்பட்ட சம்பவங்களிற்கும் கண்மூடித்தனமான தடுத்துவைத்தல் சித்திரவதைகள்  நீதி பொறுப்புக்கூரலை உறுதி செய்வதற்கான எந்த நேர்மையான நடவடிக்கைகளையும் இன்றுவரை இலங்கை அரசாங்கம் முன்னெடுக்கவி;ல்லை எனவும் அவர் குறிப்பிட்டுள்ளார்.
+Pattrik Brown stated that the Mullivaikkal massacre, which is referred to as the Tamil genocide day, is referring to the 15 years.
 
-...
+He said that at this moment, I would express my support to the Tamils ​​around the world, when the Tamils ​​all over the world commemorate the victims of the genocide that took place in the final moments of the 2009 armed conflict.
+
+He said that the Sri Lankan government has not taken any honest measures to ensure the responsibility of justice and to ensure the responsibility of justice for the crimes and the disappeared incidents of the war and the aftermath of the war.
+
+இதனை விட மோசமான விடயம் என்னவென்றால் இடம்பெற்ற இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகள் திட்டமிட்டு பிழையான தகவல்களை வெளியிடுதல் பரப்புதல் போன்றவற்றில் ஈடுபட்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
 
 [Data](articles/d196991f.json)
+
+[Extended Data](ext_articles/d196991f.ext.json)
 
 ---
 
@@ -578,17 +652,25 @@ The cyclist was killed after admission to the Panadura Base Hospital and the bou
 
 ---
 
-### ஒக்டோபர் முதல் வாரத்தில் ஜனாதிபதி தேர்தல் -   ரணிலை ஆதரிக்க பொதுஜன பெரமுன தீர்மானம்
+### Presidential Elections in October - PA
 
 *2024-05-19 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183926) · `ta`
 
-ஜனாதிபதி தேர்தலை எதிர்வரும் ஒக்டோபர் மாதத்தின் முதல் வாரத்தில் நடாத்துவதற்கு அரசாங்கம் அவதானம் செலுத்தியுள்ளது. இதேவேளை ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மீண்டும் ஆதரவளிக்கும் வகையில் ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்குள் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன. குறிப்பாக பரந்துபட்ட கூட்டணியின் கீழ் பொது வேட்பாளராக ஜனாதிபதி ரணில் தேர்தலில் போட்டியிட தீர்மானித்துள்ளதாக அரசாங்கத்தின் உயர் மட்ட தகவல்கள் உறுதிப்படுத்துகின்றன.
+The Sri Lanka PA is focusing on the October presidential election, with President Ranil Wickremesinghe set to run as a common candidate under a broad coalition. There's speculation about early parliamentary elections and concerns over dissolving Parliament, affecting IMF agreements. The presidential election is confirmed for October 5, with a referendum on September 16. Support for Wickremesinghe is growing within the PA, including from its parliamentary committee and local councils, backed by Basil Rajapakse's suggestion. Negotiations are ongoing with various parties, highlighting Wickremesinghe's leadership in a new political alliance led by Anura Priyadarshana Yapa.
 
-ஜனாதிபதி தேர்தலுக்கு முன்னதாக பாராளுமன்ற தேர்தல் இடம்பெறும் என்று பல்வேறு தகவல்கள் பகிரப்பட்டன. மே மாதம் பாராளுமன்றம் கலைக்கப்படும் என்றும் அந்த தகவல்களில் கூறப்பட்டன. இந்த தகவல்களுக்கு ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுன பதிலளிக்கையில், பாராளுமன்றத்தை கலைத்துவிட்டால் எவ்வாறு சர்வதேச நாணய நிதியத்துடனான நாட்டின் பொருளாதார நடவடிக்கைகளை முன்னெடுப்பது என கேள்வியெழுப்பியிருந்தனர்.
+🟩
+
+The government has paid attention to the presidential election in the first week of October. Meanwhile, negotiations have been launched within the Sri Lanka PA to support President Ranil Wickremesinghe.. The high -level information of the government confirms that President Ranil has decided to contest the election as a common candidate, especially under the widespread coalition.
+
+Various reports were shared that parliamentary elections would be held before the presidential election. It was also stated that the Parliament would be dissolved in May. Responding to this information, the Sri Lanka PA had questioned how the country's economic activities would be carried out with the IMF if parliament was dissolved.
+
+In such a situation, a government chief informed the presidential election date. Accordingly, he said that the presidential election was held in the first week of October and that the election would be held on October 5.
 
 ...
 
 [Data](articles/664d6ccf.json)
+
+[Extended Data](ext_articles/664d6ccf.ext.json)
 
 ---
 
@@ -978,23 +1060,33 @@ The Minister of Education Susil Premajayantha said that about eight million peop
 
 ---
 
-### மனித உரிமைகளை பாதுகாக்கும் நடவடிக்கைகளை கனடா ஒருபோதும் நிறுத்தாது- இலங்கை இராணுவ அதிகாரிகளுக்கு எதிராக கனடா ஏற்கனவே தடைகளை விதித்துள்ளது- முள்ளிவாய்க்கால் நினைவேந்தல் செய்தியில் கனடா பிரதமர்
+### Canada has already imposed sanctions against Sri Lankan military officials
 
 *2024-05-19 07:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183923) · `ta`
 
-சர்வதேச அளவில் மனித உரிமைகளை பாதுகாக்கும் நடவடிக்கைகளை கனடா ஒருபோதும் நிறுத்தாது என தெரிவித்துள்ள கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ இலங்கையில் யுத்த குற்றங்களில் ஈடுபட்ட இராணுவ அதிகாரிகளிற்கு எதிராக தடைகளை விதித்ததை சுட்டிக்காட்டியுள்ளார்.
+Canada has sanctioned Sri Lankan military officials over human rights abuses, emphasizing its commitment to global human rights protection. The move follows recognition of the Tamil genocide by the Canadian Parliament and ongoing efforts to achieve justice and accountability for atrocities committed during Sri Lanka's civil war.
 
-முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வினை குறிக்கும் விதத்தில் வெளியிட்டுள்ள அறிக்கையில் அவர் இதனை தெரிவித்துள்ளார்
+🟩
 
-15 வருடங்களிற்கு முன்னர் இலங்கையின் உள்நாட்டு மோதல் முடிவிற்கு வந்தது  முள்ளிவாய்க்கால் படுகொலை உட்பட பல ஆயிரக்கணக்கான மக்கள் தங்கள் உயிர்களை இழந்தனர்.
+Canada's Prime Minister Justin Trudeau has said that Canada will never stop the protection of human rights internationally.
 
-இன்று நாங்கள் பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் அர்த்தமற்ற நீண்டகால வன்முறை ஏற்படுத்திய வேதனை வலியுடன் வாழும் அவர்களின் அன்புக்குரியவர்களை நாங்கள் கௌரவிக்கின்றோம்.
+He said this in a statement issued by the Mullivaikkal Memorial event.
 
-இரண்டு வருடங்களிற்கு முன்னர் மே 18ம் திகதியை தமிழர்கள் இனப்படுகொலை நினைவேந்தல் தினமாக அங்கீகரிப்பதற்கான தீர்மானத்திற்கு கனடா நாடாளுமன்றம் ஏகமனதாக வாக்களித்தது.
+Thousands of people lost their lives, including the Mullivaikkal massacre, which ended Sri Lanka's domestic conflict 15 years ago.
+
+Today we honor their loved ones who live with the pain of the pain that caused the victims and survivors.
+
+The Canadian Parliament unanimously voted for the decision to recognize the Tamil genocide on May 18, two years ago.
+
+We are always propagating justice and accountability for the crimes that have taken place during the conflict and all the people of Sri Lanka faced.
+
+During Sri Lanka's armed conflict in 2023, we imposed sanctions against four Sri Lankan military officers violating human rights.
 
 ...
 
 [Data](articles/d04948e4.json)
+
+[Extended Data](ext_articles/d04948e4.ext.json)
 
 ---
 
@@ -1112,17 +1204,23 @@ The educational educational revenues to apply the monthly income of the A / L st
 
 ---
 
-### முள்ளிவாய்க்கால் நினைவேந்தல் தினத்தை அடிப்படையாக வைத்து இடம்பெற்ற கைதுகள் -  அமெரிக்க செனெட் வெளியுறவுக்குழு கவலை
+### Mullivaikkal Memorial Day Based on Mullivaikkal
 
 *2024-05-19 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183921) · `ta`
 
-இலங்கையின் ஈவிரக்கமற்ற உள்நாட்டு யுத்தத்தின் போது கொல்லப்பட்ட பலவந்தமாக காணாமல்போகச்செய்யப்பட்ட சித்திரவதை செய்யப்பட்ட ஆயிரக்கணக்கான தமிழர்களை நினைவுகூரும் முள்ளிவாய்க்கால் தினத்தை அடிப்படையாக கொண்டு இடம்பெற்ற கைதுகள் குறித்து கவலையடைந்துள்ளதாக அமெரிக்க செனெட் வெளியுறவுக்குழுவின் தலைவர் செனெட்டர் கார்டின் தெரிவித்துள்ளார்.
+Senator Cardin expresses concern over arrests related to Mullivaikkal Day, a commemoration of Tamil disappearances during Sri Lanka's civil war. He urges the Sri Lankan government to facilitate these arrests to honor the victims' memories.
 
-கைதுகள் குறித்த அச்சமின்றி நினைவேந்தல்களை முன்னெடுப்பதற்கு இலங்கை அரசாங்கம் அனுமதிக்கவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+🟩
+
+US Senate's Foreign Committee Chairman Senater Cardin says that he is worried about the arrests based on Mullivaikkal Day, which commemorates thousands of Tamils ​​who have been forcibly disappeared during Sri Lanka's ruthless civil war.
+
+He has appealed to the Sri Lankan government to allow the arrests to carry out the memories.
 
 ◼️
 
 [Data](articles/755055e0.json)
+
+[Extended Data](ext_articles/755055e0.ext.json)
 
 ---
 
@@ -2195,29 +2293,5 @@ It is sobering to stand in the same place where, 15 years ago, countless civilia
 [Data](articles/500139bb.json)
 
 [Extended Data](ext_articles/500139bb.ext.json)
-
----
-
-### Floods in Afghanistan again - losing many lives
-
-*2024-05-18 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196759) · `si`
-
-Severe floods in Afghanistan claim over 300 lives, injure 1,600, destroy 2,000 homes, and damage 4,000 more.
-
-🟩
-
-Foreign media reports that nearly 50 people have died due to floods affected by central Afghanistan.
-
-A large number of other persons were injured in disaster and a certain number has not yet been announced.
-
-About 2,000 houses have been completely destroyed due to the disaster caused with heavy rain and 4,000 other houses were partially damaged.
-
-315 people were killed and another 1600 wounded in severe floods affected by the northern Afghanistan last week.
-
-◼️
-
-[Data](articles/feb8ca41.json)
-
-[Extended Data](ext_articles/feb8ca41.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 01:52:17**
+As of **2024-05-20 02:04:36**
 
 ## Newspaper Stats
 
-*Scraped **25,063** Articles*
+*Scraped **25,064** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 224
+colombotelegraphcom | 225
 bbccomsinhala | 253
 dbsjeyarajcom | 257
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,062 (100.0%) of 25,063 articles have been extended.
+25,063 (100.0%) of 25,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,8 @@ Asoka Handagama is notorious for challenging our cognitive capacity through his 
 ...
 
 [Data](articles/bb3091b2.json)
+
+[Extended Data](ext_articles/bb3091b2.ext.json)
 
 ---
 
@@ -587,6 +589,20 @@ Daily Mirror understands that the star all-rounder has already bought a few hous
 [Data](articles/fdb64448.json)
 
 [Extended Data](ext_articles/fdb64448.ext.json)
+
+---
+
+### ‘A Death In An Antique Shop’: Challenge To Our Cognitive Capacity?
+
+*2024-05-19 20:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-death-in-an-antique-shop-challenge-to-our-cognitive-capacity/) · `en`
+
+Asoka Handagama is notorious for challenging our cognitive capacity through his artwork, be it through poetry, fiction, stage drama, teledrama, or movies. His newest stage drama, ‘A Death in an Antique Shop’, is the best, or worst in some sense, in this tradition. You can watch it not on stage but on YouTube.
+
+In many respects, watching the drama on YouTube is better than doing it in a theatre-environment. First, it is free from the attention deficiency which we will face in a theatre. As Salman Khan, creator of the Khan Academy, has told us in his autobiographical professional experience, The One World Schoolhouse: Education Reimagined, we can keep attention to a single object continuously not more than for about seven minutes; beyond that, we lose focus on the object. In a theatre where we sit for hours in an uncomfortable posture, it is certainly not possible to pay full attention to what is being unfolded on the stage for the whole duration of the drama.
+
+...
+
+[Data](articles/644ccf2f.json)
 
 ---
 
@@ -2149,25 +2165,5 @@ Accordingly, interrogation was revealed that he had been close relatives of the 
 [Data](articles/fdf046c0.json)
 
 [Extended Data](ext_articles/fdf046c0.ext.json)
-
----
-
-### Indian Coast Guard detain 07 Sri Lankan fishermen for poaching in Indian waters
-
-*2024-05-19 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99312/indian-coast-guard-detain-07-sri-lankan-fishermen-for-poaching-in-indian-waters) · `en`
-
-The Indian Coast Guard has detained a 07 Sri Lankans together with a mechanised fishing boat for poaching in Indian waters.
-
-Indian media reported that when Indian Coast Guard Ship Vaibhav spotted the mechanised boat from Sri Lanka fishing in Indian waters off Kanniyakumari coast on Saturday (May 18), the boat with 07 crew members, who were all Sri Lankan nationals, were apprehended.
-
-Sources in the Marine Police of India stated to ‘The Hindu’ news agency that the Indian Coast Guard will bring the detained boat and the Sri Lankan fishermen to Tharuvaikulam Fish Landing Centre on Sunday (May 19) and they will be handed over to the marine police for onward legal action.
-
-On Thursday (May 16), the Indian Coast Guard also arrested 14 Sri Lankan fishermen identified to be hailing from Paruthithurai, Point Pedro, along with five boats for crossing the International Maritime Boundary Line (IMBL) and for fishing sea cucumber.
-
-◼️
-
-[Data](articles/387f2e5d.json)
-
-[Extended Data](ext_articles/387f2e5d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 16:18:14**
+As of **2024-05-19 16:33:53**
 
 ## Newspaper Stats
 
-*Scraped **24,981** Articles*
+*Scraped **24,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,135
+adalk | 2,136
 adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
-dailymirrorlk | 3,917
+dailymirrorlk | 3,918
 adaderanasinhalalk | 3,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,980 (100.0%) of 24,981 articles have been extended.
+24,981 (100.0%) of 24,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,6 +158,26 @@ Registration for individuals who want to start a new business in Sri Lanka is a 
 
 ---
 
+### BOI concerned over proposed Economic Transformation Bill
+
+*2024-05-19 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BOI-concerned-over-proposed-Economic-Transformation-Bill/108-282895) · `en`
+
+Colombo, May 19 -  The Sri Lanka All Union Alliance of the Board of Investment (BOI) has issued a stark warning against the proposed Economic Transformation Bill, set to be submitted to Parliament on May 22.
+
+The alliance cautions that the Bill will severely destabilize the investment sector, which is already grappling with economic challenges.
+
+According to the coalition, the Bill caters to a select few individuals without consulting field experts or investors. This could prompt the departure of existing investors, further jeopardizing the sector.
+
+The alliance calls for a transparent revision of the Bill, involving affected parties and economic experts.
+
+While proponents claim the act will drive significant economic transformation, the alliance argues that its true aim is to secure financial gains by transferring 15 profitable investment zones under BOI control to private associates before upcoming elections.
+
+...
+
+[Data](articles/1769e198.json)
+
+---
+
 ### BOI concerned over proposed Economic Transformation Act
 
 *2024-05-19 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BOI-concerned-over-proposed-Economic-Transformation-Act/108-282895) · `en`
@@ -223,6 +243,24 @@ The picture shows employees of a self-owned business in Demetagoda stitching Bud
 [Data](articles/cc67fb84.json)
 
 [Extended Data](ext_articles/cc67fb84.ext.json)
+
+---
+
+### පොලිස්  කොස්තාපල්වරුන් දෙදෙනෙක් අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට
+
+*2024-05-19 14:04:49* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--කොස්තාපල්වරුන්-දෙදෙනෙක්-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-409721) · `si`
+
+කොම්පඤ්ඤවීදිය කුමාර රත්නම් මාවත තැබෑරුමක් අසලදී  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ  පොලිස්  කොස්තාපල්වරුන් දෙදෙනෙක් අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් බව කොම්පඤ්ඤවීදිය පොලිසිය කියයි.
+
+අත්අඩංගුවට ගෙන ඇති පරිගණක අපරාධ විමර්ශන අංශයේ රාජකාරී කරන කොස්තාපල්වරුන් දෙදෙනෙකි.
+
+අත්අඩංගුවට ගත් එක් කොස්තාපල්වරයෙකු සන්තකයේ අයිස් මත්ද්‍රව්‍ය  මිලිග්‍රෑම් 130 ක් තිබී පොලිස් භාරයට ගෙන ඇත. කොම්පඤ්ඤවිදිය පොලිස්  ස්ථානයේ දූෂණ මර්දන අංශයේ නිලධාරී කණ්ඩායමක් විසින්  සැකකාර පොලිස්  කොස්තාපල්වරුන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර  ඔවුන් දෙදෙනා පරික්ෂා කිරීමේදී එක් අයකු සන්තකයේ මෙම මත්ද්‍රව්‍ය  තිබී ඇත.
+
+අනෙක් සැකකාර කොස්තාපල්වරයා මත්ද්‍රව්‍ය  සඳහා ඇබ්බැහිව සිටින අයෙක්ද යන්න පරික්ෂා කිරීම සඳහා  අධිකරණ වෛද්‍ය නිලධාරීවරයා වෙත ඉදිරිපත් කිරීම සඳහා සැකපිට අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/e0dd610a.json)
 
 ---
 
@@ -521,6 +559,8 @@ Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended t
 ◼️
 
 [Data](articles/795ce4c6.json)
+
+[Extended Data](ext_articles/795ce4c6.ext.json)
 
 ---
 
@@ -2251,53 +2291,5 @@ So Browning’s – Ah, did you once see Shelley plain, And did he stop and spea
 [Data](articles/42fd34a1.json)
 
 [Extended Data](ext_articles/42fd34a1.ext.json)
-
----
-
-### Landslide early warnings issued for four districts
-
-*2024-05-18 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99305/landslide-early-warnings-issued-for-four-districts) · `en`
-
-The National Building and Research Organisation (NBRO), on Saturday (May 18) issued early landslide warnings for several localities in four districts, to be in effect until 04.00 p.m. tomorrow (May 19).
-
-Accordingly, a Level 02 (Amber) alert was issued for the following areas:
-
-Badulla - Ella Divisional Secretariat Division (DSD) and surrounding areas
-
-Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
-
-Badulla – Hali Ela, Badulla, Haputale and Haldummulla DSDs and surrounding areas
-
-Kandy – Ganga Ihala Korale, Pasbage Korale, Udapalatha, Udunuwara and Yatinuwara DSDs and surrounding areas
-
-Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Ytiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
-
-Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
-
-◼️
-
-[Data](articles/549e36e5.json)
-
-[Extended Data](ext_articles/549e36e5.ext.json)
-
----
-
-### 400 kilo of drugs destroying
-
-*2024-05-18 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196767) · `si`
-
-In the past season, nearly 400kg of narcotics were destroyed. A specialized oven was constructed in Vanathawilluwa, Puttalam by the STF for this purpose.
-
-🟩
-
-Nearly 400 kilograms of narcotics ended in the past season and destroyed.
-
-The special oven have been built in the Vanathawilluwa, Puttalam belonging to the STF.
-
-◼️
-
-[Data](articles/35768b42.json)
-
-[Extended Data](ext_articles/35768b42.ext.json)
 
 ---

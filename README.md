@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 11:03:23**
+As of **2024-05-19 11:18:11**
 
 ## Newspaper Stats
 
-*Scraped **24,923** Articles*
+*Scraped **24,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,105 @@ islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,128
-adaderanalk | 2,884
+adaderanalk | 2,886
 tamilmirrorlk | 2,924
 virakesarilk | 3,752
 dailymirrorlk | 3,909
-adaderanasinhalalk | 3,984
+adaderanasinhalalk | 3,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,920 (100.0%) of 24,923 articles have been extended.
+24,923 (100.0%) of 24,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### ”இதுவரையில் 411 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன”
+### ‘Red’ warning issued for very heavy rainfall above 150mm
 
-*2024-05-19 10:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-411-முறைப்பாடுகள்-கிடைக்கப்பெற்றுள்ளன/175-337505) · `ta`
+*2024-05-19 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99309/red-warning-issued-for-very-heavy-rainfall-above-150mm) · `en`
 
-ரஷ்யா-உக்ரைன் போரில் ஈடுபடுவதற்காக கூலிப்படை நிறுவனங்களால் ஆட்சேர்ப்பு செய்யப்பட்ட குடிமக்களின் குடும்ப உறுப்பினர்களிடமிருந்து இலங்கையின் பாதுகாப்பு அமைச்சகத்திற்கு 400 முறைப்பாடுகள் கிடைத்துள்ளன.
+The Department of Meteorology has issued a ‘Red’ alert warning of heavy rains for Western, Sabaragamuwa, North-western provinces and for Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts today (19).
 
-இராணுவப் பின்னணியைக் கொண்ட இலங்கைப் பிரஜைகள் உக்ரேனில் போரிடுவதற்காக கடத்தப்படுவதாக வந்த தகவல்கள் தொடர்பாக அதிகாரிகள் இந்த மாத தொடக்கத்தில் விசாரணைகளை ஆரம்பித்தனர்.
+Due to pre-monsoonal conditions over the country and surrounding sea areas, prevailing showery condition is likely to continue further, the Met. Department said.
 
-இதற்குப் பதிலடியாக, ரஷ்யாவுக்காக முதன்மையாகப் போரிடும் முன்னாள் ராணுவ வீரர்கள் எதிர்கொள்ளும் கொடிய நிலைமைகளை, திரும்பி வந்த சிலர் அம்பலப்படுத்தியதை அடுத்து, பாதுகாப்பு அமைச்சகம் குடும்ப உறுப்பினர்களுக்கு முறைப்பாடுகளை அளிக்க அவசர அழைப்பு ஒன்றை அமைத்தது. அதன்மூலம் இதுவரை மொத்தம் 411 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+Meanwhile, very heavy showers above 150 mm are likely at some places in Western and North-western provinces while heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts, it added.
 
-ரஷ்யா - உக்ரைன் மோதலில் பாதுகாப்புப் படையின் முன்னாள் வீரர்கள் மட்டுமின்றி ராணுவப் பயிற்சி ஏதும் இல்லாத குடிமக்களும் கூலிப்படையாக சேர்க்கப்பட்டுள்ளதாக தகவல் வெளியானது.
+◼️
 
-...
-
-[Data](articles/9a374491.json)
+[Data](articles/86e46e0c.json)
 
 ---
 
-### 7 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை
+### ධීවරයින් 22ක් නාවික හමුදා භාරයට
+
+*2024-05-19 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196778) · `si`
+
+නීතිවිරෝධී ධීවර කටයුතු සිදුකළ පුද්ගලයන් 22 දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+
+කිලිනොච්චිය, නගර්කෝවිල් හා කුඩාරප්පු මුහුදු ප්‍රදේශයන්හි සහ ත්‍රිකුණාමලය අඩුක්කුපාඩු  මුහුදු ප්‍රදේශයේ සිදුකළ මෙහෙයුම් මඟින් සැකකරුවන් සිය භාරයට ගත් බව නාවික හමුදාව පැවසීය.
+
+එහිදී නීතිවිරෝධී ලෙස ධීවර කටයුතු සිදුකළ පුද්ගලයින් විසි දෙදෙනෙකු සමග ඩිංගි යාත්‍රා හතක්, මුහුදු කූඩැල්ලන් 400ක පමණ තොගයක් සහ තහනම් ධීවර ආම්පන්න නාවික හමුදා භාරයට ගෙන ඇත.
+
+සැකකරුවන් අවුරුදු 25ත් 50ත් අතර වයසේ පසුවන මන්නාරම, කල්පිටිය, මාමුණෙයි සහ නිලාවේලී යන ප්‍රදේශයන්හි පදිංචිකරුවන් බව සඳහන්ය.
+
+නාවික හමුදා භාරයට ගත් සැකකරුවන් ඉදිරි නීතිමය කටයුතු සඳහා යාපනය ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තු කාර්යාලයටත්, ත්‍රිකුණාමලය ධීවර පරීක්ෂක කාර්යාලය වෙතත් භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/208a86ce.json)
+
+---
+
+### "So far 411 complaints have been received"
+
+*2024-05-19 10:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-411-முறைப்பாடுகள்-கிடைக்கப்பெற்றுள்ளன/175-337505) · `ta`
+
+Sri Lanka's Defense Ministry has received 411 complaints about its citizens, including non-military personnel, recruited as mercenaries in the Russia-Ukraine war. Investigations began after reports of abductions in Ukraine, prompting the ministry to urge families to report missing loved ones.
+
+🟩
+
+Sri Lanka's Defense Ministry has received 400 complaints from the family members of citizens recruited by mercenaries to engage in the Russia-Ukraine war.
+
+Earlier this month, officials launched investigations into reports that Sri Lankan citizens with military backgrounds were being abducted in Ukraine.
+
+In response, the Defense Ministry made an urgent call to file complaints to family members after some returned some returned.. The Ministry said that a total of 411 complaints have been received so far.
+
+In the Russia -Ukraine conflict, it has been reported that not only former soldiers of the Security Forces but also citizens who have no military training have been added.
+
+உக்ரைனில் ரஷ்யாவுக்காகப் போராடும் பிரஜைகளை இனங்கண்டு அவர்களை நாட்டுக்குத் திரும்ப அனுப்புவதற்கு ரஷ்யாவுக்கு தூதுக்குழுவை அனுப்ப அரசாங்கம் தீர்மானித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9a374491.json)
+
+[Extended Data](ext_articles/9a374491.ext.json)
+
+---
+
+### Landslide hazard warning to 7 districts
 
 *2024-05-19 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-மாவட்டங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-337503) · `ta`
 
-தொடர்ந்து பெய்துவரும் கனமழை காரணமாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் (NBRO) ஏழு மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கையை விடுத்துள்ளது.
+Heavy rains trigger NBRO to issue a landslide hazard warning for seven districts including Badulla, affecting 33 divisional secretariat divisions across Kegalle, Ratnapura, Kalutara, Colombo, and Gampaha.
 
-இன்று (19) அதிகாலை 03 மணி முதல் நாளை (20) அதிகாலை 03 மணி வரை அமுலுக்கு வரும் வகையில் இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, பதுளை மாவட்டத்தின் எல்ல பிரதேச செயலகங்களுக்கு 02 ஆம் தரத்தின் கீழ் எச்சரிக்கை அறிவிப்புகள் வழங்கப்பட்டுள்ளன.
+Due to heavy rains, the National Building Research Organization (NBRO) has issued a landslide hazard warning to seven districts.
+
+The warning has been issued today (19) from 3 am to 20 am.
+
+Accordingly, warning notifications have been issued to Ella Divisional Secretariats of the Badulla District.
 
 நிலை 1 இன் கீழ் விக்கப்பட்ட மண்சரிவு எச்சரிக்கை அறிவிப்பில் பதுளை மாவட்டம் மற்றும் கண்டி, கேகாலை, இரத்தினபுரி, களுத்துறை, கொழும்பு மற்றும் கம்பஹா ஆகிய மாவட்டங்களில் உள்ள 33 பிரதேச செயலகப் பிரிவுகளும் அடங்கும்.
 
 ◼️
 
 [Data](articles/880a28f8.json)
+
+[Extended Data](ext_articles/880a28f8.ext.json)
 
 ---
 
@@ -93,6 +143,22 @@ The Hatton Magistrate's Court will be produced at the Hatton Magistrate's Court 
 [Data](articles/60db59d3.json)
 
 [Extended Data](ext_articles/60db59d3.ext.json)
+
+---
+
+### Elderly couple and son murdered in Mirigama, suspect arrested
+
+*2024-05-19 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99308/elderly-couple-and-son-murdered-in-mirigama-suspect-arrested-) · `en`
+
+Police have arrested a suspect over the murder of an elderly couple and their son at Maladeniya, Mirigama.
+
+An 80-year-old man, his 77-year- old wife and their 42-year-old son had been killed in their home by the suspect, police said.
+
+Police revealed that the arrested suspect is a 42-year-old man.
+
+◼️
+
+[Data](articles/41e799e3.json)
 
 ---
 
@@ -184,17 +250,25 @@ In this regard, the Cabinet has recently granted permission to the Joint Cabinet
 
 ---
 
-### ගංගා හා ඔයවල් 13 ක් ආශ්‍රිත ප්‍රදේශවලට පූර්ව ගංවතුර නිවේදන නිකුත් කෙරේ
+### Priority announcements are issued to the 13 Rivers and Oya areas
 
 *2024-05-19 10:05:50* · [`adalk`](https://www.ada.lk/breaking_news/ගංගා-හා-ඔයවල්-13-ක්-ආශ්‍රිත-ප්‍රදේශවලට-පූර්ව-ගංවතුර-නිවේදන-නිකුත්-කෙරේ/11-409714) · `si`
 
+Flood warnings have been issued for the 13 Rivers and Oya areas due to heavy rainfall exceeding 100mm, potentially leading to flooding in rivers and waterlogging conditions. The Department of Irrigation has already warned about this possibility. Additionally, there's a high risk of urban flooding in cities associated with these regions due to intense rainfall conditions, requiring immediate attention from disaster management agencies and the public.
+
+🟩
+
 කාළගුණ දෙපාර්තමේන්තුව මගින් නිකුත් කරන ලද කාළගුණික අනතුරු ඇඟවීමේ නිවේදන  හා ජාත්‍යන්තර කාළගුණික ආයතනවල තොරතුරු අනුව ඉදිරි දිනවලදී දිවයිනේ බස්නාහිර ,සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතිවිය හැකි  මිලි මීටර් 100 කට  අධික වර්ෂාවත් සමග එම ප්‍රදේශ ආශ්‍රිත ගංගා ද්‍රෝණි ආශ්‍රිතව ගංවතුර තත්වයන් ඇතිවීම පිළිබඳව    වාරි මාර්ග දෙපාර්තමේන්තුව මගින් පූර්ව ගංවතුර ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
 
-එම නිවේදනය අනුව දැදුරු ඔය,මහ ඔය,කලා ඔය, මල්වතුඔය,ඌරු බොකු ඔය, කිරම ඔය ,අත්තනගලු ඔය  යන ඔයවල්වල සහ   කැලණි ,කළු,බෙන්තර,ගිං ,නිල්වලා ,මහවැලි පහළ ආදී  ගංගාවල පහළ නිම්න ආශ්‍රිත ප්‍රදේශවල පහත් බිම් ආශ්‍රිතව වර්ෂාවේ ස්වභාවය පදනම් කරගනිමින් ගංවතුර තත්වයන් ඇතිවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Deduru Oya, Maha Oya, Kotaka, Attaka Oya, Box Oya, Kotawalu Oya and Kelani, Kotawalu Oya FavoriteThe Department of Irrigation says that flooding can occur.
 
-...
+ඊට අමතරව මේ ප්‍රදේශවල නගර ආශ්‍රිතව ඇතිවිය හැකි අධික තීව්‍රතාවයක් සහිත වර්ෂාපතන තත්වයන් සමග නගරාශ්‍රිතව ක්ෂණික ගංවතුර තත්වයන් ඇතිවීමේ අවධානමද අධික බැවින් ඒ සම්බන්ධයෙන් ආපදා කලමනාකරණ  අංශවල සහ මහජනතාවගේ අවධානය යොමුවිය යුතු බවද වාරිමාර්ග අධ්‍යක්ෂ ඉංජිනේරු එස්.පී.සී.සුගීෂ්වර (ජල විද්‍යා හා ආපදා කළමනාකරණ )මහතා පැවසීය .
+
+◼️
 
 [Data](articles/7f657fb0.json)
+
+[Extended Data](ext_articles/7f657fb0.ext.json)
 
 ---
 
@@ -2259,79 +2333,5 @@ Although no specific gatherings or locations were mentioned in the warnings, the
 [Data](articles/648ba723.json)
 
 [Extended Data](ext_articles/648ba723.ext.json)
-
----
-
-### Sri Lankans boat accident - one death
-
-*2024-05-18 12:00:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இலங்கையர்களின்-படகு-விபத்து-ஒருவர்-மரணம்/73-337466) · `ta`
-
-In a tragic incident, a fishing boat from Valaichenai collided with another vessel, resulting in one fatality among its six passengers. The accident occurred on Friday, leading to a rescue operation for the missing individual.
-
-🟩
-
-A boat that was fishing from the port of Valaichenai to the deep sea crashed on Friday (17), police said.
-
-A man from the Kalmunai area has gone to the deep sea with five people.
-
-Investigations revealed that a ship carrying a boat crashed into a boat while engaging in fishing activities.
-
-The boat crashed into the sea, and one of the five who had gone into death was rescued and one of them fell into the sea and disappeared.
-
-The search for the missing person is underway and steps are being taken to bring the body and other people to shore.R
-
-◼️
-
-[Data](articles/61c81fb7.json)
-
-[Extended Data](ext_articles/61c81fb7.ext.json)
-
----
-
-### Sri Lanka’s ‘Sancharaka Udawa’ tourist fair seeks to involve universities
-
-*2024-05-18 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sancharaka-udawa-tourist-fair-seeks-to-involve-universities-163517/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ‘Sancharaka Udawa’ tourism fair kicked off this week to promote interaction between industry stakeholders and relevant Government bodies, including the Tourist Police, and also universities.
-
-“Several universities, including Colombo, Uva Wellasa, Kelaniya, Sabaragamuwa and Rajarata were given free stalls to facilitate student interaction with industry professionals,” Chairman of the Sancharaka Udawa Organising Committee, Charith De De Alwis said in a statement.
-
-The event takes place today (18) at the BMICH and houses stalls for hoteliers, tour and transport services, with a goal of attracting 10,000 visitors.
-
-Organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO) and the Sri Lanka Tourism Promotion Bureau (SLTPB), the 11th edition of Sancharaka Udawa offers a platform for both B2B and B2C sectors.
-
-“Sancharaka Udawa houses over 170 exhibitors and a footfall of more than 10,000 visitors,” De Alwis said.
-
-...
-
-[Data](articles/9ff6f185.json)
-
-[Extended Data](ext_articles/9ff6f185.ext.json)
-
----
-
-### தமிழர்கள் ஜனாதிபதி தேர்தலை புறக்கணியுங்கள் : இந்திய காவிப் புலனாய்வு தொடர்பில் எச்சரிக்கையாக  இருங்கள் - கஜேந்திரன் எம்.பி வேண்டுகோள்
-
-*2024-05-18 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/183857) · `ta`
-
-Tamil National People's Front MP Selvarajah Gajendran urges Tamils to boycott the upcoming presidential election, citing concerns over Indian police investigations related to the Tamil genocide. He emphasizes the need for vigilance due to the historical context of Tamil political struggles and the atrocities committed against the Tamil people.
-
-🟩
-
-Tamil National People's Front parliamentarian Selvarajah Gajendran called on all Tamils to rally to fulfill the vow of boycotting the upcoming presidential election at the Mullivaikkal Memorial on Saturday.
-
-He was speaking to media personnel after visiting the Tamil genocide historical historical monument set up in front of Dileepan's memorial in Jaffna yesterday (17).
-
-75 வருட காலமாக ஆட்சி பீடம் ஏறிய எந்த ஒரு அரசாங்கமும் தமிழ் மக்களின் அரசியல் தீர்வு விடயங்களை  முன்னெடுத்துச் செல்லாத நிலையில் தமிழ் மக்கள் எதிர்வரும் ஜனாதிபதி தேர்தலை புறக்கணிக்க வேண்டும்.
-
-2009 ஆம் ஆண்டு முள்ளிவாய்க்காலுடன் இறுதி யுத்தம் நிறைவடைந்த நிலையில் முள்ளிவாய்க்காலில் படுகொலை செய்யப்பட்ட உறவுகளின்  15ஆவது நினைவேந்தல்  இன்று சனிக்கிழமை (18) இடம்பெற உள்ள நிலையில்  அனைத்து தமிழ் மக்களும் எதிர்வரும் ஜனாதிபதி தேர்தலை புறக்கணிக்க வேண்டும் என்ற சபதத்தை எடுக்க வேண்டும்.
-
-The government of Sri Lanka, which has come to power since its independence, has been atrocities by killing the Tamil people and raping women.
-
-...
-
-[Data](articles/18f53db3.json)
-
-[Extended Data](ext_articles/18f53db3.ext.json)
 
 ---

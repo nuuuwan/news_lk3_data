@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 03:03:40**
+As of **2024-05-20 03:18:15**
 
 ## Newspaper Stats
 
@@ -142,7 +142,7 @@ The world is collapsing for our working people, with the tremendous rise in the 
 
 *2024-05-19 23:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MR-Sabry-pray-for-well-being-of-Iranian-President/108-282941) · `en`
 
-In the wake of the tragic incident involving Iranian President Ebrahim Raisi, former President Mahinda Rajapaksa and Foreign Minister Ali Sabri have extended their heartfelt prayers to the Iranian people.
+Colombo, May 19 (Daily Mirror) - In the wake of the tragic incident involving Iranian President Ebrahim Raisi, former President Mahinda Rajapaksa and Foreign Minister Ali Sabri have extended their heartfelt prayers to the Iranian people.
 
 In a social media post, Foreign Minister Ali Sabri conveyed his deep concern over reports of President Raisi's helicopter flight incident and expressed solidarity with the Iranian people during this difficult time.
 
@@ -336,25 +336,21 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
 
-Turkey's president has said he is "deeply saddened" by the helicopter crash involving his "brother" Ebrahim Raisi.
+Russia is sending two planes, two helicopters and 50 rescuers to assist in operation over helicopter crash involving Iran's president
 
-Writing on X, Tayyip Erdogan said Turkey was in full contact with the Iranian authorities and stood ready to provide any necessary support.
+In downtown Tehran, crowds of people have gathered to pray for the safe return of the Iranian president.
 
-23.45 - Conflicting reports over Iranian president's helicopter being found
+A ceremony has been held at Vali-e-Asr Square, and state media has been broadcasting prayers since this afternoon.
 
-In the last few moments, conflicting reports have emerged with some suggesting the Iranian helicopter's crashed helicopter has been found.
+Images of hundreds of people, some with their hands outstretched, praying at Imam Reza Shrine in the city of Mashhad, one of Shiite Islam's holiest sites, as well as in Qom and other locations across the country, have also been shown.
 
-Reuters news agency quoted state media as saying Ebrahim Raisi's chopper was discovered by search and rescue teams.
+Here are some of the latest photos from the helicopter search site in Varzaqan, East Azerbaijan Province...
 
-It did not detail where it was found, or if any survivors have been located.
+Hamas has released a statement following the Iranian president's helicopter crash.
 
-The Iranian president's helicopter has been found, state media has reported.
+The militant group, which is based in Gaza but backed by Iran, said it was following reports of the incident with "great concern".
 
-It said Ebrahim Raisi's chopper was discovered by search and rescue teams.
-
-It has not detailed where it was found, or if any survivors have been located.
-
-23.36 - 'There will be no disturbances' - Iran's supreme leader seeks to reassure public
+Describing the incident as "painful", it said it was in "complete solidarity" Iran.
 
 ...
 

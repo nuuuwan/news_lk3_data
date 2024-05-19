@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 19:03:38**
+As of **2024-05-19 19:18:34**
 
 ## Newspaper Stats
 
-*Scraped **24,999** Articles*
+*Scraped **25,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,137
+adalk | 2,139
 adaderanalk | 2,895
 tamilmirrorlk | 2,933
 virakesarilk | 3,764
 dailymirrorlk | 3,922
-adaderanasinhalalk | 3,998
+adaderanasinhalalk | 4,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,999 (100.0%) of 24,999 articles have been extended.
+25,002 (100.0%) of 25,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Fire near Colombo port
+
+*2024-05-19 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196795) · `si`
+
+A fire broke out near Colombo Harbor, affecting workers on the Expressway. The Colombo Fire Brigade dispatched four firefighting units to control it.
+
+🟩
+
+The fire has erupted in an employees of employees working on the Expressway near the Colombo Harbor premises.
+
+The Colombo Fire Brigade said 4 fireworks were sent to the site.
+
+◼️
+
+[Data](articles/87a515d2.json)
+
+[Extended Data](ext_articles/87a515d2.ext.json)
+
+---
 
 ### Fire breaks out near Colombo Port
 
@@ -87,6 +107,28 @@ He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana
 [Data](articles/522128c7.json)
 
 [Extended Data](ext_articles/522128c7.ext.json)
+
+---
+
+### A large number of journalists killed in Israeli attacks
+
+*2024-05-19 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196794) · `si`
+
+In Israeli attacks on Gaza, 148 journalists were tragically killed. This grim statistic was disclosed by the Health and Mass Media Authority. Despite UN Security Council proposals, Israel persists in its assaults.
+
+🟩
+
+148 journalists were killed in Israeli attacks on the Gaza.
+
+Foreign media reports that this data has been revealed in calculations carried out by the Health and Mass Media Authority.
+
+The Israeli continues to attack the United Nations Security Council, despite the proposals to the United Nations Security Council in the Gaza.
+
+◼️
+
+[Data](articles/e49f4291.json)
+
+[Extended Data](ext_articles/e49f4291.ext.json)
 
 ---
 
@@ -179,6 +221,30 @@ On Thursday, the Indian coastal police force arrested 14 Sri Lankan fishermen fr
 [Data](articles/854f310b.json)
 
 [Extended Data](ext_articles/854f310b.ext.json)
+
+---
+
+### The change in the weather in the next 36 hours
+
+*2024-05-19 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196793) · `si`
+
+In the next 36 hours, expect heavy pre-monsoon rains and increased winds across the Western, Sabaragamuwa, and North Western provinces, with rainfall exceeding 100mm. There's also a shortage of around 30-40 million liters of water.
+
+🟩
+
+The Department of Meteorology has issued the latest weather notification to be valid up to 36 hours.
+
+It states that the effectiveness of the pre-monsoon weather conditions, heavy rains and wind increase.
+
+Accordingly, there will be heavy showers at more than 100 millimeters in the Western, Sabaragamuwa, North Western provinces.
+
+The announcement also shows that there are about 30-40 lack of lack of lack of lack of lack of labor.
+
+◼️
+
+[Data](articles/7a5349da.json)
+
+[Extended Data](ext_articles/7a5349da.ext.json)
 
 ---
 
@@ -972,6 +1038,22 @@ He said that every day we should recall this tragedy and demand justice for the 
 
 ---
 
+### පෙර මෝසම සක්‍රීය වෙයි, ඉදිරි දින කීපයේ බොහෝ ප්‍රදේශවලට මහ වැසි
+
+*2024-05-19 11:50:51* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-මෝසම-සක්‍රීය-වෙයි--ඉදිරි-දින-කීපයේ-බොහෝ-ප්‍රදේශවලට-මහ-වැසි/11-409718) · `si`
+
+ශ්‍රී ලංකාව සහ ඒ  ආශ්‍රිතව මුහුදු ප්‍රදේශවල ඇති වී තිබෙන පෙර මෝසම් කාලගුණීක තත්ත්වය හේතුවෙන්  දිවයිනේ නිරිත දිග ප්‍රදේශවලට අධික වර්ෂාපතනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත. එසේම සුළං තත්ත්වය  දිවයින හරහා විටින් විට පැයට කිලෝමීටර් 30 - 40ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ දක්වා ඇත.
+
+එසේම බස්නාහිර,  සහ  වයඹ පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 150 ඉත්ම වූ වර්ෂාවක් ලැබිය හැකි බව අවවාදාත්මක නිවේදනයක් මගින් දක්වා ඇත. එසේම සබරගමුව පළාත සහ ගාල්ල මාතර, මහනුවර, නුවරඑලිය සහ මන්නාරම දිස්ත්‍රික්ක සදහා මිලි මීටර් 100 ක පමණ තද වැසි ඇතිවිය හැකි බව නිවේදනය කර ඇති අතර මෙම තත්වය ඉදිරි දින කීපය තුළ තවදුරටත් වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත.
+
+ඊයේ(18) දින පෙරවරු 8.00 සිට අද (19) පෙරවරු 8.00 දක්වා වාර්තා වී ඇති වර්ෂාපතනය සළකා බලන  විට පුත්තලම (මිලි මීටර් 212.5) කැස්බෑව (මිලි මීටර් 204.5), රත්මලාන (මිලි මීටර් 144.1), කොළඹ (මිලි මීටර් 113.0) සහ අවිස්වාවේල්ල (මිලි මීටර් 107.0) වාර්තා වී ඇති බව කාගුණවිද්‍යා දෙපර්තමේන්තුව පෙන්වා දේ.
+
+...
+
+[Data](articles/aea06fad.json)
+
+---
+
 ### A red announcement from the weather
 
 *2024-05-19 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196780) · `si`
@@ -1175,6 +1257,22 @@ Previously, the government had to spend a significant amount of money to destroy
 [Data](articles/737845d4.json)
 
 [Extended Data](ext_articles/737845d4.ext.json)
+
+---
+
+### ඊ පාස්පෝට් ක්‍රමය ලඟදීම මෙරටටත්
+
+*2024-05-19 11:01:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-ක්‍රමය-ලඟදීම-මෙරටටත්/11-409717) · `si`
+
+ලෝකයේ දියුණු  රටවල් දැනට  භාවිතා කරන ඊ පාස්පෝට් ක්‍රමය තව මාස කීපයකින් පළමු වරට ලංකාවටද හඳුන්වා දෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+
+ඉහල  ආරක්ෂිත බවකින් යුත් චිප් එකක්ද සහිත  ඊ පාස්පෝට් ක්‍රමයෙන් හොර පාස්පෝට් භාවිතය වැළකී මෙරට පාස්පෝට් සඳහා ජාත්‍යන්තර වටිනාකමක් ලැබෙන බවත් ටිරාන් අලස් මහතා කීය.
+
+දැනට ලංකාවේ පාස්පෝට් තිබෙනුයේ  ලෝකයේ එකසිය ගණනක ස්ථානයක වුවත් ඊ පාස්පෝට් අතින් එය  ලොව පළමු ස්ථාන 30 ඇතුළතට ගැනීමට  අපේක්ෂිත බවත් දැනට විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීමට තිබෙන 51 ක් වූ ස්ථාන ගණන ඉදිරියේදී 335 දක්වා ඉහළ දමන බවත් ටිරාන් අලස් මහතා ජයවර්ධනපුර මොනාච් ඉම්පීරියල්  හෝටලයේදී  පැවති සිවිල් පුරවැසි  හමුවකදී පැවසීය.
+
+◼️
+
+[Data](articles/339473b1.json)
 
 ---
 
@@ -2185,109 +2283,5 @@ Senior Geologist Wasantha Senadheera said that four other Divisional Secretariat
 [Data](articles/eb14b06e.json)
 
 [Extended Data](ext_articles/eb14b06e.ext.json)
-
----
-
-### An increase in rain and windy quality
-
-*2024-05-19 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196769) · `si`
-
-Expect increased rainfall and strong winds over the next few days due to pre-monsoon conditions. Showers/thunderstorms forecasted across various provinces including Western, Sabaragamuwa, Central, North Western, and Southern regions. High risk of lightning strikes and gusty winds advised; take precautions.
-
-🟩
-
-The Department of Meteorology states that the next few days will continue to increase due to pre-monsoonal weather conditions in the sea areas.
-
-The department states that the sky is burned with many parts of the island.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-Today (19) at rest of the island. Showers or thunderstorms will occur at several places about 01.00.
-
-In some places in the Western, Sabaragamuwa, North-Western provinces, in general area Matara, Matara, Kandy, Nuwara Eliya and Mannar districts.. Rains will also occur at 100.
-
-Steps at times in the Southern Province. The Department of Meteorology says that there are about courageous winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/aab9e2c6.json)
-
-[Extended Data](ext_articles/aab9e2c6.ext.json)
-
----
-
-### ROYAL HONOUR FOR SRI LANKAN BORN NEW ZEALANDER
-
-*2024-05-19 05:09:00* · [`islandlk`](http://island.lk/royal-honour-for-sri-lankan-born-new-zealander/) · `en`
-
-Dr Anne Doloras Perera living in Auckland New Zealand was recently Honoured with the title Member of the New Zealand Order of Merit (MNZM) in recognition of outstanding service and exceptional achievement in Food Science and Nutrition. The Investiture ceremony was held on May 9 at the Government House in Auckland.
-
-Born in Moratuwa Sri Lanka she lost her father when she was six months. She claims that her life started in the cemetery as she remembers the many visits she made to the cemetery with her mother visiting her father’s grave. Anne was educated at the Convent of Our Lady of Victories (OLV) in Moratuwa and Holy family Convent (HFC) in Wennappuwa and Colombo. She entered the Peradeniya University and completed the BSc Honours Degree in Agriculture (1965-69) and served as an Assistant Lecturer in Agricultural Chemistry.
-
-...
-
-[Data](articles/47fc2505.json)
-
-[Extended Data](ext_articles/47fc2505.ext.json)
-
----
-
-### Reach for Excellence exhorts science professor to AIA scholarship winners
-
-*2024-05-19 04:13:00* · [`islandlk`](http://island.lk/reach-for-excellence-exhorts-science-professor-to-aia-scholarship-winners/) · `en`
-
-Prof. Ajith de Alwis, chief guest at the recently concluded 29th edition of the AIA Higher Education Scholarship Program rewarding over 750 outstanding students entering GCE ‘A’ level classes exhorted on the award winners to reach out for excellence.
-
-Since inception in 1994, the program has continued for 29 consecutive years with awards made to the brightest students irrespective of whether they are AIA customers or not.
-
-An AIA news release said Prof. de Alwis shared invaluable insights to inspire the next generation of leaders emphasizing the unique era we live in, marked by the simultaneous occurrence of four industrial revolutions: nanotechnology, biotechnology, information technology and neurotechnology.
-
-...
-
-[Data](articles/38231282.json)
-
-[Extended Data](ext_articles/38231282.ext.json)
-
----
-
-### SLT-MOBITEL reports marginal growth in Q1 2024 amidst cost optimization efforts
-
-*2024-05-19 04:13:00* · [`islandlk`](http://island.lk/slt-mobitel-reports-marginal-growth-in-q1-2024-amidst-cost-optimization-efforts-2/) · `en`
-
-SLT-MOBITEL has reported a flat growth in Q1 2024 ending March 31, 2024, amidst a challenging business environment. However, the company’s proactive cost management initiatives have resulted in significant operational cost savings, enabling it to maintain profitability.
-
-For the quarter, the SLT Group has recorded consolidated revenue of LKR 26.93 billion, reflecting a marginal 1.4% year-on-year increase.
-
-However, compared to the fourth quarter of the previous year, i.e., Q4 2023, there was a modest increase of 3.7% in revenue, driven by enterprise and broadband revenues.
-
-The Company has successfully implemented cost-saving measures, resulting in a decrease of 0.6% in operational expenditure (excluding depreciation and amortization) compared to Q1 2023. This was partly due to the decrease in dollar-denominated expenses such as Annual Maintenance Cost (AMC), international settlement, and internet backbone charges due to the rupee appreciation.
-
-...
-
-[Data](articles/84607917.json)
-
-[Extended Data](ext_articles/84607917.ext.json)
-
----
-
-### From rural Sri Lanka, solidarity for Gaza and American students protesting for Palestine
-
-*2024-05-19 03:56:00* · [`islandlk`](http://island.lk/from-rural-sri-lanka-solidarity-for-gaza-and-american-students-protesting-for-palestine/) · `en`
-
-Reverberations of America’s campus protests are felt in a remote rural area in the middle of a jungle in the heart of an island nation at the cusp of Southasia and the Indian Ocean.
-
-Ripples of the student protests in America calling for divestment from Israel and an end to the violence on Palestine are being felt in a remote village in the heart of rural Sri Lanka.
-
-“What gives America the right to lecture us on human rights when their police are beating up brown students protesting for innocent Palestinians?” asks Kokawewa Sumedha, known respectfully as “the Thera” (or Buddhist monk), in a historic village called Dutuwewa, in the Anuradhapura District in Sri Lanka’s North-Central Province.
-
-The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 161 to 137 BC. He is said to have founded the place while traveling, after his tethered horse broke loose and was found grazing here.
-
-...
-
-[Data](articles/9e0cbd03.json)
-
-[Extended Data](ext_articles/9e0cbd03.ext.json)
 
 ---

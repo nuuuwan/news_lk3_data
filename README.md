@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 08:09:49**
+As of **2024-05-19 08:18:32**
 
 ## Newspaper Stats
 
-*Scraped **24,898** Articles*
+*Scraped **24,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,124
-adaderanalk | 2,882
-tamilmirrorlk | 2,913
+adaderanalk | 2,883
+tamilmirrorlk | 2,915
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,979
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,896 (100.0%) of 24,898 articles have been extended.
+24,898 (100.0%) of 24,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Showery and windy conditions expected to enhance further
+
+*2024-05-19 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99306/showery-and-windy-conditions-expected-to-enhance-further) · `en`
+
+Due to pre-monsoonal conditions over the country and surrounding sea areas, prevailing showery and windy conditions are expected to enhance further during the next few days, according to the Meteorology Department.
+
+Cloudy skies can be expected over most parts of the island, it said.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces and in Mannar district.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 01.00 p.m.
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times in Southern province, the department said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/58e44c31.json)
+
+---
+
+### குடும்பத்தை கொன்று நகை,பணம் கொள்ளை
+
+*2024-05-19 08:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தை-கொன்று-நகை-பணம்-கொள்ளை/175-337480) · `ta`
+
+மாமா, தம்பி, சகோதரனை கொன்று பணம் மற்றும் தங்கத்தை கொள்ளையடித்த நபர் கைது செய்யப்பட்டதாக நல்லா பொலிஸார் தெரிவிக்கின்றனர்.
+
+மாலதெனிய பிரதேசத்தில் உள்ள வீடொன்றில் இன்று அதிகாலை நான்கு மணியளவில் இந்த மனிதாபிமானமற்ற கொலை இடம்பெற்றுள்ளதாக பொலிஸார் மேலும் குறிப்பிடுகின்றனர்.
+
+அப்போது துவிச்சக்கர வண்டியில் சென்ற நபரை சோதனை செய்த போலீசார், அவரிடம் இருந்த சுமார் 3 லட்சம் ரூபாய் பணம் மற்றும் தங்கப் பொருட்கள் சிக்கியது.
+
+◼️
+
+[Data](articles/70384a65.json)
+
+---
 
 ### 2509 promotions of the Army
 
@@ -54,19 +94,25 @@ The promotion has been made to members of all regiments, which have been affecte
 
 ---
 
-### උසස් පෙළට තොරතුරු තාක්ෂණ ශිෂ්‍යත්ව 5000 ක්
+### 5000 IT scholarships to A / L
 
 *2024-05-19 07:03:34* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-තොරතුරු-තාක්ෂණ-ශිෂ්‍යත්ව-5000-ක්/11-409706) · `si`
 
-අ.පො.ස.සාමාන්‍ය පෙළ 2022/2023 විභාගය සමත්ව 2024/2025 උසස් පෙළ විභාගයට විෂයක් ලෙස තොරතුරු හා  සන්නිවේදන තාක්ෂණය  හදාරණ සිසු සිසුවියන් සඳහා   ශිෂ්‍යත්ව 5000 ක්  පිරිනැමීමට ජනාධිපති අරමුදල හා ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව ඒකාබද්ධ  වැඩ සටහනක් ලෙස සැලසුම් කර ඇත.
+The Sri Lankan government, through the Presidential Fund and the Telecommunications Regulatory Commission, offers 5000 IT scholarships for A/L students. Selected students receive financial support for 24 months, covering tuition fees and living expenses. This initiative aims to boost the country's ICT sector by providing quality education to deserving students.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව ක්‍රියාත්මක කෙරෙන  මේ වැඩ සටහන   යටතේ තෝරා ගන්නා සිසුන් සඳහා මෙම මැයි මාසයේ සිට උසස් පෙළ විභාගයට පෙනී සිටින දිනය දක්වා මාස 24 ක් වෙනුවෙන් මසකට රුපියල් 6000 බැගින් ශිෂ්‍යත්ව ආධාර මුදලක් ලබා දෙන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+🟩
 
-රජයේ පාසලක තොරතුරු හා සන්නිවේදන තාක්ෂණය විෂය සමග උසස් පෙළ හදාරන  මාසික ආදායම රුපියල් ලක්ෂයට අඩු  පවුල්වල සිසුන්ට මේ සඳහා මෙම මැයි 22 දක්වා තමා ඉගෙනුම ලබන පාසල මගින්  අයදුම් කළ හැකි බවත් දිවයිනේ අධ්‍යාපන කලාප සියල්ලෙන්ම එක් කලාපයකින් අවම ලෙස 50 බැගින් වනසේ මෙම ශිෂ්‍යත්වලාභීන් තෝරා ගන්නා බවත්  අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The GCE Ordinary Level approval 2022/2025 The Presidential Fund and the Telecommunications Regulatory Commission of Sri Lanka is a joint program to provide ICT.
+
+The Ministry of Education said that the students who are selected under this program to the date of the A / L examination will be provided for 24 months to 24 months from this year, the A / L examination of the A / L examination.
+
+The educational educational revenues to apply the monthly income of the A / L students with the subject of the Government School and the students of the country will be selected from Rs.The Ministry says.
 
 ◼️
 
 [Data](articles/306ca208.json)
+
+[Extended Data](ext_articles/306ca208.ext.json)
 
 ---
 
@@ -195,6 +241,24 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 [Data](articles/9e0cbd03.json)
 
 [Extended Data](ext_articles/9e0cbd03.ext.json)
+
+---
+
+### சீதையம்மன் கும்பாபிஷேகப் பெருவிழா இன்று
+
+*2024-05-19 01:32:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதையம்மன்-கும்பாபிஷேகப்-பெருவிழா-இன்று/175-337477) · `ta`
+
+வரலாற்றுச் சிறப்பு மிக்க நுவரெலியா சீதாஎலிய சீதையம்மன் ஆலயத்தின் மஹா கும்பாபிஷேகப் பெருவிழா இன்று இடம்பெறவுள்ளது.
+
+இதற்காக அயோத்தி இராமர் கோயில் மற்றும் சீதை பிறந்த இடமான நேபாளம் ஆகிய இடங்களில் இருந்து கொண்டுவரப்பட்ட சீதையம்மனுக்கான சீர்வரிசைப் பொருள்கள் மற்றும் இந்திய புண்ணிய நதிகளின் தீர்த்தம் என்பவற்றை தாங்கிய ஊர்தி நேற்று சீதையம்மன் ஆலயத்தை சென்றடைந்துள்ளது.
+
+சீதாஎலிய சீதை அம்மன் ஆலயத்தின் மஹா கும்பாபிஷேகப் பெருவிழாவில் பிரதமர் தினேஷ் குணவர்த்தன கலந்து கொள்ளவுள்ளார்.
+
+அத்துடன், மனித நேயத் தலைவர், ஆன்மீக குரு, அமைதித் தூதுவர் மற்றும் வாழும் கலை பயிற்சியின் நிறுவுனர் பூஜ்ய ஸ்ரீ ரவிசங்கர் இந்த கும்பாபிஷேக நிகழ்வில் கலந்து கொள்வதற்காக நேற்று இலங்கை வந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/a8e4308f.json)
 
 ---
 
@@ -756,21 +820,27 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 
 ---
 
-### අමාත්‍ය ප්‍රසන්න රණවිරට රුපියල් 300ක මනි ඕඩරයක්
+### Minister Prasanna War Head of Rs.
 
 *2024-05-18 18:13:45* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය ප්‍රසන්න-රණවිරට-රුපියල්-300ක-මනි-ඕඩරයක්/11-409704) · `si`
 
-මුදල් ගෙවිමක් සම්බන්ධයෙන් ඇතිවූ ගැටලුවකට ගුවන් තොටුපොලේදී පෝටර්වරයෙකුට කණට පහර දුන් අමාත්‍ය ප්‍රසන්න රණවිර මහතාට රුපියල් තුන්සීයක මනිඕඩරයක් අද (18) පස්වරුවේදී පාර්ලිමේන්තුවේ කතානායකවරයාට යැවීමට කරන්දෙණියේ තරුණ පිරිසක් කටයුතු කළේය.
+Youths delivered a complaint about a payment issue to Minister Prasanna War at Parliament, involving the Mani order and funds intended for the Dhamma Foundation. They visited the Kerandeniya Maha Etharadre Bandara Post Office and sought assistance from MP Prasanna Ranaweera regarding the missing funds.
 
-අපේ දහම් පදනමේ නිර්මාතෘ හා සභාපති සමන් ප්‍රියන්ත විජේවිකම මහතා ඇතුලු පිරිසක් මෙම මනි ඕඩරය යොමු කළේය.
+🟩
 
-ඔවුහු අද (18) පස්වරුවේදී කරන්දෙණිය මහඒදණ්ඩ ප්‍රධාන තැපැල් කාර්යාලයට පැමිණ තමන් ළග තිබූ මුදල් එකතු කොට අමාත්‍ය ප්‍රසන්න රණවීර මහතාට ලැබීම සදහා ඔවුහු පාර්ලිමේන්තුවට මේ මුදල් මනිඕඩර් ක්‍රමයට යැවීමට මෙහිදී පියවර ගත්හ.
+A group of youths were sent to the Speaker of Parliament at the Parliament today (18) at the airport to a problem with a payment.
 
-රුපියල් තුන්සීයක් මුදල් පසුම්භියේ නොමැතිකම  නිසා ගුවන් තොටුපොලේ අහිංසක පොටර්වරයෙක් කණ පලාගත් බවත් මෙය නොවිය යුත්තක් නිසා ප්‍රසන්න රණවීර මහතාට මේ මුදල යැව්වේ පෝටර්වරයාට එය ලබාදීමට බව මේ කාර්යය සදහා එක්වූ සමන් විජේවිකම මහතා කීය.
+The Mani order, including the Foundation of our Dhamma Foundation, directed the Mani order.
+
+They were taken to the Kerandeniya Maha Etheradre Bandara Post Office this afternoon and had taken this money to the MP Prasanna Ranaweera to receive his money.
+
+The lack of Rs.
 
 ◼️
 
 [Data](articles/80453385.json)
+
+[Extended Data](ext_articles/80453385.ext.json)
 
 ---
 
@@ -2259,81 +2329,5 @@ The Inaugural Asian Athletic Relay Championships will include events for 4X100m 
 [Data](articles/3e8bb26b.json)
 
 [Extended Data](ext_articles/3e8bb26b.ext.json)
-
----
-
-### SL welcomes over 46,000 tourists from May 1 - 12
-
-*2024-05-18 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-welcomes-over-46-000-tourists-from-May-1-12/108-282868) · `en`
-
-Sri Lanka welcomed over 46,000 international tourists for the first 12 days of May, a drop in momentum due to the start of the off peak season.
-
-Provisional data from the Sri Lanka Tourism Development Authority (SLTDA) showed that the island nation saw 46, 042 tourists enter the country from 1 to 12 May.
-
-This brings the cumulative arrivals from 1 January to 12 May to 830, 693.
-
-The daily arrival average which was over 5,000 in the first couple of months has dropped to the levels of 3,800. The weekly arrival average has dropped to 26,000.
-
-The month of May is also seeing a change in the rankings of the key source markets.
-
-India remains the largest tourist traffic generator, bringing in 23 percent of the total number of tourists of the month.
-
-The Maldives, now ranks second, accounting for 11 percent of the arrivals. Ranking third is China, accounting for 7 percent of the total arrivals.
-
-...
-
-[Data](articles/de3e1983.json)
-
-[Extended Data](ext_articles/de3e1983.ext.json)
-
----
-
-### President leaves for Indonesia to attend World Water Forum
-
-*2024-05-18 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99292/president-leaves-for-indonesia-to-attend-world-water-forum) · `en`
-
-President Ranil Wickremesinghe has left for Indonesia this morning (18) to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
-
-The 10th World Water Forum is being held from May 18th to 20th in Bali, Indonesia.
-
-This significant gathering, themed “Water for Shared Prosperity,” will convene global leaders to address pressing issues related to water management and sustainability.
-
-President Wickremesinghe left for Indonesia on Saturday, following an invitation from Indonesian President Joko Widodo, underscoring Sri Lanka’s commitment to international cooperation on water-related challenges.
-
-Scheduled to deliver a keynote address on May 20th, President Wickremesinghe will articulate Sri Lanka’s perspective on achieving equitable access to water resources for all, the President’s Media Division said.
-
-...
-
-[Data](articles/6b988f96.json)
-
-[Extended Data](ext_articles/6b988f96.ext.json)
-
----
-
-### Historical importance
-
-*2024-05-18 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183839) · `ta`
-
-US Congress passed a historic resolution recognizing the genocide against Eelam Tamils and advocating for their right to self-determination. The resolution, submitted during the commemoration of the 15th anniversary of the Mullivaikkal massacre, marks a significant step towards acknowledging Tamil rights and addressing historical injustices.
-
-🟩
-
-US Congress members have welcomed a historic resolution demanding a universal resolution on the independence of the Eelam Tamils.
-
-US Congress members have welcomed the US Congress as a resolution demanding the universal of Eelam Tamils and the recognition of the genocide in Eelam as a genocide.
-
-US Congress after resolution and speeches;Members attended the event at the Congress Library.
-
-The resolution was submitted to the US Congress as the Eelam Tamils all over the world were preparing to commemorate the 15 years of the Mullivaikkal massacre.
-
-The resolution was losing but the resolution was submitted to the US Congress, said Vile Nickel, a member of the United Nations Congress, said that the future violence is trying to protect the Tamils from prejudice.
-
-My resolution recognizes that the Tamils were genocide and emphasized the rights of Tamils to self -determination through democratic methods, he said.
-
-...
-
-[Data](articles/34d1a690.json)
-
-[Extended Data](ext_articles/34d1a690.ext.json)
 
 ---

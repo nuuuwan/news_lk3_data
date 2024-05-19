@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 05:36:05**
+As of **2024-05-19 06:01:02**
 
 ## Newspaper Stats
 
-*Scraped **24,885** Articles*
+*Scraped **24,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 223
 bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
-islandlk | 1,345
+islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,879 (100.0%) of 24,885 articles have been extended.
+24,885 (100.0%) of 24,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### ROYAL HONOUR FOR SRI LANKAN BORN NEW ZEALANDER
+
+*2024-05-19 05:09:00* · [`islandlk`](http://island.lk/royal-honour-for-sri-lankan-born-new-zealander/) · `en`
+
+Dr Anne Doloras Perera living in Auckland New Zealand was recently Honoured with the title Member of the New Zealand Order of Merit (MNZM) in recognition of outstanding service and exceptional achievement in Food Science and Nutrition. The Investiture ceremony was held on May 9 at the Government House in Auckland.
+
+Born in Moratuwa Sri Lanka she lost her father when she was six months. She claims that her life started in the cemetery as she remembers the many visits she made to the cemetery with her mother visiting her father’s grave. Anne was educated at the Convent of Our Lady of Victories (OLV) in Moratuwa and Holy family Convent (HFC) in Wennappuwa and Colombo. She entered the Peradeniya University and completed the BSc Honours Degree in Agriculture (1965-69) and served as an Assistant Lecturer in Agricultural Chemistry.
+
+...
+
+[Data](articles/47fc2505.json)
+
+---
 
 ### Reach for Excellence exhorts science professor to AIA scholarship winners
 
@@ -45,6 +59,8 @@ An AIA news release said Prof. de Alwis shared invaluable insights to inspire th
 ...
 
 [Data](articles/38231282.json)
+
+[Extended Data](ext_articles/38231282.ext.json)
 
 ---
 
@@ -63,6 +79,26 @@ The Company has successfully implemented cost-saving measures, resulting in a de
 ...
 
 [Data](articles/84607917.json)
+
+[Extended Data](ext_articles/84607917.ext.json)
+
+---
+
+### From rural Sri Lanka, solidarity for Gaza and American students protesting for Palestine
+
+*2024-05-19 03:56:00* · [`islandlk`](http://island.lk/from-rural-sri-lanka-solidarity-for-gaza-and-american-students-protesting-for-palestine/) · `en`
+
+Reverberations of America’s campus protests are felt in a remote rural area in the middle of a jungle in the heart of an island nation at the cusp of Southasia and the Indian Ocean.
+
+Ripples of the student protests in America calling for divestment from Israel and an end to the violence on Palestine are being felt in a remote village in the heart of rural Sri Lanka.
+
+“What gives America the right to lecture us on human rights when their police are beating up brown students protesting for innocent Palestinians?” asks Kokawewa Sumedha, known respectfully as “the Thera” (or Buddhist monk), in a historic village called Dutuwewa, in the Anuradhapura District in Sri Lanka’s North-Central Province.
+
+The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 161 to 137 BC. He is said to have founded the place while traveling, after his tethered horse broke loose and was found grazing here.
+
+...
+
+[Data](articles/9e0cbd03.json)
 
 ---
 
@@ -180,6 +216,24 @@ Kaufman is known for his holistic approach to service design, execution and tran
 
 [Data](articles/928f24ca.json)
 
+[Extended Data](ext_articles/928f24ca.ext.json)
+
+---
+
+### An encounter with James Bond creator Ian Fleming in his newspaper days
+
+*2024-05-18 21:50:00* · [`islandlk`](http://island.lk/an-encounter-with-james-bond-creator-ian-fleming-in-his-newspaper-days/) · `en`
+
+Many journalists develop what may be called the grasshopper mind. In their work it is necessary to hop from one subject to another. If at the end of their lives they have little to show for their pains, they may have bitter sweet memories stored up squirrel-wise of unusual people and events.
+
+There is of course, a certain vanity in being able to say, “Oh yes, I knew Mahatma Gandhi” or I saw Bradman making his first century at Lords.” Such a display of self-esteem may even provoke the reaction if unexpressed, “So what.” There is no reason why anyone else should be interested. But not always. If we have a hero or a favourite, we like to listen to someone who has met and talked with him.
+
+So Browning’s – Ah, did you once see Shelley plain, And did he stop and speak to you And did he speak to you again? How strange it seems and new. I recall a sentimental journey made with a friend in search of the house near La Spezia to which Shelley’s body was brought after the drowning.
+
+...
+
+[Data](articles/42fd34a1.json)
+
 ---
 
 ### Landslide early warnings issued for four districts
@@ -249,6 +303,20 @@ Gurudev, who is staying in Sri Lanka from May 18 to 20, will also attend the eve
 [Data](articles/536eb7ff.json)
 
 [Extended Data](ext_articles/536eb7ff.ext.json)
+
+---
+
+### The Bogusvilleas:A PM’s 1967 visit to the Army Cantonment
+
+*2024-05-18 21:03:00* · [`islandlk`](http://island.lk/the-bogusvilleasa-pms-1967-visit-to-the-army-cantonment/) · `en`
+
+This story goes back to the mid 1960s when then Prime Minister and Minister of Defence and External Affairs, Mr Dudley Senanayake had scheduled a visit to the various Army establishments at the Cantonment at Panagoda, Homagama. This was during his third term of office having been Prime Minister in 1952-1953, 1960 and 1965 to 1970.
+
+The decision to build an army cantonment was taken in 1949 shortly after the first anniversary of Independence when Sir Kanthiah Vaithianathan was the Secretary of the Ministry of Defence and External Affairs.
+
+...
+
+[Data](articles/5c9bd3f4.json)
 
 ---
 
@@ -536,6 +604,18 @@ The decision has been taken due to inclement weather conditions.
 
 ---
 
+### Rituals in a village community at Paiyagala 75 years ago
+
+*2024-05-18 18:28:00* · [`islandlk`](http://island.lk/rituals-in-a-village-community-at-paiyagala-75-years-ago/) · `en`
+
+St. Joseph church in Paiyagala has a beautiful façade and a belfry. Its nave is broad, with stunning floor designs. A magnificent painting of the creation of the universe covers the vault. Two short rows of colonnades support the two aisles, broadening the space in the nave. A short, narrow gravel road connects the church compound with Colombo-Matara road, and the church’s backyard is only about 200 yards from the Colombo-Matara railway line and the beach. The feast of St. Joseph is the main annual event in Paiyagala.
+
+...
+
+[Data](articles/7f3df65d.json)
+
+---
+
 ### Ella–Wellawaya road temporarily closed again tonight
 
 *2024-05-18 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99302/ellawellawaya-road-temporarily-closed-again-tonight) · `en`
@@ -547,6 +627,26 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 [Data](articles/146d5927.json)
 
 [Extended Data](ext_articles/146d5927.ext.json)
+
+---
+
+### Judges and judgments of the past
+
+*2024-05-18 18:11:00* · [`islandlk`](http://island.lk/judges-and-judgments-of-the-past/) · `en`
+
+(Excerpts from the speech mde by Ranjan Gooneratne at the launch of his book, Before Justice awakes: Birth of the jury in the Island of Ceylon)
+
+To the Romans, Justice was a goddess whose symbols were ‘a throne that tempest could not shake, a pulse that passion could not stir, eyes that were blind to any feeling of favour or ill will and a sword that fell on the offender with equal certainty’.
+
+Judges and lawyers from the nineteenth century were votaries of that goddess. They were blessed with the gift of grace, nobility of mind and intellectual humility.
+
+In the early nineteenth century, we had Alexander Johnstone as our Chief Justice. He emancipated the slaves, introduced trial by jury to our country. Lord Grey in the House of Lords said, “His contribution to the advancement of the social and cultural life of the people of Ceylon has immortalized his name”.
+
+In 1840, we had William Rough, a Sargent-at-Law, a classical scholar as our Chief Justice. He was the son-in-law of John Wilkes.
+
+...
+
+[Data](articles/7a5fe5be.json)
 
 ---
 
@@ -2233,141 +2333,5 @@ It may only apply to supermarkets and not to smaller merchants, however. (Colomb
 [Data](articles/87562a1c.json)
 
 [Extended Data](ext_articles/87562a1c.ext.json)
-
----
-
-### 15 years for war victory
-
-*2024-05-18 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196740) · `si`
-
-Over 15 years ago, Sri Lanka's military triumphed over the LTTE, ending a brutal conflict. This victory, marked by the defeat of LTTE leader Velupillai Prabhakaran, involved rescuing thousands of civilians in what was then the world's largest humanitarian operation. The event is celebrated annually, with this year's Ranaviru Day festivities set for tomorrow, featuring promotions for naval personnel.
-
-🟩
-
-For more than three decades, the country's LTTE terrorism has been defeated for over 15 years (18).
-
-In May 18, 2009, LTTE leader Velupillai Prabhakaran finished the brutal war against the war heroes with the war heroes.
-
-The security forces of the country also holds rescue of thousands of civilians from the world's largest humanitarian operation.
-
-At the time, President Mahinda Rajapaksa led the humanitarian operation and former President Gotabhaya Rajapaksa was the Defense Secretary.
-
-Meanwhile, 3,146 senior sailors of the Navy have been promoted to the next rank in parallel to the 15 Ranaviru Celebration Day.
-
-The Ranaviru Day Celebration will be held tomorrow (19) at the Ranaviru Member of the Battaramulla tomorrow.
-
-The Ranaviru Day Celebration ceremony will be held at 4.00 pm, police said.
-
-◼️
-
-[Data](articles/1d4aed83.json)
-
-[Extended Data](ext_articles/1d4aed83.ext.json)
-
----
-
-### Navy advanced in 3146
-
-*2024-05-18 07:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-3146-කට-උසස්-විම්/11-409701) · `si`
-
-Navy Admiral Priyantha Perera promoted to 15th Ranger Commerce and President. Commemorating Sri Lanka Navy's heroic war heroes, marking victories and honoring those appointed.
-
-🟩
-
-Navy Depmiral Priyantha Perayantha Priyantha Perera has been promoted to the 15th Ranger Commerce and the President.
-
-The Sri Lanka Navy's regular and academic sailors of the Sri Lanka Navy to commemorate the heroic war heroes of the Sri Lankan Navy to conclude the heroic war heroes of the Sri Lankan Navy to conclude a victory and the heroic war heroes who have been appointed as a victory.Navy was operating.
-
-◼️
-
-[Data](articles/a6bf198c.json)
-
-[Extended Data](ext_articles/a6bf198c.ext.json)
-
----
-
-### 4 troops free from Rathupaswala case
-
-*2024-05-18 07:42:52* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවෙන්-හමුදා-සාමාජිකයන්-4-දෙනා-නිදොස්-කොට-නිදහස්/11-409700) · `si`
-
-Four army officers have been acquitted in the Rathupaswala shooting case after a lengthy trial spanning over 11 years. The incident occurred during protests against waste management issues in Gampaha, resulting in two deaths and over 50 injuries.
-
-🟩
-
-The three-member High Court Judge Madulla today (16) ordered to acquit the exemplance from the shooting case in Rathupaswala.
-
-The people of the area were protesting on August 1, claiming that the waste of waste of waste in Gampaha, Gampaha.
-
-Two schoolchildren and another man died of the shooting and more than 50 years were injured.
-
-Army Officers Brigadier Aruna Deshapriya Gunawardena (then Major), Sergeant Aruna's Sirisena, Corporal JM. Tillakaratne and Corporal Lalith Gray, the Attorney General has been indicted in the Gampaha High Court.
-
-The total proceedings of 242 pages was announced for nearly 4 hours, High Court Judge Nimal Ranaweera, Sahan Mapa Bandara and Rushmi Singappuli.
-
-Accordingly, the three-member High Court Judge, Judge Nimal Ranaweera has stated the verdict.
-
-A long trial was carried out on more than 11 years.
-
-◼️
-
-[Data](articles/312fc196.json)
-
-[Extended Data](ext_articles/312fc196.ext.json)
-
----
-
-### Vesak pandals in the making….
-
-*2024-05-18 07:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-pandals-in-the-making/110-282829) · `en`
-
-As Vesak is just around the corner, people erecting pandals in various locations in Colombo, including Kosgashandiya, Thotalanga, Maradana, Peliyagoda, Orugodawaththa and Dematagoda. Pix by Pradeep Pathirana.
-
-◼️
-
-[Data](articles/68069612.json)
-
-[Extended Data](ext_articles/68069612.ext.json)
-
----
-
-### Increase in showers and windy quality
-
-*2024-05-18 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196739) · `si`
-
-Expect increased rainfall and stronger winds across Sri Lanka and nearby regions over the coming days, especially in the Western, Sabaragamuwa, North Western, and Southern provinces. Thunderstorms may bring heavy showers and gusty winds, reaching speeds of 30-40 km/h in some areas. The Department of Meteorology advises caution against potential lightning strikes and strong winds.
-
-🟩
-
-The Department of Meteorology states that a rain and wind will be increased from the next few days due to the growing pre-monsoonal weather conditions in Sri Lanka and surrounding areas.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Southern provinces.
-
-Showers or thundershowers will occur at several places about 12.00 pm in the rest of the island.
-
-Some locations in the Western, Sabaragamuwa, North Western provinces and in the Galle and Matara Districts. Rain time will also occur at 100.
-
-At the Southern Province. It has been informed that around (30-40) can be fairly strong winds.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/65dc6dcb.json)
-
-[Extended Data](ext_articles/65dc6dcb.ext.json)
-
----
-
-### John Keells Foundation’s English Language Scholarship Programme marks 20 years of `Empowering the Nation’
-
-*2024-05-18 06:18:00* · [`islandlk`](http://island.lk/john-keells-foundations-english-language-scholarship-programme-marks-20-years-of-empowering-the-nation/) · `en`
-
-Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP) marks its 20th anniversary of enhancing the English language skills of schoolchildren and youth across Sri Lanka. This flagship initiative under JKF’s Education focus aims to empower children and youth from socially and economically disadvantaged backgrounds with English, IT, and career skills towards improving their higher education and career opportunities in today’s competitive world. Aligned with national priorities, initiatives under the programme have been implemented in all the provinces of the country.
-
-...
-
-[Data](articles/512044c0.json)
-
-[Extended Data](ext_articles/512044c0.ext.json)
 
 ---

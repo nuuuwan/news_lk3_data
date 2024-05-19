@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 08:52:45**
+As of **2024-05-19 09:03:34**
 
 ## Newspaper Stats
 
-*Scraped **24,902** Articles*
+*Scraped **24,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,124
-adaderanalk | 2,883
-tamilmirrorlk | 2,916
+adaderanalk | 2,884
+tamilmirrorlk | 2,917
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,979
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,901 (100.0%) of 24,902 articles have been extended.
+24,902 (100.0%) of 24,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Sri Lanka Army promotes 114 officers and over 1,300 other ranks
+
+*2024-05-19 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99307/sri-lanka-army-promotes-114-officers-and-over-1300-other-ranks) · `en`
+
+A total of 114 officers and 1,395 other ranks of the Sri Lanka Army have been promoted to their next ranks in view of the 15th Victory Day Anniversary.
+
+President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, made these promotions based on the recommendation of the Ministry of Defence and Army Commander Lieutenant General Vikum Liyanage.
+
+The promotions have been made effective from May 19, 2024 which is the National War Heroes Commemoration Day.
+
+◼️
+
+[Data](articles/14bd43dd.json)
+
+---
 
 ### Showery and windy conditions expected to enhance further
 
@@ -252,19 +268,43 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 
 ---
 
-### ’மின் கட்டணங்களை குறைக்க முடியும்’
+### ’இலங்கையர்களுடன் அமெரிக்கா துணை நிற்கும்’
+
+*2024-05-19 01:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களுடன்-அமெரிக்கா-துணை-நிற்கும்/175-337479) · `ta`
+
+இலங்கையின் உள்நாட்டுப் போர் முடிவடைந்து 15 ஆண்டுகள் நிறைவடைந்துள்ள நிலையில், ஒன்றிணைந்த எதிர்காலத்திற்கான மீளெழுச்சி மற்றும் நம்பிக்கையை பிரதிபலிக்கும் வகையில், அனைத்து இலங்கையர்களுடனும் அமெரிக்கா துணை நிற்பதாக இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தெரிவித்துள்ளார்.
+
+இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங், தனது உத்தியோகபூர்வ எக்ஸ் வலைத்தள பக்கத்தில் இதனை குறிப்பிட்டுள்ளார்.
+
+நீதி, சம உரிமைகள் மற்றும் வாய்ப்புகளுக்கான அணுகல் ஆகியவற்றைத் தொடர்ச்சியாக எதிர்பார்க்கும் தரப்பினர் உள்ளிட்ட இலங்கை மக்களுடன் தாம் உறுதியான பங்காளியாக இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+நிலையான சமாதானம் மற்றும் முன்னேற்றத்திற்கான பன்முகத்தன்மையை உள்ளடக்கிய, வளமான எதிர்காலத்தை நோக்கிய இலங்கையின் பயணத்திற்கு ஆதரவளிப்பதற்கான தமது அர்ப்பணிப்பை தாம் மீண்டும் உறுதிப்படுத்துவதாக ஜூலி சங் மேலும் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/67ee3d85.json)
+
+---
+
+### Can reduce electricity bills
 
 *2024-05-19 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணங்களை-குறைக்க-முடியும்/175-337478) · `ta`
 
-அடுத்த இரண்டு மாதங்களுக்குள் மின் கட்டணங்களை குறைக்க முடியும் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena aims to cut electricity costs soon, citing the Uma Oya scheme as key. Discussions underway for tariff reductions.
 
-உமா ஓயா மின்னுற்பத்தி திட்டத்தினூடாக தேசிய மின் கட்டமைப்பிற்கு 120 மெகாவாட் மேலதிக மின்சாரம் கிடைக்கின்றமை கட்டணக் குறைப்பு விடயத்தில் நேரடி தாக்கம் செலுத்துவதாக பிரதமர் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-இதற்கமைய, மின் கட்டணத்தைக் குறைப்பது தொடர்பில் கலந்துரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளன என பிரதமர் தெரிவித்துள்ளார்.  (a)
+Prime Minister Dinesh Gunawardena has said that electricity bills can be reduced within the next two months.
+
+The Prime Minister has pointed out that the Uma Oya Electricity Scheme has a direct impact on the reduction of 120 MW of electricity to the national power system.
+
+The Prime Minister said that discussions have begun on the reduction of electricity tariffs.(a)
 
 ◼️
 
 [Data](articles/a4357699.json)
+
+[Extended Data](ext_articles/a4357699.ext.json)
 
 ---
 
@@ -2285,61 +2325,5 @@ Meanwhile, President Ranil Wickremesinghe will engage in bilateral discussions w
 [Data](articles/8f354b5e.json)
 
 [Extended Data](ext_articles/8f354b5e.ext.json)
-
----
-
-### A multi-day fishing vessel clashes
-
-*2024-05-18 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196743) · `si`
-
-In a tragic multi-day fishing vessel accident 47km from Valachchenai Fisheries Harbor, one fisherman died and another went missing during heavy rain. The navy assisted in rescuing the remaining crew members.
-
-🟩
-
-One fisherman was killed and another fisherman missing due to a multi-day fishing vessel accident.
-
-The accident had occurred about 47 km from the port while five fishermen were traveling from the Valachchenai Fisheries Harbor.
-
-Investigations have revealed that the accident had occurred due to heavy rains, which were traveling near the ship in the area where the multi-day fishing vessel was fisheries.
-
-A 47-year-old resident of the Nindavur resident of the Kiduwur area was drowned and the 60-year-old coast road, Oluvil, had gone missing.
-
-The other two people are not injured in the accident.
-
-The Navy has rescued these people with the assistance of another fishing boat.
-
-◼️
-
-[Data](articles/b3b24353.json)
-
-[Extended Data](ext_articles/b3b24353.ext.json)
-
----
-
-### The President has traveled Indonesia
-
-*2024-05-18 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183841) · `ta`
-
-President Ranil Wickremesinghe visited Indonesia for the 10th World Water Conference in Bali, invited by President Joko Widodo. The conference, themed "Water for Joint Prosperity," runs from May 18 to 20, where he'll speak on May 20. He'll also hold bilateral talks with Indonesian leaders.
-
-🟩
-
-President Ranil Wickremesinghe traveled to Indonesia this morning to attend a high -level meeting of the 10th World Water Conference in Bali, Indonesia.
-
-The President has made this official visit at the invitation of Indonesian President Joko Widodo.
-
-The 10th World Water Conference will be held in Bali, Indonesia from May 18 to 20 under the theme of "Water for Joint Prosperity".
-
-President Ranil Wickremesinghe will address the upcoming conference on May 20.
-
-Meanwhile, President Ranil Wickremesinghe will engage in bilateral discussions with many top representatives of the country, including the Indonesian President, during his two -day official visit.
-
-A group of top officials of the Presidential Secretariat and the Ministry of External Affairs are joining the President.
-
-◼️
-
-[Data](articles/81dcf10d.json)
-
-[Extended Data](ext_articles/81dcf10d.ext.json)
 
 ---

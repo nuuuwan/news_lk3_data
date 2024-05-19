@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 04:52:35**
+As of **2024-05-20 05:03:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,078 (100.0%) of 25,084 articles have been extended.
+25,084 (100.0%) of 25,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,17 +204,25 @@ He highlighted the Government’s failure to fulfil promises made to the interna
 
 ---
 
-### பயங்கரவாதிகளிடமிருந்து நாட்டை பாதுகாத்து தந்ததுபோல் திருடர்களிடமிருந்து நாட்டை பாதுகாக்க இராணுவ வீரர்கள் எம்முடன் இணைய வேண்டும் - சஜித் பிரேமதாச கோரிக்கை
+### Soldiers should join us to protect the country from thieves as they protected the country from terrorists - Sajith Premadasa
 
 *2024-05-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183993) · `ta`
 
+Sajith Premadasa urges soldiers to safeguard the nation against thieves, echoing their past defense against terrorists. He emphasizes the importance of proper leadership for the country's prosperity and requests soldiers' involvement in combating theft, corruption, and protecting national assets.
+
+🟩
+
 பயங்கரவாதிகளிடமிருந்து நாட்டைக் காப்பாற்றித் தந்தது போல திருடர்களிடம் இருந்து நாட்டைக் காப்பாற்ற இராணுவ வீரர்கள் எம்மோடு ஒன்றிணைந்துகொள்ள வேண்டும்.நாட்டின் அரசியல் அதிகாரம் சரியான தலைமைத்துவத்தை வழங்கியிருந்தால் நாடு வளமான நாடாக மாறியிருக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
 
-தாய்நாட்டின் சுதந்திரத்திற்காக உயிர் தியாகம் செய்த இராணுவ வீரர்களுக்கு நன்றி பாராட்டும் முகமாக நடைபெற்ற ஐக்கிய மக்கள் சக்தியின் இராணுவ வீரர்களது மாநாட்டின் 6 ஆவது கட்டம் ஞாயிற்றுக்கிழமை (18) மொனராகலையில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The 6th phase of the United People's Power Soldiers Conference was held on Sunday (18) in Moneragala on the occasion.. He said this while addressing the gathering.
+
+If the political power of the country had been given the right leadership, our country would have become a prosperous country by soldiers from terrorism.. இப்போதும் நாட்டைக் காப்பாற்றும் பணி எம்முன் உள்ளது. Soldiers should intervene to eliminate the waste of theft, corruption, fraud, robbery and national assets and resources. I request the soldiers to be a partner in the humanitarian work that builds the country.
 
 ...
 
 [Data](articles/9f967c66.json)
+
+[Extended Data](ext_articles/9f967c66.ext.json)
 
 ---
 
@@ -270,47 +278,69 @@ The festivities will span across three major venues: the Presidential Secretaria
 
 ---
 
-### முக்கியமான சட்டங்கள் இயற்றப்பட்டவுடன் பாராளுமன்றம் கலைக்கப்படும் ரணிலுக்கு ஆதரவு வழங்க பொதுஜன பெரமுன தீர்மானிக்கவில்லை - உதயங்க வீரதுங்க
+### PA is not deciding to support Ranil, which Parliament is dissolved once the important laws are enacted - Udayanga Weeratunga
 
 *2024-05-20 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183992) · `ta`
 
-முக்கியமான சட்டங்களை இயற்றிக் கொண்டதன் பின்னர் பாராளுமன்றத்தை கலைக்க இரு தரப்பினரும் இணக்கம் தெரிவித்துள்ளனர். எதிர்வரும் ஜூன் மாதம் 14 ஆம் திகதிக்குள் பாராளுமன்றம் கலைக்கப்படும். ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தலில் போட்டியிடபோவதில்லை. அவருக்கு பொதுஜன பெரமுன ஆதரவு வழங்கவும் போவதில்லை என மஹிந்த ராஜபக்ஷவின் நெருங்கிய உறவினரும், ரஷ்யாவுக்கான முன்னாள் இலங்கைத் தூதுவருமான உதயங்க வீரதுங்க தெரிவித்தார்.
+Parliament dissolution planned post-enacting key laws by June 14, no presidential bid from Ranil Wickremesinghe. Udayanga Weeratunga opposes supporting Ranil, emphasizing constitutional elections sequence.
 
-கொழும்பில்  ஞாயிற்றுக்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவித்ததாவது,
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் நடத்தப்படும் என்று குறிப்பிடுவது  பேச்சுக்கு மாத்திரமே வரையறுக்கப்படும்.ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலே நடத்தப்படும் என்பதை உறுதியாக குறிப்பிடுகிறேன். முக்கியமான சட்டங்களை இயற்றிக் கொண்டதன் பின்னர் பாராளுமன்றம் கலைக்கப்படும்.
+Both sides have agreed to dissolve parliament after passing important laws. Parliament will be dissolved by the 14th of June. President Ranil Wickremesinghe will not contest the election. Udayanga Weeratunga, a close relative of Mahinda Rajapaksa and former Sri Lankan ambassador to Russia, said he would not support him.
+
+கொழும்பில்  ஞாயிற்றுக்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார். He added,
+
+It will be defined as the presidential election will be held according to the Constitution. I am sure that the general election will be held before the presidential election.. Parliament will be dissolved after the enactment of important laws.
+
+Parliament will be dissolved on the day of June 14 or earlier.
+
+ஜனாதிபதி தேர்தலில் வெற்றி பெறுபவர் இந்த பாராளுமன்றத்தை நிச்சயம் கலைப்பார்.புதிய ஜனாதிபதி பாராளுமன்றத்தை கலைப்பதற்கு ஓரிரு மாதங்களுக்கு முன்னர் பாராளுமன்றத்தை கலைப்பதில் எவ்வித பாதி;ப்பும் ஏற்படாது.
 
 ...
 
 [Data](articles/07043205.json)
 
+[Extended Data](ext_articles/07043205.ext.json)
+
 ---
 
-### இராணுவ வீரர்களுக்கு செய்ய வேண்டிய கடமையை அரசாங்கம் தவறியுள்ளது - எதிர்க்கட்சித் தலைவர் குற்றச்சாட்டு
+### The government fails to do the duty of soldiers - the opposition leader accuses
 
 *2024-05-20 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183991) · `ta`
 
-அரசாங்கம்  இராணுவத்தினருக்கு கடமையை செய்ய தவறியதால் அவர்கள் ரஷ்ய யுத்தக்களத்தில் முன்னணியில் உயிரிழக்க வேண்டிய நிலை ஏற்பட்டுள்ளது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticizes the government for neglecting soldiers, leading to their deaths in Russia. He calls for reconsideration of support for veterans post-war, highlighting their economic struggles and the need for better assistance under his party's governance.
 
-காலி நெலுவ பிரதேசத்தில் சனிக்கிழமை (18) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-முப்பது வருட கால பயங்கரவாத யுத்தத்தை வெற்றிகொண்டதன் பின்னர் இராணுவ சமூகத்துக்கு செய்யவேண்டிய முறையான கடமை மேற்கொள்ளப்பட்டுள்ளதா என்பதை மீண்டும் சிந்தித்து பார்க்க வேண்டும். இராணுவ வீரர்களும் அவர்களின் குடும்பத்தினரும் பாரிய கஷ்டத்துக்கு ஆளாகி இருப்பதுடன் தாங்கிக்கொள்ள முடியாத பொருளாதார சமூக நெருக்கடிக்கும் முகம்கொடுத்து வருகின்றனர்.
+Opposition Leader Sajith Premadasa said that the government failed to do so to the military, causing them to die in the Russian battlefield.
+
+He said this while addressing an event in Galle Neluwa on Saturday (18).
+
+It must be re -consider whether the military community has had to commit a proper duty after the victory of the thirty years of terrorist war.. Soldiers and their families are suffering from great difficulties and are facing an unbearable economic and social crisis.
+
+Soldiers have gone to the lower level of the poverty line due to the lack of relief in the economic crisis, which has risen to the country.. So they have gone abroad in search of other income. Others have to go to Russia and go to the front of the battlefield.
 
 ...
 
 [Data](articles/5d914cc4.json)
 
+[Extended Data](ext_articles/5d914cc4.ext.json)
+
 ---
 
-### தலவாக்கலை மேல்கொத்மலை நீர்த் தேக்கத்தில் பெண்ணின் சடலம் மீட்பு
+### The body of the woman's body recovered in the water reservoir of Talawakelle
 
 *2024-05-20 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183990) · `ta`
 
+A woman's body was found floating in a reservoir near Talawakelle. Identified as an 18-year-old from Pamstan Ratnagiri, her remains were handed over to the Nuwara Eliya District Court. The investigation aims to determine whether she died by suicide or was murdered.
+
+🟩
+
 தலவாக்கலை மேல் கொத்மலை நீர்த்தேக்கத்தில் மிதந்த நிலையில் பெண் ஒருவரின் சடலம் ஒன்றை தலவாக்கலை பொலிஸார்  ஞாயிற்றுக்கிழமை (19) மாலை மீட்டுள்ளனர்.
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் 18 வயதுடைய பெண் எனவும் இவர் லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட பாமஸ்டன் ரத்தினகிரியை சேர்ந்த பெரியசாமி திலிஷினா என அடையாளம் காணப்பட்டுள்ளதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+Talawakelle police said that the body was recovered as an 18 -year -old woman and Periyasamy Tilishina of Pamstan Ratnagiri belonging to the Lindulai Police Division.
 
-அதேநேரத்தில் சடலம் தொடர்பில் நுவரெலியா மாவட்ட நீதிமன்றத்தின் கவனத்திற்குக் கொண்டுவரப்பட்டுள்ளதாகத் தெரிவித்த பொலிஸார் சம்பவ இடத்திற்கு நீதவான் வருகை தந்து சடலத்தைப் பார்வையிட்டு பின் பிரேத பரிசோதனைக்காகச் சடலம் நுவரெலியா மாவட்ட பொது வைத்தியசாலைக்குக் கொண்டு செல்லப்படும் எனத் தெரிவித்தனர்.
+At the same time, the police said that the body had been brought to the notice of the Nuwara Eliya District Court regarding the body and that the body would be taken to the Nuwara Eliya District General Hospital for an autopsy.
 
 மேலும் உயிரிழந்த பெண் தொடர்பில் விசாரணைகள் செய்து வருவதாகவும், இச் சம்பவத்தில் உயிரிழந்த பெண் தன்னுயிரை மாய்த்துக் கொண்டாரா? அல்லது கொலை செய்யப்பட்டாரா? என்ற கோணத்தில் விசாரணை ஆரம்பிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
 
@@ -318,41 +348,97 @@ The festivities will span across three major venues: the Presidential Secretaria
 
 [Data](articles/7354c9dc.json)
 
+[Extended Data](ext_articles/7354c9dc.ext.json)
+
 ---
 
-### சமஷ்டி உத்தரவாதம் வழங்கப்படும் வரையில் ஜனாதிபதி தேர்தலை முழுதாய் புறக்கணிப்போம் - தமிழ்த் தேசிய மக்கள் முன்னணி அறைகூவல்
+### The presidential election will be ignored until the federal assurance is granted - the Tamil National People's Front calls
 
 *2024-05-20 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183989) · `ta`
 
-இலங்கையின் ஜனாதிபதி தேர்தலை ஒற்றையாட்சி நீக்கப்பட்டு சமஷ்டி அடிப்படையிலான உத்தரவாதம் வழங்கப்படும் வரையில் முழுமையாக புறக்கணிப்போம் என்று தமிழ்த் தேசிய மக்கள் முன்னணி அறைகூவல் விடுத்துள்ளது.
+It seems like you've shared a detailed perspective on the political and social dynamics surrounding the Tamil people's relationship with the Sri Lankan state, focusing on issues of rights, representation, and the impact of electoral processes on their struggle for recognition and autonomy. Your message highlights several key points:
 
-‘ஜனாதிபதி தேர்தலைப் புறக்கணிப்போம்: தமிழின நலன் சார்ந்து சிந்திப்போம்’ எனும் தலைப்பில் அக்கட்சி ஜனாதிபதி தேர்தல் தொடர்பில் வெளியிட்டுள்ள தெளிவுபடுத்தல் அறிக்கையிலேயே அக்கட்சி மேற்கண்டவாறு தெரிவித்துள்ளது.
 
-தமிழர் தேசத்தில் இன்றும் சிங்கள பௌத்தமயமாக்கல், இராணுவமயமாக்கல், ஊடாக கட்டமைப்புசார் இனவழிப்புச் செயற்பாடுகளைத் தொடர்வதன் மூலம் தமிழர் தேசத்தைச் இலங்கை அரசு எதிரி தேசமாகவே கருதி செயற்பட்டுவருகின்றது. ஒற்றையாட்சி அரச கட்டமைப்பினுள் பெரும்பான்மைப் பிரதிநிதித்துவம் தமது கைகளில் இருக்கும்வரை தமிழர்களால் அரசுக்கு எந்தவொரு நெருக்கடியையும் ஏற்படுத்த முடியாதெனக் கருதும் இலங்கை அரசு தமிழ் மக்களைத் தனது மக்களாகக் கருதாமல் எதிரிகளாகக் கருதி சிங்கள தேசத்தின் நலன்களை மட்டுமே பேணிச் செயற்பட்டுவருகின்றது.
+
+1. **Boycott of Presidential Elections**: The idea of boycotting the Sri Lankan Presidential election as a means to assert the Tamil people's stance on their rights and demands.
+
+
+
+2. **Compromise and Negotiation**: The call for the Sri Lankan government to engage in meaningful dialogue and negotiation with the Tamil people to address their grievances and concerns.
+
+
+
+3. **Rejection of Sinhala Buddhist Hegemony**: The rejection of policies and structures that marginalize the Tamil people and promote Sinhala Buddhist dominance.
+
+
+
+4. **International Recognition and Support**: The importance of international community involvement and support in addressing the Tamil people's plight.
+
+
+
+5. **Historical and Current Injustices**: A recounting of historical injustices faced by the Tamil people, including forced displacement, denial of resettlement rights, and the lack of accountability for human rights abuses.
+
+
+
+6. **Political Aspirations and Solutions**: The emphasis on self-determination, federalism, and the right to a political solution that recognizes the Tamil people's sovereignty and identity.
+
+
+
+7. **Critique of Political Maneuvers**: A critique of attempts by certain political actors to manipulate the Tamil people's aspirations for personal gain or to further Sinhala Buddhist interests.
+
+
+
+8. **Call for Unity and Collective Action**: The appeal for the Tamil people to unite and exert collective pressure through peaceful means to achieve their political and social objectives.
+
+
+
+Your message underscores the complexity of the issues facing the Tamil people and the challenges they face in asserting their rights within the Sri Lankan state. It also reflects a deep-seated frustration with the current political landscape and a strong desire for change that respects and acknowledges the Tamil people's unique cultural, linguistic, and national identity.
+
+
+
+If you have specific questions or need assistance with a particular aspect of this topic, please let me know how I can assist you further.
+
+🟩
+
+The Tamil National People's Front (TNA) has called for a complete boycott until the unity of the Sri Lankan presidential election will be eliminated and the federal guarantee is granted.
+
+The party said in a clarification report on the presidential election titled 'We will be thinking of the welfare of Tamil Nadu'.
+
+In the Tamil nation, the Tamil Nadu state is acting as an enemy of the Tamil nation by continuing the Sinhala Buddhistization, militarization and systematic ethnic process through the construction of the ethnic groups.. The Sri Lankan government, which considers the Tamils to cause any crisis as long as the majority representation within the unity state structure is in their hands, is maintaining the interests of the Sinhalese nation, not considering the Tamil people as its enemies.
 
 ...
 
 [Data](articles/005db2fe.json)
 
+[Extended Data](ext_articles/005db2fe.ext.json)
+
 ---
 
-### பொதுவேட்பாளர் விடயம் தமிழரசு தீர்மானமில்லை; சம்பந்தனை சந்திக்க முடிவு
+### The general candidate is not a Tamil Nadu decision;Decision to meet
 
 *2024-05-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183988) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பில் தீர்மானம் எடுப்பதற்காக கூடிய இலங்கைத் தமிழரசுக்கட்சியின் மத்திய செயற்குழு எவ்விதமான தீர்மானங்களும் இன்றி கூட்டத்தினை நிறைவுக்கு கொண்டுவந்துள்ளது.
+The Sri Lanka Tamil National Party's Central Executive Committee met but didn't decide on suspending a Tamil general candidate in the presidential election. The meeting focused on legal issues and the need for a Tamil candidate, with various viewpoints discussed. No immediate action was taken regarding the general candidate's suspension.
+
+🟩
+
+The Central Executive Committee of the Sri Lanka Tamil National Party (SLFP) has ended the meeting without any decisions to make a decision on the suspension of a Tamil general candidate in the presidential election.
 
 இதேநேரம், குறித்த விடயம் சம்பந்தமாக கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனைச் சந்திப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
 
-இலங்கை தமிரசுக்கட்சியின் மத்திய செயற்குழு கூட்டம் வவுனியா இரண்டாம் குறுக்கு வீதியில் உள்ள தனியார் விடுதியில் ஞாயிற்றுக்கிழமை (19) காலை 10.30 முதல் மாலை 6.30 வரையில் நடைபெற்றிருந்தது.
+The Central Executive Committee meeting of the Sri Lanka TMC was held from 10.30 am to 6.30 pm on Sunday (19) at a private hotel at Vavuniya Second Road.
 
 குறித்த கூட்டத்தில் பாராளுமன்ற உறுப்பினர்களான சாணக்கியன் மற்றும் சாள்ஸ் நிர்மலநாதன் ஆகியோர் பங்கேற்றிருக்கவில்லை.
 
-இந்நிலையில் குறித்த கூட்டத்தில் முதலில் கட்சிக்கு எதிராக தொடுக்கப்பட்டுள்ள வழக்கு விவகாரங்கள் சம்பந்தமாக ஆராயப்பட்டது. இதன்போது பல்வேறு வாதப்பிரதவாதங்கள் நடைபெற்றன.
+At this juncture, the first meeting was investigated on the issue of lawsuits against the party. Various arguments were held during this time.
+
+In the case, it was decided to deal with both the Central Committee members and the President's lawyers MA Sumanthiran and KV Dawarasa to deal with the lawyers of the lawyers.
 
 ...
 
 [Data](articles/75cd5452.json)
+
+[Extended Data](ext_articles/75cd5452.ext.json)
 
 ---
 

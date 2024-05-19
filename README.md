@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 07:45:46**
+As of **2024-05-19 08:09:49**
 
 ## Newspaper Stats
 
-*Scraped **24,896** Articles*
+*Scraped **24,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
-adalk | 2,122
+adalk | 2,124
 adaderanalk | 2,882
 tamilmirrorlk | 2,913
 virakesarilk | 3,752
@@ -26,25 +26,47 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,895 (100.0%) of 24,896 articles have been extended.
+24,896 (100.0%) of 24,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### යුද හමුදාවේ 1,509කට උසස්වීම්
+### 2509 promotions of the Army
 
 *2024-05-19 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196771) · `si`
 
-15 වන විජයග්‍රාහී සැමරුමට සමගාමීව ශ්‍රී ලංකා යුද හමුදාවේ නිලධාරීන් පිරිසකට උසස්වීම් ලබාදී තිබේ.
+On the 19th, marking the War Heroic Memorial Day, 114 officers and 1,395 soldiers from the Sri Lanka Army's Permanent and Voluntary Brigade were promoted, celebrating the 15th anniversary of this event.
 
-ඒ අනුව ශ්‍රී ලංකා යුද හමුදාවේ නිත්‍ය හා ස්වෙච්ඡා බලසේනාවේ නිලධාරීන් 114ක් සහ සෙසුනිලයන් 1,395ක් ඔවුන්ගේ මීළඟ නිලය දක්වා උසස්වීම් ලබාදී ඇත.
+🟩
 
-රණවිරු අනුස්මරණ දිනය යේදී තිබෙන අද (19) සිට බලපැවැත්වෙන පරිදි සියලුම රෙජිමේන්තුවල සාමාජිකයන්ට මෙම උසස්වීම ලබාදීම සිදුකර තිබේ.
+A group of Sri Lanka Army officials have promoted to a group of 15th widely commemoration.
+
+Accordingly, 114 officers in the Sri Lanka Army's Permanent and Voluntary Brigade and 1,395 sets were promoted to their next rank.
+
+The promotion has been made to members of all regiments, which have been affected by the War Heroic Memorial Day today (19).
 
 ◼️
 
 [Data](articles/a5b9252e.json)
+
+[Extended Data](ext_articles/a5b9252e.ext.json)
+
+---
+
+### උසස් පෙළට තොරතුරු තාක්ෂණ ශිෂ්‍යත්ව 5000 ක්
+
+*2024-05-19 07:03:34* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-තොරතුරු-තාක්ෂණ-ශිෂ්‍යත්ව-5000-ක්/11-409706) · `si`
+
+අ.පො.ස.සාමාන්‍ය පෙළ 2022/2023 විභාගය සමත්ව 2024/2025 උසස් පෙළ විභාගයට විෂයක් ලෙස තොරතුරු හා  සන්නිවේදන තාක්ෂණය  හදාරණ සිසු සිසුවියන් සඳහා   ශිෂ්‍යත්ව 5000 ක්  පිරිනැමීමට ජනාධිපති අරමුදල හා ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව ඒකාබද්ධ  වැඩ සටහනක් ලෙස සැලසුම් කර ඇත.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව ක්‍රියාත්මක කෙරෙන  මේ වැඩ සටහන   යටතේ තෝරා ගන්නා සිසුන් සඳහා මෙම මැයි මාසයේ සිට උසස් පෙළ විභාගයට පෙනී සිටින දිනය දක්වා මාස 24 ක් වෙනුවෙන් මසකට රුපියල් 6000 බැගින් ශිෂ්‍යත්ව ආධාර මුදලක් ලබා දෙන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+
+රජයේ පාසලක තොරතුරු හා සන්නිවේදන තාක්ෂණය විෂය සමග උසස් පෙළ හදාරන  මාසික ආදායම රුපියල් ලක්ෂයට අඩු  පවුල්වල සිසුන්ට මේ සඳහා මෙම මැයි 22 දක්වා තමා ඉගෙනුම ලබන පාසල මගින්  අයදුම් කළ හැකි බවත් දිවයිනේ අධ්‍යාපන කලාප සියල්ලෙන්ම එක් කලාපයකින් අවම ලෙස 50 බැගින් වනසේ මෙම ශිෂ්‍යත්වලාභීන් තෝරා ගන්නා බවත්  අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/306ca208.json)
 
 ---
 
@@ -731,6 +753,24 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 [Data](articles/146d5927.json)
 
 [Extended Data](ext_articles/146d5927.ext.json)
+
+---
+
+### අමාත්‍ය ප්‍රසන්න රණවිරට රුපියල් 300ක මනි ඕඩරයක්
+
+*2024-05-18 18:13:45* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය ප්‍රසන්න-රණවිරට-රුපියල්-300ක-මනි-ඕඩරයක්/11-409704) · `si`
+
+මුදල් ගෙවිමක් සම්බන්ධයෙන් ඇතිවූ ගැටලුවකට ගුවන් තොටුපොලේදී පෝටර්වරයෙකුට කණට පහර දුන් අමාත්‍ය ප්‍රසන්න රණවිර මහතාට රුපියල් තුන්සීයක මනිඕඩරයක් අද (18) පස්වරුවේදී පාර්ලිමේන්තුවේ කතානායකවරයාට යැවීමට කරන්දෙණියේ තරුණ පිරිසක් කටයුතු කළේය.
+
+අපේ දහම් පදනමේ නිර්මාතෘ හා සභාපති සමන් ප්‍රියන්ත විජේවිකම මහතා ඇතුලු පිරිසක් මෙම මනි ඕඩරය යොමු කළේය.
+
+ඔවුහු අද (18) පස්වරුවේදී කරන්දෙණිය මහඒදණ්ඩ ප්‍රධාන තැපැල් කාර්යාලයට පැමිණ තමන් ළග තිබූ මුදල් එකතු කොට අමාත්‍ය ප්‍රසන්න රණවීර මහතාට ලැබීම සදහා ඔවුහු පාර්ලිමේන්තුවට මේ මුදල් මනිඕඩර් ක්‍රමයට යැවීමට මෙහිදී පියවර ගත්හ.
+
+රුපියල් තුන්සීයක් මුදල් පසුම්භියේ නොමැතිකම  නිසා ගුවන් තොටුපොලේ අහිංසක පොටර්වරයෙක් කණ පලාගත් බවත් මෙය නොවිය යුත්තක් නිසා ප්‍රසන්න රණවීර මහතාට මේ මුදල යැව්වේ පෝටර්වරයාට එය ලබාදීමට බව මේ කාර්යය සදහා එක්වූ සමන් විජේවිකම මහතා කීය.
+
+◼️
+
+[Data](articles/80453385.json)
 
 ---
 
@@ -2295,57 +2335,5 @@ My resolution recognizes that the Tamils were genocide and emphasized the rights
 [Data](articles/34d1a690.json)
 
 [Extended Data](ext_articles/34d1a690.ext.json)
-
----
-
-### Warnings to the people of rivers
-
-*2024-05-18 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196742) · `si`
-
-Irrigation warns of flood risks due to heavy rains, emphasizing the importance of preparedness. The National Building Research Organization extends its hours until 4 PM for geologists to assess potential hazards. The Wellawaya main road is temporarily closed due to the risk of landslides and rockfalls.
-
-🟩
-
-The Irrigation Department says that with the prevailing rainy weather, the Irrigation Department says.
-
-The Department has pointed out that the risk of immediate floods in the city with high intensity measures is also the risk of instant floods.
-
-The Irrigation Department says that the strength and risk of floods will be dependent on the intensity and extent of rain.
-
-Meanwhile, Senior Geologist Senior Geologist Senior Geologist of the National Building Research Organization (NBT) has been extended to 4 pm today (18).
-
-Meanwhile, the Wellawaya main road from the Wellawaya main road from the temporary closed due to the risk of stone and the earth, along with the risk of rock and earthfire.
-
-◼️
-
-[Data](articles/dea4854a.json)
-
-[Extended Data](ext_articles/dea4854a.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-05-18 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99291/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showery and windy conditions are expected to enhance during the next few days from today, due to pre-monsoonal conditions over the country and surrounding sea areas.
-
-Cloudy skies can be expected over most parts of the island, it said.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara-eliya districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island after 12.00 noon.
-
-Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times in Southern province, the department said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7ee272dc.json)
-
-[Extended Data](ext_articles/7ee272dc.ext.json)
 
 ---

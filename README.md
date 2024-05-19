@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 00:03:53**
+As of **2024-05-20 00:18:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,043 (99.9%) of 25,056 articles have been extended.
+25,056 (100.0%) of 25,056 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ Former President Rajapaksa also shared his concerns on social media, emphasizing
 
 [Data](articles/91b5ba00.json)
 
+[Extended Data](ext_articles/91b5ba00.ext.json)
+
 ---
 
-### හෙලිකොප්ටර් අනතුරක් හේතුවෙන් ඉරාන ජනපතිවරයා අතුරුදන්
+### Iranian President disappeared due to helicopter accident
 
 *2024-05-19 22:25:36* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-අනතුරක්-හේතුවෙන්-ඉරාන-ජනපතිවරයා-අතුරුදන්/11-409726) · `si`
 
-ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා ගමන් ගත් හෙලිකොප්ටර් යානය අනතුරට පත්ව ඇති බවත් එම අනතුරින් ඉරාන ජනපතිවරයා අතුරුදන්ව ඇති බවත් ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Iranian President's helicopter crashed during a landing in Eastern Azerbaijan amid poor weather, leading to his disappearance. The crash involved three helicopters; while two landed safely, the one carrying the President and the Foreign Minister went missing. Recovery efforts are underway amidst complications.
 
-නැගෙනහිර අසර්බයිජානයේදි හෙලිකොප්ටරය හදිසි ගොඩබැමකට ලක්කිරිමේදි මෙම අනතුර සිදුව ඇතැයි වාර්තා වෙයි. අනතුර සිදුවන අවස්ථාවේදි ඒම ප්‍ර දේශයේ අයහපත් කාලගුණ තත්ත්වයක් පැවති ඇත.
+🟩
 
-මුදවා ගැනිමේ කණ්ඩායම් ප්‍ර දේශයට ළඟා වන බවත් අධික මිදුම මුදවා ගැනිමේ මෙහෙයුම් සඳහා ගැටලුවක්ව ඇති බවත් ජාත්‍යන්තර මාධය වාර්තා කරයි.
+International media reports that the helicopter, who was predicted by Iranian President, has been disappeared in the accident.
 
-ඉරාන ජනපතිට අමතරව ඉරාන විදේශ කටයුතු අමාත්‍යවරයාද එම හෙලිකොප්ටරයේ ගමන් කර තිබේ. ඔවුන් ගමන් කළ හෙලිකොප්ටරයට අමතරව තවත් හෙලිකොප්ටර් දෙකක්ද ගමන් කර ඇති අතර ඒම හෙලිකොප්ටර් ‌දෙක අනතුරකින් තොරව ගමනාන්තයට ළ﻿ඟා වි තිබේ.
+It is reported that the accident had taken place when helicopter was landing in Eastern Azerbaijan. There was bad weather conditions in the area when the accident occurred.
+
+International Media reports that the redeeming teams reach the country and that there is a problem for the redemption operations.
+
+In addition to the President of Iranian Foreign Minister has traveled in the helicopter. In addition to the helicopter they traveled, two more helicopters were traveling and the two helicopters have been found in the destination without any accident.
 
 ◼️
 
 [Data](articles/aca1abea.json)
+
+[Extended Data](ext_articles/aca1abea.ext.json)
 
 ---
 
@@ -98,19 +106,25 @@ The people of Iran have also begun to pray for their President.
 
 ---
 
-### “Starlink” සේවා පහසුකම ක්‍රියාත්මක කිරීමට ජනපති හා ඉලෝන් මස්ක් අතර සාකච්ඡා
+### Discussions between President and Illiots to implement "Starlink"
 
 *2024-05-19 22:20:46* · [`adalk`](https://www.ada.lk/technology/“Starlink”-සේවා-පහසුකම-ක්‍රියාත්මක-කිරීමට-ජනපති-හා-ඉලෝන්-මස්ක්-අතර-සාකච්ඡා/5-409725) · `si`
 
-ශ්‍රී ලංකාව තුළ “Starlink” සේවා පහසුකම ක්‍රියාත්මක කිරීම පිළිබඳ සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ලොව ප්‍රකට ව්‍යාපාරිකයෙකු වන ඊලොන් මස්ක් (Elon Musk) මහතා අතර හමුවක් අද (19) ඉන්දුනිසියාවේදි සිදු විය.
+President Ranil Wickremesinghe discussed implementing Starlink with Elon Musk to boost Sri Lanka's connectivity globally. The initiative aims to accelerate the country's digital infrastructure. Meanwhile, the President is attending the World Water Conference in Indonesia.
 
-ගෝලීය “Starlink” ජාලය සමඟ ශ්‍රී ලංකාව සම්බන්ධ කිරීම සඳහා අයදුම් කිරීමේ ක්‍රියාවලිය වේගවත් කිරීමට කැපවී සිටින බව එහිදී අවධාරණය කෙරිණි.
+🟩
 
-ඉන්දුනීසියාවේ පැවැත්වෙන 10 වන ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගීවීම සඳහා ජනපතිවරයා මේ වන විට දිවයිනෙන් පිටත්ව ගොස් සිටියි.
+President Ranil Wickremesinghe and Elon Musk was aimed at discussing the implementation of the "Starlink" work facility in Sri Lanka.
+
+It was emphasized that the application process is committed to accelerating Sri Lanka with the global "Starlink" network.
+
+The President has left the island to attend the top 10th World Water Conference in Indonesia.
 
 ◼️
 
 [Data](articles/f28fdcd4.json)
+
+[Extended Data](ext_articles/f28fdcd4.ext.json)
 
 ---
 
@@ -128,19 +142,27 @@ Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegay
 
 ---
 
-### “සුරක්ෂා” රක්ෂණාවරණය යළි ඇරඹේ
+### The "secure" insurance cover restores
 
 *2024-05-19 22:10:03* · [`adalk`](https://www.ada.lk/breaking_news/“සුරක්ෂා”-රක්ෂණාවරණය-යළි-ඇරඹේ/11-409724) · `si`
 
-ආර්ථික ගැටළුකාරී තත්ත්වය හේතුවෙන් තාවකාලිකව අත්හිටුවන ලද “සුරක්ෂා” සිසු රක්ෂණාවරණය යළි ආරම්භ කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ. ඒ අනුව දිවයින පුරා සියලුම පාසල් සිසුන්ට මෙම රක්ෂණාවරණය යටතේ ප්‍රතිලාභ ලබා ගැනීමේ හැකියාව ජුනි මස මුල් සතියේ සිට උදා වේ.
+President Ranil Wickremesinghe has reinstated the "Secure Student Insurance Cover," benefiting all schoolchildren nationwide starting June. This initiative aims to support education and safety amidst health issues, with financial aid for medical expenses, including hospital stays, hearing aids, and educational costs. The program, initially suspended due to economic challenges, is now set to continue post-economic recovery, targeting low-income families as well.
 
-මීට අදාළව මුදල්, ආර්ථික ස්ථායීකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා විසින් ඉදිරිපත් කරන ලද ඒකාබද්ධ අමාත්‍ය මණ්ඩල සංදේශය සඳහා පසුගියදා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි විය.
+🟩
 
-“සුරක්ෂා” සිසු රක්ෂණාවරණය, සෞඛ්‍ය ගැටළු හේතුවෙන් අධ්‍යාපනය ලබා ගැනීමට නොහැකි සිසුන්ට අඛණ්ඩ අධ්‍යාපනයක් ලබාදීම සහ ඔවුන්ගේ සුරක්ෂිතභාවය තහවුරු කරමින් පාසල් සිසුන් දෛනිකව පාසල් පැමිණීම වර්ධනය කිරීමේ අරමුණ ඇතිව 2017 වර්ෂයේ එවක අග්‍රාමාත්‍යවරයා වශයෙන් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් මත ක්‍රියාත්මක කරන ලද වැඩසටහනකි.
+President Ranil Wickremesinghe has instructed to resume the temporary "safe 'student insurance cover temporarily suspended due to economic problem. Accordingly, all school children across the country will benefit from the first week of June.
+
+Cabinet was approved by the Cabinet Memorandum from President Ranil Wickremesinghe, Minister of Finance, Economic Stability and National Policies.
+
+"Protected" Students who are not able to educate and ensure their security due to health problems, school children have a program to enhance their security, to enhance school attendance, and secure school attendance.
+
+The program continued to work until 01.22.12.2012 due to the current economic crisis, the current economic crisis has been suspended on difficulties.
 
 ...
 
 [Data](articles/7b168883.json)
+
+[Extended Data](ext_articles/7b168883.ext.json)
 
 ---
 
@@ -192,6 +214,8 @@ The unnamed official said contact has been made on several occasions.
 
 [Data](articles/519bfe1e.json)
 
+[Extended Data](ext_articles/519bfe1e.ext.json)
+
 ---
 
 ### SJB suggests new dates for debates with NPP
@@ -206,6 +230,8 @@ Accordingly, he has suggested that the debate between the two leaders be held on
 
 [Data](articles/55e408e6.json)
 
+[Extended Data](ext_articles/55e408e6.ext.json)
+
 ---
 
 ### Special holiday declared for Puttalam district schools
@@ -219,6 +245,8 @@ This decision aims to ensure the safety of students and staff amid the adverse w
 ◼️
 
 [Data](articles/3becd51e.json)
+
+[Extended Data](ext_articles/3becd51e.ext.json)
 
 ---
 
@@ -572,21 +600,27 @@ Former President Vo Van Thuong resigned in March after a little over a year in t
 
 ---
 
-### සජිත් අනුර විවාදය සිදු නොවෙයි?
+### Sajith is not taking place?
 
 *2024-05-19 19:06:05* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදය-සිදු-නොවෙයි-/11-409723) · `si`
 
-සමගි ජනබලවේගයට පෙර දැනුම් දුන් පරිදි ම 20වෙනිදායින් පසුව එම විවාදය සිදු නොකරන බව ජාතික ජන බලවේගය පවසයි.
+Sajith won't participate in debates after the 20th due to prior commitments. The National Folk Force announced this, citing a letter received by former MP Nalinda Jayatissa. The party plans to prioritize national discussions over internal debates, suggesting a shift from traditional debate formats.
 
-විවාදය සඳහා දින ලබාදෙමින් සමගි ජනබලවේගය විසින් ජාතික ජනබලවේගයට යොමු කළ ලිපියේ දිනය 17 වෙනිදා ලෙස සඳහන් වුවත්, එම ලිපිය ජාතික ජනබලවේගයේ විධායක සභික, හිටපු පාර්ලිමේන්තු මන්ත්‍රී නලින්ද ජයතිස්ස මහතාට ලැබී තිබුණේ ඊයේ (19දා) පස්වරුවේ ය.
+🟩
 
-සමඟි ජනබලවේගය විසින් විවාදය සඳහා විසිවනදායින් පසු දින හතරක් ලබාදී,  ඇති අතර , ඔවුන් පළමුව දින ලබාදී ඇත්තේ ආර්ථික කමිටු අතර විවාදයට වන බැවින් ඒ සඳහා ද ජාතික ජනබලවේගය එකඟ නොවන බව එම පක්ෂය සඳහන් කරයි.
+The National Folk Force says that the debate will not be done after 20th as the reconciliation was informed before.
 
-පළමුව නායකයින් අතර විවාදය පවත්වා, අනතුරුව ආර්ථික කමිටු අතර විවාදය පැවැත්වීමට ජාතික ජනබලවේගය යෝජනා කර තිබුණි.
+The date on which the letter was given to the debate on the debate, the date of the national popularity was executive and former MP Nalinda Jayatissa had received the letter.
+
+The party states that the national popularity is given first after twenty-day debate in the debate by the debate.
+
+The National Ceylon Troubleshood has proposed to have the debate between leaders first and then debate between the economic committees.
 
 ◼️
 
 [Data](articles/d989d2f4.json)
+
+[Extended Data](ext_articles/d989d2f4.ext.json)
 
 ---
 
@@ -980,6 +1014,8 @@ He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana
 
 [Data](articles/368cb112.json)
 
+[Extended Data](ext_articles/368cb112.ext.json)
+
 ---
 
 ### Georgian ParliamentThe EU fusion of the sprouting?
@@ -1340,6 +1376,8 @@ Rohan Pethiyagoda, a taxonomist and researcher who had also been senior state of
 
 [Data](articles/5a4eec4a.json)
 
+[Extended Data](ext_articles/5a4eec4a.ext.json)
+
 ---
 
 ### Image to the debate
@@ -1597,6 +1635,8 @@ Starlink is a low earth orbit satellite network, connected to Musk’s SpaceX gr
 ◼️
 
 [Data](articles/5d6b20b8.json)
+
+[Extended Data](ext_articles/5d6b20b8.ext.json)
 
 ---
 

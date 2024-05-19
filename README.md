@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 20:33:43**
+As of **2024-05-19 20:51:47**
 
 ## Newspaper Stats
 
-*Scraped **25,029** Articles*
+*Scraped **25,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,140
 adaderanalk | 2,898
-tamilmirrorlk | 2,933
+tamilmirrorlk | 2,935
 virakesarilk | 3,782
-dailymirrorlk | 3,924
-adaderanasinhalalk | 4,002
+dailymirrorlk | 3,925
+adaderanasinhalalk | 4,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,027 (100.0%) of 25,029 articles have been extended.
+25,029 (100.0%) of 25,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### පුත්තලමේ පාසල් හෙට වැසෙයි
+
+*2024-05-19 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196797) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුත්තලම දිස්ත්‍රික්කයේ සියලුම පාසල්  හෙට (20) දිනයේ වසාතැබීමට වයඹ පළාත්  ආණ්ඩුකාරවරයා තීරණය කර ඇත.
+
+හෙට දිනයේ කාලගුණ තත්ත්වය අනුව ඉදිරි දින පිළිබඳ තීරණය කර බව ඔහු දැනුම්දෙයි.
+
+වයඹ පළාත් ප්‍රධාන ලේකම් විසින් මේ පිළිබඳව පළාත් අධ්‍යාපන අධ්‍යක්ෂතුමිය දැනුවත් කර ඇත.
+
+◼️
+
+[Data](articles/fcadbe7e.json)
+
+---
+
+### புத்தளம் பாடசாலைகளுக்கு நாளை பூட்டு
+
+*2024-05-19 20:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-பாடசாலைகளுக்கு-நாளை-பூட்டு/175-337545) · `ta`
+
+புத்தளம் மாவட்டத்தின் அனைத்து பாடசாலைகளுக்கும் நாளை (20) விசேட விடுமுறை வழங்கப்பட்டுள்ளதாக வடமேல் ஆளுநர் அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/488f9636.json)
+
+---
+
+### Sri Lanka cricketer to retire after World Cup & migrate to Melbourne
+
+*2024-05-19 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cricketer-to-retire-after-World-Cup-migrate-to-Melbourne/108-282919) · `en`
+
+Colombo, May 19 (Daily Mirror) - One of Sri Lanka's senior cricketers looks set to retire from white ball cricket at the end of T20 World Cup 2024 in USA and West Indies, Daily Mirror reliably learns.
+
+The former captain of all three formats is expected to migrate to Melbourne, Australia at the conclusion of World Cup.
+
+Daily Mirror understands that the star all-rounder has already bought a few houses in Melbourne as he looks to settle down under with his young family.
+
+◼️
+
+[Data](articles/fdb64448.json)
+
+---
 
 ### AKD says debate with Sajith is off if no confirmation before deadline
 
@@ -45,6 +89,8 @@ Speaking further during the event, Dissanayake said that since the deadline give
 ...
 
 [Data](articles/b4743812.json)
+
+[Extended Data](ext_articles/b4743812.ext.json)
 
 ---
 
@@ -67,6 +113,26 @@ However, the President and the group have not been involved in a accident.
 [Data](articles/e3f78c8a.json)
 
 [Extended Data](ext_articles/e3f78c8a.ext.json)
+
+---
+
+### ஈரான் தூதுவரைத் தாக்கிய தொழிலதிபர் கைது
+
+*2024-05-19 19:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-தூதுவரைத்-தாக்கிய-தொழிலதிபர்-கைது/175-337543) · `ta`
+
+நேற்று மாலை கொழும்பு சிட்டி சென்டரில் (சிசிசி) கார் பார்க்கிங்கில் ஈரானிய தூதுவர் கலாநிதி அலிரேசா டெல்கோஷ் மீது தாக்குதல் நடத்தப்பட்டதாகக் கூறப்படும் வழக்கில் கொழும்பு 7 ஐச் சேர்ந்த வர்த்தகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பு 07, வார்ட் பிளேஸில் வசிக்கும் புவனேக மஹாசென் பஸ்நாயக்க (வயது 36) என்ற சந்தேகநபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பு சிட்டி சென்டர் வாகன தரிப்பிடத்தில் தனது வாகனத்தை நிறுத்த முற்பட்ட தூதுவருடன் ஏற்பட்ட வாக்குவாதத்தின் பின்னர் வர்த்தகர் தூதுவரை தாக்கிவிட்டு தப்பிச் செல்ல முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+
+அதன் பின்னர், தூதுவர் தனது வாகனத்தில் இருந்து இறங்கி, பொலிஸார் வரும் வரை காத்திருக்குமாறு சாரதிக்கு கூறியதுடன், அவரின் காரின் முன்புறத்தில் கையை வைத்து அழுத்தி வர்த்தகர் தப்பிச் செல்வதை தவிர்க்குமுகமாக ​​செயற்பட்டுள்ளார்.
+
+அவரை நாளை (20) வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெகுனாவல உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e8b96325.json)
 
 ---
 
@@ -628,15 +694,21 @@ Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayaga
 
 ---
 
-### முள்ளிவாய்க்கால் நினைவேந்தல் பல வெளிகளை திறந்துவிடுமா?
+### Will Mullivaikkal Memorial Open many spaces?
 
 *2024-05-19 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183961) · `ta`
 
-கஞ்சி வழங்கும் நிகழ்வின்போது வட மாகாணத்தில் குழப்பங்கள்  எதுவும் இடம்பெறவில்லை. வட மாகாண நீதிமன்றங்களும் தடை உத்தரவு எவற்றையும் பிறப்பிக்கவில்லை. ஆனால் கிழக்கு மாகாணத்தில் பொலிஸார்  நிகழ்வை குழப்புவதிலேயே அக்கறையாக இருந்தனர்.
+The Will Mullivaikkal Memorial event is peaceful in the North, with no legal issues. However, confusion surrounds its Eastern counterpart due to police concerns.
+
+🟩
+
+There is no chaos in the Northern Province during the porridge delivery event. Northern Provincial Courts have not issued any injunction. But in the Eastern Province, the police were concerned about the confusion of the event.
 
 ◼️
 
 [Data](articles/e2ef3f51.json)
+
+[Extended Data](ext_articles/e2ef3f51.ext.json)
 
 ---
 
@@ -2115,93 +2187,5 @@ The cyclist was killed after admission to the Panadura Base Hospital and the bou
 [Data](articles/db3d0a06.json)
 
 [Extended Data](ext_articles/db3d0a06.ext.json)
-
----
-
-### Presidential Elections in October - PA
-
-*2024-05-19 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183926) · `ta`
-
-The Sri Lanka PA is focusing on the October presidential election, with President Ranil Wickremesinghe set to run as a common candidate under a broad coalition. There's speculation about early parliamentary elections and concerns over dissolving Parliament, affecting IMF agreements. The presidential election is confirmed for October 5, with a referendum on September 16. Support for Wickremesinghe is growing within the PA, including from its parliamentary committee and local councils, backed by Basil Rajapakse's suggestion. Negotiations are ongoing with various parties, highlighting Wickremesinghe's leadership in a new political alliance led by Anura Priyadarshana Yapa.
-
-🟩
-
-The government has paid attention to the presidential election in the first week of October. Meanwhile, negotiations have been launched within the Sri Lanka PA to support President Ranil Wickremesinghe.. The high -level information of the government confirms that President Ranil has decided to contest the election as a common candidate, especially under the widespread coalition.
-
-Various reports were shared that parliamentary elections would be held before the presidential election. It was also stated that the Parliament would be dissolved in May. Responding to this information, the Sri Lanka PA had questioned how the country's economic activities would be carried out with the IMF if parliament was dissolved.
-
-In such a situation, a government chief informed the presidential election date. Accordingly, he said that the presidential election was held in the first week of October and that the election would be held on October 5.
-
-...
-
-[Data](articles/664d6ccf.json)
-
-[Extended Data](ext_articles/664d6ccf.ext.json)
-
----
-
-### Another scholarship for U/The Students
-
-*2024-05-19 10:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவர்களுக்கு-மற்றுமொரு-புலமைப்பரிசில்/175-337500) · `ta`
-
-The Presidential Fund and Sri Lanka Telecommunication Regulatory Commission plan to award 5000 scholarships to students passing the 2022/2023 GCE O/L and 2024/2025 GCE A/L exams. The Ministry of Education states that eligible applicants are students from public schools in lower-income families (earning less than Rs. 100,000) interested in ICT studies. Applications close on May 22, with at least 50 scholarships per educational zone available.
-
-🟩
-
-The Presidential Fund and the Sri Lanka Telecommunication Regulatory Commission planned to provide 5000 scholarships to students who have passed the GCE Ordinary Level Examination for 2022/2023 and the 2024/2025 GCE Advanced Level Examination.
-
-The Ministry of Education has said that the scholarship of Rs.
-
-Students of higher education in the public school, with families of families who are less than Rs 100,000, can apply for the school of information and communication technology until May 22, and at least 50 from each of each educational zones.
-
-◼️
-
-[Data](articles/ef7ba28f.json)
-
-[Extended Data](ext_articles/ef7ba28f.ext.json)
-
----
-
-### Suraksha
-
-*2024-05-19 10:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுரக்ஷா-மீண்டும்-ஆரம்பம்/175-337499) · `ta`
-
-Ranil Wickremesinghe resumes "Suraksha" student insurance, benefiting all schoolchildren nationwide from June 1st, following Cabinet approval.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to resume "Suraksha" student insurance, which has been temporarily suspended due to the economic crisis.
-
-Accordingly, all schoolchildren across the country can benefit from this insurance from the first week of June.
-
-In this regard, the Cabinet has recently granted permission to the Joint Cabinet paper presented by the Minister of Finance, Economic positioning and National Policy Minister, President Ranil Wickremesinghe and Education Minister Dr. Susil Premajayantha.
-
-◼️
-
-[Data](articles/c2f42dc0.json)
-
-[Extended Data](ext_articles/c2f42dc0.ext.json)
-
----
-
-### Priority announcements are issued to the 13 Rivers and Oya areas
-
-*2024-05-19 10:05:50* · [`adalk`](https://www.ada.lk/breaking_news/ගංගා-හා-ඔයවල්-13-ක්-ආශ්‍රිත-ප්‍රදේශවලට-පූර්ව-ගංවතුර-නිවේදන-නිකුත්-කෙරේ/11-409714) · `si`
-
-Flood warnings have been issued for the 13 Rivers and Oya areas due to heavy rainfall exceeding 100mm, potentially leading to flooding in rivers and waterlogging conditions. The Department of Irrigation has already warned about this possibility. Additionally, there's a high risk of urban flooding in cities associated with these regions due to intense rainfall conditions, requiring immediate attention from disaster management agencies and the public.
-
-🟩
-
-කාළගුණ දෙපාර්තමේන්තුව මගින් නිකුත් කරන ලද කාළගුණික අනතුරු ඇඟවීමේ නිවේදන  හා ජාත්‍යන්තර කාළගුණික ආයතනවල තොරතුරු අනුව ඉදිරි දිනවලදී දිවයිනේ බස්නාහිර ,සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතිවිය හැකි  මිලි මීටර් 100 කට  අධික වර්ෂාවත් සමග එම ප්‍රදේශ ආශ්‍රිත ගංගා ද්‍රෝණි ආශ්‍රිතව ගංවතුර තත්වයන් ඇතිවීම පිළිබඳව    වාරි මාර්ග දෙපාර්තමේන්තුව මගින් පූර්ව ගංවතුර ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
-
-Deduru Oya, Maha Oya, Kotaka, Attaka Oya, Box Oya, Kotawalu Oya and Kelani, Kotawalu Oya FavoriteThe Department of Irrigation says that flooding can occur.
-
-ඊට අමතරව මේ ප්‍රදේශවල නගර ආශ්‍රිතව ඇතිවිය හැකි අධික තීව්‍රතාවයක් සහිත වර්ෂාපතන තත්වයන් සමග නගරාශ්‍රිතව ක්ෂණික ගංවතුර තත්වයන් ඇතිවීමේ අවධානමද අධික බැවින් ඒ සම්බන්ධයෙන් ආපදා කලමනාකරණ  අංශවල සහ මහජනතාවගේ අවධානය යොමුවිය යුතු බවද වාරිමාර්ග අධ්‍යක්ෂ ඉංජිනේරු එස්.පී.සී.සුගීෂ්වර (ජල විද්‍යා හා ආපදා කළමනාකරණ )මහතා පැවසීය .
-
-◼️
-
-[Data](articles/7f657fb0.json)
-
-[Extended Data](ext_articles/7f657fb0.ext.json)
 
 ---

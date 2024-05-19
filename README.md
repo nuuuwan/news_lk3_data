@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 14:33:52**
+As of **2024-05-19 14:52:20**
 
 ## Newspaper Stats
 
-*Scraped **24,966** Articles*
+*Scraped **24,971** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 223
 bbccomsinhala | 253
-dbsjeyarajcom | 254
+dbsjeyarajcom | 255
 newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,133
+adalk | 2,135
 adaderanalk | 2,890
 tamilmirrorlk | 2,930
 virakesarilk | 3,762
-dailymirrorlk | 3,914
-adaderanasinhalalk | 3,992
+dailymirrorlk | 3,915
+adaderanasinhalalk | 3,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,966 (100.0%) of 24,966 articles have been extended.
+24,966 (100.0%) of 24,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### BOI concerned over proposed Economic Transformation Act
+
+*2024-05-19 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BOI-concerned-over-proposed-Economic-Transformation-Act/108-282895) · `en`
+
+Colombo, May 19 -  The Sri Lanka All Union Alliance of the Board of Investment (BOI) has issued a stark warning against the proposed Economic Transformation Act, set to be submitted to Parliament on May 22.
+
+The alliance cautions that the Act will severely destabilize the investment sector, which is already grappling with economic challenges.
+
+According to the coalition, the Act caters to a select few individuals without consulting field experts or investors. This could prompt the departure of existing investors, further jeopardizing the sector.
+
+The alliance calls for a transparent revision of the Act, involving affected parties and economic experts.
+
+While proponents claim the act will drive significant economic transformation, the alliance argues that its true aim is to secure financial gains by transferring 15 profitable investment zones under BOI control to private associates before upcoming elections.
+
+...
+
+[Data](articles/50f98716.json)
+
+---
+
+### පොලීසියට ලැබුණු ඔත්තුවෙන් කොටුකර ගත් හරක් හොරු
+
+*2024-05-19 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196786) · `si`
+
+මාස ගණනාවක සිට සංවිධානාත්මකව ගව සොරකමේ නිරත වූ හිටපු යුද හමුදා සෙබළෙකු ඇතුළු හත්දෙනෙක් මත්ද්‍රව්‍ය සහ තියුණු ආයුධ සමඟින් අත්අඩංගුවට ගැනීමට පිළියන්දල පොලිස් අපරාධ විමර්ශන අංශය සමත් වී තිබේ.
+
+එම කණ්ඩායම මෙම වසරේ ගතවූ මාස 05ක කාලය තුළ දිවයිනේ ප්‍රදේශ කිහිපයකින් ගවයින් 50 දෙනෙකු පමණ සොරාගෙන ඇති බවට තොරතුරු අනාවරණ වී ඇත.
+
+ගව සොරකමේ නිරත වෑන් රථයක් පිළියන්දල ප්‍රදේශයේ සැරිසරන බවට පොලිස් කොස්තාපල්වරයෙකුට ලද තොරතුරක් මත පිළියන්දල පොලීසියේ අපරාධ විමර්ශන අංශය විශේෂ මෙහෙයුමක් ක්‍රියාත්මක කර තිබුණි.
+
+ඒ අනුව පොලිස් නිලධාරින් මොරටුව මාර්ගයේ දෙණිය ප්‍රදේශයේදී යතුරුපැදි යොදා මාර්ගය හරස්කර සැක කටයුතු වෑන් රථයක් නැවැත්වීමට කටයුතු කර තිබුණි.
+
+එහිදි එම සැකකටයුතු වෑන් රථයේ තිබී ජීව අත්බෝම්බ 02ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 15ක ප්‍රමාණයක්, ගව ඝාතනයට යොදාගන්නා කඩු දෙකක්, මන්නා පිහියක්, මුගුරක් සහ ලණු සොයාගත් බව පොලීසිය පවසයි.
+
+ඒ අනුව අදාළ වාහනයේ සීටි සැකකරුවන් 05 දෙනා පොලිසිය සිය අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/df6640e5.json)
+
+---
+
+### ලංගම රියදුරා ගේ සිරුර කැලෑවක තිබී හමුවෙයි
+
+*2024-05-19 13:43:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-රියදුරා-ගේ-සිරුර-කැලෑවක-තිබී-හමුවෙයි/11-409720) · `si`
+
+නිකවැරටිය  කන්දේගෙදර  ,රක්ෂිතය ආසන්නයේ පිහිටි කැලෑ සහිත  ඉඩමක  තිබී  පිරිමි පුද්ගලයෙකු  ගේ මළ සිරුරක්  හමුවූ බව නිකවැරටිය  මූලස්ථාන පොලීසිය පවසයි .
+
+මෙසේ මිය ගොස් සිටියේ නිකවැරටිය  , හුලුගල්ල  ලිපිනයේ  පදිංචි  ඩබ් .එම්.රුවන් චතුරික (45 ) නැමති ශ්‍රී ලංගම රියදුරෙකු වන දෙදරු පියෙකු බවට  හඳුනා ගෙන ඇති බවද පොලීසිය සඳහන් කරයි .
+
+මරණ කරුගේ බිරිඳ  විදෙස් ගතව   ,දරුවන්ද පිට පලාතක අධ්‍යාපනය ලබමින් සිටින අතර ,මොහු  තනිව ජීවත්ව  ඇති බවද ,  වැඩිදුර පරීක්ෂණ වලදී අනාවරණය වී ඇති බවද පොලීසිය සඳහන් කරයි .
+
+නිකවැරටිය කොට්ඨාශ හදිසි මරණ පරීක්ෂක රංජිත් ධර්මසිරි මහතා  සිද්ධිය වූ ස්ථානයට ගොස්  ස්ථාන පරීක්ෂාවක් සිදු කර ,හදිසි මරණ පරීක්ෂණය සඳහා සිරුර නිකවැරටිය මූලික රෝහල  වෙත. රැගෙන යන ලෙස  පොලීසියට නියෝග  කලේය.
+
+ඒ අනුව සිරුර පිළිබඳව හදිසි මරණ පරීක්ෂණය නිකවැරටිය මූලික රෝහලේදී   ,හදිසි මරණ පරීක්ෂක රංජිත් ධර්මසිරි මහතා ඉදිරියේ  අද(19දා) සිදු කිරීමට නියමිතව  ඇති අතර  නිකවැරටිය මූලස්ථාන පොලීසියේ පො.සැ.අසංක නිලධාරීයා  විසින්   සාක්ෂි මෙහෙය වීමට  නියමිතව තිබුණි .
+
+...
+
+[Data](articles/a1493e1d.json)
+
+---
 
 ### Family killed in Maldenation
 
@@ -719,6 +781,26 @@ In the Russia -Ukraine conflict, it has been reported that not only former soldi
 [Data](articles/9a374491.json)
 
 [Extended Data](ext_articles/9a374491.ext.json)
+
+---
+
+### ගොතටුව නව තෙත් බිම් උද්‍යානයේ සංවර්ධන කටයුතු ඇරඹේ
+
+*2024-05-19 10:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ගොතටුව-නව-තෙත්-බිම්-උද්‍යානයේ-සංවර්ධන-කටයුතු-ඇරඹේ/11-409715) · `si`
+
+තෙත් බිම් පිළිබඳව අධ්‍යනය ලබා දීම සඳහා විශේෂ අධ්‍යයන මධ්‍යස්ථානයක්....
+
+තෙත් බිම් සහ පහත් බිම් සංවර්ධනය කිරීම සඳහා තවත් ව්‍යාපෘති රැසක්....
+
+ගොතටුව නව තෙත් බිම් උද්‍යානයේ සංවර්ධන කටයුතු ඇරඹේ. කොළඹ දිස්ත්‍රික්කය තුළ හදුනාගත් තෙත් බිම් සංවර්ධනය කිරීම වැඩසටහන යටතේ ගොතටුව තෙත් බිමද සංවර්ධනය කිරීමට ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ අවධානය යොමුව ඇත.
+
+මේ වන විට දියසරු, බැද්දගාන, කෝට්ටේ කොටු බැම්ම යන නාගරික තෙත් බිම් සංවර්ධනය කර මහජනයා වෙත විවෘතව පවතී.
+
+පරිසර සමතුලිතතාවය පවත්වාගෙන යෑම, කාර්යබහුල නගරයක් තුළ මහජනතාවගේ මානසික සුවතාවය පවත්වාගෙන යාම, ගංවතුර අවස්ථාවන් වලදී ජලය රදවා තබාගැනීම ආදී වටිනාකම් හදුනාගනිමින් තෙත් බිම් අනවසරයෙන් අල්ලා ගැනීම වළක්වාලමින්  ගොතටුව තෙත් බිම් උද්‍යානය ඉදිකරයි.
+
+...
+
+[Data](articles/4813a0e9.json)
 
 ---
 
@@ -1820,6 +1902,24 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 
 ---
 
+### Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.
+
+*2024-05-19 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84062) · `en`
+
+It’s high time Diana Gamage took a hard look at herself in the mirror!
+
+When the Supreme Court ruled in favour of petitioner Oshala Herath, that Diana Gamage is not a citizen of Sri Lanka, she told a media conference that she does not accept the ruling. She also went on to say that the ruling wronged all Sri Lankan women.
+
+Her foray into parliament was through the Samagi Jana Balawegaya as one of their national list candidates. But she lost no time in switching loyalities, when she broke ranks to vote in favour of then President Gotabaya Rajapaksa’s 20th amendment to the Constitution.
+
+Since then she has been at logger heads with the SJB, never losing an opportunity to browbeat their members during parliamentary debates. Despite switching party loyalties, Gotabaya did not return the favour, but current president Ranil Wikcremasinghe did, when he appointed her State Minister for Tourism.
+
+...
+
+[Data](articles/60938b14.json)
+
+---
+
 ### 2024-05-18 (Saturday)
 
 ### Sri Lanka - Indian shipping service has been delayed indefinitely
@@ -2213,113 +2313,5 @@ Gurudev Sri Sri Ravi Shankar is an Indian yoga guru and a spiritual leader popul
 [Data](articles/67f5961d.json)
 
 [Extended Data](ext_articles/67f5961d.ext.json)
-
----
-
-### Colombo Air Show reschedule for next year
-
-*2024-05-18 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Air-Show-reschedule-for-next-year/108-282883) · `en`
-
-The Colombo Air Show and Defence Exhibition (CADE 2024) which was scheduled to be held from May 29 to June 2 at the Galle Face and Colombo Port City, has been postponed to next year, the Sri Lanka Air Force (SLAF) said.
-
-The CADE, organized by the Sri Lanka Air Force, was rescheduled owing to the multiple requests from international partners and defence industry stakeholders, as well as foreign Air Forces to accommodate greater opportunities for their participation and provide a diverse experience to the spectators.
-
-The SLAF said that the event will be held from 26 February to 02 March 2025, aligning with the 74th anniversary of the Sri Lanka Air Force.
-
-◼️
-
-[Data](articles/c047618b.json)
-
-[Extended Data](ext_articles/c047618b.ext.json)
-
----
-
-### 26 injured as two buses collide head-on at Kottapola
-
-*2024-05-18 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99303/26-injured-as-two-buses-collide-head-on-at-kottapola) · `en`
-
-At least 26 persons have been injured and hospitalised following a head-on collision involving two private buses in the Kottapola area on the Kegalle – Avissawella main road this evening (18).
-
-Hospital sources said that 02 out of the 26 hospitalised individuals are in critical condition.
-
-Police suspect that the accident was caused due to reckless driving by the driver of the speeding private bus travelling from Kandy to Avissawella.
-
-◼️
-
-[Data](articles/03d9fdc2.json)
-
-[Extended Data](ext_articles/03d9fdc2.ext.json)
-
----
-
-### Two buses collide face to face
-
-*2024-05-18 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196763) · `si`
-
-In a collision between two private buses in Kegalle, 26 people were injured, including two critically. The incident, suspected to be caused by excessive speed, occurred around 4 PM on 18th. Victims were taken to Kegalle General Hospital and Pandanagahapitiya Rural Hospital.
-
-🟩
-
-Two private buses were confronting two private buses in the Kottepola area in Kegalle.
-
-26 people were injured in the accident and two of them were seriously critical.
-
-According to our correspondent about 4:00 pm today (18).
-
-Police suspect that the accident had occurred due to the high speed of the private bus heading from Kandy to Avissawella due to the extreme speed of the private bus.
-
-Pinadeniya Police say that the injured were admitted to the Kegalle General Hospital and Pandanagahapitiya Rural Hospital
-
-One of the buses of a bus is committed by a serious condition and the other patient is a woman.
-
-◼️
-
-[Data](articles/e779a5a8.json)
-
-[Extended Data](ext_articles/e779a5a8.ext.json)
-
----
-
-### Nevertheless, in England, it is not in Sri Lanka
-
-*2024-05-18 18:40:35* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තෙ-එහෙම-වුණත්-ලංකාවේ-එහෙම-නෙමෙයි/11-409705) · `si`
-
-Dr. Ramesh Pathirana, Sri Lanka's Minister of Health, admired England's healthcare system during his visit, highlighting its advanced facilities and successful surgeries. He expressed interest in replicating such successes in Sri Lanka's healthcare sector.
-
-🟩
-
-Minister of Health Dr. Ramesh Pathirana show that he loved the health service in England to Sri Lanka's health care.
-
-Ramesh said he was looking to a success of the surgery that he had come to see in England, who came to meet with the surgeon that he had to do with him in England.
-
-Mr. Ramesh said he was the case in the queue of the favor and the felt the pocket of the felt the pocket was successfully carried out.
-
-"මේවා මම ප්‍රසිද්ධ වේදීකාවේ කිව්වාම සමාජ මාධය ජාලාවලින් මට හොදටම දෙසන බව මම දන්නවා. But that is the truth.There is a very high level of healthcare with amenities in the world. "
-
-◼️
-
-[Data](articles/27b666cb.json)
-
-[Extended Data](ext_articles/27b666cb.ext.json)
-
----
-
-### Falls closed again
-
-*2024-05-18 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196762) · `si`
-
-Ella-Wellawaya road reopens from 6th to 6th tomorrow due to weather.
-
-🟩
-
-The Ella-Wellawaya main road has been restored today to 6th to 6th tomorrow (19).
-
-The decision has been taken due to inclement weather conditions.
-
-◼️
-
-[Data](articles/698aec64.json)
-
-[Extended Data](ext_articles/698aec64.ext.json)
 
 ---

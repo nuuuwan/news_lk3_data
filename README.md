@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 09:52:56**
+As of **2024-05-19 10:04:07**
 
 ## Newspaper Stats
 
-*Scraped **24,910** Articles*
+*Scraped **24,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
-adalk | 2,125
+adalk | 2,126
 adaderanalk | 2,884
-tamilmirrorlk | 2,918
+tamilmirrorlk | 2,919
 virakesarilk | 3,752
 dailymirrorlk | 3,907
 adaderanasinhalalk | 3,982
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,910 (100.0%) of 24,910 articles have been extended.
+24,910 (100.0%) of 24,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### மணலை  உறிஞ்சும் சாண்டர் சிக்கியது
+
+*2024-05-19 09:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மணலை-உறிஞ்சும்-சாண்டர்-சிக்கியது/76-337494) · `ta`
+
+இரத்தினக் கற்கள் சேகரிப்பதற்காக கெசல்கமுவ ஓயாவின் கரையிலும், ஓயாவின் அடிவாரத்திலும் பொருத்தப்பட்டிருந்த மணல் அள்ளும் இயந்திரத்தை பொலிஸார் கைப்பற்றியதையடுத்து, இரத்தினக் கற்கள் அகழ்வில் ஈடுபட்டிருந்தோர் தப்பியோடியுள்ளனர்
+
+பொகவந்தலாவ மஹாஎலிய  காட்டில் இருந்து காசல்ரீ நீர்த்தேக்கத்திற்கு பிரதானமாக நீர் பாயும் கெசல்கமுவ ஓயாவில் சட்டவிரோதமான முறையில் இரத்தினக்கற்கள் எடுப்பதற்காக கெசல்கமுவ ஓயாவில் பொருத்தப்பட்டிருந்த சாண்டர் இயந்திரத்தை சனிக்கிழமை (18) இரவு பொகவந்தலாவை பொலிஸார் கைப்பற்றினர்.
+
+கெசல்கமுவ ஓயாவில் சாண்டர் இயந்திரங்களை பாவித்து பாரிய சுற்றாடல் சேதம் விளைவிப்பதாக ஹட்டன் பிரிவுக்கு பொறுப்பான பொலிஸ் அத்தியட்சகருக்கு கிடைத்த தகவலின் பேரில்   சுற்றிவளைப்பு மேற்கொள்ளப்பட்டு இயந்திரம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+பொகவந்தலாவை பொலிஸ் உத்தியோகத்தர்கள் சுற்றிவளைப்பை மேற்கொண்ட போது, ​​கடத்தல்காரர்கள் அங்கிருந்து தப்பிச் சென்றதுடன், இயந்திரத்தை இயக்குவதற்காக கொண்டுவரப்பட்ட ஜூஸர் இயந்திரம் மற்றும் 40 லீற்றர் டீசல் ஆகியவற்றை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+...
+
+[Data](articles/5953d84e.json)
+
+---
 
 ### Where the UUPAN was placed
 
@@ -231,6 +249,24 @@ The promotion has been made to members of all regiments, which have been affecte
 [Data](articles/a5b9252e.json)
 
 [Extended Data](ext_articles/a5b9252e.ext.json)
+
+---
+
+### පළමුව අනිවාර්යයෙන්ම තියෙන්නේ ජනපතිවරණයයි
+
+*2024-05-19 07:19:43* · [`adalk`](https://www.ada.lk/breaking_news/පළමුව-අනිවාර්යයෙන්ම-තියෙන්නේ-ජනපතිවරණයයි/11-409708) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනාධිපති දිඹුලාගල රාහුලාලංකාර නාහිමියන් බැහැදක පැයකට අධික කාලයක් රටේ දේශපාලන තත්ත්වය සහ දිඹුලාගල ආරණ්‍ය සේනාසනයේ වත්මන් තත්ත්වය පිළිබඳව 18 වෙනිදා සවස සාකච්ඡාවක නිරත වූහ.
+
+ඉදිරියේදී අනිවාර්යෙන්ම පළමුව පැවැත්වෙන්නේ ජනාධිපතිවරණයක් බවත්, කුමන පක්ෂ වටා ජනතාව පෙළ ගැසුනද රටේ ජනතාව රටට අවශ්‍ය පාලකයා හා ජනාධිපතිවරයා තීරණය කරනු ලබන්නේ මැතිවරණය අවසන් මොහොතේදී බව තමා අත්දැකීමෙන් දන්නා බවද, මෛත්‍රිපාල සිරිසේන මහතා මෙහිදී සඳහන් කළේය.
+
+නියමිත කාලයට පෙර තමා ජනාධිපතිධුරයෙන් ඉවත් නොවූයේ නම් පොළොන්නරු දිස්ත්‍රික්කයේ වර්තමානයේ අතරමග නතර වී තිබෙන, සංවර්ධන වැඩ කොටස් නිමා කිරීමට හැකියාව පවතින බවත්, ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනය වෙනුවෙන් යම් සංවර්ධන වැඩපිළිවෙළක් සිදු කිරීමට ඉතිරිව ඇත්නම් ඒ සඳහා ඕනෑම සහයෝගයක් ලබාදෙන බවද සිරිසේන මහතා මෙහිදී නාහිමියන් සමඟ සඳහන් කළහ.
+
+තම පාලන සමයේ පොළොන්නරුව දිස්ත්‍රික්කයෙන් පිරිවෙන් ශාලා පහළොවක් ඉදිකිරූ බවත්, ඉන් දිඹුලාගල ආරණ්‍ය සේනාසනය ඉදිකරන ලද පිරිවෙනට ප්‍රමුඛස්ථානය ලබා දුන් බවද සිරිසේන මහතා මෙහිදී සඳහන් කළේය.
+
+...
+
+[Data](articles/d5179d43.json)
 
 ---
 
@@ -2303,43 +2339,5 @@ There has been no change in the 15 years after the genocide. There has been no c
 [Data](articles/efdf299a.json)
 
 [Extended Data](ext_articles/efdf299a.ext.json)
-
----
-
-### Sri Lanka’s CEB sells LTL shares to West Coast IPP for Rs26bn
-
-*2024-05-18 10:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-sells-ltl-shares-to-west-coast-ipp-for-rs26bn-163531/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has sold shares of an affiliate to West Coast Power Company Limited, an independent power producer giving profits of 25.9 billion rupees in the March 2024 quarter, interim accounts showed.
-
-“Twenty-eight percent (28-pct) of share ownership of CEB within LTL Holding’s equity capital has been transferred to West Coast Power Company Ltd for a total consideration of Rs 26 billion as part of a partial settlement of outstanding dues…” the March interim accounts said.
-
-“This transaction resulted in a net gain of Rs25.9 billion rupees which has been recognized and reflected in the ‘Gain from Share Disposal’ in the individual financial statement in CEB.”
-
-LTL Holdings is a former transformer making unit of the CEB set up with ABB where the foreign holding was sold to its management.
-
-...
-
-[Data](articles/cef1c957.json)
-
-[Extended Data](ext_articles/cef1c957.ext.json)
-
----
-
-### US reiterate steadfast commitment to Sri Lankans seeking justice, equal rights
-
-*2024-05-18 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99293/us-reiterate-steadfast-commitment-to-sri-lankans-seeking-justice-equal-rights) · `en`
-
-The United States assures that it stands in solidarity with all Sri Lankans, reflecting on the resilience and hope for a united future, on the anniversary marking 15 years since the end of Sri Lanka’s war.
-
-Posting on ‘X’ (formerly Twitter), the US Ambassador to Sri Lanka Julie Chung expressed that the US remains a steadfast partner to the Sri Lankan people, including those who continue seeking justice, equal rights, and access to opportunities.
-
-The US Ambassador further reaffirmed their commitment to support Sri Lanka’s journey toward a prosperous and inclusive future that embraces its diversity for sustainable peace and progress.
-
-◼️
-
-[Data](articles/8dc56b0c.json)
-
-[Extended Data](ext_articles/8dc56b0c.ext.json)
 
 ---

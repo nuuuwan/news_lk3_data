@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 00:33:38**
+As of **2024-05-20 00:48:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,056 (100.0%) of 25,062 articles have been extended.
+25,061 (100.0%) of 25,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ People all around the world are calling for Toomaj’s release. In Iran,  he’
 
 [Data](articles/8b4ddb04.json)
 
+[Extended Data](ext_articles/8b4ddb04.ext.json)
+
 ---
 
 ### Govt. should learn from Civil Society Organisations in commemorating dear departed
@@ -61,6 +63,8 @@ The National Peace Council appreciates the leadership role played by the Dharmas
 ...
 
 [Data](articles/f768bf1f.json)
+
+[Extended Data](ext_articles/f768bf1f.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ From the early 1970s our country has faced three armed uprisings -the Janatha Vi
 
 [Data](articles/6c39c4bb.json)
 
+[Extended Data](ext_articles/6c39c4bb.ext.json)
+
 ---
 
 ### IMF programme: The lender is the winner
@@ -91,6 +97,8 @@ The world is collapsing for our working people, with the tremendous rise in the 
 ...
 
 [Data](articles/ecad00ed.json)
+
+[Extended Data](ext_articles/ecad00ed.ext.json)
 
 ---
 
@@ -137,6 +145,8 @@ To change something, first you have to understand it. But unless you fully under
 ...
 
 [Data](articles/a7ccd43a.json)
+
+[Extended Data](ext_articles/a7ccd43a.ext.json)
 
 ---
 

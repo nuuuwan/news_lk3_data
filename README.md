@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 19:33:48**
+As of **2024-05-19 19:51:19**
 
 ## Newspaper Stats
 
-*Scraped **25,005** Articles*
+*Scraped **25,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,139
+adalk | 2,140
 adaderanalk | 2,896
 tamilmirrorlk | 2,933
 virakesarilk | 3,764
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,004 (100.0%) of 25,005 articles have been extended.
+25,005 (100.0%) of 25,006 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,26 @@ Former President Vo Van Thuong resigned in March after a little over a year in t
 ...
 
 [Data](articles/fb7edd6e.json)
+
+[Extended Data](ext_articles/fb7edd6e.ext.json)
+
+---
+
+### සජිත් අනුර විවාදයට සජබෙන් දින දෙයි
+
+*2024-05-19 19:02:24* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදයට-සජබෙන්-දින-දෙයි/11-409722) · `si`
+
+සමගි ජන බලවේගයේ නායක ,විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාත්  ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාත් අතර පැවැත්වීමට නියමිත විවාදය සඳහා සමගි ජන බලවේගය දින කීපයක් අද (19)යෝජනා කරමින් ජාතික ජන බලවේගයට ඒ පිළිබඳව ලිඛිත දැනුම් දීමක් කර තිබේ.
+
+ඒ අනුව ආර්ථික කමිටු අතර විවාදය 2024 මැයි මස 27 -31  අතර දිනයකදිද, පක්ෂ නායකයින් දෙදෙනා අතර විවාදය 2024 ජුනි මස 03 -- 07 අතර දිනවලදිද පැවැත්විය හැකි බව සමගි ජන බලවේගය දැනුම් දි තිබේ.
+
+සමගි ජන බලවේගයෙන් මෙහෙයුම් ප්‍රධානී පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා ජාතික ජන බලවේගයේ ජාතික විධායක සභික නලින්ද ජයතිස්ස මහතා වෙත  මෙම ලිපිය යොමු කර තිබේ.
+
+මේ අතර ජාතික ජන බලවේගය  විසින් සමගි ජන බලවේගයට ඒ සදහා ලබා දී තිබූ දින හෙට දිනයෙන් අවසන් වීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/60d04725.json)
 
 ---
 
@@ -2269,25 +2289,5 @@ The educational educational revenues to apply the monthly income of the A / L st
 [Data](articles/306ca208.json)
 
 [Extended Data](ext_articles/306ca208.ext.json)
-
----
-
-### Mullivaikkal Memorial Day Based on Mullivaikkal
-
-*2024-05-19 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183921) · `ta`
-
-Senator Cardin expresses concern over arrests related to Mullivaikkal Day, a commemoration of Tamil disappearances during Sri Lanka's civil war. He urges the Sri Lankan government to facilitate these arrests to honor the victims' memories.
-
-🟩
-
-US Senate's Foreign Committee Chairman Senater Cardin says that he is worried about the arrests based on Mullivaikkal Day, which commemorates thousands of Tamils ​​who have been forcibly disappeared during Sri Lanka's ruthless civil war.
-
-He has appealed to the Sri Lankan government to allow the arrests to carry out the memories.
-
-◼️
-
-[Data](articles/755055e0.json)
-
-[Extended Data](ext_articles/755055e0.ext.json)
 
 ---

@@ -1,50 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 11:34:00**
+As of **2024-05-19 11:53:11**
 
 ## Newspaper Stats
 
-*Scraped **24,931** Articles*
+*Scraped **24,937** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 223
 bbccomsinhala | 253
-dbsjeyarajcom | 253
+dbsjeyarajcom | 254
 newsfirstlk | 363
 islandlk | 1,352
-economynextcom | 1,434
+economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,128
-adaderanalk | 2,886
+adaderanalk | 2,887
 tamilmirrorlk | 2,926
 virakesarilk | 3,752
-dailymirrorlk | 3,912
-adaderanasinhalalk | 3,985
+dailymirrorlk | 3,913
+adaderanasinhalalk | 3,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,926 (100.0%) of 24,931 articles have been extended.
+24,931 (100.0%) of 24,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வில் ஒருவர் கைது
+### Frog species endemic to Sri Lanka rediscovered in India after 200 years
+
+*2024-05-19 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99310/frog-species-endemic-to-sri-lanka-rediscovered-in-india-after-200-years) · `en`
+
+Researchers from the Zoological Survey of India, in partnership with the Andhra Pradesh Biodiversity Board, rediscovered the Sri Lankan golden-backed frog (Hylarana gracilis) after two centuries in the Koundinya wildlife sanctuary in the Chittoor district, the southernmost point of the Eastern Ghats in Andhra Pradesh. With this finding, the number of freshwater frog species in India rises to 20.
+
+Bharath Bhupathi from the Zoological Survey of India, Hyderabad, encountered frogs of this species near a pond in the forest and suspected that it could be a new species. However, after consulting taxonomic experts and utilising morphological and DNA barcoding tools, the species was confirmed to be the Sri Lankan golden-backed frog Hylarana gracilis.
+
+Mr. Bhupathi emphasizes that rediscovery is more significant than the discovery of a new species, as it provides evidence for the historic land bridge between India and Sri Lanka.
+
+...
+
+[Data](articles/19e36e12.json)
+
+---
+
+### උතුරු සුඩානයේ ගැටුම් තීව්‍ර වෙයි
+
+*2024-05-19 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196779) · `si`
+
+පසුගිය සතියේ සිට උතුරු සුඩානය කේන්ද්‍ර කර දියත්වන ගැටුම් තීව්‍ර වී තිබේ.
+
+ගැටුම්වලින් මෙතෙක් මියගොස් ඇති පිරිස 60කට ආසන්න බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+උතුරු සුඩානයේ තත්ත්වය සම්බන්ධයෙන් එක්සත් ජාතීන් දැඩි කනස්සල්ල පළකර ඇත.
+
+සුඩාන හමුදාව සහ එරට පැරාමිලිටරි කණ්ඩායම් අතර වසරක කාලයක සිට පවතින ගැටුම් හේතුවෙන් සුඩාන ජනතාව දැඩි ලෙස පීඩාවට පත්ව සිටිති.
+
+සුඩානයේ ප්‍රාන්ත 18න් 11කට ගැටුම් පැතිර ගොස් ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+ඒ අතරින් පසුගිය සතියේ සිට සුඩානයේ උතුරුදිග ඩෆූර් ප්‍රාන්තයේ අල් ෆෂීර් නගරයේ ගැටුම් තීව්‍ර වී තිබේ.
+
+සුඩාන ගැටුම් හේතුවෙන් අවතැන්වූ දහස් ගණනක් අල් ෆෂීර්හි රැඳී සිටින්නේ අවශ්‍ය මූලික පහසුකම්වත් නොමැතිව බව සඳහන් ය.
+
+උතුරු සුඩානයේ තත්ත්වය මිහිපිට අපායක් මෙන් වන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය පැවසීය.
+
+එක්සත් ජාතීන් අවධාරණය කරන්නේ අවතැන්ව සිටින පිරිස් දරුණු සාගතයක් අබියස සිටින බවය.
+
+ඒ අනුව, එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිසම සුඩානයේ ගැටුම්වල නිරතවන දෙපාර්ශ්වයම සමග උද්ගතව ඇති තත්ත්වය පිළිබඳ සාකච්ඡා කර ඇතැයි සඳහන්ය.
+
+◼️
+
+[Data](articles/7bf9620f.json)
+
+---
+
+### Man arrested for triple murder in Gampaha
+
+*2024-05-19 11:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-for-triple-murder-in-Gampaha/108-282890) · `en`
+
+Gampaha, May 19 (daily Mirror) - A 42-year-old man has been arrested in connection with the murder of three individuals from the same family at Maladeniya in Nalla, Gampaha early this morning.
+
+The deceased individuals were identified as a 42-year-old man, his 80-year-old father, and 77-year-old mother.
+
+A team of officers from Nalla Police Station stopped and checked a suspicious person travelling on a bicycle early this morning. They noticed blood stains on the suspect's shirt and found Rs. 255,620 in cash, a gold necklace and two gold rings in the suspect's bag.  Also, a knife was recovered from the suspect's possession.
+
+During further questioning, officers found a card indicating a membership in a political party in 2002. Subsequently, the officers accompanied the suspect to the address on the card, where they discovered the bodies of the three deceased individuals.
+
+The arrested suspect, a resident of Bangadeniya in Chilaw, was taken into custody by the Nalla Police.
+
+◼️
+
+[Data](articles/c112614b.json)
+
+---
+
+### One person arrested at Mullivaikkal memorial event
 
 *2024-05-19 11:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-நிகழ்வில்-ஒருவர்-கைது/175-337508) · `ta`
 
-முள்ளிவாய்க்கால் தாக்குதலின் 15 வருடங்களை நினைவுகூரும் நிகழ்வில் வெள்ளவத்தையில் இடம்பெற்ற பதற்றமான சூழ்நிலையை அடுத்து ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A man was arrested at a tense commemoration event in Wellawatte, where a group honored Mullivaikkal victims while another celebrated Sri Lanka's military victory.
 
-இறுதிக்கட்ட போரின் போது ஆயிரக்கணக்கான பொதுமக்கள் உயிரிழந்த முல்லைத்தீவு முள்ளிவாய்க்காலில் உயிரிழந்தவர்களை நினைவுகூரும் வகையில் பல்வேறு சிவில் சமூக குழுக்களையும் செயற்பாட்டாளர்களையும் பிரதிநிதித்துவப்படுத்திய குழுவினர் வெள்ளவத்தை கடற்கரையில் இன்று காலை ஒன்று கூடினர்.
+🟩
 
-இதேவேளை போரின் போதான இலங்கை இராணுவப் படைகளின் வெற்றியைக் கொண்டாடும் வகையில் மற்றுமொரு குழுவினர் ஆர்ப்பாட்டத்தில் ஈடுபட்டதால் குறித்த இடத்தில் பதற்றமான சூழ்நிலை ஏற்பட்டது.
+A man has been arrested following a tense situation in Wellawatte at a commemoration of the Mullivaikkal attack.
+
+A group representing various civil society groups and activists gathered in Wellawatte beach this morning to commemorate the victims of the Mullaitivu Mullivaikkal, which died in the Mullaitivu Mullivaikkal during the final war.
+
+At the same time, there was a tense situation in the area as another group staged a protest to celebrate the victory of the Sri Lankan military forces.
 
 ◼️
 
 [Data](articles/72f02e97.json)
+
+[Extended Data](ext_articles/72f02e97.ext.json)
 
 ---
 
@@ -61,6 +133,8 @@ Previously, the government had to spend a significant amount of money to destroy
 ...
 
 [Data](articles/737845d4.json)
+
+[Extended Data](ext_articles/737845d4.ext.json)
 
 ---
 
@@ -82,19 +156,25 @@ Meanwhile, very heavy showers above 150 mm are likely at some places in Western 
 
 ---
 
-### 1,509 இராணுவ வீரர்களுக்கு பதவி உயர்வு
+### Promotion to 1,509 soldiers
 
 *2024-05-19 11:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-509-இராணுவ-வீரர்களுக்கு-பதவி-உயர்வு/175-337506) · `ta`
 
-உள்நாட்டுப் போரில் தேசம் வெற்றி பெற்றதன் 15வது ஆண்டு நிறைவை ஒட்டி, 1,509 வீரர்களுக்கு பதவி உயர்வு வழங்குவதாக இலங்கை ராணுவம் அறிவித்துள்ளது.
+On the 15th anniversary of Sri Lanka's civil war victory, 1,509 soldiers were promoted, including 114 officers and 1,395 others, advancing within their ranks. This decision was made by Lieutenant General Vikku Liyanage with President Ranil Wickremesinghe's approval.
 
-பதவி உயர்வுகளில் 114 அதிகாரிகள் மற்றும் 1,395 இதர தரவரிசைகளில் அடங்குவதுடன், அவர்கள் அனைவரும் அந்தந்த பதவிகளுக்குள் அடுத்த நிலைக்கு முன்னேறுகிறார்கள்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அனுமதியுடன் இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் விக்கும் லியனகேவினால் இந்த பதவி உயர்வுகள் அங்கீகரிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The Sri Lankan military has announced that 1,509 soldiers will be promoted to the 15th anniversary of the Nation's victory in the civil war.
+
+The promotions include 114 officers and 1,395 other rankings, and they all advance within their respective positions.
+
+The promotions have been approved by Lieutenant General Lieutenant General Vikku Liyanage with the permission of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/39472ff0.json)
+
+[Extended Data](ext_articles/39472ff0.ext.json)
 
 ---
 
@@ -187,6 +267,8 @@ The Cabinet approved the Joint Cabinet Memorandum presented by the President as 
 ◼️
 
 [Data](articles/7d037d3c.json)
+
+[Extended Data](ext_articles/7d037d3c.ext.json)
 
 ---
 
@@ -412,6 +494,8 @@ The government has decided to send a delegation to Russia to identify and repatr
 
 [Data](articles/0af01628.json)
 
+[Extended Data](ext_articles/0af01628.ext.json)
+
 ---
 
 ### Families complain on over 400 Sri Lankans in Russia-Ukraine war
@@ -477,6 +561,28 @@ Our correspondent said that the roads of the Road Development Authority has take
 [Data](articles/8a366343.json)
 
 [Extended Data](ext_articles/8a366343.ext.json)
+
+---
+
+### Sri Lanka’s CEB March 2024 profits Rs84bn with capital gain, fx strength
+
+*2024-05-19 08:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-march-2024-profits-rs84bn-with-capital-gain-fx-strength-163572/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board group has reported profits of 86 billion rupees with the help of 25.9 billion rupees of capital gains from a transfer of shares, interim accounts show.
+
+The rupee also appreciated in the quarter which keeps imported fuel prices low.
+
+As a standalone entity, the Ceylon Electricity Board, made profits of 84.6 billion rupees in the March quarter.
+
+CEB’s revenues rose 38.5 percent to 167 billion rupees in the March 2024 quarter, while cost of sales fell 26.1 percent to 105.0 billion rupees giving gross profits of 62.7 billion rupees.
+
+The CEB also reported 30.6 billion rupees of other incomes and gains in the March quarter, up from 3.1 billion rupees last year.
+
+The utility said it made a 25.9 billion rupee capital gain from transferring LTL Holdings shares to West Coast Power an IPP in which other entities have a majority holding.
+
+...
+
+[Data](articles/8da5b718.json)
 
 ---
 
@@ -976,6 +1082,36 @@ Meanwhile, former parliamentarian Diana Kamage was banned from going abroad by C
 
 ---
 
+### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
+
+*2024-05-19 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
+
+This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
+
+...
+
+[Data](articles/3e9bb270.json)
+
+[Extended Data](ext_articles/3e9bb270.ext.json)
+
+---
+
+### Thousands of Tamils Converge at Mullivaaikkaal On Mullaitheevu district coast  to remember  their Kith and Kin were killed 15 years ago in the Final phase of the war in May 2009
+
+*2024-05-19 01:08:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84058) · `en`
+
+Thousands of Tamils on May 18 converged in Mullaivaikkal, along Sri Lanka’s north-eastern coast, to pay homage to their relatives killed in May 2009, in the final battle of the island’s protracted civil war.
+
+As the war escalated before its gruesome end, lakhs of Tamil civilians were pushed to this narrow strip of land, declared a ‘No Fire Zone’ by the government. Tens of thousands, including women and children, died in the indiscriminate shelling of the armed forces, while scores were seriously injured.
+
+Families gathered at the venue on Saturday and placed photographs of their loved ones in the sandy ground near the sea, offered prayers with flowers, food, and by lighting lamps. Antony Jesurathnam Mariapushparani, a Mullaitivu resident, has vivid images from May 18, fifteen years ago.
+
+...
+
+[Data](articles/0e5d4417.json)
+
+---
+
 ### 2024-05-18 (Saturday)
 
 ### Sri Lanka - Indian shipping service has been delayed indefinitely
@@ -1277,6 +1413,26 @@ Under the initiative vegetables, fruits, plantation crops, and fish are to be ha
 [Data](articles/4768b83e.json)
 
 [Extended Data](ext_articles/4768b83e.ext.json)
+
+---
+
+### Sri Lanka seeks to draw youth into agri-entrepreneurship with Rs1.6bn funding
+
+*2024-05-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-to-draw-youth-into-agri-entrepreneurship-with-rs1-6bn-funding-163562/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Agriculture and Plantation Industries has earmarked 1.6 billion rupees for the establishment of 160 model farms across the island, that are to be owned and operated by youth agri-entrepreneurs.
+
+“The Ministry of Agriculture and Plantation Industries has taken steps to allocate 1,600 million rupees to establish 160 villages in 25 districts with 6 youth agri entrepreneurship villages in each district,” Minister Mahinda Amaraweera was quoted in a statement.
+
+“Arrangements have been made to provide an amount of one million rupees to each village under the first phase.”
+
+The Minister said the aim of the program is to attract youth to agriculture and to introduce them to new agricultural technology, so they could target local markets and exports.
+
+Under the initiative vegetables, fruits, plantation crops, and fish are to be harvested, and livestock products are to be produced in the villages. (Colombo/May18/2024)
+
+◼️
+
+[Data](articles/e11d444c.json)
 
 ---
 
@@ -2147,169 +2303,5 @@ About 300 acres of paddy fields have been flooded in the Mahabulangulam area of 
 [Data](articles/759f0ee6.json)
 
 [Extended Data](ext_articles/759f0ee6.ext.json)
-
----
-
-### Mullivaikkal Memorial in Karadivu
-
-*2024-05-18 14:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காரைதீவில்-முள்ளிவாய்க்கால்-நினைவேந்தல்/175-337468) · `ta`
-
-The Mullivaikkal Memorial in Karadivu was commemorated by Krishnapillai Jayasiril, ex-chairman of the Karativu Pradeshiya Sabha, with attendees including KC Sivalingam, P. Selvanayagam, Mrs. Sumitra, Mohanadas, TC Sivakumar, and Vinayagam Vimalanathan, among others.
-
-🟩
-
-The commemoration was organized by Krishnapillai Jayasiril, a former chairman of the Karativu Pradeshiya Sabha of Sri Lanka.
-
-Former Member of the Kalmunai Municipal Council KC Sivalingam, P. Selvanayagam, Mrs. Sumitra. Mohanadas, Temple Dharmakarta TC Sivakumar, social activist Vinayagam Vimalanathan and many others were present.
-
-◼️
-
-[Data](articles/bca392f0.json)
-
-[Extended Data](ext_articles/bca392f0.ext.json)
-
----
-
-### Tax payers say to follow strict rules
-
-*2024-05-18 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196750) · `si`
-
-Leaders call for stricter tax enforcement, including banning bank accounts and requiring digital transactions to increase revenue. Suggestions include digitizing the tax system, reducing human intervention, and combating fraud.
-
-🟩
-
-Leader of the United States Champika Ranawaka says that the law should be further enforced to levy the tax of large scale businessmen who are trying to pay the payment of the country.
-
-"Tax collection mechanism should change or strictly operate the rules. We ordered to ban the bank accounts of taxes. Today, SIM card in Pakistan cannot be taken if tax elections. These tax cannot be collected without following such stronger steps. "
-
-Parliamentarian Harsha de Silva said that he said:
-
-"Tax system should be further strengthened. It requires a digitization. Human interventions are too many problems. There is no proper mechanism to the Excise Department. The alcohol sticker is a great scam. The licenses of alcohol producers were redeemed. Theft, stop the fraud, needs a digitization. Our tax charging can be increased to 5%. "
-
-Member of the Economic Council of the National Power, Dr. Harshana Sooriyapperuma, Member of the Economic Council,
-
-...
-
-[Data](articles/5e17eaf4.json)
-
-[Extended Data](ext_articles/5e17eaf4.ext.json)
-
----
-
-### Adani wind energy project challenged in Sri Lanka’s Supreme Court
-
-*2024-05-18 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99297/adani-wind-energy-project-challenged-in-sri-lankas-supreme-court) · `en`
-
-Adani Green Energy’s wind energy project, coming up in Sri Lanka’s northern Mannar and Pooneryn districts, has been challenged in the island’s apex court on grounds of potential environmental impact and “lack of transparency”.
-
-The Wildlife and Nature Protection Society (WNPS), one of Sri Lanka’s oldest environmental organisations set up over a century ago, on May 16 filed a Fundamental Rights petition at the Supreme Court of Sri Lanka, with the aim of “protecting the unique ecosystem of Mannar Island”.
-
-The Society’s petition argues that the project “poses a severe threat to the island’s unique biodiversity and pristine landscapes,” especially in Mannar. Mannar is the “southernmost point of the Central Asian Flyway used by innumerable migratory species”, while also being home to several indigenous water bird and bat species, the WNPS said, contending that Sri Lankan authorities’ decision approving the project disregarded Mannar’s “singular positioning as a biodiversity hub”.
-
-...
-
-[Data](articles/8b60bd53.json)
-
-[Extended Data](ext_articles/8b60bd53.ext.json)
-
----
-
-### Landslides and floods to many areas
-
-*2024-05-18 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196749) · `si`
-
-Heavy rains forecasted; flood risks in areas like Deduru Oya, Mahaweli, and Kirama Oya. Water levels rising; sluice gates opened at Rajanganaya and Angamuwa reservoirs. Landslides and collapses reported in various locations, affecting roads and causing flooding in certain regions.
-
-🟩
-
-The Department of Irrigation says that there is a risk of floods in several areas due to inclement weather conditions.
-
-Accordingly, Deduru Oya, Mahaweli, Mahaweli, Mahaweli, Kirama Oya, Kirama Oya, Kirama Oya, Kirama Oya, Kirama Oya.
-
-The existence of heavy rains will occur in the next few days, the Met Department said.
-
-Meanwhile, the water level of the Rajanganaya Reservoir has risen to 31 feet.
-
-Due to this, four sluice gates of the Rajanganaya reservoir have been opened, and it releases 2,100 cubic feet per second.
-
-The two sluice gates of the Angamuwa reservoir have also been opened and the people in the lowlands are requested to be considering.
-
-ජලාශවල වාන් දොරටු විවෘත කිරීමත් සමග අනුරාධපුර 38 කණුව මහබුලංකුලම ප්‍රදේශයේ කුඹුරු අක්කර 300ක් පමණ ජලයෙන් යටවී ගොස් තිබුණි.
-
-It is reported that the huge kumbukggus collapse on either side of the canal from Talawa due to a large Kumbukggus collapse on either side of the canal.
-
-...
-
-[Data](articles/3761c4e6.json)
-
-[Extended Data](ext_articles/3761c4e6.ext.json)
-
----
-
-### US Ambassador to meet various parties in Jaffna
-
-*2024-05-18 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/183860) · `ta`
-
-US Ambassador Julie Sangh visits Jaffna, meeting religious leaders and fisheries groups.
-
-🟩
-
-The US Ambassador has visited the Jaffna district and is meeting with various parties.
-
-As a part of this, the US Ambassador to Sri Lanka, Julie Sangh, who visited the Nayanadivu Nagabushani Amman Temple and Nainadivu Nagavikara on the 16th, also met with the Fisheries Organizations in Neduntivu.
-
-◼️
-
-[Data](articles/e43b98c1.json)
-
-[Extended Data](ext_articles/e43b98c1.ext.json)
-
----
-
-### The government informs the government of public to apologize publicly
-
-*2024-05-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196748) · `si`
-
-The UN Human Rights Commission urges Sri Lanka to acknowledge and apologize for decades-old disappearances, emphasizing the need for public acknowledgment and investigation into these cases. The report highlights the failure of Sri Lankan authorities to hold accountable those responsible for these crimes, despite international obligations.
-
-🟩
-
-The United Nations Human Rights Commission has issued a report yesterday (17) that the Government of Sri Lanka should adopt the meaning of thousands of the fate of decades.
-
-It further states that the intervention of the government security forces and an affiliate groups should be pardoned in public security and armed groups.
-
-The United Nations High Commissioner to Human Rights Walker Turk says that all Sri Lankans have never forgotten the disappearances.
-
-Relatives are the right to know the disappearances and that the government is owned by the report and the government is owed by the government.
-
-It is reported that these crimes have not only faced the crimes but also a society.
-
-The disappearances have adopted positive steps, such as the approval of the International Convention on the Protection of All Persons, has emphasized that investigations into the disappearances are limited.
-
-...
-
-[Data](articles/819ed0c0.json)
-
-[Extended Data](ext_articles/819ed0c0.ext.json)
-
----
-
-### Naval, fishing communities cautioned of gusty winds and rough seas
-
-*2024-05-18 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99296/naval-fishing-communities-cautioned-of-gusty-winds-and-rough-seas-) · `en`
-
-The Department of Meteorology has issued an advisory warning the naval and fishing communities in the deep-sea areas in the South-eastern Arabian Sea of strong winds and rough seas.
-
-The advisory, issued at 12.30 p.m. today (18), warns that strong winds accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas during the next few days.
-
-Naval and fishing communities are advised not to venture into the sea areas marked by RED color on the map below until further notice.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard, it added.
-
-◼️
-
-[Data](articles/c20280b0.json)
-
-[Extended Data](ext_articles/c20280b0.ext.json)
 
 ---

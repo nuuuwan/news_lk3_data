@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 08:18:32**
+As of **2024-05-19 08:33:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,898 (100.0%) of 24,901 articles have been extended.
+24,901 (100.0%) of 24,901 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,29 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/58e44c31.json)
 
+[Extended Data](ext_articles/58e44c31.ext.json)
+
 ---
 
-### குடும்பத்தை கொன்று நகை,பணம் கொள்ளை
+### Killing the family and jewelry, money loot
 
 *2024-05-19 08:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தை-கொன்று-நகை-பணம்-கொள்ளை/175-337480) · `ta`
 
-மாமா, தம்பி, சகோதரனை கொன்று பணம் மற்றும் தங்கத்தை கொள்ளையடித்த நபர் கைது செய்யப்பட்டதாக நல்லா பொலிஸார் தெரிவிக்கின்றனர்.
+A man murdered his uncle, brother, and another brother early today in Maladeniya, stealing money and gold worth over 300,000 rupees. He was later apprehended by the Nalla police during a raid.
 
-மாலதெனிய பிரதேசத்தில் உள்ள வீடொன்றில் இன்று அதிகாலை நான்கு மணியளவில் இந்த மனிதாபிமானமற்ற கொலை இடம்பெற்றுள்ளதாக பொலிஸார் மேலும் குறிப்பிடுகின்றனர்.
+🟩
 
-அப்போது துவிச்சக்கர வண்டியில் சென்ற நபரை சோதனை செய்த போலீசார், அவரிடம் இருந்த சுமார் 3 லட்சம் ரூபாய் பணம் மற்றும் தங்கப் பொருட்கள் சிக்கியது.
+Nalla police say that a man who killed his uncle, brother and brother was arrested for robbing money and gold.
+
+The inhuman murder took place at around 4 am this morning at a house in Maladeniya, police said.
+
+The police then raided the man who went on a bicycle and caught up with about 3 lakh rupees of money and gold items.
 
 ◼️
 
 [Data](articles/70384a65.json)
+
+[Extended Data](ext_articles/70384a65.ext.json)
 
 ---
 
@@ -244,21 +252,27 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 
 ---
 
-### சீதையம்மன் கும்பாபிஷேகப் பெருவிழா இன்று
+### Seethayamman Kumbabhishekapu Festival Today
 
 *2024-05-19 01:32:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதையம்மன்-கும்பாபிஷேகப்-பெருவிழா-இன்று/175-337477) · `ta`
 
-வரலாற்றுச் சிறப்பு மிக்க நுவரெலியா சீதாஎலிய சீதையம்மன் ஆலயத்தின் மஹா கும்பாபிஷேகப் பெருவிழா இன்று இடம்பெறவுள்ளது.
+Today marks the Maha Kumbabhishekapu festival at Nuwara Eliya's Sita Eliya Seethayamman Temple, attended by Prime Minister Dinesh Gunawardena and spiritual guru Sri Ravi Shankar, who arrived from India yesterday.
 
-இதற்காக அயோத்தி இராமர் கோயில் மற்றும் சீதை பிறந்த இடமான நேபாளம் ஆகிய இடங்களில் இருந்து கொண்டுவரப்பட்ட சீதையம்மனுக்கான சீர்வரிசைப் பொருள்கள் மற்றும் இந்திய புண்ணிய நதிகளின் தீர்த்தம் என்பவற்றை தாங்கிய ஊர்தி நேற்று சீதையம்மன் ஆலயத்தை சென்றடைந்துள்ளது.
+🟩
 
-சீதாஎலிய சீதை அம்மன் ஆலயத்தின் மஹா கும்பாபிஷேகப் பெருவிழாவில் பிரதமர் தினேஷ் குணவர்த்தன கலந்து கொள்ளவுள்ளார்.
+The Maha Kumbabhishekapu festival of the historic Nuwara Eliya Sita Eliya Seethayamman Temple will be held today.
 
-அத்துடன், மனித நேயத் தலைவர், ஆன்மீக குரு, அமைதித் தூதுவர் மற்றும் வாழும் கலை பயிற்சியின் நிறுவுனர் பூஜ்ய ஸ்ரீ ரவிசங்கர் இந்த கும்பாபிஷேக நிகழ்வில் கலந்து கொள்வதற்காக நேற்று இலங்கை வந்துள்ளார். (a)
+For this purpose, the Ayodhya Rama Temple and the birthplace of Sita, the birthplace of Nepal, have reached the Seethayamman Temple yesterday.
+
+Prime Minister Dinesh Gunawardena will attend the Maha Kumbabhishekapu festival of the Sita Eliya Sita Amman Temple.
+
+Also, the founder of the humanitarian leader, the spiritual guru, the Ambassador and the founder of the living art training, Poojya Sri Ravi Shankar, arrived in Sri Lanka yesterday to attend the Kumbabhisheka event.. (A)
 
 ◼️
 
 [Data](articles/a8e4308f.json)
+
+[Extended Data](ext_articles/a8e4308f.ext.json)
 
 ---
 

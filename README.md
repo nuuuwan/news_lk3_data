@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 23:18:37**
+As of **2024-05-19 23:33:44**
 
 ## Newspaper Stats
 
-*Scraped **25,041** Articles*
+*Scraped **25,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,465
 adalk | 2,140
-adaderanalk | 2,899
+adaderanalk | 2,900
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
 dailymirrorlk | 3,927
-adaderanasinhalalk | 4,004
+adaderanasinhalalk | 4,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,041 (100.0%) of 25,041 articles have been extended.
+25,041 (100.0%) of 25,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### ඉරානය කලබල වෙයි - ජනපති ව සොයා විශේෂ මෙහෙයුමක්
+
+*2024-05-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196799) · `si`
+
+ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි, එරට විදේශ අමාත්‍යවරයා ඇතුළු ඉහළ පෙළේ නිලධාරීන් පිරිසක් ගමන්කරමින් සිටියදී අනතුරට ලක්වූ හෙලිකොප්ටර් යානය සොයා එරට ආරක්ෂක අංශ මෙහෙයුමක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+
+අධික මීදුම සහිත අයහපත් කාලගුණය හේතුවෙන් කඳුකර ප්‍රදේශයකට එම යානය හදිසියේ ගොඩබා තිබුණි.
+
+කෙසේවෙතත්, ජනාධිපතිවරයා ඇතුළු පිරිස සිටින ස්ථානයට මෙතෙක් කිසිවෙකුට ළඟාවීමට නොහැකිවී ඇති අතර ඔවුන්ව බේරා ගැනීමේ මෙහෙයුම් සඳහා ඉරාන සන්නද්ධ හමුදා, කමාන්ඩෝ ඒකක ඇතුළු කණ්ඩායම් 40ක් මේ වනවිට ක්‍රියාන්විතයට එක්ව සිටියි.
+
+ඉරාන ජනාධිපති රයිසි ඇතුළු එරට ඉහළ නිලධාරීන් පිරිසක් ඉරාන - අසර්බයිජාන දේශසීමාවේ වේල්ලක් විවෘත කිරීමට අද (19) එක්ව තිබුණි.
+
+එම උත්සවයෙන් පසු ඉරාන ජනාධිපතිවරයා ඇතුළු පිරිස රැගත් හෙලිකොප්ටර් යානය යළි පැමිණෙමින් තිබියදී ඔවුන් එම අනතුරට මුහුණ දී තිබේ.
+
+මේ වනවිට ඉරාන ජනතාව සිය ජනාධිපතිවරයා වෙනුවෙන් යාඥා කිරීමද ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/8cf92c69.json)
+
+---
 
 ### Mahesh Senanayake joined the Samagi Jana Balawegaya yesterday
 
@@ -43,6 +65,24 @@ Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegay
 [Data](articles/0d560c80.json)
 
 [Extended Data](ext_articles/0d560c80.ext.json)
+
+---
+
+### Iranian President and FM’s lives ‘at risk’ following helicopter crash - official
+
+*2024-05-19 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99323/iranian-president-and-fms-lives-at-risk-following-helicopter-crash-official) · `en`
+
+A helicopter carrying Iranian President Ebrahim Raisi and his foreign minister crashed on Sunday as it was crossing mountain terrain in heavy fog, an Iranian official told Reuters, and rescuers were making their way to the site of the incident.
+
+The official said the lives of Raisi and Foreign Minister Hossein Amirabdollahian were “at risk following the helicopter crash”, which happened on the way back from a visit to Iran’s border with Azerbaijan.
+
+“We are still hopeful but information coming from the crash site is very concerning,” said the official, speaking on condition of anonymity.
+
+The bad weather was complicating rescue efforts, the state news agency IRNA reported. The chief of staff of Iran’s army ordered all the resources of the army and the elite Revolutionary Guard to be put to use in the search and rescue operations.
+
+...
+
+[Data](articles/baff3336.json)
 
 ---
 
@@ -2141,59 +2181,5 @@ It has been decided to establish a committee for special domestic oceanism for i
 [Data](articles/01a6bf34.json)
 
 [Extended Data](ext_articles/01a6bf34.ext.json)
-
----
-
-### "So far 411 complaints have been received"
-
-*2024-05-19 10:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-411-முறைப்பாடுகள்-கிடைக்கப்பெற்றுள்ளன/175-337505) · `ta`
-
-Sri Lanka's Defense Ministry has received 411 complaints about its citizens, including non-military personnel, recruited as mercenaries in the Russia-Ukraine war. Investigations began after reports of abductions in Ukraine, prompting the ministry to urge families to report missing loved ones.
-
-🟩
-
-Sri Lanka's Defense Ministry has received 400 complaints from the family members of citizens recruited by mercenaries to engage in the Russia-Ukraine war.
-
-Earlier this month, officials launched investigations into reports that Sri Lankan citizens with military backgrounds were being abducted in Ukraine.
-
-In response, the Defense Ministry made an urgent call to file complaints to family members after some returned some returned.. The Ministry said that a total of 411 complaints have been received so far.
-
-In the Russia -Ukraine conflict, it has been reported that not only former soldiers of the Security Forces but also citizens who have no military training have been added.
-
-உக்ரைனில் ரஷ்யாவுக்காகப் போராடும் பிரஜைகளை இனங்கண்டு அவர்களை நாட்டுக்குத் திரும்ப அனுப்புவதற்கு ரஷ்யாவுக்கு தூதுக்குழுவை அனுப்ப அரசாங்கம் தீர்மானித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/9a374491.json)
-
-[Extended Data](ext_articles/9a374491.ext.json)
-
----
-
-### Gothatuwa commences development activities at New Wetland Park
-
-*2024-05-19 10:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ගොතටුව-නව-තෙත්-බිම්-උද්‍යානයේ-සංවර්ධන-කටයුතු-ඇරඹේ/11-409715) · `si`
-
-Gothatuwa, Sri Lanka, is developing its New Wetland Park, part of a broader initiative to enhance urban wetlands like Diyasana and Beddagana. Aimed at preserving environmental balance and public mental health, the project involves creating a walkway around the 35-hectare area and establishing a study center for wetland education. With an estimated cost of Rs. 180 million, it's expected to complete by the end of the year.
-
-🟩
-
-Special study center for study of wetlands ...
-
-More projects to develop wet ground and lowland ....
-
-Gothatuwa commences development activities at New Wetland Park. The Sri Lanka Land Development Corporation has focused on the development of Gothatuwa wetland under the program identified in the Colombo district.
-
-It is now open to the public by developing urban wetlands, Diyasana, Beddagana.
-
-Maintain environmental balance, maintaining the mental health of the public in a busy city and maintaining the mental health of the people in a busy city, constructing the wet ground garden.
-
-Sri Lanka Land Development Corporation with the purposes of 'Low Land Development Project' under the Greater Colombo Flood Control Project and the purposes of the 'Greater Colombo Flood Control Protection of Water DetailsThis project is underway. The estimated cost of the project is Rs. 180 million. By the end of this year, the development work is to be completed.
-
-...
-
-[Data](articles/4813a0e9.json)
-
-[Extended Data](ext_articles/4813a0e9.ext.json)
 
 ---

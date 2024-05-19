@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 19:18:34**
+As of **2024-05-19 19:33:48**
 
 ## Newspaper Stats
 
-*Scraped **25,004** Articles*
+*Scraped **25,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,139
-adaderanalk | 2,895
+adaderanalk | 2,896
 tamilmirrorlk | 2,933
 virakesarilk | 3,764
 dailymirrorlk | 3,922
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,002 (100.0%) of 25,004 articles have been extended.
+25,004 (100.0%) of 25,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Vietnam nominates its public security minister as new president
+
+*2024-05-19 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99319/vietnam-nominates-its-public-security-minister-as-new-president) · `en`
+
+Vietnam has nominated its Public Security Minister To Lam as its new president, state media said on Saturday, after his predecessor resigned in the ongoing anti-corruption campaign that has shaken up the country’s political establishment.
+
+The Communist Party’s Central Committee had agreed to the nomination of To Lam, a Politburo member, as president, state-run Vietnam News Agency reported. The nomination will likely be approved by Vietnam’s rubber-stamp National Assembly during its next session on Monday.
+
+Former President Vo Van Thuong resigned in March after a little over a year in the position. His predecessor had also resigned in 2023 while taking “political responsibility” for corruption scandals during the pandemic.
+
+...
+
+[Data](articles/fb7edd6e.json)
+
+---
 
 ### Fire near Colombo port
 
@@ -1038,19 +1054,27 @@ He said that every day we should recall this tragedy and demand justice for the 
 
 ---
 
-### පෙර මෝසම සක්‍රීය වෙයි, ඉදිරි දින කීපයේ බොහෝ ප්‍රදේශවලට මහ වැසි
+### Previous Monods Activates Heavy Rains in many areas
 
 *2024-05-19 11:50:51* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-මෝසම-සක්‍රීය-වෙයි--ඉදිරි-දින-කීපයේ-බොහෝ-ප්‍රදේශවලට-මහ-වැසි/11-409718) · `si`
 
-ශ්‍රී ලංකාව සහ ඒ  ආශ්‍රිතව මුහුදු ප්‍රදේශවල ඇති වී තිබෙන පෙර මෝසම් කාලගුණීක තත්ත්වය හේතුවෙන්  දිවයිනේ නිරිත දිග ප්‍රදේශවලට අධික වර්ෂාපතනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත. එසේම සුළං තත්ත්වය  දිවයින හරහා විටින් විට පැයට කිලෝමීටර් 30 - 40ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ දක්වා ඇත.
+Heavy rains triggered by the previous monsoon are affecting Sri Lanka, with winds reaching 30-40 km/h. Areas like Matara, Sabaragamuwa, Galle, Kandy, Nuwara Eliya, and Mannar could see up to 150mm of rain. Colombo and Avissawella recorded over 140mm of rainfall between 8am on the 18th and 19th. Landslide warnings have been issued for several districts, including Colombo, Kalutara, Kandy, and others. The Disaster Management Center advises caution and provides emergency contact 117.
 
-එසේම බස්නාහිර,  සහ  වයඹ පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 150 ඉත්ම වූ වර්ෂාවක් ලැබිය හැකි බව අවවාදාත්මක නිවේදනයක් මගින් දක්වා ඇත. එසේම සබරගමුව පළාත සහ ගාල්ල මාතර, මහනුවර, නුවරඑලිය සහ මන්නාරම දිස්ත්‍රික්ක සදහා මිලි මීටර් 100 ක පමණ තද වැසි ඇතිවිය හැකි බව නිවේදනය කර ඇති අතර මෙම තත්වය ඉදිරි දින කීපය තුළ තවදුරටත් වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනය කර ඇත.
+🟩
 
-ඊයේ(18) දින පෙරවරු 8.00 සිට අද (19) පෙරවරු 8.00 දක්වා වාර්තා වී ඇති වර්ෂාපතනය සළකා බලන  විට පුත්තලම (මිලි මීටර් 212.5) කැස්බෑව (මිලි මීටර් 204.5), රත්මලාන (මිලි මීටර් 144.1), කොළඹ (මිලි මීටර් 113.0) සහ අවිස්වාවේල්ල (මිලි මීටර් 107.0) වාර්තා වී ඇති බව කාගුණවිද්‍යා දෙපර්තමේන්තුව පෙන්වා දේ.
+The Department of Meteorology has announced that heavy rainfall is due to the previous monsoon areas in Sri Lanka and in the area.. The wind situation is also available in the island that there will be about 30 to 40 kilometers per hour.
+
+In the Western and North-Western provinces, some places that can be earned 150 m m mm. The Department of Meteorology has announced that around 100 m m m m m m m m m m militaries have announced that around 100 mm in Matara, the Sabaragamuwa Province and Galle, Kandy, Nuwara Eliya and Mannar.
+
+Completed Rainfall from 8.00 am today (18) at 8.00 am today (19), Colombo (144.5 mm) and Anvanavawa (144 mm (144 mm) from Ratmalana(107.0 mm] (107.0 million) has been recorded.
+
+The Meteorological Department was still valid by the Department of Meteorology yesterday.
 
 ...
 
 [Data](articles/aea06fad.json)
+
+[Extended Data](ext_articles/aea06fad.ext.json)
 
 ---
 
@@ -1260,19 +1284,25 @@ Previously, the government had to spend a significant amount of money to destroy
 
 ---
 
-### ඊ පාස්පෝට් ක්‍රමය ලඟදීම මෙරටටත්
+### E passport method to be soon
 
 *2024-05-19 11:01:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-ක්‍රමය-ලඟදීම-මෙරටටත්/11-409717) · `si`
 
-ලෝකයේ දියුණු  රටවල් දැනට  භාවිතා කරන ඊ පාස්පෝට් ක්‍රමය තව මාස කීපයකින් පළමු වරට ලංකාවටද හඳුන්වා දෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+Sri Lanka will introduce the EPSport system, enhancing its international passport value with high-security features. This move aims to increase the number of passport issuance locations from 101 to 335, making it easier for citizens to obtain passports.
 
-ඉහල  ආරක්ෂිත බවකින් යුත් චිප් එකක්ද සහිත  ඊ පාස්පෝට් ක්‍රමයෙන් හොර පාස්පෝට් භාවිතය වැළකී මෙරට පාස්පෝට් සඳහා ජාත්‍යන්තර වටිනාකමක් ලැබෙන බවත් ටිරාන් අලස් මහතා කීය.
+🟩
 
-දැනට ලංකාවේ පාස්පෝට් තිබෙනුයේ  ලෝකයේ එකසිය ගණනක ස්ථානයක වුවත් ඊ පාස්පෝට් අතින් එය  ලොව පළමු ස්ථාන 30 ඇතුළතට ගැනීමට  අපේක්ෂිත බවත් දැනට විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීමට තිබෙන 51 ක් වූ ස්ථාන ගණන ඉදිරියේදී 335 දක්වා ඉහළ දමන බවත් ටිරාන් අලස් මහතා ජයවර්ධනපුර මොනාච් ඉම්පීරියල්  හෝටලයේදී  පැවති සිවිල් පුරවැසි  හමුවකදී පැවසීය.
+The EPSport system in the world will be introduced to Sri Lanka for the first time a few months, said the Minister of Defense Minister Tiran Alles.
+
+Tiran Alles said there is an international value for the passport in the country, with high security cyphet.
+
+At present there is one hundred and one hundred in the world in the world, the 51-largest number of places to issue foreign passports will be increased to 335 at the Civil Citizenship at Jayawardenapura Monua Imperial Hotelsaid.
 
 ◼️
 
 [Data](articles/339473b1.json)
+
+[Extended Data](ext_articles/339473b1.ext.json)
 
 ---
 
@@ -2259,29 +2289,5 @@ He has appealed to the Sri Lankan government to allow the arrests to carry out t
 [Data](articles/755055e0.json)
 
 [Extended Data](ext_articles/755055e0.ext.json)
-
----
-
-### Landslide warning to seven districts
-
-*2024-05-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196770) · `si`
-
-Landslide warnings issued for seven districts: NBRO alerts Badulla, Kandy, Kegalle, Ratnapura, Colombo, Gampaha.
-
-🟩
-
-The National Building Research Organization (NBRO) says that landslide warnings have been issued for seven districts.
-
-Senior Geologist Wasantha Senadheera said that the warnings have been issued today (19) at 3 am tomorrow.
-
-Accordingly, the warning announcements in phase 02 has been released to the Ella Divisional Secretariat Division of Badulla District.
-
-Senior Geologist Wasantha Senadheera said that four other Divisional Secretariat Divisions in Badulla District and the 33 Divisional Secretariat Divisions in Kandy, Kegalle, Ratnapura, Colombo, Colombo and Gampaha Districts.
-
-◼️
-
-[Data](articles/eb14b06e.json)
-
-[Extended Data](ext_articles/eb14b06e.ext.json)
 
 ---

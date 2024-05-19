@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 00:18:38**
+As of **2024-05-20 00:33:38**
 
 ## Newspaper Stats
 
-*Scraped **25,056** Articles*
+*Scraped **25,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,85 @@ dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,439
-dailyftlk | 1,465
+dailyftlk | 1,466
 adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
-dailymirrorlk | 3,932
+dailymirrorlk | 3,937
 adaderanasinhalalk | 4,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,056 (100.0%) of 25,056 articles have been extended.
+25,056 (100.0%) of 25,062 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-20 (Monday)
+
+### Protests and crackdown: Rappers vs. the regime in Iran
+
+*2024-05-20 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Protests-and-crackdown-Rappers-vs-the-regime-in-Iran/172-282936) · `en`
+
+In a country where rap is illegal, Toomaj chose rap to challenge Iran’s hardline regime
+
+In a country where rap is illegal, Toomaj chose rap to challenge Iran’s hardline regime which doesn’t tolerate dissent. Now he’s facing the death penalty for refusing to back down.
+
+This is part of a terrifying crackdown on the “Women, Life, Freedom” protests that have swept through the entire country since the killing of Jina Mahsa Amini, an Iranian Kurdish woman arrested in 2022 for  not covering her head properly. She died in police custody three days later, and was posthumously awarded the 2023 Sakharov Prize for Freedom of Thought. The prize was shared between her and the Woman, Life, Freedom Movement in Iran.
+
+People all around the world are calling for Toomaj’s release. In Iran,  he’s become a national hero for all those who continue to resist the regime at great personal risks.
+
+...
+
+[Data](articles/8b4ddb04.json)
+
+---
+
+### Govt. should learn from Civil Society Organisations in commemorating dear departed
+
+*2024-05-20 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Govt-should-learn-from-Civil-Society-Organisations-in-commemorating-dear-departed/172-282934) · `en`
+
+The joint commemoration event titled “Turning Point” held on May 17 at the Viharamahadevi Park in Colombo was in memory of the loss of life that took place 15 years ago at the end of the war of people from all sides.  It is an indication that the wounds of the three-decade war are beginning to heal.  The event was organised by a civil society collective consisting of inter-religious groups, different NGOs and Diaspora groups.
+
+The National Peace Council appreciates the leadership role played by the Dharmashakthi Organisation, the Institute for Democratic Reforms and Electoral Studies (IRES), the Young Men’s Buddhist Association (YMBA), Sangha for a Better Sri Lanka (SBSL) and the Global Tamil Forum (GTF). Those at the evening open-air event were persons of all ethnicities and religions, religious clergy and politicians. The images shown at the event and the words spoken represented a common concern for all life, including security services personnel lost during the war.
+
+...
+
+[Data](articles/f768bf1f.json)
+
+---
+
+### The OHCHR strictures on Lanka -spitting in the wind - EDITORIAL
+
+*2024-05-20 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-OHCHR-strictures-on-Lanka-spitting-in-the-wind-EDITORIAL/172-282933) · `en`
+
+The Office of United Nations High Commissioner on Human Rights (OHCHR) on Friday the17th issued a strident call to the Sri Lanka Government (SLG) to urgently establish an independent prosecutorial authority, appoint a special prosecutor and create special courts to try those accused of gross violations of international law and serious breaches of international humanitarian law.
+
+In its report on accountability for enforced disappearances in our country, the OHCHR has suggested enhancing the capabilities of the Office on Missing Persons ensuring thorough investigation into mass graves and the prosecution of those responsible for these crimes.
+
+From the early 1970s our country has faced three armed uprisings -the Janatha Vimukthi Peramuna (JVP) insurgency of 1971, the near three-decade ethnic war of 1983 and the JVP uprising in 1989.
+
+...
+
+[Data](articles/6c39c4bb.json)
+
+---
+
+### IMF programme: The lender is the winner
+
+*2024-05-20 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/IMF-programme-The-lender-is-the-winner/172-282932) · `en`
+
+IMF mission for Sri Lanka officials addressing a media briefing in Colombo.
+
+The world is collapsing for our working people, with the tremendous rise in the cost of living, mass disruption of livelihoods, skipping meals due to broader food insecurity, and rising malnutrition and school dropouts. This is visible to all of us, from the larger number of beggars on the streets to children seeking work in the countryside. However, according to the IMF, “the country is doing well under the program.” Well for whom though?
+
+...
+
+[Data](articles/ecad00ed.json)
+
+---
 
 ### 2024-05-19 (Sunday)
 
@@ -51,6 +115,28 @@ Former President Rajapaksa also shared his concerns on social media, emphasizing
 [Data](articles/91b5ba00.json)
 
 [Extended Data](ext_articles/91b5ba00.ext.json)
+
+---
+
+### Importance of data in reducing industrial pollution in Sri Lanka
+
+*2024-05-19 23:08:28* · [`dailyftlk`](https://www.ft.lk/columns/Importance-of-data-in-reducing-industrial-pollution-in-Sri-Lanka/4-761967) · `en`
+
+According to the World Bank, our manufacturing industry was responsible for 25% of Sri Lanka’s greenhouse gas emissions in 2023
+
+Just 6,000 industrial entities account for 93% of the industrial electricity
+
+The CEA is now working to change the application process so that companies will be required to provide greenhouse gas-related data
+
+Some industrial sectors are making changes to adopt renewable technologies
+
+Of the 70,000 industrial entities supplied by the CEB, 350 consume 42% of all industry sector electricity
+
+To change something, first you have to understand it. But unless you fully understand what you are trying to change, you will be moving forward with your eyes closed. You will be struggling to understand the situation as you will be feeling your surroundings in the dark.
+
+...
+
+[Data](articles/a7ccd43a.json)
 
 ---
 
@@ -183,6 +269,36 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 [Data](articles/baff3336.json)
 
 [Extended Data](ext_articles/baff3336.ext.json)
+
+---
+
+### Iran helicopter crash: Contact made with passenger and crew member
+
+*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
+
+Turkey's president has said he is "deeply saddened" by the helicopter crash involving his "brother" Ebrahim Raisi.
+
+Writing on X, Tayyip Erdogan said Turkey was in full contact with the Iranian authorities and stood ready to provide any necessary support.
+
+23.45 - Conflicting reports over Iranian president's helicopter being found
+
+In the last few moments, conflicting reports have emerged with some suggesting the Iranian helicopter's crashed helicopter has been found.
+
+Reuters news agency quoted state media as saying Ebrahim Raisi's chopper was discovered by search and rescue teams.
+
+It did not detail where it was found, or if any survivors have been located.
+
+The Iranian president's helicopter has been found, state media has reported.
+
+It said Ebrahim Raisi's chopper was discovered by search and rescue teams.
+
+It has not detailed where it was found, or if any survivors have been located.
+
+23.36 - 'There will be no disturbances' - Iran's supreme leader seeks to reassure public
+
+...
+
+[Data](articles/4f6b18d5.json)
 
 ---
 
@@ -2043,159 +2159,5 @@ The advisory was issued by the Director of the Department of Fisheries and Aquat
 [Data](articles/64e572a0.json)
 
 [Extended Data](ext_articles/64e572a0.ext.json)
-
----
-
-### The International Judicial System is necessary to investigate international crimes, including genocide - US Congress member in Mullivaikkal Memorial
-
-*2024-05-19 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183939) · `ta`
-
-Deputy Summer Lee advocates for an International Judicial System to probe international crimes like the Mullivaikkal genocide, highlighting its importance for justice and accountability.
-
-🟩
-
-It has been 15 years since the Mullivaikkal genocide took place.
-
-"I am in favor of Tamils ​​all over the world when I remember the survivors of the genocide of the government during the final moments of the war in 2009," said Deputy Summer Lee of the US House of Representatives.
-
-He added that the war criminals responsible for these horrific crimes in Sri Lanka have allowed the country to establish power.
-
-He said that I urge you to create an International Criminal Justice System to investigate those responsible for international crimes, including genocide in Sri Lanka.
-
-US Congress member Debera Rose has said that I am also joining the Tamils ​​to commemorate the lives of the tragedy during the civil war of Sri Lanka today, the Tamil genocide day.
-
-He said that every day we should recall this tragedy and demand justice for the victims and their families.
-
-◼️
-
-[Data](articles/e095a8e8.json)
-
-[Extended Data](ext_articles/e095a8e8.ext.json)
-
----
-
-### Previous Monods Activates Heavy Rains in many areas
-
-*2024-05-19 11:50:51* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-මෝසම-සක්‍රීය-වෙයි--ඉදිරි-දින-කීපයේ-බොහෝ-ප්‍රදේශවලට-මහ-වැසි/11-409718) · `si`
-
-Heavy rains triggered by the previous monsoon are affecting Sri Lanka, with winds reaching 30-40 km/h. Areas like Matara, Sabaragamuwa, Galle, Kandy, Nuwara Eliya, and Mannar could see up to 150mm of rain. Colombo and Avissawella recorded over 140mm of rainfall between 8am on the 18th and 19th. Landslide warnings have been issued for several districts, including Colombo, Kalutara, Kandy, and others. The Disaster Management Center advises caution and provides emergency contact 117.
-
-🟩
-
-The Department of Meteorology has announced that heavy rainfall is due to the previous monsoon areas in Sri Lanka and in the area.. The wind situation is also available in the island that there will be about 30 to 40 kilometers per hour.
-
-In the Western and North-Western provinces, some places that can be earned 150 m m mm. The Department of Meteorology has announced that around 100 m m m m m m m m m m militaries have announced that around 100 mm in Matara, the Sabaragamuwa Province and Galle, Kandy, Nuwara Eliya and Mannar.
-
-Completed Rainfall from 8.00 am today (18) at 8.00 am today (19), Colombo (144.5 mm) and Anvanavawa (144 mm (144 mm) from Ratmalana(107.0 mm] (107.0 million) has been recorded.
-
-The Meteorological Department was still valid by the Department of Meteorology yesterday.
-
-...
-
-[Data](articles/aea06fad.json)
-
-[Extended Data](ext_articles/aea06fad.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-05-19 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196780) · `si`
-
-Heavy rains forecasted across Western and Northwestern regions, exceeding 150mm in some areas. The Department of Meteorology warns of significant rainfall in Galle, Matara, Kandy, Nuwara Eliya, and Mannar districts. Rising water levels pose a threat to reservoirs and rivers, including the Mahaweli River, Nilwala Ganga, and others.
-
-🟩
-
-The Department of Meteorology has issued a warning red notice of heavy rains.
-
-In some places in the Western and North Western and western partals, there are more heavy rains in over 150 mm.
-
-The Department of Meteorology is prevailing that there will be heavy showers in the Galle, Matara, Kandy, Nuwara Eliya and Mannar districts of the Sabaragamuwa Province.
-
-In the meantime, the water levels of reservoirs and river are still rising with the rain.
-
-The Irrigation Department says that the Mahaweli River, the Mahaweli River, Nilwala Ganga and Gin River are at risk.
-
-Also, Durauriya Oya, Maha Oya, Attanagalu Oya, Bentha River, Sri Kirula Oya Oya, Kirama, Kirama.
-
-◼️
-
-[Data](articles/09fc30b6.json)
-
-[Extended Data](ext_articles/09fc30b6.ext.json)
-
----
-
-### Arrangement of Buddhasmi Vesak Zone
-
-*2024-05-19 11:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தரஸ்மி-வெசாக்-வலயம்-ஏற்பாடு/175-337510) · `ta`
-
-Buddhasmi Vesak Zone organizes events from May 23-26, featuring Kangarama Vihara, President's Office, and Singapore Maha Karuna Buddhist Society, focusing on achievements under the theme "What we have done."
-
-🟩
-
-The Buddhasmi Vesak Zone has organized the Kangarama Vihara, the President's Office, the Prime Minister's Office, the Prime Minister's Office, the Singapore Maha Karuna Buddhist Society under the theme of "What we have done and what we have done."
-
-The Zone will be set up on May 23, 24, 25, 25 and 26, centered on the President's Office, the Shangrila Green Ground and the Gangarama Vihara.
-
-◼️
-
-[Data](articles/6a225c86.json)
-
-[Extended Data](ext_articles/6a225c86.ext.json)
-
----
-
-### Frog species endemic to Sri Lanka rediscovered in India after 200 years
-
-*2024-05-19 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99310/frog-species-endemic-to-sri-lanka-rediscovered-in-india-after-200-years) · `en`
-
-Researchers from the Zoological Survey of India, in partnership with the Andhra Pradesh Biodiversity Board, rediscovered the Sri Lankan golden-backed frog (Hylarana gracilis) after two centuries in the Koundinya wildlife sanctuary in the Chittoor district, the southernmost point of the Eastern Ghats in Andhra Pradesh. With this finding, the number of freshwater frog species in India rises to 20.
-
-Bharath Bhupathi from the Zoological Survey of India, Hyderabad, encountered frogs of this species near a pond in the forest and suspected that it could be a new species. However, after consulting taxonomic experts and utilising morphological and DNA barcoding tools, the species was confirmed to be the Sri Lankan golden-backed frog Hylarana gracilis.
-
-Mr. Bhupathi emphasizes that rediscovery is more significant than the discovery of a new species, as it provides evidence for the historic land bridge between India and Sri Lanka.
-
-...
-
-[Data](articles/19e36e12.json)
-
-[Extended Data](ext_articles/19e36e12.ext.json)
-
----
-
-### Conflicts in North Sudan Explains
-
-*2024-05-19 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196779) · `si`
-
-Escalating conflicts in North Sudan have resulted in nearly 60 deaths, according to foreign media. The UN expresses concern, highlighting severe impacts on civilians, including displacement and potential famine. Clashes involve the Sudanese army and paramilitary groups across 11 states, notably intensifying in Al Fashir. Thousands face dire conditions without basic amenities, prompting the UN Human Rights Council to describe the situation as "hell on earth."
-
-🟩
-
-The clashes that lead to North Sudan from last week have escalated.
-
-Foreign media reports that nearly 60 people who have died of the conflict have been killed.
-
-The United Nations has expressed his concern over the condition of the North Sudan.
-
-The Sudan people are severely affected due to the conflicts between the Sudanese army and the paramilitary groups.
-
-Foreign reports say that clashes erupted in 11 states of Sudan.
-
-Among the state of Al Fashir in the state of Al Fashir, in Sudan, has intensified the city of Al Fashir.
-
-Thousands of displaced times of Sudan conflicts, Al Fashier states that there is no basic amenities.
-
-The United Nations Human Rights Council said that the condition of North Sudan is as hell on earth.
-
-The United Nations emphasizes that the displaced persons are in front of a great famine.
-
-Accordingly, the United Nations Human Rights Commission has discussed the situation in Sudan and discussed with both parties engaged in Sudan.
-
-◼️
-
-[Data](articles/7bf9620f.json)
-
-[Extended Data](ext_articles/7bf9620f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 20:51:47**
+As of **2024-05-19 21:03:39**
 
 ## Newspaper Stats
 
-*Scraped **25,033** Articles*
+*Scraped **25,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,140
-adaderanalk | 2,898
+adaderanalk | 2,899
 tamilmirrorlk | 2,935
-virakesarilk | 3,782
+virakesarilk | 3,785
 dailymirrorlk | 3,925
 adaderanasinhalalk | 4,003
 
@@ -26,37 +26,123 @@ adaderanasinhalalk | 4,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,029 (100.0%) of 25,033 articles have been extended.
+25,033 (100.0%) of 25,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### පුත්තලමේ පාසල් හෙට වැසෙයි
+### All schools in Puttalam District to remain closed tomorrow
+
+*2024-05-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99322/all-schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
+
+All schools in the Puttalam district will be closed on Monday (May 20) due to the adverse weather conditions.
+
+This decision has been taken by the Governor of the North-Western Province in consideration of the prevailing inclement weather.
+
+It has been informed that a decision on the subsequent days would be taken according to the weather condition tomorrow and that the Chief Secretary of the North Western Province has informed the Provincial Education Director regarding this decision.
+
+◼️
+
+[Data](articles/11754ca6.json)
+
+---
+
+### .  ஈரான் ஜனாதிபதி பயணம் செய்த ஹெலிக்கொப்டரை கண்டுபிடிக்க முடியாத நிலை - ஈரான் ஊடகங்கள் தகவல்
+
+*2024-05-19 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183984) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி பயணம் செய்த ஹெலிக்கொப்டரை கண்டுபிடிக்க முடியாத நிலை காணப்படுகின்றது
+
+ஹெலிக்கொப்டர் விபத்துக்குள்ளான பகுதியில் மோசமான காலநிலை நிலவுகின்றது- குறிப்பிட்ட பகுதியில் மழையும் கடும் பனியும் காணப்படுவதாக ஈரான் செய்திகள் தெரிவிக்கின்றன.
+
+மீட்பு பணிக்காக அனுப்பப்பட்ட ஹெலிக்கொப்டர் ஜனாதிபதியின் ஹெலிக்கொப்டரை கண்டுபிடிக்க முடியாமல் திரும்பிவிட்டது என தகவல்கள் வெளியாகின்றன.
+
+ஈரான் ஜனாதிபதி பயணம் செய்த ஹெலிக்கொப்டர் தொலைதூர பகுதியொன்றில் அவசரமாக தரையிறங்கியுள்ளது என ஈரானின் அரச ஊடகம் தெரிவித்துள்ளது.
+
+ஈரான் ஜனாதிபதி ஈரானின் கிழக்கு அஜர்பைஜான் மாகாணத்திற்கு பயணம் செய்துகொண்டிருந்தார் ஈரானின் வெளிவிவகார அமைச்சரும் அவருடன் பயணம் செய்தார் என ஈரான் ஊடகங்கள் தெரிவித்துள்ளன.
+
+ஹெலிக்கொப்டர் அவசரமாக தரையிறங்கிய பகுதிக்கு செல்வது கடினமாக உள்ளது என ஈரான் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5e82ed4d.json)
+
+---
+
+### புத்தளம் மாவட்ட பாடசாலைகளுக்கு சீரற்ற வானிலை காரணமாக பூட்டு
+
+*2024-05-19 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183983) · `ta`
+
+சீரற்ற வானிலை காரணமாக புத்தளம் மாவட்டத்தில் உள்ள அனைத்து பாடசாலைகளையும் திங்கட்கிழமை (20) மூடுவதற்கு வடமேல் மாகாண ஆளுநர் அலுவலம் தீர்மானித்துள்ளார்.
+
+இனிவரும் வானிலைக்கு ஏற்ப எதிர்வரும் நாட்கள் தொடர்பில் தீர்மானிக்கப்படும் என அவர் மேலும் தெரிவித்துள்ளார்.
+
+இது தொடர்பில் வடமேல் மாகாண பிரதம செயலாளரால், மாகாண கல்விப் பணிப்பாளருக்கு அறிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7a0646b3.json)
+
+---
+
+### கடைசிப் போட்டியில் பஞ்சாபை 4 விக்கெட்களால் வென்றது ஹைதராபாத்; ஐபிஎல்லில் வியாஸ்காந்த் முதல் விக்கெட்டை வீழ்த்தினார்
+
+*2024-05-19 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183982) · `ta`
+
+17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் லீக் சுற்று இன்றுடன் நிறைவடையவுள்ள நிலையில் பஞ்சாப் கிங்ஸ் அணிக்கும் சன்ரைசர்ஸ் ஹைதராபாத் அணிக்கும் இடையில் ஹைதராபாத் ராஜிவ் காந்தி விளையாட்டரங்கில் நடைபெற்ற 69ஆவது போட்டியில் 4 விக்கெட்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் அணிகள் நிலையில் 17 புள்ளிகளுடன்  சன்ரைசர்ஸ் ஹைதராபாத் இரண்டாவது இடத்துக்கு முன்னேறியுள்ளது.
+
+எனினும், இரவு நடைபெறும் கொல்கத்தா நைட் ரைடர்ஸுடனான போட்டியில் ராஜஸ்தான் றோயல்ஸ் வெற்றிபெற்றால் அவ்வணி மீண்டும் இரண்டாம் இடத்திற்கு முன்னேறும்.
+
+சன்ரைசர்ஸ் ஹைதராபாத் ஏற்கனவே ப்ளே ஓவ் வாய்ப்பை உறுதிசெய்துகொண்டிருந்ததாலும் பஞ்சாப் கிங்ஸ் அந்த வாய்ப்பை இழந்திருந்ததாலும் இந்தப் போட்டி முடிவு இரண்டு அணிகளுக்கும் எவ்வித தாக்கத்தையும் ஏற்படுத்தவில்லை.
+
+சன்ரைசர்ஸ் ஹைதராபாத் சார்பாக தனது இரண்டாவது போட்டியில் விளையாடிய யாழ். மைந்தனும் இலங்கை வீரருமான விஜயகாந்த் வியாஸ்காந்த் திறமையாக பந்துவீசி 37 ஓட்டங்களுக்கு ஒரு விக்கெட்டைக் கைப்பற்றினார்.
+
+...
+
+[Data](articles/e24951d0.json)
+
+---
+
+### Schools in Puttalam closed tomorrow
 
 *2024-05-19 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196797) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුත්තලම දිස්ත්‍රික්කයේ සියලුම පාසල්  හෙට (20) දිනයේ වසාතැබීමට වයඹ පළාත්  ආණ්ඩුකාරවරයා තීරණය කර ඇත.
+Due to bad weather, all schools in Puttalam will be closed tomorrow. The decision was made by the North Western Province's Governor, who will decide about the next few days based on the weather forecast.
 
-හෙට දිනයේ කාලගුණ තත්ත්වය අනුව ඉදිරි දින පිළිබඳ තීරණය කර බව ඔහු දැනුම්දෙයි.
+🟩
 
-වයඹ පළාත් ප්‍රධාන ලේකම් විසින් මේ පිළිබඳව පළාත් අධ්‍යාපන අධ්‍යක්ෂතුමිය දැනුවත් කර ඇත.
+The Governor of the North Western Province has decided to close all schools in the Puttalam District due to the inclement weather.
+
+He is informed that the coming days will be decided on the coming days following the weather conditions tomorrow.
+
+The Chief Secretary of the North Western Province has been informed of the Provincial Director of Education.
 
 ◼️
 
 [Data](articles/fcadbe7e.json)
 
+[Extended Data](ext_articles/fcadbe7e.ext.json)
+
 ---
 
-### புத்தளம் பாடசாலைகளுக்கு நாளை பூட்டு
+### Lock tomorrow for Puttalam Schools
 
 *2024-05-19 20:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-பாடசாலைகளுக்கு-நாளை-பூட்டு/175-337545) · `ta`
 
-புத்தளம் மாவட்டத்தின் அனைத்து பாடசாலைகளுக்கும் நாளை (20) விசேட விடுமுறை வழங்கப்பட்டுள்ளதாக வடமேல் ஆளுநர் அலுவலகம் தெரிவித்துள்ளது.
+Puttalam district schools closed tomorrow due to special holiday announced by the North Western Governor's Office.
+
+🟩
+
+All schools in the Puttalam district have been given a special holiday tomorrow (20), the North Western Governor's Office said.
 
 ◼️
 
 [Data](articles/488f9636.json)
+
+[Extended Data](ext_articles/488f9636.ext.json)
 
 ---
 
@@ -73,6 +159,8 @@ Daily Mirror understands that the star all-rounder has already bought a few hous
 ◼️
 
 [Data](articles/fdb64448.json)
+
+[Extended Data](ext_articles/fdb64448.ext.json)
 
 ---
 
@@ -116,23 +204,29 @@ However, the President and the group have not been involved in a accident.
 
 ---
 
-### ஈரான் தூதுவரைத் தாக்கிய தொழிலதிபர் கைது
+### Businessman arrested for attacking Iran's ambassador
 
 *2024-05-19 19:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-தூதுவரைத்-தாக்கிய-தொழிலதிபர்-கைது/175-337543) · `ta`
 
-நேற்று மாலை கொழும்பு சிட்டி சென்டரில் (சிசிசி) கார் பார்க்கிங்கில் ஈரானிய தூதுவர் கலாநிதி அலிரேசா டெல்கோஷ் மீது தாக்குதல் நடத்தப்பட்டதாகக் கூறப்படும் வழக்கில் கொழும்பு 7 ஐச் சேர்ந்த வர்த்தகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A Colombo businessman was arrested for allegedly assaulting Iran's ambassador, Dr. Alresa Delgosh, at a parking lot in Colombo City Center. The incident occurred after a dispute over parking space. The suspect, identified as a 36-year-old resident of Ward Place, Colombo 07, was remanded until tomorrow by Colombo Additional Magistrate Harshana Kekunawala.
 
-கொழும்பு 07, வார்ட் பிளேஸில் வசிக்கும் புவனேக மஹாசென் பஸ்நாயக்க (வயது 36) என்ற சந்தேகநபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கொழும்பு சிட்டி சென்டர் வாகன தரிப்பிடத்தில் தனது வாகனத்தை நிறுத்த முற்பட்ட தூதுவருடன் ஏற்பட்ட வாக்குவாதத்தின் பின்னர் வர்த்தகர் தூதுவரை தாக்கிவிட்டு தப்பிச் செல்ல முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+A businessman from Colombo 7 has been arrested in connection with the alleged attack on Iranian Ambassador Dr. Alresa Delgosh at the City Center in Colombo last evening.
 
-அதன் பின்னர், தூதுவர் தனது வாகனத்தில் இருந்து இறங்கி, பொலிஸார் வரும் வரை காத்திருக்குமாறு சாரதிக்கு கூறியதுடன், அவரின் காரின் முன்புறத்தில் கையை வைத்து அழுத்தி வர்த்தகர் தப்பிச் செல்வதை தவிர்க்குமுகமாக ​​செயற்பட்டுள்ளார்.
+The suspect has been arrested by Mahasen Basnayake (age 36), a resident of Ward Place, Colombo 07.
 
-அவரை நாளை (20) வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெகுனாவல உத்தரவிட்டுள்ளார்.
+Police said they were trying to escape after a dispute with the ambassador to park his vehicle at the City Center parking lot in Colombo.
+
+Subsequently, the ambassador got out of his vehicle and told the driver to wait until the police arrived, and the trader was acting in the front of his car by pressing his hand in the front of his car.
+
+Colombo Additional Magistrate Harshana Kekunawala has ordered him to be remanded until tomorrow (20).
 
 ◼️
 
 [Data](articles/e8b96325.json)
+
+[Extended Data](ext_articles/e8b96325.ext.json)
 
 ---
 
@@ -2099,93 +2193,5 @@ The Hatton Magistrate's Court will be produced at the Hatton Magistrate's Court 
 [Data](articles/60db59d3.json)
 
 [Extended Data](ext_articles/60db59d3.ext.json)
-
----
-
-### Elderly couple and son murdered in Mirigama, suspect arrested
-
-*2024-05-19 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99308/elderly-couple-and-son-murdered-in-mirigama-suspect-arrested-) · `en`
-
-Police have arrested a suspect over the murder of an elderly couple and their son at Maladeniya, Mirigama.
-
-An 80-year-old man, his 77-year- old wife and their 42-year-old son had been killed in their home by the suspect, police said.
-
-Police revealed that the arrested suspect is a 42-year-old man.
-
-◼️
-
-[Data](articles/41e799e3.json)
-
-[Extended Data](ext_articles/41e799e3.ext.json)
-
----
-
-### Landslide warnings for seven districts
-
-*2024-05-19 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-warnings-for-seven-districts/108-282887) · `en`
-
-Colombo, May 19 (Daily Mirror) - The National Building Research Organisation (NBRO) has issued landslide warnings for seven districts due to the ongoing heavy rainfall.
-
-The warnings have been issued, effective from 03 am today (19) to 03 am tomorrow (20).
-
-Accordingly, the warning notices under Level 02 have been issued to the Ella Divisional Secretariats of the Badulla district.
-
-The landslide warning announcement under Level 1 include Badulla district and 33 Divisional Secretariat divisions in the Kandy, Kegalle, Ratnapura, Kalutara, Colombo and Gampaha districts.
-
-◼️
-
-[Data](articles/e43cd23b.json)
-
-[Extended Data](ext_articles/e43cd23b.ext.json)
-
----
-
-### The Sri Lankan government, which rejects the genocide, is planning to engage in international interventions and spreads wrong information
-
-*2024-05-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183929) · `ta`
-
-The Sri Lankan government denies genocide but engages in international interventions and disseminates false information. Pattrik Brown supports global Tamils' commemoration of the Mullivaikkal massacre, criticizing the government's lack of action on war crimes accountability.
-
-🟩
-
-The Sri Lankan government, which rejects the genocide, is engaged in international intervention and is deliberately involved in publishing false information
-
-Pattrik Brown stated that the Mullivaikkal massacre, which is referred to as the Tamil genocide day, is referring to the 15 years.
-
-He said that at this moment, I would express my support to the Tamils ​​around the world, when the Tamils ​​all over the world commemorate the victims of the genocide that took place in the final moments of the 2009 armed conflict.
-
-He said that the Sri Lankan government has not taken any honest measures to ensure the responsibility of justice and to ensure the responsibility of justice for the crimes and the disappeared incidents of the war and the aftermath of the war.
-
-இதனை விட மோசமான விடயம் என்னவென்றால் இடம்பெற்ற இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகள் திட்டமிட்டு பிழையான தகவல்களை வெளியிடுதல் பரப்புதல் போன்றவற்றில் ஈடுபட்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/d196991f.json)
-
-[Extended Data](ext_articles/d196991f.ext.json)
-
----
-
-### Man dies in Mahavila accident
-
-*2024-05-19 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196777) · `si`
-
-A 47-year-old man died in a tragic accident involving a bicycle and a motorcycle on Panadura road. The incident occurred when the victim, who was riding his motorcycle, collided with a cyclist. He was later pronounced dead upon arrival at the Panadura Base Hospital.
-
-🟩
-
-The Cyclist said that the cyclist was killed in collision with a bicyclist and a motorcycle in Panadura road.
-
-The deceased has been identified as a 47-year-old minor residing in the Alubomulla area.
-
-The victim was a motorcycle behind the bicycling while he was heading to the Panadura road from the Panadura road from the Panadura road in Panadura road.
-
-The cyclist was killed after admission to the Panadura Base Hospital and the boundary of the motorcycle and the motorcyclist.
-
-◼️
-
-[Data](articles/db3d0a06.json)
-
-[Extended Data](ext_articles/db3d0a06.ext.json)
 
 ---

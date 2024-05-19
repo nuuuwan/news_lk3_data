@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 18:10:36**
+As of **2024-05-19 18:33:39**
 
 ## Newspaper Stats
 
-*Scraped **24,991** Articles*
+*Scraped **24,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,137
-adaderanalk | 2,894
+adaderanalk | 2,895
 tamilmirrorlk | 2,931
 virakesarilk | 3,764
-dailymirrorlk | 3,918
+dailymirrorlk | 3,922
 adaderanasinhalalk | 3,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,988 (100.0%) of 24,991 articles have been extended.
+24,996 (100.0%) of 24,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Fire breaks out near Colombo Port
+
+*2024-05-19 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99318/fire-breaks-out-near-colombo-port) · `en`
+
+A fire has reportedly broken out in the living quarters of highway access road workers near the Colombo Port.
+
+The Colombo Fire Brigade said it has dispatched 04 fire trucks to assist in extinguishing the flames.
+
+◼️
+
+[Data](articles/79d1b229.json)
+
+[Extended Data](ext_articles/79d1b229.ext.json)
+
+---
+
+### The unseen impact of learning disorders in Sri Lanka
+
+*2024-05-19 18:01:00* · [`islandlk`](http://island.lk/the-unseen-impact-of-learning-disorders-in-sri-lanka/) · `en`
+
+“If a child can’t learn the way we teach, maybe we should teach the way they learn.” Ignacio Estrada. This is a quote that is lost on the Sri Lankan education system but bamboo rods and beatings still remain as the number one tool to teach. Contrary to our cultural beliefs, this method is the least effective way to teach and it’s particularly detrimental when it comes to children with learning disorders.
+
+Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologist Rudolf Berlin. People with Dyslexia have difficulty reading due to problems identifying speech sounds and their relation to words and letters (University of Oxford , n.d.). Simply put, these are the children who struggle to read and write and saying “Idiot, open your eyes and read what’s on the page. For every spelling mistake, I will give you a beating with a ruler,” will not cure their dyslexia.
+
+...
+
+[Data](articles/b96fb76a.json)
+
+[Extended Data](ext_articles/b96fb76a.ext.json)
+
+---
+
+### Col. 7 businessman arrested for assaulting Iranian Ambassador
+
+*2024-05-19 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Col-7-businessman-arrested-for-assaulting-Iranian-Ambassador/155-282902) · `en`
+
+Colombo, May 19 (Daily Mirror)- A businessman from Colombo 7 has been arrested over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park last evening.
+
+The suspect, Buwaneka Mahasen Basnayake (36) is a resident of Ward Place, Colombo 07.
+
+The Police said the businessman had assaulted the Ambassador and attempted to escape after an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
+
+The Ambassador then had got down from his vehicle and attempted to prevent the businessman from escaping by keeping his hand on the bonnet of the businessman’s car while calling the driver to wait until the police comes.
+
+However, the businessman had driven the car even after the Ambassador was thrown onto the bonnet.
+
+Police officials who arrived at the scene had arrested the suspect.
+
+He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana Kekunawala.
+
+◼️
+
+[Data](articles/522128c7.json)
+
+[Extended Data](ext_articles/522128c7.ext.json)
+
+---
 
 ### Landslide early warnings issued for 8 districts including Colombo
 
@@ -56,6 +114,8 @@ Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayaga
 
 [Data](articles/efd33689.json)
 
+[Extended Data](ext_articles/efd33689.ext.json)
+
 ---
 
 ### SJB sets dates for debate with NPP on Sri Lanka’s economy
@@ -72,21 +132,27 @@ The letter has also requested for an immediate response from the NPP in this reg
 
 [Data](articles/1b682a2c.json)
 
+[Extended Data](ext_articles/1b682a2c.ext.json)
+
 ---
 
-### The unseen impact of learning disorders in Sri Lanka
+### President meets Indonesian Coordinating Minister for Maritime Affairs, Investments
 
-*2024-05-19 17:01:00* · [`islandlk`](http://island.lk/the-unseen-impact-of-learning-disorders-in-sri-lanka/) · `en`
+*2024-05-19 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Indonesian-Coordinating-Minister-for-Maritime-Affairs-Investments/108-282900) · `en`
 
-“If a child can’t learn the way we teach, maybe we should teach the way they learn.” Ignacio Estrada. This is a quote that is lost on the Sri Lankan education system but bamboo rods and beatings still remain as the number one tool to teach. Contrary to our cultural beliefs, this method is the least effective way to teach and it’s particularly detrimental when it comes to children with learning disorders.
+Colombo, May 19 (Daily Mirror)- President Ranil Wickremesinghe, who is on an official visit to Indonesia, met Luhut Binsar Pandjaitan, the Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia, the President's Media Division (PMD) said.
 
-Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologist Rudolf Berlin. People with Dyslexia have difficulty reading due to problems identifying speech sounds and their relation to words and letters (University of Oxford , n.d.). Simply put, these are the children who struggle to read and write and saying “Idiot, open your eyes and read what’s on the page. For every spelling mistake, I will give you a beating with a ruler,” will not cure their dyslexia.
+The meeting took place today (19) at the United In Diversity Bali Campus on Kura Kura Bali Island where they discussed key topics such as the Global Blended Finance Alliance, Sri Lanka's Tropical Belt Initiative, the Blue Economy and the Seaweed Industry.
 
-...
+"Emphasis was placed on enhancing cooperation among Global South countries and establishing a collaborative research programme on mangrove cultivation.
 
-[Data](articles/b96fb76a.json)
+Both parties agreed on the need to establish a bilateral task force to coordinate these initiatives, considering Sri Lanka's current role as the chair of the Indian Ocean Rim Association (IORA), the PMD said.
 
-[Extended Data](ext_articles/b96fb76a.ext.json)
+◼️
+
+[Data](articles/42cad3a1.json)
+
+[Extended Data](ext_articles/42cad3a1.ext.json)
 
 ---
 
@@ -130,6 +196,8 @@ At the time, the Iranian Ambassador had exited his car and placed his hand on th
 
 [Data](articles/2f7e1d30.json)
 
+[Extended Data](ext_articles/2f7e1d30.ext.json)
+
 ---
 
 ### Suspect remanded for assaulting Iranian Ambassador
@@ -149,6 +217,20 @@ The suspect was produced in court by Slave Island, was remanded.
 [Data](articles/611dd524.json)
 
 [Extended Data](ext_articles/611dd524.ext.json)
+
+---
+
+### Pindapatha Charika
+
+*2024-05-19 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pindapatha-Charika/110-282899) · `en`
+
+A Pindapatha Charika was held at the Sri Swarna Shaila Bimbarama Viharaya at Katubedda, Moratuwa in view of the Vesak Poya Day under the guidance of Venerable Pannala Sobitha thera, head of the Bimbarama Viharaya. About 15 monks participated in the Pindapatha Charika. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/e13e863f.json)
+
+[Extended Data](ext_articles/e13e863f.ext.json)
 
 ---
 
@@ -2215,85 +2297,5 @@ Also, the founder of the humanitarian leader, the spiritual guru, the Ambassador
 [Data](articles/a8e4308f.json)
 
 [Extended Data](ext_articles/a8e4308f.ext.json)
-
----
-
-### The weather will continue with high rainfall
-
-*2024-05-19 01:26:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-மழையுடனான-வானிலை-தொடரும்/175-337476) · `ta`
-
-Heavy rainfall and strong winds are forecasted nationwide, with over 100mm recorded in several areas. Expect thunderstorms in the afternoon across the country.
-
-🟩
-
-The Department of Meteorology said it is expected to increase rain and wind weather.
-
-The Department of Meteorology has stated that heavy rainfall will prevail in the coming days due to an increase in the pre -adolescence, which is near the country's seas.
-
-Accordingly, more than 100mm of rainfall has been reported in many parts of the country.
-
-It has also been reported that rain or thunderstorms will occur in many parts of the country in the afternoon. (A)
-
-◼️
-
-[Data](articles/06669013.json)
-
-[Extended Data](ext_articles/06669013.ext.json)
-
----
-
-### Diana Kamage handed over the passport
-
-*2024-05-19 01:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டை-ஒப்படைத்தார்-டயானா-கமகே/175-337475) · `ta`
-
-Diana Kamage surrendered her passport after losing her parliamentary seat due to a Supreme Court ruling that she isn't a Sri Lankan citizen, preventing her from holding public office.
-
-🟩
-
-Former State Minister Diana Kamage has handed over his passport to the Immigration and Emigration Department officials.
-
-The Supreme Court recently ordered the cancellation of Diana Kamage's parliamentary membership.
-
-The Supreme Court ruled that Diana Kamage was not a Sri Lankan citizen and that she could not continue to hold parliamentary membership.
-
-Meanwhile, former parliamentarian Diana Kamage was banned from going abroad by Colombo Chief Magistrate Thilina Kamage on the 9th.. (A)
-
-◼️
-
-[Data](articles/41084f91.json)
-
-[Extended Data](ext_articles/41084f91.ext.json)
-
----
-
-### Tamil and Muslim Voting Trends  in  Past Presidential Elections.
-
-*2024-05-19 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84026) · `en`
-
-This is the fourth  article in a series focusing on Sri Lankan  President Ranil Wickremesinghe and his evolving strategy   to contest  the forthcoming 2024  Presidential elections. In a political climate where deliberate attempts are being made to mislead people about Wickremesinghe’s presidential election plans and  prospects, the objective of this series is to  analyse in detail  the  game plan and stratagems  adopted by Ranil to face the 2024 presidential hustings.  Since Ranil Wickremesinghe is the incumbent president, priority is being  given to him. However  after this series is concluded, I do intend writing about other presidential aspirants and their election campaigns also in the future.
-
-...
-
-[Data](articles/3e9bb270.json)
-
-[Extended Data](ext_articles/3e9bb270.ext.json)
-
----
-
-### Thousands of Tamils Converge at Mullivaaikkaal On Mullaitheevu district coast  to remember  their Kith and Kin were killed 15 years ago in the Final phase of the war in May 2009
-
-*2024-05-19 01:08:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84058) · `en`
-
-Thousands of Tamils on May 18 converged in Mullaivaikkal, along Sri Lanka’s north-eastern coast, to pay homage to their relatives killed in May 2009, in the final battle of the island’s protracted civil war.
-
-As the war escalated before its gruesome end, lakhs of Tamil civilians were pushed to this narrow strip of land, declared a ‘No Fire Zone’ by the government. Tens of thousands, including women and children, died in the indiscriminate shelling of the armed forces, while scores were seriously injured.
-
-Families gathered at the venue on Saturday and placed photographs of their loved ones in the sandy ground near the sea, offered prayers with flowers, food, and by lighting lamps. Antony Jesurathnam Mariapushparani, a Mullaitivu resident, has vivid images from May 18, fifteen years ago.
-
-...
-
-[Data](articles/0e5d4417.json)
-
-[Extended Data](ext_articles/0e5d4417.ext.json)
 
 ---

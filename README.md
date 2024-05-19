@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 09:33:52**
+As of **2024-05-19 09:52:56**
 
 ## Newspaper Stats
 
-*Scraped **24,905** Articles*
+*Scraped **24,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,125
 adaderanalk | 2,884
-tamilmirrorlk | 2,917
+tamilmirrorlk | 2,918
 virakesarilk | 3,752
-dailymirrorlk | 3,906
-adaderanasinhalalk | 3,979
+dailymirrorlk | 3,907
+adaderanasinhalalk | 3,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,904 (100.0%) of 24,905 articles have been extended.
+24,910 (100.0%) of 24,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Where the UUPAN was placed
+
+*2024-05-19 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196774) · `si`
+
+In a short Italian race, Tokyo Medakas led after the fourth stage. Despite Paris Abeykoon missing his 10-second goal, he remains eligible for the Paris Olympics.
+
+🟩
+
+Short racing championships have passed the fourth of the race in Italy yesterday (18).
+
+Tokyo Medakas was found in the first place in the match.
+
+If the Paris Abeykoon was able to end at 10.00 seconds, he will be eligible for the Paris Olympics.
+
+But in the match, he could not reach that level and will be eligible for the Paris Olympics.
+
+◼️
+
+[Data](articles/27a4426e.json)
+
+[Extended Data](ext_articles/27a4426e.ext.json)
+
+---
+
+### Note of Ella - Passara Road
+
+*2024-05-19 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196773) · `si`
+
+Traffic restrictions due to cargo falling have been lifted on Passara Road. The Road Development Authority has initiated measures to clear landslide debris.
+
+🟩
+
+It is reported that the cargoing falls restricted traffic is open to traffic on traffic.
+
+Our correspondent said that the roads of the Road Development Authority has taken steps to remove the landslide soil.
+
+◼️
+
+[Data](articles/8a366343.json)
+
+[Extended Data](ext_articles/8a366343.ext.json)
+
+---
+
+### Sri Lanka Army promotes 1,509 officers and other ranks
+
+*2024-05-19 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Army-promotes-1-509-officers-and-other-ranks/108-282885) · `en`
+
+Colombo, May 19 (Daily Mirror)  - A total of 114 officers and 1,395 other ranks in the Sri Lanka Army have been promoted in  view of the 15th Victory Day Anniversary.
+
+President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, approved these promotions based on the recommendations of the Ministry of Defence and Army Commander Lieutenant General Vikum Liyanage.
+
+The promotions are effective from May 19, 2024, coinciding with National War Heroes Commemoration Day.
+
+◼️
+
+[Data](articles/e798fe9d.json)
+
+[Extended Data](ext_articles/e798fe9d.ext.json)
+
+---
 
 ### Sri Lanka Army promotes 114 officers and over 1,300 other ranks
 
@@ -47,6 +109,32 @@ The promotions have been made effective from May 19, 2024 which is the National 
 [Data](articles/14bd43dd.json)
 
 [Extended Data](ext_articles/14bd43dd.ext.json)
+
+---
+
+### National War Hero Day Celebration Today
+
+*2024-05-19 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196772) · `si`
+
+Today marks National War Hero Day, celebrated at Battaramulla Memorial with PM Dinesh Gunawardena. A special traffic plan is in place due to the event, closing roads from Poliduwa Junction to Kanhayaham Junction. Drivers are advised to take alternate routes. Roads will reopen post-event.
+
+🟩
+
+The ceremony will be held at the Battaramulla Memorial at the Battaramulla Parliamentarian stadium at 4 pm under the patronage of Prime Minister Dinesh Gunawardena.
+
+As a result, a special traffic plan is being implemented, police said.
+
+According to the police, the parliamentarian parliamentarian will be closed from the Poliduwa Junction and Kanhayaham Junction until the end of the afternoon celebrations of the war heroes.
+
+Police informed drivers to use alternative routes during that period.
+
+The police said that immediate action will be taken to open the road for traffic immediately after the event.
+
+◼️
+
+[Data](articles/7f5033dd.json)
+
+[Extended Data](ext_articles/7f5033dd.ext.json)
 
 ---
 
@@ -73,6 +161,32 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/58e44c31.json)
 
 [Extended Data](ext_articles/58e44c31.ext.json)
+
+---
+
+### Killing the family and jewelry, money loot
+
+*2024-05-19 08:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/குடும்பத்தை-கொன்று-நகை-பணம்-கொள்ளை/150-337480) · `ta`
+
+A man was arrested for murdering his uncle, brother, and nephew, then stealing money and gold worth 300,000 rupees. The gruesome killings occurred early morning in Maladeniya, leading to his arrest after a search found him with the stolen goods.
+
+🟩
+
+Nalla police say that a man who killed his uncle, brother and brother was arrested for robbing money and gold.
+
+The inhuman murder took place at around 4 am this morning at a house in Maladeniya, police said.
+
+Police searched the man on the bicycle and seized about 3 lakh rupees and gold items from him.
+
+According to the police, the suspect was arrested and taken to the police and that the letters were revealed when he examined the murder.
+
+Investigations have revealed that his wife's uncle, Punji and their child have been killed.
+
+◼️
+
+[Data](articles/3ea971bc.json)
+
+[Extended Data](ext_articles/3ea971bc.ext.json)
 
 ---
 
@@ -120,17 +234,25 @@ The promotion has been made to members of all regiments, which have been affecte
 
 ---
 
-### ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය විවෘත කරයි
+### Ella - Wellawaya opens main road
 
 *2024-05-19 07:14:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල---වැල්ලවාය-ප්‍රධාන-මාර්ගය-විවෘත-කරයි/11-409707) · `si`
 
-ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වෙමින් පවතින නාය යාමේ අවධානම හේතුවෙන් තාවකාලිකව රාත්‍රි වසා දැමූ ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය රථ වාහන ධාවනය සදහා යලි අද (19) උදෑසන 6 සිට විවෘත කල බව ඇල්ල පොලිසිය පවසයි .
+Due to heavy rains causing landslides in the Malthagolla area, the Ella-Wellawaya main road was temporarily closed on 18th. The closure was decided by the National Building Research Institute, Road Development, and Divisional Secretariat, along with the Badulla District Secretariat and local post officers.
 
-වර්ෂාවත් සමඟ ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම නිසාවෙන් එහි රොන්මඩ තට්ටු,මඩ,බොරදිය ජලපහරක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයට ගලාගෙන ඒම නිසාවෙන් ඇති වී තිබෙන දැඩි අවධානමත්, වර්ෂාවත් සමඟ ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ තැනින් තැනට පස්කදු ගල්පර්වත ගස්කොළන් කඩා වැටීමේ දැඩි අවධානම නිසාවෙන් මෙසේ ඊයේ (18) රාත්‍රි 8 සිට අද (19);උදෑසන 6 වනතෙක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගය තාවකාලිකව වසා දමා තිබූ  බවද ඇල්ල ප්‍රාදේශීය ලේකම් ඉංදික ගයාන් පතිරණ මහතා පැවසීය
+🟩
 
-...
+The Ella Wellawaya main road was temporarily closed due to landslides in the Maltalagolla area in the Malthagolla area in the Maltalagolla area.
+
+The landslide of the Ella in the Malthagolla area in the Malthagolla area with the rain with the rainfall, the landslide flows into the Wellawaya main road, the end of the Colombo Wellawaya main road, the lack of rain falls in the Wellawaya collapsingElla Divisional Secretarian, Wellawaya main road was temporarily closed yesterday (18).
+
+The National Building Research Institute, Road Development, Falls, Divisional Secretariat has taken with the Badulla District Secretariat, the decision was taken with the District Post Officers in the Maligolla area.He also said that this road will be temporarily closed at times, according to the current rain.
+
+◼️
 
 [Data](articles/ce48ddbe.json)
+
+[Extended Data](ext_articles/ce48ddbe.ext.json)
 
 ---
 
@@ -684,7 +806,7 @@ He was receiving treatment at the Colombo South Teaching Hospital.
 
 ---
 
-### Sri Lanka seeks to draw youth into agri-entrepreneurship with 1.6bn funding
+### Sri Lanka seeks to draw youth into agri-entrepreneurship with Rs1.6bn funding
 
 *2024-05-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-to-draw-youth-into-agri-entrepreneurship-with-1-6bn-funding-163562/) · `en`
 
@@ -2219,109 +2341,5 @@ The US Ambassador further reaffirmed their commitment to support Sri Lanka’s j
 [Data](articles/8dc56b0c.json)
 
 [Extended Data](ext_articles/8dc56b0c.ext.json)
-
----
-
-### Spiritual Leader Gurudev Sri Sri Ravi Shankar to visit Sri Lanka
-
-*2024-05-18 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spiritual-Leader-Gurudev-Sri-Sri-Ravi-Shankar-to-visit-Sri-Lanka/108-282876) · `en`
-
-Colombo, May 18 (Daily Mirror) - Global spiritual leader and peacemaker Gurudev Sri Sri Ravi Shankar will be visitng Sri Lanka from 18th to 20th May, on an invitation from the Prime Minister of Sri Lanka, Dinesh Gunawardena. This is Gurudev’s sixth visit to the country.
-
-As thousands await Gurudev’s arrival in the island nation, during this visit, Gurudev will address a public meeting at an event titled ‘Ekamuthuva: An Evening of Music, Meditation and Wisdom’ at Taj Samudra on 19th May. At the event,12 skill development centers of The Art of Living across the country, will be inaugurated. These centers aim to empower over 5000 youth with skills to make them job-ready. At the same event, Gurudev will also virtually inaugurate The Art of Living Center in Wattala.
-
-...
-
-[Data](articles/eebda376.json)
-
-[Extended Data](ext_articles/eebda376.ext.json)
-
----
-
-### Arrest of four persons over War Dead Commemoration: Sri Lankan authorities in Canada in dilemma
-
-*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Arrest-of-four-persons-over-War-Dead-Commemoration-Sri-Lankan-authorities-in-Canada-in-dilemma/108-282875) · `en`
-
-Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
-
-Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
-
-An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
-
-Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
-
-...
-
-[Data](articles/6912c580.json)
-
-[Extended Data](ext_articles/6912c580.ext.json)
-
----
-
-### Sri Lankan authorities in Canada in dilemma
-
-*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-authorities-in-Canada-in-dilemma/108-282875) · `en`
-
-Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
-
-Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
-
-An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
-
-Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
-
-...
-
-[Data](articles/79b81eae.json)
-
-[Extended Data](ext_articles/79b81eae.ext.json)
-
----
-
-### Arrest of four persons over War Dead Commemoration: Sri Lankan authorities in Canada in dilemma
-
-*2024-05-18 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Arrest-of-four-persons-over-War-Dead-Commemoration-Sri-Lankan-authorities-in-Canada-in-dilemma/155-282875) · `en`
-
-Colombo, May18 (DailyMirror) -The recent arrest of four Tamils in the Eastern Province over the commemoration of war dead has left Sri Lankan diplomatic authorities in Canada in a precarious position in countering allegations regarding human rights violations, a top source said.
-
-Canada is home to around 240,000 Tamils of Sri Lankan origin, lobbying against the alleged human rights violations during wartime.
-
-An informed source said the latest incident in the Eastern Province is raised in Canada by Tamil rights activists, and the Sri Lankan government authorities are in a fix even beingunable to issue a rebuttal.
-
-Besides, Sri Lanka is alert whether Canadian Prime Minister Justin Trudeau will renew genocide allegations against Sri Lanka when the country marks victory day today. Sri Lanka ended the civil war on May 18, 2009.
-
-...
-
-[Data](articles/9a186bcb.json)
-
-[Extended Data](ext_articles/9a186bcb.ext.json)
-
----
-
-### TELO says we are investigating the general candidate
-
-*2024-05-18 09:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொது-வேட்பாளரை-ஆராய்கிறோம்-என்கிறது-டெலோ/72-337463) · `ta`
-
-The LTTE is investigating a common candidate for the Tamil people amidst the presidential election. They aim to protect Tamil lands and people, opposing South Sri Lanka forces affecting the Vanni district. Negotiations are underway with Tamil parties to unify efforts. The focus remains on addressing issues affecting Tamils, including potential parliamentary elections. Observations of Mullivaikkal Memorial Day highlight concerns over police actions against tribute events.
-
-🟩
-
-The presidential election is being investigated on the issue of common candidate on behalf of the Tamil people.
-
-The leader of the Liberation Tigers of Tamil Eelam (LTTE). The wealth of the wealthy.
-
-The Liberation Tigers of Tamil Eelam (LTTE) is doing its duty in order to restore our people in the country where our natives are running out of the country and protect our lands.
-
-The Tamil Eelam Liberation Movement is united in the process of mobilizing the Tamil parties and has begun negotiations to embrace other parties that love the nationality.
-
-In that way, for our people and for the soil, we will continue the process of protecting our soil and people.
-
-And we will make an effort to stop the activities of the South Sri Lanka forces that eradicate our Vanni district, especially the Vavuniya district.
-
-...
-
-[Data](articles/80f19a41.json)
-
-[Extended Data](ext_articles/80f19a41.ext.json)
 
 ---

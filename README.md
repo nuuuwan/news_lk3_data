@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 05:18:29**
+As of **2024-05-19 05:36:05**
 
 ## Newspaper Stats
 
-*Scraped **24,879** Articles*
+*Scraped **24,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 223
 bbccomsinhala | 253
 dbsjeyarajcom | 253
 newsfirstlk | 363
-islandlk | 1,339
+islandlk | 1,345
 economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,122
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,879 (100.0%) of 24,879 articles have been extended.
+24,879 (100.0%) of 24,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Reach for Excellence exhorts science professor to AIA scholarship winners
+
+*2024-05-19 04:13:00* · [`islandlk`](http://island.lk/reach-for-excellence-exhorts-science-professor-to-aia-scholarship-winners/) · `en`
+
+Prof. Ajith de Alwis, chief guest at the recently concluded 29th edition of the AIA Higher Education Scholarship Program rewarding over 750 outstanding students entering GCE ‘A’ level classes exhorted on the award winners to reach out for excellence.
+
+Since inception in 1994, the program has continued for 29 consecutive years with awards made to the brightest students irrespective of whether they are AIA customers or not.
+
+An AIA news release said Prof. de Alwis shared invaluable insights to inspire the next generation of leaders emphasizing the unique era we live in, marked by the simultaneous occurrence of four industrial revolutions: nanotechnology, biotechnology, information technology and neurotechnology.
+
+...
+
+[Data](articles/38231282.json)
+
+---
+
+### SLT-MOBITEL reports marginal growth in Q1 2024 amidst cost optimization efforts
+
+*2024-05-19 04:13:00* · [`islandlk`](http://island.lk/slt-mobitel-reports-marginal-growth-in-q1-2024-amidst-cost-optimization-efforts-2/) · `en`
+
+SLT-MOBITEL has reported a flat growth in Q1 2024 ending March 31, 2024, amidst a challenging business environment. However, the company’s proactive cost management initiatives have resulted in significant operational cost savings, enabling it to maintain profitability.
+
+For the quarter, the SLT Group has recorded consolidated revenue of LKR 26.93 billion, reflecting a marginal 1.4% year-on-year increase.
+
+However, compared to the fourth quarter of the previous year, i.e., Q4 2023, there was a modest increase of 3.7% in revenue, driven by enterprise and broadband revenues.
+
+The Company has successfully implemented cost-saving measures, resulting in a decrease of 0.6% in operational expenditure (excluding depreciation and amortization) compared to Q1 2023. This was partly due to the decrease in dollar-denominated expenses such as Annual Maintenance Cost (AMC), international settlement, and internet backbone charges due to the rupee appreciation.
+
+...
+
+[Data](articles/84607917.json)
+
+---
 
 ### Diana Kamage handed over the passport
 
@@ -129,6 +163,22 @@ The student said the police were assaulted by the police to be stolen into a air
 [Data](articles/b09ab1bd.json)
 
 [Extended Data](ext_articles/b09ab1bd.ext.json)
+
+---
+
+### How to build a culture of service excellence: Ron Kaufman to lead event in Colombo
+
+*2024-05-18 21:58:00* · [`islandlk`](http://island.lk/how-to-build-a-culture-of-service-excellence-ron-kaufman-to-lead-event-in-colombo-2/) · `en`
+
+In light of Sri Lanka’s emergence from its worst-ever economic crisis, organizations must prioritize customer service excellence as they navigate evolving business landscapes, changing customer needs, and heightened competition. Effective, authentic customer service remains the cornerstone of any successful organization, news release connected with an upcoming event said.
+
+Well-known Global Customer Experience Guru Ron Kaufman will lead an event in Colombo, Sri Lanka, on June 6 at Waters Edge, Battaramulla, focusing on uplifting customer service and elevating organizational excellence amidst challenging contexts.
+
+Kaufman is known for his holistic approach to service design, execution and transformation to create a customer service culture that supports employees, delights customers and drives organizational performance.
+
+...
+
+[Data](articles/928f24ca.json)
 
 ---
 
@@ -2319,65 +2369,5 @@ Launched in 2004, the John Keells English Language Scholarship Programme (JKELSP
 [Data](articles/512044c0.json)
 
 [Extended Data](ext_articles/512044c0.ext.json)
-
----
-
-### CEB records Rs. 88.3 bn profits in 1Q24
-
-*2024-05-18 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-records-Rs-88-3-bn-profits-in-1Q24/108-282872) · `en`
-
-State run Ceylon Electricity Board (CEB) for the first quarter ended 31 March (1Q24) has recorded a profit of Rs. 88.3 billion, which is a 349.8 percent change when compared with the Rs. 35.3 billion loss recorded in the corresponding period in 2023.
-
-The entity generated revenue of Rs. 179 billion in 1Q14. Having provided no concessions to domestic customers, and witnessing a reduction of 28 percent in cost of sales, and a gross profit of Rs. 69 billion was recorded. In 1Q23, the CEB posted a gross loss of Rs. 17 billion.
-
-With contractions in distribution cost (56 percent YoY), other expenses (32.7 percent YoY), and administrative expenses (14 percent YoY), CEB recorded an operating profit of Rs. 97 billion. This is a 608 percent change when compared to the Rs. 19.2 billion operating loss recorded in 1Q23.
-
-While proceeds of interest bearing loans and borrowings recorded Rs. 4.8 billion, repayments of interest bearing loans and borrowings were Rs. 7.8 billion for the 1Q24 period.
-
-...
-
-[Data](articles/248d927f.json)
-
-[Extended Data](ext_articles/248d927f.ext.json)
-
----
-
-### Signature teams up with Sri Lanka Cricket as ‘Official Formal Clothing Partner’ for ICC Men’s T20 World Cup 2024
-
-*2024-05-18 04:33:00* · [`islandlk`](http://island.lk/signature-teams-up-with-sri-lanka-cricket-as-official-formal-clothing-partner-for-icc-mens-t20-world-cup-2024/) · `en`
-
-In a testament to their enduring partnership, Signature, Sri Lanka’s most admired menswear brand, has once again teamed up with Sri Lanka Cricket as the ‘Official Formal Clothing Partner’ for the ICC Men’s T20 World Cup 2024. Building on their past collaborations, this renewed alliance signifies the mutual trust and shared commitment to excellence between both entities. The company previously served as the clothing sponsors for the Cricket World Cup in 1996 and the T20 World Cup in 2014, both victorious tournaments for Sri Lanka.
-
-Signature’s commitment to excellence extends beyond the realms of fashion, as the brand strives to make a meaningful impact in the sporting arena. By reaffirming its support for Sri Lanka Cricket, Signature aims to inspire athletes and fans alike to reach new heights of achievement.
-
-...
-
-[Data](articles/7e6e1d87.json)
-
-[Extended Data](ext_articles/7e6e1d87.ext.json)
-
----
-
-### CMTA hosts forum to explore Sri Lanka’s economic growth & mobility
-
-*2024-05-18 04:32:00* · [`islandlk`](http://island.lk/cmta-hosts-forum-to-explore-sri-lankas-economic-growth-mobility/) · `en`
-
-The recent event organized by the Ceylon Motor Traders Association (CMTA), themed “Mobility and Economic Growth,” brought together key stakeholders and thought leaders to delve into crucial discussions shaping Sri Lanka’s economic landscape. The event, highlighted by a keynote speech from Katsuki Kotaro, Minister and Deputy Head of Mission at the Embassy of Japan, and a dynamic panel discussion, provided invaluable insights and strategies for sustainable growth and enhanced mobility.
-
-SLT-MOBITEL reports marginal growth in Q1 2024 amidst cost optimization efforts
-
-CMTA urges govt. to rethink its decision to allow import of old buses
-
-Motor trader faces mass exodus with latest tax increases – CMTA
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/540d45bf.json)
-
-[Extended Data](ext_articles/540d45bf.ext.json)
 
 ---

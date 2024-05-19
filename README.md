@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 13:03:37**
+As of **2024-05-19 13:18:31**
 
 ## Newspaper Stats
 
-*Scraped **24,957** Articles*
+*Scraped **24,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,129
+adalk | 2,130
 adaderanalk | 2,890
 tamilmirrorlk | 2,928
 virakesarilk | 3,762
@@ -26,41 +26,59 @@ adaderanasinhalalk | 3,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,953 (100.0%) of 24,957 articles have been extended.
+24,957 (100.0%) of 24,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### இணையப் பெருவெளியில் உளவு பார்த்தலால் ‘நிழல் யுத்தம்’
+### Shadow War
 
 *2024-05-19 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183940) · `ta`
 
-ஒவ்வொரு பீப்பா நினைத்தாலும், அதற்குள் உள்ள நீர் வெளியே கலப்பதையும், வெளியில் உள்ள நீர் உட்புகுவதையும் தடுத்தல் சிரமம். அதேபோன்று தான் இணையப் பெருவெளியில் நீக்கமறக் கலந்திருக்கின்ற ஒவ்வொரு நாடுகளின் தகவல்களையும் கூறமுடியும்.
+"Shadow War: A metaphorical description of how countries struggle with controlling information online, akin to managing water within and without containers. Nations worldwide face accusations of espionage, with the US and UK accusing China of spying, highlighting ongoing tensions."
 
-இப்போது இன்னொரு பூதம். இதை வேடிக்கையாக கடந்து விடுவதா, விழுங்கி விடுமா என்று அச்சப்படுவதா தெரியவில்லை. அதனால் உலக நாடுகள் இருதலைக்கொள்ளி எறும்பாக தடுமாறுகின்றன.
+🟩
 
-சீனா உளவு பார்க்கிறது என்ற குற்றச்சாட்டு தான் பூதம். அமெரிக்காவும் பிரித்தானியாவும் குற்றச்சாட்டை முன்வைத்துள்ளன. மேற்குலகம் அவ்வப்போது சீனாவின் மீது விரல் நீட்டுவது வழமை தான். இம்முறை குற்றச்சாட்டு பாரதூரமானதாக இருக்கிறது.
+Each of the beppa is difficult to prevent the water inside it and the water in the outside. Similarly, the information of every country that is mixed in the Internet is the same.
+
+Now another troll. It is not known whether it is fun to be fun or to swallow this. So the nations of the world are stumbled into an ant.
+
+The troll is the accusation that China is spying. The US and Britain have put the charge. It is usual to stretch finger on China from time to time. This time the charge is serious.
 
 ◼️
 
 [Data](articles/504499f3.json)
 
+[Extended Data](ext_articles/504499f3.ext.json)
+
 ---
 
-### கொத்தட்டுவ புதிய ஈரநிலப் பூங்காவின் அபிவிருத்திப் பணிகள் ஆரம்பம்
+### The development work of the new wetland park
 
 *2024-05-19 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183936) · `ta`
 
-கொத்தட்டுவ புதிய ஈரநில பூங்கா அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன. கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்ட ஈரநிலங்களின் அபிவிருத்தியின் கீழ், கொத்தட்டுவ ஈரநிலத்தை அபிவிருத்தி செய்வதில் இலங்கை காணி அபிவிருத்தி கூட்டுத்தாபனம் கவனம் செலுத்தியுள்ளது.
+Sri Lanka's Land Development Corporation is developing a new wetland park in Colombo, aiming to preserve the environment, enhance public mental health, and conserve water during floods. The park, spanning 35 hectares, includes facilities like butterfly and bird gardens, bicycle paths, restaurants, and a wildlife center. It also features educational programs to raise awareness about wetland conservation. The project, costing 180 million, is expected to open by the end of the year.
 
-தற்போது தியசரு, பெத்தகான, கொட்டுபெம்ம ஆகிய நகர ஈர நிலங்கள் அபிவிருத்தி செய்யப்பட்டு பொதுமக்களின் பாவனைக்காக திறக்கப்பட்டுள்ளன.
+🟩
 
-சுற்றுச்சூழலின் சமநிலையைப் பேணுதல், பரபரப்பான நகரத்தில் பொதுமக்களின் மனநலத்தைப் பேணுதல், வெள்ளப்பெருக்கு நேரங்களில் நீரை சேமித்தல் போன்ற செயல்களை அடையாளம் கண்டு ஈரநிலங்களை பலவந்தமாக பிடித்துக்கொள்வதை தடுத்து கொத்தட்டுவ ஈரநிலப் பூங்கா உருவாக்கப்படும்.
+New wetland park development work has begun. The Sri Lanka Land Development Corporation has focused on the development of the wetland in the Colombo district under the development of the wetlands.
+
+Currently, the city of Tiyasaru, Bethana and Kottubemma has been developed and opened for public use.
+
+Maintaining the balance of the environment, maintaining the mental health of the public in the hectic city, and the saving of water during the flooding time, the wetland park will be created to prevent the wetlands.
+
+Due to the construction of buildings in wetlands, the "lowland lands that have been acquired by the state under the Large Colombo Flood Control Scheme are declining daily.". The scheme is implemented under the Sri Lanka Land Development Corporation targeting to protect them and use wetlands wisely.
+
+180 million has been allocated for this project. We are planning to complete the park's work at the end of this year.
+
+This 35 hectares of wet land is now 4 km long and 3.5 km long.
 
 ...
 
 [Data](articles/474e61c6.json)
+
+[Extended Data](ext_articles/474e61c6.ext.json)
 
 ---
 
@@ -88,21 +106,27 @@ Elon Musk arrived in Indonesia’s resort island of Bali on Sunday to launch Sta
 
 ---
 
-### ජනාධිපති ඊලෝන් මස්ක් හමුවෙයි
+### President Elon Meet Meet
 
 *2024-05-19 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196782) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ලොව ප්‍රමුඛතම ධනවතෙක් වන ටෙස්ලා සමාගමේ ප්‍රධාන විධායක මෙන්ම ට්විටර් සමාගමේ හිමිකරු වන ඊලෝන් මස්ක් ව හමුවී තිබේ.
+At the 10th World Water Summit in Indonesia, Sri Lanka's President Ranil Wickremesinghe met with Elon Musk, discussing Starlink operations and Sri Lanka's potential application to the global network.
 
-ඒ ඉන්දුනීසියාවේ වැත්වෙන 10 වැනි ලෝක ජල සමුළුවවේ ඉහළ පෙළේ රැස්වීමක් අතරතුරදීය.
+🟩
 
-එහිදී  ශ්‍රී ලංකා තුළ Starlink ක්‍රියාත්මක කිරීම පිළිබඳව ජනාධිපතිවරයා ඊලෝන් මස්ක් සමග සාකච්ඡා කර තිබේ.
+President Ranil Wickremesinghe and the world's leading rich and the world's leading rich and the owner of Twitter, Elon Musc.
 
-ගෝලීය Starlink ජාලය සමඟ ශ්‍රී ලංකාව සම්බන්ධ කිරීම සඳහා අයදුම් කිරීමේ ක්‍රියාවලිය පිළිබඳව මෙහිදී වැඩිදුරටත් සාකච්ඡා වී ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+During a high-ranking meeting of the 10th World Water Summit, which falls in Indonesia.
+
+The President has discussed the operation of Starlink in Sri Lanka with Elon Muscular.
+
+The Presidential Media Unit has also been discussed on the process of applying for Sri Lanka with the global Starlink network.
 
 ◼️
 
 [Data](articles/e5096484.json)
+
+[Extended Data](ext_articles/e5096484.ext.json)
 
 ---
 
@@ -121,6 +145,8 @@ Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended t
 ◼️
 
 [Data](articles/80160a30.json)
+
+[Extended Data](ext_articles/80160a30.ext.json)
 
 ---
 
@@ -969,6 +995,20 @@ The utility said it made a 25.9 billion rupee capital gain from transferring LTL
 [Data](articles/8da5b718.json)
 
 [Extended Data](ext_articles/8da5b718.ext.json)
+
+---
+
+### යුද හමුදාවේ 1509ට උසස්විම්
+
+*2024-05-19 08:48:29* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවේ-1509ට-උසස්විම්/11-409711) · `si`
+
+15 වන විජයග්‍රාහී යුද සැමරුමට සමගාමීව ශ්‍රී ලංකා යුද හමුදාවේ 1509කට උසස්වීම් ලබාදීමට ජනපතිවරයාගේ උපදෙස් මත කටයුතු කර තිබේ.
+
+ශ්‍රී ලංකා යුද හමුදාවේ නිත්‍ය හා ස්වෙච්ඡා බලසේනාවේ නිලධාරීන් 114ක් සහ සෙසුනිලයන් 1,395කට මෙසේ උසස්විම් ලබා දි තිබේ. අද (19) සිට බලපැවැත්වෙන පරිදි සියලුම රෙජිමේන්තුවල සාමාජිකයන්ට මෙම උසස්වීම ලබාදීම් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/f03b04ba.json)
 
 ---
 
@@ -2241,33 +2281,5 @@ The summary of commitments that are not yet due include publishing implementatio
 [Data](articles/f13b284a.json)
 
 [Extended Data](ext_articles/f13b284a.ext.json)
-
----
-
-### Britain should take a decisive position on providing justice to Tamils - British Labor MP Thangam Debaneyar
-
-*2024-05-18 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183895) · `ta`
-
-Thangam Debaneyar, a British Labor MP, calls for justice and accountability for the Tamil massacre during Sri Lanka's civil war, urging Britain to support the Tamil cause and ensure the Sri Lankan government investigates alleged war crimes.
-
-🟩
-
-British Labor MP Thangam Debaneyar has appealed for justice and accountability for the massacre against Tamils in the final days of the armed forces.
-
-"We are recalling the widespread human rights violations of thousands of people killed in the final days of Sri Lanka's civil war," the Digital Culture Media Sports Minister of Sports Sports Sports Shadow Minister said.
-
-"Today, my thoughts and injustices have been faced by the injustices they have faced," he said.
-
-Digital Culture Media Sports Shadow Minister Thangam Debaneyir has said that Mullivaikkal is a day to emphasize how the criminals should be brought before justice.
-
-He said that the Sri Lankan government received 15 years after the end of the conflict, but that it had caused frustration without carrying out a meaningful investigation, he said.
-
-I urge the British government to support the Tamil people and take immediate steps to ensure that the Sri Lankan government promotes justice and accountability
-
-...
-
-[Data](articles/97ae9752.json)
-
-[Extended Data](ext_articles/97ae9752.ext.json)
 
 ---

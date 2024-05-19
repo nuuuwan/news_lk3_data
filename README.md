@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 19:51:19**
+As of **2024-05-19 20:03:30**
 
 ## Newspaper Stats
 
-*Scraped **25,006** Articles*
+*Scraped **25,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,140
-adaderanalk | 2,896
+adaderanalk | 2,897
 tamilmirrorlk | 2,933
 virakesarilk | 3,764
 dailymirrorlk | 3,922
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,005 (100.0%) of 25,006 articles have been extended.
+25,006 (100.0%) of 25,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Helicopter carrying Iranian President Raisi involved in incident, local media reports
+
+*2024-05-19 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99320/helicopter-carrying-iranian-president-raisi-involved-in-incident-local-media-reports) · `en`
+
+A helicopter carrying Iranian President Ebrahim Raisi suffered a “hard landing” on Sunday, Iranian state media reported, without immediately elaborating.
+
+Raisi was traveling in Iran’s East Azerbaijan province. State TV said the incident happened near Jolfa, a city on the border with with the nation of Azerbaijan, some 600 kilometers (375 miles) northwest of the Iranian capital, Tehran.
+
+Traveling with Raisi were Iran’s Foreign Minister Hossein Amirabdollahian, the governor of Iran’s East Azerbaijan province and other officials, the state-run IRNA news agency reported. One local government official used the word “crash” to describe the incident, but he acknowledged to an Iranian newspaper that he had yet to reach the site himself.
+
+Neither IRNA nor state TV offered any information on Raisi’s condition.
+
+...
+
+[Data](articles/e7f8cf2e.json)
+
+---
 
 ### Vietnam nominates its public security minister as new president
 
@@ -50,21 +68,27 @@ Former President Vo Van Thuong resigned in March after a little over a year in t
 
 ---
 
-### සජිත් අනුර විවාදයට සජබෙන් දින දෙයි
+### Sajith gives rise to Sajith Anuradon
 
 *2024-05-19 19:02:24* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදයට-සජබෙන්-දින-දෙයි/11-409722) · `si`
 
-සමගි ජන බලවේගයේ නායක ,විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාත්  ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාත් අතර පැවැත්වීමට නියමිත විවාදය සඳහා සමගි ජන බලවේගය දින කීපයක් අද (19)යෝජනා කරමින් ජාතික ජන බලවේගයට ඒ පිළිබඳව ලිඛිත දැනුම් දීමක් කර තිබේ.
+Sajith Premadasa, leader of the Samagiversen Power and opposition, wrote to the National Jealous Force on April 19th. The debate between economic committees from May 2024 to June 3rd-7th, 2014, was announced. This communication was addressed to the National Executive Committee of the National Institute of Economic Force.
 
-ඒ අනුව ආර්ථික කමිටු අතර විවාදය 2024 මැයි මස 27 -31  අතර දිනයකදිද, පක්ෂ නායකයින් දෙදෙනා අතර විවාදය 2024 ජුනි මස 03 -- 07 අතර දිනවලදිද පැවැත්විය හැකි බව සමගි ජන බලවේගය දැනුම් දි තිබේ.
+🟩
 
-සමගි ජන බලවේගයෙන් මෙහෙයුම් ප්‍රධානී පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා ජාතික ජන බලවේගයේ ජාතික විධායක සභික නලින්ද ජයතිස්ස මහතා වෙත  මෙම ලිපිය යොමු කර තිබේ.
+Leader of the Samagiversen Power, Opposition Leader Sajith Premadasa, a few days have been made in writing to the National Jealous Force today (19).
 
-මේ අතර ජාතික ජන බලවේගය  විසින් සමගි ජන බලවේගයට ඒ සදහා ලබා දී තිබූ දින හෙට දිනයෙන් අවසන් වීමට නියමිතව තිබුණි.
+The debate between the economic committees between May 2024, the debate between the two party leaders will be held between June 03 to 07, between 20.04.2014.
+
+He has sent this letter to the National Executive Committee of the National Executive Council of the National Executive Committee of the National Institute of Economic Force.
+
+Meanwhile, the national folk force was due to end tomorrow's day to end tomorrow.
 
 ◼️
 
 [Data](articles/60d04725.json)
+
+[Extended Data](ext_articles/60d04725.ext.json)
 
 ---
 
@@ -2267,27 +2291,5 @@ The National Building Research Institute, Road Development, Falls, Divisional Se
 [Data](articles/ce48ddbe.json)
 
 [Extended Data](ext_articles/ce48ddbe.ext.json)
-
----
-
-### 5000 IT scholarships to A / L
-
-*2024-05-19 07:03:34* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-තොරතුරු-තාක්ෂණ-ශිෂ්‍යත්ව-5000-ක්/11-409706) · `si`
-
-The Sri Lankan government, through the Presidential Fund and the Telecommunications Regulatory Commission, offers 5000 IT scholarships for A/L students. Selected students receive financial support for 24 months, covering tuition fees and living expenses. This initiative aims to boost the country's ICT sector by providing quality education to deserving students.
-
-🟩
-
-The GCE Ordinary Level approval 2022/2025 The Presidential Fund and the Telecommunications Regulatory Commission of Sri Lanka is a joint program to provide ICT.
-
-The Ministry of Education said that the students who are selected under this program to the date of the A / L examination will be provided for 24 months to 24 months from this year, the A / L examination of the A / L examination.
-
-The educational educational revenues to apply the monthly income of the A / L students with the subject of the Government School and the students of the country will be selected from Rs.The Ministry says.
-
-◼️
-
-[Data](articles/306ca208.json)
-
-[Extended Data](ext_articles/306ca208.ext.json)
 
 ---

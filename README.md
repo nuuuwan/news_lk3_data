@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 04:34:38**
+As of **2024-05-20 04:52:35**
 
 ## Newspaper Stats
 
-*Scraped **25,078** Articles*
+*Scraped **25,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,480
 adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
-virakesarilk | 3,785
+virakesarilk | 3,791
 dailymirrorlk | 3,938
 adaderanasinhalalk | 4,005
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,078 (100.0%) of 25,078 articles have been extended.
+25,078 (100.0%) of 25,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,20 @@ He highlighted the Government’s failure to fulfil promises made to the interna
 
 ---
 
+### பயங்கரவாதிகளிடமிருந்து நாட்டை பாதுகாத்து தந்ததுபோல் திருடர்களிடமிருந்து நாட்டை பாதுகாக்க இராணுவ வீரர்கள் எம்முடன் இணைய வேண்டும் - சஜித் பிரேமதாச கோரிக்கை
+
+*2024-05-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183993) · `ta`
+
+பயங்கரவாதிகளிடமிருந்து நாட்டைக் காப்பாற்றித் தந்தது போல திருடர்களிடம் இருந்து நாட்டைக் காப்பாற்ற இராணுவ வீரர்கள் எம்மோடு ஒன்றிணைந்துகொள்ள வேண்டும்.நாட்டின் அரசியல் அதிகாரம் சரியான தலைமைத்துவத்தை வழங்கியிருந்தால் நாடு வளமான நாடாக மாறியிருக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தாய்நாட்டின் சுதந்திரத்திற்காக உயிர் தியாகம் செய்த இராணுவ வீரர்களுக்கு நன்றி பாராட்டும் முகமாக நடைபெற்ற ஐக்கிய மக்கள் சக்தியின் இராணுவ வீரர்களது மாநாட்டின் 6 ஆவது கட்டம் ஞாயிற்றுக்கிழமை (18) மொனராகலையில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/9f967c66.json)
+
+---
+
 ### Sri Gurudev visits Sri Lanka: stresses influence of country’s economy on the region
 
 *2024-05-20 03:15:36* · [`dailyftlk`](https://www.ft.lk/news/Sri-Gurudev-visits-Sri-Lanka-stresses-influence-of-country-s-economy-on-the-region/56-762001) · `en`
@@ -253,6 +267,92 @@ The festivities will span across three major venues: the Presidential Secretaria
 [Data](articles/93782c57.json)
 
 [Extended Data](ext_articles/93782c57.ext.json)
+
+---
+
+### முக்கியமான சட்டங்கள் இயற்றப்பட்டவுடன் பாராளுமன்றம் கலைக்கப்படும் ரணிலுக்கு ஆதரவு வழங்க பொதுஜன பெரமுன தீர்மானிக்கவில்லை - உதயங்க வீரதுங்க
+
+*2024-05-20 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183992) · `ta`
+
+முக்கியமான சட்டங்களை இயற்றிக் கொண்டதன் பின்னர் பாராளுமன்றத்தை கலைக்க இரு தரப்பினரும் இணக்கம் தெரிவித்துள்ளனர். எதிர்வரும் ஜூன் மாதம் 14 ஆம் திகதிக்குள் பாராளுமன்றம் கலைக்கப்படும். ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தலில் போட்டியிடபோவதில்லை. அவருக்கு பொதுஜன பெரமுன ஆதரவு வழங்கவும் போவதில்லை என மஹிந்த ராஜபக்ஷவின் நெருங்கிய உறவினரும், ரஷ்யாவுக்கான முன்னாள் இலங்கைத் தூதுவருமான உதயங்க வீரதுங்க தெரிவித்தார்.
+
+கொழும்பில்  ஞாயிற்றுக்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவித்ததாவது,
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் நடத்தப்படும் என்று குறிப்பிடுவது  பேச்சுக்கு மாத்திரமே வரையறுக்கப்படும்.ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலே நடத்தப்படும் என்பதை உறுதியாக குறிப்பிடுகிறேன். முக்கியமான சட்டங்களை இயற்றிக் கொண்டதன் பின்னர் பாராளுமன்றம் கலைக்கப்படும்.
+
+...
+
+[Data](articles/07043205.json)
+
+---
+
+### இராணுவ வீரர்களுக்கு செய்ய வேண்டிய கடமையை அரசாங்கம் தவறியுள்ளது - எதிர்க்கட்சித் தலைவர் குற்றச்சாட்டு
+
+*2024-05-20 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183991) · `ta`
+
+அரசாங்கம்  இராணுவத்தினருக்கு கடமையை செய்ய தவறியதால் அவர்கள் ரஷ்ய யுத்தக்களத்தில் முன்னணியில் உயிரிழக்க வேண்டிய நிலை ஏற்பட்டுள்ளது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+காலி நெலுவ பிரதேசத்தில் சனிக்கிழமை (18) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+முப்பது வருட கால பயங்கரவாத யுத்தத்தை வெற்றிகொண்டதன் பின்னர் இராணுவ சமூகத்துக்கு செய்யவேண்டிய முறையான கடமை மேற்கொள்ளப்பட்டுள்ளதா என்பதை மீண்டும் சிந்தித்து பார்க்க வேண்டும். இராணுவ வீரர்களும் அவர்களின் குடும்பத்தினரும் பாரிய கஷ்டத்துக்கு ஆளாகி இருப்பதுடன் தாங்கிக்கொள்ள முடியாத பொருளாதார சமூக நெருக்கடிக்கும் முகம்கொடுத்து வருகின்றனர்.
+
+...
+
+[Data](articles/5d914cc4.json)
+
+---
+
+### தலவாக்கலை மேல்கொத்மலை நீர்த் தேக்கத்தில் பெண்ணின் சடலம் மீட்பு
+
+*2024-05-20 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183990) · `ta`
+
+தலவாக்கலை மேல் கொத்மலை நீர்த்தேக்கத்தில் மிதந்த நிலையில் பெண் ஒருவரின் சடலம் ஒன்றை தலவாக்கலை பொலிஸார்  ஞாயிற்றுக்கிழமை (19) மாலை மீட்டுள்ளனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் 18 வயதுடைய பெண் எனவும் இவர் லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட பாமஸ்டன் ரத்தினகிரியை சேர்ந்த பெரியசாமி திலிஷினா என அடையாளம் காணப்பட்டுள்ளதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+
+அதேநேரத்தில் சடலம் தொடர்பில் நுவரெலியா மாவட்ட நீதிமன்றத்தின் கவனத்திற்குக் கொண்டுவரப்பட்டுள்ளதாகத் தெரிவித்த பொலிஸார் சம்பவ இடத்திற்கு நீதவான் வருகை தந்து சடலத்தைப் பார்வையிட்டு பின் பிரேத பரிசோதனைக்காகச் சடலம் நுவரெலியா மாவட்ட பொது வைத்தியசாலைக்குக் கொண்டு செல்லப்படும் எனத் தெரிவித்தனர்.
+
+மேலும் உயிரிழந்த பெண் தொடர்பில் விசாரணைகள் செய்து வருவதாகவும், இச் சம்பவத்தில் உயிரிழந்த பெண் தன்னுயிரை மாய்த்துக் கொண்டாரா? அல்லது கொலை செய்யப்பட்டாரா? என்ற கோணத்தில் விசாரணை ஆரம்பிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7354c9dc.json)
+
+---
+
+### சமஷ்டி உத்தரவாதம் வழங்கப்படும் வரையில் ஜனாதிபதி தேர்தலை முழுதாய் புறக்கணிப்போம் - தமிழ்த் தேசிய மக்கள் முன்னணி அறைகூவல்
+
+*2024-05-20 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183989) · `ta`
+
+இலங்கையின் ஜனாதிபதி தேர்தலை ஒற்றையாட்சி நீக்கப்பட்டு சமஷ்டி அடிப்படையிலான உத்தரவாதம் வழங்கப்படும் வரையில் முழுமையாக புறக்கணிப்போம் என்று தமிழ்த் தேசிய மக்கள் முன்னணி அறைகூவல் விடுத்துள்ளது.
+
+‘ஜனாதிபதி தேர்தலைப் புறக்கணிப்போம்: தமிழின நலன் சார்ந்து சிந்திப்போம்’ எனும் தலைப்பில் அக்கட்சி ஜனாதிபதி தேர்தல் தொடர்பில் வெளியிட்டுள்ள தெளிவுபடுத்தல் அறிக்கையிலேயே அக்கட்சி மேற்கண்டவாறு தெரிவித்துள்ளது.
+
+தமிழர் தேசத்தில் இன்றும் சிங்கள பௌத்தமயமாக்கல், இராணுவமயமாக்கல், ஊடாக கட்டமைப்புசார் இனவழிப்புச் செயற்பாடுகளைத் தொடர்வதன் மூலம் தமிழர் தேசத்தைச் இலங்கை அரசு எதிரி தேசமாகவே கருதி செயற்பட்டுவருகின்றது. ஒற்றையாட்சி அரச கட்டமைப்பினுள் பெரும்பான்மைப் பிரதிநிதித்துவம் தமது கைகளில் இருக்கும்வரை தமிழர்களால் அரசுக்கு எந்தவொரு நெருக்கடியையும் ஏற்படுத்த முடியாதெனக் கருதும் இலங்கை அரசு தமிழ் மக்களைத் தனது மக்களாகக் கருதாமல் எதிரிகளாகக் கருதி சிங்கள தேசத்தின் நலன்களை மட்டுமே பேணிச் செயற்பட்டுவருகின்றது.
+
+...
+
+[Data](articles/005db2fe.json)
+
+---
+
+### பொதுவேட்பாளர் விடயம் தமிழரசு தீர்மானமில்லை; சம்பந்தனை சந்திக்க முடிவு
+
+*2024-05-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183988) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பில் தீர்மானம் எடுப்பதற்காக கூடிய இலங்கைத் தமிழரசுக்கட்சியின் மத்திய செயற்குழு எவ்விதமான தீர்மானங்களும் இன்றி கூட்டத்தினை நிறைவுக்கு கொண்டுவந்துள்ளது.
+
+இதேநேரம், குறித்த விடயம் சம்பந்தமாக கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனைச் சந்திப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+இலங்கை தமிரசுக்கட்சியின் மத்திய செயற்குழு கூட்டம் வவுனியா இரண்டாம் குறுக்கு வீதியில் உள்ள தனியார் விடுதியில் ஞாயிற்றுக்கிழமை (19) காலை 10.30 முதல் மாலை 6.30 வரையில் நடைபெற்றிருந்தது.
+
+குறித்த கூட்டத்தில் பாராளுமன்ற உறுப்பினர்களான சாணக்கியன் மற்றும் சாள்ஸ் நிர்மலநாதன் ஆகியோர் பங்கேற்றிருக்கவில்லை.
+
+இந்நிலையில் குறித்த கூட்டத்தில் முதலில் கட்சிக்கு எதிராக தொடுக்கப்பட்டுள்ள வழக்கு விவகாரங்கள் சம்பந்தமாக ஆராயப்பட்டது. இதன்போது பல்வேறு வாதப்பிரதவாதங்கள் நடைபெற்றன.
+
+...
+
+[Data](articles/75cd5452.json)
 
 ---
 
@@ -560,19 +660,15 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
 
+04.03 - Iranian foreign ministry thanks 'governments and nations for solidarity'
+
+The Foreign Affairs Ministry of the Islamic Republic of Iran has issued a statement: "On Sunday afternoon, a helicopter carrying the President, the Minister of Foreign Affairs, and several companions unfortunately had an accident in the Varzaghan region of East Azerbaijan province.
+
+"Despite adverse weather and environmental conditions, efforts by rescue teams to reach the accident site continue earnestly and with hope.
+
+"The Islamic Republic of Iran sincerely thanks the numerous governments, nations, and international organizations for their expressions of human emotion and solidarity with the government and people of Iran, as well as their offers of help and assistance for the search and rescue operation."
+
 03.23 - Rescue crews have yet to find crash site of Iranian president's helicopter, official says
-
-Rescue crews haven't yet located the crash site of the helicopter carrying Iranian President Ebrahim Raisi, the head of Iran’s Red Crescent Society, Pir-Hossein Koulivand, told Iranian state TV IRINN.
-
-Earlier, a military commander said the aircraft's exact location had been detected through a signal from the helicopter and a mobile phone of a crew member, according to state news agency IRNA.
-
-The crews are still searching around where the signals were detected, Koulivand said.
-
-Harsh weather conditions and heavy fog have made the search for the crash site very difficult. It is now just after 1 a.m. local time in the remote, mountainous province.
-
-Russia is sending two planes, two helicopters and 50 rescuers to assist in operation over helicopter crash involving Iran's president
-
-In downtown Tehran, crowds of people have gathered to pray for the safe return of the Iranian president.
 
 ...
 
@@ -1937,145 +2033,5 @@ While proponents claim the act will drive significant economic transformation, t
 [Data](articles/1769e198.json)
 
 [Extended Data](ext_articles/1769e198.ext.json)
-
----
-
-### BOI concerned over proposed Economic Transformation Act
-
-*2024-05-19 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BOI-concerned-over-proposed-Economic-Transformation-Act/108-282895) · `en`
-
-Colombo, May 19 -  The Sri Lanka All Union Alliance of the Board of Investment (BOI) has issued a stark warning against the proposed Economic Transformation Act, set to be submitted to Parliament on May 22.
-
-The alliance cautions that the Act will severely destabilize the investment sector, which is already grappling with economic challenges.
-
-According to the coalition, the Act caters to a select few individuals without consulting field experts or investors. This could prompt the departure of existing investors, further jeopardizing the sector.
-
-The alliance calls for a transparent revision of the Act, involving affected parties and economic experts.
-
-While proponents claim the act will drive significant economic transformation, the alliance argues that its true aim is to secure financial gains by transferring 15 profitable investment zones under BOI control to private associates before upcoming elections.
-
-...
-
-[Data](articles/50f98716.json)
-
-[Extended Data](ext_articles/50f98716.ext.json)
-
----
-
-### Cost of coronary coloved by the police
-
-*2024-05-19 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196786) · `si`
-
-Police arrested seven ex-Army soldiers linked to drug trafficking and theft of 50 cows over five months. A special operation led to the seizure of weapons and drugs, including grenades and fake license plates. The suspects, active in various locations, had sold the stolen cows to slaughterhouses.
-
-🟩
-
-Seven former Army soldier who was organized in the homeowed for months and seven were arrested with drugs and sharp weapons.
-
-It has been revealed that about 50 cows stolen from several parts of the island during the past five months.
-
-The Piliyandala Police Criminal Investigation Division (CID) has launched a special operation on information received by a police constable that a van held in the Piliyala area.
-
-Accordingly, police officers have taken a suspicious van using motorbikes in Moratuwa.
-
-Two livelihoods, 15 murder used in the suspicious van, two swords, two swords in the cattle, and a manna knife and ropes have been recovered.
-
-Accordingly, the five Summit suspects have been arrested by the police.
-
-Later they were interrogated by the interrogation, the Head of the Army was identified as a retired soldier in the Army Special Corps.
-
-The suspect was deployed in Kesbewa, Piliyandala, Kawathuduwa, Boralesgamuwa, Bandaragama and Hirala during this year.
-
-...
-
-[Data](articles/df6640e5.json)
-
-[Extended Data](ext_articles/df6640e5.ext.json)
-
----
-
-### Stitching Buddhist flags...
-
-*2024-05-19 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stitching-Buddhist-flags/110-282894) · `en`
-
-The picture shows employees of a self-owned business in Demetagoda stitching Buddhist flags to be sold to the public in light of the Vesak festival. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/cc67fb84.json)
-
-[Extended Data](ext_articles/cc67fb84.ext.json)
-
----
-
-### Two police constables arrested with ice drugs
-
-*2024-05-19 14:04:49* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--කොස්තාපල්වරුන්-දෙදෙනෙක්-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-409721) · `si`
-
-Two police constables from the Criminal Investigations division were arrested along with Kumara Ratnam Ramaduwa of Slave Island. They were found with 130mg of ice drugs during a raid led by the Anti-Corruption Division. One constable was also checked for drug addiction.
-
-🟩
-
-The Slave Island Police say two police constables of the Criminal Investigations were arrested alongside a set of Slave Island Kumara Ratnam Ramaduwa.
-
-Two constables to be duties in the Computer Crime Investigation Division.
-
-Police seized 130 milligrams of ice narcotics. The two suspects have been arrested by a team of Chief of Anti-Corruption Division of Skani Road.
-
-The other suspect constable has been arrested on suspicion to check whether he is drug addicted to drugs.
-
-◼️
-
-[Data](articles/e0dd610a.json)
-
-[Extended Data](ext_articles/e0dd610a.ext.json)
-
----
-
-### Sri Lanka President discusses Starlink with Elon Musk
-
-*2024-05-19 13:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-starlink-with-elon-musk-163603/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has discussed connecting the island to the Starlink satellite system with its founder Elon Musk, his office said in a statement.
-
-President Wickremesinghe has met Musk at a World Water Forum High-Level Meeting in Indonesia.
-
-President Wickremesinghe discussed “the implementation of Starlink in Sri Lanka & committed to fast-tracking the application process to connect SL with the global Starlink network,” the statement said.
-
-Starlink is a low earth orbit satellite network, connected to Musk’s SpaceX group. (Colombo/Jun19/2024)
-
-◼️
-
-[Data](articles/5d6b20b8.json)
-
-[Extended Data](ext_articles/5d6b20b8.ext.json)
-
----
-
-### SLTB driver's body found in a jungle
-
-*2024-05-19 13:43:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-රියදුරා-ගේ-සිරුර-කැලෑවක-තිබී-හමුවෙයි/11-409720) · `si`
-
-A SLTB driver, W.Mankar (45) from Hulugalle, Nikaweratiya, was found dead in a jungle near Thamyam Nikaweratiya Kudandandara reserve. His death remains unexplained, leaving his children orphaned. Investigations are ongoing under the supervision of Superintendent of Police Jayantha Jayawardena.
-
-🟩
-
-Headquarters police said that a body of a man was found in a land near the Thamyam Nikaweratiya Kudandandara, the reserve.
-
-The deceased has been identified as W.Mankar (45), a resident of Hulugalle, Nikaweratiya, the SLTB driver.
-
-The delade of death is abroad and children are living alone and have been revealed in further investigations.
-
-Nikaweratiya Divisional Death Inspector Ranjith Dharmasiri went to the scene to go to the scene and conducted a location in the event. The police ordered the police to carry.
-
-Emergency Death Task Ranjith Dharmith Dharmith Dharmith Dharmal Dharmasiri was due to be conducted before the Nikaweratiya Base Hospital.
-
-Office Inspector Thilak Subasinghe is conducting further investigations by the supervision of Superintendent of Police Jayantha Jayawardena on the instructions of SSP Jayantha Jayawardena.
-
-◼️
-
-[Data](articles/a1493e1d.json)
-
-[Extended Data](ext_articles/a1493e1d.ext.json)
 
 ---

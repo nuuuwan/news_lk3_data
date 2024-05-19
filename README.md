@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 21:33:41**
+As of **2024-05-19 21:53:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,037 (100.0%) of 25,039 articles have been extended.
+25,039 (100.0%) of 25,039 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ James Constantinou, who became a hit on the Channel 4 series ‘Posh Pawn’, wi
 ...
 
 [Data](articles/705e37ef.json)
+
+[Extended Data](ext_articles/705e37ef.ext.json)
 
 ---
 
@@ -443,6 +445,8 @@ There were 3 helicopters in this convoy, and two helicopters carrying some minis
 ...
 
 [Data](articles/acbab1a1.json)
+
+[Extended Data](ext_articles/acbab1a1.ext.json)
 
 ---
 

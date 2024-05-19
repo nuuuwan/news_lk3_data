@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 14:03:25**
+As of **2024-05-19 14:18:29**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 3,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,964 (100.0%) of 24,966 articles have been extended.
+24,966 (100.0%) of 24,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### මාලදෙණියේ පවුලක්ම මරා මුදල් කොල්ලකාලා
+### Family killed in Maldenation
 
 *2024-05-19 13:33:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලදෙණියේ-පවුලක්ම-මරා-මුදල්-කොල්ලකාලා/11-409719) · `si`
 
-මාලදෙනිය ප්‍රදේශයේදී එකම පවුලේ  පියා(78) , මව(80) , සහ විශේෂ අවශ්‍යතා සහිත පුතා(42) ඇතුලු එකම පවුලේ තිදෙනෙක් ඝාතනය කර මුදල් හා රන් භාණ්ඩ කොල්ලකෑ පුද්ගලයකු අත්අඩංගුවට ගත් බව නාල්ල පොලිසිය පවසයි.
+In Maldenation, an elderly couple (both 88) and their son (42) were arrested after allegedly killing three family members, including their daughter-in-law (42). The victims were discovered in their home, and the suspects were apprehended shortly after. A significant amount of money and gold was also recovered from one of them.
 
-අද අලුයම හතරට පමණ මාලදෙනිය ප්‍රදේශයේ නිවසකදී මෙම අමානුෂික ඝාතනය සිදුව ඇතැයි ද පොලිසිය සඳහන් කරයි.
+🟩
 
-පාපැදියකින් ගමන් ගත් පුද්ගලයකු පරීක්ෂා කළ පොලිසිය ඔහු සතුව රුපියල් ලක්ෂ 3කට ආසන්න මුදලක් සහ රන් භාණ්ඩ තිබී හමුවී ඇත.
+Nalalla police said that a person was arrested by the father (88) mother (88), mother (88), and a special son (42), including mother (42) and a special needs.
 
-ඒ සම්බන්දයෙන් සැකකරු අත්අඩංගුවට ගෙන පොලිසියට රැගෙන ගොස් පරීක්ෂා කිරීමේදී සැකකරු සන්තකයේ තිබී හමුවූ ජාතික හැඳුනුම්පත 78 හැවිරිදි පුද්ගලයකුට අයත් අයෙකුගේ හැඳුනුම්පතක් ඔහු සන්තකයේ තිබීම සම්බන්ධයෙන් සැකපළ වීම හේතුවෙන් පොලිස් නිලධාරින් හැඳුනුම්පතෙහි සඳහන් ලිපිනය සොයා එහි යෑමට පොලිස් නිලධාරීන් පියවර ගෙන තිබුණි.
+The police said that this morning at around the morning, the brinkerance was killed in a house in the area.
 
-පසුව එම නිවස පරීක්ෂා කිරීමේදී එහි තිබී මළසිරුරු 3ක් හමුවී තිබේ.
+Police have found a man who traveled by a bicycle and he had a sum of Rs. 3 lakhs and gold items.
 
-ඒ අනුව සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී තිබුණේ අදාළ නිවැසියන්ගේ සමීප ඥාතියෙක් වූ ඔහු විසින් මෙම ඝාතන ත්‍රිත්වය සිදුකර ඇති බවය.
+The police officers had taken steps to visit the identity card of the police, as a 78-year-old man was found in the suspect when he was arrested and taken to the police.
 
-...
+Three bodies were found in the event of the examination.
+
+Accordingly, interrogation was revealed that he had been close relatives of the respective residents.
+
+He had confessed to the police that he had killed his little mother, Uncle, and their son, to plunder money and gold items.
+
+According to police, the investigation made by the police that his wife's uncle's uncleage, little and their son were revealed.
+
+◼️
 
 [Data](articles/2083f5e0.json)
+
+[Extended Data](ext_articles/2083f5e0.ext.json)
 
 ---
 
@@ -982,19 +992,27 @@ Deduru Oya, Maha Oya, Kotaka, Attaka Oya, Box Oya, Kotawalu Oya and Kelani, Kota
 
 ---
 
-### මත්පැන්, මත් ද්‍රව්‍ය මෙන්ම සීනි, කිරිපිටි ඔබගේ ජිවිතයට හානි කරයි
+### Alcohol, drugs, as well as sugar damages to your life
 
 *2024-05-19 09:57:41* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්--මත්-ද්‍රව්‍ය-මෙන්ම-සීනි--කිරිපිටි-ඔබගේ-ජිවිතයට-හානි-කරයි/11-409713) · `si`
 
-අත් පා අහිමි වූ ශ්‍රී ලාංකික ආබාධිතයින් හට අත්‍යාවශ්‍ය සේවාවක් ලෙස හදුනා ගනු ලැබු මෙත්තා පදනමේ බලපිටිය ශාථාවේ කෘත්‍රීම අත් පා සැකසීමේ මධ්‍යස්ථානය (ARTIFIAL LIMB PROJECT) සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කරන ලදි.
+Dr. Ramesh Pathirana, Sri Lanka's Health and Industry Minister, launched an artificial limb project, funded by the Rotary Club of Colombo and UK-based clubs. This initiative aims to provide affordable prosthetics, including legs and wheelchairs, to those in need. The minister emphasized globalization and Sri Lanka's potential for growth, highlighting the importance of self-sufficiency in industries like dairy, where imports could be reduced.
 
-මෙම ආයතනය ස්ථාපිත කිරීමට සහ මෙත්තා පුනරුත්ථාපන පදනමට මූල්‍ය දායකත්වය රෝටරි ගෝලීය ප්‍රදාන 2457602 යටතේ කොළඹ රොටරි සමාජය, එක්සත් රාජධානියේ ලන්ඩන් හි ගෝල්ඩර්ස් ග්‍රීන් රොටරි සමාජය සමග ගාල්ල රෝටරි සමාජය එක්සත් රාජධානියේ වුල්වහැම්ප්ටන් රෝටරි සමාජය, එක්සත් රාජධානියේ බිශොප් වොල්නම් රොටරි සමාජය සහ ජාත්‍යන්තර රොටරි දිස්ත්‍රික්ක 3220 ශ්‍රී ලංකාව - මාලදිවයින, 1130එක්සත් රාජධානියේ ලන්ඩන් නුවර ඇතුලු රෝටරි ආයතනවලින් වටිනා සහභෘගීත්වයක් ලැබී ඇත.
+🟩
 
-මෙම කෘත්‍රීම අත් පා සැකසීමේ මධ්‍යස්ථානය තුලින් කෘත්‍රීම පාද පමණක් නොව දීර්ඝ කාලීන ආබාධවලට ලක්වන ජනතාවට අවශ්‍යවන රෝද පුටු ඇතුලු උපකරණ ද සකස් කරනු ලබයි. ඉතා අඩු මුදලකට මෙම නිපැයුම් ජනතාවට ලබාගත හැකි අතර, වසරකට කෘත්‍රීම පාද 100 ක් සකස් කිරීමට බලාපොරොත්තු වේ.
+Dr. Ramesh Pathirana, Minister of Health and Industry, Dr. Ramesh Pathirana was declared open by artificial limb project, Health and Industry.
+
+Rotary Club, Colombo Wulvasumpton Rotary, UK, in Colombo, Wulves Green Rotary, UK, in the Rotary Society of Colombo, Colombo, Wolwered Society of Colombo, Colombo, Colombo Wulvasumpton Rotary, UK.- The Maldives have received valuable and valuable to the Rotari, including the UK London, including London.
+
+These artificial limbs are not only feet, but also wheelchairs that are needed for the people who are not only feet and long-term disorders.. In a very low amount, these products are available to the people and the artist is expected to prepare 100 feet per year.
+
+After opening the artificial limbing center, the Health Minister said that the countries were in zones and Sri Lanka has come to an era of countries as a region.
 
 ...
 
 [Data](articles/3afe207e.json)
+
+[Extended Data](ext_articles/3afe207e.ext.json)
 
 ---
 

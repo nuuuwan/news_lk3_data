@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 17:18:15**
+As of **2024-05-19 17:34:20**
 
 ## Newspaper Stats
 
-*Scraped **24,987** Articles*
+*Scraped **24,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 223
 bbccomsinhala | 253
 dbsjeyarajcom | 257
 newsfirstlk | 363
-islandlk | 1,352
+islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,137
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,987 (100.0%) of 24,987 articles have been extended.
+24,987 (100.0%) of 24,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### The unseen impact of learning disorders in Sri Lanka
+
+*2024-05-19 17:01:00* · [`islandlk`](http://island.lk/the-unseen-impact-of-learning-disorders-in-sri-lanka/) · `en`
+
+“If a child can’t learn the way we teach, maybe we should teach the way they learn.” Ignacio Estrada. This is a quote that is lost on the Sri Lankan education system but bamboo rods and beatings still remain as the number one tool to teach. Contrary to our cultural beliefs, this method is the least effective way to teach and it’s particularly detrimental when it comes to children with learning disorders.
+
+Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologist Rudolf Berlin. People with Dyslexia have difficulty reading due to problems identifying speech sounds and their relation to words and letters (University of Oxford , n.d.). Simply put, these are the children who struggle to read and write and saying “Idiot, open your eyes and read what’s on the page. For every spelling mistake, I will give you a beating with a ruler,” will not cure their dyslexia.
+
+...
+
+[Data](articles/b96fb76a.json)
+
+---
 
 ### The floating corpse recovery
 
@@ -2273,33 +2287,5 @@ Since then she has been at logger heads with the SJB, never losing an opportunit
 [Data](articles/60938b14.json)
 
 [Extended Data](ext_articles/60938b14.ext.json)
-
----
-
-### 2024-05-18 (Saturday)
-
-### Sri Lanka - Indian shipping service has been delayed indefinitely
-
-*2024-05-18 23:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-காலவரையின்றி-பிற்போடப்பட்டது/175-337473) · `ta`
-
-Shipping service between Nagapattinam and Kankesanthurai delayed indefinitely due to legal permits and ship repairs. Ticket fees can be refunded via Customer.Care@sailindsri.com.
-
-🟩
-
-It has been announced today that the shipping service from Nagapattinam to Kankesanthurai has been delayed until the date of the opening date.
-
-Earlier, the shipping service had been delayed due to some legal permits, including some legal permits, and the operation was delayed until May 19 until the re -notice.
-
-It has been reported that there are some security defects because of the old ship and that it will only be approved if it is repaired.
-
-The management of the private company has announced that ticket bookings can withdraw the fee.
-
-If you want to completely recover the payment fee, it has been announced that the payment fee can be recovered by contacting Customer.Care@sailindsri.com. Remble
-
-◼️
-
-[Data](articles/ca33b447.json)
-
-[Extended Data](ext_articles/ca33b447.ext.json)
 
 ---

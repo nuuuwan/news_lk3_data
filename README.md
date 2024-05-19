@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 02:50:55**
+As of **2024-05-20 03:03:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,064 (100.0%) of 25,066 articles have been extended.
+25,066 (100.0%) of 25,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ In the bustling chambers of Sri Lanka’s Parliament, a disheartening spectacle 
 
 [Data](articles/a5e37762.json)
 
+[Extended Data](ext_articles/a5e37762.ext.json)
+
 ---
 
 ### Prema Cooray – a man for all seasons: An appreciation
@@ -59,6 +61,8 @@ The demise of travel industry veteran Prema Cooray which made front page news la
 ...
 
 [Data](articles/6b5e1465.json)
+
+[Extended Data](ext_articles/6b5e1465.ext.json)
 
 ---
 

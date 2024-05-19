@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 09:18:27**
+As of **2024-05-19 09:33:52**
 
 ## Newspaper Stats
 
-*Scraped **24,904** Articles*
+*Scraped **24,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
-adalk | 2,124
+adalk | 2,125
 adaderanalk | 2,884
 tamilmirrorlk | 2,917
 virakesarilk | 3,752
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,904 (100.0%) of 24,904 articles have been extended.
+24,904 (100.0%) of 24,905 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,20 @@ The promotion has been made to members of all regiments, which have been affecte
 [Data](articles/a5b9252e.json)
 
 [Extended Data](ext_articles/a5b9252e.ext.json)
+
+---
+
+### ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගය විවෘත කරයි
+
+*2024-05-19 07:14:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල---වැල්ලවාය-ප්‍රධාන-මාර්ගය-විවෘත-කරයි/11-409707) · `si`
+
+ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වෙමින් පවතින නාය යාමේ අවධානම හේතුවෙන් තාවකාලිකව රාත්‍රි වසා දැමූ ඇල්ල  වැල්ලවාය ප්‍රධාන මාර්ගය රථ වාහන ධාවනය සදහා යලි අද (19) උදෑසන 6 සිට විවෘත කල බව ඇල්ල පොලිසිය පවසයි .
+
+වර්ෂාවත් සමඟ ඇල්ල කරදගොල්ල මලිත්තගොල්ල ප්‍රදේශයේ සක්‍රීය වී ඇති නාය යාම නිසාවෙන් එහි රොන්මඩ තට්ටු,මඩ,බොරදිය ජලපහරක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයට ගලාගෙන ඒම නිසාවෙන් ඇති වී තිබෙන දැඩි අවධානමත්, වර්ෂාවත් සමඟ ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ තැනින් තැනට පස්කදු ගල්පර්වත ගස්කොළන් කඩා වැටීමේ දැඩි අවධානම නිසාවෙන් මෙසේ ඊයේ (18) රාත්‍රි 8 සිට අද (19);උදෑසන 6 වනතෙක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගය තාවකාලිකව වසා දමා තිබූ  බවද ඇල්ල ප්‍රාදේශීය ලේකම් ඉංදික ගයාන් පතිරණ මහතා පැවසීය
+
+...
+
+[Data](articles/ce48ddbe.json)
 
 ---
 
@@ -2309,29 +2323,5 @@ And we will make an effort to stop the activities of the South Sri Lanka forces 
 [Data](articles/80f19a41.json)
 
 [Extended Data](ext_articles/80f19a41.ext.json)
-
----
-
-### Indonesia flew the president
-
-*2024-05-18 09:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியா-பறந்தார்-ஜனாதிபதி/175-337462) · `ta`
-
-Indonesian President Joko Widodo invited President Ranil Wickremesinghe for a two-day visit to attend the 10th World Water Conference in Bali, focusing on 'Water for Joint Prosperity'. The event runs from May 18 to 20, with President Wickremesinghe addressing it on May 20.
-
-🟩
-
-At the invitation of Indonesian President Joko Vidodo, the President is on the official visit to attend the top meeting of the 10th World Water Conference in Bali, Indonesia.
-
-The 10th World Water Conference will be held in Bali, Indonesia from May 18 to 20 under the theme of 'Water for Joint Prosperity'.
-
-President Ranil Wickremesinghe will address the upcoming conference on May 20.
-
-Meanwhile, President Ranil Wickremesinghe will engage in bilateral discussions with many top representatives of the country, including the Indonesian President, during his two -day official visit.. Remble
-
-◼️
-
-[Data](articles/8f354b5e.json)
-
-[Extended Data](ext_articles/8f354b5e.ext.json)
 
 ---

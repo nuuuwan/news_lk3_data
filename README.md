@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 11:53:11**
+As of **2024-05-19 12:04:46**
 
 ## Newspaper Stats
 
-*Scraped **24,937** Articles*
+*Scraped **24,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,128
+adalk | 2,129
 adaderanalk | 2,887
-tamilmirrorlk | 2,926
+tamilmirrorlk | 2,928
 virakesarilk | 3,752
 dailymirrorlk | 3,913
-adaderanasinhalalk | 3,986
+adaderanasinhalalk | 3,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,931 (100.0%) of 24,937 articles have been extended.
+24,937 (100.0%) of 24,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-19 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196780) · `si`
+
+තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එම නිවේදයේ දැකවෙන්නේ, බස්නාහිර සහ වයඹ පාළාත්වල ඇතැම් ස්ථානවල මි.මී 150ට වැඩි ඉතා තද වැසි ඇතිවය හැකි බවය.
+
+එමෙන්ම සබරගමුව පළාතේත්, ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ට වැඩි තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+මේ අතර වර්ෂාවත් සමඟ ජලාශ සහ ගංගාවල ජල මට්ටම්ද මේ වන විට ඉහළ යමින් පවතී.
+
+වාරිමාර්ග දෙපාර්තමේන්තුව පවසන්නේ කැලණි ගඟ, මහවැලි ගඟ, නිල්වලා ගඟ සහ ගිං ගඟ ආශ්‍රිත පහත්බිම් ගං වතුර අවදානමට ලක් විය හැකි බවය.
+
+එමෙන්ම දැඳුරු ඔය, මහ ඔය, අත්තනගලු ඔය, බෙන්තර ගඟ, කිරම ඔය, ඌරු බොකු ඔය, කලා ඔය, මල්වතු ඔය ද්‍රෝණි ආශ්‍රිත පහත් බිම්ද ගංවතුර අවදානමකට මුහුණ පා තිබේ.
+
+◼️
+
+[Data](articles/09fc30b6.json)
+
+---
+
+### புத்தரஸ்மி வெசாக் வலயம் ஏற்பாடு
+
+*2024-05-19 11:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தரஸ்மி-வெசாக்-வலயம்-ஏற்பாடு/175-337510) · `ta`
+
+“மற்றவர் செய்ததை அன்றி, நாம் என்ன செய்திருக்கிறோம் என்பது குறித்து கவனம் செலுத்துவோம்” என்ற தொனிப்பொருளில் கொழும்பு கங்காராம விகாரை, ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம் மற்றும் சிங்கப்பூர் மகா கருணா பௌத்த சங்கம் ஆகியன இணைந்து புத்தரஸ்மி வெசாக் வலயத்தை ஏற்பாடு செய்துள்ளன.
+
+இந்த வலயம் மே 23, 24, 25 மற்றும் 26 ஆம் திகதிகளில் ஜனாதிபதி அலுவலகம், ஷங்ரிலா பசுமை மைதானம் மற்றும் கங்காராம விகாரை ஆகியவற்றை மையமாகக் கொண்டு பிரம்மாண்டமாக அமைக்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6a225c86.json)
+
+---
 
 ### Frog species endemic to Sri Lanka rediscovered in India after 200 years
 
@@ -46,35 +82,61 @@ Mr. Bhupathi emphasizes that rediscovery is more significant than the discovery 
 
 [Data](articles/19e36e12.json)
 
+[Extended Data](ext_articles/19e36e12.ext.json)
+
 ---
 
-### උතුරු සුඩානයේ ගැටුම් තීව්‍ර වෙයි
+### Conflicts in North Sudan Explains
 
 *2024-05-19 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196779) · `si`
 
-පසුගිය සතියේ සිට උතුරු සුඩානය කේන්ද්‍ර කර දියත්වන ගැටුම් තීව්‍ර වී තිබේ.
+Escalating conflicts in North Sudan have resulted in nearly 60 deaths, according to foreign media. The UN expresses concern, highlighting severe impacts on civilians, including displacement and potential famine. Clashes involve the Sudanese army and paramilitary groups across 11 states, notably intensifying in Al Fashir. Thousands face dire conditions without basic amenities, prompting the UN Human Rights Council to describe the situation as "hell on earth."
 
-ගැටුම්වලින් මෙතෙක් මියගොස් ඇති පිරිස 60කට ආසන්න බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-උතුරු සුඩානයේ තත්ත්වය සම්බන්ධයෙන් එක්සත් ජාතීන් දැඩි කනස්සල්ල පළකර ඇත.
+The clashes that lead to North Sudan from last week have escalated.
 
-සුඩාන හමුදාව සහ එරට පැරාමිලිටරි කණ්ඩායම් අතර වසරක කාලයක සිට පවතින ගැටුම් හේතුවෙන් සුඩාන ජනතාව දැඩි ලෙස පීඩාවට පත්ව සිටිති.
+Foreign media reports that nearly 60 people who have died of the conflict have been killed.
 
-සුඩානයේ ප්‍රාන්ත 18න් 11කට ගැටුම් පැතිර ගොස් ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+The United Nations has expressed his concern over the condition of the North Sudan.
 
-ඒ අතරින් පසුගිය සතියේ සිට සුඩානයේ උතුරුදිග ඩෆූර් ප්‍රාන්තයේ අල් ෆෂීර් නගරයේ ගැටුම් තීව්‍ර වී තිබේ.
+The Sudan people are severely affected due to the conflicts between the Sudanese army and the paramilitary groups.
 
-සුඩාන ගැටුම් හේතුවෙන් අවතැන්වූ දහස් ගණනක් අල් ෆෂීර්හි රැඳී සිටින්නේ අවශ්‍ය මූලික පහසුකම්වත් නොමැතිව බව සඳහන් ය.
+Foreign reports say that clashes erupted in 11 states of Sudan.
 
-උතුරු සුඩානයේ තත්ත්වය මිහිපිට අපායක් මෙන් වන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය පැවසීය.
+Among the state of Al Fashir in the state of Al Fashir, in Sudan, has intensified the city of Al Fashir.
 
-එක්සත් ජාතීන් අවධාරණය කරන්නේ අවතැන්ව සිටින පිරිස් දරුණු සාගතයක් අබියස සිටින බවය.
+Thousands of displaced times of Sudan conflicts, Al Fashier states that there is no basic amenities.
 
-ඒ අනුව, එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිසම සුඩානයේ ගැටුම්වල නිරතවන දෙපාර්ශ්වයම සමග උද්ගතව ඇති තත්ත්වය පිළිබඳ සාකච්ඡා කර ඇතැයි සඳහන්ය.
+The United Nations Human Rights Council said that the condition of North Sudan is as hell on earth.
+
+The United Nations emphasizes that the displaced persons are in front of a great famine.
+
+Accordingly, the United Nations Human Rights Commission has discussed the situation in Sudan and discussed with both parties engaged in Sudan.
 
 ◼️
 
 [Data](articles/7bf9620f.json)
+
+[Extended Data](ext_articles/7bf9620f.ext.json)
+
+---
+
+### பாட்டியின் கண்ணை பதம்பார்த்த துப்பாக்கிச் சன்னம்
+
+*2024-05-19 11:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட்டியின்-கண்ணை-பதம்பார்த்த-துப்பாக்கிச்-சன்னம்/175-337509) · `ta`
+
+கம்பளை வெலம்பொட பிரதேசத்தில் நபர் ஒருவரால் குரங்குகளை இலக்குவைத்து  மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் 72 வயதுடைய பெண் ஒருவர் கண்ணில் பட்டதில், அப்பெண் பலத்த காயமடைந்து கம்பளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வெலம்பொட பொலிஸார் தெரிவித்தனர். அவரது பக்கத்தில் இருந்த அவரது 12 வயது பேத்தியும் துப்பாக்கிச் சூட்டில் லேசான காயம் அடைந்தார்.
+
+கம்பளை கீரப்பனை பிரதேசத்தைச் சேர்ந்த இந்தப் பெண், தனது மகளின் வீட்டிற்குச் சென்று பேத்தியுடன் வீட்டுக்கு ​வெளியில் தங்கியிருந்த போது இந்த விபத்திற்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+துப்பாக்கிச் சூடு எவ்வாறு நடத்தப்பட்டது என்பதை அறியும் விசாரணையில், வீட்டுக்கு ஐம்பது மீற்றர் தொலைவில் அமைந்துள்ள வீட்டின் முன்பிருந்த பலா மரத்தில் காயங்கள் ஏற்பட்டுள்ளதால், அருகில் வசிப்பவரை விசாரித்ததில் இதுபற்றி அறிந்து கொண்டதாக பொலிஸார் தெரிவித்தனர்.
+
+வீட்டின் மேல் தளத்தில் இருந்து பன்னிரெண்டு துவாரம் கொண்ட துப்பாக்கியால் அந்த நபர் சுட்டதால் விபத்து ஏற்பட்டுள்ளமை தெரியவந்ததை அடுத்து அவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/912ff2d3.json)
 
 ---
 
@@ -95,6 +157,8 @@ The arrested suspect, a resident of Bangadeniya in Chilaw, was taken into custod
 ◼️
 
 [Data](articles/c112614b.json)
+
+[Extended Data](ext_articles/c112614b.ext.json)
 
 ---
 
@@ -584,6 +648,8 @@ The utility said it made a 25.9 billion rupee capital gain from transferring LTL
 
 [Data](articles/8da5b718.json)
 
+[Extended Data](ext_articles/8da5b718.ext.json)
+
 ---
 
 ### Sri Lanka Army promotes 1,509 officers and other ranks
@@ -719,6 +785,24 @@ The police then raided the man who went on a bicycle and caught up with about 3 
 [Data](articles/70384a65.json)
 
 [Extended Data](ext_articles/70384a65.ext.json)
+
+---
+
+### වැඩිවියට පැමිණි සිසුවියන්ට සනිපාරක්ෂක තුවා මිලදි ගන්න රජයෙන් රු 1200ක තිළිණපතක්
+
+*2024-05-19 07:51:08* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිවියට-පැමිණි-සිසුවියන්ට-සනිපාරක්ෂක-තුවා-මිලදි-ගන්න-රජයෙන්-රු-1200ක-තිළිණපතක්/11-409710) · `si`
+
+දිවයිනේ තෝරාගත් පාසල්වල හයවන ශ්‍රේනියේ සිට ඉහල පන්තිවල ඉගෙනුම ලබන වැඩිවිය පැමිණි සිසුවියන්ට  ජුනි 06 දා සිට  සනීපාරක්ෂක තුවා මිලදී ගැනීම සඳහා තිළිණ පත් ලබා දීමට පියවර ගෙන ඇතැයි  අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව එම සිසුවියන්ට රුපියල් 600 වටිනා බැගින්වු කොටස් දෙකකින් යුත් රුපියල් 1200 වටිනා තිළිණ පතක් බැගින් ලබා දෙන බවත් එයින් පළමු කොටස ජුනි 06 දා සිට ජූලි 07 දක්වා ද දෙවන කොටස සැප්තැම්බර් 01 සිට 30 දක්වාද වලංගු වන බව මේ සම්බන්ධයෙන් අමාත්‍යාංශය නිකුත් කළ චක්‍රලේඛයේ සඳහන් වේ.
+
+මෙකී කාල සීමාවන් තුළදී අමාත්‍යාංශයේ ලියාපදිංචි වෙළඳ ආයතනවලින් මෙම තිළිණ පත් ලබාදී සනීපාරක්ෂක තුවා ලබා ගැනීමට සිසුවියන්ට හැකි බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+
+දිවයිනේ පහසුකම් අඩු  දුෂ්කර ,අති දුෂ්කර සහ  හුදෙකළා පාසල්වල ආර්ථික අපහසුතා සහිත  අට ලක්ෂයක් පමණ සිසුවියන් සඳහා මෙම සනීපාරක්ෂක තුවා ලබාදීමේ වැඩ සටහන සඳහා රුපියල් බිලියනයක මුදලක් වැයවන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+◼️
+
+[Data](articles/ecdc1545.json)
 
 ---
 
@@ -1110,6 +1194,8 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 
 [Data](articles/0e5d4417.json)
 
+[Extended Data](ext_articles/0e5d4417.ext.json)
+
 ---
 
 ### 2024-05-18 (Saturday)
@@ -1433,6 +1519,8 @@ Under the initiative vegetables, fruits, plantation crops, and fish are to be ha
 ◼️
 
 [Data](articles/e11d444c.json)
+
+[Extended Data](ext_articles/e11d444c.ext.json)
 
 ---
 
@@ -2201,107 +2289,5 @@ The Colombo District, with 5,057 cases, has seen the highest number of infection
 [Data](articles/1ca37d5f.json)
 
 [Extended Data](ext_articles/1ca37d5f.ext.json)
-
----
-
-### Sri Lanka suffers over $138mn foreign outflow from govt bonds in 2024 after rate cuts
-
-*2024-05-18 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-suffers-over-138mn-foreign-outflow-from-govt-bonds-in-2024-after-rate-cuts-163513/) · `en`
-
-ECONOMYNEXT – Foreign investors have dumped 41.6 billion-rupee ($138.6 million) worth of Sri Lanka government securities in the first 20 weeks of 2024, the central bank data showed, after reduction in the key policy interest rates.
-
-The foreign holding in Sri Lanka’s treasury bills and treasury bonds fell to 75.9 billion rupees on the week ended on Friday (17), May 2024, from 117.4 billion rupees on the week ended on December 29.
-
-The central bank rate has reduced the key policy rates by 50 basis points so far in 2024, extending the rates cut by 700 basis points since June last year.
-
-The rupee appreciated 9.1 percent in the first four months, but the gain failed to attract foreign investors amid a dragged debt restructuring negotiation with external private creditors.
-
-...
-
-[Data](articles/af22deea.json)
-
-[Extended Data](ext_articles/af22deea.ext.json)
-
----
-
-### Donations to Gaza via floating jetty
-
-*2024-05-18 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196752) · `si`
-
-The US initiated a $320 million project to establish a temporary floating jetty off Gaza in April, aiming to transport 500 tons of aid daily. This initiative, which includes inspections by the US and Israel, allows for the shipment of goods via land, air, or sea to the jetty before reaching Gaza. The UN highlights the need for approximately 500 daily truckloads due to the ongoing humanitarian crisis, while Israeli forces discovered more bodies of Israeli soldiers killed by Hamas.
-
-🟩
-
-The US, spending US $ 320 million US $ 320 million, was started in the event of a temporary floating jetty on April.
-
-Accordingly, the first aid to operate a new route to transport human assistance to the Gaza is open to Gaza.
-
-The US goal is to transport 500 tones Gaza to Gaza.
-
-The assistance of the airport or sea is shipped to the floating jetty to the beach after inspection of the US and Israel.
-
-About 90 trucks carrying daily aid can be transported through this floating jetty and to send about 150 daily trucks.
-
-However, the United Nations emphasizes that the humanitarian crisis that has arisen in Gaza is about 500 daily trucks.
-
-Meanwhile, Israeli troops found the bodies of three other Israeli hoisons in Hamas.
-
-◼️
-
-[Data](articles/4e469c62.json)
-
-[Extended Data](ext_articles/4e469c62.ext.json)
-
----
-
-### Heavy downpours and strong winds expected during next few days
-
-*2024-05-18 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99298/heavy-downpours-and-strong-winds-expected-during-next-few-days) · `en`
-
-Showery and windy conditions are expected to enhance during the next few days from today, due to pre-monsoonal conditions over the country and surrounding sea areas, the Department of Meteorology said.
-
-In its latest forecast, issued at 12 noon, the department stated that cloudy skies can be expected over most parts of the island.
-
-Meanwhile, showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces and in Mannar district, it added.
-
-Showers or thundershowers will occur at several places elsewhere of the island after 12.00 noon on Sunday (19).
-
-Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times in Southern province, the Met. Department added.
-
-...
-
-[Data](articles/4b8706b0.json)
-
-[Extended Data](ext_articles/4b8706b0.ext.json)
-
----
-
-### The risk of flooding
-
-*2024-05-18 14:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளப்பெருக்கு-ஏற்படும்-அபாயம்/175-337469) · `ta`
-
-Heavy rains forecasted for several days pose a flood risk to low-lying areas near various rivers and ponds across Sri Lanka. The Meteorological Department warns of continued rain, affecting regions like Rajarata where the Rajanganaya reservoir's water level has risen significantly. Measures such as opening air doors at the Rajanganaya and Angamuwa reservoirs are being taken to manage the situation. Additionally, significant flooding has occurred in the Mahabulangulam area, impacting about 300 acres of paddy fields.
-
-🟩
-
-Due to the inclement weather, there is a risk that the low -lying areas surrounding the ponds surrounding Teduru Oya, Maha Oya, Attanagalu Oya, Kelaniya Ganga, Bendra Ganga, King Ganga, Nilwala Ganga, Uru Oya, Uru Pokku Oya, Kala Oya, Mahawali Ganga and Malwatu Oya ponds.
-
-Heavy rains are expected to continue for the next few days, the Meteorological Department said.
-
-Meanwhile, heavy rains in Rajarata area have risen to 31 feet by the water level of the Rajanganaya reservoir.
-
-As a result, 4 air doors are opened in the Rajangan reservoir and the water is opened at 2,100 cubic feet per second.
-
-The two air doors of the Angamuwa reservoir have been opened and the engineers responsible for the reservoir have requested that people living in the lowlands in the lowlands be cared for.
-
-About 300 acres of paddy fields have been flooded in the Mahabulangulam area of the 38th pillar of Anuradhapura. Remble
-
-◼️
-
-[Data](articles/759f0ee6.json)
-
-[Extended Data](ext_articles/759f0ee6.ext.json)
 
 ---

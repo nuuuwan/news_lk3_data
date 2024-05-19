@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 18:33:39**
+As of **2024-05-19 18:51:50**
 
 ## Newspaper Stats
 
-*Scraped **24,996** Articles*
+*Scraped **24,999** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 223
+colombotelegraphcom | 224
 bbccomsinhala | 253
 dbsjeyarajcom | 257
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,137
 adaderanalk | 2,895
-tamilmirrorlk | 2,931
+tamilmirrorlk | 2,933
 virakesarilk | 3,764
 dailymirrorlk | 3,922
 adaderanasinhalalk | 3,998
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,996 (100.0%) of 24,996 articles have been extended.
+24,996 (100.0%) of 24,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,38 @@ The letter has also requested for an immediate response from the NPP in this reg
 [Data](articles/1b682a2c.json)
 
 [Extended Data](ext_articles/1b682a2c.ext.json)
+
+---
+
+### ஜனாதிபதியுடன் இந்தோனேசிய அமைச்சர் சந்திப்பு
+
+*2024-05-19 17:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-இந்தோனேசிய-அமைச்சர்-சந்திப்பு/175-337541) · `ta`
+
+இந்தோனேசியாவுக்கான உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க, இந்தோனேசியா குடியரசின் கடல்சார் மற்றும் முதலீட்டு விவகாரங்களின் ஒருங்கிணைப்பு அமைச்சர் லுஹுட் பின்சார் பந்த்ஜைதனை சந்தித்ததாக ஜனாதிபதியின் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இச்சந்திப்பில், Global Blended Finance Alliance அமைப்பின் நாடுகள், வெப்ப வலயத்திற்கான இலங்கையின் முன்னெடுப்பு ,நீலப் பொருளாதாரம் மற்றும் கடற்பாசி தொழில் துறை குறித்து கலந்துரையாடப்பட்டது.
+
+அதேபோல், தென்துருவ நாடுகளுக்கிடையிலான ஒத்துழைப்பு, சதுப்புநில பயிர்ச்செய்கை தொடர்பான ஒத்துழைப்பு வேலைத்திட்டத்திற்காக ஆராய்ச்சி ஒத்துழைப்பு உள்ளிட்ட நடவடிக்கைகள் தொடர்பிலும் ஆராயப்பட்டது.
+
+ஒருங்கிணைக்க இருதரப்பு பணிக்குழுவை நிறுவுதல் உள்ளிட்ட விடயங்கள் தொடர்பில் ஆராயப்பட்டது. இந்துச் சமுத்திர எல்லை நாடுகளில் (IORA) தற்போதைய தலைவராக இலங்கையின் வகிபாகம் உள்ளிட்ட விடயங்கள் குறித்தும் ஆலோசிக்கப்பட்டது.
+
+...
+
+[Data](articles/dff7e983.json)
+
+---
+
+### இலங்கை மீனவரைக் கைது செய்த இந்தியக் கரையோரக் காவற்படை
+
+*2024-05-19 17:15:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவரைக்-கைது-செய்த-இந்தியக்-கரையோரக்-காவற்படை/175-337540) · `ta`
+
+இந்தியக் கடற்படரப்பில் சட்டரீதியற்ற முறையில் மீன்பிடித்தமைக்காக இயந்திரப் படகொன்றுடன் இலங்கையர் எழுவரை இந்தியக் கரையோரக் காவற்படை ஒன்றாகக் கைது செய்துள்ளது.
+
+பருத்தித்துறையிலிருந்து சென்ற இலங்கை மீனவர் 14 பேரை வியாழக்கிழமை, சர்வதேசக் கடல் எல்லையைத் தாண்டியமைக்காகவும், கடலட்டை பிடித்தமைக்காக ஐந்து படகுகளுடன் இந்தியக் கரையோரக் காவற்படை கைது செய்திருந்தது.
+
+◼️
+
+[Data](articles/854f310b.json)
 
 ---
 
@@ -607,6 +639,20 @@ Meanwhile, sluice gates of the Rajanganaya, Angamuwa and Ulhitiya reservoirs wer
 [Data](articles/85b91e37.json)
 
 [Extended Data](ext_articles/85b91e37.ext.json)
+
+---
+
+### Debate Or No Debate, Addressing Critical Issues Is Important For Voters
+
+*2024-05-19 13:00:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-or-no-debate-addressing-critical-issues-is-important-for-voters/) · `en`
+
+In recent weeks, we have observed a disheartening spectacle unfold between the Samagi Jana Balawegaya (SJB) and the Jathika Jana Balawegaya, (NPP) as they engage in a futile tussle, each blaming the other for the failure to arrange a debate between their respective leaders and economic policy teams. This debate, crucial for enlightening the voting populace ahead of both the Presidential and General elections, remains elusive due to the entrenched animosity between the parties.
+
+Consequently, the electorate grapples with disillusionment and disenchantment, triggered by the pervasive negative posturing exhibited by these factions, all while professing to champion System Change and advocate for a governance model marked by inclusivity and transparency.
+
+...
+
+[Data](articles/dedd2555.json)
 
 ---
 
@@ -2227,75 +2273,5 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 [Data](articles/9e0cbd03.json)
 
 [Extended Data](ext_articles/9e0cbd03.ext.json)
-
----
-
-### The United States stands with Sri Lankans
-
-*2024-05-19 01:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களுடன்-அமெரிக்கா-துணை-நிற்கும்/175-337479) · `ta`
-
-The US supports Sri Lanka as it marks 15 years since its internal war ended, aiming for a united future reflecting resilience and hope. US Ambassador Julie Sung reaffirmed America's commitment to backing Sri Lanka's journey towards a prosperous future, emphasizing partnership with the Sri Lankan people seeking justice, equality, and opportunities.
-
-🟩
-
-இலங்கையின் உள்நாட்டுப் போர் முடிவடைந்து 15 ஆண்டுகள் நிறைவடைந்துள்ள நிலையில், ஒன்றிணைந்த எதிர்காலத்திற்கான மீளெழுச்சி மற்றும் நம்பிக்கையை பிரதிபலிக்கும் வகையில், அனைத்து இலங்கையர்களுடனும் அமெரிக்கா துணை நிற்பதாக இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தெரிவித்துள்ளார்.
-
-US Ambassador to Sri Lanka, Julie Sung, mentioned this on her official X website.
-
-He pointed out that he is a firm partner with the Sri Lankan people, including the continuously anticipating parties of justice, equal rights and opportunities.
-
-நிலையான சமாதானம் மற்றும் முன்னேற்றத்திற்கான பன்முகத்தன்மையை உள்ளடக்கிய, வளமான எதிர்காலத்தை நோக்கிய இலங்கையின் பயணத்திற்கு ஆதரவளிப்பதற்கான தமது அர்ப்பணிப்பை தாம் மீண்டும் உறுதிப்படுத்துவதாக ஜூலி சங் மேலும் தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/67ee3d85.json)
-
-[Extended Data](ext_articles/67ee3d85.ext.json)
-
----
-
-### Can reduce electricity bills
-
-*2024-05-19 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணங்களை-குறைக்க-முடியும்/175-337478) · `ta`
-
-Prime Minister Dinesh Gunawardena aims to cut electricity costs soon, citing the Uma Oya scheme as key. Discussions underway for tariff reductions.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has said that electricity bills can be reduced within the next two months.
-
-The Prime Minister has pointed out that the Uma Oya Electricity Scheme has a direct impact on the reduction of 120 MW of electricity to the national power system.
-
-The Prime Minister said that discussions have begun on the reduction of electricity tariffs.(a)
-
-◼️
-
-[Data](articles/a4357699.json)
-
-[Extended Data](ext_articles/a4357699.ext.json)
-
----
-
-### Seethayamman Kumbabhishekapu Festival Today
-
-*2024-05-19 01:32:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதையம்மன்-கும்பாபிஷேகப்-பெருவிழா-இன்று/175-337477) · `ta`
-
-Today marks the Maha Kumbabhishekapu festival at Nuwara Eliya's Sita Eliya Seethayamman Temple, attended by Prime Minister Dinesh Gunawardena and spiritual guru Sri Ravi Shankar, who arrived from India yesterday.
-
-🟩
-
-The Maha Kumbabhishekapu festival of the historic Nuwara Eliya Sita Eliya Seethayamman Temple will be held today.
-
-For this purpose, the Ayodhya Rama Temple and the birthplace of Sita, the birthplace of Nepal, have reached the Seethayamman Temple yesterday.
-
-Prime Minister Dinesh Gunawardena will attend the Maha Kumbabhishekapu festival of the Sita Eliya Sita Amman Temple.
-
-Also, the founder of the humanitarian leader, the spiritual guru, the Ambassador and the founder of the living art training, Poojya Sri Ravi Shankar, arrived in Sri Lanka yesterday to attend the Kumbabhisheka event.. (A)
-
-◼️
-
-[Data](articles/a8e4308f.json)
-
-[Extended Data](ext_articles/a8e4308f.ext.json)
 
 ---

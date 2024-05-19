@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 21:18:17**
+As of **2024-05-19 21:33:41**
 
 ## Newspaper Stats
 
-*Scraped **25,037** Articles*
+*Scraped **25,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,38 @@ adalk | 2,140
 adaderanalk | 2,899
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
-dailymirrorlk | 3,925
+dailymirrorlk | 3,927
 adaderanasinhalalk | 4,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,037 (100.0%) of 25,037 articles have been extended.
+25,037 (100.0%) of 25,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### All schools in Puttalam District to remain closed tomorrow
+### Sri Lankan gem dealer chooses TV Star pawnbroker to sell £250Mn gemstone ’Queen of Asia’
 
-*2024-05-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99322/all-schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
+*2024-05-19 20:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-gem-dealer-chooses-TV-Star-pawnbroker-to-sell-250Mn-gemstone-Queen-of-Asia/108-282927) · `en`
 
-All schools in the Puttalam district will be closed on Monday (May 20) due to the adverse weather conditions.
+Colombo, May 19 (National World) - A TV star pawnbroker has been hand-picked to sell one of the world’s most impressive gemstones that has been valued at almost £250 million. The 683lb cluster is owned by a Sri Lankan gem dealer who wants to cash in his asset to fund his financial security and lifestyle.
 
-This decision has been taken by the Governor of the North-Western Province in consideration of the prevailing inclement weather.
+James Constantinou, who became a hit on the Channel 4 series ‘Posh Pawn’, will be brokering the giant sapphire, known as the Queen of Asia, to his high profile global connections.
 
-It has been informed that a decision on the subsequent days would be taken according to the weather condition tomorrow and that the Chief Secretary of the North Western Province has informed the Provincial Education Director regarding this decision.
+“I deal with a lot of rare and luxurious goods, but this might be my greatest endeavour yet,’ said Constantinou, who runs Prestige Pawnbrokers, which has eight branches around the country. “It is an investment opportunity for the seller and prospective buyers will include collectors of rare and exotic stones or institutions that want to display it in museums or galleries. It has certainly caused a stir as it is not every day you get such a massive gemstone coming onto the open market.”
 
-◼️
+...
 
-[Data](articles/11754ca6.json)
-
-[Extended Data](ext_articles/11754ca6.ext.json)
+[Data](articles/705e37ef.json)
 
 ---
 
 ### . Iran's president cannot find the helicopter traveled - Iranian media reports
 
-*2024-05-19 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183984) · `ta`
+*2024-05-19 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183984) · `ta`
 
 Iran's President Ibrahim Raisi lost his helicopter due to bad weather conditions, causing it to crash. The rescue helicopter dispatched returned empty-handed. The incident occurred during a trip to Iran's East Azerbaijan province, accompanied by the Foreign Minister.
 
@@ -75,6 +73,24 @@ Iranian officials said the helicopter was rushing to the landing area.
 [Data](articles/5e82ed4d.json)
 
 [Extended Data](ext_articles/5e82ed4d.ext.json)
+
+---
+
+### All schools in Puttalam District to remain closed tomorrow
+
+*2024-05-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99322/all-schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
+
+All schools in the Puttalam district will be closed on Monday (May 20) due to the adverse weather conditions.
+
+This decision has been taken by the Governor of the North-Western Province in consideration of the prevailing inclement weather.
+
+It has been informed that a decision on the subsequent days would be taken according to the weather condition tomorrow and that the Chief Secretary of the North Western Province has informed the Provincial Education Director regarding this decision.
+
+◼️
+
+[Data](articles/11754ca6.json)
+
+[Extended Data](ext_articles/11754ca6.ext.json)
 
 ---
 
@@ -413,6 +429,20 @@ There were 3 helicopters in this convoy, and two helicopters carrying some minis
 [Data](articles/179a398c.json)
 
 [Extended Data](ext_articles/179a398c.ext.json)
+
+---
+
+### Helicopter in Iranian president’s convoy in accident, says state TV
+
+*2024-05-19 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Helicopter-in-Iranian-presidents-convoy-in-accident-says-state-TV/107-282903) · `en`
+
+DUBAI, May 19 - Iran's state television reported that one of the helicopters in the convoy carrying President Ebrahim Raisi was involved in an accident. No further details were immediately provided about the nature of the incident or whether the president was aboard that particular helicopter. The convoy was traveling in northwestern Iran.
+
+There were 3 helicopters in this convoy, and two helicopters carrying some ministers and officials arrived safely at their destination, Iran's Tasnim's news agency said. The agency said that, the Iranian President, accompanied by his Azerbaijani counterpart inaugurated on Sunday a water dam on the border between the two countries. The incident happened after the end of the opening ceremony.
+
+...
+
+[Data](articles/acbab1a1.json)
 
 ---
 
@@ -2171,51 +2201,5 @@ In this case, the US Ambassador commemorates 15 years after the end of Sri Lanka
 [Data](articles/5af8579c.json)
 
 [Extended Data](ext_articles/5af8579c.ext.json)
-
----
-
-### President orders to resume ’Suraksha’ students’ insurance programme
-
-*2024-05-19 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-to-resume-Suraksha-students-insurance-programme/108-282888) · `en`
-
-Colombo, May 19 (Daily Mirror) - President Ranil Wickremesinghe has directed to resume the "Suraksha" student insurance programme, which was temporarily halted due to economic issues.
-
-From the first week of June, all school students across the island will benefit from this insurance, the President's Media Division said.
-
-The Cabinet approved the Joint Cabinet Memorandum presented by the President as Minister of Finance, Economic Stabilization & National Policy, along with Education Minister Susil Premajayantha.
-
-◼️
-
-[Data](articles/7d037d3c.json)
-
-[Extended Data](ext_articles/7d037d3c.ext.json)
-
----
-
-### Arrest
-
-*2024-05-19 10:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கால்நடை-போலி-வைத்தியர்-கைது/76-337502) · `ta`
-
-A man posing as a vet treating sick cattle was arrested in Dimbulla on suspicion. Police found drugs and vaccines. The 58-year-old, from Hatton-Kotagala, reportedly caused deaths among the animals he treated.
-
-🟩
-
-A man who pretended to be a veterinarian and treated sick cattle has been arrested on Saturday afternoon (18) on suspicion of suspicion by Dimbulla.
-
-Based on information received by the state veterinarian AA Suresh Kumar, who is responsible for the treatment of a sick cow at a cattle farm in Kotagala, they have gone to the Dimbulla-Pathanam area and arrested the fake doctor.
-
-Police have arrested several drugs and vaccines from the suspect.
-
-The 58-year-old fake veterinarian, a resident of the Hatton-Kotagala area, went to the Hatton and Nuwara Eliya police division to go to the cattle farms and treat the sick cattle.. He said many of the cattle he had been treated have died.
-
-The suspect has escaped when the suspect went to arrest and the suspect was chased away by the suspect.
-
-The Hatton Magistrate's Court will be produced at the Hatton Magistrate's Court after the suspect left the hospital.
-
-◼️
-
-[Data](articles/60db59d3.json)
-
-[Extended Data](ext_articles/60db59d3.ext.json)
 
 ---

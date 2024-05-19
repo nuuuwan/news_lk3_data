@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 12:50:27**
+As of **2024-05-19 13:03:37**
 
 ## Newspaper Stats
 
-*Scraped **24,953** Articles*
+*Scraped **24,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 1,464
 adalk | 2,129
 adaderanalk | 2,890
 tamilmirrorlk | 2,928
-virakesarilk | 3,760
-dailymirrorlk | 3,913
-adaderanasinhalalk | 3,988
+virakesarilk | 3,762
+dailymirrorlk | 3,914
+adaderanasinhalalk | 3,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,952 (100.0%) of 24,953 articles have been extended.
+24,953 (100.0%) of 24,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### இணையப் பெருவெளியில் உளவு பார்த்தலால் ‘நிழல் யுத்தம்’
+
+*2024-05-19 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183940) · `ta`
+
+ஒவ்வொரு பீப்பா நினைத்தாலும், அதற்குள் உள்ள நீர் வெளியே கலப்பதையும், வெளியில் உள்ள நீர் உட்புகுவதையும் தடுத்தல் சிரமம். அதேபோன்று தான் இணையப் பெருவெளியில் நீக்கமறக் கலந்திருக்கின்ற ஒவ்வொரு நாடுகளின் தகவல்களையும் கூறமுடியும்.
+
+இப்போது இன்னொரு பூதம். இதை வேடிக்கையாக கடந்து விடுவதா, விழுங்கி விடுமா என்று அச்சப்படுவதா தெரியவில்லை. அதனால் உலக நாடுகள் இருதலைக்கொள்ளி எறும்பாக தடுமாறுகின்றன.
+
+சீனா உளவு பார்க்கிறது என்ற குற்றச்சாட்டு தான் பூதம். அமெரிக்காவும் பிரித்தானியாவும் குற்றச்சாட்டை முன்வைத்துள்ளன. மேற்குலகம் அவ்வப்போது சீனாவின் மீது விரல் நீட்டுவது வழமை தான். இம்முறை குற்றச்சாட்டு பாரதூரமானதாக இருக்கிறது.
+
+◼️
+
+[Data](articles/504499f3.json)
+
+---
+
+### கொத்தட்டுவ புதிய ஈரநிலப் பூங்காவின் அபிவிருத்திப் பணிகள் ஆரம்பம்
+
+*2024-05-19 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183936) · `ta`
+
+கொத்தட்டுவ புதிய ஈரநில பூங்கா அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன. கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்ட ஈரநிலங்களின் அபிவிருத்தியின் கீழ், கொத்தட்டுவ ஈரநிலத்தை அபிவிருத்தி செய்வதில் இலங்கை காணி அபிவிருத்தி கூட்டுத்தாபனம் கவனம் செலுத்தியுள்ளது.
+
+தற்போது தியசரு, பெத்தகான, கொட்டுபெம்ம ஆகிய நகர ஈர நிலங்கள் அபிவிருத்தி செய்யப்பட்டு பொதுமக்களின் பாவனைக்காக திறக்கப்பட்டுள்ளன.
+
+சுற்றுச்சூழலின் சமநிலையைப் பேணுதல், பரபரப்பான நகரத்தில் பொதுமக்களின் மனநலத்தைப் பேணுதல், வெள்ளப்பெருக்கு நேரங்களில் நீரை சேமித்தல் போன்ற செயல்களை அடையாளம் கண்டு ஈரநிலங்களை பலவந்தமாக பிடித்துக்கொள்வதை தடுத்து கொத்தட்டுவ ஈரநிலப் பூங்கா உருவாக்கப்படும்.
+
+...
+
+[Data](articles/474e61c6.json)
+
+---
 
 ### President meets Elon Musk, discuss implementation of ‘Starlink’ in Sri Lanka
 
@@ -46,9 +78,49 @@ Meanwhile, Minister Jeevan Thondaman, who is accompanying the President on his t
 
 “Great to have two visionary leaders come together for Sri Lanka.”
 
-◼️
+Elon Musk arrived in Indonesia’s resort island of Bali on Sunday to launch Starlink satellite internet service in the world’s largest archipelago nation.
+
+...
 
 [Data](articles/f771cffd.json)
+
+[Extended Data](ext_articles/f771cffd.ext.json)
+
+---
+
+### ජනාධිපති ඊලෝන් මස්ක් හමුවෙයි
+
+*2024-05-19 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196782) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ලොව ප්‍රමුඛතම ධනවතෙක් වන ටෙස්ලා සමාගමේ ප්‍රධාන විධායක මෙන්ම ට්විටර් සමාගමේ හිමිකරු වන ඊලෝන් මස්ක් ව හමුවී තිබේ.
+
+ඒ ඉන්දුනීසියාවේ වැත්වෙන 10 වැනි ලෝක ජල සමුළුවවේ ඉහළ පෙළේ රැස්වීමක් අතරතුරදීය.
+
+එහිදී  ශ්‍රී ලංකා තුළ Starlink ක්‍රියාත්මක කිරීම පිළිබඳව ජනාධිපතිවරයා ඊලෝන් මස්ක් සමග සාකච්ඡා කර තිබේ.
+
+ගෝලීය Starlink ජාලය සමඟ ශ්‍රී ලංකාව සම්බන්ධ කිරීම සඳහා අයදුම් කිරීමේ ක්‍රියාවලිය පිළිබඳව මෙහිදී වැඩිදුරටත් සාකච්ඡා වී ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+◼️
+
+[Data](articles/e5096484.json)
+
+---
+
+### Ranil meets Elon Musk
+
+*2024-05-19 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-meets-Elon-Musk/108-282892) · `en`
+
+Bali, May 19 (Daily Mirror) - President Ranil Wickremesinghe met Elon Musk in Bali and spoke about Sri Lanka being connected to the starlink network.
+
+President Wickremesinghe left for Indonesia yesterday to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
+
+The 10th World Water Forum is being held from May 18 to 20 in Bali, Indonesia.
+
+Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended the President's meeting with Elon Musk.
+
+◼️
+
+[Data](articles/80160a30.json)
 
 ---
 
@@ -2197,101 +2269,5 @@ I urge the British government to support the Tamil people and take immediate ste
 [Data](articles/97ae9752.json)
 
 [Extended Data](ext_articles/97ae9752.ext.json)
-
----
-
-### New warning about landslides
-
-*2024-05-18 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196761) · `si`
-
-Heavy rains and strong winds have triggered landslides affecting 47 individuals across 11 families, damaging homes in Ratnapura and causing partial damage in Rambukkana. The National Building Research Organization issued landslide warnings for high-risk areas in Badulla, Kandy, Kegalle, and Ratnapura districts, effective from 4:00 PM today until tomorrow.
-
-🟩
-
-The Disaster Management Center (DMC) says that due to the inclement weather conditions, several districts have been affected.
-
-47 persons belonging to 11 families have been affected by heavy rains, strong winds and landslides.
-
-4 houses in the Ratnapura District have been damaged and 21 persons have been affected.
-
-The collapse of a tree in the Rambukkana area in Kegalle was partially damaged.
-
-Meanwhile, the National Building Research Organization has taken steps to issue landslide warnings with heavy rains.
-
-The National Building Research Organization is notified to pay attention to the Ella Divisional Secretariat Division of Badulla District.
-
-The first phase of landslide warning was also released for risky areas in Badulla, Kandy, Kegalle and Ratnapura districts.
-
-That warning announcements today (18). 4:00 to tomorrow (19). The National Building Research Organization (NBRO) says that it will be valid for 4:00.
-
-◼️
-
-[Data](articles/ca6af9ff.json)
-
-[Extended Data](ext_articles/ca6af9ff.ext.json)
-
----
-
-### Showers at 100 mm of areas in the next few days
-
-*2024-05-18 17:35:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කීපයේ-දී-ප්‍රදේශ-රැසකට-මිලිමීටර්-100-ඉක්මවා-වැසි/11-409702) · `si`
-
-Heavy rain expected in southwest Sri Lanka, reaching 100mm in Matara districts. Winds at 30-40 km/h. High-risk areas for landslides identified. Flooding, landslides, and sea waves possible. Public urged to prepare for potential disasters, especially in coastal lowlands.
-
-🟩
-
-The Department of Meteorology has announced that there is heavy rainfall in the southwest areas of Sri Lanka and in the near future. The wind situation is also available in the island that there will be about 30 to 40 kilometers per hour.
-
-The Department of Meteorology has announced that heavy rains can be reached in the Western, Sabaragamuwa, North Western provinces and 100 mm in Matara districts.
-
-In addition, the sea areas can be reached through Hambantota with Kalpitiya and Galle in Hambantota.. The Department of Meteorology emphasized that disasters such as strong winds and the Department of Meteorology emphasized.
-
-The National Building Research Organization (NBRO) has also issued the District Badulla, Kalutara, Kandy, Kegalle, Kurunegala, Matale, Nuwara Eliya and landslide high risk areas.
-
-...
-
-[Data](articles/7e74956e.json)
-
-[Extended Data](ext_articles/7e74956e.ext.json)
-
----
-
-### Haputale closes
-
-*2024-05-18 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196760) · `si`
-
-Haputale is shrouded in mist, affecting visibility. The road from Beragala to Haputale via Colombo-Badulla is slippery due to heavy fog. Drivers are advised to be cautious.
-
-🟩
-
-According to our correspondents today (18) a mist with all over the date of Haputale town and surrounding areas.
-
-It is also reported that the sloping section between the Beragala Haputale road along the Colombo-Badulla road has a heavy thumb.
-
-According to our correspondent, the Haputale police have informed the drivers to take care of the traffic on the road.
-
-◼️
-
-[Data](articles/f8a54d88.json)
-
-[Extended Data](ext_articles/f8a54d88.ext.json)
-
----
-
-### Fifteen years after the end of the war, victims still await justice at Mullivaikkal: Amnesty
-
-*2024-05-18 17:00:00* · [`economynextcom`](https://economynext.com/fifteen-years-after-the-end-of-the-war-victims-still-await-justice-at-mullivaikkal-amnesty-163551/) · `en`
-
-ECONOMYNEXT – Speaking at a commemoration marking the 15th anniversary of the end of Sri Lanka’s internal armed conflict on 18 May 2009, which culminated in the brutal Mullivaikkal offensive where countless civilian lives were lost, Secretary General at Amnesty International Agnès Callamard said:
-
-“Today’s anniversary is a grim reminder of the collective failure of the Sri Lankan authorities and the international community to deliver justice to the many victims of Sri Lanka’s three-decade-long internal armed conflict.
-
-It is sobering to stand in the same place where, 15 years ago, countless civilian lives were lost during the last days of the war.
-
-...
-
-[Data](articles/500139bb.json)
-
-[Extended Data](ext_articles/500139bb.ext.json)
 
 ---

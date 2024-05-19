@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 17:34:20**
+As of **2024-05-19 17:54:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,987 (100.0%) of 24,988 articles have been extended.
+24,988 (100.0%) of 24,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologi
 ...
 
 [Data](articles/b96fb76a.json)
+
+[Extended Data](ext_articles/b96fb76a.ext.json)
 
 ---
 

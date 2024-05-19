@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 10:34:02**
+As of **2024-05-19 10:51:58**
 
 ## Newspaper Stats
 
-*Scraped **24,912** Articles*
+*Scraped **24,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,434
 dailyftlk | 1,464
-adalk | 2,126
+adalk | 2,127
 adaderanalk | 2,884
-tamilmirrorlk | 2,919
+tamilmirrorlk | 2,922
 virakesarilk | 3,752
-dailymirrorlk | 3,907
-adaderanasinhalalk | 3,982
+dailymirrorlk | 3,909
+adaderanasinhalalk | 3,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,912 (100.0%) of 24,912 articles have been extended.
+24,912 (100.0%) of 24,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### கால்நடை போலி வைத்தியர் கைது
+
+*2024-05-19 10:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கால்நடை-போலி-வைத்தியர்-கைது/76-337502) · `ta`
+
+கால்நடை வைத்தியராக நடித்து நோய்வாய்ப்பட்ட கால்நடைகளுக்கு சிகிச்சையளித்து வந்த நபரொருவர் திம்புள்ள- பத்தனை பொலிஸ் அதிகாரிகளால் சந்தேகத்தின் பேரில் சனிக்கிழமை (18) பிற்பகல் கைது செய்யப்பட்டுள்ளார்.
+
+கொட்டகலை பிரதேசத்தில் உள்ள கால்நடை பண்ணை ஒன்றில் நோயுற்ற பசுவிற்கு சிகிச்சை அளிப்பதாக தலவாக்கலை பிரதேசத்திற்கு பொறுப்பான அரச கால்நடை வைத்தியர்  ஏ.ஏ.சுரேஷ் குமாருக்கு கிடைத்த தகவலின் அடிப்படையில், திம்புள்ள- பத்தனை ஸ்தலத்துக்குச் சென்று, போலி வைத்தியரை கைது செய்துள்ளனர்.
+
+சந்தேக நபரிடம் இருந்த மருந்துகள் மற்றும் தடுப்பூசிகள் பலவற்றை பொலிஸார் கைது செய்துள்ளனர்.
+
+சந்தேகத்திற்குரிய 58 வயதுடைய போலி கால்நடை வைத்தியர் ஹட்டன்- கொட்டகலை பிரதேசத்தில் வசிப்பவர் எனவும்  ஹட்டன் மற்றும் நுவரெலியா பொலிஸ் பிரிவில் கால்நடை பண்ணைகளை நடத்தி வருபவர்களிடம் சென்று நோயுற்ற கால்நடைகளுக்கு பணம் பெற்று சிகிச்சை அளித்துள்ளார் தலவாக்கலை பிரதேசத்திற்குப் பொறுப்பான அரச கால்நடை வைத்தியர் ஏ.ஏ.சுரேஷ் குமார், தெரிவித்தார். அவர், சிகிச்சையளித்த கால்நடைகளில் பல   உயிரிழந்துள்ளதாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/60db59d3.json)
+
+---
+
+### Landslide warnings for seven districts
+
+*2024-05-19 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-warnings-for-seven-districts/108-282887) · `en`
+
+Colombo, May 19 (Daily Mirror) - The National Building Research Organisation (NBRO) has issued landslide warnings for seven districts due to the ongoing heavy rainfall.
+
+The warnings have been issued, effective from 03 am today (19) to 03 am tomorrow (20).
+
+Accordingly, the warning notices under Level 02 have been issued to the Ella Divisional Secretariats of the Badulla district.
+
+The landslide warning announcement under Level 1 include Badulla district and 33 Divisional Secretariat divisions in the Kandy, Kegalle, Ratnapura, Kalutara, Colombo and Gampaha districts.
+
+◼️
+
+[Data](articles/e43cd23b.json)
+
+---
+
+### මහවිල අනතුරින් අයෙක් මරුට
+
+*2024-05-19 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196777) · `si`
+
+පානදුර මාර්ගයේ මහවිල ප්‍රදේශයේදී  පාපැදියක් සහ යතුරුපැදියක් එකිනෙක ගැටීමෙන් පාපැදිකරු  මියගොස් ඇතැයි අළුබෝමුල්ල පොලිසිය කියයි.
+
+අනතුරින් මියගොස් ඇත්තේ අළුබෝමුල්ල ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි  පින්තාරු රැකියාවේ යෙදුණු අයෙකි.
+
+මියගිය පුද්ගලයා පාපැදියෙන්   හොරණ පානදුර මාර්ගයේ පානදුර දෙසට යමින් සිටියදී  එම දිසාවටම ගමන්කරමින් තිබූ යතුරුපැදියක්  පාපැදියේ පිටුපසින් ගැටී මෙම අනතුර වී ඇතැයි පොලීසිය කීය.
+
+සිදුවූ අනතුරින් පාපැදිකරු මෙන්ම යතුරුපැදියේ ගමන් ගත් පැදිකරු සහ පසු පැදිකරු තුවාල ලබා පානදුර මූලික රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව  පාපැදිකරු මිය ගිය බව පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/db3d0a06.json)
+
+---
+
+### உ/த மாணவர்களுக்கு மற்றுமொரு புலமைப்பரிசில்
+
+*2024-05-19 10:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவர்களுக்கு-மற்றுமொரு-புலமைப்பரிசில்/175-337500) · `ta`
+
+2022/2023 ஆம் ஆண்டுக்கான சாதாரண தரப் பரீட்சையில் சித்தியடைந்து 2024/2025   உயர்தரப் பரீட்சைக்கு தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பத்தை ஒரு பாடமாகக் கற்கும்   மாணவர்களுக்கு 5000 புலமைப்பரிசில்களை வழங்குவதற்கு ஜனாதிபதி நிதியம் மற்றும் இலங்கை தொலைத்தொடர்பு ஒழுங்குமுறை ஆணைக்குழு திட்டமிட்டுள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் யோசனைக்கு அமைவாக நடைமுறைப்படுத்தப்படும் இந்த வேலைத்திட்டத்தின் கீழ் தெரிவு செய்யப்படும் மாணவர்களுக்கு ஒரு இலட்சம் ரூபாய் புலமைப்பரிசில் வழங்கப்படவுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+மாத வருமானம் 100,000 ரூபாய்க்கு குறைவாக உள்ள குடும்பங்களைச் சேர்ந்த, அரசுப் பள்ளியில் தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பம் என்ற பாடத்துடன் உயர்கல்வி கற்கும் மாணவர்கள், தாங்கள் படிக்கும் பள்ளியின் மூலம் மே 22 ஆம் திகதி வரை விண்ணப்பிக்கலாம் மற்றும் குறைந்தபட்சம் ஒவ்வொரு கல்வி வலயங்களிலிருந்தும் 50 பேர் தேர்ந்தெடுக்கப்பட்டவர்கள்.
+
+◼️
+
+[Data](articles/ef7ba28f.json)
+
+---
+
+### ’’சுரக்ஷா’’ மீண்டும் ஆரம்பம்
+
+*2024-05-19 10:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுரக்ஷா-மீண்டும்-ஆரம்பம்/175-337499) · `ta`
+
+பொருளாதார நெருக்கடி காரணமாக தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள "சுரக்ஷா" மாணவர் காப்புறுதியை மீண்டும் ஆரம்பிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளார்.
+
+இதன்படி, நாடு முழுவதிலும் உள்ள அனைத்து பாடசாலை மாணவர்களும் ஜூன் முதல் வாரத்தில் இருந்து இந்தக் காப்புறுதியின் கீழ் நன்மைகளைப் பெற முடியும்.
+
+இது தொடர்பில், நிதி,பொருளாதார நிலைப்படுத்தல் மற்றும் தேசிய கொள்கைள் அமைச்சர், ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த ஆகியோரினால் முன்வைக்கப்பட்ட இணை அமைச்சரவைப் பத்திரத்திற்கு அண்மையில் அமைச்சரவை அனுமதி வழங்கியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c2f42dc0.json)
+
+---
+
+### මාලදෙණියේ ත්‍රිත්ව ඝාතනයක්
+
+*2024-05-19 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196775) · `si`
+
+මාලදෙණිය, නාල්ල ප්‍රදේශයේදී පුද්ගලයෙකු විසින් එකම පවුලේ තිදෙනෙකු නිවස තුළදී ඝාතනය කර තිබේ.
+
+අද (19) උදෑසන 42 හැවිරිදි පුද්ගලයෙකු විසින් එම ඝාතන සිදුකර ඇති බව පොලීසිය පවසයි.
+
+එලෙස ඝාතනයට ලක්ව  ඇත්තේ, 80 හැවිරිදි පියා, 77 හැවිරිදි මව සහ 42 හැවිරිදි පුත්‍රයාය.
+
+◼️
+
+[Data](articles/0f4cbf26.json)
+
+---
 
 ### Sandar was stuck in the sand
 
@@ -55,6 +157,26 @@ Police say the machine is the machine that is a wind -operating machine using el
 [Data](articles/5953d84e.json)
 
 [Extended Data](ext_articles/5953d84e.ext.json)
+
+---
+
+### Families complain on over 400 Sri Lankans in Russia-Ukraine war
+
+*2024-05-19 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Families-complain-on-over-400-Sri-Lankans-in-Russia-Ukraine-war/108-282886) · `en`
+
+Colombo, May 19 (Daily Mirror) - Sri Lanka's Defence Ministry has received over 400 complaints from family members of citizens recruited by mercenary companies to fight in the Russia-Ukraine war.
+
+Authorities launched an investigation earlier this month into reports of Sri Lankan nationals with military backgrounds being trafficked to fight in Ukraine.
+
+In response, the Defence Ministry set up a hotline for family members to lodge complaints after a few returnees exposed the deadly conditions faced by mostly ex-soldiers fighting primarily for Russia. The Ministry reported that a total of 411 complaints have been received so far.
+
+It was reported that not only former members of the security forces but also citizens without any military training have been recruited as mercenaries in the Russia-Ukraine conflict.
+
+The government has decided to send a delegation to Russia to identify and repatriate its citizens fighting for Russia in Ukraine.
+
+◼️
+
+[Data](articles/5f4c9218.json)
 
 ---
 
@@ -235,6 +357,24 @@ The police then raided the man who went on a bicycle and caught up with about 3 
 [Data](articles/70384a65.json)
 
 [Extended Data](ext_articles/70384a65.ext.json)
+
+---
+
+### රත්කිඳ ජලාශයේ වාන් දොරටු විවෘත කිරිමට ආසන්නයි
+
+*2024-05-19 07:36:27* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-විවෘත-කිරිමට-ආසන්නයි/11-409709) · `si`
+
+ගිරාදුරු කෝට්ටේ උල් හිටිය රත් කිඳ ජලාශයේ ජල මට්ටම අද  18 දහ අට රාත්‍රියේ රඳවා ගත යුතු ප්‍රමාණයට වඩා ඉහළ යන  පසුබිමක තවදුරටත් තද වර්ෂාව ලැබෙමින් පවතින බැවින් එහි වාන් දොරටු විවෘත කිරීමට සිදුවන බැවින් රත්කිඳකෝසුව හරහා ගමන් ගන්නා රථ වාහන එහි  සවිකර ඇති සයිරනය පිළිබඳව අවධානයෙන් පසු විය යුතු බව ජලාශ භාර ඉංජිනේරුවෝ පවසති.
+
+සයිරනය නාද වීමෙන් පසු ජලාශයේවාන් දොරටු විවෘත කරන බැවින් රත්කිද  කෝසුව ජලයෙන් යටවන බැවින් ඒ  හරහා ගමනාගමනය සම්පූර්ණයෙන් ඇන හිටින බවද ඔවුහු පවසති.
+
+ජලාශයේ පිටවානේ ගේට්ටු හතක් ඇති අතර වැඩිවෙන ජලධාරිතාව අනුව රාත්‍රියේ  ඒවා විවෘත කිරීමට සිදුවනු ඇතැයි ද පහළින් සිටින ජනතාවද විමසිලිමත්ව සිටින ලෙසද ජලාශ භාර ඉංජිනේරුවෝ මහජනතාවගෙන් ඉල්ලා සිටිති.
+
+දින දෙකක් තුළ මිලිමීටර් සියය  ඉක්මවූ වැසි  ලැබී ජල වැඩි ජල ධාරිතාවයක් උල් හිටිය හා ඒ ආශ්‍රිත ප්‍රදේශයට ලැබී ඇති බැවින් මහවැලි සී කලාපයට ජලය නිකුත් කිරීම අවම වී ඇති බවද ජල මට්ටම වඩාත් ඉහළ ගොස් ඇති බවද ජලාශභාර ඉංජිනේරුවෝ වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/80dc0d19.json)
 
 ---
 
@@ -2163,195 +2303,5 @@ Police arrested a civil organizer activist.
 [Data](articles/1bc90860.json)
 
 [Extended Data](ext_articles/1bc90860.ext.json)
-
----
-
-### May 18: 15 years of war of the war to hear from Mullivaik Beach
-
-*2024-05-18 10:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6py2pelnz5o) · `si`
-
-On May 18, survivors and relatives gathered at Mullivaik Beach to remember the 15-year war and those who disappeared. Despite international findings of human rights violations, no independent national investigation has occurred.
-
-🟩
-
-None contains anything here.Video heads, '' I saw him when I was on the beach. ''
-
-May 18: 15 years of war of the war to hear from Mullivaik Beach
-
-"A few people have been saved in Mullaita when the end of the war. To climb in the army, the bus has been saved. I saw my brother-in-law and told us. "
-
-Relatives of their families to commemorate the war and the disappearances were present at Mullaitivu Beach.
-
-"According to international law by the United Nations investigation, crime, international human rights and humanitarian law violations have been found, but today has not yet had an independent or impartial national investigation into such serious crimes. Their close associates have to contend with the families of families of the family during the conflict. The victims are really heartwarming to hear whether the victims were futile. "
-
-◼️
-
-[Data](articles/3757191f.json)
-
-[Extended Data](ext_articles/3757191f.ext.json)
-
----
-
-### Yall. Fines for three owners who run a restaurant with health problems
-
-*2024-05-18 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183852) · `ta`
-
-Three restaurant owners in Jaffna and Awil face fines for health violations after inspections by Public Health Inspector C Sivanujan. The Mallakam Magistrate's Court issued warnings and fines ranging from Rs 15,000 to Rs 25,000.
-
-🟩
-
-The court has severely warned the three owner of the restaurants with a health disorder in the Jaffna and Awil area.
-
-Public Health Inspector C The area. Sivanujan carried out a raid on restaurants in the Arauvil area.
-
-The Mallakam Magistrate's Court filed a lawsuit against the restaurant owners, while three restaurants were operating with health problems.
-
-When the case was taken up for hearing yesterday, the owners accepted the allegations against them, and they were severely warned of them, and the three were sentenced to Rs 25 thousand, 15 thousand and 20 thousand rupees.
-
-◼️
-
-[Data](articles/bc6aeed6.json)
-
-[Extended Data](ext_articles/bc6aeed6.ext.json)
-
----
-
-### Shortage of elephant participation for Kandy Esala Perahera
-
-*2024-05-18 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortage-of-elephant-participation-for-Kandy-Esala-Perahera/108-282877) · `en`
-
-Colombo, May 18 (Daily Mirror) - A situation has arisen where getting the participation of elephants at both peraheras has become a problem due to the holding of the Ratnapura Maha Saman Devalaya Perahera and the Kandy Esala Perahera on the same day, Sri Dalada Maligawa Diyawadana Nilame Pradeep Nilanga Dela said.
-
-He told the Daily Mirror that at least 60 elephants will be able to participate in the Kandy Esala Perahera this year. During previous Kandy Esala Perahera seasons, 75 elephants participated, he said.
-
-"There are a total of 96 tamed elephants available in the country, but only 80 elephants can be taken for peraheras this season due to their physical health conditions and other issues. At least 20 elephants will be sent for the Ratnapura Maha Saman Devalaya perahera, and the remaining elephants will be assigned to the Kandy Esala perahera," the Diyawadana Nilame said.
-
-He said in 2000, a total of 225 tamed elephants were in the country, but now the count had decreased to 96.
-
-◼️
-
-[Data](articles/1d32f4ac.json)
-
-[Extended Data](ext_articles/1d32f4ac.ext.json)
-
----
-
-### One killed in motorcycle accident
-
-*2024-05-18 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196744) · `si`
-
-A fatal motorcycle crash occurred last night involving two bikes. One rider died, while both were severely hurt and hospitalized. The investigation continues.
-
-🟩
-
-The police said that the accident had occurred last night at two motorbikes.
-
-The two motorcyclists who were seriously injured in the accident were admitted to the Kekirawa hospital for further treatment and was admitted to the Dambulla hospital.
-
-The remains are placed at the Dambulla hospital morgue and Kekirawa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/80f7e571.json)
-
-[Extended Data](ext_articles/80f7e571.ext.json)
-
----
-
-### Yall. Youth killed in Uduvil area
-
-*2024-05-18 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183847) · `ta`
-
-In Jaffna, Sasikumar Rubinson, a 20-year-old from Manipayi, Aladi Uduvil, tragically passed away on Friday due to injuries sustained from falling into a mangrove. Despite being taken to the teaching hospital, he did not survive. His death is under investigation by Death Investigation Officer Jayapalasingham.
-
-🟩
-
-A young man who died from a tree in the Uduvil area in Jaffna dies on Friday (17).
-
-Sasikumar Rubinson, a 20 -year -old youth from Manipayi, Aladi Uduvil, died.
-
-Jaffna lost his self -consciousness when he fell into a mangrove. He died yesterday without treatment at the teaching hospital.
-
-Death Investigation Officer Jayapalasingham. The body was handed over to relatives after the anatomical examination.
-
-◼️
-
-[Data](articles/5dbce4ce.json)
-
-[Extended Data](ext_articles/5dbce4ce.ext.json)
-
----
-
-### Sri Lankan fisherman dead, one missing after trawler collides with ship
-
-*2024-05-18 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99294/sri-lankan-fisherman-dead-one-missing-after-trawler-collides-with-ship) · `en`
-
-One Sri Lankan fisherman has been killed while another is reported missing after a multi-day fishing vessel collided with a ship off Valaichchenai, Trincomalee.
-
-Five fishermen had left the Valaichchenai fisheries harbor on May 12 for a multi-day fishing trip, whereas the accident took place approximately 47 kilometers off the coast.
-
-Preliminary investigations by the police suggest that the collision was caused by heavy rainfall in the area.
-
-The deceased, a 47-year-old from Nintavur, drowned, while a 60-year-old resident of the Oluvil area is reported missing, according to police. Meanwhile, another fisherman who was onboard the vessel in question and sustained injuries during the accident, has been admitted to Trincomalee Hospital for treatment.
-
-The two remaining fishermen onboard are safe, the police confirmed.
-
-◼️
-
-[Data](articles/7d933396.json)
-
-[Extended Data](ext_articles/7d933396.ext.json)
-
----
-
-### Sri Lankan fisherman dead, one missing after multi day fishing vessel collides with ship
-
-*2024-05-18 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99294/sri-lankan-fisherman-dead-one-missing-after-multi-day-fishing-vessel-collides-with-ship) · `en`
-
-One Sri Lankan fisherman has been killed while another is reported missing after a multi-day fishing vessel collided with a ship off Valaichchenai, Trincomalee.
-
-Five fishermen had left the Valaichchenai fisheries harbor on May 12 for a multiday fishing trip, whereas the accident took place approximately 47 kilometers off the coast.
-
-Preliminary investigations by the police suggest that the collision was caused by heavy rainfall in the area.
-
-The deceased, a 47-year-old from Nintavur, drowned, while a 60-year-old resident of the Oluvil area is reported missing, according to police. Meanwhile, another fisherman who was onboard the vessel in question and sustained injuries during the accident, has been admitted to Trincomalee Hospital for treatment.
-
-The two remaining fishermen onboard are safe, the police confirmed.
-
-◼️
-
-[Data](articles/b3ff22df.json)
-
-[Extended Data](ext_articles/b3ff22df.ext.json)
-
----
-
-### Mullivaikkal memorial observation
-
-*2024-05-18 10:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-அனுஷ்டிப்பு/175-337464) · `ta`
-
-On Mullivaikkal's 15th anniversary, commemorations highlighted the ongoing struggle against human rights abuses, oppression, and the lack of justice for victims of the final war. Despite international attention, there's been little progress on key issues like missing persons and human rights violations. Activists worldwide express frustration over the absence of meaningful action towards justice, questioning the sincerity of efforts to address past injustices.
-
-🟩
-
-Mullivaikkal's 15th anniversary, which commemorates the life -threatening relations in the final war, is commemorated on Saturday (18) in the North and East.
-
-Accordingly, the Mullivaikkal memorial was held in Mannar on Saturday (18) at 8.30 am.
-
-The Tamil National Life Rights Movement was organized by its leader VS Sivakaran in the statue of Father Selva in Mannar Bazaar.
-
-During this time, Mullivaikkal Nivendal Public Public Public Public Public Public Public Apallar Loading and launching the memorial.
-
-Mullivaikkal commemorates the people.
-
-Meanwhile, Mullivaikkal has issued a report on the 15th anniversary of commemoration of the life -threatening relations in the final war.
-
-There has been no change in the 15 years after the genocide. There has been no change. All of the various issues have been worthless.
-
-...
-
-[Data](articles/efdf299a.json)
-
-[Extended Data](ext_articles/efdf299a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 23:52:58**
+As of **2024-05-20 00:03:53**
 
 ## Newspaper Stats
 
-*Scraped **25,043** Articles*
+*Scraped **25,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ bbccomsinhala | 253
 dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
-economynextcom | 1,436
+economynextcom | 1,439
 dailyftlk | 1,465
-adalk | 2,140
+adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
-dailymirrorlk | 3,927
+dailymirrorlk | 3,932
 adaderanasinhalalk | 4,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,043 (100.0%) of 25,043 articles have been extended.
+25,043 (99.9%) of 25,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### MR, Sabry pray for well being of Iranian President
+
+*2024-05-19 23:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MR-Sabry-pray-for-well-being-of-Iranian-President/108-282941) · `en`
+
+In the wake of the tragic incident involving Iranian President Ebrahim Raisi, former President Mahinda Rajapaksa and Foreign Minister Ali Sabri have extended their heartfelt prayers to the Iranian people.
+
+In a social media post, Foreign Minister Ali Sabri conveyed his deep concern over reports of President Raisi's helicopter flight incident and expressed solidarity with the Iranian people during this difficult time.
+
+"Our thoughts are with the Iranian people during this distressing time. We pray for the safety and well-being of President Raisi, his entourage, and the Foreign Minister," he stated.
+
+Former President Rajapaksa also shared his concerns on social media, emphasizing the importance of safety for President Raisi and his delegation amidst the reports of a helicopter crash.
+
+"My thoughts are with the people of Iran at this time, and I pray for the safety of the Iranian President and his delegation," he wrote.
+
+◼️
+
+[Data](articles/91b5ba00.json)
+
+---
+
+### හෙලිකොප්ටර් අනතුරක් හේතුවෙන් ඉරාන ජනපතිවරයා අතුරුදන්
+
+*2024-05-19 22:25:36* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-අනතුරක්-හේතුවෙන්-ඉරාන-ජනපතිවරයා-අතුරුදන්/11-409726) · `si`
+
+ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා ගමන් ගත් හෙලිකොප්ටර් යානය අනතුරට පත්ව ඇති බවත් එම අනතුරින් ඉරාන ජනපතිවරයා අතුරුදන්ව ඇති බවත් ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+නැගෙනහිර අසර්බයිජානයේදි හෙලිකොප්ටරය හදිසි ගොඩබැමකට ලක්කිරිමේදි මෙම අනතුර සිදුව ඇතැයි වාර්තා වෙයි. අනතුර සිදුවන අවස්ථාවේදි ඒම ප්‍ර දේශයේ අයහපත් කාලගුණ තත්ත්වයක් පැවති ඇත.
+
+මුදවා ගැනිමේ කණ්ඩායම් ප්‍ර දේශයට ළඟා වන බවත් අධික මිදුම මුදවා ගැනිමේ මෙහෙයුම් සඳහා ගැටලුවක්ව ඇති බවත් ජාත්‍යන්තර මාධය වාර්තා කරයි.
+
+ඉරාන ජනපතිට අමතරව ඉරාන විදේශ කටයුතු අමාත්‍යවරයාද එම හෙලිකොප්ටරයේ ගමන් කර තිබේ. ඔවුන් ගමන් කළ හෙලිකොප්ටරයට අමතරව තවත් හෙලිකොප්ටර් දෙකක්ද ගමන් කර ඇති අතර ඒම හෙලිකොප්ටර් ‌දෙක අනතුරකින් තොරව ගමනාන්තයට ළ﻿ඟා වි තිබේ.
+
+◼️
+
+[Data](articles/aca1abea.json)
+
+---
 
 ### Iran becomes worried - President's special operation
 
@@ -60,6 +98,22 @@ The people of Iran have also begun to pray for their President.
 
 ---
 
+### “Starlink” සේවා පහසුකම ක්‍රියාත්මක කිරීමට ජනපති හා ඉලෝන් මස්ක් අතර සාකච්ඡා
+
+*2024-05-19 22:20:46* · [`adalk`](https://www.ada.lk/technology/“Starlink”-සේවා-පහසුකම-ක්‍රියාත්මක-කිරීමට-ජනපති-හා-ඉලෝන්-මස්ක්-අතර-සාකච්ඡා/5-409725) · `si`
+
+ශ්‍රී ලංකාව තුළ “Starlink” සේවා පහසුකම ක්‍රියාත්මක කිරීම පිළිබඳ සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ලොව ප්‍රකට ව්‍යාපාරිකයෙකු වන ඊලොන් මස්ක් (Elon Musk) මහතා අතර හමුවක් අද (19) ඉන්දුනිසියාවේදි සිදු විය.
+
+ගෝලීය “Starlink” ජාලය සමඟ ශ්‍රී ලංකාව සම්බන්ධ කිරීම සඳහා අයදුම් කිරීමේ ක්‍රියාවලිය වේගවත් කිරීමට කැපවී සිටින බව එහිදී අවධාරණය කෙරිණි.
+
+ඉන්දුනීසියාවේ පැවැත්වෙන 10 වන ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට සහභාගීවීම සඳහා ජනපතිවරයා මේ වන විට දිවයිනෙන් පිටත්ව ගොස් සිටියි.
+
+◼️
+
+[Data](articles/f28fdcd4.json)
+
+---
+
 ### Mahesh Senanayake joined the Samagi Jana Balawegaya yesterday
 
 *2024-05-19 22:14:01* · [`dailyftlk`](https://www.ft.lk/news/Mahesh-Senanayake-joined-the-Samagi-Jana-Balawegaya-yesterday/56-761964) · `en`
@@ -71,6 +125,22 @@ Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegay
 [Data](articles/0d560c80.json)
 
 [Extended Data](ext_articles/0d560c80.ext.json)
+
+---
+
+### “සුරක්ෂා” රක්ෂණාවරණය යළි ඇරඹේ
+
+*2024-05-19 22:10:03* · [`adalk`](https://www.ada.lk/breaking_news/“සුරක්ෂා”-රක්ෂණාවරණය-යළි-ඇරඹේ/11-409724) · `si`
+
+ආර්ථික ගැටළුකාරී තත්ත්වය හේතුවෙන් තාවකාලිකව අත්හිටුවන ලද “සුරක්ෂා” සිසු රක්ෂණාවරණය යළි ආරම්භ කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ. ඒ අනුව දිවයින පුරා සියලුම පාසල් සිසුන්ට මෙම රක්ෂණාවරණය යටතේ ප්‍රතිලාභ ලබා ගැනීමේ හැකියාව ජුනි මස මුල් සතියේ සිට උදා වේ.
+
+මීට අදාළව මුදල්, ආර්ථික ස්ථායීකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා විසින් ඉදිරිපත් කරන ලද ඒකාබද්ධ අමාත්‍ය මණ්ඩල සංදේශය සඳහා පසුගියදා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි විය.
+
+“සුරක්ෂා” සිසු රක්ෂණාවරණය, සෞඛ්‍ය ගැටළු හේතුවෙන් අධ්‍යාපනය ලබා ගැනීමට නොහැකි සිසුන්ට අඛණ්ඩ අධ්‍යාපනයක් ලබාදීම සහ ඔවුන්ගේ සුරක්ෂිතභාවය තහවුරු කරමින් පාසල් සිසුන් දෛනිකව පාසල් පැමිණීම වර්ධනය කිරීමේ අරමුණ ඇතිව 2017 වර්ෂයේ එවක අග්‍රාමාත්‍යවරයා වශයෙන් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් මත ක්‍රියාත්මක කරන ලද වැඩසටහනකි.
+
+...
+
+[Data](articles/7b168883.json)
 
 ---
 
@@ -91,6 +161,64 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 [Data](articles/baff3336.json)
 
 [Extended Data](ext_articles/baff3336.ext.json)
+
+---
+
+### Iran helicopter crash: Iranian president's helicopter found
+
+*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Iranian-president-s-helicopter-found/155-282938) · `en`
+
+The Iranian president's helicopter has been found, state media has reported.
+
+It said Ebrahim Raisi's chopper was discovered by search and rescue teams.
+
+It has not detailed where it was found, or if any survivors have been located.
+
+23.36 - 'There will be no disturbances' - Iran's supreme leader seeks to reassure public
+
+Iranian Supreme Leader Ayatollah Ali Khamenei has sought to reassure the public following the helicopter crash involving Ebrahim Raisi.
+
+"We hope that God the almighty returns the dear president and his colleagues in full health to the arms of the nation," he told state TV.
+
+23.22 - Contact made with passenger and crew member, says Iranian official
+
+Contact has been made with a passenger and a crew member of the Iranian president's helicopter, an official has told state TV.
+
+The unnamed official said contact has been made on several occasions.
+
+23.15 - European Commission activates satellite mapping service to help search for Raisi
+
+...
+
+[Data](articles/519bfe1e.json)
+
+---
+
+### SJB suggests new dates for debates with NPP
+
+*2024-05-19 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-suggests-new-dates-for-debates-with-NPP/108-282937) · `en`
+
+Colombo, May 19 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha in a letter addressed to National Peoples Power (NPP) Executive Committee Member Dr. Nalinda Jayatissa has suggested new dates for the proposed debate between its leader Sajith Premadasa and NPP leader Anura Kumara Dissanayake and the party’s economic experts.
+
+Accordingly, he has suggested that the debate between the two leaders be held on June 3, 4, 5, 6 or 7 while the debate between the economic experts be held on May 27, 28, 29, 30 or 31.
+
+◼️
+
+[Data](articles/55e408e6.json)
+
+---
+
+### Special holiday declared for Puttalam district schools
+
+*2024-05-19 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-holiday-declared-for-Puttalam-district-schools/108-282935) · `en`
+
+Colombo, May 19 -  All schools in the Puttalam district will be closed tomorrow, May 20, due to adverse weather conditions, Governor of the North-Western Province said.
+
+This decision aims to ensure the safety of students and staff amid the adverse weather.
+
+◼️
+
+[Data](articles/3becd51e.json)
 
 ---
 
@@ -441,6 +569,24 @@ Former President Vo Van Thuong resigned in March after a little over a year in t
 [Data](articles/fb7edd6e.json)
 
 [Extended Data](ext_articles/fb7edd6e.ext.json)
+
+---
+
+### සජිත් අනුර විවාදය සිදු නොවෙයි?
+
+*2024-05-19 19:06:05* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදය-සිදු-නොවෙයි-/11-409723) · `si`
+
+සමගි ජනබලවේගයට පෙර දැනුම් දුන් පරිදි ම 20වෙනිදායින් පසුව එම විවාදය සිදු නොකරන බව ජාතික ජන බලවේගය පවසයි.
+
+විවාදය සඳහා දින ලබාදෙමින් සමගි ජනබලවේගය විසින් ජාතික ජනබලවේගයට යොමු කළ ලිපියේ දිනය 17 වෙනිදා ලෙස සඳහන් වුවත්, එම ලිපිය ජාතික ජනබලවේගයේ විධායක සභික, හිටපු පාර්ලිමේන්තු මන්ත්‍රී නලින්ද ජයතිස්ස මහතාට ලැබී තිබුණේ ඊයේ (19දා) පස්වරුවේ ය.
+
+සමඟි ජනබලවේගය විසින් විවාදය සඳහා විසිවනදායින් පසු දින හතරක් ලබාදී,  ඇති අතර , ඔවුන් පළමුව දින ලබාදී ඇත්තේ ආර්ථික කමිටු අතර විවාදයට වන බැවින් ඒ සඳහා ද ජාතික ජනබලවේගය එකඟ නොවන බව එම පක්ෂය සඳහන් කරයි.
+
+පළමුව නායකයින් අතර විවාදය පවත්වා, අනතුරුව ආර්ථික කමිටු අතර විවාදය පැවැත්වීමට ජාතික ජනබලවේගය යෝජනා කර තිබුණි.
+
+◼️
+
+[Data](articles/d989d2f4.json)
 
 ---
 
@@ -812,6 +958,30 @@ The village is a sandy land bordered by the Induma Sea in the east, the Nandikad
 
 ---
 
+### Col. 7 businessman arrested for assaulting Iranian Ambassador
+
+*2024-05-19 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Col-7-businessman-arrested-for-assaulting-Iranian-Ambassador/108-282902) · `en`
+
+Colombo, May 19 (Daily Mirror)- A businessman from Colombo 7 has been arrested over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park last evening.
+
+The suspect, Buwaneka Mahasen Basnayake (36) is a resident of Ward Place, Colombo 07.
+
+The Police said the businessman had assaulted the Ambassador and attempted to escape after an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
+
+The Ambassador then had got down from his vehicle and attempted to prevent the businessman from escaping by keeping his hand on the bonnet of the businessman’s car while calling the driver to wait until the police comes.
+
+However, the businessman had driven the car even after the Ambassador was thrown onto the bonnet.
+
+Police officials who arrived at the scene had arrested the suspect.
+
+He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana Kekunawala.
+
+◼️
+
+[Data](articles/368cb112.json)
+
+---
+
 ### Georgian ParliamentThe EU fusion of the sprouting?
 
 *2024-05-19 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183951) · `ta`
@@ -1154,6 +1324,24 @@ The ceremony will be held near the war heroes near Battaramulla.
 
 ---
 
+### Sri Lanka may have to depend on India or nuclear to reach low carbon target: researcher
+
+*2024-05-19 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-have-to-depend-on-india-or-nuclear-to-reach-low-carbon-target-researcher-163609/) · `en`
+
+ECONOMYNEXT – Sri Lanka will need to either connect to India or set up a nuclear power plant if the country is to reach its renewable energy targets due the country’s weather patterns, a researcher and policy advocate has said.
+
+Sri Lanka has set ambitious goals for renewable electricity generation by 2030, apparently without much prior study or any costs being revealed when the target was set by President Gotabaya Rajapaksa.
+
+Rohan Pethiyagoda, a taxonomist and researcher who had also been senior state officials involved in policy at one time said overall Sri Lanka used a large volume of biomass (firewood) for cooking.
+
+“We need to recognize, of course, that about 60 percent of Sri Lankan households still use firewood as their primary fuel,” Pethiyagoda told a climate forum organized by Sri Lanka’s Ceylon Chamber of Commerce.
+
+...
+
+[Data](articles/5a4eec4a.json)
+
+---
+
 ### Image to the debate
 
 *2024-05-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196790) · `si`
@@ -1391,6 +1579,24 @@ The other suspect constable has been arrested on suspicion to check whether he i
 [Data](articles/e0dd610a.json)
 
 [Extended Data](ext_articles/e0dd610a.ext.json)
+
+---
+
+### Sri Lanka President discusses Starlink with Elon Musk
+
+*2024-05-19 13:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-starlink-with-elon-musk-163603/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has discussed connecting the island to the Starlink satellite system with its founder Elon Musk, his office said in a statement.
+
+President Wickremesinghe has met Musk at a World Water Forum High-Level Meeting in Indonesia.
+
+President Wickremesinghe discussed “the implementation of Starlink in Sri Lanka & committed to fast-tracking the application process to connect SL with the global Starlink network,” the statement said.
+
+Starlink is a low earth orbit satellite network, connected to Musk’s SpaceX group. (Colombo/Jun19/2024)
+
+◼️
+
+[Data](articles/5d6b20b8.json)
 
 ---
 
@@ -1951,243 +2157,5 @@ Accordingly, the United Nations Human Rights Commission has discussed the situat
 [Data](articles/7bf9620f.json)
 
 [Extended Data](ext_articles/7bf9620f.ext.json)
-
----
-
-### Grandmother's eye
-
-*2024-05-19 11:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட்டியின்-கண்ணை-பதம்பார்த்த-துப்பாக்கிச்-சன்னம்/175-337509) · `ta`
-
-A 72-year-old woman and her 12-year-old granddaughter were injured in a shooting near their home in Keerappana, Gampola. The grandmother was seriously hurt, while the girl suffered minor injuries. Police arrested a suspect who fired from the top floor of a nearby house, about fifty meters away.
-
-🟩
-
-A 72 -year -old woman was seriously injured and admitted to the Gampola Teaching Hospital. His 12 -year -old granddaughter, who was on his side, was also mildly injured in the shooting.
-
-The woman from Keerappana, Gampola, went to her daughter's house and stayed outside the house with her granddaughter, police said.
-
-Investigations into how the shooting was carried out, police said that the resident of the nearest resident was informed of the injuries in front of the house in front of the house, fifty meters away from the house.
-
-Police said he was arrested after the man was shot dead with a twelve -up gun from the top floor of the house.
-
-◼️
-
-[Data](articles/912ff2d3.json)
-
-[Extended Data](ext_articles/912ff2d3.ext.json)
-
----
-
-### Man arrested for triple murder in Gampaha
-
-*2024-05-19 11:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-for-triple-murder-in-Gampaha/108-282890) · `en`
-
-Gampaha, May 19 (daily Mirror) - A 42-year-old man has been arrested in connection with the murder of three individuals from the same family at Maladeniya in Nalla, Gampaha early this morning.
-
-The deceased individuals were identified as a 42-year-old man, his 80-year-old father, and 77-year-old mother.
-
-A team of officers from Nalla Police Station stopped and checked a suspicious person travelling on a bicycle early this morning. They noticed blood stains on the suspect's shirt and found Rs. 255,620 in cash, a gold necklace and two gold rings in the suspect's bag.  Also, a knife was recovered from the suspect's possession.
-
-During further questioning, officers found a card indicating a membership in a political party in 2002. Subsequently, the officers accompanied the suspect to the address on the card, where they discovered the bodies of the three deceased individuals.
-
-The arrested suspect, a resident of Bangadeniya in Chilaw, was taken into custody by the Nalla Police.
-
-◼️
-
-[Data](articles/c112614b.json)
-
-[Extended Data](ext_articles/c112614b.ext.json)
-
----
-
-### One person arrested at Mullivaikkal memorial event
-
-*2024-05-19 11:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்கால்-நினைவேந்தல்-நிகழ்வில்-ஒருவர்-கைது/175-337508) · `ta`
-
-A man was arrested at a tense commemoration event in Wellawatte, where a group honored Mullivaikkal victims while another celebrated Sri Lanka's military victory.
-
-🟩
-
-A man has been arrested following a tense situation in Wellawatte at a commemoration of the Mullivaikkal attack.
-
-A group representing various civil society groups and activists gathered in Wellawatte beach this morning to commemorate the victims of the Mullaitivu Mullivaikkal, which died in the Mullaitivu Mullivaikkal during the final war.
-
-At the same time, there was a tense situation in the area as another group staged a protest to celebrate the victory of the Sri Lankan military forces.
-
-◼️
-
-[Data](articles/72f02e97.json)
-
-[Extended Data](ext_articles/72f02e97.ext.json)
-
----
-
-### மூன்று தசாப்த கால போர் தமிழ் சமூகத்தின் 'மூளைசாலிகளை' அழித்துவிட்டது! - சவேந்திர சில்வா
-
-*2024-05-19 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183933) · `ta`
-
-The lack of war in Sri Lanka brings psychological peace for all ethnic groups. The three decades of war that the Tamil people who have been educated and assets, including gold have been educated from time to time, have destroyed the brain of the Tamil community, ”said Defense Chief General Shavendra Silva.
-
-வீரகேசரி வாரவெளியீட்டு வழங்கிய விசேட செவ்வியிலேயே ஜெனரல் சவேந்திர சில்வா மேற்கண்டவாறு கூறினார். அவர் வழங்கிய முழமையான செவ்வி வருமாறு,
-
-15 வருடங்கள் கடந்துள்ள போர் தமிழீழ விடுதலைப் புலிகளுக்கு  எதிரான மூன்று  தசாப்த கால போர் நிறைவடைந்து 15 வருடங்கள் கடந்துள்ளன.  பயங்கரவாத அச்சுறுத்தல்  இன்றி  அனைத்து  இன மக்களும் அமைதியாக வாழும் சூழல் ஏற்பட்டுள்ளமையை இட்டு மகிழ்ச்சியடைகின்றேன். People are confident that there will be no threat to terrorism in Sri Lanka anymore.
-
-...
-
-[Data](articles/bacd7814.json)
-
-[Extended Data](ext_articles/bacd7814.ext.json)
-
----
-
-### Over 280 kgs of narcotics destroyed using high-powered incinerator in Puttalam
-
-*2024-05-19 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-280-kgs-of-narcotics-destroyed-using-high-powered-incinerator-in-Puttalam/108-282889) · `en`
-
-Puttalam, May 19 (Daily Mirror) - Over 280 kgs of narcotics were destroyed using a new high-powered incinerator built at a cost of over Rs. 11 million at Vanathavilluwa in Puttalam yesterday.
-
-Police said that a total of 251 kgs of heroin and 38 kgs of Methamphetamine (ICE) were destroyed in the presence of Minister of Public Security Tiran Alles and IGP Deshabandu Tennakoon.
-
-Previously, the government had to spend a significant amount of money to destroy seized stocks of drugs due to the lack of a permanent facility for this purpose. As a permanent solution, the new high-powered incinerator has been installed on 20 perches of land in the Lactose Garden area of Vanathavilluwa, owned by the STF. The Sri Lanka Navy prepared the site for the installation of the incinerator with the Sri Lanka Police spending Rs. 6.34 million for the preparation.
-
-...
-
-[Data](articles/737845d4.json)
-
-[Extended Data](ext_articles/737845d4.ext.json)
-
----
-
-### E passport method to be soon
-
-*2024-05-19 11:01:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-ක්‍රමය-ලඟදීම-මෙරටටත්/11-409717) · `si`
-
-Sri Lanka will introduce the EPSport system, enhancing its international passport value with high-security features. This move aims to increase the number of passport issuance locations from 101 to 335, making it easier for citizens to obtain passports.
-
-🟩
-
-The EPSport system in the world will be introduced to Sri Lanka for the first time a few months, said the Minister of Defense Minister Tiran Alles.
-
-Tiran Alles said there is an international value for the passport in the country, with high security cyphet.
-
-At present there is one hundred and one hundred in the world in the world, the 51-largest number of places to issue foreign passports will be increased to 335 at the Civil Citizenship at Jayawardenapura Monua Imperial Hotelsaid.
-
-◼️
-
-[Data](articles/339473b1.json)
-
-[Extended Data](ext_articles/339473b1.ext.json)
-
----
-
-### ‘Red’ warning issued for very heavy rainfall above 150mm
-
-*2024-05-19 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99309/red-warning-issued-for-very-heavy-rainfall-above-150mm) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning of heavy rains for Western, Sabaragamuwa, North-western provinces and for Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts today (19).
-
-Due to pre-monsoonal conditions over the country and surrounding sea areas, prevailing showery condition is likely to continue further, the Met. Department said.
-
-Meanwhile, very heavy showers above 150 mm are likely at some places in Western and North-western provinces while heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts, it added.
-
-◼️
-
-[Data](articles/86e46e0c.json)
-
-[Extended Data](ext_articles/86e46e0c.ext.json)
-
----
-
-### Promotion to 1,509 soldiers
-
-*2024-05-19 11:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-509-இராணுவ-வீரர்களுக்கு-பதவி-உயர்வு/175-337506) · `ta`
-
-On the 15th anniversary of Sri Lanka's civil war victory, 1,509 soldiers were promoted, including 114 officers and 1,395 others, advancing within their ranks. This decision was made by Lieutenant General Vikku Liyanage with President Ranil Wickremesinghe's approval.
-
-🟩
-
-The Sri Lankan military has announced that 1,509 soldiers will be promoted to the 15th anniversary of the Nation's victory in the civil war.
-
-The promotions include 114 officers and 1,395 other rankings, and they all advance within their respective positions.
-
-The promotions have been approved by Lieutenant General Lieutenant General Vikku Liyanage with the permission of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/39472ff0.json)
-
-[Extended Data](ext_articles/39472ff0.ext.json)
-
----
-
-### Amill in Pleelly Pleelley Pleasure From Less than 10 Seconds
-
-*2024-05-19 10:55:02* · [`adalk`](https://www.ada.lk/breaking_news/තත්පර-10ට-අඩු-කාලයකින්-කටින්-පොල්ලෙලි-ගසන-පදවියේ-අමිල/11-409716) · `si`
-
-A young man discovered in Padaviya, known for his quick actions, is highlighted by Minister Mahinda Kumara Rajapaksa. This 34-year-old, active during the Anuradhapura Army Regiment's conflict, emphasizes the importance of swift responses, likening them to coconut husking.
-
-🟩
-
-We found a young man in the Padaviya Kindaviya area for less than 10 seconds. Minister of Mahinda Kumara Rajapaksa is a young man who is being carried out in the Kalawas Book from 10 seconds of the dry land of the dry zone of the dry zone of about 21 inches.
-
-He is a 34-year-old youth, a 34 year old man in Padaviya Kavindaviyawewa.
-
-"It was when I was in the war in the Anuradhapura Army Regiment, but it continued to practice it.
-
-I knew as I knew, the coconut husks were not at least 10 seconds, "he said.
-
-◼️
-
-[Data](articles/6dca766c.json)
-
-[Extended Data](ext_articles/6dca766c.ext.json)
-
----
-
-### Navy bears 22 fishermen
-
-*2024-05-19 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196778) · `si`
-
-Navy detained 22 fishermen caught illegally fishing off Sri Lanka's coast near Kilinochchi, Nagarkovil, and Trincomalee. The suspects from Mannar, Kalpitiya, Mamunai, and Nilaveli will be handed over to local fisheries authorities.
-
-🟩
-
-Navy seized 22 persons who were committed to illegal fishing activities.
-
-The suspects said that the suspects were taken into custody by operations in the Kilinochchi, Nagarkovil and Kudaruwevil and Kudaruwala sea areas and the low-Trincomalee seab.
-
-Seven vessels with twenty two persons who were illegally fisheries have been taken into custody by naval.
-
-The suspects are residents of Mannar, Kalpitiya, Mamuni and Nilaveli areas.
-
-The suspects are due to be handed over to the Fisheries and Aquatic Resources Department in Jaffna and the Fisheries Inspector of the Trincomalee Fisheries.
-
-◼️
-
-[Data](articles/208a86ce.json)
-
-[Extended Data](ext_articles/208a86ce.ext.json)
-
----
-
-### US Help to prevent submarines penetrating into Sri Lankan waters - National Security Advisor
-
-*2024-05-19 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183930) · `ta`
-
-The U.S., responding to Sri Lanka's request, will assist in preventing unauthorized submarine entries into its territorial waters. This cooperation includes establishing an internal oceanic examination committee to manage foreign interference. During a meeting between Donald Lu, U.S. Deputy Secretary for South and Central Asian Affairs, and Sri Lanka's National Security Advisor, it was agreed to form a specialized domestic oceanic study group. This initiative aims to enhance Sri Lanka's maritime security without requiring external labs, ensuring data sharing with allies like Japan and Australia. The plan also involves modernizing Sri Lanka's military capabilities.
-
-🟩
-
-The United States has been asked to cooperate to prevent and monitor submarines that penetrate into the Sri Lankan waters without permission. At the same time, it is also decided to establish an internal oceanic examination committee to curb the arrival of international countries that cause turbulence in the region.
-
-Donald Lu, Deputy Secretary of the US State Department for South and Central Asian Affairs, who had paid extra attention during the Sri Lankan visit to Sri Lanka, met with the National Security Advisor.
-
-It has been decided to establish a committee for special domestic oceanism for inspection activities in Sri Lankan waters. The creation of such a research committee does not require other countries' laboratories to come to Sri Lanka. Deputy Secretary Donald Lou agreed to cooperate with the United States during the need for training and other requirements that will occur when creating an ocean research committee.
-
-...
-
-[Data](articles/01a6bf34.json)
-
-[Extended Data](ext_articles/01a6bf34.ext.json)
 
 ---

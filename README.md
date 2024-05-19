@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 22:05:30**
+As of **2024-05-19 22:18:26**
 
 ## Newspaper Stats
 
-*Scraped **25,039** Articles*
+*Scraped **25,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 2,899
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
 dailymirrorlk | 3,927
-adaderanasinhalalk | 4,003
+adaderanasinhalalk | 4,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,039 (100.0%) of 25,039 articles have been extended.
+25,039 (100.0%) of 25,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### ඩයනා පාස්පෝට් එක භාරදෙයි
+
+*2024-05-19 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196798) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමිවූ ඩයනා ගමගේ මහත්මිය සිය ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍රය තමන් වෙත භාරදුන්  බව ආගමන විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතා "අද දෙරණ" ට ප්‍රකාශ කළේය.
+
+රාජ්‍ය අමාත්‍යවරියක් ලෙස කටයුතු කරමින් සිටි ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය 08 වනදා තීන්දු කළේය.
+
+ඒ ඇයගේ ශ්‍රී ලාංකික පුරවැසිභාවය ඔප්පු කිරීමට ඇය අධිකරණය හමුවේ අසමත් වී ඇති බව සඳහන් කරමිනි.
+
+ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 89වන වගන්තිය යටතේ ශ්‍රී ලංකික පුරවැසිභාවය අහිමි අයෙකු මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි ක්‍රියාවක් බවත් ද අදාළ තීන්දුවේ සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/7b278dd0.json)
+
+---
 
 ### Sri Lankan gem dealer chooses TV Star pawnbroker to sell £250Mn gemstone ’Queen of Asia’
 
@@ -2181,29 +2199,5 @@ Accordingly, warning notifications have been issued to Ella Divisional Secretari
 [Data](articles/880a28f8.json)
 
 [Extended Data](ext_articles/880a28f8.ext.json)
-
----
-
-### Many of the silent stories emphasize the need for a durable political solution - US Ambassador Julie Chung
-
-*2024-05-19 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183925) · `ta`
-
-US Ambassador Julie Chung emphasizes the importance of a lasting political solution, highlighting America's support for Sri Lanka's quest for justice, equality, and opportunity.
-
-🟩
-
-நீதி, சம உரிமைகள் மற்றும் சம வாய்ப்புகளை பெற்றுக்கொள்வதில் ஈடுபாட்டுடன் போராடும் இலங்கை மக்களின் உறுதியான பங்காளியாக அமெரிக்கா என்றும் இருக்கும் என்று தெரிவித்துள்ள அமெரிக்க தூதுவர் ஜூலி சங், மௌனிக்கப்பட்ட பல  கதைகள் நீடித்த அரசியல் தீர்வின் அவசியத்தை வலியுறுத்துவதாகவும் குறிப்பிட்டுள்ளார்.
-
-With the end of the three decades of war between the state forces and the Liberation Tigers of Sri Lanka, it has been 15 years since the end of the war.. In such a situation, US Ambassador Julie Sung, who had visited the North, had met with state and civil parties in Jaffna.
-
-Especially during the civil war, the relatives of the missing persons met with the families of former militants and former terrorist law inmates.. The US Ambassador, who said that all families have the right to commemorate the loved ones, stressed the need for a prolonged political solution.
-
-In this case, the US Ambassador commemorates 15 years after the end of Sri Lanka's Civil War, said further stated that the X -page recorded.
-
-...
-
-[Data](articles/5af8579c.json)
-
-[Extended Data](ext_articles/5af8579c.ext.json)
 
 ---

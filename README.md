@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 15:51:53**
+As of **2024-05-19 16:03:29**
 
 ## Newspaper Stats
 
-*Scraped **24,979** Articles*
+*Scraped **24,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
 dailymirrorlk | 3,916
-adaderanasinhalalk | 3,995
+adaderanasinhalalk | 3,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,978 (100.0%) of 24,979 articles have been extended.
+24,979 (100.0%) of 24,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### රථ ගාලේදී ඉරාන තානාපතිට පාට් දැමූ කොළඹ හතේ ව්‍යාපාරිකයා
+### විවාදයට සජබය අනුරට දින දෙයි
+
+*2024-05-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196790) · `si`
+
+සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය අතර යෝජිත විවාද සඳහා දින යෝජනා කරමින් සමගි ජන බලවේගය විසින් ජාතික ජන බලවේගයට ලිපියක් යොමුකර තිබේ.
+
+එම ලිපිය අනුව දෙපාර්ශ්වයේ ආර්ථික කමිටු අතර විවාදය 2024 මැයි මස 27, 28, 29, 30, 31 යන දිනවලින් එකකදීද නායකයින් අතර විවාදය 2024 ජුනි මස 03, 04, 05, 06 හෝ 07 යන දිනවලින් එක් දිනයකදී පැවැත්වීමටත් යෝජනා කර ඇත.
+
+◼️
+
+[Data](articles/0e1eae1b.json)
+
+---
+
+### Colombo 7 businessman at Colombo 7 businessman in parking
 
 *2024-05-19 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196789) · `si`
 
-ඉරාන තානාපති A. Delkhosh මහතාට පහරදී ඔහු මෝටර් රථයේ බොනට්ටුව මතට වැටීමෙන් අනතුරුව මීටර් 15ක් පමණ ඉදිරියට ධාවනය කර අනතුරට ලක්කල කොළඹ හතේ ව්‍යාපාරිකයෙකු ව අත්අඩංගුවට ගත් බව කොම්පඤ්ඤවීදිය පොලීසිය පවසයි.
+In Colombo 7, a businessman and Iranian Ambassador faced an incident where a dispute over parking led to a 15-meter mine being found in his car after it was hit by another vehicle. The suspect, a 30-year-old man, attempted to flee but was caught and arrested by the police.
 
-තානාපතිවරයා කොළඹ 02 මුත්තයියා පාර ප්‍රදේශයේ පිහිටි සාප්පු සංකීර්ණයක රථගාලට සිය රථය ඇතුළු කරන අවස්ථාවේදී තවත් මෝටර් රථයක රියදුරෙක් සමග ආරවුලක් හටගෙන තිබුණි.
+🟩
 
-එහිදී එම පුද්ගලයා තානාපතිවරයාට පහරදී එම ස්ථානයෙන් පළායාමට උත්සාහ දරා ඇතැයි පැවසෙයි.
+Ambassador to Iranian. The Slave Island Police states that a 15-meter mine was taken into custody after he was hit by the car's bonnator.
 
-එහිදි තානාපතිවරයා සිය මෝටර් රථයෙන් බිමට බැස පළා යාමට උත්සාහ දරමින් තිබූ මෝටර් රථයේ බොනට්ටුවට අත තබාගෙන පොලිස් නිලධාරීන් පැමිණෙනතුරු සිටින ලෙස මෝටර් රථයේ රියදුරට දැනුම් දී ඇති අතර එම අවස්ථාවේදී මෝටර් රථයේ රියදුරු විසින් මෝටර් රථය පණ ගන්වා ඉදිරියට ධාවනය කර ඇතැයි පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත.
+The Ambassador had a dispute with another car when he was inserted into a shopping mall in Muttiah Road, Colombo 02.
 
-එම අවස්ථාවේදී තානාපතිවරයා බොනට්ටුව මතට වැටී ඇති අතර සැකකාර ව්‍යාපාරිකයා, තානාපතිවරයාද සමග මෝටර් රථය මීටර් 15ක් පමණ දුරට ධාවනය කර නවතා ඇති අතර එම අවස්ථාවේදී පොලිස් නිලධාරීන් පැමිණ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+It is said that the man had tried to attack the ambassador and fleeing the place.
 
-...
+The ambassador has been informed of the car to hold the car from his car to the bounker of his car and the car driver of the car has been able to surn the car and run ahead.
+
+The Ambassador has fallen on the bont, and the suspect has been driven by 15 meters and has been arrested by police officers and arrested police officers.
+
+The suspect was a 30-year-old man in Ward Place, Colombo 07, police said.
+
+◼️
 
 [Data](articles/8ed52470.json)
+
+[Extended Data](ext_articles/8ed52470.ext.json)
 
 ---
 
@@ -438,7 +460,7 @@ President Ranil Wickremesinghe has met with billionaire and investor Elon Musk o
 
 During the meeting, Wickremesinghe and Musk have discussed the implementation of ‘Starlink’ in Sri Lanka.
 
-The President has committed to fast-tracking the application process to connect Sri Lanka with the global ‘Starlink’ network, the President’s Media Division (PMD) said.
+It was emphasized that Sri Lanka is committed to expediting the application process to connect the country to the global “Starlink” network, the President’s Media Division (PMD) said.
 
 Meanwhile, Minister Jeevan Thondaman, who is accompanying the President on his two-day visit to Indonesia, tweeted saying: “President and Elon discussed Sri Lanka’s recovery, economic potential, and new opportunities for investment.”
 
@@ -2275,21 +2297,5 @@ Gurudev, who is staying in Sri Lanka from May 18 to 20, will also attend the eve
 [Data](articles/536eb7ff.json)
 
 [Extended Data](ext_articles/536eb7ff.ext.json)
-
----
-
-### The Bogusvilleas:A PM’s 1967 visit to the Army Cantonment
-
-*2024-05-18 21:03:00* · [`islandlk`](http://island.lk/the-bogusvilleasa-pms-1967-visit-to-the-army-cantonment/) · `en`
-
-This story goes back to the mid 1960s when then Prime Minister and Minister of Defence and External Affairs, Mr Dudley Senanayake had scheduled a visit to the various Army establishments at the Cantonment at Panagoda, Homagama. This was during his third term of office having been Prime Minister in 1952-1953, 1960 and 1965 to 1970.
-
-The decision to build an army cantonment was taken in 1949 shortly after the first anniversary of Independence when Sir Kanthiah Vaithianathan was the Secretary of the Ministry of Defence and External Affairs.
-
-...
-
-[Data](articles/5c9bd3f4.json)
-
-[Extended Data](ext_articles/5c9bd3f4.ext.json)
 
 ---

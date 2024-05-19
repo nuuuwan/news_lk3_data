@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 07:23:23**
+As of **2024-05-19 07:45:46**
 
 ## Newspaper Stats
 
-*Scraped **24,895** Articles*
+*Scraped **24,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,85 @@ adaderanalk | 2,882
 tamilmirrorlk | 2,913
 virakesarilk | 3,752
 dailymirrorlk | 3,906
-adaderanasinhalalk | 3,978
+adaderanasinhalalk | 3,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,892 (100.0%) of 24,895 articles have been extended.
+24,895 (100.0%) of 24,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### දිස්ත්‍රික්ක 07කට නායයෑම් අනතුරු ඇඟවීමක්
+### යුද හමුදාවේ 1,509කට උසස්වීම්
+
+*2024-05-19 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196771) · `si`
+
+15 වන විජයග්‍රාහී සැමරුමට සමගාමීව ශ්‍රී ලංකා යුද හමුදාවේ නිලධාරීන් පිරිසකට උසස්වීම් ලබාදී තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා යුද හමුදාවේ නිත්‍ය හා ස්වෙච්ඡා බලසේනාවේ නිලධාරීන් 114ක් සහ සෙසුනිලයන් 1,395ක් ඔවුන්ගේ මීළඟ නිලය දක්වා උසස්වීම් ලබාදී ඇත.
+
+රණවිරු අනුස්මරණ දිනය යේදී තිබෙන අද (19) සිට බලපැවැත්වෙන පරිදි සියලුම රෙජිමේන්තුවල සාමාජිකයන්ට මෙම උසස්වීම ලබාදීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/a5b9252e.json)
+
+---
+
+### Landslide warning to seven districts
 
 *2024-05-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196770) · `si`
 
-දිස්ත්‍රික්ක 07ක් සඳහා බලපැවැත්වෙන පරිදි නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+Landslide warnings issued for seven districts: NBRO alerts Badulla, Kandy, Kegalle, Ratnapura, Colombo, Gampaha.
 
-එම සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පැවසුවේ අද (19) අලුයම 03 සිට හෙට (20) අලුයම 03 දක්වා බලපැවැත්වෙන පරිදි එම අනතුරු ඇඟවීම් නිකුත් කර ඇති බවයි.
+🟩
 
-ඒ අනුව අදියර 02 යටතේ වන අනතුරු ඇගවීමේ නිවේදන බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත නිකුත් කර තිබේ.
+The National Building Research Organization (NBRO) says that landslide warnings have been issued for seven districts.
 
-බදුල්ල දිස්ත්‍රික්කයේ තවත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 04ක් සඳහා මෙන්ම මහනුවර, කෑගල්ල, රත්නපුර, කළුතර, කොළඹ සහ ගම්පහ යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 33ක් සඳහා අදියර 1 යටතේ වන එම නායයෑම් අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කළ බව  ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පැවසීය.
+Senior Geologist Wasantha Senadheera said that the warnings have been issued today (19) at 3 am tomorrow.
+
+Accordingly, the warning announcements in phase 02 has been released to the Ella Divisional Secretariat Division of Badulla District.
+
+Senior Geologist Wasantha Senadheera said that four other Divisional Secretariat Divisions in Badulla District and the 33 Divisional Secretariat Divisions in Kandy, Kegalle, Ratnapura, Colombo, Colombo and Gampaha Districts.
 
 ◼️
 
 [Data](articles/eb14b06e.json)
 
+[Extended Data](ext_articles/eb14b06e.ext.json)
+
 ---
 
-### වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක්
+### An increase in rain and windy quality
 
 *2024-05-19 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196769) · `si`
 
-ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් ඉදිරි දින කිහිපයේදී තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect increased rainfall and strong winds over the next few days due to pre-monsoon conditions. Showers/thunderstorms forecasted across various provinces including Western, Sabaragamuwa, Central, North Western, and Southern regions. High risk of lightning strikes and gusty winds advised; take precautions.
 
-එම දෙපාර්තමේන්තුය සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුළින් බරව පවතිනු ඇති බවය.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වලත් මන්නාරම දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Department of Meteorology states that the next few days will continue to increase due to pre-monsoonal weather conditions in the sea areas.
 
-දිවයිනේ සෙසු ප්‍රදේශවල අද (19) ප.ව. 01.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that the sky is burned with many parts of the island.
 
-බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩිතද වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-දකුණු පළාතේ විටින්විට පැ.කි.මී. (30-40)ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today (19) at rest of the island. Showers or thunderstorms will occur at several places about 01.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In some places in the Western, Sabaragamuwa, North-Western provinces, in general area Matara, Matara, Kandy, Nuwara Eliya and Mannar districts.. Rains will also occur at 100.
+
+Steps at times in the Southern Province. The Department of Meteorology says that there are about courageous winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/aab9e2c6.json)
+
+[Extended Data](ext_articles/aab9e2c6.ext.json)
 
 ---
 
@@ -2319,31 +2347,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/7ee272dc.json)
 
 [Extended Data](ext_articles/7ee272dc.ext.json)
-
----
-
-### President leaves for Indonesia
-
-*2024-05-18 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196741) · `si`
-
-President Ranil Wickremesinghe traveled to Indonesia for the 10th World Water Conference in Bali, invited by Indonesian President Jooco Vishodo. The conference focuses on "Water for Collective Prosperity," with Wickremesinghe set to address it on May 20. He'll also engage in bilateral talks during his visit.
-
-🟩
-
-President Ranil Wickremesinghe left the island today (18) to attend the top 10th World Water Conference in Bali, Indonesia.
-
-The President will join the visit on the invitation of Indonesian President Jooco Vishodo, the Presidential Media Unit.
-
-The top session of the 10th World Water Conference will be held today under the theme "Water for Collective Prosperity" in Bali from May 20 to May 20.
-
-President Ranil Wickremesinghe is due to call on the summit on May 20.
-
-In the meantime, President Ranil Wickremesinghe is scheduled to hold bilateral talks with several top representatives including the Indonesian president on their official visit.
-
-◼️
-
-[Data](articles/5dca69c6.json)
-
-[Extended Data](ext_articles/5dca69c6.ext.json)
 
 ---

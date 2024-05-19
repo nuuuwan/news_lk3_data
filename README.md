@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 15:33:46**
+As of **2024-05-19 15:51:53**
 
 ## Newspaper Stats
 
-*Scraped **24,978** Articles*
+*Scraped **24,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
 dailymirrorlk | 3,916
-adaderanasinhalalk | 3,994
+adaderanasinhalalk | 3,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,975 (100.0%) of 24,978 articles have been extended.
+24,978 (100.0%) of 24,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### ශ්‍රි ලාංකික ධීවරයින් පිරිසක් ඉන්දීය අත්අඩංගුවට
+### රථ ගාලේදී ඉරාන තානාපතිට පාට් දැමූ කොළඹ හතේ ව්‍යාපාරිකයා
+
+*2024-05-19 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196789) · `si`
+
+ඉරාන තානාපති A. Delkhosh මහතාට පහරදී ඔහු මෝටර් රථයේ බොනට්ටුව මතට වැටීමෙන් අනතුරුව මීටර් 15ක් පමණ ඉදිරියට ධාවනය කර අනතුරට ලක්කල කොළඹ හතේ ව්‍යාපාරිකයෙකු ව අත්අඩංගුවට ගත් බව කොම්පඤ්ඤවීදිය පොලීසිය පවසයි.
+
+තානාපතිවරයා කොළඹ 02 මුත්තයියා පාර ප්‍රදේශයේ පිහිටි සාප්පු සංකීර්ණයක රථගාලට සිය රථය ඇතුළු කරන අවස්ථාවේදී තවත් මෝටර් රථයක රියදුරෙක් සමග ආරවුලක් හටගෙන තිබුණි.
+
+එහිදී එම පුද්ගලයා තානාපතිවරයාට පහරදී එම ස්ථානයෙන් පළායාමට උත්සාහ දරා ඇතැයි පැවසෙයි.
+
+එහිදි තානාපතිවරයා සිය මෝටර් රථයෙන් බිමට බැස පළා යාමට උත්සාහ දරමින් තිබූ මෝටර් රථයේ බොනට්ටුවට අත තබාගෙන පොලිස් නිලධාරීන් පැමිණෙනතුරු සිටින ලෙස මෝටර් රථයේ රියදුරට දැනුම් දී ඇති අතර එම අවස්ථාවේදී මෝටර් රථයේ රියදුරු විසින් මෝටර් රථය පණ ගන්වා ඉදිරියට ධාවනය කර ඇතැයි පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත.
+
+එම අවස්ථාවේදී තානාපතිවරයා බොනට්ටුව මතට වැටී ඇති අතර සැකකාර ව්‍යාපාරිකයා, තානාපතිවරයාද සමග මෝටර් රථය මීටර් 15ක් පමණ දුරට ධාවනය කර නවතා ඇති අතර එම අවස්ථාවේදී පොලිස් නිලධාරීන් පැමිණ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/8ed52470.json)
+
+---
+
+### Sri Lankan fishermen arrested
 
 *2024-05-19 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196788) · `si`
 
-මුහුදු සීමා උල්ළංඝනය කරමින් ධීවර කටයුතුවල නිරත වූ ශ්‍රි ලාංකික ධීවරයින් 7 දෙනෙකු ඉන්දීය වෙරළාරක්ෂක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Seven Sri Lankan fishermen were arrested by the Indian Coast Guard near Kirnampari, India, along with five boats.
 
-ඉන්දියාවේ කන්‍යකුමාරී ප්‍රදේශය ආශ්‍රිත එරට මුහුදේ දී අදාළ ධීවරයින් පිරිස අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එම ධීවරයින් පැමිණි යාත්‍රාව ද ඉන්දීය වෙරළාරක්ෂක බළකාය විසින් ඔවුන්ගේ භාරයට ගෙන තිබුණි.
+Seven Sri Lankan fishermen have been arrested by the Indian Coast Guard (Indian Coast Guard).
 
-පසුගිය 16 වනදා ද ඉන්දීය මුහුදු සීමාවේ ධීවර කටයුතුවල නිරත වූ ශ්‍රි ලාංකික ධීවරයින් 14 දෙනෙකු සහ යාත්‍රා 5ක් ඉන්දීය නාවික හමුදාව විසින් අත්අඩංගුවට ගැනුණි.
+The fishermen have been arrested in connection with the Kirnampari area in India.
+
+The fishermen who came from the fishermen were also taken into custody by the Indian Coast Guard.
+
+The Indian Navy has arrested 14 Sri Lankan fishermen and five boats who were fishing in the Indian waters last night.
 
 ◼️
 
 [Data](articles/da05d298.json)
+
+[Extended Data](ext_articles/da05d298.ext.json)
 
 ---
 
@@ -167,6 +193,8 @@ The picture shows employees of a self-owned business in Demetagoda stitching Bud
 ◼️
 
 [Data](articles/cc67fb84.json)
+
+[Extended Data](ext_articles/cc67fb84.ext.json)
 
 ---
 
@@ -2044,6 +2072,8 @@ Even the implementation of the 13th Amendment (13A), which has been a part of th
 
 [Data](articles/f06d199c.json)
 
+[Extended Data](ext_articles/f06d199c.ext.json)
+
 ---
 
 ### Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.
@@ -2261,27 +2291,5 @@ The decision to build an army cantonment was taken in 1949 shortly after the fir
 [Data](articles/5c9bd3f4.json)
 
 [Extended Data](ext_articles/5c9bd3f4.ext.json)
-
----
-
-### UN rights office urges Sri Lanka to reveal fate of the disappeared
-
-*2024-05-18 20:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-rights-office-urges-Sri-Lanka-to-reveal-fate-of-the-disappeared/108-282884) · `en`
-
-The UN human rights office, OHCHR, on Friday urged the Sri Lankan Government to take decisive action to uncover the fates and locations of tens of thousands of individuals subjected to enforced disappearances over the years and to hold those responsible accountable.
-
-The call accompanies the launch of a key report Opens in new window by OHCHR
-
-Opens in new window, highlighting also the need for the Government to acknowledge the involvement of State security forces and to issue a public apology.
-
-From the 1970s to 2009, Sri Lanka witnessed widespread enforced disappearances, predominantly carried out by the national army and associated paramilitary groups.
-
-The Liberation Tigers of Tamil Eelam (LTTE) also participated in abductions, which, according to the UN Working Group on Enforced or Involuntary Disappearances, tantamount to enforced disappearances.
-
-...
-
-[Data](articles/f54ee1f0.json)
-
-[Extended Data](ext_articles/f54ee1f0.ext.json)
 
 ---

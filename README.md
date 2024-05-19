@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 23:33:44**
+As of **2024-05-19 23:52:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,041 (100.0%) of 25,043 articles have been extended.
+25,043 (100.0%) of 25,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### ඉරානය කලබල වෙයි - ජනපති ව සොයා විශේෂ මෙහෙයුමක්
+### Iran becomes worried - President's special operation
 
 *2024-05-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196799) · `si`
 
-ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි, එරට විදේශ අමාත්‍යවරයා ඇතුළු ඉහළ පෙළේ නිලධාරීන් පිරිසක් ගමන්කරමින් සිටියදී අනතුරට ලක්වූ හෙලිකොප්ටර් යානය සොයා එරට ආරක්ෂක අංශ මෙහෙයුමක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+Iran faces concern as a helicopter crash involving the president and top officials occurs during a special operation. The incident happened due to heavy fog, complicating rescue efforts by 40 teams including military units. Iranians are praying for their leader amidst ongoing search and recovery operations.
 
-අධික මීදුම සහිත අයහපත් කාලගුණය හේතුවෙන් කඳුකර ප්‍රදේශයකට එම යානය හදිසියේ ගොඩබා තිබුණි.
+🟩
 
-කෙසේවෙතත්, ජනාධිපතිවරයා ඇතුළු පිරිස සිටින ස්ථානයට මෙතෙක් කිසිවෙකුට ළඟාවීමට නොහැකිවී ඇති අතර ඔවුන්ව බේරා ගැනීමේ මෙහෙයුම් සඳහා ඉරාන සන්නද්ධ හමුදා, කමාන්ඩෝ ඒකක ඇතුළු කණ්ඩායම් 40ක් මේ වනවිට ක්‍රියාන්විතයට එක්ව සිටියි.
+It is reported that the helicopter has launched a helicopter, who was involved in the accident while Ibrahm Relication was traveled by the foreign minister and other top officials.
 
-ඉරාන ජනාධිපති රයිසි ඇතුළු එරට ඉහළ නිලධාරීන් පිරිසක් ඉරාන - අසර්බයිජාන දේශසීමාවේ වේල්ලක් විවෘත කිරීමට අද (19) එක්ව තිබුණි.
+The plane was suddenly piled to a mountainous area due to heavy fog.
 
-එම උත්සවයෙන් පසු ඉරාන ජනාධිපතිවරයා ඇතුළු පිරිස රැගත් හෙලිකොප්ටර් යානය යළි පැමිණෙමින් තිබියදී ඔවුන් එම අනතුරට මුහුණ දී තිබේ.
+However, no one has been able to reach the place where the President and the others, and 40 groups including Iranian armed forces, units and other groups are operating in rescue operations.
 
-මේ වනවිට ඉරාන ජනතාව සිය ජනාධිපතිවරයා වෙනුවෙන් යාඥා කිරීමද ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+A group of Iranian Presidential Reli had been opened today (19) to open a dam on Iranian-Azerbai border.
+
+After the ceremony, the helicopter carrying the helicopter and the helicopter carrying the helicopters and others had come to the accident.
+
+The people of Iran have also begun to pray for their President.
 
 ◼️
 
 [Data](articles/8cf92c69.json)
+
+[Extended Data](ext_articles/8cf92c69.ext.json)
 
 ---
 
@@ -83,6 +89,8 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 ...
 
 [Data](articles/baff3336.json)
+
+[Extended Data](ext_articles/baff3336.ext.json)
 
 ---
 

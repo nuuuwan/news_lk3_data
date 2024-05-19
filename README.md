@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 17:54:08**
+As of **2024-05-19 18:10:36**
 
 ## Newspaper Stats
 
-*Scraped **24,988** Articles*
+*Scraped **24,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,353
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,137
-adaderanalk | 2,891
+adaderanalk | 2,894
 tamilmirrorlk | 2,931
 virakesarilk | 3,764
 dailymirrorlk | 3,918
@@ -26,11 +26,53 @@ adaderanasinhalalk | 3,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,988 (100.0%) of 24,988 articles have been extended.
+24,988 (100.0%) of 24,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### Landslide early warnings issued for 8 districts including Colombo
+
+*2024-05-19 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99317/landslide-early-warnings-issued-for-8-districts-including-colombo) · `en`
+
+The National Building and Research Organisation (NBRO), on Sunday (May 19) issued  Level 01 and  Level 02 early landslide warnings for several localities in eight districts, effective until 04.00 p.m. tomorrow (May 20).
+
+Accordingly, a Level 02 (Amber) alert was issued for the following areas:
+
+Badulla - Ella Divisional Secretariat Division (DSD) and surrounding areas
+
+Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
+
+Badulla – Hali Ela, Badulla, Haputale and Haldummulla DSDs and surrounding areas
+
+Kandy – Kandy Four Gravets or Gangawata Korale, Ganga Ihala Korale, Pasbage Korale, Udapalatha, Ududumbara, Udunuwara and Yatinuwara DSDs and surrounding areas
+
+Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Yatiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
+
+Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
+
+...
+
+[Data](articles/efd33689.json)
+
+---
+
+### SJB sets dates for debate with NPP on Sri Lanka’s economy
+
+*2024-05-19 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99316/sjb-sets-dates-for-debate-with-npp-on-sri-lankas-economy-) · `en`
+
+The Samagi Jana Balawegaya (SJB) has suggested dates for holding the proposed debate on economic policies with the National Peoples’ Power (NPP).
+
+Accordingly, the SJB has informed the NPP in writing that the debate between the economic committees of both parties can be held on one of the dates between May 27 to 31 and the debate between the two leaders of both parties on June 03, 04, 05, 06 or 07.
+
+The letter has also requested for an immediate response from the NPP in this regard.
+
+◼️
+
+[Data](articles/1b682a2c.json)
+
+---
 
 ### The unseen impact of learning disorders in Sri Lanka
 
@@ -69,6 +111,24 @@ Police said that the deceased woman is investigating the incident and whether th
 [Data](articles/b8f174a4.json)
 
 [Extended Data](ext_articles/b8f174a4.ext.json)
+
+---
+
+### Businessman arrested for assaulting Iranian Ambassador in Colombo
+
+*2024-05-19 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99315/businessman-arrested-for-assaulting-iranian-ambassador-in-colombo) · `en`
+
+Police have arrested a 33-year-old youth who had allegedly assaulted the Ambassador of Islamic Republic of Iran in Sri Lanka, Dr. Alireza Delkhosh, during an incident near a shopping mall on Muttiah Road in Colombo 02.
+
+The arrested suspect has been remanded in custody until tomorrow (May 20), after being produced before the Aluthkade No. 02 Magistrate’s Court in Colombo.
+
+The incident had reportedly occurred on Saturday while the Iranian Ambassador was entering the car park of a shopping mall in his vehicle. An argument had ensued between the Ambassador and the suspect in question, during which the latter had assaulted the diplomat and attempted to flee in his vehicle, police said.
+
+At the time, the Iranian Ambassador had exited his car and placed his hand on the bonnet of the suspect’s vehicle, while asking him to wait for the police. However, the suspect had then started his car and driven forward, causing an accident involving the Ambassador.
+
+...
+
+[Data](articles/2f7e1d30.json)
 
 ---
 
@@ -2235,59 +2295,5 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 [Data](articles/0e5d4417.json)
 
 [Extended Data](ext_articles/0e5d4417.ext.json)
-
----
-
-### Is s it too much to allow the North and the East to remember lives of their loved ones felled in the conflict as much as the Sinhala-South remembers their fallen soldiers?
-
-*2024-05-19 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84064) · `en`
-
-If the Sri Lankan State tried with all its might and main to look ridiculous in the eyes of the world, it could not do better than the preposterous performance of law enforcement agencies in the North and East during the formal remembrance of those who died during the ending of Sri Lanka’s decades-old ethnic conflict on May 18th each year.
-
-Fifteen years after that inexpressibly sad phrase of the country’s turbulent history with images of emaciated men, women and children of the Wanni emerging out of the blood soaked sands of Mullivaikkal with haunted eyes, we have state agents performing miserable antics that only play into global anti-Sri Lanka propaganda machines with gusto. This is the result of police panjandrums acting to the directive of an Inspector General of Police whose record stands in abrupt contrast even when compared to his less than perfect immediate predecessors and his patron, the Minister of Public Security whose own record is no better.
-
-...
-
-[Data](articles/2646cc4e.json)
-
-[Extended Data](ext_articles/2646cc4e.ext.json)
-
----
-
-### If  the  Current situation continues, there is a danger that Sri Lankan Tamils will become a group of people that the world does not pay attention to and Tamil politicians will become a group of people who make impractical political slogans and only crow within the confines of the peninsula.
-
-*2024-05-19 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84066) · `en`
-
-Fifteen years have passed since the end of Sri Lanka’s brutal civil war, which lasted for about 30 years. None of the main political problems have been resolved. The country is not progressing economically either. Instead, we saw that all the problems worsened and the country reached a state of chaos and bankruptcy.
-
-A large part of the southern Sinhalese polity does not seem to think that there is a pressing need to find a negotiated political solution to the national ethnic problem that has torn the country apart. In these 15 years, the country has not moved an inch towards finding a political compromise that would fulfil the legitimate political aspirations of the minority communities.
-
-Even the implementation of the 13th Amendment (13A), which has been a part of the Constitution for more than three decades, has finally become impossible. In no other country in the world do we see political forces taking to the streets to protest against the implementation of a constitutional provision.
-
-...
-
-[Data](articles/f06d199c.json)
-
-[Extended Data](ext_articles/f06d199c.ext.json)
-
----
-
-### Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.
-
-*2024-05-19 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84062) · `en`
-
-It’s high time Diana Gamage took a hard look at herself in the mirror!
-
-When the Supreme Court ruled in favour of petitioner Oshala Herath, that Diana Gamage is not a citizen of Sri Lanka, she told a media conference that she does not accept the ruling. She also went on to say that the ruling wronged all Sri Lankan women.
-
-Her foray into parliament was through the Samagi Jana Balawegaya as one of their national list candidates. But she lost no time in switching loyalities, when she broke ranks to vote in favour of then President Gotabaya Rajapaksa’s 20th amendment to the Constitution.
-
-Since then she has been at logger heads with the SJB, never losing an opportunity to browbeat their members during parliamentary debates. Despite switching party loyalties, Gotabaya did not return the favour, but current president Ranil Wikcremasinghe did, when he appointed her State Minister for Tourism.
-
-...
-
-[Data](articles/60938b14.json)
-
-[Extended Data](ext_articles/60938b14.ext.json)
 
 ---

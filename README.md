@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 14:52:20**
+As of **2024-05-19 15:03:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,966 (100.0%) of 24,971 articles have been extended.
+24,971 (100.0%) of 24,971 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,47 +50,67 @@ While proponents claim the act will drive significant economic transformation, t
 
 [Data](articles/50f98716.json)
 
+[Extended Data](ext_articles/50f98716.ext.json)
+
 ---
 
-### පොලීසියට ලැබුණු ඔත්තුවෙන් කොටුකර ගත් හරක් හොරු
+### Cost of coronary coloved by the police
 
 *2024-05-19 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196786) · `si`
 
-මාස ගණනාවක සිට සංවිධානාත්මකව ගව සොරකමේ නිරත වූ හිටපු යුද හමුදා සෙබළෙකු ඇතුළු හත්දෙනෙක් මත්ද්‍රව්‍ය සහ තියුණු ආයුධ සමඟින් අත්අඩංගුවට ගැනීමට පිළියන්දල පොලිස් අපරාධ විමර්ශන අංශය සමත් වී තිබේ.
+Police arrested seven ex-Army soldiers linked to drug trafficking and theft of 50 cows over five months. A special operation led to the seizure of weapons and drugs, including grenades and fake license plates. The suspects, active in various locations, had sold the stolen cows to slaughterhouses.
 
-එම කණ්ඩායම මෙම වසරේ ගතවූ මාස 05ක කාලය තුළ දිවයිනේ ප්‍රදේශ කිහිපයකින් ගවයින් 50 දෙනෙකු පමණ සොරාගෙන ඇති බවට තොරතුරු අනාවරණ වී ඇත.
+🟩
 
-ගව සොරකමේ නිරත වෑන් රථයක් පිළියන්දල ප්‍රදේශයේ සැරිසරන බවට පොලිස් කොස්තාපල්වරයෙකුට ලද තොරතුරක් මත පිළියන්දල පොලීසියේ අපරාධ විමර්ශන අංශය විශේෂ මෙහෙයුමක් ක්‍රියාත්මක කර තිබුණි.
+Seven former Army soldier who was organized in the homeowed for months and seven were arrested with drugs and sharp weapons.
 
-ඒ අනුව පොලිස් නිලධාරින් මොරටුව මාර්ගයේ දෙණිය ප්‍රදේශයේදී යතුරුපැදි යොදා මාර්ගය හරස්කර සැක කටයුතු වෑන් රථයක් නැවැත්වීමට කටයුතු කර තිබුණි.
+It has been revealed that about 50 cows stolen from several parts of the island during the past five months.
 
-එහිදි එම සැකකටයුතු වෑන් රථයේ තිබී ජීව අත්බෝම්බ 02ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 15ක ප්‍රමාණයක්, ගව ඝාතනයට යොදාගන්නා කඩු දෙකක්, මන්නා පිහියක්, මුගුරක් සහ ලණු සොයාගත් බව පොලීසිය පවසයි.
+The Piliyandala Police Criminal Investigation Division (CID) has launched a special operation on information received by a police constable that a van held in the Piliyala area.
 
-ඒ අනුව අදාළ වාහනයේ සීටි සැකකරුවන් 05 දෙනා පොලිසිය සිය අත්අඩංගුවට ගෙන තිබේ.
+Accordingly, police officers have taken a suspicious van using motorbikes in Moratuwa.
+
+Two livelihoods, 15 murder used in the suspicious van, two swords, two swords in the cattle, and a manna knife and ropes have been recovered.
+
+Accordingly, the five Summit suspects have been arrested by the police.
+
+Later they were interrogated by the interrogation, the Head of the Army was identified as a retired soldier in the Army Special Corps.
+
+The suspect was deployed in Kesbewa, Piliyandala, Kawathuduwa, Boralesgamuwa, Bandaragama and Hirala during this year.
 
 ...
 
 [Data](articles/df6640e5.json)
 
+[Extended Data](ext_articles/df6640e5.ext.json)
+
 ---
 
-### ලංගම රියදුරා ගේ සිරුර කැලෑවක තිබී හමුවෙයි
+### SLTB driver's body found in a jungle
 
 *2024-05-19 13:43:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-රියදුරා-ගේ-සිරුර-කැලෑවක-තිබී-හමුවෙයි/11-409720) · `si`
 
-නිකවැරටිය  කන්දේගෙදර  ,රක්ෂිතය ආසන්නයේ පිහිටි කැලෑ සහිත  ඉඩමක  තිබී  පිරිමි පුද්ගලයෙකු  ගේ මළ සිරුරක්  හමුවූ බව නිකවැරටිය  මූලස්ථාන පොලීසිය පවසයි .
+A SLTB driver, W.Mankar (45) from Hulugalle, Nikaweratiya, was found dead in a jungle near Thamyam Nikaweratiya Kudandandara reserve. His death remains unexplained, leaving his children orphaned. Investigations are ongoing under the supervision of Superintendent of Police Jayantha Jayawardena.
 
-මෙසේ මිය ගොස් සිටියේ නිකවැරටිය  , හුලුගල්ල  ලිපිනයේ  පදිංචි  ඩබ් .එම්.රුවන් චතුරික (45 ) නැමති ශ්‍රී ලංගම රියදුරෙකු වන දෙදරු පියෙකු බවට  හඳුනා ගෙන ඇති බවද පොලීසිය සඳහන් කරයි .
+🟩
 
-මරණ කරුගේ බිරිඳ  විදෙස් ගතව   ,දරුවන්ද පිට පලාතක අධ්‍යාපනය ලබමින් සිටින අතර ,මොහු  තනිව ජීවත්ව  ඇති බවද ,  වැඩිදුර පරීක්ෂණ වලදී අනාවරණය වී ඇති බවද පොලීසිය සඳහන් කරයි .
+Headquarters police said that a body of a man was found in a land near the Thamyam Nikaweratiya Kudandandara, the reserve.
 
-නිකවැරටිය කොට්ඨාශ හදිසි මරණ පරීක්ෂක රංජිත් ධර්මසිරි මහතා  සිද්ධිය වූ ස්ථානයට ගොස්  ස්ථාන පරීක්ෂාවක් සිදු කර ,හදිසි මරණ පරීක්ෂණය සඳහා සිරුර නිකවැරටිය මූලික රෝහල  වෙත. රැගෙන යන ලෙස  පොලීසියට නියෝග  කලේය.
+The deceased has been identified as W.Mankar (45), a resident of Hulugalle, Nikaweratiya, the SLTB driver.
 
-ඒ අනුව සිරුර පිළිබඳව හදිසි මරණ පරීක්ෂණය නිකවැරටිය මූලික රෝහලේදී   ,හදිසි මරණ පරීක්ෂක රංජිත් ධර්මසිරි මහතා ඉදිරියේ  අද(19දා) සිදු කිරීමට නියමිතව  ඇති අතර  නිකවැරටිය මූලස්ථාන පොලීසියේ පො.සැ.අසංක නිලධාරීයා  විසින්   සාක්ෂි මෙහෙය වීමට  නියමිතව තිබුණි .
+The delade of death is abroad and children are living alone and have been revealed in further investigations.
 
-...
+Nikaweratiya Divisional Death Inspector Ranjith Dharmasiri went to the scene to go to the scene and conducted a location in the event. The police ordered the police to carry.
+
+Emergency Death Task Ranjith Dharmith Dharmith Dharmith Dharmal Dharmasiri was due to be conducted before the Nikaweratiya Base Hospital.
+
+Office Inspector Thilak Subasinghe is conducting further investigations by the supervision of Superintendent of Police Jayantha Jayawardena on the instructions of SSP Jayantha Jayawardena.
+
+◼️
 
 [Data](articles/a1493e1d.json)
+
+[Extended Data](ext_articles/a1493e1d.ext.json)
 
 ---
 
@@ -784,23 +804,31 @@ In the Russia -Ukraine conflict, it has been reported that not only former soldi
 
 ---
 
-### ගොතටුව නව තෙත් බිම් උද්‍යානයේ සංවර්ධන කටයුතු ඇරඹේ
+### Gothatuwa commences development activities at New Wetland Park
 
 *2024-05-19 10:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ගොතටුව-නව-තෙත්-බිම්-උද්‍යානයේ-සංවර්ධන-කටයුතු-ඇරඹේ/11-409715) · `si`
 
-තෙත් බිම් පිළිබඳව අධ්‍යනය ලබා දීම සඳහා විශේෂ අධ්‍යයන මධ්‍යස්ථානයක්....
+Gothatuwa, Sri Lanka, is developing its New Wetland Park, part of a broader initiative to enhance urban wetlands like Diyasana and Beddagana. Aimed at preserving environmental balance and public mental health, the project involves creating a walkway around the 35-hectare area and establishing a study center for wetland education. With an estimated cost of Rs. 180 million, it's expected to complete by the end of the year.
 
-තෙත් බිම් සහ පහත් බිම් සංවර්ධනය කිරීම සඳහා තවත් ව්‍යාපෘති රැසක්....
+🟩
 
-ගොතටුව නව තෙත් බිම් උද්‍යානයේ සංවර්ධන කටයුතු ඇරඹේ. කොළඹ දිස්ත්‍රික්කය තුළ හදුනාගත් තෙත් බිම් සංවර්ධනය කිරීම වැඩසටහන යටතේ ගොතටුව තෙත් බිමද සංවර්ධනය කිරීමට ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ අවධානය යොමුව ඇත.
+Special study center for study of wetlands ...
 
-මේ වන විට දියසරු, බැද්දගාන, කෝට්ටේ කොටු බැම්ම යන නාගරික තෙත් බිම් සංවර්ධනය කර මහජනයා වෙත විවෘතව පවතී.
+More projects to develop wet ground and lowland ....
 
-පරිසර සමතුලිතතාවය පවත්වාගෙන යෑම, කාර්යබහුල නගරයක් තුළ මහජනතාවගේ මානසික සුවතාවය පවත්වාගෙන යාම, ගංවතුර අවස්ථාවන් වලදී ජලය රදවා තබාගැනීම ආදී වටිනාකම් හදුනාගනිමින් තෙත් බිම් අනවසරයෙන් අල්ලා ගැනීම වළක්වාලමින්  ගොතටුව තෙත් බිම් උද්‍යානය ඉදිකරයි.
+Gothatuwa commences development activities at New Wetland Park. The Sri Lanka Land Development Corporation has focused on the development of Gothatuwa wetland under the program identified in the Colombo district.
+
+It is now open to the public by developing urban wetlands, Diyasana, Beddagana.
+
+Maintain environmental balance, maintaining the mental health of the public in a busy city and maintaining the mental health of the people in a busy city, constructing the wet ground garden.
+
+Sri Lanka Land Development Corporation with the purposes of 'Low Land Development Project' under the Greater Colombo Flood Control Project and the purposes of the 'Greater Colombo Flood Control Protection of Water DetailsThis project is underway. The estimated cost of the project is Rs. 180 million. By the end of this year, the development work is to be completed.
 
 ...
 
 [Data](articles/4813a0e9.json)
+
+[Extended Data](ext_articles/4813a0e9.ext.json)
 
 ---
 
@@ -1917,6 +1945,8 @@ Since then she has been at logger heads with the SJB, never losing an opportunit
 ...
 
 [Data](articles/60938b14.json)
+
+[Extended Data](ext_articles/60938b14.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 13:18:31**
+As of **2024-05-19 13:33:38**
 
 ## Newspaper Stats
 
-*Scraped **24,958** Articles*
+*Scraped **24,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
-adalk | 2,130
+adalk | 2,131
 adaderanalk | 2,890
-tamilmirrorlk | 2,928
+tamilmirrorlk | 2,930
 virakesarilk | 3,762
 dailymirrorlk | 3,914
 adaderanasinhalalk | 3,989
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,957 (100.0%) of 24,958 articles have been extended.
+24,958 (100.0%) of 24,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### இ.தொ.காவின் கோரிக்கைக்கு உதவுவேன்: ரவிசங்கர் குருஜி
+
+*2024-05-19 12:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-கோரிக்கைக்கு-உதவுவேன்-ரவிசங்கர்-குருஜி/76-337515) · `ta`
+
+இந்த சந்திப்பில் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினரும் காங்கிரஸின் தவிசாளருமான மருதபாண்டி ராமேஷ்வரன், பி.இராஜதுறை,பாரத் அருள்சாமி உள்ளிட்ட இ.தொ.கா உயர்பீட உறுப்பினர்கள் உள்ளிட்ட பலர் கலந்து கொண்டிருந்தனர்.
+
+குறித்த சந்திப்பில் விசேடமாக கலந்து கொண்டவர்கள், ஸ்ரீ ஸ்ரீ ரவிசங்கர் குருஜியிடம் இலங்கையில் மலையக மக்களின் நலத்திட்டத்திற்காக பல கோரிக்கைகளை முன் வைத்தனர்.
+
+இவ்வாறு முன்வைக்கப்பட்ட கோரிக்கைகளை ஏற்றுக்கொண்ட குருஜி வாழும் கலை அறக்கட்டளை அமைப்பின் செயற்பாட்டை மலையகத்திலும் பலப்படுத்த ஒத்துழைப்பு வழங்குவதாகவும்,பயிற்சி நிலையங்களை ஆரம்பிக்க இடங்கள் உள்ளிட்ட வசதிகளை எதிர் பார்ப்பதாகவும் இதற்கான உதவிகளை தனது அறக்கட்டளை நிறுவகம் ஊடாக வழங்குவதாகவும் தெரிவித்தார்.
+
+அத்துடன் ஆன்மீக கற்கை நெறி பாடசாலைகள் ஆரம்பித்தல், வாழும் கலை பயிற்சிகள், பெண்களுக்கான சுய தொழில் ஊக்குவிப்புகள்,உள்ளிட்ட பல்வேறு உதவிகளை தனது அறக்கட்டளை ஊடாக செய்து தருவதாகவும் குருஜி இதன் போது தெரிவித்தார்.
+
+◼️
+
+[Data](articles/afcda0ff.json)
+
+---
+
+### எலோன் மஸ்க்கைச் சந்தித்தார் ஜனாதிபதி
+
+*2024-05-19 12:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலோன்-மஸ்க்கைச்-சந்தித்தார்-ஜனாதிபதி/175-337514) · `ta`
+
+இந்தோனேசியாவில் நடைபெற்ற 10வது உலக நீர் மன்ற உயர்மட்டக் கூட்டத்தின் போது, ​​ஜனாதிபதி ரணில் விக்கிரமசிங்க, தொழிலதிபர் எலோன் மஸ்க்கைச் சந்தித்து Starlink ஐ இலங்கையில் அமுல்படுத்துவது குறித்து கலந்துரையாடியதாக ஜனாதிபதி அலுவலகம் தெரிவித்துள்ளது.
+
+Starlink என்பது தொலைதூர இடங்களுக்கு குறைந்த விலையில் இணையத்தை வழங்குவதற்காக தனியார் விண்வெளிப் பயண நிறுவனமான SpaceX ஆல் உருவாக்கப்பட்ட செயற்கைக்கோள் வலையமைப்பு ஆகும்.
+
+ஜனாதிபதியின் காலநிலை விவகாரங்களுக்கான சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தனவும் எலோன் மஸ்க் உடனான ஜனாதிபதியின் சந்திப்பில் கலந்துகொண்டார்.
+
+◼️
+
+[Data](articles/871bada7.json)
+
+---
 
 ### Shadow War
 
@@ -886,6 +920,20 @@ Police say the machine is the machine that is a wind -operating machine using el
 
 ---
 
+### අධික වැස්ස නිසා දිස්ත්‍රික් හතක  ප්‍රා.ලේ. කොට්ඨාස 37 කට නාය යෑමේ අනතුරු ඇඟවීම්
+
+*2024-05-19 09:49:25* · [`adalk`](https://www.ada.lk/breaking_news/අධික-වැස්ස-නිසා-දිස්ත්‍රික්-හතක--ප්‍රා-ලේ--කොට්ඨාස-37-කට-නාය-යෑමේ-අනතුරු-ඇඟවීම්/11-409712) · `si`
+
+දිවයිනේ ඇතැම් ප්‍රදේශවලට ඇද හැළෙන අධික වර්ෂාව හේතුවෙන් දිස්ත්‍රික්ක හතක ප්‍රාදේශිය ලේකම් කොට්ඨාස 37 කට නාය යෑමේ අනතුරු ඇඟවීම ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් අද 19 වනදා අළුයම නිකුත් කර තිබේ.
+
+එම සංවිධානය විසින් නිකුත් කර ඇති නාය යැමේ අනතුරු ඇඟවීමේ නිවේදනයට අනුව බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශිය ලේකම් කොට්ඨාසයට  දෙවන මට්ටමේ අනතුරු ඇඟවීම නිකුත් කර ඇති අතර එම දිස්ත්‍රික්කයේ හල්දුම්මුල්ල, හපුතලේ, බදුල්ල,හාලිඇල යන ප්‍රාදේශීය ලේකම් කොට්ඨාස  සඳහා පළමු මට්ටමේ අනතුරු ඇඟවීම නිකුත් කර තිබේ. මෙයට අමතරව, කොළඹ දිස්ත්‍රික්කයේ සීතාවක ප්‍රාදේශීය ලේකම් කොට්ඨාසය,
+
+...
+
+[Data](articles/35afd63e.json)
+
+---
+
 ### Families complain on over 400 Sri Lankans in Russia-Ukraine war
 
 *2024-05-19 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Families-complain-on-over-400-Sri-Lankans-in-Russia-Ukraine-war/155-282886) · `en`
@@ -998,17 +1046,23 @@ The utility said it made a 25.9 billion rupee capital gain from transferring LTL
 
 ---
 
-### යුද හමුදාවේ 1509ට උසස්විම්
+### Promotions to 1509 Army
 
 *2024-05-19 08:48:29* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවේ-1509ට-උසස්විම්/11-409711) · `si`
 
-15 වන විජයග්‍රාහී යුද සැමරුමට සමගාමීව ශ්‍රී ලංකා යුද හමුදාවේ 1509කට උසස්වීම් ලබාදීමට ජනපතිවරයාගේ උපදෙස් මත කටයුතු කර තිබේ.
+In honor of the 15th victory commemoration, the President promoted 114 Regular and Voluntary Brigades of the Sri Lanka Army, including all regiments, effective from today (19).
 
-ශ්‍රී ලංකා යුද හමුදාවේ නිත්‍ය හා ස්වෙච්ඡා බලසේනාවේ නිලධාරීන් 114ක් සහ සෙසුනිලයන් 1,395කට මෙසේ උසස්විම් ලබා දි තිබේ. අද (19) සිට බලපැවැත්වෙන පරිදි සියලුම රෙජිමේන්තුවල සාමාජිකයන්ට මෙම උසස්වීම ලබාදීම් සිදුකර තිබේ.
+🟩
+
+The President has also promoted to 1509 Sri Lanka Army's advice in parallel to the 15th victorious war commemoration.
+
+114 Regular and Voluntary Brigade of the Sri Lanka Army have been provided with the promotions of Rs. 1,395. These promotions have been made to members of all regiments, which have been effective from today (19).
 
 ◼️
 
 [Data](articles/f03b04ba.json)
+
+[Extended Data](ext_articles/f03b04ba.ext.json)
 
 ---
 
@@ -2209,77 +2263,5 @@ The Forbes’ list was determined by judges Caldecott Music Group Founder and Gr
 [Data](articles/489294b7.json)
 
 [Extended Data](ext_articles/489294b7.ext.json)
-
----
-
-### President tells the latest translations of government
-
-*2024-05-18 18:03:12* · [`adalk`](https://www.ada.lk/picture_story/රජයේ-නවතම-පරිවර්තනය-ගැන-ජනපති-කියයි/10-409703) · `si`
-
-In a bid to modernize agriculture, Sri Lanka's government, led by Presidents Mahinda Rajapaksa and Ranil Wickremesinghe, is launching initiatives like the Agricultural Modernization Program across 100 divisions. This includes financial aid, training, and integration of AI technologies. A notable example is AI Grow Company, which specializes in AI-driven farming, offering services from greenhouse planning to product sales. The government aims to foster partnerships with local universities and provide educational opportunities in AI.
-
-🟩
-
-Government entrepreneurs are fully supported for modern agriculture with modern technology
-
-The Agricultural Modernization Program will be implemented in 100 Divisional Secretariat Divisions this year.
-
-The government is preparing to provide financial support and training - President Mahinda Rajapaksa has opened the first to inspect Sri Lanka's first conversation tour.
-
-President Ranil Wickremesinghe said that the government plans to carry out a new translation of agriculture including artificial intelligence (AI) and the government is working to provide the necessary assistance to private sector entrepreneurs.
-
-The President added that 100 Divisional Secretariat Divisions have been selected for the agro-renovation program and the first phase of the year will be facilitated in 25 Divisional Secretariat Divisions.
-
-President Ranil Wickremesinghe made this statement on the first time in Sri Lanka, with artistic intelligence in the Venerable Velamadeniya in Kegalle with the first time in Sri Lanka.
-
-...
-
-[Data](articles/56fe1a76.json)
-
-[Extended Data](ext_articles/56fe1a76.ext.json)
-
----
-
-### Sri Lanka Navy nabs fishermen engaged in illegal fishing
-
-*2024-05-18 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-nabs-fishermen-engaged-in-illegal-fishing-163558/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Navy apprehended eight persons engaged in illegal fishing in the seas off Ambalanpokkanei, Mullaitivu, Poduwakattu, and Trincomalee, this week.
-
-“The operations also led to the seizure of 3 dinghies and unauthorized fishing gear employed for these illegal acts,” it said in a statement.
-
-“The Sri Lanka Navy remains vigilant and conducts operations to combat illegal fishing in its sea and coastal areas, with a view to supporting legal fishing activities.”
-
-The fishermen were engaging in light-coarse fishing and using unauthorized fishing nets.
-
-They were intercepted by the SLNS Gotabaya and SLNS Walagamba of the Eastern Naval Command.
-
-The individuals were identified as residents of Mullaitivu, Kuchchaveli and Poduwakattu, aged between 21 to 53 years.
-
-The fishermen, dinghies and unauthorized fishing gear were handed over to the Assistant Directorate of Fisheries – Mullaitivu, and the Fisheries Inspector of Trincomalee for legal action, the Navy said. (Colombo/May18/2024)
-
-◼️
-
-[Data](articles/13d9c84f.json)
-
-[Extended Data](ext_articles/13d9c84f.ext.json)
-
----
-
-### Sri Lanka falls short on 19 transparency and legislative commitments to IMF programme - report
-
-*2024-05-18 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99301/sri-lanka-falls-short-on-19-transparency-and-legislative-commitments-to-imf-programme-report) · `en`
-
-Sri Lanka has not met 30% of its due commitments to the IMF programme by the end of April 2024, which translates to a total of 19 unfulfilled obligations, according to a report by Verité Research.
-
-The report published on PublicFinance.lk, a platform for public finance-related information in Sri Lanka run by Verité Research, revealed that the majority of these unmet commitments pertain to enhancing transparency and enacting legislation.
-
-The summary of commitments that are not yet due include publishing implementation plans for the Anti-Corruption Act, implementation of the amendments to the Banking Act, obtaining Cabinet approval of a strategy to build a VAT (Value Added Tax) refund system and achieving a full repeal of SVAT, with timeline, intermediate steps and ensuring that starting from January 2024, cash transfers under Samurdhi will cease, among others.
-
-...
-
-[Data](articles/f13b284a.json)
-
-[Extended Data](ext_articles/f13b284a.ext.json)
 
 ---

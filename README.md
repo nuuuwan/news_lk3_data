@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 03:52:24**
+As of **2024-05-20 04:04:04**
 
 ## Newspaper Stats
 
-*Scraped **25,077** Articles*
+*Scraped **25,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
 virakesarilk | 3,785
-dailymirrorlk | 3,937
+dailymirrorlk | 3,938
 adaderanasinhalalk | 4,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,066 (100.0%) of 25,077 articles have been extended.
+25,077 (100.0%) of 25,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Govt. revenue in January surge 62% on economic turnaround, higher taxes
+
+*2024-05-20 03:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-revenue-in-January-surge-62-on-economic-turnaround-higher-taxes/108-282928) · `en`
+
+The revenue to the government, including the grants, rose by a staggering 61.8 percent in January 2024. This is a result of the government raking in billions of rupees out of people’s pockets to appease the International Monetary Fund’s revenue targets.
+
+The government revenues and grants for January were Rs.283.19 billion, out of which Rs.257.57 billion was raised via taxes. This was 63.8 percent higher from the same period last year.
+
+The staggering increase in the tax revenues in January compared to the same month in 2023 was predominantly due to the recovering economy which was supported further by the 3 percent increase in the value added tax rate from January 1, 2024 onwards.
+
+Between then and now, there wasn’t a single other tax imposed or raised except for the value added tax, and hence the bulk of the growth in tax income came from the recovering economy due to the normalising foreign currency inflows.
+
+...
+
+[Data](articles/63a2c172.json)
+
+---
 
 ### Nihal Hettiarachchi and Company celebrates 40 years of excellence
 
@@ -43,6 +61,8 @@ It was a fitting occasion to reflect on NHCo’s remarkable journey, milestones,
 ...
 
 [Data](articles/e2580170.json)
+
+[Extended Data](ext_articles/e2580170.ext.json)
 
 ---
 
@@ -64,6 +84,8 @@ The roundtable is part of broader efforts to foster investment and innovation in
 
 [Data](articles/63e51257.json)
 
+[Extended Data](ext_articles/63e51257.ext.json)
+
 ---
 
 ### Dedigama seeks Court intervention to protect famous ‘Dedigama’ trade name
@@ -75,6 +97,8 @@ The Sri Lankan leader and pioneer in the pawn brokering and gold loan industry -
 ...
 
 [Data](articles/d876d68b.json)
+
+[Extended Data](ext_articles/d876d68b.ext.json)
 
 ---
 
@@ -91,6 +115,8 @@ International Tea Day serves as a poignant reminder of the profound cultural and
 ...
 
 [Data](articles/2deacc9b.json)
+
+[Extended Data](ext_articles/2deacc9b.ext.json)
 
 ---
 
@@ -109,6 +135,8 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 ...
 
 [Data](articles/6a897856.json)
+
+[Extended Data](ext_articles/6a897856.ext.json)
 
 ---
 
@@ -132,6 +160,8 @@ Taking to X (formerly Twitter) Chung said her country stands in solidarity with 
 
 [Data](articles/bced055f.json)
 
+[Extended Data](ext_articles/bced055f.ext.json)
+
 ---
 
 ### Amnesty International says 15 years after end of war, victims still await justice at Mullivaikkal
@@ -145,6 +175,8 @@ Amnesty International Secretary General Agnès Callamard on Saturday said that 1
 ...
 
 [Data](articles/ea700181.json)
+
+[Extended Data](ext_articles/ea700181.ext.json)
 
 ---
 
@@ -166,6 +198,8 @@ He highlighted the Government’s failure to fulfil promises made to the interna
 
 [Data](articles/fddbd529.json)
 
+[Extended Data](ext_articles/fddbd529.ext.json)
+
 ---
 
 ### Sri Gurudev visits Sri Lanka: stresses influence of country’s economy on the region
@@ -184,6 +218,8 @@ Sri Gurudev, who visited the country on the invitation of Prime Minister Dinesh 
 
 [Data](articles/067e3480.json)
 
+[Extended Data](ext_articles/067e3480.ext.json)
+
 ---
 
 ### SJB proposes new dates for debate with NPP
@@ -195,6 +231,8 @@ The Samagi Jana Balawegaya (SJB) proposed new dates for the two debates planned 
 ...
 
 [Data](articles/29931984.json)
+
+[Extended Data](ext_articles/29931984.ext.json)
 
 ---
 
@@ -211,6 +249,8 @@ The festivities will span across three major venues: the Presidential Secretaria
 ...
 
 [Data](articles/93782c57.json)
+
+[Extended Data](ext_articles/93782c57.ext.json)
 
 ---
 
@@ -518,21 +558,19 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
 
+03.23 - Rescue crews have yet to find crash site of Iranian president's helicopter, official says
+
+Rescue crews haven't yet located the crash site of the helicopter carrying Iranian President Ebrahim Raisi, the head of Iran’s Red Crescent Society, Pir-Hossein Koulivand, told Iranian state TV IRINN.
+
+Earlier, a military commander said the aircraft's exact location had been detected through a signal from the helicopter and a mobile phone of a crew member, according to state news agency IRNA.
+
+The crews are still searching around where the signals were detected, Koulivand said.
+
+Harsh weather conditions and heavy fog have made the search for the crash site very difficult. It is now just after 1 a.m. local time in the remote, mountainous province.
+
 Russia is sending two planes, two helicopters and 50 rescuers to assist in operation over helicopter crash involving Iran's president
 
 In downtown Tehran, crowds of people have gathered to pray for the safe return of the Iranian president.
-
-A ceremony has been held at Vali-e-Asr Square, and state media has been broadcasting prayers since this afternoon.
-
-Images of hundreds of people, some with their hands outstretched, praying at Imam Reza Shrine in the city of Mashhad, one of Shiite Islam's holiest sites, as well as in Qom and other locations across the country, have also been shown.
-
-Here are some of the latest photos from the helicopter search site in Varzaqan, East Azerbaijan Province...
-
-Hamas has released a statement following the Iranian president's helicopter crash.
-
-The militant group, which is based in Gaza but backed by Iran, said it was following reports of the incident with "great concern".
-
-Describing the incident as "painful", it said it was in "complete solidarity" Iran.
 
 ...
 
@@ -2037,37 +2075,5 @@ Office Inspector Thilak Subasinghe is conducting further investigations by the s
 [Data](articles/a1493e1d.json)
 
 [Extended Data](ext_articles/a1493e1d.ext.json)
-
----
-
-### Family killed in Maldenation
-
-*2024-05-19 13:33:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලදෙණියේ-පවුලක්ම-මරා-මුදල්-කොල්ලකාලා/11-409719) · `si`
-
-In Maldenation, an elderly couple (both 88) and their son (42) were arrested after allegedly killing three family members, including their daughter-in-law (42). The victims were discovered in their home, and the suspects were apprehended shortly after. A significant amount of money and gold was also recovered from one of them.
-
-🟩
-
-Nalalla police said that a person was arrested by the father (88) mother (88), mother (88), and a special son (42), including mother (42) and a special needs.
-
-The police said that this morning at around the morning, the brinkerance was killed in a house in the area.
-
-Police have found a man who traveled by a bicycle and he had a sum of Rs. 3 lakhs and gold items.
-
-The police officers had taken steps to visit the identity card of the police, as a 78-year-old man was found in the suspect when he was arrested and taken to the police.
-
-Three bodies were found in the event of the examination.
-
-Accordingly, interrogation was revealed that he had been close relatives of the respective residents.
-
-He had confessed to the police that he had killed his little mother, Uncle, and their son, to plunder money and gold items.
-
-According to police, the investigation made by the police that his wife's uncle's uncleage, little and their son were revealed.
-
-◼️
-
-[Data](articles/2083f5e0.json)
-
-[Extended Data](ext_articles/2083f5e0.ext.json)
 
 ---

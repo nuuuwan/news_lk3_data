@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 22:33:57**
+As of **2024-05-19 22:51:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,040 (100.0%) of 25,041 articles have been extended.
+25,041 (100.0%) of 25,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegay
 ◼️
 
 [Data](articles/0d560c80.json)
+
+[Extended Data](ext_articles/0d560c80.ext.json)
 
 ---
 

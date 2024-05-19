@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 12:18:29**
+As of **2024-05-19 12:33:54**
 
 ## Newspaper Stats
 
-*Scraped **24,941** Articles*
+*Scraped **24,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,129
-adaderanalk | 2,887
+adaderanalk | 2,889
 tamilmirrorlk | 2,928
-virakesarilk | 3,752
+virakesarilk | 3,760
 dailymirrorlk | 3,913
-adaderanasinhalalk | 3,987
+adaderanasinhalalk | 3,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,941 (100.0%) of 24,941 articles have been extended.
+24,941 (100.0%) of 24,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### මාලදෙණියේ ත්‍රිත්ව ඝාතකයාව පොලීසියට කොටු වූ හැටි
+
+*2024-05-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196781) · `si`
+
+මීරිගම, කිතලවලාව ප්‍රදේශයේ නිවසක් තුළ අද අලුයම පුද්ගලයින් තිදෙනකුව ඝාතනය කිරීම සම්බන්ධයෙන් සැකකරුවෙක් ව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී ඝාතනයට ලක්ව තිබුණේ වයස අවුරුදු 78 ක පිරිමි පුද්ගලයෙක්, වයස අවුරුදු 80ක කාන්තාවක් සහ විශේෂ අවශ්‍යතා සහිත පුද්ගලයෙකු වූ 42 හැවිරිදි  ඔවුන්ගේ පුත්‍රයා ය.
+
+ඝාතන සම්බන්ධයෙන් සැකපිට මියගිය තිදෙනාගේ ඥාති පුද්ගලයෙක් නාල්ල පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+අද අලුයම් කාලයේ මීරිගම, කිතලවලාව ප්‍රදේශයේ විමර්ශන රාජකාරියක නිරතව සිටි පොලිස් නිලධාරීන් පිරිසකට එහි මාර්ගයක පාපැදියක් තල්ලු කරමින් යන පුද්ගලයෙකු නිරීක්ෂණය වී තිබුණි.
+
+වයස් අවුරුදු 40ක පමණ වන අදාළ පුද්ගලයා සම්බන්ධයෙන් ඇතිවූ සැකය මත පොලිසිය ඔහුව පරීක්ෂා කිරීමට පියවර ගෙන තිබූ අතර, එහිදී ඔහු සන්තකයේ තිබී මුදල්, රන් භාණ්ඩ මෙන්ම වයස අවුරුදු 78ක පිරිමි පුද්ගලයෙකුට අයත් ජාතික හැඳුනුම්පතක්ද සොයා ගෙන තිබේ.
+
+වෙනත් අයෙකුගේ හැඳුනුම්පතක් ඔහු සන්තකයේ තිබීම සම්බන්ධයෙන් සැකපළ වීම හේතුවෙන් පොලිස් නිලධාරින් හැඳුනුම්පතෙහි සඳහන් ලිපිනය සොයා එහි යෑමට පොලිස් නිලධාරීන් පියවර ගෙන තිබුණි.
+
+...
+
+[Data](articles/fdf046c0.json)
+
+---
+
+### Indian Coast Guard detain 07 Sri Lankan fishermen for poaching in Indian waters
+
+*2024-05-19 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99312/indian-coast-guard-detain-07-sri-lankan-fishermen-for-poaching-in-indian-waters) · `en`
+
+The Indian Coast Guard has detained a 07 Sri Lankans together with a mechanised fishing boat for poaching in Indian waters.
+
+Indian media reported that when Indian Coast Guard Ship Vaibhav spotted the mechanised boat from Sri Lanka fishing in Indian waters off Kanniyakumari coast on Saturday (May 18), the boat with 07 crew members, who were all Sri Lankan nationals, were apprehended.
+
+Sources in the Marine Police of India stated to ‘The Hindu’ news agency that the Indian Coast Guard will bring the detained boat and the Sri Lankan fishermen to Tharuvaikulam Fish Landing Centre on Sunday (May 19) and they will be handed over to the marine police for onward legal action.
+
+On Thursday (May 16), the Indian Coast Guard also arrested 14 Sri Lankan fishermen identified to be hailing from Paruthithurai, Point Pedro, along with five boats for crossing the International Maritime Boundary Line (IMBL) and for fishing sea cucumber.
+
+◼️
+
+[Data](articles/387f2e5d.json)
+
+---
+
+### Advisory for small fishing boats due to bad weather
+
+*2024-05-19 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99311/advisory-for-small-fishing-boats-due-to-bad-weather-) · `en`
+
+The small fishing boats along the coasts of Mannar to Colombo via Galle, Hambantota to Pottuvil and Ampara are advised not to venture out to sea from 12 noon today until further notice.
+
+The advisory was issued by the Director of the Department of Fisheries and Aquatic Resources due to the prevailing inclement weather conditions.
+
+◼️
+
+[Data](articles/64e572a0.json)
+
+---
+
+### இனப்படுகொலை உட்பட சர்வதேச குற்றங்களை விசாரணை செய்வதற்கு சர்வதேச நீதிபொறிமுறை அவசியம் - முள்ளிவாய்க்கால் நினைவேந்தல் செய்தியில் அமெரிக்க காங்கிரஸ் உறுப்பினர்
+
+*2024-05-19 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183939) · `ta`
+
+முள்ளிவாய்க்கால் இனப்படுகொலை இடம்பெற்று 15 வருடங்களாகின்ற நிலையில் தமிழ் மக்கள் 2009 இனப்படுகொலைகளை நிiவுகூரூம்போது அவர்களிற்கு தங்கள் ஆதரவை வெளியிடுவதாக அமெரிக்க காங்கிரஸ் உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+
+2009ம் ஆண்டு யுத்தத்தின் இறுதி தருணங்களின் போது அரசாங்கத்தின் ஆதரவுடன் இடம்பெற்ற இனப்படுகொலையின் போது கொல்லப்பட்டவர்கள் உயிர்பிழைத்தவர்களை உலகம் முழுவதிலும் உள்ள தமிழர்கள் நினைவுகூரூம்போது நான் அவர்களிற்கு ஆதரவாக உள்ளேன் என அமெரிக்க சனப்பிரதிநிதிகள் சபையின் பிரதி சம்மர் லீ தெரிவித்துள்ளார்.
+
+இலங்கையில் போதியளவு நீதியின்மை இந்த பயங்கரமான குற்றங்களிற்கு காரணமான யுத்த குற்றவாளிகள் அந்த நாட்டில் அதிகாரத்தைஅனுபவிக்க அனுமதியளித்துள்ளது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இலங்கையில் இடம்பெற்ற இனப்படுகொலை உட்பட சர்வதேச குற்றங்களிற்கு காரணமானவர்களை விசாரணை செய்வதற்காக சர்வதேச குற்றவியல் நீதிப்பொறிமுறையொன்றை உருவாக்கவேண்டும் என நான் வேண்டுகோள்விடுக்கின்றேன் என தெரிவித்துள்ள அவர் நீதிவழங்கப்பட்டபின்னரே அர்த்தபூர்வமான அமைதியையும் ஸ்திரதன்மையையும் ஏற்படுத்த முடியும் எனவும் குறிப்பிட்டுள்ளார்
+
+...
+
+[Data](articles/e095a8e8.json)
+
+---
 
 ### A red announcement from the weather
 
@@ -202,6 +274,22 @@ At the same time, there was a tense situation in the area as another group stage
 
 ---
 
+### மூன்று தசாப்த கால போர் தமிழ் சமூகத்தின் 'மூளைசாலிகளை' அழித்துவிட்டது! - சவேந்திர சில்வா
+
+*2024-05-19 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183933) · `ta`
+
+இலங்கையில் போர் இல்லாமை அனைத்து இன மக்களுக்கும் உள ரீதியான நிம்மதியை தருகிறது. காலாகாலமாக கல்வியையும் தங்கம் உள்ளிட்ட சொத்துக்களையும் சேர்த்த தமிழ் மக்களை மூன்று தசாப்தகால போரானது அனைத்து வகையிலும் பின்தள்ளியது மாத்திரமன்றி தமிழ்  சமூகத்தின் மூளைசாலிகளையும் அழித்துவிட்டது என்று பாதுகாப்பு பதவி நிலை பிரதானி ஜெனரல் சவேந்திர சில்வா தெரிவித்தார்.
+
+வீரகேசரி வாரவெளியீட்டு வழங்கிய விசேட செவ்வியிலேயே ஜெனரல் சவேந்திர சில்வா மேற்கண்டவாறு கூறினார். அவர் வழங்கிய முழமையான செவ்வி வருமாறு,
+
+15 வருடங்கள் கடந்துள்ள போர் தமிழீழ விடுதலைப் புலிகளுக்கு  எதிரான மூன்று  தசாப்த கால போர் நிறைவடைந்து 15 வருடங்கள் கடந்துள்ளன.  பயங்கரவாத அச்சுறுத்தல்  இன்றி  அனைத்து  இன மக்களும் அமைதியாக வாழும் சூழல் ஏற்பட்டுள்ளமையை இட்டு மகிழ்ச்சியடைகின்றேன். இலங்கையில் இனியொருபோதும் பயங்கரவாத அச்சுறுத்தல் ஏற்படாது என்ற நம்பிக்கை மக்களுக்கு உள்ளது.
+
+...
+
+[Data](articles/bacd7814.json)
+
+---
+
 ### Over 280 kgs of narcotics destroyed using high-powered incinerator in Puttalam
 
 *2024-05-19 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-280-kgs-of-narcotics-destroyed-using-high-powered-incinerator-in-Puttalam/108-282889) · `en`
@@ -286,6 +374,20 @@ The suspects are due to be handed over to the Fisheries and Aquatic Resources De
 
 ---
 
+### இலங்கை கடற்பரப்புக்குள் ஊடுருவும் நீர்மூழ்கி கப்பல்களை தடுக்க அமெரிக்கா உதவி  - தேசிய பாதுகாப்பு ஆலோசகர்
+
+*2024-05-19 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183930) · `ta`
+
+அனுமதியின்றி இலங்கை கடற்பரப்புக்குள் ஊடுருவும் நீர்மூழ்கி கப்பல்களை தடுக்கவும் கண்காணிக்கவும் ஒத்துழைக்குமாறு அமெரிக்காவிடம் உதவி கோரப்பட்டுள்ளது. இதேவேளை, பிராந்தியத்தில் கொந்தளிப்புகளை ஏற்படுத்தும் சர்வதேச நாடுகளின் ஆய்வுக் கப்பல்களின் வருகையை கட்டுப்படுத்த உள்ளக சமுத்திரவியல் ஆய்வுக்குழுவை ஸ்தாபிக்கவும் தீர்மானிக்கப்பட்டுள்ளது.
+
+இந்திய பெருங்கடலின் பாதுகாப்பு நடவடிக்கை குறித்து இலங்கை விஜயத்தின்போது கூடுதல் அவதானம் செலுத்தியிருந்த தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்க இராஜாங்க திணைக்களத்தின் துணைச் செயலாளர் டொனல்ட் லூ, தேசிய பாதுகாப்பு ஆலோசரை சந்தித்து கலந்துரையாடி இருந்தார்.
+
+...
+
+[Data](articles/01a6bf34.json)
+
+---
+
 ### "So far 411 complaints have been received"
 
 *2024-05-19 10:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-411-முறைப்பாடுகள்-கிடைக்கப்பெற்றுள்ளன/175-337505) · `ta`
@@ -333,6 +435,20 @@ Accordingly, warning notifications have been issued to Ella Divisional Secretari
 [Data](articles/880a28f8.json)
 
 [Extended Data](ext_articles/880a28f8.ext.json)
+
+---
+
+### மௌனித்த பல கதைகள் நீடித்த அரசியல் தீர்வின் அவசியத்தை வலியுறுத்துகிறது  - அமெரிக்க தூதுவர் ஜூலி சங்
+
+*2024-05-19 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/183925) · `ta`
+
+நீதி, சம உரிமைகள் மற்றும் சம வாய்ப்புகளை பெற்றுக்கொள்வதில் ஈடுபாட்டுடன் போராடும் இலங்கை மக்களின் உறுதியான பங்காளியாக அமெரிக்கா என்றும் இருக்கும் என்று தெரிவித்துள்ள அமெரிக்க தூதுவர் ஜூலி சங், மௌனிக்கப்பட்ட பல  கதைகள் நீடித்த அரசியல் தீர்வின் அவசியத்தை வலியுறுத்துவதாகவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கையின் அரச படைகளுக்கும் விடுதலைப்புலிகளுக்கும் இடையிலான மூன்று தசாப்த கால போர்  முடிவடைந்து 15 வருடங்கள் ஆகின்ற நிலையில், வடக்கு மற்றும் கிழக்கில் போரில் உயிரிழந்தவர்களை நினைவுகூர்ந்து பல்வேறு நிகழ்வுகள் இடம்பெறுகின்றன. இவ்வாறானதொரு நிலையில் வடக்குக்கு விஜயம் செய்திருந்த அமெரிக்க தூதுவர் ஜூலி சங், யாழ்ப்பாணத்தில் அரச மற்றும் சிவில் தரப்புகளை சந்தித்து கலந்துரையாடியிருந்தார்.
+
+...
+
+[Data](articles/5af8579c.json)
 
 ---
 
@@ -420,6 +536,24 @@ The landslide warning announcement under Level 1 include Badulla district and 33
 
 ---
 
+### இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகளில் ஈடுபடுவதுடன்  திட்டமிட்டு பிழையான தகவல்களை பரப்புகின்றது - பிரம்டன் மேயர் பட்ரிக் பிரவுன்
+
+*2024-05-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183929) · `ta`
+
+இனப்படுகொலையை நிராகரிக்கும் இலங்கை அரசாங்கம் சர்வதேச தலையீடுகளில் ஈடுபடுவதுடன்  திட்டமிட்டு பிழையான தகவல்களை வெளியிடுதல் பரப்புதல் போன்றவற்றில் ஈடுபட்டுள்ளது என கனடா பிரம்டன் மேயர் பட்ரிக் பிரவுன்  தெரிவித்துள்ளார்
+
+தமிழ் இனப்படுகொலை தினம் என குறிப்பிடப்படும் முள்ளிவாய்க்கால் படுகொலையின் 15 வருடத்தை இன்றைய தினம் குறிக்கின்றது என பட்ரிக் பிரவுண் குறிப்பிட்டுள்ளார்.
+
+2009ம் ஆண்டு ஆயுதமோதலின் இறுதி தருணங்களில் அரச ஆதரவுடன் இடம்பெற்ற இனப்படுகொலையில் பலியானவர்கள் உயிர்பிழைத்தவர்களை உலகம் முழுவதிலும் உள்ள தமிழர்கள் நினைவுகூரும் இந்த தருணத்தில் நான் எனது ஆதரவை அவர்களிற்கு வெளியிடுகின்றேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இந்த குற்றங்களிற்கும் யுத்தத்தின் போதும் அதன் பின்னரும் இடம்பெற்ற வலிந்து காணாமலாக்கப்பட்ட சம்பவங்களிற்கும் கண்மூடித்தனமான தடுத்துவைத்தல் சித்திரவதைகள்  நீதி பொறுப்புக்கூரலை உறுதி செய்வதற்கான எந்த நேர்மையான நடவடிக்கைகளையும் இன்றுவரை இலங்கை அரசாங்கம் முன்னெடுக்கவி;ல்லை எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/d196991f.json)
+
+---
+
 ### Man dies in Mahavila accident
 
 *2024-05-19 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196777) · `si`
@@ -441,6 +575,20 @@ The cyclist was killed after admission to the Panadura Base Hospital and the bou
 [Data](articles/db3d0a06.json)
 
 [Extended Data](ext_articles/db3d0a06.ext.json)
+
+---
+
+### ஒக்டோபர் முதல் வாரத்தில் ஜனாதிபதி தேர்தல் -   ரணிலை ஆதரிக்க பொதுஜன பெரமுன தீர்மானம்
+
+*2024-05-19 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183926) · `ta`
+
+ஜனாதிபதி தேர்தலை எதிர்வரும் ஒக்டோபர் மாதத்தின் முதல் வாரத்தில் நடாத்துவதற்கு அரசாங்கம் அவதானம் செலுத்தியுள்ளது. இதேவேளை ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மீண்டும் ஆதரவளிக்கும் வகையில் ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்குள் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன. குறிப்பாக பரந்துபட்ட கூட்டணியின் கீழ் பொது வேட்பாளராக ஜனாதிபதி ரணில் தேர்தலில் போட்டியிட தீர்மானித்துள்ளதாக அரசாங்கத்தின் உயர் மட்ட தகவல்கள் உறுதிப்படுத்துகின்றன.
+
+ஜனாதிபதி தேர்தலுக்கு முன்னதாக பாராளுமன்ற தேர்தல் இடம்பெறும் என்று பல்வேறு தகவல்கள் பகிரப்பட்டன. மே மாதம் பாராளுமன்றம் கலைக்கப்படும் என்றும் அந்த தகவல்களில் கூறப்பட்டன. இந்த தகவல்களுக்கு ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுன பதிலளிக்கையில், பாராளுமன்றத்தை கலைத்துவிட்டால் எவ்வாறு சர்வதேச நாணய நிதியத்துடனான நாட்டின் பொருளாதார நடவடிக்கைகளை முன்னெடுப்பது என கேள்வியெழுப்பியிருந்தனர்.
+
+...
+
+[Data](articles/664d6ccf.json)
 
 ---
 
@@ -830,6 +978,26 @@ The Minister of Education Susil Premajayantha said that about eight million peop
 
 ---
 
+### மனித உரிமைகளை பாதுகாக்கும் நடவடிக்கைகளை கனடா ஒருபோதும் நிறுத்தாது- இலங்கை இராணுவ அதிகாரிகளுக்கு எதிராக கனடா ஏற்கனவே தடைகளை விதித்துள்ளது- முள்ளிவாய்க்கால் நினைவேந்தல் செய்தியில் கனடா பிரதமர்
+
+*2024-05-19 07:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183923) · `ta`
+
+சர்வதேச அளவில் மனித உரிமைகளை பாதுகாக்கும் நடவடிக்கைகளை கனடா ஒருபோதும் நிறுத்தாது என தெரிவித்துள்ள கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ இலங்கையில் யுத்த குற்றங்களில் ஈடுபட்ட இராணுவ அதிகாரிகளிற்கு எதிராக தடைகளை விதித்ததை சுட்டிக்காட்டியுள்ளார்.
+
+முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வினை குறிக்கும் விதத்தில் வெளியிட்டுள்ள அறிக்கையில் அவர் இதனை தெரிவித்துள்ளார்
+
+15 வருடங்களிற்கு முன்னர் இலங்கையின் உள்நாட்டு மோதல் முடிவிற்கு வந்தது  முள்ளிவாய்க்கால் படுகொலை உட்பட பல ஆயிரக்கணக்கான மக்கள் தங்கள் உயிர்களை இழந்தனர்.
+
+இன்று நாங்கள் பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் அர்த்தமற்ற நீண்டகால வன்முறை ஏற்படுத்திய வேதனை வலியுடன் வாழும் அவர்களின் அன்புக்குரியவர்களை நாங்கள் கௌரவிக்கின்றோம்.
+
+இரண்டு வருடங்களிற்கு முன்னர் மே 18ம் திகதியை தமிழர்கள் இனப்படுகொலை நினைவேந்தல் தினமாக அங்கீகரிப்பதற்கான தீர்மானத்திற்கு கனடா நாடாளுமன்றம் ஏகமனதாக வாக்களித்தது.
+
+...
+
+[Data](articles/d04948e4.json)
+
+---
+
 ### Sluice gates of hedkinsanda reservoir are nearing opening
 
 *2024-05-19 07:36:27* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-විවෘත-කිරිමට-ආසන්නයි/11-409709) · `si`
@@ -941,6 +1109,20 @@ The educational educational revenues to apply the monthly income of the A / L st
 [Data](articles/306ca208.json)
 
 [Extended Data](ext_articles/306ca208.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் நினைவேந்தல் தினத்தை அடிப்படையாக வைத்து இடம்பெற்ற கைதுகள் -  அமெரிக்க செனெட் வெளியுறவுக்குழு கவலை
+
+*2024-05-19 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/183921) · `ta`
+
+இலங்கையின் ஈவிரக்கமற்ற உள்நாட்டு யுத்தத்தின் போது கொல்லப்பட்ட பலவந்தமாக காணாமல்போகச்செய்யப்பட்ட சித்திரவதை செய்யப்பட்ட ஆயிரக்கணக்கான தமிழர்களை நினைவுகூரும் முள்ளிவாய்க்கால் தினத்தை அடிப்படையாக கொண்டு இடம்பெற்ற கைதுகள் குறித்து கவலையடைந்துள்ளதாக அமெரிக்க செனெட் வெளியுறவுக்குழுவின் தலைவர் செனெட்டர் கார்டின் தெரிவித்துள்ளார்.
+
+கைதுகள் குறித்த அச்சமின்றி நினைவேந்தல்களை முன்னெடுப்பதற்கு இலங்கை அரசாங்கம் அனுமதிக்கவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/755055e0.json)
 
 ---
 
@@ -2037,281 +2219,5 @@ About 2,000 houses have been completely destroyed due to the disaster caused wit
 [Data](articles/feb8ca41.json)
 
 [Extended Data](ext_articles/feb8ca41.ext.json)
-
----
-
-### Navy rescue Sri Lankan fishermen from distressed local fishing trawler in eastern waters
-
-*2024-05-18 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99300/navy-rescue-sri-lankan-fishermen-from-distressed-local-fishing-trawler-in-eastern-waters) · `en`
-
-Sri Lanka Navy, in coordination with the Maritime Rescue Coordination Centre (MRCC)in Colombo have rescued 03 fishermen from a distressed local fishing vessel off the east coast of Sri Lanka, about 42 nautical miles (77km) off the Batticaloa Lighthouse on Friday (17).
-
-The distressed trawler ‘ASWAR’ (IMUL-A-0266-TLE), had been at sea for a routine fishing expedition, having left from Valaichchenai Fisheries Harbour on 12 May 2024. In an unfortunate turn of events, it has faced this distress whilst in eastern seas, Sri Lanka Navy said.
-
-Having picked up the distress signal disseminated by the Communication Center at Valaichchenai Fisheries Harbour, a Fast Attack Craft of the 4th Fast Attack Flotilla and another craft from the Sri Lanka Coast Guard have been rushed to the designated sea area, at the directives of the Commander of the Navy Vice Admiral Priyantha Perera.
-
-...
-
-[Data](articles/f9a91d1a.json)
-
-[Extended Data](ext_articles/f9a91d1a.ext.json)
-
----
-
-### Another complaint under CID
-
-*2024-05-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196758) · `si`
-
-Professional and civil groups have complained to the CID about the quality of medicine, as reported by the National Audit Office. This follows legal actions taken by the CEO of the National Drug Regulatory Authority against its General Executive Officer and Board of Directors. Dr. Chamal Sanjeewa, CID Chairman, filed a complaint on 18th, focusing on the fraud investigation into the Drug Regulatory Authority's database.
-
-🟩
-
-The CID has lodged a complaint with the Criminal Investigation Department based on the report issued by the National Audit Office regarding the quality of medicine.
-
-A group of professional and civil organizations representatives have lodged a complaint with the CID.
-
-2022 - 2023 The National Audit Office was released recently.
-
-The CEO of the National Drug Regulatory Authority of the National Drug Regulatory Authority had to take legal action against the General Executive Officer of the National Drug Regulatory Authority and the Board of Directors.
-
-Accordingly, Dr. Chamal Sanjeewa, Chairman of the CID, has lodged a complaint with the CID today (18), has lodged a complaint with the CID today (18).
-
-He also said that the procedure of the investigation conducted by the Criminal Investigation Department regarding the fraud on the Database of the Drug Regulatory Authority.
-
-◼️
-
-[Data](articles/ea3b319f.json)
-
-[Extended Data](ext_articles/ea3b319f.ext.json)
-
----
-
-### Young people who troubled the university student
-
-*2024-05-18 16:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பல்கலைக்கழக-மாணவிக்கு-தொல்லை-கொடுத்த-இளைஞர்கள்/76-337470) · `ta`
-
-Six youths aged 20-30 from Colombo were arrested for harassing a university student on a train from Colombo Fort to Badulla. The student complained to her parents and then to the Hatton Police Station, leading to the arrests. They will face charges at the Hatton Magistrate's Court.
-
-🟩
-
-Six youths have been arrested for allegedly harassing a university student at Hatton Railway Station.
-
-It is reported that six youths who traveled from Colombo Fort to Badulla have been harassing the university student who was traveling on the same train.
-
-The student has notified her parents and later lodged a complaint at the Hatton Police Station.
-
-Accordingly, a group of police officers arrested the six youths at the Hatton Railway Station.
-
-It is reported that they have come to the Sivanolipada hill and are between the ages of 20 and 30 in Colombo.
-
-After registering the initial affidavits from the suspects, they will be produced before the Hatton Magistrate's Court today. Remble
-
-◼️
-
-[Data](articles/afd662c2.json)
-
-[Extended Data](ext_articles/afd662c2.ext.json)
-
----
-
-### Fifty dead in heavy rain, floods in central Afghanistan, official says
-
-*2024-05-18 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99299/fifty-dead-in-heavy-rain-floods-in-central-afghanistan-official-says) · `en`
-
-At least 50 people are dead following a fresh bout of heavy rain and flooding in central Afghanistan, an official said on Saturday.
-
-Mawlawi Abdul Hai Zaeem, the head of the information department for the central Ghor province, told Reuters that there was no information about how many people were injured in the rain spell that began on Friday, which had also cut off many key roads to the area.
-
-Zaeem added that 2,000 houses were completely destroyed, 4,000 partially damaged, and more than 2,000 shops were under water in the province’s capital, Feroz-Koh.
-
-Last week, flash floods caused by heavy rains devastated villages in northern Afghanistan, killing 315 people and injuring more than 1,600, authorities said on Sunday.
-
-On Wednesday, a helicopter used by the Afghan air force crashed due to “technical issues” during attempts to recover the bodies of people who had fallen into a river in Ghor province, killing one and injuring 12 people, the country’s defence ministry said.
-
-...
-
-[Data](articles/e41d8337.json)
-
-[Extended Data](ext_articles/e41d8337.ext.json)
-
----
-
-### Hardick Palinya fined and banned
-
-*2024-05-18 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196756) · `si`
-
-Hulki Pandy, leading Mumbai Indians, faces ban and fine from the Indian Cricket Board after a high-speed performance in the IPL finals. The team, despite winning five out of five matches, misses the bonus point due to only four wins in 14 games.
-
-🟩
-
-The leader of Mumbai Indians' leader Hulki Pandy has been banned by the Indian Cricket Board and a fine.
-
-The Mumbai Indians in the Indian Premier League, Mumbai Indians, maintained a high speed in the final.
-
-Accordingly, Hardick Pandya said it was fine and banned.
-
-The other players of the group have also set up 50 lakhs for the match fee, Indian media.
-
-The Mumbai Indian team won five cases in 5 cases, there were only 4 out of the 14 due matches, and as a result, they left the bonus mark.
-
-◼️
-
-[Data](articles/0cb9491c.json)
-
-[Extended Data](ext_articles/0cb9491c.ext.json)
-
----
-
-### Puttalam - Eluwangulam Kala Oya Bridge completely submerged
-
-*2024-05-18 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183880) · `ta`
-
-Kala Oya Bridge in Puttalam's Eluwangulam is fully submerged due to open Rajangan reservoir gates, closing the Wilpattu Sanctuary road. Tourists are advised against visiting the sanctuary.
-
-🟩
-
-The Kala Oya Bridge in Eluwangulam, Puttalam has been completely submerged in the area.
-
-The Kala Oya Bridge in the Puttalam Eluvangulam area has been completely submerged as the air doors of the Rajangan reservoir have been opened.
-
-The road to the Wilpattu Sanctuary is closed. The Wildlife Department has warned that tourists should not go through the Wilpattu Sanctuary.
-
-The Puttala District Risk Management Center said that the public was bathing in the area.
-
-◼️
-
-[Data](articles/c1095280.json)
-
-[Extended Data](ext_articles/c1095280.ext.json)
-
----
-
-### Dinara, Dinara, among the punch in Asia
-
-*2024-05-18 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196755) · `si`
-
-Dinara Punchihewa, a Sri Lankan actress and producer known for her work in "Punchiwa," has been recognized as one of the top 300 young leaders across various sectors by Forbes magazine. She stands out in the Entertainment & Sports category. Additionally, she made her mark in the film industry with the 2018 film "Serje," which premiered at an international film festival. A graduate of Queen Mary University of London, Dinara also founded Punchi Actors, a nonprofit aimed at promoting arts and acting.
-
-🟩
-
-Dinara, a Sri Lankan performer and film production of Punchiwa, has been able to enter the "30"
-
-The entertainment and sports sector have been among the 300 people identified as young leaders through various fields.
-
-Forbes magazine publishes people who should pay attention to the Asia Pacific period.
-
-The list has been selected to the list under 10 categories and Dinara Punchihewa has been included in this list from the Taste and Sports Division.
-
-Dinara is entering the film industry along the 2018 film "Serje" film.
-
-With the film that the film was displayed at a international film festival, she was able to contribute to the movie.
-
-Dinara, Punchihewa, a graduate of the Queen Mary University of London, is also the founder of Punchi Actors, a non-profit company to introduce the art and acting.
-
-◼️
-
-[Data](articles/4d6312b3.json)
-
-[Extended Data](ext_articles/4d6312b3.ext.json)
-
----
-
-### Rain exceeding 100 millimeters tomorrow
-
-*2024-05-18 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196754) · `si`
-
-Heavy rain expected tomorrow in Western, Sabaragamuwa, North-Western provinces, including Matara, Kandy, and Nuwara Eliya districts, with rainfall exceeding 100mm due to enhanced pre-monsoon conditions.
-
-🟩
-
-The Department of Meteorology has issued a new weather notification to be valid for tomorrow (19).
-
-It states that the effectiveness of the pre-monsoon weather conditions, heavy rains and wind increase.
-
-Accordingly, in the Western, Sabaragamuwa, North-Western provinces, the Matara, Matara, Kandy and Nuwara Eliya districts can occur at more than 100 millimeters.
-
-◼️
-
-[Data](articles/ddb89e97.json)
-
-[Extended Data](ext_articles/ddb89e97.ext.json)
-
----
-
-### Sri Sri Ravi Shankar visits Sri Lanka
-
-*2024-05-18 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183875) · `ta`
-
-Sri Sri Ravi Shankar, founder of the Spiritual Guru and Arts Training Center, visited Sri Lanka at PM Dinesh Gunawardena's invite. He attended the Maha Kumbabhisheka festival and addressed a Satsangam in Colombo. He also opened 12 skills development centers nationwide, aiming to prepare over 5,000 young people for work.
-
-🟩
-
-Sri Sri Ravi Shankar, the founder of the Spiritual Guru, the Ambassador and the Arts Training Center, visited the country on Saturday (18) at the invitation of Prime Minister Dinesh Gunawardena.
-
-Sri Sri Ravi Shankar will attend the Maha Kumbabhisheka festival to be held at Sri Sita Sithayamman Temple in Nuwara Eliya tomorrow (19) at 9.00 am.
-
-Following this, he will address the Satsangam at the Taj Samudra Hotel, Colombo tomorrow at 5.15 pm.
-
-At the event, he will open 12 skills development centers of the country living nationwide. These centers are aimed at developing more than 5,000 young people and preparing them for work.
-
-Subsequently, the Governor of the Eastern Province Senthil Thondaman will visit the Hindu Cultural Hall on Monday (20) at 10.00 am.There are programs to honor Sri Sri Ravi Shankar.
-
-◼️
-
-[Data](articles/22b9179d.json)
-
-[Extended Data](ext_articles/22b9179d.ext.json)
-
----
-
-### Six youths arrested for harassment of university student
-
-*2024-05-18 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196753) · `si`
-
-Six youths harassing a university student during a journey from Colombo Fort to Badulla were arrested at Hatton Station. The victim informed her parents about the incident, leading to a police complaint. They are aged between 20 and 30 and reside in Colombo.
-
-🟩
-
-විශ්වවිද්‍යාල සිසුවියකට හිරිහැර සිදුකළ තරුණයන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-It is reported that the six youths who were traveling from Colombo Fort to Badulla have been conducted in a bully manner in a bully manner.
-
-අදාළ තරුණිය විසින් මේ පිළිබඳව සිය දෙමව්පියන් දැනුවත් කර පසුව හැටන් පොලිස් ස්ථානයට පැමිණිල්ලක් ද සිදුකර තිබේ.
-
-Accordingly, the six youths have been arrested at Hatton Station at Hatton Station.
-
-ඔවුන් ශ්‍රී පාද වන්දනාවේ පැමිණ ඇති අතර අවුරුදු 20ත් 30ත් අතර වයස් කාණ්ඩවල පසුවන කොළඹ ප්‍රදේශයේ පදිංචිකරුවන් බවද සඳහන් ය.
-
-They are to be produced before the Hatton Magistrate's Court today after the basic statements of the suspect youth.
-
-◼️
-
-[Data](articles/defbbee6.json)
-
-[Extended Data](ext_articles/defbbee6.ext.json)
-
----
-
-### Dengue cases pegged to surge, calls for clean surroundings
-
-*2024-05-18 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-pegged-to-surge-calls-for-clean-surroundings/108-282881) · `en`
-
-Colombo, May 18 (Daily Mirror) - Despite a recent dip in infections, ongoing showers are likely to drive a rise in Dengue cases, health officials predicted.
-
-Speaking to the Daily Mirror, Dr. Sudath Samaraweera, the Director of the National Dengue Control Unit, said local authorities and health organizations continue to work tirelessly to combat the spread of Dengue.
-
-“Public awareness campaigns, mosquito control measures and prompt medical assistance for those affected remain key strategies in the battle against the disease,” he stressed.
-
-As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
-
-According to the latest data from the Epidemiology Unit, a total of 23,731 Dengue cases have been reported as of May 16, 2024.
-
-The Colombo District, with 5,057 cases, has seen the highest number of infections.
-
-...
-
-[Data](articles/1ca37d5f.json)
-
-[Extended Data](ext_articles/1ca37d5f.ext.json)
 
 ---

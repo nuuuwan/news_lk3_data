@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 13:33:38**
+As of **2024-05-19 13:52:38**
 
 ## Newspaper Stats
 
-*Scraped **24,961** Articles*
+*Scraped **24,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,115 @@ adaderanalk | 2,890
 tamilmirrorlk | 2,930
 virakesarilk | 3,762
 dailymirrorlk | 3,914
-adaderanasinhalalk | 3,989
+adaderanasinhalalk | 3,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,958 (100.0%) of 24,961 articles have been extended.
+24,961 (100.0%) of 24,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### இ.தொ.காவின் கோரிக்கைக்கு உதவுவேன்: ரவிசங்கர் குருஜி
+### සුරක්ෂා සිසු රක්ෂණාවරණය යළි ඇරඹෙයි
+
+*2024-05-19 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196785) · `si`
+
+ආර්ථික ගැටලුකාරී තත්ත්වය හේතුවෙන් තාවකාලිකව අත්හිටුවන ලද “සුරක්ෂා” සිසු රක්ෂණාවරණය යළි ආරම්භ කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ.
+
+ඒ අනුව දිවයින පුරා සියලුම පාසල් සිසුන්ට මෙම රක්ෂණාවරණය යටතේ ප්‍රතිලාභ ලබාගැනීමේ හැකියාව ජුනි මස මුල් සතියේ සිට උදාවේ.
+
+මීට අදාළව මුදල්, ආර්ථික ස්ථායීකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා විසින් ඉදිරිපත් කරන ලද ඒකාබද්ධ අමාත්‍ය මණ්ඩල සංදේශය සඳහා පසුගියදා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි විය.
+
+“සුරක්ෂා” සිසු රක්ෂණාවරණය, සෞඛ්‍ය ගැටලු හේතුවෙන් අධ්‍යාපනය ලබා ගැනීමට නොහැකි සිසුන්ට අඛණ්ඩ අධ්‍යාපනයක් ලබාදීම සහ ඔවුන්ගේ සුරක්ෂිතභාවය තහවුරු කරමින් පාසල් සිසුන් දෛනිකව පාසල් පැමිණීම වර්ධනය කිරීමේ අරමුණ ඇතිව 2017 වර්ෂයේ එවක අග්‍රාමාත්‍යවරයා වශයෙන් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් මත ක්‍රියාත්මක කරන ලද වැඩසටහනකි.
+
+...
+
+[Data](articles/6f82a81a.json)
+
+---
+
+### වැස්ස අඩුවෙන දවස ගැන දැනුම්දීමක්
+
+*2024-05-19 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196784) · `si`
+
+අද දහවල් 12.00න් පසු නැවත දැනුම්දෙන තුරු කුඩා යාත්‍රා ධීවර කටයුතු සඳහා යොමුවීමෙන් වළකින ලෙස ධීවර දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+මුහුදු ආශ්‍රිත පවතින කාලගුණ විපර්යාස සැලකිල්ලට ගනිමින් එම දැනුම්දීම සිදුකරන බව ධීවර හා ජලජ සම්පත් සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා සඳහන් කළේය.
+
+මේ අතර ගතවූ පැය 24 තුළ මිලිමීටර් 212.5ක වැඩිම වර්ෂාපතනය වාර්තාවුණේ පුත්තලම දිස්ත්‍රික්කයෙනි.
+
+ශ්‍රී ලංකාව අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව වර්ධනය වෙමින් පවතින පෙර-මෝසම් කාලගුණ තත්ත්වය හේතුවෙන් දිවයිනේ සෑම පළාතකටම දැඩි වැසි ඇදහැලෙමින් පවතී.
+
+බස්නාහිර සහ වයඹ පළාත්වලට මිලිමීටර් 150 ඉක්මවූ වැසි ඇදහැලුණු අතර සබරගමුව, දකුණු, මධ්‍යම හා උතුර පළාත්වලට මිලිමීටර 100 ඉක්මවා වැසි ඇදහැලුණි.
+
+උතුරු මැද සහ නැගෙනහිර පළාත්වලටද මේ වන විට වැසි ඇද හැලෙමින් පවතී.
+
+මේ අතර අධික වර්ෂාවත් සමඟ රාජාංගණය, අංගමුව සහ උල්හිටිය යන ජලාශවල වාන් දොරටු විවෘත කිරීමට ඊයේ (18) පස්වරුවේ පියවර ගැනුණි.
+
+...
+
+[Data](articles/85b91e37.json)
+
+---
+
+### කාලිංග ට දෙවැනි තැන
+
+*2024-05-19 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196783) · `si`
+
+ජපානයේ ටෝකියෝ හී පැවැත්වෙන ග්‍රොන් ප්‍රී මලල ක්‍රීඩා තරගාවලියේදී මීටර 400 පිරිමී ඉසව්වට සහභාගි වු ශ්‍රී ලංකාවේ කාලිංග කුමාරගේ එහි දෙවැනි ස්ථානය දිනා ගත්තේය.
+
+◼️
+
+[Data](articles/5641e612.json)
+
+---
+
+### I will help the CWC's request: Ravi Shankar Guruji
 
 *2024-05-19 12:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-கோரிக்கைக்கு-உதவுவேன்-ரவிசங்கர்-குருஜி/76-337515) · `ta`
 
-இந்த சந்திப்பில் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினரும் காங்கிரஸின் தவிசாளருமான மருதபாண்டி ராமேஷ்வரன், பி.இராஜதுறை,பாரத் அருள்சாமி உள்ளிட்ட இ.தொ.கா உயர்பீட உறுப்பினர்கள் உள்ளிட்ட பலர் கலந்து கொண்டிருந்தனர்.
+Ravi Shankar Guruji agreed to support the Living Art Foundation in Sri Lanka's hill country, facilitating training centers and spiritual schools, promoting self-employment among women.
 
-குறித்த சந்திப்பில் விசேடமாக கலந்து கொண்டவர்கள், ஸ்ரீ ஸ்ரீ ரவிசங்கர் குருஜியிடம் இலங்கையில் மலையக மக்களின் நலத்திட்டத்திற்காக பல கோரிக்கைகளை முன் வைத்தனர்.
+🟩
 
-இவ்வாறு முன்வைக்கப்பட்ட கோரிக்கைகளை ஏற்றுக்கொண்ட குருஜி வாழும் கலை அறக்கட்டளை அமைப்பின் செயற்பாட்டை மலையகத்திலும் பலப்படுத்த ஒத்துழைப்பு வழங்குவதாகவும்,பயிற்சி நிலையங்களை ஆரம்பிக்க இடங்கள் உள்ளிட்ட வசதிகளை எதிர் பார்ப்பதாகவும் இதற்கான உதவிகளை தனது அறக்கட்டளை நிறுவகம் ஊடாக வழங்குவதாகவும் தெரிவித்தார்.
+The meeting was attended by many members of the Nuwara Eliya district parliamentarian and Congressman Maruthabandi Rameshwaran, P. Irajaturai, Bharat Arulzamy and many others.
 
-அத்துடன் ஆன்மீக கற்கை நெறி பாடசாலைகள் ஆரம்பித்தல், வாழும் கலை பயிற்சிகள், பெண்களுக்கான சுய தொழில் ஊக்குவிப்புகள்,உள்ளிட்ட பல்வேறு உதவிகளை தனது அறக்கட்டளை ஊடாக செய்து தருவதாகவும் குருஜி இதன் போது தெரிவித்தார்.
+Special participants in the meeting made a number of demands for Sri Sri Ravi Shankar Guruji for the welfare of the people of the hill country in Sri Lanka.
+
+Accepting the demands made, Guruji said that he would cooperate in the hill country to strengthen the activities of the Living Art Foundation in the hill country and to facilitate the opening of training centers and provide assistance through his Foundation Institute.
+
+Guruji also said that he would provide various assistance through her trust, including the starting of spiritual learning schools, living arts training, and self -employment promotions for women.
 
 ◼️
 
 [Data](articles/afcda0ff.json)
 
+[Extended Data](ext_articles/afcda0ff.ext.json)
+
 ---
 
-### எலோன் மஸ்க்கைச் சந்தித்தார் ஜனாதிபதி
+### The President met Elon Mask
 
 *2024-05-19 12:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலோன்-மஸ்க்கைச்-சந்தித்தார்-ஜனாதிபதி/175-337514) · `ta`
 
-இந்தோனேசியாவில் நடைபெற்ற 10வது உலக நீர் மன்ற உயர்மட்டக் கூட்டத்தின் போது, ​​ஜனாதிபதி ரணில் விக்கிரமசிங்க, தொழிலதிபர் எலோன் மஸ்க்கைச் சந்தித்து Starlink ஐ இலங்கையில் அமுல்படுத்துவது குறித்து கலந்துரையாடியதாக ஜனாதிபதி அலுவலகம் தெரிவித்துள்ளது.
+At the 10th World Water Forum in Indonesia, President Ranil Wickremesinghe and Elon Musk discussed bringing SpaceX's affordable Starlink internet service to Sri Lanka. Ruwan Wijewardena, a senior advisor, was present.
 
-Starlink என்பது தொலைதூர இடங்களுக்கு குறைந்த விலையில் இணையத்தை வழங்குவதற்காக தனியார் விண்வெளிப் பயண நிறுவனமான SpaceX ஆல் உருவாக்கப்பட்ட செயற்கைக்கோள் வலையமைப்பு ஆகும்.
+🟩
 
-ஜனாதிபதியின் காலநிலை விவகாரங்களுக்கான சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தனவும் எலோன் மஸ்க் உடனான ஜனாதிபதியின் சந்திப்பில் கலந்துகொண்டார்.
+President Ranil Wickremesinghe met with businessman Elon Mask during the 10th World Water Forum in Indonesia and discussed the implementation of Starlink in Sri Lanka.
+
+Starlink is a satellite network developed by a private space company, Spacex, to offer the Internet at a lower price.
+
+Ruwan Wijewardena, Senior Advisor for the President's Climate Affairs, also attended the presidential meeting with Elon Musk.
 
 ◼️
 
 [Data](articles/871bada7.json)
+
+[Extended Data](ext_articles/871bada7.ext.json)
 
 ---
 
@@ -920,17 +986,25 @@ Police say the machine is the machine that is a wind -operating machine using el
 
 ---
 
-### අධික වැස්ස නිසා දිස්ත්‍රික් හතක  ප්‍රා.ලේ. කොට්ඨාස 37 කට නාය යෑමේ අනතුරු ඇඟවීම්
+### Due to heavy rain. Landsliness warning for 37 divisions
 
 *2024-05-19 09:49:25* · [`adalk`](https://www.ada.lk/breaking_news/අධික-වැස්ස-නිසා-දිස්ත්‍රික්-හතක--ප්‍රා-ලේ--කොට්ඨාස-37-කට-නාය-යෑමේ-අනතුරු-ඇඟවීම්/11-409712) · `si`
 
-දිවයිනේ ඇතැම් ප්‍රදේශවලට ඇද හැළෙන අධික වර්ෂාව හේතුවෙන් දිස්ත්‍රික්ක හතක ප්‍රාදේශිය ලේකම් කොට්ඨාස 37 කට නාය යෑමේ අනතුරු ඇඟවීම ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් අද 19 වනදා අළුයම නිකුත් කර තිබේ.
+Heavy rain triggers landslide warnings from NBRO across 37 divisions, including Ella in Badulla, Seethawaka in Colombo, several areas in Gampaha, Kandy, and others in Kegalle and Ratnapura districts.
 
-එම සංවිධානය විසින් නිකුත් කර ඇති නාය යැමේ අනතුරු ඇඟවීමේ නිවේදනයට අනුව බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශිය ලේකම් කොට්ඨාසයට  දෙවන මට්ටමේ අනතුරු ඇඟවීම නිකුත් කර ඇති අතර එම දිස්ත්‍රික්කයේ හල්දුම්මුල්ල, හපුතලේ, බදුල්ල,හාලිඇල යන ප්‍රාදේශීය ලේකම් කොට්ඨාස  සඳහා පළමු මට්ටමේ අනතුරු ඇඟවීම නිකුත් කර තිබේ. මෙයට අමතරව, කොළඹ දිස්ත්‍රික්කයේ සීතාවක ප්‍රාදේශීය ලේකම් කොට්ඨාසය,
+🟩
 
-...
+The National Building Research Organization (NBRO) has issued the landslide to 37 divisional secretariats due to heavy rains in the island.
+
+The first level of warning has been issued to the Ella Divisional Secretariat in Badulla District which has been issued by the organization.. In addition, Seethawaka Divisional Secretariat Division of Colombo District,
+
+Divisional Secretariat Division of Gampaha District, Kandy District, Udadahalai, Udadabara, Udadabara, Udadahawala, Udadabara, Udababara, Yataugama and Ranguwara, Yataugama and Ranga in Gampaha District., Dragamuwa, Dehiola, Dehigamuwa, Kegalle, Ehengoda, Ehelagoda, Ehengoda, Ehelagoda, East, Ehelagoda, East, Ehelagoda, East, Ehelagoda, East, Ehelagoda, Ratnapura and Kuruwita.The National Building Research Organization (NBRO) has issued the first landslide warning to the secretary divisions.
+
+◼️
 
 [Data](articles/35afd63e.json)
+
+[Extended Data](ext_articles/35afd63e.ext.json)
 
 ---
 
@@ -2197,71 +2271,5 @@ The Ella – Wellawaya main road will remain closed for traffic from 8.00 p.m. t
 [Data](articles/146d5927.json)
 
 [Extended Data](ext_articles/146d5927.ext.json)
-
----
-
-### Minister Prasanna War Head of Rs.
-
-*2024-05-18 18:13:45* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය ප්‍රසන්න-රණවිරට-රුපියල්-300ක-මනි-ඕඩරයක්/11-409704) · `si`
-
-Youths delivered a complaint about a payment issue to Minister Prasanna War at Parliament, involving the Mani order and funds intended for the Dhamma Foundation. They visited the Kerandeniya Maha Etharadre Bandara Post Office and sought assistance from MP Prasanna Ranaweera regarding the missing funds.
-
-🟩
-
-A group of youths were sent to the Speaker of Parliament at the Parliament today (18) at the airport to a problem with a payment.
-
-The Mani order, including the Foundation of our Dhamma Foundation, directed the Mani order.
-
-They were taken to the Kerandeniya Maha Etheradre Bandara Post Office this afternoon and had taken this money to the MP Prasanna Ranaweera to receive his money.
-
-The lack of Rs.
-
-◼️
-
-[Data](articles/80453385.json)
-
-[Extended Data](ext_articles/80453385.ext.json)
-
----
-
-### Judges and judgments of the past
-
-*2024-05-18 18:11:00* · [`islandlk`](http://island.lk/judges-and-judgments-of-the-past/) · `en`
-
-(Excerpts from the speech mde by Ranjan Gooneratne at the launch of his book, Before Justice awakes: Birth of the jury in the Island of Ceylon)
-
-To the Romans, Justice was a goddess whose symbols were ‘a throne that tempest could not shake, a pulse that passion could not stir, eyes that were blind to any feeling of favour or ill will and a sword that fell on the offender with equal certainty’.
-
-Judges and lawyers from the nineteenth century were votaries of that goddess. They were blessed with the gift of grace, nobility of mind and intellectual humility.
-
-In the early nineteenth century, we had Alexander Johnstone as our Chief Justice. He emancipated the slaves, introduced trial by jury to our country. Lord Grey in the House of Lords said, “His contribution to the advancement of the social and cultural life of the people of Ceylon has immortalized his name”.
-
-In 1840, we had William Rough, a Sargent-at-Law, a classical scholar as our Chief Justice. He was the son-in-law of John Wilkes.
-
-...
-
-[Data](articles/7a5fe5be.json)
-
-[Extended Data](ext_articles/7a5fe5be.ext.json)
-
----
-
-### Sri Lanka’s Dinara among prestigious Forbes “30 Under 30 Asia” list
-
-*2024-05-18 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-Dinara-among-prestigious-Forbes-30-Under-30-Asia-list/108-282882) · `en`
-
-Sri Lankan actress Dinara Punchihewa is among the prestigious Forbes magazine’s “30 Under 30 Asia” entertainment and sports list.
-
-The Forbes in its feature said the 29 year old Dinara Punchihewa burst on the Sri Lankan cinema scene in 2018 by writing, acting and directing her own short film Maala, which was screened at international film festivals and caught the attention of Sri Lankan filmmaker Prasanna Vithanage, who cast her in Gaadi – Children of the Sun (2019).
-
-Since then, she has been in four other films. Punchihewa, a graduate of Queen Mary University of London, went on to found Punchi Actors, a non-profit that introduces children from low-income families to theatre and acting, said the Forbes magazine in its story titled “Meet the 30 under 30 Stars and Athletes Breaking Stereotypes and Empowering Their Generation.
-
-The Forbes’ list was determined by judges Caldecott Music Group Founder and Group CEO Kuok Meng Ru and One Co-Founder and Group President Hua Fung Teh.
-
-◼️
-
-[Data](articles/489294b7.json)
-
-[Extended Data](ext_articles/489294b7.ext.json)
 
 ---

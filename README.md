@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 15:18:17**
+As of **2024-05-19 15:33:46**
 
 ## Newspaper Stats
 
-*Scraped **24,975** Articles*
+*Scraped **24,978** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 223
 bbccomsinhala | 253
-dbsjeyarajcom | 256
+dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
@@ -19,18 +19,36 @@ adalk | 2,135
 adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
-dailymirrorlk | 3,915
-adaderanasinhalalk | 3,993
+dailymirrorlk | 3,916
+adaderanasinhalalk | 3,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,973 (100.0%) of 24,975 articles have been extended.
+24,975 (100.0%) of 24,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### ශ්‍රි ලාංකික ධීවරයින් පිරිසක් ඉන්දීය අත්අඩංගුවට
+
+*2024-05-19 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196788) · `si`
+
+මුහුදු සීමා උල්ළංඝනය කරමින් ධීවර කටයුතුවල නිරත වූ ශ්‍රි ලාංකික ධීවරයින් 7 දෙනෙකු ඉන්දීය වෙරළාරක්ෂක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඉන්දියාවේ කන්‍යකුමාරී ප්‍රදේශය ආශ්‍රිත එරට මුහුදේ දී අදාළ ධීවරයින් පිරිස අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+එම ධීවරයින් පැමිණි යාත්‍රාව ද ඉන්දීය වෙරළාරක්ෂක බළකාය විසින් ඔවුන්ගේ භාරයට ගෙන තිබුණි.
+
+පසුගිය 16 වනදා ද ඉන්දීය මුහුදු සීමාවේ ධීවර කටයුතුවල නිරත වූ ශ්‍රි ලාංකික ධීවරයින් 14 දෙනෙකු සහ යාත්‍රා 5ක් ඉන්දීය නාවික හමුදාව විසින් අත්අඩංගුවට ගැනුණි.
+
+◼️
+
+[Data](articles/da05d298.json)
+
+---
 
 ### President instructs to resume “Suraksha” insurance scheme
 
@@ -45,6 +63,8 @@ The Cabinet recently approved a Joint Cabinet Memorandum presented by President 
 ...
 
 [Data](articles/d88a1d46.json)
+
+[Extended Data](ext_articles/d88a1d46.ext.json)
 
 ---
 
@@ -135,6 +155,18 @@ The suspect was deployed in Kesbewa, Piliyandala, Kawathuduwa, Boralesgamuwa, Ba
 [Data](articles/df6640e5.json)
 
 [Extended Data](ext_articles/df6640e5.ext.json)
+
+---
+
+### Stitching Buddhist flags...
+
+*2024-05-19 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stitching-Buddhist-flags/110-282894) · `en`
+
+The picture shows employees of a self-owned business in Demetagoda stitching Buddhist flags to be sold to the public in light of the Vesak festival. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/cc67fb84.json)
 
 ---
 
@@ -1994,6 +2026,24 @@ Fifteen years after that inexpressibly sad phrase of the country’s turbulent h
 
 [Data](articles/2646cc4e.json)
 
+[Extended Data](ext_articles/2646cc4e.ext.json)
+
+---
+
+### If  the  Current situation continues, there is a danger that Sri Lankan Tamils will become a group of people that the world does not pay attention to and Tamil politicians will become a group of people who make impractical political slogans and only crow within the confines of the peninsula.
+
+*2024-05-19 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84066) · `en`
+
+Fifteen years have passed since the end of Sri Lanka’s brutal civil war, which lasted for about 30 years. None of the main political problems have been resolved. The country is not progressing economically either. Instead, we saw that all the problems worsened and the country reached a state of chaos and bankruptcy.
+
+A large part of the southern Sinhalese polity does not seem to think that there is a pressing need to find a negotiated political solution to the national ethnic problem that has torn the country apart. In these 15 years, the country has not moved an inch towards finding a political compromise that would fulfil the legitimate political aspirations of the minority communities.
+
+Even the implementation of the 13th Amendment (13A), which has been a part of the Constitution for more than three decades, has finally become impossible. In no other country in the world do we see political forces taking to the streets to protest against the implementation of a constitutional provision.
+
+...
+
+[Data](articles/f06d199c.json)
+
 ---
 
 ### Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.
@@ -2233,89 +2283,5 @@ The Liberation Tigers of Tamil Eelam (LTTE) also participated in abductions, whi
 [Data](articles/f54ee1f0.json)
 
 [Extended Data](ext_articles/f54ee1f0.ext.json)
-
----
-
-### A revelation of our people in Russian war training school
-
-*2024-05-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196766) · `si`
-
-Retired soldiers from Sri Lanka recount harsh realities of Russian war training: inadequate pay, poor living conditions, and severe injuries without proper care.
-
-🟩
-
-Russian-Ukrainian battlefronts, several retired soldiers who had fled the country with severe injury to the country and had expressed their terrible and bitter experiences.
-
-They say they have not received any of the high wages and various facilities, but none of them were due properly.
-
-Lalith Shantha, a resident of Dambagalla, who had retired and returned to Russia in the Commando Regiment, Lalith Shantalla, who came to Sri Lanka, described her experiences.
-
-"There were about 16 people.. Put on one place. It was placed in the front line of security. Mortar was attacked. The shoulder, knee and substance was hit. About 8kcilotors I dragged the leg. There is a technical war. It's hard to win. The food is not giving. No facilities. The tende have to be inside the hut. Excessive cold. The very difficulty was lived a life. Said citizenship, facilitating children, they said a lot. But none of that got anything. "
-
-...
-
-[Data](articles/8b5e3c4f.json)
-
-[Extended Data](ext_articles/8b5e3c4f.ext.json)
-
----
-
-### The police take the back and brutally assaulted a suspect
-
-*2024-05-18 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196765) · `si`
-
-In a shocking incident, a former police sergeant, banned from service for 17 years, was brutally assaulted by a group of police officers in Sri Lanka. The officers targeted him because he wore a T-shirt with the Sri Lankan police logo while dining in a cafeteria. The victim, who had served as a police sergeant for 17 years, primarily worked as a building construction contractor after his ban. This case highlights a disturbing act of violence against a former law enforcement official by current officers, leading to his hospitalization at the Colombo South Teaching Hospital.
-
-🟩
-
-A group of police officers attacked a person to wear a shirt with a shirt with the Sri Lankan police logo.
-
-The victim was a former police sergeant who was banned for 17 years.
-
-The source of income of the police for 17 years was to serve a building construction contractor.
-
-After the work was completed on the 14 night, he had gone to a cafeteria for some nights.
-
-The former police sergeant was then worn with a T-shirt with the police officer who had obtained over the time spent on the Sri Lankan police.
-
-At the time, about two officers in police uniform and 6 officers dressed in civilian clothing were eating in the cafeteria.
-
-The officers were later questioned about the T-Shirt of T-Shirt.
-
-He said he was a police in the ministry for 17 years.
-
-The police officers were then taken to the back and hit the police station in Kohuwala police station.
-
-The former sergeant had been hospitalized, by the contract company.
-
-He was receiving treatment at the Colombo South Teaching Hospital.
-
-◼️
-
-[Data](articles/be2de439.json)
-
-[Extended Data](ext_articles/be2de439.ext.json)
-
----
-
-### Sri Lanka seeks to draw youth into agri-entrepreneurship with Rs1.6bn funding
-
-*2024-05-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-to-draw-youth-into-agri-entrepreneurship-with-1-6bn-funding-163562/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Agriculture and Plantation Industries has earmarked 1.6 billion rupees for the establishment of 160 model farms across the island, that are to be owned and operated by youth agri-entrepreneurs.
-
-“The Ministry of Agriculture and Plantation Industries has taken steps to allocate 1,600 million rupees to establish 160 villages in 25 districts with 6 youth agri entrepreneurship villages in each district,” Minister Mahinda Amaraweera was quoted in a statement.
-
-“Arrangements have been made to provide an amount of one million rupees to each village under the first phase.”
-
-The Minister said the aim of the program is to attract youth to agriculture and to introduce them to new agricultural technology, so they could target local markets and exports.
-
-Under the initiative vegetables, fruits, plantation crops, and fish are to be harvested, and livestock products are to be produced in the villages. (Colombo/May18/2024)
-
-◼️
-
-[Data](articles/4768b83e.json)
-
-[Extended Data](ext_articles/4768b83e.ext.json)
 
 ---

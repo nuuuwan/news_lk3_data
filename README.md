@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 16:03:29**
+As of **2024-05-19 16:18:14**
 
 ## Newspaper Stats
 
-*Scraped **24,980** Articles*
+*Scraped **24,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,36 @@ adalk | 2,135
 adaderanalk | 2,891
 tamilmirrorlk | 2,930
 virakesarilk | 3,764
-dailymirrorlk | 3,916
+dailymirrorlk | 3,917
 adaderanasinhalalk | 3,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,979 (100.0%) of 24,980 articles have been extended.
+24,980 (100.0%) of 24,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
 
-### විවාදයට සජබය අනුරට දින දෙයි
+### Image to the debate
 
 *2024-05-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196790) · `si`
 
-සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය අතර යෝජිත විවාද සඳහා දින යෝජනා කරමින් සමගි ජන බලවේගය විසින් ජාතික ජන බලවේගයට ලිපියක් යොමුකර තිබේ.
+Reconciliation proposes debates with National Power, scheduled for June 3rd, 5th, and 6th, as per the article.
 
-එම ලිපිය අනුව දෙපාර්ශ්වයේ ආර්ථික කමිටු අතර විවාදය 2024 මැයි මස 27, 28, 29, 30, 31 යන දිනවලින් එකකදීද නායකයින් අතර විවාදය 2024 ජුනි මස 03, 04, 05, 06 හෝ 07 යන දිනවලින් එක් දිනයකදී පැවැත්වීමටත් යෝජනා කර ඇත.
+🟩
+
+The reconciliation has sent a letter to the national power by proposing to the proposed debates between the reconciliation and national power.
+
+According to the article, the debate between the leaders of both parties 27, 28, 29, 04, 06, 06, 06, 05, 06, will be held on June 03, 05, 06.
 
 ◼️
 
 [Data](articles/0e1eae1b.json)
+
+[Extended Data](ext_articles/0e1eae1b.ext.json)
 
 ---
 
@@ -497,6 +503,24 @@ The Presidential Media Unit has also been discussed on the process of applying f
 [Data](articles/e5096484.json)
 
 [Extended Data](ext_articles/e5096484.ext.json)
+
+---
+
+### Ranil meets Elon Musk
+
+*2024-05-19 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ranil-meets-Elon-Musk/155-282892) · `en`
+
+Bali, May 19 (Daily Mirror) - President Ranil Wickremesinghe met Elon Musk in Bali and spoke about Sri Lanka being connected to the starlink network.
+
+President Wickremesinghe left for Indonesia yesterday to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
+
+The 10th World Water Forum is being held from May 18 to 20 in Bali, Indonesia.
+
+Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended the President's meeting with Elon Musk.
+
+◼️
+
+[Data](articles/795ce4c6.json)
 
 ---
 
@@ -2275,27 +2299,5 @@ The special oven have been built in the Vanathawilluwa, Puttalam belonging to th
 [Data](articles/35768b42.json)
 
 [Extended Data](ext_articles/35768b42.ext.json)
-
----
-
-### Gurudev Sri Ravi Shankar welcomed Thennakoon and Senthil Thondaman
-
-*2024-05-18 21:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருதேவ்-ஸ்ரீ-ஸ்ரீ-ரவிசங்கரை-வரவேற்ற-தென்னகோன்-செந்தில்-தொண்டமான்/175-337471) · `ta`
-
-Gurudev Sri Ravi Shankar, a spiritual leader and peace ambassador, was welcomed by Sri Lanka's Minister of Defense Bandara Thennakoon and Governor Senthil Thondaman upon his arrival. He will stay until May 20, attending events including 'Music, Meditation, and Wisdom'.
-
-🟩
-
-Gurudev Sri Ravi Shankar, a renowned spiritual leader and world peace ambassador to Sri Lanka, was officially welcomed by the Minister of Defense Bandara Thennakoon today (May 18) at the Bandaranaike International Airport.
-
-The Governor of the Eastern Province, Hon. Senthil Thondaman also welcomed the Minister of State.
-
-Gurudev, who is staying in Sri Lanka from May 18 to 20, will also attend the event at the Taj Samudra Hotel, Colombo on May 19, and will also attend the event called 'Music, Meditation and Wisdom'.. Remble
-
-◼️
-
-[Data](articles/536eb7ff.json)
-
-[Extended Data](ext_articles/536eb7ff.ext.json)
 
 ---

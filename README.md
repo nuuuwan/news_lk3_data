@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 18:51:50**
+As of **2024-05-19 19:03:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,996 (100.0%) of 24,999 articles have been extended.
+24,999 (100.0%) of 24,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,35 +136,49 @@ The letter has also requested for an immediate response from the NPP in this reg
 
 ---
 
-### ஜனாதிபதியுடன் இந்தோனேசிய அமைச்சர் சந்திப்பு
+### Indonesian minister meets president
 
 *2024-05-19 17:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-இந்தோனேசிய-அமைச்சர்-சந்திப்பு/175-337541) · `ta`
 
-இந்தோனேசியாவுக்கான உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க, இந்தோனேசியா குடியரசின் கடல்சார் மற்றும் முதலீட்டு விவகாரங்களின் ஒருங்கிணைப்பு அமைச்சர் லுஹுட் பின்சார் பந்த்ஜைதனை சந்தித்ததாக ஜனாதிபதியின் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+During President Ranil Wickremesinghe's visit to Indonesia, he met with Indonesian officials to discuss Sri Lanka's initiatives in the Global Blended Finance Alliance, focusing on the blue economy, seaweed industry, and mangrove cultivation. They also explored cooperation between South Prabhu countries and established a bilateral task committee. Issues related to the Hindu Ocean Border (IRA) leadership and Sri Lanka's role were addressed, with representatives from both nations present.
 
-இச்சந்திப்பில், Global Blended Finance Alliance அமைப்பின் நாடுகள், வெப்ப வலயத்திற்கான இலங்கையின் முன்னெடுப்பு ,நீலப் பொருளாதாரம் மற்றும் கடற்பாசி தொழில் துறை குறித்து கலந்துரையாடப்பட்டது.
+🟩
 
-அதேபோல், தென்துருவ நாடுகளுக்கிடையிலான ஒத்துழைப்பு, சதுப்புநில பயிர்ச்செய்கை தொடர்பான ஒத்துழைப்பு வேலைத்திட்டத்திற்காக ஆராய்ச்சி ஒத்துழைப்பு உள்ளிட்ட நடவடிக்கைகள் தொடர்பிலும் ஆராயப்பட்டது.
+President Ranil Wickremesinghe, who is on an official visit to Indonesia, met with the Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia, Luhud binzar, the President's media unit said.
 
-ஒருங்கிணைக்க இருதரப்பு பணிக்குழுவை நிறுவுதல் உள்ளிட்ட விடயங்கள் தொடர்பில் ஆராயப்பட்டது. இந்துச் சமுத்திர எல்லை நாடுகளில் (IORA) தற்போதைய தலைவராக இலங்கையின் வகிபாகம் உள்ளிட்ட விடயங்கள் குறித்தும் ஆலோசிக்கப்பட்டது.
+In this regard, the countries of the Global Blended Finance Alliance Organization discussed Sri Lanka's initiative, blue economy and seaweed industry.
+
+Similarly, the cooperation of the South Prabhu countries and the research cooperation for the cooperation on mangrove cultivation was also investigated.
+
+Integrated on issues including the establishment of bilateral task committee to coordinate. The current leader of the Hindu Ocean Border (IRA) was also consulted on issues including Sri Lanka's role.
+
+Representing Sri Lanka at the meeting. Senior Additional Secretary Anil Jasinghe and others were present.
 
 ...
 
 [Data](articles/dff7e983.json)
 
+[Extended Data](ext_articles/dff7e983.ext.json)
+
 ---
 
-### இலங்கை மீனவரைக் கைது செய்த இந்தியக் கரையோரக் காவற்படை
+### Indian Coast Guard arrested Sri Lankan fisherman
 
 *2024-05-19 17:15:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவரைக்-கைது-செய்த-இந்தியக்-கரையோரக்-காவற்படை/175-337540) · `ta`
 
-இந்தியக் கடற்படரப்பில் சட்டரீதியற்ற முறையில் மீன்பிடித்தமைக்காக இயந்திரப் படகொன்றுடன் இலங்கையர் எழுவரை இந்தியக் கரையோரக் காவற்படை ஒன்றாகக் கைது செய்துள்ளது.
+The Indian Coast Guard detained 14 Sri Lankan fishermen near Point Pedro for crossing international waters and poaching in the Indian navy's territory.
 
-பருத்தித்துறையிலிருந்து சென்ற இலங்கை மீனவர் 14 பேரை வியாழக்கிழமை, சர்வதேசக் கடல் எல்லையைத் தாண்டியமைக்காகவும், கடலட்டை பிடித்தமைக்காக ஐந்து படகுகளுடன் இந்தியக் கரையோரக் காவற்படை கைது செய்திருந்தது.
+🟩
+
+The Indian Coast Guard has arrested Sri Lankans with a machine for illegally fishing in the Indian Navy.
+
+On Thursday, the Indian coastal police force arrested 14 Sri Lankan fishermen from Point Pedro to cross the international waters and to the sea.
 
 ◼️
 
 [Data](articles/854f310b.json)
+
+[Extended Data](ext_articles/854f310b.ext.json)
 
 ---
 
@@ -653,6 +667,8 @@ Consequently, the electorate grapples with disillusionment and disenchantment, t
 ...
 
 [Data](articles/dedd2555.json)
+
+[Extended Data](ext_articles/dedd2555.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 08:33:51**
+As of **2024-05-19 08:52:45**
 
 ## Newspaper Stats
 
-*Scraped **24,901** Articles*
+*Scraped **24,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,434
 dailyftlk | 1,464
 adalk | 2,124
 adaderanalk | 2,883
-tamilmirrorlk | 2,915
+tamilmirrorlk | 2,916
 virakesarilk | 3,752
 dailymirrorlk | 3,906
 adaderanasinhalalk | 3,979
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,901 (100.0%) of 24,901 articles have been extended.
+24,901 (100.0%) of 24,902 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,6 +249,22 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 [Data](articles/9e0cbd03.json)
 
 [Extended Data](ext_articles/9e0cbd03.ext.json)
+
+---
+
+### ’மின் கட்டணங்களை குறைக்க முடியும்’
+
+*2024-05-19 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணங்களை-குறைக்க-முடியும்/175-337478) · `ta`
+
+அடுத்த இரண்டு மாதங்களுக்குள் மின் கட்டணங்களை குறைக்க முடியும் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+உமா ஓயா மின்னுற்பத்தி திட்டத்தினூடாக தேசிய மின் கட்டமைப்பிற்கு 120 மெகாவாட் மேலதிக மின்சாரம் கிடைக்கின்றமை கட்டணக் குறைப்பு விடயத்தில் நேரடி தாக்கம் செலுத்துவதாக பிரதமர் சுட்டிக்காட்டியுள்ளார்.
+
+இதற்கமைய, மின் கட்டணத்தைக் குறைப்பது தொடர்பில் கலந்துரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளன என பிரதமர் தெரிவித்துள்ளார்.  (a)
+
+◼️
+
+[Data](articles/a4357699.json)
 
 ---
 
@@ -2325,23 +2341,5 @@ A group of top officials of the Presidential Secretariat and the Ministry of Ext
 [Data](articles/81dcf10d.json)
 
 [Extended Data](ext_articles/81dcf10d.ext.json)
-
----
-
-### Sri Lanka to vie at Asian Relays in Thailand
-
-*2024-05-18 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-vie-at-Asian-Relays-in-Thailand/108-282823) · `en`
-
-(Daily Mirror) - The Sri Lanka Mixed Relay Team will leave for Bangkok on Sunday to participate in the Inaugural Asian Athletic Relay Championships – Paris Olympic Games Qualifying Meet – on May 20 and 21 in Thailand.
-
-The Sri Lanka contingent for the Inaugural Asian Athletic Relay Championships will include 23 athletes (Men and Women) and five coaches.
-
-The Inaugural Asian Athletic Relay Championships will include events for 4X100m Men and Women, 4X400m Men and Women and 4X400m Mixed Relay events.
-
-...
-
-[Data](articles/3e8bb26b.json)
-
-[Extended Data](ext_articles/3e8bb26b.ext.json)
 
 ---

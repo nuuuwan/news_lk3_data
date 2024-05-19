@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 06:59:57**
+As of **2024-05-19 07:23:23**
 
 ## Newspaper Stats
 
-*Scraped **24,893** Articles*
+*Scraped **24,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 2,882
 tamilmirrorlk | 2,913
 virakesarilk | 3,752
 dailymirrorlk | 3,906
-adaderanasinhalalk | 3,976
+adaderanasinhalalk | 3,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,889 (100.0%) of 24,893 articles have been extended.
+24,892 (100.0%) of 24,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### දිස්ත්‍රික්ක 07කට නායයෑම් අනතුරු ඇඟවීමක්
+
+*2024-05-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196770) · `si`
+
+දිස්ත්‍රික්ක 07ක් සඳහා බලපැවැත්වෙන පරිදි නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+
+එම සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පැවසුවේ අද (19) අලුයම 03 සිට හෙට (20) අලුයම 03 දක්වා බලපැවැත්වෙන පරිදි එම අනතුරු ඇඟවීම් නිකුත් කර ඇති බවයි.
+
+ඒ අනුව අදියර 02 යටතේ වන අනතුරු ඇගවීමේ නිවේදන බදුල්ල දිස්ත්‍රික්කයේ ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත නිකුත් කර තිබේ.
+
+බදුල්ල දිස්ත්‍රික්කයේ තවත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 04ක් සඳහා මෙන්ම මහනුවර, කෑගල්ල, රත්නපුර, කළුතර, කොළඹ සහ ගම්පහ යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 33ක් සඳහා අදියර 1 යටතේ වන එම නායයෑම් අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කළ බව  ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/eb14b06e.json)
+
+---
+
+### වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක්
+
+*2024-05-19 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196769) · `si`
+
+ශ්‍රී ලංකාව සහ අවට මුහුදු ප්‍රදේශ ආශ්‍රිතව පවතින පෙර-මෝසම් කාලගුණික ලක්ෂණ හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වයේ වැඩිවීමක් ඉදිරි දින කිහිපයේදී තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුය සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුළින් බරව පවතිනු ඇති බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වලත් මන්නාරම දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල අද (19) ප.ව. 01.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩිතද වැසි ඇතිවේ.
+
+දකුණු පළාතේ විටින්විට පැ.කි.මී. (30-40)ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/aab9e2c6.json)
+
+---
 
 ### ROYAL HONOUR FOR SRI LANKAN BORN NEW ZEALANDER
 
@@ -106,21 +148,27 @@ The village is named after Sri Lanka’s hero King Dutugemunu. who ruled from 16
 
 ---
 
-### அதிக மழையுடனான வானிலை தொடரும்
+### The weather will continue with high rainfall
 
 *2024-05-19 01:26:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-மழையுடனான-வானிலை-தொடரும்/175-337476) · `ta`
 
-மழை மற்றும் காற்றுடனான வானிலை அதிகரிப்பு ஏற்படுமென எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall and strong winds are forecasted nationwide, with over 100mm recorded in several areas. Expect thunderstorms in the afternoon across the country.
 
-நாட்டை சூழவுள்ள கடற்பிராந்தியங்களை அண்மித்து ஏற்பட்டுள்ள, பருவப்பெயர்ச்சிக்கு முன்னரான தளம்பல் நிலையில் ஏற்பட்டுள்ள அதிகரிப்பு காரணமாக எதிர்வரும் நாள்களில் அதிக மழையுடனான வானிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-இதற்கமைய, நாட்டின் பல பகுதிகளிலும் 100 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகுமென எதிர்வுகூறப்பட்டுள்ளது.
+The Department of Meteorology said it is expected to increase rain and wind weather.
 
-நாட்டின் பல பகுதிகளிலும் பிற்பகல் வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடுமெனவும் தெரிவிக்கப்பட்டுள்ளது. (a)
+The Department of Meteorology has stated that heavy rainfall will prevail in the coming days due to an increase in the pre -adolescence, which is near the country's seas.
+
+Accordingly, more than 100mm of rainfall has been reported in many parts of the country.
+
+It has also been reported that rain or thunderstorms will occur in many parts of the country in the afternoon. (A)
 
 ◼️
 
 [Data](articles/06669013.json)
+
+[Extended Data](ext_articles/06669013.ext.json)
 
 ---
 
@@ -640,6 +688,8 @@ St. Joseph church in Paiyagala has a beautiful façade and a belfry. Its nave is
 
 [Data](articles/7f3df65d.json)
 
+[Extended Data](ext_articles/7f3df65d.ext.json)
+
 ---
 
 ### Ella–Wellawaya road temporarily closed again tonight
@@ -673,6 +723,8 @@ In 1840, we had William Rough, a Sargent-at-Law, a classical scholar as our Chie
 ...
 
 [Data](articles/7a5fe5be.json)
+
+[Extended Data](ext_articles/7a5fe5be.ext.json)
 
 ---
 
@@ -2293,47 +2345,5 @@ In the meantime, President Ranil Wickremesinghe is scheduled to hold bilateral t
 [Data](articles/5dca69c6.json)
 
 [Extended Data](ext_articles/5dca69c6.ext.json)
-
----
-
-### IMF commends SL’s progress achieved thus far
-
-*2024-05-18 08:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-commends-SLs-progress-achieved-thus-far/108-282873) · `en`
-
-The International Monetary Fund (IMF) this week commended the progress achieved by Sri Lanka thus far in rolling out the economic reforms, the majority of which have been rather painful to the general public.
-
-The Fund noted that the outcomes of the efforts taken to bring the economy on track are now evident as key indicators are showing improvements.
-
-“With respect to Sri Lanka’s economic performance, Macroeconomic policies in Sri Lanka are starting to bear fruit. Commendable outcomes include a rapid decline in inflation, robust reserve accumulation, and initial signs of economic growth, while also preserving stability in the financial system,” said IMF Director of Communications Julie Kozack speaking to journalists in Washington D.C. yesterday.
-
-...
-
-[Data](articles/d1337f28.json)
-
-[Extended Data](ext_articles/d1337f28.ext.json)
-
----
-
-### Sri Lanka mulls mandating prices for shopping bags in supermarkets
-
-*2024-05-18 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-forced-charges-for-shopping-bags-in-supermarkets-only-163506/) · `en`
-
-ECONOMYNEXT – Sri Lanka may end the practice of supermarkets giving free shopping bags, as part of efforts to contain plastic use according to deliberations at a parliamentary committee following a supreme court decision.
-
-Sri Lanka’s courts many years ago barred supermarkets from charging for plastic bags from customers after activists went to court.
-
-However a Supreme Court ruled in March this year to overturn that.
-
-The parliament Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development said it could not reverse the gazette issued under the Consumer Affairs Authority Act until it had received a copy of the ruling.
-
-The committee said the ruling might prompt shoppers to bring their own bags, which would lead to a reduction in polythene waste.
-
-It may only apply to supermarkets and not to smaller merchants, however. (Colombo/May18/2024)
-
-◼️
-
-[Data](articles/12213732.json)
-
-[Extended Data](ext_articles/12213732.ext.json)
 
 ---

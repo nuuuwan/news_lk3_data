@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-19 15:03:42**
+As of **2024-05-19 15:18:17**
 
 ## Newspaper Stats
 
-*Scraped **24,971** Articles*
+*Scraped **24,975** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 223
 bbccomsinhala | 253
-dbsjeyarajcom | 255
+dbsjeyarajcom | 256
 newsfirstlk | 363
 islandlk | 1,352
 economynextcom | 1,436
 dailyftlk | 1,464
 adalk | 2,135
-adaderanalk | 2,890
+adaderanalk | 2,891
 tamilmirrorlk | 2,930
-virakesarilk | 3,762
+virakesarilk | 3,764
 dailymirrorlk | 3,915
 adaderanasinhalalk | 3,993
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 3,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-24,971 (100.0%) of 24,971 articles have been extended.
+24,973 (100.0%) of 24,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-19 (Sunday)
+
+### President instructs to resume “Suraksha” insurance scheme
+
+*2024-05-19 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99314/president-instructs-to-resume-suraksha-insurance-scheme) · `en`
+
+President Ranil Wickremesinghe has directed the resumption of the “Suraksha” student insurance program, which was temporarily suspended due to economic challenges. Starting from the first week of June, all school students across the island will once again be able to benefit from this insurance scheme.
+
+The Cabinet recently approved a Joint Cabinet Memorandum presented by President Wickremesinghe, who also serves as the Minister of Finance, Economic Stabilization, and National Policy, alongside the Minister of Education Dr. Susil Premajayantha.
+
+“Suraksha” student insurance was originally implemented in 2017 by the then Prime Minister, based on a concept by President Wickremesinghe. The program aims to ensure continuous education for students affected by health issues and to increase school attendance by safeguarding student safety. It ran until December 1, 2022, but had to be temporarily halted due to economic constraints.
+
+...
+
+[Data](articles/d88a1d46.json)
+
+---
+
+### General candidate experience
+
+*2024-05-19 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/183943) · `ta`
+
+Tamil party hesitates over a referendum on Sri Lanka's Tamil issues.
+
+🟩
+
+The Tamil party seems to be reluctant to agree to a referendum among the Tamil people in Sri Lanka.
+
+◼️
+
+[Data](articles/22d6bc58.json)
+
+[Extended Data](ext_articles/22d6bc58.ext.json)
+
+---
+
+### A step in achieving the goals of a private defined company
+
+*2024-05-19 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183941) · `ta`
+
+Starting a private defined company in Sri Lanka offers benefits like limited liability, reliability, tax advantages, and growth potential. It requires careful planning, expert guidance, and dedication to help achieve personal goals effectively.
+
+🟩
+
+Registration for individuals who want to start a new business in Sri Lanka is a great choice for a private defined company. Provides many benefits, including limited responsibility, increased reliability, tax benefits and opportunities for growth. With planning, expert advice and hard work, the private defined company will be an effective tool to achieve your life goals.
+
+◼️
+
+[Data](articles/e795fb12.json)
+
+[Extended Data](ext_articles/e795fb12.ext.json)
+
+---
 
 ### BOI concerned over proposed Economic Transformation Act
 
@@ -1930,6 +1982,20 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 
 ---
 
+### Is s it too much to allow the North and the East to remember lives of their loved ones felled in the conflict as much as the Sinhala-South remembers their fallen soldiers?
+
+*2024-05-19 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84064) · `en`
+
+If the Sri Lankan State tried with all its might and main to look ridiculous in the eyes of the world, it could not do better than the preposterous performance of law enforcement agencies in the North and East during the formal remembrance of those who died during the ending of Sri Lanka’s decades-old ethnic conflict on May 18th each year.
+
+Fifteen years after that inexpressibly sad phrase of the country’s turbulent history with images of emaciated men, women and children of the Wanni emerging out of the blood soaked sands of Mullivaikkal with haunted eyes, we have state agents performing miserable antics that only play into global anti-Sri Lanka propaganda machines with gusto. This is the result of police panjandrums acting to the directive of an Inspector General of Police whose record stands in abrupt contrast even when compared to his less than perfect immediate predecessors and his patron, the Minister of Public Security whose own record is no better.
+
+...
+
+[Data](articles/2646cc4e.json)
+
+---
+
 ### Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.
 
 *2024-05-19 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84062) · `en`
@@ -2251,97 +2317,5 @@ Under the initiative vegetables, fruits, plantation crops, and fish are to be ha
 [Data](articles/4768b83e.json)
 
 [Extended Data](ext_articles/4768b83e.ext.json)
-
----
-
-### Sri Lanka seeks to draw youth into agri-entrepreneurship with Rs1.6bn funding
-
-*2024-05-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-to-draw-youth-into-agri-entrepreneurship-with-rs1-6bn-funding-163562/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Agriculture and Plantation Industries has earmarked 1.6 billion rupees for the establishment of 160 model farms across the island, that are to be owned and operated by youth agri-entrepreneurs.
-
-“The Ministry of Agriculture and Plantation Industries has taken steps to allocate 1,600 million rupees to establish 160 villages in 25 districts with 6 youth agri entrepreneurship villages in each district,” Minister Mahinda Amaraweera was quoted in a statement.
-
-“Arrangements have been made to provide an amount of one million rupees to each village under the first phase.”
-
-The Minister said the aim of the program is to attract youth to agriculture and to introduce them to new agricultural technology, so they could target local markets and exports.
-
-Under the initiative vegetables, fruits, plantation crops, and fish are to be harvested, and livestock products are to be produced in the villages. (Colombo/May18/2024)
-
-◼️
-
-[Data](articles/e11d444c.json)
-
-[Extended Data](ext_articles/e11d444c.ext.json)
-
----
-
-### Western Discontents, Modi’s New India, And Sri Lankan Anniversaries
-
-*2024-05-18 19:39:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/western-discontents-modis-new-india-and-sri-lankan-anniversaries/) · `en`
-
-The attempted assassination of Slovakian Prime Minister Robert Fico has sent shivers down western spines. In a rare moment of unity, both Joe Biden and Vladimir Putin condemned the shooting. The identity of the arrested shooter has not been made public, but he is believed to be a 71 year old poet and writer violently protesting the Fico government’s attacks on media freedom including the replacement of Slovakia’s independent public broadcaster, RTVS, with a pro-government and ‘patriotic’ mouthpiece. The small country of five million that was born out of the 1993 dissolution of Czechoslovakia, in that famous “velvet divorce,” is now feared to be on the brink of more internal divisions and instability. And it has put Europe itself on edge.
-
-...
-
-[Data](articles/ead226ee.json)
-
-[Extended Data](ext_articles/ead226ee.ext.json)
-
----
-
-### Woman assassinating the victim
-
-*2024-05-18 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196764) · `si`
-
-Chandrika Perera, a 57-year-old woman from Alatapola, Eheliyagoda, was reported missing after visiting a shrine in Kiriella. Her son filed a complaint on April 24th, leading to a phone analysis revealing numerous calls from her number. The investigation led to a drug-addicted individual in Kiriella, who admitted to being involved with the victim and confessed to murdering Chandrika. He claimed she was taken to the jungle, killed, and her body hidden. The case remains under investigation.
-
-🟩
-
-A woman who was unconscious was unconscious because he worn to protect him by a demon.
-
-It is reported that his disciple was supported by the delegation of the devi.
-
-Chandrika Perera is a 57 year old resident of the Alatapola, Eheliyagoda.
-
-Throughout the recent past, she constantly carried out the peacefulness of the peace that his family could not burn into their family.
-
-She recently visited a deviation in Kiriella to remove the genonds and protection.
-
-She tried to remove a genius at a cost of Rs.
-
-Meanwhile, her son had lodged a complaint with Eheliyagoda police because she had no information about her on the 24th of April.
-
-Accordingly, the Eheldiyagoda Police had obtained a telephone analysis through Chandrika's mobile number.
-
-The police were observed where the police had received a number of calls from her phone on April 24.
-
-It has also been observed to the police that she had also made calls.
-
-...
-
-[Data](articles/c65070ea.json)
-
-[Extended Data](ext_articles/c65070ea.ext.json)
-
----
-
-### Gurudev Sri Sri Ravi Shankar arrives in Sri Lanka
-
-*2024-05-18 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99304/gurudev-sri-sri-ravi-shankar-arrives-in-sri-lanka) · `en`
-
-The Global Peace Ambassador and Spiritual Leader Gurudev Sri Sri Ravi Shankar arrived in Sri Lanka this afternoon (18), on a three-day visit.
-
-State Minister of Defence Premitha Bandara Tennakoon received the Spiritual Leader at the Bandaranaike International Airport (BIA) in Katunayake upon his arrival in the island. Governor of Eastern Province Senthil Thondaman also joined the State Minister on this occasion.
-
-He will stay in Sri Lanka from May 18 to 20 and is slated to attend an event titled ‘Ekamuthuva:   An   Evening   of   Music,   Meditation   and   Wisdom’   to be held at Taj Samudra on May 19.
-
-Gurudev Sri Sri Ravi Shankar is an Indian yoga guru and a spiritual leader popularly known as a global humanitarian and peace envoy. He is the founder of ‘Transcendental Meditation’.
-
-◼️
-
-[Data](articles/67f5961d.json)
-
-[Extended Data](ext_articles/67f5961d.ext.json)
 
 ---

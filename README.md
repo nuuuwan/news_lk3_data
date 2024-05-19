@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 03:33:56**
+As of **2024-05-20 03:52:24**
 
 ## Newspaper Stats
 
-*Scraped **25,066** Articles*
+*Scraped **25,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,353
 economynextcom | 1,439
-dailyftlk | 1,469
+dailyftlk | 1,480
 adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
@@ -26,11 +26,193 @@ adaderanasinhalalk | 4,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,066 (100.0%) of 25,066 articles have been extended.
+25,066 (100.0%) of 25,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Nihal Hettiarachchi and Company celebrates 40 years of excellence
+
+*2024-05-20 03:29:04* · [`dailyftlk`](https://www.ft.lk/business/Nihal-Hettiarachchi-and-Company-celebrates-40-years-of-excellence/34-762009) · `en`
+
+NHCo marked its 40th anniversary with an event held on 16 May at the newly constructed NHCo Upskill Centre in the presence of a gathering of some long-standing clients and NHCo alumni members who worked tirelessly to contribute to the success of the firm over the past four decades.
+
+It was a fitting occasion to reflect on NHCo’s remarkable journey, milestones, and enduring commitment in providing exceptional client services in accordance with our philosophies of achieving the right balance in everything we do. Established in 1984 under the visionary leadership of Nihal Hettiarachchi, NHCo’s humble beginnings have blossomed into a thriving firm of chartered accountants today.
+
+...
+
+[Data](articles/e2580170.json)
+
+---
+
+### World Bank to host roundtable on Advancing Energy Transition in Colombo
+
+*2024-05-20 03:25:38* · [`dailyftlk`](https://www.ft.lk/business/World-Bank-to-host-roundtable-on-Advancing-Energy-Transition-in-Colombo/34-762008) · `en`
+
+Power and Energy Minister Kanchana Wijesekera announced yesterday that the World Bank will organise a roundtable discussion on Advancing Energy Transition on May 29 in Colombo.
+
+Minister Wijesekera, via a post on X, noted that a preliminary discussion about the event took place last week with the World Bank team at the Ministry of Power and Energy.
+
+“The program will focus on attracting investments in the renewable energy sector, accelerating energy transition, green hydrogen programs, and scaling up private investments,” the Minister added.
+
+He also noted that the event will see the participation of energy and financial experts from development agencies, industry stakeholders, and officials from the relevant ministries.
+
+The roundtable is part of broader efforts to foster investment and innovation in renewable energy, ensuring a greener and more resilient energy future for the country.
+
+◼️
+
+[Data](articles/63e51257.json)
+
+---
+
+### Dedigama seeks Court intervention to protect famous ‘Dedigama’ trade name
+
+*2024-05-20 03:24:22* · [`dailyftlk`](https://www.ft.lk/business/Dedigama-seeks-Court-intervention-to-protect-famous-Dedigama-trade-name/34-762007) · `en`
+
+The Sri Lankan leader and pioneer in the pawn brokering and gold loan industry - Dedigama Group Ltd., represented by its legal representatives Sudath Perera Associates, has resorted to legal action against another entity engaging in the same pawn brokering and gold loan entity operating under an identical trade name.
+
+...
+
+[Data](articles/d876d68b.json)
+
+---
+
+### Sri Lanka celebrates International Tea Day 2024 tomorrow
+
+*2024-05-20 03:23:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-celebrates-International-Tea-Day-2024-tomorrow/34-762006) · `en`
+
+As the world commemorates International Tea Day on May 21, Ceylon Tea stands proudly at the forefront, celebrating its rich heritage, unparalleled quality, and global significance.
+
+Renowned for its unique flavour profile and exquisite aroma, Ceylon Tea has captivated tea enthusiasts worldwide for generations. Originating from the lush hillsides of Sri Lanka, this beloved brew continues to enchant connoisseurs and novices alike, embodying a tradition of excellence that spans centuries.
+
+International Tea Day serves as a poignant reminder of the profound cultural and economic impact of tea on societies across the globe. From cherished moments of relaxation to bustling tea auctions, tea plays an integral role in fostering connections and enriching lives.
+
+...
+
+[Data](articles/2deacc9b.json)
+
+---
+
+### Thousands of Tamils converge at Mullivaaikkaal
+
+*2024-05-20 03:20:38* · [`dailyftlk`](https://www.ft.lk/news/Thousands-of-Tamils-converge-at-Mullivaaikkaal/56-762005) · `en`
+
+Mullivaikkal remembrance event held on May 18, 2024, in Mullaitivu, in Sri Lanka’s Northern Province. Tamil families gathered to pay tribute to their loved ones killed in war - Photo Credit: Meera Srinivasan
+
+Thousands of Tamils on 18 May converged in Mullaivaikkal, along Sri Lanka’s north-eastern coast, to pay homage to their relatives killed in May 2009, in the final battle of the island’s protracted civil war.
+
+As the war escalated before its gruesome end, lakhs of Tamil civilians were pushed to this narrow strip of land, declared a ‘No Fire Zone’ by the Government. Tens of thousands, including women and children, died in the indiscriminate shelling of the armed forces, while scores were seriously injured.
+
+Families gathered at the venue on Saturday and placed photographs of their loved ones in the sandy ground near the sea, offered prayers with flowers, food, and by lighting lamps. Antony Jesurathnam Mariapushparani, a Mullaitivu resident, has vivid images from 18 May, 15 years ago.
+
+...
+
+[Data](articles/6a897856.json)
+
+---
+
+### US stands with Sri Lankans seeking justice, says Ambassador Chung
+
+*2024-05-20 03:19:51* · [`dailyftlk`](https://www.ft.lk/news/US-stands-with-Sri-Lankans-seeking-justice-says-Ambassador-Chung/56-762004) · `en`
+
+US Ambassador to SL Julie Chung says US stands in solidarity with all Sri Lankans
+
+Says US will remain a steadfast partner to those who continue seeking justice, equal rights, and access to opportunities
+
+Notes that many Sri Lankans continue to face ongoing acts of intimidation
+
+Advocates for all those who lost their loved ones to war to commemorate them
+
+Marking 15 years since the end of Sri Lanka’s three-decade-long conflict, US Ambassador to Sri Lanka Julie Chung said the United States will remain a steadfast partner to the Sri Lankan people, including those who continue seeking justice, equal rights, and access to opportunities.
+
+Taking to X (formerly Twitter) Chung said her country stands in solidarity with all Sri Lankans, reflecting on the resilience and hope for a united future.
+
+...
+
+[Data](articles/bced055f.json)
+
+---
+
+### Amnesty International says 15 years after end of war, victims still await justice at Mullivaikkal
+
+*2024-05-20 03:17:58* · [`dailyftlk`](https://www.ft.lk/news/Amnesty-International-says-15-years-after-end-of-war-victims-still-await-justice-at-Mullivaikkal/56-762003) · `en`
+
+Amnesty International Secretary General Agnès Callamard on Saturday said that 15 years after the end of the war in Sri Lanka, the victims still await justice at Mullivaikkal, the location of last battle and where countless civilian lives were lost.
+
+“Today’s anniversary is a grim reminder of the collective failure of the Sri Lankan authorities and the international community to deliver justice to the many victims of Sri Lanka’s three-decade-long internal armed conflict. It is sobering to stand in the same place where, 15 years ago, countless civilian lives were lost during the last days of the war,” said Callamard.
+
+...
+
+[Data](articles/ea700181.json)
+
+---
+
+### UK Labour Leader urges British Govt. to refer SL to ICC for war crimes
+
+*2024-05-20 03:16:21* · [`dailyftlk`](https://www.ft.lk/news/UK-Labour-Leader-urges-British-Govt-to-refer-SL-to-ICC-for-war-crimes/56-762002) · `en`
+
+UK Labour Leader Keir Starmer criticised SL Govt. for lack of meaningful action in addressing past injustices
+
+Highlights SL Govt.’s failure to fulfil promises made to international community regarding accountability for “mass atrocity crimes”
+
+Urges British Govt. to take leading role in referring perpetrators of international crimes against Tamils to ICC and delivering justice to victims
+
+UK Labour Party Leader Keir Starmer issued a statement over the weekend in which he strongly criticised the Sri Lankan Government for its lack of meaningful action in addressing past injustices.
+
+He highlighted the Government’s failure to fulfil promises made to the international community regarding accountability for the “mass atrocity crimes suffered by the Tamil people in Sri Lanka.”
+
+...
+
+[Data](articles/fddbd529.json)
+
+---
+
+### Sri Gurudev visits Sri Lanka: stresses influence of country’s economy on the region
+
+*2024-05-20 03:15:36* · [`dailyftlk`](https://www.ft.lk/news/Sri-Gurudev-visits-Sri-Lanka-stresses-influence-of-country-s-economy-on-the-region/56-762001) · `en`
+
+Launched 12 technical and vocational training projects in Sri Lanka
+
+Humanitarian and spiritual leader Gurudev Sri Sri Ravi Shankar – Pic by Upul Abayasekara
+
+Humanitarian and spiritual leader Gurudev Sri Sri Ravi Shankar (Sri Gurudev) recently visited Sri Lanka for the sixth time on a three-day tour, stating that Sri Lanka played an important role in the development of the region.
+
+Sri Gurudev, who visited the country on the invitation of Prime Minister Dinesh Gunawardena, is also the Founder of Art of Living Foundation, a global leader in meditation and well-being programs. During his visit, he visited the various projects under the aegis of the Foundation, launching 12 technical and vocational centres around Sri Lanka.
+
+...
+
+[Data](articles/067e3480.json)
+
+---
+
+### SJB proposes new dates for debate with NPP
+
+*2024-05-20 03:13:08* · [`dailyftlk`](https://www.ft.lk/news/SJB-proposes-new-dates-for-debate-with-NPP/56-762000) · `en`
+
+The Samagi Jana Balawegaya (SJB) proposed new dates for the two debates planned between the leaders and economic councils of the SJB and the National People’s Power (NPP) party in a letter to the NPP on Friday.
+
+...
+
+[Data](articles/29931984.json)
+
+---
+
+### ‘Buddha Rashmi’ Vesak festival returns in grandeur from 23-26 May
+
+*2024-05-20 03:12:46* · [`dailyftlk`](https://www.ft.lk/news/Buddha-Rashmi-Vesak-festival-returns-in-grandeur-from-23-26-May/56-761999) · `en`
+
+The ‘Buddha Rashmi’ Vesak festival, organised by the Colombo Gangarama Temple in collaboration with the Presidential Secretariat, the Prime Minister’s Office and the MahaKaruna Buddhist Association of Singapore, is set to take place from 23 to 26 May.
+
+This year’s festival, themed “Attano wa avekkhyeya kathani akatani cha” (Let’s focus on what we have done, not what others have done), is set to be a vibrant and enlightening event to reflect on the teachings of Lord Buddha.
+
+The festivities will span across three major venues: the Presidential Secretariat premises, Shangri-La Green Ground, and Gangarama Temple.
+
+...
+
+[Data](articles/93782c57.json)
+
+---
 
 ### Sri Lanka’s political paradox: Prioritising privileges over public interest
 
@@ -1887,261 +2069,5 @@ According to police, the investigation made by the police that his wife's uncle'
 [Data](articles/2083f5e0.json)
 
 [Extended Data](ext_articles/2083f5e0.ext.json)
-
----
-
-### Protected student inspection resumes
-
-*2024-05-19 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196785) · `si`
-
-President Ranil Wickremesinghe has reinstated the "Safety Student Insurance Cover," benefiting all schoolchildren nationwide from June. This initiative aims to safeguard students' education and health amidst financial constraints, offering coverage for medical expenses, including hospital stays, hearing aids, and tests. The program, initially halted due to funding issues, now includes provisions for low-income families, ensuring comprehensive support for students' well-being and academic success.
-
-🟩
-
-President Ranil Wickremesinghe has instructed to resume the "Safety 'Student Insurance cover which was suspended temporarily due to the economic problem.
-
-Accordingly, all school children across the island will be able to benefit from this insurance policy from the first week of June.
-
-Cabinet was approved by the Cabinet Memorandum from President Ranil Wickremesinghe, Minister of Finance, Economic Stability and National Policies.
-
-"Conservation" Students who are not able to educate and ensure their safety due to health problems, school children have a program to enhance their security, and consolidating school attendance.
-
-The program continued to work until 01.22.12.2012 and the economic crisis was temporarily suspended on difficulties to obtain necessary funds.
-
-However, President Ranil Wickremesinghe has allocated Rs.
-
-...
-
-[Data](articles/6f82a81a.json)
-
-[Extended Data](ext_articles/6f82a81a.ext.json)
-
----
-
-### Notice of the day when the rain decreases
-
-*2024-05-19 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196784) · `si`
-
-The Fisheries Department advises small vessels to stay informed about the weather, as heavy rains exceeding 150mm have hit several regions, including the Western, Northwestern, Sabaragamuwa, Southern, Central, and Northern provinces. The Puttalam district recorded the highest rainfall of 212.5mm in the last 24 hours. Sluice gates of three reservoirs were opened, and the Department of Meteorology warns of continued rain across coastal areas from Beruwala to Pottuvil, expecting a reduction in rainfall after Tuesday.
-
-🟩
-
-The Fisheries Department is notified to re-informed small vessels to be re-informed until 12.00 pm today.
-
-Director General of the Fisheries and Aquatic Resources Development Department Susantha Kahawatta is being carried out by taking into account the existing weather forest.
-
-Meanwhile, the highest rainfall of 212.5 mm in the past 24 hours was reported from the Puttalam district.
-
-Heavy rain falls in all parts of the country due to the growing pre-monsoon weather in the sea areas around Sri Lanka.
-
-Showers over 150 mm of rain in the Western and Northwestern provinces, and the Sabaragamuwa, Southern, Central and North areas have been exceeded 100 millimeters.
-
-The North Central and Eastern provinces are still falling.
-
-Meanwhile, sluice gates of the Rajanganaya, Angamuwa and Ulhitiya reservoirs were opened yesterday (18).
-
-...
-
-[Data](articles/85b91e37.json)
-
-[Extended Data](ext_articles/85b91e37.ext.json)
-
----
-
-### Debate Or No Debate, Addressing Critical Issues Is Important For Voters
-
-*2024-05-19 13:00:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-or-no-debate-addressing-critical-issues-is-important-for-voters/) · `en`
-
-In recent weeks, we have observed a disheartening spectacle unfold between the Samagi Jana Balawegaya (SJB) and the Jathika Jana Balawegaya, (NPP) as they engage in a futile tussle, each blaming the other for the failure to arrange a debate between their respective leaders and economic policy teams. This debate, crucial for enlightening the voting populace ahead of both the Presidential and General elections, remains elusive due to the entrenched animosity between the parties.
-
-Consequently, the electorate grapples with disillusionment and disenchantment, triggered by the pervasive negative posturing exhibited by these factions, all while professing to champion System Change and advocate for a governance model marked by inclusivity and transparency.
-
-...
-
-[Data](articles/dedd2555.json)
-
-[Extended Data](ext_articles/dedd2555.ext.json)
-
----
-
-### Second place to Kalinganga
-
-*2024-05-19 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196783) · `si`
-
-Kalinga Kumarage from Sri Lanka won silver in the 400m race at the Grow Priya Athletic Championship in Tokyo.
-
-🟩
-
-Kalinga Kumarage of Kalinga Kumara, who is held at Tokyo, is held at the Grow Priyh Athletic Championship in Japan, won the second 400 meter town.
-
-◼️
-
-[Data](articles/5641e612.json)
-
-[Extended Data](ext_articles/5641e612.ext.json)
-
----
-
-### I will help the CWC's request: Ravi Shankar Guruji
-
-*2024-05-19 12:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-கோரிக்கைக்கு-உதவுவேன்-ரவிசங்கர்-குருஜி/76-337515) · `ta`
-
-Ravi Shankar Guruji agreed to support the Living Art Foundation in Sri Lanka's hill country, facilitating training centers and spiritual schools, promoting self-employment among women.
-
-🟩
-
-The meeting was attended by many members of the Nuwara Eliya district parliamentarian and Congressman Maruthabandi Rameshwaran, P. Irajaturai, Bharat Arulzamy and many others.
-
-Special participants in the meeting made a number of demands for Sri Sri Ravi Shankar Guruji for the welfare of the people of the hill country in Sri Lanka.
-
-Accepting the demands made, Guruji said that he would cooperate in the hill country to strengthen the activities of the Living Art Foundation in the hill country and to facilitate the opening of training centers and provide assistance through his Foundation Institute.
-
-Guruji also said that he would provide various assistance through her trust, including the starting of spiritual learning schools, living arts training, and self -employment promotions for women.
-
-◼️
-
-[Data](articles/afcda0ff.json)
-
-[Extended Data](ext_articles/afcda0ff.ext.json)
-
----
-
-### The President met Elon Mask
-
-*2024-05-19 12:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலோன்-மஸ்க்கைச்-சந்தித்தார்-ஜனாதிபதி/175-337514) · `ta`
-
-At the 10th World Water Forum in Indonesia, President Ranil Wickremesinghe and Elon Musk discussed bringing SpaceX's affordable Starlink internet service to Sri Lanka. Ruwan Wijewardena, a senior advisor, was present.
-
-🟩
-
-President Ranil Wickremesinghe met with businessman Elon Mask during the 10th World Water Forum in Indonesia and discussed the implementation of Starlink in Sri Lanka.
-
-Starlink is a satellite network developed by a private space company, Spacex, to offer the Internet at a lower price.
-
-Ruwan Wijewardena, Senior Advisor for the President's Climate Affairs, also attended the presidential meeting with Elon Musk.
-
-◼️
-
-[Data](articles/871bada7.json)
-
-[Extended Data](ext_articles/871bada7.ext.json)
-
----
-
-### Shadow War
-
-*2024-05-19 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183940) · `ta`
-
-"Shadow War: A metaphorical description of how countries struggle with controlling information online, akin to managing water within and without containers. Nations worldwide face accusations of espionage, with the US and UK accusing China of spying, highlighting ongoing tensions."
-
-🟩
-
-Each of the beppa is difficult to prevent the water inside it and the water in the outside. Similarly, the information of every country that is mixed in the Internet is the same.
-
-Now another troll. It is not known whether it is fun to be fun or to swallow this. So the nations of the world are stumbled into an ant.
-
-The troll is the accusation that China is spying. The US and Britain have put the charge. It is usual to stretch finger on China from time to time. This time the charge is serious.
-
-◼️
-
-[Data](articles/504499f3.json)
-
-[Extended Data](ext_articles/504499f3.ext.json)
-
----
-
-### The development work of the new wetland park
-
-*2024-05-19 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183936) · `ta`
-
-Sri Lanka's Land Development Corporation is developing a new wetland park in Colombo, aiming to preserve the environment, enhance public mental health, and conserve water during floods. The park, spanning 35 hectares, includes facilities like butterfly and bird gardens, bicycle paths, restaurants, and a wildlife center. It also features educational programs to raise awareness about wetland conservation. The project, costing 180 million, is expected to open by the end of the year.
-
-🟩
-
-New wetland park development work has begun. The Sri Lanka Land Development Corporation has focused on the development of the wetland in the Colombo district under the development of the wetlands.
-
-Currently, the city of Tiyasaru, Bethana and Kottubemma has been developed and opened for public use.
-
-Maintaining the balance of the environment, maintaining the mental health of the public in the hectic city, and the saving of water during the flooding time, the wetland park will be created to prevent the wetlands.
-
-Due to the construction of buildings in wetlands, the "lowland lands that have been acquired by the state under the Large Colombo Flood Control Scheme are declining daily.". The scheme is implemented under the Sri Lanka Land Development Corporation targeting to protect them and use wetlands wisely.
-
-180 million has been allocated for this project. We are planning to complete the park's work at the end of this year.
-
-This 35 hectares of wet land is now 4 km long and 3.5 km long.
-
-...
-
-[Data](articles/474e61c6.json)
-
-[Extended Data](ext_articles/474e61c6.ext.json)
-
----
-
-### President meets Elon Musk, discuss implementation of ‘Starlink’ in Sri Lanka
-
-*2024-05-19 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99313/president-meets-elon-musk-discuss-implementation-of-starlink-in-sri-lanka) · `en`
-
-President Ranil Wickremesinghe has met with billionaire and investor Elon Musk on the sidelines of the 10th World Water Forum High-Level Meeting being held in Indonesia.
-
-During the meeting, Wickremesinghe and Musk have discussed the implementation of ‘Starlink’ in Sri Lanka.
-
-It was emphasized that Sri Lanka is committed to expediting the application process to connect the country to the global “Starlink” network, the President’s Media Division (PMD) said.
-
-Meanwhile, Minister Jeevan Thondaman, who is accompanying the President on his two-day visit to Indonesia, tweeted saying: “President and Elon discussed Sri Lanka’s recovery, economic potential, and new opportunities for investment.”
-
-“Great to have two visionary leaders come together for Sri Lanka.”
-
-Elon Musk arrived in Indonesia’s resort island of Bali on Sunday to launch Starlink satellite internet service in the world’s largest archipelago nation.
-
-...
-
-[Data](articles/f771cffd.json)
-
-[Extended Data](ext_articles/f771cffd.ext.json)
-
----
-
-### President Elon Meet Meet
-
-*2024-05-19 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196782) · `si`
-
-At the 10th World Water Summit in Indonesia, Sri Lanka's President Ranil Wickremesinghe met with Elon Musk, discussing Starlink operations and Sri Lanka's potential application to the global network.
-
-🟩
-
-President Ranil Wickremesinghe and the world's leading rich and the world's leading rich and the owner of Twitter, Elon Musc.
-
-During a high-ranking meeting of the 10th World Water Summit, which falls in Indonesia.
-
-The President has discussed the operation of Starlink in Sri Lanka with Elon Muscular.
-
-The Presidential Media Unit has also been discussed on the process of applying for Sri Lanka with the global Starlink network.
-
-◼️
-
-[Data](articles/e5096484.json)
-
-[Extended Data](ext_articles/e5096484.ext.json)
-
----
-
-### Ranil meets Elon Musk
-
-*2024-05-19 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ranil-meets-Elon-Musk/155-282892) · `en`
-
-Bali, May 19 (Daily Mirror) - President Ranil Wickremesinghe met Elon Musk in Bali and spoke about Sri Lanka being connected to the starlink network.
-
-President Wickremesinghe left for Indonesia yesterday to attend the 10th World Water Forum High-Level Meeting in Bali, at the invitation of Indonesian President Joko Widodo.
-
-The 10th World Water Forum is being held from May 18 to 20 in Bali, Indonesia.
-
-Senior Presidential Advisor on Climate Affairs Ruwan Wijewardene also attended the President's meeting with Elon Musk.
-
-◼️
-
-[Data](articles/795ce4c6.json)
-
-[Extended Data](ext_articles/795ce4c6.ext.json)
 
 ---

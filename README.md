@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 22:34:01**
+As of **2024-05-20 22:52:23**
 
 ## Newspaper Stats
 
-*Scraped **25,278** Articles*
+*Scraped **25,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 2,924
 tamilmirrorlk | 2,953
 virakesarilk | 3,822
 dailymirrorlk | 3,971
-adaderanasinhalalk | 4,042
+adaderanasinhalalk | 4,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,276 (100.0%) of 25,278 articles have been extended.
+25,278 (100.0%) of 25,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,32 @@ Police said the victim was shot at with a T-56 assault rifle while he was at hom
 ◼️
 
 [Data](articles/ef5a8e0a.json)
+
+[Extended Data](ext_articles/ef5a8e0a.ext.json)
+
+---
+
+### පොලීසිය එන විට පැන්න පැනිල්ල මරණයෙන් කෙළවර වෙයි
+
+*2024-05-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196838) · `si`
+
+හෝමාගම, හිරිපිටිය ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයින් දෙදෙනෙකු සමග  මත්ද්‍රව්‍ය භාවිත කරමින් සිටි තරුණියක් පොලීසිය පැමිණෙන අවස්ථාවේදී නිවසේ ඉහළ මහලින් පැන පළායාමට උත්සාහ කිරීමේදී තාප්පය මතට වැටී තිබේ.
+
+එහිදී තාප්පයේ තිබූ යකඩ කූරු ඇයගේ උදරයේ ඇනී බරපතළ තුවාල ලබා හෝමාගම මූලික රෝහලට ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+
+මෙසේ මියගොස් ඇත්තේ පාදුක්ක, පහළ බෝපේ, කුරුන්දෙණිය ප්‍රදේශයේ පදිංචිව සිටි 19  හැවිරිදි තරුණියකි.
+
+හෝමාගම හිරිපිටිය බෝගහවිල ප්‍රදේශයේ නිවසක පුද්ගලයින් දෙදෙනෙකු සහ කාන්තාවක් අයිස් මත්ද්‍රව්‍ය පානය කරන බවට එම ස්ථානයේ සිටි පුද්ගලයෙකුගේ බිරිඳ පොලීසියට පැමිණිලි කර තිබුණාය.
+
+එම පැමිණිල්ලට අනුව හොමාගම පොලීසිය එම ස්ථානය වෙත ගොස් පරින්ෂා කිරීමේ 19 හැවිරිදි තරුණිය එලෙස ඉහළ මහලින් පැන පළායාමට උත්සාහ ඇති බව සඳහන් ය.
+
+සිද්ධිය වූ අවස්ථාවේ එහි රැඳී සිටි පැමිණිලිකාර කාන්තාවගේ සැමියා සහ ඔහුගේ මිතුරා මේ වනවිට පොලිස් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් හෝමාගම අධිකරණ වෛද්‍ය නිලධාරීවරයාට යොමුකොට එහි වාර්තාව සමඟ හෝමාගම අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/e01ebc59.json)
 
 ---
 
@@ -1678,25 +1704,33 @@ The death of Iranian President Ibrahim Raisi and several senior officials who ac
 
 ---
 
-### அரசாங்கம் ஜனாதிபதி தேர்தலுக்கே தயாராகி வருகிறது - ஐக்கிய தேசிய கட்சி
+### The government is preparing for the presidential election - the United National Party
 
 *2024-05-20 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184044) · `ta`
 
-நாட்டில் ஆரம்பமாக பொதுத் தேர்தலே இடம்பெறும் என சிலர் தெரிவித்து வருகின்றனர். இவர்கள் தங்களின் சுயநல அரசியல் நோக்கத்திலே இவ்வாறான பிரசாரத்தை மேற்கொள்கின்றனர்.
+The government is gearing up for the upcoming presidential election, with speculation about whether it will coincide with a general election due to political maneuvering. Former UNP parliamentarian Saman Ratnapriya confirms Ranil Wickremesinghe's preparation for the presidency, despite rumors suggesting otherwise. There's uncertainty over the timing, with some predicting a parliamentary dissolution in mid-June and others stating the presidential election must occur between September 18 and October 16. The President has affirmed the election's holding this year, aligning with constitutional requirements. Despite opposition claims, Ranil Wickremesinghe's efforts to stabilize the economy highlight his suitability for the presidency, ensuring his candidacy remains strong.
 
-ஆனால் ஜனாதிபதி தேர்தலுக்கே ரணில் விக்ரமசிங்க தயாராகி வருகிறார் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதியின் தொழிற்சங்கங்களின் பணிப்பாளருமான சமன் ரத்னப்பிரிய தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சியின் தலைமையகமாக சிறிகொத்தவில் திங்கட்கிழமை (20) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+Some people say that the general election will be held in the country. They make such a campaign with their selfish political purpose.
 
-நாட்டில் ஆரம்பமாக பாராளுமன்ற தேர்தலே இடம்பெறும் என ஒருசிலர் தெரிவித்து வருகின்றனர். குறிப்பாக ஜூன் மாதம் நடுப்பகுதியில் பாராளுமன்றம் கலைக்கப்படும் என உதயங்க வீரதுங்க தெரிவிக்கிறார்.
+But Ranil Wickremesinghe is preparing for the presidential election, said Saman Ratnapriya, a former UNP parliamentarian and director of the president's trade unions.
 
-பாராளுமன்ற தேர்தலே ஆரம்பாக இடம்பெறும் என்பதை உறுதியாக தெரிவிப்பதாக பாராளுமன்ற உறுப்பினர் டிலான் பெரேரா தெரிவித்திருந்தார்.
+He was speaking at a press conference held at Sirikotha on Monday (20) as the UNP headquarters.
 
-அதேநேரம் அடுத்துவரும் ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க போட்டியிட மாட்டார் என சிலர் பிரசாரம் செய்து வருகின்றனர்.
+A few people say that the parliamentary election will be held in the country. Udayanga Weeratunga says parliament will be dissolved in mid -June.
+
+Parliamentarian Dylan Perera said he was sure that the parliamentary election would begin.
+
+At the same time, some are campaigning that Ranil Wickremesinghe will not contest the next presidential election.
+
+Thus they are carrying out campaigns based on their political program. But according to the political system, the presidential election must be held on September 18 and October 16.
 
 ...
 
 [Data](articles/e624b3ed.json)
+
+[Extended Data](ext_articles/e624b3ed.ext.json)
 
 ---
 
@@ -2273,27 +2307,5 @@ It has been reported that a single golden back frog was hiding behind a wet, rot
 [Data](articles/8bc39ff1.json)
 
 [Extended Data](ext_articles/8bc39ff1.ext.json)
-
----
-
-### The President will appoint 400 graduates in Jaffna
-
-*2024-05-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184025) · `ta`
-
-President Ranil Wickremesinghe plans to appoint 400 graduates during his visit to Jaffna. The appointments will take place at the Selva Gallery, overseen by teachers. Call letters will be dispatched by the Northern Provincial Ministry of Education starting Monday.
-
-🟩
-
-President Ranil Wickremesinghe, who is to visit the North, will be appointed to 400 graduates.
-
-Teachers will be appointed to 400 graduates at the President's Father Selva Gallery at Jaffna, Selva Gallery at 3 pm on Saturday afternoon.
-
-Call letters to the graduates who will be appointed will be sent by the Northern Provincial Ministry of Education from Monday.
-
-◼️
-
-[Data](articles/e0ebf006.json)
-
-[Extended Data](ext_articles/e0ebf006.ext.json)
 
 ---

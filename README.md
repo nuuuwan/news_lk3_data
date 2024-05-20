@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 15:18:38**
+As of **2024-05-20 15:33:47**
 
 ## Newspaper Stats
 
-*Scraped **25,188** Articles*
+*Scraped **25,192** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 225
 bbccomsinhala | 254
-dbsjeyarajcom | 258
+dbsjeyarajcom | 259
 newsfirstlk | 363
-islandlk | 1,363
+islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
 adalk | 2,156
 adaderanalk | 2,912
 tamilmirrorlk | 2,947
-virakesarilk | 3,804
+virakesarilk | 3,805
 dailymirrorlk | 3,955
 adaderanasinhalalk | 4,025
 
@@ -26,17 +26,43 @@ adaderanasinhalalk | 4,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,186 (100.0%) of 25,188 articles have been extended.
+25,188 (100.0%) of 25,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### மீனவர்களின் தூண்டிலில் சிக்கிய 49 கிலோ நிறையுடைய மீன்
+
+*2024-05-20 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184033) · `ta`
+
+49 கிலோ நிறையுடைய நீல தூணா அல்லது உள்ளுரில் நீல ஹெலவள்ளா (ஹென்டா) மீன் சிக்கியுள்ளது.
+
+காரைதீவு பகுதியில் இருந்து ஆழ்கடலில் மீன்பிடிக்குச் சென்ற மீனவர்களின் தூண்டிலில் இந்த நீல தூணா அல்லது உள்ளுரில் நீல ஹெலவள்ளா(ஹென்டா) என அழைக்கப்படும் பாரிய மீன்  சிக்கியுள்ளது.
+
+பெரிய கண் மற்றும் நீல நிற வர்ணங்களை கொண்டுள்ள குறித்த மீன் அம்பாறை மாவட்டம் காரைதீவு பகுதியில் மீனவரின் தூண்டிலில் பிடிக்கப்பட்டுள்ளதுடன் 49 கிலோ நிறையுடைய குறித்த மீனை விற்பதற்கான முயற்சியில் மீனவர்கள் இறங்கியுள்ளனர்.
+
+கடும் போராட்டத்திற்கு மத்தியில் பிடிக்கப்பட்ட குறித்த மீன் இனங்கள் 7 வகைகளாக பிரிக்கப்பட்டுள்ளதாகவும் யாவும் பெறுமதி மிக்கதாக உள்ளதாகவும் பாரிய மீன்களை கொள்வனவு செய்கின்ற நிறுவனங்களே இவ்வாறான மீன்களை அதிக விலை கொடுத்து வாங்குவதாகவும்  மீனவர்கள் குறிப்பிட்டனர்.
+
+◼️
+
+[Data](articles/66af7ad4.json)
+
+---
 
 ### CID arrests man who helped send 120 Sri Lankans to Russia on tourist visas
 
 *2024-05-20 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99335/cid-arrests-man-who-helped-send-120-sri-lankans-to-russia-on-tourist-visas) · `en`
 
 The Criminal Investigation Department (CID) has arrested an individual in Dehiwala for allegedly assisting in sending 120 persons to Russia on tourist visas, according to police.
+
+He has been arrested by officers of the Human Trafficking, Smuggling, and Maritimes Crimes Investigation Division of the CID.
+
+Investigations have revealed that the arrested suspect has allegedly aided and abetted the sending of individuals to Russia on tourist visas, by targeting individuals while in front of the Russian Embassy in Colombo.
+
+Police say that the suspect is currently being interrogated and will be produced before court tomorrow (21).
+
+Further investigations will be conducted under the supervision of the Director of Human Trafficking and Maritime Crime Investigation Division, Senior Superintendent of Police (SSP) Samarakoon Banda, and under the guidance of Senior DIG of CID Rohan Premaratne.
 
 ◼️
 
@@ -114,23 +140,31 @@ The suspect was remanded till Wednesday (22) after being produced before the For
 
 ---
 
-### කවරක්කුලම පොලිසියේ එස්අයි කසිප්පු ‌පෙරා අත්අඩංගුවට
+### SI Kasippu Pera arrested in Kotarakkulama
 
 *2024-05-20 13:59:27* · [`adalk`](https://www.ada.lk/breaking_news/කවරක්කුලම-පොලිසියේ-එස්අයි-කසිප්පු-‌පෙරා-අත්අඩංගුවට/11-409739) · `si`
 
-කවරක්කුලම පොලීසියට අනුයුක්තව රාජකාරී කරනු ලබන, උප පොලිස් පරීක්ෂකවරයෙකු  නීති විරෝධී මත්පැන් මිලිලීටර් 14250ක්, එම නීති විරෝධී මත්පැන් පෙරීමට යොදා ගන්නා උපකරණ තොගයක්  සමග පෙරේදා (19දා) අත්අඩංගුවට ගත් බව තිරප්පනය පොලිසිය පවසයි.
+A 59-year-old SI Kasippu Pera was arrested in Kotarakkulama for possessing 14,250 liters of illegal liquor. The police discovered this during an investigation into illicit alcohol sales. Further searches revealed additional contraband, including a black barrel and a gas nozzle. The sub-inspector, from Mihintale, was scheduled to appear in court.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ, නොච්ච්කුලම, ඉහලගම, මිහින්තලේ  ලිපිනයේ පදිංචි 59 හැවිරිදි   උප පොලිස් පරීක්ෂකවරයෙකි.
+🟩
 
-නීති විරෝධී මත්පැන් සම්බන්ධයෙන් ලැබුණු තොරතුරකට අනුව  මෙම උප පොලිස් පරීක්ෂකවරයාගේ ඉහත ලිපිනයේ පිහිටි නිවස පරීක්ෂා කිරීමේදී පෙරේදා (19දා) හවස හතරට පමණ එම නිවසේ තිබී නීති විරෝධී මත්පැන් මිලි ලීටර් 14250ක ප්‍රමාණයක් සොයා ගත් බව පොලිසිය කියයි.
+The Thiction Police say that a sub-inspector is attarically attached to the Police Station, 14250 illegal liquor, with a consignment of the illegal liquor.
 
-තව දුරටත් නිවසේ සිදු කල වැඩිදුර පරීක්ෂාවකදී සූක්ෂම ලෙස සඟවා තිබූ  නීති විරෝධී මත්පැන් පිරීමට උපයෝගී කර ගන්නා දෙපස රබර් පටි සවිකරන ලද වට තුනකින් සමන්විත තඹ දඟරයක් , කළු පැහැති බැරල් එකක් , කළු පැහැති යකඩ සිලින්ඩර් එකක් , සහ ගෑස් ලිප් එකක් එම නිලධාරියා සන්තකයේ තිබී සොයා ගත් බවද පොලිසිය සඳහන් කළේය.
+The 59-year-old sub-inspector, 59, a resident of the Mihintale address, Nochathkulam, Ihalagama, Ihalagama, Mihintale address.
 
-අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂකවරයා අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+According to information received regarding illegal liquor, the sub-inspector was investigated 14250 ml of illegal alcohol, about four million illegal alcohol.
 
-...
+Further further investigation, another three-round barrel, a black barrel, and a gas noon were found in the possession of the officer in the possession of the rubber bandsPolice said.
+
+The arrested sub-inspector was to be produced in court.
+
+Thippane Police OIC Chief Inspector of Police Tilina Hewapathirana on the instructions of Lasiri Wijesena.. M. S. The raid was raided by Kumarasinghe and other officials.
+
+◼️
 
 [Data](articles/7ce223c0.json)
+
+[Extended Data](ext_articles/7ce223c0.ext.json)
 
 ---
 
@@ -410,23 +444,29 @@ Police said the suspect has fled the area following the murder and Lunugala Poli
 
 ---
 
-### නේපාල කතට පිහියක් පෙන්වා රන්භාණ්ඩ, මුදල් සහ දුරකථන කොල්ලකාලා
+### Nepali woman knives knives, gold and telephones
 
 *2024-05-20 12:35:46* · [`adalk`](https://www.ada.lk/breaking_news/නේපාල-කතට-පිහියක්-පෙන්වා-රන්භාණ්ඩ--මුදල්-සහ-දුරකථන-කොල්ලකාලා/11-409738) · `si`
 
-නේපාල ජාතික කාන්තාවක රැදීසිටී හෝටල් කාමරයට ඇතුල්වී  උල් ආයුධයක් පෙන්වා බියගන්වා රුපියල් ලක්ෂ දහයක් පමණ වටිනා ජංගම දුරකථන දෙකක්, රුපියල් ලක්ෂ දෙකක මුදලක් සහ රන් භාණ්ඩ කොල්ල කා පලාගිය පුද්ගලයකු සොයා කළුතර උතුර පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+Kalutara North investigates theft at Raddating Hotel involving Tamanman Nimath, 23, who allegedly broke into a room and stole two mobile phones.
 
-ටාමාන්ග් නිමා නමැති 23 හැවිරිදි කාන්තාවක විසින් කල පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+🟩
 
-පැමිණිලිකාර කාන්තාව තවත් පිරිසක් සමග දිවයිනට පැමිණ  වස්කඩුව ප්‍රදේශයේ සංචාරක හෝටලයක කාමරයක නවාතැන් ගෙන සිටියදී කොල්ලකෑම සිදුව ඇති බවට පැමිණිල්ලේ සඳහන්ව ඇතැයි පොලිසිය පවසයි.
+The Kalutara North has commenced investigations into the Raddeting Hotel Room and a large number of Rs.
 
-ඇය හෝටල් කාමරයේ දොර අඩවල් කර ජංගම දුරකථනය ක්‍රියාකරමින් සිටියදී සැකකරු ඇතුලුවී ඇති බවද සදහන් වේ.
+Tamanman Nimath, a 23-year-old woman has commenced investigations.
 
-GPS තාක්ෂණය ඔස්සේ සොයා බැලීමේදී අසල ඉඩමක පොල් ගසක් යට තිබූ ජංගම දුරකථන දෙක සොයාගෙන ඇති බවද පොලිසිය පැවසීය.
+The complaint has stated that the complainant woman has taken place with a group of people, the complaint had taken place while looting while she was staying in a room at a hospital in Waskaduwa area.
+
+It is also said that she has parted down the door of the hotel room and entered the mobile phone.
+
+The two mobile phones under a nearby lands have been recovered from a nearby land, police said.
 
 ◼️
 
 [Data](articles/e31d8035.json)
+
+[Extended Data](ext_articles/e31d8035.ext.json)
 
 ---
 
@@ -2241,25 +2281,5 @@ International Tea Day serves as a poignant reminder of the profound cultural and
 [Data](articles/2deacc9b.json)
 
 [Extended Data](ext_articles/2deacc9b.ext.json)
-
----
-
-### Thousands of Tamils converge at Mullivaaikkaal
-
-*2024-05-20 03:20:38* · [`dailyftlk`](https://www.ft.lk/news/Thousands-of-Tamils-converge-at-Mullivaaikkaal/56-762005) · `en`
-
-Mullivaikkal remembrance event held on May 18, 2024, in Mullaitivu, in Sri Lanka’s Northern Province. Tamil families gathered to pay tribute to their loved ones killed in war - Photo Credit: Meera Srinivasan
-
-Thousands of Tamils on 18 May converged in Mullaivaikkal, along Sri Lanka’s north-eastern coast, to pay homage to their relatives killed in May 2009, in the final battle of the island’s protracted civil war.
-
-As the war escalated before its gruesome end, lakhs of Tamil civilians were pushed to this narrow strip of land, declared a ‘No Fire Zone’ by the Government. Tens of thousands, including women and children, died in the indiscriminate shelling of the armed forces, while scores were seriously injured.
-
-Families gathered at the venue on Saturday and placed photographs of their loved ones in the sandy ground near the sea, offered prayers with flowers, food, and by lighting lamps. Antony Jesurathnam Mariapushparani, a Mullaitivu resident, has vivid images from 18 May, 15 years ago.
-
-...
-
-[Data](articles/6a897856.json)
-
-[Extended Data](ext_articles/6a897856.ext.json)
 
 ---

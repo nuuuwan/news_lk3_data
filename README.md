@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 21:53:13**
+As of **2024-05-20 22:06:19**
 
 ## Newspaper Stats
 
-*Scraped **25,258** Articles*
+*Scraped **25,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 225
 bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
-islandlk | 1,365
+islandlk | 1,366
 economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,167
@@ -20,17 +20,31 @@ adaderanalk | 2,923
 tamilmirrorlk | 2,953
 virakesarilk | 3,807
 dailymirrorlk | 3,970
-adaderanasinhalalk | 4,041
+adaderanasinhalalk | 4,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,258 (100.0%) of 25,258 articles have been extended.
+25,258 (100.0%) of 25,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### කළුතර වෙඩිතැබීමක්
+
+*2024-05-20 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196837) · `si`
+
+කළුතර, කටුකුරුන්ද දුම්රිය පාර ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+නිවසත් තුළ සිටි පුද්ගලයෙකුට එලෙස වෙඩි තබා තිබුණේ ටී-56 ගිනිඅවියකින් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/27bdb236.json)
+
+---
 
 ### Sri Lanka declares day of mourning after Iranian President Raisi’s death
 
@@ -2289,31 +2303,5 @@ In 2016 a media briefing regarding the Koralagala Raja Maha Viharaya in 2016, a 
 [Data](articles/1ded1dfe.json)
 
 [Extended Data](ext_articles/1ded1dfe.ext.json)
-
----
-
-### Elon Musk is coming to Sri Lanka
-
-*2024-05-20 11:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-எலோன்-மஸ்க்/175-337562) · `ta`
-
-Elon Musk, CEO of SpaceX and Tesla, has been invited by Sri Lanka's President Ranil Wickremesinghe to launch Starlink, a satellite internet service, in the country. The visit, aimed at accelerating the approval process for Starlink in Sri Lanka, is expected to boost rural education through advanced internet connectivity.
-
-🟩
-
-Daily Mirror has reported that Elon Musk has accepted the invitation of President Ranil Wickremesinghe to come to Sri Lanka this year to launch his Starling Satellite Internet service.
-
-President Wickremesinghe met with his advisor Ruwan Wijewardena on Climate Affairs yesterday in Bali, Indonesia and discussed various issues including renewable energy, artificial intelligence (AI) and world politics.
-
-However, the exact dates of Elon's visit to Sri Lanka have not yet been determined and the Sri Lankan government will contact Elon's committee to decide the arrangements.
-
-“Elone will come to Sri Lanka to introduce Starlink as soon as it is over, as to how Sri Lanka accelerates the approval process. It was temporarily discussed that he would visit Sri Lanka by the end of this year, ”the sources said.
-
-Elon Mask, a billionaire chairman of Tesla and SpaceX, and the owner of the X -social platform, came to Bali, Indonesia's resort island to launch the Starling Satellite Service.
-
-...
-
-[Data](articles/338456e1.json)
-
-[Extended Data](ext_articles/338456e1.ext.json)
 
 ---

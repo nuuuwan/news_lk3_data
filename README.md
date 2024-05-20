@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 17:54:39**
+As of **2024-05-20 18:12:38**
 
 ## Newspaper Stats
 
-*Scraped **25,227** Articles*
+*Scraped **25,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,67 @@ adaderanalk | 2,920
 tamilmirrorlk | 2,950
 virakesarilk | 3,807
 dailymirrorlk | 3,963
-adaderanasinhalalk | 4,035
+adaderanasinhalalk | 4,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,222 (100.0%) of 25,227 articles have been extended.
+25,227 (100.0%) of 25,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ஐ .எஸ். ஐ .எஸ் சேர்ந்த இலங்கையர் நால்வர் இந்தியாவில்  கைது
+### එල් පී එල් ක්‍රීඩක වෙන්දේසිය සඳහා සියල්ල සූදානම්
+
+*2024-05-20 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196831) · `si`
+
+5 වැනි ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය හෙට (21) දහවල් කොළඹදී පැවැත්වෙයි.
+
+එහිදී දේශීය සහ විදෙස් ක්‍රීඩකයින් 420 දෙනෙක් වෙන්දේසියට ඉදිරිපත් කර ඇති අතර ඉන් ක්‍රීඩකයින් 154 දෙනෙක් දේශීය ක්‍රීඩකයින් ය.
+
+කණ්ඩායම් පහේ හිමිකරුවන් විසින් ක්‍රීඩක වෙන්දේසිය සඳහා ඩොලර් 500,000 බැගින් ඩොලර් මිලියන 2.5ක් යෙදවෙයි.
+
+එක් එක් කණ්ඩායම් මේ වනවිට කොන්ත්‍රාත් අත්සන් කර ඇති සහ රඳවා ගන්නා ක්‍රීඩකයින්....
+
+චාමික කරුණාරත්න, තිසර පෙරේරා, සදීර සමරවික්‍රම, නිපුන් ධනංජය, ශඩාබ් ඛාන්, ග්ලෙන් පිලිප්ස්
+
+ඩිල්ශාන් මදුශංක, නුවන් තුෂාර, දුෂාන් හේමන්ත, ප්‍රවීන් ජයවික්‍රම, මුස්ටෆිසූර් රහමන්, ඉබ්‍රාහිම් සද්‍රාන්
+
+භානුක රාජපක්ෂ, ලසිත් කෘෘස්පුල්ලේ, නිරෝෂන් දික්වැල්ල, මහීෂ් තීක්ෂණ, ටීම් සයිෆර්ට්, ඇලෙක්ස් හෙල්ස්
+
+කුසල් මෙන්ඩිස්, අවිශ්ක ප්‍රනාන්දු, චරිත් අසලංක, විජයකාන්ත් වියස්කාන්ත්, අමතුල්ලා ඔමර්සායි, නූර් අහමඩ්
+
+වනිඳු හසරංග, ඇන්ජලෝ මැතිව්ස්, දුෂ්මන්ත චමීර, කමිඳු මෙන්ඩිස්, ඇන්ද්‍රේ ෆ්ලෙචර්, කයිල් මේයර්ස්
+
+◼️
+
+[Data](articles/a4d295e5.json)
+
+---
+
+### I.S.. Four Sri Lankans belonging to IS arrested in India
 
 *2024-05-20 17:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எஸ்-ஐ-எஸ்-சேர்ந்த-இலங்கையர்-நால்வர்-இந்தியாவில்-கைது/175-337600) · `ta`
 
-இலங்கையைச் சேர்ந்த நால்வரை குஜராத் தீவிரவாத தடுப்புப் பிரிவு, இந்தியாவில் அகமதாபாத்திலுள்ள சர்தார் வல்லபாய் படேல் சர்வதேச விமான நிலையத்தில் வைத்து கைதுசெய்துள்ளது.
+Four Sri Lankan men suspected of links to ISIS were arrested at Ahmedabad's international airport, sparking heightened security measures.
 
-ஐ.எஸ்.ஐ.எஸ். பயங்கரவாதிகள் என்ற சந்தேகத்தில் குறித்த நால்வரையும் கைது செய்துள்ள  குஜராத் தீவிரவாத தடுப்புப் பிரிவு.   தீவிர விசாரணைக்காக சந்தேக நபர்களை அழைத்துச் சென்றுள்ளது.
+🟩
 
-அகமதாபாத் விமான நிலையத்திற்கு சந்தேக நபர்கள் நால்வரும் ஏன் வந்தார்கள் என்பதற்கான துல்லியமான காரணம் இதுவரை தெளிவாக தெரியவில்லை. இதனால் அந்த விமான நிலையம் முழுவதும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+The Gujarat Terrorist Prevention Division has arrested four Sri Lankans at the Sardar Vallabhbhai Patel International Airport in Ahmedabad, Ahmedabad.
 
-இந்தியாவில் ஐ.பி. எல் போட்டிகள் இடம்பெறுவதால் தகுதிச் சுற்று மற்றும் எலிமினேட்டர் ஆட்டங்களுக்காக மூன்று அணிகள், அகமதாபாத் விமான நிலையத்திற்கு வருவதற்கு சிறிது நேரத்திற்கு முன்னதாக குறித்த நால்வரும் கைதுசெய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+ISIS. The Gujarat Terrorism Prevention Unit has arrested four suspects on suspicion of being terrorists. The suspects have been taken for an intensive investigation.
+
+The exact reason why the four suspects came to the Ahmedabad airport were unclear.This has strengthened security throughout the airport.
+
+IP in India. The four teams have been arrested shortly before the three teams arrived at the Ahmedabad airport for the eligibility round and eliminator games due to the features of the LC.
 
 ◼️
 
 [Data](articles/c002b265.json)
+
+[Extended Data](ext_articles/c002b265.ext.json)
 
 ---
 
@@ -156,6 +190,8 @@ She was handed over to the Police Narcotic Bureau officials in the airport for f
 
 [Data](articles/634de3a2.json)
 
+[Extended Data](ext_articles/634de3a2.ext.json)
+
 ---
 
 ### தபால் தலை வெளியிடப்பட்டது...
@@ -193,6 +229,8 @@ Chandaka Jayasundara PC with Counsel Amila E. Dissanayake appeared for the plain
 ◼️
 
 [Data](articles/8d6eed3d.json)
+
+[Extended Data](ext_articles/8d6eed3d.ext.json)
 
 ---
 
@@ -2265,29 +2303,5 @@ The helicopter was broken into a dense forest population in East Azerbaijan.
 [Data](articles/8c6b023b.json)
 
 [Extended Data](ext_articles/8c6b023b.ext.json)
-
----
-
-### Iranian President Raisi feared dead as helicopter wreckage found
-
-*2024-05-20 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99327/iranian-president-raisi-feared-dead-as-helicopter-wreckage-found) · `en`
-
-(Reuters) - Hopes are fading that Iranian President Ebrahim Raisi and his foreign minister have survived a helicopter crash in mountainous terrain and icy weather, an Iranian official said on Monday after search teams located the wreckage.
-
-“President Raisi’s helicopter was completely burned in the crash ... unfortunately, all passengers are feared dead,” the official told Reuters.
-
-Iranian state media outlets also reported that “no survivors” were found at the crash site of the downed helicopter.
-
-Rescue teams fought blizzards and difficult terrain through the night to reach the wreckage in East Azerbaijan province in the early hours of Monday.
-
-“We can see the wreckage and the situation does not look good,” the head of Iran’s Red Crescent, Pirhossein Kolivand, told state TV.
-
-Raisi, 63, was elected president in 2021, and since taking office has ordered a tightening of morality laws, overseen a bloody crackdown on anti-government protests and pushed hard in nuclear talks with world powers.
-
-...
-
-[Data](articles/30cf7d36.json)
-
-[Extended Data](ext_articles/30cf7d36.ext.json)
 
 ---

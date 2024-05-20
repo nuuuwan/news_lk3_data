@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 11:18:05**
+As of **2024-05-20 11:34:02**
 
 ## Newspaper Stats
 
-*Scraped **25,134** Articles*
+*Scraped **25,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,150
 adaderanalk | 2,907
-tamilmirrorlk | 2,937
+tamilmirrorlk | 2,942
 virakesarilk | 3,795
 dailymirrorlk | 3,948
-adaderanasinhalalk | 4,016
+adaderanasinhalalk | 4,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,129 (100.0%) of 25,134 articles have been extended.
+25,134 (100.0%) of 25,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ඉරානයේ අන්තර්වාර ජනපති ගැන හෙළිදරව්වක්
+
+*2024-05-20 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196812) · `si`
+
+ඉරානයේ ජනාධිපති ලෙස කටයුතු කළ ඊබ්‍රාහිම් රයිසි එරට කඳුකර ප්‍රදේශයක ඊයේ (19) සිදුවූ හෙලිකොප්ටර් අනතුරකින් මියගොස් ඇති බව අද (20) තහවුරු විය.
+
+◼️
+
+[Data](articles/ce61691c.json)
+
+---
+
+### விவாதத்திற்கான புதிய திகதிகள் பரிந்துரை
+
+*2024-05-20 11:13:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாதத்திற்கான-புதிய-திகதிகள்-பரிந்துரை/175-337561) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச மற்றும் NPP தலைவர் அனுரகுமார திஸாநாயக்கவுடனான கட்சியின் பொருளாதார நிபுணர்களுக்கு இடையிலான விவாதத்திற்கான புதிய திகதிகளை ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் நளின் பண்டார ஜயமஹ, தேசிய மக்கள் சக்தியின் (NPP) செயற்குழு உறுப்பினர் கலாநிதி நலிந்த ஜயதிஸ்ஸவிற்கு ஒரு கடிதம் மூலமாக பரிந்துரைத்துள்ளார்.
+
+அதன்படி, இரு தலைவர்களுக்கும் இடையிலான விவாதம் ஜூன் 3, 4, 5, 6 அல்லது 7 ஆகிய திகதிகளிலும், பொருளாதார நிபுணர்கள் இடையேயான விவாதம் மே 27, 28, 29, 30 அல்லது 31 ஆகிய திகதிகளிலும் நடாத்த முடியும் என்று அவர் பரிந்துரைத்துள்ளார்.
+
+◼️
+
+[Data](articles/2147bd30.json)
+
+---
+
+### மழை மற்றும் வறட்சியால் 10,299 பேர் பாதிப்பு
+
+*2024-05-20 11:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-மற்றும்-வறட்சியால்-10-299-பேர்-பாதிப்பு/175-337558) · `ta`
+
+நிலவும் காலநிலை காரணமாக 3,518 குடும்பங்களைச் சேர்ந்த 10,299 பேர் பாதிக்கப்பட்டுள்ளதுடன் இருவர் காயமடைந்துள்ளதாக அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் துசித வைத்தியரத்ன தெரிவித்தார்.
+
+அநுராதபுரம் மாவட்டத்தின் கிழக்கு நுவரகம்பலத்த பிரதேசத்தில் பெய்த கனமழை மற்றும் மரங்கள் முறிந்து வீழ்ந்ததன் காரணமாக காயமடைந்த இருவர் பதிவாகியுள்ளதாக அவர் கூறினார்.
+
+இரத்தினபுரி மாவட்டத்தில் நிவிதிகல, கொடகவெல மற்றும் பலாங்கொட ஆகிய இடங்களில் மரங்கள் முறிந்து வீழ்ந்ததாலும், பலத்த காற்று காரணமாகவும் மூன்று வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாக அவர் கூறினார்.
+
+இதேவேளை, யாழ்ப்பாணத்தில் 8,000 பேரும், திருகோணமலையில் 1,334 பேரும், கிளிநொச்சியில் 946 பேரும் வறட்சியினால் பாதிக்கப்பட்டுள்ளதாக வைத்தியரத்ன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/5bb04fda.json)
+
+---
+
+### வெசாக்கை முன்னிட்டு தேரருக்கு மன்னிப்பு வழங்குமாறு கோரிக்கை
+
+*2024-05-20 10:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்கை-முன்னிட்டு-தேரருக்கு-மன்னிப்பு-வழங்குமாறு-கோரிக்கை/175-337556) · `ta`
+
+பொதுபல சேனாவின் பொதுச் செயலாளர் கலபொட அத்தே ஞானசார தேரரின் தேசிய ஒற்றுமை மற்றும் சமூக ஆதரவை மேம்படுத்தும் சேவைகளைக் கருதி, மல்வத்து, அஸ்கிரி, ராமன்ன நிகாயா, அமரபுர மகா சங்க சபை பீடாதிபதிகள் ஆகியோர் வெசாக் போயா தினத்தில் ஞானசார தேரருக்கு மன்னிப்பு வழங்குமாறு ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளனர்.
+
+2016 ஆம் ஆண்டு கூரகல ரஜமஹா விகாரை தொடர்பான ஊடக விவாதத்தின் போது முரண்பாட்டை ஏற்படுத்திய குற்றச்சாட்டின் பேரில் கலபொட அத்தே ஞானசார தேரருக்கு 2024 ஆம் ஆண்டு மார்ச் மாதம் 28 ஆம் திகதி நான்கு வருட சிறைத்தண்டனை விதிக்கப்பட்டதாக ஜனாதிபதிக்கு எழுதியுள்ள கடிதத்தில் பிரதம பீடாதிபதிகள் குறிப்பிட்டுள்ளனர்.
+
+சமூகத்தில் இடம்பெறும் தீவிரவாத செயற்பாடுகள் தொடர்பில் அதிகாரிகளை எச்சரிக்க ஞானசார தேரர் நடவடிக்கை எடுத்துள்ளார்.
+
+அவரது நடவடிக்கைகள் அரச பாதுகாப்புப் படைகளுக்கு முக்கியமான ஆதரவை வழங்கியது, இலங்கையில் சில தீவிரவாதக் குழுக்கள் பரவுவதைத் தடுக்க உதவியது.
+
+இதன் விளைவாக, இலங்கை சமூகத்தில் பல சாத்தியமான தீவிரவாத மோதல்கள் தவிர்க்கப்பட்டதாக அவர்கள் குறித்த கடித்த்தில் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d513a6d8.json)
+
+---
 
 ### Over 650 jobs at risk at Sapugaskanda refinery?
 
@@ -50,23 +114,61 @@ The government had said it has identified the need to make a ‘critical investm
 
 [Data](articles/fe8f42cf.json)
 
+[Extended Data](ext_articles/fe8f42cf.ext.json)
+
 ---
 
-### ஹெலிகொப்டர் விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி உயிரிழப்பு
+### Iranian President Ibrahim Raisi dies in helicopter crash
 
 *2024-05-20 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184010) · `ta`
 
-ஹெலிகொப்டர் விபத்துக்குள்ளானதில் ஈரான் நாட்டு ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோர் உயிரிழந்துள்ளதாக அந்நாட்டு ஊடகமான மெஹர் செய்திச் சேவை இன்று திங்கட்கிழமை (20) உறுதிப்படுத்தியுள்ளது.
+Iranian President Ibrahim Raisi and External Affairs Minister die in a helicopter crash in Iran's East Azerbaijan province while crossing hillsides in heavy snow.
 
-அசர்பைஜானில் அணை திறப்பு விழாவில் கலந்துகொண்ட இப்ராஹிம் ரைசி ஹெலிகொப்டர் மூலம் ஈரான் புறப்பட்டார்.
+🟩
 
-இந்நிலையில், கடுமையான பனிமூட்டத்தில் மலைப்பகுதியை கடக்கும்போது நேற்று ஞாயிற்றுக்கிழமை (19) ஹெலிகொப்டர் ஈரானின் கிழக்கு அஜர்பைஜான் மாகாணத்தில் விபத்துக்குள்ளானது.
+Iranian President Ibrahim Raisi and External Affairs Minister have died in the helicopter crash, the Mihar News Service confirmed on Monday (20).
 
-ஜனாதிபதி இப்ராஹிம் ரைசியுடன் ஹெலிகொப்டரில் பயணித்த வெளிவிவகார அமைச்சர் உசைன் அமீர், கிழக்கு அசர்பைஜான் மாகாண கவர்னர் மாலிக் ரஹ்மதி உள்பட 9 பேரும் விபத்தில் உயிரிழந்துள்ளனர்.
+Ibrahim Risi, who attended the opening of the dam in Azarbaijan, departed by helicopter.
+
+In the meantime, helicopter crashed in Iran's East Azerbaijan province on Sunday (19) as he crossed the hillside in heavy snow.
+
+Nine people, including President Ibrahim Raisi, were traveling in a helicopter, including Foreign Minister Usain Amir and Eastern Azerbaijan provincial governor Malik Rahmati.
 
 ◼️
 
 [Data](articles/2150a111.json)
+
+[Extended Data](ext_articles/2150a111.ext.json)
+
+---
+
+### இராணுவ வாகனம் மோதி யுவதி பலி
+
+*2024-05-20 10:51:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-வாகனம்-மோதி-யுவதி-பலி/175-337555) · `ta`
+
+துவிச்சக்கர வண்டியில் பால் எடுத்து சென்ற வேளை , புத்தூர் - கனகம்புளியடி வீதியில் வீரவாணி சந்திக்கு அருகில் இராணுவ வாகனம் மோதியதில் யுவதி படுகாயமடைந்துள்ளார்.
+
+படுகாயமடைந்த யுவதியை அங்கிருந்தவர்கள் மீட்டு வைத்தியசாலைக்கு கொண்டு சென்ற வேளை யுவதி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/93a5520c.json)
+
+---
+
+### ஈரானில் இடைக்கால ஜனாதிபதி முகமது மொக்பர்
+
+*2024-05-20 10:40:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-இடைக்கால-ஜனாதிபதி-முகமது-மொக்பர்/50-337553) · `ta`
+
+ஈரானில், ஜனாதிபதி ஒருவர் அவரரு பதவிக்காலத்தில் காலமானால், அரசியலமைப்பின் 131 வது பிரிவின்படி, இடைக்கால ஜனாதிபதி தெரிவு செய்யப்படுவார்.
+
+முதல் துணை ஜனாதிபதி, பாராளுமன்ற சபாநாயகர் மற்றும் நீதித்துறை தலைவர் ஆகியோரைக் கொண்ட ஒரு கவுன்சிலே இதனை கண்காணிக்கும்.
+
+ஈரான் ஜனாதிபதி இப்ராகிம் ரைசி ஞாயிற்றுக்கிழமை (20) அசர்பைஜான் சென்றார். அசர்பைஜானில் புதிதாக கட்டப்பட்ட அணை திறப்பு விழாற்காக இப்ராகிம் ரைசி சென்றார். அசர்பைஜான் ஜனாதிபதி இல்ஹாம் அலியோவ் உடன் அணை திறப்பு விழாவில் கலந்துகொண்ட இப்ராகிம் ரைசி ஹெலிகாப்டர் மூலம் ஈரான் புறப்பட்டார். அப்போது ஏற்பட்ட ஹெலிகாப்டர் விபத்தில் ஜனாதிபதி இப்ராகிம் ரைசி மரணமடைந்தார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c5575fb5.json)
 
 ---
 
@@ -188,21 +290,27 @@ State TV reported that images from the site showed the aircraft slammed into a m
 
 ---
 
-### மழையினால் வயிற்றுப்போக்கு நோய் அதிகரிக்கும் அபாயம் - பொது சுகாதார பரிசோதகர்கள் சங்கம்
+### Rainfall Increasing Diarrhea Disease - Public Health Inspectors Association
 
 *2024-05-20 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184008) · `ta`
 
-தொடரும் மழையினால் வயிற்றுப்போக்கு நோய் அதிகரிக்கும் அபாயம் உள்ளதாக பொது சுகாதார பரிசோதகர்கள் சங்கம் எச்சரித்துள்ளது.
+Due to heavy rainfall, the Public Health Inspectors Association warns of increased diarrhea risks. To mitigate this, the association plans to use clean water for donations nationwide before the Vesak festival, fearing water pollution from rain. This year's donations are lower than previous years.
 
-எனவே, எதிர்வரும் வெசாக் பண்டிகையை முன்னிட்டு நாடு பூராகவும் தானம் வழங்கும் நிகழ்வுகளில் சுத்தமான நீரைப் பயன்படுத்துமாறு பொது சுகாதார சங்கத்தின் தலைவர் உபுல் ரோஹன குறிப்பிட்டுள்ளார்.
+🟩
 
-மழையினால் நீர்நிலைகள் மாசுபடும் அபாயம் ஏற்பட்டுள்ளதோடு, வெசாக் பண்டிகைக்கு தானம் வழங்கப்படும் விகாரைகள்   முதல் நாள் வரை  பதிவு செய்யப்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+The Public Health Inspectors Association has warned that the continued rainfall is at risk of increasing diarrhea.
 
-மேலும், ஏனைய வருடங்களுடன் ஒப்பிடும் போது இந்த வருடம் தானம் வழங்குவதில்  குறைபாடு காணப்படுவதாக பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+Therefore, the president of the Public Health Association Upul Rohana has stated that clean water will be used in events that donate across the country ahead of the upcoming Vesak festival.
+
+He said that the rainfall is in danger of polluting the water and the donation donated to the Vesak festival will be recorded until the first day.
+
+The President of the Public Health Inspectors Association said that this year's donation is deficiency compared to other years.
 
 ◼️
 
 [Data](articles/1c2808be.json)
+
+[Extended Data](ext_articles/1c2808be.ext.json)
 
 ---
 
@@ -260,21 +368,27 @@ The government has decided to send a senior senior officer of the Foreign Servic
 
 ---
 
-### மழை, வரட்சியினால் மொத்தம் 10,299 பேர் பாதிப்பு ;  இருவர் காயம்
+### A total of 10,299 people are affected by rain and drought;Two people injured
 
 *2024-05-20 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184006) · `ta`
 
-நாட்டில் கடும் மழையினால் 3,518 குடும்பங்களைச் சேர்ந்த 10,299 பேர் பாதிக்கப்பட்டுள்ளதுடன் இருவர் காயமடைந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் பிரதிப் பணிப்பாளர் துசித வைத்தியரத்ன தெரிவித்துள்ளார்.
+Heavy rains affect 10,299 people across Sri Lanka, injuring two. In the East Nuwarakam area, two injuries occurred due to heavy rains. Additionally, three houses were damaged in Nivitigala, Kodagawela, and Balangoda districts. Droughts impact 8,000 in Jaffna, 1,334 in Trincomalee, and 946 in Kilinochchi.
 
-அநுராதபுரம் மாவட்டத்தின் கிழக்கு  நுவரகம் பலாத்த பகுதியில் பெய்த கடும் மழையினால் மரங்கள் முறிந்து வீழ்ந்தமையினால் குறித்த இருவரும் காயமடைந்துள்ளனர்.
+🟩
 
-இதேவேளை, இரத்தினபுரி மாவட்டத்தில் நிவிதிகல, கொடகவெல மற்றும் பலாங்கொட ஆகிய பகுதிகளில் மரங்கள் முறிந்து வீழ்ந்தமையினாலும், பலத்த காற்று வீசியமையாலும் மூன்று வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
+Deputy Director of the Disaster Management Center Dusitha Vaidyarathne said that 10,299 people from 3,518 families have been affected and two have been injured due to heavy rains in the country.
 
-இதேவேளை, யாழ்ப்பாணத்தில் 8,000 பேரும், திருகோணமலையில் 1,334 பேரும், கிளிநொச்சியில் 946 பேரும் வரட்சியினால் பாதிக்கப்பட்டுள்ளது.
+Both of them have been injured due to heavy rains in the East Nuwarakam area of the Anuradhapura district.
+
+Meanwhile, three houses have been partially damaged due to the collapse of trees and strong winds in the Nivitigala, Kodagawela and Balangoda district in the Ratnapura district.
+
+Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi have been affected by the drought.
 
 ◼️
 
 [Data](articles/6b2d8749.json)
+
+[Extended Data](ext_articles/6b2d8749.ext.json)
 
 ---
 
@@ -298,19 +412,25 @@ The General Secretary of the Peradeniya University’s Trade Union Federation, T
 
 ---
 
-### இலங்கைக்கே உரித்தான தங்க முதுகு தவளை இந்தியாவில் கண்டுபிடிப்பு
+### Sri Lanka's golden back frog in India
 
 *2024-05-20 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184003) · `ta`
 
-இலங்கைக்கே உரித்தானது என கூறப்படும் தங்கம் போல மின்னும் அபூர்வ தவளை இந்தியாவில் கண்டுபிடிக்கப்பட்டுள்ளது.
+A rare golden-backed frog, scientifically named Hylarana gracilis, typically found in Sri Lanka, was recently discovered in India. This unique species, with its golden back and dark upper body, was spotted in a pond near the Countanya forest in Andhra Pradesh's Balamana region.
 
-இது ஆந்திர மாநிலம், பலமனேறு அருகே உள்ள கவுண்டன்யா வனப்பகுதியை ஒட்டி கவுனிதிம்மேபள்ளி என்ற கிராமத்திலுள் குளத்தில் கண்டுப்பிடிக்கப்பட்டுள்ளதாக இந்திய விலங்கியல் துறையைச் சேர்ந்த தீபா ஜெய்ஸ்வால் தெரிவித்துள்ளார்.
+🟩
 
-இதுபோன்ற தவளைகள் இலங்கையில் மட்டுமே காணப்படுகின்றன. இந்த தவளையின் முதுகு தங்க நிறத்திலும் உடல் மேல் பகுதி கருமையாகவும் உள்ளது. இதனுடைய அறிவியல் பெயர் ஹைரா கிராசிலிஸ் (Hylarana gracilis) என்பதாகும்.
+In India, a rare frog has been discovered like gold that is said to be belonging to Sri Lanka.
+
+Deepa Jaiswal from the Indian Zoology Department said that it has been found in the pond in the village of Gaunitimpalli near the Countanya forest near Andhra Pradesh, Balamana.
+
+Such frogs are only found in Sri Lanka. The frog's back is golden and the upper part of the body is dark. Its scientific name is Hylarana gracilis.
 
 ◼️
 
 [Data](articles/8c6c0149.json)
+
+[Extended Data](ext_articles/8c6c0149.ext.json)
 
 ---
 
@@ -2065,139 +2185,5 @@ In many respects, watching the drama on YouTube is better than doing it in a the
 [Data](articles/644ccf2f.json)
 
 [Extended Data](ext_articles/644ccf2f.ext.json)
-
----
-
-### AKD says debate with Sajith is off if no confirmation before deadline
-
-*2024-05-19 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99321/akd-says-debate-with-sajith-is-off-if-no-confirmation-before-deadline) · `en`
-
-Leader of the National Peoples’ Power (NPP) Anura Kumara Dissanayake states that an NPP government will abolish all special privileges of the Heads of the State including pensions, allowances, official residences, vehicles etc.
-
-Addressing an event held in Maharagama today (19), the NPP leader also pledged to provide a ‘sufficient pension’ for the retired community, which he elaborated is an amount sufficient for the cost of living. Meanwhile, the NPP leader assured that the interest rates for the savings of senior citizens will be increased up to 15%.
-
-Speaking further during the event, Dissanayake said that since the deadline given for the Samagi Jana Balawegaya (SJB) to confirm a date for the proposed debate on the policies of both parties on economic issues ends tomorrow (May 20), it will be considered as a rejection of the debate.
-
-...
-
-[Data](articles/b4743812.json)
-
-[Extended Data](ext_articles/b4743812.ext.json)
-
----
-
-### The Iranian Prime Minister is suited
-
-*2024-05-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196796) · `si`
-
-Iranian PM's visit to Azerbaijan faced heavy rain and wind, but no accidents occurred.
-
-🟩
-
-Foreign media says that the helabrah depiction and a group of senior officials of Iranian president was traveling in Azerbaijan.
-
-It is said that heavy rains and windy bad weather conditions were made due to the bad weather conditions.
-
-However, the President and the group have not been involved in a accident.
-
-◼️
-
-[Data](articles/e3f78c8a.json)
-
-[Extended Data](ext_articles/e3f78c8a.ext.json)
-
----
-
-### Businessman arrested for attacking Iran's ambassador
-
-*2024-05-19 19:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-தூதுவரைத்-தாக்கிய-தொழிலதிபர்-கைது/175-337543) · `ta`
-
-A Colombo businessman was arrested for allegedly assaulting Iran's ambassador, Dr. Alresa Delgosh, at a parking lot in Colombo City Center. The incident occurred after a dispute over parking space. The suspect, identified as a 36-year-old resident of Ward Place, Colombo 07, was remanded until tomorrow by Colombo Additional Magistrate Harshana Kekunawala.
-
-🟩
-
-A businessman from Colombo 7 has been arrested in connection with the alleged attack on Iranian Ambassador Dr. Alresa Delgosh at the City Center in Colombo last evening.
-
-The suspect has been arrested by Mahasen Basnayake (age 36), a resident of Ward Place, Colombo 07.
-
-Police said they were trying to escape after a dispute with the ambassador to park his vehicle at the City Center parking lot in Colombo.
-
-Subsequently, the ambassador got out of his vehicle and told the driver to wait until the police arrived, and the trader was acting in the front of his car by pressing his hand in the front of his car.
-
-Colombo Additional Magistrate Harshana Kekunawala has ordered him to be remanded until tomorrow (20).
-
-◼️
-
-[Data](articles/e8b96325.json)
-
-[Extended Data](ext_articles/e8b96325.ext.json)
-
----
-
-### Iran's president is caught in a helicopter crash used to travel
-
-*2024-05-19 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183981) · `ta`
-
-Iran's President involved in a helicopter crash; it landed in a remote area while en route. The incident occurred during his trip to Iran's East Azerbaijan province, accompanied by the Foreign Minister. Officials noted the urgency of the situation.
-
-🟩
-
-Iran's state media reports that the helicopter who traveled to the Iranian president has landed in a distant area.
-
-Iranian media has reported that the Iranian Foreign Minister was traveling with Iran's East Azerbaijan province of Iran.
-
-Iranian officials said the helicopter was rushing to the landing area.
-
-◼️
-
-[Data](articles/6502cd4b.json)
-
-[Extended Data](ext_articles/6502cd4b.ext.json)
-
----
-
-### Helicopter carrying Iranian President Raisi involved in incident, local media reports
-
-*2024-05-19 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99320/helicopter-carrying-iranian-president-raisi-involved-in-incident-local-media-reports) · `en`
-
-A helicopter carrying Iranian President Ebrahim Raisi suffered a “hard landing” on Sunday, Iranian state media reported, without immediately elaborating.
-
-Raisi was traveling in Iran’s East Azerbaijan province. State TV said the incident happened near Jolfa, a city on the border with with the nation of Azerbaijan, some 600 kilometers (375 miles) northwest of the Iranian capital, Tehran.
-
-Traveling with Raisi were Iran’s Foreign Minister Hossein Amirabdollahian, the governor of Iran’s East Azerbaijan province and other officials, the state-run IRNA news agency reported. One local government official used the word “crash” to describe the incident, but he acknowledged to an Iranian newspaper that he had yet to reach the site himself.
-
-Neither IRNA nor state TV offered any information on Raisi’s condition.
-
-...
-
-[Data](articles/e7f8cf2e.json)
-
-[Extended Data](ext_articles/e7f8cf2e.ext.json)
-
----
-
-### The dissolution of Parliament is not favorable to the President - we are ready for any election - Anuragumara Dissanayake
-
-*2024-05-19 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/183980) · `ta`
-
-Anurakumara Dissanayake, President of the National People's Power, opposes parliamentary dissolution, stating readiness for any election. He emphasizes no distinction between presidential and general elections, highlighting the importance of facing challenges head-on. Negotiations between President Ranil Wickremesinghe and Basil Rajapaksa focus on economic impacts, with discussions on dissolving parliament and holding elections within specific timelines. The Sri Lanka Peoples Freedom Alliance (PA) members' decision to leave the presidency and return to the PA could influence the outcome of both elections. The Rajapaksas' stance on supporting the current President in the presidential election is critical, considering their past handling of the economic crisis and public sentiment towards them.
-
-🟩
-
-There is no difference between presidential election and general election. We will face any election. We will face it or failure.. The President of the National People's Power and a Member of Parliament, Anurakumara Dissanayake, said that dissolving parliament would not be favorable.
-
-He was speaking at the National Conference of Pensioners on Sunday (19) in the Maharaka area.
-
-The President has the power to dissolve parliament and the National Elections Commission has the power to hold the presidential election by September and October.
-
-There are a series of negotiations between President Ranil Wickremesinghe and Basil Rajapaksa, who is responsible for economic impact.
-
-The President has the power to dissolve parliament. President Ranil Wickremesinghe will try to remain in office until the end of the post.
-
-...
-
-[Data](articles/1baf13e6.json)
-
-[Extended Data](ext_articles/1baf13e6.ext.json)
 
 ---

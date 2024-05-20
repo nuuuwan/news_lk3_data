@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 16:18:48**
+As of **2024-05-20 16:33:48**
 
 ## Newspaper Stats
 
-*Scraped **25,206** Articles*
+*Scraped **25,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,446
 dailyftlk | 1,480
 adalk | 2,158
 adaderanalk | 2,915
-tamilmirrorlk | 2,947
+tamilmirrorlk | 2,948
 virakesarilk | 3,807
-dailymirrorlk | 3,958
-adaderanasinhalalk | 4,029
+dailymirrorlk | 3,959
+adaderanasinhalalk | 4,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,205 (100.0%) of 25,206 articles have been extended.
+25,206 (100.0%) of 25,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ඉන්දියාවෙන් ලංකාවට එන අලුත්ම පෙට්‍රල් වර්ගය
+
+*2024-05-20 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196825) · `si`
+
+Indian Oil සමාගම ඉතිහාසයේ පළමු වරට ඔක්ටේන් 100 සුපිරි වර්ගයේ පෙට්‍රල් තොගයක් ශ්‍රී ලංකාවට අපනයනය කර ඇති බව වාර්තා වෙයි.
+
+පසුගිය මැයි 18 වනදා මුම්බායේ Jawaharlal Nehru Port Trust (JNPT) වෙතින් මෙම ඉන්ධන තොගය ශ්‍රී ලංකාවට නැව්ගත කර තිබේ.
+
+මෙම සමාරම්භක නැව්ගත කිරීම අමතමින්, ඉන්දියන් ඔයිල් හි අධ්‍යක්ෂ (අලෙවිකරණ) වී. සතිෂ් කුමාර් මහතා අදහස් දක්වමින් පැවසුවේ, “අපගේ තවත් නවතම නිෂ්පාදනයක් ශ්‍රී ලංකාවේ වෙළෙඳපොළ වෙත යැවීමට හැකිවීම ඉතා වැදගත් අවස්ථාවක් සනිටුහන් කරනු ලබනවා“, යනුවෙනි.
+
+XP100 ලෙසින් නම්කර ඇති මෙම පෙට්‍රල් වර්ගය ඉන්දියාව විසින් දේශීය සංවර්ධනය කරන ලද්දකි.
+
+එය උසස් ගණයේ වාහන සඳහා ඉහළ කාර්යක්ෂමතාවයකින් යුතු එන්ජිමේ ක්‍රියාකාරිත්වය, වේගවත් ත්වරණය, සුමට රිය පැදවීමේ හැකියාව සහ වැඩිදියුණු කළ ඉන්ධන පිරිමැස්ම සඳහා නිර්මාණය කර ඇත.
+
+◼️
+
+[Data](articles/ecf1e917.json)
+
+---
+
+### Police Sub Inspector arrested with illicit liquor, distilling gear
+
+*2024-05-20 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Sub-Inspector-arrested-with-illicit-liquor-distilling-gear/108-282972) · `en`
+
+Anuradhapura, may 20 (Daily Mirro)- A police Sub Inspector (SI) who had in his possession a stock of 14 litres of illicit liquor and distilling equipment was arrested by Thirappane Police during a raid on his house.
+
+The 59-year-old SI was a resident of Ihalagama in Mihintale. Police said they carried out the raid on a tip-off from the public
+
+The distilling equipment seized during the raid included copper pipes covered with rubber belts, a barrel, a gas cylinder and a gas cooker.
+
+OIC Thirappane Police CI R.M.S.Kumarasinghe is conducting further investigations on the instructions of SSP Thilina Hewapathirana and DIG Laksiri Wijesena.
+
+◼️
+
+[Data](articles/e542f639.json)
+
+---
 
 ### Enjoining order for Wijayadasa and Keerthi
 
@@ -480,7 +518,7 @@ He said they will request the Speaker to reveal the list of MPs who have request
 
 ---
 
-### World Bank help to restructure USD800mn debt in Sri Lanka water sector
+### World Bank help to restructure US$800mn debt in Sri Lanka water sector
 
 *2024-05-20 13:51:00* · [`economynextcom`](https://economynext.com/world-bank-help-to-restructure-usd800mn-debt-in-sri-lanka-water-sector-163772/) · `en`
 
@@ -926,21 +964,29 @@ According to the complaint, the police have arrested a woman of Denmark, a woman
 
 ---
 
-### ලෝක සෞඛ්‍ය සංවිධානයෙන් ලංකාවට සහතිකයක්
+### World Health Organization Certificates
 
 *2024-05-20 12:09:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-සෞඛ්‍ය-සංවිධානයෙන්-ලංකාවට-සහතිකයක්/11-409737) · `si`
 
-ශ්‍රී ලංකාවේ වාහක රෝග පාලනය, මර්ධනය, කළමණාකරනය, විශිෂ්ඨ මට්ටමක පවතින බව ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිතයින් පෙන්වා දෙයි.
+Sri Lanka's health management is highly commended by the WHO. A delegation visited from the 13th to 20th, highlighting efforts against diseases like dengue, malaria, and leishmaniasis. The visit aimed to assess the effectiveness of current health strategies and identify areas for improvement.
 
-ශ්‍රී ලංකාවේ වාහකයින් මගින් බෝවන ඩෙංගු, මැලේරියා, බරවා සහ ලීෂ්මේනියා (Dengue, Malaria, Filariasis, & Leishmaniasis) යන රෝග පිළිබඳ ඒකාබද්ධ බාහිර සමාලෝචනයක් ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිත පිරිසක් විසින් පසුගිය 13 වනදි සිට 20 වනදා දක්වා  මෙරට දී සිදු කිරීමට පියවර ගෙන ඇත.
+🟩
 
-මෙතෙක් සිදු කරන ලද ක්ෂේත්‍ර ඇතුලු අනෙකුත්  නිරික්ෂණ වලින්   අනතුරුව ලබාගත් දත්ත හා තොරතුරු පිළිබදව  ලෝක සෞඛ්‍ය සංවිධානයේ මෙරට නේවාසික  නියෝජිත ආචාර්ය අලාකා සිං මහත්මිය ඇතුලු නියෝජිත පිරිස එහි අවසන් දිනය වන අද දින  සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සහ  එම අමාත්‍යාංශයේ නිළධාරීන් දැනුවත් කිරීමට පියවර ගන්නා ගැනිණි.
+The World Health Organization (WHO) points out that Sri Lanka's carrier, control, management and management is an excellent level.
 
-ඒ අනුව එම නියෝජිත කණ්ඩායම අද දින (20) සෞඛ්‍ය අමාත්‍යාංශයේදී සෞඛ්‍ය අමාත්‍යවරයා හමුවී ඒ පිළිබදව විශේෂ සමාලෝචනයක නිරත වන ලදී.
+Steps have been taken to conduct a combination of the World Health Organization from the 13th to the 20th of the 13th of the World Health Organization by vehicles in Sri Lanka.
+
+Dr. Alakara, Residential Representatives, Dr. Alak Singa, who has taken after the country, which has been taken, including other observations, will be taken to educate the Minister of Health and Industry today.Were about.
+
+Accordingly, the delegation was in a special review of the Health Minister at the Ministry of Health today (20).
+
+The delegation pointed out that the Ministry of Health has taken measures to control dengue, glaria, and leashing disease in Sri Lanka.. The delegation also said that the disease is being developed and optimum management of the health system in Sri Lanka and has done well.
 
 ...
 
 [Data](articles/1715eab5.json)
+
+[Extended Data](ext_articles/1715eab5.ext.json)
 
 ---
 
@@ -2267,67 +2313,5 @@ Meanwhile, the sub-sectors of programs and broadcasts, telecommunications, and r
 [Data](articles/a2076f8b.json)
 
 [Extended Data](ext_articles/a2076f8b.ext.json)
-
----
-
-### Government and government approved private schools begin today
-
-*2024-05-20 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196802) · `si`
-
-Today marks the start of the first phase of the first semester for both government and approved private schools. The Ministry of Education confirmed that the third phase of the first term concluded on the 31st. Due to adverse weather conditions, particularly heavy rainfall, the Governance Governor has ordered the closure of all schools in the Puttalam District, affecting 213 schools there and 158 in Chilaw. Additionally, the Disaster Management Center advises citizens to stay informed about disaster operations during this period, with a 24-hour operating center available for updates.
-
-🟩
-
-The first phase of the first semester of government and government approved private schools will commence today (20).
-
-The Ministry of Education said that the third phase of the first term was operating until 31st.
-
-The Governance Governor has decided to close all schools in the Puttalam District due to the adverse weather conditions.
-
-The decision has been taken after a meeting with the Puttalam District in the country due to the heavy rainfall of the island.
-
-Accordingly, 213 schools in the Puttalam region and 158 schools in Chilaw will be closed today.
-
-Meanwhile, the Disaster Management Center informs the people to inform their operating room on disasters in the rainy weather conditions.
-
-Director General of the Center Major General Herath says that the 24-hour operating center can provide information on it.
-
-◼️
-
-[Data](articles/3b44c27e.json)
-
-[Extended Data](ext_articles/3b44c27e.ext.json)
-
----
-
-### Rain and wind quality further - Showers over 100mm
-
-*2024-05-20 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196800) · `si`
-
-Expect heavy showers exceeding 100mm across Sri Lanka due to the ongoing southwest monsoon. Cloudy skies predicted in many areas. Thundershowers likely in Western, Sabaragamuwa, Central, Northwest, and Southern provinces. Heavy rainfall possible in Matara, Kandy, Nuwara Eliya, and Mannar districts. Winds gusting up to 40km/h. Take precautions against lightning and landslides.
-
-🟩
-
-The southwest monsoon system is continuously expecting the existing rain and wind condition.
-
-The Department of Meteorological was announced that the sky would remain with the clouds in many parts of the island.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northwest and Southern provinces.
-
-Showers or thundershowers will occur at several places elsewhere in the island.
-
-In some places in the Western, Sabaragamuwa, North-Western provinces, in general area Matara, Matara, Kandy, Nuwara Eliya and Mannar districts.. Heavy rains may occur at more than 100.
-
-Over the island viciously, at times of the island, there will be about 30,40 km.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Meanwhile, the National Building Research Organization said that the National Building Research Organization (NICITION)
-
-...
-
-[Data](articles/f69a2457.json)
-
-[Extended Data](ext_articles/f69a2457.ext.json)
 
 ---

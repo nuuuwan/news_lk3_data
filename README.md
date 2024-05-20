@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 11:54:04**
+As of **2024-05-20 12:05:56**
 
 ## Newspaper Stats
 
-*Scraped **25,140** Articles*
+*Scraped **25,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,150
-adaderanalk | 2,907
+adalk | 2,152
+adaderanalk | 2,909
 tamilmirrorlk | 2,942
 virakesarilk | 3,795
 dailymirrorlk | 3,948
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,140 (100.0%) of 25,140 articles have been extended.
+25,140 (100.0%) of 25,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Warning issued for very heavy showers
+
+*2024-05-20 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99332/warning-issued-for-very-heavy-showers) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rain, for Western, Sabaragamuwa, North-western provinces and for Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts.
+
+Due to South-West monsoon conditions which are gradually establishing across the island, prevailing showery and windy conditions will continue further, it said.
+
+Very heavy showers above 150 mm are likely at some places in Western and North-western provinces while heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Galle, Matara, Kandy, Nuwara-Eliya and Mannar districts, the advisory stated.
+
+The general public, fishing and naval community are kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3619602a.json)
+
+---
+
+### Who is Mohammad Mokhber, the man set to become Iran’s interim president?
+
+*2024-05-20 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99331/who-is-mohammad-mokhber-the-man-set-to-become-irans-interim-president) · `en`
+
+(Reuters) - Here are some key facts about Mohammad Mokhber, 68, Iran’s first vice president who, based on the country’s constitution, is expected to become interim president following the death of Ebrahim Raisi in a helicopter crash.
+
+* As interim president, Mokhber is part of a three-person council, along with the speaker of parliament and the head of the judiciary, that will organise a new presidential election within 50 days of the president’s death.
+
+* Born on Sept. 1, 1955, Mokhber, like Raisi, is seen as close to Supreme Leader Ali Khamenei, who has the last say in all matters of state. Mokhber became first vice president in 2021 when Raisi was elected president.
+
+...
+
+[Data](articles/6799f03a.json)
+
+---
 
 ### A revelation of Iran's interim presidential
 
@@ -404,6 +438,26 @@ The government has decided to send a senior senior officer of the Foreign Servic
 
 ---
 
+### කුඹුක්කන් ඔයේ දිය නෑමට ගිය කාන්තාවක් ඝාතනයට ලක්වේ - සැකකාර සැමියා ප්‍රදේශයෙන් පළා ගිහින්
+
+*2024-05-20 09:37:55* · [`adalk`](https://www.ada.lk/breaking_news/කුඹුක්කන්-ඔයේ-දිය-නෑමට-ගිය-කාන්තාවක්-ඝාතනයට-ලක්වේ---සැකකාර-සැමියා-ප්‍රදේශයෙන්-පළා-ගිහින්/11-409732) · `si`
+
+කුබුක්කන් ඔයේ දියනෑමට ගොස් ඝාතනයට ලක්වූ දෙදරු මවකගේ මළසිරුරක් ඊයේ (19) පස්වරුවේ ලුණුගල කුබුක්කන් ඔයේ තිබියදී හමුවූ බව ලුණුගල පොලිසිය පවසයි .
+
+ලුණුගල ජනතාපුර තුබහිටියවත්ත ප්‍රදේශයේ පදිංචිව සිටි වර්ණසූරියගේ  සුමිත්‍රා දමයන්ති (36) නැමති  දෙදරු මවක් මෙසේ  ඝාතනයට ලක්වී ඇතැයි පොලිසිය කීය ..
+
+මැය සිය නිවස අසල පහලින් පිහිටි කුඹුක්කන් ඔයේ  දියනෑමට ඊයේ (19) පස්වරුවේ ගොස් ඇති බවත් , එම අඅවස්ථාවේ ඇයගේ 17 හැවිරිදි දියණිය සහ 12 හැවිරිදි පුතා නිවසේ සිට ඇති බවත් පොලිසිය පැවසීය .
+
+මෙසේ ඇය  කුඹුක්කන් ඔයේ දියනෑමට ගොස් සිටියදී කිසිවෙකු විසින් මැයට පහරදී ඝාතනය කර ඇති බවත් , මළසිරුර කුඹුක්කන් ඔයේ මුනින් අතට හැරී වැටී තිබියදී පොලිසිය සොයා ගෙන ඇත.
+
+මැයගේ  මුහුණට , හිසට නළලට බරපතළ තුවාල සිදු ව තිබූ බවත්  මුඛයේ දත් කීපයක් කැඩි ගොස් තිබිණැයි පොලිසිය සදහන් කළේය .මෙම කාන්තාව සහ ඇයගේ සැමියා අතර කාලයක පටන් පවුල් ආරවුලක් තිබී ඇති බවත් , අවස්ථා කීපයකදී  එම ආරවුල සම්බන්ධයෙන් පොලිසිය ටද පැමිණ ඇතැයි පොලිසිය පවසයි .
+
+...
+
+[Data](articles/a33ae52f.json)
+
+---
+
 ### A total of 10,299 people are affected by rain and drought;Two people injured
 
 *2024-05-20 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184006) · `ta`
@@ -489,6 +543,26 @@ Raisi was elected president in 2021 and, under the current timetable, presidenti
 [Data](articles/0730c82a.json)
 
 [Extended Data](ext_articles/0730c82a.ext.json)
+
+---
+
+### ඉරාන ජනපති ඇතුළු පිරිස මිය ගිය බව තහවුරු කරයි
+
+*2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ඇතුළු-පිරිස-මිය-ගිය-බව-තහවුරු-කරයි/11-409731) · `si`
+
+ඉරාන ජනපතිවරයා මිය යාම තහවුරු විමත් සමගින් ඉරාන උප ජනාධිපති මොහොමඩ් මුඛ්බෙර් මහතාගේ ප්‍රධානත්වයෙන් එරට රජයේ කැබිනට් මණ්ඩලයේ විශේෂ රැස්විමක් පවත්වා තිබේ.
+
+ඉරාන ජනපති ඇතුළු  පිරිසක් ගමන් කරමින් තිබූ හෙලිකොප්ටරය අනතුරට පත්විමෙන් එහි ගමන් කළ සියලු දෙනා ජිවිතක්ෂයට පත්ව ඇති බව ඉරානය නිල වශයෙන් තහවුරු කළේය.
+
+ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා හා විදේශ කටයුතු අමාත්‍ය හුසෙන් අමිර් ඇතුළු පිරිසක් ගමන් කරමින් සිටියදි හොලිකොප්ටර් යානය අනතුරට පත්වූ ප්‍ර දේශය වෙත ගලවා ගැනිමේ කණ්ඩායම් මේ වන විට ළඟා වි ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+
+අනතුරින් දිවි ගලවාගත් මගින් පිළිබඳව කිසිම සලකුණක් නොමැති බවද වාර්තා වෙයි.
+
+නැගෙනහිර අසර්බයිජානයේ ඝන වනාන්තර ප්‍ර දේශයකට මෙම හෙලිකොප්ටර් යානය කඩා වැටි තිබුණි.
+
+◼️
+
+[Data](articles/6e2a4be7.json)
 
 ---
 
@@ -2147,79 +2221,5 @@ Three of the leading soldiers and a middle -class player were effectively bowled
 [Data](articles/e24951d0.json)
 
 [Extended Data](ext_articles/e24951d0.ext.json)
-
----
-
-### Schools in Puttalam closed tomorrow
-
-*2024-05-19 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196797) · `si`
-
-Due to bad weather, all schools in Puttalam will be closed tomorrow. The decision was made by the North Western Province's Governor, who will decide about the next few days based on the weather forecast.
-
-🟩
-
-The Governor of the North Western Province has decided to close all schools in the Puttalam District due to the inclement weather.
-
-He is informed that the coming days will be decided on the coming days following the weather conditions tomorrow.
-
-The Chief Secretary of the North Western Province has been informed of the Provincial Director of Education.
-
-◼️
-
-[Data](articles/fcadbe7e.json)
-
-[Extended Data](ext_articles/fcadbe7e.ext.json)
-
----
-
-### Lock tomorrow for Puttalam Schools
-
-*2024-05-19 20:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-பாடசாலைகளுக்கு-நாளை-பூட்டு/175-337545) · `ta`
-
-Puttalam district schools closed tomorrow due to special holiday announced by the North Western Governor's Office.
-
-🟩
-
-All schools in the Puttalam district have been given a special holiday tomorrow (20), the North Western Governor's Office said.
-
-◼️
-
-[Data](articles/488f9636.json)
-
-[Extended Data](ext_articles/488f9636.ext.json)
-
----
-
-### Sri Lanka cricketer to retire after World Cup & migrate to Melbourne
-
-*2024-05-19 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cricketer-to-retire-after-World-Cup-migrate-to-Melbourne/108-282919) · `en`
-
-Colombo, May 19 (Daily Mirror) - One of Sri Lanka's senior cricketers looks set to retire from white ball cricket at the end of T20 World Cup 2024 in USA and West Indies, Daily Mirror reliably learns.
-
-The former captain of all three formats is expected to migrate to Melbourne, Australia at the conclusion of World Cup.
-
-Daily Mirror understands that the star all-rounder has already bought a few houses in Melbourne as he looks to settle down under with his young family.
-
-◼️
-
-[Data](articles/fdb64448.json)
-
-[Extended Data](ext_articles/fdb64448.ext.json)
-
----
-
-### ‘A Death In An Antique Shop’: Challenge To Our Cognitive Capacity?
-
-*2024-05-19 20:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-death-in-an-antique-shop-challenge-to-our-cognitive-capacity/) · `en`
-
-Asoka Handagama is notorious for challenging our cognitive capacity through his artwork, be it through poetry, fiction, stage drama, teledrama, or movies. His newest stage drama, ‘A Death in an Antique Shop’, is the best, or worst in some sense, in this tradition. You can watch it not on stage but on YouTube.
-
-In many respects, watching the drama on YouTube is better than doing it in a theatre-environment. First, it is free from the attention deficiency which we will face in a theatre. As Salman Khan, creator of the Khan Academy, has told us in his autobiographical professional experience, The One World Schoolhouse: Education Reimagined, we can keep attention to a single object continuously not more than for about seven minutes; beyond that, we lose focus on the object. In a theatre where we sit for hours in an uncomfortable posture, it is certainly not possible to pay full attention to what is being unfolded on the stage for the whole duration of the drama.
-
-...
-
-[Data](articles/644ccf2f.json)
-
-[Extended Data](ext_articles/644ccf2f.ext.json)
 
 ---

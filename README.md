@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 04:33:46**
+As of **2024-05-21 04:52:34**
 
 ## Newspaper Stats
 
@@ -26,57 +26,81 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,302 (99.9%) of 25,317 articles have been extended.
+25,309 (100.0%) of 25,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### மருந்து விநியோகம் மற்றும் சுகாதாரத் துறை ஊழியர் இடமாற்றக் கொள்கை குறித்தும் கலந்துரையாட இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் தீர்மானம்
+### Sri Lanka Medical Members of Parliament Resolution to discuss the policy of pharmaceuticals and health department employees
 
 *2024-05-21 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184096) · `ta`
 
-இலங்கையில் மருந்துப் பொருட்களுக்கு தட்டுப்பாடு உள்ளதா இல்லையா என்பது குறித்தும் சுகாதார ஊழியர் இடமாற்றக் கொள்கை குறித்தும் இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் கவனம் செலுத்தியுள்ளது. இந்த விடயம் குறித்து கலந்துரையாடுவதற்கு சுகாதார அமைச்சு மற்றும் அரச மருத்துவ அதிகாரிகள் சங்கத்தின் (GMOA) அதிகாரிகளை அழைக்க ஒன்றியம் தீர்மானித்தது.
+The Sri Lanka Medical Members of Parliament, led by President Hon. Professor Sanna Jayasumana, discussed drug shortages and invited health ministry officials and GMOA. They also addressed issues like the transfer policy for health workers, lack of nutritionists, support for treating disabilities, and regulating private hospitals.
 
-இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம்  அதன் தலைவர் கௌரவ (பேராசிரியர்) சன்ன ஜயசுமன தலைமையில் அண்மையில் (14) கூடிய போதே இந்த விடயம் கலந்துரையாடப்பட்டது.
+🟩
 
-இலங்கையில் மருந்துப் பொருட்களுக்கு தட்டுப்பாடு உள்ளதா இல்லையா என்பது குறித்துக் கலந்துரையாடுவதற்கு  அரச மருத்துவ அதிகாரிகள் சங்கத்தின் பிரதிநிதிகளை அழைப்பதற்கும் அதன் பின்னர் சம்பந்தப்பட்ட அதிகாரிகளுடன் இது தொடர்பில் கலந்துரையாடப்பட வேண்டும் எனவும் ஒன்றியத்தின் உறுப்பினர்களின் கருத்தாக இருந்தது.
+The Union of Sri Lanka Medical Members of Parliament has focused on whether or not there is a shortage of drugs in Sri Lanka. The Union decided to invite officials of the Ministry of Health and the State Medical Officers Association (GMOA) to discuss the issue.
+
+The issue was discussed when the Sri Lankan Medical Members of Parliament was headed by its President Hon. (Professor) Sanna Jayasumana.
+
+It was the opinion of members of the Union to invite representatives of the State Medical Officers Association to discuss whether there is a shortage of pharmaceutical products in Sri Lanka and then discuss the matter with the relevant authorities.
+
+The Hon. (Medical) Tilak Rajapaksa urged that the transfer policy of medical experts and small staff should be reviewed as many health workers face difficulties.
+
+Hon. Rajitha Senaratne said that there are not enough nutritionists in the country and emphasized the need for the appropriate system to create nutritional experts at home.
 
 ...
 
 [Data](articles/fc465e24.json)
 
+[Extended Data](ext_articles/fc465e24.ext.json)
+
 ---
 
-### இலங்கை - இந்தோனேசியா வரலாற்று உறவுகளை பலப்படுத்திக் கொள்வதற்கு இரு நாட்டுத் தலைவர்களும் உறுதி!
+### Sri Lanka - Indonesia's leaders are sure to strengthen historical relations!
 
 *2024-05-21 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184095) · `ta`
 
-இரு நாடுகளுக்கும் இடையிலான பொருளாதார உறவுகளை மேம்படுத்துவதற்காக 2025 ஆம் ஆண்டின் முதல் காலாண்டுக்குள் வர்த்தக ஒப்பந்தத்தில் (PTA) கைச்சாத்திட வேண்டியதன் அவசியம் வலியுறுத்தப்பட்டது.
+Leaders from Sri Lanka and Indonesia met to bolster historic ties, focusing on economic cooperation and addressing global challenges. They discussed a trade agreement, regional security, and renewable energy, highlighting the importance of water diplomacy and the potential for joint ventures.
 
-இந்தோனேசிய தலைநகர் பாலியில் நடைபெற்று வரும் பத்தாவது உலக நீர் மாநாட்டுக்கு இணையாக ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவிற்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு திங்கட்கிழமை (20) இடம்பெற்றது.
+🟩
 
-இந்தோனேசிய ஜனாதிபதி இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்கவை சிநேகபூர்வமாக வரவேற்றதுடன், இரு நாட்டுத் தலைவர்களுக்கும் இடையிலான சிநேகபூர்வ உரையாடலின் பின்னர், இருதரப்பு கலந்துரையாடல்களும் ஆரம்பிக்கப்பட்டன.
+The need to sign the trade agreement (PTA) in the first quarter of 2025 to improve economic ties between the two countries was emphasized.
 
-இலங்கைக்கும் இந்தோனேசியாவுக்கும் இடையிலான வரலாற்று உறவுகளை மேலும் பலப்படுத்த இரு நாட்டு தலைவர்களும் உறுதி எடுத்துக்கொண்டதோடு, பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது தொடர்பிலும் விசேட கவனம் செலுத்தப்பட்டது.
+An official meeting between President Ranil Wickremesinghe and Indonesian President Joko Widodo was held on Monday (20) in parallel to the Tenth World Water Conference in Bali, Indonesian capital.
+
+Indonesian President Ranil Wickremesinghe was greeted by President Ranil Wickremesinghe and after a bilateral discussion between the two leaders.
+
+The two leaders have promised to further strengthen the historical ties between Sri Lanka and Indonesia and focus on improving economic cooperation.
+
+The two leaders focused on regional and international affairs and emphasized the importance of cooperation between the two countries in addressing global challenges.
 
 ...
 
 [Data](articles/cc06bc1e.json)
 
+[Extended Data](ext_articles/cc06bc1e.ext.json)
+
 ---
 
-### படையினரிடம் சரணடைந்து காணாமலாக்கப்பட்ட அப்பாவிக் குழந்தைகள் எங்கே? - சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் காட்டமான தொனியில் கேள்வி
+### Where are the innocent children who surrendered to the soldiers?- The Secretary -General of the Amnesty International
 
 *2024-05-21 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184094) · `ta`
 
-இறுதிக்கட்டப்போரின்போது படையினரிடம் சரணடைந்தவர்கள்கூட காணாமல்போயிருக்கிறார்கள். தமிழீழ விடுதலைப்புலிகள் இயக்கத்தின் உறுப்பினர்கள் குடும்பமாக சரணடைந்தார்கள். அக்குடும்பங்களில் குழந்தைகளும் இருந்தார்கள். நான் அந்தக் குழந்தைகளின் புகைப்படங்களைப் பார்த்தேன். அந்தக் குழந்தைகள் எங்கே? எனக் காட்டமாகக் கேள்வி எழுப்பிய சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், வலிந்து காணாமலாக்குதல் என்பது மிகமோசமான, மிகக்கொடூரமான குற்றமும், உளவியல் ரீதியான சி;த்திரவதையுமாகும். இது இலங்கையின் நன்மதிப்பை கறைபடியச்செய்திருக்கின்றது எனச் சுட்டிக்காட்டினார்.
+Amnesty International's Secretary-General, Agnes Kalamart, questioned the fate of children and families who surrendered to soldiers during Sri Lanka's final battle, highlighting the ongoing search for tens of thousands missing since the war's end. She emphasized the importance of unity and international support in addressing the issue, calling for transparency and justice.
 
-அதுமாத்திரமன்றி உண்மையோ, நீதியோ எதுவாக இருப்பினும், அதற்கான அழுத்தங்களையும், உதவிகளையும் மாத்திரமே சர்வதேச சமூகத்தினால் வழங்கமுடியும். இறுதித்தீர்வை இலங்கை மக்களுக்காக இலங்கையே வழங்கவேண்டும் எனவும், அதனை முன்னிறுத்திய பெரும் சக்தியாக அனைவரும் ஒன்றிணையவேண்டும் எனவும் அவர் வலியுறுத்தினார்.
+🟩
+
+Even those who surrendered to the soldiers during the final battle are missing. Members of the Liberation Tigers of Tamil Eelam (LTTE) surrendered as family. There were also children in the family. I saw the photos of those kids. Where are those children?The Secretary General of the Amnesty International, Agnes Kalamart, who raised the question, is the most common, the most serious crime and the psychological citon.. He pointed out that this has made Sri Lanka's goodwill.
+
+Whatever the truth or justice, the international community can only provide pressure and assistance. He emphasized that Sri Lanka should be given the final decision to the people of Sri Lanka and that it is a great force that has been put forward.
 
 ...
 
 [Data](articles/853014e7.json)
+
+[Extended Data](ext_articles/853014e7.ext.json)
 
 ---
 
@@ -97,6 +121,8 @@ Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila criticised the Sri Lankan G
 ...
 
 [Data](articles/e87991c4.json)
+
+[Extended Data](ext_articles/e87991c4.ext.json)
 
 ---
 
@@ -120,6 +146,8 @@ The MP remarked that regardless of whether the Presidential or Parliamentary ele
 
 [Data](articles/c6a6a7b5.json)
 
+[Extended Data](ext_articles/c6a6a7b5.ext.json)
+
 ---
 
 ### SLPP denies requesting President to call for Parliamentary elections first
@@ -140,6 +168,8 @@ Sri Lanka Podujana Peramuna (SLPP) General Secretary Sagara Kariyawasam clarifie
 
 [Data](articles/d9aecdbb.json)
 
+[Extended Data](ext_articles/d9aecdbb.ext.json)
+
 ---
 
 ### Maha Nayaka Theras seek Presidential pardon for Gnanasara Thera on Vesak
@@ -151,6 +181,8 @@ Chief Prelates of the Malwathu and Asgiriya chapters of the Siyam sect, along wi
 ...
 
 [Data](articles/1eeac79b.json)
+
+[Extended Data](ext_articles/1eeac79b.ext.json)
 
 ---
 

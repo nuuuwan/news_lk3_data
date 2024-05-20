@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 16:05:20**
+As of **2024-05-20 16:18:48**
 
 ## Newspaper Stats
 
-*Scraped **25,205** Articles*
+*Scraped **25,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
-adalk | 2,157
+adalk | 2,158
 adaderanalk | 2,915
 tamilmirrorlk | 2,947
 virakesarilk | 3,807
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,192 (99.9%) of 25,205 articles have been extended.
+25,205 (100.0%) of 25,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### විජයදාස සහ කීර්ති ට වාරණ නියෝගයක්
+### Enjoining order for Wijayadasa and Keerthi
 
 *2024-05-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196824) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ සහ වැඩ බලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු  කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+The Colombo District Court issued an enjoining order against Wijayadasa, the SLFP Chairman, due to a complaint by MP Duminda Dissanayake.
 
-පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා මෙම නියෝගය නිකුත් කළේය.
+🟩
+
+The Colombo District Court has issued an enjoining order preventing the Chairman of the SLFP as the Chairman of the Sri Lanka Freedom Party.
+
+Colombo District Judge Sandun Withana issued the order after considering a complaint presented by MP Duminda Dissanayake.
 
 ◼️
 
 [Data](articles/6660506c.json)
+
+[Extended Data](ext_articles/6660506c.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar 
 
 [Data](articles/86b92d8f.json)
 
+[Extended Data](ext_articles/86b92d8f.ext.json)
+
 ---
 
 ### Four ISIS terrorists from Sri Lanka arrested at Ahmedabad airport - report
@@ -90,23 +98,31 @@ The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Aj
 
 [Data](articles/c8de8cee.json)
 
+[Extended Data](ext_articles/c8de8cee.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවෙන් ගිය ISIS සැකකරුවන් ඉන්දියාවේදී අත්අඩංගුවට
+### Sri Lankan govers arrested in India
 
 *2024-05-20 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196823) · `si`
 
-ශ්‍රී ලංකාවෙන් පැමිණි බවට සැලකෙන ISIS ත්‍රස්තවාදී සැකකරුවන් 4 දෙනෙකු ඉන්දියාවේදී අත්අඩංගුවට ගෙන තිබේ.
+Four suspected terrorists from Sri Lanka were arrested in India, specifically at Ahmedabad Airport by Gujarat's Anti-Terrorism Squad. The arrests followed long-standing investigations by security forces.
 
-ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ, ගුජරාට් ත්‍රස්ත මර්දන ඒකකය විසින් අහමදාබාද් ගුවන්තොටුපොළට පැමිණීමේදී එම සැකකරුවන්ව අත්අඩංගුවට ගත් බවය.
+🟩
 
-එම සැකකකරුවන් සිව් දෙනාගෙන් දීර්ඝ ලෙස ප්‍රශ්න කෙරෙන බව එරට ආරක්ෂක අංශ පැවසීය.
+Four areis terrorist suspects have been arrested in India, regarding Sri Lanka.
 
-ඔවුන් එම ගුවන්තොටුපොළට පැමිණ තිබෙන්නේ කුමක් සඳහා ද යන්න ද මෙතෙක් අනාවරණය වී නොමැත.
+The Indian media reported that Gujaratt-Eradication Unit at Armadbad Airport was arrested.
+
+The four suspects are questioning long ago, security forces said.
+
+It is not yet known whether they have arrived at the airport.
 
 ◼️
 
 [Data](articles/9eb8ade6.json)
+
+[Extended Data](ext_articles/9eb8ade6.ext.json)
 
 ---
 
@@ -126,35 +142,49 @@ She was subsequently rushed to the Balapitiya Base Hospital by her neighbors and
 
 [Data](articles/cbfb9788.json)
 
+[Extended Data](ext_articles/cbfb9788.ext.json)
+
 ---
 
-### අධිකරණ ඇමති බන්ධනාගාර නිලධාරීන්ගෙන් කළ ආයාචනය
+### Minister of Justice Minister Prison Officers
 
 *2024-05-20 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196822) · `si`
 
-බන්ධනාගාර නිලධාරීන්ගේ වැටුප් වැඩිකිරීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Dr. Wijayadasa Rajapakse, the Minister of Justice, plans to increase prison officers' salaries, proposing an allowance of Rs. 15,000 after discussions. This follows previous salary increases for police officers and prison officials before 2013, highlighting salary discrepancies. Despite agreeing with the fairness of the officers' demands, the decision considers the country's economic situation.
 
-එහිදී අමාත්‍යවරයා පැවසුවේ බන්ධනාගාර නිලධාරීන් සඳහා රුපියල් 15,000ක දීමනාවක් යෝජනා කරමින් කඩිනමින් කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කරන බවය.
+🟩
+
+Minister of Justice Dr. Wijayadasa Rajapakse says that measures will be taken to increase the salaries of prison officers.
+
+The Minister said that a cabinet paper will be submitted soon to propose an allowance of Rs.
 
 ...
 
 [Data](articles/c78e7734.json)
 
+[Extended Data](ext_articles/c78e7734.ext.json)
+
 ---
 
-### யாழில் போதை மாத்திரைகளுடன் இளைஞன் கைது!
+### Youth arrested with drug pills in Jaffna
 
 *2024-05-20 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184022) · `ta`
 
-போதை மாத்திரைகளுடன் இளைஞன் ஒருவர் யாழ். மானிப்பாய் பொலிஸாரினால் ஞாயிற்றுக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
+In Jaffna, a 27-year-old man was arrested by Manipay police for possessing 25 drug pills. The arrest occurred on Sunday after a search based on confidential police information.
 
-பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சங்கானை பகுதியை சேர்ந்த 27 வயதுடைய இளைஞன் ஒருவரை பொலிஸார் சோதனையிட்ட போது, இளைஞனின் உடைமையில் இருந்து 25 போதை மாத்திரைகளை கைப்பற்றியுள்ளனர்.
+🟩
 
-அதனை அடுத்து இளைஞனை கைது செய்து மானிப்பாய் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+A young man with drug pills. He was arrested by Manipay police on Sunday (19).
+
+Based on the confidential information available to the police, a 27 -year -old youth from Sanganai area was searched by police, seizing 25 drugs from the young man's possession.
+
+Following this, the youth arrested the youth and detained the Manipay police station.
 
 ◼️
 
 [Data](articles/159334e8.json)
+
+[Extended Data](ext_articles/159334e8.ext.json)
 
 ---
 
@@ -174,23 +204,31 @@ In March, two top-rung leaders of ISIS in India were arrested near the internati
 
 [Data](articles/87f37a9f.json)
 
+[Extended Data](ext_articles/87f37a9f.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதியின் மறைவு அதிர்ச்சிக்குரியது - மஹிந்த இரங்கல்
+### The death of Iran's president is shocking - Mahinda
 
 *2024-05-20 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184039) · `ta`
 
-ஈரான் நாட்டு ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இரங்கல் தெரிவித்துள்ளார்.
+Mahinda Rajapaksa mourns the loss of Iranian President Ibrahim Raisi, expressing deep sorrow over the tragic helicopter crash that also claimed the lives of several top officials. Rajapaksa, during his visit to the Iranian embassy in Sri Lanka, conveyed his condolences and highlighted Raisi's friendship and dedication towards the Iranian people.
 
-மஹிந்த ராஜபக்ஷ  இன்று திங்கட்கிழமை (20) ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவை கேள்வியுற்று இலங்கையில் உள்ள ஈரானிய தூதரகத்திற்கு சென்றுள்ளார்.
+🟩
 
-அங்கு ஈரானிய தூதுவர் கலாநிதி அலிரேசா டெல்கோஷ் சந்தித்து இரங்கலை தெரிவித்ததோடு, இரங்கல் புத்தகத்தில் குறிப்பொன்றையும் பதிவிட்டுள்ளார்.
+Former President Mahinda Rajapaksa has condoled the demise of Iranian President Ibrahim Raisi.
 
-ஹெலிக்கொப்டர் கோர விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும்  அவருடன் சென்ற பல மூத்த  அதிகாரிகள் உயிரிழந்தமை ஆழ்ந்த அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஜனாதிபதி ரைசி இலங்கையின் உண்மையான நண்பராக இருந்தார். ஈரான் மக்கள் மீது அவர் கொண்ட தலைமைத்துவமும் அர்ப்பணிப்பும் என்றும் நினைவுகூரப்படும்  என குறிப்பிட்டுள்ளார்.
+Mahinda Rajapaksa visited the Iranian embassy in Sri Lanka on Monday (20).
+
+There, Iranian Ambassador Dr. Alresa met with Delkosh and expressed his condolences and posted a reference to the book of condolences.
+
+The death of Iranian President Ibrahim Raisi and several senior officials who accompanied him in the helicopter crash. President Raisi was a true friend of Sri Lanka. He said that he would have a leadership and commitment to the people of Iran.
 
 ◼️
 
 [Data](articles/b77d445c.json)
+
+[Extended Data](ext_articles/b77d445c.ext.json)
 
 ---
 
@@ -213,6 +251,8 @@ Previously, several suspects were arrested by the Police and CID for allegedly t
 ◼️
 
 [Data](articles/592534bd.json)
+
+[Extended Data](ext_articles/592534bd.ext.json)
 
 ---
 
@@ -252,21 +292,29 @@ Colombo, May 20 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) has not r
 
 [Data](articles/bf350451.json)
 
+[Extended Data](ext_articles/bf350451.ext.json)
+
 ---
 
-### පාකිස්තාන කාන්තාවක් හෙරොයින් සමග කටුනායක දී කොටුවෙයි
+### Pakistan launched a woman in Katunayake with heroin
 
 *2024-05-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196821) · `si`
 
-රුපියල් හත් කෝටි තිස් පන් ලක්ෂයක් වටිනා හෙරොයින් තොගයක් සිය ගමන් මල්ලේ ව්‍යාජ පතුලක සඟවා ගෙන පැමිණි විදේශීය කාන්තාවක් අද (20) උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත්අඩංගුවට ගත්තේය.
+A 57-year-old Pakistani woman attempted to smuggle 2kg of heroin and 450g of drugs from Pakistan to Sri Lanka via Katunayake airport, hiding them in a pseudo base.
 
-ඇය 57 හැවිරිදි පාකිස්තාන ජාතික කාන්තාවක් වන අතර ඇය ශ්‍රී ලංකාවේ සංචාරය සඳහා පැමිණෙන බව අඟවමින් මෙම හෙරොයින් මත්ද්‍රව්‍ය තොගය ගුවන් තොටුපොළෙන් පිටකර ගෙන යෑමට තැත්කර තිබේ.
+🟩
 
-ඇය හෙරොයින් කිලෝ ග්‍රෑම් 02යි ග්‍රෑම් 450ක් රැගෙනවිත් තිබූ බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ ප්‍රකාශකවරයෙකු පැවසීය.
+A large number of heroin was hidden in a pseudo base of Rs.
+
+She is a 57-year-old Pakistani woman and has tried to leave the drug out of the airport, indicating that she will come to Sri Lanka.
+
+A spokesperson of the Customs Daily Administration department stated that two kilograms of heroin and 450 grams were brought.
 
 ◼️
 
 [Data](articles/6f04099c.json)
+
+[Extended Data](ext_articles/6f04099c.ext.json)
 
 ---
 
@@ -342,19 +390,27 @@ The two countries had signed five pacts during the visit, only the second since 
 
 ---
 
-### තැලසිමියා ළමුන් 2000ක්
+### 2000 Thalassemia
 
 *2024-05-20 14:11:42* · [`adalk`](https://www.ada.lk/breaking_news/තැලසිමියා-ළමුන්-2000ක්/11-409740) · `si`
 
-තැලසීමියා රෝගයට ජාතික වශයෙන් ගෙනයන ව්‍යාපාරයක් නොමැති හෙයින් නව අධ්‍යක්ෂවරයෙක් යටතේ තැලසීමියා පිළිබද විශේෂ ජාතික ව්‍යාපාරයක් කඩිනමින් ආරම්භකරන බවත් , ජාතික තැලසීමියා කවුක්සිලයද  නැවත සක්‍රීය කරමින් ප්‍රතිකාර ‍හා පාළන කටයුතු ශක්තිමත් කිරීමට අවශ්‍ය කටයුතු කඩිනමින් සිදුකරන බවත්, සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+Dr. Palitha Mahipala, the Secretary to the Ministry of Health, highlighted the importance of the National Thalassemia Council and its efforts to improve Thalassemia treatment and awareness in Sri Lanka. The council, established in 2010, aims to enhance care for the approximately 2000 affected children through initiatives like counseling, informative sessions, and expanding treatment options. A significant focus is on increasing the capacity for bone marrow transplants, aiming to perform 40 procedures annually across various locations. The International Thalassemia Day, celebrated annually on May 8th, emphasizes the accessibility of treatment for all, aligning with the council's mission.
 
-ඒ මහතා මේ බව අවධාරණය කරන ලද්දේ ජාත්‍යන්තර තැලසීමියා දිනයට සමගාමීව  සංවිධානය කරතිබූ ජාතික උත්සවයට සහභාගි වෙමිනි. මෙම ජාතික සැමරුම් උත්සවය ලංකා තැලසීමියා  සංවීධානය මගින් සංවිධානය කර තිබූ අතර එය පසුගිය දින කුරුනෑගල Bluesky හෝටලයේදී පැවැත්විණි.
+🟩
 
-තැලසීමියා රෝග ප්‍රතිකාර හා අනෙකුත් කටයුතු සදහා මෙතෙක් සෞඛ්‍ය අමාත්‍යාංශයෙන් යම් මුදලක් වාර්ෂිකව වෙන් කලත් ඒ සදහා නිශ්චිත ක්‍රමවත්, වැඩපිලිවෙලක් තවමත් සකස් වී නොමැති බවය. එබැවින් ඉදිරියේදී මැලේරියා මර්ධන ව්‍යාපාරය වැනි ඇති කරනු ලබන නව ව්‍යාපාරය මගින් තැලසීමියා රෝග ප්‍රතිකාර, පාලන, ජනතාව දැනුම්වත් කිරීම වැනි කටයුතු ඇතුලුව අනෙකුත් කටයුතු විධිමත්ව, ගුණාත්මකව පවත්වාගෙන යාමට හැකියාව ඉන් ලැබෙන බවද කීය.
+Dr. Palitha Mahipala, Secretary to the Ministry of Health employs the promptity of the National Thalassemia under a new director.
+
+He was emphasized the national ceremony organized by the International Thalassemia Day. The National Commemoration ceremony was organized by the Lanka Thalassemia Siddhase Vidyalaya, which was held at the Kurunegala Bluesky Hotel.
+
+Thalassemia treatments for treatment and other activities have been allocated annually, but a certain program has not yet been prepared yet.. Therefore, the new business such as the Malaria Control movement in the future, other activities such as Thalassemia treatments, counseling, informed of Thalassemia, and informatives.
+
+In 2010, the National Thalassemia Council was established in 2010, but it would continue to strengthen the Sri Lankan Thalassemia treatment and care physicians, bloodsh, bloodsh,The Secretary also requested the doctors, as before he was.
 
 ...
 
 [Data](articles/2a2f3cc4.json)
+
+[Extended Data](ext_articles/2a2f3cc4.ext.json)
 
 ---
 
@@ -867,6 +923,24 @@ According to the complaint, the police have arrested a woman of Denmark, a woman
 [Data](articles/9c8fdf3c.json)
 
 [Extended Data](ext_articles/9c8fdf3c.ext.json)
+
+---
+
+### ලෝක සෞඛ්‍ය සංවිධානයෙන් ලංකාවට සහතිකයක්
+
+*2024-05-20 12:09:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-සෞඛ්‍ය-සංවිධානයෙන්-ලංකාවට-සහතිකයක්/11-409737) · `si`
+
+ශ්‍රී ලංකාවේ වාහක රෝග පාලනය, මර්ධනය, කළමණාකරනය, විශිෂ්ඨ මට්ටමක පවතින බව ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිතයින් පෙන්වා දෙයි.
+
+ශ්‍රී ලංකාවේ වාහකයින් මගින් බෝවන ඩෙංගු, මැලේරියා, බරවා සහ ලීෂ්මේනියා (Dengue, Malaria, Filariasis, & Leishmaniasis) යන රෝග පිළිබඳ ඒකාබද්ධ බාහිර සමාලෝචනයක් ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිත පිරිසක් විසින් පසුගිය 13 වනදි සිට 20 වනදා දක්වා  මෙරට දී සිදු කිරීමට පියවර ගෙන ඇත.
+
+මෙතෙක් සිදු කරන ලද ක්ෂේත්‍ර ඇතුලු අනෙකුත්  නිරික්ෂණ වලින්   අනතුරුව ලබාගත් දත්ත හා තොරතුරු පිළිබදව  ලෝක සෞඛ්‍ය සංවිධානයේ මෙරට නේවාසික  නියෝජිත ආචාර්ය අලාකා සිං මහත්මිය ඇතුලු නියෝජිත පිරිස එහි අවසන් දිනය වන අද දින  සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සහ  එම අමාත්‍යාංශයේ නිළධාරීන් දැනුවත් කිරීමට පියවර ගන්නා ගැනිණි.
+
+ඒ අනුව එම නියෝජිත කණ්ඩායම අද දින (20) සෞඛ්‍ය අමාත්‍යාංශයේදී සෞඛ්‍ය අමාත්‍යවරයා හමුවී ඒ පිළිබදව විශේෂ සමාලෝචනයක නිරත වන ලදී.
+
+...
+
+[Data](articles/1715eab5.json)
 
 ---
 
@@ -2255,25 +2329,5 @@ Meanwhile, the National Building Research Organization said that the National Bu
 [Data](articles/f69a2457.json)
 
 [Extended Data](ext_articles/f69a2457.ext.json)
-
----
-
-### March outstanding credit card balance stands at Rs. 148.7 bn
-
-*2024-05-20 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-outstanding-credit-card-balance-stands-at-Rs-148-7-bn/108-282926) · `en`
-
-Credit card ceiling rate due for downward revision as other lending rates descend fast
-
-Outstanding credit card balance of the licensed commercial banking sector has little changed in March from February despite an uptick signaling the trend that would follow as the consumers grow more optimistic about the economy. The interest rates have fallen to single digit levels.
-
-The outstanding card balance has crept up by only Rs.62 million in March from its February levels to Rs.148.7 billion, but the first quarter still shows a contraction by Rs.2.7 billion.
-
-While the credit card spend doesn’t show the full picture of consumer spending, the outstanding balance could see tangible movements from the second quarter onwards as people were taking more trips making use of the offers and discounts offered by banks for their credit cards.
-
-...
-
-[Data](articles/4f200bdd.json)
-
-[Extended Data](ext_articles/4f200bdd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 08:10:38**
+As of **2024-05-20 08:19:06**
 
 ## Newspaper Stats
 
-*Scraped **25,089** Articles*
+*Scraped **25,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,353
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,145
-adaderanalk | 2,900
+adaderanalk | 2,901
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
 dailymirrorlk | 3,939
@@ -26,91 +26,141 @@ adaderanasinhalalk | 4,009
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,085 (100.0%) of 25,089 articles have been extended.
+25,089 (100.0%) of 25,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### බන්ධනාගාර නිලධාරීන් අද සිට වෘත්තීය සමිති ක්‍රියාමාර්ගයක
+### Heavy showers and windy conditions to continue further
+
+*2024-05-20 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99324/heavy-showers-and-windy-conditions-to-continue-further) · `en`
+
+Due to South-West monsoon conditions which are gradually establishing across the island, prevailing showery and windy conditions will continue further, says the Met. Department.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces and in Mannar district.
+
+Showers or thundershowers will occur at several places elsewhere of the island, it said.
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy, Nuwara-Eliyaand Mannar districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times over the island, according to the Meteorology Department.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b5e28ac9.json)
+
+---
+
+### Prison officials in a trade union action
 
 *2024-05-20 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196804) · `si`
 
-බන්ධනාගාර නිලධාරීන් අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කර ඇති බව සමස්ත ලංකා බන්ධනාගාර නිලධාරීන්ගේ එකමුතුව පවසයි.
+All Ceylon Prison Officers' union initiated a professional development program for prison officials.
+
+🟩
+
+The All Ceylon Prison Officers should have decided to engage in a professional program reporting the prison officials.
 
 ◼️
 
 [Data](articles/3786fa09.json)
 
+[Extended Data](ext_articles/3786fa09.ext.json)
+
 ---
 
-### අප්‍රේල් මාසයේ දී මෙරට නිෂ්පාදන ක්‍රියාකාරකම්වල පසුබෑමක්
+### Sri Lanka's Production Activities in Sri Lanka
 
 *2024-05-20 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196803) · `si`
 
-අප්‍රේල් මාසයේ දී මෙරට නිෂ්පාදන ක්‍රියාකාරකම්වල පසුබෑමක් පෙන්නුම් කරන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+In April, Sri Lanka's production activities showed mixed results. The manufacturing sector saw a slight increase from 42% to 62.05%, influenced by factors like new orders, employment, and product demand. However, the temporary closure of factories during the Sinhala and Tamil New Year holidays impacted production negatively. The buyer managers' index indicated slower growth at 56.7%. Despite this, certain sectors like programs and broadcasts, telecommunications, and real estate trade experienced positive developments. The financial services sub-department also saw progress, likely due to lower policy rates encouraging more activity.
 
-මාර්තු මාසයේ සියයට 62.05ක් ලෙස පැවති නිෂ්පාදන අංශයේ ශ්‍රී ලංකා ගැනුම් කළමණාකරුවන්ගේ දර්ශකය පසුගිය මාසයේ දී සියයට 42ක් ලෙස වාර්තා වී තිබේ.
+🟩
 
-ඒ අනුව, මාසය තුළදී නව ඇණවුම්, නිෂ්පාදන, සේවා නියුක්තිය සහ තොග මිලදී ගැනුම් උපදර්ශක පහළ වැටීමෙහි ප්‍රතිඵලයක් ලෙස සමස්ත දර්ශයක පහත වැටී ඇති බව මහ බැංකුව පවසයි.
+The Central Bank of Sri Lanka says that in April, the Central Bank of Sri Lanka says that the country's production activities will be shown.
 
-මෙම පසුබැසීම සඳහා මූලික වශයෙන් සිංහල හා දෙමළ අලුත් අවුරුදු නිවාඩු හේතුවෙන් අප්‍රේල් මාසයේදී කර්මාන්ත ශාලා බොහොමයක් තාවකාලිකව වසා දැමීම බලපා ඇති අතර දීර්ඝ නිවාඩු දින හේතුවෙන් ඇණවුමක් සැපයීමට සැපයුම්කරුවන්ට ගතවන කාලය පෙර මාසයට සාපේක්ෂට අප්‍රේල් මාසයේ දී වැඩි වේගයකින් ඉහළ යන ගොස් ඇති බව ද සඳහන්ය.
+The Sri Lanka Transport Manager's Independent of the Product Managers of the Manufacturing Manager in the Production of 62.05 percent in March was 42%.
 
-සේවා අංශයෙහි ශ්‍රී ලංකා ගැනුම් කළමනාකරුවන්ගේ දර්ශකය සියයට 56.7ක් ලෙස මන්දගාමී වර්ධනයක් පෙන්නුම් කර තිබේ.
+According to the Central Bank, new orders, products, employment and bulk purchases have been reduced in the month.
+
+The temporary closure of many factories have been temporarily closed in April due to Sinhala and Tamil New Year Light offices for the backs.
+
+Sri Lanka's buyer managers index has shown a slower growth of 56.7 percent.
+
+With the reduction of policy rates in March, the financial services sub-department has further increased and significant progress in the cargo and retail business activities of the festive season.
+
+Meanwhile, the sub-sectors of programs and broadcasts, telecommunications, and real estate trade reported positive developments in April.
 
 ...
 
 [Data](articles/a2076f8b.json)
 
+[Extended Data](ext_articles/a2076f8b.ext.json)
+
 ---
 
-### රජයේ සහ රජය අනුමත පෞද්ගලික පාසල් අද ඇරඹේ
+### Government and government approved private schools begin today
 
 *2024-05-20 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196802) · `si`
 
-රජයේ පාසල් සහ රජයේ අනුමත පෞද්ගලික පාසල්වල පළමු වාරයේ තුන්වන අදියර අද (20) ආරම්භ වීමට නියමිතය.
+Today marks the start of the first phase of the first semester for both government and approved private schools. The Ministry of Education confirmed that the third phase of the first term concluded on the 31st. Due to adverse weather conditions, particularly heavy rainfall, the Governance Governor has ordered the closure of all schools in the Puttalam District, affecting 213 schools there and 158 in Chilaw. Additionally, the Disaster Management Center advises citizens to stay informed about disaster operations during this period, with a 24-hour operating center available for updates.
 
-පළමු වාරයේ තුන්වන අදියර ලබන 31 වනදා දක්වා ක්‍රියාත්මක බව අධ්‍යාපන අමාත්‍යංශය පැවසුවේය.
+🟩
 
-මේ අතර පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුත්තලම දිස්ත්‍රික්කයේ සියලුම පාසල් අද දිනයේ වසා තැබීමට වයඹ පළාත් ආණ්ඩුකාරවරයා තීරණය කර තිබේ.
+The first phase of the first semester of government and government approved private schools will commence today (20).
 
-දිවයිනේ පවතින තද වැසිතත්වය හේතුවෙන් පුත්තලම් දිස්ත්‍රික්කයට ජලගැලීම් තත්ත්වයක් උද්ගත වී ඇති බවත්, පුත්තලම් දිස්ත්‍රික් ලේකම්වරයා සහ  වයඹ පලාත් ප්‍රධාන ලේකම්වරිය සමඟ පැවති සාකච්ඡාවකින් අනතුරුව මෙම තීරණය ගෙන ඇති බවත් සඳහන්.
+The Ministry of Education said that the third phase of the first term was operating until 31st.
 
-ඒ අනුව පුත්තලම කලාපයේ පාසල් 213ක් සහ හලාවත කලාපයේ පාසල් 158ක් අද දිනයේ පමණක් වසා තැබෙනු ඇත.
+The Governance Governor has decided to close all schools in the Puttalam District due to the adverse weather conditions.
 
-මේ අතර පවතින වැසි සහිත කාලගුණ තත්ත්වය හමුවේ මුහුණදෙන ආපදා තත්ත්වයන් සම්බන්ධයෙන් සිය මෙහෙයුම් මැදිරිය දැනුවත් කරන ලෙස ආපදා කළමණාකරන මධ්‍යස්ථානය ජනතාවට දැනුම් දෙයි.
+The decision has been taken after a meeting with the Puttalam District in the country due to the heavy rainfall of the island.
 
-එම මධ්‍යස්ථානයේ අධ්‍යක්ෂ ජනරාල් මේජර් ජනරාල් උදය හේරත් මහතා පවසන්නේ පැය 24 පුරා ක්‍රියාත්මක මෙහෙයුම් මධ්‍යස්ථානයට ඒ සම්බන්ධයෙන් තොරතුරු ලබා දිය හැකි බවය.
+Accordingly, 213 schools in the Puttalam region and 158 schools in Chilaw will be closed today.
+
+Meanwhile, the Disaster Management Center informs the people to inform their operating room on disasters in the rainy weather conditions.
+
+Director General of the Center Major General Herath says that the 24-hour operating center can provide information on it.
 
 ◼️
 
 [Data](articles/3b44c27e.json)
 
+[Extended Data](ext_articles/3b44c27e.ext.json)
+
 ---
 
-### වැසි සහ සුළං තත්ත්වය තවදුරටත් - ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+### Rain and wind quality further - Showers over 100mm
 
 *2024-05-20 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196800) · `si`
 
-නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+Expect heavy showers exceeding 100mm across Sri Lanka due to the ongoing southwest monsoon. Cloudy skies predicted in many areas. Thundershowers likely in Western, Sabaragamuwa, Central, Northwest, and Southern provinces. Heavy rainfall possible in Matara, Kandy, Nuwara Eliya, and Mannar districts. Winds gusting up to 40km/h. Take precautions against lightning and landslides.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතිනු ඇති බවය.
+🟩
 
-බස්නාහිර, සබරගමුව,මධ්‍යම,  වයඹසහ දකුණු පළාත්වලත් මන්නාරම දිස්ත්‍රික්කයේත්  විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The southwest monsoon system is continuously expecting the existing rain and wind condition.
 
-දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+The Department of Meteorological was announced that the sky would remain with the clouds in many parts of the island.
 
-බස්නාහිර, සබරගමුව, වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northwest and Southern provinces.
 
-දිවයින හරහා විටින් විට හමන පැ.කි.මී.30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places elsewhere in the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In some places in the Western, Sabaragamuwa, North-Western provinces, in general area Matara, Matara, Kandy, Nuwara Eliya and Mannar districts.. Heavy rains may occur at more than 100.
 
-මේ අතර පවතින වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් දිස්ත්‍රික් 8ක් ස﻿ඳහා නිකුත් කළ නායයාම් පිළිබඳ පුර්ව අනතුරු ඇඟවීමේ නිවේදන තව දුරටත් ක්‍රියාත්මක වන බව ජාතික ගොඩනැඟිලි පර්යේෂණ සංවිධානය සඳහන් කළේය.
+Over the island viciously, at times of the island, there will be about 30,40 km.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+Meanwhile, the National Building Research Organization said that the National Building Research Organization (NICITION)
 
 ...
 
 [Data](articles/f69a2457.json)
+
+[Extended Data](ext_articles/f69a2457.ext.json)
 
 ---
 
@@ -2095,33 +2145,5 @@ According to the article, the debate between the leaders of both parties 27, 28,
 [Data](articles/0e1eae1b.json)
 
 [Extended Data](ext_articles/0e1eae1b.ext.json)
-
----
-
-### Colombo 7 businessman at Colombo 7 businessman in parking
-
-*2024-05-19 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196789) · `si`
-
-In Colombo 7, a businessman and Iranian Ambassador faced an incident where a dispute over parking led to a 15-meter mine being found in his car after it was hit by another vehicle. The suspect, a 30-year-old man, attempted to flee but was caught and arrested by the police.
-
-🟩
-
-Ambassador to Iranian. The Slave Island Police states that a 15-meter mine was taken into custody after he was hit by the car's bonnator.
-
-The Ambassador had a dispute with another car when he was inserted into a shopping mall in Muttiah Road, Colombo 02.
-
-It is said that the man had tried to attack the ambassador and fleeing the place.
-
-The ambassador has been informed of the car to hold the car from his car to the bounker of his car and the car driver of the car has been able to surn the car and run ahead.
-
-The Ambassador has fallen on the bont, and the suspect has been driven by 15 meters and has been arrested by police officers and arrested police officers.
-
-The suspect was a 30-year-old man in Ward Place, Colombo 07, police said.
-
-◼️
-
-[Data](articles/8ed52470.json)
-
-[Extended Data](ext_articles/8ed52470.ext.json)
 
 ---

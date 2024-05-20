@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 14:33:52**
+As of **2024-05-20 14:53:00**
 
 ## Newspaper Stats
 
-*Scraped **25,177** Articles*
+*Scraped **25,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 2,154
 adaderanalk | 2,910
 tamilmirrorlk | 2,947
 virakesarilk | 3,804
-dailymirrorlk | 3,950
+dailymirrorlk | 3,955
 adaderanasinhalalk | 4,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,177 (100.0%) of 25,177 articles have been extended.
+25,177 (100.0%) of 25,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Businessman arrested for assaulting Iranian Ambassador, further remanded
+
+*2024-05-20 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Businessman-arrested-for-assaulting-Iranian-Ambassador-further-remanded/108-282966) · `en`
+
+Colombo, May 20 (Daily Mirror) - The businessman from Colombo 7 who was arrested and remanded over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park, has been further remanded till May 22.
+
+The suspect, Buwaneka Mahasen Basnayake, a resident of Ward Place, Colombo 07 was arested on Saturday after he allegedly assaulted the Ambassador and attempted to escape following an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
+
+The suspect was remanded till Wednesday (22) after being produced before the Fort Magistrate's Court.
+
+◼️
+
+[Data](articles/58c67116.json)
+
+---
+
+### Will stop MPs’ moves to obtain vehicle permits: Anura Kumara
+
+*2024-05-20 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-stop-MPs-moves-to-obtain-vehicle-permits-Anura-Kumara/108-282965) · `en`
+
+Colombo, May 20 (Daily Mirror)- Claiming that 82 MPs have requested vehicle permits, NPP leader Anura Kumara Dissanayake said they would take possible steps to stop the move.
+
+He said adressing the pensioners national convention at the National Youth Centre in Maharagama yesterday that the National People's Power (NPP) will not obtain the vehicle permits.
+
+He said they will request the Speaker to reveal the list of MPs who have requested for vehicle permits when vehicle permits have been suspended for the whole country.
+
+"We are a group that expects a better life and good governance for the people. We must reveal the difference between the truth and falsehood," he said.
+
+◼️
+
+[Data](articles/cd792799.json)
+
+---
 
 ### President addressed World Water Summit
 
@@ -55,6 +89,22 @@ All the heads of state attended by the convention were also present at a dinner.
 [Data](articles/95c4c8dd.json)
 
 [Extended Data](ext_articles/95c4c8dd.ext.json)
+
+---
+
+### Hold Presidential, General elections simultaneously: SJB MP
+
+*2024-05-20 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hold-Presidential-General-elections-simultaneously-SJB-MP/108-282964) · `en`
+
+Colombo, May 20 (Daily Mirror)- Responding to speculations made on the political platform that a general election will precede a Presidential election, Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna today urged the authorities to hold the Presidential and General elections simultaneously.
+
+“There is wide speculation in the political circle that a General Election may precede a Presidential election. We are ready for any election, be it a Presidential or a General election. We have a candidate in the form of Sajith Premadasa who will be backed by many at a Presidential poll. We also have a good team which could emerge victorious at a General election. Therefore, we in the SJB are ready for any election,” he said.
+
+“We have called for the holding of a General and Presidential elections simultaneously in an earlier instance as well. We therefore, reiterate our stand that both elections should be held simultaneously. There seems to be no legal barrier for such an eventuality,” he added.
+
+...
+
+[Data](articles/ea846fd0.json)
 
 ---
 
@@ -291,6 +341,20 @@ Call letters to the graduates who will be appointed will be sent by the Northern
 [Data](articles/e0ebf006.json)
 
 [Extended Data](ext_articles/e0ebf006.ext.json)
+
+---
+
+### Sri Lanka deeply shocked by tragic death of President Raisi: Ranil
+
+*2024-05-20 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-deeply-shocked-by-tragic-death-of-President-Raisi-Ranil/108-282962) · `en`
+
+Colombo, May 20 (Daily Mirror)- Sri Lanka is deeply shocked and saddened by the tragic death of President Ebrahim Raisi, Foreign Minister Amir Abdollahian and other senior Irani officials, President Ranil Wickremesinghe said in a messege on X.
+
+"I express my deepest sympathies and sincere condolences to the bereaved families, the government and the people of Iran. Our thoughts and prayers are with the families of President Raisi and his entourage," the President said.
+
+◼️
+
+[Data](articles/8626e37d.json)
 
 ---
 
@@ -1118,6 +1182,22 @@ Iranian Supreme Leader Ayatollah Ali Khamenei, who holds ultimate power with a f
 
 ---
 
+### Iran’s President Raisi, Foreign Minister die in helicopter crash
+
+*2024-05-20 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Irans-President-Raisi-Foreign-Minister-die-in-helicopter-crash/107-282952) · `en`
+
+May 20 (Reuters) - Iranian President Ebrahim Raisi and his foreign minister died when their helicopter crashed as it was crossing mountain terrain in heavy fog, an Iranian official told Reuters on Monday.
+
+Raisi, opens new tab, 63, was elected president in 2021, and since taking office has ordered a tightening of morality laws, overseen a bloody crackdown on anti-government protests and pushed hard in nuclear talks with world powers.
+
+Iranian Supreme Leader Ayatollah Ali Khamenei, who holds ultimate power with a final say on foreign policy and Iran's nuclear programme, had earlier sought to reassure Iranians, saying there would be no disruption to state affairs.
+
+◼️
+
+[Data](articles/fa35d45a.json)
+
+---
+
 ### Prompt action to solve the Russian embassy problem
 
 *2024-05-20 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196808) · `si`
@@ -1198,9 +1278,9 @@ Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi h
 
 *2024-05-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99328/prison-officers-launch-sick-leave-trade-union-action) · `en`
 
-The All-Ceylon Prison Officers’ Union has decided to engage in trade union action by reporting ‘sick leave’ from today (20) until May 22, demanding an increase in wages.
+The All-Ceylon Prison Officers’ Union has decided to engage in trade union action by reporting ‘sick leave’ from today (20) until May 22, based on several demands including an increase in wages.
 
-It is reported that the trade union action has been launched demanding an increase in wages by Rs. 25,000.
+It is reported that officers of the Prisons Department across the island have joined the trade union action, which has been launched demanding an increase in wages by Rs. 25,000.
 
 Meanwhile, the trade union action initiated by the university non-academic staff further continues.
 
@@ -2165,111 +2245,5 @@ Sri Gurudev, who visited the country on the invitation of Prime Minister Dinesh 
 [Data](articles/067e3480.json)
 
 [Extended Data](ext_articles/067e3480.ext.json)
-
----
-
-### SJB proposes new dates for debate with NPP
-
-*2024-05-20 03:13:08* · [`dailyftlk`](https://www.ft.lk/news/SJB-proposes-new-dates-for-debate-with-NPP/56-762000) · `en`
-
-The Samagi Jana Balawegaya (SJB) proposed new dates for the two debates planned between the leaders and economic councils of the SJB and the National People’s Power (NPP) party in a letter to the NPP on Friday.
-
-...
-
-[Data](articles/29931984.json)
-
-[Extended Data](ext_articles/29931984.ext.json)
-
----
-
-### ‘Buddha Rashmi’ Vesak festival returns in grandeur from 23-26 May
-
-*2024-05-20 03:12:46* · [`dailyftlk`](https://www.ft.lk/news/Buddha-Rashmi-Vesak-festival-returns-in-grandeur-from-23-26-May/56-761999) · `en`
-
-The ‘Buddha Rashmi’ Vesak festival, organised by the Colombo Gangarama Temple in collaboration with the Presidential Secretariat, the Prime Minister’s Office and the MahaKaruna Buddhist Association of Singapore, is set to take place from 23 to 26 May.
-
-This year’s festival, themed “Attano wa avekkhyeya kathani akatani cha” (Let’s focus on what we have done, not what others have done), is set to be a vibrant and enlightening event to reflect on the teachings of Lord Buddha.
-
-The festivities will span across three major venues: the Presidential Secretariat premises, Shangri-La Green Ground, and Gangarama Temple.
-
-...
-
-[Data](articles/93782c57.json)
-
-[Extended Data](ext_articles/93782c57.ext.json)
-
----
-
-### PA is not deciding to support Ranil, which Parliament is dissolved once the important laws are enacted - Udayanga Weeratunga
-
-*2024-05-20 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/183992) · `ta`
-
-Parliament dissolution planned post-enacting key laws by June 14, no presidential bid from Ranil Wickremesinghe. Udayanga Weeratunga opposes supporting Ranil, emphasizing constitutional elections sequence.
-
-🟩
-
-Both sides have agreed to dissolve parliament after passing important laws. Parliament will be dissolved by the 14th of June. President Ranil Wickremesinghe will not contest the election. Udayanga Weeratunga, a close relative of Mahinda Rajapaksa and former Sri Lankan ambassador to Russia, said he would not support him.
-
-கொழும்பில்  ஞாயிற்றுக்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார். He added,
-
-It will be defined as the presidential election will be held according to the Constitution. I am sure that the general election will be held before the presidential election.. Parliament will be dissolved after the enactment of important laws.
-
-Parliament will be dissolved on the day of June 14 or earlier.
-
-ஜனாதிபதி தேர்தலில் வெற்றி பெறுபவர் இந்த பாராளுமன்றத்தை நிச்சயம் கலைப்பார்.புதிய ஜனாதிபதி பாராளுமன்றத்தை கலைப்பதற்கு ஓரிரு மாதங்களுக்கு முன்னர் பாராளுமன்றத்தை கலைப்பதில் எவ்வித பாதி;ப்பும் ஏற்படாது.
-
-...
-
-[Data](articles/07043205.json)
-
-[Extended Data](ext_articles/07043205.ext.json)
-
----
-
-### The government fails to do the duty of soldiers - the opposition leader accuses
-
-*2024-05-20 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/183991) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the government for neglecting soldiers, leading to their deaths in Russia. He calls for reconsideration of support for veterans post-war, highlighting their economic struggles and the need for better assistance under his party's governance.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the government failed to do so to the military, causing them to die in the Russian battlefield.
-
-He said this while addressing an event in Galle Neluwa on Saturday (18).
-
-It must be re -consider whether the military community has had to commit a proper duty after the victory of the thirty years of terrorist war.. Soldiers and their families are suffering from great difficulties and are facing an unbearable economic and social crisis.
-
-Soldiers have gone to the lower level of the poverty line due to the lack of relief in the economic crisis, which has risen to the country.. So they have gone abroad in search of other income. Others have to go to Russia and go to the front of the battlefield.
-
-...
-
-[Data](articles/5d914cc4.json)
-
-[Extended Data](ext_articles/5d914cc4.ext.json)
-
----
-
-### The body of the woman's body recovered in the water reservoir of Talawakelle
-
-*2024-05-20 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/183990) · `ta`
-
-A woman's body was found floating in a reservoir near Talawakelle. Identified as an 18-year-old from Pamstan Ratnagiri, her remains were handed over to the Nuwara Eliya District Court. The investigation aims to determine whether she died by suicide or was murdered.
-
-🟩
-
-தலவாக்கலை மேல் கொத்மலை நீர்த்தேக்கத்தில் மிதந்த நிலையில் பெண் ஒருவரின் சடலம் ஒன்றை தலவாக்கலை பொலிஸார்  ஞாயிற்றுக்கிழமை (19) மாலை மீட்டுள்ளனர்.
-
-Talawakelle police said that the body was recovered as an 18 -year -old woman and Periyasamy Tilishina of Pamstan Ratnagiri belonging to the Lindulai Police Division.
-
-At the same time, the police said that the body had been brought to the notice of the Nuwara Eliya District Court regarding the body and that the body would be taken to the Nuwara Eliya District General Hospital for an autopsy.
-
-மேலும் உயிரிழந்த பெண் தொடர்பில் விசாரணைகள் செய்து வருவதாகவும், இச் சம்பவத்தில் உயிரிழந்த பெண் தன்னுயிரை மாய்த்துக் கொண்டாரா? அல்லது கொலை செய்யப்பட்டாரா? என்ற கோணத்தில் விசாரணை ஆரம்பிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/7354c9dc.json)
-
-[Extended Data](ext_articles/7354c9dc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 09:03:28**
+As of **2024-05-20 09:18:28**
 
 ## Newspaper Stats
 
-*Scraped **25,105** Articles*
+*Scraped **25,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,101 @@ islandlk | 1,361
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,147
-adaderanalk | 2,903
+adaderanalk | 2,904
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
-dailymirrorlk | 3,939
+dailymirrorlk | 3,942
 adaderanasinhalalk | 4,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,092 (99.9%) of 25,105 articles have been extended.
+25,105 (100.0%) of 25,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ඉරාන ජනපති ගමන් කළ හෙළිකොප්ටරය කඩාවැටුණු තැන සොයාගනී
+### Iranian President Raisi feared dead as helicopter wreckage found
+
+*2024-05-20 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99327/iranian-president-raisi-feared-dead-as-helicopter-wreckage-found) · `en`
+
+(Reuters) - Hopes are fading that Iranian President Ebrahim Raisi and his foreign minister have survived a helicopter crash in mountainous terrain and icy weather, an Iranian official said on Monday after search teams located the wreckage.
+
+“President Raisi’s helicopter was completely burned in the crash ... unfortunately, all passengers are feared dead,” the official told Reuters.
+
+Rescue teams fought blizzards and difficult terrain through the night to reach the wreckage in East Azerbaijan province in the early hours of Monday.
+
+“We can see the wreckage and the situation does not look good,” the head of Iran’s Red Crescent, Pirhossein Kolivand, told state TV.
+
+Raisi, 63, was elected president in 2021, and since taking office has ordered a tightening of morality laws, overseen a bloody crackdown on anti-government protests and pushed hard in nuclear talks with world powers.
+
+...
+
+[Data](articles/30cf7d36.json)
+
+---
+
+### Total of 10,299 people affected, two injured due to rain, drought
+
+*2024-05-20 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-10-299-people-affected-two-injured-due-to-rain-drought/108-282944) · `en`
+
+Colombo, May 20 (Daily Mirror) - A total of 10,299 people from 3,518 families have been affected, while two have been injured due to the prevailing weather conditions, Disaster Management Centre Deputy Director Thusitha Waidyarathne said.
+
+He said the two injured people were reported from the East Nuwaragampalatha division of the Anuradhapura district, due to heavy rains and fallen trees.
+
+Three houses were partially damaged due to fallen trees and high winds in Nivithigala, Godakawela and Balangoda in the Ratnapura district, he said.
+
+Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Killinochchi have been affected by the drought, Waidyarathne said.
+
+◼️
+
+[Data](articles/1ebd55bb.json)
+
+---
+
+### None of the rivers have reached flood levels
+
+*2024-05-20 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/None-of-the-rivers-have-reached-flood-levels/108-282942) · `en`
+
+Colombo, May 20 (Daily Mirror)  - None of the rivers have reached flood level so far due to the heavy rains yesterday, according to the data collected by the Irrigation Department, Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
+
+However, the water levels of certain rivers in the Western and North-Western Provinces, and the Galle and Matara districts have risen to a considerable level.
+
+Attanagalu Oya, Kelani Ganga, Kalu Ganga, Ging Ganga and Nilwala Ganga have recorded a higher water level. There are possibilities of floods if rainfall continues in the catchment areas of these rivers during the next few days.
+
+The people living in the low-lying areas along these rivers are advised to be vigilant for possible floods, the Irrigation Department said.
+
+According to the Meteorological Department, the heavy rains in the country has not reduced yet.
+
+Also, motorists are advised to be vigilant when using the roads close to these rivers.
+
+◼️
+
+[Data](articles/98e8c1be.json)
+
+---
+
+### The President of Iran was discovered where the helicoppent collapsed
 
 *2024-05-20 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196807) · `si`
 
-ජීවිත ආරක්ෂක කණ්ඩායම් විසින් ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි සමග අනතුරට ලක්වූ හෙළිකොප්ටර් යානය වැටුණු ස්ථානය සොයාගෙන ඇති බව ඉරාන රාජ්‍ය රූපවාහිනිය නිවේදනය කරයි.
+Iranian TV reported a helicopter crash involving the President, but it's unclear if he survived due to poor conditions.
 
-මේ අතර ඉරාන රතු අඩසඳ සමාජයේ ප්‍රධානියා සඳහන් කර ඇත්තේ, වාතාවරණය 'යහපත් නොවන' බවය.
+🟩
 
-ඉරාන ජනාධිපතිවරයා, ජීවිතුන් අතර සිටිනවා ද? නැද්ද? යන්න පිළිබඳ මෙතෙක් නිශ්චිතව ප්‍රකාශ කළ නොහැකි බවද විදෙස් වාර්තා සඳහන් කරයි.
+Iranian State Television announced that the helicopter plane was in danger with Irana President Irana President Irana President Irana.
+
+Meanwhile, the Head of Iranian Red Falls is mentioned that atmosphere is not good.
+
+Is the Iranian president and life?Not?It is not possible to declare that so far.
 
 ◼️
 
 [Data](articles/6306bbb0.json)
+
+[Extended Data](ext_articles/6306bbb0.ext.json)
 
 ---
 
@@ -66,6 +132,8 @@ Kolivand said the “the situation is not good,” according to Iranian state ne
 
 [Data](articles/d76cca5e.json)
 
+[Extended Data](ext_articles/d76cca5e.ext.json)
+
 ---
 
 ### President meets Indonesia’s Coordinating Minister for Maritime Affairs and Investment
@@ -86,21 +154,29 @@ Both parties agreed on the need to establish a bilateral task force to coordinat
 
 [Data](articles/851a02dc.json)
 
+[Extended Data](ext_articles/851a02dc.ext.json)
+
 ---
 
-### ඉරාන ජනපති ගමන් ගත් හෙලිකොප්ටර් යානයේ සුන්බුන් හමුවෙයි
+### The helicopter, who was traveling to Iran, meets the wreckage of the aircraft
 
 *2024-05-20 08:09:30* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ගමන්-ගත්-හෙලිකොප්ටර්-යානයේ-සුන්බුන්-හමුවෙයි/11-409728) · `si`
 
-ඉරාන ජනපතිවරයා ගමන් කරමින් සිටියදි අනතුරට පත්වූ හෙලිකොප්ටර් යානයේ සුන්බුන් සොයා ගැනිමට ගලවා ගැනිමේ කණ්ඩායම් සමත්ව ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+A helicopter en route to Iran encountered wreckage, likely from another aircraft. Iranian media reported finding the debris, but no updates on the president. The discovery was made by a drone in Turkey, complicating search efforts due to relocation challenges and adverse weather conditions.
 
-කෙසේ වෙතත් තවමත් ඉරාන ජනපතිවරයා සම්බන්ධයෙන් තොරතුරු වාර්තා නොවෙයි. තුර්කියෙන් ලබාදුන් ඩ්‍රෝන යානයක් මෙම සුන්බුන් සොයා ගැනිමට සමත්ව තිබේ.
+🟩
 
-අධික මිදුම හා අයහපත් කාලගුණය සෝදිසි මෙහෙයුම්වලට බලපෑම් එල්ල කර තිබේ.
+Iranian media reports that the people of the Iranian has been able to find the wreckage of the helicopter who was in danger while Iranian was traveling.
+
+However, not yet information about Iranian President. The debris was found in a drone in Turkey.
+
+Excessive relocation and inclement weather has also pressurized search operations.
 
 ◼️
 
 [Data](articles/1831a4a3.json)
+
+[Extended Data](ext_articles/1831a4a3.ext.json)
 
 ---
 
@@ -320,6 +396,8 @@ Safety takes centre stage with Hayleys Fentons’ installation of a sophisticate
 
 [Data](articles/bfb55da0.json)
 
+[Extended Data](ext_articles/bfb55da0.ext.json)
+
 ---
 
 ### Navara Capital appointed as training partner for USAID private sector development programme
@@ -333,6 +411,8 @@ The training programs are designed to provide staff members of leading banks and
 ...
 
 [Data](articles/0d59c07b.json)
+
+[Extended Data](ext_articles/0d59c07b.ext.json)
 
 ---
 
@@ -349,6 +429,8 @@ Although the President was scheduled to inaugurate the Build Sri Lanka Expo 2024
 ...
 
 [Data](articles/15d65e40.json)
+
+[Extended Data](ext_articles/15d65e40.ext.json)
 
 ---
 
@@ -368,6 +450,8 @@ Justice Aluwihare brings a wealth of experience and expertise in the legal and f
 
 [Data](articles/3ceff143.json)
 
+[Extended Data](ext_articles/3ceff143.ext.json)
+
 ---
 
 ### Investors pumping funds into T-Bills and T-Bonds despite low yield rates
@@ -386,6 +470,8 @@ According to a press release issued by the Public Debt Department on 17th May 20
 
 [Data](articles/a1a08fd1.json)
 
+[Extended Data](ext_articles/a1a08fd1.ext.json)
+
 ---
 
 ### Orient Design clinches two awards at Asia Pacific Property Awards for interior design
@@ -401,6 +487,8 @@ The award for Residential Interior Private Residence was won for designing space
 ...
 
 [Data](articles/d0a5c475.json)
+
+[Extended Data](ext_articles/d0a5c475.ext.json)
 
 ---
 
@@ -982,15 +1070,21 @@ Asoka Handagama is notorious for challenging our cognitive capacity through his 
 
 ---
 
-### වැවක් මැද ඉදිවන තොරණ
+### Pandes under construction
 
 *2024-05-19 22:57:40* · [`adalk`](https://www.ada.lk/religion/වැවක්-මැද-ඉදිවන-තොරණ/4-409727) · `si`
 
-මාතර. අකුරැස්ස, මාරඹ වැව මැදද තොරණක් ඉදිවෙමින් පවති. මෙම තොරණ ලබන 23 දා සිට ජුනි 01 දා තෙක් ප්‍රදර්ශනය කිරිමට නියමිතව තිබේ.තොරණින් කට්ඨහාරි ජාතකය පිළිඹිබු වෙයි.
+A pandal is being constructed in Matara and Akuressa, set to display from June 1st to 23rd.
+
+🟩
+
+Matara. Pandal is under construction in Akuressa. The pandal will be displayed until June 01 to June 23.
 
 ◼️
 
 [Data](articles/2f69a82c.json)
+
+[Extended Data](ext_articles/2f69a82c.ext.json)
 
 ---
 
@@ -1179,6 +1273,30 @@ The unnamed official said contact has been made on several occasions.
 [Data](articles/519bfe1e.json)
 
 [Extended Data](ext_articles/519bfe1e.ext.json)
+
+---
+
+### Iran helicopter crash: Rescuers find President Raisi’s aircraft
+
+*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Rescuers-find-President-Raisis-aircraft/155-282938) · `en`
+
+Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
+
+08.17 - Iranian official says 'expectations low' for president to be alive as rescuers locate helicopter - report
+
+Reuters news agency reports that an Iranian official has said "expectations are low" that the Iranian president will be found alive after his helicopter crashed.
+
+Rescuers have located the aircraft that was carrying Ebrahim Raisi, an official has told Iranian state television.
+
+The head of the Iranian Red Crescent Society, Pir Hossein Kolivand, said rescue teams were around 1.25 miles away from the crash site.
+
+06.47 - Turkish drone locates heat source in Iranian mountains
+
+A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
+
+...
+
+[Data](articles/ba7924ea.json)
 
 ---
 
@@ -2013,107 +2131,5 @@ Georgian protesters have held massive rallies against controversial foreign agen
 [Data](articles/50e54fbd.json)
 
 [Extended Data](ext_articles/50e54fbd.ext.json)
-
----
-
-### Col. 7 businessman arrested for assaulting Iranian Ambassador
-
-*2024-05-19 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Col-7-businessman-arrested-for-assaulting-Iranian-Ambassador/155-282902) · `en`
-
-Colombo, May 19 (Daily Mirror)- A businessman from Colombo 7 has been arrested over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park last evening.
-
-The suspect, Buwaneka Mahasen Basnayake (36) is a resident of Ward Place, Colombo 07.
-
-The Police said the businessman had assaulted the Ambassador and attempted to escape after an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
-
-The Ambassador then had got down from his vehicle and attempted to prevent the businessman from escaping by keeping his hand on the bonnet of the businessman’s car while calling the driver to wait until the police comes.
-
-However, the businessman had driven the car even after the Ambassador was thrown onto the bonnet.
-
-Police officials who arrived at the scene had arrested the suspect.
-
-He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana Kekunawala.
-
-◼️
-
-[Data](articles/522128c7.json)
-
-[Extended Data](ext_articles/522128c7.ext.json)
-
----
-
-### A large number of journalists killed in Israeli attacks
-
-*2024-05-19 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196794) · `si`
-
-In Israeli attacks on Gaza, 148 journalists were tragically killed. This grim statistic was disclosed by the Health and Mass Media Authority. Despite UN Security Council proposals, Israel persists in its assaults.
-
-🟩
-
-148 journalists were killed in Israeli attacks on the Gaza.
-
-Foreign media reports that this data has been revealed in calculations carried out by the Health and Mass Media Authority.
-
-The Israeli continues to attack the United Nations Security Council, despite the proposals to the United Nations Security Council in the Gaza.
-
-◼️
-
-[Data](articles/e49f4291.json)
-
-[Extended Data](ext_articles/e49f4291.ext.json)
-
----
-
-### It is the responsibility of all people to manage the country so that the war is not again - Mahinda Rajapaksa
-
-*2024-05-19 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183976) · `ta`
-
-Mahinda Rajapaksa emphasizes the collective responsibility to prevent future wars, highlighting the peaceful post-war era and the heroic efforts of the military during the LTTE conflict, which ended 15 years ago.
-
-🟩
-
-We are currently living in an environment where there is no cruel experiences of the war.. Former President Mahinda Rajapakse has stressed that it is the responsibility of all to manage the country in the future to give the military's heroism and manage the country in the future.
-
-The above stated in a special statement issued by the 15th Military Success.
-
-15 years have passed since the separatist and terrorist war that occupied Sri Lanka for three decades has ended.
-
-The Liberation Tigers of Tamil Eelam (LTTE), which began as a group in the 1970s, emerged as the world's most popular terrorist organization in the world in 2008.
-
-The LTTE introduced the world to the world of suicide. It should be recalled that the LTTE organization operated in a strong structure, such as suicide bombs, and ships carrying weapons, including light aircraft that can attack at night.
-
-...
-
-[Data](articles/d56fbf35.json)
-
-[Extended Data](ext_articles/d56fbf35.ext.json)
-
----
-
-### Landslide early warnings issued for 8 districts including Colombo
-
-*2024-05-19 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99317/landslide-early-warnings-issued-for-8-districts-including-colombo) · `en`
-
-The National Building and Research Organisation (NBRO), on Sunday (May 19) issued  Level 01 and  Level 02 early landslide warnings for several localities in eight districts, effective until 04.00 p.m. tomorrow (May 20).
-
-Accordingly, a Level 02 (Amber) alert was issued for the following areas:
-
-Badulla - Ella Divisional Secretariat Division (DSD) and surrounding areas
-
-Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
-
-Badulla – Hali Ela, Badulla, Haputale and Haldummulla DSDs and surrounding areas
-
-Kandy – Kandy Four Gravets or Gangawata Korale, Ganga Ihala Korale, Pasbage Korale, Udapalatha, Ududumbara, Udunuwara and Yatinuwara DSDs and surrounding areas
-
-Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Yatiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
-
-Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
-
-...
-
-[Data](articles/efd33689.json)
-
-[Extended Data](ext_articles/efd33689.ext.json)
 
 ---

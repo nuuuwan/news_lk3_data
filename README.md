@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 18:12:38**
+As of **2024-05-20 18:23:49**
 
 ## Newspaper Stats
 
-*Scraped **25,228** Articles*
+*Scraped **25,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,365
-economynextcom | 1,446
+economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,160
 adaderanalk | 2,920
-tamilmirrorlk | 2,950
+tamilmirrorlk | 2,951
 virakesarilk | 3,807
 dailymirrorlk | 3,963
 adaderanasinhalalk | 4,036
@@ -26,37 +26,59 @@ adaderanasinhalalk | 4,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,227 (100.0%) of 25,228 articles have been extended.
+25,228 (100.0%) of 25,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
+### புத்தளம் பாடசாலைகளுக்கு விடுமுறை
+
+*2024-05-20 18:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/புத்தளம்-பாடசாலைகளுக்கு-விடுமுறை/94-337601) · `ta`
+
+வடமேல் மாகாணத்தின் புத்தளம் மாவட்டத்தில் உள்ள அனைத்து பாடசாலைகளுக்கும் நாளை செவ்வாய்க்கிழமையும் (21), நாளை மறுதினம் புதன்கிழமையும் (22) விடுமுறை வழங்குமாறு வடமேல் மாகாண ஆளுநர் நசீர் அஹமட் பணித்துள்ளார்.
+
+தொடர்ச்சியாக பெய்துவரும் பலத்த மழை காரணமாக புத்தளம் மாவட்டத்தில் பாடசாலைகள் உட்பட பல பிரதேசங்கள் வெள்ளத்தினால் மூழ்கியுள்ளன.
+
+இதனை கவனத்திற்கொண்ட மாகாண ஆளுநர் , புத்தளம் மாவட்டச் செயலாளர் மற்றும் வடமேல் மாகாண பிரதம செயலாளர் ஆகியோருடன் கலந்துரையாடிய பின்னர், பாடசாலை மாணவர்களின் பாதுகாப்பு கருதி   பாடசாலைகளுக்கும் விடுமுறை வழங்க பணித்துள்ளார்.
+
+◼️
+
+[Data](articles/3703acf1.json)
+
+---
+
 ### එල් පී එල් ක්‍රීඩක වෙන්දේසිය සඳහා සියල්ල සූදානම්
 
 *2024-05-20 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196831) · `si`
 
+The 5th Lanka Premier League cricket tournament's player auction is set for tomorrow in Colombo. 420 players, including 154 locals, will be available. Teams have allocated $500,000 each for auctions. Notable signings include Chamika Karunaratne, Thisara Perera, Kusal Mendis, and others from various teams.
+
+🟩
+
 5 වැනි ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය හෙට (21) දහවල් කොළඹදී පැවැත්වෙයි.
 
-එහිදී දේශීය සහ විදෙස් ක්‍රීඩකයින් 420 දෙනෙක් වෙන්දේසියට ඉදිරිපත් කර ඇති අතර ඉන් ක්‍රීඩකයින් 154 දෙනෙක් දේශීය ක්‍රීඩකයින් ය.
+There are 420 local and foreign players have been presented to the auction and 154 players are local players.
 
-කණ්ඩායම් පහේ හිමිකරුවන් විසින් ක්‍රීඩක වෙන්දේසිය සඳහා ඩොලර් 500,000 බැගින් ඩොලර් මිලියන 2.5ක් යෙදවෙයි.
+The five teams deployed $ 500,000 each for athletes auction.
 
-එක් එක් කණ්ඩායම් මේ වනවිට කොන්ත්‍රාත් අත්සන් කර ඇති සහ රඳවා ගන්නා ක්‍රීඩකයින්....
+Players who have signed and withholding of each groups ....
 
-චාමික කරුණාරත්න, තිසර පෙරේරා, සදීර සමරවික්‍රම, නිපුන් ධනංජය, ශඩාබ් ඛාන්, ග්ලෙන් පිලිප්ස්
+Chamika Karunaratne, Thisara Perera, Tissara Perera, Sedara Samarawickrama, Nippena Dhananjaya, Shadab Khan, Glen Phillips
 
-ඩිල්ශාන් මදුශංක, නුවන් තුෂාර, දුෂාන් හේමන්ත, ප්‍රවීන් ජයවික්‍රම, මුස්ටෆිසූර් රහමන්, ඉබ්‍රාහිම් සද්‍රාන්
+Dilshan Madushanka, Nuwan Thushara, Dushan Hemantha, Pravehi Jayawickrama, Mustfisor, Mustafisor, Ibrahim Solon
 
-භානුක රාජපක්ෂ, ලසිත් කෘෘස්පුල්ලේ, නිරෝෂන් දික්වැල්ල, මහීෂ් තීක්ෂණ, ටීම් සයිෆර්ට්, ඇලෙක්ස් හෙල්ස්
+Bhanuka Rajapaksha, Lasith Food, Niroshan Dickwella, Mah Meh Supervis, Tim Safurt, Alex Hells
 
-කුසල් මෙන්ඩිස්, අවිශ්ක ප්‍රනාන්දු, චරිත් අසලංක, විජයකාන්ත් වියස්කාන්ත්, අමතුල්ලා ඔමර්සායි, නූර් අහමඩ්
+Kusal Mendis, Anthethyakan Vesakith, Ahitallah, Ahrzai, North, Ahmer
 
-වනිඳු හසරංග, ඇන්ජලෝ මැතිව්ස්, දුෂ්මන්ත චමීර, කමිඳු මෙන්ඩිස්, ඇන්ද්‍රේ ෆ්ලෙචර්, කයිල් මේයර්ස්
+Wannu Hasaranga, Angelo Mathews, Kamindantha Mendis, Kaminda Mendis, Kyle Meyers
 
 ◼️
 
 [Data](articles/a4d295e5.json)
+
+[Extended Data](ext_articles/a4d295e5.ext.json)
 
 ---
 
@@ -84,6 +106,28 @@ IP in India. The four teams have been arrested shortly before the three teams ar
 
 ---
 
+### Sri Lanka helps launch Global Blended Finance Alliance
+
+*2024-05-20 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-helps-launch-global-blended-finance-alliance-163782/) · `en`
+
+ECONOMYNEXT – Sri Lanka has joined a group of nations led by Indonesia which aims to mobilise capital to achieve carbon neutrality, Minister of Water Supply and Estate Infrastructure Jeevan Thondaman said.
+
+The Global Blended Finance Alliance mooted by Indonesia in 2018, was formally launched at the World Water Forum in Bali today.
+
+Among the other founding members are Fiji, France, UAE, Kenya, Luxembourg and Canada.
+
+“Through our collective efforts, the Global Blended Finance Alliance aims to mobilise both public and private capital to help nations achieve carbon neutrality and the SDGs,” Thondaman said on social media platform X (twitter).
+
+“The world has a USD 2.5 trillion funding gap to achieve the Sustainable Development Goals (SDGs) by 2030,” he said.
+
+Blended finance is the strategic use of development finance, such as public and/or philanthropic funds, for the mobilisation of additional commercial finance towards sustainable development in developing countries. (Colombo/May20/2024)
+
+◼️
+
+[Data](articles/8c3ef03b.json)
+
+---
+
 ### Anura agree on a day of Sajith gave the debate
 
 *2024-05-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196830) · `si`
@@ -101,6 +145,24 @@ Accordingly, Nalinda Jayatissa further stated that the sphere of the place, time
 [Data](articles/157613b3.json)
 
 [Extended Data](ext_articles/157613b3.ext.json)
+
+---
+
+### Sri Lanka rupee closes slightly stronger at 299.60/75 to US dollar
+
+*2024-05-20 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-slightly-stronger-at-299-60-75-to-us-dollar-163813/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.60/75 to the US dollar on Friday, from 299.70/80 the previous week, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 closed up at 10.15/35 percent from 10.05/15 percent.
+
+A bond maturing on 15.09.2027 closed up at 10.45/55 percent from 10.25/40 percent.
+
+A bond maturing on 01.10.2032 closed up at 11.90/12.05 percent from 11.85/12.00 percent. (Colombo/May20/2024)
+
+◼️
+
+[Data](articles/113f3f7d.json)
 
 ---
 
@@ -231,6 +293,30 @@ Chandaka Jayasundara PC with Counsel Amila E. Dissanayake appeared for the plain
 [Data](articles/8d6eed3d.json)
 
 [Extended Data](ext_articles/8d6eed3d.ext.json)
+
+---
+
+### Sri Lanka stocks close down, bluechips hold value
+
+*2024-05-20 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-bluechips-hold-value-163806/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.69 percent, or 84.56 points, at 12,235; while the S&P SL20 Index closed down 0.64 percent, or 23.32 points, at 3,614.
+
+“The market was down, possibly a consolidation phase after last week’s run on penny stocks,” market participants said. “It’s also a short week.”
+
+“Additionally, there is the monetary policy review due next Tuesday so not a lot of buying interest overall.”
+
+However, bluechip stocks were holding their value, they said. “This is mainly because the earnings that are being posted are very good.”
+
+John Keells Holdings Plc was up at 206.00, Sampath Bank Plc was up at 78.00, and Hayleys Plc was up at 92.70.
+
+After Samapth Bank Plc, Dipped Products Plc saw the most active volumes (Rs84mn) traded in the day. The share closed up at 34.30.
+
+...
+
+[Data](articles/096fa92d.json)
 
 ---
 
@@ -407,6 +493,26 @@ The Pakistanite woman and heroin he brought to the investigation into further in
 [Data](articles/d941555b.json)
 
 [Extended Data](ext_articles/d941555b.ext.json)
+
+---
+
+### EU delegation reviews Sri Lanka rubber production EUDR-compliance
+
+*2024-05-20 15:54:00* · [`economynextcom`](https://economynext.com/eu-delegation-reviews-sri-lanka-rubber-production-eudr-compliance-163784/) · `en`
+
+ECONOMYNEXT – A European Union delegation has visited Sri Lanka to review the country’s compliance with the EU’s Regulation on Deforestation Free Products in the cultivation of rubber, Minister of Agriculture and Plantation Industries has said.
+
+The Regulation on Deforestation Free Products (EUDR), which comes into effect from December 30 this year, seeks to guarantee that products EU citizens consume do not contribute to deforestation or forest degradation worldwide.
+
+Sri Lanka which exports rubber and related products has agreed to implement the policies of the Act. Around 30 percent of the rubber exported by the country is bought by countries belonging to the European Union.
+
+The delegation included officials from the Michelin Group, Minister Amaraweera said in a social media post.
+
+The team evaluated the measures taken by the Sri Lankan government to expand rubber cultivation in Sri Lanka without destroying forests.
+
+...
+
+[Data](articles/09e780f0.json)
 
 ---
 
@@ -879,6 +985,26 @@ He said they will request the Speaker to reveal the list of MPs who have request
 [Data](articles/cd792799.json)
 
 [Extended Data](ext_articles/cd792799.ext.json)
+
+---
+
+### World Bank help to restructure US$800mn debt in Sri Lanka water sector
+
+*2024-05-20 13:51:00* · [`economynextcom`](https://economynext.com/world-bank-help-to-restructure-us800mn-debt-in-sri-lanka-water-sector-163772/) · `en`
+
+ECONOMYNEXT – The World Bank will help Sri Lanka restructure the 800 million dollar debt in its water sector, Minister of Water Supply Jeevan Thondaman has said.
+
+“With the World Bank’s help, Sri Lanka will restructure its $800 million of debt in the water sector, have access to credit enhancement schemes that will make new water projects transparent and affordable and put us on a secured path to achieve SDG6,” Thondaman said on social media platform X (twitter).
+
+The minister met with the Global Director for Water for the World Bank Saroj Jha in Bali at the 10th World Water Forum.
+
+“Since our first meeting in December, Saroj has come forward to provide the full support of the World Bank for the ambitious reforms we are doing in Sri Lanka’s water sector.
+
+“I look forward to working with World Bank Water and deepening our partnership.”
+
+...
+
+[Data](articles/26e13de3.json)
 
 ---
 
@@ -2167,141 +2293,5 @@ No arrests have been arrested so far and the police are conducting further inves
 [Data](articles/a33ae52f.json)
 
 [Extended Data](ext_articles/a33ae52f.ext.json)
-
----
-
-### A total of 10,299 people are affected by rain and drought;Two people injured
-
-*2024-05-20 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184006) · `ta`
-
-Heavy rains affect 10,299 people across Sri Lanka, injuring two. In the East Nuwarakam area, two injuries occurred due to heavy rains. Additionally, three houses were damaged in Nivitigala, Kodagawela, and Balangoda districts. Droughts impact 8,000 in Jaffna, 1,334 in Trincomalee, and 946 in Kilinochchi.
-
-🟩
-
-Deputy Director of the Disaster Management Center Dusitha Vaidyarathne said that 10,299 people from 3,518 families have been affected and two have been injured due to heavy rains in the country.
-
-Both of them have been injured due to heavy rains in the East Nuwarakam area of the Anuradhapura district.
-
-Meanwhile, three houses have been partially damaged due to the collapse of trees and strong winds in the Nivitigala, Kodagawela and Balangoda district in the Ratnapura district.
-
-Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi have been affected by the drought.
-
-◼️
-
-[Data](articles/6b2d8749.json)
-
-[Extended Data](ext_articles/6b2d8749.ext.json)
-
----
-
-### Prison officers launch ‘sick leave’ trade union action
-
-*2024-05-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99328/prison-officers-launch-sick-leave-trade-union-action) · `en`
-
-The All-Ceylon Prison Officers’ Union has decided to engage in trade union action by reporting ‘sick leave’ from today (20) until May 22, based on several demands including an increase in wages.
-
-It is reported that officers of the Prisons Department across the island have joined the trade union action, which has been launched demanding an increase in wages by Rs. 25,000.
-
-Meanwhile, the trade union action initiated by the university non-academic staff further continues.
-
-The General Secretary of the Peradeniya University’s Trade Union Federation, T. A. D. Suranjeeva said that the entire university system has been affected due to this.
-
-◼️
-
-[Data](articles/cb136488.json)
-
-[Extended Data](ext_articles/cb136488.ext.json)
-
----
-
-### Sri Lanka's golden back frog in India
-
-*2024-05-20 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184003) · `ta`
-
-A rare golden-backed frog, scientifically named Hylarana gracilis, typically found in Sri Lanka, was recently discovered in India. This unique species, with its golden back and dark upper body, was spotted in a pond near the Countanya forest in Andhra Pradesh's Balamana region.
-
-🟩
-
-In India, a rare frog has been discovered like gold that is said to be belonging to Sri Lanka.
-
-Deepa Jaiswal from the Indian Zoology Department said that it has been found in the pond in the village of Gaunitimpalli near the Countanya forest near Andhra Pradesh, Balamana.
-
-Such frogs are only found in Sri Lanka. The frog's back is golden and the upper part of the body is dark. Its scientific name is Hylarana gracilis.
-
-◼️
-
-[Data](articles/8c6c0149.json)
-
-[Extended Data](ext_articles/8c6c0149.ext.json)
-
----
-
-### What happens if an Iranian president dies in office?
-
-*2024-05-20 09:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/What-happens-if-an-Iranian-president-dies-in-office/108-282947) · `en`
-
-May 20 (Reuters) - Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
-
-Below is brief outline of what Iran's constitution says happens if a president is incapacitated or dies in office:
-
-* According to article 131 of the Islamic Republic's constitution, if a president dies in office the first vice president takes over, with the confirmation of the supreme leader, who has the final say in all matters of state.
-
-* A council consisting of the first vice president, the speaker of parliament and the head of the judiciary must arrange a election for a new president within a maximum period of 50 days.
-
-Raisi was elected president in 2021 and, under the current timetable, presidential elections are due to take place in 2025.
-
-◼️
-
-[Data](articles/0730c82a.json)
-
-[Extended Data](ext_articles/0730c82a.ext.json)
-
----
-
-### Iran's President and others killed
-
-*2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ඇතුළු-පිරිස-මිය-ගිය-බව-තහවුරු-කරයි/11-409731) · `si`
-
-Iran confirms all aboard crashed helicopter dead; no survivors found in East Azerbaijan crash involving VP Mohammed Hybrids and other officials.
-
-🟩
-
-Iranian Vice President Mohammed Hybrids have held a special meeting of the government's cabinet.
-
-Iran officially confirmed that everyone who was traveling in the helicopter where the helicopter, which was traveling in the jail, was killed.
-
-The Iranian media reports that the holispers of the Holyponed to the area where the Iranian Minister was traveling with the President of Iranian and Minister of External Affairs.
-
-It is reported that there is no sign on survivors.
-
-The helicopter was broken into a dense forest population in East Azerbaijan.
-
-◼️
-
-[Data](articles/6e2a4be7.json)
-
-[Extended Data](ext_articles/6e2a4be7.ext.json)
-
----
-
-### There is no sign of those who survived the helicopter crash
-
-*2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-අනතුරින්-දිවි-බේරා-ගත්-අය-ගැන-සලකුණක්-නෑ/11-409731) · `si`
-
-Iranian media report no survivors from a helicopter crash in East Azerbaijan, involving the President and Minister of External Affairs. The wreckage was found in a dense forest.
-
-🟩
-
-The Iranian media reports that the holispers of the Holyponed to the area where the Iranian Minister was traveling with the President of Iranian and Minister of External Affairs.
-
-It is reported that there is no sign on survivors.
-
-The helicopter was broken into a dense forest population in East Azerbaijan.
-
-◼️
-
-[Data](articles/8c6b023b.json)
-
-[Extended Data](ext_articles/8c6b023b.ext.json)
 
 ---

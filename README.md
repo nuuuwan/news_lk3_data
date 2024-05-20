@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 10:34:05**
+As of **2024-05-20 10:52:25**
 
 ## Newspaper Stats
 
-*Scraped **25,124** Articles*
+*Scraped **25,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,149
 adaderanalk | 2,906
-tamilmirrorlk | 2,936
+tamilmirrorlk | 2,937
 virakesarilk | 3,791
-dailymirrorlk | 3,947
+dailymirrorlk | 3,948
 adaderanasinhalalk | 4,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,119 (100.0%) of 25,124 articles have been extended.
+25,124 (100.0%) of 25,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### கஞ்சை கொச்சைப்படுத்தி சுவரொட்டி
+
+*2024-05-20 10:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கஞ்சை-கொச்சைப்படுத்தி-சுவரொட்டி/73-337551) · `ta`
+
+முள்ளிவாய்கால் கஞ்சி வழங்குவதை  கொச்சைப்படுத்தி  “ நீங்கள் இன்னமும் ஏமாந்து கொண்டிருக்கின்றீர்களா”? எனும் தலைப்பில் சுவரொட்டிகள் ஒட்டப்பட்டுள்ளது. கறுப்பு வௌ்ளையில் ஒட்டப்பட்டுள்ள அந்த சுவரொட்டிகளுக்கு ‘தமிழ் மக்கள் சுவர்’ உரிமை கோரியுள்ளது.
+
+◼️
+
+[Data](articles/7f19581b.json)
+
+---
+
+### Chief prelates urge Presidential pardon for Ven. Gnanasara Thera on Vesak Poya day
+
+*2024-05-20 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-prelates-urge-Presidential-pardon-for-Ven-Gnanasara-Thera-on-Vesak-Poya-day/108-282958) · `en`
+
+Colombo, May 20 (Daily Mirror) - Recognising the efforts of Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera in promoting national unity and social support, the Chief Prelates of the Malwathu, Asgiri, Ramanna Nikaya, and the Amarapura Maha Sangha Sabha have appealed to the President to grant Ven. Gnanasara Thera a pardon on Vesak Poya day.
+
+In a letter to the President, the Chief Prelates noted that Ven. Galaboda Atte Gnanasara Thera was sentenced to four years in prison on March 28, 2024, after being found guilty of causing discord during a media discussion about the Kooragala Rajamaha Vihara in 2016.
+
+Ven. Gnanasara Thero has also taken steps to alert authorities about extremist activities in society.
+
+His actions provided crucial support to state security forces, helping to prevent the spread of some extremist groups in Sri Lanka.
+
+As a result, several potential extremist conflicts in Sri Lankan society were averted, they claimed.
+
+◼️
+
+[Data](articles/bf5b3cdb.json)
+
+---
 
 ### Iranian President Ebrahim Raisi killed in helicopter crash, official says
 
@@ -49,6 +81,8 @@ State TV reported that images from the site showed the aircraft slammed into a m
 ...
 
 [Data](articles/c90e7d98.json)
+
+[Extended Data](ext_articles/c90e7d98.ext.json)
 
 ---
 
@@ -83,6 +117,8 @@ Iranian Supreme Leader Ayatollah Ali Khamenei, who holds ultimate power with a f
 ◼️
 
 [Data](articles/62ed0328.json)
+
+[Extended Data](ext_articles/62ed0328.ext.json)
 
 ---
 
@@ -141,6 +177,8 @@ Raisi was elected president in 2021 and, under the current timetable, presidenti
 ◼️
 
 [Data](articles/0730c82a.json)
+
+[Extended Data](ext_articles/0730c82a.ext.json)
 
 ---
 
@@ -1566,6 +1604,8 @@ Rescue teams fought blizzards and difficult terrain through the night to reach t
 
 [Data](articles/7b06d283.json)
 
+[Extended Data](ext_articles/7b06d283.ext.json)
+
 ---
 
 ### Iran helicopter crash: Rescuers find President Raisi’s aircraft
@@ -1659,6 +1699,8 @@ The 15th National War Heroes' Day was commemorated on Sunday (19) at the Nationa
 ◼️
 
 [Data](articles/1b6a7022.json)
+
+[Extended Data](ext_articles/1b6a7022.ext.json)
 
 ---
 
@@ -2139,41 +2181,5 @@ In 2016, the Sri Lanka Human Rights Commission made recommendations to the then 
 [Data](articles/b053a1c2.json)
 
 [Extended Data](ext_articles/b053a1c2.ext.json)
-
----
-
-### Samban's meaningless demand
-
-*2024-05-19 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183973) · `ta`
-
-"The Tamil community's indecisiveness about supporting a common candidate in the presidential election highlights their internal divisions and lack of strategic clarity."
-
-🟩
-
-“The demand from the source of the issue of the Tamil general candidate has revealed the confusion and weakness. If the Tamil people are to contest the presidential election and take a decisive decision and make a decisive decision if the Tamil people have to make a decisive decision, it will never be a decision to stop the common candidate in history ”
-
-◼️
-
-[Data](articles/91a208e1.json)
-
-[Extended Data](ext_articles/91a208e1.ext.json)
-
----
-
-### Is Ukraine defeat in war?
-
-*2024-05-19 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/183972) · `ta`
-
-Vladimir Putin replaces his army minister after being sworn in for the fifth term, appointing Sarga Saku as Secretary of the Security Council and economist Anir Belluso as the new Army Minister.
-
-🟩
-
-Russian President Vladimir Putin, who has been sworn in for the fifth time, has replaced his army minister. Sarga Saku, who has been the Minister of Army for the past 12 years, has been appointed as the Secretary of the Security Council.. Former Deputy Chief Minister and Economist Anir Belluso has been appointed as the new Army Minister.
-
-◼️
-
-[Data](articles/f6e1bdf3.json)
-
-[Extended Data](ext_articles/f6e1bdf3.ext.json)
 
 ---

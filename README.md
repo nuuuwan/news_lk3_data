@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 23:03:58**
+As of **2024-05-20 23:18:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,279 (100.0%) of 25,282 articles have been extended.
+25,282 (100.0%) of 25,282 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Netanyahu and other Israeli leaders condemned the move as disgraceful and antise
 ...
 
 [Data](articles/486ce53d.json)
+
+[Extended Data](ext_articles/486ce53d.ext.json)
 
 ---
 
@@ -420,21 +422,29 @@ He assumed duties as the Acting Director of the Media Division on Monday (20).
 
 ---
 
-### බන්ධනාගාර නිලධාරීන්ට පොලිස් නිලධාරීන්ට සමගාමීව දීමනා වැඩි කරයි
+### Prison officials increase allowances to coincide with police officers
 
 *2024-05-20 20:16:30* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ට-පොලිස්-නිලධාරීන්ට-සමගාමීව-දීමනා-වැඩි-කරයි/11-409750) · `si`
 
-බන්ධනාගාර නිලධාරීන්ට පොලිස් නිලධාරීන්ට සමගාමීව දීමනා වැඩි කිරීමට අධිකරණ,බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා එකඟතාව පළකර තිබෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කරයි.
+Prison officials' allowances will be increased alongside police officers' pay, as decided by the Prison Department and Constitutional Reforms Minister Wijayadasa Rajapaksa. This decision follows a Cabinet paper submission and comes after several institutions took steps to prevent court cases due to lack of legal recourse for prison officials. The move was discussed during a special meeting at the Ministry of Justice, emphasizing the importance of reporting to ensure prison safety.
 
-අදාළ දීමනා ලබා දෙන තෙක් රු.15000ක දීමනාවක් ලබා දීමට ලබන සතියේදී කැබිනට් පත්‍රිකාවක්  යොමු කිරීමට  පියවර ගෙන තිබෙන බවද එම දෙපාර්තමේන්තුව අද (20දා) මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+🟩
 
-බන්ධනාගාර නිලධාරීන්ට වෘත්තීය ක්‍රියා මාර්ගවලට යොමු වීමේ නීත්‍යනුකුල අවස්ථාවක් නොමැති බවත්, ආයතන කිහිපයක නිලධාරීන් ඊයේ අධිකරණ කටයුතුවලින් වැළකී සිටීමට කටයුතු කර තිබෙන බවත් එම නිවේදනයේ සඳහන් කර තිබේ.
+The Prison Department (PC) Wijeyadasa and Constitutional Reforms Minister Wijayadasa Rajapaksa has agreed to increase the allowances in parallel to the police officers.
 
-බන්ධනාගාරවල අහ්‍යන්තර කටයුතුවලට හෝ  ආරක්ෂාවට මෙමගින්  බාධාවක් සිදුවී නොමැති බවත්,  සියලුම නිලධාරීන්ගේ නිවාඩු අවලංගු කර තිබෙන නිසා සියලු දෙනාම සේවයට වාර්තා කරන ලෙසට බන්ධනාගර කොමසාරිස් ජනරාල් විසින් නිලධාරීන්ට දන්වා තිබෙන බවත් එම නිවේදනයේ සඳහන්  වේ.
+The department has been sent to a Cabinet paper to provide a sum of Rs.
 
-...
+The announcement states that the prison officials have no legal chance to refer to professional procedures and several institutions have taken action to avoid courts yesterday.
+
+The statement states that the commissioner General of Parliament has informed the officials to report to all officers to the work of the prisons or security of prisons.
+
+It has shown that the Minister of Justice Wijayadasa has held a special discussion at his ministry yesterday regarding the increase in the allowances of prison officials.
+
+◼️
 
 [Data](articles/dffdf25a.json)
+
+[Extended Data](ext_articles/dffdf25a.ext.json)
 
 ---
 
@@ -1071,6 +1081,8 @@ Every physician likely recalls an unforgettable moment from his or her clinical 
 ...
 
 [Data](articles/13882107.json)
+
+[Extended Data](ext_articles/13882107.ext.json)
 
 ---
 

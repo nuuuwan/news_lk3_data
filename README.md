@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 10:18:34**
+As of **2024-05-20 10:34:05**
 
 ## Newspaper Stats
 
-*Scraped **25,119** Articles*
+*Scraped **25,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,91 @@ islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,149
-adaderanalk | 2,905
+adaderanalk | 2,906
 tamilmirrorlk | 2,936
 virakesarilk | 3,791
-dailymirrorlk | 3,943
+dailymirrorlk | 3,947
 adaderanasinhalalk | 4,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,116 (100.0%) of 25,119 articles have been extended.
+25,119 (100.0%) of 25,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ඉරාන ජනපති මියගිය බව තහවුරු වෙයි
+### Iranian President Ebrahim Raisi killed in helicopter crash, official says
+
+*2024-05-20 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99329/iranian-president-ebrahim-raisi-killed-in-helicopter-crash-official-says) · `en`
+
+(Reuters) - Iranian President Ebrahim Raisi and his foreign minister were killed in a helicopter crash in mountainous terrain and icy weather, an Iranian official said on Monday, after search teams located the wreckage in East Azerbaijan province.
+
+“President Raisi, the foreign minister and all the passengers in the helicopter were killed in the crash,” the senior Iranian official told Reuters, asking not to be named because of the sensitivity of the matter.
+
+Iran’s Mehr news agency confirmed the deaths, reporting that “all passengers of the helicopter carrying the Iranian president and foreign minister were martyred”.
+
+An Iranian official earlier told Reuters the helicopter carrying Raisi and Foreign Minister Hossein Amirabdollahian was completely burned in the crash on Sunday.
+
+State TV reported that images from the site showed the aircraft slammed into a mountain peak, although there was no official word on the cause of the crash.
+
+...
+
+[Data](articles/c90e7d98.json)
+
+---
+
+### The President of Iran has died
 
 *2024-05-20 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196809) · `si`
 
-ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි සහ එරට විදේශ අමාත්‍යවරයා ඊයේ (19) සිදුවූ හෙළිකොප්ටර් අනතුරින් ජීවිතක්ෂයට පත්ව ඇතැයි තහවුරු වී තිබේ.
+Iran's President dies; Indian Foreign Minister also killed yesterday.
+
+🟩
+
+The Iran President of Iranian President, the Foreign Minister of India has been killed in yesterday's yesterday (19).
 
 ◼️
 
 [Data](articles/c40dc6cd.json)
 
+[Extended Data](ext_articles/c40dc6cd.ext.json)
+
 ---
 
-### රුසියානු තානාපති ගැටලුව විසඳීමට කඩිනම් පියවර
+### Iran’s President Raisi, Foreign Minister die in helicopter crash
+
+*2024-05-20 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Irans-President-Raisi-Foreign-Minister-die-in-helicopter-crash/108-282952) · `en`
+
+May 20 (Reuters) - Iranian President Ebrahim Raisi and his foreign minister died when their helicopter crashed as it was crossing mountain terrain in heavy fog, an Iranian official told Reuters on Monday.
+
+Raisi, opens new tab, 63, was elected president in 2021, and since taking office has ordered a tightening of morality laws, overseen a bloody crackdown on anti-government protests and pushed hard in nuclear talks with world powers.
+
+Iranian Supreme Leader Ayatollah Ali Khamenei, who holds ultimate power with a final say on foreign policy and Iran's nuclear programme, had earlier sought to reassure Iranians, saying there would be no disruption to state affairs.
+
+◼️
+
+[Data](articles/62ed0328.json)
+
+---
+
+### Prompt action to solve the Russian embassy problem
 
 *2024-05-20 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196808) · `si`
 
-දැනට පුරප්පාඩුව පවතින රුසියාවේ ශ්‍රී ලංකා තානාපති ධුරය සඳහා විදේශ සේවයේ ජ්‍යේෂ්ඨ නිලධාරියෙකු තානාපති සේවයට යැවීමට රජය තීරණය කර තිබේ.
+The government will dispatch a top diplomat from the Foreign Service as Sri Lanka's ambassador to Russia to address issues at the embassy.
+
+🟩
+
+The government has decided to send a senior senior officer of the Foreign Service for the Sri Lankan Ambassador to Russia, Sri Lanka's Ambassador.
 
 ◼️
 
 [Data](articles/274df53b.json)
+
+[Extended Data](ext_articles/274df53b.ext.json)
 
 ---
 
@@ -76,19 +124,45 @@ The General Secretary of the Peradeniya University’s Trade Union Federation, T
 
 ---
 
-### හෙලිකොප්ටර් අනතුරින් දිවි බේරා ගත් අය ගැන සලකුණක් නෑ
+### What happens if an Iranian president dies in office?
+
+*2024-05-20 09:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/What-happens-if-an-Iranian-president-dies-in-office/108-282947) · `en`
+
+May 20 (Reuters) - Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
+
+Below is brief outline of what Iran's constitution says happens if a president is incapacitated or dies in office:
+
+* According to article 131 of the Islamic Republic's constitution, if a president dies in office the first vice president takes over, with the confirmation of the supreme leader, who has the final say in all matters of state.
+
+* A council consisting of the first vice president, the speaker of parliament and the head of the judiciary must arrange a election for a new president within a maximum period of 50 days.
+
+Raisi was elected president in 2021 and, under the current timetable, presidential elections are due to take place in 2025.
+
+◼️
+
+[Data](articles/0730c82a.json)
+
+---
+
+### There is no sign of those who survived the helicopter crash
 
 *2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-අනතුරින්-දිවි-බේරා-ගත්-අය-ගැන-සලකුණක්-නෑ/11-409731) · `si`
 
-ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා හා විදේශ කටයුතු අමාත්‍ය හුසෙන් අමිර් ඇතුළු පිරිසක් ගමන් කරමින් සිටියදි හොලිකොප්ටර් යානය අනතුරට පත්වූ ප්‍ර දේශය වෙත ගලවා ගැනිමේ කණ්ඩායම් මේ වන විට ළඟා වි ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+Iranian media report no survivors from a helicopter crash in East Azerbaijan, involving the President and Minister of External Affairs. The wreckage was found in a dense forest.
 
-අනතුරින් දිවි ගලවාගත් මගින් පිළිබඳව කිසිම සලකුණක් නොමැති බවද වාර්තා වෙයි.
+🟩
 
-නැගෙනහිර අසර්බයිජානයේ ඝන වනාන්තර ප්‍ර දේශයකට මෙම හෙලිකොප්ටර් යානය කඩා වැටි තිබුණි.
+The Iranian media reports that the holispers of the Holyponed to the area where the Iranian Minister was traveling with the President of Iranian and Minister of External Affairs.
+
+It is reported that there is no sign on survivors.
+
+The helicopter was broken into a dense forest population in East Azerbaijan.
 
 ◼️
 
 [Data](articles/8c6b023b.json)
+
+[Extended Data](ext_articles/8c6b023b.ext.json)
 
 ---
 
@@ -1470,6 +1544,30 @@ The unnamed official said contact has been made on several occasions.
 
 ---
 
+### Iran helicopter crash: President Ebrahim Raisi dies
+
+*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-dies/155-282938) · `en`
+
+09.40 - Mehr News Agency says Raisi, Amirabdollahian killed in crash
+
+The semi-official news agency reports that the Iranian president, foreign minister and other occupants of the helicopter, including East Azerbaijan Province Governor Malek Rahmati, have been “martyred”.
+
+There is still no official confirmation that Raisi is dead, but medics have said that they found “no signs” of life at the crash site.
+
+09.26 - Rescue teams pictured during search for president's helicopter
+
+Rescuers with the Iranian Red Crescent Society are pictured at an unknown location as they search for the crash site of a helicopter carrying Iranian President Ebrahim Raisi.
+
+The aircraft was an American made Bell 212 helicopter and is believed to have crashed into a mountain in Iran as a result of bad weather as Mr Raisi returned from a meeting with the leader of Azerbaijan.
+
+Rescue teams fought blizzards and difficult terrain through the night to reach the wreckage in East Azerbaijan province in the early hours of Monday.
+
+...
+
+[Data](articles/7b06d283.json)
+
+---
+
 ### Iran helicopter crash: Rescuers find President Raisi’s aircraft
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Rescuers-find-President-Raisis-aircraft/155-282938) · `en`
@@ -1549,6 +1647,18 @@ The decision will be said that the seat of Sri Lankan citizenship under Article 
 [Data](articles/7b278dd0.json)
 
 [Extended Data](ext_articles/7b278dd0.ext.json)
+
+---
+
+### Saluting the brave…
+
+*2024-05-19 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Saluting-the-brave/110-282930) · `en`
+
+The 15th National War Heroes' Day was commemorated on Sunday (19) at the National War Heroes' Memorial in Battaramulla under the aegis of Prime Minister Dinesh Gunawardena. Among the participants were former military leaders such as Field Marshal Sarath Fonseka, Admiral of the Fleet Wasantha Karannagoda, and Marshal of the Air Force Roshan Goonetileke. Military leaders from various eras also came together to honour the fallen war heroes. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/1b6a7022.json)
 
 ---
 
@@ -2065,95 +2175,5 @@ Russian President Vladimir Putin, who has been sworn in for the fifth time, has 
 [Data](articles/f6e1bdf3.json)
 
 [Extended Data](ext_articles/f6e1bdf3.ext.json)
-
----
-
-### The next generation to be prepared for the best politics
-
-*2024-05-19 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183969) · `ta`
-
-Historically, world politics often diverge from direct political issues, influenced by public opinion. This trend is evident in Sri Lanka, where leadership decisions impact citizens' lives significantly.
-
-🟩
-
-Throughout history, we have seen the extent to which world politics has a publicity that has nothing to do with politics directly.. Similarly, we are also a witness to where the Sri Lankan rulers have taken us.
-
-◼️
-
-[Data](articles/057416c3.json)
-
-[Extended Data](ext_articles/057416c3.ext.json)
-
----
-
-### India is a handful of Tamil welfare
-
-*2024-05-19 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183971) · `ta`
-
-India considers Tamil welfare crucially, assessing how a Tamil general candidate's success might impact the community.
-
-🟩
-
-India also looks at whether the Tamil general candidate is in the competition, whether the success of the candidate will be affected. ”
-
-◼️
-
-[Data](articles/129e92fa.json)
-
-[Extended Data](ext_articles/129e92fa.ext.json)
-
----
-
-### Another Julie's sending of the United States
-
-*2024-05-19 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183967) · `ta`
-
-US Ambassador Julie Sung expresses desire to travel, likening her role to being "another Julie" for the United States.
-
-🟩
-
-It is clear that the United States is another Julie Sangha, from the fact that the US Ambassador Julie Sung has said that he wants to travel as a new ambassador.
-
-◼️
-
-[Data](articles/2a322f01.json)
-
-[Extended Data](ext_articles/2a322f01.ext.json)
-
----
-
-### Will the presidential electorate cause divisions?
-
-*2024-05-19 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183958) · `ta`
-
-Ranil Wickremesinghe needs Muslim votes for his presidential victory, relying on budget party support.
-
-🟩
-
-Ranil Wickremesinghe is required to win the presidential election and requires the full support of the budget parties. When this position comes, he thinks that the votes of the Muslims will be given to Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/3648a5e5.json)
-
-[Extended Data](ext_articles/3648a5e5.ext.json)
-
----
-
-### Rulment
-
-*2024-05-19 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/183966) · `ta`
-
-Ranil Wickremesinghe hasn't confirmed his candidacy for the upcoming presidential election but is preparing. The PA aims to back him, planning a party revival. Basil Rajapakse seeks to influence Wickremesinghe.
-
-🟩
-
-“Ranil Wickremesinghe has not announced any decision on contesting the upcoming presidential election. But he is preparing himself. ”The PA is determined to support Ranil Wickremesinghe. Through it, they have a plan to rebuild their party. Basil Rajapakse is making efforts to bring Ranil under their control. ”
-
-◼️
-
-[Data](articles/8f35e8ab.json)
-
-[Extended Data](ext_articles/8f35e8ab.ext.json)
 
 ---

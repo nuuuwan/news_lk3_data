@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 12:34:10**
+As of **2024-05-20 12:52:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,148 (100.0%) of 25,153 articles have been extended.
+25,153 (100.0%) of 25,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,8 @@ A forex crisis two years ago saw the island nation face fuel shortages and power
 ...
 
 [Data](articles/bfeb0d47.json)
+
+[Extended Data](ext_articles/bfeb0d47.ext.json)
 
 ---
 
@@ -536,6 +538,8 @@ The Colombo Stock Exchange opened down. The All Share Price Index was down 0.08 
 
 [Data](articles/a6c5bd41.json)
 
+[Extended Data](ext_articles/a6c5bd41.ext.json)
+
 ---
 
 ### Iran’s President Raisi, Foreign Minister die in helicopter crash
@@ -852,6 +856,8 @@ The law, which sets a 13 percent of GDP spending limit (before interest costs), 
 
 [Data](articles/6b40cbf3.json)
 
+[Extended Data](ext_articles/6b40cbf3.ext.json)
+
 ---
 
 ### Iran President’s crashed helicopter found by Turkey’s Akinji drone
@@ -875,6 +881,8 @@ The helicopter is believed to be a US made Bell 212/412 Iran acquired before san
 ◼️
 
 [Data](articles/8889dd5c.json)
+
+[Extended Data](ext_articles/8889dd5c.ext.json)
 
 ---
 
@@ -1241,6 +1249,8 @@ The helicopter is believed to be a US made Bell 212/412 Iran acquired before san
 ◼️
 
 [Data](articles/6daeeed9.json)
+
+[Extended Data](ext_articles/6daeeed9.ext.json)
 
 ---
 

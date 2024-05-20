@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 09:53:08**
+As of **2024-05-20 10:05:07**
 
 ## Newspaper Stats
 
-*Scraped **25,115** Articles*
+*Scraped **25,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,148
 adaderanalk | 2,905
-tamilmirrorlk | 2,935
+tamilmirrorlk | 2,936
 virakesarilk | 3,791
 dailymirrorlk | 3,943
 adaderanasinhalalk | 4,012
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,112 (100.0%) of 25,115 articles have been extended.
+25,115 (100.0%) of 25,116 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The General Secretary of the Peradeniya University’s Trade Union Federation, T
 ◼️
 
 [Data](articles/cb136488.json)
+
+[Extended Data](ext_articles/cb136488.ext.json)
 
 ---
 
@@ -71,6 +73,26 @@ Raisi, 63, was elected president in 2021, and since taking office has ordered a 
 [Data](articles/30cf7d36.json)
 
 [Extended Data](ext_articles/30cf7d36.ext.json)
+
+---
+
+### ஹெலிகாப்டர் விபத்தில் சிக்கிய ஈரான் அதிபர் ரைசி மரணம்?
+
+*2024-05-20 09:03:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெலிகாப்டர்-விபத்தில்-சிக்கிய-ஈரான்-அதிபர்-ரைசி-மரணம்/50-337546) · `ta`
+
+ஈரான் அதிபர் இப்ராஹிம் ரைசி ஹெலிகாப்டர் விபத்தில் மரணம் அடைந்துள்ளதாக அஞ்சப்படுவதாக அந்நாட்டு ஊடகங்களை மேற்கோள் காட்டி அல்ஜஸீரா மற்றும் பிபிசி ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+நேற்று நடந்த ஹெலிகாப்டர் விபத்தில் யாரும் பிழைக்கவில்லை என்று ஈரான் அரசு தரப்பு தகவல்கள் தெரிவித்துள்ளன.
+
+இஸ்ரேல் போருக்கு இடையே ஈரான் அதிபர் இப்ராஹிம் ரைசி பயணித்த ஹெலிகாப்டர் நேற்று விபத்துக்கு உள்ளனாது.
+
+விபத்து நடந்ததாக கூறப்படும் இடத்தை டிரோன் ஒன்று உறுதி செய்த நிலையில் அந்த பகுதியில் செய்யப்பட்ட சோதனையில்  விபத்து நடந்த இடத்தில் ஹெலிகாப்டரில் இருந்தவர்கள் உயிருடன் இருப்பதற்கான எந்த அறிகுறியும் இல்லை என்று செஞ்சிலுவைச் சங்கம் கூறியதை அடுத்து ஈரானிய அதிபர் ரைசி மற்றும் அவருடன் வந்த அதிகாரிகள் இறந்துவிட்டதாக அஞ்சப்படுகிறது.
+
+ஹெலிகாப்டரில் ஈரானிய அதிபர் இப்ராஹிம் ரைசி, அந்நாட்டின் வெளியுறவு அமைச்சர் ஹொசைன் அமிரப்துல்லாஹியன், ஈரானின் கிழக்கு அஜர்பைஜான் மாகாண ஆளுநர் மற்றும் பிற அதிகாரிகள் மற்றும் பாதுகாவலர்கள் இருந்ததாக அரசு தெரிவித்துள்ளது.  R
+
+◼️
+
+[Data](articles/02bb9faf.json)
 
 ---
 
@@ -481,6 +503,8 @@ Gurudev and his devotees were welcomed at Bangalore International Airport onboar
 ...
 
 [Data](articles/56034f53.json)
+
+[Extended Data](ext_articles/56034f53.ext.json)
 
 ---
 
@@ -2143,23 +2167,5 @@ The Colombo Fire Brigade said 4 fireworks were sent to the site.
 [Data](articles/87a515d2.json)
 
 [Extended Data](ext_articles/87a515d2.ext.json)
-
----
-
-### True, the benefit of the affected parties through the Reconciliation Commission - Dr.
-
-*2024-05-19 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/183953) · `ta`
-
-Dr. Kannavasa Gunavansa, Director of Truth and Reconciliation, suggests that establishing a truth, unity, and reconciliation commission in Parliament could empower affected parties through an independent commission, enabling them to take action.
-
-🟩
-
-The Director of Truth and Reconciliation, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Kannavasa Gunavansa has stated that if the proposed truth, unity and reconciliation commission is established in Parliament and the Independent Commission is established under it, the action will be carried out by the affected parties.
-
-◼️
-
-[Data](articles/e9743fe2.json)
-
-[Extended Data](ext_articles/e9743fe2.ext.json)
 
 ---

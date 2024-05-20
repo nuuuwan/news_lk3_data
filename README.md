@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 09:33:50**
+As of **2024-05-20 09:53:08**
 
 ## Newspaper Stats
 
-*Scraped **25,112** Articles*
+*Scraped **25,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 225
 bbccomsinhala | 254
 dbsjeyarajcom | 257
 newsfirstlk | 363
-islandlk | 1,361
+islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,148
-adaderanalk | 2,904
+adaderanalk | 2,905
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
 dailymirrorlk | 3,943
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,109 (100.0%) of 25,112 articles have been extended.
+25,112 (100.0%) of 25,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Prison officers launch ‘sick leave’ trade union action
+
+*2024-05-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99328/prison-officers-launch-sick-leave-trade-union-action) · `en`
+
+The All-Ceylon Prison Officers’ Union has decided to engage in trade union action by reporting ‘sick leave’ from today (20) until May 22, demanding an increase in wages.
+
+It is reported that the trade union action has been launched demanding an increase in wages by Rs. 25,000.
+
+Meanwhile, the trade union action initiated by the university non-academic staff further continues.
+
+The General Secretary of the Peradeniya University’s Trade Union Federation, T. A. D. Suranjeeva said that the entire university system has been affected due to this.
+
+◼️
+
+[Data](articles/cb136488.json)
+
+---
 
 ### Iranian President Raisi feared dead as helicopter wreckage found
 
@@ -39,6 +57,8 @@ Extensions include translations and NER (Named Entity Recognition).
 (Reuters) - Hopes are fading that Iranian President Ebrahim Raisi and his foreign minister have survived a helicopter crash in mountainous terrain and icy weather, an Iranian official said on Monday after search teams located the wreckage.
 
 “President Raisi’s helicopter was completely burned in the crash ... unfortunately, all passengers are feared dead,” the official told Reuters.
+
+Iranian state media outlets also reported that “no survivors” were found at the crash site of the downed helicopter.
 
 Rescue teams fought blizzards and difficult terrain through the night to reach the wreckage in East Azerbaijan province in the early hours of Monday.
 
@@ -98,25 +118,31 @@ Also, motorists are advised to be vigilant when using the roads close to these r
 
 ---
 
-### කෝටි දෙකක බීඩි කොළ තොගයක් සමග ලොරියක් පැහැර ගත් පොලිස් සැරයන්,කොස්තාපල් සමග තුනක් අල්ලයි
+### Police sergeant who abducted a lorry with a stock of beady leaves and three suspects arrested with constable
 
 *2024-05-20 08:39:50* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙකක-බීඩි-කොළ-තොගයක්-සමග-ලොරියක්-පැහැර-ගත්-පොලිස්-සැරයන්-කොස්තාපල්-සමග-තුනක්-අල්ලයි/11-409729) · `si`
 
-පුත්තලම නගරයෙ දී රුපියල් කෝටි දෙකකට අධික බිඩි කොල තොගයක් සමග ලොරි රථයක් පැහැර ගැනිමේ සිද්ධියකට සම්බන්ධ පොලිස් සැරයන්වරයකු හා කොස්තාපල්වරයකු සමග තවත් තිදෙනෙකු අත්අඩංගුවට ගැනීමට පුත්තලම මුලස්ථාන පොලිසිය 19 දින රාත්‍රියේ සමත් වි තිබේ.
+A police sergeant and constable from the Vehicle Transport Division were among three arrested for abducting a lorry carrying a valuable cargo. The incident, under investigation, involves the alleged abduction and attack on the driver, with the stolen goods later found near a reservoir.
 
-මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ පුත්තලම කොඨඨාශ රථවාහන අංශයෙ පොලිස් සැරයන්වරයකු හා පොලිස් කොස්තාපල්වරයෙක් ඇතුළු පිරිසකි.
+🟩
 
-මෙම සිද්දියට තවත් පොලිස් නිළධාරීයකු අත් අඩංගුවට ගැනිමට පරික්ෂණ අරඹා තිබේ.
+The Mahaltota Police have arrested three other to the arrest of Rs.
 
-අදාල බිඩි කොල ලොරිය හා රියදුරු පැහැර ගැනිම 18 දින අලුයම් කාලයෙ සිදුව ඇතිබව පොලිස් පරික්ෂන වලදි හෙළිව ඇත.
+The arrested is a police sergeant and a police constable of the Vehicle Transport Division.
 
-කොල්ල කරුවන් වෑන් රථයකින් පැමින පලමුව බිඩි කොළ රැගෙන ආ ලොරි රථයෙ රියදුරාව පැහැර ගෙන ගොස් පහර දී ඔහු සතුව තිබු මුදල් හා ජංගම දුරකථන කොල්ලකා  ගෙන රියදුරුව නින්දෙනිය ප්‍රදේශයෙ දමා ගොස් තිබු බව කියයි.
+Another incident has begun investigating another police officer.
 
-පසුව මෙම කොල්ලකරුවන් වෑන් රථයෙන්ම පුත්තලමට ගොස් කොඨඨාශ රථවාහන අංශ නිළධාරීන් දෙදෙනා සමග නැවත බිඩි කොළ අසුරා තිබු ලොරි රථය අසලට පැමින පොලිස් ආරක්ෂාව යටතේ මෙම ලොරිය පැහැර ගැනිම සිදුකර ඇති බව මේ වන විට තහවුරු වී ඇති බව පරික්ෂණ පවත්වන පොලිස් කණ්ඩායම් පවසයි.
+Police Inspections have revealed that the relevant bioprote lorry and the driver abduction of the driver had taken place in 18 days.
+
+The lorfaries who had brought in a van and claimed that the driver of the lorry had been abducted and attacked and the driver he had and burdened the driver.
+
+The lorry has been confirmed that the lorry has been abducted by the police protection against the lorry that had come to the lorry that had come to the lorry that had been taken back with the lorries that had been taken back with the lorries that were taken back with the lorries that were taken back with the lorries that had been taken back to the lorry that had been taken back to the lorry he had again with the two Veterans Lari.
 
 ...
 
 [Data](articles/b5b697b4.json)
+
+[Extended Data](ext_articles/b5b697b4.ext.json)
 
 ---
 
@@ -441,6 +467,20 @@ The training programs are designed to provide staff members of leading banks and
 [Data](articles/0d59c07b.json)
 
 [Extended Data](ext_articles/0d59c07b.ext.json)
+
+---
+
+### Gurudev Sri Sri Ravi Shankar and 160 devotees fly SriLankan Airlines for their Sri Lanka visit
+
+*2024-05-20 04:27:00* · [`islandlk`](http://island.lk/gurudev-sri-sri-ravi-shankar-and-160-devotees-fly-srilankan-airlines-for-their-sri-lanka-visit/) · `en`
+
+SriLankan Airlines was privileged to be selected by the spiritual leader and founder of the Art of Living Foundation, Gurudev Sri Sri Ravi Shankar, accompanied by 160 of his devotees, for their recent visit to Sri Lanka. The Art of Living, one of the world’s largest volunteer-driven non-profit organizations, has been actively working in Sri Lanka to create a stress-free, violence-free, healthier and happier society.
+
+Gurudev and his devotees were welcomed at Bangalore International Airport onboard UL 172 by the airline’s Bangalore team on 18 May 2024. SriLankan ensured that their journey was comfortable and seamless, catering to their specific dietary preferences with all vegetarian meals while providing the highest care and attention throughout their travel. The entire trip is being managed by Art of Living’s in-house travel agency, Sumeru Travels.
+
+...
+
+[Data](articles/56034f53.json)
 
 ---
 
@@ -964,23 +1004,33 @@ The demise of travel industry veteran Prema Cooray which made front page news la
 
 ---
 
-### ප්‍රගීත් එක්නැලිගොඩ: නඩු විභාගයට තුන්වන වරටත් නව විනිසුරු මඩුල්ලක් පත් කෙරුණේ ඇයි?
+### Prageeth Eknaligoda: Why was a new judge for the third time for the third time?
 
 *2024-05-20 02:05:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c844lwvzy0ro) · `si`
 
-ප්‍රගීත් එක්නැලිගොඩ: නඩු විභාගයට තුන්වන වරටත් නව විනිසුරු මඩුල්ලක් පත් කෙරුණේ ඇයි?
+A new judge was appointed for the third time in a high-profile case involving the abduction and disappearance of nine soldiers. The case, which includes charges related to the disappearance and alleged murder of journalist Prageeth Eknaligoda, has seen several changes in its judicial panel. This includes the appointment of judges Mahean Weeraman, Sujeewa Nissanka, and Namal Balalla, among others. The case, initially called on May 17, has been postponed since June 28, awaiting further proceedings.
 
-ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ වරින් වර ඇතිවූ පුරප්පාඩු හේතුවෙන් කල් යමින් පැවැති මාධ්‍යවේදී ප්‍රගීත් එක්නැලිගොඩ පැහැරගෙන ගොස් අතුරුදන් කිරීමේ සිද්ධියට අදාළව යුද හමුදා බුද්ධි අංශ සාමාජිකයින් 9 දෙනෙකුට එරෙහිව ගොනුකර ඇති නඩුව විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් නව ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරනු ලැබ තිබේ.
+🟩
 
-ඒ අනුව අදාළ නඩුව විභාග කරනුයේ නාමල් බලල්ලේ, මහේන් වීරමන්  සහ සුජීව නිශ්ශංක යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල විසිනි.
+Prageeth Eknaligoda: Why was a new judge for the third time for the third time?
+
+The Chief Justice has been named by the Chief Justice of a three-member High Court to hear the case against nine soldiers who had been abducted and disappeared due to a three-member High Court.
+
+The case will be heard by the three-judge of the three-member High Court, Mahean Weeraman and Sujeewa Nissanka and Sujeewa in Namal Balalla.
 
 එම විනිසුරු මඩුල්ල ඉදිරියේ අදාළ නඩුව පසුගිය මැයි 17 වැනිදා කැඳවන ලද අතර නඩුව  ජුනි මස 28 වැනිදා සිට යළි විභාගයට ගැනීමටත්  ත්‍රිපුද්ගල විනිසුරු මඩුල්ල නියෝග කළේය.
 
-මෙම නඩුව විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් මුලින්ම සම්පත් අබේකෝන්, සම්පත් විජේරත්න සහ ගිහාන් කුලතුංග යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරන ලදී.
+The Chief Justice was named by the Chief Justice to hear the case.
+
+The judge of the Court of Abeykoon and Sampath Wijeyratne, along with the commencement of the case, the Memberhip Judge Gihan Kulatunga was present from time to time.
+
+Accordingly, the Chief Justice was named the Chief Justice of the Chief Justice by the Chief Justice to the case.
 
 ...
 
 [Data](articles/04dfe114.json)
+
+[Extended Data](ext_articles/04dfe114.ext.json)
 
 ---
 
@@ -1289,6 +1339,8 @@ A Turkish drone has located a heat source in the Iranian mountains they believe 
 ...
 
 [Data](articles/238051a5.json)
+
+[Extended Data](ext_articles/238051a5.ext.json)
 
 ---
 
@@ -2109,37 +2161,5 @@ The Director of Truth and Reconciliation, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr
 [Data](articles/e9743fe2.json)
 
 [Extended Data](ext_articles/e9743fe2.ext.json)
-
----
-
-### Fire breaks out near Colombo Port
-
-*2024-05-19 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99318/fire-breaks-out-near-colombo-port) · `en`
-
-A fire has reportedly broken out in the living quarters of highway access road workers near the Colombo Port.
-
-The Colombo Fire Brigade said it has dispatched 04 fire trucks to assist in extinguishing the flames.
-
-◼️
-
-[Data](articles/79d1b229.json)
-
-[Extended Data](ext_articles/79d1b229.ext.json)
-
----
-
-### The unseen impact of learning disorders in Sri Lanka
-
-*2024-05-19 18:01:00* · [`islandlk`](http://island.lk/the-unseen-impact-of-learning-disorders-in-sri-lanka/) · `en`
-
-“If a child can’t learn the way we teach, maybe we should teach the way they learn.” Ignacio Estrada. This is a quote that is lost on the Sri Lankan education system but bamboo rods and beatings still remain as the number one tool to teach. Contrary to our cultural beliefs, this method is the least effective way to teach and it’s particularly detrimental when it comes to children with learning disorders.
-
-Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologist Rudolf Berlin. People with Dyslexia have difficulty reading due to problems identifying speech sounds and their relation to words and letters (University of Oxford , n.d.). Simply put, these are the children who struggle to read and write and saying “Idiot, open your eyes and read what’s on the page. For every spelling mistake, I will give you a beating with a ruler,” will not cure their dyslexia.
-
-...
-
-[Data](articles/b96fb76a.json)
-
-[Extended Data](ext_articles/b96fb76a.ext.json)
 
 ---

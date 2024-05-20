@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 10:52:25**
+As of **2024-05-20 11:04:26**
 
 ## Newspaper Stats
 
-*Scraped **25,126** Articles*
+*Scraped **25,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,80 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,149
+adalk | 2,150
 adaderanalk | 2,906
 tamilmirrorlk | 2,937
 virakesarilk | 3,791
 dailymirrorlk | 3,948
-adaderanasinhalalk | 4,014
+adaderanasinhalalk | 4,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,124 (100.0%) of 25,126 articles have been extended.
+25,126 (100.0%) of 25,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### கஞ்சை கொச்சைப்படுத்தி சுவரொட்டி
+### ඉරාන හිටපු ජනපති ඊබ්‍රහිම් රයිසි ගැන මේ කරුණු දැන සිටියාද ?
+
+*2024-05-20 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196811) · `si`
+
+ඉරානයේ හිටපු ජනාධිපති ඊබ්‍රහිම් රයිසි දැඩි මතධාරී පූජකයෙකි. ඔහු ඉරානයේ උත්තරීතර නායකයා ලෙස සැලකෙන අයතොල්ලා අලි ඛමෙනී ට ඉතා ලැදි පුද්ගලයෙක් වශයෙන් ප්‍රකට ය.
+
+රයිසි 2021 වසරේදී ඉරානයේ ජනාධිපතිවරයා ලෙස තේරී පත්වූ අතර එතැන් සිට ඉරානයේ සෑම ප්‍රදේශයක් ම දැඩි මතධාරීන්ගේ පාලනයට නතු කර ගත්තේය.
+
+ඔහු 63 හැවිරිදි ය. එසේම එරට අධිකරණයේ ප්‍රධානියා ලෙසද රයිසි කටයුතු කර තිබුණි.
+
+2021 වසරේ පැවති මැතිවරණයෙන් ඔහු විශිෂ්ට ජයක් වාර්තා කළේ එවක ජනපති ලෙස කටයුතු කළ හසන් රෞහානි ව අභිබවා යමිනි.
+
+නමුත් එම මැතිවරණය සර්ව සාධාරණ නොවූ බව පිළිගත් මතයකි. විශේෂයෙන් ම නිදහස් මතධාරී සහ ප්‍රතිසංස්කරණ සම්බන්ධයෙන් හඬ නැගූ අපේක්ෂකයින් ට එහිදී අවස්ථාවක් නොලැබුණු අතර බොහෝ ඡන්ද දායකයින් ඡන්දය ප්‍රකාශ කිරීමෙන් වැළකී සිටියේය.
+
+ඔහු ඉරානයේ බලය ලබාගන්නා විට එරට විවිධ ප්‍රශ්න වලට මුහුණදී සිටියේය. විශේෂයෙන්ම ආර්ථික ගැටලු, කලාපීය වශයෙන් එල්ලවූ තර්ජන මෙන්ම න්‍යෂ්ටික වැඩසටහන සම්බන්ධයෙන් වූ සාකච්ඡා බිඳ වැටී තිබීම ඒ අතරින් ප්‍රධානය.
+
+...
+
+[Data](articles/7b8b7797.json)
+
+---
+
+### Poster
 
 *2024-05-20 10:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கஞ்சை-கொச்சைப்படுத்தி-சுவரொட்டி/73-337551) · `ta`
 
-முள்ளிவாய்கால் கஞ்சி வழங்குவதை  கொச்சைப்படுத்தி  “ நீங்கள் இன்னமும் ஏமாந்து கொண்டிருக்கின்றீர்களா”? எனும் தலைப்பில் சுவரொட்டிகள் ஒட்டப்பட்டுள்ளது. கறுப்பு வௌ்ளையில் ஒட்டப்பட்டுள்ள அந்த சுவரொட்டிகளுக்கு ‘தமிழ் மக்கள் சுவர்’ உரிமை கோரியுள்ளது.
+Tamil community protests against deception regarding Mullivaikal events, asserting their right to display posters on public walls.
+
+🟩
+
+"Are you still deceiving Mullivaikal?"Posters have been pasted. The Tamil people have claimed the right to the wall for those posters pasted in black.
 
 ◼️
 
 [Data](articles/7f19581b.json)
+
+[Extended Data](ext_articles/7f19581b.ext.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-20 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196810) · `si`
+
+තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව බස්නාහිර, සබරගමුව, වයඹ පළාත් සහ ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+
+නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී 150ට වැඩි ඉතා තද වැසි ඇති විය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව රතු නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+සබරගමුව පළාතෙත් ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100ට වැඩි තද වැසි ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/eafd3533.json)
 
 ---
 
@@ -61,6 +109,8 @@ As a result, several potential extremist conflicts in Sri Lankan society were av
 ◼️
 
 [Data](articles/bf5b3cdb.json)
+
+[Extended Data](ext_articles/bf5b3cdb.ext.json)
 
 ---
 
@@ -251,6 +301,20 @@ The helicopter has Iranian Chancellor Ibrahim Raisi, Foreign Minister Hossein Am
 [Data](articles/02bb9faf.json)
 
 [Extended Data](ext_articles/02bb9faf.ext.json)
+
+---
+
+### කාලගුණයෙන් අනතුරු ඇඟවිමේ නිවේදනයක්
+
+*2024-05-20 08:59:04* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අනතුරු-ඇඟවිමේ-නිවේදනයක්/11-409730) · `si`
+
+තද වැසි පිළිබඳව අනතුරු ඇඟවිමේ නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් නිකුත් කර තිබේ.
+
+බස්නාහිර, සබරගමුව, වයඹ පළත් හා ගාල්ල, මාතර, මහනුවර, නුවරඒළිය හා මන්නාරම දිස්ත්‍රික්ක සඳහා අදාළ වන  පරිදි අද පෙරවරු 8.30ට නිකුත් කළ මෙම නිවේදනය අද දිනය පුරාවටම වලංගු වෙයි.
+
+◼️
+
+[Data](articles/af33725b.json)
 
 ---
 
@@ -1586,6 +1650,12 @@ The unnamed official said contact has been made on several occasions.
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-dies/155-282938) · `en`
 
+Iran's government convened an "urgent meeting" on Monday following the announcement that President Ebrahim Raisi and the country's foreign minister were among those who died in a helicopter crash, according to Iranian state news agency IRNA.
+
+The chair that Raisi usually sits in was vacant, and was draped with a black sash in memory of the president, according to a photo shared by state news.
+
+The timing and details of a mourning procession will be announced in the future, state media FARS News Agency reported.
+
 09.40 - Mehr News Agency says Raisi, Amirabdollahian killed in crash
 
 The semi-official news agency reports that the Iranian president, foreign minister and other occupants of the helicopter, including East Azerbaijan Province Governor Malek Rahmati, have been “martyred”.
@@ -1593,12 +1663,6 @@ The semi-official news agency reports that the Iranian president, foreign minist
 There is still no official confirmation that Raisi is dead, but medics have said that they found “no signs” of life at the crash site.
 
 09.26 - Rescue teams pictured during search for president's helicopter
-
-Rescuers with the Iranian Red Crescent Society are pictured at an unknown location as they search for the crash site of a helicopter carrying Iranian President Ebrahim Raisi.
-
-The aircraft was an American made Bell 212 helicopter and is believed to have crashed into a mountain in Iran as a result of bad weather as Mr Raisi returned from a meeting with the leader of Azerbaijan.
-
-Rescue teams fought blizzards and difficult terrain through the night to reach the wreckage in East Azerbaijan province in the early hours of Monday.
 
 ...
 
@@ -2127,59 +2191,5 @@ Four fire trucks have been dispatched to the scene, the Colombo Fire Department 
 [Data](articles/36ac5bef.json)
 
 [Extended Data](ext_articles/36ac5bef.ext.json)
-
----
-
-### Helicopter in Iranian president’s convoy in accident, says state TV
-
-*2024-05-19 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Helicopter-in-Iranian-presidents-convoy-in-accident-says-state-TV/108-282903) · `en`
-
-DUBAI, May 19 - Iran's state television reported that one of the helicopters in the convoy carrying President Ebrahim Raisi was involved in an accident. No further details were immediately provided about the nature of the incident or whether the president was aboard that particular helicopter. The convoy was traveling in northwestern Iran.
-
-There were 3 helicopters in this convoy, and two helicopters carrying some ministers and officials arrived safely at their destination, Iran's Tasnim's news agency said. The agency said that, the Iranian President, accompanied by his Azerbaijani counterpart inaugurated on Sunday a water dam on the border between the two countries. The incident happened after the end of the opening ceremony.
-
-...
-
-[Data](articles/179a398c.json)
-
-[Extended Data](ext_articles/179a398c.ext.json)
-
----
-
-### Helicopter in Iranian president’s convoy in accident, says state TV
-
-*2024-05-19 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Helicopter-in-Iranian-presidents-convoy-in-accident-says-state-TV/107-282903) · `en`
-
-DUBAI, May 19 - Iran's state television reported that one of the helicopters in the convoy carrying President Ebrahim Raisi was involved in an accident. No further details were immediately provided about the nature of the incident or whether the president was aboard that particular helicopter. The convoy was traveling in northwestern Iran.
-
-There were 3 helicopters in this convoy, and two helicopters carrying some ministers and officials arrived safely at their destination, Iran's Tasnim's news agency said. The agency said that, the Iranian President, accompanied by his Azerbaijani counterpart inaugurated on Sunday a water dam on the border between the two countries. The incident happened after the end of the opening ceremony.
-
-...
-
-[Data](articles/acbab1a1.json)
-
-[Extended Data](ext_articles/acbab1a1.ext.json)
-
----
-
-### India's prohibition prolonged - joy to racists
-
-*2024-05-19 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/183974) · `ta`
-
-India extends LTTE ban, impacting Tamil remembrance events in Sri Lanka. Prohibition praised by nationalists, criticized by human rights advocates.
-
-🟩
-
-The Tamil people, who are carrying the destruction and sorrow of the final war, are carrying out the event in the North and East Tamil areas as part of the Mullivaikkal Memorial event.. The government has embarked on a number of ways and has taken steps to threaten and arrest women involved in the event.
-
-In some areas, police are responsible for the court ban on the exchanging of porridge, and are also banned from commemorating the disappearance of the dead in the final war.Whenever Mullivaikkal commemorates every year after 2009, it is customary for the Tamil people in the North and East.
-
-In 2016, the Sri Lanka Human Rights Commission made recommendations to the then government to ensure the rights of commemoration.. The police, who have ignored these common recommendations, are giving many crises, letting these events of the events of court prohibitions and peaceful events.
-
-...
-
-[Data](articles/b053a1c2.json)
-
-[Extended Data](ext_articles/b053a1c2.ext.json)
 
 ---

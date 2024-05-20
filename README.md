@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 02:33:43**
+As of **2024-05-21 02:50:59**
 
 ## Newspaper Stats
 
-*Scraped **25,297** Articles*
+*Scraped **25,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,490
+dailyftlk | 1,493
 adalk | 2,169
 adaderanalk | 2,925
 tamilmirrorlk | 2,955
@@ -26,11 +26,57 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,297 (100.0%) of 25,297 articles have been extended.
+25,297 (100.0%) of 25,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Mahinda Rajapaksa responsible for bankruptcy of SriLankan Airlines
+
+*2024-05-21 02:33:31* · [`dailyftlk`](https://www.ft.lk/opinion/Mahinda-Rajapaksa-responsible-for-bankruptcy-of-SriLankan-Airlines/14-762047) · `en`
+
+Mr Editor, please give me a little space in your esteemed newspaper to enlighten a man who deliberately misled the readers by covering up the many vain deeds of Mahinda Rajapaksa (https://www.ft.lk/columns/Restructure-SriLankan-Airlines-but-no-mandate-for-sale/4-761891).
+
+One of the most unpardonable deeds was to destroy a profit-making SriLankan Airline with a track record of accident-free flying. True it was CBK who successfully negotiated and brought in Emirates as a partner. The airline was running profitably with a foreign national as its head when MR assumed office as President.
+
+...
+
+[Data](articles/990d767f.json)
+
+---
+
+### One more in the long line of rejections
+
+*2024-05-21 02:31:32* · [`dailyftlk`](https://www.ft.lk/opinion/One-more-in-the-long-line-of-rejections/14-762046) · `en`
+
+The Sunday Times on 19 May carried the Foreign Ministry’s reactions on the OHCHR report on ‘enforced disappearances’ in Sri Lanka (https://www.sundaytimes.lk/240519/news/lanka-strongly-rejects-un-report-questions-its-mandate-and-timing-557860.html). It says Sri Lanka is rejecting the report.
+
+This may be one more in the long line of rejections since the days of Gotabaya Presidency.
+
+Interestingly, questions have been raised about the authority or mandate of the High Commissioner to issue such a report. But in their heady rush to reject the report, they may not have consulted important resolutions including the UNGA resolution establishing the post of High Commissioner.
+
+These resolutions particularly stress the importance of the role of the High Commissioner as the voice of humanity on gross or grave violations of human rights and fundamental freedoms. Nevertheless, how the High Commissioner should express that voice and what format or method should be followed is left open.
+
+...
+
+[Data](articles/5673b354.json)
+
+---
+
+### Integrating entrepreneurship in education: An imperative for the change we want
+
+*2024-05-21 02:25:40* · [`dailyftlk`](https://www.ft.lk/columns/Integrating-entrepreneurship-in-education-An-imperative-for-the-change-we-want/4-762045) · `en`
+
+To build an entrepreneurial culture, it is necessary to fundamentally alter traditional strategies and teaching methods in such a way that learning takes on new meaning
+
+“The people who are crazy enough to think they can change the world are the ones who do,” said Steve Jobs, an American entrepreneur, best known as the co-founder of Apple. His passion for innovative ideas and thoughts led Apple Inc., to become the most valuable technology company setting the world a good example of how a creative mind can change the world. Like Steve Jobs, entrepreneurs are assets to any society as they have the potential to spread their wings over the globe to take a country to a wealthy destination where the community can enjoy the comfort they need.
+
+...
+
+[Data](articles/da0296d2.json)
+
+---
 
 ### ICC prosecutor seeks arrest of Israeli PM Netanyahu and Hamas leader
 
@@ -2185,77 +2231,5 @@ A spokesperson of the Customs Daily Administration department stated that two ki
 [Data](articles/6f04099c.json)
 
 [Extended Data](ext_articles/6f04099c.ext.json)
-
----
-
-### CID arrests man who helped send 120 Sri Lankans to Russia on tourist visas
-
-*2024-05-20 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99335/cid-arrests-man-who-helped-send-120-sri-lankans-to-russia-on-tourist-visas) · `en`
-
-The Criminal Investigation Department (CID) has arrested an individual in Dehiwala for allegedly assisting in sending 120 persons to Russia on tourist visas, according to police.
-
-He has been arrested by officers of the Human Trafficking, Smuggling, and Maritimes Crimes Investigation Division of the CID.
-
-Investigations have revealed that the arrested suspect has allegedly aided and abetted the sending of individuals to Russia on tourist visas, by targeting individuals while in front of the Russian Embassy in Colombo.
-
-Police say that the suspect is currently being interrogated and will be produced before court tomorrow (21).
-
-Further investigations will be conducted under the supervision of the Director of Human Trafficking and Maritime Crime Investigation Division, Senior Superintendent of Police (SSP) Samarakoon Banda, and under the guidance of Senior DIG of CID Rohan Premaratne.
-
-◼️
-
-[Data](articles/14e2e010.json)
-
-[Extended Data](ext_articles/14e2e010.ext.json)
-
----
-
-### Suspect arrested for people to Russia
-
-*2024-05-20 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196820) · `si`
-
-A man in Dehiwala was arrested for allegedly facilitating around 120 individuals' travel to Russia on tourist visas, supporting opposition against the Russian ban. The arrest was made by the Criminal Investigation Department's "Person Trade and Marine Criminal Investigation Division." Further inquiries are ongoing, with the suspect set to appear in court tomorrow.
-
-🟩
-
-A man was arrested in Dehiwala area about 120 people on the tourist visa.
-
-The suspect was arrested by the Criminal Investigation Department "Person Trade and Marine Criminal Investigation Division".
-
-Investigations have revealed that the suspect has supported people from opposing the Russian banquake to Russia on tourist visa.
-
-The suspect is currently being questioned and will be produced before the court tomorrow.
-
-On the instructions of Senior DIG of the Criminal Investigation Department, further investigations are conducted under the supervision of SSP Samarakoon Banda.
-
-◼️
-
-[Data](articles/ec2b9d9b.json)
-
-[Extended Data](ext_articles/ec2b9d9b.ext.json)
-
----
-
-### President Ranil and other world leaders extend condolences over death of Iranian President Raisi
-
-*2024-05-20 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99334/president-ranil-and-other-world-leaders-extend-condolences-over-death-of-iranian-president-raisi) · `en`
-
-President Ranil Wickremesinghe on Monday expressed condolences following the demise of Iranian President Dr. Seyyed Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian.
-
-Sri Lanka is deeply shocked and saddened by the tragic death of President Ebrahim Raisi, Foreign Minister Amir-Abdollahian and other senior Iranian officials, said the Sri Lankan head of State, who is currently on a visit to Indonesia.
-
-“I express my deepest sympathies and sincere condolences to the bereaved families, the government and the people of Iran.”
-
-“Our thoughts and prayers are with the families of President Raisi and his entourage,” he said, in a post on ‘X’ (formerly Twitter).
-
-Accompanied by Foreign Minister Amir-Abdollahian, Raisi had engaged in a short visit to the island nation just last month, the first by an Iranian president in 16 years.
-
-The two countries had signed five pacts during the visit, only the second since one in April 2008 by Iran’s then president, Mahmoud Ahmadinejad.
-
-...
-
-[Data](articles/872bb3c0.json)
-
-[Extended Data](ext_articles/872bb3c0.ext.json)
 
 ---

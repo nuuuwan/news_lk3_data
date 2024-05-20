@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 17:34:08**
+As of **2024-05-20 17:54:39**
 
 ## Newspaper Stats
 
-*Scraped **25,222** Articles*
+*Scraped **25,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,56 @@ economynextcom | 1,446
 dailyftlk | 1,480
 adalk | 2,160
 adaderanalk | 2,920
-tamilmirrorlk | 2,949
+tamilmirrorlk | 2,950
 virakesarilk | 3,807
-dailymirrorlk | 3,959
+dailymirrorlk | 3,963
 adaderanasinhalalk | 4,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,221 (100.0%) of 25,222 articles have been extended.
+25,222 (100.0%) of 25,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### විවාදය ට සජිත් දුන් දිනයකට අනුර එකඟ වෙයි
+### ஐ .எஸ். ஐ .எஸ் சேர்ந்த இலங்கையர் நால்வர் இந்தியாவில்  கைது
+
+*2024-05-20 17:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எஸ்-ஐ-எஸ்-சேர்ந்த-இலங்கையர்-நால்வர்-இந்தியாவில்-கைது/175-337600) · `ta`
+
+இலங்கையைச் சேர்ந்த நால்வரை குஜராத் தீவிரவாத தடுப்புப் பிரிவு, இந்தியாவில் அகமதாபாத்திலுள்ள சர்தார் வல்லபாய் படேல் சர்வதேச விமான நிலையத்தில் வைத்து கைதுசெய்துள்ளது.
+
+ஐ.எஸ்.ஐ.எஸ். பயங்கரவாதிகள் என்ற சந்தேகத்தில் குறித்த நால்வரையும் கைது செய்துள்ள  குஜராத் தீவிரவாத தடுப்புப் பிரிவு.   தீவிர விசாரணைக்காக சந்தேக நபர்களை அழைத்துச் சென்றுள்ளது.
+
+அகமதாபாத் விமான நிலையத்திற்கு சந்தேக நபர்கள் நால்வரும் ஏன் வந்தார்கள் என்பதற்கான துல்லியமான காரணம் இதுவரை தெளிவாக தெரியவில்லை. இதனால் அந்த விமான நிலையம் முழுவதும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+
+இந்தியாவில் ஐ.பி. எல் போட்டிகள் இடம்பெறுவதால் தகுதிச் சுற்று மற்றும் எலிமினேட்டர் ஆட்டங்களுக்காக மூன்று அணிகள், அகமதாபாத் விமான நிலையத்திற்கு வருவதற்கு சிறிது நேரத்திற்கு முன்னதாக குறித்த நால்வரும் கைதுசெய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c002b265.json)
+
+---
+
+### Anura agree on a day of Sajith gave the debate
 
 *2024-05-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196830) · `si`
 
-ජාතික ජන බලවේගය වෙනුවෙන් එහි විධායක සභික නලින්ද ජයතිස්ස මහතා මාධ්‍ය වෙත ප්‍රකාශයක් නිකුත් කරමින් සජිත් ප්‍රේමදාස මහතා සමග විවාදය සඳහා ලබාදුන් දිනවලින් ජුනි 6 දිනය අනුර කුමාර දිසානායක මහතා භාරගත් බවට ප්‍රකාශ කළේය.
+On June 6th, Executive MP Nalinda Jayatissa announced a future debate's details, including its location and timing, as agreed upon by Anura and Sajith.
 
-ඒ අනුව සමගි ජන බලවේගය විවාදයේ කටයුතු සූදානම් කිරීම සඳහා පත් කළ නලින් බණ්ඩාර මහතා සමඟ ස්ථානය, වේලාව, විවාදයේ විෂය පථය ඉදිරියේදී සාකච්ඡා කර තීරණය කරන බව නලින්ද ජයතිස්ස මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+🟩
+
+June 6, June 6, declared that the executive MP Nalinda Jayatissa has issued a statement to the national folk force.
+
+Accordingly, Nalinda Jayatissa further stated that the sphere of the place, time and debate is to be held in the future.
 
 ◼️
 
 [Data](articles/157613b3.json)
+
+[Extended Data](ext_articles/157613b3.ext.json)
 
 ---
 
@@ -114,6 +138,26 @@ The funeral will be held in Tebrice tomorrow.
 
 ---
 
+### Pakistani woman nabbed with heroin worth over Rs. 70 mn at BIA
+
+*2024-05-20 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistani-woman-nabbed-with-heroin-worth-over-Rs-70-mn-at-BIA/108-282980) · `en`
+
+Katunayaka, May 20 (Daily Mirror) - A Pakistani woman who arrived from Abu Dhabi this morning was arrested by the Customs Narcotic Control Unit at the Katunayake International Airport (BIA) while attempting to smuggle into the country a stock of 02.450 kilograms of heroin.
+
+The 57-year-old woman had arrived in the country under the pretext of a tourist.
+
+Investigations revealed that the market value of the stock of heroin is estimated to be more than Rs. 73.5 million.
+
+A spokesman for the Customs said that the stock of heroin had been hidden in a false bottom of the woman’s bag.
+
+She was handed over to the Police Narcotic Bureau officials in the airport for further action.
+
+◼️
+
+[Data](articles/634de3a2.json)
+
+---
+
 ### தபால் தலை வெளியிடப்பட்டது...
 
 *2024-05-20 16:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-தலை-வெளியிடப்பட்டது/175-337586) · `ta`
@@ -133,6 +177,22 @@ The funeral will be held in Tebrice tomorrow.
 [Data](articles/299c2e89.json)
 
 [Extended Data](ext_articles/299c2e89.ext.json)
+
+---
+
+### Court prevents Wijedasa functioning as SLFP Chairman
+
+*2024-05-20 16:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-Wijedasa-functioning-as-SLFP-Chairman/108-282978) · `en`
+
+Colombo, May 20 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing Minister Wijeyadasa Rajapakshe PC and Attorney-at-Law Keerthi Udawatta from functioning as Sri Lanka Freedom Party (SLFP) Chairman and party Acting General Secretary respectively.
+
+Colombo District Court Judge Sandun Vithana made this order pursuant to a plaint filed by Sri Lanka Freedom Party (SLFP) parliamentarian Duminda Dissanayake.
+
+Chandaka Jayasundara PC with Counsel Amila E. Dissanayake appeared for the plaintiff and Romesh De Silva PC appeared for Minister Wijeyadasa Rajapakshe, while Kuvera de Zoysa PC appeared for Keerthi Udawatta. Shaheed Barrie appeared for Nimal Siripala de Silva and Pulasthi Rupasinghe appeared for Mahinda Amaraweera.
+
+◼️
+
+[Data](articles/8d6eed3d.json)
 
 ---
 
@@ -2229,71 +2289,5 @@ Raisi, 63, was elected president in 2021, and since taking office has ordered a 
 [Data](articles/30cf7d36.json)
 
 [Extended Data](ext_articles/30cf7d36.ext.json)
-
----
-
-### Iranian President Rico's death in helicopter crash?
-
-*2024-05-20 09:03:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெலிகாப்டர்-விபத்தில்-சிக்கிய-ஈரான்-அதிபர்-ரைசி-மரணம்/50-337546) · `ta`
-
-Ibrahim Raisi, the Iranian president, reportedly perished in a helicopter crash during the Israeli conflict, with all aboard presumed dead. The incident occurred amidst heightened tensions, with no survivors found.
-
-🟩
-
-The Al Jazeera and BBC media have reported that Ibrahim Raisi is feared that helicopter has died in a helicopter crash.
-
-The Iranian government sources said that no one survived in yesterday's helicopter crash.
-
-The helicopter who traveled by Ibrahim Raisi, who was traveling in the midst of the Israeli war, would not have an accident yesterday.
-
-The Red Cross has said that the Red Cross has claimed that the helicopter has no indication that there is no indication of the alive of the accident in the area where the drone was allegedly allegedly reported.
-
-The helicopter has Iranian Chancellor Ibrahim Raisi, Foreign Minister Hossein Amirpdullahian, Governor of Iran's East Azerbaijan Province and other officials and guardians of Iran.R
-
-◼️
-
-[Data](articles/02bb9faf.json)
-
-[Extended Data](ext_articles/02bb9faf.ext.json)
-
----
-
-### A warning announcement from the weather
-
-*2024-05-20 08:59:04* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අනතුරු-ඇඟවිමේ-නිවේදනයක්/11-409730) · `si`
-
-Heavy rains warning issued by the Department of Meteorology for Western, Sabaragamuwa, Wayamba, Galle, Matara, Kandy, Nuwara Eliya, and Mannar districts today.
-
-🟩
-
-The Department of Meteorology has issued a warning notification on heavy rains.
-
-The announcement was issued in the Western, Sabaragamuwa, Wayamba and Galle, Matara, Kandy, Nuwara Eliya and Mannar districts today.
-
-◼️
-
-[Data](articles/af33725b.json)
-
-[Extended Data](ext_articles/af33725b.ext.json)
-
----
-
-### Total of 10,299 people affected, two injured due to rain, drought
-
-*2024-05-20 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-10-299-people-affected-two-injured-due-to-rain-drought/108-282944) · `en`
-
-Colombo, May 20 (Daily Mirror) - A total of 10,299 people from 3,518 families have been affected, while two have been injured due to the prevailing weather conditions, Disaster Management Centre Deputy Director Thusitha Waidyarathne said.
-
-He said the two injured people were reported from the East Nuwaragampalatha division of the Anuradhapura district, due to heavy rains and fallen trees.
-
-Three houses were partially damaged due to fallen trees and high winds in Nivithigala, Godakawela and Balangoda in the Ratnapura district, he said.
-
-Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Killinochchi have been affected by the drought, Waidyarathne said.
-
-◼️
-
-[Data](articles/1ebd55bb.json)
-
-[Extended Data](ext_articles/1ebd55bb.ext.json)
 
 ---

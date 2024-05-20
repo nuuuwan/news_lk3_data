@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 17:03:43**
+As of **2024-05-20 17:18:41**
 
 ## Newspaper Stats
 
-*Scraped **25,216** Articles*
+*Scraped **25,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
-adalk | 2,159
-adaderanalk | 2,919
-tamilmirrorlk | 2,948
+adalk | 2,160
+adaderanalk | 2,920
+tamilmirrorlk | 2,949
 virakesarilk | 3,807
 dailymirrorlk | 3,959
-adaderanasinhalalk | 4,032
+adaderanasinhalalk | 4,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,215 (100.0%) of 25,216 articles have been extended.
+25,216 (100.0%) of 25,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Schools in Puttalam District to remain closed tomorrow
+
+*2024-05-20 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99342/schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
+
+All schools in the Puttalam District will be closed tomorrow (May 21) as well due to the continuing adverse weather conditions, the Education Director of the North-Western Province said.
+
+◼️
+
+[Data](articles/33af8007.json)
+
+---
+
+### පුත්තලමේ පාසල් සඳහා හෙටත් නිවාඩු
+
+*2024-05-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196829) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුත්තලම දිස්ත්‍රික්කයේ සියලුම පාසල් හෙට (21) දිනයේදීත් වසා තැබීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/2ac2fc29.json)
+
+---
+
+### ඉරාන ජනපති ගමන්කළ යානය කඩාවැටුණු ස්ථානයේ නවතම ඡායාරූප
+
+*2024-05-20 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196828) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ මරණය හේතුවෙන් ඉරාන අධ්‍යාත්මික නායක අයතොල්ලා අල් කමෙනි විසින් එරට දින 5ක ශෝක කාලයක් ප්‍රකාශයට පත්කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඊයේ (19) සිදුවූ හෙළිකොප්ටර් යානා අනතුරින් රයිසි ජනාධිපතිවරයාට අමතරව එහි ගමන් කළ ඉරාන විදෙස් කටයුතු ඇමති හුසේන් අමීර් අබ්දෙල්ලහා ද මියගොස් තිබුණි.
+
+අනතුරට පත් හෙළිකොප්ටර් යානය තුළ අසර්බයිජානයේ සිට ආපසු පැමිණෙමින් සිටි ජනාධිපතිවරයා, ඇතුළු පුද්ගලයින් 9 දෙනෙකු ගමන් කර තිබිණි.
+
+කලාපයේ පැවැති අපැහැදිලි කාලගුණය හේතුවෙන් යානය මෙලෙස අනතුරට පත්වූ බව වාර්තා වේ.
+
+63 හැවිරිදි වියේ පසුවූ රයිසි එරට මීළඟ අධ්‍යාත්මික නායකයා වෙතැයි අපේක්ෂා කෙරිණි.
+
+ඉරාන රතු අඩසඳ ආයතනය අද නිවේදනය කළේ අනතුරින් මියගිය ජනපතිවරයාගේ සහ අනෙක් පුද්ගලයින්ගේ සිරුරු සොයාගත් බවයි. ඒ අනුව අදාළ මෙහෙයුම් කටයුතු නවතා දැමිණි.
+
+ජීවිතක්ෂයට පත්වූ ජනාධිපතිවරයා ගේ අවසන් කටයුතු හෙට (21) ටෙබ්‍රිස් ප්‍රදේශයේදී සිදුකිරීමට නියමිතය.
+
+මේ අතර සහන කණ්ඩායම බේරාගැනීමේ සහ සිරුරු ගෙන ඒමට අදාළ ඡායාරූප රොයිටර්ස් පුවත් සේවය විසින් නිකුත් කර තිබුණි.
+
+◼️
+
+[Data](articles/3b52e25d.json)
+
+---
+
+### தபால் தலை வெளியிடப்பட்டது...
+
+*2024-05-20 16:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-தலை-வெளியிடப்பட்டது/175-337586) · `ta`
+
+இந்திய வம்சாவளியினரின் 200 ஆண்டுகால வரலாற்றுப் பின்னணியை வெளிப்படுத்தும் வகையில் தபால் தலை வெளியிடப்பட்டது.
+
+கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமானின் தலைமையில் இந்நிகழ்வு கொழும்பிலுள்ள தாஜ்சமுத்திரா ஹோட்டலில் ஞாயிற்றுக்கிழமை (19)   இடம்பெற்றது.
+
+வெளியிடப்பட்ட தபால் தலை ஸ்ரீ ஸ்ரீ ரவிசங்கர், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஆகியோருக்கு வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/299c2e89.json)
+
+---
 
 ### Keheliya and seven others further remanded
 
@@ -40,7 +106,15 @@ Former Health Minister Keheliya Rambukwella and seven others have been further r
 
 They are facing charges related to the import of substandard human immunoglobulin vials.
 
-◼️
+This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (20).
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
+
+...
 
 [Data](articles/c30ae02c.json)
 
@@ -88,17 +162,23 @@ The Criminal Investigation Department (CID) has reportedly reported missing from
 
 ---
 
-### කෙහෙළිය නැවතත් රිමාන්ඩ්
+### Keheliya remanded again
 
 *2024-05-20 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196826) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 8 දෙනෙක් ජුනි මස 03 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබේ.
+Keheliya Rambukwella, former Health Minister, and eight others face charges related to a pharmaceutical incident, remanded till June 3rd.
 
-ඒ ප්‍රශ්නගත ඉමියුනෝග්ලොබියුලීන් ඖෂධ සිද්ධිය සම්බන්ධයෙන් එම සැකකරුවන් අද (20) මාළිගාකන්ද අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී ය.
+🟩
+
+Former Minister of Health, Keheliya Rambukwella and eight suspects have been remanded again until June 3.
+
+The suspects were produced before the Maligakanda Courts today regarding the pharmaceutical incident.
 
 ◼️
 
 [Data](articles/0c17a12f.json)
+
+[Extended Data](ext_articles/0c17a12f.ext.json)
 
 ---
 
@@ -134,7 +214,13 @@ It is designed for high-efficient engine operation, accelerated acceleration, sm
 
 The Colombo District Court has issued an interim order preventing Justice Minister Wijeyadasa Rajapakshe from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) and Keerthi Udawatta as Acting General Secretary of the party.
 
-◼️
+This order was issued today by Colombo District Judge Sandun Withana after considering a plaint submitted by Member of Parliament Duminda Dissanayake.
+
+On May 16, the Colombo District Court had rejected the petition filed by Dissanayake seeking an interim injunction preventing Minister Rajapakshe from functioning as the Chairman and Udawatta as Acting General Secretary of the SLFP.
+
+Accordingly, the Colombo District Court refused to issue an injunction restraining the party, its organizations and officials from acting on the decision taken to appoint Minister Wijayadasa Rajapakshe as the Chairman and Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the SLFP.
+
+...
 
 [Data](articles/8e63e21c.json)
 
@@ -1156,6 +1242,24 @@ She later joined her neighbors and relatives in a three-wheeler hospital with a 
 
 ---
 
+### වැස්ස නිසා වෙසක් සැරසිලි අලෙවිකරුවන් අමාරුවේ
+
+*2024-05-20 12:01:51* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-වෙසක්-සැරසිලි-අලෙවිකරුවන්-අමාරුවේ/11-409736) · `si`
+
+මේ දින වල පවතින වර්ෂා අධික කාළගුණය හේතුවෙන් වෙසක් කූඩු ඇතුළු වෙසක් සැරසිලි  අලෙවිකර ගැනීමට අපහසු වීමෙන් තමන් අසරණ වී ඇතැයි වෙසක් සැරසිලි අලෙවිකරුවෝ පවසති.
+
+මෙවර වෙසක් මහෝත්සවය වෙනුවෙන් ප්‍රකාශයට පත් කර ඇති ජාතික වෙසක් සතිය හෙටින් (21) ආරම්භ වේ.හෙට සිට 27 දැනිදා දක්වා වෙසක් සතිය ප්‍රකාශයට පත් කර ඇත.
+
+වෙසක් පොහොය නිමිත්තෙන් වෙසක් කූඩු, බල්බ් වැල්, බකට්, බෞද්ධ කොඩි  ආදී වෙසක් සැරසිලි වලින් නිවෙස් අලංකාර කිරීමට බෞද්ධ ජනතාව කටයුතු කරයි.මෙම වෙසක් සැරසිලි අලෙවිය තම ජීවිකාව කර ගත් පිරිසක්ද සිටිති.ඔවුන් වෙසක් සැරසිලි අලෙවිකරුවන්ය.ඔවුන් වර්ෂයක් පාසා පැමිණෙන වෙසක් උත්සවය වෙනුවෙන් ඇඟිලිගනිමින් සිටින්නේ වෙසක් සැරසිලි අලෙවිකර කීයක් හෝ උපයා ගැනීමටයි.
+
+නමුත් මේ දින වල දිවයින පුරාවට ඇඳහැලෙන වර්ෂාපතනය හේතුවෙන් තම වෙසක් සැරසිලි අලෙවිකර ගත නොහැකි වී ඇතැයි වෙසක් සැරසිලි අලෙවිකරුවන් පවසති.
+
+...
+
+[Data](articles/e8b8e07c.json)
+
+---
+
 ### Murderous killings in place
 
 *2024-05-20 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196813) · `si`
@@ -2169,127 +2273,5 @@ The law, which sets a 13 percent of GDP spending limit (before interest costs), 
 [Data](articles/6b40cbf3.json)
 
 [Extended Data](ext_articles/6b40cbf3.ext.json)
-
----
-
-### Iran President’s crashed helicopter found by Turkey’s Akinji drone
-
-*2024-05-20 08:47:00* · [`economynextcom`](https://economynext.com/iran-presidents-crashed-helicopter-found-by-turkeys-akinji-drone-163670/) · `en`
-
-ECONOMYNEXT- The crash site of helicopter which carried Iran President Iranian President Ebrahim Raisi was located by Turkish high altitude unmanned aerial vehicle, after it disappeared in bad weather, the Iranian News Agency said.
-
-Search teams which which reached the site had found burnt out wreckage and charred bodies.
-
-The weather in the area was bad and visibility was low with foggy conditions, which also hampered teams on the ground, but there is no information on the exact reason for the crash.
-
-RELATED Possible crash site of Iran President’s helicopter helicopter probed: IRNA
-
-President Raisi was returning from a border region with Azerbaijan after opening a dam project.
-
-Two other helicopters which took off with the President’s helicopter has landed safely.
-
-The helicopter is believed to be a US made Bell 212/412 Iran acquired before sanctions hit the country and may be very old.
-
-◼️
-
-[Data](articles/8889dd5c.json)
-
-[Extended Data](ext_articles/8889dd5c.ext.json)
-
----
-
-### None of the rivers have reached flood levels
-
-*2024-05-20 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/None-of-the-rivers-have-reached-flood-levels/108-282942) · `en`
-
-Colombo, May 20 (Daily Mirror)  - None of the rivers have reached flood level so far due to the heavy rains yesterday, according to the data collected by the Irrigation Department, Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
-
-However, the water levels of certain rivers in the Western and North-Western Provinces, and the Galle and Matara districts have risen to a considerable level.
-
-Attanagalu Oya, Kelani Ganga, Kalu Ganga, Ging Ganga and Nilwala Ganga have recorded a higher water level. There are possibilities of floods if rainfall continues in the catchment areas of these rivers during the next few days.
-
-The people living in the low-lying areas along these rivers are advised to be vigilant for possible floods, the Irrigation Department said.
-
-According to the Meteorological Department, the heavy rains in the country has not reduced yet.
-
-Also, motorists are advised to be vigilant when using the roads close to these rivers.
-
-◼️
-
-[Data](articles/98e8c1be.json)
-
-[Extended Data](ext_articles/98e8c1be.ext.json)
-
----
-
-### Police sergeant who abducted a lorry with a stock of beady leaves and three suspects arrested with constable
-
-*2024-05-20 08:39:50* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙකක-බීඩි-කොළ-තොගයක්-සමග-ලොරියක්-පැහැර-ගත්-පොලිස්-සැරයන්-කොස්තාපල්-සමග-තුනක්-අල්ලයි/11-409729) · `si`
-
-A police sergeant and constable from the Vehicle Transport Division were among three arrested for abducting a lorry carrying a valuable cargo. The incident, under investigation, involves the alleged abduction and attack on the driver, with the stolen goods later found near a reservoir.
-
-🟩
-
-The Mahaltota Police have arrested three other to the arrest of Rs.
-
-The arrested is a police sergeant and a police constable of the Vehicle Transport Division.
-
-Another incident has begun investigating another police officer.
-
-Police Inspections have revealed that the relevant bioprote lorry and the driver abduction of the driver had taken place in 18 days.
-
-The lorfaries who had brought in a van and claimed that the driver of the lorry had been abducted and attacked and the driver he had and burdened the driver.
-
-The lorry has been confirmed that the lorry has been abducted by the police protection against the lorry that had come to the lorry that had come to the lorry that had been taken back with the lorries that had been taken back with the lorries that were taken back with the lorries that were taken back with the lorries that had been taken back to the lorry that had been taken back to the lorry he had again with the two Veterans Lari.
-
-...
-
-[Data](articles/b5b697b4.json)
-
-[Extended Data](ext_articles/b5b697b4.ext.json)
-
----
-
-### The President of Iran was discovered where the helicoppent collapsed
-
-*2024-05-20 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196807) · `si`
-
-Iranian TV reported a helicopter crash involving the President, but it's unclear if he survived due to poor conditions.
-
-🟩
-
-Iranian State Television announced that the helicopter plane was in danger with Irana President Irana President Irana President Irana.
-
-Meanwhile, the Head of Iranian Red Falls is mentioned that atmosphere is not good.
-
-Is the Iranian president and life?Not?It is not possible to declare that so far.
-
-◼️
-
-[Data](articles/6306bbb0.json)
-
-[Extended Data](ext_articles/6306bbb0.ext.json)
-
----
-
-### Search teams locate crash site of helicopter carrying Iranian President Raisi
-
-*2024-05-20 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99326/search-teams-locate-crash-site-of-helicopter-carrying-iranian-president-raisi) · `en`
-
-(CNN) — Rescuers have reached the crash site of the helicopter carrying President Ebrahim Raisi, Iran’s semi-official Tasnim news agency.
-
-The agency did not say the condition of those who were on board the helicopter.
-
-At least 73 rescue teams are in the area of the helicopter crash near the village of Tavil in Iran’s East Azerbaijan province, according to Pir-Hossein Kolivand, head of the Iranian Red Crescent, Tasnim reported.
-
-Kolivand said the “the situation is not good,” according to Iranian state news IRNA.
-
-“Red Crescent search and rescue teams have reached the crash site of the helicopter carrying the president,” the Iranian Red Crescent says in a statement.
-
-◼️
-
-[Data](articles/d76cca5e.json)
-
-[Extended Data](ext_articles/d76cca5e.ext.json)
 
 ---

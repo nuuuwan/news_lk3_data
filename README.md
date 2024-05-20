@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 15:03:48**
+As of **2024-05-20 15:18:38**
 
 ## Newspaper Stats
 
-*Scraped **25,186** Articles*
+*Scraped **25,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,446
 dailyftlk | 1,480
-adalk | 2,154
+adalk | 2,156
 adaderanalk | 2,912
 tamilmirrorlk | 2,947
 virakesarilk | 3,804
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,182 (100.0%) of 25,186 articles have been extended.
+25,186 (100.0%) of 25,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,25 +42,33 @@ The Criminal Investigation Department (CID) has arrested an individual in Dehiwa
 
 [Data](articles/14e2e010.json)
 
+[Extended Data](ext_articles/14e2e010.ext.json)
+
 ---
 
-### රුසියාවට පුද්ගලයින් යැවූ සැකකරුවෙක් කොටුවෙයි
+### Suspect arrested for people to Russia
 
 *2024-05-20 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196820) · `si`
 
-සංචාරක වීසා මත රුසියාව ට පුද්ගලයින් 120 දෙනෙකු පමණ යැවූ බවට සැකපිට පුද්ගලයෙක් ව දෙහිවල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A man in Dehiwala was arrested for allegedly facilitating around 120 individuals' travel to Russia on tourist visas, supporting opposition against the Russian ban. The arrest was made by the Criminal Investigation Department's "Person Trade and Marine Criminal Investigation Division." Further inquiries are ongoing, with the suspect set to appear in court tomorrow.
 
-අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ "තැනැත්තන් වෙළෙඳාම සහ සමුද්‍රීය අපරාධ විමර්ශන අංශය" විසින් එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-මෙම සැකකරු රුසියානු තානපති කාර්යාල ඉදිරිපිට සිට සංචාරක වීසා මත රුසියාව සඳහා යෑමට පුද්ගලයින්ට ආධාර අනුබල දී ඇති බව විමර්ශනවලිදී අනාවරණය වී තිබේ.
+A man was arrested in Dehiwala area about 120 people on the tourist visa.
 
-අත්අඩංගුවට ගත් සැකකරුගෙන් මේ වනවිට ප්‍රශ්න කරමින් සිටින අතර ඔහු හෙට (21) අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව පොලීසිය පවසයි.
+The suspect was arrested by the Criminal Investigation Department "Person Trade and Marine Criminal Investigation Division".
 
-අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්තන මහතාගේ උපදෙස් මත "තැනැත්තන් වෙළෙඳාම සහ සමුද්‍රීය අපරාධ විමර්ශන අංශයේ" අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සමරකෝන් බණ්ඩා මහතාගේ අධීක්ෂණය යටතේ වැඩිදුර පරීක්ෂණ පැවැත්වේ.
+Investigations have revealed that the suspect has supported people from opposing the Russian banquake to Russia on tourist visa.
+
+The suspect is currently being questioned and will be produced before the court tomorrow.
+
+On the instructions of Senior DIG of the Criminal Investigation Department, further investigations are conducted under the supervision of SSP Samarakoon Banda.
 
 ◼️
 
 [Data](articles/ec2b9d9b.json)
+
+[Extended Data](ext_articles/ec2b9d9b.ext.json)
 
 ---
 
@@ -84,6 +92,8 @@ The two countries had signed five pacts during the visit, only the second since 
 
 [Data](articles/872bb3c0.json)
 
+[Extended Data](ext_articles/872bb3c0.ext.json)
+
 ---
 
 ### Businessman arrested for assaulting Iranian Ambassador, further remanded
@@ -101,6 +111,26 @@ The suspect was remanded till Wednesday (22) after being produced before the For
 [Data](articles/58c67116.json)
 
 [Extended Data](ext_articles/58c67116.ext.json)
+
+---
+
+### කවරක්කුලම පොලිසියේ එස්අයි කසිප්පු ‌පෙරා අත්අඩංගුවට
+
+*2024-05-20 13:59:27* · [`adalk`](https://www.ada.lk/breaking_news/කවරක්කුලම-පොලිසියේ-එස්අයි-කසිප්පු-‌පෙරා-අත්අඩංගුවට/11-409739) · `si`
+
+කවරක්කුලම පොලීසියට අනුයුක්තව රාජකාරී කරනු ලබන, උප පොලිස් පරීක්ෂකවරයෙකු  නීති විරෝධී මත්පැන් මිලිලීටර් 14250ක්, එම නීති විරෝධී මත්පැන් පෙරීමට යොදා ගන්නා උපකරණ තොගයක්  සමග පෙරේදා (19දා) අත්අඩංගුවට ගත් බව තිරප්පනය පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ, නොච්ච්කුලම, ඉහලගම, මිහින්තලේ  ලිපිනයේ පදිංචි 59 හැවිරිදි   උප පොලිස් පරීක්ෂකවරයෙකි.
+
+නීති විරෝධී මත්පැන් සම්බන්ධයෙන් ලැබුණු තොරතුරකට අනුව  මෙම උප පොලිස් පරීක්ෂකවරයාගේ ඉහත ලිපිනයේ පිහිටි නිවස පරීක්ෂා කිරීමේදී පෙරේදා (19දා) හවස හතරට පමණ එම නිවසේ තිබී නීති විරෝධී මත්පැන් මිලි ලීටර් 14250ක ප්‍රමාණයක් සොයා ගත් බව පොලිසිය කියයි.
+
+තව දුරටත් නිවසේ සිදු කල වැඩිදුර පරීක්ෂාවකදී සූක්ෂම ලෙස සඟවා තිබූ  නීති විරෝධී මත්පැන් පිරීමට උපයෝගී කර ගන්නා දෙපස රබර් පටි සවිකරන ලද වට තුනකින් සමන්විත තඹ දඟරයක් , කළු පැහැති බැරල් එකක් , කළු පැහැති යකඩ සිලින්ඩර් එකක් , සහ ගෑස් ලිප් එකක් එම නිලධාරියා සන්තකයේ තිබී සොයා ගත් බවද පොලිසිය සඳහන් කළේය.
+
+අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂකවරයා අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+...
+
+[Data](articles/7ce223c0.json)
 
 ---
 
@@ -141,6 +171,8 @@ The minister met with the Global Director for Water for the World Bank Saroj Jha
 ...
 
 [Data](articles/eaebfd81.json)
+
+[Extended Data](ext_articles/eaebfd81.ext.json)
 
 ---
 
@@ -375,6 +407,26 @@ Police said the suspect has fled the area following the murder and Lunugala Poli
 [Data](articles/aa42bc80.json)
 
 [Extended Data](ext_articles/aa42bc80.ext.json)
+
+---
+
+### නේපාල කතට පිහියක් පෙන්වා රන්භාණ්ඩ, මුදල් සහ දුරකථන කොල්ලකාලා
+
+*2024-05-20 12:35:46* · [`adalk`](https://www.ada.lk/breaking_news/නේපාල-කතට-පිහියක්-පෙන්වා-රන්භාණ්ඩ--මුදල්-සහ-දුරකථන-කොල්ලකාලා/11-409738) · `si`
+
+නේපාල ජාතික කාන්තාවක රැදීසිටී හෝටල් කාමරයට ඇතුල්වී  උල් ආයුධයක් පෙන්වා බියගන්වා රුපියල් ලක්ෂ දහයක් පමණ වටිනා ජංගම දුරකථන දෙකක්, රුපියල් ලක්ෂ දෙකක මුදලක් සහ රන් භාණ්ඩ කොල්ල කා පලාගිය පුද්ගලයකු සොයා කළුතර උතුර පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+
+ටාමාන්ග් නිමා නමැති 23 හැවිරිදි කාන්තාවක විසින් කල පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+
+පැමිණිලිකාර කාන්තාව තවත් පිරිසක් සමග දිවයිනට පැමිණ  වස්කඩුව ප්‍රදේශයේ සංචාරක හෝටලයක කාමරයක නවාතැන් ගෙන සිටියදී කොල්ලකෑම සිදුව ඇති බවට පැමිණිල්ලේ සඳහන්ව ඇතැයි පොලිසිය පවසයි.
+
+ඇය හෝටල් කාමරයේ දොර අඩවල් කර ජංගම දුරකථනය ක්‍රියාකරමින් සිටියදී සැකකරු ඇතුලුවී ඇති බවද සදහන් වේ.
+
+GPS තාක්ෂණය ඔස්සේ සොයා බැලීමේදී අසල ඉඩමක පොල් ගසක් යට තිබූ ජංගම දුරකථන දෙක සොයාගෙන ඇති බවද පොලිසිය පැවසීය.
+
+◼️
+
+[Data](articles/e31d8035.json)
 
 ---
 
@@ -2209,45 +2261,5 @@ Families gathered at the venue on Saturday and placed photographs of their loved
 [Data](articles/6a897856.json)
 
 [Extended Data](ext_articles/6a897856.ext.json)
-
----
-
-### US stands with Sri Lankans seeking justice, says Ambassador Chung
-
-*2024-05-20 03:19:51* · [`dailyftlk`](https://www.ft.lk/news/US-stands-with-Sri-Lankans-seeking-justice-says-Ambassador-Chung/56-762004) · `en`
-
-US Ambassador to SL Julie Chung says US stands in solidarity with all Sri Lankans
-
-Says US will remain a steadfast partner to those who continue seeking justice, equal rights, and access to opportunities
-
-Notes that many Sri Lankans continue to face ongoing acts of intimidation
-
-Advocates for all those who lost their loved ones to war to commemorate them
-
-Marking 15 years since the end of Sri Lanka’s three-decade-long conflict, US Ambassador to Sri Lanka Julie Chung said the United States will remain a steadfast partner to the Sri Lankan people, including those who continue seeking justice, equal rights, and access to opportunities.
-
-Taking to X (formerly Twitter) Chung said her country stands in solidarity with all Sri Lankans, reflecting on the resilience and hope for a united future.
-
-...
-
-[Data](articles/bced055f.json)
-
-[Extended Data](ext_articles/bced055f.ext.json)
-
----
-
-### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
-
-*2024-05-20 03:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
-
-Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
-
-The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
-
-...
-
-[Data](articles/008ff134.json)
-
-[Extended Data](ext_articles/008ff134.ext.json)
 
 ---

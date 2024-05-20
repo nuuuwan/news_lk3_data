@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 20:18:30**
+As of **2024-05-20 20:34:03**
 
 ## Newspaper Stats
 
-*Scraped **25,245** Articles*
+*Scraped **25,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 2,164
 adaderanalk | 2,922
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
-dailymirrorlk | 3,965
-adaderanasinhalalk | 4,038
+dailymirrorlk | 3,966
+adaderanasinhalalk | 4,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,242 (100.0%) of 25,245 articles have been extended.
+25,242 (100.0%) of 25,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### රුසියානු - යුක්‍රේන යුදබිමේ කොටුවූ අපේ මිනිස්සු
+
+*2024-05-20 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196834) · `si`
+
+2022 වසරේ ඇරඹි රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරට විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින් මෙන්ම රුසියාවේ වෙනත් රැකියාවන්හි නිරතවූවන්ද එක්ව ඇති බව මේ වනවිටත් තහවුරුවී තිබේ.
+
+එලෙස එහි යුද පෙරමුණේ සිටින කිහිපදෙනෙකුම "අද දෙරණ" අමතමින් තමන් මුහුණදෙන කටුක අත්දැකීම් මෙලෙස පැහැදිලි කළහ.
+
+"ඩ්‍රෝනවලින් බොහොම අමාරුවෙන් බේරෙන්නේ.  එනවා ඔළුව උඩටම. මම ඊයේත් බොහොම අමාරුවෙන් බේරුණේ. කිව්වට තේරෙන්නේ නෑ ඒක ඔයාලට. අපිත් එක්ක ආපු පස්දෙනෙක් තුවාල වෙලා. එක්කෙනෙක් මැරිලා.  අනේ දෙයියනේ කියලා ගෙන්න ගන්න බලන්න කියන්න. බොරු කියලා මුං අපිව ගෙන්නලා මේ ලයින් එකට දාලා තියෙන්නේ ඉස්සරහම. ඒකයි වැඩේ. වැටෙනවා මම යනවා."
+
+අම්පාර, මිහිඳුපුර ගම්මානයේ පදිංචි ඒ. ඩි. එස්. නිරෝෂ විශ්‍රාමික යුද හමුදා සෙබළෙකු වූ අතර ඔහුද ආර්ථික අපහසුතා හේතුවෙන් පසුගිය මාර්තු 14 වනදා රුසියාවට ගොස් ඇති අයෙකි.
+
+...
+
+[Data](articles/606a1db0.json)
+
+---
+
+### Sri Lankan, Thai Missions in Kenya celebrate UN Vesak
+
+*2024-05-20 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankan-Thai-Missions-in-Kenya-celebrate-UN-Vesak/110-282982) · `en`
+
+The High Commission of Sri Lanka and the Thai Embassy in Kenya hosted the International Vesak Day 2024 celebration at the United Nations Office in Nairobi. This event commemorated the Birth, Enlightenment, and Passing Away of Lord Buddha and marked the 25th anniversary of the UN General Assembly resolution 54/115, recognizing the Day of Vesak internationally.
+
+The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara Thero, Chief Monk for the African Continent from the Buddhist Temple and Meditation Centre in Tanzania, along with the Director of the United Nations in Nairobi, Ms. Sandra Macharia, Maurice Okoth Amisi, Director of Asia Pacific at MOFA, and other dignitaries, excellencies, and distinguished guests.
+
+...
+
+[Data](articles/fa29a11f.json)
+
+---
 
 ### අයහපත් කාලගුණය විශාල පිරිසක් පීඩාවට
 
@@ -2265,57 +2297,5 @@ Yuvati died when she was taken to the hospital.
 [Data](articles/93a5520c.json)
 
 [Extended Data](ext_articles/93a5520c.ext.json)
-
----
-
-### Interim President Mohammed Mogbar in Iran
-
-*2024-05-20 10:40:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-இடைக்கால-ஜனாதிபதி-முகமது-மொக்பர்/50-337553) · `ta`
-
-Mohammed Mogbar becomes Iran's interim president under Article 131 after President Ibrahim Raisi dies in a helicopter crash during a visit to Azerbaijan. The transition is overseen by a council including the First Vice President, Parliament Speaker, and Head of Justice.
-
-🟩
-
-In Iran, if a president passes away in his tenure, the interim president will be elected by Article 131 of the Constitution.
-
-This will be monitored by a Council of the First Vice President, the Speaker of Parliament and the Head of Justice.
-
-Iranian President Ibrahim Raisi visited Azerbaijan on Sunday (20). Ibrahim Raisi went to the opening of the newly built dam in Azerbaijan. Ibrahim Raisi departed Iran by helicopter attending the opening of the dam with Azerbaijan President Ilham Alioo.. President Ibrahim Raisi died in a helicopter accident.
-
-◼️
-
-[Data](articles/c5575fb5.json)
-
-[Extended Data](ext_articles/c5575fb5.ext.json)
-
----
-
-### Did Iran's former President know these facts about Ibreamy Restrich?
-
-*2024-05-20 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196811) · `si`
-
-Iran's former President, known for his loyalty to Elephant Khamer and as a devout priest, took office in 2021 amidst controversy over a non-fair election process. His tenure saw economic challenges, regional conflicts, and accusations of human rights abuses. Born in 1960 in Isfahan, he rose through religious ranks, joining protests against Shah control and later serving in judiciary roles. Despite initial low support (38%), he secured leadership with significant majorities in subsequent elections, navigating a complex political landscape marked by internal dissent and external tensions.
-
-🟩
-
-Former President of Iran is an intense dictating priest. He is known as the Supreme Leader of Iran as a very loyal person to Elephant Khamer.
-
-Ukisa was elected President Iran as the president in 2021, and since then, all the parts of Iran have gone to control of the intense opinions.
-
-He is 63 years old. Reach was also the head of the court.
-
-In the year 2021, he wins excellent victory in the conclusion of Hassan Sambavi.
-
-But that election is an ad-recognized view that not just fair. The candidates who voiced in respect of Free Orthodogs and Reforms did not receive a chance and many voters refrained from voting.
-
-When he acquired the power of Iran, he was facing various questions. Especially economic problems, such as regional threats, and discussions on the nuclear program collapsed.
-
-It was a year after he came to power and before he came to power, anti-government demonstrations spread throughout Iran. He acted to curb the protests with state power.
-
-...
-
-[Data](articles/7b8b7797.json)
-
-[Extended Data](ext_articles/7b8b7797.ext.json)
 
 ---

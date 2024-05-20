@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 19:18:22**
+As of **2024-05-20 19:33:54**
 
 ## Newspaper Stats
 
-*Scraped **25,239** Articles*
+*Scraped **25,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,76 +17,112 @@ economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,163
 adaderanalk | 2,921
-tamilmirrorlk | 2,951
+tamilmirrorlk | 2,952
 virakesarilk | 3,807
-dailymirrorlk | 3,963
+dailymirrorlk | 3,964
 adaderanasinhalalk | 4,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,235 (100.0%) of 25,239 articles have been extended.
+25,239 (100.0%) of 25,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ලෝක ශූරතා පැරා මලල ක්‍රීඩා තරගාවලියේදී ඉන්දිකට පදක්කමක්
+### தலைவருக்கும் பதில் செயலாளருக்கும் தடை
+
+*2024-05-20 19:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவருக்கும்-பதில்-செயலாளருக்கும்-தடை/175-337604) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக அமைச்சர் விஜயதாச ராஜபக்ஷவையும், பதில் செயலாளர் நாயகமாக கீர்த்தி உடவத்தவையும் நியமிப்பதற்கான தீர்மானத்தை அமுல்படுத்துவதற்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான   தடை உத்தரவை திங்கட்கிழமை (20) பிறப்பித்துள்ளார்.
+
+கட்சியின் பதில் பொதுச் செயலாளர்  துமிந்த திஸாநாயக்கவினால் தாக்கல் செய்யப்பட்ட திருத்தப்பட்ட முறைப்பாட்டினை பரிசீலித்த பின்னரே இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+பதில் பொதுச் செயலாளர்  துமிந்த திசாநாயக்க மற்றும் தலைவர் நிமல் சிறிபாத சில்வா ஆகியோர் கட்சி நடவடிக்கைகளுக்கு இடையூறு விளைவிக்கக் கூடாது எனவும்  மாவட்ட நீதவான் இடைக்கால தடையுத்தரவை பிறப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/3f9cc57d.json)
+
+---
+
+### Medal to Indika at World Championsen Pura Athletics Championship
 
 *2024-05-20 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196832) · `si`
 
-ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී ලෝකඩ පදක්කමක් දිනා ගැනීමට ඉන්දික ගමගේ අද (20) සමත්විය.
+Indika Gamage secured a bronze medal in the World Para Athletics Championship in Japan, clocking 11.83 seconds. This marks Sri Lanka's first medal in the championship this year, with South Africa taking gold.
 
-එම ඉසව්ව තත්පර 11.83කින් නිම කළ ඉන්දික ලෝකඩ පදක්කම දිනා ගත්තේය.
+🟩
 
-රන් පදක්කම දකුණු අප්‍රිකා ක්‍රීඩකයෙකු සහ රිදී පදක්කම මැලේසියා ක්‍රීඩකයෙකු විසින් ද දිනා ගනු ලැබීය.
+Indika Gamage won a bronze medal today (20) at the World Championships in Japan.
 
-මෙවර ලෝක පැරා මලල ක්‍රීඩා ශූරතා තරගාවලියේ ශ්‍රී ලංකාව දිනූ පළමු පදක්කම මෙය වේ.
+The event won the Indika bronze medal of 11.83 seconds.
+
+The gold medal was won by a match of a South Africa and a silver medal.
+
+This is the first medal of Sri Lanka in the World Parath Winner Championship this year.
 
 ◼️
 
 [Data](articles/6f095b35.json)
 
+[Extended Data](ext_articles/6f095b35.ext.json)
+
 ---
 
-### ආර්ථිකයට තීරණාත්මක පනත් දෙකක් 22 දා පාර්ලිමේන්තුවට
+### Two crucial bills to parliament on 22
 
 *2024-05-20 18:41:59* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකයට-තීරණාත්මක-පනත්-දෙකක්-22-දා-පාර්ලිමේන්තුවට/11-409743) · `si`
 
-“ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පත” සහ “රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත” මැයි 22 පාර්ලිමේන්තුවට – වැඩ බලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ
+On May 22, Sri Lanka's government plans to present two pivotal bills: the "Economic Transformation of the Economy Bill," aimed at stabilizing the economy post-collapse and fostering growth, and the "Fiscal Management Bill," part of a joint program with the IMF to maintain financial stability and prevent economic crises. Both bills address critical aspects of the country's economic strategy, including international trade, legal reforms, and establishing the National Productivity Commission to enhance competitiveness.
 
-මෙරට ආර්ථිකයට අතිශය තීරණාත්මක පනත් කෙටුම්පත් දෙකක් එළඹෙන මැයි 22 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට රජය සැළසුම් කර තිබෙන බව වැඩ බලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+🟩
 
-ඒ අනුව යළි ආර්ථික බිඳවැටීමක් සිදු නොවීමට අදාළව “ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පත” සහ රටේ රාජ්‍ය මූල්‍ය කළමනාකරණය ප්‍රශස්ත ම්ට්මක පවත්වාගෙන යාම වෙනුවෙන් “රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත” ඉදිරිපත් කරන බව ඒ මහතා පෙන්වා දුන්නේය.
+"Economic Translation of Economic Translation" and "Fundamental Management Bill"
 
-වැඩ බලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (20) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Acting Minister of Finance Shehan Semasinghe said that the government has planned to submit two crucial bills to Parliament on May 22.
 
-එහිදී වැඩි දුරටත් අදහස් දැක්වූ වැඩ බලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මෙසේද සඳහන් කළේය,
+Accordingly, the "Economic Translation of the Economy Transformation Bill" and the country's financial management of the country will be presented to maintain optimal vita, "he said."
+
+Acting Finance Minister Shehan Semasinghe said this was a press conference held at the Presidential Media Center today (20).
+
+Acting, Acting Finance Minister Shehan Semasinghe said:
+
+The government has planned to submit two very important bills to the Sri Lankan economy on May 22. One bill is the "Economic Transformance Law" (Economic Transformance Law). This Bill was not proposed by the IMF. It should be said that it is a bill presented by President Ranil Wickremesinghe. The collapse economy in the past has brought stability. It also wants to protect that situation.
 
 ...
 
 [Data](articles/5a2b5078.json)
 
+[Extended Data](ext_articles/5a2b5078.ext.json)
+
 ---
 
-### ජනපති ලෝකයටම යෝජනා කළ නව බද්ද
+### New tax proposed to the President
 
 *2024-05-20 18:30:27* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලෝකයටම-යෝජනා-කළ නව-බද්ද/11-409742) · `si`
 
-යුක්‍රේනයේ මරණ හා විනාශය සඳහා අරමුදල් සැපයීමට ගෝලීය උතුර කැමැත්තෙන් සිටින නමුත් දේශගුණික විපර්යාස නිසා ඇතිවන මරණ හා විනාශය වළක්වා ගැනීමේ ක්‍රියාමාර්ග සඳහා අරමුදල් සැපයීමට අකමැත්තක් දක්වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+At the 10th World Water Conference in Bali, President Ranil Wickremesinghe criticized the global reluctance to fund climate change solutions despite supporting Ukraine. He highlighted the $1.4 trillion annual profit from global tax evasion. The summit aims to unite nations for efficient water strategies, sharing best practices every three years.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ඉන්දුනීසියාවේ, බාලි ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී අද (20) පෙරවරුවේ ආරම්භ කෙරුණු 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසිය අමතමිනි.
+🟩
 
-ගෝලීය බදු පැහැර හැරීම ආශ්‍රිත වත්කම්වල වාර්ෂික ලාභය ඇමරිකානු ඩොලර් ට්‍රිලියන 1.4 ක් ලෙස ගණන් බලා ඇති බවත් දේශගුණික විපර්යාසයන් වෙනුවෙන් අරමුදල් යෙදවීම සඳහා එම ලාභයෙන් 10% ක බද්දක් අය කිරීමට ශ්‍රී ලංකාව යෝජනා කර ඇති බවත් ජනාධිපතිවරයා එහිදී සඳහන් කළේය.
+President Ranil Wickremesinghe stated that the global part of the global willingness to fund the death and destruction of Ukraine, but it is reluctant to fund the death and destruction measures caused by climate change.
 
-“සාමුහික සෞභාග්‍ය සඳහා ජලය” යන තේමාව යටතේ ලෝක ජල සමුළුව පසුගිය මැයි 18 වනදා ඉන්දුනීසියාවේ බාලි නගරයේ දී ආරම්භ වූ අතර ලෝක රාජ්‍ය නායකයන්, විශේෂඥවරුන්, විද්වතුන්, ව්‍යවසායකයන් සහ ප්‍රතිපත්ති සම්පාදයකයන් මීට එක්ව සිටිති.
+The President was addressing the top 10 World Water Conference of the 10th World Water Conference which was launched today (20) at the Bali International Conference Hall.
 
-සැමට ජලය සැපයීම සහතික කිරීමේ කාර්යක්ෂම හා ඒකාබද්ධ උපායමාර්ග වෙනුවෙන් ලොව පුරා විවිධ ජාතීන් පෙළගැස්වීම මෙම සමුළුවේ අරමුණයි.
+The President added that the annual profit of assets relating to global tax evictions had been estimated to be US $ 1.4 trillion.
+
+Under the theme of "Water for Collective Prosperity", the World Water Summit has started in Bali on May 18, and World State leaders, experts, scholars, entrepreneurs, entrepreneurs, entrepreneurs, entrepreneurs and policy patterns.
+
+The aim of the conference is to align the various nationalities worldwide for the efficient and united strategies to ensure water.
 
 ...
 
 [Data](articles/255e0440.json)
+
+[Extended Data](ext_articles/255e0440.ext.json)
 
 ---
 
@@ -105,6 +141,24 @@ Accordingly, Dr. Jayatissa further stated that he will discuss the other details
 [Data](articles/0fd6de9e.json)
 
 [Extended Data](ext_articles/0fd6de9e.ext.json)
+
+---
+
+### ICC prosecutor seeks arrest of Israeli and Hamas leaders
+
+*2024-05-20 18:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-prosecutor-seeks-arrest-of-Israeli-and-Hamas-leaders/108-282981) · `en`
+
+The chief prosecutor of the International Criminal Court (ICC) says he is seeking arrest warrants for Israeli and Hamas leaders, including Israeli Prime Minister Benjamin Netanyahu, over alleged war crimes.
+
+ICC prosecutor Karim AA Khan KC has made applications for the arrest warrants, claiming he has reasonable grounds to believe Mr Netanyahu and Israeli Defence Minister Yoav Gallant bear responsibility for war crimes and crimes against humanity during the Israel-Gaza war.
+
+Arrest warrants have also been sought for Hamas leaders Yahya Sinwar, Ismail Haniyeh and Mohammed Diab Ibrahim Al-Masri for alleged war crimes and crimes against humanity.
+
+The prosecutor must request the warrants from a pre-trial panel of three judges, who take on average two months to consider the evidence and determine if the proceedings can move forward.
+
+...
+
+[Data](articles/9a6ea52f.json)
 
 ---
 
@@ -1786,23 +1840,31 @@ Scenes of the crash site where the Iranian president, foreign minister and other
 
 ---
 
-### ජනපතිවරණයට සජිත් එන්නේ නෑ
+### Sajith does not come to the presidential election
 
 *2024-05-20 11:28:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-සජිත්-එන්නේ-නෑ/11-409734) · `si`
 
-ඉදිරි ජනපතිවරණය සඳහා විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා තරග නොකරන බවත් ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා හා වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතා අතර ජනපතිවරණ සටන පැවැත්වෙනු ඇති බවත් ජාතික ජන බලවේගයේ ජාතික විධායක සභික කේ.ඩි. ලාල් කාන්ත මහතා පැවසිය.
+Sajith won't attend the presidential election, as per the National Executive Committee. Lal Kantha, a retired military official, suggests utilizing Article 76 for political change, emphasizing the importance of implementing laws and ensuring justice. He criticizes the current system for suppressing the people's power and calls for reforms, including establishing more courts and magistrates' offices.
 
-අදිටන විශ්‍රාමික ත්‍රිවිධ හමුදා සාමුහිකය රත්නපුර දිස්ත්‍රින් සමුළුව රත්නපුර නගර ශාලාවේ පසුගිය 18  වන දින පැවති අවස්ථාවේදි කේ.ඩි. ලාල් කාන්ත මහතා එසේ පැවසිය
+🟩
 
-"සජිත් කියල කෙනෙක් ඊලඟ ජනාධිපතිවරණයට ජන්දය ඉල්ලන්නේ නෑ. දේශපාලනය කාලගුණය වාගේ නිතරම වෙනස් වෙනවා. සියලු පක්ෂ වල සහයෝගයෙන් රනිල් ජන්දයට එනවා ඇතම් විට මාලිමාවයි රනිල් සමගයි සටන තිබෙන්නේ අපි ජනාධිපතිවරනයෙන් පසුව පාර්ලි මේන්තුව විසුරුවනවා. පසුව බල්ලා කනපිට ගැසුවා වගේ වෙනසක් කරන්න ඕන.
+National Executive Committee of the National Executive Committee of the National Executive Committee will be held between the Leader of the Opposition to contest the next presidential election.. Lal Kantha said.
 
-76 ව්‍යවස්ථාවට තිත තැබිය යුතුයි දේශපාලන වශයෙන් සංස්කෘතික වශයෙන් වෙනසක් කරන්න ඕන. නිතිය හදා ගැනිමේ බලය නිතිය ක්‍රියාත්මක කිරිමේ බලය ජනතාව සතුයි.
+Retired Armed Forces Collectived. Mr. Lal Kanthe was saying that
 
-කතිරය ගහලා අප සතු බලය තමයි කොටසකට පවරන්නේ පාර්ලිමේන්තුවේ නිති හදන බලය ජනතාව ලබාදෙනවා
+"Someone does not ask for the next Presidential election. Politics often change the weather. When Ranil is coming to the vot of all parties, the struggle with Ranil is the struggle with Ranil, which is dissolved after the presidential election.Then you need to make a difference like the dog caught.
+
+76 Utilize Article 76 should be a politically change.The people have the power of the law implement the law of law.
+
+The people are assigned to a section of the former section by attacking the scier
+
+We have to stop the power to stop the work of the work. Now they are fearing the people by taking the power of the people.
 
 ...
 
 [Data](articles/649724c1.json)
+
+[Extended Data](ext_articles/649724c1.ext.json)
 
 ---
 
@@ -2251,47 +2313,5 @@ State TV reported that images from the site showed the aircraft slammed into a m
 [Data](articles/c90e7d98.json)
 
 [Extended Data](ext_articles/c90e7d98.ext.json)
-
----
-
-### Rainfall Increasing Diarrhea Disease - Public Health Inspectors Association
-
-*2024-05-20 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184008) · `ta`
-
-Due to heavy rainfall, the Public Health Inspectors Association warns of increased diarrhea risks. To mitigate this, the association plans to use clean water for donations nationwide before the Vesak festival, fearing water pollution from rain. This year's donations are lower than previous years.
-
-🟩
-
-The Public Health Inspectors Association has warned that the continued rainfall is at risk of increasing diarrhea.
-
-Therefore, the president of the Public Health Association Upul Rohana has stated that clean water will be used in events that donate across the country ahead of the upcoming Vesak festival.
-
-He said that the rainfall is in danger of polluting the water and the donation donated to the Vesak festival will be recorded until the first day.
-
-The President of the Public Health Inspectors Association said that this year's donation is deficiency compared to other years.
-
-◼️
-
-[Data](articles/1c2808be.json)
-
-[Extended Data](ext_articles/1c2808be.ext.json)
-
----
-
-### The President of Iran has died
-
-*2024-05-20 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196809) · `si`
-
-Iran's President dies; Indian Foreign Minister also killed yesterday.
-
-🟩
-
-The Iran President of Iranian President, the Foreign Minister of India has been killed in yesterday's yesterday (19).
-
-◼️
-
-[Data](articles/c40dc6cd.json)
-
-[Extended Data](ext_articles/c40dc6cd.ext.json)
 
 ---

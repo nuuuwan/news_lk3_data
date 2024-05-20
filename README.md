@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 15:52:37**
+As of **2024-05-20 16:05:20**
 
 ## Newspaper Stats
 
-*Scraped **25,200** Articles*
+*Scraped **25,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,119 @@ islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
 adalk | 2,157
-adaderanalk | 2,912
+adaderanalk | 2,915
 tamilmirrorlk | 2,947
 virakesarilk | 3,807
 dailymirrorlk | 3,958
-adaderanasinhalalk | 4,027
+adaderanasinhalalk | 4,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,192 (100.0%) of 25,200 articles have been extended.
+25,192 (99.9%) of 25,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### අධිකරණ ඇමති බන්ධනාගාර නිලධාරීන්ට කළ ආයාචනය
+### විජයදාස සහ කීර්ති ට වාරණ නියෝගයක්
+
+*2024-05-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196824) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ සහ වැඩ බලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු  කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/6660506c.json)
+
+---
+
+### Motorists using expressway caution due to bad weather
+
+*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99338/motorists-using-expressway-caution-due-to-bad-weather) · `en`
+
+A special announcement has been issued for motorists traveling on the expressway, due to the prevailing adverse weather conditions.
+
+Accordingly, the Road Development Authority (RDB) requests motorists to maintain a maximum speed of 60km per hour when using the expressway.
+
+More than 19,000 people have been affected in 07 districts including Ratnapura, Kegalle, Anuradhapura, Kandy, Galle, Kalutara and Puttalam due to heavy rainfall.
+
+The number of affected families is currently reported as 4,786.
+
+Further, around 32 houses have been partially damaged and 1,140 people have been directed to safe locations.
+
+According to the current situation, more than 150mm of heavy rainfall is expected in the next 24 hours in the Western and North-Western provinces, says the Meteorological Department.
+
+Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts may experience heavy rains exceeding 100mm today.
+
+...
+
+[Data](articles/86b92d8f.json)
+
+---
+
+### Four ISIS terrorists from Sri Lanka arrested at Ahmedabad airport - report
+
+*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99337/four-isis-terrorists-from-sri-lanka-arrested-at-ahmedabad-airport-report) · `en`
+
+The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad, Indian media reported today.
+
+The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive behind their presence at the Ahmedabad airport is not clear.
+
+Security has been heightened across the airport, the report said.
+
+The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
+
+In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh.
+
+The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
+
+...
+
+[Data](articles/c8de8cee.json)
+
+---
+
+### ශ්‍රී ලංකාවෙන් ගිය ISIS සැකකරුවන් ඉන්දියාවේදී අත්අඩංගුවට
+
+*2024-05-20 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196823) · `si`
+
+ශ්‍රී ලංකාවෙන් පැමිණි බවට සැලකෙන ISIS ත්‍රස්තවාදී සැකකරුවන් 4 දෙනෙකු ඉන්දියාවේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ, ගුජරාට් ත්‍රස්ත මර්දන ඒකකය විසින් අහමදාබාද් ගුවන්තොටුපොළට පැමිණීමේදී එම සැකකරුවන්ව අත්අඩංගුවට ගත් බවය.
+
+එම සැකකකරුවන් සිව් දෙනාගෙන් දීර්ඝ ලෙස ප්‍රශ්න කෙරෙන බව එරට ආරක්ෂක අංශ පැවසීය.
+
+ඔවුන් එම ගුවන්තොටුපොළට පැමිණ තිබෙන්නේ කුමක් සඳහා ද යන්න ද මෙතෙක් අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/9eb8ade6.json)
+
+---
+
+### Mother of three dies in acid attack
+
+*2024-05-20 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99336/mother-of-three-dies-in-acid-attack) · `en`
+
+A woman has reportedly died following an acid attack inside a house in Kahawa, according to Ambalangoda Police.
+
+The deceased has been identified as Gonapinuwala Premalatha, a 59-year-old mother of three, who reportedly supplies food to a school.
+
+Police suspect that an unidentified person had entered the house at around 4 a.m. today (20) and carried out the acid attack while she had been preparing meals in the kitchen.
+
+She was subsequently rushed to the Balapitiya Base Hospital by her neighbors and relatives following the incident, however she had succumbed to injuries shortly after the admission.
+
+◼️
+
+[Data](articles/cbfb9788.json)
+
+---
+
+### අධිකරණ ඇමති බන්ධනාගාර නිලධාරීන්ගෙන් කළ ආයාචනය
 
 *2024-05-20 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196822) · `si`
 
@@ -2179,99 +2275,5 @@ While the credit card spend doesn’t show the full picture of consumer spending
 [Data](articles/4f200bdd.json)
 
 [Extended Data](ext_articles/4f200bdd.ext.json)
-
----
-
-### Possible crash site of Iran President’s helicopter helicopter probed: IRNA
-
-*2024-05-20 06:05:00* · [`economynextcom`](https://economynext.com/possible-crash-site-of-iran-presidents-helicopter-helicopter-probed-irna-163650/) · `en`
-
-ECONOMYNEXT – A possible crash site of the helicopter that carried Iran President is being examined, the Iranian News Agency said.
-
-Turkey’s high-altitude long-endurance unmanned aerial vehicle named Akinji also detected a hot spot that probably belongs to the place where the helicopter crashed, IRNA said.
-
-Rescuers are looking for a helicopter which crashed or forced landed with Iranian President Ebrahim Raisi on board in bad weather, the Iranian news agency said.
-
-President Raisi was returning from a border region with Azerbaijan after opening a dam project.
-
-Domestic and international teams are looking for the helicopter which went down in mountainous terrain in bad weather.
-
-Two other helicopters which took off with the President’s helicopter has landed safely.
-
-The helicopter is believed to be a US made Bell 212/412 Iran acquired before sanctions hit the country and may be very old. (Colombo/May20/2024)
-
-◼️
-
-[Data](articles/6daeeed9.json)
-
-[Extended Data](ext_articles/6daeeed9.ext.json)
-
----
-
-### Complete MEP services by Hayleys Fentons for Vallibel Finance new corporate office in Colombo 03
-
-*2024-05-20 04:28:00* · [`islandlk`](http://island.lk/complete-mep-services-by-hayleys-fentons-for-vallibel-finance-new-corporate-office-in-colombo-03/) · `en`
-
-Vallibel Finance’s new corporate office in Colombo 3 stands tall as a symbol of innovation and efficiency, thanks to the expertise of Hayleys Fentons, Sri Lanka’s premier MEP contractor. Spanning 16 floors on a 42-perch plot, this cutting-edge building boasts state-of-the-art MEP installations for a new 110,000-square-foot corporate space.
-
-This project by Hayleys Fentons was successfully completed by providing specialised installations, such as a modern Fire Protection and Detection System, and integrating cutting-edge technology for the building’s Chiller Management System (CMS).
-
-Safety takes centre stage with Hayleys Fentons’ installation of a sophisticated Fire Protection and Detection System. Programmable with addressability features, this system ensures precise fire location detection, facilitating swift evacuation in emergencies. Seamlessly integrated with the fireman intercom and PA system, all controlled from a single panel, this setup promises utmost safety and efficiency.
-
-...
-
-[Data](articles/bfb55da0.json)
-
-[Extended Data](ext_articles/bfb55da0.ext.json)
-
----
-
-### Navara Capital appointed as training partner for USAID private sector development programme
-
-*2024-05-20 04:27:00* · [`islandlk`](http://island.lk/navara-capital-appointed-as-training-partner-for-usaid-private-sector-development-programme/) · `en`
-
-Navara Capital Ltd, a leading corporate advisory service provider in the country, has been appointed as the Training Partner for the United States Agency for International Development (USAID) CATALYZE Sri Lanka Private Sector Development (PSD) Activity to train staff members of selected private sector banks and other financial institutions on debt restructuring, debt rehabilitation and new financing for micro, small and medium enterprises (MSMEs).
-
-The training programs are designed to provide staff members of leading banks and financial Institutions with additional knowledge and in depth understanding of the challenges faced by MSMEs as well as in dealing with MSME in debt restructuring, rehabilitation and new financing. It is expected that the program will support these organizations to expand their support towards MSMEs by providing them with access to new financing and more equitable solutions to their debt-related problems.
-
-...
-
-[Data](articles/0d59c07b.json)
-
-[Extended Data](ext_articles/0d59c07b.ext.json)
-
----
-
-### Gurudev Sri Sri Ravi Shankar and 160 devotees fly SriLankan Airlines for their Sri Lanka visit
-
-*2024-05-20 04:27:00* · [`islandlk`](http://island.lk/gurudev-sri-sri-ravi-shankar-and-160-devotees-fly-srilankan-airlines-for-their-sri-lanka-visit/) · `en`
-
-SriLankan Airlines was privileged to be selected by the spiritual leader and founder of the Art of Living Foundation, Gurudev Sri Sri Ravi Shankar, accompanied by 160 of his devotees, for their recent visit to Sri Lanka. The Art of Living, one of the world’s largest volunteer-driven non-profit organizations, has been actively working in Sri Lanka to create a stress-free, violence-free, healthier and happier society.
-
-Gurudev and his devotees were welcomed at Bangalore International Airport onboard UL 172 by the airline’s Bangalore team on 18 May 2024. SriLankan ensured that their journey was comfortable and seamless, catering to their specific dietary preferences with all vegetarian meals while providing the highest care and attention throughout their travel. The entire trip is being managed by Art of Living’s in-house travel agency, Sumeru Travels.
-
-...
-
-[Data](articles/56034f53.json)
-
-[Extended Data](ext_articles/56034f53.ext.json)
-
----
-
-### President pays a flying visit to Build SL Exhibition 2024
-
-*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/president-pays-a-flying-visit-to-build-sl-exhibition-2024/) · `en`
-
-President Ranil Wickremesinghe paid a flying visit to the Build SL Exhibition 2024 which was held recently at the BMICH exhibition hall premises and interacted with sponsors, stallholders as well as visitors who were there to view the latest offerings of the local construction industry.
-
-The exhibition organized by the Chamber of Construction Industry of Sri Lanka took place from 10th to 12th May 2024 on grand scale.
-
-Although the President was scheduled to inaugurate the Build Sri Lanka Expo 2024 as chief guest on May 10, it was announced around 10:30am that the President wasn’t able to make it as he had a meeting with the IMF. However, the President had promised the organizers of the exhibition that he would drop in there in the afternoon given the importance of the event. And he kept his word encouraging the stakeholders of the industry which is key to faster economic growth of the country.
-
-...
-
-[Data](articles/15d65e40.json)
-
-[Extended Data](ext_articles/15d65e40.ext.json)
 
 ---

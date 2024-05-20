@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 15:33:47**
+As of **2024-05-20 15:52:37**
 
 ## Newspaper Stats
 
-*Scraped **25,192** Articles*
+*Scraped **25,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,162 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
-adalk | 2,156
+adalk | 2,157
 adaderanalk | 2,912
 tamilmirrorlk | 2,947
-virakesarilk | 3,805
-dailymirrorlk | 3,955
-adaderanasinhalalk | 4,025
+virakesarilk | 3,807
+dailymirrorlk | 3,958
+adaderanasinhalalk | 4,027
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,188 (100.0%) of 25,192 articles have been extended.
+25,192 (100.0%) of 25,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### மீனவர்களின் தூண்டிலில் சிக்கிய 49 கிலோ நிறையுடைய மீன்
+### අධිකරණ ඇමති බන්ධනාගාර නිලධාරීන්ට කළ ආයාචනය
+
+*2024-05-20 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196822) · `si`
+
+බන්ධනාගාර නිලධාරීන්ගේ වැටුප් වැඩිකිරීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+එහිදී අමාත්‍යවරයා පැවසුවේ බන්ධනාගාර නිලධාරීන් සඳහා රුපියල් 15,000ක දීමනාවක් යෝජනා කරමින් කඩිනමින් කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කරන බවය.
+
+...
+
+[Data](articles/c78e7734.json)
+
+---
+
+### யாழில் போதை மாத்திரைகளுடன் இளைஞன் கைது!
+
+*2024-05-20 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184022) · `ta`
+
+போதை மாத்திரைகளுடன் இளைஞன் ஒருவர் யாழ். மானிப்பாய் பொலிஸாரினால் ஞாயிற்றுக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சங்கானை பகுதியை சேர்ந்த 27 வயதுடைய இளைஞன் ஒருவரை பொலிஸார் சோதனையிட்ட போது, இளைஞனின் உடைமையில் இருந்து 25 போதை மாத்திரைகளை கைப்பற்றியுள்ளனர்.
+
+அதனை அடுத்து இளைஞனை கைது செய்து மானிப்பாய் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/159334e8.json)
+
+---
+
+### Four ISIS terrorists hailing from Sri Lanka arrested at Ahmedabad airport
+
+*2024-05-20 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-ISIS-terrorists-hailing-from-Sri-Lanka-arrested-at-Ahmedabad-airport/108-282971) · `en`
+
+India, May 20 (Hindustan Times) - The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad.
+
+The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive and intention behind their presence at the Ahmedabad airport is not clear.
+
+The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
+
+In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh. The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
+
+◼️
+
+[Data](articles/87f37a9f.json)
+
+---
+
+### ஈரான் ஜனாதிபதியின் மறைவு அதிர்ச்சிக்குரியது - மஹிந்த இரங்கல்
+
+*2024-05-20 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184039) · `ta`
+
+ஈரான் நாட்டு ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இரங்கல் தெரிவித்துள்ளார்.
+
+மஹிந்த ராஜபக்ஷ  இன்று திங்கட்கிழமை (20) ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவை கேள்வியுற்று இலங்கையில் உள்ள ஈரானிய தூதரகத்திற்கு சென்றுள்ளார்.
+
+அங்கு ஈரானிய தூதுவர் கலாநிதி அலிரேசா டெல்கோஷ் சந்தித்து இரங்கலை தெரிவித்ததோடு, இரங்கல் புத்தகத்தில் குறிப்பொன்றையும் பதிவிட்டுள்ளார்.
+
+ஹெலிக்கொப்டர் கோர விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும்  அவருடன் சென்ற பல மூத்த  அதிகாரிகள் உயிரிழந்தமை ஆழ்ந்த அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஜனாதிபதி ரைசி இலங்கையின் உண்மையான நண்பராக இருந்தார். ஈரான் மக்கள் மீது அவர் கொண்ட தலைமைத்துவமும் அர்ப்பணிப்பும் என்றும் நினைவுகூரப்படும்  என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b77d445c.json)
+
+---
+
+### Suspect arrested for sending over 100 persons to Russia on tourist visas
+
+*2024-05-20 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-sending-over-100-persons-to-Russia-on-tourist-visas/108-282970) · `en`
+
+Dehiwala, May 20 (Daily Mirror) - A person was arrested in Dehiwala for facilitating over 100 individuals to go to Russia on tourist visas, police said.
+
+The suspect was arrested by the Human Trafficking, Smuggling and Maritime Crime Investigation Division of the Criminal Investigation Department (CID).
+
+The suspect had reportedly assisted the individuals in obtaining tourist visas to Russia, while operating near the Russian embassy.
+
+Following interrogations, the suspect will be produced before court tomorrow.
+
+Investigations were initiated following reports of Sri Lankans being trafficked for participation in conflicts in the Russian and Ukrainian territories.
+
+Previously, several suspects were arrested by the Police and CID for allegedly trafficking Sri Lankans to Russia and Ukraine in recent weeks.
+
+◼️
+
+[Data](articles/592534bd.json)
+
+---
+
+### 49 kg of fish caught in the bait of fishermen
 
 *2024-05-20 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184033) · `ta`
 
-49 கிலோ நிறையுடைய நீல தூணா அல்லது உள்ளுரில் நீல ஹெலவள்ளா (ஹென்டா) மீன் சிக்கியுள்ளது.
+Fishermen catch 49kg of rare blue Helawalla (Henda) fish off Karadivu, valued for its size and color.
 
-காரைதீவு பகுதியில் இருந்து ஆழ்கடலில் மீன்பிடிக்குச் சென்ற மீனவர்களின் தூண்டிலில் இந்த நீல தூணா அல்லது உள்ளுரில் நீல ஹெலவள்ளா(ஹென்டா) என அழைக்கப்படும் பாரிய மீன்  சிக்கியுள்ளது.
+🟩
 
-பெரிய கண் மற்றும் நீல நிற வர்ணங்களை கொண்டுள்ள குறித்த மீன் அம்பாறை மாவட்டம் காரைதீவு பகுதியில் மீனவரின் தூண்டிலில் பிடிக்கப்பட்டுள்ளதுடன் 49 கிலோ நிறையுடைய குறித்த மீனை விற்பதற்கான முயற்சியில் மீனவர்கள் இறங்கியுள்ளனர்.
+49 kg of blue pillar or locally blue Helawalla (Henda) fish is caught.
 
-கடும் போராட்டத்திற்கு மத்தியில் பிடிக்கப்பட்ட குறித்த மீன் இனங்கள் 7 வகைகளாக பிரிக்கப்பட்டுள்ளதாகவும் யாவும் பெறுமதி மிக்கதாக உள்ளதாகவும் பாரிய மீன்களை கொள்வனவு செய்கின்ற நிறுவனங்களே இவ்வாறான மீன்களை அதிக விலை கொடுத்து வாங்குவதாகவும்  மீனவர்கள் குறிப்பிட்டனர்.
+The blue pillar or local fish, known as Helawalla (Henda), has been caught in the bait of fishermen who went fishing in the deep sea from Karadivu.
+
+The fish, which contains large eye and blue paints, has been caught in the Karativu area of Karadivu and the fishermen have embarked on an attempt to sell 49 kg of fish.
+
+The fishermen said that the fish that were captured amidst the fierce struggle were divided into seven categories and that they were valuable.
 
 ◼️
 
 [Data](articles/66af7ad4.json)
+
+[Extended Data](ext_articles/66af7ad4.ext.json)
+
+---
+
+### SLPP has not requested President to hold general elections first: Sagara Kariyawasam
+
+*2024-05-20 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-has-not-requested-President-to-hold-general-elections-first-Sagara-Kariyawasam/108-282969) · `en`
+
+Colombo, May 20 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) has not requested President Ranil Wickremesinghe to hold a general election first but only conveyed the opnion of the SLPP to the President, SLPP General Secretary Sagara Kariyawasam said today.
+
+"According to the law, dates for the presidential election is certain. President has powers to dissolve Parliament at any time after two and half years of its term.  The decision to dissolve Parliament is in the hand of the President. SLPP founder Basil Rajapaksa informed the President that it is better to hold the general election first. The President will take the decision. We are ready to face any election, may it be the Presidential, General, Local Government or Provincial Council election," he told a news conference.
+
+...
+
+[Data](articles/bf350451.json)
+
+---
+
+### පාකිස්තාන කාන්තාවක් හෙරොයින් සමග කටුනායක දී කොටුවෙයි
+
+*2024-05-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196821) · `si`
+
+රුපියල් හත් කෝටි තිස් පන් ලක්ෂයක් වටිනා හෙරොයින් තොගයක් සිය ගමන් මල්ලේ ව්‍යාජ පතුලක සඟවා ගෙන පැමිණි විදේශීය කාන්තාවක් අද (20) උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත්අඩංගුවට ගත්තේය.
+
+ඇය 57 හැවිරිදි පාකිස්තාන ජාතික කාන්තාවක් වන අතර ඇය ශ්‍රී ලංකාවේ සංචාරය සඳහා පැමිණෙන බව අඟවමින් මෙම හෙරොයින් මත්ද්‍රව්‍ය තොගය ගුවන් තොටුපොළෙන් පිටකර ගෙන යෑමට තැත්කර තිබේ.
+
+ඇය හෙරොයින් කිලෝ ග්‍රෑම් 02යි ග්‍රෑම් 450ක් රැගෙනවිත් තිබූ බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ ප්‍රකාශකවරයෙකු පැවසීය.
+
+◼️
+
+[Data](articles/6f04099c.json)
 
 ---
 
@@ -119,6 +243,22 @@ The two countries had signed five pacts during the visit, only the second since 
 [Data](articles/872bb3c0.json)
 
 [Extended Data](ext_articles/872bb3c0.ext.json)
+
+---
+
+### තැලසිමියා ළමුන් 2000ක්
+
+*2024-05-20 14:11:42* · [`adalk`](https://www.ada.lk/breaking_news/තැලසිමියා-ළමුන්-2000ක්/11-409740) · `si`
+
+තැලසීමියා රෝගයට ජාතික වශයෙන් ගෙනයන ව්‍යාපාරයක් නොමැති හෙයින් නව අධ්‍යක්ෂවරයෙක් යටතේ තැලසීමියා පිළිබද විශේෂ ජාතික ව්‍යාපාරයක් කඩිනමින් ආරම්භකරන බවත් , ජාතික තැලසීමියා කවුක්සිලයද  නැවත සක්‍රීය කරමින් ප්‍රතිකාර ‍හා පාළන කටයුතු ශක්තිමත් කිරීමට අවශ්‍ය කටයුතු කඩිනමින් සිදුකරන බවත්, සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+
+ඒ මහතා මේ බව අවධාරණය කරන ලද්දේ ජාත්‍යන්තර තැලසීමියා දිනයට සමගාමීව  සංවිධානය කරතිබූ ජාතික උත්සවයට සහභාගි වෙමිනි. මෙම ජාතික සැමරුම් උත්සවය ලංකා තැලසීමියා  සංවීධානය මගින් සංවිධානය කර තිබූ අතර එය පසුගිය දින කුරුනෑගල Bluesky හෝටලයේදී පැවැත්විණි.
+
+තැලසීමියා රෝග ප්‍රතිකාර හා අනෙකුත් කටයුතු සදහා මෙතෙක් සෞඛ්‍ය අමාත්‍යාංශයෙන් යම් මුදලක් වාර්ෂිකව වෙන් කලත් ඒ සදහා නිශ්චිත ක්‍රමවත්, වැඩපිලිවෙලක් තවමත් සකස් වී නොමැති බවය. එබැවින් ඉදිරියේදී මැලේරියා මර්ධන ව්‍යාපාරය වැනි ඇති කරනු ලබන නව ව්‍යාපාරය මගින් තැලසීමියා රෝග ප්‍රතිකාර, පාලන, ජනතාව දැනුම්වත් කිරීම වැනි කටයුතු ඇතුලුව අනෙකුත් කටයුතු විධිමත්ව, ගුණාත්මකව පවත්වාගෙන යාමට හැකියාව ඉන් ලැබෙන බවද කීය.
+
+...
+
+[Data](articles/2a2f3cc4.json)
 
 ---
 
@@ -2133,153 +2273,5 @@ Although the President was scheduled to inaugurate the Build Sri Lanka Expo 2024
 [Data](articles/15d65e40.json)
 
 [Extended Data](ext_articles/15d65e40.ext.json)
-
----
-
-### Seylan Bank appoints Justice Buwaneka Aluwihare as chairman
-
-*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/seylan-bank-appoints-justice-buwaneka-aluwihare-as-chairman/) · `en`
-
-Seylan Bank PLC has announced the appointment of Justice Buwaneka Aluwihare, PC, who is set to assume the role of chairman of the board, effective from 29 May 2024.
-
-The transition follows the retirement of the current chairman, Ravi Dias, who will complete his nine-year tenure as a director of the Bank on May 28, 2024, in accordance with the Banking Act Direction No. 11 of 2007 (Corporate Governance).
-
-Justice Aluwihare was appointed as an Independent, Non-Executive Director of Seylan Bank PLC in February 2024.
-
-Justice Aluwihare brings a wealth of experience and expertise in the legal and financial sectors, to his new role, having held various distinguished positions throughout his career.
-
-...
-
-[Data](articles/3ceff143.json)
-
-[Extended Data](ext_articles/3ceff143.ext.json)
-
----
-
-### Investors pumping funds into T-Bills and T-Bonds despite low yield rates
-
-*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/investors-pumping-funds-into-t-bills-and-t-bonds-despite-low-yield-rates/) · `en`
-
-The yield rates of T-Bills and T-Bonds showed a downward trajectory during the course of last week; nevertheless both these debt instruments were notably oversubscribed by investors.The weekly T-Bill auction was oversubscribed by 2 times and T-Bond auction was oversubscribed by 3.5 times during the reporting week.
-
-The total volume of secondary market transactions in T-Bills and T-Bonds increased by 4 per cent in the reporting week compared to the week before, according to the Central Bank of Sri Lanka.
-
-According to a press release issued by the Public Debt Department on 17th May 2024, the Treasury Bill issuance held on May 15th had been oversubscribed.
-
-“Rs. 17,750 million being the maximum aggregate amount offered was raised at phase II, from the Treasury bills at the Weighted Average Yield Rates of 9.04% and 9.43%, respectively, determined at the auction, out of the total market subscription of Rs. 96,970 million.
-
-...
-
-[Data](articles/a1a08fd1.json)
-
-[Extended Data](ext_articles/a1a08fd1.ext.json)
-
----
-
-### Orient Design clinches two awards at Asia Pacific Property Awards for interior design
-
-*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/orient-design-clinches-two-awards-at-asia-pacific-property-awards-for-interior-design/) · `en`
-
-Has delivered more than 100 projects since its inception in 2003
-
-Sri Lanka’s Orient Design Private Limited underscored its position as a leader in the global design sphere, bagging two prestigious new international awards for interior design. Orient Design is the winner of two awards at the Asia Pacific Property Awards 24-25 for Residential Interior Private Residence and Residential Interior Apartment. The Sri Lankan design house came out on top of these two categories out of over 800 applicants from across the Asia-Pacific Region.
-
-The award for Residential Interior Private Residence was won for designing spaces at a private house in Gower Street, Colombo, whilst the award for Residential Interior Apartment was won for the design of the Penthouse at the Cinnamon Life Hotel in Colombo.
-
-...
-
-[Data](articles/d0a5c475.json)
-
-[Extended Data](ext_articles/d0a5c475.ext.json)
-
----
-
-### Govt. revenue in January surge 62% on economic turnaround, higher taxes
-
-*2024-05-20 03:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-revenue-in-January-surge-62-on-economic-turnaround-higher-taxes/108-282928) · `en`
-
-The revenue to the government, including the grants, rose by a staggering 61.8 percent in January 2024. This is a result of the government raking in billions of rupees out of people’s pockets to appease the International Monetary Fund’s revenue targets.
-
-The government revenues and grants for January were Rs.283.19 billion, out of which Rs.257.57 billion was raised via taxes. This was 63.8 percent higher from the same period last year.
-
-The staggering increase in the tax revenues in January compared to the same month in 2023 was predominantly due to the recovering economy which was supported further by the 3 percent increase in the value added tax rate from January 1, 2024 onwards.
-
-Between then and now, there wasn’t a single other tax imposed or raised except for the value added tax, and hence the bulk of the growth in tax income came from the recovering economy due to the normalising foreign currency inflows.
-
-...
-
-[Data](articles/63a2c172.json)
-
-[Extended Data](ext_articles/63a2c172.ext.json)
-
----
-
-### Nihal Hettiarachchi and Company celebrates 40 years of excellence
-
-*2024-05-20 03:29:04* · [`dailyftlk`](https://www.ft.lk/business/Nihal-Hettiarachchi-and-Company-celebrates-40-years-of-excellence/34-762009) · `en`
-
-NHCo marked its 40th anniversary with an event held on 16 May at the newly constructed NHCo Upskill Centre in the presence of a gathering of some long-standing clients and NHCo alumni members who worked tirelessly to contribute to the success of the firm over the past four decades.
-
-It was a fitting occasion to reflect on NHCo’s remarkable journey, milestones, and enduring commitment in providing exceptional client services in accordance with our philosophies of achieving the right balance in everything we do. Established in 1984 under the visionary leadership of Nihal Hettiarachchi, NHCo’s humble beginnings have blossomed into a thriving firm of chartered accountants today.
-
-...
-
-[Data](articles/e2580170.json)
-
-[Extended Data](ext_articles/e2580170.ext.json)
-
----
-
-### World Bank to host roundtable on Advancing Energy Transition in Colombo
-
-*2024-05-20 03:25:38* · [`dailyftlk`](https://www.ft.lk/business/World-Bank-to-host-roundtable-on-Advancing-Energy-Transition-in-Colombo/34-762008) · `en`
-
-Power and Energy Minister Kanchana Wijesekera announced yesterday that the World Bank will organise a roundtable discussion on Advancing Energy Transition on May 29 in Colombo.
-
-Minister Wijesekera, via a post on X, noted that a preliminary discussion about the event took place last week with the World Bank team at the Ministry of Power and Energy.
-
-“The program will focus on attracting investments in the renewable energy sector, accelerating energy transition, green hydrogen programs, and scaling up private investments,” the Minister added.
-
-He also noted that the event will see the participation of energy and financial experts from development agencies, industry stakeholders, and officials from the relevant ministries.
-
-The roundtable is part of broader efforts to foster investment and innovation in renewable energy, ensuring a greener and more resilient energy future for the country.
-
-◼️
-
-[Data](articles/63e51257.json)
-
-[Extended Data](ext_articles/63e51257.ext.json)
-
----
-
-### Dedigama seeks Court intervention to protect famous ‘Dedigama’ trade name
-
-*2024-05-20 03:24:22* · [`dailyftlk`](https://www.ft.lk/business/Dedigama-seeks-Court-intervention-to-protect-famous-Dedigama-trade-name/34-762007) · `en`
-
-The Sri Lankan leader and pioneer in the pawn brokering and gold loan industry - Dedigama Group Ltd., represented by its legal representatives Sudath Perera Associates, has resorted to legal action against another entity engaging in the same pawn brokering and gold loan entity operating under an identical trade name.
-
-...
-
-[Data](articles/d876d68b.json)
-
-[Extended Data](ext_articles/d876d68b.ext.json)
-
----
-
-### Sri Lanka celebrates International Tea Day 2024 tomorrow
-
-*2024-05-20 03:23:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-celebrates-International-Tea-Day-2024-tomorrow/34-762006) · `en`
-
-As the world commemorates International Tea Day on May 21, Ceylon Tea stands proudly at the forefront, celebrating its rich heritage, unparalleled quality, and global significance.
-
-Renowned for its unique flavour profile and exquisite aroma, Ceylon Tea has captivated tea enthusiasts worldwide for generations. Originating from the lush hillsides of Sri Lanka, this beloved brew continues to enchant connoisseurs and novices alike, embodying a tradition of excellence that spans centuries.
-
-International Tea Day serves as a poignant reminder of the profound cultural and economic impact of tea on societies across the globe. From cherished moments of relaxation to bustling tea auctions, tea plays an integral role in fostering connections and enriching lives.
-
-...
-
-[Data](articles/2deacc9b.json)
-
-[Extended Data](ext_articles/2deacc9b.ext.json)
 
 ---

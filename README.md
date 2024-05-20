@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 13:03:30**
+As of **2024-05-20 13:18:21**
 
 ## Newspaper Stats
 
-*Scraped **25,153** Articles*
+*Scraped **25,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,444
 dailyftlk | 1,480
 adalk | 2,153
 adaderanalk | 2,909
-tamilmirrorlk | 2,942
+tamilmirrorlk | 2,945
 virakesarilk | 3,795
 dailymirrorlk | 3,950
 adaderanasinhalalk | 4,018
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,153 (100.0%) of 25,153 articles have been extended.
+25,153 (100.0%) of 25,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ஆழ்ந்த இரங்கல் தெரிவித்தார் ஜனாதிபதி
+
+*2024-05-20 12:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-இரங்கல்-தெரிவித்தார்-ஜனாதிபதி/175-337572) · `ta`
+
+ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர் அப்துல்லாஹியன் மற்றும் பிற மூத்த ஈரானிய அதிகாரிகளின் துயர மரணத்தால் இலங்கை ஆழ்ந்த அதிர்ச்சியும் வருத்தமும் அடைந்துள்ளது என்று ஜனாதிபதி ரணில் விக்ரமசிங்க X செய்தியில் தெரிவித்துள்ளார்.
+
+"அவர்களை இழந்து வாடும் குடும்பத்தினருக்கும், ஈரான் அரசாங்கத்திற்கும், மக்களுக்கும் எனது ஆழ்ந்த அனுதாபங்களையும், ஆழ்ந்த இரங்கலையும் தெரிவித்துக் கொள்கிறேன். எங்களது பிரார்த்தனைகள் ஜனாதிபதி ரைசி மற்றும் அவரது பரிவாரங்களின் குடும்பத்தினருடன்  இருக்கின்றன" என்று ஜனாதிபதி கூறினார்.
+
+◼️
+
+[Data](articles/8001cb92.json)
+
+---
+
+### இலங்கையின் தங்க முதுகுத் தவளை இந்தியாவில் கண்டுபிடிப்பு
+
+*2024-05-20 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-தங்க-முதுகுத்-தவளை-இந்தியாவில்-கண்டுபிடிப்பு/175-337570) · `ta`
+
+இலங்கைக்கு மட்டுமே சொந்தமானது என இதுவரை நம்பப்பட்ட தங்க முதுகு தவளை (Hylarana gracilis) இனம், இந்தியாவின் கிழக்குத் தொடர்ச்சி மலைகளில் தென்பட்டுள்ளது.
+
+ஹைதராபாத்தில் உள்ள இந்திய விலங்கியல் ஆய்வு மையத்தின் (ZSI) தீபா ஜெய்ஸ்வால், ஆந்திரப் பிரதேசத்தில் உள்ள கவுண்டினியா வனவிலங்கு சரணாலயத்தில் இந்த குறிப்பிடத்தக்க கண்டுபிடிப்பு நிகழ்ந்ததை உறுதிப்படுத்தினார்.
+
+ஹைதராபாத்தில் உள்ள ZSI இன் நன்னீர் உயிரியல் பிராந்திய மையம், மகாராஷ்டிராவின் புனேவில் உள்ள ZSI மேற்கு மண்டல மையம் மற்றும் ஆந்திரப் பிரதேச பல்லுயிர் வாரியம் ஆகியவற்றின் ஆராய்ச்சியாளர்கள் இந்த குறிப்பிடத்தக்க ஆய்வில் ஒத்துழைத்துள்ளனர்.
+
+சரணாலயத்திற்குள் உள்ள கவுனிதிம்மேபல்லிலுள்ள ஒரு சிறிய குளத்தின் அருகே ஈரமான, அழுகிய மரத்தடிக்கு பின்னால் ஒற்றை தங்க முதுகு தவளை மறைந்திருந்ததாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8bc39ff1.json)
+
+---
 
 ### Murderous killings in place
 
@@ -137,6 +169,24 @@ In 2016 a media briefing regarding the Koralagala Raja Maha Viharaya in 2016, a 
 [Data](articles/1ded1dfe.json)
 
 [Extended Data](ext_articles/1ded1dfe.ext.json)
+
+---
+
+### இலங்கை வருகிறார் எலோன் மஸ்க்
+
+*2024-05-20 11:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-எலோன்-மஸ்க்/175-337562) · `ta`
+
+தனது ஸ்டார்லிங்க் செயற்கைக்கோள் இணைய சேவையை தொடங்குவதற்காக இந்த ஆண்டு இலங்கைக்கு வருமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பை எலோன் மஸ்க் ஏற்றுக்கொண்டதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+ஜனாதிபதி விக்கிரமசிங்க, காலநிலை விவகாரங்கள் தொடர்பான தனது ஆலோசகர் ருவான் விஜேவர்தனவுடன் நேற்று இந்தோனேசியாவின் பாலியில் எலோனைச் சந்தித்து, புதுப்பிக்கத்தக்க எரிசக்தி, செயற்கை நுண்ணறிவு (AI) மற்றும் உலக அரசியல் உள்ளிட்ட பல்வேறு விடயங்கள் குறித்து கலந்துரையாடினார்.
+
+எவ்வாறாயினும், எலோனின் இலங்கை விஜயத்தின் சரியான திகதிகள் இன்னும் நிர்ணயிக்கப்படாததுடன் இலங்கை அரசாங்கம் எலோனின் குழுவுடன் தொடர்பு கொண்டு ஏற்பாடுகளை தீர்மானிக்கவுள்ளது.
+
+“இலங்கை எவ்வாறு ஒப்புதல் செயல்முறையை விரைவுபடுத்துகிறது என்பதைப் பொறுத்தே, அது முடிந்தவுடன், Starlink ஐ அறிமுகப்படுத்த எலோன் இலங்கைக்கு வருவார். இந்த ஆண்டின் இறுதியில் அவர் இலங்கைக்கு வருவார் என்று தற்காலிகமாக விவாதிக்கப்பட்டது" என்று தகவலறிந்த வட்டாரம் தெரிவித்தது.
+
+...
+
+[Data](articles/338456e1.json)
 
 ---
 
@@ -2185,93 +2235,5 @@ The Foreign Affairs Ministry of the Islamic Republic of Iran has issued a stat
 [Data](articles/4f6b18d5.json)
 
 [Extended Data](ext_articles/4f6b18d5.ext.json)
-
----
-
-### Iran helicopter crash: Iranian president's helicopter found
-
-*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Iranian-president-s-helicopter-found/155-282938) · `en`
-
-The Iranian president's helicopter has been found, state media has reported.
-
-It said Ebrahim Raisi's chopper was discovered by search and rescue teams.
-
-It has not detailed where it was found, or if any survivors have been located.
-
-23.36 - 'There will be no disturbances' - Iran's supreme leader seeks to reassure public
-
-Iranian Supreme Leader Ayatollah Ali Khamenei has sought to reassure the public following the helicopter crash involving Ebrahim Raisi.
-
-"We hope that God the almighty returns the dear president and his colleagues in full health to the arms of the nation," he told state TV.
-
-23.22 - Contact made with passenger and crew member, says Iranian official
-
-Contact has been made with a passenger and a crew member of the Iranian president's helicopter, an official has told state TV.
-
-The unnamed official said contact has been made on several occasions.
-
-23.15 - European Commission activates satellite mapping service to help search for Raisi
-
-...
-
-[Data](articles/519bfe1e.json)
-
-[Extended Data](ext_articles/519bfe1e.ext.json)
-
----
-
-### Iran helicopter crash: President Ebrahim Raisi dies
-
-*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-dies/155-282938) · `en`
-
-Ayatollah Ali Khamenei has posted a tribute to President Ebrahim Raisi following his death in a helicopter crash.
-
-In a post on X, the supreme leader posted a photo of him and Raisi with a brief message referring to Imam Reza, the eighth imam of Shia Islam and a revered figure in Iran.
-
-Raisi’s remains are now being transported to the city of Tabriz.
-
-Bell Helicopter (now Bell Textron) developed the aircraft in the late 1960s as an upgrade of the original UH-1 Iroquois for the Canadian military.
-
-The new design used two turboshaft engines instead of one, giving it greater carrying capacity.
-
-According to US military training documents, the helicopter was introduced in 1971 and quickly adopted by both the United States and Canada.
-
-The craft is designed to carry aerial firefighting gear and cargo and to mount weapons.
-
-This particular helicopter had been reconfigured to carry 15 people, including a pilot.
-
-Sanctions have made it difficult for Iran to obtain parts or new aircraft.
-
-...
-
-[Data](articles/7b06d283.json)
-
-[Extended Data](ext_articles/7b06d283.ext.json)
-
----
-
-### Iran helicopter crash: Rescuers find President Raisi’s aircraft
-
-*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Rescuers-find-President-Raisis-aircraft/155-282938) · `en`
-
-Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
-
-08.17 - Iranian official says 'expectations low' for president to be alive as rescuers locate helicopter - report
-
-Reuters news agency reports that an Iranian official has said "expectations are low" that the Iranian president will be found alive after his helicopter crashed.
-
-Rescuers have located the aircraft that was carrying Ebrahim Raisi, an official has told Iranian state television.
-
-The head of the Iranian Red Crescent Society, Pir Hossein Kolivand, said rescue teams were around 1.25 miles away from the crash site.
-
-06.47 - Turkish drone locates heat source in Iranian mountains
-
-A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
-
-...
-
-[Data](articles/ba7924ea.json)
-
-[Extended Data](ext_articles/ba7924ea.ext.json)
 
 ---

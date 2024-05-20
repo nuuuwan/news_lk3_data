@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 12:05:56**
+As of **2024-05-20 12:18:34**
 
 ## Newspaper Stats
 
-*Scraped **25,144** Articles*
+*Scraped **25,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,152
+adalk | 2,153
 adaderanalk | 2,909
 tamilmirrorlk | 2,942
 virakesarilk | 3,795
-dailymirrorlk | 3,948
-adaderanasinhalalk | 4,017
+dailymirrorlk | 3,950
+adaderanasinhalalk | 4,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,140 (100.0%) of 25,144 articles have been extended.
+25,144 (100.0%) of 25,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### තැන තැන සිදුවන මනුෂ්‍ය ඝාතන
+
+*2024-05-20 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196813) · `si`
+
+රත්නපුර සහ ලුණුගල යන ප්‍රදේශවලදී මනුෂ්‍ය ඝාතන දෙකක් සිදුකර තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ, රත්නපුර දොඩම්පේ ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කර ඇති බවය.
+
+සිය බාප්පා සමග ඇතිවූ ආරවුලක් දුරදිග යාම හේතුවෙන් ඔහු විසින් තියුණු ආයුධයකින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+මියගොස් ඇත්තේ 32 හැවිරිදි දොඩම්පේ ප්‍රදේශයේ පදිංචිව සිටි අයෙකු බව සඳහන්ය.
+
+ඝාතනයට සම්බන්ධ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා රත්නපුර පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+මේ අතර ලුණුගල ජනතාපුර ප්‍රදේශයේ දී සිය සැමියා විසින් බිරිඳ ඝාතනය කර තිබේ.
+
+පවුල් ආරවුලක් හේතුවෙන් ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+මියගොස් ඇත්තේ 36 හැවිරිදි ජනතාපුර ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවක් බව සඳහන්ය.
+
+ඝාතනයට සම්බන්ධ සැකකාර සැමියා ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා ලුණුගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/2004e77a.json)
+
+---
 
 ### Warning issued for very heavy showers
 
@@ -48,6 +76,20 @@ The general public, fishing and naval community are kindly requested to take ade
 
 [Data](articles/3619602a.json)
 
+[Extended Data](ext_articles/3619602a.ext.json)
+
+---
+
+### Crash site of Iranian president’s helicopter
+
+*2024-05-20 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Crash-site-of-Iranian-presidents-helicopter/110-282961) · `en`
+
+Scenes of the crash site where the Iranian president, foreign minister and other occupants of the helicopter, including East Azerbaijan Province Governor Malek Rahmati were killed.Pix Courtesy AFP, Reuters
+
+◼️
+
+[Data](articles/3084a5f6.json)
+
 ---
 
 ### Who is Mohammad Mokhber, the man set to become Iran’s interim president?
@@ -63,6 +105,22 @@ The general public, fishing and naval community are kindly requested to take ade
 ...
 
 [Data](articles/6799f03a.json)
+
+[Extended Data](ext_articles/6799f03a.ext.json)
+
+---
+
+### ඥානසාර හිමිට සමාව ලබාදෙන මහනාහිමිවරු ජනාධිපතිගෙන් ඉල්ලති
+
+*2024-05-20 11:23:46* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-සමාව-ලබාදෙන-මහනාහිමිවරු-ජනාධිපතිගෙන්-ඉල්ලති/11-409733) · `si`
+
+ගලගොඩඅත්තේ ඤාණසාර ස්ථවීරයන්ට ජනාධිපති සමාව ලබාදෙන ලෙස ඉල්ලමින් ත්‍රෛනිකායික මහා නායක ස්වාමින්ද්‍රයන් වහන්සේලා ජනපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමුකර තිබේ.
+
+ජාතීන් අතර අසමඟිය ඇතිවන ආකාරයෙන් කටයුතු කරන ලදැයි වරදකරු කොට වසර හතරක සිර දඬුවමකට ලක්ව සිටින ගලගොඩඅත්තේ ඤාණසාර ස්ථවීරයන්ට ජනාධිපත් සමාව ලබාදෙන ලෙස මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල, අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඤාණරතන, ශ්‍රී ලංකා අමරපුර මහා නිකායේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති, ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ මහා නායක අතිපූජ්‍ය මකුලෑවේ විමල යන මහනායක ස්වාමින්ද්‍රයන් වහන්සේලා ගේ අත්සනින් ජනපතිවරයා වෙත යොමු කර ඇත.
+
+...
+
+[Data](articles/1ded1dfe.json)
 
 ---
 
@@ -101,6 +159,24 @@ Accordingly, the debate between the two leaders can be held on June 3, 4, 5, 6 o
 [Data](articles/2147bd30.json)
 
 [Extended Data](ext_articles/2147bd30.ext.json)
+
+---
+
+### Elon Musk to visit Sri Lanka this year to launch Starlink
+
+*2024-05-20 11:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elon-Musk-to-visit-Sri-Lanka-this-year-to-launch-Starlink/108-282959) · `en`
+
+Colombo, May 20 (Daily Mirror)-  Elon Musk has accepted an invitation by President Ranil Wickremesinghe to visit Sri Lanka this year to launch his Starlink satellite internet service, the Daily Mirror learns.
+
+President Wickremesinghe, accompanied by his advisor on climate affairs Ruwan Wijewardene, met Elon in Bali, Indonesia yesterday and discussed a host of topics including renewable energy, Artificial Intelligence (AI) and world politics.
+
+However, the exact dates of Elon's visit to Sri Lanka have not yet been fixed and the Sri Lankan government will be in touch with Elon's team to finalize the arrangements.
+
+“It all depends on how Sri Lanka expedites the approval process and as soon as it is done, Elon will arrive in Sri Lanka to launch Starlink. Tentatively it was discussed that he will arrive in Sri Lanka at the end of the year," the source said.
+
+...
+
+[Data](articles/94f68664.json)
 
 ---
 
@@ -438,23 +514,37 @@ The government has decided to send a senior senior officer of the Foreign Servic
 
 ---
 
-### කුඹුක්කන් ඔයේ දිය නෑමට ගිය කාන්තාවක් ඝාතනයට ලක්වේ - සැකකාර සැමියා ප්‍රදේශයෙන් පළා ගිහින්
+### Woman killed in Kumbukkan Oya
 
 *2024-05-20 09:37:55* · [`adalk`](https://www.ada.lk/breaking_news/කුඹුක්කන්-ඔයේ-දිය-නෑමට-ගිය-කාන්තාවක්-ඝාතනයට-ලක්වේ---සැකකාර-සැමියා-ප්‍රදේශයෙන්-පළා-ගිහින්/11-409732) · `si`
 
-කුබුක්කන් ඔයේ දියනෑමට ගොස් ඝාතනයට ලක්වූ දෙදරු මවකගේ මළසිරුරක් ඊයේ (19) පස්වරුවේ ලුණුගල කුබුක්කන් ඔයේ තිබියදී හමුවූ බව ලුණුගල පොලිසිය පවසයි .
+A woman from Lunugala was found dead in Kumbukkan Oya, reportedly due to a family dispute. She was identified as Conday, a mother of two. Her body showed signs of severe facial injuries. Police suspect foul play but no arrests have been made yet.
 
-ලුණුගල ජනතාපුර තුබහිටියවත්ත ප්‍රදේශයේ පදිංචිව සිටි වර්ණසූරියගේ  සුමිත්‍රා දමයන්ති (36) නැමති  දෙදරු මවක් මෙසේ  ඝාතනයට ලක්වී ඇතැයි පොලිසිය කීය ..
+🟩
 
-මැය සිය නිවස අසල පහලින් පිහිටි කුඹුක්කන් ඔයේ  දියනෑමට ඊයේ (19) පස්වරුවේ ගොස් ඇති බවත් , එම අඅවස්ථාවේ ඇයගේ 17 හැවිරිදි දියණිය සහ 12 හැවිරිදි පුතා නිවසේ සිට ඇති බවත් පොලිසිය පැවසීය .
+The body of Lunagala was found in the Kubukkan Oya yesterday evening yesterday (19) at the Kubukkani's daughter-in Kubukkani yesterday (19).
 
-මෙසේ ඇය  කුඹුක්කන් ඔයේ දියනෑමට ගොස් සිටියදී කිසිවෙකු විසින් මැයට පහරදී ඝාතනය කර ඇති බවත් , මළසිරුර කුඹුක්කන් ඔයේ මුනින් අතට හැරී වැටී තිබියදී පොලිසිය සොයා ගෙන ඇත.
+Conday a mother of two 36 persons, a resident of Lunugala, the police said.
 
-මැයගේ  මුහුණට , හිසට නළලට බරපතළ තුවාල සිදු ව තිබූ බවත්  මුඛයේ දත් කීපයක් කැඩි ගොස් තිබිණැයි පොලිසිය සදහන් කළේය .මෙම කාන්තාව සහ ඇයගේ සැමියා අතර කාලයක පටන් පවුල් ආරවුලක් තිබී ඇති බවත් , අවස්ථා කීපයකදී  එම ආරවුල සම්බන්ධයෙන් පොලිසිය ටද පැමිණ ඇතැයි පොලිසිය පවසයි .
+The police said that he had gone to Kumbukkan Oya near his home.
 
-...
+The police have found the police while she had been assassinated by Kumbukkan Oya.
+
+Police said that the forest was seriously injured in the face, and a few mouth teeth had had a broken family dispute.
+
+After the woman's murder, the police suspect that he had fled the area where the husband was working as a driver.
+
+Passara Magistrate Udari Sampath Gunatilake yesterday (19); The incident went to the scene and conducted the magistrate test.
+
+The body was sent to Badulla Teaching Hospital and conducted the post mortem and submit medical reports to the courts.
+
+No arrests have been arrested so far and the police are conducting further investigations.
+
+◼️
 
 [Data](articles/a33ae52f.json)
+
+[Extended Data](ext_articles/a33ae52f.ext.json)
 
 ---
 
@@ -546,23 +636,29 @@ Raisi was elected president in 2021 and, under the current timetable, presidenti
 
 ---
 
-### ඉරාන ජනපති ඇතුළු පිරිස මිය ගිය බව තහවුරු කරයි
+### Iran's President and others killed
 
 *2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ඇතුළු-පිරිස-මිය-ගිය-බව-තහවුරු-කරයි/11-409731) · `si`
 
-ඉරාන ජනපතිවරයා මිය යාම තහවුරු විමත් සමගින් ඉරාන උප ජනාධිපති මොහොමඩ් මුඛ්බෙර් මහතාගේ ප්‍රධානත්වයෙන් එරට රජයේ කැබිනට් මණ්ඩලයේ විශේෂ රැස්විමක් පවත්වා තිබේ.
+Iran confirms all aboard crashed helicopter dead; no survivors found in East Azerbaijan crash involving VP Mohammed Hybrids and other officials.
 
-ඉරාන ජනපති ඇතුළු  පිරිසක් ගමන් කරමින් තිබූ හෙලිකොප්ටරය අනතුරට පත්විමෙන් එහි ගමන් කළ සියලු දෙනා ජිවිතක්ෂයට පත්ව ඇති බව ඉරානය නිල වශයෙන් තහවුරු කළේය.
+🟩
 
-ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා හා විදේශ කටයුතු අමාත්‍ය හුසෙන් අමිර් ඇතුළු පිරිසක් ගමන් කරමින් සිටියදි හොලිකොප්ටර් යානය අනතුරට පත්වූ ප්‍ර දේශය වෙත ගලවා ගැනිමේ කණ්ඩායම් මේ වන විට ළඟා වි ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+Iranian Vice President Mohammed Hybrids have held a special meeting of the government's cabinet.
 
-අනතුරින් දිවි ගලවාගත් මගින් පිළිබඳව කිසිම සලකුණක් නොමැති බවද වාර්තා වෙයි.
+Iran officially confirmed that everyone who was traveling in the helicopter where the helicopter, which was traveling in the jail, was killed.
 
-නැගෙනහිර අසර්බයිජානයේ ඝන වනාන්තර ප්‍ර දේශයකට මෙම හෙලිකොප්ටර් යානය කඩා වැටි තිබුණි.
+The Iranian media reports that the holispers of the Holyponed to the area where the Iranian Minister was traveling with the President of Iranian and Minister of External Affairs.
+
+It is reported that there is no sign on survivors.
+
+The helicopter was broken into a dense forest population in East Azerbaijan.
 
 ◼️
 
 [Data](articles/6e2a4be7.json)
+
+[Extended Data](ext_articles/6e2a4be7.ext.json)
 
 ---
 
@@ -1990,19 +2086,17 @@ The unnamed official said contact has been made on several occasions.
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-dies/155-282938) · `en`
 
+11.33 - Vice President Mohammad Mokhber will assume powers after Raisi’s death.
+
+According to the Iranian Constitution, in case of the president’s death or incapacity, the first vice president will take over until an election is held within a maximum period of 50 days.
+
+11.05 - Who are the other officials killed in the helicopter crash?
+
+Several senior Iranian officials were also killed alongside Raisi in the helicopter crash in the Dizmar forest, located between the cities of Varzaqan and Jolfa in East Azerbaijan province.
+
+Representative of the Iranian supreme leader in East Azerbaijan Mohammad Ali Ale-Hashem
+
 Iran's government convened an "urgent meeting" on Monday following the announcement that President Ebrahim Raisi and the country's foreign minister were among those who died in a helicopter crash, according to Iranian state news agency IRNA.
-
-The chair that Raisi usually sits in was vacant, and was draped with a black sash in memory of the president, according to a photo shared by state news.
-
-The timing and details of a mourning procession will be announced in the future, state media FARS News Agency reported.
-
-09.40 - Mehr News Agency says Raisi, Amirabdollahian killed in crash
-
-The semi-official news agency reports that the Iranian president, foreign minister and other occupants of the helicopter, including East Azerbaijan Province Governor Malek Rahmati, have been “martyred”.
-
-There is still no official confirmation that Raisi is dead, but medics have said that they found “no signs” of life at the crash site.
-
-09.26 - Rescue teams pictured during search for president's helicopter
 
 ...
 
@@ -2123,103 +2217,5 @@ James Constantinou, who became a hit on the Channel 4 series ‘Posh Pawn’, wi
 [Data](articles/705e37ef.json)
 
 [Extended Data](ext_articles/705e37ef.ext.json)
-
----
-
-### . Iran's president cannot find the helicopter traveled - Iranian media reports
-
-*2024-05-19 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/183984) · `ta`
-
-Iran's President Ibrahim Raisi lost his helicopter due to bad weather conditions, causing it to crash. The rescue helicopter dispatched returned empty-handed. The incident occurred during a trip to Iran's East Azerbaijan province, accompanied by the Foreign Minister.
-
-🟩
-
-Iranian President Ibrahim Raisi is unable to find the helicopter traveling
-
-There is a bad weather in the area where the helicopter crashed- Iran reports that rain and heavy snowfall is seen in a particular area.
-
-According to reports, the helicopter sent for rescue has returned to the president's helicopter.
-
-Iran's state media reports that the helicopter who traveled to the Iranian president has landed in a distant area.
-
-Iranian media reports that Iran's Foreign Minister has also been traveling with Iran's East Azerbaijan province of Iran.
-
-Iranian officials said the helicopter was rushing to the landing area.
-
-◼️
-
-[Data](articles/5e82ed4d.json)
-
-[Extended Data](ext_articles/5e82ed4d.ext.json)
-
----
-
-### All schools in Puttalam District to remain closed tomorrow
-
-*2024-05-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99322/all-schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
-
-All schools in the Puttalam district will be closed on Monday (May 20) due to the adverse weather conditions.
-
-This decision has been taken by the Governor of the North-Western Province in consideration of the prevailing inclement weather.
-
-It has been informed that a decision on the subsequent days would be taken according to the weather condition tomorrow and that the Chief Secretary of the North Western Province has informed the Provincial Education Director regarding this decision.
-
-◼️
-
-[Data](articles/11754ca6.json)
-
-[Extended Data](ext_articles/11754ca6.ext.json)
-
----
-
-### Due to random weather for Puttalam district schools
-
-*2024-05-19 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183983) · `ta`
-
-Puttalam district schools closed on Monday due to bad weather; future closures based on forecasts.
-
-🟩
-
-The North Western Provincial Governor's Office has decided to close all schools in the Puttalam district on Monday (20) due to inclement weather.
-
-He added that the upcoming days will be decided in accordance with the upcoming weather.
-
-It is noteworthy that the Chief Secretary of the North Western Province and the Provincial Director of Education have been informed.
-
-◼️
-
-[Data](articles/7a0646b3.json)
-
-[Extended Data](ext_articles/7a0646b3.ext.json)
-
----
-
-### Hyderabad won the last match by 4 wickets;Vyaskant took the first wicket in IPL
-
-*2024-05-19 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183982) · `ta`
-
-Sunrisers Hyderabad clinched a 4-wicket win over Punjab Kings in the IPL, advancing to second place with 17 points. Key performances included Abhishek Sharma's 66 runs and Travis Head's early dismissal.
-
-🟩
-
-Sunrisers Hyderabad won by 4 wickets in the 69th match between Punjab Kings and Sunrisers Hyderabad in the Hyderabad Rajiv Gandhi Stadium as the league round of the 17th Indian Premier League chapter ends today.
-
-With this victory, Sunrisers Hyderabad advanced to second place with 17 points.
-
-However, if Rajasthan Royals wins the match with Kolkata Knight Riders, they will go back to second place.
-
-Sunrisers Hyderabad has already confirmed the Playing opportunity and the Punjab Kings lost that opportunity.
-
-Jaffna played in his second match on behalf of Sunrisers Hyderabad. Sri Lankan and Sri Lankan Vijayakanth Vyaskant took one wicket for 37 runs.
-
-Punjab Kings, who decided to bat first, scored 214 runs for the loss of 5 wickets in 20 overs.
-
-Three of the leading soldiers and a middle -class player were effectively bowled out and strengthened the total number of Punjab Kings.
-
-...
-
-[Data](articles/e24951d0.json)
-
-[Extended Data](ext_articles/e24951d0.ext.json)
 
 ---

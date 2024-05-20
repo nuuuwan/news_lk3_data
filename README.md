@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 23:53:23**
+As of **2024-05-21 00:05:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,283 (100.0%) of 25,284 articles have been extended.
+25,284 (100.0%) of 25,284 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,8 @@ It also urged all the state institutions have to hoist the national flag half ma
 ...
 
 [Data](articles/0008f088.json)
+
+[Extended Data](ext_articles/0008f088.ext.json)
 
 ---
 

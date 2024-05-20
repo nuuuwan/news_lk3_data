@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 01:33:50**
+As of **2024-05-21 01:52:19**
 
 ## Newspaper Stats
 
-*Scraped **25,284** Articles*
+*Scraped **25,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,480
+dailyftlk | 1,483
 adalk | 2,169
 adaderanalk | 2,925
-tamilmirrorlk | 2,954
+tamilmirrorlk | 2,955
 virakesarilk | 3,822
 dailymirrorlk | 3,971
 adaderanasinhalalk | 4,043
@@ -26,9 +26,71 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,284 (100.0%) of 25,284 articles have been extended.
+25,284 (100.0%) of 25,288 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-21 (Tuesday)
+
+### Complete MEP Services by Hayleys Fentons for Vallibel Finance new corporate office in Colombo 03
+
+*2024-05-21 01:38:17* · [`dailyftlk`](https://www.ft.lk/business/Complete-MEP-Services-by-Hayleys-Fentons-for-Vallibel-Finance-new-corporate-office-in-Colombo-03/34-762030) · `en`
+
+Vallibel Finances new corporate office and installations by Hayleys Fentons
+
+Vallibel Finance’s new corporate office in Colombo 3 stands tall as a symbol of innovation and efficiency, thanks to the expertise of Hayleys Fentons, Sri Lanka’s premier MEP contractor. Spanning 16 floors on a 42-perch plot, this cutting-edge building boasts state-of-the-art MEP installations for a new 110,000-square-foot corporate space.
+
+This project by Hayleys Fentons was successfully completed by providing specialised installations, such as a modern Fire Protection and Detection System, and integrating cutting-edge technology for the building’s Chiller Management System (CMS).
+
+...
+
+[Data](articles/23d20533.json)
+
+---
+
+### Munchee secures coveted No. 1 spot in LMD’s Most Loved Product Brands ranking
+
+*2024-05-21 01:33:19* · [`dailyftlk`](https://www.ft.lk/business/Munchee-secures-coveted-No-1-spot-in-LMD-s-Most-Loved-Product-Brands-ranking/34-762029) · `en`
+
+Munchee, the flagship brand of Ceylon Biscuits Ltd. (CBL), has once again triumphed as the nation’s most cherished product brand, as announced by LMD’s Brands Annual Ranking 2024. Garnering the prestigious No. 1 position in the ‘Most Loved Product Brands’ category, Munchee reaffirms its status as a symbol of Sri Lankan pride and excellence.
+
+Since its inception, Munchee has remained dedicated to delighting consumers with an array of confectionary products that seamlessly blend global flavours with the rich essence of Sri Lankan culture. This recognition by LMD underscores the enduring love and trust that the brand has earned from consumers across the nation. Munchee also exports to 69 countries worldwide, showcasing its robust global reach and commitment to quality. Munchee’s global presence extends beyond exports, with established manufacturing footprints in key locations such as Ghana and Bangladesh, enhancing efficiency and accessibility for its diverse consumer base.
+
+...
+
+[Data](articles/60f2b712.json)
+
+---
+
+### SLPA holds talks with US State Department officials
+
+*2024-05-21 01:31:54* · [`dailyftlk`](https://www.ft.lk/business/SLPA-holds-talks-with-US-State-Department-officials/34-762028) · `en`
+
+Under the Maritime Administration program for Sri Lanka Ports Authority (SLPA) employees, executed by the Colombo Plan and funded by the US State Department, an official visit to the United States was recently organised. During the visit, the Sri Lankan port delegation met with US State Department officials, including Bureau of South and Central Asian Affairs Deputy Assistant Secretary Afreen Akhter. Seen here, Ministry of Ports, Shipping and Aviation Secretary K.D.S. Ruwanchandra, SLPA Chairman Keith D. Bernard, Colombo Plan Lead Consultant Rohan Masakorala, Grants Officer Representative Adam Thibault, along with other SLPA and Colombo Plan officials.
+
+◼️
+
+[Data](articles/0f358a4a.json)
+
+---
+
+### ’ஈரான் ஜனாதிபதியின் மறைவு அதிர்ச்சிக்குரியது’
+
+*2024-05-21 01:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதியின்-மறைவு-அதிர்ச்சிக்குரியது/175-337609) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இரங்கல் தெரிவித்துள்ளார்.
+
+மஹிந்த ராஜபக்ஷ இப்ராஹிம் ரைசியின் மறைவை கேள்வியுற்று நேற்று இலங்கையில் உள்ள ஈரானிய தூதரகத்திற்கு சென்றுள்ளார்.
+
+அங்கு ஈரானிய தூதுவர் அலிரேசா டெல்கோஷ் சந்தித்து இரங்கலை தெரிவித்ததோடு, இரங்கல் புத்தகத்தில் குறிப்பொன்றையும் பதிவிட்டுள்ளார்.
+
+ஹெலிக்கொப்டர் கோர விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் அவருடன் சென்ற பல மூத்த  அதிகாரிகள் உயிரிழந்தமை ஆழ்ந்த அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஜனாதிபதி ரைசி இலங்கையின் உண்மையான நண்பராக இருந்தார். ஈரான் மக்கள் மீது அவர் கொண்ட தலைமைத்துவமும் அர்ப்பணிப்பும் என்றும் நினைவுகூரப்படும் என குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/3305c140.json)
+
+---
 
 ### 2024-05-20 (Monday)
 
@@ -2207,97 +2269,5 @@ Accordingly, prison officials in Welikada, Galle and Matara prison officers have
 [Data](articles/aabbd8ac.json)
 
 [Extended Data](ext_articles/aabbd8ac.ext.json)
-
----
-
-### A letter to the President to pardon Ven. Galagodaatte Gnanasara
-
-*2024-05-20 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196817) · `si`
-
-The Chief Prelate requests the President to pardon Ven. Galagodaatte Gnanasara, highlighting his efforts in promoting Sinhala Buddhist nationalism and advising on counter-extremism strategies.
-
-🟩
-
-The Chief Prelimic Mahanayaka Thera has made a written request from the President to give Presidential pardon to Ven. Punishment of Ven.
-
-He demanded that the Vesak Filling Park, wrap the Gnanasara Thera to pardon.
-
-Rev.. The article states ...
-
-"Ven. Galagoda Aththe Gnanasara Thero was cautious for the Sinhala Buddhist nationalism in Sri Lanka recently, while taking measures to educate security forces in some extreme extremist activities in the society.. It is no secret to the security forces to prevent certain extremist forces who have gone to the expansion in Sri Lanka. Also, Galagodaatte Gnanasara Thera has provided the necessary recommendations on the need to establish a public legal system in the country, holding 'one country Task Force' as the Chairman of the President.. It is evident that the fort is the intention of national unity and social support.. As facts, the Hon. The Hon.
-
-◼️
-
-[Data](articles/092c53ba.json)
-
-[Extended Data](ext_articles/092c53ba.ext.json)
-
----
-
-### Businessman remanded again
-
-*2024-05-20 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196816) · `si`
-
-A businessman suspected of assaulting an Iranian ambassador and a priest in Colombo was remanded until April 22nd after appearing in court.
-
-🟩
-
-The businessman who was arrested on suspicion of assaulting Iranian Ambassador in Colombo in a priest in Colombo was presented to court today (20).
-
-The Fort Magistrate ordered that the suspect is remanded again until the 22nd of this month.
-
-◼️
-
-[Data](articles/0a9284e0.json)
-
-[Extended Data](ext_articles/0a9284e0.ext.json)
-
----
-
-### Notice to drivers on highway
-
-*2024-05-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196815) · `si`
-
-Drivers on the Expressway should maintain a speed of 60 km/h due to adverse weather affecting 19,234 people across seven districts. Heavy rainfall expected in several provinces may lead to landslides in areas like Badulla, Colombo, Kalutara, Kandy, Kegalle, and Ratnapura.
-
-🟩
-
-With the inclement weather conditions, drivers have been given specialized to drivers on the Expressway.
-
-According to the Road Development Authority (RA) The Road Development Authority (RA) has said that they maintain the driving speed at 60 km.
-
-A total of 19,234 of 19,234 in seven districts in Anuradhapura, Ratnapura, has been affected due to rain conditions.
-
-32 houses have been partially damaged and 1,140 people in 37 families have been subjected to safety places.
-
-Heavy showers over the next 24 hours of the Western and North Western Provinces will continue in the next 24 hours in the Western and North Western Provinces.
-
-Heavy showers over 100 mm / mm in the Sabaragamuwa Provincial Council, Galle, Matara, Nuwara Eliya and Mannar can be held today.
-
-Landslides are further impacted for the Badulla, Colombo, Kalutara, Kandy, Kegalle and Ratnapura districts due to the high rains.
-
-◼️
-
-[Data](articles/38d60291.json)
-
-[Extended Data](ext_articles/38d60291.ext.json)
-
----
-
-### Prison officials struggle
-
-*2024-05-20 13:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-அதிகாரிகள்-போராட்டம்/175-337575) · `ta`
-
-Prison staff demand a pay raise, leading to a sick day announcement.
-
-🟩
-
-It is noteworthy that the prison authorities have announced this sick holiday demanding a salary increase.
-
-◼️
-
-[Data](articles/7234bb7e.json)
-
-[Extended Data](ext_articles/7234bb7e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 08:33:53**
+As of **2024-05-20 08:52:40**
 
 ## Newspaper Stats
 
-*Scraped **25,092** Articles*
+*Scraped **25,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 225
 bbccomsinhala | 253
 dbsjeyarajcom | 257
 newsfirstlk | 363
-islandlk | 1,353
+islandlk | 1,361
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,145
@@ -20,51 +20,79 @@ adaderanalk | 2,901
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
 dailymirrorlk | 3,939
-adaderanasinhalalk | 4,011
+adaderanasinhalalk | 4,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,090 (100.0%) of 25,092 articles have been extended.
+25,092 (100.0%) of 25,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### සපුගස්කන්ද තෙල් පිරිපහදුවේ සේවකයින්ගේ රැකියා අවදානමේ
+### ඉරාන ජනපති ගමන් කළ හෙළිකොප්ටරය කඩාවැටුණු තැන සොයාගනී
+
+*2024-05-20 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196807) · `si`
+
+ජීවිත ආරක්ෂක කණ්ඩායම් විසින් ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි සමග අනතුරට ලක්වූ හෙළිකොප්ටර් යානය වැටුණු ස්ථානය සොයාගෙන ඇති බව ඉරාන රාජ්‍ය රූපවාහිනිය නිවේදනය කරයි.
+
+මේ අතර ඉරාන රතු අඩසඳ සමාජයේ ප්‍රධානියා සඳහන් කර ඇත්තේ, වාතාවරණය 'යහපත් නොවන' බවය.
+
+ඉරාන ජනාධිපතිවරයා, ජීවිතුන් අතර සිටිනවා ද? නැද්ද? යන්න පිළිබඳ මෙතෙක් නිශ්චිතව ප්‍රකාශ කළ නොහැකි බවද විදෙස් වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/6306bbb0.json)
+
+---
+
+### Employment of Employment at Sapugaskanda Oil Refinery
 
 *2024-05-20 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196806) · `si`
 
-සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු ව්‍යවසායක් බවට පරිවර්ථනය කිරීමේ දී එහි සේවකයින් 650කට අධික පිරිසකගේ රැකියා අහිමි වීමේ අවදානමක් පවතින බව වාර්තා වේ.
+Sapugaskanda Oil Refinery transitions from private to state-owned, affecting over 650 employees but planning to hire 200 new ones. The remaining staff will be reassigned based on interest in continuing under the new ownership. The Sri Lanka Petroleum Corporation will manage the refinery, aiming to upgrade its infrastructure for continued operation for another 25 years. Future plans include relocating the refinery to Trincomalee and expanding facilities for future operations.
 
-කෙසේවෙතත් දැනට සිටින සේවකයින්ගෙන් 200ක් පමණ රජය සතු නව ව්‍යවසාය සඳහා බඳවා ගැනීමට ද සැලසුම් කර ඇති බව සඳහන්ය.
+🟩
 
-ඉතිරි කම්කරුවන් සංචිතයකට යොමු කරන අතර එයින් රජය සතු නව ව්‍යවසාය තුළින් මෙහෙයුම් පවත්වාගෙන යාමට අවශ්‍ය පිරිස් තෝරා ගනු ඇත.
+It is reported that the Sapugaskanda Oil Refinery is translated into the state owned enterprise into a risk of over 650 employees.
 
-සපුගස්කන්ද තෙල් පිරිපහදුව ශ්‍රී ලංකා ඛනිජ තෙල් සංස්ථාවෙන් වෙන්ව පොදු ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමේ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් මේ වන විට අනුමත කර තිබේ.
+However, it is also planned to recruit about 200 employees of the government owned enterprise.
 
-පිරිපහදුවේ පැරණි යටිතල පහසුකම් නවීකරණය කිරීම සහ වැඩිදියුණු කිරීම සඳහා පවතින ආයෝජන අවශ්‍යතාව මත මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+The rest of workers will be referred to a pool, which will choose the people who want to run operations through the government owned enterprise.
 
-අවම වශයෙන් තවත් වසර 25ක් සඳහා පිරිපහදුවේ මෙහෙයෙම් කාර්යක්ෂමතාව සහ ශක්‍යතාව තහවුරු කිරීම මෙහි ඉලක්කය වේ.
+The Cabinet has approved the proposal to run Sapugaskanda Oil Refinery as a common movement by the Sri Lanka Petroleum Corporation.
 
-සපුගස්කන්ද තෙල් පිරිපහදුව ත්‍රිකුණාමලයට රැගෙන යාමට සැලසුම් කර ඇති අතර ඉදිරි මෙහෙයුම් සඳහා නවීකරණය කරන ලද නවීන පහසුකම් සහිත තෙල් ටැංකි සංකීර්ණයක් පුළුල් කිරීම ඉදිරියේ දී සිදුකෙරුණු ඇත.
+It is reported that the measures have been taken on the need to update and improve the old infrastructure of the refinery.
+
+The target is to ensure the efficiency and feasibility of the refinery for at least 25 more years.
+
+The Sapugaskanda Oil Refinery is to be taken to Trincomalee, and the expansion of modern facilities for future operations was carried out in the future.
 
 ◼️
 
 [Data](articles/1215c677.json)
 
+[Extended Data](ext_articles/1215c677.ext.json)
+
 ---
 
-### සපුගස්කන්ද තෙල් පිරිපහදුවේ සේවකයින්ගේ රැකියා අවදානමේ
+### Employment of Employment at Sapugaskanda Oil Refinery
 
 *2024-05-20 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196805) · `si`
 
-සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු ව්‍යවසායක් බවට පරිවර්ථනය කිරීමේ දී එහි සේවකයින් 650කට අධික පිරිසකගේ රැකියා අහිමි වීමේ අවදානමක් පවතින බව වාර්තා වේ.
+Sapugaskanda Oil Refinery, now a state-owned entity, faces risks due to the employment of over 650 workers.
+
+🟩
+
+It is reported that the Sapugaskanda Oil Refinery is translated into the state owned enterprise into a risk of over 650 employees.
 
 ◼️
 
 [Data](articles/505500bc.json)
+
+[Extended Data](ext_articles/505500bc.ext.json)
 
 ---
 
@@ -219,6 +247,104 @@ While the credit card spend doesn’t show the full picture of consumer spending
 [Data](articles/4f200bdd.json)
 
 [Extended Data](ext_articles/4f200bdd.ext.json)
+
+---
+
+### Complete MEP services by Hayleys Fentons for Vallibel Finance new corporate office in Colombo 03
+
+*2024-05-20 04:28:00* · [`islandlk`](http://island.lk/complete-mep-services-by-hayleys-fentons-for-vallibel-finance-new-corporate-office-in-colombo-03/) · `en`
+
+Vallibel Finance’s new corporate office in Colombo 3 stands tall as a symbol of innovation and efficiency, thanks to the expertise of Hayleys Fentons, Sri Lanka’s premier MEP contractor. Spanning 16 floors on a 42-perch plot, this cutting-edge building boasts state-of-the-art MEP installations for a new 110,000-square-foot corporate space.
+
+This project by Hayleys Fentons was successfully completed by providing specialised installations, such as a modern Fire Protection and Detection System, and integrating cutting-edge technology for the building’s Chiller Management System (CMS).
+
+Safety takes centre stage with Hayleys Fentons’ installation of a sophisticated Fire Protection and Detection System. Programmable with addressability features, this system ensures precise fire location detection, facilitating swift evacuation in emergencies. Seamlessly integrated with the fireman intercom and PA system, all controlled from a single panel, this setup promises utmost safety and efficiency.
+
+...
+
+[Data](articles/bfb55da0.json)
+
+---
+
+### Navara Capital appointed as training partner for USAID private sector development programme
+
+*2024-05-20 04:27:00* · [`islandlk`](http://island.lk/navara-capital-appointed-as-training-partner-for-usaid-private-sector-development-programme/) · `en`
+
+Navara Capital Ltd, a leading corporate advisory service provider in the country, has been appointed as the Training Partner for the United States Agency for International Development (USAID) CATALYZE Sri Lanka Private Sector Development (PSD) Activity to train staff members of selected private sector banks and other financial institutions on debt restructuring, debt rehabilitation and new financing for micro, small and medium enterprises (MSMEs).
+
+The training programs are designed to provide staff members of leading banks and financial Institutions with additional knowledge and in depth understanding of the challenges faced by MSMEs as well as in dealing with MSME in debt restructuring, rehabilitation and new financing. It is expected that the program will support these organizations to expand their support towards MSMEs by providing them with access to new financing and more equitable solutions to their debt-related problems.
+
+...
+
+[Data](articles/0d59c07b.json)
+
+---
+
+### President pays a flying visit to Build SL Exhibition 2024
+
+*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/president-pays-a-flying-visit-to-build-sl-exhibition-2024/) · `en`
+
+President Ranil Wickremesinghe paid a flying visit to the Build SL Exhibition 2024 which was held recently at the BMICH exhibition hall premises and interacted with sponsors, stallholders as well as visitors who were there to view the latest offerings of the local construction industry.
+
+The exhibition organized by the Chamber of Construction Industry of Sri Lanka took place from 10th to 12th May 2024 on grand scale.
+
+Although the President was scheduled to inaugurate the Build Sri Lanka Expo 2024 as chief guest on May 10, it was announced around 10:30am that the President wasn’t able to make it as he had a meeting with the IMF. However, the President had promised the organizers of the exhibition that he would drop in there in the afternoon given the importance of the event. And he kept his word encouraging the stakeholders of the industry which is key to faster economic growth of the country.
+
+...
+
+[Data](articles/15d65e40.json)
+
+---
+
+### Seylan Bank appoints Justice Buwaneka Aluwihare as chairman
+
+*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/seylan-bank-appoints-justice-buwaneka-aluwihare-as-chairman/) · `en`
+
+Seylan Bank PLC has announced the appointment of Justice Buwaneka Aluwihare, PC, who is set to assume the role of chairman of the board, effective from 29 May 2024.
+
+The transition follows the retirement of the current chairman, Ravi Dias, who will complete his nine-year tenure as a director of the Bank on May 28, 2024, in accordance with the Banking Act Direction No. 11 of 2007 (Corporate Governance).
+
+Justice Aluwihare was appointed as an Independent, Non-Executive Director of Seylan Bank PLC in February 2024.
+
+Justice Aluwihare brings a wealth of experience and expertise in the legal and financial sectors, to his new role, having held various distinguished positions throughout his career.
+
+...
+
+[Data](articles/3ceff143.json)
+
+---
+
+### Investors pumping funds into T-Bills and T-Bonds despite low yield rates
+
+*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/investors-pumping-funds-into-t-bills-and-t-bonds-despite-low-yield-rates/) · `en`
+
+The yield rates of T-Bills and T-Bonds showed a downward trajectory during the course of last week; nevertheless both these debt instruments were notably oversubscribed by investors.The weekly T-Bill auction was oversubscribed by 2 times and T-Bond auction was oversubscribed by 3.5 times during the reporting week.
+
+The total volume of secondary market transactions in T-Bills and T-Bonds increased by 4 per cent in the reporting week compared to the week before, according to the Central Bank of Sri Lanka.
+
+According to a press release issued by the Public Debt Department on 17th May 2024, the Treasury Bill issuance held on May 15th had been oversubscribed.
+
+“Rs. 17,750 million being the maximum aggregate amount offered was raised at phase II, from the Treasury bills at the Weighted Average Yield Rates of 9.04% and 9.43%, respectively, determined at the auction, out of the total market subscription of Rs. 96,970 million.
+
+...
+
+[Data](articles/a1a08fd1.json)
+
+---
+
+### Orient Design clinches two awards at Asia Pacific Property Awards for interior design
+
+*2024-05-20 04:09:00* · [`islandlk`](http://island.lk/orient-design-clinches-two-awards-at-asia-pacific-property-awards-for-interior-design/) · `en`
+
+Has delivered more than 100 projects since its inception in 2003
+
+Sri Lanka’s Orient Design Private Limited underscored its position as a leader in the global design sphere, bagging two prestigious new international awards for interior design. Orient Design is the winner of two awards at the Asia Pacific Property Awards 24-25 for Residential Interior Private Residence and Residential Interior Apartment. The Sri Lankan design house came out on top of these two categories out of over 800 applicants from across the Asia-Pacific Region.
+
+The award for Residential Interior Private Residence was won for designing spaces at a private house in Gower Street, Colombo, whilst the award for Residential Interior Apartment was won for the design of the Penthouse at the Cinnamon Life Hotel in Colombo.
+
+...
+
+[Data](articles/d0a5c475.json)
 
 ---
 
@@ -2003,145 +2129,5 @@ On Thursday, the Indian coastal police force arrested 14 Sri Lankan fishermen fr
 [Data](articles/854f310b.json)
 
 [Extended Data](ext_articles/854f310b.ext.json)
-
----
-
-### The change in the weather in the next 36 hours
-
-*2024-05-19 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196793) · `si`
-
-In the next 36 hours, expect heavy pre-monsoon rains and increased winds across the Western, Sabaragamuwa, and North Western provinces, with rainfall exceeding 100mm. There's also a shortage of around 30-40 million liters of water.
-
-🟩
-
-The Department of Meteorology has issued the latest weather notification to be valid up to 36 hours.
-
-It states that the effectiveness of the pre-monsoon weather conditions, heavy rains and wind increase.
-
-Accordingly, there will be heavy showers at more than 100 millimeters in the Western, Sabaragamuwa, North Western provinces.
-
-The announcement also shows that there are about 30-40 lack of lack of lack of lack of lack of labor.
-
-◼️
-
-[Data](articles/7a5349da.json)
-
-[Extended Data](ext_articles/7a5349da.ext.json)
-
----
-
-### President meets Indonesian Coordinating Minister for Maritime Affairs, Investments
-
-*2024-05-19 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Indonesian-Coordinating-Minister-for-Maritime-Affairs-Investments/108-282900) · `en`
-
-Colombo, May 19 (Daily Mirror)- President Ranil Wickremesinghe, who is on an official visit to Indonesia, met Luhut Binsar Pandjaitan, the Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia, the President's Media Division (PMD) said.
-
-The meeting took place today (19) at the United In Diversity Bali Campus on Kura Kura Bali Island where they discussed key topics such as the Global Blended Finance Alliance, Sri Lanka's Tropical Belt Initiative, the Blue Economy and the Seaweed Industry.
-
-"Emphasis was placed on enhancing cooperation among Global South countries and establishing a collaborative research programme on mangrove cultivation.
-
-Both parties agreed on the need to establish a bilateral task force to coordinate these initiatives, considering Sri Lanka's current role as the chair of the Indian Ocean Rim Association (IORA), the PMD said.
-
-◼️
-
-[Data](articles/42cad3a1.json)
-
-[Extended Data](ext_articles/42cad3a1.ext.json)
-
----
-
-### The floating corpse recovery
-
-*2024-05-19 16:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மிதந்த-சடலம்-மீட்பு/76-337526) · `ta`
-
-Nuwara Eliya police recovered a woman's body from Talawa Kallai reservoir. Identified as 18-year-old Periyasamy Dilishina, she was linked to a magistrate case. The cause of death remains under investigation.
-
-🟩
-
-தலவாக்கலை மேல் கொத்மலை நீர்த் தேக்கத்தில் மிதந்த நிலையில் பெண்ணொருவரின் சடலத்தை தலவாக்கலை பொலிஸார் (19) மாலை மீட்டுள்ளனர்.
-
-The deceased was identified as an 18 -year -old woman and was identified as Periyasamy Dilishina of Pamstan Ratnagiri, a Lindulai Police Division.
-
-At the same time, the police said that the body had been brought to the notice of the Nuwara Eliya District Court in connection with the body of the magistrate.
-
-Police said that the deceased woman is investigating the incident and whether the woman who died in the incident had been killed or had been assassinated or thrown into the reservoir, police said.
-
-◼️
-
-[Data](articles/b8f174a4.json)
-
-[Extended Data](ext_articles/b8f174a4.ext.json)
-
----
-
-### Businessman arrested for assaulting Iranian Ambassador in Colombo
-
-*2024-05-19 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99315/businessman-arrested-for-assaulting-iranian-ambassador-in-colombo) · `en`
-
-Police have arrested a 33-year-old youth who had allegedly assaulted the Ambassador of Islamic Republic of Iran in Sri Lanka, Dr. Alireza Delkhosh, during an incident near a shopping mall on Muttiah Road in Colombo 02.
-
-The arrested suspect has been remanded in custody until tomorrow (May 20), after being produced before the Aluthkade No. 02 Magistrate’s Court in Colombo.
-
-The incident had reportedly occurred on Saturday while the Iranian Ambassador was entering the car park of a shopping mall in his vehicle. An argument had ensued between the Ambassador and the suspect in question, during which the latter had assaulted the diplomat and attempted to flee in his vehicle, police said.
-
-At the time, the Iranian Ambassador had exited his car and placed his hand on the bonnet of the suspect’s vehicle, while asking him to wait for the police. However, the suspect had then started his car and driven forward, causing an accident involving the Ambassador.
-
-...
-
-[Data](articles/2f7e1d30.json)
-
-[Extended Data](ext_articles/2f7e1d30.ext.json)
-
----
-
-### Suspect remanded for assaulting Iranian Ambassador
-
-*2024-05-19 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196792) · `si`
-
-Two suspects were remanded after assaulting Iran's ambassador near a major shopping mall. The incident occurred in Slave Island, where one suspect was brought before the court.
-
-🟩
-
-The two two suspects have been remanded to the Ambassador of the Ambassador who was assaulted by a major shopping mall.
-
-The suspect was produced in court by Slave Island, was remanded.
-
-◼️
-
-[Data](articles/611dd524.json)
-
-[Extended Data](ext_articles/611dd524.ext.json)
-
----
-
-### Pindapatha Charika
-
-*2024-05-19 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pindapatha-Charika/110-282899) · `en`
-
-A Pindapatha Charika was held at the Sri Swarna Shaila Bimbarama Viharaya at Katubedda, Moratuwa in view of the Vesak Poya Day under the guidance of Venerable Pannala Sobitha thera, head of the Bimbarama Viharaya. About 15 monks participated in the Pindapatha Charika. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/e13e863f.json)
-
-[Extended Data](ext_articles/e13e863f.ext.json)
-
----
-
-### National War Herou commemoration ceremony begins
-
-*2024-05-19 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196791) · `si`
-
-The National War Heroes Commemoration Ceremony starts near Battaramulla, honoring fallen heroes.
-
-🟩
-
-The ceremony will be held near the war heroes near Battaramulla.
-
-◼️
-
-[Data](articles/eb654191.json)
-
-[Extended Data](ext_articles/eb654191.ext.json)
 
 ---

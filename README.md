@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 12:18:34**
+As of **2024-05-20 12:34:10**
 
 ## Newspaper Stats
 
-*Scraped **25,148** Articles*
+*Scraped **25,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 254
 dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,363
-economynextcom | 1,439
+economynextcom | 1,444
 dailyftlk | 1,480
 adalk | 2,153
 adaderanalk | 2,909
@@ -26,37 +26,43 @@ adaderanasinhalalk | 4,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,144 (100.0%) of 25,148 articles have been extended.
+25,148 (100.0%) of 25,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### තැන තැන සිදුවන මනුෂ්‍ය ඝාතන
+### Murderous killings in place
 
 *2024-05-20 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196813) · `si`
 
-රත්නපුර සහ ලුණුගල යන ප්‍රදේශවලදී මනුෂ්‍ය ඝාතන දෙකක් සිදුකර තිබේ.
+In Ratnapura and Lunugala, two murders occurred: one man was stabbed over a family dispute, and another man killed his wife also due to a family feud. The police are investigating both cases.
 
-පොලීසිය ප්‍රකාශ කළේ, රත්නපුර දොඩම්පේ ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කර ඇති බවය.
+🟩
 
-සිය බාප්පා සමග ඇතිවූ ආරවුලක් දුරදිග යාම හේතුවෙන් ඔහු විසින් තියුණු ආයුධයකින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+Two murders have been carried out in Ratnapura and Lunugala areas.
 
-මියගොස් ඇත්තේ 32 හැවිරිදි දොඩම්පේ ප්‍රදේශයේ පදිංචිව සිටි අයෙකු බව සඳහන්ය.
+Police stated that a person had been attacked with a sharp object in the Dodampe area in Ratnapura.
 
-ඝාතනයට සම්බන්ධ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා රත්නපුර පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+According to police, he was assaulted by a sharp object due to a dispute with their uncle with his uncle.
 
-මේ අතර ලුණුගල ජනතාපුර ප්‍රදේශයේ දී සිය සැමියා විසින් බිරිඳ ඝාතනය කර තිබේ.
+The victim was a 32 year old resident of Dodampe.
 
-පවුල් ආරවුලක් හේතුවෙන් ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+Ratnapura Police are conducting further investigations to arrest him.
 
-මියගොස් ඇත්තේ 36 හැවිරිදි ජනතාපුර ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවක් බව සඳහන්ය.
+Meanwhile, his husband has killed his wife in the Jathika Seneganugapapura area.
 
-ඝාතනයට සම්බන්ධ සැකකාර සැමියා ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා ලුණුගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+It has been revealed that the murder was being carried out due to a family dispute.
+
+The deceased has been identified as a 36 year old woman living in a resident of the Janathapura.
+
+Lunugala Police are conducting further investigations to arrest him.
 
 ◼️
 
 [Data](articles/2004e77a.json)
+
+[Extended Data](ext_articles/2004e77a.ext.json)
 
 ---
 
@@ -90,6 +96,8 @@ Scenes of the crash site where the Iranian president, foreign minister and other
 
 [Data](articles/3084a5f6.json)
 
+[Extended Data](ext_articles/3084a5f6.ext.json)
+
 ---
 
 ### Who is Mohammad Mokhber, the man set to become Iran’s interim president?
@@ -110,17 +118,25 @@ Scenes of the crash site where the Iranian president, foreign minister and other
 
 ---
 
-### ඥානසාර හිමිට සමාව ලබාදෙන මහනාහිමිවරු ජනාධිපතිගෙන් ඉල්ලති
+### Gnanasara Thera demands forgiveness to President
 
 *2024-05-20 11:23:46* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-සමාව-ලබාදෙන-මහනාහිමිවරු-ජනාධිපතිගෙන්-ඉල්ලති/11-409733) · `si`
 
-ගලගොඩඅත්තේ ඤාණසාර ස්ථවීරයන්ට ජනාධිපති සමාව ලබාදෙන ලෙස ඉල්ලමින් ත්‍රෛනිකායික මහා නායක ස්වාමින්ද්‍රයන් වහන්සේලා ජනපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමුකර තිබේ.
+Leaders of the Triumph Chief Troops and Gnanasara Thera request presidential pardon for Galagodaatte initiators. This includes Malwatte Sumangala, Sri Siddharashthu, and leaders from the Sri Lanka Amarapura and Amarapatha Maha Nikayas. Their plea follows a 2016 incident involving the Koralagala Raja Maha Viharaya, where a media briefing led to a four-year prison sentence. The demand aims to foster national unity and address societal extremism, with the support of various sectors of society.
 
-ජාතීන් අතර අසමඟිය ඇතිවන ආකාරයෙන් කටයුතු කරන ලදැයි වරදකරු කොට වසර හතරක සිර දඬුවමකට ලක්ව සිටින ගලගොඩඅත්තේ ඤාණසාර ස්ථවීරයන්ට ජනාධිපත් සමාව ලබාදෙන ලෙස මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල, අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඤාණරතන, ශ්‍රී ලංකා අමරපුර මහා නිකායේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති, ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ මහා නායක අතිපූජ්‍ය මකුලෑවේ විමල යන මහනායක ස්වාමින්ද්‍රයන් වහන්සේලා ගේ අත්සනින් ජනපතිවරයා වෙත යොමු කර ඇත.
+🟩
+
+Troops of Triumph Chief Leaders have written to President Ranil Wickremesinghe demanding the Presidential Pardoned for the Starters of Galagodaatte.
+
+Malwatte Sumangala, Sri Siddharashthu, Sri Lanka Amarapura Maha Nikaya, Sri Lanka Amarapatha Maha Nikaya, is the Most Fourteen of the Malwatte Sumanara, Sri Lanka Amarapura Maha NikayaMauli, Mahulathya and Ramanya Mamana Wimalawa, Maha Nikaya, has been sent to the President's signature.
+
+In 2016 a media briefing regarding the Koralagala Raja Maha Viharaya in 2016, a four-year imprisonment was held on 28th March on 28th March. These layers were conducted by the voice for Sinhala Buddhist nationalism in Sri Lanka and to educate the security forces on some of the extreme extremism in society.. It is no more .... The letter was also committed by many in society, which was infected with many in society, which had many people in the country to prevent the treasures between the nations in the country.
 
 ...
 
 [Data](articles/1ded1dfe.json)
+
+[Extended Data](ext_articles/1ded1dfe.ext.json)
 
 ---
 
@@ -162,6 +178,26 @@ Accordingly, the debate between the two leaders can be held on June 3, 4, 5, 6 o
 
 ---
 
+### World Bank to conduct energy transition discussion in Sri Lanka
+
+*2024-05-20 11:09:00* · [`economynextcom`](https://economynext.com/world-bank-to-conduct-energy-transition-discussion-in-sri-lanka-163723/) · `en`
+
+ECONOMYNEXT – The World Bank will conduct a Roundtable on Advancing Energy Transition in Colombo next week, which will focus on attracting investments into the energy sector, Sri Lanka’s Power and Energy Minister Kanchana Wijesekera said.
+
+“The program will focus on attracting investments in the renewable energy sector, accelerating energy transition, green hydrogen programs & scaling up private investments,” Wijesekera said on social media platform X (twitter).
+
+“Energy & Financial experts from development agencies, industry stakeholders & officials from the line ministries will be participating at the event.”
+
+The preliminary discussion on the event was held with the World Bank team at the Ministry of Power and Energy, the minister said.
+
+A forex crisis two years ago saw the island nation face fuel shortages and power cuts in the face of a lack of renewable energy sources.
+
+...
+
+[Data](articles/bfeb0d47.json)
+
+---
+
 ### Elon Musk to visit Sri Lanka this year to launch Starlink
 
 *2024-05-20 11:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elon-Musk-to-visit-Sri-Lanka-this-year-to-launch-Starlink/108-282959) · `en`
@@ -177,6 +213,8 @@ However, the exact dates of Elon's visit to Sri Lanka have not yet been fixed an
 ...
 
 [Data](articles/94f68664.json)
+
+[Extended Data](ext_articles/94f68664.ext.json)
 
 ---
 
@@ -478,6 +516,28 @@ The Iran President of Iranian President, the Foreign Minister of India has been 
 
 ---
 
+### Sri Lanka rupee opens slightly stronger at 299.40/70 to US dollar
+
+*2024-05-20 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-stronger-at-299-40-70-to-us-dollar-163695/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.40/70 to the US dollar on Monday, from 299.70/80 the previous week, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 10.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.20/40 percent from 10.25/40 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 10.60/70 percent 10.65/70 percent.
+
+A bond maturing on 15.05.2030 closed up at 11.55/70 percent from 11.60/75 percent.
+
+The Colombo Stock Exchange opened down. The All Share Price Index was down 0.08 percent at 12,309, the S&P SL20 was up 0.11 percent at 3,641. (Colombo/May20/2024)
+
+◼️
+
+[Data](articles/a6c5bd41.json)
+
+---
+
 ### Iran’s President Raisi, Foreign Minister die in helicopter crash
 
 *2024-05-20 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Irans-President-Raisi-Foreign-Minister-die-in-helicopter-crash/108-282952) · `en`
@@ -771,6 +831,50 @@ Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Killinochchi 
 [Data](articles/1ebd55bb.json)
 
 [Extended Data](ext_articles/1ebd55bb.ext.json)
+
+---
+
+### Sri Lanka public finance law to limit primary spending at 13-pct GDP: Treasury Secy
+
+*2024-05-20 08:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-public-finance-law-to-limit-primary-spending-at-13-pct-gdp-treasury-secy-163663/) · `en`
+
+ECONOMYNEXT – A bill for Sri Lanka’s proposed Public Financial Management law has set a 13 percent primary spending limit (expenses before interest) as part of efforts to improve fiscal discipline in the future, Treasury Secretary Mahinda Siriwardana said.
+
+The Public Finance bill will be a landmark piece of legislation that will provide the guidance and framework to go forward, he told a seminar organized by Advocata Institute, a Colombo-based think tank.
+
+A Fiscal Management Responsibility Act, which has been repeatedly breached in the past will be repealed.
+
+Siriwardana said the new law makes it less easy for future administrations to overspend.
+
+The law, which sets a 13 percent of GDP spending limit (before interest costs), allows for a 2 percent ‘budget reserve’, according to the draft bill.
+
+...
+
+[Data](articles/6b40cbf3.json)
+
+---
+
+### Iran President’s crashed helicopter found by Turkey’s Akinji drone
+
+*2024-05-20 08:47:00* · [`economynextcom`](https://economynext.com/iran-presidents-crashed-helicopter-found-by-turkeys-akinji-drone-163670/) · `en`
+
+ECONOMYNEXT- The crash site of helicopter which carried Iran President Iranian President Ebrahim Raisi was located by Turkish high altitude unmanned aerial vehicle, after it disappeared in bad weather, the Iranian News Agency said.
+
+Search teams which which reached the site had found burnt out wreckage and charred bodies.
+
+The weather in the area was bad and visibility was low with foggy conditions, which also hampered teams on the ground, but there is no information on the exact reason for the crash.
+
+RELATED Possible crash site of Iran President’s helicopter helicopter probed: IRNA
+
+President Raisi was returning from a border region with Azerbaijan after opening a dam project.
+
+Two other helicopters which took off with the President’s helicopter has landed safely.
+
+The helicopter is believed to be a US made Bell 212/412 Iran acquired before sanctions hit the country and may be very old.
+
+◼️
+
+[Data](articles/8889dd5c.json)
 
 ---
 
@@ -1113,6 +1217,30 @@ While the credit card spend doesn’t show the full picture of consumer spending
 [Data](articles/4f200bdd.json)
 
 [Extended Data](ext_articles/4f200bdd.ext.json)
+
+---
+
+### Possible crash site of Iran President’s helicopter helicopter probed: IRNA
+
+*2024-05-20 06:05:00* · [`economynextcom`](https://economynext.com/possible-crash-site-of-iran-presidents-helicopter-helicopter-probed-irna-163650/) · `en`
+
+ECONOMYNEXT – A possible crash site of the helicopter that carried Iran President is being examined, the Iranian News Agency said.
+
+Turkey’s high-altitude long-endurance unmanned aerial vehicle named Akinji also detected a hot spot that probably belongs to the place where the helicopter crashed, IRNA said.
+
+Rescuers are looking for a helicopter which crashed or forced landed with Iranian President Ebrahim Raisi on board in bad weather, the Iranian news agency said.
+
+President Raisi was returning from a border region with Azerbaijan after opening a dam project.
+
+Domestic and international teams are looking for the helicopter which went down in mountainous terrain in bad weather.
+
+Two other helicopters which took off with the President’s helicopter has landed safely.
+
+The helicopter is believed to be a US made Bell 212/412 Iran acquired before sanctions hit the country and may be very old. (Colombo/May20/2024)
+
+◼️
+
+[Data](articles/6daeeed9.json)
 
 ---
 
@@ -2086,17 +2214,23 @@ The unnamed official said contact has been made on several occasions.
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-dies/155-282938) · `en`
 
-11.33 - Vice President Mohammad Mokhber will assume powers after Raisi’s death.
+Ayatollah Ali Khamenei has posted a tribute to President Ebrahim Raisi following his death in a helicopter crash.
 
-According to the Iranian Constitution, in case of the president’s death or incapacity, the first vice president will take over until an election is held within a maximum period of 50 days.
+In a post on X, the supreme leader posted a photo of him and Raisi with a brief message referring to Imam Reza, the eighth imam of Shia Islam and a revered figure in Iran.
 
-11.05 - Who are the other officials killed in the helicopter crash?
+Raisi’s remains are now being transported to the city of Tabriz.
 
-Several senior Iranian officials were also killed alongside Raisi in the helicopter crash in the Dizmar forest, located between the cities of Varzaqan and Jolfa in East Azerbaijan province.
+Bell Helicopter (now Bell Textron) developed the aircraft in the late 1960s as an upgrade of the original UH-1 Iroquois for the Canadian military.
 
-Representative of the Iranian supreme leader in East Azerbaijan Mohammad Ali Ale-Hashem
+The new design used two turboshaft engines instead of one, giving it greater carrying capacity.
 
-Iran's government convened an "urgent meeting" on Monday following the announcement that President Ebrahim Raisi and the country's foreign minister were among those who died in a helicopter crash, according to Iranian state news agency IRNA.
+According to US military training documents, the helicopter was introduced in 1971 and quickly adopted by both the United States and Canada.
+
+The craft is designed to carry aerial firefighting gear and cargo and to mount weapons.
+
+This particular helicopter had been reconfigured to carry 15 people, including a pilot.
+
+Sanctions have made it difficult for Iran to obtain parts or new aircraft.
 
 ...
 
@@ -2129,93 +2263,5 @@ A Turkish drone has located a heat source in the Iranian mountains they believe 
 [Data](articles/ba7924ea.json)
 
 [Extended Data](ext_articles/ba7924ea.ext.json)
-
----
-
-### SJB suggests new dates for debates with NPP
-
-*2024-05-19 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-suggests-new-dates-for-debates-with-NPP/108-282937) · `en`
-
-Colombo, May 19 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha in a letter addressed to National Peoples Power (NPP) Executive Committee Member Dr. Nalinda Jayatissa has suggested new dates for the proposed debate between its leader Sajith Premadasa and NPP leader Anura Kumara Dissanayake and the party’s economic experts.
-
-Accordingly, he has suggested that the debate between the two leaders be held on June 3, 4, 5, 6 or 7 while the debate between the economic experts be held on May 27, 28, 29, 30 or 31.
-
-◼️
-
-[Data](articles/55e408e6.json)
-
-[Extended Data](ext_articles/55e408e6.ext.json)
-
----
-
-### Special holiday declared for Puttalam district schools
-
-*2024-05-19 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-holiday-declared-for-Puttalam-district-schools/108-282935) · `en`
-
-Colombo, May 19 -  All schools in the Puttalam district will be closed tomorrow, May 20, due to adverse weather conditions, Governor of the North-Western Province said.
-
-This decision aims to ensure the safety of students and staff amid the adverse weather.
-
-◼️
-
-[Data](articles/3becd51e.json)
-
-[Extended Data](ext_articles/3becd51e.ext.json)
-
----
-
-### Diana passport is handed over
-
-*2024-05-19 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196798) · `si`
-
-Mrs. Diana Gamage, a state minister, lost her parliamentary seat due to failing to prove her Sri Lankan citizenship, as per the Supreme Court ruling. Her passport was handed over, highlighting issues with her eligibility under Article 89 of the Constitution.
-
-🟩
-
-Hersha, Harsha Kelhika, Harsha, told Ada Derana that Mrs. Diana Gamage was handed over to the Sri Lankan Passport of Diana Gamage.
-
-The Supreme Court ruled that Mrs. Diana Gamage, a state minister, had no legal qualification to sit in parliament.
-
-It is said that she failed to prove her Sri Lankan citizenship.
-
-The decision will be said that the seat of Sri Lankan citizenship under Article 89 of the Constitution is that the seat of Sri Lankan citizenship is contrary to the Constitution.
-
-◼️
-
-[Data](articles/7b278dd0.json)
-
-[Extended Data](ext_articles/7b278dd0.ext.json)
-
----
-
-### Saluting the brave…
-
-*2024-05-19 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Saluting-the-brave/110-282930) · `en`
-
-The 15th National War Heroes' Day was commemorated on Sunday (19) at the National War Heroes' Memorial in Battaramulla under the aegis of Prime Minister Dinesh Gunawardena. Among the participants were former military leaders such as Field Marshal Sarath Fonseka, Admiral of the Fleet Wasantha Karannagoda, and Marshal of the Air Force Roshan Goonetileke. Military leaders from various eras also came together to honour the fallen war heroes. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/1b6a7022.json)
-
-[Extended Data](ext_articles/1b6a7022.ext.json)
-
----
-
-### Sri Lankan gem dealer chooses TV Star pawnbroker to sell £250Mn gemstone ’Queen of Asia’
-
-*2024-05-19 20:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-gem-dealer-chooses-TV-Star-pawnbroker-to-sell-250Mn-gemstone-Queen-of-Asia/108-282927) · `en`
-
-Colombo, May 19 (National World) - A TV star pawnbroker has been hand-picked to sell one of the world’s most impressive gemstones that has been valued at almost £250 million. The 683lb cluster is owned by a Sri Lankan gem dealer who wants to cash in his asset to fund his financial security and lifestyle.
-
-James Constantinou, who became a hit on the Channel 4 series ‘Posh Pawn’, will be brokering the giant sapphire, known as the Queen of Asia, to his high profile global connections.
-
-“I deal with a lot of rare and luxurious goods, but this might be my greatest endeavour yet,’ said Constantinou, who runs Prestige Pawnbrokers, which has eight branches around the country. “It is an investment opportunity for the seller and prospective buyers will include collectors of rare and exotic stones or institutions that want to display it in museums or galleries. It has certainly caused a stir as it is not every day you get such a massive gemstone coming onto the open market.”
-
-...
-
-[Data](articles/705e37ef.json)
-
-[Extended Data](ext_articles/705e37ef.ext.json)
 
 ---

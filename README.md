@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 10:05:07**
+As of **2024-05-20 10:18:34**
 
 ## Newspaper Stats
 
-*Scraped **25,116** Articles*
+*Scraped **25,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,148
+adalk | 2,149
 adaderanalk | 2,905
 tamilmirrorlk | 2,936
 virakesarilk | 3,791
 dailymirrorlk | 3,943
-adaderanasinhalalk | 4,012
+adaderanasinhalalk | 4,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,115 (100.0%) of 25,116 articles have been extended.
+25,116 (100.0%) of 25,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ඉරාන ජනපති මියගිය බව තහවුරු වෙයි
+
+*2024-05-20 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196809) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි සහ එරට විදේශ අමාත්‍යවරයා ඊයේ (19) සිදුවූ හෙළිකොප්ටර් අනතුරින් ජීවිතක්ෂයට පත්ව ඇතැයි තහවුරු වී තිබේ.
+
+◼️
+
+[Data](articles/c40dc6cd.json)
+
+---
+
+### රුසියානු තානාපති ගැටලුව විසඳීමට කඩිනම් පියවර
+
+*2024-05-20 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196808) · `si`
+
+දැනට පුරප්පාඩුව පවතින රුසියාවේ ශ්‍රී ලංකා තානාපති ධුරය සඳහා විදේශ සේවයේ ජ්‍යේෂ්ඨ නිලධාරියෙකු තානාපති සේවයට යැවීමට රජය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/274df53b.json)
+
+---
 
 ### Prison officers launch ‘sick leave’ trade union action
 
@@ -49,6 +73,22 @@ The General Secretary of the Peradeniya University’s Trade Union Federation, T
 [Data](articles/cb136488.json)
 
 [Extended Data](ext_articles/cb136488.ext.json)
+
+---
+
+### හෙලිකොප්ටර් අනතුරින් දිවි බේරා ගත් අය ගැන සලකුණක් නෑ
+
+*2024-05-20 09:12:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-අනතුරින්-දිවි-බේරා-ගත්-අය-ගැන-සලකුණක්-නෑ/11-409731) · `si`
+
+ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා හා විදේශ කටයුතු අමාත්‍ය හුසෙන් අමිර් ඇතුළු පිරිසක් ගමන් කරමින් සිටියදි හොලිකොප්ටර් යානය අනතුරට පත්වූ ප්‍ර දේශය වෙත ගලවා ගැනිමේ කණ්ඩායම් මේ වන විට ළඟා වි ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+
+අනතුරින් දිවි ගලවාගත් මගින් පිළිබඳව කිසිම සලකුණක් නොමැති බවද වාර්තා වෙයි.
+
+නැගෙනහිර අසර්බයිජානයේ ඝන වනාන්තර ප්‍ර දේශයකට මෙම හෙලිකොප්ටර් යානය කඩා වැටි තිබුණි.
+
+◼️
+
+[Data](articles/8c6b023b.json)
 
 ---
 
@@ -76,23 +116,29 @@ Raisi, 63, was elected president in 2021, and since taking office has ordered a 
 
 ---
 
-### ஹெலிகாப்டர் விபத்தில் சிக்கிய ஈரான் அதிபர் ரைசி மரணம்?
+### Iranian President Rico's death in helicopter crash?
 
 *2024-05-20 09:03:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெலிகாப்டர்-விபத்தில்-சிக்கிய-ஈரான்-அதிபர்-ரைசி-மரணம்/50-337546) · `ta`
 
-ஈரான் அதிபர் இப்ராஹிம் ரைசி ஹெலிகாப்டர் விபத்தில் மரணம் அடைந்துள்ளதாக அஞ்சப்படுவதாக அந்நாட்டு ஊடகங்களை மேற்கோள் காட்டி அல்ஜஸீரா மற்றும் பிபிசி ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Ibrahim Raisi, the Iranian president, reportedly perished in a helicopter crash during the Israeli conflict, with all aboard presumed dead. The incident occurred amidst heightened tensions, with no survivors found.
 
-நேற்று நடந்த ஹெலிகாப்டர் விபத்தில் யாரும் பிழைக்கவில்லை என்று ஈரான் அரசு தரப்பு தகவல்கள் தெரிவித்துள்ளன.
+🟩
 
-இஸ்ரேல் போருக்கு இடையே ஈரான் அதிபர் இப்ராஹிம் ரைசி பயணித்த ஹெலிகாப்டர் நேற்று விபத்துக்கு உள்ளனாது.
+The Al Jazeera and BBC media have reported that Ibrahim Raisi is feared that helicopter has died in a helicopter crash.
 
-விபத்து நடந்ததாக கூறப்படும் இடத்தை டிரோன் ஒன்று உறுதி செய்த நிலையில் அந்த பகுதியில் செய்யப்பட்ட சோதனையில்  விபத்து நடந்த இடத்தில் ஹெலிகாப்டரில் இருந்தவர்கள் உயிருடன் இருப்பதற்கான எந்த அறிகுறியும் இல்லை என்று செஞ்சிலுவைச் சங்கம் கூறியதை அடுத்து ஈரானிய அதிபர் ரைசி மற்றும் அவருடன் வந்த அதிகாரிகள் இறந்துவிட்டதாக அஞ்சப்படுகிறது.
+The Iranian government sources said that no one survived in yesterday's helicopter crash.
 
-ஹெலிகாப்டரில் ஈரானிய அதிபர் இப்ராஹிம் ரைசி, அந்நாட்டின் வெளியுறவு அமைச்சர் ஹொசைன் அமிரப்துல்லாஹியன், ஈரானின் கிழக்கு அஜர்பைஜான் மாகாண ஆளுநர் மற்றும் பிற அதிகாரிகள் மற்றும் பாதுகாவலர்கள் இருந்ததாக அரசு தெரிவித்துள்ளது.  R
+The helicopter who traveled by Ibrahim Raisi, who was traveling in the midst of the Israeli war, would not have an accident yesterday.
+
+The Red Cross has said that the Red Cross has claimed that the helicopter has no indication that there is no indication of the alive of the accident in the area where the drone was allegedly allegedly reported.
+
+The helicopter has Iranian Chancellor Ibrahim Raisi, Foreign Minister Hossein Amirpdullahian, Governor of Iran's East Azerbaijan Province and other officials and guardians of Iran.R
 
 ◼️
 
 [Data](articles/02bb9faf.json)
+
+[Extended Data](ext_articles/02bb9faf.ext.json)
 
 ---
 
@@ -2109,63 +2155,5 @@ Ranil Wickremesinghe hasn't confirmed his candidacy for the upcoming presidentia
 [Data](articles/8f35e8ab.json)
 
 [Extended Data](ext_articles/8f35e8ab.ext.json)
-
----
-
-### Raba assassinations and general council request
-
-*2024-05-19 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183964) · `ta`
-
-Israeli PM criticized for failing to prevent Rafa attacks; West & Arab nations' inaction leaves Palestinians unsupported.
-
-🟩
-
-Israeli Prime Minister has been talking about attacks on Rafa for months. If the West could have blocked this. But they did not do so. In fact, no Arab country has taken any steps to comfort the Palestinian people.
-
-◼️
-
-[Data](articles/b393cadb.json)
-
-[Extended Data](ext_articles/b393cadb.ext.json)
-
----
-
-### Abandonment
-
-*2024-05-19 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/183955) · `ta`
-
-Donald Lu's recognition of Sri Lanka's Reconciliation Commission impacts its relations with the US. The upcoming UNHRC session may influence Sri Lanka's presidential election timing.
-
-🟩
-
-US Assistant Secretary of State Donald Lu's comments are recognized by the Sri Lankan government to recognize the Reconciliation Commission.
-
-The UN Human Rights Council (UNHRC) session is likely to have an impact on the time when the presidential election is due in Sri Lanka.
-
-◼️
-
-[Data](articles/37490be6.json)
-
-[Extended Data](ext_articles/37490be6.ext.json)
-
----
-
-### Fire near Colombo port
-
-*2024-05-19 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196795) · `si`
-
-A fire broke out near Colombo Harbor, affecting workers on the Expressway. The Colombo Fire Brigade dispatched four firefighting units to control it.
-
-🟩
-
-The fire has erupted in an employees of employees working on the Expressway near the Colombo Harbor premises.
-
-The Colombo Fire Brigade said 4 fireworks were sent to the site.
-
-◼️
-
-[Data](articles/87a515d2.json)
-
-[Extended Data](ext_articles/87a515d2.ext.json)
 
 ---

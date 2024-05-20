@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 23:18:26**
+As of **2024-05-20 23:33:50**
 
 ## Newspaper Stats
 
-*Scraped **25,282** Articles*
+*Scraped **25,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,169
 adaderanalk | 2,925
-tamilmirrorlk | 2,953
+tamilmirrorlk | 2,954
 virakesarilk | 3,822
 dailymirrorlk | 3,971
 adaderanasinhalalk | 4,043
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,282 (100.0%) of 25,282 articles have been extended.
+25,282 (100.0%) of 25,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### களுத்துறையில் துப்பாக்கிச் சூடு ; ஒருவர் மரணம்
+
+*2024-05-20 23:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-337608) · `ta`
+
+களுத்துறை - கட்டுக்குருந்த பிரதேசத்தில் இன்று (20) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவரின் வீட்டில் வைத்தே இந்த துப்பாக்கிச் சூட்டு சம்பவம் மேற்கொள்ளப்பட்டுள்ளதாகவும், டி56 ரக துப்பாக்கி இதன்போது பயன்படுத்தப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/455c9bc2.json)
+
+---
 
 ### ICC chief prosecutor seeks Netanyahu, Hamas leaders’ arrest
 
@@ -102,11 +116,15 @@ They are to be tabled in the Homagama Judicial Medical Officer and submit to Hom
 
 *2024-05-20 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99346/one-person-shot-dead-in-katukurunda) · `en`
 
-A person has been shot and killed at his residence on Station Road in Katukurunda, Kalutara.
+A 38-year-old man has been shot and killed at his residence on Station Road in Katukurunda, Kalutara.
 
-Police said the shooting had been carried out by two gunmen who had arrived on a motorcycle.
+Police said the shooting had been carried out by two gunmen who had arrived on a motorcycle this evening (20).
 
 A assailants had reportedly used a T-56 assault rifle to carry out the shooting.
+
+Meanwhile it is also reported that a 7-year-old girl, the daughter of the deceased, has also been injured in the shooting and is currently receiving treatment.
+
+The deceased, a father of three, was having dinner at home with his three children when the gunmen had entered the house and opened fire before fleeing.
 
 ◼️
 
@@ -2279,25 +2297,5 @@ Meanwhile, on April 24, Iran's President Ibrahim Raisi visited Sri Lanka and han
 [Data](articles/36471876.json)
 
 [Extended Data](ext_articles/36471876.ext.json)
-
----
-
-### The President expressed his deepest condolences
-
-*2024-05-20 12:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-இரங்கல்-தெரிவித்தார்-ஜனாதிபதி/175-337572) · `ta`
-
-President Ranil Wickremesinghe expresses deep sorrow over the tragic loss of Iranian President Ibrahim Raisi, Foreign Minister Amir Abdullah, and other officials, offering heartfelt condolences to their families and the Iranian nation.
-
-🟩
-
-President Ranil Wickremesinghe X has said in a message that Sri Lanka is deeply shocked and sad for the tragedy of Iranian President Ibrahim Raisi, Foreign Minister Amir Abdullah and other senior Iranian officials.
-
-“I express my deepest sympathies and deepest condolences to the family of the losers, the Iranian government and the people. Our prayers are with President Raisi and the family of his entourage, ”the President said.
-
-◼️
-
-[Data](articles/8001cb92.json)
-
-[Extended Data](ext_articles/8001cb92.ext.json)
 
 ---

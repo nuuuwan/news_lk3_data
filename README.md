@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 13:18:21**
+As of **2024-05-20 13:34:07**
 
 ## Newspaper Stats
 
-*Scraped **25,156** Articles*
+*Scraped **25,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,154 @@ newsfirstlk | 363
 islandlk | 1,363
 economynextcom | 1,444
 dailyftlk | 1,480
-adalk | 2,153
-adaderanalk | 2,909
-tamilmirrorlk | 2,945
+adalk | 2,154
+adaderanalk | 2,910
+tamilmirrorlk | 2,946
 virakesarilk | 3,795
 dailymirrorlk | 3,950
-adaderanasinhalalk | 4,018
+adaderanasinhalalk | 4,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,153 (100.0%) of 25,156 articles have been extended.
+25,156 (100.0%) of 25,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ஆழ்ந்த இரங்கல் தெரிவித்தார் ஜனாதிபதி
+### ඉරාන තානාපතිට පහරදුන් ව්‍යාපාරිකයා යළි රිමාන්ඩ්
+
+*2024-05-20 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196816) · `si`
+
+කොළඹ ප්‍රධාන සාප්පු සංකීර්ණයක රථගාලක් තුළදී මෙරට ඉරාන තානාපතිට පහරදුන් බවට සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි ව්‍යාපාරිකයා අද (20) දින අධිකරණයට ඉදිරිපත් කෙරිණි.
+
+එහිදී කොළඹ කොටුව මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත්තේ, එම සැකකරු ව මෙම මස 22 වනදා දක්වා නැවත රක්ෂිත බන්ධනාගාරගත කරන ලෙසය.
+
+◼️
+
+[Data](articles/0a9284e0.json)
+
+---
+
+### අධිවේගයේ යන රියදුරන්ට දැනුම්දීමක්
+
+*2024-05-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196815) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වයත් සමඟ අධිවේගී මාර්ගයේ ගමන් ගන්නා රියදුරන්ට විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
+
+ඒ අනුව ඔවුන්ට රිය ධාවන වේගය පැයට කිලෝමීටර 60ක වේගයෙන් පවත්වාගන්නා ලෙස මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+
+වැසි තත්ත්වය හේතුවෙන් දිවයිනේ රත්නපුර කෑගල්ල අනුරාධපුර මහනුවර ගාල්ල කළුතර සහ පුත්තලම යන දිස්ත්‍රික්ක 07ක 19,234 දෙනෙක් පීඩාවට පත්ව සිටී.
+
+එමෙන්ම නිවාස 32කට අර්ධ හානි සිදුව ඇති අතර පවුල් 37ක පුද්ගලයින් 1,140 දෙනෙකු ආරක්ෂිත ස්ථාන කරා යොමු කර තිබේ.
+
+පවතින තත්ත්වය අනුව බස්නාහිර සහ වයඹ පළාත්වල ඉදිරි පැය 24 දීත්  මි.මී.150ට වැඩි තද වැසි අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම සබරගමුව පළාතේත්, ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලටත් මි.මී.100 ඉක්මවූ තද වැසි අද ඇති විය හැකිය.
+
+පවතින අධික වැසි තත්ත්වය හේතුවෙන් බදුල්ල, කොළඹ, ගාල්ල, ගම්පහ, කළුතර, මහනුවර, කෑගල්ල, රත්නපුර යන දිස්ත්‍රික්ක 08 සඳහා නායයාම් අනතුරු ඇඟවීම් නිවේදන තවදුරටත් බලපැවැත් වේ.
+
+◼️
+
+[Data](articles/38d60291.json)
+
+---
+
+### சிறைச்சாலை அதிகாரிகள் போராட்டம்
+
+*2024-05-20 13:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-அதிகாரிகள்-போராட்டம்/175-337575) · `ta`
+
+சம்பள அதிகரிப்பை கோரி சிறைச்சாலை அதிகாரிகள் இந்த சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7234bb7e.json)
+
+---
+
+### The President expressed his deepest condolences
 
 *2024-05-20 12:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-இரங்கல்-தெரிவித்தார்-ஜனாதிபதி/175-337572) · `ta`
 
-ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர் அப்துல்லாஹியன் மற்றும் பிற மூத்த ஈரானிய அதிகாரிகளின் துயர மரணத்தால் இலங்கை ஆழ்ந்த அதிர்ச்சியும் வருத்தமும் அடைந்துள்ளது என்று ஜனாதிபதி ரணில் விக்ரமசிங்க X செய்தியில் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe expresses deep sorrow over the tragic loss of Iranian President Ibrahim Raisi, Foreign Minister Amir Abdullah, and other officials, offering heartfelt condolences to their families and the Iranian nation.
 
-"அவர்களை இழந்து வாடும் குடும்பத்தினருக்கும், ஈரான் அரசாங்கத்திற்கும், மக்களுக்கும் எனது ஆழ்ந்த அனுதாபங்களையும், ஆழ்ந்த இரங்கலையும் தெரிவித்துக் கொள்கிறேன். எங்களது பிரார்த்தனைகள் ஜனாதிபதி ரைசி மற்றும் அவரது பரிவாரங்களின் குடும்பத்தினருடன்  இருக்கின்றன" என்று ஜனாதிபதி கூறினார்.
+🟩
+
+President Ranil Wickremesinghe X has said in a message that Sri Lanka is deeply shocked and sad for the tragedy of Iranian President Ibrahim Raisi, Foreign Minister Amir Abdullah and other senior Iranian officials.
+
+“I express my deepest sympathies and deepest condolences to the family of the losers, the Iranian government and the people. Our prayers are with President Raisi and the family of his entourage, ”the President said.
 
 ◼️
 
 [Data](articles/8001cb92.json)
 
+[Extended Data](ext_articles/8001cb92.ext.json)
+
 ---
 
-### இலங்கையின் தங்க முதுகுத் தவளை இந்தியாவில் கண்டுபிடிப்பு
+### Two separate murders reported in Ratnapura and Lunugala
+
+*2024-05-20 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99333/two-separate-murders-reported-in-ratnapura-and-lunugala) · `en`
+
+A 32-year-old has reportedly been murdered with sharp weapon in the Dodampe area of Ratnapura.
+
+Preliminary police investigations have uncovered that the crime was committed by an individual over a dispute with the deceased, who is his uncle.
+
+The suspect has reportedly fled the area, and Ratnapura Police are conducting further investigations to apprehend him.
+
+Meanwhile, in a separate incident, a husband has reportedly murdered his wife in the Janathapura area of Lunugala over a family dispute, says police.
+
+It is reported that the deceased was a 36-year-old woman, who was a resident of Janathapura.
+
+Police said the suspect has fled the area following the murder and Lunugala Police are conducting further investigations to arrest him.
+
+◼️
+
+[Data](articles/aa42bc80.json)
+
+---
+
+### Sri Lanka's golden spine in India discovery
 
 *2024-05-20 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-தங்க-முதுகுத்-தவளை-இந்தியாவில்-கண்டுபிடிப்பு/175-337570) · `ta`
 
-இலங்கைக்கு மட்டுமே சொந்தமானது என இதுவரை நம்பப்பட்ட தங்க முதுகு தவளை (Hylarana gracilis) இனம், இந்தியாவின் கிழக்குத் தொடர்ச்சி மலைகளில் தென்பட்டுள்ளது.
+A rare golden-backed frog species, previously thought unique to Sri Lanka, has been discovered in India's Eastern Ghats. Researchers from various centers, including the Indian Zoology Center in Hyderabad, confirmed its presence at the Countnia Wildlife Sanctuary in Andhra Pradesh. This finding marks a significant contribution to biodiversity studies.
 
-ஹைதராபாத்தில் உள்ள இந்திய விலங்கியல் ஆய்வு மையத்தின் (ZSI) தீபா ஜெய்ஸ்வால், ஆந்திரப் பிரதேசத்தில் உள்ள கவுண்டினியா வனவிலங்கு சரணாலயத்தில் இந்த குறிப்பிடத்தக்க கண்டுபிடிப்பு நிகழ்ந்ததை உறுதிப்படுத்தினார்.
+🟩
 
-ஹைதராபாத்தில் உள்ள ZSI இன் நன்னீர் உயிரியல் பிராந்திய மையம், மகாராஷ்டிராவின் புனேவில் உள்ள ZSI மேற்கு மண்டல மையம் மற்றும் ஆந்திரப் பிரதேச பல்லுயிர் வாரியம் ஆகியவற்றின் ஆராய்ச்சியாளர்கள் இந்த குறிப்பிடத்தக்க ஆய்வில் ஒத்துழைத்துள்ளனர்.
+The Hylarana Gracilis, which is believed to belong to Sri Lanka only, has seen the Eastern Ghats of India.
 
-சரணாலயத்திற்குள் உள்ள கவுனிதிம்மேபல்லிலுள்ள ஒரு சிறிய குளத்தின் அருகே ஈரமான, அழுகிய மரத்தடிக்கு பின்னால் ஒற்றை தங்க முதுகு தவளை மறைந்திருந்ததாக தெரிவிக்கப்பட்டுள்ளது.
+Deepa Jaiswal of the Indian Zoology Center in Hyderabad (ZSI) confirmed that this significant discovery took place at the Countnia Wildlife Sanctuary in Andhra Pradesh.
+
+Researchers of the ZSI's Freshwater Biology Regional Center in Hyderabad, the ZSI Western Regional Center in Pune, Maharashtra, and the Andhra Pradesh Biodiversity Board have cooperated in this significant study.
+
+It has been reported that a single golden back frog was hiding behind a wet, rotten tree near a small pond in Gaunitimpeal inside the sanctuary.
 
 ◼️
 
 [Data](articles/8bc39ff1.json)
+
+[Extended Data](ext_articles/8bc39ff1.ext.json)
+
+---
+
+### තිදරු මවට එල්ලවූ මාරාන්තික ඇසිඩ් ප්‍රහාරය
+
+*2024-05-20 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196814) · `si`
+
+කහව නිවසක කාන්තාවකට ඇසිඩ් ප්‍රහාරයක් එල්ලකර ඝාතනය කර ඇති බව අම්බලන්ගොඩ පොලීසිය පවසයි.
+
+පාසලකට ආහාරපාන සපයන වසය 59ක් පමණ වන තිදරු මවක් වූ ගෝනපිනුවල ප්‍රේමලතා නම් කාන්තාවක් එසේ ඝාතනය කර ඇත.
+
+අද (20) අලුයම 4ට පමණ සිය නිවසේ කුස්සියෙහි පොල් ගාමින් සිටිය දී නාඳුනන පුද්ගලයකු නිවසට ඇතුළු වි ඇසීඩ් ප්‍රහාරය එල්ලකර ඇති බව පොලීසිය සැක කරයි.
+
+පසුව ඇයව අසල්වාසීන් හා ඥාතීන් එක්ව ත්‍රිරෝද රියකින් බලපිටිය මුලික රෝහලට ඇතුළු කර තිබූ අතර එහිදී ඇය මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/be8b83b6.json)
 
 ---
 
@@ -95,6 +197,30 @@ Lunugala Police are conducting further investigations to arrest him.
 [Data](articles/2004e77a.json)
 
 [Extended Data](ext_articles/2004e77a.ext.json)
+
+---
+
+### හොරණ වෙඩික්කරු කළුතර අපරාධ කොට්ඨාසයට අත්අඩංගුවට
+
+*2024-05-20 11:55:22* · [`adalk`](https://www.ada.lk/breaking_news/හොරණ-වෙඩික්කරු-කළුතර-අපරාධ-කොට්ඨාසයට-අත්අඩංගුවට/11-409735) · `si`
+
+හොරණ ග්‍රේස්ලන්ඩ්වත්ත ප්‍රදේශයේ දී පසුගිය 5 දා ව්‍යාපාරිකයෙකුට වෙඩිතැබීම සිදුකල වෙඩික්කරු අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ, කොට්ටාව ප්‍රදේශයේ කුලී නිවසක පදිංචිව සිටි 31 හැවිරිදි පුද්ගලයෙකු බවත්,  ඔහු යුධ හමුදාවෙන් පලාගිය සෙබළෙකු බවත් පොලිසිය පැවසීය .
+
+සැකකරු කලක් යුධ හමුදාවේ 5 වන විජයබාහු පාබල රෙජිමේන්තුවේ ඊටපු සෙබළෙකු බවද සඳහන්වේ.
+
+දින ගණනාවක් මුළුල්ලේ සිදුකල දුරකථන විශ්ලේෂණ වාර්තා නිරීක්ෂණ වලින් පසු අනාවරණය වූ තොරතුරු මත සැකකරු අත්අඩංගුවට ගත්බව පොලිසිය සදහන් කරයි.
+
+සැකකරු පදිංව්ව සිටී කුලී නිවසේ සිට වෙනත් ප්‍රදේශයක පදිංචියට යාමට සූදානම්ව සිටියදී අත්අඩංගුවට ගත්බව වැටලීමට  එක්වූ නිළධාරීයෙක්  සදහන් කලේය.
+
+පසුගිය (05) දා පෙරවරු 10 ට පමණ ව්‍යාපාරිකයකු  සුඛෝපභෝගී ජීප් රථයකින් හොරණ ග්‍රේස්ලන්ඩ් වත්ත ප්‍රදේශයේ ගමන් කරමින් සිටියදී ස්කූටි වර්ගයේ යතුරුපැදියකින් දෙදෙනෙකු  පැමිණ පසුපස සිටි තුවක්කුකරු රථයට වෙඩි තබා පලාගොස් තිබුණි.
+
+සැකකරු  අධ්කරණයට ඉදිරිපත් කර රැදවුම් නියෝග ලබාගැනීමට නියමිත බව පරීක්ෂණ සිදුකරන නිළධාරීයෙක් කීය.
+
+...
+
+[Data](articles/f60cbe1b.json)
 
 ---
 
@@ -172,21 +298,29 @@ In 2016 a media briefing regarding the Koralagala Raja Maha Viharaya in 2016, a 
 
 ---
 
-### இலங்கை வருகிறார் எலோன் மஸ்க்
+### Elon Musk is coming to Sri Lanka
 
 *2024-05-20 11:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-எலோன்-மஸ்க்/175-337562) · `ta`
 
-தனது ஸ்டார்லிங்க் செயற்கைக்கோள் இணைய சேவையை தொடங்குவதற்காக இந்த ஆண்டு இலங்கைக்கு வருமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பை எலோன் மஸ்க் ஏற்றுக்கொண்டதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+Elon Musk, CEO of SpaceX and Tesla, has been invited by Sri Lanka's President Ranil Wickremesinghe to launch Starlink, a satellite internet service, in the country. The visit, aimed at accelerating the approval process for Starlink in Sri Lanka, is expected to boost rural education through advanced internet connectivity.
 
-ஜனாதிபதி விக்கிரமசிங்க, காலநிலை விவகாரங்கள் தொடர்பான தனது ஆலோசகர் ருவான் விஜேவர்தனவுடன் நேற்று இந்தோனேசியாவின் பாலியில் எலோனைச் சந்தித்து, புதுப்பிக்கத்தக்க எரிசக்தி, செயற்கை நுண்ணறிவு (AI) மற்றும் உலக அரசியல் உள்ளிட்ட பல்வேறு விடயங்கள் குறித்து கலந்துரையாடினார்.
+🟩
 
-எவ்வாறாயினும், எலோனின் இலங்கை விஜயத்தின் சரியான திகதிகள் இன்னும் நிர்ணயிக்கப்படாததுடன் இலங்கை அரசாங்கம் எலோனின் குழுவுடன் தொடர்பு கொண்டு ஏற்பாடுகளை தீர்மானிக்கவுள்ளது.
+Daily Mirror has reported that Elon Musk has accepted the invitation of President Ranil Wickremesinghe to come to Sri Lanka this year to launch his Starling Satellite Internet service.
 
-“இலங்கை எவ்வாறு ஒப்புதல் செயல்முறையை விரைவுபடுத்துகிறது என்பதைப் பொறுத்தே, அது முடிந்தவுடன், Starlink ஐ அறிமுகப்படுத்த எலோன் இலங்கைக்கு வருவார். இந்த ஆண்டின் இறுதியில் அவர் இலங்கைக்கு வருவார் என்று தற்காலிகமாக விவாதிக்கப்பட்டது" என்று தகவலறிந்த வட்டாரம் தெரிவித்தது.
+President Wickremesinghe met with his advisor Ruwan Wijewardena on Climate Affairs yesterday in Bali, Indonesia and discussed various issues including renewable energy, artificial intelligence (AI) and world politics.
+
+However, the exact dates of Elon's visit to Sri Lanka have not yet been determined and the Sri Lankan government will contact Elon's committee to decide the arrangements.
+
+“Elone will come to Sri Lanka to introduce Starlink as soon as it is over, as to how Sri Lanka accelerates the approval process. It was temporarily discussed that he would visit Sri Lanka by the end of this year, ”the sources said.
+
+Elon Mask, a billionaire chairman of Tesla and SpaceX, and the owner of the X -social platform, came to Bali, Indonesia's resort island to launch the Starling Satellite Service.
 
 ...
 
 [Data](articles/338456e1.json)
+
+[Extended Data](ext_articles/338456e1.ext.json)
 
 ---
 
@@ -2105,135 +2239,5 @@ The people of Iran have also begun to pray for their President.
 [Data](articles/8cf92c69.json)
 
 [Extended Data](ext_articles/8cf92c69.ext.json)
-
----
-
-### Discussions between President and Illiots to implement "Starlink"
-
-*2024-05-19 22:20:46* · [`adalk`](https://www.ada.lk/technology/“Starlink”-සේවා-පහසුකම-ක්‍රියාත්මක-කිරීමට-ජනපති-හා-ඉලෝන්-මස්ක්-අතර-සාකච්ඡා/5-409725) · `si`
-
-President Ranil Wickremesinghe discussed implementing Starlink with Elon Musk to boost Sri Lanka's connectivity globally. The initiative aims to accelerate the country's digital infrastructure. Meanwhile, the President is attending the World Water Conference in Indonesia.
-
-🟩
-
-President Ranil Wickremesinghe and Elon Musk was aimed at discussing the implementation of the "Starlink" work facility in Sri Lanka.
-
-It was emphasized that the application process is committed to accelerating Sri Lanka with the global "Starlink" network.
-
-The President has left the island to attend the top 10th World Water Conference in Indonesia.
-
-◼️
-
-[Data](articles/f28fdcd4.json)
-
-[Extended Data](ext_articles/f28fdcd4.ext.json)
-
----
-
-### Mahesh Senanayake joined the Samagi Jana Balawegaya yesterday
-
-*2024-05-19 22:14:01* · [`dailyftlk`](https://www.ft.lk/news/Mahesh-Senanayake-joined-the-Samagi-Jana-Balawegaya-yesterday/56-761964) · `en`
-
-Former Army Commander General Mahesh Senanayake joined the Samagi Jana Balawegaya (SJB) yesterday during a meeting with SJB leader Sajith Premadasa.  The former Army Commander was also appointed as the Head of the Samagi Ranaviru Balawegaya by Premadasa. Other members of the Samagi Ranaviru Balawegaya, including Major Generals Nissanka Ranawana, Sumith Atapattu and Satyapriya Liyanage were also in attendance.
-
-◼️
-
-[Data](articles/0d560c80.json)
-
-[Extended Data](ext_articles/0d560c80.ext.json)
-
----
-
-### The "secure" insurance cover restores
-
-*2024-05-19 22:10:03* · [`adalk`](https://www.ada.lk/breaking_news/“සුරක්ෂා”-රක්ෂණාවරණය-යළි-ඇරඹේ/11-409724) · `si`
-
-President Ranil Wickremesinghe has reinstated the "Secure Student Insurance Cover," benefiting all schoolchildren nationwide starting June. This initiative aims to support education and safety amidst health issues, with financial aid for medical expenses, including hospital stays, hearing aids, and educational costs. The program, initially suspended due to economic challenges, is now set to continue post-economic recovery, targeting low-income families as well.
-
-🟩
-
-President Ranil Wickremesinghe has instructed to resume the temporary "safe 'student insurance cover temporarily suspended due to economic problem. Accordingly, all school children across the country will benefit from the first week of June.
-
-Cabinet was approved by the Cabinet Memorandum from President Ranil Wickremesinghe, Minister of Finance, Economic Stability and National Policies.
-
-"Protected" Students who are not able to educate and ensure their security due to health problems, school children have a program to enhance their security, to enhance school attendance, and secure school attendance.
-
-The program continued to work until 01.22.12.2012 due to the current economic crisis, the current economic crisis has been suspended on difficulties.
-
-...
-
-[Data](articles/7b168883.json)
-
-[Extended Data](ext_articles/7b168883.ext.json)
-
----
-
-### Iranian President and FM’s lives ‘at risk’ following helicopter crash - official
-
-*2024-05-19 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99323/iranian-president-and-fms-lives-at-risk-following-helicopter-crash-official) · `en`
-
-A helicopter carrying Iranian President Ebrahim Raisi and his foreign minister crashed on Sunday as it was crossing mountain terrain in heavy fog, an Iranian official told Reuters, and rescuers were making their way to the site of the incident.
-
-The official said the lives of Raisi and Foreign Minister Hossein Amirabdollahian were “at risk following the helicopter crash”, which happened on the way back from a visit to Iran’s border with Azerbaijan.
-
-“We are still hopeful but information coming from the crash site is very concerning,” said the official, speaking on condition of anonymity.
-
-The bad weather was complicating rescue efforts, the state news agency IRNA reported. The chief of staff of Iran’s army ordered all the resources of the army and the elite Revolutionary Guard to be put to use in the search and rescue operations.
-
-...
-
-[Data](articles/baff3336.json)
-
-[Extended Data](ext_articles/baff3336.ext.json)
-
----
-
-### Iran helicopter crash: President Ebrahim Raisi feared dead
-
-*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-feared-dead/155-282938) · `en`
-
-Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
-
-08.17 - Iranian official says 'expectations low' for president to be alive as rescuers locate helicopter - report
-
-Reuters news agency reports that an Iranian official has said "expectations are low" that the Iranian president will be found alive after his helicopter crashed.
-
-Rescuers have located the aircraft that was carrying Ebrahim Raisi, an official has told Iranian state television.
-
-The head of the Iranian Red Crescent Society, Pir Hossein Kolivand, said rescue teams were around 1.25 miles away from the crash site.
-
-06.47 - Turkish drone locates heat source in Iranian mountains
-
-A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
-
-...
-
-[Data](articles/238051a5.json)
-
-[Extended Data](ext_articles/238051a5.ext.json)
-
----
-
-### Iran helicopter crash: Contact made with passenger and crew member
-
-*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
-
-06.47 - Turkish drone locates heat source in Iranian mountains
-
-A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
-
-News agency Anadolu reported that the coordinates of the source had been shared with the Iranian authorities.
-
-04.03 - Iranian foreign ministry thanks 'governments and nations for solidarity'
-
-The Foreign Affairs Ministry of the Islamic Republic of Iran has issued a statement: "On Sunday afternoon, a helicopter carrying the President, the Minister of Foreign Affairs, and several companions unfortunately had an accident in the Varzaghan region of East Azerbaijan province.
-
-"Despite adverse weather and environmental conditions, efforts by rescue teams to reach the accident site continue earnestly and with hope.
-
-...
-
-[Data](articles/4f6b18d5.json)
-
-[Extended Data](ext_articles/4f6b18d5.ext.json)
 
 ---

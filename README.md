@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 20:04:00**
+As of **2024-05-20 20:18:30**
 
 ## Newspaper Stats
 
-*Scraped **25,243** Articles*
+*Scraped **25,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 2,164
 adaderanalk | 2,922
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
-dailymirrorlk | 3,964
-adaderanasinhalalk | 4,037
+dailymirrorlk | 3,965
+adaderanasinhalalk | 4,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,242 (100.0%) of 25,243 articles have been extended.
+25,242 (100.0%) of 25,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### අයහපත් කාලගුණය විශාල පිරිසක් පීඩාවට
+
+*2024-05-20 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196833) · `si`
+
+පවතින කාලගුණික තත්ත්වය හමුවේ මේ වනවිට දිවයිනේ  දිස්ත්‍රික්ක 07ක පුද්ගලයින් 19,234 දෙනෙකු පීඩාවට පත්ව ඇති බව බලධාරීන් පවසයි.
+
+එමෙන්ම නිවාස 32කට අර්ධ හානි සිදුව ඇති බවත් පුද්ගලයින් 1,140දෙනෙකු ආරක්ෂිත ස්ථාන කරා යොමු කර ඇති බවත් සඳහන් ය.
+
+ගතවූ පැය 24තුළ වැඩිම වර්ෂාපතනය කුලියාපිටිය ප්‍රදේශයෙන් වාර්තාවූ අතර එය මිමි 141ක අගයකි.
+
+මාතර දිස්ත්‍රික්කයට ඇදහැලෙන අධික වර්ෂාවත් සමග මාතර කඹුරුපිටිය ප්‍රධාන මාර්ගයට ගසක් කඩාවැටීම හේතුවෙන් ප්‍රදේශ රැසක විදුලිය විසන්ධි වී තිබුණි.
+
+මේ අතර කොළඹ කිරුලපන පූර්වාරාම මාර්ගයේ ගමන්කරමින් තිබූ ත්‍රිරෝද රථයක් මතට ගසක අත්තක් කඩා වැටීමෙන් එහි ගමන්ගත් කාන්තාවක් සහ තවත් පුද්ගලයෙකු තුවාල ලබා කළුබෝවිල ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+
+ගාලු මුවදොර ජනාධිපති ලේකම් කාර්යාලය අසල ඉදි කෙරෙමින් තිබූ වෙසක් තොරණද පවතින අධික වර්ෂාව සහ සුළං හේතුවෙන් කඩා වැටී තිබුණි.
+
+රාජාංගනය ජලාශයේ ජල මට්ටමද අඩි 32ක් දක්වා ඉහළ ගොස් ඇති අතර ඒ හේතුවෙන් ජලාශයේ වාන් දොරටු 2ක් අඩි දෙක බැගින් විවෘත කර තිබේ.
+
+අංගමුව ජලාශයේද වාන් දොරටු දෙකම විවෘතකර ඇති අතර ඉන් පිටවන ජල ප්‍රමාණය තත්පරයට ඝණ අඩි 1200කි.
+
+...
+
+[Data](articles/b3015c3b.json)
+
+---
 
 ### President Ranil criticizes Global North’s failure in climate change financing
 
@@ -863,6 +889,24 @@ The Minister said that a cabinet paper will be submitted soon to propose an allo
 [Data](articles/c78e7734.json)
 
 [Extended Data](ext_articles/c78e7734.ext.json)
+
+---
+
+### Four ISIS terrorists hailing from Sri Lanka arrested at Ahmedabad airport
+
+*2024-05-20 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Four-ISIS-terrorists-hailing-from-Sri-Lanka-arrested-at-Ahmedabad-airport/155-282971) · `en`
+
+India, May 20 (Hindustan Times) - The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad.
+
+The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive and intention behind their presence at the Ahmedabad airport is not clear.
+
+The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
+
+In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh. The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
+
+◼️
+
+[Data](articles/10010b4b.json)
 
 ---
 
@@ -2273,49 +2317,5 @@ It was a year after he came to power and before he came to power, anti-governmen
 [Data](articles/7b8b7797.json)
 
 [Extended Data](ext_articles/7b8b7797.ext.json)
-
----
-
-### Poster
-
-*2024-05-20 10:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கஞ்சை-கொச்சைப்படுத்தி-சுவரொட்டி/73-337551) · `ta`
-
-Tamil community protests against deception regarding Mullivaikal events, asserting their right to display posters on public walls.
-
-🟩
-
-"Are you still deceiving Mullivaikal?"Posters have been pasted. The Tamil people have claimed the right to the wall for those posters pasted in black.
-
-◼️
-
-[Data](articles/7f19581b.json)
-
-[Extended Data](ext_articles/7f19581b.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-05-20 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196810) · `si`
-
-Heavy rains expected across several districts due to the southwest monsoon, with warnings issued for potential rainfall exceeding 100mm in areas like Galle, Matara, Kandy, Nuwara Eliya, and Mannar.
-
-🟩
-
-The Department of Meteorology has issued a warning red notice of heavy rains.
-
-Accordingly, the release statement in the Western, Sabaragamuwa, North Western Province and Galle, Matara, Kandy, Nuwara Eliya and Mannar districts.
-
-The Department of Meteorology announces that the southwest monsoon systematic establishes through the island.
-
-In some places in the Western and North Western Provinces, the Department of Meteorology has issued a red announcement that heavy rains can occur.
-
-In the Galle, Matara, Kandy, Nuwara Eliya and Mannar districts can also occur at more than 100mm.
-
-◼️
-
-[Data](articles/eafd3533.json)
-
-[Extended Data](ext_articles/eafd3533.ext.json)
 
 ---

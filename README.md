@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 02:50:59**
+As of **2024-05-21 03:04:00**
 
 ## Newspaper Stats
 
-*Scraped **25,300** Articles*
+*Scraped **25,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,493
+dailyftlk | 1,495
 adalk | 2,169
 adaderanalk | 2,925
 tamilmirrorlk | 2,955
@@ -26,11 +26,37 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,297 (100.0%) of 25,300 articles have been extended.
+25,300 (100.0%) of 25,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Growing disconnect of political elite and the President’s shrinking political options
+
+*2024-05-21 02:44:37* · [`dailyftlk`](https://www.ft.lk/columns/Growing-disconnect-of-political-elite-and-the-President-s-shrinking-political-options/4-762049) · `en`
+
+The present moment in Sri Lankan politics is one where the campaign strategies of the major political parties appear to be shifting to a new phase. As the possibility of elections gets higher, encounters among different political factions are entering a more intensified phase of confrontation. With the gears shifting, there appears to be little political movement and considerable ambiguity, which translates into voter confusion.
+
+However, a deeper scrutiny of recent political events are indicative of three main tectonic shifts in the political landscape: excessive exercise of power by the establishment elite, the President’s increasingly shrinking political options with the Rajapaksas signalling possible departure, and the National People’s Power’s (NPP) mobilising a series of trade union strikes.
+
+...
+
+[Data](articles/0e3d9320.json)
+
+---
+
+### Musings over museum in the east
+
+*2024-05-21 02:38:17* · [`dailyftlk`](https://www.ft.lk/columns/Musings-over-museum-in-the-east/4-762048) · `en`
+
+One is at a loss to understand why there is no smart, pragmatic and prudent thinking among our politicians. In a media release issued by the Presidential Media Division, the President is quoted as saying that he is allocating Rs. 25 million to construct a museum in Kalmunai in honour of the Late M.H.M. Ashraf, the founder leader of the Sri Lanka Muslim Congress and former Cabinet Minister. The media release states that “the memorial museum is to be built … at the request of Digamadulla District Member of Parliament...”
+
+...
+
+[Data](articles/17081567.json)
+
+---
 
 ### Mahinda Rajapaksa responsible for bankruptcy of SriLankan Airlines
 
@@ -43,6 +69,8 @@ One of the most unpardonable deeds was to destroy a profit-making SriLankan Airl
 ...
 
 [Data](articles/990d767f.json)
+
+[Extended Data](ext_articles/990d767f.ext.json)
 
 ---
 
@@ -62,6 +90,8 @@ These resolutions particularly stress the importance of the role of the High Com
 
 [Data](articles/5673b354.json)
 
+[Extended Data](ext_articles/5673b354.ext.json)
+
 ---
 
 ### Integrating entrepreneurship in education: An imperative for the change we want
@@ -75,6 +105,8 @@ To build an entrepreneurial culture, it is necessary to fundamentally alter tra
 ...
 
 [Data](articles/da0296d2.json)
+
+[Extended Data](ext_articles/da0296d2.ext.json)
 
 ---
 
@@ -2193,43 +2225,5 @@ The fishermen said that the fish that were captured amidst the fierce struggle w
 [Data](articles/66af7ad4.json)
 
 [Extended Data](ext_articles/66af7ad4.ext.json)
-
----
-
-### SLPP has not requested President to hold general elections first: Sagara Kariyawasam
-
-*2024-05-20 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-has-not-requested-President-to-hold-general-elections-first-Sagara-Kariyawasam/108-282969) · `en`
-
-Colombo, May 20 (Daily Mirror)- The Sri Lanka Podujana Peramuna (SLPP) has not requested President Ranil Wickremesinghe to hold a general election first but only conveyed the opnion of the SLPP to the President, SLPP General Secretary Sagara Kariyawasam said today.
-
-"According to the law, dates for the presidential election is certain. President has powers to dissolve Parliament at any time after two and half years of its term.  The decision to dissolve Parliament is in the hand of the President. SLPP founder Basil Rajapaksa informed the President that it is better to hold the general election first. The President will take the decision. We are ready to face any election, may it be the Presidential, General, Local Government or Provincial Council election," he told a news conference.
-
-...
-
-[Data](articles/bf350451.json)
-
-[Extended Data](ext_articles/bf350451.ext.json)
-
----
-
-### Pakistan launched a woman in Katunayake with heroin
-
-*2024-05-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196821) · `si`
-
-A 57-year-old Pakistani woman attempted to smuggle 2kg of heroin and 450g of drugs from Pakistan to Sri Lanka via Katunayake airport, hiding them in a pseudo base.
-
-🟩
-
-A large number of heroin was hidden in a pseudo base of Rs.
-
-She is a 57-year-old Pakistani woman and has tried to leave the drug out of the airport, indicating that she will come to Sri Lanka.
-
-A spokesperson of the Customs Daily Administration department stated that two kilograms of heroin and 450 grams were brought.
-
-◼️
-
-[Data](articles/6f04099c.json)
-
-[Extended Data](ext_articles/6f04099c.ext.json)
 
 ---

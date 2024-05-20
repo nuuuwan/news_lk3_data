@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 06:58:26**
+As of **2024-05-20 07:45:29**
 
 ## Newspaper Stats
 
-*Scraped **25,084** Articles*
+*Scraped **25,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,145
 adaderanalk | 2,900
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
-dailymirrorlk | 3,938
+dailymirrorlk | 3,939
 adaderanasinhalalk | 4,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,084 (100.0%) of 25,084 articles have been extended.
+25,084 (100.0%) of 25,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### March outstanding credit card balance stands at Rs. 148.7 bn
+
+*2024-05-20 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-outstanding-credit-card-balance-stands-at-Rs-148-7-bn/108-282926) · `en`
+
+Credit card ceiling rate due for downward revision as other lending rates descend fast
+
+Outstanding credit card balance of the licensed commercial banking sector has little changed in March from February despite an uptick signaling the trend that would follow as the consumers grow more optimistic about the economy. The interest rates have fallen to single digit levels.
+
+The outstanding card balance has crept up by only Rs.62 million in March from its February levels to Rs.148.7 billion, but the first quarter still shows a contraction by Rs.2.7 billion.
+
+While the credit card spend doesn’t show the full picture of consumer spending, the outstanding balance could see tangible movements from the second quarter onwards as people were taking more trips making use of the offers and discounts offered by banks for their credit cards.
+
+...
+
+[Data](articles/4f200bdd.json)
+
+---
 
 ### Govt. revenue in January surge 62% on economic turnaround, higher taxes
 
@@ -746,15 +764,17 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
 
+06.47 - Turkish drone locates heat source in Iranian mountains
+
+A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
+
+News agency Anadolu reported that the coordinates of the source had been shared with the Iranian authorities.
+
 04.03 - Iranian foreign ministry thanks 'governments and nations for solidarity'
 
 The Foreign Affairs Ministry of the Islamic Republic of Iran has issued a statement: "On Sunday afternoon, a helicopter carrying the President, the Minister of Foreign Affairs, and several companions unfortunately had an accident in the Varzaghan region of East Azerbaijan province.
 
 "Despite adverse weather and environmental conditions, efforts by rescue teams to reach the accident site continue earnestly and with hope.
-
-"The Islamic Republic of Iran sincerely thanks the numerous governments, nations, and international organizations for their expressions of human emotion and solidarity with the government and people of Iran, as well as their offers of help and assistance for the search and rescue operation."
-
-03.23 - Rescue crews have yet to find crash site of Iranian president's helicopter, official says
 
 ...
 
@@ -2097,27 +2117,5 @@ Registration for individuals who want to start a new business in Sri Lanka is a 
 [Data](articles/e795fb12.json)
 
 [Extended Data](ext_articles/e795fb12.ext.json)
-
----
-
-### BOI concerned over proposed Economic Transformation Bill
-
-*2024-05-19 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BOI-concerned-over-proposed-Economic-Transformation-Bill/108-282895) · `en`
-
-Colombo, May 19 -  The Sri Lanka All Union Alliance of the Board of Investment (BOI) has issued a stark warning against the proposed Economic Transformation Bill, set to be submitted to Parliament on May 22.
-
-The alliance cautions that the Bill will severely destabilize the investment sector, which is already grappling with economic challenges.
-
-According to the coalition, the Bill caters to a select few individuals without consulting field experts or investors. This could prompt the departure of existing investors, further jeopardizing the sector.
-
-The alliance calls for a transparent revision of the Bill, involving affected parties and economic experts.
-
-While proponents claim the act will drive significant economic transformation, the alliance argues that its true aim is to secure financial gains by transferring 15 profitable investment zones under BOI control to private associates before upcoming elections.
-
-...
-
-[Data](articles/1769e198.json)
-
-[Extended Data](ext_articles/1769e198.ext.json)
 
 ---

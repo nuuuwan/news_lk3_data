@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 19:52:08**
+As of **2024-05-20 20:04:00**
 
 ## Newspaper Stats
 
-*Scraped **25,242** Articles*
+*Scraped **25,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,365
 economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,164
-adaderanalk | 2,921
+adaderanalk | 2,922
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
 dailymirrorlk | 3,964
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,241 (100.0%) of 25,242 articles have been extended.
+25,242 (100.0%) of 25,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### President Ranil criticizes Global North’s failure in climate change financing
+
+*2024-05-20 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99344/president-ranil-criticizes-global-norths-failure-in-climate-change-financing) · `en`
+
+President Ranil Wickremesinghe highlighted the stark contrast between global funding priorities, while pointing out the willingness of the Global North to fund death and destruction in Ukraine while showing reluctance to finance measures to combat climate change.
+
+Delivered a speech at the 10th World Water Forum, held in Bali, Indonesia today (20), he also proposed a 10% levy on the annual profits of global tax evasion assets deposited in tax havens, estimated at $1.4 trillion annually.
+
+He suggested that funds raised through this levy could support Blended Finance projects focused on climate change adaptation and mitigation.
+
+In his opening remarks, President Wickremesinghe extended his gratitude to the President of Indonesia Joko Widodo for hosting the event, which centres around the theme “Water for Shared Prosperity.”
+
+...
+
+[Data](articles/76366f49.json)
+
+---
 
 ### Banning for the leader and the secretary in response
 
@@ -78,19 +96,25 @@ This is the first medal of Sri Lanka in the World Parath Winner Championship thi
 
 ---
 
-### පුත්තලම දිස්ත්‍රික්කයේ සියලු පාසල් හෙට 21 දිනයේද වැසේ
+### All schools in Puttalam District closed tomorrow 21
 
 *2024-05-20 18:50:04* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලම-දිස්ත්‍රික්කයේ-සියලු-පාසල්-හෙට-21-දිනයේද-වැසේ/11-409744) · `si`
 
-අද දින 20 ආරම්භ කිරීමට නියමිතව තිබූ පාසල් අහිතකර කාලගුණ තත්වයන් යටතේ පුත්තලම දිස්ත්‍රික්කයේ ආරම්භ නොකළ අතර දිගින් දිගටම පවතින වර්ෂාව සහිත කාගුණ තත්වයන් හමුවේ හෙට 21 දිනයේද එම පාසල් විවෘත නොවන බව වයඹ පළාත් අධ්‍යාපන අධ්‍යක්ෂ  ජේ. ඒ. එම්. පී. ජයතිලක මහත්මිය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසා සිටියි.
+Due to floods in Puttalam District, all schools are closed tomorrow. The Education Director announced this closure, affecting government schools.
 
-ඒ අනුව පුත්තලම දිස්ත්‍රික්කය තුළ සියලුම රජයේ පාසල් 21දින නොපැවැත්වෙන බව දන්වා සිටින අතර නැවම සත පාසල් ආරම්භ කරන්නාවූ දිනය හෙට 21 දිනයේදී දන්වන බව අධ්‍යාපන අධ්‍යක්ෂ වරිය දන්වා සිටියි.
+🟩
 
-පුත්තලම දිස්ත්‍රික්කයේ පාසල් ගනනාවක ජලගැලීම් සිදුව ඇති අතර මාරග වල සිදුවඇති ජලගැලීම් හේතුවෙන් ගමනා ගමනයටද බාධා සිදුව ඇත.
+North Western Provincial Director of Education is not open to the Puttalam District to be commenced today.. it. M. P.Ms. Jayatilleke has issued a special announcement.
+
+Accordingly, all government schools will not be held in the Puttalam District and that the Education Director is informed that the date of commences on the 21st tomorrow.
+
+Floods have taken place in the Puttalam district and the floods of maragamuwa have also been interrupted.
 
 ◼️
 
 [Data](articles/f5ba26bb.json)
+
+[Extended Data](ext_articles/f5ba26bb.ext.json)
 
 ---
 
@@ -2293,27 +2317,5 @@ In the Galle, Matara, Kandy, Nuwara Eliya and Mannar districts can also occur at
 [Data](articles/eafd3533.json)
 
 [Extended Data](ext_articles/eafd3533.ext.json)
-
----
-
-### Chief prelates urge Presidential pardon for Ven. Gnanasara Thera on Vesak Poya day
-
-*2024-05-20 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-prelates-urge-Presidential-pardon-for-Ven-Gnanasara-Thera-on-Vesak-Poya-day/108-282958) · `en`
-
-Colombo, May 20 (Daily Mirror) - Recognising the efforts of Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera in promoting national unity and social support, the Chief Prelates of the Malwathu, Asgiri, Ramanna Nikaya, and the Amarapura Maha Sangha Sabha have appealed to the President to grant Ven. Gnanasara Thera a pardon on Vesak Poya day.
-
-In a letter to the President, the Chief Prelates noted that Ven. Galaboda Atte Gnanasara Thera was sentenced to four years in prison on March 28, 2024, after being found guilty of causing discord during a media discussion about the Kooragala Rajamaha Vihara in 2016.
-
-Ven. Gnanasara Thero has also taken steps to alert authorities about extremist activities in society.
-
-His actions provided crucial support to state security forces, helping to prevent the spread of some extremist groups in Sri Lanka.
-
-As a result, several potential extremist conflicts in Sri Lankan society were averted, they claimed.
-
-◼️
-
-[Data](articles/bf5b3cdb.json)
-
-[Extended Data](ext_articles/bf5b3cdb.ext.json)
 
 ---

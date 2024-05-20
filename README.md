@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 01:52:19**
+As of **2024-05-21 02:03:51**
 
 ## Newspaper Stats
 
-*Scraped **25,288** Articles*
+*Scraped **25,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,91 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,483
+dailyftlk | 1,486
 adalk | 2,169
 adaderanalk | 2,925
 tamilmirrorlk | 2,955
 virakesarilk | 3,822
-dailymirrorlk | 3,971
+dailymirrorlk | 3,972
 adaderanasinhalalk | 4,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,284 (100.0%) of 25,288 articles have been extended.
+25,288 (100.0%) of 25,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Strengthening banking system boosts SME promotion: Semasinghe
+
+*2024-05-21 01:53:12* · [`dailyftlk`](https://www.ft.lk/business/Strengthening-banking-system-boosts-SME-promotion-Semasinghe/34-762033) · `en`
+
+Highlights connecting SOEs with private sector and committing to common interests is more effective
+
+Says strategy has transformed DLB from a loss of Rs. 750 m in 2022 to a profit of Rs. 450 m in 2023
+
+Expresses optimism on low interest rates to boost more private sector investments, entrepreneurship
+
+wtate Minister of Finance Shehan Semasinghe announced yesterday that the strengthening of the banking system, driven by recent economic progress, will positively impact the promotion of small and medium enterprises (SMEs) in the country. He attributed this to increased lending capacity and lower interest rates.
+
+Speaking at the Development Lottery Board’s sales comparison program at the Anuradhapura District Secretariat, Semasinghe highlighted the benefits of economic improvements on various sectors.
+
+...
+
+[Data](articles/8b752666.json)
+
+---
+
+### Sri Lanka’s first leadership and innovation program for creative debuts
+
+*2024-05-21 01:50:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-first-leadership-and-innovation-program-for-creative-debuts/34-762032) · `en`
+
+Good Life X (GLX) on Wednesday announced the launch of ‘The Creative Catalyst Fellowship’ (CCF) at Trace Expert City.
+
+The program, funded by the US Government’s development arm - the United States Agency for International Development (USAID), seeks innovative solutions to social issues, harnessing the power of creatives to raise awareness, mobilise resources, and advocate for positive change.
+
+USAID Sri Lanka and Maldives Director,Office of Governance and Vulnerable Populations Asta Zinbo delivered opening remarks highlighting, “Sri Lanka, the region, and the world are facing complex problems such as how to protect our climate and environment. We need new solutions. We are so excited to support this first group of ten fellows from different backgrounds to channel their creative energy to develop constructive solutions and raise public awareness to inspire positive change.  We are eager to see the results of the Creative Catalyst Fellowship next year.”
+
+...
+
+[Data](articles/bae88abc.json)
+
+---
+
+### Elections must be decided only by law - EDITORIAL
+
+*2024-05-21 01:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Elections-must-be-decided-only-by-law-EDITORIAL/172-282991) · `en`
+
+The elections in Sri Lanka are said to be conducted in a free and fair manner and according to the law. However, some laws have been promulgated in a manner that ruling parties can manipulate the law in their favour.
+
+The Sri Lankan Constitution states “The President of the Republic shall be elected by the people and shall hold office for a term of five years.” It again says “The poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.”
+
+Accordingly, the Election Commission (EC) on May 9 announced that the Presidential polls will be held between September 17 and October 16, this year. The Commission’s announcement was based on the country’s law and hence election could not be held before that period or postponed for a date after it.
+
+...
+
+[Data](articles/6ab4b8ad.json)
+
+---
+
+### Raigam Solar’s Sunflower powers Polonnaruwa DTH Tyre Manufacturers’ sustainable growth
+
+*2024-05-21 01:45:26* · [`dailyftlk`](https://www.ft.lk/business/Raigam-Solar-s-Sunflower-powers-Polonnaruwa-DTHTyreManufacturers-sustainable-growth/34-762031) · `en`
+
+Raigam Solar’s Sunflower Energy has announced the completion of yet-another commercial-scale solar project in Polonnaruwa.
+
+This landmark project caters to the energy needs of DTH Tyre Manufacturers, strategically located at their new export focused tyre manufacturing facility in Polonnaruwa. DTH Tyre Manufacturers, a forward-thinking entity, is keen on investing in renewable energy sources, foreseeing a brighter, and eco-friendly future.
+
+With Sunflower Energy as their trusted system provider, DTH is taking the first steps towards harnessing solar power to fuel their operations. Moreover, they express their intent to further embrace solar energy in the near future, underlining their commitment to sustainability.
+
+...
+
+[Data](articles/ce26e249.json)
+
+---
 
 ### Complete MEP Services by Hayleys Fentons for Vallibel Finance new corporate office in Colombo 03
 
@@ -46,6 +114,8 @@ This project by Hayleys Fentons was successfully completed by providing speciali
 
 [Data](articles/23d20533.json)
 
+[Extended Data](ext_articles/23d20533.ext.json)
+
 ---
 
 ### Munchee secures coveted No. 1 spot in LMD’s Most Loved Product Brands ranking
@@ -60,6 +130,8 @@ Since its inception, Munchee has remained dedicated to delighting consumers with
 
 [Data](articles/60f2b712.json)
 
+[Extended Data](ext_articles/60f2b712.ext.json)
+
 ---
 
 ### SLPA holds talks with US State Department officials
@@ -72,23 +144,31 @@ Under the Maritime Administration program for Sri Lanka Ports Authority (SLPA) e
 
 [Data](articles/0f358a4a.json)
 
+[Extended Data](ext_articles/0f358a4a.ext.json)
+
 ---
 
-### ’ஈரான் ஜனாதிபதியின் மறைவு அதிர்ச்சிக்குரியது’
+### Iran's president's death is shocking
 
 *2024-05-21 01:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதியின்-மறைவு-அதிர்ச்சிக்குரியது/175-337609) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இரங்கல் தெரிவித்துள்ளார்.
+Ibrahim Raisi, Iran's president, tragically passed away along with several top officials in a helicopter crash. His sudden death has deeply saddened former Sri Lankan President Mahinda Rajapaksa, who expressed his condolences. The Iranian Ambassador in Sri Lanka, Alresa Delgosh, also mourned Raisi's loss, highlighting his friendship with Sri Lanka and his commitment to serving the Iranian people.
 
-மஹிந்த ராஜபக்ஷ இப்ராஹிம் ரைசியின் மறைவை கேள்வியுற்று நேற்று இலங்கையில் உள்ள ஈரானிய தூதரகத்திற்கு சென்றுள்ளார்.
+🟩
 
-அங்கு ஈரானிய தூதுவர் அலிரேசா டெல்கோஷ் சந்தித்து இரங்கலை தெரிவித்ததோடு, இரங்கல் புத்தகத்தில் குறிப்பொன்றையும் பதிவிட்டுள்ளார்.
+Former President Mahinda Rajapakse has condoled the demise of Ibrahim Raisi.
 
-ஹெலிக்கொப்டர் கோர விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் அவருடன் சென்ற பல மூத்த  அதிகாரிகள் உயிரிழந்தமை ஆழ்ந்த அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஜனாதிபதி ரைசி இலங்கையின் உண்மையான நண்பராக இருந்தார். ஈரான் மக்கள் மீது அவர் கொண்ட தலைமைத்துவமும் அர்ப்பணிப்பும் என்றும் நினைவுகூரப்படும் என குறிப்பிட்டுள்ளார். (a)
+Mahinda Rajapaksa Ibrahim went to the Iranian embassy in Sri Lanka yesterday.
+
+Iranian Ambassador Alresa Delgosh met with condolences and posted a reference to the book of condolences.
+
+The death of Iranian President Ibrahim Raisi and several senior officials who accompanied him in the helicopter crash. President Raisi was a true friend of Sri Lanka. He said that he would have the leadership and dedication to the people of Iran.. (A)
 
 ◼️
 
 [Data](articles/3305c140.json)
+
+[Extended Data](ext_articles/3305c140.ext.json)
 
 ---
 
@@ -2173,101 +2253,5 @@ The minister met with the Global Director for Water for the World Bank Saroj Jha
 [Data](articles/26e13de3.json)
 
 [Extended Data](ext_articles/26e13de3.ext.json)
-
----
-
-### World Bank help to restructure US$800mn debt in Sri Lanka water sector
-
-*2024-05-20 13:51:00* · [`economynextcom`](https://economynext.com/world-bank-help-to-restructure-usd800mn-debt-in-sri-lanka-water-sector-163772/) · `en`
-
-ECONOMYNEXT – The World Bank will help Sri Lanka restructure the 800 million dollar debt in its water sector, Minister of Water Supply Jeevan Thondaman has said.
-
-“With the World Bank’s help, Sri Lanka will restructure its $800 million of debt in the water sector, have access to credit enhancement schemes that will make new water projects transparent and affordable and put us on a secured path to achieve SDG6,” Thondaman said on social media platform X (twitter).
-
-The minister met with the Global Director for Water for the World Bank Saroj Jha in Bali at the 10th World Water Forum.
-
-“Since our first meeting in December, Saroj has come forward to provide the full support of the World Bank for the ambitious reforms we are doing in Sri Lanka’s water sector.
-
-“I look forward to working with World Bank Water and deepening our partnership.”
-
-...
-
-[Data](articles/eaebfd81.json)
-
-[Extended Data](ext_articles/eaebfd81.ext.json)
-
----
-
-### President addressed World Water Summit
-
-*2024-05-20 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196819) · `si`
-
-At the 10th World Water Summit, President Ranil Wickremesinghe highlighted the $1.4 trillion annual profit from global tax evasion, proposing a 10% tax on this. He emphasized the need for funding to combat climate change's devastating effects, as he returned from an official visit to Indonesia.
-
-🟩
-
-President Ranil Wickremesinghe, who left the top 10th World Water Summit, addressed the conference today (20).
-
-The President has said that the annual profit of assets relating to global tax evictions has been estimated to be US $ 1.4 trillion and the President has said that Sri Lanka has proposed a 10% tax on the profit.
-
-President Ranil Wickremesinghe returned to Indonesia on a two-day official visit to the Gutura International Airport on the 18th.
-
-President Ranil Wickremesinghe has said that the 10th World Water Summit is reluctant to fund the death and destruction of death and destruction of the deaths caused by climate change.
-
-All the heads of state attended by the convention were also present at a dinner.
-
-◼️
-
-[Data](articles/95c4c8dd.json)
-
-[Extended Data](ext_articles/95c4c8dd.ext.json)
-
----
-
-### Hold Presidential, General elections simultaneously: SJB MP
-
-*2024-05-20 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hold-Presidential-General-elections-simultaneously-SJB-MP/108-282964) · `en`
-
-Colombo, May 20 (Daily Mirror)- Responding to speculations made on the political platform that a general election will precede a Presidential election, Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna today urged the authorities to hold the Presidential and General elections simultaneously.
-
-“There is wide speculation in the political circle that a General Election may precede a Presidential election. We are ready for any election, be it a Presidential or a General election. We have a candidate in the form of Sajith Premadasa who will be backed by many at a Presidential poll. We also have a good team which could emerge victorious at a General election. Therefore, we in the SJB are ready for any election,” he said.
-
-“We have called for the holding of a General and Presidential elections simultaneously in an earlier instance as well. We therefore, reiterate our stand that both elections should be held simultaneously. There seems to be no legal barrier for such an eventuality,” he added.
-
-...
-
-[Data](articles/ea846fd0.json)
-
-[Extended Data](ext_articles/ea846fd0.ext.json)
-
----
-
-### Court order to the Commissioner General of Prisons
-
-*2024-05-20 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196818) · `si`
-
-Colombo Chief Magistrate Thilina Gamage ordered the Commissioner General of Prisons to court over issues with transporting inmates. Prisoners' sick leave protests disrupt court proceedings.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage ordered the Commissioner General of Prisons to appear before court today (20).
-
-It focuses on the prison inmates have not been brought to the court when he commenced the cases in the Colombo Chief Magistrate's Court today.
-
-The Colombo Chief Magistrate also ordered the Commissioner General of Prisons for the Commissioner General of Prisons.
-
-Meanwhile, it was reported that prison officials have been reported today and reported to the service in several parts of the island.
-
-Prison Commissioner Gamini B. Gamini B. Gamini B.. Mr. Dissanayake announced today.
-
-It is reported that a group of prisoners and sergeants have laid sick leave as a professional program based on several demands, including non-increases and resolving the base of the officer.
-
-Accordingly, prison officials in Welikada, Galle and Matara prison officers have been instructed to enter the procedure.
-
-...
-
-[Data](articles/aabbd8ac.json)
-
-[Extended Data](ext_articles/aabbd8ac.ext.json)
 
 ---

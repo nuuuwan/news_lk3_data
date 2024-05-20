@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 04:18:42**
+As of **2024-05-21 04:33:46**
 
 ## Newspaper Stats
 
-*Scraped **25,302** Articles*
+*Scraped **25,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,495
+dailyftlk | 1,503
 adalk | 2,169
 adaderanalk | 2,925
 tamilmirrorlk | 2,955
-virakesarilk | 3,822
+virakesarilk | 3,829
 dailymirrorlk | 3,973
 adaderanasinhalalk | 4,043
 
@@ -26,11 +26,267 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,302 (100.0%) of 25,302 articles have been extended.
+25,302 (99.9%) of 25,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### மருந்து விநியோகம் மற்றும் சுகாதாரத் துறை ஊழியர் இடமாற்றக் கொள்கை குறித்தும் கலந்துரையாட இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் தீர்மானம்
+
+*2024-05-21 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184096) · `ta`
+
+இலங்கையில் மருந்துப் பொருட்களுக்கு தட்டுப்பாடு உள்ளதா இல்லையா என்பது குறித்தும் சுகாதார ஊழியர் இடமாற்றக் கொள்கை குறித்தும் இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம் கவனம் செலுத்தியுள்ளது. இந்த விடயம் குறித்து கலந்துரையாடுவதற்கு சுகாதார அமைச்சு மற்றும் அரச மருத்துவ அதிகாரிகள் சங்கத்தின் (GMOA) அதிகாரிகளை அழைக்க ஒன்றியம் தீர்மானித்தது.
+
+இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியம்  அதன் தலைவர் கௌரவ (பேராசிரியர்) சன்ன ஜயசுமன தலைமையில் அண்மையில் (14) கூடிய போதே இந்த விடயம் கலந்துரையாடப்பட்டது.
+
+இலங்கையில் மருந்துப் பொருட்களுக்கு தட்டுப்பாடு உள்ளதா இல்லையா என்பது குறித்துக் கலந்துரையாடுவதற்கு  அரச மருத்துவ அதிகாரிகள் சங்கத்தின் பிரதிநிதிகளை அழைப்பதற்கும் அதன் பின்னர் சம்பந்தப்பட்ட அதிகாரிகளுடன் இது தொடர்பில் கலந்துரையாடப்பட வேண்டும் எனவும் ஒன்றியத்தின் உறுப்பினர்களின் கருத்தாக இருந்தது.
+
+...
+
+[Data](articles/fc465e24.json)
+
+---
+
+### இலங்கை - இந்தோனேசியா வரலாற்று உறவுகளை பலப்படுத்திக் கொள்வதற்கு இரு நாட்டுத் தலைவர்களும் உறுதி!
+
+*2024-05-21 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184095) · `ta`
+
+இரு நாடுகளுக்கும் இடையிலான பொருளாதார உறவுகளை மேம்படுத்துவதற்காக 2025 ஆம் ஆண்டின் முதல் காலாண்டுக்குள் வர்த்தக ஒப்பந்தத்தில் (PTA) கைச்சாத்திட வேண்டியதன் அவசியம் வலியுறுத்தப்பட்டது.
+
+இந்தோனேசிய தலைநகர் பாலியில் நடைபெற்று வரும் பத்தாவது உலக நீர் மாநாட்டுக்கு இணையாக ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவிற்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு திங்கட்கிழமை (20) இடம்பெற்றது.
+
+இந்தோனேசிய ஜனாதிபதி இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்கவை சிநேகபூர்வமாக வரவேற்றதுடன், இரு நாட்டுத் தலைவர்களுக்கும் இடையிலான சிநேகபூர்வ உரையாடலின் பின்னர், இருதரப்பு கலந்துரையாடல்களும் ஆரம்பிக்கப்பட்டன.
+
+இலங்கைக்கும் இந்தோனேசியாவுக்கும் இடையிலான வரலாற்று உறவுகளை மேலும் பலப்படுத்த இரு நாட்டு தலைவர்களும் உறுதி எடுத்துக்கொண்டதோடு, பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது தொடர்பிலும் விசேட கவனம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/cc06bc1e.json)
+
+---
+
+### படையினரிடம் சரணடைந்து காணாமலாக்கப்பட்ட அப்பாவிக் குழந்தைகள் எங்கே? - சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் காட்டமான தொனியில் கேள்வி
+
+*2024-05-21 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184094) · `ta`
+
+இறுதிக்கட்டப்போரின்போது படையினரிடம் சரணடைந்தவர்கள்கூட காணாமல்போயிருக்கிறார்கள். தமிழீழ விடுதலைப்புலிகள் இயக்கத்தின் உறுப்பினர்கள் குடும்பமாக சரணடைந்தார்கள். அக்குடும்பங்களில் குழந்தைகளும் இருந்தார்கள். நான் அந்தக் குழந்தைகளின் புகைப்படங்களைப் பார்த்தேன். அந்தக் குழந்தைகள் எங்கே? எனக் காட்டமாகக் கேள்வி எழுப்பிய சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், வலிந்து காணாமலாக்குதல் என்பது மிகமோசமான, மிகக்கொடூரமான குற்றமும், உளவியல் ரீதியான சி;த்திரவதையுமாகும். இது இலங்கையின் நன்மதிப்பை கறைபடியச்செய்திருக்கின்றது எனச் சுட்டிக்காட்டினார்.
+
+அதுமாத்திரமன்றி உண்மையோ, நீதியோ எதுவாக இருப்பினும், அதற்கான அழுத்தங்களையும், உதவிகளையும் மாத்திரமே சர்வதேச சமூகத்தினால் வழங்கமுடியும். இறுதித்தீர்வை இலங்கை மக்களுக்காக இலங்கையே வழங்கவேண்டும் எனவும், அதனை முன்னிறுத்திய பெரும் சக்தியாக அனைவரும் ஒன்றிணையவேண்டும் எனவும் அவர் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/853014e7.json)
+
+---
+
+### Gammanpila decries Mullaivaikkal events as tribute to LTTE
+
+*2024-05-21 03:50:19* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-decries-Mullaivaikkal-events-as-tribute-to-LTTE/56-762066) · `en`
+
+Criticises Govt. for its cowardice in permitting Mullaivaikkal commemoration events
+
+Acknowledges rights of family and friends to memorialise fallen combatants but said events that celebrate terrorists should not be allowed
+
+Claims Mullivaikkal event was not remembrance of deceased relatives but commemoration of terrorists, as evidenced by display of LTTE flags
+
+Challenges Amnesty International’s Agnès Callamard to try celebrating terrorists in her home country of France
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila criticised the Sri Lankan Government yesterday for permitting Mullaivaikkal commemoration events in the North, describing them as gatherings to honour Liberation Tigers of Tamil Eelam (LTTE) terrorists killed in the war.
+
+...
+
+[Data](articles/e87991c4.json)
+
+---
+
+### SJB calls for simultaneous Presidential and General Election to save costs
+
+*2024-05-21 03:49:01* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-for-simultaneous-Presidential-and-General-Election-to-save-costs/56-762065) · `en`
+
+Says regardless of the election sequence, SJB and its leader Sajith Premadasa is prepared to face any poll
+
+Stresses there are no legal impediments to holding both elections concurrently
+
+Accuses President Ranil Wickremesinghe of protecting Rajapaksas despite public disapproval
+
+Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna yesterday called on the Government to hold both the Presidential and General election on the same date.
+
+Addressing a press conference in Colombo, Rajakaruna noted that there were no legal impediments to holding both elections concurrently, and doing so would result in significant cost savings for the country.
+
+The MP remarked that regardless of whether the Presidential or Parliamentary election takes precedence, the SJB leader Sajith Premadasa, is prepared to face it. He further asserted that the SJB team is equally prepared for either scenario.
+
+...
+
+[Data](articles/c6a6a7b5.json)
+
+---
+
+### SLPP denies requesting President to call for Parliamentary elections first
+
+*2024-05-21 03:47:16* · [`dailyftlk`](https://www.ft.lk/news/SLPP-denies-requesting-President-to-call-for-Parliamentary-elections-first/56-762064) · `en`
+
+SLPP General Secretary Sagara Kariyawasam says party merely advised the President that prioritising general elections might be preferable
+
+Highlights ongoing efforts to spread hatred against national leaders and says Parliamentary election is most effective to expose these tactics
+
+Stresses ultimate decision lies with President Ranil Wickremesinghe and SLPP is ready to face any election
+
+Sri Lanka Podujana Peramuna (SLPP) General Secretary Sagara Kariyawasam clarified yesterday that the SLPP has not formally requested President Ranil Wickremesinghe to hold Parliamentary elections first. Instead, Kariyawasam emphasised that the SLPP merely conveyed its viewpoint on polls to the President.
+
+“According to legal provisions, the timing of the Presidential election is predetermined. The President holds the authority to dissolve Parliament at any point after two and a half years of its term. The decision to dissolve Parliament rests with the President,” said Kariyawasam during a press briefing.
+
+...
+
+[Data](articles/d9aecdbb.json)
+
+---
+
+### Maha Nayaka Theras seek Presidential pardon for Gnanasara Thera on Vesak
+
+*2024-05-21 03:45:17* · [`dailyftlk`](https://www.ft.lk/news/Maha-Nayaka-Theras-seek-Presidential-pardon-for-Gnanasara-Thera-on-Vesak/56-762063) · `en`
+
+Chief Prelates of the Malwathu and Asgiriya chapters of the Siyam sect, along with those of the Amarapura-Ramanna sect, have called on President Ranil Wickremesinghe to grant a Presidential pardon to the incarcerated Bodu Bala Sena (BBS) General Secretary, Galagoda Aththe Gnanasara Thera, on Vesak Poya Day. In a letter dated 13 May to the President, the Chief Prelates highlighted that Gnanasara Thera had advocated for Sinhala Buddhist nationalism and had alerted Sri Lankan forces to various extremist activities occurring in the country. They noted that his actions assisted security officials in curbing the spread of certain extremist elements throughout the country.
+
+...
+
+[Data](articles/1eeac79b.json)
+
+---
+
+### CID names Diana Gamage as suspect in passport case
+
+*2024-05-21 03:43:31* · [`dailyftlk`](https://www.ft.lk/news/CID-names-Diana-Gamage-as-suspect-in-passport-case/56-762062) · `en`
+
+The Criminal Investigations Department (CID) has submitted a report to the Colombo Chief Magistrate’s Court, naming former State Minister Diana Gamage as a suspect in the case pertaining to the obtaining of a diplomatic passport.
+
+Accordingly, the Colombo Chief Magistrate Thilina Gamage has ordered the CID to take appropriate measures and report back to the court.
+
+The CID has also reported the facts to Colombo Chief Magistrate alleging that the accused is missing from her residence.
+
+◼️
+
+[Data](articles/6b73eb65.json)
+
+---
+
+### இரத்தினபுரி தும்பர தோட்ட சம்பவம்; பத்தோடு பதினொன்றாகவே இருக்கப்போகின்றது...!
+
+*2024-05-21 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184093) · `ta`
+
+தோட்ட நிர்­வா­கத்­தி­னரால் தோட்­டத்­தொ­ழி­லா­ளர்கள் மிக மோச­மாக தாக்­கப்­பட்டு வரும் சம்­ப­வங்­க­ளுக்கு நிரந்­தர தீர்­வு­களைப் பெற்­றுக்­கொ­டுக்க முடி­யாமல் தொழிற்­சங்­கங்­களும் மலை­யக அர­சியல் கட்­சி­களும் தடு­மாறி நிற்­கின்­றன. சம்­பவம் இடம்­பெற்ற பிறகு குறித்த இடத்­துக்குச் சென்று பாதிக்­கப்­பட்ட நபர்­க­ளிடம் வாக்­கு­மூலம் கேட்­பதும் அவர்கள் அடித்தால் திருப்பி அடி­யுங்கள் என்று கூறி விட்டு வருவதன் மூலம் தமது கட­மைகள் முடிந்து விடு­கின்­றன என மலை­யக அர­சி­யல்­வா­திகள் நினைக்­கின்­றனர்.
+
+இரத்­தி­ன­புரி கிரி­யல்ல பொலிஸ் பிரி­வுக்­குட்­பட்ட தும்­பர தோட்­டத்தில் கடந்த 6 ஆம் திகதி இடம்­பெற்ற சம்­பவம் பார­தூ­ர­மா­ன­தாகும். பணிக்கு வர­வில்லை என்­ப­தற்­காக அத்­தோட்­டத்தின் தொழி­லாளர் தம்­ப­தியை தோட்ட முகா­மை­யா­ளரும் அவ­ரது உத­வி­யா­ளர்­களும் கீழே தள்ளி தாக்­கிய காணொலி பல­ருக்கும் அதிர்ச்­சியை ஏற்­ப­டுத்­தி­யி­ருந்­தது. இரு­பதாம் நூற்­றாண்­டிலும் கூட தோட்­டத்­தொ­ழி­லா­ளர்கள் இவ்­வாறு கொத்­த­டி­மை­க­ளாக நடத்­தப்­ப­டு­கின்­றார்கள் என்­ப­தற்கு இதை விட ஒரு உதா­ரணம் தேவை­யில்லை.
+
+...
+
+[Data](articles/b69cab9b.json)
+
+---
+
+### Interim injunction issued against Wijeyadasa and Keerthi Udawatta
+
+*2024-05-21 03:41:33* · [`dailyftlk`](https://www.ft.lk/news/Interim-injunction-issued-against-Wijeyadasa-and-Keerthi-Udawatta/56-762061) · `en`
+
+The Colombo District Court has issued an interim order preventing Justice Minister Wijeyadasa Rajapakshe from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) and Keerthi Udawatta as Acting General Secretary of the party.
+
+This order was issued today by Colombo District Judge Sandun Withana after considering a plaint submitted by Member of Parliament Duminda Dissanayake.
+
+On May 16, the Colombo District Court had rejected the petition filed by Dissanayake seeking an interim injunction preventing Minister Rajapakshe from functioning as the Chairman and Udawatta as Acting General Secretary of the SLFP.
+
+Accordingly, the Colombo District Court refused to issue an injunction restraining the party, its organizations and officials from acting on the decision taken to appoint Minister Wijayadasa Rajapakshe as the Chairman and Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the SLFP.
+
+...
+
+[Data](articles/56da22bf.json)
+
+---
+
+### Keheliya and seven others further remanded
+
+*2024-05-21 03:39:19* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-and-seven-others-further-remanded/56-762060) · `en`
+
+Former Health Minister Keheliya Rambukwella and seven others were yesterday further remanded until 3 June by the Maligakanda Magistrate’s Court.
+
+They are facing charges related to the import of substandard human immunoglobulin vials.
+
+This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court. The Criminal Investigation Department (CID) arrested Rambukwella on 2 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
+
+...
+
+[Data](articles/87d9a6fe.json)
+
+---
+
+### Russian Embassy criticises Western double standards on human rights in SL
+
+*2024-05-21 03:36:41* · [`dailyftlk`](https://www.ft.lk/news/Russian-Embassy-criticises-Western-double-standards-on-human-rights-in-SL/56-762059) · `en`
+
+The Russian Embassy in Colombo in a statement yesterday slammed the double standards of “numerous Western political figures, diplomats and foreign quasi-human rights organisations” concerning human rights in Sri Lanka.
+
+“In spite of the fact that the above-mentioned personalities and entities are well known for their policy of double standards, the Embassy as the official representation of the Russian Federation would like once again to express its perplexity by the way those ‘ambassadors of justice’ see things,” it said.
+
+...
+
+[Data](articles/9fc4b778.json)
+
+---
+
+### பசறையில் இருவருக்கும் இடையில் ஏற்பட்ட வாக்குவாதம் கைக்கலப்பாக மாறியது; வீடு ஒன்றும் தீக்கரை
+
+*2024-05-21 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184092) · `ta`
+
+பசறை டெமேரியா பகுதியில் இருவருக்கு இடையில் ஏற்பட்ட வாக்குவாதம் முற்றி பின்னர் கைக்கலப்பாக மாறியதில் இருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் வீடொன்று தீவைத்து முற்றாக எரிக்கப்பட்டுள்ளதாகவும் பசறை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சம்பவத்தில் காயமடைந்தவர்கள் டெமேரியா (ஏ) தோட்டம் இரண்டாம் பிரிவைச் சேர்ந்த  25 மற்றும்30 வயதுடைய இருவர் எனவும் ஞாயிற்றுக்கிழமை (19) இரவு சுமார் 10.30 மணியளவில் இருவருக்கிடையே ஏற்பட்ட மோதலின் போது ஒருவர் குறித்த வீட்டுக்கு தீ வைத்துள்ளதாக பொலிஸார் ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அத்துடன் தீயினால் வீடு முற்றாக எரிந்து சேதமடைந்துள்ளதாகவும் காயமடைந்த இருவரும் பசறை வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைகளுக்காக பதுளை வைத்தியசாலைக்கு அனுப்பபட்டு அங்கு சிகிச்சை பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சம்பவம் தொடர்பில் இதுவரை எவரும் கைது செய்யப்படவில்லை எனவும் மேலதிக விசாரணைகளை பசறை பொலிஸார் மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fc0060a0.json)
+
+---
+
+### ஈரான் அதிபருக்காக இலங்கை முஸ்லிங்கள் துஆ பிரார்த்தனை செய்ய உலமா சபை பணிக்க வேண்டும் - ஐ.ஏ.கலிலூர் ரஹ்மான்
+
+*2024-05-21 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184091) · `ta`
+
+ஹெலிகாெப்டர் விபத்தில் ஈரான் அதிபர் இப்ராஹிம் ரைசி உட்பட 9 பேர் பரிதாபமாக உயிரிழந்தது குறித்து ஐக்கிய சமாதான கூட்டமைப்பு கட்சி சார்பில், அவர்களது குடும்பத்தினருக்கும், ஈரான் நாட்டு மக்களுக்கும் இரங்கலை தெரிவித்துக் கொள்கிறோம் என ஐக்கிய சமாதான கூட்டமைப்பின் பொருளாளரும், கொழும்பு மாநகர சபை முன்னாள் உறுப்பினருமான ஐ. ஏ. கலீலுர் ரஹ்மான் தெரிவித்துள்ளார்.
+
+ஈரானின் ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் வெளியுறவு அமைச்சர் அமீர் அப்துல்லாஹ், கிழக்கு அஜர்பைஜான் ஆளுநர் மாலிக் ரஹ்மதி மற்றும் தப்ரிச் நகர மதத்தலைவர் இமாம் அலி அல் ஹாஷிம், தளபதி மஹ்தி மூஸவி ஆகியோருடன் இணைந்து உயிரிழந்த நான்கு பேருக்கு இலங்கை சமூகம் இரங்கல் தெரிவிக்கிறது. அவர்களுக்கு, இஸ்லாத்தின் உன்னதமான ஜன்னதுல் பிர்தௌஸ் கிடைக்க பிரார்திக்கிறோம்.
+
+இலங்கை முஸ்லிம் சமூகம் அவர்களுக்காக காயிப்  ஜனாஸா தொழுது பிரார்த்தனை செய்ய அகில இலங்கை உலமா சபை ஆன்மீக வழிகாட்டலை வழங்க வேண்டும், குறிப்பாக எதிர்வரும் (24) வெள்ளிக்கிழமை, அரசியல் மற்றும் சிவில் தலைவர்கள் முஸ்லிம் சமூகத்தை வெள்ளைக் கொடி ஏந்தியபடி இரங்கல் தெரிவிக்க வலியுறுத்த கேட்டுக்கொள்கிறேன்.
+
+...
+
+[Data](articles/c942e94b.json)
+
+---
+
+### காலநிலை அனர்த்தங்களுக்கு நிதியளிக்கும் வேலைத்திட்டத்தில் துரதிஷ்டவசமாக உலக வட துருவ நாடுகள் தோல்வியடைந்துள்ளன - உலக நீர் உச்சி மாநாட்டில் ஜனாதிபதி வலியுறுத்தல்
+
+*2024-05-21 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184090) · `ta`
+
+உக்ரேனில் ஏற்படும் உயிர் அழிவுகளுக்கு நிதியளிக்க தயாராக இருக்கும், உலகளாவிய வட துருவ நாடுகள் காலநிலையால் ஏற்படும் அழிவுகளை தடுக்கும் பணிகளுக்கு நிதியளிக்க பின்வாங்குவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+
+இந்தோனேசியா, பாலி சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்றுவரும் 10ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்விலேயே ஜனாதிபதி  திங்கட்கிழமை (20) இதனை வலியுறுத்தினார்.
+
+உலகளாவிய வரி ஏய்ப்புச் சொத்துக்களின் வருடாந்த இலாபம் 1.4 டிரில்லியன் அமெரிக்க டொலர்களாக மதிப்பிடப்பட்டிருப்பதால், அந்த இலாபத்தின் மீது, காலநிலை மாற்ற நிதியத்திற்காக 10% வரி விதிப்பதற்கான யோசனையையும் ஜனாதிபதி வலியுறுத்தினார்.
+
+"பொது செழுமைக்கான நீர்" என்ற தொனிப்பொருளின் கீழ் உலக நீர் உச்சி மாநாடு மே 18 ஆம் திகதி இந்தோனேசியாவின் பாலியில் ஆரம்பமானது. உலக நாடுகளின் தலைவர்கள், நிபுணர்கள், கல்வியாளர்கள், தொழில்முனைவோர் மற்றும் கொள்கை வகுப்பாளர்களை ஒன்றிணைக்கும் நோக்கில் இந்த மாநாடு நடத்தப்பட்டது.
+
+...
+
+[Data](articles/949ebf30.json)
+
+---
 
 ### Growing disconnect of political elite and the President’s shrinking political options
 
@@ -1885,349 +2141,5 @@ The Pakistanite woman and heroin he brought to the investigation into further in
 [Data](articles/d941555b.json)
 
 [Extended Data](ext_articles/d941555b.ext.json)
-
----
-
-### EU delegation reviews Sri Lanka rubber production EUDR-compliance
-
-*2024-05-20 15:54:00* · [`economynextcom`](https://economynext.com/eu-delegation-reviews-sri-lanka-rubber-production-eudr-compliance-163784/) · `en`
-
-ECONOMYNEXT – A European Union delegation has visited Sri Lanka to review the country’s compliance with the EU’s Regulation on Deforestation Free Products in the cultivation of rubber, Minister of Agriculture and Plantation Industries has said.
-
-The Regulation on Deforestation Free Products (EUDR), which comes into effect from December 30 this year, seeks to guarantee that products EU citizens consume do not contribute to deforestation or forest degradation worldwide.
-
-Sri Lanka which exports rubber and related products has agreed to implement the policies of the Act. Around 30 percent of the rubber exported by the country is bought by countries belonging to the European Union.
-
-The delegation included officials from the Michelin Group, Minister Amaraweera said in a social media post.
-
-The team evaluated the measures taken by the Sri Lankan government to expand rubber cultivation in Sri Lanka without destroying forests.
-
-...
-
-[Data](articles/09e780f0.json)
-
-[Extended Data](ext_articles/09e780f0.ext.json)
-
----
-
-### Enjoining order for Wijayadasa and Keerthi
-
-*2024-05-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196824) · `si`
-
-The Colombo District Court issued an enjoining order against Wijayadasa, the SLFP Chairman, due to a complaint by MP Duminda Dissanayake.
-
-🟩
-
-The Colombo District Court has issued an enjoining order preventing the Chairman of the SLFP as the Chairman of the Sri Lanka Freedom Party.
-
-Colombo District Judge Sandun Withana issued the order after considering a complaint presented by MP Duminda Dissanayake.
-
-◼️
-
-[Data](articles/6660506c.json)
-
-[Extended Data](ext_articles/6660506c.ext.json)
-
----
-
-### Motorists using expressway cautioned due to bad weather
-
-*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99338/motorists-using-expressway-cautioned-due-to-bad-weather) · `en`
-
-A special announcement has been issued for motorists traveling on the expressway, due to the prevailing adverse weather conditions.
-
-Accordingly, the Road Development Authority (RDB) requests motorists to maintain a maximum speed of 60km per hour when using the expressway.
-
-More than 19,000 people have been affected in 07 districts including Ratnapura, Kegalle, Anuradhapura, Kandy, Galle, Kalutara and Puttalam due to heavy rainfall.
-
-The number of affected families is currently reported as 4,786.
-
-Further, around 32 houses have been partially damaged and 1,140 people have been directed to safe locations.
-
-According to the current situation, more than 150mm of heavy rainfall is expected in the next 24 hours in the Western and North-Western provinces, says the Meteorological Department.
-
-Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts may experience heavy rains exceeding 100mm today.
-
-...
-
-[Data](articles/7ac99584.json)
-
-[Extended Data](ext_articles/7ac99584.ext.json)
-
----
-
-### Motorists using expressway caution due to bad weather
-
-*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99338/motorists-using-expressway-caution-due-to-bad-weather) · `en`
-
-A special announcement has been issued for motorists traveling on the expressway, due to the prevailing adverse weather conditions.
-
-Accordingly, the Road Development Authority (RDB) requests motorists to maintain a maximum speed of 60km per hour when using the expressway.
-
-More than 19,000 people have been affected in 07 districts including Ratnapura, Kegalle, Anuradhapura, Kandy, Galle, Kalutara and Puttalam due to heavy rainfall.
-
-The number of affected families is currently reported as 4,786.
-
-Further, around 32 houses have been partially damaged and 1,140 people have been directed to safe locations.
-
-According to the current situation, more than 150mm of heavy rainfall is expected in the next 24 hours in the Western and North-Western provinces, says the Meteorological Department.
-
-Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts may experience heavy rains exceeding 100mm today.
-
-...
-
-[Data](articles/86b92d8f.json)
-
-[Extended Data](ext_articles/86b92d8f.ext.json)
-
----
-
-### Four ISIS terrorists from Sri Lanka arrested at Ahmedabad airport - report
-
-*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99337/four-isis-terrorists-from-sri-lanka-arrested-at-ahmedabad-airport-report) · `en`
-
-The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad, Indian media reported today.
-
-The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive behind their presence at the Ahmedabad airport is not clear.
-
-Security has been heightened across the airport, the report said.
-
-The individuals, all Sri Lankan nationals, first arrived in Chennai before travelling to Ahmedabad, as per the media reports. They were waiting for instructions from their Pakistani handlers when they were apprehended.
-
-The arrest occurred before the suspects could receive any weapons, Indian media reports said. A press conference is scheduled for 4 PM where Gujarat DGP will provide further details regarding the arrests, it said.
-
-...
-
-[Data](articles/c8de8cee.json)
-
-[Extended Data](ext_articles/c8de8cee.ext.json)
-
----
-
-### Sri Lankan govers arrested in India
-
-*2024-05-20 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196823) · `si`
-
-Four suspected terrorists from Sri Lanka were arrested in India, specifically at Ahmedabad Airport by Gujarat's Anti-Terrorism Squad. The arrests followed long-standing investigations by security forces.
-
-🟩
-
-Four areis terrorist suspects have been arrested in India, regarding Sri Lanka.
-
-The Indian media reported that Gujaratt-Eradication Unit at Armadbad Airport was arrested.
-
-The four suspects are questioning long ago, security forces said.
-
-It is not yet known whether they have arrived at the airport.
-
-◼️
-
-[Data](articles/9eb8ade6.json)
-
-[Extended Data](ext_articles/9eb8ade6.ext.json)
-
----
-
-### Mother of three dies in acid attack
-
-*2024-05-20 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99336/mother-of-three-dies-in-acid-attack) · `en`
-
-A woman has reportedly died following an acid attack inside a house in Kahawa, according to Ambalangoda Police.
-
-The deceased has been identified as Gonapinuwala Premalatha, a 59-year-old mother of three, who reportedly supplies food to a school.
-
-Police suspect that an unidentified person had entered the house at around 4 a.m. today (20) and carried out the acid attack while she had been preparing meals in the kitchen.
-
-She was subsequently rushed to the Balapitiya Base Hospital by her neighbors and relatives following the incident, however she had succumbed to injuries shortly after the admission.
-
-◼️
-
-[Data](articles/cbfb9788.json)
-
-[Extended Data](ext_articles/cbfb9788.ext.json)
-
----
-
-### Minister of Justice Minister Prison Officers
-
-*2024-05-20 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196822) · `si`
-
-Dr. Wijayadasa Rajapakse, the Minister of Justice, plans to increase prison officers' salaries, proposing an allowance of Rs. 15,000 after discussions. This follows previous salary increases for police officers and prison officials before 2013, highlighting salary discrepancies. Despite agreeing with the fairness of the officers' demands, the decision considers the country's economic situation.
-
-🟩
-
-Minister of Justice Dr. Wijayadasa Rajapakse says that measures will be taken to increase the salaries of prison officers.
-
-The Minister said that a cabinet paper will be submitted soon to propose an allowance of Rs.
-
-...
-
-[Data](articles/c78e7734.json)
-
-[Extended Data](ext_articles/c78e7734.ext.json)
-
----
-
-### Four ISIS terrorists hailing from Sri Lanka arrested at Ahmedabad airport
-
-*2024-05-20 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Four-ISIS-terrorists-hailing-from-Sri-Lanka-arrested-at-Ahmedabad-airport/155-282971) · `en`
-
-India, May 20 (Hindustan Times) - The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad.
-
-The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive and intention behind their presence at the Ahmedabad airport is not clear.
-
-The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
-
-In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh. The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
-
-◼️
-
-[Data](articles/10010b4b.json)
-
-[Extended Data](ext_articles/10010b4b.ext.json)
-
----
-
-### Youth arrested with drug pills in Jaffna
-
-*2024-05-20 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184022) · `ta`
-
-In Jaffna, a 27-year-old man was arrested by Manipay police for possessing 25 drug pills. The arrest occurred on Sunday after a search based on confidential police information.
-
-🟩
-
-A young man with drug pills. He was arrested by Manipay police on Sunday (19).
-
-Based on the confidential information available to the police, a 27 -year -old youth from Sanganai area was searched by police, seizing 25 drugs from the young man's possession.
-
-Following this, the youth arrested the youth and detained the Manipay police station.
-
-◼️
-
-[Data](articles/159334e8.json)
-
-[Extended Data](ext_articles/159334e8.ext.json)
-
----
-
-### Four ISIS terrorists hailing from Sri Lanka arrested at Ahmedabad airport
-
-*2024-05-20 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-ISIS-terrorists-hailing-from-Sri-Lanka-arrested-at-Ahmedabad-airport/108-282971) · `en`
-
-India, May 20 (Hindustan Times) - The Gujarat Anti-Terrorism Squad (ATS) has arrested four ISIS terrorists, all of whom are Sri Lankan nationals, at Sardar Vallabhbhai Patel International Airport in Ahmedabad.
-
-The Gujarat ATS has taken the suspects to an undisclosed location for intensive questioning, reported TV9 Gujarati. The precise motive and intention behind their presence at the Ahmedabad airport is not clear.
-
-The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
-
-In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh. The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
-
-◼️
-
-[Data](articles/87f37a9f.json)
-
-[Extended Data](ext_articles/87f37a9f.ext.json)
-
----
-
-### The death of Iran's president is shocking - Mahinda
-
-*2024-05-20 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184039) · `ta`
-
-Mahinda Rajapaksa mourns the loss of Iranian President Ibrahim Raisi, expressing deep sorrow over the tragic helicopter crash that also claimed the lives of several top officials. Rajapaksa, during his visit to the Iranian embassy in Sri Lanka, conveyed his condolences and highlighted Raisi's friendship and dedication towards the Iranian people.
-
-🟩
-
-Former President Mahinda Rajapaksa has condoled the demise of Iranian President Ibrahim Raisi.
-
-Mahinda Rajapaksa visited the Iranian embassy in Sri Lanka on Monday (20).
-
-There, Iranian Ambassador Dr. Alresa met with Delkosh and expressed his condolences and posted a reference to the book of condolences.
-
-The death of Iranian President Ibrahim Raisi and several senior officials who accompanied him in the helicopter crash. President Raisi was a true friend of Sri Lanka. He said that he would have a leadership and commitment to the people of Iran.
-
-◼️
-
-[Data](articles/b77d445c.json)
-
-[Extended Data](ext_articles/b77d445c.ext.json)
-
----
-
-### The government is preparing for the presidential election - the United National Party
-
-*2024-05-20 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184044) · `ta`
-
-The government is gearing up for the upcoming presidential election, with speculation about whether it will coincide with a general election due to political maneuvering. Former UNP parliamentarian Saman Ratnapriya confirms Ranil Wickremesinghe's preparation for the presidency, despite rumors suggesting otherwise. There's uncertainty over the timing, with some predicting a parliamentary dissolution in mid-June and others stating the presidential election must occur between September 18 and October 16. The President has affirmed the election's holding this year, aligning with constitutional requirements. Despite opposition claims, Ranil Wickremesinghe's efforts to stabilize the economy highlight his suitability for the presidency, ensuring his candidacy remains strong.
-
-🟩
-
-Some people say that the general election will be held in the country. They make such a campaign with their selfish political purpose.
-
-But Ranil Wickremesinghe is preparing for the presidential election, said Saman Ratnapriya, a former UNP parliamentarian and director of the president's trade unions.
-
-He was speaking at a press conference held at Sirikotha on Monday (20) as the UNP headquarters.
-
-A few people say that the parliamentary election will be held in the country. Udayanga Weeratunga says parliament will be dissolved in mid -June.
-
-Parliamentarian Dylan Perera said he was sure that the parliamentary election would begin.
-
-At the same time, some are campaigning that Ranil Wickremesinghe will not contest the next presidential election.
-
-Thus they are carrying out campaigns based on their political program. But according to the political system, the presidential election must be held on September 18 and October 16.
-
-...
-
-[Data](articles/e624b3ed.json)
-
-[Extended Data](ext_articles/e624b3ed.ext.json)
-
----
-
-### Suspect arrested for sending over 100 persons to Russia on tourist visas
-
-*2024-05-20 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-sending-over-100-persons-to-Russia-on-tourist-visas/108-282970) · `en`
-
-Dehiwala, May 20 (Daily Mirror) - A person was arrested in Dehiwala for facilitating over 100 individuals to go to Russia on tourist visas, police said.
-
-The suspect was arrested by the Human Trafficking, Smuggling and Maritime Crime Investigation Division of the Criminal Investigation Department (CID).
-
-The suspect had reportedly assisted the individuals in obtaining tourist visas to Russia, while operating near the Russian embassy.
-
-Following interrogations, the suspect will be produced before court tomorrow.
-
-Investigations were initiated following reports of Sri Lankans being trafficked for participation in conflicts in the Russian and Ukrainian territories.
-
-Previously, several suspects were arrested by the Police and CID for allegedly trafficking Sri Lankans to Russia and Ukraine in recent weeks.
-
-◼️
-
-[Data](articles/592534bd.json)
-
-[Extended Data](ext_articles/592534bd.ext.json)
-
----
-
-### 49 kg of fish caught in the bait of fishermen
-
-*2024-05-20 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184033) · `ta`
-
-Fishermen catch 49kg of rare blue Helawalla (Henda) fish off Karadivu, valued for its size and color.
-
-🟩
-
-49 kg of blue pillar or locally blue Helawalla (Henda) fish is caught.
-
-The blue pillar or local fish, known as Helawalla (Henda), has been caught in the bait of fishermen who went fishing in the deep sea from Karadivu.
-
-The fish, which contains large eye and blue paints, has been caught in the Karativu area of Karadivu and the fishermen have embarked on an attempt to sell 49 kg of fish.
-
-The fishermen said that the fish that were captured amidst the fierce struggle were divided into seven categories and that they were valuable.
-
-◼️
-
-[Data](articles/66af7ad4.json)
-
-[Extended Data](ext_articles/66af7ad4.ext.json)
 
 ---

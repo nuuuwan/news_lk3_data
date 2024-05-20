@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 20:34:03**
+As of **2024-05-20 20:52:45**
 
 ## Newspaper Stats
 
-*Scraped **25,247** Articles*
+*Scraped **25,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,80 @@ adalk | 2,164
 adaderanalk | 2,922
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
-dailymirrorlk | 3,966
+dailymirrorlk | 3,968
 adaderanasinhalalk | 4,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,242 (100.0%) of 25,247 articles have been extended.
+25,247 (100.0%) of 25,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
+### Sri Lanka to get Octane 100 petrol soon
+
+*2024-05-20 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-get-Octane-100-petrol-soon/108-282984) · `en`
+
+Colombo, May 20 (Daily Mirror) - Sri Lanka is about to receive 100 Octane premium petrol, known as XP100 rating fuel, which helps enhance the performance of vehicles, particularly high-end luxury cars and bikes.
+
+A senior official from the Indian Oil Corporation (IOC) said the fuel stock is about to be received.
+
+The official said the price of a litre of fuel will be much higher than that of ordinary fuel products.
+
+This will be the first ever fuel produced with the highest Octane rating to be released to Sri Lanka by the IOC.
+
+It is reported that the high-Octane fuel stock has been shipped to Sri Lanka from the Jawaharlal Nehru Port Trust (JNPT) in Mumbai on May 18.
+
+It is special that this type of petrol, named XP100, has been developed locally in India.
+
+It is designed for high-efficiency engine performance, fast acceleration, smooth drivability and improved fuel economy in premium vehicles.
+
+...
+
+[Data](articles/a4c7cc94.json)
+
+---
+
+### ASP Minura Senarath appointed Acting Director of Police Media Division
+
+*2024-05-20 20:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ASP-Minura-Senarath-appointed-Acting-Director-of-Police-Media-Division/108-282983) · `en`
+
+Colombo, May 20 (Daily Mirror) - Assistant Superintendent of Police W. M. Minura Senarath has been appointed as the Acting Director of the Police Media Division by IGP Deshabandu Tennakoon.
+
+ASP Senarath joined the Sri Lanka Police Service as an Apprentice Assistant Superintendent of Police on 01.10.2019 and has been performing his duties as an ASP in the Colombo Central Division from January 2021.
+
+He assumed duties as the Acting Director of the Media Division on Monday (20).
+
+◼️
+
+[Data](articles/bb9f483e.json)
+
+---
+
 ### රුසියානු - යුක්‍රේන යුදබිමේ කොටුවූ අපේ මිනිස්සු
 
 *2024-05-20 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196834) · `si`
+
+Sinhalese soldiers stationed in Ukraine since 2022, including reservists and others from various professions, have confirmed their presence amidst ongoing conflict. Some describe surviving "very difficult times," highlighting the harsh realities of war. A video shared by a retiree named A.N. Nirose, who served as a soldier and moved to Russia due to economic hardships, showcases the struggles faced by those involved in the conflict. Despite the video's existence, there is no further information available about Nirose until now.
+
+🟩
 
 2022 වසරේ ඇරඹි රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරට විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින් මෙන්ම රුසියාවේ වෙනත් රැකියාවන්හි නිරතවූවන්ද එක්ව ඇති බව මේ වනවිටත් තහවුරුවී තිබේ.
 
 එලෙස එහි යුද පෙරමුණේ සිටින කිහිපදෙනෙකුම "අද දෙරණ" අමතමින් තමන් මුහුණදෙන කටුක අත්දැකීම් මෙලෙස පැහැදිලි කළහ.
 
-"ඩ්‍රෝනවලින් බොහොම අමාරුවෙන් බේරෙන්නේ.  එනවා ඔළුව උඩටම. මම ඊයේත් බොහොම අමාරුවෙන් බේරුණේ. කිව්වට තේරෙන්නේ නෑ ඒක ඔයාලට. අපිත් එක්ක ආපු පස්දෙනෙක් තුවාල වෙලා. එක්කෙනෙක් මැරිලා.  අනේ දෙයියනේ කියලා ගෙන්න ගන්න බලන්න කියන්න. බොරු කියලා මුං අපිව ගෙන්නලා මේ ලයින් එකට දාලා තියෙන්නේ ඉස්සරහම. ඒකයි වැඩේ. වැටෙනවා මම යනවා."
+"ඩ්‍රෝනවලින් බොහොම අමාරුවෙන් බේරෙන්නේ.  එනවා ඔළුව උඩටම. I survived very difficult from yesterday. කිව්වට තේරෙන්නේ නෑ ඒක ඔයාලට. Five suffered injuries with us. එක්කෙනෙක් මැරිලා. Tell us to get the godly. The line is brought together to bring us to lies. ඒකයි වැඩේ. I'm going. "
 
-අම්පාර, මිහිඳුපුර ගම්මානයේ පදිංචි ඒ. ඩි. එස්. නිරෝෂ විශ්‍රාමික යුද හමුදා සෙබළෙකු වූ අතර ඔහුද ආර්ථික අපහසුතා හේතුවෙන් පසුගිය මාර්තු 14 වනදා රුසියාවට ගොස් ඇති අයෙකි.
+අම්පාර, මිහිඳුපුර ගම්මානයේ පදිංචි ඒ. De. එස්. A Nirose retirement was a soldier and he had gone to Russia on March 14 due to economic difficulties.
 
 ...
 
 [Data](articles/606a1db0.json)
+
+[Extended Data](ext_articles/606a1db0.ext.json)
 
 ---
 
@@ -62,17 +108,23 @@ The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara
 
 [Data](articles/fa29a11f.json)
 
+[Extended Data](ext_articles/fa29a11f.ext.json)
+
 ---
 
-### අයහපත් කාලගුණය විශාල පිරිසක් පීඩාවට
+### A large number of inclement weather suffering
 
 *2024-05-20 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196833) · `si`
 
-පවතින කාලගුණික තත්ත්වය හමුවේ මේ වනවිට දිවයිනේ  දිස්ත්‍රික්ක 07ක පුද්ගලයින් 19,234 දෙනෙකු පීඩාවට පත්ව ඇති බව බලධාරීන් පවසයි.
+Inclement weather affects 19,234 people across seven districts, causing partial damage to 32 homes and relocating 1,140 individuals. The worst-hit areas include Kuliyapitiya with 141mm rainfall. Infrastructure issues like fallen trees disrupt power supply in several regions. A vehicle accident near Colombo due to a falling tree injures two passengers en route to Kalubowila Hospital. Heavy rain causes structural damage to buildings under construction, including one near the President's Office in Galle. Water levels rise significantly in several reservoirs, leading to the opening of sluice gates to manage overflow. Landslide warnings are issued for nine districts due to excessive rainfall.
 
-එමෙන්ම නිවාස 32කට අර්ධ හානි සිදුව ඇති බවත් පුද්ගලයින් 1,140දෙනෙකු ආරක්ෂිත ස්ථාන කරා යොමු කර ඇති බවත් සඳහන් ය.
+🟩
 
-ගතවූ පැය 24තුළ වැඩිම වර්ෂාපතනය කුලියාපිටිය ප්‍රදේශයෙන් වාර්තාවූ අතර එය මිමි 141ක අගයකි.
+According to the authorities, 19,234 people in seven districts in the island have been affected by the existing weather conditions.
+
+It is said that 32 houses were partially damaged and 1,140 people have been subjected to safe locations.
+
+The highest rainfall was reported from Kuliyapitiya and 141 mm.
 
 මාතර දිස්ත්‍රික්කයට ඇදහැලෙන අධික වර්ෂාවත් සමග මාතර කඹුරුපිටිය ප්‍රධාන මාර්ගයට ගසක් කඩාවැටීම හේතුවෙන් ප්‍රදේශ රැසක විදුලිය විසන්ධි වී තිබුණි.
 
@@ -80,13 +132,15 @@ The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara
 
 ගාලු මුවදොර ජනාධිපති ලේකම් කාර්යාලය අසල ඉදි කෙරෙමින් තිබූ වෙසක් තොරණද පවතින අධික වර්ෂාව සහ සුළං හේතුවෙන් කඩා වැටී තිබුණි.
 
-රාජාංගනය ජලාශයේ ජල මට්ටමද අඩි 32ක් දක්වා ඉහළ ගොස් ඇති අතර ඒ හේතුවෙන් ජලාශයේ වාන් දොරටු 2ක් අඩි දෙක බැගින් විවෘත කර තිබේ.
+The water level of the Rajanganaya Reservoir has risen to 32 feet and a 2 sluice gates of the reservoir have been opened two feet.
 
-අංගමුව ජලාශයේද වාන් දොරටු දෙකම විවෘතකර ඇති අතර ඉන් පිටවන ජල ප්‍රමාණය තත්පරයට ඝණ අඩි 1200කි.
+Both sluice gates of the Angamuwa reservoir have been opened, and the amount of water is 1200 thickness per second.
 
 ...
 
 [Data](articles/b3015c3b.json)
+
+[Extended Data](ext_articles/b3015c3b.ext.json)
 
 ---
 
@@ -105,6 +159,8 @@ In his opening remarks, President Wickremesinghe extended his gratitude to the P
 ...
 
 [Data](articles/76366f49.json)
+
+[Extended Data](ext_articles/76366f49.ext.json)
 
 ---
 
@@ -939,6 +995,8 @@ In March, two top-rung leaders of ISIS in India were arrested near the internati
 ◼️
 
 [Data](articles/10010b4b.json)
+
+[Extended Data](ext_articles/10010b4b.ext.json)
 
 ---
 
@@ -2255,47 +2313,5 @@ As a result, they have stated that many potential extremist conflicts in the Sri
 [Data](articles/d513a6d8.json)
 
 [Extended Data](ext_articles/d513a6d8.ext.json)
-
----
-
-### Over 650 jobs at risk at Sapugaskanda refinery?
-
-*2024-05-20 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99330/over-650-jobs-at-risk-at-sapugaskanda-refinery) · `en`
-
-More than 650 employees at the Sapugaskanda Refinery, the country’s sole oil refinery, face potential job losses due to its transformation into a separate public enterprise.
-
-According to sources, the government plans to retain only approximately 200 of the current employees for the new enterprise.
-
-The remaining workers will be placed in a pool from which the new enterprise will select the necessary personnel to maintain operations.
-
-In March, the Cabinet of Ministers recently approved a proposal to operate the Sapugaskanda Oil Refinery as a state-owned business entity disjoined from the Ceylon Petroleum Corporation (CPC).
-
-The government had said it has identified the need to make a ‘critical investment’ to upgrade the oil refinery in order to keep it up and running for another 25 years.
-
-...
-
-[Data](articles/fe8f42cf.json)
-
-[Extended Data](ext_articles/fe8f42cf.ext.json)
-
----
-
-### Military vehicle collides
-
-*2024-05-20 10:51:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-வாகனம்-மோதி-யுவதி-பலி/175-337555) · `ta`
-
-A military vehicle crash near Veeravani junction resulted in Yuvati's death after being injured and rushed to the hospital.
-
-🟩
-
-While she was taken to a bicycle, Yuvati was injured when a military vehicle crashed near Veeravani junction on Budhur - Kanakambuliyadi road.
-
-Yuvati died when she was taken to the hospital.
-
-◼️
-
-[Data](articles/93a5520c.json)
-
-[Extended Data](ext_articles/93a5520c.ext.json)
 
 ---

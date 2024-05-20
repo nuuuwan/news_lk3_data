@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 18:23:49**
+As of **2024-05-20 18:35:09**
 
 ## Newspaper Stats
 
-*Scraped **25,234** Articles*
+*Scraped **25,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,365
 economynextcom | 1,451
 dailyftlk | 1,480
 adalk | 2,160
-adaderanalk | 2,920
+adaderanalk | 2,921
 tamilmirrorlk | 2,951
 virakesarilk | 3,807
 dailymirrorlk | 3,963
@@ -26,25 +26,47 @@ adaderanasinhalalk | 4,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,228 (100.0%) of 25,234 articles have been extended.
+25,234 (100.0%) of 25,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### புத்தளம் பாடசாலைகளுக்கு விடுமுறை
+### Anura and Sajith agree on date for debate
+
+*2024-05-20 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99343/anura-and-sajith-agree-on-date-for-debate) · `en`
+
+Leader of the National People’s Power (NPP) Anura Kumara Dissanayake has accepted the date of June 06 from the dates proposed by the Samagi Jana Balawegaya (SJB) for the debate with its leader Sajith Premadasa.
+
+This was revealed by NPP executive committee member Dr. Nalinda Jayatissa, who is also the party‘s coordinator for the proposed ‘Anura-Sajith’ debate, in a statement issued to the media on Monday (20).
+
+Accordingly, Dr. Jayatissa further stated that he will discuss the other details such as the place, time and scope of the debate with SJP MP Nalin Bandara, who has been appointed by the ‘Samagi Jana Balawegaya’ to coordinate the proposed debate.
+
+◼️
+
+[Data](articles/0fd6de9e.json)
+
+---
+
+### Holidays for Puttalam Schools
 
 *2024-05-20 18:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/புத்தளம்-பாடசாலைகளுக்கு-விடுமுறை/94-337601) · `ta`
 
-வடமேல் மாகாணத்தின் புத்தளம் மாவட்டத்தில் உள்ள அனைத்து பாடசாலைகளுக்கும் நாளை செவ்வாய்க்கிழமையும் (21), நாளை மறுதினம் புதன்கிழமையும் (22) விடுமுறை வழங்குமாறு வடமேல் மாகாண ஆளுநர் நசீர் அஹமட் பணித்துள்ளார்.
+Due to heavy rains flooding areas, Puttalam schools will be closed tomorrow for student safety, as decided by the Governor of the North Western Province and local officials.
 
-தொடர்ச்சியாக பெய்துவரும் பலத்த மழை காரணமாக புத்தளம் மாவட்டத்தில் பாடசாலைகள் உட்பட பல பிரதேசங்கள் வெள்ளத்தினால் மூழ்கியுள்ளன.
+🟩
 
-இதனை கவனத்திற்கொண்ட மாகாண ஆளுநர் , புத்தளம் மாவட்டச் செயலாளர் மற்றும் வடமேல் மாகாண பிரதம செயலாளர் ஆகியோருடன் கலந்துரையாடிய பின்னர், பாடசாலை மாணவர்களின் பாதுகாப்பு கருதி   பாடசாலைகளுக்கும் விடுமுறை வழங்க பணித்துள்ளார்.
+Governor of the North Western Province Nasir Ahmad has appointed all schools in the Puttalam district of the North Western Province to grant holidays tomorrow (21) and tomorrow.
+
+Due to continuous heavy rains, many areas, including schools in the Puttalam district, have been flooded.
+
+After discussing with the Provincial Governor, Puttalam District Secretary and the Chief Secretary of the North Western Province, he has been given holidays to schools for the safety of school children.
 
 ◼️
 
 [Data](articles/3703acf1.json)
+
+[Extended Data](ext_articles/3703acf1.ext.json)
 
 ---
 
@@ -126,6 +148,8 @@ Blended finance is the strategic use of development finance, such as public and/
 
 [Data](articles/8c3ef03b.json)
 
+[Extended Data](ext_articles/8c3ef03b.ext.json)
+
 ---
 
 ### Anura agree on a day of Sajith gave the debate
@@ -163,6 +187,8 @@ A bond maturing on 01.10.2032 closed up at 11.90/12.05 percent from 11.85/12.00 
 ◼️
 
 [Data](articles/113f3f7d.json)
+
+[Extended Data](ext_articles/113f3f7d.ext.json)
 
 ---
 
@@ -317,6 +343,8 @@ After Samapth Bank Plc, Dipped Products Plc saw the most active volumes (Rs84mn)
 ...
 
 [Data](articles/096fa92d.json)
+
+[Extended Data](ext_articles/096fa92d.ext.json)
 
 ---
 
@@ -513,6 +541,8 @@ The team evaluated the measures taken by the Sri Lankan government to expand rub
 ...
 
 [Data](articles/09e780f0.json)
+
+[Extended Data](ext_articles/09e780f0.ext.json)
 
 ---
 
@@ -1005,6 +1035,8 @@ The minister met with the Global Director for Water for the World Bank Saroj Jha
 ...
 
 [Data](articles/26e13de3.json)
+
+[Extended Data](ext_articles/26e13de3.ext.json)
 
 ---
 
@@ -2259,39 +2291,5 @@ The government has decided to send a senior senior officer of the Foreign Servic
 [Data](articles/274df53b.json)
 
 [Extended Data](ext_articles/274df53b.ext.json)
-
----
-
-### Woman killed in Kumbukkan Oya
-
-*2024-05-20 09:37:55* · [`adalk`](https://www.ada.lk/breaking_news/කුඹුක්කන්-ඔයේ-දිය-නෑමට-ගිය-කාන්තාවක්-ඝාතනයට-ලක්වේ---සැකකාර-සැමියා-ප්‍රදේශයෙන්-පළා-ගිහින්/11-409732) · `si`
-
-A woman from Lunugala was found dead in Kumbukkan Oya, reportedly due to a family dispute. She was identified as Conday, a mother of two. Her body showed signs of severe facial injuries. Police suspect foul play but no arrests have been made yet.
-
-🟩
-
-The body of Lunagala was found in the Kubukkan Oya yesterday evening yesterday (19) at the Kubukkani's daughter-in Kubukkani yesterday (19).
-
-Conday a mother of two 36 persons, a resident of Lunugala, the police said.
-
-The police said that he had gone to Kumbukkan Oya near his home.
-
-The police have found the police while she had been assassinated by Kumbukkan Oya.
-
-Police said that the forest was seriously injured in the face, and a few mouth teeth had had a broken family dispute.
-
-After the woman's murder, the police suspect that he had fled the area where the husband was working as a driver.
-
-Passara Magistrate Udari Sampath Gunatilake yesterday (19); The incident went to the scene and conducted the magistrate test.
-
-The body was sent to Badulla Teaching Hospital and conducted the post mortem and submit medical reports to the courts.
-
-No arrests have been arrested so far and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/a33ae52f.json)
-
-[Extended Data](ext_articles/a33ae52f.ext.json)
 
 ---

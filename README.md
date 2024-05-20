@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 19:33:54**
+As of **2024-05-20 19:52:08**
 
 ## Newspaper Stats
 
-*Scraped **25,241** Articles*
+*Scraped **25,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,451
 dailyftlk | 1,480
-adalk | 2,163
+adalk | 2,164
 adaderanalk | 2,921
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,239 (100.0%) of 25,241 articles have been extended.
+25,241 (100.0%) of 25,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### தலைவருக்கும் பதில் செயலாளருக்கும் தடை
+### Banning for the leader and the secretary in response
 
 *2024-05-20 19:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவருக்கும்-பதில்-செயலாளருக்கும்-தடை/175-337604) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக அமைச்சர் விஜயதாச ராஜபக்ஷவையும், பதில் செயலாளர் நாயகமாக கீர்த்தி உடவத்தவையும் நியமிப்பதற்கான தீர்மானத்தை அமுல்படுத்துவதற்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான   தடை உத்தரவை திங்கட்கிழமை (20) பிறப்பித்துள்ளார்.
+Colombo Chief District Magistrate Sandhwitha issued an injunction, allowing Vijayadasa Rajapaksa as SLFP leader and Keerthi Udawatta as Secretary General, pending party's response to Duminda Dissanayake's complaint. The order aims to prevent disruption of party activities.
 
-கட்சியின் பதில் பொதுச் செயலாளர்  துமிந்த திஸாநாயக்கவினால் தாக்கல் செய்யப்பட்ட திருத்தப்பட்ட முறைப்பாட்டினை பரிசீலித்த பின்னரே இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-பதில் பொதுச் செயலாளர்  துமிந்த திசாநாயக்க மற்றும் தலைவர் நிமல் சிறிபாத சில்வா ஆகியோர் கட்சி நடவடிக்கைகளுக்கு இடையூறு விளைவிக்கக் கூடாது எனவும்  மாவட்ட நீதவான் இடைக்கால தடையுத்தரவை பிறப்பித்துள்ளார்.
+Colombo Chief District Magistrate Sandhwitha has issued an injunction order to implement Minister Vijayadasa Rajapaksa as the leader of the Sri Lanka Freedom Party (SLFP) and the appointment of Keerthi Udawatta as the Secretary General of the Reply.
+
+The ban was issued only after the party's response was considering the amended complaint filed by Duminda Dissanayake.
+
+The District Magistrate has issued an interim injunction not to disrupt the party's activities.
 
 ◼️
 
 [Data](articles/3f9cc57d.json)
+
+[Extended Data](ext_articles/3f9cc57d.ext.json)
 
 ---
 
@@ -69,6 +75,22 @@ This is the first medal of Sri Lanka in the World Parath Winner Championship thi
 [Data](articles/6f095b35.json)
 
 [Extended Data](ext_articles/6f095b35.ext.json)
+
+---
+
+### පුත්තලම දිස්ත්‍රික්කයේ සියලු පාසල් හෙට 21 දිනයේද වැසේ
+
+*2024-05-20 18:50:04* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලම-දිස්ත්‍රික්කයේ-සියලු-පාසල්-හෙට-21-දිනයේද-වැසේ/11-409744) · `si`
+
+අද දින 20 ආරම්භ කිරීමට නියමිතව තිබූ පාසල් අහිතකර කාලගුණ තත්වයන් යටතේ පුත්තලම දිස්ත්‍රික්කයේ ආරම්භ නොකළ අතර දිගින් දිගටම පවතින වර්ෂාව සහිත කාගුණ තත්වයන් හමුවේ හෙට 21 දිනයේද එම පාසල් විවෘත නොවන බව වයඹ පළාත් අධ්‍යාපන අධ්‍යක්ෂ  ජේ. ඒ. එම්. පී. ජයතිලක මහත්මිය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසා සිටියි.
+
+ඒ අනුව පුත්තලම දිස්ත්‍රික්කය තුළ සියලුම රජයේ පාසල් 21දින නොපැවැත්වෙන බව දන්වා සිටින අතර නැවම සත පාසල් ආරම්භ කරන්නාවූ දිනය හෙට 21 දිනයේදී දන්වන බව අධ්‍යාපන අධ්‍යක්ෂ වරිය දන්වා සිටියි.
+
+පුත්තලම දිස්ත්‍රික්කයේ පාසල් ගනනාවක ජලගැලීම් සිදුව ඇති අතර මාරග වල සිදුවඇති ජලගැලීම් හේතුවෙන් ගමනා ගමනයටද බාධා සිදුව ඇත.
+
+◼️
+
+[Data](articles/f5ba26bb.json)
 
 ---
 
@@ -159,6 +181,8 @@ The prosecutor must request the warrants from a pre-trial panel of three judges,
 ...
 
 [Data](articles/9a6ea52f.json)
+
+[Extended Data](ext_articles/9a6ea52f.ext.json)
 
 ---
 
@@ -2291,27 +2315,5 @@ As a result, several potential extremist conflicts in Sri Lankan society were av
 [Data](articles/bf5b3cdb.json)
 
 [Extended Data](ext_articles/bf5b3cdb.ext.json)
-
----
-
-### Iranian President Ebrahim Raisi killed in helicopter crash, official says
-
-*2024-05-20 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99329/iranian-president-ebrahim-raisi-killed-in-helicopter-crash-official-says) · `en`
-
-(Reuters) - Iranian President Ebrahim Raisi and his foreign minister were killed in a helicopter crash in mountainous terrain and icy weather, an Iranian official said on Monday, after search teams located the wreckage in East Azerbaijan province.
-
-“President Raisi, the foreign minister and all the passengers in the helicopter were killed in the crash,” the senior Iranian official told Reuters, asking not to be named because of the sensitivity of the matter.
-
-Iran’s Mehr news agency confirmed the deaths, reporting that “all passengers of the helicopter carrying the Iranian president and foreign minister were martyred”.
-
-An Iranian official earlier told Reuters the helicopter carrying Raisi and Foreign Minister Hossein Amirabdollahian was completely burned in the crash on Sunday.
-
-State TV reported that images from the site showed the aircraft slammed into a mountain peak, although there was no official word on the cause of the crash.
-
-...
-
-[Data](articles/c90e7d98.json)
-
-[Extended Data](ext_articles/c90e7d98.ext.json)
 
 ---

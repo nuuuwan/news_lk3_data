@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 22:52:23**
+As of **2024-05-20 23:03:58**
 
 ## Newspaper Stats
 
-*Scraped **25,279** Articles*
+*Scraped **25,282** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 225
+colombotelegraphcom | 226
 bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,451
 dailyftlk | 1,480
-adalk | 2,168
-adaderanalk | 2,924
+adalk | 2,169
+adaderanalk | 2,925
 tamilmirrorlk | 2,953
 virakesarilk | 3,822
 dailymirrorlk | 3,971
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,278 (100.0%) of 25,279 articles have been extended.
+25,279 (100.0%) of 25,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ICC chief prosecutor seeks Netanyahu, Hamas leaders’ arrest
+
+*2024-05-20 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99347/icc-chief-prosecutor-seeks-netanyahu-hamas-leaders-arrest) · `en`
+
+(AP) — The chief prosecutor of the world’s top war crimes court said Monday he is seeking arrest warrants for leaders of Israel and Hamas, including Israeli Prime Minister Benjamin Netanyahu, over actions taken during their seven-month war.
+
+While Netanyahu and his defense minister, Yoav Gallant, do not face imminent arrest, the announcement by the International Criminal Court’s chief prosecutor was a symbolic blow that deepened Israel’s isolation over the war in Gaza.
+
+The court’s prosecutor, Karim Khan, accused Netanyahu, Gallant, and three Hamas leaders — Yehia Sinwar, Mohammed Deif and Ismail Haniyeh — of war crimes and crimes against humanity in the Gaza Strip and Israel.
+
+Netanyahu and other Israeli leaders condemned the move as disgraceful and antisemitic. U.S. President Joe Biden also lambasted the prosecutor and supported Israel’s right to defend itself against Hamas.
+
+...
+
+[Data](articles/486ce53d.json)
+
+---
 
 ### Man shot dead in Kalutara
 
@@ -48,27 +66,33 @@ Police said the victim was shot at with a T-56 assault rifle while he was at hom
 
 ---
 
-### පොලීසිය එන විට පැන්න පැනිල්ල මරණයෙන් කෙළවර වෙයි
+### When the police arrive, the parchment will end from death
 
 *2024-05-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196838) · `si`
 
-හෝමාගම, හිරිපිටිය ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයින් දෙදෙනෙකු සමග  මත්ද්‍රව්‍ය භාවිත කරමින් සිටි තරුණියක් පොලීසිය පැමිණෙන අවස්ථාවේදී නිවසේ ඉහළ මහලින් පැන පළායාමට උත්සාහ කිරීමේදී තාප්පය මතට වැටී තිබේ.
+In Hirikipitiya, Homagama, a 19-year-old fell, injuring herself on iron rods. She was treated at Homagama Base Hospital after her mother reported an attempted drug overdose. The suspects, including the husband of the complainant, were arrested and await medical examination before court proceedings.
 
-එහිදී තාප්පයේ තිබූ යකඩ කූරු ඇයගේ උදරයේ ඇනී බරපතළ තුවාල ලබා හෝමාගම මූලික රෝහලට ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+🟩
 
-මෙසේ මියගොස් ඇත්තේ පාදුක්ක, පහළ බෝපේ, කුරුන්දෙණිය ප්‍රදේශයේ පදිංචිව සිටි 19  හැවිරිදි තරුණියකි.
+When a young woman used in a house in Hirikipitiya, Homagama, had fallen on the wall when a young girl visiting the house of the house.
 
-හෝමාගම හිරිපිටිය බෝගහවිල ප්‍රදේශයේ නිවසක පුද්ගලයින් දෙදෙනෙකු සහ කාන්තාවක් අයිස් මත්ද්‍රව්‍ය පානය කරන බවට එම ස්ථානයේ සිටි පුද්ගලයෙකුගේ බිරිඳ පොලීසියට පැමිණිලි කර තිබුණාය.
+The iron sticks in the wall were seriously injured and treated at the Homagama Base Hospital.
 
-එම පැමිණිල්ලට අනුව හොමාගම පොලීසිය එම ස්ථානය වෙත ගොස් පරින්ෂා කිරීමේ 19 හැවිරිදි තරුණිය එලෙස ඉහළ මහලින් පැන පළායාමට උත්සාහ ඇති බව සඳහන් ය.
+The victim was a 19 year old resident of Padukka, Padukka, Bopay, Kudapadeniya.
 
-සිද්ධිය වූ අවස්ථාවේ එහි රැඳී සිටි පැමිණිලිකාර කාන්තාවගේ සැමියා සහ ඔහුගේ මිතුරා මේ වනවිට පොලිස් අත්අඩංගුවට ගෙන ඇත.
+The wife of a person in the Hiripitiya Bowahala, Homagama, had lodged a complaint with the police to drink ice drugs.
 
-ඔවුන් හෝමාගම අධිකරණ වෛද්‍ය නිලධාරීවරයාට යොමුකොට එහි වාර්තාව සමඟ හෝමාගම අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+According to the complaint, the 19-year-old girl who was a 19-year-old girl who was trying to go to the place and tried to escape.
+
+The complainant woman's husband and his friend have been arrested by the police.
+
+They are to be tabled in the Homagama Judicial Medical Officer and submit to Homagama courts with its report.
 
 ◼️
 
 [Data](articles/e01ebc59.json)
+
+[Extended Data](ext_articles/e01ebc59.ext.json)
 
 ---
 
@@ -393,6 +417,24 @@ He assumed duties as the Acting Director of the Media Division on Monday (20).
 [Data](articles/bb9f483e.json)
 
 [Extended Data](ext_articles/bb9f483e.ext.json)
+
+---
+
+### බන්ධනාගාර නිලධාරීන්ට පොලිස් නිලධාරීන්ට සමගාමීව දීමනා වැඩි කරයි
+
+*2024-05-20 20:16:30* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ට-පොලිස්-නිලධාරීන්ට-සමගාමීව-දීමනා-වැඩි-කරයි/11-409750) · `si`
+
+බන්ධනාගාර නිලධාරීන්ට පොලිස් නිලධාරීන්ට සමගාමීව දීමනා වැඩි කිරීමට අධිකරණ,බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා එකඟතාව පළකර තිබෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අදාළ දීමනා ලබා දෙන තෙක් රු.15000ක දීමනාවක් ලබා දීමට ලබන සතියේදී කැබිනට් පත්‍රිකාවක්  යොමු කිරීමට  පියවර ගෙන තිබෙන බවද එම දෙපාර්තමේන්තුව අද (20දා) මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+
+බන්ධනාගාර නිලධාරීන්ට වෘත්තීය ක්‍රියා මාර්ගවලට යොමු වීමේ නීත්‍යනුකුල අවස්ථාවක් නොමැති බවත්, ආයතන කිහිපයක නිලධාරීන් ඊයේ අධිකරණ කටයුතුවලින් වැළකී සිටීමට කටයුතු කර තිබෙන බවත් එම නිවේදනයේ සඳහන් කර තිබේ.
+
+බන්ධනාගාරවල අහ්‍යන්තර කටයුතුවලට හෝ  ආරක්ෂාවට මෙමගින්  බාධාවක් සිදුවී නොමැති බවත්,  සියලුම නිලධාරීන්ගේ නිවාඩු අවලංගු කර තිබෙන නිසා සියලු දෙනාම සේවයට වාර්තා කරන ලෙසට බන්ධනාගර කොමසාරිස් ජනරාල් විසින් නිලධාරීන්ට දන්වා තිබෙන බවත් එම නිවේදනයේ සඳහන්  වේ.
+
+...
+
+[Data](articles/dffdf25a.json)
 
 ---
 
@@ -1017,6 +1059,18 @@ The first song 'Fier Song ..' has been released in his upcoming film 'Devara-Par
 [Data](articles/289a3c41.json)
 
 [Extended Data](ext_articles/289a3c41.ext.json)
+
+---
+
+### The Beautiful Terrible Signs: The Ongoing Saga Of Rheumatic Heart Disease
+
+*2024-05-20 17:24:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-beautiful-terrible-signs-the-ongoing-saga-of-rheumatic-heart-disease/) · `en`
+
+Every physician likely recalls an unforgettable moment from his or her clinical rotation as a medical student that profoundly impacted him or her, leaving an indelible mark. For me it was the encounter with a patient suffering from Rheumatic Mitral Stenosis in India. In fact, it was the presence of my larger-than-life clinical professor that made the moment even more memorable. His mesmerizing descriptions of the clinical signs, such as “opening snap,” “rumbling mid-diastolic murmur,” and “presystolic accentuation,” along with precise timing between the second heart sound and the opening snap, had elevated the experience to another level. However, amidst my fascination, I must confess, I had failed to recognize the true gravity of these signs—their reflection of extreme suffering on the part of the patient. It never even once occurred to me then that these captivating signs were, in fact, manifestations of medical failure, the root cause behind them.
+
+...
+
+[Data](articles/13882107.json)
 
 ---
 
@@ -2233,79 +2287,5 @@ President Ranil Wickremesinghe X has said in a message that Sri Lanka is deeply 
 [Data](articles/8001cb92.json)
 
 [Extended Data](ext_articles/8001cb92.ext.json)
-
----
-
-### Two separate murders reported in Ratnapura and Lunugala
-
-*2024-05-20 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99333/two-separate-murders-reported-in-ratnapura-and-lunugala) · `en`
-
-A 32-year-old has reportedly been murdered with sharp weapon in the Dodampe area of Ratnapura.
-
-Preliminary police investigations have uncovered that the crime was committed by an individual over a dispute with the deceased, who is his uncle.
-
-The suspect has reportedly fled the area, and Ratnapura Police are conducting further investigations to apprehend him.
-
-Meanwhile, in a separate incident, a husband has reportedly murdered his wife in the Janathapura area of Lunugala over a family dispute, says police.
-
-It is reported that the deceased was a 36-year-old woman, who was a resident of Janathapura.
-
-Police said the suspect has fled the area following the murder and Lunugala Police are conducting further investigations to arrest him.
-
-◼️
-
-[Data](articles/aa42bc80.json)
-
-[Extended Data](ext_articles/aa42bc80.ext.json)
-
----
-
-### Nepali woman knives knives, gold and telephones
-
-*2024-05-20 12:35:46* · [`adalk`](https://www.ada.lk/breaking_news/නේපාල-කතට-පිහියක්-පෙන්වා-රන්භාණ්ඩ--මුදල්-සහ-දුරකථන-කොල්ලකාලා/11-409738) · `si`
-
-Kalutara North investigates theft at Raddating Hotel involving Tamanman Nimath, 23, who allegedly broke into a room and stole two mobile phones.
-
-🟩
-
-The Kalutara North has commenced investigations into the Raddeting Hotel Room and a large number of Rs.
-
-Tamanman Nimath, a 23-year-old woman has commenced investigations.
-
-The complaint has stated that the complainant woman has taken place with a group of people, the complaint had taken place while looting while she was staying in a room at a hospital in Waskaduwa area.
-
-It is also said that she has parted down the door of the hotel room and entered the mobile phone.
-
-The two mobile phones under a nearby lands have been recovered from a nearby land, police said.
-
-◼️
-
-[Data](articles/e31d8035.json)
-
-[Extended Data](ext_articles/e31d8035.ext.json)
-
----
-
-### Sri Lanka's golden spine in India discovery
-
-*2024-05-20 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-தங்க-முதுகுத்-தவளை-இந்தியாவில்-கண்டுபிடிப்பு/175-337570) · `ta`
-
-A rare golden-backed frog species, previously thought unique to Sri Lanka, has been discovered in India's Eastern Ghats. Researchers from various centers, including the Indian Zoology Center in Hyderabad, confirmed its presence at the Countnia Wildlife Sanctuary in Andhra Pradesh. This finding marks a significant contribution to biodiversity studies.
-
-🟩
-
-The Hylarana Gracilis, which is believed to belong to Sri Lanka only, has seen the Eastern Ghats of India.
-
-Deepa Jaiswal of the Indian Zoology Center in Hyderabad (ZSI) confirmed that this significant discovery took place at the Countnia Wildlife Sanctuary in Andhra Pradesh.
-
-Researchers of the ZSI's Freshwater Biology Regional Center in Hyderabad, the ZSI Western Regional Center in Pune, Maharashtra, and the Andhra Pradesh Biodiversity Board have cooperated in this significant study.
-
-It has been reported that a single golden back frog was hiding behind a wet, rotten tree near a small pond in Gaunitimpeal inside the sanctuary.
-
-◼️
-
-[Data](articles/8bc39ff1.json)
-
-[Extended Data](ext_articles/8bc39ff1.ext.json)
 
 ---

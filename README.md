@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 01:18:35**
+As of **2024-05-21 01:33:50**
 
 ## Newspaper Stats
 
@@ -105,6 +105,36 @@ Police said the victim was shot at with a T-56 assault rifle while he was at hom
 [Data](articles/ef5a8e0a.json)
 
 [Extended Data](ext_articles/ef5a8e0a.ext.json)
+
+---
+
+### Silver to Sri Lanka in the Asian Mixed City 4 x 400m Series
+
+*2024-05-20 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184083) · `ta`
+
+Sri Lanka secured silver in the 4x400m mixed ethnic event at the Angarasa Asian Series Championships, finishing in 3:17.00. The team included Aruna Darshana, Sayuri Mendis, Pasinda Kodikara, and Nadisha Ramanayake. Kalinga Kumara, who placed 2nd in the men's 400m in Japan, also competed. India set a new national record, winning gold in 3:14.12.
+
+🟩
+
+Sri Lanka won the silver medal in the 4 x 400 -mixed ethnic group at the Angarasa Asian Series Championships, which began on Monday (20) in Bangladesh, Thailand.
+
+The Sri Lankan team finished second in 3 minutes 17.00 seconds.
+
+Aruna Darshana, Sayuri Mendis, Pasinda Kodikara and Nadisha Ramanayake participated in the silver medalist Sri Lanka's mixed ethnic series.
+
+Kalinga Kumara, who was ranked 2nd in the men's 400 -meter run at the Seeko Golden Chron Breen Competition held on Sunday in Japan, Japan, Japan.. He replaced him and participated in the flag.
+
+The Indian team renewed the national record for the country and won the gold medal in 3 minutes 14.12 seconds.
+
+In this case, the Sri Lankan team will take part in Tuesday in the men's 4O 100 Mitter and 4 O 400 Mitual Series and the 4O 400m Series for the Women.
+
+4 x 100 m. Men: Kavindu Sathuranga, Dineet Hindu, Samod Yodasinghe, Sanuku Dharmakirthi (Answer - H. Kamlath, Dineth Senanayake.
+
+...
+
+[Data](articles/f53c6771.json)
+
+[Extended Data](ext_articles/f53c6771.ext.json)
 
 ---
 
@@ -515,36 +545,6 @@ This Bill is not proposed by the International Monetary Fund. It must be said th
 [Data](articles/f86b70fe.json)
 
 [Extended Data](ext_articles/f86b70fe.ext.json)
-
----
-
-### Silver to Sri Lanka in the Asian Mixed City 4 x 400m Series
-
-*2024-05-20 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184083) · `ta`
-
-Sri Lanka secured silver in the 4x400m mixed ethnic event at the Angarasa Asian Series Championships, finishing in 3:17.00. The team included Aruna Darshana, Sayuri Mendis, Pasinda Kodikara, and Nadisha Ramanayake. Kalinga Kumara, who placed 2nd in the men's 400m in Japan, also competed. India set a new national record, winning gold in 3:14.12.
-
-🟩
-
-Sri Lanka won the silver medal in the 4 x 400 -mixed ethnic group at the Angarasa Asian Series Championships, which began on Monday (20) in Bangladesh, Thailand.
-
-The Sri Lankan team finished second in 3 minutes 17.00 seconds.
-
-Aruna Darshana, Sayuri Mendis, Pasinda Kodikara and Nadisha Ramanayake participated in the silver medalist Sri Lanka's mixed ethnic series.
-
-Kalinga Kumara, who was ranked 2nd in the men's 400 -meter run at the Seeko Golden Chron Breen Competition held on Sunday in Japan, Japan, Japan.. He replaced him and participated in the flag.
-
-The Indian team renewed the national record for the country and won the gold medal in 3 minutes 14.12 seconds.
-
-In this case, the Sri Lankan team will take part in Tuesday in the men's 4O 100 Mitter and 4 O 400 Mitual Series and the 4O 400m Series for the Women.
-
-4 x 100 m. Men: Kavindu Sathuranga, Dineet Hindu, Samod Yodasinghe, Sanuku Dharmakirthi (Answer - H. Kamlath, Dineth Senanayake.
-
-...
-
-[Data](articles/f53c6771.json)
-
-[Extended Data](ext_articles/f53c6771.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 11:04:26**
+As of **2024-05-20 11:18:05**
 
 ## Newspaper Stats
 
-*Scraped **25,129** Articles*
+*Scraped **25,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,363
 economynextcom | 1,439
 dailyftlk | 1,480
 adalk | 2,150
-adaderanalk | 2,906
+adaderanalk | 2,907
 tamilmirrorlk | 2,937
-virakesarilk | 3,791
+virakesarilk | 3,795
 dailymirrorlk | 3,948
 adaderanasinhalalk | 4,016
 
@@ -26,31 +26,77 @@ adaderanasinhalalk | 4,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,126 (100.0%) of 25,129 articles have been extended.
+25,129 (100.0%) of 25,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ඉරාන හිටපු ජනපති ඊබ්‍රහිම් රයිසි ගැන මේ කරුණු දැන සිටියාද ?
+### Over 650 jobs at risk at Sapugaskanda refinery?
+
+*2024-05-20 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99330/over-650-jobs-at-risk-at-sapugaskanda-refinery) · `en`
+
+More than 650 employees at the Sapugaskanda Refinery, the country’s sole oil refinery, face potential job losses due to its transformation into a separate public enterprise.
+
+According to sources, the government plans to retain only approximately 200 of the current employees for the new enterprise.
+
+The remaining workers will be placed in a pool from which the new enterprise will select the necessary personnel to maintain operations.
+
+In March, the Cabinet of Ministers recently approved a proposal to operate the Sapugaskanda Oil Refinery as a state-owned business entity disjoined from the Ceylon Petroleum Corporation (CPC).
+
+The government had said it has identified the need to make a ‘critical investment’ to upgrade the oil refinery in order to keep it up and running for another 25 years.
+
+...
+
+[Data](articles/fe8f42cf.json)
+
+---
+
+### ஹெலிகொப்டர் விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி உயிரிழப்பு
+
+*2024-05-20 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184010) · `ta`
+
+ஹெலிகொப்டர் விபத்துக்குள்ளானதில் ஈரான் நாட்டு ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோர் உயிரிழந்துள்ளதாக அந்நாட்டு ஊடகமான மெஹர் செய்திச் சேவை இன்று திங்கட்கிழமை (20) உறுதிப்படுத்தியுள்ளது.
+
+அசர்பைஜானில் அணை திறப்பு விழாவில் கலந்துகொண்ட இப்ராஹிம் ரைசி ஹெலிகொப்டர் மூலம் ஈரான் புறப்பட்டார்.
+
+இந்நிலையில், கடுமையான பனிமூட்டத்தில் மலைப்பகுதியை கடக்கும்போது நேற்று ஞாயிற்றுக்கிழமை (19) ஹெலிகொப்டர் ஈரானின் கிழக்கு அஜர்பைஜான் மாகாணத்தில் விபத்துக்குள்ளானது.
+
+ஜனாதிபதி இப்ராஹிம் ரைசியுடன் ஹெலிகொப்டரில் பயணித்த வெளிவிவகார அமைச்சர் உசைன் அமீர், கிழக்கு அசர்பைஜான் மாகாண கவர்னர் மாலிக் ரஹ்மதி உள்பட 9 பேரும் விபத்தில் உயிரிழந்துள்ளனர்.
+
+◼️
+
+[Data](articles/2150a111.json)
+
+---
+
+### Did Iran's former President know these facts about Ibreamy Restrich?
 
 *2024-05-20 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196811) · `si`
 
-ඉරානයේ හිටපු ජනාධිපති ඊබ්‍රහිම් රයිසි දැඩි මතධාරී පූජකයෙකි. ඔහු ඉරානයේ උත්තරීතර නායකයා ලෙස සැලකෙන අයතොල්ලා අලි ඛමෙනී ට ඉතා ලැදි පුද්ගලයෙක් වශයෙන් ප්‍රකට ය.
+Iran's former President, known for his loyalty to Elephant Khamer and as a devout priest, took office in 2021 amidst controversy over a non-fair election process. His tenure saw economic challenges, regional conflicts, and accusations of human rights abuses. Born in 1960 in Isfahan, he rose through religious ranks, joining protests against Shah control and later serving in judiciary roles. Despite initial low support (38%), he secured leadership with significant majorities in subsequent elections, navigating a complex political landscape marked by internal dissent and external tensions.
 
-රයිසි 2021 වසරේදී ඉරානයේ ජනාධිපතිවරයා ලෙස තේරී පත්වූ අතර එතැන් සිට ඉරානයේ සෑම ප්‍රදේශයක් ම දැඩි මතධාරීන්ගේ පාලනයට නතු කර ගත්තේය.
+🟩
 
-ඔහු 63 හැවිරිදි ය. එසේම එරට අධිකරණයේ ප්‍රධානියා ලෙසද රයිසි කටයුතු කර තිබුණි.
+Former President of Iran is an intense dictating priest. He is known as the Supreme Leader of Iran as a very loyal person to Elephant Khamer.
 
-2021 වසරේ පැවති මැතිවරණයෙන් ඔහු විශිෂ්ට ජයක් වාර්තා කළේ එවක ජනපති ලෙස කටයුතු කළ හසන් රෞහානි ව අභිබවා යමිනි.
+Ukisa was elected President Iran as the president in 2021, and since then, all the parts of Iran have gone to control of the intense opinions.
 
-නමුත් එම මැතිවරණය සර්ව සාධාරණ නොවූ බව පිළිගත් මතයකි. විශේෂයෙන් ම නිදහස් මතධාරී සහ ප්‍රතිසංස්කරණ සම්බන්ධයෙන් හඬ නැගූ අපේක්ෂකයින් ට එහිදී අවස්ථාවක් නොලැබුණු අතර බොහෝ ඡන්ද දායකයින් ඡන්දය ප්‍රකාශ කිරීමෙන් වැළකී සිටියේය.
+He is 63 years old. Reach was also the head of the court.
 
-ඔහු ඉරානයේ බලය ලබාගන්නා විට එරට විවිධ ප්‍රශ්න වලට මුහුණදී සිටියේය. විශේෂයෙන්ම ආර්ථික ගැටලු, කලාපීය වශයෙන් එල්ලවූ තර්ජන මෙන්ම න්‍යෂ්ටික වැඩසටහන සම්බන්ධයෙන් වූ සාකච්ඡා බිඳ වැටී තිබීම ඒ අතරින් ප්‍රධානය.
+In the year 2021, he wins excellent victory in the conclusion of Hassan Sambavi.
+
+But that election is an ad-recognized view that not just fair. The candidates who voiced in respect of Free Orthodogs and Reforms did not receive a chance and many voters refrained from voting.
+
+When he acquired the power of Iran, he was facing various questions. Especially economic problems, such as regional threats, and discussions on the nuclear program collapsed.
+
+It was a year after he came to power and before he came to power, anti-government demonstrations spread throughout Iran. He acted to curb the protests with state power.
 
 ...
 
 [Data](articles/7b8b7797.json)
+
+[Extended Data](ext_articles/7b8b7797.ext.json)
 
 ---
 
@@ -72,23 +118,29 @@ Tamil community protests against deception regarding Mullivaikal events, asserti
 
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### A red announcement from the weather
 
 *2024-05-20 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196810) · `si`
 
-තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Heavy rains expected across several districts due to the southwest monsoon, with warnings issued for potential rainfall exceeding 100mm in areas like Galle, Matara, Kandy, Nuwara Eliya, and Mannar.
 
-ඒ අනුව බස්නාහිර, සබරගමුව, වයඹ පළාත් සහ ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+🟩
 
-නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology has issued a warning red notice of heavy rains.
 
-බස්නාහිර සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී 150ට වැඩි ඉතා තද වැසි ඇති විය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව රතු නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+Accordingly, the release statement in the Western, Sabaragamuwa, North Western Province and Galle, Matara, Kandy, Nuwara Eliya and Mannar districts.
 
-සබරගමුව පළාතෙත් ගාල්ල, මාතර, මහනුවර, නුවරඑළිය සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100ට වැඩි තද වැසි ඇති විය හැකිය.
+The Department of Meteorology announces that the southwest monsoon systematic establishes through the island.
+
+In some places in the Western and North Western Provinces, the Department of Meteorology has issued a red announcement that heavy rains can occur.
+
+In the Galle, Matara, Kandy, Nuwara Eliya and Mannar districts can also occur at more than 100mm.
 
 ◼️
 
 [Data](articles/eafd3533.json)
+
+[Extended Data](ext_articles/eafd3533.ext.json)
 
 ---
 
@@ -133,6 +185,24 @@ State TV reported that images from the site showed the aircraft slammed into a m
 [Data](articles/c90e7d98.json)
 
 [Extended Data](ext_articles/c90e7d98.ext.json)
+
+---
+
+### மழையினால் வயிற்றுப்போக்கு நோய் அதிகரிக்கும் அபாயம் - பொது சுகாதார பரிசோதகர்கள் சங்கம்
+
+*2024-05-20 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184008) · `ta`
+
+தொடரும் மழையினால் வயிற்றுப்போக்கு நோய் அதிகரிக்கும் அபாயம் உள்ளதாக பொது சுகாதார பரிசோதகர்கள் சங்கம் எச்சரித்துள்ளது.
+
+எனவே, எதிர்வரும் வெசாக் பண்டிகையை முன்னிட்டு நாடு பூராகவும் தானம் வழங்கும் நிகழ்வுகளில் சுத்தமான நீரைப் பயன்படுத்துமாறு பொது சுகாதார சங்கத்தின் தலைவர் உபுல் ரோஹன குறிப்பிட்டுள்ளார்.
+
+மழையினால் நீர்நிலைகள் மாசுபடும் அபாயம் ஏற்பட்டுள்ளதோடு, வெசாக் பண்டிகைக்கு தானம் வழங்கப்படும் விகாரைகள்   முதல் நாள் வரை  பதிவு செய்யப்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+மேலும், ஏனைய வருடங்களுடன் ஒப்பிடும் போது இந்த வருடம் தானம் வழங்குவதில்  குறைபாடு காணப்படுவதாக பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1c2808be.json)
 
 ---
 
@@ -190,6 +260,24 @@ The government has decided to send a senior senior officer of the Foreign Servic
 
 ---
 
+### மழை, வரட்சியினால் மொத்தம் 10,299 பேர் பாதிப்பு ;  இருவர் காயம்
+
+*2024-05-20 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184006) · `ta`
+
+நாட்டில் கடும் மழையினால் 3,518 குடும்பங்களைச் சேர்ந்த 10,299 பேர் பாதிக்கப்பட்டுள்ளதுடன் இருவர் காயமடைந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் பிரதிப் பணிப்பாளர் துசித வைத்தியரத்ன தெரிவித்துள்ளார்.
+
+அநுராதபுரம் மாவட்டத்தின் கிழக்கு  நுவரகம் பலாத்த பகுதியில் பெய்த கடும் மழையினால் மரங்கள் முறிந்து வீழ்ந்தமையினால் குறித்த இருவரும் காயமடைந்துள்ளனர்.
+
+இதேவேளை, இரத்தினபுரி மாவட்டத்தில் நிவிதிகல, கொடகவெல மற்றும் பலாங்கொட ஆகிய பகுதிகளில் மரங்கள் முறிந்து வீழ்ந்தமையினாலும், பலத்த காற்று வீசியமையாலும் மூன்று வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
+
+இதேவேளை, யாழ்ப்பாணத்தில் 8,000 பேரும், திருகோணமலையில் 1,334 பேரும், கிளிநொச்சியில் 946 பேரும் வரட்சியினால் பாதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6b2d8749.json)
+
+---
+
 ### Prison officers launch ‘sick leave’ trade union action
 
 *2024-05-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99328/prison-officers-launch-sick-leave-trade-union-action) · `en`
@@ -207,6 +295,22 @@ The General Secretary of the Peradeniya University’s Trade Union Federation, T
 [Data](articles/cb136488.json)
 
 [Extended Data](ext_articles/cb136488.ext.json)
+
+---
+
+### இலங்கைக்கே உரித்தான தங்க முதுகு தவளை இந்தியாவில் கண்டுபிடிப்பு
+
+*2024-05-20 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184003) · `ta`
+
+இலங்கைக்கே உரித்தானது என கூறப்படும் தங்கம் போல மின்னும் அபூர்வ தவளை இந்தியாவில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இது ஆந்திர மாநிலம், பலமனேறு அருகே உள்ள கவுண்டன்யா வனப்பகுதியை ஒட்டி கவுனிதிம்மேபள்ளி என்ற கிராமத்திலுள் குளத்தில் கண்டுப்பிடிக்கப்பட்டுள்ளதாக இந்திய விலங்கியல் துறையைச் சேர்ந்த தீபா ஜெய்ஸ்வால் தெரிவித்துள்ளார்.
+
+இதுபோன்ற தவளைகள் இலங்கையில் மட்டுமே காணப்படுகின்றன. இந்த தவளையின் முதுகு தங்க நிறத்திலும் உடல் மேல் பகுதி கருமையாகவும் உள்ளது. இதனுடைய அறிவியல் பெயர் ஹைரா கிராசிலிஸ் (Hylarana gracilis) என்பதாகும்.
+
+◼️
+
+[Data](articles/8c6c0149.json)
 
 ---
 
@@ -304,17 +408,23 @@ The helicopter has Iranian Chancellor Ibrahim Raisi, Foreign Minister Hossein Am
 
 ---
 
-### කාලගුණයෙන් අනතුරු ඇඟවිමේ නිවේදනයක්
+### A warning announcement from the weather
 
 *2024-05-20 08:59:04* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අනතුරු-ඇඟවිමේ-නිවේදනයක්/11-409730) · `si`
 
-තද වැසි පිළිබඳව අනතුරු ඇඟවිමේ නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් නිකුත් කර තිබේ.
+Heavy rains warning issued by the Department of Meteorology for Western, Sabaragamuwa, Wayamba, Galle, Matara, Kandy, Nuwara Eliya, and Mannar districts today.
 
-බස්නාහිර, සබරගමුව, වයඹ පළත් හා ගාල්ල, මාතර, මහනුවර, නුවරඒළිය හා මන්නාරම දිස්ත්‍රික්ක සඳහා අදාළ වන  පරිදි අද පෙරවරු 8.30ට නිකුත් කළ මෙම නිවේදනය අද දිනය පුරාවටම වලංගු වෙයි.
+🟩
+
+The Department of Meteorology has issued a warning notification on heavy rains.
+
+The announcement was issued in the Western, Sabaragamuwa, Wayamba and Galle, Matara, Kandy, Nuwara Eliya and Mannar districts today.
 
 ◼️
 
 [Data](articles/af33725b.json)
+
+[Extended Data](ext_articles/af33725b.ext.json)
 
 ---
 
@@ -2089,107 +2199,5 @@ The President has the power to dissolve parliament. President Ranil Wickremesing
 [Data](articles/1baf13e6.json)
 
 [Extended Data](ext_articles/1baf13e6.ext.json)
-
----
-
-### Vietnam nominates its public security minister as new president
-
-*2024-05-19 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99319/vietnam-nominates-its-public-security-minister-as-new-president) · `en`
-
-Vietnam has nominated its Public Security Minister To Lam as its new president, state media said on Saturday, after his predecessor resigned in the ongoing anti-corruption campaign that has shaken up the country’s political establishment.
-
-The Communist Party’s Central Committee had agreed to the nomination of To Lam, a Politburo member, as president, state-run Vietnam News Agency reported. The nomination will likely be approved by Vietnam’s rubber-stamp National Assembly during its next session on Monday.
-
-Former President Vo Van Thuong resigned in March after a little over a year in the position. His predecessor had also resigned in 2023 while taking “political responsibility” for corruption scandals during the pandemic.
-
-...
-
-[Data](articles/fb7edd6e.json)
-
-[Extended Data](ext_articles/fb7edd6e.ext.json)
-
----
-
-### Sajith is not taking place?
-
-*2024-05-19 19:06:05* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදය-සිදු-නොවෙයි-/11-409723) · `si`
-
-Sajith won't participate in debates after the 20th due to prior commitments. The National Folk Force announced this, citing a letter received by former MP Nalinda Jayatissa. The party plans to prioritize national discussions over internal debates, suggesting a shift from traditional debate formats.
-
-🟩
-
-The National Folk Force says that the debate will not be done after 20th as the reconciliation was informed before.
-
-The date on which the letter was given to the debate on the debate, the date of the national popularity was executive and former MP Nalinda Jayatissa had received the letter.
-
-The party states that the national popularity is given first after twenty-day debate in the debate by the debate.
-
-The National Ceylon Troubleshood has proposed to have the debate between leaders first and then debate between the economic committees.
-
-◼️
-
-[Data](articles/d989d2f4.json)
-
-[Extended Data](ext_articles/d989d2f4.ext.json)
-
----
-
-### Fire breaks out near Colombo port
-
-*2024-05-19 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-near-Colombo-port/108-282904) · `en`
-
-Colombo, May 19 (Daily Mirror) - A fire has broken out near the port of Colombo. It is reported that the fire broke out in a lodging of employees working on the expressway near the Colombo port premises.
-
-The Colombo Fire Brigade said that four fire engines were dispatched to the scene.
-
-◼️
-
-[Data](articles/f10a5694.json)
-
-[Extended Data](ext_articles/f10a5694.ext.json)
-
----
-
-### Sajith gives rise to Sajith Anuradon
-
-*2024-05-19 19:02:24* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අනුර-විවාදයට-සජබෙන්-දින-දෙයි/11-409722) · `si`
-
-Sajith Premadasa, leader of the Samagiversen Power and opposition, wrote to the National Jealous Force on April 19th. The debate between economic committees from May 2024 to June 3rd-7th, 2014, was announced. This communication was addressed to the National Executive Committee of the National Institute of Economic Force.
-
-🟩
-
-Leader of the Samagiversen Power, Opposition Leader Sajith Premadasa, a few days have been made in writing to the National Jealous Force today (19).
-
-The debate between the economic committees between May 2024, the debate between the two party leaders will be held between June 03 to 07, between 20.04.2014.
-
-He has sent this letter to the National Executive Committee of the National Executive Council of the National Executive Committee of the National Institute of Economic Force.
-
-Meanwhile, the national folk force was due to end tomorrow's day to end tomorrow.
-
-◼️
-
-[Data](articles/60d04725.json)
-
-[Extended Data](ext_articles/60d04725.ext.json)
-
----
-
-### Fire in Colombo port city
-
-*2024-05-19 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/183979) · `ta`
-
-A fire broke out in an employee housing near Colombo Port, prompting four fire trucks' response.
-
-🟩
-
-The fire has been reported in a house of employees working on the highway that recently near the Colombo Port complex.
-
-Four fire trucks have been dispatched to the scene, the Colombo Fire Department said.
-
-◼️
-
-[Data](articles/36ac5bef.json)
-
-[Extended Data](ext_articles/36ac5bef.ext.json)
 
 ---

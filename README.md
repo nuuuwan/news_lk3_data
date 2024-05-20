@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 20:52:45**
+As of **2024-05-20 21:03:55**
 
 ## Newspaper Stats
 
-*Scraped **25,249** Articles*
+*Scraped **25,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,451
 dailyftlk | 1,480
-adalk | 2,164
+adalk | 2,166
 adaderanalk | 2,922
 tamilmirrorlk | 2,952
 virakesarilk | 3,807
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,247 (100.0%) of 25,249 articles have been extended.
+25,249 (100.0%) of 25,251 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ It is designed for high-efficiency engine performance, fast acceleration, smooth
 
 [Data](articles/a4c7cc94.json)
 
+[Extended Data](ext_articles/a4c7cc94.ext.json)
+
 ---
 
 ### ASP Minura Senarath appointed Acting Director of Police Media Division
@@ -69,6 +71,8 @@ He assumed duties as the Acting Director of the Media Division on Monday (20).
 ◼️
 
 [Data](articles/bb9f483e.json)
+
+[Extended Data](ext_articles/bb9f483e.ext.json)
 
 ---
 
@@ -144,6 +148,20 @@ Both sluice gates of the Angamuwa reservoir have been opened, and the amount of 
 
 ---
 
+### සජිත් - අනුර විවාදය ජුනි 06දා
+
+*2024-05-20 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්---අනුර-විවාදය-ජුනි-06දා/11-409747) · `si`
+
+සමගි ජනබලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා සමග විවාදයට  ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සූදානම් බව එම බලවේගයේ විධායක සභික නලින්ද ජයතිස්ස මහතා පවසයි. ඒ අනුව ජූනි 6 වෙනිදා නායකයන් අතර විවාදය පැවැත්විය හැකි බව නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+
+සැප්තැම්බර් 17 සහ ඔක්තෝබර් 16 අතර දිනයක දී ජනාධිපතිවරණය පැවැත්වීමට මැතිවරණ කොමිසම නිවේදනය කර ඇති පසුබිමක ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයන් දෙදෙනෙකු අතර ආර්ථිකය පිළිබඳව විවාදයක් පැවැත්වීම සුදුසු බව ද ජයතිස්ස මහතා සඳහන් කළේය. සමගි ජනබලවේගය විසින් ජාතික ජනබලවේගය වෙත ලිපියක් යොමු කරමින් විවාදය සඳහා දින ලබාදී ඇත.
+
+◼️
+
+[Data](articles/7e243936.json)
+
+---
+
 ### President Ranil criticizes Global North’s failure in climate change financing
 
 *2024-05-20 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99344/president-ranil-criticizes-global-norths-failure-in-climate-change-financing) · `en`
@@ -161,6 +179,22 @@ In his opening remarks, President Wickremesinghe extended his gratitude to the P
 [Data](articles/76366f49.json)
 
 [Extended Data](ext_articles/76366f49.ext.json)
+
+---
+
+### පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් පුහුණුවට බදවා ගැනේ
+
+*2024-05-20 19:23:46* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-සෞඛය-සේවා-අභ්‍යාසලාභීන්-දහසක්-පුහුණුවට-බදවා-ගැනේ/11-409746) · `si`
+
+මෙරට මාතෘ හා ළමා සෞඛ්‍ය සේවා ශක්තිමත් කිරීමේ අරමුණින් පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් (1000) පුහුණුවට බදවා  ගැනීමේ  පත්වීම් ලිපි ප්‍රධානෝත්සවය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් සෞඛ්‍ය රාජ්‍ය අමාත්‍ය විශේෂඥ වෛද්‍ය සීතා අරඹෙීපොල, දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි, යන මහත්ම මහත්මීන්ගේ සහභාගීත්වයෙන් හෙට දින (21) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්වීමට නියමිතය.
+
+2015 / 2016 / 2917 යන වර්ෂවල උසස්පෙළ  ඔනෑම විෂය ධාරාවකින්  එක් වරකදී විෂයන් 03 සමත් අයදුම්කාරිනියන්ගෙන් අයදුම්පත් කැදවන ලද අතර ඒ සදහා සුදුසුකම් සම්පූර්ණ කරන ලද අයදුම්කාරිනියන් 2836 ක් පුහුණුව සදහා තෝරා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කරන ලදී.
+
+කණ්ඩායම් දෙකක් වශයෙන් එම පිරිස පුහුණුවට බදවා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය  කටයුතු කල අතර පළමු කණ්ඩායම පුහුණු පාසල්වල පුහුණුව අවසන් කර ප්‍රතිඵල නිකුත් කිරීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/2735dfba.json)
 
 ---
 
@@ -2259,59 +2293,5 @@ Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi h
 [Data](articles/5bb04fda.json)
 
 [Extended Data](ext_articles/5bb04fda.ext.json)
-
----
-
-### The price of a fish is one crore rupees
-
-*2024-05-20 10:59:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-மீனின்-விலை-ஒரு-கோடி-ரூபாய்/175-337557) · `ta`
-
-A rare blue fish, the Blue Clavalla, fetched 1 crore rupees in Karativu, valued at 24 lakh per kg. This unique catch, expected to last over a decade, highlights the high demand and value of such marine treasures.
-
-🟩
-
-The Blue Clavalla (Pillar of Pillar (Pillai) was caught on Monday (20) worth Rs 1 crore in Karativu.
-
-The blue pillar, known as the blue Helawalla (Henda), is believed to be worth about millions of fishermen who went fishing in the deep sea from the Karativu area.
-
-The fish with large eye and blue paints is caught in the Karadivu area of ​​the Ampara district.
-
-The price of a kilogram of pillar is estimated to be Rs 24 lakh. It is believed that this type of fish will be available for ten years and more than ten years.
-
-A kilogram of 3 lakhs of rupees is spoken of due to the inability to maintain the fish that was caught.
-
-The fishermen said that the fish that were captured amidst the fierce struggle were divided into seven categories and that they were valuable.
-
-◼️
-
-[Data](articles/6e730377.json)
-
-[Extended Data](ext_articles/6e730377.ext.json)
-
----
-
-### Demand for pardon for Thera
-
-*2024-05-20 10:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்கை-முன்னிட்டு-தேரருக்கு-மன்னிப்பு-வழங்குமாறு-கோரிக்கை/175-337556) · `ta`
-
-Asgiri, Malwattu, and Amarapura Maha Sangam Sabha faculty request the President to apologize to Gnanasara Thera on Wesak Poya for his service against extremism, despite his 2016 conviction for incitement at Kuuragala Rajamaha Vihara.
-
-🟩
-
-Malwattu, Asgiri, Ramanna Nikaya, Amarapura Maha Sangam Sabha Faculty has asked the President to apologize to Gnanasara Thera on the day of Wesak Poya, in view of the services of the General Secretary of the Bodu Bala Sena Galapoda Ate Gnanasara Thera.
-
-In a letter to the president, the president stated that the President was sentenced to four years in prison on March 28, 2024, on charges of conflicting during the media debate on the Kuuragala Rajamaha Vihara in 2016.
-
-Gnanasara Thera has taken steps to warn officials of the extremist activities in the community.
-
-His actions provided important support to the state security forces, helping some extremist groups to prevent the spread of Sri Lanka.
-
-As a result, they have stated that many potential extremist conflicts in the Sri Lankan community have been avoided.
-
-◼️
-
-[Data](articles/d513a6d8.json)
-
-[Extended Data](ext_articles/d513a6d8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 13:53:13**
+As of **2024-05-20 14:04:53**
 
 ## Newspaper Stats
 
-*Scraped **25,175** Articles*
+*Scraped **25,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,445
 dailyftlk | 1,480
 adalk | 2,154
 adaderanalk | 2,910
-tamilmirrorlk | 2,946
+tamilmirrorlk | 2,947
 virakesarilk | 3,804
 dailymirrorlk | 3,950
-adaderanasinhalalk | 4,023
+adaderanasinhalalk | 4,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,162 (99.9%) of 25,175 articles have been extended.
+25,162 (99.9%) of 25,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### ලෝක ජල සමුළුව ඇමතූ ජනපති
+
+*2024-05-20 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196819) · `si`
+
+10 වන ලෝක ජල සමුළුවේ ඉහළ පෙළේ සැසියට එක්වීම සඳහා ඉන්දුනීසියාව බලා පිටත්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (20) එම සමුළුව ඇමතුවේය.
+
+ගෝලීය බදු පැහැර හැරීම ආශ්‍රිත වත්කම්වල වාර්ෂික ලාභය අමෙරිකානු ඩොලර් ට්‍රිලියන 1.4ක් ලෙස ගණන් බලා ඇති බවත් දේශගුණික විපර්යාසයන් වෙනුවෙන් අරමුදල් යෙදවීම සඳහා එම ලාභයෙන් 10%ක බද්දක් අය කිරීමට ශ්‍රී ලංකාව යෝජනා කර ඇති බවත් සැසිය අමතමින් ජනාධිපතිවරයා සඳහන් කර තිබේ.
+
+දෙදින නිල සංචාරයක් සඳහා ඉන්දුනීසියාව බලා පිටත්ව ගිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බාලි නගරයේ ගුස්ට් නුරා රායි ජාත්‍යන්තර ගුවන්තොටුපොළින් පසුගිය 18 වැනිදා එරටට ළඟාවුණි.
+
+යුක්‍රේනයේ මරණ හා විනාශය සඳහා අරමුදල් සැපයීමට ගෝලීය උතුර කැමැත්තෙන් සිටින නමුත් දේශගුණික විපර්යාස නිසා ඇතිවන මරණ හා විනාශය වළක්වා ගැනීමේ ක්‍රියාමාර්ග සඳහා අරමුදල් සැපයීමට අකමැත්තක් දක්වන බව 10 වැනි ලෝක ජල සමුළුවේ ඉහළ පෙලේ සැසිය අමතමින් අද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසා තිබේ.
+
+සමුළුවට ප්‍රථම ඊට සහභාගී වීමට පැමිණි සියලුම රාජ්‍ය නායකයින් රාත්‍රී භෝජන සංග්‍රහයකට ද එක්වුණි.
+
+◼️
+
+[Data](articles/95c4c8dd.json)
+
+---
 
 ### බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට අධිකරණයෙන් නියෝගයක්
 
@@ -689,6 +709,26 @@ Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi h
 [Data](articles/5bb04fda.json)
 
 [Extended Data](ext_articles/5bb04fda.ext.json)
+
+---
+
+### ஒரு மீனின் விலை ஒரு கோடி ரூபாய்
+
+*2024-05-20 10:59:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-மீனின்-விலை-ஒரு-கோடி-ரூபாய்/175-337557) · `ta`
+
+காரைதீவில் ஒரு கோடி ரூபாய் பெறுமதியானது நீல கிளவல்லா (தூணா இனத்தைச் சேர்ந்த  மீன் திங்கட்கிழமை (20) பிடிபட்டுள்ளது.
+
+காரைதீவு பகுதியில் இருந்து ஆழ்கடலில்  மீன்பிடிக்கச் சென்ற  மீனவர்களின்  வலையிலேயே   சுமார் கோடிக்கணக்கான பெறுமதியானது என நம்பப்படும் 49 கிலோ கிராம் நிறையுடைய  உள்ளுரில் நீல ஹெலவள்ளா(ஹென்டா)  என அழைக்கப்படும் நீல தூணா சிக்கியுள்ளது.
+
+பெரிய கண் மற்றும் நீல நிற  வர்ணங்களை கொண்டுள்ள குறித்த மீன் அம்பாறை மாவட்டம் காரைதீவு பகுதியில் மீனவரின் வலையில் பிடிக்கப்பட்டுள்ளது.
+
+ஒரு கிலோ கிராம்  தூணா மீனின் விலை 24 இலட்சம் ரூபாயாகுமென கணிப்பிடப்பட்டுள்ளது. இந்த வகை மீனில், ஒருதுண்டு சாப்பிட்டால், பத்து வருடங்கள் மேலதிகமாக வாழக்கூடிய சத்து கிடைக்குமென நம்பப்படுகின்றது.
+
+பிடிபட்ட மீனை முறைப்படி இனங்கண்டு முறையாக பேணப்படாமையினால் ஒரு கிலோ கிராம் 3 லட்சம் ரூபாய்க்கு பேசப்படுகிறது.
+
+...
+
+[Data](articles/6e730377.json)
 
 ---
 
@@ -2135,95 +2175,5 @@ At the same time, the police said that the body had been brought to the notice o
 [Data](articles/7354c9dc.json)
 
 [Extended Data](ext_articles/7354c9dc.ext.json)
-
----
-
-### The presidential election will be ignored until the federal assurance is granted - the Tamil National People's Front calls
-
-*2024-05-20 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183989) · `ta`
-
-It seems like you've shared a detailed perspective on the political and social dynamics surrounding the Tamil people's relationship with the Sri Lankan state, focusing on issues of rights, representation, and the impact of electoral processes on their struggle for recognition and autonomy. Your message highlights several key points:
-
-
-
-1. **Boycott of Presidential Elections**: The idea of boycotting the Sri Lankan Presidential election as a means to assert the Tamil people's stance on their rights and demands.
-
-
-
-2. **Compromise and Negotiation**: The call for the Sri Lankan government to engage in meaningful dialogue and negotiation with the Tamil people to address their grievances and concerns.
-
-
-
-3. **Rejection of Sinhala Buddhist Hegemony**: The rejection of policies and structures that marginalize the Tamil people and promote Sinhala Buddhist dominance.
-
-
-
-4. **International Recognition and Support**: The importance of international community involvement and support in addressing the Tamil people's plight.
-
-
-
-5. **Historical and Current Injustices**: A recounting of historical injustices faced by the Tamil people, including forced displacement, denial of resettlement rights, and the lack of accountability for human rights abuses.
-
-
-
-6. **Political Aspirations and Solutions**: The emphasis on self-determination, federalism, and the right to a political solution that recognizes the Tamil people's sovereignty and identity.
-
-
-
-7. **Critique of Political Maneuvers**: A critique of attempts by certain political actors to manipulate the Tamil people's aspirations for personal gain or to further Sinhala Buddhist interests.
-
-
-
-8. **Call for Unity and Collective Action**: The appeal for the Tamil people to unite and exert collective pressure through peaceful means to achieve their political and social objectives.
-
-
-
-Your message underscores the complexity of the issues facing the Tamil people and the challenges they face in asserting their rights within the Sri Lankan state. It also reflects a deep-seated frustration with the current political landscape and a strong desire for change that respects and acknowledges the Tamil people's unique cultural, linguistic, and national identity.
-
-
-
-If you have specific questions or need assistance with a particular aspect of this topic, please let me know how I can assist you further.
-
-🟩
-
-The Tamil National People's Front (TNA) has called for a complete boycott until the unity of the Sri Lankan presidential election will be eliminated and the federal guarantee is granted.
-
-The party said in a clarification report on the presidential election titled 'We will be thinking of the welfare of Tamil Nadu'.
-
-In the Tamil nation, the Tamil Nadu state is acting as an enemy of the Tamil nation by continuing the Sinhala Buddhistization, militarization and systematic ethnic process through the construction of the ethnic groups.. The Sri Lankan government, which considers the Tamils to cause any crisis as long as the majority representation within the unity state structure is in their hands, is maintaining the interests of the Sinhalese nation, not considering the Tamil people as its enemies.
-
-...
-
-[Data](articles/005db2fe.json)
-
-[Extended Data](ext_articles/005db2fe.ext.json)
-
----
-
-### The general candidate is not a Tamil Nadu decision;Decision to meet
-
-*2024-05-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183988) · `ta`
-
-The Sri Lanka Tamil National Party's Central Executive Committee met but didn't decide on suspending a Tamil general candidate in the presidential election. The meeting focused on legal issues and the need for a Tamil candidate, with various viewpoints discussed. No immediate action was taken regarding the general candidate's suspension.
-
-🟩
-
-The Central Executive Committee of the Sri Lanka Tamil National Party (SLFP) has ended the meeting without any decisions to make a decision on the suspension of a Tamil general candidate in the presidential election.
-
-இதேநேரம், குறித்த விடயம் சம்பந்தமாக கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனைச் சந்திப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
-
-The Central Executive Committee meeting of the Sri Lanka TMC was held from 10.30 am to 6.30 pm on Sunday (19) at a private hotel at Vavuniya Second Road.
-
-குறித்த கூட்டத்தில் பாராளுமன்ற உறுப்பினர்களான சாணக்கியன் மற்றும் சாள்ஸ் நிர்மலநாதன் ஆகியோர் பங்கேற்றிருக்கவில்லை.
-
-At this juncture, the first meeting was investigated on the issue of lawsuits against the party. Various arguments were held during this time.
-
-In the case, it was decided to deal with both the Central Committee members and the President's lawyers MA Sumanthiran and KV Dawarasa to deal with the lawyers of the lawyers.
-
-...
-
-[Data](articles/75cd5452.json)
-
-[Extended Data](ext_articles/75cd5452.ext.json)
 
 ---

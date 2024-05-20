@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 21:18:29**
+As of **2024-05-20 21:34:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,251 (100.0%) of 25,258 articles have been extended.
+25,258 (100.0%) of 25,258 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,63 +40,91 @@ The Government of Sri Lanka has declared tomorrow (21 May) as a day of mourning 
 
 Accordingly, the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Mr. Pradeep Yasaratne has informed that the National Flag be placed half-mast at all state institutions on Tuesday (21).
 
-◼️
+Iranian President Ebrahim Raeisi and Foreign Minister Hossein Amir-Abdollahian were killed in a helicopter crash in the northwestern province of East Azarbaijan.
+
+The helicopter carrying President Raeisi and his accompanying delegation crashed on Sunday in the Dizmar forest, nestled between the cities of Varzaqan and Jolfa in East Azarbaijan Province.
+
+President Raeisi and his accompanying delegation were returning from a ceremony to inaugurate a dam on the Aras River with Azerbaijan’s President Ilham Aliyev.
+
+...
 
 [Data](articles/c28d45b6.json)
 
+[Extended Data](ext_articles/c28d45b6.ext.json)
+
 ---
 
-### හෙට ශෝක දිනයක් ලෙස ප්‍රකාශයට පත් කෙරේ
+### Declared as a day of mourning tomorrow
 
 *2024-05-20 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196836) · `si`
 
-ශ්‍රී ලංකා රජය විසින් හෙට (21) ශෝක දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+Sri Lanka declares a day of mourning tomorrow (21) for the death of Iran's President. The National Flag will fly at half-staff across all government institutions.
 
-ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසිගේ අභාවය වෙනුවෙන් එම තීරණය ගත් බව රාජ්‍ය පරිපාලන අමාත්‍යාංශ ස﻿ඳහන් කරයි.
+🟩
 
-ඒ අනුව හෙට දින සියලු රජයේ ආයතනවල ජාතික කොඩිය අඩකුඹු කර තබන ලෙස උපදෙස් ලබාදී ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ ලේකම් ප්‍රදීප් යසරත්න මහතා සඳහන් කළේය.
+The Government of Sri Lanka has declared a mourning tomorrow (21).
+
+The Ministry of Public Administration has confirmed that the decision was taken for the death of Iranian President.
+
+Accordingly, the Secretary to the Ministry of Public Administration Pradeep Yasaratne said that he has instructed the National Flag of all government institutions tomorrow.
 
 ◼️
 
 [Data](articles/a8c37a23.json)
 
+[Extended Data](ext_articles/a8c37a23.ext.json)
+
 ---
 
-### ඉරාන ජනපති වෙනුවෙන් රනිල් සහ මහින්ද තැබූ සටහන්
+### Ranil and Mahinda's notes for Iranian President
 
 *2024-05-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196835) · `si`
 
-ඉරාන ජනාධිපතිවරයාගේ අභාවය පිළිබඳව සිය X ගිණුමේ සටහනක් තබමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ශෝකය පළකර තිබේ.
+Sri Lanka's President Ranil Wickremesinghe expressed deep shock over the death of Iran's President, joined by Prime Minister Dinesh Gunawardena and Speaker Mahinda Yapa Abeywardena. Former President Mahinda Rajapaksa echoed the sentiment, promising to remember the deceased at the Iranian embassy. World leaders, including Palestine, Yemen, and Hezbollah, condemned the loss, with several nations declaring national mourning periods.
 
-ජනාධිපතිවරයා එහිදී පවසා ඇත්තේ එම ඛේදනීය මරණය සැලවීමෙන් ශ්‍රී ලංකාව දැඩි කම්පනයට සහ ශෝකයට පත් වූ  බවය.
+🟩
 
-මේ අතර එම සිද්ධිය පිළිබඳව තමා දැඩි ලෙස කනස්සල්ලට පත්වන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කර තිබේ.
+President Ranil Wickremesinghe has expressed his condolences to a note of the death of the President Iran.
 
-එමෙන්ම කථානායක මහින්ද යාපා අබේවර්ධන මහතා ද මෙරට ඉරාන තානාපති කාර්යාලය වෙත ගොස් සිය ශෝකය පළ කළේය.
+The President has said that Sri Lanka was deeply shocked and grieved by the tragic death.
 
-මේ අතර මෙම මරණය සම්බන්ධයෙන් තමා දැඩි කම්පනයට පත්වූ බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාද X පණිවුඩයක් තබමින් පවසා තිබේ.
+Prime Minister Dinesh Gunawardena has said that he is deeply worried about the incident.
 
-ශ්‍රී ලංකාවේ සැබෑ මිතුරෙකු වූ ජනාධිපති රයිසි සදා මතකයේ රැඳෙනු ඇති බව පෙන්වාදෙන හිටපු ජනාධිපතිවරයා මෙරට ඉරාන තානාපති කාර්යාලයටද ගොස් සිය ශෝකය පළකර තිබුණි.
+Speaker Mahinda Yapa Abeywardena also visited the Iranian embassy in Sri Lanka.
 
-ලෝක නායකයින් ද ඉරාන ජනාධිපතිවරයාගේ හදිසි අභාවය පිළිබඳව ශෝකය පළකර තිබුණි.
+Meanwhile, former President Mahinda Rajapaksa has said that he was shocked with this death.
 
-ඉරානයේ සහාය ලබමින් ඊශ්‍රායලයට එරෙහිව සටන්වදින පලස්තීනයේ හමාස්, යේමනයේ හූති සහ ලෙබනනයේ හෙස්බුල්ලා යන සන්නද්ධ සංවිධාන ද රයිසිගේ මරණය පිළිබඳ ශෝකය පණිවිඩ නිකුත් කර තිබේ.
+The former President said that President of Sri Lanka would be remembered to be remembered to the Iranian embassy in Sri Lanka.
 
-...
+World leaders also condemned the demise of the Iranian president.
+
+The support of the Iran has been supported by the Palestine, Yemen, Hamas, Hamas, Hamas, Hesbuullah in Yemen and Lebanullah has issued the grief of Rising.
+
+The countries like Iranian Syria and Lebanon have also declared national mourning period in connection with Dr. Raesi.
+
+◼️
 
 [Data](articles/9f17e40b.json)
 
+[Extended Data](ext_articles/9f17e40b.ext.json)
+
 ---
 
-### நாளை துக்கதினம்
+### Mourning tomorrow
 
 *2024-05-20 20:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-துக்கதினம்/175-337607) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவை முன்னிட்டு இலங்கையில் நாளை துக்க தினமாக பிரகடனப்படுத்தப்பட்டுள்ளது.
+Iranian President Ibrahim Raisi declares tomorrow a day of mourning in Sri Lanka.
+
+🟩
+
+Iranian President Ibrahim Raisi has declared tomorrow as a mourning in Sri Lanka.
 
 ◼️
 
 [Data](articles/3028ffb7.json)
+
+[Extended Data](ext_articles/3028ffb7.ext.json)
 
 ---
 
@@ -112,21 +140,31 @@ The national flag will fly at half mast at all government institutions.
 
 [Data](articles/46294a12.json)
 
+[Extended Data](ext_articles/46294a12.ext.json)
+
 ---
 
-### ISIS සංවිධානයට සම්බන්ධ ලංකාවේ සිව් දෙනෙක් ඉන්දියාවේදී අල්ලයි
+### Four persons in Sri Lanka connected to ISIS
 
 *2024-05-20 20:39:49* · [`adalk`](https://www.ada.lk/breaking_news/ISIS-සංවිධානයට-සම්බන්ධ-ලංකාවේ-සිව්-දෙනෙක්-ඉන්දියාවේදී-අල්ලයි/11-409752) · `si`
 
-ඉන්දියාවේ ගුජරාට් ප්‍රාන්තයේ ත්‍රස්ත විරෝධී බළකාය (ATS) අහමෙදාබාද්හි පිහිටි සර්දාර් පටෙල් ජාත්‍යන්තර ගුවන් තොටුපොළේ සිදු කළ පරීක්ෂාවකදී ISIS සංවිධානය හා සම්බන්ධ යැයි සැකපිට ශ්‍රී ලාංකිකයන් සිව් දෙනෙකු අත්අඩංගුවට ගත් බව ඉන්දීය මාධ්‍ය  (20දා) වාර්තා කළේය.
+Four Sri Lankans linked to ISIS were arrested at Ahmedabad's International Airport, suspected by the Anti-Terrorism Squad. They arrived from Chennai, India, via Sri Lanka. The group was taken to a secret location for further questioning, but the motive behind their arrest remains unclear.
 
-මෙම සැකකරුවන් සිව් දෙනා ශ්‍රී ලංකාවේ සිට ඉන්දියාවේ චෙන්නායි නුවර හරහා අහමෙදාබාද් නුවර වෙත පැමිණි පිරිසකි.ඔවුන් මොහොමඩ් නුස්රට්, මොහොමඩ් නුෆ්රාන්, මොහොමඩ් ෆාරිස්, මොහොමඩ් රාස්ඩින් ලෙස හඳුනාගෙන තිබේ.
+🟩
 
-ඉන්දීය මාධ්‍ය වාර්තාවලට අනුව මෙම සිව්දෙනා ගුජරාට ත්‍රස්ත විරෝධී බළකාය විසින් ඉදිරි ප්‍රශ්න කිරීම් සඳහා රහසිගත ස්ථානයක් වෙත රැගෙන ගොස් තිබේ. මොවුන් ඊයේ මෙලෙස එම ජාත්‍යන්තර ගුවන් තොටුපොළ වෙත පැමිණි හේතුව කුමක්ද යන්න පිළිබඳවත් මෙතෙක් අනාවරණය වී නැත.
+Four Sri Lankans have been arrested on suspicion of the anti-Terrorism Corps (ASS) at the International Airport in Athamaadabad, ASSIS.
 
-...
+Four suspects have come to Ahmeadabad through Sri Lanka from Chennai, India.
+
+According to Indian press reports, the four terrorists have taken the terrorists to a secret location for further interrogation. The reason for them was not yet known as the reason for the international airport.
+
+Meanwhile, three teams were due to arrive at the airport yesterday and had to arrive at the airport yesterday to arrive at the airport yesterday.. The airport was threatened on 12th May 12.
+
+◼️
 
 [Data](articles/860cb92f.json)
+
+[Extended Data](ext_articles/860cb92f.ext.json)
 
 ---
 
@@ -143,6 +181,8 @@ The SJB had proposed that the debate between the two leaders be held on June 3, 
 ◼️
 
 [Data](articles/dca62e4c.json)
+
+[Extended Data](ext_articles/dca62e4c.ext.json)
 
 ---
 

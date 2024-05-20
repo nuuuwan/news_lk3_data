@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 14:53:00**
+As of **2024-05-20 15:03:48**
 
 ## Newspaper Stats
 
-*Scraped **25,182** Articles*
+*Scraped **25,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ bbccomsinhala | 254
 dbsjeyarajcom | 258
 newsfirstlk | 363
 islandlk | 1,363
-economynextcom | 1,445
+economynextcom | 1,446
 dailyftlk | 1,480
 adalk | 2,154
-adaderanalk | 2,910
+adaderanalk | 2,912
 tamilmirrorlk | 2,947
 virakesarilk | 3,804
 dailymirrorlk | 3,955
-adaderanasinhalalk | 4,024
+adaderanasinhalalk | 4,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,177 (100.0%) of 25,182 articles have been extended.
+25,182 (100.0%) of 25,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### CID arrests man who helped send 120 Sri Lankans to Russia on tourist visas
+
+*2024-05-20 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99335/cid-arrests-man-who-helped-send-120-sri-lankans-to-russia-on-tourist-visas) · `en`
+
+The Criminal Investigation Department (CID) has arrested an individual in Dehiwala for allegedly assisting in sending 120 persons to Russia on tourist visas, according to police.
+
+◼️
+
+[Data](articles/14e2e010.json)
+
+---
+
+### රුසියාවට පුද්ගලයින් යැවූ සැකකරුවෙක් කොටුවෙයි
+
+*2024-05-20 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196820) · `si`
+
+සංචාරක වීසා මත රුසියාව ට පුද්ගලයින් 120 දෙනෙකු පමණ යැවූ බවට සැකපිට පුද්ගලයෙක් ව දෙහිවල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ "තැනැත්තන් වෙළෙඳාම සහ සමුද්‍රීය අපරාධ විමර්ශන අංශය" විසින් එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+මෙම සැකකරු රුසියානු තානපති කාර්යාල ඉදිරිපිට සිට සංචාරක වීසා මත රුසියාව සඳහා යෑමට පුද්ගලයින්ට ආධාර අනුබල දී ඇති බව විමර්ශනවලිදී අනාවරණය වී තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුගෙන් මේ වනවිට ප්‍රශ්න කරමින් සිටින අතර ඔහු හෙට (21) අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව පොලීසිය පවසයි.
+
+අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්තන මහතාගේ උපදෙස් මත "තැනැත්තන් වෙළෙඳාම සහ සමුද්‍රීය අපරාධ විමර්ශන අංශයේ" අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සමරකෝන් බණ්ඩා මහතාගේ අධීක්ෂණය යටතේ වැඩිදුර පරීක්ෂණ පැවැත්වේ.
+
+◼️
+
+[Data](articles/ec2b9d9b.json)
+
+---
+
+### President Ranil and other world leaders extend condolences over death of Iranian President Raisi
+
+*2024-05-20 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99334/president-ranil-and-other-world-leaders-extend-condolences-over-death-of-iranian-president-raisi) · `en`
+
+President Ranil Wickremesinghe on Monday expressed condolences following the demise of Iranian President Dr. Seyyed Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian.
+
+Sri Lanka is deeply shocked and saddened by the tragic death of President Ebrahim Raisi, Foreign Minister Amir-Abdollahian and other senior Iranian officials, said the Sri Lankan head of State, who is currently on a visit to Indonesia.
+
+“I express my deepest sympathies and sincere condolences to the bereaved families, the government and the people of Iran.”
+
+“Our thoughts and prayers are with the families of President Raisi and his entourage,” he said, in a post on ‘X’ (formerly Twitter).
+
+Accompanied by Foreign Minister Amir-Abdollahian, Raisi had engaged in a short visit to the island nation just last month, the first by an Iranian president in 16 years.
+
+The two countries had signed five pacts during the visit, only the second since one in April 2008 by Iran’s then president, Mahmoud Ahmadinejad.
+
+...
+
+[Data](articles/872bb3c0.json)
+
+---
 
 ### Businessman arrested for assaulting Iranian Ambassador, further remanded
 
@@ -45,6 +99,8 @@ The suspect was remanded till Wednesday (22) after being produced before the For
 ◼️
 
 [Data](articles/58c67116.json)
+
+[Extended Data](ext_articles/58c67116.ext.json)
 
 ---
 
@@ -63,6 +119,28 @@ He said they will request the Speaker to reveal the list of MPs who have request
 ◼️
 
 [Data](articles/cd792799.json)
+
+[Extended Data](ext_articles/cd792799.ext.json)
+
+---
+
+### World Bank help to restructure USD800mn debt in Sri Lanka water sector
+
+*2024-05-20 13:51:00* · [`economynextcom`](https://economynext.com/world-bank-help-to-restructure-usd800mn-debt-in-sri-lanka-water-sector-163772/) · `en`
+
+ECONOMYNEXT – The World Bank will help Sri Lanka restructure the 800 million dollar debt in its water sector, Minister of Water Supply Jeevan Thondaman has said.
+
+“With the World Bank’s help, Sri Lanka will restructure its $800 million of debt in the water sector, have access to credit enhancement schemes that will make new water projects transparent and affordable and put us on a secured path to achieve SDG6,” Thondaman said on social media platform X (twitter).
+
+The minister met with the Global Director for Water for the World Bank Saroj Jha in Bali at the 10th World Water Forum.
+
+“Since our first meeting in December, Saroj has come forward to provide the full support of the World Bank for the ambitious reforms we are doing in Sri Lanka’s water sector.
+
+“I look forward to working with World Bank Water and deepening our partnership.”
+
+...
+
+[Data](articles/eaebfd81.json)
 
 ---
 
@@ -105,6 +183,8 @@ Colombo, May 20 (Daily Mirror)- Responding to speculations made on the political
 ...
 
 [Data](articles/ea846fd0.json)
+
+[Extended Data](ext_articles/ea846fd0.ext.json)
 
 ---
 
@@ -355,6 +435,8 @@ Colombo, May 20 (Daily Mirror)- Sri Lanka is deeply shocked and saddened by the 
 ◼️
 
 [Data](articles/8626e37d.json)
+
+[Extended Data](ext_articles/8626e37d.ext.json)
 
 ---
 
@@ -1195,6 +1277,8 @@ Iranian Supreme Leader Ayatollah Ali Khamenei, who holds ultimate power with a f
 ◼️
 
 [Data](articles/fa35d45a.json)
+
+[Extended Data](ext_articles/fa35d45a.ext.json)
 
 ---
 
@@ -2165,85 +2249,5 @@ The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian 
 [Data](articles/008ff134.json)
 
 [Extended Data](ext_articles/008ff134.ext.json)
-
----
-
-### Amnesty International says 15 years after end of war, victims still await justice at Mullivaikkal
-
-*2024-05-20 03:17:58* · [`dailyftlk`](https://www.ft.lk/news/Amnesty-International-says-15-years-after-end-of-war-victims-still-await-justice-at-Mullivaikkal/56-762003) · `en`
-
-Amnesty International Secretary General Agnès Callamard on Saturday said that 15 years after the end of the war in Sri Lanka, the victims still await justice at Mullivaikkal, the location of last battle and where countless civilian lives were lost.
-
-“Today’s anniversary is a grim reminder of the collective failure of the Sri Lankan authorities and the international community to deliver justice to the many victims of Sri Lanka’s three-decade-long internal armed conflict. It is sobering to stand in the same place where, 15 years ago, countless civilian lives were lost during the last days of the war,” said Callamard.
-
-...
-
-[Data](articles/ea700181.json)
-
-[Extended Data](ext_articles/ea700181.ext.json)
-
----
-
-### UK Labour Leader urges British Govt. to refer SL to ICC for war crimes
-
-*2024-05-20 03:16:21* · [`dailyftlk`](https://www.ft.lk/news/UK-Labour-Leader-urges-British-Govt-to-refer-SL-to-ICC-for-war-crimes/56-762002) · `en`
-
-UK Labour Leader Keir Starmer criticised SL Govt. for lack of meaningful action in addressing past injustices
-
-Highlights SL Govt.’s failure to fulfil promises made to international community regarding accountability for “mass atrocity crimes”
-
-Urges British Govt. to take leading role in referring perpetrators of international crimes against Tamils to ICC and delivering justice to victims
-
-UK Labour Party Leader Keir Starmer issued a statement over the weekend in which he strongly criticised the Sri Lankan Government for its lack of meaningful action in addressing past injustices.
-
-He highlighted the Government’s failure to fulfil promises made to the international community regarding accountability for the “mass atrocity crimes suffered by the Tamil people in Sri Lanka.”
-
-...
-
-[Data](articles/fddbd529.json)
-
-[Extended Data](ext_articles/fddbd529.ext.json)
-
----
-
-### Soldiers should join us to protect the country from thieves as they protected the country from terrorists - Sajith Premadasa
-
-*2024-05-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183993) · `ta`
-
-Sajith Premadasa urges soldiers to safeguard the nation against thieves, echoing their past defense against terrorists. He emphasizes the importance of proper leadership for the country's prosperity and requests soldiers' involvement in combating theft, corruption, and protecting national assets.
-
-🟩
-
-பயங்கரவாதிகளிடமிருந்து நாட்டைக் காப்பாற்றித் தந்தது போல திருடர்களிடம் இருந்து நாட்டைக் காப்பாற்ற இராணுவ வீரர்கள் எம்மோடு ஒன்றிணைந்துகொள்ள வேண்டும்.நாட்டின் அரசியல் அதிகாரம் சரியான தலைமைத்துவத்தை வழங்கியிருந்தால் நாடு வளமான நாடாக மாறியிருக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-The 6th phase of the United People's Power Soldiers Conference was held on Sunday (18) in Moneragala on the occasion.. He said this while addressing the gathering.
-
-If the political power of the country had been given the right leadership, our country would have become a prosperous country by soldiers from terrorism.. இப்போதும் நாட்டைக் காப்பாற்றும் பணி எம்முன் உள்ளது. Soldiers should intervene to eliminate the waste of theft, corruption, fraud, robbery and national assets and resources. I request the soldiers to be a partner in the humanitarian work that builds the country.
-
-...
-
-[Data](articles/9f967c66.json)
-
-[Extended Data](ext_articles/9f967c66.ext.json)
-
----
-
-### Sri Gurudev visits Sri Lanka: stresses influence of country’s economy on the region
-
-*2024-05-20 03:15:36* · [`dailyftlk`](https://www.ft.lk/news/Sri-Gurudev-visits-Sri-Lanka-stresses-influence-of-country-s-economy-on-the-region/56-762001) · `en`
-
-Launched 12 technical and vocational training projects in Sri Lanka
-
-Humanitarian and spiritual leader Gurudev Sri Sri Ravi Shankar – Pic by Upul Abayasekara
-
-Humanitarian and spiritual leader Gurudev Sri Sri Ravi Shankar (Sri Gurudev) recently visited Sri Lanka for the sixth time on a three-day tour, stating that Sri Lanka played an important role in the development of the region.
-
-Sri Gurudev, who visited the country on the invitation of Prime Minister Dinesh Gunawardena, is also the Founder of Art of Living Foundation, a global leader in meditation and well-being programs. During his visit, he visited the various projects under the aegis of the Foundation, launching 12 technical and vocational centres around Sri Lanka.
-
-...
-
-[Data](articles/067e3480.json)
-
-[Extended Data](ext_articles/067e3480.ext.json)
 
 ---

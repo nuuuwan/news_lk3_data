@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 23:33:50**
+As of **2024-05-20 23:53:23**
 
 ## Newspaper Stats
 
-*Scraped **25,283** Articles*
+*Scraped **25,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
-economynextcom | 1,451
+economynextcom | 1,452
 dailyftlk | 1,480
 adalk | 2,169
 adaderanalk | 2,925
@@ -26,23 +26,47 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,282 (100.0%) of 25,283 articles have been extended.
+25,283 (100.0%) of 25,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### களுத்துறையில் துப்பாக்கிச் சூடு ; ஒருவர் மரணம்
+### Shooting in Kalutara;Death
 
 *2024-05-20 23:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-337608) · `ta`
 
-களுத்துறை - கட்டுக்குருந்த பிரதேசத்தில் இன்று (20) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A fatal shooting occurred last night in Kalutara's Kutturunda, where one person died from T56 gunfire at their home.
 
-உயிரிழந்தவரின் வீட்டில் வைத்தே இந்த துப்பாக்கிச் சூட்டு சம்பவம் மேற்கொள்ளப்பட்டுள்ளதாகவும், டி56 ரக துப்பாக்கி இதன்போது பயன்படுத்தப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+🟩
+
+One person was killed in the shooting that took place last night in Kalutara - Kutturunda area, police said.
+
+Police said the shooting had taken place at the house of the deceased and that the T56 firing had been used at the time.. Remble
 
 ◼️
 
 [Data](articles/455c9bc2.json)
+
+[Extended Data](ext_articles/455c9bc2.ext.json)
+
+---
+
+### Sri Lanka declares May 21 as National Mourning day over Iranian President’s death
+
+*2024-05-20 22:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-declares-may-21-as-national-mourning-day-over-iranian-presidents-death-163832/) · `en`
+
+ECONOMYNEXT – Sri Lanka declared a national mourning day on Tuesday, May 21 in view of expressing its solidarity with Iran after sudden death of Iran President Ebrahim Raisi following a helicopter crash.
+
+President Raisi and eight others including Iranian Foreign Minister Hossein Amir Abdollahian were killed in the crash when the helicopter had a “hard landing” reportedly due to adverse weather conditions with heavy fog. However, President’s two convoy helicopters reached the destination safely.
+
+“The Sri Lankan government has declared a national mourning day on tomorrow (May 21) on behalf of the sudden death of Iranian president Mr. Ebrahim Raisi,” the Department of Government Information said in a statement.
+
+It also urged all the state institutions have to hoist the national flag half mast.
+
+...
+
+[Data](articles/0008f088.json)
 
 ---
 
@@ -2273,29 +2297,5 @@ It is noteworthy that the prison authorities have announced this sick holiday de
 [Data](articles/7234bb7e.json)
 
 [Extended Data](ext_articles/7234bb7e.ext.json)
-
----
-
-### President Ranil condoles Iran's demise
-
-*2024-05-20 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184032) · `ta`
-
-President Ranil Wickremesinghe expresses deep sorrow over the passing of Iranian President Ibrahim Raisi, offering condolences to Iran's family, government, and citizens. He recalls Raisi's visit to Sri Lanka where he presented the Uma Oya Multipurpose Project.
-
-🟩
-
-President Ranil Wickremesinghe has condoled the demise of Iranian President Ibrahim Raisi.
-
-Sri Lanka has been deeply shocked and worried about the tragedy of Iranian President Ibrahim Raisi, External Affairs Minister Amir Abdullahian and many senior officials.
-
-I extend my deepest condolences and deepest condolences to the family, the state and the people of Iran. He noted that our thoughts and prayers are with the family of the late Iranian President Raisi and the people of Iran.
-
-Meanwhile, on April 24, Iran's President Ibrahim Raisi visited Sri Lanka and handed over the Uma Oya Multipurpose Project to use the Multiple Scheme of Iran.
-
-◼️
-
-[Data](articles/36471876.json)
-
-[Extended Data](ext_articles/36471876.ext.json)
 
 ---

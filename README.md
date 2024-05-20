@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 22:18:46**
+As of **2024-05-20 22:34:01**
 
 ## Newspaper Stats
 
-*Scraped **25,277** Articles*
+*Scraped **25,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,168
 adaderanalk | 2,924
 tamilmirrorlk | 2,953
 virakesarilk | 3,822
-dailymirrorlk | 3,970
+dailymirrorlk | 3,971
 adaderanasinhalalk | 4,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,260 (99.9%) of 25,277 articles have been extended.
+25,276 (100.0%) of 25,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Man shot dead in Kalutara
+
+*2024-05-20 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-dead-in-Kalutara/108-282988) · `en`
+
+Kalutara, May 20 (Daily Mirror) - An individual was shot dead by two unidentified men who arrived on a motorcycle at Katukurunda in Kalutara.
+
+Police said the victim was shot at with a T-56 assault rifle while he was at home.
+
+◼️
+
+[Data](articles/ef5a8e0a.json)
+
+---
 
 ### One person shot dead in Katukurunda
 
@@ -46,19 +60,27 @@ A assailants had reportedly used a T-56 assault rifle to carry out the shooting.
 
 [Data](articles/d95ce300.json)
 
+[Extended Data](ext_articles/d95ce300.ext.json)
+
 ---
 
-### சீரற்ற வானிலை காரணமாக நாட்டின் பல பகுதிகளுக்கு மின்சாரம் தடை!
+### Electricity is blocked in many parts of the country due to inclement weather!
 
 *2024-05-20 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184088) · `ta`
 
-சீரற்ற வானிலை காரணமாக நாட்டின் பல பகுதிகளுக்கு மின்சாரம் தடைப்பட்டுள்ளதாக மின்சார சபை தெரிவித்துள்ளது.
+Due to bad weather, electricity is cut off across several regions. The Electricity Board is working to restore power.
 
-குறித்த பகுதிகளில் தடைப்பட்டிருந்த மின்சாரத்தை மீண்டும் விநியோகிப்பதற்கு நடவடிக்கை எடுத்துவருவதாக மேலும் அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+🟩
+
+Electricity has been blocked in many parts of the country due to inclement weather, the Electricity Board said.
+
+The announcement also stated that steps are being taken to re -distribute the electricity that has been blocked in these areas.
 
 ◼️
 
 [Data](articles/2d4c5614.json)
+
+[Extended Data](ext_articles/2d4c5614.ext.json)
 
 ---
 
@@ -82,15 +104,21 @@ A person in the house was shot dead by a T-56 firearm.
 
 ---
 
-### ஈரானிய ஜனாதிபதி மறைவுக்கு அனுதாபம் தெரிவிக்கும் வகையில் நாளை துக்க தினம்
+### Tomorrow is a day of sadness to sympathize with Iranian President
 
 *2024-05-20 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184087) · `ta`
 
-ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி பயணித்த உலங்கு வானூர்தி  விபத்துக்குள்ளாகி அகால மரணமடைந்ததைத்தொடர்ந்து அனுதாபம் தெரிவிக்கும் வகையில் நாளை 21 ஆம் திகதி துக்க தினமாக அறிவிக்கப்பட்டுள்ளது.
+Iran mourns as President Ibrahim Raisi declares a day of sorrow on the 21st due to an airplane tragedy and untimely loss.
+
+🟩
+
+Iranian President Ibrahim Raisi has been declared a mourning day on the 21st of this month following the death of an airplane crash and the death of the premature death.
 
 ◼️
 
 [Data](articles/6ea347ea.json)
+
+[Extended Data](ext_articles/6ea347ea.ext.json)
 
 ---
 
@@ -252,19 +280,29 @@ The SJB had proposed that the debate between the two leaders be held on June 3, 
 
 *2024-05-20 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184086) · `ta`
 
+During the final moments of Sri Lanka's internal conflict, children from families who surrendered to the military faced unknown fates. The UN Special Rapporteur on Human Rights, Agnes Callamard, questioned what happened to them. This inquiry marks a significant moment as it occurred towards the end of Sri Lanka's Civil War. The year also sees parliamentary elections in Sri Lanka, crucial for determining the country's future direction and human rights protection. It's been 15 years since the war ended, and this visit aims to assess the human rights situation and explore how to uphold justice for victims. The resilience and determination of the survivors have deeply impacted, highlighting the need for every Sri Lankan to contribute to erasing this dark chapter.
+
+🟩
+
 இலங்கையின் உள்நாட்டு யுத்தத்தின் இறுதி தருணங்களில் இராணுவத்தினரிடம் சரணடைந்த குடும்பங்களின் குழந்தைகள் எங்கே அவர்களிற்கு என்ன நடந்தது என சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் கேள்வி எழுப்பியுள்ளார்.
 
-எனது விஜயம் குறிப்பிடத்தக்கது ஏனென்றால் இலங்கையின் உள்நாட்டு போர் முடிவடைந்து 15 வருடங்களாகின்ற காலப்பகுதியில் இந்த விஜயம் இடம்பெற்றுள்ளது.
+My visit is significant because the visit took place over the end of Sri Lanka's Civil War.
 
 இந்த வருடம் இலங்கையில் நாடாளுமன்ற ஜனாதிபதி தேர்தல்கள் இடம்பெறவுள்ளதால்  இந்த வருடம் இலங்கையின் தலைவிதியையும் மனித உரிமை பாதுகாப்பின் எதிர்காலத்தையும் தீர்மானிக்கும்.
 
-இலங்கையின் உள்நாட்டு யுத்தம் முடிவடைந்து 15 வருடங்களாகின்ற நிலையில் இலங்கையின் மனித உரிமை நிலவரம் குறித்து  அறிந்துகொள்வதற்காக இந்த விஜயத்தை நான் மேற்கொண்டேன்.
+It has been 15 years since the end of the civil war of Sri Lanka, and I made this visit to find out about the human rights situation in Sri Lanka.
 
-இலங்கையில் நீதியை நிலைநாட்டுவதற்காக நாங்கள் என்ன செய்யவேண்டும் என்பதை அறிவதற்காகவும் யுத்தத்தினால் பாதிக்கப்பட்டவர்களிற்கு சர்வதேச மன்னிப்புச்சபையின் ஆதரவை வழங்கவும் நான்  இந்த விஜயத்தினை மேற்கொண்டேன்.
+I made this visit to know what we should do to uphold justice in Sri Lanka and support the International International for the War victims.
 
-...
+The bravery they express, the re -depression, and their determination to see justice have touched my mind.
+
+Every Sri Lankan citizen should come forward to remove this stain on Sri Lanka.
+
+◼️
 
 [Data](articles/abf34440.json)
+
+[Extended Data](ext_articles/abf34440.ext.json)
 
 ---
 
@@ -294,17 +332,23 @@ It is designed for high-efficiency engine performance, fast acceleration, smooth
 
 ---
 
-### சிறைச்சாலை அதிகாரிகளுக்கு நீதிமன்ற நடவடிக்கைகளை சீர்குலைக்க முடியாது - அமைச்சர் விஜேதாச ராஜபக்ஷ்
+### Prison officials cannot disrupt court proceedings - Minister Wijeyadasa Rajapaksa
 
 *2024-05-20 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184085) · `ta`
 
-சம்பள அதிகரிப்பு கோரும் சிறைச்சாலை அதிகாரிகளின் கோரிக்கையை நியாயமானது. அதனால் அவர்களுக்கு 15ஆயிரம் ரூபா கொடுப்பனவு பெற்றுக்கொடுக்க நடவடிக்கை எடுப்போம். என்றாலும் நீதிமன்ற நடவடிக்கைகளை சீர்குலைக்க அவர்களுக்கு முடியாது. நீதிமன்ற நடவடிக்கைகளுடன் தொடர்புடைய அதிகாரிகள் தொழிற்சங்க போராட்டங்களில் ஈடுபட முடியாது என நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Minister Wijeyadasa Rajapaksa stated that while the request for salary increases from prison officials is justified, leading to a decision to pay them 15 thousand rupees more, they must not disrupt court proceedings. This stance was clarified during a special journalists' meeting on the ongoing trade union struggle initiated by prison officials.
 
-சிறைச்சாலை அதிகாரிகள் ஆரம்பித்துள்ள தொழிற்சங்க போராட்டம் தொடர்பில் தெளிவுபடுத்தும் விசேட ஊடகவியலாளர் சந்திப்பு 20 ஆம் திகதி திங்கட்கிழமை நீதி அமைச்சில் இடம்பெற்றது. அதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+The request of prison authorities seeking salary increases is fair. So we will take steps to pay them 15 thousand rupees. They cannot disrupt court proceedings though. Minister of Justice, Prison and Constitutional Reforms Wijeyadasa Rajapaksa said that the authorities involved in court proceedings cannot engage in union struggles.
+
+A special journalist meeting to clarify the trade union struggle launched by prison officials was held on Monday 20th at the Ministry of Justice. He said this while participating in the comment.
 
 ...
 
 [Data](articles/e97e09a7.json)
+
+[Extended Data](ext_articles/e97e09a7.ext.json)
 
 ---
 
@@ -326,41 +370,59 @@ He assumed duties as the Acting Director of the Media Division on Monday (20).
 
 ---
 
-### "பொருளாதாரப் பரிமாற்ற சட்டமூலம்" மற்றும் "அரச நிதி முகாமைத்துவ சட்ட மூலம் " என்பன மே 22 இல் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் - பதில் நிதி அமைச்சர் செஹான் சேமசிங்க
+### The "Economic Transfer Bill" and the "State Finance Management Act" will be presented in Parliament on May 22 - Finance Minister Sehan Semasinghe
 
 *2024-05-20 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184084) · `ta`
 
-நாட்டின் பொருளாதாரத்திற்கு மிகவும் முக்கியமான இரண்டு சட்டமூலங்களை மே மாதம் 22 ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்க அரசாங்கம் திட்டமிட்டுள்ளதாக பதில் நிதியமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Finance Minister Sehan Semasinghe announced that the "Economic Transfer Bill" and "State Finance Management Act" will be presented to Parliament on May 22, aiming to manage state funds effectively and prevent economic downturns. These bills are crucial for the country's future financial management and economic growth, focusing on improving competitiveness, international trade, and reducing the state credit rate.
 
-இதன்படி, மீண்டும் ஒரு பொருளாதார வீழ்ச்சி ஏற்படுவதைத் தடுப்பதற்காக நாட்டின் அரச நிதியை உகந்த மட்டத்தில் முகாமைத்துவம் செய்யப்படுவதை உறுதிசெய்ய "பொருளாதாரப் பரிமாற்ற சட்டமூலம்" மற்றும் "அரச நிதி முகாமைத்துவ சட்ட மூலம் " ஆகியவை சமர்ப்பிக்கப்படும் என்று அவர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (20) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பதில் நிதி அமைச்சர் செஹான் சேமசிங்க இதனைத் தெரிவித்தார்.
+Finance Minister Xihan Semasinghe said that the government is planning to submit two important bills of the country's economy to Parliament on May 22.
 
-நாட்டின் பொருளாதாரத்திற்கு மிகவும் முக்கியத்துவம் வாய்ந்த இரண்டு சட்டமூலங்களை மே மாதம் 22 ஆம் திகதி சமர்ப்பிக்க அரசாங்கம் திட்டமிட்டுள்ளது. இந்த சட்டமூலங்களில் ஒன்று, மீண்டும் ஒரு பொருளாதார வீழ்ச்சி ஏற்படுவதைத் தடுப்பது தொடர்பாக முன்வைக்கப்படும் "பொருளாதார பரிமாற்றம் சட்டமூலம்"(Economic Transformation law) ஆகும்.
+Accordingly, he pointed out that the "Economic Transfer Bill" and the "State Financial Management Act" will be submitted to ensure that the country's state funds are being managed at the right level to prevent an economic downturn.
+
+Finance Minister Xihan Semasinghe made this statement at a media briefing held at the Presidential Media Center on Monday (20).
+
+The government plans to submit two bills of the country's economy on May 22. One of these bills is the "Economic Transformation Law", which is proposed to prevent an economic downturn.
+
+This Bill is not proposed by the International Monetary Fund. It must be said that the bill is presented according to President Ranil Wickremesinghe's opinion. The economy that has fallen in the past has now been brought to stability. This condition must be protected in the future.
 
 ...
 
 [Data](articles/f86b70fe.json)
 
+[Extended Data](ext_articles/f86b70fe.ext.json)
+
 ---
 
-### ஆசிய கலப்பு இன 4 x 400 மீற்றர் தொடர் ஓட்டத்தில் இலங்கைக்கு வெள்ளி
+### Silver to Sri Lanka in the Asian Mixed City 4 x 400m Series
 
 *2024-05-20 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184083) · `ta`
 
-தாய்லாந்தின் பாங்கொங்கில் இன்று திங்கட்கிழமை (20) ஆரம்பமான அங்குரார்ப்பண ஆசிய தொடர் ஓட்ட சம்பியன்ஷிப்பில் 4 x 400 மிற்றர் கலப்பு இன தொடர் ஓட்டப் போட்டியில் இலங்கைக்கு வெள்ளிப் பதக்கம் கிடைத்தது.
+Sri Lanka secured silver in the 4x400m mixed ethnic event at the Angarasa Asian Series Championships, finishing in 3:17.00. The team included Aruna Darshana, Sayuri Mendis, Pasinda Kodikara, and Nadisha Ramanayake. Kalinga Kumara, who placed 2nd in the men's 400m in Japan, also competed. India set a new national record, winning gold in 3:14.12.
 
-4 x 400 மீற்றர் கலப்பு இன தொடர் ஓட்டப் போட்டியை 3 நிமிடங்கள் 17.00 செக்கன்களில் இலங்கை அணியினர் நிறைவு செய்து இரண்டாம் இடத்தைப் பெற்றனர்.
+🟩
 
-வெள்ளிப் பதக்கம் வென்ற இலங்கையின் கலப்பு இன தொடர் ஓட்ட அணியில் அருண தர்ஷன, சயுரி மெண்டிஸ், பசிந்து கொடிகார, நடீஷா ராமநாயக்க ஆகியோர் பங்குபற்றினர்.
+Sri Lanka won the silver medal in the 4 x 400 -mixed ethnic group at the Angarasa Asian Series Championships, which began on Monday (20) in Bangladesh, Thailand.
 
-ஜப்பானின் டொக்கியோ நகரில் ஞாயிறன்று நடைபெற்ற சீக்கோ கோல்டன் க்ரோன் ப்றீ போட்டியில் ஆண்களுக்கான 400 மீற்றர் ஓட்ட நிகழ்ச்சியில் 2ஆம் இடத்தைப் பெற்ற காலிங்க குமார இந்தப் போட்டியில் பங்குபற்றவில்லை. அவருக்குப் பதிலாக பசிந்து கொடிகார பங்குபற்றினார்.
+The Sri Lankan team finished second in 3 minutes 17.00 seconds.
 
-அப் போட்டியை 3 நிமிடங்கள் 14.12 செக்கன்களில் நிறைவு செய்து இந்திய அணியினர் அந் நாட்டுக்கான தேசிய சாதனையை புதுப்பித்து தங்கப் பதக்கத்தை சுவீகரித்தனர்.
+Aruna Darshana, Sayuri Mendis, Pasinda Kodikara and Nadisha Ramanayake participated in the silver medalist Sri Lanka's mixed ethnic series.
+
+Kalinga Kumara, who was ranked 2nd in the men's 400 -meter run at the Seeko Golden Chron Breen Competition held on Sunday in Japan, Japan, Japan.. He replaced him and participated in the flag.
+
+The Indian team renewed the national record for the country and won the gold medal in 3 minutes 14.12 seconds.
+
+In this case, the Sri Lankan team will take part in Tuesday in the men's 4O 100 Mitter and 4 O 400 Mitual Series and the 4O 400m Series for the Women.
+
+4 x 100 m. Men: Kavindu Sathuranga, Dineet Hindu, Samod Yodasinghe, Sanuku Dharmakirthi (Answer - H. Kamlath, Dineth Senanayake.
 
 ...
 
 [Data](articles/f53c6771.json)
+
+[Extended Data](ext_articles/f53c6771.ext.json)
 
 ---
 
@@ -388,19 +450,25 @@ Sinhalese soldiers stationed in Ukraine since 2022, including reservists and oth
 
 ---
 
-### මිල්කෝ දෛනික කිරි නිෂ්පාදනය සියයට 100කින් ඉහළට
+### Milco daily production increased by 100 percent
 
 *2024-05-20 20:05:31* · [`adalk`](https://www.ada.lk/breaking_news/මිල්කෝ-දෛනික-කිරි-නිෂ්පාදනය-සියයට-100කින්-ඉහළට/11-409749) · `si`
 
-පරිපාලන දුර්වලතා හේතුවෙන් පසුගිය සමයේ ලීටර 65,000 ක්ව තිබූ මිල්කෝ සමාගමෙහි දෛනික දියර කිරි නිෂ්පාදනය මේ වනවිට ලීටර 140,000 ඉක්මවා ඇතැයි මිල්කෝ සමාගමේ සභාපති ඉන්දික ගුරුගේ මහතා සඳහන් කළේය.
+Milko's daily liquid milk production surged by 100%, exceeding 65,000 liters last season. The company also boosted its milk powder output, storing 80 metric tons of Highland milk powder. Administrative improvements led to this significant increase.
 
-ඔහු ප්‍රකාශ කර සිටියේ පසුගිය කාලය තුළ සම්පූර්ණයෙන් නැවතී තිබූ සමාගමෙහි කිරිපිටි නිෂ්පාදනය මේ වනවිට සක්‍රිය කර ඇති බවත් ඒ අනුව හයිලන්ඩ් කිරි පිටි මෙට්‍රික් ටොන් 80ක්  මේ වනවිට ගබඩා සතුව පවතින බවත්ය.
+🟩
 
-මේ අතර මිල්කෝ සමාගමෙහි නිෂ්පාදන ධාරිතාවය ඉහළ යාම පිළිබඳ වාර්තාවක් සභාපතිවරයා විසින්  විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතාට ලබා දී ඇති අතර සමාගමෙහි දෛනික දියර කිරි ඉළක්කය ලීටර් 120,000ක් බව සඳහන්ය.
+The daily liquid milk production of the daily liquid milk of Milko has exceeded 65,000 liters during the past season due to administrative weaknesses.
+
+He said that the company's milk powder produced in the entire stay in the recent past was also activated and 80 metric tons of Highland milk powder have been in storage.
+
+Meanwhile, a report on the production capacity of Milko has been given a report to the top of Milko.
 
 ◼️
 
 [Data](articles/18da1bc9.json)
+
+[Extended Data](ext_articles/18da1bc9.ext.json)
 
 ---
 
@@ -492,23 +560,29 @@ In his opening remarks, President Wickremesinghe extended his gratitude to the P
 
 ---
 
-### புத்தளம் மாவட்டத்தில் 8,780 குடும்பங்கள் பாதிப்பு; பாடசாலைகளுக்கும் விடுமுறை
+### 8,780 families in Puttalam districtHolidays for schools
 
 *2024-05-20 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184082) · `ta`
 
-சீரற்ற வானிலை காரணமாக புத்தளம் மாவட்டத்தில் ஏற்பட்டுள்ள வெள்ளப்பெருக்கினால் 8,780 குடும்பங்களைச் சேர்ந்த 32,710 பேர் பாதிக்கப்பட்டுள்ளதாக புத்தளம் மாவட்ட செயலாளர் எச்.எம்.எஸ்.பி.ஹேரத் தெரிவித்துள்ளார்.
+Floods in Puttalam district affect 32,710 people across 8,780 families, leading to school closures.
 
-கடந்த இரண்டு நாட்களாக பெய்த கடும் மழை காரணமாக புத்தளம் மாவட்டத்தில் 9 பிரதேச செயலகப் பிரிவில் 78 கிராம சேவகர் பிரிவில் 8,780 குடும்பங்களை சேர்ந்த 32,710 பேர் பாதிக்கப்பட்டுள்ளனர்.
+🟩
 
-இதில் புத்தளம் பிரதேச செயலகப் பிரிவில் அதிகமான குடும்பங்கள் பாதிக்கப்பட்டுள்ளதுடன், அங்கு 12 கிராம சேவகர் பிரிவில் 6,815 குடும்பங்களைச் சேர்ந்த 25,529 பேர் பாதிக்கப்பட்டுள்ளதாகவும் மாவட்ட செயலாளர் கூறியுள்ளமை குறிப்பிடத்தக்கது.
+Puttalam District Secretary HMSP Herath said that 32,710 people from 8,780 families have been affected by the floods in the Puttalam district due to inclement weather.
 
-மேலும், புத்தளம் மாவட்டத்தில் உள்ள அனைத்து பாடசாலைகளையும் நாளை 21 ஆம் திகதி செவ்வாய்க்கிழமையும்  மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளதாக வடமேல் மாகாண கல்விப் பணிப்பாளர் அலுவலகம் இதனை அறிவித்துள்ளது.
+Due to heavy rains over the past two days, 32,710 people from 8,780 families have been affected by the 78 Grama Niladhari Division in the 9 Divisional Secretariat Division in the Puttalam district.
 
-19 ஆம் திகதி ஞாயிற்றுக்கிழமை இன்றைய நாளுக்கான விடுமுறை அறிவிக்கப்பட்ட நிலையில், வானிலைக்கு ஏற்ப எதிர்வரும் நாட்கள் தொடர்பில் தீர்மானிக்கப்படும் என தெரிவிக்கப்படுகிறது.
+The district secretary said that more families in the Puttalam Divisional Secretariat Division have been affected and 25,529 people from 6,815 families have been affected by the 12 Grama Niladhari Division.
+
+The North Western Provincial Directorate's Office has announced that it has decided to close all schools in the Puttalam district on Tuesday 21st.
+
+It is reported that the holidays for today's day are announced on Sunday, 19th, and the upcoming days will be decided in accordance with the weather.
 
 ◼️
 
 [Data](articles/6f118fee.json)
+
+[Extended Data](ext_articles/6f118fee.ext.json)
 
 ---
 
@@ -536,21 +610,29 @@ The second group is the team, which was launched by the Grays of the Ministry of
 
 ---
 
-### மழையுடன்  டெங்கு  பரவும் அபாயத்தைக் குறைப்பதற்கு அவசர நடவடிக்கைகள் எடுக்கப்பட வேண்டியதன் அவசியம் குறித்து ஆராய்வு
+### Review the need to take emergency measures to reduce the risk of dengue spreading with rain
 
 *2024-05-20 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184081) · `ta`
 
-மழையுடன் கொழும்பில் டெங்கு பரவும் அபாயத்தைக் குறைப்பதற்கு உடனடி நடவடிக்கைகளை மேற்கொள்ளுமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+Sagala Ratnayake, a senior adviser to Sri Lanka's National Security and President, urged immediate action to curb dengue spread in Colombo, especially with the rainy season. He recommended a special awareness program for schools and parents from May 26 to June 1 during Dengue Eradication Week. Measures were also suggested for state institutions, religious sites, and new constructions. The Ministry of Health pledged support, and discussions included tree management strategies, favoring tree planting over cutting.
 
-மே 26 முதல் ஜூன் முதலாம் திகதி வரை டெங்கு ஒழிப்பு  வாரத்தில் கல்வி அமைச்சின் ஊடாக பாடசாலை மாணவர்கள் மற்றும் பெற்றோர்களை  தெளிவுபடுத்தும் வகையில் விசேட விழிப்புணர்வு நிகழ்ச்சித் திட்டத்தை மேற்கொள்ளுமாறும் அவர் ஆலோசனை வழங்கினார்.
+🟩
 
-மேலும், அரச நிறுவனங்கள், மத ஸ்தலங்கள், புதிதாக நிர்மாணிக்கப்பட்ட கட்டடங்கள் போன்றவற்றில் டெங்கு பரவும் அபாயத்தைக் குறைப்பதற்கு நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு ஆலோசனை வழங்கிய சாகல ரத்நாயக்க, இந்த நடவடிக்கைகளை பின்பற்றாதவர்களுக்கு எதிராக சட்ட நடவடிக்கை மேற்கொள்ளுமாறும்  சம்பந்தப்பட்ட  பிரிவுகளுக்கு  அறிவித்தார்.
+Sagala Ratnayake, a senior adviser to the National Security and President of the President, directed the relevant authorities to take immediate steps to reduce the risk of dengue spreading in Colombo with rain.
 
-ஜனாதிபதி அலுவலகத்தில் திங்கட்கிழமை (20)  நடைபெற்ற டெங்கு பரவலைக் கட்டுப்படுத்தும் வேலைத்திட்டத்தின் தற்போதைய நிலை குறித்த முன்னேற்ற மீளாய்வு கூட்டத்தில் சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+From May 26 to June 1, he advised to carry out a special awareness program to clarify school children and parents through the Ministry of Education during the Dengue Eradication Week.
+
+In addition, Sagala Ratnayake advised the authorities to take steps to reduce the risk of dengue spreading in state institutions, religious places and newly constructed buildings.
+
+Sagala Ratnayake presented these instructions at a meeting on the current status of the dengue spread program held at the Presidential Office on Monday (20).
+
+Defense Minister of State for Defense Bandara, Senior Advisor to the National Security Minister and President of the President, President Sagala Ratnayake and Defense Chief Savendra Silva, presided over the implementation of the previous meeting and the current progress.
 
 ...
 
 [Data](articles/7d6e748e.json)
+
+[Extended Data](ext_articles/7d6e748e.ext.json)
 
 ---
 
@@ -650,19 +732,25 @@ The government has planned to submit two very important bills to the Sri Lankan 
 
 ---
 
-### கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேக நபர்களுக்கு மீண்டும் விளக்கமறியல்!
+### Re -explanation for 8 suspects including Keheliya Rambukwella!
 
 *2024-05-20 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184075) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேக நபர்களை எதிர்வரும் ஜூன் மாதம் 3 ஆம் திகதி வரை விளக்கமறியலில் வைக்க மாளிகாகந்த நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Eight suspects, including ex-health minister Keheliya Rambukwella, have been ordered by the court to appear by June 3rd, following ongoing investigations into a substandard drug import case.
 
-இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் 20 ஆம் திகதி திங்கட்கிழமை இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்து இறக்குமதி சம்பவம் தொடர்பான வழக்கிலேயே முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேக நபர்களும் தொடர்ந்தும் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை இங்கு குறிப்பிடத்தக்கது.
+The court has ordered the eight suspects, including former health minister Keheliya Rambukwella, until June 3.
+
+The order was issued at the Magistrate's Court on Monday, the 20th.
+
+It is noteworthy that eight suspects, including former health minister Keheliya Rambukwella, continued to be interrogated in the case of a substandard human immunoglobulin drug import incident.
 
 ◼️
 
 [Data](articles/a05c5304.json)
+
+[Extended Data](ext_articles/a05c5304.ext.json)
 
 ---
 
@@ -692,21 +780,27 @@ The aim of the conference is to align the various nationalities worldwide for th
 
 ---
 
-### ஜனாதிபதி தேர்தல் தொடர்பில் ஜனாதிபதியுடன் இணக்கப்பாட்டுக்கு வரவில்லை - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+### Sri Lanka PA has not come to agree with the president on presidential election
 
 *2024-05-20 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184072) · `ta`
 
-இடைக்கால ஜனாதிபதியாகவே ரணில் விக்கிரமசிங்கவை தெரிவு செய்தோம். ஜனாதிபதி தேர்தல் இடம்பெறும் வரை அவருக்கு ஒத்துழைப்பு வழங்குவோம். அடுத்த ஜனாதிபதி தேர்தல் தொடர்பில் ஜனாதிபதியிடம் எவ்வித இணக்கப்பாட்டுக்கும் வரவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+Sri Lanka PA disagrees with the president over the timing of the presidential election, preferring a general election first to reveal political realities. They've chosen Ranil Wickremesinghe as interim president, awaiting a constitutional date for the vote. The former Russian Ambassador suggests dissolution in July, aligning with ex-President Mahinda Rajapakse's announcement plans.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் திங்கட்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் உரிய தினத்தில் நடத்தப்படும். ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்த வேண்டும் என்ற யோசனையை ஜனாதிபதியிடம் முன்வைத்தோம் இருப்பினும் ஜனாதிபதி சாதகமான பதிலை இதுவரை குறிப்பிடவில்லை.
+We elected Ranil Wickremesinghe as the interim president. We will cooperate with him until the presidential election is held. Sri Lanka PA, General Secretary of the Sri Lanka PA, said that the president had not come to any compliance with the next presidential election.
 
-ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்தினால் அரசியலில் வீரவசனம் பேசும் தரப்பினரது உண்மை முகம் வெளியாகும்.பொதுத்தேர்தல் இடம்பெற்றால் சிறந்த அரசியல் சூழல் ஏற்படும். இதன் காரணமாகவே பொதுத்தேர்தலை கோருகிறோம்.
+He was speaking at a media briefing held at the Sri Lanka PA's office on Monday (20).
+
+According to the Constitution, the presidential election will be held on the appropriate day. The President has not yet mentioned a favorable response, though we have proposed to the president's idea of holding a general election before the presidential election.
+
+If the general election is held before the presidential election, the true face of the politics of politics will be revealed.. This is why we demand the general election.
 
 ...
 
 [Data](articles/c2486bcd.json)
+
+[Extended Data](ext_articles/c2486bcd.ext.json)
 
 ---
 
@@ -828,19 +922,27 @@ IP in India. The four teams have been arrested shortly before the three teams ar
 
 ---
 
-### வாக்குச்சாவடியை ஆய்வு செய்த ராகுல் காந்தி
+### Rahul Gandhi who examined the polling booth
 
 *2024-05-20 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184065) · `ta`
 
-இந்திய மக்களவைத் தேர்தலில் ஐந்தாம் கட்ட தேர்தல் இன்று நடைபெற்று வருகிறது.  இந்நிலையில் ரேபரேலி தொகுதியில் நடைபெற்ற மக்களவை தேர்தலுக்கான வாக்குப்பதிவு நடைபெறும் வாக்குச்சாவடிக்கு காங்கிரஸ் கட்சியின் சார்பில் போட்டியிடும் வேட்பாளரான ராகுல் காந்தி ஆய்வு செய்தார்.
+In the fifth phase of India's Lok Sabha elections, Rahul Gandhi, a Congress party candidate, inspected a polling booth in the Rabareli constituency. He is also contesting in the Wayanad constituency in Kerala. Despite not campaigning in Amethi and Rabareli, Rahul and his sister Priyanka Gandhi have been active, contrasting with PM Narendra Modi's absence from these campaigns in 2019.
 
-காங்கிரஸ் கட்சியில் மூத்த தலைவர்களில் ஒருவரும், காங்கிரஸ் கட்சியின் முன்னாள் தலைவரும், மக்களவை உறுப்பினருமான ராகுல் காந்தி கேரள நாட்டில் உள்ள வயநாடு எனும் தொகுதியில் போட்டியிடுகிறார். இதைத் தொடர்ந்து உத்தரபிரதேச மாநிலத்தில் உள்ள ரேபரேலி மக்களவைத் தொகுதியிலும் போட்டியிடுகிறார்.
+🟩
 
-வயநாடு தொகுதிக்கான தேர்தல் ஏப்ரல் 26 ஆம் திகதி அன்று நடைபெற்றது. ரேபரேலி தொகுதிக்கான தேர்தல் இன்று நடைபெறுகிறது. இதனைப் பார்வையிடுவதற்காக ராகுல் காந்தி புதுதில்லியிலிருந்து லக்னோ விமான நிலையத்திற்கு வருகை தந்தார்.
+The fifth phase of the Indian Lok Sabha elections is being held today.In this backdrop, Rahul Gandhi, a candidate for the Congress party, examined the polling booth for the Lok Sabha elections held in the Rabareli constituency.
+
+Rahul Gandhi, one of the senior leaders of the Congress party and a former leader of the Congress party and a member of the Lok Sabha, is contesting in the Wayanad constituency in Kerala. Following this, he is also contesting the Rabareli Lok Sabha constituency in Uttar Pradesh.
+
+The election for Wayanad constituency was held on April 26. Elections for the Rabareli constituency are being held today. Rahul Gandhi visited New Delhi to Lucknow airport to visit this.
+
+He then traveled to the road and went to the Rabareli constituency and inspected the polling station set up at Mahatma Gandhi College.. At the time, the voters took the selfie with Rahul Gandhi. Following this, Rahul Gandhi inspected the polling center.
 
 ...
 
 [Data](articles/b444f96b.json)
+
+[Extended Data](ext_articles/b444f96b.ext.json)
 
 ---
 
@@ -868,19 +970,27 @@ Blended finance is the strategic use of development finance, such as public and/
 
 ---
 
-### நடிகர் ஜூனியர் என்டிஆர் நடிக்கும் 'தேவரா -‌பார்ட் 1'  படத்தின் சிங்கிள் ட்ராக் வெளியீடு
+### Actor Junior NTR starring single track release of 'Devara -Pard 1'
 
 *2024-05-20 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184061) · `ta`
 
-தெலுங்கின் முன்னணி நட்சத்திர நடிகரும் 'ஆர் ஆர் ஆர்' படத்தின் மூலம் தமிழ் ரசிகர்களிடத்திலும் பிரபலமான ஜூனியர் என்டிஆர் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'தேவரா - பார்ட் 1'  படத்தில் இடம்பெற்ற 'ஃபியர் சாங்..' எனும் முதல் பாடலும், பாடலுக்கான பிரத்யேக காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+"Junior NTR stars in 'Devara - Part 1', featuring the lead single 'Fear Song'. Directed by Koratala Siva, it also stars Jhanvi Kapoor, Saeb Ali Khan, Prakash Raj, Srikanth, and Shine Tom Sacco. Composed by Anirudh, the film is set for worldwide release on October 10."
 
-இயக்குநர் கொரட்டலா சிவா இயக்கத்தில் உருவாகி வரும் 'தேவரா- பார்ட் 1' படத்தில் ஜூனியர் என்டிஆர், பொலிவுட் நடிகை ஜான்வி கபூர், பொலிவுட் நடிகர் சயீப் அலி கான், பிரகாஷ் ராஜ், ஸ்ரீகாந்த்,  ஷைன் டாம் சாக்கோ உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ரத்னவேலு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை நந்தமூரி தாரகா ராமராவ் ஆர்ட்ஸ் மற்றும் யுவசுதா ஆர்ட்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் சுதாகர் மிக்கிலினேனி மற்றும் கொஸராஜு ஹரிகிருஷ்ணா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள். இந்த திரைப்படத்தை நந்தமூரி கல்யாண்ராம் வழங்குகிறார்.
+The first song 'Fear Song ..', which is featured in 'Devara - Part 1', has been released as the leading role of Junior NTR story in Tamil fans with Telugu star actor and 'RRR'.
+
+Junior NTR, Bollywood actress Jhanvi Kapoor, Bollywood actor Saeb Ali Khan, Prakash Raj, Srikanth and Shine Tom Sacco have starred in 'Thevara-Part 1' directed by director Koratala Siva.
+
+Anirudh has composed the film, which has been recorded by Ratnavelu. The film is being produced by Sudhakar Mikilineni and Kosaraju Harikrishna on behalf of Nandamuri Taraka Rama Rao Arts and Yuvasuda Arts.. Nandamuri Kalyanram presents the film.
+
+The first song 'Fier Song ..' has been released in his upcoming film 'Devara-Part 1', which will be gifted to his fans on the birthday of Junior NTR.. The song is sung by songwriter Vishnu Edavan, background singer and composer Anirudh.The song, which is being formed with the rhythmic rhythm of the top music, has been well received by the Internet.
 
 ...
 
 [Data](articles/289a3c41.json)
+
+[Extended Data](ext_articles/289a3c41.ext.json)
 
 ---
 
@@ -942,17 +1052,27 @@ It is reported that heavy rainfall has resulted in several schools in the distri
 
 ---
 
-### விமல் - கருணாஸ் இணைந்து கலங்கடிக்கும் 'போகுமிடம் வெகு தூரமில்லை'
+### Wimal - Karunas is a disturbed
 
 *2024-05-20 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184056) · `ta`
 
-தமிழ் சினிமாவின் சிறந்த குணச்சித்திர நடிகர்களில் ஒருவரான கருணாசும், கதையின் நாயகர்களில் ஒருவரான விமலும் இணைந்து நடித்திருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படம் ரசிகர்களை கண்கலங்க வைக்கும் உணர்வுபூர்வமான படைப்பு என படக் குழுவினர் தெரிவித்திருக்கிறார்கள்.
+"Film 'Pokallam' stars Vimal and Karunas, directed by Michael K., featuring music by R. Raghunandan. It focuses on two men managing a vehicle business, shot in Dem by Xavier Edwards. Produced by Shark 9 Pictures, it aims to offer a unique cinematic experience."
 
-அறிமுக இயக்குநர் மைக்கல் கே. ராஜா இயக்கத்தில் உருவாகி இருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படத்தில் விமல், கருணாஸ், மேரி ரிக்கெட்ஸ், 'ஆடுகளம்' நரேன், மனோஜ் குமார், பவன், அருள்தாஸ், தீபா சங்கர், சார்லஸ் வினோத், வேல. ராமமூர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். டெமில் சேவியர் எட்வர்ட்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என். ஆர். ரகுநந்தன் இசையமைத்திருக்கிறார்.  அமரர் ஊர்தி  வாகனத்தை இயக்கும் இரண்டு மனிதர்களின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஷார்க் 9 பிக்சர்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் சிவா கில்லாரி தயாரித்திருக்கிறார்.
+🟩
 
-...
+The film crew has said that the film 'Pokallam is not too far', starring Vimal, one of the best character actors of Tamil cinema, and Vimal, one of the heroes of the story.
+
+Michael K.. Vimal, Karunas, Mary Rickets. Many people including Ramamurthy. The film has been recorded by Xavier Edwards in Dem for this movie. R. Raghunandan has composed the music.The film is being produced by Shark 9 Pictures, producer Siva Killari, who is preparing to focus on the life of two men who run the Amarar vehicle.
+
+The film was introduced to the audience in Chennai at the time.
+
+Commenting on the film, the director said, “This storyline is new. I have traveled long for this movie. The producer who believed in the story agreed to produce the film. The film had to be played with facial expressions without speaking.. Actor Wimal performed it well. I expect this movie to attract all fans. I hope to provide a different experience. ”
+
+◼️
 
 [Data](articles/f9768d54.json)
+
+[Extended Data](ext_articles/f9768d54.ext.json)
 
 ---
 
@@ -1118,17 +1238,25 @@ Prior to the apprehension of Rambukwella, seven arrests had been made in connect
 
 ---
 
-### 'உலகநாயகன்' கமல்ஹாசன் நடிக்கும் 'இந்தியன் 2 'அப்டேட்
+### 'Indian 2' update starring Kamal Haasan
 
 *2024-05-20 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184050) · `ta`
 
-'உலக நாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி வரும் 'இந்தியன் 2' திரைப்படத்தினை பற்றிய புதிய தகவல்களை படக்குழுவினர் அதிகாரப்பூர்வமாக வெளியிட்டிருக்கிறார்கள்.
+"Indian 2," directed by Shankar, stars Kamal Haasan alongside J.. Surya, Bobby Simha, and more. Composed by Anirudh, it's produced by Subhashkaran under Leica Productions. The film, set for global release on July 12th, has its music launch in Chennai on June 1st, with the first song out on May 22nd. Following "Indian 2," "Indian 3" is slated for release six months later, stirring excitement among fans."
 
-இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி வரும் 'இந்தியன் 2' திரைப்படத்தில் 'உலகநாயகன்', கமல்ஹாசன், சித்தார்த், எஸ். ஜே. சூர்யா, பாபி சிம்ஹா, சமுத்திரக்கனி, ராகுல் ப்ரீத் சிங் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+🟩
+
+The film crew has officially released new information about the movie 'Indian 2' starring Kamal Haasan.
+
+Directed by director Shankar in 'Indian 2'. J.. Surya, Bobby Simha, Samudrakani, Rahul Preet Singh and many others have been cast. Anirudh has composed the film, which is being recorded by Ravivarman. The film was produced by producer Subhashkaran on behalf of Leica Productions.
+
+The event is beginning to advertise the film. In the first phase of the film, the film crew's participation in the IPL match in India released important information on the release of the film.. The film will be released worldwide on July 12th.. The music launch of the film will be held in Chennai on the first day of June. They also announced that the first song of the film will be released on the 22nd of this month.. Six months after the release of 'Indian 2', 'Indian 3' will also be released.. This makes the fans excited.
 
 ...
 
 [Data](articles/c4896c81.json)
+
+[Extended Data](ext_articles/c4896c81.ext.json)
 
 ---
 
@@ -2167,21 +2295,5 @@ Call letters to the graduates who will be appointed will be sent by the Northern
 [Data](articles/e0ebf006.json)
 
 [Extended Data](ext_articles/e0ebf006.ext.json)
-
----
-
-### Sri Lanka deeply shocked by tragic death of President Raisi: Ranil
-
-*2024-05-20 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-deeply-shocked-by-tragic-death-of-President-Raisi-Ranil/108-282962) · `en`
-
-Colombo, May 20 (Daily Mirror)- Sri Lanka is deeply shocked and saddened by the tragic death of President Ebrahim Raisi, Foreign Minister Amir Abdollahian and other senior Irani officials, President Ranil Wickremesinghe said in a messege on X.
-
-"I express my deepest sympathies and sincere condolences to the bereaved families, the government and the people of Iran. Our thoughts and prayers are with the families of President Raisi and his entourage," the President said.
-
-◼️
-
-[Data](articles/8626e37d.json)
-
-[Extended Data](ext_articles/8626e37d.ext.json)
 
 ---

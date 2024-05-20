@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 21:03:55**
+As of **2024-05-20 21:18:29**
 
 ## Newspaper Stats
 
-*Scraped **25,251** Articles*
+*Scraped **25,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,136 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,451
 dailyftlk | 1,480
-adalk | 2,166
-adaderanalk | 2,922
-tamilmirrorlk | 2,952
+adalk | 2,167
+adaderanalk | 2,923
+tamilmirrorlk | 2,953
 virakesarilk | 3,807
-dailymirrorlk | 3,968
-adaderanasinhalalk | 4,039
+dailymirrorlk | 3,970
+adaderanasinhalalk | 4,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,249 (100.0%) of 25,251 articles have been extended.
+25,251 (100.0%) of 25,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### Sri Lanka declares day of mourning after Iranian President Raisi’s death
+
+*2024-05-20 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99345/sri-lanka-declares-day-of-mourning-after-iranian-president-raisis-death) · `en`
+
+The Government of Sri Lanka has declared tomorrow (21 May) as a day of mourning in view of the death of Iranian President Ebrahim Raisi.
+
+Accordingly, the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Mr. Pradeep Yasaratne has informed that the National Flag be placed half-mast at all state institutions on Tuesday (21).
+
+◼️
+
+[Data](articles/c28d45b6.json)
+
+---
+
+### හෙට ශෝක දිනයක් ලෙස ප්‍රකාශයට පත් කෙරේ
+
+*2024-05-20 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196836) · `si`
+
+ශ්‍රී ලංකා රජය විසින් හෙට (21) ශෝක දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+
+ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසිගේ අභාවය වෙනුවෙන් එම තීරණය ගත් බව රාජ්‍ය පරිපාලන අමාත්‍යාංශ ස﻿ඳහන් කරයි.
+
+ඒ අනුව හෙට දින සියලු රජයේ ආයතනවල ජාතික කොඩිය අඩකුඹු කර තබන ලෙස උපදෙස් ලබාදී ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ ලේකම් ප්‍රදීප් යසරත්න මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a8c37a23.json)
+
+---
+
+### ඉරාන ජනපති වෙනුවෙන් රනිල් සහ මහින්ද තැබූ සටහන්
+
+*2024-05-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196835) · `si`
+
+ඉරාන ජනාධිපතිවරයාගේ අභාවය පිළිබඳව සිය X ගිණුමේ සටහනක් තබමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ශෝකය පළකර තිබේ.
+
+ජනාධිපතිවරයා එහිදී පවසා ඇත්තේ එම ඛේදනීය මරණය සැලවීමෙන් ශ්‍රී ලංකාව දැඩි කම්පනයට සහ ශෝකයට පත් වූ  බවය.
+
+මේ අතර එම සිද්ධිය පිළිබඳව තමා දැඩි ලෙස කනස්සල්ලට පත්වන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කර තිබේ.
+
+එමෙන්ම කථානායක මහින්ද යාපා අබේවර්ධන මහතා ද මෙරට ඉරාන තානාපති කාර්යාලය වෙත ගොස් සිය ශෝකය පළ කළේය.
+
+මේ අතර මෙම මරණය සම්බන්ධයෙන් තමා දැඩි කම්පනයට පත්වූ බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාද X පණිවුඩයක් තබමින් පවසා තිබේ.
+
+ශ්‍රී ලංකාවේ සැබෑ මිතුරෙකු වූ ජනාධිපති රයිසි සදා මතකයේ රැඳෙනු ඇති බව පෙන්වාදෙන හිටපු ජනාධිපතිවරයා මෙරට ඉරාන තානාපති කාර්යාලයටද ගොස් සිය ශෝකය පළකර තිබුණි.
+
+ලෝක නායකයින් ද ඉරාන ජනාධිපතිවරයාගේ හදිසි අභාවය පිළිබඳව ශෝකය පළකර තිබුණි.
+
+ඉරානයේ සහාය ලබමින් ඊශ්‍රායලයට එරෙහිව සටන්වදින පලස්තීනයේ හමාස්, යේමනයේ හූති සහ ලෙබනනයේ හෙස්බුල්ලා යන සන්නද්ධ සංවිධාන ද රයිසිගේ මරණය පිළිබඳ ශෝකය පණිවිඩ නිකුත් කර තිබේ.
+
+...
+
+[Data](articles/9f17e40b.json)
+
+---
+
+### நாளை துக்கதினம்
+
+*2024-05-20 20:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-துக்கதினம்/175-337607) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவை முன்னிட்டு இலங்கையில் நாளை துக்க தினமாக பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3028ffb7.json)
+
+---
+
+### Sri Lanka declares tomorrow a day of mourning for Iranian President
+
+*2024-05-20 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-declares-tomorrow-a-day-of-mourning-for-Iranian-President/108-282986) · `en`
+
+Colombo, May 20 (Daily Mirror) - Sri Lanka declares tomorrow as a day of mourning in view of the death of Iranian President Ebrahim Raisi.
+
+The national flag will fly at half mast at all government institutions.
+
+◼️
+
+[Data](articles/46294a12.json)
+
+---
+
+### ISIS සංවිධානයට සම්බන්ධ ලංකාවේ සිව් දෙනෙක් ඉන්දියාවේදී අල්ලයි
+
+*2024-05-20 20:39:49* · [`adalk`](https://www.ada.lk/breaking_news/ISIS-සංවිධානයට-සම්බන්ධ-ලංකාවේ-සිව්-දෙනෙක්-ඉන්දියාවේදී-අල්ලයි/11-409752) · `si`
+
+ඉන්දියාවේ ගුජරාට් ප්‍රාන්තයේ ත්‍රස්ත විරෝධී බළකාය (ATS) අහමෙදාබාද්හි පිහිටි සර්දාර් පටෙල් ජාත්‍යන්තර ගුවන් තොටුපොළේ සිදු කළ පරීක්ෂාවකදී ISIS සංවිධානය හා සම්බන්ධ යැයි සැකපිට ශ්‍රී ලාංකිකයන් සිව් දෙනෙකු අත්අඩංගුවට ගත් බව ඉන්දීය මාධ්‍ය  (20දා) වාර්තා කළේය.
+
+මෙම සැකකරුවන් සිව් දෙනා ශ්‍රී ලංකාවේ සිට ඉන්දියාවේ චෙන්නායි නුවර හරහා අහමෙදාබාද් නුවර වෙත පැමිණි පිරිසකි.ඔවුන් මොහොමඩ් නුස්රට්, මොහොමඩ් නුෆ්රාන්, මොහොමඩ් ෆාරිස්, මොහොමඩ් රාස්ඩින් ලෙස හඳුනාගෙන තිබේ.
+
+ඉන්දීය මාධ්‍ය වාර්තාවලට අනුව මෙම සිව්දෙනා ගුජරාට ත්‍රස්ත විරෝධී බළකාය විසින් ඉදිරි ප්‍රශ්න කිරීම් සඳහා රහසිගත ස්ථානයක් වෙත රැගෙන ගොස් තිබේ. මොවුන් ඊයේ මෙලෙස එම ජාත්‍යන්තර ගුවන් තොටුපොළ වෙත පැමිණි හේතුව කුමක්ද යන්න පිළිබඳවත් මෙතෙක් අනාවරණය වී නැත.
+
+...
+
+[Data](articles/860cb92f.json)
+
+---
+
+### Anura ready for debate with Sajith on June 6: Nalinda Jayatissa
+
+*2024-05-20 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-ready-for-debate-with-Sajith-on-June-6-Nalinda-Jayatissa/108-282985) · `en`
+
+Colombo, May 20 (Daily Mirror)- NPP leader Anura Kumara Dissanayake is ready to participate in the proposed debate with Samagi Jana Balawegaya (SJB) leader Sajith Premadasa on June 6, NPP Executive Committee member Dr. Nalinda Jayatissa said today.
+
+He said in a statement to media that a venue, time and scope of the debate will be decided shortly with SJB MP Nalin Bandara, who was appointed by the SJB to handle the matters regarding the debate.
+
+The SJB had proposed that the debate between the two leaders be held on June 3, 4, 5, 6 or 7 while the debate between the economic experts be held on May 27, 28, 29, 30 or 31.
+
+◼️
+
+[Data](articles/dca62e4c.json)
+
+---
 
 ### Sri Lanka to get Octane 100 petrol soon
 
@@ -148,17 +262,23 @@ Both sluice gates of the Angamuwa reservoir have been opened, and the amount of 
 
 ---
 
-### සජිත් - අනුර විවාදය ජුනි 06දා
+### Sajith - Anura policyholder on June 6
 
 *2024-05-20 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්---අනුර-විවාදය-ජුනි-06දා/11-409747) · `si`
 
+Nationalist leader Sajith Premadas agreed to a debate with nationalist leader Anura Kumara Dissanayake, prepared by Nalin de Silva, executive member of the same movement. This suggests a potential debate could occur on June 6th between the leaders.
+
+🟩
+
 සමගි ජනබලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා සමග විවාදයට  ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සූදානම් බව එම බලවේගයේ විධායක සභික නලින්ද ජයතිස්ස මහතා පවසයි. ඒ අනුව ජූනි 6 වෙනිදා නායකයන් අතර විවාදය පැවැත්විය හැකි බව නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
 
-සැප්තැම්බර් 17 සහ ඔක්තෝබර් 16 අතර දිනයක දී ජනාධිපතිවරණය පැවැත්වීමට මැතිවරණ කොමිසම නිවේදනය කර ඇති පසුබිමක ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයන් දෙදෙනෙකු අතර ආර්ථිකය පිළිබඳව විවාදයක් පැවැත්වීම සුදුසු බව ද ජයතිස්ස මහතා සඳහන් කළේය. සමගි ජනබලවේගය විසින් ජාතික ජනබලවේගය වෙත ලිපියක් යොමු කරමින් විවාදය සඳහා දින ලබාදී ඇත.
+Mr. Jayatissa stated that it is appropriate to hold a debate on the economy between two candidates contesting the presidential election at a time when the election commission has been held between September 17 and October 16.. The reconciliation is given a letter to the national popularity and has been given the debate on the debate.
 
 ◼️
 
 [Data](articles/7e243936.json)
+
+[Extended Data](ext_articles/7e243936.ext.json)
 
 ---
 
@@ -182,19 +302,27 @@ In his opening remarks, President Wickremesinghe extended his gratitude to the P
 
 ---
 
-### පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් පුහුණුවට බදවා ගැනේ
+### Famral service trainees recruited
 
 *2024-05-20 19:23:46* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-සෞඛය-සේවා-අභ්‍යාසලාභීන්-දහසක්-පුහුණුවට-බදවා-ගැනේ/11-409746) · `si`
 
-මෙරට මාතෘ හා ළමා සෞඛ්‍ය සේවා ශක්තිමත් කිරීමේ අරමුණින් පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් (1000) පුහුණුවට බදවා  ගැනීමේ  පත්වීම් ලිපි ප්‍රධානෝත්සවය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් සෞඛ්‍ය රාජ්‍ය අමාත්‍ය විශේෂඥ වෛද්‍ය සීතා අරඹෙීපොල, දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි, යන මහත්ම මහත්මීන්ගේ සහභාගීත්වයෙන් හෙට දින (21) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්වීමට නියමිතය.
+Dr. Ramesh Pathirana, State Minister of Health and Industry, recruits family service trainees to enhance maternal and child health services in Sri Lanka. From 2836 applicants, 1350 Family Health Officers are selected for training across various institutions including District General Hospital, Mahamodara Hospital, and others. This initiative aims to improve healthcare services in the country.
 
-2015 / 2016 / 2917 යන වර්ෂවල උසස්පෙළ  ඔනෑම විෂය ධාරාවකින්  එක් වරකදී විෂයන් 03 සමත් අයදුම්කාරිනියන්ගෙන් අයදුම්පත් කැදවන ලද අතර ඒ සදහා සුදුසුකම් සම්පූර්ණ කරන ලද අයදුම්කාරිනියන් 2836 ක් පුහුණුව සදහා තෝරා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කරන ලදී.
+🟩
 
-කණ්ඩායම් දෙකක් වශයෙන් එම පිරිස පුහුණුවට බදවා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය  කටයුතු කල අතර පළමු කණ්ඩායම පුහුණු පාසල්වල පුහුණුව අවසන් කර ප්‍රතිඵල නිකුත් කිරීමට නියමිතව ඇත.
+State Minister of Health and Industry to train Dr. Ramesh Pathirana, State Minister of Health and Industry to enromove the maternal and child health services in Sri Lanka.The participation of Mrs. The 21st morning at Temple Trees.
+
+Applications were summoned from applicants who were able to pass 2836 applications for the training of 2836 applicants who were eligible for the estimates of 2015/2917.
+
+The Ministry of Health acquires the training of the group as two teams and the first group is due to be completed and released.
+
+The second group is the team, which was launched by the Grays of the Ministry of Training and Research and Research.District General Hospital, Mahamodara Hospital, Kurunegala Provincial Health Training Center, Anuradhapura Provincial Health Training Center, Anuradhapura Provincial Health Training Center, Ministry of Health has arranged for training centers in Batticaloa.
 
 ...
 
 [Data](articles/2735dfba.json)
+
+[Extended Data](ext_articles/2735dfba.ext.json)
 
 ---
 
@@ -2147,151 +2275,5 @@ Elon Mask, a billionaire chairman of Tesla and SpaceX, and the owner of the X -s
 [Data](articles/338456e1.json)
 
 [Extended Data](ext_articles/338456e1.ext.json)
-
----
-
-### A revelation of Iran's interim presidential
-
-*2024-05-20 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196812) · `si`
-
-Iran's President Ebrahim Raisi died in a helicopter crash near mountains yesterday.
-
-🟩
-
-Iran's President of Irabrahi was a helicopter accident in the country yesterday (19) was killed in a mountainous area.
-
-◼️
-
-[Data](articles/ce61691c.json)
-
-[Extended Data](ext_articles/ce61691c.ext.json)
-
----
-
-### Warning issued by the Disaster Management Division!
-
-*2024-05-20 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184009) · `ta`
-
-Sweltering Southwest monsoon rains are affecting Sri Lanka, causing strong winds and lightning. The Deputy Director urges caution and provides the emergency hotline 117 for assistance.
-
-🟩
-
-Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the Southwest monsoon rains are gradually impairing the country.
-
-The sky is cloudy in most parts of the country. In many parts of the country, from time to time, 30 to 40 kilometers can blow some strong winds.
-
-The public is asked to take adequate precautions to reduce the impact of temporary blowing winds and lightning. He asked for an emergency telephone number 117 to contact the Disaster Management Section.
-
-◼️
-
-[Data](articles/fb5c7d26.json)
-
-[Extended Data](ext_articles/fb5c7d26.ext.json)
-
----
-
-### Recommend new dates for debate
-
-*2024-05-20 11:13:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாதத்திற்கான-புதிய-திகதிகள்-பரிந்துரை/175-337561) · `ta`
-
-Sajith Premadasa and Anuragumara Dissanayake suggest debating dates: June 3-7 for leaders, May 27-31 for economists.
-
-🟩
-
-United People's Power Leader Sajith Premadasa and NPP leader Anuragumara Dissanayake have recommended a new date for the debate between the party's economists with the party's economists (SJB) Nalin Bandara Jayamaha, a member of the National People's Power (NPP) Executive Committee, Dr. Nalinda Jayatissa.
-
-Accordingly, the debate between the two leaders can be held on June 3, 4, 5, 6 or 7 and the debate between economists will be held on May 27, 28, 29, 30 or 31.
-
-◼️
-
-[Data](articles/2147bd30.json)
-
-[Extended Data](ext_articles/2147bd30.ext.json)
-
----
-
-### North polar countries are reluctant to finance the waters - President at the Water Summit
-
-*2024-05-20 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184016) · `ta`
-
-At the 10th World Water Summit, President Wickremesinghe highlighted Sri Lanka's proposal for a 10% tax on global profits to combat tax evasion worth $1.4 trillion annually. He also discussed financing efforts for North and Polar nations amidst concerns over funding for Ukraine's recovery.
-
-🟩
-
-President Ranil Wickremesinghe pointed out at the top session of the 10th World Water Summit, which is ready to finance the global North and Polar Nations, which are ready to fund the devastation in Ukraine.
-
-Speaking at the top session of the 10th World Water Summit, President Ranil Wickremesinghe said that Sri Lanka is proposing a 10 per cent tax on the profits, as the annual profit of global tax evasion is estimated at US $ 1.4 trillion.
-
-◼️
-
-[Data](articles/02aefefb.json)
-
-[Extended Data](ext_articles/02aefefb.ext.json)
-
----
-
-### World Bank to conduct energy transition discussion in Sri Lanka
-
-*2024-05-20 11:09:00* · [`economynextcom`](https://economynext.com/world-bank-to-conduct-energy-transition-discussion-in-sri-lanka-163723/) · `en`
-
-ECONOMYNEXT – The World Bank will conduct a Roundtable on Advancing Energy Transition in Colombo next week, which will focus on attracting investments into the energy sector, Sri Lanka’s Power and Energy Minister Kanchana Wijesekera said.
-
-“The program will focus on attracting investments in the renewable energy sector, accelerating energy transition, green hydrogen programs & scaling up private investments,” Wijesekera said on social media platform X (twitter).
-
-“Energy & Financial experts from development agencies, industry stakeholders & officials from the line ministries will be participating at the event.”
-
-The preliminary discussion on the event was held with the World Bank team at the Ministry of Power and Energy, the minister said.
-
-A forex crisis two years ago saw the island nation face fuel shortages and power cuts in the face of a lack of renewable energy sources.
-
-...
-
-[Data](articles/bfeb0d47.json)
-
-[Extended Data](ext_articles/bfeb0d47.ext.json)
-
----
-
-### Elon Musk to visit Sri Lanka this year to launch Starlink
-
-*2024-05-20 11:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elon-Musk-to-visit-Sri-Lanka-this-year-to-launch-Starlink/108-282959) · `en`
-
-Colombo, May 20 (Daily Mirror)-  Elon Musk has accepted an invitation by President Ranil Wickremesinghe to visit Sri Lanka this year to launch his Starlink satellite internet service, the Daily Mirror learns.
-
-President Wickremesinghe, accompanied by his advisor on climate affairs Ruwan Wijewardene, met Elon in Bali, Indonesia yesterday and discussed a host of topics including renewable energy, Artificial Intelligence (AI) and world politics.
-
-However, the exact dates of Elon's visit to Sri Lanka have not yet been fixed and the Sri Lankan government will be in touch with Elon's team to finalize the arrangements.
-
-“It all depends on how Sri Lanka expedites the approval process and as soon as it is done, Elon will arrive in Sri Lanka to launch Starlink. Tentatively it was discussed that he will arrive in Sri Lanka at the end of the year," the source said.
-
-...
-
-[Data](articles/94f68664.json)
-
-[Extended Data](ext_articles/94f68664.ext.json)
-
----
-
-### 10,299 people affected by rain and drought
-
-*2024-05-20 11:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-மற்றும்-வறட்சியால்-10-299-பேர்-பாதிப்பு/175-337558) · `ta`
-
-Heavy rains and droughts affect 10,299 individuals across Sri Lanka, causing injuries and partial house damage.
-
-🟩
-
-Deputy Director of the Disaster Management Center Dusitha Vaidyarathne said that 10,299 people from 3,518 families were affected and two were injured due to the prevailing climate.
-
-He said that two people who were injured in the heavy rains and trees in the East Nuwarakambalatha area of the Anuradhapura district have been reported.
-
-He said that three houses were partially damaged due to the fall of trees in Nivitigala, Kodagawela and Balangoda in the Ratnapura district.
-
-Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Kilinochchi have been affected by the drought.
-
-◼️
-
-[Data](articles/5bb04fda.json)
-
-[Extended Data](ext_articles/5bb04fda.ext.json)
 
 ---

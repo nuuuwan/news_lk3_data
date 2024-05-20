@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 02:03:51**
+As of **2024-05-21 02:18:36**
 
 ## Newspaper Stats
 
-*Scraped **25,292** Articles*
+*Scraped **25,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,101 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,366
 economynextcom | 1,452
-dailyftlk | 1,486
+dailyftlk | 1,490
 adalk | 2,169
 adaderanalk | 2,925
 tamilmirrorlk | 2,955
 virakesarilk | 3,822
-dailymirrorlk | 3,972
+dailymirrorlk | 3,973
 adaderanasinhalalk | 4,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,288 (100.0%) of 25,292 articles have been extended.
+25,292 (100.0%) of 25,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### ICC prosecutor seeks arrest of Israeli PM Netanyahu and Hamas leader
+
+*2024-05-21 02:03:09* · [`dailyftlk`](https://www.ft.lk/news/ICC-prosecutor-seeks-arrest-of-Israeli-PM-Netanyahu-and-Hamas-leader/56-762037) · `en`
+
+Benjamin Netanyahu (left) and Hamas’s leader in Gaza Yahya Sinwar
+
+The chief prosecutor of the International Criminal Court (ICC) has applied for arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Hamas’s leader in Gaza, Yahya Sinwar, for war crimes.
+
+Karim Khan KC said there were reasonable grounds to believe that both men bore criminal responsibility for war crimes and crimes against humanity from the day of Hamas’s attack on Israel on 7 October onwards.
+
+Israeli defence minister Yoav Gallant and Hamas’s political leader Ismail Haniyeh, along with the group’s military chief Mohammed Deif, are also wanted for arrest.
+
+ICC judges will now decide whether they believe the evidence is sufficient to issue arrest warrants - something which could take weeks or months.
+
+Netanyahu said in a statement that he rejected “with disgust The Hague prosecutor’s comparison between democratic Israel and the mass murderers of Hamas”.
+
+...
+
+[Data](articles/a2ef5221.json)
+
+---
+
+### Iran declares five days of mourning over demise of President Raisi
+
+*2024-05-21 02:01:24* · [`dailyftlk`](https://www.ft.lk/news/Iran-declares-five-days-of-mourning-over-demise-of-President-Raisi/56-762036) · `en`
+
+BBC: Iran’s Supreme Leader Ayatollah Ali Khamenei yesterday announced five days of mourning following the death of the country’s President, Ebrahim Raisi.
+
+Raisi was killed in a helicopter crash in a mountainous area of north-western Iran, along with Foreign Minister Hossein Amir-Abdollahian.
+
+State media confirmed yesterday they were killed after the helicopter they were travelling in came down on Sunday.
+
+Ayatollah Khamenei said he offered his condolences “to the dear people of Iran”.
+
+Raisi, 63, had been tipped as a potential successor to the supreme leader.
+
+Vice-President Mohammad Mokhber has been appointed to assume interim duties after the death of the President.
+
+Mokhber will work with the heads of Iran’s legislature and judiciary to prepare for a Presidential election within 50 days – a period of time set out in Iran’s constitution for replacing a president who dies in office.
+
+Iran’s cabinet has also appointed Deputy Foreign Minister Ali Bagheri Kani as acting foreign minister.
+
+...
+
+[Data](articles/87302d13.json)
+
+---
+
+### Mediwave earns global recognition at GLOMO Awards 2024 for Emergency Response HealthTech
+
+*2024-05-21 01:59:12* · [`dailyftlk`](https://www.ft.lk/news/Mediwave-earns-global-recognition-at-GLOMO-Awards-2024-for-Emergency-Response-HealthTech/56-762035) · `en`
+
+Mediwave, a leading-edge HealthTech company, was recognised as a finalist at the prestigious Global Mobile Awards (GLOMO), part of the Mobile World Congress (MWC) powered by GSMA in Barcelona, Spain. This acknowledgment underscores Mediwave’s exceptional contributions to the field, particularly its innovative and integrated use of AI, Internet of Medical Things (IoMT), and Mixed Reality technologies.
+
+Mediwave has transformed Sri Lanka’s national-level free pre-hospital emergency care ambulance service, 1990 Suwa Seriya, with its end-to-end Emergency Response Suite. This solution, recently featured as the world’s first of its kind, digitises and augments the service delivery with AI, AR, and mixed reality capabilities. This achievement is a significant milestone for Mediwave as it expands its global reach with a suite of life enhancing HealthTech solutions, including Emergency Response, Digital Healthcare Enablement, and AI Smart Health portfolio.
+
+...
+
+[Data](articles/0415e32d.json)
+
+---
+
+### Shehan stresses importance of “Economic Transformation Bill” and “Public Financial Management Bill”
+
+*2024-05-21 01:56:19* · [`dailyftlk`](https://www.ft.lk/news/Shehan-stresses-importance-of-Economic-Transformation-Bill-and-Public-Financial-Management-Bill/56-762034) · `en`
+
+Acting Finance Minister Shehan Semasinghe yesterday announced plans to introduce two significant bills to Parliament today (22 May) aimed at bolstering the country’s economy.
+
+These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns.
+
+Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre, themed “Collective path to a stable country”.
+
+...
+
+[Data](articles/91c56fdd.json)
+
+---
 
 ### Strengthening banking system boosts SME promotion: Semasinghe
 
@@ -50,6 +128,8 @@ Speaking at the Development Lottery Board’s sales comparison program at the An
 
 [Data](articles/8b752666.json)
 
+[Extended Data](ext_articles/8b752666.ext.json)
+
 ---
 
 ### Sri Lanka’s first leadership and innovation program for creative debuts
@@ -65,6 +145,28 @@ USAID Sri Lanka and Maldives Director,Office of Governance and Vulnerable Popula
 ...
 
 [Data](articles/bae88abc.json)
+
+[Extended Data](ext_articles/bae88abc.ext.json)
+
+---
+
+### Social media comes to the fore in Indian elections
+
+*2024-05-21 01:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Social-media-comes-to-the-fore-in-Indian-elections/172-282992) · `en`
+
+Chiefly YouTube, has emerged as the main mode of political communication overshadowing the traditional or “mainstream” electronic media
+
+The 2024 Indian parliamentary elections will be remembered for many reasons. They are the longest to date, stretching from April 19 to June 1.
+
+They are taking place in the midst of acute unemployment, skyrocketing prices and lack of demand in the market.
+
+An unprecedented amount of money is being spent amidst corruption charges.  Divisive issues of caste, religion and region are being racked up. Sex scandals are sullying the reputations of some of the high and mighty.
+
+But in the midst of the darkness, there is a silver lining. Social media platforms, chiefly YouTube, have emerged as the main mode of political communication, overshadowing the traditional or “mainstream” electronic media.
+
+...
+
+[Data](articles/af4bd2cb.json)
 
 ---
 
@@ -82,6 +184,8 @@ Accordingly, the Election Commission (EC) on May 9 announced that the Presidenti
 
 [Data](articles/6ab4b8ad.json)
 
+[Extended Data](ext_articles/6ab4b8ad.ext.json)
+
 ---
 
 ### Raigam Solar’s Sunflower powers Polonnaruwa DTH Tyre Manufacturers’ sustainable growth
@@ -97,6 +201,8 @@ With Sunflower Energy as their trusted system provider, DTH is taking the first 
 ...
 
 [Data](articles/ce26e249.json)
+
+[Extended Data](ext_articles/ce26e249.ext.json)
 
 ---
 
@@ -2141,117 +2247,5 @@ The two countries had signed five pacts during the visit, only the second since 
 [Data](articles/872bb3c0.json)
 
 [Extended Data](ext_articles/872bb3c0.ext.json)
-
----
-
-### 2000 Thalassemia
-
-*2024-05-20 14:11:42* · [`adalk`](https://www.ada.lk/breaking_news/තැලසිමියා-ළමුන්-2000ක්/11-409740) · `si`
-
-Dr. Palitha Mahipala, the Secretary to the Ministry of Health, highlighted the importance of the National Thalassemia Council and its efforts to improve Thalassemia treatment and awareness in Sri Lanka. The council, established in 2010, aims to enhance care for the approximately 2000 affected children through initiatives like counseling, informative sessions, and expanding treatment options. A significant focus is on increasing the capacity for bone marrow transplants, aiming to perform 40 procedures annually across various locations. The International Thalassemia Day, celebrated annually on May 8th, emphasizes the accessibility of treatment for all, aligning with the council's mission.
-
-🟩
-
-Dr. Palitha Mahipala, Secretary to the Ministry of Health employs the promptity of the National Thalassemia under a new director.
-
-He was emphasized the national ceremony organized by the International Thalassemia Day. The National Commemoration ceremony was organized by the Lanka Thalassemia Siddhase Vidyalaya, which was held at the Kurunegala Bluesky Hotel.
-
-Thalassemia treatments for treatment and other activities have been allocated annually, but a certain program has not yet been prepared yet.. Therefore, the new business such as the Malaria Control movement in the future, other activities such as Thalassemia treatments, counseling, informed of Thalassemia, and informatives.
-
-In 2010, the National Thalassemia Council was established in 2010, but it would continue to strengthen the Sri Lankan Thalassemia treatment and care physicians, bloodsh, bloodsh,The Secretary also requested the doctors, as before he was.
-
-...
-
-[Data](articles/2a2f3cc4.json)
-
-[Extended Data](ext_articles/2a2f3cc4.ext.json)
-
----
-
-### Businessman arrested for assaulting Iranian Ambassador, further remanded
-
-*2024-05-20 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Businessman-arrested-for-assaulting-Iranian-Ambassador-further-remanded/108-282966) · `en`
-
-Colombo, May 20 (Daily Mirror) - The businessman from Colombo 7 who was arrested and remanded over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park, has been further remanded till May 22.
-
-The suspect, Buwaneka Mahasen Basnayake, a resident of Ward Place, Colombo 07 was arested on Saturday after he allegedly assaulted the Ambassador and attempted to escape following an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
-
-The suspect was remanded till Wednesday (22) after being produced before the Fort Magistrate's Court.
-
-◼️
-
-[Data](articles/58c67116.json)
-
-[Extended Data](ext_articles/58c67116.ext.json)
-
----
-
-### SI Kasippu Pera arrested in Kotarakkulama
-
-*2024-05-20 13:59:27* · [`adalk`](https://www.ada.lk/breaking_news/කවරක්කුලම-පොලිසියේ-එස්අයි-කසිප්පු-‌පෙරා-අත්අඩංගුවට/11-409739) · `si`
-
-A 59-year-old SI Kasippu Pera was arrested in Kotarakkulama for possessing 14,250 liters of illegal liquor. The police discovered this during an investigation into illicit alcohol sales. Further searches revealed additional contraband, including a black barrel and a gas nozzle. The sub-inspector, from Mihintale, was scheduled to appear in court.
-
-🟩
-
-The Thiction Police say that a sub-inspector is attarically attached to the Police Station, 14250 illegal liquor, with a consignment of the illegal liquor.
-
-The 59-year-old sub-inspector, 59, a resident of the Mihintale address, Nochathkulam, Ihalagama, Ihalagama, Mihintale address.
-
-According to information received regarding illegal liquor, the sub-inspector was investigated 14250 ml of illegal alcohol, about four million illegal alcohol.
-
-Further further investigation, another three-round barrel, a black barrel, and a gas noon were found in the possession of the officer in the possession of the rubber bandsPolice said.
-
-The arrested sub-inspector was to be produced in court.
-
-Thippane Police OIC Chief Inspector of Police Tilina Hewapathirana on the instructions of Lasiri Wijesena.. M. S. The raid was raided by Kumarasinghe and other officials.
-
-◼️
-
-[Data](articles/7ce223c0.json)
-
-[Extended Data](ext_articles/7ce223c0.ext.json)
-
----
-
-### Will stop MPs’ moves to obtain vehicle permits: Anura Kumara
-
-*2024-05-20 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-stop-MPs-moves-to-obtain-vehicle-permits-Anura-Kumara/108-282965) · `en`
-
-Colombo, May 20 (Daily Mirror)- Claiming that 82 MPs have requested vehicle permits, NPP leader Anura Kumara Dissanayake said they would take possible steps to stop the move.
-
-He said adressing the pensioners national convention at the National Youth Centre in Maharagama yesterday that the National People's Power (NPP) will not obtain the vehicle permits.
-
-He said they will request the Speaker to reveal the list of MPs who have requested for vehicle permits when vehicle permits have been suspended for the whole country.
-
-"We are a group that expects a better life and good governance for the people. We must reveal the difference between the truth and falsehood," he said.
-
-◼️
-
-[Data](articles/cd792799.json)
-
-[Extended Data](ext_articles/cd792799.ext.json)
-
----
-
-### World Bank help to restructure US$800mn debt in Sri Lanka water sector
-
-*2024-05-20 13:51:00* · [`economynextcom`](https://economynext.com/world-bank-help-to-restructure-us800mn-debt-in-sri-lanka-water-sector-163772/) · `en`
-
-ECONOMYNEXT – The World Bank will help Sri Lanka restructure the 800 million dollar debt in its water sector, Minister of Water Supply Jeevan Thondaman has said.
-
-“With the World Bank’s help, Sri Lanka will restructure its $800 million of debt in the water sector, have access to credit enhancement schemes that will make new water projects transparent and affordable and put us on a secured path to achieve SDG6,” Thondaman said on social media platform X (twitter).
-
-The minister met with the Global Director for Water for the World Bank Saroj Jha in Bali at the 10th World Water Forum.
-
-“Since our first meeting in December, Saroj has come forward to provide the full support of the World Bank for the ambitious reforms we are doing in Sri Lanka’s water sector.
-
-“I look forward to working with World Bank Water and deepening our partnership.”
-
-...
-
-[Data](articles/26e13de3.json)
-
-[Extended Data](ext_articles/26e13de3.ext.json)
 
 ---

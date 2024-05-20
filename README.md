@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 16:50:41**
+As of **2024-05-20 17:03:43**
 
 ## Newspaper Stats
 
-*Scraped **25,215** Articles*
+*Scraped **25,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 2,919
 tamilmirrorlk | 2,948
 virakesarilk | 3,807
 dailymirrorlk | 3,959
-adaderanasinhalalk | 4,031
+adaderanasinhalalk | 4,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,209 (100.0%) of 25,215 articles have been extended.
+25,215 (100.0%) of 25,216 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ They are facing charges related to the import of substandard human immunoglobuli
 
 [Data](articles/c30ae02c.json)
 
+[Extended Data](ext_articles/c30ae02c.ext.json)
+
 ---
 
 ### CID names Diana Gamage as suspect in passport case
@@ -60,21 +62,43 @@ The CID has also reported the facts to Colombo Chief Magistrate alleging that th
 
 [Data](articles/9d82a3d8.json)
 
+[Extended Data](ext_articles/9d82a3d8.ext.json)
+
 ---
 
-### ඩයනා නිවසෙන් අතුරුදන්
+### Diana's missing from home
 
 *2024-05-20 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196827) · `si`
 
-විදේශ ගමන් බලපත්‍ර සිද්ධියට හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සැකකාරියක ලෙස නම්කර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට වාර්තාවක් ඉදිරිපත් කර තිබේ.
+Diana Gamage, ex-State Minister, is now a suspect after being reported missing from her home. The Colombo Chief Magistrate's Court has directed the CID to take necessary actions.
 
-ඒ අනුව සුදුසු ක්‍රියාමාර්ග ගෙන වාර්තා කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයෙන් නියෝග කර ඇති බව අප අධිකරණ වාර්තාකරු සඳහන් කළේය.
+🟩
 
-සැකාරිය ඇය පදිංචිව සිටි නිවසින් අතුරුදන්ව ඇතැයි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතාට කරුණු වාර්තාකර තිබේ.
+Former State Minister Diana Gamage, former State Minister Diana Gamage, was named a suspect, a report was submitted to the Colombo Chief Magistrate's Court.
+
+Accordingly, the Colombo Chief Magistrate's Court has ordered the Court of Colombo to report appropriate action and report.
+
+The Criminal Investigation Department (CID) has reportedly reported missing from her residential home.
 
 ◼️
 
 [Data](articles/c7796bd9.json)
+
+[Extended Data](ext_articles/c7796bd9.ext.json)
+
+---
+
+### කෙහෙළිය නැවතත් රිමාන්ඩ්
+
+*2024-05-20 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196826) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 8 දෙනෙක් ජුනි මස 03 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබේ.
+
+ඒ ප්‍රශ්නගත ඉමියුනෝග්ලොබියුලීන් ඖෂධ සිද්ධිය සම්බන්ධයෙන් එම සැකකරුවන් අද (20) මාළිගාකන්ද අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී ය.
+
+◼️
+
+[Data](articles/0c17a12f.json)
 
 ---
 
@@ -114,6 +138,8 @@ The Colombo District Court has issued an interim order preventing Justice Minist
 
 [Data](articles/8e63e21c.json)
 
+[Extended Data](ext_articles/8e63e21c.ext.json)
+
 ---
 
 ### Police Sub Inspector arrested with illicit liquor, distilling gear
@@ -136,21 +162,29 @@ OIC Thirappane Police CI R.M.S.Kumarasinghe is conducting further investigations
 
 ---
 
-### කෝටි හතක හෙරොයින් ‍ ගෙනා කාන්තාවක් කටුනායක දී අත්අඩංගුවට
+### Woman arrested for heroin in Katunayake
 
 *2024-05-20 15:56:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතක-හෙරොයින්-‍-ගෙනා-කාන්තාවක්-කටුනායක-දී-අත්අඩංගුවට/11-409741) · `si`
 
-රුපියල් හත් කෝටි තිස් පන් ලක්ෂයක් වටිනා හෙරොයින් තොගයක් සිය ගමන් මල්ලේ ව්‍යාජ පතුලක සගවා ගෙන පැමිණි විදේශීය කාන්තාවක් අද(20) දින උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .
+A 57-year-old Pakistani woman was arrested at Katunayake airport for attempting to smuggle a significant amount of heroin. She was caught after her flight landed, and the heroin was found concealed in her luggage. Further investigations are ongoing.
 
-ඇය 57 හැවිරිදි පාකිස්තානු ජාතික කාන්තාවක් වන අතර ඇය ශ්‍රී ලංකාවේ සංචාරය සදහා පැමිණෙන බව හගවමින් මෙම හෙරොයින් මත්ද්‍රව්‍ය තොගය ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් දරා තිබේ .
+🟩
 
-ඇය අද(20) දින උදෑසන 09.45 ට අබුඩාබි නුවර සිට ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි. - 392 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+A large number of heroin who had taken a large number of heroin worth Rs.
 
-ඇය විසින් රැගෙන ආ ගමන් මල්ලේ ව්‍යාජ පතුලක වෙනම ඇසුරුමක් ලෙස මෙම හෙරොයින් තොගය සකස් කර සගවා ගෙන තිබූ අතර එහි කිලෝ ග්‍රෑම් 02 යි ග්‍රෑම් 450 ක් බරැති හෙරොයින් මත්ද්‍රව්‍ය තොගයක් තිබූ බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ ප්‍රකාශකවරයෙකු පැවසීය .
+She is a 57 year old Pakistani woman and has been trying to leave the heroin from leaving the airport.
 
-...
+She is from Abu Dhad from Abu Dhadi today (20) at 09.45 am today. The flight of 392 had arrived at the Katunayake airport.
+
+A spokesperson of the Customs Drug Administration (RA) said that the heroin had a large cash in a boast of the bag.
+
+The Pakistanite woman and heroin he brought to the investigation into further investigations have been handed over to the officers of the Police Narcotics Unit of Katunayake airport.
+
+◼️
 
 [Data](articles/d941555b.json)
+
+[Extended Data](ext_articles/d941555b.ext.json)
 
 ---
 
@@ -195,6 +229,8 @@ Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar 
 ...
 
 [Data](articles/7ac99584.json)
+
+[Extended Data](ext_articles/7ac99584.ext.json)
 
 ---
 
@@ -2255,27 +2291,5 @@ Kolivand said the “the situation is not good,” according to Iranian state ne
 [Data](articles/d76cca5e.json)
 
 [Extended Data](ext_articles/d76cca5e.ext.json)
-
----
-
-### President meets Indonesia’s Coordinating Minister for Maritime Affairs and Investment
-
-*2024-05-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99325/president-meets-indonesias-coordinating-minister-for-maritime-affairs-and-investment) · `en`
-
-During his official visit to Indonesia, President Ranil Wickremesinghe met with Luhut Binsar Pandjaitan Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia.
-
-The meeting took place on Sunday (19) at the United In Diversity Bali Campus (UIDBC) on Kura Kura Bali Island, the PMD said.
-
-The discussion covered key topics such as the Global Blended Finance Alliance, Sri Lanka’s Tropical Belt Initiative, the Blue Economy and the Seaweed Industry.
-
-Emphasis was placed on enhancing cooperation among Global South countries and establishing a collaborative research program on mangrove cultivation, the President’s Media Division reported.
-
-Both parties agreed on the need to establish a bilateral task force to coordinate these initiatives, considering Sri Lanka’s current role as the chair of the Indian Ocean Rim Association (IORA).
-
-...
-
-[Data](articles/851a02dc.json)
-
-[Extended Data](ext_articles/851a02dc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 08:52:40**
+As of **2024-05-20 09:03:28**
 
 ## Newspaper Stats
 
-*Scraped **25,101** Articles*
+*Scraped **25,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,361
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,145
-adaderanalk | 2,901
+adalk | 2,147
+adaderanalk | 2,903
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
 dailymirrorlk | 3,939
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,092 (100.0%) of 25,101 articles have been extended.
+25,092 (99.9%) of 25,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6306bbb0.json)
+
+---
+
+### Search teams locate crash site of helicopter carrying Iranian President Raisi
+
+*2024-05-20 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99326/search-teams-locate-crash-site-of-helicopter-carrying-iranian-president-raisi) · `en`
+
+(CNN) — Rescuers have reached the crash site of the helicopter carrying President Ebrahim Raisi, Iran’s semi-official Tasnim news agency.
+
+The agency did not say the condition of those who were on board the helicopter.
+
+At least 73 rescue teams are in the area of the helicopter crash near the village of Tavil in Iran’s East Azerbaijan province, according to Pir-Hossein Kolivand, head of the Iranian Red Crescent, Tasnim reported.
+
+Kolivand said the “the situation is not good,” according to Iranian state news IRNA.
+
+“Red Crescent search and rescue teams have reached the crash site of the helicopter carrying the president,” the Iranian Red Crescent says in a statement.
+
+◼️
+
+[Data](articles/d76cca5e.json)
+
+---
+
+### President meets Indonesia’s Coordinating Minister for Maritime Affairs and Investment
+
+*2024-05-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99325/president-meets-indonesias-coordinating-minister-for-maritime-affairs-and-investment) · `en`
+
+During his official visit to Indonesia, President Ranil Wickremesinghe met with Luhut Binsar Pandjaitan Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia.
+
+The meeting took place on Sunday (19) at the United In Diversity Bali Campus (UIDBC) on Kura Kura Bali Island, the PMD said.
+
+The discussion covered key topics such as the Global Blended Finance Alliance, Sri Lanka’s Tropical Belt Initiative, the Blue Economy and the Seaweed Industry.
+
+Emphasis was placed on enhancing cooperation among Global South countries and establishing a collaborative research program on mangrove cultivation, the President’s Media Division reported.
+
+Both parties agreed on the need to establish a bilateral task force to coordinate these initiatives, considering Sri Lanka’s current role as the chair of the Indian Ocean Rim Association (IORA).
+
+...
+
+[Data](articles/851a02dc.json)
+
+---
+
+### ඉරාන ජනපති ගමන් ගත් හෙලිකොප්ටර් යානයේ සුන්බුන් හමුවෙයි
+
+*2024-05-20 08:09:30* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ගමන්-ගත්-හෙලිකොප්ටර්-යානයේ-සුන්බුන්-හමුවෙයි/11-409728) · `si`
+
+ඉරාන ජනපතිවරයා ගමන් කරමින් සිටියදි අනතුරට පත්වූ හෙලිකොප්ටර් යානයේ සුන්බුන් සොයා ගැනිමට ගලවා ගැනිමේ කණ්ඩායම් සමත්ව ඇති බව ඉරාන මාධ්‍ය වාර්තා කරයි.
+
+කෙසේ වෙතත් තවමත් ඉරාන ජනපතිවරයා සම්බන්ධයෙන් තොරතුරු වාර්තා නොවෙයි. තුර්කියෙන් ලබාදුන් ඩ්‍රෝන යානයක් මෙම සුන්බුන් සොයා ගැනිමට සමත්ව තිබේ.
+
+අධික මිදුම හා අයහපත් කාලගුණය සෝදිසි මෙහෙයුම්වලට බලපෑම් එල්ල කර තිබේ.
+
+◼️
+
+[Data](articles/1831a4a3.json)
 
 ---
 
@@ -923,6 +979,18 @@ Asoka Handagama is notorious for challenging our cognitive capacity through his 
 [Data](articles/bb3091b2.json)
 
 [Extended Data](ext_articles/bb3091b2.ext.json)
+
+---
+
+### වැවක් මැද ඉදිවන තොරණ
+
+*2024-05-19 22:57:40* · [`adalk`](https://www.ada.lk/religion/වැවක්-මැද-ඉදිවන-තොරණ/4-409727) · `si`
+
+මාතර. අකුරැස්ස, මාරඹ වැව මැදද තොරණක් ඉදිවෙමින් පවති. මෙම තොරණ ලබන 23 දා සිට ජුනි 01 දා තෙක් ප්‍රදර්ශනය කිරිමට නියමිතව තිබේ.තොරණින් කට්ඨහාරි ජාතකය පිළිඹිබු වෙයි.
+
+◼️
+
+[Data](articles/2f69a82c.json)
 
 ---
 
@@ -2047,87 +2115,5 @@ Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayaga
 [Data](articles/efd33689.json)
 
 [Extended Data](ext_articles/efd33689.ext.json)
-
----
-
-### Will Mullivaikkal Memorial Open many spaces?
-
-*2024-05-19 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/183961) · `ta`
-
-The Will Mullivaikkal Memorial event is peaceful in the North, with no legal issues. However, confusion surrounds its Eastern counterpart due to police concerns.
-
-🟩
-
-There is no chaos in the Northern Province during the porridge delivery event. Northern Provincial Courts have not issued any injunction. But in the Eastern Province, the police were concerned about the confusion of the event.
-
-◼️
-
-[Data](articles/e2ef3f51.json)
-
-[Extended Data](ext_articles/e2ef3f51.ext.json)
-
----
-
-### SJB sets dates for debate with NPP on Sri Lanka’s economy
-
-*2024-05-19 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99316/sjb-sets-dates-for-debate-with-npp-on-sri-lankas-economy-) · `en`
-
-The Samagi Jana Balawegaya (SJB) has suggested dates for holding the proposed debate on economic policies with the National Peoples’ Power (NPP).
-
-Accordingly, the SJB has informed the NPP in writing that the debate between the economic committees of both parties can be held on one of the dates between May 27 to 31 and the debate between the two leaders of both parties on June 03, 04, 05, 06 or 07.
-
-The letter has also requested for an immediate response from the NPP in this regard.
-
-◼️
-
-[Data](articles/1b682a2c.json)
-
-[Extended Data](ext_articles/1b682a2c.ext.json)
-
----
-
-### Indonesian minister meets president
-
-*2024-05-19 17:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-இந்தோனேசிய-அமைச்சர்-சந்திப்பு/175-337541) · `ta`
-
-During President Ranil Wickremesinghe's visit to Indonesia, he met with Indonesian officials to discuss Sri Lanka's initiatives in the Global Blended Finance Alliance, focusing on the blue economy, seaweed industry, and mangrove cultivation. They also explored cooperation between South Prabhu countries and established a bilateral task committee. Issues related to the Hindu Ocean Border (IRA) leadership and Sri Lanka's role were addressed, with representatives from both nations present.
-
-🟩
-
-President Ranil Wickremesinghe, who is on an official visit to Indonesia, met with the Coordinating Minister of Maritime and Investment Affairs of the Republic of Indonesia, Luhud binzar, the President's media unit said.
-
-In this regard, the countries of the Global Blended Finance Alliance Organization discussed Sri Lanka's initiative, blue economy and seaweed industry.
-
-Similarly, the cooperation of the South Prabhu countries and the research cooperation for the cooperation on mangrove cultivation was also investigated.
-
-Integrated on issues including the establishment of bilateral task committee to coordinate. The current leader of the Hindu Ocean Border (IRA) was also consulted on issues including Sri Lanka's role.
-
-Representing Sri Lanka at the meeting. Senior Additional Secretary Anil Jasinghe and others were present.
-
-...
-
-[Data](articles/dff7e983.json)
-
-[Extended Data](ext_articles/dff7e983.ext.json)
-
----
-
-### Indian Coast Guard arrested Sri Lankan fisherman
-
-*2024-05-19 17:15:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவரைக்-கைது-செய்த-இந்தியக்-கரையோரக்-காவற்படை/175-337540) · `ta`
-
-The Indian Coast Guard detained 14 Sri Lankan fishermen near Point Pedro for crossing international waters and poaching in the Indian navy's territory.
-
-🟩
-
-The Indian Coast Guard has arrested Sri Lankans with a machine for illegally fishing in the Indian Navy.
-
-On Thursday, the Indian coastal police force arrested 14 Sri Lankan fishermen from Point Pedro to cross the international waters and to the sea.
-
-◼️
-
-[Data](articles/854f310b.json)
-
-[Extended Data](ext_articles/854f310b.ext.json)
 
 ---

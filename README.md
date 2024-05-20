@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 09:18:28**
+As of **2024-05-20 09:33:50**
 
 ## Newspaper Stats
 
-*Scraped **25,109** Articles*
+*Scraped **25,112** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 225
-bbccomsinhala | 253
+bbccomsinhala | 254
 dbsjeyarajcom | 257
 newsfirstlk | 363
 islandlk | 1,361
 economynextcom | 1,439
 dailyftlk | 1,480
-adalk | 2,147
+adalk | 2,148
 adaderanalk | 2,904
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
-dailymirrorlk | 3,942
+dailymirrorlk | 3,943
 adaderanasinhalalk | 4,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,105 (100.0%) of 25,109 articles have been extended.
+25,109 (100.0%) of 25,112 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Raisi, 63, was elected president in 2021, and since taking office has ordered a 
 
 [Data](articles/30cf7d36.json)
 
+[Extended Data](ext_articles/30cf7d36.ext.json)
+
 ---
 
 ### Total of 10,299 people affected, two injured due to rain, drought
@@ -67,6 +69,8 @@ Meanwhile, 8,000 people in Jaffna, 1,334 in Trincomalee and 946 in Killinochchi 
 ◼️
 
 [Data](articles/1ebd55bb.json)
+
+[Extended Data](ext_articles/1ebd55bb.ext.json)
 
 ---
 
@@ -89,6 +93,30 @@ Also, motorists are advised to be vigilant when using the roads close to these r
 ◼️
 
 [Data](articles/98e8c1be.json)
+
+[Extended Data](ext_articles/98e8c1be.ext.json)
+
+---
+
+### කෝටි දෙකක බීඩි කොළ තොගයක් සමග ලොරියක් පැහැර ගත් පොලිස් සැරයන්,කොස්තාපල් සමග තුනක් අල්ලයි
+
+*2024-05-20 08:39:50* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙකක-බීඩි-කොළ-තොගයක්-සමග-ලොරියක්-පැහැර-ගත්-පොලිස්-සැරයන්-කොස්තාපල්-සමග-තුනක්-අල්ලයි/11-409729) · `si`
+
+පුත්තලම නගරයෙ දී රුපියල් කෝටි දෙකකට අධික බිඩි කොල තොගයක් සමග ලොරි රථයක් පැහැර ගැනිමේ සිද්ධියකට සම්බන්ධ පොලිස් සැරයන්වරයකු හා කොස්තාපල්වරයකු සමග තවත් තිදෙනෙකු අත්අඩංගුවට ගැනීමට පුත්තලම මුලස්ථාන පොලිසිය 19 දින රාත්‍රියේ සමත් වි තිබේ.
+
+මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ පුත්තලම කොඨඨාශ රථවාහන අංශයෙ පොලිස් සැරයන්වරයකු හා පොලිස් කොස්තාපල්වරයෙක් ඇතුළු පිරිසකි.
+
+මෙම සිද්දියට තවත් පොලිස් නිළධාරීයකු අත් අඩංගුවට ගැනිමට පරික්ෂණ අරඹා තිබේ.
+
+අදාල බිඩි කොල ලොරිය හා රියදුරු පැහැර ගැනිම 18 දින අලුයම් කාලයෙ සිදුව ඇතිබව පොලිස් පරික්ෂන වලදි හෙළිව ඇත.
+
+කොල්ල කරුවන් වෑන් රථයකින් පැමින පලමුව බිඩි කොළ රැගෙන ආ ලොරි රථයෙ රියදුරාව පැහැර ගෙන ගොස් පහර දී ඔහු සතුව තිබු මුදල් හා ජංගම දුරකථන කොල්ලකා  ගෙන රියදුරුව නින්දෙනිය ප්‍රදේශයෙ දමා ගොස් තිබු බව කියයි.
+
+පසුව මෙම කොල්ලකරුවන් වෑන් රථයෙන්ම පුත්තලමට ගොස් කොඨඨාශ රථවාහන අංශ නිළධාරීන් දෙදෙනා සමග නැවත බිඩි කොළ අසුරා තිබු ලොරි රථය අසලට පැමින පොලිස් ආරක්ෂාව යටතේ මෙම ලොරිය පැහැර ගැනිම සිදුකර ඇති බව මේ වන විට තහවුරු වී ඇති බව පරික්ෂණ පවත්වන පොලිස් කණ්ඩායම් පවසයි.
+
+...
+
+[Data](articles/b5b697b4.json)
 
 ---
 
@@ -936,6 +964,26 @@ The demise of travel industry veteran Prema Cooray which made front page news la
 
 ---
 
+### ප්‍රගීත් එක්නැලිගොඩ: නඩු විභාගයට තුන්වන වරටත් නව විනිසුරු මඩුල්ලක් පත් කෙරුණේ ඇයි?
+
+*2024-05-20 02:05:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c844lwvzy0ro) · `si`
+
+ප්‍රගීත් එක්නැලිගොඩ: නඩු විභාගයට තුන්වන වරටත් නව විනිසුරු මඩුල්ලක් පත් කෙරුණේ ඇයි?
+
+ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ වරින් වර ඇතිවූ පුරප්පාඩු හේතුවෙන් කල් යමින් පැවැති මාධ්‍යවේදී ප්‍රගීත් එක්නැලිගොඩ පැහැරගෙන ගොස් අතුරුදන් කිරීමේ සිද්ධියට අදාළව යුද හමුදා බුද්ධි අංශ සාමාජිකයින් 9 දෙනෙකුට එරෙහිව ගොනුකර ඇති නඩුව විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් නව ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරනු ලැබ තිබේ.
+
+ඒ අනුව අදාළ නඩුව විභාග කරනුයේ නාමල් බලල්ලේ, මහේන් වීරමන්  සහ සුජීව නිශ්ශංක යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල විසිනි.
+
+එම විනිසුරු මඩුල්ල ඉදිරියේ අදාළ නඩුව පසුගිය මැයි 17 වැනිදා කැඳවන ලද අතර නඩුව  ජුනි මස 28 වැනිදා සිට යළි විභාගයට ගැනීමටත්  ත්‍රිපුද්ගල විනිසුරු මඩුල්ල නියෝග කළේය.
+
+මෙම නඩුව විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් මුලින්ම සම්පත් අබේකෝන්, සම්පත් විජේරත්න සහ ගිහාන් කුලතුංග යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරන ලදී.
+
+...
+
+[Data](articles/04dfe114.json)
+
+---
+
 ### Protests and crackdown: Rappers vs. the regime in Iran
 
 *2024-05-20 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Protests-and-crackdown-Rappers-vs-the-regime-in-Iran/172-282936) · `en`
@@ -1220,6 +1268,30 @@ The bad weather was complicating rescue efforts, the state news agency IRNA repo
 
 ---
 
+### Iran helicopter crash: President Ebrahim Raisi feared dead
+
+*2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-President-Ebrahim-Raisi-feared-dead/155-282938) · `en`
+
+Iranian President Raisi and the officials accompanying him are feared dead after the Red Crescent says it has found “no signs of the helicopter’s occupants being alive” at the crash site.
+
+08.17 - Iranian official says 'expectations low' for president to be alive as rescuers locate helicopter - report
+
+Reuters news agency reports that an Iranian official has said "expectations are low" that the Iranian president will be found alive after his helicopter crashed.
+
+Rescuers have located the aircraft that was carrying Ebrahim Raisi, an official has told Iranian state television.
+
+The head of the Iranian Red Crescent Society, Pir Hossein Kolivand, said rescue teams were around 1.25 miles away from the crash site.
+
+06.47 - Turkish drone locates heat source in Iranian mountains
+
+A Turkish drone has located a heat source in the Iranian mountains they believe could be the location of the helicopter crash site.
+
+...
+
+[Data](articles/238051a5.json)
+
+---
+
 ### Iran helicopter crash: Contact made with passenger and crew member
 
 *2024-05-19 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Iran-helicopter-crash-Contact-made-with-passenger-and-crew-member/155-282938) · `en`
@@ -1297,6 +1369,8 @@ A Turkish drone has located a heat source in the Iranian mountains they believe 
 ...
 
 [Data](articles/ba7924ea.json)
+
+[Extended Data](ext_articles/ba7924ea.ext.json)
 
 ---
 
@@ -2067,69 +2141,5 @@ Take Dyslexia, for example, a disorder identified 130 years ago by ophthalmologi
 [Data](articles/b96fb76a.json)
 
 [Extended Data](ext_articles/b96fb76a.ext.json)
-
----
-
-### Mullivaikal
-
-*2024-05-19 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/183945) · `ta`
-
-Mullivaikkal, a coastal village in Sri Lanka's Northern Province, borders the Induma Sea, Nandikadal watershed, Vadduvagal River, and is six km from Mullaitivu.
-
-🟩
-
-Mullivaikkal is a coastal village in the Northern Province of the Mullaitivu District, six kilometers from Mullaitivu in the Northern Province.
-
-The village is a sandy land bordered by the Induma Sea in the east, the Nandikadal watershed in the west, the Vadduvagal River in the south and the north of the web.
-
-◼️
-
-[Data](articles/5f0fb0e1.json)
-
-[Extended Data](ext_articles/5f0fb0e1.ext.json)
-
----
-
-### Col. 7 businessman arrested for assaulting Iranian Ambassador
-
-*2024-05-19 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Col-7-businessman-arrested-for-assaulting-Iranian-Ambassador/108-282902) · `en`
-
-Colombo, May 19 (Daily Mirror)- A businessman from Colombo 7 has been arrested over the alleged assault on Iranian Ambassador Dr. Alireza Delkhosh at the Colombo City Center (CCC) car park last evening.
-
-The suspect, Buwaneka Mahasen Basnayake (36) is a resident of Ward Place, Colombo 07.
-
-The Police said the businessman had assaulted the Ambassador and attempted to escape after an altercation with the Ambassador, who was trying to park his vehicle at the CCC car park.
-
-The Ambassador then had got down from his vehicle and attempted to prevent the businessman from escaping by keeping his hand on the bonnet of the businessman’s car while calling the driver to wait until the police comes.
-
-However, the businessman had driven the car even after the Ambassador was thrown onto the bonnet.
-
-Police officials who arrived at the scene had arrested the suspect.
-
-He was remanded till tomorrow (20) by the Colombo Additional Magistrate Harshana Kekunawala.
-
-◼️
-
-[Data](articles/368cb112.json)
-
-[Extended Data](ext_articles/368cb112.ext.json)
-
----
-
-### Georgian ParliamentThe EU fusion of the sprouting?
-
-*2024-05-19 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183951) · `ta`
-
-In Georgia, mass protests erupted over a contentious foreign agents bill, defying warnings from the EU and US. Thousands gathered despite ongoing unrest.
-
-🟩
-
-Georgian protesters have held massive rallies against controversial foreign agents bill. Despite the widespread continuous unrest and the European Union and the US warning, thousands of protesters in Georgia have landed in Georgia following the approval of Parliament to the Foreign Agents Bill.
-
-◼️
-
-[Data](articles/50e54fbd.json)
-
-[Extended Data](ext_articles/50e54fbd.ext.json)
 
 ---

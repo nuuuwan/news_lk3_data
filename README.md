@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 08:19:06**
+As of **2024-05-20 08:33:53**
 
 ## Newspaper Stats
 
-*Scraped **25,090** Articles*
+*Scraped **25,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 2,901
 tamilmirrorlk | 2,935
 virakesarilk | 3,791
 dailymirrorlk | 3,939
-adaderanasinhalalk | 4,009
+adaderanasinhalalk | 4,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,089 (100.0%) of 25,090 articles have been extended.
+25,090 (100.0%) of 25,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
+
+### සපුගස්කන්ද තෙල් පිරිපහදුවේ සේවකයින්ගේ රැකියා අවදානමේ
+
+*2024-05-20 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196806) · `si`
+
+සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු ව්‍යවසායක් බවට පරිවර්ථනය කිරීමේ දී එහි සේවකයින් 650කට අධික පිරිසකගේ රැකියා අහිමි වීමේ අවදානමක් පවතින බව වාර්තා වේ.
+
+කෙසේවෙතත් දැනට සිටින සේවකයින්ගෙන් 200ක් පමණ රජය සතු නව ව්‍යවසාය සඳහා බඳවා ගැනීමට ද සැලසුම් කර ඇති බව සඳහන්ය.
+
+ඉතිරි කම්කරුවන් සංචිතයකට යොමු කරන අතර එයින් රජය සතු නව ව්‍යවසාය තුළින් මෙහෙයුම් පවත්වාගෙන යාමට අවශ්‍ය පිරිස් තෝරා ගනු ඇත.
+
+සපුගස්කන්ද තෙල් පිරිපහදුව ශ්‍රී ලංකා ඛනිජ තෙල් සංස්ථාවෙන් වෙන්ව පොදු ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමේ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් මේ වන විට අනුමත කර තිබේ.
+
+පිරිපහදුවේ පැරණි යටිතල පහසුකම් නවීකරණය කිරීම සහ වැඩිදියුණු කිරීම සඳහා පවතින ආයෝජන අවශ්‍යතාව මත මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+
+අවම වශයෙන් තවත් වසර 25ක් සඳහා පිරිපහදුවේ මෙහෙයෙම් කාර්යක්ෂමතාව සහ ශක්‍යතාව තහවුරු කිරීම මෙහි ඉලක්කය වේ.
+
+සපුගස්කන්ද තෙල් පිරිපහදුව ත්‍රිකුණාමලයට රැගෙන යාමට සැලසුම් කර ඇති අතර ඉදිරි මෙහෙයුම් සඳහා නවීකරණය කරන ලද නවීන පහසුකම් සහිත තෙල් ටැංකි සංකීර්ණයක් පුළුල් කිරීම ඉදිරියේ දී සිදුකෙරුණු ඇත.
+
+◼️
+
+[Data](articles/1215c677.json)
+
+---
+
+### සපුගස්කන්ද තෙල් පිරිපහදුවේ සේවකයින්ගේ රැකියා අවදානමේ
+
+*2024-05-20 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196805) · `si`
+
+සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු ව්‍යවසායක් බවට පරිවර්ථනය කිරීමේ දී එහි සේවකයින් 650කට අධික පිරිසකගේ රැකියා අහිමි වීමේ අවදානමක් පවතින බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/505500bc.json)
+
+---
 
 ### Heavy showers and windy conditions to continue further
 
@@ -51,6 +87,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/b5e28ac9.json)
+
+[Extended Data](ext_articles/b5e28ac9.ext.json)
 
 ---
 
@@ -2105,45 +2143,5 @@ The ceremony will be held near the war heroes near Battaramulla.
 [Data](articles/eb654191.json)
 
 [Extended Data](ext_articles/eb654191.ext.json)
-
----
-
-### Sri Lanka may have to depend on India or nuclear to reach low carbon target: researcher
-
-*2024-05-19 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-have-to-depend-on-india-or-nuclear-to-reach-low-carbon-target-researcher-163609/) · `en`
-
-ECONOMYNEXT – Sri Lanka will need to either connect to India or set up a nuclear power plant if the country is to reach its renewable energy targets due the country’s weather patterns, a researcher and policy advocate has said.
-
-Sri Lanka has set ambitious goals for renewable electricity generation by 2030, apparently without much prior study or any costs being revealed when the target was set by President Gotabaya Rajapaksa.
-
-Rohan Pethiyagoda, a taxonomist and researcher who had also been senior state officials involved in policy at one time said overall Sri Lanka used a large volume of biomass (firewood) for cooking.
-
-“We need to recognize, of course, that about 60 percent of Sri Lankan households still use firewood as their primary fuel,” Pethiyagoda told a climate forum organized by Sri Lanka’s Ceylon Chamber of Commerce.
-
-...
-
-[Data](articles/5a4eec4a.json)
-
-[Extended Data](ext_articles/5a4eec4a.ext.json)
-
----
-
-### Image to the debate
-
-*2024-05-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196790) · `si`
-
-Reconciliation proposes debates with National Power, scheduled for June 3rd, 5th, and 6th, as per the article.
-
-🟩
-
-The reconciliation has sent a letter to the national power by proposing to the proposed debates between the reconciliation and national power.
-
-According to the article, the debate between the leaders of both parties 27, 28, 29, 04, 06, 06, 06, 05, 06, will be held on June 03, 05, 06.
-
-◼️
-
-[Data](articles/0e1eae1b.json)
-
-[Extended Data](ext_articles/0e1eae1b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 16:33:48**
+As of **2024-05-20 16:50:41**
 
 ## Newspaper Stats
 
-*Scraped **25,209** Articles*
+*Scraped **25,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,104 @@ newsfirstlk | 363
 islandlk | 1,365
 economynextcom | 1,446
 dailyftlk | 1,480
-adalk | 2,158
-adaderanalk | 2,915
+adalk | 2,159
+adaderanalk | 2,919
 tamilmirrorlk | 2,948
 virakesarilk | 3,807
 dailymirrorlk | 3,959
-adaderanasinhalalk | 4,030
+adaderanasinhalalk | 4,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,206 (100.0%) of 25,209 articles have been extended.
+25,209 (100.0%) of 25,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-20 (Monday)
 
-### ඉන්දියාවෙන් ලංකාවට එන අලුත්ම පෙට්‍රල් වර්ගය
+### Keheliya and seven others further remanded
+
+*2024-05-20 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99341/keheliya-and-seven-others-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella and seven others have been further remanded until June 03 by the Maligakanda Magistrate’s Court.
+
+They are facing charges related to the import of substandard human immunoglobulin vials.
+
+◼️
+
+[Data](articles/c30ae02c.json)
+
+---
+
+### CID names Diana Gamage as suspect in passport case
+
+*2024-05-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99340/cid-names-diana-gamage-as-suspect-in-passport-case) · `en`
+
+The Criminal Investigations Department (CID) has submitted a report to the Colombo Chief Magistrate’s Court, naming former State Minister Diana Gamage as a suspect in the case pertaining to the obtaining of a diplomatic passport.
+
+Accordingly, the Colombo Chief Magistrate Thilina Gamage has ordered the CID to take appropriate measures and report back to the court.
+
+The CID has also reported the facts to Colombo Chief Magistrate alleging that the accused is missing from her residence.
+
+◼️
+
+[Data](articles/9d82a3d8.json)
+
+---
+
+### ඩයනා නිවසෙන් අතුරුදන්
+
+*2024-05-20 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196827) · `si`
+
+විදේශ ගමන් බලපත්‍ර සිද්ධියට හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සැකකාරියක ලෙස නම්කර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට වාර්තාවක් ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව සුදුසු ක්‍රියාමාර්ග ගෙන වාර්තා කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයෙන් නියෝග කර ඇති බව අප අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+සැකාරිය ඇය පදිංචිව සිටි නිවසින් අතුරුදන්ව ඇතැයි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතාට කරුණු වාර්තාකර තිබේ.
+
+◼️
+
+[Data](articles/c7796bd9.json)
+
+---
+
+### The newest petrol type coming from India
 
 *2024-05-20 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196825) · `si`
 
-Indian Oil සමාගම ඉතිහාසයේ පළමු වරට ඔක්ටේන් 100 සුපිරි වර්ගයේ පෙට්‍රල් තොගයක් ශ්‍රී ලංකාවට අපනයනය කර ඇති බව වාර්තා වෙයි.
+India has made its first-ever significant petrol export, sending a shipment of xp100 petrol to Sri Lanka from JNPT. This high-efficiency petrol, designed for better performance and fuel economy, marks a milestone in India's energy sector.
 
-පසුගිය මැයි 18 වනදා මුම්බායේ Jawaharlal Nehru Port Trust (JNPT) වෙතින් මෙම ඉන්ධන තොගය ශ්‍රී ලංකාවට නැව්ගත කර තිබේ.
+🟩
 
-මෙම සමාරම්භක නැව්ගත කිරීම අමතමින්, ඉන්දියන් ඔයිල් හි අධ්‍යක්ෂ (අලෙවිකරණ) වී. සතිෂ් කුමාර් මහතා අදහස් දක්වමින් පැවසුවේ, “අපගේ තවත් නවතම නිෂ්පාදනයක් ශ්‍රී ලංකාවේ වෙළෙඳපොළ වෙත යැවීමට හැකිවීම ඉතා වැදගත් අවස්ථාවක් සනිටුහන් කරනු ලබනවා“, යනුවෙනි.
+India has exported a large quantity of sufficient petrol in history for the first time in history.
 
-XP100 ලෙසින් නම්කර ඇති මෙම පෙට්‍රල් වර්ගය ඉන්දියාව විසින් දේශීය සංවර්ධනය කරන ලද්දකි.
+On May 18, the stock of fuel has shipped to Sri Lanka from JNPT, JNPT.
 
-එය උසස් ගණයේ වාහන සඳහා ඉහළ කාර්යක්ෂමතාවයකින් යුතු එන්ජිමේ ක්‍රියාකාරිත්වය, වේගවත් ත්වරණය, සුමට රිය පැදවීමේ හැකියාව සහ වැඩිදියුණු කළ ඉන්ධන පිරිමැස්ම සඳහා නිර්මාණය කර ඇත.
+Addressing this inaugural shipping, Director of Indian Oil (Marketing). Sathakar said, "It is a very important opportunity to be able to send another latest product to Sri Lanka's market."
+
+This petrol named xp100 was designated by India.
+
+It is designed for high-efficient engine operation, accelerated acceleration, smooth acceleration, and improved fuel economy.
 
 ◼️
 
 [Data](articles/ecf1e917.json)
+
+[Extended Data](ext_articles/ecf1e917.ext.json)
+
+---
+
+### Interim injunction issued against Wijeyadasa and Keerthi Udawatta
+
+*2024-05-20 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99339/interim-injunction-issued-against-wijeyadasa-and-keerthi-udawatta) · `en`
+
+The Colombo District Court has issued an interim order preventing Justice Minister Wijeyadasa Rajapakshe from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) and Keerthi Udawatta as Acting General Secretary of the party.
+
+◼️
+
+[Data](articles/8e63e21c.json)
 
 ---
 
@@ -67,6 +131,26 @@ OIC Thirappane Police CI R.M.S.Kumarasinghe is conducting further investigations
 ◼️
 
 [Data](articles/e542f639.json)
+
+[Extended Data](ext_articles/e542f639.ext.json)
+
+---
+
+### කෝටි හතක හෙරොයින් ‍ ගෙනා කාන්තාවක් කටුනායක දී අත්අඩංගුවට
+
+*2024-05-20 15:56:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතක-හෙරොයින්-‍-ගෙනා-කාන්තාවක්-කටුනායක-දී-අත්අඩංගුවට/11-409741) · `si`
+
+රුපියල් හත් කෝටි තිස් පන් ලක්ෂයක් වටිනා හෙරොයින් තොගයක් සිය ගමන් මල්ලේ ව්‍යාජ පතුලක සගවා ගෙන පැමිණි විදේශීය කාන්තාවක් අද(20) දින උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .
+
+ඇය 57 හැවිරිදි පාකිස්තානු ජාතික කාන්තාවක් වන අතර ඇය ශ්‍රී ලංකාවේ සංචාරය සදහා පැමිණෙන බව හගවමින් මෙම හෙරොයින් මත්ද්‍රව්‍ය තොගය ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් දරා තිබේ .
+
+ඇය අද(20) දින උදෑසන 09.45 ට අබුඩාබි නුවර සිට ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි. - 392 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඇය විසින් රැගෙන ආ ගමන් මල්ලේ ව්‍යාජ පතුලක වෙනම ඇසුරුමක් ලෙස මෙම හෙරොයින් තොගය සකස් කර සගවා ගෙන තිබූ අතර එහි කිලෝ ග්‍රෑම් 02 යි ග්‍රෑම් 450 ක් බරැති හෙරොයින් මත්ද්‍රව්‍ය තොගයක් තිබූ බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ ප්‍රකාශකවරයෙකු පැවසීය .
+
+...
+
+[Data](articles/d941555b.json)
 
 ---
 
@@ -87,6 +171,30 @@ Colombo District Judge Sandun Withana issued the order after considering a compl
 [Data](articles/6660506c.json)
 
 [Extended Data](ext_articles/6660506c.ext.json)
+
+---
+
+### Motorists using expressway cautioned due to bad weather
+
+*2024-05-20 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99338/motorists-using-expressway-cautioned-due-to-bad-weather) · `en`
+
+A special announcement has been issued for motorists traveling on the expressway, due to the prevailing adverse weather conditions.
+
+Accordingly, the Road Development Authority (RDB) requests motorists to maintain a maximum speed of 60km per hour when using the expressway.
+
+More than 19,000 people have been affected in 07 districts including Ratnapura, Kegalle, Anuradhapura, Kandy, Galle, Kalutara and Puttalam due to heavy rainfall.
+
+The number of affected families is currently reported as 4,786.
+
+Further, around 32 houses have been partially damaged and 1,140 people have been directed to safe locations.
+
+According to the current situation, more than 150mm of heavy rainfall is expected in the next 24 hours in the Western and North-Western provinces, says the Meteorological Department.
+
+Meanwhile, Sabaragamuwa province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts may experience heavy rains exceeding 100mm today.
+
+...
+
+[Data](articles/7ac99584.json)
 
 ---
 
@@ -126,11 +234,9 @@ The Gujarat ATS has taken the suspects to an undisclosed location for intensive 
 
 Security has been heightened across the airport, the report said.
 
-The arrests were made ahead of the arrival of three IPL teams at the Ahmedabad airport for the qualifier and eliminator games.
+The individuals, all Sri Lankan nationals, first arrived in Chennai before travelling to Ahmedabad, as per the media reports. They were waiting for instructions from their Pakistani handlers when they were apprehended.
 
-In March, two top-rung leaders of ISIS in India were arrested near the international border after they crossed over from Bangladesh.
-
-The arrested ISIS cadres were identified as Harish Ajmal Farooqi alias Harish Ajmal Farukhi, a resident of Dehradun in Uttarakhand, and Anurag Singh alias Rehan, a resident of Panipat in Haryana.
+The arrest occurred before the suspects could receive any weapons, Indian media reports said. A press conference is scheduled for 4 PM where Gujarat DGP will provide further details regarding the arrests, it said.
 
 ...
 
@@ -2171,147 +2277,5 @@ Both parties agreed on the need to establish a bilateral task force to coordinat
 [Data](articles/851a02dc.json)
 
 [Extended Data](ext_articles/851a02dc.ext.json)
-
----
-
-### The helicopter, who was traveling to Iran, meets the wreckage of the aircraft
-
-*2024-05-20 08:09:30* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-ගමන්-ගත්-හෙලිකොප්ටර්-යානයේ-සුන්බුන්-හමුවෙයි/11-409728) · `si`
-
-A helicopter en route to Iran encountered wreckage, likely from another aircraft. Iranian media reported finding the debris, but no updates on the president. The discovery was made by a drone in Turkey, complicating search efforts due to relocation challenges and adverse weather conditions.
-
-🟩
-
-Iranian media reports that the people of the Iranian has been able to find the wreckage of the helicopter who was in danger while Iranian was traveling.
-
-However, not yet information about Iranian President. The debris was found in a drone in Turkey.
-
-Excessive relocation and inclement weather has also pressurized search operations.
-
-◼️
-
-[Data](articles/1831a4a3.json)
-
-[Extended Data](ext_articles/1831a4a3.ext.json)
-
----
-
-### Employment of Employment at Sapugaskanda Oil Refinery
-
-*2024-05-20 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196806) · `si`
-
-Sapugaskanda Oil Refinery transitions from private to state-owned, affecting over 650 employees but planning to hire 200 new ones. The remaining staff will be reassigned based on interest in continuing under the new ownership. The Sri Lanka Petroleum Corporation will manage the refinery, aiming to upgrade its infrastructure for continued operation for another 25 years. Future plans include relocating the refinery to Trincomalee and expanding facilities for future operations.
-
-🟩
-
-It is reported that the Sapugaskanda Oil Refinery is translated into the state owned enterprise into a risk of over 650 employees.
-
-However, it is also planned to recruit about 200 employees of the government owned enterprise.
-
-The rest of workers will be referred to a pool, which will choose the people who want to run operations through the government owned enterprise.
-
-The Cabinet has approved the proposal to run Sapugaskanda Oil Refinery as a common movement by the Sri Lanka Petroleum Corporation.
-
-It is reported that the measures have been taken on the need to update and improve the old infrastructure of the refinery.
-
-The target is to ensure the efficiency and feasibility of the refinery for at least 25 more years.
-
-The Sapugaskanda Oil Refinery is to be taken to Trincomalee, and the expansion of modern facilities for future operations was carried out in the future.
-
-◼️
-
-[Data](articles/1215c677.json)
-
-[Extended Data](ext_articles/1215c677.ext.json)
-
----
-
-### Employment of Employment at Sapugaskanda Oil Refinery
-
-*2024-05-20 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196805) · `si`
-
-Sapugaskanda Oil Refinery, now a state-owned entity, faces risks due to the employment of over 650 workers.
-
-🟩
-
-It is reported that the Sapugaskanda Oil Refinery is translated into the state owned enterprise into a risk of over 650 employees.
-
-◼️
-
-[Data](articles/505500bc.json)
-
-[Extended Data](ext_articles/505500bc.ext.json)
-
----
-
-### Heavy showers and windy conditions to continue further
-
-*2024-05-20 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99324/heavy-showers-and-windy-conditions-to-continue-further) · `en`
-
-Due to South-West monsoon conditions which are gradually establishing across the island, prevailing showery and windy conditions will continue further, says the Met. Department.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces and in Mannar district.
-
-Showers or thundershowers will occur at several places elsewhere of the island, it said.
-
-Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy, Nuwara-Eliyaand Mannar districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times over the island, according to the Meteorology Department.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b5e28ac9.json)
-
-[Extended Data](ext_articles/b5e28ac9.ext.json)
-
----
-
-### Prison officials in a trade union action
-
-*2024-05-20 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196804) · `si`
-
-All Ceylon Prison Officers' union initiated a professional development program for prison officials.
-
-🟩
-
-The All Ceylon Prison Officers should have decided to engage in a professional program reporting the prison officials.
-
-◼️
-
-[Data](articles/3786fa09.json)
-
-[Extended Data](ext_articles/3786fa09.ext.json)
-
----
-
-### Sri Lanka's Production Activities in Sri Lanka
-
-*2024-05-20 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196803) · `si`
-
-In April, Sri Lanka's production activities showed mixed results. The manufacturing sector saw a slight increase from 42% to 62.05%, influenced by factors like new orders, employment, and product demand. However, the temporary closure of factories during the Sinhala and Tamil New Year holidays impacted production negatively. The buyer managers' index indicated slower growth at 56.7%. Despite this, certain sectors like programs and broadcasts, telecommunications, and real estate trade experienced positive developments. The financial services sub-department also saw progress, likely due to lower policy rates encouraging more activity.
-
-🟩
-
-The Central Bank of Sri Lanka says that in April, the Central Bank of Sri Lanka says that the country's production activities will be shown.
-
-The Sri Lanka Transport Manager's Independent of the Product Managers of the Manufacturing Manager in the Production of 62.05 percent in March was 42%.
-
-According to the Central Bank, new orders, products, employment and bulk purchases have been reduced in the month.
-
-The temporary closure of many factories have been temporarily closed in April due to Sinhala and Tamil New Year Light offices for the backs.
-
-Sri Lanka's buyer managers index has shown a slower growth of 56.7 percent.
-
-With the reduction of policy rates in March, the financial services sub-department has further increased and significant progress in the cargo and retail business activities of the festive season.
-
-Meanwhile, the sub-sectors of programs and broadcasts, telecommunications, and real estate trade reported positive developments in April.
-
-...
-
-[Data](articles/a2076f8b.json)
-
-[Extended Data](ext_articles/a2076f8b.ext.json)
 
 ---

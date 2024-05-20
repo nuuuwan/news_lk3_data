@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-20 14:04:53**
+As of **2024-05-20 14:18:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,024
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,162 (99.9%) of 25,177 articles have been extended.
+25,175 (100.0%) of 25,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,39 +52,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට අධිකරණයෙන් නියෝගයක්
+### Court order to the Commissioner General of Prisons
 
 *2024-05-20 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196818) · `si`
 
-බන්ධනාගාර නිලධාරින් වෘත්තීය ක්‍රියාමාර්ගයකට අවතීරණවීම පිළිබඳ වහාම අද (20) දිනය තුළ අධිකරණය හමුවේ පෙනී සිට කරුණු දක්වන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අද පෙරවරුවේ බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට නියෝග කළේය.
+Colombo Chief Magistrate Thilina Gamage ordered the Commissioner General of Prisons to court over issues with transporting inmates. Prisoners' sick leave protests disrupt court proceedings.
 
-ඒ, කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ අද දිනට නියමිත නඩු කටයුතු ආරම්භ කළ අවස්ථාවේ බන්ධනාගාර ගත රැඳවියන් අධිකරණයට රැගෙනවිත් නොතිබීම පිළිබඳ අවධානය යොමු කරමිනි.
+🟩
 
-එහිදි අද දිනයේ ලෙඩ නිවාඩු වාර්තාකර ඇති නිලධාරින් පිළිබඳ සම්පුර්ණ වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙසද කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට නියෝග කර තිබුණි.
+Colombo Chief Magistrate Thilina Gamage ordered the Commissioner General of Prisons to appear before court today (20).
 
-මේ අතර දිවයිනේ ප්‍රදේශ කිහිපයක බන්ධනාගාර නිලධාරින් ලෙඩ නිවාඩු වාර්තා කර අද සේවයට වාර්තාකර නොමැති බව වාර්තා විය.
+It focuses on the prison inmates have not been brought to the court when he commenced the cases in the Colombo Chief Magistrate's Court today.
 
-බන්ධනාගාර නිලධාරින්ගේ සියලු නිවාඩු අවලංගුකර ඇති බැවින් සියලුදෙනා වහාම සේවයට වාර්තා කළ යුතු බවට බන්ධනාගාර කොමසාරිස්, මාධ්‍ය ප්‍රකාශක ගාමිණී බී. දිසානායක මහතා අද නිවේදනය කළේය.
+The Colombo Chief Magistrate also ordered the Commissioner General of Prisons for the Commissioner General of Prisons.
+
+Meanwhile, it was reported that prison officials have been reported today and reported to the service in several parts of the island.
+
+Prison Commissioner Gamini B. Gamini B. Gamini B.. Mr. Dissanayake announced today.
+
+It is reported that a group of prisoners and sergeants have laid sick leave as a professional program based on several demands, including non-increases and resolving the base of the officer.
+
+Accordingly, prison officials in Welikada, Galle and Matara prison officers have been instructed to enter the procedure.
 
 ...
 
 [Data](articles/aabbd8ac.json)
 
+[Extended Data](ext_articles/aabbd8ac.ext.json)
+
 ---
 
-### පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමිට සමාව ඉල්ලා ජනපති ට ලිපියක්
+### A letter to the President to pardon Ven. Galagodaatte Gnanasara
 
 *2024-05-20 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196817) · `si`
 
-බරපතළ වැඩසහිත වසර හතරක සිර දඬුවම් නියම වී සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට ජනාධිපති සමාව ලබාදෙන්නැයි ත්‍රෛනිකායික මහානායක හිමිවරුන් ජනාධිපතිවරයාගෙන් ලිඛිත ඉල්ලීමක් කර තිබේ.
+The Chief Prelate requests the President to pardon Ven. Galagodaatte Gnanasara, highlighting his efforts in promoting Sinhala Buddhist nationalism and advising on counter-extremism strategies.
 
-උන්වහන්සේ ඉල්ලා සිටින්නේ වෙසක් පුන් පොහෝ දිනය නිමිති කොටගෙන ඥානසාර හිමියන්ට සමාව ලබාදීමට කටයුතු කරන ලෙසට ය.
+🟩
 
-කූරගල විහාරස්ථානය සම්බන්ධයෙන් 2016දී කළ ප්‍රකාශයකින් ආගම් අතර අසමගිය ඇතිවන ආකාරයෙන් කටයුතු කිරීමේ චෝදනා මත පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට පසුගියදා අධිකරණයෙන් බරපතළ වැඩසහිත වසර හතරක සිර දඬුවම් නියම කෙරුණි. එම ලිපියේ දැක්වෙන්නේ...
+The Chief Prelimic Mahanayaka Thera has made a written request from the President to give Presidential pardon to Ven. Punishment of Ven.
 
-...
+He demanded that the Vesak Filling Park, wrap the Gnanasara Thera to pardon.
+
+Rev.. The article states ...
+
+"Ven. Galagoda Aththe Gnanasara Thero was cautious for the Sinhala Buddhist nationalism in Sri Lanka recently, while taking measures to educate security forces in some extreme extremist activities in the society.. It is no secret to the security forces to prevent certain extremist forces who have gone to the expansion in Sri Lanka. Also, Galagodaatte Gnanasara Thera has provided the necessary recommendations on the need to establish a public legal system in the country, holding 'one country Task Force' as the Chairman of the President.. It is evident that the fort is the intention of national unity and social support.. As facts, the Hon. The Hon.
+
+◼️
 
 [Data](articles/092c53ba.json)
+
+[Extended Data](ext_articles/092c53ba.ext.json)
 
 ---
 
@@ -156,21 +174,27 @@ It is noteworthy that the prison authorities have announced this sick holiday de
 
 ---
 
-### ஈரான் ஜனாதிபதியின் மறைவுக்கு ஜனாதிபதி ரணில்  இரங்கல்
+### President Ranil condoles Iran's demise
 
 *2024-05-20 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184032) · `ta`
 
-ஈரான் நாட்டு ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவுக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க இரங்கல் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe expresses deep sorrow over the passing of Iranian President Ibrahim Raisi, offering condolences to Iran's family, government, and citizens. He recalls Raisi's visit to Sri Lanka where he presented the Uma Oya Multipurpose Project.
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி, வெளிவிவகார அமைச்சர் அமீர் அப்துல்லாஹியன் மற்றும் பல மூத்த  அதிகாரிகளின் துயர மரணத்தால் இலங்கை ஆழ்ந்த அதிர்ச்சியும் கவலையும் அடைந்துள்ளது.
+🟩
 
-அவரை இழந்து வாடும் குடும்பத்தினருக்கும், அரசுக்கும், ஈரான் மக்களுக்கும் எனது ஆழ்ந்த அனுதாபங்களையும், ஆழ்ந்த இரங்கலையும் தெரிவித்துக் கொள்கிறேன். எங்கள் எண்ணங்களும் பிரார்த்தனைகளும் மறைந்த ஈரான் ஜனாதிபதி ரைசியின் குடும்பத்தினருடனும் ஈரான் மக்களுடனும், உள்ளது என்று குறிப்பிட்டுள்ளார்.
+President Ranil Wickremesinghe has condoled the demise of Iranian President Ibrahim Raisi.
 
-இதேவேளை, கடந்த ஏப்ரல் மாதம் 24 ஆம் திகதி ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி இலங்கைக்கு விஜயம் மேற்கொண்டு ஈரானின் நிதியுதவியில் நிர்மாணிக்கப்பட்ட உமா ஓயா பலநோக்குத் திட்டத்தை மக்கள் பாவனைக்காக கையளித்திருந்தமை குறிப்பிடத்தக்கது.
+Sri Lanka has been deeply shocked and worried about the tragedy of Iranian President Ibrahim Raisi, External Affairs Minister Amir Abdullahian and many senior officials.
+
+I extend my deepest condolences and deepest condolences to the family, the state and the people of Iran. He noted that our thoughts and prayers are with the family of the late Iranian President Raisi and the people of Iran.
+
+Meanwhile, on April 24, Iran's President Ibrahim Raisi visited Sri Lanka and handed over the Uma Oya Multipurpose Project to use the Multiple Scheme of Iran.
 
 ◼️
 
 [Data](articles/36471876.json)
+
+[Extended Data](ext_articles/36471876.ext.json)
 
 ---
 
@@ -242,55 +266,73 @@ It has been reported that a single golden back frog was hiding behind a wet, rot
 
 ---
 
-### யாழில் 400 பட்டதாரிகளுக்கு நியமனம் வழங்கவுள்ள ஜனாதிபதி
+### The President will appoint 400 graduates in Jaffna
 
 *2024-05-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184025) · `ta`
 
-வடக்கிற்கு விஜயம் செய்யவுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க 400 பட்டதாரிகளுக்கு ஆசிரிய நியமனம் வழங்கவுள்ளார்.
+President Ranil Wickremesinghe plans to appoint 400 graduates during his visit to Jaffna. The appointments will take place at the Selva Gallery, overseen by teachers. Call letters will be dispatched by the Northern Provincial Ministry of Education starting Monday.
 
-யாழ்ப்பாணம் , தந்தை செல்வா கலையரங்கில் எதிர்வரும் சனிக்கிழமை பிற்பகல் 3 மணிக்கு ஜனாதிபதி தலைமையில் நடைபெறவுள்ள நிகழ்வில் 400 பட்டதாரிகளுக்கு ஆசிரிய நியமனம் வழங்கப்படவுள்ளது.
+🟩
 
-நியமனம் பெறவுள்ள பட்டதாரிகளுக்கான அழைப்பு கடிதங்கள் வடமாகாண கல்வி அமைச்சினால் இன்றைய தினம் திங்கட்கிழமை முதல் அனுப்பி வைக்கபடுவதாக தெரிவிக்கப்படுகிறது.
+President Ranil Wickremesinghe, who is to visit the North, will be appointed to 400 graduates.
+
+Teachers will be appointed to 400 graduates at the President's Father Selva Gallery at Jaffna, Selva Gallery at 3 pm on Saturday afternoon.
+
+Call letters to the graduates who will be appointed will be sent by the Northern Provincial Ministry of Education from Monday.
 
 ◼️
 
 [Data](articles/e0ebf006.json)
 
+[Extended Data](ext_articles/e0ebf006.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-20 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184028) · `ta`
 
-இன்று திங்கட்கிழமை (மே 20) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 294.9261 ஆகவும் விற்பனை விலை ரூபா 304.5972 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately 294.93 USD to INR.
+
+🟩
+
+The US $ 294.9261 was reported at Rs.
 
 ◼️
 
 [Data](articles/f7bb8bea.json)
 
+[Extended Data](ext_articles/f7bb8bea.ext.json)
+
 ---
 
-### ஈரானின் இடைக்கால ஜனாதிபதியாக பதவியேற்கப்போகும் முகமட் மொக்பர் - சில குறிப்புகள்
+### Mohammed Mogbar will be sworn in as Iran's interim president - some tips
 
 *2024-05-20 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184027) · `ta`
 
-ஈரானின் துணை ஜனாதிபதி முகமட் மொக்பெர் ஈரானின் இடைக்கால ஜனாதிபதியாக பதவியேற்பார் என தகவல்கள் வெளியாகின்றன.
+Mohammed Mogbar, Iran's VP since 2021, will serve as interim president following the death of the previous president. Born in 1955, he's closely associated with Ayatollah Ali Khamenei, Iran's supreme leader. Despite EU sanctions in 2010 over missile activities, Mogbar recently supported Russia's military efforts.
 
-ஈரானின் சட்டவிதிமுறைகளின் படி ஜனாதிபதியொருவர் உயிரிழந்து 50 நாட்களிற்குள் ஜனாதிபதி தேர்தல்இடம்பெறவேண்டும் .
+🟩
 
-1955ம் ஆண்டு செப்டம்பர் முதலாம் திகதி பிறந்த மொக்பெர் ஈரானின் மததலைவர் ஆயத்துல்லா அலி கமேனிக்கு மிகவும் நெருக்கமானவர்.
+Iran's vice -president Mohammed Mogber will be sworn in as Iran's interim president.
 
-ஈரான் குறித்த அனைத்து இறுதி முடிவையும் எடுப்பவர் ஆயத்துல்லா அலி கமேனி என்பது குறிப்பிடத்தக்கது.
+According to Iran's legal system, the president should be held within 50 days after the president died.
 
-2021 இல் ரைசி தெரிவு செய்யப்பட்டவேளை மொக்பெர் துணை ஜனாதிபதியாக தெரிவு செய்யப்பட்டார்.
+Born on September 1, 1955, Mogberr was very close to Iran's religious leader Ayatullah Ali Kaneni.
 
-கடந்த ஒக்டோபரில் மொஸ்கோவிற்கு  விஜயம் மேற்கொண்டு ரஸ்ய இராணுவத்திற்கு மேலும்  ஏவுகணைகள் ஆளில்லாவிமானங்களை வழங்குவதற்கு இணங்கிய ஈரானிய குழுவில் மொக்பெர் இடம்பெற்றிருந்தார்என விடயமறிந்த வட்டாரங்கள் ரொய்ட்டருக்கு தெரிவித்துள்ளன.
+It is noteworthy that Ayatullah Ali Kaneni is the one who makes all the final decision on Iran.
 
-அணு அல்லது கண்டங்களிற்கு இடையிலான ஏவுகணைகள் தொடர்பிலான நடவடிக்கைகளில் ஈடுபட்டதாக தெரிவித்து 2010 இல் ஐரோப்பிய ஒன்றியம் மொக்பெருக்கு எதிராக தடைகளை விதித்தது - பின்னர் அந்த தடைகளை நீக்கியது.
+In 2021, Mogber was elected as the Vice President of Raisi.
+
+Mogberry was in the Iranian group, which visited Moscow last October and complied with the Russian army to deliver more missiles.
+
+In 2010, the European Union imposed sanctions against Mogberry in 2010, claiming that it was involved in missiles between nuclear or continents.
 
 ◼️
 
 [Data](articles/48e84ff5.json)
+
+[Extended Data](ext_articles/48e84ff5.ext.json)
 
 ---
 
@@ -318,21 +360,33 @@ Nine people, including President Ibrahim Raisi, were traveling in a helicopter, 
 
 ---
 
-### சகோதரியின் பெயரில் டென்மார்க் சென்று பிரஜாவுரிமை பெற்ற பெண் யாழில் கைது!
+### Denmark in the name of her sister
 
 *2024-05-20 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184013) · `ta`
 
-யாழ்ப்பாணத்தில் வசிக்கும் தனது சகோதரியின் பெயரில் கடவுசீட்டு மற்றும் வங்கி ஆவணங்களை போலியாக பெற்ற குற்றச்சாட்டில் டென்மார்க் பிரஜையை யாழ்ப்பாண பொலிஸார் நேற்று (19)  ஞாயிற்றுக்கிழமை கைது செய்துள்ளனர்.
+A Danish citizen was arrested in Jaffna for falsely claiming her sister's identity to obtain passports and open a bank account. The woman, who moved to Denmark in 2015, used her sister's name to apply for a passport but was denied one. Later, she opened a bank account in Jaffna under her sister's name using a fake passport. Her actions were discovered after her sister complained to the police, leading to her arrest.
 
-யாழ்ப்பாணத்தை பூர்வீகமாக கொண்டு தற்போது டென்மார்க் பிராஜவுரிமை பெற்று டென்மார்க்கில் வசிக்கும் 42 வயதுடைய பெண்ணொருவரே கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட பெண் கடந்த 2015ஆம் ஆண்டளவில் தனது சகோதரியின் பெயரில் போலியான கடவுசீட்டை பெற்று டென்மார்க் நாட்டிற்கு சென்றுள்ளார்.
+The Jaffna police have arrested the Denmark citizen on Sunday (19) on charges of false accusation of passports and bank documents in the name of his sister in Jaffna.
 
-யாழ்ப்பாணத்தில் வசித்த அவரது சகோதரி 2019ஆம் ஆண்டளவில் தனக்கு கடவுசீட்டு எடுப்பதற்காக விண்ணப்பித்த போது அவரது பெயரில் ஏற்கனவே கடவுசீட்டு விநியோகிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டு, அவருக்கு கடவுசீட்டு வழங்கப்படவில்லை. அதன் போதே தனது சகோதரி தனது பெயரில் கடவுசீட்டு எடுத்து வெளிநாடு சென்ற விடயம் தெரியவந்துள்ளது.
+A 42 -year -old woman has been arrested in Denmark, who is currently owned by Denmark, in Jaffna.
 
-...
+The arrested woman has gone to Denmark by receiving her sister's name in the name of her sister by 2015.
+
+When her sister, who lived in Jaffna, had already issued a passport in his name when she applied for a passport by 2019, he was not given a passport.. It was revealed that her sister had taken her passport in her name and went abroad.
+
+In this backdrop, a man from Denmark, who came to Denmark for the funeral of his mother in Jaffna last month, has started an bank account in Jaffna in the name of his sister using a fake passport.
+
+The sister who lives in Jaffna has lodged a complaint with the Jaffna police.
+
+According to the complaint, the police have arrested a woman of Denmark, a woman, and carried out investigations.
+
+◼️
 
 [Data](articles/9c8fdf3c.json)
+
+[Extended Data](ext_articles/9c8fdf3c.ext.json)
 
 ---
 
@@ -394,19 +448,25 @@ Lunugala Police are conducting further investigations to arrest him.
 
 ---
 
-### காசாவின் வடபகுதியில் செயற்பட்டுக்கொண்டிருந்த ஒரேயொரு மருத்துவமனையும் இஸ்ரேலிய படையினரின் முற்றுகையில் - பெரும் அவலம்
+### The only hospital operating in the northern part of Gaza is the siege of Israeli soldiers -
 
 *2024-05-20 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184023) · `ta`
 
-மருத்துவமனையை நோக்கி எறிகணை தாக்குதலை மேற்கொண்ட பின்னர் இஸ்ரேலிய படையினர் அந்த மருத்துவமனையை சுற்றிவளைத்துள்ளனர் என செய்தி நிறுவனங்கள் தெரிவித்துள்ளன.
+Israeli forces surround Gaza's sole northern hospital post-artillery attack, blocking entry for medical staff and patients, including those hurt in a nearby refugee camp assault.
 
-இஸ்ரேலிய படையினர் மருத்துவமனையை முற்றுகையிட்டுள்ளதன் காரணமாக  பொதுமக்களும் மருத்துவ சுகாதார பணியாளர்களும் மருத்துவமனைக்குள் நுழைவதற்கு வெளியே செல்வதற்கு முடியாத நிலை காணப்படுகின்றது.
+🟩
 
-சனிக்கிழமை ஜபாலியா அகதிமுகாம்மீது மேற்கொள்ளப்பட்ட தாக்குதலில் காயமடைந்த பலர் மருத்துவமனையில் சிகிச்சைக்காக இந்த மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Israeli soldiers have surrounded the hospital after they launched an artillery attack towards the hospital, news agencies said.
+
+The Israeli soldiers have been blocked by the hospital and the public and medical health workers are unable to enter the hospital.
+
+Many people who were injured in the attack on the Japaliya refugee on Saturday have been admitted to the hospital for treatment.
 
 ◼️
 
 [Data](articles/1df9db47.json)
+
+[Extended Data](ext_articles/1df9db47.ext.json)
 
 ---
 
@@ -442,21 +502,27 @@ Director General Superintendent of Police GJ Nandana, OIC Inspector Thilanga San
 
 ---
 
-### பிறந்தநாளில் யுவதிக்கு எமனாக வந்த இராணுவ வாகனம் - யாழில் சம்பவம் !
+### Military Vehicle
 
 *2024-05-20 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184019) · `ta`
 
-புத்தூர் வாதரவத்தையைச் சேர்ந்த 23 வயதுடைய சுதாகரன் சாருஜா என்ற யுவதியே உயிரிழந்துள்ளார்.
+In a tragic accident involving a military vehicle, Sudhakaran Saruja, aged 23, from Budhur Vadavattai, lost her life. Her sister, Yuvati, was also injured but succumbed to her injuries during transport to the hospital. The incident occurred near Veeravani junction on Budhur-Kanakambuliyadi road. Today marks what would have been Saruja's birthday.
 
-துவிச்சக்கர வண்டியில் பால் எடுத்து சென்ற வேளை, புத்தூர் - கனகம்புளியடி வீதியில் வீரவாணி சந்திக்கு அருகில் இராணுவ வாகனம் மோதியதில் யுவதி படுகாயமடைந்துள்ளார்.
+🟩
 
-படுகாயமடைந்த யுவதியை அங்கிருந்தவர்கள் மீட்டு வைத்தியசாலைக்கு கொண்டு சென்ற வேளை யுவதி உயிரிழந்துள்ளார்.
+Sudhakaran Saruja, a 23 -year -old from Budhur Vadavattai, has died.
 
-யுவதியின் சடலம் அச்சுவேலி பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. உயிரிழந்த யுவதியின் பிறந்ததினம் இன்றைய தினம் என்பது குறிப்பிடத்தக்கது.
+While she was taken to a bicycle, Yuvati was injured when a military vehicle crashed near Veeravani junction on Budhur - Kanakambuliyadi road.
+
+Yuvati died when she was taken to the hospital.
+
+The body of the woman is placed at the Achuveli Divisional Hospital. It is noteworthy that today's birthday is the birthday of the dead woman.
 
 ◼️
 
 [Data](articles/811b9ad9.json)
+
+[Extended Data](ext_articles/811b9ad9.ext.json)
 
 ---
 
@@ -495,6 +561,8 @@ The President told a forum in Colombo this month that Sri Lanka will sit out the
 ...
 
 [Data](articles/e68478f4.json)
+
+[Extended Data](ext_articles/e68478f4.ext.json)
 
 ---
 
@@ -596,19 +664,25 @@ Iran's President of Irabrahi was a helicopter accident in the country yesterday 
 
 ---
 
-### அனர்த்த முகாமைத்துவ பிரிவு விடுத்துள்ள எச்சரிக்கை !
+### Warning issued by the Disaster Management Division!
 
 *2024-05-20 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184009) · `ta`
 
-நாடு முழுவதும் தென்மேற்கு பருவமழை படிப்படியாக நிலைபெற்று வருவதால், தற்போது நிலவும் மழை மற்றும் காற்றுடன் கூடிய வானிலை மேலும் தொடரும் என யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+Sweltering Southwest monsoon rains are affecting Sri Lanka, causing strong winds and lightning. The Deputy Director urges caution and provides the emergency hotline 117 for assistance.
 
-நாட்டின் பெரும்பாலான பகுதிகளில் வானம் மேகமூட்டத்துடன் காணப்படும். நாட்டின் பல பகுதிகளில் அவ்வப்போது 30 முதல் 40 கிலோமீற்றர் வரை ஓரளவு பலத்த காற்று வீசக்கூடும்.
+🟩
 
-தற்காலிகமாக வீசும் பலத்த காற்று மற்றும் மின்னலினால் ஏற்படும் பாதிப்புகளை குறைத்துக்கொள்ள போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள். அனர்த்த முகாமைத்துவ பிரிவினை தொடர்புகொள்ள 117 என்ற அவசர தொலைபேசி இலக்கத்துக்கு அழைக்குமாறு கேட்டுக்கொண்டார்.
+Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the Southwest monsoon rains are gradually impairing the country.
+
+The sky is cloudy in most parts of the country. In many parts of the country, from time to time, 30 to 40 kilometers can blow some strong winds.
+
+The public is asked to take adequate precautions to reduce the impact of temporary blowing winds and lightning. He asked for an emergency telephone number 117 to contact the Disaster Management Section.
 
 ◼️
 
 [Data](articles/fb5c7d26.json)
+
+[Extended Data](ext_articles/fb5c7d26.ext.json)
 
 ---
 
@@ -632,17 +706,23 @@ Accordingly, the debate between the two leaders can be held on June 3, 4, 5, 6 o
 
 ---
 
-### காலநிலையால் ஏற்படும் அழிவுகளை தடுக்க வட துருவ நாடுகள்  நிதியளிக்க தயங்குகின்றன - நீர் உச்சிமாநாட்டில் ஜனாதிபதி
+### North polar countries are reluctant to finance the waters - President at the Water Summit
 
 *2024-05-20 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184016) · `ta`
 
-உக்ரேனில் ஏற்படும் உயிர் அழிவுகளுக்கு  நிதியளிக்க  தயாராக இருக்கும், உலகளாவிய வட, துருவ நாடுகள் காலநிலையால் ஏற்படும் அழிவுகளை தடுக்கும் நடவடிக்கைகளுக்கு நிதியளிக்க தயங்குவதாக 10 ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+At the 10th World Water Summit, President Wickremesinghe highlighted Sri Lanka's proposal for a 10% tax on global profits to combat tax evasion worth $1.4 trillion annually. He also discussed financing efforts for North and Polar nations amidst concerns over funding for Ukraine's recovery.
 
-உலகளாவிய வரி ஏய்ப்பு தொடர்பான சொத்துக்களின் வருடாந்த இலாபம் 1.4 டிரில்லியன் அமெரிக்க டொலர்களாக மதிப்பிடப்பட்டிருப்பதால், அந்த இலாபத்தின் மீது, காலநிலை மாற்ற நிதியத்திற்காக 10 சதவீத வரி விதிக்கும் யோசனையை இலங்கை முன்தொழிந்தருப்பதாக 10ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்வில் உரையாற்றிய ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe pointed out at the top session of the 10th World Water Summit, which is ready to finance the global North and Polar Nations, which are ready to fund the devastation in Ukraine.
+
+Speaking at the top session of the 10th World Water Summit, President Ranil Wickremesinghe said that Sri Lanka is proposing a 10 per cent tax on the profits, as the annual profit of global tax evasion is estimated at US $ 1.4 trillion.
 
 ◼️
 
 [Data](articles/02aefefb.json)
+
+[Extended Data](ext_articles/02aefefb.ext.json)
 
 ---
 
@@ -1989,6 +2069,8 @@ The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian 
 ...
 
 [Data](articles/008ff134.json)
+
+[Extended Data](ext_articles/008ff134.ext.json)
 
 ---
 

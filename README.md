@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 02:18:36**
+As of **2024-05-21 02:33:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,292 (100.0%) of 25,297 articles have been extended.
+25,297 (100.0%) of 25,297 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Netanyahu said in a statement that he rejected “with disgust The Hague prosecu
 ...
 
 [Data](articles/a2ef5221.json)
+
+[Extended Data](ext_articles/a2ef5221.ext.json)
 
 ---
 
@@ -78,6 +80,8 @@ Iran’s cabinet has also appointed Deputy Foreign Minister Ali Bagheri Kani as 
 
 [Data](articles/87302d13.json)
 
+[Extended Data](ext_articles/87302d13.ext.json)
+
 ---
 
 ### Mediwave earns global recognition at GLOMO Awards 2024 for Emergency Response HealthTech
@@ -91,6 +95,8 @@ Mediwave has transformed Sri Lanka’s national-level free pre-hospital emergenc
 ...
 
 [Data](articles/0415e32d.json)
+
+[Extended Data](ext_articles/0415e32d.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ Minister Semasinghe made this announcement during a press conference at the Pres
 ...
 
 [Data](articles/91c56fdd.json)
+
+[Extended Data](ext_articles/91c56fdd.ext.json)
 
 ---
 
@@ -167,6 +175,8 @@ But in the midst of the darkness, there is a silver lining. Social media platfor
 ...
 
 [Data](articles/af4bd2cb.json)
+
+[Extended Data](ext_articles/af4bd2cb.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 17:54:23**
+As of **2024-05-21 18:11:22**
 
 ## Newspaper Stats
 
-*Scraped **25,476** Articles*
+*Scraped **25,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,53 @@ adaderanalk | 2,941
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
 dailymirrorlk | 4,000
-adaderanasinhalalk | 4,075
+adaderanasinhalalk | 4,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,474 (100.0%) of 25,476 articles have been extended.
+25,476 (100.0%) of 25,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### විජයදාසගේ පෙත්සම යළි විභාගයට
+### පැතුම් නිස්සංකට හිමිවූ මුදල මෙන්න
+
+*2024-05-21 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196874) · `si`
+
+LPL තරගාවලියේ ක්‍රීඩක වෙන්දේසියේදී ශ්‍රී ලංකා සුපිරි පිතිකරු පැතුම් නිස්සංක ජැෆ්නා කණ්ඩායම මිලදීගනු ලැබීය.
+
+◼️
+
+[Data](articles/3f3ba2e7.json)
+
+---
+
+### Wijayadasa's petition again for examination
 
 *2024-05-21 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196873) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා වැඩ බලන මහලේකම් ලෙස කීර්ති උඩවත්ත පත්වීම නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් කොළඹ දිසා අධිකරණය හමුවේ ගොනුකර තිබෙන පැමිණිල්ලක් නිෂ්ප්‍රභ කරන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඉදිරිපත් කළ අභියාචනා පෙත්සම අද (21) බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණය හමුවේ යළි විභාගයට ගැනුණි.
+Wijayadasa Rajapaksa's appeal petition, regarding his appointment as SLFP Chairman, was heard by the High Court of Appeals. The case, initially dismissed by the Colombo District Court, was reconsidered due to legal issues with the complaint process. The court is expected to make a final decision tomorrow.
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් එම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
 
-එම පෙත්සම අද ගිහාන් කුලතුංග සහ ෆ්‍රෑන්ක් ගුණවර්ධන යන මහත්වරුන්ගෙන් සමන්විත සිවිල් අභියාචනා මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ යළි කැඳවනු ලැබීය.
+MP Duminda Dissanayake as the Chairman of the Sri Lanka Freedom Party (SLFP) as the Chairman of the Sri Lanka Freedom Party (SLFP) as a decision filed by MP Keerthi Udawatta as a verdict on a decision filed by the Colombo District Court today (21)The Western Province civil Appeal was taken back to the High Court.
 
-කුවේර ද සොයිසා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් කොළඹ දිසා අධිකරණය හමුවේ ගොනු කර තිබූ පෙත්සමේ විත්තිකරුවන් ලෙස නම් කර සිටි නිමල් සිරිපාල ද සිල්වා සහ මහින්ද අමරවීර යන අය කොළඹ දිසා අධිකරණ බලසීමාවේ පදිංචිකරුවන් නොවන බව දිසා විනිසුරුවරයා විසින් තීරණය කිරීම නිසා එම පැමිණිල්ලෙන් ඉල්ලා තිබූ වාරණ නියෝග නිකුත් කිරීම ප්‍රතික්ෂේප කළ බවත් පෙන්වා දුනි.
+The Court of Justice Wijayadasa Rajapaksa had presented the appeal petition.
+
+The petition was recalled before the High Court of Appeals, Gihan Kulathunga and Frank Gunawardena today.
+
+Mr. Kulera de Zoysa has decided to be the accused by the District Judge and Mahinda Amaraweera, who was filed before the Colombo District Court, was not residents of the Colombo District Court.He pointed out that it was refused.
+
+The President's Counsel has pointed out that the District Judge has completely contracted the law to permit the amendment of the complaint without rejecting the complaint.
 
 ...
 
 [Data](articles/24e31a23.json)
+
+[Extended Data](ext_articles/24e31a23.ext.json)
 
 ---
 
@@ -73,6 +93,8 @@ Singapore's Transport Minister Chee Hong Tat said the government would provide a
 ...
 
 [Data](articles/209cbd19.json)
+
+[Extended Data](ext_articles/209cbd19.ext.json)
 
 ---
 
@@ -2339,23 +2361,5 @@ The police have also been able to find several golden items.
 [Data](articles/db9845d7.json)
 
 [Extended Data](ext_articles/db9845d7.ext.json)
-
----
-
-### ’We will not allow anyone to harm India’s security’: Ali Sabry
-
-*2024-05-21 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-will-not-allow-anyone-to-harm-Indias-security-Ali-Sabry/108-283041) · `en`
-
-Colombo, May 21 (ANI): Sri Lankan Foreign Minister Ali Sabry affirmed his country's commitment to safeguarding India's national security interests on Monday, stating that Colombo, as a responsible neighbour, will not allow anyone to harm India's security.
-
-The Minister also addressed India's concerns regarding the visits of Chinese research vessels to the island nation, saying that they would like to work with other countries in a transparent manner but not at the cost of others.
-
-"We have very clearly stated that we would like to work with all countries, but any reasonable concerns regarding Indian security will be taken into note, and we will not allow anyone to harm that. Subject to that, of course, in a very transparent manner, we would like to work with all countries," the Minister said in an interview with ANI.
-
-...
-
-[Data](articles/923f82ce.json)
-
-[Extended Data](ext_articles/923f82ce.ext.json)
 
 ---

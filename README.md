@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 16:04:45**
+As of **2024-05-21 16:18:40**
 
 ## Newspaper Stats
 
-*Scraped **25,453** Articles*
+*Scraped **25,455** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 227
-bbccomsinhala | 256
+bbccomsinhala | 257
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,182
-adaderanalk | 2,938
+adaderanalk | 2,939
 tamilmirrorlk | 2,973
 virakesarilk | 3,851
 dailymirrorlk | 3,997
@@ -26,29 +26,49 @@ adaderanasinhalalk | 4,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,448 (100.0%) of 25,453 articles have been extended.
+25,453 (100.0%) of 25,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### நோர்வே துதூதுவர் தனது இலங்கைக்கான விஜயத்தின் போது ஜனாதிபதி மற்றும் அரசியல் கட்சிகளின் தலைவர்களை சந்தித்துள்ளார்
+### Mourners begin days of funerals for Iran’s president and others killed in helicopter crash
+
+*2024-05-21 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99360/mourners-begin-days-of-funerals-for-irans-president-and-others-killed-in-helicopter-crash) · `en`
+
+Mourners in black began gathering Tuesday for days of funerals and processions for Iran’s late president, foreign minister and others killed in a helicopter crash, a government-led series of ceremonies aimed at both honoring the dead and projecting strength in an unsettled Middle East.
+
+For Iran’s Shiite theocracy, mass demonstrations have been crucial since millions thronged the streets of Tehran to welcome Grand Ayatollah Ruhollah Khomeini in 1979 during the Islamic Revolution, and also attended his funeral 10 years later. An estimated 1 million turned out in 2020 for processions for the late Revolutionary Guard Gen. Qassem Soleimani, who was slain in a U.S. drone strike in Baghdad.
+
+...
+
+[Data](articles/29ab31e6.json)
+
+---
+
+### Norwegian Duda has met with the president and political parties during his visit to Sri Lanka
 
 *2024-05-21 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184145) · `ta`
 
-இலங்கை மற்றும் இந்தியாவுக்கான நோர்வே தூதுவர் மேன்மைதங்கிய மே-எலின் ஸ்டெனர் மே 02 முதல் 09 வரை இலங்கைக்கு விஜயம் செய்திருந்தார்.
+Norwegian Ambassador Ein Stener Strengthening Ties: During his visit to Sri Lanka, Ambassador Ein Stener met with President Ranil Wickremesinghe, External Affairs Minister Ali Sabri, and other key figures. Discussions focused on enhancing bilateral ties, Norway's investment growth, tourism influx, and cooperation in renewable energy and economic reforms. The visit underscored Norway's dedication to fostering closer relations with Sri Lanka.
 
-நோர்வே மற்றும் இலங்கை இடையில் இருதரப்பு பிணைப்புக்களை மேலும் வலுப்படுத்துவதில் இவ்விஜயம் முக்கிய இடம்பிடித்துள்ளது.
+🟩
 
-இலங்கை ஜனாதிபதி அதிமேதகு ரணில் விக்கிரமசிங்க, வெளிவிவகார அமைச்சர்  அலி சப்ரி, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க மற்றும் தமிழ் தேசிய கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் உள்ளிட்ட முக்கிய தலைவர்களுடன் காத்திரமான உரையாடல்களில் தூதுவர் ஸ்டெனர் ஈடுபட்டார்.
+Norwegian Ambassador to Sri Lanka and India visited Sri Lanka from May 2 to 9 from May-Ein Stener.
 
-ஜனாதிபதி விக்கிரமசிங்கவுடனான சந்திப்பின் போது, இலங்கையில் நோர்வே முதலீடுகள் மற்றும் அபிவிருத்திச் செயற்பாடுகளின் பாராட்டத்தக்க வளர்ச்சி தொடர்பில் தூதுவர் ஸ்டெனருக்கு விளக்கமளிக்கப்பட்டது.
+The genius has been prominent in strengthening bilateral bonds between Norway and Sri Lanka.
 
-பல்வேறு துறைகளில் பரஸ்பர நலன்களின் முக்கியத்துவத்தை வலியுறுத்தி, இரு நாடுகளுக்கும் இடையில் நெருக்கமான கூட்டுறவைப் பேணுவதில் தமது அர்ப்பணிப்பை இரு தரப்பினரும் மீளவும் சுட்டிக்காட்டினர்.
+Sri Lankan President Ranil Wickremesinghe, External Affairs Minister Ali Sabri, Opposition Leader Sajith Premadasa, National People's Power Leader Anura Kumara Dissanayake and Tamil National Alliance MP MA. Ambassador Stener was involved in a brief conversation with prominent leaders, including Sumanthiran.
+
+During the meeting with President Wickremesinghe, the Ambassador was briefed on the admirable development of Norway investments and development activities in Sri Lanka.
+
+Both sides re -pointed out their commitment to maintaining close cooperation between the two countries, emphasizing the importance of mutual interests in various fields.
 
 ...
 
 [Data](articles/0aef1939.json)
+
+[Extended Data](ext_articles/0aef1939.ext.json)
 
 ---
 
@@ -69,6 +89,8 @@ Dr. Kumara emphasized the need for vaccination to control the disease but noted 
 ◼️
 
 [Data](articles/cc064856.json)
+
+[Extended Data](ext_articles/cc064856.ext.json)
 
 ---
 
@@ -120,6 +142,8 @@ In a statement, the embassy said it has noted increased external pressure on Sri
 
 [Data](articles/44eca0d1.json)
 
+[Extended Data](ext_articles/44eca0d1.ext.json)
+
 ---
 
 ### Sri Lankan ambassador to China Majintha Jayesinghe assumes duties
@@ -137,6 +161,8 @@ Jayesinghe is a career diplomat who joined the Sri Lanka Foreign Service in 1998
 ...
 
 [Data](articles/da04fde7.json)
+
+[Extended Data](ext_articles/da04fde7.ext.json)
 
 ---
 
@@ -292,17 +318,23 @@ The judiciary of Sajith Premadasa, General Secretary of the President and the le
 
 ---
 
-### මැයි 24, 25 ජනපති උතුරේ
+### President in the North
 
 *2024-05-21 14:57:03* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-24--25-ජනපති-උතුරේ/11-409765) · `si`
 
-මෙම මස 24 හා 25 යන දෙදින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උතුරු පළාතේ සංවර්ධන ක්‍රියාදාමයන් පිළිබදව සොයා බැලීම සදහා සංචාරයක නිතර වීමට නියමිතය.
+Ranil Wickremesinghe, President, will tour the Northern Province's development projects on the 24th and 25th. The event is hosted by Minister Douglas Devananda, highlighting efforts to boost the region.
 
-මේ සදහා පුර්ව සුදානම් කිරීමක් අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාගේ ප්‍රධානත්වයෙන් උතුරු පළාත් ආණ්ඩුකාර පී.එස්.එම් චාල්ස් මහත්මියගේ හා රජයේ නිලධාරීන්ගේ සහභාගීත්වයෙන් යාපනය දිසාපති කාර්යාලයේදී පැවැත්විණි.
+🟩
+
+President Ranil Wickremesinghe will visit the Northern Province development processes on the 24th and 25th of this month.
+
+Minister of Ministers Douglas Devananda was held under the patronage of Minister Douglas Devananda, Minister of Northern Province.
 
 ◼️
 
 [Data](articles/6d10f324.json)
+
+[Extended Data](ext_articles/6d10f324.ext.json)
 
 ---
 
@@ -2016,6 +2048,24 @@ In addition, 75 millimeters of rainfall in Madambe area in the Puttalam district
 
 ---
 
+### බොල්ටිමෝර් පාලම කඩා වැටීම: මාස දෙකකට පසු නෞකාව ඉවත් කෙරේ
+
+*2024-05-21 09:21:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckmmnez58rjo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, බොල්ටිමෝර් පාලම කඩා වැටීම: මාස දෙකකට පසු නෞකාව ඉවත් කෙරේ.
+
+එක්සත් ජනපදයේ බොල්ටිමෝර් හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ හි ගැටීමෙන් මාස දෙකකට ආසන්න කාලයකට පසු ඩාලි භාණ්ඩ ප්‍රවාහන නෞකාව ඉවත් කිරීමට කාර්ය මණ්ඩලය ටග් යාත්‍රා භාවිතා කළහ.
+
+මාර්තු 26 වැනිදා නෞකාව අනතුරට පත් වූ අතර පාලම කඩා වැටීමෙන් ඉදිකිරීම් කම්කරුවන් හය දෙනෙකු මිය ගියේය.
+
+අඩි 948 (මීටර් 289) දිග නෞකාවට යාත්‍රා කිරීමට ඉඩ සැලසීම සඳහා පසුගිය සතියේ සැලසුම් කළ ක්‍රියාවලියක් තුළින් පාලමේ ඉතිරි කොටස් කඩා ඉවත් කෙරුණි.
+
+◼️
+
+[Data](articles/76bc0b09.json)
+
+---
+
 ### Matara Prison inmate dies of suspected brain fever
 
 *2024-05-21 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99350/matara-prison-inmate-dies-of-suspected-brain-fever) · `en`
@@ -2319,49 +2369,5 @@ In December, there were brain fever cases last December, several deaths were kil
 [Data](articles/d4f6fc1f.json)
 
 [Extended Data](ext_articles/d4f6fc1f.ext.json)
-
----
-
-### Heavy showers expected to continue in parts of the island
-
-*2024-05-21 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99348/heavy-showers-expected-to-continue-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says the Southwest monsoon conditions are gradually establishing over the island and hence, the prevailing showery and windy conditions will continue.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
-
-Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Several spells of showers will also occur in the Northern and North-central provinces, it said.
-
-Strong winds about 40-50 kmph can be expected at times over the island.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0da1bb69.json)
-
-[Extended Data](ext_articles/0da1bb69.ext.json)
-
----
-
-### France optimistic about conclusion of Sri Lanka’s debt restructuring very fast
-
-*2024-05-21 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/France-optimistic-about-conclusion-of-Sri-Lankas-debt-restructuring-very-fast/108-283018) · `en`
-
-French Ambassador Jean-François Pactet expressed optimism yesterday that Sri Lanka’s debt restructuring process could be concluded ‘very fast’ but declined to elaborate on more details
-
-France is the chair of the Paris Club of Nations, responding to Sri Lanka’s request for debt treatment. Under it, the Official Creditor Committee (OCC), co-chaired by India, Japan and France, has been appointed.
-
-Making his remarks during a roundtable discussion with journalists, diplomats and think-tank personalities, the ambassador sounded optimistic about the early conclusion of debt restructuring in response to a question.
-
-Asserting that China, as a bilateral creditor, is dealing with Sri Lanka separately on debt restructuring, he said China is in the loop about the OCC process as an observer. He stressed the need for comparable treatment of debt with all the creditors.
-
-...
-
-[Data](articles/0d5ac2cd.json)
-
-[Extended Data](ext_articles/0d5ac2cd.ext.json)
 
 ---

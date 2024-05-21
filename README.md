@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 08:34:00**
+As of **2024-05-21 08:52:50**
 
 ## Newspaper Stats
 
-*Scraped **25,348** Articles*
+*Scraped **25,354** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 227
-bbccomsinhala | 254
+bbccomsinhala | 255
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
-adalk | 2,170
+adalk | 2,172
 adaderanalk | 2,926
 tamilmirrorlk | 2,960
 virakesarilk | 3,830
 dailymirrorlk | 3,980
-adaderanasinhalalk | 4,048
+adaderanasinhalalk | 4,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,347 (100.0%) of 25,348 articles have been extended.
+25,348 (100.0%) of 25,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### බස්නාහිර පළාතේ සෞඛ්‍ය වර්ජනය අද
+
+*2024-05-21 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196847) · `si`
+
+පළාත් මට්ටමින් ක්‍රියාත්මක වෘත්තීය සමිති ක්‍රියාමාර්ගයේ බස්නාහිර පළාත් වැඩ වර්ජනය අද (21) දිනයේ ක්‍රියාත්මක කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+
+එම සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා සඳහන් කළේ, අද පෙරවරු 08 සිට දහවල් 12 දක්වා පැය 04ක කාලයක් මෙම වැඩවර්ජනය ක්‍රියාත්මක වන බවය.
+
+◼️
+
+[Data](articles/f50628ee.json)
+
+---
+
+### ජනපති රනිල් සහ ඉන්දුනීසියානු ජනපති අතර හමුවක්
+
+*2024-05-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196846) · `si`
+
+ඉන්දුනිසියාවේ බාලි අගනුවර පැවත්වෙන 10 වැනි ලෝක ජල සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දුනිසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ මහතා අතර නිල හමුවක් පවත්වා තිබේ.
+
+ඊයේ (20) පස්වරුවේ දෙරටේ රාජ්‍ය නායකයින් අතර මෙම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට මෙහිදී නායකයන් ප්‍රතිඥා දුන් අතර, දෙරට අතර ආර්ථික සහයෝගීතාව වර්ධනය කර ගැනීමට ද විශේෂ අවධානයක් යොමුව තිබේ.
+
+එමෙන්ම කලාපීය සහ ජාත්‍යන්තර කටයුතු පිළිබඳවද නායකයන්ගේ අවධානය යොමු වූ අතර ගෝලීය අභියෝගවලට මුහුණදීමේදී දෙරට අතර සහයෝගීතාවයේ වැදගත්කම ද අවධාරණය කර ඇති බව සඳහන්ය.
+
+1956 දී පැවති බැන්ඩුන්ග් සමුළුවට සහභාගිවීම දක්වා පැවැත්වෙන ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතාව සිහිපත් කරමින් සිය අදහස් දැක්වීම ආරම්භ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෝලීය සහයෝගීතාව වර්ධනය කිරීමේදී එවැනි සමුළුවල පවතින වැදගත්කම ද පැහැදිලි කර තිබේ.
+
+...
+
+[Data](articles/5b501a03.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට සුළු ගංවතුර තත්ත්වයක්
+
+*2024-05-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196845) · `si`
+
+පවතින වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් කළු ගඟේ කුඩා ගඟ උප ද්‍රෝණිය පිටාර මට්ටමට පැමිණ ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+මේ හේතුවෙන් ඉදිරි පැය 48 දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල සහ පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ප්‍රදේශවලට සුළු ගංවතුර අවදානමක් පවතින බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+ඊට අමතරව අත්තනගලු ඔය ද්‍රෝණියේ ජල මට්ටම ද ඉදිරි පැය 48 දක්වා වූ කාලයේ ඉහළ යාමත් සමග දිවුලපිටිය, මීරිගම, අත්තනගල්ල, මහර, ගම්පහ, මිනුවන්ගොඩ, ජාඇල, කටාන සහ වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාශවල පහත්බිම් ගංවතුර අවදානමට ලක්ව තිබේ.
+
+මේ අතර පවතින වැසි සහිත කාලගුණික තත්ත්වයත් සමග දිස්ත්‍රික්ක 08කට බලපෑම් එල්ල වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/24b6526b.json)
+
+---
 
 ### Fatal accidents kills 5 lives
 
@@ -762,6 +814,28 @@ To build an entrepreneurial culture, it is necessary to fundamentally alter tra
 
 ---
 
+### පාවෙන සූර්ය බලාගාර : 'ඇඹිලිපිටිය පාලනය කරන්නේ සුනිත්‍ය බලශක්ති අධිකාරියයි, කොරියන් සමාගමකුයි ද?'
+
+*2024-05-21 02:05:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqvvelpl3n1o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ධීවරයන්ට, ගොවීන්ට සහ ජල පාරිභෝගිකයන්ට සිදුවිය හැකි බලපෑම ගැන ජනතාව මානව හිමිකම් කොමිසමට ද පැමිණිලි කළහ.
+
+පාවෙන සූර්ය බලාගාර : 'ඇඹිලිපිටිය පාලනය කරන්නේ සුනිත්‍ය බලශක්ති අධිකාරියයි, කොරියන් සමාගමකුයි ද?'
+
+ඇඹිලිපිටිය, චන්ද්‍රිකා වැවේ සහ සෙවනගල, කිරිඉබ්බන් වැවේ පාවෙන සූර්ය බලාගාර ඉදිකිරීමේ නියමු ව්‍යාපෘතිය මේ වසරේ ජූලි නිම කිරීමට අපේක්ෂා කරන බව විදුලිබල අමාත්‍යවරයා සිය ෆේස්බුක් ගිණුම ඔස්සේ පවසා තිබේ.
+
+කොරියානු රජයේ මුල්‍යාධාර සහ තාක්ෂණික සහය මත ක්‍රියාත්මක මේ නියමු ව්‍යාපෘතිය සඳහා කැබිනට් අනුමැතිය හිමිව ඇත.
+
+නමුත් ජාතික පාරිසරික පනත අනුව මූලික අවසරයන් ගෙන නොමැති බවත්, බදු ගිවිසුම නීති විරෝධී බවත් ඉඩම් හා කෘෂිකර්ම ප්‍රතිසංස්කරණ ව්‍යාපාරයේ සජීව චාමිකර BBC සිංහල සේවයට පැවසුවේය.
+
+මෙමගින් ධීවරයන්ට, ගොවීන්ට සහ ජල පාරිභෝගිකයන්ට සිදුවිය හැකි බලපෑම ගැන ජනතාව මානව හිමිකම් කොමිසමට ද පැමිණිලි කළහ.
+
+◼️
+
+[Data](articles/fcf1edfe.json)
+
+---
+
 ### ICC prosecutor seeks arrest of Israeli PM Netanyahu and Hamas leader
 
 *2024-05-21 02:03:09* · [`dailyftlk`](https://www.ft.lk/news/ICC-prosecutor-seeks-arrest-of-Israeli-PM-Netanyahu-and-Hamas-leader/56-762037) · `en`
@@ -1008,23 +1082,29 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 
 ---
 
-### ’உலக வட துருவ நாடுகள் தோல்வியடைந்துள்ளன’
+### World North Polar Nations
 
 *2024-05-21 01:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வட-துருவ-நாடுகள்-தோல்வியடைந்துள்ளன/175-337613) · `ta`
 
-உக்ரைனில் ஏற்படும் உயிர் அழிவுகளுக்கு நிதியளிக்க தயாராக இருக்கும், உலகளாவிய வட துருவ நாடுகள் காலநிலையால் ஏற்படும் அழிவுகளை தடுக்கும் பணிகளுக்கு நிதியளிக்க பின்வாங்குவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+At the 10th World Water Summit in Bali, President Ranil Wickremesinghe criticized Global North Polar Nations for being willing to fund conflicts but not climate change mitigation efforts. He highlighted the urgent need for financial support to combat climate-induced water threats, contrasting with their reluctance towards such investments.
 
-இந்தோனேசியா, பாலி சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்றுவரும் 10 ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்விலேயே ஜனாதிபதி நேற்று இதனை வலியுறுத்தினார்.
+🟩
 
-10 ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்வு நேற்று காலை இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோ தலைமையில் நடைபெற்றது. இதில் உலக நாடுகள் பலவற்றின் தலைவர்கள், சம்பந்தப்பட்ட அமைச்சர்கள் மற்றும் சிறப்பு பிரதிநிதிகள் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
+President Ranil Wickremesinghe pointed out that the Global North Polar Nations, which are ready to finance the life -threatening of Ukraine, will withdraw funds to prevent the destruction of the climate.
 
-உச்சி மாநாட்டில் கலந்து கொண்ட அரச தலைவர்கள் உள்ளிட்ட பிரதிநிதிகளை இந்தோனேசிய ஜனாதிபதி சிநேகபூர்வமாக வரவேற்றார்.
+The President stressed this yesterday at the top session of the 10th World Water Summit at the Bali International Conference Hall in Indonesia.
 
-காலநிலை மாற்றத்தால் நீர் மூலங்களுக்கு ஏற்படும் அச்சுறுத்தல்களை எதிர்த்துப் போராடுவதற்கு பாரிய நிதி வசதிகள் தேவைப்படுகின்றன.
+The top session of World Water Summit was held yesterday morning under the leadership of Indonesian President Joko Widodo. It was attended by many leaders, including the leaders of the world, the ministers and the special representatives.
+
+Indonesian President's friendly welcomed representatives, including heads of state, who attended the summit.
+
+Climate change requires massive financial facilities to fight threats to water sources.
 
 ...
 
 [Data](articles/8f0f409d.json)
+
+[Extended Data](ext_articles/8f0f409d.ext.json)
 
 ---
 
@@ -1596,6 +1676,22 @@ The countries like Iranian Syria and Lebanon have also declared national mournin
 
 ---
 
+### ඩයනා නිවසින් අතුරුදන් බව රහස් පොලීසිය අධිකරණයට කියයි
+
+*2024-05-20 20:55:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නිවසින්-අතුරුදන්-බව-රහස්-පොලීසිය-අධිකරණයට-කියයි/11-409754) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය ඇගේ නිවසින් අතුරුදන් ව ඇති බව රහස් පොලීසිය කළ දැනුම් දීමක් සලකා බැලූ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඇය අධිකරණයට ඉදිරිපත් කිරීමට අවශ්‍ය කටයුතු කරන ලෙස රහස් පොලීසියට ඊයේ (20දා) නියම කළේය.
+
+ව්‍යාජ තොරතුරු ආගමන විගමන පාලකවරයා වෙත ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිද්ධියට අදාළ නඩුවේ සැකකාරියක් ලෙස හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය නම් කරමින් එසේ නියම කළ මහේස්ත්‍රාත්වරයා සිද්ධියට අදාළව කරන විමර්ශනෙවල ප්‍රගතිය වාර්තා කිරීමටද රහස් පොලීසියට නියම කළේය.
+
+සමාජ ක්‍රියාකාරිකයකු වන ඕෂල හේරත් මහතා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කළ ශ්‍රේෂ්ඨාධිකරණය ඩයනා ගමගේ මහත්මිය දැරූ පාර්ලිමේන්තු ධුරය අහෝසි කළ අතර, පසුව රහස් පොලීසිය කළ ඉල්ලීමකට අනුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඇයට රටින් පිටවීම තහනම් කරමින් නියෝගයක් නිකුත් කළේය.
+
+...
+
+[Data](articles/7a256cd2.json)
+
+---
+
 ### Mourning tomorrow
 
 *2024-05-20 20:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-துக்கதினம்/175-337607) · `ta`
@@ -1912,6 +2008,24 @@ The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara
 
 ---
 
+### ඖෂධ ජාවාරම සම්බන්ධයෙන් ජාත්‍යන්තර පරීක්ෂණයක් ඉල්ලයි
+
+*2024-05-20 19:48:28* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ජාවාරම-සම්බන්ධයෙන්-ජාත්‍යන්තර-පරීක්ෂණයක්-ඉල්ලයි/11-409748) · `si`
+
+මෙරට සිදුවූ ප්‍රමිතියෙන් තොර  ඖෂධ ජාවාරම සම්බන්ධයෙන්  ජාත්‍යන්තර පරීක්ෂණයක් සිදු කරන ලෙසට ඊයේ(20) ලෝක සෞඛ්‍ය සංවිධානයෙන් ඉල්ලා  සිටි බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තිය සමිතිය සදහන් කරයි
+
+2022 හා 2023 වසර වලිදි ෙප්‍රමිතියෙන් තොර  ඹෟෂධ ගෙන්විම හා ලෝක සෞඛ්‍ය සංවිධානයේ රෙගුලාසි උල්ලංඝනය කරමින් ඹෟෂධ ගෙන්වීමට කටයුතු කර තිබෙන බවත් මේ පිලිබද පසුගිය දා එලි දැක්වු විගණන වාර්තාවකින් පවා හෙලි කර තිබෙන බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් කළේය
+
+මේ අනුව අදාල විගණන වාර්තවේ පිටපත් ද ඇතුලත්ව මෙම පැමිණිල්ල ලෝක සෞඛ්‍ය සංවිධානයේ ශ්‍රි ලංකා කාර්යාලයට භාර දිමට කටයුතු කල බවද පවසා සිටියේය
+
+අදාල විගණන වාර්තාව මගින් මෙම ක්‍රියාවන්ට වගකිව යුතු පිරිස්වල නම් පවා හෙලි කර තිබෙන බවත් මේ නිසා වැරදි කරුවන්ට නිතිය ක්‍රියාත්මක කල යුතුව තිබෙන බවද සදහන් කලේය.
+
+◼️
+
+[Data](articles/f8b925fc.json)
+
+---
+
 ### A large number of inclement weather suffering
 
 *2024-05-20 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196833) · `si`
@@ -2057,149 +2171,5 @@ Defense Minister of State for Defense Bandara, Senior Advisor to the National Se
 [Data](articles/7d6e748e.json)
 
 [Extended Data](ext_articles/7d6e748e.ext.json)
-
----
-
-### Banning for the leader and the secretary in response
-
-*2024-05-20 19:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவருக்கும்-பதில்-செயலாளருக்கும்-தடை/175-337604) · `ta`
-
-Colombo Chief District Magistrate Sandhwitha issued an injunction, allowing Vijayadasa Rajapaksa as SLFP leader and Keerthi Udawatta as Secretary General, pending party's response to Duminda Dissanayake's complaint. The order aims to prevent disruption of party activities.
-
-🟩
-
-Colombo Chief District Magistrate Sandhwitha has issued an injunction order to implement Minister Vijayadasa Rajapaksa as the leader of the Sri Lanka Freedom Party (SLFP) and the appointment of Keerthi Udawatta as the Secretary General of the Reply.
-
-The ban was issued only after the party's response was considering the amended complaint filed by Duminda Dissanayake.
-
-The District Magistrate has issued an interim injunction not to disrupt the party's activities.
-
-◼️
-
-[Data](articles/3f9cc57d.json)
-
-[Extended Data](ext_articles/3f9cc57d.ext.json)
-
----
-
-### Medal to Indika at World Championsen Pura Athletics Championship
-
-*2024-05-20 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196832) · `si`
-
-Indika Gamage secured a bronze medal in the World Para Athletics Championship in Japan, clocking 11.83 seconds. This marks Sri Lanka's first medal in the championship this year, with South Africa taking gold.
-
-🟩
-
-Indika Gamage won a bronze medal today (20) at the World Championships in Japan.
-
-The event won the Indika bronze medal of 11.83 seconds.
-
-The gold medal was won by a match of a South Africa and a silver medal.
-
-This is the first medal of Sri Lanka in the World Parath Winner Championship this year.
-
-◼️
-
-[Data](articles/6f095b35.json)
-
-[Extended Data](ext_articles/6f095b35.ext.json)
-
----
-
-### All schools in Puttalam District closed tomorrow 21
-
-*2024-05-20 18:50:04* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලම-දිස්ත්‍රික්කයේ-සියලු-පාසල්-හෙට-21-දිනයේද-වැසේ/11-409744) · `si`
-
-Due to floods in Puttalam District, all schools are closed tomorrow. The Education Director announced this closure, affecting government schools.
-
-🟩
-
-North Western Provincial Director of Education is not open to the Puttalam District to be commenced today.. it. M. P.Ms. Jayatilleke has issued a special announcement.
-
-Accordingly, all government schools will not be held in the Puttalam District and that the Education Director is informed that the date of commences on the 21st tomorrow.
-
-Floods have taken place in the Puttalam district and the floods of maragamuwa have also been interrupted.
-
-◼️
-
-[Data](articles/f5ba26bb.json)
-
-[Extended Data](ext_articles/f5ba26bb.ext.json)
-
----
-
-### Two crucial bills to parliament on 22
-
-*2024-05-20 18:41:59* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකයට-තීරණාත්මක-පනත්-දෙකක්-22-දා-පාර්ලිමේන්තුවට/11-409743) · `si`
-
-On May 22, Sri Lanka's government plans to present two pivotal bills: the "Economic Transformation of the Economy Bill," aimed at stabilizing the economy post-collapse and fostering growth, and the "Fiscal Management Bill," part of a joint program with the IMF to maintain financial stability and prevent economic crises. Both bills address critical aspects of the country's economic strategy, including international trade, legal reforms, and establishing the National Productivity Commission to enhance competitiveness.
-
-🟩
-
-"Economic Translation of Economic Translation" and "Fundamental Management Bill"
-
-Acting Minister of Finance Shehan Semasinghe said that the government has planned to submit two crucial bills to Parliament on May 22.
-
-Accordingly, the "Economic Translation of the Economy Transformation Bill" and the country's financial management of the country will be presented to maintain optimal vita, "he said."
-
-Acting Finance Minister Shehan Semasinghe said this was a press conference held at the Presidential Media Center today (20).
-
-Acting, Acting Finance Minister Shehan Semasinghe said:
-
-The government has planned to submit two very important bills to the Sri Lankan economy on May 22. One bill is the "Economic Transformance Law" (Economic Transformance Law). This Bill was not proposed by the IMF. It should be said that it is a bill presented by President Ranil Wickremesinghe. The collapse economy in the past has brought stability. It also wants to protect that situation.
-
-...
-
-[Data](articles/5a2b5078.json)
-
-[Extended Data](ext_articles/5a2b5078.ext.json)
-
----
-
-### Re -explanation for 8 suspects including Keheliya Rambukwella!
-
-*2024-05-20 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184075) · `ta`
-
-Eight suspects, including ex-health minister Keheliya Rambukwella, have been ordered by the court to appear by June 3rd, following ongoing investigations into a substandard drug import case.
-
-🟩
-
-The court has ordered the eight suspects, including former health minister Keheliya Rambukwella, until June 3.
-
-The order was issued at the Magistrate's Court on Monday, the 20th.
-
-It is noteworthy that eight suspects, including former health minister Keheliya Rambukwella, continued to be interrogated in the case of a substandard human immunoglobulin drug import incident.
-
-◼️
-
-[Data](articles/a05c5304.json)
-
-[Extended Data](ext_articles/a05c5304.ext.json)
-
----
-
-### New tax proposed to the President
-
-*2024-05-20 18:30:27* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලෝකයටම-යෝජනා-කළ නව-බද්ද/11-409742) · `si`
-
-At the 10th World Water Conference in Bali, President Ranil Wickremesinghe criticized the global reluctance to fund climate change solutions despite supporting Ukraine. He highlighted the $1.4 trillion annual profit from global tax evasion. The summit aims to unite nations for efficient water strategies, sharing best practices every three years.
-
-🟩
-
-President Ranil Wickremesinghe stated that the global part of the global willingness to fund the death and destruction of Ukraine, but it is reluctant to fund the death and destruction measures caused by climate change.
-
-The President was addressing the top 10 World Water Conference of the 10th World Water Conference which was launched today (20) at the Bali International Conference Hall.
-
-The President added that the annual profit of assets relating to global tax evictions had been estimated to be US $ 1.4 trillion.
-
-Under the theme of "Water for Collective Prosperity", the World Water Summit has started in Bali on May 18, and World State leaders, experts, scholars, entrepreneurs, entrepreneurs, entrepreneurs, entrepreneurs and policy patterns.
-
-The aim of the conference is to align the various nationalities worldwide for the efficient and united strategies to ensure water.
-
-...
-
-[Data](articles/255e0440.json)
-
-[Extended Data](ext_articles/255e0440.ext.json)
 
 ---

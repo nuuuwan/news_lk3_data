@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 10:52:06**
+As of **2024-05-21 11:03:48**
 
 ## Newspaper Stats
 
-*Scraped **25,373** Articles*
+*Scraped **25,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,174
-adaderanalk | 2,929
+adaderanalk | 2,930
 tamilmirrorlk | 2,962
 virakesarilk | 3,833
 dailymirrorlk | 3,983
@@ -26,39 +26,71 @@ adaderanasinhalalk | 4,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,369 (100.0%) of 25,373 articles have been extended.
+25,373 (100.0%) of 25,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### බිරිඳ ව ඝාතනය කළ නරුම සැමියා සියල්ල වමාරයි
+### Flood warnings issued for low-lying areas of several river basins
+
+*2024-05-21 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99352/flood-warnings-issued-for-low-lying-areas-of-several-river-basins-) · `en`
+
+The Irrigation Department has issued ‘Amber’ flood warnings for low-lying areas of the Attanagalu Oya river basin and the Kuda Ganga sub basin of Kalu River, effective until 9.00 p.m. tomorrow (22).
+
+It states that a considerable rainfall has occurred in upstream catchment areas of Kuda Ganga sub basin of Kalu River as of 9.00 p.m. last night.
+
+By analyzing the current rainfall situation and river water levels of Hydrological Stations in Kalu Ganga, it is warned that there is a possibility of a Minor flood situation occurring in low-lying areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara district secretariat (DS) divisions.
+
+As a result, there is high possibility of inundating off roads running through flood plains of Kuda Ganga and Magura Ganga, the department warned.
+
+Meanwhile a considerable rainfall has occurred in most of the catchment areas of the Attanagalu Oya river basin as well.
+
+...
+
+[Data](articles/119e053b.json)
+
+---
+
+### The cynical husband who murdered his wife is all over
 
 *2024-05-21 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196852) · `si`
 
-ලුණුගල, කුඹුකන්ඔයේ දියනාමින් සිටි  දෙදරු මවක්  ඝාතනය කිරීමේ සිද්ධියට සැකපිට ඇයගේ සැමියා සහ ඊට අනුබල දුන්නේ යැයි සැකපිට ඔහුගේ මිතුරෙකු ඊයේ (20) අත්අඩංගුවට ගත්බව ලුණුගල පොලීසිය පවසයි.
+A man suspected of murdering his wife and their two daughters was arrested by Lakugala Police after assaulting them.
+
+🟩
+
+Lakugala Police have arrested his friend yesterday (20) to suspect her husband and her husband had assailed the murder of two daughter mother of two Diyambakore, a mother of two daughter mother.
 
 ◼️
 
 [Data](articles/614266ef.json)
 
+[Extended Data](ext_articles/614266ef.ext.json)
+
 ---
 
-### යුද හමුදා සාමාජිකයින් 15,667ක් නීත්‍යානුකූලව ඉවතට
+### 15,667 soldiers legal
 
 *2024-05-21 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196851) · `si`
 
-නීත්‍යානුකූලව සේවයෙන් ඉවත් වීමට යුද හමුදා සාමාජිකයින්ට ලබාදී තිබූ මාසයක පොදු සමා කාලය ඊයේ (20) දිනයෙන් අවසන් වුණි.
+In one month, 15,667 Sri Lanka Army soldiers left without permission, including 373 stationed overseas.
 
-එම කාල සීමාව තුළ සාමාජිකයින් 15,667ක් නීත්‍යානුකූල ලෙස සේවයෙන් ඉවත් වූ බව නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා යුද හමුදාව සඳහන් කරයි.
+🟩
 
-2023 දෙසැම්බර් 31 වන දින සහ ඊට පෙර නිවාඩු නොමැතිව සේවයට වාර්තා නොකරන ලද යුද හමුදා සමාජිකයින් සඳහා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කළේය.
+One month of the year of army soldiers ended yesterday (20).
 
-මේ අතර ඉහත කාලසීමාව තුළ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර දැනට විදේශගතව සිටින යුද හමුදා සමාජිකයින් 373 දෙනෙකු සඳහා ද නීත්‍යානුකූලව යුද හමුදා සේවයෙන් ඉවත්වීමට කටයුතු සලසා දී තිබේ.
+The Sri Lanka Army has issued a statement that 15,667 members have led down in the same period.
+
+This public time was published for the soldiers who were not reported to work without any leave without leave.
+
+Meanwhile, 373 soldiers abroad have been led by the Army with 373 people abroad.
 
 ◼️
 
 [Data](articles/98b29d41.json)
+
+[Extended Data](ext_articles/98b29d41.ext.json)
 
 ---
 
@@ -107,6 +139,8 @@ The Minister also addressed India's concerns regarding the visits of Chinese res
 ...
 
 [Data](articles/923f82ce.json)
+
+[Extended Data](ext_articles/923f82ce.ext.json)
 
 ---
 
@@ -320,23 +354,29 @@ President Wickremesinghe, in his opening remarks, highlighted the historical tie
 
 ---
 
-### හජ් වන්දනාවට පළමු පිරිස පිටත්වෙයි
+### The first group left the Hajj pilgrimage
 
 *2024-05-21 08:45:38* · [`adalk`](https://www.ada.lk/religion/හජ්-වන්දනාවට-පළමු-පිරිස-පිටත්වෙයි/4-409755) · `si`
 
-2024 වසරේ මක්කම හජ් වන්දනා සමය ආරම්භ කරමින් එයට සහභාගී වීමට නියමිත 3,500 ක් වූ ඉස්ලාම් බැතිමතුන් පිරිස අතරින් 68 දෙනෙකුගෙන් යුතු  පළමු ශ්‍රී ලාංකික ඉස්ලාම් ආගමික  බැතිමතුන් පිරිස 05/21 දින අලුයම කටුනායක ගුවන් තොටුපොළෙන් සෞදි අරාබිය බලා පිටත්ව ගියහ .
+Sri Lankan devotees departed from Katunayake Airport for Hajj, totaling 4,500, including 34 women and 34 boys. A ceremony marked their departure, attended by officials like Minister Kahalad Al-Kahani and Khaled Hadani. They embarked on a 32-day journey aboard an Air Arabia flight, set to return to Sri Lanka afterward.
 
-එයින් 34 දෙනෙකු ඉස්ලාම් භක්තික කාන්තාවන් වූ අතර ඉතිරි 34 දෙනා ඉස්ලාම් භක්තික පිරිමි වන්දනාකරුවන් වූහ .
+🟩
 
-මොවුන්ගේ පිටත්ව යාම වෙනුවෙන් කටුනායක ගුවන් තොටුපොළ පිටත්වීමේ පර්යන්තයේ දී උත්සවයක් පැවති අතර ඒ සදහා බුද්ධ ශාසන , ආගමික සහ සංස්කෘතික කටයුතු පිළිබඳ අමාත්‍ය විදුර වික්‍රමනායක , ශ්‍රී ලංකාවේ සෞදි අරාබි තානාපති කාලීඩ් හමඩ් අල් - කන්තානි ( Khaled Hammoud Al - Kahtani ) , ශ්‍රී ලංකා හජ් කමිටුවේ සභාපති ඊබ්‍රාහිම් සාහිබ් අන්සාර් යන මහත්වරුන් ඇතුළු විශාල පිරිසක් සහභාගී වී සිටියහ .
+The number of Sri Lankan religious devotees from the Katunayayaka Airport on the 582 Islamic Buddhist monastery has gone to Saudi Airport on the 4,500 Islamic devotees of the Makkari.
 
-මෙම වන්දනාකරුවන් පිරිස 05/21 දින අලුයම 05.15 ට එයාර් ඇරේබියා ගුවන් සේවයේ ජී.9503 දරන ගුවන් යානයෙන් මක්කම බලා පිටත්ව ගියහ .
+Of them, 34 were Islamic women, and the remaining 34 were Islamic boys.
 
-ඔවුන් දින 32 ක කාළයක් මක්කම වන්දනා කිරීමෙන් අනතුරුව යළි ජුනි මස 22 දින ආපසු ශ්‍රී ලංකාවට පැමිණීමට නියමිතය .
+A ceremony was held at the Katunayake Airport Departure, Minister of Buddhadani, Kahalad Al-- Kahani, Sri Lanka Hajuge Committee (Khaled Hadani), Chairman of the Sri Lanka Hajju CommitteeA large number of people including Ibrahib Ansar were present.
+
+The number of these pledges to 5:15 am on April 05.15 at Air Arabia Airlines' aircraft on April 5503.
+
+They will return to Sri Lanka after the worship of 32 days after the worship of 32 days.
 
 ◼️
 
 [Data](articles/775334cd.json)
+
+[Extended Data](ext_articles/775334cd.ext.json)
 
 ---
 
@@ -2161,21 +2201,5 @@ Mr. Saradevasam - We have some candidates. Now, if I don't want to be the candid
 [Data](articles/1b814867.json)
 
 [Extended Data](ext_articles/1b814867.ext.json)
-
----
-
-### Sri Lanka declares tomorrow a day of mourning for Iranian President
-
-*2024-05-20 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-declares-tomorrow-a-day-of-mourning-for-Iranian-President/108-282986) · `en`
-
-Colombo, May 20 (Daily Mirror) - Sri Lanka declares tomorrow as a day of mourning in view of the death of Iranian President Ebrahim Raisi.
-
-The national flag will fly at half mast at all government institutions.
-
-◼️
-
-[Data](articles/46294a12.json)
-
-[Extended Data](ext_articles/46294a12.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 10:04:01**
+As of **2024-05-21 10:18:33**
 
 ## Newspaper Stats
 
-*Scraped **25,367** Articles*
+*Scraped **25,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,173
 adaderanalk | 2,929
-tamilmirrorlk | 2,961
+tamilmirrorlk | 2,962
 virakesarilk | 3,833
 dailymirrorlk | 3,982
 adaderanasinhalalk | 4,053
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,364 (100.0%) of 25,367 articles have been extended.
+25,367 (100.0%) of 25,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### 24 வயதுடைய கைதி மூளைக் காய்ச்சலால் மரணம்
+
+*2024-05-21 09:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-வயதுடைய-கைதி-மூளைக்-காய்ச்சலால்-மரணம்/175-337616) · `ta`
+
+மாத்தறை வைத்தியசாலையில் சிகிச்சை பெற்று வந்த கைதி நேற்று (20) இரவு உயிரிழந்துள்ளதாக சிறைச்சாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+சுமார் 3 மாதங்களுக்கு முன்னர் சிறையில் அடைக்கப்பட்ட 24 வயதுடைய நபர் ஒருரே இவ்வாறு  காய்ச்சலால் உயிரிழந்துள்ளார்.
+
+இது தவிர மாத்தறை சிறைச்சாலையில் உள்ள மற்றுமொரு கைதியும் காய்ச்சல் காரணமாக மாத்தறை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/b2718caa.json)
+
+---
 
 ### Vesak week begins today
 
@@ -67,6 +83,8 @@ Israel and the US, its key ally, are not members of the ICC, which was set up in
 ...
 
 [Data](articles/08b290c5.json)
+
+[Extended Data](ext_articles/08b290c5.ext.json)
 
 ---
 
@@ -644,25 +662,33 @@ Hon. Rajitha Senaratne said that there are not enough nutritionists in the count
 
 ---
 
-### පොප්සිකල් කෝටුවකින් ඩොලර් උල්පතකට මග පාදා ගත් ගුවන් යානා ආකෘති නිර්මාණකරුවා
+### Airplane model, led to a dollar of popsicle cin
 
 *2024-05-21 04:06:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11ee8d872o) · `si`
 
-පොප්සිකල් කෝටුවකින් ඩොලර් උල්පතකට මග පාදා ගත් ගුවන් යානා ආකෘති නිර්මාණකරුවා
+Sri Lankan entrepreneur Liyanage crafts detailed airplane models from wood, inspired by a childhood ice cream cone. His creations, ranging from 1/200th scale, are handcrafted without machinery, showcasing intricate details of actual aircraft. Starting with a simple ice cream cone, his passion evolved into creating replicas of planes, including the iconic Air Lanka logo. His models, priced from Rs. 18,000, have been sold to over 500 customers worldwide, contributing significantly to Sri Lanka's foreign exchange earnings.
 
-මීකුණකින් ධනපතියෙකු බවට පත්වූ ධෛර්යවන්තයින් පිළිබඳ කතා අපි අසා ඇත්තෙමු. මේ එවැනි ධෛර්යවන්ත ශ්‍රී ලාංකිකයෙකු පිළිබඳ කතාවකි.
+🟩
 
-ඔහු මේ වන විට ශ්‍රී ලංකා ආර්ථිකය වෙනුවෙන් විදේශ විනිමය උපයන නිර්මාණකරුවෙකි.
+Airplane model, led to a dollar of popsicle cin
 
-ගුවන් යානා ආකෘති නියමාකාරයෙන් දැව යොදාගෙන නිර්මාණය කිරීම ඔහු ව්‍යාපාරයක් ලෙස පවත්වාගෙන යයි.
+We have heard the talk about courageous ones who became a capitalist. This is a story about such a courageous Sri Lankan.
 
-32 හැවිරිදි වියේ පසු වන ඔහු, මාතර ඉපිද පන්නිපිටියේ පදිංචිව සිටින ශයනක ලියනගේ ය.
+He is now a foreign exchange earner for the Sri Lankan economy.
 
-"මම ගොඩක් ම ආකෘති කරන්නේ පිට රටවල ඇණවුම්වලට. ගොඩක් රටවල ඉන්න ශ්‍රී ලාංකිකයන් ඇතුළු විශාල පිරිසක් ඇණවුම් කරනවා. ගොඩක් වෙලාවට ඇණවුම් ලැබෙන්නේ, ගුවන් නියමුවන්ගෙන්. ඒගොල්ලො මුලින් ම පැදපු ගුවන් යානය, පළවෙනි ගුවන් ගමන ගිය ප්ලේන් එක. ඒ වගේ ආකෘති මට කියලා හදව ගන්නවා. ලෝකෙ හොයා ගන්න ම බැරි ආකෘති තියෙනවා. ඒගොල්ලො කලින් පාවිච්චි කරල තියෙන යානා තියෙනවා, ඒත් ඒගොල්ලන් ළඟ ආකෘතියක් නෑ. අන්න ඒ වගේ ඕනෑ ම ආකෘතියක් මම හදනවා,” බීබීසී සිංහල සේවය සමග සාකච්ඡාවකට එක්වෙමින් ශයනක ලියනගේ ප්‍රකාශ කළේ ය.
+He runs a business to create timber, using timber, using timber.
+
+He was a 32-year-old, and he was born in the opening of the Matara, a resident of Pannipitiya.
+
+"I'm most models to orders of outside countries. Many Sri Lankans in many countries ordered. Long time receives orders from pilots. The plane, which they ride, the first flight plane. Such forms are being made to me. There are no formal models in the world. They have previously used aircraft, but they don't have a model. That's what I'm trying to make a discussion with the BBC Sinhala service and stated in a conversation with the Sinhala service.
+
+The specialty of his creations is to create a woody format with all the elements of the original format.
 
 ...
 
 [Data](articles/745511c9.json)
+
+[Extended Data](ext_articles/745511c9.ext.json)
 
 ---
 
@@ -2148,38 +2174,24 @@ It is designed for high-efficiency engine performance, fast acceleration, smooth
 
 ---
 
-### ඉරාන ජනපති මහින්දට එවූ ත්‍යාගයක් ජනපති මිය ගිය දිනයේදීම ලැබෙයි
+### President receives a prize to Iran President
 
 *2024-05-20 20:24:39* · [`adalk`](https://www.ada.lk/picture_story/ඉරාන-ජනපති-මහින්දට-එවූ-ත්‍යාගයක්-ජනපති-මිය-ගිය-දිනයේදීම-ලැබෙයි/10-409751) · `si`
 
-ඉරාන ජනාධිපති ඊබ්‍රහීම් රයිසි මහතා විසින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාට එවා තිබූ ත්‍යාගයක් විදේශ කටයුතු අමාත්‍යාංශය විසින් අමාත්‍යවරයාට ඊයේ (20දා) භාරදී ඇත.
+Iranian President awards Sri Lanka's Minister of Agriculture, Mahinda Amaraweera, a prize for opening the Uma Oya project, despite initially cancelling his visit due to the minister's absence.
 
-අමාත්‍ය අමරවීර මහතා ඉරානයේ රාජත්‍රාන්තික සංචාරයක නිරත වීමට මින් පෙර නියමිතව තිබී ඇති අතර එය අවලංගු කිරීමට කටයුතු යොදා තිබිණ. උමා ඔය විවෘත කිරීම සඳහා ඉරාන ජනාධිපතිවරයා මෙරටට පැමිණි අවස්ථාවේදී ඔහුගේ පරිවාර අමාත්‍යවරයා ලෙස මහින්ද අමරවීර මහතා කටයුතු කළේය. ඒ අනුව අමාත්‍යවරයාගේ ඉරාන සංචාරය අවලංගු නොකරන ලෙසත්, ඉරානයට පැමිණෙන ලෙසත් ජනාධිපතිවරයා විසින් එම අවස්ථාවේදී අමාත්‍යවරයාට ආරාධනා කර තිබේ.
+🟩
 
-ඒ අනුව ඉරානයේ සංචාරයකට එක්වූ අමාත්‍ය අමරවීර මහතා යළි මෙරටට පැමිණීමෙන් අනතුරුව ඉරාන ජනාධිපතිවරයා විසින් අමරවීර මහතාට ත්‍යාගයක් එවීමට කටයුතු කර ඇත. ඒ අනුව එරට ආගමික සංකේතයක් වන අදාළ ත්‍යාගය අමරවීර මහතාට ලැබී තිබුණේ ඉරානයේ ජනාධිපතිවරයා මියගොස් ඇති බවට එරට විසින් තහවුරු කරන ලද ඊයේ(20දා) දිනයේදීය.
+The Ministry of External Affairs has handed over a prize to Mr. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries by Iranian President Iran.
+
+Minister Amaraweera had previously on a vicinity of Iran and was to cancel it.. Mahinda Amaraweera was the Minister of Insulated as his insight at the request of the Iranian President to open the Uma Oya. Accordingly, the President has invited the Minister to cancel the Minister's Iran's visit and to come to Iran.
+
+Accordingly Minister Amaraweera, who was returning to Iran, he has taken action to send a prize to Mr. Amaraweera after returning to Sri Lanka. Accordingly, Mr. Amaraweera had received the prize as a religious symbol of the country that Iran's president has died yesterday (20).
 
 ◼️
 
 [Data](articles/89a1a119.json)
 
----
-
-### Prison officials cannot disrupt court proceedings - Minister Wijeyadasa Rajapaksa
-
-*2024-05-20 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184085) · `ta`
-
-Minister Wijeyadasa Rajapaksa stated that while the request for salary increases from prison officials is justified, leading to a decision to pay them 15 thousand rupees more, they must not disrupt court proceedings. This stance was clarified during a special journalists' meeting on the ongoing trade union struggle initiated by prison officials.
-
-🟩
-
-The request of prison authorities seeking salary increases is fair. So we will take steps to pay them 15 thousand rupees. They cannot disrupt court proceedings though. Minister of Justice, Prison and Constitutional Reforms Wijeyadasa Rajapaksa said that the authorities involved in court proceedings cannot engage in union struggles.
-
-A special journalist meeting to clarify the trade union struggle launched by prison officials was held on Monday 20th at the Ministry of Justice. He said this while participating in the comment.
-
-...
-
-[Data](articles/e97e09a7.json)
-
-[Extended Data](ext_articles/e97e09a7.ext.json)
+[Extended Data](ext_articles/89a1a119.ext.json)
 
 ---

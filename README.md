@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 22:18:32**
+As of **2024-05-21 22:33:50**
 
 ## Newspaper Stats
 
-*Scraped **25,527** Articles*
+*Scraped **25,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 2,945
 tamilmirrorlk | 2,980
 virakesarilk | 3,864
 dailymirrorlk | 4,009
-adaderanasinhalalk | 4,083
+adaderanasinhalalk | 4,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,527 (100.0%) of 25,527 articles have been extended.
+25,527 (100.0%) of 25,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### ඊශ්‍රායලයෙන් දරුණු ප්‍රහාරයක්
+
+*2024-05-21 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196884) · `si`
+
+පලස්තීන බටහිර ඉවුරේ ජෙනින් නගරයට ඊශ්‍රායල හමුදාව විසින් දරුණු ප්‍රහාරයක් එල්ල කර තිබේ.
+
+ඉන් වෛද්‍යවරයෙක් සහ ගුරුවරයෙක් ඇතුළු පලස්තීනුවන් 7 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+ඊශ්‍රායලය පැවසුවේ ජෙනින් නගරයේ ක්‍රියාත්මක සන්නද්ධ කල්ලි ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+
+එම නගරයේ හමාස්, ෆාටා, සහ ඉස්ලාමීය ජිහාඩ් වැනි සන්නද්ධ කණ්ඩායම් ක්‍රියාත්මක බව සඳහන් ය.
+
+ජීවිතක්ෂයට පත්වූ වෛද්‍යවරයා සහ ගුරුවරයා සේවාස්ථාන කරා යමින් සිටියදී ප්‍රහාරයට ලක්ව තිබුණි.
+
+◼️
+
+[Data](articles/94f42b78.json)
+
+---
+
+### එක්ස්ප්‍රස් පර්ල් නඩුව ගැන නියෝගයක්
+
+*2024-05-21 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196883) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව ලබන 31 වනදා විභාගයට නොගන්නා ලෙසට ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+
+නීතිපතිවරයා විසින් මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව අභියෝගයට ලක් කරමින් අදාළ නෞකා සමාගමේ අධ්‍යක්ෂවරුන් විසින් ගොනු කළ අභියාචනා පෙත්සමක් අද (21) සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+මෙම සිද්ධියට අදාළව කොළඹ මහාධිකරණය හමුවේ  නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව ලබන 31 වනදා විභාගයට ගැනීමට නියමිතව තිබේ.
+
+මෙම පෙත්සමේ සලකා බැලීම අවසන් වන තුරු අදාළ නඩුව මහාධිකරණය හමුවේ විභාග කිරීම වළක්වන නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරුන් අධිකරණයෙන් ඉල්ලා තිබුණි.
+
+එම ඉල්ලීම පිළිගත් විනිසුරු මඩුල්ල අදාළ නඩුව ලබන 31 වනදා මහාධිකරණය හමුවේ විභාගයට නොගන්නා ලෙස දන්වමින් නියෝගයක් නිකුත් කළේය.
+
+◼️
+
+[Data](articles/679bc5ff.json)
+
+---
 
 ### 4 Sri Lankan ISIS terrorists arrested in India were planning major attack - report
 
@@ -2257,65 +2297,5 @@ It is also worth noting that the Iranian government has taken steps to pay off t
 [Data](articles/f8c73d7d.json)
 
 [Extended Data](ext_articles/f8c73d7d.ext.json)
-
----
-
-### Funeral of Iranian President on Thursday
-
-*2024-05-21 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196860) · `si`
-
-Dr. Ibrahim Risen, Iranian President, dies in a helicopter crash near the Azerbaijani border. His funeral, marked by national mourning, includes a procession to Tehran and international condolences.
-
-🟩
-
-The funeral of Mr. Dr. Ibrahim Risen, who died in the helicopter crash, commences today.
-
-The helicopter carrying Irbrahim as the President of Iranian-Azerbai's border was returned to the Easry Azerbaijan states.
-
-The President, including the President, confirmed that the victims were killed.
-
-The bodies were identified, but it was not easy to carry them back.
-
-In the social media circulated the video shown that the Iranian leader who met from the labor leader who was found found out of the latter debris, was a shock of his heart.
-
-In view of the demise of the President of Iran, Iran was declared a period of five days and Dr. Ibrahim Reli Deputy Funeral of the President's funeral ceremony.
-
-The President and his funeral will be planned for 3 days.
-
-It is during the night to bring the body to Tehran's capital.
-
-Subsequently, the funerals carrying out the remains of the Risk and the demands of the depiction of the President and the bodies of the debit.
-
-...
-
-[Data](articles/97f53cef.json)
-
-[Extended Data](ext_articles/97f53cef.ext.json)
-
----
-
-### Four arrested for robbing store at gunpoint in Galle
-
-*2024-05-21 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99357/four-arrested-for-robbing-store-at-gunpoint-in-galle) · `en`
-
-Four suspects have been arrested in connection with an armed robbery at a store at Imaduwa in Galle.
-
-A foreign-manufactured firearm and three found in the possession of the suspects at the time of the arrest have also been taken into police custody.
-
-Police said that the suspects had arrived in car and carried out the armed robbery.
-
-Police say that it has been revealed that the arrested suspects includes the owner of a neighboring shop and that shop owner in question had planned the entire robbery while also acting as the look out.
-
-The arrested suspects are between the ages of 45 and 61 years while they are residents of Wakwewa, Embilipitiya and Akuressa areas.
-
-The armed robbery at the shop had also been recorded on the CCTV cameras placed inside the establishment.
-
-During interrogations, it was revealed that the suspects had also previously robbed shops in Wattala Kandana, Embilipitiya and Middeniya are at gunpoint.
-
-...
-
-[Data](articles/f9bcd5fa.json)
-
-[Extended Data](ext_articles/f9bcd5fa.ext.json)
 
 ---

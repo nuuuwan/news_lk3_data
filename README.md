@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 22:51:30**
+As of **2024-05-21 23:03:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,529 (100.0%) of 25,534 articles have been extended.
+25,534 (100.0%) of 25,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ In addition to the existing electric fences built and maintained to mitigate ele
 
 [Data](articles/901028a6.json)
 
+[Extended Data](ext_articles/901028a6.ext.json)
+
 ---
 
-### පිරිමි මීටර් 400 සහාය දිවීමේ ඉසව්වෙන් ශ්‍රී ලංකාවට රන් පදක්කමක්
+### Sri Lanka a gold medal in Sri Lanka by 400m support
 
 *2024-05-21 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196885) · `si`
 
-තායිලන්තයේ බැංකොක් නුවර පැවති ආසියානු සහාය දිවීමේ තරගාවලියේදී පිරිමි මීටර 400 සහාය දිවීමේ ඉසව්වේ රන් පදක්කම දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට හැකිවුණි.
+Sri Lanka clinched a gold medal in the 400-meter relay at the Bangkok event, led by athletes Dulanwardena, Tarshana, Lakshan, and Lan.
 
-ශ්‍රී ලංකා පිරිමි මීටර් 400 සහාය දිවීමේ කණ්ඩායමේ සමාජිකයින් වන්නේ කාලිංග කුමාරගේ, අරුන දර්ෂණ, පසිඳු ලක්ෂාන් සහ දිනුක දේශාන් ය.
+🟩
+
+Sri Lanka won the gold medal in the 400 meter support event in Bangkok, Thailand's Bangkok.
+
+Sri Lanka's 400m Assistant Drawmid Dunawardena, Aruna Tarshana, Pasindu Lakshan and Gasindu Lan.
 
 ◼️
 
 [Data](articles/08fe7b85.json)
+
+[Extended Data](ext_articles/08fe7b85.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ Minister Semasinghe made this announcement during a press conference at the Pres
 ...
 
 [Data](articles/c6901f30.json)
+
+[Extended Data](ext_articles/c6901f30.ext.json)
 
 ---
 
@@ -248,6 +258,8 @@ Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs a
 
 [Data](articles/96355eda.json)
 
+[Extended Data](ext_articles/96355eda.ext.json)
+
 ---
 
 ### Complaint to contempation of Diana
@@ -343,6 +355,8 @@ Moreover, the sea areas extending from Colombo to Pottuvil via Galle and Hambant
 ...
 
 [Data](articles/cadb9889.json)
+
+[Extended Data](ext_articles/cadb9889.ext.json)
 
 ---
 

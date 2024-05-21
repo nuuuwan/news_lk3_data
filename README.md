@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 07:44:21**
+As of **2024-05-21 07:57:21**
 
 ## Newspaper Stats
 
-*Scraped **25,342** Articles*
+*Scraped **25,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,64 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,170
 adaderanalk | 2,925
-tamilmirrorlk | 2,958
+tamilmirrorlk | 2,959
 virakesarilk | 3,830
-dailymirrorlk | 3,979
+dailymirrorlk | 3,980
 adaderanasinhalalk | 4,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,338 (100.0%) of 25,342 articles have been extended.
+25,342 (100.0%) of 25,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### අද ජාතික ශෝක දිනයක්
+### France optimistic about conclusion of Sri Lanka’s debt restructuring very fast
+
+*2024-05-21 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/France-optimistic-about-conclusion-of-Sri-Lankas-debt-restructuring-very-fast/108-283018) · `en`
+
+French Ambassador Jean-François Pactet expressed optimism yesterday that Sri Lanka’s debt restructuring process could be concluded ‘very fast’ but declined to elaborate on more details
+
+France is the chair of the Paris Club of Nations, responding to Sri Lanka’s request for debt treatment. Under it, the Official Creditor Committee (OCC), co-chaired by India, Japan and France, has been appointed.
+
+Making his remarks during a roundtable discussion with journalists, diplomats and think-tank personalities, the ambassador sounded optimistic about the early conclusion of debt restructuring in response to a question.
+
+Asserting that China, as a bilateral creditor, is dealing with Sri Lanka separately on debt restructuring, he said China is in the loop about the OCC process as an observer. He stressed the need for comparable treatment of debt with all the creditors.
+
+...
+
+[Data](articles/0d5ac2cd.json)
+
+---
+
+### Today is a national mourning day
 
 *2024-05-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196842) · `si`
 
-ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ අභාවය හේතුවෙන් අද (21) දිනය ජාතික ශෝක දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+National mourning declared after the tragic helicopter crash in Iran's northwest, killing the Iranian President Irabrahi Rishi, the Foreign Minister, and nine others. The Supreme Court leader Astallama Al Qamani ordered five days of mourning. World leaders express condolences.
 
-රජයේ සෑම ආයතනයකට ජාතික කොඩිය අඩකුඹු කර තබන ලෙස උපදෙස්  දී ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යංශ ලේකම් ප්‍රදීප් යසරත්න මහතා සඳහන් කළේය.
+🟩
 
-ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි වයඹ දිග ඉරානයේ කඳුකර ප්‍රදේශයක පසුගිය ඉරිදා සිදුවූ  හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වුණි.
+Due to the death of Mr. Iranian President Irabrahi Rishi, the national mourning day was declared today.
 
-හෙලිකොප්ටර් යානයේ ගමන් ගත් ඉරාන විදේශ අමාත්‍යවරයා ඇතුළු පුද්ගලයින් 09 දෙනාම අනතුරින් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Secretary of Public Administration, said that the Secretary of the Ministry of Public Administration and Home Administration said.
 
-ඉරාන ජනාධිපතිවරයාගේ අභාවය නිමිත්තෙන් දින 05ක ශෝක කාලයක් ප්‍රකාශයට පත් කිරීමට උත්තරීතර නායක අයතුල්ලා අල් කමේනි පියවර ගෙන තිබේ.
+The helicopter accident occurred in a mountainous region of Irania Northwestern Iran in Northwest.
 
-ඉරාන ජනාධිපතිවරයාගේ අභාවය වෙනුවෙන් ලෝක නායකයින් රැසක් ශෝකය පළකර ඇති අතර රටවල් රැසක ශෝක දින ද ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
+The Iranian Foreign Minister and 9 people have died in danger of the helicopter.
+
+The Supreme Court leader Astallama Al Qamani has taken steps to declare five days in view of the death of the President Iran.
+
+There have been many world leaders for the death of the Iranian president and has also been announced on mourning days.
 
 ◼️
 
 [Data](articles/863c7813.json)
+
+[Extended Data](ext_articles/863c7813.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ Strong winds of about 50 kmph can be expected at times over the island.
 ◼️
 
 [Data](articles/c860733c.json)
+
+[Extended Data](ext_articles/c860733c.ext.json)
 
 ---
 
@@ -898,21 +924,45 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 
 ---
 
-### இப்ரஹிம் ரைசியின் ஜனாஸா இன்று அடக்கம்
+### மனதை ஒருநிலைப்படுத்தும் நிகழ்ச்சி
+
+*2024-05-21 01:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனதை-ஒருநிலைப்படுத்தும்-நிகழ்ச்சி/175-337612) · `ta`
+
+தற்போதைய சந்ததியினருக்கு தியானம் தொடர்பான புத்துணர்ச்சியை ஏற்படுத்தும் நோக்கில், 'புத்த ரஷ்மி' தேசிய வெசாக் பண்டிகையுடன் இணைந்ததாக ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம் மற்றும் கல்வி அமைச்சு என்பன இணைந்து ஏற்பாடு செய்த மனதை ஒருநிலைப்படுத்தி, வலுப்படுத்தும் நிகழ்ச்சி நேற்று  கொழும்பு சுதந்திர சதுக்கத்தில் நடைபெற்றது.
+
+வணக்கத்திற்குரிய கலாநிதி கிரிந்தே அஸ்ஸாஜி தேரரின் ஆலோசனையின் கீழ் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டுதலில் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டது.
+
+இந்த நிகழ்வில் கொழும்பு மாவட்டத்தைச் சேர்ந்த பாடசாலை மாணவர்கள், பல்கலைக்கழகங்கள், சர்வதேச பாடசாலைகள் மற்றும் தொழிநுட்பக் கல்லூரிகள் ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தி சுமார் 500 பேர் கலந்துகொண்டனர்.
+
+இந்த நிகழ்வில் மீதிரிகல ஆரண்ய சேனாசனவாசி வணக்கத்திற்குரிய ஹோமாகம தம்மகுசல தேரர் மாணவர்களுக்கு 'தியானம்' மேற்கொள்வது பற்றிய நடைமுறை பயிற்சிகளை வழங்கினார். (a)
+
+◼️
+
+[Data](articles/1e364594.json)
+
+---
+
+### Janasa of Ibrahim Raisi today
 
 *2024-05-21 01:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இப்ரஹிம்-ரைசியின்-ஜனாஸா-இன்று-அடக்கம்/50-337611) · `ta`
 
-ஹெலிகொப்டர் விபத்தில் உயிரிழந்த ஈரான் ஜனாதிபதி,  இப்ரஹிம் ரைசியின் ஜனாஸா அவரது சொந்த இடமான மஷாட்டில் இன்று அடக்கம் செய்யப்படவுள்ளது.
+Ibrahim Raisi, Iran's President and Foreign Minister, dies in a helicopter crash. Burial in Mashhad. Spiritual leader Ayatollah Ali Khamenei expresses concern for Iranians.
 
-நேற்று முன்தினம் இரவு இடம்பெற்ற ஹெலிகொப்டர் விபத்தில் 63 வயதான ஈரான் ஜனாதிபதி, வெளி விவகார அமைச்சர் உள்ளிட்ட 9 பேர் உயிரிழந்தனர்.
+🟩
 
-ஜனாதிபதி, வெளிவிவகார அமைச்சரின் மறைவு தொடர்பாக கவலை வெளியிட்டுள்ள ஈரானின் ஆன்மீகத் தலைவர் அயதுல்லாஹ் அல் கமேனி, 5 நாள்களை துக்ககாலமாக பிரகடனம் செய்துள்ளார்.
+The President of Iran, Ibrahim Raisi, who died in a helicopter crash, is to be buried today in his own place of Masha.
 
-ஈரான் மக்களுக்கு தமது கவலையை தெரிவிப்பதாக ஈரான் ஆன்மீகத் தலைவர் அறிவித்துள்ளார். (a)
+A 63 -year -old Iranian President and External Affairs Minister died in a helicopter accident last night.
+
+Iran's spiritual leader, Ayadullah al -Qaneni, has expressed concern over the demise of the President and Foreign Minister.
+
+Iran's spiritual leader has announced that he is concerned about the people of Iran. (A)
 
 ◼️
 
 [Data](articles/abf3ad9e.json)
+
+[Extended Data](ext_articles/abf3ad9e.ext.json)
 
 ---
 
@@ -1454,23 +1504,35 @@ Iranian President Ibrahim Raisi has declared tomorrow as a mourning in Sri Lanka
 
 ---
 
-### ප්‍රථමයෙන්ම මහ මැතිවරණය ඕන - බැසිල් ජනපතිට කියයි
+### Basil tells President to first general election
 
 *2024-05-20 20:47:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රථමයෙන්ම-මහ-මැතිවරණය-ඕන---බැසිල්-ජනපතිට-කියයි/11-409753) · `si`
 
-පාර්ලිමේන්තු මැතිවරණය ප්‍රථමයෙන් පැවැත්විය යුතු බවට ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා විසින් පක්ෂයක් ලෙස ජනාධිපතිවරයාට ප්‍රකාශ කර ඇති බවත් කෙසේවුවත් අවසන් තීරණය ජනාධිපතිවරයා විසින් ගනු ඇති බවත් එම පක්ෂයේ ප්‍රධාන ලේකම්, පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා ප්‍රකාශ කළේය.
+Basil Rajapaksa, founder of Sri Lanka Civil Aramaya, urges holding parliamentary elections soon. He declines Presidential appointment but supports several candidates. Economic recovery is key for the next president.
 
-මීට අමතරව ශ්‍රී ලංකා පොදුජන පෙරමුණින් ඉදිරිපත් කිරීමට නියමිත ජනාධිපති අපෙක්ෂකයා පිළිබඳ මත ප්‍රකාශ නොකිරීමට පක්ෂයේ දේශපාලන මණ්ඩල රුස්වීමේදී තීන්දු කළ බවත් ඔහු සඳහන් කළේය.
+🟩
 
-ප්‍රධාන ලේකම්වරයා වැඩිදුරටත් ප්‍රකාශ කර සිටියේ එලෙස ඉදිරිපත් කිරීමට සුදුසු අපේක්ෂයන් කිහිප දෙනෙකු පක්ෂය විසින් තෝරාගෙන ඇති නමුත් %ආර්ථික යුද්ධය දිනීම^ සඳහා යෝග්‍යතම අපේක්ෂයා තම පක්ෂය විසින් ජනාධිපතිවරණයට ඉදිරිපත් කිරීමට නියමිත බවයි.
+Basil Rajapaksa, the founder of the Sri Lanka Civil Aramaya, has told the President as a party that the parliamentary election should be held.
 
-බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (20දා) පැවති මාධ්‍ය හමුවේදී කාරියවසම් මහතා මේ බව සඳහන් කළ අතර ඒ අනුව එහිදී ඇතිවූ සංවාද සටහනක් පහතින් වේ.
+He also said that he decided not to express the Presidential Court of Sri Lanka Civil Appointment.
 
-මාධ්‍ය - ආර්ථිකය ශක්තිමත් කරන්නද මීළග ජනාධිපති අපේක්ෂකයා ගේන්නේ ?
+The General Secretary added that several suitable candidates have been selected by the party, but the% economic war is to be presented to the presidential election by winning the% economic war.
+
+Mr. Kariyawasam was speaking at a press conference held at Nelum Mawatha, Battaramulla yesterday (20), accordingly, a conversation chart at the same time.
+
+Do the next presidential candidate be strengthened to strengthen the economy?
+
+Saradevasam - The main problem in this country is the economy. We are the leader who can strengthen this economy.
+
+Media - Basil Rajapaksa is the best one to strengthen the economy?There are seven brains?
+
+Mr. Saradevasam - We have some candidates. Now, if I don't want to be the candidate I want to be the candidate?
 
 ...
 
 [Data](articles/1b814867.json)
+
+[Extended Data](ext_articles/1b814867.ext.json)
 
 ---
 
@@ -2113,63 +2175,5 @@ After discussing with the Provincial Governor, Puttalam District Secretary and t
 [Data](articles/3703acf1.json)
 
 [Extended Data](ext_articles/3703acf1.ext.json)
-
----
-
-### එල් පී එල් ක්‍රීඩක වෙන්දේසිය සඳහා සියල්ල සූදානම්
-
-*2024-05-20 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196831) · `si`
-
-The 5th Lanka Premier League cricket tournament's player auction is set for tomorrow in Colombo. 420 players, including 154 locals, will be available. Teams have allocated $500,000 each for auctions. Notable signings include Chamika Karunaratne, Thisara Perera, Kusal Mendis, and others from various teams.
-
-🟩
-
-5 වැනි ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය හෙට (21) දහවල් කොළඹදී පැවැත්වෙයි.
-
-There are 420 local and foreign players have been presented to the auction and 154 players are local players.
-
-The five teams deployed $ 500,000 each for athletes auction.
-
-Players who have signed and withholding of each groups ....
-
-Chamika Karunaratne, Thisara Perera, Tissara Perera, Sedara Samarawickrama, Nippena Dhananjaya, Shadab Khan, Glen Phillips
-
-Dilshan Madushanka, Nuwan Thushara, Dushan Hemantha, Pravehi Jayawickrama, Mustfisor, Mustafisor, Ibrahim Solon
-
-Bhanuka Rajapaksha, Lasith Food, Niroshan Dickwella, Mah Meh Supervis, Tim Safurt, Alex Hells
-
-Kusal Mendis, Anthethyakan Vesakith, Ahitallah, Ahrzai, North, Ahmer
-
-Wannu Hasaranga, Angelo Mathews, Kamindantha Mendis, Kaminda Mendis, Kyle Meyers
-
-◼️
-
-[Data](articles/a4d295e5.json)
-
-[Extended Data](ext_articles/a4d295e5.ext.json)
-
----
-
-### I.S.. Four Sri Lankans belonging to IS arrested in India
-
-*2024-05-20 17:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எஸ்-ஐ-எஸ்-சேர்ந்த-இலங்கையர்-நால்வர்-இந்தியாவில்-கைது/175-337600) · `ta`
-
-Four Sri Lankan men suspected of links to ISIS were arrested at Ahmedabad's international airport, sparking heightened security measures.
-
-🟩
-
-The Gujarat Terrorist Prevention Division has arrested four Sri Lankans at the Sardar Vallabhbhai Patel International Airport in Ahmedabad, Ahmedabad.
-
-ISIS. The Gujarat Terrorism Prevention Unit has arrested four suspects on suspicion of being terrorists. The suspects have been taken for an intensive investigation.
-
-The exact reason why the four suspects came to the Ahmedabad airport were unclear.This has strengthened security throughout the airport.
-
-IP in India. The four teams have been arrested shortly before the three teams arrived at the Ahmedabad airport for the eligibility round and eliminator games due to the features of the LC.
-
-◼️
-
-[Data](articles/c002b265.json)
-
-[Extended Data](ext_articles/c002b265.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 10:33:44**
+As of **2024-05-21 10:52:06**
 
 ## Newspaper Stats
 
-*Scraped **25,369** Articles*
+*Scraped **25,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,98 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
-adalk | 2,173
+adalk | 2,174
 adaderanalk | 2,929
 tamilmirrorlk | 2,962
 virakesarilk | 3,833
-dailymirrorlk | 3,982
-adaderanasinhalalk | 4,054
+dailymirrorlk | 3,983
+adaderanasinhalalk | 4,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,368 (100.0%) of 25,369 articles have been extended.
+25,369 (100.0%) of 25,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### අසල්වාසි ව්‍යාපාරිකයා කළ කැත වැඩේ
+### බිරිඳ ව ඝාතනය කළ නරුම සැමියා සියල්ල වමාරයි
+
+*2024-05-21 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196852) · `si`
+
+ලුණුගල, කුඹුකන්ඔයේ දියනාමින් සිටි  දෙදරු මවක්  ඝාතනය කිරීමේ සිද්ධියට සැකපිට ඇයගේ සැමියා සහ ඊට අනුබල දුන්නේ යැයි සැකපිට ඔහුගේ මිතුරෙකු ඊයේ (20) අත්අඩංගුවට ගත්බව ලුණුගල පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/614266ef.json)
+
+---
+
+### යුද හමුදා සාමාජිකයින් 15,667ක් නීත්‍යානුකූලව ඉවතට
+
+*2024-05-21 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196851) · `si`
+
+නීත්‍යානුකූලව සේවයෙන් ඉවත් වීමට යුද හමුදා සාමාජිකයින්ට ලබාදී තිබූ මාසයක පොදු සමා කාලය ඊයේ (20) දිනයෙන් අවසන් වුණි.
+
+එම කාල සීමාව තුළ සාමාජිකයින් 15,667ක් නීත්‍යානුකූල ලෙස සේවයෙන් ඉවත් වූ බව නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා යුද හමුදාව සඳහන් කරයි.
+
+2023 දෙසැම්බර් 31 වන දින සහ ඊට පෙර නිවාඩු නොමැතිව සේවයට වාර්තා නොකරන ලද යුද හමුදා සමාජිකයින් සඳහා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කළේය.
+
+මේ අතර ඉහත කාලසීමාව තුළ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර දැනට විදේශගතව සිටින යුද හමුදා සමාජිකයින් 373 දෙනෙකු සඳහා ද නීත්‍යානුකූලව යුද හමුදා සේවයෙන් ඉවත්වීමට කටයුතු සලසා දී තිබේ.
+
+◼️
+
+[Data](articles/98b29d41.json)
+
+---
+
+### The ugly work done by the neighbors businessman
 
 *2024-05-21 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196850) · `si`
 
-ගිනිඅවි පෙන්වා බියකර වෙළෙඳසැලක් කොල්ලකෑ පුද්ගලයින් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Four individuals, aged 45 to 61 from Embilipitiya Akuressa, were arrested for robbing a businessman in the Imaduwa area of Galle. They were caught with three live bullets and several gold items. The crime was captured on CCTV, showing the suspects arriving at the shop. Police interrogated them in various locations including Katana, Kandana, Embilipitiya, Middeniyawala, and Wattala.
 
-එම සැකකරුවන් අත්අඩංගුවට ගන්නා වෙලාවේ ඔවුන් සන්තකයේ තිබී විදේශ රටක නිෂ්පාදිත ගිනිඅවියක් සහ ජීව උණ්ඩ තුනක්ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-එම සැකකරුවන් මෝටර් රථයකින් ගොස් ගිනිඅවි පෙන්වා බියකර ගාල්ල, ඉමදූව ප්‍රදේශයේ වෙළෙඳසැලක් කොල්ලකා ඇති බව පොලීසිය පවසයි.
+Four persons have been arrested for robbing firearms and robbed a fears.
 
-අත්අඩංගුවට ගත් පිරිස අතර අසල්වාසී ව්‍යාපාරිකයෙකු ද සිටින බවත් එම ව්‍යාපාරිකයා විසින් ඔත්තු බැලීම සිදුකර මංකොල්ලය සැලසුම් කර ඇති බවත් අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The suspects were taken into custodia and three live bullets in their possession when they were arrested.
 
-අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 45ත් 61ත් අතර වන වක්වැව ඇඹිලිපිටිය අකුරැස්ස ආදී ප්‍රදේශවල පදිංචිකරුවන්ය.
+Police said that the suspects went in a car and feared firearms in the Imaduwa area in Galle.
 
-සැකකරුවන් එම වෙළෙඳසැලට පැමිණ ගිනිඅවි පෙන්වා මංකොල්ලය සිදුකරන ආකාරය  CCTV කැමරාවක සටහන්ව තිබී ඇත.
+The businessman also revealed that the businessman is also a businessman who is a neighboring businessman.
 
-එම සැකකරුවන් විසින් මෙයට පෙර ද ගිනිඅවි පෙන්වා වත්තල කඳාන, ඇඹිලිපිටිය, මිද්දෙණිය ආදී ප්‍රදේශවල වෙළෙඳසැල් මංකොල්ල කා ඇති බවටද සිදුකළ ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත.
+The arrested suspects are residents of Embilipitiya Akuressa, between 45 and 61.
 
-එලෙස කොල්ලකෑ රන් භාණ්ඩ කිහිපයක් ද සොයා ගැනීමට පොලීසියට හැකිවී තිබේ.
+The suspects were in a cCTV camera how the suspects arrive at the shop and the robbery of firearms.
+
+The suspects were also questioned by the suspects before the Katana, Kandana, Embilipitiya, Middeniyawala, Wattala.
+
+The police have also been able to find several golden items.
 
 ◼️
 
 [Data](articles/db9845d7.json)
+
+[Extended Data](ext_articles/db9845d7.ext.json)
+
+---
+
+### ’We will not allow anyone to harm India’s security’: Ali Sabry
+
+*2024-05-21 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-will-not-allow-anyone-to-harm-Indias-security-Ali-Sabry/108-283041) · `en`
+
+Colombo, May 21 (ANI): Sri Lankan Foreign Minister Ali Sabry affirmed his country's commitment to safeguarding India's national security interests on Monday, stating that Colombo, as a responsible neighbour, will not allow anyone to harm India's security.
+
+The Minister also addressed India's concerns regarding the visits of Chinese research vessels to the island nation, saying that they would like to work with other countries in a transparent manner but not at the cost of others.
+
+"We have very clearly stated that we would like to work with all countries, but any reasonable concerns regarding Indian security will be taken into note, and we will not allow anyone to harm that. Subject to that, of course, in a very transparent manner, we would like to work with all countries," the Minister said in an interview with ANI.
+
+...
+
+[Data](articles/923f82ce.json)
 
 ---
 
@@ -265,6 +317,26 @@ President Wickremesinghe, in his opening remarks, highlighted the historical tie
 [Data](articles/c6bc2705.json)
 
 [Extended Data](ext_articles/c6bc2705.ext.json)
+
+---
+
+### හජ් වන්දනාවට පළමු පිරිස පිටත්වෙයි
+
+*2024-05-21 08:45:38* · [`adalk`](https://www.ada.lk/religion/හජ්-වන්දනාවට-පළමු-පිරිස-පිටත්වෙයි/4-409755) · `si`
+
+2024 වසරේ මක්කම හජ් වන්දනා සමය ආරම්භ කරමින් එයට සහභාගී වීමට නියමිත 3,500 ක් වූ ඉස්ලාම් බැතිමතුන් පිරිස අතරින් 68 දෙනෙකුගෙන් යුතු  පළමු ශ්‍රී ලාංකික ඉස්ලාම් ආගමික  බැතිමතුන් පිරිස 05/21 දින අලුයම කටුනායක ගුවන් තොටුපොළෙන් සෞදි අරාබිය බලා පිටත්ව ගියහ .
+
+එයින් 34 දෙනෙකු ඉස්ලාම් භක්තික කාන්තාවන් වූ අතර ඉතිරි 34 දෙනා ඉස්ලාම් භක්තික පිරිමි වන්දනාකරුවන් වූහ .
+
+මොවුන්ගේ පිටත්ව යාම වෙනුවෙන් කටුනායක ගුවන් තොටුපොළ පිටත්වීමේ පර්යන්තයේ දී උත්සවයක් පැවති අතර ඒ සදහා බුද්ධ ශාසන , ආගමික සහ සංස්කෘතික කටයුතු පිළිබඳ අමාත්‍ය විදුර වික්‍රමනායක , ශ්‍රී ලංකාවේ සෞදි අරාබි තානාපති කාලීඩ් හමඩ් අල් - කන්තානි ( Khaled Hammoud Al - Kahtani ) , ශ්‍රී ලංකා හජ් කමිටුවේ සභාපති ඊබ්‍රාහිම් සාහිබ් අන්සාර් යන මහත්වරුන් ඇතුළු විශාල පිරිසක් සහභාගී වී සිටියහ .
+
+මෙම වන්දනාකරුවන් පිරිස 05/21 දින අලුයම 05.15 ට එයාර් ඇරේබියා ගුවන් සේවයේ ජී.9503 දරන ගුවන් යානයෙන් මක්කම බලා පිටත්ව ගියහ .
+
+ඔවුන් දින 32 ක කාළයක් මක්කම වන්දනා කිරීමෙන් අනතුරුව යළි ජුනි මස 22 දින ආපසු ශ්‍රී ලංකාවට පැමිණීමට නියමිතය .
+
+◼️
+
+[Data](articles/775334cd.json)
 
 ---
 
@@ -2105,103 +2177,5 @@ The national flag will fly at half mast at all government institutions.
 [Data](articles/46294a12.json)
 
 [Extended Data](ext_articles/46294a12.ext.json)
-
----
-
-### Four persons in Sri Lanka connected to ISIS
-
-*2024-05-20 20:39:49* · [`adalk`](https://www.ada.lk/breaking_news/ISIS-සංවිධානයට-සම්බන්ධ-ලංකාවේ-සිව්-දෙනෙක්-ඉන්දියාවේදී-අල්ලයි/11-409752) · `si`
-
-Four Sri Lankans linked to ISIS were arrested at Ahmedabad's International Airport, suspected by the Anti-Terrorism Squad. They arrived from Chennai, India, via Sri Lanka. The group was taken to a secret location for further questioning, but the motive behind their arrest remains unclear.
-
-🟩
-
-Four Sri Lankans have been arrested on suspicion of the anti-Terrorism Corps (ASS) at the International Airport in Athamaadabad, ASSIS.
-
-Four suspects have come to Ahmeadabad through Sri Lanka from Chennai, India.
-
-According to Indian press reports, the four terrorists have taken the terrorists to a secret location for further interrogation. The reason for them was not yet known as the reason for the international airport.
-
-Meanwhile, three teams were due to arrive at the airport yesterday and had to arrive at the airport yesterday to arrive at the airport yesterday.. The airport was threatened on 12th May 12.
-
-◼️
-
-[Data](articles/860cb92f.json)
-
-[Extended Data](ext_articles/860cb92f.ext.json)
-
----
-
-### Anura ready for debate with Sajith on June 6: Nalinda Jayatissa
-
-*2024-05-20 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-ready-for-debate-with-Sajith-on-June-6-Nalinda-Jayatissa/108-282985) · `en`
-
-Colombo, May 20 (Daily Mirror)- NPP leader Anura Kumara Dissanayake is ready to participate in the proposed debate with Samagi Jana Balawegaya (SJB) leader Sajith Premadasa on June 6, NPP Executive Committee member Dr. Nalinda Jayatissa said today.
-
-He said in a statement to media that a venue, time and scope of the debate will be decided shortly with SJB MP Nalin Bandara, who was appointed by the SJB to handle the matters regarding the debate.
-
-The SJB had proposed that the debate between the two leaders be held on June 3, 4, 5, 6 or 7 while the debate between the economic experts be held on May 27, 28, 29, 30 or 31.
-
-◼️
-
-[Data](articles/dca62e4c.json)
-
-[Extended Data](ext_articles/dca62e4c.ext.json)
-
----
-
-### இராணுவத்திடம் குடும்பமாக சரணடைந்தவர்களின் குழந்தைகளிற்கு என்ன நடந்தது? சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் கேள்வி?
-
-*2024-05-20 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184086) · `ta`
-
-During the final moments of Sri Lanka's internal conflict, children from families who surrendered to the military faced unknown fates. The UN Special Rapporteur on Human Rights, Agnes Callamard, questioned what happened to them. This inquiry marks a significant moment as it occurred towards the end of Sri Lanka's Civil War. The year also sees parliamentary elections in Sri Lanka, crucial for determining the country's future direction and human rights protection. It's been 15 years since the war ended, and this visit aims to assess the human rights situation and explore how to uphold justice for victims. The resilience and determination of the survivors have deeply impacted, highlighting the need for every Sri Lankan to contribute to erasing this dark chapter.
-
-🟩
-
-இலங்கையின் உள்நாட்டு யுத்தத்தின் இறுதி தருணங்களில் இராணுவத்தினரிடம் சரணடைந்த குடும்பங்களின் குழந்தைகள் எங்கே அவர்களிற்கு என்ன நடந்தது என சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் கேள்வி எழுப்பியுள்ளார்.
-
-My visit is significant because the visit took place over the end of Sri Lanka's Civil War.
-
-இந்த வருடம் இலங்கையில் நாடாளுமன்ற ஜனாதிபதி தேர்தல்கள் இடம்பெறவுள்ளதால்  இந்த வருடம் இலங்கையின் தலைவிதியையும் மனித உரிமை பாதுகாப்பின் எதிர்காலத்தையும் தீர்மானிக்கும்.
-
-It has been 15 years since the end of the civil war of Sri Lanka, and I made this visit to find out about the human rights situation in Sri Lanka.
-
-I made this visit to know what we should do to uphold justice in Sri Lanka and support the International International for the War victims.
-
-The bravery they express, the re -depression, and their determination to see justice have touched my mind.
-
-Every Sri Lankan citizen should come forward to remove this stain on Sri Lanka.
-
-◼️
-
-[Data](articles/abf34440.json)
-
-[Extended Data](ext_articles/abf34440.ext.json)
-
----
-
-### Sri Lanka to get Octane 100 petrol soon
-
-*2024-05-20 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-get-Octane-100-petrol-soon/108-282984) · `en`
-
-Colombo, May 20 (Daily Mirror) - Sri Lanka is about to receive 100 Octane premium petrol, known as XP100 rating fuel, which helps enhance the performance of vehicles, particularly high-end luxury cars and bikes.
-
-A senior official from the Indian Oil Corporation (IOC) said the fuel stock is about to be received.
-
-The official said the price of a litre of fuel will be much higher than that of ordinary fuel products.
-
-This will be the first ever fuel produced with the highest Octane rating to be released to Sri Lanka by the IOC.
-
-It is reported that the high-Octane fuel stock has been shipped to Sri Lanka from the Jawaharlal Nehru Port Trust (JNPT) in Mumbai on May 18.
-
-It is special that this type of petrol, named XP100, has been developed locally in India.
-
-It is designed for high-efficiency engine performance, fast acceleration, smooth drivability and improved fuel economy in premium vehicles.
-
-...
-
-[Data](articles/a4c7cc94.json)
-
-[Extended Data](ext_articles/a4c7cc94.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 18:35:45**
+As of **2024-05-21 18:53:36**
 
 ## Newspaper Stats
 
-*Scraped **25,495** Articles*
+*Scraped **25,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,187
 adaderanalk | 2,942
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
-dailymirrorlk | 4,003
+dailymirrorlk | 4,005
 adaderanasinhalalk | 4,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,480 (99.9%) of 25,495 articles have been extended.
+25,494 (100.0%) of 25,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ One male passenger died, Kittipong Kittikachorn, Director of Bangkok’s Suvarna
 
 [Data](articles/559d2a47.json)
 
+[Extended Data](ext_articles/559d2a47.ext.json)
+
 ---
 
-### විදේශ ඇමති අලි සබ්රි අද ඉරානය බලා පිටත්ව යයි
+### Foreign Minister Ali Sabri goes back to Iran
 
 *2024-05-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196875) · `si`
 
-හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වූ ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ අවසන් කටයුතු ආරම්භ කර තිබේ.
+Foreign Minister Ali Sabri returns to Iran for the funeral of their president, killed in a helicopter crash. Sri Lankan politicians offer condolences at the Iranian embassy.
 
-ඒ අනුව ඉරාන ජනාධිපතිවරයාගේ අවමංගල්‍යය උත්සවයට සහභාගී වීම සඳහා විදේශ අමාත්‍ය අලි සබ්රි මහතා අද (21) රාත්‍රියේ දිවයිනෙන් පිටත්ව යාමට නියමිතය.
+🟩
 
-ඉරාන ජනාධිපතිවරයාගේ අභාවය වෙනුවෙන් මෙරට දේශපාලනඥයින් ඇතුළු පිරිස් මෙරට ඉරාන තානාපති කාර්යාලයේදී සිය ශෝකය පළකර තිබුණි.
+The funeral of Iranian President, who was killed in helicopter crash, has commenced its funeral.
+
+Foreign Minister Ali Sabri is due to leave the island this night to attend the Iranian funeral ceremony.
+
+Sri Lankan politicians including the President of Iranian have expressed their condolences at the Iranian embassy in Sri Lanka.
 
 ◼️
 
 [Data](articles/82f95e9c.json)
+
+[Extended Data](ext_articles/82f95e9c.ext.json)
 
 ---
 
@@ -84,6 +92,8 @@ Other exports were also up; ornamental fish exports were up 30.66 percent to 2.7
 
 [Data](articles/f8c0a56b.json)
 
+[Extended Data](ext_articles/f8c0a56b.ext.json)
+
 ---
 
 ### Sri Lanka chamber calls on political parties to support SOE reforms
@@ -103,6 +113,8 @@ With elections coming up in Sri Lanka, the World Bank is concerned that reform f
 ...
 
 [Data](articles/0680d387.json)
+
+[Extended Data](ext_articles/0680d387.ext.json)
 
 ---
 
@@ -126,6 +138,8 @@ A bond maturing on 01.10.2032 closed down at 11.85/12.00 percent from 11.90/12.0
 
 [Data](articles/793556db.json)
 
+[Extended Data](ext_articles/793556db.ext.json)
+
 ---
 
 ### VFS Global hires GB Srithar as head of Tourism Services
@@ -141,6 +155,8 @@ Srithar was previously at the Singapore Tourism Board (STB). He served as the Ar
 ...
 
 [Data](articles/6f13917a.json)
+
+[Extended Data](ext_articles/6f13917a.ext.json)
 
 ---
 
@@ -288,6 +304,8 @@ The 12-month bill fell 28 basis points to 9.29 percent, with all 70 billion rupe
 
 [Data](articles/cccced14.json)
 
+[Extended Data](ext_articles/cccced14.ext.json)
+
 ---
 
 ### Foreign Minister Ali Sabry to attend Iranian President Raisi’s funeral
@@ -354,23 +372,29 @@ In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was
 
 ---
 
-### ඒ දරුවන්ගේ ඇදුම් පොත්පත් විනාසයි
+### Those children's clothes literature disunited
 
 *2024-05-21 16:46:00* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-දරුවන්ගේ-ඇදුම්-පොත්පත්-විනාසයි/11-409770) · `si`
 
-ඊයේ රාත්‍රියේ මහනුවර ප්‍රදේශයට පැවති අයහපත් කාලගුණ තත්වය හේතුවෙන් පිළිමතලාව ගංගොට ප්‍රදේශයේ නිවසක් මතට තල් ගසක් කඩා වැටීමෙන් නිවසට බර පතල හානි සිදුවි ඇත.
+Heavy rain caused a palm tree to fall on a house in Pilgatalawa, damaging it but not injuring anyone. The incident occurred while two girls and their mother, who works abroad, were at home. School was closed due to the severe weather conditions.
 
-ඊයේ (20) රාත්‍රියේ දැඩි සුලං සමගින් ඇද හැලුනු ධාරාණිපාත වර්ෂාව පැවති වේලාවේදි නිවස අසල තිබුනු පැරණි තල් ගසක් නිවස මතට කඩා වැටි ඇති අතර ඉන් නිවසේ කාමර දෙකක් සහ කුස්සියට දැඩි ලෙස හානි සිදුවි ඇති බව ප්‍රෙද්ශවාසින් පැවසිය.
+🟩
 
-සිද්ධියෙන් කිසිවෙකුට අනතුරක් සිදුවි නොමැති බවත් ගස වැටෙන් සබ්දයට සියලු දෙනා නිවසින් පිටතට දුව ආ නිසා සිදුවිමට ගිය දැඩි අනතුරක් වැලකි ගොස් ඇති බව ප්‍රෙද්ශවාසිහු පැවසිය.
+Due to the bad weather in the Kandy-Kandy, the loss of a palm tree was damaged due to a house in Pilgatalawa.
 
-සිද්දිය වන අවස්ථාවේදි නිවසේ දැරියන් දෙදෙනෙකු හා එක් පුතා සමග අත්තම්මා පමනක් නිවසේ සිට ඇති අතර ආර්ථික අපහසු තා නිසා මව විදේශ රටක සේවය කරනු ලබන බවත් ස්වාමියා නොමැතිව ජිවත්විමේ අපහසුව නිසා දරුවන්ගේ මව විදෙස් රැකියාවකට ගොස් ඇති බව ප්‍රෙද්සවාසින් පැවසිය.
+The old palm tree near the house was declined on the house at the home of heavy rainfall last night.
 
-නිවසට සිදුවු දැඩි අලාබය නිසා පාසැල් යන වි ගොස් නැවත පරිහරණයට ගැනිමට නොහැකි බවද ප්‍රදේශවාසිහු පැවුසුහ.
+It was said that no one was in danger of the tree, as everyone returned from the house with the drop of the tree.
+
+At the time, two girls and the gallery were in the home and the mother of the mother was working abroad and was the mother of their children in a foreign employment.
+
+There were also unable to go to school because of heavy harm to the house.
 
 ◼️
 
 [Data](articles/435d4896.json)
+
+[Extended Data](ext_articles/435d4896.ext.json)
 
 ---
 
@@ -397,6 +421,8 @@ A delay in external debt restructuring discussions was also impacting overall ma
 ...
 
 [Data](articles/ea2c096f.json)
+
+[Extended Data](ext_articles/ea2c096f.ext.json)
 
 ---
 
@@ -790,21 +816,29 @@ Jayesinghe is a career diplomat who joined the Sri Lanka Foreign Service in 1998
 
 ---
 
-### බන්ධනාගාර නිලධාරීන්ගේ වෘත්තීය ක්‍රියාමාර්ග අවසන්
+### Progress of Prison Officers completed
 
 *2024-05-21 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ගේ-වෘත්තීය-ක්‍රියාමාර්ග-අවසන්/11-409767) · `si`
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මැතිතුමා පිළිබදව විශ්වාසය තබා බන්ධනාගාර නිලධාරීන් විසින් ගෙන ගිය වෘත්තිය ක්‍රියාමාර්ගය අවසන් කිරීමට පියවර ගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පවසයි.
+Prison officers began a professional development program seeking a salary hike. The Commissioner General advised against disrupting judicial activities. The Justice Minister plans to support their request through a cabinet paper, acknowledging their concerns.
 
-රුපියල් විසි දහසක වැටුප් වැඩිවීමක් ලබා දෙන ලෙස ඉල්ලමින් බන්ධනාගාර නිලධාරීන් ඊයේ පෙරවරුවේ සිට වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කළ අතර, ඒ පිළිබදව අද ( 21) දහවල් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා ඇතුළු උසස් බන්ධනාගාර නිලධාරීන් සහ වෘත්තීය ක්‍රියාමාර්ගයන්හි නිරත නිලධාරීන් අතර විශේෂ සාකච්ඡාවක් පැවැත්විණි.
+🟩
 
-අධිකරණ කටයුතු අඩාල වීමට ඉඩ නොතබන ලෙසත්, බන්ධනාගාර කටයුතු සදහා බාධා වන ආකාරයට කටයුතු නොකරන ලෙසත් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා එහිදී ඔවුන්ට දැනුම් දී තිබේ.
+Minister of Prison, Prison and Constitutional Reforms, Hon.. Says Mr. Dissanayake.
 
-බන්ධනාගාර නිලධාරීන්ගේ ඉල්ලීම සාධාරණ බැවින් එය ඉටුකිරීම සඳහා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කොට ඔවුන්ට සාධාරණයක් ඉටුකිරීමට තමන් කටයුතු කරන බව අධිකරණ අමාත්‍යවරයා පසුගිය විසිවනදා සඳහන් කලේය.
+Prison officials commenced a professional program from the same morning asking for a salary increase in Rs.
 
-...
+The Commissioner General of Prisons has informed them not to allow the judicial activities and not to interrupt prison.
+
+The Justice Minister stated that he would work to perform a cabinet paper to perform a cabinet paper to perform it as the request of prison officials were fair.
+
+The suspects struggle said that the officers of the prison said that the circumcision was confident of the Minister of Justice and report the vocational action.
+
+◼️
 
 [Data](articles/57223773.json)
+
+[Extended Data](ext_articles/57223773.ext.json)
 
 ---
 
@@ -1068,6 +1102,8 @@ Lal Kantha was addressing a group of military veterans at an event in Ratnapura.
 
 [Data](articles/8a8d6f39.json)
 
+[Extended Data](ext_articles/8a8d6f39.ext.json)
+
 ---
 
 ### The school is running tomorrow
@@ -1288,6 +1324,18 @@ He strongly admonished not to proclaim the cases of Rs. 5 million.
 
 ---
 
+### Adverse weather affects daily chores
+
+*2024-05-21 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adverse-weather-affects-daily-chores/110-283059) · `en`
+
+People engaged in their daily chores have been affected by the adverse weather. Depicted here are individuals working in Pettah suffering due to the adverse conditions as several roads in the Fort area experienced minor flooding. Pix by Nisal Baduge and Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/277b24d0.json)
+
+---
+
 ### Here is the amount of money Danish
 
 *2024-05-21 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196863) · `si`
@@ -1447,6 +1495,42 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 [Data](articles/ce38edd7.json)
 
 [Extended Data](ext_articles/ce38edd7.ext.json)
+
+---
+
+### LPL auction:  Matheesha Pathirana breaks record as most expensive player
+
+*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/LPL-auction-Matheesha-Pathirana-breaks-record-as-most-expensive-player/155-283052) · `en`
+
+18.02 PM - Nisala Tharaka sold to Jaffna Kings for $5,000 as the last player of the auction
+
+18.00 PM - Bowler Yuri Koththigoda from Sri Lanka sold to Galle Marvels $5,000
+
+17.56 PM - Theesan Vithushan goes to Jaffna Kings for $5,000
+
+17.54 PM - Santhush Gunathilake sold to Dambulla Thunders for $6,000
+
+17.51 PM - 18-year-old Afghan bowler Allah Ghazanfar sold to Colombo Strikers for $10,000
+
+17.49 PM - Pakistani cricketer Haider Ali sold to Dambulla Thunders for $25,000
+
+17.45 PM - Jaffna Kings locks in Pathum Nissanka for $40,000
+
+17.41 PM - All-rounder from Sri Lanka Arul Pragasam sold to Jaffna Kings for $5,000
+
+17.39 PM - Galle Marvels locks in Jeffrey Vandersay for $30,000
+
+17.38 PM - Chamindu Wijesinghe sold to Galle Marvels for $5,000
+
+17.37 PM - Murvin Abinash from Sri Lanka sold to Jaffna Kings for $5,000
+
+17.36 PM - B-Love Kandy signs Pakistani cricketer Mohammad Ali for $10,000
+
+17.35 PM - Afghan cricketer Mujeeb Ur Rahman sold to Galle Marvels for $50,000
+
+...
+
+[Data](articles/d41d8511.json)
 
 ---
 
@@ -1705,6 +1789,8 @@ The principal activities BoC Travels was given as ‘Engages in travel related s
 ...
 
 [Data](articles/c63ba4fa.json)
+
+[Extended Data](ext_articles/c63ba4fa.ext.json)
 
 ---
 
@@ -2172,6 +2258,8 @@ State Defence Minister Pramitha Bandara Tennakoon last week said that there have
 
 [Data](articles/45c88c8e.json)
 
+[Extended Data](ext_articles/45c88c8e.ext.json)
+
 ---
 
 ### Diana appeared in court
@@ -2209,55 +2297,5 @@ The Army also said that among those who received legal discharge, there are 373 
 [Data](articles/d4a352d9.json)
 
 [Extended Data](ext_articles/d4a352d9.ext.json)
-
----
-
-### More than 15 thousand soldiers are legally out of service
-
-*2024-05-21 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184105) · `ta`
-
-Over 15,000 Sri Lankan soldiers face legal expulsion due to unpaid leaves, as per a public amnesty deadline passed. The amnesty, aimed at addressing improper vacations, ended on December 31, 2023, affecting soldiers who didn't take their holidays before this date. Additionally, 373 military personnel stationed overseas were ordered to leave without permission during this period.
-
-🟩
-
-According to media reports released by the Sri Lanka Army Headquarters, 15667 soldiers who did not pay off without vacation at the end of the public amnesty will be legally expelled.
-
-The one -month amnesty period was implemented for members of the Sri Lankan army who did not perform a proper vacation without a proper vacation, from April 20 to 2024 to 2024 to leave the service from May 2024.
-
-Accordingly, action has been taken to quit the legal service to soldiers who did not work without a holiday before December 31, 2023, the Public Amnesty period of the declared.
-
-In addition, a media statement issued by the military leadership further stated that 373 people from the military abroad have been made necessary to leave the army without permission without permission during the above period.
-
-◼️
-
-[Data](articles/69c0eb8a.json)
-
-[Extended Data](ext_articles/69c0eb8a.ext.json)
-
----
-
-### Kusal received visa to go to America
-
-*2024-05-21 11:16:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-செல்ல-விசாவைப்-பெற்றார்-குசல்/175-337625) · `ta`
-
-Sri Lanka's Kusal Mendis got his U.S. visa for the ICC Men's T20 World Cup, joining his team soon after a visa delay caused him to miss the initial trip.
-
-🟩
-
-Sri Lankan star batsman Gusal Mendis has received a visa to go to the United States to compete in the upcoming ICC men T20 World Cup.
-
-He is expected to go to the US and join the Sri Lankan team in the next few days.
-
-Although the Sri Lankan national team went to the US last week, Kusal Mendis was unable to join them due to a delay in obtaining a visa.
-
-The visa is said to have been delayed by additional information required by the US embassy, ​​but it was resolved because the cricketer received the visa.
-
-The ICC Men's Cricket World Cup begins on June 01, 2024, and will be held in the US and West Indies.
-
-◼️
-
-[Data](articles/2c6537d6.json)
-
-[Extended Data](ext_articles/2c6537d6.ext.json)
 
 ---

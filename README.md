@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 12:51:35**
+As of **2024-05-21 13:03:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,401 (100.0%) of 25,402 articles have been extended.
+25,402 (100.0%) of 25,402 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -123,6 +123,8 @@ Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to 
 ◼️
 
 [Data](articles/ed305721.json)
+
+[Extended Data](ext_articles/ed305721.ext.json)
 
 ---
 

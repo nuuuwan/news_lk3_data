@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 23:03:47**
+As of **2024-05-21 23:18:25**
 
 ## Newspaper Stats
 
-*Scraped **25,534** Articles*
+*Scraped **25,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,468
 dailyftlk | 1,503
 adalk | 2,193
 adaderanalk | 2,947
-tamilmirrorlk | 2,980
+tamilmirrorlk | 2,981
 virakesarilk | 3,864
 dailymirrorlk | 4,011
 adaderanasinhalalk | 4,086
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,534 (100.0%) of 25,534 articles have been extended.
+25,534 (100.0%) of 25,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### இந்தியாவில் சிக்கிய ISIS இலங்கையர்கள் குறித்து அதிர்ச்சி தகவல்கள் வெளியாகின
+
+*2024-05-21 23:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-சிக்கிய-ISIS-இலங்கையர்கள்-குறித்து-அதிர்ச்சி-தகவல்கள்-வெளியாகின/175-337666) · `ta`
+
+இந்தியாவின் அகமதாபாத் சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்ட இலங்கையை சேர்ந்த நான்கு ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் என சந்தேகிக்கப்படும் நபர்கள், தற்கொலைத் தாக்குதல் நடத்துவதற்கு கூட தயாராக இருந்ததாக குஜராத் பொலிஸ் தரப்பில் கூறப்பட்டுள்ளது.
+
+இலங்கையில் இருந்து அகமதாபாத் நகருக்கு வந்த இலங்கையை சேர்ந்த நான்கு பேர் அகமதாபாத் சர்தார் படேல் சர்வதேச விமான நிலையத்தில் வைத்து ஞாயிற்றுக்கிழமை இரவு கைது செய்யப்பட்டனர்.
+
+இவர்களை குஜராத் தீவிரவாத தடுப்புப் படையினர் கைது செய்து நேற்று மதியம் செய்தியாளர்கள் சந்திப்பில் முன்நிறுத்தியதுடன், இதில் பல தகவல்கள் வெளியாகின.
+
+இதன்படி, கைது செய்யப்பட்ட  33 வயதான மொஹமட் நுஸ்ரத் என்ற நபர் நீர்கொழும்பைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+
+கொழும்பை சேர்ந்த 27 வயதான மொஹமட் நஃப்ரான், 43 வயதான மொஹமட் ரஷ்டீன் மற்றும் 35 வயதான மொஹமட் ஃபரிஷ் ஆகியோர் கைது செய்யப்பட்ட ஏனைய பயங்கரவாதிகளாவர்.
+
+இவர்கள் இந் நாட்டிலிருந்து சென்னை வழியாக அகமதாபாத் நகருக்கு இண்டிகோ ஏர்லைன்ஸ் விமானம் மூலம் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/23224b27.json)
+
+---
 
 ### Sri Lanka to launch two pilot projects to address human-elephant conflict
 
@@ -2227,43 +2249,5 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 [Data](articles/76db9dc9.json)
 
 [Extended Data](ext_articles/76db9dc9.ext.json)
-
----
-
-### Lanka Premier League (LPL) auction
-
-*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
-
-18.02 PM - Nisala Tharaka sold to Jaffna Kings for $5,000 as the last player of the auction
-
-18.00 PM - Bowler Yuri Koththigoda from Sri Lanka sold to Galle Marvels $5,000
-
-17.56 PM - Theesan Vithushan goes to Jaffna Kings for $5,000
-
-17.54 PM - Santhush Gunathilake sold to Dambulla Thunders for $6,000
-
-17.51 PM - 18-year-old Afghan bowler Allah Ghazanfar sold to Colombo Strikers for $10,000
-
-17.49 PM - Pakistani cricketer Haider Ali sold to Dambulla Thunders for $25,000
-
-17.45 PM - Jaffna Kings locks in Pathum Nissanka for $40,000
-
-17.41 PM - All-rounder from Sri Lanka Arul Pragasam sold to Jaffna Kings for $5,000
-
-17.39 PM - Galle Marvels locks in Jeffrey Vandersay for $30,000
-
-17.38 PM - Chamindu Wijesinghe sold to Galle Marvels for $5,000
-
-17.37 PM - Murvin Abinash from Sri Lanka sold to Jaffna Kings for $5,000
-
-17.36 PM - B-Love Kandy signs Pakistani cricketer Mohammad Ali for $10,000
-
-17.35 PM - Afghan cricketer Mujeeb Ur Rahman sold to Galle Marvels for $50,000
-
-...
-
-[Data](articles/cabcf902.json)
-
-[Extended Data](ext_articles/cabcf902.ext.json)
 
 ---

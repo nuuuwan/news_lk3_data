@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 18:11:22**
+As of **2024-05-21 18:24:54**
 
 ## Newspaper Stats
 
-*Scraped **25,477** Articles*
+*Scraped **25,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,34 @@ adalk | 2,185
 adaderanalk | 2,941
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
-dailymirrorlk | 4,000
+dailymirrorlk | 4,003
 adaderanasinhalalk | 4,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,476 (100.0%) of 25,477 articles have been extended.
+25,477 (100.0%) of 25,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### පැතුම් නිස්සංකට හිමිවූ මුදල මෙන්න
+### Here is the amount of money received by wishes
 
 *2024-05-21 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196874) · `si`
 
-LPL තරගාවලියේ ක්‍රීඩක වෙන්දේසියේදී ශ්‍රී ලංකා සුපිරි පිතිකරු පැතුම් නිස්සංක ජැෆ්නා කණ්ඩායම මිලදීගනු ලැබීය.
+Sri Lanka's cricketer Wishes was bought at the LPL player auction for a significant sum.
+
+🟩
+
+Sri Lanka's superfiscker was purchased at the LPL's superfice at auction at the player auction.
 
 ◼️
 
 [Data](articles/3f3ba2e7.json)
+
+[Extended Data](ext_articles/3f3ba2e7.ext.json)
 
 ---
 
@@ -95,6 +101,18 @@ Singapore's Transport Minister Chee Hong Tat said the government would provide a
 [Data](articles/209cbd19.json)
 
 [Extended Data](ext_articles/209cbd19.ext.json)
+
+---
+
+### Chongqing Airlines resumes flights from June 24
+
+*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chongqing-Airlines-resumes-flights-from-June-24/108-283072) · `en`
+
+Colombo, May 21 (Daily Mirror) - Chongqing Airlines will resume operations between Chongqing, China and Colombo from June 24, the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said.
+
+◼️
+
+[Data](articles/3833afc1.json)
 
 ---
 
@@ -996,6 +1014,18 @@ The CID had commenced investigations into this incident subsequent to a complain
 
 ---
 
+### Black flags at Iranian Cultural Centre
+
+*2024-05-21 14:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Black-flags-at-Iranian-Cultural-Centre/110-283062) · `en`
+
+Black flags were displayed at the Iranian Cultural Centre in Colombo mourning the death of Iranian President Ebrahim Raisi. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/ccf00816.json)
+
+---
+
 ### Bad weather uproots trees in Colombo
 
 *2024-05-21 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Bad-weather-uproots-trees-in-Colombo/110-283063) · `en`
@@ -1007,6 +1037,18 @@ Due to the inclement weather, several trees in the Colombo city areas were uproo
 [Data](articles/28ff9b21.json)
 
 [Extended Data](ext_articles/28ff9b21.ext.json)
+
+---
+
+### Francisco receiving UNP membership
+
+*2024-05-21 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Francisco-receiving-UNP-membership/110-283061) · `en`
+
+Samagi Jana Balawegaya (SJB) Mulkirigala Organizer Nimal Francisco who joined United National Party (UNP) receives his membership from party Chairman Vajira Abeywardene at Sirikotha today. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/5ac20795.json)
 
 ---
 
@@ -1122,29 +1164,31 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
 
-16.09 PM - Dambulla Thunders bags Afghan cricketer Karim Janat for USD 80,000
+18.02 PM - Nisala Tharaka sold to Jaffna Kings for $5,000 as the last player of the auction
 
-16.05 PM - Sri Lankan cricketer Chaturanga de Silva bags B-Love Kandy for USD 30,000
+18.00 PM - Bowler Yuri Koththigoda from Sri Lanka sold to Galle Marvels $5,000
 
-16.04 PM - Galle Marvels secure Sri Lankan cricketer Dhananjaya Lakshan for USD 10,000
+17.56 PM - Theesan Vithushan goes to Jaffna Kings for $5,000
 
-15.52 PM - 19-year-old Chamath Gomez sold to B-Love Kandy for USD 5,000
+17.54 PM - Santhush Gunathilake sold to Dambulla Thunders for $6,000
 
-15.49 PM - Afghan cricketer Hazratullah Zazai sold to Dambulla Thunders for USD 50,000
+17.51 PM - 18-year-old Afghan bowler Allah Ghazanfar sold to Colombo Strikers for $10,000
 
-15.48 PM - 22-year-old Ahan Wickramasinghe sold to Jaffna Kings for USD 5,000
+17.49 PM - Pakistani cricketer Haider Ali sold to Dambulla Thunders for $25,000
 
-15.47 PM - South African cricketer Reeza Hendricks goes unsold in the first round
+17.45 PM - Jaffna Kings locks in Pathum Nissanka for $40,000
 
-15.46 PM - Australian cricketer Alex Ross sold to Jaffna Kings for USD 20,000
+17.41 PM - All-rounder from Sri Lanka Arul Pragasam sold to Jaffna Kings for $5,000
 
-15.43 PM - Muhammad Waseem from UAE goes to Colombo Strikers for USD 20,000
+17.39 PM - Galle Marvels locks in Jeffrey Vandersay for $30,000
 
-15.41 PM - Galle Marvels secure Sri Lankan cricketer Isuru Udana for USD 100,000
+17.38 PM - Chamindu Wijesinghe sold to Galle Marvels for $5,000
 
-15.37 PM - Sri Lankan cricketer Isitha Wijesundera sold to Colombo Strikers for USD 5,000
+17.37 PM - Murvin Abinash from Sri Lanka sold to Jaffna Kings for $5,000
 
-15.35 PM - Sri Lankan cricketer Lahiru Samarakoon sold to Jaffna Kings for USD 13,000
+17.36 PM - B-Love Kandy signs Pakistani cricketer Mohammad Ali for $10,000
+
+17.35 PM - Afghan cricketer Mujeeb Ur Rahman sold to Galle Marvels for $50,000
 
 ...
 
@@ -2277,89 +2321,5 @@ Significantly, there is a huge difference between the position of the other coun
 [Data](articles/7ebd4388.json)
 
 [Extended Data](ext_articles/7ebd4388.ext.json)
-
----
-
-### 15,667 soldiers legal
-
-*2024-05-21 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196851) · `si`
-
-In one month, 15,667 Sri Lanka Army soldiers left without permission, including 373 stationed overseas.
-
-🟩
-
-One month of the year of army soldiers ended yesterday (20).
-
-The Sri Lanka Army has issued a statement that 15,667 members have led down in the same period.
-
-This public time was published for the soldiers who were not reported to work without any leave without leave.
-
-Meanwhile, 373 soldiers abroad have been led by the Army with 373 people abroad.
-
-◼️
-
-[Data](articles/98b29d41.json)
-
-[Extended Data](ext_articles/98b29d41.ext.json)
-
----
-
-### Sri Lanka Indonesia Peramuniation Agreement in the first quarter of next year
-
-*2024-05-21 10:16:57* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකා-ඉන්දුනිසියා-වරණිය-ගිවිසුම-ලබන-වසරේ-මුල්-කාර්තුවේදි/11-409756) · `si`
-
-In the first quarter of next year, Presidents Ranil Wickremesinghe of Sri Lanka and Joko Widodo of Indonesia will sign a Peramuniation Agreement during the 10th World Water Summit in Bali. They aim to strengthen historical ties, discuss global challenges, and enhance economic cooperation, especially in water management and renewable energy. The leaders also touched upon removing import barriers and the potential for Indonesian pharmaceuticals and palm oil in Sri Lanka's market.
-
-🟩
-
-President Ranil Wickremesinghe and Indone Widodo were held in parallel to the 10th World Water Summit held in Bali Palace in Indonesia.
-
-President Ranil Wickremesinghe very friendly accepted the Mahashae very well and started bilateral talks after a good talk between the two leaders leader.
-
-The leaders paid special attention to further strengthening theirtorical relations between Sri Lanka and Indonesia.
-
-The leaders of the regional and international affairs were also focused on the importance of cooperation between the two countries when faced with global challenges.
-
-President Ranil Wickremesinghe explained the importance of global cooperation while concluding the historical partnership between Sri Lanka and Indonesia in 1956.
-
-The President also thanked the leadership of the Indonesian President Vidodydo in regional and international activities.
-
-...
-
-[Data](articles/b96d2038.json)
-
-[Extended Data](ext_articles/b96d2038.ext.json)
-
----
-
-### The ugly work done by the neighbors businessman
-
-*2024-05-21 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196850) · `si`
-
-Four individuals, aged 45 to 61 from Embilipitiya Akuressa, were arrested for robbing a businessman in the Imaduwa area of Galle. They were caught with three live bullets and several gold items. The crime was captured on CCTV, showing the suspects arriving at the shop. Police interrogated them in various locations including Katana, Kandana, Embilipitiya, Middeniyawala, and Wattala.
-
-🟩
-
-Four persons have been arrested for robbing firearms and robbed a fears.
-
-The suspects were taken into custodia and three live bullets in their possession when they were arrested.
-
-Police said that the suspects went in a car and feared firearms in the Imaduwa area in Galle.
-
-The businessman also revealed that the businessman is also a businessman who is a neighboring businessman.
-
-The arrested suspects are residents of Embilipitiya Akuressa, between 45 and 61.
-
-The suspects were in a cCTV camera how the suspects arrive at the shop and the robbery of firearms.
-
-The suspects were also questioned by the suspects before the Katana, Kandana, Embilipitiya, Middeniyawala, Wattala.
-
-The police have also been able to find several golden items.
-
-◼️
-
-[Data](articles/db9845d7.json)
-
-[Extended Data](ext_articles/db9845d7.ext.json)
 
 ---

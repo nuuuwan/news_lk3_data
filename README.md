@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 00:04:49**
+As of **2024-05-22 00:18:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,537 (100.0%) of 25,542 articles have been extended.
+25,542 (100.0%) of 25,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Hyderabad will have another shot at making the final when they clash with the wi
 ...
 
 [Data](articles/7975f07c.json)
+
+[Extended Data](ext_articles/7975f07c.ext.json)
 
 ---
 
@@ -666,6 +668,8 @@ The report, titled â€œAccountability for Enforced Disappearances in Sri Lanka,â€
 
 [Data](articles/c1dcec10.json)
 
+[Extended Data](ext_articles/c1dcec10.ext.json)
+
 ---
 
 ### Puttalam District schools to reopen tomorrow
@@ -873,6 +877,8 @@ With elections coming up in Sri Lanka, the World Bank is concerned that reform f
 ...
 
 [Data](articles/b8635da6.json)
+
+[Extended Data](ext_articles/b8635da6.ext.json)
 
 ---
 

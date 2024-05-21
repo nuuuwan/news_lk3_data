@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 15:18:38**
+As of **2024-05-21 15:33:55**
 
 ## Newspaper Stats
 
-*Scraped **25,440** Articles*
+*Scraped **25,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,180
+adalk | 2,181
 adaderanalk | 2,937
-tamilmirrorlk | 2,970
+tamilmirrorlk | 2,973
 virakesarilk | 3,849
 dailymirrorlk | 3,994
 adaderanasinhalalk | 4,069
@@ -26,27 +26,93 @@ adaderanasinhalalk | 4,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,437 (100.0%) of 25,440 articles have been extended.
+25,440 (100.0%) of 25,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ෆොන්සේකා පිළිබඳ සජබයේ ප්‍රතිශෝධන පෙත්සමට දිනයක්
+### டயனாக்கெதிராக குற்றவியல் வழக்கு ஏற்பாடு
 
-*2024-05-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196866) · `si`
+*2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாக்கெதிராக-குற்றவியல்-வழக்கு-ஏற்பாடு/175-337643) · `ta`
 
-ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සම්බන්ධයෙන් සමගි ජන බලවේගය විසින් ගොනු කර තිබෙන ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා ජුනි මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කර තිබේ.
+காணாமல் போயிருந்ததாகக் கூறப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே, நீதிமன்றில் செவ்வாய்க்கிழமை (21)  முன்னிலையாகியிருந்தார்.
 
-ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගය තුළ දරනු ලබන තනතුරු සහ ඔහුගේ පක්ෂ සාමාජිකත්වය අත්හිටුවීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් පනවා තිබෙන වාරණ නියෝගය අත්හිටුවීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සමගි ජන බලවේගය විසින් ගොනු කර තිබෙන ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා මෙලෙස ජුනි මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+குறித்த குற்றச்சாட்டு தொடர்பில் டயனா கமகேவை சந்தேகநபராகப் பெயரிடுமாறு நீதிமன்றம் நேற்று(20) உத்தரவிட்டிருந்தது.
 
-මෙම  ප්‍රතිශෝධන පෙත්සම අද (21) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+குற்றப்புலனாய்வு திணைக்களத்தினால் நீதிமன்றில் திங்கட்கிழமை (20) முன்வைக்கப்பட்ட விடயங்களை ஆராய்ந்த பின்னர் கொழும்பு பிரதம நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
 
-හිටපු යුද හමුදාපති දයා රත්නායක මහතා සමගි ජන බලවේගයට එක්කර ගැනීම සම්බන්ධයෙන් තමන් විසින් සිදු කළ ප්‍රකාශය පදනම් කරගෙන සමගි ජන බලවේගය නායකයින් විසින් සිය පක්ෂ සාමාජිකත්වය හා තමන් දැරූ තනතුරුවලින් ඉවත් කිරීමේ සූදානමක් පවතින බව සඳහන් කරමින් සරත් ෆොන්සේකා මහතා විසින් කොළඹ දිසා අධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබුණි.
+இதனிடையே, முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தொடர்பில் குற்றவியல் வழக்கு ஏற்பாடுகளின் அடிப்படையில் நடவடிக்கை எடுக்குமாறு சட்டமா அதிபரால் குற்றப்புலனாய்வு திணைக்களத்திற்கு ஆலோசனை வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1667b91f.json)
+
+---
+
+### ”அடுத்த மாதம் ரணில் உத்தியோகபூர்வமாக அறிவிப்பார்”
+
+*2024-05-21 15:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-ரணில்-உத்தியோகபூர்வமாக-அறிவிப்பார்/175-337642) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடுவது குறித்து தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க உத்தியோகபூர்வமாக அடுத்த மாதம் அறிவிப்பார் என அமைச்சர் மனுஷ நாணயக்கார இன்று தெரிவித்தார்.
+
+“இந்த ஆண்டு நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி விக்கிரமசிங்க போட்டியிட மாட்டார் என்று ஐக்கிய மக்கள் சக்தி (SJB) உட்பட பலரால் ஒரு கதை பரப்பப்படுகிறது.
+
+எவ்வாறாயினும், விக்கிரமசிங்க, அத்தகைய விடயத்தை முன்வைக்கும் அனைவருக்கும் ஒரு அடியை வழங்குவார், ஏனெனில் அவர் மற்றொரு பதவிக்காலத்தை கோருவார். அடுத்த மாதம் அவர் தனது வேட்புமனுவை உத்தியோகபூர்வமாக அறிவிப்பார்” என அமைச்சர் நாணயக்கார ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+“நாட்டின் நலனுக்காக கடினமான நேரத்தில் ஜனாதிபதி பதவியை ஏற்றுக்கொண்டதன் மூலம் விக்கிரமசிங்க தனது திறமையை நிரூபித்துள்ளார். பலர் அதைத் தவிர்த்தபோது அவர் அவ்வாறு செய்தார். இன்னும் பலர் பொறுப்பிலிருந்து ஓடிப்போய் தங்கள் அரசியல் எதிர்காலத்தை மட்டுமே நினைத்தனர்” என்று அவர் மேலும் கூறினார்.
 
 ...
 
+[Data](articles/e370fa8d.json)
+
+---
+
+### டயானாவுக்குப் பிணை
+
+*2024-05-21 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்குப்-பிணை/175-337641) · `ta`
+
+போலியான தகவல்களை வழங்கி கடவுச்சீட்டைப் பெற்றுக் கொண்டதாக எழுந்த முறைப்பாடு தொடர்பில் கொழும்பு பிரதான நீதவான் நீதிமன்றில் ஆஜராகியிருந்த முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவை பிணையில் விடுவிக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+இந்நிலையில், 5 இலட்சம் ரூபா ரொக்க பிணை மற்றும் ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீர பிணைகளில் விடுதலை செய்ய கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த விடயம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் குற்றப் புலனாய்வுப் பிரிவினர் ஏற்கனவே டயானா கமகேயை சந்தேக நபராக பெயரிட்டுள்ளனர்.
+
+2021 ஆம் ஆண்டில், டயானா கமகே இரட்டைக் குடியுரிமை அந்தஸ்து இல்லாமல் இலங்கையில் வசிக்கும் பிரித்தானியப் பிரஜை என்ற முறைப்பாட்டின் பேரில் அவருக்கு எதிராக சிஐடி தலைமை நீதவான் நீதிமன்றத்தில் பி அறிக்கையை தாக்கல் செய்தது.
+
+சமூக ஆர்வலர் ஓஷல ஹேரத் செய்த முறைப்பாட்டையடுத்து இந்த சம்பவம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/20214fbb.json)
+
+---
+
+### Day to the revision petition on Fonseka
+
+*2024-05-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196866) · `si`
+
+Field Marshal Sarath Fonseka's reconciliation petition was dismissed by the Court of Appeal, which will now hear the case. The Colombo District Court had previously issued an injunction against the appeal, but it was lifted.
+
+🟩
+
+The Court of Appeal has set up the reconciliation petition filed by Field Marshal Sarath Fonseka on June 5.
+
+The Court of Appeal is to be summoned by the Colombo District Court on the 5th of June to submit the decision to be held by Field Marshal Sarath Fonseka.Specified.
+
+The judge of the Court of Appeal today (21) was called before the Court of Appeal Judge Nissanka Bandula Karunaratne and Shashi Mahendran.
+
+Sarath Fonseka filed a petition to the Colombo District Court on the basis of the statement made by former Army Commander Daya Ratnayake on his statement on the reconciliation.
+
+The Colombo District Court earned the Colombo District Court prevented a enjoining order preventing the Colombo District Court.
+
+The judiciary of Sajith Premadasa, General Secretary of the President and the leader of the A Court of Appeal was filed by the Leader of the Appeal and General Manipulation.
+
+◼️
+
 [Data](articles/267cb2c4.json)
+
+[Extended Data](ext_articles/267cb2c4.ext.json)
 
 ---
 
@@ -68,21 +134,29 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/e7219556.json)
 
+[Extended Data](ext_articles/e7219556.ext.json)
+
 ---
 
-### நாளை பாடசாலை இயங்கும்
+### The school is running tomorrow
 
 *2024-05-21 14:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-பாடசாலை-இயங்கும்/175-337640) · `ta`
 
-பாடசாலைகள்  நாளை புதன்கிழமை (22) மூடப்படும் என சமூக வலைத்தளங்களில் பரவி வரும் வதந்திகள் தவறானவை என கல்வி அமைச்சு  அறிவித்துள்ளது.
+Schools open tomorrow despite social media rumors; Ministry confirms no closure.
 
-பாடசாலைகள் நாளை (22)  மூடப்படும் என பல சமூக ஊடக செய்திகள் பரவி வருகின்றன.
+🟩
 
-எனவே, நாளைய தினம் பாடசாலைகள் வழமை போல இயங்கும் எனவும், அந்தந்த சூழ்நிலைகளுக்கு ஏற்ப பாடசாலைகளை நடத்துவதா இல்லையா என்பதை தீர்மானிக்கும் அதிகாரம் மாகாண கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாகவும் அமைச்சு அறிவித்துள்ளது.
+The Ministry of Education has announced that rumors spreading on social media are false that schools will be closed tomorrow (22).
+
+There are many social media reports that schools will be closed tomorrow (22).
+
+Therefore, the Ministry has announced that the schools will run as usual tomorrow and whether or not to conduct schools according to their respective circumstances.
 
 ◼️
 
 [Data](articles/8425294a.json)
+
+[Extended Data](ext_articles/8425294a.ext.json)
 
 ---
 
@@ -230,6 +304,24 @@ Danushka Gunatilleke bought Danushka Gunatilleke at LPL at auction.
 
 ---
 
+### අයිස් ග්‍රෑම් 171ක් සමග දේවගැතිවරියක් අත්අඩංගුවට
+
+*2024-05-21 13:59:32* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-ග්‍රෑම්-171ක්-සමග-දේවගැතිවරියක්-අත්අඩංගුවට/11-409761) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් බන්ධනාගාර ගතව සිට ඇප ලබා පැමිණි දේව ගැතිවරියක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් එකසිය හැත්තෑ එකක් , ජංගම දුරකථන තුනක් සමග  අත් අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කොලොන්නාවේ  පදිංචි "කෝවිල් චමරි" නමැති (35) හැවිරිදි කාන්තාවක බව පොලිසිය කියයි.
+
+වැලිකඩ අරුණෝදය මාවත ප්‍රදේශයට කාන්තාවක් විසින් අයිස් මත්ද්‍රව්‍ය තොගයක්  රැගෙන එන බවට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ රාජකාරියේ නිරත  පොලිස් නිළධාරියකුට  ලද තොරතුරකට අනුව නිලධාරී කණ්ඩායමක් අරුණෝදය මාවත අසල ආවේශන රාජකාරියෙන් රැකබලා සිටියදී පැමිණි කාන්තාවක් නවතා පරීක්ෂා කිරීමේදී ඇයගේ ගමන් මල්ලේ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම්  171 හා මත්ද්‍රව්‍ය ජාවාරම සඳහා භාවිතා කරන ජංගම දුරකථන තුනක් පොලිස් භාරයට ගෙන තිබේ.
+
+පොලිස් භාරයට ගත් මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් ලක්ෂ තිහකට ආසන්න බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/3eb0fa46.json)
+
+---
+
 ### False News Ministry of Education a special
 
 *2024-05-21 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196862) · `si`
@@ -276,6 +368,14 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
 
+15.14 PM - Ranesh Silva sold to Dambulla Thunders for USD 5,000
+
+15.11 PM - Shehan Fernando sold to Colombo Strikers for USD 5,000
+
+15.10 PM - Sri Lankan cricketer Vishad Randika sold to Jaffna Kings for USD 5,000
+
+15.09 PM - New Zealand cricketer Tom Latham, West Indies player Shai Hope and Australian cricketer Josh Philippe unsold
+
 02.44 PM - South African cricketer Tabraiz Shamsi also unsold
 
 02.45 PM - 19-year-old Malsha Tharupathi sold to Galle Marvles for USD 25,000
@@ -291,14 +391,6 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 02.27 PM - Sri Lankan cricketer Nuwan Pradeep sold to Dambulla Thunders for USD 36,000.
 
 02.23 PM - Colombo Strikers secure Sri Lankan cricketer Binura Fernando for USD 55,000.
-
-02.21 PM - Australian cricketer Jason Behrendorff sold to Jaffna Kings for USD 50,000
-
-02.09 PM - Sri Lankan cricketer Nuwanidu Fernando sold to Dambulla Thunders for USD 34,000.
-
-02.07 PM - Pakistani cricketer Iftikhar Ahmed sold to Dambulla Thunders for USD 50,000
-
-02.05 PM - Sri Lanka's Dimuth Karunaratne sold to B-Love Kandy for USD 10,000.
 
 ...
 
@@ -2247,103 +2339,5 @@ Sri Lanka has about 12 billion dollars of sovereign bonds to restructure and som
 [Data](articles/821674d7.json)
 
 [Extended Data](ext_articles/821674d7.ext.json)
-
----
-
-### State coffers lose billions as Customs officers enjoy unfair benefits
-
-*2024-05-21 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-coffers-lose-billions-as-Customs-officers-enjoy-unfair-benefits/108-283012) · `en`
-
-Only 30% of revenue collected from import-related penalties is directly credited to Consolidated Fund
-
-SLC only maintains a physical attendance register, leading to possible leakages in overtime pay
-
-The state coffers have been deprived of billions of rupees, as Sri Lanka Customs (SLC) officers enjoy unfair benefits in penalties related to customs offenses and overtime pay, a special audit carried out by the Auditor General on the management/administration of various funds in SLC revealed.
-
-While the tax revenue collected by SLC on legitimate import activities is included in the government revenue at the time itself, the audit revealed that only 30 percent of the revenue collected from import-related penalties is directly credited to the Consolidated Fund.
-
-From 2012 to August 2023, Rs.14.53 billion was credited to the Consolidated Fund as this 30 percent value of all fines collected.
-
-...
-
-[Data](articles/fa0cd8a7.json)
-
-[Extended Data](ext_articles/fa0cd8a7.ext.json)
-
----
-
-### Starlink: Govt. initiates drafting new telecommunication regulations
-
-*2024-05-21 04:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starlink-Govt-initiates-drafting-new-telecommunication-regulations/108-283017) · `en`
-
-In the wake of plans by tech baron Elon Musk to visit Sri Lanka later this year, the government has initiated the process of evolving fresh regulations to facilitate the launch of Starlink satellite internet service, a Minister said yesterday.
-
-The President held talks with Musk, the billionaire head of Tesla and SpaceX and owner of social platform X and invited him to visit Sri Lanka.
-
-State Minister of Technology Kanaka Herath told Daily Mirror that an application had been sent in March, this year for the launch of Starlink in Sri Lanka.
-
-“We are now in the process of drafting new regulations,” he said.
-
-◼️
-
-[Data](articles/e653a1dd.json)
-
-[Extended Data](ext_articles/e653a1dd.ext.json)
-
----
-
-### Sri Lanka Medical Members of Parliament Resolution to discuss the policy of pharmaceuticals and health department employees
-
-*2024-05-21 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184096) · `ta`
-
-The Sri Lanka Medical Members of Parliament, led by President Hon. Professor Sanna Jayasumana, discussed drug shortages and invited health ministry officials and GMOA. They also addressed issues like the transfer policy for health workers, lack of nutritionists, support for treating disabilities, and regulating private hospitals.
-
-🟩
-
-The Union of Sri Lanka Medical Members of Parliament has focused on whether or not there is a shortage of drugs in Sri Lanka. The Union decided to invite officials of the Ministry of Health and the State Medical Officers Association (GMOA) to discuss the issue.
-
-The issue was discussed when the Sri Lankan Medical Members of Parliament was headed by its President Hon. (Professor) Sanna Jayasumana.
-
-It was the opinion of members of the Union to invite representatives of the State Medical Officers Association to discuss whether there is a shortage of pharmaceutical products in Sri Lanka and then discuss the matter with the relevant authorities.
-
-The Hon. (Medical) Tilak Rajapaksa urged that the transfer policy of medical experts and small staff should be reviewed as many health workers face difficulties.
-
-Hon. Rajitha Senaratne said that there are not enough nutritionists in the country and emphasized the need for the appropriate system to create nutritional experts at home.
-
-...
-
-[Data](articles/fc465e24.json)
-
-[Extended Data](ext_articles/fc465e24.ext.json)
-
----
-
-### Airplane model, led to a dollar of popsicle cin
-
-*2024-05-21 04:06:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11ee8d872o) · `si`
-
-Sri Lankan entrepreneur Liyanage crafts detailed airplane models from wood, inspired by a childhood ice cream cone. His creations, ranging from 1/200th scale, are handcrafted without machinery, showcasing intricate details of actual aircraft. Starting with a simple ice cream cone, his passion evolved into creating replicas of planes, including the iconic Air Lanka logo. His models, priced from Rs. 18,000, have been sold to over 500 customers worldwide, contributing significantly to Sri Lanka's foreign exchange earnings.
-
-🟩
-
-Airplane model, led to a dollar of popsicle cin
-
-We have heard the talk about courageous ones who became a capitalist. This is a story about such a courageous Sri Lankan.
-
-He is now a foreign exchange earner for the Sri Lankan economy.
-
-He runs a business to create timber, using timber, using timber.
-
-He was a 32-year-old, and he was born in the opening of the Matara, a resident of Pannipitiya.
-
-"I'm most models to orders of outside countries. Many Sri Lankans in many countries ordered. Long time receives orders from pilots. The plane, which they ride, the first flight plane. Such forms are being made to me. There are no formal models in the world. They have previously used aircraft, but they don't have a model. That's what I'm trying to make a discussion with the BBC Sinhala service and stated in a conversation with the Sinhala service.
-
-The specialty of his creations is to create a woody format with all the elements of the original format.
-
-...
-
-[Data](articles/745511c9.json)
-
-[Extended Data](ext_articles/745511c9.ext.json)
 
 ---

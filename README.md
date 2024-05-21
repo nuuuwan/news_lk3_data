@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 00:34:01**
+As of **2024-05-22 00:50:36**
 
 ## Newspaper Stats
 
-*Scraped **25,548** Articles*
+*Scraped **25,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,90 @@ adalk | 2,193
 adaderanalk | 2,947
 tamilmirrorlk | 2,981
 virakesarilk | 3,869
-dailymirrorlk | 4,013
+dailymirrorlk | 4,014
 adaderanasinhalalk | 4,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,542 (100.0%) of 25,548 articles have been extended.
+25,548 (100.0%) of 25,549 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-22 (Wednesday)
+
+### Did BASL misappropriate monies sent by JICA for  anti-corruption programme?
+
+*2024-05-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Did-BASL-misappropriate-monies-sent-by-JICA-for-anti-corruption-programme/231-283121) · `en`
+
+There are allegations that monies sent by JICA to implement a survey and conduct workshops to combat bribery and corruption in the country have been misappropriated
+
+JICA acknowledges that it collaborated with the BASL to initiate a drive against bribery and corruption in Sri Lanka
+
+BASL maintains that it is erroneous to say that JICA has given a grant or money to BASL to conduct a programme
+
+What can the citizens of this country expect from the Bar Association of Sri Lanka (BASL), which plays a crucial role in administering justice and upholding the rule of law when its principal office bearers are allegedly involved in massive corruption? This seems to be the question raised by law abiding citizens of this country regarding the BASL.
+
+Five members of the incumbent BASL are under the spotlight for allegedly syphoning money the Association received from Japan International Cooperation Agency (JICA) to implement a survey and conduct workshops to combat bribery and corruption in the country.
+
+...
+
+[Data](articles/34d9771f.json)
+
+---
+
 ### 2024-05-21 (Tuesday)
 
-### 'கலப்பு பொறிமுறை வேண்டாம்' தமிழ்த் தாய்மார்கள் மன்னிப்புச் சபையின் தலைவரிடம் வலியுறுத்தல்
+### 'No mixed mechanism'
 
 *2024-05-21 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184176) · `ta`
 
-இறுதிக்கட்டப் போரின் போது இலங்கை அரச பாதுகாப்புப் படையினரிடம் சரணடைந்த அல்லது அவர்களின் கட்டுப்பாட்டுக்குள் சென்ற தமது உறவினர்களுக்கு சர்வதேச பொறிமுறையின் ஊடாக நீதி வழங்கப்பட வேண்டுமென யுத்தத்தால் பாதிக்கப்பட்ட தாய்மார்கள் சர்வதேச மனித உரிமைகள் அமைப்பின் தலைவரிடம் வலியுறுத்தியுள்ளனர்.
+War-affected mothers in Sri Lanka demand international justice for relatives who surrendered to state security forces, criticizing local investigations and threats from intelligence agencies. They reject a proposed mixed court, advocating instead for an international court with foreign judges. The United Nations recommends a mixed court for investigating war crimes and human rights abuses. Despite evidence of violations, there's been no independent inquiry, leaving victims and their families seeking justice.
 
-மே 18, 2009 இல் போர் முடிவுக்கு வந்த தினத்தில் இருந்து, தமிழ் மக்களுக்கு நீதி மறுக்கப்பட்ட 15ஆவது வருடத்தில், முள்ளிவாய்க்கால் மண்ணில் நடைபெற்ற தமிழ் இனப்படுகொலை நினைவேந்தலில் கலந்து கொள்வதற்காக இலங்கை வந்திருந்த சர்வதேச மன்னிப்புச் சபையின் செயலாளர் நாயகம் அக்னஸ் கலமார்டிடம் (Agnes Callamard), நினைவேந்தல் தினத்திற்கு முன்தினம் முல்லைத்தீவில் நடைபெற்ற கலந்துரையாடலில் தமிழ் தாய்மார்கள் இந்த விடயத்தை வலியுறுத்தியுள்ளனர்.
+🟩
+
+The war -affected mothers have urged the leader of the International Human Rights Organization to provide justice to their relatives who surrendered to the Sri Lankan state security forces during the final war.
+
+Since the end of the war on May 18, 2009, in the 15th year of the Tamil people's denial of justice, the Secretary General of the Amnesty International, Agnes Callarmard, who came to attend the Tamil genocide on Mullivaikkal soilHave insisted.
+
+Mullaitivu District Relatives Association President Marisaresh Eswari said that after the meeting, Mullaitivu district had commented to Agnus Kalamard that he had clarified the threats of the intelligence agencies during the relentless journey of searching for his loved ones for seven years.
 
 ...
 
 [Data](articles/f5bbf933.json)
 
+[Extended Data](ext_articles/f5bbf933.ext.json)
+
 ---
 
-### LPL 2024 அதிக விலைக்கு ஏலம் போன வீரர்கள் மதீஷ பத்திரண, இசுறு உதான, தசுன் ஷானக்க, கரிம் ஜனத்
+### LPL 2024 The highest bidding players Madisha Pathirana, Isaru Udana, Dasun Shanaka, Karim Janat
 
 *2024-05-21 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184174) · `ta`
 
-கொழும்பு ஹில்டன் ஹோட்டலில் இன்று செவ்வாய்க்கிழமை (21) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் (LPL) அத்தியாயத்திற்கான ஏலத்தில் மதீஷ பத்திரண, இசுறு உதான,  தசுன் ஷானக்க,  கரிம் ஜனத் ஆகிய நால்வரே அதிக விலைக்கு வாங்கப்பட்டவர்களாவர்.
+In the Lanka Premier League 2024 auction, notable purchases included Madisha Pathirana buying Kalambo Striker owners for $120,000, Isuru Udana acquiring Goal Marwal's owners for $100,000, Dasun Shanaka going to B-Lav Kandy for $85,000, and Karim Janat being bought by Thunders of the Dambers for $80,000. Other significant deals involved Jaffna Kings retaining Mindan Vijayakantha Vyaskant and auctioning off Mervyn Abhinash and Deison Vidusan.
 
-இலங்கை வீரர் மதீஷ பத்திரணவை 120,000 அமெரிக்க டொலர்களுக்கு (3 கோடியே 60 இலட்சத்து 2,100 ரூபா) கலம்போ ஸ்ட்ரைக்கர் உரிமையாளர்கள் வாங்கினர்.
+🟩
 
-இலங்கையின் முன்னாள் வீரர் இசுறு உதானவை 100,000 அமெரிக்க டொலர்களுக்கு (3 கோடியே 1,750 ரூபா) கோல் மார்வல்ஸ் உரிமையாளர்கள் வாங்கினர்.
+The Fourth Lanka Premier League (LPL) was auctioned off at the Hilton Hotel in Colombo today (21).
 
-இலங்கையின் முன்னாள் தலைவர் தசுன் ஷானக்கவை 85,000 அமெரிக்க டொலர்களுக்கு (2 கோடியே 55 இலட்சத்து 2,172 ரூபா) பி-லவ் கண்டி உரிமையாளர்கள் வாங்கினர்.
+Sri Lankan player Madisha Pathirana bought the Kalambo Striker owners for US $ 120,000 (3 crore 60 lakhs 2,100 rupees).
 
-ஆப்கானிஸ்தான் வேகப்பந்துவீச்சாளர் கரிம் ஜனத்தை 80,000 அமெரிக்க டொலர்களுக்கு (2 கோடியே 1,400 ரூபா) தம்புள்ள தண்டர்ஸ் உரிமையாளர்கள் வாங்கினர்.
+Former Sri Lankan player Isuru Udana has bought goal Marwal's owners for US $ 100,000 (3 crore 1,750 rupees).
 
-இது இவ்வாறிருக்க, யாழ். மைந்தன் விஜயகாந்த வியாஸ்காந்தை தக்கவைத்துக்கொண்ட லைக்கா ஜெவ்னா கிங்ஸ், இன்னும் இரண்டு யாழ். வீரர்களான மேர்வின் அபினாஷ், தீசன் விதூசன் ஆகியோரை ஏலத்தில் வாங்கியது.
+B-Lav Kandy owners bought former Sri Lankan leader Dasun Shanaka for US $ 85,000 (2 crore 55 lakhs 2,172 rupees).
+
+The owners of the Thunders of the Dambers bought the Afghan fast bowler Karim people for US $ 80,000 (2 crore 1,400 rupees).
+
+This is how Jaffna. Leica Jevna Kings, who retains Mindan Vijayakantha Vyaskant, two more Jaffna. The players Mervyn Abhinash and Deison Vidusan were auctioned off.
+
+$ 50,000: Tanjaya de Silva, Jason Behrendov (Jevna Kings), Iftikar Ahmad, Hasmatullah Sasai (Thambulla Thunders), Dunit Wellalake, Rahmanullah Gurbas, Dasin Ahmad, Mujib Urzib Urhmas, Mujib Urzip Mumaz (Kolmbo Strikers)-Live Kandy)
 
 ...
 
 [Data](articles/6cf181e8.json)
+
+[Extended Data](ext_articles/6cf181e8.ext.json)
 
 ---
 
@@ -202,21 +240,27 @@ Minister Semasinghe made this announcement during a press conference at the Pres
 
 ---
 
-### தனியாகவும், கூட்டாகவும் மீள ஆராய்வதற்கு ஜனநாயக தமிழ்த் தேசியக் கூட்டணி முடிவு - தமிழரசுக்கட்சியுடன் பேசவும் முஸ்தீபு
+### Democratic Tamil National Alliance (TNA) decision to re -examine alone and jointly
 
 *2024-05-21 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184175) · `ta`
 
-தனித்தனியாவும், கூட்டணியாகவும் பேசிய பின்னரேயே இறுதித் தீர்மானம் எடுக்க முடியும் என்று ஜனநாயகத் தேசியக் கூட்டணியின் பங்காளிக்கட்சிகள் தெரிவித்ததை அடுத்து தமிழ் பொதுவேட்பாளர் விடயத்தில் தீர்மானமின்றி கூட்டம் நிறைவுக்கு வந்துள்ளது.
+The Democratic Tamil National Alliance (TNA) met to discuss selecting a Tamil candidate for Sri Lanka's presidency but ended without a decision, agreeing to reconsider both individually and collectively. The meeting involved key TNA figures and representatives from civil organizations, focusing on the importance of unity before making a choice.
 
-உரும்பிராய் சிவகுமாரன் சிலை அருகில் உள்ள கூட்டுறவு அரங்கில் ஜனநாயக தமிழ்த் தேசியக்கூட்டணித் தலைவர்களுக்கும் சிவில் அமைப்பின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பொன்று நேற்று முன்தினம் நடைபெற்றது.
+🟩
 
-இச்சந்திப்பில் ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் சார்பில் சித்தார்த்தன், செல்வம் அடைக்கலநாதன், சுரேஷ்பிரேமச்சந்திரன், என்.சிறீகாந்தா, வேந்தன் உள்ளிட்டவர்கள் பங்கேற்றனர். சிவல் அமைப்புக்களின் சார்பில் பேராசிரியர் கணேசலிங்கம், ஆய்வாளர்களான யோதிலிங்கம், நிலாந்தன் மற்றும் வேலன் சுவாமிகள் உள்ளிட்டவர்கள் பங்கேற்றிருந்தனர்.
+The meeting has come to an end on the issue of the Tamil general candidate after the parties of the Democratic National Alliance have said that the final decision can only be taken only after speaking as a separate and coalition.
 
-இந்த உரையாடலின்போது, எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பில் தீர்க்கமான முடிவினை எடுப்பதை மையப்படுத்தியே உரையாடல்கள் ஆரம்பமாகியிருந்தன.
+A meeting between the leaders of the Democratic Tamil National Alliance and the representatives of the Civil Organization was held yesterday at the Co -operative Hall near the Urumpirai Sivakumaran statue.
+
+Siddharthan, Selvam Adakkalanathan, Sureshpremachandran, N. Sirikantha and Venthan participated in the meeting on behalf of the Democratic Tamil National Alliance.. Professor Ganesalingam, researchers Yodilingam, Nilanthan and Velan Swamis were also present on behalf of Sival organizations.
+
+During this conversation, conversations began to make a decisive decision on the stopping of a Tamil general candidate in the upcoming presidential election.
 
 ...
 
 [Data](articles/722ccb2b.json)
+
+[Extended Data](ext_articles/722ccb2b.ext.json)
 
 ---
 
@@ -792,6 +836,8 @@ The significance of Rāvanā in the context of solar consciousness cannot be ove
 
 [Data](articles/c5ba8e9b.json)
 
+[Extended Data](ext_articles/c5ba8e9b.ext.json)
+
 ---
 
 ### 5 families in Jaffna due to continuous rains
@@ -1166,21 +1212,35 @@ It is reported that the relief teams have been rescued to save four victims of t
 
 ---
 
-### வரிக்குறைப்பு செய்தால் பொருளாதாரம் பலவீனமடையும் - செஹான் சேமசிங்க
+### The economy will be weakened by the tax deduction - Sehan Semasinghe
 
 *2024-05-21 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184155) · `ta`
 
-கோட்டபய ராஜபக்ஷ வரி குறைப்பு செய்ததால் பொருளாதாரம் பாதிக்கப்பட்டது என்று குற்றஞ்சாட்டும் எதிர்க்கட்சிகட்சியினர் தமது அரசாங்கத்தில் வரி குறைப்பு செய்வதாக குறிப்பிடுவது வேட்டிக்கையாகவுள்ளது.
+The economy faces potential weakening due to a controversial tax deduction proposed by the current government, sparking criticism from opposition parties. Critics argue this move could lead to economic instability, likening it to previous crises. However, the government insists the tax policy amendments are necessary for economic stability, emphasizing the importance of independent central bank operations and the need for stable economic policies regardless of political changes.
 
-அரசியல் காரணிகளை அடிப்படையாகக் கொண்டு பொருளாதாரத்தை தீர்மானிப்பதை தவிர்த்துக் கொள்ள வேண்டும் என பதில் நிதியமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+🟩
 
-முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ வரிச் சலுகை (வரி குறைப்பு) வழங்கியதை கடுமையாக விமர்சித்த எதிர்க்கட்சியினர் இன்று தேர்தலுக்காக வரி குறைப்பு செய்வதாக வாக்குறுதி வழங்குகிறார்கள். குறுகிய அரசியலுக்காக நாட்டு மக்களை தவறான வழிநடத்துவதை எதிர்க்கட்சிகள் தவிர்த்துக் கொள்ள வேண்டும்.
+It is a hunt for the opposition parties who accuse the economy of the Gotabhaya Rajapaksa tax reduction in their government.
 
-தமது அரசாங்கத்தில் சேர் பெறுமதி வரி மற்றும் உழைக்கும் போது செலுத்தும் வரி ஆகியவற்றை திருத்தம் செய்வதாகவும்,வரி குறைப்பு செய்வதாகவும் ஐக்கிய மக்கள் சக்தி குறிப்பிடுகிறது. வரி கொள்கை முறையாக திருத்தம் செய்யப்பட்டுள்ளதால் நாட்டின் பொருளாதாரம் தற்போது ஸ்திரப்படுத்தப்பட்டுள்ளது.
+Finance Minister Xihan Semasinghe said that the economy should be avoided based on political factors.
+
+Opposition parties have strongly criticized the tax cut offer of former President Gotabhaya Rajapakse (Tax Reduction) today.. Opposition parties must avoid misleading the people for short politics.
+
+The United People's Power states that the joining tax and the tax reducing the tax on the working tax. The economy of the country is now stabilized as the tax policy has been amended.
+
+The country will again face the worst economic crises if the tax policies are amended for short political purpose.
+
+Political parties should avoid making economic decisions based on political factors.
+
+The Central Bank operates independently in accordance with the new Central Bank Act.
+
+If the Central Bank operates on the purpose of the government, the situation of 2022 will appear.
 
 ...
 
 [Data](articles/cc989b83.json)
+
+[Extended Data](ext_articles/cc989b83.ext.json)
 
 ---
 
@@ -1392,23 +1452,29 @@ Gujarat police said that the weapons were arranged by a man from Pakistan.
 
 ---
 
-### ஊழலுக்கு எதிரான பொறிமுறையைக் கட்டியெழுப்ப வேண்டும்  - எதிர்க்கட்சித் தலைவர்
+### Build a mechanism against corruption - Leader of the Opposition
 
 *2024-05-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184151) · `ta`
 
-நாட்டைக் கட்டியெழுப்ப வேண்டுமானால் சமூகத்தில் ஊழலை அரச கட்டமைப்பின் ஊடாக இல்லாதொழிக்க வேண்டும். ஊழலுக்கு எதிரான வேலைத்திட்டம் சாதாரண பெரும்பான்மையால் மாற்றப்பட முடியாதவாறு, அரசியலமைப்பின் ஊடாக அதற்கான பொறிமுறையை ஸ்தாபிக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The Opposition Leader emphasized the importance of eliminating corruption within the community through state mechanisms, advocating for a constitutional framework to ensure the longevity of anti-corruption efforts. He highlighted the need for a creative approach to education reform beyond mere funding increases, emphasizing the development of a knowledge-based economy to overcome financial challenges. The leader stressed the importance of integrity among leaders and the need for systemic changes in education to ensure equal opportunities for all students, contrasting the actions of corrupt leaders with those who prioritize the nation's future over personal gain.
 
-கொழும்பில் இடம்பெற்ற நிகழ்வொன்றில் செவ்வாய்கிழமை (21) கலந்து கொண்டு உரையாற்றும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நாட்டைக் கட்டியெழுப்ப வேண்டுமானால் சமூகத்தில் ஊழலை அரச கட்டமைப்பின் ஊடாக இல்லாதொழிக்க வேண்டும். ஊழல், மோசடி, கொள்ளை போன்றவற்றை தடுக்கும் பொறிமுறையை அறிமுகப்படுத்த வேண்டும்.
+In order to build the country, corruption in the community must be eliminated through the state structure. The Opposition Leader said that the anti -corruption program should not be replaced by a majority, and the constitutional mechanism should be established.
 
-திருடர்களைப் பிடிப்பதற்கு அதிகாரம் வழங்குமாறு கோருவதற்குப் பதிலாக, ஐக்கிய மக்கள் சக்தி எந்தவித அதிகாரமும் இன்றி எதிரணியில் இருந்து கொண்டே திருடர்களைப் பிடித்துள்ளது.
+Speaking at an event in Colombo on Tuesday (21), he added that he said this.
 
-ஊழலுக்கு எதிரான வேலைத்திட்டம் சாதாரண பெரும்பான்மையால் மாற்றுவதற்கு முடியாதவாறு, அரசியலமைப்பின் ஊடாக கட்டமையும் பொறிமுறையை ஸ்தாபிக்க வேண்டும்.
+In order to build the country, corruption in the community must be eliminated through the state structure. Introduce the mechanism of preventing corruption, fraud and robbery.
+
+Instead of asking for the authority to catch thieves, the United People's Power has caught the thieves from the opposition without any authority.
+
+The anti -corruption program must be established through the constitution, so that the normal majority cannot be changed.
 
 ...
 
 [Data](articles/de34e903.json)
+
+[Extended Data](ext_articles/de34e903.ext.json)
 
 ---
 
@@ -2227,33 +2293,5 @@ According to our correspondent, we came to a campaign to come and protest.
 [Data](articles/a4e3e0c5.json)
 
 [Extended Data](ext_articles/a4e3e0c5.ext.json)
-
----
-
-### India's election results will not affect Sri Lanka's work with India - we will not allow anyone to affect India's security
-
-*2024-05-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184135) · `ta`
-
-Sri Lanka's Foreign Minister Ali Sabrideri assures that election outcomes won't impact its cooperation with India, emphasizing a commitment to India's security. He expresses willingness to engage with all nations, including China, but without compromising India's security interests.
-
-🟩
-
-Sri Lanka's Foreign Minister Ali Sabrideri has said that no one will be allowed to affect India's security.
-
-Alizabri, who has expressed his commitment to Sri Lanka's national security interests, will not allow anyone to affect India's security on the basis of as a responsible foreign country.
-
-Commenting on India's concern for Sri Lanka's visit to Sri Lanka, Alizabri has explicitly expressed that we want to work with all countries.
-
-I know that China has become the biggest business partner in India, so I want to work with all of us as you want to work with them.
-
-But this should not be given to any party and we do not want to maintain ties with others.
-
-Therefore, I would like to reiterate that we will not engage in any issues that will affect India's legitimate security concerns on the basis of as a responsible foreign fashionable sake.
-
-...
-
-[Data](articles/262532a8.json)
-
-[Extended Data](ext_articles/262532a8.ext.json)
 
 ---

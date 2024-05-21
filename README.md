@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 23:18:25**
+As of **2024-05-21 23:33:59**
 
 ## Newspaper Stats
 
-*Scraped **25,535** Articles*
+*Scraped **25,537** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 227
+colombotelegraphcom | 228
 bbccomsinhala | 257
 dbsjeyarajcom | 259
 newsfirstlk | 363
@@ -19,38 +19,68 @@ adalk | 2,193
 adaderanalk | 2,947
 tamilmirrorlk | 2,981
 virakesarilk | 3,864
-dailymirrorlk | 4,011
+dailymirrorlk | 4,012
 adaderanasinhalalk | 4,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,534 (100.0%) of 25,535 articles have been extended.
+25,535 (100.0%) of 25,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### இந்தியாவில் சிக்கிய ISIS இலங்கையர்கள் குறித்து அதிர்ச்சி தகவல்கள் வெளியாகின
+### Dulan shatters world record at Para Meet
+
+*2024-05-21 23:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dulan-shatters-world-record-at-Para-Meet/108-283123) · `en`
+
+May 21 (Daily Mirror) - Sri Lanka’s Samitha Dulan stole the limelight with a world-record performance on the second day of the World Para Athletic Championships, continued in Kobe, Japan today.
+
+The 33-year-old veteran athlete from Deniyaya won the Silver Medal in the Men’s F44 javelin throw event with a splendid performance of 66.49m.
+
+The 2020 Tokyo Paralympics Games and 2023 Paris World Championships Bronze Medallist set up the world record in his very first attempt and followed up with 63.96m, 53.91m, 59.81m, 56.51m and 65.01m in the next five attempts.
+
+India’s Summit Antil won the Gold Medal while competing in the F64 category with a performance of 69.50m while his teammate Sandeep Chaudhary took the Bronze with an effort of 60.41m.
+
+This was Sri Lanka’s second medal at the World Para Athletic Championships after Indika Gamage won a Bronze Medal in the Men’s 100m T44 event.
+
+...
+
+[Data](articles/4d31900b.json)
+
+---
+
+### Shocking information about ISIS Sri Lankans trapped in India
 
 *2024-05-21 23:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-சிக்கிய-ISIS-இலங்கையர்கள்-குறித்து-அதிர்ச்சி-தகவல்கள்-வெளியாகின/175-337666) · `ta`
 
-இந்தியாவின் அகமதாபாத் சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்ட இலங்கையை சேர்ந்த நான்கு ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் என சந்தேகிக்கப்படும் நபர்கள், தற்கொலைத் தாக்குதல் நடத்துவதற்கு கூட தயாராக இருந்ததாக குஜராத் பொலிஸ் தரப்பில் கூறப்பட்டுள்ளது.
+ISIS terrorists from Sri Lanka, including a leader linked to Pakistan, were arrested at Ahmedabad airport in India, planning a suicide attack. They were caught with ISIS flags and cash, indicating their intent and funding source. Their arrest follows intelligence gathering and social media tracking, revealing their plot and potential weapon storage locations. Legal proceedings are underway against them under Indian laws.
 
-இலங்கையில் இருந்து அகமதாபாத் நகருக்கு வந்த இலங்கையை சேர்ந்த நான்கு பேர் அகமதாபாத் சர்தார் படேல் சர்வதேச விமான நிலையத்தில் வைத்து ஞாயிற்றுக்கிழமை இரவு கைது செய்யப்பட்டனர்.
+🟩
 
-இவர்களை குஜராத் தீவிரவாத தடுப்புப் படையினர் கைது செய்து நேற்று மதியம் செய்தியாளர்கள் சந்திப்பில் முன்நிறுத்தியதுடன், இதில் பல தகவல்கள் வெளியாகின.
+Gujarat police say that four Sri Lankan ISIS terrorists who were arrested at the Ahmedabad International Airport in India were also ready to carry out a suicide attack.
 
-இதன்படி, கைது செய்யப்பட்ட  33 வயதான மொஹமட் நுஸ்ரத் என்ற நபர் நீர்கொழும்பைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+Four Sri Lankan people from Sri Lanka to Ahmedabad were arrested on Sunday night at the Ahmedabad Sardar Patel International Airport.
 
-கொழும்பை சேர்ந்த 27 வயதான மொஹமட் நஃப்ரான், 43 வயதான மொஹமட் ரஷ்டீன் மற்றும் 35 வயதான மொஹமட் ஃபரிஷ் ஆகியோர் கைது செய்யப்பட்ட ஏனைய பயங்கரவாதிகளாவர்.
+They were arrested by the Gujarat Terrorist Force and presented at a press conference yesterday afternoon.
 
-இவர்கள் இந் நாட்டிலிருந்து சென்னை வழியாக அகமதாபாத் நகருக்கு இண்டிகோ ஏர்லைன்ஸ் விமானம் மூலம் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+Accordingly, a 33 -year -old man, Mohamed Nusrat, has been identified as a native of Negombo.
+
+Mohamed Nafran, 27, from Colombo, 43 -year -old Mohamed Rashin and 35 -year -old Mohamed Farish are the other terrorists arrested.
+
+They are reportedly traveling from the country to Ahmedabad by Indigo Airlines.
+
+All four terrorists who used only the Tamil language were investigated by the translator.
+
+From them, the cell phone, the two -country currency notes and the flag of the ISIS have been discovered from one's travel package.
 
 ...
 
 [Data](articles/23224b27.json)
+
+[Extended Data](ext_articles/23224b27.ext.json)
 
 ---
 
@@ -963,6 +993,18 @@ Singapore's Transport Minister Chee Hong Tat said the government would provide a
 [Data](articles/919df7f8.json)
 
 [Extended Data](ext_articles/919df7f8.ext.json)
+
+---
+
+### Mental Therapy
+
+*2024-05-21 17:14:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mental-therapy/) · `en`
+
+The month of Vesak holds profound significance, marking the triple blessed day when, over 2,600 years ago, Lord Buddha’s Birth, Enlightenment, and Passing away Occurred. Each year, Buddhists worldwide come together to celebrate this momentous occasion, paying heartfelt gratitude and homage to Lord Buddha for his timeless teachings and unparalleled contributions to humanity. This is an endeavour to share a drop of the most noble Dhamma, as uttered by Lord Buddha, for the benefit of all humanity.
+
+...
+
+[Data](articles/cf42a755.json)
 
 ---
 
@@ -2207,47 +2249,5 @@ The suspect was detected and maintained a large number of drug dealers and a lar
 [Data](articles/3eb0fa46.json)
 
 [Extended Data](ext_articles/3eb0fa46.ext.json)
-
----
-
-### False News Ministry of Education a special
-
-*2024-05-21 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196862) · `si`
-
-The Ministry of Education announced that all schools will close tomorrow due to a sudden decision, to be communicated via social media.
-
-🟩
-
-The Ministry of Education has informed that all schools in the island will leave the announcement through social media networks tomorrow (22).
-
-Therefore, all schools in the country will be held tomorrow.
-
-The Ministry of Education has also stated that there is a situation in the current decision power.
-
-◼️
-
-[Data](articles/e2184b6f.json)
-
-[Extended Data](ext_articles/e2184b6f.ext.json)
-
----
-
-### New liquor licenses based on population and tourist arrivals
-
-*2024-05-21 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-liquor-licenses-based-on-population-and-tourist-arrivals/108-283057) · `en`
-
-Colombo, May 21 (Daily Mirror) - New liquor licenses are awarded only on the basis of factors such as the population of the country and the arrival of tourists, Finance State Minister Ranjith Siyambalapitiya said.
-
-He made this comment to a question by a journalist at an event held in Karawanella last evening. He denied that the government intends to transfer 55 out of 100 liquor licenses belonging to Sathosa outlets and to other companies owned by Arjun Aloysius.
-
-Minister Siyambalapitiya said no other government had collected taxes from liquor companies which had such an impact and also levied such a systematically. He said that no request has been made to give the liquor licenses belonging to Sathosa and that even if such requests are made, it is not possible to lease the liquor licenses to another person.
-
-He said the price of alcohol has increased by 108% due to taxes in 2003 alone, and accordingly, the government will not increase the legal consumption of alcohol at any time.
-
-...
-
-[Data](articles/76db9dc9.json)
-
-[Extended Data](ext_articles/76db9dc9.ext.json)
 
 ---

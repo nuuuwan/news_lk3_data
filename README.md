@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 23:33:59**
+As of **2024-05-21 23:53:16**
 
 ## Newspaper Stats
 
-*Scraped **25,537** Articles*
+*Scraped **25,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,46 @@ bbccomsinhala | 257
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
-economynextcom | 1,468
+economynextcom | 1,472
 dailyftlk | 1,503
 adalk | 2,193
 adaderanalk | 2,947
 tamilmirrorlk | 2,981
 virakesarilk | 3,864
-dailymirrorlk | 4,012
+dailymirrorlk | 4,013
 adaderanasinhalalk | 4,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,535 (100.0%) of 25,537 articles have been extended.
+25,537 (100.0%) of 25,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Starc stars as Kolkata thrash Hyderabad to reach IPL final
+
+*2024-05-21 23:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starc-stars-as-Kolkata-thrash-Hyderabad-to-reach-IPL-final/108-283124) · `en`
+
+May 21 (AFP) - Mitchell Starc struck three early blows to help Kolkata Knight Riders storm into the IPL final with a eight-wicket thrashing of Sunrisers Hyderabad in Ahmedabad's searing heat on Tuesday.
+
+Two-time champions Kolkata bowled out Hyderabad for 159 as Starc returned figures of 3-34 in the first play-off - qualifier 1 - at the world's biggest cricket stadium.
+
+Starc, a left-arm quick, once again justified his price tag from the December auction after he became the most expensive buy in IPL history when Kolkata got him for $2.98 million.
+
+The figure quickly broke a record after Hyderabad brought Pat Cummins for $2.5 million in the same auction and later made him captain.
+
+Venkatesh Iyer, on 51, and skipper Shreyas Iyer, on 58, remained unbeaten in Ahmedabad as Kolkata achieved their target with 38 balls to spare.
+
+Hyderabad will have another shot at making the final when they clash with the winner of the eliminator in the second qualifier on Friday in Chennai.
+
+...
+
+[Data](articles/7975f07c.json)
+
+---
 
 ### Dulan shatters world record at Para Meet
 
@@ -49,6 +71,8 @@ This was Sri Lanka’s second medal at the World Para Athletic Championships aft
 ...
 
 [Data](articles/4d31900b.json)
+
+[Extended Data](ext_articles/4d31900b.ext.json)
 
 ---
 
@@ -628,6 +652,22 @@ He made these remarks during a media briefing under the theme “Collective Path
 
 ---
 
+### UN Report urges global justice, sanctions for Sri Lanka’s disappeared victims
+
+*2024-05-21 19:03:00* · [`economynextcom`](https://economynext.com/un-report-urges-global-justice-sanctions-for-sri-lankas-disappeared-victims-164068/) · `en`
+
+ECONOMYNEXT – A new report from the Office of the United Nations High Commissioner for Human Rights (OHCHR) has recommended targeted sanctions on officials responsible for disappearances in Sri Lanka since 1970 and has called for justice outside the country for the families of victims.
+
+Released last week, just before the 15th anniversary of the war’s end and four months ahead of the next UN human rights session where Sri Lanka is likely to face a new resolution, the report has sparked significant attention from rights groups.
+
+The report, titled “Accountability for Enforced Disappearances in Sri Lanka,” urged justice for all Sri Lankan ethnic groups, including Sinhalese and Muslims, during the war and other insurrections, rather than focusing solely on ethnic minority Tamils as in the past.
+
+...
+
+[Data](articles/c1dcec10.json)
+
+---
+
 ### Puttalam District schools to reopen tomorrow
 
 *2024-05-21 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99364/puttalam-district-schools-to-reopen-tomorrow) · `en`
@@ -813,6 +853,26 @@ With elections coming up in Sri Lanka, the World Bank is concerned that reform f
 [Data](articles/0680d387.json)
 
 [Extended Data](ext_articles/0680d387.ext.json)
+
+---
+
+### Sri Lanka chamber calls on political parties to support SOE reforms
+
+*2024-05-21 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-calls-on-political-parties-to-support-soe-reforms-164062/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce has all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
+
+“The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis,” it said in a statement.
+
+“It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.”
+
+Sri Lanka is facing a presidential election before November this year and a general election later. Provincial Council elections are overdue.
+
+With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
+
+...
+
+[Data](articles/b8635da6.json)
 
 ---
 
@@ -1005,6 +1065,8 @@ The month of Vesak holds profound significance, marking the triple blessed day w
 ...
 
 [Data](articles/cf42a755.json)
+
+[Extended Data](ext_articles/cf42a755.ext.json)
 
 ---
 
@@ -2189,65 +2251,5 @@ He strongly admonished not to proclaim the cases of Rs. 5 million.
 [Data](articles/6816bb84.json)
 
 [Extended Data](ext_articles/6816bb84.ext.json)
-
----
-
-### Sri Lanka mourns
-
-*2024-05-21 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-mourns/110-283060) · `en`
-
-Flags at half mast after Sri Lanka declared today as a day of mourning in view of the death of Iranian President Ebrahim Raisi. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/cca26ad6.json)
-
-[Extended Data](ext_articles/cca26ad6.ext.json)
-
----
-
-### Here is the amount of money Danish
-
-*2024-05-21 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196863) · `si`
-
-Danushka Gunatilleke purchased himself at the LPL auction for an undisclosed amount.
-
-🟩
-
-Danushka Gunatilleke bought Danushka Gunatilleke at LPL at auction.
-
-◼️
-
-[Data](articles/dc22c843.json)
-
-[Extended Data](ext_articles/dc22c843.ext.json)
-
----
-
-### An pastener arrested with 171 grams of ice
-
-*2024-05-21 13:59:32* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-ග්‍රෑම්-171ක්-සමග-දේවගැතිවරියක්-අත්අඩංගුවට/11-409761) · `si`
-
-A woman from Kovil Chamari, aged 35, was arrested for drug trafficking, found with 173 mobile phones and 171 grams of ice. The arrest followed a raid led by officers from the Ounodaya Mawatha, resulting in the confiscation of three mobile phones linked to drug activities. The suspect, previously involved in drug dealing in the Borella area, had been bailed out before. Further investigations are being conducted under the supervision of ASP Janka Kumara and led by Inspectors Sumith Jayasinghe and Chinthaka Dassanayake.
-
-🟩
-
-The Western Province North Crimes Division says that a delegation from the drug trafficking has been arrested with one hundred and seventy-three mobile phones.
-
-The arrest was a woman from Kovil Chamari, Kovil Chamari, a 35 year old resident of Kolonnawa.
-
-An officer in charge of a police officer on the instructions of the Ounodaya Mawatha, a group of officials in charge of the Ounodaya Mawatha, a group of officers who came to the Ounodaya Mawatha was taken to the Welikada Arasikada Mawatha in Welikada Road.And three mobile phones used for drug trafficking have been taken into police custody.
-
-Police say the stock of drugs taken into police custody is nearly Rs.
-
-The suspect was later inspected at Kolonnawa home and her mother's resident of Arunodaya Mawatha in Kolonnawa.
-
-The suspect was detected and maintained a large number of drug dealers and a large number of persons who were in the Borella area and maintaining a large number of drugs.
-
-...
-
-[Data](articles/3eb0fa46.json)
-
-[Extended Data](ext_articles/3eb0fa46.ext.json)
 
 ---

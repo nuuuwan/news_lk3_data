@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 13:53:13**
+As of **2024-05-21 14:04:19**
 
 ## Newspaper Stats
 
-*Scraped **25,420** Articles*
+*Scraped **25,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,94 @@ adalk | 2,178
 adaderanalk | 2,936
 tamilmirrorlk | 2,968
 virakesarilk | 3,847
-dailymirrorlk | 3,988
-adaderanasinhalalk | 4,062
+dailymirrorlk | 3,989
+adaderanasinhalalk | 4,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,420 (100.0%) of 25,420 articles have been extended.
+25,420 (100.0%) of 25,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Lanka Premier League (LPL) auction
+
+*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-LPL-auction/108-283052) · `en`
+
+01.44 PM - All-rounder Dasun Shanaka sold to B-Love Kandy for US$ 85,000
+
+01.42PM - Mohammad Nabi from Afghanistan and West Indies Roston Chase  unsold in the first round.
+
+01.38PM - Sean Williams sold to Galle Marvels for US$ 20,000.
+
+01.36 PM - Sri Lanka's Akila Dananjaya sold to Dambulla Thunders for USD 20,000
+
+01.33 PM - Prabath Jayasuriya sold to Galle Marvles for USD 10,000.
+
+01.32 PM - Sri Lanka's Lasith Embuldeniya and West Indies Hayden Walsh Jr unsold
+
+01.31 PM - Pramod Madushan sold to Jaffna Kings for USD 20,000
+
+01.30 PM - Lahiru Kumala sold to Galle Marvels for USD 30,000
+
+01.29 PM - Lungi Ngidi and Sheldon Cottrell also unsold in the first round
+
+01.27 PM - Sri Lankan fast bowlers Vishwa Fernando and Kasun Rajitha unsold in the first round
+
+01.24 PM - Bangladeshi cricketer Taskin Ahmed sold to Colombo Strikers for USD 50,000.
+
+01.08 PM - Sri Lanka's Sandun Weerakkody and Bangladesh Mushfiqur Rahim unsold in the first round.
+
+...
+
+[Data](articles/ce38edd7.json)
+
+[Extended Data](ext_articles/ce38edd7.ext.json)
+
+---
+
+### දසුන්ට ඩොලර් 85,000ක්
+
+*2024-05-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196861) · `si`
+
+එහිදී මේ දක්වා වෙන්දේසි වූ ක්‍රීඩකයින් අතරින් වැඩිම මිල වූ ඩොලර් 85,000ක මිලක් දසුන් ශානකට හිමිවිය.
+
+කැන්ඩි කණ්ඩායම ඒ අනුව මෙවර LPL තරගාවලියේදී දසුන් ශානකගේ හිමිකාරීත්වය ලබාගත්තේය.
+
+◼️
+
+[Data](articles/09e9505b.json)
+
+---
+
+### ඉරාන ජනපතිගේ අවසන් කටයුතු බ්‍රහස්පතින්දා
+
+*2024-05-21 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196860) · `si`
+
+හෙලිකොප්ටර් අනතුරින් මියගිය ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි මහතාගේ දේහය පිළිබඳ අවමංගල උත්සවය අදින් ආරම්භ වේ.
+
+ඉරාන - අසර්බයිජාන දේශ සීමාවේ වාරි ව්‍යාපෘතියක් විවෘත කිරීම සඳහා ගොස් ආපසු පැමිණෙමින් සිටියදී ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි රැගත් හෙලිකොප්ටර් යානාව නැගෙනහිර අසර්බයිජාන ප්‍රාන්ත කඳුකර කලාපයේදී අනතුරකට ලක්වුණි.
+
+ජනාධිපතිවරයා ඇතුළුව එහි ගමන්ගත් පිරිස ජීවිතක්ෂයට පත්ව ඇති බව තහවුරු කරගැනුනේ ඊයේ (20) දිනයේදීය.
+
+මෘත දේහ හඳුනා ගැනුණද එම දේහයන් ආපසු රැගෙන ඒම එතරම් පහසු වූයේ නැත.
+
+දැවීගිය සුන්බුන් අතරින් හමුවූ ඉරාන නායකයාගේ අත පැළඳ සිටි බව කියන මුදුව දැක්වෙන වීඩියෝවක් සමාජ මාධ්‍ය තුළ සංසරණය වූ අතර එය කාගෙත් හදවත කම්පා කළ සිදුවීමක් වුණි.
+
+ඉරාන ජනාධිපතිවරයාගේ අභාවය නිමිත්තෙන් ඉරානයට දින 05ක ශෝක කාලයක් ප්‍රකාශයට පත් කෙරුණු අතර ආචාර්ය ඊබ්‍රාහිම් රයිසි ජනාධිපතිවරයාගේ අවමංගල උත්සවයේ නිල කටයුතු අද පෙරවරුවේ ආරම්භ වූයේ ටැබ්‍රිස් නගරයේදී ය.
+
+ජනාධිපතිවරයා ඇතුළු පිරිසගේ අවමංගල උත්සවය දින 3ක් පුරා සැලසුම් කර තිබෙනවා.
+
+ඒ අනුව දේහයන් ටෙහෙරාන් අගනුවරට ගෙනඒමට සැලසුම් කර ඇත්තේ අද රාත්‍රී කාලයේදී ය.
+
+...
+
+[Data](articles/97f53cef.json)
+
+---
 
 ### Four arrested for robbing store at gunpoint in Galle
 
@@ -76,9 +152,11 @@ Colombo Municipal Council (CMC) workers are engaged in the removal of the tree a
 
 ---
 
-### LIVE UPDATES: 2024 LPL Player Auction
+### Live Updates: 2024 LPL Player Auction
 
 *2024-05-21 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99355/live-updates-2024-lpl-player-auction) · `en`
+
+(Please note this story is being updated throughout the player action. Refresh the page for the latest details.)
 
 The player auction of the Lanka Premier League 2024 commenced at the Hilton Hotel in Colombo, a short while ago.
 
@@ -86,7 +164,7 @@ A total of 420 players, both Sri Lankan and overseas, will go under the hammer d
 
 In total, the auction will have a collective purse of US$ 2.5 million from all five franchise teams, while each franchise will bring in a sum of US$ 500,000.
 
-The teams will have to ensure that they invest a minimum of 90 percent of the purse they bring into the auction to form their respective squads.
+The teams will have to ensure that they invest a minimum of 90 per cent of the purse they bring into the auction to form their respective squads.
 
 Charu Sharma, who was the auctioneer of the inaugural LPL player auction held last year, is the auctioneer of this edition as well.
 
@@ -162,37 +240,19 @@ The US dollar purchasing price was Rs 294.7827 and the sales price were Rs 304.3
 
 ---
 
-### Lanka Premier League (LPL) auction
+### Contempt of Court application filed against Diana Gamage
 
-*2024-05-21 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-LPL-auction/108-283052) · `en`
+*2024-05-21 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-Court-application-filed-against-Diana-Gamage/108-283054) · `en`
 
-01.08 PM - Sri Lanka's Sandun Weerakkody and Bangladesh Mushfiqur Rahim unsold in the first round.
+Colombo, May 21 (Daily Mirror) - A contempt of court application has been filed before the Supreme Court against former State Minister Diana Gamage, alleging that she has committed the offence of contempt of court through her statements at a media conference held on May 9 this year.
 
-01.05 PM - Sri Lanka's Lahiru Udara sold to Dambulla Thunders for USD 14,000
+Former Chairman of the Weligama Urban Council, Rehan Jayawickrema filed this application alleging that Diana Gamage had made a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
 
-01.02 PM - Afghan cricketer Rahmanullah Gurbaz sold to Colombo Striker for USD 50,000
-
-12.55 PM - Sri Lankan all-rounder Dunith Wellalage sold to Colombo Strikers for USD 50,000.
-
-12.53 PM - Namibian player David Wiese unsold in the first round
-
-12.51 PM - Chamika Gunasekara sold to Colombo Strikers for USD 10,000
-
-12.47 PM - Sri Lanka's Sahan Arachchige sold  to Galle Marvels for USD 20,000.
-
-12.40PM - West Indies cricketer Fabian Allen sold to Jaffna Kings for USD 32,000.
-
-12.38 PM - South African cricketer Dwaine Pretorius sold to Galle Marvels for USD 30,000
-
-12.37PM Janith Liyanage sold to Galle Marvels for US$ 36,000
-
-12.35 PM - South African left-handed batter Rilee Rossouw sold to Jaffna Kings for his base price of USD 60,000.
+The Supreme Court, in a landmark judgment on May 8, held that then State Minister Diana Gamage is disqualified from being a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she is not a citizen of Sri Lanka.
 
 ...
 
-[Data](articles/ce38edd7.json)
-
-[Extended Data](ext_articles/ce38edd7.ext.json)
+[Data](articles/fd480738.json)
 
 ---
 
@@ -2241,57 +2301,5 @@ One is at a loss to understand why there is no smart, pragmatic and prudent thin
 [Data](articles/17081567.json)
 
 [Extended Data](ext_articles/17081567.ext.json)
-
----
-
-### Mahinda Rajapaksa responsible for bankruptcy of SriLankan Airlines
-
-*2024-05-21 02:33:31* · [`dailyftlk`](https://www.ft.lk/opinion/Mahinda-Rajapaksa-responsible-for-bankruptcy-of-SriLankan-Airlines/14-762047) · `en`
-
-Mr Editor, please give me a little space in your esteemed newspaper to enlighten a man who deliberately misled the readers by covering up the many vain deeds of Mahinda Rajapaksa (https://www.ft.lk/columns/Restructure-SriLankan-Airlines-but-no-mandate-for-sale/4-761891).
-
-One of the most unpardonable deeds was to destroy a profit-making SriLankan Airline with a track record of accident-free flying. True it was CBK who successfully negotiated and brought in Emirates as a partner. The airline was running profitably with a foreign national as its head when MR assumed office as President.
-
-...
-
-[Data](articles/990d767f.json)
-
-[Extended Data](ext_articles/990d767f.ext.json)
-
----
-
-### One more in the long line of rejections
-
-*2024-05-21 02:31:32* · [`dailyftlk`](https://www.ft.lk/opinion/One-more-in-the-long-line-of-rejections/14-762046) · `en`
-
-The Sunday Times on 19 May carried the Foreign Ministry’s reactions on the OHCHR report on ‘enforced disappearances’ in Sri Lanka (https://www.sundaytimes.lk/240519/news/lanka-strongly-rejects-un-report-questions-its-mandate-and-timing-557860.html). It says Sri Lanka is rejecting the report.
-
-This may be one more in the long line of rejections since the days of Gotabaya Presidency.
-
-Interestingly, questions have been raised about the authority or mandate of the High Commissioner to issue such a report. But in their heady rush to reject the report, they may not have consulted important resolutions including the UNGA resolution establishing the post of High Commissioner.
-
-These resolutions particularly stress the importance of the role of the High Commissioner as the voice of humanity on gross or grave violations of human rights and fundamental freedoms. Nevertheless, how the High Commissioner should express that voice and what format or method should be followed is left open.
-
-...
-
-[Data](articles/5673b354.json)
-
-[Extended Data](ext_articles/5673b354.ext.json)
-
----
-
-### Integrating entrepreneurship in education: An imperative for the change we want
-
-*2024-05-21 02:25:40* · [`dailyftlk`](https://www.ft.lk/columns/Integrating-entrepreneurship-in-education-An-imperative-for-the-change-we-want/4-762045) · `en`
-
-To build an entrepreneurial culture, it is necessary to fundamentally alter traditional strategies and teaching methods in such a way that learning takes on new meaning
-
-“The people who are crazy enough to think they can change the world are the ones who do,” said Steve Jobs, an American entrepreneur, best known as the co-founder of Apple. His passion for innovative ideas and thoughts led Apple Inc., to become the most valuable technology company setting the world a good example of how a creative mind can change the world. Like Steve Jobs, entrepreneurs are assets to any society as they have the potential to spread their wings over the globe to take a country to a wealthy destination where the community can enjoy the comfort they need.
-
-...
-
-[Data](articles/da0296d2.json)
-
-[Extended Data](ext_articles/da0296d2.ext.json)
 
 ---

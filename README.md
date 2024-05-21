@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 22:33:50**
+As of **2024-05-21 22:51:30**
 
 ## Newspaper Stats
 
-*Scraped **25,529** Articles*
+*Scraped **25,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,117 @@ islandlk | 1,376
 economynextcom | 1,468
 dailyftlk | 1,503
 adalk | 2,193
-adaderanalk | 2,945
+adaderanalk | 2,947
 tamilmirrorlk | 2,980
 virakesarilk | 3,864
-dailymirrorlk | 4,009
-adaderanasinhalalk | 4,085
+dailymirrorlk | 4,011
+adaderanasinhalalk | 4,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,527 (100.0%) of 25,529 articles have been extended.
+25,529 (100.0%) of 25,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ඊශ්‍රායලයෙන් දරුණු ප්‍රහාරයක්
+### Sri Lanka to launch two pilot projects to address human-elephant conflict
+
+*2024-05-21 22:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99368/sri-lanka-to-launch-two-pilot-projects-to-address-human-elephant-conflict) · `en`
+
+The government plans to initiate two pilot projects, the ‘Temporary Agricultural Electric Fence’ and the ‘Village Electric Fence,’ to protect villages and farmlands experiencing significant elephant-human conflicts.
+
+This announcement was made during a discussion held recently, led by Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, alongside the heads of line agencies, focusing on recent measures to mitigate wild elephant-human conflicts, the PMD reported.
+
+In addition to the existing electric fences built and maintained to mitigate elephant-human conflicts, pilot projects have been initiated in several conflict-prone districts to protect farmlands within regional secretariats’ jurisdictions. These farmlands will be safeguarded only until the harvest season, with a focus on the construction of temporary agricultural electric fences (Agro Fences).
+
+...
+
+[Data](articles/901028a6.json)
+
+---
+
+### පිරිමි මීටර් 400 සහාය දිවීමේ ඉසව්වෙන් ශ්‍රී ලංකාවට රන් පදක්කමක්
+
+*2024-05-21 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196885) · `si`
+
+තායිලන්තයේ බැංකොක් නුවර පැවති ආසියානු සහාය දිවීමේ තරගාවලියේදී පිරිමි මීටර 400 සහාය දිවීමේ ඉසව්වේ රන් පදක්කම දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට හැකිවුණි.
+
+ශ්‍රී ලංකා පිරිමි මීටර් 400 සහාය දිවීමේ කණ්ඩායමේ සමාජිකයින් වන්නේ කාලිංග කුමාරගේ, අරුන දර්ෂණ, පසිඳු ලක්ෂාන් සහ දිනුක දේශාන් ය.
+
+◼️
+
+[Data](articles/08fe7b85.json)
+
+---
+
+### Economic Transformation Bill and Public Financial Management Bill to parliament tomorrow
+
+*2024-05-21 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99367/economic-transformation-bill-and-public-financial-management-bill-to-parliament-tomorrow) · `en`
+
+Acting Finance Minister Shehan Semasinghe announced plans to introduce two significant bills to Parliament on Wednesday (May 22), aimed at bolstering the country’s economy.
+
+These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, he said.
+
+Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre, themed ‘Collective path to a stable country’.
+
+...
+
+[Data](articles/c6901f30.json)
+
+---
+
+### Israel was severely attacked
 
 *2024-05-21 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196884) · `si`
 
-පලස්තීන බටහිර ඉවුරේ ජෙනින් නගරයට ඊශ්‍රායල හමුදාව විසින් දරුණු ප්‍රහාරයක් එල්ල කර තිබේ.
+In a severe escalation, Israel's military attacked the West Bank, resulting in the deaths of 7 Palestinians, including a doctor and a teacher. The incident occurred near Jenne, targeting alleged armed gangs. Active groups like Hamas, Fatah, and Islamic Jihad are implicated.
 
-ඉන් වෛද්‍යවරයෙක් සහ ගුරුවරයෙක් ඇතුළු පලස්තීනුවන් 7 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+🟩
 
-ඊශ්‍රායලය පැවසුවේ ජෙනින් නගරයේ ක්‍රියාත්මක සන්නද්ධ කල්ලි ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+Israeli Army has been attacked by the Israeli army on the Palestinian west bank.
 
-එම නගරයේ හමාස්, ෆාටා, සහ ඉස්ලාමීය ජිහාඩ් වැනි සන්නද්ධ කණ්ඩායම් ක්‍රියාත්මක බව සඳහන් ය.
+It is reported that 7 Palestinians including a doctor and a teacher have died.
 
-ජීවිතක්ෂයට පත්වූ වෛද්‍යවරයා සහ ගුරුවරයා සේවාස්ථාන කරා යමින් සිටියදී ප්‍රහාරයට ලක්ව තිබුණි.
+Israel said that the attack was targeted at the Jenne's armed gangs.
+
+Armed groups such as Hamas, Fatah, and Islamic jihad are active.
+
+The deceased doctor and the teacher had been attacked while on their way to the operations.
 
 ◼️
 
 [Data](articles/94f42b78.json)
 
+[Extended Data](ext_articles/94f42b78.ext.json)
+
 ---
 
-### එක්ස්ප්‍රස් පර්ල් නඩුව ගැන නියෝගයක්
+### An order on Express Pearl case
 
 *2024-05-21 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196883) · `si`
 
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව ලබන 31 වනදා විභාගයට නොගන්නා ලෙසට ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court has ordered no hearing for the Express Pearl case, pending the outcome of a petition. The Attorney General filed this case in the High Court, seeking to prevent it from proceeding there until the petition's resolution.
 
-නීතිපතිවරයා විසින් මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව අභියෝගයට ලක් කරමින් අදාළ නෞකා සමාගමේ අධ්‍යක්ෂවරුන් විසින් ගොනු කළ අභියාචනා පෙත්සමක් අද (21) සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-මෙම සිද්ධියට අදාළව කොළඹ මහාධිකරණය හමුවේ  නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව ලබන 31 වනදා විභාගයට ගැනීමට නියමිතව තිබේ.
+The Supreme Court has issued an order not to hear the case before the Express Pearl of Express Pearl.
 
-මෙම පෙත්සමේ සලකා බැලීම අවසන් වන තුරු අදාළ නඩුව මහාධිකරණය හමුවේ විභාග කිරීම වළක්වන නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරුන් අධිකරණයෙන් ඉල්ලා තිබුණි.
+The court issued the order after the Attorney General's case filed before the High Court today after considering a appearance petition today (21).
 
-එම ඉල්ලීම පිළිගත් විනිසුරු මඩුල්ල අදාළ නඩුව ලබන 31 වනදා මහාධිකරණය හමුවේ විභාගයට නොගන්නා ලෙස දන්වමින් නියෝගයක් නිකුත් කළේය.
+The case is due to be heard on the 31st of the Colombo High Court regarding the incident.
+
+The Attorneys of the petitioners had asked the court to issue an order preventing the case from the High Court in the High Court until the end of the petition.
+
+The judge has issued an order not to inform the case by acceptance of the request.
 
 ◼️
 
 [Data](articles/679bc5ff.json)
+
+[Extended Data](ext_articles/679bc5ff.ext.json)
 
 ---
 
@@ -176,6 +234,22 @@ Sri Lankan Foreign Minister Ali Sabri will go to Iran tonight to attend the fune
 
 ---
 
+### High-level delegation visits Tehran to attend Iranian President’s state funeral
+
+*2024-05-21 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/High-level-delegation-visits-Tehran-to-attend-Iranian-Presidents-state-funeral/108-283080) · `en`
+
+Colombo, May 21 (Daily Mirror)-  Minister of Foreign Affairs Ali Sabry will lead a high-level delegation to attend the state funeral of late President Dr. Seyyed Ebrahim Raisi and Foreign Minister Dr. Amir Abdollahian of the Islamic Republic of Iran, scheduled to be held tomorrow, 22 May 2024, the Ministry of Foreign Affairs said.
+
+Minister Ali Sabry is scheduled to hand over a condolence message from President Ranil Wickremesinghe addressed to the Supreme Leader of Iran. Reflecting the close and cordial bilateral relations, the late President and the Foreign Minister visited Sri Lanka last month.
+
+Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs and Middle East of the Foreign Ministry U.L.M. Jauhar will accompany the Foreign Minister in the visit to Tehran.
+
+◼️
+
+[Data](articles/96355eda.json)
+
+---
+
 ### Complaint to contempation of Diana
 
 *2024-05-21 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196880) · `si`
@@ -251,6 +325,24 @@ Sri Lankans have employed in South Korea in terms of the Memorandum of Memorandu
 [Data](articles/322fa9ec.json)
 
 [Extended Data](ext_articles/322fa9ec.ext.json)
+
+---
+
+### Low-pressure area in Bay of Bengal likely to turn into depression by Friday
+
+*2024-05-21 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Low-pressure-area-in-Bay-of-Bengal-likely-to-turn-into-depression-by-Friday/108-283076) · `en`
+
+Colombo, May 21 (Daily Mirror) - A low-pressure area over the south-west Bay of Bengal is likely to move initially north-eastward and concentrate into a depression over the central parts of the Bay of Bengal by Friday (24), the Meteorology Department said today.
+
+Accordingly, strong winds accompanied by heavy rainfall and very rough seas are likely over the sea areas around the country and over the south-eastern Arabian Sea areas and south-western Bay of Bengal sea areas.
+
+Therefore, the naval and fishing communities in the deep-sea areas in the south-eastern Arabian Sea and in the south-western Bay of Bengal areas are advised not to venture out to the seas until further notice.
+
+Moreover, the sea areas extending from Colombo to Pottuvil via Galle and Hambantota will be rough at times with very strong gusty winds up to 70 kmph.
+
+...
+
+[Data](articles/cadb9889.json)
 
 ---
 
@@ -2159,143 +2251,5 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 [Data](articles/cabcf902.json)
 
 [Extended Data](ext_articles/cabcf902.ext.json)
-
----
-
-### Lanka Premier League (LPL) auction
-
-*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-LPL-auction/108-283052) · `en`
-
-01.44 PM - All-rounder Dasun Shanaka sold to B-Love Kandy for US$ 85,000
-
-01.42PM - Mohammad Nabi from Afghanistan and West Indies Roston Chase  unsold in the first round.
-
-01.38PM - Sean Williams sold to Galle Marvels for US$ 20,000.
-
-01.36 PM - Sri Lanka's Akila Dananjaya sold to Dambulla Thunders for USD 20,000
-
-01.33 PM - Prabath Jayasuriya sold to Galle Marvles for USD 10,000.
-
-01.32 PM - Sri Lanka's Lasith Embuldeniya and West Indies Hayden Walsh Jr unsold
-
-01.31 PM - Pramod Madushan sold to Jaffna Kings for USD 20,000
-
-01.30 PM - Lahiru Kumala sold to Galle Marvels for USD 30,000
-
-01.29 PM - Lungi Ngidi and Sheldon Cottrell also unsold in the first round
-
-01.27 PM - Sri Lankan fast bowlers Vishwa Fernando and Kasun Rajitha unsold in the first round
-
-01.24 PM - Bangladeshi cricketer Taskin Ahmed sold to Colombo Strikers for USD 50,000.
-
-01.08 PM - Sri Lanka's Sandun Weerakkody and Bangladesh Mushfiqur Rahim unsold in the first round.
-
-...
-
-[Data](articles/ce38edd7.json)
-
-[Extended Data](ext_articles/ce38edd7.ext.json)
-
----
-
-### LPL auction:  Matheesha Pathirana breaks record as most expensive player
-
-*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/LPL-auction-Matheesha-Pathirana-breaks-record-as-most-expensive-player/155-283052) · `en`
-
-18.02 PM - Nisala Tharaka sold to Jaffna Kings for $5,000 as the last player of the auction
-
-18.00 PM - Bowler Yuri Koththigoda from Sri Lanka sold to Galle Marvels $5,000
-
-17.56 PM - Theesan Vithushan goes to Jaffna Kings for $5,000
-
-17.54 PM - Santhush Gunathilake sold to Dambulla Thunders for $6,000
-
-17.51 PM - 18-year-old Afghan bowler Allah Ghazanfar sold to Colombo Strikers for $10,000
-
-17.49 PM - Pakistani cricketer Haider Ali sold to Dambulla Thunders for $25,000
-
-17.45 PM - Jaffna Kings locks in Pathum Nissanka for $40,000
-
-17.41 PM - All-rounder from Sri Lanka Arul Pragasam sold to Jaffna Kings for $5,000
-
-17.39 PM - Galle Marvels locks in Jeffrey Vandersay for $30,000
-
-17.38 PM - Chamindu Wijesinghe sold to Galle Marvels for $5,000
-
-17.37 PM - Murvin Abinash from Sri Lanka sold to Jaffna Kings for $5,000
-
-17.36 PM - B-Love Kandy signs Pakistani cricketer Mohammad Ali for $10,000
-
-17.35 PM - Afghan cricketer Mujeeb Ur Rahman sold to Galle Marvels for $50,000
-
-...
-
-[Data](articles/d41d8511.json)
-
-[Extended Data](ext_articles/d41d8511.ext.json)
-
----
-
-### $ 85,000 to the ten
-
-*2024-05-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196861) · `si`
-
-In the LPL tournament, the Candy team bought Viea Shana for $85,000, joining other high-priced players.
-
-🟩
-
-There were a large number of $ 85,000 players auctioning players.
-
-The candy team acquired Viea Shana in the LPL tournament this year.
-
-◼️
-
-[Data](articles/09e9505b.json)
-
-[Extended Data](ext_articles/09e9505b.ext.json)
-
----
-
-### Massive tree broke down in Colombo
-
-*2024-05-21 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184132) · `ta`
-
-In Colombo, a 200-year-old tree collapsed in Borella, disrupting traffic and damaging several vehicles. The Colombo Municipal Council is handling the cleanup.
-
-🟩
-
-Traffic has been affected by a 200 -year -old tree falling on the road in Borella, Colombo.
-
-A tree near the Borella cemetery fell on Tuesday morning.
-
-Many vehicles have been damaged as the tree has fallen. The Colombo Municipal Council has been involved in the process of cutting down the tree.
-
-◼️
-
-[Data](articles/54e08ee2.json)
-
-[Extended Data](ext_articles/54e08ee2.ext.json)
-
----
-
-### International Tea Day Event canceled
-
-*2024-05-21 13:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தேயிலை-தின-நிகழ்வு-இரத்து/175-337637) · `ta`
-
-Due to the passing of Iranian President Ibrahim Raisi, Sri Lanka's Agriculture Minister Mahinda Amaraweera advised cancelling the International Tea Day event set for Kingsbury Hotel in Colombo. This decision comes amid financial difficulties, including Iran's efforts to settle its debt amidst Sri Lanka's economic challenges.
-
-🟩
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera has advised the Sri Lanka Tea Council to cancel the International Tea Day event following the demise of Iranian President Ibrahim Raisi.
-
-The event was scheduled to be held at the Kingsbury Hotel in Colombo by the Sri Lanka Tea Council on International Tea Day.
-
-It is also worth noting that the Iranian government has taken steps to pay off the loan amount, as the Sri Lankan economic crisis is unable to pay for Iran.
-
-◼️
-
-[Data](articles/f8c73d7d.json)
-
-[Extended Data](ext_articles/f8c73d7d.ext.json)
 
 ---

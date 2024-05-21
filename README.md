@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 21:35:00**
+As of **2024-05-21 21:53:03**
 
 ## Newspaper Stats
 
-*Scraped **25,518** Articles*
+*Scraped **25,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,468
 dailyftlk | 1,503
-adalk | 2,187
+adalk | 2,193
 adaderanalk | 2,944
-tamilmirrorlk | 2,979
+tamilmirrorlk | 2,980
 virakesarilk | 3,864
 dailymirrorlk | 4,009
 adaderanasinhalalk | 4,082
@@ -26,75 +26,161 @@ adaderanasinhalalk | 4,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,514 (100.0%) of 25,518 articles have been extended.
+25,518 (100.0%) of 25,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### දරුවෙක් අතුරුදන්
+### தண்டவாளத்தில் முறிந்து வீழ்ந்த மரம்
+
+*2024-05-21 21:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-முறிந்து-வீழ்ந்த-மரம்/175-337665) · `ta`
+
+கொட்டாவ மற்றும் பன்னிபிட்டிக்கு இடையிலான ரயில் தண்டவாளத்தில் மரம் ஒன்று முறிந்து வீழ்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதனால் ரயில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+
+தொடரும் சீரற்ற வானிலை காரணமாக நாடளாவிய ரீதியில் போக்குவரத்துக்கள் பாதிக்கப்படுகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/503cc1f3.json)
+
+---
+
+### Child disappears
 
 *2024-05-21 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196881) · `si`
 
-මදුරන්කුලිය නවගම්මානය ප්‍රදේශයේ පදිංචි ගගන නෙතුසර නැමැති 12 හැවිරිදි දරුවෙකු මීට දින කිහිපයකට පෙර නිවැසියන් සමග අමනාප වී නිවසින් පිටව ගොස් මේ වනවිට අතුරුදන්වී ඇත.
+Nathutara, a 12-year-old from Maduranganamman, vanished recently. Authorities urge anyone with information to contact Madurankuliya Police Station at 032 2. 268 221.
 
-දරුවා පිළිබඳ තොරතුරක් වෙතොත් මදුරන්කුලිය පොලිස් ස්ථානයේ 032 2 268 221 අංකයට හෝ 071 8 592 927 අංකය ඔස්සේ මදුරන්කුලිය පොලිස් ස්ථානාධිපතිවරයාට දැනුම්දෙන ලෙස ඉල්ලීමක් කරයි.
+🟩
+
+A 12-year-old child named Nathutara, a 12 year old resident of Maduranganamman, has disappeared a few days ago with residents ago.
+
+The child requests the child to inform the OIC of the Madurankuliya Police Station 032 2. 268 221 at Madurankuliya Police Station.
 
 ◼️
 
 [Data](articles/525a7b16.json)
 
+[Extended Data](ext_articles/525a7b16.ext.json)
+
 ---
 
-### இறுதிச் சடங்கில் பங்கேற்க ஈரான் செல்கின்றார் அலி சப்ரி
+### Ali Sabri is going to Iran to attend the funeral
 
 *2024-05-21 21:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிச்-சடங்கில்-பங்கேற்க-ஈரான்-செல்கின்றார்-அலி-சப்ரி/175-337664) · `ta`
 
-ஈரானின் தப்ரிஸில் நடைபெறும் மறைந்த ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் இறுதிச் சடங்கில் பங்கேற்பதற்காக இலங்கையின் வெளிவிவகார அமைச்சர் அலி சப்ரி இன்று இரவு ஈரான் செல்லவுள்ளார் என வெளிநாட்டலுவல்கள் அமைச்சு தெரிவித்துள்ளது. R
+Sri Lanka's Foreign Minister Ali Sabri travels to Iran tonight for the funeral of Ibrahim Raisi in Tabriz.
+
+🟩
+
+Sri Lankan Foreign Minister Ali Sabri will go to Iran tonight to attend the funeral of the late Ibrahim Raisi in Iran's Tabris.. Remble
 
 ◼️
 
 [Data](articles/d29cc8fa.json)
 
+[Extended Data](ext_articles/d29cc8fa.ext.json)
+
 ---
 
-### ඩයනාට එරෙහිව අධිකරණයට අපහාස කිරීමේ පැමිණිල්ලක්
+### Complaint to contempation of Diana
 
 *2024-05-21 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196880) · `si`
 
-අධිකරණයට අපහාස කළ බවට චෝදනා කරමින් හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මියට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
+The Supreme Court has accused Mrs. Diana Gamage of contempt, filing a petition after she allegedly insulted the court during a press conference. The complaint was made by the former Chairman of the Weligama Urban Council, who received a decision from the Supreme Court on the 8th regarding his status as a state minister.
 
-වැලිගම නගර සභාවේ හිටපු සභාපති රෙහාන් ජයවික්‍රම මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+🟩
 
-පෙත්සම්කරු පෙත්සමෙන් සඳහන් කරන්නේ රාජ්‍ය අමාත්‍යවරියක ලෙස කටයුතු කළ ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුනක් දැරීමට සුදුසුකමක් නොමැති බවට ඉකුත් 08 වනදා ශ්‍රේෂ්ඨාධිකරණය විසින් තීන්දුවක් ලබා දුන් බවය.
+The Supreme Court has filed a petition against Mrs. Diana Gamage, accusing contempt of court.
 
-ඒ අනුව ඉකුත් 09 වනදා ඇය විසින් පැවැත් වූ මාධ්‍ය හමුවකදී අදාළ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව සම්බන්ධයෙන් ඇය විසින් සිදුකළ ප්‍රකාශවලින් ශ්‍රේෂ්ඨාධිකරණයට අපහාසයක් සිදුවී ඇති බවට චෝදනා කරයි.
+The petition was presented by the former Chairman of the Weligama Urban Council.
+
+The petitioner petition was given a decision by the Supreme Court on the 8th of all that was a state minister in the country.
+
+Accordingly, the expressions of the Supreme Court have acted insulting the Supreme Court at the Supreme Court decision at a press conference on the 9th.
 
 ◼️
 
 [Data](articles/feaaa59c.json)
 
+[Extended Data](ext_articles/feaaa59c.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවෙන් ඉන්දියාවට ගිය ISIS ත්‍රස්තයින් ගැන තොරතුරු රැසක්
+### ISIS terrorists visited Sri Lanka
 
 *2024-05-21 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196879) · `si`
 
-ඉන්දියාවේ අහමදාබාද් ජාත්‍යන්තර ගුවන්තොටුපොළේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකික ISIS ත්‍රස්තයින් සිව්දෙනා මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කිරීමට පවා සූදානමින් සිට ඇති බව ගුජරාට් පොලිස්පති විකාෂ් සාහේ මහතා පවසයි.
+Four Sri Lankan ISIS terrorists, including Mohamed Nusarath from Negombo and others from Colombo, were arrested at Ahmedabad airport in India. They were planning an attack in Gujarat but were caught before launching. The group used Tamil for communication and had weapons and ammunition.
 
-ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ගුජරාට් පොලිස්පතිවරයා වැඩිදුරටත් සඳහන් කරන්නේ මෙම ත්‍රස්තයින් සිව්දෙනා මීගමුව සහ කොළඹ ප්‍රදේශවල පදිංචිකරුවන් බවය.
+🟩
 
-ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තය තුළ ප්‍රහාරයක් දියත් කිරීමේ සූදානමින් මෙරට සිට අහමදාබාද් නගරය වෙත පැමිණි ශ්‍රී ලාංකික ISIS ත්‍රස්ත සංවිධානයේ සාමාජිකයන් සිව්දෙනෙකු අහමදාබාද් සර්ධාර් පටෙල් ජාත්‍යන්තර ගුවන් තොටුපොළේදී ඉරිදා රාත්‍රීයේ අත්අඩංගුවට පත්වුණි.
+Gujarat IGP Rathnayake said that the four terrorists were arrested at Ahmedabad International Airport in India.
 
-ගුජරාට් ත්‍රස්ත මර්දන බලකාය මගින් අත්අඩංගුවට ගත් ඔවුන් ඊයේ පස්වරුවේ ප්‍රවෘත්ති සාකච්ඡාවකට ඉදිරිපත් කළ අතර එහිදී තොරතුරු රැසක් අනාවරණ කෙරුණි.
+The four terrorists are residents of Negombo and Colombo.
 
-ඒ අනුව අත්අඩංගුවට පත් 33 හැවිරිදි මොහොමඩ් නුස්රත් ලෙස හඳුනාගෙන ඇති පුද්ගලයා මීගමුවේ පදිංචිකරුවෙකි.
+Four members of the Sri Lankan ISIS terrorist organization arrived at Ahmedabad Monastery on Sunday night at the Sri Lankan ISI of ISIS terrorist organization ready to launch an attack in Gujarat State.
 
-අත්අඩංගුවට පත් අනෙක් ත්‍රස්ත සාමාජිකයින් වන්නේ 27 හැවිරිදි මොහොමඩ් නෆ්රාන්, 43 හැවිරිදි මොහොමඩ් රශ්ඩීන් සහ 35 හැවිරිදි මොහොමඩ් ෆාරිෂ් යන කොළඹ නගරයේ පදිංචිකරුවන් ය.
+The Gujarat was arrested by the terrorist premises and presented a news discussion last afternoon.
+
+Accordingly, Mohamed Nusarath, who has been identified as Mohamed Nusarath, is a resident of Negombo.
+
+The other terrorists are residents of Colombo, Mohamed Naferan, 43 year old Mohammed Farish, a 27-year-old Mohammed Farish.
+
+They have arrived at Ahmedabad town from Srinenawa to Chennai.
+
+ISIS used only Tamil. The four terrorists questioned the four terrorists through a translator.
+
+They have found mobile phones, the two countries and the airports of the licenses and the license bag of one.
 
 ...
 
 [Data](articles/f15f44b5.json)
+
+[Extended Data](ext_articles/f15f44b5.ext.json)
+
+---
+
+### ජනවාරි සිට මැයි දක්වා දකුණු  කොරියාවට 2679 ක්
+
+*2024-05-21 20:23:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-සිට-මැයි-දක්වා-දකුණු--කොරියාවට-2679-ක්/11-409774) · `si`
+
+2024 වසරේ ගතවූ මාස 5ක කාලය තුලදී පමණක් ශ්‍රි ලාංකිකයින් 2,679 දෙනෙකු දකුණු කොරියාවේ රැකියා සඳහා පිටව ගොස් තිබෙන අතර, දකුණු කොරියාවේ නිශ්පාදන ක්ෂේත්‍රයේ රැකියා හිමිවූ තවත් ශ්‍රි ලාංකිකයින් 150 කු අද දින (5/21) UL 470 දරණ ගුවන් යානයෙන් දකුණු කොරියාව බලා පිටත්ව යන ලදී. මෙම පිරිසට තරුණියන් 6 දෙනෙකුද අයත් වේ.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා දකුණු කොරියානු මානව සම්පත් සංවර්ධන සේවා ආයතනය අතර ඇති කර ගත් අවබෝධතා ගිවිසුම ප්‍රකාරව ශ්‍රි ලාංකිකයින්ට දකුණු කොරියාවේ රැකියා අවස්ථා හිමිවේ. එම අවබෝධතා ගිවිසුම අනුව 2004 වසරේ සිට අඛණ්ඩව මේ දක්වා ශ්‍රි ලාංකිකයින් දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව යන අතර, අද වන විට තරුණ ප්‍රජාව දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව යාමට වැඩි උනන්දුවක් ඇතිවී තිබේ.
+
+◼️
+
+[Data](articles/322fa9ec.json)
+
+---
+
+### ප්‍ර ලේ කොට්ඨාස පනහකට නාය යැමේ අනතුරු ඇඟවීම්
+
+*2024-05-21 20:18:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍ර-ලේ-කොට්ඨාස-පනහකට-නාය-යැමේ-අනතුරු-ඇඟවීම්/11-409773) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල තව දුරටත් පවතින අධික වර්ෂාව හේතුවෙන් දිස්ත්‍රික්ක නවයක ප්‍රාදේශිය ලේකම් කොට්ඨාස 50 කට නාය යෑමේ අනතුරු ඇඟවීමේ නිවේදනය අද 21 සවස ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නිකුත් කර තිබේ.
+
+එම නිවේදනයට අනුව බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල,බදුල්ල,හපුතලේ  හාලි ඇල සහ ඇල්ල යන ප්‍රාදේශිය ලේකම් කොට්ඨාස සඳහා පළමු මට්ටමේ නිවේදනයද, කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක  ප්‍රාදේශිය ලේකම් කොට්ඨාසය සඳහා පළමු මට්ටමේ නිවේදනයද සීතාවක ප්‍රාදේශිය ලේකම් කොට්ඨාසය සඳහා දෙවන මටට්මේ නිවේදනයද නිකුත් කර තිබේ.
+
+ගාල්ල දිස්ත්‍රික්කයේ ඇල්පිටිය සහ නාගොඩ ප්‍රාදේශිය ලේකම් කොට්ඨාස සහ  ගම්පහ දිස්ත්‍රික්කයේ අත්තනගල්ල ප්‍ර දේශීය ලේකම් කොට්ඨාසය,කළුතර දිස්ත්‍රික්කයේ වලල්ලාවිට, හොරණ,දොඩංගොඩ,අගලවත්ත,ඉංගිරිය, පාලින්දනුවර යන ප්‍රාදේශිය ලේකම් කොට්ඨාස සඳහා පළමු මට්ටමේ නිවේදනයද, මතුගම සහ බුලත්සිංහල ප්‍රාෙදේශිය ලේකම් කොට්ඨාස සදහා දෙවන මට්ටමේ නිවේදනයද නිකුත් කර තිබේ.
+
+...
+
+[Data](articles/78a692bb.json)
+
+---
+
+### ලංකා ප්‍රිමියර් ලිග ඉතිහාසයේ මිල අධිකම ක්‍රිඩකයා මතීෂ
+
+*2024-05-21 20:12:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-ප්‍රිමියර්-ලිග-ඉතිහාසයේ-මිල-අධිකම-ක්‍රිඩකයා-මතීෂ/9-409772) · `si`
+
+ලංකා ප්‍රිමියර් ලිග තරගාවලියට අදාළ ක්‍රිඩක ‍වෙන්දේසිය අද කොළඹදි නිමාවට පත්විය. මෙම වෙන්දේසියේ ශ්‍රි ලංකා යොවුන් වේග පන්දු යවන ක්‍රිඩක මතිෂ පතිරණ ඩොලර ්120000කට අලෙවි වූ අතර එය වාර්තා පොතට එක්වූයේ ලංකා ප්‍රිමියර් ලිග ඉතාහිසයේ ක්‍රිඩකයෙක් වෙන්දේසි වූ ඉහළම වටිනාකම ලෙසයි. මතිෂ කොළඹ කණ්ඩායම විසින් මිලට ගනු ලැබිය. මෙවර වෙන්දේසියට ක්‍රිඩකයන් 400කට අධික සංඛ්‍යාවක් එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/a1383e0e.json)
 
 ---
 
@@ -750,6 +836,18 @@ Following the incident, police swiftly apprehended the suspect and recovered the
 
 ---
 
+### ලංකාවේ සමිතගෙන් ලෝක වාර්තාවක්
+
+*2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/9-409771) · `si`
+
+ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී F -44 හෙල්ල විසිකිරීමේ ඉසව්වෙන් සමිත සිය පළමු උත්සාහයේදී මීටර් 66.49 ක දක්ෂතාවක් වාර්තා කරමින් නව ලෝක වාර්තාවක් පිහිටුවීමට ශ්‍රී ලංකාවේ සමිත දුලාන් සමත්විය.
+
+◼️
+
+[Data](articles/344f9270.json)
+
+---
+
 ### World record for Sri Lankan organizations
 
 *2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/11-409771) · `si`
@@ -1091,6 +1189,22 @@ The main points of gender to social welfare and victims were discussed. The prop
 [Data](articles/5671ab4d.json)
 
 [Extended Data](ext_articles/5671ab4d.ext.json)
+
+---
+
+### වැන්දඹුවකට දීමනා හා වැටුප්වලින් සියයට 50ක අයිතියක් හා විවාහ වීමට අවසර
+
+*2024-05-21 15:37:29* · [`adalk`](https://www.ada.lk/breaking_news/වැන්දඹුවකට-දීමනා-හා-වැටුප්වලින්-සියයට-50ක-අයිතියක්-හා-විවාහ-වීමට-අවසර/11-409768) · `si`
+
+ජනවාර්ගික ගැටුම් සහ යුද්ධයෙන් පසුව ඇති වූ ප්‍රතිවිපාක සම්බන්ධයෙන් සංවාදයක් ගොඩනැගීම සහ ඒ සඳහා අවධානය යොමු කිරීමේ උත්සාහයක් ලෙස, සත්‍ය සහ සංහිඳියා යාන්ත්‍රණය සඳහා වන අන්තර්වාර ලේකම් කාර්යාලය (ISTRM) කොමිෂන් සභාව විසින් පසුගියදා ගාල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පවත්වන ලද රැස්වීම් තුනක් හරහා පාර්ශවකරුවන්ගේ අදහස් විමසීම සිදු කරන ලදී.
+
+එහිදී හිටපු හමුදා නිලධාරීන් සහ රාජ්‍ය නොවන සංවිධාන ඇතුළු ප්‍රජා පාර්ශ්වකරුවන් විසින් සමාජ දුක්ගැනවිලි විසඳීම සඳහා අත්‍යවශ්‍ය වන බිම් මට්ටමේ ක්‍රියාකාරකම් පිළිබඳ ව ප්‍රධාන වශයෙන් කරුණු ඉදිරිපත් කළේය.
+
+ස්ත්‍රී පුරුෂ සමාජභාවයේ සිට සමාජ සුබසාධනය සහ වින්දිතයන් වෙනුවෙන් පෙනී සිටීම දක්වා වූ ප්‍රධාන කරුණු මෙහිදී සාකච්ඡා කෙරිණි. කොමසාරිස්වරුන් තෝරා ගැනීමේදී කාන්තා නියෝජනය අනිවාර්ය කිරීම සඳහා මෙන්ම වැන්දඹු කාන්තාවන් සඳහා දීමනා හා වැටුප්වලින් 50%ක අයිතියක් සහිතව නැවත විවාහ වීම සඳහා සහන සැලසෙන අයුරින් නීති සංශෝධනය කිරීම සඳහාද යෝජනා ඉදිරිපත් විය.
+
+◼️
+
+[Data](articles/e71806a5.json)
 
 ---
 
@@ -1439,6 +1553,22 @@ He also said that Wickremesinghe would not contest in a single party and would r
 [Data](articles/e370fa8d.json)
 
 [Extended Data](ext_articles/e370fa8d.ext.json)
+
+---
+
+### මෙරට දරු උපත්වලින් සියයට 99.9ක්ම රෝහල්වල
+
+*2024-05-21 15:09:09* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-දරු-උපත්වලින්-සියයට-99-9ක්ම-රෝහල්වල/11-409766) · `si`
+
+මෙරට මාතෘ හා ළමා සෞඛ්‍ය සේවා ශක්තිමත් කිරීමේ අරමුණින් පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් (1000) පුහුණුවට බදවා  ගැනීමේ  පත්වීම් ලිපි ප්‍රධානෝත්සවය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් සහ සෞඛ්‍ය රාජ්‍ය අමාත්‍ය විශේෂඥ වෛද්‍ය සීතා අරඹෙිපොල මහත්මියගේ සහභාගීත්වයෙන් අද දින (21) අරලියගහ මන්දිරයේ දී පැවැත්විනි.
+
+2015 / 2016 / 2017 යන වර්ෂවල උසස්පෙළ  ඕනෑම විෂය ධාරාවකින්  එක් වරක දී විෂයන් 03 සමත් අයදුම්කාරිනියන්ගෙන් අයදුම්පත් කැඳවන ලද අතර, ඒ සදහා සුදුසුකම් සම්පූර්ණ කරන ලද අයදුම්කාරිනියන් 2836 ක් පුහුණුව සදහා තෝරා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කරන ලදී.
+
+මෙම අවස්ථාවට එක්වෙමින් අදහස් දැක් වූ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා කියා සිටියේ මෙරට  දරු උපත් වලින් 99.9 % ක් සිදුවන්නේ රෝහල්වල බවත්, 1950 ගණන්වල එය සියයට 40 ක් පමණ අගයක් ගත් බවත්, අනෙකුත් දරු උපත් සිදුවූයේ නිවෙස් වල බවයි.
+
+...
+
+[Data](articles/eb120776.json)
 
 ---
 
@@ -2141,143 +2271,5 @@ The Russian Embassy has also questioned what prevents them from exploring the op
 [Data](articles/6e3ce005.json)
 
 [Extended Data](ext_articles/6e3ce005.ext.json)
-
----
-
-### Black flags at Iranian Cultural Centre
-
-*2024-05-21 13:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Black-flags-at-Iranian-Cultural-Centre/110-283062) · `en`
-
-Black flags were displayed at the Iranian Cultural Centre in Colombo mourning the death of Iranian President Ebrahim Raisi. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/ccf00816.json)
-
-[Extended Data](ext_articles/ccf00816.ext.json)
-
----
-
-### Live Updates: 2024 LPL Player Auction
-
-*2024-05-21 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99355/live-updates-2024-lpl-player-auction) · `en`
-
-The player auction of the Lanka Premier League 2024 commenced at the Hilton Hotel in Colombo, a short while ago.
-
-A total of 420 players, both Sri Lankan and overseas, will go under the hammer during the much-awaited ‘Player Auction’. Out of the 420 players, 154 are Sri Lankans, while the remaining players are overseas.
-
-In total, the auction will have a collective purse of US$ 2.5 million from all five franchise teams, while each franchise will bring in a sum of US$ 500,000.
-
-The teams will have to ensure that they invest a minimum of 90 per cent of the purse they bring into the auction to form their respective squads.
-
-Charu Sharma, who was the auctioneer of the inaugural LPL player auction held last year, is the auctioneer of this edition as well.
-
-◼️
-
-[Data](articles/57a10b07.json)
-
-[Extended Data](ext_articles/57a10b07.ext.json)
-
----
-
-### The president's inherent involvement is essential for reconciliation
-
-*2024-05-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184129) · `ta`
-
-President Ranil Wickremesinghe aims to resolve Sri Lanka's economic crisis and address ethnic issues, promising self-governance and economic reforms. His policies, including tax relief and privatization, face opposition but could secure his reelection. Despite commitments to reconciliation, recent police actions against Tamil memorials and student protests indicate ongoing tensions rather than progress towards peace. International scrutiny, including calls for apologies and investigations into human rights abuses, further complicates the situation. Wickremesinghe's tenure ends with unresolved questions about his ability to lead Sri Lanka towards lasting reconciliation and economic stability.
-
-🟩
-
-Ranil Wickremesinghe has said that he was elected as the president and that Sri Lanka was to restore Sri Lanka from its economic crisis and that he would work for the self -government to fulfill that obligation.. Thus, before the economic success, there were great speculations about the President's objectives on holding the presidential election.
-
-Through his commitment to the president's faith in resolving the economic crisis, the truth of his claims can be found in the vigilant and unwavering economic policies of the people.. The president is relaxing in the imposition of high taxes beyond the limits of the people and the privatization of state institutions that are strongly opposed by most employees.
-
-Both policies are so influential that he can be re -elected president in the upcoming presidential election.. But he stands firmly in them with great confidence.
-
-...
-
-[Data](articles/653130bc.json)
-
-[Extended Data](ext_articles/653130bc.ext.json)
-
----
-
-### Woodfall breaks in Vavuniya!
-
-*2024-05-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184122) · `ta`
-
-In Vavuniya, a mature tree was vandalized in Omanthai, leading to the arrest of two vehicles from Kalmadu. The police recovered 24 damaged trees valued at Rs., with ongoing investigations by the Vavuniya District Criminal Investigation Division.
-
-🟩
-
-The Vavuniya District Criminal Investigation Division said that the mature tree has been broken in Omanthai in Vavuniya.
-
-Based on the confidential information received by the Vavuniya District Crime Police, two vehicles from Kalmadu in Vavuniya have been caught in the Omanthai area.
-
-The police have also been recovered by the police, 24 trees worth Rs.
-
-Further inquiries into the incident are being carried out by the Vavuniya District Criminal Investigation Division.
-
-◼️
-
-[Data](articles/a192a03a.json)
-
-[Extended Data](ext_articles/a192a03a.ext.json)
-
----
-
-### Sri Lanka’s Bank of Ceylon to divest subsidiary BOC Travels
-
-*2024-05-21 12:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-to-divest-subsidiary-boc-travels-163944/) · `en`
-
-ECONOMYNEXT – State-owned Bank of Ceylon (BoC) has decided to divest 100 percent of its shareholding in its subsidiary B O C Travels (Private) Limited (BoCT), BoC said.
-
-This was done on a direction issued by the Central Bank of Sri Lanka, as the key business activities of BoCT did not fall within the purview of Section 17(1) (a)-(g) of Banking Act No 30 of 1988, the company said in a stock exchange filing.
-
-The principal activities of the Bank as stated in its 2023 Annual Report, during the year were, personal banking, corporate banking, development banking, off-shore banking, trade financing, lease financing, primary dealing, investment banking and wealth management, treasury operations, correspondent banking and money remittances, Islamic banking, bancassurance, pawning, credit card facilities, foreign currency operations and other financial services.
-
-The principal activities BoC Travels was given as ‘Engages in travel related services’.
-
-...
-
-[Data](articles/c63ba4fa.json)
-
-[Extended Data](ext_articles/c63ba4fa.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184128) · `ta`
-
-US dollar buying rate: Rs 294.7827; selling rate: Rs 304.3151 as per May 21 Central Bank data.
-
-🟩
-
-The US dollar purchasing price was Rs 294.7827 and the sales price were Rs 304.3151 based on the currency exchange rate released by the Central Bank on Tuesday (May 21).
-
-◼️
-
-[Data](articles/0718c564.json)
-
-[Extended Data](ext_articles/0718c564.ext.json)
-
----
-
-### Contempt of Court application filed against Diana Gamage
-
-*2024-05-21 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-Court-application-filed-against-Diana-Gamage/108-283054) · `en`
-
-Colombo, May 21 (Daily Mirror) - A contempt of court application has been filed before the Supreme Court against former State Minister Diana Gamage, alleging that she has committed the offence of contempt of court through her statements at a media conference held on May 9 this year.
-
-Former Chairman of the Weligama Urban Council, Rehan Jayawickrema filed this application alleging that Diana Gamage had made a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
-
-The Supreme Court, in a landmark judgment on May 8, held that then State Minister Diana Gamage is disqualified from being a Member of Parliament and thus she is not entitled to hold office as a Member of Parliament, as she is not a citizen of Sri Lanka.
-
-...
-
-[Data](articles/fd480738.json)
-
-[Extended Data](ext_articles/fd480738.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 09:33:59**
+As of **2024-05-21 09:52:51**
 
 ## Newspaper Stats
 
-*Scraped **25,360** Articles*
+*Scraped **25,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,172
-adaderanalk | 2,928
+adaderanalk | 2,929
 tamilmirrorlk | 2,961
-virakesarilk | 3,831
+virakesarilk | 3,833
 dailymirrorlk | 3,981
-adaderanasinhalalk | 4,052
+adaderanasinhalalk | 4,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,357 (100.0%) of 25,360 articles have been extended.
+25,360 (100.0%) of 25,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### වෙසක් සතිය අදින් ඇරඹේ
+
+*2024-05-21 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196849) · `si`
+
+◼️
+
+[Data](articles/d20691a0.json)
+
+---
+
+### Amnesty International’s Secretary General concludes five-day visit to Sri Lanka
+
+*2024-05-21 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99351/amnesty-internationals-secretary-general-concludes-five-day-visit-to-sri-lanka) · `en`
+
+Amnesty International’s Secretary General, Agnès Callamard, concluded a five-day visit to Sri Lanka on Monday, in which she met with officials and a diverse cross-section of society, stakeholders to discuss a range of pressing human rights issues.
+
+“This visit has provided insights into the many challenges that Sri Lanka is confronting 15 years after the end of the war that has fractured and polarized Sri Lankan society.  I am deeply grateful to all those who engaged with us, recounting their pain and grief, sharing their views and concerns, and voicing their hopes, fears and demands for the present and the future.
+
+“Amnesty International stands ready to support all genuine efforts and commitments to confront long-standing impunity, address the violations and grievances of the past and present, and put an end to discrimination and the repression of fundamental freedoms.
+
+...
+
+[Data](articles/db9fddb3.json)
+
+---
+
+### களுத்துறையில் அதிக மழை வீழ்ச்சி பதிவு !
+
+*2024-05-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184099) · `ta`
+
+நாட்டில்  சப்ரகமுவ, மேல்  மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் கண்டி, நுவரெலியா,  காலி மற்றும்  மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 100 மில்லிமீற்றரிலும் கூடிய   பலத்த  மழை வீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+நேற்று திங்கட்கிழமை (20) காலை 8.30 மணி முதல் இன்று செவ்வாய்க்கிழமை (21) காலை  8.00 மணி வரையான காலப்பகுதியில் களுத்துறை மாவட்டத்தில் அதிக மழை வீழ்ச்சி பதிவாகியுள்ளது.
+
+களுத்துறை மாவட்டத்தில் பாலிந்தநுவர பகுதியில் 107 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதேவேளை,   களுத்துறை - இங்கிரிய பகுதியில் 79 மில்லிமீற்றர் மழை வீழ்ச்சியும், பண்டாரகம பகுதியில் 77 மில்லிமீற்றர் மழை வீழ்ச்சியும் பதிவாகியுள்ளது.
+
+அத்தோடு, புத்தளம் மாவட்டத்தில்  மாதம்பே பகுதியில் 75 மில்லிமீற்றர் மழை வீழ்ச்சியும், கம்பஹா மாவட்டத்தின் கிரிந்திவெல பகுதியில் 72 மில்லிமீற்றர் மழை வீழ்ச்சியும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/2c30a8b2.json)
+
+---
 
 ### Matara Prison inmate dies of suspected brain fever
 
@@ -50,19 +96,43 @@ Several cases of brain fever had been reported from the Matara Prison in Decembe
 
 [Data](articles/2d3b48ae.json)
 
+[Extended Data](ext_articles/2d3b48ae.ext.json)
+
 ---
 
-### ඩයනා ගැන අධිකරණය CIDයට දුන් නියෝගය
+### கண்ணோட்டம் : சட்டம் பற்றிய அறிவினை வலுப்படுத்தல்
+
+*2024-05-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184101) · `ta`
+
+எந்தவொரு துறையிலும் ‘எழுத்தறிவு’ என்றால் என்ன என்பதை முதலில் அவதானிப்போம். எழுத்தறிவு என்பது குறித்த விடயத்தைப் பற்றிய தகவல்களைப் புரிந்துகொள்வது மற்றும் விமர்சன ரீதியாக மதிப்பீடு செய்வதாகும். மேலும், இந்த அறிவை நடைமுறை அல்லது பொருத்தமான சூழல்களில் பயன்படுத்தும் திறனும் இதற்குள் அடங்கும்.
+
+இலங்கையின் அடிமட்டத்தில் பொது சட்ட எழுத்தறிவு தொடர்பாக நாம் அவதானம் செலுத்துவதால், பொதுச் சட்ட எழுத்தறிவு என்றால் என்ன என்பதை தெளிவாக வரையறுப்பது அவசியம்.
+
+பொதுச் சட்ட எழுத்தறிவு என்பது சட்டம், சட்ட அமைப்புகள் மற்றும் சட்ட உரிமைகள் பற்றி பொதுமக்களிடம் காணப்படும் புரிதல் மற்றும் விழிப்புணர்வு நிலையைக் குறிக்கின்றது. இது அடிப்படை சட்டக் கோட்பாடுகள், சட்டத்தின் கீழ் உள்ள உரிமைகள் மற்றும் பொறுப்புகள் மற்றும் சட்ட கட்டமைப்பை வழிநடத்தும் திறன் பற்றிய அறிவு ஆகியவற்றை உள்ளடக்கியது. மேலும், சட்டச் சிக்கல்களை அடையாளம் காணவும், அவர்களின் சட்ட உரிமைகளைப் புரிந்து கொள்ளவும், சட்டச் சிக்கல்களைத் தீர்ப்பதற்கு உரிய நடவடிக்கை எடுக்கவும் மக்களுக்கு பொதுச் சட்ட எழுத்தறிவு உதவுகின்றது.
+
+...
+
+[Data](articles/0509e611.json)
+
+---
+
+### Court Regardment of Diana
 
 *2024-05-21 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196848) · `si`
 
-මෙරට පුරවැසිභාවය නොමැතිව ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍ර ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට එරෙහිව නීතිය අනුව නිසි පියවර ගෙන අධිකරණයට කරුණු වාර්තා කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය ඊයේ (20) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියෝග කළේය.
+Sri Lanka's CID ordered to report State Minister Diana Gamage, who lacks citizenship, to the judiciary. The directive came from Chief Magistrate Thilina Gamage.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මෙම සිද්ධියට අදාළව ඉදිරිපත් කළ වාර්තාවක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කරනු ලැබුවේය.
+🟩
+
+The Criminal Investigation Department (CID) yesterday (20) ordered the CID to report the right to the judiciary against State Minister Diana Gamage without citizenship of Sri Lanka.
+
+The order was issued by the Chief Magistrate Thilina Gamage, Colombo Chief Magistrate Thilina Gamage.
 
 ◼️
 
 [Data](articles/a38b6fce.json)
+
+[Extended Data](ext_articles/a38b6fce.ext.json)
 
 ---
 
@@ -83,6 +153,8 @@ He also said that 100mm of rain was reported from every area of the country and 
 ...
 
 [Data](articles/76aba51a.json)
+
+[Extended Data](ext_articles/76aba51a.ext.json)
 
 ---
 
@@ -2099,91 +2171,5 @@ This Bill is not proposed by the International Monetary Fund. It must be said th
 [Data](articles/f86b70fe.json)
 
 [Extended Data](ext_articles/f86b70fe.ext.json)
-
----
-
-### රුසියානු - යුක්‍රේන යුදබිමේ කොටුවූ අපේ මිනිස්සු
-
-*2024-05-20 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196834) · `si`
-
-Sinhalese soldiers stationed in Ukraine since 2022, including reservists and others from various professions, have confirmed their presence amidst ongoing conflict. Some describe surviving "very difficult times," highlighting the harsh realities of war. A video shared by a retiree named A.N. Nirose, who served as a soldier and moved to Russia due to economic hardships, showcases the struggles faced by those involved in the conflict. Despite the video's existence, there is no further information available about Nirose until now.
-
-🟩
-
-2022 වසරේ ඇරඹි රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරට විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින් මෙන්ම රුසියාවේ වෙනත් රැකියාවන්හි නිරතවූවන්ද එක්ව ඇති බව මේ වනවිටත් තහවුරුවී තිබේ.
-
-එලෙස එහි යුද පෙරමුණේ සිටින කිහිපදෙනෙකුම "අද දෙරණ" අමතමින් තමන් මුහුණදෙන කටුක අත්දැකීම් මෙලෙස පැහැදිලි කළහ.
-
-"ඩ්‍රෝනවලින් බොහොම අමාරුවෙන් බේරෙන්නේ.  එනවා ඔළුව උඩටම. I survived very difficult from yesterday. කිව්වට තේරෙන්නේ නෑ ඒක ඔයාලට. Five suffered injuries with us. එක්කෙනෙක් මැරිලා. Tell us to get the godly. The line is brought together to bring us to lies. ඒකයි වැඩේ. I'm going. "
-
-අම්පාර, මිහිඳුපුර ගම්මානයේ පදිංචි ඒ. De. එස්. A Nirose retirement was a soldier and he had gone to Russia on March 14 due to economic difficulties.
-
-...
-
-[Data](articles/606a1db0.json)
-
-[Extended Data](ext_articles/606a1db0.ext.json)
-
----
-
-### Milco daily production increased by 100 percent
-
-*2024-05-20 20:05:31* · [`adalk`](https://www.ada.lk/breaking_news/මිල්කෝ-දෛනික-කිරි-නිෂ්පාදනය-සියයට-100කින්-ඉහළට/11-409749) · `si`
-
-Milko's daily liquid milk production surged by 100%, exceeding 65,000 liters last season. The company also boosted its milk powder output, storing 80 metric tons of Highland milk powder. Administrative improvements led to this significant increase.
-
-🟩
-
-The daily liquid milk production of the daily liquid milk of Milko has exceeded 65,000 liters during the past season due to administrative weaknesses.
-
-He said that the company's milk powder produced in the entire stay in the recent past was also activated and 80 metric tons of Highland milk powder have been in storage.
-
-Meanwhile, a report on the production capacity of Milko has been given a report to the top of Milko.
-
-◼️
-
-[Data](articles/18da1bc9.json)
-
-[Extended Data](ext_articles/18da1bc9.ext.json)
-
----
-
-### Sri Lankan, Thai Missions in Kenya celebrate UN Vesak
-
-*2024-05-20 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankan-Thai-Missions-in-Kenya-celebrate-UN-Vesak/110-282982) · `en`
-
-The High Commission of Sri Lanka and the Thai Embassy in Kenya hosted the International Vesak Day 2024 celebration at the United Nations Office in Nairobi. This event commemorated the Birth, Enlightenment, and Passing Away of Lord Buddha and marked the 25th anniversary of the UN General Assembly resolution 54/115, recognizing the Day of Vesak internationally.
-
-The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara Thero, Chief Monk for the African Continent from the Buddhist Temple and Meditation Centre in Tanzania, along with the Director of the United Nations in Nairobi, Ms. Sandra Macharia, Maurice Okoth Amisi, Director of Asia Pacific at MOFA, and other dignitaries, excellencies, and distinguished guests.
-
-...
-
-[Data](articles/fa29a11f.json)
-
-[Extended Data](ext_articles/fa29a11f.ext.json)
-
----
-
-### International investigation into drug trafficking
-
-*2024-05-20 19:48:28* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ජාවාරම-සම්බන්ධයෙන්-ජාත්‍යන්තර-පරීක්ෂණයක්-ඉල්ලයි/11-409748) · `si`
-
-The World Health Organization (WHO) initiated an international probe into drug quality issues after receiving complaints from the Professional Union of Doctors and Civil Rights. The inquiry followed audits conducted in 2022 and 2023 revealing regulatory violations. Dr. Chamal Sanjeewa highlighted the importance of this action in ensuring the safety and efficacy of medications globally.
-
-🟩
-
-The professional union of doctors and civil rights says that the World Health Organization has asked the World Health Organization to conduct an international inquiry into the quality of drugs free of the country.
-
-Dr. Chamal Sanjeewa stated that the Pharmace of Association has been revealed that there have been a result of the low-up of the year and the regulations of the World Health Organization in 2022 and 2023.
-
-Accordingly, the complaint was handed over to the World Health Organization in the World Health Organization, including copies of the audit.
-
-The audit report also revealed that the wrongdoers had been revealed.
-
-◼️
-
-[Data](articles/f8b925fc.json)
-
-[Extended Data](ext_articles/f8b925fc.ext.json)
 
 ---

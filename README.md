@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 01:33:52**
+As of **2024-05-22 01:52:38**
 
 ## Newspaper Stats
 
@@ -26,29 +26,41 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,549 (100.0%) of 25,550 articles have been extended.
+25,550 (100.0%) of 25,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ஹைதராபாத்தை 8 விக்கெட்களால் வீழ்த்தி இறுதிப் போட்டியில் முதல் அணியாக நுழைந்தது கொல்கத்தா
+### Kolkata entered the first team in the final by beating Hyderabad by 8 wickets
 
 *2024-05-22 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184177) · `ta`
 
-அஹமதாபாத், நரேந்திர மோடி விளையாட்டரங்கில் செவ்வாய்க்கிழமை (21) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் முதலாவது தகுதிகாண் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத்தை 8 விக்கெட்களால் வெற்றிகொண்ட கொல்கத்தா நைட் ரைடர்ஸ் முதல் அணியாக இறுதிப் போட்டிக்குள் நுழைந்தது.
+Kolkata Knight Riders secured a spot in the IPL final after defeating Sunrisers Hyderabad by 8 wickets in the first qualifier. They chased down Hyderabad's 160-run target in 13.4 overs, with Rahmatullah Gurbaz and Sunil Narine contributing 44 runs before being dismissed. Shreyas Iyer and Venkatesh Iyer then combined for 97 runs, securing victory with Shreyas scoring 58 off 24 balls and Venkatesh making 51 off 28. Thangarasu Natarajan and Basil Thampi claimed one wicket each for Hyderabad, who were bowled out for 159 runs in 19.3 overs.
 
-அப் போட்டியில் சகலதுறைகளிலும் அபார ஆற்றல்களை வெளிப்படுத்திய முன்னாள் சம்பியன்களான கொல்கத்தா நைட் ரைடர்ஸ் 6.2 ஓவர்கள் மீதமிருக்க மிக இலகுவாக வெற்றிபெற்று நான்காவது தடவையாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+🟩
 
-2012இலும் 2014இலும் சம்பியனான கொல்கத்தா நைட் ரைடர்ஸ் 2021இல் இரண்டாம் இடத்தைப் பெற்றது.
+Kolkata Knight Riders, who won Sunrisers Hyderabad by 8 wickets in the first qualifying match of the 17th Indian Premier League chapter held at the Narendra Modi Stadium on Tuesday night (21) at the Narendra Modi Stadium.
 
-சன்ரைசர்ஸ் ஹைதராபாத்தினால் நிர்ணயிக்கப்பட்ட 160 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 13.4 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து 164 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Former champions, Kolkata Knight Riders, who have expressed great energies in all sectors, won the remaining 6.2 overs and qualified for the final for the fourth time.
 
-ரஹ்மத்துல்லா குர்பாஸ் (23), சுனில் நரேன் (21) ஆகிய இருவரும் 3.2 ஓவர்களில் 44 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர். அவர்கள் இருவரும் 23 ஓட்டங்கள் வித்தியாசத்தில் ஆட்டம் இழந்தனர்.
+In 2012 and 2014, Kolkata Knight Riders were second in 2021.
+
+Sunrisers Hyderabad won the total number of 160 runs, Kolkata Knight Riders, who were bowled out for 164 runs in 13.4 overs, scoring 164 runs.
+
+Rahmatullah Gurbas (23) and Sunil Narain (21) shared 44 runs in 3.2 overs. The two lost by 23 runs.
+
+The pair of other batsmen Venkatesh Iyer and team captain Shreyas Iyer were then facing the opposition bowlers and accumulating the run and confirming the victory.
+
+They shared 97 off 44 balls in the 3rd wicket.
+
+Shreyas Iyer did not lose 58 off 24 balls and Venkatesh Iyer 51 off 28 balls.
 
 ...
 
 [Data](articles/9e470706.json)
+
+[Extended Data](ext_articles/9e470706.ext.json)
 
 ---
 
@@ -1000,7 +1012,7 @@ With elections coming up in Sri Lanka, the World Bank is concerned that reform f
 
 *2024-05-21 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-calls-on-political-parties-to-support-soe-reforms-164062/) · `en`
 
-ECONOMYNEXT – The Ceylon Chamber of Commerce has all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
+ECONOMYNEXT – The Ceylon Chamber of Commerce has asked all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
 
 “The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis,” it said in a statement.
 

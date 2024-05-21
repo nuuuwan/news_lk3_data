@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 11:18:27**
+As of **2024-05-21 11:33:50**
 
 ## Newspaper Stats
 
-*Scraped **25,375** Articles*
+*Scraped **25,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,175
-adaderanalk | 2,930
+adaderanalk | 2,931
 tamilmirrorlk | 2,962
 virakesarilk | 3,833
 dailymirrorlk | 3,983
-adaderanasinhalalk | 4,056
+adaderanasinhalalk | 4,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,374 (100.0%) of 25,375 articles have been extended.
+25,375 (100.0%) of 25,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### වාහන ආනයනය ගැන ගත් තීරණය
+
+*2024-05-21 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196853) · `si`
+
+රටේ අවශ්‍යතාවය පරිදි ඉදිරියේදී වාහන ආනයනය කිරීමට සූදානම් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා මාධ්‍ය වෙත අදහස් දක්වමින් පවසා සිටියේ, වාහන ආනයනය තවදුරටත් වසා තබාගෙන සිටීමට රජය සූදානම් නොමැති බවය.
+
+මේ වනවිට මෙරට සංචිත ප්‍රමාණය අමෙරිකානු ඩොලර් බිලයන 5.5ක ප්‍රමාණයක් ඇති බවද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පැවසීය.
+
+...
+
+[Data](articles/82ebe063.json)
+
+---
+
+### Over 15,000 army deserters legally discharged in amnesty period
+
+*2024-05-21 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99353/over-15000-army-deserters-legally-discharged-in-amnesty-period) · `en`
+
+A total of 15,667 personnel of the Sri Lanka Army who had been absent without leave (AWOL), including 373 currently overseas, have been legally discharged from service under the general amnesty, the Sri Lanka Army announced.
+
+The general amnesty period announced for the Sri Lanka Army absentees concluded yesterday (20).
+
+The army had declared an amnesty period from April 20 to May 20, 2024, for personnel who have been absent without leave since December 31, 2023 and earlier.
+
+Accordingly, at the end of the end of the one-month amnesty period, 15,294 regular and volunteer army personnel who were absent without leave have been temporarily discharged from their Regimental Centers.
+
+Additionally, arrangements have been made for 373 personnel who are currently overseas and absent without leave to legally discharge from the army during this amnesty period, the SLA media unit said.
+
+◼️
+
+[Data](articles/8e26a34f.json)
+
+---
 
 ### Flood warnings issued for low-lying areas of several river basins
 
@@ -96,23 +132,31 @@ Meanwhile, 373 soldiers abroad have been led by the Army with 373 people abroad.
 
 ---
 
-### ශ්‍රි ලංකා ඉන්දුනිසියා වරණිය ගිවිසුම ලබන වසරේ මුල් කාර්තුවේදි
+### Sri Lanka Indonesia Peramuniation Agreement in the first quarter of next year
 
 *2024-05-21 10:16:57* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකා-ඉන්දුනිසියා-වරණිය-ගිවිසුම-ලබන-වසරේ-මුල්-කාර්තුවේදි/11-409756) · `si`
 
-ඉන්දූනිසියාවේ බාලි අගනුවර පැවත්වෙන 10 වැනි ලෝක ජල සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දුනිසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ (Joko Widodo) මහතා අතර නිල හමුව සිදු විය.
+In the first quarter of next year, Presidents Ranil Wickremesinghe of Sri Lanka and Joko Widodo of Indonesia will sign a Peramuniation Agreement during the 10th World Water Summit in Bali. They aim to strengthen historical ties, discuss global challenges, and enhance economic cooperation, especially in water management and renewable energy. The leaders also touched upon removing import barriers and the potential for Indonesian pharmaceuticals and palm oil in Sri Lanka's market.
 
-ඉන්දුනීසියානු ජනාධිපතිවරයා විසින් මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව ඉතා මිත්‍රශීලි අයුරින් පිළිගත් අතර රාජ්‍ය නායක දෙපළ අතර සුහද කතා බහකින් පසුව ද්විපාර්ශ්වික සාකච්ඡා ආරම්භ කෙරිණි.
+🟩
 
-ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට මෙහිදී නායකයන් ප්‍රතිඥා දුන් අතර, දෙරට අතර ආර්ථික සහයෝගීතාව වර්ධනය කර ගැනීමට ද විශේෂ අවධානයක් යොමු විය.
+President Ranil Wickremesinghe and Indone Widodo were held in parallel to the 10th World Water Summit held in Bali Palace in Indonesia.
 
-එමෙන්ම කලාපීය සහ ජාත්‍යන්තර කටයුතු පිළිබඳවද නායකයන්ගේ අවධානය යොමු වූ අතර ගෝලීය අභියෝගවලට මුහුණදීමේදී දෙරට අතර සහයෝගීතාවයේ වැදගත්කමද අවධාරණය කෙරිණි.
+President Ranil Wickremesinghe very friendly accepted the Mahashae very well and started bilateral talks after a good talk between the two leaders leader.
 
-1956 දී පැවති බැන්ඩුන්ග් සමුළුවට සහභාගිවීම දක්වා පැවැත්වෙන ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතාව සිහිපත් කරමින් සිය අදහස් දැක්වීම ආරම්භ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෝලීය සහයෝගීතාව වර්ධනය කිරීමේදී එවැනි සමුළුවල පවතින වැදගත්කම ද පැහැදිලි කළේය.
+The leaders paid special attention to further strengthening theirtorical relations between Sri Lanka and Indonesia.
+
+The leaders of the regional and international affairs were also focused on the importance of cooperation between the two countries when faced with global challenges.
+
+President Ranil Wickremesinghe explained the importance of global cooperation while concluding the historical partnership between Sri Lanka and Indonesia in 1956.
+
+The President also thanked the leadership of the Indonesian President Vidodydo in regional and international activities.
 
 ...
 
 [Data](articles/b96d2038.json)
+
+[Extended Data](ext_articles/b96d2038.ext.json)
 
 ---
 
@@ -2147,49 +2191,5 @@ The countries like Iranian Syria and Lebanon have also declared national mournin
 [Data](articles/9f17e40b.json)
 
 [Extended Data](ext_articles/9f17e40b.ext.json)
-
----
-
-### Diana goes missing in court
-
-*2024-05-20 20:55:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නිවසින්-අතුරුදන්-බව-රහස්-පොලීසිය-අධිකරණයට-කියයි/11-409754) · `si`
-
-Diana Gamage, a former minister, went missing after being named a suspect in a case involving the Department of Immigration and Emigration. The Colombo Chief Magistrate ordered the CID to investigate her disappearance. This came after the Supreme Court dismissed a fundamental rights petition by activist Oshala Herath.
-
-🟩
-
-Considering the Dead Minister Diana Gamage, Colombo Chief Magistrate Thilina Gamage ordered the CID to submit her to submitting her to court.
-
-He was named as a suspect in the case of former State Government Minister Diana Gamage as a suspect in the case of the Department of Immigration and Emigration and the Magistrate.
-
-The Supreme Court was abolished by the Supreme Court, who had a fundamental rights petition filed by the Club activist Oshala Herath.
-
-The Criminal Inspector Departments, the Criminal Inspector Departments, said that the Criminal Inspector Departments had disappeared from her resident of her resident of her resident of her resident.
-
-As a suspect, the Magistrate, who was appointed to name the Criminal Investigations Department, a suspect had to be named as a suspect in the event of the investigation into the incident.
-
-◼️
-
-[Data](articles/7a256cd2.json)
-
-[Extended Data](ext_articles/7a256cd2.ext.json)
-
----
-
-### Mourning tomorrow
-
-*2024-05-20 20:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-துக்கதினம்/175-337607) · `ta`
-
-Iranian President Ibrahim Raisi declares tomorrow a day of mourning in Sri Lanka.
-
-🟩
-
-Iranian President Ibrahim Raisi has declared tomorrow as a mourning in Sri Lanka.
-
-◼️
-
-[Data](articles/3028ffb7.json)
-
-[Extended Data](ext_articles/3028ffb7.ext.json)
 
 ---

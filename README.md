@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 19:34:07**
+As of **2024-05-21 19:52:04**
 
 ## Newspaper Stats
 
-*Scraped **25,500** Articles*
+*Scraped **25,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,376
 economynextcom | 1,468
 dailyftlk | 1,503
 adalk | 2,187
-adaderanalk | 2,942
-tamilmirrorlk | 2,977
+adaderanalk | 2,944
+tamilmirrorlk | 2,978
 virakesarilk | 3,856
 dailymirrorlk | 4,007
 adaderanasinhalalk | 4,078
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,078
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,497 (100.0%) of 25,500 articles have been extended.
+25,500 (100.0%) of 25,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### புத்தளம் மாவட்ட பாடசாலைகளை திறக்க நடவடிக்கை
+
+*2024-05-21 19:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்ட-பாடசாலைகளை-திறக்க-நடவடிக்கை/175-337662) · `ta`
+
+கடும் மழையுடன் கூடிய சீரற்ற வானிலை காரணமாக கடந்த இரு தினங்களாக மூடப்பட்டிருந்த புத்தளம் மாவட்ட பாடசாலைகள் நாளை (22) திறக்கப்படவுள்ளன.
+
+எனினும், நிலவுகின்ற வானிலையை கருத்தில் கொண்டு பாடசாலைகளை திறப்பது குறித்து வலய கல்வி பணிப்பாளர்கள் தீர்மானிக்க முடியும் என வடமேல் மாகாண கல்வி பணிப்பாளர் தெரிவித்துள்ளார்.  R
+
+◼️
+
+[Data](articles/746acbf6.json)
+
+---
+
+### Matheesha Pathirana becomes most expensive player in LPL history
+
+*2024-05-21 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99365/matheesha-pathirana-becomes-most-expensive-player-in-lpl-history) · `en`
+
+Young Sri Lankan fast bowler Matheesha Pathirana became the most expensive player ever in a Lanka Premier League (LPL) auction Tuesday when he was grabbed by Colombo Strikers for a record $120,000.
+
+The 21-year-old – who has an unorthodox slinging delivery style – broke the $92,000 mark set by Dilshan Madushanka in last year’s edition of the T20 tournament.
+
+Colombo Strikers bought Pathirana after matching Galle Marvels’ bid with their Right To Match option.
+
+In an interesting turn of events, the Dambulla franchise began the bidding at USD 70,000 after Matheesha Pahitrana entered the bidding at his base price of USD 50,000.
+
+However, Galle Marvels raised the stakes and took it to USD 100,000 straightaway. To avoid retention from Colombo Srikers, Galle even increased their own bid to USD 120,000 but their effort went in vain.
+
+...
+
+[Data](articles/8b72742a.json)
+
+---
 
 ### New laws to use uncultivated lands for agricultural purposes: Minister
 
@@ -48,21 +82,45 @@ He made these remarks during a media briefing under the theme “Collective Path
 
 [Data](articles/a5cb99b2.json)
 
+[Extended Data](ext_articles/a5cb99b2.ext.json)
+
 ---
 
-### පුත්තලම දිස්ත්‍රික්කයේ පාසල් හෙට විවෘත කෙරේ
+### Puttalam District schools to reopen tomorrow
+
+*2024-05-21 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99364/puttalam-district-schools-to-reopen-tomorrow) · `en`
+
+Schools in the Puttalam District are scheduled to reopen tomorrow (22 May) for academic activities, according to the Provincial Director of Education of the North-Western Province.
+
+However, the Zonal Directors of Education have been authorised to decide otherwise depending on the weather conditions, the Provincial Director said.
+
+All schools in the Puttalam District had remained closed yesterday and today (21) owing to adverse weather conditions.
+
+◼️
+
+[Data](articles/a6e2bff0.json)
+
+---
+
+### Schools in Puttalam to be opened tomorrow
 
 *2024-05-21 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196876) · `si`
 
-නිරිතදිග මෝසම සක්‍රීය වීමත් සමඟ ප්‍රදේශ රැසකට තවදුරටත් අධික වැසි ඇදහැලෙමින් පවතී.
+Due to heavy rain from the active southwest monsoon, schools in Puttalam were closed today but will reopen tomorrow. The decision rests with local education authorities.
 
-කෙසේවෙතත් එම දිස්ත්‍රික්කයේ පාසල් අද (21) දිනයේ වාස තැබුණත් හෙට (22) දිනයේ යළිත් සුපුරුදු පරිදි විවෘත කිරීමට නියමිතය.
+🟩
 
-ආපදාවලට ලක්වූ ප්‍රදේශවල පාසල් විවෘත කරන්නේද? නැද්ද? යන්න සම්බන්ධයෙන් කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට තීරණ ගැනීමේ බලය පවරා තිබෙන බවද බලධාරීන් පවසයි.
+As the southwest monsoon is active, heavy rains more than many areas.
+
+However, the schools in the district is to be opened again tomorrow (22).
+
+Are schools open in the affected areas?Not?Authorities says that the directors of the Zonal Education have been entrusted with the authority to decide.
 
 ◼️
 
 [Data](articles/8c45fa03.json)
+
+[Extended Data](ext_articles/8c45fa03.ext.json)
 
 ---
 
@@ -1368,6 +1426,8 @@ Flags at half mast after Sri Lanka declared today as a day of mourning in view o
 
 [Data](articles/cca26ad6.json)
 
+[Extended Data](ext_articles/cca26ad6.ext.json)
+
 ---
 
 ### Adverse weather affects daily chores
@@ -1757,8 +1817,6 @@ The Russian Embassy has also questioned what prevents them from exploring the op
 ### Live Updates: 2024 LPL Player Auction
 
 *2024-05-21 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99355/live-updates-2024-lpl-player-auction) · `en`
-
-(Please note this story is being updated throughout the player action. Refresh the page for the latest details.)
 
 The player auction of the Lanka Premier League 2024 commenced at the Hilton Hotel in Colombo, a short while ago.
 
@@ -2219,73 +2277,5 @@ The Colombo -Puttalam Railway is currently operating four trains from Colombo to
 [Data](articles/03bb1131.json)
 
 [Extended Data](ext_articles/03bb1131.ext.json)
-
----
-
-### Kusal Mendis secures visa to USA after delay
-
-*2024-05-21 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kusal-Mendis-secures-visa-to-USA-after-delay/108-283048) · `en`
-
-May 21 (Daily Mirror) - Sri Lankan cricketer Kusal Mendis, whose visa was delayed for travel to the USA for the T20 World Cup, is finally set to depart after receiving approval for his visa.
-
-Despite the rest of the squad having already left for the USA, Mendis' visa was held up at the US Embassy in Colombo for several days due to incomplete documentation.
-
-The delay was attributed to Mendis' failure to submit several required documents to the embassy.
-
-Earlier, in response to reports that Kusal Mendis' visa was denied, CEO Ashley de Silva said that Mendis' visa was not denied and that he would join the team before the warm-up games.
-
-Sri Lanka is scheduled to play two warm-up matches ahead of the ICC Men’s T20 World Cup 2024, commencing on May 28.
-
-Their first warm-up game against the Netherlands will take place on May 28 at Broward County Stadium in Florida. They will then face Ireland in their second warm-up game on May 31 at the same venue.
-
-◼️
-
-[Data](articles/e2b74700.json)
-
-[Extended Data](ext_articles/e2b74700.ext.json)
-
----
-
-### Diana comes to court
-
-*2024-05-21 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196854) · `si`
-
-Diana Gamage, ex-State Minister, appeared at Colombo Magistrate's Court over a passport issue.
-
-🟩
-
-Former State Government Minister Diana Gamage, who was nominated for the passport incident, arrived at the Colombo Magistrate's Court.
-
-◼️
-
-[Data](articles/15491dc0.json)
-
-[Extended Data](ext_articles/15491dc0.ext.json)
-
----
-
-### Heavy rainfall in Nuwara Eliya district
-
-*2024-05-21 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184111) · `ta`
-
-Heavy rains in Nuwara Eliya disrupt normal life, affecting vegetable production and causing flooding across the region. Traffic police warn of vigilance due to slippery roads. Water levels in reservoirs rise, leading to potential overflow risks. Flooding occurs in Kesalgamu Oya and throughout the Maskeliya area, highlighting the impact of prolonged heavy rainfall.
-
-🟩
-
-Heavy rains have been affected by the normal measures of the people and the production of vegetables.
-
-Heavy rains are continuously raining in the central hill country.
-
-The traffic police have warned that the drivers of the vehicle will be very vigilant.. Due to heavy rains, the same flood is seen everywhere.
-
-The water level of the top Kotmalai water reservoir reaches its capacity. Water level increased in Casalree water stagnation. The water level of the water reservoir is rising slightly as it continues to rain.
-
-Kesalgamu Oya floods due to heavy rains in Bogawantalawa area. All water streams and waterfalls in the Maskeliya area are flooded in rivers. It is worth noting that heavy rainfall is raining after a long hiatus.
-
-◼️
-
-[Data](articles/0d2df3c4.json)
-
-[Extended Data](ext_articles/0d2df3c4.ext.json)
 
 ---

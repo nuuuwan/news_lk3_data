@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 16:18:40**
+As of **2024-05-21 16:33:37**
 
 ## Newspaper Stats
 
-*Scraped **25,455** Articles*
+*Scraped **25,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,182
+adalk | 2,183
 adaderanalk | 2,939
 tamilmirrorlk | 2,973
 virakesarilk | 3,851
 dailymirrorlk | 3,997
-adaderanasinhalalk | 4,071
+adaderanasinhalalk | 4,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,453 (100.0%) of 25,455 articles have been extended.
+25,455 (100.0%) of 25,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### සමිත දුලාන් ගෙන් ලෝක වාර්තාවක්
+
+*2024-05-21 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196869) · `si`
+
+ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී නව ලෝක වාර්තාවක් පිහිටුවීමට ශ්‍රී ලංකාවේ සමිත දුලාන් සමත්විය.
+
+ඒ, F -44 හෙල්ල විසිකිරීමේ ඉසව්වෙන් සමිත සිය පළමු උත්සාහයේදී මීටර් 66.49 ක දක්ෂතාවක් වාර්තා කරමිනි.
+
+◼️
+
+[Data](articles/5dabdb69.json)
+
+---
 
 ### Mourners begin days of funerals for Iran’s president and others killed in helicopter crash
 
@@ -43,6 +57,8 @@ For Iran’s Shiite theocracy, mass demonstrations have been crucial since milli
 ...
 
 [Data](articles/29ab31e6.json)
+
+[Extended Data](ext_articles/29ab31e6.ext.json)
 
 ---
 
@@ -69,6 +85,22 @@ Both sides re -pointed out their commitment to maintaining close cooperation bet
 [Data](articles/0aef1939.json)
 
 [Extended Data](ext_articles/0aef1939.ext.json)
+
+---
+
+### වැන්දඹුවකට දීමනා හා වැටුප්වලින් 50%ක අයිතියක් හා විවාහ වීමට අවසර
+
+*2024-05-21 15:37:29* · [`adalk`](https://www.ada.lk/breaking_news/වැන්දඹුවකට-දීමනා-හා-වැටුප්වලින්-50%ක-අයිතියක්-හා-විවාහ-වීමට-අවසර/11-409768) · `si`
+
+ජනවාර්ගික ගැටුම් සහ යුද්ධයෙන් පසුව ඇති වූ ප්‍රතිවිපාක සම්බන්ධයෙන් සංවාදයක් ගොඩනැගීම සහ ඒ සඳහා අවධානය යොමු කිරීමේ උත්සාහයක් ලෙස, සත්‍ය සහ සංහිඳියා යාන්ත්‍රණය සඳහා වන අන්තර්වාර ලේකම් කාර්යාලය (ISTRM) කොමිෂන් සභාව විසින් පසුගියදා ගාල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පවත්වන ලද රැස්වීම් තුනක් හරහා පාර්ශවකරුවන්ගේ අදහස් විමසීම සිදු කරන ලදී.
+
+එහිදී හිටපු හමුදා නිලධාරීන් සහ රාජ්‍ය නොවන සංවිධාන ඇතුළු ප්‍රජා පාර්ශ්වකරුවන් විසින් සමාජ දුක්ගැනවිලි විසඳීම සඳහා අත්‍යවශ්‍ය වන බිම් මට්ටමේ ක්‍රියාකාරකම් පිළිබඳ ව ප්‍රධාන වශයෙන් කරුණු ඉදිරිපත් කළේය.
+
+ස්ත්‍රී පුරුෂ සමාජභාවයේ සිට සමාජ සුබසාධනය සහ වින්දිතයන් වෙනුවෙන් පෙනී සිටීම දක්වා වූ ප්‍රධාන කරුණු මෙහිදී සාකච්ඡා කෙරිණි. කොමසාරිස්වරුන් තෝරා ගැනීමේදී කාන්තා නියෝජනය අනිවාර්ය කිරීම සඳහා මෙන්ම වැන්දඹු කාන්තාවන් සඳහා දීමනා හා වැටුප්වලින් 50%ක අයිතියක් සහිතව නැවත විවාහ වීම සඳහා සහන සැලසෙන අයුරින් නීති සංශෝධනය කිරීම සඳහාද යෝජනා ඉදිරිපත් විය.
+
+◼️
+
+[Data](articles/5671ab4d.json)
 
 ---
 
@@ -2048,21 +2080,27 @@ In addition, 75 millimeters of rainfall in Madambe area in the Puttalam district
 
 ---
 
-### බොල්ටිමෝර් පාලම කඩා වැටීම: මාස දෙකකට පසු නෞකාව ඉවත් කෙරේ
+### Boltimore bridge collapse: the ship is removed after two months
 
 *2024-05-21 09:21:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckmmnez58rjo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, බොල්ටිමෝර් පාලම කඩා වැටීම: මාස දෙකකට පසු නෞකාව ඉවත් කෙරේ.
+Baltimore bridge collapsed on March 26, killing six workers. The wreckage was cleared using tugboats over two months, allowing ships to navigate safely along its length.
 
-එක්සත් ජනපදයේ බොල්ටිමෝර් හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ හි ගැටීමෙන් මාස දෙකකට ආසන්න කාලයකට පසු ඩාලි භාණ්ඩ ප්‍රවාහන නෞකාව ඉවත් කිරීමට කාර්ය මණ්ඩලය ටග් යාත්‍රා භාවිතා කළහ.
+🟩
 
-මාර්තු 26 වැනිදා නෞකාව අනතුරට පත් වූ අතර පාලම කඩා වැටීමෙන් ඉදිකිරීම් කම්කරුවන් හය දෙනෙකු මිය ගියේය.
+It contains nothing here.Vembered header, the boltium collapse: the ship will be removed two months later.
 
-අඩි 948 (මීටර් 289) දිග නෞකාවට යාත්‍රා කිරීමට ඉඩ සැලසීම සඳහා පසුගිය සතියේ සැලසුම් කළ ක්‍රියාවලියක් තුළින් පාලමේ ඉතිරි කොටස් කඩා ඉවත් කෙරුණි.
+The staff used Tg vessels to remove the Daly Fraud Frait nearly two months after the clash at Francis Scott Croat at the Francis Scott Croat in Boltimore.
+
+On March 26, the ship crashed and six of the construction workers died.
+
+The rest of the bridge was demolished through a planned process to allow 948 feet (289 m) to sail the length of the length.
 
 ◼️
 
 [Data](articles/76bc0b09.json)
+
+[Extended Data](ext_articles/76bc0b09.ext.json)
 
 ---
 
@@ -2311,63 +2349,5 @@ Deputy Director of the Disaster Management Center Pradeep Kodippili said that ei
 [Data](articles/24b6526b.json)
 
 [Extended Data](ext_articles/24b6526b.ext.json)
-
----
-
-### Fatal accidents kills 5 lives
-
-*2024-05-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196844) · `si`
-
-In separate incidents across Sri Lanka, five fatalities occurred: a schoolgirl in Mullaitivu, a toddler in Negombo, a passenger in Embilipitiya, a motorcyclist in Miloadari, and a pedestrian in Thummodara.
-
-🟩
-
-Five persons including a schoolgirl in five areas have come forward in allegedly.
-
-A schoolgirl has died in an accident in Mullaitivu Paranthanka Paranthanka Paranthanka Paranthanu road in Mullaittivu Paranthanka Paranthan area.
-
-The tractor vehicle traveling from Wanda Kirinali to Mullaylite vehicle was seriously injured and a 16-year-old schoolgirl residing in Dharmapuram, Thambapraram, Dharmapuram, Thambirazaram.
-
-The tractor has traveled 14 passengers with the deceased.
-
-Meanwhile, a three-year-old carrier of the three-wheeler, a resident of the Battato, has died of a three-wheeler in the Negombo-Divulapitiya road.
-
-A lorry collided with a three-wheeler in the Halmillakiya area in Embilipitiya - Nonagama.
-
-The driver of the three-wheeler and two travers were injured and injured and injured and admitted to the Embilipitiya hospital.
-
-The deceased has been identified as a 24 year old resident of Dickwella.
-
-...
-
-[Data](articles/97505df6.json)
-
-[Extended Data](ext_articles/97505df6.ext.json)
-
----
-
-### Inmate at Matara Prison inmates Dying
-
-*2024-05-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196843) · `si`
-
-A 24-year-old inmate died at Matara Prison from suspected brain fever, joining others treated at Matara Hospital. This follows previous fatalities from similar causes in December.
-
-🟩
-
-Prison sources said that the detainees were killed last night while receiving treatment at the Matara Hospital.
-
-The deceased has been identified as a 24 year old person, about three months ago.
-
-It is suspected that the intention died due to brain fever and research.
-
-Another inmate at Matara Prison has also been admitted to the Matara Hospital for treatment due to a fever.
-
-In December, there were brain fever cases last December, several deaths were killed.
-
-◼️
-
-[Data](articles/d4f6fc1f.json)
-
-[Extended Data](ext_articles/d4f6fc1f.ext.json)
 
 ---

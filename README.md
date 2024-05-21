@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 20:34:05**
+As of **2024-05-21 20:52:38**
 
 ## Newspaper Stats
 
-*Scraped **25,513** Articles*
+*Scraped **25,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,503
 adalk | 2,187
 adaderanalk | 2,944
 tamilmirrorlk | 2,978
-virakesarilk | 3,863
+virakesarilk | 3,864
 dailymirrorlk | 4,009
 adaderanasinhalalk | 4,079
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,512 (100.0%) of 25,513 articles have been extended.
+25,513 (100.0%) of 25,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### ஆசிய தொடர் ஓட்ட சம்பியன்ஷிப்: ஆண்களுக்கான 4 x 400 மீ. தொடர் ஓட்டத்தில் இலங்கைக்கு தங்கம்
+
+*2024-05-21 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184173) · `ta`
+
+தாய்லாந்தின் பாங்கொங்கில் இன்று செவ்வாய்க்கிழமை (21) நிறைவுக்கு வந்த அங்குரார்ப்பண ஆசிய தொடர் ஓட்ட சம்பியன்ஷிப்பில் ஆண்களுக்கான 4 x 400 மீற்றர் தொடர் ஓட்டப் போட்டியில்  இலங்கை அணியினர் தங்கப் பதக்கம் வென்று அசத்தினர்.
+
+இந்தியா, வியட்நாம், கத்தார், பிலிப்பைன்ஸ், தாய்லாந்து, சைனீஸ் தாய்ப்பே ஆகிய அணிகளை வெற்றிகொண்டே இலங்கை தங்கப் பதக்கத்தை சுவீகரித்தது.
+
+ஆண்களுக்கான 4 x 400 மீற்றர் ஓட்டப் போட்டியை 3 நிமிடங்கள், 04.48 செக்கன்களில் நிறைவு செய்து இலங்கை அணியினர் தங்கப் பதக்கத்தை சுவீகரித்தனர்.
+
+தங்கம் வென்ற இலங்கை தொடர் ஓட்ட அணியில் அருண தர்ஷன, பசிந்து லக்ஷான் கொடிகார, தினூக்க தேஷான், காலிங்க குமாரகே ஆகியோர் இடம்பெற்றனர்.
+
+எவ்வாறாயினும், நேரடி  ஒலிம்பிக்  தகுதிக்கான  அடைவு மட்டத்தை இலங்கை அணி தவறவிட்டமை ஏமாற்றம் அளிக்கிறது.
+
+எனினும் அடுத்துவரும் தொடர் ஓட்டப் போட்டிகளில் இலங்கை அணியினர் வெற்றிபெற்றால் சர்வதேச தரவரிசை புள்ளிகளின் அடிப்படையில் இலங்கை தொடர் அணிக்கு ஒலிம்பிக்கில் பங்குபற்ற வாய்ப்பு கிடைக்கும் என பெரிதும் நம்பப்படுகிறது.
+
+...
+
+[Data](articles/ef31928b.json)
+
+---
 
 ### Corrine Almeida obtains enjoining order against Romaine Willis and DJ Mass on song ’’Eh Yaye’’
 
@@ -49,6 +71,8 @@ The plaintiff had named executive producer of the audiovisual work "Eh Yaye" Mas
 ...
 
 [Data](articles/6ef65351.json)
+
+[Extended Data](ext_articles/6ef65351.ext.json)
 
 ---
 
@@ -2267,19 +2291,5 @@ The order was released by Mrs. Diana Gamage, who is named in court on the case o
 [Data](articles/8f2f3221.json)
 
 [Extended Data](ext_articles/8f2f3221.ext.json)
-
----
-
-### Former state minister Diana Gamage appears before court
-
-*2024-05-21 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99354/former-state-minister-diana-gamage-appears-before-court) · `en`
-
-Former State Minister Diana Gamage has arrived at the Colombo Magistrate’s Court over accusations of obtaining a passport by submitting false information, says Ada Derana reporter.
-
-◼️
-
-[Data](articles/43966717.json)
-
-[Extended Data](ext_articles/43966717.ext.json)
 
 ---

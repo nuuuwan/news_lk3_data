@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 12:06:06**
+As of **2024-05-21 11:53:30**
 
 ## Newspaper Stats
 
-*Scraped **25,393** Articles*
+*Scraped **25,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,176
 adaderanalk | 2,931
-tamilmirrorlk | 2,968
+tamilmirrorlk | 2,966
 virakesarilk | 3,833
 dailymirrorlk | 3,986
 adaderanasinhalalk | 4,058
@@ -26,27 +26,11 @@ adaderanasinhalalk | 4,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,377 (99.9%) of 25,393 articles have been extended.
+25,377 (99.9%) of 25,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
-
-### ரயில் போக்குவரத்து தடை
-
-*2024-05-21 11:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-போக்குவரத்து-தடை/175-337628) · `ta`
-
-நாட்டின் பல பகுதிகளில் தற்போது பெய்து வரும் கன மழை காரணமாக கொழும்பு – புத்தளம் ரயில் மார்க்கத்திலான  பகுதி வெள்ளத்தில் மூழ்கியுள்ளது.
-
-இதன்படி, செவ்வாய்க்கிழமை (21) காலை முதல் கொழும்பில் இருந்து புத்தளம் வரையான மார்க்கத்தில் இயங்கும் ரயில் சேவை மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரியொருவர் தெரிவித்துள்ளார்.
-
-கொழும்பு - புத்தளம் ரயில்வே தற்போது கொழும்பில் இருந்து புத்தளம் வரை ஒரு நாளைக்கு நான்கு ரயில்களையும் புத்தளத்திலிருந்து கொழும்பு வரை நான்கு ரயில்களையும் இயக்குகிறமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/03bb1131.json)
-
----
 
 ### Kusal Mendis secures visa to USA after delay
 
@@ -949,20 +933,6 @@ Strong winds of about 50 kmph can be expected at times over the island.
 [Data](articles/35285b7a.json)
 
 [Extended Data](ext_articles/35285b7a.ext.json)
-
----
-
-### இரங்கல் தெரிவித்தது அமெரிக்கா
-
-*2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/50-337615) · `ta`
-
-"வடமேற்கு ஈரானில் ஹெலிகாப்டர் விபத்துக்குள்ளானதில் ஈரானிய. ஈரானிய அதிபர் இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர்-அப்துல்லாஹியன் மற்றும் அவர்களது தூதுக்குழு உறுப்பினர்களின் மரணத்திற்கு அமெரிக்கா தனது உத்தியோகபூர்வ இரங்கலைத் தெரிவிக்கிறது.
-
-ஈரான் ஒரு புதிய அதிபரை தேர்ந்தெடுக்கும் போது, ஈரானிய மக்களுக்கும், மனித உரிமைகள் மற்றும் அடிப்படை சுதந்திரத்துக்கான அவர்களின் போராட்டத்திற்கும் எங்களது ஆதரவை மீண்டும் உறுதிப்படுத்துகிறோம்" என்று அதில் தெரிவித்துள்ளார்
-
-◼️
-
-[Data](articles/62a0dcf3.json)
 
 ---
 
@@ -2141,5 +2111,39 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/d038edb3.json)
 
 [Extended Data](ext_articles/d038edb3.ext.json)
+
+---
+
+### CIPM Great HR Debate 2024 to be held alongside the National HR Conference
+
+*2024-05-20 22:24:00* · [`islandlk`](http://island.lk/cipm-great-hr-debate-2024-to-be-held-alongside-the-national-hr-conference/) · `en`
+
+CIPM Sri Lanka – the Nation’s leader in human resource management, will conduct the Grand Finale of the Great HR Debate 2024, the flagship corporate debating challenge alongside the proceedings of the National HR Conference to be held on 5th and 6th June at the Monarch Imperial. Texlan Center (Pvt) Ltd, Nestle’ Lanka Limited, IFS R & D International (Pvt) Ltd, A. Baur & Co. (Pvt) Ltd., H Connect International (Pvt) Ltd, McLarens Group, Maliban Biscuit Manufactories (Pvt) Ltd, Aitken Spence PLC, and Jay Jay Mills Lanka (Pvt) Ltd are the companies who have nominated their teams to participate in the debating championship.
+
+...
+
+[Data](articles/a2ae258f.json)
+
+[Extended Data](ext_articles/a2ae258f.ext.json)
+
+---
+
+### CEAT continues to support education of rubber farmers’ children
+
+*2024-05-20 22:22:00* · [`islandlk`](http://island.lk/ceat-continues-to-support-education-of-rubber-farmers-children/) · `en`
+
+Donates shoes and school bags to students of four schools in Ratnapura and Elpitiya
+
+Students of four schools in the Ratnapura and Elpitiya areas have received essential requirements such the shoes and school bags they need from CEAT Kelani Holdings under a community project to support the education of children in rubber cultivating regions.
+
+The latest beneficiaries of the programme were the students of Batathota Vidyalaya – Batathota, Mahawatta Kanda Vidyalaya – Batathota and Lassakanda Vidyalaya – Erathna, all in the Kuruwita area of the Ratnapura District, and of Sri Dammathilaka Maha Vidyalaya – Divithura in the Elpitiya area.
+
+A total of 236 children were presented shoes and school bags at these schools by CEAT Kelani, which manufactures half of Sri Lanka’s pneumatic tyre requirements sourcing 100 per cent of its natural rubber needs from local producers that employ 10,000 cultivator families.
+
+...
+
+[Data](articles/ade5b8db.json)
+
+[Extended Data](ext_articles/ade5b8db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 14:04:19**
+As of **2024-05-21 14:18:41**
 
 ## Newspaper Stats
 
-*Scraped **25,423** Articles*
+*Scraped **25,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,178
+adalk | 2,180
 adaderanalk | 2,936
-tamilmirrorlk | 2,968
+tamilmirrorlk | 2,969
 virakesarilk | 3,847
 dailymirrorlk | 3,989
 adaderanasinhalalk | 4,064
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,420 (100.0%) of 25,423 articles have been extended.
+25,423 (100.0%) of 25,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### ඩයනා ගමගේට ඇප
+
+*2024-05-21 14:06:14* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේට-ඇප/11-409762) · `si`
+
+ආගමික සහ විගාමික පනතේ යටතේ හා පුදගල ලියාපදිංචි පනත යටතේ වරදක් සිදුකර ඇති බවට චෝදනා ලැබ සිටි හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය ඇප මත මුදා හැරිමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණ්‍ය අද නියෝග කළේය.
+
+රුපියල් ලක්ෂ 5 ක මුදල් ඇපයක් ද මිලියන 10 ක ශරීර ඇප දෙකක් නියම කළ මහේස්ත්‍රාත් අධිකරණය නඩුවේ පාර්ශව කාර්යන්ට හා නීතිඥ ප්‍රජාවට අගතියයක් වන ප්‍රකාශ නොකරන ලෙසට තරයේ අවවාද කළේය.
+
+◼️
+
+[Data](articles/6816bb84.json)
+
+---
 
 ### Lanka Premier League (LPL) auction
 
@@ -68,43 +82,73 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### දසුන්ට ඩොලර් 85,000ක්
+### $ 85,000 to the ten
 
 *2024-05-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196861) · `si`
 
-එහිදී මේ දක්වා වෙන්දේසි වූ ක්‍රීඩකයින් අතරින් වැඩිම මිල වූ ඩොලර් 85,000ක මිලක් දසුන් ශානකට හිමිවිය.
+In the LPL tournament, the Candy team bought Viea Shana for $85,000, joining other high-priced players.
 
-කැන්ඩි කණ්ඩායම ඒ අනුව මෙවර LPL තරගාවලියේදී දසුන් ශානකගේ හිමිකාරීත්වය ලබාගත්තේය.
+🟩
+
+There were a large number of $ 85,000 players auctioning players.
+
+The candy team acquired Viea Shana in the LPL tournament this year.
 
 ◼️
 
 [Data](articles/09e9505b.json)
 
+[Extended Data](ext_articles/09e9505b.ext.json)
+
 ---
 
-### ඉරාන ජනපතිගේ අවසන් කටයුතු බ්‍රහස්පතින්දා
+### சர்வதேச தேயிலை தின நிகழ்வு இரத்து
+
+*2024-05-21 13:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தேயிலை-தின-நிகழ்வு-இரத்து/175-337637) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவையடுத்து சர்வதேச தேயிலை தின நிகழ்வை இரத்து செய்யுமாறு இலங்கை தேயிலை சபைக்கு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர ஆலோசனை வழங்கியுள்ளார்.
+
+சர்வதேச தேயிலை தினத்தை முன்னிட்டு இலங்கை தேயிலை சபையினால் கொழும்பு கிங்ஸ்பரி ஹோட்டலில் இந்நிகழ்வு நடத்த திட்டமிடப்பட்டிருந்தது.
+
+அத்துடன், இலங்கை பொருளாதார நெருக்கடியால் ஈரானிடம் பெற்ற கடனை செலுத்த முடியாமல் தவித்த நிலையில், அதற்கு தேயிலையை பெற்றுக்கொடுத்து கடன் தொகையை தள்ளுபடி செய்வதற்கு ஈரான் அரசாங்கம் நடவடிக்கை எடுத்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f8c73d7d.json)
+
+---
+
+### Funeral of Iranian President on Thursday
 
 *2024-05-21 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196860) · `si`
 
-හෙලිකොප්ටර් අනතුරින් මියගිය ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි මහතාගේ දේහය පිළිබඳ අවමංගල උත්සවය අදින් ආරම්භ වේ.
+Dr. Ibrahim Risen, Iranian President, dies in a helicopter crash near the Azerbaijani border. His funeral, marked by national mourning, includes a procession to Tehran and international condolences.
 
-ඉරාන - අසර්බයිජාන දේශ සීමාවේ වාරි ව්‍යාපෘතියක් විවෘත කිරීම සඳහා ගොස් ආපසු පැමිණෙමින් සිටියදී ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි රැගත් හෙලිකොප්ටර් යානාව නැගෙනහිර අසර්බයිජාන ප්‍රාන්ත කඳුකර කලාපයේදී අනතුරකට ලක්වුණි.
+🟩
 
-ජනාධිපතිවරයා ඇතුළුව එහි ගමන්ගත් පිරිස ජීවිතක්ෂයට පත්ව ඇති බව තහවුරු කරගැනුනේ ඊයේ (20) දිනයේදීය.
+The funeral of Mr. Dr. Ibrahim Risen, who died in the helicopter crash, commences today.
 
-මෘත දේහ හඳුනා ගැනුණද එම දේහයන් ආපසු රැගෙන ඒම එතරම් පහසු වූයේ නැත.
+The helicopter carrying Irbrahim as the President of Iranian-Azerbai's border was returned to the Easry Azerbaijan states.
 
-දැවීගිය සුන්බුන් අතරින් හමුවූ ඉරාන නායකයාගේ අත පැළඳ සිටි බව කියන මුදුව දැක්වෙන වීඩියෝවක් සමාජ මාධ්‍ය තුළ සංසරණය වූ අතර එය කාගෙත් හදවත කම්පා කළ සිදුවීමක් වුණි.
+The President, including the President, confirmed that the victims were killed.
 
-ඉරාන ජනාධිපතිවරයාගේ අභාවය නිමිත්තෙන් ඉරානයට දින 05ක ශෝක කාලයක් ප්‍රකාශයට පත් කෙරුණු අතර ආචාර්ය ඊබ්‍රාහිම් රයිසි ජනාධිපතිවරයාගේ අවමංගල උත්සවයේ නිල කටයුතු අද පෙරවරුවේ ආරම්භ වූයේ ටැබ්‍රිස් නගරයේදී ය.
+The bodies were identified, but it was not easy to carry them back.
 
-ජනාධිපතිවරයා ඇතුළු පිරිසගේ අවමංගල උත්සවය දින 3ක් පුරා සැලසුම් කර තිබෙනවා.
+In the social media circulated the video shown that the Iranian leader who met from the labor leader who was found found out of the latter debris, was a shock of his heart.
 
-ඒ අනුව දේහයන් ටෙහෙරාන් අගනුවරට ගෙනඒමට සැලසුම් කර ඇත්තේ අද රාත්‍රී කාලයේදී ය.
+In view of the demise of the President of Iran, Iran was declared a period of five days and Dr. Ibrahim Reli Deputy Funeral of the President's funeral ceremony.
+
+The President and his funeral will be planned for 3 days.
+
+It is during the night to bring the body to Tehran's capital.
+
+Subsequently, the funerals carrying out the remains of the Risk and the demands of the depiction of the President and the bodies of the debit.
 
 ...
 
 [Data](articles/97f53cef.json)
+
+[Extended Data](ext_articles/97f53cef.ext.json)
 
 ---
 
@@ -254,6 +298,8 @@ The Supreme Court, in a landmark judgment on May 8, held that then State Ministe
 
 [Data](articles/fd480738.json)
 
+[Extended Data](ext_articles/fd480738.ext.json)
+
 ---
 
 ### A tree collapses near Colombo main schools
@@ -401,6 +447,28 @@ Therefore, the public should be careful with the announcements issued regarding 
 [Data](articles/b833cdaa.json)
 
 [Extended Data](ext_articles/b833cdaa.ext.json)
+
+---
+
+### මොනරාගල බන්ධනාගාරයේ සියලු සේවාවන් අඩාල වේ
+
+*2024-05-21 11:52:28* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-බන්ධනාගාරයේ-සියලු-සේවාවන්-අඩාල-වේ/11-409760) · `si`
+
+වැටුප් වැඩිකරන ලෙස ඉල්ලමින් මොනරාගල බන්ධනාගාරයේ නිලධාරීන් ඉකුත් (21) වෙනිදා අසනීප නිවාඩු දමා සේවයට වාර්තා නොකිරීම නිසා බන්ධනාගාරයේ එදිනෙදා සේවාවන් සම්පූර්ණයෙන්ම අඩාලවී තිබිණි.
+
+සිරකරුවන් සහ සැකකරුවන් සම්බන්ධයෙන් අධිකරණයේ විභාග වන නඩු වලට ඔවුන් කැඳවාගෙන යාම සම්පූර්ණයෙන්ම අඩාලවී තිබිණි.
+
+සැකකරුවන් අධිකරණයට රැගෙනයාමට බන්ධනාගාර බස්රථ රියදුරන් කිසිම බස්රථයකට ප්‍රධාන දොරටුවෙන් ඇතුළුවීමට වර්ජනයට සහභාගී වූ නිලධාරීන් ඉඩදුන්නේ නැත.
+
+ඉකුත් (20) වෙනිදා පොලීසිය මඟින් අධිකරණ වලට ඉදිරිපත්කරන රක්ෂිත බන්ධනාගාරගත කෙරෙන සැකකරුවන් බන්ධනාගාරයට රැගෙන ඒමද මෙම තත්වය මත අඩාලවී තිබිණි.
+
+බන්ධනාගාර සහකාර අධිකාරීවරයා සහ ප්‍රධාන ජේලර්වරයා සේවයට වාර්තාකර තිබුණු අතර බන්ධනාගාරයේ පොදු දුරකථන සියල්ල අක්‍රීයවී තිබිණි.
+
+පොලීසිය මැදිහත්වී සිරකරුවන් සහ සැකකරුවන් අධිකරණයට රැගෙනයාමට උත්සාහ කළත් එයද ව්‍යර්ථ විය.
+
+◼️
+
+[Data](articles/55b51cc3.json)
 
 ---
 
@@ -2249,57 +2317,5 @@ The World Water Summit, which has been held every three years since 1997, gives 
 [Data](articles/949ebf30.json)
 
 [Extended Data](ext_articles/949ebf30.ext.json)
-
----
-
-### Growing disconnect of political elite and the President’s shrinking political options
-
-*2024-05-21 02:44:37* · [`dailyftlk`](https://www.ft.lk/columns/Growing-disconnect-of-political-elite-and-the-President-s-shrinking-political-options/4-762049) · `en`
-
-The present moment in Sri Lankan politics is one where the campaign strategies of the major political parties appear to be shifting to a new phase. As the possibility of elections gets higher, encounters among different political factions are entering a more intensified phase of confrontation. With the gears shifting, there appears to be little political movement and considerable ambiguity, which translates into voter confusion.
-
-However, a deeper scrutiny of recent political events are indicative of three main tectonic shifts in the political landscape: excessive exercise of power by the establishment elite, the President’s increasingly shrinking political options with the Rajapaksas signalling possible departure, and the National People’s Power’s (NPP) mobilising a series of trade union strikes.
-
-...
-
-[Data](articles/0e3d9320.json)
-
-[Extended Data](ext_articles/0e3d9320.ext.json)
-
----
-
-### SL proposes 10% levy on annual profits of global tax evasion assets
-
-*2024-05-21 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-proposes-10-levy-on-annual-profits-of-global-tax-evasion-assets/108-283011) · `en`
-
-In an effort to support blended finance projects focused on climate change adaptation and mitigation, Sri Lanka proposed a 10 percent levy on the annual profits of global tax evasion assets deposited in tax havens.
-
-The annual profits are estimated at US $ 1.4 trillion per annum.
-
-The proposal was made by President Ranil Wickremesinghe at the 10th World Water Forum, held in Bali, Indonesia, yesterday.
-
-He noted that the levy can be enforced by imposing sanctions, similar to those imposed on the Russian banks and financial institutes, which fail to implement the levy. The monies raised by these levies are to be made available to be utilised by the blended finance projects on climate change adaptation and mitigation.
-
-The Global Blended Finance initiative is a supplement to the loss and damage funds – not an alternative. Wickremesinghe stressed these two measures must work in tandem.
-
-...
-
-[Data](articles/8cf6f94b.json)
-
-[Extended Data](ext_articles/8cf6f94b.ext.json)
-
----
-
-### Musings over museum in the east
-
-*2024-05-21 02:38:17* · [`dailyftlk`](https://www.ft.lk/columns/Musings-over-museum-in-the-east/4-762048) · `en`
-
-One is at a loss to understand why there is no smart, pragmatic and prudent thinking among our politicians. In a media release issued by the Presidential Media Division, the President is quoted as saying that he is allocating Rs. 25 million to construct a museum in Kalmunai in honour of the Late M.H.M. Ashraf, the founder leader of the Sri Lanka Muslim Congress and former Cabinet Minister. The media release states that “the memorial museum is to be built … at the request of Digamadulla District Member of Parliament...”
-
-...
-
-[Data](articles/17081567.json)
-
-[Extended Data](ext_articles/17081567.ext.json)
 
 ---

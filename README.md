@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 11:03:48**
+As of **2024-05-21 11:18:27**
 
 ## Newspaper Stats
 
-*Scraped **25,374** Articles*
+*Scraped **25,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
-adalk | 2,174
+adalk | 2,175
 adaderanalk | 2,930
 tamilmirrorlk | 2,962
 virakesarilk | 3,833
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,373 (100.0%) of 25,374 articles have been extended.
+25,374 (100.0%) of 25,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Meanwhile a considerable rainfall has occurred in most of the catchment areas of
 ...
 
 [Data](articles/119e053b.json)
+
+[Extended Data](ext_articles/119e053b.ext.json)
 
 ---
 
@@ -91,6 +93,26 @@ Meanwhile, 373 soldiers abroad have been led by the Army with 373 people abroad.
 [Data](articles/98b29d41.json)
 
 [Extended Data](ext_articles/98b29d41.ext.json)
+
+---
+
+### ශ්‍රි ලංකා ඉන්දුනිසියා වරණිය ගිවිසුම ලබන වසරේ මුල් කාර්තුවේදි
+
+*2024-05-21 10:16:57* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකා-ඉන්දුනිසියා-වරණිය-ගිවිසුම-ලබන-වසරේ-මුල්-කාර්තුවේදි/11-409756) · `si`
+
+ඉන්දූනිසියාවේ බාලි අගනුවර පැවත්වෙන 10 වැනි ලෝක ජල සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දුනිසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ (Joko Widodo) මහතා අතර නිල හමුව සිදු විය.
+
+ඉන්දුනීසියානු ජනාධිපතිවරයා විසින් මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව ඉතා මිත්‍රශීලි අයුරින් පිළිගත් අතර රාජ්‍ය නායක දෙපළ අතර සුහද කතා බහකින් පසුව ද්විපාර්ශ්වික සාකච්ඡා ආරම්භ කෙරිණි.
+
+ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට මෙහිදී නායකයන් ප්‍රතිඥා දුන් අතර, දෙරට අතර ආර්ථික සහයෝගීතාව වර්ධනය කර ගැනීමට ද විශේෂ අවධානයක් යොමු විය.
+
+එමෙන්ම කලාපීය සහ ජාත්‍යන්තර කටයුතු පිළිබඳවද නායකයන්ගේ අවධානය යොමු වූ අතර ගෝලීය අභියෝගවලට මුහුණදීමේදී දෙරට අතර සහයෝගීතාවයේ වැදගත්කමද අවධාරණය කෙරිණි.
+
+1956 දී පැවති බැන්ඩුන්ග් සමුළුවට සහභාගිවීම දක්වා පැවැත්වෙන ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතාව සිහිපත් කරමින් සිය අදහස් දැක්වීම ආරම්භ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෝලීය සහයෝගීතාව වර්ධනය කිරීමේදී එවැනි සමුළුවල පවතින වැදගත්කම ද පැහැදිලි කළේය.
+
+...
+
+[Data](articles/b96d2038.json)
 
 ---
 
@@ -1376,11 +1398,11 @@ Speaking at the Development Lottery Board’s sales comparison program at the An
 
 *2024-05-21 01:50:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-first-leadership-and-innovation-program-for-creative-debuts/34-762032) · `en`
 
+USAID/Sri Lanka and Maldives Office of Governance and Vulnerable Populations Jean MacKenzie
+
 Good Life X (GLX) on Wednesday announced the launch of ‘The Creative Catalyst Fellowship’ (CCF) at Trace Expert City.
 
 The program, funded by the US Government’s development arm - the United States Agency for International Development (USAID), seeks innovative solutions to social issues, harnessing the power of creatives to raise awareness, mobilise resources, and advocate for positive change.
-
-USAID Sri Lanka and Maldives Director,Office of Governance and Vulnerable Populations Asta Zinbo delivered opening remarks highlighting, “Sri Lanka, the region, and the world are facing complex problems such as how to protect our climate and environment. We need new solutions. We are so excited to support this first group of ten fellows from different backgrounds to channel their creative energy to develop constructive solutions and raise public awareness to inspire positive change.  We are eager to see the results of the Creative Catalyst Fellowship next year.”
 
 ...
 
@@ -2169,37 +2191,5 @@ Iranian President Ibrahim Raisi has declared tomorrow as a mourning in Sri Lanka
 [Data](articles/3028ffb7.json)
 
 [Extended Data](ext_articles/3028ffb7.ext.json)
-
----
-
-### Basil tells President to first general election
-
-*2024-05-20 20:47:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රථමයෙන්ම-මහ-මැතිවරණය-ඕන---බැසිල්-ජනපතිට-කියයි/11-409753) · `si`
-
-Basil Rajapaksa, founder of Sri Lanka Civil Aramaya, urges holding parliamentary elections soon. He declines Presidential appointment but supports several candidates. Economic recovery is key for the next president.
-
-🟩
-
-Basil Rajapaksa, the founder of the Sri Lanka Civil Aramaya, has told the President as a party that the parliamentary election should be held.
-
-He also said that he decided not to express the Presidential Court of Sri Lanka Civil Appointment.
-
-The General Secretary added that several suitable candidates have been selected by the party, but the% economic war is to be presented to the presidential election by winning the% economic war.
-
-Mr. Kariyawasam was speaking at a press conference held at Nelum Mawatha, Battaramulla yesterday (20), accordingly, a conversation chart at the same time.
-
-Do the next presidential candidate be strengthened to strengthen the economy?
-
-Saradevasam - The main problem in this country is the economy. We are the leader who can strengthen this economy.
-
-Media - Basil Rajapaksa is the best one to strengthen the economy?There are seven brains?
-
-Mr. Saradevasam - We have some candidates. Now, if I don't want to be the candidate I want to be the candidate?
-
-...
-
-[Data](articles/1b814867.json)
-
-[Extended Data](ext_articles/1b814867.ext.json)
 
 ---

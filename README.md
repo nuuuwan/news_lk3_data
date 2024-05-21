@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 07:18:46**
+As of **2024-05-21 07:44:21**
 
 ## Newspaper Stats
 
-*Scraped **25,338** Articles*
+*Scraped **25,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,98 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
-adalk | 2,169
+adalk | 2,170
 adaderanalk | 2,925
-tamilmirrorlk | 2,957
+tamilmirrorlk | 2,958
 virakesarilk | 3,830
-dailymirrorlk | 3,978
-adaderanasinhalalk | 4,045
+dailymirrorlk | 3,979
+adaderanasinhalalk | 4,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,330 (100.0%) of 25,338 articles have been extended.
+25,338 (100.0%) of 25,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### කළුතර බිල්ලේ සම්පූර්ණ විස්තරේ
+### අද ජාතික ශෝක දිනයක්
+
+*2024-05-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196842) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ අභාවය හේතුවෙන් අද (21) දිනය ජාතික ශෝක දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+
+රජයේ සෑම ආයතනයකට ජාතික කොඩිය අඩකුඹු කර තබන ලෙස උපදෙස්  දී ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යංශ ලේකම් ප්‍රදීප් යසරත්න මහතා සඳහන් කළේය.
+
+ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි වයඹ දිග ඉරානයේ කඳුකර ප්‍රදේශයක පසුගිය ඉරිදා සිදුවූ  හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වුණි.
+
+හෙලිකොප්ටර් යානයේ ගමන් ගත් ඉරාන විදේශ අමාත්‍යවරයා ඇතුළු පුද්ගලයින් 09 දෙනාම අනතුරින් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඉරාන ජනාධිපතිවරයාගේ අභාවය නිමිත්තෙන් දින 05ක ශෝක කාලයක් ප්‍රකාශයට පත් කිරීමට උත්තරීතර නායක අයතුල්ලා අල් කමේනි පියවර ගෙන තිබේ.
+
+ඉරාන ජනාධිපතිවරයාගේ අභාවය වෙනුවෙන් ලෝක නායකයින් රැසක් ශෝකය පළකර ඇති අතර රටවල් රැසක ශෝක දින ද ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/863c7813.json)
+
+---
+
+### Rain above 100mm today too
+
+*2024-05-21 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-above-100mm-today-too/108-283019) · `en`
+
+Colombo, May 21 (Daily Mirror) - Heavy showers of above 100mm are likely in the Western, Sabaragamuwa and North-Western Provinces and in the  Galle, Matara, Kandy and Nuwara-Eliya districts, the Forecasting Division of the National Meteorological Centre said.
+
+They said the South-West monsoon conditions are gradually establishing over the island, and the prevailing showery and windy conditions will continue.
+
+Meanwhile, thundershowers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces, as well as in the Galle and Matara districts.
+
+Several spells of showers will also occur in the Northern and North-Central Provinces.
+
+Strong winds of about 50 kmph can be expected at times over the island.
+
+◼️
+
+[Data](articles/c860733c.json)
+
+---
+
+### Kalutara Badilla is full
 
 *2024-05-21 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196841) · `si`
+
+"Kalutara Badilla is fully booked."
+
+🟩
 
 ◼️
 
 [Data](articles/35285b7a.json)
 
+[Extended Data](ext_articles/35285b7a.ext.json)
+
 ---
 
-### இரங்கல் தெரிவித்தது அமெரிக்கா
+### The United States expressed his condolence
 
 *2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/175-337615) · `ta`
 
-இந்நிலையில் அமெரிக்க வெளியுறவுத்துறை செய்தித் தொடர்பாளர் மேத்யூ மில்லர் வெளியிட்ட அறிக்கையில், "வடமேற்கு ஈரானில் ஹெலிகாப்டர் விபத்துக்குள்ளானதில் ஈரானிய. ஈரானிய அதிபர் இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர்-அப்துல்லாஹியன் மற்றும் அவர்களது தூதுக்குழு உறுப்பினர்களின் மரணத்திற்கு அமெரிக்கா
+The U.S. expresses its condolences over the crash of an Iranian helicopter in northwestern Iran, which resulted in the deaths of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian, and other delegation members. The U.S. reaffirms its support for the Iranian people's fight for human rights and freedom upon Iran's selection of a new leader.
 
-தனது உத்தியோகபூர்வ இரங்கலைத் தெரிவிக்கிறது. ஈரான் ஒரு புதிய அதிபரை தேர்ந்தெடுக்கும் போது, ஈரானிய மக்களுக்கும், மனித உரிமைகள் மற்றும் அடிப்படை  சுதந்திரத்துக்கான அவர்களின் போராட்டத்திற்கும் எங்களது ஆதரவை மீண்டும் உறுதிப்படுத்துகிறோம்" என்று அதில் தெரிவித்துள்ளார்
+🟩
+
+In a statement issued by US Foreign Ministry spokesman Matthew Miller, “Iranian helicopter crashes in northwestern Iran. The United States to death of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian and their delegation members
+
+Expresses his official condolences. When Iran selects a new Chancellor, we reiterate our support for the Iranian people and their struggle for human rights and basic freedom. ”
 
 ◼️
 
 [Data](articles/9e36e687.json)
+
+[Extended Data](ext_articles/9e36e687.ext.json)
 
 ---
 
@@ -75,6 +129,8 @@ Defence officials said that once the information is obtained from India, Sri Lan
 ...
 
 [Data](articles/36077681.json)
+
+[Extended Data](ext_articles/36077681.ext.json)
 
 ---
 
@@ -146,6 +202,8 @@ From 2012 to August 2023, Rs.14.53 billion was credited to the Consolidated Fund
 
 [Data](articles/fa0cd8a7.json)
 
+[Extended Data](ext_articles/fa0cd8a7.ext.json)
+
 ---
 
 ### Starlink: Govt. initiates drafting new telecommunication regulations
@@ -163,6 +221,8 @@ State Minister of Technology Kanaka Herath told Daily Mirror that an application
 ◼️
 
 [Data](articles/e653a1dd.json)
+
+[Extended Data](ext_articles/e653a1dd.ext.json)
 
 ---
 
@@ -522,6 +582,8 @@ The Global Blended Finance initiative is a supplement to the loss and damage fun
 
 [Data](articles/8cf6f94b.json)
 
+[Extended Data](ext_articles/8cf6f94b.ext.json)
+
 ---
 
 ### Musings over museum in the east
@@ -832,6 +894,26 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 
 [Data](articles/fabbfd92.json)
 
+[Extended Data](ext_articles/fabbfd92.ext.json)
+
+---
+
+### இப்ரஹிம் ரைசியின் ஜனாஸா இன்று அடக்கம்
+
+*2024-05-21 01:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இப்ரஹிம்-ரைசியின்-ஜனாஸா-இன்று-அடக்கம்/50-337611) · `ta`
+
+ஹெலிகொப்டர் விபத்தில் உயிரிழந்த ஈரான் ஜனாதிபதி,  இப்ரஹிம் ரைசியின் ஜனாஸா அவரது சொந்த இடமான மஷாட்டில் இன்று அடக்கம் செய்யப்படவுள்ளது.
+
+நேற்று முன்தினம் இரவு இடம்பெற்ற ஹெலிகொப்டர் விபத்தில் 63 வயதான ஈரான் ஜனாதிபதி, வெளி விவகார அமைச்சர் உள்ளிட்ட 9 பேர் உயிரிழந்தனர்.
+
+ஜனாதிபதி, வெளிவிவகார அமைச்சரின் மறைவு தொடர்பாக கவலை வெளியிட்டுள்ள ஈரானின் ஆன்மீகத் தலைவர் அயதுல்லாஹ் அல் கமேனி, 5 நாள்களை துக்ககாலமாக பிரகடனம் செய்துள்ளார்.
+
+ஈரான் மக்களுக்கு தமது கவலையை தெரிவிப்பதாக ஈரான் ஆன்மீகத் தலைவர் அறிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/abf3ad9e.json)
+
 ---
 
 ### The weather will continue with the rainfall
@@ -895,6 +977,8 @@ The delegation is in Sri Lanka on the instructions of the Prime Minister of Thai
 ◼️
 
 [Data](articles/5669c15b.json)
+
+[Extended Data](ext_articles/5669c15b.ext.json)
 
 ---
 
@@ -1367,6 +1451,26 @@ Iranian President Ibrahim Raisi has declared tomorrow as a mourning in Sri Lanka
 [Data](articles/3028ffb7.json)
 
 [Extended Data](ext_articles/3028ffb7.ext.json)
+
+---
+
+### ප්‍රථමයෙන්ම මහ මැතිවරණය ඕන - බැසිල් ජනපතිට කියයි
+
+*2024-05-20 20:47:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රථමයෙන්ම-මහ-මැතිවරණය-ඕන---බැසිල්-ජනපතිට-කියයි/11-409753) · `si`
+
+පාර්ලිමේන්තු මැතිවරණය ප්‍රථමයෙන් පැවැත්විය යුතු බවට ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා විසින් පක්ෂයක් ලෙස ජනාධිපතිවරයාට ප්‍රකාශ කර ඇති බවත් කෙසේවුවත් අවසන් තීරණය ජනාධිපතිවරයා විසින් ගනු ඇති බවත් එම පක්ෂයේ ප්‍රධාන ලේකම්, පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා ප්‍රකාශ කළේය.
+
+මීට අමතරව ශ්‍රී ලංකා පොදුජන පෙරමුණින් ඉදිරිපත් කිරීමට නියමිත ජනාධිපති අපෙක්ෂකයා පිළිබඳ මත ප්‍රකාශ නොකිරීමට පක්ෂයේ දේශපාලන මණ්ඩල රුස්වීමේදී තීන්දු කළ බවත් ඔහු සඳහන් කළේය.
+
+ප්‍රධාන ලේකම්වරයා වැඩිදුරටත් ප්‍රකාශ කර සිටියේ එලෙස ඉදිරිපත් කිරීමට සුදුසු අපේක්ෂයන් කිහිප දෙනෙකු පක්ෂය විසින් තෝරාගෙන ඇති නමුත් %ආර්ථික යුද්ධය දිනීම^ සඳහා යෝග්‍යතම අපේක්ෂයා තම පක්ෂය විසින් ජනාධිපතිවරණයට ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (20දා) පැවති මාධ්‍ය හමුවේදී කාරියවසම් මහතා මේ බව සඳහන් කළ අතර ඒ අනුව එහිදී ඇතිවූ සංවාද සටහනක් පහතින් වේ.
+
+මාධ්‍ය - ආර්ථිකය ශක්තිමත් කරන්නද මීළග ජනාධිපති අපේක්ෂකයා ගේන්නේ ?
+
+...
+
+[Data](articles/1b814867.json)
 
 ---
 
@@ -2067,91 +2171,5 @@ IP in India. The four teams have been arrested shortly before the three teams ar
 [Data](articles/c002b265.json)
 
 [Extended Data](ext_articles/c002b265.ext.json)
-
----
-
-### Rahul Gandhi who examined the polling booth
-
-*2024-05-20 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184065) · `ta`
-
-In the fifth phase of India's Lok Sabha elections, Rahul Gandhi, a Congress party candidate, inspected a polling booth in the Rabareli constituency. He is also contesting in the Wayanad constituency in Kerala. Despite not campaigning in Amethi and Rabareli, Rahul and his sister Priyanka Gandhi have been active, contrasting with PM Narendra Modi's absence from these campaigns in 2019.
-
-🟩
-
-The fifth phase of the Indian Lok Sabha elections is being held today.In this backdrop, Rahul Gandhi, a candidate for the Congress party, examined the polling booth for the Lok Sabha elections held in the Rabareli constituency.
-
-Rahul Gandhi, one of the senior leaders of the Congress party and a former leader of the Congress party and a member of the Lok Sabha, is contesting in the Wayanad constituency in Kerala. Following this, he is also contesting the Rabareli Lok Sabha constituency in Uttar Pradesh.
-
-The election for Wayanad constituency was held on April 26. Elections for the Rabareli constituency are being held today. Rahul Gandhi visited New Delhi to Lucknow airport to visit this.
-
-He then traveled to the road and went to the Rabareli constituency and inspected the polling station set up at Mahatma Gandhi College.. At the time, the voters took the selfie with Rahul Gandhi. Following this, Rahul Gandhi inspected the polling center.
-
-...
-
-[Data](articles/b444f96b.json)
-
-[Extended Data](ext_articles/b444f96b.ext.json)
-
----
-
-### Sri Lanka helps launch Global Blended Finance Alliance
-
-*2024-05-20 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-helps-launch-global-blended-finance-alliance-163782/) · `en`
-
-ECONOMYNEXT – Sri Lanka has joined a group of nations led by Indonesia which aims to mobilise capital to achieve carbon neutrality, Minister of Water Supply and Estate Infrastructure Jeevan Thondaman said.
-
-The Global Blended Finance Alliance mooted by Indonesia in 2018, was formally launched at the World Water Forum in Bali today.
-
-Among the other founding members are Fiji, France, UAE, Kenya, Luxembourg and Canada.
-
-“Through our collective efforts, the Global Blended Finance Alliance aims to mobilise both public and private capital to help nations achieve carbon neutrality and the SDGs,” Thondaman said on social media platform X (twitter).
-
-“The world has a USD 2.5 trillion funding gap to achieve the Sustainable Development Goals (SDGs) by 2030,” he said.
-
-Blended finance is the strategic use of development finance, such as public and/or philanthropic funds, for the mobilisation of additional commercial finance towards sustainable development in developing countries. (Colombo/May20/2024)
-
-◼️
-
-[Data](articles/8c3ef03b.json)
-
-[Extended Data](ext_articles/8c3ef03b.ext.json)
-
----
-
-### Actor Junior NTR starring single track release of 'Devara -Pard 1'
-
-*2024-05-20 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184061) · `ta`
-
-"Junior NTR stars in 'Devara - Part 1', featuring the lead single 'Fear Song'. Directed by Koratala Siva, it also stars Jhanvi Kapoor, Saeb Ali Khan, Prakash Raj, Srikanth, and Shine Tom Sacco. Composed by Anirudh, the film is set for worldwide release on October 10."
-
-🟩
-
-The first song 'Fear Song ..', which is featured in 'Devara - Part 1', has been released as the leading role of Junior NTR story in Tamil fans with Telugu star actor and 'RRR'.
-
-Junior NTR, Bollywood actress Jhanvi Kapoor, Bollywood actor Saeb Ali Khan, Prakash Raj, Srikanth and Shine Tom Sacco have starred in 'Thevara-Part 1' directed by director Koratala Siva.
-
-Anirudh has composed the film, which has been recorded by Ratnavelu. The film is being produced by Sudhakar Mikilineni and Kosaraju Harikrishna on behalf of Nandamuri Taraka Rama Rao Arts and Yuvasuda Arts.. Nandamuri Kalyanram presents the film.
-
-The first song 'Fier Song ..' has been released in his upcoming film 'Devara-Part 1', which will be gifted to his fans on the birthday of Junior NTR.. The song is sung by songwriter Vishnu Edavan, background singer and composer Anirudh.The song, which is being formed with the rhythmic rhythm of the top music, has been well received by the Internet.
-
-...
-
-[Data](articles/289a3c41.json)
-
-[Extended Data](ext_articles/289a3c41.ext.json)
-
----
-
-### The Beautiful Terrible Signs: The Ongoing Saga Of Rheumatic Heart Disease
-
-*2024-05-20 17:24:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-beautiful-terrible-signs-the-ongoing-saga-of-rheumatic-heart-disease/) · `en`
-
-Every physician likely recalls an unforgettable moment from his or her clinical rotation as a medical student that profoundly impacted him or her, leaving an indelible mark. For me it was the encounter with a patient suffering from Rheumatic Mitral Stenosis in India. In fact, it was the presence of my larger-than-life clinical professor that made the moment even more memorable. His mesmerizing descriptions of the clinical signs, such as “opening snap,” “rumbling mid-diastolic murmur,” and “presystolic accentuation,” along with precise timing between the second heart sound and the opening snap, had elevated the experience to another level. However, amidst my fascination, I must confess, I had failed to recognize the true gravity of these signs—their reflection of extreme suffering on the part of the patient. It never even once occurred to me then that these captivating signs were, in fact, manifestations of medical failure, the root cause behind them.
-
-...
-
-[Data](articles/13882107.json)
-
-[Extended Data](ext_articles/13882107.ext.json)
 
 ---

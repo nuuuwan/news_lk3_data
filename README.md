@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 22:05:52**
+As of **2024-05-21 22:18:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,525 (100.0%) of 25,527 articles have been extended.
+25,527 (100.0%) of 25,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Police said the four men “had been in touch with a man named Abu in Pakistan t
 
 [Data](articles/656ec60e.json)
 
+[Extended Data](ext_articles/656ec60e.ext.json)
+
 ---
 
-### තියුණු ආයුධවලින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි
+### A person is hit with sharp weapons
 
 *2024-05-21 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196882) · `si`
 
-මොරොන්තුඩුව, පොල්හේන ප්‍රදේශයේදී තියුණු ආයුධවලින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර ඇති බව මොරොන්තුඩුව පොලීසිය පවසයි.
+In Herontuduwa, Morontuduwa, a man from Bandaragama was fatally wounded by sharp objects during a conflict with his brother-in-law. The incident occurred at his sister's house, where he had gone with others. The suspect, also injured, is under hospital care.
 
-මෙසේ ඝාතනයට ලක්වී ඇත්තේ බණ්ඩාරගම ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකු බවද පොලීසිය සඳහන් කරයි.
+🟩
 
-මියගොස් ඇති පුද්ගලයා සිය මස්සිනා සමග ඇතිවූ කතාබහක් දුරදිග ගොස් දෙදෙනා අතර ගැටුමක් හටගෙන තිබේ.
+Herontuduwa Police say that a person has been killed by sharp arms in the herontuduwa, Morontuduwa.
 
-සිද්ධියෙන් සැකකරු ද තුවාල ලබා රෝහල්ගත කර ඇති බව පොලීසිය පවසයි.
+The victim was a resident of Bandaragama, police said.
 
-මරණයට පත්වූ පුද්ගලයා තවත් පුද්ගලයින් කිහිප දෙනෙකු සමග පොල්හේන ප්‍රදේශයේ පිහිටි ඔහුගේ නැගණියගේ නිවසට ගොස් සිටියදී මෙම ආරවුල ඇතිවී තිබේ.
+The victim has long been a confrontation between his brother-in-law.
+
+The suspect was also injured and hospitalized.
+
+The victim was the dispute when the death went to his sister's house with several other people with several other people.
 
 ◼️
 
 [Data](articles/6ac06a4b.json)
+
+[Extended Data](ext_articles/6ac06a4b.ext.json)
 
 ---
 

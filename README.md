@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 15:52:32**
+As of **2024-05-21 16:04:45**
 
 ## Newspaper Stats
 
-*Scraped **25,448** Articles*
+*Scraped **25,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,68 +15,156 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,181
+adalk | 2,182
 adaderanalk | 2,938
 tamilmirrorlk | 2,973
-virakesarilk | 3,850
-dailymirrorlk | 3,994
+virakesarilk | 3,851
+dailymirrorlk | 3,997
 adaderanasinhalalk | 4,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,444 (100.0%) of 25,448 articles have been extended.
+25,448 (100.0%) of 25,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ඉරානයේ දැන් මොකද වෙන්නේ ?
+### நோர்வே துதூதுவர் தனது இலங்கைக்கான விஜயத்தின் போது ஜனாதிபதி மற்றும் அரசியல் கட்சிகளின் தலைவர்களை சந்தித்துள்ளார்
+
+*2024-05-21 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184145) · `ta`
+
+இலங்கை மற்றும் இந்தியாவுக்கான நோர்வே தூதுவர் மேன்மைதங்கிய மே-எலின் ஸ்டெனர் மே 02 முதல் 09 வரை இலங்கைக்கு விஜயம் செய்திருந்தார்.
+
+நோர்வே மற்றும் இலங்கை இடையில் இருதரப்பு பிணைப்புக்களை மேலும் வலுப்படுத்துவதில் இவ்விஜயம் முக்கிய இடம்பிடித்துள்ளது.
+
+இலங்கை ஜனாதிபதி அதிமேதகு ரணில் விக்கிரமசிங்க, வெளிவிவகார அமைச்சர்  அலி சப்ரி, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க மற்றும் தமிழ் தேசிய கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் உள்ளிட்ட முக்கிய தலைவர்களுடன் காத்திரமான உரையாடல்களில் தூதுவர் ஸ்டெனர் ஈடுபட்டார்.
+
+ஜனாதிபதி விக்கிரமசிங்கவுடனான சந்திப்பின் போது, இலங்கையில் நோர்வே முதலீடுகள் மற்றும் அபிவிருத்திச் செயற்பாடுகளின் பாராட்டத்தக்க வளர்ச்சி தொடர்பில் தூதுவர் ஸ்டெனருக்கு விளக்கமளிக்கப்பட்டது.
+
+பல்வேறு துறைகளில் பரஸ்பர நலன்களின் முக்கியத்துவத்தை வலியுறுத்தி, இரு நாடுகளுக்கும் இடையில் நெருக்கமான கூட்டுறவைப் பேணுவதில் தமது அர்ப்பணிப்பை இரு தரப்பினரும் மீளவும் சுட்டிக்காட்டினர்.
+
+...
+
+[Data](articles/0aef1939.json)
+
+---
+
+### Move to sell LSD-infected cattle amid disease outbreak
+
+*2024-05-21 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Move-to-sell-LSD-infected-cattle-amid-disease-outbreak/108-283069) · `en`
+
+With the outbreak of the Lumpy Skin Disease (LSD) among cattle in the Nuwara Eliya District, there is a growing tendency among dairy farmers to sell off their affected livestock.
+
+Dr. Suresh Kumara, the Government Veterinary Surgeon in charge of the Kotagala-Talawakele division, reported that the district contributes 12 percent of the Central Province’s milk production.
+
+The outbreak has led to the death of many milch cows, resulting in a sharp decline in milk output.
+
+In response to the outbreak, affected dairy farmers have begun selling their LSD-infected cattle to slaughterhouses.
+
+Dr. Kumara emphasized the need for vaccination to control the disease but noted that the necessary vaccine is currently unavailable.
+
+◼️
+
+[Data](articles/cc064856.json)
+
+---
+
+### What's going on in Iran?
 
 *2024-05-21 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196868) · `si`
 
-හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වූ ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ සහ තවත් 7 දෙනෙකුගේ අවසන් කටයුතු ආරම්භකර තිබේ.
+Funeral services for the late Iranian President and seven others who died in a helicopter crash have begun. The event is taking place in Tabriz, Northwestern Iran. The incident occurred when the helicopter, carrying 19 passengers, encountered adverse weather conditions including heavy fog. This tragic event has drawn significant public attention, with many gathering to pay respects. Amidst the mourning, there are mixed reactions from international media and social media users. Authorities have also taken action against social media users, ordering arrests. A memorial service is scheduled for Thursday in Mashhad.
 
-එහි පළමු අවමංගල උත්සවය ඉරානයේ වයඹ ප්‍රදේශයේ පිහිටි ටැබ්‍රිස් නගරයේ සිදුකෙරෙයි.
+🟩
 
-පසුගිය ඉරිදා (19) ඉරාන ජනපති ඇතුළු පිරිස ගමන්කරමින් සිටි හෙලිකොප්ටර ය අනතුරට පත්වූයේ එම ප්‍රදේශයේ කඳුකර කලාපයක දීය.
+The funeral of the President of Iranian President and 7 others have commenced their deceased with helicopter accident.
 
-අයහපත් කාලගුණය සහ දැඩි මීදුම හේතුවෙන් එම යානය අනතුරට ලක්වන්නට ඇතැයි සැලකෙයි.
+Its funeral will take place in Taboris in the Northwestern Province.
 
-හිටපු ජනපතිවරයා ට අවසන් ගෞරව දැක්වීම සඳහා විශාල පිරිසක් ටැබ්‍රිස් නගරයේ වීථි වෙත රැස්වී සිටිති.
+Iranian (19), the helicopter, which was traveling, and the helicopter was moved in the area.
 
-මේ අතර මෙම මරණය සම්බන්ධයෙන් සමාජ මධ්‍යයේ විවිධ සටහන් දක්නට ලැබෙයි.
+It is thought that the aircraft was regarded due to inclement weather and heavy fog.
 
-එක කොටසක් මෙම මරණ සම්බන්ධයෙන් සොව පළකරන අතර තවත් කොටසක් හිටපු ජනපතිවරයාගේ මරණය සම්බන්ධයෙන් සතුට පළකරන බවද එම සටහන් අනුව පෙනී යන බව ජාත්‍යන්තර මාධ්‍ය පැවසීය.
+A large number of people gathered to the Street to the Street to the former President.
 
-මේ අතර හිටපු ජනපතිවරයාගේ ප්‍රතිරූපයට හානිවන අයුරින් සමාජ මාධ්‍ය ඔස්සේ විවධ දා පළකරන පුද්ගලයින්ව අත්අඩංගුවට ගන්නා ලෙස එරට ආරක්ෂක අංශ වෙත බලධාරීන් නියෝගකර තිබේ.
+Meanwhile, various notes on the midst of this death.
 
-මේ අතර හිටපු ජනපති ඊබ්‍රාහිම් රයිසි සිරිර ඔහුගේ උපන් ප්‍රදේශය වන මාෂ්හාඩ් හිදී එළැඹෙන බ්‍රහස්පතින්දා සිදුකිරීමට නියමිතය.
+The International Media stated that a single part is expressed in respect of these deaths and is happier with the death of the former President.
+
+Meanwhile, authorities have ordered the security forces to arrest the people of Social Media in the country.
+
+Meanwhile, Silbhim Relivery Cyr Sirira is due to be held on Thursday at Marshahad, Marshahad.
 
 ◼️
 
 [Data](articles/740b4164.json)
 
+[Extended Data](ext_articles/740b4164.ext.json)
+
 ---
 
-### බන්ධනාගාර නිලධාරීන්ගේ වෘත්තීය ක්‍රියාමාර්ග අවසන්
+### Russia cirticises western pressure on Sri Lanka over human rights
 
-*2024-05-21 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196867) · `si`
+*2024-05-21 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-cirticises-western-pressure-on-Sri-Lanka-over-human-rights/108-283068) · `en`
 
-බන්ධනාගාර නිලධාරීන් විසින් ගෙන ගිය වෘත්තීය ක්‍රියාමාර්ගය අවසන් කිරීමට පියවර ගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පවසයි.
+Colombo, May 21 (Daily Mirror) - The Russian embassy expressed concerns over the western pressure on Sri Lanka regarding human rights while the very same forces are having a separate stand on the unfolding humanitarian crisis in Gaza, Yugoslavia, Afghanistan etc.
 
-රුපියල් 25,000ක වැටුප් වැඩිවීමක් ලබාදෙන ලෙස ඉල්ලමින් බන්ධනාගාර නිලධාරීන් ඊයේ (20) පෙරවරුවේ සිට වෘත්තිය ක්‍රියාමාර්ගයක නිරත වුණි.
+In a statement, the embassy said it has noted increased external pressure on Sri Lanka with regard to the human rights situation in the country.
 
-ඒ අනුව අද ( 21) දහවල් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා ඇතුළු උසස් බන්ධනාගාර නිලධාරීන් සහ වෘත්තීය ක්‍රියාමාර්ගයන්හි නිරත නිලධාරීන් අතර විශේෂ සාකච්ඡාවක් පැවැත්වුණි.
-
-අධිකරණ කටයුතු අඩාල වීමට ඉඩ නොතබන ලෙසත්, බන්ධනාගාර කටයුතු සඳහා බාධා වන ආකාරයට කටයුතු නොකරන ලෙසත් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා එහිදී ඔවුන්ට දැනුම්දී තිබේ.
-
-බන්ධනාගාර නිලධාරීන්ගේ ඉල්ලීම සාධාරණ බැවින් එය ඉටුකිරීම සඳහා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කොට ඔවුන්ට සාධාරණයක් ඉටුකිරීමට තමන් කටයුතු කරන බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පසුගිය 20 වනදා සඳහන් කළේය.
+“Numerous western political figures, diplomats and foreign quasi human rights organizations have come up with their critical statements and abundant observations.
 
 ...
 
+[Data](articles/44eca0d1.json)
+
+---
+
+### Sri Lankan ambassador to China Majintha Jayesinghe assumes duties
+
+*2024-05-21 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-ambassador-to-China-Majintha-Jayesinghe-assumes-duties/108-283067) · `en`
+
+Colombo, May 21 (Daily Mirror) - Ambassador-designate to China Majintha Jayesinghe assumed duties on May 20, 2024 at the Embassy in Beijing, according to the Foreign Affairs Ministry.
+
+Addressing the Staff, Ambassador Majintha Jayesinghe recalled the close historic relations between Sri Lanka and China and outlined the significance and importance of the bilateral relations between the two countries.
+
+He emphasized the need to further strengthen Sri Lanka’s presence in China by promoting trade, Investments, tourism and cultural ties.
+
+Jayesinghe is a career diplomat who joined the Sri Lanka Foreign Service in 1998 and was Ambassador and Permanent Representative in Austria with accreditation to six countries and Ambassador in the United Arab Emirates prior to his appointment in the People’s Republic of China.
+
+...
+
+[Data](articles/da04fde7.json)
+
+---
+
+### Progress of Prison Officers completed
+
+*2024-05-21 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196867) · `si`
+
+Prison officers in Sri Lanka have been on strike since 2020, demanding a Rs. 25,000 salary increase. A meeting was held between the Commissioner General of Prisons and officials on January 21st. The Minister of Justice, Dr. Wijayadasa Rajapakse, supports the officers' demands and is preparing a cabinet paper to address them. The strike continues, emphasizing the importance of not disrupting judicial processes.
+
+🟩
+
+Prison media spokesman Prison Spokesman Gaminne B.. Says Mr. Dissanayake.
+
+Prison officials have been involved in a profession action from the year (20th) demanding a salary increase of Rs. 25,000.
+
+A special discussion was held between the Commissioner General of Prisons and professional procedures today (21).
+
+The Commissioner General of Prisons has also been informed that the judiciary should not be hampered and not to interrupt prison.
+
+Minister of Justice Dr. Wijayadasa Rajapakse stated that he is working to perform a cabinet paper to perform a cabinet paper to perform it as the request of prison officials are fair.
+
+The strike said that the strike officials stated that the officers who rely on the Promine and reporting the vocational action were reed to the service and report the vocational action.
+
+◼️
+
 [Data](articles/7e6b65bd.json)
+
+[Extended Data](ext_articles/7e6b65bd.ext.json)
 
 ---
 
@@ -119,6 +207,8 @@ It further informs that the authority to make decisions based on the existing si
 ◼️
 
 [Data](articles/3807d360.json)
+
+[Extended Data](ext_articles/3807d360.ext.json)
 
 ---
 
@@ -199,6 +289,20 @@ The judiciary of Sajith Premadasa, General Secretary of the President and the le
 [Data](articles/267cb2c4.json)
 
 [Extended Data](ext_articles/267cb2c4.ext.json)
+
+---
+
+### මැයි 24, 25 ජනපති උතුරේ
+
+*2024-05-21 14:57:03* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-24--25-ජනපති-උතුරේ/11-409765) · `si`
+
+මෙම මස 24 හා 25 යන දෙදින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උතුරු පළාතේ සංවර්ධන ක්‍රියාදාමයන් පිළිබදව සොයා බැලීම සදහා සංචාරයක නිතර වීමට නියමිතය.
+
+මේ සදහා පුර්ව සුදානම් කිරීමක් අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාගේ ප්‍රධානත්වයෙන් උතුරු පළාත් ආණ්ඩුකාර පී.එස්.එම් චාල්ස් මහත්මියගේ හා රජයේ නිලධාරීන්ගේ සහභාගීත්වයෙන් යාපනය දිසාපති කාර්යාලයේදී පැවැත්විණි.
+
+◼️
+
+[Data](articles/6d10f324.json)
 
 ---
 
@@ -292,19 +396,31 @@ According to our correspondent, we came to a campaign to come and protest.
 
 ---
 
-### இந்தியாவுடன் இலங்கை இணைந்து செயற்படுவதை இந்திய தேர்தல் முடிவுகள் பாதிக்காது - இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பு ஏற்படுத்த அனுமதிக்கமாட்டோம்- அலிசப்ரி
+### India's election results will not affect Sri Lanka's work with India - we will not allow anyone to affect India's security
 
 *2024-05-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184135) · `ta`
 
-இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பு ஏற்படுத்துவதற்கு அனுமதிக்கமாட்டோம் என இலங்கை வெளிவிவகார அமைச்சர்   அலி சப்ரிதெரிவித்துள்ளார்.
+Sri Lanka's Foreign Minister Ali Sabrideri assures that election outcomes won't impact its cooperation with India, emphasizing a commitment to India's security. He expresses willingness to engage with all nations, including China, but without compromising India's security interests.
 
-இந்தியாவின் தேசிய பாதுகாப்பு நலன்களை பாதுகாப்பதில் இலங்கைக்கு உள்ள அர்ப்பணிப்பை வெளிப்படுத்தியுள்ள அலிசப்ரி பொறுப்புள்ள அயல்நாடு என்ற அடிப்படையில் இந்தியாவின் பாதுகாப்பிற்கு எவரும பாதிப்பு ஏற்படுத்துவதற்கு அனுமதிக்கமாட்டோம் என தெரிவித்துள்ளார்.
+🟩
 
-சீன கப்பல்களின் இலங்கை விஜயம் குறித்த இந்தியாவின் கரிசனை குறித்து கருத்து வெளியிட்டுள்ள அலிசப்ரி நாங்கள் அனைத்து நாடுகளுடனும் இணைந்து செயற்பட விரும்புகின்றோம் என்பதை வெளிப்படையாக தெரிவித்துள்ளோம் இந்தியாவின் பாதுகாப்பு குறித்த நியாயபூர்வமான எந்த கரிசனையும் கருத்தில் கொள்ளப்படும் நாங்கள் இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பை ஏற்படுத்த அனுமதிக்க மாட்டோம் என குறிப்பிட்டுள்ளார்.
+Sri Lanka's Foreign Minister Ali Sabrideri has said that no one will be allowed to affect India's security.
+
+Alizabri, who has expressed his commitment to Sri Lanka's national security interests, will not allow anyone to affect India's security on the basis of as a responsible foreign country.
+
+Commenting on India's concern for Sri Lanka's visit to Sri Lanka, Alizabri has explicitly expressed that we want to work with all countries.
+
+I know that China has become the biggest business partner in India, so I want to work with all of us as you want to work with them.
+
+But this should not be given to any party and we do not want to maintain ties with others.
+
+Therefore, I would like to reiterate that we will not engage in any issues that will affect India's legitimate security concerns on the basis of as a responsible foreign fashionable sake.
 
 ...
 
 [Data](articles/262532a8.json)
+
+[Extended Data](ext_articles/262532a8.ext.json)
 
 ---
 
@@ -480,29 +596,29 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
 
-15.14 PM - Ranesh Silva sold to Dambulla Thunders for USD 5,000
+15.47 PM - South African cricketer Reeza Hendricks goes unsold in the first round
 
-15.11 PM - Shehan Fernando sold to Colombo Strikers for USD 5,000
+15.46 PM - Australian cricketer Alex Ross sold to Jaffna Kings for USD 20,000
 
-15.10 PM - Sri Lankan cricketer Vishad Randika sold to Jaffna Kings for USD 5,000
+15.43 PM - Muhammad Waseem from UAE goes to Colombo Strikers for USD 20,000
 
-15.09 PM - New Zealand cricketer Tom Latham, West Indies player Shai Hope and Australian cricketer Josh Philippe unsold
+15.41 PM - Galle Marvels secure Sri Lankan cricketer Isuru Udana for USD 100,000
 
-02.44 PM - South African cricketer Tabraiz Shamsi also unsold
+15.37 PM - Sri Lankan cricketer Isitha Wijesundera sold to Colombo Strikers for USD 5,000
 
-02.45 PM - 19-year-old Malsha Tharupathi sold to Galle Marvles for USD 25,000
+15.35 PM - Sri Lankan cricketer Lahiru Samarakoon sold to Jaffna Kings for USD 13,000
 
-02.39 PM - UAE player Zahoor Khan sold to Gale Marvels for USD 10,000
+15.34 PM - No bids for Sri Lankan cricketer Milan Ratnayaka and South African cricketer Lizaad Williams
 
-02.36 PM - Asitha Fernando has been retained by Jaffna Kings for USD 40,000.
+15.32 PM - B-Love kandy secure Pakistani cricketer Muhammad Hasnain for USD 30,000
 
-02.35 PM - Matheesha Pathirana has been retained by Colombo Strikers for USD 120,000.
+15.31 PM - Sri Lankan cricketers Udith Madushan and Shiran Fernando unsold
 
-02.29 PM - 18-year-old Sri Lankan player Garuka Sanketh sold to Colombo Strikers for USD 20,000
+15.30 PM - Sri Lankan cricketer Mohomed Shiraz sold to Galle Marvels for US$ 10,000
 
-02.27 PM - Sri Lankan cricketer Nuwan Pradeep sold to Dambulla Thunders for USD 36,000.
+15.25 PM - West Indies cricketers Lendl Simmons and Evin Lewis unsold
 
-02.23 PM - Colombo Strikers secure Sri Lankan cricketer Binura Fernando for USD 55,000.
+15.24 PM - Pakistani cricketer Haris Sohail and Sri Lanka's Pulindu Perera unsold
 
 ...
 
@@ -2247,111 +2363,5 @@ Asserting that China, as a bilateral creditor, is dealing with Sri Lanka separat
 [Data](articles/0d5ac2cd.json)
 
 [Extended Data](ext_articles/0d5ac2cd.ext.json)
-
----
-
-### Today is a national mourning day
-
-*2024-05-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196842) · `si`
-
-National mourning declared after the tragic helicopter crash in Iran's northwest, killing the Iranian President Irabrahi Rishi, the Foreign Minister, and nine others. The Supreme Court leader Astallama Al Qamani ordered five days of mourning. World leaders express condolences.
-
-🟩
-
-Due to the death of Mr. Iranian President Irabrahi Rishi, the national mourning day was declared today.
-
-Secretary of Public Administration, said that the Secretary of the Ministry of Public Administration and Home Administration said.
-
-The helicopter accident occurred in a mountainous region of Irania Northwestern Iran in Northwest.
-
-The Iranian Foreign Minister and 9 people have died in danger of the helicopter.
-
-The Supreme Court leader Astallama Al Qamani has taken steps to declare five days in view of the death of the President Iran.
-
-There have been many world leaders for the death of the Iranian president and has also been announced on mourning days.
-
-◼️
-
-[Data](articles/863c7813.json)
-
-[Extended Data](ext_articles/863c7813.ext.json)
-
----
-
-### Rain above 100mm today too
-
-*2024-05-21 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-above-100mm-today-too/108-283019) · `en`
-
-Colombo, May 21 (Daily Mirror) - Heavy showers of above 100mm are likely in the Western, Sabaragamuwa and North-Western Provinces and in the  Galle, Matara, Kandy and Nuwara-Eliya districts, the Forecasting Division of the National Meteorological Centre said.
-
-They said the South-West monsoon conditions are gradually establishing over the island, and the prevailing showery and windy conditions will continue.
-
-Meanwhile, thundershowers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces, as well as in the Galle and Matara districts.
-
-Several spells of showers will also occur in the Northern and North-Central Provinces.
-
-Strong winds of about 50 kmph can be expected at times over the island.
-
-◼️
-
-[Data](articles/c860733c.json)
-
-[Extended Data](ext_articles/c860733c.ext.json)
-
----
-
-### Kalutara Badilla is full
-
-*2024-05-21 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196841) · `si`
-
-"Kalutara Badilla is fully booked."
-
-🟩
-
-◼️
-
-[Data](articles/35285b7a.json)
-
-[Extended Data](ext_articles/35285b7a.ext.json)
-
----
-
-### The United States expressed his condolences
-
-*2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/50-337615) · `ta`
-
-The U.S. mourns the loss of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian, and their delegation in a helicopter crash. It reaffirms support for Iran's people in their quest for human rights and freedoms upon selecting a new leader.
-
-🟩
-
-“Iranian when helicopter crashes in northwestern Iran. The US expresses its official condolences to the death of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian and their delegation.
-
-When Iran selects a new Chancellor, we reiterate our support for the Iranian people and their struggle for human rights and basic freedom. ”
-
-◼️
-
-[Data](articles/62a0dcf3.json)
-
-[Extended Data](ext_articles/62a0dcf3.ext.json)
-
----
-
-### The United States expressed his condolence
-
-*2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/175-337615) · `ta`
-
-The U.S. expresses its condolences over the crash of an Iranian helicopter in northwestern Iran, which resulted in the deaths of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian, and other delegation members. The U.S. reaffirms its support for the Iranian people's fight for human rights and freedom upon Iran's selection of a new leader.
-
-🟩
-
-In a statement issued by US Foreign Ministry spokesman Matthew Miller, “Iranian helicopter crashes in northwestern Iran. The United States to death of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian and their delegation members
-
-Expresses his official condolences. When Iran selects a new Chancellor, we reiterate our support for the Iranian people and their struggle for human rights and basic freedom. ”
-
-◼️
-
-[Data](articles/9e36e687.json)
-
-[Extended Data](ext_articles/9e36e687.ext.json)
 
 ---

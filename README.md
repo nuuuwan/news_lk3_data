@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 09:04:26**
+As of **2024-05-21 09:18:35**
 
 ## Newspaper Stats
 
-*Scraped **25,355** Articles*
+*Scraped **25,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,172
-adaderanalk | 2,926
+adaderanalk | 2,927
 tamilmirrorlk | 2,961
-virakesarilk | 3,830
+virakesarilk | 3,831
 dailymirrorlk | 3,980
 adaderanasinhalalk | 4,051
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,354 (100.0%) of 25,355 articles have been extended.
+25,355 (100.0%) of 25,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Sri Lanka and Indonesia pledge stronger bilateral ties and economic cooperation
+
+*2024-05-21 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99349/sri-lanka-and-indonesia-pledge-stronger-bilateral-ties-and-economic-cooperation) · `en`
+
+In a significant bilateral meeting during the 10th World Water Summit, President Ranil Wickremesinghe and Indonesian President Joko Widodo reaffirmed their commitment to strengthening the longstanding relationship between their nations.
+
+The discussions, which covered a wide range of regional and international issues, underscored the importance of collaboration in addressing global challenges, the President’s Media Division reported.
+
+President Wickremesinghe, in his opening remarks, highlighted the historical ties between Sri Lanka and Indonesia, dating back to their joint participation in the 1956 Bandung Conference. He expressed appreciation for President Widodo’s leadership in regional, international, and bilateral matters, noting the importance of such summits in fostering global cooperation.
+
+...
+
+[Data](articles/c6bc2705.json)
+
+---
+
+### வட, கிழக்கில் நிலவும் பிரச்சினைகள் எனக்குப் பெரிதும் அதிர்ச்சியளிக்கின்றன - மன்னிப்புச்சபையின் செயலாளர் நாயகம் சிவில் சமூகப்பிரதிநிதிகளிடம் தெரிவிப்பு
+
+*2024-05-21 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184098) · `ta`
+
+வட, கிழக்கில் தமிழ்மக்கள் முகங்கொடுத்துவரும் பிரச்சினைகள் தொடர்பில் அம்மாகாணங்களைச் சேர்ந்த பலரிடம் கேட்டறிந்ததாகவும், அவை தனக்குப் பெரிதும் அதிர்ச்சியளிக்கும் வகையில் அமைந்திருந்ததாகவும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் தெரிவித்துள்ளார்.
+
+யுத்தத்தின்போது இடம்பெற்றதாகக் கூறப்படும் போர்க்குற்றங்கள், மனித உரிமை மீறல்கள் மற்றும் மனிதகுலத்துக்கு எதிரான வன்முறைகள் என்பன தொடர்பில் உண்மை, நீதி மற்றும் பொறுப்புக்கூறல் என்பன உறுதிப்படுத்தப்படவேண்டும் என சர்வதேச மன்னிப்புச்சபை தொடர்ச்சியாக வலியுறுத்திவருவதுடன், சர்வதேச அரங்கில் இலங்கை மீதான அழுத்தங்களையும் பிரயோகித்துவருகின்றது.
+
+அந்தவகையில் மூன்று தசாப்தகால யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு கடந்த சனிக்கிழமையுடன் (18) 15 வருடங்கள் பூர்த்தியடைந்த நிலையில், முதன்முறையாக தெற்காசியப்பிராந்தியத்துக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருக்கும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், கடந்த வெள்ளிக்கிழமை நாட்டை வந்தடைந்தார்.
+
+...
+
+[Data](articles/a3446b90.json)
+
+---
 
 ### Health strike in the Western Province today
 
@@ -292,6 +324,28 @@ Expresses his official condolences. When Iran selects a new Chancellor, we reite
 
 ---
 
+### ICC's lawyer appeals against Israeli Prime Minister Hamas leader
+
+*2024-05-21 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184071) · `ta`
+
+ICC's lawyer Karim Khan appeals to Israeli PM Netanyahu and Hamas leader Yahya Sinwar over alleged war crimes. He accuses them of holding back evidence against Mohamed Dyv and Ismail Hania.
+
+🟩
+
+2023 October Seventh;The prosecutor of the International Criminal Court has appealed to the Israeli prime minister and Hamas leader to issue a war crimes against humanity after the day.
+
+In an interview with CNN, the International Criminal Court's lawyer Karimkan said this.
+
+He has said that Benjamin Netanyahu has requested the leaders of the Israeli Defense Yo Calland Hamas to issue a hold against Yahya Sinwar Mohamed Dyv Ismail Hania.
+
+◼️
+
+[Data](articles/0e17fe57.json)
+
+[Extended Data](ext_articles/0e17fe57.ext.json)
+
+---
+
 ### Sri Lanka launches probe into alleged ISIS links
 
 *2024-05-21 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-launches-probe-into-alleged-ISIS-links/155-283016) · `en`
@@ -313,28 +367,6 @@ Defence officials said that once the information is obtained from India, Sri Lan
 [Data](articles/36077681.json)
 
 [Extended Data](ext_articles/36077681.ext.json)
-
----
-
-### ICC's lawyer appeals against Israeli Prime Minister Hamas leader
-
-*2024-05-21 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184071) · `ta`
-
-ICC's lawyer Karim Khan appeals to Israeli PM Netanyahu and Hamas leader Yahya Sinwar over alleged war crimes. He accuses them of holding back evidence against Mohamed Dyv and Ismail Hania.
-
-🟩
-
-2023 October Seventh;The prosecutor of the International Criminal Court has appealed to the Israeli prime minister and Hamas leader to issue a war crimes against humanity after the day.
-
-In an interview with CNN, the International Criminal Court's lawyer Karimkan said this.
-
-He has said that Benjamin Netanyahu has requested the leaders of the Israeli Defense Yo Calland Hamas to issue a hold against Yahya Sinwar Mohamed Dyv Ismail Hania.
-
-◼️
-
-[Data](articles/0e17fe57.json)
-
-[Extended Data](ext_articles/0e17fe57.ext.json)
 
 ---
 
@@ -410,7 +442,7 @@ State Minister of Technology Kanaka Herath told Daily Mirror that an application
 
 ### Sri Lanka Medical Members of Parliament Resolution to discuss the policy of pharmaceuticals and health department employees
 
-*2024-05-21 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184096) · `ta`
+*2024-05-21 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184096) · `ta`
 
 The Sri Lanka Medical Members of Parliament, led by President Hon. Professor Sanna Jayasumana, discussed drug shortages and invited health ministry officials and GMOA. They also addressed issues like the transfer policy for health workers, lack of nutritionists, support for treating disabilities, and regulating private hospitals.
 
@@ -1108,21 +1140,27 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 
 ---
 
-### இலங்கை - இந்தோனேசியா உறவுகளை பலப்படுத்த உறுதி
+### Sri Lanka - Confirm to strengthen Indonesia relations
 
 *2024-05-21 01:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தோனேசியா-உறவுகளை-பலப்படுத்த-உறுதி/175-337614) · `ta`
 
-இந்தோனேசிய தலைநகர் பாலியில் நடைபெற்று வரும் பத்தாவது உலக நீர் மாநாட்டுக்கு இணையாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவிற்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு நேற்று இடம்பெற்றது.
+President Ranil Wickremesinghe met Indonesian President Joko Widodo in Bali, discussing strengthening bilateral ties and economic cooperation. They highlighted the importance of joint efforts in tackling global issues.
 
-இந்தோனேசிய ஜனாதிபதி இதன்போது ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சிநேகபூர்வமாக வரவேற்றார். இரு நாட்டுத் தலைவர்களுக்கும் இடையிலான சிநேகபூர்வ உரையாடலின் பின்னர், இருதரப்பு கலந்துரையாடல்களும் ஆரம்பிக்கப்பட்டன.
+🟩
 
-இலங்கைக்கும் இந்தோனேசியாவுக்கும் இடையிலான வரலாற்று உறவுகளை மேலும் பலப்படுத்த இரு நாட்டு தலைவர்களும் உறுதி எடுத்துக்கொண்டதோடு, பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது தொடர்பிலும் விசேட கவனம் செலுத்தப்பட்டது.
+The official meeting between President Ranil Wickremesinghe and Indonesian President Joko Widodo took place yesterday in parallel to the Tenth World Water Conference in Bali, Indonesian capital.
 
-இரு நாட்டுத் தலைவர்களும் பிராந்திய மற்றும் சர்வதேச விவகாரங்கள் குறித்துக் கவனம் செலுத்தியதோடு, உலகளாவிய சவால்களை எதிர்கொள்வதில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தினர். (a)
+Indonesian President welcomed President Ranil Wickremesinghe. Bilateral discussions were also launched after a friendly conversation between the two leaders.
+
+The two leaders have promised to further strengthen the historical ties between Sri Lanka and Indonesia and focus on improving economic cooperation.
+
+The two leaders focused on regional and international affairs and emphasized the importance of cooperation between the two countries in addressing global challenges. (A)
 
 ◼️
 
 [Data](articles/055f403a.json)
+
+[Extended Data](ext_articles/055f403a.ext.json)
 
 ---
 
@@ -2155,55 +2193,5 @@ In his opening remarks, President Wickremesinghe extended his gratitude to the P
 [Data](articles/76366f49.json)
 
 [Extended Data](ext_articles/76366f49.ext.json)
-
----
-
-### 8,780 families in Puttalam districtHolidays for schools
-
-*2024-05-20 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184082) · `ta`
-
-Floods in Puttalam district affect 32,710 people across 8,780 families, leading to school closures.
-
-🟩
-
-Puttalam District Secretary HMSP Herath said that 32,710 people from 8,780 families have been affected by the floods in the Puttalam district due to inclement weather.
-
-Due to heavy rains over the past two days, 32,710 people from 8,780 families have been affected by the 78 Grama Niladhari Division in the 9 Divisional Secretariat Division in the Puttalam district.
-
-The district secretary said that more families in the Puttalam Divisional Secretariat Division have been affected and 25,529 people from 6,815 families have been affected by the 12 Grama Niladhari Division.
-
-The North Western Provincial Directorate's Office has announced that it has decided to close all schools in the Puttalam district on Tuesday 21st.
-
-It is reported that the holidays for today's day are announced on Sunday, 19th, and the upcoming days will be decided in accordance with the weather.
-
-◼️
-
-[Data](articles/6f118fee.json)
-
-[Extended Data](ext_articles/6f118fee.ext.json)
-
----
-
-### Famral service trainees recruited
-
-*2024-05-20 19:23:46* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-සෞඛය-සේවා-අභ්‍යාසලාභීන්-දහසක්-පුහුණුවට-බදවා-ගැනේ/11-409746) · `si`
-
-Dr. Ramesh Pathirana, State Minister of Health and Industry, recruits family service trainees to enhance maternal and child health services in Sri Lanka. From 2836 applicants, 1350 Family Health Officers are selected for training across various institutions including District General Hospital, Mahamodara Hospital, and others. This initiative aims to improve healthcare services in the country.
-
-🟩
-
-State Minister of Health and Industry to train Dr. Ramesh Pathirana, State Minister of Health and Industry to enromove the maternal and child health services in Sri Lanka.The participation of Mrs. The 21st morning at Temple Trees.
-
-Applications were summoned from applicants who were able to pass 2836 applications for the training of 2836 applicants who were eligible for the estimates of 2015/2917.
-
-The Ministry of Health acquires the training of the group as two teams and the first group is due to be completed and released.
-
-The second group is the team, which was launched by the Grays of the Ministry of Training and Research and Research.District General Hospital, Mahamodara Hospital, Kurunegala Provincial Health Training Center, Anuradhapura Provincial Health Training Center, Anuradhapura Provincial Health Training Center, Ministry of Health has arranged for training centers in Batticaloa.
-
-...
-
-[Data](articles/2735dfba.json)
-
-[Extended Data](ext_articles/2735dfba.ext.json)
 
 ---

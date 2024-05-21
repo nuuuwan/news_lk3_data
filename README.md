@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 13:18:27**
+As of **2024-05-21 13:34:09**
 
 ## Newspaper Stats
 
-*Scraped **25,417** Articles*
+*Scraped **25,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,178
-adaderanalk | 2,934
+adaderanalk | 2,936
 tamilmirrorlk | 2,968
 virakesarilk | 3,847
-dailymirrorlk | 3,987
+dailymirrorlk | 3,988
 adaderanasinhalalk | 4,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,402 (99.9%) of 25,417 articles have been extended.
+25,417 (100.0%) of 25,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Four arrested for robbing store at gunpoint in Galle
+
+*2024-05-21 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99357/four-arrested-for-robbing-store-at-gunpoint-in-galle) · `en`
+
+Four suspects have been arrested in connection with an armed robbery at a store at Imaduwa in Galle.
+
+A foreign-manufactured firearm and three found in the possession of the suspects at the time of the arrest have also been taken into police custody.
+
+Police said that the suspects had arrived in car and carried out the armed robbery.
+
+Police say that it has been revealed that the arrested suspects includes the owner of a neighboring shop and that shop owner in question had planned the entire robbery while also acting as the look out.
+
+The arrested suspects are between the ages of 45 and 61 years while they are residents of Wakwewa, Embilipitiya and Akuressa areas.
+
+The armed robbery at the shop had also been recorded on the CCTV cameras placed inside the establishment.
+
+During interrogations, it was revealed that the suspects had also previously robbed shops in Wattala Kandana, Embilipitiya and Middeniya are at gunpoint.
+
+...
+
+[Data](articles/f9bcd5fa.json)
+
+---
+
+### Fallen tree blocks road in Borella, disrupting traffic
+
+*2024-05-21 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99356/fallen-tree-blocks-road-in-borella-disrupting-traffic) · `en`
+
+A large tree has reportedly fallen across the road near the Devi Balika Vidyalaya in Borella.
+
+Ada Derana reporter said that the tree had fallen this morning (21) amidst the heavy downpour and strong winds, and that this had resulted in traffic congestion in the area.
+
+Colombo Municipal Council (CMC) workers are engaged in the removal of the tree and restore traffic movement along the road.
+
+◼️
+
+[Data](articles/e714c25c.json)
+
+---
 
 ### LIVE UPDATES: 2024 LPL Player Auction
 
@@ -50,49 +90,103 @@ Charu Sharma, who was the auctioneer of the inaugural LPL player auction held la
 
 [Data](articles/57a10b07.json)
 
+[Extended Data](ext_articles/57a10b07.ext.json)
+
 ---
 
-### நல்லிணக்கத்துக்கு ஜனாதிபதியின் உள்ளார்ந்த ஈடுபாடு அவசியம்
+### The president's inherent involvement is essential for reconciliation
 
 *2024-05-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184129) · `ta`
 
-ஜனாதிபதியாக தான் தெரிவுசெய்யப்பட்டது இலங்கையை அதன் பொருளாதார நெருக்கடியில் இருந்து மீட்டெடுப்பதற்கே என்றும் அந்த கடப்பாட்டை நிறைவேற்ற தன்னாலியன்றவரை பாடுபடம்போவதாகவும் ரணில் விக்கிரமசிங்க எண்ணற்ற தடவைகள் கூறியிருக்கிறார். இதனால் பொருளாதார வெற்றியை சாதிப்பதற்கு முன்னதாக ஜனாதிபதி தேர்தலை நடத்துவது தொடர்பில் ஜனாதிபதியின் நோக்கங்கள் குறித்து  பெருமளவு ஊகங்கள் எழுந்தன.
+President Ranil Wickremesinghe aims to resolve Sri Lanka's economic crisis and address ethnic issues, promising self-governance and economic reforms. His policies, including tax relief and privatization, face opposition but could secure his reelection. Despite commitments to reconciliation, recent police actions against Tamil memorials and student protests indicate ongoing tensions rather than progress towards peace. International scrutiny, including calls for apologies and investigations into human rights abuses, further complicates the situation. Wickremesinghe's tenure ends with unresolved questions about his ability to lead Sri Lanka towards lasting reconciliation and economic stability.
 
-பொருளாதார நெருக்கடியை தீர்ப்பதில்  ஜனாதிபதிக்கு இருக்கும் பற்றுறுதி தொடர்பில் அவரின் கூற்றுக்களின் உண்மையை மக்களால் விரும்பப்படாத,  செல்வாக்கில்லாத பொருளாதாரக் கொள்கைகளை தீவிரமாக முன்னெடுப்பதில் அவர் காட்டுகின்ற உறுதிப்பாட்டின் மூலம் தெரிந்துகொள்ள முடியும். மக்களுக்கு கட்டுப்படியாகக்கூடிய எல்லைக்கும் அப்பால் உயர்ந்த வரிகளை விதிப்பதிலும் பெரும்பாலான ஊழியர்களினால் கடுமையாக எதிர்க்கப்படும் அரச நிறுவனங்களின் தனியார் மயமாக்கலை முன்னெடுப்பதிலும் ஜனாதிபதி தளராமல் ஈடுபட்டுவருகிறார்.
+🟩
+
+Ranil Wickremesinghe has said that he was elected as the president and that Sri Lanka was to restore Sri Lanka from its economic crisis and that he would work for the self -government to fulfill that obligation.. Thus, before the economic success, there were great speculations about the President's objectives on holding the presidential election.
+
+Through his commitment to the president's faith in resolving the economic crisis, the truth of his claims can be found in the vigilant and unwavering economic policies of the people.. The president is relaxing in the imposition of high taxes beyond the limits of the people and the privatization of state institutions that are strongly opposed by most employees.
+
+Both policies are so influential that he can be re -elected president in the upcoming presidential election.. But he stands firmly in them with great confidence.
 
 ...
 
 [Data](articles/653130bc.json)
 
+[Extended Data](ext_articles/653130bc.ext.json)
+
 ---
 
-### வவுனியாவில் மரக்கடத்தல் முறியடிப்பு !
+### Woodfall breaks in Vavuniya!
 
 *2024-05-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184122) · `ta`
 
-வவுனியா ஓமந்தையில் முதிரை மரக்கடத்தலினை முறியடித்துள்ளதாக வவுனியா மாவட்ட குற்றவியல் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+In Vavuniya, a mature tree was vandalized in Omanthai, leading to the arrest of two vehicles from Kalmadu. The police recovered 24 damaged trees valued at Rs., with ongoing investigations by the Vavuniya District Criminal Investigation Division.
 
-வவுனியா மாவட்ட குற்றத்தடுப்பு பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் வவுனியா கல்மடுவில் இருந்து இரண்டு வாகனங்களில் கடத்தப்பட்ட முதிரை மரக்குற்றிகளை ஓமந்தை பகுதியில் மடக்கி பிடிக்கப்பட்டுள்ளது.
+🟩
 
-இதன் போது மரக்கடத்தலில் ஈடுபட்டவர்கள் தப்பியோடிய நிலையில் பத்து இலட்சம் ரூபாய் பெறுமதியான 24 மரக்குற்றிகளும் கடத்தலுக்கு பயன்படுத்திய கெப் மற்றும் பட்டா வாகனமும் பொலிஸாரினால் மீட்கப்பட்டுள்ளன.
+The Vavuniya District Criminal Investigation Division said that the mature tree has been broken in Omanthai in Vavuniya.
 
-குறித்த சம்பவம் தொடர்பான மேலதிக விசாரணையினை வவுனியா மாவட்ட குற்றவியல் புலனாய்வு பிரிவினரால் முன்னெடுக்கப்பட்டு வருகின்றது.
+Based on the confidential information received by the Vavuniya District Crime Police, two vehicles from Kalmadu in Vavuniya have been caught in the Omanthai area.
+
+The police have also been recovered by the police, 24 trees worth Rs.
+
+Further inquiries into the incident are being carried out by the Vavuniya District Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/a192a03a.json)
 
+[Extended Data](ext_articles/a192a03a.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184128) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மே 21) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 294.7827 ஆகவும் விற்பனை விலை ரூபா 304.3151 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar buying rate: Rs 294.7827; selling rate: Rs 304.3151 as per May 21 Central Bank data.
+
+🟩
+
+The US dollar purchasing price was Rs 294.7827 and the sales price were Rs 304.3151 based on the currency exchange rate released by the Central Bank on Tuesday (May 21).
 
 ◼️
 
 [Data](articles/0718c564.json)
+
+[Extended Data](ext_articles/0718c564.ext.json)
+
+---
+
+### Lanka Premier League (LPL) auction
+
+*2024-05-21 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-LPL-auction/108-283052) · `en`
+
+01.08 PM - Sri Lanka's Sandun Weerakkody and Bangladesh Mushfiqur Rahim unsold in the first round.
+
+01.05 PM - Sri Lanka's Lahiru Udara sold to Dambulla Thunders for USD 14,000
+
+01.02 PM - Afghan cricketer Rahmanullah Gurbaz sold to Colombo Striker for USD 50,000
+
+12.55 PM - Sri Lankan all-rounder Dunith Wellalage sold to Colombo Strikers for USD 50,000.
+
+12.53 PM - Namibian player David Wiese unsold in the first round
+
+12.51 PM - Chamika Gunasekara sold to Colombo Strikers for USD 10,000
+
+12.47 PM - Sri Lanka's Sahan Arachchige sold  to Galle Marvels for USD 20,000.
+
+12.40PM - West Indies cricketer Fabian Allen sold to Jaffna Kings for USD 32,000.
+
+12.38 PM - South African cricketer Dwaine Pretorius sold to Galle Marvels for USD 30,000
+
+12.37PM Janith Liyanage sold to Galle Marvels for US$ 36,000
+
+12.35 PM - South African left-handed batter Rilee Rossouw sold to Jaffna Kings for his base price of USD 60,000.
+
+...
+
+[Data](articles/ce38edd7.json)
 
 ---
 
@@ -116,21 +210,27 @@ The tree has collapsed today (21), but the road has also occurred.
 
 ---
 
-### வற்றாப்பளை கண்ணகி அம்மனை தரிசித்து விட்டு வந்த பக்தர்களுக்கு ஏற்பட்ட சோகம்!
+### The tragedy of the devotees who left the Varadapalai Kannaki Amman!
 
 *2024-05-21 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184124) · `ta`
 
-யாழ்ப்பாணம் - பண்டத்தரிப்பு - சாந்தை பகுதியில் இருந்து வற்றாப்பளை ஆலயத்திற்கு சென்று தரிசனம் செய்துவிட்டு வந்த பக்தர்கள் பேருந்து குடைசாய்ந்த நிலையில் படுகாயமடைந்துள்ளனர்.
+A group of devotees traveling from Jaffna to visit the Varadapalai Kannaki Amman Temple suffered injuries when their bus crashed into the Poonakari Bridge. Six passengers were hurt and transported to hospitals in Poonakari and Kilinochchi.
 
-மேற்குறிப்பிட்ட பகுதியைச் சேர்ந்த பக்தர்கள் ஒன்றுசேர்ந்து பேருந்து ஒன்றினை வாடகைக்கு அமர்த்தி வற்றாப்பளை கண்ணகி அம்மன் ஆலயத்திற்கு சென்று தரிசனம் செய்துவிட்டு இன்று செவ்வாய்க்கிழமை (21) காலை யாழ்ப்பாணம் நோக்கி வந்துகொண்டிருந்தனர்.
+🟩
 
-இந்நிலையில், பூநகரி பாலம் தாண்டி வந்துகொண்டிருந்த போது பேருந்து தடம்புரண்டு விபத்துக்குள்ளானது. இந்நிலையில் பேருந்தில் பயணித்த ஆறு பயணிகள் படுகாயம் அடைந்தனர்.
+Devotees who visited the Vadapalai temple from the Jaffna - Pandatharal - Chanda area have been injured in the bus.
 
-இந்நிலையில், அவர்கள் பூநகரி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, பின்னர் அங்கிருந்து கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+Devotees from the Western Area gathered together and rented a bus and visited the Kannaki Amman Temple at Vatapalai and were coming to Jaffna this morning.
+
+In this case, the bus crashed into the Poonakari Bridge. Six passengers on the bus were injured.
+
+In this case, they have been taken to Poonakari Hospital and then taken to Kilinochchi Hospital.
 
 ◼️
 
 [Data](articles/86d53db2.json)
+
+[Extended Data](ext_articles/86d53db2.ext.json)
 
 ---
 
@@ -210,45 +310,59 @@ Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to 
 
 ---
 
-### கொழும்பில் பலத்த காற்றினால் சரிந்து வீழ்ந்த விளம்பர பலகை
+### Podcard
 
 *2024-05-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184118) · `ta`
 
-கொழும்பு,  பம்பலப்பிட்டி பகுதியில் நேற்று திங்கட்கிழமை (20) மாலை பலத்த காற்று வீசியதில் வீதிக்கருகில் பொருத்தப்பட்டிருந்த இலத்திரனியல் விளம்பரப் பலகை சரிந்து வீழ்ந்துள்ளது.
+An electronic billboard in Bambalapitiya, Colombo, collapsed without injuring anyone but damaging nearby shop roofs. The incident was captured on video and shared on social media. The Department of Meteorology warns of strong winds from the southwest, advising caution due to potential gusts of 40 to 50 km/h on Tuesday.
 
-இந்த சம்பவத்தில் அதிர்ஷ்டவசமாக எவரும் பாதிக்கப்படவில்லை. அருகிலிருந்த சில கடைகளின் மேற்கூரைகள் மாத்திரம் சேதமடைந்துள்ளன.
+🟩
 
-இலத்திரனியல் விளம்பரப் பலகை சரிந்து வீழும்  காணொளி காட்சி சமூக ஊடகங்களில் வெளிவந்துள்ளது.
+The electronic billboard that was fitted near the street collapsed in Bambalapitiya, Colombo on Monday evening.
 
-நாட்டில் தென்மேல் பருவப்பெயர்ச்சிக்குரிய  காலநிலை படிப்படியாக இலங்கையை ஊடறுப்பதனால் நிலவுகின்ற காற்றுடன் கூடிய மழையுடனான வானிலை தொடரக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Fortunately no one is affected by this incident. Only the roofs of some of the nearby shops have been damaged.
 
-இதேவேளை, இன்று செவ்வாய்க்கிழமை (21)மணித்தியாலத்திற்கு சுமார் 40 முதல் 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி  பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The video footage of the electronic billboard falls on social media.
 
-எனவே, காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள அறிவிப்புகளுக்கு அமைய பொதுமக்கள் அவதானத்துடன் செயற்பட  வேண்டும்.
+The Department of Meteorology has predicted that the south -wing climate of the country will continue to continue with the windy weather with windy weather.
+
+Meanwhile, the Department of Meteorology has announced that frequent winds are likely to blow at 40 to 50 kilometers per hour on Tuesday (21).
+
+Therefore, the public should be careful with the announcements issued regarding the climate.
 
 ◼️
 
 [Data](articles/b833cdaa.json)
 
+[Extended Data](ext_articles/b833cdaa.ext.json)
+
 ---
 
-### லுணுகலை பெண்ணின் மரணத்தில் சந்தேகம் : கணவன் கைது !
+### Suspicion of Lunugala Woman's death: Husband arrested!
 
 *2024-05-21 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184116) · `ta`
 
-லுணுகலை பொலிஸ் பிரிவிற்குட்பட்ட ஜனாதாபுர, தம்பிட்டியவத்த பகுதியில் நேற்று முன்தினம் சடலமாக மீட்கப்பட்ட பெண்ணின் கொலைக்கு காரணமானவர் என்ற சந்தேகத்தில் உயிரிழந்த பெண்ணின் கணவர் கைது செய்யப்பட்டுள்ளதாக லுணுகலை பொலிஸார் தெரிவிக்கின்றனர்.
+A 38-year-old woman found dead in Lunugala was suspectedly murdered by her husband, leading to his arrest. The incident occurred in Janata Pura, Thambapitiya Watta, Kumbukan Oya. Their 17-year-old daughter reported her mother's suspicious death. The husband, a 36-year-old driver, initially confessed to attacking but later denied it. He will face charges in court.
 
-குறித்த பெண்ணின் சடலம் ஞாயிற்றுக்கிழமை (19) லுணுகலை ஜனதாபுர , தம்பபிட்டிய வத்த, கும்புக்கன் ஓயாவில் மீட்கப்பட்டது.
+🟩
 
-இரு பிள்ளைகளின் தாயான 38 வயதுடைய குறித்த பெண்ணின் தலையில் பலத்த காயம் காணப்பட்டதுடன் , தனது தாயின் மரணத்தில் சந்தேகம் உள்ளதாக 17 வயதுடைய மூத்த மகள் பொலிஸாரிடம் முறைப்பாடு செய்துள்ளார்.
+Lunugala police have arrested the husband of the woman who died on suspicion of the murder of a woman who was recovered from the body of a woman who was recovered yesterday in the President of the Lunugala Police Division.
 
-இதனை தொடர்ந்து விசாரணையை தீவிரப் படுத்தியதன் காரணமாக  கொலையாளியான சந்தேக நபர் வாடகைக்கு அமர்த்திய முச்சக்கர வண்டியின் சாரதி (36 வயது) பிரதேசத்தில் இருந்து தப்பிச் சென்ற நிலையில் கைது செய்யப்பட்டுள்ளார்.
+The body of the woman was recovered on Sunday (19) in Lunugala, Janata Pura, Thambapitiya Watta, Kumbukan Oya.
 
-சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட ஆரம்பகட்ட விசாரணையின் போது முதலில் சிறிய கல் ஒன்றினால் தலை பகுதியை தாக்கியதன் பின்னர் பெரிய கல் ஒன்றினால் தாக்கி கொலை செய்ததாக பொலிஸாரிடம் வாக்குமூலம் அளித்துள்ளார்.
+The 38 -year -old woman, the mother of the two children, was severely injured and the 17 -year -old daughter, a 17 -year -old daughter, has lodged a complaint with the police that she is suspicious of her mother's death.
+
+Following the investigation, the killer suspect has been arrested for his escape from the driver of the three -wheeler (36).
+
+During the preliminary inquiry carried out to the suspect, he had confessed to the police that he had first attacked and killed a large stone after hitting a small stone.
+
+Police said the court had ordered that the person should not go to the woman's household area.
 
 ...
 
 [Data](articles/b27cf956.json)
+
+[Extended Data](ext_articles/b27cf956.ext.json)
 
 ---
 
@@ -320,37 +434,51 @@ As a result, the sea waves can be reached in Colombo to Matara via Galle.
 
 ---
 
-### அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணம் ஆனாலும் மக்கள் இன்னமும் நம்பிக்கை இழக்கவில்லை - சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம்
+### Countries like the United States Britain Russia China are the cause of the decline in international regulations, but people still have no confidence - the Secretary General of the Amnesty International
 
 *2024-05-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184120) · `ta`
 
-அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே விதிமுறைகளை அடிப்படையாக கொண்ட சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணமாக உள்ளன என தெரிவித்துள்ள சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் தென்னாபிரிக்கா சர்வதேச நீதிமன்றம் சென்றமையும்  சர்வதேச அளவில் இடம்பெறும் காசா தொடர்பான ஆர்ப்பாட்டங்களும் சர்வதேச சட்டங்கள் பாதுகாக்கப்படவேண்டும் என கருதும் மக்கள்  உள்ளனர் என்பதை வெளிப்படுத்துகின்றது என தெரிவித்துள்ளார்
+Agnez Kalamart, Secretary General of Amnesty International, criticized major powers like the US, UK, Russia, and China for undermining international law, yet highlighted South Africa's move to the ICJ as evidence of ongoing trust in global institutions. This action underscores the importance of adhering to the 1948 genocide convention, particularly in developing nations. Additionally, widespread university protests over issues like the Gaza ceasefire indicate a strong desire among citizens worldwide to uphold international laws.
 
-கொழும்பில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் விதிமுறைகளை அடிப்படையாக கொண்டசர்வதேச ஒழுங்குமுறையின் வீழ்ச்சி ஐநா போன்ற அமைப்புகளின் மீதுமக்கள் நம்பிக்கைஇழப்பு குறித்த கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்
+🟩
 
-1948ம் ஆண்டு புதிய ஒழுங்குமுறையை உருவாக்குவதில் பங்களிப்பு செய்தவர்களே  அதனை அழிக்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+Amnesty International Secretary General of the Amnesty International, Agnez Kalamart, said that the United States of America, the UK, said that the United States of America, the British Russia China, said that the International Court of Justice, Agnez Kalamart, and international protests are expected to protect international laws.
 
-அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே விதிமுறைகளை அடிப்படையாக கொண்ட சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணமாக உள்ளன.
+He was responding to a question about people's confidence in organizations like the UN, the fall of the International Organization based on terms of the rules in Colombo.
+
+Those who contributed to the creation of a new regulation in 1948 are engaged in the destruction of it.
+
+Countries such as the United States, like Britain Russia China, are responsible for the collapse of international regulations based on regulations.
+
+However, the fact that South Africa has gone to the International Court of Justice has revealed that people have not lost confidence in international organizations.
 
 ...
 
 [Data](articles/b907ce90.json)
 
+[Extended Data](ext_articles/b907ce90.ext.json)
+
 ---
 
-### யாழில் பஸ்ஸில் பயணித்த பெண்ணின் தாலிக்கொடி திருட்டு !
+### Talikodu theft of a woman traveling on a bus in Jaffna
 
 *2024-05-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184110) · `ta`
 
-யாழ்ப்பாணத்தில் பஸ்ஸில் பயணித்த பெண்ணொருவரின் தாலிக்கொடி திருடப்பட்டுள்ளதாக மானிப்பாய் பொலிஸ் நிலையத்தில் பாதிக்கப்பட்ட பெண் மானிப்பாய் பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+In Jaffna, a woman was robbed on a bus, prompting her to report to the Manipay police. The incident occurred when she was returning home from Chiripuram. Authorities advise caution against wearing valuables on buses.
 
-யாழ்ப்பாணம் ஆறுகால் மடம் பகுதியை சேர்ந்த பெண்ணொருவர், பஸ்ஸில் சுழிபுரம் சென்ற பின்னர் , அங்கிருந்து மீள பிறிதொரு பஸ்ஸில் தனது வீடு நோக்கி திரும்பிக்கொண்டிருந்த வேளையிலேயே பஸ்ஸில் வைத்து அவரது தாலிக்கொடி திருடப்பட்டுள்ளது.
+🟩
 
-அதேவேளை, பஸ் பயணங்களின் போது பெறுமதியான நகைகளை அணிந்து செல்வதனை தவிர்த்துக் கொள்ளுமாறும் பஸ்ஸில் சந்தேகத்திற்கு இடமான முறையில் பயணிப்பவர்கள் தொடர்பில் அவதானமாக இருக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+The victim has lodged a complaint with the Manipay police station that a woman who was traveling on a bus in Jaffna has been stolen.
+
+A woman from the Jaffna Madam area has been stolen on the bus while she was returning home on another bus after he was on his way to Chiripuram on the bus.
+
+At the same time, the police have been asked to look at the suspicious passengers on the bus to avoid wearing valuable jewelry during bus trips.
 
 ◼️
 
 [Data](articles/59ff1617.json)
+
+[Extended Data](ext_articles/59ff1617.ext.json)
 
 ---
 
@@ -418,21 +546,29 @@ Former State Government Minister Diana Gamage, who was nominated for the passpor
 
 ---
 
-### நுவரெலியா மாவட்டத்தில் கன மழை
+### Heavy rainfall in Nuwara Eliya district
 
 *2024-05-21 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184111) · `ta`
 
-அதிக மழை பெய்வதால் மக்களின் இயல்பு நடவடிக்கைளில் பாதிப்பு ஏற்பட்டுள்ளதோடு மரக்கறி உற்பத்தியிலும் பாதிப்பு ஏற்பட்டுள்ளது.
+Heavy rains in Nuwara Eliya disrupt normal life, affecting vegetable production and causing flooding across the region. Traffic police warn of vigilance due to slippery roads. Water levels in reservoirs rise, leading to potential overflow risks. Flooding occurs in Kesalgamu Oya and throughout the Maskeliya area, highlighting the impact of prolonged heavy rainfall.
 
-மத்திய மலைநாட்டில் நுவரெலியா மாவட்டத்தில் தொடர்ந்து கன மழை பெய்து வருகிறது.குறிப்பாக நுவரெலியா, கந்தப்பளை, இராகலை, நானுஓயா, லிந்துல, தலவாக்கலை, கொட்டகலை, ஹட்டன், வட்டவளை, கினிகத்தேனை, தியகல, நோட்டன், மஸ்கெலியா, சாமிமலை, நல்லதண்ணி ஆகிய பகுதிகளில் கனத்த மழையுடன் கடுமையான பணி மூட்டம் காணப் படுகிறது.
+🟩
 
-இதனால் வாகன செலுத்தும் சாரதிகள் மிகவும் அவதானமாக வாகனங்களை செலுத்தும்படி போக்குவரத்து பொலிஸார் எச்சரித்துள்ளனர். கன மழை காரணமாக எங்கும் ஒரே வெள்ளம் பாய்வதை காண கூடியதாக உள்ளது.
+Heavy rains have been affected by the normal measures of the people and the production of vegetables.
 
-மேல் கொத்மலை நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை எட்டி உள்ளது. காசல்ரீ நீர் தேக்கத்தில் நீர் மட்டம் அதிகரித்துள்ளது. தொடர்ந்து மழை பெய்வதால் நீர் தேக்கங்களின் நீர் மட்டம் சற்று உயர்ந்து வருகிறது.
+Heavy rains are continuously raining in the central hill country.
 
-...
+The traffic police have warned that the drivers of the vehicle will be very vigilant.. Due to heavy rains, the same flood is seen everywhere.
+
+The water level of the top Kotmalai water reservoir reaches its capacity. Water level increased in Casalree water stagnation. The water level of the water reservoir is rising slightly as it continues to rain.
+
+Kesalgamu Oya floods due to heavy rains in Bogawantalawa area. All water streams and waterfalls in the Maskeliya area are flooded in rivers. It is worth noting that heavy rainfall is raining after a long hiatus.
+
+◼️
 
 [Data](articles/0d2df3c4.json)
+
+[Extended Data](ext_articles/0d2df3c4.ext.json)
 
 ---
 
@@ -474,19 +610,27 @@ The Army also said that among those who received legal discharge, there are 373 
 
 ---
 
-### 15 ஆயிரத்திற்கு மேற்பட்ட இராணுவவீரர்கள் சட்ட ரீதியாக சேவையிலிருந்து வெளியேற்றம்
+### More than 15 thousand soldiers are legally out of service
 
 *2024-05-21 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184105) · `ta`
 
-பொது மன்னிப்பு காலத்தின் முடிவில் விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத 15667  இராணுவவீரர்கள் சட்ட ரீதியாக வெளியேற்றப்படவுள்ளதாக இலங்கை இராணுவ தலைமையகத்தினால் வெளியிடப்பட்டுள்ள  ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Over 15,000 Sri Lankan soldiers face legal expulsion due to unpaid leaves, as per a public amnesty deadline passed. The amnesty, aimed at addressing improper vacations, ended on December 31, 2023, affecting soldiers who didn't take their holidays before this date. Additionally, 373 military personnel stationed overseas were ordered to leave without permission during this period.
 
-முறையான விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத இலங்கை இராணுவத்தின் உறுப்பினர்களுக்கு 2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 20 அம் திகதி முதல் 2024 ஆம் ஆண்டு மே மாதம் 20 ஆம் திகதி வரை சட்ட ரீதியாக சேவையை விட்டு வெளியேறுவதற்காக ஒரு மாத கால பொது மன்னிப்பு காலம் அமுல்படுத்தப்பட்டிருந்தது.
+🟩
 
-இதனடிப்படையில், பிரகடனப்படுத்தப்பட்டிருந்த பொது மன்னிப்பு காலத்தின் 2023 டிசம்பர் 31, மற்றும் அதற்கு முன் விடுமுறை இன்றி பணிக்கு சமுகமளிக்காத இராணுவ வீரர்களுக்கு சட்ட ரீதியாக சேவையில் இருந்து விலகுவதற்கான நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+According to media reports released by the Sri Lanka Army Headquarters, 15667 soldiers who did not pay off without vacation at the end of the public amnesty will be legally expelled.
 
-...
+The one -month amnesty period was implemented for members of the Sri Lankan army who did not perform a proper vacation without a proper vacation, from April 20 to 2024 to 2024 to leave the service from May 2024.
+
+Accordingly, action has been taken to quit the legal service to soldiers who did not work without a holiday before December 31, 2023, the Public Amnesty period of the declared.
+
+In addition, a media statement issued by the military leadership further stated that 373 people from the military abroad have been made necessary to leave the army without permission without permission during the above period.
+
+◼️
 
 [Data](articles/69c0eb8a.json)
+
+[Extended Data](ext_articles/69c0eb8a.ext.json)
 
 ---
 
@@ -614,23 +758,33 @@ His recent visit to Sri Lanka to launch a hydropower plan with the financial sup
 
 ---
 
-### எங்களை இங்கிருந்து வெளியேற்றுங்கள் - மருந்துகளை கொண்டுவருவதற்காக  ரபா எல்லையை திறப்பதற்கான அழுத்தங்களை கொடுங்கள் - காசா மருத்துமவனையில் சிக்குண்டுள்ள அவுஸ்திரேலிய மருத்துவர்
+### Get rid of us from here - give pressure on the Rabba border to bring the drug - the Australian doctor in the Gaza Medicine
 
 *2024-05-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184117) · `ta`
 
-காசாவில் செயற்படும் ஒரேயொரு மருத்துவமனைக்குள் சிக்குண்டுள்ள அவுஸ்திரேலிய மருத்துவர்  அவுஸ்திரேலிய அரசாங்கம் அங்கிருந்து தன்னையும் தனது குழுவினரையும் வெளியேற்றவேண்டும்என வேண்டுகோள் விடுத்துள்ளதுடன் மருத்துவமனைக்கு மருந்துபொருட்களை அனுப்பவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+An Australian doctor in Gaza requests evacuation due to safety concerns, urging the Australian government to send medical supplies through the controlled Israeli-Rafah border. The doctor, along with 16 others, was trapped in Gaza after Israel took control of the border, hindering their exit. They've been providing medical aid at the European Hospital in Khan Unis since May 1st, despite facing personal pressures and challenges.
 
-இஸ்ரேல் ரபா எல்லையை தனது கட்டுப்பாட்டின் கீழ் கொண்டுவந்த பின்னர் கான் யூனிசில் உள்ள ஐரோப்பிய மருத்துவமனைக்குள் சிட்னியை சேர்ந்த மருத்துவர் மோதர் அல்பெருட்டி உட்பட 16 மருத்துவர்களும் மருத்துவசுகாதார பணியாளர்களும் சிக்குண்டுள்ளனர்.
+🟩
 
-இஸ்ரேலின் தாக்குதலில் அவுஸ்திரேலிய மனிதாபிமான பணியாளர் கொல்லப்பட்டது போன்ற நிலை எங்களிற்கு ஏற்படுவதற்கு முன்னர் எங்களை இங்கிருந்து வெளியேற்றுங்கள் என்பதே எங்கள் செய்தி என அவர் கார்டியன் அவுஸ்திரேலியாவிற்கு தெரிவித்துள்ளார்.
+The Australian doctor, who is in the only hospital operating in Gaza, has requested the Australian government to evict himself and its team from there and send pharmacies to the hospital.
 
-காசா மனிதாபிமான பொருட்கள் மருத்துவபணியாளர்களை பெறுவதற்காக எல்லையை திறக்குமாறு அழுத்தங்களை கொடுங்கள் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+After bringing the Israeli Rafa border under its control, 16 doctors and medical staff, including Sydney, doctors, Mothar Alberuti, a Sydney, have been deployed at the European Hospital in Khan Unis.
 
-அல்பெருட்டி மே மாதம் முதலாம் திகதி பாலஸ்தீன அமெரிக்க மருத்துவ குழுவுடன் காசாவிற்கு சென்றார்.
+The Guardian has told Australia that it is our message that the Israeli attack is like the killing of an Australian humanitarian employee before us.
+
+He also appealed to Gaza to put pressure on the border to open the humanitarian products.
+
+Alberuti went to Gaza with the Palestinian American medical team on May 1st.
+
+We were planning to leave on the 13th, but on the seventh day, the Israeli soldiers captured Rabba and they were not able to get out of it.
+
+We have completed our work a week ago;The Australian doctor said that our family is worried and we are facing pressure from them.
 
 ...
 
 [Data](articles/32dac093.json)
+
+[Extended Data](ext_articles/32dac093.ext.json)
 
 ---
 
@@ -728,25 +882,31 @@ Additionally, arrangements have been made for 373 personnel who are currently ov
 
 ---
 
-### இராணுவ வாகனம் மோதி யுவதி உயிரிழந்த சம்பவம் ; இராணுவ சிப்பாய் விளக்கமறியலில்
+### The death of a military vehicleIn the army soldier interpretation
 
 *2024-05-21 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184114) · `ta`
 
-யாழ்ப்பாணத்தில் இராணுவ வாகனம் மோதி யுவதி உயிரிழந்த சம்பவம் தொடர்பில் இராணுவ வாகன சாரதியான இராணுவ சிப்பாய் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+A military vehicle crash in Jaffna resulted in the death of a civilian and injuries to two high-ranking military officers. The driver, a soldier, was arrested and remanded pending further investigation.
 
-புத்தூர் - கனகம்புளியடி வீதியில் வீரவாணி சந்தியில் நேற்று திங்கட்கிழமை (20) இராணுவத்தினருக்கு சொந்தமான ஹயஸ் ரக வாகனம் வீதியோரமாக, வீதியை கடக்க துவிச்சக்கர வண்டியுடன் காத்திருந்த யுவதியை மோதி விபத்துக்கு உள்ளானதில் யுவதி உயிரிழந்திருந்தார்.
+🟩
 
-வாதரவத்தை பகுதியைச் சேர்ந்த சுதாகரன் சாருஜா (வயது 23) என்பவரே தனது 23ஆவது பிறந்தநாளான நேற்றையதினம் உயிரிழந்திருந்தார்.
+A military driver has been detained in connection with the death of a military vehicle in Jaffna.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த அச்சுவேலி பொலிஸார் , வாகன சாரதியான இராணுவ சிப்பாயை கைது செய்து விசாரணைகளை முன்னெடுத்திருந்தனர்.
+The woman was killed in a collision with a woman who was waiting for a motorcycle to cross the street on Monday (20).
 
-விசாரணைகளின் பின்னர் இராணுவ சிப்பாயை மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய போது , சிப்பாயை 29ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது
+Sudhakaran Saruja (23 years old) from Vadaravatam was the 23rd birthday.
 
-அதேவேளை, குறித்த வாகனத்தில் இராணுவ உயர் அதிகாரிகள் பயணித்ததாகவும் , அவர்களில் இருவர் காயமடைந்த நிலையில் பலாலி வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+Achchuveli police, who were investigating the incident, arrested a driver's army soldier and carried out investigations.
+
+When the Mallakam Magistrate's Court appeared after the investigation, the soldier was ordered to be remanded until the 29th.
+
+Meanwhile, high -ranking military officers were traveling in the vehicle and two of them were injured and admitted to the Palali hospital for treatment.
 
 ◼️
 
 [Data](articles/c5ec9400.json)
+
+[Extended Data](ext_articles/c5ec9400.ext.json)
 
 ---
 
@@ -790,21 +950,29 @@ Lakugala Police have arrested his friend yesterday (20) to suspect her husband a
 
 ---
 
-### இஸ்ரேல் ஹமாஸ்தலைவர்களிற்கு எதிராக பிடியாணை - வரவேற்கின்றது பிரான்ஸ்
+### Israel welcomes Hamastis
 
 *2024-05-21 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184108) · `ta`
 
-இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு அந்த நாட்டின் பாதுகாப்பு அமைச்சர் ஹமாஸ் தலைவர்களிற்கு எதிராக பிடியாணை பிறப்பிக்கவேண்டும் என ஐசிசியின் வழக்குரைஞர் வேண்டுகோள் விடுத்துள்ளதை பிரான்ஸ் வரவேற்றுள்ளது.
+Israel welcomes Hamas; France backs ICC probe into PM Netanyahu, citing evidence submission. France emphasizes support for ICC's efforts against impunity, criticizes denial of aid in Gaza. This stance contrasts sharply with Western allies' positions.
 
-ஐசிசியின் வழக்குரைஞர் தனது வேண்டுகோளிற்கு ஆதரவாக சமர்ப்பிக்கும்  ஆதாரங்களை ஆராய்ந்த பின்னர் விசாரணைக்கு முந்தைய நீதிமன்றம் இஸ்ரேல் தொடர்பில் தனது முடிவை எடுக்கலாம் என பிரான்சின் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-சர்வதேச குற்றவியல் நீதிமன்றம் அதன் சுதந்திரம் தண்டனையிலிருந்து விலக்களித்தல் ஆகியவற்றிற்கு எதிரான போராட்டம் ஆகியவற்றை பிரான்ஸ் ஆதரிக்கின்றது என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+France has welcomed the ICC's prosecutor's request to issue a war against Israeli Prime Minister Benjamin Netanyaku.
 
-கடந்த பல மாதங்களாக சர்வதேச மனிதாபிமான சட்டங்களை இறுக்கமாக பின்பற்றவேண்டியதன் அவசியத்தை வலியுறுத்தி வந்துள்ளதாக தெரிவித்துள்ள பிரான்ஸ் காசா பள்ளத்தாக்கில் பொதுமக்கள் கொல்லப்பட்டுள்ளதையும் மனிதாபிமான உதவிகள் மறுக்கப்படுவதையும் ஏற்றுக்கொள்ள முடியாது என தெரிவித்துள்ளது.
+French Foreign Ministry said that the previous court could take his decision on Israel after the ICC's lawyer examined the evidence of submitting his request.
 
-...
+The Foreign Ministry has said that France supports the International Criminal Court's fight against its independence and the exemption from punishment.
+
+The French Gaza Valley, which has emphasized the need to tighten international humanitarian laws over the past several months, has said that it is unacceptable to the public and denied humanitarian assistance.
+
+Significantly, there is a huge difference between the position of the other countries of the West and the position of France in the request of the International Criminal Court.
+
+◼️
 
 [Data](articles/7ebd4388.json)
+
+[Extended Data](ext_articles/7ebd4388.ext.json)
 
 ---
 
@@ -910,23 +1078,33 @@ The Minister also addressed India's concerns regarding the visits of Chinese res
 
 ---
 
-### குஜராத்தில் இலங்கையர்கள் என கருதப்படும் ஐஎஸ் சந்தேகநபர்கள் கைதுசெய்யப்பட்ட விவகாரம் -இந்தியாவிடம் மேலதிக விபரங்களை கோரியது இலங்கை
+### Sri Lanka's arrests of IS suspects in Gujarat
 
 *2024-05-21 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184106) · `ta`
 
-ஐஎஸ் அமைப்பபை சேர்ந்தவர்கள் என கருதப்படும் இலங்கையர்கள் நால்வர் இந்தியாவில் கைதுசெய்யப்பட்டுள்ளமை குறித்து இலங்கையின் தேசிய புலனாய்வு பிரிவு உடனடி விசாரணைகளை ஆரம்பித்துள்ளது.
+Sri Lanka's National Intelligence Unit investigates the arrest of four Sri Lankans suspected of being part of the Islamic State (IS) in Ahmedabad, Gujarat. The unit seeks more details from India's intelligence agency. Authorities say the next steps will commence once Indian authorities provide information. The suspects were apprehended at the airport in Gujarat, where they had traveled from Chennai.
 
-ஐஎஸ் அமைப்பை சேர்ந்தவர்கள் என சந்தேகிக்கப்படும்  இலங்கையை சேர்ந்த நால்வர் குஜராத்திற்கு செல்ல முற்பட்டவேளை அஹமதாபாத்தில் கைதுசெய்யப்பட்டமை குறித்தே விசாரணைகள் ஆரம்பமாகியுள்ளன.
+🟩
 
-இந்த சந்தேகநபர்களின் பின்னணி குறித்து விசாரணைகளை மேற்கொள்வதற்காகவும் அவர்கள் உண்மையிலேயே ஐஎஸ் சந்தேகநபர்களா என விசாரணைகளை மேற்கொள்வதற்காகவும்  இந்தியாவின் புலனாய்வு பிரிவினரிடம் இலங்கை புலனாய்வு பிரிவினர் மேலதிக தகவல்களை கோரியுள்ளனர்.
+Sri Lanka's National Intelligence Unit has launched an immediate investigation into the arrest of four Sri Lankans who are considered to belong to the IS.
 
-இந்திய அதிகாரிகள் தகவல்களை வழங்கியதும் உடனடியாக மேலதிக நடவடிக்கைகளிற்கான அடுத்த கட்ட விசாரணைகள் ஆரம்பமாகும் என இலங்கை அதிகாரிகள் தெரிவித்துள்ளனர்.
+Investigations have begun about the arrest of four Sri Lankan Sri Lankan people who are suspected of belonging to the IS organization in Ahmedabad.
 
-கைதுசெய்யப்பட்டுள்ள நால்வரும் சில நாட்களிற்கு முன்னர் கொழும்பிலிருந்து சென்னை சென்று அங்கிருந்து குஜராத் சென்றுள்ளனர்.
+The Sri Lanka Intelligence Unit has sought further information from the India Intelligence Unit to investigate the background of these suspects and to investigate whether they are really IS suspects.
+
+Sri Lankan authorities have said that the next phase of investigations will begin immediately after Indian authorities have provided information.
+
+The four arrested had gone to Gujarat a few days ago from Chennai to Chennai.
+
+Indian officials said they were arrested at the airport while waiting for the person who took responsibility for organizing the next step.
+
+Indian officials said that the police recovered news of the hidden conversations found on their mobile phones.
 
 ...
 
 [Data](articles/eecfd5c1.json)
+
+[Extended Data](ext_articles/eecfd5c1.ext.json)
 
 ---
 
@@ -2109,85 +2287,5 @@ To build an entrepreneurial culture, it is necessary to fundamentally alter tra
 [Data](articles/da0296d2.json)
 
 [Extended Data](ext_articles/da0296d2.ext.json)
-
----
-
-### Flooding Solar Power Plants: 'The Embilipitiya is ruled by the Sustainable Energy Authority, Korean Company?'
-
-*2024-05-21 02:05:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqvvelpl3n1o) · `si`
-
-Embilipitiya's solar power plants, managed by a Korean company under the Sustainable Energy Authority, face complaints from locals about environmental impacts on fishing, farming, and water supply. The Minister of Power mentioned rising construction costs for floating solar stations in Kiriibban Wewa and Wanagala. Despite cabinet approval for financial and technical aid from Korea, the project lacks legal compliance with the National Environmental Act and Land and Agriculture Reforms.
-
-🟩
-
-There is nothing to contain any of these.The people also complained to the Human Rights Commission about the impact that the passide headquarters, fishermen and water consumers.
-
-Flooding Solar Power Plants: 'The Embilipitiya is ruled by the Sustainable Energy Authority, Korean Company?'
-
-The Minister of Powerbook has told his Facebook that the prices of the construction of solar power stations floating float in Kiriibban Wewa and Wanagala, Sevanagala and Sevanagala.
-
-The Cabinet approval has been approved for the financial assistance and technical assistance in Korea.
-
-However, the Lease Agreement has not been carried out by the National Environmental Act and the Lease Agreement is illegal and live in the Land and Agriculture Reforms.
-
-The people also complained to the Human Rights Commission about the impact of fishermen, farmers and water consumers.
-
-◼️
-
-[Data](articles/fcf1edfe.json)
-
-[Extended Data](ext_articles/fcf1edfe.ext.json)
-
----
-
-### ICC prosecutor seeks arrest of Israeli PM Netanyahu and Hamas leader
-
-*2024-05-21 02:03:09* · [`dailyftlk`](https://www.ft.lk/news/ICC-prosecutor-seeks-arrest-of-Israeli-PM-Netanyahu-and-Hamas-leader/56-762037) · `en`
-
-Benjamin Netanyahu (left) and Hamas’s leader in Gaza Yahya Sinwar
-
-The chief prosecutor of the International Criminal Court (ICC) has applied for arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Hamas’s leader in Gaza, Yahya Sinwar, for war crimes.
-
-Karim Khan KC said there were reasonable grounds to believe that both men bore criminal responsibility for war crimes and crimes against humanity from the day of Hamas’s attack on Israel on 7 October onwards.
-
-Israeli defence minister Yoav Gallant and Hamas’s political leader Ismail Haniyeh, along with the group’s military chief Mohammed Deif, are also wanted for arrest.
-
-ICC judges will now decide whether they believe the evidence is sufficient to issue arrest warrants - something which could take weeks or months.
-
-Netanyahu said in a statement that he rejected “with disgust The Hague prosecutor’s comparison between democratic Israel and the mass murderers of Hamas”.
-
-...
-
-[Data](articles/a2ef5221.json)
-
-[Extended Data](ext_articles/a2ef5221.ext.json)
-
----
-
-### Iran declares five days of mourning over demise of President Raisi
-
-*2024-05-21 02:01:24* · [`dailyftlk`](https://www.ft.lk/news/Iran-declares-five-days-of-mourning-over-demise-of-President-Raisi/56-762036) · `en`
-
-BBC: Iran’s Supreme Leader Ayatollah Ali Khamenei yesterday announced five days of mourning following the death of the country’s President, Ebrahim Raisi.
-
-Raisi was killed in a helicopter crash in a mountainous area of north-western Iran, along with Foreign Minister Hossein Amir-Abdollahian.
-
-State media confirmed yesterday they were killed after the helicopter they were travelling in came down on Sunday.
-
-Ayatollah Khamenei said he offered his condolences “to the dear people of Iran”.
-
-Raisi, 63, had been tipped as a potential successor to the supreme leader.
-
-Vice-President Mohammad Mokhber has been appointed to assume interim duties after the death of the President.
-
-Mokhber will work with the heads of Iran’s legislature and judiciary to prepare for a Presidential election within 50 days – a period of time set out in Iran’s constitution for replacing a president who dies in office.
-
-Iran’s cabinet has also appointed Deputy Foreign Minister Ali Bagheri Kani as acting foreign minister.
-
-...
-
-[Data](articles/87302d13.json)
-
-[Extended Data](ext_articles/87302d13.ext.json)
 
 ---

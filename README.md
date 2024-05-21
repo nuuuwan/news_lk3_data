@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 11:33:50**
+As of **2024-05-21 11:53:30**
 
 ## Newspaper Stats
 
-*Scraped **25,377** Articles*
+*Scraped **25,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,220 @@ bbccomsinhala | 256
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
-economynextcom | 1,452
+economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,175
+adalk | 2,176
 adaderanalk | 2,931
-tamilmirrorlk | 2,962
+tamilmirrorlk | 2,966
 virakesarilk | 3,833
-dailymirrorlk | 3,983
-adaderanasinhalalk | 4,057
+dailymirrorlk | 3,986
+adaderanasinhalalk | 4,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,375 (100.0%) of 25,377 articles have been extended.
+25,377 (99.9%) of 25,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### වාහන ආනයනය ගැන ගත් තීරණය
+### Kusal Mendis secures visa to USA after delay
+
+*2024-05-21 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kusal-Mendis-secures-visa-to-USA-after-delay/108-283048) · `en`
+
+May 21 (Daily Mirror) - Sri Lankan cricketer Kusal Mendis, whose visa was delayed for travel to the USA for the T20 World Cup, is finally set to depart after receiving approval for his visa.
+
+Despite the rest of the squad having already left for the USA, Mendis' visa was held up at the US Embassy in Colombo for several days due to incomplete documentation.
+
+The delay was attributed to Mendis' failure to submit several required documents to the embassy.
+
+Earlier, in response to reports that Kusal Mendis' visa was denied, CEO Ashley de Silva said that Mendis' visa was not denied and that he would join the team before the warm-up games.
+
+Sri Lanka is scheduled to play two warm-up matches ahead of the ICC Men’s T20 World Cup 2024, commencing on May 28.
+
+Their first warm-up game against the Netherlands will take place on May 28 at Broward County Stadium in Florida. They will then face Ireland in their second warm-up game on May 31 at the same venue.
+
+◼️
+
+[Data](articles/e2b74700.json)
+
+---
+
+### ඩයනා අධිකරණයට එයි
+
+*2024-05-21 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196854) · `si`
+
+විදේශ ගමන් බලපත්‍ර සිද්ධිය සම්බන්ධයෙන් සැකකාරියක වශයෙන් නම්කර සිටින හිටපු රාජ්‍ය අමත්‍ය ඩයනා ගමගේ මහත්මිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/15491dc0.json)
+
+---
+
+### நீதிமன்றில் ஆஜரானார் டயானா
+
+*2024-05-21 11:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஆஜரானார்-டயானா/175-337627) · `ta`
+
+கொழும்பு பிரதான நீதவான் நீதிமன்றினால் சந்தேக நபராக பெயரிடப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே, நீதிமன்றுக்கு வருகை தந்துள்ளார்.
+
+◼️
+
+[Data](articles/ce7b8c93.json)
+
+---
+
+### Over 15,000 Sri Lanka Army deserters granted amnesty discharges
+
+*2024-05-21 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-15-000-Sri-Lanka-Army-deserters-granted-amnesty-discharges/108-283047) · `en`
+
+Colombo, May 21 (Daily Mirror) - More than 15,000 soldiers who had deserted the Sri Lanka Army have received legal discharges during the month-long amnesty period declared by Sri Lanka’s Ministry of Defence.
+
+The general amnesty was announced from April 20 to May 20, 2024, during which Army absentees were given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centres.
+
+By the end of the amnesty period, a total of 15,667 Army personnel who were absent without leave since December 31, 2023, and earlier, have been temporarily discharged from their Regimental Centres.
+
+The Army also said that among those who received legal discharge, there are 373 army deserters currently abroad and absent without leave.
+
+◼️
+
+[Data](articles/d4a352d9.json)
+
+---
+
+### அமெரிக்கா செல்ல விசாவைப் பெற்றார் குசல்
+
+*2024-05-21 11:16:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-செல்ல-விசாவைப்-பெற்றார்-குசல்/175-337625) · `ta`
+
+இலங்கையின் நட்சத்திர துடுப்பாட்ட வீரர் குசல் மெண்டிஸ் எதிர்வரும் ICC ஆடவர் T20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்கேற்பதற்காக அமெரிக்கா செல்வதற்கான விசாவைப் பெற்றுள்ளார்.
+
+அவர் அடுத்த சில நாட்களில் அமெரிக்கா சென்று இலங்கை அணியில் இணைவார் என எதிர்பார்க்கப்படுகிறது.
+
+இலங்கை தேசிய அணி கடந்த வாரம் அமெரிக்கா சென்றிருந்த போதிலும், குசல் மெண்டிஸுக்கு வீசா கிடைப்பதில் ஏற்பட்ட தாமதம் காரணமாக அவர்களுடன் இணைந்து கொள்ள முடியவில்லை.
+
+அமெரிக்கத் தூதரகத்திற்குத் தேவைப்படும் கூடுதல் தகவல்களால் விசா தாமதமாகியதாகக் கூறப்படுகிறது, ஆனால் கிரிக்கெட் வீரர் விசாவைப் பெற்றதால் அது தீர்க்கப்பட்டது.
+
+ஐசிசி ஆண்கள் கிரிக்கெட் உலகக் கோப்பை ஜூன் 01, 2024 அன்று தொடங்குகிறது, மேலும் அமெரிக்கா மற்றும் மேற்கிந்தியத் தீவுகள் போட்டிகளை இணைந்து நடத்தவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2c6537d6.json)
+
+---
+
+### Decision on import of vehicle
 
 *2024-05-21 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196853) · `si`
 
-රටේ අවශ්‍යතාවය පරිදි ඉදිරියේදී වාහන ආනයනය කිරීමට සූදානම් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced the readiness to resume vehicle imports, citing the country's $5.5 billion reserves. He mentioned discomfort over unresolved issues leading to a halt in 2000, but now aims to allow necessary imports without completely stopping them, emphasizing the importance of aligning with national needs.
 
-රාජ්‍ය අමාත්‍යවරයා මාධ්‍ය වෙත අදහස් දක්වමින් පවසා සිටියේ, වාහන ආනයනය තවදුරටත් වසා තබාගෙන සිටීමට රජය සූදානම් නොමැති බවය.
+🟩
 
-මේ වනවිට මෙරට සංචිත ප්‍රමාණය අමෙරිකානු ඩොලර් බිලයන 5.5ක ප්‍රමාණයක් ඇති බවද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පැවසීය.
+State Minister Ranjith Siyambalapitiya says that the vehicles are ready to import vehicles in the future as well.
+
+The State Minister told the media that the government is not prepared to keep the vehicles.
+
+State Minister Ranjith Siyambalapitiya added that the country's reserves have 5.5 billion US dollars.
+
+"In relation to the importation of vehicles.. Resolve the issue of the country, we have become uncomfortable. So we had to stop imports in two thousand. Nearly 2000 HScads. So we just opened all the other. Now there are only vehicles. Let it be allowed to bring on the need. We have used a program to tourism. With approval of vehicles as needed. What is the message?We don't have to shut this. But we need to take the country back in front of the country. Now we keep a pool of $ 5.5 billion dollars. We are ready to do that, as the needs of the country to suit us. "
+
+◼️
+
+[Data](articles/82ebe063.json)
+
+[Extended Data](ext_articles/82ebe063.ext.json)
+
+---
+
+### Sri Lanka women borrowers trapped by ill-understood loan agreements: UNDP
+
+*2024-05-21 11:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-women-borrowers-trapped-by-ill-understood-loan-agreements-undp-163889/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s household debt has risen during an economic crisis, and less literate female borrowers in particular were hit by loan agreements they had signed without the ability to understand their legal implications UNDP Resident Representative Azusa Kubota said.
+
+A recent multidimensional vulnerability report by the United Nations Development Program in collaboration with the Oxford University found that the lack of financial literacy among borrowers, particularly women-headed households, contribute to their vulnerability.
+
+“Women, often, were forced into signing agreements in a language they did not understand. They did not know their rights or responsibilities, nor the terms of borrowing,” Kubota said, speaking at the launch of the Financial Literacy Roadmap of Sri Lanka.
+
+In the absence of basic financial literacy they were often forced into poor financial decisions, she said.
 
 ...
 
-[Data](articles/82ebe063.json)
+[Data](articles/04c0dace.json)
+
+---
+
+### ”ரைசியின் மறைவு ஈடுசெய்ய முடியாத இழப்பாகும்”
+
+*2024-05-21 11:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரைசியின்-மறைவு-ஈடுசெய்ய-முடியாத-இழப்பாகும்/175-337623) · `ta`
+
+ஹெலிகொப்டர் விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் ஹொசைன் அமீர்-அப்துல்லாஹியன் மற்றும் பிற ஈரானிய அதிகாரிகளின் சோகமான மறைவுக்கு தேசிய மக்கள் சக்தி (NPP) தனது இரங்கலைத் தெரிவித்துள்ளது.
+
+"இந்த கடினமான நேரத்தில் எங்கள் எண்ணங்களும் பிரார்த்தனைகளும் இறந்தவர்களின் குடும்பங்கள் மற்றும் நண்பர்களுடனும், ஈரான் முழு நாட்டுடனும் உள்ளன” என  NPP ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+
+ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவு ஈரான் மற்றும் மத்திய கிழக்கு மக்களுக்கு மட்டுமன்றி உலக சமூகத்திற்கும் ஈடுசெய்ய முடியாத இழப்பாகும் என NPP மேலும் தெரிவித்துள்ளது.
+
+இலங்கை உட்பட பல நாடுகளுடன் நட்புறவு மற்றும் மேலாதிக்கம் அல்லாத உறவுகளை வலுப்படுத்துவதற்கு ஜனாதிபதி ரைசி அயராது உழைத்தார்.
+
+ஈரானிய மக்களின் நிதியுதவியுடன் கூடிய நீர்மின் திட்டமொன்றை ஆரம்பித்து வைப்பதற்காக அவர் அண்மையில் இலங்கைக்கு விஜயம் செய்தமை, சர்வதேச ஒத்துழைப்பு மற்றும் நிலையான அபிவிருத்திக்கான அவரது அசைக்க முடியாத அர்ப்பணிப்புக்கான சான்றாக அமைந்துள்ளது.
+
+...
+
+[Data](articles/4b615d26.json)
+
+---
+
+### ”இந்தியாவிற்கு தீங்கு விளைவிக்க அனுமதிக்க மாட்டோம்”
+
+*2024-05-21 11:01:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிற்கு-தீங்கு-விளைவிக்க-அனுமதிக்க-மாட்டோம்/175-337621) · `ta`
+
+இந்தியாவின் தேசிய பாதுகாப்பு நலன்களைப் பாதுகாப்பதில் தனது நாட்டின் உறுதிப்பாட்டை இலங்கை வெளியுறவு அமைச்சர் அலி சப்ரி உறுதிப்படுத்தினார், பொறுப்பான அண்டை நாடான இலங்கை, இந்தியாவின் பாதுகாப்பிற்கு தீங்கு விளைவிக்க யாரையும் அனுமதிக்காது என்று கூறினார்.
+
+சீன ஆராய்ச்சிக் கப்பல்கள் தீவு நாட்டிற்குச் செல்வது தொடர்பான இந்தியாவின் கவலைகளையும் அமைச்சர் வெளிப்படுத்தினார், அவர்கள் மற்ற நாடுகளுடன் வெளிப்படையான முறையில் பணியாற்ற விரும்புகிறார்கள்  எனவும், ஆனால் அது பிற நாடுகளைப் பணயம் வைத்து அல்ல எனவும் தெரிவித்தார்.
+
+"நாங்கள் அனைத்து நாடுகளுடனும் இணைந்து பணியாற்ற விரும்புகிறோம் என்று நாங்கள் மிகத் தெளிவாகக் கூறியுள்ளோம், ஆனால் இந்திய பாதுகாப்பு தொடர்பான நியாயமான கவலைகள் கவனத்தில் கொள்ளப்படும், மேலும் யாருக்கும் தீங்கு விளைவிக்க நாங்கள் அனுமதிக்க மாட்டோம். அதற்கு உட்பட்டு, நிச்சயமாக, மிகவும் வெளிப்படையாக அனைத்து நாடுகளுடனும் இணைந்து பணியாற்ற விரும்புகிறோம்,” என்று அமைச்சர் ஏஎன்ஐக்கு அளித்த பேட்டியில் கூறினார்.
+
+...
+
+[Data](articles/d3786444.json)
+
+---
+
+### වහලය කඩා වැටී දරුවන් 25 දෙනෙකුගේ ජීවිත අනතුරකට ලක් වීමට පෙර
+
+*2024-05-21 11:00:50* · [`adalk`](https://www.ada.lk/breaking_news/වහලය-කඩා-වැටී-දරුවන්-25-දෙනෙකුගේ-ජීවිත-අනතුරකට-ලක්-වීමට-පෙර/11-409757) · `si`
+
+අනුරාධපුර දිස්ත්‍රික්කයේ , තලාව ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ එප්පාවල, සඳරැස්ගම පුබුදු පෙර පාසලේ වහලය කඩා වැටීමට ආසන්නයේ පවතින බැවින් තම දරුවන් තම දරුවන්ගේ ජීවිත දැඩි අවධානමකට ලක්ව පවතින බව එම පෙරපාසලේ දරුවන්ගේ දෙමාපියන් පවසති.
+
+වසර 50 කට පමණ ඉහතදී මහවැලි අධිකාරීය මගින් ප්‍රදේශයේ දරුවන්ගේ පූර්ව ළමා විය සංවර්ධනය වෙනුවෙන් මෙම පෙර පාසල් ගොඩනැගිල්ල ඉදි කර ඇති අතර, එදා සිට මේ දක්වා මෙම ගොඩනැගිල්ලේ කිසිදු ප්‍රථිසංස්කරණය සිදු වී නොමැති බවට දෙමාපියන් පවසති.
+
+පෙර පාසල් පාලිකාවක විසින් ප්‍රදේශයේ දරුවන් 25 කට මූලික අධ්‍යාපනය මෙම පෙර පාසල තුළ ලබා දෙන්නේ ජල හා විදුලි යන මූලික පහසුකම්ද නොමැතිවයි.
+
+මෙම පෙර පාසල් ගොඩනැගිල්ලේ වහළයේ පරාල හා රීප්ප  දිරාපත් වී, බිත්ති ඉරි තැලී, දොර ජනෙල්ද කැඩී බිදී ගොස් තිබූ මෙම පෙර පාසල් ගොඩනැගිල්ලේ  මේ දින වල ඇදහැලෙන ධාරාණිපාත වර්ෂාවත් සමඟ උළු සෙවිලි කළ වහලය කඩා වැටීමේ අවධානමකට ලක්ව ඇති බවද ඔවුන් පෙන්වා දෙති.
+
+...
+
+[Data](articles/54af27e5.json)
+
+---
+
+### CB has enough dollars to prevent rising dollar value
+
+*2024-05-21 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-has-enough-dollars-to-prevent-rising-dollar-value/108-283046) · `en`
+
+Colombo, May 21 (Daily Mirror) - The value of the US dollar and the Sri Lanka Rupee is determined by the supply and demand. If the value of the dollar rises significantly, the Central Bank of Sri Lanka (CBSL) has sufficient dollars to control it, Finance State Minister Ranjith Siambalapitiya said.
+
+The Minister made this statement to the media after a programme held in Dehiowita yesterday.
+
+The value of the US dollar is rising rapidly due to several foreign banks operating in the country buying US dollars from the financial market and the Central Bank of Sri Lanka from the banking system.
+
+Due to the continuous release of dollars to the financial market in the previous years  to keep the value of the US dollar at the limit of Rs. 200, our dollar reserves were exhausted. Also, after allowing the dollar and the rupee to float, the value of a dollar suddenly increased to Rs. 380.
+
+...
+
+[Data](articles/e3f96756.json)
 
 ---
 
@@ -65,6 +247,8 @@ Additionally, arrangements have been made for 373 personnel who are currently ov
 ◼️
 
 [Data](articles/8e26a34f.json)
+
+[Extended Data](ext_articles/8e26a34f.ext.json)
 
 ---
 
@@ -207,6 +391,28 @@ The Minister also addressed India's concerns regarding the visits of Chinese res
 [Data](articles/923f82ce.json)
 
 [Extended Data](ext_articles/923f82ce.ext.json)
+
+---
+
+### Sri Lanka rupee opens broadly stable at 299.65/85 to US dollar
+
+*2024-05-21 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-299-65-85-to-us-dollar-163869/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened broadly stable at 299.65/85 to the US dollar on Friday, from 299.60/75 the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 was quoted down at 10.10/25 percent from 10.15/35 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.35/50 percent from 10.45/55 percent.
+
+A bond maturing on 01.07.2028 was quoted down at 10.70/80 percent from 10.80/90 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.65/70 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was down 0.07 percent at 12,244, the S&P SL20 was up 0.02 percent at 3,613. (Colombo/May21/2024)
+
+◼️
+
+[Data](articles/f53bb8f0.json)
 
 ---
 
@@ -487,6 +693,26 @@ The convener of the UPFA Ravi Kudmith said the strike is being implemented for f
 [Data](articles/f50628ee.json)
 
 [Extended Data](ext_articles/f50628ee.ext.json)
+
+---
+
+### Who will Sri Lanka’s macro-economists and IMF elect in the next polls?
+
+*2024-05-21 08:33:00* · [`economynextcom`](https://economynext.com/who-will-sri-lankas-macro-economists-and-imf-elect-in-the-next-polls-163857/) · `en`
+
+ECONOMYNEXT – The outstanding achievement of inflationist macro-economists in Sri Lanka and elsewehere is their ability to elect a new government, usually socialists or nationalists if liberals were in power, after driving countries into currency crises or asset bubbles after cutting rates for ‘growth’.
+
+Stabilization programs, despite greater inflation and more hardships being stopped, provide fertile ground for fringe elements to come to power even as economies start to recover.
+
+No liberal government, with free trading aspirations, can now survive in a country where forex shortages are created by spurious economic doctrines founded on statistics, backed by the International Monetary Fund more often than not.
+
+Sri Lanka’s post-independence currency troubles emerged soon after the central bank was set up in 1950.
+
+At the time Fed was firing a commodity bubble, by purchasing Liberty bonds (in what would now be called yield curve targeting) pushing up Sri Lanka’s export prices until 1951.
+
+...
+
+[Data](articles/f220b834.json)
 
 ---
 
@@ -801,6 +1027,28 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/f391695e.json)
 
 [Extended Data](ext_articles/f391695e.ext.json)
+
+---
+
+### Sri Lanka expects talks with bondholders ‘very soon’: Minister
+
+*2024-05-21 05:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-talks-with-bondholders-very-soon-minister-163835/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting a second around of talks with private investors ‘very soon’ to restructure sovereign bonds State Minister for Finance Shehan Semasinghe said without giving a date.
+
+Sri Lanka is planning to complete debt restructuring by June 2024 and go the IMF board for the next round.
+
+“I cannot specify a timeline, but we are confident and optimistic that a second round of talks will commence very soon,” Minister Semasinghe told reporters in Colombo.
+
+The bondholders have proposed restructurings bond linked to dollar GDP growth.
+
+They have also proposed a 500 to 1,000 billion dollar governance linked bond where coupons will fall if anti-corruption benchmarks and revenue targets in an International Monetary Fund program is met, following an initiative proposed by Colombo-based Verete Research at the first round of face-to-face talks.
+
+Sri Lanka has about 12 billion dollars of sovereign bonds to restructure and some more missed coupons.
+
+...
+
+[Data](articles/821674d7.json)
 
 ---
 
@@ -1897,299 +2145,5 @@ A total of 236 children were presented shoes and school bags at these schools by
 [Data](articles/ade5b8db.json)
 
 [Extended Data](ext_articles/ade5b8db.ext.json)
-
----
-
-### Softlogic Life grows 20% in 1Q 2024, posts 7.2bn GWP
-
-*2024-05-20 22:19:00* · [`islandlk`](http://island.lk/softlogic-life-grows-20-in-1q-2024-posts-7-2bn-gwp/) · `en`
-
-Softlogic Life recorded another quarter of robust financial performance in a challenging business environment, posting Gross Written Premium (GWP) of Rs. 7.2 billion during the first three months ending 31st March (1QFY24). The top-line growth is an increase of 20% compared to 3% during the corresponding period of last year.
-
-The burdens heaped on customers amidst numerous economic difficulties have been alleviated somewhat due to having purchased insurance where Softlogic Life has steadfastly supported its policyholders during Q1 as well, demonstrating an unwavering commitment to meeting all obligations whilst also seeking to enhance customer benefits. The Company has demonstrated its full commitment to policyholders by paying out claims and benefits of Rs. 3.4 billion for the quarter, continuing from Rs. 12.8 billion that was paid during 2023, underscoring Softlogic Life’s resolve to uphold its said promise to all policyholders.
-
-...
-
-[Data](articles/088fd182.json)
-
-[Extended Data](ext_articles/088fd182.ext.json)
-
----
-
-### Man shot dead in Kalutara
-
-*2024-05-20 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-dead-in-Kalutara/108-282988) · `en`
-
-Kalutara, May 20 (Daily Mirror) - An individual was shot dead by two unidentified men who arrived on a motorcycle at Katukurunda in Kalutara.
-
-Police said the victim was shot at with a T-56 assault rifle while he was at home.
-
-◼️
-
-[Data](articles/ef5a8e0a.json)
-
-[Extended Data](ext_articles/ef5a8e0a.ext.json)
-
----
-
-### Silver to Sri Lanka in the Asian Mixed City 4 x 400m Series
-
-*2024-05-20 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184083) · `ta`
-
-Sri Lanka secured silver in the 4x400m mixed ethnic event at the Angarasa Asian Series Championships, finishing in 3:17.00. The team included Aruna Darshana, Sayuri Mendis, Pasinda Kodikara, and Nadisha Ramanayake. Kalinga Kumara, who placed 2nd in the men's 400m in Japan, also competed. India set a new national record, winning gold in 3:14.12.
-
-🟩
-
-Sri Lanka won the silver medal in the 4 x 400 -mixed ethnic group at the Angarasa Asian Series Championships, which began on Monday (20) in Bangladesh, Thailand.
-
-The Sri Lankan team finished second in 3 minutes 17.00 seconds.
-
-Aruna Darshana, Sayuri Mendis, Pasinda Kodikara and Nadisha Ramanayake participated in the silver medalist Sri Lanka's mixed ethnic series.
-
-Kalinga Kumara, who was ranked 2nd in the men's 400 -meter run at the Seeko Golden Chron Breen Competition held on Sunday in Japan, Japan, Japan.. He replaced him and participated in the flag.
-
-The Indian team renewed the national record for the country and won the gold medal in 3 minutes 14.12 seconds.
-
-In this case, the Sri Lankan team will take part in Tuesday in the men's 4O 100 Mitter and 4 O 400 Mitual Series and the 4O 400m Series for the Women.
-
-4 x 100 m. Men: Kavindu Sathuranga, Dineet Hindu, Samod Yodasinghe, Sanuku Dharmakirthi (Answer - H. Kamlath, Dineth Senanayake.
-
-...
-
-[Data](articles/f53c6771.json)
-
-[Extended Data](ext_articles/f53c6771.ext.json)
-
----
-
-### Share market dogged by dullness as parliament dissolution worries persist
-
-*2024-05-20 22:08:00* · [`islandlk`](http://island.lk/share-market-dogged-by-dullness-as-parliament-dissolution-worries-persist/) · `en`
-
-The stock market yesterday indicated some selling pressure, due to the absence of micro and macro- economic factors to boost it. These factors accounted for the market remaining dull the whole day, market analysts explained.
-
-Apparently, worries mainly over the dissolution of Parliament for the conduct of an election soon compounded the market’s selling pressure.
-
-Amid those developments both indices moved downwards. The All Share Price Index went down by 75.73 points while S and P SL 20 declined by 24.54 points. Turnover stood at Rs 1 billion with one crossing. The crossing was reported in Sampath Bank, which crossed 1 million shares to the tune of Rs 78 million; its shares traded at Rs 78.
-
-...
-
-[Data](articles/a9941050.json)
-
-[Extended Data](ext_articles/a9941050.ext.json)
-
----
-
-### When the police arrive, the parchment will end from death
-
-*2024-05-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196838) · `si`
-
-In Hirikipitiya, Homagama, a 19-year-old fell, injuring herself on iron rods. She was treated at Homagama Base Hospital after her mother reported an attempted drug overdose. The suspects, including the husband of the complainant, were arrested and await medical examination before court proceedings.
-
-🟩
-
-When a young woman used in a house in Hirikipitiya, Homagama, had fallen on the wall when a young girl visiting the house of the house.
-
-The iron sticks in the wall were seriously injured and treated at the Homagama Base Hospital.
-
-The victim was a 19 year old resident of Padukka, Padukka, Bopay, Kudapadeniya.
-
-The wife of a person in the Hiripitiya Bowahala, Homagama, had lodged a complaint with the police to drink ice drugs.
-
-According to the complaint, the 19-year-old girl who was a 19-year-old girl who was trying to go to the place and tried to escape.
-
-The complainant woman's husband and his friend have been arrested by the police.
-
-They are to be tabled in the Homagama Judicial Medical Officer and submit to Homagama courts with its report.
-
-◼️
-
-[Data](articles/e01ebc59.json)
-
-[Extended Data](ext_articles/e01ebc59.ext.json)
-
----
-
-### One person shot dead in Katukurunda
-
-*2024-05-20 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99346/one-person-shot-dead-in-katukurunda) · `en`
-
-A 38-year-old man has been shot and killed at his residence on Station Road in Katukurunda, Kalutara.
-
-Police said the shooting had been carried out by two gunmen who had arrived on a motorcycle this evening (20).
-
-A assailants had reportedly used a T-56 assault rifle to carry out the shooting.
-
-Meanwhile it is also reported that a 7-year-old girl, the daughter of the deceased, has also been injured in the shooting and is currently receiving treatment.
-
-The deceased, a father of three, was having dinner at home with his three children when the gunmen had entered the house and opened fire before fleeing.
-
-◼️
-
-[Data](articles/d95ce300.json)
-
-[Extended Data](ext_articles/d95ce300.ext.json)
-
----
-
-### Electricity is blocked in many parts of the country due to inclement weather!
-
-*2024-05-20 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184088) · `ta`
-
-Due to bad weather, electricity is cut off across several regions. The Electricity Board is working to restore power.
-
-🟩
-
-Electricity has been blocked in many parts of the country due to inclement weather, the Electricity Board said.
-
-The announcement also stated that steps are being taken to re -distribute the electricity that has been blocked in these areas.
-
-◼️
-
-[Data](articles/2d4c5614.json)
-
-[Extended Data](ext_articles/2d4c5614.ext.json)
-
----
-
-### Kalutara shooting
-
-*2024-05-20 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196837) · `si`
-
-In Kalutara, Katukurunda Railway area, one person was fatally shot with a T-56 firearm.
-
-🟩
-
-One person was killed in a shooting in Kalutara, Katukurunda Railway area.
-
-A person in the house was shot dead by a T-56 firearm.
-
-◼️
-
-[Data](articles/27bdb236.json)
-
-[Extended Data](ext_articles/27bdb236.ext.json)
-
----
-
-### ‘Economic Transformation Bill ‘ and ‘Public Financial Management Bill’ to Parliament on May 22 – Acting Finance Minister Shehan Semasinghe
-
-*2024-05-20 21:36:00* · [`islandlk`](http://island.lk/economic-transformation-bill-and-public-financial-management-bill-to-parliament-on-may-22-acting-finance-minister-shehan-semasinghe/) · `en`
-
-Acting Finance Minister Shehan Semasinghe announced plans to introduce two significant bills to Parliament on May 22, aimed at bolstering the country’s economy.
-
-These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns.
-
-Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre today (20), themed ‘Collective path to a stable country’.
-
-Related Topics:‘Collective path to a stable country’. Acting Finance Minister“Economic Transformation Bill”“Public Financial Management Bill”
-
-President highlights Global North’s failure in Climate Change Financing at 10th World Water Forum
-
-A program aimed to instill mindfulness in the current generation held at Independence Square in Colombo
-
-President Wickremesinghe receives warm welcome at Gusti Ngurah Rai International Airport in Bali
-
-...
-
-[Data](articles/1b9db6b0.json)
-
-[Extended Data](ext_articles/1b9db6b0.ext.json)
-
----
-
-### Tomorrow is a day of sadness to sympathize with Iranian President
-
-*2024-05-20 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184087) · `ta`
-
-Iran mourns as President Ibrahim Raisi declares a day of sorrow on the 21st due to an airplane tragedy and untimely loss.
-
-🟩
-
-Iranian President Ibrahim Raisi has been declared a mourning day on the 21st of this month following the death of an airplane crash and the death of the premature death.
-
-◼️
-
-[Data](articles/6ea347ea.json)
-
-[Extended Data](ext_articles/6ea347ea.ext.json)
-
----
-
-### Sri Lanka declares day of mourning after Iranian President Raisi’s death
-
-*2024-05-20 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99345/sri-lanka-declares-day-of-mourning-after-iranian-president-raisis-death) · `en`
-
-The Government of Sri Lanka has declared tomorrow (21 May) as a day of mourning in view of the death of Iranian President Ebrahim Raisi.
-
-Accordingly, the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Mr. Pradeep Yasaratne has informed that the National Flag be placed half-mast at all state institutions on Tuesday (21).
-
-Iranian President Ebrahim Raeisi and Foreign Minister Hossein Amir-Abdollahian were killed in a helicopter crash in the northwestern province of East Azarbaijan.
-
-The helicopter carrying President Raeisi and his accompanying delegation crashed on Sunday in the Dizmar forest, nestled between the cities of Varzaqan and Jolfa in East Azarbaijan Province.
-
-President Raeisi and his accompanying delegation were returning from a ceremony to inaugurate a dam on the Aras River with Azerbaijan’s President Ilham Aliyev.
-
-...
-
-[Data](articles/c28d45b6.json)
-
-[Extended Data](ext_articles/c28d45b6.ext.json)
-
----
-
-### Declared as a day of mourning tomorrow
-
-*2024-05-20 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196836) · `si`
-
-Sri Lanka declares a day of mourning tomorrow (21) for the death of Iran's President. The National Flag will fly at half-staff across all government institutions.
-
-🟩
-
-The Government of Sri Lanka has declared a mourning tomorrow (21).
-
-The Ministry of Public Administration has confirmed that the decision was taken for the death of Iranian President.
-
-Accordingly, the Secretary to the Ministry of Public Administration Pradeep Yasaratne said that he has instructed the National Flag of all government institutions tomorrow.
-
-◼️
-
-[Data](articles/a8c37a23.json)
-
-[Extended Data](ext_articles/a8c37a23.ext.json)
-
----
-
-### Ranil and Mahinda's notes for Iranian President
-
-*2024-05-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196835) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe expressed deep shock over the death of Iran's President, joined by Prime Minister Dinesh Gunawardena and Speaker Mahinda Yapa Abeywardena. Former President Mahinda Rajapaksa echoed the sentiment, promising to remember the deceased at the Iranian embassy. World leaders, including Palestine, Yemen, and Hezbollah, condemned the loss, with several nations declaring national mourning periods.
-
-🟩
-
-President Ranil Wickremesinghe has expressed his condolences to a note of the death of the President Iran.
-
-The President has said that Sri Lanka was deeply shocked and grieved by the tragic death.
-
-Prime Minister Dinesh Gunawardena has said that he is deeply worried about the incident.
-
-Speaker Mahinda Yapa Abeywardena also visited the Iranian embassy in Sri Lanka.
-
-Meanwhile, former President Mahinda Rajapaksa has said that he was shocked with this death.
-
-The former President said that President of Sri Lanka would be remembered to be remembered to the Iranian embassy in Sri Lanka.
-
-World leaders also condemned the demise of the Iranian president.
-
-The support of the Iran has been supported by the Palestine, Yemen, Hamas, Hamas, Hamas, Hesbuullah in Yemen and Lebanullah has issued the grief of Rising.
-
-The countries like Iranian Syria and Lebanon have also declared national mourning period in connection with Dr. Raesi.
-
-◼️
-
-[Data](articles/9f17e40b.json)
-
-[Extended Data](ext_articles/9f17e40b.ext.json)
 
 ---

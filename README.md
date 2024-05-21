@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 19:52:04**
+As of **2024-05-21 20:03:46**
 
 ## Newspaper Stats
 
-*Scraped **25,503** Articles*
+*Scraped **25,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,36 @@ adalk | 2,187
 adaderanalk | 2,944
 tamilmirrorlk | 2,978
 virakesarilk | 3,856
-dailymirrorlk | 4,007
+dailymirrorlk | 4,008
 adaderanasinhalalk | 4,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,500 (100.0%) of 25,503 articles have been extended.
+25,503 (100.0%) of 25,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### புத்தளம் மாவட்ட பாடசாலைகளை திறக்க நடவடிக்கை
+### Action to open Puttalam District Schools
 
 *2024-05-21 19:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்ட-பாடசாலைகளை-திறக்க-நடவடிக்கை/175-337662) · `ta`
 
-கடும் மழையுடன் கூடிய சீரற்ற வானிலை காரணமாக கடந்த இரு தினங்களாக மூடப்பட்டிருந்த புத்தளம் மாவட்ட பாடசாலைகள் நாளை (22) திறக்கப்படவுள்ளன.
+Puttalam district schools, closed due to heavy rains, will reopen tomorrow. However, local education directors may still assess conditions before deciding to open schools.
 
-எனினும், நிலவுகின்ற வானிலையை கருத்தில் கொண்டு பாடசாலைகளை திறப்பது குறித்து வலய கல்வி பணிப்பாளர்கள் தீர்மானிக்க முடியும் என வடமேல் மாகாண கல்வி பணிப்பாளர் தெரிவித்துள்ளார்.  R
+🟩
+
+Puttalam district schools, which have been closed for the past two days, will be opened tomorrow (22) due to heavy rains.
+
+However, the Director of Education of the North Western Province said that Zonal Education Directors can decide on the opening of schools in view of the prevailing weather.R
 
 ◼️
 
 [Data](articles/746acbf6.json)
+
+[Extended Data](ext_articles/746acbf6.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ However, Galle Marvels raised the stakes and took it to USD 100,000 straightaway
 ...
 
 [Data](articles/8b72742a.json)
+
+[Extended Data](ext_articles/8b72742a.ext.json)
 
 ---
 
@@ -100,6 +108,8 @@ All schools in the Puttalam District had remained closed yesterday and today (21
 
 [Data](articles/a6e2bff0.json)
 
+[Extended Data](ext_articles/a6e2bff0.ext.json)
+
 ---
 
 ### Schools in Puttalam to be opened tomorrow
@@ -121,6 +131,20 @@ Are schools open in the affected areas?Not?Authorities says that the directors o
 [Data](articles/8c45fa03.json)
 
 [Extended Data](ext_articles/8c45fa03.ext.json)
+
+---
+
+### Adverse weather affects daily chores
+
+*2024-05-21 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adverse-weather-affects-daily-chores/110-283059) · `en`
+
+People engaged in their daily chores have been affected by the adverse weather. Depicted here are individuals working in Pettah suffering due to the adverse conditions as several roads in the Fort area experienced minor flooding. Pix by Nisal Baduge and Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/277b24d0.json)
+
+[Extended Data](ext_articles/277b24d0.ext.json)
 
 ---
 
@@ -330,11 +354,39 @@ Singapore's Transport Minister Chee Hong Tat said the government would provide a
 
 Colombo, May 21 (Daily Mirror) - Chongqing Airlines will resume operations between Chongqing, China and Colombo from June 24, the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said.
 
+The airline last operated in February 2020 anda ceased operations due to the global pandemic.
+
 ◼️
 
 [Data](articles/3833afc1.json)
 
 [Extended Data](ext_articles/3833afc1.ext.json)
+
+---
+
+### One dead as London-Singapore flight hit by turbulence
+
+*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/One-dead-as-London-Singapore-flight-hit-by-turbulence/107-283071) · `en`
+
+May 21 (BBC)- One person has been killed and several others injured on a Singapore Airlines flight from London that was hit by severe turbulence.
+
+The Singapore-bound Boeing 777-300ER was diverted to Bangkok and landed at 15:45 local (08:45 GMT).
+
+Flight SQ 321 was carrying a total of 211 passengers and 18 crew, the airline said in a statement.
+
+"Singapore Airlines offers its deepest condolences to the family of the deceased," it said.
+
+The airline added that it was working with Thai authorities to provide medical assistance to passengers, and was sending a team to Bangkok to provide any additional help needed.
+
+Thai authorities have despatched ambulances and emergency teams to Suvarnabhumi Airport.
+
+Singapore's Transport Minister Chee Hong Tat said the government would provide assistance to the passengers and their families.
+
+"I am deeply saddened to learn about the incident onboard Singapore Airlines flight SQ321 from London Heathrow to Singapore," he posted in a statement on Facebook.
+
+...
+
+[Data](articles/919df7f8.json)
 
 ---
 
@@ -1354,20 +1406,6 @@ The CID had commenced investigations into this incident subsequent to a complain
 
 ---
 
-### Black flags at Iranian Cultural Centre
-
-*2024-05-21 14:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Black-flags-at-Iranian-Cultural-Centre/110-283062) · `en`
-
-Black flags were displayed at the Iranian Cultural Centre in Colombo mourning the death of Iranian President Ebrahim Raisi. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/ccf00816.json)
-
-[Extended Data](ext_articles/ccf00816.ext.json)
-
----
-
 ### Bad weather uproots trees in Colombo
 
 *2024-05-21 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Bad-weather-uproots-trees-in-Colombo/110-283063) · `en`
@@ -1427,20 +1465,6 @@ Flags at half mast after Sri Lanka declared today as a day of mourning in view o
 [Data](articles/cca26ad6.json)
 
 [Extended Data](ext_articles/cca26ad6.ext.json)
-
----
-
-### Adverse weather affects daily chores
-
-*2024-05-21 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adverse-weather-affects-daily-chores/110-283059) · `en`
-
-People engaged in their daily chores have been affected by the adverse weather. Depicted here are individuals working in Pettah suffering due to the adverse conditions as several roads in the Fort area experienced minor flooding. Pix by Nisal Baduge and Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/277b24d0.json)
-
-[Extended Data](ext_articles/277b24d0.ext.json)
 
 ---
 
@@ -1811,6 +1835,20 @@ The Russian Embassy has also questioned what prevents them from exploring the op
 [Data](articles/6e3ce005.json)
 
 [Extended Data](ext_articles/6e3ce005.ext.json)
+
+---
+
+### Black flags at Iranian Cultural Centre
+
+*2024-05-21 13:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Black-flags-at-Iranian-Cultural-Centre/110-283062) · `en`
+
+Black flags were displayed at the Iranian Cultural Centre in Colombo mourning the death of Iranian President Ebrahim Raisi. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/ccf00816.json)
+
+[Extended Data](ext_articles/ccf00816.ext.json)
 
 ---
 
@@ -2255,27 +2293,5 @@ At the same time, the police have been asked to look at the suspicious passenger
 [Data](articles/59ff1617.json)
 
 [Extended Data](ext_articles/59ff1617.ext.json)
-
----
-
-### Traffic is blocked
-
-*2024-05-21 11:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-போக்குவரத்து-தடை/175-337628) · `ta`
-
-Heavy rains flood Colombo-Puttalam railway, limiting train services.
-
-🟩
-
-Due to heavy rains in many parts of the country, the Colombo -Puttalam railway area has been flooded.
-
-Accordingly, a top official of the Department said that the train service from Colombo to Puttalam has been limited on Tuesday morning.
-
-The Colombo -Puttalam Railway is currently operating four trains from Colombo to Puttalam and four trains from Puttalam to Colombo.
-
-◼️
-
-[Data](articles/03bb1131.json)
-
-[Extended Data](ext_articles/03bb1131.ext.json)
 
 ---

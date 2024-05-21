@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 12:06:06**
+As of **2024-05-21 12:33:51**
 
 ## Newspaper Stats
 
-*Scraped **25,393** Articles*
+*Scraped **25,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,152 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,176
-adaderanalk | 2,931
+adalk | 2,178
+adaderanalk | 2,932
 tamilmirrorlk | 2,968
 virakesarilk | 3,833
-dailymirrorlk | 3,986
-adaderanasinhalalk | 4,058
+dailymirrorlk | 3,987
+adaderanasinhalalk | 4,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,377 (99.9%) of 25,393 articles have been extended.
+25,390 (100.0%) of 25,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ரயில் போக்குவரத்து தடை
+### කොළඹ ප්‍රධාන පාසලක් අසල ගසක් කඩා වැටෙයි
+
+*2024-05-21 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196859) · `si`
+
+බොරැල්ල දේවි බාලිකා විද්‍යාලය අසල තිබූ විශාල ගසක් කඩා වැටීමෙන් මාර්ගය අවහිර වී තිබේ.
+
+අද (21) උදෑසන මෙම ගස කඩා වැටී ඇති අතර, ඒත් සමග මාර්ගය අවහිර වීමෙන් වාහන තදබදයක් ද ඇති වූ බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/5a1f1a32.json)
+
+---
+
+### 2024 LPL ක්‍රීඩක වෙන්දේසිය (සජීව විකාශය)
+
+*2024-05-21 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196858) · `si`
+
+2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/f103b4c8.json)
+
+---
+
+### අධිකරණයට ඉදිරිපත් වූ ඩයනා ට ඇප
+
+*2024-05-21 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196856) · `si`
+
+අධිකරණයට ඉදිරිපත් වු හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ ඇප මත මුදාහරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+සියලු පාර්ශව ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා මෙම නියෝගය නිකුත් කළේය.
+
+මෙම මෝසම කැදවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් අධිකරණයේ පෙනී සිටියේ නෑ.
+
+ශ්‍රී ලංකා පුරවැසි භාවය නොමැතිව අසත්‍ය තොරතුරු ඉදිරිපත් කර විදේශ ගමන් බලපත්‍ර ලබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකකාරියක ලෙස නම් කර සිටින ඩයනා ගමගේ මහත්මිය සිය නීතිඥ වරු මාර්ගයෙන් අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/8f2f3221.json)
+
+---
+
+### Former state minister Diana Gamage appears before court
+
+*2024-05-21 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99354/former-state-minister-diana-gamage-appears-before-court) · `en`
+
+Former State Minister Diana Gamage has arrived at the Colombo Magistrate’s Court over accusations of obtaining a passport by submitting false information, says Ada Derana reporter.
+
+◼️
+
+[Data](articles/43966717.json)
+
+---
+
+### ඩයනා නීතිඥයන් සමග පැමිණ අධිකරණයට බාර වෙයි
+
+*2024-05-21 11:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නීතිඥයන්-සමග-පැමිණ-අධිකරණයට-බාර-වෙයි/11-409759) · `si`
+
+හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය තම නීතිඥයන් සමග පැමිණ කොටුව මහේස්ත්‍රාත් අධිකරණයට භාර වී  මෝසමක් ඉදිරිපත් කර ඇත. ඇයගේ නීතිඥවරුන් සඳහන් කරන්නේ ඇය කිසිවිටක සැඟවී පළා නොගිය බවත් ඇය පොලිසිය සොයන බව මාධ්‍ය විසින් දුටු නිසා අධිකරණයට පැමිණි බවය.
+
+අසත්‍ය තොරතුරු ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිදුවීමට අදාළ සැකකාරියක ලෙස ඇය නම් කරමින් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව මේ බව අධිකරණය හමුවේ දැනුම් දී තිබුණි. කෙසේ වෙතත් ඊයේ දිනයේ ඇය පදිංචි ස්ථානයන් වෙත ගියද සැකකාරිය නොසිටි බවද ඔවුන් අධිකරණය දැනුම් දී  තිබුණි.
+
+මේ වන විටත් ඩයනා ගමගේ මහත්මියට විදේශ ගතවීම තහනම් කරමින් නියෝගයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/c757bdb9.json)
+
+---
+
+### All teams retained and pre-signed maximum players ahead of LPL auction
+
+*2024-05-21 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-teams-retained-and-pre-signed-maximum-players-ahead-of-LPL-auction/108-283049) · `en`
+
+(Daily Mirror) - Over 400 players, both Sri Lankan and overseas, are poised to go under the hammer during the Player Auction of the Lanka Premier League (LPL) T20 Cricket Tournament on May 21 in Colombo.  All five teams have either retained or pre-signed six players ahead of the auction.
+
+Each team can have a minimum of 20 players and a maximum of 24. Teams were allowed to retain or pre-sign a maximum of six players.
+
+The auction will feature a collective purse of US $2.5 million from all five franchise teams, with each franchise contributing US $500,000.
+
+◼️
+
+[Data](articles/15bf7f9d.json)
+
+---
+
+### නාවිකයින්ට සහ ධීවරයින්ට රතු නිවේදනයක්
+
+*2024-05-21 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196855) · `si`
+
+තද වැසි සහ තද සුළං සහ රළු මුහුද පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශවල ජනතාවට සැලකිලිමත් වන ලෙස දැනුම් දී තිබේ.
+
+කොළඹ සිට ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70 දක්වා වැඩි වන අතර මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වේ.
+
+මෙම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙස නාවික හා ධීවර ප්‍රජාවන්ට ද දැනුම් දී තිබේ.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3ක් පමණ ඉහළ යෑමේ හැකිවක් පවතින බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ හේතුවෙන් කොළඹ සිට ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකිවක් පවතී.
+
+◼️
+
+[Data](articles/59d75b7f.json)
+
+---
+
+### Traffic is blocked
 
 *2024-05-21 11:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-போக்குவரத்து-தடை/175-337628) · `ta`
 
-நாட்டின் பல பகுதிகளில் தற்போது பெய்து வரும் கன மழை காரணமாக கொழும்பு – புத்தளம் ரயில் மார்க்கத்திலான  பகுதி வெள்ளத்தில் மூழ்கியுள்ளது.
+Heavy rains flood Colombo-Puttalam railway, limiting train services.
 
-இதன்படி, செவ்வாய்க்கிழமை (21) காலை முதல் கொழும்பில் இருந்து புத்தளம் வரையான மார்க்கத்தில் இயங்கும் ரயில் சேவை மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+🟩
 
-கொழும்பு - புத்தளம் ரயில்வே தற்போது கொழும்பில் இருந்து புத்தளம் வரை ஒரு நாளைக்கு நான்கு ரயில்களையும் புத்தளத்திலிருந்து கொழும்பு வரை நான்கு ரயில்களையும் இயக்குகிறமை குறிப்பிடத்தக்கது.
+Due to heavy rains in many parts of the country, the Colombo -Puttalam railway area has been flooded.
+
+Accordingly, a top official of the Department said that the train service from Colombo to Puttalam has been limited on Tuesday morning.
+
+The Colombo -Puttalam Railway is currently operating four trains from Colombo to Puttalam and four trains from Puttalam to Colombo.
 
 ◼️
 
 [Data](articles/03bb1131.json)
+
+[Extended Data](ext_articles/03bb1131.ext.json)
 
 ---
 
@@ -68,29 +184,43 @@ Their first warm-up game against the Netherlands will take place on May 28 at Br
 
 [Data](articles/e2b74700.json)
 
+[Extended Data](ext_articles/e2b74700.ext.json)
+
 ---
 
-### ඩයනා අධිකරණයට එයි
+### Diana comes to court
 
 *2024-05-21 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196854) · `si`
 
-විදේශ ගමන් බලපත්‍ර සිද්ධිය සම්බන්ධයෙන් සැකකාරියක වශයෙන් නම්කර සිටින හිටපු රාජ්‍ය අමත්‍ය ඩයනා ගමගේ මහත්මිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පැමිණ තිබේ.
+Diana Gamage, ex-State Minister, appeared at Colombo Magistrate's Court over a passport issue.
+
+🟩
+
+Former State Government Minister Diana Gamage, who was nominated for the passport incident, arrived at the Colombo Magistrate's Court.
 
 ◼️
 
 [Data](articles/15491dc0.json)
 
+[Extended Data](ext_articles/15491dc0.ext.json)
+
 ---
 
-### நீதிமன்றில் ஆஜரானார் டயானா
+### Diana appeared in court
 
 *2024-05-21 11:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஆஜரானார்-டயானா/175-337627) · `ta`
 
-கொழும்பு பிரதான நீதவான் நீதிமன்றினால் சந்தேக நபராக பெயரிடப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே, நீதிமன்றுக்கு வருகை தந்துள்ளார்.
+Diana Kamage, ex-State Minister, appeared in court after being accused by the Colombo Chief Magistrate's Court.
+
+🟩
+
+Former State Minister Diana Kamage, who was named as the suspect by the Colombo Chief Magistrate's Court, has visited the court.
 
 ◼️
 
 [Data](articles/ce7b8c93.json)
+
+[Extended Data](ext_articles/ce7b8c93.ext.json)
 
 ---
 
@@ -110,25 +240,33 @@ The Army also said that among those who received legal discharge, there are 373 
 
 [Data](articles/d4a352d9.json)
 
+[Extended Data](ext_articles/d4a352d9.ext.json)
+
 ---
 
-### அமெரிக்கா செல்ல விசாவைப் பெற்றார் குசல்
+### Kusal received visa to go to America
 
 *2024-05-21 11:16:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-செல்ல-விசாவைப்-பெற்றார்-குசல்/175-337625) · `ta`
 
-இலங்கையின் நட்சத்திர துடுப்பாட்ட வீரர் குசல் மெண்டிஸ் எதிர்வரும் ICC ஆடவர் T20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்கேற்பதற்காக அமெரிக்கா செல்வதற்கான விசாவைப் பெற்றுள்ளார்.
+Sri Lanka's Kusal Mendis got his U.S. visa for the ICC Men's T20 World Cup, joining his team soon after a visa delay caused him to miss the initial trip.
 
-அவர் அடுத்த சில நாட்களில் அமெரிக்கா சென்று இலங்கை அணியில் இணைவார் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-இலங்கை தேசிய அணி கடந்த வாரம் அமெரிக்கா சென்றிருந்த போதிலும், குசல் மெண்டிஸுக்கு வீசா கிடைப்பதில் ஏற்பட்ட தாமதம் காரணமாக அவர்களுடன் இணைந்து கொள்ள முடியவில்லை.
+Sri Lankan star batsman Gusal Mendis has received a visa to go to the United States to compete in the upcoming ICC men T20 World Cup.
 
-அமெரிக்கத் தூதரகத்திற்குத் தேவைப்படும் கூடுதல் தகவல்களால் விசா தாமதமாகியதாகக் கூறப்படுகிறது, ஆனால் கிரிக்கெட் வீரர் விசாவைப் பெற்றதால் அது தீர்க்கப்பட்டது.
+He is expected to go to the US and join the Sri Lankan team in the next few days.
 
-ஐசிசி ஆண்கள் கிரிக்கெட் உலகக் கோப்பை ஜூன் 01, 2024 அன்று தொடங்குகிறது, மேலும் அமெரிக்கா மற்றும் மேற்கிந்தியத் தீவுகள் போட்டிகளை இணைந்து நடத்தவுள்ளமை குறிப்பிடத்தக்கது.
+Although the Sri Lankan national team went to the US last week, Kusal Mendis was unable to join them due to a delay in obtaining a visa.
+
+The visa is said to have been delayed by additional information required by the US embassy, ​​but it was resolved because the cricketer received the visa.
+
+The ICC Men's Cricket World Cup begins on June 01, 2024, and will be held in the US and West Indies.
 
 ◼️
 
 [Data](articles/2c6537d6.json)
+
+[Extended Data](ext_articles/2c6537d6.ext.json)
 
 ---
 
@@ -156,6 +294,26 @@ State Minister Ranjith Siyambalapitiya added that the country's reserves have 5.
 
 ---
 
+### තුවක්කුකරුවන් දෙදෙනෙකු නිවසට පැන පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කරයි
+
+*2024-05-21 11:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තුවක්කුකරුවන්-දෙදෙනෙකු-නිවසට-පැන-පුද්ගලයෙකුට-වෙඩි-තබා-ඝාතනය-කරයි/11-409758) · `si`
+
+කළුතර දකුණ කටුකුරුන්ද දුම්රිය පොළ පාරේ  නිවසකට පැන සිදුකළ වැඩිතැබිමකින් විවාහක තිදරු  පුද්ගලයෙක් මියගොස්  නිවසේ සිටි ඔහුගේ7 හැවිරි දියණිය තුවාල ලබා  කළුතර නාගොඩ ශික්ෂණ රෝහල වෙත 20 දින රාත්‍රියේම කළුතර නාගොඩ ශික්ෂණ රෝහල වෙත ඇතුළත් කර ඇතැයි  කළුතර දකුණ පොලිසිය පැවසීය .
+
+මෙසේ මියගොස් ඇත්තේ අසුරුමුණි තස්මින් මදුවන්ත සිල්වා නමැති (38) හැවිරිදි තිදරු පියකු බව පොලිසිය කීය.
+
+මියගොස් ඇති පුද්ගලයා කටුකුන්ද දුම්රිය පොළ පාරේ පදිංචි නිවසෙහි දරු තිදෙනා සමග රාත්‍රි ආහාරය ලබා ගනිමින් සිට ඇති බවත්,යතුරුපැදියකින් පැමිණි  නාඳුනන දෙදෙනකු ටි 56අවියකින්වෙඩි තබා පලාගොස් ඇති බවත්  කළ පරීක්ෂණවලදී හෙලිව ඇතැයි ස සහකාර පොලිස් අධිකාරි දුමින්ද රාජපක්ෂ මහතා පැවසීය.
+
+ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදුකර ඇති බවට කළ පරීක්ෂණවලදී තහවුරු ඇතැයි පොලිස්  ඒ සම්බන්ධයෙන් වැඩිදුර විමර්ශනය කරන පොලිස් කණ්ඩායමසඳහන් කරයි.
+
+මියගොස් ඇති පුද්ගලයාද අපරාධ රැසකට සම්බන්ධ පුද්ගලයකු බවද  පාතාල හා මත්ද්‍රව්‍ය ක්‍රියාකාරකමකට පලිගැනීමක් හේතුවෙන් මෙම ඝාතනය සිදුකරන්නට  ඇතැයිපොලිසිය සැක කරයි.
+
+...
+
+[Data](articles/9bdb4131.json)
+
+---
+
 ### Sri Lanka women borrowers trapped by ill-understood loan agreements: UNDP
 
 *2024-05-21 11:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-women-borrowers-trapped-by-ill-understood-loan-agreements-undp-163889/) · `en`
@@ -172,59 +330,85 @@ In the absence of basic financial literacy they were often forced into poor fina
 
 [Data](articles/04c0dace.json)
 
+[Extended Data](ext_articles/04c0dace.ext.json)
+
 ---
 
-### ”ரைசியின் மறைவு ஈடுசெய்ய முடியாத இழப்பாகும்”
+### "Ryichi's death is an irreparable loss"
 
 *2024-05-21 11:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரைசியின்-மறைவு-ஈடுசெய்ய-முடியாத-இழப்பாகும்/175-337623) · `ta`
 
-ஹெலிகொப்டர் விபத்தில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் ஹொசைன் அமீர்-அப்துல்லாஹியன் மற்றும் பிற ஈரானிய அதிகாரிகளின் சோகமான மறைவுக்கு தேசிய மக்கள் சக்தி (NPP) தனது இரங்கலைத் தெரிவித்துள்ளது.
+"Iran mourns the loss of President Ibrahim Raisi, a tireless advocate for global cooperation and sustainable development. His efforts to foster friendly relations and initiate projects like the hydropower plans in Sri Lanka and Azerbaijan highlight his dedication to regional prosperity. The National People's Power extends its deepest sympathies to the families affected and the nation as a whole, emphasizing the irreplaceable impact of Raisi's legacy."
 
-"இந்த கடினமான நேரத்தில் எங்கள் எண்ணங்களும் பிரார்த்தனைகளும் இறந்தவர்களின் குடும்பங்கள் மற்றும் நண்பர்களுடனும், ஈரான் முழு நாட்டுடனும் உள்ளன” என  NPP ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+🟩
 
-ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவு ஈரான் மற்றும் மத்திய கிழக்கு மக்களுக்கு மட்டுமன்றி உலக சமூகத்திற்கும் ஈடுசெய்ய முடியாத இழப்பாகும் என NPP மேலும் தெரிவித்துள்ளது.
+The National People's Power (NPP) has expressed its condolences to the tragedy of Iranian President Ibrahim Raisi, Foreign Minister Hossein Amir-Abdullah and other Iranian officials in the helicopter crash.
 
-இலங்கை உட்பட பல நாடுகளுடன் நட்புறவு மற்றும் மேலாதிக்கம் அல்லாத உறவுகளை வலுப்படுத்துவதற்கு ஜனாதிபதி ரைசி அயராது உழைத்தார்.
+"Our thoughts and prayers are with the families and friends of the dead at this difficult time, and the whole country of Iran," the NPP said in a statement.
 
-ஈரானிய மக்களின் நிதியுதவியுடன் கூடிய நீர்மின் திட்டமொன்றை ஆரம்பித்து வைப்பதற்காக அவர் அண்மையில் இலங்கைக்கு விஜயம் செய்தமை, சர்வதேச ஒத்துழைப்பு மற்றும் நிலையான அபிவிருத்திக்கான அவரது அசைக்க முடியாத அர்ப்பணிப்புக்கான சான்றாக அமைந்துள்ளது.
+The demise of President Ibrahim Raisi is an irreparable loss not only to the people of Iran and the Middle East but also for the world community, the NPP has added.
+
+President Raisi has worked tirelessly to strengthen friendly and non -dominant relationships with many countries, including Sri Lanka.
+
+His recent visit to Sri Lanka to launch a hydropower plan with the financial support of the Iranian people is a testament to his unwavering commitment to international cooperation and sustainable development.
 
 ...
 
 [Data](articles/4b615d26.json)
 
+[Extended Data](ext_articles/4b615d26.ext.json)
+
 ---
 
-### ”இந்தியாவிற்கு தீங்கு விளைவிக்க அனுமதிக்க மாட்டோம்”
+### “We will not allow India to be harmed”
 
 *2024-05-21 11:01:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிற்கு-தீங்கு-விளைவிக்க-அனுமதிக்க-மாட்டோம்/175-337621) · `ta`
 
-இந்தியாவின் தேசிய பாதுகாப்பு நலன்களைப் பாதுகாப்பதில் தனது நாட்டின் உறுதிப்பாட்டை இலங்கை வெளியுறவு அமைச்சர் அலி சப்ரி உறுதிப்படுத்தினார், பொறுப்பான அண்டை நாடான இலங்கை, இந்தியாவின் பாதுகாப்பிற்கு தீங்கு விளைவிக்க யாரையும் அனுமதிக்காது என்று கூறினார்.
+Sri Lanka's Foreign Minister Ali Sabri reaffirmed his nation's pledge to safeguard India's security, expressing concern over Chinese research vessels near the island. He emphasized Sri Lanka's desire to engage with all nations while prioritizing India's security concerns.
 
-சீன ஆராய்ச்சிக் கப்பல்கள் தீவு நாட்டிற்குச் செல்வது தொடர்பான இந்தியாவின் கவலைகளையும் அமைச்சர் வெளிப்படுத்தினார், அவர்கள் மற்ற நாடுகளுடன் வெளிப்படையான முறையில் பணியாற்ற விரும்புகிறார்கள்  எனவும், ஆனால் அது பிற நாடுகளைப் பணயம் வைத்து அல்ல எனவும் தெரிவித்தார்.
+🟩
 
-"நாங்கள் அனைத்து நாடுகளுடனும் இணைந்து பணியாற்ற விரும்புகிறோம் என்று நாங்கள் மிகத் தெளிவாகக் கூறியுள்ளோம், ஆனால் இந்திய பாதுகாப்பு தொடர்பான நியாயமான கவலைகள் கவனத்தில் கொள்ளப்படும், மேலும் யாருக்கும் தீங்கு விளைவிக்க நாங்கள் அனுமதிக்க மாட்டோம். அதற்கு உட்பட்டு, நிச்சயமாக, மிகவும் வெளிப்படையாக அனைத்து நாடுகளுடனும் இணைந்து பணியாற்ற விரும்புகிறோம்,” என்று அமைச்சர் ஏஎன்ஐக்கு அளித்த பேட்டியில் கூறினார்.
+Sri Lanka's Foreign Minister Ali Sabri has confirmed his country's commitment to protecting the national security interests of India and said that Sri Lanka, a responsible neighbor, will not allow anyone to harm India's security.
+
+The Minister also expressed his concerns about Chinese research ships to go to the island, saying that they would like to work with other countries, but that it was not risking other countries.
+
+"We have clearly stated that we want to work with all the countries, but the reasonable concerns about Indian security will be taken into consideration. We will not allow anyone to be harmful. Subsequently, we would like to work with all the countries, of course, ”he said in an interview with Minister ANI.
+
+“I learned that China recently become India's largest business partner. So, we want to work with it as you work together, but it should not come with the intervention of a different third party, and as a responsible neighbor and a civilized partner, we reiterate. ”
 
 ...
 
 [Data](articles/d3786444.json)
 
+[Extended Data](ext_articles/d3786444.ext.json)
+
 ---
 
-### වහලය කඩා වැටී දරුවන් 25 දෙනෙකුගේ ජීවිත අනතුරකට ලක් වීමට පෙර
+### Before the roof collapses and killed 25 children
 
 *2024-05-21 11:00:50* · [`adalk`](https://www.ada.lk/breaking_news/වහලය-කඩා-වැටී-දරුවන්-25-දෙනෙකුගේ-ජීවිත-අනතුරකට-ලක්-වීමට-පෙර/11-409757) · `si`
 
-අනුරාධපුර දිස්ත්‍රික්කයේ , තලාව ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ එප්පාවල, සඳරැස්ගම පුබුදු පෙර පාසලේ වහලය කඩා වැටීමට ආසන්නයේ පවතින බැවින් තම දරුවන් තම දරුවන්ගේ ජීවිත දැඩි අවධානමකට ලක්ව පවතින බව එම පෙරපාසලේ දරුවන්ගේ දෙමාපියන් පවසති.
+In Pabudagama, a pre-school built 50 years ago by the Mahaweli Authority faces imminent danger due to its deteriorated condition. The school, which educates 25 children lacking basic amenities like water and electricity, is at risk of collapsing. Parents fear for their children's safety and demand immediate action from authorities to secure the structure before disaster strikes.
 
-වසර 50 කට පමණ ඉහතදී මහවැලි අධිකාරීය මගින් ප්‍රදේශයේ දරුවන්ගේ පූර්ව ළමා විය සංවර්ධනය වෙනුවෙන් මෙම පෙර පාසල් ගොඩනැගිල්ල ඉදි කර ඇති අතර, එදා සිට මේ දක්වා මෙම ගොඩනැගිල්ලේ කිසිදු ප්‍රථිසංස්කරණය සිදු වී නොමැති බවට දෙමාපියන් පවසති.
+🟩
 
-පෙර පාසල් පාලිකාවක විසින් ප්‍රදේශයේ දරුවන් 25 කට මූලික අධ්‍යාපනය මෙම පෙර පාසල තුළ ලබා දෙන්නේ ජල හා විදුලි යන මූලික පහසුකම්ද නොමැතිවයි.
+Pabudagama parents say that their children are at risk of their children, as the roof of their children is at risk.
 
-මෙම පෙර පාසල් ගොඩනැගිල්ලේ වහළයේ පරාල හා රීප්ප  දිරාපත් වී, බිත්ති ඉරි තැලී, දොර ජනෙල්ද කැඩී බිදී ගොස් තිබූ මෙම පෙර පාසල් ගොඩනැගිල්ලේ  මේ දින වල ඇදහැලෙන ධාරාණිපාත වර්ෂාවත් සමඟ උළු සෙවිලි කළ වහලය කඩා වැටීමේ අවධානමකට ලක්ව ඇති බවද ඔවුන් පෙන්වා දෙති.
+The pre-school building has been constructed for nearly 50 years ago by the Mahaweli Authority.
 
-...
+The pre-school administrator will provide basic education for 25 children in the area without water and electricity facilities.
+
+They point out that the pre-school building was decayed and the walls of walls, the walls of the pre-school building and the walls of the walls, and the wall building was a risk of collapse.
+
+Parents say that parents have to keep their children home without paying their children home, as their children are being held in the pre-school building.
+
+At the same time, the risk of the roof, the roof falls in the preschool, and immediately resolve the roof and promptly dismantled the protection and future of their children.They are asking for the authorities. (Ij)
+
+◼️
 
 [Data](articles/54af27e5.json)
+
+[Extended Data](ext_articles/54af27e5.ext.json)
 
 ---
 
@@ -243,6 +427,8 @@ Due to the continuous release of dollars to the financial market in the previous
 ...
 
 [Data](articles/e3f96756.json)
+
+[Extended Data](ext_articles/e3f96756.ext.json)
 
 ---
 
@@ -429,6 +615,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was down 0.07 pe
 ◼️
 
 [Data](articles/f53bb8f0.json)
+
+[Extended Data](ext_articles/f53bb8f0.ext.json)
 
 ---
 
@@ -729,6 +917,8 @@ At the time Fed was firing a commodity bubble, by purchasing Liberty bonds (in w
 ...
 
 [Data](articles/f220b834.json)
+
+[Extended Data](ext_articles/f220b834.ext.json)
 
 ---
 
@@ -1971,175 +2161,5 @@ The Department of Meteorology has predicted more than 100 mm of rainfall in Saba
 [Data](articles/9e990936.json)
 
 [Extended Data](ext_articles/9e990936.ext.json)
-
----
-
-### Iran's president's death is shocking
-
-*2024-05-21 01:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதியின்-மறைவு-அதிர்ச்சிக்குரியது/175-337609) · `ta`
-
-Ibrahim Raisi, Iran's president, tragically passed away along with several top officials in a helicopter crash. His sudden death has deeply saddened former Sri Lankan President Mahinda Rajapaksa, who expressed his condolences. The Iranian Ambassador in Sri Lanka, Alresa Delgosh, also mourned Raisi's loss, highlighting his friendship with Sri Lanka and his commitment to serving the Iranian people.
-
-🟩
-
-Former President Mahinda Rajapakse has condoled the demise of Ibrahim Raisi.
-
-Mahinda Rajapaksa Ibrahim went to the Iranian embassy in Sri Lanka yesterday.
-
-Iranian Ambassador Alresa Delgosh met with condolences and posted a reference to the book of condolences.
-
-The death of Iranian President Ibrahim Raisi and several senior officials who accompanied him in the helicopter crash. President Raisi was a true friend of Sri Lanka. He said that he would have the leadership and dedication to the people of Iran.. (A)
-
-◼️
-
-[Data](articles/3305c140.json)
-
-[Extended Data](ext_articles/3305c140.ext.json)
-
----
-
-### Thai delegation in SL to explore opportunities in renewable energy
-
-*2024-05-21 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-delegation-in-SL-to-explore-opportunities-in-renewable-energy/108-283010) · `en`
-
-A delegation comprising officials representing Thai agencies and private sector is in Sri Lanka to explore feasibility and understand the potentials in future cooperation and investment in renewable energy, particularly in the electricity generation in Sri Lanka.
-
-The delegation included officials of Thailand Foreign Affairs Ministry, Energy Ministry, Royal Thai Embassy, Electricity Generating Authority of Thailand, PTT Public Company Limited and Global Power Synergy Public Company Limited.
-
-The delegation is in Sri Lanka on the instructions of the Prime Minister of Thailand.
-
-“We discussed the policies and plans for the electricity sector, multilateral interconnections, proposed sector reforms, investments required for RE, green hydrogen and cooperation on energy,” said Power and Energy Minister Kanchana Wijesekera.
-
-◼️
-
-[Data](articles/5669c15b.json)
-
-[Extended Data](ext_articles/5669c15b.ext.json)
-
----
-
-### 2024-05-20 (Monday)
-
-### Shooting in Kalutara;Death
-
-*2024-05-20 23:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-337608) · `ta`
-
-A fatal shooting occurred last night in Kalutara's Kutturunda, where one person died from T56 gunfire at their home.
-
-🟩
-
-One person was killed in the shooting that took place last night in Kalutara - Kutturunda area, police said.
-
-Police said the shooting had taken place at the house of the deceased and that the T56 firing had been used at the time.. Remble
-
-◼️
-
-[Data](articles/455c9bc2.json)
-
-[Extended Data](ext_articles/455c9bc2.ext.json)
-
----
-
-### Sri Lanka declares May 21 as National Mourning day over Iranian President’s death
-
-*2024-05-20 22:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-declares-may-21-as-national-mourning-day-over-iranian-presidents-death-163832/) · `en`
-
-ECONOMYNEXT – Sri Lanka declared a national mourning day on Tuesday, May 21 in view of expressing its solidarity with Iran after sudden death of Iran President Ebrahim Raisi following a helicopter crash.
-
-President Raisi and eight others including Iranian Foreign Minister Hossein Amir Abdollahian were killed in the crash when the helicopter had a “hard landing” reportedly due to adverse weather conditions with heavy fog. However, President’s two convoy helicopters reached the destination safely.
-
-“The Sri Lankan government has declared a national mourning day on tomorrow (May 21) on behalf of the sudden death of Iranian president Mr. Ebrahim Raisi,” the Department of Government Information said in a statement.
-
-It also urged all the state institutions have to hoist the national flag half mast.
-
-...
-
-[Data](articles/0008f088.json)
-
-[Extended Data](ext_articles/0008f088.ext.json)
-
----
-
-### ICC chief prosecutor seeks Netanyahu, Hamas leaders’ arrest
-
-*2024-05-20 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99347/icc-chief-prosecutor-seeks-netanyahu-hamas-leaders-arrest) · `en`
-
-(AP) — The chief prosecutor of the world’s top war crimes court said Monday he is seeking arrest warrants for leaders of Israel and Hamas, including Israeli Prime Minister Benjamin Netanyahu, over actions taken during their seven-month war.
-
-While Netanyahu and his defense minister, Yoav Gallant, do not face imminent arrest, the announcement by the International Criminal Court’s chief prosecutor was a symbolic blow that deepened Israel’s isolation over the war in Gaza.
-
-The court’s prosecutor, Karim Khan, accused Netanyahu, Gallant, and three Hamas leaders — Yehia Sinwar, Mohammed Deif and Ismail Haniyeh — of war crimes and crimes against humanity in the Gaza Strip and Israel.
-
-Netanyahu and other Israeli leaders condemned the move as disgraceful and antisemitic. U.S. President Joe Biden also lambasted the prosecutor and supported Israel’s right to defend itself against Hamas.
-
-...
-
-[Data](articles/486ce53d.json)
-
-[Extended Data](ext_articles/486ce53d.ext.json)
-
----
-
-### First vinyl release…
-
-*2024-05-20 22:40:00* · [`islandlk`](http://island.lk/first-vinyl-release/) · `en`
-
-Sri Lanka-born Andrea Marr, who now resides in Melbourne, Australia, is very much in the news with her McNaMarr Project.
-
-Vocalist/Vocal Coach, 2022 Blues Music Victoria Hall Of Fame People’s Choice Award Winner, Andrea says that she has completed recording a live vinyl record and will be releasing it on the 21st of July at Way Out West Roots Music Club, located at Williamstown RSL, in the Western suburbs of Melbourne.
-
-According to Andrea, it will be the McNaMarr Project’s third album, her 10th album, and her first vinyl release.
-
-The album is called the ‘Quasar Sessions’ and the songs recorded were all done completely live, with no auto tune or overdubs.
-
-Andrea is also the owner, director and vocal coach at Andrea Marr Music School, in Melbourne.
-
-You could check out their song, ‘Baby I Love You’ YouTube – youtu.be/mbV1srj9vgE?si=4xKt2fcmTprlsFud
-
-High Commission in Nairobi hosts International Vesak Day at UN Office
-
-...
-
-[Data](articles/88be570f.json)
-
-[Extended Data](ext_articles/88be570f.ext.json)
-
----
-
-### Ninewells Hospital demonstrates commitment to community with donation to NHSL’s new Ambulatory Care Building
-
-*2024-05-20 22:27:00* · [`islandlk`](http://island.lk/ninewells-hospital-demonstrates-commitment-to-community-with-donation-to-nhsls-new-ambulatory-care-building/) · `en`
-
-Ninewells Hospital – the leader in neonatal, pediatric and family healthcare excellence – recently donated the new Ambulatory Care Building of the National Hospital of Sri Lanka (NHSL) with medical equipment and benches for patients. This kind act of goodwill and generosity by Ninewells Hospital, under its corporate social responsibility initiatives, underscores its commitment to compassionate healthcare for all. The medical equipment and benches will help to provide healthcare services, and comfortable seating, for patients seeking medical attention at this new facility. The donation was made in time for the opening ceremony of the new facility, which was held on the 7th of May 2024.
-
-...
-
-[Data](articles/b2047f14.json)
-
-[Extended Data](ext_articles/b2047f14.ext.json)
-
----
-
-### Union Bank opens newest Digital Zone in Rajagiriya
-
-*2024-05-20 22:25:00* · [`islandlk`](http://island.lk/union-bank-opens-newest-digital-zone-in-rajagiriya/) · `en`
-
-Union Bank opened a highly automated Digital Zone in Rajagiriya, as part of the Bank’s digital transformation initiatives to expand Smart Banking convenience to customers. Union Bank Digital Zones were also opened at the Bank’s Head Office and at the Pettah branch recently.
-
-Ninewells Hospital demonstrates commitment to community with donation to NHSL’s new Ambulatory Care Building
-
-Union Bank hosts engaging customer events celebrating International Women’s Day
-
-Agreement to support the expansion of Union Bank’s women-focused financial services
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d038edb3.json)
-
-[Extended Data](ext_articles/d038edb3.ext.json)
 
 ---

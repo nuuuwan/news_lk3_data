@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 13:34:09**
+As of **2024-05-21 13:53:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,417 (100.0%) of 25,420 articles have been extended.
+25,420 (100.0%) of 25,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ During interrogations, it was revealed that the suspects had also previously rob
 
 [Data](articles/f9bcd5fa.json)
 
+[Extended Data](ext_articles/f9bcd5fa.ext.json)
+
 ---
 
 ### Fallen tree blocks road in Borella, disrupting traffic
@@ -69,6 +71,8 @@ Colombo Municipal Council (CMC) workers are engaged in the removal of the tree a
 ◼️
 
 [Data](articles/e714c25c.json)
+
+[Extended Data](ext_articles/e714c25c.ext.json)
 
 ---
 
@@ -187,6 +191,8 @@ The US dollar purchasing price was Rs 294.7827 and the sales price were Rs 304.3
 ...
 
 [Data](articles/ce38edd7.json)
+
+[Extended Data](ext_articles/ce38edd7.ext.json)
 
 ---
 

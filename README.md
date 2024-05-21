@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 21:53:03**
+As of **2024-05-21 22:05:52**
 
 ## Newspaper Stats
 
-*Scraped **25,525** Articles*
+*Scraped **25,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,77 @@ islandlk | 1,376
 economynextcom | 1,468
 dailyftlk | 1,503
 adalk | 2,193
-adaderanalk | 2,944
+adaderanalk | 2,945
 tamilmirrorlk | 2,980
 virakesarilk | 3,864
 dailymirrorlk | 4,009
-adaderanasinhalalk | 4,082
+adaderanasinhalalk | 4,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,518 (100.0%) of 25,525 articles have been extended.
+25,525 (100.0%) of 25,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### தண்டவாளத்தில் முறிந்து வீழ்ந்த மரம்
+### 4 Sri Lankan ISIS terrorists arrested in India were planning major attack - report
+
+*2024-05-21 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99366/4-sri-lankan-isis-terrorists-arrested-in-india-were-planning-major-attack-report) · `en`
+
+Four ISIS terrorists were arrested in Ahmedabad yesterday, days after the city airport received a bomb threat. The terrorists - believed to be Sri Lankan nationals - were arrested by the Gujarat Anti-Terrorism Squad after a tip-off.
+
+Giving details of the operation to arrest the four ISIS terrorists, police said multiple teams were formed after the officials received the information that the suspects were planning to travel to Ahmedabad to carry out terror attacks in India.
+
+Vikash Sahay, Director General of Police, Gujarat, said these four terrorists had boarded an IndiGo flight bound for Ahmedabad from Chennai yesterday. “The arrests were made after checking the list of passengers coming from the Southern region and getting their identities confirmed by officials in Colombo,” he said.
+
+Police said the four men “had been in touch with a man named Abu in Pakistan through social media”.
+
+...
+
+[Data](articles/656ec60e.json)
+
+---
+
+### තියුණු ආයුධවලින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි
+
+*2024-05-21 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196882) · `si`
+
+මොරොන්තුඩුව, පොල්හේන ප්‍රදේශයේදී තියුණු ආයුධවලින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර ඇති බව මොරොන්තුඩුව පොලීසිය පවසයි.
+
+මෙසේ ඝාතනයට ලක්වී ඇත්තේ බණ්ඩාරගම ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකු බවද පොලීසිය සඳහන් කරයි.
+
+මියගොස් ඇති පුද්ගලයා සිය මස්සිනා සමග ඇතිවූ කතාබහක් දුරදිග ගොස් දෙදෙනා අතර ගැටුමක් හටගෙන තිබේ.
+
+සිද්ධියෙන් සැකකරු ද තුවාල ලබා රෝහල්ගත කර ඇති බව පොලීසිය පවසයි.
+
+මරණයට පත්වූ පුද්ගලයා තවත් පුද්ගලයින් කිහිප දෙනෙකු සමග පොල්හේන ප්‍රදේශයේ පිහිටි ඔහුගේ නැගණියගේ නිවසට ගොස් සිටියදී මෙම ආරවුල ඇතිවී තිබේ.
+
+◼️
+
+[Data](articles/6ac06a4b.json)
+
+---
+
+### Lumber
 
 *2024-05-21 21:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-முறிந்து-வீழ்ந்த-மரம்/175-337665) · `ta`
 
-கொட்டாவ மற்றும் பன்னிபிட்டிக்கு இடையிலான ரயில் தண்டவாளத்தில் மரம் ஒன்று முறிந்து வீழ்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதனால் ரயில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+A tree fell on the railway track near Kottawa, disrupting train service and impacting national traffic.
 
-தொடரும் சீரற்ற வானிலை காரணமாக நாடளாவிய ரீதியில் போக்குவரத்துக்கள் பாதிக்கப்படுகின்றமை குறிப்பிடத்தக்கது. R
+🟩
+
+It is reported that a tree has fallen on the railway track between Kottawa and Pannipitiya. This has affected train traffic.
+
+It is noteworthy that traffic nationwide is affected due. Remble
 
 ◼️
 
 [Data](articles/503cc1f3.json)
+
+[Extended Data](ext_articles/503cc1f3.ext.json)
 
 ---
 
@@ -142,45 +186,63 @@ They have found mobile phones, the two countries and the airports of the license
 
 ---
 
-### ජනවාරි සිට මැයි දක්වා දකුණු  කොරියාවට 2679 ක්
+### 2679 to South Korea from January to May
 
 *2024-05-21 20:23:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-සිට-මැයි-දක්වා-දකුණු--කොරියාවට-2679-ක්/11-409774) · `si`
 
-2024 වසරේ ගතවූ මාස 5ක කාලය තුලදී පමණක් ශ්‍රි ලාංකිකයින් 2,679 දෙනෙකු දකුණු කොරියාවේ රැකියා සඳහා පිටව ගොස් තිබෙන අතර, දකුණු කොරියාවේ නිශ්පාදන ක්ෂේත්‍රයේ රැකියා හිමිවූ තවත් ශ්‍රි ලාංකිකයින් 150 කු අද දින (5/21) UL 470 දරණ ගුවන් යානයෙන් දකුණු කොරියාව බලා පිටත්ව යන ලදී. මෙම පිරිසට තරුණියන් 6 දෙනෙකුද අයත් වේ.
+From January to May 2024, 2,679 Sri Lankan workers left their jobs in South Korea, including 150 in specific fields. This trend continues under the Memorandum of Understanding between Sri Lanka and South Korea, allowing Sri Lankans to work there since 2004, indicating a sustained interest in employment opportunities in South Korea.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා දකුණු කොරියානු මානව සම්පත් සංවර්ධන සේවා ආයතනය අතර ඇති කර ගත් අවබෝධතා ගිවිසුම ප්‍රකාරව ශ්‍රි ලාංකිකයින්ට දකුණු කොරියාවේ රැකියා අවස්ථා හිමිවේ. එම අවබෝධතා ගිවිසුම අනුව 2004 වසරේ සිට අඛණ්ඩව මේ දක්වා ශ්‍රි ලාංකිකයින් දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව යන අතර, අද වන විට තරුණ ප්‍රජාව දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව යාමට වැඩි උනන්දුවක් ඇතිවී තිබේ.
+🟩
+
+In 2024 months, 2,679 Sri Lankans have left the jobs in South Korea, 150 other Sri Lankans who have jobs in the field of South Korea (5/21) to South Korea.. These men also belong to six young women.
+
+Sri Lankans have employed in South Korea in terms of the Memorandum of Memorandum of Memorandum of the Sri Lanka Bureau and South Korean Human Resources Development Services. According to the MoU, Sri Lankans continued to work in South Korea since 2004 and today is more interested in South Korea.
 
 ◼️
 
 [Data](articles/322fa9ec.json)
 
+[Extended Data](ext_articles/322fa9ec.ext.json)
+
 ---
 
-### ප්‍ර ලේ කොට්ඨාස පනහකට නාය යැමේ අනතුරු ඇඟවීම්
+### Landslide Warnings for fifty lane
 
 *2024-05-21 20:18:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍ර-ලේ-කොට්ඨාස-පනහකට-නාය-යැමේ-අනතුරු-ඇඟවීම්/11-409773) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල තව දුරටත් පවතින අධික වර්ෂාව හේතුවෙන් දිස්ත්‍රික්ක නවයක ප්‍රාදේශිය ලේකම් කොට්ඨාස 50 කට නාය යෑමේ අනතුරු ඇඟවීමේ නිවේදනය අද 21 සවස ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නිකුත් කර තිබේ.
+Heavy rains trigger landslide warnings across 50 districts, including Badulla, Seethawaka, Elpitiya, Nagoda, Kalutara, Attanagalla, Dodangoda, Agalawatta, Bulathsinhala, Udunugala, Udalheela, Yatapola, Yatiyantota, Ruwanwella, Bulathwella, Dehiokapitiya, Polgadawana, Narammala, Alawwa, Nivita, Ayagama, Ratnapura, Upatha, Analpatha, Kiriella, Eheliyagoda. The warning takes effect from tomorrow morning.
 
-එම නිවේදනයට අනුව බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල,බදුල්ල,හපුතලේ  හාලි ඇල සහ ඇල්ල යන ප්‍රාදේශිය ලේකම් කොට්ඨාස සඳහා පළමු මට්ටමේ නිවේදනයද, කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක  ප්‍රාදේශිය ලේකම් කොට්ඨාසය සඳහා පළමු මට්ටමේ නිවේදනයද සීතාවක ප්‍රාදේශිය ලේකම් කොට්ඨාසය සඳහා දෙවන මටට්මේ නිවේදනයද නිකුත් කර තිබේ.
+🟩
 
-ගාල්ල දිස්ත්‍රික්කයේ ඇල්පිටිය සහ නාගොඩ ප්‍රාදේශිය ලේකම් කොට්ඨාස සහ  ගම්පහ දිස්ත්‍රික්කයේ අත්තනගල්ල ප්‍ර දේශීය ලේකම් කොට්ඨාසය,කළුතර දිස්ත්‍රික්කයේ වලල්ලාවිට, හොරණ,දොඩංගොඩ,අගලවත්ත,ඉංගිරිය, පාලින්දනුවර යන ප්‍රාදේශිය ලේකම් කොට්ඨාස සඳහා පළමු මට්ටමේ නිවේදනයද, මතුගම සහ බුලත්සිංහල ප්‍රාෙදේශිය ලේකම් කොට්ඨාස සදහා දෙවන මට්ටමේ නිවේදනයද නිකුත් කර තිබේ.
+The National Building Research Organization has issued a landslide warning notification to 50 districts due to heavy rains in many parts of the island.
+
+According to the statement, the first level for the Divisional Secretariat Division in Badulla District has been announced to the Divisional Secretariat Division for the Divisional Secretariat Division in Badulla District, the first level announcement for the Seethawaka Divisional Secretariat Division.
+
+Elpitiya and Nagoda Divisional Secretariat Division of Elpitiya and Nagoda Divisional Secretariat Division, Kalutara District, Attanagalla Divisional Secretariat Division, Kalutara, Dodangoda, Agalawatta, Dodangoda, Agalawatta, Agalawatta and Bulathsinhala Breakage Divisional Secretariat DivisionsHas been done.
 
 ...
 
 [Data](articles/78a692bb.json)
 
+[Extended Data](ext_articles/78a692bb.ext.json)
+
 ---
 
-### ලංකා ප්‍රිමියර් ලිග ඉතිහාසයේ මිල අධිකම ක්‍රිඩකයා මතීෂ
+### The cost of history of Lanka Premier, the expenses
 
 *2024-05-21 20:12:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-ප්‍රිමියර්-ලිග-ඉතිහාසයේ-මිල-අධිකම-ක්‍රිඩකයා-මතීෂ/9-409772) · `si`
 
-ලංකා ප්‍රිමියර් ලිග තරගාවලියට අදාළ ක්‍රිඩක ‍වෙන්දේසිය අද කොළඹදි නිමාවට පත්විය. මෙම වෙන්දේසියේ ශ්‍රි ලංකා යොවුන් වේග පන්දු යවන ක්‍රිඩක මතිෂ පතිරණ ඩොලර ්120000කට අලෙවි වූ අතර එය වාර්තා පොතට එක්වූයේ ලංකා ප්‍රිමියර් ලිග ඉතාහිසයේ ක්‍රිඩකයෙක් වෙන්දේසි වූ ඉහළම වටිනාකම ලෙසයි. මතිෂ කොළඹ කණ්ඩායම විසින් මිලට ගනු ලැබිය. මෙවර වෙන්දේසියට ක්‍රිඩකයන් 400කට අධික සංඛ්‍යාවක් එක්ව සිටියේය.
+In the Lanka Premier Sports Auction, Sri Lanka's youth fast bowler set a record price of $120,000, bought by Colombo, making it the highest bid in Lanka Premier history. Over 400 players participated in the event.
+
+🟩
+
+Sports Auction to the Ceylon Premier Lal Tournament concluded today. Sri Lanka Youth Fast bowler soldier sold for 120000 dollars in this auction and was sold to record book as a top value of Lanka Premier. The manuscript was purchased by the Colombo team. More than 400 players were present at the auction.
 
 ◼️
 
 [Data](articles/a1383e0e.json)
+
+[Extended Data](ext_articles/a1383e0e.ext.json)
 
 ---
 
@@ -836,15 +898,21 @@ Following the incident, police swiftly apprehended the suspect and recovered the
 
 ---
 
-### ලංකාවේ සමිතගෙන් ලෝක වාර්තාවක්
+### World record for Sri Lankan organizations
 
 *2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/9-409771) · `si`
 
-ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී F -44 හෙල්ල විසිකිරීමේ ඉසව්වෙන් සමිත සිය පළමු උත්සාහයේදී මීටර් 66.49 ක දක්ෂතාවක් වාර්තා කරමින් නව ලෝක වාර්තාවක් පිහිටුවීමට ශ්‍රී ලංකාවේ සමිත දුලාන් සමත්විය.
+Sri Lanka's Societies broke the world record in the F-44 spelling event in Japan, achieving 66.49 meters.
+
+🟩
+
+In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was able to set up a new world record with a 66.49 meters in Japan.
 
 ◼️
 
 [Data](articles/344f9270.json)
+
+[Extended Data](ext_articles/344f9270.ext.json)
 
 ---
 
@@ -1192,19 +1260,25 @@ The main points of gender to social welfare and victims were discussed. The prop
 
 ---
 
-### වැන්දඹුවකට දීමනා හා වැටුප්වලින් සියයට 50ක අයිතියක් හා විවාහ වීමට අවසර
+### A widow permission to marry 50 percent of allowances and wages
 
 *2024-05-21 15:37:29* · [`adalk`](https://www.ada.lk/breaking_news/වැන්දඹුවකට-දීමනා-හා-වැටුප්වලින්-සියයට-50ක-අයිතියක්-හා-විවාහ-වීමට-අවසර/11-409768) · `si`
 
-ජනවාර්ගික ගැටුම් සහ යුද්ධයෙන් පසුව ඇති වූ ප්‍රතිවිපාක සම්බන්ධයෙන් සංවාදයක් ගොඩනැගීම සහ ඒ සඳහා අවධානය යොමු කිරීමේ උත්සාහයක් ලෙස, සත්‍ය සහ සංහිඳියා යාන්ත්‍රණය සඳහා වන අන්තර්වාර ලේකම් කාර්යාලය (ISTRM) කොමිෂන් සභාව විසින් පසුගියදා ගාල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පවත්වන ලද රැස්වීම් තුනක් හරහා පාර්ශවකරුවන්ගේ අදහස් විමසීම සිදු කරන ලදී.
+Widows granted 50% of allowances and wages. ICTM discusses ethnic conflict resolution and war consequences. Stakeholders focus on grassroots social issues, emphasizing gender equality and victim support. Proposals aim to reform laws for widows' aid.
 
-එහිදී හිටපු හමුදා නිලධාරීන් සහ රාජ්‍ය නොවන සංවිධාන ඇතුළු ප්‍රජා පාර්ශ්වකරුවන් විසින් සමාජ දුක්ගැනවිලි විසඳීම සඳහා අත්‍යවශ්‍ය වන බිම් මට්ටමේ ක්‍රියාකාරකම් පිළිබඳ ව ප්‍රධාන වශයෙන් කරුණු ඉදිරිපත් කළේය.
+🟩
 
-ස්ත්‍රී පුරුෂ සමාජභාවයේ සිට සමාජ සුබසාධනය සහ වින්දිතයන් වෙනුවෙන් පෙනී සිටීම දක්වා වූ ප්‍රධාන කරුණු මෙහිදී සාකච්ඡා කෙරිණි. කොමසාරිස්වරුන් තෝරා ගැනීමේදී කාන්තා නියෝජනය අනිවාර්ය කිරීම සඳහා මෙන්ම වැන්දඹු කාන්තාවන් සඳහා දීමනා හා වැටුප්වලින් 50%ක අයිතියක් සහිතව නැවත විවාහ වීම සඳහා සහන සැලසෙන අයුරින් නීති සංශෝධනය කිරීම සඳහාද යෝජනා ඉදිරිපත් විය.
+Intercepted Secretariat for the actual and reconciliation machine for the conversation of ethnic conflicts and the consequences of the war, the Interim Secretariat (ICTM) comment on three meetings held at the Galle District Secretariat recentlyWas on.
+
+The community stakeholders, including former military officers and NGOs, promoted mainly on ground level activities that are essential to social grievances.
+
+The main points of gender to social welfare and victims were discussed. The proposals were also submitted to amend the laws to be relieved for the relief and relief of allowances for widows.
 
 ◼️
 
 [Data](articles/e71806a5.json)
+
+[Extended Data](ext_articles/e71806a5.ext.json)
 
 ---
 
@@ -1556,19 +1630,29 @@ He also said that Wickremesinghe would not contest in a single party and would r
 
 ---
 
-### මෙරට දරු උපත්වලින් සියයට 99.9ක්ම රෝහල්වල
+### 99.9% of the birth of Sri Lanka in hospitals
 
 *2024-05-21 15:09:09* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-දරු-උපත්වලින්-සියයට-99-9ක්ම-රෝහල්වල/11-409766) · `si`
 
-මෙරට මාතෘ හා ළමා සෞඛ්‍ය සේවා ශක්තිමත් කිරීමේ අරමුණින් පවුල් සෞඛය සේවා අභ්‍යාසලාභීන් දහසක් (1000) පුහුණුවට බදවා  ගැනීමේ  පත්වීම් ලිපි ප්‍රධානෝත්සවය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් සහ සෞඛ්‍ය රාජ්‍ය අමාත්‍ය විශේෂඥ වෛද්‍ය සීතා අරඹෙිපොල මහත්මියගේ සහභාගීත්වයෙන් අද දින (21) අරලියගහ මන්දිරයේ දී පැවැත්විනි.
+In Sri Lanka, nearly all births (99.9%) occur in hospitals. The Health and Industry Training program recently received 2836 applications, highlighting high demand for health professionals globally due to their language skills. The program aims to address the shortage of health workers, with training centers across the country.
 
-2015 / 2016 / 2017 යන වර්ෂවල උසස්පෙළ  ඕනෑම විෂය ධාරාවකින්  එක් වරක දී විෂයන් 03 සමත් අයදුම්කාරිනියන්ගෙන් අයදුම්පත් කැඳවන ලද අතර, ඒ සදහා සුදුසුකම් සම්පූර්ණ කරන ලද අයදුම්කාරිනියන් 2836 ක් පුහුණුව සදහා තෝරා ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කරන ලදී.
+🟩
 
-මෙම අවස්ථාවට එක්වෙමින් අදහස් දැක් වූ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා කියා සිටියේ මෙරට  දරු උපත් වලින් 99.9 % ක් සිදුවන්නේ රෝහල්වල බවත්, 1950 ගණන්වල එය සියයට 40 ක් පමණ අගයක් ගත් බවත්, අනෙකුත් දරු උපත් සිදුවූයේ නිවෙස් වල බවයි.
+Responsibility of the Appointment Letter of Health and Industry Training of Health and Industry Training of Health and Industry Training of Health and IndustryWas held.
+
+Applications were invited from applicants who were able to pass 2836 applicants in one of the subjects of the A / L examination.
+
+Speaking at the event, the Minister of Health and Industry Dr. Ramesh Pathirana said that 99.9% of the 1950s were in hospitals, and in the 1950s, it was home to their homes.
+
+The health professionals of this country have a great demand in the world and that the language skills in progress has become a major orientation. The Health Minister pointed out that the largest number of health systems in the country is a downroof condition.
+
+It is said that there was a heavy translation of health service and had risen to 73 years. He added that there is a long history of 100 years and the families of family health and it is fortunate to join such a service.
 
 ...
 
 [Data](articles/eb120776.json)
+
+[Extended Data](ext_articles/eb120776.ext.json)
 
 ---
 
@@ -2225,51 +2309,5 @@ During interrogations, it was revealed that the suspects had also previously rob
 [Data](articles/f9bcd5fa.json)
 
 [Extended Data](ext_articles/f9bcd5fa.ext.json)
-
----
-
-### Fallen tree blocks road in Borella, disrupting traffic
-
-*2024-05-21 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99356/fallen-tree-blocks-road-in-borella-disrupting-traffic) · `en`
-
-A large tree has reportedly fallen across the road near the Devi Balika Vidyalaya in Borella.
-
-Ada Derana reporter said that the tree had fallen this morning (21) amidst the heavy downpour and strong winds, and that this had resulted in traffic congestion in the area.
-
-Colombo Municipal Council (CMC) workers are engaged in the removal of the tree and restore traffic movement along the road.
-
-◼️
-
-[Data](articles/e714c25c.json)
-
-[Extended Data](ext_articles/e714c25c.ext.json)
-
----
-
-### A different position on Sri Lanka
-
-*2024-05-21 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184133) · `ta`
-
-The Russian embassy in Sri Lanka criticizes the international community for excessive pressure on Sri Lanka's human rights issues, accusing diplomats and NGOs of bias. It questions the silence on NATO's actions in Yugoslavia, Afghanistan, and Libya, and the lack of concern over minority oppression in Baltic states.
-
-🟩
-
-The Russian embassy in Sri Lanka has accused the international community of following a duality of Sri Lanka's human rights issues.
-
-The Russian embassy has said that foreign political figures on Sri Lanka have observed diplomats and human rights organizations to put too much pressure and allegations.
-
-The Russian Embassy, which has been well known for their dual stance policies, has said that the ambassadors of this righteousness want to re -publish their confused position.
-
-The Russian embassy said it would want to criticize these personalities for their patience in the Gaza affair.
-
-The Embassy of Sri Lanka has also questioned why these international figures have not issued values on the humanitarian impact of NATO that Yszlavia Afghanistan Libya and NATO have exported to export its democracy and independence.
-
-The Russian Embassy has also questioned what prevents them from exploring the oppression of minorities in the Baltic countries.
-
-◼️
-
-[Data](articles/6e3ce005.json)
-
-[Extended Data](ext_articles/6e3ce005.ext.json)
 
 ---

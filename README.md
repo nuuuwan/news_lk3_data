@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 17:18:41**
+As of **2024-05-21 17:34:10**
 
 ## Newspaper Stats
 
-*Scraped **25,467** Articles*
+*Scraped **25,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,185
 adaderanalk | 2,941
-tamilmirrorlk | 2,976
-virakesarilk | 3,851
+tamilmirrorlk | 2,977
+virakesarilk | 3,856
 dailymirrorlk | 3,999
-adaderanasinhalalk | 4,073
+adaderanasinhalalk | 4,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,463 (100.0%) of 25,467 articles have been extended.
+25,467 (100.0%) of 25,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### චීනයේ ගල්අඟුරු පතලක අනතුරක්
+
+*2024-05-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196872) · `si`
+
+චීනයේ ගල්අඟුරු පතලක සිදුවූ අනතුරකින් කම්කරුවන් 05 දෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+වායූ කන්දුවීමක් අනතුරට හේතුවී ඇති බව සිදුකළ මූලික විමර්ශනවලින් අනාවරණය වී ඇත.
+
+අනතුරින් පතලේ සිරවී සිටි පුද්ගලයින් සිව්දෙනෙකු බේරාගැනීමට ද සහන කණ්ඩායම් කටයුතු කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5a5da2cb.json)
+
+---
+
+### ரூ.360 இலட்சத்திற்கு விற்கப்பட்டார்  பத்திரன
+
+*2024-05-21 17:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரூ-360-இலட்சத்திற்கு-விற்கப்பட்டார்-பத்திரன/44-337659) · `ta`
+
+தற்போது கொழும்பில் நடைபெற்று வரும் இலங்கை பிரீமியர் லீக் (LPL) கிரிக்கெட் போட்டிக்கான வீரர்கள் ஏலத்தில் எடுக்கப்படுகின்றனர்.
+
+இலங்கையின் இளம் வேகப்பந்து வீச்சாளர் மதிஷா பத்திரன 120,000 அமெரிக்க டொலர்கள் அல்லது கிட்டத்தட்ட 360 இலட்சம் ரூபாய்க்கு கொள்வனவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/82566332.json)
+
+---
 
 ### Foreign Minister Ali Sabry to attend Iranian President Raisi’s funeral
 
@@ -38,9 +68,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Sri Lanka’s Foreign Minister Ali Sabry will leave for Iran tonight to attend President Dr. Ebrahim Raisi’s funeral in Tabriz, Iran, the Ministry of Foreign Affairs said.
 
-◼️
+The funeral procession for late Iranian President Ebrahim Raisi and other officials who died in a helicopter crash started Tuesday in the northwestern city of Tabriz.
+
+Tens of thousands of Iranians, including senior officials and military commanders, gathered in the city’s Martyrs Square to witness the funeral rites of the country’s late president and other officials who died in the incident.
+
+Their bodies will be flown later in the day to the central Iranian city of Qom, which is home to one of the revered shrines and religious seminaries where Raisi studied.
+
+Following the second funeral in Qom, they will be brought to the capital Tehran, where Iran’s Supreme Leader Ayatollah Ali Khamenei is expected to lead congregational funeral prayers for them.
+
+...
 
 [Data](articles/7abc1318.json)
+
+[Extended Data](ext_articles/7abc1318.ext.json)
 
 ---
 
@@ -64,17 +104,45 @@ Following the incident, police swiftly apprehended the suspect and recovered the
 
 [Data](articles/6332a6a3.json)
 
+[Extended Data](ext_articles/6332a6a3.ext.json)
+
 ---
 
-### ලංකාවේ සමිතගෙන් ලෝක වාර්තාවක්
+### World record for Sri Lankan organizations
 
 *2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/11-409771) · `si`
 
-ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී F -44 හෙල්ල විසිකිරීමේ ඉසව්වෙන් සමිත සිය පළමු උත්සාහයේදී මීටර් 66.49 ක දක්ෂතාවක් වාර්තා කරමින් නව ලෝක වාර්තාවක් පිහිටුවීමට ශ්‍රී ලංකාවේ සමිත දුලාන් සමත්විය.
+Sri Lanka's Societies broke the world record in the F-44 spelling event in Japan, achieving a distance of 66.49 meters.
+
+🟩
+
+In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was able to set up a new world record with a 66.49 meters in Japan.
 
 ◼️
 
 [Data](articles/84d1a500.json)
+
+[Extended Data](ext_articles/84d1a500.ext.json)
+
+---
+
+### குஜராத்தில் கைதுசெய்யப்பட்ட இலங்கை ஐஎஸ் உறுப்பினர்கள் - யூதர்கள் கிறிஸ்தவர்கள் பாஜகவினர் ஆர்எஸ் எஸ் அமைப்பை சேர்ந்தவர்களிற்கு பாடம் கற்றுக்கொடுக்க விரும்பினார்கள்- இந்திய ஊடகம்
+
+*2024-05-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184158) · `ta`
+
+இந்தியாவின் குஜராத்தின் அஹமதாபாத் விமானநிலையத்திற்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்ட சில நாட்களின் பின்னர் நான்கு ஐஎஸ் பயங்கரவாதிகள் கைதுசெய்யப்பட்டனர்.
+
+இந்தியாவின் குஜராத்தில் பயங்கரவாத தாக்குதலில் ஈடுபடுவதற்காக சந்தேகநபர்கள் அஹமதாபாத் வரவுள்ளனர் என்ற தகவல் கிடைத்த பின்னர் இவர்களை கைதுசெய்வதற்காக விசேட பொலிஸ் குழுக்களை  ஏற்படுத்தியதாக குஜராத் பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவர்கள் சென்னையிலிருந்து அஹமதாபாத் புறப்பட்ட இன்டிகோ விமானத்தில் புறப்பட்டனர் என குஜராத் பொலிஸ் அதிகாரி விகாஸ் சகாய் தெரிவித்துள்ளார்.
+
+தென்பகுதியிலிருந்து வரும் பயணிகள் பட்டியலை சோதனை செய்த பின்னர் இவர்களை கைதுசெய்தோம் கொழும்பில் உள்ள அதிகாரிகளுடன் தொடர்புகொண்டு இவர்களின் விபரங்களை உறுதி செய்துள்ளோம் என அவர் தெரிவித்துள்ளார்.
+
+இவர்கள் நால்வரும் சமூக ஊடகங்கள் ஊடாக அபு என்ற பாக்கிஸ்தானை சேர்ந்த நபருடன் தொடர்பிலிருந்துள்ளனர்.
+
+...
+
+[Data](articles/1db0a8d5.json)
 
 ---
 
@@ -122,6 +190,26 @@ The annual point of food category of food category of food in March 2024 has fal
 
 ---
 
+### யாழில் வீடு புகுந்து தாக்குதல் நடத்திய கனடா வாசிகள் இருவர் கைது!
+
+*2024-05-21 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184119) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள வீடொன்றினுள் அத்துமீறி நுழைந்து வீட்டில் இருந்தவர்கள் மீது தாக்குதல் மேற்கொண்ட குற்றச்சாட்டில் கனடாவில் இருந்து வந்த இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் உள்ள வீடொன்றினுள் நேற்று  திங்கட்கிழமை (20) அத்துமீறி நுழைந்த இருவர் வீட்டில் இருந்தவர்கள் மீது தாக்குதல் மேற்கொண்டுவிட்டு தப்பி சென்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் பாதிக்கப்பட்டவர்கள், சுன்னாகம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததையடுத்து விசாரணைகளை முன்னெடுத்த பொலிஸார்  தாக்குதலாளிகள் இருவரையும் கைது செய்துள்ளனர்.
+
+கைதுசெய்யப்பட்ட இருவரும் கனடா நாட்டில் இருந்து விடுமுறைக்காக யாழ்ப்பாணம் வந்தவர்கள் என்பதும் , கொடுக்கல் வாங்கல் பிரச்சினை காரணமாகவே இந்த தாக்குதல் சம்பவம் இடம்பெற்றுள்ளதாகவும் பொலிஸாரின் ஆரம்ப கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+கைதுசெய்யப்பட்ட இருவரையும் பொலிஸ் நிலையத்தில் தடுத்து வைத்து மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/3d352c3b.json)
+
+---
+
 ### World record from Society
 
 *2024-05-21 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196869) · `si`
@@ -142,41 +230,65 @@ The F-44 spear throwing event recorded a 66.49 meters in the first attempt at hi
 
 ---
 
-### කෝවිල් වැඳල එද්දි බැතිමතුන් සමග බස් රථය පෙරලී 6 කට බරපතලයි
+### Bus with devotees with devotees at the bowl in Kovil
 
 *2024-05-21 16:13:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-වැඳල-එද්දි-බැතිමතුන්-සමග-බස්-රථය-පෙරලී-6-කට-බරපතලයි/11-409769) · `si`
 
-කිලිනොච්චිය පුනරීන් පාලම ආසන්නයේදී අද (21) දින ධාවනය වූ පෞද්ගලික බස්රථයක් පෙරලී යම හේතුවෙන් එහි ගමන්ගත් මගීන් 06 දෙනෙකු බරපතල තුවාල ලබ ඇතැයි පුනරීන් පොලීසිය පැවසීය.
+A private bus carrying devotees to the Kovil was involved in an accident near Pooneryn Bridge, injuring several passengers. The victims were transported to Jaffna and Kilinochchi hospitals. Police investigations suggest the driver lost control, leading to the incident.
 
-මුලතිව් වට්ට්‍රාපලෙයි කෝවිලේ පැවති වර්ෂික දේව මෙහෙයක් වෙනුවෙන් යාපනයේ සිට පෞද්ගලික බස්රථයකින් පැමිණ දේව මෙහෙය අවසන් වීමෙන් පසුව නැවත යාපනය බලා යමින් සිටියදී මෙලෙස අනතුරට ලක් ඇත. බස්රථය අධික වේගයෙන් ගමන් කිරීමෙන් රියදුරුට වේගය පාලනය කරගැනීමට නෙහැකිව මාර්ගයෙන් ඉවතට පැන පෙරලී යන්නට ඇතැයි පොලීසිය සැක පල කර සිටියි.
+🟩
 
-බස්රථය පෙරලීමෙන් එහි ගමන්ගත් මගීන් 6 දෙනෙකු තුවාල ලබා පුනරීන් රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා ඔවුන් කිලිනොච්චිය රෝහලට මාරු කොට යවා ඇති අතර පුනරීන් පොලීසිය වැඩිදුර පරික්ෂණ සිදු කරයි.
+A private bus operated near the Pooneryn Bridge near the Pooneryn Bridge has been seriously injured today.
+
+The victim has been taken back to Jaffna for a private bus to arrive in Jaffna on a private bus to arrive on the Vertarrawelai Kovil.. Police suspect that the driver has gone to the driver to control the bus, and the driver will be removed.
+
+The Pooneryn has been transferred to the Kilinochchi hospital and the Pooneryn police have been transferred to the hospital.
 
 ◼️
 
 [Data](articles/9d81179a.json)
 
+[Extended Data](ext_articles/9d81179a.ext.json)
+
 ---
 
-### Mourners begin days of funerals for Iran’s president and others killed in helicopter crash
+### 50,000 குடும்பங்களுக்கு வீட்டு உறுதிப் பத்திரங்களை வழங்குவதற்கான புதிய அமைச்சரவை பத்திரத்திற்கு அமைச்சரவை அங்கீகாரம்
 
-*2024-05-21 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99360/mourners-begin-days-of-funerals-for-irans-president-and-others-killed-in-helicopter-crash) · `en`
+*2024-05-21 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184153) · `ta`
 
-Mourners in black began gathering Tuesday for days of funerals and processions for Iran’s late president, foreign minister and others killed in a helicopter crash, a government-led series of ceremonies aimed at both honoring the dead and projecting strength in an unsettled Middle East.
+குறைந்த வருமானம் பெறும் 50,000 குடும்பங்களுக்கு உறுதிப் பத்திரம் வழங்கும் திட்டத்தின் கீழ், வீடுகளின் முழு உரிமையை மாற்றும் போது அசல் பயனாளி இறந்திருந்தால், தற்போது அந்த வீட்டில் வசிக்கும் அவரது வாரிசுகளுக்கு உரிமைப் பத்திரம் வழங்க அமைச்சரவை ஒப்புதல்  அளித்துள்ளது.
 
-For Iran’s Shiite theocracy, mass demonstrations have been crucial since millions thronged the streets of Tehran to welcome Grand Ayatollah Ruhollah Khomeini in 1979 during the Islamic Revolution, and also attended his funeral 10 years later. An estimated 1 million turned out in 2020 for processions for the late Revolutionary Guard Gen. Qassem Soleimani, who was slain in a U.S. drone strike in Baghdad.
+நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க சமர்ப்பித்த அமைச்சரவை பத்திரத்தின் பிரகாரம் அமைச்சரவை இந்த தீர்மானத்தை எட்டியுள்ளது.
+
+வீட்டு உரிமையாளர்களுக்கு நோட்டரி கட்டணம், முத்திரைகள் மற்றும் உரிமைப் பத்திரங்களை வழங்கும்போது ஏற்படும் பிற வரிகளில் இருந்து விலக்கு அளிக்கவும் அமைச்சரவை ஒப்புதல் அளித்துள்ளது. அதன்படி, அதற்கான நோட்டரி கட்டணம், முத்திரைகள் மற்றும் பிற வரிகள் திறைசேரியால் ஏற்கப்பட வேண்டும்.
 
 ...
 
-[Data](articles/29ab31e6.json)
+[Data](articles/b361fcc0.json)
 
-[Extended Data](ext_articles/29ab31e6.ext.json)
+---
+
+### வாவியின் நடுவே வெசாக் தோரணம்
+
+*2024-05-21 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184138) · `ta`
+
+அந்தவகையில், மாத்தறை மாவட்டத்தில் அகுரஸ்ஸ மாரம்பே வாவியின் நடுவே வெசாக் தோரணம் அமைக்கப்பட்டுள்ளது.
+
+இந்த வெசாக் தோரணத்தை 23 ஆம் திகதி முதல் ஜூன் மாதம் முதலாம் திகதி வரை பொது மக்கள் பார்வையிட முடியும்.
+
+கொட்டும் மழையில் வாவிக்கு நடுவில் இவ்வாறு பெரிய அழகிய தோரணம் வடிவமைக்கப்பட்டுள்ளமை பாராட்டத்தக்க விடயமாகும்.
+
+வாவியில் தோரணத்தை செய்யும் படி என்னை ஊர்மக்கள் ஊக்கிவித்தார்கள். அதனால் வாவியின் நடுவே பாரிய அழகிய தோரணம் ஒன்றை வடிவமைக்க முடிந்தது. இதற்கு அனைவரும் எனக்கு உதவி புரிந்தார்கள் என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/16a19117.json)
 
 ---
 
 ### Norwegian Duda has met with the president and political parties during his visit to Sri Lanka
 
-*2024-05-21 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184145) · `ta`
+*2024-05-21 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184145) · `ta`
 
 Norwegian Ambassador Ein Stener Strengthening Ties: During his visit to Sri Lanka, Ambassador Ein Stener met with President Ranil Wickremesinghe, External Affairs Minister Ali Sabri, and other key figures. Discussions focused on enhancing bilateral ties, Norway's investment growth, tourism influx, and cooperation in renewable energy and economic reforms. The visit underscored Norway's dedication to fostering closer relations with Sri Lanka.
 
@@ -197,6 +309,34 @@ Both sides re -pointed out their commitment to maintaining close cooperation bet
 [Data](articles/0aef1939.json)
 
 [Extended Data](ext_articles/0aef1939.ext.json)
+
+---
+
+### ஈரான் ஜனாதிபதி மரணம் ; விபத்தா, சதியா? மொசாட்  சி.ஐ.ஏ யை விட ஈரானில் அவருக்கு எதிரிகள் அதிகம்
+
+*2024-05-21 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184149) · `ta`
+
+இஸ்ரேலும் அமெரிக்காவும் ஈரானின் நேரடி எதிரி நாடுகள்.ஆனால் கடும்போக்கு மதவாதியாக ரைசியின் கொடுங்கோல் ஆட்சியில் அவருக்கெதிரான பிரிவினர்  ஈரானிலேயே உருவாகியிருந்தனர். ஈரான்– ஈராக் யுத்தத்தின் போது கைது செய்யப்பட்ட சுமார் ஐந்தாயிரம் பேரை ரைசியே தூக்கிலிட்டதாக தகவல்கள் உள்ளன. அதே போன்று இஸ்லாமிய கலாசாரங்களுக்குள்ளேயே நாட்டு மக்கள் இருக்க வேண்டும் என்று விரும்பம் ரைசி அதை முன்னெடுப்பதற்கு கலாசார காவலர்கள் என்ற இரகசிய படைப் பிரிவொன்றையும் வைத்திருந்தார். இந்த படைப்பிரிவின் உறுப்பினர்களே 2022 ஆம் ஆண்டு மஹ்சா அம்னி என்ற 22 வயது பெண் முறையாக ஹிஜாப் அணியவில்லையென அவரை அடித்தே கொன்றனர். அதைத்தொடர்ந்து முன்னெடுக்கப்பட்ட போராட்டங்களில் நூற்றுக்கணக்கானோர் கொல்லப்பட்டனர். இதற்குப் பின்னணியில் ரைசியின் கரங்களே இருந்ததாக அப்போது ஈரான் முழுதும் குற்றச்சாட்டுகள் பரப்பப்பட்டன.
+
+◼️
+
+[Data](articles/b0b6086d.json)
+
+---
+
+### Mourners begin days of funerals for Iran’s president and others killed in helicopter crash
+
+*2024-05-21 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99360/mourners-begin-days-of-funerals-for-irans-president-and-others-killed-in-helicopter-crash) · `en`
+
+Mourners in black began gathering Tuesday for days of funerals and processions for Iran’s late president, foreign minister and others killed in a helicopter crash, a government-led series of ceremonies aimed at both honoring the dead and projecting strength in an unsettled Middle East.
+
+For Iran’s Shiite theocracy, mass demonstrations have been crucial since millions thronged the streets of Tehran to welcome Grand Ayatollah Ruhollah Khomeini in 1979 during the Islamic Revolution, and also attended his funeral 10 years later. An estimated 1 million turned out in 2020 for processions for the late Revolutionary Guard Gen. Qassem Soleimani, who was slain in a U.S. drone strike in Baghdad.
+
+...
+
+[Data](articles/29ab31e6.json)
+
+[Extended Data](ext_articles/29ab31e6.ext.json)
 
 ---
 
@@ -2179,157 +2319,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was down 0.07 pe
 [Data](articles/f53bb8f0.json)
 
 [Extended Data](ext_articles/f53bb8f0.ext.json)
-
----
-
-### A 24 -year -old prisoner death of brain fever
-
-*2024-05-21 09:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-வயதுடைய-கைதி-மூளைக்-காய்ச்சலால்-மரணம்/175-337616) · `ta`
-
-A 24-year-old prisoner died from brain fever after three months in jail. Another inmate is hospitalized with fever.
-
-🟩
-
-Prison sources said that a prisoner who was receiving treatment at the Matara Hospital died last night.
-
-A 24 -year -old man who was jailed about 3 months ago died of a fever.
-
-In addition, another prisoner in Matara Prison has been admitted to the Matara Hospital due to fever.. Remble
-
-◼️
-
-[Data](articles/b2718caa.json)
-
-[Extended Data](ext_articles/b2718caa.ext.json)
-
----
-
-### Vesak week begins today
-
-*2024-05-21 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196849) · `si`
-
-Vesak Week starts today, marking Buddha's birth, enlightenment, and death. A time for reflection and celebration of peace and wisdom.
-
-🟩
-
-◼️
-
-[Data](articles/d20691a0.json)
-
-[Extended Data](ext_articles/d20691a0.ext.json)
-
----
-
-### Netanyahu denounces bid to arrest him over Gaza war
-
-*2024-05-21 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Netanyahu-denounces-bid-to-arrest-him-over-Gaza-war/107-283031) · `en`
-
-May 21 (BBC) - Israeli Prime Minister Benjamin Netanyahu has angrily condemned the International Criminal Court's prosecutor for seeking arrest warrants for him alongside Hamas's leaders over alleged war crimes in the Gaza conflict.
-
-Mr Netanyahu said he rejected with disgust that "democratic Israel" had been compared with what he called "mass murderers".
-
-Mr Netanyahu's comments have been echoed by US President Joe Biden, who said there was no equivalence between Israel and Hamas.
-
-The chief ICC prosecutor, Karim Khan, said there were reasonable grounds to believe that Mr Netanyahu and his Defence Minister Yoav Gallant bore criminal responsibility for alleged war crimes and crimes against humanity in Gaza.
-
-The ICC is also seeking a warrant for Hamas's leader in Gaza, Yahya Sinwar, for war crimes.
-
-Israel and the US, its key ally, are not members of the ICC, which was set up in 2002.
-
-...
-
-[Data](articles/08b290c5.json)
-
-[Extended Data](ext_articles/08b290c5.ext.json)
-
----
-
-### Amnesty International’s Secretary General concludes five-day visit to Sri Lanka
-
-*2024-05-21 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99351/amnesty-internationals-secretary-general-concludes-five-day-visit-to-sri-lanka) · `en`
-
-Amnesty International’s Secretary General, Agnès Callamard, concluded a five-day visit to Sri Lanka on Monday, in which she met with officials and a diverse cross-section of society, stakeholders to discuss a range of pressing human rights issues.
-
-“This visit has provided insights into the many challenges that Sri Lanka is confronting 15 years after the end of the war that has fractured and polarized Sri Lankan society.  I am deeply grateful to all those who engaged with us, recounting their pain and grief, sharing their views and concerns, and voicing their hopes, fears and demands for the present and the future.
-
-“Amnesty International stands ready to support all genuine efforts and commitments to confront long-standing impunity, address the violations and grievances of the past and present, and put an end to discrimination and the repression of fundamental freedoms.
-
-...
-
-[Data](articles/db9fddb3.json)
-
-[Extended Data](ext_articles/db9fddb3.ext.json)
-
----
-
-### High rainfall in Kalutara!
-
-*2024-05-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184099) · `ta`
-
-Kalutara experienced heavy rainfall, with 107mm recorded in Palindanuwara. Other areas like Kalutara-Ingiriya, Bandaragama, Madambe, and Kirindiwala also received significant amounts.
-
-🟩
-
-The Department of Meteorology has predicted heavy rainfall in some parts of Sabaragamuwa, Western and North Western Provinces, as well as some areas of Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Heavy rains were reported in the Kalutara district from 8.30 am to 8.30 am yesterday (20) from 8.00 am.
-
-The Department of Meteorology said that 107 millimeters of rainfall was reported in the Palindanuwara area in the Kalutara district.
-
-Meanwhile, 79 millimeters of rainfall in the Kalutara - Ingiriya area has been reported and 77 millimeters of rain in Bandaragama.
-
-In addition, 75 millimeters of rainfall in Madambe area in the Puttalam district has been reported and 72 mm of rainfall in the Kirindiwala area of the Gampaha district.
-
-◼️
-
-[Data](articles/2c30a8b2.json)
-
-[Extended Data](ext_articles/2c30a8b2.ext.json)
-
----
-
-### Boltimore bridge collapse: the ship is removed after two months
-
-*2024-05-21 09:21:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckmmnez58rjo) · `si`
-
-Baltimore bridge collapsed on March 26, killing six workers. The wreckage was cleared using tugboats over two months, allowing ships to navigate safely along its length.
-
-🟩
-
-It contains nothing here.Vembered header, the boltium collapse: the ship will be removed two months later.
-
-The staff used Tg vessels to remove the Daly Fraud Frait nearly two months after the clash at Francis Scott Croat at the Francis Scott Croat in Boltimore.
-
-On March 26, the ship crashed and six of the construction workers died.
-
-The rest of the bridge was demolished through a planned process to allow 948 feet (289 m) to sail the length of the length.
-
-◼️
-
-[Data](articles/76bc0b09.json)
-
-[Extended Data](ext_articles/76bc0b09.ext.json)
-
----
-
-### Matara Prison inmate dies of suspected brain fever
-
-*2024-05-21 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99350/matara-prison-inmate-dies-of-suspected-brain-fever) · `en`
-
-An inmate of the Matara Prison has succumbed to an illness, presumed to be brain fever, Ada Derana learns.
-
-Sources stated that the 24-year-old inmate, who had been imprisoned about 03 months ago, died while receiving treatment at Matara Hospital last night (20).
-
-It is suspected that the inmate in question died from brain fever and investigations are being conducted in this regard.
-
-Meanwhile, another inmate who is currently receiving medical attention, too, is said to be suffering from the same symptoms.
-
-Several cases of brain fever had been reported from the Matara Prison in December last year resulting in multiple deaths of inmates.
-
-◼️
-
-[Data](articles/2d3b48ae.json)
-
-[Extended Data](ext_articles/2d3b48ae.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 18:53:36**
+As of **2024-05-21 19:03:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,494 (100.0%) of 25,497 articles have been extended.
+25,497 (100.0%) of 25,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1334,6 +1334,8 @@ People engaged in their daily chores have been affected by the adverse weather. 
 
 [Data](articles/277b24d0.json)
 
+[Extended Data](ext_articles/277b24d0.ext.json)
+
 ---
 
 ### Here is the amount of money Danish
@@ -1531,6 +1533,8 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 ...
 
 [Data](articles/d41d8511.json)
+
+[Extended Data](ext_articles/d41d8511.ext.json)
 
 ---
 

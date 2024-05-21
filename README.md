@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 17:34:10**
+As of **2024-05-21 17:54:23**
 
 ## Newspaper Stats
 
-*Scraped **25,474** Articles*
+*Scraped **25,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,102 @@ adalk | 2,185
 adaderanalk | 2,941
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
-dailymirrorlk | 3,999
-adaderanasinhalalk | 4,074
+dailymirrorlk | 4,000
+adaderanasinhalalk | 4,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,467 (100.0%) of 25,474 articles have been extended.
+25,474 (100.0%) of 25,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### චීනයේ ගල්අඟුරු පතලක අනතුරක්
+### විජයදාසගේ පෙත්සම යළි විභාගයට
+
+*2024-05-21 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196873) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා වැඩ බලන මහලේකම් ලෙස කීර්ති උඩවත්ත පත්වීම නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් කොළඹ දිසා අධිකරණය හමුවේ ගොනුකර තිබෙන පැමිණිල්ලක් නිෂ්ප්‍රභ කරන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඉදිරිපත් කළ අභියාචනා පෙත්සම අද (21) බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණය හමුවේ යළි විභාගයට ගැනුණි.
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් එම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+එම පෙත්සම අද ගිහාන් කුලතුංග සහ ෆ්‍රෑන්ක් ගුණවර්ධන යන මහත්වරුන්ගෙන් සමන්විත සිවිල් අභියාචනා මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+කුවේර ද සොයිසා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් කොළඹ දිසා අධිකරණය හමුවේ ගොනු කර තිබූ පෙත්සමේ විත්තිකරුවන් ලෙස නම් කර සිටි නිමල් සිරිපාල ද සිල්වා සහ මහින්ද අමරවීර යන අය කොළඹ දිසා අධිකරණ බලසීමාවේ පදිංචිකරුවන් නොවන බව දිසා විනිසුරුවරයා විසින් තීරණය කිරීම නිසා එම පැමිණිල්ලෙන් ඉල්ලා තිබූ වාරණ නියෝග නිකුත් කිරීම ප්‍රතික්ෂේප කළ බවත් පෙන්වා දුනි.
+
+...
+
+[Data](articles/24e31a23.json)
+
+---
+
+### One dead as London-Singapore flight hit by turbulence
+
+*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-dead-as-London-Singapore-flight-hit-by-turbulence/108-283071) · `en`
+
+May 21 (BBC)- One person has been killed and several others injured on a Singapore Airlines flight from London that was hit by severe turbulence.
+
+The Singapore-bound Boeing 777-300ER was diverted to Bangkok and landed at 15:45 local (08:45 GMT).
+
+Flight SQ 321 was carrying a total of 211 passengers and 18 crew, the airline said in a statement.
+
+"Singapore Airlines offers its deepest condolences to the family of the deceased," it said.
+
+The airline added that it was working with Thai authorities to provide medical assistance to passengers, and was sending a team to Bangkok to provide any additional help needed.
+
+Thai authorities have despatched ambulances and emergency teams to Suvarnabhumi Airport.
+
+Singapore's Transport Minister Chee Hong Tat said the government would provide assistance to the passengers and their families.
+
+"I am deeply saddened to learn about the incident onboard Singapore Airlines flight SQ321 from London Heathrow to Singapore," he posted in a statement on Facebook.
+
+...
+
+[Data](articles/209cbd19.json)
+
+---
+
+### An accident of coal mine in China
 
 *2024-05-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196872) · `si`
 
-චීනයේ ගල්අඟුරු පතලක සිදුවූ අනතුරකින් කම්කරුවන් 05 දෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+In China, five miners died in a coal mine accident caused by a gas leak. Rescue teams saved four others.
 
-වායූ කන්දුවීමක් අනතුරට හේතුවී ඇති බව සිදුකළ මූලික විමර්ශනවලින් අනාවරණය වී ඇත.
+🟩
 
-අනතුරින් පතලේ සිරවී සිටි පුද්ගලයින් සිව්දෙනෙකු බේරාගැනීමට ද සහන කණ්ඩායම් කටයුතු කර ඇති බව වාර්තා වෙයි.
+Five workers have been killed in a coal mine of coal in China.
+
+Preliminary investigations have revealed that a gading rall was accidental.
+
+It is reported that the relief teams have been rescued to save four victims of the mine.
 
 ◼️
 
 [Data](articles/5a5da2cb.json)
 
+[Extended Data](ext_articles/5a5da2cb.ext.json)
+
 ---
 
-### ரூ.360 இலட்சத்திற்கு விற்கப்பட்டார்  பத்திரன
+### Padhena was sold for Rs. 360 lakhs
 
 *2024-05-21 17:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரூ-360-இலட்சத்திற்கு-விற்கப்பட்டார்-பத்திரன/44-337659) · `ta`
 
-தற்போது கொழும்பில் நடைபெற்று வரும் இலங்கை பிரீமியர் லீக் (LPL) கிரிக்கெட் போட்டிக்கான வீரர்கள் ஏலத்தில் எடுக்கப்படுகின்றனர்.
+In Colombo, the Sri Lanka Premier League cricket match's player auction is underway. Notably, young Sri Lankan fast bowler Madhasha Pathirana was bought for approximately Rs 360 lakh, equivalent to US $120,000.
 
-இலங்கையின் இளம் வேகப்பந்து வீச்சாளர் மதிஷா பத்திரன 120,000 அமெரிக்க டொலர்கள் அல்லது கிட்டத்தட்ட 360 இலட்சம் ரூபாய்க்கு கொள்வனவு செய்யப்பட்டுள்ளார்.
+🟩
+
+The players for the Sri Lanka Premier League (LPL) cricket match are currently being auctioned in Colombo.
+
+Sri Lankan young fast bowler Madhasha Pathirana has been purchased for US $ 120,000 or nearly Rs 360 lakh.
 
 ◼️
 
 [Data](articles/82566332.json)
+
+[Extended Data](ext_articles/82566332.ext.json)
 
 ---
 
@@ -126,23 +182,35 @@ In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was
 
 ---
 
-### குஜராத்தில் கைதுசெய்யப்பட்ட இலங்கை ஐஎஸ் உறுப்பினர்கள் - யூதர்கள் கிறிஸ்தவர்கள் பாஜகவினர் ஆர்எஸ் எஸ் அமைப்பை சேர்ந்தவர்களிற்கு பாடம் கற்றுக்கொடுக்க விரும்பினார்கள்- இந்திய ஊடகம்
+### Sri Lankan IS members arrested in Gujarat - Jews Christians wanted to teach the Lesson to the RSS organization - Indian media
 
 *2024-05-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184158) · `ta`
 
-இந்தியாவின் குஜராத்தின் அஹமதாபாத் விமானநிலையத்திற்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்ட சில நாட்களின் பின்னர் நான்கு ஐஎஸ் பயங்கரவாதிகள் கைதுசெய்யப்பட்டனர்.
+IS terrorists arrested in Gujarat post-bomb threat; planned attack linked to RSS. Four suspects nabbed in Ahmedabad, connected to Pakistan-based handler "Abu". Weapons found during investigation.
 
-இந்தியாவின் குஜராத்தில் பயங்கரவாத தாக்குதலில் ஈடுபடுவதற்காக சந்தேகநபர்கள் அஹமதாபாத் வரவுள்ளனர் என்ற தகவல் கிடைத்த பின்னர் இவர்களை கைதுசெய்வதற்காக விசேட பொலிஸ் குழுக்களை  ஏற்படுத்தியதாக குஜராத் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இவர்கள் சென்னையிலிருந்து அஹமதாபாத் புறப்பட்ட இன்டிகோ விமானத்தில் புறப்பட்டனர் என குஜராத் பொலிஸ் அதிகாரி விகாஸ் சகாய் தெரிவித்துள்ளார்.
+Four IS terrorists were arrested a few days after the bomb threatened to the Ahmedabad airport in India's Gujarat.
 
-தென்பகுதியிலிருந்து வரும் பயணிகள் பட்டியலை சோதனை செய்த பின்னர் இவர்களை கைதுசெய்தோம் கொழும்பில் உள்ள அதிகாரிகளுடன் தொடர்புகொண்டு இவர்களின் விபரங்களை உறுதி செய்துள்ளோம் என அவர் தெரிவித்துள்ளார்.
+Gujarat police have said that special police teams have been set up to arrest the suspects after receiving information that the suspects are coming to Ahmedabad to engage in a terrorist attack in Gujarat, India.
 
-இவர்கள் நால்வரும் சமூக ஊடகங்கள் ஊடாக அபு என்ற பாக்கிஸ்தானை சேர்ந்த நபருடன் தொடர்பிலிருந்துள்ளனர்.
+Gujarat police officer Vikas Sakai said they departed from Chennai on the Indigo flight from Chennai.
+
+After checking the list of passengers from the south, they arrested them with the authorities in Colombo and confirmed their details.
+
+They are in contact with a person from Pakistan, Abu, through social media.
+
+The Gujarat police officer said that Abu prompted them to attack in India and were ready to carry out a suicide attack as they were extremely terrorized.
+
+While examining the suspects' mobile phones, we have found pictures of some weapons.
+
+Gujarat police said that the weapons were arranged by a man from Pakistan.
 
 ...
 
 [Data](articles/1db0a8d5.json)
+
+[Extended Data](ext_articles/1db0a8d5.ext.json)
 
 ---
 
@@ -190,23 +258,29 @@ The annual point of food category of food category of food in March 2024 has fal
 
 ---
 
-### யாழில் வீடு புகுந்து தாக்குதல் நடத்திய கனடா வாசிகள் இருவர் கைது!
+### Two Canada residents arrested for attacking home
 
 *2024-05-21 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184119) · `ta`
 
-யாழ்ப்பாணத்தில் உள்ள வீடொன்றினுள் அத்துமீறி நுழைந்து வீட்டில் இருந்தவர்கள் மீது தாக்குதல் மேற்கொண்ட குற்றச்சாட்டில் கனடாவில் இருந்து வந்த இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two Canadians arrested in Jaffna for attacking homeowners; incident sparked by a transaction dispute during their vacation.
 
-சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் உள்ள வீடொன்றினுள் நேற்று  திங்கட்கிழமை (20) அத்துமீறி நுழைந்த இருவர் வீட்டில் இருந்தவர்கள் மீது தாக்குதல் மேற்கொண்டுவிட்டு தப்பி சென்றுள்ளனர்.
+🟩
 
-சம்பவம் தொடர்பில் பாதிக்கப்பட்டவர்கள், சுன்னாகம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததையடுத்து விசாரணைகளை முன்னெடுத்த பொலிஸார்  தாக்குதலாளிகள் இருவரையும் கைது செய்துள்ளனர்.
+Two people from Canada have been arrested for allegedly attacking the householders in a house in Jaffna.
 
-கைதுசெய்யப்பட்ட இருவரும் கனடா நாட்டில் இருந்து விடுமுறைக்காக யாழ்ப்பாணம் வந்தவர்கள் என்பதும் , கொடுக்கல் வாங்கல் பிரச்சினை காரணமாகவே இந்த தாக்குதல் சம்பவம் இடம்பெற்றுள்ளதாகவும் பொலிஸாரின் ஆரம்ப கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Two persons who had entered the house in the Chunnakam police division area on Monday (20) had fled the house.
 
-கைதுசெய்யப்பட்ட இருவரையும் பொலிஸ் நிலையத்தில் தடுத்து வைத்து மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+The victims have lodged a complaint at the Chunnakam police station and the police have arrested the two attackers.
+
+Initial investigations by the police revealed that the two arrested were from Canada for vacation and that the attack was due to the issue of transaction.
+
+Further investigations are being carried out by the police detained at the police station.
 
 ◼️
 
 [Data](articles/3d352c3b.json)
+
+[Extended Data](ext_articles/3d352c3b.ext.json)
 
 ---
 
@@ -252,37 +326,49 @@ The Pooneryn has been transferred to the Kilinochchi hospital and the Pooneryn p
 
 ---
 
-### 50,000 குடும்பங்களுக்கு வீட்டு உறுதிப் பத்திரங்களை வழங்குவதற்கான புதிய அமைச்சரவை பத்திரத்திற்கு அமைச்சரவை அங்கீகாரம்
+### Cabinet approval for the new Cabinet Paper for issuing housing bonds to 50,000 families
 
 *2024-05-21 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184153) · `ta`
 
-குறைந்த வருமானம் பெறும் 50,000 குடும்பங்களுக்கு உறுதிப் பத்திரம் வழங்கும் திட்டத்தின் கீழ், வீடுகளின் முழு உரிமையை மாற்றும் போது அசல் பயனாளி இறந்திருந்தால், தற்போது அந்த வீட்டில் வசிக்கும் அவரது வாரிசுகளுக்கு உரிமைப் பத்திரம் வழங்க அமைச்சரவை ஒப்புதல்  அளித்துள்ளது.
+The Cabinet approved a plan to issue housing bonds to 50,000 low-income families, allowing ownership transfer upon death. This decision followed a proposal by Minister Prasanna Ranatunga, aligning with the government's urban development goals. The scheme includes tax exemptions on issuance costs like notary fees and stamps. President Ranil Wickremesinghe's 2024 budget proposal aims to support these homeowners financially. However, concerns were raised about potential harm to residents, especially those who have fully paid their rents. To address this, it was suggested to prioritize those who paid their rent by December 31st and issue certificates accordingly. Maintenance of these properties will be managed by a Joint Management Corporation post-transfer.
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க சமர்ப்பித்த அமைச்சரவை பத்திரத்தின் பிரகாரம் அமைச்சரவை இந்த தீர்மானத்தை எட்டியுள்ளது.
+🟩
 
-வீட்டு உரிமையாளர்களுக்கு நோட்டரி கட்டணம், முத்திரைகள் மற்றும் உரிமைப் பத்திரங்களை வழங்கும்போது ஏற்படும் பிற வரிகளில் இருந்து விலக்கு அளிக்கவும் அமைச்சரவை ஒப்புதல் அளித்துள்ளது. அதன்படி, அதற்கான நோட்டரி கட்டணம், முத்திரைகள் மற்றும் பிற வரிகள் திறைசேரியால் ஏற்கப்பட வேண்டும்.
+Under the scheme of issuing a confirmation of 50,000 low -income families, the Cabinet has approved the right to issue a right to his successors in the house if the original beneficiary has died while changing the entire ownership of the houses.
+
+The Cabinet has reached the resolution in accordance with the Cabinet paper submitted by Prasanna Ranatunga, Minister of Urban Development and Housing.
+
+The Cabinet has also approved the exemption from other taxes that occur when homeowners are issued notary fees, stamps and rights.. Accordingly, the notary fee, stamps and other lines should be accepted by the Treasury.
 
 ...
 
 [Data](articles/b361fcc0.json)
 
+[Extended Data](ext_articles/b361fcc0.ext.json)
+
 ---
 
-### வாவியின் நடுவே வெசாக் தோரணம்
+### Vesak posture
 
 *2024-05-21 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184138) · `ta`
 
-அந்தவகையில், மாத்தறை மாவட்டத்தில் அகுரஸ்ஸ மாரம்பே வாவியின் நடுவே வெசாக் தோரணம் அமைக்கப்பட்டுள்ளது.
+The Vesak posture, a significant event, is set up in Matara's Akurassa Marambe Wavi, open from May 23rd to June 1st. Despite the rain, locals supported its creation, resulting in a grand display.
 
-இந்த வெசாக் தோரணத்தை 23 ஆம் திகதி முதல் ஜூன் மாதம் முதலாம் திகதி வரை பொது மக்கள் பார்வையிட முடியும்.
+🟩
 
-கொட்டும் மழையில் வாவிக்கு நடுவில் இவ்வாறு பெரிய அழகிய தோரணம் வடிவமைக்கப்பட்டுள்ளமை பாராட்டத்தக்க விடயமாகும்.
+In the meantime, the Vesak posterity has been set up in the middle of the Akurassa Marambe Wavi in the Matara district.
 
-வாவியில் தோரணத்தை செய்யும் படி என்னை ஊர்மக்கள் ஊக்கிவித்தார்கள். அதனால் வாவியின் நடுவே பாரிய அழகிய தோரணம் ஒன்றை வடிவமைக்க முடிந்தது. இதற்கு அனைவரும் எனக்கு உதவி புரிந்தார்கள் என குறிப்பிட்டுள்ளார்.
+The public can visit the Vesak posture from the 23rd to June 1st.
+
+It is commendable that a large beautiful posture is designed in the midst of the pouring rain.
+
+The townspeople encouraged me to make a posture. So I was able to design a massive beautiful posture in the middle of the Wavi. He said everyone helped me.
 
 ◼️
 
 [Data](articles/16a19117.json)
+
+[Extended Data](ext_articles/16a19117.ext.json)
 
 ---
 
@@ -312,15 +398,21 @@ Both sides re -pointed out their commitment to maintaining close cooperation bet
 
 ---
 
-### ஈரான் ஜனாதிபதி மரணம் ; விபத்தா, சதியா? மொசாட்  சி.ஐ.ஏ யை விட ஈரானில் அவருக்கு எதிரிகள் அதிகம்
+### The death of the President of Iran;Accident, conspiracy?He has more enemies in Iran than Mossad CIA
 
 *2024-05-21 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184149) · `ta`
 
-இஸ்ரேலும் அமெரிக்காவும் ஈரானின் நேரடி எதிரி நாடுகள்.ஆனால் கடும்போக்கு மதவாதியாக ரைசியின் கொடுங்கோல் ஆட்சியில் அவருக்கெதிரான பிரிவினர்  ஈரானிலேயே உருவாகியிருந்தனர். ஈரான்– ஈராக் யுத்தத்தின் போது கைது செய்யப்பட்ட சுமார் ஐந்தாயிரம் பேரை ரைசியே தூக்கிலிட்டதாக தகவல்கள் உள்ளன. அதே போன்று இஸ்லாமிய கலாசாரங்களுக்குள்ளேயே நாட்டு மக்கள் இருக்க வேண்டும் என்று விரும்பம் ரைசி அதை முன்னெடுப்பதற்கு கலாசார காவலர்கள் என்ற இரகசிய படைப் பிரிவொன்றையும் வைத்திருந்தார். இந்த படைப்பிரிவின் உறுப்பினர்களே 2022 ஆம் ஆண்டு மஹ்சா அம்னி என்ற 22 வயது பெண் முறையாக ஹிஜாப் அணியவில்லையென அவரை அடித்தே கொன்றனர். அதைத்தொடர்ந்து முன்னெடுக்கப்பட்ட போராட்டங்களில் நூற்றுக்கணக்கானோர் கொல்லப்பட்டனர். இதற்குப் பின்னணியில் ரைசியின் கரங்களே இருந்ததாக அப்போது ஈரான் முழுதும் குற்றச்சாட்டுகள் பரப்பப்பட்டன.
+Iran's President Raisi, accused of executing thousands post-Iran-Iraq war & leading secret forces against cultural dissent, faces criticism over the death of Mahsa Amini, sparking nationwide protests and allegations of his involvement.
+
+🟩
+
+Israel and the United States are the direct enemy of Iran.. There are reports that Richie has executed about five thousand people arrested during the Iran -Iraq war. Similarly, Rasi also kept a secret force called Cultural Guards to carry out it in the Islamic cultures.. Members of the brigade were killed in 2022, Mahsa Amni, a 22 -year -old woman who did not wear a hijab.. Hundreds of people were killed in the protests that followed. In the wake of this, the whole Iran was spreading allegations that Raisi's hands were in the backdrop.
 
 ◼️
 
 [Data](articles/b0b6086d.json)
+
+[Extended Data](ext_articles/b0b6086d.ext.json)
 
 ---
 
@@ -2265,59 +2357,5 @@ The Minister also addressed India's concerns regarding the visits of Chinese res
 [Data](articles/923f82ce.json)
 
 [Extended Data](ext_articles/923f82ce.ext.json)
-
----
-
-### Sri Lanka's arrests of IS suspects in Gujarat
-
-*2024-05-21 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184106) · `ta`
-
-Sri Lanka's National Intelligence Unit investigates the arrest of four Sri Lankans suspected of being part of the Islamic State (IS) in Ahmedabad, Gujarat. The unit seeks more details from India's intelligence agency. Authorities say the next steps will commence once Indian authorities provide information. The suspects were apprehended at the airport in Gujarat, where they had traveled from Chennai.
-
-🟩
-
-Sri Lanka's National Intelligence Unit has launched an immediate investigation into the arrest of four Sri Lankans who are considered to belong to the IS.
-
-Investigations have begun about the arrest of four Sri Lankan Sri Lankan people who are suspected of belonging to the IS organization in Ahmedabad.
-
-The Sri Lanka Intelligence Unit has sought further information from the India Intelligence Unit to investigate the background of these suspects and to investigate whether they are really IS suspects.
-
-Sri Lankan authorities have said that the next phase of investigations will begin immediately after Indian authorities have provided information.
-
-The four arrested had gone to Gujarat a few days ago from Chennai to Chennai.
-
-Indian officials said they were arrested at the airport while waiting for the person who took responsibility for organizing the next step.
-
-Indian officials said that the police recovered news of the hidden conversations found on their mobile phones.
-
-...
-
-[Data](articles/eecfd5c1.json)
-
-[Extended Data](ext_articles/eecfd5c1.ext.json)
-
----
-
-### Sri Lanka rupee opens broadly stable at 299.65/85 to US dollar
-
-*2024-05-21 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-299-65-85-to-us-dollar-163869/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened broadly stable at 299.65/85 to the US dollar on Friday, from 299.60/75 the previous day, dealers said. Bond yields were up.
-
-A bond maturing on 15.12.2026 was quoted down at 10.10/25 percent from 10.15/35 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 10.35/50 percent from 10.45/55 percent.
-
-A bond maturing on 01.07.2028 was quoted down at 10.70/80 percent from 10.80/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 10.65/70 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was down 0.07 percent at 12,244, the S&P SL20 was up 0.02 percent at 3,613. (Colombo/May21/2024)
-
-◼️
-
-[Data](articles/f53bb8f0.json)
-
-[Extended Data](ext_articles/f53bb8f0.ext.json)
 
 ---

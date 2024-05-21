@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 05:36:15**
+As of **2024-05-21 05:59:04**
 
 ## Newspaper Stats
 
-*Scraped **25,317** Articles*
+*Scraped **25,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 226
 bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
-islandlk | 1,366
+islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,169
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,317 (100.0%) of 25,317 articles have been extended.
+25,317 (100.0%) of 25,327 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -754,6 +754,108 @@ Netanyahu and other Israeli leaders condemned the move as disgraceful and antise
 
 ---
 
+### First vinyl release…
+
+*2024-05-20 22:40:00* · [`islandlk`](http://island.lk/first-vinyl-release/) · `en`
+
+Sri Lanka-born Andrea Marr, who now resides in Melbourne, Australia, is very much in the news with her McNaMarr Project.
+
+Vocalist/Vocal Coach, 2022 Blues Music Victoria Hall Of Fame People’s Choice Award Winner, Andrea says that she has completed recording a live vinyl record and will be releasing it on the 21st of July at Way Out West Roots Music Club, located at Williamstown RSL, in the Western suburbs of Melbourne.
+
+According to Andrea, it will be the McNaMarr Project’s third album, her 10th album, and her first vinyl release.
+
+The album is called the ‘Quasar Sessions’ and the songs recorded were all done completely live, with no auto tune or overdubs.
+
+Andrea is also the owner, director and vocal coach at Andrea Marr Music School, in Melbourne.
+
+You could check out their song, ‘Baby I Love You’ YouTube – youtu.be/mbV1srj9vgE?si=4xKt2fcmTprlsFud
+
+High Commission in Nairobi hosts International Vesak Day at UN Office
+
+...
+
+[Data](articles/88be570f.json)
+
+---
+
+### Ninewells Hospital demonstrates commitment to community with donation to NHSL’s new Ambulatory Care Building
+
+*2024-05-20 22:27:00* · [`islandlk`](http://island.lk/ninewells-hospital-demonstrates-commitment-to-community-with-donation-to-nhsls-new-ambulatory-care-building/) · `en`
+
+Ninewells Hospital – the leader in neonatal, pediatric and family healthcare excellence – recently donated the new Ambulatory Care Building of the National Hospital of Sri Lanka (NHSL) with medical equipment and benches for patients. This kind act of goodwill and generosity by Ninewells Hospital, under its corporate social responsibility initiatives, underscores its commitment to compassionate healthcare for all. The medical equipment and benches will help to provide healthcare services, and comfortable seating, for patients seeking medical attention at this new facility. The donation was made in time for the opening ceremony of the new facility, which was held on the 7th of May 2024.
+
+...
+
+[Data](articles/b2047f14.json)
+
+---
+
+### Union Bank opens newest Digital Zone in Rajagiriya
+
+*2024-05-20 22:25:00* · [`islandlk`](http://island.lk/union-bank-opens-newest-digital-zone-in-rajagiriya/) · `en`
+
+Union Bank opened a highly automated Digital Zone in Rajagiriya, as part of the Bank’s digital transformation initiatives to expand Smart Banking convenience to customers. Union Bank Digital Zones were also opened at the Bank’s Head Office and at the Pettah branch recently.
+
+Ninewells Hospital demonstrates commitment to community with donation to NHSL’s new Ambulatory Care Building
+
+Union Bank hosts engaging customer events celebrating International Women’s Day
+
+Agreement to support the expansion of Union Bank’s women-focused financial services
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d038edb3.json)
+
+---
+
+### CIPM Great HR Debate 2024 to be held alongside the National HR Conference
+
+*2024-05-20 22:24:00* · [`islandlk`](http://island.lk/cipm-great-hr-debate-2024-to-be-held-alongside-the-national-hr-conference/) · `en`
+
+CIPM Sri Lanka – the Nation’s leader in human resource management, will conduct the Grand Finale of the Great HR Debate 2024, the flagship corporate debating challenge alongside the proceedings of the National HR Conference to be held on 5th and 6th June at the Monarch Imperial. Texlan Center (Pvt) Ltd, Nestle’ Lanka Limited, IFS R & D International (Pvt) Ltd, A. Baur & Co. (Pvt) Ltd., H Connect International (Pvt) Ltd, McLarens Group, Maliban Biscuit Manufactories (Pvt) Ltd, Aitken Spence PLC, and Jay Jay Mills Lanka (Pvt) Ltd are the companies who have nominated their teams to participate in the debating championship.
+
+...
+
+[Data](articles/a2ae258f.json)
+
+---
+
+### CEAT continues to support education of rubber farmers’ children
+
+*2024-05-20 22:22:00* · [`islandlk`](http://island.lk/ceat-continues-to-support-education-of-rubber-farmers-children/) · `en`
+
+Donates shoes and school bags to students of four schools in Ratnapura and Elpitiya
+
+Students of four schools in the Ratnapura and Elpitiya areas have received essential requirements such the shoes and school bags they need from CEAT Kelani Holdings under a community project to support the education of children in rubber cultivating regions.
+
+The latest beneficiaries of the programme were the students of Batathota Vidyalaya – Batathota, Mahawatta Kanda Vidyalaya – Batathota and Lassakanda Vidyalaya – Erathna, all in the Kuruwita area of the Ratnapura District, and of Sri Dammathilaka Maha Vidyalaya – Divithura in the Elpitiya area.
+
+A total of 236 children were presented shoes and school bags at these schools by CEAT Kelani, which manufactures half of Sri Lanka’s pneumatic tyre requirements sourcing 100 per cent of its natural rubber needs from local producers that employ 10,000 cultivator families.
+
+...
+
+[Data](articles/ade5b8db.json)
+
+---
+
+### Softlogic Life grows 20% in 1Q 2024, posts 7.2bn GWP
+
+*2024-05-20 22:19:00* · [`islandlk`](http://island.lk/softlogic-life-grows-20-in-1q-2024-posts-7-2bn-gwp/) · `en`
+
+Softlogic Life recorded another quarter of robust financial performance in a challenging business environment, posting Gross Written Premium (GWP) of Rs. 7.2 billion during the first three months ending 31st March (1QFY24). The top-line growth is an increase of 20% compared to 3% during the corresponding period of last year.
+
+The burdens heaped on customers amidst numerous economic difficulties have been alleviated somewhat due to having purchased insurance where Softlogic Life has steadfastly supported its policyholders during Q1 as well, demonstrating an unwavering commitment to meeting all obligations whilst also seeking to enhance customer benefits. The Company has demonstrated its full commitment to policyholders by paying out claims and benefits of Rs. 3.4 billion for the quarter, continuing from Rs. 12.8 billion that was paid during 2023, underscoring Softlogic Life’s resolve to uphold its said promise to all policyholders.
+
+...
+
+[Data](articles/088fd182.json)
+
+---
+
 ### Man shot dead in Kalutara
 
 *2024-05-20 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-dead-in-Kalutara/108-282988) · `en`
@@ -797,6 +899,22 @@ In this case, the Sri Lankan team will take part in Tuesday in the men's 4O 100 
 [Data](articles/f53c6771.json)
 
 [Extended Data](ext_articles/f53c6771.ext.json)
+
+---
+
+### Share market dogged by dullness as parliament dissolution worries persist
+
+*2024-05-20 22:08:00* · [`islandlk`](http://island.lk/share-market-dogged-by-dullness-as-parliament-dissolution-worries-persist/) · `en`
+
+The stock market yesterday indicated some selling pressure, due to the absence of micro and macro- economic factors to boost it. These factors accounted for the market remaining dull the whole day, market analysts explained.
+
+Apparently, worries mainly over the dissolution of Parliament for the conduct of an election soon compounded the market’s selling pressure.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 75.73 points while S and P SL 20 declined by 24.54 points. Turnover stood at Rs 1 billion with one crossing. The crossing was reported in Sampath Bank, which crossed 1 million shares to the tune of Rs 78 million; its shares traded at Rs 78.
+
+...
+
+[Data](articles/a9941050.json)
 
 ---
 
@@ -889,6 +1007,30 @@ A person in the house was shot dead by a T-56 firearm.
 [Data](articles/27bdb236.json)
 
 [Extended Data](ext_articles/27bdb236.ext.json)
+
+---
+
+### ‘Economic Transformation Bill ‘ and ‘Public Financial Management Bill’ to Parliament on May 22 – Acting Finance Minister Shehan Semasinghe
+
+*2024-05-20 21:36:00* · [`islandlk`](http://island.lk/economic-transformation-bill-and-public-financial-management-bill-to-parliament-on-may-22-acting-finance-minister-shehan-semasinghe/) · `en`
+
+Acting Finance Minister Shehan Semasinghe announced plans to introduce two significant bills to Parliament on May 22, aimed at bolstering the country’s economy.
+
+These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns.
+
+Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre today (20), themed ‘Collective path to a stable country’.
+
+Related Topics:‘Collective path to a stable country’. Acting Finance Minister“Economic Transformation Bill”“Public Financial Management Bill”
+
+President highlights Global North’s failure in Climate Change Financing at 10th World Water Forum
+
+A program aimed to instill mindfulness in the current generation held at Independence Square in Colombo
+
+President Wickremesinghe receives warm welcome at Gusti Ngurah Rai International Airport in Bali
+
+...
+
+[Data](articles/1b9db6b0.json)
 
 ---
 
@@ -2033,179 +2175,5 @@ Prior to the apprehension of Rambukwella, seven arrests had been made in connect
 [Data](articles/c30ae02c.json)
 
 [Extended Data](ext_articles/c30ae02c.ext.json)
-
----
-
-### 'Indian 2' update starring Kamal Haasan
-
-*2024-05-20 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184050) · `ta`
-
-"Indian 2," directed by Shankar, stars Kamal Haasan alongside J.. Surya, Bobby Simha, and more. Composed by Anirudh, it's produced by Subhashkaran under Leica Productions. The film, set for global release on July 12th, has its music launch in Chennai on June 1st, with the first song out on May 22nd. Following "Indian 2," "Indian 3" is slated for release six months later, stirring excitement among fans."
-
-🟩
-
-The film crew has officially released new information about the movie 'Indian 2' starring Kamal Haasan.
-
-Directed by director Shankar in 'Indian 2'. J.. Surya, Bobby Simha, Samudrakani, Rahul Preet Singh and many others have been cast. Anirudh has composed the film, which is being recorded by Ravivarman. The film was produced by producer Subhashkaran on behalf of Leica Productions.
-
-The event is beginning to advertise the film. In the first phase of the film, the film crew's participation in the IPL match in India released important information on the release of the film.. The film will be released worldwide on July 12th.. The music launch of the film will be held in Chennai on the first day of June. They also announced that the first song of the film will be released on the 22nd of this month.. Six months after the release of 'Indian 2', 'Indian 3' will also be released.. This makes the fans excited.
-
-...
-
-[Data](articles/c4896c81.json)
-
-[Extended Data](ext_articles/c4896c81.ext.json)
-
----
-
-### CID names Diana Gamage as suspect in passport case
-
-*2024-05-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99340/cid-names-diana-gamage-as-suspect-in-passport-case) · `en`
-
-The Criminal Investigations Department (CID) has submitted a report to the Colombo Chief Magistrate’s Court, naming former State Minister Diana Gamage as a suspect in the case pertaining to the obtaining of a diplomatic passport.
-
-Accordingly, the Colombo Chief Magistrate Thilina Gamage has ordered the CID to take appropriate measures and report back to the court.
-
-The CID has also reported the facts to Colombo Chief Magistrate alleging that the accused is missing from her residence.
-
-◼️
-
-[Data](articles/9d82a3d8.json)
-
-[Extended Data](ext_articles/9d82a3d8.ext.json)
-
----
-
-### Diana's missing from home
-
-*2024-05-20 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196827) · `si`
-
-Diana Gamage, ex-State Minister, is now a suspect after being reported missing from her home. The Colombo Chief Magistrate's Court has directed the CID to take necessary actions.
-
-🟩
-
-Former State Minister Diana Gamage, former State Minister Diana Gamage, was named a suspect, a report was submitted to the Colombo Chief Magistrate's Court.
-
-Accordingly, the Colombo Chief Magistrate's Court has ordered the Court of Colombo to report appropriate action and report.
-
-The Criminal Investigation Department (CID) has reportedly reported missing from her residential home.
-
-◼️
-
-[Data](articles/c7796bd9.json)
-
-[Extended Data](ext_articles/c7796bd9.ext.json)
-
----
-
-### Keheliya remanded again
-
-*2024-05-20 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196826) · `si`
-
-Keheliya Rambukwella, former Health Minister, and eight others face charges related to a pharmaceutical incident, remanded till June 3rd.
-
-🟩
-
-Former Minister of Health, Keheliya Rambukwella and eight suspects have been remanded again until June 3.
-
-The suspects were produced before the Maligakanda Courts today regarding the pharmaceutical incident.
-
-◼️
-
-[Data](articles/0c17a12f.json)
-
-[Extended Data](ext_articles/0c17a12f.ext.json)
-
----
-
-### The newest petrol type coming from India
-
-*2024-05-20 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196825) · `si`
-
-India has made its first-ever significant petrol export, sending a shipment of xp100 petrol to Sri Lanka from JNPT. This high-efficiency petrol, designed for better performance and fuel economy, marks a milestone in India's energy sector.
-
-🟩
-
-India has exported a large quantity of sufficient petrol in history for the first time in history.
-
-On May 18, the stock of fuel has shipped to Sri Lanka from JNPT, JNPT.
-
-Addressing this inaugural shipping, Director of Indian Oil (Marketing). Sathakar said, "It is a very important opportunity to be able to send another latest product to Sri Lanka's market."
-
-This petrol named xp100 was designated by India.
-
-It is designed for high-efficient engine operation, accelerated acceleration, smooth acceleration, and improved fuel economy.
-
-◼️
-
-[Data](articles/ecf1e917.json)
-
-[Extended Data](ext_articles/ecf1e917.ext.json)
-
----
-
-### Interim injunction issued against Wijeyadasa and Keerthi Udawatta
-
-*2024-05-20 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99339/interim-injunction-issued-against-wijeyadasa-and-keerthi-udawatta) · `en`
-
-The Colombo District Court has issued an interim order preventing Justice Minister Wijeyadasa Rajapakshe from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) and Keerthi Udawatta as Acting General Secretary of the party.
-
-This order was issued today by Colombo District Judge Sandun Withana after considering a plaint submitted by Member of Parliament Duminda Dissanayake.
-
-On May 16, the Colombo District Court had rejected the petition filed by Dissanayake seeking an interim injunction preventing Minister Rajapakshe from functioning as the Chairman and Udawatta as Acting General Secretary of the SLFP.
-
-Accordingly, the Colombo District Court refused to issue an injunction restraining the party, its organizations and officials from acting on the decision taken to appoint Minister Wijayadasa Rajapakshe as the Chairman and Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the SLFP.
-
-...
-
-[Data](articles/8e63e21c.json)
-
-[Extended Data](ext_articles/8e63e21c.ext.json)
-
----
-
-### Police Sub Inspector arrested with illicit liquor, distilling gear
-
-*2024-05-20 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Sub-Inspector-arrested-with-illicit-liquor-distilling-gear/108-282972) · `en`
-
-Anuradhapura, may 20 (Daily Mirro)- A police Sub Inspector (SI) who had in his possession a stock of 14 litres of illicit liquor and distilling equipment was arrested by Thirappane Police during a raid on his house.
-
-The 59-year-old SI was a resident of Ihalagama in Mihintale. Police said they carried out the raid on a tip-off from the public
-
-The distilling equipment seized during the raid included copper pipes covered with rubber belts, a barrel, a gas cylinder and a gas cooker.
-
-OIC Thirappane Police CI R.M.S.Kumarasinghe is conducting further investigations on the instructions of SSP Thilina Hewapathirana and DIG Laksiri Wijesena.
-
-◼️
-
-[Data](articles/e542f639.json)
-
-[Extended Data](ext_articles/e542f639.ext.json)
-
----
-
-### Woman arrested for heroin in Katunayake
-
-*2024-05-20 15:56:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතක-හෙරොයින්-‍-ගෙනා-කාන්තාවක්-කටුනායක-දී-අත්අඩංගුවට/11-409741) · `si`
-
-A 57-year-old Pakistani woman was arrested at Katunayake airport for attempting to smuggle a significant amount of heroin. She was caught after her flight landed, and the heroin was found concealed in her luggage. Further investigations are ongoing.
-
-🟩
-
-A large number of heroin who had taken a large number of heroin worth Rs.
-
-She is a 57 year old Pakistani woman and has been trying to leave the heroin from leaving the airport.
-
-She is from Abu Dhad from Abu Dhadi today (20) at 09.45 am today. The flight of 392 had arrived at the Katunayake airport.
-
-A spokesperson of the Customs Drug Administration (RA) said that the heroin had a large cash in a boast of the bag.
-
-The Pakistanite woman and heroin he brought to the investigation into further investigations have been handed over to the officers of the Police Narcotics Unit of Katunayake airport.
-
-◼️
-
-[Data](articles/d941555b.json)
-
-[Extended Data](ext_articles/d941555b.ext.json)
 
 ---

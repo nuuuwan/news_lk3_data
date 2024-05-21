@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 15:03:40**
+As of **2024-05-21 15:18:38**
 
 ## Newspaper Stats
 
-*Scraped **25,437** Articles*
+*Scraped **25,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,180
-adaderanalk | 2,936
-tamilmirrorlk | 2,969
+adaderanalk | 2,937
+tamilmirrorlk | 2,970
 virakesarilk | 3,849
 dailymirrorlk | 3,994
-adaderanasinhalalk | 4,068
+adaderanasinhalalk | 4,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,437 (100.0%) of 25,437 articles have been extended.
+25,437 (100.0%) of 25,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### ෆොන්සේකා පිළිබඳ සජබයේ ප්‍රතිශෝධන පෙත්සමට දිනයක්
+
+*2024-05-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196866) · `si`
+
+ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සම්බන්ධයෙන් සමගි ජන බලවේගය විසින් ගොනු කර තිබෙන ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා ජුනි මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කර තිබේ.
+
+ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගය තුළ දරනු ලබන තනතුරු සහ ඔහුගේ පක්ෂ සාමාජිකත්වය අත්හිටුවීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් පනවා තිබෙන වාරණ නියෝගය අත්හිටුවීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සමගි ජන බලවේගය විසින් ගොනු කර තිබෙන ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා මෙලෙස ජුනි මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+මෙම  ප්‍රතිශෝධන පෙත්සම අද (21) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+හිටපු යුද හමුදාපති දයා රත්නායක මහතා සමගි ජන බලවේගයට එක්කර ගැනීම සම්බන්ධයෙන් තමන් විසින් සිදු කළ ප්‍රකාශය පදනම් කරගෙන සමගි ජන බලවේගය නායකයින් විසින් සිය පක්ෂ සාමාජිකත්වය හා තමන් දැරූ තනතුරුවලින් ඉවත් කිරීමේ සූදානමක් පවතින බව සඳහන් කරමින් සරත් ෆොන්සේකා මහතා විසින් කොළඹ දිසා අධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබුණි.
+
+...
+
+[Data](articles/267cb2c4.json)
+
+---
+
+### ‘Red’ alert issued for strong winds and rough seas
+
+*2024-05-21 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99358/red-alert-issued-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishing communities in the deep-sea areas in the South-eastern Arabian Sea and in the southwestern Bay of Bengal Sea.
+
+It states that a low-pressure area is likely to form over southwest Bay of Bengal around May 22 and is likely to move initially northeastwards and concentrate into a depression over central parts of Bay of Bengal around May 24.
+
+Very strong winds accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and southwestern Bay of Bengal Sea areas.
+
+Naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+...
+
+[Data](articles/e7219556.json)
+
+---
+
+### நாளை பாடசாலை இயங்கும்
+
+*2024-05-21 14:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-பாடசாலை-இயங்கும்/175-337640) · `ta`
+
+பாடசாலைகள்  நாளை புதன்கிழமை (22) மூடப்படும் என சமூக வலைத்தளங்களில் பரவி வரும் வதந்திகள் தவறானவை என கல்வி அமைச்சு  அறிவித்துள்ளது.
+
+பாடசாலைகள் நாளை (22)  மூடப்படும் என பல சமூக ஊடக செய்திகள் பரவி வருகின்றன.
+
+எனவே, நாளைய தினம் பாடசாலைகள் வழமை போல இயங்கும் எனவும், அந்தந்த சூழ்நிலைகளுக்கு ஏற்ப பாடசாலைகளை நடத்துவதா இல்லையா என்பதை தீர்மானிக்கும் அதிகாரம் மாகாண கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாகவும் அமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/8425294a.json)
+
+---
 
 ### A bag of money at the LPL Auction
 
@@ -222,6 +276,18 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
 
+02.44 PM - South African cricketer Tabraiz Shamsi also unsold
+
+02.45 PM - 19-year-old Malsha Tharupathi sold to Galle Marvles for USD 25,000
+
+02.39 PM - UAE player Zahoor Khan sold to Gale Marvels for USD 10,000
+
+02.36 PM - Asitha Fernando has been retained by Jaffna Kings for USD 40,000.
+
+02.35 PM - Matheesha Pathirana has been retained by Colombo Strikers for USD 120,000.
+
+02.29 PM - 18-year-old Sri Lankan player Garuka Sanketh sold to Colombo Strikers for USD 20,000
+
 02.27 PM - Sri Lankan cricketer Nuwan Pradeep sold to Dambulla Thunders for USD 36,000.
 
 02.23 PM - Colombo Strikers secure Sri Lankan cricketer Binura Fernando for USD 55,000.
@@ -233,16 +299,6 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 02.07 PM - Pakistani cricketer Iftikhar Ahmed sold to Dambulla Thunders for USD 50,000
 
 02.05 PM - Sri Lanka's Dimuth Karunaratne sold to B-Love Kandy for USD 10,000.
-
-02.02 PM - Sri Lankan cricketer Danushka Gunathilaka sold to Dambulla Thunders for USD 22,000.
-
-01.59 PM - South African cricketer Janneman Malan, Towhid Hridoy from Bangladesh and Afghan cricketer Najibullah Zadran unsold.
-
-01.56 PM - Colombo Strikers secures Sri Lankan cricketer Shevon Daniel for USD 15,000.
-
-01.53 PM - Sri Lankan cricketer Ramesh Mendis sold to B-Love-Kandy for USD 10,000.
-
-01.44 PM - All-rounder Dasun Shanaka sold to B-Love Kandy for US$ 85,000
 
 ...
 
@@ -2289,73 +2345,5 @@ The specialty of his creations is to create a woody format with all the elements
 [Data](articles/745511c9.json)
 
 [Extended Data](ext_articles/745511c9.ext.json)
-
----
-
-### Sri Lanka - Indonesia's leaders are sure to strengthen historical relations!
-
-*2024-05-21 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184095) · `ta`
-
-Leaders from Sri Lanka and Indonesia met to bolster historic ties, focusing on economic cooperation and addressing global challenges. They discussed a trade agreement, regional security, and renewable energy, highlighting the importance of water diplomacy and the potential for joint ventures.
-
-🟩
-
-The need to sign the trade agreement (PTA) in the first quarter of 2025 to improve economic ties between the two countries was emphasized.
-
-An official meeting between President Ranil Wickremesinghe and Indonesian President Joko Widodo was held on Monday (20) in parallel to the Tenth World Water Conference in Bali, Indonesian capital.
-
-Indonesian President Ranil Wickremesinghe was greeted by President Ranil Wickremesinghe and after a bilateral discussion between the two leaders.
-
-The two leaders have promised to further strengthen the historical ties between Sri Lanka and Indonesia and focus on improving economic cooperation.
-
-The two leaders focused on regional and international affairs and emphasized the importance of cooperation between the two countries in addressing global challenges.
-
-...
-
-[Data](articles/cc06bc1e.json)
-
-[Extended Data](ext_articles/cc06bc1e.ext.json)
-
----
-
-### Where are the innocent children who surrendered to the soldiers?- The Secretary -General of the Amnesty International
-
-*2024-05-21 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184094) · `ta`
-
-Amnesty International's Secretary-General, Agnes Kalamart, questioned the fate of children and families who surrendered to soldiers during Sri Lanka's final battle, highlighting the ongoing search for tens of thousands missing since the war's end. She emphasized the importance of unity and international support in addressing the issue, calling for transparency and justice.
-
-🟩
-
-Even those who surrendered to the soldiers during the final battle are missing. Members of the Liberation Tigers of Tamil Eelam (LTTE) surrendered as family. There were also children in the family. I saw the photos of those kids. Where are those children?The Secretary General of the Amnesty International, Agnes Kalamart, who raised the question, is the most common, the most serious crime and the psychological citon.. He pointed out that this has made Sri Lanka's goodwill.
-
-Whatever the truth or justice, the international community can only provide pressure and assistance. He emphasized that Sri Lanka should be given the final decision to the people of Sri Lanka and that it is a great force that has been put forward.
-
-...
-
-[Data](articles/853014e7.json)
-
-[Extended Data](ext_articles/853014e7.ext.json)
-
----
-
-### Gammanpila decries Mullaivaikkal events as tribute to LTTE
-
-*2024-05-21 03:50:19* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-decries-Mullaivaikkal-events-as-tribute-to-LTTE/56-762066) · `en`
-
-Criticises Govt. for its cowardice in permitting Mullaivaikkal commemoration events
-
-Acknowledges rights of family and friends to memorialise fallen combatants but said events that celebrate terrorists should not be allowed
-
-Claims Mullivaikkal event was not remembrance of deceased relatives but commemoration of terrorists, as evidenced by display of LTTE flags
-
-Challenges Amnesty International’s Agnès Callamard to try celebrating terrorists in her home country of France
-
-Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila criticised the Sri Lankan Government yesterday for permitting Mullaivaikkal commemoration events in the North, describing them as gatherings to honour Liberation Tigers of Tamil Eelam (LTTE) terrorists killed in the war.
-
-...
-
-[Data](articles/e87991c4.json)
-
-[Extended Data](ext_articles/e87991c4.ext.json)
 
 ---

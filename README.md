@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 14:33:44**
+As of **2024-05-21 14:52:36**
 
 ## Newspaper Stats
 
-*Scraped **25,433** Articles*
+*Scraped **25,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,86 @@ adalk | 2,180
 adaderanalk | 2,936
 tamilmirrorlk | 2,969
 virakesarilk | 3,849
-dailymirrorlk | 3,992
-adaderanasinhalalk | 4,066
+dailymirrorlk | 3,994
+adaderanasinhalalk | 4,068
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,426 (100.0%) of 25,433 articles have been extended.
+25,433 (100.0%) of 25,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### LPL වෙන්දේසියේදී මතීෂට සල්ලි මල්ලක්
+
+*2024-05-21 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196865) · `si`
+
+ශ්‍රී ලංකා සුපිරි වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ LPL ක්‍රීඩක වෙන්දේසියේ දැවැන්ත මුදලකට මිලදීගනු ලැබීය.
+
+කොළඹදී දැන් පැවැත්වෙන LPL ක්‍රීඩක වෙන්දේසියේදී ඔහුට එම මුදල හිමිවිය.
+
+◼️
+
+[Data](articles/2d7cf6b1.json)
+
+---
+
+### එක්ස්ප්‍රස් පර්ල් ගින්නට වසර 3යි
+
+*2024-05-21 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196864) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකා අනතුර සිදුවී අද (21) ට වසර තුනක් සපිරෙයි.
+
+එම නෞකාව ගිනිගැනීම හේතුවෙන් විශේෂයෙන් ශ්‍රී ලංකාවේ බටහිර මුහුදු කලාපයේ පරිසරය දූෂණය ට ලක්විය.
+
+සිය ජීවනෝපාය හරිහැටි කිරීමට නොහැකි බවට ධීවරයින් තවමත් මැසිවිලි නගයි.
+
+මේ අතර හැඳල සහ පමුණුගම ප්‍රදේශවල ධීවර සමිති 9 ක සාමාජිකයින් තමන් මුහුණදී ඇති ගැටලුවලට ප්‍රතිකර්ම යොදන ලෙස බලකරමින් අද විරෝධතා පා ගමනක් සංවිධානය කර තිබුණි.
+
+ඔවුන් ඇලකන්ද තෙක් පා ගමනින් පැමිණ උද්ඝෝෂණයක නිරත වූ බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/a4e3e0c5.json)
+
+---
+
+### Schools will function as usual tomorrow
+
+*2024-05-21 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-will-function-as-usual-tomorrow/108-283066) · `en`
+
+Colombo, May 21 (Daily Mirror) - Rumours spread on social media that schools will be closed tomorrow are false, the Education Ministry announced today.
+
+They said several social media messages were circulating about schools being closed tomorrow.
+
+Therefore, the Ministry announced that tomorrow will be a normal school day, and that the authority to decide whether or not to hold schools according to the respective situations has been given to the Provincial Educational Directors.
+
+◼️
+
+[Data](articles/dc786873.json)
+
+---
+
+### Ranil to officially announce his Presidential candidacy next month
+
+*2024-05-21 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-to-officially-announce-his-Presidential-candidacy-next-month/108-283065) · `en`
+
+Colombo, May 21 (Daily Mirror) - Incumbent President Ranil Wickremesinghe will officially announce his candidacy for the Presidential election next month, Minister Manusha Nanayakkara said today.
+
+“A story is being spread by many, including the Samagi Jana Balawegaya (SJB), that President Wickrmesinghe will not be contesting the Presidential election that is to be held this year. However, Wickremesinghe will deliver a blow to all those who make such a claim, as he will seek another term. He will officially announce his candidacy next month,” Minister Nanayakkara told a media briefing.
+
+“Wickremesinghe has proven his capability by accepting the Presidency at a difficult time for the sake of the county. He did so when many others avoided it. Many others ran away from the responsibility and only thought of their political future,” he added.
+
+Also, he said Wickremesinghe will not be contesting from a single party but will represent many forces at the Presidential election.
+
+...
+
+[Data](articles/ddd165e0.json)
+
+---
 
 ### Diana Gamage granted bail
 
@@ -49,6 +117,8 @@ The CID had commenced investigations into this incident subsequent to a complain
 ◼️
 
 [Data](articles/1abec2ef.json)
+
+[Extended Data](ext_articles/1abec2ef.ext.json)
 
 ---
 
@@ -72,31 +142,43 @@ He strongly admonished not to proclaim the cases of Rs. 5 million.
 
 ---
 
-### LPL එන්න දනුෂ්කට හිමිවූ මුදල මෙන්න
+### Here is the amount of money Danish
 
 *2024-05-21 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196863) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක දනුෂ්ක ගුණතිලක LPL ක්‍රීඩක වෙන්දේසියේදී දඹුල්ල කණ්ඩායම මිලදීගත්තේය.
+Danushka Gunatilleke purchased himself at the LPL auction for an undisclosed amount.
+
+🟩
+
+Danushka Gunatilleke bought Danushka Gunatilleke at LPL at auction.
 
 ◼️
 
 [Data](articles/dc22c843.json)
 
+[Extended Data](ext_articles/dc22c843.ext.json)
+
 ---
 
-### අසත්‍ය පුවතක් ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### False News Ministry of Education a special
 
 *2024-05-21 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196862) · `si`
 
-දිවයිනේ සියලුම පාසල්වලට හෙට (22) දින නිවාඩු දෙන බව සමාජ මාධ්‍ය ජාල හරහා ප්‍රචාරය වන නිවේදනය අසත්‍ය බව අධ්‍යාපන අමාත්‍යාංශය දන්වා තිබේ.
+The Ministry of Education announced that all schools will close tomorrow due to a sudden decision, to be communicated via social media.
 
-එබැවින්, හෙට දින දිවයිනේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාතාංශය නිවේදනය කරයි.
+🟩
 
-එසේම පවත්නා තත්ත්වය මත අවස්ථානුකූලව තීරණ ගැනීමේ බලය පළාත් අධ්‍යාපන ලේකම්වරුන් සහ පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත පවතින බව ද අධ්‍යාපන අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+The Ministry of Education has informed that all schools in the island will leave the announcement through social media networks tomorrow (22).
+
+Therefore, all schools in the country will be held tomorrow.
+
+The Ministry of Education has also stated that there is a situation in the current decision power.
 
 ◼️
 
 [Data](articles/e2184b6f.json)
+
+[Extended Data](ext_articles/e2184b6f.ext.json)
 
 ---
 
@@ -116,11 +198,19 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 [Data](articles/76db9dc9.json)
 
+[Extended Data](ext_articles/76db9dc9.ext.json)
+
 ---
 
 ### Lanka Premier League (LPL) auction
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
+
+02.27 PM - Sri Lankan cricketer Nuwan Pradeep sold to Dambulla Thunders for USD 36,000.
+
+02.23 PM - Colombo Strikers secure Sri Lankan cricketer Binura Fernando for USD 55,000.
+
+02.21 PM - Australian cricketer Jason Behrendorff sold to Jaffna Kings for USD 50,000
 
 02.09 PM - Sri Lankan cricketer Nuwanidu Fernando sold to Dambulla Thunders for USD 34,000.
 
@@ -138,15 +228,11 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 01.44 PM - All-rounder Dasun Shanaka sold to B-Love Kandy for US$ 85,000
 
-01.42PM - Mohammad Nabi from Afghanistan and West Indies Roston Chase  unsold in the first round.
-
-01.38PM - Sean Williams sold to Galle Marvels for US$ 20,000.
-
-01.36 PM - Sri Lanka's Akila Dananjaya sold to Dambulla Thunders for USD 20,000
-
 ...
 
 [Data](articles/cabcf902.json)
+
+[Extended Data](ext_articles/cabcf902.ext.json)
 
 ---
 
@@ -206,19 +292,25 @@ The candy team acquired Viea Shana in the LPL tournament this year.
 
 ---
 
-### கொழும்பில் பாரிய மரம் முறிந்து வீழ்ந்தது
+### Massive tree broke down in Colombo
 
 *2024-05-21 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184132) · `ta`
 
-கொழும்பு, பொரளை பகுதியில் வீதியோரத்தில் இருந்த 200 வருட பழமையான மரமொன்று வீழ்ந்ததில் போக்குவரத்துக்கு பாதிப்பு ஏற்பட்டுள்ளது.
+In Colombo, a 200-year-old tree collapsed in Borella, disrupting traffic and damaging several vehicles. The Colombo Municipal Council is handling the cleanup.
 
-பொரளை மயானத்திற்கு அருகில் இருந்த மரமொன்றே இன்று செவ்வாய்க்கிழமை (21) காலை இவ்வாறு வீழ்ந்துள்ளது.
+🟩
 
-மரம் வீழ்ந்துள்ள நிலையில் பல வாகனங்கள் சேதமடைந்துள்ளன. இந்த மரத்தை வெட்டி அகற்றும் பணியில் கொழும்பு மாநகர சபை ஈடுப்பட்டுள்ளது.
+Traffic has been affected by a 200 -year -old tree falling on the road in Borella, Colombo.
+
+A tree near the Borella cemetery fell on Tuesday morning.
+
+Many vehicles have been damaged as the tree has fallen. The Colombo Municipal Council has been involved in the process of cutting down the tree.
 
 ◼️
 
 [Data](articles/54e08ee2.json)
+
+[Extended Data](ext_articles/54e08ee2.ext.json)
 
 ---
 
@@ -322,21 +414,31 @@ Colombo Municipal Council (CMC) workers are engaged in the removal of the tree a
 
 ---
 
-### காசா குறித்து ஒரு விதமான நிலைப்பாடு இலங்கை குறித்து வேறுவிதமான நிலைப்பாடு-சர்வதேச சமூகம் குறித்து  இலங்கைக்கான ரஸ்ய தூதரகம் கடும் விமர்சனம்
+### A different position on Sri Lanka
 
 *2024-05-21 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184133) · `ta`
 
-இலங்கையின் மனிதஉரிமை விவகாரங்கள் தொடர்பில் சர்வதேச சமூகம் இரட்டைநிலைப்பாட்டினை பின்பற்றுவதாக இலங்கைக்கான ரஸ்ய  தூதரகம் குற்றம்சாட்டியுள்ளது.
+The Russian embassy in Sri Lanka criticizes the international community for excessive pressure on Sri Lanka's human rights issues, accusing diplomats and NGOs of bias. It questions the silence on NATO's actions in Yugoslavia, Afghanistan, and Libya, and the lack of concern over minority oppression in Baltic states.
 
-இலங்கை மீது வெளிநாட்டு அரசியல் பிரமுகர்கள்  இராஜதந்திரிகள் மனித உரிமை அமைப்புகள் அதிகளவு அழுத்தங்களை கொடுப்பதையும் குற்றச்சாட்டுகளை முன்வைப்பதையும் அவதானித்துள்ளதாக ரஸ்ய தூதரகம் தெரிவித்துள்ளது.
+🟩
 
-மேலே குறிப்பிட்ட ஆளுமைகள் மற்றும் அமைப்புகள் அவர்களின் இரட்டை நிலைப்பாட்டு கொள்கைகளிற்கு நன்கு அறியப்பட்டவர்கள் என தெரிவித்துள்ள ரஸ்ய தூதரகம் இந்த நீதியின் தூதுவர்கள் இந்த விடயத்தை பார்க்கும் விதம் குறித்த தனது குழப்பமான நிலையை மீண்டும் வெளியிட விரும்புவதாகவும் தெரிவித்துள்ளது.
+The Russian embassy in Sri Lanka has accused the international community of following a duality of Sri Lanka's human rights issues.
 
-காசா விவகாரத்தில் அவர்கள் வெளிப்படுத்தும் பொறுமை  குறித்து இந்த ஆளுமைகளை விமர்சிக்க விரும்புவதாக  ரஸ்ய தூதரகம் தெரிவித்துள்ளது.
+The Russian embassy has said that foreign political figures on Sri Lanka have observed diplomats and human rights organizations to put too much pressure and allegations.
 
-...
+The Russian Embassy, which has been well known for their dual stance policies, has said that the ambassadors of this righteousness want to re -publish their confused position.
+
+The Russian embassy said it would want to criticize these personalities for their patience in the Gaza affair.
+
+The Embassy of Sri Lanka has also questioned why these international figures have not issued values on the humanitarian impact of NATO that Yszlavia Afghanistan Libya and NATO have exported to export its democracy and independence.
+
+The Russian Embassy has also questioned what prevents them from exploring the oppression of minorities in the Baltic countries.
+
+◼️
 
 [Data](articles/6e3ce005.json)
+
+[Extended Data](ext_articles/6e3ce005.ext.json)
 
 ---
 
@@ -2239,83 +2341,5 @@ Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila criticised the Sri Lankan G
 [Data](articles/e87991c4.json)
 
 [Extended Data](ext_articles/e87991c4.ext.json)
-
----
-
-### SJB calls for simultaneous Presidential and General Election to save costs
-
-*2024-05-21 03:49:01* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-for-simultaneous-Presidential-and-General-Election-to-save-costs/56-762065) · `en`
-
-Says regardless of the election sequence, SJB and its leader Sajith Premadasa is prepared to face any poll
-
-Stresses there are no legal impediments to holding both elections concurrently
-
-Accuses President Ranil Wickremesinghe of protecting Rajapaksas despite public disapproval
-
-Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna yesterday called on the Government to hold both the Presidential and General election on the same date.
-
-Addressing a press conference in Colombo, Rajakaruna noted that there were no legal impediments to holding both elections concurrently, and doing so would result in significant cost savings for the country.
-
-The MP remarked that regardless of whether the Presidential or Parliamentary election takes precedence, the SJB leader Sajith Premadasa, is prepared to face it. He further asserted that the SJB team is equally prepared for either scenario.
-
-...
-
-[Data](articles/c6a6a7b5.json)
-
-[Extended Data](ext_articles/c6a6a7b5.ext.json)
-
----
-
-### SLPP denies requesting President to call for Parliamentary elections first
-
-*2024-05-21 03:47:16* · [`dailyftlk`](https://www.ft.lk/news/SLPP-denies-requesting-President-to-call-for-Parliamentary-elections-first/56-762064) · `en`
-
-SLPP General Secretary Sagara Kariyawasam says party merely advised the President that prioritising general elections might be preferable
-
-Highlights ongoing efforts to spread hatred against national leaders and says Parliamentary election is most effective to expose these tactics
-
-Stresses ultimate decision lies with President Ranil Wickremesinghe and SLPP is ready to face any election
-
-Sri Lanka Podujana Peramuna (SLPP) General Secretary Sagara Kariyawasam clarified yesterday that the SLPP has not formally requested President Ranil Wickremesinghe to hold Parliamentary elections first. Instead, Kariyawasam emphasised that the SLPP merely conveyed its viewpoint on polls to the President.
-
-“According to legal provisions, the timing of the Presidential election is predetermined. The President holds the authority to dissolve Parliament at any point after two and a half years of its term. The decision to dissolve Parliament rests with the President,” said Kariyawasam during a press briefing.
-
-...
-
-[Data](articles/d9aecdbb.json)
-
-[Extended Data](ext_articles/d9aecdbb.ext.json)
-
----
-
-### Maha Nayaka Theras seek Presidential pardon for Gnanasara Thera on Vesak
-
-*2024-05-21 03:45:17* · [`dailyftlk`](https://www.ft.lk/news/Maha-Nayaka-Theras-seek-Presidential-pardon-for-Gnanasara-Thera-on-Vesak/56-762063) · `en`
-
-Chief Prelates of the Malwathu and Asgiriya chapters of the Siyam sect, along with those of the Amarapura-Ramanna sect, have called on President Ranil Wickremesinghe to grant a Presidential pardon to the incarcerated Bodu Bala Sena (BBS) General Secretary, Galagoda Aththe Gnanasara Thera, on Vesak Poya Day. In a letter dated 13 May to the President, the Chief Prelates highlighted that Gnanasara Thera had advocated for Sinhala Buddhist nationalism and had alerted Sri Lankan forces to various extremist activities occurring in the country. They noted that his actions assisted security officials in curbing the spread of certain extremist elements throughout the country.
-
-...
-
-[Data](articles/1eeac79b.json)
-
-[Extended Data](ext_articles/1eeac79b.ext.json)
-
----
-
-### CID names Diana Gamage as suspect in passport case
-
-*2024-05-21 03:43:31* · [`dailyftlk`](https://www.ft.lk/news/CID-names-Diana-Gamage-as-suspect-in-passport-case/56-762062) · `en`
-
-The Criminal Investigations Department (CID) has submitted a report to the Colombo Chief Magistrate’s Court, naming former State Minister Diana Gamage as a suspect in the case pertaining to the obtaining of a diplomatic passport.
-
-Accordingly, the Colombo Chief Magistrate Thilina Gamage has ordered the CID to take appropriate measures and report back to the court.
-
-The CID has also reported the facts to Colombo Chief Magistrate alleging that the accused is missing from her residence.
-
-◼️
-
-[Data](articles/6b73eb65.json)
-
-[Extended Data](ext_articles/6b73eb65.ext.json)
 
 ---

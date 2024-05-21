@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 14:52:36**
+As of **2024-05-21 15:03:40**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 4,068
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,433 (100.0%) of 25,437 articles have been extended.
+25,437 (100.0%) of 25,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### LPL වෙන්දේසියේදී මතීෂට සල්ලි මල්ලක්
+### A bag of money at the LPL Auction
 
 *2024-05-21 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196865) · `si`
 
-ශ්‍රී ලංකා සුපිරි වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ LPL ක්‍රීඩක වෙන්දේසියේ දැවැන්ත මුදලකට මිලදීගනු ලැබීය.
+Victory Opposition, Sri Lanka's top bowler, was bought for a significant sum at the LPL Auction in Colombo, receiving his payment there.
 
-කොළඹදී දැන් පැවැත්වෙන LPL ක්‍රීඩක වෙන්දේසියේදී ඔහුට එම මුදල හිමිවිය.
+🟩
+
+Sri Lanka's super fast bowler Victory Opposition was purchased for a huge amount of LPL at auction.
+
+He received the money at the LPL at auction in Colombo.
 
 ◼️
 
 [Data](articles/2d7cf6b1.json)
 
+[Extended Data](ext_articles/2d7cf6b1.ext.json)
+
 ---
 
-### එක්ස්ප්‍රස් පර්ල් ගින්නට වසර 3යි
+### Express Pearl is 3 years to fire
 
 *2024-05-21 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196864) · `si`
 
-එක්ස්ප්‍රස් පර්ල් නෞකා අනතුර සිදුවී අද (21) ට වසර තුනක් සපිරෙයි.
+Three years after the Express Pearl Charter disaster, pollution from the shipwreck continues to harm Sri Lanka's western sea zone, affecting fishermen's livelihoods. Nine fisheries societies in Hendala and Pamunugama are protesting against the lack of solutions to this environmental crisis.
 
-එම නෞකාව ගිනිගැනීම හේතුවෙන් විශේෂයෙන් ශ්‍රී ලංකාවේ බටහිර මුහුදු කලාපයේ පරිසරය දූෂණය ට ලක්විය.
+🟩
 
-සිය ජීවනෝපාය හරිහැටි කිරීමට නොහැකි බවට ධීවරයින් තවමත් මැසිවිලි නගයි.
+The Express Pearle Charter accident occurred three years today.
 
-මේ අතර හැඳල සහ පමුණුගම ප්‍රදේශවල ධීවර සමිති 9 ක සාමාජිකයින් තමන් මුහුණදී ඇති ගැටලුවලට ප්‍රතිකර්ම යොදන ලෙස බලකරමින් අද විරෝධතා පා ගමනක් සංවිධානය කර තිබුණි.
+Due to the burning of the ship, the environment in the Sri Lankan western sea zone was polluted.
 
-ඔවුන් ඇලකන්ද තෙක් පා ගමනින් පැමිණ උද්ඝෝෂණයක නිරත වූ බව අප වාර්තාකරු පැවසීය.
+Fishermen still complain that their livelihood is unable to do.
+
+Meanwhile, members of the nine-fisheries societies in Hendala and Pamunugama have organized an objection to the remedy of their problems.
+
+According to our correspondent, we came to a campaign to come and protest.
 
 ◼️
 
 [Data](articles/a4e3e0c5.json)
+
+[Extended Data](ext_articles/a4e3e0c5.ext.json)
 
 ---
 
@@ -79,6 +91,8 @@ Therefore, the Ministry announced that tomorrow will be a normal school day, and
 ◼️
 
 [Data](articles/dc786873.json)
+
+[Extended Data](ext_articles/dc786873.ext.json)
 
 ---
 
@@ -97,6 +111,8 @@ Also, he said Wickremesinghe will not be contesting from a single party but will
 ...
 
 [Data](articles/ddd165e0.json)
+
+[Extended Data](ext_articles/ddd165e0.ext.json)
 
 ---
 

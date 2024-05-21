@@ -1,44 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 09:52:51**
+As of **2024-05-21 10:04:01**
 
 ## Newspaper Stats
 
-*Scraped **25,364** Articles*
+*Scraped **25,367** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 227
-bbccomsinhala | 255
+bbccomsinhala | 256
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
-adalk | 2,172
+adalk | 2,173
 adaderanalk | 2,929
 tamilmirrorlk | 2,961
 virakesarilk | 3,833
-dailymirrorlk | 3,981
+dailymirrorlk | 3,982
 adaderanasinhalalk | 4,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,360 (100.0%) of 25,364 articles have been extended.
+25,364 (100.0%) of 25,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### වෙසක් සතිය අදින් ඇරඹේ
+### Vesak week begins today
 
 *2024-05-21 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196849) · `si`
+
+Vesak Week starts today, marking Buddha's birth, enlightenment, and death. A time for reflection and celebration of peace and wisdom.
+
+🟩
 
 ◼️
 
 [Data](articles/d20691a0.json)
+
+[Extended Data](ext_articles/d20691a0.ext.json)
+
+---
+
+### Netanyahu denounces bid to arrest him over Gaza war
+
+*2024-05-21 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Netanyahu-denounces-bid-to-arrest-him-over-Gaza-war/107-283031) · `en`
+
+May 21 (BBC) - Israeli Prime Minister Benjamin Netanyahu has angrily condemned the International Criminal Court's prosecutor for seeking arrest warrants for him alongside Hamas's leaders over alleged war crimes in the Gaza conflict.
+
+Mr Netanyahu said he rejected with disgust that "democratic Israel" had been compared with what he called "mass murderers".
+
+Mr Netanyahu's comments have been echoed by US President Joe Biden, who said there was no equivalence between Israel and Hamas.
+
+The chief ICC prosecutor, Karim Khan, said there were reasonable grounds to believe that Mr Netanyahu and his Defence Minister Yoav Gallant bore criminal responsibility for alleged war crimes and crimes against humanity in Gaza.
+
+The ICC is also seeking a warrant for Hamas's leader in Gaza, Yahya Sinwar, for war crimes.
+
+Israel and the US, its key ally, are not members of the ICC, which was set up in 2002.
+
+...
+
+[Data](articles/08b290c5.json)
 
 ---
 
@@ -56,25 +84,33 @@ Amnesty International’s Secretary General, Agnès Callamard, concluded a five-
 
 [Data](articles/db9fddb3.json)
 
+[Extended Data](ext_articles/db9fddb3.ext.json)
+
 ---
 
-### களுத்துறையில் அதிக மழை வீழ்ச்சி பதிவு !
+### High rainfall in Kalutara!
 
 *2024-05-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184099) · `ta`
 
-நாட்டில்  சப்ரகமுவ, மேல்  மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் கண்டி, நுவரெலியா,  காலி மற்றும்  மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 100 மில்லிமீற்றரிலும் கூடிய   பலத்த  மழை வீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+Kalutara experienced heavy rainfall, with 107mm recorded in Palindanuwara. Other areas like Kalutara-Ingiriya, Bandaragama, Madambe, and Kirindiwala also received significant amounts.
 
-நேற்று திங்கட்கிழமை (20) காலை 8.30 மணி முதல் இன்று செவ்வாய்க்கிழமை (21) காலை  8.00 மணி வரையான காலப்பகுதியில் களுத்துறை மாவட்டத்தில் அதிக மழை வீழ்ச்சி பதிவாகியுள்ளது.
+🟩
 
-களுத்துறை மாவட்டத்தில் பாலிந்தநுவர பகுதியில் 107 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has predicted heavy rainfall in some parts of Sabaragamuwa, Western and North Western Provinces, as well as some areas of Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இதேவேளை,   களுத்துறை - இங்கிரிய பகுதியில் 79 மில்லிமீற்றர் மழை வீழ்ச்சியும், பண்டாரகம பகுதியில் 77 மில்லிமீற்றர் மழை வீழ்ச்சியும் பதிவாகியுள்ளது.
+Heavy rains were reported in the Kalutara district from 8.30 am to 8.30 am yesterday (20) from 8.00 am.
 
-அத்தோடு, புத்தளம் மாவட்டத்தில்  மாதம்பே பகுதியில் 75 மில்லிமீற்றர் மழை வீழ்ச்சியும், கம்பஹா மாவட்டத்தின் கிரிந்திவெல பகுதியில் 72 மில்லிமீற்றர் மழை வீழ்ச்சியும் பதிவாகியுள்ளது.
+The Department of Meteorology said that 107 millimeters of rainfall was reported in the Palindanuwara area in the Kalutara district.
+
+Meanwhile, 79 millimeters of rainfall in the Kalutara - Ingiriya area has been reported and 77 millimeters of rain in Bandaragama.
+
+In addition, 75 millimeters of rainfall in Madambe area in the Puttalam district has been reported and 72 mm of rainfall in the Kirindiwala area of the Gampaha district.
 
 ◼️
 
 [Data](articles/2c30a8b2.json)
+
+[Extended Data](ext_articles/2c30a8b2.ext.json)
 
 ---
 
@@ -100,19 +136,25 @@ Several cases of brain fever had been reported from the Matara Prison in Decembe
 
 ---
 
-### கண்ணோட்டம் : சட்டம் பற்றிய அறிவினை வலுப்படுத்தல்
+### Overview: Strengthening the Notice of Law
 
 *2024-05-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184101) · `ta`
 
-எந்தவொரு துறையிலும் ‘எழுத்தறிவு’ என்றால் என்ன என்பதை முதலில் அவதானிப்போம். எழுத்தறிவு என்பது குறித்த விடயத்தைப் பற்றிய தகவல்களைப் புரிந்துகொள்வது மற்றும் விமர்சன ரீதியாக மதிப்பீடு செய்வதாகும். மேலும், இந்த அறிவை நடைமுறை அல்லது பொருத்தமான சூழல்களில் பயன்படுத்தும் திறனும் இதற்குள் அடங்கும்.
+Public legal literacy in Sri Lanka involves understanding laws, legal systems, and rights. Despite no specific studies measuring literacy levels, initiatives like the World Justice Program's Open Government Index suggest improvements are needed. Legal literacy programs should focus on practical applications to motivate learning and engagement, drawing parallels from sports and games where rules are inherently understood and followed for successful outcomes.
 
-இலங்கையின் அடிமட்டத்தில் பொது சட்ட எழுத்தறிவு தொடர்பாக நாம் அவதானம் செலுத்துவதால், பொதுச் சட்ட எழுத்தறிவு என்றால் என்ன என்பதை தெளிவாக வரையறுப்பது அவசியம்.
+🟩
 
-பொதுச் சட்ட எழுத்தறிவு என்பது சட்டம், சட்ட அமைப்புகள் மற்றும் சட்ட உரிமைகள் பற்றி பொதுமக்களிடம் காணப்படும் புரிதல் மற்றும் விழிப்புணர்வு நிலையைக் குறிக்கின்றது. இது அடிப்படை சட்டக் கோட்பாடுகள், சட்டத்தின் கீழ் உள்ள உரிமைகள் மற்றும் பொறுப்புகள் மற்றும் சட்ட கட்டமைப்பை வழிநடத்தும் திறன் பற்றிய அறிவு ஆகியவற்றை உள்ளடக்கியது. மேலும், சட்டச் சிக்கல்களை அடையாளம் காணவும், அவர்களின் சட்ட உரிமைகளைப் புரிந்து கொள்ளவும், சட்டச் சிக்கல்களைத் தீர்ப்பதற்கு உரிய நடவடிக்கை எடுக்கவும் மக்களுக்கு பொதுச் சட்ட எழுத்தறிவு உதவுகின்றது.
+Let us first notice what literacy is in any field. Literacy. In addition, this includes the ability to use this knowledge in practical or appropriate environments.
+
+Since we are paying attention to public legal literacy at the grassroots level of Sri Lanka, it is important to clearly define what is general legal literacy.
+
+General legal literacy refers to public understanding and awareness about law, legal systems and legal rights. This includes basic legal principles, rights under the law and knowledge of the ability to guide the legal structure. Moreover, public legal literacy is helping people to identify legal issues, understand their legal rights and take appropriate action to solve legal issues.
 
 ...
 
 [Data](articles/0509e611.json)
+
+[Extended Data](ext_articles/0509e611.ext.json)
 
 ---
 
@@ -599,6 +641,28 @@ Hon. Rajitha Senaratne said that there are not enough nutritionists in the count
 [Data](articles/fc465e24.json)
 
 [Extended Data](ext_articles/fc465e24.ext.json)
+
+---
+
+### පොප්සිකල් කෝටුවකින් ඩොලර් උල්පතකට මග පාදා ගත් ගුවන් යානා ආකෘති නිර්මාණකරුවා
+
+*2024-05-21 04:06:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11ee8d872o) · `si`
+
+පොප්සිකල් කෝටුවකින් ඩොලර් උල්පතකට මග පාදා ගත් ගුවන් යානා ආකෘති නිර්මාණකරුවා
+
+මීකුණකින් ධනපතියෙකු බවට පත්වූ ධෛර්යවන්තයින් පිළිබඳ කතා අපි අසා ඇත්තෙමු. මේ එවැනි ධෛර්යවන්ත ශ්‍රී ලාංකිකයෙකු පිළිබඳ කතාවකි.
+
+ඔහු මේ වන විට ශ්‍රී ලංකා ආර්ථිකය වෙනුවෙන් විදේශ විනිමය උපයන නිර්මාණකරුවෙකි.
+
+ගුවන් යානා ආකෘති නියමාකාරයෙන් දැව යොදාගෙන නිර්මාණය කිරීම ඔහු ව්‍යාපාරයක් ලෙස පවත්වාගෙන යයි.
+
+32 හැවිරිදි වියේ පසු වන ඔහු, මාතර ඉපිද පන්නිපිටියේ පදිංචිව සිටින ශයනක ලියනගේ ය.
+
+"මම ගොඩක් ම ආකෘති කරන්නේ පිට රටවල ඇණවුම්වලට. ගොඩක් රටවල ඉන්න ශ්‍රී ලාංකිකයන් ඇතුළු විශාල පිරිසක් ඇණවුම් කරනවා. ගොඩක් වෙලාවට ඇණවුම් ලැබෙන්නේ, ගුවන් නියමුවන්ගෙන්. ඒගොල්ලො මුලින් ම පැදපු ගුවන් යානය, පළවෙනි ගුවන් ගමන ගිය ප්ලේන් එක. ඒ වගේ ආකෘති මට කියලා හදව ගන්නවා. ලෝකෙ හොයා ගන්න ම බැරි ආකෘති තියෙනවා. ඒගොල්ලො කලින් පාවිච්චි කරල තියෙන යානා තියෙනවා, ඒත් ඒගොල්ලන් ළඟ ආකෘතියක් නෑ. අන්න ඒ වගේ ඕනෑ ම ආකෘතියක් මම හදනවා,” බීබීසී සිංහල සේවය සමග සාකච්ඡාවකට එක්වෙමින් ශයනක ලියනගේ ප්‍රකාශ කළේ ය.
+
+...
+
+[Data](articles/745511c9.json)
 
 ---
 
@@ -2084,6 +2148,22 @@ It is designed for high-efficiency engine performance, fast acceleration, smooth
 
 ---
 
+### ඉරාන ජනපති මහින්දට එවූ ත්‍යාගයක් ජනපති මිය ගිය දිනයේදීම ලැබෙයි
+
+*2024-05-20 20:24:39* · [`adalk`](https://www.ada.lk/picture_story/ඉරාන-ජනපති-මහින්දට-එවූ-ත්‍යාගයක්-ජනපති-මිය-ගිය-දිනයේදීම-ලැබෙයි/10-409751) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රහීම් රයිසි මහතා විසින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාට එවා තිබූ ත්‍යාගයක් විදේශ කටයුතු අමාත්‍යාංශය විසින් අමාත්‍යවරයාට ඊයේ (20දා) භාරදී ඇත.
+
+අමාත්‍ය අමරවීර මහතා ඉරානයේ රාජත්‍රාන්තික සංචාරයක නිරත වීමට මින් පෙර නියමිතව තිබී ඇති අතර එය අවලංගු කිරීමට කටයුතු යොදා තිබිණ. උමා ඔය විවෘත කිරීම සඳහා ඉරාන ජනාධිපතිවරයා මෙරටට පැමිණි අවස්ථාවේදී ඔහුගේ පරිවාර අමාත්‍යවරයා ලෙස මහින්ද අමරවීර මහතා කටයුතු කළේය. ඒ අනුව අමාත්‍යවරයාගේ ඉරාන සංචාරය අවලංගු නොකරන ලෙසත්, ඉරානයට පැමිණෙන ලෙසත් ජනාධිපතිවරයා විසින් එම අවස්ථාවේදී අමාත්‍යවරයාට ආරාධනා කර තිබේ.
+
+ඒ අනුව ඉරානයේ සංචාරයකට එක්වූ අමාත්‍ය අමරවීර මහතා යළි මෙරටට පැමිණීමෙන් අනතුරුව ඉරාන ජනාධිපතිවරයා විසින් අමරවීර මහතාට ත්‍යාගයක් එවීමට කටයුතු කර ඇත. ඒ අනුව එරට ආගමික සංකේතයක් වන අදාළ ත්‍යාගය අමරවීර මහතාට ලැබී තිබුණේ ඉරානයේ ජනාධිපතිවරයා මියගොස් ඇති බවට එරට විසින් තහවුරු කරන ලද ඊයේ(20දා) දිනයේදීය.
+
+◼️
+
+[Data](articles/89a1a119.json)
+
+---
+
 ### Prison officials cannot disrupt court proceedings - Minister Wijeyadasa Rajapaksa
 
 *2024-05-20 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184085) · `ta`
@@ -2101,75 +2181,5 @@ A special journalist meeting to clarify the trade union struggle launched by pri
 [Data](articles/e97e09a7.json)
 
 [Extended Data](ext_articles/e97e09a7.ext.json)
-
----
-
-### ASP Minura Senarath appointed Acting Director of Police Media Division
-
-*2024-05-20 20:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ASP-Minura-Senarath-appointed-Acting-Director-of-Police-Media-Division/108-282983) · `en`
-
-Colombo, May 20 (Daily Mirror) - Assistant Superintendent of Police W. M. Minura Senarath has been appointed as the Acting Director of the Police Media Division by IGP Deshabandu Tennakoon.
-
-ASP Senarath joined the Sri Lanka Police Service as an Apprentice Assistant Superintendent of Police on 01.10.2019 and has been performing his duties as an ASP in the Colombo Central Division from January 2021.
-
-He assumed duties as the Acting Director of the Media Division on Monday (20).
-
-◼️
-
-[Data](articles/bb9f483e.json)
-
-[Extended Data](ext_articles/bb9f483e.ext.json)
-
----
-
-### Prison officials increase allowances to coincide with police officers
-
-*2024-05-20 20:16:30* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ට-පොලිස්-නිලධාරීන්ට-සමගාමීව-දීමනා-වැඩි-කරයි/11-409750) · `si`
-
-Prison officials' allowances will be increased alongside police officers' pay, as decided by the Prison Department and Constitutional Reforms Minister Wijayadasa Rajapaksa. This decision follows a Cabinet paper submission and comes after several institutions took steps to prevent court cases due to lack of legal recourse for prison officials. The move was discussed during a special meeting at the Ministry of Justice, emphasizing the importance of reporting to ensure prison safety.
-
-🟩
-
-The Prison Department (PC) Wijeyadasa and Constitutional Reforms Minister Wijayadasa Rajapaksa has agreed to increase the allowances in parallel to the police officers.
-
-The department has been sent to a Cabinet paper to provide a sum of Rs.
-
-The announcement states that the prison officials have no legal chance to refer to professional procedures and several institutions have taken action to avoid courts yesterday.
-
-The statement states that the commissioner General of Parliament has informed the officials to report to all officers to the work of the prisons or security of prisons.
-
-It has shown that the Minister of Justice Wijayadasa has held a special discussion at his ministry yesterday regarding the increase in the allowances of prison officials.
-
-◼️
-
-[Data](articles/dffdf25a.json)
-
-[Extended Data](ext_articles/dffdf25a.ext.json)
-
----
-
-### The "Economic Transfer Bill" and the "State Finance Management Act" will be presented in Parliament on May 22 - Finance Minister Sehan Semasinghe
-
-*2024-05-20 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184084) · `ta`
-
-Finance Minister Sehan Semasinghe announced that the "Economic Transfer Bill" and "State Finance Management Act" will be presented to Parliament on May 22, aiming to manage state funds effectively and prevent economic downturns. These bills are crucial for the country's future financial management and economic growth, focusing on improving competitiveness, international trade, and reducing the state credit rate.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that the government is planning to submit two important bills of the country's economy to Parliament on May 22.
-
-Accordingly, he pointed out that the "Economic Transfer Bill" and the "State Financial Management Act" will be submitted to ensure that the country's state funds are being managed at the right level to prevent an economic downturn.
-
-Finance Minister Xihan Semasinghe made this statement at a media briefing held at the Presidential Media Center on Monday (20).
-
-The government plans to submit two bills of the country's economy on May 22. One of these bills is the "Economic Transformation Law", which is proposed to prevent an economic downturn.
-
-This Bill is not proposed by the International Monetary Fund. It must be said that the bill is presented according to President Ranil Wickremesinghe's opinion. The economy that has fallen in the past has now been brought to stability. This condition must be protected in the future.
-
-...
-
-[Data](articles/f86b70fe.json)
-
-[Extended Data](ext_articles/f86b70fe.ext.json)
 
 ---

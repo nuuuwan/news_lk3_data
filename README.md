@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 20:52:38**
+As of **2024-05-21 21:03:40**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,513 (100.0%) of 25,514 articles have been extended.
+25,514 (100.0%) of 25,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ஆசிய தொடர் ஓட்ட சம்பியன்ஷிப்: ஆண்களுக்கான 4 x 400 மீ. தொடர் ஓட்டத்தில் இலங்கைக்கு தங்கம்
+### Asian Series Rout Championship: 4 x 400m for men. Gold to Sri Lanka in the series
 
 *2024-05-21 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184173) · `ta`
 
-தாய்லாந்தின் பாங்கொங்கில் இன்று செவ்வாய்க்கிழமை (21) நிறைவுக்கு வந்த அங்குரார்ப்பண ஆசிய தொடர் ஓட்ட சம்பியன்ஷிப்பில் ஆண்களுக்கான 4 x 400 மீற்றர் தொடர் ஓட்டப் போட்டியில்  இலங்கை அணியினர் தங்கப் பதக்கம் வென்று அசத்தினர்.
+In the inaugural Asian Series Championship, Sri Lanka clinched the gold in the men's 4x400m event, clocking 3:04.48. The team consisted of Aruna Darshana, Hunger Lakshan Kodikara, Dinukka Deshan, and Kalinga Kumarake. Despite missing out on direct Olympic qualification, a win in future series could secure them a spot based on rankings. India took silver (3:05.76), and Vietnam bronze (3:07.37).
 
-இந்தியா, வியட்நாம், கத்தார், பிலிப்பைன்ஸ், தாய்லாந்து, சைனீஸ் தாய்ப்பே ஆகிய அணிகளை வெற்றிகொண்டே இலங்கை தங்கப் பதக்கத்தை சுவீகரித்தது.
+🟩
 
-ஆண்களுக்கான 4 x 400 மீற்றர் ஓட்டப் போட்டியை 3 நிமிடங்கள், 04.48 செக்கன்களில் நிறைவு செய்து இலங்கை அணியினர் தங்கப் பதக்கத்தை சுவீகரித்தனர்.
+Sri Lankan team won the gold medal in the men's 4 x 400m series in the inaugural Asian series championship, which ended on Tuesday (21) in Bangladesh, Thailand.
 
-தங்கம் வென்ற இலங்கை தொடர் ஓட்ட அணியில் அருண தர்ஷன, பசிந்து லக்ஷான் கொடிகார, தினூக்க தேஷான், காலிங்க குமாரகே ஆகியோர் இடம்பெற்றனர்.
+Sri Lanka won the gold medal in India, Vietnam, Qatar, the Philippines, Thailand and Chinese Breasty.
 
-எவ்வாறாயினும், நேரடி  ஒலிம்பிக்  தகுதிக்கான  அடைவு மட்டத்தை இலங்கை அணி தவறவிட்டமை ஏமாற்றம் அளிக்கிறது.
+The Sri Lankan team won the gold medal in the men's 4 x 400m race in 3 minutes and 04.48 seconds.
 
-எனினும் அடுத்துவரும் தொடர் ஓட்டப் போட்டிகளில் இலங்கை அணியினர் வெற்றிபெற்றால் சர்வதேச தரவரிசை புள்ளிகளின் அடிப்படையில் இலங்கை தொடர் அணிக்கு ஒலிம்பிக்கில் பங்குபற்ற வாய்ப்பு கிடைக்கும் என பெரிதும் நம்பப்படுகிறது.
+Aruna Darshana, Hunger Lakshan Kodikara, Dinukka Deshan and Kalinga Kumarake were featured in the Sri Lankan series.
 
-...
+However, it is disappointing that the Sri Lankan team missed the directory level for the direct Olympic qualification.
+
+However, if the Sri Lankan team wins the next series of matches, it is believed that the Sri Lankan series will be able to participate in the Olympics based on international rankings.
+
+India (3: 05.76) won the silver medal and Vietnam (3: 07.37) won the bronze medal.
+
+◼️
 
 [Data](articles/ef31928b.json)
+
+[Extended Data](ext_articles/ef31928b.ext.json)
 
 ---
 

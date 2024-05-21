@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 13:03:46**
+As of **2024-05-21 13:18:27**
 
 ## Newspaper Stats
 
-*Scraped **25,402** Articles*
+*Scraped **25,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,178
-adaderanalk | 2,933
+adaderanalk | 2,934
 tamilmirrorlk | 2,968
-virakesarilk | 3,833
+virakesarilk | 3,847
 dailymirrorlk | 3,987
 adaderanasinhalalk | 4,062
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 4,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,402 (100.0%) of 25,402 articles have been extended.
+25,402 (99.9%) of 25,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### LIVE UPDATES: 2024 LPL Player Auction
+
+*2024-05-21 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99355/live-updates-2024-lpl-player-auction) · `en`
+
+The player auction of the Lanka Premier League 2024 commenced at the Hilton Hotel in Colombo, a short while ago.
+
+A total of 420 players, both Sri Lankan and overseas, will go under the hammer during the much-awaited ‘Player Auction’. Out of the 420 players, 154 are Sri Lankans, while the remaining players are overseas.
+
+In total, the auction will have a collective purse of US$ 2.5 million from all five franchise teams, while each franchise will bring in a sum of US$ 500,000.
+
+The teams will have to ensure that they invest a minimum of 90 percent of the purse they bring into the auction to form their respective squads.
+
+Charu Sharma, who was the auctioneer of the inaugural LPL player auction held last year, is the auctioneer of this edition as well.
+
+◼️
+
+[Data](articles/57a10b07.json)
+
+---
+
+### நல்லிணக்கத்துக்கு ஜனாதிபதியின் உள்ளார்ந்த ஈடுபாடு அவசியம்
+
+*2024-05-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184129) · `ta`
+
+ஜனாதிபதியாக தான் தெரிவுசெய்யப்பட்டது இலங்கையை அதன் பொருளாதார நெருக்கடியில் இருந்து மீட்டெடுப்பதற்கே என்றும் அந்த கடப்பாட்டை நிறைவேற்ற தன்னாலியன்றவரை பாடுபடம்போவதாகவும் ரணில் விக்கிரமசிங்க எண்ணற்ற தடவைகள் கூறியிருக்கிறார். இதனால் பொருளாதார வெற்றியை சாதிப்பதற்கு முன்னதாக ஜனாதிபதி தேர்தலை நடத்துவது தொடர்பில் ஜனாதிபதியின் நோக்கங்கள் குறித்து  பெருமளவு ஊகங்கள் எழுந்தன.
+
+பொருளாதார நெருக்கடியை தீர்ப்பதில்  ஜனாதிபதிக்கு இருக்கும் பற்றுறுதி தொடர்பில் அவரின் கூற்றுக்களின் உண்மையை மக்களால் விரும்பப்படாத,  செல்வாக்கில்லாத பொருளாதாரக் கொள்கைகளை தீவிரமாக முன்னெடுப்பதில் அவர் காட்டுகின்ற உறுதிப்பாட்டின் மூலம் தெரிந்துகொள்ள முடியும். மக்களுக்கு கட்டுப்படியாகக்கூடிய எல்லைக்கும் அப்பால் உயர்ந்த வரிகளை விதிப்பதிலும் பெரும்பாலான ஊழியர்களினால் கடுமையாக எதிர்க்கப்படும் அரச நிறுவனங்களின் தனியார் மயமாக்கலை முன்னெடுப்பதிலும் ஜனாதிபதி தளராமல் ஈடுபட்டுவருகிறார்.
+
+...
+
+[Data](articles/653130bc.json)
+
+---
+
+### வவுனியாவில் மரக்கடத்தல் முறியடிப்பு !
+
+*2024-05-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184122) · `ta`
+
+வவுனியா ஓமந்தையில் முதிரை மரக்கடத்தலினை முறியடித்துள்ளதாக வவுனியா மாவட்ட குற்றவியல் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+
+வவுனியா மாவட்ட குற்றத்தடுப்பு பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் வவுனியா கல்மடுவில் இருந்து இரண்டு வாகனங்களில் கடத்தப்பட்ட முதிரை மரக்குற்றிகளை ஓமந்தை பகுதியில் மடக்கி பிடிக்கப்பட்டுள்ளது.
+
+இதன் போது மரக்கடத்தலில் ஈடுபட்டவர்கள் தப்பியோடிய நிலையில் பத்து இலட்சம் ரூபாய் பெறுமதியான 24 மரக்குற்றிகளும் கடத்தலுக்கு பயன்படுத்திய கெப் மற்றும் பட்டா வாகனமும் பொலிஸாரினால் மீட்கப்பட்டுள்ளன.
+
+குறித்த சம்பவம் தொடர்பான மேலதிக விசாரணையினை வவுனியா மாவட்ட குற்றவியல் புலனாய்வு பிரிவினரால் முன்னெடுக்கப்பட்டு வருகின்றது.
+
+◼️
+
+[Data](articles/a192a03a.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184128) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மே 21) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 294.7827 ஆகவும் விற்பனை விலை ரூபா 304.3151 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0718c564.json)
+
+---
 
 ### A tree collapses near Colombo main schools
 
@@ -49,6 +113,24 @@ The tree has collapsed today (21), but the road has also occurred.
 [Data](articles/5a1f1a32.json)
 
 [Extended Data](ext_articles/5a1f1a32.ext.json)
+
+---
+
+### வற்றாப்பளை கண்ணகி அம்மனை தரிசித்து விட்டு வந்த பக்தர்களுக்கு ஏற்பட்ட சோகம்!
+
+*2024-05-21 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184124) · `ta`
+
+யாழ்ப்பாணம் - பண்டத்தரிப்பு - சாந்தை பகுதியில் இருந்து வற்றாப்பளை ஆலயத்திற்கு சென்று தரிசனம் செய்துவிட்டு வந்த பக்தர்கள் பேருந்து குடைசாய்ந்த நிலையில் படுகாயமடைந்துள்ளனர்.
+
+மேற்குறிப்பிட்ட பகுதியைச் சேர்ந்த பக்தர்கள் ஒன்றுசேர்ந்து பேருந்து ஒன்றினை வாடகைக்கு அமர்த்தி வற்றாப்பளை கண்ணகி அம்மன் ஆலயத்திற்கு சென்று தரிசனம் செய்துவிட்டு இன்று செவ்வாய்க்கிழமை (21) காலை யாழ்ப்பாணம் நோக்கி வந்துகொண்டிருந்தனர்.
+
+இந்நிலையில், பூநகரி பாலம் தாண்டி வந்துகொண்டிருந்த போது பேருந்து தடம்புரண்டு விபத்துக்குள்ளானது. இந்நிலையில் பேருந்தில் பயணித்த ஆறு பயணிகள் படுகாயம் அடைந்தனர்.
+
+இந்நிலையில், அவர்கள் பூநகரி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, பின்னர் அங்கிருந்து கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/86d53db2.json)
 
 ---
 
@@ -128,6 +210,48 @@ Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to 
 
 ---
 
+### கொழும்பில் பலத்த காற்றினால் சரிந்து வீழ்ந்த விளம்பர பலகை
+
+*2024-05-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184118) · `ta`
+
+கொழும்பு,  பம்பலப்பிட்டி பகுதியில் நேற்று திங்கட்கிழமை (20) மாலை பலத்த காற்று வீசியதில் வீதிக்கருகில் பொருத்தப்பட்டிருந்த இலத்திரனியல் விளம்பரப் பலகை சரிந்து வீழ்ந்துள்ளது.
+
+இந்த சம்பவத்தில் அதிர்ஷ்டவசமாக எவரும் பாதிக்கப்படவில்லை. அருகிலிருந்த சில கடைகளின் மேற்கூரைகள் மாத்திரம் சேதமடைந்துள்ளன.
+
+இலத்திரனியல் விளம்பரப் பலகை சரிந்து வீழும்  காணொளி காட்சி சமூக ஊடகங்களில் வெளிவந்துள்ளது.
+
+நாட்டில் தென்மேல் பருவப்பெயர்ச்சிக்குரிய  காலநிலை படிப்படியாக இலங்கையை ஊடறுப்பதனால் நிலவுகின்ற காற்றுடன் கூடிய மழையுடனான வானிலை தொடரக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதேவேளை, இன்று செவ்வாய்க்கிழமை (21)மணித்தியாலத்திற்கு சுமார் 40 முதல் 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி  பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+எனவே, காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள அறிவிப்புகளுக்கு அமைய பொதுமக்கள் அவதானத்துடன் செயற்பட  வேண்டும்.
+
+◼️
+
+[Data](articles/b833cdaa.json)
+
+---
+
+### லுணுகலை பெண்ணின் மரணத்தில் சந்தேகம் : கணவன் கைது !
+
+*2024-05-21 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184116) · `ta`
+
+லுணுகலை பொலிஸ் பிரிவிற்குட்பட்ட ஜனாதாபுர, தம்பிட்டியவத்த பகுதியில் நேற்று முன்தினம் சடலமாக மீட்கப்பட்ட பெண்ணின் கொலைக்கு காரணமானவர் என்ற சந்தேகத்தில் உயிரிழந்த பெண்ணின் கணவர் கைது செய்யப்பட்டுள்ளதாக லுணுகலை பொலிஸார் தெரிவிக்கின்றனர்.
+
+குறித்த பெண்ணின் சடலம் ஞாயிற்றுக்கிழமை (19) லுணுகலை ஜனதாபுர , தம்பபிட்டிய வத்த, கும்புக்கன் ஓயாவில் மீட்கப்பட்டது.
+
+இரு பிள்ளைகளின் தாயான 38 வயதுடைய குறித்த பெண்ணின் தலையில் பலத்த காயம் காணப்பட்டதுடன் , தனது தாயின் மரணத்தில் சந்தேகம் உள்ளதாக 17 வயதுடைய மூத்த மகள் பொலிஸாரிடம் முறைப்பாடு செய்துள்ளார்.
+
+இதனை தொடர்ந்து விசாரணையை தீவிரப் படுத்தியதன் காரணமாக  கொலையாளியான சந்தேக நபர் வாடகைக்கு அமர்த்திய முச்சக்கர வண்டியின் சாரதி (36 வயது) பிரதேசத்தில் இருந்து தப்பிச் சென்ற நிலையில் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட ஆரம்பகட்ட விசாரணையின் போது முதலில் சிறிய கல் ஒன்றினால் தலை பகுதியை தாக்கியதன் பின்னர் பெரிய கல் ஒன்றினால் தாக்கி கொலை செய்ததாக பொலிஸாரிடம் வாக்குமூலம் அளித்துள்ளார்.
+
+...
+
+[Data](articles/b27cf956.json)
+
+---
+
 ### Diana will come with lawyers and surrenders to court
 
 *2024-05-21 11:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නීතිඥයන්-සමග-පැමිණ-අධිකරණයට-බාර-වෙයි/11-409759) · `si`
@@ -196,6 +320,40 @@ As a result, the sea waves can be reached in Colombo to Matara via Galle.
 
 ---
 
+### அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணம் ஆனாலும் மக்கள் இன்னமும் நம்பிக்கை இழக்கவில்லை - சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம்
+
+*2024-05-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184120) · `ta`
+
+அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே விதிமுறைகளை அடிப்படையாக கொண்ட சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணமாக உள்ளன என தெரிவித்துள்ள சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் தென்னாபிரிக்கா சர்வதேச நீதிமன்றம் சென்றமையும்  சர்வதேச அளவில் இடம்பெறும் காசா தொடர்பான ஆர்ப்பாட்டங்களும் சர்வதேச சட்டங்கள் பாதுகாக்கப்படவேண்டும் என கருதும் மக்கள்  உள்ளனர் என்பதை வெளிப்படுத்துகின்றது என தெரிவித்துள்ளார்
+
+கொழும்பில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் விதிமுறைகளை அடிப்படையாக கொண்டசர்வதேச ஒழுங்குமுறையின் வீழ்ச்சி ஐநா போன்ற அமைப்புகளின் மீதுமக்கள் நம்பிக்கைஇழப்பு குறித்த கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்
+
+1948ம் ஆண்டு புதிய ஒழுங்குமுறையை உருவாக்குவதில் பங்களிப்பு செய்தவர்களே  அதனை அழிக்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+
+அமெரிக்கா  பிரிட்டன் ரஸ்யா சீனா போன்ற  நாடுகளே விதிமுறைகளை அடிப்படையாக கொண்ட சர்வதேச ஒழுங்குமுறை வீழ்ச்சியடைவதற்கான காரணமாக உள்ளன.
+
+...
+
+[Data](articles/b907ce90.json)
+
+---
+
+### யாழில் பஸ்ஸில் பயணித்த பெண்ணின் தாலிக்கொடி திருட்டு !
+
+*2024-05-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184110) · `ta`
+
+யாழ்ப்பாணத்தில் பஸ்ஸில் பயணித்த பெண்ணொருவரின் தாலிக்கொடி திருடப்பட்டுள்ளதாக மானிப்பாய் பொலிஸ் நிலையத்தில் பாதிக்கப்பட்ட பெண் மானிப்பாய் பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+யாழ்ப்பாணம் ஆறுகால் மடம் பகுதியை சேர்ந்த பெண்ணொருவர், பஸ்ஸில் சுழிபுரம் சென்ற பின்னர் , அங்கிருந்து மீள பிறிதொரு பஸ்ஸில் தனது வீடு நோக்கி திரும்பிக்கொண்டிருந்த வேளையிலேயே பஸ்ஸில் வைத்து அவரது தாலிக்கொடி திருடப்பட்டுள்ளது.
+
+அதேவேளை, பஸ் பயணங்களின் போது பெறுமதியான நகைகளை அணிந்து செல்வதனை தவிர்த்துக் கொள்ளுமாறும் பஸ்ஸில் சந்தேகத்திற்கு இடமான முறையில் பயணிப்பவர்கள் தொடர்பில் அவதானமாக இருக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/59ff1617.json)
+
+---
+
 ### Traffic is blocked
 
 *2024-05-21 11:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-போக்குவரத்து-தடை/175-337628) · `ta`
@@ -260,6 +418,24 @@ Former State Government Minister Diana Gamage, who was nominated for the passpor
 
 ---
 
+### நுவரெலியா மாவட்டத்தில் கன மழை
+
+*2024-05-21 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184111) · `ta`
+
+அதிக மழை பெய்வதால் மக்களின் இயல்பு நடவடிக்கைளில் பாதிப்பு ஏற்பட்டுள்ளதோடு மரக்கறி உற்பத்தியிலும் பாதிப்பு ஏற்பட்டுள்ளது.
+
+மத்திய மலைநாட்டில் நுவரெலியா மாவட்டத்தில் தொடர்ந்து கன மழை பெய்து வருகிறது.குறிப்பாக நுவரெலியா, கந்தப்பளை, இராகலை, நானுஓயா, லிந்துல, தலவாக்கலை, கொட்டகலை, ஹட்டன், வட்டவளை, கினிகத்தேனை, தியகல, நோட்டன், மஸ்கெலியா, சாமிமலை, நல்லதண்ணி ஆகிய பகுதிகளில் கனத்த மழையுடன் கடுமையான பணி மூட்டம் காணப் படுகிறது.
+
+இதனால் வாகன செலுத்தும் சாரதிகள் மிகவும் அவதானமாக வாகனங்களை செலுத்தும்படி போக்குவரத்து பொலிஸார் எச்சரித்துள்ளனர். கன மழை காரணமாக எங்கும் ஒரே வெள்ளம் பாய்வதை காண கூடியதாக உள்ளது.
+
+மேல் கொத்மலை நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை எட்டி உள்ளது. காசல்ரீ நீர் தேக்கத்தில் நீர் மட்டம் அதிகரித்துள்ளது. தொடர்ந்து மழை பெய்வதால் நீர் தேக்கங்களின் நீர் மட்டம் சற்று உயர்ந்து வருகிறது.
+
+...
+
+[Data](articles/0d2df3c4.json)
+
+---
+
 ### Diana appeared in court
 
 *2024-05-21 11:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஆஜரானார்-டயானா/175-337627) · `ta`
@@ -295,6 +471,22 @@ The Army also said that among those who received legal discharge, there are 373 
 [Data](articles/d4a352d9.json)
 
 [Extended Data](ext_articles/d4a352d9.ext.json)
+
+---
+
+### 15 ஆயிரத்திற்கு மேற்பட்ட இராணுவவீரர்கள் சட்ட ரீதியாக சேவையிலிருந்து வெளியேற்றம்
+
+*2024-05-21 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184105) · `ta`
+
+பொது மன்னிப்பு காலத்தின் முடிவில் விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத 15667  இராணுவவீரர்கள் சட்ட ரீதியாக வெளியேற்றப்படவுள்ளதாக இலங்கை இராணுவ தலைமையகத்தினால் வெளியிடப்பட்டுள்ள  ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+முறையான விடுமுறையின்றி கடமைக்கு சமுகமளிக்காத இலங்கை இராணுவத்தின் உறுப்பினர்களுக்கு 2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 20 அம் திகதி முதல் 2024 ஆம் ஆண்டு மே மாதம் 20 ஆம் திகதி வரை சட்ட ரீதியாக சேவையை விட்டு வெளியேறுவதற்காக ஒரு மாத கால பொது மன்னிப்பு காலம் அமுல்படுத்தப்பட்டிருந்தது.
+
+இதனடிப்படையில், பிரகடனப்படுத்தப்பட்டிருந்த பொது மன்னிப்பு காலத்தின் 2023 டிசம்பர் 31, மற்றும் அதற்கு முன் விடுமுறை இன்றி பணிக்கு சமுகமளிக்காத இராணுவ வீரர்களுக்கு சட்ட ரீதியாக சேவையில் இருந்து விலகுவதற்கான நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+...
+
+[Data](articles/69c0eb8a.json)
 
 ---
 
@@ -422,6 +614,26 @@ His recent visit to Sri Lanka to launch a hydropower plan with the financial sup
 
 ---
 
+### எங்களை இங்கிருந்து வெளியேற்றுங்கள் - மருந்துகளை கொண்டுவருவதற்காக  ரபா எல்லையை திறப்பதற்கான அழுத்தங்களை கொடுங்கள் - காசா மருத்துமவனையில் சிக்குண்டுள்ள அவுஸ்திரேலிய மருத்துவர்
+
+*2024-05-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184117) · `ta`
+
+காசாவில் செயற்படும் ஒரேயொரு மருத்துவமனைக்குள் சிக்குண்டுள்ள அவுஸ்திரேலிய மருத்துவர்  அவுஸ்திரேலிய அரசாங்கம் அங்கிருந்து தன்னையும் தனது குழுவினரையும் வெளியேற்றவேண்டும்என வேண்டுகோள் விடுத்துள்ளதுடன் மருத்துவமனைக்கு மருந்துபொருட்களை அனுப்பவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+
+இஸ்ரேல் ரபா எல்லையை தனது கட்டுப்பாட்டின் கீழ் கொண்டுவந்த பின்னர் கான் யூனிசில் உள்ள ஐரோப்பிய மருத்துவமனைக்குள் சிட்னியை சேர்ந்த மருத்துவர் மோதர் அல்பெருட்டி உட்பட 16 மருத்துவர்களும் மருத்துவசுகாதார பணியாளர்களும் சிக்குண்டுள்ளனர்.
+
+இஸ்ரேலின் தாக்குதலில் அவுஸ்திரேலிய மனிதாபிமான பணியாளர் கொல்லப்பட்டது போன்ற நிலை எங்களிற்கு ஏற்படுவதற்கு முன்னர் எங்களை இங்கிருந்து வெளியேற்றுங்கள் என்பதே எங்கள் செய்தி என அவர் கார்டியன் அவுஸ்திரேலியாவிற்கு தெரிவித்துள்ளார்.
+
+காசா மனிதாபிமான பொருட்கள் மருத்துவபணியாளர்களை பெறுவதற்காக எல்லையை திறக்குமாறு அழுத்தங்களை கொடுங்கள் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+அல்பெருட்டி மே மாதம் முதலாம் திகதி பாலஸ்தீன அமெரிக்க மருத்துவ குழுவுடன் காசாவிற்கு சென்றார்.
+
+...
+
+[Data](articles/32dac093.json)
+
+---
+
 ### “We will not allow India to be harmed”
 
 *2024-05-21 11:01:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிற்கு-தீங்கு-விளைவிக்க-அனுமதிக்க-மாட்டோம்/175-337621) · `ta`
@@ -516,6 +728,28 @@ Additionally, arrangements have been made for 373 personnel who are currently ov
 
 ---
 
+### இராணுவ வாகனம் மோதி யுவதி உயிரிழந்த சம்பவம் ; இராணுவ சிப்பாய் விளக்கமறியலில்
+
+*2024-05-21 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184114) · `ta`
+
+யாழ்ப்பாணத்தில் இராணுவ வாகனம் மோதி யுவதி உயிரிழந்த சம்பவம் தொடர்பில் இராணுவ வாகன சாரதியான இராணுவ சிப்பாய் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+புத்தூர் - கனகம்புளியடி வீதியில் வீரவாணி சந்தியில் நேற்று திங்கட்கிழமை (20) இராணுவத்தினருக்கு சொந்தமான ஹயஸ் ரக வாகனம் வீதியோரமாக, வீதியை கடக்க துவிச்சக்கர வண்டியுடன் காத்திருந்த யுவதியை மோதி விபத்துக்கு உள்ளானதில் யுவதி உயிரிழந்திருந்தார்.
+
+வாதரவத்தை பகுதியைச் சேர்ந்த சுதாகரன் சாருஜா (வயது 23) என்பவரே தனது 23ஆவது பிறந்தநாளான நேற்றையதினம் உயிரிழந்திருந்தார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த அச்சுவேலி பொலிஸார் , வாகன சாரதியான இராணுவ சிப்பாயை கைது செய்து விசாரணைகளை முன்னெடுத்திருந்தனர்.
+
+விசாரணைகளின் பின்னர் இராணுவ சிப்பாயை மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய போது , சிப்பாயை 29ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது
+
+அதேவேளை, குறித்த வாகனத்தில் இராணுவ உயர் அதிகாரிகள் பயணித்ததாகவும் , அவர்களில் இருவர் காயமடைந்த நிலையில் பலாலி வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/c5ec9400.json)
+
+---
+
 ### Flood warnings issued for low-lying areas of several river basins
 
 *2024-05-21 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99352/flood-warnings-issued-for-low-lying-areas-of-several-river-basins-) · `en`
@@ -553,6 +787,24 @@ Lakugala Police have arrested his friend yesterday (20) to suspect her husband a
 [Data](articles/614266ef.json)
 
 [Extended Data](ext_articles/614266ef.ext.json)
+
+---
+
+### இஸ்ரேல் ஹமாஸ்தலைவர்களிற்கு எதிராக பிடியாணை - வரவேற்கின்றது பிரான்ஸ்
+
+*2024-05-21 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184108) · `ta`
+
+இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு அந்த நாட்டின் பாதுகாப்பு அமைச்சர் ஹமாஸ் தலைவர்களிற்கு எதிராக பிடியாணை பிறப்பிக்கவேண்டும் என ஐசிசியின் வழக்குரைஞர் வேண்டுகோள் விடுத்துள்ளதை பிரான்ஸ் வரவேற்றுள்ளது.
+
+ஐசிசியின் வழக்குரைஞர் தனது வேண்டுகோளிற்கு ஆதரவாக சமர்ப்பிக்கும்  ஆதாரங்களை ஆராய்ந்த பின்னர் விசாரணைக்கு முந்தைய நீதிமன்றம் இஸ்ரேல் தொடர்பில் தனது முடிவை எடுக்கலாம் என பிரான்சின் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+சர்வதேச குற்றவியல் நீதிமன்றம் அதன் சுதந்திரம் தண்டனையிலிருந்து விலக்களித்தல் ஆகியவற்றிற்கு எதிரான போராட்டம் ஆகியவற்றை பிரான்ஸ் ஆதரிக்கின்றது என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+கடந்த பல மாதங்களாக சர்வதேச மனிதாபிமான சட்டங்களை இறுக்கமாக பின்பற்றவேண்டியதன் அவசியத்தை வலியுறுத்தி வந்துள்ளதாக தெரிவித்துள்ள பிரான்ஸ் காசா பள்ளத்தாக்கில் பொதுமக்கள் கொல்லப்பட்டுள்ளதையும் மனிதாபிமான உதவிகள் மறுக்கப்படுவதையும் ஏற்றுக்கொள்ள முடியாது என தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/7ebd4388.json)
 
 ---
 
@@ -655,6 +907,26 @@ The Minister also addressed India's concerns regarding the visits of Chinese res
 [Data](articles/923f82ce.json)
 
 [Extended Data](ext_articles/923f82ce.ext.json)
+
+---
+
+### குஜராத்தில் இலங்கையர்கள் என கருதப்படும் ஐஎஸ் சந்தேகநபர்கள் கைதுசெய்யப்பட்ட விவகாரம் -இந்தியாவிடம் மேலதிக விபரங்களை கோரியது இலங்கை
+
+*2024-05-21 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184106) · `ta`
+
+ஐஎஸ் அமைப்பபை சேர்ந்தவர்கள் என கருதப்படும் இலங்கையர்கள் நால்வர் இந்தியாவில் கைதுசெய்யப்பட்டுள்ளமை குறித்து இலங்கையின் தேசிய புலனாய்வு பிரிவு உடனடி விசாரணைகளை ஆரம்பித்துள்ளது.
+
+ஐஎஸ் அமைப்பை சேர்ந்தவர்கள் என சந்தேகிக்கப்படும்  இலங்கையை சேர்ந்த நால்வர் குஜராத்திற்கு செல்ல முற்பட்டவேளை அஹமதாபாத்தில் கைதுசெய்யப்பட்டமை குறித்தே விசாரணைகள் ஆரம்பமாகியுள்ளன.
+
+இந்த சந்தேகநபர்களின் பின்னணி குறித்து விசாரணைகளை மேற்கொள்வதற்காகவும் அவர்கள் உண்மையிலேயே ஐஎஸ் சந்தேகநபர்களா என விசாரணைகளை மேற்கொள்வதற்காகவும்  இந்தியாவின் புலனாய்வு பிரிவினரிடம் இலங்கை புலனாய்வு பிரிவினர் மேலதிக தகவல்களை கோரியுள்ளனர்.
+
+இந்திய அதிகாரிகள் தகவல்களை வழங்கியதும் உடனடியாக மேலதிக நடவடிக்கைகளிற்கான அடுத்த கட்ட விசாரணைகள் ஆரம்பமாகும் என இலங்கை அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+கைதுசெய்யப்பட்டுள்ள நால்வரும் சில நாட்களிற்கு முன்னர் கொழும்பிலிருந்து சென்னை சென்று அங்கிருந்து குஜராத் சென்றுள்ளனர்.
+
+...
+
+[Data](articles/eecfd5c1.json)
 
 ---
 
@@ -1917,297 +2189,5 @@ Iran’s cabinet has also appointed Deputy Foreign Minister Ali Bagheri Kani as 
 [Data](articles/87302d13.json)
 
 [Extended Data](ext_articles/87302d13.ext.json)
-
----
-
-### Mediwave earns global recognition at GLOMO Awards 2024 for Emergency Response HealthTech
-
-*2024-05-21 01:59:12* · [`dailyftlk`](https://www.ft.lk/news/Mediwave-earns-global-recognition-at-GLOMO-Awards-2024-for-Emergency-Response-HealthTech/56-762035) · `en`
-
-Mediwave, a leading-edge HealthTech company, was recognised as a finalist at the prestigious Global Mobile Awards (GLOMO), part of the Mobile World Congress (MWC) powered by GSMA in Barcelona, Spain. This acknowledgment underscores Mediwave’s exceptional contributions to the field, particularly its innovative and integrated use of AI, Internet of Medical Things (IoMT), and Mixed Reality technologies.
-
-Mediwave has transformed Sri Lanka’s national-level free pre-hospital emergency care ambulance service, 1990 Suwa Seriya, with its end-to-end Emergency Response Suite. This solution, recently featured as the world’s first of its kind, digitises and augments the service delivery with AI, AR, and mixed reality capabilities. This achievement is a significant milestone for Mediwave as it expands its global reach with a suite of life enhancing HealthTech solutions, including Emergency Response, Digital Healthcare Enablement, and AI Smart Health portfolio.
-
-...
-
-[Data](articles/0415e32d.json)
-
-[Extended Data](ext_articles/0415e32d.ext.json)
-
----
-
-### Shehan stresses importance of “Economic Transformation Bill” and “Public Financial Management Bill”
-
-*2024-05-21 01:56:19* · [`dailyftlk`](https://www.ft.lk/news/Shehan-stresses-importance-of-Economic-Transformation-Bill-and-Public-Financial-Management-Bill/56-762034) · `en`
-
-Acting Finance Minister Shehan Semasinghe yesterday announced plans to introduce two significant bills to Parliament today (22 May) aimed at bolstering the country’s economy.
-
-These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns.
-
-Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre, themed “Collective path to a stable country”.
-
-...
-
-[Data](articles/91c56fdd.json)
-
-[Extended Data](ext_articles/91c56fdd.ext.json)
-
----
-
-### Strengthening banking system boosts SME promotion: Semasinghe
-
-*2024-05-21 01:53:12* · [`dailyftlk`](https://www.ft.lk/business/Strengthening-banking-system-boosts-SME-promotion-Semasinghe/34-762033) · `en`
-
-Highlights connecting SOEs with private sector and committing to common interests is more effective
-
-Says strategy has transformed DLB from a loss of Rs. 750 m in 2022 to a profit of Rs. 450 m in 2023
-
-Expresses optimism on low interest rates to boost more private sector investments, entrepreneurship
-
-wtate Minister of Finance Shehan Semasinghe announced yesterday that the strengthening of the banking system, driven by recent economic progress, will positively impact the promotion of small and medium enterprises (SMEs) in the country. He attributed this to increased lending capacity and lower interest rates.
-
-Speaking at the Development Lottery Board’s sales comparison program at the Anuradhapura District Secretariat, Semasinghe highlighted the benefits of economic improvements on various sectors.
-
-...
-
-[Data](articles/8b752666.json)
-
-[Extended Data](ext_articles/8b752666.ext.json)
-
----
-
-### Sri Lanka’s first leadership and innovation program for creative debuts
-
-*2024-05-21 01:50:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-first-leadership-and-innovation-program-for-creative-debuts/34-762032) · `en`
-
-USAID/Sri Lanka and Maldives Office of Governance and Vulnerable Populations Jean MacKenzie
-
-Good Life X (GLX) on Wednesday announced the launch of ‘The Creative Catalyst Fellowship’ (CCF) at Trace Expert City.
-
-The program, funded by the US Government’s development arm - the United States Agency for International Development (USAID), seeks innovative solutions to social issues, harnessing the power of creatives to raise awareness, mobilise resources, and advocate for positive change.
-
-...
-
-[Data](articles/bae88abc.json)
-
-[Extended Data](ext_articles/bae88abc.ext.json)
-
----
-
-### Social media comes to the fore in Indian elections
-
-*2024-05-21 01:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Social-media-comes-to-the-fore-in-Indian-elections/172-282992) · `en`
-
-Chiefly YouTube, has emerged as the main mode of political communication overshadowing the traditional or “mainstream” electronic media
-
-The 2024 Indian parliamentary elections will be remembered for many reasons. They are the longest to date, stretching from April 19 to June 1.
-
-They are taking place in the midst of acute unemployment, skyrocketing prices and lack of demand in the market.
-
-An unprecedented amount of money is being spent amidst corruption charges.  Divisive issues of caste, religion and region are being racked up. Sex scandals are sullying the reputations of some of the high and mighty.
-
-But in the midst of the darkness, there is a silver lining. Social media platforms, chiefly YouTube, have emerged as the main mode of political communication, overshadowing the traditional or “mainstream” electronic media.
-
-...
-
-[Data](articles/af4bd2cb.json)
-
-[Extended Data](ext_articles/af4bd2cb.ext.json)
-
----
-
-### Elections must be decided only by law - EDITORIAL
-
-*2024-05-21 01:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Elections-must-be-decided-only-by-law-EDITORIAL/172-282991) · `en`
-
-The elections in Sri Lanka are said to be conducted in a free and fair manner and according to the law. However, some laws have been promulgated in a manner that ruling parties can manipulate the law in their favour.
-
-The Sri Lankan Constitution states “The President of the Republic shall be elected by the people and shall hold office for a term of five years.” It again says “The poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.”
-
-Accordingly, the Election Commission (EC) on May 9 announced that the Presidential polls will be held between September 17 and October 16, this year. The Commission’s announcement was based on the country’s law and hence election could not be held before that period or postponed for a date after it.
-
-...
-
-[Data](articles/6ab4b8ad.json)
-
-[Extended Data](ext_articles/6ab4b8ad.ext.json)
-
----
-
-### Raigam Solar’s Sunflower powers Polonnaruwa DTH Tyre Manufacturers’ sustainable growth
-
-*2024-05-21 01:45:26* · [`dailyftlk`](https://www.ft.lk/business/Raigam-Solar-s-Sunflower-powers-Polonnaruwa-DTHTyreManufacturers-sustainable-growth/34-762031) · `en`
-
-Raigam Solar’s Sunflower Energy has announced the completion of yet-another commercial-scale solar project in Polonnaruwa.
-
-This landmark project caters to the energy needs of DTH Tyre Manufacturers, strategically located at their new export focused tyre manufacturing facility in Polonnaruwa. DTH Tyre Manufacturers, a forward-thinking entity, is keen on investing in renewable energy sources, foreseeing a brighter, and eco-friendly future.
-
-With Sunflower Energy as their trusted system provider, DTH is taking the first steps towards harnessing solar power to fuel their operations. Moreover, they express their intent to further embrace solar energy in the near future, underlining their commitment to sustainability.
-
-...
-
-[Data](articles/ce26e249.json)
-
-[Extended Data](ext_articles/ce26e249.ext.json)
-
----
-
-### Complete MEP Services by Hayleys Fentons for Vallibel Finance new corporate office in Colombo 03
-
-*2024-05-21 01:38:17* · [`dailyftlk`](https://www.ft.lk/business/Complete-MEP-Services-by-Hayleys-Fentons-for-Vallibel-Finance-new-corporate-office-in-Colombo-03/34-762030) · `en`
-
-Vallibel Finances new corporate office and installations by Hayleys Fentons
-
-Vallibel Finance’s new corporate office in Colombo 3 stands tall as a symbol of innovation and efficiency, thanks to the expertise of Hayleys Fentons, Sri Lanka’s premier MEP contractor. Spanning 16 floors on a 42-perch plot, this cutting-edge building boasts state-of-the-art MEP installations for a new 110,000-square-foot corporate space.
-
-This project by Hayleys Fentons was successfully completed by providing specialised installations, such as a modern Fire Protection and Detection System, and integrating cutting-edge technology for the building’s Chiller Management System (CMS).
-
-...
-
-[Data](articles/23d20533.json)
-
-[Extended Data](ext_articles/23d20533.ext.json)
-
----
-
-### Munchee secures coveted No. 1 spot in LMD’s Most Loved Product Brands ranking
-
-*2024-05-21 01:33:19* · [`dailyftlk`](https://www.ft.lk/business/Munchee-secures-coveted-No-1-spot-in-LMD-s-Most-Loved-Product-Brands-ranking/34-762029) · `en`
-
-Munchee, the flagship brand of Ceylon Biscuits Ltd. (CBL), has once again triumphed as the nation’s most cherished product brand, as announced by LMD’s Brands Annual Ranking 2024. Garnering the prestigious No. 1 position in the ‘Most Loved Product Brands’ category, Munchee reaffirms its status as a symbol of Sri Lankan pride and excellence.
-
-Since its inception, Munchee has remained dedicated to delighting consumers with an array of confectionary products that seamlessly blend global flavours with the rich essence of Sri Lankan culture. This recognition by LMD underscores the enduring love and trust that the brand has earned from consumers across the nation. Munchee also exports to 69 countries worldwide, showcasing its robust global reach and commitment to quality. Munchee’s global presence extends beyond exports, with established manufacturing footprints in key locations such as Ghana and Bangladesh, enhancing efficiency and accessibility for its diverse consumer base.
-
-...
-
-[Data](articles/60f2b712.json)
-
-[Extended Data](ext_articles/60f2b712.ext.json)
-
----
-
-### SLPA holds talks with US State Department officials
-
-*2024-05-21 01:31:54* · [`dailyftlk`](https://www.ft.lk/business/SLPA-holds-talks-with-US-State-Department-officials/34-762028) · `en`
-
-Under the Maritime Administration program for Sri Lanka Ports Authority (SLPA) employees, executed by the Colombo Plan and funded by the US State Department, an official visit to the United States was recently organised. During the visit, the Sri Lankan port delegation met with US State Department officials, including Bureau of South and Central Asian Affairs Deputy Assistant Secretary Afreen Akhter. Seen here, Ministry of Ports, Shipping and Aviation Secretary K.D.S. Ruwanchandra, SLPA Chairman Keith D. Bernard, Colombo Plan Lead Consultant Rohan Masakorala, Grants Officer Representative Adam Thibault, along with other SLPA and Colombo Plan officials.
-
-◼️
-
-[Data](articles/0f358a4a.json)
-
-[Extended Data](ext_articles/0f358a4a.ext.json)
-
----
-
-### President’s Commitment To Economic Reform Is Model For Reconciliation
-
-*2024-05-21 01:30:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidents-commitment-to-economic-reform-is-model-for-reconciliation/) · `en`
-
-On numerous occasions President Ranil Wickremesinghe has said he was elected president to get Sri Lanka out of its economic morass and will do his utmost to fulfill that obligation. This has led to much speculation regarding the president’s intentions with regard to conducting presidential elections prior to achieving economic success. The truth of the president’s utterances with regard to his commitment to resolving the economic crisis is to be plainly seen in his determination to push ahead with unpopular economic policies. He has been unrelenting in sticking to higher tax rates than the masses of people can afford and to the privatization of state owned enterprises. Both of these policies are unpopular to the point of jeopardising his bid to be re-elected at the forthcoming presidential election, but the president has stuck by his convictions.
-
-...
-
-[Data](articles/fabbfd92.json)
-
-[Extended Data](ext_articles/fabbfd92.ext.json)
-
----
-
-### Sri Lanka - Confirm to strengthen Indonesia relations
-
-*2024-05-21 01:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தோனேசியா-உறவுகளை-பலப்படுத்த-உறுதி/175-337614) · `ta`
-
-President Ranil Wickremesinghe met Indonesian President Joko Widodo in Bali, discussing strengthening bilateral ties and economic cooperation. They highlighted the importance of joint efforts in tackling global issues.
-
-🟩
-
-The official meeting between President Ranil Wickremesinghe and Indonesian President Joko Widodo took place yesterday in parallel to the Tenth World Water Conference in Bali, Indonesian capital.
-
-Indonesian President welcomed President Ranil Wickremesinghe. Bilateral discussions were also launched after a friendly conversation between the two leaders.
-
-The two leaders have promised to further strengthen the historical ties between Sri Lanka and Indonesia and focus on improving economic cooperation.
-
-The two leaders focused on regional and international affairs and emphasized the importance of cooperation between the two countries in addressing global challenges. (A)
-
-◼️
-
-[Data](articles/055f403a.json)
-
-[Extended Data](ext_articles/055f403a.ext.json)
-
----
-
-### World North Polar Nations
-
-*2024-05-21 01:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வட-துருவ-நாடுகள்-தோல்வியடைந்துள்ளன/175-337613) · `ta`
-
-At the 10th World Water Summit in Bali, President Ranil Wickremesinghe criticized Global North Polar Nations for being willing to fund conflicts but not climate change mitigation efforts. He highlighted the urgent need for financial support to combat climate-induced water threats, contrasting with their reluctance towards such investments.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the Global North Polar Nations, which are ready to finance the life -threatening of Ukraine, will withdraw funds to prevent the destruction of the climate.
-
-The President stressed this yesterday at the top session of the 10th World Water Summit at the Bali International Conference Hall in Indonesia.
-
-The top session of World Water Summit was held yesterday morning under the leadership of Indonesian President Joko Widodo. It was attended by many leaders, including the leaders of the world, the ministers and the special representatives.
-
-Indonesian President's friendly welcomed representatives, including heads of state, who attended the summit.
-
-Climate change requires massive financial facilities to fight threats to water sources.
-
-...
-
-[Data](articles/8f0f409d.json)
-
-[Extended Data](ext_articles/8f0f409d.ext.json)
-
----
-
-### Phenomenon
-
-*2024-05-21 01:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனதை-ஒருநிலைப்படுத்தும்-நிகழ்ச்சி/175-337612) · `ta`
-
-The 'Buddha Rashmi' National Vesak festival, organized by the President's Office, Prime Minister's Office, and Ministry of Education, took place at Independence Square in Colombo. Aimed at inspiring the current generation, it featured meditation training led by Homagama Dhammakasala Thera, involving around 500 students from various educational institutions across the Colombo district.
-
-🟩
-
-The President's Office, the Prime Minister's Office and the Ministry of Education, which organized the 'Buddha Rashmi' National Vesak festival, were held at the Independence Square in Colombo yesterday to reinforce the minds of the present generation.
-
-The event was organized under the guidance of President's Secretary Saman Ekanayake under the advice of worship Dr. Kirinde Asaji Thera.
-
-About 500 students from Colombo district represent school students, universities, international schools and technical colleges.
-
-At this event, the Homagama Dhammakasala Thera, who was worshiped by the Aranya Senasanavasi, presented practical training on 'meditation' to the students.. (A)
-
-◼️
-
-[Data](articles/1e364594.json)
-
-[Extended Data](ext_articles/1e364594.ext.json)
-
----
-
-### Janasa of Ibrahim Raisi today
-
-*2024-05-21 01:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இப்ரஹிம்-ரைசியின்-ஜனாஸா-இன்று-அடக்கம்/50-337611) · `ta`
-
-Ibrahim Raisi, Iran's President and Foreign Minister, dies in a helicopter crash. Burial in Mashhad. Spiritual leader Ayatollah Ali Khamenei expresses concern for Iranians.
-
-🟩
-
-The President of Iran, Ibrahim Raisi, who died in a helicopter crash, is to be buried today in his own place of Masha.
-
-A 63 -year -old Iranian President and External Affairs Minister died in a helicopter accident last night.
-
-Iran's spiritual leader, Ayadullah al -Qaneni, has expressed concern over the demise of the President and Foreign Minister.
-
-Iran's spiritual leader has announced that he is concerned about the people of Iran. (A)
-
-◼️
-
-[Data](articles/abf3ad9e.json)
-
-[Extended Data](ext_articles/abf3ad9e.ext.json)
 
 ---

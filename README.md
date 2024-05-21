@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 03:51:53**
+As of **2024-05-22 04:03:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,551 (100.0%) of 25,557 articles have been extended.
+25,557 (100.0%) of 25,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,113 +58,165 @@ Subsequently, the court ordered the detainees to be detained at the Chennai Pull
 
 ---
 
-### வெசாக் வாரத்தில் அதிக விலைக்கு விற்பனை செய்யும் நோக்கில் மதுபான  போத்தல்களை மோட்டார் சைக்கிளில் ஏற்றிச் சென்றுள்ள நபர் கைது
+### A man arrested for selling liquor bottles on a motorbike
 
 *2024-05-22 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184183) · `ta`
 
-வெசாக் வாரத்தில் மதுபான கடைகள் மூடப்பட்டிருந்த நிலையில் அதிக விலைக்கு விற்பனை செய்யும் நோக்கில் மதுபான  போத்தல்களை மோட்டார் சைக்கிளில் ஏற்றிச் சென்றுள்ள நபர் ஒருவரை அங்கும்புர எகொடமுல்ல பிரதேசத்தில் வைத்து திங்கட்கிழமை (20) பொலிஸார் கைது செய்துள்ளனர்.
+A man was arrested in Angumbura Egodamulla for selling liquor bottles on a motorbike during Vesak week. Officials seized 75 leak spray bottles from him, which were transported from Ritigama. Another man was also arrested at the suspect's home. The investigation continues under Chief Inspector Tilak Samaranayake.
 
-மேற்படி குறித்த நபரிடம் இருந்து, 75 கசிப்பு ஸ்பிரிட் போத்தல்களை கண்டி பிரதேச போதை  ஒழிப்பு பிரிவின் அதிகாரிகள் குழுவொன்று அவரை திங்கட்கிழமை (20) கைது செய்துள்ளது.
+🟩
 
-கண்டி பிரதேச போதை  ஒழிப்பு பிரிவினருக்குக் கிடைத்த தகவலின் பிரகாரம் அங்கும்புர எகொடமுல்ல பிரதேசத்தில் வீதித்தடை ஒன்று மேற்கொள்ளப்பட்டு இந்த கசிப்பு ஸ்பிரிட் போத்தல்கள்  கையடக்கப்பட்டுள்ளது.
+Police have arrested a man who was carrying liquor bottles on a motorbike on Monday (20) in Angumbura Egodamulla area for the purpose of selling liquor bottles on the Vesak week.
 
-இந்த கசிப்பு குருநாகல் ரிதிகம பிரதேசத்திலிருந்து கொண்டு செல்லப்பட்டதுடன், சந்தேக நபரிடம் விசாரணைகளை மேற்கொண்ட பொலிஸார், அவரது வீட்டில் மேலும் 25 கசிப்பு போத்தல்களை கண்டெடுத்துள்ளனர்.
+A group of officials of the Kandy Divisional Drug Eradication Unit have arrested 75 leak sprid bottles from the person on Monday (20).
 
-அங்கும்புர எகொடமுல்ல பிரதேசத்தில் உள்ள சந்தேக நபரின் வீட்டிலிருந்த மற்றுமொருவரையும் பொலிஸார் கைது செய்துள்ளனர்.
+According to the information received by the Kandy Divisional Drug Eradication Division, a street barrier was carried out in the Angumbura Ekodamulla area.
+
+The leak was taken from the Ritigama area of Kurunegala and the police investigated the suspect and found 25 more leaks of leaks in his house.
+
+Police have also arrested another man from the house of the suspect in the Ekodamulla area of Angumbura.
+
+Since the Angumbura area is located on the Matale district border, this year, the state Vesak festival is being held in the middle of the Matale city.
+
+Police said the suspect could produce the liquor for sale in Matale and its adjoining areas.
 
 ...
 
 [Data](articles/46879407.json)
 
+[Extended Data](ext_articles/46879407.ext.json)
+
 ---
 
-### சர்வதேச நாணய நிதியத்துடன் செய்து கொள்ளப்பட்ட உடன்படிக்கைகள் மீளாய்வு செய்யப்படும் -  கலாநிதி ஹரிணி அமரசூரிய
+### Agreements made with the International Monetary Fund will be reviewed - Dr. Harini Amarasuriya
 
 *2024-05-22 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184182) · `ta`
 
-சர்வதேச நாணய நிதியத்துடன் செய்து கொள்ளப்பட்ட உடன்படிக்கைகள் மீளாய்வு செய்யப்பட்டு எதிர்காலத்தில் தேசிய மக்கள் சக்தி  பெறுகின்ற ஆணைக்கு ஏற்ப புதிய முன்மொழிவுகள் முன்வைக்கப்படும் எனப் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹரிணி அமரசூரிய கண்டியில் தெரிவித்துள்ளார்.
+Dr. Harini Amarasuriya announced plans to review agreements with the IMF and introduce new proposals to ensure compliance with IMF policies without hindering economic growth. She emphasized the importance of addressing the country's debt management and supporting local production to boost national economic development.
 
-கண்டியில் சனிக்கிழமை (18) இடம்பெற்ற மக்கள் சந்திப்பின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே திருமதி அமரசூரிய மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-பொருளாதாரத்திற்குப் பூட்டு போடாமல் கடன் சீர்திருத்த வேலைத்திட்டத்தைத் தொடர்வது சம்பந்தமாகச் சர்வதேச நாணய நிதியத்துடன் இணக்கம் காண கலந்துரையாடப்பட்டுள்ளது.
+Parliamentarian Harini Amarasuriya said in Kandy that new proposals would be made in accordance with the International Monetary Fund and the International Monetary Fund would be reviewed and the new proposals would be made in the future.
 
-மக்கள் மீது காலவரையின்றி சுமத்தப்பட்டுள்ள சுமை மற்றும் கடன் நிர்வாகத்தில் எதிர்பார்க்கப்படும் உதவிகள் குறித்து சர்வதேச நாணய நிதியத்துடன் பேச வேண்டும் என்றும் அவர் கூறினார்.
+Mrs. Amarasuriya said this while speaking to the media after a public meeting held in Kandy on Saturday (18).
 
-...
+The International Monetary Fund has been discussed to comply with the International Monetary Fund on the continuing a credit reform program without locking the economy.
+
+He also said that he should talk to the International Monetary Fund on the indefinite burden and the help of the debt administration.
+
+Moreover, a number of measures should be taken to prevent the national economic development of the country and the development of local production, and that the National People's Power will not support the country's economy in order to prevent the economy of the country.The Member of Parliament stressed.
+
+◼️
 
 [Data](articles/bf0f12c7.json)
 
+[Extended Data](ext_articles/bf0f12c7.ext.json)
+
 ---
 
-### மின்சார நெருக்கடிக்கு நிவாரணமாக இந்தியப் பிரதமர் நரேந்திர மோடி சோலார் பேனல்களை வழங்கியுள்ள போதிலும் அவற்றை இன்னும் நிறுவ முடியவில்லை - பிரதமர் தினேஷ் குணவர்தன
+### Indian Prime Minister Narendra Modi has issued solar panels as a relief for the power crisis but has not yet been established - Prime Minister Dinesh Gunawardena
 
 *2024-05-22 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184181) · `ta`
 
-இலங்கையின் விகாரைகளில் ஏற்பட்டுள்ள மின்சார நெருக்கடிக்கு நிவாரணமாக இந்தியப் பிரதமர் நரேந்திர மோடி சோலார் பேனல்களை வழங்கியுள்ள போதிலும், அவற்றை இன்னும் நிறுவ முடியவில்லை எனவும், ஒரு நாடு என்ற வகையில் எமது தோல்வியை ஏற்றுக்கொள்ள வேண்டும் எனவும் பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+Narendra Modi offered solar panels to help Sri Lanka's power crisis, but PM Dinesh Gunawardena acknowledged the country's struggles, blaming governmental and bureaucratic inefficiencies. Despite the economic downturn affecting school solar panel installations and international trade, he highlighted the importance of understanding Buddhism for future generations.
 
-அரசாங்கம் மற்றும் அதிகாரத்துவ நடைமுறைகளில் நிலவும் பலவீனங்களினால் இந்த நிலைமை ஏற்பட்டுள்ளதாகவும், இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதே நாம் எதிர்கொள்ளும் சவாலாகும் எனவும் அவர் கூறினார்.
+🟩
 
-பூஜாபிட்டிய, திவானவத்த ஸ்ரீ போதிருக்கராம விகாரையில் எட்டு மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்ட 34 அடி உயர மைத்ரேய போதிசத்துவர் சிலை திறப்பு விழாவில் கலந்து கொண்ட பிரதமர் திங்கட்கிழமை (20) இதனைத் தெரிவித்தார்.
+Prime Minister Dinesh Gunawardena has said that although Indian Prime Minister Narendra Modi has issued solar panels as a relief to the power crisis in Sri Lanka, but we have to accept our defeat as a country.
 
-கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் திரு.குணதிலக ராஜபக்ஷ மற்றும் அக்குடும்பத்தைச் சேர்ந்தவர்களின் நிதி நன்கொடையில் இதன் நிர்மாணப்பணிகள் மேற்கொள்ளப்பட்டுள்ளன.
+He said that this situation is caused by the weaknesses in the government and the bureaucratic procedures and the challenge we face is to address these issues.
+
+Prime Minister said this on Monday (20) at the inauguration of the 34 -foot -tall Maitreya Bodhisavar statue of Pooja.
+
+The construction work has been carried out under the donation of the funds of Kandy District Parliamentarian Mr. Gunathilaka Rajapaksa and the family of the family.
+
+The Prime Minister said that even 10% of schools in Sri Lanka did not fit solar penals and that the decline in international transactions due to the economic crisis would end.
+
+The Prime Minister also noted that thirteen hundred thousand acres of land belonging to the idols in the hill country have been lost due to imperialist encroachments.
 
 ...
 
 [Data](articles/ce335230.json)
 
+[Extended Data](ext_articles/ce335230.ext.json)
+
 ---
 
-### கொள்கைப் பிரச்சினைகள் தொடர்பில் விவாதம் நடத்தினால் ஜனாதிபதித் தேர்தலில் போட்டியிடும் அனைத்து வேட்பாளர்களுக்கும் சந்தர்ப்பம் வழங்கப்பட வேண்டும் -  நாமல் ராஜபக்ஷ
+### If there is a debate on policy issues, all the candidates contesting the presidential election should be given the opportunity - Namal Rajapaksa
 
 *2024-05-22 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184180) · `ta`
 
-இந்த நாட்டின் எதிர்காலம் தொடர்பான கொள்கைப் பிரச்சினைகள் தொடர்பில் விவாதம் நடத்தினால் ஜனாதிபதித் தேர்தலில் போட்டியிடும் அனைத்து வேட்பாளர்களுக்கும் சந்தர்ப்பம் வழங்கப்பட வேண்டும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Namal Rajapaksa advocates for debates among all presidential candidates on policy issues, highlighting Sajith and Anura as top contenders. He emphasizes the importance of unity, cultural preservation, and economic development, pledging support for Ranil Wickremesinghe until the next election.
 
-சிறந்த அரட்டையாளரைத் தேர்ந்தெடுப்பதற்கான விவாதம் நடத்தப்படுகிறது எனவும் அதற்கான இரண்டு சிறந்த வேட்பாளர்களும்  சஜித் மற்றும் அனுர எனவும் அவர் மேலும் குறிப்பிட்டார்.
+🟩
 
-பூஜாபிட்டிய திவானவத்த ஸ்ரீ போத்திருக்கராம விகாரையில் திங்கட்கிழமை (20) இடம்பெற்ற வைபவம் ஒன்றில் பங்கேற்ற பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka PA, said that all the candidates contesting the presidential election should be given the opportunity to debate the policy issues related to this country.
 
-எதிர்வருகின்ற எந்தவொரு தேர்தலுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுன தயாராக இருப்பதாகவும், கிராமம் கிராமமாக 10 பேர் கொண்ட பலத்தை அணிதிரட்டி கட்சியைப் பலப்படுத்தும் வேலைத்திட்டத்தை ஆரம்பித்துள்ளதாகவும் அவர் தெரிவித்தார்.
+He added that there is a debate to select the best chat and that the two best candidates are Sajith and Anura.
+
+Namal Rajapaksa said this while speaking to the media after participating in a ceremony held at the Divanawatta Sri Paththakarama Viharaya on Monday (20).
+
+He said that the Sri Lanka PA is ready for any next election and has begun a program to strengthen the party by mobilizing the strength of 10 people in the village.
+
+He emphasized that a program to maintain the unity and culture is to implement a program that leads the country to economic development and it is important to move forward regardless of the short political advantages.
 
 ...
 
 [Data](articles/728d87b6.json)
 
+[Extended Data](ext_articles/728d87b6.ext.json)
+
 ---
 
-### பயிரிடப்படாத நிலங்களில் பயிர்ச்செய்கையை மேற்கொள்ள அவசியமான சட்ட விதிகள் அறிமுகப்படுத்தப்படும் - அனுப பஸ்குவல்
+### Introduced legal rules to perform cultivation in unprecedented lands
 
 *2024-05-22 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184179) · `ta`
 
-சமூக வலுவூட்டலுக்கு நிலம் ஒரு முக்கிய காரணியாக இருப்பதால், பயிரிடப்படாத நிலங்களை பயிர்ச்செய்கைக்கு பயன்படுத்துவதற்கு அவசியமான புதிய சட்டங்கள் அறிமுகப்படுத்தப்பட்டு வருவதாக சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+New laws aim to cultivate unused lands for social empowerment, alongside changes to the GCE Ordinary Level exam to focus on skills over traditional subjects like math, religion, and language. The government plans to offer pensions to all, including the self-employed, and promote entrepreneurship and vocational education. A "Liazian Program" targets preschool teacher development, aiming to support 3 lakh families this year.
 
-மேலும், சமூக வலுவூட்டலுக்காக கல்விப் பொதுத்தராதர சாதாரணதரப் பரீட்சைக்கு திறன்விருத்தி மற்றும் தொழிற்கல்வியை உள்ளடக்குவதற்கு அரசாங்கம் தீர்மானித்துள்ளதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (21) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் இதனைத் தெரிவித்தார்.
+Minister of Social Empowerment Anubhaskwal said that as the land is a major factor for social reinforcement, new laws are being introduced to use unaccounted lands for cultivation.
 
-சமூக வலுவூட்டலுக்காக கல்வி முறையில் மாற்றம் வரவேண்டும். அதன்படி, கல்விப் பொதுத்தராதர சாதாரணதரப் பரீட்சையில் கணிதம், மதம், மொழி போன்ற பாடங்களில் சித்திபெறாமை, பரீட்சையில் சித்திபெறாததாகக் கருதக் கூடாது. எனவே, க.பொ.த சாதாரணதரப் பரீட்சையின் பாடத்திட்டத்தில் திறன்விருத்தி மற்றும் தொழிற்கல்வி பாடத்தை உள்ளடக்குவதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+The Minister also said that the government has decided to include the GCE Ordinary Level Examination and Vocational Education for Social Reinforcement.
+
+Minister of Social Empowerment Anupa Paskal made this statement at a media briefing held at the Presidential Media Center on Tuesday (21).
+
+Change for social reinforcement. Accordingly, the subject of mathematics, religion and language in the GCE Ordinary Level examination should not be considered in the examination.. Therefore, the government has decided to include skills and vocational lessons in the curriculum of the GCE Ordinary Level Examination.
+
+Accordingly, the Ministry of Education has decided to implement this resolution from next year. Accordingly, educational reforms will be made to create a complete expertise in the future.
 
 ...
 
 [Data](articles/9c464a94.json)
 
+[Extended Data](ext_articles/9c464a94.ext.json)
+
 ---
 
-### எமது ஜனாதிபதி வேட்பாளரை இரு வாரங்களில் அறிவிப்போம் - பியல் நிஷாந்த டி சில்வா
+### We will announce our presidential candidate in two weeks - Piyal Nishantha de Silva
 
 *2024-05-22 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184178) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக களமிறக்க தீர்மானித்தால் அதற்கு முழுமையான ஆதரவு வழங்குவோம்.எமது வேட்பாளரை இன்னும் இரு வாரங்களில் அறிவிப்போம் என கடற்றொழில் வளங்கள் இராஜாங்க அமைச்சர் பியல் நிஷாந்த டி சில்வா தெரிவித்தார்.
+Minister Piyal Nishantha de Silva announced plans to reveal their presidential candidate in two weeks, hinting at supporting President Ranil Wickremesinghe as a common candidate due to his handling of the 2022 crisis, contrasting with opposition leaders' lack of action during the same period.
 
-கடற்றொழில் வளங்கள் அமைச்சின் காரியாலயத்தில் செவ்வாய்க்கிழமை (21) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தல் தொடர்பில் விசேட கவனம் செலுத்தியுள்ளோம். ஸ்ரீ லங்கா பொதுஜன பெரமுன தலைமையிலான பரந்துப்பட்ட அரசியல் கூட்டணி அமைப்பதற்கு சகல தரப்பினருடனும் பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம். கூட்டணி தொடர்பில் வெகுவிரைவில் உறுதியான தீர்மானம் எடுக்கப்படும்.
+Fisheries Resources Minister Piel Nishantha de Silva said that if President Ranil Wickremesinghe decides to field President Ranil Wickremesinghe as a common candidate.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக களமிறக்க கட்சி மட்டத்தில் தீர்மானம் எடுத்தால் அதற்கு முழுமையாக ஆதரவு வழங்குவோம்.யாரை வேட்பாளராக அறிவிப்பது என்பது தொடர்பில் விரிவான பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன.
+He was speaking at a media briefing held at the Ministry of Fisheries Resources on Tuesday (21).
+
+We have paid special attention to the presidential election. We are in talks with all parties to form a wider political coalition led by Sri Lanka. A firm decision will be taken soon in relation to the coalition.
+
+If the decision of President Ranil Wickremesinghe as a general candidate at the party level, we will fully support it.
+
+We will announce our presidential candidate in two more weeks. President Ranil Wickremesinghe will be fully welcomed by the party's announcement as the general candidate, because President Ranil Wickremesinghe took responsibility for the government in a crisis.
 
 ...
 
 [Data](articles/2f631d32.json)
+
+[Extended Data](ext_articles/2f631d32.ext.json)
 
 ---
 

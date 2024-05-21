@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 08:52:50**
+As of **2024-05-21 09:04:26**
 
 ## Newspaper Stats
 
-*Scraped **25,354** Articles*
+*Scraped **25,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,172
 adaderanalk | 2,926
-tamilmirrorlk | 2,960
+tamilmirrorlk | 2,961
 virakesarilk | 3,830
 dailymirrorlk | 3,980
 adaderanasinhalalk | 4,051
@@ -26,61 +26,81 @@ adaderanasinhalalk | 4,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,348 (100.0%) of 25,354 articles have been extended.
+25,354 (100.0%) of 25,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### බස්නාහිර පළාතේ සෞඛ්‍ය වර්ජනය අද
+### Health strike in the Western Province today
 
 *2024-05-21 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196847) · `si`
 
-පළාත් මට්ටමින් ක්‍රියාත්මක වෘත්තීය සමිති ක්‍රියාමාර්ගයේ බස්නාහිර පළාත් වැඩ වර්ජනය අද (21) දිනයේ ක්‍රියාත්මක කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+A health strike in the Western Province today, led by the Trade Union, will last four hours from 8 AM to 12 PM.
 
-එම සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා සඳහන් කළේ, අද පෙරවරු 08 සිට දහවල් 12 දක්වා පැය 04ක කාලයක් මෙම වැඩවර්ජනය ක්‍රියාත්මක වන බවය.
+🟩
+
+The Western Province Western Province of the Trade Union action operating at the provincial level will be implemented today (21).
+
+The convener of the UPFA Ravi Kudmith said the strike is being implemented for four hours from 08th to 12 noon.
 
 ◼️
 
 [Data](articles/f50628ee.json)
 
+[Extended Data](ext_articles/f50628ee.ext.json)
+
 ---
 
-### ජනපති රනිල් සහ ඉන්දුනීසියානු ජනපති අතර හමුවක්
+### Ranil and Indonesian President meets President
 
 *2024-05-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196846) · `si`
 
-ඉන්දුනිසියාවේ බාලි අගනුවර පැවත්වෙන 10 වැනි ලෝක ජල සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දුනිසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ මහතා අතර නිල හමුවක් පවත්වා තිබේ.
+Ranil Wickremesinghe and Indonesian President Joko Widodo met during the 10th World Water Summit in Bali, pledging to enhance economic ties and address global challenges together. They highlighted the significance of their nations' historical relationship and the potential for mutual growth. The leaders discussed removing import barriers and strengthening trade agreements, emphasizing the importance of cooperation in the Indian Ocean region.
 
-ඊයේ (20) පස්වරුවේ දෙරටේ රාජ්‍ය නායකයින් අතර මෙම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට මෙහිදී නායකයන් ප්‍රතිඥා දුන් අතර, දෙරට අතර ආර්ථික සහයෝගීතාව වර්ධනය කර ගැනීමට ද විශේෂ අවධානයක් යොමුව තිබේ.
+President Ranil Wickremesinghe and Indonekian President Joo V Vishodo have held a official meeting with the 10th World Water Summit held in Bali Palace in Indonesia.
 
-එමෙන්ම කලාපීය සහ ජාත්‍යන්තර කටයුතු පිළිබඳවද නායකයන්ගේ අවධානය යොමු වූ අතර ගෝලීය අභියෝගවලට මුහුණදීමේදී දෙරට අතර සහයෝගීතාවයේ වැදගත්කම ද අවධාරණය කර ඇති බව සඳහන්ය.
+The meeting was held between heads of state in the two countries yesterday (20th).
 
-1956 දී පැවති බැන්ඩුන්ග් සමුළුවට සහභාගිවීම දක්වා පැවැත්වෙන ශ්‍රී ලංකාව සහ ඉන්දුනීසියාව අතර ඓතිහාසික සබඳතාව සිහිපත් කරමින් සිය අදහස් දැක්වීම ආරම්භ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෝලීය සහයෝගීතාව වර්ධනය කිරීමේදී එවැනි සමුළුවල පවතින වැදගත්කම ද පැහැදිලි කර තිබේ.
+The leaders pledged to further strengthen their historical vital relations between Sri Lanka and Indonesia, and the two countries also focus on the development of economic cooperation.
+
+The leaders of the region and international affairs were also focused on the importance of cooperation between the two countries in the face of global challenges.
+
+President Ranil Wickremesinghe has explained the importance of such conferences when he commenced itstorical cooperation between Sri Lanka and Indonesia in 1956.
+
+The President also thanked the leadership of Indonesian President Vidodydo in the regional and international affairs, the Presidential Media Unit said.
 
 ...
 
 [Data](articles/5b501a03.json)
 
+[Extended Data](ext_articles/5b501a03.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට සුළු ගංවතුර තත්ත්වයක්
+### Minor floods to several areas
 
 *2024-05-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196845) · `si`
 
-පවතින වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් කළු ගඟේ කුඩා ගඟ උප ද්‍රෝණිය පිටාර මට්ටමට පැමිණ ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Kalu River overflow due to rain causes minor flooding in Bulathsinhala, Madurawala, and Palindawala. Water levels rise in Attanagalu Oya basin affecting Divulapitiya, Mirigama, etc., for 48 hours. Eight districts impacted by heavy rains.
 
-මේ හේතුවෙන් ඉදිරි පැය 48 දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල සහ පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ප්‍රදේශවලට සුළු ගංවතුර අවදානමක් පවතින බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+🟩
 
-ඊට අමතරව අත්තනගලු ඔය ද්‍රෝණියේ ජල මට්ටම ද ඉදිරි පැය 48 දක්වා වූ කාලයේ ඉහළ යාමත් සමග දිවුලපිටිය, මීරිගම, අත්තනගල්ල, මහර, ගම්පහ, මිනුවන්ගොඩ, ජාඇල, කටාන සහ වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාශවල පහත්බිම් ගංවතුර අවදානමට ලක්ව තිබේ.
+Due to the prevailing rainy weather, the Department of Irrigation says that the small river of the Kalu River has reached the overflow.
 
-මේ අතර පවතින වැසි සහිත කාලගුණික තත්ත්වයත් සමග දිස්ත්‍රික්ක 08කට බලපෑම් එල්ල වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+According to the Department, there is a minor floods in the lowland areas of Bulathsinhala, Madurawala and Palindawala Divisional Secretariats for the next 48 hours.
+
+In addition, the water level of Attanagalu Oya basin is rising in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Gampaha, Minuwangoda, Kirigoda, Katana and Wattala Divisional Secretariats.
+
+Deputy Director of the Disaster Management Center Pradeep Kodippili said that eight districts have been affected with the rainy weather conditions.
 
 ◼️
 
 [Data](articles/24b6526b.json)
+
+[Extended Data](ext_articles/24b6526b.ext.json)
 
 ---
 
@@ -814,25 +834,31 @@ To build an entrepreneurial culture, it is necessary to fundamentally alter tra
 
 ---
 
-### පාවෙන සූර්ය බලාගාර : 'ඇඹිලිපිටිය පාලනය කරන්නේ සුනිත්‍ය බලශක්ති අධිකාරියයි, කොරියන් සමාගමකුයි ද?'
+### Flooding Solar Power Plants: 'The Embilipitiya is ruled by the Sustainable Energy Authority, Korean Company?'
 
 *2024-05-21 02:05:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqvvelpl3n1o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ධීවරයන්ට, ගොවීන්ට සහ ජල පාරිභෝගිකයන්ට සිදුවිය හැකි බලපෑම ගැන ජනතාව මානව හිමිකම් කොමිසමට ද පැමිණිලි කළහ.
+Embilipitiya's solar power plants, managed by a Korean company under the Sustainable Energy Authority, face complaints from locals about environmental impacts on fishing, farming, and water supply. The Minister of Power mentioned rising construction costs for floating solar stations in Kiriibban Wewa and Wanagala. Despite cabinet approval for financial and technical aid from Korea, the project lacks legal compliance with the National Environmental Act and Land and Agriculture Reforms.
 
-පාවෙන සූර්ය බලාගාර : 'ඇඹිලිපිටිය පාලනය කරන්නේ සුනිත්‍ය බලශක්ති අධිකාරියයි, කොරියන් සමාගමකුයි ද?'
+🟩
 
-ඇඹිලිපිටිය, චන්ද්‍රිකා වැවේ සහ සෙවනගල, කිරිඉබ්බන් වැවේ පාවෙන සූර්ය බලාගාර ඉදිකිරීමේ නියමු ව්‍යාපෘතිය මේ වසරේ ජූලි නිම කිරීමට අපේක්ෂා කරන බව විදුලිබල අමාත්‍යවරයා සිය ෆේස්බුක් ගිණුම ඔස්සේ පවසා තිබේ.
+There is nothing to contain any of these.The people also complained to the Human Rights Commission about the impact that the passide headquarters, fishermen and water consumers.
 
-කොරියානු රජයේ මුල්‍යාධාර සහ තාක්ෂණික සහය මත ක්‍රියාත්මක මේ නියමු ව්‍යාපෘතිය සඳහා කැබිනට් අනුමැතිය හිමිව ඇත.
+Flooding Solar Power Plants: 'The Embilipitiya is ruled by the Sustainable Energy Authority, Korean Company?'
 
-නමුත් ජාතික පාරිසරික පනත අනුව මූලික අවසරයන් ගෙන නොමැති බවත්, බදු ගිවිසුම නීති විරෝධී බවත් ඉඩම් හා කෘෂිකර්ම ප්‍රතිසංස්කරණ ව්‍යාපාරයේ සජීව චාමිකර BBC සිංහල සේවයට පැවසුවේය.
+The Minister of Powerbook has told his Facebook that the prices of the construction of solar power stations floating float in Kiriibban Wewa and Wanagala, Sevanagala and Sevanagala.
 
-මෙමගින් ධීවරයන්ට, ගොවීන්ට සහ ජල පාරිභෝගිකයන්ට සිදුවිය හැකි බලපෑම ගැන ජනතාව මානව හිමිකම් කොමිසමට ද පැමිණිලි කළහ.
+The Cabinet approval has been approved for the financial assistance and technical assistance in Korea.
+
+However, the Lease Agreement has not been carried out by the National Environmental Act and the Lease Agreement is illegal and live in the Land and Agriculture Reforms.
+
+The people also complained to the Human Rights Commission about the impact of fishermen, farmers and water consumers.
 
 ◼️
 
 [Data](articles/fcf1edfe.json)
+
+[Extended Data](ext_articles/fcf1edfe.ext.json)
 
 ---
 
@@ -1079,6 +1105,24 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 [Data](articles/fabbfd92.json)
 
 [Extended Data](ext_articles/fabbfd92.ext.json)
+
+---
+
+### இலங்கை - இந்தோனேசியா உறவுகளை பலப்படுத்த உறுதி
+
+*2024-05-21 01:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தோனேசியா-உறவுகளை-பலப்படுத்த-உறுதி/175-337614) · `ta`
+
+இந்தோனேசிய தலைநகர் பாலியில் நடைபெற்று வரும் பத்தாவது உலக நீர் மாநாட்டுக்கு இணையாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோவிற்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு நேற்று இடம்பெற்றது.
+
+இந்தோனேசிய ஜனாதிபதி இதன்போது ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சிநேகபூர்வமாக வரவேற்றார். இரு நாட்டுத் தலைவர்களுக்கும் இடையிலான சிநேகபூர்வ உரையாடலின் பின்னர், இருதரப்பு கலந்துரையாடல்களும் ஆரம்பிக்கப்பட்டன.
+
+இலங்கைக்கும் இந்தோனேசியாவுக்கும் இடையிலான வரலாற்று உறவுகளை மேலும் பலப்படுத்த இரு நாட்டு தலைவர்களும் உறுதி எடுத்துக்கொண்டதோடு, பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது தொடர்பிலும் விசேட கவனம் செலுத்தப்பட்டது.
+
+இரு நாட்டுத் தலைவர்களும் பிராந்திய மற்றும் சர்வதேச விவகாரங்கள் குறித்துக் கவனம் செலுத்தியதோடு, உலகளாவிய சவால்களை எதிர்கொள்வதில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தினர். (a)
+
+◼️
+
+[Data](articles/055f403a.json)
 
 ---
 
@@ -1676,19 +1720,29 @@ The countries like Iranian Syria and Lebanon have also declared national mournin
 
 ---
 
-### ඩයනා නිවසින් අතුරුදන් බව රහස් පොලීසිය අධිකරණයට කියයි
+### Diana goes missing in court
 
 *2024-05-20 20:55:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නිවසින්-අතුරුදන්-බව-රහස්-පොලීසිය-අධිකරණයට-කියයි/11-409754) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය ඇගේ නිවසින් අතුරුදන් ව ඇති බව රහස් පොලීසිය කළ දැනුම් දීමක් සලකා බැලූ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඇය අධිකරණයට ඉදිරිපත් කිරීමට අවශ්‍ය කටයුතු කරන ලෙස රහස් පොලීසියට ඊයේ (20දා) නියම කළේය.
+Diana Gamage, a former minister, went missing after being named a suspect in a case involving the Department of Immigration and Emigration. The Colombo Chief Magistrate ordered the CID to investigate her disappearance. This came after the Supreme Court dismissed a fundamental rights petition by activist Oshala Herath.
 
-ව්‍යාජ තොරතුරු ආගමන විගමන පාලකවරයා වෙත ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිද්ධියට අදාළ නඩුවේ සැකකාරියක් ලෙස හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය නම් කරමින් එසේ නියම කළ මහේස්ත්‍රාත්වරයා සිද්ධියට අදාළව කරන විමර්ශනෙවල ප්‍රගතිය වාර්තා කිරීමටද රහස් පොලීසියට නියම කළේය.
+🟩
 
-සමාජ ක්‍රියාකාරිකයකු වන ඕෂල හේරත් මහතා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කළ ශ්‍රේෂ්ඨාධිකරණය ඩයනා ගමගේ මහත්මිය දැරූ පාර්ලිමේන්තු ධුරය අහෝසි කළ අතර, පසුව රහස් පොලීසිය කළ ඉල්ලීමකට අනුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඇයට රටින් පිටවීම තහනම් කරමින් නියෝගයක් නිකුත් කළේය.
+Considering the Dead Minister Diana Gamage, Colombo Chief Magistrate Thilina Gamage ordered the CID to submit her to submitting her to court.
 
-...
+He was named as a suspect in the case of former State Government Minister Diana Gamage as a suspect in the case of the Department of Immigration and Emigration and the Magistrate.
+
+The Supreme Court was abolished by the Supreme Court, who had a fundamental rights petition filed by the Club activist Oshala Herath.
+
+The Criminal Inspector Departments, the Criminal Inspector Departments, said that the Criminal Inspector Departments had disappeared from her resident of her resident of her resident of her resident.
+
+As a suspect, the Magistrate, who was appointed to name the Criminal Investigations Department, a suspect had to be named as a suspect in the event of the investigation into the incident.
+
+◼️
 
 [Data](articles/7a256cd2.json)
+
+[Extended Data](ext_articles/7a256cd2.ext.json)
 
 ---
 
@@ -2008,21 +2062,27 @@ The celebration featured the esteemed presence of Ven Dr. Ilukpitiye Pannasekara
 
 ---
 
-### ඖෂධ ජාවාරම සම්බන්ධයෙන් ජාත්‍යන්තර පරීක්ෂණයක් ඉල්ලයි
+### International investigation into drug trafficking
 
 *2024-05-20 19:48:28* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ජාවාරම-සම්බන්ධයෙන්-ජාත්‍යන්තර-පරීක්ෂණයක්-ඉල්ලයි/11-409748) · `si`
 
-මෙරට සිදුවූ ප්‍රමිතියෙන් තොර  ඖෂධ ජාවාරම සම්බන්ධයෙන්  ජාත්‍යන්තර පරීක්ෂණයක් සිදු කරන ලෙසට ඊයේ(20) ලෝක සෞඛ්‍ය සංවිධානයෙන් ඉල්ලා  සිටි බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තිය සමිතිය සදහන් කරයි
+The World Health Organization (WHO) initiated an international probe into drug quality issues after receiving complaints from the Professional Union of Doctors and Civil Rights. The inquiry followed audits conducted in 2022 and 2023 revealing regulatory violations. Dr. Chamal Sanjeewa highlighted the importance of this action in ensuring the safety and efficacy of medications globally.
 
-2022 හා 2023 වසර වලිදි ෙප්‍රමිතියෙන් තොර  ඹෟෂධ ගෙන්විම හා ලෝක සෞඛ්‍ය සංවිධානයේ රෙගුලාසි උල්ලංඝනය කරමින් ඹෟෂධ ගෙන්වීමට කටයුතු කර තිබෙන බවත් මේ පිලිබද පසුගිය දා එලි දැක්වු විගණන වාර්තාවකින් පවා හෙලි කර තිබෙන බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් කළේය
+🟩
 
-මේ අනුව අදාල විගණන වාර්තවේ පිටපත් ද ඇතුලත්ව මෙම පැමිණිල්ල ලෝක සෞඛ්‍ය සංවිධානයේ ශ්‍රි ලංකා කාර්යාලයට භාර දිමට කටයුතු කල බවද පවසා සිටියේය
+The professional union of doctors and civil rights says that the World Health Organization has asked the World Health Organization to conduct an international inquiry into the quality of drugs free of the country.
 
-අදාල විගණන වාර්තාව මගින් මෙම ක්‍රියාවන්ට වගකිව යුතු පිරිස්වල නම් පවා හෙලි කර තිබෙන බවත් මේ නිසා වැරදි කරුවන්ට නිතිය ක්‍රියාත්මක කල යුතුව තිබෙන බවද සදහන් කලේය.
+Dr. Chamal Sanjeewa stated that the Pharmace of Association has been revealed that there have been a result of the low-up of the year and the regulations of the World Health Organization in 2022 and 2023.
+
+Accordingly, the complaint was handed over to the World Health Organization in the World Health Organization, including copies of the audit.
+
+The audit report also revealed that the wrongdoers had been revealed.
 
 ◼️
 
 [Data](articles/f8b925fc.json)
+
+[Extended Data](ext_articles/f8b925fc.ext.json)
 
 ---
 
@@ -2145,31 +2205,5 @@ The second group is the team, which was launched by the Grays of the Ministry of
 [Data](articles/2735dfba.json)
 
 [Extended Data](ext_articles/2735dfba.ext.json)
-
----
-
-### Review the need to take emergency measures to reduce the risk of dengue spreading with rain
-
-*2024-05-20 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184081) · `ta`
-
-Sagala Ratnayake, a senior adviser to Sri Lanka's National Security and President, urged immediate action to curb dengue spread in Colombo, especially with the rainy season. He recommended a special awareness program for schools and parents from May 26 to June 1 during Dengue Eradication Week. Measures were also suggested for state institutions, religious sites, and new constructions. The Ministry of Health pledged support, and discussions included tree management strategies, favoring tree planting over cutting.
-
-🟩
-
-Sagala Ratnayake, a senior adviser to the National Security and President of the President, directed the relevant authorities to take immediate steps to reduce the risk of dengue spreading in Colombo with rain.
-
-From May 26 to June 1, he advised to carry out a special awareness program to clarify school children and parents through the Ministry of Education during the Dengue Eradication Week.
-
-In addition, Sagala Ratnayake advised the authorities to take steps to reduce the risk of dengue spreading in state institutions, religious places and newly constructed buildings.
-
-Sagala Ratnayake presented these instructions at a meeting on the current status of the dengue spread program held at the Presidential Office on Monday (20).
-
-Defense Minister of State for Defense Bandara, Senior Advisor to the National Security Minister and President of the President, President Sagala Ratnayake and Defense Chief Savendra Silva, presided over the implementation of the previous meeting and the current progress.
-
-...
-
-[Data](articles/7d6e748e.json)
-
-[Extended Data](ext_articles/7d6e748e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 18:24:54**
+As of **2024-05-21 18:35:45**
 
 ## Newspaper Stats
 
-*Scraped **25,480** Articles*
+*Scraped **25,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,136 @@ bbccomsinhala | 257
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
-economynextcom | 1,457
+economynextcom | 1,468
 dailyftlk | 1,503
-adalk | 2,185
-adaderanalk | 2,941
+adalk | 2,187
+adaderanalk | 2,942
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
 dailymirrorlk | 4,003
-adaderanasinhalalk | 4,076
+adaderanasinhalalk | 4,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,477 (100.0%) of 25,480 articles have been extended.
+25,480 (99.9%) of 25,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Passenger killed, 30 injured as Singapore Airlines flight hits severe turbulence
+
+*2024-05-21 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99363/passenger-killed-30-injured-as-singapore-airlines-flight-hits-severe-turbulence) · `en`
+
+(Reuters) - One passenger was killed and 30 injured after a Singapore Airlines flight from London hit severe turbulence en route on Tuesday, forcing it to make an emergency landing in Bangkok, officials and the airline said.
+
+“Singapore Airlines offers its deepest condolences to the family of the deceased. We deeply apologise for the traumatic experience that our passengers and crew members suffered on this flight,” the airline said, adding it was working with Thai authorities to provide all necessary assistance.
+
+One male passenger died, Kittipong Kittikachorn, Director of Bangkok’s Suvarnabhumi airport, told Reuters. Eighteen people have been hospitalised and 12 are being treated in hospitals, Singapore Airlines said.
+
+...
+
+[Data](articles/559d2a47.json)
+
+---
+
+### විදේශ ඇමති අලි සබ්රි අද ඉරානය බලා පිටත්ව යයි
+
+*2024-05-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196875) · `si`
+
+හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වූ ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ අවසන් කටයුතු ආරම්භ කර තිබේ.
+
+ඒ අනුව ඉරාන ජනාධිපතිවරයාගේ අවමංගල්‍යය උත්සවයට සහභාගී වීම සඳහා විදේශ අමාත්‍ය අලි සබ්රි මහතා අද (21) රාත්‍රියේ දිවයිනෙන් පිටත්ව යාමට නියමිතය.
+
+ඉරාන ජනාධිපතිවරයාගේ අභාවය වෙනුවෙන් මෙරට දේශපාලනඥයින් ඇතුළු පිරිස් මෙරට ඉරාන තානාපති කාර්යාලයේදී සිය ශෝකය පළකර තිබුණි.
+
+◼️
+
+[Data](articles/82f95e9c.json)
+
+---
+
+### Sri Lanka goods exports down 4.1-pct in April, services up 19-pct
+
+*2024-05-21 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-down-4-1-pct-in-april-services-up-19-pct-164005/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports fell 4.1 percent from a year ago to 813.81 million dollars in April 2024, the island’s Export Development Board said.
+
+Goods exports in the four months to April 2024 was 3,982.71 million down 3.55 percent from the corresponding period last year.
+
+Service exports were up 19.28 percent in April at 300.41 million dollars.
+
+Total goods and services exports rose 1.25 percent to 1,114.22 million.
+
+In traditional hard goods exports in April, tea was up 2.22 percent to 95.46 million dollars, rubber-based products were up 20.18 percent to 66.58 million dollars, and coconut-based products were up 17.73 percent to 60.76 million dollars.
+
+Other exports were also up; ornamental fish exports were up 30.66 percent to 2.77 million dollars, and processed food and beverages were up 7.55 percent to 32.35 million dollars.
+
+...
+
+[Data](articles/f8c0a56b.json)
+
+---
+
+### Sri Lanka chamber calls on political parties to support SOE reforms
+
+*2024-05-21 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-calls-on-political-parties-to-support-soe-reforms-164062/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce has all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
+
+“The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis,” it said in a statement.
+
+“It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.”
+
+Sri Lanka is facing a presidential election before November this year and a general election later. Provincial Council elections are overdue.
+
+With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
+
+...
+
+[Data](articles/0680d387.json)
+
+---
+
+### Sri Lanka rupee closes slightly stronger at 299.80/95 to US dollar
+
+*2024-05-21 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-slightly-stronger-at-299-80-95-to-us-dollar-164039/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.80/95 to the US dollar on Tuesday, from 299.60/75 the previous week, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 9.90/10.05 percent from 10.15/35 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.25/40 percent from 10.45/55 percent.
+
+A bond maturing on 01.07.2028 closed down at 10.60/75 percent from 10.80/90 percent.
+
+A bond maturing on 15.01.2030 closed down at 11.50/70 percent from 11.70/80 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.85/12.00 percent from 11.90/12.05 percent. (Colombo/May21/2024)
+
+◼️
+
+[Data](articles/793556db.json)
+
+---
+
+### VFS Global hires GB Srithar as head of Tourism Services
+
+*2024-05-21 17:51:00* · [`economynextcom`](https://economynext.com/vfs-global-hires-gb-srithar-as-head-of-tourism-services-164048/) · `en`
+
+ECONOMYNEXT – VFS Global, a service provider for visa services for governments, said it had hired G B Srithar as its Head of Tourism Services.
+
+“His expertise positions him to lead our efforts with our client governments to promote travel, trade, and tourism from key source markets,” Founder and CEO, VFS Global Zubin Karkaria said.
+
+Srithar was previously at the Singapore Tourism Board (STB). He served as the Area Director for South India and Sri Lanka and led the International Marketing and Brand Campaigns teams at STB’s headquarters. As Regional Director he was responsible for the STB’s regional marketing, tourism development, and trade partnership work across India, the Middle East, South Asia, and Africa.
+
+...
+
+[Data](articles/6f13917a.json)
+
+---
 
 ### Here is the amount of money received by wishes
 
@@ -114,6 +226,8 @@ Colombo, May 21 (Daily Mirror) - Chongqing Airlines will resume operations betwe
 
 [Data](articles/3833afc1.json)
 
+[Extended Data](ext_articles/3833afc1.ext.json)
+
 ---
 
 ### An accident of coal mine in China
@@ -155,6 +269,24 @@ Sri Lankan young fast bowler Madhasha Pathirana has been purchased for US $ 120,
 [Data](articles/82566332.json)
 
 [Extended Data](ext_articles/82566332.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields down, 3-months 8.76-pct
+
+*2024-05-21 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-3-months-8-76-pct-164036/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Tuesday’s action with the 3-month falling below 9.0 percent, data from the state debt office showed.
+
+The 3-month yield fell 28 basis points to 8.76 percent, with all 25 billion rupees of offered securities sold.
+
+The 6-month yield fell 26 basis points to 9.17 percent with all offered 65 billion rupees of bills sold.
+
+The 12-month bill fell 28 basis points to 9.29 percent, with all 70 billion rupees of bills sold. (Colombo/June21/2024)
+
+◼️
+
+[Data](articles/cccced14.json)
 
 ---
 
@@ -219,6 +351,52 @@ In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was
 [Data](articles/84d1a500.json)
 
 [Extended Data](ext_articles/84d1a500.ext.json)
+
+---
+
+### ඒ දරුවන්ගේ ඇදුම් පොත්පත් විනාසයි
+
+*2024-05-21 16:46:00* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-දරුවන්ගේ-ඇදුම්-පොත්පත්-විනාසයි/11-409770) · `si`
+
+ඊයේ රාත්‍රියේ මහනුවර ප්‍රදේශයට පැවති අයහපත් කාලගුණ තත්වය හේතුවෙන් පිළිමතලාව ගංගොට ප්‍රදේශයේ නිවසක් මතට තල් ගසක් කඩා වැටීමෙන් නිවසට බර පතල හානි සිදුවි ඇත.
+
+ඊයේ (20) රාත්‍රියේ දැඩි සුලං සමගින් ඇද හැලුනු ධාරාණිපාත වර්ෂාව පැවති වේලාවේදි නිවස අසල තිබුනු පැරණි තල් ගසක් නිවස මතට කඩා වැටි ඇති අතර ඉන් නිවසේ කාමර දෙකක් සහ කුස්සියට දැඩි ලෙස හානි සිදුවි ඇති බව ප්‍රෙද්ශවාසින් පැවසිය.
+
+සිද්ධියෙන් කිසිවෙකුට අනතුරක් සිදුවි නොමැති බවත් ගස වැටෙන් සබ්දයට සියලු දෙනා නිවසින් පිටතට දුව ආ නිසා සිදුවිමට ගිය දැඩි අනතුරක් වැලකි ගොස් ඇති බව ප්‍රෙද්ශවාසිහු පැවසිය.
+
+සිද්දිය වන අවස්ථාවේදි නිවසේ දැරියන් දෙදෙනෙකු හා එක් පුතා සමග අත්තම්මා පමනක් නිවසේ සිට ඇති අතර ආර්ථික අපහසු තා නිසා මව විදේශ රටක සේවය කරනු ලබන බවත් ස්වාමියා නොමැතිව ජිවත්විමේ අපහසුව නිසා දරුවන්ගේ මව විදෙස් රැකියාවකට ගොස් ඇති බව ප්‍රෙද්සවාසින් පැවසිය.
+
+නිවසට සිදුවු දැඩි අලාබය නිසා පාසැල් යන වි ගොස් නැවත පරිහරණයට ගැනිමට නොහැකි බවද ප්‍රදේශවාසිහු පැවුසුහ.
+
+◼️
+
+[Data](articles/435d4896.json)
+
+---
+
+### Sri Lanka stocks close down, John Keells sees interest
+
+*2024-05-21 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-sees-interest-164025/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.15 percent, or 18.17 points, at 12,216; while the S&P SL20 Index closed down 0.15 percent, or 5.53 points, at 3,608.
+
+Turnover was 1.3 billion. Capital goods brought in most of this.
+
+John Keells Holdings Plc saw the most active volumes traded (Rs271mn), the share closed up at 207.00. The conglomerate announced a cash dividend, and an upcoming annual general meeting on May 27.
+
+Lanka IOC Plc was also heavily traded, and the share closed down at 130.00
+
+Market participants believed the short week, and an upcoming monetary policy review, dampened investor sentiment.
+
+“We think there could be renewed buying interest after the review next week.”
+
+A delay in external debt restructuring discussions was also impacting overall market sentiment, particularly in banking stocks, despite interest rates coming down, they said.
+
+...
+
+[Data](articles/ea2c096f.json)
 
 ---
 
@@ -612,6 +790,24 @@ Jayesinghe is a career diplomat who joined the Sri Lanka Foreign Service in 1998
 
 ---
 
+### බන්ධනාගාර නිලධාරීන්ගේ වෘත්තීය ක්‍රියාමාර්ග අවසන්
+
+*2024-05-21 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ගේ-වෘත්තීය-ක්‍රියාමාර්ග-අවසන්/11-409767) · `si`
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මැතිතුමා පිළිබදව විශ්වාසය තබා බන්ධනාගාර නිලධාරීන් විසින් ගෙන ගිය වෘත්තිය ක්‍රියාමාර්ගය අවසන් කිරීමට පියවර ගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පවසයි.
+
+රුපියල් විසි දහසක වැටුප් වැඩිවීමක් ලබා දෙන ලෙස ඉල්ලමින් බන්ධනාගාර නිලධාරීන් ඊයේ පෙරවරුවේ සිට වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කළ අතර, ඒ පිළිබදව අද ( 21) දහවල් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා ඇතුළු උසස් බන්ධනාගාර නිලධාරීන් සහ වෘත්තීය ක්‍රියාමාර්ගයන්හි නිරත නිලධාරීන් අතර විශේෂ සාකච්ඡාවක් පැවැත්විණි.
+
+අධිකරණ කටයුතු අඩාල වීමට ඉඩ නොතබන ලෙසත්, බන්ධනාගාර කටයුතු සදහා බාධා වන ආකාරයට කටයුතු නොකරන ලෙසත් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා එහිදී ඔවුන්ට දැනුම් දී තිබේ.
+
+බන්ධනාගාර නිලධාරීන්ගේ ඉල්ලීම සාධාරණ බැවින් එය ඉටුකිරීම සඳහා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කොට ඔවුන්ට සාධාරණයක් ඉටුකිරීමට තමන් කටයුතු කරන බව අධිකරණ අමාත්‍යවරයා පසුගිය විසිවනදා සඳහන් කලේය.
+
+...
+
+[Data](articles/57223773.json)
+
+---
+
 ### Progress of Prison Officers completed
 
 *2024-05-21 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196867) · `si`
@@ -858,6 +1054,22 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 ---
 
+### Sri Lanka’s progressive NPP claims credit for mobilising support for war
+
+*2024-05-21 14:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-progressive-npp-claims-credit-for-mobilising-support-for-war-163979/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s National People’s Alliance (NPP) which promotes progressive left politics has taken credit for mobilising ideological and political support for the last phase of the government forces’ war with the separatist Tamil Tigers.
+
+K D Lal Kantha, a senior leader of the Marxist-Leninist Janatha Vimukthi Peramuan (JVP),which controls the NPP,  said that only the JVP and the nationalist Jathika Hela Urumaya (JHU) had successfully argued for a military response to the Liberation Tigers of Tamil Elam (LTTE) in the late 2000s.
+
+Lal Kantha was addressing a group of military veterans at an event in Ratnapura. The NPP has been canvassing the ex-military community in the run-up to Sri Lanka’s upcoming presidential elections.
+
+...
+
+[Data](articles/8a8d6f39.json)
+
+---
+
 ### The school is running tomorrow
 
 *2024-05-21 14:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-பாடசாலை-இயங்கும்/175-337640) · `ta`
@@ -1024,6 +1236,8 @@ Black flags were displayed at the Iranian Cultural Centre in Colombo mourning th
 
 [Data](articles/ccf00816.json)
 
+[Extended Data](ext_articles/ccf00816.ext.json)
+
 ---
 
 ### Bad weather uproots trees in Colombo
@@ -1049,6 +1263,8 @@ Samagi Jana Balawegaya (SJB) Mulkirigala Organizer Nimal Francisco who joined Un
 ◼️
 
 [Data](articles/5ac20795.json)
+
+[Extended Data](ext_articles/5ac20795.ext.json)
 
 ---
 
@@ -1471,6 +1687,24 @@ Further inquiries into the incident are being carried out by the Vavuniya Distri
 [Data](articles/a192a03a.json)
 
 [Extended Data](ext_articles/a192a03a.ext.json)
+
+---
+
+### Sri Lanka’s Bank of Ceylon to divest subsidiary BOC Travels
+
+*2024-05-21 12:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-to-divest-subsidiary-boc-travels-163944/) · `en`
+
+ECONOMYNEXT – State-owned Bank of Ceylon (BoC) has decided to divest 100 percent of its shareholding in its subsidiary B O C Travels (Private) Limited (BoCT), BoC said.
+
+This was done on a direction issued by the Central Bank of Sri Lanka, as the key business activities of BoCT did not fall within the purview of Section 17(1) (a)-(g) of Banking Act No 30 of 1988, the company said in a stock exchange filing.
+
+The principal activities of the Bank as stated in its 2023 Annual Report, during the year were, personal banking, corporate banking, development banking, off-shore banking, trade financing, lease financing, primary dealing, investment banking and wealth management, treasury operations, correspondent banking and money remittances, Islamic banking, bancassurance, pawning, credit card facilities, foreign currency operations and other financial services.
+
+The principal activities BoC Travels was given as ‘Engages in travel related services’.
+
+...
+
+[Data](articles/c63ba4fa.json)
 
 ---
 
@@ -1920,6 +2154,26 @@ Kesalgamu Oya floods due to heavy rains in Bogawantalawa area. All water streams
 
 ---
 
+### Sri Lanka Army discharges over 15,000 absentees from services after amnesty
+
+*2024-05-21 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-army-discharges-over-15000-absentees-from-services-after-amnesty-163907/) · `en`
+
+ECONOMYNEXT – Sri Lanka has discharged 15,667 Sri Lanka army absentees from their services including those who are overseas after one month general amnesty period through Monday (20), the island nation’s Army said.
+
+“At the end of one month amnesty period, 15,294 regular and volunteer Army personnel who were absent without leave have been discharged from their Regimental Center,” Major General Rasika Kumara, the Director General of Army Media said in a statement.
+
+“Additionally, arrangements have been made for 373 personel who are currently overseas and absent without leave to legally discharge from the Army during this amnesty period.”
+
+It was not immediately clear if the absentees received their discharge from the service after settling any financial obligations or amounts due, as stated earlier.
+
+State Defence Minister Pramitha Bandara Tennakoon last week said that there have been around 26,000 absentees from the armed forces before the amnesty was announced.
+
+...
+
+[Data](articles/45c88c8e.json)
+
+---
+
 ### Diana appeared in court
 
 *2024-05-21 11:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஆஜரானார்-டயானா/175-337627) · `ta`
@@ -2005,321 +2259,5 @@ The ICC Men's Cricket World Cup begins on June 01, 2024, and will be held in the
 [Data](articles/2c6537d6.json)
 
 [Extended Data](ext_articles/2c6537d6.ext.json)
-
----
-
-### Decision on import of vehicle
-
-*2024-05-21 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196853) · `si`
-
-State Minister Ranjith Siyambalapitiya announced the readiness to resume vehicle imports, citing the country's $5.5 billion reserves. He mentioned discomfort over unresolved issues leading to a halt in 2000, but now aims to allow necessary imports without completely stopping them, emphasizing the importance of aligning with national needs.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the vehicles are ready to import vehicles in the future as well.
-
-The State Minister told the media that the government is not prepared to keep the vehicles.
-
-State Minister Ranjith Siyambalapitiya added that the country's reserves have 5.5 billion US dollars.
-
-"In relation to the importation of vehicles.. Resolve the issue of the country, we have become uncomfortable. So we had to stop imports in two thousand. Nearly 2000 HScads. So we just opened all the other. Now there are only vehicles. Let it be allowed to bring on the need. We have used a program to tourism. With approval of vehicles as needed. What is the message?We don't have to shut this. But we need to take the country back in front of the country. Now we keep a pool of $ 5.5 billion dollars. We are ready to do that, as the needs of the country to suit us. "
-
-◼️
-
-[Data](articles/82ebe063.json)
-
-[Extended Data](ext_articles/82ebe063.ext.json)
-
----
-
-### Two gunmen kills a person to take a man and shot a person
-
-*2024-05-21 11:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තුවක්කුකරුවන්-දෙදෙනෙකු-නිවසට-පැන-පුද්ගලයෙකුට-වෙඩි-තබා-ඝාතනය-කරයි/11-409758) · `si`
-
-In Kalutara South, two gunmen killed a person, took another hostage, and shot him. The victim, Taskami Mawadha Silva (38), was identified. Investigations suggest the motive involved underworld and drug activities. Multiple law enforcement units are involved in the case.
-
-🟩
-
-Kalutara South Police have admitted to the Nagoda Teaching Hospital at the Nagoda Teaching Hospital at the Kalutara South Katukurunda railway station.
-
-The deceased has been identified as Taskami Mawadha Silva (38), police said.
-
-Investigations have revealed that the deceased has been taken with the three children with three children on the house of the railway station at the railway station.
-
-The police banding has investigated further investigations into investigations into the shooting of a T-56 rifle.
-
-The victim is also a crime and a crime, and it is suspected to carry out this murder due to a reputation of an underworld and drug activity.
-
-Kalutara Central Criminal Laboratory Officers, Kalutara Crimes Division, Division Criminal Investigation Unit, Special Police Teams and Special Task Force including Payrali Adacities in Kalutara are investigating.
-
-◼️
-
-[Data](articles/9bdb4131.json)
-
-[Extended Data](ext_articles/9bdb4131.ext.json)
-
----
-
-### Sri Lanka women borrowers trapped by ill-understood loan agreements: UNDP
-
-*2024-05-21 11:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-women-borrowers-trapped-by-ill-understood-loan-agreements-undp-163889/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s household debt has risen during an economic crisis, and less literate female borrowers in particular were hit by loan agreements they had signed without the ability to understand their legal implications UNDP Resident Representative Azusa Kubota said.
-
-A recent multidimensional vulnerability report by the United Nations Development Program in collaboration with the Oxford University found that the lack of financial literacy among borrowers, particularly women-headed households, contribute to their vulnerability.
-
-“Women, often, were forced into signing agreements in a language they did not understand. They did not know their rights or responsibilities, nor the terms of borrowing,” Kubota said, speaking at the launch of the Financial Literacy Roadmap of Sri Lanka.
-
-In the absence of basic financial literacy they were often forced into poor financial decisions, she said.
-
-...
-
-[Data](articles/04c0dace.json)
-
-[Extended Data](ext_articles/04c0dace.ext.json)
-
----
-
-### "Ryichi's death is an irreparable loss"
-
-*2024-05-21 11:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரைசியின்-மறைவு-ஈடுசெய்ய-முடியாத-இழப்பாகும்/175-337623) · `ta`
-
-"Iran mourns the loss of President Ibrahim Raisi, a tireless advocate for global cooperation and sustainable development. His efforts to foster friendly relations and initiate projects like the hydropower plans in Sri Lanka and Azerbaijan highlight his dedication to regional prosperity. The National People's Power extends its deepest sympathies to the families affected and the nation as a whole, emphasizing the irreplaceable impact of Raisi's legacy."
-
-🟩
-
-The National People's Power (NPP) has expressed its condolences to the tragedy of Iranian President Ibrahim Raisi, Foreign Minister Hossein Amir-Abdullah and other Iranian officials in the helicopter crash.
-
-"Our thoughts and prayers are with the families and friends of the dead at this difficult time, and the whole country of Iran," the NPP said in a statement.
-
-The demise of President Ibrahim Raisi is an irreparable loss not only to the people of Iran and the Middle East but also for the world community, the NPP has added.
-
-President Raisi has worked tirelessly to strengthen friendly and non -dominant relationships with many countries, including Sri Lanka.
-
-His recent visit to Sri Lanka to launch a hydropower plan with the financial support of the Iranian people is a testament to his unwavering commitment to international cooperation and sustainable development.
-
-...
-
-[Data](articles/4b615d26.json)
-
-[Extended Data](ext_articles/4b615d26.ext.json)
-
----
-
-### Get rid of us from here - give pressure on the Rabba border to bring the drug - the Australian doctor in the Gaza Medicine
-
-*2024-05-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184117) · `ta`
-
-An Australian doctor in Gaza requests evacuation due to safety concerns, urging the Australian government to send medical supplies through the controlled Israeli-Rafah border. The doctor, along with 16 others, was trapped in Gaza after Israel took control of the border, hindering their exit. They've been providing medical aid at the European Hospital in Khan Unis since May 1st, despite facing personal pressures and challenges.
-
-🟩
-
-The Australian doctor, who is in the only hospital operating in Gaza, has requested the Australian government to evict himself and its team from there and send pharmacies to the hospital.
-
-After bringing the Israeli Rafa border under its control, 16 doctors and medical staff, including Sydney, doctors, Mothar Alberuti, a Sydney, have been deployed at the European Hospital in Khan Unis.
-
-The Guardian has told Australia that it is our message that the Israeli attack is like the killing of an Australian humanitarian employee before us.
-
-He also appealed to Gaza to put pressure on the border to open the humanitarian products.
-
-Alberuti went to Gaza with the Palestinian American medical team on May 1st.
-
-We were planning to leave on the 13th, but on the seventh day, the Israeli soldiers captured Rabba and they were not able to get out of it.
-
-We have completed our work a week ago;The Australian doctor said that our family is worried and we are facing pressure from them.
-
-...
-
-[Data](articles/32dac093.json)
-
-[Extended Data](ext_articles/32dac093.ext.json)
-
----
-
-### “We will not allow India to be harmed”
-
-*2024-05-21 11:01:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிற்கு-தீங்கு-விளைவிக்க-அனுமதிக்க-மாட்டோம்/175-337621) · `ta`
-
-Sri Lanka's Foreign Minister Ali Sabri reaffirmed his nation's pledge to safeguard India's security, expressing concern over Chinese research vessels near the island. He emphasized Sri Lanka's desire to engage with all nations while prioritizing India's security concerns.
-
-🟩
-
-Sri Lanka's Foreign Minister Ali Sabri has confirmed his country's commitment to protecting the national security interests of India and said that Sri Lanka, a responsible neighbor, will not allow anyone to harm India's security.
-
-The Minister also expressed his concerns about Chinese research ships to go to the island, saying that they would like to work with other countries, but that it was not risking other countries.
-
-"We have clearly stated that we want to work with all the countries, but the reasonable concerns about Indian security will be taken into consideration. We will not allow anyone to be harmful. Subsequently, we would like to work with all the countries, of course, ”he said in an interview with Minister ANI.
-
-“I learned that China recently become India's largest business partner. So, we want to work with it as you work together, but it should not come with the intervention of a different third party, and as a responsible neighbor and a civilized partner, we reiterate. ”
-
-...
-
-[Data](articles/d3786444.json)
-
-[Extended Data](ext_articles/d3786444.ext.json)
-
----
-
-### Before the roof collapses and killed 25 children
-
-*2024-05-21 11:00:50* · [`adalk`](https://www.ada.lk/breaking_news/වහලය-කඩා-වැටී-දරුවන්-25-දෙනෙකුගේ-ජීවිත-අනතුරකට-ලක්-වීමට-පෙර/11-409757) · `si`
-
-In Pabudagama, a pre-school built 50 years ago by the Mahaweli Authority faces imminent danger due to its deteriorated condition. The school, which educates 25 children lacking basic amenities like water and electricity, is at risk of collapsing. Parents fear for their children's safety and demand immediate action from authorities to secure the structure before disaster strikes.
-
-🟩
-
-Pabudagama parents say that their children are at risk of their children, as the roof of their children is at risk.
-
-The pre-school building has been constructed for nearly 50 years ago by the Mahaweli Authority.
-
-The pre-school administrator will provide basic education for 25 children in the area without water and electricity facilities.
-
-They point out that the pre-school building was decayed and the walls of walls, the walls of the pre-school building and the walls of the walls, and the wall building was a risk of collapse.
-
-Parents say that parents have to keep their children home without paying their children home, as their children are being held in the pre-school building.
-
-At the same time, the risk of the roof, the roof falls in the preschool, and immediately resolve the roof and promptly dismantled the protection and future of their children.They are asking for the authorities. (Ij)
-
-◼️
-
-[Data](articles/54af27e5.json)
-
-[Extended Data](ext_articles/54af27e5.ext.json)
-
----
-
-### CB has enough dollars to prevent rising dollar value
-
-*2024-05-21 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-has-enough-dollars-to-prevent-rising-dollar-value/108-283046) · `en`
-
-Colombo, May 21 (Daily Mirror) - The value of the US dollar and the Sri Lanka Rupee is determined by the supply and demand. If the value of the dollar rises significantly, the Central Bank of Sri Lanka (CBSL) has sufficient dollars to control it, Finance State Minister Ranjith Siambalapitiya said.
-
-The Minister made this statement to the media after a programme held in Dehiowita yesterday.
-
-The value of the US dollar is rising rapidly due to several foreign banks operating in the country buying US dollars from the financial market and the Central Bank of Sri Lanka from the banking system.
-
-Due to the continuous release of dollars to the financial market in the previous years  to keep the value of the US dollar at the limit of Rs. 200, our dollar reserves were exhausted. Also, after allowing the dollar and the rupee to float, the value of a dollar suddenly increased to Rs. 380.
-
-...
-
-[Data](articles/e3f96756.json)
-
-[Extended Data](ext_articles/e3f96756.ext.json)
-
----
-
-### Over 15,000 army deserters legally discharged in amnesty period
-
-*2024-05-21 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99353/over-15000-army-deserters-legally-discharged-in-amnesty-period) · `en`
-
-A total of 15,667 personnel of the Sri Lanka Army who had been absent without leave (AWOL), including 373 currently overseas, have been legally discharged from service under the general amnesty, the Sri Lanka Army announced.
-
-The general amnesty period announced for the Sri Lanka Army absentees concluded yesterday (20).
-
-The army had declared an amnesty period from April 20 to May 20, 2024, for personnel who have been absent without leave since December 31, 2023 and earlier.
-
-Accordingly, at the end of the end of the one-month amnesty period, 15,294 regular and volunteer army personnel who were absent without leave have been temporarily discharged from their Regimental Centers.
-
-Additionally, arrangements have been made for 373 personnel who are currently overseas and absent without leave to legally discharge from the army during this amnesty period, the SLA media unit said.
-
-◼️
-
-[Data](articles/8e26a34f.json)
-
-[Extended Data](ext_articles/8e26a34f.ext.json)
-
----
-
-### The death of a military vehicleIn the army soldier interpretation
-
-*2024-05-21 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184114) · `ta`
-
-A military vehicle crash in Jaffna resulted in the death of a civilian and injuries to two high-ranking military officers. The driver, a soldier, was arrested and remanded pending further investigation.
-
-🟩
-
-A military driver has been detained in connection with the death of a military vehicle in Jaffna.
-
-The woman was killed in a collision with a woman who was waiting for a motorcycle to cross the street on Monday (20).
-
-Sudhakaran Saruja (23 years old) from Vadaravatam was the 23rd birthday.
-
-Achchuveli police, who were investigating the incident, arrested a driver's army soldier and carried out investigations.
-
-When the Mallakam Magistrate's Court appeared after the investigation, the soldier was ordered to be remanded until the 29th.
-
-Meanwhile, high -ranking military officers were traveling in the vehicle and two of them were injured and admitted to the Palali hospital for treatment.
-
-◼️
-
-[Data](articles/c5ec9400.json)
-
-[Extended Data](ext_articles/c5ec9400.ext.json)
-
----
-
-### Flood warnings issued for low-lying areas of several river basins
-
-*2024-05-21 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99352/flood-warnings-issued-for-low-lying-areas-of-several-river-basins-) · `en`
-
-The Irrigation Department has issued ‘Amber’ flood warnings for low-lying areas of the Attanagalu Oya river basin and the Kuda Ganga sub basin of Kalu River, effective until 9.00 p.m. tomorrow (22).
-
-It states that a considerable rainfall has occurred in upstream catchment areas of Kuda Ganga sub basin of Kalu River as of 9.00 p.m. last night.
-
-By analyzing the current rainfall situation and river water levels of Hydrological Stations in Kalu Ganga, it is warned that there is a possibility of a Minor flood situation occurring in low-lying areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara district secretariat (DS) divisions.
-
-As a result, there is high possibility of inundating off roads running through flood plains of Kuda Ganga and Magura Ganga, the department warned.
-
-Meanwhile a considerable rainfall has occurred in most of the catchment areas of the Attanagalu Oya river basin as well.
-
-...
-
-[Data](articles/119e053b.json)
-
-[Extended Data](ext_articles/119e053b.ext.json)
-
----
-
-### The cynical husband who murdered his wife is all over
-
-*2024-05-21 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196852) · `si`
-
-A man suspected of murdering his wife and their two daughters was arrested by Lakugala Police after assaulting them.
-
-🟩
-
-Lakugala Police have arrested his friend yesterday (20) to suspect her husband and her husband had assailed the murder of two daughter mother of two Diyambakore, a mother of two daughter mother.
-
-◼️
-
-[Data](articles/614266ef.json)
-
-[Extended Data](ext_articles/614266ef.ext.json)
-
----
-
-### Israel welcomes Hamastis
-
-*2024-05-21 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184108) · `ta`
-
-Israel welcomes Hamas; France backs ICC probe into PM Netanyahu, citing evidence submission. France emphasizes support for ICC's efforts against impunity, criticizes denial of aid in Gaza. This stance contrasts sharply with Western allies' positions.
-
-🟩
-
-France has welcomed the ICC's prosecutor's request to issue a war against Israeli Prime Minister Benjamin Netanyaku.
-
-French Foreign Ministry said that the previous court could take his decision on Israel after the ICC's lawyer examined the evidence of submitting his request.
-
-The Foreign Ministry has said that France supports the International Criminal Court's fight against its independence and the exemption from punishment.
-
-The French Gaza Valley, which has emphasized the need to tighten international humanitarian laws over the past several months, has said that it is unacceptable to the public and denied humanitarian assistance.
-
-Significantly, there is a huge difference between the position of the other countries of the West and the position of France in the request of the International Criminal Court.
-
-◼️
-
-[Data](articles/7ebd4388.json)
-
-[Extended Data](ext_articles/7ebd4388.ext.json)
 
 ---

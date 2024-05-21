@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 15:33:55**
+As of **2024-05-21 15:52:32**
 
 ## Newspaper Stats
 
-*Scraped **25,444** Articles*
+*Scraped **25,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,161 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,181
-adaderanalk | 2,937
+adaderanalk | 2,938
 tamilmirrorlk | 2,973
-virakesarilk | 3,849
+virakesarilk | 3,850
 dailymirrorlk | 3,994
-adaderanasinhalalk | 4,069
+adaderanasinhalalk | 4,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,440 (100.0%) of 25,444 articles have been extended.
+25,444 (100.0%) of 25,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### டயனாக்கெதிராக குற்றவியல் வழக்கு ஏற்பாடு
+### ඉරානයේ දැන් මොකද වෙන්නේ ?
+
+*2024-05-21 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196868) · `si`
+
+හෙලිකොප්ටර් අනතුරකින් ජීවිතක්ෂයට පත්වූ ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ සහ තවත් 7 දෙනෙකුගේ අවසන් කටයුතු ආරම්භකර තිබේ.
+
+එහි පළමු අවමංගල උත්සවය ඉරානයේ වයඹ ප්‍රදේශයේ පිහිටි ටැබ්‍රිස් නගරයේ සිදුකෙරෙයි.
+
+පසුගිය ඉරිදා (19) ඉරාන ජනපති ඇතුළු පිරිස ගමන්කරමින් සිටි හෙලිකොප්ටර ය අනතුරට පත්වූයේ එම ප්‍රදේශයේ කඳුකර කලාපයක දීය.
+
+අයහපත් කාලගුණය සහ දැඩි මීදුම හේතුවෙන් එම යානය අනතුරට ලක්වන්නට ඇතැයි සැලකෙයි.
+
+හිටපු ජනපතිවරයා ට අවසන් ගෞරව දැක්වීම සඳහා විශාල පිරිසක් ටැබ්‍රිස් නගරයේ වීථි වෙත රැස්වී සිටිති.
+
+මේ අතර මෙම මරණය සම්බන්ධයෙන් සමාජ මධ්‍යයේ විවිධ සටහන් දක්නට ලැබෙයි.
+
+එක කොටසක් මෙම මරණ සම්බන්ධයෙන් සොව පළකරන අතර තවත් කොටසක් හිටපු ජනපතිවරයාගේ මරණය සම්බන්ධයෙන් සතුට පළකරන බවද එම සටහන් අනුව පෙනී යන බව ජාත්‍යන්තර මාධ්‍ය පැවසීය.
+
+මේ අතර හිටපු ජනපතිවරයාගේ ප්‍රතිරූපයට හානිවන අයුරින් සමාජ මාධ්‍ය ඔස්සේ විවධ දා පළකරන පුද්ගලයින්ව අත්අඩංගුවට ගන්නා ලෙස එරට ආරක්ෂක අංශ වෙත බලධාරීන් නියෝගකර තිබේ.
+
+මේ අතර හිටපු ජනපති ඊබ්‍රාහිම් රයිසි සිරිර ඔහුගේ උපන් ප්‍රදේශය වන මාෂ්හාඩ් හිදී එළැඹෙන බ්‍රහස්පතින්දා සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/740b4164.json)
+
+---
+
+### බන්ධනාගාර නිලධාරීන්ගේ වෘත්තීය ක්‍රියාමාර්ග අවසන්
+
+*2024-05-21 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196867) · `si`
+
+බන්ධනාගාර නිලධාරීන් විසින් ගෙන ගිය වෘත්තීය ක්‍රියාමාර්ගය අවසන් කිරීමට පියවර ගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පවසයි.
+
+රුපියල් 25,000ක වැටුප් වැඩිවීමක් ලබාදෙන ලෙස ඉල්ලමින් බන්ධනාගාර නිලධාරීන් ඊයේ (20) පෙරවරුවේ සිට වෘත්තිය ක්‍රියාමාර්ගයක නිරත වුණි.
+
+ඒ අනුව අද ( 21) දහවල් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා ඇතුළු උසස් බන්ධනාගාර නිලධාරීන් සහ වෘත්තීය ක්‍රියාමාර්ගයන්හි නිරත නිලධාරීන් අතර විශේෂ සාකච්ඡාවක් පැවැත්වුණි.
+
+අධිකරණ කටයුතු අඩාල වීමට ඉඩ නොතබන ලෙසත්, බන්ධනාගාර කටයුතු සඳහා බාධා වන ආකාරයට කටයුතු නොකරන ලෙසත් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා එහිදී ඔවුන්ට දැනුම්දී තිබේ.
+
+බන්ධනාගාර නිලධාරීන්ගේ ඉල්ලීම සාධාරණ බැවින් එය ඉටුකිරීම සඳහා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කොට ඔවුන්ට සාධාරණයක් ඉටුකිරීමට තමන් කටයුතු කරන බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පසුගිය 20 වනදා සඳහන් කළේය.
+
+...
+
+[Data](articles/7e6b65bd.json)
+
+---
+
+### Arrangement
 
 *2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாக்கெதிராக-குற்றவியல்-வழக்கு-ஏற்பாடு/175-337643) · `ta`
 
-காணாமல் போயிருந்ததாகக் கூறப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே, நீதிமன்றில் செவ்வாய்க்கிழமை (21)  முன்னிலையாகியிருந்தார்.
+Diana Kamage, ex-State Minister, appeared in court on Tuesday after being named a suspect due to issues presented by the Criminal Investigation Department. The Colombo Chief Magistrate issued this order, advising the Attorney General to proceed with criminal cases against her.
 
-குறித்த குற்றச்சாட்டு தொடர்பில் டயனா கமகேவை சந்தேகநபராகப் பெயரிடுமாறு நீதிமன்றம் நேற்று(20) உத்தரவிட்டிருந்தது.
+🟩
 
-குற்றப்புலனாய்வு திணைக்களத்தினால் நீதிமன்றில் திங்கட்கிழமை (20) முன்வைக்கப்பட்ட விடயங்களை ஆராய்ந்த பின்னர் கொழும்பு பிரதம நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+Former State Minister Diana Kamage, who was reported missing, was present in court on Tuesday (21).
 
-இதனிடையே, முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தொடர்பில் குற்றவியல் வழக்கு ஏற்பாடுகளின் அடிப்படையில் நடவடிக்கை எடுக்குமாறு சட்டமா அதிபரால் குற்றப்புலனாய்வு திணைக்களத்திற்கு ஆலோசனை வழங்கப்பட்டுள்ளது.
+The court yesterday (20) ordered Diana Kamage to be named as the suspect.
+
+Colombo Chief Magistrate Thilina Kamage issued the order after examining issues presented by the Criminal Investigation Department in court on Monday (20).
+
+Meanwhile, the Attorney General has been advised by the Attorney General to take action on the basis of criminal cases regarding former Minister of State Diana Kamage.
 
 ◼️
 
 [Data](articles/1667b91f.json)
 
+[Extended Data](ext_articles/1667b91f.ext.json)
+
 ---
 
-### ”அடுத்த மாதம் ரணில் உத்தியோகபூர்வமாக அறிவிப்பார்”
+### Education Ministry denies reports of island-wide school closure
+
+*2024-05-21 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99359/education-ministry-denies-reports-of-island-wide-school-closure-) · `en`
+
+The Ministry of Education has refuted the reports circulating on social media claiming that all schools island-wide will be closed tomorrow (May 22).
+
+“The Ministry of Education informs that the announcement circulating on social media that all schools in the island will be closed tomorrow is false.”
+
+“Therefore, the Ministry of Education announces that all schools in the island will be open tomorrow (22),” it said, issuing a special notice today.
+
+It further informs that the authority to make decisions based on the existing situation lies with the Provincial Education Secretaries and Provincial Education Directors.
+
+◼️
+
+[Data](articles/3807d360.json)
+
+---
+
+### “Ranil will officially announce next month”
 
 *2024-05-21 15:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-ரணில்-உத்தியோகபூர்வமாக-அறிவிப்பார்/175-337642) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடுவது குறித்து தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க உத்தியோகபூர்வமாக அடுத்த மாதம் அறிவிப்பார் என அமைச்சர் மனுஷ நாணயக்கார இன்று தெரிவித்தார்.
+President Ranil Wickremesinghe will officially announce his candidacy for the upcoming presidential election next month, contradicting rumors he won't run. Minister Manusha Nanayakkara confirmed Wickremesinghe's decision, highlighting his past leadership during challenging times. The announcement comes amidst internal party dynamics within the United People's Power (SJB) and the United National Party (UNP), where some members are seeking to align more closely with the UNP.
 
-“இந்த ஆண்டு நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி விக்கிரமசிங்க போட்டியிட மாட்டார் என்று ஐக்கிய மக்கள் சக்தி (SJB) உட்பட பலரால் ஒரு கதை பரப்பப்படுகிறது.
+🟩
 
-எவ்வாறாயினும், விக்கிரமசிங்க, அத்தகைய விடயத்தை முன்வைக்கும் அனைவருக்கும் ஒரு அடியை வழங்குவார், ஏனெனில் அவர் மற்றொரு பதவிக்காலத்தை கோருவார். அடுத்த மாதம் அவர் தனது வேட்புமனுவை உத்தியோகபூர்வமாக அறிவிப்பார்” என அமைச்சர் நாணயக்கார ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+Minister Manusha Nanayakkara today said that the current President Ranil Wickremesinghe will officially announce the presidential election next month.
 
-“நாட்டின் நலனுக்காக கடினமான நேரத்தில் ஜனாதிபதி பதவியை ஏற்றுக்கொண்டதன் மூலம் விக்கிரமசிங்க தனது திறமையை நிரூபித்துள்ளார். பலர் அதைத் தவிர்த்தபோது அவர் அவ்வாறு செய்தார். இன்னும் பலர் பொறுப்பிலிருந்து ஓடிப்போய் தங்கள் அரசியல் எதிர்காலத்தை மட்டுமே நினைத்தனர்” என்று அவர் மேலும் கூறினார்.
+“A story is being circulated by many, including the United People's Power (SJB), saying that President Wickremesinghe will not contest this year's presidential election.
+
+However, Wickremesinghe will give a blow to all those who present such a matter because he will demand another post. He will officially announce his nomination next month, ”Minister Nanayakkara said at a media briefing.
+
+“Wickremesinghe has proven his ability to accept the presidency of the country for the benefit of the country. He did so when many avoided it. Many people fled the responsibility and only thought of their political future, ”he added.
+
+He also said that Wickremesinghe would not contest in a single party and would represent many forces in the presidential election.
 
 ...
 
 [Data](articles/e370fa8d.json)
 
+[Extended Data](ext_articles/e370fa8d.ext.json)
+
 ---
 
-### டயானாவுக்குப் பிணை
+### Bail to Diana
 
 *2024-05-21 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்குப்-பிணை/175-337641) · `ta`
 
-போலியான தகவல்களை வழங்கி கடவுச்சீட்டைப் பெற்றுக் கொண்டதாக எழுந்த முறைப்பாடு தொடர்பில் கொழும்பு பிரதான நீதவான் நீதிமன்றில் ஆஜராகியிருந்த முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவை பிணையில் விடுவிக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+Diana Kamage, former State Minister, was granted bail by the Colombo Chief Magistrate's Court due to allegations of receiving a fake passport. The court set her bail at Rs., pending further investigation by the Criminal Investigation Department (CID), who have named her a suspect. This case stems from a complaint made by a British citizen residing in Sri Lanka without dual citizenship status, leading to CID's investigation initiated by social activist Osala Herath.
 
-இந்நிலையில், 5 இலட்சம் ரூபா ரொக்க பிணை மற்றும் ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீர பிணைகளில் விடுதலை செய்ய கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-இந்த விடயம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் குற்றப் புலனாய்வுப் பிரிவினர் ஏற்கனவே டயானா கமகேயை சந்தேக நபராக பெயரிட்டுள்ளனர்.
+Former State Minister Diana Kamage has been ordered to be released on bail by the Colombo Chief Magistrate's Court on a complaint that he has received a passport for fake information.
 
-2021 ஆம் ஆண்டில், டயானா கமகே இரட்டைக் குடியுரிமை அந்தஸ்து இல்லாமல் இலங்கையில் வசிக்கும் பிரித்தானியப் பிரஜை என்ற முறைப்பாட்டின் பேரில் அவருக்கு எதிராக சிஐடி தலைமை நீதவான் நீதிமன்றத்தில் பி அறிக்கையை தாக்கல் செய்தது.
+In this case, the Colombo Magistrate's Court has ordered the release of two bail bail of Rs.
 
-சமூக ஆர்வலர் ஓஷல ஹேரத் செய்த முறைப்பாட்டையடுத்து இந்த சம்பவம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்தமை குறிப்பிடத்தக்கது.
+The Criminal Investigation Department, which is conducting investigations into the matter, has already named Diana Kamage as a suspect.
+
+In 2021, Diana Kamage filed a report at the CIT Chief Magistrate's Court on the complaint of British citizen living in Sri Lanka without a dual citizenship status.
+
+It is noteworthy that the Criminal Investigation Department has launched an investigation into the incident following a complaint lodged by social activist Osala Herath.
 
 ◼️
 
 [Data](articles/20214fbb.json)
+
+[Extended Data](ext_articles/20214fbb.ext.json)
 
 ---
 
@@ -206,6 +292,22 @@ According to our correspondent, we came to a campaign to come and protest.
 
 ---
 
+### இந்தியாவுடன் இலங்கை இணைந்து செயற்படுவதை இந்திய தேர்தல் முடிவுகள் பாதிக்காது - இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பு ஏற்படுத்த அனுமதிக்கமாட்டோம்- அலிசப்ரி
+
+*2024-05-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184135) · `ta`
+
+இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பு ஏற்படுத்துவதற்கு அனுமதிக்கமாட்டோம் என இலங்கை வெளிவிவகார அமைச்சர்   அலி சப்ரிதெரிவித்துள்ளார்.
+
+இந்தியாவின் தேசிய பாதுகாப்பு நலன்களை பாதுகாப்பதில் இலங்கைக்கு உள்ள அர்ப்பணிப்பை வெளிப்படுத்தியுள்ள அலிசப்ரி பொறுப்புள்ள அயல்நாடு என்ற அடிப்படையில் இந்தியாவின் பாதுகாப்பிற்கு எவரும பாதிப்பு ஏற்படுத்துவதற்கு அனுமதிக்கமாட்டோம் என தெரிவித்துள்ளார்.
+
+சீன கப்பல்களின் இலங்கை விஜயம் குறித்த இந்தியாவின் கரிசனை குறித்து கருத்து வெளியிட்டுள்ள அலிசப்ரி நாங்கள் அனைத்து நாடுகளுடனும் இணைந்து செயற்பட விரும்புகின்றோம் என்பதை வெளிப்படையாக தெரிவித்துள்ளோம் இந்தியாவின் பாதுகாப்பு குறித்த நியாயபூர்வமான எந்த கரிசனையும் கருத்தில் கொள்ளப்படும் நாங்கள் இந்தியாவின் பாதுகாப்பிற்கு எவரும் பாதிப்பை ஏற்படுத்த அனுமதிக்க மாட்டோம் என குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/262532a8.json)
+
+---
+
 ### Schools will function as usual tomorrow
 
 *2024-05-21 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-will-function-as-usual-tomorrow/108-283066) · `en`
@@ -304,21 +406,31 @@ Danushka Gunatilleke bought Danushka Gunatilleke at LPL at auction.
 
 ---
 
-### අයිස් ග්‍රෑම් 171ක් සමග දේවගැතිවරියක් අත්අඩංගුවට
+### An pastener arrested with 171 grams of ice
 
 *2024-05-21 13:59:32* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-ග්‍රෑම්-171ක්-සමග-දේවගැතිවරියක්-අත්අඩංගුවට/11-409761) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් බන්ධනාගාර ගතව සිට ඇප ලබා පැමිණි දේව ගැතිවරියක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් එකසිය හැත්තෑ එකක් , ජංගම දුරකථන තුනක් සමග  අත් අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය පවසයි.
+A woman from Kovil Chamari, aged 35, was arrested for drug trafficking, found with 173 mobile phones and 171 grams of ice. The arrest followed a raid led by officers from the Ounodaya Mawatha, resulting in the confiscation of three mobile phones linked to drug activities. The suspect, previously involved in drug dealing in the Borella area, had been bailed out before. Further investigations are being conducted under the supervision of ASP Janka Kumara and led by Inspectors Sumith Jayasinghe and Chinthaka Dassanayake.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කොලොන්නාවේ  පදිංචි "කෝවිල් චමරි" නමැති (35) හැවිරිදි කාන්තාවක බව පොලිසිය කියයි.
+🟩
 
-වැලිකඩ අරුණෝදය මාවත ප්‍රදේශයට කාන්තාවක් විසින් අයිස් මත්ද්‍රව්‍ය තොගයක්  රැගෙන එන බවට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ රාජකාරියේ නිරත  පොලිස් නිළධාරියකුට  ලද තොරතුරකට අනුව නිලධාරී කණ්ඩායමක් අරුණෝදය මාවත අසල ආවේශන රාජකාරියෙන් රැකබලා සිටියදී පැමිණි කාන්තාවක් නවතා පරීක්ෂා කිරීමේදී ඇයගේ ගමන් මල්ලේ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම්  171 හා මත්ද්‍රව්‍ය ජාවාරම සඳහා භාවිතා කරන ජංගම දුරකථන තුනක් පොලිස් භාරයට ගෙන තිබේ.
+The Western Province North Crimes Division says that a delegation from the drug trafficking has been arrested with one hundred and seventy-three mobile phones.
 
-පොලිස් භාරයට ගත් මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් ලක්ෂ තිහකට ආසන්න බව පොලිසිය කියයි.
+The arrest was a woman from Kovil Chamari, Kovil Chamari, a 35 year old resident of Kolonnawa.
+
+An officer in charge of a police officer on the instructions of the Ounodaya Mawatha, a group of officials in charge of the Ounodaya Mawatha, a group of officers who came to the Ounodaya Mawatha was taken to the Welikada Arasikada Mawatha in Welikada Road.And three mobile phones used for drug trafficking have been taken into police custody.
+
+Police say the stock of drugs taken into police custody is nearly Rs.
+
+The suspect was later inspected at Kolonnawa home and her mother's resident of Arunodaya Mawatha in Kolonnawa.
+
+The suspect was detected and maintained a large number of drug dealers and a large number of persons who were in the Borella area and maintaining a large number of drugs.
 
 ...
 
 [Data](articles/3eb0fa46.json)
+
+[Extended Data](ext_articles/3eb0fa46.ext.json)
 
 ---
 
@@ -2241,103 +2353,5 @@ Expresses his official condolences. When Iran selects a new Chancellor, we reite
 [Data](articles/9e36e687.json)
 
 [Extended Data](ext_articles/9e36e687.ext.json)
-
----
-
-### ICC's lawyer appeals against Israeli Prime Minister Hamas leader
-
-*2024-05-21 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184071) · `ta`
-
-ICC's lawyer Karim Khan appeals to Israeli PM Netanyahu and Hamas leader Yahya Sinwar over alleged war crimes. He accuses them of holding back evidence against Mohamed Dyv and Ismail Hania.
-
-🟩
-
-2023 October Seventh;The prosecutor of the International Criminal Court has appealed to the Israeli prime minister and Hamas leader to issue a war crimes against humanity after the day.
-
-In an interview with CNN, the International Criminal Court's lawyer Karimkan said this.
-
-He has said that Benjamin Netanyahu has requested the leaders of the Israeli Defense Yo Calland Hamas to issue a hold against Yahya Sinwar Mohamed Dyv Ismail Hania.
-
-◼️
-
-[Data](articles/0e17fe57.json)
-
-[Extended Data](ext_articles/0e17fe57.ext.json)
-
----
-
-### Sri Lanka launches probe into alleged ISIS links
-
-*2024-05-21 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-launches-probe-into-alleged-ISIS-links/155-283016) · `en`
-
-- SL State Intelligence awaits further details from Indian intelligence
-
-- SL goes on alert after India arrests four Sri Lankans suspected to be ISIS
-
-- SL to verify if the four have any links to ISIS as mentioned
-
-Sri Lanka's State Intelligence has launched an immediate probe to obtain further information on the four Sri Lankan individuals alleged to be ISIS suspects who had travelled to India in recent days and were arrested by the Gujarat Anti-Terrorist Squad upon arrival at Ahmedabad Airport, the Daily Mirror learns.
-
-According to highly placed defence officials, Sri Lanka's state intelligence has asked for further information from India's state intelligence in order to verify the background of these alleged suspects, as well as to probe if they are actually linked to the ISIS network.
-
-Defence officials said that once the information is obtained from India, Sri Lankan authorities will immediately investigate to take further action.
-
-...
-
-[Data](articles/36077681.json)
-
-[Extended Data](ext_articles/36077681.ext.json)
-
----
-
-### Showers and wind condition further
-
-*2024-05-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196839) · `si`
-
-The southwest monsoon is strengthening across Sri Lanka, bringing widespread cloud cover and potential for showers or thundershowers, especially in the Western, Sabaragamuwa, Central, Northwestern provinces, and Galle/Matara districts. Heavy showers exceeding 100mm are expected in some areas, accompanied by 40-50km/h winds. The Meteorology Department advises caution against temporary winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology states that the southwest monsoon system is increasingly established across the island.
-
-The department states that the sky is buried with clouds in many parts of the island.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Northwestern provinces and in the Galle and Matara districts.
-
-In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle, Matara, Kandy and Nuwara Eliya districts. The Met Department announced heavy showers exceeding over 100.
-
-Starting viring through island. The Meteorology Department says that there are 40-50 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f391695e.json)
-
-[Extended Data](ext_articles/f391695e.ext.json)
-
----
-
-### Sri Lanka expects talks with bondholders ‘very soon’: Minister
-
-*2024-05-21 05:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-talks-with-bondholders-very-soon-minister-163835/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting a second around of talks with private investors ‘very soon’ to restructure sovereign bonds State Minister for Finance Shehan Semasinghe said without giving a date.
-
-Sri Lanka is planning to complete debt restructuring by June 2024 and go the IMF board for the next round.
-
-“I cannot specify a timeline, but we are confident and optimistic that a second round of talks will commence very soon,” Minister Semasinghe told reporters in Colombo.
-
-The bondholders have proposed restructurings bond linked to dollar GDP growth.
-
-They have also proposed a 500 to 1,000 billion dollar governance linked bond where coupons will fall if anti-corruption benchmarks and revenue targets in an International Monetary Fund program is met, following an initiative proposed by Colombo-based Verete Research at the first round of face-to-face talks.
-
-Sri Lanka has about 12 billion dollars of sovereign bonds to restructure and some more missed coupons.
-
-...
-
-[Data](articles/821674d7.json)
-
-[Extended Data](ext_articles/821674d7.ext.json)
 
 ---

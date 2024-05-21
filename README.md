@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 14:18:41**
+As of **2024-05-21 14:33:44**
 
 ## Newspaper Stats
 
-*Scraped **25,426** Articles*
+*Scraped **25,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,135 @@ dailyftlk | 1,503
 adalk | 2,180
 adaderanalk | 2,936
 tamilmirrorlk | 2,969
-virakesarilk | 3,847
-dailymirrorlk | 3,989
-adaderanasinhalalk | 4,064
+virakesarilk | 3,849
+dailymirrorlk | 3,992
+adaderanasinhalalk | 4,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,423 (100.0%) of 25,426 articles have been extended.
+25,426 (100.0%) of 25,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### ඩයනා ගමගේට ඇප
+### Diana Gamage granted bail
+
+*2024-05-21 14:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-Gamage-granted-bail/108-283064) · `en`
+
+Colombo, May 21 (Daily Mirror) - Former State Minister Diana Gamage was today ordered to be released on bail after she appeared before the Colombo Chief Magistrate's Court in connection with a magisterial inquiry over a complaint that she had obtained a Sri Lankan passport after furnishing false information.
+
+Colombo Chief Magistrate Thilina Gamage ordered the release of Diana Gamage on a cash bail of Rs. 500,000, with two sureties of Rs. 1 million. He observed that there is no material to prove that the suspect will evade the magisterial inquiry.
+
+The CID conducting investigations into this matter has already named Diana Gamage as a suspect.
+
+In 2021, the CID had filed a B report before the Chief Magistrate’s Court against Diana Gamage over a complaint that she is a British citizen residing in Sri Lanka without a dual citizenship status.
+
+The CID had commenced investigations into this incident subsequent to a complaint lodged by social activist Oshala Herath.
+
+◼️
+
+[Data](articles/1abec2ef.json)
+
+---
+
+### Diana Gamage bailed
 
 *2024-05-21 14:06:14* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේට-ඇප/11-409762) · `si`
 
-ආගමික සහ විගාමික පනතේ යටතේ හා පුදගල ලියාපදිංචි පනත යටතේ වරදක් සිදුකර ඇති බවට චෝදනා ලැබ සිටි හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය ඇප මත මුදා හැරිමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණ්‍ය අද නියෝග කළේය.
+Diana Gamage, former State Minister, was granted bail after facing accusations related to a condolence case under the Religious and Emigration Act. She was also involved in a Rs. 5 million case, but she urged against publicizing it.
 
-රුපියල් ලක්ෂ 5 ක මුදල් ඇපයක් ද මිලියන 10 ක ශරීර ඇප දෙකක් නියම කළ මහේස්ත්‍රාත් අධිකරණය නඩුවේ පාර්ශව කාර්යන්ට හා නීතිඥ ප්‍රජාවට අගතියයක් වන ප්‍රකාශ නොකරන ලෙසට තරයේ අවවාද කළේය.
+🟩
+
+Former State Minister Diana Gamage was released on bail after being accused of committing a condolence under the Religious and Emigration Act.
+
+He strongly admonished not to proclaim the cases of Rs. 5 million.
 
 ◼️
 
 [Data](articles/6816bb84.json)
+
+[Extended Data](ext_articles/6816bb84.ext.json)
+
+---
+
+### LPL එන්න දනුෂ්කට හිමිවූ මුදල මෙන්න
+
+*2024-05-21 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196863) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක දනුෂ්ක ගුණතිලක LPL ක්‍රීඩක වෙන්දේසියේදී දඹුල්ල කණ්ඩායම මිලදීගත්තේය.
+
+◼️
+
+[Data](articles/dc22c843.json)
+
+---
+
+### අසත්‍ය පුවතක් ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-05-21 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196862) · `si`
+
+දිවයිනේ සියලුම පාසල්වලට හෙට (22) දින නිවාඩු දෙන බව සමාජ මාධ්‍ය ජාල හරහා ප්‍රචාරය වන නිවේදනය අසත්‍ය බව අධ්‍යාපන අමාත්‍යාංශය දන්වා තිබේ.
+
+එබැවින්, හෙට දින දිවයිනේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාතාංශය නිවේදනය කරයි.
+
+එසේම පවත්නා තත්ත්වය මත අවස්ථානුකූලව තීරණ ගැනීමේ බලය පළාත් අධ්‍යාපන ලේකම්වරුන් සහ පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත පවතින බව ද අධ්‍යාපන අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/e2184b6f.json)
+
+---
+
+### New liquor licenses based on population and tourist arrivals
+
+*2024-05-21 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-liquor-licenses-based-on-population-and-tourist-arrivals/108-283057) · `en`
+
+Colombo, May 21 (Daily Mirror) - New liquor licenses are awarded only on the basis of factors such as the population of the country and the arrival of tourists, Finance State Minister Ranjith Siyambalapitiya said.
+
+He made this comment to a question by a journalist at an event held in Karawanella last evening. He denied that the government intends to transfer 55 out of 100 liquor licenses belonging to Sathosa outlets and to other companies owned by Arjun Aloysius.
+
+Minister Siyambalapitiya said no other government had collected taxes from liquor companies which had such an impact and also levied such a systematically. He said that no request has been made to give the liquor licenses belonging to Sathosa and that even if such requests are made, it is not possible to lease the liquor licenses to another person.
+
+He said the price of alcohol has increased by 108% due to taxes in 2003 alone, and accordingly, the government will not increase the legal consumption of alcohol at any time.
+
+...
+
+[Data](articles/76db9dc9.json)
+
+---
+
+### Lanka Premier League (LPL) auction
+
+*2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
+
+02.09 PM - Sri Lankan cricketer Nuwanidu Fernando sold to Dambulla Thunders for USD 34,000.
+
+02.07 PM - Pakistani cricketer Iftikhar Ahmed sold to Dambulla Thunders for USD 50,000
+
+02.05 PM - Sri Lanka's Dimuth Karunaratne sold to B-Love Kandy for USD 10,000.
+
+02.02 PM - Sri Lankan cricketer Danushka Gunathilaka sold to Dambulla Thunders for USD 22,000.
+
+01.59 PM - South African cricketer Janneman Malan, Towhid Hridoy from Bangladesh and Afghan cricketer Najibullah Zadran unsold.
+
+01.56 PM - Colombo Strikers secures Sri Lankan cricketer Shevon Daniel for USD 15,000.
+
+01.53 PM - Sri Lankan cricketer Ramesh Mendis sold to B-Love-Kandy for USD 10,000.
+
+01.44 PM - All-rounder Dasun Shanaka sold to B-Love Kandy for US$ 85,000
+
+01.42PM - Mohammad Nabi from Afghanistan and West Indies Roston Chase  unsold in the first round.
+
+01.38PM - Sean Williams sold to Galle Marvels for US$ 20,000.
+
+01.36 PM - Sri Lanka's Akila Dananjaya sold to Dambulla Thunders for USD 20,000
+
+...
+
+[Data](articles/cabcf902.json)
 
 ---
 
@@ -102,19 +206,41 @@ The candy team acquired Viea Shana in the LPL tournament this year.
 
 ---
 
-### சர்வதேச தேயிலை தின நிகழ்வு இரத்து
+### கொழும்பில் பாரிய மரம் முறிந்து வீழ்ந்தது
+
+*2024-05-21 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184132) · `ta`
+
+கொழும்பு, பொரளை பகுதியில் வீதியோரத்தில் இருந்த 200 வருட பழமையான மரமொன்று வீழ்ந்ததில் போக்குவரத்துக்கு பாதிப்பு ஏற்பட்டுள்ளது.
+
+பொரளை மயானத்திற்கு அருகில் இருந்த மரமொன்றே இன்று செவ்வாய்க்கிழமை (21) காலை இவ்வாறு வீழ்ந்துள்ளது.
+
+மரம் வீழ்ந்துள்ள நிலையில் பல வாகனங்கள் சேதமடைந்துள்ளன. இந்த மரத்தை வெட்டி அகற்றும் பணியில் கொழும்பு மாநகர சபை ஈடுப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/54e08ee2.json)
+
+---
+
+### International Tea Day Event canceled
 
 *2024-05-21 13:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தேயிலை-தின-நிகழ்வு-இரத்து/175-337637) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் மறைவையடுத்து சர்வதேச தேயிலை தின நிகழ்வை இரத்து செய்யுமாறு இலங்கை தேயிலை சபைக்கு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர ஆலோசனை வழங்கியுள்ளார்.
+Due to the passing of Iranian President Ibrahim Raisi, Sri Lanka's Agriculture Minister Mahinda Amaraweera advised cancelling the International Tea Day event set for Kingsbury Hotel in Colombo. This decision comes amid financial difficulties, including Iran's efforts to settle its debt amidst Sri Lanka's economic challenges.
 
-சர்வதேச தேயிலை தினத்தை முன்னிட்டு இலங்கை தேயிலை சபையினால் கொழும்பு கிங்ஸ்பரி ஹோட்டலில் இந்நிகழ்வு நடத்த திட்டமிடப்பட்டிருந்தது.
+🟩
 
-அத்துடன், இலங்கை பொருளாதார நெருக்கடியால் ஈரானிடம் பெற்ற கடனை செலுத்த முடியாமல் தவித்த நிலையில், அதற்கு தேயிலையை பெற்றுக்கொடுத்து கடன் தொகையை தள்ளுபடி செய்வதற்கு ஈரான் அரசாங்கம் நடவடிக்கை எடுத்திருந்தமை குறிப்பிடத்தக்கது.
+Agriculture and Plantation Industries Minister Mahinda Amaraweera has advised the Sri Lanka Tea Council to cancel the International Tea Day event following the demise of Iranian President Ibrahim Raisi.
+
+The event was scheduled to be held at the Kingsbury Hotel in Colombo by the Sri Lanka Tea Council on International Tea Day.
+
+It is also worth noting that the Iranian government has taken steps to pay off the loan amount, as the Sri Lankan economic crisis is unable to pay for Iran.
 
 ◼️
 
 [Data](articles/f8c73d7d.json)
+
+[Extended Data](ext_articles/f8c73d7d.ext.json)
 
 ---
 
@@ -193,6 +319,24 @@ Colombo Municipal Council (CMC) workers are engaged in the removal of the tree a
 [Data](articles/e714c25c.json)
 
 [Extended Data](ext_articles/e714c25c.ext.json)
+
+---
+
+### காசா குறித்து ஒரு விதமான நிலைப்பாடு இலங்கை குறித்து வேறுவிதமான நிலைப்பாடு-சர்வதேச சமூகம் குறித்து  இலங்கைக்கான ரஸ்ய தூதரகம் கடும் விமர்சனம்
+
+*2024-05-21 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184133) · `ta`
+
+இலங்கையின் மனிதஉரிமை விவகாரங்கள் தொடர்பில் சர்வதேச சமூகம் இரட்டைநிலைப்பாட்டினை பின்பற்றுவதாக இலங்கைக்கான ரஸ்ய  தூதரகம் குற்றம்சாட்டியுள்ளது.
+
+இலங்கை மீது வெளிநாட்டு அரசியல் பிரமுகர்கள்  இராஜதந்திரிகள் மனித உரிமை அமைப்புகள் அதிகளவு அழுத்தங்களை கொடுப்பதையும் குற்றச்சாட்டுகளை முன்வைப்பதையும் அவதானித்துள்ளதாக ரஸ்ய தூதரகம் தெரிவித்துள்ளது.
+
+மேலே குறிப்பிட்ட ஆளுமைகள் மற்றும் அமைப்புகள் அவர்களின் இரட்டை நிலைப்பாட்டு கொள்கைகளிற்கு நன்கு அறியப்பட்டவர்கள் என தெரிவித்துள்ள ரஸ்ய தூதரகம் இந்த நீதியின் தூதுவர்கள் இந்த விடயத்தை பார்க்கும் விதம் குறித்த தனது குழப்பமான நிலையை மீண்டும் வெளியிட விரும்புவதாகவும் தெரிவித்துள்ளது.
+
+காசா விவகாரத்தில் அவர்கள் வெளிப்படுத்தும் பொறுமை  குறித்து இந்த ஆளுமைகளை விமர்சிக்க விரும்புவதாக  ரஸ்ய தூதரகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/6e3ce005.json)
 
 ---
 
@@ -450,25 +594,31 @@ Therefore, the public should be careful with the announcements issued regarding 
 
 ---
 
-### මොනරාගල බන්ධනාගාරයේ සියලු සේවාවන් අඩාල වේ
+### All services of the Moneragala Prison
 
 *2024-05-21 11:52:28* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-බන්ධනාගාරයේ-සියලු-සේවාවන්-අඩාල-වේ/11-409760) · `si`
 
-වැටුප් වැඩිකරන ලෙස ඉල්ලමින් මොනරාගල බන්ධනාගාරයේ නිලධාරීන් ඉකුත් (21) වෙනිදා අසනීප නිවාඩු දමා සේවයට වාර්තා නොකිරීම නිසා බන්ධනාගාරයේ එදිනෙදා සේවාවන් සම්පූර්ණයෙන්ම අඩාලවී තිබිණි.
+Moneragala Prison faced disruptions due to staff shortages, affecting judicial proceedings and transportation of suspects. The situation was further complicated when police intervention failed to transfer prisoners to court.
 
-සිරකරුවන් සහ සැකකරුවන් සම්බන්ධයෙන් අධිකරණයේ විභාග වන නඩු වලට ඔවුන් කැඳවාගෙන යාම සම්පූර්ණයෙන්ම අඩාලවී තිබිණි.
+🟩
 
-සැකකරුවන් අධිකරණයට රැගෙනයාමට බන්ධනාගාර බස්රථ රියදුරන් කිසිම බස්රථයකට ප්‍රධාන දොරටුවෙන් ඇතුළුවීමට වර්ජනයට සහභාගී වූ නිලධාරීන් ඉඩදුන්නේ නැත.
+The Moneragala Prison officials were completely disrupted in the prison due to the lack of sick leave of the previous (21).
 
-ඉකුත් (20) වෙනිදා පොලීසිය මඟින් අධිකරණ වලට ඉදිරිපත්කරන රක්ෂිත බන්ධනාගාරගත කෙරෙන සැකකරුවන් බන්ධනාගාරයට රැගෙන ඒමද මෙම තත්වය මත අඩාලවී තිබිණි.
+They were completely disrupted to take the judiciary cases regarding prisoners and the suspects.
 
-බන්ධනාගාර සහකාර අධිකාරීවරයා සහ ප්‍රධාන ජේලර්වරයා සේවයට වාර්තාකර තිබුණු අතර බන්ධනාගාරයේ පොදු දුරකථන සියල්ල අක්‍රීයවී තිබිණි.
+Prison bus drivers were allowed to enter the struggle to enter the main door to take the suspects into the courts.
 
-පොලීසිය මැදිහත්වී සිරකරුවන් සහ සැකකරුවන් අධිකරණයට රැගෙනයාමට උත්සාහ කළත් එයද ව්‍යර්ථ විය.
+The suspects were taken to the prison on the last (20).
+
+The Prison Assistant Superintendent of Prison and the main jailer reported all the prison public telephones.
+
+The police intervened and attempted to carry the prisoners and the suspects into the court, but it failed.
 
 ◼️
 
 [Data](articles/55b51cc3.json)
+
+[Extended Data](ext_articles/55b51cc3.ext.json)
 
 ---
 
@@ -1440,7 +1590,7 @@ The order was issued by the Chief Magistrate Thilina Gamage, Colombo Chief Magis
 
 *2024-05-21 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-More-than-33-000-people-in-10-districts-affected/108-283020) · `en`
 
-Colombo, May21 (Daily Mirror) - More than 33,000 people in ten districts have been affected due to adverse weather conditions around the country, Disaster Management Centre (DMC) Assistant Director Pradeep Kodippili said.
+Colombo, May21 (Daily Mirror) - More than 33,000 people in ten districts have been affected due to adverse weather conditions around the country, Disaster Management Centre (DMC) Director Pradeep Kodippili said.
 
 Accordingly, people in Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Jaffna, Kalutara, Puttalam and Gampaha have been affected.
 
@@ -2167,155 +2317,5 @@ The CID has also reported the facts to Colombo Chief Magistrate alleging that th
 [Data](articles/6b73eb65.json)
 
 [Extended Data](ext_articles/6b73eb65.ext.json)
-
----
-
-### Tumbara Garden incident in Ratnapura;Ten is going to be eleven ...!
-
-*2024-05-21 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184093) · `ta`
-
-In Ratnapura, a shocking incident occurred at Thumbara Estate, where plantation workers were assaulted by management. Despite efforts from trade unions and political parties, solutions remain elusive. The victim, Suresh, and his wife, Kalachelvi, faced further intimidation after reporting the attack. Political leaders and civil groups condemned the incident, but the perpetrators were released on bail. This case highlights ongoing issues of worker exploitation and the lack of effective protection in Sri Lanka's plantation sector.
-
-🟩
-
-Trade unions and upcountry political parties are unable to provide permanent solutions to the worst attacks by plantation workers by plantation management.. Upcountry politicians feel that their duties are over and their duties are over.
-
-The incident took place on the 6th of this month at the Thumbara Estate belonging to the Ratnapura Kiriyalla Police Division. The garden's worker and his assistants were shocked by the fact that the plantation manager and his assistants attacked the garden. Even in the twentieth century, there is no need for an example of the fact that plantation workers are being treated as clusters.
-
-...
-
-[Data](articles/b69cab9b.json)
-
-[Extended Data](ext_articles/b69cab9b.ext.json)
-
----
-
-### Interim injunction issued against Wijeyadasa and Keerthi Udawatta
-
-*2024-05-21 03:41:33* · [`dailyftlk`](https://www.ft.lk/news/Interim-injunction-issued-against-Wijeyadasa-and-Keerthi-Udawatta/56-762061) · `en`
-
-The Colombo District Court has issued an interim order preventing Justice Minister Wijeyadasa Rajapakshe from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) and Keerthi Udawatta as Acting General Secretary of the party.
-
-This order was issued today by Colombo District Judge Sandun Withana after considering a plaint submitted by Member of Parliament Duminda Dissanayake.
-
-On May 16, the Colombo District Court had rejected the petition filed by Dissanayake seeking an interim injunction preventing Minister Rajapakshe from functioning as the Chairman and Udawatta as Acting General Secretary of the SLFP.
-
-Accordingly, the Colombo District Court refused to issue an injunction restraining the party, its organizations and officials from acting on the decision taken to appoint Minister Wijayadasa Rajapakshe as the Chairman and Attorney-at-Law Keerthi Udawatte as the Acting General Secretary of the SLFP.
-
-...
-
-[Data](articles/56da22bf.json)
-
-[Extended Data](ext_articles/56da22bf.ext.json)
-
----
-
-### Keheliya and seven others further remanded
-
-*2024-05-21 03:39:19* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-and-seven-others-further-remanded/56-762060) · `en`
-
-Former Health Minister Keheliya Rambukwella and seven others were yesterday further remanded until 3 June by the Maligakanda Magistrate’s Court.
-
-They are facing charges related to the import of substandard human immunoglobulin vials.
-
-This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court. The Criminal Investigation Department (CID) arrested Rambukwella on 2 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
-
-...
-
-[Data](articles/87d9a6fe.json)
-
-[Extended Data](ext_articles/87d9a6fe.ext.json)
-
----
-
-### Russian Embassy criticises Western double standards on human rights in SL
-
-*2024-05-21 03:36:41* · [`dailyftlk`](https://www.ft.lk/news/Russian-Embassy-criticises-Western-double-standards-on-human-rights-in-SL/56-762059) · `en`
-
-The Russian Embassy in Colombo in a statement yesterday slammed the double standards of “numerous Western political figures, diplomats and foreign quasi-human rights organisations” concerning human rights in Sri Lanka.
-
-“In spite of the fact that the above-mentioned personalities and entities are well known for their policy of double standards, the Embassy as the official representation of the Russian Federation would like once again to express its perplexity by the way those ‘ambassadors of justice’ see things,” it said.
-
-...
-
-[Data](articles/9fc4b778.json)
-
-[Extended Data](ext_articles/9fc4b778.ext.json)
-
----
-
-### The argument between the two men in the pastai turned out to be a stupid;House is a fireman
-
-*2024-05-21 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184092) · `ta`
-
-A minor argument escalated into a fire incident in Pasarai Demria, injuring two men aged 25 and 30. The house was severely damaged, and both victims were hospitalized before being transferred to Badulla Hospital. Police are investigating without making any arrests.
-
-🟩
-
-The two men have been admitted to the hospital after the argument between the two men in the Pasarai Demria area has been later admitted to the hospital and a house has been set on fire.
-
-Police said that the injured in the incident have been set up by the police, two men aged 25 and 30, aged 25 and 30 from the II garden, and on Sunday (19) at around 10.30 pm, the police said.
-
-The house was completely damaged by the fire and the two injured were admitted to the Hospital and later sent to the Badulla Hospital for further treatment, police said.
-
-No one has been arrested in connection with the incident and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/fc0060a0.json)
-
-[Extended Data](ext_articles/fc0060a0.ext.json)
-
----
-
-### Sri Lankan Muslims to pray for the President of Iran - IA Kalilur Rahman
-
-*2024-05-21 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184091) · `ta`
-
-Sri Lanka's Muslim community mourns Iran's President Ibrahim Raisi, Foreign Minister Amir Abdullah, and others, offering prayers for their souls. The All Ceylon Ulama Council guides the community in this time of grief, emphasizing the importance of unity and faith amidst global loss. This event highlights the interconnectedness of the Muslim world, with Iran's spiritual leadership playing a pivotal role in shaping its future direction.
-
-🟩
-
-United Peace Alliance Treasurer and former member of the Colombo Municipal Council (UNP), Iran, to express their condolences on behalf of the United Peace Alliance (UNP) party, on behalf of the United Peace Alliance (UNP).. A.. Khalilur Rahman said.
-
-The Sri Lankan community expresses condolences to four people who died along with Iran's President Ibrahim Raisi and Foreign Minister Amir Abdullah, East Azerbaijan Governor Malik Rahmati and Tabrich City Religion Imam Ali al -Hashim and Commander Mahdi Musavi.. For them, we pray that Islam's classic window is available.
-
-The All Ceylon Ulama Council should provide spiritual guidance to the Sri Lankan Muslim community to pray for them, especially on Friday (24).
-
-...
-
-[Data](articles/c942e94b.json)
-
-[Extended Data](ext_articles/c942e94b.ext.json)
-
----
-
-### Unfortunately world North polar countries have failed in the program to fund climate disasters - the President urges the President at the World Water Summit
-
-*2024-05-21 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184090) · `ta`
-
-North Polar nations' failure to fund climate disaster prevention was highlighted by President Ranil Wickremesinghe at the World Water Summit in Bali. He urged taxing global tax evasion profits to fund climate efforts, emphasizing the interconnectedness of climate change and water crises.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the Global North Polar Nations, which are ready to finance the life -threatening of Ukraine, will withdraw funds to prevent the destruction of the climate.
-
-The President stressed this on Monday (20) at the top session of the 10th World Water Summit at the Bali International Conference Hall in Indonesia.
-
-The president also stressed the idea of ​​taxing a 10% tax on the climate change fund, as the annual profit of global tax evasion assets is estimated at US $ 1.4 trillion.
-
-The World Water Summit began on May 18 under the theme of "Water for Public Prostacy" in Bali, Indonesia. The conference was held to unite the leaders, experts, academics, entrepreneurs and policymakers.
-
-The World Water Summit, which has been held every three years since 1997, gives all countries the opportunity to share experiences and knowledge of water management. Also will be consulted on water, health challenges and standard development goals.
-
-...
-
-[Data](articles/949ebf30.json)
-
-[Extended Data](ext_articles/949ebf30.ext.json)
 
 ---

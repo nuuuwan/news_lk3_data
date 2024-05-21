@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 05:03:32**
+As of **2024-05-22 05:18:36**
 
 ## Newspaper Stats
 
-*Scraped **25,557** Articles*
+*Scraped **25,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,472
-dailyftlk | 1,503
+dailyftlk | 1,513
 adalk | 2,193
 adaderanalk | 2,947
 tamilmirrorlk | 2,982
@@ -26,11 +26,183 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,557 (100.0%) of 25,557 articles have been extended.
+25,557 (100.0%) of 25,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Norwegian Ambassador meets President and leaders of political parties during visit to Sri Lanka
+
+*2024-05-22 05:02:02* · [`dailyftlk`](https://www.ft.lk/news/Norwegian-Ambassador-meets-President-and-leaders-of-political-parties-during-visit-to-Sri-Lanka/56-762095) · `en`
+
+The Ambassador of Norway to Sri Lanka and India Her Excellency May-Elin Stener, visited Sri Lanka during 2 to 9 May. The visit marks a pivotal moment in the strengthening of bilateral ties between Norway and Sri Lanka, as Ambassador Stener engaged in constructive dialogues with key stakeholders, including President of Sri Lanka H.E. Ranil Wickremesinghe, Foreign Minister Hon. Ali Sabry, Opposition Leader Hon. Sajith Premadasa, the leader of National People’s Power Hon. Anura Kumara Dissanayake and Member of Parliament TNA Hon. M.A. Sumanthiran.
+
+During her meeting with President Wickremasinghe, Ambassador Stener was briefed on the commendable progress of Norwegian investments and development projects in Sri Lanka. Both parties reiterated their commitment to sustaining the close partnership between the two nations, underscoring mutual interests in various sectors.
+
+...
+
+[Data](articles/45b0b59f.json)
+
+---
+
+### Lankan Ambassador-designate to People’s Republic of China assumes duties
+
+*2024-05-22 04:56:37* · [`dailyftlk`](https://www.ft.lk/news/Lankan-Ambassador-designate-to-People-s-Republic-of-China-assumes-duties/56-762094) · `en`
+
+The Ambassador-designate of Sri Lanka to the People’s Republic of China, Majintha Jayesinghe assumed duties on 20 May at the Embassy of Sri Lanka in Beijing, PRC.
+
+Addressing the staff, Ambassador Majintha Jayesinghe recalled the close historic relations between Sri Lanka and China and outlined the significance and importance of the bilateral relations between the two countries. He emphasised the need to further strengthen Sri Lanka’s presence in China by promoting trade, investment, tourism, and cultural ties.
+
+...
+
+[Data](articles/c83c1779.json)
+
+---
+
+### Major International Golf in High Definition Only on Dialog Television
+
+*2024-05-22 04:53:04* · [`dailyftlk`](https://www.ft.lk/news/Major-International-Golf-in-High-Definition-Only-on-Dialog-Television/56-762093) · `en`
+
+Dialog Television, Sri Lanka’s premier Pay-TV service provider, will be the only Pay-TV partner in Sri Lanka to broadcast golf's biggest global competitions, allowing Sri Lankan golf enthusiasts to catch all the action in High Definition (HD) on ThePapare TV HD (channel number 126).
+
+The 83rd Senior PGA Championship will commence in Michigan, USA on 23rd May followed by a month of golfing action in June with the US Women’s Open and US Open both teeing off from 30th May to 2nd June and 13th to 16th June respectively. The Ladies European Tour 2024, following its commencement in February, takes place across multiple locations globally and will span the year.  All of this action will be telecasted LIVE on Dialog Television - ThePapare TV HD (channel number 126).
+
+...
+
+[Data](articles/4db2aa25.json)
+
+---
+
+### New liquor licences to be issued based on population density, tourism
+
+*2024-05-22 04:43:03* · [`dailyftlk`](https://www.ft.lk/business/New-liquor-licences-to-be-issued-based-on-population-density-tourism/34-762092) · `en`
+
+Clarifies no requests made to transfer Sathosa’s liquor licences to other entities
+
+Affirms even if such requests were made, leasing licences to other parties is not be possible
+
+Says no licences will be issued in areas where there are reasonable objections
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday said that new liquor licences will be issued considering factors such as the population density and the influx of tourists.
+
+He made these remarks in response to journalists’ inquiries during a program held in Karawanella about allegations that the Government is planning to transfer 55 out of 100 Sathosa liquor licences to companies owned by Arjun Aloysius.
+
+The State Minister clarified that there has been no request to transfer Sathosa’s liquor licences to other entities and asserted that even if such requests were made, leasing these licences to other parties would not be possible.
+
+...
+
+[Data](articles/f1ff5371.json)
+
+---
+
+### Roadshow promoting Dubai and Hungary real estate investments on 30 May
+
+*2024-05-22 04:41:46* · [`dailyftlk`](https://www.ft.lk/business/Roadshow-promoting-Dubai-and-Hungary-real-estate-investments-on-30-May/34-762091) · `en`
+
+IGL Interglobal Luxury, in collaboration with Corporate Management Consultants, on 30 May will hold a roadshow to promote real estate investments in Dubai and Hungary to investors in Sri Lanka. Interested investors will have the opportunity to participate in one-on-one  interviews.
+
+The Dubai real estate market offers very attractive terms and benefits, including a 10-year Golden Visa, assistance in opening bank accounts, a tax-free environment, one of the lowest crime rates globally, strong political stability, a robust legal framework, and high returns on investment (ROI) without tax implications.
+
+...
+
+[Data](articles/cb543bc7.json)
+
+---
+
+### Two top global marketing experts at PIM-PIMA CEO forum on 29 May
+
+*2024-05-22 04:41:29* · [`dailyftlk`](https://www.ft.lk/business/Two-top-global-marketing-experts-at-PIM-PIMA-CEO-forum-on-29-May/34-762090) · `en`
+
+The PIM-PIMA CEO Forum titled “Reimagining future in a new normal” will be held on 29 May from 8 a.m. to 9 a.m. preceded by breakfast at the ITC Randipa, Colombo 1. The event will feature two global marketing experts Prof. Joshua Gildea and Prof. Chad McBride.
+
+Professor Joshua Gildea, is a Senior Lecturer of Marketing as well as the Director of the MBA Business Marketing Academy at the Kelley School of Business at Indiana University. His teaching focuses on business-to-business marketing strategy, international business, and sales leadership.
+
+...
+
+[Data](articles/24db79ec.json)
+
+---
+
+### Charitha criticises Govt’s attempt to enshrine fiscal policy into law through ETB
+
+*2024-05-22 04:34:44* · [`dailyftlk`](https://www.ft.lk/news/Charitha-criticises-Govt-s-attempt-to-enshrine-fiscal-policy-into-law-through-ETB/56-762089) · `en`
+
+Opposition MP Prof. Charitha Herath expresses serious concerns about the Economic Transformation Bill
+
+Argues against benchmarks and timelines dictated by current government’s preferences
+
+Highlights Section 6 mandate, could restrict future Governments to adhere to the bill
+
+Questions exemption of Colombo Port City from the bill’s provisions
+
+Calls on SLPP members not to support the bill, citing compromise of their dignity
+
+Freedom People’s Congress (FPC) member and parliamentarian Prof. Charitha Herath expressed serious concerns about the Government’s proposed Economic Transformation Bill, which is set to be tabled in parliament this week.
+
+Speaking at a press conference at the party headquarters, Herath criticised the government for attempting to enshrine the country’s fiscal policy into law through the proposed legislation.
+
+“No democratic country would take such a step. It’s as if they’re turning an election manifesto into law,” he said.
+
+...
+
+[Data](articles/dffd969c.json)
+
+---
+
+### Marikkar foresees Premadasa and AKD as main contenders for Presidential poll
+
+*2024-05-22 04:33:07* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-foresees-Premadasa-and-AKD-as-main-contenders-for-Presidential-poll/56-762088) · `en`
+
+Casts doubts on Ranil Wickremesinghe’s chances, even under SLPP ticket, due to potential lack of support
+
+Says SJB is confident of securing 7 million votes, considering Premadasa’s previous performance and growing support
+
+Highlights AKD’s difficulty in garnering votes needed to win election given his previous vote count
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said SJB leader Sajith Premadasa and National People’s Power (NPP) leader Anura Kumara Dissanayake will be the primary contenders in the upcoming presidential election. He suggested that Ranil Wickremesinghe is unlikely to run or fail to secure enough votes under the Sri Lanka Podujana Peramuna (SLPP) ticket.
+
+Addressing a press conference in Colombo, Marikkar said despite the various tricks by Ranil Wickremesinghe even if Wickremesinghe wins the SLPP tickets its members will not vote for him. “If he works with the minorities, the sinhalese will not vote for him and vice versa,” he said.
+
+...
+
+[Data](articles/e927ca6a.json)
+
+---
+
+### High-level SL delegation visits Teheran to attend State funeral of late Iranian President
+
+*2024-05-22 04:31:46* · [`dailyftlk`](https://www.ft.lk/news/High-level-SL-delegation-visits-Teheran-to-attend-State-funeral-of-late-Iranian-President/56-762087) · `en`
+
+Foreign Affairs Minister Ali Sabry will lead a high-level delegation to Tehran to attend the State funeral of late President Dr. Seyyed Ebrahim Raisi and Foreign Minister Dr. Amir Abdollahian of the Islamic Republic of Iran today (22), the Ministry of Foreign Affairs said.
+
+Minister Sabry is scheduled to hand over a condolence message from President Ranil Wickremesinghe addressed to the Supreme Leader of Iran. Reflecting the close and cordial bilateral relations, the late President and the Foreign Minister visited Sri Lanka last month.
+
+Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs and Middle East of the Foreign Ministry U.L.M. Jauhar will accompany the Foreign Minister in the visit to Tehran.
+
+◼️
+
+[Data](articles/bb01e59e.json)
+
+---
+
+### Diana hit with contempt case
+
+*2024-05-22 04:30:36* · [`dailyftlk`](https://www.ft.lk/news/Diana-hit-with-contempt-case/56-762086) · `en`
+
+Adding to former State Minister Diana Gamage’s legal woes, a Contempt of Court application was filed before the Supreme Court yesterday, alleging she had disrespected the Apex Court through her comments at a press briefing held on 9 May.
+
+The application was filed by the former Weligama Urban Council Chairman Rehan Jayawickreme through Counsel Tharmaja Tharmaraja.
+
+The application accuses Gamage of making a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
+
+At a press conference following a landmark judgement where the Supreme Court ruled that she is not qualified legally to hold a Parliamentary seat in Sri Lanka, Gamage expressed her refusal to accept the ruling due to the “political conspiracy behind it”.
+
+...
+
+[Data](articles/115240e6.json)
+
+---
 
 ### Explanation for 7 Sri Lankan fishermen
 
@@ -2081,257 +2253,5 @@ During the war and for a few years after the end of the war, social acceptance o
 [Data](articles/58aa5453.json)
 
 [Extended Data](ext_articles/58aa5453.ext.json)
-
----
-
-### President Ranil will make a major announcement next month - Minister Manusha
-
-*2024-05-21 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184143) · `ta`
-
-Minister Manusha Nanayakkara announced that President Ranil Wickremesinghe will make a significant announcement next month, likely regarding his candidacy for the upcoming presidential election. The government is fully prepared for the election, with various political parties expressing differing opinions. Despite opposition from the United People's Shakti campaign, which claims Wickremesinghe won't run, supporters of the United People's Power, including the UNP, are expected to back him due to his leadership and efforts to address national issues.
-
-🟩
-
-Ranil Wickremesinghe is sure to contest the presidential election. He will announce an official announcement next month.Minister Manusha Nanayakkara said that all measures are ready for the election.
-
-He was speaking at a press conference held at the UNP headquarters Sirikotha on Tuesday (21).
-
-What is going to be held in the country is being talked about by everyone.. Various parties have made different views on the matter.
-
-But the next presidential election is the first to be held. We and other parties are preparing for that.
-
-Similarly, we are taking necessary steps to make President Ranil Wickremesinghe again president.
-
-The United People's Shakti campaign is leading the campaign that Ranil Wickremesinghe will not contest the next presidential election.
-
-All party supporters in the United People's Power are all United National Party supporters. Ranil Wickremesinghe has taken over the country and has taken steps to resolve the problems faced by the country in two years.
-
-...
-
-[Data](articles/f45f391d.json)
-
-[Extended Data](ext_articles/f45f391d.ext.json)
-
----
-
-### Sri Lankan ambassador to China Majintha Jayesinghe assumes duties
-
-*2024-05-21 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-ambassador-to-China-Majintha-Jayesinghe-assumes-duties/108-283067) · `en`
-
-Colombo, May 21 (Daily Mirror) - Ambassador-designate to China Majintha Jayesinghe assumed duties on May 20, 2024 at the Embassy in Beijing, according to the Foreign Affairs Ministry.
-
-Addressing the Staff, Ambassador Majintha Jayesinghe recalled the close historic relations between Sri Lanka and China and outlined the significance and importance of the bilateral relations between the two countries.
-
-He emphasized the need to further strengthen Sri Lanka’s presence in China by promoting trade, Investments, tourism and cultural ties.
-
-Jayesinghe is a career diplomat who joined the Sri Lanka Foreign Service in 1998 and was Ambassador and Permanent Representative in Austria with accreditation to six countries and Ambassador in the United Arab Emirates prior to his appointment in the People’s Republic of China.
-
-...
-
-[Data](articles/da04fde7.json)
-
-[Extended Data](ext_articles/da04fde7.ext.json)
-
----
-
-### Progress of Prison Officers completed
-
-*2024-05-21 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ගේ-වෘත්තීය-ක්‍රියාමාර්ග-අවසන්/11-409767) · `si`
-
-Prison officers began a professional development program seeking a salary hike. The Commissioner General advised against disrupting judicial activities. The Justice Minister plans to support their request through a cabinet paper, acknowledging their concerns.
-
-🟩
-
-Minister of Prison, Prison and Constitutional Reforms, Hon.. Says Mr. Dissanayake.
-
-Prison officials commenced a professional program from the same morning asking for a salary increase in Rs.
-
-The Commissioner General of Prisons has informed them not to allow the judicial activities and not to interrupt prison.
-
-The Justice Minister stated that he would work to perform a cabinet paper to perform a cabinet paper to perform it as the request of prison officials were fair.
-
-The suspects struggle said that the officers of the prison said that the circumcision was confident of the Minister of Justice and report the vocational action.
-
-◼️
-
-[Data](articles/57223773.json)
-
-[Extended Data](ext_articles/57223773.ext.json)
-
----
-
-### Progress of Prison Officers completed
-
-*2024-05-21 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196867) · `si`
-
-Prison officers in Sri Lanka have been on strike since 2020, demanding a Rs. 25,000 salary increase. A meeting was held between the Commissioner General of Prisons and officials on January 21st. The Minister of Justice, Dr. Wijayadasa Rajapakse, supports the officers' demands and is preparing a cabinet paper to address them. The strike continues, emphasizing the importance of not disrupting judicial processes.
-
-🟩
-
-Prison media spokesman Prison Spokesman Gaminne B.. Says Mr. Dissanayake.
-
-Prison officials have been involved in a profession action from the year (20th) demanding a salary increase of Rs. 25,000.
-
-A special discussion was held between the Commissioner General of Prisons and professional procedures today (21).
-
-The Commissioner General of Prisons has also been informed that the judiciary should not be hampered and not to interrupt prison.
-
-Minister of Justice Dr. Wijayadasa Rajapakse stated that he is working to perform a cabinet paper to perform a cabinet paper to perform it as the request of prison officials are fair.
-
-The strike said that the strike officials stated that the officers who rely on the Promine and reporting the vocational action were reed to the service and report the vocational action.
-
-◼️
-
-[Data](articles/7e6b65bd.json)
-
-[Extended Data](ext_articles/7e6b65bd.ext.json)
-
----
-
-### Red alarm regarding prevailing climate
-
-*2024-05-21 15:23:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலவும்-காலநிலை-தொடர்பில்-சிவப்பு-எச்சரிக்கை/175-337644) · `ta`
-
-A red alert warns of severe weather conditions across coastal regions from Kalpitiya to Pottuvil, including high winds (60-70 km/h) and dangerous sea waves. Coastal residents and fishermen are advised to stay off the seas until further notice.
-
-🟩
-
-Red warning has been issued due to heavy rains, wind and sea rage in the country.
-
-Accordingly, people in the coastal areas from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota have been notified.
-
-The wind speeds from Colombo to Galle and Hambantota to Pottuvil are increasing from time to time to 60-70 km / h.
-
-Also, sea and fishermen have been asked not to travel in the seas until the re -notice is issued.
-
-The Department of Meteorology has also announced that there is a possibility that sea waves can arise from Kalpitiya to Colombo, Galle and Hambantota via Pottuvil.
-
-Due to this, it is possible to reach the shore of sea waves from Colombo to Matara via Galle.
-
-◼️
-
-[Data](articles/7a184df3.json)
-
-[Extended Data](ext_articles/7a184df3.ext.json)
-
----
-
-### Arrangement
-
-*2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாக்கெதிராக-குற்றவியல்-வழக்கு-ஏற்பாடு/175-337643) · `ta`
-
-Diana Kamage, ex-State Minister, appeared in court on Tuesday after being named a suspect due to issues presented by the Criminal Investigation Department. The Colombo Chief Magistrate issued this order, advising the Attorney General to proceed with criminal cases against her.
-
-🟩
-
-Former State Minister Diana Kamage, who was reported missing, was present in court on Tuesday (21).
-
-The court yesterday (20) ordered Diana Kamage to be named as the suspect.
-
-Colombo Chief Magistrate Thilina Kamage issued the order after examining issues presented by the Criminal Investigation Department in court on Monday (20).
-
-Meanwhile, the Attorney General has been advised by the Attorney General to take action on the basis of criminal cases regarding former Minister of State Diana Kamage.
-
-◼️
-
-[Data](articles/1667b91f.json)
-
-[Extended Data](ext_articles/1667b91f.ext.json)
-
----
-
-### Criminal case against Danaya?
-
-*2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவுக்கு-எதிராக-குற்றவியல்-வழக்கு/175-337643) · `ta`
-
-Diana Kamage, a former State Minister, is now a suspect in a criminal case. The Colombo Chief Magistrate ordered her to be named as such after reviewing evidence from the Criminal Investigation Department. This follows advice from the Attorney General to proceed with legal actions against her.
-
-🟩
-
-Former State Minister Diana Kamage, who was reported missing, was present in court on Tuesday (21).
-
-The court yesterday (20) ordered Diana Kamage to be named as the suspect.
-
-Colombo Chief Magistrate Thilina Kamage issued the order after examining issues presented by the Criminal Investigation Department in court on Monday (20).
-
-Meanwhile, the Attorney General has been advised by the Attorney General to take action on the basis of criminal cases regarding former Minister of State Diana Kamage.
-
-◼️
-
-[Data](articles/f77a63f0.json)
-
-[Extended Data](ext_articles/f77a63f0.ext.json)
-
----
-
-### Education Ministry denies reports of island-wide school closure
-
-*2024-05-21 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99359/education-ministry-denies-reports-of-island-wide-school-closure-) · `en`
-
-The Ministry of Education has refuted the reports circulating on social media claiming that all schools island-wide will be closed tomorrow (May 22).
-
-“The Ministry of Education informs that the announcement circulating on social media that all schools in the island will be closed tomorrow is false.”
-
-“Therefore, the Ministry of Education announces that all schools in the island will be open tomorrow (22),” it said, issuing a special notice today.
-
-It further informs that the authority to make decisions based on the existing situation lies with the Provincial Education Secretaries and Provincial Education Directors.
-
-◼️
-
-[Data](articles/3807d360.json)
-
-[Extended Data](ext_articles/3807d360.ext.json)
-
----
-
-### “Ranil will officially announce next month”
-
-*2024-05-21 15:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-ரணில்-உத்தியோகபூர்வமாக-அறிவிப்பார்/175-337642) · `ta`
-
-President Ranil Wickremesinghe will officially announce his candidacy for the upcoming presidential election next month, contradicting rumors he won't run. Minister Manusha Nanayakkara confirmed Wickremesinghe's decision, highlighting his past leadership during challenging times. The announcement comes amidst internal party dynamics within the United People's Power (SJB) and the United National Party (UNP), where some members are seeking to align more closely with the UNP.
-
-🟩
-
-Minister Manusha Nanayakkara today said that the current President Ranil Wickremesinghe will officially announce the presidential election next month.
-
-“A story is being circulated by many, including the United People's Power (SJB), saying that President Wickremesinghe will not contest this year's presidential election.
-
-However, Wickremesinghe will give a blow to all those who present such a matter because he will demand another post. He will officially announce his nomination next month, ”Minister Nanayakkara said at a media briefing.
-
-“Wickremesinghe has proven his ability to accept the presidency of the country for the benefit of the country. He did so when many avoided it. Many people fled the responsibility and only thought of their political future, ”he added.
-
-He also said that Wickremesinghe would not contest in a single party and would represent many forces in the presidential election.
-
-...
-
-[Data](articles/e370fa8d.json)
-
-[Extended Data](ext_articles/e370fa8d.ext.json)
-
----
-
-### 99.9% of the birth of Sri Lanka in hospitals
-
-*2024-05-21 15:09:09* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-දරු-උපත්වලින්-සියයට-99-9ක්ම-රෝහල්වල/11-409766) · `si`
-
-In Sri Lanka, nearly all births (99.9%) occur in hospitals. The Health and Industry Training program recently received 2836 applications, highlighting high demand for health professionals globally due to their language skills. The program aims to address the shortage of health workers, with training centers across the country.
-
-🟩
-
-Responsibility of the Appointment Letter of Health and Industry Training of Health and Industry Training of Health and Industry Training of Health and IndustryWas held.
-
-Applications were invited from applicants who were able to pass 2836 applicants in one of the subjects of the A / L examination.
-
-Speaking at the event, the Minister of Health and Industry Dr. Ramesh Pathirana said that 99.9% of the 1950s were in hospitals, and in the 1950s, it was home to their homes.
-
-The health professionals of this country have a great demand in the world and that the language skills in progress has become a major orientation. The Health Minister pointed out that the largest number of health systems in the country is a downroof condition.
-
-It is said that there was a heavy translation of health service and had risen to 73 years. He added that there is a long history of 100 years and the families of family health and it is fortunate to join such a service.
-
-...
-
-[Data](articles/eb120776.json)
-
-[Extended Data](ext_articles/eb120776.ext.json)
 
 ---

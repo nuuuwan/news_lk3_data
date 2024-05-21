@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 09:18:35**
+As of **2024-05-21 09:33:59**
 
 ## Newspaper Stats
 
-*Scraped **25,357** Articles*
+*Scraped **25,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,172
-adaderanalk | 2,927
+adaderanalk | 2,928
 tamilmirrorlk | 2,961
 virakesarilk | 3,831
-dailymirrorlk | 3,980
-adaderanasinhalalk | 4,051
+dailymirrorlk | 3,981
+adaderanasinhalalk | 4,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,355 (100.0%) of 25,357 articles have been extended.
+25,357 (100.0%) of 25,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Matara Prison inmate dies of suspected brain fever
+
+*2024-05-21 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99350/matara-prison-inmate-dies-of-suspected-brain-fever) · `en`
+
+An inmate of the Matara Prison has succumbed to an illness, presumed to be brain fever, Ada Derana learns.
+
+Sources stated that the 24-year-old inmate, who had been imprisoned about 03 months ago, died while receiving treatment at Matara Hospital last night (20).
+
+It is suspected that the inmate in question died from brain fever and investigations are being conducted in this regard.
+
+Meanwhile, another inmate who is currently receiving medical attention, too, is said to be suffering from the same symptoms.
+
+Several cases of brain fever had been reported from the Matara Prison in December last year resulting in multiple deaths of inmates.
+
+◼️
+
+[Data](articles/2d3b48ae.json)
+
+---
+
+### ඩයනා ගැන අධිකරණය CIDයට දුන් නියෝගය
+
+*2024-05-21 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196848) · `si`
+
+මෙරට පුරවැසිභාවය නොමැතිව ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍ර ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට එරෙහිව නීතිය අනුව නිසි පියවර ගෙන අධිකරණයට කරුණු වාර්තා කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය ඊයේ (20) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියෝග කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මෙම සිද්ධියට අදාළව ඉදිරිපත් කළ වාර්තාවක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කරනු ලැබුවේය.
+
+◼️
+
+[Data](articles/a38b6fce.json)
+
+---
+
+### Adverse weather: More than 33,000 people in 10 districts affected
+
+*2024-05-21 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-More-than-33-000-people-in-10-districts-affected/108-283020) · `en`
+
+Colombo, May21 (Daily Mirror) - More than 33,000 people in ten districts have been affected due to adverse weather conditions around the country, Disaster Management Centre (DMC) Assistant Director Pradeep Kodippili said.
+
+Accordingly, people in Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Jaffna, Kalutara, Puttalam and Gampaha have been affected.
+
+A total of 1,827 people have been sent to eleven temporary safe locations and relief programmes for them are underway, he said.
+
+Meanwhile, 52 people from nine families in the Thimbirigasyaya area of Colombo were affected last night due to sudden floods.
+
+He also said that 100mm of rain was reported from every area of the country and Haldumulla, Haputale, Hali Ela, Badulla and Ella areas of the Badulla district had been issued with level one landslide early warning alerts.
+
+...
+
+[Data](articles/76aba51a.json)
+
+---
 
 ### Sri Lanka and Indonesia pledge stronger bilateral ties and economic cooperation
 
@@ -46,21 +100,31 @@ President Wickremesinghe, in his opening remarks, highlighted the historical tie
 
 [Data](articles/c6bc2705.json)
 
+[Extended Data](ext_articles/c6bc2705.ext.json)
+
 ---
 
-### வட, கிழக்கில் நிலவும் பிரச்சினைகள் எனக்குப் பெரிதும் அதிர்ச்சியளிக்கின்றன - மன்னிப்புச்சபையின் செயலாளர் நாயகம் சிவில் சமூகப்பிரதிநிதிகளிடம் தெரிவிப்பு
+### The issues in the North and East are very shocking to me - the Secretary General of the Amnesty Council informed Civil Social Industries
 
 *2024-05-21 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184098) · `ta`
 
-வட, கிழக்கில் தமிழ்மக்கள் முகங்கொடுத்துவரும் பிரச்சினைகள் தொடர்பில் அம்மாகாணங்களைச் சேர்ந்த பலரிடம் கேட்டறிந்ததாகவும், அவை தனக்குப் பெரிதும் அதிர்ச்சியளிக்கும் வகையில் அமைந்திருந்ததாகவும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் தெரிவித்துள்ளார்.
+Amnesty International's Secretary-General Agnes Kalamart visited Sri Lanka, highlighting concerns over human rights abuses in the North and East regions post-war. She urged for truth, justice, and accountability regarding war crimes and violence against human rights. During her visit, she met with civil society representatives and activists, discussing issues like political corruption, missing persons, militarization, and religious tensions. Kalamart pledged to apply international pressure to address these concerns.
 
-யுத்தத்தின்போது இடம்பெற்றதாகக் கூறப்படும் போர்க்குற்றங்கள், மனித உரிமை மீறல்கள் மற்றும் மனிதகுலத்துக்கு எதிரான வன்முறைகள் என்பன தொடர்பில் உண்மை, நீதி மற்றும் பொறுப்புக்கூறல் என்பன உறுதிப்படுத்தப்படவேண்டும் என சர்வதேச மன்னிப்புச்சபை தொடர்ச்சியாக வலியுறுத்திவருவதுடன், சர்வதேச அரங்கில் இலங்கை மீதான அழுத்தங்களையும் பிரயோகித்துவருகின்றது.
+🟩
 
-அந்தவகையில் மூன்று தசாப்தகால யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு கடந்த சனிக்கிழமையுடன் (18) 15 வருடங்கள் பூர்த்தியடைந்த நிலையில், முதன்முறையாக தெற்காசியப்பிராந்தியத்துக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருக்கும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், கடந்த வெள்ளிக்கிழமை நாட்டை வந்தடைந்தார்.
+Amnesty International Secretary General of the Amnesty International, Agnes Kalamart, said that many of the mothers had heard about the problems faced by the Tamils in the North and East.
+
+The Amnesty International has continued to urge truth, justice and accountability to ensure that war crimes, human rights violations and violence against human rights during the war, have been urging Sri Lanka on the international stage.
+
+Amnesty International Secretary General of the International International, who has made an official visit to South Asia for the first time, arrived in the country last Friday, after the three decades of war ended and completed 15 years (18) last Saturday.
+
+During this year, Mullivaikkal (18) participated in the meeting and held meetings with various key parties. As a result, Secretary -General Agnes Kalamart, who met civil society representatives in Colombo on Sunday, asked them about the contemporary human rights situation in the country.
 
 ...
 
 [Data](articles/a3446b90.json)
+
+[Extended Data](ext_articles/a3446b90.ext.json)
 
 ---
 
@@ -2121,77 +2185,5 @@ The audit report also revealed that the wrongdoers had been revealed.
 [Data](articles/f8b925fc.json)
 
 [Extended Data](ext_articles/f8b925fc.ext.json)
-
----
-
-### A large number of inclement weather suffering
-
-*2024-05-20 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196833) · `si`
-
-Inclement weather affects 19,234 people across seven districts, causing partial damage to 32 homes and relocating 1,140 individuals. The worst-hit areas include Kuliyapitiya with 141mm rainfall. Infrastructure issues like fallen trees disrupt power supply in several regions. A vehicle accident near Colombo due to a falling tree injures two passengers en route to Kalubowila Hospital. Heavy rain causes structural damage to buildings under construction, including one near the President's Office in Galle. Water levels rise significantly in several reservoirs, leading to the opening of sluice gates to manage overflow. Landslide warnings are issued for nine districts due to excessive rainfall.
-
-🟩
-
-According to the authorities, 19,234 people in seven districts in the island have been affected by the existing weather conditions.
-
-It is said that 32 houses were partially damaged and 1,140 people have been subjected to safe locations.
-
-The highest rainfall was reported from Kuliyapitiya and 141 mm.
-
-මාතර දිස්ත්‍රික්කයට ඇදහැලෙන අධික වර්ෂාවත් සමග මාතර කඹුරුපිටිය ප්‍රධාන මාර්ගයට ගසක් කඩාවැටීම හේතුවෙන් ප්‍රදේශ රැසක විදුලිය විසන්ධි වී තිබුණි.
-
-මේ අතර කොළඹ කිරුලපන පූර්වාරාම මාර්ගයේ ගමන්කරමින් තිබූ ත්‍රිරෝද රථයක් මතට ගසක අත්තක් කඩා වැටීමෙන් එහි ගමන්ගත් කාන්තාවක් සහ තවත් පුද්ගලයෙකු තුවාල ලබා කළුබෝවිල ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
-
-ගාලු මුවදොර ජනාධිපති ලේකම් කාර්යාලය අසල ඉදි කෙරෙමින් තිබූ වෙසක් තොරණද පවතින අධික වර්ෂාව සහ සුළං හේතුවෙන් කඩා වැටී තිබුණි.
-
-The water level of the Rajanganaya Reservoir has risen to 32 feet and a 2 sluice gates of the reservoir have been opened two feet.
-
-Both sluice gates of the Angamuwa reservoir have been opened, and the amount of water is 1200 thickness per second.
-
-...
-
-[Data](articles/b3015c3b.json)
-
-[Extended Data](ext_articles/b3015c3b.ext.json)
-
----
-
-### Sajith - Anura policyholder on June 6
-
-*2024-05-20 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්---අනුර-විවාදය-ජුනි-06දා/11-409747) · `si`
-
-Nationalist leader Sajith Premadas agreed to a debate with nationalist leader Anura Kumara Dissanayake, prepared by Nalin de Silva, executive member of the same movement. This suggests a potential debate could occur on June 6th between the leaders.
-
-🟩
-
-සමගි ජනබලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා සමග විවාදයට  ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සූදානම් බව එම බලවේගයේ විධායක සභික නලින්ද ජයතිස්ස මහතා පවසයි. ඒ අනුව ජූනි 6 වෙනිදා නායකයන් අතර විවාදය පැවැත්විය හැකි බව නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
-
-Mr. Jayatissa stated that it is appropriate to hold a debate on the economy between two candidates contesting the presidential election at a time when the election commission has been held between September 17 and October 16.. The reconciliation is given a letter to the national popularity and has been given the debate on the debate.
-
-◼️
-
-[Data](articles/7e243936.json)
-
-[Extended Data](ext_articles/7e243936.ext.json)
-
----
-
-### President Ranil criticizes Global North’s failure in climate change financing
-
-*2024-05-20 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99344/president-ranil-criticizes-global-norths-failure-in-climate-change-financing) · `en`
-
-President Ranil Wickremesinghe highlighted the stark contrast between global funding priorities, while pointing out the willingness of the Global North to fund death and destruction in Ukraine while showing reluctance to finance measures to combat climate change.
-
-Delivered a speech at the 10th World Water Forum, held in Bali, Indonesia today (20), he also proposed a 10% levy on the annual profits of global tax evasion assets deposited in tax havens, estimated at $1.4 trillion annually.
-
-He suggested that funds raised through this levy could support Blended Finance projects focused on climate change adaptation and mitigation.
-
-In his opening remarks, President Wickremesinghe extended his gratitude to the President of Indonesia Joko Widodo for hosting the event, which centres around the theme “Water for Shared Prosperity.”
-
-...
-
-[Data](articles/76366f49.json)
-
-[Extended Data](ext_articles/76366f49.ext.json)
 
 ---

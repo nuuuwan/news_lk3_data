@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 08:18:27**
+As of **2024-05-21 08:34:00**
 
 ## Newspaper Stats
 
-*Scraped **25,347** Articles*
+*Scraped **25,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,170
 adaderanalk | 2,926
-tamilmirrorlk | 2,959
+tamilmirrorlk | 2,960
 virakesarilk | 3,830
 dailymirrorlk | 3,980
 adaderanasinhalalk | 4,048
@@ -26,49 +26,67 @@ adaderanasinhalalk | 4,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,344 (100.0%) of 25,347 articles have been extended.
+25,347 (100.0%) of 25,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### මාරක අනතුරු ජීවිත 5ක් බිලිගනී
+### Fatal accidents kills 5 lives
 
 *2024-05-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196844) · `si`
 
-ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුර 05කින් පාසල් සිසුවෙකු ඇතුළු පුද්ගලයින් 05 දෙනෙකු ජීවිත්කෂයට පත්ව තිබේ.
+In separate incidents across Sri Lanka, five fatalities occurred: a schoolgirl in Mullaitivu, a toddler in Negombo, a passenger in Embilipitiya, a motorcyclist in Miloadari, and a pedestrian in Thummodara.
 
-පුදුකුඩිඉරුප්පු, මුලතිව් පරන්තන් මාර්ගයේ මුංගිල්ආරු ප්‍රදේශයේදී ට්‍රැක්ටර් රථයක ටේලරය පෙරළීමෙන් සිදුවූ අනතුරකින් පාසල් සිසුවෙක් මියගොස් තිබේ.
+🟩
 
-වට්ටකච්චි දෙස සිට මුල්ලියාවේලි දෙසට ධාවනය වූ ට්‍රැක්ටර් රථය රියදුරුට පාලනය කර ගැනීමට නොහැකිව ට්‍රැක්ටර් රථයේ ටේලරය පෙරළීමෙන් එහි ගමන්කළ මගීන් 06 දෙනෙකු බරපතළ තුවාල ලබා මුංගිල්ආරු රෝහලට ඇතුළත් කිරීමේදී තම්බිරාසපුරම්, ධර්මපුරම් ප්‍රදේශයේ පදිංචිව සිටි 16 හැවිරිදි පාසල් සිසුවෙක් ජීවිතක්ෂයට පත්ව තිබිණි.
+Five persons including a schoolgirl in five areas have come forward in allegedly.
 
-මරණකරු සමග එම ට්‍රැක්ටර් රථයේ මගීන් 14 දෙනෙකු ගමන් කර ඇති අතර මුල්ලයාවේලි පොලිස් වසමේ කෝවිලක පවත්වනු ලබන උත්සවයකට සහභාගි වීමට මොවුන් මෙලෙස ගමන් කරමින් සිටියදී අනතුර ලක්ව ඇති බව පොලීසිය පවසයි.
+A schoolgirl has died in an accident in Mullaitivu Paranthanka Paranthanka Paranthanka Paranthanu road in Mullaittivu Paranthanka Paranthan area.
 
-මේ අතර මීගමුව - දිවුලපිටිය මාර්ගයේ ත්‍රිරෝද රථයක් ලොරි රථයක ගැටී සිදුවූ අනතුරකින් බලන්තොට ප්‍රදේශයේ පදිංචිව සිටි 40 හැවිරිදි ත්‍රීවිල් රථ රියදුරු මියගොස් තිබේ.
+The tractor vehicle traveling from Wanda Kirinali to Mullaylite vehicle was seriously injured and a 16-year-old schoolgirl residing in Dharmapuram, Thambapraram, Dharmapuram, Thambirazaram.
+
+The tractor has traveled 14 passengers with the deceased.
+
+Meanwhile, a three-year-old carrier of the three-wheeler, a resident of the Battato, has died of a three-wheeler in the Negombo-Divulapitiya road.
+
+A lorry collided with a three-wheeler in the Halmillakiya area in Embilipitiya - Nonagama.
+
+The driver of the three-wheeler and two travers were injured and injured and injured and admitted to the Embilipitiya hospital.
+
+The deceased has been identified as a 24 year old resident of Dickwella.
 
 ...
 
 [Data](articles/97505df6.json)
 
+[Extended Data](ext_articles/97505df6.ext.json)
+
 ---
 
-### මාතර බන්ධනාගාරයේ රැඳවියෙකු මොළේ උණ නිසා මියයයි
+### Inmate at Matara Prison inmates Dying
 
 *2024-05-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196843) · `si`
 
-මාතර රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (20) රාත්‍රී මෙම රැඳවියා මියගොස් ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කළේය.
+A 24-year-old inmate died at Matara Prison from suspected brain fever, joining others treated at Matara Hospital. This follows previous fatalities from similar causes in December.
 
-24 හැවිරිදි මීට මාස 03කට පමණ පෙර බන්ධනාගාර ගතවූ පුද්ගලයෙකු මෙලෙස මියගොස් තිබේ.
+🟩
 
-අදාළ රැඳවියා මොලේ උණ රෝගී තත්ත්වය හේතුවෙන් මියගොස් ඇති බවට සැක පළකෙ‍රෙන අතර ඒ සම්බන්ධයෙන් පර්යේෂණ සිදුකෙරෙන බව වාර්තා වේ.
+Prison sources said that the detainees were killed last night while receiving treatment at the Matara Hospital.
 
-මීට අමතරව මාතර බන්ධනාගාරයේ තවත් රැඳවියෙකු ද උණ රෝගී තත්ත්වයක් හේතුවෙන් ප්‍රතිකාර සඳහා මාතර රෝහලට ඇතුළත් කර තිබේ.
+The deceased has been identified as a 24 year old person, about three months ago.
 
-පසුගිය දෙසැම්බර් මාසයේ ද මාතර බන්ධනාගාරයෙන් මොලේ උණ රෝගීන් වාර්තා වූ අතර මරණ කිහිපයක් ද සිදුවුණි.
+It is suspected that the intention died due to brain fever and research.
+
+Another inmate at Matara Prison has also been admitted to the Matara Hospital for treatment due to a fever.
+
+In December, there were brain fever cases last December, several deaths were killed.
 
 ◼️
 
 [Data](articles/d4f6fc1f.json)
+
+[Extended Data](ext_articles/d4f6fc1f.ext.json)
 
 ---
 
@@ -91,6 +109,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/0da1bb69.json)
+
+[Extended Data](ext_articles/0da1bb69.ext.json)
 
 ---
 
@@ -985,6 +1005,26 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 [Data](articles/fabbfd92.json)
 
 [Extended Data](ext_articles/fabbfd92.ext.json)
+
+---
+
+### ’உலக வட துருவ நாடுகள் தோல்வியடைந்துள்ளன’
+
+*2024-05-21 01:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வட-துருவ-நாடுகள்-தோல்வியடைந்துள்ளன/175-337613) · `ta`
+
+உக்ரைனில் ஏற்படும் உயிர் அழிவுகளுக்கு நிதியளிக்க தயாராக இருக்கும், உலகளாவிய வட துருவ நாடுகள் காலநிலையால் ஏற்படும் அழிவுகளை தடுக்கும் பணிகளுக்கு நிதியளிக்க பின்வாங்குவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+
+இந்தோனேசியா, பாலி சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்றுவரும் 10 ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்விலேயே ஜனாதிபதி நேற்று இதனை வலியுறுத்தினார்.
+
+10 ஆவது உலக நீர் உச்சி மாநாட்டின் உயர்மட்ட அமர்வு நேற்று காலை இந்தோனேசிய ஜனாதிபதி ஜோகோ விடோடோ தலைமையில் நடைபெற்றது. இதில் உலக நாடுகள் பலவற்றின் தலைவர்கள், சம்பந்தப்பட்ட அமைச்சர்கள் மற்றும் சிறப்பு பிரதிநிதிகள் உள்ளிட்ட பலர் கலந்து கொண்டனர்.
+
+உச்சி மாநாட்டில் கலந்து கொண்ட அரச தலைவர்கள் உள்ளிட்ட பிரதிநிதிகளை இந்தோனேசிய ஜனாதிபதி சிநேகபூர்வமாக வரவேற்றார்.
+
+காலநிலை மாற்றத்தால் நீர் மூலங்களுக்கு ஏற்படும் அச்சுறுத்தல்களை எதிர்த்துப் போராடுவதற்கு பாரிய நிதி வசதிகள் தேவைப்படுகின்றன.
+
+...
+
+[Data](articles/8f0f409d.json)
 
 ---
 
@@ -2161,29 +2201,5 @@ The aim of the conference is to align the various nationalities worldwide for th
 [Data](articles/255e0440.json)
 
 [Extended Data](ext_articles/255e0440.ext.json)
-
----
-
-### Sri Lanka PA has not come to agree with the president on presidential election
-
-*2024-05-20 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184072) · `ta`
-
-Sri Lanka PA disagrees with the president over the timing of the presidential election, preferring a general election first to reveal political realities. They've chosen Ranil Wickremesinghe as interim president, awaiting a constitutional date for the vote. The former Russian Ambassador suggests dissolution in July, aligning with ex-President Mahinda Rajapakse's announcement plans.
-
-🟩
-
-We elected Ranil Wickremesinghe as the interim president. We will cooperate with him until the presidential election is held. Sri Lanka PA, General Secretary of the Sri Lanka PA, said that the president had not come to any compliance with the next presidential election.
-
-He was speaking at a media briefing held at the Sri Lanka PA's office on Monday (20).
-
-According to the Constitution, the presidential election will be held on the appropriate day. The President has not yet mentioned a favorable response, though we have proposed to the president's idea of holding a general election before the presidential election.
-
-If the general election is held before the presidential election, the true face of the politics of politics will be revealed.. This is why we demand the general election.
-
-...
-
-[Data](articles/c2486bcd.json)
-
-[Extended Data](ext_articles/c2486bcd.ext.json)
 
 ---

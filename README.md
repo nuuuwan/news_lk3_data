@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 06:19:03**
+As of **2024-05-21 06:57:59**
 
 ## Newspaper Stats
 
-*Scraped **25,327** Articles*
+*Scraped **25,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,169
 adaderanalk | 2,925
-tamilmirrorlk | 2,955
-virakesarilk | 3,829
+tamilmirrorlk | 2,956
+virakesarilk | 3,830
 dailymirrorlk | 3,973
-adaderanasinhalalk | 4,043
+adaderanasinhalalk | 4,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,317 (100.0%) of 25,327 articles have been extended.
+25,326 (100.0%) of 25,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### இஸ்ரேல் பிரதமர் ஹமாஸ் தலைவருக்கு எதிராக பிடியாணை- ஐசிசியின் வழக்குரைஞர் வேண்டுகோள்
+
+*2024-05-21 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184071) · `ta`
+
+2023 ஒக்டோபர் ஏழாம்; திகதிக்கு பின்னர் இடம்பெற்ற யுத்த குற்றங்கள் மனித குலத்திற்கு எதிரான குற்றங்களிற்காக இஸ்ரேலிய பிரதமருக்கும் ஹமாஸ் தலைவருக்கும் எதிராக பிடியாணையை பிறப்பிக்குமாறு சர்வதேச குற்றவியல் நீதிமன்றத்தின் வழக்குரைஞர் வேண்டுகோள் விடுத்துள்ளார்.
+
+சிஎன்என்னிற்கு வழங்கிய பேட்டியில் சர்வதேச குற்றவியல் நீதிமன்றத்தின் வழக்குரைஞர் கரிம்கான் இதனை தெரிவித்துள்ளார்.
+
+பெஞ்சமின் நெட்டன்யாகு இஸ்ரேலின் பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் ஹமாசின் தலைவர்கள் யஹ்யா சின்வர் முகமட் டெய்வ் இஸ்மாயில் ஹனியா ஆகியவர்களிற்கு எதிராக பிடியாணையை பிறப்பிக்குமாறு வேண்டுகோள் விடுத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0e17fe57.json)
+
+---
+
+### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+
+*2024-05-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196839) · `si`
+
+නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුළුවලින් බරව පවතිනු ඇති  බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+දිවයින හරහා විටින්විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f391695e.json)
+
+---
 
 ### Sri Lanka Medical Members of Parliament Resolution to discuss the policy of pharmaceuticals and health department employees
 
@@ -668,6 +706,22 @@ Under the Maritime Administration program for Sri Lanka Ports Authority (SLPA) e
 
 ---
 
+### மழையுடனான வானிலை தொடரும்
+
+*2024-05-21 01:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-337610) · `ta`
+
+தென்மேல் பருவப்பெயர்ச்சி ஆரம்பித்துள்ளதால் நாட்டில் காற்றுடன் கூடிய மழை தொடரும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+மேல் மற்றும் வடமேல் மாகாணங்களின் சில பகுதிகளில் 150 மில்லி மீற்றர்  வரை மழைவீழ்ச்சி பதிவாகக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+சப்ரகமுவ மாகாணம், காலி, மாத்தறை, கண்டி, நுவரெலியா மற்றும் மன்னார் மாவட்டங்களில் 100 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/9e990936.json)
+
+---
+
 ### Iran's president's death is shocking
 
 *2024-05-21 01:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதியின்-மறைவு-அதிர்ச்சிக்குரியது/175-337609) · `ta`
@@ -776,6 +830,8 @@ High Commission in Nairobi hosts International Vesak Day at UN Office
 
 [Data](articles/88be570f.json)
 
+[Extended Data](ext_articles/88be570f.ext.json)
+
 ---
 
 ### Ninewells Hospital demonstrates commitment to community with donation to NHSL’s new Ambulatory Care Building
@@ -787,6 +843,8 @@ Ninewells Hospital – the leader in neonatal, pediatric and family healthcare e
 ...
 
 [Data](articles/b2047f14.json)
+
+[Extended Data](ext_articles/b2047f14.ext.json)
 
 ---
 
@@ -810,6 +868,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/d038edb3.json)
 
+[Extended Data](ext_articles/d038edb3.ext.json)
+
 ---
 
 ### CIPM Great HR Debate 2024 to be held alongside the National HR Conference
@@ -821,6 +881,8 @@ CIPM Sri Lanka – the Nation’s leader in human resource management, will cond
 ...
 
 [Data](articles/a2ae258f.json)
+
+[Extended Data](ext_articles/a2ae258f.ext.json)
 
 ---
 
@@ -840,6 +902,8 @@ A total of 236 children were presented shoes and school bags at these schools by
 
 [Data](articles/ade5b8db.json)
 
+[Extended Data](ext_articles/ade5b8db.ext.json)
+
 ---
 
 ### Softlogic Life grows 20% in 1Q 2024, posts 7.2bn GWP
@@ -853,6 +917,8 @@ The burdens heaped on customers amidst numerous economic difficulties have been 
 ...
 
 [Data](articles/088fd182.json)
+
+[Extended Data](ext_articles/088fd182.ext.json)
 
 ---
 
@@ -915,6 +981,8 @@ Amid those developments both indices moved downwards. The All Share Price Index 
 ...
 
 [Data](articles/a9941050.json)
+
+[Extended Data](ext_articles/a9941050.ext.json)
 
 ---
 
@@ -1031,6 +1099,8 @@ President Wickremesinghe receives warm welcome at Gusti Ngurah Rai International
 ...
 
 [Data](articles/1b9db6b0.json)
+
+[Extended Data](ext_articles/1b9db6b0.ext.json)
 
 ---
 
@@ -2107,73 +2177,5 @@ She was handed over to the Police Narcotic Bureau officials in the airport for f
 [Data](articles/299c2e89.json)
 
 [Extended Data](ext_articles/299c2e89.ext.json)
-
----
-
-### Court prevents Wijedasa functioning as SLFP Chairman
-
-*2024-05-20 16:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-Wijedasa-functioning-as-SLFP-Chairman/108-282978) · `en`
-
-Colombo, May 20 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing Minister Wijeyadasa Rajapakshe PC and Attorney-at-Law Keerthi Udawatta from functioning as Sri Lanka Freedom Party (SLFP) Chairman and party Acting General Secretary respectively.
-
-Colombo District Court Judge Sandun Vithana made this order pursuant to a plaint filed by Sri Lanka Freedom Party (SLFP) parliamentarian Duminda Dissanayake.
-
-Chandaka Jayasundara PC with Counsel Amila E. Dissanayake appeared for the plaintiff and Romesh De Silva PC appeared for Minister Wijeyadasa Rajapakshe, while Kuvera de Zoysa PC appeared for Keerthi Udawatta. Shaheed Barrie appeared for Nimal Siripala de Silva and Pulasthi Rupasinghe appeared for Mahinda Amaraweera.
-
-◼️
-
-[Data](articles/8d6eed3d.json)
-
-[Extended Data](ext_articles/8d6eed3d.ext.json)
-
----
-
-### Sri Lanka stocks close down, bluechips hold value
-
-*2024-05-20 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-bluechips-hold-value-163806/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.69 percent, or 84.56 points, at 12,235; while the S&P SL20 Index closed down 0.64 percent, or 23.32 points, at 3,614.
-
-“The market was down, possibly a consolidation phase after last week’s run on penny stocks,” market participants said. “It’s also a short week.”
-
-“Additionally, there is the monetary policy review due next Tuesday so not a lot of buying interest overall.”
-
-However, bluechip stocks were holding their value, they said. “This is mainly because the earnings that are being posted are very good.”
-
-John Keells Holdings Plc was up at 206.00, Sampath Bank Plc was up at 78.00, and Hayleys Plc was up at 92.70.
-
-After Samapth Bank Plc, Dipped Products Plc saw the most active volumes (Rs84mn) traded in the day. The share closed up at 34.30.
-
-...
-
-[Data](articles/096fa92d.json)
-
-[Extended Data](ext_articles/096fa92d.ext.json)
-
----
-
-### Keheliya and seven others further remanded
-
-*2024-05-20 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99341/keheliya-and-seven-others-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella and seven others have been further remanded until June 03 by the Maligakanda Magistrate’s Court.
-
-They are facing charges related to the import of substandard human immunoglobulin vials.
-
-This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (20).
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
-
-...
-
-[Data](articles/c30ae02c.json)
-
-[Extended Data](ext_articles/c30ae02c.ext.json)
 
 ---

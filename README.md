@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 12:33:51**
+As of **2024-05-21 12:51:35**
 
 ## Newspaper Stats
 
-*Scraped **25,401** Articles*
+*Scraped **25,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,178
-adaderanalk | 2,932
+adaderanalk | 2,933
 tamilmirrorlk | 2,968
 virakesarilk | 3,833
 dailymirrorlk | 3,987
@@ -26,53 +26,71 @@ adaderanasinhalalk | 4,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,390 (100.0%) of 25,401 articles have been extended.
+25,401 (100.0%) of 25,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### කොළඹ ප්‍රධාන පාසලක් අසල ගසක් කඩා වැටෙයි
+### A tree collapses near Colombo main schools
 
 *2024-05-21 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196859) · `si`
 
-බොරැල්ල දේවි බාලිකා විද්‍යාලය අසල තිබූ විශාල ගසක් කඩා වැටීමෙන් මාර්ගය අවහිර වී තිබේ.
+A massive tree collapse near Colombo's Borella Devi Balika Vidyalaya blocked the road today, affecting traffic around the school area.
 
-අද (21) උදෑසන මෙම ගස කඩා වැටී ඇති අතර, ඒත් සමග මාර්ගය අවහිර වීමෙන් වාහන තදබදයක් ද ඇති වූ බව අප වාර්තාකරු පැවසීය.
+🟩
+
+The road was blocked by a large tree near the Borella Devi Balika Vidyalaya.
+
+The tree has collapsed today (21), but the road has also occurred.
 
 ◼️
 
 [Data](articles/5a1f1a32.json)
 
+[Extended Data](ext_articles/5a1f1a32.ext.json)
+
 ---
 
-### 2024 LPL ක්‍රීඩක වෙන්දේසිය (සජීව විකාශය)
+### 2024 LPL athletes (live telecast)
 
 *2024-05-21 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196858) · `si`
 
-2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය මේ වනවිට ආරම්භ කර තිබේ.
+Lanka Premier League's 2024 season kicks off with a live telecast, including the exciting player auction.
+
+🟩
+
+At least the Auction at the Lanka Premier League has commenced its auction.
 
 ◼️
 
 [Data](articles/f103b4c8.json)
 
+[Extended Data](ext_articles/f103b4c8.ext.json)
+
 ---
 
-### අධිකරණයට ඉදිරිපත් වූ ඩයනා ට ඇප
+### Diana released to court
 
 *2024-05-21 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196856) · `si`
 
-අධිකරණයට ඉදිරිපත් වු හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ ඇප මත මුදාහරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+Diana Gamage, a former State Minister, was granted bail by the Colombo Magistrate's Court due to the absence of CID officials during the monsoon season. The decision was made by Chief Magistrate Thilina Gamage after considering all parties involved.
 
-සියලු පාර්ශව ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-මෙම මෝසම කැදවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් අධිකරණයේ පෙනී සිටියේ නෑ.
+The Colombo Magistrate's Court set up the released on bail of former State Minister Dianna Gamage.
 
-ශ්‍රී ලංකා පුරවැසි භාවය නොමැතිව අසත්‍ය තොරතුරු ඉදිරිපත් කර විදේශ ගමන් බලපත්‍ර ලබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකකාරියක ලෙස නම් කර සිටින ඩයනා ගමගේ මහත්මිය සිය නීතිඥ වරු මාර්ගයෙන් අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කළේය.
+Colombo Chief Magistrate Thilina Gamage issued the order after considering all parties.
+
+When the monsoon was entered, the Criminal Investigations Department officials did not appear in court.
+
+The order was released by Mrs. Diana Gamage, who is named in court on the case of his lawyer through his lawyer.
 
 ◼️
 
 [Data](articles/8f2f3221.json)
+
+[Extended Data](ext_articles/8f2f3221.ext.json)
 
 ---
 
@@ -86,21 +104,47 @@ Former State Minister Diana Gamage has arrived at the Colombo Magistrate’s Cou
 
 [Data](articles/43966717.json)
 
+[Extended Data](ext_articles/43966717.ext.json)
+
 ---
 
-### ඩයනා නීතිඥයන් සමග පැමිණ අධිකරණයට බාර වෙයි
+### Former state minister Diana Gamage granted bail
+
+*2024-05-21 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99354/former-state-minister-diana-gamage-granted-bail) · `en`
+
+Former State Minister Diana Gamage has been released on bail after appearing before the Colombo Magistrate’s Court over allegedly obtaining a passport by producing false information.
+
+She had arrived at the Colombo Magistrate’s Court earlier today over accusations of obtaining a passport by submitting false information.
+
+The Criminal Investigations Department (CID) had yesterday submitted a report to the Colombo Chief Magistrate’s Court, naming the former State Minister as a suspect in the case pertaining to the obtaining of a diplomatic passport after providing false information.
+
+Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to take appropriate measures and report back to the court.
+
+◼️
+
+[Data](articles/ed305721.json)
+
+---
+
+### Diana will come with lawyers and surrenders to court
 
 *2024-05-21 11:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නීතිඥයන්-සමග-පැමිණ-අධිකරණයට-බාර-වෙයි/11-409759) · `si`
 
-හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය තම නීතිඥයන් සමග පැමිණ කොටුව මහේස්ත්‍රාත් අධිකරණයට භාර වී  මෝසමක් ඉදිරිපත් කර ඇත. ඇයගේ නීතිඥවරුන් සඳහන් කරන්නේ ඇය කිසිවිටක සැඟවී පළා නොගිය බවත් ඇය පොලිසිය සොයන බව මාධ්‍ය විසින් දුටු නිසා අධිකරණයට පැමිණි බවය.
+Diana Gamage surrendered to court with her lawyers, stating she sought police help. CID confirmed her residence visit but no arrest. She also banned herself from the Gamage family.
 
-අසත්‍ය තොරතුරු ඉදිරිපත් කරමින් විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිදුවීමට අදාළ සැකකාරියක ලෙස ඇය නම් කරමින් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව මේ බව අධිකරණය හමුවේ දැනුම් දී තිබුණි. කෙසේ වෙතත් ඊයේ දිනයේ ඇය පදිංචි ස්ථානයන් වෙත ගියද සැකකාරිය නොසිටි බවද ඔවුන් අධිකරණය දැනුම් දී  තිබුණි.
+🟩
 
-මේ වන විටත් ඩයනා ගමගේ මහත්මියට විදේශ ගතවීම තහනම් කරමින් නියෝගයක් නිකුත් කර තිබේ.
+Mrs. Diana Gamage came with his lawyers and surrendered to the Fort Magistrate's Court. Her lawyers mention that she was looking for the police and that she was looking for the police.
+
+The Criminal Investigations Department (CID) had stated in the court. However, even though he went to her residents yesterday, they had not had the suspect.
+
+Mrs. Diana Gamage has already issued an order to ban the Gamage.
 
 ◼️
 
 [Data](articles/c757bdb9.json)
+
+[Extended Data](ext_articles/c757bdb9.ext.json)
 
 ---
 
@@ -118,27 +162,35 @@ The auction will feature a collective purse of US $2.5 million from all five fra
 
 [Data](articles/15bf7f9d.json)
 
+[Extended Data](ext_articles/15bf7f9d.ext.json)
+
 ---
 
-### නාවිකයින්ට සහ ධීවරයින්ට රතු නිවේදනයක්
+### A red notice to sailor and fishermen
 
 *2024-05-21 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196855) · `si`
 
-තද වැසි සහ තද සුළං සහ රළු මුහුද පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+Heavy rain, strong winds, and rough seas are expected along Sri Lanka's coastal areas from Kalpitiya to Pottuvil, affecting navigation for sailors and fishermen. The Department of Meteorology advises against sailing until conditions improve.
 
-ඒ අනුව කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශවල ජනතාවට සැලකිලිමත් වන ලෙස දැනුම් දී තිබේ.
+🟩
 
-කොළඹ සිට ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70 දක්වා වැඩි වන අතර මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වේ.
+A warning red notice of heavy rain and strong winds and the rough sea has been issued.
 
-මෙම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙස නාවික හා ධීවර ප්‍රජාවන්ට ද දැනුම් දී තිබේ.
+Accordingly, the people of sea areas from Kalpitiya have been informed to concern the sea areas to Pottuvil via Pottuvil through Kalpitiya.
 
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3ක් පමණ ඉහළ යෑමේ හැකිවක් පවතින බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The seas of the sea areas off the coast extending from Colombo to Pottuvil via Pottuvil via Pottuvil is up to 60 - 70 hours.
 
-මේ හේතුවෙන් කොළඹ සිට ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකිවක් පවතී.
+Naval and fishing communities have been asked not to be sailed until they were notified until it was again informed to the sea.
+
+The Department of Meteorology announces that the sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil.
+
+As a result, the sea waves can be reached in Colombo to Matara via Galle.
 
 ◼️
 
 [Data](articles/59d75b7f.json)
+
+[Extended Data](ext_articles/59d75b7f.ext.json)
 
 ---
 
@@ -294,23 +346,31 @@ State Minister Ranjith Siyambalapitiya added that the country's reserves have 5.
 
 ---
 
-### තුවක්කුකරුවන් දෙදෙනෙකු නිවසට පැන පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කරයි
+### Two gunmen kills a person to take a man and shot a person
 
 *2024-05-21 11:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තුවක්කුකරුවන්-දෙදෙනෙකු-නිවසට-පැන-පුද්ගලයෙකුට-වෙඩි-තබා-ඝාතනය-කරයි/11-409758) · `si`
 
-කළුතර දකුණ කටුකුරුන්ද දුම්රිය පොළ පාරේ  නිවසකට පැන සිදුකළ වැඩිතැබිමකින් විවාහක තිදරු  පුද්ගලයෙක් මියගොස්  නිවසේ සිටි ඔහුගේ7 හැවිරි දියණිය තුවාල ලබා  කළුතර නාගොඩ ශික්ෂණ රෝහල වෙත 20 දින රාත්‍රියේම කළුතර නාගොඩ ශික්ෂණ රෝහල වෙත ඇතුළත් කර ඇතැයි  කළුතර දකුණ පොලිසිය පැවසීය .
+In Kalutara South, two gunmen killed a person, took another hostage, and shot him. The victim, Taskami Mawadha Silva (38), was identified. Investigations suggest the motive involved underworld and drug activities. Multiple law enforcement units are involved in the case.
 
-මෙසේ මියගොස් ඇත්තේ අසුරුමුණි තස්මින් මදුවන්ත සිල්වා නමැති (38) හැවිරිදි තිදරු පියකු බව පොලිසිය කීය.
+🟩
 
-මියගොස් ඇති පුද්ගලයා කටුකුන්ද දුම්රිය පොළ පාරේ පදිංචි නිවසෙහි දරු තිදෙනා සමග රාත්‍රි ආහාරය ලබා ගනිමින් සිට ඇති බවත්,යතුරුපැදියකින් පැමිණි  නාඳුනන දෙදෙනකු ටි 56අවියකින්වෙඩි තබා පලාගොස් ඇති බවත්  කළ පරීක්ෂණවලදී හෙලිව ඇතැයි ස සහකාර පොලිස් අධිකාරි දුමින්ද රාජපක්ෂ මහතා පැවසීය.
+Kalutara South Police have admitted to the Nagoda Teaching Hospital at the Nagoda Teaching Hospital at the Kalutara South Katukurunda railway station.
 
-ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදුකර ඇති බවට කළ පරීක්ෂණවලදී තහවුරු ඇතැයි පොලිස්  ඒ සම්බන්ධයෙන් වැඩිදුර විමර්ශනය කරන පොලිස් කණ්ඩායමසඳහන් කරයි.
+The deceased has been identified as Taskami Mawadha Silva (38), police said.
 
-මියගොස් ඇති පුද්ගලයාද අපරාධ රැසකට සම්බන්ධ පුද්ගලයකු බවද  පාතාල හා මත්ද්‍රව්‍ය ක්‍රියාකාරකමකට පලිගැනීමක් හේතුවෙන් මෙම ඝාතනය සිදුකරන්නට  ඇතැයිපොලිසිය සැක කරයි.
+Investigations have revealed that the deceased has been taken with the three children with three children on the house of the railway station at the railway station.
 
-...
+The police banding has investigated further investigations into investigations into the shooting of a T-56 rifle.
+
+The victim is also a crime and a crime, and it is suspected to carry out this murder due to a reputation of an underworld and drug activity.
+
+Kalutara Central Criminal Laboratory Officers, Kalutara Crimes Division, Division Criminal Investigation Unit, Special Police Teams and Special Task Force including Payrali Adacities in Kalutara are investigating.
+
+◼️
 
 [Data](articles/9bdb4131.json)
+
+[Extended Data](ext_articles/9bdb4131.ext.json)
 
 ---
 
@@ -1142,17 +1202,23 @@ Strong winds of about 50 kmph can be expected at times over the island.
 
 ---
 
-### இரங்கல் தெரிவித்தது அமெரிக்கா
+### The United States expressed his condolences
 
 *2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/50-337615) · `ta`
 
-"வடமேற்கு ஈரானில் ஹெலிகாப்டர் விபத்துக்குள்ளானதில் ஈரானிய. ஈரானிய அதிபர் இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர்-அப்துல்லாஹியன் மற்றும் அவர்களது தூதுக்குழு உறுப்பினர்களின் மரணத்திற்கு அமெரிக்கா தனது உத்தியோகபூர்வ இரங்கலைத் தெரிவிக்கிறது.
+The U.S. mourns the loss of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian, and their delegation in a helicopter crash. It reaffirms support for Iran's people in their quest for human rights and freedoms upon selecting a new leader.
 
-ஈரான் ஒரு புதிய அதிபரை தேர்ந்தெடுக்கும் போது, ஈரானிய மக்களுக்கும், மனித உரிமைகள் மற்றும் அடிப்படை சுதந்திரத்துக்கான அவர்களின் போராட்டத்திற்கும் எங்களது ஆதரவை மீண்டும் உறுதிப்படுத்துகிறோம்" என்று அதில் தெரிவித்துள்ளார்
+🟩
+
+“Iranian when helicopter crashes in northwestern Iran. The US expresses its official condolences to the death of Iranian President Ibrahim Raisi, Foreign Minister Amir-Abdullahian and their delegation.
+
+When Iran selects a new Chancellor, we reiterate our support for the Iranian people and their struggle for human rights and basic freedom. ”
 
 ◼️
 
 [Data](articles/62a0dcf3.json)
+
+[Extended Data](ext_articles/62a0dcf3.ext.json)
 
 ---
 
@@ -1269,6 +1335,8 @@ Sri Lanka has about 12 billion dollars of sovereign bonds to restructure and som
 ...
 
 [Data](articles/821674d7.json)
+
+[Extended Data](ext_articles/821674d7.ext.json)
 
 ---
 
@@ -2139,27 +2207,5 @@ Iran's spiritual leader has announced that he is concerned about the people of I
 [Data](articles/abf3ad9e.json)
 
 [Extended Data](ext_articles/abf3ad9e.ext.json)
-
----
-
-### The weather will continue with the rainfall
-
-*2024-05-21 01:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-337610) · `ta`
-
-Rainfall continues nationwide due to the start of the southwestern monsoon, with areas like Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, and Mannar expecting over 100mm.
-
-🟩
-
-The Department of Meteorology has predicted that rainfall in the country will continue as the southwestern monsoon has begun.
-
-The department said that rainfall is likely to be recorded up to 150 mm in some parts of the upper and northwestern provinces.
-
-The Department of Meteorology has predicted more than 100 mm of rainfall in Sabaragamuwa Province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts.. (A)
-
-◼️
-
-[Data](articles/9e990936.json)
-
-[Extended Data](ext_articles/9e990936.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 17:03:47**
+As of **2024-05-21 17:18:41**
 
 ## Newspaper Stats
 
-*Scraped **25,463** Articles*
+*Scraped **25,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,110 @@ newsfirstlk | 363
 islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
-adalk | 2,183
-adaderanalk | 2,940
+adalk | 2,185
+adaderanalk | 2,941
 tamilmirrorlk | 2,976
 virakesarilk | 3,851
-dailymirrorlk | 3,998
+dailymirrorlk | 3,999
 adaderanasinhalalk | 4,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,457 (100.0%) of 25,463 articles have been extended.
+25,463 (100.0%) of 25,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
+### Foreign Minister Ali Sabry to attend Iranian President Raisi’s funeral
+
+*2024-05-21 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99362/foreign-minister-ali-sabry-to-attend-iranian-president-raisis-funeral) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry will leave for Iran tonight to attend President Dr. Ebrahim Raisi’s funeral in Tabriz, Iran, the Ministry of Foreign Affairs said.
+
+◼️
+
+[Data](articles/7abc1318.json)
+
+---
+
+### One injured in Padaviya shooting, suspect arrested
+
+*2024-05-21 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-injured-in-Padaviya-shooting-suspect-arrested/108-283070) · `en`
+
+Colombo, May 21 (Daily Mirror)- A 41-year-old resident of Omarakada, Padaviya, was hospitalized after sustaining serious leg injuries in a shooting incident.
+
+The incident occurred in the Omarakada area in Padaviya, as confirmed by Padaviya police.
+
+According to hospital sources, the victim's left leg had suffered severe injuries, necessitating surgical intervention. The injured individual is reported to be in stable condition despite the gravity of the injury.
+
+Meanwhile, Police have identified the suspect as a 19-year-old fisherman residing near the victim's residence.
+
+Preliminary investigations suggest that the shooting stemmed from a personal dispute between the victim and the suspect.
+
+Following the incident, police swiftly apprehended the suspect and recovered the firearm believed to have been used in the shooting. The weapon, described as a flint-type firearm, was found in the possession of the arrested individual.
+
+◼️
+
+[Data](articles/6332a6a3.json)
+
+---
+
+### ලංකාවේ සමිතගෙන් ලෝක වාර්තාවක්
+
+*2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/11-409771) · `si`
+
+ජපානයේ පැවැත්වෙන ලෝක ශූරතා පැරා මලල ක්‍රීඩා ශූරතා තරගාවලයේදී F -44 හෙල්ල විසිකිරීමේ ඉසව්වෙන් සමිත සිය පළමු උත්සාහයේදී මීටර් 66.49 ක දක්ෂතාවක් වාර්තා කරමින් නව ලෝක වාර්තාවක් පිහිටුවීමට ශ්‍රී ලංකාවේ සමිත දුලාන් සමත්විය.
+
+◼️
+
+[Data](articles/84d1a500.json)
+
+---
+
 ### Sri Lanka’s inflation inches up marginally in April
 
 *2024-05-21 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99361/sri-lankas-inflation-inches-up-marginally-in-april) · `en`
 
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.7% in April 2024, compared to 2.5% in March 2024, according to the latest data release by the Department of Census and Statistics.
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.7% in April 2024, compared to 2.5% in March 2024, according to the latest data released by the Department of Census and Statistics.
 
 Meanwhile, food inflation has decreased to 3.3% in April 2024 compared to 5.0% in March 2024.
 
-◼️
+The NCPI for all items for the month of April 2024 is 208.2, which is a decrease of 1.8 index points or 0.89 per cent compared to March 2024 for which the index was 210.0.
+
+This decrease represents a decrease in expenditure value of Rs. 946.09 in the “market basket”.
+
+The overall rate of inflation as measured by the NCPI on a Year-over-Year basis was 2.796 in April 2024 and inflation calculated for March 2024 was 2.5%.
+
+On a monthly basis, the Year-on-Year inflation of the food group decreased to 3.3% in April 2024 from 5.0% in March 2024 and the Year-on-Year inflation of the non-food group increased to 2.3% in April 2024 from 0.7% in March 2024.
+
+...
 
 [Data](articles/c087593a.json)
 
+[Extended Data](ext_articles/c087593a.ext.json)
+
 ---
 
-### උද්ධමනයේ වැඩිවීමක්
+### An increase in inflation
 
 *2024-05-21 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196870) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 2024 මාර්තු මාසයේ දී වාර්තා වූ 2.5% සිට 2024 අප්‍රේල් මාසයේ දී 2.7% ක් දක්වා සුළු වශයෙන් ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනය කර සිටී.
+Inflation rose from 2.5% to 2.7% in March 2024, with food prices dropping slightly to 3.3%.
 
-එහිදී 2024 මාර්තු මාසයේ දී 5.0% ක්ව පැවති ආහාර කාණ්ඩයේ වාර්ෂික ලක්ෂ්‍යමය උද්ධමනය, 2024 අප්‍රේල් මාසයේ දී 3.3% ක් දක්වා පහළ ගොස් ඇත.
+🟩
+
+According to the National Customer Price Index (NCPI), the Department of Census and Statistics have announced that he increased by 2.5% to 2.7% in March 2024.
+
+The annual point of food category of food category of food in March 2024 has fallen to 3.3% in April 2024.
 
 ◼️
 
 [Data](articles/ed88d1a9.json)
+
+[Extended Data](ext_articles/ed88d1a9.ext.json)
 
 ---
 
@@ -77,6 +139,22 @@ The F-44 spear throwing event recorded a 66.49 meters in the first attempt at hi
 [Data](articles/5dabdb69.json)
 
 [Extended Data](ext_articles/5dabdb69.ext.json)
+
+---
+
+### කෝවිල් වැඳල එද්දි බැතිමතුන් සමග බස් රථය පෙරලී 6 කට බරපතලයි
+
+*2024-05-21 16:13:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-වැඳල-එද්දි-බැතිමතුන්-සමග-බස්-රථය-පෙරලී-6-කට-බරපතලයි/11-409769) · `si`
+
+කිලිනොච්චිය පුනරීන් පාලම ආසන්නයේදී අද (21) දින ධාවනය වූ පෞද්ගලික බස්රථයක් පෙරලී යම හේතුවෙන් එහි ගමන්ගත් මගීන් 06 දෙනෙකු බරපතල තුවාල ලබ ඇතැයි පුනරීන් පොලීසිය පැවසීය.
+
+මුලතිව් වට්ට්‍රාපලෙයි කෝවිලේ පැවති වර්ෂික දේව මෙහෙයක් වෙනුවෙන් යාපනයේ සිට පෞද්ගලික බස්රථයකින් පැමිණ දේව මෙහෙය අවසන් වීමෙන් පසුව නැවත යාපනය බලා යමින් සිටියදී මෙලෙස අනතුරට ලක් ඇත. බස්රථය අධික වේගයෙන් ගමන් කිරීමෙන් රියදුරුට වේගය පාලනය කරගැනීමට නෙහැකිව මාර්ගයෙන් ඉවතට පැන පෙරලී යන්නට ඇතැයි පොලීසිය සැක පල කර සිටියි.
+
+බස්රථය පෙරලීමෙන් එහි ගමන්ගත් මගීන් 6 දෙනෙකු තුවාල ලබා පුනරීන් රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා ඔවුන් කිලිනොච්චිය රෝහලට මාරු කොට යවා ඇති අතර පුනරීන් පොලීසිය වැඩිදුර පරික්ෂණ සිදු කරයි.
+
+◼️
+
+[Data](articles/9d81179a.json)
 
 ---
 
@@ -166,21 +244,27 @@ Dr. Kumara emphasized the need for vaccination to control the disease but noted 
 
 ---
 
-### 15 ஆயிரம் பேர் இராணுவத்திலிருந்து வெளியேறினர்
+### 15 thousand people left the army
 
 *2024-05-21 15:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆயிரம்-பேர்-இராணுவத்திலிருந்து-வெளியேறினர்/175-337645) · `ta`
 
-இராணுவத்தினர் சட்ட ரீதியாக சேவையில் இருந்து விலகுவதற்காக பிரகடனப்படுத்தப்பட்ட ஒரு மாத கால பொது மன்னிப்பு காலம் நேற்றுடன் (20) முடிவடைந்தது.
+An amnesty allowing 15,667 Sri Lankan soldiers to leave the military legally ended on December 20th. It was introduced on December 31st, 2023, for those absent without leave. Additionally, plans were made to facilitate the legal withdrawal of 373 soldiers stationed abroad without taking leave.
 
-இதற்கமைய குறித்த காலப்பகுதியில் 15,667 இராணுவத்தினர் சட்ட ரீதியாக சேவையில் இருந்து விலகியுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+🟩
 
-டிசம்பர் 31, 2023 அன்று மற்றும் அதற்கு முன் விடுமுறை இல்லாமல் பணிக்கு சமூகமளிக்காத இராணுவ உறுப்பினர்களுக்கு இந்த பொது மன்னிப்பு காலம் அறிவிக்கப்பட்டது.
+The one -month -old amnesty, which was declared to quit the military legally, ended yesterday (20).
 
-இதேவேளை, மேற்படி காலப்பகுதியில் விடுமுறையின்றி கடமைக்கு சமூகமளிக்காமல் தற்போது வெளிநாட்டில் இருக்கும் 373 இராணுவத்தினரை சட்டரீதியாக இராணுவ சேவையில் இருந்து விலகுவதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+The Sri Lankan military has announced that 15,667 soldiers have quit legally.
+
+On December 31, 2023, this amnesty period was announced to military members who did not attend without a holiday.
+
+Meanwhile, arrangements have been made to legally withdraw 373 soldiers abroad without leaving the duty without holidays.
 
 ◼️
 
 [Data](articles/1ef66832.json)
+
+[Extended Data](ext_articles/1ef66832.ext.json)
 
 ---
 
@@ -284,25 +368,31 @@ The strike said that the strike officials stated that the officers who rely on t
 
 ---
 
-### நிலவும் காலநிலை தொடர்பில் சிவப்பு எச்சரிக்கை
+### Red alarm regarding prevailing climate
 
 *2024-05-21 15:23:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலவும்-காலநிலை-தொடர்பில்-சிவப்பு-எச்சரிக்கை/175-337644) · `ta`
 
-நாட்டில் நிலவும் பலத்த மழை ,காற்று மற்றும் கடல் சீற்றம் காரணமாக சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+A red alert warns of severe weather conditions across coastal regions from Kalpitiya to Pottuvil, including high winds (60-70 km/h) and dangerous sea waves. Coastal residents and fishermen are advised to stay off the seas until further notice.
 
-இதன்படி, கல்பிட்டியில் இருந்து கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரப் பகுதிகளில் உள்ள மக்கள் அவதானமாக இருக்குமாறு அறிவித்தல் விடுக்கப்பட்டுள்ளது.
+🟩
 
-கொழும்பில் இருந்து காலி மற்றும் ஹம்பாந்தோட்டை முதல் பொத்துவில் வரை காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 60-70 கிலோ மீற்றர் வரை அதிகரித்து வீசுவதுடன் கடற்பரப்பு அவ்வப்போது மிகவும் கொந்தளிப்பாகவும் காணப்படும்.
+Red warning has been issued due to heavy rains, wind and sea rage in the country.
 
-மேலும், மறு அறிவித்தல் விடுக்கப்படும் வரை குறித்த கடற்பகுதியில் பயணிக்க வேண்டாம் என கடல் மற்றும் மீனவர்கள் கேட்டுக்கொள்ளப்பட்டுள்ளனர்.
+Accordingly, people in the coastal areas from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota have been notified.
 
-கல்பிட்டியில் இருந்து கொழும்பு, காலி, ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடற்பரப்புகளில் கடல் அலைகள் 2.5 - 3 மீற்றர் வரை எழக்கூடிய சாத்தியம் காணப்படுவதாகவும் வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The wind speeds from Colombo to Galle and Hambantota to Pottuvil are increasing from time to time to 60-70 km / h.
 
-இதன் காரணமாக கொழும்பில் இருந்து காலி ஊடாக மாத்தறை வரை கடல் அலைகள் கரையை வந்தடையும் சாத்தியம் காணப்படுகின்றது.
+Also, sea and fishermen have been asked not to travel in the seas until the re -notice is issued.
+
+The Department of Meteorology has also announced that there is a possibility that sea waves can arise from Kalpitiya to Colombo, Galle and Hambantota via Pottuvil.
+
+Due to this, it is possible to reach the shore of sea waves from Colombo to Matara via Galle.
 
 ◼️
 
 [Data](articles/7a184df3.json)
+
+[Extended Data](ext_articles/7a184df3.ext.json)
 
 ---
 
@@ -330,21 +420,27 @@ Meanwhile, the Attorney General has been advised by the Attorney General to take
 
 ---
 
-### டயனாவுக்கு எதிராக  குற்றவியல் வழக்கு?
+### Criminal case against Danaya?
 
 *2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவுக்கு-எதிராக-குற்றவியல்-வழக்கு/175-337643) · `ta`
 
-காணாமல் போயிருந்ததாகக் கூறப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே, நீதிமன்றில் செவ்வாய்க்கிழமை (21)  முன்னிலையாகியிருந்தார்.
+Diana Kamage, a former State Minister, is now a suspect in a criminal case. The Colombo Chief Magistrate ordered her to be named as such after reviewing evidence from the Criminal Investigation Department. This follows advice from the Attorney General to proceed with legal actions against her.
 
-குறித்த குற்றச்சாட்டு தொடர்பில் டயனா கமகேவை சந்தேகநபராகப் பெயரிடுமாறு நீதிமன்றம் நேற்று(20) உத்தரவிட்டிருந்தது.
+🟩
 
-குற்றப்புலனாய்வு திணைக்களத்தினால் நீதிமன்றில் திங்கட்கிழமை (20) முன்வைக்கப்பட்ட விடயங்களை ஆராய்ந்த பின்னர் கொழும்பு பிரதம நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+Former State Minister Diana Kamage, who was reported missing, was present in court on Tuesday (21).
 
-இதனிடையே, முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தொடர்பில் குற்றவியல் வழக்கு ஏற்பாடுகளின் அடிப்படையில் நடவடிக்கை எடுக்குமாறு சட்டமா அதிபரால் குற்றப்புலனாய்வு திணைக்களத்திற்கு ஆலோசனை வழங்கப்பட்டுள்ளது.
+The court yesterday (20) ordered Diana Kamage to be named as the suspect.
+
+Colombo Chief Magistrate Thilina Kamage issued the order after examining issues presented by the Criminal Investigation Department in court on Monday (20).
+
+Meanwhile, the Attorney General has been advised by the Attorney General to take action on the basis of criminal cases regarding former Minister of State Diana Kamage.
 
 ◼️
 
 [Data](articles/f77a63f0.json)
+
+[Extended Data](ext_articles/f77a63f0.ext.json)
 
 ---
 
@@ -655,6 +751,8 @@ Due to the inclement weather, several trees in the Colombo city areas were uproo
 ◼️
 
 [Data](articles/28ff9b21.json)
+
+[Extended Data](ext_articles/28ff9b21.ext.json)
 
 ---
 
@@ -2233,87 +2331,5 @@ Several cases of brain fever had been reported from the Matara Prison in Decembe
 [Data](articles/2d3b48ae.json)
 
 [Extended Data](ext_articles/2d3b48ae.ext.json)
-
----
-
-### Overview: Strengthening the Notice of Law
-
-*2024-05-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184101) · `ta`
-
-Public legal literacy in Sri Lanka involves understanding laws, legal systems, and rights. Despite no specific studies measuring literacy levels, initiatives like the World Justice Program's Open Government Index suggest improvements are needed. Legal literacy programs should focus on practical applications to motivate learning and engagement, drawing parallels from sports and games where rules are inherently understood and followed for successful outcomes.
-
-🟩
-
-Let us first notice what literacy is in any field. Literacy. In addition, this includes the ability to use this knowledge in practical or appropriate environments.
-
-Since we are paying attention to public legal literacy at the grassroots level of Sri Lanka, it is important to clearly define what is general legal literacy.
-
-General legal literacy refers to public understanding and awareness about law, legal systems and legal rights. This includes basic legal principles, rights under the law and knowledge of the ability to guide the legal structure. Moreover, public legal literacy is helping people to identify legal issues, understand their legal rights and take appropriate action to solve legal issues.
-
-...
-
-[Data](articles/0509e611.json)
-
-[Extended Data](ext_articles/0509e611.ext.json)
-
----
-
-### Court Regardment of Diana
-
-*2024-05-21 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196848) · `si`
-
-Sri Lanka's CID ordered to report State Minister Diana Gamage, who lacks citizenship, to the judiciary. The directive came from Chief Magistrate Thilina Gamage.
-
-🟩
-
-The Criminal Investigation Department (CID) yesterday (20) ordered the CID to report the right to the judiciary against State Minister Diana Gamage without citizenship of Sri Lanka.
-
-The order was issued by the Chief Magistrate Thilina Gamage, Colombo Chief Magistrate Thilina Gamage.
-
-◼️
-
-[Data](articles/a38b6fce.json)
-
-[Extended Data](ext_articles/a38b6fce.ext.json)
-
----
-
-### Adverse weather: More than 33,000 people in 10 districts affected
-
-*2024-05-21 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-More-than-33-000-people-in-10-districts-affected/108-283020) · `en`
-
-Colombo, May21 (Daily Mirror) - More than 33,000 people in ten districts have been affected due to adverse weather conditions around the country, Disaster Management Centre (DMC) Director Pradeep Kodippili said.
-
-Accordingly, people in Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Jaffna, Kalutara, Puttalam and Gampaha have been affected.
-
-A total of 1,827 people have been sent to eleven temporary safe locations and relief programmes for them are underway, he said.
-
-Meanwhile, 52 people from nine families in the Thimbirigasyaya area of Colombo were affected last night due to sudden floods.
-
-He also said that 100mm of rain was reported from every area of the country and Haldumulla, Haputale, Hali Ela, Badulla and Ella areas of the Badulla district had been issued with level one landslide early warning alerts.
-
-...
-
-[Data](articles/76aba51a.json)
-
-[Extended Data](ext_articles/76aba51a.ext.json)
-
----
-
-### Sri Lanka and Indonesia pledge stronger bilateral ties and economic cooperation
-
-*2024-05-21 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99349/sri-lanka-and-indonesia-pledge-stronger-bilateral-ties-and-economic-cooperation) · `en`
-
-In a significant bilateral meeting during the 10th World Water Summit, President Ranil Wickremesinghe and Indonesian President Joko Widodo reaffirmed their commitment to strengthening the longstanding relationship between their nations.
-
-The discussions, which covered a wide range of regional and international issues, underscored the importance of collaboration in addressing global challenges, the President’s Media Division reported.
-
-President Wickremesinghe, in his opening remarks, highlighted the historical ties between Sri Lanka and Indonesia, dating back to their joint participation in the 1956 Bandung Conference. He expressed appreciation for President Widodo’s leadership in regional, international, and bilateral matters, noting the importance of such summits in fostering global cooperation.
-
-...
-
-[Data](articles/c6bc2705.json)
-
-[Extended Data](ext_articles/c6bc2705.ext.json)
 
 ---

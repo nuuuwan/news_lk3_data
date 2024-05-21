@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 20:18:23**
+As of **2024-05-21 20:34:05**
 
 ## Newspaper Stats
 
-*Scraped **25,512** Articles*
+*Scraped **25,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,78 @@ adalk | 2,187
 adaderanalk | 2,944
 tamilmirrorlk | 2,978
 virakesarilk | 3,863
-dailymirrorlk | 4,008
+dailymirrorlk | 4,009
 adaderanasinhalalk | 4,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,504 (100.0%) of 25,512 articles have been extended.
+25,512 (100.0%) of 25,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### දුම්රිය මාර්ගයට ගසක් කඩා වැටෙයි
+### Corrine Almeida obtains enjoining order against Romaine Willis and DJ Mass on song ’’Eh Yaye’’
+
+*2024-05-21 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corrine-Almeida-obtains-enjoining-order-against-Romaine-Willis-and-DJ-Mass-on-song-Eh-Yaye/108-283074) · `en`
+
+Colombo, May 21 (Daily Mirror)- The Commercial High Court has issued an enjoining order restraining singer Romaine Willis and Mass Ramli Miskin alias DJ Mass from performing, reproducing and distributing the songs titled "Eh Yaye" and “Api Natamu".
+
+The Colombo Commercial High Court Judge Priyantha Fernando made this order after considering a plaint filed by popular artist and music performer Corrine Almeida under the Intellectual Property Act.
+
+Meanwhile, the Court further issued notice of injunction and summons on the defendants returnable for May 31.
+
+In her plaint, the plaintiff Corrine Almeida stated that she is the owner of the copyright and economic rights to the musical composition and lyrics of the song titled "Api Natamu".
+
+The plaintiff had named executive producer of the audiovisual work "Eh Yaye" Mass Ramli Miskin and singer Romaine Willis as defendants.
+
+...
+
+[Data](articles/6ef65351.json)
+
+---
+
+### A tree collapses on railway line
 
 *2024-05-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196878) · `si`
 
-කොට්ටාව සහ පන්නිපිටිය අතර දුම්රිය මාර්ගයට මෙලෙස ගසක් කඩාවැටී ඇති බව වාර්තා වෙයි.
+A tree collapse caused the railway line between Kottawa and Pannipitiya to shut down. Trains now run on the Kelanveli line instead.
 
-ඒ හේතුවෙන් කැලණිවැලි දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බධා එල්ලවී තිබේ.
+🟩
+
+The railway line between Kottawa and Pannipitiya have been collapsed.
+
+Due to this, the railway line has been launched to operate the train on the Kelanveli railway line.
 
 ◼️
 
 [Data](articles/1f3116ff.json)
 
+[Extended Data](ext_articles/1f3116ff.ext.json)
+
 ---
 
-### புத்தளம் மாவட்டத்தில் உள்ள பாடசாலைகள் நாளை திறப்பு
+### Schools in Puttalam District
 
 *2024-05-21 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184172) · `ta`
 
-தென்மேற்கு பருவமழை தீவிரமடைந்துள்ளதால் நாட்டின் பல பகுதிகளில் கனமழை பெய்து வருகிறது. இதன் காரணமாக புத்தளம் மாவட்டமே இதுவரை அதிகம் பாதிக்கப்பட்டுள்ளது.
+In Puttalam District, heavy rains from the southwest monsoon have caused school closures on the 20th and 21st, but they plan to reopen soon. The decision rests with the Regional Education Director, who has authority over disaster areas.
 
-எவ்வாறாயினும், அந்த மாவட்டத்தில் உள்ள பாடசாலைகள் 20, 21 ஆம் திகதிகள் மூடப்பட்டிருந்த போதிலும் நாளை 22 ஆம் திகதி வழமை போன்று மீண்டும் திறக்கப்படும் என பிராந்தியக் கல்விப் பணிப்பாளர் தெரிவித்துள்ளார்.
+🟩
 
-பேரிடர் பகுதிகளில் பள்ளிகள் திறக்கப்படுமா? இல்லை? என்பதை பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு முடிவெடுக்கும் அதிகாரம் வழங்கப்பட்டுள்ளமை இங்கு குறிப்பிடத்தக்கது.
+Heavy rains are reported in many parts of the country as the southwest monsoon intensifies. Due to this, the Puttalam district has been the most affected.
+
+However, the schools in the district will be closed on the 20th and 21st, but will be reopened as usual tomorrow, the Regional Education Director said.
+
+Will schools open in disaster areas?No?It is noteworthy that the Director of Education has been given the power to decide.
 
 ◼️
 
 [Data](articles/5e68718b.json)
+
+[Extended Data](ext_articles/5e68718b.ext.json)
 
 ---
 
@@ -104,17 +136,23 @@ However, Galle Marvels raised the stakes and took it to USD 100,000 straightaway
 
 ---
 
-### ஈரான் ஜனாதிபதியின் இறுதிச் சடங்கில் கலந்துகொள்ள அமைச்சர் அலி சப்ரி ஈரான் செல்கிறார்
+### Minister Ali Sabri travels to Iran to attend the funeral of the Iranian president
 
 *2024-05-21 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184171) · `ta`
 
-இதன்படி, ஈரான் ஜனாதிபதியின் இறுதிச் சடங்கில் கலந்துகொள்வதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி 21 ஆம் திகதி செவ்வாய்க்கிழமை இரவு நாட்டை விட்டுச் செல்லவுள்ளார்.
+Foreign Minister Ali Sabri departs for Iran to mourn the passing of its president, drawing attention from both officials and citizens at the embassy.
 
-ஈரான் ஜனாதிபதியின் மரணம் தொடர்பில் இந்நாட்டு அரசியல்வாதிகள் மற்றும் பொதுமக்களும் ஈரான் தூதரகத்தில் தமது இரங்களை தெரிவித்திருந்தமை குறிப்பிடத்தக்கது
+🟩
+
+Accordingly, Foreign Minister Ali Sabri will leave the country on Tuesday night to attend the Iranian president's funeral.
+
+It is noteworthy that politicians and civilians in this country have expressed their gaze at the Iranian embassy regarding the death of the Iranian president.
 
 ◼️
 
 [Data](articles/524cafd0.json)
+
+[Extended Data](ext_articles/524cafd0.ext.json)
 
 ---
 
@@ -192,39 +230,51 @@ People engaged in their daily chores have been affected by the adverse weather. 
 
 ---
 
-### தொடர்ச்சியாக பெய்துவரும் மழை காரணமாக யாழ்ப்பாணத்தில் 5 குடும்பங்கள் பாதிப்பு!
+### 5 families in Jaffna due to continuous rains
 
 *2024-05-21 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184170) · `ta`
 
-தொடர்ச்சியாக பெய்துவரும் மழை காரணமாக இதுவரை யாழ்ப்பாணத்தில் ஐந்து குடும்பங்களைச் சேர்ந்த 15 பேர்  பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+Continuous rains in Jaffna have affected 15 individuals across five families, damaging homes and structures in various divisions.
 
-நல்லூர் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/91 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த 4 பேர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் சேதமடைந்துள்ளது.
+🟩
 
-வேலணை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/33 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த ஒரு அங்கத்தவர் பாதிக்கப்பட்டுள்ளதுடன்வீடு ஒன்றும் சேதமடைந்துள்ளது. ஜே/26 கிராம சேவகர் பிரிவிலும் ஜே/21 கிராம சேவகர் பிரிவிலும் அடிப்படை கட்டமைப்பு ஒவ்வொன்று சேதமடைந்துள்ளதுள்ளன.
+RN Suriyarajah, Deputy Director of the Jaffna District Disaster Management Division, said that 15 people from five families in Jaffna have been affected by the continuous rains.
 
-தெல்லிப்பழை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/232 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+In the J/91 Grama Niladhari Division of the Nallur Divisional Secretariat, four members of a family have been affected and a house has been damaged.
 
-யாழ்ப்பாணம் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/166 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+A member of a family in the J/33 Grama Niladhari Division, which belongs to the Velanai Divisional Secretariat, has been damaged.. The basic structure of the J/26 Grama Niladhari Division and the J/21 Grama Niladhari Division has been damaged.
+
+Two members of a family have been affected and a house has been partially damaged in the J/232 Grama Niladhari Division, which belongs to the Tellippalai Divisional Secretariat Division.
+
+Two members of a family have been affected and a house has been partially damaged in the J/166 Grama Niladhari Division of the Jaffna Divisional Secretariat Division.
 
 ...
 
 [Data](articles/a94ba62c.json)
 
+[Extended Data](ext_articles/a94ba62c.ext.json)
+
 ---
 
-### இந்தியாவில் எந்த அரசாங்கம் வரினும் இணைந்து செயலாற்றுவோம் - வெளிவிவகார அமைச்சர் அலி சப்ரி
+### In India, we will work together - Foreign Minister Ali Sabri
 
 *2024-05-21 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184169) · `ta`
 
-இந்திய மக்களவைத் தேர்தல்கள் அந்நாட்டின் உள்ளக விவகாரம் எனவும், அதில் இந்தியர்களே தீர்மானிக்கும் சக்தி எனவும் தெரிவித்திருக்கும் வெளிவிவகார அமைச்சர் அலி சப்ரி, மக்களால் தெரிவுசெய்யப்படும் எந்தவொரு அரசாங்கத்துடனும் தாம் இணைந்து செயலாற்றத் தயாராக இருப்பதாகக் குறிப்பிட்டுள்ளார்.
+Foreign Minister Ali Sabri emphasizes India-Sri Lanka cooperation, highlighting shared interests and the opening of the IRC Ratnadeepa Star Hotel in Colombo to boost tourism. He expresses readiness to work with any Indian government post-elections, emphasizing the importance of bilateral ties and economic growth for both nations.
 
-இந்திய ஊடகமொன்றுக்கு வழங்கியிருக்கும் நேர்காணலிலேயே அமைச்சர் அலி சப்ரி மேற்கண்டவாறு தெரிவித்துள்ளார். அதில் அவர் மேலும் கூறியிருப்பதாவது;
+🟩
 
-இலங்கை - இந்தியாவுக்கு இடையில் நீண்டகாலமாக பல்துறை சார்ந்த வலுவான ஒத்துழைப்பு காணப்படுகின்றது. இருநாடுகளுக்கும் பொதுவான பரஸ்பர நலன்களை முன்னிறுத்தி இணைந்து பணியாற்றுகின்றோம். கொழும்பில் ஐ.ரி.சி ரத்னதீப நட்சத்திர ஹோட்டல் திறக்கப்பட்டுள்ளது. இது மேலும் பல இந்தியர்கள் இலங்கைக்கு வருகைதருவதற்கான வாய்ப்புக்களை உருவாக்கும். அதேபோன்று துறைமுகம், புதுப்பிக்கத்தக்க வலுசக்தி மற்றும் உட்கட்டமைப்பு வசதிகள் போன்றவற்றில் மேலும் முதலீடுகளை எதிர்பார்க்கின்றோம். இந்தியா 'பொருளாதார சுபீட்சத்தை' நோக்கி நடைபோடுகின்றது. அது இப்பிராந்தியத்துக்கும், இலங்கை போன்ற நாடுகளுக்கும் நன்மையளிப்பதாகவே அமையும்.
+External Affairs Minister Ali Sabri has said that the Indian Lok Sabha elections are the internal affairs of the country and the power to decide the Indians, saying that he is ready to work with any government elected by the people.
+
+Minister Ali Sabri said in an interview with an Indian media. In it he added:
+
+There is a long -standing versatile cooperation between Sri Lanka and India. We work together to advance the common mutual interests for both countries. IRC Ratnadeepa Star Hotel has been opened in Colombo. This will create opportunities for many Indians to visit Sri Lanka. Similarly, we are looking for more investments in the port, renewable strength and infrastructure facilities. India is walking towards 'economic prosperity'. It will benefit the region and countries like Sri Lanka.
 
 ...
 
 [Data](articles/4febd692.json)
+
+[Extended Data](ext_articles/4febd692.ext.json)
 
 ---
 
@@ -356,19 +406,25 @@ Srithar was previously at the Singapore Tourism Board (STB). He served as the Ar
 
 ---
 
-### புதுப்பிக்கத்தக்க வலுசக்தி ஒத்துழைப்பை ஆராய தாய்லாந்து தூதுக்குழு இலங்கை விஜயம்
+### Thai delegation visited Sri Lanka to investigate renewable power cooperation
 
 *2024-05-21 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184147) · `ta`
 
-புதுப்பிக்கத்தக்க வலுசக்தி ஒத்துழைப்பை ஆராய்வதற்காக தாய்லாந்து அதிகாரிகள் மற்றும் தனியார் துறை பிரதிநிதிகள் அடங்கிய உயர்மட்டக் குழுவொன்று நாட்டுக்கு விஜயம் செய்துள்ளதோடு, மின்சக்தி மற்றும் வலுசக்தி அமைச்சில் விசேட கலந்துரையாடலொன்றிலும் கலந்து கொண்டதாக அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+A Thai delegation, led by Minister Kanjana Wijesekera, visited Sri Lanka to explore renewable energy collaboration. The visit included discussions on power sector policies, investment in renewables, and potential green hydrogen projects. Representatives from various Thai companies and sectors attended, aiming to strengthen bilateral energy ties.
 
-வெளியுறவுகள் அமைச்சு, வலு சக்தி அமைச்சு, தாய்லாந்து தூதரகம், தாய்லாந்து மின்னுற்பத்தி நிறுவனம், பி.டி.டி. நிறுவனம் மற்றும் குளோபல் பவர் சினெர்ஜி பப்ளிக் கம்பெனி லிமிடெட் உட்பட பல்வேறு தாய்லாந்து நிறுவனங்கள் மற்றும் தனியார் துறை அதிகாரிகள் இதில் பங்கேற்றுள்ளனர்.
+🟩
 
-தாய்லாந்து பிரதமரின் அறிவுறுத்தலின் பேரில், எதிர்கால ஒத்துழைப்பு மற்றும் புதுப்பிக்கத்தக்க வலுசக்தியில் முதலீடு செய்வதற்கான சாத்தியக்கூறு மற்றும் அவற்றை மதிப்பிடுவதற்காக, குறிப்பாக மின்சார உற்பத்தியில் கவனம் செலுத்துவதற்காக இப்பிரதிநிதிகள் குழு இலங்கை வந்துள்ளதாக அமைச்சர் தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் தெரிவித்துள்ளார்.
+Minister Kanjana Wijesekera said that a high -level committee comprising Thailand officials and private sector representatives has visited the country to investigate renewable strength cooperation and participated in a special discussion at the Ministry of Power and Power and Energy.
+
+Foreign Ministry, Ministry of Power, Thailand Embassy, Thailand Electricity Company, BTT. Various Thailand companies and private sector officials, including the company and the Global Power Sinherji Public Company Limited, were present.
+
+On the instructions of the Prime Minister of Thailand, the Minister said on his official Twitter page that a group of people in Sri Lanka had come to Sri Lanka to focus on the possibility of investing in future cooperation and renewable strength and especially to focus on electricity generation.
 
 ...
 
 [Data](articles/973d2306.json)
+
+[Extended Data](ext_articles/973d2306.ext.json)
 
 ---
 
@@ -1038,41 +1094,57 @@ In a statement, the embassy said it has noted increased external pressure on Sri
 
 ---
 
-### ஓய்வுபெற்ற படை வீரர்களுக்கான சுகாதார வசதிகள் தொடர்பில் விசேட கலந்துரையாடல்
+### Special discussion on health facilities for retired soldiers
 
 *2024-05-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184140) · `ta`
 
-ஓய்வுபெற்ற படைவீரர்கள் அரச வைத்தியசாலைகளில் சுகாதார வசதிகளை பெற்றுக்கொள்வதில் எதிர்நோக்கும் பிரச்சினைகளுக்கு தீர்வுகாண பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் சுகாதார அமைச்சரை சந்தித்து கலந்துரையாடியுள்ளார்.
+Minister Bandara Bandara led a meeting with the Health Minister to address healthcare challenges faced by retired veterans and their families in Sri Lanka's government hospitals. The discussion highlighted the decline in social acceptance towards soldiers post-war and the significant delays in receiving medical care, especially for those needing to travel long distances. Plans to reintroduce 'springs' cards were proposed to prioritize veteran access to healthcare services.
 
-தாய்நாட்டின் ஆட்புல ஒருமைப்பாட்டைப் பாதுகாப்பதற்காகப் போராடி உயிர் தியாகம் செய்த ஆயுதப்படை வீரர்களின் குடும்ப உறுப்பினர்களும், ஓய்வுபெற்ற பாதுகாப்பு ப்படை வீரர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களும் அரச மருத்துவமனைகளில் இருந்து சுகாதார வசதிகளைப் பெறுவதில் பல்வேறு சிரமங்களை எதிர்கொள்வதை பல சந்தர்ப்பங்களில் அவதானிக்க முடிகிறது.
+🟩
 
-பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தலைமையில் இலங்கை இராணுவத்தினால் ஏற்பாடு செய்யப்பட்ட விசேட நிகழ்வுகளில் படைவீரர்களின் நலன் மற்றும் நிர்வாக விடயங்கள் தொடர்பில் ஆராய்வதற்காக முன்வைக்கப்பட்ட பிரச்சினைகளில் இந்த விடயம் முதன்மையானது.
+The Minister of Defense Bandara Bandara has met with the Health Minister in awe of the Minister of Defense to address the problems faced by retired Veterans in government hospitals.
+
+On many occasions, the family members of the armed forces, retired security personnel and their family members who have sacrificed their lives to protect the unity of the homeland are facing various difficulties in obtaining health facilities from state hospitals.
+
+This is the first of the issues put forward to investigate the welfare and administrative issues of the soldiers at special events organized by the Sri Lankan military under the leadership of Defense Minister Bandara Thennakoon.
+
+During the war and for a few years after the end of the war, social acceptance of soldiers and their families was at a higher level. But today it is gradually declining. Some even forgot the war in this country.
 
 ...
 
 [Data](articles/58aa5453.json)
 
+[Extended Data](ext_articles/58aa5453.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் அடுத்த மாதம் முக்கிய அறிவிப்பை வெளியிடுவார் -  அமைச்சர் மனுஷ
+### President Ranil will make a major announcement next month - Minister Manusha
 
 *2024-05-21 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184143) · `ta`
 
-ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க போட்டியிடுவது உறுதி. அது தொடர்பான உத்தியோகபூர்வ அறிவிப்பை அடுத்த மாதம்  அறிவிப்பார்.  தேர்தலுக்கு அனைத்து நடவடிக்கைகளும் தயார் என அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Minister Manusha Nanayakkara announced that President Ranil Wickremesinghe will make a significant announcement next month, likely regarding his candidacy for the upcoming presidential election. The government is fully prepared for the election, with various political parties expressing differing opinions. Despite opposition from the United People's Shakti campaign, which claims Wickremesinghe won't run, supporters of the United People's Power, including the UNP, are expected to back him due to his leadership and efforts to address national issues.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (21) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் அடுத்த எந்த தேர்தல் இடம்பெறப்போகிறது என்ற விடயம் தற்போது அனைவராலும் பேசப்பட்டு வரும் விடயமாக மாறி இருக்கிறது. அதுதொடர்பில் பல்வேறு தரப்பினரும் மாறுபட்ட கருத்துக்களை தெரிவித்து வருகின்றனர்.
+Ranil Wickremesinghe is sure to contest the presidential election. He will announce an official announcement next month.Minister Manusha Nanayakkara said that all measures are ready for the election.
 
-ஆனால் அடுத்து முதலாவதாக இடம்பெற இருப்பது ஜனாதிபதி தேர்தலாகும். அதற்காக  நாங்களும் ஏனைய கட்சிகளும் தயாராகி வருகின்றன.
+He was speaking at a press conference held at the UNP headquarters Sirikotha on Tuesday (21).
 
-அதேபோன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக்க தேவையான நடவடிக்கைகளை நாங்கள் மேற்கொண்டு வருகிறோம்.
+What is going to be held in the country is being talked about by everyone.. Various parties have made different views on the matter.
 
-ரணில் விக்ரமசிங்க அடுத்த ஜனாதிபதி தேர்தலில் போட்டியிட மாட்டார் என்பதை பந்தயம் வைத்து தெரிவிப்பதாக ஐக்கிய மக்கள் சக்தி இந்த பிரசாரத்தை முன்னெடுத்து வருகின்றனர்.
+But the next presidential election is the first to be held. We and other parties are preparing for that.
+
+Similarly, we are taking necessary steps to make President Ranil Wickremesinghe again president.
+
+The United People's Shakti campaign is leading the campaign that Ranil Wickremesinghe will not contest the next presidential election.
+
+All party supporters in the United People's Power are all United National Party supporters. Ranil Wickremesinghe has taken over the country and has taken steps to resolve the problems faced by the country in two years.
 
 ...
 
 [Data](articles/f45f391d.json)
+
+[Extended Data](ext_articles/f45f391d.ext.json)
 
 ---
 
@@ -2209,25 +2281,5 @@ Former State Minister Diana Gamage has arrived at the Colombo Magistrate’s Cou
 [Data](articles/43966717.json)
 
 [Extended Data](ext_articles/43966717.ext.json)
-
----
-
-### Former state minister Diana Gamage granted bail
-
-*2024-05-21 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99354/former-state-minister-diana-gamage-granted-bail) · `en`
-
-Former State Minister Diana Gamage has been released on bail after appearing before the Colombo Magistrate’s Court over allegedly obtaining a passport by producing false information.
-
-She had arrived at the Colombo Magistrate’s Court earlier today over accusations of obtaining a passport by submitting false information.
-
-The Criminal Investigations Department (CID) had yesterday submitted a report to the Colombo Chief Magistrate’s Court, naming the former State Minister as a suspect in the case pertaining to the obtaining of a diplomatic passport after providing false information.
-
-Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to take appropriate measures and report back to the court.
-
-◼️
-
-[Data](articles/ed305721.json)
-
-[Extended Data](ext_articles/ed305721.ext.json)
 
 ---

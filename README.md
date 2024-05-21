@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 20:03:46**
+As of **2024-05-21 20:18:23**
 
 ## Newspaper Stats
 
-*Scraped **25,504** Articles*
+*Scraped **25,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 1,503
 adalk | 2,187
 adaderanalk | 2,944
 tamilmirrorlk | 2,978
-virakesarilk | 3,856
+virakesarilk | 3,863
 dailymirrorlk | 4,008
-adaderanasinhalalk | 4,078
+adaderanasinhalalk | 4,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,503 (100.0%) of 25,504 articles have been extended.
+25,504 (100.0%) of 25,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### දුම්රිය මාර්ගයට ගසක් කඩා වැටෙයි
+
+*2024-05-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196878) · `si`
+
+කොට්ටාව සහ පන්නිපිටිය අතර දුම්රිය මාර්ගයට මෙලෙස ගසක් කඩාවැටී ඇති බව වාර්තා වෙයි.
+
+ඒ හේතුවෙන් කැලණිවැලි දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බධා එල්ලවී තිබේ.
+
+◼️
+
+[Data](articles/1f3116ff.json)
+
+---
+
+### புத்தளம் மாவட்டத்தில் உள்ள பாடசாலைகள் நாளை திறப்பு
+
+*2024-05-21 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184172) · `ta`
+
+தென்மேற்கு பருவமழை தீவிரமடைந்துள்ளதால் நாட்டின் பல பகுதிகளில் கனமழை பெய்து வருகிறது. இதன் காரணமாக புத்தளம் மாவட்டமே இதுவரை அதிகம் பாதிக்கப்பட்டுள்ளது.
+
+எவ்வாறாயினும், அந்த மாவட்டத்தில் உள்ள பாடசாலைகள் 20, 21 ஆம் திகதிகள் மூடப்பட்டிருந்த போதிலும் நாளை 22 ஆம் திகதி வழமை போன்று மீண்டும் திறக்கப்படும் என பிராந்தியக் கல்விப் பணிப்பாளர் தெரிவித்துள்ளார்.
+
+பேரிடர் பகுதிகளில் பள்ளிகள் திறக்கப்படுமா? இல்லை? என்பதை பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு முடிவெடுக்கும் அதிகாரம் வழங்கப்பட்டுள்ளமை இங்கு குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5e68718b.json)
+
+---
 
 ### Action to open Puttalam District Schools
 
@@ -71,6 +101,20 @@ However, Galle Marvels raised the stakes and took it to USD 100,000 straightaway
 [Data](articles/8b72742a.json)
 
 [Extended Data](ext_articles/8b72742a.ext.json)
+
+---
+
+### ஈரான் ஜனாதிபதியின் இறுதிச் சடங்கில் கலந்துகொள்ள அமைச்சர் அலி சப்ரி ஈரான் செல்கிறார்
+
+*2024-05-21 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184171) · `ta`
+
+இதன்படி, ஈரான் ஜனாதிபதியின் இறுதிச் சடங்கில் கலந்துகொள்வதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி 21 ஆம் திகதி செவ்வாய்க்கிழமை இரவு நாட்டை விட்டுச் செல்லவுள்ளார்.
+
+ஈரான் ஜனாதிபதியின் மரணம் தொடர்பில் இந்நாட்டு அரசியல்வாதிகள் மற்றும் பொதுமக்களும் ஈரான் தூதரகத்தில் தமது இரங்களை தெரிவித்திருந்தமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/524cafd0.json)
 
 ---
 
@@ -145,6 +189,42 @@ People engaged in their daily chores have been affected by the adverse weather. 
 [Data](articles/277b24d0.json)
 
 [Extended Data](ext_articles/277b24d0.ext.json)
+
+---
+
+### தொடர்ச்சியாக பெய்துவரும் மழை காரணமாக யாழ்ப்பாணத்தில் 5 குடும்பங்கள் பாதிப்பு!
+
+*2024-05-21 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184170) · `ta`
+
+தொடர்ச்சியாக பெய்துவரும் மழை காரணமாக இதுவரை யாழ்ப்பாணத்தில் ஐந்து குடும்பங்களைச் சேர்ந்த 15 பேர்  பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+
+நல்லூர் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/91 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த 4 பேர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் சேதமடைந்துள்ளது.
+
+வேலணை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/33 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த ஒரு அங்கத்தவர் பாதிக்கப்பட்டுள்ளதுடன்வீடு ஒன்றும் சேதமடைந்துள்ளது. ஜே/26 கிராம சேவகர் பிரிவிலும் ஜே/21 கிராம சேவகர் பிரிவிலும் அடிப்படை கட்டமைப்பு ஒவ்வொன்று சேதமடைந்துள்ளதுள்ளன.
+
+தெல்லிப்பழை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/232 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+
+யாழ்ப்பாணம் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/166 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+
+...
+
+[Data](articles/a94ba62c.json)
+
+---
+
+### இந்தியாவில் எந்த அரசாங்கம் வரினும் இணைந்து செயலாற்றுவோம் - வெளிவிவகார அமைச்சர் அலி சப்ரி
+
+*2024-05-21 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184169) · `ta`
+
+இந்திய மக்களவைத் தேர்தல்கள் அந்நாட்டின் உள்ளக விவகாரம் எனவும், அதில் இந்தியர்களே தீர்மானிக்கும் சக்தி எனவும் தெரிவித்திருக்கும் வெளிவிவகார அமைச்சர் அலி சப்ரி, மக்களால் தெரிவுசெய்யப்படும் எந்தவொரு அரசாங்கத்துடனும் தாம் இணைந்து செயலாற்றத் தயாராக இருப்பதாகக் குறிப்பிட்டுள்ளார்.
+
+இந்திய ஊடகமொன்றுக்கு வழங்கியிருக்கும் நேர்காணலிலேயே அமைச்சர் அலி சப்ரி மேற்கண்டவாறு தெரிவித்துள்ளார். அதில் அவர் மேலும் கூறியிருப்பதாவது;
+
+இலங்கை - இந்தியாவுக்கு இடையில் நீண்டகாலமாக பல்துறை சார்ந்த வலுவான ஒத்துழைப்பு காணப்படுகின்றது. இருநாடுகளுக்கும் பொதுவான பரஸ்பர நலன்களை முன்னிறுத்தி இணைந்து பணியாற்றுகின்றோம். கொழும்பில் ஐ.ரி.சி ரத்னதீப நட்சத்திர ஹோட்டல் திறக்கப்பட்டுள்ளது. இது மேலும் பல இந்தியர்கள் இலங்கைக்கு வருகைதருவதற்கான வாய்ப்புக்களை உருவாக்கும். அதேபோன்று துறைமுகம், புதுப்பிக்கத்தக்க வலுசக்தி மற்றும் உட்கட்டமைப்பு வசதிகள் போன்றவற்றில் மேலும் முதலீடுகளை எதிர்பார்க்கின்றோம். இந்தியா 'பொருளாதார சுபீட்சத்தை' நோக்கி நடைபோடுகின்றது. அது இப்பிராந்தியத்துக்கும், இலங்கை போன்ற நாடுகளுக்கும் நன்மையளிப்பதாகவே அமையும்.
+
+...
+
+[Data](articles/4febd692.json)
 
 ---
 
@@ -276,6 +356,22 @@ Srithar was previously at the Singapore Tourism Board (STB). He served as the Ar
 
 ---
 
+### புதுப்பிக்கத்தக்க வலுசக்தி ஒத்துழைப்பை ஆராய தாய்லாந்து தூதுக்குழு இலங்கை விஜயம்
+
+*2024-05-21 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184147) · `ta`
+
+புதுப்பிக்கத்தக்க வலுசக்தி ஒத்துழைப்பை ஆராய்வதற்காக தாய்லாந்து அதிகாரிகள் மற்றும் தனியார் துறை பிரதிநிதிகள் அடங்கிய உயர்மட்டக் குழுவொன்று நாட்டுக்கு விஜயம் செய்துள்ளதோடு, மின்சக்தி மற்றும் வலுசக்தி அமைச்சில் விசேட கலந்துரையாடலொன்றிலும் கலந்து கொண்டதாக அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+வெளியுறவுகள் அமைச்சு, வலு சக்தி அமைச்சு, தாய்லாந்து தூதரகம், தாய்லாந்து மின்னுற்பத்தி நிறுவனம், பி.டி.டி. நிறுவனம் மற்றும் குளோபல் பவர் சினெர்ஜி பப்ளிக் கம்பெனி லிமிடெட் உட்பட பல்வேறு தாய்லாந்து நிறுவனங்கள் மற்றும் தனியார் துறை அதிகாரிகள் இதில் பங்கேற்றுள்ளனர்.
+
+தாய்லாந்து பிரதமரின் அறிவுறுத்தலின் பேரில், எதிர்கால ஒத்துழைப்பு மற்றும் புதுப்பிக்கத்தக்க வலுசக்தியில் முதலீடு செய்வதற்கான சாத்தியக்கூறு மற்றும் அவற்றை மதிப்பிடுவதற்காக, குறிப்பாக மின்சார உற்பத்தியில் கவனம் செலுத்துவதற்காக இப்பிரதிநிதிகள் குழு இலங்கை வந்துள்ளதாக அமைச்சர் தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/973d2306.json)
+
+---
+
 ### Here is the amount of money received by wishes
 
 *2024-05-21 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196874) · `si`
@@ -387,6 +483,8 @@ Singapore's Transport Minister Chee Hong Tat said the government would provide a
 ...
 
 [Data](articles/919df7f8.json)
+
+[Extended Data](ext_articles/919df7f8.ext.json)
 
 ---
 
@@ -937,6 +1035,44 @@ In a statement, the embassy said it has noted increased external pressure on Sri
 [Data](articles/44eca0d1.json)
 
 [Extended Data](ext_articles/44eca0d1.ext.json)
+
+---
+
+### ஓய்வுபெற்ற படை வீரர்களுக்கான சுகாதார வசதிகள் தொடர்பில் விசேட கலந்துரையாடல்
+
+*2024-05-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184140) · `ta`
+
+ஓய்வுபெற்ற படைவீரர்கள் அரச வைத்தியசாலைகளில் சுகாதார வசதிகளை பெற்றுக்கொள்வதில் எதிர்நோக்கும் பிரச்சினைகளுக்கு தீர்வுகாண பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் சுகாதார அமைச்சரை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+தாய்நாட்டின் ஆட்புல ஒருமைப்பாட்டைப் பாதுகாப்பதற்காகப் போராடி உயிர் தியாகம் செய்த ஆயுதப்படை வீரர்களின் குடும்ப உறுப்பினர்களும், ஓய்வுபெற்ற பாதுகாப்பு ப்படை வீரர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களும் அரச மருத்துவமனைகளில் இருந்து சுகாதார வசதிகளைப் பெறுவதில் பல்வேறு சிரமங்களை எதிர்கொள்வதை பல சந்தர்ப்பங்களில் அவதானிக்க முடிகிறது.
+
+பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தலைமையில் இலங்கை இராணுவத்தினால் ஏற்பாடு செய்யப்பட்ட விசேட நிகழ்வுகளில் படைவீரர்களின் நலன் மற்றும் நிர்வாக விடயங்கள் தொடர்பில் ஆராய்வதற்காக முன்வைக்கப்பட்ட பிரச்சினைகளில் இந்த விடயம் முதன்மையானது.
+
+...
+
+[Data](articles/58aa5453.json)
+
+---
+
+### ஜனாதிபதி ரணில் அடுத்த மாதம் முக்கிய அறிவிப்பை வெளியிடுவார் -  அமைச்சர் மனுஷ
+
+*2024-05-21 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184143) · `ta`
+
+ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க போட்டியிடுவது உறுதி. அது தொடர்பான உத்தியோகபூர்வ அறிவிப்பை அடுத்த மாதம்  அறிவிப்பார்.  தேர்தலுக்கு அனைத்து நடவடிக்கைகளும் தயார் என அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (21) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் அடுத்த எந்த தேர்தல் இடம்பெறப்போகிறது என்ற விடயம் தற்போது அனைவராலும் பேசப்பட்டு வரும் விடயமாக மாறி இருக்கிறது. அதுதொடர்பில் பல்வேறு தரப்பினரும் மாறுபட்ட கருத்துக்களை தெரிவித்து வருகின்றனர்.
+
+ஆனால் அடுத்து முதலாவதாக இடம்பெற இருப்பது ஜனாதிபதி தேர்தலாகும். அதற்காக  நாங்களும் ஏனைய கட்சிகளும் தயாராகி வருகின்றன.
+
+அதேபோன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக்க தேவையான நடவடிக்கைகளை நாங்கள் மேற்கொண்டு வருகிறோம்.
+
+ரணில் விக்ரமசிங்க அடுத்த ஜனாதிபதி தேர்தலில் போட்டியிட மாட்டார் என்பதை பந்தயம் வைத்து தெரிவிப்பதாக ஐக்கிய மக்கள் சக்தி இந்த பிரசாரத்தை முன்னெடுத்து வருகின்றனர்.
+
+...
+
+[Data](articles/f45f391d.json)
 
 ---
 
@@ -2093,205 +2229,5 @@ Accordingly, the Colombo Chief Magistrate Thilina Gamage had ordered the CID to 
 [Data](articles/ed305721.json)
 
 [Extended Data](ext_articles/ed305721.ext.json)
-
----
-
-### Podcard
-
-*2024-05-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184118) · `ta`
-
-An electronic billboard in Bambalapitiya, Colombo, collapsed without injuring anyone but damaging nearby shop roofs. The incident was captured on video and shared on social media. The Department of Meteorology warns of strong winds from the southwest, advising caution due to potential gusts of 40 to 50 km/h on Tuesday.
-
-🟩
-
-The electronic billboard that was fitted near the street collapsed in Bambalapitiya, Colombo on Monday evening.
-
-Fortunately no one is affected by this incident. Only the roofs of some of the nearby shops have been damaged.
-
-The video footage of the electronic billboard falls on social media.
-
-The Department of Meteorology has predicted that the south -wing climate of the country will continue to continue with the windy weather with windy weather.
-
-Meanwhile, the Department of Meteorology has announced that frequent winds are likely to blow at 40 to 50 kilometers per hour on Tuesday (21).
-
-Therefore, the public should be careful with the announcements issued regarding the climate.
-
-◼️
-
-[Data](articles/b833cdaa.json)
-
-[Extended Data](ext_articles/b833cdaa.ext.json)
-
----
-
-### All services of the Moneragala Prison
-
-*2024-05-21 11:52:28* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-බන්ධනාගාරයේ-සියලු-සේවාවන්-අඩාල-වේ/11-409760) · `si`
-
-Moneragala Prison faced disruptions due to staff shortages, affecting judicial proceedings and transportation of suspects. The situation was further complicated when police intervention failed to transfer prisoners to court.
-
-🟩
-
-The Moneragala Prison officials were completely disrupted in the prison due to the lack of sick leave of the previous (21).
-
-They were completely disrupted to take the judiciary cases regarding prisoners and the suspects.
-
-Prison bus drivers were allowed to enter the struggle to enter the main door to take the suspects into the courts.
-
-The suspects were taken to the prison on the last (20).
-
-The Prison Assistant Superintendent of Prison and the main jailer reported all the prison public telephones.
-
-The police intervened and attempted to carry the prisoners and the suspects into the court, but it failed.
-
-◼️
-
-[Data](articles/55b51cc3.json)
-
-[Extended Data](ext_articles/55b51cc3.ext.json)
-
----
-
-### Suspicion of Lunugala Woman's death: Husband arrested!
-
-*2024-05-21 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184116) · `ta`
-
-A 38-year-old woman found dead in Lunugala was suspectedly murdered by her husband, leading to his arrest. The incident occurred in Janata Pura, Thambapitiya Watta, Kumbukan Oya. Their 17-year-old daughter reported her mother's suspicious death. The husband, a 36-year-old driver, initially confessed to attacking but later denied it. He will face charges in court.
-
-🟩
-
-Lunugala police have arrested the husband of the woman who died on suspicion of the murder of a woman who was recovered from the body of a woman who was recovered yesterday in the President of the Lunugala Police Division.
-
-The body of the woman was recovered on Sunday (19) in Lunugala, Janata Pura, Thambapitiya Watta, Kumbukan Oya.
-
-The 38 -year -old woman, the mother of the two children, was severely injured and the 17 -year -old daughter, a 17 -year -old daughter, has lodged a complaint with the police that she is suspicious of her mother's death.
-
-Following the investigation, the killer suspect has been arrested for his escape from the driver of the three -wheeler (36).
-
-During the preliminary inquiry carried out to the suspect, he had confessed to the police that he had first attacked and killed a large stone after hitting a small stone.
-
-Police said the court had ordered that the person should not go to the woman's household area.
-
-...
-
-[Data](articles/b27cf956.json)
-
-[Extended Data](ext_articles/b27cf956.ext.json)
-
----
-
-### Diana will come with lawyers and surrenders to court
-
-*2024-05-21 11:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-නීතිඥයන්-සමග-පැමිණ-අධිකරණයට-බාර-වෙයි/11-409759) · `si`
-
-Diana Gamage surrendered to court with her lawyers, stating she sought police help. CID confirmed her residence visit but no arrest. She also banned herself from the Gamage family.
-
-🟩
-
-Mrs. Diana Gamage came with his lawyers and surrendered to the Fort Magistrate's Court. Her lawyers mention that she was looking for the police and that she was looking for the police.
-
-The Criminal Investigations Department (CID) had stated in the court. However, even though he went to her residents yesterday, they had not had the suspect.
-
-Mrs. Diana Gamage has already issued an order to ban the Gamage.
-
-◼️
-
-[Data](articles/c757bdb9.json)
-
-[Extended Data](ext_articles/c757bdb9.ext.json)
-
----
-
-### All teams retained and pre-signed maximum players ahead of LPL auction
-
-*2024-05-21 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-teams-retained-and-pre-signed-maximum-players-ahead-of-LPL-auction/108-283049) · `en`
-
-(Daily Mirror) - Over 400 players, both Sri Lankan and overseas, are poised to go under the hammer during the Player Auction of the Lanka Premier League (LPL) T20 Cricket Tournament on May 21 in Colombo.  All five teams have either retained or pre-signed six players ahead of the auction.
-
-Each team can have a minimum of 20 players and a maximum of 24. Teams were allowed to retain or pre-sign a maximum of six players.
-
-The auction will feature a collective purse of US $2.5 million from all five franchise teams, with each franchise contributing US $500,000.
-
-◼️
-
-[Data](articles/15bf7f9d.json)
-
-[Extended Data](ext_articles/15bf7f9d.ext.json)
-
----
-
-### A red notice to sailor and fishermen
-
-*2024-05-21 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196855) · `si`
-
-Heavy rain, strong winds, and rough seas are expected along Sri Lanka's coastal areas from Kalpitiya to Pottuvil, affecting navigation for sailors and fishermen. The Department of Meteorology advises against sailing until conditions improve.
-
-🟩
-
-A warning red notice of heavy rain and strong winds and the rough sea has been issued.
-
-Accordingly, the people of sea areas from Kalpitiya have been informed to concern the sea areas to Pottuvil via Pottuvil through Kalpitiya.
-
-The seas of the sea areas off the coast extending from Colombo to Pottuvil via Pottuvil via Pottuvil is up to 60 - 70 hours.
-
-Naval and fishing communities have been asked not to be sailed until they were notified until it was again informed to the sea.
-
-The Department of Meteorology announces that the sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil.
-
-As a result, the sea waves can be reached in Colombo to Matara via Galle.
-
-◼️
-
-[Data](articles/59d75b7f.json)
-
-[Extended Data](ext_articles/59d75b7f.ext.json)
-
----
-
-### Countries like the United States Britain Russia China are the cause of the decline in international regulations, but people still have no confidence - the Secretary General of the Amnesty International
-
-*2024-05-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184120) · `ta`
-
-Agnez Kalamart, Secretary General of Amnesty International, criticized major powers like the US, UK, Russia, and China for undermining international law, yet highlighted South Africa's move to the ICJ as evidence of ongoing trust in global institutions. This action underscores the importance of adhering to the 1948 genocide convention, particularly in developing nations. Additionally, widespread university protests over issues like the Gaza ceasefire indicate a strong desire among citizens worldwide to uphold international laws.
-
-🟩
-
-Amnesty International Secretary General of the Amnesty International, Agnez Kalamart, said that the United States of America, the UK, said that the United States of America, the British Russia China, said that the International Court of Justice, Agnez Kalamart, and international protests are expected to protect international laws.
-
-He was responding to a question about people's confidence in organizations like the UN, the fall of the International Organization based on terms of the rules in Colombo.
-
-Those who contributed to the creation of a new regulation in 1948 are engaged in the destruction of it.
-
-Countries such as the United States, like Britain Russia China, are responsible for the collapse of international regulations based on regulations.
-
-However, the fact that South Africa has gone to the International Court of Justice has revealed that people have not lost confidence in international organizations.
-
-...
-
-[Data](articles/b907ce90.json)
-
-[Extended Data](ext_articles/b907ce90.ext.json)
-
----
-
-### Talikodu theft of a woman traveling on a bus in Jaffna
-
-*2024-05-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184110) · `ta`
-
-In Jaffna, a woman was robbed on a bus, prompting her to report to the Manipay police. The incident occurred when she was returning home from Chiripuram. Authorities advise caution against wearing valuables on buses.
-
-🟩
-
-The victim has lodged a complaint with the Manipay police station that a woman who was traveling on a bus in Jaffna has been stolen.
-
-A woman from the Jaffna Madam area has been stolen on the bus while she was returning home on another bus after he was on his way to Chiripuram on the bus.
-
-At the same time, the police have been asked to look at the suspicious passengers on the bus to avoid wearing valuable jewelry during bus trips.
-
-◼️
-
-[Data](articles/59ff1617.json)
-
-[Extended Data](ext_articles/59ff1617.ext.json)
 
 ---

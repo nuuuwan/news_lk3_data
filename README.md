@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 06:57:59**
+As of **2024-05-21 07:18:46**
 
 ## Newspaper Stats
 
-*Scraped **25,330** Articles*
+*Scraped **25,338** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 226
+colombotelegraphcom | 227
 bbccomsinhala | 254
 dbsjeyarajcom | 259
 newsfirstlk | 363
@@ -17,56 +17,152 @@ economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,169
 adaderanalk | 2,925
-tamilmirrorlk | 2,956
+tamilmirrorlk | 2,957
 virakesarilk | 3,830
-dailymirrorlk | 3,973
-adaderanasinhalalk | 4,044
+dailymirrorlk | 3,978
+adaderanasinhalalk | 4,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,326 (100.0%) of 25,330 articles have been extended.
+25,330 (100.0%) of 25,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
 
-### இஸ்ரேல் பிரதமர் ஹமாஸ் தலைவருக்கு எதிராக பிடியாணை- ஐசிசியின் வழக்குரைஞர் வேண்டுகோள்
+### කළුතර බිල්ලේ සම්පූර්ණ විස්තරේ
+
+*2024-05-21 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196841) · `si`
+
+◼️
+
+[Data](articles/35285b7a.json)
+
+---
+
+### இரங்கல் தெரிவித்தது அமெரிக்கா
+
+*2024-05-21 06:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரங்கல்-தெரிவித்தது-அமெரிக்கா/175-337615) · `ta`
+
+இந்நிலையில் அமெரிக்க வெளியுறவுத்துறை செய்தித் தொடர்பாளர் மேத்யூ மில்லர் வெளியிட்ட அறிக்கையில், "வடமேற்கு ஈரானில் ஹெலிகாப்டர் விபத்துக்குள்ளானதில் ஈரானிய. ஈரானிய அதிபர் இப்ராஹிம் ரைசி, வெளியுறவு அமைச்சர் அமீர்-அப்துல்லாஹியன் மற்றும் அவர்களது தூதுக்குழு உறுப்பினர்களின் மரணத்திற்கு அமெரிக்கா
+
+தனது உத்தியோகபூர்வ இரங்கலைத் தெரிவிக்கிறது. ஈரான் ஒரு புதிய அதிபரை தேர்ந்தெடுக்கும் போது, ஈரானிய மக்களுக்கும், மனித உரிமைகள் மற்றும் அடிப்படை  சுதந்திரத்துக்கான அவர்களின் போராட்டத்திற்கும் எங்களது ஆதரவை மீண்டும் உறுதிப்படுத்துகிறோம்" என்று அதில் தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/9e36e687.json)
+
+---
+
+### Sri Lanka launches probe into alleged ISIS links
+
+*2024-05-21 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-launches-probe-into-alleged-ISIS-links/155-283016) · `en`
+
+- SL State Intelligence awaits further details from Indian intelligence
+
+- SL goes on alert after India arrests four Sri Lankans suspected to be ISIS
+
+- SL to verify if the four have any links to ISIS as mentioned
+
+Sri Lanka's State Intelligence has launched an immediate probe to obtain further information on the four Sri Lankan individuals alleged to be ISIS suspects who had travelled to India in recent days and were arrested by the Gujarat Anti-Terrorist Squad upon arrival at Ahmedabad Airport, the Daily Mirror learns.
+
+According to highly placed defence officials, Sri Lanka's state intelligence has asked for further information from India's state intelligence in order to verify the background of these alleged suspects, as well as to probe if they are actually linked to the ISIS network.
+
+Defence officials said that once the information is obtained from India, Sri Lankan authorities will immediately investigate to take further action.
+
+...
+
+[Data](articles/36077681.json)
+
+---
+
+### ICC's lawyer appeals against Israeli Prime Minister Hamas leader
 
 *2024-05-21 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184071) · `ta`
 
-2023 ஒக்டோபர் ஏழாம்; திகதிக்கு பின்னர் இடம்பெற்ற யுத்த குற்றங்கள் மனித குலத்திற்கு எதிரான குற்றங்களிற்காக இஸ்ரேலிய பிரதமருக்கும் ஹமாஸ் தலைவருக்கும் எதிராக பிடியாணையை பிறப்பிக்குமாறு சர்வதேச குற்றவியல் நீதிமன்றத்தின் வழக்குரைஞர் வேண்டுகோள் விடுத்துள்ளார்.
+ICC's lawyer Karim Khan appeals to Israeli PM Netanyahu and Hamas leader Yahya Sinwar over alleged war crimes. He accuses them of holding back evidence against Mohamed Dyv and Ismail Hania.
 
-சிஎன்என்னிற்கு வழங்கிய பேட்டியில் சர்வதேச குற்றவியல் நீதிமன்றத்தின் வழக்குரைஞர் கரிம்கான் இதனை தெரிவித்துள்ளார்.
+🟩
 
-பெஞ்சமின் நெட்டன்யாகு இஸ்ரேலின் பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் ஹமாசின் தலைவர்கள் யஹ்யா சின்வர் முகமட் டெய்வ் இஸ்மாயில் ஹனியா ஆகியவர்களிற்கு எதிராக பிடியாணையை பிறப்பிக்குமாறு வேண்டுகோள் விடுத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+2023 October Seventh;The prosecutor of the International Criminal Court has appealed to the Israeli prime minister and Hamas leader to issue a war crimes against humanity after the day.
+
+In an interview with CNN, the International Criminal Court's lawyer Karimkan said this.
+
+He has said that Benjamin Netanyahu has requested the leaders of the Israeli Defense Yo Calland Hamas to issue a hold against Yahya Sinwar Mohamed Dyv Ismail Hania.
 
 ◼️
 
 [Data](articles/0e17fe57.json)
 
+[Extended Data](ext_articles/0e17fe57.ext.json)
+
 ---
 
-### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+### Showers and wind condition further
 
 *2024-05-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196839) · `si`
 
-නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The southwest monsoon is strengthening across Sri Lanka, bringing widespread cloud cover and potential for showers or thundershowers, especially in the Western, Sabaragamuwa, Central, Northwestern provinces, and Galle/Matara districts. Heavy showers exceeding 100mm are expected in some areas, accompanied by 40-50km/h winds. The Meteorology Department advises caution against temporary winds and lightning during thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුළුවලින් බරව පවතිනු ඇති  බවය.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Department of Meteorology states that the southwest monsoon system is increasingly established across the island.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that the sky is buried with clouds in many parts of the island.
 
-දිවයින හරහා විටින්විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Northwestern provinces and in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle, Matara, Kandy and Nuwara Eliya districts. The Met Department announced heavy showers exceeding over 100.
+
+Starting viring through island. The Meteorology Department says that there are 40-50 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/f391695e.json)
+
+[Extended Data](ext_articles/f391695e.ext.json)
+
+---
+
+### State coffers lose billions as Customs officers enjoy unfair benefits
+
+*2024-05-21 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-coffers-lose-billions-as-Customs-officers-enjoy-unfair-benefits/108-283012) · `en`
+
+Only 30% of revenue collected from import-related penalties is directly credited to Consolidated Fund
+
+SLC only maintains a physical attendance register, leading to possible leakages in overtime pay
+
+The state coffers have been deprived of billions of rupees, as Sri Lanka Customs (SLC) officers enjoy unfair benefits in penalties related to customs offenses and overtime pay, a special audit carried out by the Auditor General on the management/administration of various funds in SLC revealed.
+
+While the tax revenue collected by SLC on legitimate import activities is included in the government revenue at the time itself, the audit revealed that only 30 percent of the revenue collected from import-related penalties is directly credited to the Consolidated Fund.
+
+From 2012 to August 2023, Rs.14.53 billion was credited to the Consolidated Fund as this 30 percent value of all fines collected.
+
+...
+
+[Data](articles/fa0cd8a7.json)
+
+---
+
+### Starlink: Govt. initiates drafting new telecommunication regulations
+
+*2024-05-21 04:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starlink-Govt-initiates-drafting-new-telecommunication-regulations/108-283017) · `en`
+
+In the wake of plans by tech baron Elon Musk to visit Sri Lanka later this year, the government has initiated the process of evolving fresh regulations to facilitate the launch of Starlink satellite internet service, a Minister said yesterday.
+
+The President held talks with Musk, the billionaire head of Tesla and SpaceX and owner of social platform X and invited him to visit Sri Lanka.
+
+State Minister of Technology Kanaka Herath told Daily Mirror that an application had been sent in March, this year for the launch of Starlink in Sri Lanka.
+
+“We are now in the process of drafting new regulations,” he said.
+
+◼️
+
+[Data](articles/e653a1dd.json)
 
 ---
 
@@ -408,6 +504,26 @@ However, a deeper scrutiny of recent political events are indicative of three ma
 
 ---
 
+### SL proposes 10% levy on annual profits of global tax evasion assets
+
+*2024-05-21 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-proposes-10-levy-on-annual-profits-of-global-tax-evasion-assets/108-283011) · `en`
+
+In an effort to support blended finance projects focused on climate change adaptation and mitigation, Sri Lanka proposed a 10 percent levy on the annual profits of global tax evasion assets deposited in tax havens.
+
+The annual profits are estimated at US $ 1.4 trillion per annum.
+
+The proposal was made by President Ranil Wickremesinghe at the 10th World Water Forum, held in Bali, Indonesia, yesterday.
+
+He noted that the levy can be enforced by imposing sanctions, similar to those imposed on the Russian banks and financial institutes, which fail to implement the levy. The monies raised by these levies are to be made available to be utilised by the blended finance projects on climate change adaptation and mitigation.
+
+The Global Blended Finance initiative is a supplement to the loss and damage funds – not an alternative. Wickremesinghe stressed these two measures must work in tandem.
+
+...
+
+[Data](articles/8cf6f94b.json)
+
+---
+
 ### Musings over museum in the east
 
 *2024-05-21 02:38:17* · [`dailyftlk`](https://www.ft.lk/columns/Musings-over-museum-in-the-east/4-762048) · `en`
@@ -706,19 +822,37 @@ Under the Maritime Administration program for Sri Lanka Ports Authority (SLPA) e
 
 ---
 
-### மழையுடனான வானிலை தொடரும்
+### President’s Commitment To Economic Reform Is Model For Reconciliation
+
+*2024-05-21 01:30:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidents-commitment-to-economic-reform-is-model-for-reconciliation/) · `en`
+
+On numerous occasions President Ranil Wickremesinghe has said he was elected president to get Sri Lanka out of its economic morass and will do his utmost to fulfill that obligation. This has led to much speculation regarding the president’s intentions with regard to conducting presidential elections prior to achieving economic success. The truth of the president’s utterances with regard to his commitment to resolving the economic crisis is to be plainly seen in his determination to push ahead with unpopular economic policies. He has been unrelenting in sticking to higher tax rates than the masses of people can afford and to the privatization of state owned enterprises. Both of these policies are unpopular to the point of jeopardising his bid to be re-elected at the forthcoming presidential election, but the president has stuck by his convictions.
+
+...
+
+[Data](articles/fabbfd92.json)
+
+---
+
+### The weather will continue with the rainfall
 
 *2024-05-21 01:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-337610) · `ta`
 
-தென்மேல் பருவப்பெயர்ச்சி ஆரம்பித்துள்ளதால் நாட்டில் காற்றுடன் கூடிய மழை தொடரும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+Rainfall continues nationwide due to the start of the southwestern monsoon, with areas like Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, and Mannar expecting over 100mm.
 
-மேல் மற்றும் வடமேல் மாகாணங்களின் சில பகுதிகளில் 150 மில்லி மீற்றர்  வரை மழைவீழ்ச்சி பதிவாகக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-சப்ரகமுவ மாகாணம், காலி, மாத்தறை, கண்டி, நுவரெலியா மற்றும் மன்னார் மாவட்டங்களில் 100 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+The Department of Meteorology has predicted that rainfall in the country will continue as the southwestern monsoon has begun.
+
+The department said that rainfall is likely to be recorded up to 150 mm in some parts of the upper and northwestern provinces.
+
+The Department of Meteorology has predicted more than 100 mm of rainfall in Sabaragamuwa Province, Galle, Matara, Kandy, Nuwara Eliya and Mannar districts.. (A)
 
 ◼️
 
 [Data](articles/9e990936.json)
+
+[Extended Data](ext_articles/9e990936.ext.json)
 
 ---
 
@@ -743,6 +877,24 @@ The death of Iranian President Ibrahim Raisi and several senior officials who ac
 [Data](articles/3305c140.json)
 
 [Extended Data](ext_articles/3305c140.ext.json)
+
+---
+
+### Thai delegation in SL to explore opportunities in renewable energy
+
+*2024-05-21 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-delegation-in-SL-to-explore-opportunities-in-renewable-energy/108-283010) · `en`
+
+A delegation comprising officials representing Thai agencies and private sector is in Sri Lanka to explore feasibility and understand the potentials in future cooperation and investment in renewable energy, particularly in the electricity generation in Sri Lanka.
+
+The delegation included officials of Thailand Foreign Affairs Ministry, Energy Ministry, Royal Thai Embassy, Electricity Generating Authority of Thailand, PTT Public Company Limited and Global Power Synergy Public Company Limited.
+
+The delegation is in Sri Lanka on the instructions of the Prime Minister of Thailand.
+
+“We discussed the policies and plans for the electricity sector, multilateral interconnections, proposed sector reforms, investments required for RE, green hydrogen and cooperation on energy,” said Power and Energy Minister Kanchana Wijesekera.
+
+◼️
+
+[Data](articles/5669c15b.json)
 
 ---
 
@@ -2001,181 +2153,5 @@ Every physician likely recalls an unforgettable moment from his or her clinical 
 [Data](articles/13882107.json)
 
 [Extended Data](ext_articles/13882107.ext.json)
-
----
-
-### Anura agree on a day of Sajith gave the debate
-
-*2024-05-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196830) · `si`
-
-On June 6th, Executive MP Nalinda Jayatissa announced a future debate's details, including its location and timing, as agreed upon by Anura and Sajith.
-
-🟩
-
-June 6, June 6, declared that the executive MP Nalinda Jayatissa has issued a statement to the national folk force.
-
-Accordingly, Nalinda Jayatissa further stated that the sphere of the place, time and debate is to be held in the future.
-
-◼️
-
-[Data](articles/157613b3.json)
-
-[Extended Data](ext_articles/157613b3.ext.json)
-
----
-
-### Sri Lanka rupee closes slightly stronger at 299.60/75 to US dollar
-
-*2024-05-20 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-slightly-stronger-at-299-60-75-to-us-dollar-163813/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.60/75 to the US dollar on Friday, from 299.70/80 the previous week, dealers said. Bond yields were up.
-
-A bond maturing on 15.12.2026 closed up at 10.15/35 percent from 10.05/15 percent.
-
-A bond maturing on 15.09.2027 closed up at 10.45/55 percent from 10.25/40 percent.
-
-A bond maturing on 01.10.2032 closed up at 11.90/12.05 percent from 11.85/12.00 percent. (Colombo/May20/2024)
-
-◼️
-
-[Data](articles/113f3f7d.json)
-
-[Extended Data](ext_articles/113f3f7d.ext.json)
-
----
-
-### Schools in Puttalam District to remain closed tomorrow
-
-*2024-05-20 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99342/schools-in-puttalam-district-to-remain-closed-tomorrow) · `en`
-
-All schools in the Puttalam District will be closed tomorrow (May 21) as well due to the continuing adverse weather conditions, the Education Director of the North-Western Province said.
-
-The schools in the district were instructed to remain closed today in consideration of the prevailing inclement weather experienced in the district.
-
-It is reported that heavy rainfall has resulted in several schools in the district being inundated.
-
-◼️
-
-[Data](articles/33af8007.json)
-
-[Extended Data](ext_articles/33af8007.ext.json)
-
----
-
-### Wimal - Karunas is a disturbed
-
-*2024-05-20 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184056) · `ta`
-
-"Film 'Pokallam' stars Vimal and Karunas, directed by Michael K., featuring music by R. Raghunandan. It focuses on two men managing a vehicle business, shot in Dem by Xavier Edwards. Produced by Shark 9 Pictures, it aims to offer a unique cinematic experience."
-
-🟩
-
-The film crew has said that the film 'Pokallam is not too far', starring Vimal, one of the best character actors of Tamil cinema, and Vimal, one of the heroes of the story.
-
-Michael K.. Vimal, Karunas, Mary Rickets. Many people including Ramamurthy. The film has been recorded by Xavier Edwards in Dem for this movie. R. Raghunandan has composed the music.The film is being produced by Shark 9 Pictures, producer Siva Killari, who is preparing to focus on the life of two men who run the Amarar vehicle.
-
-The film was introduced to the audience in Chennai at the time.
-
-Commenting on the film, the director said, “This storyline is new. I have traveled long for this movie. The producer who believed in the story agreed to produce the film. The film had to be played with facial expressions without speaking.. Actor Wimal performed it well. I expect this movie to attract all fans. I hope to provide a different experience. ”
-
-◼️
-
-[Data](articles/f9768d54.json)
-
-[Extended Data](ext_articles/f9768d54.ext.json)
-
----
-
-### Leave for schools in Puttalam
-
-*2024-05-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196829) · `si`
-
-Due to unfavorable weather conditions, all schools in Puttalam district have decided to close tomorrow (21st).
-
-🟩
-
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුත්තලම දිස්ත්‍රික්කයේ සියලුම පාසල් හෙට (21) දිනයේදීත් වසා තැබීමට තීරණය කර තිබේ.
-
-◼️
-
-[Data](articles/2ac2fc29.json)
-
-[Extended Data](ext_articles/2ac2fc29.ext.json)
-
----
-
-### Latest photos where Iranian presidents traveled
-
-*2024-05-20 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196828) · `si`
-
-Iranian President Ebrahim Raisi died in a helicopter crash, along with Foreign Minister Hossein Amir Abdollahian. The crash occurred while returning from Azerbaijan. The country declared five days of mourning led by Ayatollah Ali Khamenei.
-
-🟩
-
-ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි ගේ මරණය හේතුවෙන් ඉරාන අධ්‍යාත්මික නායක අයතොල්ලා අල් කමෙනි විසින් එරට දින 5ක ශෝක කාලයක් ප්‍රකාශයට පත්කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-ඊයේ (19) සිදුවූ හෙළිකොප්ටර් යානා අනතුරින් රයිසි ජනාධිපතිවරයාට අමතරව එහි ගමන් කළ ඉරාන විදෙස් කටයුතු ඇමති හුසේන් අමීර් අබ්දෙල්ලහා ද මියගොස් තිබුණි.
-
-අනතුරට පත් හෙළිකොප්ටර් යානය තුළ අසර්බයිජානයේ සිට ආපසු පැමිණෙමින් සිටි ජනාධිපතිවරයා, ඇතුළු පුද්ගලයින් 9 දෙනෙකු ගමන් කර තිබිණි.
-
-කලාපයේ පැවැති අපැහැදිලි කාලගුණය හේතුවෙන් යානය මෙලෙස අනතුරට පත්වූ බව වාර්තා වේ.
-
-The 63-year-old rasion was expected to be the next spiritual leader.
-
-ඉරාන රතු අඩසඳ ආයතනය අද නිවේදනය කළේ අනතුරින් මියගිය ජනපතිවරයාගේ සහ අනෙක් පුද්ගලයින්ගේ සිරුරු සොයාගත් බවයි. ඒ අනුව අදාළ මෙහෙයුම් කටයුතු නවතා දැමිණි.
-
-The funeral will be held in Tebrice tomorrow.
-
-මේ අතර සහන කණ්ඩායම බේරාගැනීමේ සහ සිරුරු ගෙන ඒමට අදාළ ඡායාරූප රොයිටර්ස් පුවත් සේවය විසින් නිකුත් කර තිබුණි.
-
-◼️
-
-[Data](articles/3b52e25d.json)
-
-[Extended Data](ext_articles/3b52e25d.ext.json)
-
----
-
-### Pakistani woman nabbed with heroin worth over Rs. 70 mn at BIA
-
-*2024-05-20 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistani-woman-nabbed-with-heroin-worth-over-Rs-70-mn-at-BIA/108-282980) · `en`
-
-Katunayaka, May 20 (Daily Mirror) - A Pakistani woman who arrived from Abu Dhabi this morning was arrested by the Customs Narcotic Control Unit at the Katunayake International Airport (BIA) while attempting to smuggle into the country a stock of 02.450 kilograms of heroin.
-
-The 57-year-old woman had arrived in the country under the pretext of a tourist.
-
-Investigations revealed that the market value of the stock of heroin is estimated to be more than Rs. 73.5 million.
-
-A spokesman for the Customs said that the stock of heroin had been hidden in a false bottom of the woman’s bag.
-
-She was handed over to the Police Narcotic Bureau officials in the airport for further action.
-
-◼️
-
-[Data](articles/634de3a2.json)
-
-[Extended Data](ext_articles/634de3a2.ext.json)
-
----
-
-### தபால் தலை வெளியிடப்பட்டது...
-
-*2024-05-20 16:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-தலை-வெளியிடப்பட்டது/175-337586) · `ta`
-
-"தபால் தலை வெளியிடப்பட்டது இந்திய வம்சாவளியினரின் 200 ஆண்டுகால வரலாற்றுப் பின்னணியை வெளிப்படுத்தும் வகையில் என்று விளக்கப்படுத்துகின்றது. இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமானின் தலைமையில் கொழும்பிலுள்ள தாஜ்சமுத்திரா ஹோட்டலில் ஞாயிற்றுக்கிழமை (19) இடம்பெற்றது. வெளியிடப்பட்ட தபால் தலை ஸ்ரீ ஸ்ரீ ரவிசங்கர், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஆகியோருக்கு வழங்கப்பட்டது."
-
-🟩
-
-இந்திய வம்சாவளியினரின் 200 ஆண்டுகால வரலாற்றுப் பின்னணியை வெளிப்படுத்தும் வகையில் தபால் தலை வெளியிடப்பட்டது.
-
-கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமானின் தலைமையில் இந்நிகழ்வு கொழும்பிலுள்ள தாஜ்சமுத்திரா ஹோட்டலில் ஞாயிற்றுக்கிழமை (19)   இடம்பெற்றது.
-
-வெளியிடப்பட்ட தபால் தலை ஸ்ரீ ஸ்ரீ ரவிசங்கர், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஆகியோருக்கு வழங்கப்பட்டது.
-
-◼️
-
-[Data](articles/299c2e89.json)
-
-[Extended Data](ext_articles/299c2e89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 19:18:36**
+As of **2024-05-21 19:34:07**
 
 ## Newspaper Stats
 
-*Scraped **25,497** Articles*
+*Scraped **25,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 2,187
 adaderanalk | 2,942
 tamilmirrorlk | 2,977
 virakesarilk | 3,856
-dailymirrorlk | 4,005
-adaderanasinhalalk | 4,077
+dailymirrorlk | 4,007
+adaderanasinhalalk | 4,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,497 (100.0%) of 25,497 articles have been extended.
+25,497 (100.0%) of 25,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### New laws to use uncultivated lands for agricultural purposes: Minister
+
+*2024-05-21 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-laws-to-use-uncultivated-lands-for-agricultural-purposes-Minister/108-283073) · `en`
+
+Colombo, May 21 (Daily Mirror)- New laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment, State Minister for Social Empowerment Anupa Pasqual said today.
+
+The State Minister also said that the government has decided to incorporate a Skills or Professional stream into the G.C.E (Ordinary Level) Examination syllabus to promote social empowerment.
+
+He made these remarks during a media briefing under the theme “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) today.
+
+“A fundamental ideology we have advocated is the need for educational system reforms to uplift society. Hence, individuals should not be labelled as failures in examinations solely due to struggles in subjects like Maths, religion or language at the G.C.E (O/L) examinations. Therefore, the government has resolved to integrate skills-based or vocational streams into the G.C.E (O/L) Examination syllabus.
+
+...
+
+[Data](articles/a5cb99b2.json)
+
+---
+
+### පුත්තලම දිස්ත්‍රික්කයේ පාසල් හෙට විවෘත කෙරේ
+
+*2024-05-21 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196876) · `si`
+
+නිරිතදිග මෝසම සක්‍රීය වීමත් සමඟ ප්‍රදේශ රැසකට තවදුරටත් අධික වැසි ඇදහැලෙමින් පවතී.
+
+කෙසේවෙතත් එම දිස්ත්‍රික්කයේ පාසල් අද (21) දිනයේ වාස තැබුණත් හෙට (22) දිනයේ යළිත් සුපුරුදු පරිදි විවෘත කිරීමට නියමිතය.
+
+ආපදාවලට ලක්වූ ප්‍රදේශවල පාසල් විවෘත කරන්නේද? නැද්ද? යන්න සම්බන්ධයෙන් කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට තීරණ ගැනීමේ බලය පවරා තිබෙන බවද බලධාරීන් පවසයි.
+
+◼️
+
+[Data](articles/8c45fa03.json)
+
+---
 
 ### Passenger killed, 30 injured as Singapore Airlines flight hits severe turbulence
 
@@ -1324,6 +1358,18 @@ He strongly admonished not to proclaim the cases of Rs. 5 million.
 
 ---
 
+### Sri Lanka mourns
+
+*2024-05-21 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-mourns/110-283060) · `en`
+
+Flags at half mast after Sri Lanka declared today as a day of mourning in view of the death of Iranian President Ebrahim Raisi. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/cca26ad6.json)
+
+---
+
 ### Adverse weather affects daily chores
 
 *2024-05-21 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adverse-weather-affects-daily-chores/110-283059) · `en`
@@ -2241,65 +2287,5 @@ Kesalgamu Oya floods due to heavy rains in Bogawantalawa area. All water streams
 [Data](articles/0d2df3c4.json)
 
 [Extended Data](ext_articles/0d2df3c4.ext.json)
-
----
-
-### Sri Lanka Army discharges over 15,000 absentees from services after amnesty
-
-*2024-05-21 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-army-discharges-over-15000-absentees-from-services-after-amnesty-163907/) · `en`
-
-ECONOMYNEXT – Sri Lanka has discharged 15,667 Sri Lanka army absentees from their services including those who are overseas after one month general amnesty period through Monday (20), the island nation’s Army said.
-
-“At the end of one month amnesty period, 15,294 regular and volunteer Army personnel who were absent without leave have been discharged from their Regimental Center,” Major General Rasika Kumara, the Director General of Army Media said in a statement.
-
-“Additionally, arrangements have been made for 373 personel who are currently overseas and absent without leave to legally discharge from the Army during this amnesty period.”
-
-It was not immediately clear if the absentees received their discharge from the service after settling any financial obligations or amounts due, as stated earlier.
-
-State Defence Minister Pramitha Bandara Tennakoon last week said that there have been around 26,000 absentees from the armed forces before the amnesty was announced.
-
-...
-
-[Data](articles/45c88c8e.json)
-
-[Extended Data](ext_articles/45c88c8e.ext.json)
-
----
-
-### Diana appeared in court
-
-*2024-05-21 11:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஆஜரானார்-டயானா/175-337627) · `ta`
-
-Diana Kamage, ex-State Minister, appeared in court after being accused by the Colombo Chief Magistrate's Court.
-
-🟩
-
-Former State Minister Diana Kamage, who was named as the suspect by the Colombo Chief Magistrate's Court, has visited the court.
-
-◼️
-
-[Data](articles/ce7b8c93.json)
-
-[Extended Data](ext_articles/ce7b8c93.ext.json)
-
----
-
-### Over 15,000 Sri Lanka Army deserters granted amnesty discharges
-
-*2024-05-21 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-15-000-Sri-Lanka-Army-deserters-granted-amnesty-discharges/108-283047) · `en`
-
-Colombo, May 21 (Daily Mirror) - More than 15,000 soldiers who had deserted the Sri Lanka Army have received legal discharges during the month-long amnesty period declared by Sri Lanka’s Ministry of Defence.
-
-The general amnesty was announced from April 20 to May 20, 2024, during which Army absentees were given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centres.
-
-By the end of the amnesty period, a total of 15,667 Army personnel who were absent without leave since December 31, 2023, and earlier, have been temporarily discharged from their Regimental Centres.
-
-The Army also said that among those who received legal discharge, there are 373 army deserters currently abroad and absent without leave.
-
-◼️
-
-[Data](articles/d4a352d9.json)
-
-[Extended Data](ext_articles/d4a352d9.ext.json)
 
 ---

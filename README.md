@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 16:51:21**
+As of **2024-05-21 17:03:47**
 
 ## Newspaper Stats
 
-*Scraped **25,457** Articles*
+*Scraped **25,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 1,376
 economynextcom | 1,457
 dailyftlk | 1,503
 adalk | 2,183
-adaderanalk | 2,939
-tamilmirrorlk | 2,973
+adaderanalk | 2,940
+tamilmirrorlk | 2,976
 virakesarilk | 3,851
-dailymirrorlk | 3,997
-adaderanasinhalalk | 4,072
+dailymirrorlk | 3,998
+adaderanasinhalalk | 4,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,457 (100.0%) of 25,457 articles have been extended.
+25,457 (100.0%) of 25,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### Sri Lanka’s inflation inches up marginally in April
+
+*2024-05-21 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99361/sri-lankas-inflation-inches-up-marginally-in-april) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.7% in April 2024, compared to 2.5% in March 2024, according to the latest data release by the Department of Census and Statistics.
+
+Meanwhile, food inflation has decreased to 3.3% in April 2024 compared to 5.0% in March 2024.
+
+◼️
+
+[Data](articles/c087593a.json)
+
+---
+
+### උද්ධමනයේ වැඩිවීමක්
+
+*2024-05-21 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196870) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 2024 මාර්තු මාසයේ දී වාර්තා වූ 2.5% සිට 2024 අප්‍රේල් මාසයේ දී 2.7% ක් දක්වා සුළු වශයෙන් ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනය කර සිටී.
+
+එහිදී 2024 මාර්තු මාසයේ දී 5.0% ක්ව පැවති ආහාර කාණ්ඩයේ වාර්ෂික ලක්ෂ්‍යමය උද්ධමනය, 2024 අප්‍රේල් මාසයේ දී 3.3% ක් දක්වා පහළ ගොස් ඇත.
+
+◼️
+
+[Data](articles/ed88d1a9.json)
+
+---
 
 ### World record from Society
 
@@ -138,6 +166,24 @@ Dr. Kumara emphasized the need for vaccination to control the disease but noted 
 
 ---
 
+### 15 ஆயிரம் பேர் இராணுவத்திலிருந்து வெளியேறினர்
+
+*2024-05-21 15:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆயிரம்-பேர்-இராணுவத்திலிருந்து-வெளியேறினர்/175-337645) · `ta`
+
+இராணுவத்தினர் சட்ட ரீதியாக சேவையில் இருந்து விலகுவதற்காக பிரகடனப்படுத்தப்பட்ட ஒரு மாத கால பொது மன்னிப்பு காலம் நேற்றுடன் (20) முடிவடைந்தது.
+
+இதற்கமைய குறித்த காலப்பகுதியில் 15,667 இராணுவத்தினர் சட்ட ரீதியாக சேவையில் இருந்து விலகியுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+
+டிசம்பர் 31, 2023 அன்று மற்றும் அதற்கு முன் விடுமுறை இல்லாமல் பணிக்கு சமூகமளிக்காத இராணுவ உறுப்பினர்களுக்கு இந்த பொது மன்னிப்பு காலம் அறிவிக்கப்பட்டது.
+
+இதேவேளை, மேற்படி காலப்பகுதியில் விடுமுறையின்றி கடமைக்கு சமூகமளிக்காமல் தற்போது வெளிநாட்டில் இருக்கும் 373 இராணுவத்தினரை சட்டரீதியாக இராணுவ சேவையில் இருந்து விலகுவதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/1ef66832.json)
+
+---
+
 ### What's going on in Iran?
 
 *2024-05-21 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196868) · `si`
@@ -238,6 +284,28 @@ The strike said that the strike officials stated that the officers who rely on t
 
 ---
 
+### நிலவும் காலநிலை தொடர்பில் சிவப்பு எச்சரிக்கை
+
+*2024-05-21 15:23:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலவும்-காலநிலை-தொடர்பில்-சிவப்பு-எச்சரிக்கை/175-337644) · `ta`
+
+நாட்டில் நிலவும் பலத்த மழை ,காற்று மற்றும் கடல் சீற்றம் காரணமாக சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, கல்பிட்டியில் இருந்து கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரப் பகுதிகளில் உள்ள மக்கள் அவதானமாக இருக்குமாறு அறிவித்தல் விடுக்கப்பட்டுள்ளது.
+
+கொழும்பில் இருந்து காலி மற்றும் ஹம்பாந்தோட்டை முதல் பொத்துவில் வரை காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 60-70 கிலோ மீற்றர் வரை அதிகரித்து வீசுவதுடன் கடற்பரப்பு அவ்வப்போது மிகவும் கொந்தளிப்பாகவும் காணப்படும்.
+
+மேலும், மறு அறிவித்தல் விடுக்கப்படும் வரை குறித்த கடற்பகுதியில் பயணிக்க வேண்டாம் என கடல் மற்றும் மீனவர்கள் கேட்டுக்கொள்ளப்பட்டுள்ளனர்.
+
+கல்பிட்டியில் இருந்து கொழும்பு, காலி, ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடற்பரப்புகளில் கடல் அலைகள் 2.5 - 3 மீற்றர் வரை எழக்கூடிய சாத்தியம் காணப்படுவதாகவும் வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இதன் காரணமாக கொழும்பில் இருந்து காலி ஊடாக மாத்தறை வரை கடல் அலைகள் கரையை வந்தடையும் சாத்தியம் காணப்படுகின்றது.
+
+◼️
+
+[Data](articles/7a184df3.json)
+
+---
+
 ### Arrangement
 
 *2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாக்கெதிராக-குற்றவியல்-வழக்கு-ஏற்பாடு/175-337643) · `ta`
@@ -259,6 +327,24 @@ Meanwhile, the Attorney General has been advised by the Attorney General to take
 [Data](articles/1667b91f.json)
 
 [Extended Data](ext_articles/1667b91f.ext.json)
+
+---
+
+### டயனாவுக்கு எதிராக  குற்றவியல் வழக்கு?
+
+*2024-05-21 15:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவுக்கு-எதிராக-குற்றவியல்-வழக்கு/175-337643) · `ta`
+
+காணாமல் போயிருந்ததாகக் கூறப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே, நீதிமன்றில் செவ்வாய்க்கிழமை (21)  முன்னிலையாகியிருந்தார்.
+
+குறித்த குற்றச்சாட்டு தொடர்பில் டயனா கமகேவை சந்தேகநபராகப் பெயரிடுமாறு நீதிமன்றம் நேற்று(20) உத்தரவிட்டிருந்தது.
+
+குற்றப்புலனாய்வு திணைக்களத்தினால் நீதிமன்றில் திங்கட்கிழமை (20) முன்வைக்கப்பட்ட விடயங்களை ஆராய்ந்த பின்னர் கொழும்பு பிரதம நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+இதனிடையே, முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தொடர்பில் குற்றவியல் வழக்கு ஏற்பாடுகளின் அடிப்படையில் நடவடிக்கை எடுக்குமாறு சட்டமா அதிபரால் குற்றப்புலனாய்வு திணைக்களத்திற்கு ஆலோசனை வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f77a63f0.json)
 
 ---
 
@@ -560,6 +646,18 @@ The CID had commenced investigations into this incident subsequent to a complain
 
 ---
 
+### Bad weather uproots trees in Colombo
+
+*2024-05-21 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Bad-weather-uproots-trees-in-Colombo/110-283063) · `en`
+
+Due to the inclement weather, several trees in the Colombo city areas were uprooted last night. However, no injuries were reported. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/28ff9b21.json)
+
+---
+
 ### Diana Gamage bailed
 
 *2024-05-21 14:06:14* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේට-ඇප/11-409762) · `si`
@@ -672,6 +770,18 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 
 *2024-05-21 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lanka-Premier-League-LPL-auction/155-283052) · `en`
 
+16.09 PM - Dambulla Thunders bags Afghan cricketer Karim Janat for USD 80,000
+
+16.05 PM - Sri Lankan cricketer Chaturanga de Silva bags B-Love Kandy for USD 30,000
+
+16.04 PM - Galle Marvels secure Sri Lankan cricketer Dhananjaya Lakshan for USD 10,000
+
+15.52 PM - 19-year-old Chamath Gomez sold to B-Love Kandy for USD 5,000
+
+15.49 PM - Afghan cricketer Hazratullah Zazai sold to Dambulla Thunders for USD 50,000
+
+15.48 PM - 22-year-old Ahan Wickramasinghe sold to Jaffna Kings for USD 5,000
+
 15.47 PM - South African cricketer Reeza Hendricks goes unsold in the first round
 
 15.46 PM - Australian cricketer Alex Ross sold to Jaffna Kings for USD 20,000
@@ -683,18 +793,6 @@ He said the price of alcohol has increased by 108% due to taxes in 2003 alone, a
 15.37 PM - Sri Lankan cricketer Isitha Wijesundera sold to Colombo Strikers for USD 5,000
 
 15.35 PM - Sri Lankan cricketer Lahiru Samarakoon sold to Jaffna Kings for USD 13,000
-
-15.34 PM - No bids for Sri Lankan cricketer Milan Ratnayaka and South African cricketer Lizaad Williams
-
-15.32 PM - B-Love kandy secure Pakistani cricketer Muhammad Hasnain for USD 30,000
-
-15.31 PM - Sri Lankan cricketers Udith Madushan and Shiran Fernando unsold
-
-15.30 PM - Sri Lankan cricketer Mohomed Shiraz sold to Galle Marvels for US$ 10,000
-
-15.25 PM - West Indies cricketers Lendl Simmons and Evin Lewis unsold
-
-15.24 PM - Pakistani cricketer Haris Sohail and Sri Lanka's Pulindu Perera unsold
 
 ...
 
@@ -2217,149 +2315,5 @@ President Wickremesinghe, in his opening remarks, highlighted the historical tie
 [Data](articles/c6bc2705.json)
 
 [Extended Data](ext_articles/c6bc2705.ext.json)
-
----
-
-### The first group left the Hajj pilgrimage
-
-*2024-05-21 08:45:38* · [`adalk`](https://www.ada.lk/religion/හජ්-වන්දනාවට-පළමු-පිරිස-පිටත්වෙයි/4-409755) · `si`
-
-Sri Lankan devotees departed from Katunayake Airport for Hajj, totaling 4,500, including 34 women and 34 boys. A ceremony marked their departure, attended by officials like Minister Kahalad Al-Kahani and Khaled Hadani. They embarked on a 32-day journey aboard an Air Arabia flight, set to return to Sri Lanka afterward.
-
-🟩
-
-The number of Sri Lankan religious devotees from the Katunayayaka Airport on the 582 Islamic Buddhist monastery has gone to Saudi Airport on the 4,500 Islamic devotees of the Makkari.
-
-Of them, 34 were Islamic women, and the remaining 34 were Islamic boys.
-
-A ceremony was held at the Katunayake Airport Departure, Minister of Buddhadani, Kahalad Al-- Kahani, Sri Lanka Hajuge Committee (Khaled Hadani), Chairman of the Sri Lanka Hajju CommitteeA large number of people including Ibrahib Ansar were present.
-
-The number of these pledges to 5:15 am on April 05.15 at Air Arabia Airlines' aircraft on April 5503.
-
-They will return to Sri Lanka after the worship of 32 days after the worship of 32 days.
-
-◼️
-
-[Data](articles/775334cd.json)
-
-[Extended Data](ext_articles/775334cd.ext.json)
-
----
-
-### The issues in the North and East are very shocking to me - the Secretary General of the Amnesty Council informed Civil Social Industries
-
-*2024-05-21 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184098) · `ta`
-
-Amnesty International's Secretary-General Agnes Kalamart visited Sri Lanka, highlighting concerns over human rights abuses in the North and East regions post-war. She urged for truth, justice, and accountability regarding war crimes and violence against human rights. During her visit, she met with civil society representatives and activists, discussing issues like political corruption, missing persons, militarization, and religious tensions. Kalamart pledged to apply international pressure to address these concerns.
-
-🟩
-
-Amnesty International Secretary General of the Amnesty International, Agnes Kalamart, said that many of the mothers had heard about the problems faced by the Tamils in the North and East.
-
-The Amnesty International has continued to urge truth, justice and accountability to ensure that war crimes, human rights violations and violence against human rights during the war, have been urging Sri Lanka on the international stage.
-
-Amnesty International Secretary General of the International International, who has made an official visit to South Asia for the first time, arrived in the country last Friday, after the three decades of war ended and completed 15 years (18) last Saturday.
-
-During this year, Mullivaikkal (18) participated in the meeting and held meetings with various key parties. As a result, Secretary -General Agnes Kalamart, who met civil society representatives in Colombo on Sunday, asked them about the contemporary human rights situation in the country.
-
-...
-
-[Data](articles/a3446b90.json)
-
-[Extended Data](ext_articles/a3446b90.ext.json)
-
----
-
-### Health strike in the Western Province today
-
-*2024-05-21 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196847) · `si`
-
-A health strike in the Western Province today, led by the Trade Union, will last four hours from 8 AM to 12 PM.
-
-🟩
-
-The Western Province Western Province of the Trade Union action operating at the provincial level will be implemented today (21).
-
-The convener of the UPFA Ravi Kudmith said the strike is being implemented for four hours from 08th to 12 noon.
-
-◼️
-
-[Data](articles/f50628ee.json)
-
-[Extended Data](ext_articles/f50628ee.ext.json)
-
----
-
-### Who will Sri Lanka’s macro-economists and IMF elect in the next polls?
-
-*2024-05-21 08:33:00* · [`economynextcom`](https://economynext.com/who-will-sri-lankas-macro-economists-and-imf-elect-in-the-next-polls-163857/) · `en`
-
-ECONOMYNEXT – The outstanding achievement of inflationist macro-economists in Sri Lanka and elsewehere is their ability to elect a new government, usually socialists or nationalists if liberals were in power, after driving countries into currency crises or asset bubbles after cutting rates for ‘growth’.
-
-Stabilization programs, despite greater inflation and more hardships being stopped, provide fertile ground for fringe elements to come to power even as economies start to recover.
-
-No liberal government, with free trading aspirations, can now survive in a country where forex shortages are created by spurious economic doctrines founded on statistics, backed by the International Monetary Fund more often than not.
-
-Sri Lanka’s post-independence currency troubles emerged soon after the central bank was set up in 1950.
-
-At the time Fed was firing a commodity bubble, by purchasing Liberty bonds (in what would now be called yield curve targeting) pushing up Sri Lanka’s export prices until 1951.
-
-...
-
-[Data](articles/f220b834.json)
-
-[Extended Data](ext_articles/f220b834.ext.json)
-
----
-
-### Ranil and Indonesian President meets President
-
-*2024-05-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196846) · `si`
-
-Ranil Wickremesinghe and Indonesian President Joko Widodo met during the 10th World Water Summit in Bali, pledging to enhance economic ties and address global challenges together. They highlighted the significance of their nations' historical relationship and the potential for mutual growth. The leaders discussed removing import barriers and strengthening trade agreements, emphasizing the importance of cooperation in the Indian Ocean region.
-
-🟩
-
-President Ranil Wickremesinghe and Indonekian President Joo V Vishodo have held a official meeting with the 10th World Water Summit held in Bali Palace in Indonesia.
-
-The meeting was held between heads of state in the two countries yesterday (20th).
-
-The leaders pledged to further strengthen their historical vital relations between Sri Lanka and Indonesia, and the two countries also focus on the development of economic cooperation.
-
-The leaders of the region and international affairs were also focused on the importance of cooperation between the two countries in the face of global challenges.
-
-President Ranil Wickremesinghe has explained the importance of such conferences when he commenced itstorical cooperation between Sri Lanka and Indonesia in 1956.
-
-The President also thanked the leadership of Indonesian President Vidodydo in the regional and international affairs, the Presidential Media Unit said.
-
-...
-
-[Data](articles/5b501a03.json)
-
-[Extended Data](ext_articles/5b501a03.ext.json)
-
----
-
-### Minor floods to several areas
-
-*2024-05-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196845) · `si`
-
-Kalu River overflow due to rain causes minor flooding in Bulathsinhala, Madurawala, and Palindawala. Water levels rise in Attanagalu Oya basin affecting Divulapitiya, Mirigama, etc., for 48 hours. Eight districts impacted by heavy rains.
-
-🟩
-
-Due to the prevailing rainy weather, the Department of Irrigation says that the small river of the Kalu River has reached the overflow.
-
-According to the Department, there is a minor floods in the lowland areas of Bulathsinhala, Madurawala and Palindawala Divisional Secretariats for the next 48 hours.
-
-In addition, the water level of Attanagalu Oya basin is rising in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Gampaha, Minuwangoda, Kirigoda, Katana and Wattala Divisional Secretariats.
-
-Deputy Director of the Disaster Management Center Pradeep Kodippili said that eight districts have been affected with the rainy weather conditions.
-
-◼️
-
-[Data](articles/24b6526b.json)
-
-[Extended Data](ext_articles/24b6526b.ext.json)
 
 ---

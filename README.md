@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-21 07:57:21**
+As of **2024-05-21 08:08:03**
 
 ## Newspaper Stats
 
-*Scraped **25,344** Articles*
+*Scraped **25,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 1,376
 economynextcom | 1,452
 dailyftlk | 1,503
 adalk | 2,170
-adaderanalk | 2,925
+adaderanalk | 2,926
 tamilmirrorlk | 2,959
 virakesarilk | 3,830
 dailymirrorlk | 3,980
-adaderanasinhalalk | 4,046
+adaderanasinhalalk | 4,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,342 (100.0%) of 25,344 articles have been extended.
+25,344 (100.0%) of 25,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-21 (Tuesday)
+
+### මාරක අනතුරු ජීවිත 5ක් බිලිගනී
+
+*2024-05-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196844) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුර 05කින් පාසල් සිසුවෙකු ඇතුළු පුද්ගලයින් 05 දෙනෙකු ජීවිත්කෂයට පත්ව තිබේ.
+
+පුදුකුඩිඉරුප්පු, මුලතිව් පරන්තන් මාර්ගයේ මුංගිල්ආරු ප්‍රදේශයේදී ට්‍රැක්ටර් රථයක ටේලරය පෙරළීමෙන් සිදුවූ අනතුරකින් පාසල් සිසුවෙක් මියගොස් තිබේ.
+
+වට්ටකච්චි දෙස සිට මුල්ලියාවේලි දෙසට ධාවනය වූ ට්‍රැක්ටර් රථය රියදුරුට පාලනය කර ගැනීමට නොහැකිව ට්‍රැක්ටර් රථයේ ටේලරය පෙරළීමෙන් එහි ගමන්කළ මගීන් 06 දෙනෙකු බරපතළ තුවාල ලබා මුංගිල්ආරු රෝහලට ඇතුළත් කිරීමේදී තම්බිරාසපුරම්, ධර්මපුරම් ප්‍රදේශයේ පදිංචිව සිටි 16 හැවිරිදි පාසල් සිසුවෙක් ජීවිතක්ෂයට පත්ව තිබිණි.
+
+මරණකරු සමග එම ට්‍රැක්ටර් රථයේ මගීන් 14 දෙනෙකු ගමන් කර ඇති අතර මුල්ලයාවේලි පොලිස් වසමේ කෝවිලක පවත්වනු ලබන උත්සවයකට සහභාගි වීමට මොවුන් මෙලෙස ගමන් කරමින් සිටියදී අනතුර ලක්ව ඇති බව පොලීසිය පවසයි.
+
+මේ අතර මීගමුව - දිවුලපිටිය මාර්ගයේ ත්‍රිරෝද රථයක් ලොරි රථයක ගැටී සිදුවූ අනතුරකින් බලන්තොට ප්‍රදේශයේ පදිංචිව සිටි 40 හැවිරිදි ත්‍රීවිල් රථ රියදුරු මියගොස් තිබේ.
+
+...
+
+[Data](articles/97505df6.json)
+
+---
+
+### මාතර බන්ධනාගාරයේ රැඳවියෙකු මොළේ උණ නිසා මියයයි
+
+*2024-05-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196843) · `si`
+
+මාතර රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (20) රාත්‍රී මෙම රැඳවියා මියගොස් ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කළේය.
+
+24 හැවිරිදි මීට මාස 03කට පමණ පෙර බන්ධනාගාර ගතවූ පුද්ගලයෙකු මෙලෙස මියගොස් තිබේ.
+
+අදාළ රැඳවියා මොලේ උණ රෝගී තත්ත්වය හේතුවෙන් මියගොස් ඇති බවට සැක පළකෙ‍රෙන අතර ඒ සම්බන්ධයෙන් පර්යේෂණ සිදුකෙරෙන බව වාර්තා වේ.
+
+මීට අමතරව මාතර බන්ධනාගාරයේ තවත් රැඳවියෙකු ද උණ රෝගී තත්ත්වයක් හේතුවෙන් ප්‍රතිකාර සඳහා මාතර රෝහලට ඇතුළත් කර තිබේ.
+
+පසුගිය දෙසැම්බර් මාසයේ ද මාතර බන්ධනාගාරයෙන් මොලේ උණ රෝගීන් වාර්තා වූ අතර මරණ කිහිපයක් ද සිදුවුණි.
+
+◼️
+
+[Data](articles/d4f6fc1f.json)
+
+---
+
+### Heavy showers expected to continue in parts of the island
+
+*2024-05-21 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99348/heavy-showers-expected-to-continue-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says the Southwest monsoon conditions are gradually establishing over the island and hence, the prevailing showery and windy conditions will continue.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Several spells of showers will also occur in the Northern and North-central provinces, it said.
+
+Strong winds about 40-50 kmph can be expected at times over the island.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0da1bb69.json)
+
+---
 
 ### France optimistic about conclusion of Sri Lanka’s debt restructuring very fast
 
@@ -47,6 +109,8 @@ Asserting that China, as a bilateral creditor, is dealing with Sri Lanka separat
 ...
 
 [Data](articles/0d5ac2cd.json)
+
+[Extended Data](ext_articles/0d5ac2cd.ext.json)
 
 ---
 
@@ -924,21 +988,27 @@ On numerous occasions President Ranil Wickremesinghe has said he was elected pre
 
 ---
 
-### மனதை ஒருநிலைப்படுத்தும் நிகழ்ச்சி
+### Phenomenon
 
 *2024-05-21 01:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனதை-ஒருநிலைப்படுத்தும்-நிகழ்ச்சி/175-337612) · `ta`
 
-தற்போதைய சந்ததியினருக்கு தியானம் தொடர்பான புத்துணர்ச்சியை ஏற்படுத்தும் நோக்கில், 'புத்த ரஷ்மி' தேசிய வெசாக் பண்டிகையுடன் இணைந்ததாக ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம் மற்றும் கல்வி அமைச்சு என்பன இணைந்து ஏற்பாடு செய்த மனதை ஒருநிலைப்படுத்தி, வலுப்படுத்தும் நிகழ்ச்சி நேற்று  கொழும்பு சுதந்திர சதுக்கத்தில் நடைபெற்றது.
+The 'Buddha Rashmi' National Vesak festival, organized by the President's Office, Prime Minister's Office, and Ministry of Education, took place at Independence Square in Colombo. Aimed at inspiring the current generation, it featured meditation training led by Homagama Dhammakasala Thera, involving around 500 students from various educational institutions across the Colombo district.
 
-வணக்கத்திற்குரிய கலாநிதி கிரிந்தே அஸ்ஸாஜி தேரரின் ஆலோசனையின் கீழ் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டுதலில் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டது.
+🟩
 
-இந்த நிகழ்வில் கொழும்பு மாவட்டத்தைச் சேர்ந்த பாடசாலை மாணவர்கள், பல்கலைக்கழகங்கள், சர்வதேச பாடசாலைகள் மற்றும் தொழிநுட்பக் கல்லூரிகள் ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தி சுமார் 500 பேர் கலந்துகொண்டனர்.
+The President's Office, the Prime Minister's Office and the Ministry of Education, which organized the 'Buddha Rashmi' National Vesak festival, were held at the Independence Square in Colombo yesterday to reinforce the minds of the present generation.
 
-இந்த நிகழ்வில் மீதிரிகல ஆரண்ய சேனாசனவாசி வணக்கத்திற்குரிய ஹோமாகம தம்மகுசல தேரர் மாணவர்களுக்கு 'தியானம்' மேற்கொள்வது பற்றிய நடைமுறை பயிற்சிகளை வழங்கினார். (a)
+The event was organized under the guidance of President's Secretary Saman Ekanayake under the advice of worship Dr. Kirinde Asaji Thera.
+
+About 500 students from Colombo district represent school students, universities, international schools and technical colleges.
+
+At this event, the Homagama Dhammakasala Thera, who was worshiped by the Aranya Senasanavasi, presented practical training on 'meditation' to the students.. (A)
 
 ◼️
 
 [Data](articles/1e364594.json)
+
+[Extended Data](ext_articles/1e364594.ext.json)
 
 ---
 
@@ -2115,65 +2185,5 @@ If the general election is held before the presidential election, the true face 
 [Data](articles/c2486bcd.json)
 
 [Extended Data](ext_articles/c2486bcd.ext.json)
-
----
-
-### Anura and Sajith agree on date for debate
-
-*2024-05-20 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99343/anura-and-sajith-agree-on-date-for-debate) · `en`
-
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayake has accepted the date of June 06 from the dates proposed by the Samagi Jana Balawegaya (SJB) for the debate with its leader Sajith Premadasa.
-
-This was revealed by NPP executive committee member Dr. Nalinda Jayatissa, who is also the party‘s coordinator for the proposed ‘Anura-Sajith’ debate, in a statement issued to the media on Monday (20).
-
-Accordingly, Dr. Jayatissa further stated that he will discuss the other details such as the place, time and scope of the debate with SJP MP Nalin Bandara, who has been appointed by the ‘Samagi Jana Balawegaya’ to coordinate the proposed debate.
-
-◼️
-
-[Data](articles/0fd6de9e.json)
-
-[Extended Data](ext_articles/0fd6de9e.ext.json)
-
----
-
-### ICC prosecutor seeks arrest of Israeli and Hamas leaders
-
-*2024-05-20 18:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-prosecutor-seeks-arrest-of-Israeli-and-Hamas-leaders/108-282981) · `en`
-
-The chief prosecutor of the International Criminal Court (ICC) says he is seeking arrest warrants for Israeli and Hamas leaders, including Israeli Prime Minister Benjamin Netanyahu, over alleged war crimes.
-
-ICC prosecutor Karim AA Khan KC has made applications for the arrest warrants, claiming he has reasonable grounds to believe Mr Netanyahu and Israeli Defence Minister Yoav Gallant bear responsibility for war crimes and crimes against humanity during the Israel-Gaza war.
-
-Arrest warrants have also been sought for Hamas leaders Yahya Sinwar, Ismail Haniyeh and Mohammed Diab Ibrahim Al-Masri for alleged war crimes and crimes against humanity.
-
-The prosecutor must request the warrants from a pre-trial panel of three judges, who take on average two months to consider the evidence and determine if the proceedings can move forward.
-
-...
-
-[Data](articles/9a6ea52f.json)
-
-[Extended Data](ext_articles/9a6ea52f.ext.json)
-
----
-
-### Holidays for Puttalam Schools
-
-*2024-05-20 18:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/புத்தளம்-பாடசாலைகளுக்கு-விடுமுறை/94-337601) · `ta`
-
-Due to heavy rains flooding areas, Puttalam schools will be closed tomorrow for student safety, as decided by the Governor of the North Western Province and local officials.
-
-🟩
-
-Governor of the North Western Province Nasir Ahmad has appointed all schools in the Puttalam district of the North Western Province to grant holidays tomorrow (21) and tomorrow.
-
-Due to continuous heavy rains, many areas, including schools in the Puttalam district, have been flooded.
-
-After discussing with the Provincial Governor, Puttalam District Secretary and the Chief Secretary of the North Western Province, he has been given holidays to schools for the safety of school children.
-
-◼️
-
-[Data](articles/3703acf1.json)
-
-[Extended Data](ext_articles/3703acf1.ext.json)
 
 ---

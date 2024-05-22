@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 13:18:39**
+As of **2024-05-22 13:33:57**
 
 ## Newspaper Stats
 
-*Scraped **25,662** Articles*
+*Scraped **25,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,200
+adalk | 2,201
 adaderanalk | 2,956
 tamilmirrorlk | 2,997
 virakesarilk | 3,885
 dailymirrorlk | 4,031
-adaderanasinhalalk | 4,098
+adaderanasinhalalk | 4,099
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,662 (100.0%) of 25,662 articles have been extended.
+25,662 (100.0%) of 25,664 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -280,6 +280,30 @@ Sarath Fonseka, who has not rejected the meeting, said he would not abandon the 
 
 ---
 
+### බංග්ලාදේශ ක්‍රිකට් කණ්ඩායමට අමෙරිකාවෙන් මතක හිටින පාඩමක්
+
+*2024-05-22 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196899) · `si`
+
+අමෙරිකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන තරග තුනකින් සමන්විත 20යි 20 තරගාවලියේ පළමු තරගය ජය ගැනීම ට අමෙරිකාව සමත්විය.
+
+Prairie View හි පැවති එම තරගය කඩුලු 5කින් ජය ගැනීමට අමෙරිකාව සමත්වූයේ බංග්ලාදේශ කණ්ඩායම අන්දමන්ද කරමිනි.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම සිය පන්දු ඕවර 20 තුළදී කඩුලු 6ක් දැවී ලකුණු 153ක් රැස්‌ කළේය.
+
+ඊට පිළිතුරු ලෙස අමෙරිකාව, පන්දු ඕවර 19.3කදී කඩුලු 5ක් දැවී ලකුණු 156ක් ලබාගනිමින් තරගය ජයගත්තේය.
+
+ඔවුන් වෙනුවෙන් හාර්මීට් සිං පන්දු 13කදී නොදැවී ලකුණු 33ක් රැස් කළ අතර ඔහු ඉන්දීය අවුරුදු 19න් පහළ කණ්ඩායමේ හිටපු ක්‍රීඩකයෙකි.
+
+එසේම නවසීලන්තයේ හිටපු ක්‍රීඩක කෝරි ඇන්ඩර්සන් නොදැවී ලකුණු 34ක් ලබාගත්තේය.
+
+20යි 20 කණ්ඩායම් අතුරින් අයි සී සී ශ්‍රේණි ගත කිරීමේ සටහන අනුව බංග්ලාදේශ කණ්ඩායම 09 වන ස්ථානයේ රැඳී සිටින අතර අමෙරිකාව ට හිමිව ඇත්තේ 19 වන ස්ථානය යි.
+
+◼️
+
+[Data](articles/fecddeb5.json)
+
+---
+
 ### Schoolgirl dies after being run over by bus
 
 *2024-05-22 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99376/schoolgirl-dies-after-being-run-over-by-bus) · `en`
@@ -469,6 +493,26 @@ The new times have been announced that it will run from 9 am to 10 pm on the 26t
 [Data](articles/f2f4c08c.json)
 
 [Extended Data](ext_articles/f2f4c08c.ext.json)
+
+---
+
+### නිවසේ උඩුමහලේ මිය ගොස් දුගඳ හමන තෙක් කවුරුත් දැන නොගත් ඔහුට සිදුවූයේ කුමක්ද ?
+
+*2024-05-22 11:28:42* · [`adalk`](https://www.ada.lk/breaking_news/නිවසේ-උඩුමහලේ-මිය-ගොස්-දුගඳ-හමන-තෙක්-කවුරුත්-දැන-නොගත්-ඔහුට-සිදුවූයේ-කුමක්ද--/11-409782) · `si`
+
+හෝමාගම පිටිපන දෙමහල් නිවසක උඩුමහලේ කාමරයක් තුළ තිබී දින හතරකට පමණ පෙර අභිරහස් ලෙස මියගිය බවට සැක කෙරෙන පුද්ගල මළ සිරුරක් සොයා ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ හෝමාගම පිටිපන උතුර , කිරිබේරිය කැලේ, 61 හැවිරිදි පරිගණක ඉංජිනේරුවරයකු බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා විවාහක බිරිඳගෙන් වෙන්ව සිය මව , පියා සහ සහෝදරිය සමඟ මවගේ නිවසේ වාසය කර ඇති අතර මාපියන් පහල මාලයේ සහ මොහු උඩුමහලයේ වාසය කර ඇතැයි පැවසේ.
+
+මේ අතර මොහු පහළ මහලට නොපැමිණීම නිසා සොයා බැලීමට මාපියන් සමඟ සිටින සහෝදරිය ඉකුත් 18 දා උඩු මහලට ගොස් සොයා බලා ඇති අතර ඔහු නිවසේ පෙනෙන්නට නොමැතිවීම නිසා යළිත් පහළ මහලට පැමිණ තිබේ.
+
+ඉන් පසුව ඉකුත් 21 දා උදෑසන මිතුරෙකු සමග යොදාගත් ගමනක් යාමට නොපැමිණීම නිසා එම මිතුරා මාපියන්ට දුරකථනයෙන් අමතා පවසා ඇත්තේ දුරකථන ඇමතුම් කිහිපයක් ලබා ගත්තත් ඊට ප්‍රතිචාර නොදක්වන නිසා සොයා බලා දන්වන ලෙසයි.
+
+...
+
+[Data](articles/f1e870ef.json)
 
 ---
 
@@ -2285,59 +2329,5 @@ We will announce our presidential candidate in two more weeks. President Ranil W
 [Data](articles/2f631d32.json)
 
 [Extended Data](ext_articles/2f631d32.ext.json)
-
----
-
-### Kolkata entered the first team in the final by beating Hyderabad by 8 wickets
-
-*2024-05-22 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184177) · `ta`
-
-Kolkata Knight Riders secured a spot in the IPL final after defeating Sunrisers Hyderabad by 8 wickets in the first qualifier. They chased down Hyderabad's 160-run target in 13.4 overs, with Rahmatullah Gurbaz and Sunil Narine contributing 44 runs before being dismissed. Shreyas Iyer and Venkatesh Iyer then combined for 97 runs, securing victory with Shreyas scoring 58 off 24 balls and Venkatesh making 51 off 28. Thangarasu Natarajan and Basil Thampi claimed one wicket each for Hyderabad, who were bowled out for 159 runs in 19.3 overs.
-
-🟩
-
-Kolkata Knight Riders, who won Sunrisers Hyderabad by 8 wickets in the first qualifying match of the 17th Indian Premier League chapter held at the Narendra Modi Stadium on Tuesday night (21) at the Narendra Modi Stadium.
-
-Former champions, Kolkata Knight Riders, who have expressed great energies in all sectors, won the remaining 6.2 overs and qualified for the final for the fourth time.
-
-In 2012 and 2014, Kolkata Knight Riders were second in 2021.
-
-Sunrisers Hyderabad won the total number of 160 runs, Kolkata Knight Riders, who were bowled out for 164 runs in 13.4 overs, scoring 164 runs.
-
-Rahmatullah Gurbas (23) and Sunil Narain (21) shared 44 runs in 3.2 overs. The two lost by 23 runs.
-
-The pair of other batsmen Venkatesh Iyer and team captain Shreyas Iyer were then facing the opposition bowlers and accumulating the run and confirming the victory.
-
-They shared 97 off 44 balls in the 3rd wicket.
-
-Shreyas Iyer did not lose 58 off 24 balls and Venkatesh Iyer 51 off 28 balls.
-
-...
-
-[Data](articles/9e470706.json)
-
-[Extended Data](ext_articles/9e470706.ext.json)
-
----
-
-### Did BASL misappropriate monies sent by JICA for anti-corruption programme?
-
-*2024-05-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Did-BASL-misappropriate-monies-sent-by-JICA-for-anti-corruption-programme/231-283121) · `en`
-
-There are allegations that monies sent by JICA to implement a survey and conduct workshops to combat bribery and corruption in the country have been misappropriated
-
-JICA acknowledges that it collaborated with the BASL to initiate a drive against bribery and corruption in Sri Lanka
-
-BASL maintains that it is erroneous to say that JICA has given a grant or money to BASL to conduct a programme
-
-What can the citizens of this country expect from the Bar Association of Sri Lanka (BASL), which plays a crucial role in administering justice and upholding the rule of law when its principal office bearers are allegedly involved in massive corruption? This seems to be the question raised by law abiding citizens of this country regarding the BASL.
-
-Five members of the incumbent BASL are under the spotlight for allegedly syphoning money the Association received from Japan International Cooperation Agency (JICA) to implement a survey and conduct workshops to combat bribery and corruption in the country.
-
-...
-
-[Data](articles/34d9771f.json)
-
-[Extended Data](ext_articles/34d9771f.ext.json)
 
 ---

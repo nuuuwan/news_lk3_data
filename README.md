@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 20:18:31**
+As of **2024-05-22 20:34:11**
 
 ## Newspaper Stats
 
-*Scraped **25,747** Articles*
+*Scraped **25,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,965
 tamilmirrorlk | 3,003
 virakesarilk | 3,903
 dailymirrorlk | 4,047
-adaderanasinhalalk | 4,113
+adaderanasinhalalk | 4,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,742 (100.0%) of 25,747 articles have been extended.
+25,747 (100.0%) of 25,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතිය අත්හිටුවයි
+
+*2024-05-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196915) · `si`
+
+එළඹෙන LPL තරගාවලිය සඳහා සහභාගීවීමට නියමිතව සිටි දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතීන් වහාම ක්‍රියාත්මක වන පරිදි අත්හිටුවීමට කටයුතු කළ බව ලංකා ප්‍රිමියර් ලීග් නිවේදනය කළේය.
+
+LPL සංවිධායක කමිටුවේ සභාපති අනිල් මොහාන් මහතා පැවසුවේ LPL තරගාවලියේ විනිවිදභාවය සහ ගුණාත්මක භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් මෙම පියවර ගත් බවය.
+
+Imperial Sports Group ප්‍රධාන විධායක නිලධාරී තමීම් රහමාන් මුහුණදී ඇති නීතිමය කරුණු සලකාබලා ඉහත තීරණය ගත් බව අදාළ නිවේදනයේ දැක්වෙයි.
+
+වැඩිදුරටත් වාර්තා වෙන්නේ LPL තරගාවලියේ දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතිය වෙනත් පාර්ශ්වයකට හිමිකර දීමට නියමිත බවය.
+
+එලෙස නව හිමිකාරීත්වය යටතේ දඹුල්ල කණ්ඩායමට LPL තරගාවලිය සඳහා ක්‍රීඩා කිරීමට හැකියාව පවතින බවද වාර්තා විය.
+
+◼️
+
+[Data](articles/64fcd728.json)
+
+---
 
 ### LPL terminates contract with Dambulla franchise owners
 
@@ -48,6 +68,8 @@ The LPL management is working diligently to address the consequences of this ter
 
 [Data](articles/c3e036b3.json)
 
+[Extended Data](ext_articles/c3e036b3.ext.json)
+
 ---
 
 ### Finance ministry to revise customs rewards after audit reveals Rs. 24,220 million payout
@@ -64,23 +86,31 @@ Addressing the media after a programme held in Ruwanwella, Finance State Ministe
 
 [Data](articles/d457796f.json)
 
+[Extended Data](ext_articles/d457796f.ext.json)
+
 ---
 
-### நீர் வற்றியுள்ள விக்டோரியா நீர்த்தேக்கம்
+### Water -dried Victoria reservoir
 
 *2024-05-22 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184261) · `ta`
 
-நாடு முழுவதும் கடும் மழைபெய்வதன்  காரணமாக நீர்த்தேக்கங்கள் நிரம்பி வழிந்தாலும், நீர் மின் உற்பத்திக்கு அதிக அளவில்  நீர் வழங்கும் மிகப் பெரிய நீர்த்தேக்கமான விக்டோரியா நீர்த்தேக்கத்தின் நீர் வற்றிய நிலையின் காணப்படுகிறது.
+Despite heavy rains nationwide, the Victoria reservoir, crucial for hydroelectric power, is drying up due to insufficient rain in its catchment area, affecting the Teldeniya region.
 
-22 ம் திகதி புதன்கிழமை பிற்பகல் எடுக்கப்பட்ட இப் படங்கள் விக்டோரியா நீர்த்தேக்கத்தின் நீர் எவ்வாறு வற்றியுள்ளது என்பத்தை காட்டியது.
+🟩
 
-விக்டோரியா நீர்த்தேக்கத்தின் நீர் வற்றியுள்ளதன் காரணமாகப்  பழைய தெல்தெனிய நகரின் சில பழைய பகுதிகளைக் காட்டுகிறது.
+Although the reservoirs are overflowing due to heavy rains across the country, the water dried up of the Victoria reservoir, the largest reservoir, which supplies the highest amount of water power generation.
 
-கண்டி மாவட்டம் உள்ளிட்ட மத்திய மலையகப் பகுதிகளில் கடும் மழை பெய்து வருகின்ற போதிலும், விக்டோரியா நீர்த்தேக்கத்தின் நீர்போஷன பகுதிகளுக்கு போதிய மழை பெய்யாத காரணத்தினால் விக்டோரியா நீர்த்தேக்கம் வறண்டு காணப்படுவதாகத் தெரிவிக்கப்படுகின்றது.
+The pictures, which were taken on Wednesday afternoon, showed how the water of the Victoria reservoir dried up.
+
+The water of the Victoria reservoir shows some old areas of the old Teldeniya city.
+
+Despite heavy rains in the central hill country, including the Kandy district, the Victoria reservoir is reported to be drying up due to inadequate rainfall for the Waterproof areas of the Victoria reservoir.
 
 ◼️
 
 [Data](articles/e470c699.json)
+
+[Extended Data](ext_articles/e470c699.ext.json)
 
 ---
 
@@ -106,25 +136,31 @@ The statement further reads: “This termination/retraction of rights aims to up
 
 ---
 
-### நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே முதல் பணி; பாதுகாப்பு  விசேட ஏற்பாடுகள் சட்டத்தை சமர்ப்பிக்கவும் ஏற்பாடு - ஜனாதிபதி
+### The first task is to strengthen the country's economy;Make Special Arrangements Law to the Protection of Security - President
 
 *2024-05-22 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184260) · `ta`
 
-நாட்டைப் பொறுப்பேற்ற பின்னர் நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே தனது முதல் பணியாக இருந்தது என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe focuses on strengthening Sri Lanka's economy, aiming for quick decisions in the next four and a half years. He mentions progress in talks with lenders to avoid bankruptcy and the IMF's acceptance of ongoing tasks. Plans include submitting a Special Provisions Act, legalizing the Armed Forces Committee, and improving retired security personnel's lives. A new institute for strategic studies is proposed, along with addressing veterans' issues and economic recovery efforts.
 
-எதிர்வரும் நான்கைந்து வருடங்களில் நாட்டின் பொருளாதாரத்திற்கு எடுக்கப்பட வேண்டிய தீர்மானங்களை விரைவாக எடுக்க வேண்டியிருந்ததாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-நாடு தற்போது பொருளாதார ரீதியில் முன்னேற்றம் கண்டு வருகிறது எனவும், வங்குரோத்து நிலையில் இருந்து முழுமையாக விடுபடுவது தொடர்பாக கடன் வழங்கிய நாடுகளுடன் இப்போது பேச்சுவார்த்தை நடத்தி வருவதாகவும் ஜனாதிபதி தெரிவித்தார்.
+President Ranil Wickremesinghe said his first task was to strengthen the country's economy after taking over the country.
 
-தற்போது முன்னெடுக்கப்பட்டு வரும் பணிகளை சர்வதேச நாணய நிதியம் ஏற்கனவே  ஏற்றுக்கொண்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+The President also said that in the next four and a half years, the country's economy had to make decisions quickly.
 
-இந்த நிலையில், பாதுகாப்பு  விசேட ஏற்பாடுகள் சட்டத்தை சமர்ப்பிக்க எதிர்பார்ப்பதாக தெரிவித்த ஜனாதிபதி, தேசிய பாதுகாப்பு சபையை சட்டபூர்வமாக்குவதற்கும் ஆயுதப்படை குழுவை நியமிப்பதற்கும் தான் எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+The President said that the country is currently making economic progress and is now in talks with the countries that have been lending to be completely free from bankruptcy.
 
-அத்துடன், ஓய்வுபெற்ற பாதுகாப்புப் படை வீரர்களின் வாழ்க்கைத் தரத்தை மேம்படுத்த புதிய வேலைத்திட்டம் ஒன்று அமுல்படுத்தப்படும் எனவும் தெரிவித்தார்.
+The President also pointed out that the International Monetary Fund has already accepted the ongoing tasks.
+
+At this juncture, the President said he expects to submit the Special Provisions Act and that he expects the National Security Council to legalize and appoint the Armed Forces Committee.
+
+He also said that a new program would be implemented to improve the quality of life of retired security personnel.
 
 ...
 
 [Data](articles/ca12753f.json)
+
+[Extended Data](ext_articles/ca12753f.ext.json)
 
 ---
 
@@ -990,21 +1026,31 @@ Increasing other uniforms, travel, communication offers, the Secretary of the Mi
 
 ---
 
-### கடன் மறுசீரமைப்பு நடவடிக்கையை அரசாங்கம் மேற்கொள்ளப்போவதில்லை - லக்ஷ்மன் கிரியெல்ல
+### The government is not going to carry out a debt restructuring - Lakshman Kiriella
 
 *2024-05-22 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184231) · `ta`
 
-கடன் மறுசீரமைப்பு தொடர்பில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை ஜனாதிபதி தேர்தல் முடியும்வரை முடிவுக்கு கொண்டுவரப்போவதில்லை. ஏனெனில் கடன் மறுசீரமைப்பு செய்யாமல் இருக்கும்வரை கடன் செலுத்த தேவையில்லை.
+Lakshman Kiriella criticizes the government for failing to implement laws effectively, citing examples like the lack of action against a lawmaker accused of assaulting an airport employee. He also mentions the government's avoidance of the UN Human Rights Council due to potential accountability issues. Kiriella argues that the government's inability to uphold the rule of law and its reluctance towards debt restructuring until after the presidential election hinder economic development.
 
-நாட்டை வங்குராேத்தாக்கிய அரசாங்கத்துக்கு நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முடியாது.அதனால் புதிய அரசாங்கம் ஒன்றை ஏற்படுத்திக்கொள்ள  அரசாங்கம் வழிவிட வேண்டும் என எதிர்க்கட்சி பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற சபை ஒத்திவைப்பு வேளை பிரேரணையை முன்வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The agreement with the IMF on debt restructuring is not going to end the presidential election until the presidential election is over. This is because the debt does not need to pay until the debt is not reorganized.
 
-அரசாங்கம் இந்த காலப்பகுதியில் 75 புதிய சட்டங்களை கொண்டுவந்து அனுமதித்துக்கொண்டுள்ளதாக ஜனாதிபதி அண்மையில் தெரிவித்திருந்தார்.
+The government that has made the country the country cannot build the economy of the country.
+
+He said this while addressing the adjournment of the House in Parliament on Wednesday (22).
+
+The President recently said that the government has passed 75 new laws during this period.
+
+It is true. But even if the laws are allowed, they are not properly implemented. Over the past few years, the law has been established only for the government. The current chief justice king has filed 42 cases during the Good Governance. But the Gotabhaya government did not know what happened to the cases after the arrival of the government.
+
+We recently found a Member of Parliament attacked an ordinary employee at the Katunayake airport.
 
 ...
 
 [Data](articles/db1baea2.json)
+
+[Extended Data](ext_articles/db1baea2.ext.json)
 
 ---
 
@@ -2259,21 +2305,5 @@ During the session in Parliament on Wednesday (22), Prasanna Ranatunga, the prim
 [Data](articles/26ab6028.json)
 
 [Extended Data](ext_articles/26ab6028.ext.json)
-
----
-
-### SL Parliament observe one minute silence for Iranian President
-
-*2024-05-22 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Parliament-observe-one-minute-silence-for-Iranian-President/108-283150) · `en`
-
-Parliament, May 22 (Daily Mirror) -The Sri Lankan Parliament observed one minute's silence for Iranian President Ebrahim Raisi and others who were killed in a helicopter crash recently.
-
-Observing of a minute's silence was proposed by Chief Government Whip Prasanna Ranatunga.
-
-◼️
-
-[Data](articles/77d4fece.json)
-
-[Extended Data](ext_articles/77d4fece.ext.json)
 
 ---

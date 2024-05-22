@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 21:53:33**
+As of **2024-05-22 22:06:33**
 
 ## Newspaper Stats
 
-*Scraped **25,764** Articles*
+*Scraped **25,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,486
 dailyftlk | 1,521
-adalk | 2,211
-adaderanalk | 2,965
+adalk | 2,212
+adaderanalk | 2,966
 tamilmirrorlk | 3,003
 virakesarilk | 3,911
 dailymirrorlk | 4,052
@@ -26,27 +26,51 @@ adaderanasinhalalk | 4,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,763 (100.0%) of 25,764 articles have been extended.
+25,764 (100.0%) of 25,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### 2023 இல் கனடாவிலிருந்து அனலைதீவிற்கு சென்றவேளை தாக்கப்பட்ட வயோதிப தம்பதியினர் -  இன்னமும் நீதி வழங்கப்படவில்லை - குடும்பத்தவர்கள் கவலை
+### President announces special govt program for welfare of retired war veterans
+
+*2024-05-22 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99387/president-announces-special-govt-program-for-welfare-of-retired-war-veterans) · `en`
+
+President Ranil Wickremesinghe announced the implementation of a new program aimed at improving the living conditions of retired security forces members, the President’s Media Division reported.
+
+The President highlighted that, in the absence of a dedicated program, some veterans have faced difficult situations. Consequently, the President has directed the State Minister of Defence, the Ministry of Defence, and the Ranaviru Seva Authority to give special attention to this matter.
+
+President Ranil Wickremesinghe made this statement today, (22), during the inauguration of the headquarters complex of the Sri Lanka Ex-Servicemen’s Association, also known as the ‘Home of Veterans,’ located at Defence Ministry Avenue in Akuregoda, Battaramulla.
+
+The President emphasized the government’s commitment to the welfare of retired war heroes, announcing that those residing in war hero villages will be granted free land rights under the ‘Urumaya’ National Program.
+
+...
+
+[Data](articles/ebec6890.json)
+
+---
+
+### When they moved from Canada to Analadee in 2023
 
 *2024-05-22 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184254) · `ta`
 
-கடந்த வருடம் கனடாவிலிருந்து வருகை தந்து அனலை தீவில் தங்கியிருந்த வயோதிப தம்பதியரை கொலை செய்வதற்கும் அவர்களின் பொருட்களை திருடுவதற்கும் முயற்சித்தவர்களை நீதியின் முன் நிறுத்துவதற்கான  நடவடிக்கைகள் காலதாமதமாவது குறித்து அவர்களின் குடும்பத்தினர் கவலை வெளியிட்டுள்ளனர்.
+In 2023, a Canadian family moved to Analadee, facing delays in processing their immigration. On February 23, 2023, they experienced a traumatic event when three attackers invaded their home, brutally assaulting them. The elderly couple, originally from Canada, were visiting their ancestral homeland in Sri Lanka. The attackers, armed with weapons, targeted them in their sleep, causing severe injuries including fractures and internal bleeding. Despite medical interventions and relocation for safety reasons, the victims continue to face challenges in recovery and seek justice.
 
-பெப்ரவரி 23, 2023 -  அந்த நாள் வலி மற்றும் ஆழ்ந்த அவநம்பிக்கை எங்கள் நினைவுகளில் பொறிக்கப்பட்ட ஒரு நாள். எங்கள் அன்புக்குரிய தந்தை சுப்பிரமணியம் நாகலிங்கம் மற்றும் எங்கள் அன்பான தாயார் இந்திரதேவி சுப்ரமணியம் அவர்கள் இலங்கைக்கான தாயகம் திரும்பும் பயணத்தின் அமைதியைத் தகர்க்கும் ஒரு பயங்கரமான சம்பவத்தை எதிர்கொண்டனர்.
+🟩
 
-இந்தியாவின் கேரளாவிற்கு ஆன்ம ஊட்டமான புனித யாத்திரை பயணத்திற்குப் பிறகு, எங்கள் தந்தையின் பூர்வீக வீடு அமைந்த இலங்கையின் அனலை தீவில், அவர்களின் வேர்களை வணங்க எங்கள் பெற்றோர் முடிவு செய்தனர்.
+Their families have expressed concern over the delay in the delay in the process of keeping those who tried to kill the elderly couple who arrived from Canada last year and stole their goods.
 
-அனலை தீவில் வசித்தபோது வாள்கள் மற்றும் தடிகள்  ஏந்திய மூன்று தாக்குதல்காரர்களால் திட்டமிடப்பட்ட ஒரு பயங்கரமான வன்முறையால்  அவர்களின் அமைதியான தூக்கத்தை  தொலையும் என்பதை அவர்கள் அறிந்திருக்கவில்லை.
+February 23, 2023 -that day is a day of pain and deep distrust engraved in our memories. எங்கள் அன்புக்குரிய தந்தை சுப்பிரமணியம் நாகலிங்கம் மற்றும் எங்கள் அன்பான தாயார் இந்திரதேவி சுப்ரமணியம் அவர்கள் இலங்கைக்கான தாயகம் திரும்பும் பயணத்தின் அமைதியைத் தகர்க்கும் ஒரு பயங்கரமான சம்பவத்தை எதிர்கொண்டனர்.
+
+After the pilgrimage to Kerala, India, our parents decided to worship their roots on the island of Sri Lanka, where our father's native home is located.
+
+They are not aware that a terrible violence planned by three attackers carrying swords and sticks while living on the island of Anale will cause their peaceful sleep.
 
 ...
 
 [Data](articles/fc5ed358.json)
+
+[Extended Data](ext_articles/fc5ed358.ext.json)
 
 ---
 
@@ -1057,6 +1081,20 @@ He understood the shortcomings of all the leaders who so far.  They are accepti
 [Data](articles/a8901c7e.json)
 
 [Extended Data](ext_articles/a8901c7e.ext.json)
+
+---
+
+### අපුර දක්ෂිණ බහු විධ ප්‍රවාහන මධ්‍යස්ථානයේ ඉදි කිරීම් වසර තුල අවසන් කරන්න උපදෙස්
+
+*2024-05-22 16:04:26* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-දක්ෂිණ-බහු-විධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදි-කිරීම්-වසර-තුල-අවසන්-කරන්න-උපදෙස්/11-409793) · `si`
+
+අනුරාධපුර වන්දනාවේ පැමිණෙන බැතිමතුන්ගේ පහසුව සදහා අනුරාධපුර පුජාභූමිය හා ඒ අවට විශේෂ සංවර්ධන ව්‍යාපෘති රැසක් ක්‍රියාත්මකයි. මෙම සංවර්ධන කටයුතු සිදුකරන්නේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය හා නාගරික සංවර්ධන අධිකාරිය ඒකාබද්ධවයි.
+
+උපාය මාර්ගික නගර සංවර්ධන ව්‍යාපෘතිය යටතේ අනුරාධපුර ඒකාබද්ධ නගර සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණේ ශ්‍රී ලංකා රජය සහ සංවර්ධනය පිළිබද ප්‍රංශ නියෝජිත ආයතනය අතර හවුල්කාරිත්වයෙනි. අනුරාධපුරයේ ස්වභාවික උරුමයන් රැකගනිමින් අනුරාධපුර නගරයේ පූජනීය හා නවීන කොටස් අතර නවීන කොටස් අතර සංවර්ධනය වෙනුවෙන් තුලිත ක්‍රමවේදයක් ප්‍රචලිත කිරීම ව්‍යාපෘතියේ අරමුණයි. මේ සදහා වෙන් කෙරුණු මුදල යූරෝ මිලියන 62.4කි. මෙම ව්‍යාපෘතිය යටතේ උප ව්‍යාපෘතීන් 11ක් ක්‍රියාත්මක කෙරිණි.
+
+...
+
+[Data](articles/ad796c30.json)
 
 ---
 
@@ -2261,55 +2299,5 @@ It is noteworthy that the final tribute event of Iranian President Ibrahim Raisi
 [Data](articles/59fe0c81.json)
 
 [Extended Data](ext_articles/59fe0c81.ext.json)
-
----
-
-### LPL tournament: The owner of the Dambulla Tunders team remanded
-
-*2024-05-22 12:33:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz557y3d1n0o) · `si`
-
-Mother Rauman, a British-Bangladeshi national, faces charges related to match-fixing in the upcoming LPL tournament. Arrested by Sri Lanka's Sports Pollution Prevention Division, Rauman allegedly conspired to betray a major match, discussed plans with a complainant, and aimed to influence the Dambulla team's selection. Despite claims of bringing significant funds to Sri Lanka, no concrete evidence of financial wrongdoing has emerged. The case highlights concerns over sports corruption and the challenges of proving such allegations.
-
-🟩
-
-The owner of the Dambulla Thunders team to be remanded will be remanded on the 31st of this month (May 22).
-
-The suspect, named Mother Rauman, was arrested by the Sports Pollution Prevention Division and produced before the Mandarana Bandaranaike International Airport.
-
-It is said that he is a Bangladeshi national of British citizenship.
-
-State Counsel Udara Karunathilaka, who appeared for the Sports Pollution Prevention Unit, said that the suspect had been arrested in connection with the Colombo Additional Magistrate Harshana.
-
-"Lord .... The suspect has been arrested in connection with the newly betrayal of a betrayal of a large scale match that was to be conducted at the upcoming Lill.
-
-"The suspect has held a long telephone conversation with the complainant of the incident. "
-
-"The complainant had come to Sri Lanka on April 22 on April 22nd.
-
-"Discussed with the complainant about how to meet and betrayal. Investigators also have all the voices. "
-
-...
-
-[Data](articles/05fc6ad3.json)
-
-[Extended Data](ext_articles/05fc6ad3.ext.json)
-
----
-
-### The Economic Change Bill was submitted to the House
-
-*2024-05-22 12:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மாற்ற-சட்டமூலம்-சபையில்-சமர்ப்பிக்கப்பட்டது/175-337692) · `ta`
-
-The Economic Change Bill, including the creation of investment zones and the Sri Lanka Economy and International Trade Organization, replaced the Investment Council Act, was recently submitted to Parliament.
-
-🟩
-
-The Economic Transfer Bill, which issued the Economic Commission of Sri Lanka, the establishment of investment zones, the establishment of the Sri Lanka Economy and the International Trade Organization and the repeal of the Investment Council Act, was submitted to Parliament just before.
-
-◼️
-
-[Data](articles/1240159d.json)
-
-[Extended Data](ext_articles/1240159d.ext.json)
 
 ---

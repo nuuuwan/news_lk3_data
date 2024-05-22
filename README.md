@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 19:34:04**
+As of **2024-05-22 19:51:46**
 
 ## Newspaper Stats
 
-*Scraped **25,740** Articles*
+*Scraped **25,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,486
 dailyftlk | 1,521
-adalk | 2,209
-adaderanalk | 2,964
+adalk | 2,210
+adaderanalk | 2,965
 tamilmirrorlk | 3,003
 virakesarilk | 3,900
 dailymirrorlk | 4,045
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,740 (100.0%) of 25,740 articles have been extended.
+25,740 (100.0%) of 25,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### LPL terminates ‘Dambulla Thunders’ franchise with immediate effect
+
+*2024-05-22 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99386/lpl-terminates-dambulla-thunders-franchise-with-immediate-effect) · `en`
+
+The Lanka Premier League (LPL) today announced the termination and the retraction of rights of the “Dambulla Thunders” franchise, effective immediately.
+
+The above decision follows recent developments concerning the legal issues faced by Tamim Rahman, CEO of Imperial Sports Group, the owner of the “Dambulla Thunders” franchise.
+
+“While the specifics of the charges against Mr. Rahman remain unclear, the integrity and smooth running of the Lanka Premier League are of utmost importance,” the LPL said.
+
+The statement further reads: “This termination/retraction of rights aims to uphold the values and reputation of the LPL, ensuring that all participants adhere to the highest standards of conduct and sportsmanship.”
+
+“The LPL management is working diligently to address the consequences of this termination/ retraction of rights and to ensure minimal disruption to the upcoming season.”
+
+...
+
+[Data](articles/fe97cc36.json)
+
+---
 
 ### Sri Lanka to offer military tactics education to armed forces, retirees, civilians: President
 
@@ -583,6 +603,24 @@ Thus, the birth of four children in the same environment takes place in 5 lakhs 
 [Data](articles/9a9b5cbb.json)
 
 [Extended Data](ext_articles/9a9b5cbb.ext.json)
+
+---
+
+### තවත් වසර 12ක් රනිල්ට බලය දිය යුතුයි
+
+*2024-05-22 16:11:03* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-12ක්-රනිල්ට-බලය-දිය-යුතුයි/11-409794) · `si`
+
+තව වසර දොළහක් මෙරට පාලනය කිරීමට වත්මන් ජනාධිපතිතුමාට බලය ලබා දිය යුතු බවත් එය එසේ නොකොට වෙනත් පුද්ගලයකුට මේ රට භාර දීමට කටයුතු කළොත් පෙර තිබුණ තත්ත්වයට යළි රටේ අඳුරු අගාධයකට වැටෙන බවත් එක්සත් ජාතික පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා අද (22) ගාල්ලේ දී ප්‍රකාශ කළේය
+
+වෙසක් උත්සවය නිමිත්තෙන් පිරිවෙන්, විහාරස්ථාන, දන්සැල්,  සඳහා සහල් සහ මූල්‍ය ආධාර ප්‍රදානය කිරීම නිමිත්තෙන් ගාල්ල එක්සත් ජාතික පක්ෂ කාර්යාලයේදී ජන හමුවක් පැවැත්විණි .
+
+එම ජන හමුවෙන් පසුව මාධ්‍ය වෙත දැක්වූ අදහස් දක්වමින් වජිර අබේවර්ධන මහතා මේ බව ප්‍රකාශ කළේය.
+
+"රනිල් වික්‍රමසිංහ මැතිතුමා  මේ රට තිබුණු අඳුරු ආගාධයෙන් ගොඩ ගත්තා.වසර දෙකකදි තිබූ තත්ත්වය වෙනස්කරා. රට තිබුණු තත්ත්වයෙන් වෙනස් කර මිනිසුන්ට සැනසීමේ හුස්ම ගන්ට ඉඩකඩ සලස්වා දුන්නා. වැටුණු රටට නායකත්වය දීලා රට ගොඩ ගන්න වැඩපිළිවෙළක් සකස් කළා.
+
+...
+
+[Data](articles/a8901c7e.json)
 
 ---
 
@@ -2259,51 +2297,5 @@ When you collapse, if the school was held at the time of the decline, if the tra
 [Data](articles/4a997b03.json)
 
 [Extended Data](ext_articles/4a997b03.ext.json)
-
----
-
-### Emergency notice to fishermen
-
-*2024-05-22 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196898) · `si`
-
-Due to safety concerns, the Department of Fisheries and Aquatic Resources has banned departures for all fishing vessels, including multi-day ones. This decision follows reports of unsafe sea conditions around the island. Coastal fishing vessels are advised to remain docked until further notice.
-
-🟩
-
-The Department of Fisheries and Aquatic Resources says that it will not be permitted to departure to all fishing vessels, including multi-dedicated multi-day vessels.
-
-Speaking to the media, Director General of the Department Susantha Kahawatta made this observation.
-
-The department has taken this decision with the report to be reported in the next few days of sea areas around the island.
-
-The Director of the Ministry further stated that it has been informed to travel through the coastal fishing vessels.
-
-◼️
-
-[Data](articles/2bd3e98b.json)
-
-[Extended Data](ext_articles/2bd3e98b.ext.json)
-
----
-
-### The Hindu Federation demanding the Briths of Thera
-
-*2024-05-22 11:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரருக்கு-பொதுமன்னிப்புக்-கோரும்-இந்து-சம்மேளனம்/175-337682) · `ta`
-
-The Sri Lanka Hindu Federation has urged the President to apologize, highlighting misunderstandings about Gnanasara Thera's statements and actions. They praise Thera's efforts to maintain peace and unity within religious communities, aiming to preserve the nation's economic, social, and spiritual integrity.
-
-🟩
-
-The Sri Lanka Hindu Federation has appealed to the President to apologize for the President.
-
-In their letter to the president, they said that some of the statements and behavior of Gnanasara Thera had been misunderstood or misunderstood by some democratic organizations of the government with the aim of disrupting the democratic voice of Gnanasara Thera.
-
-They have also mentioned the services of Thera in the letter that Gnanasara Thera has worked to uphold peace among the followers of his respective religious beliefs and to eliminate the contradictions that destroy the country's economic, social and spiritual sites.
-
-◼️
-
-[Data](articles/5d00621f.json)
-
-[Extended Data](ext_articles/5d00621f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 14:18:24**
+As of **2024-05-22 14:34:06**
 
 ## Newspaper Stats
 
-*Scraped **25,681** Articles*
+*Scraped **25,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,107 @@ islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,202
-adaderanalk | 2,957
+adaderanalk | 2,958
 tamilmirrorlk | 2,999
 virakesarilk | 3,892
 dailymirrorlk | 4,034
-adaderanasinhalalk | 4,102
+adaderanasinhalalk | 4,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,678 (100.0%) of 25,681 articles have been extended.
+25,681 (100.0%) of 25,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ජනාධිපතිවරණය ගැන ජනපතිගෙන් දැනුම්දීමක්
+### නැතිවූ ඔබේ යතුරුපැදියත් මෙතැන තිබේදැයි බලන්න
+
+*2024-05-22 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196903) · `si`
+
+පාතාල සාමාජිකයන්ට විවිධ අපරාධ කිරීම සදහා යොදා ගැනීමට, සොරකම් කළ යතුරුපැදි අලෙවි කළ තරුණයන් දෙදෙනෙකු මිනුවන්ගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔවුන්ගෙන් මේ වනවිට රඳවා ගැනීමේ නියෝග මත ප්‍රශ්න කරමින් සිටින බව පොලීසිය පැවසීය.
+
+ඔවුන් අතුරින් එක් අයෙක් 31 හැවිරිදි උඩුගම්පොළ, කෙහෙල්බද්දර ජූඩ් නොහොත් සුබසිංහ ආරච්චිගේ තරිඳු ජූඩ් ලක්මාල් පෙරේරා වන බවත් අනෙක් පුද්ගලයා උඩුගම්පොළ, පතහවත්තේ සුද්දා නොහොත් වික්‍රමහෙට්ටි කොන්තිලාගේ හසිත ප්‍රසාද් කුමාර නැමැති අය බවත් පොලීසිය පැවසීය.
+
+මොවුන් මිනුවන්ගොඩ, දෙවලපොළ ප්‍රදේශයේ යතුරුපැදියක් සොරකම් කර පළායමින් සිටියදී මෙහි දෙවන සැකකරු වන පතහවත්තේ සුද්දා ඉකුත් අඟහරුවාදා (14) මිනුවන්ගොඩ පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහුව රඳවා තබා ගෙන ප්‍රශ්න කිරීම්වලදී සියල්ල අනාවරණ කරගෙන තිබේ.
+
+මොවුන් ත්‍රිරෝද රථයකින් ගොස් මිනුවන්ගොඩ, යක්කල, වීරගුල, වැලිවේරිය, ගම්පහ, ජාඇළ, නිට්ටඹුව, කටාන, සහ කටුනායක යන ප්‍රදේශවල මාර්ගවල නවතා ගොස් තිබූ යතුරුපැදි 17ක් සොරකම් කර ඇති අතර එම යතුරුපැදි පාතාල ක්‍රියාකාරකම් සඳහා අලෙවිකර ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණ කර ගෙන තිබුණි.
+
+...
+
+[Data](articles/99f78163.json)
+
+---
+
+### Norway, Ireland and Spain say they are recognizing Palestinian state in historic move
+
+*2024-05-22 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99379/norway-ireland-and-spain-say-they-are-recognizing-palestinian-state-in-historic-move) · `en`
+
+Norway, Ireland and Spain said Wednesday they are recognizing a Palestinian state in a historic move that drew condemnation from Israel and jubilation from the Palestinians. Israel immediately ordered back its ambassadors from Norway and Ireland.
+
+It was a lightning cascade of announcements. First was Norway, whose Prime Minister Jonas Gahr Støre said “there cannot be peace in the Middle East if there is no recognition.”
+
+Gahr Støre said the Scandinavian country will officially recognize a Palestinian state as of May 28. “By recognizing a Palestinian state, Norway supports the Arab peace plan,” he said.
+
+Several European Union countries have in the past weeks indicated that they plan to make the recognition, arguing a two-state solution is essential for lasting peace in the region. The decision may generate momentum for the recognition of a Palestinian state by other EU countries and could spur further steps at the United Nations, deepening Israel’s isolation.
+
+...
+
+[Data](articles/34316503.json)
+
+---
+
+### President's notice of presidential election
 
 *2024-05-22 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196902) · `si`
 
-මෙම වසරේ අදාළ කාලසීමාව තුළ ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announces a presidential election for this year, funded by allocated funds.
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ඒ සඳහා මුදල් වෙන්කර අවසන් බවය.
+🟩
+
+President Ranil Wickremesinghe says the Presidential election will be held in the relevant time period this year.
+
+Speaking further the President said that the money was allocated for this purpose.
 
 ◼️
 
 [Data](articles/293b89c8.json)
 
+[Extended Data](ext_articles/293b89c8.ext.json)
+
 ---
 
-### அத்தியாவசியப் பொருட்களின் விலை குறைப்பு
+### A reduction in the price of essential commodities
 
 *2024-05-22 13:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசியப்-பொருட்களின்-விலை-குறைப்பு/175-337698) · `ta`
 
-எதிர்வரும் வெசாக் பண்டிகையை முன்னிட்டு லங்கா சதொசவில் சில அத்தியாவசிய பொருட்களின் விலைகளைக் குறைக்கப்பட்டுள்ளது.
+Prices of essentials like Netali, large onion, sea, and white Chinese have dropped ahead of Vesak in Lanka Sathosa. For instance, Netali now costs 950, large onion 250, sea 450, and white Chinese 275 rupees. These deals start this Wednesday nationwide.
 
-நெத்தலி (தாய்லாந்து) ஒரு கிலோ 145 ரூபாவால் குறைப்பு - புதிய விலை 950.00 ரூபா,
+🟩
 
-பெரிய வெங்காயம் (இந்தியன்) ஒரு கிலோ 40 ரூபாவால் குறைப்பு - புதிய விலை 250.00 ரூபா,
+The prices of some essential commodities in Lanka Sathosa have been reduced in view of the upcoming Vesak festival.
 
-ஒரு கிலோ கடலை (பெரியது) 38 ரூபாவால் குறைப்பு - புதிய விலை 450.00 ரூபா,
+Netali (Thailand) reduction by 145 rupees - new price 950.00 rupees,
 
-ஒரு கிலோ வெள்ளைச் சீனியின் புதிய விலை 275.00 ரூபாவாகவும் குறைப்பதற்குத் தீர்மானித்துள்ளது.
+Large onion (Indian) reduction by 40 rupees - new price 250.00 rupees,
 
-குறித்த பொருட்களை வாடிக்கையாளர்கள் நாடளாவிய ரீதியிலுள்ள அனைத்து லங்கா சதொச விற்பனை நிலையங்களிலும் புதன்கிழமை (22) முதல் பெற்றுக்கொள்ள முடியுமெனவும் தெரிவிக்கப்பட்டுள்ளது.
+Reduction by 38 rupees per kg of sea (large) - new price 450.00 rupees,
+
+The new price of a kilo of white Chinese has been decided to reduce the price of 275.00 rupees.
+
+It is also reported that customers will be able to obtain these items from Wednesday (22) at all Lanka Sathosa outlets in the country.
 
 ◼️
 
 [Data](articles/62f1b50e.json)
+
+[Extended Data](ext_articles/62f1b50e.ext.json)
 
 ---
 
@@ -108,19 +160,25 @@ He had found an identity card of the fake and false criminal investigation depar
 
 ---
 
-### 67 வயது நபர் தடியால் தாக்கி கொலை
+### 67 -year -old man assassinated
 
 *2024-05-22 13:45:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67-வயது-நபர்-தடியால்-தாக்கி-கொலை/175-337696) · `ta`
 
-கொழும்பு 13, ஜம்பெட்டா வீதியிலுள்ள 67 வயதுடைய நபர் ஒருவர் அவரது இல்லத்தில் வைத்து தடியால் அடித்துக் கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 67-year-old man named De Jastin Fernando was found dead in his Colombo 13 home after being assaulted with a stick by an unknown assailant.
 
-பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம், உயிரிழந்த நபர் தனது வீட்டில் தனியாக வசித்து வந்ததாகவும், இவர் டி ஜெஸ்டின் பெர்னாண்டோ என அடையாளம் காணப்பட்டதாகவும் தெரியவந்துள்ளது.
+🟩
 
-இனந்தெரியாத நபர் ஒருவர் வீட்டினுள் நுழைந்து தடியால் தாக்கி இப்படுகொலையை செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 67 -year -old man on Jampeta Road, Colombo 13 has been beaten to death at his residence, police said.
+
+According to information received by the police, it has been revealed that the deceased man lived alone in his house and was identified as De Jastin Fernando.
+
+Police said that an unidentified person entered the house and attacked him with a stick.
 
 ◼️
 
 [Data](articles/2da7ddce.json)
+
+[Extended Data](ext_articles/2da7ddce.ext.json)
 
 ---
 
@@ -2229,49 +2287,5 @@ The Dubai real estate market offers very attractive terms and benefits, includin
 [Data](articles/cb543bc7.json)
 
 [Extended Data](ext_articles/cb543bc7.ext.json)
-
----
-
-### Two top global marketing experts at PIM-PIMA CEO forum on 29 May
-
-*2024-05-22 04:41:29* · [`dailyftlk`](https://www.ft.lk/business/Two-top-global-marketing-experts-at-PIM-PIMA-CEO-forum-on-29-May/34-762090) · `en`
-
-The PIM-PIMA CEO Forum titled “Reimagining future in a new normal” will be held on 29 May from 8 a.m. to 9 a.m. preceded by breakfast at the ITC Randipa, Colombo 1. The event will feature two global marketing experts Prof. Joshua Gildea and Prof. Chad McBride.
-
-Professor Joshua Gildea, is a Senior Lecturer of Marketing as well as the Director of the MBA Business Marketing Academy at the Kelley School of Business at Indiana University. His teaching focuses on business-to-business marketing strategy, international business, and sales leadership.
-
-...
-
-[Data](articles/24db79ec.json)
-
-[Extended Data](ext_articles/24db79ec.ext.json)
-
----
-
-### Charitha criticises Govt’s attempt to enshrine fiscal policy into law through ETB
-
-*2024-05-22 04:34:44* · [`dailyftlk`](https://www.ft.lk/news/Charitha-criticises-Govt-s-attempt-to-enshrine-fiscal-policy-into-law-through-ETB/56-762089) · `en`
-
-Opposition MP Prof. Charitha Herath expresses serious concerns about the Economic Transformation Bill
-
-Argues against benchmarks and timelines dictated by current government’s preferences
-
-Highlights Section 6 mandate, could restrict future Governments to adhere to the bill
-
-Questions exemption of Colombo Port City from the bill’s provisions
-
-Calls on SLPP members not to support the bill, citing compromise of their dignity
-
-Freedom People’s Congress (FPC) member and parliamentarian Prof. Charitha Herath expressed serious concerns about the Government’s proposed Economic Transformation Bill, which is set to be tabled in parliament this week.
-
-Speaking at a press conference at the party headquarters, Herath criticised the government for attempting to enshrine the country’s fiscal policy into law through the proposed legislation.
-
-“No democratic country would take such a step. It’s as if they’re turning an election manifesto into law,” he said.
-
-...
-
-[Data](articles/dffd969c.json)
-
-[Extended Data](ext_articles/dffd969c.ext.json)
 
 ---

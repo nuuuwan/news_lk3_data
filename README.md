@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 16:51:16**
+As of **2024-05-22 17:03:47**
 
 ## Newspaper Stats
 
-*Scraped **25,709** Articles*
+*Scraped **25,718** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 229
+colombotelegraphcom | 231
 bbccomsinhala | 259
 dbsjeyarajcom | 259
 newsfirstlk | 363
@@ -16,21 +16,77 @@ islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,207
-adaderanalk | 2,960
+adaderanalk | 2,961
 tamilmirrorlk | 3,001
-virakesarilk | 3,898
-dailymirrorlk | 4,037
+virakesarilk | 3,900
+dailymirrorlk | 4,041
 adaderanasinhalalk | 4,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,709 (100.0%) of 25,709 articles have been extended.
+25,709 (100.0%) of 25,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### President Ranil conveys condolences at Iranian Embassy on President Raisi’s passing
+
+*2024-05-22 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99382/president-ranil-conveys-condolences-at-iranian-embassy-on-president-raisis-passing) · `en`
+
+President Ranil Wickremesinghe paid a visit to the Iranian Embassy in Colombo this morning (22) to extend his condolences on the untimely tragic passing of the late Iranian President, Ebrahim Raisi, the President’s Media Division said.
+
+Upon arrival at the Embassy, President Wickremesinghe was warmly received by the Iranian Ambassador to Sri Lanka, Dr. Alireza Delkhosh, and the embassy staff, the statement said.
+
+During his visit, the President engaged in a brief conversation with the Iranian Ambassador and others present, conveying his heartfelt condolences on behalf of the Sri Lankan government and himself to the Iranian government and its people over the sudden passing of the late President Ebrahim Raisi.
+
+◼️
+
+[Data](articles/173e6252.json)
+
+---
+
+### Grade 5 examination date announced
+
+*2024-05-22 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grade-5-examination-date-announced/108-283167) · `en`
+
+Colombo, May 22 (Daily Mirror) - The Examinations Department today announced the date of the holding of the Grade Five Scholarship Examination for 2024.
+
+Examinations Commissioner General H.J.M.C. Amith Jayasundara said the Scholarship Examination will be held on September 15 (Sunday).
+
+Applications for the examination will be accepted online from May 27, and the closing date will be June 14.
+
+Applications will not be accepted after midnight of June 14, and the closing date for applications will not be extended due to any reasons.
+
+Students in Grade 5 in government-approved schools will be eligible to apply for the examination.
+
+Students who are under eleven years as of January 31, 2025 will be eligible for the scholarships.
+
+To download the applications candidates are requested to log on to the Examinations Department’s official website https://onlineexams.gov.lk/eic
+
+◼️
+
+[Data](articles/d1da4d84.json)
+
+---
+
+### அரசாங்கக் கணக்குகள் பற்றிய குழுவினால் வழங்கப்பட்ட பரிந்துரைகளை நடைமுறைப்படுத்துவதை விசாரணை செய்ய உப குழு கூடியது
+
+*2024-05-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184247) · `ta`
+
+அரசாங்கக் கணக்குகள் பற்றிய குழுவினால் வழங்கப்பட்ட பரிந்துரைகளை நடைமுறைப்படுத்துவதை விசாரணை செய்வதற்கு நியமிக்கப்பட்டுள்ள உப குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க தலைமையில் அண்மையில் கூடியுள்ளது.
+
+கணக்காய்வாளர் நாயகம் டபிள்யு.பி.சி. விக்ரமரத்ன உள்ளிட்ட கணக்காய்வாளர் திணைக்களத்தின் அதிகாரிகளும் இக்கூட்டத்தில் கலந்துகொண்டதுடன், தற்பொழுது அரசாங்கக் கணக்குகள் பற்றிய (கோபா) குழுவினால் வழங்கப்படும் பரிந்துரைகளை நடைமுறைப்படுத்துவதில் உள்ள தாமதம் மற்றும் செயற்படுத்தாமை தொடர்பில் மீளாய்வு செய்து உரிய நடவடிக்கைகளை எடுப்பதற்கு முறையான பொறிமுறையொன்றைத் தயாரிப்பது தொடர்பான ஆரம்பகட்ட விடயங்கள் கலந்துரையாடப்பட்டுள்ளன.
+
+இதற்கமைய, இந்த பொறிமுறையானது அரசாங்கப் பொறுப்பு முயற்சிகள் பற்றிய (கோப்) குழுவினாலும்  பயன்படுத்தப்படலாம் என்பதால், அந்தக் குழுவின் தலைவரினது பங்கேற்புடன் மீண்டும் கூடி இந்த விடயம் தொடர்பில் பரிசீலனை செய்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8911d396.json)
+
+---
 
 ### Bird fever for a world record
 
@@ -55,6 +111,44 @@ The "Huia" bird was last seen in 1907.
 [Data](articles/a648d7d6.json)
 
 [Extended Data](ext_articles/a648d7d6.ext.json)
+
+---
+
+### Russel Arnold among Australia’s Multicultural Ambassadors
+
+*2024-05-22 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russel-Arnold-among-Australias-Multicultural-Ambassadors/108-283166) · `en`
+
+May 22 - Cricket Australia on Wednesday named International Cricket Commentator Russel Arnold among the 54 representatives of its 'Multicultural Ambassadors Program'.
+
+A key action in Australian Cricket’s Multicultural Action Plan, the Ambassador Program brings together esteemed leaders from various sectors to advocate for inclusivity and drive positive change within the sport and wider community.
+
+The list of ambassadors includes many past and current players, as well as industry and community leaders, who will champion diversity and support the goals outlined in the Multicultural Action Plan.
+
+Inaugural ambassadors include Usman Khawaja, Alana King, Scott Boland, Mel Jones, Wasim Akram, Ravi Shastri, Lisa Sthalekar, Kishwar Chowdhury, Peter Varghese, Swati Dave and Fawad Ahmed.
+
+...
+
+[Data](articles/d4dfc949.json)
+
+---
+
+### ஒரே சூழில் பிறந்த 4 குழந்தைகளும் சுகதேக ஆரோக்கியத்துடன் உள்ளன - மட்டு. போதனா வைத்தியசாலையின் பணிப்பாளர்
+
+*2024-05-22 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184233) · `ta`
+
+மட்டக்களப்பு போதனா வைத்தியசாலையின் மருத்துவ வரலாற்றில் ஒரே சூழில் பிறந்த நான்கு குழந்தைகளும் மிகவும் ஆரோக்கியத்துடன் உள்ளதாக  வைத்தியசாலையின் பணிப்பாளர்  கலாரஞ்சினி கணேசலிங்கம் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு புதுக்குடியிருப்பு பகுதியைச் சேர்ந்த கரிகரன் கிருஸ்ணவேணி என்ற தாயே இந்த குழந்தைகளை கடந்த ஏப்பிரல் மாதம் 5 ஆம் திகதி பிரசவித்துள்ளார்.
+
+மருத்துவதுறையின் வரலாற்றில் இயற்கை முறையில் இவ்வாறு கருத்தரிப்பதானது அரிதான விடயமாகவே காணப்படுவதாக மட்டக்களப்பு போதனா வைத்தியசாலையின் மகப்பேற்று வைத்திய நிபுணர் வைத்தியர் சரவணன் தெரிவித்தார்.
+
+இது தொடர்பில் ஊடகவியலாளர்களை தெளிவுபடுத்தும் வகையான ஊடகவியலாளர் சந்திப்பு இன்று புதன்கிழமை (22)  காலை மட்டக்களப்பு போதனா வைத்தியசாலையில் நடைபெற்றது.
+
+மட்டக்களப்பு போதனா வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் கலாரஞ்சினி, மட்டக்களப்பு போதனா வைத்தியசாலையின் மகப்பேற்று வைத்திய நிபுணர் சரவணன், குழந்தை நல வைத்திய நிபுணர் மதன் ஆகியோர் இங்கு கருத்து தெரிவித்தனர்.
+
+...
+
+[Data](articles/9a9b5cbb.json)
 
 ---
 
@@ -84,11 +178,31 @@ Director General of the Department Susantha Kahawatte states that it has been in
 
 The Chairman of Aura Lanka, businessman Viranjith Thambugala,  has been arrested by police over allegations of financial fraud.
 
+He has been remanded until May 27 after being produced before the Colombo Magistrate’s Court.
+
+Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner of the ‘Dambulla Aura’ team in the Lanka Premier League (LPL).
+
 ◼️
 
 [Data](articles/39993d0e.json)
 
 [Extended Data](ext_articles/39993d0e.ext.json)
+
+---
+
+### Update: Aura Lanka Chairman remanded
+
+*2024-05-22 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Aura-Lanka-Chairman-remanded/108-283165) · `en`
+
+May 22 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala has been arrested by the Criminal Investigation Department (CID).
+
+Police said Thambugala was arrested over allegations of several financial frauds.
+
+He was remanded until May 27 by the Colombo Magistrate's Court..
+
+◼️
+
+[Data](articles/76823a96.json)
 
 ---
 
@@ -135,6 +249,8 @@ A Bangladeshi national connected to a Lanka Premier League (LPL) franchise, who 
 The suspect, who holds a British passport, has been arrested by the Sports Ministry’s Special Investigations Unit for the prevention of offences related to sports.
 
 He is scheduled to be produced before court by officers of the Special Investigations Unit.
+
+UPDATE (4.20 p.m.) - The Bangladeshi national connected to an LPL team, who was detained at the BIA over match-fixing allegations, has been remanded until May 31  by the Colombo Magistrate’s Court.
 
 ◼️
 
@@ -751,6 +867,18 @@ Shortly after Norway’s announcement, Ireland’s Prime Minister Simon Harris s
 [Data](articles/4837b293.json)
 
 [Extended Data](ext_articles/4837b293.ext.json)
+
+---
+
+### Sil programme at  Lindsay Girls’ School
+
+*2024-05-22 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sil-programme-at-Lindsay-Girls-School/110-283158) · `en`
+
+A sil programme was held at Lindsay Girls’ School, Colombo 03 to mark the occasion of Vesak tomorrow. Teachers and students together observed sil by engaging in Dana, Seela and Bhavana. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/be65ba31.json)
 
 ---
 
@@ -1904,6 +2032,20 @@ To smuggle this stock of cocain into Sri Lanka the woman had reportedly been off
 
 ---
 
+### My Red Comrade: A Review
+
+*2024-05-22 10:39:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-red-comrade-a-review/) · `en`
+
+Sudath Mahaadivulwewa, a renowned Sri Lankan producer, has released his latest film, My Red Comrade. This experimental and politically charged film debates the old and modern views of revolution, emphasising a simpler, childlike perspective.
+
+Using a Native American fable about a wolf, the film critiques capitalism’s destructive impact on the environment and human beings, questioning the social and political issues arising from such an inequitable system. The film opens with the main female character evading a police hunt, hiding in a dilapidated slum occupied by a middle-aged man. This scene, enhanced by astute use of sound and lighting, sets the tone for a night of survival and radical communal humanism.
+
+...
+
+[Data](articles/0bfefeda.json)
+
+---
+
 ### Schoolgirl killed in submerged bus
 
 *2024-05-22 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196895) · `si`
@@ -2132,248 +2274,14 @@ The state minister made these remarks during a press briefing titled “Collecti
 
 ---
 
-### Kapuruse to Kataragama Eye Festival on May 24
+### G.C. Rodrigo: Friend, Colleague & Comrade: ‘When Alone Think Clearly; When With Others Speak Carefully’
 
-*2024-05-22 09:45:48* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ඇසල-මංගල්‍යයට-කප්සිටුවීම-මැයි-24-වෙනිදා/11-409779) · `si`
+*2024-05-22 09:49:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/g-c-rodrigo-friend-colleague-when-with-others-speak-carefully/) · `en`
 
-The Kapuruse to Kataragama Eye Festival, marking the start of the 2024 Eyal Festival at the historic Ruhunu Kataragama Maha Devalaya, is scheduled for May 24th. The festival commences officially on July 6th, following the remembrance of the gem river on July 22nd. Key events include the Basnayake Nilame passing on July 11th, the filling ceremony on July 18th, and the final Randoli Perahera on July 21st. An organizing meeting for the Elderry is set for May 28th at Ruhuna Magampatha. Participants include Ovathu Gunasekera, Monaragala Gunasekera, and Basan Rathnayaka.
-
-🟩
-
-The cupitarization for the 2024 Eyal Festival of the Historic Ruhunu Kataragama Maha Devalaya will be held on May 24th morning.
-
-This year's eye begins on July 06 after the remembrance of the gem river on July 22.
-
-On July 11, the Basnayake Nilame was first passed in Perapa, on July 18 (early 18th) Filling ceremony.
-
-The last night Randoli Perahera will be held on the night of July 21.
-
-The meeting regarding the organizing activities of the Elderry this year will be held on May 28 at Ruhuna Magampatha in the Magampatha of Ruhuna Magampatha on 28th May.
-
-The Aust is due to participate in the Ovathu Gunasekera, Monaragala Gunasekera and Monaragala Gunasekera, Monaragala and Basan Rathnayaka.
-
-◼️
-
-[Data](articles/bea387ec.json)
-
-[Extended Data](ext_articles/bea387ec.ext.json)
-
----
-
-### New liquor licenses issued only based on factors such as population, tourist arrivals – state minister
-
-*2024-05-22 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99371/new-liquor-licenses-issued-only-based-on-factors-such-as-population-tourist-arrivals-state-minister) · `en`
-
-Minister of State for Finance Ranjith Siyambalapitiya has said that new liquor licenses will be issued only based on factors such as the country’s population and tourist arrivals.
-
-He said this in response to questions from reporters about allegations that the government is working to transfer 55 of the 100 liquor licenses owned by ‘Sathosa’ to other companies.
-
-“There has never been a time when taxes collected from liquor establishments were so carefully and systematically collected. Also, as alleged, we were not asked to issue liquor licenses belonging to Sathosa.
-
-“I am also informed that the liquor license cannot be leased out to another person even if such requests are made.
-
-“So, the government also aims to control the production of illegal liquor. Also, if liquor license is issued for a particular area, the opinion of the Divisional Secretary and Police must be sought. We will not take any action to grant liquor license to those areas at any time when reasonable objections arise.
+The phrase “When alone think clearly and when with others speak carefully” is attributed to Gautama Sidhartha. Though that may be apocryphal it certainly does depict his grace. Secondly, you will find that I sometimes refer to GCR as Gerard and sometimes as Chris depending on whether St Thomas College or our later political comradeship is uppermost in the context.
 
 ...
 
-[Data](articles/a2d79542.json)
-
-[Extended Data](ext_articles/a2d79542.ext.json)
-
----
-
-### Woman sent to Sri Lanka by drug traffickers
-
-*2024-05-22 09:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-கடத்தல்காரர்களால்-இலங்கைக்கு-அனுப்பப்பட்ட-பெண்/175-337675) · `ta`
-
-A Philippine woman was arrested at Sri Lanka's Katunayake airport with over 200 million rupees and 2kg of cocaine hidden in her suitcase among spices. She arrived from Ethiopia via Qatar and was suspected of being part of a drug trafficking operation facilitated by her friend.
-
-🟩
-
-A Philippine woman has been arrested by the Customs Unit at the Katunayake International Airport with a cocaine drug.
-
-He was found from him more than 200 million rupees and 2 kg 851 grams of cocaine.
-
-It is further reported that the woman has come to the country from the Addis Ababa of Ethiopia via Doha -Qatar.
-
-He hid three packs of cocaine with chilli powder, turmeric powder and wheat flour in his suitcase.
-
-It has been revealed that the drug has been sent to Sri Lanka by drug traffickers through a suspect woman's friend.
-
-It has also been reported that the woman has taken steps to provide the necessary facilities to stay in tourism hotels in Sri Lanka for 5 days by drug traffickers.. Remble
-
-◼️
-
-[Data](articles/848a4a1c.json)
-
-[Extended Data](ext_articles/848a4a1c.ext.json)
-
----
-
-### Dr. Shafi: 'There are several people who apologized for the entire Sinhalese'
-
-*2024-05-22 09:10:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c999rpnz0q1o) · `si`
-
-Dr. Shafi discusses the importance of addressing misconceptions about law, science, and media for opportunistic gains. He emphasizes the need for future generations to stay in Sri Lanka, highlighting its potential as a model for other nations. Despite facing accusations, Dr. Shafi continues his work, advocating for unity and progress.
-
-🟩
-
-It contains nothing here.Veadio header, "Some people still tell me, Sorry, Sir tell me,"
-
-Dr. Shafi: 'There are several people who apologized for the entire Sinhalese'
-
-Dr. Shihabadeen Mohammed Shafy says that the people around Kurunegala is still coming to the surgery to be avoided.
-
-He pointed out that the future generations of the opportunity to live happiness in Sri Lanka should not be prepared to leave the country and that the Buddhist country is an example to other countries.
-
-Dr. Shafi expressed his views participating in a conversation organized by 'Journalists' in Colombo on May 21st under the theme of 'the misconception of law, science and media for opportunistic purposes'.
-
-Dr. Shafi, who had been accused of accusing Sinhala mothers at the Kurunegala Teaching Hospital, served in the Kurunegala Hospital again.
-
-◼️
-
-[Data](articles/f269c359.json)
-
-[Extended Data](ext_articles/f269c359.ext.json)
-
----
-
-### Train disruption: delay in train traffic on the main route
-
-*2024-05-22 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184185) · `ta`
-
-Train derailment between Pothuhera and Kurunegala caused delays on the main route, affecting services from Kurunegala to Colombo.
-
-🟩
-
-Due to the train derailment between the Pothuhera and the Kurunegala railway stations, there has been a delay in the train service on the main route.
-
-A train traveling from Kurunegala to Colombo has been derailed.
-
-◼️
-
-[Data](articles/7aac49df.json)
-
-[Extended Data](ext_articles/7aac49df.ext.json)
-
----
-
-### Kolkata team to final
-
-*2024-05-22 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196891) · `si`
-
-Kolkata Knight Riders advanced to the IPL final after defeating Sunrisers Hyderabad, securing their fourth appearance in the championship. Rahul Tripathi and Henrich Klaassen contributed significantly with their batting, scoring 55 and 32 runs respectively. Mitchell Starc and Venkatesh Iyer led the bowling attack, taking 3 and 2 wickets respectively. The match concluded with Kolkata setting up a clash against either Rajasthan Royals or Royal Challengers Bangalore in the final.
-
-🟩
-
-The IPL won the first round of the IPL cricket tournament established its place in the final.
-
-The Hyderabad, who was in the advantage of the coin, was to bat first.
-
-Accordingly, the Kolkata took over the first 4 wicket 4 runs in the Sunrisons team.
-
-Rahul Tripathi and Hynrich Clayan, who joined the fifth wicket, and Hyderabad strengthening the Hyderabad score board.
-
-Rahul Triinia scored 55 runs in 35 balls and Henryich Clayan scored 32 runs.
-
-However, Sunrisers Hyderabad was 159 runs in 19 overs.
-
-Mitchell Stark took 3 wickets for 34 runs while the Ventun Chakravarti took 2 wickets for 26 runs.
-
-Hyderabed bowlers were able to rescue the first two wickets in the Kolkata Knight Riders of the Kolkata Knight Riders of Kolkata Knight Riders.
-
-Nevertheless, Wenkh Iire and Leader Sitas Ayer joined the Kolkar team to protect and victory.
-
-Wenckey Iire scored 51 runs in 28 balls with 58 runs in 24 balls.
-
-Accordingly, Kolkata Knight Riders were able to qualify for the finals of the Indian Premier League.
-
-...
-
-[Data](articles/9a6d6e11.json)
-
-[Extended Data](ext_articles/9a6d6e11.ext.json)
-
----
-
-### Sri Lanka financial literacy to combat fraud, cut indebtedness: CB Governor
-
-*2024-05-22 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-literacy-to-combat-fraud-cut-indebtedness-cb-governor-164159/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s financial inclusion and stability as well as monetary policy transmission would be improved with better financial literacy, Central Bank Governor Nandalal Weerasinghe said.
-
-Financially literate persons will make better savings and investment decisions, he said.
-
-“They are more likely to understand the impact monetary policy decisions and respond appropriately, contributing to effective policy implementation,” Governor Weerasinghe said at the launch of a road map to boost financial literacy.
-
-The road map has been made in collaboration with related regulators and stakeholders and the United Nations Development Program.
-
-Related Sri Lanka women borrowers trapped by ill-understood loan agreements: UN official
-
-Financial literacy can also increase public trust in the financial system by increase knowledge of how it works.
-
-A new central bank has entrusted the Central Bank with maintaining the stability of the financial system as well as increasing financial inclusion.
-
-...
-
-[Data](articles/10bd9087.json)
-
-[Extended Data](ext_articles/10bd9087.ext.json)
-
----
-
-### Thundershowers, heavy winds blow.. Be observed
-
-*2024-05-22 08:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337673) · `ta`
-
-Heavy rains exceeding 150mm forecasted in Western & Sabaragamuwa provinces, Kandy, and Nuwara Eliya. Rainfall and winds due to south-westerly conditions expected nationwide. Thunderstorms possible in Central, Northwest, Southern, and Northern provinces. Strong winds up to 50km/h in Central Highlands and Southern Province, 30-40km/h elsewhere. Public urged to prepare for potential lightning strikes.
-
-🟩
-
-The Department of Meteorology has predicted more than 150 mm of heavy rainfall in some areas in the Western and Sabaragamuwa Provinces and Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology has said that the current rainfall and wind condition will continue due to the gradual condition of the south -wing situation across the country.
-
-The Department further notes that rainfall or thunderstorms can occur in the Central, Northwest, Southern and Northern Provinces from time to time.
-
-Meanwhile, rain or thunderstorms are likely in other parts of the island.
-
-In the western slopes of the Central Highlands and the Southern Province, there is a possibility that somewhat strong winds are at speeds of up to 40-50 km / h.. Other parts of the country can occasionally blow up to 30-40 kilometers per hour.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/41e89c6a.json)
-
-[Extended Data](ext_articles/41e89c6a.ext.json)
-
----
-
-### An Assistant Assistant Company with cocaine
-
-*2024-05-22 08:32:19* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-කොකේන්-සමග-පිලිපින-සහකාර-ගණකාධිවරියක්-අල්ලයි/11-409777) · `si`
-
-A foreign woman from Ethiopia, Adis Ababa, smuggled cocaine to Doha, Qatar, and planned to deliver it to Sri Lanka via flight. She carried three parcels: one with cocaine and two with food items. The Customs Drug Advanced Investigations unit intercepted her, revealing she had previously trafficked drugs between Malaysia and India. Her arrest led to international cooperation between customs and police narcotics divisions for further investigation.
-
-🟩
-
-A foreign woman who has taken a large number of cocaine worth Rs.
-
-She had come from Ethiopia Adies Abba and started with the drug from the drug and came to the Doha of Qatar. She was then said at 05/21 at 04.30 pm Qatar, 04.30 pm.
-
-She also had two parcels with three kilograms with three parcels with three parcel containing chilli powder, yellow powdered and bread flour.
-
-She had been dealing with this flight and to hand over the drug to Sri Lanka, in addition to the flight tickets and five days in Sri Lanka tourist hotels for 5 daysThe Customs Drug Advanced Investigations were revealed that the drug owners of the Customs have promised to provide facilities.
-
-The woman has also revealed that the woman had previously taken the drug between Malaysia and India in this manner.
-
-The arrest had made the officers of the Customs Drug Administration internationally.
-
-...
-
-[Data](articles/2b184433.json)
-
-[Extended Data](ext_articles/2b184433.ext.json)
+[Data](articles/2540f8e1.json)
 
 ---

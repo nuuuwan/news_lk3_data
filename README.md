@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 15:52:27**
+As of **2024-05-22 16:04:52**
 
 ## Newspaper Stats
 
-*Scraped **25,694** Articles*
+*Scraped **25,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,115 @@ islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,204
-adaderanalk | 2,958
+adaderanalk | 2,959
 tamilmirrorlk | 3,001
 virakesarilk | 3,892
 dailymirrorlk | 4,035
-adaderanasinhalalk | 4,108
+adaderanasinhalalk | 4,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,690 (100.0%) of 25,694 articles have been extended.
+25,694 (100.0%) of 25,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### Dambulla Thunders කණ්ඩායම හා සම්බන්ධ තමීම් රහමන් අත්අඩංගුවට
+### තාඹුගල අත්අඩංගුවට
+
+*2024-05-22 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196910) · `si`
+
+ව්‍යාපාරිකයෙක් වන විරංජිත් තාඹුගල මූල්‍ය වංචාවක් සම්බන්ධයෙන් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/1c1c4189.json)
+
+---
+
+### Foreigner linked to LPL franchise arrested at BIA over match-fixing
+
+*2024-05-22 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99380/foreigner-linked-to-lpl-franchise-arrested-at-bia-over-match-fixing) · `en`
+
+A Bangladeshi national connected to a Lanka Premier League (LPL) franchise, who is under investigation in relation to allegations of match-fixing, has been detained at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The suspect, who holds a British passport, has been arrested by the Sports Ministry’s Special Investigations Unit for the prevention of offences related to sports.
+
+He is scheduled to be produced before court by officers of the Special Investigations Unit.
+
+◼️
+
+[Data](articles/2f7e6258.json)
+
+---
+
+### Rahiman arrested for rahman associated with Dambulla thunders
 
 *2024-05-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196909) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලිය සඳහා සහභාගී වීමට නියමිත කණ්ඩායමක් වන Dambulla Thunders කණ්ඩායම හා සම්බන්ධ තමීම් රහමන් නම් පුද්ගලයෙක් ව කටුනායක ගුවන්තොටුපොළේ දී ආගමන විගමන නිලධාරීන් විසින් රඳවා ගෙන තිබේ.
+Rahiman, linked to Dambulla Thunders, was arrested in Katunayake for alleged match-fixing attempts during the Lanka Premier League. He was initially held by immigration officers and then transferred to the Special Investigation Unit for further questioning.
 
-ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය විසින් විමර්ශන කරනු ලබන නඩු කටයුත්තක් මත විදෙස් ගමන් තහනමක් පනවා තිබීම හේතුවෙන් ඔහුව රඳවා ගෙන ඇතැයි වාර්තා විය.
+🟩
 
-පසුව ඔහුව ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය ට බාරදී ඇති අතර ඔහු අත්අඩංගුවට ගැනීමෙන් අනතුරුව අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+In Katunayake, Immigration and Emigration officials have been detained at the Katunayake Airport, which is a group of people who are involved in the Lanka Premier League.
 
-"තරග පාවාදීමට යෝජනා කිරීමට උත්සාහ කිරීම" සම්බන්ධයෙන් ඔහුව සැක පිට අත්අඩංගුවට ගෙන තිබුණි.
+It was reported that he had been detained as a foreign investigation unit has been detained due to a litigation unit under investigation unit.
+
+He was later handed over to the Special Investigation Unit of Sports related to sports and to be produced before the arrest.
+
+He was arrested on suspicion regarding "trying to propose to fix the match betrayal."
 
 ◼️
 
 [Data](articles/5a09a78d.json)
 
+[Extended Data](ext_articles/5a09a78d.ext.json)
+
 ---
 
-### ඇමති ප්‍රසන්නගේ පෙත්සම නැවත කැඳවන දිනය
+### Minister Prasanna's petition is being recalled
 
 *2024-05-22 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196908) · `si`
 
-අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටින අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එම දඬුවමට එරෙහිව ඉදිරිපත් කර තිබෙන අභියාචනා පෙත්සම යළිත් ජුනි 26 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (22) නියම කළේය.
+Minister Prasanna's appeal petition is being reviewed by the Court of Appeal. Accused of a financial crime, it involves Sampath Abeykoon and P., under Judge Kumaran Ratnam.
 
-කොළොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩ කිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටු කරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකු ගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළේ යැයි චෝදනා එල්ල වී අමාත්‍යවරයාට අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියම කර තිබුණි.
+🟩
 
-මෙම පෙත්සම  සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත  අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කර තිබේ.
+The Court of Appeal today (22) presented the appeals petition filed against the presence of the appeal of the appeal against that punishment.
+
+The Minister was accused of a sum of Rs.
+
+This petition is Sampath Abeykoon and P. The order was called before the Bench of the Court of Appeal consisting of Kumaran Ratnam.
 
 ◼️
 
 [Data](articles/14f82a2c.json)
 
+[Extended Data](ext_articles/14f82a2c.ext.json)
+
 ---
 
-### சிறுமிக்கு வாயில் புகை, வயிற்றில் ஓட்டை
+### Smoke in the mouth of the little girl, the hole in the stomach
 
 *2024-05-22 15:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிக்கு-வாயில்-புகை-வயிற்றில்-ஓட்டை/175-337702) · `ta`
 
-கல்யாண வீட்டில் விருந்தினர்களை கவரும் வண்ணம் பல்வேறு விஷயங்களை மணமகன், மணப்பெண் வீட்டிற்கு ஏற்பாடு செய்கின்றனர். அதில் சாப்பாடு மிகவும் முதன்மையாக இருக்கிறது. இதைத் தாண்டி ஸ்நாக்ஸ் விஷயங்களும் கவனம் ஈர்க்கின்றன. பெங்களூருவில் சமீபத்தில் நடந்த கல்யாணத்தில் ஸ்மோக் பான் என்ற உணவுப் பொருளை வைத்துள்ளனர். கிட்டதட்ட ஸ்மோக் பிஸ்கட் எப்படி வினையாற்றுமோ? அதுபோலத் தான் இதுவும்.
+A wedding in Bangalore featured "Smoke Pan," a food item made with liquid nitrogen, causing a young girl to ingest it and suffer severe internal injuries, including a hole in her stomach. Despite initial concerns, she underwent surgery and survived.
 
-வாயில் போட்டு மெல்லத் தொடங்கியதும் புகை வர ஆரம்பித்துவிடும். அதை வெளியில் விடும் போது வித்தியாசமான அனுபவமாக இருக்கும். ஆனால் இதன் பின்னால் விபரீதங்கள் நிகழும் என்று மருத்துவர்கள் தொடர்ந்து எச்சரித்து வருகின்றனர்.
+🟩
 
-சமீபத்தில் சென்னையில் கூட ஸ்மோக் பிஸ்கட் சாப்பிட்டு சிறுவன் வலியால் துடித்த வீடியோ வைரலாகி பரபரப்பை கிளப்பியது. சில ஆண்டுகளுக்கு முன்பு குருகிராமில் திரவ நைட்ரஜன் கலந்த காக்டெய்ல் அருந்திய நபரின் உடல் உறுப்புகள் பாதிக்கப்பட்டன. தோல் வேறு மாதிரியாக மாறியது.
+Various things are organized by the bride and bride to attract guests in the wedding house. The meal in it is very primed. Snacks things beyond this also attract attention. The recent wedding in Bangalore has a food item called Smoke Pan. How to catalyst with almost smoke biscuits?This is the case.
+
+When the mouth begins to slow down, the smoke begins. It would be a different experience when it was outdoors. But doctors continue to warn that there will be casualties behind this.
+
+Recently in Chennai, a video of a smoke biscuits and the pain of the boy went viral and stirred up. The body organs of a person who had been drinking cocktail mixed with liquid nitrogen in Gurugram a few years ago. The skin became different.
 
 ...
 
 [Data](articles/9aa5684d.json)
+
+[Extended Data](ext_articles/9aa5684d.ext.json)
 
 ---
 
@@ -128,23 +174,29 @@ The President and the people of the Iranian government and the people of the peo
 
 ---
 
-### கடல் நீர்  உள் வாங்கியதால்  மக்கள் அச்சம்
+### People fear because seawater bought the water
 
 *2024-05-22 15:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடல்-நீர்-உள்-வாங்கியதால்-மக்கள்-அச்சம்/72-337701) · `ta`
 
-நானாட்டான் பிரதேச செயலாளர் பிரிவில் உள்ள வங்காலை வடக்கு மற்றும் மேற்கு பகுதிகளில் புதன்கிழமை (22) மதியம் திடீரென கடல் நீர் உள்வாங்கியது.
+Seawater unexpectedly flooded northern and western areas of the Nanatan Divisional Secretariat Division, causing panic among locals. Strong winds prevented fishermen from going out to sea, damaging boats and nets. The situation was alarming, leading to visits from local officials and politicians.
 
-மன்னார் மாவட்டத்தில்  புதன்கிழமை(22) அதிகாலை முதல் பலத்த காற்று வீசி வருகின்ற நிலையில்   மீனவர்கள் கடற்தொழிலுக்கு செல்லவில்லை.
+🟩
 
-இந்த நிலையில் வங்காலை வடக்கு மற்றும் மேற்கு பகுதிகளில்  திடீரென கடல் நீர் உள் வாங்கிய தோடு,கடற்கரையில் கட்டப்பட்டிருந்த படகுகள் மற்றும் வலைகள் நீரில் மிதந்து உள்ளன.எனினும் படகுகளுக்கு எவ்வித சேதமும் ஏற்படவில்லை என மீனவர்கள் தெரிவித்தனர்.
+The sea water was suddenly in the northern and western parts of the Nanatan Divisional Secretariat Division on Wednesday afternoon.
 
-திடீரென கடல் நீர் உள்வாங்கப்பட்டமையினால் வங்காலை மீனவர்கள் மற்றும் கிராம மக்கள் அச்சத்துக்கு உள்ளாகியுள்ளனர்.
+Fishermen have not gone to the sea as strong winds have been blowing since Wednesday (22) in Mannar district.
 
-இந்த நிலையில் வங்காலை பங்குத்தந்தை மற்றும் பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் ஆகியோர் குறித்த பகுதிக்குச் சென்று நிலைமையை பார்வையிட்டனர்.
+In the meantime, the boats and nets built on the coast were floating in the water, but the fishermen said that the boats were not damaged.
+
+The fishermen and villagers of Bengal have been terrified of the sudden seawater.
+
+At this juncture, the Bengal Stock Exchange and Member of Parliament Selvam Adakkalanathan visited the area.
 
 ◼️
 
 [Data](articles/45684aa6.json)
+
+[Extended Data](ext_articles/45684aa6.ext.json)
 
 ---
 
@@ -2305,47 +2357,5 @@ The public is also requested to take necessary steps to reduce the damages cause
 [Data](articles/24b98130.json)
 
 [Extended Data](ext_articles/24b98130.ext.json)
-
----
-
-### Lotus Tower to be illuminate during Vesak season
-
-*2024-05-22 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminate-during-Vesak-season/108-283135) · `en`
-
-Colombo, May 22 (Daily Mirror) - The Lotus Tower will be illuminated in the colors of the Buddhist flag to honour Vesak Poya, Colombo Lotus Tower Management Company (Private) Limited said.
-
-Accordingly, the tower will be illuminated tomorrow (23) and the day after (Thursday 24).
-
-The management requests the people make their Vesak unforgettable at the Colombo Lotus Tower with its breathtaking views.
-
-Meanwhile, the Tower Management announced their latest Pixel Bloom operating hours during the Vesak season.
-
-◼️
-
-[Data](articles/40eb293f.json)
-
-[Extended Data](ext_articles/40eb293f.ext.json)
-
----
-
-### Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?
-
-*2024-05-22 05:25:15* · [`dailyftlk`](https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103) · `en`
-
-LTTE chief Prabhakaran came to believe over time that he had the divine right to do away anyone he considered an impediment to his separatist project
-
-Tamil Tigers were led by men who had no long-term vision or strategic clarity; Prabhakaran led LTTE to a destruction no one had thought was ever possible
-
-Weeks before the Tamil Tigers got military obliterated, a despondent Pottu Amman, the LTTE intelligence chief, confided to some of his startled colleagues that there were three main reasons why the prolonged armed struggle for an independent Tamil Eelam appeared to be crawling to its very end.
-
-One, he said, was the decision by the Liberation Tigers of Tamil Eelam (LTTE) in 1990 to force the entire Tamil-speaking Muslim community to quit Sri Lanka’s north with just Rs. 150 and the clothes they were in.
-
-Whatever else they possessed, they were told, had been earned in Tamil Eelam and so must be left behind. Overnight, tens of thousands of Muslims were pauperised and turned homeless.
-
-...
-
-[Data](articles/47c548df.json)
-
-[Extended Data](ext_articles/47c548df.ext.json)
 
 ---

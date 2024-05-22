@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 12:05:52**
+As of **2024-05-22 12:18:19**
 
 ## Newspaper Stats
 
-*Scraped **25,633** Articles*
+*Scraped **25,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ bbccomsinhala | 258
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,386
-economynextcom | 1,472
+economynextcom | 1,478
 dailyftlk | 1,521
-adalk | 2,198
+adalk | 2,199
 adaderanalk | 2,954
-tamilmirrorlk | 2,994
+tamilmirrorlk | 2,995
 virakesarilk | 3,880
-dailymirrorlk | 4,022
-adaderanasinhalalk | 4,097
+dailymirrorlk | 4,027
+adaderanasinhalalk | 4,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,629 (100.0%) of 25,633 articles have been extended.
+25,633 (99.9%) of 25,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### COPF wants action against officers who failed to attend  committee meeting
+
+*2024-05-22 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-wants-action-against-officers-who-failed-to-attend-committee-meeting/108-283152) · `en`
+
+Parliament, May 22 (Daily Mirror) - The Committee on Public Finance (COPF) requested Speaker Mahinda Yapa Abeywardena to take action against officials of the Immigration and Emigration and those in the Ministry of Public Security who failed to attend the committee meeting on May 14.
+
+COPF Chairman Harsha de Silva who requested action said all officials failed to turn up on May 14 despite agreeing to attend on that day.
+
+"These officials have violated the privilage of Parliament," Dr. De Silva said.
+
+◼️
+
+[Data](articles/32964d06.json)
+
+---
+
+### Economic Transformation Bill presented to Parliament
+
+*2024-05-22 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Economic-Transformation-Bill-presented-to-Parliament/108-283151) · `en`
+
+Parliament, May 22 (Daily Mirror) - The Economic Transformation Bill which  provides provision for the establishment of the Economic Commission of Sri Lanka, investment zones, establishment of Sri Lanka Institute of Economics and International Trade and for the repeal of the Board of Investment Law was presented to Parliament a short while ago.
+
+◼️
+
+[Data](articles/ab9adcfd.json)
+
+---
+
+### கொக்கைன் போதைப்பொருளுடன்  பிலிப்பைன்ஸ் பெண்  கைது
+
+*2024-05-22 11:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்கைன்-போதைப்பொருளுடன்-பிலிப்பைன்ஸ்-பெண்-கைது/175-337685) · `ta`
+
+ரூ.200 மில்லியன் பெறுமதியான 2 கிலோவுக்கும் அதிகமான கொக்கைன் போதைப்பொருளை இலங்கைக்குள் கடத்த முயன்ற 47 வயதான பிலிப்பைன்ஸ் பெண் ஒருவர் கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+எத்தியோப்பியாவின் அடிஸ் அபாபாவில் இருந்து கொக்கேய்ன் போதைப்பொருளை கடத்தி வந்த சந்தேக நபரை போதைப்பொருள் கட்டுப்பாட்டு பிரிவின் விமான நிலைய சுங்க அதிகாரிகள் கைது செய்துள்ளனர்.
+
+மிளகாய் தூள், மஞ்சள் தூள் மற்றும் கோதுமை மாவு அடங்கிய மூன்று பொதிகளுடன் தனது பயணப் பையில் மறைத்து 2 கிலோவுக்கும் அதிகமான எடையுள்ள மூன்று கொக்கெய்ன் பார்சல்களை கடத்த முயன்றதாக சுங்கத்துறை தெரிவித்துள்ளது.
+
+இந்த கொக்கெய்ன் போதைப்பொருளை இலங்கைக்கு கடத்துவதற்காக குறித்த பெண்ணுக்கு 1000 அமெரிக்க டொலர்கள், விமானப் பயணச்சீட்டுகள் மற்றும் ஹோட்டல் தங்குமிடங்கள் இலங்கையில் ஐந்து நாட்கள் தங்குவதற்கு வழங்கப்படும் என தெரிவிக்கப்பட்டுள்ளதாக தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/5cd3bc50.json)
+
+---
+
+### SL Parliament observe one minute silence for Iranian President
+
+*2024-05-22 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Parliament-observe-one-minute-silence-for-Iranian-President/108-283150) · `en`
+
+Parliament, May 22 (Daily Mirror) -The Sri Lankan Parliament observed one minute's silence for Iranian President Ebrahim Raisi and others who were killed in a helicopter crash recently.
+
+Observing of a minute's silence was proposed by Chief Government Whip Prasanna Ranatunga.
+
+◼️
+
+[Data](articles/77d4fece.json)
+
+---
 
 ### Lotus tower to Vesak is glowing in the color of Buddhist flag
 
@@ -58,21 +118,63 @@ The new times have been announced that it will run from 9 am to 10 pm on the 26t
 
 ---
 
-### ධීවරයින්ට හදිසි දැනුම්දීමක්
+### Sri Lanka opposition leader asks for jobs for unemployed graduates, more salaries
+
+*2024-05-22 11:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-asks-for-jobs-for-unemployed-graduates-more-salaries-164198/) · `en`
+
+ECONOMYNEXT – Sri Lanka opposition leader asked for permanent jobs 465 unemployed graduates and to clear ‘salary anomalies’ of a group of state workers.
+
+There was no information on how much more tax payer funds are needed to pay for additional state workers.
+
+“There was an anomaly, when appointments were given to 50,000-60,000 graduates, because of shortcomings on the officials part in processing documents, 465 graduates were overlooked.”
+
+Premadasa said he had also asked for appointments for 465 unemployed graduates on a previous occasion too but there has been no response from the government.
+
+He also asked for 2,064 people manning railway crossings who were only paid 7,500 rupees a month, to be given permanent appointments. (Colombo/May22/2024)
+
+◼️
+
+[Data](articles/101ac838.json)
+
+---
+
+### හලාවත පුත්තලම මාර්ගයේ ගමනා ගමනයට බාධා
+
+*2024-05-22 11:20:58* · [`adalk`](https://www.ada.lk/breaking_news/හලාවත-පුත්තලම-මාර්ගයේ-ගමනා-ගමනයට-බාධා/11-409781) · `si`
+
+වර්ෂාවත් සමග හමාගිය සුළගින් 21දා හලාවත පුත්තලම ප්‍රධාන මාරගයේ ආරච්චිකට්ටුව හැළඹවටවන පාසල ඉදිරිපිට තිබූ රූස්ස මාරගස මාරගයට ගැලවී වැටීමෙන් පැය 3ට අධිකකාලයක් මාරගය අවහිරව ගමනාගමනයට බාධා ඇතිවිය.
+
+වහාමක්‍රියාත්මක වූ ප්‍රදේශවාසීන් මාරග සංවරධන අධිකාරිය ඒමස්ථානයට පැමිණීමටත් පෙර ඒම මාරගසේ කොටස් ඉවත් කරනු ලැබූහ. මේ සඳහා ප්‍රධානත්වය දැරු ආරච්චිකට්ටුව ප්‍රාදේශීය සභාවේ හිටපු සභාපති ජගත් සමන්ත පෙරේරා මහතා ඇතුළු පිරිසට  සහ ආරච්චිකට්ටුව පොලීසියට මාර්ගය භාවිතා කරන්නා වූ සියලු දෙනාගේ ස්තුතිය හිමි විය.
+
+මෙමගසා කඩා වැටුන අවස්ථාවේදී පාසල පැවැත්වූ දිනයක් වූවානම් හෝ රථවාහන ගමන් කළානම් මෙයිට වඩා විනාශයක් අපට දැකගත හැකිවන බව කාගේත් මතයයි. (I J )
+
+◼️
+
+[Data](articles/4a997b03.json)
+
+---
+
+### Emergency notice to fishermen
 
 *2024-05-22 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196898) · `si`
 
-අද දින සිට ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු බහුදින ධීවර යාත්‍රා ඇතුළුව සියලුම ධීවර යාත්‍රා සඳහා රැකියාවට පිටත්වීම සඳහා අවසර ලබා නොදෙන බව ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසයි.
+Due to safety concerns, the Department of Fisheries and Aquatic Resources has banned departures for all fishing vessels, including multi-day ones. This decision follows reports of unsafe sea conditions around the island. Coastal fishing vessels are advised to remain docked until further notice.
 
-අද මාධ්‍ය වෙත අදහස් දක්වමින් එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා මේ බව පැවසීය,.
+🟩
 
-දිවයින වටා මුහුදු ප්‍රදේශවල ඉදිරි දින කිහිපයේදී දැඩි වර්ශාපතනයත් දැඩි සුළං තත්ත්වයක් ඇතිවිය හැකි බවට වාර්තාවීමත් සමග එම දෙපාර්තමේන්තුව මෙම තීරණය ගෙන ඇත.
+The Department of Fisheries and Aquatic Resources says that it will not be permitted to departure to all fishing vessels, including multi-dedicated multi-day vessels.
 
-එසේම මේ වනවිට රැකියාවේ නිරතව සිටින බහුදින ධීවර යාත්‍රා වෙත ද ආරක්‍ෂිත ප්‍රදේශ හරහා ගමන්කරන ලෙසට දැනුම්දී ඇති බව එහි අධ්‍යක්ෂවරයා වැඩිදුරටත් සඳහන් කළේය.
+Speaking to the media, Director General of the Department Susantha Kahawatta made this observation.
+
+The department has taken this decision with the report to be reported in the next few days of sea areas around the island.
+
+The Director of the Ministry further stated that it has been informed to travel through the coastal fishing vessels.
 
 ◼️
 
 [Data](articles/2bd3e98b.json)
+
+[Extended Data](ext_articles/2bd3e98b.ext.json)
 
 ---
 
@@ -98,21 +200,27 @@ They have also mentioned the services of Thera in the letter that Gnanasara Ther
 
 ---
 
-### තාත්තා සහ පුතා විසින්  පුද්ගලයෙකුට කඩු දෙකකින් පහරදී ඝාතනය කරයි
+### Dad and son killed two swords and killed by two swords
 
 *2024-05-22 11:17:42* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තා-සහ-පුතා-විසින්--පුද්ගලයෙකුට-කඩු-දෙකකින්-පහරදී-ඝාතනය-කරයි/11-409780) · `si`
 
-මොරන්තුඩුව පොල්හේන පන්සල පාරේ නිවසක් තුළදී මස්සිනා සහ ඔහුගේ පියා විසින්  පුද්ගලයෙකුට කඩු දෙකකින් පහරදී ඝාතනය කර ඇතැයි මොරන්තුඩුව පොලිසිය කියයි.
+In Keraventpu, a 23-year-old man was arrested after allegedly killing his father with two swords over a dispute. The incident occurred at a house on Polhena Pharaweta Road. The victim, a resident of Kahatagas junction, Bandaragama, was rushed to Gonaduwa Hospital but succumbed to his injuries.
 
-මෙලෙස ඝාතනය කර ඇත්තේ බණ්ඩාරගම වල්ගම කහටගස් හන්දියේ පදිංචිව සිටි  පුද්ගලයෙකි. ඝාතනය සම්බන්ධයෙන් 23 හැවිරිදි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති අතර 43 හැවිරිදි  සැකකරුගේ පියා ප්‍රදේශය හැර පලා ගොස් ඇත.
+🟩
 
-පළමු සැකකරු මරණකරුගේ නැගණිය සමග විවාහ වී සිටින අතර ඔවුන් දෙදෙනා අතර ආරවුලක් හටගෙන එය සමථයට පත්වී ඇතැයි පොලිසිය කියයි. මරණකරු ඊයේ (21දා) සවස එම නිවසට පැමිණි අවස්ථාවේදී  සැකකරු හා ඔහුගේ පියා  විසින් මරණකරුට  කඩු දෙකකින් පහරදී තුවාල සිදුකර තිබූ බව පොලිසිය කියයි.
+The Keraventpu Police say that a person was assaulted by two swords in a house on a house on a house on the road at Polhena Pharaweta Road, Keraventi.
 
-බරපතල තුවාල ලබා සිටි පුද්ගලයා අසල මාර්ගයක වැටී සිටියදී 1990 සුවසැරිය  ගිලන් රථය මගින් ගෝනදුව රෝහල වෙත ඇතුලත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+The victim is a resident of Kahatagas junction of Bandaragama. A 23-year-old man was arrested and the 43-year-old suspect had fled the area.
+
+The first suspect is married to the death of the deceased and the police said a dispute has been resulted in a dispute between the two. The suspect had been assaulted by two swords to the deceased to the deceased evening in the evening.
+
+The 1990 healed ambulance has been admitted to the Gonaduwa Hospital by the 1990 road.
 
 ◼️
 
 [Data](articles/ed2ceb8d.json)
+
+[Extended Data](ext_articles/ed2ceb8d.ext.json)
 
 ---
 
@@ -294,6 +402,42 @@ The Ambassador of Iranian was assaulted in a car park in a major shopping comple
 
 ---
 
+### Schoolgirl run over by bus in Gampola
+
+*2024-05-22 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirl-run-over-by-bus-in-Gampola/108-283147) · `en`
+
+Gampola, May 22 (Daily Mirror) - A schoolgirl died after being hit by a private bus travelling from Berawila to Gampola at New Kurunduwatta, Gampola this morning.
+
+Police said the 10-year-old girl, a resident of Malgolla, Patitalawa, died after being admitted to the New Kurunduwatta Regional Hospital.
+
+According to investigations, the accident had occurred when the girl had got off the bus and was crossed the road in front of the bus.
+
+Both the driver and conductor of the bus have been arrested in connection with the accident.
+
+◼️
+
+[Data](articles/eacadf08.json)
+
+---
+
+### Filipino woman arrested at BIA with cocaine worth Rs. 200 Mn
+
+*2024-05-22 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Filipino-woman-arrested-at-BIA-with-cocaine-worth-Rs-200-Mn/108-283146) · `en`
+
+BIA, May 22 (Daily Mirror) - A 47-year old Filipino woman was arrested at the Katunayake International Airport for attempting to smuggle over 2 kgs of cocaine worth Rs. 200 million into Sri Lanka.
+
+Airport Customs officers of the Narcotics Control Unit arrested the suspect who had smuggled the stock of cocaine from Addis Ababa, Ethiopia.
+
+The Customs said she attempted to smuggle three parcels of cocaine weighing over 2 kgs by concealing it in her luggagge with three parcels containing chilli powder, turmeric powder and wheat flour.
+
+To smuggle this stock of cocain into Sri Lanka the woman had reportedly been offered USD 1,000, air tickets and hotel accommodation to stay in Sri Lanka for five days.
+
+◼️
+
+[Data](articles/4e421e08.json)
+
+---
+
 ### International Tea Day
 
 *2024-05-22 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184194) · `ta`
@@ -337,6 +481,26 @@ The deceased has been identified as a 10 year old girl from Malgollawa area.
 [Data](articles/88e4f15d.json)
 
 [Extended Data](ext_articles/88e4f15d.ext.json)
+
+---
+
+### පදවියේදී කොටුවූ 19 හැවිරිදි වෙඩික්කරු
+
+*2024-05-22 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196894) · `si`
+
+පසුගිය සඳුදා (20) රාත්‍රී පදවිය, ඌරුව, ඕමාරකඩවල ප්‍රදේශයේදී පුද්ගලයෙක්ට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+තුවාල ලැබූ පුද්ගලයා සිය සහෝදරයාගේ නිවසෙන් රාත්‍රී ආහාර ගෙන නැවත සිය නිවස කරා යමින් සිටියදී සැඟව සිටි පුද්ගලයෙක් විසින් මෙම වෙඩිතැබීම සිදුකර තිබුණි.
+
+ඒ සඳහා මෙරට නිෂ්පාදිත ගිනි අවියක් යොදාගෙන ඇතැයි පදවිය පොලීසිය පැවසීය.
+
+තුවාලකරු පදවිය රෝහලට ඇතුළු කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළු කර ඇත.
+
+සැකකරුගේ පියා සහ තුවාලකරු අතර පවතින පුද්ගලික ආරවුලක් හේතුවෙන් මෙම වෙඩි තැබීම සිදුකර ඇතැයි පොලීසිය සැක කරයි.
+
+◼️
+
+[Data](articles/91ac8fde.json)
 
 ---
 
@@ -386,19 +550,45 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 
 ---
 
-### මරණයකින් කෙළවර වූ පවුල් ආරවුල
+### Family dispute ended with death
 
 *2024-05-22 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196893) · `si`
 
-පොලීසිය පැවසුවේ මෙම පුද්ගලයා ඊයේ (21) රාත්‍රී සිය සහෝදරිය සහ ඇයගේ සැමියා අතර පැවති ආරවුලක් විසඳීමට ඔවුන්ගේ නිවසට ගොස් ඇති බවයි.
+A family dispute escalated fatally when a man went to mediate between his sister and her husband, leading to a confrontation where both were assaulted by each other.
 
-එහිදී ඔහු සහ මස්සිනා අතර බහින්බස්වීමක් සිදුව ඇති බව වාර්තා විය.
+🟩
 
-එහිදී ඔහුගේ මස්සිනා සහ මස්සිනාගේ පියා විසින් එම පුද්ගලයාට පහරදී ඇති බවත් ඔහු ව ගෝනදූව රෝහලට ඇතුළු කිරීමෙන් පසු මියගොස් ඇති බවත් වාර්තා වෙයි.
+Police said the man had gone to their home to resolve a dispute between his sister and her husband yesterday.
+
+There he and brother-in-law had taken place.
+
+It is reported that the man had been assaulted by his brother-in-law and brother-in-law.
 
 ◼️
 
 [Data](articles/8e87aa22.json)
+
+[Extended Data](ext_articles/8e87aa22.ext.json)
+
+---
+
+### Sri Lanka parliament observes one minute silence for late Iran President Raisi
+
+*2024-05-22 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-observes-one-minute-silence-for-late-iran-president-raisi-164187/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament observed one minute of silence as a mark of respect for the late President of Iran Ebrahim Raisi on May 22 with members in the presense of Speaker Mahinda Abeywardene.
+
+The Government Chief Whip, Prasanna Ranatunga said President Raisi recently came to Sri Lanka to open a multi-purpose dam project.
+
+A helicopter carrying President Raisi crashed into a hillside as he was returning from opening a dam at the border with Azerbaijan.
+
+Related Sri Lanka, Iran Presidents inaugurate Uma Oya hydro-electric project
+
+On April 24, President Raisi and Sri Lanka President Ranil Wickremesinghe opened the 514 million dam built by an Iranian engineering company. (Colombo/April22/2024)
+
+◼️
+
+[Data](articles/b414daf9.json)
 
 ---
 
@@ -452,6 +642,28 @@ The petition has been alleged that the default of various persons as well as gov
 
 ---
 
+### Sri Lanka rupee opens broadly stable at 299.70/80 to US dollar
+
+*2024-05-22 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-299-70-80-to-us-dollar-164179/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened broadly stable at 299.70/80 to the US dollar on Wednesday, from 299.80/95 the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 9.95/10.00 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.30/33 percent from 10.25/40 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.55/65 percent down from 10.65/70 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.55/65 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.34 percent at 12,258, the S&P SL20 was up 0.62 percent at 3,631. (Colombo/May22/2024)
+
+◼️
+
+[Data](articles/8578dd7e.json)
+
+---
+
 ### New regulations to be introduced for cultivating uncultivated land
 
 *2024-05-22 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99372/new-regulations-to-be-introduced-for-cultivating-uncultivated-land) · `en`
@@ -470,25 +682,31 @@ The state minister made these remarks during a press briefing titled “Collecti
 
 ---
 
-### කතරගම ඇසල මංගල්‍යයට කප්සිටුවීම මැයි 24 වෙනිදා
+### Kapuruse to Kataragama Eye Festival on May 24
 
 *2024-05-22 09:45:48* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ඇසල-මංගල්‍යයට-කප්සිටුවීම-මැයි-24-වෙනිදා/11-409779) · `si`
 
-ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ 2024 ඇසල මංගල්‍යය සඳහා කප්සිටුවීම මැයි මස 24 වෙනිදා උදෑසන දේවාල පරිශ්‍රයේදී සිදුකෙරේ.
+The Kapuruse to Kataragama Eye Festival, marking the start of the 2024 Eyal Festival at the historic Ruhunu Kataragama Maha Devalaya, is scheduled for May 24th. The festival commences officially on July 6th, following the remembrance of the gem river on July 22nd. Key events include the Basnayake Nilame passing on July 11th, the filling ceremony on July 18th, and the final Randoli Perahera on July 21st. An organizing meeting for the Elderry is set for May 28th at Ruhuna Magampatha. Participants include Ovathu Gunasekera, Monaragala Gunasekera, and Basan Rathnayaka.
 
-මෙවර ඇසල මංගල්‍යය ජූලි මස 06 වෙනි දින ආරම්භවී ජූලි මස 22 වෙනි දින උදෑසන මැණික් ගඟේ දියකපීමෙන් පසු අවසන් වේ.
+🟩
 
-ජූලි මස 11 වෙනි දින බස්නායක නිලමේවරයා ප්‍රථම වරට පෙරහරේ ගමන්කරන අතර ජූලි 18 වෙනි දින රාත්‍රී (18 වෙනි දින අලුයම) ගිනිපෑගීමේ උත්සවය පැවැත්වේ.
+The cupitarization for the 2024 Eyal Festival of the Historic Ruhunu Kataragama Maha Devalaya will be held on May 24th morning.
 
-ජූලි 21 වෙනිදා රාත්‍රී අවසාන මහා රන්දෝලි පෙරහර පැවැත්වීමට නියමිතය.
+This year's eye begins on July 06 after the remembrance of the gem river on July 22.
 
-මෙවර ඇසල උත්සවයේ  සංවිධාන කටයුතු පිළිබඳව රැස්වීමක් මැයි මස 28 වෙනි දින පෙරවරු දහයටකිරිවෙහෙර රජමහා විහාරස්ථානයේදී රුහුණු මාගම්පත්තුවේ ප්‍රධාන සංඝනායක් කිරිවෙහෙර රජමහා විහාරාධිපති ශාස්ත්‍රපතිපණ්ඩිත කොබවක ධම්මින්ද නායක ස්වාමීන්වහන්සේගේ ප්‍රධානත්වයෙන් පැවැත්වේ.
+On July 11, the Basnayake Nilame was first passed in Perapa, on July 18 (early 18th) Filling ceremony.
 
-මෙම අවස්ටාවට අයිතිහාසික රුහුණු මහා කතරගම මහා දේවාලයේ බස්නායක නිලමේ තැන්පත් ඩිෂාන් වික්‍රමරත්න ගුණසේකර,මොනරාගල දිසාපති සහ කඳවුරු භාර නිලධාරී පසන් රත්නායක යන  මහත්වරු සහභාගීවීමට නියමිතය.
+The last night Randoli Perahera will be held on the night of July 21.
+
+The meeting regarding the organizing activities of the Elderry this year will be held on May 28 at Ruhuna Magampatha in the Magampatha of Ruhuna Magampatha on 28th May.
+
+The Aust is due to participate in the Ovathu Gunasekera, Monaragala Gunasekera and Monaragala Gunasekera, Monaragala and Basan Rathnayaka.
 
 ◼️
 
 [Data](articles/bea387ec.json)
+
+[Extended Data](ext_articles/bea387ec.ext.json)
 
 ---
 
@@ -597,6 +815,30 @@ Accordingly, Kolkata Knight Riders were able to qualify for the finals of the In
 [Data](articles/9a6d6e11.json)
 
 [Extended Data](ext_articles/9a6d6e11.ext.json)
+
+---
+
+### Sri Lanka financial literacy to combat fraud, cut indebtedness: CB Governor
+
+*2024-05-22 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-literacy-to-combat-fraud-cut-indebtedness-cb-governor-164159/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s financial inclusion and stability as well as monetary policy transmission would be improved with better financial literacy, Central Bank Governor Nandalal Weerasinghe said.
+
+Financially literate persons will make better savings and investment decisions, he said.
+
+“They are more likely to understand the impact monetary policy decisions and respond appropriately, contributing to effective policy implementation,” Governor Weerasinghe said at the launch of a road map to boost financial literacy.
+
+The road map has been made in collaboration with related regulators and stakeholders and the United Nations Development Program.
+
+Related Sri Lanka women borrowers trapped by ill-understood loan agreements: UN official
+
+Financial literacy can also increase public trust in the financial system by increase knowledge of how it works.
+
+A new central bank has entrusted the Central Bank with maintaining the stability of the financial system as well as increasing financial inclusion.
+
+...
+
+[Data](articles/10bd9087.json)
 
 ---
 
@@ -778,6 +1020,24 @@ An office train plying from Kurunegala to Colombo had derailed in this manner di
 
 ---
 
+### Sri Lanka’s Cinnamon Life begins marketing, accepts bookings
+
+*2024-05-22 07:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-cinnamon-life-begins-marketing-accepts-bookings-164144/) · `en`
+
+ECONOMYNEXT – Cinnamon Life, a high-end 687 room hotel owned by Sri Lanka’s John Keells Holdings has begun marketing and accepting bookings to start operations in the third quarter of 2024 the group said.
+
+In April 2024, the contractors of the project started the handover of the building to enable Cinnamon Life to complete the final stages of furnishing, equipping and other interior works for the rooms and common areas, Chairman Krishan Balendra told shareholders in the annual report.
+
+‘Cinnamon Life’ carried out various activities including participating in international trade fairs, conducting interviews and providing briefings to travel publications, and direct marketing initiatives for selected market segments to increase awareness on the hotel and its offerings, given the impending commencement of operations of the hotel,” Balendra said.
+
+“[T] ‘Cinnamon Life’ hotel commenced accepting bookings for stays and banqueting functions.”
+
+...
+
+[Data](articles/577336bc.json)
+
+---
+
 ### Heavy rainfall and strong winds expected over the island
 
 *2024-05-22 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99369/heavy-rainfall-and-strong-winds-expected-over-the-island) · `en`
@@ -835,6 +1095,26 @@ They also listed out the services and rendered by Ven. Gnanasara Thero to establ
 [Data](articles/359d493a.json)
 
 [Extended Data](ext_articles/359d493a.ext.json)
+
+---
+
+### Sri Lanka’s JKH net up 123-pct in Dec quarter amid lower inflation
+
+*2024-05-22 06:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-net-up-123-pct-in-dec-quarter-amid-lower-inflation-164129/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings group, which has interests in hotels, logistics and financial services, has reported profits of 7.3 billion rupees for the March 2024 quarter, helped by stronger margins and higher net interest income.
+
+The group reported earnings of 5.17 rupees per share. For the year to March the group reported earnings of 8.06 rupees per share on total profits of 11.2 billion rupees, down 18.1 billion rupees in interim accounts filed with the Colombo Stock Exchange.
+
+Group revenues for the March 2024 quarter was up 19 percent to 86.6 billion rupees including 4.5 billion rupees from the insurance unit.
+
+Cost of sales went up 16 percent to 63.8 billion rupees and gross profits were up 30 percent to 16.7 billion rupees.
+
+Finance costs fell from 5.4 billion rupees to 2.4 billion and finance income went up from 3.4 billion rupees to 71. Billion rupees.
+
+...
+
+[Data](articles/4297c9fd.json)
 
 ---
 
@@ -2039,315 +2319,5 @@ It is noteworthy that traffic nationwide is affected due. Remble
 [Data](articles/503cc1f3.json)
 
 [Extended Data](ext_articles/503cc1f3.ext.json)
-
----
-
-### Child disappears
-
-*2024-05-21 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196881) · `si`
-
-Nathutara, a 12-year-old from Maduranganamman, vanished recently. Authorities urge anyone with information to contact Madurankuliya Police Station at 032 2. 268 221.
-
-🟩
-
-A 12-year-old child named Nathutara, a 12 year old resident of Maduranganamman, has disappeared a few days ago with residents ago.
-
-The child requests the child to inform the OIC of the Madurankuliya Police Station 032 2. 268 221 at Madurankuliya Police Station.
-
-◼️
-
-[Data](articles/525a7b16.json)
-
-[Extended Data](ext_articles/525a7b16.ext.json)
-
----
-
-### Ali Sabri is going to Iran to attend the funeral
-
-*2024-05-21 21:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிச்-சடங்கில்-பங்கேற்க-ஈரான்-செல்கின்றார்-அலி-சப்ரி/175-337664) · `ta`
-
-Sri Lanka's Foreign Minister Ali Sabri travels to Iran tonight for the funeral of Ibrahim Raisi in Tabriz.
-
-🟩
-
-Sri Lankan Foreign Minister Ali Sabri will go to Iran tonight to attend the funeral of the late Ibrahim Raisi in Iran's Tabris.. Remble
-
-◼️
-
-[Data](articles/d29cc8fa.json)
-
-[Extended Data](ext_articles/d29cc8fa.ext.json)
-
----
-
-### High-level delegation visits Tehran to attend Iranian President’s state funeral
-
-*2024-05-21 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/High-level-delegation-visits-Tehran-to-attend-Iranian-Presidents-state-funeral/108-283080) · `en`
-
-Colombo, May 21 (Daily Mirror)-  Minister of Foreign Affairs Ali Sabry will lead a high-level delegation to attend the state funeral of late President Dr. Seyyed Ebrahim Raisi and Foreign Minister Dr. Amir Abdollahian of the Islamic Republic of Iran, scheduled to be held tomorrow, 22 May 2024, the Ministry of Foreign Affairs said.
-
-Minister Ali Sabry is scheduled to hand over a condolence message from President Ranil Wickremesinghe addressed to the Supreme Leader of Iran. Reflecting the close and cordial bilateral relations, the late President and the Foreign Minister visited Sri Lanka last month.
-
-Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs and Middle East of the Foreign Ministry U.L.M. Jauhar will accompany the Foreign Minister in the visit to Tehran.
-
-◼️
-
-[Data](articles/96355eda.json)
-
-[Extended Data](ext_articles/96355eda.ext.json)
-
----
-
-### Complaint to contempation of Diana
-
-*2024-05-21 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196880) · `si`
-
-The Supreme Court has accused Mrs. Diana Gamage of contempt, filing a petition after she allegedly insulted the court during a press conference. The complaint was made by the former Chairman of the Weligama Urban Council, who received a decision from the Supreme Court on the 8th regarding his status as a state minister.
-
-🟩
-
-The Supreme Court has filed a petition against Mrs. Diana Gamage, accusing contempt of court.
-
-The petition was presented by the former Chairman of the Weligama Urban Council.
-
-The petitioner petition was given a decision by the Supreme Court on the 8th of all that was a state minister in the country.
-
-Accordingly, the expressions of the Supreme Court have acted insulting the Supreme Court at the Supreme Court decision at a press conference on the 9th.
-
-◼️
-
-[Data](articles/feaaa59c.json)
-
-[Extended Data](ext_articles/feaaa59c.ext.json)
-
----
-
-### ISIS terrorists visited Sri Lanka
-
-*2024-05-21 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196879) · `si`
-
-Four Sri Lankan ISIS terrorists, including Mohamed Nusarath from Negombo and others from Colombo, were arrested at Ahmedabad airport in India. They were planning an attack in Gujarat but were caught before launching. The group used Tamil for communication and had weapons and ammunition.
-
-🟩
-
-Gujarat IGP Rathnayake said that the four terrorists were arrested at Ahmedabad International Airport in India.
-
-The four terrorists are residents of Negombo and Colombo.
-
-Four members of the Sri Lankan ISIS terrorist organization arrived at Ahmedabad Monastery on Sunday night at the Sri Lankan ISI of ISIS terrorist organization ready to launch an attack in Gujarat State.
-
-The Gujarat was arrested by the terrorist premises and presented a news discussion last afternoon.
-
-Accordingly, Mohamed Nusarath, who has been identified as Mohamed Nusarath, is a resident of Negombo.
-
-The other terrorists are residents of Colombo, Mohamed Naferan, 43 year old Mohammed Farish, a 27-year-old Mohammed Farish.
-
-They have arrived at Ahmedabad town from Srinenawa to Chennai.
-
-ISIS used only Tamil. The four terrorists questioned the four terrorists through a translator.
-
-They have found mobile phones, the two countries and the airports of the licenses and the license bag of one.
-
-...
-
-[Data](articles/f15f44b5.json)
-
-[Extended Data](ext_articles/f15f44b5.ext.json)
-
----
-
-### Special announcement from the Ministry of Education
-
-*2024-05-21 20:34:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදයක්/11-409775) · `si`
-
-The Ministry of Education clarifies that schools will remain open tomorrow despite rumors circulating on social media. The decision was communicated to Provincial Education officials.
-
-🟩
-
-The Ministry of Education has announced that the announcement via Social Media Network is false that all schools in the island will leave tomorrow (22).
-
-Therefore, all schools in the island will be held tomorrow (22).
-
-We also notice that the Provincial Education Secretaries and Provincial Education Directors have been informed of the situation due to the existing situation.
-
-◼️
-
-[Data](articles/9e5a0862.json)
-
-[Extended Data](ext_articles/9e5a0862.ext.json)
-
----
-
-### 2679 to South Korea from January to May
-
-*2024-05-21 20:23:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-සිට-මැයි-දක්වා-දකුණු--කොරියාවට-2679-ක්/11-409774) · `si`
-
-From January to May 2024, 2,679 Sri Lankan workers left their jobs in South Korea, including 150 in specific fields. This trend continues under the Memorandum of Understanding between Sri Lanka and South Korea, allowing Sri Lankans to work there since 2004, indicating a sustained interest in employment opportunities in South Korea.
-
-🟩
-
-In 2024 months, 2,679 Sri Lankans have left the jobs in South Korea, 150 other Sri Lankans who have jobs in the field of South Korea (5/21) to South Korea.. These men also belong to six young women.
-
-Sri Lankans have employed in South Korea in terms of the Memorandum of Memorandum of Memorandum of the Sri Lanka Bureau and South Korean Human Resources Development Services. According to the MoU, Sri Lankans continued to work in South Korea since 2004 and today is more interested in South Korea.
-
-◼️
-
-[Data](articles/322fa9ec.json)
-
-[Extended Data](ext_articles/322fa9ec.ext.json)
-
----
-
-### Low-pressure area in Bay of Bengal likely to turn into depression by Friday
-
-*2024-05-21 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Low-pressure-area-in-Bay-of-Bengal-likely-to-turn-into-depression-by-Friday/108-283076) · `en`
-
-Colombo, May 21 (Daily Mirror) - A low-pressure area over the south-west Bay of Bengal is likely to move initially north-eastward and concentrate into a depression over the central parts of the Bay of Bengal by Friday (24), the Meteorology Department said today.
-
-Accordingly, strong winds accompanied by heavy rainfall and very rough seas are likely over the sea areas around the country and over the south-eastern Arabian Sea areas and south-western Bay of Bengal sea areas.
-
-Therefore, the naval and fishing communities in the deep-sea areas in the south-eastern Arabian Sea and in the south-western Bay of Bengal areas are advised not to venture out to the seas until further notice.
-
-Moreover, the sea areas extending from Colombo to Pottuvil via Galle and Hambantota will be rough at times with very strong gusty winds up to 70 kmph.
-
-...
-
-[Data](articles/cadb9889.json)
-
-[Extended Data](ext_articles/cadb9889.ext.json)
-
----
-
-### Landslide Warnings for fifty lane
-
-*2024-05-21 20:18:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍ර-ලේ-කොට්ඨාස-පනහකට-නාය-යැමේ-අනතුරු-ඇඟවීම්/11-409773) · `si`
-
-Heavy rains trigger landslide warnings across 50 districts, including Badulla, Seethawaka, Elpitiya, Nagoda, Kalutara, Attanagalla, Dodangoda, Agalawatta, Bulathsinhala, Udunugala, Udalheela, Yatapola, Yatiyantota, Ruwanwella, Bulathwella, Dehiokapitiya, Polgadawana, Narammala, Alawwa, Nivita, Ayagama, Ratnapura, Upatha, Analpatha, Kiriella, Eheliyagoda. The warning takes effect from tomorrow morning.
-
-🟩
-
-The National Building Research Organization has issued a landslide warning notification to 50 districts due to heavy rains in many parts of the island.
-
-According to the statement, the first level for the Divisional Secretariat Division in Badulla District has been announced to the Divisional Secretariat Division for the Divisional Secretariat Division in Badulla District, the first level announcement for the Seethawaka Divisional Secretariat Division.
-
-Elpitiya and Nagoda Divisional Secretariat Division of Elpitiya and Nagoda Divisional Secretariat Division, Kalutara District, Attanagalla Divisional Secretariat Division, Kalutara, Dodangoda, Agalawatta, Dodangoda, Agalawatta, Agalawatta and Bulathsinhala Breakage Divisional Secretariat DivisionsHas been done.
-
-...
-
-[Data](articles/78a692bb.json)
-
-[Extended Data](ext_articles/78a692bb.ext.json)
-
----
-
-### The cost of history of Lanka Premier, the expenses
-
-*2024-05-21 20:12:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-ප්‍රිමියර්-ලිග-ඉතිහාසයේ-මිල-අධිකම-ක්‍රිඩකයා-මතීෂ/9-409772) · `si`
-
-In the Lanka Premier Sports Auction, Sri Lanka's youth fast bowler set a record price of $120,000, bought by Colombo, making it the highest bid in Lanka Premier history. Over 400 players participated in the event.
-
-🟩
-
-Sports Auction to the Ceylon Premier Lal Tournament concluded today. Sri Lanka Youth Fast bowler soldier sold for 120000 dollars in this auction and was sold to record book as a top value of Lanka Premier. The manuscript was purchased by the Colombo team. More than 400 players were present at the auction.
-
-◼️
-
-[Data](articles/a1383e0e.json)
-
-[Extended Data](ext_articles/a1383e0e.ext.json)
-
----
-
-### Asian Series Rout Championship: 4 x 400m for men. Gold to Sri Lanka in the series
-
-*2024-05-21 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184173) · `ta`
-
-In the inaugural Asian Series Championship, Sri Lanka clinched the gold in the men's 4x400m event, clocking 3:04.48. The team consisted of Aruna Darshana, Hunger Lakshan Kodikara, Dinukka Deshan, and Kalinga Kumarake. Despite missing out on direct Olympic qualification, a win in future series could secure them a spot based on rankings. India took silver (3:05.76), and Vietnam bronze (3:07.37).
-
-🟩
-
-Sri Lankan team won the gold medal in the men's 4 x 400m series in the inaugural Asian series championship, which ended on Tuesday (21) in Bangladesh, Thailand.
-
-Sri Lanka won the gold medal in India, Vietnam, Qatar, the Philippines, Thailand and Chinese Breasty.
-
-The Sri Lankan team won the gold medal in the men's 4 x 400m race in 3 minutes and 04.48 seconds.
-
-Aruna Darshana, Hunger Lakshan Kodikara, Dinukka Deshan and Kalinga Kumarake were featured in the Sri Lankan series.
-
-However, it is disappointing that the Sri Lankan team missed the directory level for the direct Olympic qualification.
-
-However, if the Sri Lankan team wins the next series of matches, it is believed that the Sri Lankan series will be able to participate in the Olympics based on international rankings.
-
-India (3: 05.76) won the silver medal and Vietnam (3: 07.37) won the bronze medal.
-
-◼️
-
-[Data](articles/ef31928b.json)
-
-[Extended Data](ext_articles/ef31928b.ext.json)
-
----
-
-### Corrine Almeida obtains enjoining order against Romaine Willis and DJ Mass on song ’’Eh Yaye’’
-
-*2024-05-21 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corrine-Almeida-obtains-enjoining-order-against-Romaine-Willis-and-DJ-Mass-on-song-Eh-Yaye/108-283074) · `en`
-
-Colombo, May 21 (Daily Mirror)- The Commercial High Court has issued an enjoining order restraining singer Romaine Willis and Mass Ramli Miskin alias DJ Mass from performing, reproducing and distributing the songs titled "Eh Yaye" and “Api Natamu".
-
-The Colombo Commercial High Court Judge Priyantha Fernando made this order after considering a plaint filed by popular artist and music performer Corrine Almeida under the Intellectual Property Act.
-
-Meanwhile, the Court further issued notice of injunction and summons on the defendants returnable for May 31.
-
-In her plaint, the plaintiff Corrine Almeida stated that she is the owner of the copyright and economic rights to the musical composition and lyrics of the song titled "Api Natamu".
-
-The plaintiff had named executive producer of the audiovisual work "Eh Yaye" Mass Ramli Miskin and singer Romaine Willis as defendants.
-
-...
-
-[Data](articles/6ef65351.json)
-
-[Extended Data](ext_articles/6ef65351.ext.json)
-
----
-
-### A tree collapses on railway line
-
-*2024-05-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196878) · `si`
-
-A tree collapse caused the railway line between Kottawa and Pannipitiya to shut down. Trains now run on the Kelanveli line instead.
-
-🟩
-
-The railway line between Kottawa and Pannipitiya have been collapsed.
-
-Due to this, the railway line has been launched to operate the train on the Kelanveli railway line.
-
-◼️
-
-[Data](articles/1f3116ff.json)
-
-[Extended Data](ext_articles/1f3116ff.ext.json)
-
----
-
-### Schools in Puttalam District
-
-*2024-05-21 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184172) · `ta`
-
-In Puttalam District, heavy rains from the southwest monsoon have caused school closures on the 20th and 21st, but they plan to reopen soon. The decision rests with the Regional Education Director, who has authority over disaster areas.
-
-🟩
-
-Heavy rains are reported in many parts of the country as the southwest monsoon intensifies. Due to this, the Puttalam district has been the most affected.
-
-However, the schools in the district will be closed on the 20th and 21st, but will be reopened as usual tomorrow, the Regional Education Director said.
-
-Will schools open in disaster areas?No?It is noteworthy that the Director of Education has been given the power to decide.
-
-◼️
-
-[Data](articles/5e68718b.json)
-
-[Extended Data](ext_articles/5e68718b.ext.json)
 
 ---

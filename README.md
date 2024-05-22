@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 11:53:27**
+As of **2024-05-22 12:05:52**
 
 ## Newspaper Stats
 
-*Scraped **25,629** Articles*
+*Scraped **25,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,64 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
-adalk | 2,196
+adalk | 2,198
 adaderanalk | 2,954
 tamilmirrorlk | 2,994
 virakesarilk | 3,880
 dailymirrorlk | 4,022
-adaderanasinhalalk | 4,095
+adaderanasinhalalk | 4,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,628 (100.0%) of 25,629 articles have been extended.
+25,629 (100.0%) of 25,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### வெசாக்கிற்கு தாமரைக் கோபுரம் பௌத்த கொடி நிறத்தில் ஒளிரும்
+### Lotus tower to Vesak is glowing in the color of Buddhist flag
 
 *2024-05-22 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்கிற்கு-தாமரைக்-கோபுரம்-பௌத்த-கொடி-நிறத்தில்-ஒளிரும்/175-337683) · `ta`
 
-வெசாக் போயாவை முன்னிட்டு பௌத்த கொடியின் நிறத்தில் தாமரை கோபுரம் ஒளிரும் என கொழும்பு தாமரைக் கோபுர முகாமை நிறுவனம் (தனியார்) தெரிவித்துள்ளது.
+The Lotus Tower in Colombo will glow in Buddhist flag colors on May 23rd and 24th, marking Vesak celebrations. The Pixel Bloom area will operate from 9 AM to 1 AM from May 23rd to 26th, extending its hours until 10 PM on the 26th.
 
-அதன்படி நாளை (23) மற்றும் நாளை மறுதினம் (வியாழக்கிழமை 24) கோபுரம் பௌத்த கொடி நிறங்களில் ஒளிரவுள்ளது.
+🟩
 
-இதற்கிடையில், கோபுரத்தின் முகாமைப் பீடம் வெசாக் காலத்தின் போது அவர்களின் புதிய Pixel Bloom இயக்க நேரத்தை அறிவித்தது.
+The Lotus Tower will be glowing in the color of the Buddhist flag in front of Vesak Boya, according to the Colombo Lotus Tower Agency (Private).
 
-அதன்படி மே 23ஆம் திகதியிலிருந்து மே 26ஆம் திகதி வரையில் Pixel Bloom பகுதி காலை 9 மணி முதல் அதிகாலை 1 மணி வரையில் இயங்கும்.
+Accordingly, tomorrow (23) and tomorrow (Thursday 24th) the tower will be light in the Buddhist flag colors.
 
-மேலும் 26 ஆம் திகதி காலை 9 மணிமுதல் இரவு 10 மணிவரை இயங்கவுள்ளது என புதிய நேரங்கள் அறிவிக்கப்பட்டுள்ளது.
+Meanwhile, the Faculty of the Tower's Management Faculty announced their new Pixel Bloom operating time during the Vesak period.
+
+Accordingly, the Pixel Bloom area will run from 9 am to 1 am from May 23 to May 26.
+
+The new times have been announced that it will run from 9 am to 10 pm on the 26th.
 
 ◼️
 
 [Data](articles/f2f4c08c.json)
+
+[Extended Data](ext_articles/f2f4c08c.ext.json)
+
+---
+
+### ධීවරයින්ට හදිසි දැනුම්දීමක්
+
+*2024-05-22 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196898) · `si`
+
+අද දින සිට ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු බහුදින ධීවර යාත්‍රා ඇතුළුව සියලුම ධීවර යාත්‍රා සඳහා රැකියාවට පිටත්වීම සඳහා අවසර ලබා නොදෙන බව ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසයි.
+
+අද මාධ්‍ය වෙත අදහස් දක්වමින් එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා මේ බව පැවසීය,.
+
+දිවයින වටා මුහුදු ප්‍රදේශවල ඉදිරි දින කිහිපයේදී දැඩි වර්ශාපතනයත් දැඩි සුළං තත්ත්වයක් ඇතිවිය හැකි බවට වාර්තාවීමත් සමග එම දෙපාර්තමේන්තුව මෙම තීරණය ගෙන ඇත.
+
+එසේම මේ වනවිට රැකියාවේ නිරතව සිටින බහුදින ධීවර යාත්‍රා වෙත ද ආරක්‍ෂිත ප්‍රදේශ හරහා ගමන්කරන ලෙසට දැනුම්දී ඇති බව එහි අධ්‍යක්ෂවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2bd3e98b.json)
 
 ---
 
@@ -74,13 +98,39 @@ They have also mentioned the services of Thera in the letter that Gnanasara Ther
 
 ---
 
+### තාත්තා සහ පුතා විසින්  පුද්ගලයෙකුට කඩු දෙකකින් පහරදී ඝාතනය කරයි
+
+*2024-05-22 11:17:42* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තා-සහ-පුතා-විසින්--පුද්ගලයෙකුට-කඩු-දෙකකින්-පහරදී-ඝාතනය-කරයි/11-409780) · `si`
+
+මොරන්තුඩුව පොල්හේන පන්සල පාරේ නිවසක් තුළදී මස්සිනා සහ ඔහුගේ පියා විසින්  පුද්ගලයෙකුට කඩු දෙකකින් පහරදී ඝාතනය කර ඇතැයි මොරන්තුඩුව පොලිසිය කියයි.
+
+මෙලෙස ඝාතනය කර ඇත්තේ බණ්ඩාරගම වල්ගම කහටගස් හන්දියේ පදිංචිව සිටි  පුද්ගලයෙකි. ඝාතනය සම්බන්ධයෙන් 23 හැවිරිදි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති අතර 43 හැවිරිදි  සැකකරුගේ පියා ප්‍රදේශය හැර පලා ගොස් ඇත.
+
+පළමු සැකකරු මරණකරුගේ නැගණිය සමග විවාහ වී සිටින අතර ඔවුන් දෙදෙනා අතර ආරවුලක් හටගෙන එය සමථයට පත්වී ඇතැයි පොලිසිය කියයි. මරණකරු ඊයේ (21දා) සවස එම නිවසට පැමිණි අවස්ථාවේදී  සැකකරු හා ඔහුගේ පියා  විසින් මරණකරුට  කඩු දෙකකින් පහරදී තුවාල සිදුකර තිබූ බව පොලිසිය කියයි.
+
+බරපතල තුවාල ලබා සිටි පුද්ගලයා අසල මාර්ගයක වැටී සිටියදී 1990 සුවසැරිය  ගිලන් රථය මගින් ගෝනදුව රෝහල වෙත ඇතුලත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+
+◼️
+
+[Data](articles/ed2ceb8d.json)
+
+---
+
 ### Economic Transformation Bill and Public Financial Management Bill tabled in Parliament
 
 *2024-05-22 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99375/economic-transformation-bill-and-public-financial-management-bill-tabled-in-parliament) · `en`
 
 The Economic Transformation Bill and the Public Financial Management Bill have been presented to the Parliament, a short while ago.
 
-◼️
+Accordingly, the parliamentary session had commenced at 9.30 a.m. today (May 22) while the Economic Transformation Bill and the Public Financial Management Bill were presented to the Parliament for the first reading.
+
+The government says the two significant bills are aimed at bolstering the country’s economy.
+
+The “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, the State Minister of Finance Shehan Semasinghe said recently.
+
+Explaining the bills, he said the “Economic Transformation Law,” is aimed at preventing future economic collapses and that the legislation stems from the vision of President Ranil Wickremesinghe, rather than being proposed by the International Monetary Fund (IMF).
+
+...
 
 [Data](articles/4ef6105e.json)
 
@@ -336,6 +386,22 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 
 ---
 
+### මරණයකින් කෙළවර වූ පවුල් ආරවුල
+
+*2024-05-22 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196893) · `si`
+
+පොලීසිය පැවසුවේ මෙම පුද්ගලයා ඊයේ (21) රාත්‍රී සිය සහෝදරිය සහ ඇයගේ සැමියා අතර පැවති ආරවුලක් විසඳීමට ඔවුන්ගේ නිවසට ගොස් ඇති බවයි.
+
+එහිදී ඔහු සහ මස්සිනා අතර බහින්බස්වීමක් සිදුව ඇති බව වාර්තා විය.
+
+එහිදී ඔහුගේ මස්සිනා සහ මස්සිනාගේ පියා විසින් එම පුද්ගලයාට පහරදී ඇති බවත් ඔහු ව ගෝනදූව රෝහලට ඇතුළු කිරීමෙන් පසු මියගොස් ඇති බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/8e87aa22.json)
+
+---
+
 ### Brother -in -law killing his brother
 
 *2024-05-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184186) · `ta`
@@ -401,6 +467,28 @@ The state minister made these remarks during a press briefing titled “Collecti
 [Data](articles/17ad06b3.json)
 
 [Extended Data](ext_articles/17ad06b3.ext.json)
+
+---
+
+### කතරගම ඇසල මංගල්‍යයට කප්සිටුවීම මැයි 24 වෙනිදා
+
+*2024-05-22 09:45:48* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ඇසල-මංගල්‍යයට-කප්සිටුවීම-මැයි-24-වෙනිදා/11-409779) · `si`
+
+ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ 2024 ඇසල මංගල්‍යය සඳහා කප්සිටුවීම මැයි මස 24 වෙනිදා උදෑසන දේවාල පරිශ්‍රයේදී සිදුකෙරේ.
+
+මෙවර ඇසල මංගල්‍යය ජූලි මස 06 වෙනි දින ආරම්භවී ජූලි මස 22 වෙනි දින උදෑසන මැණික් ගඟේ දියකපීමෙන් පසු අවසන් වේ.
+
+ජූලි මස 11 වෙනි දින බස්නායක නිලමේවරයා ප්‍රථම වරට පෙරහරේ ගමන්කරන අතර ජූලි 18 වෙනි දින රාත්‍රී (18 වෙනි දින අලුයම) ගිනිපෑගීමේ උත්සවය පැවැත්වේ.
+
+ජූලි 21 වෙනිදා රාත්‍රී අවසාන මහා රන්දෝලි පෙරහර පැවැත්වීමට නියමිතය.
+
+මෙවර ඇසල උත්සවයේ  සංවිධාන කටයුතු පිළිබඳව රැස්වීමක් මැයි මස 28 වෙනි දින පෙරවරු දහයටකිරිවෙහෙර රජමහා විහාරස්ථානයේදී රුහුණු මාගම්පත්තුවේ ප්‍රධාන සංඝනායක් කිරිවෙහෙර රජමහා විහාරාධිපති ශාස්ත්‍රපතිපණ්ඩිත කොබවක ධම්මින්ද නායක ස්වාමීන්වහන්සේගේ ප්‍රධානත්වයෙන් පැවැත්වේ.
+
+මෙම අවස්ටාවට අයිතිහාසික රුහුණු මහා කතරගම මහා දේවාලයේ බස්නායක නිලමේ තැන්පත් ඩිෂාන් වික්‍රමරත්න ගුණසේකර,මොනරාගල දිසාපති සහ කඳවුරු භාර නිලධාරී පසන් රත්නායක යන  මහත්වරු සහභාගීවීමට නියමිතය.
+
+◼️
+
+[Data](articles/bea387ec.json)
 
 ---
 
@@ -2261,77 +2349,5 @@ Will schools open in disaster areas?No?It is noteworthy that the Director of Edu
 [Data](articles/5e68718b.json)
 
 [Extended Data](ext_articles/5e68718b.ext.json)
-
----
-
-### ComBank and CBA pioneer NFC technology-enabled cashless vending machines in Sri Lanka
-
-*2024-05-21 19:48:00* · [`islandlk`](http://island.lk/combank-and-cba-pioneer-nfc-technology-enabled-cashless-vending-machines-in-sri-lanka/) · `en`
-
-Offer new paradigm in convenience with contact and contactless card payment acceptance
-
-Sri Lanka will be able to deploy its first credit and debit card-enabled vending machines following a collaboration between the Commercial Bank of Ceylon, the country’s biggest private sector bank, and Ceylon Business Appliances (CBA), a leading financial technology solutions company.
-
-Advancing consumer convenience and embracing technological innovation, the collaboration will result in the introduction of a fully automated, Near Field Technology (NFC)-enabled vending machine service branded ‘Grab.it’ across Sri Lanka. These machines will accept contact and well as contactless card payments.
-
-The Bank said this is the first time a Sri Lankan bank has engaged with a fintech company to offer such a technologically-advanced solution in the retail sector.
-
-...
-
-[Data](articles/648dcf9b.json)
-
-[Extended Data](ext_articles/648dcf9b.ext.json)
-
----
-
-### ONL rewards its best dealers with a foreign tour for achieving business targets
-
-*2024-05-21 19:47:00* · [`islandlk`](http://island.lk/onl-rewards-its-best-dealers-with-a-foreign-tour-for-achieving-business-targets/) · `en`
-
-Office Network (Pvt) Ltd. (ONL), the leading office automation (OA) solutions provider in Sri Lanka, held its annual business partner appreciation awards honoring high performing dealers who have achieved business targets for the financial year 2023/24 at a felicitation ceremony held at the Movenpick Hotel in Colombo on Wednesday 15th May 2024.
-
-The event was graced by the Chairman and the Board of Directors of Office Network (Private) Limited and was also the platform for the launch of the latest models from the globally-renowned Japanese brand Brother.
-
-As the official, authorized Distributor for Brother products in Sri Lanka, ONL has grown from strength to strength capturing a wider segment of the market with its reliable and growing product range.
-
-...
-
-[Data](articles/7af0dd6c.json)
-
-[Extended Data](ext_articles/7af0dd6c.ext.json)
-
----
-
-### DFCC Bank supports Sri Lanka Tamil Women’s Union’s celebration of International Women’s Day
-
-*2024-05-21 19:45:00* · [`islandlk`](http://island.lk/dfcc-bank-supports-sri-lanka-tamil-womens-unions-celebration-of-international-womens-day/) · `en`
-
-DFCC Pinnacle and DFCC Aloka, the highest-tier premium banking experience and the exclusively women-centric banking proposition from DFCC Bank, respectively, recently supported the Sri Lanka Tamil Women’s Union as the association celebrated International Women’s Day 2024.
-
-A spirited celebration of empowerment and solidarity, the event was an inspiring occasion that resonated with women from all sections of society. It not only celebrated the remarkable achievements of women but also served as a rallying call for furthering the cause of gender equality and #InspiringInclusion.
-
-...
-
-[Data](articles/0fe9146f.json)
-
-[Extended Data](ext_articles/0fe9146f.ext.json)
-
----
-
-### Decline in three-month TB rate and State Minister’s comments bring CSE to life
-
-*2024-05-21 19:42:00* · [`islandlk`](http://island.lk/decline-in-three-month-tb-rate-and-state-ministers-comments-bring-cse-to-life/) · `en`
-
-The stock market got off to a negative start yesterday but later recovered during the last hour due to a decline in Treasury Bills at the auction and the State Minister of Finance’s revelation of some positive trends in the external debt restructuring exercise, market analysts said.
-
-At the Treasury Bill auction, a sharp decline of nine percent was noted especially in the three-month Treasury Bill rate. Further, rays of hopes were created when State Minister for Finance Shehan Semasinghe said, without giving a date, that Sri Lanka is expecting a second round of talks with private investors ‘very soon’ to restructure sovereign bonds.
-
-Sri Lanka is planning to complete debt restructuring by June 2024 and to go to the IMF board for the next round.
-
-...
-
-[Data](articles/018fc4f1.json)
-
-[Extended Data](ext_articles/018fc4f1.ext.json)
 
 ---

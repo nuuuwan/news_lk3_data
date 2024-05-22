@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 19:51:46**
+As of **2024-05-22 20:03:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,740 (100.0%) of 25,742 articles have been extended.
+25,742 (100.0%) of 25,742 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The statement further reads: “This termination/retraction of rights aims to up
 ...
 
 [Data](articles/fe97cc36.json)
+
+[Extended Data](ext_articles/fe97cc36.ext.json)
 
 ---
 
@@ -606,21 +608,29 @@ Thus, the birth of four children in the same environment takes place in 5 lakhs 
 
 ---
 
-### තවත් වසර 12ක් රනිල්ට බලය දිය යුතුයි
+### Ranil should be authorized for another 12 years
 
 *2024-05-22 16:11:03* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-12ක්-රනිල්ට-බලය-දිය-යුතුයි/11-409794) · `si`
 
-තව වසර දොළහක් මෙරට පාලනය කිරීමට වත්මන් ජනාධිපතිතුමාට බලය ලබා දිය යුතු බවත් එය එසේ නොකොට වෙනත් පුද්ගලයකුට මේ රට භාර දීමට කටයුතු කළොත් පෙර තිබුණ තත්ත්වයට යළි රටේ අඳුරු අගාධයකට වැටෙන බවත් එක්සත් ජාතික පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා අද (22) ගාල්ලේ දී ප්‍රකාශ කළේය
+Vajira Abeywardena, UNP Chairman, supports Ranil Wickremesinghe for another 12-year term, highlighting his efforts to revive the nation and address past leadership flaws. He emphasizes Wickremesinghe's commitment to democracy and national policies, urging unity and caution against misleading leaders.
 
-වෙසක් උත්සවය නිමිත්තෙන් පිරිවෙන්, විහාරස්ථාන, දන්සැල්,  සඳහා සහල් සහ මූල්‍ය ආධාර ප්‍රදානය කිරීම නිමිත්තෙන් ගාල්ල එක්සත් ජාතික පක්ෂ කාර්යාලයේදී ජන හමුවක් පැවැත්විණි .
+🟩
 
-එම ජන හමුවෙන් පසුව මාධ්‍ය වෙත දැක්වූ අදහස් දක්වමින් වජිර අබේවර්ධන මහතා මේ බව ප්‍රකාශ කළේය.
+UNP Chairman of the United National Party (UNP) stated that if the country should be empowered to rule over twelve years.
 
-"රනිල් වික්‍රමසිංහ මැතිතුමා  මේ රට තිබුණු අඳුරු ආගාධයෙන් ගොඩ ගත්තා.වසර දෙකකදි තිබූ තත්ත්වය වෙනස්කරා. රට තිබුණු තත්ත්වයෙන් වෙනස් කර මිනිසුන්ට සැනසීමේ හුස්ම ගන්ට ඉඩකඩ සලස්වා දුන්නා. වැටුණු රටට නායකත්වය දීලා රට ගොඩ ගන්න වැඩපිළිවෙළක් සකස් කළා.
+A public meeting was held at the UNP at the UNP to mark the Vesak, Temples, Dansals for Vesak, Dansals and Financial aid for the Vesak.
+
+Speaking to the media after the event, Vajira Abeywardena said this.
+
+"Ranil Wickremesinghe has recovered the dark pradeshiya edge of this country.. Changed the country from the country and the breath of comforting people. A program was led by the fallen country and build the country.
+
+He understood the shortcomings of all the leaders who so far.  They are accepting the country without blaming anyone. The country will be completed by June. He sent the attention of the world to Sri Lanka. The Sri Lankan public is enjoying today.
 
 ...
 
 [Data](articles/a8901c7e.json)
+
+[Extended Data](ext_articles/a8901c7e.ext.json)
 
 ---
 

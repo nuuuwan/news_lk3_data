@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 13:03:38**
+As of **2024-05-22 13:18:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,098
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,657 (100.0%) of 25,662 articles have been extended.
+25,662 (100.0%) of 25,662 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Police also said that someone had entered the house and assaulted him to death w
 
 [Data](articles/9d96ded4.json)
 
+[Extended Data](ext_articles/9d96ded4.ext.json)
+
 ---
 
 ### Police sergeant arrested for alleged sexual assault at canteen
@@ -61,6 +63,8 @@ Police said the suspect was arrested following an investigation after a petition
 ◼️
 
 [Data](articles/56a79512.json)
+
+[Extended Data](ext_articles/56a79512.ext.json)
 
 ---
 
@@ -162,6 +166,8 @@ The driver questions whether it is prohibited to drive a vehicle between these p
 
 [Data](articles/40255d29.json)
 
+[Extended Data](ext_articles/40255d29.ext.json)
+
 ---
 
 ### Donate to save lives...
@@ -173,6 +179,8 @@ A blood donation camp was launched today by the Sri Lanka Movement at Gangaramay
 ◼️
 
 [Data](articles/94072e72.json)
+
+[Extended Data](ext_articles/94072e72.ext.json)
 
 ---
 
@@ -237,6 +245,8 @@ Wickremesinghe implemented the Suraksha student insurance in 2017 when he was Pr
 ...
 
 [Data](articles/d50e09a9.json)
+
+[Extended Data](ext_articles/d50e09a9.ext.json)
 
 ---
 

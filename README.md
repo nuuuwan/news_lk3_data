@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 01:18:32**
+As of **2024-05-23 01:33:59**
 
 ## Newspaper Stats
 
-*Scraped **25,787** Articles*
+*Scraped **25,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,75 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,521
+dailyftlk | 1,522
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,005
 virakesarilk | 3,918
-dailymirrorlk | 4,056
+dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,785 (100.0%) of 25,787 articles have been extended.
+25,787 (100.0%) of 25,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### இலங்கையில் பின்னடைவான நிலையில் சிறுபான்மையினரின் மத சுதந்திரம் - சர்வதேச மத சுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழு சுட்டிக்காட்டு
+### Buddhist meditation for tech savvy generation
+
+*2024-05-23 01:11:16* · [`dailyftlk`](https://www.ft.lk/opinion/Buddhist-meditation-for-tech-savvy-generation/14-762131) · `en`
+
+Today, scientific knowledge is the best and most accessible tool to relate to Buddha’s teaching
+
+While earlier generations used perceptions and logical inferences to understand the nature of the universe and humans’ place in it, today, science is using experimental methods to achieve the same goal. This effort has generated a vast amount of information on subjects relevant to Buddhist meditation and described them in terms relatable to the present generation
+
+...
+
+[Data](articles/14d350f6.json)
+
+---
+
+### Religious freedom of minorities in Sri Lanka - US Commission on international religious freedom
 
 *2024-05-23 01:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184268) · `ta`
 
-இலங்கையில் மத சுதந்திரம் என்பது கரிசனைக்குரிய மட்டத்திலேயே காணப்படுவதாகவும், மத சிறுபான்மையினருக்கு எதிரான ஒடுக்குமுறைகள் மற்றும் வன்முறைகள் என்பன மத ரீதியிலான நெருக்கடிகளைத் தீவிரப்படுத்தியிருப்பதாகவும் சர்வதேச மத சுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+The US Commission on International Religious Freedom reports that religious freedom in Sri Lanka remains compromised, with ongoing violence against religious minorities like Tamil Catholics, Hindus, and Muslims. Despite constitutional guarantees, state actions favoring Buddhism over other religions have led to tensions and unrest. Recent efforts to seize religious sites, especially in the Northern and Eastern provinces, have exacerbated concerns. The commission's findings suggest that Sri Lanka's treatment of religious minorities warrants further scrutiny and potential inclusion on a watchlist for religious freedom violations.
 
-சர்வதேச மதசுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழுவினால் இலங்கையில் மதசுதந்திரம் மீதான சவால்கள் தொடர்பில் அண்மையில் நிகழ்நிலை முறைமையிலான கருத்துக்கோரல் ஒன்று ஏற்பாடு செய்யப்பட்டிருந்தது. சர்வதேச மதசுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழுவின் பிரதி தவிசாளர் பிரெடெரிக் ஏ.டேவி, ஆணையாளர்களான டேவிட் ஹரி மற்றும் ஸ்டீபன் ஸ்னெக் ஆகிய மூவரடங்கிய குழாம் இதற்குத் தலைமைதாங்கியது.
+🟩
 
-அதன்படி இலங்கையின் மதசுதந்திர நிலைவரம் தொடர்பில் கருத்து வெளியிட்ட அக்குழாமில் உள்ளடங்கும் பிரதிநிதிகள், 'போர் முடிவுக்குக்கொண்டுவரப்பட்டு 15 வருடங்கள் கடந்துள்ள நிலையில், இன்னமும் இலங்கை அதன் இன, மத வன்முறை வரலாற்றுடனான சமரசத்தைத் தொடர்கின்றது. இலங்கையில் மத சுதந்திரம் தொடர்பான நிலைவரம் கரிசனைக்குரிய மட்டத்திலேயே காணப்படுகின்றது.
+The US Commission on International Religious Freedom has pointed out that religious freedom in Sri Lanka is found at a level of compassion and that the oppression and violence against the religious minorities have intensified religious crises.
+
+The recently present -day commentary on the challenges of religious transformation in Sri Lanka by the US Commission on International Religious Fitness. It was chaired by a three -member committee of the US Commission on International Religious Affairs, Frederick A. Devi, Commissioners David Hari and Stephen Sneck.
+
+Representatives, including a comment on Sri Lanka's religious status, said, "With 15 years since the end of the war, Sri Lanka is still continuing its ethnic and religious violence history.. Religious freedom in Sri Lanka is seen at the level of compassion.
 
 ...
 
 [Data](articles/a6e536d0.json)
+
+[Extended Data](ext_articles/a6e536d0.ext.json)
+
+---
+
+### Travelling on politics’ rough sea needs grooming
+
+*2024-05-23 00:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Travelling-on-politics-rough-sea-needs-grooming/172-283188) · `en`
+
+Even in the present political set-up, we see the offspring of old politicians already in the system and nurturing political ambitions
+
+Sri Lanka did witness the grooming of two individuals in politics: Executive President J.R. Jayewardene groomed Lalith Athulathmudali and Gamini Dissanayake, but destiny didn’t support either of them; they were both assassinated
+
+Even in the present political set-up, we see offspring of old politicians already in the system and nurturing political ambitions, where one senior stalwart in politics is often heard saying: “My son will have to wait. He has some time to get there”
+
+Sri Lanka is a country which believed in electing to Parliament individuals with unproven track records and later repented their actions. This is because this nation doesn’t have a system in present day politics where the senior lawmakers hand over the baton to the next generation of budding lawmakers.
+
+...
+
+[Data](articles/a5c73c83.json)
 
 ---
 
@@ -85,6 +123,8 @@ Buddhism was introduced to Sri Lanka on Poson Day by Arahath Mahinda Thero in 23
 ...
 
 [Data](articles/9e4cbcf1.json)
+
+[Extended Data](ext_articles/9e4cbcf1.ext.json)
 
 ---
 
@@ -2265,45 +2305,5 @@ The Norwegian Prime Minister has said that Hamas and other terrorist groups and 
 [Data](articles/dab44ff9.json)
 
 [Extended Data](ext_articles/dab44ff9.ext.json)
-
----
-
-### Norway, Ireland and Spain say they are recognizing Palestinian state in historic move
-
-*2024-05-22 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99379/norway-ireland-and-spain-say-they-are-recognizing-palestinian-state-in-historic-move) · `en`
-
-Norway, Ireland and Spain said Wednesday they are recognizing a Palestinian state in a historic move that drew condemnation from Israel and jubilation from the Palestinians. Israel immediately ordered back its ambassadors from Norway and Ireland.
-
-It was a lightning cascade of announcements. First was Norway, whose Prime Minister Jonas Gahr Støre said “there cannot be peace in the Middle East if there is no recognition.”
-
-Gahr Støre said the Scandinavian country will officially recognize a Palestinian state as of May 28. “By recognizing a Palestinian state, Norway supports the Arab peace plan,” he said.
-
-Several European Union countries have in the past weeks indicated that they plan to make the recognition, arguing a two-state solution is essential for lasting peace in the region. The decision may generate momentum for the recognition of a Palestinian state by other EU countries and could spur further steps at the United Nations, deepening Israel’s isolation.
-
-...
-
-[Data](articles/34316503.json)
-
-[Extended Data](ext_articles/34316503.ext.json)
-
----
-
-### President's notice of presidential election
-
-*2024-05-22 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196902) · `si`
-
-President Ranil Wickremesinghe announces a presidential election for this year, funded by allocated funds.
-
-🟩
-
-President Ranil Wickremesinghe says the Presidential election will be held in the relevant time period this year.
-
-Speaking further the President said that the money was allocated for this purpose.
-
-◼️
-
-[Data](articles/293b89c8.json)
-
-[Extended Data](ext_articles/293b89c8.ext.json)
 
 ---

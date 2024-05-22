@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 15:33:54**
+As of **2024-05-22 15:52:27**
 
 ## Newspaper Stats
 
-*Scraped **25,690** Articles*
+*Scraped **25,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,134 @@ economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,204
 adaderanalk | 2,958
-tamilmirrorlk | 2,999
+tamilmirrorlk | 3,001
 virakesarilk | 3,892
 dailymirrorlk | 4,035
-adaderanasinhalalk | 4,106
+adaderanasinhalalk | 4,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,685 (100.0%) of 25,690 articles have been extended.
+25,690 (100.0%) of 25,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ශිෂ්‍යත්ව විභාගය ගැන නිවේදනයක්
+### Dambulla Thunders කණ්ඩායම හා සම්බන්ධ තමීම් රහමන් අත්අඩංගුවට
+
+*2024-05-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196909) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලිය සඳහා සහභාගී වීමට නියමිත කණ්ඩායමක් වන Dambulla Thunders කණ්ඩායම හා සම්බන්ධ තමීම් රහමන් නම් පුද්ගලයෙක් ව කටුනායක ගුවන්තොටුපොළේ දී ආගමන විගමන නිලධාරීන් විසින් රඳවා ගෙන තිබේ.
+
+ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය විසින් විමර්ශන කරනු ලබන නඩු කටයුත්තක් මත විදෙස් ගමන් තහනමක් පනවා තිබීම හේතුවෙන් ඔහුව රඳවා ගෙන ඇතැයි වාර්තා විය.
+
+පසුව ඔහුව ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය ට බාරදී ඇති අතර ඔහු අත්අඩංගුවට ගැනීමෙන් අනතුරුව අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+"තරග පාවාදීමට යෝජනා කිරීමට උත්සාහ කිරීම" සම්බන්ධයෙන් ඔහුව සැක පිට අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/5a09a78d.json)
+
+---
+
+### ඇමති ප්‍රසන්නගේ පෙත්සම නැවත කැඳවන දිනය
+
+*2024-05-22 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196908) · `si`
+
+අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටින අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එම දඬුවමට එරෙහිව ඉදිරිපත් කර තිබෙන අභියාචනා පෙත්සම යළිත් ජුනි 26 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (22) නියම කළේය.
+
+කොළොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩ කිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටු කරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකු ගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළේ යැයි චෝදනා එල්ල වී අමාත්‍යවරයාට අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියම කර තිබුණි.
+
+මෙම පෙත්සම  සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත  අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/14f82a2c.json)
+
+---
+
+### சிறுமிக்கு வாயில் புகை, வயிற்றில் ஓட்டை
+
+*2024-05-22 15:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிக்கு-வாயில்-புகை-வயிற்றில்-ஓட்டை/175-337702) · `ta`
+
+கல்யாண வீட்டில் விருந்தினர்களை கவரும் வண்ணம் பல்வேறு விஷயங்களை மணமகன், மணப்பெண் வீட்டிற்கு ஏற்பாடு செய்கின்றனர். அதில் சாப்பாடு மிகவும் முதன்மையாக இருக்கிறது. இதைத் தாண்டி ஸ்நாக்ஸ் விஷயங்களும் கவனம் ஈர்க்கின்றன. பெங்களூருவில் சமீபத்தில் நடந்த கல்யாணத்தில் ஸ்மோக் பான் என்ற உணவுப் பொருளை வைத்துள்ளனர். கிட்டதட்ட ஸ்மோக் பிஸ்கட் எப்படி வினையாற்றுமோ? அதுபோலத் தான் இதுவும்.
+
+வாயில் போட்டு மெல்லத் தொடங்கியதும் புகை வர ஆரம்பித்துவிடும். அதை வெளியில் விடும் போது வித்தியாசமான அனுபவமாக இருக்கும். ஆனால் இதன் பின்னால் விபரீதங்கள் நிகழும் என்று மருத்துவர்கள் தொடர்ந்து எச்சரித்து வருகின்றனர்.
+
+சமீபத்தில் சென்னையில் கூட ஸ்மோக் பிஸ்கட் சாப்பிட்டு சிறுவன் வலியால் துடித்த வீடியோ வைரலாகி பரபரப்பை கிளப்பியது. சில ஆண்டுகளுக்கு முன்பு குருகிராமில் திரவ நைட்ரஜன் கலந்த காக்டெய்ல் அருந்திய நபரின் உடல் உறுப்புகள் பாதிக்கப்பட்டன. தோல் வேறு மாதிரியாக மாறியது.
+
+...
+
+[Data](articles/9aa5684d.json)
+
+---
+
+### A statement on scholarship examination
 
 *2024-05-22 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196907) · `si`
 
-5 ශ්‍රේණිය සිසුන් සඳහා පැවැත්වෙන 2024 ශිෂ්‍යත්ව විභාගය සම්බන්ධයෙන් විභාග දෙපාර්තමේන්තුවෙන් නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Examinations announced the 2024 scholarship exam for Grade 5 students, scheduled for September 15, 2024. Applications open online from May 27 to June 14, 2024, with no extensions allowed after the deadline.
 
-එහි දැක්වෙන්නේ ඉහත විභාගය 2024 සැප්තැම්බර් 15 වන ඉරුදින පැවැත්වෙන බවය.
+🟩
 
-ඒ සඳහා 2024 මැයි 27 දින සිට 2024 ජුනි 14 වනදා දක්වා මාර්ගගත ක්‍රමවේදය ඔස්සේ අයදුම්පත් කැඳවනු ලැබේ.
+The Department of Examinations has issued a statement regarding the 2024 scholarship examination held for Grade 5 students.
 
-කිසිඳු හේතුවන් මත අයදුම්පත් භාර ගැනීමේ අවසන් දිනය දීර්ඝ නොකරන බවද අවධාරණය කරයි.
+It states that the above examination will be held on September 15, 2024.
+
+Applications are invited through online procedure from May 27, 2024 to June 14, 2024.
+
+He also emphasizes that the closing date for applications will not extend applications on any nobles.
 
 ◼️
 
 [Data](articles/90089125.json)
 
+[Extended Data](ext_articles/90089125.ext.json)
+
 ---
 
-### ජනාධිපති රනිල් ඉරාන ජනාධිපති ඊබ්‍රහම් රයිසිට ශෝකය පළකරයි
+### President Ranil Iranham President psides Iranum President eBrahem
 
 *2024-05-22 15:02:14* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-රනිල්-ඉරාන-ජනාධිපති-ඊබ්‍රහම්-රයිසිට-ශෝකය-පළකරයි/11-409786) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ කොළඹ ඉරාන තානාපති කාර්යාලය වෙත ගොස් අභාවප්‍රාප්ත ඉරාන ජනාධිපති ඊබ්‍රහම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් සිය ශෝකය පළ කළේය.
+Ranil Wickremesinghe, Sri Lanka's President, visited the Iranian Embassy in Colombo to meet with the Iranian President. He also met with Dr. Ali Rassa Dalcosh, the Iranian Ambassador to Sri Lanka. This visit aimed to strengthen bilateral relations between the two countries.
 
-තානාපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයාව ශ්‍රී ලංකාවේ ඉරාන තානාපති ආචාර්ය අලි රීසා ඩෙල්කොෂ් මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් පිළිගනු ලැබීය.
+🟩
 
-අනතුරුව ඉරාන තානාපතිවරයා ඇතුළු පිරිස සමඟ කෙටි කථා බහකට එක් වූ ජනාධිපතිවරයා එහි තැන්පත් කර තිබු ශෝක සටහන් පොතේ සටහනක් ද තබමින් ජනාධිපති ඊබ්‍රහම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් ඉරාන රජයටත්, ජනතාවටත් තමාගේ සහ ශ්‍රී ලංකා රජයේත්, ජනතාවගේත් බලවත් ශෝකය පළ කර සිටියේය. (I J)
+President Ranil Wickremesinghe visited the Iranian embassy in Colombo this morning to go to the Iranian President of Iranian President, Colombo.
+
+Sri Lanka's President of Iranian Ambassador to Sri Lanka Dr. Ali Rassa Dalcosh was admitted to Dr. Ali Rassa Dalcosh.
+
+The President and the people of the Iranian government and the people of the people and the people of the people of the people, the people and the people of the people of the people, the President, and the people of the people, had a note in the book of the Publisher who were buried there.. (I J)
 
 ◼️
 
 [Data](articles/da237ed0.json)
+
+[Extended Data](ext_articles/da237ed0.ext.json)
+
+---
+
+### கடல் நீர்  உள் வாங்கியதால்  மக்கள் அச்சம்
+
+*2024-05-22 15:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடல்-நீர்-உள்-வாங்கியதால்-மக்கள்-அச்சம்/72-337701) · `ta`
+
+நானாட்டான் பிரதேச செயலாளர் பிரிவில் உள்ள வங்காலை வடக்கு மற்றும் மேற்கு பகுதிகளில் புதன்கிழமை (22) மதியம் திடீரென கடல் நீர் உள்வாங்கியது.
+
+மன்னார் மாவட்டத்தில்  புதன்கிழமை(22) அதிகாலை முதல் பலத்த காற்று வீசி வருகின்ற நிலையில்   மீனவர்கள் கடற்தொழிலுக்கு செல்லவில்லை.
+
+இந்த நிலையில் வங்காலை வடக்கு மற்றும் மேற்கு பகுதிகளில்  திடீரென கடல் நீர் உள் வாங்கிய தோடு,கடற்கரையில் கட்டப்பட்டிருந்த படகுகள் மற்றும் வலைகள் நீரில் மிதந்து உள்ளன.எனினும் படகுகளுக்கு எவ்வித சேதமும் ஏற்படவில்லை என மீனவர்கள் தெரிவித்தனர்.
+
+திடீரென கடல் நீர் உள்வாங்கப்பட்டமையினால் வங்காலை மீனவர்கள் மற்றும் கிராம மக்கள் அச்சத்துக்கு உள்ளாகியுள்ளனர்.
+
+இந்த நிலையில் வங்காலை பங்குத்தந்தை மற்றும் பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் ஆகியோர் குறித்த பகுதிக்குச் சென்று நிலைமையை பார்வையிட்டனர்.
+
+◼️
+
+[Data](articles/45684aa6.json)
 
 ---
 
@@ -79,6 +161,8 @@ The suspect is set to be presented in court for further proceedings.
 ◼️
 
 [Data](articles/2ef55d1b.json)
+
+[Extended Data](ext_articles/2ef55d1b.ext.json)
 
 ---
 
@@ -382,23 +466,33 @@ Officials said that legal action would be taken against those who hold the envir
 
 ---
 
-### යුරෝපයේ ලොකුම මෝටර් රථ ධාවන තරගය දීනූ ඩිලන්ත ලංකාවට
+### Dilantha to Dilantha to Sri Lanka's largest car race in Europe
 
 *2024-05-22 13:18:42* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයේ-ලොකුම-මෝටර්-රථ-ධාවන-තරගය-දීනූ-ඩිලන්ත-ලංකාවට/11-409785) · `si`
 
-ලෝක ශූර, ශ්‍රී ලාංකික මෝටර් රථ ධාවන ශූර ඩිලන්ත මාළගමුව මහතා ඉතාලියේ පැවති ජී.ටී.- 4 මෝටර් රථ ධාවන තරගය ජය ගැනීමෙන් අනතුරුව අද (22) දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+Dilantha Malaragamuwa, representing Sri Lanka, is the sole participant from Asia in Europe's largest car race, the World Championships. The event features 50 high-performance cars from 30 countries, primarily from Europe and America. Dilantha aims to win and enhance Sri Lanka's reputation through his participation.
 
-ගුවන් තොටුපොළේ දී මාධ්‍යවේදීන් හමුවේ අදහස් දැක්වූ ඩිලන්ත මාළගමුව මහතා මෙසේ  පැවසීය .   මෙම තරගාවලිය සදහා සහභාගී වූ එකම ශ්‍රී ලාංකිකයා මෙන්ම එකම ආසියාතිකයා ද වූයේ මමයි .
+🟩
 
-මෙම තරගාවලිය යුරෝපයේ පවත්වන ලොකුම මෝටර් රථ ධාවන තරගය වන අතර ඒ සදහා ලෝකයේ රටවල් 30 ක මෝටර් රථ ධාවන ශූරයින් එක් වී සිටියා . ඔවුන් වැඩි පිරිසක් යුරෝපා සහ ඇමෙරිකානු මහාද්වීප නියෝජනය කරන්නන් .
+World Championships, Sri Lankan Motor Traffic Dilangamuwa arrived at the Katunayake Airport this morning.
 
-මෙම මෝටර් රථ ධාවන තරගය සදහා කාර් 50 ක් සහභාගී වී සිටි අතර එම එක් රථයක් සදහා රියැදුරුවරුන් දෙදෙනා බැගින් එක් වී සිටියහ .
+Speaking to journalists at the airport, Mr. Dilantha Malaragamuwa said:I was the only Sri Lankan who participated in the tournament and the same Asian.
 
-ඒ වගේම මෙම තරගාවලිය සදහා ලෝකයේ වඩාත් බලවත් , දියුණු මෝටර් රථ වර්ග 10 ක මෝටර් රථ ධාවනයට එක් වී සිටි අතර මම ඒ.එම්.ජී.- ජී.ටී. 4 වර්ගයේ මෝටර් රථයක් භාවිතා කළා .යැයි ද පැවසීය .
+The tournament is the biggest motor race in Europe and was covered with car racing in 30 countries. Most of them represent the European and American continents.
 
-...
+50 cars were attended by two drivers for each of the vehicle.
+
+Also, the tournament was one of the most powerful and advanced cars in the world, and I'm AMG - GD. He used a 4-type car .It 's.
+
+The winners of the World Championship will be selected at the end of 2024 and there are 12 more motor races.. He added that four more motorcies are to be held in the next month, he added that his only prospect was to win the championship tournament and bringing a reputation to Sri Lanka.
+
+He had arrived at the Katunayake Airport on the 662 airport on the morning of 05/22.
+
+◼️
 
 [Data](articles/5b514181.json)
+
+[Extended Data](ext_articles/5b514181.ext.json)
 
 ---
 
@@ -1748,25 +1842,31 @@ It has also been reported that the woman has taken steps to provide the necessar
 
 ---
 
-### වෛද්‍ය ෂාෆි : 'සමස්ත සිංහල අය වෙනුවෙන් මගෙන් සමාව ඉල්ලපු කිහිපදෙනෙක් ඉන්නවා'
+### Dr. Shafi: 'There are several people who apologized for the entire Sinhalese'
 
 *2024-05-22 09:10:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c999rpnz0q1o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''සමහරු අදටත් සීසර් කරන ගමන් මට කියනවා සමාවෙන්න සර් කියලා''
+Dr. Shafi discusses the importance of addressing misconceptions about law, science, and media for opportunistic gains. He emphasizes the need for future generations to stay in Sri Lanka, highlighting its potential as a model for other nations. Despite facing accusations, Dr. Shafi continues his work, advocating for unity and progress.
 
-වෛද්‍ය ෂාෆි : 'සමස්ත සිංහල අය වෙනුවෙන් මගෙන් සමාව ඉල්ලපු කිහිපදෙනෙක් ඉන්නවා'
+🟩
 
-කුරුණෑගල අවට ජනතාව අදටත් සිසේරියන් සැත්කම් සිදු කර ගැනීමට තමන් ළඟට පැමිණෙන බවත් වඳ සැත්කම් කළ බවට නැගු චෝදනාවන්ට සමාව ඉල්ලා සිටින බවත් කුරුණෑගල ශික්ෂණ රෝහලේ වෛද්‍ය ෂිහාබ්දීන් මොහොමඩ් ෂාෆි පවසයි.
+It contains nothing here.Veadio header, "Some people still tell me, Sorry, Sir tell me,"
 
-ශ්‍රී ලංකාව තුළ අනාගත පරපුරට සතුටින් ජීවත් වීමට අවස්ථාව සැලසිය යුතු බවට විශ්වාස කරන තමන් රට හැර යෑමේ සුදානමක් නොමැති බවත් කවදා හෝ  මේ බෞද්ධ රට වෙනත් රටවලට ආදර්ශයක් වෙන රටක් බවට පත කළ යුතු බවත් ඔහු පෙන්වා දෙයි.
+Dr. Shafi: 'There are several people who apologized for the entire Sinhalese'
 
-'අවස්ථාවාදී අරමුණු උදෙසා නීතිය, විද්‍යාව සහ ජනමධ්‍ය අවභාවිත කිරීම' යන තේමාව යටතේ මැයි 21වෙනිදා කොළඹ දී  'අයිතිය උදෙසා මාධ්‍යවේදීන්' විසින් සංවිධානය කළ  සංවාදයකට එක්වෙමින් වෛද්‍ය ෂාෆි මේ අදහස් පළ කළේය.
+Dr. Shihabadeen Mohammed Shafy says that the people around Kurunegala is still coming to the surgery to be avoided.
 
-කුරුණෑගල ශික්ෂණ රෝහලේ දී සිංහල මව්වරුන්ට වඳ සැත්කම් කළ බවට චෝදනා ලබා, අනිවාර්ය නිවාඩු ගන්වා අත්අඩංගුවේ සිටි වෛද්‍ය ෂාෆි පසුව එම චෝදනාවලින් නිදහස් වී නැවත කුරුණෑගල රෝහලේම සේවය කරයි.
+He pointed out that the future generations of the opportunity to live happiness in Sri Lanka should not be prepared to leave the country and that the Buddhist country is an example to other countries.
+
+Dr. Shafi expressed his views participating in a conversation organized by 'Journalists' in Colombo on May 21st under the theme of 'the misconception of law, science and media for opportunistic purposes'.
+
+Dr. Shafi, who had been accused of accusing Sinhala mothers at the Kurunegala Teaching Hospital, served in the Kurunegala Hospital again.
 
 ◼️
 
 [Data](articles/f269c359.json)
+
+[Extended Data](ext_articles/f269c359.ext.json)
 
 ---
 
@@ -2247,73 +2347,5 @@ Whatever else they possessed, they were told, had been earned in Tamil Eelam and
 [Data](articles/47c548df.json)
 
 [Extended Data](ext_articles/47c548df.ext.json)
-
----
-
-### Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?
-
-*2024-05-22 05:25:15* · [`dailyftlk`](https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103) · `en`
-
-LTTE chief Prabhakaran came to believe over time that he had the divine right to do away anyone he considered an impediment to his separatist project
-
-Tamil Tigers were led by men who had no long-term vision or strategic clarity; Prabhakaran led LTTE to a destruction no one had thought was ever possible
-
-Weeks before the Tamil Tigers got military obliterated, a despondent Pottu Amman, the LTTE intelligence chief, confided to some of his startled colleagues that there were three main reasons why the prolonged armed struggle for an independent Tamil Eelam appeared to be crawling to its very end.
-
-One, he said, was the decision by the Liberation Tigers of Tamil Eelam (LTTE) in 1990 to force the entire Tamil-speaking Muslim community to quit Sri Lanka’s north with just Rs. 150 and the clothes they were in.
-
-Whatever else they possessed, they were told, had been earned in Tamil Eelam and so must be left behind. Overnight, tens of thousands of Muslims were pauperised and turned homeless.
-
-...
-
-[Data](articles/935e8f59.json)
-
-[Extended Data](ext_articles/935e8f59.ext.json)
-
----
-
-### Post-election AKD or no election RW?
-
-*2024-05-22 05:22:41* · [`dailyftlk`](https://www.ft.lk/columns/Post-election-AKD-or-no-election-RW/4-762102) · `en`
-
-The darker side of the so-called economic recovery and stability has been casually dismissed. Persisting economic and financial hardship of the ones who actually foot the bill for that recovery is conveniently forgotten. The fact that poverty rate increased during the recovery period and that there is still no sign of that rate falling has been ignored. What is more significant is the fact that many of those who sing the praise of RW are the ones who were originally responsible for causing the economic wreckage. They are currently being sheltered under his wings. To them therefore his defeat at the hands of NPP would spell disaster. Hence, the frantic attempts among party stalwarts to close ranks to rally behind the incumbent leader
-
-...
-
-[Data](articles/0fcca8bc.json)
-
-[Extended Data](ext_articles/0fcca8bc.ext.json)
-
----
-
-### Perils of public discourse in a polarised country
-
-*2024-05-22 05:16:55* · [`dailyftlk`](https://www.ft.lk/columns/Perils-of-public-discourse-in-a-polarised-country/4-762101) · `en`
-
-I concluded a recent article on renewable energy saying, “the conversation should continue, but in a more sober, evidence-based manner” (https://www.ft.lk/columns/Electricity-sector-Without-investment-we-will-be-in-the-dark-again/4-761485). I was surprised by the ferocity of the response that went beyond countering my arguments (https://www.ft.lk/columns/Electricity-sector-What-Rohan-Samarajiva-didn-t-say/4-761731).
-
-I had stated, “we can be happy that environmental impact assessment is considered non-negotiable in Sri Lanka.” I was accused of wanting to get rid of environmental impact assessments and wanting to violate the Constitution and the laws of the land. But this is not unusual in these polarised and untrusting times: if someone questions my position however politely, it must be because that person is an apologist for some perfidious foreign entity.
-
-...
-
-[Data](articles/bb346a33.json)
-
-[Extended Data](ext_articles/bb346a33.ext.json)
-
----
-
-### Red alert for Govt. to secure skilled workforce in construction industry
-
-*2024-05-22 05:12:56* · [`dailyftlk`](https://www.ft.lk/columns/Red-alert-for-Govt-to-secure-skilled-workforce-in-construction-industry/4-762100) · `en`
-
-It is not surprising that the construction industry has shrunk in the last four years by 65-70%. Due to this, industry professionals, quantity surveyors, architects, engineers, etc. are leaving the country. We believe that, by now, a few thousand professionals have left the country. More than this, the biggest issue we are facing is losing the skilled workforce in the country. We can see a light at the end of the tunnel by potentially starting a few projects in the country by 2025. However, the biggest problem that we will face next is that we have no skilled workers to do the construction work.
-
-Sri Lankan skilled workers are famous in the world for our superior performance and skill. Without work, they are leaving the country and working in other industries.
-
-...
-
-[Data](articles/8988dc02.json)
-
-[Extended Data](ext_articles/8988dc02.ext.json)
 
 ---

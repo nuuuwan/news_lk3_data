@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 07:19:38**
+As of **2024-05-22 07:45:00**
 
 ## Newspaper Stats
 
-*Scraped **25,585** Articles*
+*Scraped **25,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 1,472
 dailyftlk | 1,520
 adalk | 2,193
 adaderanalk | 2,947
-tamilmirrorlk | 2,983
+tamilmirrorlk | 2,984
 virakesarilk | 3,876
-dailymirrorlk | 4,014
-adaderanasinhalalk | 4,086
+dailymirrorlk | 4,016
+adaderanasinhalalk | 4,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,581 (100.0%) of 25,585 articles have been extended.
+25,585 (100.0%) of 25,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### අඩිස් අබාබා සිට උඩින් ආ කොකේන්
+
+*2024-05-22 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196889) · `si`
+
+කොකෙන් මත්ද්‍රව්‍ය තොගයක් සමග පිලිපීන ජාතික කාන්තාවක් කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ගුවන්තොටුපොළ රේගුව විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති අතර එහිදී ඇය සතුව තිබී කොකේන් කිලෝ ග්‍රෑම් 2 ග්‍රෑම් 851 ක් සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/ab0052b7.json)
+
+---
+
+### Hindu Federation requests Presidential pardon for Ven. Gnanasara Thera
+
+*2024-05-22 07:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hindu-Federation-requests-Presidential-pardon-for-Ven-Gnanasara-Thera/108-283138) · `en`
+
+Colombo, May 22 (Daily Mirror) - The Hindu Federation of Sri Lanka requested President to grant a Presidential Pardon for Ven. Galagodatte Gnanasara Thera.
+
+In a lettet to the President, they said that some statements and behaviours of Ven. Gnanasara Thera have been misinterpreted or misinformed by certain democratic bodies of the government by known and unknown elements and also mislabeled with the aim of shutting down the democratic voice of the Thera.
+
+They also listed out the services and rendered by Ven. Gnanasara Thero to establish peace among all followers of their respective religious faiths and to eliminate conflicts that may destroy the country's economic, social, and spiritual platforms.
+
+◼️
+
+[Data](articles/359d493a.json)
+
+---
+
+### දුම්රියක් පීලි පනී
+
+*2024-05-22 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196888) · `si`
+
+පොතුහැර සහ පොල්ගහවෙල දුම්රිය ස්ථාන අතරදී දුම්රියක් පීලි පැනීමකට ලක්ව තිබේ.
+
+මෙලෙස පීලි පැන ඇත්තේ කුරුණෑගල සිට කොළඹ බලා ධාවනය වෙමින් පැවති කාර්යාල දුම්රියයි.
+
+◼️
+
+[Data](articles/6a744252.json)
+
+---
+
+### අදත් ප්‍රදේශ රැසකට ලොකු වැස්සක්
+
+*2024-05-22 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196886) · `si`
+
+අද දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මිලිමීටර් 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරන්නේ මධ්‍යම, වයඹ, දකුණු සහ උතුරු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+එසේම නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බවත් දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුලින් බරව පවතිනු ඇති බවත් එම නිවේදනයේ දැක්වෙයි.
+
+මේ අතර දිවයිනේ සෙසු පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. (40-50) දක්වා තද සුළං ඇතිවිය හැකි අතර දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+එසේම ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/24b98130.json)
+
+---
+
+### Lotus Tower to be illuminate during Vesak season
+
+*2024-05-22 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminate-during-Vesak-season/108-283135) · `en`
+
+Colombo, May 22 (Daily Mirror) - The Lotus Tower will be illuminated in the colors of the Buddhist flag to honour Vesak Poya, Colombo Lotus Tower Management Company (Private) Limited said.
+
+Accordingly, the tower will be illuminated tomorrow (23) and the day after (Thursday 24).
+
+The management requests the people make their Vesak unforgettable at the Colombo Lotus Tower with its breathtaking views.
+
+Meanwhile, the Tower Management announced their latest Pixel Bloom operating hours during the Vesak season.
+
+◼️
+
+[Data](articles/40eb293f.json)
+
+---
 
 ### Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?
 
@@ -339,6 +423,24 @@ At a press conference following a landmark judgement where the Supreme Court rul
 [Data](articles/115240e6.json)
 
 [Extended Data](ext_articles/115240e6.ext.json)
+
+---
+
+### டெங்கு நுளம்பு பரவல் அதிகரிப்பு
+
+*2024-05-22 02:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நுளம்பு-பரவல்-அதிகரிப்பு/175-337670) · `ta`
+
+தென்மேற்று பருவப்பெயர்ச்சி மழை காரணமாக எதிர்வரும் நாள்களில் டெங்கு நுளம்பு பரவலில் அதிகரிப்பு ஏற்படக்கூடும் என சுகாதார அமைச்சின் தேசிய டெங்கு ஒழிப்புப்பிரிவு தெரிவித்துள்ளது.
+
+ஆண்டின் இதுவரையான காலப்பகுதியில் 23 ஆயிரம் டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்புப்பிரிவின் பணிப்பாளர், விசேட வைத்திய நிபுணர் சுதத் சமரவீர தெரிவித்துள்ளார்.
+
+இதனிடையே யாழ்ப்பாணம், கொழும்பு, கம்பஹா, களுத்துறை மற்றும் கண்டி ஆகிய மாவட்டங்களில் தற்போது டெங்கு பரவல் அதிகரித்து வருவதாக வைத்தியர் லஹிரு கொடித்துவக்கு தெரிவிக்கின்றார்.
+
+மேல் மாகாணத்திலேயே அதிகளவான டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என அவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/b20748d9.json)
 
 ---
 
@@ -2075,143 +2177,5 @@ Gujarat police said that the weapons were arranged by a man from Pakistan.
 [Data](articles/1db0a8d5.json)
 
 [Extended Data](ext_articles/1db0a8d5.ext.json)
-
----
-
-### Build a mechanism against corruption - Leader of the Opposition
-
-*2024-05-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184151) · `ta`
-
-The Opposition Leader emphasized the importance of eliminating corruption within the community through state mechanisms, advocating for a constitutional framework to ensure the longevity of anti-corruption efforts. He highlighted the need for a creative approach to education reform beyond mere funding increases, emphasizing the development of a knowledge-based economy to overcome financial challenges. The leader stressed the importance of integrity among leaders and the need for systemic changes in education to ensure equal opportunities for all students, contrasting the actions of corrupt leaders with those who prioritize the nation's future over personal gain.
-
-🟩
-
-In order to build the country, corruption in the community must be eliminated through the state structure. The Opposition Leader said that the anti -corruption program should not be replaced by a majority, and the constitutional mechanism should be established.
-
-Speaking at an event in Colombo on Tuesday (21), he added that he said this.
-
-In order to build the country, corruption in the community must be eliminated through the state structure. Introduce the mechanism of preventing corruption, fraud and robbery.
-
-Instead of asking for the authority to catch thieves, the United People's Power has caught the thieves from the opposition without any authority.
-
-The anti -corruption program must be established through the constitution, so that the normal majority cannot be changed.
-
-...
-
-[Data](articles/de34e903.json)
-
-[Extended Data](ext_articles/de34e903.ext.json)
-
----
-
-### Sri Lanka’s inflation inches up marginally in April
-
-*2024-05-21 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99361/sri-lankas-inflation-inches-up-marginally-in-april) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.7% in April 2024, compared to 2.5% in March 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has decreased to 3.3% in April 2024 compared to 5.0% in March 2024.
-
-The NCPI for all items for the month of April 2024 is 208.2, which is a decrease of 1.8 index points or 0.89 per cent compared to March 2024 for which the index was 210.0.
-
-This decrease represents a decrease in expenditure value of Rs. 946.09 in the “market basket”.
-
-The overall rate of inflation as measured by the NCPI on a Year-over-Year basis was 2.796 in April 2024 and inflation calculated for March 2024 was 2.5%.
-
-On a monthly basis, the Year-on-Year inflation of the food group decreased to 3.3% in April 2024 from 5.0% in March 2024 and the Year-on-Year inflation of the non-food group increased to 2.3% in April 2024 from 0.7% in March 2024.
-
-...
-
-[Data](articles/c087593a.json)
-
-[Extended Data](ext_articles/c087593a.ext.json)
-
----
-
-### An increase in inflation
-
-*2024-05-21 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196870) · `si`
-
-Inflation rose from 2.5% to 2.7% in March 2024, with food prices dropping slightly to 3.3%.
-
-🟩
-
-According to the National Customer Price Index (NCPI), the Department of Census and Statistics have announced that he increased by 2.5% to 2.7% in March 2024.
-
-The annual point of food category of food category of food in March 2024 has fallen to 3.3% in April 2024.
-
-◼️
-
-[Data](articles/ed88d1a9.json)
-
-[Extended Data](ext_articles/ed88d1a9.ext.json)
-
----
-
-### Two Canada residents arrested for attacking home
-
-*2024-05-21 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184119) · `ta`
-
-Two Canadians arrested in Jaffna for attacking homeowners; incident sparked by a transaction dispute during their vacation.
-
-🟩
-
-Two people from Canada have been arrested for allegedly attacking the householders in a house in Jaffna.
-
-Two persons who had entered the house in the Chunnakam police division area on Monday (20) had fled the house.
-
-The victims have lodged a complaint at the Chunnakam police station and the police have arrested the two attackers.
-
-Initial investigations by the police revealed that the two arrested were from Canada for vacation and that the attack was due to the issue of transaction.
-
-Further investigations are being carried out by the police detained at the police station.
-
-◼️
-
-[Data](articles/3d352c3b.json)
-
-[Extended Data](ext_articles/3d352c3b.ext.json)
-
----
-
-### World record from Society
-
-*2024-05-21 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196869) · `si`
-
-Society of Sri Lanka sets new world record at World Championships in Japan, achieving 66.49 meters in the F-44 spear throwing event during the first attempt.
-
-🟩
-
-The Society of Sri Lanka was able to set up a new world record at the World Championships in Japan.
-
-The F-44 spear throwing event recorded a 66.49 meters in the first attempt at his first attempt.
-
-◼️
-
-[Data](articles/5dabdb69.json)
-
-[Extended Data](ext_articles/5dabdb69.ext.json)
-
----
-
-### Bus with devotees with devotees at the bowl in Kovil
-
-*2024-05-21 16:13:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-වැඳල-එද්දි-බැතිමතුන්-සමග-බස්-රථය-පෙරලී-6-කට-බරපතලයි/11-409769) · `si`
-
-A private bus carrying devotees to the Kovil was involved in an accident near Pooneryn Bridge, injuring several passengers. The victims were transported to Jaffna and Kilinochchi hospitals. Police investigations suggest the driver lost control, leading to the incident.
-
-🟩
-
-A private bus operated near the Pooneryn Bridge near the Pooneryn Bridge has been seriously injured today.
-
-The victim has been taken back to Jaffna for a private bus to arrive in Jaffna on a private bus to arrive on the Vertarrawelai Kovil.. Police suspect that the driver has gone to the driver to control the bus, and the driver will be removed.
-
-The Pooneryn has been transferred to the Kilinochchi hospital and the Pooneryn police have been transferred to the hospital.
-
-◼️
-
-[Data](articles/9d81179a.json)
-
-[Extended Data](ext_articles/9d81179a.ext.json)
 
 ---

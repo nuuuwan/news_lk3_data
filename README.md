@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 02:03:48**
+As of **2024-05-23 02:18:28**
 
 ## Newspaper Stats
 
-*Scraped **25,792** Articles*
+*Scraped **25,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,524
+dailyftlk | 1,527
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,006
@@ -26,11 +26,59 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,791 (100.0%) of 25,792 articles have been extended.
+25,792 (100.0%) of 25,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### UN celebrates 25th anniversary of recognition of International Vesak Day
+
+*2024-05-23 02:04:02* · [`dailyftlk`](https://www.ft.lk/news/UN-celebrates-25th-anniversary-of-recognition-of-International-Vesak-Day/56-762138) · `en`
+
+Celebrating the 25th anniversary of the General Assembly resolution 54/115 which recognised the day of Vesak internationally, an event was co-hosted by the Permanent Missions of Sri Lanka and Thailand at the ECOSOC Chamber of the United Nations Headquarters on 20 May.
+
+The celebrations consisted of several segments which included remarks by the Permanent Representatives of Sri Lanka and Thailand, religious blessings and sermons representing Theravada and Mahayana Buddhist traditions respectively and special messages by high-level dignitaries including the Secretary General and the President of the United Nations, the Foreign Ministers of Thailand and Sri Lanka and the Permanent Representatives of other Member States of the United Nations.
+
+...
+
+[Data](articles/82ca54cc.json)
+
+---
+
+### Ambassador-designate to Kingdom of Netherlands assumes duties
+
+*2024-05-23 02:01:06* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-designate-to-Kingdom-of-Netherlands-assumes-duties/56-762137) · `en`
+
+The newly appointed Ambassador-designate of Sri Lanka to the Kingdom of the Netherlands and the Permanent Representative of Sri Lanka to the Organisation for the Prohibition of Chemical Weapons (OPCW), Rekha Gunasekera assumed duties at the Embassy of Sri Lanka in the Netherlands on 10 May.
+
+Her assumption of duties was marked by a simple ceremony organised by the staff of the Sri Lanka Embassy.
+
+In her address to the staff of the Embassy, the Ambassador-designate referred to the longstanding, historical and vibrant bilateral relations between Sri Lanka and the Kingdom of the Netherlands and the need to further elevate trade, investment, and tourism ties, as well as cultural cooperation. On the multilateral aspect, she stressed the need to increase cooperation with the OPCW as well as other international organisations in The Hague.
+
+...
+
+[Data](articles/b44994a9.json)
+
+---
+
+### “Tea for Harmony-Yaji” Cultural Salon
+
+*2024-05-23 01:55:34* · [`dailyftlk`](https://www.ft.lk/news/Tea-for-Harmony-Yaji-Cultural-Salon/56-762136) · `en`
+
+The Embassy of the People’s Republic of China in partnership with the Department of Culture and Tourism of Guangxi Zhuang Autonomous Region on Tuesday held “Tea for Harmony-Yaji” Cultural Salon in celebration of International Tea Day.
+
+Chinese Ambassador Qi Zhenhong, Speaker of Parliament Mahinda Yapa Abeywardena, and Department of Culture and Tourism of Guangxi Zhuang Autonomous Region Level-I Counsel Lai Fuqiang were present at the event.
+
+Ambassador Qi Zhenhong said China is the birthplace of tea and tea is not only a beverage but also the crystallisation of civilisation and knowledge passed down from generation to generation. It is not only a way of life but also an integral part of Chinese history and culture.
+
+In terms of Sri Lanka, he said Ceylon tea is well known worldwide, has a unique history and cultural heritage and the people of China and Sri Lanka share a long history of growing, making, tasting and drinking tea, fostering exchanges and mutual learning.
+
+...
+
+[Data](articles/0b116e90.json)
+
+---
 
 ### Palestinian holocaust: The oppressed has become the oppressor
 
@@ -43,6 +91,8 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 ...
 
 [Data](articles/b633cc14.json)
+
+[Extended Data](ext_articles/b633cc14.ext.json)
 
 ---
 
@@ -2211,73 +2261,5 @@ The Bank said this is the first time a Sri Lankan bank has engaged with a fintec
 [Data](articles/648dcf9b.json)
 
 [Extended Data](ext_articles/648dcf9b.ext.json)
-
----
-
-### President to express grief to the Iranian embassy
-
-*2024-05-22 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196905) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe visited the Iranian embassy in Colombo to offer condolences to Iran's President over the tragic loss. He met with Ambassador Dr. Ali Rassa Dalcosh, expressing sympathy for the Iranian government and its people during this difficult time.
-
-🟩
-
-President Ranil Wickremesinghe visited the Iranian embassy in Colombo this morning to go to the Iranian President of Iranian President, Colombo.
-
-The President of Sri Lanka, Ambassador to the Embassy, Ambassador to Sri Lanka, Dr. Ali Rassa Dalcosh was admitted to the staff.
-
-The President had a short-chat with the Ambassador and the group, and the President of the Iranian government and the people of the people and the people of the people and the people of the people and the people of the people of the people and the people of the people had been condemned to the emergency of the Hon.
-
-◼️
-
-[Data](articles/7e0badef.json)
-
-[Extended Data](ext_articles/7e0badef.ext.json)
-
----
-
-### Dansala from the Tooth for the devotees
-
-*2024-05-22 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196904) · `si`
-
-Sri Dansa Maligawa in Kandy introduces a special Dansal area for devotees, offering two days of refreshments and health services under the guidance of Diyawadana Nilame Pradeep Nilanga Dela.
-
-🟩
-
-A special Dansal area has been implemented for local and foreign devotees from the Sri Dansa Maligawa in Kandy tomorrow (23) and tomorrow.
-
-The Dansala area will implement the Dansal area in accordance with the instructions of Diyawadana Nilame Pradeep Nilanga Dela.
-
-The Sri Dalada Maligawa added that the pilgrims will be given to two days of refreshments and health.
-
-◼️
-
-[Data](articles/3c54bae7.json)
-
-[Extended Data](ext_articles/3c54bae7.ext.json)
-
----
-
-### 'We are watching the movie' Garuda ' - Director Durai. Senthil Kumar
-
-*2024-05-22 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184229) · `ta`
-
-"Garuda," directed by Durai Senthil Kumar, stars Sasikumar and Unni Mukundan in a tale about friendship and conflict, set for global release on May 31st. The film, featuring Paddy Selvan Vijay Sethupathi and Shiva Karthikeyan, promises engaging storytelling, intense fight scenes, and Yuvan Shankar Raja's captivating music.
-
-🟩
-
-'Sasikumar and Unni Mukundan friends. Suri is the believer of Unni Mukundan.The director of the film, Durai Senthil Kumar, has said that the events between the three characters and the related story are said to be 'Garuda'.
-
-'Garuda', starring Sasikumar -Unni Mukundan, who is a specialist in selecting and offering soil -based work in the Tamil film industry, will be released worldwide on 31st of this month.
-
-The music and preview of the film has been released. 'Paddy Selvan' Vijay Sethupathi and Shiva Karthikeyan participated as a special guests at a huge launch ceremony in Chennai.
-
-Director tranquility. Sasikumar, Suri, Unni Mukundan, Samudrakani, Vadivati ​​Sharma, Roshini Hari Priyan, Brigida, Mime Gopi, Dushyant Jaya Prakash, directed by Senthil Kumar.. Arthur A. Yuvan Shankar Raja has composed the film, which has been recorded by Wilson. Producer K. Kumar has produced.
-
-...
-
-[Data](articles/68cb9c33.json)
-
-[Extended Data](ext_articles/68cb9c33.ext.json)
 
 ---

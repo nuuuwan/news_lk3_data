@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 17:18:41**
+As of **2024-05-22 17:34:01**
 
 ## Newspaper Stats
 
-*Scraped **25,720** Articles*
+*Scraped **25,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,207
+adalk | 2,208
 adaderanalk | 2,963
 tamilmirrorlk | 3,001
 virakesarilk | 3,900
-dailymirrorlk | 4,041
-adaderanasinhalalk | 4,110
+dailymirrorlk | 4,043
+adaderanasinhalalk | 4,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,718 (100.0%) of 25,720 articles have been extended.
+25,720 (100.0%) of 25,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### ධාවනය කරමින් තිබූ යතුරුපැදියක් මතට ගසක් කඩාවැටෙයි
+
+*2024-05-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196912) · `si`
+
+මාර්ගයේ ධාවනය කරමින් තිබූ යතුරුපැදියක් මතට අද (22) පස්වරුවේ ගසක් කඩාවැටී තිබේ.
+
+මධ්‍යම කඳුකරය හරහා හමා ගිය දැඩි සුළඟකින් මෙම ගස කඩාවැටී ඇති බව වාර්තා වෙයි.
+
+අප වාර්තාකරු සඳහන් කළේ තුවාලකරු දික්ඔය මූලික රෝහලට ඇතුළත් කළ බවය.
+
+හැටන් - බගවන්තලාව ප්‍රධාන මාර්ගයේ වනරාජා වත්ත ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/514e724f.json)
+
+---
+
+### Gnanasara Thera not among inmates to be released on Vesak Day
+
+*2024-05-22 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-not-among-inmates-to-be-released-on-Vesak-Day/108-283168) · `en`
+
+Colombo, May 22 (Daily Mirror) - Ven. Gnanasara Thera is not among the 278 prison inmates to be released under the Presidential pardons in view of Vesak Poya which falls tomorrow (22), the Prisons Department said.
+
+The Chief Prelates of the Malwathu, Asgiri, Ramanna Nikaya and the Amarapura Maha Sangha Sabha had appealed to the President to grant Ven. Gnanasara Thera a pardon on Vesak Poya day.
+
+Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero was sentenced to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
+
+According to the Department of Prisons, inmates from some prisons across the country, including 15 from the Welikada Prison and 37 from the Mahara Prison, will be given Presidential pardons.
+
+Ten female prisoners are among those who will receive the Presidential pardons. The pardon is under Clause 34 of the Constitution.
+
+◼️
+
+[Data](articles/12be8cc9.json)
+
+---
 
 ### Man arrested for impersonating CID Inspector and demanding money
 
@@ -40,15 +78,17 @@ An individual has been arrested in Kadawatha for allegedly impersonating an Insp
 
 Police said that the suspect in question had demanded the money from the woman, who is a resident of Kadawatha, after calling her by phone and claiming that he is investigating alleged murder charges levelled against the female.
 
-It is reported that this person has called the woman who is a resident of Kadawatha and has said she is accused of murder where he is investigating the relevant case and demanded Rs.25, 000 from the woman.
-
 The woman had lodged a complaint with police regarding the incident. Accordingly, the suspect was arrested in the Kadawatha area yesterday (21) by Kadawatha Police, based on the information received by officers of the Western Province Intelligence Division.
 
 A forged ID of the Criminal Investigations Department was also found in the suspect’s possession.
 
-...
+The 33-year-old suspect is a resident of the Heiyanthuduwa area in Mabima.
+
+◼️
 
 [Data](articles/2ad2879a.json)
+
+[Extended Data](ext_articles/2ad2879a.ext.json)
 
 ---
 
@@ -70,6 +110,8 @@ He further stated that the instruction manual has provided detailed guidelines o
 
 [Data](articles/14e23bc3.json)
 
+[Extended Data](ext_articles/14e23bc3.ext.json)
+
 ---
 
 ### President Ranil conveys condolences at Iranian Embassy on President Raisi’s passing
@@ -87,6 +129,20 @@ During his visit, the President engaged in a brief conversation with the Iranian
 [Data](articles/173e6252.json)
 
 [Extended Data](ext_articles/173e6252.ext.json)
+
+---
+
+### Parliament sessions suspended due to lack of quorum
+
+*2024-05-22 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-sessions-suspended-due-to-lack-of-quorum/108-283169) · `en`
+
+Colombo, May 22 (Daily Mirror) - Parliament sessions came to an abrupt end as sessions were suspended due to a lack of quorum.
+
+There were less than 20 member present during the time of suspension.
+
+◼️
+
+[Data](articles/f45c2df5.json)
 
 ---
 
@@ -288,6 +344,22 @@ Police said Thambugala was arrested over allegations of several financial frauds
 
 ---
 
+### ජස්ටින් ටෘඩෝගේ චෝදනාව ලංකාව ප්‍රතික්ෂේප කරයි
+
+*2024-05-22 15:48:12* · [`adalk`](https://www.ada.lk/breaking_news/ජස්ටින්-ටෘඩෝගේ-චෝදනාව-ලංකාව-ප්‍රතික්ෂේප-කරයි/11-409791) · `si`
+
+2024 මැයි 18 වැනි දින කැනේඩියානු අගමැති ජස්ටින් ටෘඩෝ විසින් නිකුත් කරන ලද පණිවිඩයක ඇතුළත්වූ ශ්‍රී ලංකාව තුළ සිදුවූයේ යැයි කියන “ජන සංහාරය” පිළිබඳ අසත්‍ය චෝදනාව ප්‍රතික්ෂේප කරන බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+
+ශ්‍රී ලංකා රජය මීට පෙර කරන ලද සියලුම සන්නිවේදනවලදී ජන සංහාරයක් පිළිබඳ එල්ලවන එම සාහසික චෝදනාව තරයේ ප්‍රතික්ෂේප කර ඇති බවත් කැනඩාවේ හෝ ලෝකයේ වෙනත් කවර ස්ථානයක හෝ කිසිදු නිසි බලධාරියෙකු ශ්‍රී ලංකාවේ ජන සංහාරයක් සිදුවී යැයි යන්න පිළිබඳ පරමාර්ථික තීරණයක් ගෙන නැති බවත් විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+
+අග්‍රාමාත්‍ය ටෘඩෝ  ඉදිරිපත් කරන, ශ්‍රී ලංකාව තුළ සිදුව ඇතැයි කියනු ලබන ජන සංහාරය පිළිබඳ මෙම ව්‍යාජ ආඛ්‍යානය අනුමත කිරීම මඟින් විදේශයන්හි වෙසෙන ශ්‍රී ලාංකික උරුමයක් සහිත වටිනා ප්‍රජාවක් වන ශ්‍රී ලාංකික සම්භවයක් ඇති කැනේඩියානුවන් අතර වාර්ගික සංහිඳියාව බොහෝ සෙයින් කඩාකප්පල් වන බවත් සාමයට ලැදි මෙම පුරවැසියන් බොහෝ දෙනෙකු ශ්‍රී ලංකාව සමඟ අර්ථකාරී ලෙස කටයුතු කර ඇති අතර ඔවුන්ගේ සහයෝගය පිළිගන්නා බවත් එම නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/4dcdd550.json)
+
+---
+
 ### Umbugala arrested
 
 *2024-05-22 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196910) · `si`
@@ -314,11 +386,15 @@ A Bangladeshi national connected to a Lanka Premier League (LPL) franchise, who 
 
 The suspect, who holds a British passport, has been arrested by the Sports Ministry’s Special Investigations Unit for the prevention of offences related to sports.
 
-He is scheduled to be produced before court by officers of the Special Investigations Unit.
+The arrested suspect has been identified as Bangladeshi entrepreneur Tamim Rahman, who is one of the owners of the LPL franchise “Dambulla Thunders”.
 
-UPDATE (4.20 p.m.) - The Bangladeshi national connected to an LPL team, who was detained at the BIA over match-fixing allegations, has been remanded until May 31  by the Colombo Magistrate’s Court.
+He has reportedly been detained at the airport due to a travel ban imposed on him in relation to an investigation being carried out against him by the Sports Ministry’s Special Investigations Unit.
 
-◼️
+He was later handed over to officers of the Special Investigations Unit, who are scheduled to produce him before the court.
+
+The suspect is accused of attempting to approach players for match-fixing.
+
+...
 
 [Data](articles/2f7e6258.json)
 
@@ -2227,101 +2303,5 @@ It is reported that the man had been assaulted by his brother-in-law and brother
 [Data](articles/8e87aa22.json)
 
 [Extended Data](ext_articles/8e87aa22.ext.json)
-
----
-
-### Sri Lanka parliament observes one minute silence for late Iran President Raisi
-
-*2024-05-22 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-observes-one-minute-silence-for-late-iran-president-raisi-164187/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament observed one minute of silence as a mark of respect for the late President of Iran Ebrahim Raisi on May 22 with members in the presense of Speaker Mahinda Abeywardene.
-
-The Government Chief Whip, Prasanna Ranatunga said President Raisi recently came to Sri Lanka to open a multi-purpose dam project.
-
-A helicopter carrying President Raisi crashed into a hillside as he was returning from opening a dam at the border with Azerbaijan.
-
-Related Sri Lanka, Iran Presidents inaugurate Uma Oya hydro-electric project
-
-On April 24, President Raisi and Sri Lanka President Ranil Wickremesinghe opened the 514 million dam built by an Iranian engineering company. (Colombo/April22/2024)
-
-◼️
-
-[Data](articles/b414daf9.json)
-
-[Extended Data](ext_articles/b414daf9.ext.json)
-
----
-
-### Brother -in -law killing his brother
-
-*2024-05-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184186) · `ta`
-
-In Moranduduwa, a 30-year-old man named Lasantha Pushpakumara was fatally stabbed by his brother-in-law after an argument at his sister's house. The incident occurred in the Kalutara, Moranduduwa, and Polhena areas, leading to another man being seriously wounded and hospitalized.
-
-🟩
-
-Moranduduwa police said that a man was assassinated by a sharp weapon in the Kalutara, Moranduduwa and Polhena area.
-
-A 30 -year -old man from Lasantha Pushpakumara from Bandaragama, Valgama area has died, police said.
-
-The man who died at the sister's house in the Moranduduwa area went with some friends and conflicted with her sister's husband.
-
-He was killed when a man was severely injured and taken to a hospital in Konaduwa area.
-
-◼️
-
-[Data](articles/40a88534.json)
-
-[Extended Data](ext_articles/40a88534.ext.json)
-
----
-
-### Petition to Supreme Court demanding a prevention of wildlife
-
-*2024-05-22 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196892) · `si`
-
-A petition was filed by legal professionals, including Dr. Omalpe Sobhitha Thero, Anura Medardgoda, and Dr. Ajantha Perera, urging the Supreme Court to intervene and halt elephant deaths caused by human-elephant conflicts. The petition highlights the failure of authorities, including the Director General and Inspector General of Elephant Conflict, to effectively manage this issue, leading to an alarming increase in elephant fatalities across the island.
-
-🟩
-
-A fundamental rights petition has been filed by the Supreme Court to issue an order to the Director General and the Inspector General of Elephant's conflict to prevent an elephant's death to prepare an elephant death in acquisition of elephants.
-
-Dr. Omalpe Sobhitha Thero, President's Counsel Anura Medardgoda, Dr. Ajantha Perera filed the petition yesterday (21).
-
-Prime Minister Dinesh Gunawardena, Minister of Wildnas, Pavithra Wannia, Minister of Wildlife, Minister of Wildlife, Minister of Wildlife, Pvt.
-
-The petitioners claim that illegally to acquire an elephant rough, the annual number of elephant deaths island wide due to the elephant conflict.
-
-The petition has been alleged that the default of various persons as well as government officials to perform the duties have been mainly due to this situation.
-
-◼️
-
-[Data](articles/32156ad1.json)
-
-[Extended Data](ext_articles/32156ad1.ext.json)
-
----
-
-### Sri Lanka rupee opens broadly stable at 299.70/80 to US dollar
-
-*2024-05-22 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-299-70-80-to-us-dollar-164179/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened broadly stable at 299.70/80 to the US dollar on Wednesday, from 299.80/95 the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 9.95/10.00 percent from 9.90/10.05 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 10.30/33 percent from 10.25/40 percent.
-
-A bond maturing on 15.03.2028 was quoted at 10.55/65 percent down from 10.65/70 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.55/65 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.34 percent at 12,258, the S&P SL20 was up 0.62 percent at 3,631. (Colombo/May22/2024)
-
-◼️
-
-[Data](articles/8578dd7e.json)
-
-[Extended Data](ext_articles/8578dd7e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 21:33:58**
+As of **2024-05-22 21:53:33**
 
 ## Newspaper Stats
 
-*Scraped **25,763** Articles*
+*Scraped **25,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,521
 adalk | 2,211
 adaderanalk | 2,965
 tamilmirrorlk | 3,003
-virakesarilk | 3,910
+virakesarilk | 3,911
 dailymirrorlk | 4,052
 adaderanasinhalalk | 4,116
 
@@ -26,35 +26,63 @@ adaderanasinhalalk | 4,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,760 (100.0%) of 25,763 articles have been extended.
+25,763 (100.0%) of 25,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ලොකුම දන්සල දෙරණෙන්
+### 2023 இல் கனடாவிலிருந்து அனலைதீவிற்கு சென்றவேளை தாக்கப்பட்ட வயோதிப தம்பதியினர் -  இன்னமும் நீதி வழங்கப்படவில்லை - குடும்பத்தவர்கள் கவலை
+
+*2024-05-22 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184254) · `ta`
+
+கடந்த வருடம் கனடாவிலிருந்து வருகை தந்து அனலை தீவில் தங்கியிருந்த வயோதிப தம்பதியரை கொலை செய்வதற்கும் அவர்களின் பொருட்களை திருடுவதற்கும் முயற்சித்தவர்களை நீதியின் முன் நிறுத்துவதற்கான  நடவடிக்கைகள் காலதாமதமாவது குறித்து அவர்களின் குடும்பத்தினர் கவலை வெளியிட்டுள்ளனர்.
+
+பெப்ரவரி 23, 2023 -  அந்த நாள் வலி மற்றும் ஆழ்ந்த அவநம்பிக்கை எங்கள் நினைவுகளில் பொறிக்கப்பட்ட ஒரு நாள். எங்கள் அன்புக்குரிய தந்தை சுப்பிரமணியம் நாகலிங்கம் மற்றும் எங்கள் அன்பான தாயார் இந்திரதேவி சுப்ரமணியம் அவர்கள் இலங்கைக்கான தாயகம் திரும்பும் பயணத்தின் அமைதியைத் தகர்க்கும் ஒரு பயங்கரமான சம்பவத்தை எதிர்கொண்டனர்.
+
+இந்தியாவின் கேரளாவிற்கு ஆன்ம ஊட்டமான புனித யாத்திரை பயணத்திற்குப் பிறகு, எங்கள் தந்தையின் பூர்வீக வீடு அமைந்த இலங்கையின் அனலை தீவில், அவர்களின் வேர்களை வணங்க எங்கள் பெற்றோர் முடிவு செய்தனர்.
+
+அனலை தீவில் வசித்தபோது வாள்கள் மற்றும் தடிகள்  ஏந்திய மூன்று தாக்குதல்காரர்களால் திட்டமிடப்பட்ட ஒரு பயங்கரமான வன்முறையால்  அவர்களின் அமைதியான தூக்கத்தை  தொலையும் என்பதை அவர்கள் அறிந்திருக்கவில்லை.
+
+...
+
+[Data](articles/fc5ed358.json)
+
+---
+
+### Adarangance in Derana
 
 *2024-05-22 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196917) · `si`
 
-බුදුරජාණන් වහන්සේගේ සම්බුදු තෙමඟුල සිහිකෙරෙන වෙසක් පුන් පොහෝ දිනය හෙටට (23) යෙදී තිබේ.
+Vesak Full Moon Day is celebrated nationwide, with 419 zones and 321 selected areas preparing for commemorations. Over 3,260 Dansalas are registered, with the largest one in Independence Square. The 24-hour Derana event starts tomorrow, featuring various programs like Dayala Peace, Dharma Preaching, and Dhamma Savings. The Ada Derana Sri Lankan Vesak Zone and Pandal open at 6:40 PM, followed by lamp competitions on May 27th.
 
-ආමිස සහ ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් සම්බුදු තෙමඟුල සැමරීම සඳහා මෙරට බෞද්ධ ජනතාව කටයුතු කරයි.
+🟩
 
-ඒ, අනුව දිවයින පුරා වෙසක් කලාප 419ක් සහ තොරණ 321ක් පැවත්වීමට ද සැලසුම් කර තිබේ.
+The Vesak Full Moomo Day (23) is tomorrow (23).
 
-වෙසක් උත්සවයට සමගාමීව මේ වනවිට දිවයින පුරා දන්සල් 3,260ක් ලියාපදිංචි වී ඇති අතර ඉන් වැඩි ප්‍රමාණයක් ලියාපදිංචි වී ඇත්තේ බස්නාහිර පළාතේය.
+Buddhists in the country are working to commemorate the sacrificial election.
 
-ශ්‍රී ලංකාවේ ලොකුම දන්සල ටීවී දෙරණ සංවිධායකත්වයෙන් හෙට වෙසක් පොහෝ දින කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රෙය්දී පැවැත්වෙයි.
+Accordingly, 419 Vesak Zones and 321 selected island wide are also planned.
 
-24 පැය පුරා පැවැත්වෙන දෙරණ දන්සල හෙට රාත්‍රී 8 ආරම්භ වීමට නියමිතය.
+3,260 Dansal has been registered with the Vesak celebrations and more have been registered in the Western Province.
 
-ශ්‍රී ලංකා වෘත්තීය සූපවේදීන්ගේ සංගමය, කොළඹ මහනගර සභාව, ශ්‍රී ලංකා ගුවන් හමුදාව සමග රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශයද මේ සඳහා දායකවී තිබේ.
+Sri Lanka's largest Dansala organizing organizer will be held tomorrow in Independence Square premises tomorrow.
 
-මේ අතර දෙරණ මාධ්‍ය ජාලය සංවිධානය කරන 'දෙරණාභිවන්දනා' ශ්‍රී කල්‍යාණි සදහම් වෙසක් සජීවි විකාශය කැලණිය රජ මහා විහාරස්ථානයේ සිට ටීවී දෙරණ සහ එෆ්.එම්. දෙරණ ඔස්සේ හෙට දිනය පුරා ගෙන එනු ලබයි.
+The 24 hour Derana will commence 8 tomorrow.
+
+The Sri Lanka Institute of Celestial Chefs Association, the Colombo Municipal Council and the Sri Lanka Air Force have also contributed to the Ministry of Public Administration and Home Affairs, Provincial Councils and Local Government.
+
+Meanwhile, 'Derana repathan' organizes media sorana media network. Derana brings over tomorrow.
+
+It includes many programs, including the Dayala Peace, Dharma Preaching and Dhamma and Dharma Savings.
+
+The Ada Derana Sri Lankan Vesak Zone and the Pandal will be opened at 6.40 pm.
 
 ...
 
 [Data](articles/1f8ee1bc.json)
+
+[Extended Data](ext_articles/1f8ee1bc.ext.json)
 
 ---
 
@@ -67,6 +95,8 @@ Iranian Ambassador to Sri Lanka Dr. Alireza Delkhosh in tears during a condolenc
 ◼️
 
 [Data](articles/5e1dd789.json)
+
+[Extended Data](ext_articles/5e1dd789.ext.json)
 
 ---
 
@@ -1268,6 +1298,8 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 
 [Data](articles/c216cfb3.json)
 
+[Extended Data](ext_articles/c216cfb3.ext.json)
+
 ---
 
 ### Rahiman arrested for rahman associated with Dambulla thunders
@@ -2279,41 +2311,5 @@ The Economic Transfer Bill, which issued the Economic Commission of Sri Lanka, t
 [Data](articles/1240159d.json)
 
 [Extended Data](ext_articles/1240159d.ext.json)
-
----
-
-### We were thrown into the plane.
-
-*2024-05-22 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184212) · `ta`
-
-A plane crash occurred mid-flight, suspectedly due to a heart attack in a passenger. British passenger Anthru Davis described a terrifying scream and severe turbulence. Passengers experienced chaos as the plane descended rapidly. Singapore Airlines expressed condolences and provided medical aid. The flight, carrying 18 passengers including 47 Brits, diverted to Bangkok after over ten hours in Myanmar.
-
-🟩
-
-It is suspected that a 73 -year -old Jevkichan was killed when he died of a heart attack.
-
-British Anthru Davis said he heard the noise of a terrible scream in the first few seconds.
-
-He said that the top of my top Kopi was very severe.
-
-Knowing what was happening, I was ready for it. The plane began to get down fast.
-
-He also said that some people collided with lights and facial expressions in the cabin where the passengers were placed.
-
-Following the incident in the middle of the year, Poying 777-300 ER plane, which was traveling to Singapore, was turned to Thailand's capital with 18 passengers.
-
-Singapore Airlines has expressed its sympathy to the deceased who died.
-
-An official of the airline said that the aircraft was on the trip for more than ten hours at Myanmar's Iravati Stadium.
-
-Singapore Airlines said that we are in the process of providing medical treatment to travelers.
-
-Singapore Airlines released the details of passengers on the plane. Of these, 47 were from Britain
-
-...
-
-[Data](articles/9f1f4d95.json)
-
-[Extended Data](ext_articles/9f1f4d95.ext.json)
 
 ---

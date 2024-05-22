@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 19:18:32**
+As of **2024-05-22 19:34:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,735 (100.0%) of 25,740 articles have been extended.
+25,740 (100.0%) of 25,740 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The president said it was undeniable that retirees bore the brunt of the challen
 
 [Data](articles/75b38060.json)
 
+[Extended Data](ext_articles/75b38060.ext.json)
+
 ---
 
 ### Govts, oppositions, religions, media have failed Sri Lanka’s war victims: Amnesty chief
@@ -61,6 +63,8 @@ ECONOMYNEXT — Successive governments, opposition leaders, the religious establ
 ...
 
 [Data](articles/e6c6cf27.json)
+
+[Extended Data](ext_articles/e6c6cf27.ext.json)
 
 ---
 
@@ -157,6 +161,8 @@ The Institute for Health Policy (IHP) in their Sri Lanka Opinion Tracker Survey 
 ...
 
 [Data](articles/2467ebbc.json)
+
+[Extended Data](ext_articles/2467ebbc.ext.json)
 
 ---
 
@@ -259,6 +265,8 @@ A bond maturing on 01.10.2032 closed down at 11.75/90 percent from 11.85/12.00 p
 ◼️
 
 [Data](articles/dd4dfb8d.json)
+
+[Extended Data](ext_articles/dd4dfb8d.ext.json)
 
 ---
 
@@ -1702,23 +1710,35 @@ It is noteworthy that the final tribute event of Iranian President Ibrahim Raisi
 
 ---
 
-### LPL තරගාවලිය : 'දඹුල්ල තන්ඩර්ස්' කණ්ඩායමේ හිමිකරු රක්ෂිත බන්ධනාගාරයට
+### LPL tournament: The owner of the Dambulla Tunders team remanded
 
 *2024-05-22 12:33:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz557y3d1n0o) · `si`
 
-ඉදිරියේදී පැවැත්වීමට නියමිත ලංකා ප්‍රීමියර් ලීග් ක්‍රිකට් තරගාවලියේ දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ හිමිකරු මේ මස 31 වෙනිදා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය විසින් අද ( මැයි මස 22 වෙනිදා) නියෝග කරනු ලැබීය.
+Mother Rauman, a British-Bangladeshi national, faces charges related to match-fixing in the upcoming LPL tournament. Arrested by Sri Lanka's Sports Pollution Prevention Division, Rauman allegedly conspired to betray a major match, discussed plans with a complainant, and aimed to influence the Dambulla team's selection. Despite claims of bringing significant funds to Sri Lanka, no concrete evidence of financial wrongdoing has emerged. The case highlights concerns over sports corruption and the challenges of proving such allegations.
 
-තමීම් රහ්මාන් නමැති මෙම සැකකරු අද ( මැයි මස 22) කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ හරහා විදේශගත වීමට යාමේදී ක්‍රීඩා දූෂණ වැළැක්වීමේ අංශය විසින්  අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කරනු ලැබිය.
+🟩
 
-ඔහු බ්‍රිතාන්‍ය පුරවැසි භාවය හිමි බංග්ලාදේශ ජාතිකයෙකු වන බව පැවසෙයි.
+The owner of the Dambulla Thunders team to be remanded will be remanded on the 31st of this month (May 22).
 
-ක්‍රීඩා දූෂණ වැළැක්වීමේ ඒකකය වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥ උදාර කරුණාතිලක, කොළඹ අතිරේක මහේස්ත්‍රාත් හර්ෂණ කැකුණවල හමුවේ කරුණු ඉදිරිපත් කරමින් සඳහන් කළේ ඉදිරියේදී පැවැත්වීමට නියමිත එල් පී එල් ක්‍රිකට් තරගාවලියේදී සිදුකිරීමට නියමිතව තිබූ මහා පරිමාණ තරග පාවාදීමේ සිද්ධියකට අදාළව මෙම සැකකරු අත්අඩංගුවට ගත් ගෙන ඇති බවය.
+The suspect, named Mother Rauman, was arrested by the Sports Pollution Prevention Division and produced before the Mandarana Bandaranaike International Airport.
 
-" ස්වාමීනි.... ඉදිරියේදී පැවැත්වීමට නියමිත එල් පී එල් ක්‍රිකට් තරගාවලියේදී සිදුකිරීමට නියමිතව තිබූ මහා පරිමාණ තරග පාවාදීමේ සිද්ධියකට අදාළව මෙම සැකකරු අත්අඩංගුවට ගෙන තිබෙනවා"
+It is said that he is a Bangladeshi national of British citizenship.
+
+State Counsel Udara Karunathilaka, who appeared for the Sports Pollution Prevention Unit, said that the suspect had been arrested in connection with the Colombo Additional Magistrate Harshana.
+
+"Lord .... The suspect has been arrested in connection with the newly betrayal of a betrayal of a large scale match that was to be conducted at the upcoming Lill.
+
+"The suspect has held a long telephone conversation with the complainant of the incident. "
+
+"The complainant had come to Sri Lanka on April 22 on April 22nd.
+
+"Discussed with the complainant about how to meet and betrayal. Investigators also have all the voices. "
 
 ...
 
 [Data](articles/05fc6ad3.json)
+
+[Extended Data](ext_articles/05fc6ad3.ext.json)
 
 ---
 

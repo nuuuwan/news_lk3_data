@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 05:18:36**
+As of **2024-05-22 05:36:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,557 (100.0%) of 25,567 articles have been extended.
+25,567 (100.0%) of 25,567 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ During her meeting with President Wickremasinghe, Ambassador Stener was briefed 
 
 [Data](articles/45b0b59f.json)
 
+[Extended Data](ext_articles/45b0b59f.ext.json)
+
 ---
 
 ### Lankan Ambassador-designate to People’s Republic of China assumes duties
@@ -58,6 +60,8 @@ Addressing the staff, Ambassador Majintha Jayesinghe recalled the close historic
 
 [Data](articles/c83c1779.json)
 
+[Extended Data](ext_articles/c83c1779.ext.json)
+
 ---
 
 ### Major International Golf in High Definition Only on Dialog Television
@@ -71,6 +75,8 @@ The 83rd Senior PGA Championship will commence in Michigan, USA on 23rd May foll
 ...
 
 [Data](articles/4db2aa25.json)
+
+[Extended Data](ext_articles/4db2aa25.ext.json)
 
 ---
 
@@ -94,6 +100,8 @@ The State Minister clarified that there has been no request to transfer Sathosa�
 
 [Data](articles/f1ff5371.json)
 
+[Extended Data](ext_articles/f1ff5371.ext.json)
+
 ---
 
 ### Roadshow promoting Dubai and Hungary real estate investments on 30 May
@@ -108,6 +116,8 @@ The Dubai real estate market offers very attractive terms and benefits, includin
 
 [Data](articles/cb543bc7.json)
 
+[Extended Data](ext_articles/cb543bc7.ext.json)
+
 ---
 
 ### Two top global marketing experts at PIM-PIMA CEO forum on 29 May
@@ -121,6 +131,8 @@ Professor Joshua Gildea, is a Senior Lecturer of Marketing as well as the Direct
 ...
 
 [Data](articles/24db79ec.json)
+
+[Extended Data](ext_articles/24db79ec.ext.json)
 
 ---
 
@@ -148,6 +160,8 @@ Speaking at a press conference at the party headquarters, Herath criticised the 
 
 [Data](articles/dffd969c.json)
 
+[Extended Data](ext_articles/dffd969c.ext.json)
+
 ---
 
 ### Marikkar foresees Premadasa and AKD as main contenders for Presidential poll
@@ -168,6 +182,8 @@ Addressing a press conference in Colombo, Marikkar said despite the various tric
 
 [Data](articles/e927ca6a.json)
 
+[Extended Data](ext_articles/e927ca6a.ext.json)
+
 ---
 
 ### High-level SL delegation visits Teheran to attend State funeral of late Iranian President
@@ -183,6 +199,8 @@ Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs a
 ◼️
 
 [Data](articles/bb01e59e.json)
+
+[Extended Data](ext_articles/bb01e59e.ext.json)
 
 ---
 
@@ -201,6 +219,8 @@ At a press conference following a landmark judgement where the Supreme Court rul
 ...
 
 [Data](articles/115240e6.json)
+
+[Extended Data](ext_articles/115240e6.ext.json)
 
 ---
 

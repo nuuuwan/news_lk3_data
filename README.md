@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 07:45:00**
+As of **2024-05-22 07:58:01**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,585 (100.0%) of 25,591 articles have been extended.
+25,591 (100.0%) of 25,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### අඩිස් අබාබා සිට උඩින් ආ කොකේන්
+### Cocaine from Ababai from Ababai
 
 *2024-05-22 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196889) · `si`
 
-කොකෙන් මත්ද්‍රව්‍ය තොගයක් සමග පිලිපීන ජාතික කාන්තාවක් කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+A woman was arrested at Katunayake International Airport with 851kg of cocaine. The Airport Customs made the arrest.
 
-ගුවන්තොටුපොළ රේගුව විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති අතර එහිදී ඇය සතුව තිබී කොකේන් කිලෝ ග්‍රෑම් 2 ග්‍රෑම් 851 ක් සොයාගෙන ඇත.
+🟩
+
+A woman has been arrested at the Katunayake International Airport with a stock of drugs.
+
+The arrest was carried out by the Airport Customs, where 851 kilograms of cocaine were found in her possession.
 
 ◼️
 
 [Data](articles/ab0052b7.json)
+
+[Extended Data](ext_articles/ab0052b7.ext.json)
 
 ---
 
@@ -60,41 +66,55 @@ They also listed out the services and rendered by Ven. Gnanasara Thero to establ
 
 [Data](articles/359d493a.json)
 
+[Extended Data](ext_articles/359d493a.ext.json)
+
 ---
 
-### දුම්රියක් පීලි පනී
+### A train jumps derails
 
 *2024-05-22 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196888) · `si`
 
-පොතුහැර සහ පොල්ගහවෙල දුම්රිය ස්ථාන අතරදී දුම්රියක් පීලි පැනීමකට ලක්ව තිබේ.
+An office train traveling from Kurunegala to Colombo derailed near Pothuhewela, disrupting service between these stations.
 
-මෙලෙස පීලි පැන ඇත්තේ කුරුණෑගල සිට කොළඹ බලා ධාවනය වෙමින් පැවති කාර්යාල දුම්රියයි.
+🟩
+
+A train was derailed between Pothuhewela and Polgahawela railway stations.
+
+The derailed office train was traveling from Kurunegala to Colombo.
 
 ◼️
 
 [Data](articles/6a744252.json)
 
+[Extended Data](ext_articles/6a744252.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ රැසකට ලොකු වැස්සක්
+### A large rain in many areas today
 
 *2024-05-22 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196886) · `si`
 
-අද දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මිලිමීටර් 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected across Sri Lanka today, with 150mm forecasted in some areas. Showers/thunderstorms predicted in various regions, including the Western, Sabaragamuwa, Middle, North-Western, Southern, and Northern provinces. Southwest monsoon intensifies weather conditions. Strong winds possible in central hills and Southern Province, reaching 40-50 km/h, and 30-40 km/h elsewhere. Public advised to prepare for potential damage.
 
-එම දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරන්නේ මධ්‍යම, වයඹ, දකුණු සහ උතුරු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-එසේම නිරිත දිග මෝසම් තත්ත්වය දිවයින හරහා ක්‍රමයෙන් ස්ථාපිත වෙමින් පැවතීම හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බවත් දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුලින් බරව පවතිනු ඇති බවත් එම නිවේදනයේ දැක්වෙයි.
+The Met Department forecasts that there would be around 150 millimeters in some places in the Western and Sabaragamuwa provinces today.
 
-මේ අතර දිවයිනේ සෙසු පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The department further stated that showers or thundershowers will occur at times in the middle, North-Western, southern and northern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. (40-50) දක්වා තද සුළං ඇතිවිය හැකි අතර දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+The announcement also expects the prevailing rain and wind quality due to the extent of the southwest monsoon system through the island.
 
-එසේම ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටී.
+Meanwhile, showers or thundershowers will occur at several places in the rest of the country.
+
+On the central hills are sitting in the western-balcony and time to time in the Southern Province.. (40-50) Strong winds can occur and from time to time in the rest of the island.. (30-40) can cause strong winds.
+
+The public is also requested to take necessary steps to reduce the damages caused by temporary strong winds and lands.
 
 ◼️
 
 [Data](articles/24b98130.json)
+
+[Extended Data](ext_articles/24b98130.ext.json)
 
 ---
 
@@ -113,6 +133,8 @@ Meanwhile, the Tower Management announced their latest Pixel Bloom operating hou
 ◼️
 
 [Data](articles/40eb293f.json)
+
+[Extended Data](ext_articles/40eb293f.ext.json)
 
 ---
 
@@ -426,21 +448,27 @@ At a press conference following a landmark judgement where the Supreme Court rul
 
 ---
 
-### டெங்கு நுளம்பு பரவல் அதிகரிப்பு
+### Dengue mosquito spread
 
 *2024-05-22 02:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நுளம்பு-பரவல்-அதிகரிப்பு/175-337670) · `ta`
 
-தென்மேற்று பருவப்பெயர்ச்சி மழை காரணமாக எதிர்வரும் நாள்களில் டெங்கு நுளம்பு பரவலில் அதிகரிப்பு ஏற்படக்கூடும் என சுகாதார அமைச்சின் தேசிய டெங்கு ஒழிப்புப்பிரிவு தெரிவித்துள்ளது.
+Due to monsoon rains, dengue mosquito spread may rise, affecting areas like Jaffna, Colombo, Gampaha, Kalutara, and Kandy, especially in the Western Province, with 23k cases reported this year.
 
-ஆண்டின் இதுவரையான காலப்பகுதியில் 23 ஆயிரம் டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்புப்பிரிவின் பணிப்பாளர், விசேட வைத்திய நிபுணர் சுதத் சமரவீர தெரிவித்துள்ளார்.
+🟩
 
-இதனிடையே யாழ்ப்பாணம், கொழும்பு, கம்பஹா, களுத்துறை மற்றும் கண்டி ஆகிய மாவட்டங்களில் தற்போது டெங்கு பரவல் அதிகரித்து வருவதாக வைத்தியர் லஹிரு கொடித்துவக்கு தெரிவிக்கின்றார்.
+The National Dengue Eradication Division of the Ministry of Health said that the spread of dengue mosquitoes could increase in the coming days due to south -season monsoon rains.
 
-மேல் மாகாணத்திலேயே அதிகளவான டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என அவர் குறிப்பிட்டுள்ளார். (a)
+The Director of the National Dengue Eradication Division, Sudath Samaraweera, said that 23 thousand dengue patients have been reported in the year.
+
+Meanwhile, doctor Lahiru Kodithi has announced that the dengue spread is increasing in the districts of Jaffna, Colombo, Gampaha, Kalutara and Kandy.
+
+He noted that most of the dengue patients have been reported in the Western Province. (A)
 
 ◼️
 
 [Data](articles/b20748d9.json)
+
+[Extended Data](ext_articles/b20748d9.ext.json)
 
 ---
 

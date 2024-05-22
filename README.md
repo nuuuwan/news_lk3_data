@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 23:03:36**
+As of **2024-05-22 23:18:46**
 
 ## Newspaper Stats
 
-*Scraped **25,773** Articles*
+*Scraped **25,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,521
 adalk | 2,213
 adaderanalk | 2,967
 tamilmirrorlk | 3,003
-virakesarilk | 3,911
+virakesarilk | 3,914
 dailymirrorlk | 4,055
 adaderanasinhalalk | 4,118
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,773 (100.0%) of 25,773 articles have been extended.
+25,773 (100.0%) of 25,776 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -355,6 +355,26 @@ The government, trade, community, media and cricket will help the government to 
 [Data](articles/4fcc6268.json)
 
 [Extended Data](ext_articles/4fcc6268.ext.json)
+
+---
+
+### இந்துக்களை படுகொலை செய்வதற்காகவே 4 இலங்கையர்கள் இந்தியா சென்றுள்ளனர் - வீரசேகர
+
+*2024-05-22 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184243) · `ta`
+
+பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காக நான்கு இலங்கையர்கள் கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள்.
+
+குறுகிய காலத்தில் இவர்கள் ஐ.எஸ்.ஐ.எஸ் அமைப்பின் கொள்கையால் ஈர்க்கப்பட்டுள்ளனர். இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும்.
+
+இல்லையேல் இலங்கையிலும் எதிர்காலத்தில் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைத் தாக்குதல்கள் நடத்தப்படலாம் என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வை குழுவின்  தலைவர்  சரத் வீரசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (22) இடம்பெற்ற எதிர்க்கட்சியினர் கொண்டு வந்த சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டு மக்கள் அச்சமின்றி, சுதந்திரமாக வாழ வேண்டுமாயின் அடிப்படைவாதம் மற்றும் பயங்கரவாதம் இல்லாதொழிக்கப்பட வேண்டும்.
+
+...
+
+[Data](articles/bf74dd96.json)
 
 ---
 
@@ -1242,6 +1262,28 @@ Sri Maha Bodhiha, Anuradhapura Sacred town, Park and Southern Car Park and South
 
 ---
 
+### பாகிஸ்தானிலிருந்து உருளைக்கிழங்குகள் ஊடாக ஐஸ் போதைப்பொருள் கடத்தல் - நிமல் பியதிஸ்ஸ குற்றச்சாட்டு
+
+*2024-05-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184217) · `ta`
+
+பாகிஸ்தானில் இருந்து உருளைக்கிழங்குகள் ஊடாக இலங்கைக்கு ஐஸ் போன்ற போதைப்பொருட்கள் சூட்சுமமான முறையில் கடத்தப்படுகிறது.
+
+ஆகவே இவ்விடயம் தொடர்பில் புலனாய்வு பிரிவினர் அவதானம் செலுத்த வேண்டும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் உறுப்பினர் நிமல் பியதிஸ்ஸ  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22) விசேட கூற்றை முன்வைத்து உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டில் மரக்கறி வகைகளை அதிக விலைக்கு  மக்கள் வாங்க வேண்டியுள்ளது. 3000 ரூபா வரையில் கெரட்டின் விலை  உயர்வடைந்தது.
+
+மரக்கறி உற்பத்தியில் உருளைக்கிழங்கு உற்பத்தியே மிகவும் கடினமானது. ஒரு மூட்டை உருளைக்கிழங்கு 35000 ரூபா வரையில் சந்தையில் விற்பனையாகின்றது. உருளைக்கிழங்கு உற்பத்தி செய்யும் விவசாயிகளே அதிக கஸ்டங்களுக்கு முகம்கொடுக்கின்றனர்.
+
+இப்போது உருளைக்கிழங்கு அறுவடை இடம்பெறுகின்ற நேரத்தில் வெளிநாட்டில் இருந்தும் உருளைக்கிழங்கு இறக்குமதி செய்யப்படுகின்றது. அவ்வாறு வெளிநாட்டில் இருந்து கொண்டு வரும் உருளைக் கிழங்குகள் பாவனைக்கு உகந்ததாக இல்லை.
+
+...
+
+[Data](articles/61943d9e.json)
+
+---
+
 ### Sri Lanka banned Sri Lanka again from today
 
 *2024-05-22 15:58:28* · [`adalk`](https://www.ada.lk/breaking_news/අද-22-සිට-නැවත-දැනුම්දෙනතුරු-ශ්‍රී-ලංකාවට-ධීවර-කටයුතු-තහනම්/11-409792) · `si`
@@ -1375,6 +1417,20 @@ The suspect is accused of attempting to approach players for match-fixing.
 [Data](articles/2f7e6258.json)
 
 [Extended Data](ext_articles/2f7e6258.ext.json)
+
+---
+
+### விடுதலைப் புலிகள் படுகொலை செய்த சிங்களவர்களை சர்வதேச மன்னிப்புச் சபையின் செயலாளர் அக்னெஸ் ஏன் நினைவுகூரவில்லை ? - சரத் வீரசேகர கேள்வி
+
+*2024-05-22 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184234) · `ta`
+
+விடுதலை புலிகள் போராளிகளை நினைவுகூர்ந்த  சர்வதேச மன்னிப்புச் சபையின் செயலாளர் அக்னெஸ் கலமார்ட் புலிகளால் படுகொலை செய்யப்பட்ட சிங்களவர்களையும், இராணுவத்தினரையும் ஏன் நினைவுகூரவில்லை.
+
+இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வியன்னா ஒப்பந்தத்துக்கு அப்பாற்பட்டு செயற்படுகிறார் என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வைக் குழுவின் தலைவர் சரத் வீரசேகர தெரிவித்தார்.பாராளுமன்றத்தில் புதன்கிழமை இடம்பெற்ற எதிர்க்கட்சியினர் கொண்டு வந்த சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.அவர் மேலும் உரையாற்றியதாவது,விடுதலை புலிகளுடனான யுத்தம் முடிவுக்கு கொண்டு வந்து 15 ஆண்டுகள் பூர்த்தியடைந்துள்ள நிலையில் யுத்தத்தை முடிவுக்கு கொண்டு வந்த இராணுவத்துக்கு எதிரான செயற்பாடுகளும் தீவிரமடைந்துள்ளன.
+
+...
+
+[Data](articles/23233f6c.json)
 
 ---
 
@@ -2233,77 +2289,5 @@ Both potatoes and onions were grown as import substitutes and have received prot
 [Data](articles/bbbfde08.json)
 
 [Extended Data](ext_articles/bbbfde08.ext.json)
-
----
-
-### President condoles Iran's embassy over the demise of Iran
-
-*2024-05-22 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184216) · `ta`
-
-Ranil Wickremesinghe consoled Iran's embassy on the passing of President Ibrahim Raisi, praising the work of Iranian Ambassador Ali Reza during his visit.
-
-🟩
-
-President Ranil Wickremesinghe, who visited the Iranian embassy in Colombo on Wednesday morning, expressed his condolences to the sudden death of Iranian President Ibrahim Raisi.
-
-The President, who visited the embassy, welcomed the work of the Iranian Ambassador to Sri Lanka, Dr. Ali Reza, including Delgosh.
-
-The President, including the Iranian Ambassador to the Iranian Ambassador, expressed his deepest sympathies to the Ibrahim Raisi's sudden death of President Ibrahim Raisi after he posted a condolence note in the notebook.
-
-◼️
-
-[Data](articles/14dd1424.json)
-
-[Extended Data](ext_articles/14dd1424.ext.json)
-
----
-
-### Three Sri Lankan students who received awards in America
-
-*2024-05-22 13:01:47* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකා‌වේදී-සම්මාන-ලැබූ-ලංකාවේ-සිසුන්-තිදෙනා/11-409784) · `si`
-
-Three Sri Lankan students won awards at the 2024 International Sciences and Engineering Exhibition and the Kandy Tournament in the US, showcasing their talents alongside 1,700 participants from 67 countries. The Nadasana College team received the 'ComIUNITY INVATER' for diabetes awareness, while Koubarpitiya College focused on sustainable water usage. Harsha, from Narammala Central College, developed innovative mattresses for long-term care.
-
-🟩
-
-The three Sri Lankan students who participated in the 2024 International Sciences and Engineering Exhibition and the three Sri Lankan students who participated in Sri Lanka representing Sri Lanka at the Kandy Tournament in the United States came to the Katunayake airport.
-
-The tournament and the exhibition was held with over 1,700 students from 67 countries from the world from 11 to 17.
-
-The 'ComIUNITY INVATER' award was received for the dissemination of diabetes from the Nadasana College of Thurstan College, Colombo.
-
-The main water supply control is not closed for the use of sustainable developmental use of the water supply perrs in the Koubarpitiya College, Kulapitiya.Happened.
-
-Harsha is awarded to create a mattresses capable of preventing the treatment of preventing the treatment of the treatment of a long-term treatment of the Narammala Central College.
-
-◼️
-
-[Data](articles/fe3e205b.json)
-
-[Extended Data](ext_articles/fe3e205b.ext.json)
-
----
-
-### Today in history
-
-*2024-05-22 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184213) · `ta`
-
-Today marks Sri Lanka's 52nd Republic Day, celebrating its independence from British rule on May 22, 1972. The country transitioned from Dominion status under Prime Minister Sirimavo Bandaranaike's leadership, renaming itself from Ceylon to Sri Lanka. This historic day is remembered for nationwide fireworks and the publication of special editions of newspapers like Weerakesari, marking the first anniversary of the republic.
-
-🟩
-
-Sri Lanka's 52nd Republic Day is celebrated today on May 22.
-
-The United Front government, led by the then Srimavo -led United Front in 1972, declared Sri Lanka from the Dominian status and declared the Republic of Independence on May 22.
-
-On May 22, 1972, the Sri Lankan Democratic Socialist Republic of Sri Lanka was completely liberated from the British rule, the name 'Ceylon' was removed and the name of 'Sri Lanka'.Fireworks exploded across the country that day and celebrated the massacre of the public.
-
-Subsequently, the first pages of the Weerakesari magazines published on May 22 and 23, which commemorates the celebration of the first Republic Day on May 22, 1973, to mark the one -year anniversary of the Republic of Sri Lanka.
-
-◼️
-
-[Data](articles/d1a49807.json)
-
-[Extended Data](ext_articles/d1a49807.ext.json)
 
 ---

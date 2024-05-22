@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 11:04:45**
+As of **2024-05-22 11:18:37**
 
 ## Newspaper Stats
 
-*Scraped **25,616** Articles*
+*Scraped **25,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,151 @@ islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
 adalk | 2,196
-adaderanalk | 2,952
-tamilmirrorlk | 2,989
-virakesarilk | 3,876
+adaderanalk | 2,954
+tamilmirrorlk | 2,991
+virakesarilk | 3,880
 dailymirrorlk | 4,022
-adaderanasinhalalk | 4,093
+adaderanasinhalalk | 4,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,615 (100.0%) of 25,616 articles have been extended.
+25,616 (100.0%) of 25,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ඉරාන තානාපතිට පහරදුන් බවට සැක ව්‍යාපාරිකයාට ඇප
+### Economic Transformation Bill and Public Financial Management Bill tabled in Parliament
+
+*2024-05-22 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99375/economic-transformation-bill-and-public-financial-management-bill-tabled-in-parliament) · `en`
+
+The Economic Transformation Bill and the Public Financial Management Bill have been presented to the Parliament, a short while ago.
+
+◼️
+
+[Data](articles/4ef6105e.json)
+
+---
+
+### பேருந்து மோதி சிறுமி பலி
+
+*2024-05-22 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-சிறுமி-பலி/175-337678) · `ta`
+
+கம்பளை புதிய குருந்துவத்தையில் இன்று காலை பேரவிலவிலிருந்து கம்பளை நோக்கி பயணித்த தனியார் பஸ்ஸில் மோதி பாடசாலை மாணவி ஒருவர் உயிரிழந்துள்ளார்.
+
+புதிய குருந்துவத்தை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பதித்தலாவ, மல்கொல்ல பிரதேசத்தைச் சேர்ந்த 10 வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சிறுமி பேருந்தில் இருந்து இறங்கி பேருந்துக்கு முன்னால் உள்ள வீதியைக் கடந்த போது இந்த விபத்து நேர்ந்துள்ளதாக விசாரணைகள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/5603844b.json)
+
+---
+
+### විජයදාස ගේ පෙත්සම විභාගය කල්යයි
+
+*2024-05-22 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196897) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා වැඩබලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු පත්වීම නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් කොළඹ දිසා අධිකරණය හමුවේ ගොනුකර ඇති පැමිණිල්ලක් නිෂ්ප්‍රභ කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඉදිරිපත් කළ අභියාචනා පෙත්සම අද (22) බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණය හමුවේ යළි තුන්වන දිනටත් විභාගයට ගත්තේය.
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් එම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+එම පෙත්සම ගිහාන් කුලතුංග සහ ෆ්‍රෑන්ක් ගුණවර්ධන යන මහත්වරුන්ගෙන් සමන්විත සිවිල් අභියාචනා මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+එහිදී වගඋත්තරකාර දුමින්ද දිසානායක මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ චන්දක ජයසුන්දර මහතා වැඩිදුරටත් කරුණු ඉදිරිපත් කළේය.
+
+ඉන් අනතුරුව වැඩිදුර කරුණු දැක්වීම ලබන 31 වනදා තෙක් කල්තැබුණි.
+
+◼️
+
+[Data](articles/64900c3f.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் மீ்ண்டும் களமிறங்குகிறார் பொன்சேகா
+
+*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீ்ண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
+
+முன்னாள் இராணுவத் தளபதி பீல்ட் மார்ஷல் சரத் பொன்சேகா எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி தேர்தலில் போட்டியிட தீர்மானித்துள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+ஐக்கிய மக்கள் சக்தி (SJB) இன் தற்போதைய தலைவர் ஜூன் மாதம் இது தொடர்பான முறையான அறிவிப்பை வெளியிடுவார் என்று பொன்சேகாவுக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்தன.
+
+பொன்சேகா எந்த அரசியல் கட்சியுடனும் கூட்டு சேராமல் சுயேச்சை வேட்பாளராக போட்டியிட உள்ளார்.
+
+எஸ்.ஜே.பி எம்.பி.க்கள் குழுவின் ஆதரவையும் பொன்சேகா பெற முடிந்துள்ளதாகவும், மற்ற அரசியல் கட்சிகளின் எம்.பி.க்கள் மற்றும் அரசியல்வாதிகளுடன் பின்கதவு பேச்சுவார்த்தை நடந்து வருவதாகவும் வட்டாரங்கள் கூறுகின்றன.
+
+பொன்சேகாவின் பிரச்சாரம் ஊழலற்ற நாட்டை ஊக்குவிப்பதுடன் தேசிய பாதுகாப்பிற்கும் முன்னுரிமை அளிக்கும் என்று டெய்லி மிரர் அறிகிறது.
+
+அவர் தனது பிரச்சாரத்தின் போது புத்திஜீவிகள் மற்றும் முக்கிய பிரமுகர்களுடன் பணியாற்றுவார் என்று எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/b63fa879.json)
+
+---
+
+### Naval, fishing communities advised not to venture out to sea until further notice
+
+*2024-05-22 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99374/naval-fishing-communities-advised-not-to-venture-out-to-sea-until-further-notice) · `en`
+
+The Department of Fisheries and Aquatic Resources (DFAR) has advised all those engaged in naval and fishing activities not to venture out to sea until further notice.
+
+Meanwhile, the Meteorology Department warns that the sea areas extending from Colombo to Pottuvil via Galle and Hambantota will be very rough at times while the sea areas extending from Mannar to Colombo will be rough at times.
+
+Therefore, naval and fishing communities are advised not to venture into these sea areas, until further notice.
+
+It further said showers or thundershowers will occur at times in the sea areas extending from Mannar to Hambantota via Colombo and Galle, and that heavy showers are likely at some places. Showers or thundershowers will occur at several places in the other sea areas around the island.
+
+Wind speeds are expected to reach 40-50 kmph and wind speed may increase up to 60-70 kmph at times in the sea areas extending from Mannar to Pottuvil via Colombo, Galle and Hambantota, it warned.
+
+...
+
+[Data](articles/c9f4f24d.json)
+
+---
+
+### The business guarantee suspicions that Iranian Ambassador was assaulted
 
 *2024-05-22 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196896) · `si`
 
-මෙරට ඉරාන තානාපතිට පහරදුන් බවට සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි ව්‍යාපාරිකයා ඇප මත මුදාහැර තිබේ.
+A businessman suspected of assaulting Iran's ambassador was released on bail. The incident occurred in a Colombo shopping complex parking lot.
 
-ඒ සැකකාර ව්‍යාපාරිකයා අද කොටුව මහේස්ත්‍රාත් කෝසල සේනාධීර මහතා හමුවට ඉදිරිපත් කිරීමේ අනතුරුවය.
+🟩
 
-කොළඹ ප්‍රධාන සාප්පු සංකීර්ණයක රථගාලක් තුළදී මෙරට ඉරාන තානාපතිට පහරදුන් බවට සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටියේය.
+The businessman who was arrested on suspicion of assaulting Iranian Ambassador had been released on bail.
+
+The suspect is the presence of the Fort Magistrate Kosala Senaera.
+
+The Ambassador of Iranian was assaulted in a car park in a major shopping complex in Colombo.
 
 ◼️
 
 [Data](articles/79ff0665.json)
+
+[Extended Data](ext_articles/79ff0665.ext.json)
+
+---
+
+### சர்வதேச தேயிலை தினம் வைபவம்
+
+*2024-05-22 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184194) · `ta`
+
+ஐக்கிய நாடுகள் சபையினால் அங்கீகரிக்கப்பட்ட சர்வதேச தேயிலை தினம் ஒவ்வொரு வருடமும் மே 21 திகதி கொண்டாடப்படுகிறது.
+
+இந்நிலையில், இலங்கையில் மலையக பிரதேசங்களிலும் சர்வதேச தேயிலை தின நிகழ்வுகள் செவ்வாய்கிழமை (21)  கொண்டாடப்பட்டன.
+
+சர்வதேச தேயிலை தினத்தையொட்டி  நிகழ்வு ஒன்று கண்டி சமூக அபிவிருத்தி நிறுவகமான (ISD) நிறுவனத்தின் ஏற்பாட்டில் இரத்தினபுரி நகரில் செவ்வாய்கிழமை  கொண்டாடப்பட்டது.
+
+கண்டி சமூக அபிவிருத்தி நிறுவனத்தின் நிறைவேற்று பணிப்பாளர் பெ. முத்துலிங்கம் தலைமையில் இடம்பெற்ற இந்த நிகழ்வில் மலையக பெருத்தோட்ட தொழிலாளர்களின் மறுக்கப்பட்ட பல்வேறு உரிமை சார் விடயங்களை உள்ளடக்கி தமது கோரிக்கைகளை எழுதிய பதாதைகளை ஏந்தி கோஷமிட்டு பேரணி ஒன்றும் இடம்பெற்றது.
+
+இதையடுத்து இந்த நிகழ்வுக்கான பொது கூட்டம் இரத்தினபுரி நகர சபை மண்டபத்தில் இடம்பெற்றதுடன் நிகழ்வுகளில் அரசியல் பிரமுகர்கள், அரச மற்றும் அரச சார்பற்ற நிறுவனங்களின் பிரதநிதிகள் அடங்களாக பலர் கலந்துக்கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e79ebe55.json)
 
 ---
 
@@ -68,6 +184,24 @@ The deceased has been identified as a 10 year old girl from Malgollawa area.
 
 ---
 
+### வெசாக் தினங்களில் பௌத்த கொடியின் வர்ணங்களில் தாமரை கோபுரம் ஒளிரும்
+
+*2024-05-22 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184188) · `ta`
+
+வெசாக் பௌர்ணமி தினத்தை முன்னிட்டு தாமரை கோபுரம் பௌத்த கொடியிலுள்ள வர்ணங்களில் ஒளிரும் என தாமரை கோபுர நிர்வாகம் தெரிவித்துள்ளது.
+
+அதன்படி, நாளை வியாழக்கிழமை (23) மற்றும் நாளை மறுதினம் வெள்ளிக்கிழமை (24) கோபுரம் ஒளிரும்.
+
+கொழும்பு தாமரை கோபுரத்தில் பிரமிக்க வைக்கும் காட்சிகளுடன் வெசாக் பண்டிகையை கொண்டாடுமாறு நிர்வாகம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+இந்நிலையில், வெசாக் தினங்களில் பிக்சல் ப்ளூம் புத்தம் புதிய, ஊடாடும் டிஜிட்டல் கலை அனுபவத்தை அனுபவிக்கும் நேரத்தையும் தாமரை கோபுர நிர்வாகம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/05d802fb.json)
+
+---
+
 ### Filipino woman arrested at BIA with cocaine worth over Rs. 200 mln
 
 *2024-05-22 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99373/filipino-woman-arrested-at-bia-with-cocaine-worth-over-rs-200-mln) · `en`
@@ -87,6 +221,42 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 [Data](articles/109dc2e3.json)
 
 [Extended Data](ext_articles/109dc2e3.ext.json)
+
+---
+
+### சகோதரியின் வீட்டுக்குச் சென்ற சகோதரனை கொலை செய்த மைத்துனர் !
+
+*2024-05-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184186) · `ta`
+
+களுத்துறை, மொரந்துடுவ, பொல்ஹேன பகுதியில்  கூரிய ஆயுதத்தால் தாக்கப்பட்டு  ஒருவர் கொலை செய்யப்பட்டுள்ளதாக மொரந்துடுவ பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரகம, வல்கம பிரதேசத்தைச்  சேர்ந்த லசந்த புஷ்பகுமார என்ற 30 வயதுடைய நபரொருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மொரந்துடுவ பகுதியிலுள்ள சகோதரியின் வீட்டிற்கு உயிரிழந்த நபர் சில நண்பர்களுடன் சென்று, சகோதரியின் கணவருடன் முரண்பட்டுள்ளார்.
+
+இதன்போது,  கூரிய ஆயதத்தால் தாக்கப்பட்ட குறித்த நபர் கடும் காயங்களுக்குள்ளாகி கோணதுவ பகுதியிலுள்ள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது அவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/40a88534.json)
+
+---
+
+### වනඅලි මරණ වළක්වන්නයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+
+*2024-05-22 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196892) · `si`
+
+නීතිවිරෝධී ලෙස ඇත් දළ අත්පත් කරගැනීමේ අරමුණින් මෙන්ම අලි මිනිස් ගැටුම හේතුවෙන්  දිවයින පුරා සිදුවන අලි ඇතුන්ගේ මරණ වැළැක්වීම සඳහා නිසි වැඩපිළිවෙලක් සකස් කරන ලෙස වනජීවී අධ්‍යක්ෂ ජනරාල්වරයාට හා පොලිස්පතිවරයාට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර ඇත.
+
+පූජ්‍ය ආචාර්ය ඕමල්පේ සෝභිත හිමි,  ජනාධිපති නීතීඥ අනුර මැද්දෙගොඩ, ආචාර්ය අජන්තා පෙරේරා ඇතුළු පාර්ශ්ව  හතක් ඊයේ (21) එම පෙත්සම ගොනුකළහ.
+
+නීතිඥ මංජුල බාලසූරිය මහතා මාර්ගයෙන් ගොනුකළ එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, වනජීවී අමාත්‍ය පවිත්‍රා වන්නිආරච්චි, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන්, මධ්‍යම පරිසර අධිකාරිය, පොලිස්පතිවරයා වනජීවී අධ්‍යක්ෂ ජනරාල්වරයා ඇතුළු 27 දෙනෙකු නම්කර තිබේ.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ නීතිවිරෝධී ලෙස ඇත් දළ අත්පත් කරගැනීමේ අරමුණින් සහ අලි-මිනිස් ගැටුම හේතුවෙන් දිවයින පුරා වාර්ෂිකව සැලකිය යුතු අලි මරණ සංඛ්‍යාවක් වාර්තා වන බවයි.
+
+...
+
+[Data](articles/32156ad1.json)
 
 ---
 
@@ -155,6 +325,20 @@ It has also been reported that the woman has taken steps to provide the necessar
 [Data](articles/848a4a1c.json)
 
 [Extended Data](ext_articles/848a4a1c.ext.json)
+
+---
+
+### ரயில் தடம்புரள்வு : பிரதான மார்க்கத்தில் ரயில் போக்குவரத்தில் தாமதம்
+
+*2024-05-22 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184185) · `ta`
+
+பொத்துஹெர மற்றும் குருணாகல் ரயில்  நிலையங்களுக்கு இடையில் ரயில் தடம் புரண்டதன் காரணமாக பி பிரதான மார்க்கத்தில் ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளது.
+
+குருணாகலிலிருந்து கொழும்பு நோக்கிப் பயணித்த அலுவலக ரயில் ஒன்று இவ்வாறு தடம் புரண்டுள்ளது.
+
+◼️
+
+[Data](articles/7aac49df.json)
 
 ---
 
@@ -2079,201 +2263,5 @@ It is noteworthy that politicians and civilians in this country have expressed t
 [Data](articles/524cafd0.json)
 
 [Extended Data](ext_articles/524cafd0.ext.json)
-
----
-
-### New laws to use uncultivated lands for agricultural purposes: Minister
-
-*2024-05-21 19:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-laws-to-use-uncultivated-lands-for-agricultural-purposes-Minister/108-283073) · `en`
-
-Colombo, May 21 (Daily Mirror)- New laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment, State Minister for Social Empowerment Anupa Pasqual said today.
-
-The State Minister also said that the government has decided to incorporate a Skills or Professional stream into the G.C.E (Ordinary Level) Examination syllabus to promote social empowerment.
-
-He made these remarks during a media briefing under the theme “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) today.
-
-“A fundamental ideology we have advocated is the need for educational system reforms to uplift society. Hence, individuals should not be labelled as failures in examinations solely due to struggles in subjects like Maths, religion or language at the G.C.E (O/L) examinations. Therefore, the government has resolved to integrate skills-based or vocational streams into the G.C.E (O/L) Examination syllabus.
-
-...
-
-[Data](articles/a5cb99b2.json)
-
-[Extended Data](ext_articles/a5cb99b2.ext.json)
-
----
-
-### UN Report urges global justice, sanctions for Sri Lanka’s disappeared victims
-
-*2024-05-21 19:03:00* · [`economynextcom`](https://economynext.com/un-report-urges-global-justice-sanctions-for-sri-lankas-disappeared-victims-164068/) · `en`
-
-ECONOMYNEXT – A new report from the Office of the United Nations High Commissioner for Human Rights (OHCHR) has recommended targeted sanctions on officials responsible for disappearances in Sri Lanka since 1970 and has called for justice outside the country for the families of victims.
-
-Released last week, just before the 15th anniversary of the war’s end and four months ahead of the next UN human rights session where Sri Lanka is likely to face a new resolution, the report has sparked significant attention from rights groups.
-
-The report, titled “Accountability for Enforced Disappearances in Sri Lanka,” urged justice for all Sri Lankan ethnic groups, including Sinhalese and Muslims, during the war and other insurrections, rather than focusing solely on ethnic minority Tamils as in the past.
-
-...
-
-[Data](articles/c1dcec10.json)
-
-[Extended Data](ext_articles/c1dcec10.ext.json)
-
----
-
-### Puttalam District schools to reopen tomorrow
-
-*2024-05-21 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99364/puttalam-district-schools-to-reopen-tomorrow) · `en`
-
-Schools in the Puttalam District are scheduled to reopen tomorrow (22 May) for academic activities, according to the Provincial Director of Education of the North-Western Province.
-
-However, the Zonal Directors of Education have been authorised to decide otherwise depending on the weather conditions, the Provincial Director said.
-
-All schools in the Puttalam District had remained closed yesterday and today (21) owing to adverse weather conditions.
-
-◼️
-
-[Data](articles/a6e2bff0.json)
-
-[Extended Data](ext_articles/a6e2bff0.ext.json)
-
----
-
-### Schools in Puttalam to be opened tomorrow
-
-*2024-05-21 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196876) · `si`
-
-Due to heavy rain from the active southwest monsoon, schools in Puttalam were closed today but will reopen tomorrow. The decision rests with local education authorities.
-
-🟩
-
-As the southwest monsoon is active, heavy rains more than many areas.
-
-However, the schools in the district is to be opened again tomorrow (22).
-
-Are schools open in the affected areas?Not?Authorities says that the directors of the Zonal Education have been entrusted with the authority to decide.
-
-◼️
-
-[Data](articles/8c45fa03.json)
-
-[Extended Data](ext_articles/8c45fa03.ext.json)
-
----
-
-### Adverse weather affects daily chores
-
-*2024-05-21 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adverse-weather-affects-daily-chores/110-283059) · `en`
-
-People engaged in their daily chores have been affected by the adverse weather. Depicted here are individuals working in Pettah suffering due to the adverse conditions as several roads in the Fort area experienced minor flooding. Pix by Nisal Baduge and Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/277b24d0.json)
-
-[Extended Data](ext_articles/277b24d0.ext.json)
-
----
-
-### Reflections On Solar Consciousness & Unity: A Message For Vesak Day 2024
-
-*2024-05-21 18:30:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-solar-consciousness-unity-a-message-for-vesak-day-2024/) · `en`
-
-As we celebrate Vesak Day on May 23, 2024, reflecting on the recent past, notably April 14, offers us a profound connection to our cultural and spiritual heritage. This day, commemorated by Sinhalese and Tamils in Sri Lanka and by many others across India and other countries, marks the Solar New Year, when the Sun transitions from Pisces to Aries. This celestial shift is deeply rooted in the concept of solar consciousness, a vital element in the ancient traditions of Sri Lanka.
-
-The significance of Rāvanā in the context of solar consciousness cannot be overstated. Seen as the last of the ancient solar beings, Rāvanā’s name itself, deriving from ‘Rā,’ connects him to the Sun, symbolizing his divine origin and his influence on the region’s mythological history. The celebration of the Solar New Year on April 14 ties back to these narratives, emphasizing rebirth and renewal, themes that are equally relevant as we observe Vesak.
-
-...
-
-[Data](articles/c5ba8e9b.json)
-
-[Extended Data](ext_articles/c5ba8e9b.ext.json)
-
----
-
-### 5 families in Jaffna due to continuous rains
-
-*2024-05-21 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184170) · `ta`
-
-Continuous rains in Jaffna have affected 15 individuals across five families, damaging homes and structures in various divisions.
-
-🟩
-
-RN Suriyarajah, Deputy Director of the Jaffna District Disaster Management Division, said that 15 people from five families in Jaffna have been affected by the continuous rains.
-
-In the J/91 Grama Niladhari Division of the Nallur Divisional Secretariat, four members of a family have been affected and a house has been damaged.
-
-A member of a family in the J/33 Grama Niladhari Division, which belongs to the Velanai Divisional Secretariat, has been damaged.. The basic structure of the J/26 Grama Niladhari Division and the J/21 Grama Niladhari Division has been damaged.
-
-Two members of a family have been affected and a house has been partially damaged in the J/232 Grama Niladhari Division, which belongs to the Tellippalai Divisional Secretariat Division.
-
-Two members of a family have been affected and a house has been partially damaged in the J/166 Grama Niladhari Division of the Jaffna Divisional Secretariat Division.
-
-...
-
-[Data](articles/a94ba62c.json)
-
-[Extended Data](ext_articles/a94ba62c.ext.json)
-
----
-
-### In India, we will work together - Foreign Minister Ali Sabri
-
-*2024-05-21 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184169) · `ta`
-
-Foreign Minister Ali Sabri emphasizes India-Sri Lanka cooperation, highlighting shared interests and the opening of the IRC Ratnadeepa Star Hotel in Colombo to boost tourism. He expresses readiness to work with any Indian government post-elections, emphasizing the importance of bilateral ties and economic growth for both nations.
-
-🟩
-
-External Affairs Minister Ali Sabri has said that the Indian Lok Sabha elections are the internal affairs of the country and the power to decide the Indians, saying that he is ready to work with any government elected by the people.
-
-Minister Ali Sabri said in an interview with an Indian media. In it he added:
-
-There is a long -standing versatile cooperation between Sri Lanka and India. We work together to advance the common mutual interests for both countries. IRC Ratnadeepa Star Hotel has been opened in Colombo. This will create opportunities for many Indians to visit Sri Lanka. Similarly, we are looking for more investments in the port, renewable strength and infrastructure facilities. India is walking towards 'economic prosperity'. It will benefit the region and countries like Sri Lanka.
-
-...
-
-[Data](articles/4febd692.json)
-
-[Extended Data](ext_articles/4febd692.ext.json)
-
----
-
-### Passenger killed, 30 injured as Singapore Airlines flight hits severe turbulence
-
-*2024-05-21 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99363/passenger-killed-30-injured-as-singapore-airlines-flight-hits-severe-turbulence) · `en`
-
-(Reuters) - One passenger was killed and 30 injured after a Singapore Airlines flight from London hit severe turbulence en route on Tuesday, forcing it to make an emergency landing in Bangkok, officials and the airline said.
-
-“Singapore Airlines offers its deepest condolences to the family of the deceased. We deeply apologise for the traumatic experience that our passengers and crew members suffered on this flight,” the airline said, adding it was working with Thai authorities to provide all necessary assistance.
-
-One male passenger died, Kittipong Kittikachorn, Director of Bangkok’s Suvarnabhumi airport, told Reuters. Eighteen people have been hospitalised and 12 are being treated in hospitals, Singapore Airlines said.
-
-...
-
-[Data](articles/559d2a47.json)
-
-[Extended Data](ext_articles/559d2a47.ext.json)
-
----
-
-### Foreign Minister Ali Sabri goes back to Iran
-
-*2024-05-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196875) · `si`
-
-Foreign Minister Ali Sabri returns to Iran for the funeral of their president, killed in a helicopter crash. Sri Lankan politicians offer condolences at the Iranian embassy.
-
-🟩
-
-The funeral of Iranian President, who was killed in helicopter crash, has commenced its funeral.
-
-Foreign Minister Ali Sabri is due to leave the island this night to attend the Iranian funeral ceremony.
-
-Sri Lankan politicians including the President of Iranian have expressed their condolences at the Iranian embassy in Sri Lanka.
-
-◼️
-
-[Data](articles/82f95e9c.json)
-
-[Extended Data](ext_articles/82f95e9c.ext.json)
 
 ---

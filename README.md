@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 09:04:01**
+As of **2024-05-22 09:34:03**
 
 ## Newspaper Stats
 
-*Scraped **25,604** Articles*
+*Scraped **25,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
-adalk | 2,194
+adalk | 2,195
 adaderanalk | 2,949
-tamilmirrorlk | 2,984
+tamilmirrorlk | 2,989
 virakesarilk | 3,876
 dailymirrorlk | 4,022
 adaderanasinhalalk | 4,091
@@ -26,35 +26,127 @@ adaderanasinhalalk | 4,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,597 (100.0%) of 25,604 articles have been extended.
+25,609 (100.0%) of 25,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### කොල්කටා කණ්ඩායම අවසන් තරගයට
+### போதைப்பொருள் கடத்தல்காரர்களால் இலங்கைக்கு அனுப்பப்பட்ட பெண்
+
+*2024-05-22 09:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-கடத்தல்காரர்களால்-இலங்கைக்கு-அனுப்பப்பட்ட-பெண்/175-337675) · `ta`
+
+கொக்கேய்ன் போதைப்பொருள் தொகையுடன் பிலிப்பைன்ஸ் பெண் ஒருவர் கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து சுங்கப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+​​அவரிடம் இருந்து  200 மில்லியன் ரூபாவுக்கும் அதிகமான  2 கிலோ 851 கிராம் கொக்கெய்ன் கண்டுபிடிக்கப்பட்டது.
+
+இந்த பெண் எத்தியோப்பியாவின் அடிஸ் அபாபாவிலிருந்து தோஹா - கட்டார் ஊடாக நாட்டுக்கு வந்துள்ளதாக மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+அவர் தனது சூட்கேஸில் மிளகாய் தூள், மஞ்சள் தூள் மற்றும் கோதுமை மா அடங்கிய 03 பொதிகளுடன் கொக்கைன் போதைப்பொருள் அடங்கிய 03 பொதிகளையும் மறைத்து வைத்திருந்தார்.
+
+சந்தேகநபரான பெண்ணின் நண்பியின் ஊடாக போதைப்பொருள் கடத்தல்காரர்களால்  குறித்த போதைப்பொருள் இலங்கைக்குள் அனுப்பப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+
+மேலும், போதைப்பொருள் கடத்தல்காரர்களால், குறித்த பெண் 5 நாட்களுக்கு இலங்கையில் உள்ள சுற்றுலா ஹோட்டல்களில் தங்குவதற்கு தேவையான வசதிகளை செய்து தருவதற்கு தேவையான நடவடிக்கைகளையும் எடுத்துள்ளதாக மேலும் தகவல் வெளியாகியுள்ளது. R
+
+◼️
+
+[Data](articles/848a4a1c.json)
+
+---
+
+### Kolkata team to final
 
 *2024-05-22 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196891) · `si`
 
-IPL ක්‍රිකට් තරගාවලියේ අවසන් වටයේ පළමු තරගයෙන් ජය හිමිකරගත් කොල්කටා කණ්ඩායම අවසන් මහා තරගයේ තම ස්ථානය තහවුරු කරගත්තේය.
+Kolkata Knight Riders advanced to the IPL final after defeating Sunrisers Hyderabad, securing their fourth appearance in the championship. Rahul Tripathi and Henrich Klaassen contributed significantly with their batting, scoring 55 and 32 runs respectively. Mitchell Starc and Venkatesh Iyer led the bowling attack, taking 3 and 2 wickets respectively. The match concluded with Kolkata setting up a clash against either Rajasthan Royals or Royal Challengers Bangalore in the final.
 
-අහමදාබාද්හි පැවති එම තරගයේ කාසියේ වාසියේ දිනූ හයිද්‍රාබාද් කණ්ඩායම පළමුව පන්දුවට පහර දීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පිටියට පිවිසි සන්රයිසස් කණ්ඩායමේ පළමු කඩුලු 4 ලකුණු 39කදී දවා ගැනීමට කොල්කටා කණ්ඩායම සමත්විය.
+The IPL won the first round of the IPL cricket tournament established its place in the final.
 
-පස්වන කඩුල්ල වෙනුවෙන් පිටියට එක්වූ රාහුල් ත්‍රිපති සහ හෙන්රිච් ක්ලාසන් එක්ව ලකුණු 62ක සබඳතාවක් ගොඩනැගුවේ හයිද්‍රාබාද් ලකුණු පුවරුවට ශක්තියක් ගෙන දෙමිනි.
+The Hyderabad, who was in the advantage of the coin, was to bat first.
 
-රාහුල් ත්‍රිපති පන්දු 35කදී ලකුණු 55ක් රැස්කළ අතර හෙන්රිච් ක්ලාසන් ලකුණු 32ක් රැස්කරගත්තේය.
+Accordingly, the Kolkata took over the first 4 wicket 4 runs in the Sunrisons team.
 
-කෙසේවෙතත් සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමට පන්දුවාර 19 යි පන්දු 3කදී සියලුදෙනා දැවි රැස්කරගත හැකිවූයේ ලකුණු 159කි.
+Rahul Tripathi and Hynrich Clayan, who joined the fifth wicket, and Hyderabad strengthening the Hyderabad score board.
 
-මිචෙල් ස්ටාර්ක් ලකුණු 34 ට කඩුලු 3 ක් දවාගත් අතර වරුන් චක්‍රවර්ති ලකුණු 26කට කඩුලු 2 ක් දවාගත්තේය..
+Rahul Triinia scored 55 runs in 35 balls and Henryich Clayan scored 32 runs.
 
-ලකුණු 160ක ජයග්‍රාහි ඉලක්කයක් හඹායෑමට පිටියට පිවිසි කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමේ පළමු කඩුලු දෙක ලකුණු 67කදී දවාගැනීමට හයිද්‍රාබාද් පන්දු යවන්නන් සමත්විය.
+However, Sunrisers Hyderabad was 159 runs in 19 overs.
+
+Mitchell Stark took 3 wickets for 34 runs while the Ventun Chakravarti took 2 wickets for 26 runs.
+
+Hyderabed bowlers were able to rescue the first two wickets in the Kolkata Knight Riders of the Kolkata Knight Riders of Kolkata Knight Riders.
+
+Nevertheless, Wenkh Iire and Leader Sitas Ayer joined the Kolkar team to protect and victory.
+
+Wenckey Iire scored 51 runs in 28 balls with 58 runs in 24 balls.
+
+Accordingly, Kolkata Knight Riders were able to qualify for the finals of the Indian Premier League.
 
 ...
 
 [Data](articles/9a6d6e11.json)
+
+[Extended Data](ext_articles/9a6d6e11.ext.json)
+
+---
+
+### Thundershowers, heavy winds blow.. Be observed
+
+*2024-05-22 08:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337673) · `ta`
+
+Heavy rains exceeding 150mm forecasted in Western & Sabaragamuwa provinces, Kandy, and Nuwara Eliya. Rainfall and winds due to south-westerly conditions expected nationwide. Thunderstorms possible in Central, Northwest, Southern, and Northern provinces. Strong winds up to 50km/h in Central Highlands and Southern Province, 30-40km/h elsewhere. Public urged to prepare for potential lightning strikes.
+
+🟩
+
+The Department of Meteorology has predicted more than 150 mm of heavy rainfall in some areas in the Western and Sabaragamuwa Provinces and Kandy and Nuwara Eliya districts.
+
+The Department of Meteorology has said that the current rainfall and wind condition will continue due to the gradual condition of the south -wing situation across the country.
+
+The Department further notes that rainfall or thunderstorms can occur in the Central, Northwest, Southern and Northern Provinces from time to time.
+
+Meanwhile, rain or thunderstorms are likely in other parts of the island.
+
+In the western slopes of the Central Highlands and the Southern Province, there is a possibility that somewhat strong winds are at speeds of up to 40-50 km / h.. Other parts of the country can occasionally blow up to 30-40 kilometers per hour.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
+
+[Data](articles/41e89c6a.json)
+
+[Extended Data](ext_articles/41e89c6a.ext.json)
+
+---
+
+### Duranti winner in Italian GT 4 series
+
+*2024-05-22 08:23:43* · [`adalk`](https://www.ada.lk/sports/ඉතාලි-ජී-ටි-4-තරගාවලියේ-ජය-ඩිිලන්තට/9-409776) · `si`
+
+Duranti won the Italian GT 4 series, making history as the first Sri Lankan and Asian participant in the prestigious event, which attracted racers from 30 countries across Europe and America. Dilantha Malaragamuwa, representing Sri Lanka, competed against 50 high-performance vehicles, aiming to bring glory to his country through the championship ending in 2024.
+
+🟩
+
+World Championships, Sri Lankan Motor Traffic Dilagantha arrived at the Katunayake Airport on 05/22 days in Italy.
+
+Speaking to journalists at the airport, Mr. Dilantha Malaragamuwa said:
+
+"I was the only Sri Lankan who participated in this tournament and the only Asian. The tournament is the biggest motor race in Europe and was covered with car racing in 30 countries. Most of them represent the European and American continents.
+
+50 cars were attended by two drivers for each of the vehicle.
+
+The tournament was one of the most powerful and advanced cars in the world, and I was a MMG - GT. "Used a 4 type car" .It said.
+
+The winners of the World Championship will be selected at the end of 2024 and there are 12 more motor races.. He added that four more motorcies are to be held in the next month, he added that his only prospect was to win the championship tournament and bringing a reputation to Sri Lanka.
+
+He had arrived at the Katunayake Airport on the 662 airport on the morning of 05/22.
+
+◼️
+
+[Data](articles/f96a1f28.json)
+
+[Extended Data](ext_articles/f96a1f28.ext.json)
 
 ---
 
@@ -112,6 +204,8 @@ He is also expected to work with intellectuals and prominent personalities durin
 
 [Data](articles/d1b146b7.json)
 
+[Extended Data](ext_articles/d1b146b7.ext.json)
+
 ---
 
 ### Political parties brace for polls
@@ -127,6 +221,8 @@ A top official of the SLPP said it will have 12,000 each by the party’s villag
 ...
 
 [Data](articles/394c46f4.json)
+
+[Extended Data](ext_articles/394c46f4.ext.json)
 
 ---
 
@@ -624,6 +720,8 @@ The national food prices rose by 3.3 percent in the year through April, slowing 
 
 [Data](articles/0b9c059d.json)
 
+[Extended Data](ext_articles/0b9c059d.ext.json)
+
 ---
 
 ### Common transportation to persons with disabilities is 'desired'?
@@ -698,6 +796,48 @@ He has also been born to Tikiri Kumara Jayawardene, which is used in full-time w
 
 ---
 
+### Legal Rules regarding non -cultivated landlords
+
+*2024-05-22 02:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயிரிடப்படாத-நிலங்கல்-தொடர்பில்-சட்ட-விதிகள்/175-337672) · `ta`
+
+The Minister of Social Empowerment announced new laws to cultivate unused lands, emphasizing land's societal importance. He also advocated for pensions and contributions for self-employed individuals from both state and private sectors to bolster the nation.
+
+🟩
+
+Minister of Social Empowerment Anubhaskwal said that as the land is a major factor for social reinforcement, new laws are being introduced to use unaccounted lands for cultivation.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Land is a major factor to strengthen society. Therefore, efforts are being made to introduce new laws to use the land that has not yet been cultivated.
+
+And our position is that everyone should be given pensions to strengthen the entire country. To that end, we recommend that contributions be given to all self -employed persons not only by the state and private sector.. (A)
+
+◼️
+
+[Data](articles/a40bba48.json)
+
+[Extended Data](ext_articles/a40bba48.ext.json)
+
+---
+
+### Israel attack on Gaza: 85 killed
+
+*2024-05-22 02:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மீது-இஸ்ரேல்-தாக்குதல்-85-பேர்-பலி/50-337671) · `ta`
+
+In a tragic event, Israel's attack on Gaza resulted in the deaths of 85 individuals yesterday.
+
+🟩
+
+Israel's attack on Gaza was killed yesterday by 85 people.
+
+◼️
+
+[Data](articles/5cfd35b5.json)
+
+[Extended Data](ext_articles/5cfd35b5.ext.json)
+
+---
+
 ### Dengue mosquito spread
 
 *2024-05-22 02:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நுளம்பு-பரவல்-அதிகரிப்பு/175-337670) · `ta`
@@ -735,6 +875,8 @@ Several key stakeholders pointed out that the MRR would unfairly favour certain 
 ...
 
 [Data](articles/211ae648.json)
+
+[Extended Data](ext_articles/211ae648.ext.json)
 
 ---
 
@@ -1131,6 +1273,38 @@ From them, the cell phone, the two -country currency notes and the flag of the I
 [Data](articles/23224b27.json)
 
 [Extended Data](ext_articles/23224b27.ext.json)
+
+---
+
+### Shocking information about ISIS Sri Lankans trapped in India
+
+*2024-05-21 23:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இந்தியாவில்-சிக்கிய-ISIS-இலங்கையர்கள்-குறித்து-அதிர்ச்சி-தகவல்கள்-வெளியாகின/150-337666) · `ta`
+
+ISIS terrorists from Sri Lanka, including a leader linked to Pakistan, were arrested at Ahmedabad airport in India, planning a suicide attack. They were caught with ISIS flags and cash, indicating their intent and funding source. Their arrest follows a tip-off and investigation revealing plans to hide weapons near Ahmedabad. Legal proceedings are underway based on evidence found during their arrest.
+
+🟩
+
+Gujarat police say that four Sri Lankan ISIS terrorists who were arrested at the Ahmedabad International Airport in India were also ready to carry out a suicide attack.
+
+Four Sri Lankan people from Sri Lanka to Ahmedabad were arrested on Sunday night at the Ahmedabad Sardar Patel International Airport.
+
+They were arrested by the Gujarat Terrorist Force and presented at a press conference yesterday afternoon.
+
+Accordingly, a 33 -year -old man, Mohamed Nusrat, has been identified as a native of Negombo.
+
+Mohamed Nafran, 27, from Colombo, 43 -year -old Mohamed Rashin and 35 -year -old Mohamed Farish are the other terrorists arrested.
+
+They are reportedly traveling from the country to Ahmedabad by Indigo Airlines.
+
+All four terrorists who used only the Tamil language were investigated by the translator.
+
+From them, the cell phone, the two -country currency notes and the flag of the ISIS have been discovered from one's travel package.
+
+...
+
+[Data](articles/eecb3a7e.json)
+
+[Extended Data](ext_articles/eecb3a7e.ext.json)
 
 ---
 
@@ -2101,135 +2275,5 @@ On the instructions of the Prime Minister of Thailand, the Minister said on his 
 [Data](articles/973d2306.json)
 
 [Extended Data](ext_articles/973d2306.ext.json)
-
----
-
-### Here is the amount of money received by wishes
-
-*2024-05-21 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196874) · `si`
-
-Sri Lanka's cricketer Wishes was bought at the LPL player auction for a significant sum.
-
-🟩
-
-Sri Lanka's superfiscker was purchased at the LPL's superfice at auction at the player auction.
-
-◼️
-
-[Data](articles/3f3ba2e7.json)
-
-[Extended Data](ext_articles/3f3ba2e7.ext.json)
-
----
-
-### Wijayadasa's petition again for examination
-
-*2024-05-21 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196873) · `si`
-
-Wijayadasa Rajapaksa's appeal petition, regarding his appointment as SLFP Chairman, was heard by the High Court of Appeals. The case, initially dismissed by the Colombo District Court, was reconsidered due to legal issues with the complaint process. The court is expected to make a final decision tomorrow.
-
-🟩
-
-MP Duminda Dissanayake as the Chairman of the Sri Lanka Freedom Party (SLFP) as the Chairman of the Sri Lanka Freedom Party (SLFP) as a decision filed by MP Keerthi Udawatta as a verdict on a decision filed by the Colombo District Court today (21)The Western Province civil Appeal was taken back to the High Court.
-
-The Court of Justice Wijayadasa Rajapaksa had presented the appeal petition.
-
-The petition was recalled before the High Court of Appeals, Gihan Kulathunga and Frank Gunawardena today.
-
-Mr. Kulera de Zoysa has decided to be the accused by the District Judge and Mahinda Amaraweera, who was filed before the Colombo District Court, was not residents of the Colombo District Court.He pointed out that it was refused.
-
-The President's Counsel has pointed out that the District Judge has completely contracted the law to permit the amendment of the complaint without rejecting the complaint.
-
-...
-
-[Data](articles/24e31a23.json)
-
-[Extended Data](ext_articles/24e31a23.ext.json)
-
----
-
-### One dead as London-Singapore flight hit by turbulence
-
-*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-dead-as-London-Singapore-flight-hit-by-turbulence/108-283071) · `en`
-
-May 21 (BBC)- One person has been killed and several others injured on a Singapore Airlines flight from London that was hit by severe turbulence.
-
-The Singapore-bound Boeing 777-300ER was diverted to Bangkok and landed at 15:45 local (08:45 GMT).
-
-Flight SQ 321 was carrying a total of 211 passengers and 18 crew, the airline said in a statement.
-
-"Singapore Airlines offers its deepest condolences to the family of the deceased," it said.
-
-The airline added that it was working with Thai authorities to provide medical assistance to passengers, and was sending a team to Bangkok to provide any additional help needed.
-
-Thai authorities have despatched ambulances and emergency teams to Suvarnabhumi Airport.
-
-Singapore's Transport Minister Chee Hong Tat said the government would provide assistance to the passengers and their families.
-
-"I am deeply saddened to learn about the incident onboard Singapore Airlines flight SQ321 from London Heathrow to Singapore," he posted in a statement on Facebook.
-
-...
-
-[Data](articles/209cbd19.json)
-
-[Extended Data](ext_articles/209cbd19.ext.json)
-
----
-
-### Chongqing Airlines resumes flights from June 24
-
-*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chongqing-Airlines-resumes-flights-from-June-24/108-283072) · `en`
-
-Colombo, May 21 (Daily Mirror) - Chongqing Airlines will resume operations between Chongqing, China and Colombo from June 24, the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said.
-
-The airline last operated in February 2020 anda ceased operations due to the global pandemic.
-
-◼️
-
-[Data](articles/3833afc1.json)
-
-[Extended Data](ext_articles/3833afc1.ext.json)
-
----
-
-### One dead as London-Singapore flight hit by turbulence
-
-*2024-05-21 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/One-dead-as-London-Singapore-flight-hit-by-turbulence/107-283071) · `en`
-
-May 21 (BBC)- One person has been killed and several others injured on a Singapore Airlines flight from London that was hit by severe turbulence.
-
-The Singapore-bound Boeing 777-300ER was diverted to Bangkok and landed at 15:45 local (08:45 GMT).
-
-Flight SQ 321 was carrying a total of 211 passengers and 18 crew, the airline said in a statement.
-
-"Singapore Airlines offers its deepest condolences to the family of the deceased," it said.
-
-The airline added that it was working with Thai authorities to provide medical assistance to passengers, and was sending a team to Bangkok to provide any additional help needed.
-
-Thai authorities have despatched ambulances and emergency teams to Suvarnabhumi Airport.
-
-Singapore's Transport Minister Chee Hong Tat said the government would provide assistance to the passengers and their families.
-
-"I am deeply saddened to learn about the incident onboard Singapore Airlines flight SQ321 from London Heathrow to Singapore," he posted in a statement on Facebook.
-
-...
-
-[Data](articles/919df7f8.json)
-
-[Extended Data](ext_articles/919df7f8.ext.json)
-
----
-
-### Mental Therapy
-
-*2024-05-21 17:14:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mental-therapy/) · `en`
-
-The month of Vesak holds profound significance, marking the triple blessed day when, over 2,600 years ago, Lord Buddha’s Birth, Enlightenment, and Passing away Occurred. Each year, Buddhists worldwide come together to celebrate this momentous occasion, paying heartfelt gratitude and homage to Lord Buddha for his timeless teachings and unparalleled contributions to humanity. This is an endeavour to share a drop of the most noble Dhamma, as uttered by Lord Buddha, for the benefit of all humanity.
-
-...
-
-[Data](articles/cf42a755.json)
-
-[Extended Data](ext_articles/cf42a755.ext.json)
 
 ---

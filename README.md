@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 22:18:30**
+As of **2024-05-22 22:34:04**
 
 ## Newspaper Stats
 
-*Scraped **25,766** Articles*
+*Scraped **25,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 2,966
 tamilmirrorlk | 3,003
 virakesarilk | 3,911
 dailymirrorlk | 4,052
-adaderanasinhalalk | 4,116
+adaderanasinhalalk | 4,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,766 (100.0%) of 25,766 articles have been extended.
+25,766 (100.0%) of 25,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ The President emphasized the government’s commitment to the welfare of retired
 [Data](articles/ebec6890.json)
 
 [Extended Data](ext_articles/ebec6890.ext.json)
+
+---
+
+### සමාජ මාධ්‍ය කැලඹූ වීඩියෝවේ ඇත්ත මෙන්න
+
+*2024-05-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196918) · `si`
+
+අවිස්සාවේල්ල සිට ගලිගමුව දක්වා ධාවනය වෙමින් පැවති ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමේ පොලිස් නිලධාරිනියක් සහ රියදුරෙකු අතර වූ මතභේදාත්මක කතාබහක් සහිත වීඩියෝවක් සමාජ මාධ්‍යජාලවල මේ වනවිට සංසරණය වෙයි.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පැවසුවේ, එම වීඩියෝව සංස්කරණය කරන ලද්දක් බවය.
+
+පින්දෙණිය පොලීසියේ සේවයේ නියුතු පොලිස් නිලධාරිනියක සහ ත්‍රීරෝද රථ රියදුරෙකු අතර මෙම සිද්ධිය ඇතිවී තිබුණි.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා,
+
+රියදුරු වශයෙන් සිට ඇත්තේ තවත් පුද්ගලයෙක්. අදායම් බලපත්‍රයේ සහ රක්ෂණ සහතිකයේ ලිපිනයද වෙනස්. රියදුරු තවත් ප්‍රදේශයක පදිංචිකරුවෙක්. මේ කරුණු නිසා නිලධාරීන්ට සැකයක් මතුවෙලා. රථයේ හිමිකාරීත්වය පවරා නොගැනීම සම්බන්ධයෙන්. අධිකරණයේ නියෝගය පරිදි රු. 5,000ක දඩයක් ගෙවීමට සිදුවුණි."
+
+◼️
+
+[Data](articles/d714336d.json)
 
 ---
 
@@ -2283,31 +2303,5 @@ Police said the suspect was arrested following an investigation after a petition
 [Data](articles/56a79512.json)
 
 [Extended Data](ext_articles/56a79512.ext.json)
-
----
-
-### Ali Sabri participates in the funeral of Iran
-
-*2024-05-22 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184211) · `ta`
-
-Ali Sabri, Sri Lanka's External Affairs Minister, attended the funeral of Iranian President Ibrahim Raisi, highlighting strong bilateral ties between the two nations.
-
-🟩
-
-External Affairs Minister Ali Sabri visited Iran on Tuesday (21) to attend the funeral of Iranian President Ibrahim Raisi.
-
-The Ministry of External Affairs has said that the high -level committee headed by Minister Ali Sabri has traveled to attend the funeral of Iran's late President Ibrahim Raisi and External Affairs Minister Amir Abdullahian to be held on Wednesday (22).
-
-Minister Ali Sabri will present President Ranil Wickremesinghe's condolence message to Iran's spiritual leader Ayatullah Ali Komini.
-
-It is noteworthy that the late Iranian President and Foreign Minister visited Sri Lanka last month, reflecting close and smooth bilateral relations with Sri Lanka.
-
-It is noteworthy that the final tribute event of Iranian President Ibrahim Raisi will be held today (22) in Iran's Tabris.
-
-◼️
-
-[Data](articles/59fe0c81.json)
-
-[Extended Data](ext_articles/59fe0c81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 08:18:29**
+As of **2024-05-22 08:52:51**
 
 ## Newspaper Stats
 
-*Scraped **25,595** Articles*
+*Scraped **25,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
-adalk | 2,193
+adalk | 2,194
 adaderanalk | 2,949
 tamilmirrorlk | 2,984
 virakesarilk | 3,876
 dailymirrorlk | 4,016
-adaderanasinhalalk | 4,089
+adaderanasinhalalk | 4,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,591 (100.0%) of 25,595 articles have been extended.
+25,595 (100.0%) of 25,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### ගුවන් යානයක ජීවිතයක් බිලිගනිමින් සිදුවූ අනතුර
+
+*2024-05-22 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196890) · `si`
+
+ලන්ඩනයේ සිට සිංගප්පූරුව බලා පියාසර කරමින් තිබූ ගුවන් යානයකදී මියගිය පුද්ගලයා ගැන තොරතුරු අනාවරණය වී තිබේ.
+
+ගුවන් යානය තුළ ඇතිවූ මෙම කැලඹිලිසහගත තත්ත්වය හේතුවෙන් තවත් ගුවන් මගීන්  71 දෙනෙකු තුවාල ලබා ඇත.
+
+මැලේසියාව, එක්සත් රාජධානිය, නවසීලන්තය, ස්පාඤ්ඤය, එක්සත් ජනපදය සහ අයර්ලන්තය යන රටවල පුරවැසියන් මෙලෙස තුවාල ලබා තිබේ.
+
+ඉන් ගුවන් මගීන් 7 දෙනෙකුගේ තත්ත්වය බරපතළ බවද විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+මෙම තත්ත්වය ඇතිවන අවස්ථාවේ එම යානයේ මගීන්  211 දෙනෙකු සහ කාර්ය මණ්ඩලය 18 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+විදෙස් වාර්තා සඳහන් කළේ මෙම තත්ත්වයෙන් පසුව බොයිං වර්ගයේ මෙම ගුවන් යානය බැංකොක් වෙත හරවා යවා ඇති බවය.
+
+ගුවන්යානය හදිසි ගොඩබෑමකට අවසර ඉල්ලා ඇති අතර ගොඩබෑමට මිනිත්තු 10කට පෙර මෙම අනතුර සිදුව ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+මගීන් 211 දෙනාගෙන් 131 දෙනෙකු පසුව සිංගප්පූරු ගුවන් සේවයට අයත් වෙනත් යානයකින් ගමනාන්තය වෙත යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/5a54190d.json)
+
+---
 
 ### Trains delayed on main line due to derailment
 
@@ -43,6 +69,8 @@ An office train plying from Kurunegala to Colombo had derailed in this manner di
 ◼️
 
 [Data](articles/ffa03b9d.json)
+
+[Extended Data](ext_articles/ffa03b9d.ext.json)
 
 ---
 
@@ -63,6 +91,8 @@ Strong winds about 40-50 kmph at times are possible in the western slope of the 
 ...
 
 [Data](articles/a2a5f251.json)
+
+[Extended Data](ext_articles/a2a5f251.ext.json)
 
 ---
 
@@ -211,6 +241,8 @@ Whatever else they possessed, they were told, had been earned in Tamil Eelam and
 ...
 
 [Data](articles/935e8f59.json)
+
+[Extended Data](ext_articles/935e8f59.ext.json)
 
 ---
 
@@ -502,25 +534,75 @@ At a press conference following a landmark judgement where the Supreme Court rul
 
 ---
 
-### ආබාධ සහිත පුද්ගලයින්ට පොදු ප්‍රවාහනය ‘අකැප’ ද?
+### Common transportation to persons with disabilities is 'desired'?
 
 *2024-05-22 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjlleegyy40o) · `si`
 
-සිතු සේ රිසි තැන බස් රථයක, දුම්රියක හෝ කුලී රථයක නැග බොහෝ දෙනෙකුට ගමන් කළ හැකි වුව ද, තමා සිටින ස්ථානයෙන් ඉවතට පැමිණීම පිළිබඳව එක් වරක් නොව, සිය දහස් වාරයක් සිතිය යුතු පුද්ගලයින් පිරිසක් ඔබ අතර ම සිටින බව ඔබ දැන සිටියා ද?
+It seems like you've shared a detailed account of discussions and concerns related to accessibility issues in public transportation systems, particularly focusing on the experiences and challenges faced by individuals with disabilities in Sri Lanka. This includes issues such as inadequate seating arrangements, lack of priority access, and the overall neglect of accessibility standards in public transport.
 
-"හුදු වචන වෙනස් කරා කියල විතරක් ආකල්ප වෙනසක් ඇති කරන්න බැහැ. මොක ද ඒ වචන වෙනස් කරා කියලා මිනිස්සුන්ට ඒක දැනේනෙත් නැහැ," යන්න ඉසුරු මහේෂ් පණ්ඩිතගේ ගේ  අදහසයි.
 
-ඉසුරු යනු, මෙම ලිපිය සඳහා අප වෙත හේතු කාරණා සැපයූ ආබාධ සහිත තැනැත්තන් දෙදෙනාගෙන් කෙනෙකි.
 
-දෘශ්‍යාබාධිත තත්ත්වයකින් පෙළෙන ඔහු වෘත්තීයෙන් නීතිඥවරයෙකි. ආබාධ සහිත පුද්ගලයින්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන ක්‍රියාකාරිකයෙකු මෙන් ම රාජ්‍ය නොවන සංවිධාන සමග ස්වාධීන පර්යේෂකයෙකු ලෙස සහ නීතිය පිළිබඳ පුහුණු වැඩසටහන් ක්‍රියාත්මක කරන්නෙකු ලෙස ඔහු කටයුතු කරයි. ඉසුරු උපන්නේ ගාල්ලේදී ය.
+From the narrative, several key points emerge:
 
-උපතින් අබාධ සහිත තැනැත්තෙකු වීම හේතුවෙන් පූර්ණකාලීනව රෝද පුටු භාවිත කරන ටිකිරි කුමාර ජයවර්ධන බිබිලේ උපන්න ද ඔහු ද මේ වන විට ඉසුරු මෙන් කොළඹට පැමිණ ඇත්තේ, තම වෘත්තීය නිසා ය.
 
-'අන්ධ නිසා වාහනයක් අතගාන්න නොදුන් අය දැන් වාහන හදාගන්න මගේ ළඟට එනවා'
+
+1. **Accessibility Challenges**: Individuals with disabilities face significant barriers in accessing public transportation, including difficulty in boarding and disembarking, lack of designated seating, and insufficient space for mobility aids.
+
+
+
+2. **Government Response**: There appears to be a disconnect between the government's intentions (as indicated by the allocation of funds and the establishment of committees) and the actual implementation of accessible transportation solutions. The narrative suggests that while efforts have been made, they may not be sufficient or effectively addressing the core issues.
+
+
+
+3. **Community Engagement**: The involvement of individuals like Isuru and Tikiri highlights the importance of personal stories and advocacy in bringing attention to these issues. Their firsthand experiences underscore the urgency of improving accessibility in public transportation.
+
+
+
+4. **Future Directions**: Suggestions for improvement include the introduction of specialized buses for individuals with disabilities, better training for drivers and conductors, and the integration of technology (like information centers and screens) to enhance navigation and communication for passengers with disabilities.
+
+
+
+5. **International Standards and Collaboration**: The mention of international conferences and the revision of local regulations to align with international standards indicates a broader recognition of the need for accessible transportation. Collaborative efforts, such as those involving the Indian High Commission, show potential pathways for addressing these challenges.
+
+
+
+To address these issues comprehensively, a multifaceted approach would likely be necessary. This could involve:
+
+
+
+- **Policy Reform**: Ensuring that laws and regulations are not only in place but actively enforced to mandate accessibility in public transportation.
+
+- **Infrastructure Development**: Investing in infrastructure that supports the needs of individuals with disabilities, including accessible entryways, seating areas, and restrooms.
+
+- **Education and Training**: Providing education and training for transportation staff to ensure they are equipped to assist passengers with disabilities.
+
+- **Technology Integration**: Utilizing technology to improve accessibility, such as real-time information systems and communication tools for passengers with hearing impairments.
+
+- **Community Engagement**: Continuously engaging with communities affected by these issues to gather feedback and advocate for improvements.
+
+
+
+Addressing accessibility in public transportation is a complex issue that requires sustained effort and collaboration across various sectors. It's clear that while progress has been made, there remains much work to be done to ensure that everyone, regardless of ability, can safely and comfortably use public transportation in Sri Lanka.
+
+🟩
+
+Even though you are in a train, train or taxi, and many people can travel in a bus, and many people can travel from the place, do you know that there are people who have to think of hundreds of times to be a hundred times.
+
+"It is impossible to change only to change just words. People don't even make those words to change, "The idea of ​​Isuru Mahesh Panditha.
+
+Isuru is one of the two disabled persons who provided reasons for this article.
+
+He is a lawyer from visually impaired. He acts as an independent researcher with the rights of persons with disabilities and as an independent researcher with NGOs and as an operator of law. Isuru was born in Galle.
+
+He has also been born to Tikiri Kumara Jayawardene, which is used in full-time wheelchair, to the birth of the wheelchairs, as a result of birth is a disorder.
+
+'Blind, those who have not touch a car now come to me to build vehicles,'
 
 ...
 
 [Data](articles/babc518b.json)
+
+[Extended Data](ext_articles/babc518b.ext.json)
 
 ---
 
@@ -1253,6 +1335,22 @@ They have found mobile phones, the two countries and the airports of the license
 [Data](articles/f15f44b5.json)
 
 [Extended Data](ext_articles/f15f44b5.ext.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදයක්
+
+*2024-05-21 20:34:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදයක්/11-409775) · `si`
+
+දිවයිනේ සියලුම පාසල්වලට හෙට (22) දින නිවාඩු දෙන බව සමාජ මාධ්‍ය ජාල හරහා ප්‍රචාරය වන නිවේදනය අසත්‍ය බව අධ්‍යාපන අමාත්‍යාංශය දන්වා සිටියි.
+
+එබැවින්, හෙට (22) දින දිවයිනේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාතාංශය නිවේදනය කරයි.
+
+එසේම පවත්නා තත්ත්වය මත අවස්ථානුකූලව තීරණ ගැනීමේ බලය පළාත් අධ්‍යාපන ලේකම්වරුන් සහ පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත පවතින බව ද මෙයින් දැනුම් දෙමු.
+
+◼️
+
+[Data](articles/9e5a0862.json)
 
 ---
 
@@ -2135,47 +2233,5 @@ Following the second funeral in Qom, they will be brought to the capital Tehran,
 [Data](articles/7abc1318.json)
 
 [Extended Data](ext_articles/7abc1318.ext.json)
-
----
-
-### One injured in Padaviya shooting, suspect arrested
-
-*2024-05-21 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-injured-in-Padaviya-shooting-suspect-arrested/108-283070) · `en`
-
-Colombo, May 21 (Daily Mirror)- A 41-year-old resident of Omarakada, Padaviya, was hospitalized after sustaining serious leg injuries in a shooting incident.
-
-The incident occurred in the Omarakada area in Padaviya, as confirmed by Padaviya police.
-
-According to hospital sources, the victim's left leg had suffered severe injuries, necessitating surgical intervention. The injured individual is reported to be in stable condition despite the gravity of the injury.
-
-Meanwhile, Police have identified the suspect as a 19-year-old fisherman residing near the victim's residence.
-
-Preliminary investigations suggest that the shooting stemmed from a personal dispute between the victim and the suspect.
-
-Following the incident, police swiftly apprehended the suspect and recovered the firearm believed to have been used in the shooting. The weapon, described as a flint-type firearm, was found in the possession of the arrested individual.
-
-◼️
-
-[Data](articles/6332a6a3.json)
-
-[Extended Data](ext_articles/6332a6a3.ext.json)
-
----
-
-### World record for Sri Lankan organizations
-
-*2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/9-409771) · `si`
-
-Sri Lanka's Societies broke the world record in the F-44 spelling event in Japan, achieving 66.49 meters.
-
-🟩
-
-In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was able to set up a new world record with a 66.49 meters in Japan.
-
-◼️
-
-[Data](articles/344f9270.json)
-
-[Extended Data](ext_articles/344f9270.ext.json)
 
 ---

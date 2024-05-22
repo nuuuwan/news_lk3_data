@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 05:36:09**
+As of **2024-05-22 05:58:23**
 
 ## Newspaper Stats
 
-*Scraped **25,567** Articles*
+*Scraped **25,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 229
 bbccomsinhala | 257
 dbsjeyarajcom | 259
 newsfirstlk | 363
-islandlk | 1,376
+islandlk | 1,386
 economynextcom | 1,472
-dailyftlk | 1,513
+dailyftlk | 1,520
 adalk | 2,193
 adaderanalk | 2,947
 tamilmirrorlk | 2,982
@@ -26,11 +26,115 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,567 (100.0%) of 25,567 articles have been extended.
+25,567 (99.9%) of 25,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?
+
+*2024-05-22 05:25:15* · [`dailyftlk`](https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103) · `en`
+
+LTTE chief Prabhakaran came to believe over time that he had the divine right to do away anyone he considered an impediment to his separatist project
+
+Tamil Tigers were led by men who had no long-term vision or strategic clarity; Prabhakaran led LTTE to a destruction no one had thought was ever possible
+
+Weeks before the Tamil Tigers got military obliterated, a despondent Pottu Amman, the LTTE intelligence chief, confided to some of his startled colleagues that there were three main reasons why the prolonged armed struggle for an independent Tamil Eelam appeared to be crawling to its very end.
+
+One, he said, was the decision by the Liberation Tigers of Tamil Eelam (LTTE) in 1990 to force the entire Tamil-speaking Muslim community to quit Sri Lanka’s north with just Rs. 150 and the clothes they were in.
+
+Whatever else they possessed, they were told, had been earned in Tamil Eelam and so must be left behind. Overnight, tens of thousands of Muslims were pauperised and turned homeless.
+
+...
+
+[Data](articles/47c548df.json)
+
+---
+
+### Post-election AKD or no election RW?
+
+*2024-05-22 05:22:41* · [`dailyftlk`](https://www.ft.lk/columns/Post-election-AKD-or-no-election-RW/4-762102) · `en`
+
+May Day rallies and massive turnouts for the ones organised by NPP seem to have created panic among older parties that are scrambling for winnable strategies through sustainable coalitions to prevent NPP from capturing power at the next election. In the middle of a raging controversy over whether to hold the General Election first or Presidential Election, the Election Commission has announced that in terms of the Presidential Election Act of 1981, the latter would be held between 17 September and 16 October 2024.
+
+...
+
+[Data](articles/0fcca8bc.json)
+
+---
+
+### Perils of public discourse in a polarised country
+
+*2024-05-22 05:16:55* · [`dailyftlk`](https://www.ft.lk/columns/Perils-of-public-discourse-in-a-polarised-country/4-762101) · `en`
+
+I concluded a recent article on renewable energy saying, “the conversation should continue, but in a more sober, evidence-based manner” (https://www.ft.lk/columns/Electricity-sector-Without-investment-we-will-be-in-the-dark-again/4-761485). I was surprised by the ferocity of the response that went beyond countering my arguments (https://www.ft.lk/columns/Electricity-sector-What-Rohan-Samarajiva-didn-t-say/4-761731).
+
+I had stated, “we can be happy that environmental impact assessment is considered non-negotiable in Sri Lanka.” I was accused of wanting to get rid of environmental impact assessments and wanting to violate the Constitution and the laws of the land. But this is not unusual in these polarised and untrusting times: if someone questions my position however politely, it must be because that person is an apologist for some perfidious foreign entity.
+
+...
+
+[Data](articles/bb346a33.json)
+
+---
+
+### Red alert for Govt. to secure skilled workforce in construction industry
+
+*2024-05-22 05:12:56* · [`dailyftlk`](https://www.ft.lk/columns/Red-alert-for-Govt-to-secure-skilled-workforce-in-construction-industry/4-762100) · `en`
+
+It is not surprising that the construction industry has shrunk in the last four years by 65-70%. Due to this, industry professionals, quantity surveyors, architects, engineers, etc. are leaving the country. We believe that, by now, a few thousand professionals have left the country. More than this, the biggest issue we are facing is losing the skilled workforce in the country. We can see a light at the end of the tunnel by potentially starting a few projects in the country by 2025. However, the biggest problem that we will face next is that we have no skilled workers to do the construction work.
+
+Sri Lankan skilled workers are famous in the world for our superior performance and skill. Without work, they are leaving the country and working in other industries.
+
+...
+
+[Data](articles/8988dc02.json)
+
+---
+
+### Sri Lankan business leader Gowri Rajan to speak at Rotary Foundation Donor Summit in Singapore
+
+*2024-05-22 05:08:01* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-business-leader-Gowri-Rajan-to-speak-at-Rotary-Foundation-Donor-Summit-in-Singapore/56-762098) · `en`
+
+The sought after Rotary event globally is the annual convention where networking and learning comes together. The 2024 convention will attract over 25,000 rotary members across the world to the beautiful city of Singapore. Some describe the event as a Mini United Nations given the international scope and commitment to cultural diversity where global leaders come together to find solutions to the challenges that the world is experiencing.
+
+Sri Lankan first female Governor for Rotary in Sri Lanka and Maldives has been selected to be a speaker at the Rotary Foundation Donor Summit to be held at the annual Convention. The Rotary International President Gordon Maccinally has themed the year as ‘Create Hope with the World’.
+
+Gowri Rajan an award winning business professional is the Director of Sun Match Company based in Kundasale, Kandy that is the market leader in the category of safety matches and today is a diversified conglomerate
+
+...
+
+[Data](articles/03b82b9c.json)
+
+---
+
+### Veteran Toastmaster Bhathiya Hettiarachchi DTM appointed as Club Growth Director for District 82
+
+*2024-05-22 05:06:58* · [`dailyftlk`](https://www.ft.lk/news/Veteran-Toastmaster-Bhathiya-Hettiarachchi-DTM-appointed-as-Club-Growth-Director-for-District-82/56-762097) · `en`
+
+In a landmark event for Sri Lanka, distinguished Toastmaster Bhathiya Hettiarachchi has been unanimously elected to lead District 82 of Toastmasters International as the Club Growth Director for the 2024/2025 tenure. This prestigious position, the third highest in the district hierarchy, was officially conferred upon DTM Bhathiya by the World President of Toastmasters International at the district conference, Ovation 2024. Significantly, this election coincides with Toastmasters International’s centenary celebration. Founded in 1924, the organisation marks 100 years of empowering individuals through public speaking and leadership skills development. Bhathiya’s leadership during this historic milestone highlights the importance of his role in continuing the legacy of excellence and growth.
+
+...
+
+[Data](articles/076272a0.json)
+
+---
+
+### Sri Lanka rejects alleged genocide claims by Canadian Prime Minister
+
+*2024-05-22 05:05:20* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-rejects-alleged-genocide-claims-by-Canadian-Prime-Minister/56-762096) · `en`
+
+The Ministry of Foreign Affairs yesterday said it rejects the false allegation of a so-called “genocide” in Sri Lanka in a message by Canadian Prime Minister Justin Trudeau on 18 May.
+
+The Government of Sri Lanka in all previous communications has categorically refuted such outrageous allegation of genocide in Sri Lanka. No competent authority in Canada or elsewhere in the world has made any objective determination of genocide having taken place in Sri Lanka.
+
+These unfounded allegations relate to the conclusion of the armed separatist terrorist conflict waged by the LTTE in pursuit of a separate State, contrary to the principles of the UN Charter. The LTTE is a listed terrorist organisation in 33 countries worldwide, including in Canada.
+
+...
+
+[Data](articles/22912849.json)
+
+---
 
 ### Norwegian Ambassador meets President and leaders of political parties during visit to Sri Lanka
 
@@ -1084,6 +1188,70 @@ Will schools open in disaster areas?No?It is noteworthy that the Director of Edu
 
 ---
 
+### ComBank and CBA pioneer NFC technology-enabled cashless vending machines in Sri Lanka
+
+*2024-05-21 19:48:00* · [`islandlk`](http://island.lk/combank-and-cba-pioneer-nfc-technology-enabled-cashless-vending-machines-in-sri-lanka/) · `en`
+
+Offer new paradigm in convenience with contact and contactless card payment acceptance
+
+Sri Lanka will be able to deploy its first credit and debit card-enabled vending machines following a collaboration between the Commercial Bank of Ceylon, the country’s biggest private sector bank, and Ceylon Business Appliances (CBA), a leading financial technology solutions company.
+
+Advancing consumer convenience and embracing technological innovation, the collaboration will result in the introduction of a fully automated, Near Field Technology (NFC)-enabled vending machine service branded ‘Grab.it’ across Sri Lanka. These machines will accept contact and well as contactless card payments.
+
+The Bank said this is the first time a Sri Lankan bank has engaged with a fintech company to offer such a technologically-advanced solution in the retail sector.
+
+...
+
+[Data](articles/648dcf9b.json)
+
+---
+
+### ONL rewards its best dealers with a foreign tour for achieving business targets
+
+*2024-05-21 19:47:00* · [`islandlk`](http://island.lk/onl-rewards-its-best-dealers-with-a-foreign-tour-for-achieving-business-targets/) · `en`
+
+Office Network (Pvt) Ltd. (ONL), the leading office automation (OA) solutions provider in Sri Lanka, held its annual business partner appreciation awards honoring high performing dealers who have achieved business targets for the financial year 2023/24 at a felicitation ceremony held at the Movenpick Hotel in Colombo on Wednesday 15th May 2024.
+
+The event was graced by the Chairman and the Board of Directors of Office Network (Private) Limited and was also the platform for the launch of the latest models from the globally-renowned Japanese brand Brother.
+
+As the official, authorized Distributor for Brother products in Sri Lanka, ONL has grown from strength to strength capturing a wider segment of the market with its reliable and growing product range.
+
+...
+
+[Data](articles/7af0dd6c.json)
+
+---
+
+### DFCC Bank supports Sri Lanka Tamil Women’s Union’s celebration of International Women’s Day
+
+*2024-05-21 19:45:00* · [`islandlk`](http://island.lk/dfcc-bank-supports-sri-lanka-tamil-womens-unions-celebration-of-international-womens-day/) · `en`
+
+DFCC Pinnacle and DFCC Aloka, the highest-tier premium banking experience and the exclusively women-centric banking proposition from DFCC Bank, respectively, recently supported the Sri Lanka Tamil Women’s Union as the association celebrated International Women’s Day 2024.
+
+A spirited celebration of empowerment and solidarity, the event was an inspiring occasion that resonated with women from all sections of society. It not only celebrated the remarkable achievements of women but also served as a rallying call for furthering the cause of gender equality and #InspiringInclusion.
+
+...
+
+[Data](articles/0fe9146f.json)
+
+---
+
+### Decline in three-month TB rate and State Minister’s comments bring CSE to life
+
+*2024-05-21 19:42:00* · [`islandlk`](http://island.lk/decline-in-three-month-tb-rate-and-state-ministers-comments-bring-cse-to-life/) · `en`
+
+The stock market got off to a negative start yesterday but later recovered during the last hour due to a decline in Treasury Bills at the auction and the State Minister of Finance’s revelation of some positive trends in the external debt restructuring exercise, market analysts said.
+
+At the Treasury Bill auction, a sharp decline of nine percent was noted especially in the three-month Treasury Bill rate. Further, rays of hopes were created when State Minister for Finance Shehan Semasinghe said, without giving a date, that Sri Lanka is expecting a second round of talks with private investors ‘very soon’ to restructure sovereign bonds.
+
+Sri Lanka is planning to complete debt restructuring by June 2024 and to go to the IMF board for the next round.
+
+...
+
+[Data](articles/018fc4f1.json)
+
+---
+
 ### Action to open Puttalam District Schools
 
 *2024-05-21 19:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்ட-பாடசாலைகளை-திறக்க-நடவடிக்கை/175-337662) · `ta`
@@ -2023,255 +2191,5 @@ The Cabinet has also approved the exemption from other taxes that occur when hom
 [Data](articles/b361fcc0.json)
 
 [Extended Data](ext_articles/b361fcc0.ext.json)
-
----
-
-### Vesak posture
-
-*2024-05-21 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184138) · `ta`
-
-The Vesak posture, a significant event, is set up in Matara's Akurassa Marambe Wavi, open from May 23rd to June 1st. Despite the rain, locals supported its creation, resulting in a grand display.
-
-🟩
-
-In the meantime, the Vesak posterity has been set up in the middle of the Akurassa Marambe Wavi in the Matara district.
-
-The public can visit the Vesak posture from the 23rd to June 1st.
-
-It is commendable that a large beautiful posture is designed in the midst of the pouring rain.
-
-The townspeople encouraged me to make a posture. So I was able to design a massive beautiful posture in the middle of the Wavi. He said everyone helped me.
-
-◼️
-
-[Data](articles/16a19117.json)
-
-[Extended Data](ext_articles/16a19117.ext.json)
-
----
-
-### Norwegian Duda has met with the president and political parties during his visit to Sri Lanka
-
-*2024-05-21 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184145) · `ta`
-
-Norwegian Ambassador Ein Stener Strengthening Ties: During his visit to Sri Lanka, Ambassador Ein Stener met with President Ranil Wickremesinghe, External Affairs Minister Ali Sabri, and other key figures. Discussions focused on enhancing bilateral ties, Norway's investment growth, tourism influx, and cooperation in renewable energy and economic reforms. The visit underscored Norway's dedication to fostering closer relations with Sri Lanka.
-
-🟩
-
-Norwegian Ambassador to Sri Lanka and India visited Sri Lanka from May 2 to 9 from May-Ein Stener.
-
-The genius has been prominent in strengthening bilateral bonds between Norway and Sri Lanka.
-
-Sri Lankan President Ranil Wickremesinghe, External Affairs Minister Ali Sabri, Opposition Leader Sajith Premadasa, National People's Power Leader Anura Kumara Dissanayake and Tamil National Alliance MP MA. Ambassador Stener was involved in a brief conversation with prominent leaders, including Sumanthiran.
-
-During the meeting with President Wickremesinghe, the Ambassador was briefed on the admirable development of Norway investments and development activities in Sri Lanka.
-
-Both sides re -pointed out their commitment to maintaining close cooperation between the two countries, emphasizing the importance of mutual interests in various fields.
-
-...
-
-[Data](articles/0aef1939.json)
-
-[Extended Data](ext_articles/0aef1939.ext.json)
-
----
-
-### The death of the President of Iran;Accident, conspiracy?He has more enemies in Iran than Mossad CIA
-
-*2024-05-21 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184149) · `ta`
-
-Iran's President Raisi, accused of executing thousands post-Iran-Iraq war & leading secret forces against cultural dissent, faces criticism over the death of Mahsa Amini, sparking nationwide protests and allegations of his involvement.
-
-🟩
-
-Israel and the United States are the direct enemy of Iran.. There are reports that Richie has executed about five thousand people arrested during the Iran -Iraq war. Similarly, Rasi also kept a secret force called Cultural Guards to carry out it in the Islamic cultures.. Members of the brigade were killed in 2022, Mahsa Amni, a 22 -year -old woman who did not wear a hijab.. Hundreds of people were killed in the protests that followed. In the wake of this, the whole Iran was spreading allegations that Raisi's hands were in the backdrop.
-
-◼️
-
-[Data](articles/b0b6086d.json)
-
-[Extended Data](ext_articles/b0b6086d.ext.json)
-
----
-
-### Mourners begin days of funerals for Iran’s president and others killed in helicopter crash
-
-*2024-05-21 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99360/mourners-begin-days-of-funerals-for-irans-president-and-others-killed-in-helicopter-crash) · `en`
-
-Mourners in black began gathering Tuesday for days of funerals and processions for Iran’s late president, foreign minister and others killed in a helicopter crash, a government-led series of ceremonies aimed at both honoring the dead and projecting strength in an unsettled Middle East.
-
-For Iran’s Shiite theocracy, mass demonstrations have been crucial since millions thronged the streets of Tehran to welcome Grand Ayatollah Ruhollah Khomeini in 1979 during the Islamic Revolution, and also attended his funeral 10 years later. An estimated 1 million turned out in 2020 for processions for the late Revolutionary Guard Gen. Qassem Soleimani, who was slain in a U.S. drone strike in Baghdad.
-
-...
-
-[Data](articles/29ab31e6.json)
-
-[Extended Data](ext_articles/29ab31e6.ext.json)
-
----
-
-### A widow permission to get 50% of the allowances and wages
-
-*2024-05-21 15:37:29* · [`adalk`](https://www.ada.lk/breaking_news/වැන්දඹුවකට-දීමනා-හා-වැටුප්වලින්-50%ක-අයිතියක්-හා-විවාහ-වීමට-අවසර/11-409768) · `si`
-
-Widows granted 50% allowances and wages. ICTM discusses ethnic conflict resolution and war consequences. Meetings focus on social grievances, gender issues, and law amendments for widows' aid.
-
-🟩
-
-Intercepted Secretariat for the actual and reconciliation machine for the conversation of ethnic conflicts and the consequences of the war, the Interim Secretariat (ICTM) comment on three meetings held at the Galle District Secretariat recentlyWas on.
-
-The community stakeholders, including former military officers and NGOs, promoted mainly on ground level activities that are essential to social grievances.
-
-The main points of gender to social welfare and victims were discussed. The proposals were also submitted to amend the laws to be relieved for the relief and relief of allowances for widows.
-
-◼️
-
-[Data](articles/5671ab4d.json)
-
-[Extended Data](ext_articles/5671ab4d.ext.json)
-
----
-
-### A widow permission to marry 50 percent of allowances and wages
-
-*2024-05-21 15:37:29* · [`adalk`](https://www.ada.lk/breaking_news/වැන්දඹුවකට-දීමනා-හා-වැටුප්වලින්-සියයට-50ක-අයිතියක්-හා-විවාහ-වීමට-අවසර/11-409768) · `si`
-
-Widows granted 50% of allowances and wages. ICTM discusses ethnic conflict resolution and war consequences. Stakeholders focus on grassroots social issues, emphasizing gender equality and victim support. Proposals aim to reform laws for widows' aid.
-
-🟩
-
-Intercepted Secretariat for the actual and reconciliation machine for the conversation of ethnic conflicts and the consequences of the war, the Interim Secretariat (ICTM) comment on three meetings held at the Galle District Secretariat recentlyWas on.
-
-The community stakeholders, including former military officers and NGOs, promoted mainly on ground level activities that are essential to social grievances.
-
-The main points of gender to social welfare and victims were discussed. The proposals were also submitted to amend the laws to be relieved for the relief and relief of allowances for widows.
-
-◼️
-
-[Data](articles/e71806a5.json)
-
-[Extended Data](ext_articles/e71806a5.ext.json)
-
----
-
-### Move to sell LSD-infected cattle amid disease outbreak
-
-*2024-05-21 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Move-to-sell-LSD-infected-cattle-amid-disease-outbreak/108-283069) · `en`
-
-With the outbreak of the Lumpy Skin Disease (LSD) among cattle in the Nuwara Eliya District, there is a growing tendency among dairy farmers to sell off their affected livestock.
-
-Dr. Suresh Kumara, the Government Veterinary Surgeon in charge of the Kotagala-Talawakele division, reported that the district contributes 12 percent of the Central Province’s milk production.
-
-The outbreak has led to the death of many milch cows, resulting in a sharp decline in milk output.
-
-In response to the outbreak, affected dairy farmers have begun selling their LSD-infected cattle to slaughterhouses.
-
-Dr. Kumara emphasized the need for vaccination to control the disease but noted that the necessary vaccine is currently unavailable.
-
-◼️
-
-[Data](articles/cc064856.json)
-
-[Extended Data](ext_articles/cc064856.ext.json)
-
----
-
-### 15 thousand people left the army
-
-*2024-05-21 15:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆயிரம்-பேர்-இராணுவத்திலிருந்து-வெளியேறினர்/175-337645) · `ta`
-
-An amnesty allowing 15,667 Sri Lankan soldiers to leave the military legally ended on December 20th. It was introduced on December 31st, 2023, for those absent without leave. Additionally, plans were made to facilitate the legal withdrawal of 373 soldiers stationed abroad without taking leave.
-
-🟩
-
-The one -month -old amnesty, which was declared to quit the military legally, ended yesterday (20).
-
-The Sri Lankan military has announced that 15,667 soldiers have quit legally.
-
-On December 31, 2023, this amnesty period was announced to military members who did not attend without a holiday.
-
-Meanwhile, arrangements have been made to legally withdraw 373 soldiers abroad without leaving the duty without holidays.
-
-◼️
-
-[Data](articles/1ef66832.json)
-
-[Extended Data](ext_articles/1ef66832.ext.json)
-
----
-
-### What's going on in Iran?
-
-*2024-05-21 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196868) · `si`
-
-Funeral services for the late Iranian President and seven others who died in a helicopter crash have begun. The event is taking place in Tabriz, Northwestern Iran. The incident occurred when the helicopter, carrying 19 passengers, encountered adverse weather conditions including heavy fog. This tragic event has drawn significant public attention, with many gathering to pay respects. Amidst the mourning, there are mixed reactions from international media and social media users. Authorities have also taken action against social media users, ordering arrests. A memorial service is scheduled for Thursday in Mashhad.
-
-🟩
-
-The funeral of the President of Iranian President and 7 others have commenced their deceased with helicopter accident.
-
-Its funeral will take place in Taboris in the Northwestern Province.
-
-Iranian (19), the helicopter, which was traveling, and the helicopter was moved in the area.
-
-It is thought that the aircraft was regarded due to inclement weather and heavy fog.
-
-A large number of people gathered to the Street to the Street to the former President.
-
-Meanwhile, various notes on the midst of this death.
-
-The International Media stated that a single part is expressed in respect of these deaths and is happier with the death of the former President.
-
-Meanwhile, authorities have ordered the security forces to arrest the people of Social Media in the country.
-
-Meanwhile, Silbhim Relivery Cyr Sirira is due to be held on Thursday at Marshahad, Marshahad.
-
-◼️
-
-[Data](articles/740b4164.json)
-
-[Extended Data](ext_articles/740b4164.ext.json)
-
----
-
-### Russia cirticises western pressure on Sri Lanka over human rights
-
-*2024-05-21 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-cirticises-western-pressure-on-Sri-Lanka-over-human-rights/108-283068) · `en`
-
-Colombo, May 21 (Daily Mirror) - The Russian embassy expressed concerns over the western pressure on Sri Lanka regarding human rights while the very same forces are having a separate stand on the unfolding humanitarian crisis in Gaza, Yugoslavia, Afghanistan etc.
-
-In a statement, the embassy said it has noted increased external pressure on Sri Lanka with regard to the human rights situation in the country.
-
-“Numerous western political figures, diplomats and foreign quasi human rights organizations have come up with their critical statements and abundant observations.
-
-...
-
-[Data](articles/44eca0d1.json)
-
-[Extended Data](ext_articles/44eca0d1.ext.json)
-
----
-
-### Special discussion on health facilities for retired soldiers
-
-*2024-05-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184140) · `ta`
-
-Minister Bandara Bandara led a meeting with the Health Minister to address healthcare challenges faced by retired veterans and their families in Sri Lanka's government hospitals. The discussion highlighted the decline in social acceptance towards soldiers post-war and the significant delays in receiving medical care, especially for those needing to travel long distances. Plans to reintroduce 'springs' cards were proposed to prioritize veteran access to healthcare services.
-
-🟩
-
-The Minister of Defense Bandara Bandara has met with the Health Minister in awe of the Minister of Defense to address the problems faced by retired Veterans in government hospitals.
-
-On many occasions, the family members of the armed forces, retired security personnel and their family members who have sacrificed their lives to protect the unity of the homeland are facing various difficulties in obtaining health facilities from state hospitals.
-
-This is the first of the issues put forward to investigate the welfare and administrative issues of the soldiers at special events organized by the Sri Lankan military under the leadership of Defense Minister Bandara Thennakoon.
-
-During the war and for a few years after the end of the war, social acceptance of soldiers and their families was at a higher level. But today it is gradually declining. Some even forgot the war in this country.
-
-...
-
-[Data](articles/58aa5453.json)
-
-[Extended Data](ext_articles/58aa5453.ext.json)
 
 ---

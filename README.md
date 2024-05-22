@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 01:33:59**
+As of **2024-05-23 01:52:26**
 
 ## Newspaper Stats
 
-*Scraped **25,789** Articles*
+*Scraped **25,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,522
+dailyftlk | 1,523
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,005
+tamilmirrorlk | 3,006
 virakesarilk | 3,918
 dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
@@ -26,11 +26,41 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,787 (100.0%) of 25,789 articles have been extended.
+25,789 (100.0%) of 25,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### 278 கைதிகளுக்கு மன்னிப்பு
+
+*2024-05-23 01:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/278-கைதிகளுக்கு-மன்னிப்பு/175-337737) · `ta`
+
+வெசாக் பண்டிகையை முன்னிட்டு விசேட அரச மன்னிப்பின் கீழ் 278 கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+
+அரச பொதுமன்னிப்பு பெறும் கைதிகளில் வெலிக்கடை சிறைச்சாலையில் இருந்து 15 கைதிகளும், மஹர சிறைச்சாலையில் இருந்து 37 கைதிகளும் அடங்குவதாகவும், 10 பெண் கைதிகள் உட்பட அனைத்து சிறைச்சாலைகளில் இருந்து 278 கைதிகளும் அடங்குவதாக  திஸாநாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/44f44b79.json)
+
+---
+
+### Economic Transformation Bill, political transformation effects and Lanka’s legitimate war
+
+*2024-05-23 01:29:13* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Bill-political-transformation-effects-and-Lanka-s-legitimate-war/4-762132) · `en`
+
+“…Foreign investments shall be permitted into all sectors and regions of Sri Lanka. Foreign investors shall be permitted to own one hundred per centum of the shares in entities engaged in such sectors and regions, unless otherwise determined by way of regulations made under the provision of this Part or any other written law…”
+
+Good news for Anura Dissanayake. Senegal’s new President is 44-year-old Bassirou Diomaye Faye, a self-described “Left Pan-Africanist”. He won with 54.3% of the vote in the first round. A former tax inspector, Bassirou Faye is the youngest president in the history of Senegal, and the youngest elected President in Africa today.
+
+“The 44-year-old, who has never before held elected office, swept to a first-round victory on a promise of radical reform, becoming the country’s youngest president.
+
+...
+
+[Data](articles/7f3d2d79.json)
+
+---
 
 ### Buddhist meditation for tech savvy generation
 
@@ -43,6 +73,8 @@ While earlier generations used perceptions and logical inferences to understand 
 ...
 
 [Data](articles/14d350f6.json)
+
+[Extended Data](ext_articles/14d350f6.ext.json)
 
 ---
 
@@ -83,6 +115,8 @@ Sri Lanka is a country which believed in electing to Parliament individuals with
 ...
 
 [Data](articles/a5c73c83.json)
+
+[Extended Data](ext_articles/a5c73c83.ext.json)
 
 ---
 
@@ -2253,57 +2287,5 @@ The Minuwangoda police have revealed that the motorcycle used for the murder in 
 [Data](articles/99f78163.json)
 
 [Extended Data](ext_articles/99f78163.ext.json)
-
----
-
-### Power supply is banned for two days in some parts of the right
-
-*2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184226) · `ta`
-
-Heavy winds and rain disrupt power in Valapanai Rupaha and Selaippe, affecting Nuwara Eliya district.
-
-🟩
-
-Power supply has been blocked for the past two days in the Valapanai Rupaha and Selaippe areas.
-
-The Southwestern monsoon climate change in the country has caused heavy winds and heavy rainfall.
-
-In the Nuwara Eliya district, there is a series of rains and strong winds in the Divisional Secretariat Divisions of Nuwara Eliya, Valappanai, Kotmalai, Hanguranketta and Ambagamuwa.
-
-Due to this, heavy winds have been completely blocked due to heavy winds in the Valappanai Rupaha and Iriyipaye areas due to heavy winds blowing from Tuesday (21) from Tuesday (21).
-
-◼️
-
-[Data](articles/d3358b07.json)
-
-[Extended Data](ext_articles/d3358b07.ext.json)
-
----
-
-### Norwegian Ireland announces Spain to recognize Palestinian nation
-
-*2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184227) · `ta`
-
-Norway plans to recognize Palestine, prompting Israel to recall its ambassadors from Norway and Spain. PM Jonas Gahr Støre emphasizes the importance of recognizing Palestine for Middle East peace. This move aligns with several European nations' stance, highlighting the significance of a two-state solution. Despite concerns over Hamas and other groups, Norway supports this approach.
-
-🟩
-
-Israel has immediately recalled their ambassadors to these countries as Norway has announced that Norway will recognize the Palestinian nation next week.
-
-Norwegian Prime Minister Jonas Kar Store has said that there will be no peace in the Middle East without a Palestinian nation.
-
-He said the Norwegian nation would officially recognize the Palestinian nation on May 28.
-
-Several European countries have said that the two -year -old Middle East is essential for peace.
-
-Norway, a non -member of the EU, has expressed firm support for the two nation settlement.
-
-The Norwegian Prime Minister has said that Hamas and other terrorist groups and Israel are engaged in terrorist activities that do not support the two nation policy.
-
-◼️
-
-[Data](articles/dab44ff9.json)
-
-[Extended Data](ext_articles/dab44ff9.ext.json)
 
 ---

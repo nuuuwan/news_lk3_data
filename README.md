@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 12:34:04**
+As of **2024-05-22 12:51:14**
 
 ## Newspaper Stats
 
-*Scraped **25,652** Articles*
+*Scraped **25,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,386
 economynextcom | 1,478
 dailyftlk | 1,521
 adalk | 2,200
-adaderanalk | 2,954
-tamilmirrorlk | 2,996
-virakesarilk | 3,883
+adaderanalk | 2,956
+tamilmirrorlk | 2,997
+virakesarilk | 3,885
 dailymirrorlk | 4,027
 adaderanasinhalalk | 4,098
 
@@ -26,69 +26,209 @@ adaderanasinhalalk | 4,098
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,647 (100.0%) of 25,652 articles have been extended.
+25,652 (100.0%) of 25,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### பாராளுமன்றத்தில் ஒரு நிமிடம் மௌன அஞ்சலி
+### பொருளாதார மாற்ற சட்டமூலம் சபையில் சமர்ப்பிக்கப்பட்டது
 
-*2024-05-22 12:13:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-ஒரு-நிமிடம்-மௌன-அஞ்சலி/175-337689) · `ta`
+*2024-05-22 12:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மாற்ற-சட்டமூலம்-சபையில்-சமர்ப்பிக்கப்பட்டது/175-337692) · `ta`
 
-ஈரான் ஜனாதிபதி மொஹமட் ரைஸியின் திடீர் மரணத்திற்கு இரங்கல் தெரிவிக்கும் வகையில் புதன்கிழமை (22) அன்று பாராளுமன்றத்தில் ஒரு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டது.
+இலங்கையின் பொருளாதார ஆணைக்குழு, முதலீட்டு வலயங்களை நிறுவுதல், இலங்கை பொருளாதாரம் மற்றும் சர்வதேச வர்த்தக நிறுவனத்தை நிறுவுதல் மற்றும் முதலீட்டுச் சபை சட்டத்தை இரத்து செய்தல் போன்றவற்றை வழங்கும் பொருளாதார மாற்ற சட்டமூலம் சற்று முன்னர் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/1240159d.json)
+
+---
+
+### ஈரான் ஜனாதிபதியின் மறைவுக்கு பாராளுமன்றில் இரங்கல்
+
+*2024-05-22 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184208) · `ta`
+
+ஈரான் ஜனாதிபதி மொஹமட் இப்ராஹிம் ரைஸியின் திடீர் மரணத்திற்கு இரங்கல் தெரிவிக்கும் வகையில் இன்று (22) பாராளுமன்றத்தில் ஒரு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டது.
 
 பாராளுமன்ற நடவடிக்கைகள் ஆரம்பிக்கப்படுவதற்கு முன்னர் ஆளும் கட்சியின் பிரதான அமைப்பாளர் அமைச்சர் பிரசன்ன ரணதுங்க இந்த யோசனையை பாராளுமன்றத்தில் முன்வைத்தார்.
 
-இந்த பிரேரணையை முன்வைத்த அமைச்சர் பிரசன்ன ரணதுங்க, ஈரான் ஜனாதிபதியின் மறைவுக்கு இரங்கல் தெரிவிப்பதாக தெரிவித்தார். அண்மையில் இந்த நாட்டுக்கு விஜயம் செய்த கடைசி அரச தலைவர் ஈரான் ஜனாதிபதி என்பதையும் ரணதுங்க நினைவு கூர்ந்தார். உமா ஓயா திட்டத்தை நிறைவேற்றுவதற்கு தேவையான ஏற்பாடுகள் மற்றும் ஆதரவை வழங்கியதை நினைவுகூர்ந்த அமைச்சர், ஈரான் ஜனாதிபதியின் மறைவுக்கு பாராளுமன்றத்தில் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தி தனது அனுதாபத்தை தெரிவிக்க முன்வந்தார்.
+இந்த பிரேரணையை முன்வைத்த அமைச்சர் பிரசன்ன ரணதுங்க, ஈரான் ஜனாதிபதியின் மறைவுக்கு இரங்கல் தெரிவிப்பதாக தெரிவித்தார்.
 
-அதன்படி, சபாநாயகர் உட்பட ஆளும்  மற்றும் எதிர்க்கட்சி அமைச்சர்கள் இருக்கையில் இருந்து எழுந்து ஒரு நிமிடம் மெளனமாக இருந்ததை அடுத்து, அதன் பின்னர் சபை நடவடிக்கைகள் ஆரம்பமாகியது.
+அண்மையில் இலங்கைக்கு விஜயம் செய்த இறுதி வெளிநாட்டு அரச தலைவர் ஈரான் ஜனாதிபதி என்பதையும் ரணதுங்க நினைவு கூர்ந்தார்.
+
+உமா ஓயா திட்டத்தை நிறைவேற்றுவதற்கு தேவையான ஏற்பாடுகள் மற்றும் ஆதரவை வழங்கியதை நினைவுகூர்ந்த அமைச்சர், ஈரான் ஜனாதிபதியின் மறைவுக்கு பாராளுமன்றத்தில் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தி தனது அனுதாபத்தை தெரிவிக்க முன்வந்தார்.
+
+அதன்படி, சபாநாயகர் உட்பட ஆளும்  மற்றும் எதிர்க்கட்சி அமைச்சர்கள் இருக்கையில் இருந்து எழுந்து ஒரு நிமிடம் மெளனமாக இருந்து அஞ்சலி செலுத்தியதையடுத்து, சபை நடவடிக்கைகள் ஆரம்பமாகியன.
+
+...
+
+[Data](articles/ca8bd9e8.json)
+
+---
+
+### விமானத்திற்குள் தூக்கி வீசப்பட்டோம் தலைக்கு மேல் காணப்பட்ட பொருட்களுடன் மோதினோம் - பொருட்கள் அங்குமிங்கும் பறந்தன - சிங்கப்பூர் எயர்லைன்ஸ் மோசமாக குலுங்கிய வேளை ஏற்பட்டஅனுபவங்கள் குறித்து பயணிகள்
+
+*2024-05-22 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184212) · `ta`
+
+விமானம் குலுங்கியதால் பிரிட்டனைசேர்ந்த 73 வயது ஜெவ்கிச்சன் என்பவர் கொல்லப்பட்டார் அவர் மாரடைப்பால் உயிரிழந்தார் என சந்தேகம் வெளியாகியுள்ளது .
+
+முதல் சில செகண்ட்களில் பயங்கரமான அலறல் சத்தம் கேட்டது என பிரிட்டனை சேர்ந்த அன்ரூ டேவிஸ் தெரிவித்துள்ளார்.
+
+என் மேல் கோப்பி காணப்பட்டது மிகவும் கடுமையான விதத்தில் விமானம் குலுங்கியது என அவர் தெரிவித்துள்ளார்.
+
+என்ன நடக்கின்றது என அறிந்து நான் அதற்கு தயாரானேன் தீடீரென விமானம் வேகமாக கீழே செல்ல தொடங்கியது தங்கள் ஆசனங்களில் அமர்ந்திருந்த அனைவரும் விமானத்தின் மேற்பகுதியை நோக்கி வீசப்பட்டனர் என 28 வயது ஜவ்ரான் அஸ்மிர் தெரிவித்துள்ளார்.
+
+சிலர் பயணபொதிகளை வைக்கின்ற கபின்களில் மோதினர் விளக்குகளும் முகக்கவசங்களும் காணப்படும் பகுதிகளில் மோதி  அதனை சேதப்படுத்தினர் எனவும் அவர் தெரிவித்துள்ளார்.
+
+நடுவானில் இடம்பெற்ற இந்த சம்பவத்தின் பின்னர் சிங்கப்பூரை நோக்கி பயணித்துக்கொண்டிருந்த பொயிங் 777-300ஈஆர் விமானம் 211 பயணிகள் 18 பயணிகளுடன் தாய்லாந்தின் தலைநகருக்கு திருப்பப்பட்டது.
+
+...
+
+[Data](articles/9f1f4d95.json)
+
+---
+
+### A minute silent tribute to Parliament
+
+*2024-05-22 12:13:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-ஒரு-நிமிடம்-மௌன-அஞ்சலி/175-337689) · `ta`
+
+In a solemn moment, Parliament observed a minute of silence to honor the passing of Iranian President Mohamed Raisi. The initiative, proposed by Minister Prasanna Ranatunga, aimed to express condolences for the loss. This gesture followed the tradition of acknowledging international leaders' visits and contributions, such as the support for the Uma Oya project.
+
+🟩
+
+A silent tribute was paid to Parliament on Wednesday (22) to convey the sudden death of Iranian President Mohamed Raisi.
+
+Prior to the onset of parliamentary proceedings, the chief organizer of the ruling party Prasanna Ranatunga presented this idea in Parliament.
+
+Minister Prasanna Ranatunga, who presented the proposal, said that the Iranian president would condole the demise of the Iran.. Ranatunga also recalled that the last head of state to visit the country was the President of Iran.. Recalling the arrangements and support for the Uma Oya project, the minister offered to express his sympathy in Parliament for a minute of the death of the Iranian president.
+
+Accordingly, after the ruling and opposition ministers, including the Speaker, got up from the seat and remained silent for a minute, then the council proceedings began.
 
 ◼️
 
 [Data](articles/22475246.json)
 
+[Extended Data](ext_articles/22475246.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தியிலிருந்து விலகி ஜனாதிபதி தேர்தலில் போட்டியிடுகின்றார் சரத் பொன்சேகா - ஜூன் மாதம் உத்தியோகபூர்வ அறிவிப்பு
+### Businessman charged with assaulting Iranian Ambassador granted bail
 
-*2024-05-22 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184206) · `ta`
+*2024-05-22 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99377/businessman-charged-with-assaulting-iranian-ambassador-granted-bail) · `en`
 
-முன்னாள் இராணுவதளபதி சரத்பொன்சேகா ஐக்கிய மக்கள் சக்தியிலிருந்து விலகி ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ளார் என டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+The businessman who was arrested and remanded on charges of assaulting the Ambassador of the Islamic Republic of Iran in Sri Lanka, Dr. Alireza Delkhosh, has been released on bail.
 
-இதேவேளை ஐக்கியமக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்கள் சிலரின் ஆதரவை சரத்பொன்சேகா பெற்றுள்ளார்  ஏனைய கட்சிகளின் நாடாளுமன்ற உறுப்பினர்களுடன் இரகசிய பேச்சுவார்ததைகள் தொடர்கின்றன என முன்னாள் இராணுவதளபதிக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்துள்ளன.
+He was ordered released on bail after being produced before Colombo Fort Magistrate Kosala Senadeera today (22).
 
-சரத்பொன்சேகா தனது தேர்தல் பிரச்சாரத்தின் போது ஊழல் அற்ற நாடு மற்றும் தேசிய பாதுகாப்பிற்கு முன்னுரிமை வழங்குவார் என தகவல்கள் வெளியாகியுள்ளன.
+The 33-year-old youth was arrested and remanded for allegedly assaulting the Iranian Ambassador during an incident near a shopping mall on Muttiah Road in Colombo 02 on May 18.
 
-அரகலயவின் போது அவர்களிற்கு ஆதரவு வெளியிட்ட சரத்பொன்சேகா அந்த சந்தர்ப்பத்தில் தனக்கு கிடைத்த ஆதரவை பயன்படுத்த முயல்வார்.
-
-இதேவேளை தேர்தல் பிரச்சார காலத்தில் சரத்பொன்சேகா யுத்தம் குறித்த நூலை வெளியிடவுள்ளார் இந்த நூலில் யுத்தம் குறித்த பல முக்கிய விடயங்கள்இடம்பெற்றிருக்கும்.
-
-இதேவேளை ஜனாதிபதி ரணில்விக்கிரமசிங்கவின் பிரதிநிதியாக முன்னாள் இராஜதந்திரியொருவர் சரத்பொன்சேகாவை சந்திப்பதற்கான வேண்டுகோளை விடுத்துள்ளார்.
+The incident had reportedly occurred while the diplomat was entering the car park of a shopping mall in his vehicle. An argument had ensued between the Ambassador and the suspect in question, during which the latter had assaulted the diplomat and attempted to flee in his vehicle.
 
 ...
 
-[Data](articles/fc9c426a.json)
+[Data](articles/05b6af3d.json)
 
 ---
 
-### පරිගණක ඉංජිනේරුවරයාගේ සිරුර මියගොස් දින හතරකට පසුව හමුවේ
+### Sarath Fonseka - Official announcement in June
+
+*2024-05-22 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184206) · `ta`
+
+Sarath Fonseka, a former military commander, plans to leave the United People's Power party and run for president, backed by some UNP MPs. He prioritizes fighting corruption and ensuring national security. Fonseka, who aided during the Arakalaya, aims to leverage this support. Additionally, he'll release a war memoir during his campaign. A former diplomat seeks a meeting with him on behalf of President Ranil Wickremesinghe, which Fonseka hasn't declined, indicating his commitment to the presidential race.
+
+🟩
+
+Former military commander Sarath Fonseka will quit the United People's Power and contest the presidential election, according to DailyMirr.
+
+Meanwhile, Sarath Fonseka has received the support of some MPs of the United Nations Shakti.
+
+According to reports, Sarath Fonseka will give priority to a corrupt country and national security during his election campaign.
+
+Sarath Fonseka, who supported them during the Arakalaya, would try to use his support on that occasion.
+
+At the same time, Sarath Fonseka will publish a book on the war during the election campaign.
+
+Meanwhile, a former diplomat has made a request to meet Sarath Fonseka as a representative of President Ranil Wickremesinghe.
+
+Sarath Fonseka, who has not rejected the meeting, said he would not abandon the decision to contest the presidential election.
+
+◼️
+
+[Data](articles/fc9c426a.json)
+
+[Extended Data](ext_articles/fc9c426a.ext.json)
+
+---
+
+### Schoolgirl dies after being run over by bus
+
+*2024-05-22 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99376/schoolgirl-dies-after-being-run-over-by-bus) · `en`
+
+A 10-year-old schoolgirl has reportedly died after being run over by a private bus in the New Kurunduwatta area.
+
+The tragic incident had occurred this morning (22) at Udahenthenna within the New Kurunduwatta police area.
+
+The schoolgirl, a resident of at Patithalawa in Malgolla, had gotten off the same bus and was attempting to cross the road in front of the bus when she was run over, police said.
+
+She was critically injured in the accident and had succumbed to her injuries after being admitted to the Kurunduwaththa Divisional Hospital.
+
+Both the driver and the conductor of the bus have been arrested by police over the incident and further investigations are being carried out by New Kurunduwatta Police.
+
+◼️
+
+[Data](articles/ffbd0efb.json)
+
+---
+
+### Computer engineering body killed after four days
 
 *2024-05-22 12:03:10* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණක-ඉංජිනේරුවරයාගේ-සිරුර-මියගොස්-දින-හතරකට-පසුව-හමුවේ/11-409783) · `si`
 
-හෝමාගම පිටිපන දෙමහල් නිවසක උඩුමහලේ කාමරයක් තුළ තිබී දින හතරකට පමණ පෙර අභිරහස් ලෙස මියගිය බවට සැක කෙරෙන පුද්ගල මළ සිරුරක් සොයා ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+In Homagama, a computer engineer named Kilibarai Kale was found dead in his family home. His body was discovered by his sister during her search for him, leading to suspicion of foul play. The police, led by Inspector Purachchi Udaya Kumara, are investigating the case, and the body has been sent for a post-mortem examination.
 
-මෙසේ මියගොස් ඇත්තේ හෝමාගම පිටිපන උතුර , කිරිබේරිය කැලේ, අංක 546 / 01 හි පදිංචි ගාමිණී මෙන්ඩිස් ගුණසේකර නමැති (61) හැවිරිදි පරිගණක ඉංජිනේරුවරයකු බව පොලිසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා විවාහක බිරිඳගෙන් වෙන්ව සිය මව , පියා සහ සහෝදරිය සමඟ මවගේ නිවසේ වාසය කර ඇති අතර මාපියන් පහල මාලයේ සහ මොහු උඩුමහලයේ වාසය කර ඇතැයි පැවසේ.
+A dead body of a two-storied body was found dead in a two-storied house in a two-storied house in a room in the Uddamahala Police, Homagama Police said.
 
-මේ අතර මොහු පහළ මහලට නොපැමිණීම නිසා සොයා බැලීමට මාපියන් සමඟ සිටින සහෝදරිය ඉකුත් 18 දා උඩු මහලට ගොස් සොයා බලා ඇති අතර ඔහු නිවසේ පෙනෙන්නට නොමැතිවීම නිසා යළිත් පහළ මහලට පැමිණ තිබේ.
+The deceased has been identified as the North, Kilibarai Kale, No. 546/1 / 01, a resident of Kirly Kale, No. 546/10, police said.
 
-ඉන් පසුව ඉකුත් 21 දා උදෑසන මිතුරෙකු සමග යොදාගත් ගමනක් යාමට නොපැමිණීම නිසා එම මිතුරා මාපියන්ට දුරකථනයෙන් අමතා පවසා ඇත්තේ දුරකථන ඇමතුම් කිහිපයක් ලබා ගත්තත් ඊට ප්‍රතිචාර නොදක්වන නිසා සොයා බලා දන්වන ලෙසයි.
+The man has lived in his mother's house with his mother, father and sister with his mother, and his sister.
+
+Meanwhile, the sister with parents to look into the lower floor, the sister with parents to look into the upstairs and he was searching for the bottom of the house.
+
+Later, the friend had not come to a journey with a friend on the 21st morning, the friend had asked parents to call for a few phone calls, but not responding to it.
 
 ...
 
 [Data](articles/357ebac3.json)
+
+[Extended Data](ext_articles/357ebac3.ext.json)
+
+---
+
+### International Tea Day
+
+*2024-05-22 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184194) · `ta`
+
+International Tea Day, recognized by the UN, celebrates tea culture globally on May 21. This year, it was marked in Ratnapura, Sri Lanka, by the Kandy Community Development Institute. Participants rallied for worker rights and other concerns, drawing attention from politicians and NGOs.
+
+🟩
+
+International Tea Day recognized by the United Nations is celebrated on May 21 every year.
+
+In the meantime, International Tea Day events were celebrated on Tuesday (21).
+
+The International Tea Day event was celebrated in Ratnapura on Tuesday under the auspices of the Kandy Community Development Institute (ISD).
+
+Executive Director of Kandy Social Development Institute. The event was chaired by Muthulingam, carrying out a rally carrying the posts that wrote their demands, including various issues of the hill station workers.
+
+Subsequently, a public meeting for the event was held at the Ratnapura Urban Council Hall and the event was attended by political figures, state and non -governmental corporations.
+
+◼️
+
+[Data](articles/e79ebe55.json)
+
+[Extended Data](ext_articles/e79ebe55.ext.json)
 
 ---
 
@@ -148,17 +288,23 @@ It has been reported that the woman will be given US $ 1000 US $ 1,000, airline 
 
 ---
 
-### பகிரங்க நிதிசார் முகாமைத்துவம்,பொருளாதார நிலைமாற்றம் சட்டமூலங்கள்  சபைக்கு  சமர்ப்பிப்பு
+### Submission to Public Financial Management, Economic Transfer Bill
 
 *2024-05-22 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184204) · `ta`
 
-பகிரங்க நிதிசார் முகாமைத்துவ சட்டமூலம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலம் என்பன முதலாம் வாசிப்புக்காக சபைக்கு சமர்ப்பிக்கப்பட்டது.
+The Public Financial Management and Economic Transfer Bills were introduced to Parliament for review. Aimed at enhancing financial oversight and economic governance, these bills seek to streamline public fund management, clarify roles, and align policies for better economic transition.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற அமர்வின் போது  ஆளும் தரப்பின் பிரதம கொறடாவான பிரசன்ன ரணதுங்க சட்டமூலங்களை சபைக்கு சமர்ப்பித்தார்.
+🟩
+
+The public financial management Bill and the Economic Transfer Bill were submitted to the Council for the first reading.
+
+During the session in Parliament on Wednesday (22), Prasanna Ranatunga, the prime minister of the ruling party, presented the Bill to the House.
 
 ...
 
 [Data](articles/26ab6028.json)
+
+[Extended Data](ext_articles/26ab6028.ext.json)
 
 ---
 
@@ -204,23 +350,29 @@ The new times have been announced that it will run from 9 am to 10 pm on the 26t
 
 ---
 
-### இனப்படுகொலை குறித்து கனடா பிரதமர் தெரிவித்த விடயங்களிற்கு இலங்கை கடும் கண்டனம் - நல்லிணக்க முயற்சிகளிற்கு பாதிப்பை ஏற்படுத்தும் என கருத்து
+### Sri Lanka's strong condemnation of the Prime Minister of Canada on the genocide will affect the reconciliation efforts.
 
 *2024-05-22 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184200) · `ta`
 
-முள்ளிவாய்கால் நினைவேந்தல் தினத்தை முன்னிட்டு கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ வெளியிட்டுள்ள அறிக்கையில் இனப்படுகொலை குறித்து குறிப்பிடப்பட்டுள்ள விடயங்களை இலங்கை வெளிவிவகார அமைச்சு நிராகரித்துள்ளது.
+Sri Lanka strongly rejects Canadian PM Trudeau's genocide claims, affecting reconciliation efforts. The Foreign Ministry disputes Trudeau's statement on Mullivaikal Memorial Day, calling it unfounded and contrary to UN declarations. It highlights LTTE's ban in 33 countries, including Canada, and asserts that such statements hinder peace among Sri Lankans in Canada.
 
-இலங்கையில் இனப்படுகொலை இடம்பெற்றதாக முன்வைக்கப்பட்டுள்ள கடுமையான குற்றச்சாட்டுகளை இலங்கை அரசாங்கம் திட்டவட்டமாக நிராகரித்துள்ளது என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-இலங்கையில் இடம்பெற்ற இனப்படுகொலைகள் குறித்து கனடாவிலோ அல்லது உலகின் வேறு எந்த பகுதியிலோ உள்ள தகுதிவாய்ந்த அமைப்பும் புறநிலையான தீர்மானத்தை  அறிவிக்கவில்லை எனவும் இலங்கையின் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Sri Lankan Foreign Ministry has rejected the issues referred to in a statement issued by Canada's Prime Minister Justin Trudeau on the eve of Mullivaikal Memorial Day.
 
-தனிநாட்டிற்காக தமிழீழ விடுதலைப்புலிகள் நடத்திய ஆயுத பிரிவினைவாத பயங்கரவாத உள்நாட்டு போரின் இறுதிதருணங்கள் குறித்த இந்த ஆதாரமற்ற குற்றச்சாட்டுகள் ஐக்கியநாடுகள் சபையின் பிரகடனத்திற்கு முரணாக காணப்படுவதாக இலங்கை வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of External Affairs has said that the Sri Lankan government has categorically rejected the serious allegations that have taken place in Sri Lanka.
 
-தமிழீழ விடுதலைப்புலிகள் அமைப்பு கனடா உட்பட 33 நாடுகளில் தடை செய்யப்பட்டுள்ளது எனவும் இலங்கையின் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Foreign Affairs of Sri Lanka said that the qualified organization in Canada or any other part of the world has not announced an objective resolution on the genocide in Sri Lanka.
+
+The Sri Lankan Foreign Ministry has said that these unfounded allegations of the final moments of the terrorist civil war by the Liberation Tigers of Tamil Eelam (LTTE) for individuality are contrary to the declaration of the United Nations.
+
+The Liberation Tigers of Tamil Eelam (LTTE) has been banned in 33 countries, including Canada, the Ministry of Foreign Affairs of Sri Lanka said.
 
 ...
 
 [Data](articles/ed2848a0.json)
+
+[Extended Data](ext_articles/ed2848a0.ext.json)
 
 ---
 
@@ -553,32 +705,6 @@ To smuggle this stock of cocain into Sri Lanka the woman had reportedly been off
 [Data](articles/4e421e08.json)
 
 [Extended Data](ext_articles/4e421e08.ext.json)
-
----
-
-### International Tea Day
-
-*2024-05-22 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184194) · `ta`
-
-International Tea Day, recognized by the UN, celebrates tea culture globally on May 21. This year, it was marked in Ratnapura, Sri Lanka, by the Kandy Community Development Institute. Participants rallied for worker rights and other concerns, drawing attention from politicians and NGOs.
-
-🟩
-
-International Tea Day recognized by the United Nations is celebrated on May 21 every year.
-
-In the meantime, International Tea Day events were celebrated on Tuesday (21).
-
-The International Tea Day event was celebrated in Ratnapura on Tuesday under the auspices of the Kandy Community Development Institute (ISD).
-
-Executive Director of Kandy Social Development Institute. The event was chaired by Muthulingam, carrying out a rally carrying the posts that wrote their demands, including various issues of the hill station workers.
-
-Subsequently, a public meeting for the event was held at the Ratnapura Urban Council Hall and the event was attended by political figures, state and non -governmental corporations.
-
-◼️
-
-[Data](articles/e79ebe55.json)
-
-[Extended Data](ext_articles/e79ebe55.ext.json)
 
 ---
 
@@ -2223,117 +2349,5 @@ From them, the cell phone, the two -country currency notes and the flag of the I
 [Data](articles/23224b27.json)
 
 [Extended Data](ext_articles/23224b27.ext.json)
-
----
-
-### Shocking information about ISIS Sri Lankans trapped in India
-
-*2024-05-21 23:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இந்தியாவில்-சிக்கிய-ISIS-இலங்கையர்கள்-குறித்து-அதிர்ச்சி-தகவல்கள்-வெளியாகின/150-337666) · `ta`
-
-ISIS terrorists from Sri Lanka, including a leader linked to Pakistan, were arrested at Ahmedabad airport in India, planning a suicide attack. They were caught with ISIS flags and cash, indicating their intent and funding source. Their arrest follows a tip-off and investigation revealing plans to hide weapons near Ahmedabad. Legal proceedings are underway based on evidence found during their arrest.
-
-🟩
-
-Gujarat police say that four Sri Lankan ISIS terrorists who were arrested at the Ahmedabad International Airport in India were also ready to carry out a suicide attack.
-
-Four Sri Lankan people from Sri Lanka to Ahmedabad were arrested on Sunday night at the Ahmedabad Sardar Patel International Airport.
-
-They were arrested by the Gujarat Terrorist Force and presented at a press conference yesterday afternoon.
-
-Accordingly, a 33 -year -old man, Mohamed Nusrat, has been identified as a native of Negombo.
-
-Mohamed Nafran, 27, from Colombo, 43 -year -old Mohamed Rashin and 35 -year -old Mohamed Farish are the other terrorists arrested.
-
-They are reportedly traveling from the country to Ahmedabad by Indigo Airlines.
-
-All four terrorists who used only the Tamil language were investigated by the translator.
-
-From them, the cell phone, the two -country currency notes and the flag of the ISIS have been discovered from one's travel package.
-
-...
-
-[Data](articles/eecb3a7e.json)
-
-[Extended Data](ext_articles/eecb3a7e.ext.json)
-
----
-
-### Sri Lanka to launch two pilot projects to address human-elephant conflict
-
-*2024-05-21 22:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99368/sri-lanka-to-launch-two-pilot-projects-to-address-human-elephant-conflict) · `en`
-
-The government plans to initiate two pilot projects, the ‘Temporary Agricultural Electric Fence’ and the ‘Village Electric Fence,’ to protect villages and farmlands experiencing significant elephant-human conflicts.
-
-This announcement was made during a discussion held recently, led by Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, alongside the heads of line agencies, focusing on recent measures to mitigate wild elephant-human conflicts, the PMD reported.
-
-In addition to the existing electric fences built and maintained to mitigate elephant-human conflicts, pilot projects have been initiated in several conflict-prone districts to protect farmlands within regional secretariats’ jurisdictions. These farmlands will be safeguarded only until the harvest season, with a focus on the construction of temporary agricultural electric fences (Agro Fences).
-
-...
-
-[Data](articles/901028a6.json)
-
-[Extended Data](ext_articles/901028a6.ext.json)
-
----
-
-### Sri Lanka a gold medal in Sri Lanka by 400m support
-
-*2024-05-21 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196885) · `si`
-
-Sri Lanka clinched a gold medal in the 400-meter relay at the Bangkok event, led by athletes Dulanwardena, Tarshana, Lakshan, and Lan.
-
-🟩
-
-Sri Lanka won the gold medal in the 400 meter support event in Bangkok, Thailand's Bangkok.
-
-Sri Lanka's 400m Assistant Drawmid Dunawardena, Aruna Tarshana, Pasindu Lakshan and Gasindu Lan.
-
-◼️
-
-[Data](articles/08fe7b85.json)
-
-[Extended Data](ext_articles/08fe7b85.ext.json)
-
----
-
-### Economic Transformation Bill and Public Financial Management Bill to parliament tomorrow
-
-*2024-05-21 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99367/economic-transformation-bill-and-public-financial-management-bill-to-parliament-tomorrow) · `en`
-
-Acting Finance Minister Shehan Semasinghe announced plans to introduce two significant bills to Parliament on Wednesday (May 22), aimed at bolstering the country’s economy.
-
-These bills, the “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, he said.
-
-Minister Semasinghe made this announcement during a press conference at the Presidential Media Centre, themed ‘Collective path to a stable country’.
-
-...
-
-[Data](articles/c6901f30.json)
-
-[Extended Data](ext_articles/c6901f30.ext.json)
-
----
-
-### Democratic Tamil National Alliance (TNA) decision to re -examine alone and jointly
-
-*2024-05-21 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184175) · `ta`
-
-The Democratic Tamil National Alliance (TNA) met to discuss selecting a Tamil candidate for Sri Lanka's presidency but ended without a decision, agreeing to reconsider both individually and collectively. The meeting involved key TNA figures and representatives from civil organizations, focusing on the importance of unity before making a choice.
-
-🟩
-
-The meeting has come to an end on the issue of the Tamil general candidate after the parties of the Democratic National Alliance have said that the final decision can only be taken only after speaking as a separate and coalition.
-
-A meeting between the leaders of the Democratic Tamil National Alliance and the representatives of the Civil Organization was held yesterday at the Co -operative Hall near the Urumpirai Sivakumaran statue.
-
-Siddharthan, Selvam Adakkalanathan, Sureshpremachandran, N. Sirikantha and Venthan participated in the meeting on behalf of the Democratic Tamil National Alliance.. Professor Ganesalingam, researchers Yodilingam, Nilanthan and Velan Swamis were also present on behalf of Sival organizations.
-
-During this conversation, conversations began to make a decisive decision on the stopping of a Tamil general candidate in the upcoming presidential election.
-
-...
-
-[Data](articles/722ccb2b.json)
-
-[Extended Data](ext_articles/722ccb2b.ext.json)
 
 ---

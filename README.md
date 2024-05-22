@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 19:03:39**
+As of **2024-05-22 19:18:32**
 
 ## Newspaper Stats
 
-*Scraped **25,735** Articles*
+*Scraped **25,740** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 231
-bbccomsinhala | 259
 dbsjeyarajcom | 259
+bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
-economynextcom | 1,482
+economynextcom | 1,486
 dailyftlk | 1,521
 adalk | 2,209
 adaderanalk | 2,964
@@ -26,31 +26,69 @@ adaderanasinhalalk | 4,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,734 (100.0%) of 25,735 articles have been extended.
+25,735 (100.0%) of 25,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### மரங்கள் விழுந்ததில் 2 பெண்கள் பலி
+### Sri Lanka to offer military tactics education to armed forces, retirees, civilians: President
+
+*2024-05-22 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-military-tactics-education-to-armed-forces-retirees-civilians-president-164294/) · `en`
+
+ECONOMYNEXT – The government is dedicated to addressing the challenges faced by the members of the Sri Lanka Ex-Servicemen’s Association and other retired government employees, President Ranil Wickremesinghe has said.
+
+“We will establish the Sri Lanka Institute of Strategic Studies, which will offer military tactics education to those in the armed services, retirees, and civilians,” Wickremesinghe was quoted as saying by his media division.
+
+“Interested individuals can participate in these programs. This initiative will coincide with the on-going restructuring of the security force.” The President was speaking at the inauguration of the headquarters complex of the Sri Lanka Ex-Servicemen’s Association, ‘Home of Veterans,’ in Battaramulla.
+
+The president said it was undeniable that retirees bore the brunt of the challenges during the recent ‘difficult period’. “We need to explore what concessions can be offered to each sector.”
+
+...
+
+[Data](articles/75b38060.json)
+
+---
+
+### Govts, oppositions, religions, media have failed Sri Lanka’s war victims: Amnesty chief
+
+*2024-05-22 18:52:00* · [`economynextcom`](https://economynext.com/govts-oppositions-religions-media-have-failed-sri-lankas-war-victims-amnesty-chief-164331/) · `en`
+
+ECONOMYNEXT — Successive governments, opposition leaders, the religious establishment and the media have failed the victims of Sri Lanka’s there-decade-long war and the people at large, Amnesty International’s Secretary General Agnès Callamard said.
+
+“This is a significant year for Sri Lanka, marking 15 years since the end of the three-decade long internal armed conflict that left tens of thousands of people injured, dead, displaced, or forcibly disappeared. But it is not just successive governments that have failed the victims and the people of Sri Lanka. All those in positions of leadership, from elected officials to opposition leaders, the religious establishment and the national media, have failed to hold the line on the fight against impunity,” a statement quoted Callamard as saying at the conclusion of a five-day visit to Sri Lanka.
+
+...
+
+[Data](articles/e6c6cf27.json)
+
+---
+
+### 2 women killed in trees
 
 *2024-05-22 18:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மரங்கள்-விழுந்ததில்-2-பெண்கள்-பலி/94-337734) · `ta`
 
-சீரற்ற காலநிலை நிலை காரணமாக புத்தளம் - மாரவில மற்றும் மாதம்பை பகுதிகளில் வீதியோரத்தில் இருந்த இரண்டு பெரிய மரங்கள் வீழ்ந்ததில் பெண்கள் இருவர் உயிரிழந்துள்ளதுடன், ஆண் ஒருவர் காயமடைந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+In Puttalam-Marawila and Madambai, two women died and a man was injured after falling trees hit them during bad weather. A motorcyclist also crashed, killing a woman and injuring another. The victims are identified as Yadavarake Thon Hansi Ishara, 36, and Nissansala Sarojani, 38. Police are investigating.
 
-மாராவில - பிலாகமுல்ல பிரதேசத்தில் வீதியில் பயணித்த மோட்டார் சைக்கிள் ஒன்றின் மீது பாரிய மரமொன்று வீழ்ந்ததில் மோட்டார் சைக்கிளில் பயணித்த பெண்ணொருவர் உயிரிழந்துள்ளதுடன், மேலும் ஒருவர் காயமடைந்துள்ளார் என மாரவில பொலிஸார் தெரிவித்தனர்.
+🟩
 
-புத்தளம் , நாத்தாண்டிய - உடுவல வீதியின் முட்டிபெதிவில பகுதியைச் சேர்ந்த யடவரகே தொன் ஹன்சி இஷாரா (வயது 36) என்பவரே இவ்வாறு உயிரிழந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+Two women were killed and a male injured in two large trees on the streets of Puttalam - Marawila and Madambai due to inclement weather conditions.
 
-இதேவேளை, மாதம்பை குளியாபிட்டிய வீதியின் சுதுவெல்ல பிரதேசத்தில் மரமொன்று வீழ்ந்ததில் வீதியில் பயணித்த பெண்ணொருவர் உயிரிழந்துள்ளார்.
+A motorcycle riding a motorcycle fell on a motorcycle traveling on a road in the Maravila -Bilagamulla area, and a woman was killed and one person was injured, Marawila police said.
 
-தும்லசூரிய - உடலவெல பகுதியைச் சேர்ந்த நிசன்சலா சரோஜனி (வயது 38) என்பவரே இந்த அனர்த்தத்திற்கு முகம் கொடுத்துள்ளார்.
+The deceased is Yadavarake Thon Hansi Ishara (age 36) from Muttipadivila area of Puttalam, Nattandiya - Uduwala road, police said.
 
-இந்த சம்பவம் தொடர்பில் மாரவில மற்றும் மாதம்பை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Meanwhile, a woman who was traveling on the street was killed when a tree fell in Suduwella area of Kuliyapitiya road in Madambai.
+
+The disaster has been faced by Nissansala Sarojani (age 38) from Dumlasuriya - body.
+
+Marawila and Madambai police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/e9e8d2d0.json)
+
+[Extended Data](ext_articles/e9e8d2d0.ext.json)
 
 ---
 
@@ -103,6 +141,22 @@ Prison media spokesman Prison Spokesman Gaminne, the Commissioner of Prisons Spo
 [Data](articles/5ecb9cb6.json)
 
 [Extended Data](ext_articles/5ecb9cb6.ext.json)
+
+---
+
+### 75 pct of 436 adults surveyed say Sri Lanka headed in wrong direction
+
+*2024-05-22 18:24:00* · [`economynextcom`](https://economynext.com/75-pct-of-436-adults-surveyed-say-sri-lanka-headed-in-wrong-direction-164307/) · `en`
+
+ECONOMYNEXT — Three out of four Sri Lankan adults out of 436 surveyed by an independent policy and research institute have said that the country is heading in the wrong in April 2024 while 3 percent said it was on the right track.
+
+The Institute for Health Policy (IHP) in their Sri Lanka Opinion Tracker Survey (SLOTS) carried out since early 2022 has found that the number of people who say the country is heading in the right direction has remained very low, at less than 10 percent.
+
+“Comparison of IHP SLOTS estimates for Sri Lanka with other countries shows that Sri Lankans are more likely to think the country is headed in the wrong direction than in any other country. In March-April 2024, a global average of 64 percent of adults polled in 29 countries by Ipsos thought their country was headed in the wrong direction compared with 96% in Sri Lanka,” IHP said in a statement.
+
+...
+
+[Data](articles/2467ebbc.json)
 
 ---
 
@@ -183,6 +237,28 @@ Some of the proposed amendments in the Bill of Ege and Communicioners in Sri Lan
 [Data](articles/7ec003ef.json)
 
 [Extended Data](ext_articles/7ec003ef.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 300.10/30 to US dollar
+
+*2024-05-22 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-10-30-to-us-dollar-164281/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to close at 300.10/30 to the US dollar on Wednesday, from 299.80/95 the previous week, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed down at 9.85/10.00 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 closed stable at 10.25/40 percent.
+
+A bond maturing on 01.07.2028 closed up at 10.70/80 percent from 10.60/75 percent.
+
+A bond maturing on 15.01.2030 closed at 11.55/70 percent from 11.50/70 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.75/90 percent from 11.85/12.00 percent. (Colombo/May22/2024)
+
+◼️
+
+[Data](articles/dd4dfb8d.json)
 
 ---
 
@@ -1626,6 +1702,26 @@ It is noteworthy that the final tribute event of Iranian President Ibrahim Raisi
 
 ---
 
+### LPL තරගාවලිය : 'දඹුල්ල තන්ඩර්ස්' කණ්ඩායමේ හිමිකරු රක්ෂිත බන්ධනාගාරයට
+
+*2024-05-22 12:33:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz557y3d1n0o) · `si`
+
+ඉදිරියේදී පැවැත්වීමට නියමිත ලංකා ප්‍රීමියර් ලීග් ක්‍රිකට් තරගාවලියේ දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ හිමිකරු මේ මස 31 වෙනිදා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය විසින් අද ( මැයි මස 22 වෙනිදා) නියෝග කරනු ලැබීය.
+
+තමීම් රහ්මාන් නමැති මෙම සැකකරු අද ( මැයි මස 22) කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ හරහා විදේශගත වීමට යාමේදී ක්‍රීඩා දූෂණ වැළැක්වීමේ අංශය විසින්  අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කරනු ලැබිය.
+
+ඔහු බ්‍රිතාන්‍ය පුරවැසි භාවය හිමි බංග්ලාදේශ ජාතිකයෙකු වන බව පැවසෙයි.
+
+ක්‍රීඩා දූෂණ වැළැක්වීමේ ඒකකය වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥ උදාර කරුණාතිලක, කොළඹ අතිරේක මහේස්ත්‍රාත් හර්ෂණ කැකුණවල හමුවේ කරුණු ඉදිරිපත් කරමින් සඳහන් කළේ ඉදිරියේදී පැවැත්වීමට නියමිත එල් පී එල් ක්‍රිකට් තරගාවලියේදී සිදුකිරීමට නියමිතව තිබූ මහා පරිමාණ තරග පාවාදීමේ සිද්ධියකට අදාළව මෙම සැකකරු අත්අඩංගුවට ගත් ගෙන ඇති බවය.
+
+" ස්වාමීනි.... ඉදිරියේදී පැවැත්වීමට නියමිත එල් පී එල් ක්‍රිකට් තරගාවලියේදී සිදුකිරීමට නියමිතව තිබූ මහා පරිමාණ තරග පාවාදීමේ සිද්ධියකට අදාළව මෙම සැකකරු අත්අඩංගුවට ගෙන තිබෙනවා"
+
+...
+
+[Data](articles/05fc6ad3.json)
+
+---
+
 ### The Economic Change Bill was submitted to the House
 
 *2024-05-22 12:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மாற்ற-சட்டமூலம்-சபையில்-சமர்ப்பிக்கப்பட்டது/175-337692) · `ta`
@@ -2189,131 +2285,5 @@ They have also mentioned the services of Thera in the letter that Gnanasara Ther
 [Data](articles/5d00621f.json)
 
 [Extended Data](ext_articles/5d00621f.ext.json)
-
----
-
-### Dad and son killed two swords and killed by two swords
-
-*2024-05-22 11:17:42* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තා-සහ-පුතා-විසින්--පුද්ගලයෙකුට-කඩු-දෙකකින්-පහරදී-ඝාතනය-කරයි/11-409780) · `si`
-
-In Keraventpu, a 23-year-old man was arrested after allegedly killing his father with two swords over a dispute. The incident occurred at a house on Polhena Pharaweta Road. The victim, a resident of Kahatagas junction, Bandaragama, was rushed to Gonaduwa Hospital but succumbed to his injuries.
-
-🟩
-
-The Keraventpu Police say that a person was assaulted by two swords in a house on a house on a house on the road at Polhena Pharaweta Road, Keraventi.
-
-The victim is a resident of Kahatagas junction of Bandaragama. A 23-year-old man was arrested and the 43-year-old suspect had fled the area.
-
-The first suspect is married to the death of the deceased and the police said a dispute has been resulted in a dispute between the two. The suspect had been assaulted by two swords to the deceased to the deceased evening in the evening.
-
-The 1990 healed ambulance has been admitted to the Gonaduwa Hospital by the 1990 road.
-
-◼️
-
-[Data](articles/ed2ceb8d.json)
-
-[Extended Data](ext_articles/ed2ceb8d.ext.json)
-
----
-
-### Economic Transformation Bill and Public Financial Management Bill tabled in Parliament
-
-*2024-05-22 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99375/economic-transformation-bill-and-public-financial-management-bill-tabled-in-parliament) · `en`
-
-The Economic Transformation Bill and the Public Financial Management Bill have been presented to the Parliament, a short while ago.
-
-Accordingly, the parliamentary session had commenced at 9.30 a.m. today (May 22) while the Economic Transformation Bill and the Public Financial Management Bill were presented to the Parliament for the first reading.
-
-The government says the two significant bills are aimed at bolstering the country’s economy.
-
-The “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, the State Minister of Finance Shehan Semasinghe said recently.
-
-Explaining the bills, he said the “Economic Transformation Law,” is aimed at preventing future economic collapses and that the legislation stems from the vision of President Ranil Wickremesinghe, rather than being proposed by the International Monetary Fund (IMF).
-
-...
-
-[Data](articles/4ef6105e.json)
-
-[Extended Data](ext_articles/4ef6105e.ext.json)
-
----
-
-### Bus collides
-
-*2024-05-22 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-சிறுமி-பலி/175-337678) · `ta`
-
-A tragic accident occurred today as a schoolgirl, 10 years old from Pattithalawa, was fatally struck by a private bus near Kurunduwattai Gampola. The incident happened while she was crossing the road after disembarking from the bus. She was rushed to the nearby hospital but succumbed to her injuries.
-
-🟩
-
-A schoolgirl has died after being hit by a private bus traveling from Paravilai to Gampola this morning at the new Kurunduwattai Gampola.
-
-A 10 -year -old girl from Pattithalawa, Malkola area has died after she was admitted to the new Kurunduwatte Divisional Hospital, police said.
-
-Investigations suggest that the accident occurred when the girl got off the bus and crossed the road in front of the bus.
-
-◼️
-
-[Data](articles/5603844b.json)
-
-[Extended Data](ext_articles/5603844b.ext.json)
-
----
-
-### Wijayadasa's petition postponed
-
-*2024-05-22 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196897) · `si`
-
-Wijayadasa Rajapaksa's appeal petition, presented by attorneys Chandka Jayasundara, was postponed until March 31st by the High Court Judges Gihan Kulathunga and Frank Gunawardena. The case involves MP Duminda Dissanayake and Keerthi Udawatta, both from the Sri Lanka Freedom Party, awaiting a verdict in the Colombo District Court.
-
-🟩
-
-MP Duminda Dissanayake as the Chairman of the Sri Lanka Freedom Party (SLFP) as the President of Keerthi Udawatta as the President of the Sri Lanka Freedom Meeting as a verdict on the occasion as a decision was issued by the Colombo District Court today (22) today (22) In the Western Provincial Civil Appeal, hearing over the third day.
-
-The Court of Justice Wijayadasa Rajapaksa had presented the appeal petition.
-
-The petition was recalled before the High Court Judge Bench comprising Gihan Kulathunga and Frank Gunawardena.
-
-Attorneys Chandka Jayasundara appearing on behalf of the respondents have further forwarded the matter.
-
-The further views further postponed until 31st.
-
-◼️
-
-[Data](articles/64900c3f.json)
-
-[Extended Data](ext_articles/64900c3f.ext.json)
-
----
-
-### Fonseka re -fielded presidential election
-
-*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
-
-Field Marshal Sarath Fonseka, ex-Army Commander, contests the presidential election as an independent candidate, backed by SJP MPs and in talks with others. His campaign focuses on combating corruption and prioritizing national security, involving intellectuals and prominent figures. He plans to boost his campaign through a book revealing insights into his military leadership. Despite a request from President Ranil Wickremesinghe's envoy for a meeting, Fonseka remains committed to his electoral bid, aiming for closer ties with India, China, and the US.
-
-🟩
-
-Former Army Commander Field Marshal Sarath Fonseka has decided to contest the upcoming presidential election, according to Daily Mirror.
-
-Sources close to Fonseka said that the current leader of the United People's Power (SJB) will issue a formal announcement in June.
-
-Fonseka is contesting as an independent candidate without joining any political party.
-
-According to sources, Fonseka has been able to obtain the support of the SJP MPs and is in talks with MPs and politicians of other political parties.
-
-The Daily Mirror claims that Fonseka's campaign will promote a corrupt country and prioritize national security.
-
-He is expected to work with intellectuals and prominent figures during his campaign.
-
-The Daily Mirror has stated that the former army commander will try to increase his presidential effort by publishing a book on the war.
-
-The book is expected to reveal information about the conflict and his role as the then Army Commander.
-
-...
-
-[Data](articles/9ddf6380.json)
-
-[Extended Data](ext_articles/9ddf6380.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 21:18:34**
+As of **2024-05-22 21:33:58**
 
 ## Newspaper Stats
 
-*Scraped **25,760** Articles*
+*Scraped **25,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,76 @@ adalk | 2,211
 adaderanalk | 2,965
 tamilmirrorlk | 3,003
 virakesarilk | 3,910
-dailymirrorlk | 4,050
-adaderanasinhalalk | 4,115
+dailymirrorlk | 4,052
+adaderanasinhalalk | 4,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,756 (100.0%) of 25,760 articles have been extended.
+25,760 (100.0%) of 25,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
+### ලොකුම දන්සල දෙරණෙන්
+
+*2024-05-22 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196917) · `si`
+
+බුදුරජාණන් වහන්සේගේ සම්බුදු තෙමඟුල සිහිකෙරෙන වෙසක් පුන් පොහෝ දිනය හෙටට (23) යෙදී තිබේ.
+
+ආමිස සහ ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් සම්බුදු තෙමඟුල සැමරීම සඳහා මෙරට බෞද්ධ ජනතාව කටයුතු කරයි.
+
+ඒ, අනුව දිවයින පුරා වෙසක් කලාප 419ක් සහ තොරණ 321ක් පැවත්වීමට ද සැලසුම් කර තිබේ.
+
+වෙසක් උත්සවයට සමගාමීව මේ වනවිට දිවයින පුරා දන්සල් 3,260ක් ලියාපදිංචි වී ඇති අතර ඉන් වැඩි ප්‍රමාණයක් ලියාපදිංචි වී ඇත්තේ බස්නාහිර පළාතේය.
+
+ශ්‍රී ලංකාවේ ලොකුම දන්සල ටීවී දෙරණ සංවිධායකත්වයෙන් හෙට වෙසක් පොහෝ දින කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රෙය්දී පැවැත්වෙයි.
+
+24 පැය පුරා පැවැත්වෙන දෙරණ දන්සල හෙට රාත්‍රී 8 ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා වෘත්තීය සූපවේදීන්ගේ සංගමය, කොළඹ මහනගර සභාව, ශ්‍රී ලංකා ගුවන් හමුදාව සමග රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශයද මේ සඳහා දායකවී තිබේ.
+
+මේ අතර දෙරණ මාධ්‍ය ජාලය සංවිධානය කරන 'දෙරණාභිවන්දනා' ශ්‍රී කල්‍යාණි සදහම් වෙසක් සජීවි විකාශය කැලණිය රජ මහා විහාරස්ථානයේ සිට ටීවී දෙරණ සහ එෆ්.එම්. දෙරණ ඔස්සේ හෙට දිනය පුරා ගෙන එනු ලබයි.
+
+...
+
+[Data](articles/1f8ee1bc.json)
+
+---
+
+### In tears...
+
+*2024-05-22 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-tears/110-283177) · `en`
+
+Iranian Ambassador to Sri Lanka Dr. Alireza Delkhosh in tears during a condolence programme held at the Kollupitiya Jumu'ah Mosque today on the demise of Iranian President Ebrahim Raisi. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/5e1dd789.json)
+
+---
+
 ### හෙට සිට අවහිර විය හැකි ප්‍රධාන මාර්ගයක් ගැන පොලීසියෙන් නිවේදනයක්
 
 *2024-05-22 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196916) · `si`
 
-වෙසක් කලාපයක් හේතුවෙන් අවහිර විය හැකි ප්‍රධාන මාර්ගයක් පිළිබඳව පොලීසියෙන් රියදුරන්ට දැනුම්දීමක් සිදුකරයි.
+Drivers: Be aware A main road may be blocked due to a Vesak Zone from tomorrow. Four zones in Veyangoda and seven pandals are set up. The Vesak Kalapaya event is scheduled for April 23rd. Stay informed.
 
-වේයන්ගොඩ පොලිස් වසමේ වෙසක් කලාප 04ක් සහ වෙසක් තොරණ 07ක් ප්‍රදර්ශනය කෙරේ.
+🟩
 
-පොලීසිය දැනුම්දෙන්නේ හෙට (23) සිට දින 07ක් එම වෙසක් කලාපය පැවැත්වෙන බවය.
+Police will notify drivers on a major road that could be blocked due to a Vesak Zone.
+
+Four Vesak Zones in Veyangoda and seven Vesak pandal are displayed.
+
+The police are notified that the Vesak Kalapaya will be held tomorrow (23) to tomorrow.
 
 ◼️
 
 [Data](articles/c7b0d88d.json)
+
+[Extended Data](ext_articles/c7b0d88d.ext.json)
 
 ---
 
@@ -66,25 +110,33 @@ Further, Janaka Dharmakirthi, Secretary of the Ministry, stated that if current 
 
 [Data](articles/7b576ccd.json)
 
+[Extended Data](ext_articles/7b576ccd.ext.json)
+
 ---
 
-### வெசாக் பண்டிகையை முன்னிட்டு கைதிகளுக்கு பொதுமன்னிப்பு
+### Amnesty for prisoners on the eve of Vesak festival
 
 *2024-05-22 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184264) · `ta`
 
-நாளை 23 ஆம் திகதி வியாழக்கிழமை வெசாக் பண்டிகையை முன்னிட்டு 278 கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்படவுள்ளதாக சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+On the eve of Vesak, 278 prisoners, including 15 from Welikada and 37 from Mahara prisons, will be released under special amnesty granted by the President, as per Article 34 of the Constitution, requiring them to make public apologies.
 
-அரசியலமைப்பின் 34வது சரத்தில் வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைய ஜனாதிபதி கைதிகளுக்கு விசேட பொதுமன்னிப்பு வழங்குவார் என சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இரண்டு சிறப்பு நிபந்தனைகளின் கீழ், கைதிகளுக்கு அரசு பொது மன்னிப்பு வழங்கப்படும். அதன்படி,  வியாழக்கிழமை (23) தீவு முழுவதும் உள்ள அனைத்து சிறைகளிலும் உள்ள 278 கைதிகளை விடுதலை செய்ய திட்டமிடப்பட்டுள்ளது.
+Prison Commissioner Gamini B.. Dissanayake said.
 
-வெலிக்கடை சிறைச்சாலையில் இருந்து 15 கைதிகளும், மஹர சிறைச்சாலையில் இருந்து 37 கைதிகளும் விடுவிக்கப்படவுள்ள கைதிகளில் அடங்குகின்றனர்.
+The Prisons Department said that the President will be granted special amnesty to the prisoners in the 34th Article 34 of the Constitution.
 
-விடுதலை செய்யப்பட்ட கைதிகளில் 10 பெண் கைதிகள் இருப்பதாக சிறைத்துறை ஆணையாளர் காமினி பி. திஸாநாயக்க மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+Under two special conditions, prisoners will be given public apology. Accordingly, 278 prisoners are scheduled to be released on Thursday (23).
+
+There are 15 prisoners from the Welikada Prison and 37 inmates from the Mahara Prison.
+
+Prison Commissioner Gamini B. It is noteworthy that Dissanayake added.
 
 ◼️
 
 [Data](articles/289f13d6.json)
+
+[Extended Data](ext_articles/289f13d6.ext.json)
 
 ---
 
@@ -1202,6 +1254,20 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 
 [Data](articles/83867365.json)
 
+[Extended Data](ext_articles/83867365.ext.json)
+
+---
+
+### Preparing for Vesak...
+
+*2024-05-22 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-Vesak/110-283161) · `en`
+
+People are buying lanterns in Colombo to celebrate the Vesak festival which commemorates the birth of the Buddha, his enlightenment and demise. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/c216cfb3.json)
+
 ---
 
 ### Rahiman arrested for rahman associated with Dambulla thunders
@@ -2249,55 +2315,5 @@ Singapore Airlines released the details of passengers on the plane. Of these, 47
 [Data](articles/9f1f4d95.json)
 
 [Extended Data](ext_articles/9f1f4d95.ext.json)
-
----
-
-### Police respond to video on interprovincial travel concerns
-
-*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Police-respond-to-video-on-interprovincial-travel-concerns/155-283154) · `en`
-
-Colombo, May 22 (Daily Mirror) - In response to a recent social media clip depicting a driver being fined for not transferring vehicle ownership and for not carrying a vehicle registration certificate, which has sparked confusion among the public, the police have issued a clarification on the incident.
-
-In a widely circulated video, a female police officer on traffic duty was seen requesting a driver to provide documents proving ownership of the vehicle, as it was being driven in the Sabaragamuwa Province but registered to an individual in the Central Province.
-
-The driver questions whether it is prohibited to drive a vehicle between these provinces, asserting that he hasn't committed any traffic violations.
-
-...
-
-[Data](articles/25ee2ffd.json)
-
-[Extended Data](ext_articles/25ee2ffd.ext.json)
-
----
-
-### Police respond to video on interprovincial travel concerns
-
-*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-respond-to-video-on-interprovincial-travel-concerns/108-283154) · `en`
-
-Colombo, May 22 (Daily Mirror) - In response to a recent social media clip depicting a driver being fined for not transferring vehicle ownership and for not carrying a vehicle registration certificate, which has sparked confusion among the public, the police have issued a clarification on the incident.
-
-In a widely circulated video, a female police officer on traffic duty was seen requesting a driver to provide documents proving ownership of the vehicle, as it was being driven in the Sabaragamuwa Province but registered to an individual in the Central Province.
-
-The driver questions whether it is prohibited to drive a vehicle between these provinces, asserting that he hasn't committed any traffic violations.
-
-...
-
-[Data](articles/40255d29.json)
-
-[Extended Data](ext_articles/40255d29.ext.json)
-
----
-
-### Donate to save lives...
-
-*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Donate-to-save-lives/110-283153) · `en`
-
-A blood donation camp was launched today at the Head quarters of the Sri Lanka Saukyadana Movement in observance of Vesak Poya Day. This marks the fourteenth time the organization has held this event. Pix by Kithsiri de Mel.
-
-◼️
-
-[Data](articles/94072e72.json)
-
-[Extended Data](ext_articles/94072e72.ext.json)
 
 ---

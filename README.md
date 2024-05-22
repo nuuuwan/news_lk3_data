@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 01:52:26**
+As of **2024-05-23 02:03:48**
 
 ## Newspaper Stats
 
-*Scraped **25,791** Articles*
+*Scraped **25,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,523
+dailyftlk | 1,524
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,006
@@ -26,23 +26,43 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,789 (100.0%) of 25,791 articles have been extended.
+25,791 (100.0%) of 25,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### 278 கைதிகளுக்கு மன்னிப்பு
+### Palestinian holocaust: The oppressed has become the oppressor
+
+*2024-05-23 01:48:51* · [`dailyftlk`](https://www.ft.lk/columns/Palestinian-holocaust-The-oppressed-has-become-the-oppressor/4-762134) · `en`
+
+Israeli encroachment into Palestinian territory does not seem different to Hitler’s territorial expansion or greater Lebensraum—“living space”—for the German people
+
+During the war, leaders of the Allied countries—the Soviet Union, United States, and Great Britain—received reports of mass shootings of Jewish civilians, including women and children. In 1942, they learned of the Nazi plan to annihilate Europe’s Jews. While leaders occasionally publicly denounced violence towards Jews, they prioritised winning the war over rescuing Jews – The holocaust encyclopaedia https://encyclopedia.ushmm.org/content/en/question/how-did-leaders-diplomats-and-citizens-around-the-world-respond-to-the-events-of-the-holocaust
+
+...
+
+[Data](articles/b633cc14.json)
+
+---
+
+### 278 pardon the prisoners
 
 *2024-05-23 01:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/278-கைதிகளுக்கு-மன்னிப்பு/175-337737) · `ta`
 
-வெசாக் பண்டிகையை முன்னிட்டு விசேட அரச மன்னிப்பின் கீழ் 278 கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+State amnesty pardons 278 prisoners, including 15 from Welikada, 37 from Mahara, and 10 females, totaling 278 across all prisons.
 
-அரச பொதுமன்னிப்பு பெறும் கைதிகளில் வெலிக்கடை சிறைச்சாலையில் இருந்து 15 கைதிகளும், மஹர சிறைச்சாலையில் இருந்து 37 கைதிகளும் அடங்குவதாகவும், 10 பெண் கைதிகள் உட்பட அனைத்து சிறைச்சாலைகளில் இருந்து 278 கைதிகளும் அடங்குவதாக  திஸாநாயக்க தெரிவித்தார்.
+🟩
+
+Prison Media Spokesperson Gamini B.. Dissanayake said.
+
+Dissanayake said that the state amnesty included 15 prisoners from the Welikada Prison, 37 inmates from the Mahara Prison and 278 inmates from all prisoners, including 10 female prisoners.
 
 ◼️
 
 [Data](articles/44f44b79.json)
+
+[Extended Data](ext_articles/44f44b79.ext.json)
 
 ---
 
@@ -59,6 +79,8 @@ Good news for Anura Dissanayake. Senegal’s new President is 44-year-old Bassir
 ...
 
 [Data](articles/7f3d2d79.json)
+
+[Extended Data](ext_articles/7f3d2d79.ext.json)
 
 ---
 
@@ -2257,35 +2279,5 @@ Director tranquility. Sasikumar, Suri, Unni Mukundan, Samudrakani, Vadivati ​�
 [Data](articles/68cb9c33.json)
 
 [Extended Data](ext_articles/68cb9c33.ext.json)
-
----
-
-### See if lost your motorcycle and see if
-
-*2024-05-22 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196903) · `si`
-
-Two youths, including a 31-year-old named Udugampola, were arrested by Minuwangoda Police for stealing and selling 17 motorcycles. They confessed during interrogation after being caught on Tuesday. The bikes were taken from various locations and one was linked to a murder case in Horana.
-
-🟩
-
-Minuwangoda Police have arrested two youths who sold the stolen motorbikes to be used for underworld members.
-
-They are currently being interrogated on retention orders.
-
-One of them is the 31-year-old Udugampola, Kehelbhale Subasinghe Arachchige, Udugampola, Puratati, Overrama Sidewatta, Manipala, Overramahdemy Kumara.
-
-The second suspect had been arrested by the Minuwangoda Police on Tuesday (14), the second suspect in Minuwangoda.
-
-He has been detained and has revealed everything in question.
-
-They were stolen in a three-wheeler and stolenn 17 motorbikes in Minuwangoda, Weeragula, Weliveriya, Weliweriya, Katana, and Katunayake..
-
-The Minuwangoda police have revealed that the motorcycle used for the murder in Horana, the Minuwangoda police had been shocked by the two.
-
-◼️
-
-[Data](articles/99f78163.json)
-
-[Extended Data](ext_articles/99f78163.ext.json)
 
 ---

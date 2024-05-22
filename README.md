@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 18:23:41**
+As of **2024-05-22 18:35:25**
 
 ## Newspaper Stats
 
-*Scraped **25,725** Articles*
+*Scraped **25,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ bbccomsinhala | 259
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,386
-economynextcom | 1,479
+economynextcom | 1,482
 dailyftlk | 1,521
 adalk | 2,209
 adaderanalk | 2,963
 tamilmirrorlk | 3,001
 virakesarilk | 3,900
-dailymirrorlk | 4,043
+dailymirrorlk | 4,045
 adaderanasinhalalk | 4,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,725 (100.0%) of 25,725 articles have been extended.
+25,725 (100.0%) of 25,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Sri Pada Pilgrim Season ends
+
+*2024-05-22 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Pada-Pilgrim-Season-ends/108-283172) · `en`
+
+Sri Pada pilgrim season 2023/2024 ends with the dawn of Vesak full moon Poya tomorrow.
+
+Chief Incumbent of Sri Padasthana and Sanghanayaka of Sabaragamuwa Province Ven. Bengamuwe Dhammadinna Thera told the media today that the caskets of sacred relics, the statues of the God, and the regalia will be taken in four processions, on Friday (24) through Nallthanniya- Bagawanthalawa- Balangoda, Nallathaniya –Awissawella-Ratnapura, Sri Padasthana- Ratnapura Rajamawatha and, Kuruvita- Erathna pilgrim routes to Galpottawala Rajamaha Vihara in Pelmadulla.
+
+Ven. Dhammadinna Thera said the pilgrims will be permitted to visit Sri Padasthana on Vesak full moon Poya day.
+
+◼️
+
+[Data](articles/52c3a5db.json)
+
+---
+
+### Over 67,000 people affected by extreme weather
+
+*2024-05-22 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-67-000-people-affected-by-extreme-weather/108-283171) · `en`
+
+Colombo, May 22 (Daily Mirror)  -  A total of 67,865 people from 17,325 families across thirteen districts have been affected by adverse weather conditions, with two deaths reported, according to the Disaster Management Centre (DMC).
+
+Accordingly, those in Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Jaffna, Kalutara, Matara, Puttalam, Kurunegala, Hambantota and Gampaha have been affected.
+
+A total of 410 houses have been partially damaged due to the adverse weather conditions.
+
+Meanwhile, very heavy showers of about 150 mm are likely at some places in the Western and Sabaragamuwa Provinces and in the Kandy and Nuwara-Eliya districts. Heavy showers above 100 mm are likely at some places in the North-Western Province and in the Mannar, Galle and Matara districts.
+
+◼️
+
+[Data](articles/51708bc7.json)
+
+---
+
+### Sri Lanka coconut auction prices soar 10-pct
+
+*2024-05-22 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-soar-10-pct-164270/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s coconut prices soared 10.4 percent to 71,081 per 1,000 nuts at an auction on May 22, with prices rising for the third straight week, data from the Coconut Development Authority shows.
+
+Coconut prices have risen 12.9 percent over the past three weeks.
+
+The highest price was 80,100 rupees for 1,000 nuts, up from 74,100 rupees a week ago, while the
+
+A total of 392,995 coconuts were offered at the auction and 306,490 nuts were sold.
+
+Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week
+
+◼️
+
+[Data](articles/3e31f378.json)
+
+---
 
 ### A tree collapses on a motorcycle
 
@@ -141,6 +195,30 @@ He further stated that the instruction manual has provided detailed guidelines o
 [Data](articles/14e23bc3.json)
 
 [Extended Data](ext_articles/14e23bc3.ext.json)
+
+---
+
+### Sri Lanka stocks close up, interest in banks and bluechips return
+
+*2024-05-22 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-banks-and-bluechips-return-164273/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 1.08 percent, or 131.87 points, at 12,348; while the S&P SL20 Index closed up 1.61 percent, or 58.18 points, at 3,666.
+
+Ambeon Capital Plc saw the most active volumes traded, contributing Rs847mn to turnover, and the share closed down at 13.90.
+
+“There were a large amount of crossings today. Possibly high-net-worth investors bargain hunting,” market participants said.
+
+“The market seems to have bottomed out and we saw buying interest coming back. Banking counter was leading, but there was also increased activity on bluechips since many had posted good results.”
+
+John Keells Holdings Plc, which posted good results, closed up at 208.75, and was among the top positive contributors to the ASPI in the day.
+
+Hayleys Plc closed up at 93.80. Hemas Holdings Plc closed up at 88.90.
+
+...
+
+[Data](articles/e9e5f57d.json)
 
 ---
 
@@ -1171,6 +1249,26 @@ Secretary to the Ministry of Public Security, PU Gunathilaka, Additional Secreta
 [Data](articles/2298c748.json)
 
 [Extended Data](ext_articles/2298c748.ext.json)
+
+---
+
+### Sri Lanka agriculture minister asks for potato import tax as people skip meals
+
+*2024-05-22 13:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-agriculture-minister-asks-for-potato-import-tax-as-people-skip-meals-164238/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Agriculture Minister Mahinda Amaraweera has asked for import duties to push potato prices, and control imports despite reports that the poor are skipping meals and selling household goods, and eat less than one meal.
+
+“We have discussed imposing a permanent tax on B-onions and potatoes. This will help stabilise the price. We can remove or reduce the tax in cases of shortage.”
+
+Sri Lanka started to grow potatoes and big onion in Sri Lanka in the 1980s during the time of President J R Jayewardena./
+
+Sri Lanka did the deepest reforms for an open economy in 1977-78, but macro-economists started to print money and the country went into an IMF program within two years as the economy recovered, and more later and the currency started to slide and inflation shot up.
+
+Both potatoes and onions were grown as import substitutes and have received protection for decades.
+
+...
+
+[Data](articles/bbbfde08.json)
 
 ---
 
@@ -2211,113 +2309,5 @@ To smuggle this stock of cocain into Sri Lanka the woman had reportedly been off
 [Data](articles/4e421e08.json)
 
 [Extended Data](ext_articles/4e421e08.ext.json)
-
----
-
-### My Red Comrade: A Review
-
-*2024-05-22 10:39:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-red-comrade-a-review/) · `en`
-
-Sudath Mahaadivulwewa, a renowned Sri Lankan producer, has released his latest film, My Red Comrade. This experimental and politically charged film debates the old and modern views of revolution, emphasising a simpler, childlike perspective.
-
-Using a Native American fable about a wolf, the film critiques capitalism’s destructive impact on the environment and human beings, questioning the social and political issues arising from such an inequitable system. The film opens with the main female character evading a police hunt, hiding in a dilapidated slum occupied by a middle-aged man. This scene, enhanced by astute use of sound and lighting, sets the tone for a night of survival and radical communal humanism.
-
-...
-
-[Data](articles/0bfefeda.json)
-
-[Extended Data](ext_articles/0bfefeda.ext.json)
-
----
-
-### Schoolgirl killed in submerged bus
-
-*2024-05-22 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196895) · `si`
-
-A tragic accident occurred when a 10-year-old schoolgirl from Malgollawa drowned in a submerged bus.
-
-🟩
-
-A schoolgirl has died unlucky
-
-The deceased has been identified as a 10 year old girl from Malgollawa area.
-
-◼️
-
-[Data](articles/88e4f15d.json)
-
-[Extended Data](ext_articles/88e4f15d.ext.json)
-
----
-
-### 19-year-old shot
-
-*2024-05-22 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196894) · `si`
-
-A 19-year-old was shot in Padaviya, leading to an arrest. The incident occurred during dinner at a brother's house, and the victim was treated at Padaviya Hospital before being transferred to Anuradhapura Hospital. A Sri Lankan-made firearm was used, and police believe it stemmed from a personal dispute.
-
-🟩
-
-A person was arrested in connection with the shooting of shooting incident in the Padaviya, Podiyawala area last Monday (20).
-
-The victim had been carried out by a man who was hiding when the injured person was dinner from his brother's house and returned to his home.
-
-Padaviya Police said that a Sri Lankan manufactured firearm has been used for this purpose.
-
-The injured Padaviya hospital has been admitted to Anuradhapura Hospital for further treatment.
-
-Police suspect that the shooting has been carried out due to a personal dispute between the suspect and the injured.
-
-◼️
-
-[Data](articles/91ac8fde.json)
-
-[Extended Data](ext_articles/91ac8fde.ext.json)
-
----
-
-### Lotus tower glows in the colors of the Buddhist flag on Vesak Days
-
-*2024-05-22 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184188) · `ta`
-
-On Vesak Pournami Eve, Lotus Tower in Colombo will glow in Buddhist flag colors, inviting celebrations and featuring an interactive digital art experience called Pixel Bloom.
-
-🟩
-
-The Lotus Tower Administration has said that the Lotus Tower will be glowing in the Buddhist flag colors on the eve of Vesak Pournami Day.
-
-Accordingly, tomorrow (23) and tomorrow the next Friday (24) will glow.
-
-The administration has asked the people to celebrate the Vesak festival with stunning scenes at the Lotus Tower in Colombo.
-
-In this case, the Lotus Tower Administration has also announced the time of Pixel Bloom's brand new, interactive digital art experience on Vesak Days.
-
-◼️
-
-[Data](articles/05d802fb.json)
-
-[Extended Data](ext_articles/05d802fb.ext.json)
-
----
-
-### Filipino woman arrested at BIA with cocaine worth over Rs. 200 mln
-
-*2024-05-22 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99373/filipino-woman-arrested-at-bia-with-cocaine-worth-over-rs-200-mln) · `en`
-
-Sri Lanka Customs officer have arrested a Filipino woman at the Bandaranaike International Airport (BIA) along with 02 kilograms and 851 grams of cocaine estimated to be worth over Rs 200 million.
-
-The officers of the Narcotics Control Unit of Sri Lanka Customs have arrested the Philippine national upon arrival in the country from Ethiopia’s Addis Ababa via Doha, Qatar.
-
-The three parcels containing cocaine were found concealed in her luggage along with three other parcels of chili powder, turmeric powder and wheat flour, the customs spokesman said.
-
-It has also been revealed that the arrested passenger is a 47-year-old employed as an assistant accountant residing in the Philippines.
-
-During interrogations, the suspect has revealed that she had attempted to smuggle the narcotics following arraignments made through a female friend with contacts to drug traffickers.
-
-...
-
-[Data](articles/109dc2e3.json)
-
-[Extended Data](ext_articles/109dc2e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 00:05:19**
+As of **2024-05-23 00:18:27**
 
 ## Newspaper Stats
 
-*Scraped **25,777** Articles*
+*Scraped **25,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 259
 bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
-economynextcom | 1,486
+economynextcom | 1,488
 dailyftlk | 1,521
-adalk | 2,213
+adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,003
 virakesarilk | 3,914
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,776 (100.0%) of 25,777 articles have been extended.
+25,777 (100.0%) of 25,780 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Naval and fishing communities are advised not to venture into the sea areas mark
 ...
 
 [Data](articles/ede258fd.json)
+
+[Extended Data](ext_articles/ede258fd.ext.json)
 
 ---
 
@@ -546,6 +548,26 @@ Addressing the media after a programme held in Ruwanwella, Finance State Ministe
 
 ---
 
+### Sri Lanka opposition drops bombshell on wind power plant tender block
+
+*2024-05-22 19:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-drops-bombshell-on-wind-power-plant-tender-block-164337/) · `en`
+
+ECONOMYNEXT – A tender for a 50 MegaWatt wind power plant by state-run Ceylon Electricity Board has been blocked to prevent sharply lower power purchase prices from competitive bidding being revealed to the public, opposition legislator Kabir Hashim charged in parliament.
+
+A technical evaluation of three companies which had submitted bids had been completed according to information coming to him, Hashim told parliament Wednesday.
+
+“The financial bids were due to be opened on May 17 based on information we are receiving,” Hashim said.
+
+“But due to pressure from certain officials we are learning that there is an attempt to cancel the financial bid. I am asking why the bid was not opened on May 17.
+
+“We learn that the Sustainable Energy Authority Chairman and officials have engaged in a big operation to stop this. I do not know who these people are representing.”
+
+...
+
+[Data](articles/ce00e6ff.json)
+
+---
+
 ### Water -dried Victoria reservoir
 
 *2024-05-22 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184261) · `ta`
@@ -589,6 +611,26 @@ The statement further reads: “This termination/retraction of rights aims to up
 [Data](articles/fe97cc36.json)
 
 [Extended Data](ext_articles/fe97cc36.ext.json)
+
+---
+
+### Ravi Jayasekera to continue as acting chief executive officer for Hemas
+
+*2024-05-22 19:22:00* · [`economynextcom`](https://economynext.com/ravi-jayasekera-to-continue-as-acting-chief-executive-officer-for-hemas-164285/) · `en`
+
+ECONOMYNEXT – Ravi Jayasekera will continue as acting chief executive officer for Hemas Holdings Plc, the company said.
+
+“Ravi Jayasekera has been appointed as the Acting CEO w.e.f. 22nd May 2024 in addition to his current responsibilities as the Chief People Officer of Hemas Holdings PLC. Mr. Ravi Jayasekera in his capacity as the Acting CEO will oversee the affairs of the Company and the Group,” the company said in a stock exchange filing.
+
+“The Board of Directors continues the search for a successor for the position of CEO and has resolved to make the above interim arrangements until a further announcement is made.
+
+Kasturi C Wilson announced her resignation from the position of CEO in October 2023. She continues to serve on the Board of Directors in the capacity of a non-independent non-executive director.
+
+Jayasekera has over 20 years of leadership experience in Human Resources. He was at Union Bank of Colombo PLC immediately prior to joining Hemas.
+
+...
+
+[Data](articles/47337ae1.json)
 
 ---
 
@@ -1632,6 +1674,22 @@ He was arrested on suspicion regarding "trying to propose to fix the match betra
 
 ---
 
+### පාකිස්ථානයෙන් ගේන අර්තාපල් ඇතුලේ කුඩු සහ අයිස්
+
+*2024-05-22 15:26:31* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්ථානයෙන්-ගේන-අර්තාපල්-ඇතුලේ-කුඩු-සහ-අයිස්/11-409788) · `si`
+
+මෙරටට පාකිස්ථානයෙන් ආනයනය කරනු ලබන අර්තාපල් ඇතුලේ මත්ද්‍රව්‍ය රඳවා රුගෙන එන බවට තොරතුරැ ලැබී තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී නිමල් පියතිස්ස මහතා පැවසීය.පාර්ලිමේන්තුවේදී අද (22දා) අර්තාපල් ආනයනය පිළිබඳ ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+මේ අතර අර්තාපල් ආනයනය සඳහා වන බද්ධ ඉහළ දමන ලෙස මන්ත්‍රීවරයා යෝජනාවක් ඉදිරිපත් කළ අතර, ඒ සම්බන්ධයෙන් ක්‍රියාමාර්ග ගෙන ඇති බව ඊට ප්‍රතිචාර දක්වමින් කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+පාර්ලිමේන්තු මන්ත්‍රී නිමල් පියතිස්ස - මේ වන විට නුවරඑළිය දිස්ත්‍රික්කය තුල වගේම ඌව පළාතෙත් අමිහිරි දුෂ්කරතා ගොඩකට මුහුණ දීලා අර්තාපල් අස්වැන්න මේ මොහොත වන විට නෙලමින් ඉන්නවා. මේ අර්තාපල් අස්වැන්න නෙලන මොහොත වෙනකොට අපි පිටරටින් ගොඩක් අර්තාපල් ආනයනය කරනවා. මම අනාවරණයක් කරනවා. පකිස්තානයෙන් ගේන අර්තාපල් ඇතුලේ කුඩු සහ අයිස් තැන්පත් කරලා ගෙන එන ජාවාරමක් ගැන තොරතුරැ අපිට ලැබිලා තියෙනවා. මම ඉල්ලීමක් කරනවා අපේ රටේ ගුණාත්මක භාවයෙන් අර්තාපල් වගා කරන ගොවියා රකින එක අපේ අංක එකේ කාර්ය භාර්යක්. ඒ නිසා මේ ආනයනික අර්තාපල් වලට නැවත වතාවක් යෝදවා ඇති බද්ද වැඩි කරන්න.
+
+...
+
+[Data](articles/325c9e65.json)
+
+---
+
 ### Minister Prasanna's petition is being recalled
 
 *2024-05-22 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196908) · `si`
@@ -2229,89 +2287,5 @@ Commenting on the Palestinian issue, the Norwegian Prime Minister has said that 
 [Data](articles/539520a9.json)
 
 [Extended Data](ext_articles/539520a9.ext.json)
-
----
-
-### Dengue Risk in Kandy - 1621 identified in 18 months
-
-*2024-05-22 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184195) · `ta`
-
-Heavy rains in Sri Lanka's Kandy district have led to a significant increase in dengue cases, with 1621 reported in just over four months. This marks a 25% rise from the same period last year, highlighting the urgent need for environmental cleaning to curb the spread.
-
-🟩
-
-Heavy rains in the central hill country have caused a risk of dengue in the Kandy district, the Health Department said.
-
-In the last 18 weeks (four and a half months), 1621 dengue patients have been identified in the Kandy district.
-
-The number of dengue patients identified in the Kandy district during this period of 2023 was 1440. Accordingly, the up -the -up unit has increased 181 patients this year.
-
-Due to the prevailing heavy rainfall, the health department said that the risk of dengue spread has increased and the environment will be cleaned.
-
-Officials said that legal action would be taken against those who hold the environment in the future to come home to check the household environment in the future.
-
-◼️
-
-[Data](articles/41f78fb4.json)
-
-[Extended Data](ext_articles/41f78fb4.ext.json)
-
----
-
-### Dilantha to Dilantha to Sri Lanka's largest car race in Europe
-
-*2024-05-22 13:18:42* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයේ-ලොකුම-මෝටර්-රථ-ධාවන-තරගය-දීනූ-ඩිලන්ත-ලංකාවට/11-409785) · `si`
-
-Dilantha Malaragamuwa, representing Sri Lanka, is the sole participant from Asia in Europe's largest car race, the World Championships. The event features 50 high-performance cars from 30 countries, primarily from Europe and America. Dilantha aims to win and enhance Sri Lanka's reputation through his participation.
-
-🟩
-
-World Championships, Sri Lankan Motor Traffic Dilangamuwa arrived at the Katunayake Airport this morning.
-
-Speaking to journalists at the airport, Mr. Dilantha Malaragamuwa said:I was the only Sri Lankan who participated in the tournament and the same Asian.
-
-The tournament is the biggest motor race in Europe and was covered with car racing in 30 countries. Most of them represent the European and American continents.
-
-50 cars were attended by two drivers for each of the vehicle.
-
-Also, the tournament was one of the most powerful and advanced cars in the world, and I'm AMG - GD. He used a 4-type car .It 's.
-
-The winners of the World Championship will be selected at the end of 2024 and there are 12 more motor races.. He added that four more motorcies are to be held in the next month, he added that his only prospect was to win the championship tournament and bringing a reputation to Sri Lanka.
-
-He had arrived at the Katunayake Airport on the 662 airport on the morning of 05/22.
-
-◼️
-
-[Data](articles/5b514181.json)
-
-[Extended Data](ext_articles/5b514181.ext.json)
-
----
-
-### Take appropriate action on the Department of Public Security, Immigration and Emigration - urged Harsha de Silva Speaker
-
-*2024-05-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184205) · `ta`
-
-Harsha de Silva criticized the absence of government officials from the Ministry of Public Security and the Department of Immigration and Emigration during a parliamentary session. He highlighted concerns over the allocation of visa distribution services to VFS, urging the presence of relevant departments to address financial controversies and potential violations of parliamentary privacy.
-
-🟩
-
-We have invited the Ministry of Public Security and the Department of Immigration and Emigration to present the Committee to explain the Visa issue.
-
-However, the President of the Government Finance Committee, Dr. Harsha de Silva, said that the government's government officials are not present.
-
-He was speaking at a special statement at a session held in Parliament on Wednesday (22).
-
-We are conducting inquiries to the State Funds Committee on Article 121 of the Standing Ordinance.
-
-We have been summoned to the Government Finance Committee on the 13th and 14th of this month to explain the controversy that VFS has been provided with a visa distribution service.
-
-Secretary to the Ministry of Public Security, PU Gunathilaka, Additional Secretary of the Ministry, Karunaratne, Chief Finance Officer Patirana and Law Officer Vice Chairperson, the Controller of the Department of Immigration and Emigration, Harsha Iluppitiya, Additional Controller, Imal GunawardenaWe had called.
-
-...
-
-[Data](articles/2298c748.json)
-
-[Extended Data](ext_articles/2298c748.ext.json)
 
 ---

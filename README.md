@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 04:03:43**
+As of **2024-05-23 04:18:39**
 
 ## Newspaper Stats
 
-*Scraped **25,806** Articles*
+*Scraped **25,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,531
+dailyftlk | 1,532
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,008
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,805 (100.0%) of 25,806 articles have been extended.
+25,806 (100.0%) of 25,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### CID arrests Aura Lanka Chairman
+
+*2024-05-23 03:52:19* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-Aura-Lanka-Chairman/56-762159) · `en`
+
+The Criminal Investigation Department (CID) yesterday arrested Aura Lanka Group of Companies Chairman Viranjith Thambugala over allegations of financial fraud.
+
+He was remanded in custody till 27 May after appearing before the Colombo Magistrate’s Court yesterday.
+
+Thambugala’s business ventures have been under the scrutiny of authorities, while he was also cleared of charges related to an unauthorised entry into the Anuradhapura prison.
+
+The Illicit Asset Investigation Division of the CID initiated the investigation on the Inspector General of Police’s (IGP) directives.
+
+Thambugala was recently involved in controversy after a flurry of social media accusations surrounding an aloe vera plantation business, alleging that he was involved in unlawful activities through the initiative.
+
+In this context, the IGP’s directives to initiate an investigation into his enterprises and the way in which his assets were acquired are relevant.
+
+◼️
+
+[Data](articles/7065acac.json)
+
+---
 
 ### High Commission facilitates repatriation of 1,732 illegal Lankan migrants from Malaysia
 
@@ -302,21 +324,27 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 
 ---
 
-### போதைபொருள் குறித்து அவதானம் வேண்டும்
+### Should be observed on drugs
 
 *2024-05-23 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைபொருள்-குறித்து-அவதானம்-வேண்டும்/175-337739) · `ta`
 
-பாகிஸ்தானில் இருந்து உருளைக்கிழங்குகள் ஊடாக இலங்கைக்கு ஐஸ் போன்ற போதைப் பொருட்கள் சூட்சுமான முறையில் கடத்தப்படுவதாகவும் இது தொடர்பில் புலனாய்வு பிரிவினர் அவதானம் செலுத்த வேண்டும் என்று சுயாதீன எதிரணி பாராளுமன்ற உறுப்பினர் நிமல் பியதிஸ்ஸ  தெரிவித்தார்.
+Nimal Piyadissa warns of drug smuggling through potatoes from Pakistan into Sri Lanka, affecting local prices and suggesting intelligence focus on this issue.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+🟩
 
-நாட்டில் மரக்கறி வகைகளை அதிக விலைக்கே மக்கள் வாங்க வேண்டியுள்ளது. கரட் விலை கிலோவொன்று 3000 ரூபா வரையில் உயர்வடைந்தது. மரக்கறி உற்பத்தியில் உருளைக்கிழங்கு உற்பத்தியே மிகவும் கடினமானது. ஒரு மூடை உருளைக்கிழங்கு 35,000 ரூபா வரையில் சந்தையில் விற்பனையாகின்றது. உருளைக்கிழங்கு உற்பத்தி செய்யும் விவசாயிகளே அதிக கஸ்டங்களுக்கு முகம்கொடுக்கின்றனர்.
+Independent Opposition Parliamentarian Nimal Piyadissa said that the intelligence unit should pay attention to this that the drugs such as ice such as ice are smuggled into Sri Lanka via potatoes from Pakistan.
 
-இப்போது உருளைக்கிழங்கு அறுவடை இடம்பெறுகின்ற நேரத்தில் வெளிநாட்டில் இருந்தும் உருளைக்கிழங்கு இறக்குமதி செய்யப்படுகின்றது. அவ்வாறு வெளிநாட்டில் இருந்து கொண்டு வரும் உருளைக் கிழங்குகள் பாவனைக்கு உகந்ததாக இல்லை.
+He made this statement while addressing a special statement in Parliament on Wednesday (22).
+
+People have to buy vegetables in the country at a higher price. The price of the carrot increased to up to 3000 rupees per kg. Potato production in vegetable production is very difficult. A mate sells in the market for up to 35,000 rupees. Potato -producing farmers face more customs.
+
+Potatoes are now imported from abroad when the potato harvest is taking place. The potatoes brought from abroad are not conducive to use.
 
 ...
 
 [Data](articles/ed61a070.json)
+
+[Extended Data](ext_articles/ed61a070.ext.json)
 
 ---
 
@@ -2231,27 +2259,5 @@ He was arrested on suspicion regarding "trying to propose to fix the match betra
 [Data](articles/5a09a78d.json)
 
 [Extended Data](ext_articles/5a09a78d.ext.json)
-
----
-
-### Potatoes from Pakistan and Ice
-
-*2024-05-22 15:26:31* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්ථානයෙන්-ගේන-අර්තාපල්-ඇතුලේ-කුඩු-සහ-අයිස්/11-409788) · `si`
-
-MPs discuss potato imports and domestic cultivation in Sri Lanka. Nimal Piyatissa criticizes importing potatoes from Pakistan, advocating for higher taxes on such imports to support local farmers. Mahinda Amaraweera proposes increasing potato transplants and adjusting taxes based on market conditions to help farmers. They also mention a temperature-controlled AgroNurture project initiated in 2019, aiming to boost agricultural productivity.
-
-🟩
-
-MP Nimal Piyatissa made this statement that drugs were taken into the country's drug imported inside Pakistan in Pakistan.
-
-Meanwhile, MP Mahinda Amaraweera said that he had a proposal to increase the transplantation of potatoes, and action had been taken into the matter.
-
-MP Nimal Piyatissa - the harvest of the harvest is currently under the harvest of potatoes in the Nuwara Eliya district and in the Uva Province.. We import a lot of potatoes from abroad to harvest this potato. I reveal. We have received information about the racket of potatoes from Pakistan. I request our number one task wife that keeps the farmer who cultivates potato potatoes in the quality of our country. So increase the tax of these imported potatoes again.
-
-...
-
-[Data](articles/325c9e65.json)
-
-[Extended Data](ext_articles/325c9e65.ext.json)
 
 ---

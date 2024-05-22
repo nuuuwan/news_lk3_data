@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 03:51:48**
+As of **2024-05-23 04:03:43**
 
 ## Newspaper Stats
 
-*Scraped **25,805** Articles*
+*Scraped **25,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,488
 dailyftlk | 1,531
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,007
+tamilmirrorlk | 3,008
 virakesarilk | 3,923
 dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,801 (100.0%) of 25,805 articles have been extended.
+25,805 (100.0%) of 25,806 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Migrant Repatriation Program which was initiated by the Malaysian Government
 
 [Data](articles/70d8bbf2.json)
 
+[Extended Data](ext_articles/70d8bbf2.ext.json)
+
 ---
 
 ### Parliament observe one minute silence for Iranian President
@@ -63,6 +65,8 @@ The Government declared Monday (21) a national mourning day in respect of the la
 ◼️
 
 [Data](articles/9f4b629a.json)
+
+[Extended Data](ext_articles/9f4b629a.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ During his visit, the President engaged in brief conversation with the Iranian A
 
 [Data](articles/e2132ba7.json)
 
+[Extended Data](ext_articles/e2132ba7.ext.json)
+
 ---
 
 ### New regulations to make uncultivated land productive
@@ -95,6 +101,8 @@ The State Minister made these remarks during a press briefing titled “Collecti
 ...
 
 [Data](articles/75926eea.json)
+
+[Extended Data](ext_articles/75926eea.ext.json)
 
 ---
 
@@ -291,6 +299,24 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 [Data](articles/b633cc14.json)
 
 [Extended Data](ext_articles/b633cc14.ext.json)
+
+---
+
+### போதைபொருள் குறித்து அவதானம் வேண்டும்
+
+*2024-05-23 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைபொருள்-குறித்து-அவதானம்-வேண்டும்/175-337739) · `ta`
+
+பாகிஸ்தானில் இருந்து உருளைக்கிழங்குகள் ஊடாக இலங்கைக்கு ஐஸ் போன்ற போதைப் பொருட்கள் சூட்சுமான முறையில் கடத்தப்படுவதாகவும் இது தொடர்பில் புலனாய்வு பிரிவினர் அவதானம் செலுத்த வேண்டும் என்று சுயாதீன எதிரணி பாராளுமன்ற உறுப்பினர் நிமல் பியதிஸ்ஸ  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+
+நாட்டில் மரக்கறி வகைகளை அதிக விலைக்கே மக்கள் வாங்க வேண்டியுள்ளது. கரட் விலை கிலோவொன்று 3000 ரூபா வரையில் உயர்வடைந்தது. மரக்கறி உற்பத்தியில் உருளைக்கிழங்கு உற்பத்தியே மிகவும் கடினமானது. ஒரு மூடை உருளைக்கிழங்கு 35,000 ரூபா வரையில் சந்தையில் விற்பனையாகின்றது. உருளைக்கிழங்கு உற்பத்தி செய்யும் விவசாயிகளே அதிக கஸ்டங்களுக்கு முகம்கொடுக்கின்றனர்.
+
+இப்போது உருளைக்கிழங்கு அறுவடை இடம்பெறுகின்ற நேரத்தில் வெளிநாட்டில் இருந்தும் உருளைக்கிழங்கு இறக்குமதி செய்யப்படுகின்றது. அவ்வாறு வெளிநாட்டில் இருந்து கொண்டு வரும் உருளைக் கிழங்குகள் பாவனைக்கு உகந்ததாக இல்லை.
+
+...
+
+[Data](articles/ed61a070.json)
 
 ---
 
@@ -2227,27 +2253,5 @@ MP Nimal Piyatissa - the harvest of the harvest is currently under the harvest o
 [Data](articles/325c9e65.json)
 
 [Extended Data](ext_articles/325c9e65.ext.json)
-
----
-
-### Minister Prasanna's petition is being recalled
-
-*2024-05-22 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196908) · `si`
-
-Minister Prasanna's appeal petition is being reviewed by the Court of Appeal. Accused of a financial crime, it involves Sampath Abeykoon and P., under Judge Kumaran Ratnam.
-
-🟩
-
-The Court of Appeal today (22) presented the appeals petition filed against the presence of the appeal of the appeal against that punishment.
-
-The Minister was accused of a sum of Rs.
-
-This petition is Sampath Abeykoon and P. The order was called before the Bench of the Court of Appeal consisting of Kumaran Ratnam.
-
-◼️
-
-[Data](articles/14f82a2c.json)
-
-[Extended Data](ext_articles/14f82a2c.ext.json)
 
 ---

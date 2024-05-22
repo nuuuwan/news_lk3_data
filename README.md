@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 08:08:24**
+As of **2024-05-22 08:18:29**
 
 ## Newspaper Stats
 
-*Scraped **25,591** Articles*
+*Scraped **25,595** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 229
-bbccomsinhala | 257
+bbccomsinhala | 258
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,472
-dailyftlk | 1,520
+dailyftlk | 1,521
 adalk | 2,193
-adaderanalk | 2,947
+adaderanalk | 2,949
 tamilmirrorlk | 2,984
 virakesarilk | 3,876
 dailymirrorlk | 4,016
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,591 (100.0%) of 25,591 articles have been extended.
+25,591 (100.0%) of 25,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Trains delayed on main line due to derailment
+
+*2024-05-22 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99370/trains-delayed-on-main-line-due-to-derailment) · `en`
+
+A derailment between Pothuhera and Kurunegala railway stations has reportedly delayed train services on the main line.
+
+An office train plying from Kurunegala to Colombo had derailed in this manner disrupting train services on the main line.
+
+◼️
+
+[Data](articles/ffa03b9d.json)
+
+---
+
+### Heavy rainfall and strong winds expected over the island
+
+*2024-05-22 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99369/heavy-rainfall-and-strong-winds-expected-over-the-island) · `en`
+
+The Meteorology Department says that Southwest monsoon conditions are gradually establishing over the island and hence the prevailing showery and windy conditions will continue further.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces, it said.
+
+Very heavy showers about 150mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts. Heavy showers above 100mm are likely at some places in North-western province and in Mannar, Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island.
+
+Strong winds about 40-50 kmph at times are possible in the western slope of the central hills and in Southern province. Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+...
+
+[Data](articles/a2a5f251.json)
+
+---
 
 ### Cocaine from Ababai from Ababai
 
@@ -157,6 +191,26 @@ Whatever else they possessed, they were told, had been earned in Tamil Eelam and
 [Data](articles/47c548df.json)
 
 [Extended Data](ext_articles/47c548df.ext.json)
+
+---
+
+### Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?
+
+*2024-05-22 05:25:15* · [`dailyftlk`](https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103) · `en`
+
+LTTE chief Prabhakaran came to believe over time that he had the divine right to do away anyone he considered an impediment to his separatist project
+
+Tamil Tigers were led by men who had no long-term vision or strategic clarity; Prabhakaran led LTTE to a destruction no one had thought was ever possible
+
+Weeks before the Tamil Tigers got military obliterated, a despondent Pottu Amman, the LTTE intelligence chief, confided to some of his startled colleagues that there were three main reasons why the prolonged armed struggle for an independent Tamil Eelam appeared to be crawling to its very end.
+
+One, he said, was the decision by the Liberation Tigers of Tamil Eelam (LTTE) in 1990 to force the entire Tamil-speaking Muslim community to quit Sri Lanka’s north with just Rs. 150 and the clothes they were in.
+
+Whatever else they possessed, they were told, had been earned in Tamil Eelam and so must be left behind. Overnight, tens of thousands of Muslims were pauperised and turned homeless.
+
+...
+
+[Data](articles/935e8f59.json)
 
 ---
 
@@ -448,6 +502,28 @@ At a press conference following a landmark judgement where the Supreme Court rul
 
 ---
 
+### ආබාධ සහිත පුද්ගලයින්ට පොදු ප්‍රවාහනය ‘අකැප’ ද?
+
+*2024-05-22 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjlleegyy40o) · `si`
+
+සිතු සේ රිසි තැන බස් රථයක, දුම්රියක හෝ කුලී රථයක නැග බොහෝ දෙනෙකුට ගමන් කළ හැකි වුව ද, තමා සිටින ස්ථානයෙන් ඉවතට පැමිණීම පිළිබඳව එක් වරක් නොව, සිය දහස් වාරයක් සිතිය යුතු පුද්ගලයින් පිරිසක් ඔබ අතර ම සිටින බව ඔබ දැන සිටියා ද?
+
+"හුදු වචන වෙනස් කරා කියල විතරක් ආකල්ප වෙනසක් ඇති කරන්න බැහැ. මොක ද ඒ වචන වෙනස් කරා කියලා මිනිස්සුන්ට ඒක දැනේනෙත් නැහැ," යන්න ඉසුරු මහේෂ් පණ්ඩිතගේ ගේ  අදහසයි.
+
+ඉසුරු යනු, මෙම ලිපිය සඳහා අප වෙත හේතු කාරණා සැපයූ ආබාධ සහිත තැනැත්තන් දෙදෙනාගෙන් කෙනෙකි.
+
+දෘශ්‍යාබාධිත තත්ත්වයකින් පෙළෙන ඔහු වෘත්තීයෙන් නීතිඥවරයෙකි. ආබාධ සහිත පුද්ගලයින්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන ක්‍රියාකාරිකයෙකු මෙන් ම රාජ්‍ය නොවන සංවිධාන සමග ස්වාධීන පර්යේෂකයෙකු ලෙස සහ නීතිය පිළිබඳ පුහුණු වැඩසටහන් ක්‍රියාත්මක කරන්නෙකු ලෙස ඔහු කටයුතු කරයි. ඉසුරු උපන්නේ ගාල්ලේදී ය.
+
+උපතින් අබාධ සහිත තැනැත්තෙකු වීම හේතුවෙන් පූර්ණකාලීනව රෝද පුටු භාවිත කරන ටිකිරි කුමාර ජයවර්ධන බිබිලේ උපන්න ද ඔහු ද මේ වන විට ඉසුරු මෙන් කොළඹට පැමිණ ඇත්තේ, තම වෘත්තීය නිසා ය.
+
+'අන්ධ නිසා වාහනයක් අතගාන්න නොදුන් අය දැන් වාහන හදාගන්න මගේ ළඟට එනවා'
+
+...
+
+[Data](articles/babc518b.json)
+
+---
+
 ### Dengue mosquito spread
 
 *2024-05-22 02:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நுளம்பு-பரவல்-அதிகரிப்பு/175-337670) · `ta`
@@ -714,7 +790,7 @@ Shreyas Iyer did not lose 58 off 24 balls and Venkatesh Iyer 51 off 28 balls.
 
 ---
 
-### Did BASL misappropriate monies sent by JICA for  anti-corruption programme?
+### Did BASL misappropriate monies sent by JICA for anti-corruption programme?
 
 *2024-05-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Did-BASL-misappropriate-monies-sent-by-JICA-for-anti-corruption-programme/231-283121) · `en`
 
@@ -2101,109 +2177,5 @@ In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was
 [Data](articles/344f9270.json)
 
 [Extended Data](ext_articles/344f9270.ext.json)
-
----
-
-### World record for Sri Lankan organizations
-
-*2024-05-21 16:52:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමිතගෙන්-ලෝක-වාර්තාවක්/11-409771) · `si`
-
-Sri Lanka's Societies broke the world record in the F-44 spelling event in Japan, achieving a distance of 66.49 meters.
-
-🟩
-
-In the event of the F-44 spelling event in Japan, the Societies of Sri Lanka was able to set up a new world record with a 66.49 meters in Japan.
-
-◼️
-
-[Data](articles/84d1a500.json)
-
-[Extended Data](ext_articles/84d1a500.ext.json)
-
----
-
-### Those children's clothes literature disunited
-
-*2024-05-21 16:46:00* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-දරුවන්ගේ-ඇදුම්-පොත්පත්-විනාසයි/11-409770) · `si`
-
-Heavy rain caused a palm tree to fall on a house in Pilgatalawa, damaging it but not injuring anyone. The incident occurred while two girls and their mother, who works abroad, were at home. School was closed due to the severe weather conditions.
-
-🟩
-
-Due to the bad weather in the Kandy-Kandy, the loss of a palm tree was damaged due to a house in Pilgatalawa.
-
-The old palm tree near the house was declined on the house at the home of heavy rainfall last night.
-
-It was said that no one was in danger of the tree, as everyone returned from the house with the drop of the tree.
-
-At the time, two girls and the gallery were in the home and the mother of the mother was working abroad and was the mother of their children in a foreign employment.
-
-There were also unable to go to school because of heavy harm to the house.
-
-◼️
-
-[Data](articles/435d4896.json)
-
-[Extended Data](ext_articles/435d4896.ext.json)
-
----
-
-### Sri Lanka stocks close down, John Keells sees interest
-
-*2024-05-21 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-sees-interest-164025/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.15 percent, or 18.17 points, at 12,216; while the S&P SL20 Index closed down 0.15 percent, or 5.53 points, at 3,608.
-
-Turnover was 1.3 billion. Capital goods brought in most of this.
-
-John Keells Holdings Plc saw the most active volumes traded (Rs271mn), the share closed up at 207.00. The conglomerate announced a cash dividend, and an upcoming annual general meeting on May 27.
-
-Lanka IOC Plc was also heavily traded, and the share closed down at 130.00
-
-Market participants believed the short week, and an upcoming monetary policy review, dampened investor sentiment.
-
-“We think there could be renewed buying interest after the review next week.”
-
-A delay in external debt restructuring discussions was also impacting overall market sentiment, particularly in banking stocks, despite interest rates coming down, they said.
-
-...
-
-[Data](articles/ea2c096f.json)
-
-[Extended Data](ext_articles/ea2c096f.ext.json)
-
----
-
-### Sri Lankan IS members arrested in Gujarat - Jews Christians wanted to teach the Lesson to the RSS organization - Indian media
-
-*2024-05-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184158) · `ta`
-
-IS terrorists arrested in Gujarat post-bomb threat; planned attack linked to RSS. Four suspects nabbed in Ahmedabad, connected to Pakistan-based handler "Abu". Weapons found during investigation.
-
-🟩
-
-Four IS terrorists were arrested a few days after the bomb threatened to the Ahmedabad airport in India's Gujarat.
-
-Gujarat police have said that special police teams have been set up to arrest the suspects after receiving information that the suspects are coming to Ahmedabad to engage in a terrorist attack in Gujarat, India.
-
-Gujarat police officer Vikas Sakai said they departed from Chennai on the Indigo flight from Chennai.
-
-After checking the list of passengers from the south, they arrested them with the authorities in Colombo and confirmed their details.
-
-They are in contact with a person from Pakistan, Abu, through social media.
-
-The Gujarat police officer said that Abu prompted them to attack in India and were ready to carry out a suicide attack as they were extremely terrorized.
-
-While examining the suspects' mobile phones, we have found pictures of some weapons.
-
-Gujarat police said that the weapons were arranged by a man from Pakistan.
-
-...
-
-[Data](articles/1db0a8d5.json)
-
-[Extended Data](ext_articles/1db0a8d5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 08:52:51**
+As of **2024-05-22 09:04:01**
 
 ## Newspaper Stats
 
-*Scraped **25,597** Articles*
+*Scraped **25,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,114 @@ adalk | 2,194
 adaderanalk | 2,949
 tamilmirrorlk | 2,984
 virakesarilk | 3,876
-dailymirrorlk | 4,016
-adaderanasinhalalk | 4,090
+dailymirrorlk | 4,022
+adaderanasinhalalk | 4,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,595 (100.0%) of 25,597 articles have been extended.
+25,597 (100.0%) of 25,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ගුවන් යානයක ජීවිතයක් බිලිගනිමින් සිදුවූ අනතුර
+### කොල්කටා කණ්ඩායම අවසන් තරගයට
+
+*2024-05-22 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196891) · `si`
+
+IPL ක්‍රිකට් තරගාවලියේ අවසන් වටයේ පළමු තරගයෙන් ජය හිමිකරගත් කොල්කටා කණ්ඩායම අවසන් මහා තරගයේ තම ස්ථානය තහවුරු කරගත්තේය.
+
+අහමදාබාද්හි පැවති එම තරගයේ කාසියේ වාසියේ දිනූ හයිද්‍රාබාද් කණ්ඩායම පළමුව පන්දුවට පහර දීමට තීරණය කළේය.
+
+ඒ අනුව පිටියට පිවිසි සන්රයිසස් කණ්ඩායමේ පළමු කඩුලු 4 ලකුණු 39කදී දවා ගැනීමට කොල්කටා කණ්ඩායම සමත්විය.
+
+පස්වන කඩුල්ල වෙනුවෙන් පිටියට එක්වූ රාහුල් ත්‍රිපති සහ හෙන්රිච් ක්ලාසන් එක්ව ලකුණු 62ක සබඳතාවක් ගොඩනැගුවේ හයිද්‍රාබාද් ලකුණු පුවරුවට ශක්තියක් ගෙන දෙමිනි.
+
+රාහුල් ත්‍රිපති පන්දු 35කදී ලකුණු 55ක් රැස්කළ අතර හෙන්රිච් ක්ලාසන් ලකුණු 32ක් රැස්කරගත්තේය.
+
+කෙසේවෙතත් සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමට පන්දුවාර 19 යි පන්දු 3කදී සියලුදෙනා දැවි රැස්කරගත හැකිවූයේ ලකුණු 159කි.
+
+මිචෙල් ස්ටාර්ක් ලකුණු 34 ට කඩුලු 3 ක් දවාගත් අතර වරුන් චක්‍රවර්ති ලකුණු 26කට කඩුලු 2 ක් දවාගත්තේය..
+
+ලකුණු 160ක ජයග්‍රාහි ඉලක්කයක් හඹායෑමට පිටියට පිවිසි කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමේ පළමු කඩුලු දෙක ලකුණු 67කදී දවාගැනීමට හයිද්‍රාබාද් පන්දු යවන්නන් සමත්විය.
+
+...
+
+[Data](articles/9a6d6e11.json)
+
+---
+
+### The danger caused by a life of a plane
 
 *2024-05-22 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196890) · `si`
 
-ලන්ඩනයේ සිට සිංගප්පූරුව බලා පියාසර කරමින් තිබූ ගුවන් යානයකදී මියගිය පුද්ගලයා ගැන තොරතුරු අනාවරණය වී තිබේ.
+A plane journey turned deadly, killing several from London to Singapore. Turbulence injured 71 passengers, including citizens from the UK, New Zealand, Spain, the US, and Ireland. Seven passengers' conditions are critical. The flight, carrying 211 passengers and 18 crew, diverted to Bangkok after requesting an emergency landing. Later, 131 passengers reached their destination via another route.
 
-ගුවන් යානය තුළ ඇතිවූ මෙම කැලඹිලිසහගත තත්ත්වය හේතුවෙන් තවත් ගුවන් මගීන්  71 දෙනෙකු තුවාල ලබා ඇත.
+🟩
 
-මැලේසියාව, එක්සත් රාජධානිය, නවසීලන්තය, ස්පාඤ්ඤය, එක්සත් ජනපදය සහ අයර්ලන්තය යන රටවල පුරවැසියන් මෙලෙස තුවාල ලබා තිබේ.
+Details have revealed the dead from London to Singapore on a fly.
 
-ඉන් ගුවන් මගීන් 7 දෙනෙකුගේ තත්ත්වය බරපතළ බවද විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+Another 71 passengers were injured due to this turbulent situation in the plane.
 
-මෙම තත්ත්වය ඇතිවන අවස්ථාවේ එම යානයේ මගීන්  211 දෙනෙකු සහ කාර්ය මණ්ඩලය 18 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The citizens of the United Kingdom, New Zealand, Spain, the Spain, the United States, the US and Ireland have been injured.
 
-විදෙස් වාර්තා සඳහන් කළේ මෙම තත්ත්වයෙන් පසුව බොයිං වර්ගයේ මෙම ගුවන් යානය බැංකොක් වෙත හරවා යවා ඇති බවය.
+Foreign media reports that 7 passengers are serious.
 
-ගුවන්යානය හදිසි ගොඩබෑමකට අවසර ඉල්ලා ඇති අතර ගොඩබෑමට මිනිත්තු 10කට පෙර මෙම අනතුර සිදුව ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+At the time of this situation, 211 passengers and 18 staff had been present.
 
-මගීන් 211 දෙනාගෙන් 131 දෙනෙකු පසුව සිංගප්පූරු ගුවන් සේවයට අයත් වෙනත් යානයකින් ගමනාන්තය වෙත යොමුකර තිබේ.
+After this, the Boeing type has been redirected to Bangkok.
+
+The aircraft has requested permission to land and 10 minutes before the landfall.
+
+Of the 211 passengers, 131 passengers were later sent to the destination from another Singapore.
 
 ◼️
 
 [Data](articles/5a54190d.json)
+
+[Extended Data](ext_articles/5a54190d.ext.json)
+
+---
+
+### Sarath Fonseka to split from SJB; to run for President
+
+*2024-05-22 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sarath-Fonseka-to-split-from-SJB-to-run-for-President/155-283142) · `en`
+
+Former Army Commander, Field Marshal Sarath Fonseka, has decided to contest for Presidency at the upcoming Presidential election, the Daily Mirror learns.
+
+Sources close to Fonseka said that the current Chairman of the Samagi Jana Balawegaya (SJB) will make a formal announcement in June.
+
+Fonseka is to contest as an independent candidate instead of joining forces with any political party.
+
+Sources claimed that Fonseka has also managed to secure the support of a group of SJB MPs and back-door talks are ongoing with MPs and politicians from other political parties.
+
+The Daily Mirror learns that Fonseka's campaign will look at promoting a corruption free country and also give priority to national security.
+
+The former Army Commander took to the streets during the ‘Aragalaya’ protests and will look to ride on the support he got at the time.
+
+He is also expected to work with intellectuals and prominent personalities during his campaign.
+
+...
+
+[Data](articles/d1b146b7.json)
+
+---
+
+### Political parties brace for polls
+
+*2024-05-22 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Political-parties-brace-for-polls/108-283140) · `en`
+
+Colombo, May 22 (Daily Mirror) - With the presidential elections pending, Sri Lanka Podujana Peramuna (SLPP) is planning to conduct a major rally in Anuradhapura on May 26 and a series of grassroots level meetings afterwards while the minority allies of the opposition weigh in the situation before making a final decision on their support to any prospective candidate.
+
+A top official of the SLPP said it will have 12,000 each by the party’s village level electoral organizations, the youth wing and the women wing after the main rally to be conducted in Talawa, Anuradhapura.
+
+“It means we will have 36,000 meetings altogether to empower the rank and file of our party ahead of the elections. We are ready for any election,” he said.
+
+...
+
+[Data](articles/394c46f4.json)
 
 ---
 
@@ -534,6 +606,26 @@ At a press conference following a landmark judgement where the Supreme Court rul
 
 ---
 
+### National consumer prices rise 2.7% in April as both food & non-food prices remain soft
+
+*2024-05-22 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-consumer-prices-rise-2-7-in-April-as-both-food-non-food-prices-remain-soft/108-283118) · `en`
+
+Central Bank largely expected to keep rates unchanged next week as previous cuts doing their work
+
+Consumer prices measured nationally rose by 2.7 percent in April from a year ago, slightly higher from 2.5 percent in through March as the non-food prices rose somewhat faster.
+
+However, the prices still came down by 0.9 percent in April measured on a monthly basis, supported by decline in the prices of both food and non-food prices from a month ago.
+
+Sri Lanka’s inflation has consistently been on single digit levels since July last year as the global commodities prices came down while the supply chains which lost balance during the pandemic came into better balance while the Central Bank made the monetary policy bone crushingly tight causing demand to trim.
+
+The national food prices rose by 3.3 percent in the year through April, slowing from 5.0 percent in March but the prices measured monthly fell 1.4 percent, at a slower pace than the 2.1 percent decline between February and March.
+
+...
+
+[Data](articles/0b9c059d.json)
+
+---
+
 ### Common transportation to persons with disabilities is 'desired'?
 
 *2024-05-22 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjlleegyy40o) · `si`
@@ -627,6 +719,22 @@ He noted that most of the dengue patients have been reported in the Western Prov
 [Data](articles/b20748d9.json)
 
 [Extended Data](ext_articles/b20748d9.ext.json)
+
+---
+
+### Court of Appeal issues orders to suspend Minimum Room Rate
+
+*2024-05-22 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-of-Appeal-issues-orders-to-suspend-Minimum-Room-Rate/108-283117) · `en`
+
+The Court of Appeal yesterday issued interim orders suspending the operation of the Extraordinary Gazette Notification published on 11th September 2023 which imposed a Minimum Room Rate (MRR) for corporate and free independent tourist hotel rooms located within the limits of the Colombo Municipal Council area.
+
+The Petitioners argued that the MRR was implemented without adequate consultation with key stakeholders in the tourism industry. They claimed that the rate lacked a rational basis, pointing out that the Sri Lanka Tourism Development Authority did not conduct a proper study before imposing the MRR.
+
+Several key stakeholders pointed out that the MRR would unfairly favour certain hotel categories while detrimentally affecting the industry as a whole.
+
+...
+
+[Data](articles/211ae648.json)
 
 ---
 
@@ -1338,19 +1446,25 @@ They have found mobile phones, the two countries and the airports of the license
 
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදයක්
+### Special announcement from the Ministry of Education
 
 *2024-05-21 20:34:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදයක්/11-409775) · `si`
 
-දිවයිනේ සියලුම පාසල්වලට හෙට (22) දින නිවාඩු දෙන බව සමාජ මාධ්‍ය ජාල හරහා ප්‍රචාරය වන නිවේදනය අසත්‍ය බව අධ්‍යාපන අමාත්‍යාංශය දන්වා සිටියි.
+The Ministry of Education clarifies that schools will remain open tomorrow despite rumors circulating on social media. The decision was communicated to Provincial Education officials.
 
-එබැවින්, හෙට (22) දින දිවයිනේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාතාංශය නිවේදනය කරයි.
+🟩
 
-එසේම පවත්නා තත්ත්වය මත අවස්ථානුකූලව තීරණ ගැනීමේ බලය පළාත් අධ්‍යාපන ලේකම්වරුන් සහ පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත පවතින බව ද මෙයින් දැනුම් දෙමු.
+The Ministry of Education has announced that the announcement via Social Media Network is false that all schools in the island will leave tomorrow (22).
+
+Therefore, all schools in the island will be held tomorrow (22).
+
+We also notice that the Provincial Education Secretaries and Provincial Education Directors have been informed of the situation due to the existing situation.
 
 ◼️
 
 [Data](articles/9e5a0862.json)
+
+[Extended Data](ext_articles/9e5a0862.ext.json)
 
 ---
 
@@ -2117,121 +2231,5 @@ The month of Vesak holds profound significance, marking the triple blessed day w
 [Data](articles/cf42a755.json)
 
 [Extended Data](ext_articles/cf42a755.ext.json)
-
----
-
-### An accident of coal mine in China
-
-*2024-05-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196872) · `si`
-
-In China, five miners died in a coal mine accident caused by a gas leak. Rescue teams saved four others.
-
-🟩
-
-Five workers have been killed in a coal mine of coal in China.
-
-Preliminary investigations have revealed that a gading rall was accidental.
-
-It is reported that the relief teams have been rescued to save four victims of the mine.
-
-◼️
-
-[Data](articles/5a5da2cb.json)
-
-[Extended Data](ext_articles/5a5da2cb.ext.json)
-
----
-
-### The economy will be weakened by the tax deduction - Sehan Semasinghe
-
-*2024-05-21 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184155) · `ta`
-
-The economy faces potential weakening due to a controversial tax deduction proposed by the current government, sparking criticism from opposition parties. Critics argue this move could lead to economic instability, likening it to previous crises. However, the government insists the tax policy amendments are necessary for economic stability, emphasizing the importance of independent central bank operations and the need for stable economic policies regardless of political changes.
-
-🟩
-
-It is a hunt for the opposition parties who accuse the economy of the Gotabhaya Rajapaksa tax reduction in their government.
-
-Finance Minister Xihan Semasinghe said that the economy should be avoided based on political factors.
-
-Opposition parties have strongly criticized the tax cut offer of former President Gotabhaya Rajapakse (Tax Reduction) today.. Opposition parties must avoid misleading the people for short politics.
-
-The United People's Power states that the joining tax and the tax reducing the tax on the working tax. The economy of the country is now stabilized as the tax policy has been amended.
-
-The country will again face the worst economic crises if the tax policies are amended for short political purpose.
-
-Political parties should avoid making economic decisions based on political factors.
-
-The Central Bank operates independently in accordance with the new Central Bank Act.
-
-If the Central Bank operates on the purpose of the government, the situation of 2022 will appear.
-
-...
-
-[Data](articles/cc989b83.json)
-
-[Extended Data](ext_articles/cc989b83.ext.json)
-
----
-
-### Padhena was sold for Rs. 360 lakhs
-
-*2024-05-21 17:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரூ-360-இலட்சத்திற்கு-விற்கப்பட்டார்-பத்திரன/44-337659) · `ta`
-
-In Colombo, the Sri Lanka Premier League cricket match's player auction is underway. Notably, young Sri Lankan fast bowler Madhasha Pathirana was bought for approximately Rs 360 lakh, equivalent to US $120,000.
-
-🟩
-
-The players for the Sri Lanka Premier League (LPL) cricket match are currently being auctioned in Colombo.
-
-Sri Lankan young fast bowler Madhasha Pathirana has been purchased for US $ 120,000 or nearly Rs 360 lakh.
-
-◼️
-
-[Data](articles/82566332.json)
-
-[Extended Data](ext_articles/82566332.ext.json)
-
----
-
-### Sri Lanka Treasuries yields down, 3-months 8.76-pct
-
-*2024-05-21 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-3-months-8-76-pct-164036/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Tuesday’s action with the 3-month falling below 9.0 percent, data from the state debt office showed.
-
-The 3-month yield fell 28 basis points to 8.76 percent, with all 25 billion rupees of offered securities sold.
-
-The 6-month yield fell 26 basis points to 9.17 percent with all offered 65 billion rupees of bills sold.
-
-The 12-month bill fell 28 basis points to 9.29 percent, with all 70 billion rupees of bills sold. (Colombo/June21/2024)
-
-◼️
-
-[Data](articles/cccced14.json)
-
-[Extended Data](ext_articles/cccced14.ext.json)
-
----
-
-### Foreign Minister Ali Sabry to attend Iranian President Raisi’s funeral
-
-*2024-05-21 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99362/foreign-minister-ali-sabry-to-attend-iranian-president-raisis-funeral) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry will leave for Iran tonight to attend President Dr. Ebrahim Raisi’s funeral in Tabriz, Iran, the Ministry of Foreign Affairs said.
-
-The funeral procession for late Iranian President Ebrahim Raisi and other officials who died in a helicopter crash started Tuesday in the northwestern city of Tabriz.
-
-Tens of thousands of Iranians, including senior officials and military commanders, gathered in the city’s Martyrs Square to witness the funeral rites of the country’s late president and other officials who died in the incident.
-
-Their bodies will be flown later in the day to the central Iranian city of Qom, which is home to one of the revered shrines and religious seminaries where Raisi studied.
-
-Following the second funeral in Qom, they will be brought to the capital Tehran, where Iran’s Supreme Leader Ayatollah Ali Khamenei is expected to lead congregational funeral prayers for them.
-
-...
-
-[Data](articles/7abc1318.json)
-
-[Extended Data](ext_articles/7abc1318.ext.json)
 
 ---

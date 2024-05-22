@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 06:58:20**
+As of **2024-05-22 07:19:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,570 (99.9%) of 25,585 articles have been extended.
+25,581 (100.0%) of 25,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,6 +96,8 @@ Sri Lankan skilled workers are famous in the world for our superior performance 
 
 [Data](articles/8988dc02.json)
 
+[Extended Data](ext_articles/8988dc02.ext.json)
+
 ---
 
 ### Sri Lankan business leader Gowri Rajan to speak at Rotary Foundation Donor Summit in Singapore
@@ -112,6 +114,8 @@ Gowri Rajan an award winning business professional is the Director of Sun Match 
 
 [Data](articles/03b82b9c.json)
 
+[Extended Data](ext_articles/03b82b9c.ext.json)
+
 ---
 
 ### Veteran Toastmaster Bhathiya Hettiarachchi DTM appointed as Club Growth Director for District 82
@@ -123,6 +127,8 @@ In a landmark event for Sri Lanka, distinguished Toastmaster Bhathiya Hettiarach
 ...
 
 [Data](articles/076272a0.json)
+
+[Extended Data](ext_articles/076272a0.ext.json)
 
 ---
 
@@ -139,6 +145,8 @@ These unfounded allegations relate to the conclusion of the armed separatist ter
 ...
 
 [Data](articles/22912849.json)
+
+[Extended Data](ext_articles/22912849.ext.json)
 
 ---
 
@@ -334,19 +342,25 @@ At a press conference following a landmark judgement where the Supreme Court rul
 
 ---
 
-### மின்சாரம் தாக்கி வர்த்தகர் பலி
+### Electrocuted trader kills
 
 *2024-05-22 01:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-வர்த்தகர்-பலி/175-337669) · `ta`
 
-புத்தளம், முந்தல் பிரதேசத்தில் மின்சாரம் தாக்கி வர்த்தகர் ஒருவர் உயிரிழந்துள்ளார் என்று முந்தல் பொலிஸார் தெரிவித்துள்ளனர்.
+Businessman dies from electric shock while fixing power lines at his farm in Mundal, Puttalam, possibly due to a power outage.
 
-இவர் புத்தளம், முந்தல் பிரதேசத்தில் உள்ள தனது கால்நடைப் பண்ணையில் மின் இணைப்புக்களைப் பழுது பார்த்துக் கொண்டிருக்கும்போதே மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+🟩
 
-மின்சார இணைப்பில் ஏற்பட்ட மின் கசிவு காரணமாக இந்த மரணம் இடம்பெற்றிருக்கலாம் என்று பொலிஸார் மேலும் குறிப்பிட்டனர். (a)
+Mundal police said that a businessman has died after being electrocuted in Mundal, Puttalam.
+
+He died of electricity while repairing power lines at his cattle farm in Mundal, Puttalam.
+
+Police further stated that the death may have been due to the power outage caused by the electrical connection.. (A)
 
 ◼️
 
 [Data](articles/e3e95151.json)
+
+[Extended Data](ext_articles/e3e95151.ext.json)
 
 ---
 
@@ -1226,6 +1240,8 @@ The Bank said this is the first time a Sri Lankan bank has engaged with a fintec
 
 [Data](articles/648dcf9b.json)
 
+[Extended Data](ext_articles/648dcf9b.ext.json)
+
 ---
 
 ### ONL rewards its best dealers with a foreign tour for achieving business targets
@@ -1242,6 +1258,8 @@ As the official, authorized Distributor for Brother products in Sri Lanka, ONL h
 
 [Data](articles/7af0dd6c.json)
 
+[Extended Data](ext_articles/7af0dd6c.ext.json)
+
 ---
 
 ### DFCC Bank supports Sri Lanka Tamil Women’s Union’s celebration of International Women’s Day
@@ -1255,6 +1273,8 @@ A spirited celebration of empowerment and solidarity, the event was an inspiring
 ...
 
 [Data](articles/0fe9146f.json)
+
+[Extended Data](ext_articles/0fe9146f.ext.json)
 
 ---
 
@@ -1271,6 +1291,8 @@ Sri Lanka is planning to complete debt restructuring by June 2024 and to go to t
 ...
 
 [Data](articles/018fc4f1.json)
+
+[Extended Data](ext_articles/018fc4f1.ext.json)
 
 ---
 

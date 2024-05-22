@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 23:53:33**
+As of **2024-05-23 00:05:19**
 
 ## Newspaper Stats
 
-*Scraped **25,776** Articles*
+*Scraped **25,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,386
 economynextcom | 1,486
 dailyftlk | 1,521
 adalk | 2,213
-adaderanalk | 2,967
+adaderanalk | 2,968
 tamilmirrorlk | 3,003
 virakesarilk | 3,914
 dailymirrorlk | 4,055
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,776 (100.0%) of 25,776 articles have been extended.
+25,776 (100.0%) of 25,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### ‘Red’ alert for fishing and naval communities out at sea
+
+*2024-05-22 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99389/red-alert-for-fishing-and-naval-communities-out-at-sea) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the southwestern Bay of Bengal Sea.
+
+The ‘red’ alert states that a low-level atmospheric disturbance in the south west Bay of Bengal area has intensified in to a low-pressure area.
+
+It is very likely to move northeastward and concentrate into a depression over the central parts of the Bay of Bengal by May 24, 2024. Then it would continue to move northeastward and intensify further, the advisory said.
+
+Very strong winds of 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and southwestern Bay of Bengal Sea areas.
+
+Naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
+
+...
+
+[Data](articles/ede258fd.json)
+
+---
 
 ### Sri Lankan state enterprises open for private sector investments - state minister
 
@@ -2293,27 +2313,5 @@ Secretary to the Ministry of Public Security, PU Gunathilaka, Additional Secreta
 [Data](articles/2298c748.json)
 
 [Extended Data](ext_articles/2298c748.ext.json)
-
----
-
-### Sri Lanka agriculture minister asks for potato import tax as people skip meals
-
-*2024-05-22 13:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-agriculture-minister-asks-for-potato-import-tax-as-people-skip-meals-164238/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Agriculture Minister Mahinda Amaraweera has asked for import duties to push potato prices, and control imports despite reports that the poor are skipping meals and selling household goods, and eat less than one meal.
-
-“We have discussed imposing a permanent tax on B-onions and potatoes. This will help stabilise the price. We can remove or reduce the tax in cases of shortage.”
-
-Sri Lanka started to grow potatoes and big onion in Sri Lanka in the 1980s during the time of President J R Jayewardena./
-
-Sri Lanka did the deepest reforms for an open economy in 1977-78, but macro-economists started to print money and the country went into an IMF program within two years as the economy recovered, and more later and the currency started to slide and inflation shot up.
-
-Both potatoes and onions were grown as import substitutes and have received protection for decades.
-
-...
-
-[Data](articles/bbbfde08.json)
-
-[Extended Data](ext_articles/bbbfde08.ext.json)
 
 ---

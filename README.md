@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 18:35:25**
+As of **2024-05-22 18:53:47**
 
 ## Newspaper Stats
 
-*Scraped **25,730** Articles*
+*Scraped **25,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,386
 economynextcom | 1,482
 dailyftlk | 1,521
 adalk | 2,209
-adaderanalk | 2,963
-tamilmirrorlk | 3,001
+adaderanalk | 2,964
+tamilmirrorlk | 3,002
 virakesarilk | 3,900
 dailymirrorlk | 4,045
-adaderanasinhalalk | 4,111
+adaderanasinhalalk | 4,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,725 (100.0%) of 25,730 articles have been extended.
+25,730 (100.0%) of 25,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### புலமைப் பரிசில் மாணவர்களுக்கு முக்கிய அறிவிப்பு
+
+*2024-05-22 18:36:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்-பரிசில்-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-337733) · `ta`
+
+2024ம் ஆண்டுக்கான 5ம் தர புலமை பரிசில் பரீட்சைக்கான விண்ணப்பங்கள் அடுத்த வாரம் முதல் ஏற்றுக்கொள்ளப்படவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+அந்த வகையில் பரீட்சைக்கான விண்ணப்பங்கள் இம்மாதம் 27ஆம் திகதி முதல், ஜூன் மாதம் 14ஆம் திகதி வரை இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, குறித்த பரீட்சை எதிர்வரும் செப்டம்பர் மாதம் 15ம் திகதி ஞாயிற்றுக்கிழமை நடைபெறும் எனவும் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+எந்தவொரு சந்தர்ப்பத்திலும் விண்ணப்ப திகதி முடிவடைந்ததன் பின்னர் நீடிக்கப்படாது என பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/2bf1f98e.json)
+
+---
+
+### උතුම් වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන් පිරිසකට සමාව
+
+*2024-05-22 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196914) · `si`
+
+හෙටට (23) යෙදෙන උතුම් වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමීමට පියවර ගෙන තිබේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34වන වගන්තියේ පැවරී ඇති බලතල අනුව ජනාධිපතිවරයා විසින් බන්ධනාගාරගත සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+විශේෂ කොන්දේසි දෙකක් යටතේ මෙලෙස සිරකරුවන් හට රාජ්‍ය සමාව හිමිවනු ඇත.
+
+ඒ අනුව දිවයිනේ සියලුම බන්ධනාගාරවලින් සිරකරුවන් 278 දෙනෙකු හෙට දිනයේ නිදහස් කිරීමට සැලසුම් කර තිබේ.
+
+වැලිකඩ බන්ධනාගාරයෙන් සිරකරුවන් 15 දෙනෙකු සහ මහර බන්ධනාගාරයෙන් සිරකරුවන් 37 දෙනෙකු මෙලෙස නිදහස් කෙරෙන සිරකරුවන් අතරට අයත් ය.
+
+එමෙන්ම නිදහස ලබන සිරකරුවන් අතර කාන්තා රැඳවියන් 10 දෙනෙකු ද සිටින බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි. බි. දිසානායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5ecb9cb6.json)
+
+---
 
 ### Sri Pada Pilgrim Season ends
 
@@ -45,6 +85,8 @@ Ven. Dhammadinna Thera said the pilgrims will be permitted to visit Sri Padastha
 ◼️
 
 [Data](articles/52c3a5db.json)
+
+[Extended Data](ext_articles/52c3a5db.ext.json)
 
 ---
 
@@ -63,6 +105,8 @@ Meanwhile, very heavy showers of about 150 mm are likely at some places in the W
 ◼️
 
 [Data](articles/51708bc7.json)
+
+[Extended Data](ext_articles/51708bc7.ext.json)
 
 ---
 
@@ -83,6 +127,38 @@ Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for sm
 ◼️
 
 [Data](articles/3e31f378.json)
+
+[Extended Data](ext_articles/3e31f378.ext.json)
+
+---
+
+### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතට එරෙහිව පෙත්සමක්
+
+*2024-05-22 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196913) · `si`
+
+ශ්‍රී ලංකා විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතේ ව්‍යවස්ථානුකූලභාවය අභියෝගයට ලක් කරමින් ශ්‍රී ලංකා විද්‍යුත් විකාශකයන්ගේ සංසදය අද (22) ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනු කර තිබේ.
+
+ශ්‍රී ලංකාවේ විද්‍යුත් විකාශන ආයතනවල කටයුතු කෙරෙහි එකී පනත් කෙටුම්පතේ යෝජිත ඇතැම් සංශෝධනයන් මගින් සිදුවන අගතිදායක බලපෑම සහ එමඟින් ඔවුන්ගේ මූලික අයිතිවාසිකම් කඩවීම සම්බන්ධයෙන් ඔවුන් තම පෙත්සම මගින් ශ්‍රේෂ්ඨාධිකරණය වෙත කරුණු ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/7ec003ef.json)
+
+---
+
+### One person injured after tree falls on motorcycle
+
+*2024-05-22 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99385/one-person-injured-after-tree-falls-on-motorcycle) · `en`
+
+A motorcyclist has reportedly been injured and hospitalised after a tree fell on him while he was travelling on the Hatton- Bogawantalawa main road in the Wanarajawatta area today (22).
+
+Ada Derana reporter stated that the injured motorcyclist was admitted to the Dickoya District Base Hospital.
+
+The strong gusty winds blowing across the Central Hills today is believed to have caused the tree to fall.
+
+◼️
+
+[Data](articles/c8563d39.json)
 
 ---
 
@@ -219,6 +295,8 @@ Hayleys Plc closed up at 93.80. Hemas Holdings Plc closed up at 88.90.
 ...
 
 [Data](articles/e9e5f57d.json)
+
+[Extended Data](ext_articles/e9e5f57d.ext.json)
 
 ---
 
@@ -1270,6 +1348,8 @@ Both potatoes and onions were grown as import substitutes and have received prot
 
 [Data](articles/bbbfde08.json)
 
+[Extended Data](ext_articles/bbbfde08.ext.json)
+
 ---
 
 ### President condoles Iran's embassy over the demise of Iran
@@ -2225,89 +2305,5 @@ The book is expected to reveal information about the conflict and his role as th
 [Data](articles/b63fa879.json)
 
 [Extended Data](ext_articles/b63fa879.ext.json)
-
----
-
-### Naval, fishing communities advised not to venture out to sea until further notice
-
-*2024-05-22 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99374/naval-fishing-communities-advised-not-to-venture-out-to-sea-until-further-notice) · `en`
-
-The Department of Fisheries and Aquatic Resources (DFAR) has advised all those engaged in naval and fishing activities not to venture out to sea until further notice.
-
-Meanwhile, the Meteorology Department warns that the sea areas extending from Colombo to Pottuvil via Galle and Hambantota will be very rough at times while the sea areas extending from Mannar to Colombo will be rough at times.
-
-Therefore, naval and fishing communities are advised not to venture into these sea areas, until further notice.
-
-It further said showers or thundershowers will occur at times in the sea areas extending from Mannar to Hambantota via Colombo and Galle, and that heavy showers are likely at some places. Showers or thundershowers will occur at several places in the other sea areas around the island.
-
-Wind speeds are expected to reach 40-50 kmph and wind speed may increase up to 60-70 kmph at times in the sea areas extending from Mannar to Pottuvil via Colombo, Galle and Hambantota, it warned.
-
-...
-
-[Data](articles/c9f4f24d.json)
-
-[Extended Data](ext_articles/c9f4f24d.ext.json)
-
----
-
-### The business guarantee suspicions that Iranian Ambassador was assaulted
-
-*2024-05-22 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196896) · `si`
-
-A businessman suspected of assaulting Iran's ambassador was released on bail. The incident occurred in a Colombo shopping complex parking lot.
-
-🟩
-
-The businessman who was arrested on suspicion of assaulting Iranian Ambassador had been released on bail.
-
-The suspect is the presence of the Fort Magistrate Kosala Senaera.
-
-The Ambassador of Iranian was assaulted in a car park in a major shopping complex in Colombo.
-
-◼️
-
-[Data](articles/79ff0665.json)
-
-[Extended Data](ext_articles/79ff0665.ext.json)
-
----
-
-### Schoolgirl run over by bus in Gampola
-
-*2024-05-22 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirl-run-over-by-bus-in-Gampola/108-283147) · `en`
-
-Gampola, May 22 (Daily Mirror) - A schoolgirl died after being hit by a private bus travelling from Berawila to Gampola at New Kurunduwatta, Gampola this morning.
-
-Police said the 10-year-old girl, a resident of Malgolla, Patitalawa, died after being admitted to the New Kurunduwatta Regional Hospital.
-
-According to investigations, the accident had occurred when the girl had got off the bus and was crossed the road in front of the bus.
-
-Both the driver and conductor of the bus have been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/eacadf08.json)
-
-[Extended Data](ext_articles/eacadf08.ext.json)
-
----
-
-### Filipino woman arrested at BIA with cocaine worth Rs. 200 Mn
-
-*2024-05-22 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Filipino-woman-arrested-at-BIA-with-cocaine-worth-Rs-200-Mn/108-283146) · `en`
-
-BIA, May 22 (Daily Mirror) - A 47-year old Filipino woman was arrested at the Katunayake International Airport for attempting to smuggle over 2 kgs of cocaine worth Rs. 200 million into Sri Lanka.
-
-Airport Customs officers of the Narcotics Control Unit arrested the suspect who had smuggled the stock of cocaine from Addis Ababa, Ethiopia.
-
-The Customs said she attempted to smuggle three parcels of cocaine weighing over 2 kgs by concealing it in her luggagge with three parcels containing chilli powder, turmeric powder and wheat flour.
-
-To smuggle this stock of cocain into Sri Lanka the woman had reportedly been offered USD 1,000, air tickets and hotel accommodation to stay in Sri Lanka for five days.
-
-◼️
-
-[Data](articles/4e421e08.json)
-
-[Extended Data](ext_articles/4e421e08.ext.json)
 
 ---

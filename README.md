@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 20:03:42**
+As of **2024-05-22 20:18:31**
 
 ## Newspaper Stats
 
-*Scraped **25,742** Articles*
+*Scraped **25,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 1,521
 adalk | 2,210
 adaderanalk | 2,965
 tamilmirrorlk | 3,003
-virakesarilk | 3,900
-dailymirrorlk | 4,045
+virakesarilk | 3,903
+dailymirrorlk | 4,047
 adaderanasinhalalk | 4,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,742 (100.0%) of 25,742 articles have been extended.
+25,742 (100.0%) of 25,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### LPL terminates contract with Dambulla franchise owners
+
+*2024-05-22 19:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LPL-terminates-contract-with-Dambulla-franchise-owners/108-283175) · `en`
+
+Colombo, May 22 (Daily Mirror)- The Lanka Premier League (LPL) today  announced the termination/retraction of rights of the Dambulla Thunders franchise, effective immediately following the arrest of Bangladeshi national Tamim Rahman, CEO of the Imperial Sports Group over alleged match-fixing.
+
+LPL rights holder IPG Group chairman Anil Mohan said while the specifics of the charges against Rahman remain unclear, the integrity and smooth running of the Lanka Premier League are of utmost importance.
+
+This termination/retraction of rights aims to uphold the values and reputation of the LPL, ensuring that all participants adhere to the highest standards of conduct and sportsmanship.
+
+The LPL management is working diligently to address the consequences of this termination/ retraction of rights and to ensure minimal disruption to the upcoming season.
+
+...
+
+[Data](articles/c3e036b3.json)
+
+---
+
+### Finance ministry to revise customs rewards after audit reveals Rs. 24,220 million payout
+
+*2024-05-22 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-ministry-to-revise-customs-rewards-after-audit-reveals-Rs-24-220-million-payout/108-283173) · `en`
+
+Colombo, May 22 (Daily Mirror) - In response to a recent report from the National Audit Office, which revealed that over Rs. 24,220 million has been paid to customs officials and informants as reward money over the past eleven years, the Finance Ministry has decided to revise the distribution of customs fines, the compensation fund, and the rewards for customs officers.
+
+Addressing the media after a programme held in Ruwanwella, Finance State Minister Ranjith Siyambalapitiya said that the latest report revealed that more than Rs. 24,220 million was given to the customs officials and informants as reward money between the years 2012 and 2023 without the approval of the Finance Minister.
+
+"Until now, 30% of the fines received by the customs were given to the government, 20% to the compensation fund, and 50% to the raiding officers, as agreed in the ongoing discussions with the customs unions and the customs control authority," Minister Siyambalapitiya said.
+
+...
+
+[Data](articles/d457796f.json)
+
+---
+
+### நீர் வற்றியுள்ள விக்டோரியா நீர்த்தேக்கம்
+
+*2024-05-22 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184261) · `ta`
+
+நாடு முழுவதும் கடும் மழைபெய்வதன்  காரணமாக நீர்த்தேக்கங்கள் நிரம்பி வழிந்தாலும், நீர் மின் உற்பத்திக்கு அதிக அளவில்  நீர் வழங்கும் மிகப் பெரிய நீர்த்தேக்கமான விக்டோரியா நீர்த்தேக்கத்தின் நீர் வற்றிய நிலையின் காணப்படுகிறது.
+
+22 ம் திகதி புதன்கிழமை பிற்பகல் எடுக்கப்பட்ட இப் படங்கள் விக்டோரியா நீர்த்தேக்கத்தின் நீர் எவ்வாறு வற்றியுள்ளது என்பத்தை காட்டியது.
+
+விக்டோரியா நீர்த்தேக்கத்தின் நீர் வற்றியுள்ளதன் காரணமாகப்  பழைய தெல்தெனிய நகரின் சில பழைய பகுதிகளைக் காட்டுகிறது.
+
+கண்டி மாவட்டம் உள்ளிட்ட மத்திய மலையகப் பகுதிகளில் கடும் மழை பெய்து வருகின்ற போதிலும், விக்டோரியா நீர்த்தேக்கத்தின் நீர்போஷன பகுதிகளுக்கு போதிய மழை பெய்யாத காரணத்தினால் விக்டோரியா நீர்த்தேக்கம் வறண்டு காணப்படுவதாகத் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/e470c699.json)
+
+---
 
 ### LPL terminates ‘Dambulla Thunders’ franchise with immediate effect
 
@@ -51,6 +103,28 @@ The statement further reads: “This termination/retraction of rights aims to up
 [Data](articles/fe97cc36.json)
 
 [Extended Data](ext_articles/fe97cc36.ext.json)
+
+---
+
+### நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே முதல் பணி; பாதுகாப்பு  விசேட ஏற்பாடுகள் சட்டத்தை சமர்ப்பிக்கவும் ஏற்பாடு - ஜனாதிபதி
+
+*2024-05-22 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184260) · `ta`
+
+நாட்டைப் பொறுப்பேற்ற பின்னர் நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே தனது முதல் பணியாக இருந்தது என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+எதிர்வரும் நான்கைந்து வருடங்களில் நாட்டின் பொருளாதாரத்திற்கு எடுக்கப்பட வேண்டிய தீர்மானங்களை விரைவாக எடுக்க வேண்டியிருந்ததாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+நாடு தற்போது பொருளாதார ரீதியில் முன்னேற்றம் கண்டு வருகிறது எனவும், வங்குரோத்து நிலையில் இருந்து முழுமையாக விடுபடுவது தொடர்பாக கடன் வழங்கிய நாடுகளுடன் இப்போது பேச்சுவார்த்தை நடத்தி வருவதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+தற்போது முன்னெடுக்கப்பட்டு வரும் பணிகளை சர்வதேச நாணய நிதியம் ஏற்கனவே  ஏற்றுக்கொண்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+இந்த நிலையில், பாதுகாப்பு  விசேட ஏற்பாடுகள் சட்டத்தை சமர்ப்பிக்க எதிர்பார்ப்பதாக தெரிவித்த ஜனாதிபதி, தேசிய பாதுகாப்பு சபையை சட்டபூர்வமாக்குவதற்கும் ஆயுதப்படை குழுவை நியமிப்பதற்கும் தான் எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+
+அத்துடன், ஓய்வுபெற்ற பாதுகாப்புப் படை வீரர்களின் வாழ்க்கைத் தரத்தை மேம்படுத்த புதிய வேலைத்திட்டம் ஒன்று அமுல்படுத்தப்படும் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/ca12753f.json)
 
 ---
 
@@ -913,6 +987,24 @@ Increasing other uniforms, travel, communication offers, the Secretary of the Mi
 [Data](articles/2f6e9fb6.json)
 
 [Extended Data](ext_articles/2f6e9fb6.ext.json)
+
+---
+
+### கடன் மறுசீரமைப்பு நடவடிக்கையை அரசாங்கம் மேற்கொள்ளப்போவதில்லை - லக்ஷ்மன் கிரியெல்ல
+
+*2024-05-22 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184231) · `ta`
+
+கடன் மறுசீரமைப்பு தொடர்பில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை ஜனாதிபதி தேர்தல் முடியும்வரை முடிவுக்கு கொண்டுவரப்போவதில்லை. ஏனெனில் கடன் மறுசீரமைப்பு செய்யாமல் இருக்கும்வரை கடன் செலுத்த தேவையில்லை.
+
+நாட்டை வங்குராேத்தாக்கிய அரசாங்கத்துக்கு நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முடியாது.அதனால் புதிய அரசாங்கம் ஒன்றை ஏற்படுத்திக்கொள்ள  அரசாங்கம் வழிவிட வேண்டும் என எதிர்க்கட்சி பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற சபை ஒத்திவைப்பு வேளை பிரேரணையை முன்வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+அரசாங்கம் இந்த காலப்பகுதியில் 75 புதிய சட்டங்களை கொண்டுவந்து அனுமதித்துக்கொண்டுள்ளதாக ஜனாதிபதி அண்மையில் தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/db1baea2.json)
 
 ---
 
@@ -2183,129 +2275,5 @@ Observing of a minute's silence was proposed by Chief Government Whip Prasanna R
 [Data](articles/77d4fece.json)
 
 [Extended Data](ext_articles/77d4fece.ext.json)
-
----
-
-### Lotus tower to Vesak is glowing in the color of Buddhist flag
-
-*2024-05-22 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்கிற்கு-தாமரைக்-கோபுரம்-பௌத்த-கொடி-நிறத்தில்-ஒளிரும்/175-337683) · `ta`
-
-The Lotus Tower in Colombo will glow in Buddhist flag colors on May 23rd and 24th, marking Vesak celebrations. The Pixel Bloom area will operate from 9 AM to 1 AM from May 23rd to 26th, extending its hours until 10 PM on the 26th.
-
-🟩
-
-The Lotus Tower will be glowing in the color of the Buddhist flag in front of Vesak Boya, according to the Colombo Lotus Tower Agency (Private).
-
-Accordingly, tomorrow (23) and tomorrow (Thursday 24th) the tower will be light in the Buddhist flag colors.
-
-Meanwhile, the Faculty of the Tower's Management Faculty announced their new Pixel Bloom operating time during the Vesak period.
-
-Accordingly, the Pixel Bloom area will run from 9 am to 1 am from May 23 to May 26.
-
-The new times have been announced that it will run from 9 am to 10 pm on the 26th.
-
-◼️
-
-[Data](articles/f2f4c08c.json)
-
-[Extended Data](ext_articles/f2f4c08c.ext.json)
-
----
-
-### What happened to him until he died in the house of the house until the sanctuary hearing?
-
-*2024-05-22 11:28:42* · [`adalk`](https://www.ada.lk/breaking_news/නිවසේ-උඩුමහලේ-මිය-ගොස්-දුගඳ-හමන-තෙක්-කවුරුත්-දැන-නොගත්-ඔහුට-සිදුවූයේ-කුමක්ද--/11-409782) · `si`
-
-In Homagama, a 61-year-old computer engineer was found dead in his family home. He lived there with his parents and sister. His sister discovered him unresponsive in a bedroom after he failed to join her on a trip. The police believe he died around four days prior, suggesting his sister could have found him sooner.
-
-🟩
-
-A dead body of a two-storied body was found dead in a two-storied house in a two-storied house in a room in the Uddamahala Police, Homagama Police said.
-
-The deceased has been identified as the north of the Homagama, Kiribaraya, 61 year old computer engineer.
-
-The man has lived in his mother's house with his mother, father and sister with his mother, and his sister.
-
-Meanwhile, the sister with parents to look into the lower floor, the sister with parents to look into the upstairs and he was searching for the bottom of the house.
-
-Later, the friend had not come to a journey with a friend on the 21st morning, the friend had asked parents to call for a few phone calls, but not responding to it.
-
-Accordingly, when the sister goes up the sister, it has been seen behind a bed behind a bed of a room in a room where it is overwhelming. The police said that the police officers were uncovered to the police informed the suspect parents and found the body of the poor who were not recognizable.
-
-...
-
-[Data](articles/f1e870ef.json)
-
-[Extended Data](ext_articles/f1e870ef.ext.json)
-
----
-
-### Sri Lanka's strong condemnation of the Prime Minister of Canada on the genocide will affect the reconciliation efforts.
-
-*2024-05-22 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184200) · `ta`
-
-Sri Lanka strongly rejects Canadian PM Trudeau's genocide claims, affecting reconciliation efforts. The Foreign Ministry disputes Trudeau's statement on Mullivaikal Memorial Day, calling it unfounded and contrary to UN declarations. It highlights LTTE's ban in 33 countries, including Canada, and asserts that such statements hinder peace among Sri Lankans in Canada.
-
-🟩
-
-The Sri Lankan Foreign Ministry has rejected the issues referred to in a statement issued by Canada's Prime Minister Justin Trudeau on the eve of Mullivaikal Memorial Day.
-
-The Ministry of External Affairs has said that the Sri Lankan government has categorically rejected the serious allegations that have taken place in Sri Lanka.
-
-The Ministry of Foreign Affairs of Sri Lanka said that the qualified organization in Canada or any other part of the world has not announced an objective resolution on the genocide in Sri Lanka.
-
-The Sri Lankan Foreign Ministry has said that these unfounded allegations of the final moments of the terrorist civil war by the Liberation Tigers of Tamil Eelam (LTTE) for individuality are contrary to the declaration of the United Nations.
-
-The Liberation Tigers of Tamil Eelam (LTTE) has been banned in 33 countries, including Canada, the Ministry of Foreign Affairs of Sri Lanka said.
-
-...
-
-[Data](articles/ed2848a0.json)
-
-[Extended Data](ext_articles/ed2848a0.ext.json)
-
----
-
-### Sri Lanka opposition leader asks for jobs for unemployed graduates, more salaries
-
-*2024-05-22 11:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-asks-for-jobs-for-unemployed-graduates-more-salaries-164198/) · `en`
-
-ECONOMYNEXT – Sri Lanka opposition leader asked for permanent jobs 465 unemployed graduates and to clear ‘salary anomalies’ of a group of state workers.
-
-There was no information on how much more tax payer funds are needed to pay for additional state workers.
-
-“There was an anomaly, when appointments were given to 50,000-60,000 graduates, because of shortcomings on the officials part in processing documents, 465 graduates were overlooked.”
-
-Premadasa said he had also asked for appointments for 465 unemployed graduates on a previous occasion too but there has been no response from the government.
-
-He also asked for 2,064 people manning railway crossings who were only paid 7,500 rupees a month, to be given permanent appointments. (Colombo/May22/2024)
-
-◼️
-
-[Data](articles/101ac838.json)
-
-[Extended Data](ext_articles/101ac838.ext.json)
-
----
-
-### Chilaw Puttalam road obstructed
-
-*2024-05-22 11:20:58* · [`adalk`](https://www.ada.lk/breaking_news/හලාවත-පුත්තලම-මාර්ගයේ-ගමනා-ගමනයට-බාධා/11-409781) · `si`
-
-Heavy rains caused a 3-hour obstruction on the Chilaw-Puttalam road near Ruywa Saragahakana. Authorities cleared the blockage after removing debris from the Maragapitiya area. This incident highlights the importance of preparedness during adverse weather conditions to prevent traffic disruptions and ensure safety.
-
-🟩
-
-With the rainy season with rain, the Ruywa Saragahakana in Chilaw, Chilaw, Saragalawa, Saragalawa, Saragasikatura, was disrupted for 3 hours.
-
-The stock was removed before the Maragapitiya Development Authority to visit the Maraga Development Authority. The former chairman of the Hold Arachchikattuwa Pradeshiya Sabha, the former Chairman of the Archtrachchikattuwa Pradeshiya Sabha.
-
-When you collapse, if the school was held at the time of the decline, if the traffic was traveling, he would see that he would be more disaster than we could see. (I J)
-
-◼️
-
-[Data](articles/4a997b03.json)
-
-[Extended Data](ext_articles/4a997b03.ext.json)
 
 ---

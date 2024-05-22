@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 16:18:37**
+As of **2024-05-22 16:33:56**
 
 ## Newspaper Stats
 
-*Scraped **25,707** Articles*
+*Scraped **25,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,60 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,206
+adalk | 2,207
 adaderanalk | 2,960
 tamilmirrorlk | 3,001
 virakesarilk | 3,898
 dailymirrorlk | 4,037
-adaderanasinhalalk | 4,109
+adaderanasinhalalk | 4,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,696 (100.0%) of 25,707 articles have been extended.
+25,707 (100.0%) of 25,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### අද 22 සිට නැවත දැනුම්දෙනතුරු ශ්‍රී ලංකාවට ධීවර කටයුතු තහනම්
+### ලෝක වාර්තාවක් තැබූ කුරුළු පිහාටුව
+
+*2024-05-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196911) · `si`
+
+දැනට වඳවී ගොස් ඇති නවසීලන්ත "huia" නම් පක්ෂියාගේ තනි පිහාටුවක් වාර්තාගත මුදලකට වෙන්දේසියකදී අලෙවි වී ඇත.
+
+එම වෙන්දේසියේදී මෙම පිහාටුව වෙන්දේසි වෙතැයි අපේක්ෂා කර තිබුණේ ඩොලර් 3,000කට ය.
+
+එසේම මෙතෙක් පැවති වාර්තාව ද හිමිකරගෙන තිබුණේ මෙම පක්ෂියාගේ ම පිහාටුව කි. නමුත් එම මිලට වඩා 450% ගුණයකින් එම පිහාටුව අලෙවි වී ඇති බව වෙන්දේසිය සංවිධානය කළ ආයතනය පැවසීය.
+
+"huia" පක්ෂියා මවෝරි ජනතාව පූජත්වයෙන් සලකයි.  එම පක්ෂීන්ගේ පිහාටු හිස් පළඳනා සඳහා සවිකිරීමට, තෑගී ලෙස හෝ විකිණීම සඳහා ද එම ජනතාව භාවිත කළේය.
+
+"huia" පක්ෂියා අවසන් වරට දැක ඇති බව වාර්තා වන්නේ 1907 වසරේදී ය.
+
+◼️
+
+[Data](articles/a648d7d6.json)
+
+---
+
+### Sri Lanka banned Sri Lanka again from today
 
 *2024-05-22 15:58:28* · [`adalk`](https://www.ada.lk/breaking_news/අද-22-සිට-නැවත-දැනුම්දෙනතුරු-ශ්‍රී-ලංකාවට-ධීවර-කටයුතු-තහනම්/11-409792) · `si`
 
-දිවයින වටා මුහුදු ප්‍රදේශවල ඉදිරි දින කිහිපයේදී දැඩි වර්ෂාපතනයක් හා දැඩි සුළං තත්ත්වයක් ඇතිවිය හැකි බවට වාර්තාවීමත් සමග අද (22) සිට ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු බහුදින ධීවර යාත්‍රා ඇතුළුව සියලුම ධීවර යාත්‍රා සඳහා රැකියාවට පිටත්වීම සඳහා අවසර ලබා නොදෙන බව ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසනවා.
+Sri Lanka has banned its own name from being used again starting today. The Department of Fisheries and Aquatic Resources prohibits departures for all fishing vessels due to heavy rain expected in the coming days. Director Susantha Kahawatte advises fishermen to stay in safe areas.
 
-එසේම මේ වනවිට රැකියාවේ නිරතව සිටින බහුදින ධීවර යාත්‍රා වෙත ද ආරක්‍ෂිත ප්‍රදේශ හරහා ගමන්කරන ලෙසට දැනුම්දී ඇති බව එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත සඳහන් කරයි
+🟩
+
+The Department of Fisheries and Aquatic Resources Department says that he will not be permitted to departure to all fishing vessels, including a multi-dirty fishing vessels, including a heavy rainfall in the next few days of sea areas around the island.
+
+Director General of the Department Susantha Kahawatte states that it has been informed to travel to the Thagnu fishing boats of the multi-day vessel and safe areas.
 
 ◼️
 
 [Data](articles/50308f3d.json)
+
+[Extended Data](ext_articles/50308f3d.ext.json)
 
 ---
 
@@ -55,6 +81,8 @@ The Chairman of Aura Lanka, businessman Viranjith Thambugala,  has been arreste
 ◼️
 
 [Data](articles/39993d0e.json)
+
+[Extended Data](ext_articles/39993d0e.ext.json)
 
 ---
 
@@ -69,6 +97,8 @@ Police said Thambugala was arrested over allegations of several financial frauds
 ◼️
 
 [Data](articles/b5a3aa70.json)
+
+[Extended Data](ext_articles/b5a3aa70.ext.json)
 
 ---
 
@@ -124,25 +154,57 @@ Accordingly, the presidential election will be declared between the end of July 
 
 [Data](articles/34623fc4.json)
 
+[Extended Data](ext_articles/34623fc4.ext.json)
+
 ---
 
-### எனக்கு எதிராக கருத்தடை குற்றச்சாட்டுகளை முன்வைத்த தாய்மார்கள்  தற்போது மன்னிப்பு கோருகின்றனர்- குருநாகல் மருத்துவர் ஷாபி சிகாப்தீன்
+### විශ්‍රාම ගන්නා ලංගම බස් රියදුරුට ප්‍රදේශවාසින්ගේ උපහාර
 
-*2024-05-22 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184240) · `ta`
+*2024-05-22 15:39:30* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගන්නා-ලංගම-බස්-රියදුරුට-ප්‍රදේශවාසින්ගේ-උපහාර/11-409790) · `si`
 
-குருநாகல் வைத்தியசாலை மருத்துவர் ஷாபி சிகாப்தீன் தனக்கு எதிராக குற்றச்சாட்டுகளை சுமத்திய தாய்மார்கள் தற்போது தங்களை மன்னிக்குமாறு வேண்டுகோள் விடுத்துள்ளனர் என தெரிவித்துள்ளார்.
+මස්කෙලිය අවිස්සාවේල්ල මාර්ගයේ වසර 26 ක් රියදුරෙකු වශයෙන් සේවය කර විශ්‍රාම ලබා ගැනිමට නියමිතව සිටින අවිස්සාවේල්ල ලංගම ඩිපෝවේ ඩි.කේ.ඇන්ටන් ප්‍රනාන්දු මහතාට නෝටන්බ්‍රිජ් ප්‍රදේශවාසින් විසින් (22) දින උපහාර පිදිමක් සිදු කරනු ලැබුහ.
 
-சில தாய்மார்கள்; போது தாங்கள் எனக்கு எதிராக முறைப்பாடு செய்தவர்கள் எனவும் தங்களை மன்னிக்குமாறு வேண்டுகோள் விடுத்தனர் என தெரிவித்துள்ள அவர் சிசேரியன் சத்திரசிகிச்சையின் போதுஅவர்கள் இவ்வாறு வேண்டுகோள் விடுத்தனர் என குறிப்பிட்டுள்ளார்.
+ඇන්ටන් ප්‍රනාන්දු මහතා කල සේවය අගයමින් නෝටන්බ්‍රිජ් ප්‍රදේශයේ පොලිස් නිලධාරින් , ගුරුවරුන් සහ පාසල් ළමුන් එක්ව මෙම උපහාර පිදිම සිදු කලහ.
 
-தன்னை போதைப்பொருள்குற்றவாளி மாகந்துரே மதுசுடன் சிறையில் ஒன்றாக தடுத்துவைத்திருந்தனர் என வைத்தியர் ஷாபி சிகாப்தீன் தெரிவித்துள்ளார்.
+අවිස්සාවේල්ල ලංගම ඩිපෝවේ වසර 30 ක කාලයක් සේවය කර ඇති ඇන්ටන් ප්‍රනාන්දු මහතා නෝටන්බ්‍රිජ් විමලසුරෙන්ද්‍රගම ප්‍රදේශයේ පදිංචිදකරුවෙකි.
 
-நான் அவருடன் ஒன்றாக உணவை பகிர்ந்துகொண்டேன், அவருக்கு அருகில் உறங்கினேன் என தெரிவித்துள்ள வைத்தியர் வெள்ளை உடையணிந்த அரசியல்வாதிகளிடம் காணமுடியாத மனிதாபிமானத்தை அவரிடம் கண்டேன் எனவும் குறிப்பிட்டுள்ளார்.
-
-எனது மருத்துவ தொழில்துறையை சார்ந்தவர்களே என்னை கைவிட்டனர் அரசமருத்துவ அதிகாரிகள் சங்கத்தின் முன்னாள் தலைவர் அனுரத்த பாதெனிய அவர்களில் ஒருவர் எனவும் குறிப்பிட்டுள்ளார்.
+දිනපතා උදැසන 6 ට මස්කෙලිය සිට ගමන් ආරම්භ කරන එම බස් රථය නෝටන්බ්‍රිජ් , ගිනිගත්හේන හරහා අවිස්සාවේල්ල දක්වා ධාවනය කර යලිත් අවිස්සාවේල්ල සිට මස්කෙලිය දක්වා එම බස් රථය ධාවනය කර රාත්‍රි කාලයේ බස් රථය නෝටන්බ්‍රිජ් බස් නැවතුම්පොලේ ගාල් කර යලිත් එම බස් රථය අලුයම 5ට මස්කෙලිය දක්වා ධාවනය කරවන බවයි ඇන්ටන් ප්‍රනාන්දු මහතා කියා සිටියේ.
 
 ...
 
+[Data](articles/4baeccf1.json)
+
+---
+
+### Mothers who have made allegations of contraceptive against me now apologize- Kurunegala doctor Shafi Sikabdeen
+
+*2024-05-22 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184240) · `ta`
+
+Mothers who accused Dr. Shafi Sikabdeen of Kurunegala hospital have since apologized. He faced detention and alleged professional betrayal, including being likened to a ghost.
+
+🟩
+
+Mothers who have accused Kurunegala hospital doctor Shafi Sikabdeen have now appealed to them to forgive them.
+
+Some mothers;He said that they had complained against me and appealed to them to forgive them.
+
+Dr. Shafi Sikabdeen said that he had detained him in jail with Magandure Madhus.
+
+The doctor who said that I shared meals with him together and fell asleep near him.
+
+My medical industry abandoned me.
+
+Dr. Shafi Sikabdeen said that the person named Badeniya was silent on the issue to date.
+
+However, when the wife of the doctor Badenia, the second time she was conceived, I saw myself childbirth, "he said.
+
+Doctors compared the deity to the goddess but that the same profession was used to hand over me to the ghosts, Dr. Shafi Sikabdeen said that we need these bad memories.
+
+◼️
+
 [Data](articles/6aa721eb.json)
+
+[Extended Data](ext_articles/6aa721eb.ext.json)
 
 ---
 
@@ -192,31 +254,47 @@ This petition is Sampath Abeykoon and P. The order was called before the Bench o
 
 ---
 
-### ග්‍රාම නිලධාරි වැටුප් හා දීමනා ඉහළට
+### Grama Niladhari wages and allowances
 
 *2024-05-22 15:20:13* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරි-වැටුප්-හා-දීමනා-ඉහළට/11-409787) · `si`
 
-මෙරට 13,000කට අධික ග්‍රාම නිලධාරිවරුන්ට අනන්‍ය වැටුප් තලයක් ලබාදී වැටුප් සහ දීමනා ඉහළ නැංවීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බවත්, ඒ අනුව ශ්‍රී ලංකා ග්‍රාම නිලධාරී සේවය ස්ථාපිත කිරීම සඳහා එම සේවා ව්‍යවස්ථා කෙටුම්පත රාජ්‍ය සේවා කොමිෂන් සභාවේ අනුමැතිය සඳහා ඉදිරිපත් කර ඇති බවත්, එය විශාල ජයග්‍රහණයක් බවත්, රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යවරයා වෙනුවෙන් ප්‍රශ්නයකට පිළිතුරු දෙමින්, ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පාර්ලිමේන්තුවට 2024.05.22 දින අනාවරණ කළේය.
+Cabinet approved wage hike for over 13,000 Grama Niladhari officers in Sri Lanka, increasing basic salaries from Rs. 28,940 to Rs. 30,140. Additionally, monthly office allowances vary based on location, ranging from Rs. 1,000 to Rs. 3,000. The enhancement includes annual statious allowance of Rs. 1,500 to Rs. 3,000, effective from April 1, 2011. This decision was part of broader discussions on improving benefits such as uniforms, travel, and communication allowances.
+
+🟩
+
+The Cabinet approval has been granted to over 13,000 Grama Niladhari and the Cabinet to enhance the Sri Lanka Grama Niladhari Service.The Minister of Home Affairs Asoka Priyantha revealed to the Parliament on 2224.05.2012 on behalf of the Minister of Public Administration, Home Affairs, Provincial Councils and Local Government.
+
+Accordingly, a new salary code called GN is owned by the Grama Niladhari and the basic salary of a Grama Niladhari joins the new service Rs.. 28,940 to Rs. Will rise up to 30,140. Basic salary of a Grade 2 Grama Niladhari Service to Rs.. Monthly office allowance within the respective Pradeshiya Sabha limit. From 1000 to 2000, municipal limits. 1500 to 3000, Annual Statious allowance is Rs.. 1500 to Rs. Cabinet approval has been paid to 3000 and implementing from 01.04.04.2011.
+
+Increasing other uniforms, travel, communication offers, the Secretary of the Ministry of Public Administration has also set to discuss the budgetary spending.
 
 ...
 
 [Data](articles/2f6e9fb6.json)
 
+[Extended Data](ext_articles/2f6e9fb6.ext.json)
+
 ---
 
-### லங்கா பிறீமியர் லீக் அணி உரிமையாளர் ஒருவர் கைது
+### Arrested for a Sri Lankan Premier League Team owner
 
 *2024-05-22 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184237) · `ta`
 
-பிரித்தானிய பிரஜையான பங்களாதேஷி ஒருவரை பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து விசேட விசாரணைப் பிரிவினர் கைது செய்துள்ளனர்.
+A British-Bangladeshi man, who owns a Sri Lankan Premier League team, was arrested at Bandaranaike International Airport for alleged involvement in sports-related crimes. The arrest was made by a special investigation unit tasked with preventing such offenses in the sports sector, under the Ministry of Sports' supervision.
 
-ஆட்ட நிர்ணயத்தில் ஈடுபட்டார் என்ற குற்றச்சாட்டின் பேரில் கைதான அவர், லங்கா பிறீமியர் லீக் அணி ஒன்றின் உரிமையாளராகவும் இருக்கிறார் என தகவல் வெளியாகியுள்ளது.
+🟩
 
-விளையாட்டுத்துறை அமைச்சினால் நியமிக்கப்பட்டுள்ள விளையாட்டத்துறையுடன் தொடர்புடைய குற்றங்களைத் தடுக்கும் விசாரணைப் பிரிவினராலேயே அவர் கைதுசெய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+A special investigation unit has arrested a British citizen of Bangladesh at the Bandaranaike International Airport.
+
+It is reported that he is also the owner of a Lanka Premier League team on charges of involvement in the game.
+
+He is reportedly arrested by the Investigation Unit of preventing crimes related to the sports sector appointed by the Ministry of Sports.
 
 ◼️
 
 [Data](articles/f0c5e481.json)
+
+[Extended Data](ext_articles/f0c5e481.ext.json)
 
 ---
 
@@ -402,19 +480,27 @@ The Sri Dalada Maligawa added that the pilgrims will be given to two days of ref
 
 ---
 
-### 'கருடன் திரைப்படத்தை பார்த்து பார்த்து செதுக்கி இருக்கிறோம்' - இயக்குநர் துரை. செந்தில்குமார்
+### 'We are watching the movie' Garuda ' - Director Durai. Senthil Kumar
 
 *2024-05-22 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184229) · `ta`
 
-'சசிகுமாரும், உன்னி முகுந்தனும் நண்பர்கள். உன்னி முகுந்தனின் விசுவாசி சூரி.  இந்த மூன்று கதாபாத்திரங்களுக்கு இடையே நடைபெறும் சம்பவங்களும், அது தொடர்பான கதையாடல்களும் தான் 'கருடன்' படத்தின் மையப்புள்ளி' என படத்தின் இயக்குநர் துரை செந்தில்குமார் தெரிவித்திருக்கிறார்.
+"Garuda," directed by Durai Senthil Kumar, stars Sasikumar and Unni Mukundan in a tale about friendship and conflict, set for global release on May 31st. The film, featuring Paddy Selvan Vijay Sethupathi and Shiva Karthikeyan, promises engaging storytelling, intense fight scenes, and Yuvan Shankar Raja's captivating music.
 
-தமிழ் திரையுலகில் மண் சார்ந்த படைப்புகளை தெரிவு செய்து திரையில் வழங்குவதில் நிபுணர்களாக திகழும் சசிகுமார் -சூரி -உன்னி முகுந்தன் ஆகியோர் ஒன்றிணைந்து நடித்திருக்கும் 'கருடன்' திரைப்படம் இம்மாதம் 31 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+🟩
 
-இந்நிலையில் இப்படத்தின் இசை மற்றும் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதற்காக சென்னையில் பிரம்மாண்டமாக நடைபெற்ற பிரத்யேக வெளியீட்டு விழாவில் 'மக்கள் செல்வன்' விஜய் சேதுபதி, சிவ கார்த்திகேயன் ஆகியோர் சிறப்பு அதிதிகளாக பங்குபற்றினர்.
+'Sasikumar and Unni Mukundan friends. Suri is the believer of Unni Mukundan.The director of the film, Durai Senthil Kumar, has said that the events between the three characters and the related story are said to be 'Garuda'.
+
+'Garuda', starring Sasikumar -Unni Mukundan, who is a specialist in selecting and offering soil -based work in the Tamil film industry, will be released worldwide on 31st of this month.
+
+The music and preview of the film has been released. 'Paddy Selvan' Vijay Sethupathi and Shiva Karthikeyan participated as a special guests at a huge launch ceremony in Chennai.
+
+Director tranquility. Sasikumar, Suri, Unni Mukundan, Samudrakani, Vadivati ​​Sharma, Roshini Hari Priyan, Brigida, Mime Gopi, Dushyant Jaya Prakash, directed by Senthil Kumar.. Arthur A. Yuvan Shankar Raja has composed the film, which has been recorded by Wilson. Producer K. Kumar has produced.
 
 ...
 
 [Data](articles/68cb9c33.json)
+
+[Extended Data](ext_articles/68cb9c33.ext.json)
 
 ---
 
@@ -448,43 +534,55 @@ The Minuwangoda police have revealed that the motorcycle used for the murder in 
 
 ---
 
-### வலப்பனையில் சில பகுதிகளில் இரண்டு நாட்களாக மின் விநியோகம் தடை
+### Power supply is banned for two days in some parts of the right
 
 *2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184226) · `ta`
 
-வலப்பனை ரூப்பாஹா மற்றும் தெரிப்பே பகுதிகளில் கடந்த இரண்டு நாட்களாக மின் விநியோகம் தடைப்பட்டுள்ளது.
+Heavy winds and rain disrupt power in Valapanai Rupaha and Selaippe, affecting Nuwara Eliya district.
 
-நாட்டில் ஏற்பட்டுள்ள தென்மேல் பருவபெயர்ச்சி காலநிலை மாற்றத்தினால் கடும் காற்று, பலத்த மழையூடான வானிலை ஏற்பட்டுள்ளது.
+🟩
 
-இந்நிலையில், நுவரெலியா மாவட்டத்தில் நுவரெலியா, வலப்பனை, கொத்மலை, ஹங்குராங்கெத்த மற்றும் அம்பகமுவ ஆகிய பிரதேச செயலக பிரிவுகளில் தொடர்ச்சியான மழையும், பலத்த காற்றும் வீசுகிறது.
+Power supply has been blocked for the past two days in the Valapanai Rupaha and Selaippe areas.
 
-இதன் காரணமாக வலப்பனையில் நேற்று (21) செவ்வாய்க்கிழமை முதல் இரண்டு நாட்களாக வீசும் கடும் காற்றினால் வலப்பனை ரூபஹா, மற்றும் தெரிப்பெயே ஆகிய பகுதிகளில் வீதி ஓரங்களில் காணப்படும் பாரிய மரங்கள் மின்சார இணைப்பு வயர்கள் மீது சரிந்தும், முறிந்தும் வீழ்ந்து மின் கம்பங்களும் உடைந்துள்ள நிலையில் மின் விநியோகம் முற்றாக தடைப்பட்டுள்ளது.
+The Southwestern monsoon climate change in the country has caused heavy winds and heavy rainfall.
+
+In the Nuwara Eliya district, there is a series of rains and strong winds in the Divisional Secretariat Divisions of Nuwara Eliya, Valappanai, Kotmalai, Hanguranketta and Ambagamuwa.
+
+Due to this, heavy winds have been completely blocked due to heavy winds in the Valappanai Rupaha and Iriyipaye areas due to heavy winds blowing from Tuesday (21) from Tuesday (21).
 
 ◼️
 
 [Data](articles/d3358b07.json)
 
+[Extended Data](ext_articles/d3358b07.ext.json)
+
 ---
 
-### பாலஸ்தீன தேசத்தை அங்கீகரிக்கப்போவதாக நோர்வே அயர்லாந்து ஸ்பெயின் அறிவிப்பு - தூதுவர்களை மீள அழைக்கின்றது இஸ்ரேல்
+### Norwegian Ireland announces Spain to recognize Palestinian nation
 
 *2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184227) · `ta`
 
-நோர்வே அயர்லாந்து ஸ்பெயின் ஆகிய நாடுகள் பாலஸ்தீன தேசத்தை  அடுத்தவாரம் அங்கீகரிக்கவுள்ளதாக அறிவித்துள்ள நிலையில் இந்த நாடுகளிற்கான தங்கள் தூதுவர்களை இஸ்ரேல் உடனடியாக மீள அழைத்துள்ளது.
+Norway plans to recognize Palestine, prompting Israel to recall its ambassadors from Norway and Spain. PM Jonas Gahr Støre emphasizes the importance of recognizing Palestine for Middle East peace. This move aligns with several European nations' stance, highlighting the significance of a two-state solution. Despite concerns over Hamas and other groups, Norway supports this approach.
 
-பாலஸ்தீன தேசம் என்ற ஒன்று இல்லாமல் மத்தியகிழக்கில் அமைதிநிலவாது  என நோர்வேயின் பிரதமர் ஜொனஸ் கர் ஸ்டோர் தெரிவித்துள்ளார்.
+🟩
 
-மே 28ம் திகதி நோர்வே பாலஸ்தீன தேசத்தை உத்தியோகபூர்வமாக அங்கீகரிக்கும் எனஅவர் தெரிவித்துள்ளார்.
+Israel has immediately recalled their ambassadors to these countries as Norway has announced that Norway will recognize the Palestinian nation next week.
 
-இரண்டுதேசம் தீர்வே மத்தியகிழக்கில்  அமைதிக்கு அவசியமான விடயம் என தெரிவித்துள்ள பல ஐரோப்பிய நாடுகள் பாலஸ்தீன தேசத்தை அங்கீகரிக்கவுள்ளதாக தெரிவித்துள்ளன.
+Norwegian Prime Minister Jonas Kar Store has said that there will be no peace in the Middle East without a Palestinian nation.
 
-ஐரோப்பிய ஒன்றியத்தின் உறுப்பினரால்லாத நோர்வே இரண்டு தேசம் தீர்விற்கு உறுதியான ஆதரவை வெளியிட்டு வந்துள்ளது.
+He said the Norwegian nation would officially recognize the Palestinian nation on May 28.
 
-இரண்டு தேசம் கொள்கையை ஆதரிக்காத ஹமாஸ் அமைப்பும் ஏனைய பயங்கரவாத குழுக்களும் இஸ்ரேலுமே பயங்கரவாத நடவடிக்கைகளில் ஈடுபட்டுள்ளன என நோர்வே பிரதமர் தெரிவித்துள்ளார்.
+Several European countries have said that the two -year -old Middle East is essential for peace.
+
+Norway, a non -member of the EU, has expressed firm support for the two nation settlement.
+
+The Norwegian Prime Minister has said that Hamas and other terrorist groups and Israel are engaged in terrorist activities that do not support the two nation policy.
 
 ◼️
 
 [Data](articles/dab44ff9.json)
+
+[Extended Data](ext_articles/dab44ff9.ext.json)
 
 ---
 
@@ -724,23 +822,31 @@ He had arrived at the Katunayake Airport on the 662 airport on the morning of 05
 
 ---
 
-### பொதுமக்கள் பாதுகாப்பு அமைச்சு, குடிவரவு மற்றும் குடியகல்வு திணைக்களம் குறித்து உரிய நடவடிக்கை எடுங்கள் - ஹர்ஷ டி சில்வா சபாநாயகரிடம் வலியுறுத்தல்
+### Take appropriate action on the Department of Public Security, Immigration and Emigration - urged Harsha de Silva Speaker
 
 *2024-05-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184205) · `ta`
 
-விசா விவகாரம் தொடர்பில் விளக்கமளிக்க குழுவுக்கு முன்னிலையாகுமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சு மற்றும் குடிவரவு,குடியகல்வு திணைக்களத்துக்கு அழைப்பு விடுத்தியிருந்தோம்.
+Harsha de Silva criticized the absence of government officials from the Ministry of Public Security and the Department of Immigration and Emigration during a parliamentary session. He highlighted concerns over the allocation of visa distribution services to VFS, urging the presence of relevant departments to address financial controversies and potential violations of parliamentary privacy.
 
-இருப்பினும் இந்நிறுவனங்களின் அரச அதிகாரிகள்  குழுவுக்கு முன்னிலையாகவில்லை.ஆகவே இந்நிறுவனங்களின் செயற்பாடுகள் குறித்து பாராளுமன்றத்தின் ஊடாக உரிய நடவடிக்கைளை முன்னெடுங்கள் என அரசாங்க நிதி தொடர்பான குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற அமர்வில் விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+We have invited the Ministry of Public Security and the Department of Immigration and Emigration to present the Committee to explain the Visa issue.
 
-நிலையியற் கட்டளையின் 121 ஆவது பிரிவுக்கு அமைய அரசாங்க நிதி தொடர்பான குழுவுக்கு அரச நிறுவனங்களை அழைத்து விசாரணைகளை முன்னெடுக்கிறோம்.
+However, the President of the Government Finance Committee, Dr. Harsha de Silva, said that the government's government officials are not present.
 
-வி.எப்.எஸ் நிறுவனத்துக்கு விசா விநியோக சேவை வழங்கப்பட்டுள்ளதால்  ஏற்பட்டுள்ள சர்ச்சை குறித்து விளக்கம் கோருவதற்கு பொதுமக்கள் பாதுகாப்பு அமைச்சு,குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தை அரசாங்க நிதி தொடர்பான குழுவுக்கு இன்று  கடந்த 13 மற்றும் 14 ஆம்  திகதிகளில் முன்னிலையாகுமாறு அழைத்திருந்தோம்.
+He was speaking at a special statement at a session held in Parliament on Wednesday (22).
+
+We are conducting inquiries to the State Funds Committee on Article 121 of the Standing Ordinance.
+
+We have been summoned to the Government Finance Committee on the 13th and 14th of this month to explain the controversy that VFS has been provided with a visa distribution service.
+
+Secretary to the Ministry of Public Security, PU Gunathilaka, Additional Secretary of the Ministry, Karunaratne, Chief Finance Officer Patirana and Law Officer Vice Chairperson, the Controller of the Department of Immigration and Emigration, Harsha Iluppitiya, Additional Controller, Imal GunawardenaWe had called.
 
 ...
 
 [Data](articles/2298c748.json)
+
+[Extended Data](ext_articles/2298c748.ext.json)
 
 ---
 
@@ -2255,67 +2361,5 @@ The arrest had made the officers of the Customs Drug Administration internationa
 [Data](articles/2b184433.json)
 
 [Extended Data](ext_articles/2b184433.ext.json)
-
----
-
-### Duranti winner in Italian GT 4 series
-
-*2024-05-22 08:23:43* · [`adalk`](https://www.ada.lk/sports/ඉතාලි-ජී-ටි-4-තරගාවලියේ-ජය-ඩිිලන්තට/9-409776) · `si`
-
-Duranti won the Italian GT 4 series, making history as the first Sri Lankan and Asian participant in the prestigious event, which attracted racers from 30 countries across Europe and America. Dilantha Malaragamuwa, representing Sri Lanka, competed against 50 high-performance vehicles, aiming to bring glory to his country through the championship ending in 2024.
-
-🟩
-
-World Championships, Sri Lankan Motor Traffic Dilagantha arrived at the Katunayake Airport on 05/22 days in Italy.
-
-Speaking to journalists at the airport, Mr. Dilantha Malaragamuwa said:
-
-"I was the only Sri Lankan who participated in this tournament and the only Asian. The tournament is the biggest motor race in Europe and was covered with car racing in 30 countries. Most of them represent the European and American continents.
-
-50 cars were attended by two drivers for each of the vehicle.
-
-The tournament was one of the most powerful and advanced cars in the world, and I was a MMG - GT. "Used a 4 type car" .It said.
-
-The winners of the World Championship will be selected at the end of 2024 and there are 12 more motor races.. He added that four more motorcies are to be held in the next month, he added that his only prospect was to win the championship tournament and bringing a reputation to Sri Lanka.
-
-He had arrived at the Katunayake Airport on the 662 airport on the morning of 05/22.
-
-◼️
-
-[Data](articles/f96a1f28.json)
-
-[Extended Data](ext_articles/f96a1f28.ext.json)
-
----
-
-### The danger caused by a life of a plane
-
-*2024-05-22 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196890) · `si`
-
-A plane journey turned deadly, killing several from London to Singapore. Turbulence injured 71 passengers, including citizens from the UK, New Zealand, Spain, the US, and Ireland. Seven passengers' conditions are critical. The flight, carrying 211 passengers and 18 crew, diverted to Bangkok after requesting an emergency landing. Later, 131 passengers reached their destination via another route.
-
-🟩
-
-Details have revealed the dead from London to Singapore on a fly.
-
-Another 71 passengers were injured due to this turbulent situation in the plane.
-
-The citizens of the United Kingdom, New Zealand, Spain, the Spain, the United States, the US and Ireland have been injured.
-
-Foreign media reports that 7 passengers are serious.
-
-At the time of this situation, 211 passengers and 18 staff had been present.
-
-After this, the Boeing type has been redirected to Bangkok.
-
-The aircraft has requested permission to land and 10 minutes before the landfall.
-
-Of the 211 passengers, 131 passengers were later sent to the destination from another Singapore.
-
-◼️
-
-[Data](articles/5a54190d.json)
-
-[Extended Data](ext_articles/5a54190d.ext.json)
 
 ---

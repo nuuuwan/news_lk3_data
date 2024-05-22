@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 14:34:06**
+As of **2024-05-22 14:52:47**
 
 ## Newspaper Stats
 
-*Scraped **25,683** Articles*
+*Scraped **25,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,77 @@ adaderanalk | 2,958
 tamilmirrorlk | 2,999
 virakesarilk | 3,892
 dailymirrorlk | 4,034
-adaderanasinhalalk | 4,103
+adaderanasinhalalk | 4,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,681 (100.0%) of 25,683 articles have been extended.
+25,683 (100.0%) of 25,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### නැතිවූ ඔබේ යතුරුපැදියත් මෙතැන තිබේදැයි බලන්න
+### ශෝකය පළ කිරීමට ජනපති ඉරාන තානාපති කාර්යාලයට
+
+*2024-05-22 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196905) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ කොළඹ ඉරාන තානාපති කාර්යාලය වෙත ගොස් අභාවප්‍රාප්ත ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් සිය ශෝකය පළ කළේය.
+
+තානාපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයාව ශ්‍රී ලංකාවේ ඉරාන තානාපති ආචාර්ය අලි රීසා ඩෙල්කොෂ් මහතා ඇතුළු කාර්යමණ්ඩලය විසින් පිළිගනු ලැබීය.
+
+අනතුරුව ඉරාන තානාපතිවරයා ඇතුළු පිරිස සමග කෙටි කතාබහක නිරතවූ ජනාධිපතිවරයා එහි තැන්පත් කර තිබූ ශෝක සටහන් පොතේ සටහනක් ද තබමින් ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් ඉරාන රජයටත්, ජනතාවටත් තමාගේ සහ ශ්‍රී ලංකා රජයේත්, ජනතාවගේත් බලවත් ශෝකය පළ කර සිටියේය.
+
+◼️
+
+[Data](articles/7e0badef.json)
+
+---
+
+### බැතිමතුන් වෙනුවෙන් දළදා මාලිගාවෙන් දන්සලක්
+
+*2024-05-22 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196904) · `si`
+
+වෙසක් මංගල්‍යය යෙදී ඇති හෙට (23) සහ අනිද්දා (24) යන දෙදින මහනුවර ශ්‍රී දළදා මාලිගාවට පැමිණෙන දෙස් විදෙස් බැතිමතුන් වෙනුවෙන් විශේෂ දන්සැල් කලාපයක් ක්‍රියාත්මක කිරීමට කටයුතු කර තිබේ.
+
+දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතාගේ උපදෙස් අනුව ශ්‍රී දළදා මාලිගාවේ කාර්ය මණ්ඩලය විසින් මෙම දන්සැල් කලාපය ක්‍රියාත්මක කරනු ඇත.
+
+එහිදී ප්‍රණීත හා සෞඛ්‍ය‍ාරක්ෂිතව පිලියෙල කළ ආහාර පාන දින දෙකක් පුරාවට පැමිණෙන බැතිමතුන් වෙත ලබා දෙන බව ශ්‍රී දළදා මාලිගාව වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3c54bae7.json)
+
+---
+
+### See if lost your motorcycle and see if
 
 *2024-05-22 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196903) · `si`
 
-පාතාල සාමාජිකයන්ට විවිධ අපරාධ කිරීම සදහා යොදා ගැනීමට, සොරකම් කළ යතුරුපැදි අලෙවි කළ තරුණයන් දෙදෙනෙකු මිනුවන්ගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two youths, including a 31-year-old named Udugampola, were arrested by Minuwangoda Police for stealing and selling 17 motorcycles. They confessed during interrogation after being caught on Tuesday. The bikes were taken from various locations and one was linked to a murder case in Horana.
 
-ඔවුන්ගෙන් මේ වනවිට රඳවා ගැනීමේ නියෝග මත ප්‍රශ්න කරමින් සිටින බව පොලීසිය පැවසීය.
+🟩
 
-ඔවුන් අතුරින් එක් අයෙක් 31 හැවිරිදි උඩුගම්පොළ, කෙහෙල්බද්දර ජූඩ් නොහොත් සුබසිංහ ආරච්චිගේ තරිඳු ජූඩ් ලක්මාල් පෙරේරා වන බවත් අනෙක් පුද්ගලයා උඩුගම්පොළ, පතහවත්තේ සුද්දා නොහොත් වික්‍රමහෙට්ටි කොන්තිලාගේ හසිත ප්‍රසාද් කුමාර නැමැති අය බවත් පොලීසිය පැවසීය.
+Minuwangoda Police have arrested two youths who sold the stolen motorbikes to be used for underworld members.
 
-මොවුන් මිනුවන්ගොඩ, දෙවලපොළ ප්‍රදේශයේ යතුරුපැදියක් සොරකම් කර පළායමින් සිටියදී මෙහි දෙවන සැකකරු වන පතහවත්තේ සුද්දා ඉකුත් අඟහරුවාදා (14) මිනුවන්ගොඩ පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+They are currently being interrogated on retention orders.
 
-ඔහුව රඳවා තබා ගෙන ප්‍රශ්න කිරීම්වලදී සියල්ල අනාවරණ කරගෙන තිබේ.
+One of them is the 31-year-old Udugampola, Kehelbhale Subasinghe Arachchige, Udugampola, Puratati, Overrama Sidewatta, Manipala, Overramahdemy Kumara.
 
-මොවුන් ත්‍රිරෝද රථයකින් ගොස් මිනුවන්ගොඩ, යක්කල, වීරගුල, වැලිවේරිය, ගම්පහ, ජාඇළ, නිට්ටඹුව, කටාන, සහ කටුනායක යන ප්‍රදේශවල මාර්ගවල නවතා ගොස් තිබූ යතුරුපැදි 17ක් සොරකම් කර ඇති අතර එම යතුරුපැදි පාතාල ක්‍රියාකාරකම් සඳහා අලෙවිකර ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණ කර ගෙන තිබුණි.
+The second suspect had been arrested by the Minuwangoda Police on Tuesday (14), the second suspect in Minuwangoda.
 
-...
+He has been detained and has revealed everything in question.
+
+They were stolen in a three-wheeler and stolenn 17 motorbikes in Minuwangoda, Weeragula, Weliveriya, Weliweriya, Katana, and Katunayake..
+
+The Minuwangoda police have revealed that the motorcycle used for the murder in Horana, the Minuwangoda police had been shocked by the two.
+
+◼️
 
 [Data](articles/99f78163.json)
+
+[Extended Data](ext_articles/99f78163.ext.json)
 
 ---
 
@@ -69,6 +109,8 @@ Several European Union countries have in the past weeks indicated that they plan
 ...
 
 [Data](articles/34316503.json)
+
+[Extended Data](ext_articles/34316503.ext.json)
 
 ---
 
@@ -2247,45 +2289,5 @@ The 83rd Senior PGA Championship will commence in Michigan, USA on 23rd May foll
 [Data](articles/4db2aa25.json)
 
 [Extended Data](ext_articles/4db2aa25.ext.json)
-
----
-
-### New liquor licences to be issued based on population density, tourism
-
-*2024-05-22 04:43:03* · [`dailyftlk`](https://www.ft.lk/business/New-liquor-licences-to-be-issued-based-on-population-density-tourism/34-762092) · `en`
-
-Clarifies no requests made to transfer Sathosa’s liquor licences to other entities
-
-Affirms even if such requests were made, leasing licences to other parties is not be possible
-
-Says no licences will be issued in areas where there are reasonable objections
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday said that new liquor licences will be issued considering factors such as the population density and the influx of tourists.
-
-He made these remarks in response to journalists’ inquiries during a program held in Karawanella about allegations that the Government is planning to transfer 55 out of 100 Sathosa liquor licences to companies owned by Arjun Aloysius.
-
-The State Minister clarified that there has been no request to transfer Sathosa’s liquor licences to other entities and asserted that even if such requests were made, leasing these licences to other parties would not be possible.
-
-...
-
-[Data](articles/f1ff5371.json)
-
-[Extended Data](ext_articles/f1ff5371.ext.json)
-
----
-
-### Roadshow promoting Dubai and Hungary real estate investments on 30 May
-
-*2024-05-22 04:41:46* · [`dailyftlk`](https://www.ft.lk/business/Roadshow-promoting-Dubai-and-Hungary-real-estate-investments-on-30-May/34-762091) · `en`
-
-IGL Interglobal Luxury, in collaboration with Corporate Management Consultants, on 30 May will hold a roadshow to promote real estate investments in Dubai and Hungary to investors in Sri Lanka. Interested investors will have the opportunity to participate in one-on-one  interviews.
-
-The Dubai real estate market offers very attractive terms and benefits, including a 10-year Golden Visa, assistance in opening bank accounts, a tax-free environment, one of the lowest crime rates globally, strong political stability, a robust legal framework, and high returns on investment (ROI) without tax implications.
-
-...
-
-[Data](articles/cb543bc7.json)
-
-[Extended Data](ext_articles/cb543bc7.ext.json)
 
 ---

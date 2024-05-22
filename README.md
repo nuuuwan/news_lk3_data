@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 02:34:03**
+As of **2024-05-23 02:52:41**
 
 ## Newspaper Stats
 
@@ -26,41 +26,55 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,795 (100.0%) of 25,800 articles have been extended.
+25,800 (100.0%) of 25,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### யாழ்ப்பாணத்தில் பொலிஸ் உத்தியோகத்தர் உள்ளிட்ட இளைஞர்கள் இடையே வாள் வெட்டு
+### Swords cut between youths including police officer in Jaffna
 
 *2024-05-23 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184273) · `ta`
 
-யாழ்ப்பாணத்தில் இடம்பெற்ற வாள் வெட்டு சம்பவம் ஒன்றில் காங்கேசன்துறை பொலிஸ் பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸ் உத்தியோகஸ்தர் ஒருவர் ஈடுபட்டதுடன் மூவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Jaffna, a sword fight involving a police officer led to injuries for three people, including the officer, who were hospitalized. The incident occurred due to a personal dispute and is under investigation by local authorities.
 
-தொல்புரம் பகுதியில் செவ்வாய்க்கிழமை (21) இடம்பெற்ற வாள் வெட்டு சம்பவத்தில் பொலிஸ் உத்தியோகத்தர் உள்ளிட்ட இளைஞர்கள் இடையே மோதல் ஏற்பட்டு வாள்வெட்டில் முடிந்துள்ளது.
+🟩
 
-இதில் பொலிஸ் உத்தியோகத்தர் உள்ளிட்ட மூவர் காயமடைந்து யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a sword cutting incident in Jaffna, a police officer of the Kankesanthurai Police Regional Criminal Investigation Division was involved in the hospital.
 
-சம்பவம் தொடர்பில் வட்டுக்கோட்டை பொலிஸார் விசாரணைகளை முன்னெடுத்து வரும் நிலையில், தனிப்பட்ட முரண்பாடே வாள் வெட்டு சம்பவத்திற்கு காரணம் என தெரிவிக்கப்படுகிறது. இது தொடர்பில் மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்
+A confrontation between a police officer, including a police officer, has ended in a sword cutting incident on Tuesday (21) in Tholpuram area.
+
+Three persons, including the police officer, were injured and admitted to the Jaffna Teaching Hospital.
+
+While the Vaddukoddai police are carrying out investigations into the incident, a personal contradiction is said to be the cause of the sword cutting incident.. Further investigations are being carried out by the police
 
 ◼️
 
 [Data](articles/c93eb3ba.json)
 
+[Extended Data](ext_articles/c93eb3ba.ext.json)
+
 ---
 
-### சடலங்களாலும், குருதியினாலும் நிரம்பியிருந்த வட்டுவாகல் பாலத்தை நினைவுகூர்ந்தார் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம்; காணாமல்போனோரின் எண்ணிக்கை மதிப்பிடப்பட்டதை விட அதிகமாக இருக்கக்கூடும் எனவும் விசனம்
+### The Secretary General of the Amnesty International, commemorated the Vattuvagal Bridge, filled with corpses and blood; The number of missing persons may be higher than the estimated
 
 *2024-05-23 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184272) · `ta`
 
-இறுதிக்கட்டப்போர் இடம்பெற்ற காலப்பகுதியில் வட்டுவாகல் பாலத்தின் நீர் உயிரற்ற சடலங்களாலும், குருதியினாலும் நிரம்பியிருந்ததாக நேரில் பார்த்தவர்கள் கூறியதாகவும், இதன்போது காணாமல்போனவர்களின் எண்ணிக்கை மதிப்பிடப்பட்டதை விடவும் அதிகமாக இருக்கக்கூடும் எனவும் சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகர் அக்னெஸ் கலமார்ட் தெரிவித்துள்ளார்.
+Amnesty International's Secretary General, Agnes Kalamard, visited South Asia to commemorate the Vattuvagal Bridge, a site of mass killings and potential higher missing person count due to the final war. She highlighted the atrocities committed, including the death of over 40,000 Tamils and the disappearance of thousands, including children.
 
-மூன்று தசாப்தகால யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு கடந்த சனிக்கிழமையுடன் 15 வருடங்கள் பூர்த்தியடைந்த நிலையில், முதன்முறையாக தெற்காசியப்பிராந்தியத்துக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்ட சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட், கடந்த வெள்ளிக்கிழமை நாட்டை வந்தடைந்தார். இவ்விஜயத்தின்போது முள்ளிவாய்க்கால் நினைவேந்தலில் கலந்துகொண்ட அவர், பல்வேறு முக்கிய தரப்பினருடன் விரிவான சந்திப்புக்களையும் நடத்தியிருந்தார்.
+🟩
+
+Amnesty International Secretary General Agnes Kalamart said that during the final war, the water of the Vadduvagal Bridge was filled with the lifeless bodies and bloodshed.
+
+The Amnesty International Secretary General of the Amnesty International, who made an official visit to South Asia for the first time, arrived in the country last Friday, after the three decades of war were over and over 15 years old.. During this year, Mullivaikkal participated in the commemoration and held extensive meetings with various key parties.
+
+According to the recent photo taken to the Vattuvagal Bridge during the visit of Mullivaikkal, the Secretary General of the 'Vadduvagal Bridge', with a quotation of 'Vadavagal Bridge', said, "Thousands of Tamil men and children from the area where the Liberation Tigers of Tamil Eelam (LTTE) were acquired by the Liberation Tigers of Tamil Eelam (LTTE) in the North and East.. Eyewitnesses said that the water was filled with lifeless bodies and blood. ”
 
 ...
 
 [Data](articles/4b6ae2d7.json)
+
+[Extended Data](ext_articles/4b6ae2d7.ext.json)
 
 ---
 
@@ -98,19 +112,29 @@ In her address to the staff of the Embassy, the Ambassador-designate referred to
 
 ---
 
-### கூட்ட நடப்பெண் இல்லாத காரணத்தால் சபை ஒத்திவைப்பு விவாதம் இடைநிறுத்தம்
+### Postponing Debate Discussion due to lack of meeting
 
 *2024-05-23 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184271) · `ta`
 
-போதுமான கூட்ட நடப்பெண் இல்லாத காரணத்தால் எதிர்க்கட்சியினர் கொண்ட வந்த சபை ஒத்திவைப்பு விவாதம் இடைநடுவில் நிறுத்தப்பட்டு,சபை நடவடிக்கைகள் எதிர்வரும்  மாதம் 04 ஆம் திகதி வரை ஒத்திவைக்கப்பட்டது.
+The opposition party's adjournment debate was postponed due to insufficient preparation, rescheduled for April 4th. The session, chaired by Speaker Mahinda Yapa Abeywardena, saw Lakshman Kiriella discuss national issues like the economy and law & order. A debate ensued, with Madura Vidanage questioning Jagath Samarawickrama about the meeting's organization. Following this, Samarawickrama announced a brief suspension.
 
-பாராளுமன்றம் புதன்கிழமை (22) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது.இதன்போது அரச நிதி முகாமைத்தும் மற்றும் பொருளாதார நிலைமாற்றம் தொடர்பான சட்டமூலங்களை ஆளும் தரப்பின் பிரதம கொறடாவாக பிரசன்ன ரணதுங்க சபைக்கு சமர்ப்பித்தார். இதனை தொடர்ந்து பாராளுமன்றம் ஒத்திவைக்கப்பட்டது.
+🟩
 
-இதனை தொடர்ந்து எதிர்க்கட்சியின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல நாட்டின் பொருளாதாரம்,சட்டவாட்சி மற்றும் சட்டம்,ஒழுங்கு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பான சபை ஒத்திவைப்பு பிரேரணையை முன்வைத்தார்.இந்த பிரேரணையை ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹ்மான் வழிமொழிந்தார்.
+Due to the lack of adequate mobilization, the adjournment debate of the opposition party has been halted and the proceedings of the council have been postponed till the 04th of this month.
 
-...
+Parliament was chaired by Speaker Mahinda Yapa Abeywardena on Wednesday (22).. This was followed by the postponement of Parliament.
+
+Following this, Lakshman Kiriella, the chief of the opposition, presented the proposal on various issues including the economy, law and law and order of the country.
+
+As the debate on the adjournment proposal took place from 04.15 pm to 04.15 pm, the ruling party MP Madura Vidanage raised the issue and asked Jagath Samarawickrama, who led the council to investigate the meeting.
+
+Following this, Jagath Samarawickrama, who presided over the council, announced that he had been abolished for five minutes.
+
+◼️
 
 [Data](articles/058b35e1.json)
+
+[Extended Data](ext_articles/058b35e1.ext.json)
 
 ---
 
@@ -134,39 +158,57 @@ In terms of Sri Lanka, he said Ceylon tea is well known worldwide, has a unique 
 
 ---
 
-### பொது நிதி முகாமைத்துவ சட்டமூலத்தை முன்வைத்தமை வரலாற்றுச் சாதனை - இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய
+### Historical Record - Minister of State for Public Finance Management Bill
 
 *2024-05-23 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184270) · `ta`
 
-பொது நிதி முகாமைத்துவ சட்டமூலத்தை முன்வைத்தமை வரலாற்றுச் சாதனை. இது சுதந்திர இலங்கையின் 76 வருடங்களில் அரசாங்கம் எடுத்த மிக முக்கியமான தீர்மானம் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya highlighted the significance of the Public Finance Management Bill as a pivotal decision in Sri Lanka's history, marking a response to long-standing demands. The bill aims to enhance transparency in asset disclosures and address financial mismanagement, including a reported loss of Rs 17 billion in the Seni tax scandal.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) எதிர்க்கட்சியினால்  பொருளாதாரம், சட்டம் ஒழுங்கு மற்றும் பாதுகாப்பு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பாக கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-சர்வதேச நாணய நிதியம், உலக வங்கி, ஆசிய அபிவிருத்தி வங்கி போன்ற நிறுவனங்கள் இலங்கையிடம் இருந்து இரண்டு தசாப்தங்களாக விடுத்த கோரிக்கையை நிறைவேற்றுவது என இதனை அழைக்க முடியும் .திறைசேரி செயலாளருக்கு வழங்கப்பட்டுள்ள அதிகாரங்கள் இந்த வரைவில் தெளிவாக வரையறுக்கப்பட்டுள்ளது.திறைசேரி  செயலாளர் மற்றும் தலைமைக் கணக்காய்வு அதிகாரியின் அதிகாரங்கள் சரியாக வரையறுக்கப்படாதது நெருக்கடிக்கு வழிவகுத்தது.
+Historical record presented by the Public Finance Management Bill. Finance Minister Ranjith Siyambalapitiya said that this was the most important decision by the government in the 76 years of independent Sri Lanka.
 
-...
+He was speaking at the debate on the proposal on Wednesday (22) on Wednesday (22).
+
+This can be called for two decades of requests from Sri Lanka for two decades of demands.
+
+In addition, the people also have the right to get information on assets through the law. There is no need to appoint other governments to create proper financial management in this country in response to the demand of the opposition parties.
+
+Meanwhile, the government has found a loss of about Rs 17 billion in the Seni tax scam.. A detailed report on this will be submitted to Parliament soon.
+
+◼️
 
 [Data](articles/94cf1c72.json)
 
+[Extended Data](ext_articles/94cf1c72.ext.json)
+
 ---
 
-### ஜனாதிபதியின் வெசாக் தின செய்தி
+### President's Vesak Day News
 
 *2024-05-23 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184269) · `ta`
 
-வெசாக் தினம் என்பது கௌதம புத்தரின் பிறப்பு, ஞானம் பெறல் மற்றும் பரிநிர்வாணத்தை நினைவுகூரும் உலக பௌத்தர்களின் புனிதமான நாளாகும்.
+Vesak Day honors Buddha's birth, wisdom, and enlightenment. Celebrated worldwide by Buddhists with devotion through lighting lamps and worship. The President emphasizes unity across races, religions, and parties, urging adherence to Buddha's teachings for a wise and virtuous society.
 
-உள்நாட்டிலும் வெளிநாட்டிலும் உள்ள பௌத்தர்கள் விளக்குகளை ஒளிரவிட்டு, வழிபாடுகளுக்கு முன்னுரிமை அளித்து,  மிகுந்த பக்தியுடன் இதனைக் கொண்டாடுகின்றனர்.
+🟩
 
-"சிறந்த நாளைக்காக இன்றே தியாகம் செய்வோம்" என்ற கௌதம புத்தரின் போதனையின் அடிப்படையில் ஞானம் பெறுவதற்காகப் புத்தர் கொண்டிருந்த பெரும் உறுதிப்பாட்டை, ஒரு நாடாக இந்த இக்கட்டான தருணத்தில் நாம் அனைவரும் வளர்த்துக்கொள்ள வேண்டும்.
+Vesak Day is the sacred day of the world Buddhists who commemorate the birth, wisdom and transformation of Gautama Buddha.
 
-"சப்பத்த சம்மானசோ" அனைவரையும் சமமாக நடத்தும் பௌத்த உபதேசத்தை இன்று நாம் நினைவுகூர வேண்டும். அதேபோல் ஒரு நாடாக அதை நடைமுறையில் செயல்படுத்துவதை உறுதி செய்ய வேண்டும்.
+Buddhists at home and abroad celebrate this with great devotion, giving lighting the lights, prioritizing worship.
 
-இனம், மதம், சாதி, கட்சி வேறுபாடின்றி நாம் அனைவரும் ஒன்றிணைந்து கட்டியெழுப்பப்படும் இந்நாட்டைத் தொடர்ந்து முன்னோக்கிக் கொண்டு செல்ல வேண்டும். அதற்குப் புத்தரின் போதனைகள் வழிகாட்டும்.
+In this dilemma, we must all be raised as a country, the great commitment that the Buddha had in order to enlightened on the teachings of the Gautama Buddha, "We will sacrifice today."
 
-...
+Today we must recall the Buddhist doctrine that performs "Chapatha Sammanaso" equally. Likewise, it is necessary to make sure that it is practically implemented as a country.
+
+We must follow this country, which is all built together, regardless of race, religion, caste and party.. It will guide the teachings of the Buddha.
+
+In his congratulatory message, the President said that the main purpose of this Vesak festival is to create a great wisdom wishes to all, to create a spiritual and decent 'man' in the world that moves towards rapid physical growth.
+
+◼️
 
 [Data](articles/2aae801c.json)
+
+[Extended Data](ext_articles/2aae801c.ext.json)
 
 ---
 

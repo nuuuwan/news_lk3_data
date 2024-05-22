@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 17:34:01**
+As of **2024-05-22 17:54:35**
 
 ## Newspaper Stats
 
-*Scraped **25,724** Articles*
+*Scraped **25,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,208
+adalk | 2,209
 adaderanalk | 2,963
 tamilmirrorlk | 3,001
 virakesarilk | 3,900
@@ -26,27 +26,49 @@ adaderanasinhalalk | 4,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,720 (100.0%) of 25,724 articles have been extended.
+25,724 (100.0%) of 25,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ධාවනය කරමින් තිබූ යතුරුපැදියක් මතට ගසක් කඩාවැටෙයි
+### A tree collapses on a motorcycle
 
 *2024-05-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196912) · `si`
 
-මාර්ගයේ ධාවනය කරමින් තිබූ යතුරුපැදියක් මතට අද (22) පස්වරුවේ ගසක් කඩාවැටී තිබේ.
+A tree collapsed onto a motorcycle on a road due to strong winds, injuring the rider who was taken to the Dickoya Base Hospital after the accident near Wanarajah Watta on the Hatton-Bawnalawa main road.
 
-මධ්‍යම කඳුකරය හරහා හමා ගිය දැඩි සුළඟකින් මෙම ගස කඩාවැටී ඇති බව වාර්තා වෙයි.
+🟩
 
-අප වාර්තාකරු සඳහන් කළේ තුවාලකරු දික්ඔය මූලික රෝහලට ඇතුළත් කළ බවය.
+A tree has collapses on a motorcycle driving on the road today (22).
 
-හැටන් - බගවන්තලාව ප්‍රධාන මාර්ගයේ වනරාජා වත්ත ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇත.
+It is reported that the tree is collapsing with a strong wind blowing through the central hills.
+
+Our correspondent stated that the casual was admitted to the Dickoya Base Hospital.
+
+The accident occurred at the Wanarajah Watta area on the Hatton-Bawnalawa main road.
 
 ◼️
 
 [Data](articles/514e724f.json)
+
+[Extended Data](ext_articles/514e724f.ext.json)
+
+---
+
+### අවුරා ලංකා සභාපති රිමාන්ඩ්
+
+*2024-05-22 17:03:16* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපති-රිමාන්ඩ්/11-409797) · `si`
+
+මූල්‍ය වංචාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අවුරා ලංකා සභාපති විරංජිත් තාඹුගල ලබන 27 දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි කොළඹ කොටුව අතිරේක මහේස්ත්‍රාත් පවිත්‍රා පතිරාජ මහත්මිය නියෝග කළාය.
+
+රුපියල් රුපියල් මිලියන 70ක මූල්‍ය වංචාවක් සම්න්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් සැකකරු අධිකරණයට ඉදිරිපත් කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපත් කළ කරුණු සැලකිල්ලට ගත් මහේස්ත්‍රාත්වරයා සැකකරු රිමාන්ඩ් බාරයට පත් කළාය.
+
+◼️
+
+[Data](articles/86d08db5.json)
 
 ---
 
@@ -67,6 +89,8 @@ Ten female prisoners are among those who will receive the Presidential pardons. 
 ◼️
 
 [Data](articles/12be8cc9.json)
+
+[Extended Data](ext_articles/12be8cc9.ext.json)
 
 ---
 
@@ -143,6 +167,8 @@ There were less than 20 member present during the time of suspension.
 ◼️
 
 [Data](articles/f45c2df5.json)
+
+[Extended Data](ext_articles/f45c2df5.ext.json)
 
 ---
 
@@ -344,19 +370,25 @@ Police said Thambugala was arrested over allegations of several financial frauds
 
 ---
 
-### ජස්ටින් ටෘඩෝගේ චෝදනාව ලංකාව ප්‍රතික්ෂේප කරයි
+### Sri Lanka denies Justin Tulledha's charge
 
 *2024-05-22 15:48:12* · [`adalk`](https://www.ada.lk/breaking_news/ජස්ටින්-ටෘඩෝගේ-චෝදනාව-ලංකාව-ප්‍රතික්ෂේප-කරයි/11-409791) · `si`
 
-2024 මැයි 18 වැනි දින කැනේඩියානු අගමැති ජස්ටින් ටෘඩෝ විසින් නිකුත් කරන ලද පණිවිඩයක ඇතුළත්වූ ශ්‍රී ලංකාව තුළ සිදුවූයේ යැයි කියන “ජන සංහාරය” පිළිබඳ අසත්‍ය චෝදනාව ප්‍රතික්ෂේප කරන බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+Sri Lanka disputes claims made by Canadian PM Justin Tulledha on May 18, 2024, stating them as false accusations. The government reaffirms its commitment to its valuable Sri Lankan diaspora, expressing gratitude for their support amidst disruptions caused by the Prime Minister's statements.
 
-ශ්‍රී ලංකා රජය මීට පෙර කරන ලද සියලුම සන්නිවේදනවලදී ජන සංහාරයක් පිළිබඳ එල්ලවන එම සාහසික චෝදනාව තරයේ ප්‍රතික්ෂේප කර ඇති බවත් කැනඩාවේ හෝ ලෝකයේ වෙනත් කවර ස්ථානයක හෝ කිසිදු නිසි බලධාරියෙකු ශ්‍රී ලංකාවේ ජන සංහාරයක් සිදුවී යැයි යන්න පිළිබඳ පරමාර්ථික තීරණයක් ගෙන නැති බවත් විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
 
-අග්‍රාමාත්‍ය ටෘඩෝ  ඉදිරිපත් කරන, ශ්‍රී ලංකාව තුළ සිදුව ඇතැයි කියනු ලබන ජන සංහාරය පිළිබඳ මෙම ව්‍යාජ ආඛ්‍යානය අනුමත කිරීම මඟින් විදේශයන්හි වෙසෙන ශ්‍රී ලාංකික උරුමයක් සහිත වටිනා ප්‍රජාවක් වන ශ්‍රී ලාංකික සම්භවයක් ඇති කැනේඩියානුවන් අතර වාර්ගික සංහිඳියාව බොහෝ සෙයින් කඩාකප්පල් වන බවත් සාමයට ලැදි මෙම පුරවැසියන් බොහෝ දෙනෙකු ශ්‍රී ලංකාව සමඟ අර්ථකාරී ලෙස කටයුතු කර ඇති අතර ඔවුන්ගේ සහයෝගය පිළිගන්නා බවත් එම නිවේදනයේ දැක්වෙයි.
+The Ministry of External Affairs has rejected the false accusation claim that Canadian Prime Minister Justin Tulled on May 18, 2024
+
+The Ministry of External Affairs has not yet been rejected in all communications that the Government of Sri Lanka has been rejected in all communications.
+
+Sri Lankan liasards, a valuable community with a precious community with a precious community of Sri Lankan heritage, is so disrupted by the Prime Minister of Prime Minister.The statement states that it is significantly with Sri Lanka and accepts their support.
 
 ◼️
 
 [Data](articles/4dcdd550.json)
+
+[Extended Data](ext_articles/4dcdd550.ext.json)
 
 ---
 
@@ -2281,27 +2313,5 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 [Data](articles/109dc2e3.json)
 
 [Extended Data](ext_articles/109dc2e3.ext.json)
-
----
-
-### Family dispute ended with death
-
-*2024-05-22 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196893) · `si`
-
-A family dispute escalated fatally when a man went to mediate between his sister and her husband, leading to a confrontation where both were assaulted by each other.
-
-🟩
-
-Police said the man had gone to their home to resolve a dispute between his sister and her husband yesterday.
-
-There he and brother-in-law had taken place.
-
-It is reported that the man had been assaulted by his brother-in-law and brother-in-law.
-
-◼️
-
-[Data](articles/8e87aa22.json)
-
-[Extended Data](ext_articles/8e87aa22.ext.json)
 
 ---

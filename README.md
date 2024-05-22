@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 23:18:46**
+As of **2024-05-22 23:34:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,773 (100.0%) of 25,776 articles have been extended.
+25,776 (100.0%) of 25,776 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -358,23 +358,31 @@ The government, trade, community, media and cricket will help the government to 
 
 ---
 
-### இந்துக்களை படுகொலை செய்வதற்காகவே 4 இலங்கையர்கள் இந்தியா சென்றுள்ளனர் - வீரசேகர
+### 4 Sri Lankans have gone to India to assassinate Hindus - Weerasekera
 
 *2024-05-22 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184243) · `ta`
 
-பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காக நான்கு இலங்கையர்கள் கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள்.
+Four Sri Lankans traveled to India on the 18th to allegedly assassinate members of the Bharatiya Janata Party and Hindus, influenced by ISIS's policies. Sarath Weerasekera warned of potential future attacks like the Sri Lanka bombing. He urged the elimination of fundamentalism and terrorism for freedom. Investigations into the bombings have concluded, with charges filed against a party. The government faces criticism for its handling of terrorist activities, particularly concerning the Muslim community.
 
-குறுகிய காலத்தில் இவர்கள் ஐ.எஸ்.ஐ.எஸ் அமைப்பின் கொள்கையால் ஈர்க்கப்பட்டுள்ளனர். இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும்.
+🟩
 
-இல்லையேல் இலங்கையிலும் எதிர்காலத்தில் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைத் தாக்குதல்கள் நடத்தப்படலாம் என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வை குழுவின்  தலைவர்  சரத் வீரசேகர தெரிவித்தார்.
+Four Sri Lankans went to India on the 18th to assassinate the Bharatiya Janata Party and the Hindus.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (22) இடம்பெற்ற எதிர்க்கட்சியினர் கொண்டு வந்த சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+They are attracted by the policy of ISIS in the short term. The government should implement the recommendations made on Islamic fundamentalism.
 
-நாட்டு மக்கள் அச்சமின்றி, சுதந்திரமாக வாழ வேண்டுமாயின் அடிப்படைவாதம் மற்றும் பயங்கரவாதம் இல்லாதொழிக்கப்பட வேண்டும்.
+Sarath Weerasekera, chairman of the National Security Department's Supervisory Committee, said that the basic attacks such as the Sunday bombing of Sri Lanka in the future could be carried out in the future.
+
+He was speaking at the debate on the adjournment proposal of the Opposition in Parliament on Wednesday (22).
+
+Fundamentalism and terrorism must be eliminated if the people are to live freely and freely.
+
+Opposition parties allege that the main mastermind of the lifeblood Sunday bomb blast. Police investigations have been completed. The court has also been reported.
 
 ...
 
 [Data](articles/bf74dd96.json)
+
+[Extended Data](ext_articles/bf74dd96.ext.json)
 
 ---
 
@@ -1262,25 +1270,33 @@ Sri Maha Bodhiha, Anuradhapura Sacred town, Park and Southern Car Park and South
 
 ---
 
-### பாகிஸ்தானிலிருந்து உருளைக்கிழங்குகள் ஊடாக ஐஸ் போதைப்பொருள் கடத்தல் - நிமல் பியதிஸ்ஸ குற்றச்சாட்டு
+### Ice drug trafficking through potatoes from Pakistan
 
 *2024-05-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184217) · `ta`
 
-பாகிஸ்தானில் இருந்து உருளைக்கிழங்குகள் ஊடாக இலங்கைக்கு ஐஸ் போன்ற போதைப்பொருட்கள் சூட்சுமமான முறையில் கடத்தப்படுகிறது.
+Ice-like drugs are covertly trafficked into Sri Lanka hidden within potatoes from Pakistan, raising concerns about national security and public health. Nimal Piyadissa urges intelligence units to investigate this sophisticated smuggling method, highlighting its potential impact on local agriculture and consumer prices.
 
-ஆகவே இவ்விடயம் தொடர்பில் புலனாய்வு பிரிவினர் அவதானம் செலுத்த வேண்டும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் உறுப்பினர் நிமல் பியதிஸ்ஸ  தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) விசேட கூற்றை முன்வைத்து உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+Ice -like drugs are smuggled into Sri Lanka via potatoes from Pakistan.
 
-நாட்டில் மரக்கறி வகைகளை அதிக விலைக்கு  மக்கள் வாங்க வேண்டியுள்ளது. 3000 ரூபா வரையில் கெரட்டின் விலை  உயர்வடைந்தது.
+Nimal Piyadissa, a member of the opposition who is independently in Parliament, said that the intelligence unit should pay attention to the matter.
 
-மரக்கறி உற்பத்தியில் உருளைக்கிழங்கு உற்பத்தியே மிகவும் கடினமானது. ஒரு மூட்டை உருளைக்கிழங்கு 35000 ரூபா வரையில் சந்தையில் விற்பனையாகின்றது. உருளைக்கிழங்கு உற்பத்தி செய்யும் விவசாயிகளே அதிக கஸ்டங்களுக்கு முகம்கொடுக்கின்றனர்.
+He said this while addressing a special statement in Parliament on Wednesday (22).
 
-இப்போது உருளைக்கிழங்கு அறுவடை இடம்பெறுகின்ற நேரத்தில் வெளிநாட்டில் இருந்தும் உருளைக்கிழங்கு இறக்குமதி செய்யப்படுகின்றது. அவ்வாறு வெளிநாட்டில் இருந்து கொண்டு வரும் உருளைக் கிழங்குகள் பாவனைக்கு உகந்ததாக இல்லை.
+People have to buy vegetables in the country at a higher price. The price of Keratin increased up to 3000 rupees.
+
+Potato production in vegetable production is very difficult. A bundle is sold in the market for up to 35000 rupees. Potato -producing farmers face more customs.
+
+Potatoes are now imported from abroad when the potato harvest is taking place. The potatoes that come from abroad are not conducive to use.
+
+Meanwhile I got information. This would be important information for intelligence authorities. This means that the drug trade is being carried out in a very good way through potatoes brought from Pakistan.
 
 ...
 
 [Data](articles/61943d9e.json)
+
+[Extended Data](ext_articles/61943d9e.ext.json)
 
 ---
 
@@ -1420,17 +1436,27 @@ The suspect is accused of attempting to approach players for match-fixing.
 
 ---
 
-### விடுதலைப் புலிகள் படுகொலை செய்த சிங்களவர்களை சர்வதேச மன்னிப்புச் சபையின் செயலாளர் அக்னெஸ் ஏன் நினைவுகூரவில்லை ? - சரத் வீரசேகர கேள்வி
+### Why did Against the Amnesty International Secretary of the LTTE assassinated the Sinhalese?- Sarath Weerasekera question
 
 *2024-05-22 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184234) · `ta`
 
-விடுதலை புலிகள் போராளிகளை நினைவுகூர்ந்த  சர்வதேச மன்னிப்புச் சபையின் செயலாளர் அக்னெஸ் கலமார்ட் புலிகளால் படுகொலை செய்யப்பட்ட சிங்களவர்களையும், இராணுவத்தினரையும் ஏன் நினைவுகூரவில்லை.
+Sarath Weerasekera questioned why the LTTE targeted Sinhalese during its conflict, highlighting the LTTE's selective memory and the international community's focus on LTTE militants over Sinhalese victims. The US Ambassador noted Weerasekera's critique of anti-military sentiments and the UN's call for justice, suggesting a need for balanced recognition of all parties involved in the conflict.
 
-இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் வியன்னா ஒப்பந்தத்துக்கு அப்பாற்பட்டு செயற்படுகிறார் என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வைக் குழுவின் தலைவர் சரத் வீரசேகர தெரிவித்தார்.பாராளுமன்றத்தில் புதன்கிழமை இடம்பெற்ற எதிர்க்கட்சியினர் கொண்டு வந்த சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.அவர் மேலும் உரையாற்றியதாவது,விடுதலை புலிகளுடனான யுத்தம் முடிவுக்கு கொண்டு வந்து 15 ஆண்டுகள் பூர்த்தியடைந்துள்ள நிலையில் யுத்தத்தை முடிவுக்கு கொண்டு வந்த இராணுவத்துக்கு எதிரான செயற்பாடுகளும் தீவிரமடைந்துள்ளன.
+🟩
+
+The Secretary of the Amnesty International, who remembered the LTTE militants, did not recall the Sinhalese and the military who were assassinated by the LTTE.
+
+The US Ambassador to Sri Lanka, Julie Sangh Vienna, said that the President of the National Security Department Sarath Weerasekera said that he further stated in a debate on the postponement of the Opposition House in Parliament on Wednesday.Anti -military activities that ended the war have also intensified.
+
+The goodwill government of the United States brought to the United States's 30 -year proposal against the Sri Lankan military. It was only after this that the crisis against the military has increased.
+
+It is noteworthy that the United Nations Human Rights Office has stated that the Sri Lankan military has discussed with member states to highlight the International Court of Justice.. LTTE militants are now openly observed.
 
 ...
 
 [Data](articles/23233f6c.json)
+
+[Extended Data](ext_articles/23233f6c.ext.json)
 
 ---
 

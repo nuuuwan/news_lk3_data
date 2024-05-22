@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 21:03:36**
+As of **2024-05-22 21:18:34**
 
 ## Newspaper Stats
 
-*Scraped **25,756** Articles*
+*Scraped **25,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,91 +18,177 @@ dailyftlk | 1,521
 adalk | 2,211
 adaderanalk | 2,965
 tamilmirrorlk | 3,003
-virakesarilk | 3,909
-dailymirrorlk | 4,048
-adaderanasinhalalk | 4,114
+virakesarilk | 3,910
+dailymirrorlk | 4,050
+adaderanasinhalalk | 4,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,748 (100.0%) of 25,756 articles have been extended.
+25,756 (100.0%) of 25,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### அவுஸ்திரேலியாவின் பன்முக கலாசார தூதுவர்களில் ஒருவராக ரசல் ஆர்னல்ட்
+### හෙට සිට අවහිර විය හැකි ප්‍රධාන මාර්ගයක් ගැන පොලීසියෙන් නිවේදනයක්
+
+*2024-05-22 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196916) · `si`
+
+වෙසක් කලාපයක් හේතුවෙන් අවහිර විය හැකි ප්‍රධාන මාර්ගයක් පිළිබඳව පොලීසියෙන් රියදුරන්ට දැනුම්දීමක් සිදුකරයි.
+
+වේයන්ගොඩ පොලිස් වසමේ වෙසක් කලාප 04ක් සහ වෙසක් තොරණ 07ක් ප්‍රදර්ශනය කෙරේ.
+
+පොලීසිය දැනුම්දෙන්නේ හෙට (23) සිට දින 07ක් එම වෙසක් කලාපය පැවැත්වෙන බවය.
+
+◼️
+
+[Data](articles/c7b0d88d.json)
+
+---
+
+### No health risks from cow measles: Expert
+
+*2024-05-22 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-health-risks-from-cow-measles-Expert/108-283176) · `en`
+
+Colombo, May 22 (Daily Mirror)- Consuming milk and meat from animals infected with cow measles poses no health risks to humans, Dr. Hemali Kothalawala, Director General of the Department of Animal Production and Health said.
+
+There is no threat of the disease spreading to humans, she emphasized.
+
+In response to recent reports of cow measles in Nuwara Eliya, the Department of Animal Production and Health, in collaboration with the private sector, has implemented a joint plan to provide necessary vaccines for disease control.
+
+Earlier this year, cow measles was reported in the Jaffna area. The Ministry of Agriculture noted that the disease was controlled effectively through prompt vaccination efforts.
+
+Further, Janaka Dharmakirthi, Secretary of the Ministry, stated that if current vaccine supplies prove insufficient, urgent measures will be taken to procure additional doses.
+
+◼️
+
+[Data](articles/7b576ccd.json)
+
+---
+
+### வெசாக் பண்டிகையை முன்னிட்டு கைதிகளுக்கு பொதுமன்னிப்பு
+
+*2024-05-22 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184264) · `ta`
+
+நாளை 23 ஆம் திகதி வியாழக்கிழமை வெசாக் பண்டிகையை முன்னிட்டு 278 கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்படவுள்ளதாக சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+
+அரசியலமைப்பின் 34வது சரத்தில் வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைய ஜனாதிபதி கைதிகளுக்கு விசேட பொதுமன்னிப்பு வழங்குவார் என சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இரண்டு சிறப்பு நிபந்தனைகளின் கீழ், கைதிகளுக்கு அரசு பொது மன்னிப்பு வழங்கப்படும். அதன்படி,  வியாழக்கிழமை (23) தீவு முழுவதும் உள்ள அனைத்து சிறைகளிலும் உள்ள 278 கைதிகளை விடுதலை செய்ய திட்டமிடப்பட்டுள்ளது.
+
+வெலிக்கடை சிறைச்சாலையில் இருந்து 15 கைதிகளும், மஹர சிறைச்சாலையில் இருந்து 37 கைதிகளும் விடுவிக்கப்படவுள்ள கைதிகளில் அடங்குகின்றனர்.
+
+விடுதலை செய்யப்பட்ட கைதிகளில் 10 பெண் கைதிகள் இருப்பதாக சிறைத்துறை ஆணையாளர் காமினி பி. திஸாநாயக்க மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/289f13d6.json)
+
+---
+
+### Russell Arnold as one of Australia's multi -cultural ambassadors
 
 *2024-05-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184262) · `ta`
 
-சர்வதேச கிரிக்கெட் வர்ணனையாளரும் முன்னாள் இலங்கை வீரருமான ரசல் பிரேமகுமாரன் ஆனல்டை, தனது பன்முக கலாசார தூதுவர்கள் திட்டத்தின் 54 பிரதிநிதிகளில் ஒருவராக கிரிக்கெட் ஒஸ்ட்ரேலியா (அவுஸ்திரேலிய கிரிக்கெட் நிறுவனம்) பெயரிட்டுள்ளது.
+Russell Premakumaran, a former Sri Lankan cricketer and commentator, joins Cricket Australia's multicultural ambassador program, alongside other notable figures from various backgrounds. This initiative aims to bridge gaps between sports and society, focusing on participation, high performance, representation, communication, and events. Ambassadors like Usman Khawaja, Alana King, and Wasim Akram will leverage their expertise to foster a more inclusive cricket community in Australia.
 
-விளையாட்டுத்துறையிலும் பரந்த சமூகத்திலும் நேர்மறையான மாற்றத்தை ஏற்படுத்தும் நோக்கில் பல்வேறு துறைகளைச் சார்ந்த மதிப்பிற்குரிய தலைவர்களை ஒன்றிணைப்பதில் அவுஸ்திரேலிய கிரிக்கெட்டின் பன்முக கலாசார செயற்திட்டத்தின் முக்கிய அம்சமாக தூதுவர் திட்டம் அமைகின்றது.
+🟩
 
-தூதுவர்கள் பட்டியலில் முன்னாள் மற்றும் சமகால வீரர்கள், தொழில்துறை மற்றும் சமூகத் தலைவர்கள் ஆகியோரும் உள்ளடங்குகின்றனர்.
+Cricket Australia (Australian Cricket Company) has been named one of the 54 representatives of his multi -cultural ambassadors program, Russell Premakumaran, former Sri Lankan commentator and former Sri Lankan player.
 
-பன்முக கலாசாரத் திட்டத்தல் கோடிட்டுக் காட்டப்பட்டுள்ள இலக்குகளை அடைவதற்கு பன்முகத்தன்மையுடனான ஆதரவை அவர்கள்  வழங்குவார்கள்.
+The Ambassador's Plan is an important feature of the Australian Cricket's multi -cultural program in the merger of various sectors in the field of sports and vast society.
 
-ரசல் பிரேமகுமாரன் ஆனல்டுடன் உஸ்மான் கவாஜா, அலனா கிங், ஸ்கொட் போலண்ட், மெல் ஜோன்ஸ், வசிம் அக்ரம், ரவி ஷாஸ்திரி, லிசா ஸ்தாலேக்கர், கிஷ்வோர் சௌதரி, பீட்டர் வர்கீஸ், ஸ்வாட்டி டேவ், பவாட் அஹ்மத் ஆகியோர் ஆரம்பத் தூதுவர்களில் அடங்குகின்றனர்.
+The ambassadors also include former and contemporary players, industrial and social leaders.
+
+They will provide multifaceted support to achieve the goals underlined.
+
+The initial ambassadors include Usman Khawaja, Alana King, Scott Polent, Wasim Akram, Ravi Shastri, Lisa Stalkar, Kishwore Chaudhary, Peter Varghese, Swati Dave and Pawad Ahmad.
+
+The government, trade, community, media and cricket will help the government to implement the five aspects of the Australian Cricket Cultural Action Scheme.
 
 ...
 
 [Data](articles/4fcc6268.json)
 
+[Extended Data](ext_articles/4fcc6268.ext.json)
+
 ---
 
-### சீரற்ற காலநிலையால் 15 மாவட்டங்களில் 17,000 குடும்பங்கள் பாதிப்பு : ஒருவர் பலி : 11 பேர் காயம்
+### 17,000 families in 15 districts due to inclement weather: One killed: 11 injured
 
 *2024-05-22 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184250) · `ta`
 
-நாட்டில் கடந்த ஓரிரு தினங்களாக நிலவும் சீரற்ற காலநிலையால் 13 மாவட்டங்களைச் சேர்ந்த 17,325 குடும்பகள் பாதிக்கப்பட்டுள்ளன.
+Inclement weather has severely impacted 17,000+ families across 15 districts, causing one fatality and injuring 11. Heavy rains and winds have damaged homes and displaced individuals, with warnings issued for several regions expecting further rainfall.
 
-அத்தோடு, மரம் முறிந்து விழுந்ததில் காலி மாவட்டம் - இமதுவ பிரதேச செயலகப்பிரிவில் ஒருவர் உயிரிழந்துள்ளதோடு, இரத்தினபுரி மற்றும் அநுராதபுரத்தில் இயற்கை அனர்த்தங்களால் 11 பேர் காயமடைந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+🟩
 
-கடும் மழை மற்றும் காற்றினால் இரத்தினபுரி, கொழும்பு, கேகாலை, அநுராதபுரம், கண்டி, காலி, களுத்துறை, யாழ்ப்பாணம், புத்தளம், கம்பஹா, அம்பாந்தோட்டை, பதுளை, மாத்தறை, குருணாகல் மற்றும் பொலன்னறுவை ஆகிய மாவட்டங்களே இவ்வாறு பாதிக்கப்பட்டுள்ளன.
+17,325 families from 13 districts have been affected by inclement weather for the past two days.
 
-இம்மாவட்டங்களில் 17,230 குடும்பங்களைச் சேர்ந்த 68,079 பேர் பாதிக்கப்பட்டுள்ளதோடு, அநுராதபுரத்தில் இரு வீடுகள் முழுமையாக சேதமடைந்துள்ளதோடு, ஏனைய மாவட்டங்களில் 531 வீடுகள் பகுதிகளவில் சேதமடைந்துள்ளன. இதே வேளை 27 குடும்பங்களைச் சேர்ந்த 122 பேர் பாதுகாப்பான இடங்களில் தங்க வைக்கப்பட்டுள்ளனர்.
+In addition, one person died in the Galle District - Imamuwa Divisional Secretariat Division and 11 people were injured in natural disasters in Ratnapura and Anuradhapura, the Disaster Management Center said.
+
+Heavy rains and winds have been affected by the districts of Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Kalutara, Jaffna, Puttalam, Gampaha, Hambantota, Badulla, Matara, Kurunegala and Polonnaruwa.
+
+68,079 people from 17,230 families have been affected, two houses in Anuradhapura have been completely damaged and 531 houses in other districts have been damaged.. At the same time, 122 people from 27 families have been placed in safe places.
+
+The Department of Meteorology has predicted more rainfall in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts.
 
 ...
 
 [Data](articles/4a7f9df6.json)
 
+[Extended Data](ext_articles/4a7f9df6.ext.json)
+
 ---
 
-### ஓராண்டு கடந்து தையிட்டி சட்ட விரோத விகாரைக்கு எதிரான போராட்டம் தொடர்கிறது!
+### A year passed against the illegal illegal strain continues!
 
 *2024-05-22 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184263) · `ta`
 
-சட்டவிரோத தையிட்டி திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆம் 22 திகதி புதன்கிழமை இன்று மீண்டும் ஆரம்பமானது.
+Tamil National People's Front's protest against the illegal Tissa Tissa Vihara started on 22nd and ends on 24th, led by Kanagaratnam Sukash. It occurs annually on full moon days, involving party members.
 
-22 திகதி புதன்கிழமை ஆரம்பமான இந்த போராட்டமானது எதிர்வரும் 24 ஆம் திகதி வெள்ளிக்கிழமை வரை தொடர்ந்து நடைபெறும் என தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ் தெரிவித்துள்ளார்.
+🟩
 
-குறித்த விகாரையில் ஒவ்வொரு பௌர்ணமி தினத்திலும் வழிபாடுகள் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில் ஒவ்வொரு பௌர்ணமி தினத்திலும் தமிழ்த் தேசிய மக்கள் முன்னணியின் ஏற்பாட்டில் போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றது.
+The struggle against the illegal Tissa Tissa Vihara began on Wednesday 22nd.
 
-இன்றைய போராட்டத்தில் தமிழ்த் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ், கட்சியின் உறுப்பினர்கள் மற்றும் பொதுமக்கள் எனப் பலரும் கலந்துகொண்டனர்.
+The struggle, which began on Wednesday, will continue until Friday the 24th, said Tamil National People's Front media spokesman Kanagaratnam Sukash.
+
+The struggle is being carried out in the arrangement of the Tamil National People's Front every full moon day as the worship is being carried out on every full moon day in the Vihara.
+
+Media spokesman of the Tamil National People's Front Kanagaratnam Sukash, members and members of the party participated in the struggle.
 
 ◼️
 
 [Data](articles/4f8efbab.json)
 
+[Extended Data](ext_articles/4f8efbab.ext.json)
+
 ---
 
-### ஐ.எஸ். அமைப்பைச் சேர்ந்தவர்களென இந்தியாவில் கைதுசெய்யப்பட்டிருக்கும் சம்பவம் தேர்தல் வெற்றியை மையப்படுத்தியதா ? - முஷாரப் சந்தேகம்
+### I.S.. Is the incident in India to focus on the election victory in India?- Musharraf doubt
 
 *2024-05-22 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184255) · `ta`
 
-ஈஸ்டர் தாக்குதல் நடத்தப்பட்ட காலமும் ஒரு தேர்தல் காலம். அதேபோன்று இந்தியாவில்  4 முஸ்லிம் இளைஞர்கள் கைது செய்யப்பட்டிருக்கும் காலகட்டம், இந்தியாவை பொறுத்தவரையில் தேர்தல் இடம்பெற்றுவரும் கால கட்டம்.
+The text discusses concerns about election-related incidents in India and Sri Lanka, focusing on the timing of elections and arrests of Muslim youths, suspected links to extremist groups, and the impact of such events on electoral outcomes.
 
-இலங்கையை பொறுத்தவரை விரைவில் ஒரு தேர்தலை எதிர்பார்த்திருக்கும் ஒரு காலகட்டாமாகும்.  அதனால் தேர்தல் வெற்றியை மையப்படுத்தி, புனையப்படுகின்ற ஒருவிடயமாக இது இருக்கக்கூடும் என்ற ஒரு சந்தேகம் எழுகிறது என ஆளும் கட்சி உறுப்பினர் எம்.முஷாரப் தெரிவித்தார்
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The period of the Easter attack is also an election period. Similarly, the period of the arrest of 4 Muslim youths in India is the time when the election is held in India.
 
-இந்திய அஹமதாபாத் விமான நிலையத்தில் கைது செய்யப்பட்டுள்ள 4 முஸ்லிம் இளைஞர்கள் தொடர்பாக இந்த சபையில் உறுப்பினர் ஒருவர் குறிப்பிடுகையில், முஸ்லிம் தீவிரவாதம் தலைதூக்கும் அபாயம் இருக்கிறது.
+As for Sri Lanka, it is a time when an election is expected to soon.  The ruling party member M. Musharaf said that there is a suspicion that this could be a thing that focuses on election victory
+
+He said this while addressing the debate on the proposal on Wednesday (22) in Parliament.
+
+A member of the council said that the 4 Muslim youth arrested at the Ahmedabad airport at the Indian Ahmedabad airport said that Muslim extremism is at risk.
+
+I had reported this to the House some time ago. Accordingly, 4 Muslim youths have been arrested in India. So again in Sri Lanka. He was speaking in a very heavy tone as he was heading.
 
 ...
 
 [Data](articles/948cb7d1.json)
+
+[Extended Data](ext_articles/948cb7d1.ext.json)
 
 ---
 
@@ -225,6 +311,8 @@ Several dansals were conducted around the Colombo city to mark the Vesak full mo
 ◼️
 
 [Data](articles/9cbfb17f.json)
+
+[Extended Data](ext_articles/9cbfb17f.ext.json)
 
 ---
 
@@ -684,21 +772,31 @@ There were less than 20 member present during the time of suspension.
 
 ---
 
-### எக்காரணிகளுக்காவும் வரிக் கொள்கையை மறுசீரமைக்கப் போவதில்லை - நிதி இராஜாங்க அமைச்சர்
+### No matter how many factors are not going to restructure tax policy - the Minister of Finance
 
 *2024-05-22 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184251) · `ta`
 
-வரி குறைப்பு செய்தால் 06 மாத காலத்துக்குள் மீண்டும் வரிசை யுகத்துக்கு செல்ல நேரிடும்.எக்காரணிகளுக்காகவும் தற்போதைய வரி கொள்கையை மறுசீரமைக்க போவதில்லை.
+Finance Minister Xihan Semasinghe warns against misleading tax cuts for political gain, emphasizing the need for stability amidst economic recovery efforts. He criticizes opposition parties for exploiting economic issues for short-term political advantage, highlighting the potential loss of significant state revenue from reduced taxes. The minister assures that any tax reductions will revert within six months, stressing the importance of adhering to financial commitments made during the 2022 elections.
 
-குறுகிய அரசியல் நோக்கத்துக்காக மக்களை தவறாக வழிநடத்தி அரசியல் வாக்குறுதிகள் வழங்குவதை எதிர்க்கட்சிகள் தவிர்த்துக் கொள்ள வேண்டும் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற எதிர்க்கட்சியினால் கொண்டுவரப்பட்ட  பொருளாதாரம், சட்டம் ஒழுங்கு மற்றும் பாதுகாப்பு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பான  சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+If the tax cut will be reduced, it will go back to the sequence within a period of 06 months.
 
-ஜனாதிபதி தேர்தலுக்கான அறிவிப்பு விடுக்கப்பட்டுள்ள நிலையில் ஒரு தரப்பினர் பொருளாதார  பாதிப்பை ஆயுதமாக பயன்படுத்திக் கொள்ளவும்,பிறிதொரு தரப்பினர் தற்போதைய பொருளாதார மீட்சிகளை பலவீனப்படுத்தவும் முயற்சிக்கிறார்கள்.
+Finance Minister Xihan Semasinghe said the opposition parties should avoid the misleading the people for a short political purpose.
+
+He said this while addressing a debate on the proposal on various issues, including the economy, law and order and security of the Opposition in Parliament on Wednesday (22).
+
+With the announcement of the presidential election, one party is trying to use economic impact as weapons and another party is trying to weaken the current economic recovery.
+
+The main opposition United People's Ministers continued to blame the government's loss of state revenue of 700 billion rupees due to a reduction in taxes.
+
+The United People's Power states that the taxes that are currently implemented in their regime will be reduced by 24 per cent.
 
 ...
 
 [Data](articles/55623694.json)
+
+[Extended Data](ext_articles/55623694.ext.json)
 
 ---
 
@@ -728,23 +826,29 @@ To download the applications candidates are requested to log on to the Examinati
 
 ---
 
-### ශිෂ්‍යත්වය සැප්තැම්බර් 15
+### Scholarship is September 15
 
 *2024-05-22 16:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-සැප්තැම්බර්-15/11-409795) · `si`
 
-5 ශ්‍රේණිය සිසුන් සඳහා මෙවර ශිෂ්‍යත්ව විභාගය 2024 සැප්තැම්බර් 15 වන ඉරුදින පැවැත්වෙන බව විභාග දෙපාර්තුමේන්තුව අද (22) නිවේදනය කළේ ය.
+This year's scholarship exam is set for September 15, 2024, open to Grade 5 students approved by the government for popular schools. The application period runs from May 27 to June 14, 2024, online. Scholarships are awarded to successful candidates. More details can be found on the eIC website.
 
-ඒ සඳහා, 2024 මැයි මස 27 දින සිට 2024 ජූනි මස 14 වන දින දක්වා මාර්ගගතව (online) අයදුම්පත් කැඳවීම සිදු කරන බව විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා එම නිවේදනය මගින් දැනුම් දෙයි.
+🟩
 
-ශිෂ්‍යාධාර ලබාගැනීම සඳහාත්  ජනප්‍රිය පාසල් ලබා ගැනීම සඳහාත් අවස්ථාව ලැබෙන 5 ශිෂ්‍යත්ව විභාගය සඳහා ඉදිරිපත් විය හැක්කේ රජයේ  පාසල් හෝ රජය විසින් අනුමත කරනු ලබන පාසල් වන 5 ශ්‍රේණියේ ඉගෙනුම  ලබන සිසුන්ට පමණක් බව එම නිවේදනයේ දැක්වේ.
+The Examinations Department announced that this year's scholarship examination will be held on September 15, 2024.
 
-මෙම විභාගය සමත්වන දරුවන්ගෙන් ශිෂ්‍යත්ව ලබා ගැනීමට සුදුසුකම් ලැබෙන්නේ අඩු ආදායම්ලාභී පවුල්වල 2025 ජනවාරි 31 කියන දිනට වයස අවුරුදු 11ට අඩු සිසුන් සඳහා පමණක් බවද විභාග කොමසාරිස්වරයා නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+The Commissioner General of Examinations HJMC is called online from 27th May 2024 to June 14, 2024 (onLine).. Amit Jayasundara has informed the announcement.
 
-අයදුම්පත්  පිරවීම සඳහා අදාළ උපදෙස් සහ 5ශිෂ්‍යත්ව විභාගයේ ව්‍යවස්ථා මාලාව httpsi//on-line exams.gov.lk./eic වෙබ් අඩවිය වෙත පිවිසීමෙන් ලබාගත හැකිය.
+The announcement shows that only the students who are studying for Grade 5 students who are approved by the government or the government to obtain popular schools.
+
+The Commissioner General of Examinations stated that the scholarships are eligible to obtain scholarships from children who pass the examination.
+
+Advice and 5 scholarship examination of the 5th Scholarship Examination is available at HTTtt / On-Line Exams.gov.lk./eIC website.
 
 ◼️
 
 [Data](articles/f6725875.json)
+
+[Extended Data](ext_articles/f6725875.ext.json)
 
 ---
 
@@ -1088,6 +1192,18 @@ Doctors compared the deity to the goddess but that the same profession was used 
 
 ---
 
+### Preparing for Vesak...
+
+*2024-05-22 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Preparing-for-Vesak/108-283161) · `en`
+
+People are buying lanterns in Colombo to celebrate the Vesak festival which commemorates the birth of the Buddha, his enlightenment and demise. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/83867365.json)
+
+---
+
 ### Rahiman arrested for rahman associated with Dambulla thunders
 
 *2024-05-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196909) · `si`
@@ -1134,21 +1250,27 @@ This petition is Sampath Abeykoon and P. The order was called before the Bench o
 
 ---
 
-### மின்சாரக் கட்டணத்தை குறைக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - சஜித் சபையில் கோரிக்கை
+### Government should take steps to reduce electricity tariff
 
 *2024-05-22 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184236) · `ta`
 
-அதிகரிக்கப்பட்டுள்ள மின்சார உற்பத்திக்கு அமைய மின் பாவனையாளர்களின் மின்சார கட்டணத்தையும் குறைக்க அரசாங்கம் விரைவாக நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபையில் கோரிக்கை விடுத்தார்.
+Sajith Premadasa urges the government to lower electricity tariffs due to increased power generation from higher water levels in reservoirs like Kasalri, Mousecal, Victoria, Randenigala, and Samanala Veva. The Sri Lanka Public Utilities Commission has requested proposals from the Electricity Board 2 to decrease power unit prices, but no proposals have been submitted yet. The government is urged to act swiftly to pass on the benefits of increased hydroelectricity production to consumers.
 
-நாட்டில் பெய்துவரும் கடும் மழை காரணமாக மின் உற்பத்திக்கான நீர் தேக்கங்களில் நீர் மட்டம் அதிகரித்துள்ளது. குறிப்பாக காசல்ரீ மற்றும் மவுஸ்ஸாக்கலை, விக்டோரியா, ரன்தெனிகல மற்றும் சமனல வெவ ஆகிய நீர்த்தேக்கங்களில் நீர் மட்டங்கள் அதிகரித்துள்ளன.
+🟩
 
-இவ்வாறான நிலையில், மின்சார அலகொன்றின் விலையை குறைப்பதற்கான முன்மொழிவுகளை சமர்ப்பிக்குமாறு 2 தடவைகள், மின்சார சபையிடம் இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு கோரியுள்ளது. என்றாலும் மின்சார சபை அந்த முன்மொழிவுகளை இதுவரையில் சமர்ப்பிக்கவில்லை.
+Opposition Leader Sajith Premadasa has called for the government to take immediate steps to reduce the electricity tariffs of the electricity consumers in accordance with the increased power generation.
 
-15-20 சதவீதமாக இருந்த நீர்மின் உற்பத்தி மட்டம் இம்மாதம் 20 ஆம் திகதி ஆகும் போது 31 சதவீதமாக அதிகரித்துள்ளதாக தெரிவிக்கப்பட்டுள்ள நிலையில், இலங்கை பொதுப் பயன்பாட்டு ஆணைக்குழுவும் இலங்கை மின்சார சபையும் ஒன்றிணைந்து  இந்த நன்மையை மின்சார பாவனையாளர்களுக்கு வழங்க நடவடிக்கை எடுக்க வேண்டும்.
+Due to heavy rains in the country, water levels for power generation have increased. Water levels have increased in the reservoirs of Kasalri and Mousecal, Victoria, Randenigala and Samanala Veva.
+
+In this case, the Sri Lanka Public Utilities Commission has asked the Electricity Board 2 to submit proposals to reduce the price of a power unit.. However, the Electricity Board has not yet submitted the proposals.
+
+The Sri Lanka Public Utilities Commission and the Ceylon Electricity Board (CEB) and the Ceylon Electricity Board (CEB) should take steps to provide this benefit to the Electricity Consumers, while the hydroelectricity level from 15-20 per cent has increased by 31 per cent this month.
 
 ...
 
 [Data](articles/2519d893.json)
+
+[Extended Data](ext_articles/2519d893.ext.json)
 
 ---
 
@@ -2177,101 +2299,5 @@ A blood donation camp was launched today at the Head quarters of the Sri Lanka S
 [Data](articles/94072e72.json)
 
 [Extended Data](ext_articles/94072e72.ext.json)
-
----
-
-### A minute silent tribute to Parliament
-
-*2024-05-22 12:13:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-ஒரு-நிமிடம்-மௌன-அஞ்சலி/175-337689) · `ta`
-
-In a solemn moment, Parliament observed a minute of silence to honor the passing of Iranian President Mohamed Raisi. The initiative, proposed by Minister Prasanna Ranatunga, aimed to express condolences for the loss. This gesture followed the tradition of acknowledging international leaders' visits and contributions, such as the support for the Uma Oya project.
-
-🟩
-
-A silent tribute was paid to Parliament on Wednesday (22) to convey the sudden death of Iranian President Mohamed Raisi.
-
-Prior to the onset of parliamentary proceedings, the chief organizer of the ruling party Prasanna Ranatunga presented this idea in Parliament.
-
-Minister Prasanna Ranatunga, who presented the proposal, said that the Iranian president would condole the demise of the Iran.. Ranatunga also recalled that the last head of state to visit the country was the President of Iran.. Recalling the arrangements and support for the Uma Oya project, the minister offered to express his sympathy in Parliament for a minute of the death of the Iranian president.
-
-Accordingly, after the ruling and opposition ministers, including the Speaker, got up from the seat and remained silent for a minute, then the council proceedings began.
-
-◼️
-
-[Data](articles/22475246.json)
-
-[Extended Data](ext_articles/22475246.ext.json)
-
----
-
-### Businessman charged with assaulting Iranian Ambassador granted bail
-
-*2024-05-22 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99377/businessman-charged-with-assaulting-iranian-ambassador-granted-bail) · `en`
-
-The businessman who was arrested and remanded on charges of assaulting the Ambassador of the Islamic Republic of Iran in Sri Lanka, Dr. Alireza Delkhosh, has been released on bail.
-
-He was ordered released on bail after being produced before Colombo Fort Magistrate Kosala Senadeera today (22).
-
-The 33-year-old youth was arrested and remanded for allegedly assaulting the Iranian Ambassador during an incident near a shopping mall on Muttiah Road in Colombo 02 on May 18.
-
-The incident had reportedly occurred while the diplomat was entering the car park of a shopping mall in his vehicle. An argument had ensued between the Ambassador and the suspect in question, during which the latter had assaulted the diplomat and attempted to flee in his vehicle.
-
-...
-
-[Data](articles/05b6af3d.json)
-
-[Extended Data](ext_articles/05b6af3d.ext.json)
-
----
-
-### Sri Lanka to resume Suraksha student insurance
-
-*2024-05-22 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-suraksha-student-insurance-164207/) · `en`
-
-ECONOMYNEXT – Sri Lanka will resume a student insurance scheme called Suraksha, which it stopped in 2022 due to the economic crisis, President Ranil Wickremesinghe said.
-
-Coverage will extend across all types of schools and includes students from low-income families earning less than 180,000 rupees annually, he said.
-
-“Suraksha student insurance will cover 4.5 million students, offering health, accident, and life insurance. Health benefits include up to Rs. 300,000 for inpatient care, Rs. 20,000 for outpatient services, and critical illness coverage up to Rs. 1.5 million,” the president said on social media platform X (twitter).
-
-“Accident insurance ranges from Rs. 25,000 to Rs. 200,000, covering disabilities. Life insurance provides Rs. 75,000 per child if a parent passes away, with a maximum of Rs. 225,000 per family.”
-
-Wickremesinghe implemented the Suraksha student insurance in 2017 when he was Prime Minister.
-
-...
-
-[Data](articles/d50e09a9.json)
-
-[Extended Data](ext_articles/d50e09a9.ext.json)
-
----
-
-### Sarath Fonseka - Official announcement in June
-
-*2024-05-22 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184206) · `ta`
-
-Sarath Fonseka, a former military commander, plans to leave the United People's Power party and run for president, backed by some UNP MPs. He prioritizes fighting corruption and ensuring national security. Fonseka, who aided during the Arakalaya, aims to leverage this support. Additionally, he'll release a war memoir during his campaign. A former diplomat seeks a meeting with him on behalf of President Ranil Wickremesinghe, which Fonseka hasn't declined, indicating his commitment to the presidential race.
-
-🟩
-
-Former military commander Sarath Fonseka will quit the United People's Power and contest the presidential election, according to DailyMirr.
-
-Meanwhile, Sarath Fonseka has received the support of some MPs of the United Nations Shakti.
-
-According to reports, Sarath Fonseka will give priority to a corrupt country and national security during his election campaign.
-
-Sarath Fonseka, who supported them during the Arakalaya, would try to use his support on that occasion.
-
-At the same time, Sarath Fonseka will publish a book on the war during the election campaign.
-
-Meanwhile, a former diplomat has made a request to meet Sarath Fonseka as a representative of President Ranil Wickremesinghe.
-
-Sarath Fonseka, who has not rejected the meeting, said he would not abandon the decision to contest the presidential election.
-
-◼️
-
-[Data](articles/fc9c426a.json)
-
-[Extended Data](ext_articles/fc9c426a.ext.json)
 
 ---

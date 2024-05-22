@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 11:18:37**
+As of **2024-05-22 11:34:07**
 
 ## Newspaper Stats
 
-*Scraped **25,626** Articles*
+*Scraped **25,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,472
 dailyftlk | 1,521
 adalk | 2,196
 adaderanalk | 2,954
-tamilmirrorlk | 2,991
+tamilmirrorlk | 2,993
 virakesarilk | 3,880
 dailymirrorlk | 4,022
 adaderanasinhalalk | 4,095
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,616 (100.0%) of 25,626 articles have been extended.
+25,626 (100.0%) of 25,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### தேரருக்கு பொதுமன்னிப்புக் கோரும் இந்து சம்மேளனம்
+
+*2024-05-22 11:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரருக்கு-பொதுமன்னிப்புக்-கோரும்-இந்து-சம்மேளனம்/175-337682) · `ta`
+
+ஞானசார தேரருக்கு ஜனாதிபதி மன்னிப்பு வழங்குமாறு இலங்கை இந்து சம்மேளனம் ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளது.
+
+ஜனாதிபதிக்கு அவர்கள் எழுதிய கடிதத்தில், ஞானசார தேரரின் ஜனநாயகக் குரலை முடக்கும் நோக்கத்துடன் அரசாங்கத்தின் சில ஜனநாயக அமைப்புகளால் ஞானசார தேரரின் சில அறிக்கைகள் மற்றும் நடத்தைகள் தவறாகப் புரிந்து கொள்ளப்பட்டுள்ளது அல்லது தவறாகத் தெரிவிக்கப்பட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+
+ஞானசார தேரர், அந்தந்த மத நம்பிக்கைகளைப் பின்பற்றுபவர்கள் மத்தியில் சமாதானத்தை நிலைநாட்டவும், நாட்டின் பொருளாதார, சமூக மற்றும் ஆன்மீகத் தளங்களை அழிக்கக்கூடிய முரண்பாடுகளை இல்லாதொழிக்கவும் உழைத்துள்ளதாகவும் அவர்கள் அக்கடிதத்தில் தேரரின் சேவைகளையும் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/5d00621f.json)
+
+---
 
 ### Economic Transformation Bill and Public Financial Management Bill tabled in Parliament
 
@@ -42,47 +58,61 @@ The Economic Transformation Bill and the Public Financial Management Bill have b
 
 [Data](articles/4ef6105e.json)
 
+[Extended Data](ext_articles/4ef6105e.ext.json)
+
 ---
 
-### பேருந்து மோதி சிறுமி பலி
+### Bus collides
 
 *2024-05-22 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-சிறுமி-பலி/175-337678) · `ta`
 
-கம்பளை புதிய குருந்துவத்தையில் இன்று காலை பேரவிலவிலிருந்து கம்பளை நோக்கி பயணித்த தனியார் பஸ்ஸில் மோதி பாடசாலை மாணவி ஒருவர் உயிரிழந்துள்ளார்.
+A tragic accident occurred today as a schoolgirl, 10 years old from Pattithalawa, was fatally struck by a private bus near Kurunduwattai Gampola. The incident happened while she was crossing the road after disembarking from the bus. She was rushed to the nearby hospital but succumbed to her injuries.
 
-புதிய குருந்துவத்தை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பதித்தலாவ, மல்கொல்ல பிரதேசத்தைச் சேர்ந்த 10 வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சிறுமி பேருந்தில் இருந்து இறங்கி பேருந்துக்கு முன்னால் உள்ள வீதியைக் கடந்த போது இந்த விபத்து நேர்ந்துள்ளதாக விசாரணைகள் தெரிவிக்கின்றன.
+A schoolgirl has died after being hit by a private bus traveling from Paravilai to Gampola this morning at the new Kurunduwattai Gampola.
+
+A 10 -year -old girl from Pattithalawa, Malkola area has died after she was admitted to the new Kurunduwatte Divisional Hospital, police said.
+
+Investigations suggest that the accident occurred when the girl got off the bus and crossed the road in front of the bus.
 
 ◼️
 
 [Data](articles/5603844b.json)
 
+[Extended Data](ext_articles/5603844b.ext.json)
+
 ---
 
-### විජයදාස ගේ පෙත්සම විභාගය කල්යයි
+### Wijayadasa's petition postponed
 
 *2024-05-22 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196897) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා වැඩබලන මහලේකම් ලෙස කීර්ති උඩවත්ත යන මහත්වරු පත්වීම නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා විසින් කොළඹ දිසා අධිකරණය හමුවේ ගොනුකර ඇති පැමිණිල්ලක් නිෂ්ප්‍රභ කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඉදිරිපත් කළ අභියාචනා පෙත්සම අද (22) බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණය හමුවේ යළි තුන්වන දිනටත් විභාගයට ගත්තේය.
+Wijayadasa Rajapaksa's appeal petition, presented by attorneys Chandka Jayasundara, was postponed until March 31st by the High Court Judges Gihan Kulathunga and Frank Gunawardena. The case involves MP Duminda Dissanayake and Keerthi Udawatta, both from the Sri Lanka Freedom Party, awaiting a verdict in the Colombo District Court.
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් එම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
 
-එම පෙත්සම ගිහාන් කුලතුංග සහ ෆ්‍රෑන්ක් ගුණවර්ධන යන මහත්වරුන්ගෙන් සමන්විත සිවිල් අභියාචනා මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ යළි කැඳවනු ලැබීය.
+MP Duminda Dissanayake as the Chairman of the Sri Lanka Freedom Party (SLFP) as the President of Keerthi Udawatta as the President of the Sri Lanka Freedom Meeting as a verdict on the occasion as a decision was issued by the Colombo District Court today (22) today (22) In the Western Provincial Civil Appeal, hearing over the third day.
 
-එහිදී වගඋත්තරකාර දුමින්ද දිසානායක මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ චන්දක ජයසුන්දර මහතා වැඩිදුරටත් කරුණු ඉදිරිපත් කළේය.
+The Court of Justice Wijayadasa Rajapaksa had presented the appeal petition.
 
-ඉන් අනතුරුව වැඩිදුර කරුණු දැක්වීම ලබන 31 වනදා තෙක් කල්තැබුණි.
+The petition was recalled before the High Court Judge Bench comprising Gihan Kulathunga and Frank Gunawardena.
+
+Attorneys Chandka Jayasundara appearing on behalf of the respondents have further forwarded the matter.
+
+The further views further postponed until 31st.
 
 ◼️
 
 [Data](articles/64900c3f.json)
 
+[Extended Data](ext_articles/64900c3f.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் மீ்ண்டும் களமிறங்குகிறார் பொன்சேகா
+### ஜனாதிபதித் தேர்தலில் மீண்டும் களமிறங்குகிறார் பொன்சேகா
 
-*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீ்ண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
+*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
 
 முன்னாள் இராணுவத் தளபதி பீல்ட் மார்ஷல் சரத் பொன்சேகா எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி தேர்தலில் போட்டியிட தீர்மானித்துள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
 
@@ -98,7 +128,39 @@ The Economic Transformation Bill and the Public Financial Management Bill have b
 
 ...
 
+[Data](articles/9ddf6380.json)
+
+---
+
+### Fonseka is in the presidential election
+
+*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீ்ண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
+
+Field Marshal Sarath Fonseka, former Army Commander, is set to run in Sri Lanka's presidential election as an independent candidate, backed by the United People's Power (SJB). He aims to address corruption and prioritize national security, collaborating with intellectuals and releasing a book detailing his wartime experiences. Despite interest from President Ranil Wickremesinghe, Fonseka remains committed to his candidacy, seeking closer ties with major powers like India, China, and the US.
+
+🟩
+
+Former Army Commander Field Marshal Sarath Fonseka has decided to contest the upcoming presidential election, according to Daily Mirror.
+
+Sources close to Fonseka said that the current president of the United People's Power (SJB) will issue a formal announcement in June.
+
+Fonseka is contesting as an independent candidate without joining any political party.
+
+According to sources, Fonseka has been able to obtain the support of the SJP MPs and is in talks with MPs and politicians of other political parties.
+
+The Daily Mirror claims that Fonseka's campaign will promote a corrupt country and prioritize national security.
+
+He is expected to work with intellectuals and prominent figures during his campaign.
+
+The Daily Mirror has stated that the former army commander will try to increase his presidential effort by publishing a book on the war.
+
+The book is expected to reveal information about the conflict and his role as the then Army Commander.
+
+...
+
 [Data](articles/b63fa879.json)
+
+[Extended Data](ext_articles/b63fa879.ext.json)
 
 ---
 
@@ -119,6 +181,8 @@ Wind speeds are expected to reach 40-50 kmph and wind speed may increase up to 6
 ...
 
 [Data](articles/c9f4f24d.json)
+
+[Extended Data](ext_articles/c9f4f24d.ext.json)
 
 ---
 
@@ -144,23 +208,29 @@ The Ambassador of Iranian was assaulted in a car park in a major shopping comple
 
 ---
 
-### சர்வதேச தேயிலை தினம் வைபவம்
+### International Tea Day
 
 *2024-05-22 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184194) · `ta`
 
-ஐக்கிய நாடுகள் சபையினால் அங்கீகரிக்கப்பட்ட சர்வதேச தேயிலை தினம் ஒவ்வொரு வருடமும் மே 21 திகதி கொண்டாடப்படுகிறது.
+International Tea Day, recognized by the UN, celebrates tea culture globally on May 21. This year, it was marked in Ratnapura, Sri Lanka, by the Kandy Community Development Institute. Participants rallied for worker rights and other concerns, drawing attention from politicians and NGOs.
 
-இந்நிலையில், இலங்கையில் மலையக பிரதேசங்களிலும் சர்வதேச தேயிலை தின நிகழ்வுகள் செவ்வாய்கிழமை (21)  கொண்டாடப்பட்டன.
+🟩
 
-சர்வதேச தேயிலை தினத்தையொட்டி  நிகழ்வு ஒன்று கண்டி சமூக அபிவிருத்தி நிறுவகமான (ISD) நிறுவனத்தின் ஏற்பாட்டில் இரத்தினபுரி நகரில் செவ்வாய்கிழமை  கொண்டாடப்பட்டது.
+International Tea Day recognized by the United Nations is celebrated on May 21 every year.
 
-கண்டி சமூக அபிவிருத்தி நிறுவனத்தின் நிறைவேற்று பணிப்பாளர் பெ. முத்துலிங்கம் தலைமையில் இடம்பெற்ற இந்த நிகழ்வில் மலையக பெருத்தோட்ட தொழிலாளர்களின் மறுக்கப்பட்ட பல்வேறு உரிமை சார் விடயங்களை உள்ளடக்கி தமது கோரிக்கைகளை எழுதிய பதாதைகளை ஏந்தி கோஷமிட்டு பேரணி ஒன்றும் இடம்பெற்றது.
+In the meantime, International Tea Day events were celebrated on Tuesday (21).
 
-இதையடுத்து இந்த நிகழ்வுக்கான பொது கூட்டம் இரத்தினபுரி நகர சபை மண்டபத்தில் இடம்பெற்றதுடன் நிகழ்வுகளில் அரசியல் பிரமுகர்கள், அரச மற்றும் அரச சார்பற்ற நிறுவனங்களின் பிரதநிதிகள் அடங்களாக பலர் கலந்துக்கொண்டமை குறிப்பிடத்தக்கது.
+The International Tea Day event was celebrated in Ratnapura on Tuesday under the auspices of the Kandy Community Development Institute (ISD).
+
+Executive Director of Kandy Social Development Institute. The event was chaired by Muthulingam, carrying out a rally carrying the posts that wrote their demands, including various issues of the hill station workers.
+
+Subsequently, a public meeting for the event was held at the Ratnapura Urban Council Hall and the event was attended by political figures, state and non -governmental corporations.
 
 ◼️
 
 [Data](articles/e79ebe55.json)
+
+[Extended Data](ext_articles/e79ebe55.ext.json)
 
 ---
 
@@ -184,21 +254,27 @@ The deceased has been identified as a 10 year old girl from Malgollawa area.
 
 ---
 
-### வெசாக் தினங்களில் பௌத்த கொடியின் வர்ணங்களில் தாமரை கோபுரம் ஒளிரும்
+### Lotus tower glows in the colors of the Buddhist flag on Vesak Days
 
 *2024-05-22 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184188) · `ta`
 
-வெசாக் பௌர்ணமி தினத்தை முன்னிட்டு தாமரை கோபுரம் பௌத்த கொடியிலுள்ள வர்ணங்களில் ஒளிரும் என தாமரை கோபுர நிர்வாகம் தெரிவித்துள்ளது.
+On Vesak Pournami Eve, Lotus Tower in Colombo will glow in Buddhist flag colors, inviting celebrations and featuring an interactive digital art experience called Pixel Bloom.
 
-அதன்படி, நாளை வியாழக்கிழமை (23) மற்றும் நாளை மறுதினம் வெள்ளிக்கிழமை (24) கோபுரம் ஒளிரும்.
+🟩
 
-கொழும்பு தாமரை கோபுரத்தில் பிரமிக்க வைக்கும் காட்சிகளுடன் வெசாக் பண்டிகையை கொண்டாடுமாறு நிர்வாகம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+The Lotus Tower Administration has said that the Lotus Tower will be glowing in the Buddhist flag colors on the eve of Vesak Pournami Day.
 
-இந்நிலையில், வெசாக் தினங்களில் பிக்சல் ப்ளூம் புத்தம் புதிய, ஊடாடும் டிஜிட்டல் கலை அனுபவத்தை அனுபவிக்கும் நேரத்தையும் தாமரை கோபுர நிர்வாகம் அறிவித்துள்ளது.
+Accordingly, tomorrow (23) and tomorrow the next Friday (24) will glow.
+
+The administration has asked the people to celebrate the Vesak festival with stunning scenes at the Lotus Tower in Colombo.
+
+In this case, the Lotus Tower Administration has also announced the time of Pixel Bloom's brand new, interactive digital art experience on Vesak Days.
 
 ◼️
 
 [Data](articles/05d802fb.json)
+
+[Extended Data](ext_articles/05d802fb.ext.json)
 
 ---
 
@@ -224,39 +300,53 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 
 ---
 
-### சகோதரியின் வீட்டுக்குச் சென்ற சகோதரனை கொலை செய்த மைத்துனர் !
+### Brother -in -law killing his brother
 
 *2024-05-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184186) · `ta`
 
-களுத்துறை, மொரந்துடுவ, பொல்ஹேன பகுதியில்  கூரிய ஆயுதத்தால் தாக்கப்பட்டு  ஒருவர் கொலை செய்யப்பட்டுள்ளதாக மொரந்துடுவ பொலிஸார் தெரிவித்தனர்.
+In Moranduduwa, a 30-year-old man named Lasantha Pushpakumara was fatally stabbed by his brother-in-law after an argument at his sister's house. The incident occurred in the Kalutara, Moranduduwa, and Polhena areas, leading to another man being seriously wounded and hospitalized.
 
-பண்டாரகம, வல்கம பிரதேசத்தைச்  சேர்ந்த லசந்த புஷ்பகுமார என்ற 30 வயதுடைய நபரொருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மொரந்துடுவ பகுதியிலுள்ள சகோதரியின் வீட்டிற்கு உயிரிழந்த நபர் சில நண்பர்களுடன் சென்று, சகோதரியின் கணவருடன் முரண்பட்டுள்ளார்.
+Moranduduwa police said that a man was assassinated by a sharp weapon in the Kalutara, Moranduduwa and Polhena area.
 
-இதன்போது,  கூரிய ஆயதத்தால் தாக்கப்பட்ட குறித்த நபர் கடும் காயங்களுக்குள்ளாகி கோணதுவ பகுதியிலுள்ள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது அவர் உயிரிழந்துள்ளார்.
+A 30 -year -old man from Lasantha Pushpakumara from Bandaragama, Valgama area has died, police said.
+
+The man who died at the sister's house in the Moranduduwa area went with some friends and conflicted with her sister's husband.
+
+He was killed when a man was severely injured and taken to a hospital in Konaduwa area.
 
 ◼️
 
 [Data](articles/40a88534.json)
 
+[Extended Data](ext_articles/40a88534.ext.json)
+
 ---
 
-### වනඅලි මරණ වළක්වන්නයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### Petition to Supreme Court demanding a prevention of wildlife
 
 *2024-05-22 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196892) · `si`
 
-නීතිවිරෝධී ලෙස ඇත් දළ අත්පත් කරගැනීමේ අරමුණින් මෙන්ම අලි මිනිස් ගැටුම හේතුවෙන්  දිවයින පුරා සිදුවන අලි ඇතුන්ගේ මරණ වැළැක්වීම සඳහා නිසි වැඩපිළිවෙලක් සකස් කරන ලෙස වනජීවී අධ්‍යක්ෂ ජනරාල්වරයාට හා පොලිස්පතිවරයාට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර ඇත.
+A petition was filed by legal professionals, including Dr. Omalpe Sobhitha Thero, Anura Medardgoda, and Dr. Ajantha Perera, urging the Supreme Court to intervene and halt elephant deaths caused by human-elephant conflicts. The petition highlights the failure of authorities, including the Director General and Inspector General of Elephant Conflict, to effectively manage this issue, leading to an alarming increase in elephant fatalities across the island.
 
-පූජ්‍ය ආචාර්ය ඕමල්පේ සෝභිත හිමි,  ජනාධිපති නීතීඥ අනුර මැද්දෙගොඩ, ආචාර්ය අජන්තා පෙරේරා ඇතුළු පාර්ශ්ව  හතක් ඊයේ (21) එම පෙත්සම ගොනුකළහ.
+🟩
 
-නීතිඥ මංජුල බාලසූරිය මහතා මාර්ගයෙන් ගොනුකළ එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, වනජීවී අමාත්‍ය පවිත්‍රා වන්නිආරච්චි, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන්, මධ්‍යම පරිසර අධිකාරිය, පොලිස්පතිවරයා වනජීවී අධ්‍යක්ෂ ජනරාල්වරයා ඇතුළු 27 දෙනෙකු නම්කර තිබේ.
+A fundamental rights petition has been filed by the Supreme Court to issue an order to the Director General and the Inspector General of Elephant's conflict to prevent an elephant's death to prepare an elephant death in acquisition of elephants.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ නීතිවිරෝධී ලෙස ඇත් දළ අත්පත් කරගැනීමේ අරමුණින් සහ අලි-මිනිස් ගැටුම හේතුවෙන් දිවයින පුරා වාර්ෂිකව සැලකිය යුතු අලි මරණ සංඛ්‍යාවක් වාර්තා වන බවයි.
+Dr. Omalpe Sobhitha Thero, President's Counsel Anura Medardgoda, Dr. Ajantha Perera filed the petition yesterday (21).
 
-...
+Prime Minister Dinesh Gunawardena, Minister of Wildnas, Pavithra Wannia, Minister of Wildlife, Minister of Wildlife, Minister of Wildlife, Pvt.
+
+The petitioners claim that illegally to acquire an elephant rough, the annual number of elephant deaths island wide due to the elephant conflict.
+
+The petition has been alleged that the default of various persons as well as government officials to perform the duties have been mainly due to this situation.
+
+◼️
 
 [Data](articles/32156ad1.json)
+
+[Extended Data](ext_articles/32156ad1.ext.json)
 
 ---
 
@@ -328,17 +418,23 @@ It has also been reported that the woman has taken steps to provide the necessar
 
 ---
 
-### ரயில் தடம்புரள்வு : பிரதான மார்க்கத்தில் ரயில் போக்குவரத்தில் தாமதம்
+### Train disruption: delay in train traffic on the main route
 
 *2024-05-22 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184185) · `ta`
 
-பொத்துஹெர மற்றும் குருணாகல் ரயில்  நிலையங்களுக்கு இடையில் ரயில் தடம் புரண்டதன் காரணமாக பி பிரதான மார்க்கத்தில் ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளது.
+Train derailment between Pothuhera and Kurunegala caused delays on the main route, affecting services from Kurunegala to Colombo.
 
-குருணாகலிலிருந்து கொழும்பு நோக்கிப் பயணித்த அலுவலக ரயில் ஒன்று இவ்வாறு தடம் புரண்டுள்ளது.
+🟩
+
+Due to the train derailment between the Pothuhera and the Kurunegala railway stations, there has been a delay in the train service on the main route.
+
+A train traveling from Kurunegala to Colombo has been derailed.
 
 ◼️
 
 [Data](articles/7aac49df.json)
+
+[Extended Data](ext_articles/7aac49df.ext.json)
 
 ---
 
@@ -2221,47 +2317,5 @@ However, the Director of Education of the North Western Province said that Zonal
 [Data](articles/746acbf6.json)
 
 [Extended Data](ext_articles/746acbf6.ext.json)
-
----
-
-### Matheesha Pathirana becomes most expensive player in LPL history
-
-*2024-05-21 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99365/matheesha-pathirana-becomes-most-expensive-player-in-lpl-history) · `en`
-
-Young Sri Lankan fast bowler Matheesha Pathirana became the most expensive player ever in a Lanka Premier League (LPL) auction Tuesday when he was grabbed by Colombo Strikers for a record $120,000.
-
-The 21-year-old – who has an unorthodox slinging delivery style – broke the $92,000 mark set by Dilshan Madushanka in last year’s edition of the T20 tournament.
-
-Colombo Strikers bought Pathirana after matching Galle Marvels’ bid with their Right To Match option.
-
-In an interesting turn of events, the Dambulla franchise began the bidding at USD 70,000 after Matheesha Pahitrana entered the bidding at his base price of USD 50,000.
-
-However, Galle Marvels raised the stakes and took it to USD 100,000 straightaway. To avoid retention from Colombo Srikers, Galle even increased their own bid to USD 120,000 but their effort went in vain.
-
-...
-
-[Data](articles/8b72742a.json)
-
-[Extended Data](ext_articles/8b72742a.ext.json)
-
----
-
-### Minister Ali Sabri travels to Iran to attend the funeral of the Iranian president
-
-*2024-05-21 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184171) · `ta`
-
-Foreign Minister Ali Sabri departs for Iran to mourn the passing of its president, drawing attention from both officials and citizens at the embassy.
-
-🟩
-
-Accordingly, Foreign Minister Ali Sabri will leave the country on Tuesday night to attend the Iranian president's funeral.
-
-It is noteworthy that politicians and civilians in this country have expressed their gaze at the Iranian embassy regarding the death of the Iranian president.
-
-◼️
-
-[Data](articles/524cafd0.json)
-
-[Extended Data](ext_articles/524cafd0.ext.json)
 
 ---

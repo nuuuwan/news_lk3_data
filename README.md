@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 17:03:47**
+As of **2024-05-22 17:18:41**
 
 ## Newspaper Stats
 
-*Scraped **25,718** Articles*
+*Scraped **25,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,207
-adaderanalk | 2,961
+adaderanalk | 2,963
 tamilmirrorlk | 3,001
 virakesarilk | 3,900
 dailymirrorlk | 4,041
@@ -26,11 +26,51 @@ adaderanasinhalalk | 4,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,709 (100.0%) of 25,718 articles have been extended.
+25,718 (100.0%) of 25,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Man arrested for impersonating CID Inspector and demanding money
+
+*2024-05-22 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99384/man-arrested-for-impersonating-cid-inspector-and-demanding-money-) · `en`
+
+An individual has been arrested in Kadawatha for allegedly impersonating an Inspector of Police (IP) of the Criminal Investigations Department (CID) and demanding a sum of Rs. 25,000 from a woman.
+
+Police said that the suspect in question had demanded the money from the woman, who is a resident of Kadawatha, after calling her by phone and claiming that he is investigating alleged murder charges levelled against the female.
+
+It is reported that this person has called the woman who is a resident of Kadawatha and has said she is accused of murder where he is investigating the relevant case and demanded Rs.25, 000 from the woman.
+
+The woman had lodged a complaint with police regarding the incident. Accordingly, the suspect was arrested in the Kadawatha area yesterday (21) by Kadawatha Police, based on the information received by officers of the Western Province Intelligence Division.
+
+A forged ID of the Criminal Investigations Department was also found in the suspect’s possession.
+
+...
+
+[Data](articles/2ad2879a.json)
+
+---
+
+### 2024 Grade 5 Scholarship exam date announced
+
+*2024-05-22 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99383/2024-grade-5-scholarship-exam-date-announced) · `en`
+
+The Department of Examination has announced the date for 2024 Grade 5 Scholarship Examination.
+
+According to the statement released by the department, the 2024 Grade 5 Scholarship Examination will be held on September 15, 2014.
+
+Accordingly, applications for the exam will be accepted online from May 27 to June 14, 2024.
+
+The Commissioner General of Examinations, Amith Jayasundara emphasized that the deadline for the submission of applications will not be extended under any circumstances.
+
+He further stated that the instruction manual has provided detailed guidelines on how the applications for special-needs students should be submitted.
+
+◼️
+
+[Data](articles/14e23bc3.json)
+
+---
 
 ### President Ranil conveys condolences at Iranian Embassy on President Raisi’s passing
 
@@ -45,6 +85,8 @@ During his visit, the President engaged in a brief conversation with the Iranian
 ◼️
 
 [Data](articles/173e6252.json)
+
+[Extended Data](ext_articles/173e6252.ext.json)
 
 ---
 
@@ -70,21 +112,31 @@ To download the applications candidates are requested to log on to the Examinati
 
 [Data](articles/d1da4d84.json)
 
+[Extended Data](ext_articles/d1da4d84.ext.json)
+
 ---
 
-### அரசாங்கக் கணக்குகள் பற்றிய குழுவினால் வழங்கப்பட்ட பரிந்துரைகளை நடைமுறைப்படுத்துவதை விசாரணை செய்ய உப குழு கூடியது
+### The sub -committee assembled to investigate the implementation of recommendations issued by the Committee on Government Accounts
 
 *2024-05-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184247) · `ta`
 
-அரசாங்கக் கணக்குகள் பற்றிய குழுவினால் வழங்கப்பட்ட பரிந்துரைகளை நடைமுறைப்படுத்துவதை விசாரணை செய்வதற்கு நியமிக்கப்பட்டுள்ள உப குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க தலைமையில் அண்மையில் கூடியுள்ளது.
+A sub-committee chaired by Tissa Attanayake reviewed the implementation of Government Accounts Committee recommendations. The meeting included Auditor General officials discussing delays in COPA recommendations' execution. It's decided to reassess the issue with COPE's involvement, highlighting the need for action on long-standing Government Accounts matters.
 
-கணக்காய்வாளர் நாயகம் டபிள்யு.பி.சி. விக்ரமரத்ன உள்ளிட்ட கணக்காய்வாளர் திணைக்களத்தின் அதிகாரிகளும் இக்கூட்டத்தில் கலந்துகொண்டதுடன், தற்பொழுது அரசாங்கக் கணக்குகள் பற்றிய (கோபா) குழுவினால் வழங்கப்படும் பரிந்துரைகளை நடைமுறைப்படுத்துவதில் உள்ள தாமதம் மற்றும் செயற்படுத்தாமை தொடர்பில் மீளாய்வு செய்து உரிய நடவடிக்கைகளை எடுப்பதற்கு முறையான பொறிமுறையொன்றைத் தயாரிப்பது தொடர்பான ஆரம்பகட்ட விடயங்கள் கலந்துரையாடப்பட்டுள்ளன.
+🟩
 
-இதற்கமைய, இந்த பொறிமுறையானது அரசாங்கப் பொறுப்பு முயற்சிகள் பற்றிய (கோப்) குழுவினாலும்  பயன்படுத்தப்படலாம் என்பதால், அந்தக் குழுவின் தலைவரினது பங்கேற்புடன் மீண்டும் கூடி இந்த விடயம் தொடர்பில் பரிசீலனை செய்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The sub -committee appointed to investigate the implementation of the recommendations issued by the Government Accounts Committee has recently been met under the leadership of its chairman Tissa Attanayake.
 
-...
+Auditor General WBC. Officials of the Auditor's Department, including Wickramaratne, also participated in the meeting, and the preliminary issues were discussed on the delay in implementing the recommendations of the Government Accounts (Copa) Committee (Gopa).
+
+Accordingly, this mechanism can be used by the Government Responsibility Committee (COPE), so it is decided to re -examine the issue with the participation of the committee's chairman.
+
+The sub -committee was appointed by the Committee of Government Accounts, led by Minister of State Lasantha Alagavanna, to address the recommendations of the Government Accounts and Government Accounts Affairs for many years.
+
+◼️
 
 [Data](articles/8911d396.json)
+
+[Extended Data](ext_articles/8911d396.ext.json)
 
 ---
 
@@ -130,25 +182,37 @@ Inaugural ambassadors include Usman Khawaja, Alana King, Scott Boland, Mel Jones
 
 [Data](articles/d4dfc949.json)
 
+[Extended Data](ext_articles/d4dfc949.ext.json)
+
 ---
 
-### ஒரே சூழில் பிறந்த 4 குழந்தைகளும் சுகதேக ஆரோக்கியத்துடன் உள்ளன - மட்டு. போதனா வைத்தியசாலையின் பணிப்பாளர்
+### The 4 babies born in the same environment are healthy. The Director of the Teaching Hospital
 
 *2024-05-22 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184233) · `ta`
 
-மட்டக்களப்பு போதனா வைத்தியசாலையின் மருத்துவ வரலாற்றில் ஒரே சூழில் பிறந்த நான்கு குழந்தைகளும் மிகவும் ஆரோக்கியத்துடன் உள்ளதாக  வைத்தியசாலையின் பணிப்பாளர்  கலாரஞ்சினி கணேசலிங்கம் தெரிவித்துள்ளார்.
+Four healthy babies were born in the same environment at Batticaloa Teaching Hospital, marking a rare occurrence in medical history. Obstetrician Dr. Saravanan highlighted the significance of this event, which involved artificial fertilization. Director Dr. Kalaranjini praised the health of the newborns, while the mother expressed gratitude for their support during her stay at the hospital.
 
-மட்டக்களப்பு புதுக்குடியிருப்பு பகுதியைச் சேர்ந்த கரிகரன் கிருஸ்ணவேணி என்ற தாயே இந்த குழந்தைகளை கடந்த ஏப்பிரல் மாதம் 5 ஆம் திகதி பிரசவித்துள்ளார்.
+🟩
 
-மருத்துவதுறையின் வரலாற்றில் இயற்கை முறையில் இவ்வாறு கருத்தரிப்பதானது அரிதான விடயமாகவே காணப்படுவதாக மட்டக்களப்பு போதனா வைத்தியசாலையின் மகப்பேற்று வைத்திய நிபுணர் வைத்தியர் சரவணன் தெரிவித்தார்.
+Kalaranjini Ganesalingam, Director of the Hospital, said that all four children born in the same environment in the medical history of the Batticaloa Teaching Hospital are very healthy.
 
-இது தொடர்பில் ஊடகவியலாளர்களை தெளிவுபடுத்தும் வகையான ஊடகவியலாளர் சந்திப்பு இன்று புதன்கிழமை (22)  காலை மட்டக்களப்பு போதனா வைத்தியசாலையில் நடைபெற்றது.
+Karikaran Krishnaveni, a mother of Pudukkudiyiruppu, Batticaloa, delivered these children on April 5.
 
-மட்டக்களப்பு போதனா வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் கலாரஞ்சினி, மட்டக்களப்பு போதனா வைத்தியசாலையின் மகப்பேற்று வைத்திய நிபுணர் சரவணன், குழந்தை நல வைத்திய நிபுணர் மதன் ஆகியோர் இங்கு கருத்து தெரிவித்தனர்.
+Dr. Saravanan, the obstetrician of the Batticaloa Teaching Hospital, said that this is a rare issue in the history of the medical field.
+
+A press conference to clarify the journalists was held at the Batticaloa Teaching Hospital on Wednesday morning.
+
+Director of the Batticaloa Teaching Hospital, Dr. Kalaranjini, Batticaloa Teaching Hospital's obstetrician Saravanan and Child Welfare Specialist Madan commented.
+
+Doctors and nurses, including Maithili, Deputy Director of the Batticaloa Teaching Hospital, attended the event.
+
+Thus, the birth of four children in the same environment takes place in 5 lakhs 70 thousand mothers, and that it is possible by artificial fertilization.
 
 ...
 
 [Data](articles/9a9b5cbb.json)
+
+[Extended Data](ext_articles/9a9b5cbb.ext.json)
 
 ---
 
@@ -203,6 +267,8 @@ He was remanded until May 27 by the Colombo Magistrate's Court..
 ◼️
 
 [Data](articles/76823a96.json)
+
+[Extended Data](ext_articles/76823a96.ext.json)
 
 ---
 
@@ -879,6 +945,8 @@ A sil programme was held at Lindsay Girls’ School, Colombo 03 to mark the occa
 ◼️
 
 [Data](articles/be65ba31.json)
+
+[Extended Data](ext_articles/be65ba31.ext.json)
 
 ---
 
@@ -2044,6 +2112,8 @@ Using a Native American fable about a wolf, the film critiques capitalism’s de
 
 [Data](articles/0bfefeda.json)
 
+[Extended Data](ext_articles/0bfefeda.ext.json)
+
 ---
 
 ### Schoolgirl killed in submerged bus
@@ -2253,35 +2323,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.34 perc
 [Data](articles/8578dd7e.json)
 
 [Extended Data](ext_articles/8578dd7e.ext.json)
-
----
-
-### New regulations to be introduced for cultivating uncultivated land
-
-*2024-05-22 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99372/new-regulations-to-be-introduced-for-cultivating-uncultivated-land) · `en`
-
-State Minister for Social Empowerment Anupa Pasqual, emphasized that new laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment.
-
-The state minister also announced that the government has decided to incorporate a skill or professional stream into the G.C.E. Ordinary Level Examination to promote social empowerment.
-
-The state minister made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC).
-
-...
-
-[Data](articles/17ad06b3.json)
-
-[Extended Data](ext_articles/17ad06b3.ext.json)
-
----
-
-### G.C. Rodrigo: Friend, Colleague & Comrade: ‘When Alone Think Clearly; When With Others Speak Carefully’
-
-*2024-05-22 09:49:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/g-c-rodrigo-friend-colleague-when-with-others-speak-carefully/) · `en`
-
-The phrase “When alone think clearly and when with others speak carefully” is attributed to Gautama Sidhartha. Though that may be apocryphal it certainly does depict his grace. Secondly, you will find that I sometimes refer to GCR as Gerard and sometimes as Chris depending on whether St Thomas College or our later political comradeship is uppermost in the context.
-
-...
-
-[Data](articles/2540f8e1.json)
 
 ---

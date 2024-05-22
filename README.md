@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 22:06:33**
+As of **2024-05-22 22:18:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,764 (100.0%) of 25,766 articles have been extended.
+25,766 (100.0%) of 25,766 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The President emphasized the government’s commitment to the welfare of retired
 ...
 
 [Data](articles/ebec6890.json)
+
+[Extended Data](ext_articles/ebec6890.ext.json)
 
 ---
 
@@ -1084,17 +1086,25 @@ He understood the shortcomings of all the leaders who so far.  They are accepti
 
 ---
 
-### අපුර දක්ෂිණ බහු විධ ප්‍රවාහන මධ්‍යස්ථානයේ ඉදි කිරීම් වසර තුල අවසන් කරන්න උපදෙස්
+### Tips to end the construction of the most industrial transport center construction
 
 *2024-05-22 16:04:26* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-දක්ෂිණ-බහු-විධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදි-කිරීම්-වසර-තුල-අවසන්-කරන්න-උපදෙස්/11-409793) · `si`
 
-අනුරාධපුර වන්දනාවේ පැමිණෙන බැතිමතුන්ගේ පහසුව සදහා අනුරාධපුර පුජාභූමිය හා ඒ අවට විශේෂ සංවර්ධන ව්‍යාපෘති රැසක් ක්‍රියාත්මකයි. මෙම සංවර්ධන කටයුතු සිදුකරන්නේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය හා නාගරික සංවර්ධන අධිකාරිය ඒකාබද්ධවයි.
+In Anuradhapura, a combined urban development project funded by the French Agency and the Sri Lankan government aims to enhance both historical and modern areas, focusing on sustainability and reducing traffic. It includes renovations like installing modern facilities, improving archaeological sites, and developing green spaces. The project also involves constructing a southern multi-exchange transport center to streamline bus and train services, aiming for completion within the year.
 
-උපාය මාර්ගික නගර සංවර්ධන ව්‍යාපෘතිය යටතේ අනුරාධපුර ඒකාබද්ධ නගර සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණේ ශ්‍රී ලංකා රජය සහ සංවර්ධනය පිළිබද ප්‍රංශ නියෝජිත ආයතනය අතර හවුල්කාරිත්වයෙනි. අනුරාධපුරයේ ස්වභාවික උරුමයන් රැකගනිමින් අනුරාධපුර නගරයේ පූජනීය හා නවීන කොටස් අතර නවීන කොටස් අතර සංවර්ධනය වෙනුවෙන් තුලිත ක්‍රමවේදයක් ප්‍රචලිත කිරීම ව්‍යාපෘතියේ අරමුණයි. මේ සදහා වෙන් කෙරුණු මුදල යූරෝ මිලියන 62.4කි. මෙම ව්‍යාපෘතිය යටතේ උප ව්‍යාපෘතීන් 11ක් ක්‍රියාත්මක කෙරිණි.
+🟩
+
+A number of special development projects in Anuradhapura to the convenience of pilgrims in Anuradhapura. The development is done by the Urban Development and the Ministry of Housing and Urban Development Authority.
+
+The Combined Urban Development Project was launched by the French Agency of Sri Lanka and the Development of Sri Lanka and Development. The project aims to promote a systematic for development between the sacred and modern parts of Anuradhapura town with natural heritage of Anuradhapura.. The amount allocated for this purpose is 62.4 million euros. There were 11 sub-projects under this project.
+
+Sri Maha Bodhiha, Anuradhapura Sacred town, Park and Southern Car Park and Southern Car Park. The cargo consists of modern facilities including sustainable dramatic water supply systems, efficient micro-supply pathways, and ticket counters.
 
 ...
 
 [Data](articles/ad796c30.json)
+
+[Extended Data](ext_articles/ad796c30.ext.json)
 
 ---
 

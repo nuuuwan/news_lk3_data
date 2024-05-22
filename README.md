@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 10:18:27**
+As of **2024-05-22 10:34:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,610 (100.0%) of 25,613 articles have been extended.
+25,613 (100.0%) of 25,613 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The state minister made these remarks during a press briefing titled “Collecti
 ...
 
 [Data](articles/17ad06b3.json)
+
+[Extended Data](ext_articles/17ad06b3.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ He said this in response to questions from reporters about allegations that the 
 ...
 
 [Data](articles/a2d79542.json)
+
+[Extended Data](ext_articles/a2d79542.ext.json)
 
 ---
 
@@ -162,19 +166,31 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### කෝටි 20ක කොකේන් සමග පිලිපින සහකාර ගණකාධිවරියක් අල්ලයි
+### An Assistant Assistant Company with cocaine
 
 *2024-05-22 08:32:19* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-කොකේන්-සමග-පිලිපින-සහකාර-ගණකාධිවරියක්-අල්ලයි/11-409777) · `si`
 
-රුපියල් කෝටි 20 හෙවත් රුපියල් මිලියන 200 ක් වටිනා කොකේන් මත්ද්‍රව්‍ය තොගයක් රැගත් විදේශීය කාන්තාවක් රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 05/21 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .ඇය පිලිපීනයේ පදිංචි 47 හැවිරිදි සහකාර ගණකාධිකාරීවරියකි .
+A foreign woman from Ethiopia, Adis Ababa, smuggled cocaine to Doha, Qatar, and planned to deliver it to Sri Lanka via flight. She carried three parcels: one with cocaine and two with food items. The Customs Drug Advanced Investigations unit intercepted her, revealing she had previously trafficked drugs between Malaysia and India. Her arrest led to international cooperation between customs and police narcotics divisions for further investigation.
 
-ඇය ඉතියෝපියාවේ අඩිස් අබාබා නුවර සිට මෙම කොකේන් මත්ද්‍රව්‍ය තොගය රැගෙන ගමන් ආරම්භ කර , කටාර් රාජ්‍යයේ දෝහා වෙත පැමිණ තිබුණි. ඉන්පසුව ඇය එතැන් සිට   05/21 දින පස්වරු 04.30 කටාර් ගුවන් සේවයේ කිව්.ආර්.- 654 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-ඇය සිය ගමන් මල්ල තුළ  මිරිස් කුඩු , කහ කුඩු සහ පාන් පිටි අඩංගු පාර්සල් 03 ක් සමග කිලෝ ග්‍රෑම් 02 යි ග්‍රෑම් 861 ක් බරැති මෙම  කොකේන් මත්ද්‍රව්‍ය අඩංගු පාර්සල් 03 ක් ද සගවා ගෙන  රැගෙන විත් තිබුණි .
+A foreign woman who has taken a large number of cocaine worth Rs.
+
+She had come from Ethiopia Adies Abba and started with the drug from the drug and came to the Doha of Qatar. She was then said at 05/21 at 04.30 pm Qatar, 04.30 pm.
+
+She also had two parcels with three kilograms with three parcels with three parcel containing chilli powder, yellow powdered and bread flour.
+
+She had been dealing with this flight and to hand over the drug to Sri Lanka, in addition to the flight tickets and five days in Sri Lanka tourist hotels for 5 daysThe Customs Drug Advanced Investigations were revealed that the drug owners of the Customs have promised to provide facilities.
+
+The woman has also revealed that the woman had previously taken the drug between Malaysia and India in this manner.
+
+The arrest had made the officers of the Customs Drug Administration internationally.
 
 ...
 
 [Data](articles/2b184433.json)
+
+[Extended Data](ext_articles/2b184433.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 06:18:19**
+As of **2024-05-22 06:58:20**
 
 ## Newspaper Stats
 
-*Scraped **25,584** Articles*
+*Scraped **25,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,472
 dailyftlk | 1,520
 adalk | 2,193
 adaderanalk | 2,947
-tamilmirrorlk | 2,982
+tamilmirrorlk | 2,983
 virakesarilk | 3,876
 dailymirrorlk | 4,014
 adaderanasinhalalk | 4,086
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,567 (99.9%) of 25,584 articles have been extended.
+25,570 (99.9%) of 25,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Whatever else they possessed, they were told, had been earned in Tamil Eelam and
 
 [Data](articles/47c548df.json)
 
+[Extended Data](ext_articles/47c548df.ext.json)
+
 ---
 
 ### Post-election AKD or no election RW?
@@ -61,6 +63,8 @@ May Day rallies and massive turnouts for the ones organised by NPP seem to have 
 ...
 
 [Data](articles/0fcca8bc.json)
+
+[Extended Data](ext_articles/0fcca8bc.ext.json)
 
 ---
 
@@ -75,6 +79,8 @@ I had stated, “we can be happy that environmental impact assessment is conside
 ...
 
 [Data](articles/bb346a33.json)
+
+[Extended Data](ext_articles/bb346a33.ext.json)
 
 ---
 
@@ -325,6 +331,22 @@ At a press conference following a landmark judgement where the Supreme Court rul
 [Data](articles/115240e6.json)
 
 [Extended Data](ext_articles/115240e6.ext.json)
+
+---
+
+### மின்சாரம் தாக்கி வர்த்தகர் பலி
+
+*2024-05-22 01:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-வர்த்தகர்-பலி/175-337669) · `ta`
+
+புத்தளம், முந்தல் பிரதேசத்தில் மின்சாரம் தாக்கி வர்த்தகர் ஒருவர் உயிரிழந்துள்ளார் என்று முந்தல் பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவர் புத்தளம், முந்தல் பிரதேசத்தில் உள்ள தனது கால்நடைப் பண்ணையில் மின் இணைப்புக்களைப் பழுது பார்த்துக் கொண்டிருக்கும்போதே மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+
+மின்சார இணைப்பில் ஏற்பட்ட மின் கசிவு காரணமாக இந்த மரணம் இடம்பெற்றிருக்கலாம் என்று பொலிஸார் மேலும் குறிப்பிட்டனர். (a)
+
+◼️
+
+[Data](articles/e3e95151.json)
 
 ---
 
@@ -2169,27 +2191,5 @@ The Pooneryn has been transferred to the Kilinochchi hospital and the Pooneryn p
 [Data](articles/9d81179a.json)
 
 [Extended Data](ext_articles/9d81179a.ext.json)
-
----
-
-### Cabinet approval for the new Cabinet Paper for issuing housing bonds to 50,000 families
-
-*2024-05-21 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184153) · `ta`
-
-The Cabinet approved a plan to issue housing bonds to 50,000 low-income families, allowing ownership transfer upon death. This decision followed a proposal by Minister Prasanna Ranatunga, aligning with the government's urban development goals. The scheme includes tax exemptions on issuance costs like notary fees and stamps. President Ranil Wickremesinghe's 2024 budget proposal aims to support these homeowners financially. However, concerns were raised about potential harm to residents, especially those who have fully paid their rents. To address this, it was suggested to prioritize those who paid their rent by December 31st and issue certificates accordingly. Maintenance of these properties will be managed by a Joint Management Corporation post-transfer.
-
-🟩
-
-Under the scheme of issuing a confirmation of 50,000 low -income families, the Cabinet has approved the right to issue a right to his successors in the house if the original beneficiary has died while changing the entire ownership of the houses.
-
-The Cabinet has reached the resolution in accordance with the Cabinet paper submitted by Prasanna Ranatunga, Minister of Urban Development and Housing.
-
-The Cabinet has also approved the exemption from other taxes that occur when homeowners are issued notary fees, stamps and rights.. Accordingly, the notary fee, stamps and other lines should be accepted by the Treasury.
-
-...
-
-[Data](articles/b361fcc0.json)
-
-[Extended Data](ext_articles/b361fcc0.ext.json)
 
 ---

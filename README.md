@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 02:52:41**
+As of **2024-05-23 03:03:33**
 
 ## Newspaper Stats
 
-*Scraped **25,800** Articles*
+*Scraped **25,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,488
 dailyftlk | 1,527
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,006
+tamilmirrorlk | 3,007
 virakesarilk | 3,923
 dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,800 (100.0%) of 25,800 articles have been extended.
+25,800 (100.0%) of 25,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,22 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 [Data](articles/b633cc14.json)
 
 [Extended Data](ext_articles/b633cc14.ext.json)
+
+---
+
+### ’தமிழர்களுக்கு நீதி கிடைக்காது’
+
+*2024-05-23 01:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-நீதி-கிடைக்காது/175-337738) · `ta`
+
+பொலிஸாரின் அராஜகமும் அடக்க முடியாத அதிகாரப்பசியும் தமிழ் மக்களின் வாழ்வியலை பறித்தெடுக்கின்றது. இந்த நாட்டில் நீதி மரணித்து விட்டது. சட்டம் சாகடிக்கப்பட்டு விட்டது .இலங்கையின் சட்டத்தினால் தமிழர்களுக்கு ஒருபோதுமே நீதி கிடைக்காது என  இலங்கை தமிழரசுக்கட்சியின் யாழ்.மாவட்ட எம்.பி.யான எஸ்.சிறிதரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22) எதிர்க்கட்சியினால் கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே இவ்வாறுத்தெரிவித்தார்.
+
+இந்த அரசாங்கம் சட்டங்களை சரியான முறையில் நடைமுறைப்படுத்துகிறதா? சட்டங்களின் வரையறைகளை  பின்பற்றுகின்றதா?  நீதித்துறை சட்டங்களின்  ஊடாக கொண்டுவரப்பட்ட பல்வேறு விடயங்கள் அந்த நீதித்துறை  ஊடாகவே நடைமுறைப்பபடுத்தப்படாமல் போகின்றது .கடந்த மே 17,18 ஆம் திகதிகளில் இலங்கையின் பல பாகங்களில் நடைபெற்ற விடயங்கள் தொடர்பில் இந்த நாடு ஒரு சட்டத்திற்குள்தான் இருக்கின்றதா? என்பதையும் இங்கு கேட்க விரும்புகின்றேன்.
+
+...
+
+[Data](articles/d931108b.json)
 
 ---
 
@@ -2255,27 +2271,5 @@ He is reportedly arrested by the Investigation Unit of preventing crimes related
 [Data](articles/f0c5e481.json)
 
 [Extended Data](ext_articles/f0c5e481.ext.json)
-
----
-
-### Smoke in the mouth of the little girl, the hole in the stomach
-
-*2024-05-22 15:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிக்கு-வாயில்-புகை-வயிற்றில்-ஓட்டை/175-337702) · `ta`
-
-A wedding in Bangalore featured "Smoke Pan," a food item made with liquid nitrogen, causing a young girl to ingest it and suffer severe internal injuries, including a hole in her stomach. Despite initial concerns, she underwent surgery and survived.
-
-🟩
-
-Various things are organized by the bride and bride to attract guests in the wedding house. The meal in it is very primed. Snacks things beyond this also attract attention. The recent wedding in Bangalore has a food item called Smoke Pan. How to catalyst with almost smoke biscuits?This is the case.
-
-When the mouth begins to slow down, the smoke begins. It would be a different experience when it was outdoors. But doctors continue to warn that there will be casualties behind this.
-
-Recently in Chennai, a video of a smoke biscuits and the pain of the boy went viral and stirred up. The body organs of a person who had been drinking cocktail mixed with liquid nitrogen in Gurugram a few years ago. The skin became different.
-
-...
-
-[Data](articles/9aa5684d.json)
-
-[Extended Data](ext_articles/9aa5684d.ext.json)
 
 ---

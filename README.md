@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 17:54:35**
+As of **2024-05-22 18:12:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,724 (100.0%) of 25,725 articles have been extended.
+25,725 (100.0%) of 25,725 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,25 @@ The accident occurred at the Wanarajah Watta area on the Hatton-Bawnalawa main r
 
 ---
 
-### අවුරා ලංකා සභාපති රිමාන්ඩ්
+### New Sri Lanka Chairman remanded
 
 *2024-05-22 17:03:16* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපති-රිමාන්ඩ්/11-409797) · `si`
 
-මූල්‍ය වංචාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අවුරා ලංකා සභාපති විරංජිත් තාඹුගල ලබන 27 දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි කොළඹ කොටුව අතිරේක මහේස්ත්‍රාත් පවිත්‍රා පතිරාජ මහත්මිය නියෝග කළාය.
+Sri Lanka's new chairman arrested by CID; remanded due to ongoing investigations.
 
-රුපියල් රුපියල් මිලියන 70ක මූල්‍ය වංචාවක් සම්න්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් සැකකරු අධිකරණයට ඉදිරිපත් කළේය.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපත් කළ කරුණු සැලකිල්ලට ගත් මහේස්ත්‍රාත්වරයා සැකකරු රිමාන්ඩ් බාරයට පත් කළාය.
+Colombo Fort
+
+The suspect was arrested by the Criminal Investigation Department by the Criminal Investigation Department (CID) by the Criminal Investigation Department.
+
+Considering the issues submitted by the Criminal Investigations Department further remanded suspect.
 
 ◼️
 
 [Data](articles/86d08db5.json)
+
+[Extended Data](ext_articles/86d08db5.ext.json)
 
 ---
 

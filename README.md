@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 13:53:45**
+As of **2024-05-22 14:04:57**
 
 ## Newspaper Stats
 
-*Scraped **25,673** Articles*
+*Scraped **25,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,141 +16,241 @@ islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,202
-adaderanalk | 2,956
+adaderanalk | 2,957
 tamilmirrorlk | 2,997
 virakesarilk | 3,892
-dailymirrorlk | 4,031
-adaderanasinhalalk | 4,100
+dailymirrorlk | 4,034
+adaderanasinhalalk | 4,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,664 (100.0%) of 25,673 articles have been extended.
+25,673 (100.0%) of 25,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### නොර්වේ පලස්තීනය රාජ්‍යයක් ලෙස පිළිගනී
+### Presidential poll to be held first, funds already allocated - President tells Cabinet
+
+*2024-05-22 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99378/presidential-poll-to-be-held-first-funds-already-allocated-president-tells-cabinet) · `en`
+
+President Ranil Wickremesinghe has informed the Cabinet of Ministers that the Presidential Election will be held first during the relevant period this year and that funds have already been allocated for the election.
+
+The President has stated this during the Cabinet meeting held today.
+
+◼️
+
+[Data](articles/bf55358f.json)
+
+---
+
+### ව්‍යාජ CID SIව කොටුකරගත් මෙහෙයුම
+
+*2024-05-22 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196901) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සේවය කරන පොලිස් පරීක්ෂකවරයෙක්  ව්‍යාජ ලෙස පෙනී සිටිමින් කාන්තාවකගෙන් රුපියල් 25,000ක මුදලක් ඉල්ලූ පුද්ගලයෙක්ව කඩවතදී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ මෙම පුද්ගලයා කඩවත පදිංචි කාන්තාවක් අමතා එම කාන්තාවට මිනී මැරීමේ චෝදනා ඇති බවත් එම චෝදනා සම්බන්ධයෙන් විමර්ශනය කරන්නේ තමන් බවත් පවසා එම කාන්තාවගෙන් රුපියල් 25,000ක් ඉල්ලා ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව බස්නාහිර පළාත් බුද්ධි කොට්ඨාසයේ නිලධාරීන් ට ලැබුණු තොරතුරක් මත කඩවත පොලීසියේ නිලධාරීන් විසින් එම සැකකරුව ඊයේ (21) කඩවත දී අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු සතුව ව්‍යාජ ලෙස සකස්කළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හැඳුනුම්පතක් ද තිබී හමුවී තිබුණි.
+
+◼️
+
+[Data](articles/6365c5a7.json)
+
+---
+
+### Norway, Ireland, Spain to recognise Palestinian state
+
+*2024-05-22 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Norway-Ireland-Spain-to-recognise-Palestinian-state/108-283157) · `en`
+
+May 22 ( Al Jazeera) - The leaders of Norway, Ireland and Spain have said their countries will formally recognise Palestine as a state for the sake of “peace in the Middle East“.
+
+Norway’s Prime Minister Jonas Gahr Store said on Wednesday that a two-state solution was in Israel’s best interest, adding that the recognition would come as of May 28.
+
+“There cannot be peace in the Middle East if there is no recognition,” he said.
+
+Shortly after Norway’s announcement, Ireland’s Prime Minister Simon Harris said his country would also recognise a Palestinian state.
+
+“Today, Ireland, Norway, and Spain are announcing that we recognise the state of Palestine,” Harris said at a news conference. “Each of us will now undertake whatever national steps are necessary to give effect to that decision.”
+
+“I’m confident that further countries will join us in taking this important step in the coming weeks,” he added.
+
+...
+
+[Data](articles/4837b293.json)
+
+---
+
+### Norway recognized the Palestine as a State
 
 *2024-05-22 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196900) · `si`
 
-එසේම ස්පාඤ්ඤය සහ අයර්ලන්තය ද පලස්තීනය ස්වාධීන රාජ්‍යයක් ලෙස පිළිගැනීමට නියමිත බව වාර්තා වෙයි.
+Norway recognizes Palestine as a state, joining 140+ UN nations. Spain and Ireland may soon follow suit. The US and UK haven't decided. Since 2012, Palestine holds "observer state" status. Israel recalls its ambassadors from Norway and Ireland over this move. The Norwegian PM suggests a "state-tendency" as the ideal solution for the Palestinian issue.
 
-මේ වනවිට එක්සත් ජාතීන්ගේ රටවල් 140ක් පමණ පලස්තීනයේ රාජ්‍යත්වය පිළිගෙන ඇති අතර අමෙරිකාව සහ එක්සත් රාජධානිය වැනි රටවල් කිහිපයක් මෙතෙක් එවැනි තීරණයක් ගෙන නොමැත.
+🟩
 
-2012 සිට පලස්තීනයට එක්සත් ජාතීන්ගේ මහමණ්ඩලයේ "නිරීක්ෂක රාජ්‍ය" තත්ත්වය ලබාදී තිබේ.
+It is also reported that Spain and Ireland are to be recognized as an independent state.
 
-මේ අතර මෙම තත්ත්වයට ප්‍රතිචාර වශයෙන් නොර්වේ සහ අයර්ලන්තයේ සිටින තානාපතිවරු නැවත කැඳවීමට ඊශ්‍රායල බලධාරීන් කටයුතු කර තිබේ.
+At present, about 140 UN countries have accepted the statehood of Palestine and several countries such as the US and the United Kingdom have not made such a decision.
 
-පලස්තීන ප්‍රශ්නය සම්බන්ධයෙන් අදහස් දක්වමින් නොර්වේ අගමැතිවරයා පවසා ඇත්තේ පලස්තීන ගැටලුවට ඇති හොඳම විසඳුම "රාජ්‍ය -දෙකක්" යන සංකල්පය බවයි.
+Since 2012, Palestine has given the Palestine's "observer state" status.
+
+Meanwhile, Israeli authorities have taken steps to recall the ambassadors in Norway and Ireland in response to this situation.
+
+Commenting on the Palestinian issue, the Norwegian Prime Minister has said that the best solution to Palestinian issue is the concept of a "state-tendency."
 
 ◼️
 
 [Data](articles/539520a9.json)
 
+[Extended Data](ext_articles/539520a9.ext.json)
+
 ---
 
-### கண்டியில் டெங்கு பரவும் அபாயம் - 18 மாதங்களில் 1621 பேர் அடையாளம்
+### Dengue Risk in Kandy - 1621 identified in 18 months
 
 *2024-05-22 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184195) · `ta`
 
-மத்திய மலைநாட்டில் பெய்து வரும் கடும் மழை காரணமாக கண்டி  மாவட்டத்தில் டெங்கு நோய் பரவும் அபாயம் ஏற்பட்டுள்ளதாக சுகாதார பிரிவு தெரிவித்துள்ளது.
+Heavy rains in Sri Lanka's Kandy district have led to a significant increase in dengue cases, with 1621 reported in just over four months. This marks a 25% rise from the same period last year, highlighting the urgent need for environmental cleaning to curb the spread.
 
-கடந்த 18 வாரங்களில் (நான்கரை மாதம்) கண்டி மாவட்டத்தில் 1621 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-2023 ம் ஆண்டு இக் காலப் பகுதியில் கண்டி மாவட்டத்தில் அடையாளம் காணப்பட்டுள்ள டெங்கு நோயாளர்களின் எண்ணிக்கை 1440 ஆகும். அதன்படி இவ்வருடம் 181 நோயாளர்கள் அதிகரித்துள்ளதாகவும் அப் பிரிவு தெரிவிக்கின்றது.
+Heavy rains in the central hill country have caused a risk of dengue in the Kandy district, the Health Department said.
 
-இந்நிலையில் தற்போது நிலவுகின்ற அதிக மழை காரணமாக ஆங்காங்கே நீர் தேங்கி இருப்பதால் டெங்கு நோய் பரவும் அபாயம் அதிகரித்துள்ளதாகவும்  சுற்றாடலை சுத்தம் செய்து வைத்துக்கொள்ளுமாறும் சுகாதார பிரிவினர் தெரிவித்துள்ளனர்.
+In the last 18 weeks (four and a half months), 1621 dengue patients have been identified in the Kandy district.
 
-எதிர்வரும் காலங்களில் சுகாதார அதிகாரிகள் வீட்டு சூழல்களை பரிசோதிப்பதற்காக வீடு வீடாக வர உள்ளதாகவும் நுளம்புகள் பரவும் விதத்தில் சூழலை வைத்திருப்போருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என்று அதிகாரிகள் தெரிவித்துள்ளனர்.
+The number of dengue patients identified in the Kandy district during this period of 2023 was 1440. Accordingly, the up -the -up unit has increased 181 patients this year.
+
+Due to the prevailing heavy rainfall, the health department said that the risk of dengue spread has increased and the environment will be cleaned.
+
+Officials said that legal action would be taken against those who hold the environment in the future to come home to check the household environment in the future.
 
 ◼️
 
 [Data](articles/41f78fb4.json)
 
+[Extended Data](ext_articles/41f78fb4.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதியின் மறைவுக்கு ஈரான் தூதரகத்திற்குச் சென்று ஜனாதிபதி இரங்கல்
+### President condoles Iran's embassy over the demise of Iran
 
 *2024-05-22 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184216) · `ta`
 
-கொழும்பில் உள்ள ஈரான் தூதரகத்திற்கு இன்று புதன்கிழமை (22) காலை  சென்ற ஜனாதிபதி ரணில் விக்ரமசிங்க, ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் திடீர் மரணத்திற்கு தனது இரங்கலைத் தெரிவித்தார்.
+Ranil Wickremesinghe consoled Iran's embassy on the passing of President Ibrahim Raisi, praising the work of Iranian Ambassador Ali Reza during his visit.
 
-தூதரகத்திற்கு சென்ற ஜனாதிபதியை, இலங்கைக்கான ஈரான் தூதுவர் கலாநிதி அலி ரீஸா  டெல்கோஷ் உள்ளிட்ட பணிக்குழாம் வரவேற்றது.
+🟩
 
-ஈரான் ஜனாதிபதியின் மறைவு குறித்து ஈரான் தூதுவர் உள்ளிட்டோருடன் கலந்துரையாடிய ஜனாதிபதி, அங்கு வைக்கப்பட்டிருந்த குறிப்பேட்டில் இரங்கல் குறிப்பை பதிவிட்ட பின்னர், ஜனாதிபதி இப்ராஹிம் ரைசியின் திடீர் மரணத்திற்கு ஈரான் அரசாங்கத்திற்கும்  அந்நாட்டு மக்களுக்கும் தனதும், இலங்கை அரசாங்கத்தினதும்  ஆழ்ந்த அனுதாபங்களைத் தெரிவித்தார்.
+President Ranil Wickremesinghe, who visited the Iranian embassy in Colombo on Wednesday morning, expressed his condolences to the sudden death of Iranian President Ibrahim Raisi.
+
+The President, who visited the embassy, welcomed the work of the Iranian Ambassador to Sri Lanka, Dr. Ali Reza, including Delgosh.
+
+The President, including the Iranian Ambassador to the Iranian Ambassador, expressed his deepest sympathies to the Ibrahim Raisi's sudden death of President Ibrahim Raisi after he posted a condolence note in the notebook.
 
 ◼️
 
 [Data](articles/14dd1424.json)
 
+[Extended Data](ext_articles/14dd1424.ext.json)
+
 ---
 
-### ඇමෙරිකා‌වේදී සම්මාන ලැබූ ලංකාවේ සිසුන් තිදෙනා
+### Three Sri Lankan students who received awards in America
 
 *2024-05-22 13:01:47* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකා‌වේදී-සම්මාන-ලැබූ-ලංකාවේ-සිසුන්-තිදෙනා/11-409784) · `si`
 
-ඇමෙරිකා එක්සත් ජනපදයේ ලොස් ඇංජලීස් නුවර පැවති 2024 ජාත්‍යන්තර විද්‍යා සහ ඉංජිනේරු ප්‍රදර්ශනය සහ තරගාවලියේ දී ශ්‍රී ලංකාව නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලාංකික සිසුන් තිදෙනා ඉදිරිපත් කළ නව නිර්මාණ සදහා සම්මාන හිමි කර ගෙන  කටුනායක ගුවන් තොටුපොළ වෙත අද (22දා) පැමිණියහ .
+Three Sri Lankan students won awards at the 2024 International Sciences and Engineering Exhibition and the Kandy Tournament in the US, showcasing their talents alongside 1,700 participants from 67 countries. The Nadasana College team received the 'ComIUNITY INVATER' for diabetes awareness, while Koubarpitiya College focused on sustainable water usage. Harsha, from Narammala Central College, developed innovative mattresses for long-term care.
 
-මෙම තරගාවලිය සහ ප්‍රදර්ශනය  ඉකුත් 11 සිට 17 දක්වා ලෝකයේ රටවල් 67 ක ශිෂ්‍ය ශිෂ්‍යයාවන් 1,700 කට අධික පිරිසකගේ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+🟩
 
-මෙහිදී කොළඹ තර්ස්ටන් විද්‍යාලයේ නදීශ ප්‍රතිභාන විසින් ඉදිරිපත් කළ රණවරා මල් වලින් දියවැඩියාව සුව කිරීමේ හැකියාව සොයා බැලීමේ පර්යේෂණ නිබන්ධනය සදහා " Comiunity Inovater "  සම්මානය හිමි වී තිබුණි .
+The three Sri Lankan students who participated in the 2024 International Sciences and Engineering Exhibition and the three Sri Lankan students who participated in Sri Lanka representing Sri Lanka at the Kandy Tournament in the United States came to the Katunayake airport.
 
-එසේම කුළියාපිටිය සාරානාත් විද්‍යාලයේ චිරාත් සේනානායක නිර්මාණය කර ඉදිරිපත් කළ කරාමයකින් වතුර නිකරුණේ පිටතට ගලා යාම සහ ජල කරාමයක් අලුත්වැඩියා කිරීමේ දී ප්‍රධාන ජල සැපයුම් පාලන කරාමය වසා නොදමා අලුත්වැඩියා කර ගත හැකි වැඩි දියුණු කළ පර්සෙස් සොකට් එකක් නිර්මාණය කිරීම වෙනුවෙන් තිරසර සංවර්ධන භාවිතය සදහා වූ සම්මානය පිරි නමා තිබුණි .
+The tournament and the exhibition was held with over 1,700 students from 67 countries from the world from 11 to 17.
 
-...
+The 'ComIUNITY INVATER' award was received for the dissemination of diabetes from the Nadasana College of Thurstan College, Colombo.
+
+The main water supply control is not closed for the use of sustainable developmental use of the water supply perrs in the Koubarpitiya College, Kulapitiya.Happened.
+
+Harsha is awarded to create a mattresses capable of preventing the treatment of preventing the treatment of the treatment of a long-term treatment of the Narammala Central College.
+
+◼️
 
 [Data](articles/fe3e205b.json)
 
+[Extended Data](ext_articles/fe3e205b.ext.json)
+
 ---
 
-### வரலாற்றில் இன்று
+### Today in history
 
 *2024-05-22 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184213) · `ta`
 
-இலங்கையின் 52ஆவது குடியரசு தினம் மே 22ஆம் திகதியான இன்றைய தினம் கொண்டாப்படுகிறது.
+Today marks Sri Lanka's 52nd Republic Day, celebrating its independence from British rule on May 22, 1972. The country transitioned from Dominion status under Prime Minister Sirimavo Bandaranaike's leadership, renaming itself from Ceylon to Sri Lanka. This historic day is remembered for nationwide fireworks and the publication of special editions of newspapers like Weerakesari, marking the first anniversary of the republic.
 
-1972ஆம் ஆண்டு அப்போதைய ஆட்சியில் இருந்த ஸ்ரீமாவோ தலைமையிலான ஐக்கிய முன்னணி அரசாங்கம், இலங்கையை டொமினியன் அந்தஸ்தில் இருந்து நீக்கி, சுதந்திர குடியரசாக மே மாதம் 22ஆம் திகதி பிரகடனப்படுத்தியது.
+🟩
 
-பிரித்தானிய ஆட்சியிலிருந்து முற்றாக விடுதலை பெற்று, 'சிலோன்' என்ற பெயர் நீக்கப்பட்டு, 'ஸ்ரீலங்கா' என்ற பெயர் அதிகாரபூர்வமாக்கப்பட்டு, இந்நாடு ஸ்ரீலங்கா ஜனநாயக சோசலிசக் குடியரசானது 1972 மே 22ஆம் திகதியாகும். அன்றைய தினம் நாடு முழுவதும் பட்டாசு வெடித்து, பாற்சோறு பொங்கி பொதுமக்கள் கோலாகலமான கொண்டாடினர்.
+Sri Lanka's 52nd Republic Day is celebrated today on May 22.
 
-அதற்கடுத்து, இலங்கை குடியரசாகி ஓராண்டு நிறைவை முன்னிட்டு 1973ஆம் ஆண்டு மே 22ஆம் திகதி முதலாவது குடியரசு தினம் கொண்டாடப்பட்டதை நினைவூட்டும் விதமாக அவ்வாண்டு மே 22, 23 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் முதல் பக்கங்களை இங்கே காணலாம்.
+The United Front government, led by the then Srimavo -led United Front in 1972, declared Sri Lanka from the Dominian status and declared the Republic of Independence on May 22.
+
+On May 22, 1972, the Sri Lankan Democratic Socialist Republic of Sri Lanka was completely liberated from the British rule, the name 'Ceylon' was removed and the name of 'Sri Lanka'.Fireworks exploded across the country that day and celebrated the massacre of the public.
+
+Subsequently, the first pages of the Weerakesari magazines published on May 22 and 23, which commemorates the celebration of the first Republic Day on May 22, 1973, to mark the one -year anniversary of the Republic of Sri Lanka.
 
 ◼️
 
 [Data](articles/d1a49807.json)
 
+[Extended Data](ext_articles/d1a49807.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-22 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184215) · `ta`
 
-இன்று புதன்கிழமை (மே 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு  விலை ரூபா 294.8231 ஆகவும் விற்பனை விலை ரூபா 304.4801ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US Dollar buying rate: Rs 294.8231; selling rate: Rs 304.4801 as per May 22 Central Bank update.
+
+🟩
+
+The US dollar purchasing price was Rs 294.8231 and the sales price were Rs 304.4801 based on the currency exchange rate released by the Central Bank on Wednesday (May 22).
 
 ◼️
 
 [Data](articles/eb78abae.json)
 
+[Extended Data](ext_articles/eb78abae.ext.json)
+
 ---
 
-### சபாநாயகரை சந்தித்தார் தென் கொரியா ஊழல் எதிர்ப்பு மற்றும் சிவில் உரிமைகளுக்கான ஆணைக்குழுவின் உப தலைவர்
+### The Vice President of the Commission on Anti -Corruption and Civil Rights
 
 *2024-05-22 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184210) · `ta`
 
-தென் கொரியாவின் ஊழல் எதிர்ப்பு மற்றும் சிவில் உரிமைகளுக்கான ஆணைக்குழுவின் உப தலைவரும் செயலாளர் நாயகமுமான சுங் சியுங்-யுன் (Chung Seung-yun) தலைமையிலான உயர் அதிகாரிகள் அடங்கிய தூதுக்குழுவினருக்கும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவிற்குமிடையிலான சந்திப்பு செவ்வாய்க்கிழமை  (21) பாராளுமன்றத்தில் இடம்பெற்றுள்ளது.
+Meeting held in Parliament discusses introducing Sri Lanka's powerful Anti-Corruption Act and Integrity Assessment System to combat bribery and corruption, emphasizing independence and international cooperation.
 
-கடந்த வருடம் இலங்கையில் நிறைவேற்றப்பட்ட ஊழல் எதிர்ப்புச் சட்டம் மிகவும் பலம் வாய்ந்த சட்டம் என்றும், இலஞ்சம் மற்றும் ஊழலைத் தடுப்பதற்கு தென் கொரியாவில் நடைமுறைப்படுத்தப்படும் பொது நிறுவங்களுக்கான ஒருமைப்பாடு மதிப்பீட்டு முறைமையை (Integrity Assessment System) இலங்கையிலும் அறிமுகப்படுத்துவதற்கு ஆதரவளிக்கத் தயாராக உள்ளதாக அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையில் நிறைவேற்றப்பட்ட ஊழல் எதிர்ப்பு சட்டம் முற்றுமுழுதாக சுயாதீனமானது எனவும் அதன் மூலம் இலஞ்சம் மற்றும் ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழு சுயாதீனமாக இயங்கக் கூடியதாக உள்ளது எனவும் தெரிவித்துள்ளார்.
+The meeting between the Deputy Chairman of the South Korea Anti-Corruption and the Civil Rights Commission, the Secretary General of the Commission and the Secretary General of the Chung Seung-Yun, was held in Parliament on Tuesday (21).
 
-அத்துடன், ஏனைய ஆதரவளிக்கும் நாடுகளுடன் இணைந்து இதனை செயல்படுத்த எதிர்பார்ப்பதாகவும் சபாநாயகர் தெரிவித்துள்ளார்.
+He added that the Anti -Corruption Act passed in Sri Lanka last year is the most powerful law and is ready to introduce the Integrity Assessment System in Sri Lanka to prevent bribery and corruption.
+
+He said that the anti -corruption law passed in Sri Lanka is completely independent and that the Commission to Investigate Bribery and Corruption is an independent.
+
+The Speaker also said that it is expected to work with other supported countries.
+
+In addition, the process of the anti -corruption law and the nature of the investigation into South Korea has been discussed and the need to raise awareness among the people of this country on bribery and corruption.
 
 ...
 
 [Data](articles/fc4b7dd9.json)
+
+[Extended Data](ext_articles/fc4b7dd9.ext.json)
 
 ---
 
@@ -172,21 +272,27 @@ Police also said that someone had entered the house and assaulted him to death w
 
 ---
 
-### யாழ். பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தினர் சம்பள உயர்வுகோரி போராட்டம் !
+### Yall. University Democratic Employees Union
 
 *2024-05-22 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184214) · `ta`
 
-சம்பள உயர்வு உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுவரும்  யாழ். பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தினரால் இன்று கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+In Jaffna, the University Democratic Employees Union protested for better wages, led by non-academic staff. They highlighted the importance of the MCA allowance increase amidst economic challenges.
 
-பல்கலைக்கழக வளாகத்திலிருந்து ஊர்வலமாக வந்த பல்கலைக்கழக கல்விசாரா ஊழியர்கள், பல்கலைக்கழகத்தின் பிரதான நுழைவாயிலில் போராட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-"ஊழியரின் பொருளாதார நிலைமையை கருத்திற்கொள், MCA கொடுப்பனவை அதிகரி, கல்விசாரா ஊழியர்களை மாற்றான் வீட்டு பிள்ளையாக்காதே போன்ற வாசகங்கள் எழுதப்பட்ட பதாதைகளையும் போராட்டத்தில் ஈடுபட்டவர்கள் ஏந்தியிருந்தனர்.
+Jaffna, who is working on a variety of demands, including salary increases. The protest was launched by the University Democratic Employees Union today.
 
-தொழிற்சங்க கூட்டுக்குழுவினருடன் இணைந்து ஜனநாயக ஊழியர் சங்கத்தினர் இந்த கவனயீர்ப்பு போராட்டத்தினை ஏற்பாடு செய்திருந்தனர்.
+University non -academic staff, who marched from the university campus, took part in the protest at the main entrance of the university.
+
+“Considering the economic situation of the employee, the MCA allowance has increased, and the protesters have been carrying out the words written by the non -academic staff.
+
+The Democratic Employees Union, along with the union coalition, organized the protest.
 
 ◼️
 
 [Data](articles/866450ee.json)
+
+[Extended Data](ext_articles/866450ee.ext.json)
 
 ---
 
@@ -238,23 +344,29 @@ Police said the suspect was arrested following an investigation after a petition
 
 ---
 
-### ஈரான் ஜனாதிபதியின் இறுதிச்சடங்கில் பங்கேற்கிறார் அலி சப்ரி
+### Ali Sabri participates in the funeral of Iran
 
 *2024-05-22 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184211) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் இறுதிச்சடங்கில் பங்கேற்பதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி செவ்வாய்க்கிழமை (21) ஈரானுக்கு விஜயம் செய்துள்ளார்.
+Ali Sabri, Sri Lanka's External Affairs Minister, attended the funeral of Iranian President Ibrahim Raisi, highlighting strong bilateral ties between the two nations.
 
-இன்று புதன்கிழமை (22) நடைபெறவுள்ள ஈரானின் மறைந்த ஜனாதிபதி இப்ராஹிம் ரைசி மற்றும் வெளிவிவகார அமைச்சர்  அமீர் அப்துல்லாஹியன் ஆகியோரின் இறுதிச் சடங்கில் கலந்துகொள்வதற்கு அமைச்சர் அலி சப்ரி தலைமையிலான உயர்மட்டக்குழு அங்கு பயணமாகியுள்ளதாக வெளிவிவகார அமைச்சு குறிப்பிட்டுள்ளது.
+🟩
 
-ஈரானின் ஆன்மீகத் தலைவர் ஆயத்துல்லாஹ் அலி கொமைனியிடம் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் இரங்கல் செய்தியை அமைச்சர் அலி சப்ரி கையளிக்கவுள்ளார்.
+External Affairs Minister Ali Sabri visited Iran on Tuesday (21) to attend the funeral of Iranian President Ibrahim Raisi.
 
-இலங்கையுடனான நெருங்கிய மற்றும் சுமூகமான இருதரப்பு உறவுகளை பிரதிபலிக்கும் வகையில், மறைந்த ஈரான் ஜனாதிபதியும்  அந்நாட்டு வெளிவிவகார அமைச்சரும் கடந்த மாதம் இலங்கைக்கு விஜயம் செய்திருந்தமை குறிப்பிடத்தக்கது.
+The Ministry of External Affairs has said that the high -level committee headed by Minister Ali Sabri has traveled to attend the funeral of Iran's late President Ibrahim Raisi and External Affairs Minister Amir Abdullahian to be held on Wednesday (22).
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி உள்ளிட்டோரின் இறுதி அஞ்சலி நிகழ்வு, ஈரானின் தப்ரிஸில் இன்றையதினம் (22) இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+Minister Ali Sabri will present President Ranil Wickremesinghe's condolence message to Iran's spiritual leader Ayatullah Ali Komini.
+
+It is noteworthy that the late Iranian President and Foreign Minister visited Sri Lanka last month, reflecting close and smooth bilateral relations with Sri Lanka.
+
+It is noteworthy that the final tribute event of Iranian President Ibrahim Raisi will be held today (22) in Iran's Tabris.
 
 ◼️
 
 [Data](articles/59fe0c81.json)
+
+[Extended Data](ext_articles/59fe0c81.ext.json)
 
 ---
 
@@ -309,6 +421,22 @@ Singapore Airlines released the details of passengers on the plane. Of these, 47
 [Data](articles/9f1f4d95.json)
 
 [Extended Data](ext_articles/9f1f4d95.ext.json)
+
+---
+
+### Police respond to video on interprovincial travel concerns
+
+*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Police-respond-to-video-on-interprovincial-travel-concerns/155-283154) · `en`
+
+Colombo, May 22 (Daily Mirror) - In response to a recent social media clip depicting a driver being fined for not transferring vehicle ownership and for not carrying a vehicle registration certificate, which has sparked confusion among the public, the police have issued a clarification on the incident.
+
+In a widely circulated video, a female police officer on traffic duty was seen requesting a driver to provide documents proving ownership of the vehicle, as it was being driven in the Sabaragamuwa Province but registered to an individual in the Central Province.
+
+The driver questions whether it is prohibited to drive a vehicle between these provinces, asserting that he hasn't committed any traffic violations.
+
+...
+
+[Data](articles/25ee2ffd.json)
 
 ---
 
@@ -1582,6 +1710,30 @@ He is also expected to work with intellectuals and prominent personalities durin
 
 ---
 
+### Sarath Fonseka to split from SJB; to run for President
+
+*2024-05-22 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-to-split-from-SJB-to-run-for-President/108-283142) · `en`
+
+Former Army Commander, Field Marshal Sarath Fonseka, has decided to contest for Presidency at the upcoming Presidential election, the Daily Mirror learns.
+
+Sources close to Fonseka said that the current Chairman of the Samagi Jana Balawegaya (SJB) will make a formal announcement in June.
+
+Fonseka is to contest as an independent candidate instead of joining forces with any political party.
+
+Sources claimed that Fonseka has also managed to secure the support of a group of SJB MPs and back-door talks are ongoing with MPs and politicians from other political parties.
+
+The Daily Mirror learns that Fonseka's campaign will look at promoting a corruption free country and also give priority to national security.
+
+The former Army Commander took to the streets during the ‘Aragalaya’ protests and will look to ride on the support he got at the time.
+
+He is also expected to work with intellectuals and prominent personalities during his campaign.
+
+...
+
+[Data](articles/ddf316b6.json)
+
+---
+
 ### Political parties brace for polls
 
 *2024-05-22 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Political-parties-brace-for-polls/108-283140) · `en`
@@ -2115,165 +2267,5 @@ At a press conference following a landmark judgement where the Supreme Court rul
 [Data](articles/115240e6.json)
 
 [Extended Data](ext_articles/115240e6.ext.json)
-
----
-
-### National consumer prices rise 2.7% in April as both food & non-food prices remain soft
-
-*2024-05-22 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-consumer-prices-rise-2-7-in-April-as-both-food-non-food-prices-remain-soft/108-283118) · `en`
-
-Central Bank largely expected to keep rates unchanged next week as previous cuts doing their work
-
-Consumer prices measured nationally rose by 2.7 percent in April from a year ago, slightly higher from 2.5 percent in through March as the non-food prices rose somewhat faster.
-
-However, the prices still came down by 0.9 percent in April measured on a monthly basis, supported by decline in the prices of both food and non-food prices from a month ago.
-
-Sri Lanka’s inflation has consistently been on single digit levels since July last year as the global commodities prices came down while the supply chains which lost balance during the pandemic came into better balance while the Central Bank made the monetary policy bone crushingly tight causing demand to trim.
-
-The national food prices rose by 3.3 percent in the year through April, slowing from 5.0 percent in March but the prices measured monthly fell 1.4 percent, at a slower pace than the 2.1 percent decline between February and March.
-
-...
-
-[Data](articles/0b9c059d.json)
-
-[Extended Data](ext_articles/0b9c059d.ext.json)
-
----
-
-### Common transportation to persons with disabilities is 'desired'?
-
-*2024-05-22 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjlleegyy40o) · `si`
-
-It seems like you've shared a detailed account of discussions and concerns related to accessibility issues in public transportation systems, particularly focusing on the experiences and challenges faced by individuals with disabilities in Sri Lanka. This includes issues such as inadequate seating arrangements, lack of priority access, and the overall neglect of accessibility standards in public transport.
-
-
-
-From the narrative, several key points emerge:
-
-
-
-1. **Accessibility Challenges**: Individuals with disabilities face significant barriers in accessing public transportation, including difficulty in boarding and disembarking, lack of designated seating, and insufficient space for mobility aids.
-
-
-
-2. **Government Response**: There appears to be a disconnect between the government's intentions (as indicated by the allocation of funds and the establishment of committees) and the actual implementation of accessible transportation solutions. The narrative suggests that while efforts have been made, they may not be sufficient or effectively addressing the core issues.
-
-
-
-3. **Community Engagement**: The involvement of individuals like Isuru and Tikiri highlights the importance of personal stories and advocacy in bringing attention to these issues. Their firsthand experiences underscore the urgency of improving accessibility in public transportation.
-
-
-
-4. **Future Directions**: Suggestions for improvement include the introduction of specialized buses for individuals with disabilities, better training for drivers and conductors, and the integration of technology (like information centers and screens) to enhance navigation and communication for passengers with disabilities.
-
-
-
-5. **International Standards and Collaboration**: The mention of international conferences and the revision of local regulations to align with international standards indicates a broader recognition of the need for accessible transportation. Collaborative efforts, such as those involving the Indian High Commission, show potential pathways for addressing these challenges.
-
-
-
-To address these issues comprehensively, a multifaceted approach would likely be necessary. This could involve:
-
-
-
-- **Policy Reform**: Ensuring that laws and regulations are not only in place but actively enforced to mandate accessibility in public transportation.
-
-- **Infrastructure Development**: Investing in infrastructure that supports the needs of individuals with disabilities, including accessible entryways, seating areas, and restrooms.
-
-- **Education and Training**: Providing education and training for transportation staff to ensure they are equipped to assist passengers with disabilities.
-
-- **Technology Integration**: Utilizing technology to improve accessibility, such as real-time information systems and communication tools for passengers with hearing impairments.
-
-- **Community Engagement**: Continuously engaging with communities affected by these issues to gather feedback and advocate for improvements.
-
-
-
-Addressing accessibility in public transportation is a complex issue that requires sustained effort and collaboration across various sectors. It's clear that while progress has been made, there remains much work to be done to ensure that everyone, regardless of ability, can safely and comfortably use public transportation in Sri Lanka.
-
-🟩
-
-Even though you are in a train, train or taxi, and many people can travel in a bus, and many people can travel from the place, do you know that there are people who have to think of hundreds of times to be a hundred times.
-
-"It is impossible to change only to change just words. People don't even make those words to change, "The idea of ​​Isuru Mahesh Panditha.
-
-Isuru is one of the two disabled persons who provided reasons for this article.
-
-He is a lawyer from visually impaired. He acts as an independent researcher with the rights of persons with disabilities and as an independent researcher with NGOs and as an operator of law. Isuru was born in Galle.
-
-He has also been born to Tikiri Kumara Jayawardene, which is used in full-time wheelchair, to the birth of the wheelchairs, as a result of birth is a disorder.
-
-'Blind, those who have not touch a car now come to me to build vehicles,'
-
-...
-
-[Data](articles/babc518b.json)
-
-[Extended Data](ext_articles/babc518b.ext.json)
-
----
-
-### Legal Rules regarding non -cultivated landlords
-
-*2024-05-22 02:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயிரிடப்படாத-நிலங்கல்-தொடர்பில்-சட்ட-விதிகள்/175-337672) · `ta`
-
-The Minister of Social Empowerment announced new laws to cultivate unused lands, emphasizing land's societal importance. He also advocated for pensions and contributions for self-employed individuals from both state and private sectors to bolster the nation.
-
-🟩
-
-Minister of Social Empowerment Anubhaskwal said that as the land is a major factor for social reinforcement, new laws are being introduced to use unaccounted lands for cultivation.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Land is a major factor to strengthen society. Therefore, efforts are being made to introduce new laws to use the land that has not yet been cultivated.
-
-And our position is that everyone should be given pensions to strengthen the entire country. To that end, we recommend that contributions be given to all self -employed persons not only by the state and private sector.. (A)
-
-◼️
-
-[Data](articles/a40bba48.json)
-
-[Extended Data](ext_articles/a40bba48.ext.json)
-
----
-
-### Israel attack on Gaza: 85 killed
-
-*2024-05-22 02:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மீது-இஸ்ரேல்-தாக்குதல்-85-பேர்-பலி/50-337671) · `ta`
-
-In a tragic event, Israel's attack on Gaza resulted in the deaths of 85 individuals yesterday.
-
-🟩
-
-Israel's attack on Gaza was killed yesterday by 85 people.
-
-◼️
-
-[Data](articles/5cfd35b5.json)
-
-[Extended Data](ext_articles/5cfd35b5.ext.json)
-
----
-
-### Dengue mosquito spread
-
-*2024-05-22 02:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நுளம்பு-பரவல்-அதிகரிப்பு/175-337670) · `ta`
-
-Due to monsoon rains, dengue mosquito spread may rise, affecting areas like Jaffna, Colombo, Gampaha, Kalutara, and Kandy, especially in the Western Province, with 23k cases reported this year.
-
-🟩
-
-The National Dengue Eradication Division of the Ministry of Health said that the spread of dengue mosquitoes could increase in the coming days due to south -season monsoon rains.
-
-The Director of the National Dengue Eradication Division, Sudath Samaraweera, said that 23 thousand dengue patients have been reported in the year.
-
-Meanwhile, doctor Lahiru Kodithi has announced that the dengue spread is increasing in the districts of Jaffna, Colombo, Gampaha, Kalutara and Kandy.
-
-He noted that most of the dengue patients have been reported in the Western Province. (A)
-
-◼️
-
-[Data](articles/b20748d9.json)
-
-[Extended Data](ext_articles/b20748d9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 20:34:11**
+As of **2024-05-22 20:52:43**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,747 (100.0%) of 25,748 articles have been extended.
+25,748 (100.0%) of 25,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතිය අත්හිටුවයි
+### Dambulla will be suspended
 
 *2024-05-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196915) · `si`
 
-එළඹෙන LPL තරගාවලිය සඳහා සහභාගීවීමට නියමිතව සිටි දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතීන් වහාම ක්‍රියාත්මක වන පරිදි අත්හිටුවීමට කටයුතු කළ බව ලංකා ප්‍රිමියර් ලීග් නිවේදනය කළේය.
+Dambulla Tanders' participation in the Lanka Premier League (LPL) is suspended due to concerns over transparency and quality. The Imperial Sports Group's CEO made the decision, and it's expected that a new owner will take over the team, allowing them to compete in future LPL tournaments.
 
-LPL සංවිධායක කමිටුවේ සභාපති අනිල් මොහාන් මහතා පැවසුවේ LPL තරගාවලියේ විනිවිදභාවය සහ ගුණාත්මක භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් මෙම පියවර ගත් බවය.
+🟩
 
-Imperial Sports Group ප්‍රධාන විධායක නිලධාරී තමීම් රහමාන් මුහුණදී ඇති නීතිමය කරුණු සලකාබලා ඉහත තීරණය ගත් බව අදාළ නිවේදනයේ දැක්වෙයි.
+Lanka Premier League announced that the rights of the Dambulla Tanders who were due to attend the approved LPL tournament.
 
-වැඩිදුරටත් වාර්තා වෙන්නේ LPL තරගාවලියේ දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතිය වෙනත් පාර්ශ්වයකට හිමිකර දීමට නියමිත බවය.
+President of the LPL organizer committee Chairman Anil Mohan said that this was taken to protect the transparency and quality of the LPL series.
 
-එලෙස නව හිමිකාරීත්වය යටතේ දඹුල්ල කණ්ඩායමට LPL තරගාවලිය සඳහා ක්‍රීඩා කිරීමට හැකියාව පවතින බවද වාර්තා විය.
+The decision was taken by the Chief Executive Officer of the CEO of the IMPERIAL SPORTS GROUP.
+
+It is reported that another party is due to hold the ownership of the Dambulla Thunders team of the LPL.
+
+It was reported that the Dambulla team is able to play for the LPL tournament under the new owner.
 
 ◼️
 
 [Data](articles/64fcd728.json)
+
+[Extended Data](ext_articles/64fcd728.ext.json)
 
 ---
 

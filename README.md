@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 14:52:47**
+As of **2024-05-22 15:03:35**
 
 ## Newspaper Stats
 
@@ -26,41 +26,73 @@ adaderanasinhalalk | 4,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,683 (100.0%) of 25,685 articles have been extended.
+25,685 (100.0%) of 25,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ශෝකය පළ කිරීමට ජනපති ඉරාන තානාපති කාර්යාලයට
+### ComBank and CBA pioneer NFC technology-enabled cashless vending machines in Sri Lanka
+
+*2024-05-22 14:49:00* · [`islandlk`](http://island.lk/combank-and-cba-pioneer-nfc-technology-enabled-cashless-vending-machines-in-sri-lanka/) · `en`
+
+Offer new paradigm in convenience with contact and contactless card payment acceptance
+
+Sri Lanka will be able to deploy its first credit and debit card-enabled vending machines following a collaboration between the Commercial Bank of Ceylon, the country’s biggest private sector bank, and Ceylon Business Appliances (CBA), a leading financial technology solutions company.
+
+Advancing consumer convenience and embracing technological innovation, the collaboration will result in the introduction of a fully automated, Near Field Technology (NFC)-enabled vending machine service branded ‘Grab.it’ across Sri Lanka. These machines will accept contact and well as contactless card payments.
+
+The Bank said this is the first time a Sri Lankan bank has engaged with a fintech company to offer such a technologically-advanced solution in the retail sector.
+
+...
+
+[Data](articles/648dcf9b.json)
+
+[Extended Data](ext_articles/648dcf9b.ext.json)
+
+---
+
+### President to express grief to the Iranian embassy
 
 *2024-05-22 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196905) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ කොළඹ ඉරාන තානාපති කාර්යාලය වෙත ගොස් අභාවප්‍රාප්ත ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් සිය ශෝකය පළ කළේය.
+Sri Lanka's President Ranil Wickremesinghe visited the Iranian embassy in Colombo to offer condolences to Iran's President over the tragic loss. He met with Ambassador Dr. Ali Rassa Dalcosh, expressing sympathy for the Iranian government and its people during this difficult time.
 
-තානාපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයාව ශ්‍රී ලංකාවේ ඉරාන තානාපති ආචාර්ය අලි රීසා ඩෙල්කොෂ් මහතා ඇතුළු කාර්යමණ්ඩලය විසින් පිළිගනු ලැබීය.
+🟩
 
-අනතුරුව ඉරාන තානාපතිවරයා ඇතුළු පිරිස සමග කෙටි කතාබහක නිරතවූ ජනාධිපතිවරයා එහි තැන්පත් කර තිබූ ශෝක සටහන් පොතේ සටහනක් ද තබමින් ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් ඉරාන රජයටත්, ජනතාවටත් තමාගේ සහ ශ්‍රී ලංකා රජයේත්, ජනතාවගේත් බලවත් ශෝකය පළ කර සිටියේය.
+President Ranil Wickremesinghe visited the Iranian embassy in Colombo this morning to go to the Iranian President of Iranian President, Colombo.
+
+The President of Sri Lanka, Ambassador to the Embassy, Ambassador to Sri Lanka, Dr. Ali Rassa Dalcosh was admitted to the staff.
+
+The President had a short-chat with the Ambassador and the group, and the President of the Iranian government and the people of the people and the people of the people and the people of the people and the people of the people of the people and the people of the people had been condemned to the emergency of the Hon.
 
 ◼️
 
 [Data](articles/7e0badef.json)
 
+[Extended Data](ext_articles/7e0badef.ext.json)
+
 ---
 
-### බැතිමතුන් වෙනුවෙන් දළදා මාලිගාවෙන් දන්සලක්
+### Dansala from the Tooth for the devotees
 
 *2024-05-22 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196904) · `si`
 
-වෙසක් මංගල්‍යය යෙදී ඇති හෙට (23) සහ අනිද්දා (24) යන දෙදින මහනුවර ශ්‍රී දළදා මාලිගාවට පැමිණෙන දෙස් විදෙස් බැතිමතුන් වෙනුවෙන් විශේෂ දන්සැල් කලාපයක් ක්‍රියාත්මක කිරීමට කටයුතු කර තිබේ.
+Sri Dansa Maligawa in Kandy introduces a special Dansal area for devotees, offering two days of refreshments and health services under the guidance of Diyawadana Nilame Pradeep Nilanga Dela.
 
-දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතාගේ උපදෙස් අනුව ශ්‍රී දළදා මාලිගාවේ කාර්ය මණ්ඩලය විසින් මෙම දන්සැල් කලාපය ක්‍රියාත්මක කරනු ඇත.
+🟩
 
-එහිදී ප්‍රණීත හා සෞඛ්‍ය‍ාරක්ෂිතව පිලියෙල කළ ආහාර පාන දින දෙකක් පුරාවට පැමිණෙන බැතිමතුන් වෙත ලබා දෙන බව ශ්‍රී දළදා මාලිගාව වැඩිදුරටත් සඳහන් කළේය.
+A special Dansal area has been implemented for local and foreign devotees from the Sri Dansa Maligawa in Kandy tomorrow (23) and tomorrow.
+
+The Dansala area will implement the Dansal area in accordance with the instructions of Diyawadana Nilame Pradeep Nilanga Dela.
+
+The Sri Dalada Maligawa added that the pilgrims will be given to two days of refreshments and health.
 
 ◼️
 
 [Data](articles/3c54bae7.json)
+
+[Extended Data](ext_articles/3c54bae7.ext.json)
 
 ---
 
@@ -2273,21 +2305,5 @@ Addressing the staff, Ambassador Majintha Jayesinghe recalled the close historic
 [Data](articles/c83c1779.json)
 
 [Extended Data](ext_articles/c83c1779.ext.json)
-
----
-
-### Major International Golf in High Definition Only on Dialog Television
-
-*2024-05-22 04:53:04* · [`dailyftlk`](https://www.ft.lk/news/Major-International-Golf-in-High-Definition-Only-on-Dialog-Television/56-762093) · `en`
-
-Dialog Television, Sri Lanka’s premier Pay-TV service provider, will be the only Pay-TV partner in Sri Lanka to broadcast golf's biggest global competitions, allowing Sri Lankan golf enthusiasts to catch all the action in High Definition (HD) on ThePapare TV HD (channel number 126).
-
-The 83rd Senior PGA Championship will commence in Michigan, USA on 23rd May followed by a month of golfing action in June with the US Women’s Open and US Open both teeing off from 30th May to 2nd June and 13th to 16th June respectively. The Ladies European Tour 2024, following its commencement in February, takes place across multiple locations globally and will span the year.  All of this action will be telecasted LIVE on Dialog Television - ThePapare TV HD (channel number 126).
-
-...
-
-[Data](articles/4db2aa25.json)
-
-[Extended Data](ext_articles/4db2aa25.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 16:33:56**
+As of **2024-05-22 16:51:16**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,707 (100.0%) of 25,709 articles have been extended.
+25,709 (100.0%) of 25,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### ලෝක වාර්තාවක් තැබූ කුරුළු පිහාටුව
+### Bird fever for a world record
 
 *2024-05-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196911) · `si`
 
-දැනට වඳවී ගොස් ඇති නවසීලන්ත "huia" නම් පක්ෂියාගේ තනි පිහාටුවක් වාර්තාගත මුදලකට වෙන්දේසියකදී අලෙවි වී ඇත.
+A rare Huia bird, last seen in 1907, fetched a stunning 450% above its estimated $3,000 value at auction, setting a new world record.
 
-එම වෙන්දේසියේදී මෙම පිහාටුව වෙන්දේසි වෙතැයි අපේක්ෂා කර තිබුණේ ඩොලර් 3,000කට ය.
+🟩
 
-එසේම මෙතෙක් පැවති වාර්තාව ද හිමිකරගෙන තිබුණේ මෙම පක්ෂියාගේ ම පිහාටුව කි. නමුත් එම මිලට වඩා 450% ගුණයකින් එම පිහාටුව අලෙවි වී ඇති බව වෙන්දේසිය සංවිධානය කළ ආයතනය පැවසීය.
+The bird is sold at a auction for a record of a bird at present.
 
-"huia" පක්ෂියා මවෝරි ජනතාව පූජත්වයෙන් සලකයි.  එම පක්ෂීන්ගේ පිහාටු හිස් පළඳනා සඳහා සවිකිරීමට, තෑගී ලෙස හෝ විකිණීම සඳහා ද එම ජනතාව භාවිත කළේය.
+At the auction, this feather was expected to be auctioned by $ 3,000.
 
-"huia" පක්ෂියා අවසන් වරට දැක ඇති බව වාර්තා වන්නේ 1907 වසරේදී ය.
+The bird was also known as the report so far. However, the A / L Auction Agency said that the feather was sold 450% more than that price.
+
+"Huia" The people of the philosophy treat the people of the priest. The people were used to install the feather-emptied empty deeds, as gifted or selling.
+
+The "Huia" bird was last seen in 1907.
 
 ◼️
 
 [Data](articles/a648d7d6.json)
+
+[Extended Data](ext_articles/a648d7d6.ext.json)
 
 ---
 
@@ -158,21 +164,29 @@ Accordingly, the presidential election will be declared between the end of July 
 
 ---
 
-### විශ්‍රාම ගන්නා ලංගම බස් රියදුරුට ප්‍රදේශවාසින්ගේ උපහාර
+### SLTB bus driver is tribute to residents of the area
 
 *2024-05-22 15:39:30* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගන්නා-ලංගම-බස්-රියදුරුට-ප්‍රදේශවාසින්ගේ-උපහාර/11-409790) · `si`
 
-මස්කෙලිය අවිස්සාවේල්ල මාර්ගයේ වසර 26 ක් රියදුරෙකු වශයෙන් සේවය කර විශ්‍රාම ලබා ගැනිමට නියමිතව සිටින අවිස්සාවේල්ල ලංගම ඩිපෝවේ ඩි.කේ.ඇන්ටන් ප්‍රනාන්දු මහතාට නෝටන්බ්‍රිජ් ප්‍රදේශවාසින් විසින් (22) දින උපහාර පිදිමක් සිදු කරනු ලැබුහ.
+Anton Fernando, a long-serving SLTB bus driver, received a tribute for his dedication to the community. Despite COVID restrictions limiting inter-provincial bus services, he continued to operate buses between Maskeliya and Ginigathena, ensuring essential fuel supply to the Avissawella depot. His efforts were recognized by local police, teachers, and students.
 
-ඇන්ටන් ප්‍රනාන්දු මහතා කල සේවය අගයමින් නෝටන්බ්‍රිජ් ප්‍රදේශයේ පොලිස් නිලධාරින් , ගුරුවරුන් සහ පාසල් ළමුන් එක්ව මෙම උපහාර පිදිම සිදු කලහ.
+🟩
 
-අවිස්සාවේල්ල ලංගම ඩිපෝවේ වසර 30 ක කාලයක් සේවය කර ඇති ඇන්ටන් ප්‍රනාන්දු මහතා නෝටන්බ්‍රිජ් විමලසුරෙන්ද්‍රගම ප්‍රදේශයේ පදිංචිදකරුවෙකි.
+The Nortonbridge Dippo, Avribella Licensing, is scheduled to serve as a 26-year driver in Avissawella road along the Road Maskeliya (22).
 
-දිනපතා උදැසන 6 ට මස්කෙලිය සිට ගමන් ආරම්භ කරන එම බස් රථය නෝටන්බ්‍රිජ් , ගිනිගත්හේන හරහා අවිස්සාවේල්ල දක්වා ධාවනය කර යලිත් අවිස්සාවේල්ල සිට මස්කෙලිය දක්වා එම බස් රථය ධාවනය කර රාත්‍රි කාලයේ බස් රථය නෝටන්බ්‍රිජ් බස් නැවතුම්පොලේ ගාල් කර යලිත් එම බස් රථය අලුයම 5ට මස්කෙලිය දක්වා ධාවනය කරවන බවයි ඇන්ටන් ප්‍රනාන්දු මහතා කියා සිටියේ.
+The felicitation of the Nortan Fernando, who was in appreciation of the service of Anton Fernando, joined the pursuit of police officers, teachers and schoolchildren.
+
+Anton Fernando, who served in the SLTB depots on Avissawella, was a resident of Nortton Fernando.
+
+The bus, which will commence from the Nortenbridge Bus Station to Avissawella to Maskera to Maskera to Maskehena at the daughter 6 days.Anton Fernando said.
+
+In the course of a crisis where the bus was running the bus during the time of serving on the road, a fever was in a crisis in the road, a fever was in front of the main road and had not caused a danger.Anton Fernando said that a driver who worked in the depot was hit by the bus seat on the bus.
 
 ...
 
 [Data](articles/4baeccf1.json)
+
+[Extended Data](ext_articles/4baeccf1.ext.json)
 
 ---
 

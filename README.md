@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 03:03:33**
+As of **2024-05-23 03:18:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,800 (100.0%) of 25,801 articles have been extended.
+25,801 (100.0%) of 25,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -228,19 +228,27 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 
 ---
 
-### ’தமிழர்களுக்கு நீதி கிடைக்காது’
+### Tamils do not get justice for Tamils
 
 *2024-05-23 01:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-நீதி-கிடைக்காது/175-337738) · `ta`
 
-பொலிஸாரின் அராஜகமும் அடக்க முடியாத அதிகாரப்பசியும் தமிழ் மக்களின் வாழ்வியலை பறித்தெடுக்கின்றது. இந்த நாட்டில் நீதி மரணித்து விட்டது. சட்டம் சாகடிக்கப்பட்டு விட்டது .இலங்கையின் சட்டத்தினால் தமிழர்களுக்கு ஒருபோதுமே நீதி கிடைக்காது என  இலங்கை தமிழரசுக்கட்சியின் யாழ்.மாவட்ட எம்.பி.யான எஸ்.சிறிதரன் தெரிவித்தார்.
+Tamil citizens face injustice due to police anarchy and lack of proper law enforcement. The speaker questions the government's adherence to legal definitions and implementation, highlighting issues from the judiciary. This comes amid commemorations of the Mullivaikkal tragedy, where arrests were made under unclear circumstances, raising questions about the rule of law in Sri Lanka.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) எதிர்க்கட்சியினால் கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் உரையாற்றும் போதே இவ்வாறுத்தெரிவித்தார்.
+🟩
 
-இந்த அரசாங்கம் சட்டங்களை சரியான முறையில் நடைமுறைப்படுத்துகிறதா? சட்டங்களின் வரையறைகளை  பின்பற்றுகின்றதா?  நீதித்துறை சட்டங்களின்  ஊடாக கொண்டுவரப்பட்ட பல்வேறு விடயங்கள் அந்த நீதித்துறை  ஊடாகவே நடைமுறைப்பபடுத்தப்படாமல் போகின்றது .கடந்த மே 17,18 ஆம் திகதிகளில் இலங்கையின் பல பாகங்களில் நடைபெற்ற விடயங்கள் தொடர்பில் இந்த நாடு ஒரு சட்டத்திற்குள்தான் இருக்கின்றதா? என்பதையும் இங்கு கேட்க விரும்புகின்றேன்.
+The anarchy of the police and the incomprehensible power seizes the life of the Tamil people. In this country justice has died. The law has been died.
 
-...
+He was speaking at the debate on the proposal on Wednesday (22) in Parliament.
+
+Is this government implementing the laws properly?Does the definitions of law follow?  The various issues introduced through the laws of the judiciary are not implemented through the judiciary.I would like to hear here.
+
+At the end of the 15th anniversary of the death of the people of Mullivaikkal, the Mullivaikkal Kanji recalled the event, which was held everywhere, and the police were arrested at night in Sampur, Trincomalee, in the Eastern Province.. The arrest of this is within any country law. Is Sri Lanka in the law of Sri Lanka or is Sri Lanka following another country law?He asked.
+
+◼️
 
 [Data](articles/d931108b.json)
+
+[Extended Data](ext_articles/d931108b.ext.json)
 
 ---
 

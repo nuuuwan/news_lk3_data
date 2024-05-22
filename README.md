@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 16:04:52**
+As of **2024-05-22 16:18:37**
 
 ## Newspaper Stats
 
-*Scraped **25,696** Articles*
+*Scraped **25,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,78 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,204
-adaderanalk | 2,959
+adalk | 2,206
+adaderanalk | 2,960
 tamilmirrorlk | 3,001
-virakesarilk | 3,892
-dailymirrorlk | 4,035
+virakesarilk | 3,898
+dailymirrorlk | 4,037
 adaderanasinhalalk | 4,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,694 (100.0%) of 25,696 articles have been extended.
+25,696 (100.0%) of 25,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### තාඹුගල අත්අඩංගුවට
+### අද 22 සිට නැවත දැනුම්දෙනතුරු ශ්‍රී ලංකාවට ධීවර කටයුතු තහනම්
+
+*2024-05-22 15:58:28* · [`adalk`](https://www.ada.lk/breaking_news/අද-22-සිට-නැවත-දැනුම්දෙනතුරු-ශ්‍රී-ලංකාවට-ධීවර-කටයුතු-තහනම්/11-409792) · `si`
+
+දිවයින වටා මුහුදු ප්‍රදේශවල ඉදිරි දින කිහිපයේදී දැඩි වර්ෂාපතනයක් හා දැඩි සුළං තත්ත්වයක් ඇතිවිය හැකි බවට වාර්තාවීමත් සමග අද (22) සිට ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු බහුදින ධීවර යාත්‍රා ඇතුළුව සියලුම ධීවර යාත්‍රා සඳහා රැකියාවට පිටත්වීම සඳහා අවසර ලබා නොදෙන බව ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසනවා.
+
+එසේම මේ වනවිට රැකියාවේ නිරතව සිටින බහුදින ධීවර යාත්‍රා වෙත ද ආරක්‍ෂිත ප්‍රදේශ හරහා ගමන්කරන ලෙසට දැනුම්දී ඇති බව එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත සඳහන් කරයි
+
+◼️
+
+[Data](articles/50308f3d.json)
+
+---
+
+### Aura Lanka chairman Viranjith Thambugala arrested
+
+*2024-05-22 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99381/aura-lanka-chairman-viranjith-thambugala-arrested) · `en`
+
+The Chairman of Aura Lanka, businessman Viranjith Thambugala,  has been arrested by police over allegations of financial fraud.
+
+◼️
+
+[Data](articles/39993d0e.json)
+
+---
+
+### Aura Lanka Chairman arrested
+
+*2024-05-22 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aura-Lanka-Chairman-arrested/108-283165) · `en`
+
+May 22 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala has been arrested by police.
+
+Police said Thambugala was arrested over allegations of several financial frauds and will be produced in court.
+
+◼️
+
+[Data](articles/b5a3aa70.json)
+
+---
+
+### Umbugala arrested
 
 *2024-05-22 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196910) · `si`
 
-ව්‍යාපාරිකයෙක් වන විරංජිත් තාඹුගල මූල්‍ය වංචාවක් සම්බන්ධයෙන් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Businessman Wirajith Umbugala was arrested for fiscal fraud by police.
+
+🟩
+
+Police have arrested a businessman, Wirajith Ukgala Fiscal fraud.
 
 ◼️
 
 [Data](articles/1c1c4189.json)
+
+[Extended Data](ext_articles/1c1c4189.ext.json)
 
 ---
 
@@ -57,6 +103,46 @@ He is scheduled to be produced before court by officers of the Special Investiga
 ◼️
 
 [Data](articles/2f7e6258.json)
+
+[Extended Data](ext_articles/2f7e6258.ext.json)
+
+---
+
+### Presidential election to be held first, President informs Cabinet
+
+*2024-05-22 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-election-to-be-held-first-President-informs-Cabinet/108-283164) · `en`
+
+Colombo, May 22 (Daily Mirror) -  Despite speculations that a General Election will precede a Presidential election, President Ranil Wickremesinghe has informed the Cabinet today that the Presidential election will be held first this year.
+
+During the Cabinet meeting held this morning, President Wickremesinghe emphasized that the Presidential election should be held within the specified period this year in accordance with the Constitution.
+
+The Election Commission officially announced on May 09th that the Presidential election will be held between September 17 and October 16.
+
+Accordingly, the presidential election will be declared between the end of July and the early part of August.
+
+◼️
+
+[Data](articles/34623fc4.json)
+
+---
+
+### எனக்கு எதிராக கருத்தடை குற்றச்சாட்டுகளை முன்வைத்த தாய்மார்கள்  தற்போது மன்னிப்பு கோருகின்றனர்- குருநாகல் மருத்துவர் ஷாபி சிகாப்தீன்
+
+*2024-05-22 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184240) · `ta`
+
+குருநாகல் வைத்தியசாலை மருத்துவர் ஷாபி சிகாப்தீன் தனக்கு எதிராக குற்றச்சாட்டுகளை சுமத்திய தாய்மார்கள் தற்போது தங்களை மன்னிக்குமாறு வேண்டுகோள் விடுத்துள்ளனர் என தெரிவித்துள்ளார்.
+
+சில தாய்மார்கள்; போது தாங்கள் எனக்கு எதிராக முறைப்பாடு செய்தவர்கள் எனவும் தங்களை மன்னிக்குமாறு வேண்டுகோள் விடுத்தனர் என தெரிவித்துள்ள அவர் சிசேரியன் சத்திரசிகிச்சையின் போதுஅவர்கள் இவ்வாறு வேண்டுகோள் விடுத்தனர் என குறிப்பிட்டுள்ளார்.
+
+தன்னை போதைப்பொருள்குற்றவாளி மாகந்துரே மதுசுடன் சிறையில் ஒன்றாக தடுத்துவைத்திருந்தனர் என வைத்தியர் ஷாபி சிகாப்தீன் தெரிவித்துள்ளார்.
+
+நான் அவருடன் ஒன்றாக உணவை பகிர்ந்துகொண்டேன், அவருக்கு அருகில் உறங்கினேன் என தெரிவித்துள்ள வைத்தியர் வெள்ளை உடையணிந்த அரசியல்வாதிகளிடம் காணமுடியாத மனிதாபிமானத்தை அவரிடம் கண்டேன் எனவும் குறிப்பிட்டுள்ளார்.
+
+எனது மருத்துவ தொழில்துறையை சார்ந்தவர்களே என்னை கைவிட்டனர் அரசமருத்துவ அதிகாரிகள் சங்கத்தின் முன்னாள் தலைவர் அனுரத்த பாதெனிய அவர்களில் ஒருவர் எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/6aa721eb.json)
 
 ---
 
@@ -103,6 +189,34 @@ This petition is Sampath Abeykoon and P. The order was called before the Bench o
 [Data](articles/14f82a2c.json)
 
 [Extended Data](ext_articles/14f82a2c.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරි වැටුප් හා දීමනා ඉහළට
+
+*2024-05-22 15:20:13* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරි-වැටුප්-හා-දීමනා-ඉහළට/11-409787) · `si`
+
+මෙරට 13,000කට අධික ග්‍රාම නිලධාරිවරුන්ට අනන්‍ය වැටුප් තලයක් ලබාදී වැටුප් සහ දීමනා ඉහළ නැංවීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බවත්, ඒ අනුව ශ්‍රී ලංකා ග්‍රාම නිලධාරී සේවය ස්ථාපිත කිරීම සඳහා එම සේවා ව්‍යවස්ථා කෙටුම්පත රාජ්‍ය සේවා කොමිෂන් සභාවේ අනුමැතිය සඳහා ඉදිරිපත් කර ඇති බවත්, එය විශාල ජයග්‍රහණයක් බවත්, රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යවරයා වෙනුවෙන් ප්‍රශ්නයකට පිළිතුරු දෙමින්, ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පාර්ලිමේන්තුවට 2024.05.22 දින අනාවරණ කළේය.
+
+...
+
+[Data](articles/2f6e9fb6.json)
+
+---
+
+### லங்கா பிறீமியர் லீக் அணி உரிமையாளர் ஒருவர் கைது
+
+*2024-05-22 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184237) · `ta`
+
+பிரித்தானிய பிரஜையான பங்களாதேஷி ஒருவரை பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து விசேட விசாரணைப் பிரிவினர் கைது செய்துள்ளனர்.
+
+ஆட்ட நிர்ணயத்தில் ஈடுபட்டார் என்ற குற்றச்சாட்டின் பேரில் கைதான அவர், லங்கா பிறீமியர் லீக் அணி ஒன்றின் உரிமையாளராகவும் இருக்கிறார் என தகவல் வெளியாகியுள்ளது.
+
+விளையாட்டுத்துறை அமைச்சினால் நியமிக்கப்பட்டுள்ள விளையாட்டத்துறையுடன் தொடர்புடைய குற்றங்களைத் தடுக்கும் விசாரணைப் பிரிவினராலேயே அவர் கைதுசெய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/f0c5e481.json)
 
 ---
 
@@ -208,7 +322,13 @@ Colombo, May 22 (Daily Mirror) - A Bangladeshi national, who owns a team in the 
 
 An official from the Special Investigation Unit for the Prevention of Offenses Relating to Sports at the Sports Ministry confirmed the arrest of the individual, who holds British citizenship.
 
-The suspect is set to be presented in court for further proceedings.
+In April the Dambulla franchise was bought by Imperial Sports Group, led by Bangladeshi entrepreneurs.
+
+The suspect, Tamim Rahman is set to be presented in court for further proceedings.
+
+Tournament Director of the LPL Samantha Dodanwela declined to comment, as the nature of the charges against the franchise co-owner were still unclear.
+
+Members of the International Cricket Council (ICC) were also present at the LPL Player Auction yesterday.
 
 ◼️
 
@@ -282,6 +402,22 @@ The Sri Dalada Maligawa added that the pilgrims will be given to two days of ref
 
 ---
 
+### 'கருடன் திரைப்படத்தை பார்த்து பார்த்து செதுக்கி இருக்கிறோம்' - இயக்குநர் துரை. செந்தில்குமார்
+
+*2024-05-22 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184229) · `ta`
+
+'சசிகுமாரும், உன்னி முகுந்தனும் நண்பர்கள். உன்னி முகுந்தனின் விசுவாசி சூரி.  இந்த மூன்று கதாபாத்திரங்களுக்கு இடையே நடைபெறும் சம்பவங்களும், அது தொடர்பான கதையாடல்களும் தான் 'கருடன்' படத்தின் மையப்புள்ளி' என படத்தின் இயக்குநர் துரை செந்தில்குமார் தெரிவித்திருக்கிறார்.
+
+தமிழ் திரையுலகில் மண் சார்ந்த படைப்புகளை தெரிவு செய்து திரையில் வழங்குவதில் நிபுணர்களாக திகழும் சசிகுமார் -சூரி -உன்னி முகுந்தன் ஆகியோர் ஒன்றிணைந்து நடித்திருக்கும் 'கருடன்' திரைப்படம் இம்மாதம் 31 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+
+இந்நிலையில் இப்படத்தின் இசை மற்றும் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதற்காக சென்னையில் பிரம்மாண்டமாக நடைபெற்ற பிரத்யேக வெளியீட்டு விழாவில் 'மக்கள் செல்வன்' விஜய் சேதுபதி, சிவ கார்த்திகேயன் ஆகியோர் சிறப்பு அதிதிகளாக பங்குபற்றினர்.
+
+...
+
+[Data](articles/68cb9c33.json)
+
+---
+
 ### See if lost your motorcycle and see if
 
 *2024-05-22 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196903) · `si`
@@ -309,6 +445,46 @@ The Minuwangoda police have revealed that the motorcycle used for the murder in 
 [Data](articles/99f78163.json)
 
 [Extended Data](ext_articles/99f78163.ext.json)
+
+---
+
+### வலப்பனையில் சில பகுதிகளில் இரண்டு நாட்களாக மின் விநியோகம் தடை
+
+*2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184226) · `ta`
+
+வலப்பனை ரூப்பாஹா மற்றும் தெரிப்பே பகுதிகளில் கடந்த இரண்டு நாட்களாக மின் விநியோகம் தடைப்பட்டுள்ளது.
+
+நாட்டில் ஏற்பட்டுள்ள தென்மேல் பருவபெயர்ச்சி காலநிலை மாற்றத்தினால் கடும் காற்று, பலத்த மழையூடான வானிலை ஏற்பட்டுள்ளது.
+
+இந்நிலையில், நுவரெலியா மாவட்டத்தில் நுவரெலியா, வலப்பனை, கொத்மலை, ஹங்குராங்கெத்த மற்றும் அம்பகமுவ ஆகிய பிரதேச செயலக பிரிவுகளில் தொடர்ச்சியான மழையும், பலத்த காற்றும் வீசுகிறது.
+
+இதன் காரணமாக வலப்பனையில் நேற்று (21) செவ்வாய்க்கிழமை முதல் இரண்டு நாட்களாக வீசும் கடும் காற்றினால் வலப்பனை ரூபஹா, மற்றும் தெரிப்பெயே ஆகிய பகுதிகளில் வீதி ஓரங்களில் காணப்படும் பாரிய மரங்கள் மின்சார இணைப்பு வயர்கள் மீது சரிந்தும், முறிந்தும் வீழ்ந்து மின் கம்பங்களும் உடைந்துள்ள நிலையில் மின் விநியோகம் முற்றாக தடைப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d3358b07.json)
+
+---
+
+### பாலஸ்தீன தேசத்தை அங்கீகரிக்கப்போவதாக நோர்வே அயர்லாந்து ஸ்பெயின் அறிவிப்பு - தூதுவர்களை மீள அழைக்கின்றது இஸ்ரேல்
+
+*2024-05-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184227) · `ta`
+
+நோர்வே அயர்லாந்து ஸ்பெயின் ஆகிய நாடுகள் பாலஸ்தீன தேசத்தை  அடுத்தவாரம் அங்கீகரிக்கவுள்ளதாக அறிவித்துள்ள நிலையில் இந்த நாடுகளிற்கான தங்கள் தூதுவர்களை இஸ்ரேல் உடனடியாக மீள அழைத்துள்ளது.
+
+பாலஸ்தீன தேசம் என்ற ஒன்று இல்லாமல் மத்தியகிழக்கில் அமைதிநிலவாது  என நோர்வேயின் பிரதமர் ஜொனஸ் கர் ஸ்டோர் தெரிவித்துள்ளார்.
+
+மே 28ம் திகதி நோர்வே பாலஸ்தீன தேசத்தை உத்தியோகபூர்வமாக அங்கீகரிக்கும் எனஅவர் தெரிவித்துள்ளார்.
+
+இரண்டுதேசம் தீர்வே மத்தியகிழக்கில்  அமைதிக்கு அவசியமான விடயம் என தெரிவித்துள்ள பல ஐரோப்பிய நாடுகள் பாலஸ்தீன தேசத்தை அங்கீகரிக்கவுள்ளதாக தெரிவித்துள்ளன.
+
+ஐரோப்பிய ஒன்றியத்தின் உறுப்பினரால்லாத நோர்வே இரண்டு தேசம் தீர்விற்கு உறுதியான ஆதரவை வெளியிட்டு வந்துள்ளது.
+
+இரண்டு தேசம் கொள்கையை ஆதரிக்காத ஹமாஸ் அமைப்பும் ஏனைய பயங்கரவாத குழுக்களும் இஸ்ரேலுமே பயங்கரவாத நடவடிக்கைகளில் ஈடுபட்டுள்ளன என நோர்வே பிரதமர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/dab44ff9.json)
 
 ---
 
@@ -545,6 +721,26 @@ He had arrived at the Katunayake Airport on the 662 airport on the morning of 05
 [Data](articles/5b514181.json)
 
 [Extended Data](ext_articles/5b514181.ext.json)
+
+---
+
+### பொதுமக்கள் பாதுகாப்பு அமைச்சு, குடிவரவு மற்றும் குடியகல்வு திணைக்களம் குறித்து உரிய நடவடிக்கை எடுங்கள் - ஹர்ஷ டி சில்வா சபாநாயகரிடம் வலியுறுத்தல்
+
+*2024-05-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184205) · `ta`
+
+விசா விவகாரம் தொடர்பில் விளக்கமளிக்க குழுவுக்கு முன்னிலையாகுமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சு மற்றும் குடிவரவு,குடியகல்வு திணைக்களத்துக்கு அழைப்பு விடுத்தியிருந்தோம்.
+
+இருப்பினும் இந்நிறுவனங்களின் அரச அதிகாரிகள்  குழுவுக்கு முன்னிலையாகவில்லை.ஆகவே இந்நிறுவனங்களின் செயற்பாடுகள் குறித்து பாராளுமன்றத்தின் ஊடாக உரிய நடவடிக்கைளை முன்னெடுங்கள் என அரசாங்க நிதி தொடர்பான குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற அமர்வில் விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நிலையியற் கட்டளையின் 121 ஆவது பிரிவுக்கு அமைய அரசாங்க நிதி தொடர்பான குழுவுக்கு அரச நிறுவனங்களை அழைத்து விசாரணைகளை முன்னெடுக்கிறோம்.
+
+வி.எப்.எஸ் நிறுவனத்துக்கு விசா விநியோக சேவை வழங்கப்பட்டுள்ளதால்  ஏற்பட்டுள்ள சர்ச்சை குறித்து விளக்கம் கோருவதற்கு பொதுமக்கள் பாதுகாப்பு அமைச்சு,குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தை அரசாங்க நிதி தொடர்பான குழுவுக்கு இன்று  கடந்த 13 மற்றும் 14 ஆம்  திகதிகளில் முன்னிலையாகுமாறு அழைத்திருந்தோம்.
+
+...
+
+[Data](articles/2298c748.json)
 
 ---
 
@@ -2121,241 +2317,5 @@ Of the 211 passengers, 131 passengers were later sent to the destination from an
 [Data](articles/5a54190d.json)
 
 [Extended Data](ext_articles/5a54190d.ext.json)
-
----
-
-### Sarath Fonseka to split from SJB; to run for President
-
-*2024-05-22 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sarath-Fonseka-to-split-from-SJB-to-run-for-President/155-283142) · `en`
-
-Former Army Commander, Field Marshal Sarath Fonseka, has decided to contest for Presidency at the upcoming Presidential election, the Daily Mirror learns.
-
-Sources close to Fonseka said that the current Chairman of the Samagi Jana Balawegaya (SJB) will make a formal announcement in June.
-
-Fonseka is to contest as an independent candidate instead of joining forces with any political party.
-
-Sources claimed that Fonseka has also managed to secure the support of a group of SJB MPs and back-door talks are ongoing with MPs and politicians from other political parties.
-
-The Daily Mirror learns that Fonseka's campaign will look at promoting a corruption free country and also give priority to national security.
-
-The former Army Commander took to the streets during the ‘Aragalaya’ protests and will look to ride on the support he got at the time.
-
-He is also expected to work with intellectuals and prominent personalities during his campaign.
-
-...
-
-[Data](articles/d1b146b7.json)
-
-[Extended Data](ext_articles/d1b146b7.ext.json)
-
----
-
-### Sarath Fonseka to split from SJB; to run for President
-
-*2024-05-22 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-to-split-from-SJB-to-run-for-President/108-283142) · `en`
-
-Former Army Commander, Field Marshal Sarath Fonseka, has decided to contest for Presidency at the upcoming Presidential election, the Daily Mirror learns.
-
-Sources close to Fonseka said that the current Chairman of the Samagi Jana Balawegaya (SJB) will make a formal announcement in June.
-
-Fonseka is to contest as an independent candidate instead of joining forces with any political party.
-
-Sources claimed that Fonseka has also managed to secure the support of a group of SJB MPs and back-door talks are ongoing with MPs and politicians from other political parties.
-
-The Daily Mirror learns that Fonseka's campaign will look at promoting a corruption free country and also give priority to national security.
-
-The former Army Commander took to the streets during the ‘Aragalaya’ protests and will look to ride on the support he got at the time.
-
-He is also expected to work with intellectuals and prominent personalities during his campaign.
-
-...
-
-[Data](articles/ddf316b6.json)
-
-[Extended Data](ext_articles/ddf316b6.ext.json)
-
----
-
-### Political parties brace for polls
-
-*2024-05-22 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Political-parties-brace-for-polls/108-283140) · `en`
-
-Colombo, May 22 (Daily Mirror) - With the presidential elections pending, Sri Lanka Podujana Peramuna (SLPP) is planning to conduct a major rally in Anuradhapura on May 26 and a series of grassroots level meetings afterwards while the minority allies of the opposition weigh in the situation before making a final decision on their support to any prospective candidate.
-
-A top official of the SLPP said it will have 12,000 each by the party’s village level electoral organizations, the youth wing and the women wing after the main rally to be conducted in Talawa, Anuradhapura.
-
-“It means we will have 36,000 meetings altogether to empower the rank and file of our party ahead of the elections. We are ready for any election,” he said.
-
-...
-
-[Data](articles/394c46f4.json)
-
-[Extended Data](ext_articles/394c46f4.ext.json)
-
----
-
-### Trains delayed on main line due to derailment
-
-*2024-05-22 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99370/trains-delayed-on-main-line-due-to-derailment) · `en`
-
-A derailment between Pothuhera and Kurunegala railway stations has reportedly delayed train services on the main line.
-
-An office train plying from Kurunegala to Colombo had derailed in this manner disrupting train services on the main line.
-
-◼️
-
-[Data](articles/ffa03b9d.json)
-
-[Extended Data](ext_articles/ffa03b9d.ext.json)
-
----
-
-### Sri Lanka’s Cinnamon Life begins marketing, accepts bookings
-
-*2024-05-22 07:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-cinnamon-life-begins-marketing-accepts-bookings-164144/) · `en`
-
-ECONOMYNEXT – Cinnamon Life, a high-end 687 room hotel owned by Sri Lanka’s John Keells Holdings has begun marketing and accepting bookings to start operations in the third quarter of 2024 the group said.
-
-In April 2024, the contractors of the project started the handover of the building to enable Cinnamon Life to complete the final stages of furnishing, equipping and other interior works for the rooms and common areas, Chairman Krishan Balendra told shareholders in the annual report.
-
-‘Cinnamon Life’ carried out various activities including participating in international trade fairs, conducting interviews and providing briefings to travel publications, and direct marketing initiatives for selected market segments to increase awareness on the hotel and its offerings, given the impending commencement of operations of the hotel,” Balendra said.
-
-“[T] ‘Cinnamon Life’ hotel commenced accepting bookings for stays and banqueting functions.”
-
-...
-
-[Data](articles/577336bc.json)
-
-[Extended Data](ext_articles/577336bc.ext.json)
-
----
-
-### Heavy rainfall and strong winds expected over the island
-
-*2024-05-22 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99369/heavy-rainfall-and-strong-winds-expected-over-the-island) · `en`
-
-The Meteorology Department says that Southwest monsoon conditions are gradually establishing over the island and hence the prevailing showery and windy conditions will continue further.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces, it said.
-
-Very heavy showers about 150mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts. Heavy showers above 100mm are likely at some places in North-western province and in Mannar, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island.
-
-Strong winds about 40-50 kmph at times are possible in the western slope of the central hills and in Southern province. Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-...
-
-[Data](articles/a2a5f251.json)
-
-[Extended Data](ext_articles/a2a5f251.ext.json)
-
----
-
-### Cocaine from Ababai from Ababai
-
-*2024-05-22 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196889) · `si`
-
-A woman was arrested at Katunayake International Airport with 851kg of cocaine. The Airport Customs made the arrest.
-
-🟩
-
-A woman has been arrested at the Katunayake International Airport with a stock of drugs.
-
-The arrest was carried out by the Airport Customs, where 851 kilograms of cocaine were found in her possession.
-
-◼️
-
-[Data](articles/ab0052b7.json)
-
-[Extended Data](ext_articles/ab0052b7.ext.json)
-
----
-
-### Hindu Federation requests Presidential pardon for Ven. Gnanasara Thera
-
-*2024-05-22 07:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hindu-Federation-requests-Presidential-pardon-for-Ven-Gnanasara-Thera/108-283138) · `en`
-
-Colombo, May 22 (Daily Mirror) - The Hindu Federation of Sri Lanka requested President to grant a Presidential Pardon for Ven. Galagodatte Gnanasara Thera.
-
-In a lettet to the President, they said that some statements and behaviours of Ven. Gnanasara Thera have been misinterpreted or misinformed by certain democratic bodies of the government by known and unknown elements and also mislabeled with the aim of shutting down the democratic voice of the Thera.
-
-They also listed out the services and rendered by Ven. Gnanasara Thero to establish peace among all followers of their respective religious faiths and to eliminate conflicts that may destroy the country's economic, social, and spiritual platforms.
-
-◼️
-
-[Data](articles/359d493a.json)
-
-[Extended Data](ext_articles/359d493a.ext.json)
-
----
-
-### Sri Lanka’s JKH net up 123-pct in Dec quarter amid lower inflation
-
-*2024-05-22 06:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-net-up-123-pct-in-dec-quarter-amid-lower-inflation-164129/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s John Keells Holdings group, which has interests in hotels, logistics and financial services, has reported profits of 7.3 billion rupees for the March 2024 quarter, helped by stronger margins and higher net interest income.
-
-The group reported earnings of 5.17 rupees per share. For the year to March the group reported earnings of 8.06 rupees per share on total profits of 11.2 billion rupees, down 18.1 billion rupees in interim accounts filed with the Colombo Stock Exchange.
-
-Group revenues for the March 2024 quarter was up 19 percent to 86.6 billion rupees including 4.5 billion rupees from the insurance unit.
-
-Cost of sales went up 16 percent to 63.8 billion rupees and gross profits were up 30 percent to 16.7 billion rupees.
-
-Finance costs fell from 5.4 billion rupees to 2.4 billion and finance income went up from 3.4 billion rupees to 71. Billion rupees.
-
-...
-
-[Data](articles/4297c9fd.json)
-
-[Extended Data](ext_articles/4297c9fd.ext.json)
-
----
-
-### A train jumps derails
-
-*2024-05-22 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196888) · `si`
-
-An office train traveling from Kurunegala to Colombo derailed near Pothuhewela, disrupting service between these stations.
-
-🟩
-
-A train was derailed between Pothuhewela and Polgahawela railway stations.
-
-The derailed office train was traveling from Kurunegala to Colombo.
-
-◼️
-
-[Data](articles/6a744252.json)
-
-[Extended Data](ext_articles/6a744252.ext.json)
-
----
-
-### A large rain in many areas today
-
-*2024-05-22 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196886) · `si`
-
-Heavy rainfall expected across Sri Lanka today, with 150mm forecasted in some areas. Showers/thunderstorms predicted in various regions, including the Western, Sabaragamuwa, Middle, North-Western, Southern, and Northern provinces. Southwest monsoon intensifies weather conditions. Strong winds possible in central hills and Southern Province, reaching 40-50 km/h, and 30-40 km/h elsewhere. Public advised to prepare for potential damage.
-
-🟩
-
-The Met Department forecasts that there would be around 150 millimeters in some places in the Western and Sabaragamuwa provinces today.
-
-The department further stated that showers or thundershowers will occur at times in the middle, North-Western, southern and northern provinces.
-
-The announcement also expects the prevailing rain and wind quality due to the extent of the southwest monsoon system through the island.
-
-Meanwhile, showers or thundershowers will occur at several places in the rest of the country.
-
-On the central hills are sitting in the western-balcony and time to time in the Southern Province.. (40-50) Strong winds can occur and from time to time in the rest of the island.. (30-40) can cause strong winds.
-
-The public is also requested to take necessary steps to reduce the damages caused by temporary strong winds and lands.
-
-◼️
-
-[Data](articles/24b98130.json)
-
-[Extended Data](ext_articles/24b98130.ext.json)
 
 ---

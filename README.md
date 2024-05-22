@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 14:04:57**
+As of **2024-05-22 14:18:24**
 
 ## Newspaper Stats
 
-*Scraped **25,678** Articles*
+*Scraped **25,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,202
 adaderanalk | 2,957
-tamilmirrorlk | 2,997
+tamilmirrorlk | 2,999
 virakesarilk | 3,892
 dailymirrorlk | 4,034
-adaderanasinhalalk | 4,101
+adaderanasinhalalk | 4,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,673 (100.0%) of 25,678 articles have been extended.
+25,678 (100.0%) of 25,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### ජනාධිපතිවරණය ගැන ජනපතිගෙන් දැනුම්දීමක්
+
+*2024-05-22 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196902) · `si`
+
+මෙම වසරේ අදාළ කාලසීමාව තුළ ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ඒ සඳහා මුදල් වෙන්කර අවසන් බවය.
+
+◼️
+
+[Data](articles/293b89c8.json)
+
+---
+
+### அத்தியாவசியப் பொருட்களின் விலை குறைப்பு
+
+*2024-05-22 13:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசியப்-பொருட்களின்-விலை-குறைப்பு/175-337698) · `ta`
+
+எதிர்வரும் வெசாக் பண்டிகையை முன்னிட்டு லங்கா சதொசவில் சில அத்தியாவசிய பொருட்களின் விலைகளைக் குறைக்கப்பட்டுள்ளது.
+
+நெத்தலி (தாய்லாந்து) ஒரு கிலோ 145 ரூபாவால் குறைப்பு - புதிய விலை 950.00 ரூபா,
+
+பெரிய வெங்காயம் (இந்தியன்) ஒரு கிலோ 40 ரூபாவால் குறைப்பு - புதிய விலை 250.00 ரூபா,
+
+ஒரு கிலோ கடலை (பெரியது) 38 ரூபாவால் குறைப்பு - புதிய விலை 450.00 ரூபா,
+
+ஒரு கிலோ வெள்ளைச் சீனியின் புதிய விலை 275.00 ரூபாவாகவும் குறைப்பதற்குத் தீர்மானித்துள்ளது.
+
+குறித்த பொருட்களை வாடிக்கையாளர்கள் நாடளாவிய ரீதியிலுள்ள அனைத்து லங்கா சதொச விற்பனை நிலையங்களிலும் புதன்கிழமை (22) முதல் பெற்றுக்கொள்ள முடியுமெனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/62f1b50e.json)
+
+---
 
 ### Presidential poll to be held first, funds already allocated - President tells Cabinet
 
@@ -44,23 +80,47 @@ The President has stated this during the Cabinet meeting held today.
 
 [Data](articles/bf55358f.json)
 
+[Extended Data](ext_articles/bf55358f.ext.json)
+
 ---
 
-### ව්‍යාජ CID SIව කොටුකරගත් මෙහෙයුම
+### Fake CID
 
 *2024-05-22 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196901) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සේවය කරන පොලිස් පරීක්ෂකවරයෙක්  ව්‍යාජ ලෙස පෙනී සිටිමින් කාන්තාවකගෙන් රුපියල් 25,000ක මුදලක් ඉල්ලූ පුද්ගලයෙක්ව කඩවතදී අත්අඩංගුවට ගෙන තිබේ.
+A fake police inspector impersonating a Criminal Investigation Department officer was caught and confiscated Rs 25,000 from a woman he accused of murder in Kadawatha. The arrest followed a tip-off to the Western Provincial Enlightenment officers, revealing his false identity card.
 
-පොලීසිය පවසන්නේ මෙම පුද්ගලයා කඩවත පදිංචි කාන්තාවක් අමතා එම කාන්තාවට මිනී මැරීමේ චෝදනා ඇති බවත් එම චෝදනා සම්බන්ධයෙන් විමර්ශනය කරන්නේ තමන් බවත් පවසා එම කාන්තාවගෙන් රුපියල් 25,000ක් ඉල්ලා ඇති බව වාර්තා වෙයි.
+🟩
 
-ඒ අනුව බස්නාහිර පළාත් බුද්ධි කොට්ඨාසයේ නිලධාරීන් ට ලැබුණු තොරතුරක් මත කඩවත පොලීසියේ නිලධාරීන් විසින් එම සැකකරුව ඊයේ (21) කඩවත දී අත්අඩංගුවට ගෙන තිබේ.
+A police inspector working in the Criminal Investigation Department is fake and seized Rs 25,000 from a woman.
 
-ඔහු සතුව ව්‍යාජ ලෙස සකස්කළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හැඳුනුම්පතක් ද තිබී හමුවී තිබුණි.
+The police say that the man had accuses a woman from Kadawatha and that the woman had accused of murder and the woman had requested Rs. 25,000 from the woman.
+
+The suspect was arrested by the Kadawatha Police officials yesterday (21) following information received by the officers of the Western Provincial Enlightenment.
+
+He had found an identity card of the fake and false criminal investigation department.
 
 ◼️
 
 [Data](articles/6365c5a7.json)
+
+[Extended Data](ext_articles/6365c5a7.ext.json)
+
+---
+
+### 67 வயது நபர் தடியால் தாக்கி கொலை
+
+*2024-05-22 13:45:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67-வயது-நபர்-தடியால்-தாக்கி-கொலை/175-337696) · `ta`
+
+கொழும்பு 13, ஜம்பெட்டா வீதியிலுள்ள 67 வயதுடைய நபர் ஒருவர் அவரது இல்லத்தில் வைத்து தடியால் அடித்துக் கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம், உயிரிழந்த நபர் தனது வீட்டில் தனியாக வசித்து வந்ததாகவும், இவர் டி ஜெஸ்டின் பெர்னாண்டோ என அடையாளம் காணப்பட்டதாகவும் தெரியவந்துள்ளது.
+
+இனந்தெரியாத நபர் ஒருவர் வீட்டினுள் நுழைந்து தடியால் தாக்கி இப்படுகொலையை செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/2da7ddce.json)
 
 ---
 
@@ -83,6 +143,8 @@ Shortly after Norway’s announcement, Ireland’s Prime Minister Simon Harris s
 ...
 
 [Data](articles/4837b293.json)
+
+[Extended Data](ext_articles/4837b293.ext.json)
 
 ---
 
@@ -437,6 +499,8 @@ The driver questions whether it is prohibited to drive a vehicle between these p
 ...
 
 [Data](articles/25ee2ffd.json)
+
+[Extended Data](ext_articles/25ee2ffd.ext.json)
 
 ---
 
@@ -1732,6 +1796,8 @@ He is also expected to work with intellectuals and prominent personalities durin
 
 [Data](articles/ddf316b6.json)
 
+[Extended Data](ext_articles/ddf316b6.ext.json)
+
 ---
 
 ### Political parties brace for polls
@@ -2207,65 +2273,5 @@ Speaking at a press conference at the party headquarters, Herath criticised the 
 [Data](articles/dffd969c.json)
 
 [Extended Data](ext_articles/dffd969c.ext.json)
-
----
-
-### Marikkar foresees Premadasa and AKD as main contenders for Presidential poll
-
-*2024-05-22 04:33:07* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-foresees-Premadasa-and-AKD-as-main-contenders-for-Presidential-poll/56-762088) · `en`
-
-Casts doubts on Ranil Wickremesinghe’s chances, even under SLPP ticket, due to potential lack of support
-
-Says SJB is confident of securing 7 million votes, considering Premadasa’s previous performance and growing support
-
-Highlights AKD’s difficulty in garnering votes needed to win election given his previous vote count
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said SJB leader Sajith Premadasa and National People’s Power (NPP) leader Anura Kumara Dissanayake will be the primary contenders in the upcoming presidential election. He suggested that Ranil Wickremesinghe is unlikely to run or fail to secure enough votes under the Sri Lanka Podujana Peramuna (SLPP) ticket.
-
-Addressing a press conference in Colombo, Marikkar said despite the various tricks by Ranil Wickremesinghe even if Wickremesinghe wins the SLPP tickets its members will not vote for him. “If he works with the minorities, the sinhalese will not vote for him and vice versa,” he said.
-
-...
-
-[Data](articles/e927ca6a.json)
-
-[Extended Data](ext_articles/e927ca6a.ext.json)
-
----
-
-### High-level SL delegation visits Teheran to attend State funeral of late Iranian President
-
-*2024-05-22 04:31:46* · [`dailyftlk`](https://www.ft.lk/news/High-level-SL-delegation-visits-Teheran-to-attend-State-funeral-of-late-Iranian-President/56-762087) · `en`
-
-Foreign Affairs Minister Ali Sabry will lead a high-level delegation to Tehran to attend the State funeral of late President Dr. Seyyed Ebrahim Raisi and Foreign Minister Dr. Amir Abdollahian of the Islamic Republic of Iran today (22), the Ministry of Foreign Affairs said.
-
-Minister Sabry is scheduled to hand over a condolence message from President Ranil Wickremesinghe addressed to the Supreme Leader of Iran. Reflecting the close and cordial bilateral relations, the late President and the Foreign Minister visited Sri Lanka last month.
-
-Member of Parliament M.F.M. Asmi and Additional Secretary/Multilateral Affairs and Middle East of the Foreign Ministry U.L.M. Jauhar will accompany the Foreign Minister in the visit to Tehran.
-
-◼️
-
-[Data](articles/bb01e59e.json)
-
-[Extended Data](ext_articles/bb01e59e.ext.json)
-
----
-
-### Diana hit with contempt case
-
-*2024-05-22 04:30:36* · [`dailyftlk`](https://www.ft.lk/news/Diana-hit-with-contempt-case/56-762086) · `en`
-
-Adding to former State Minister Diana Gamage’s legal woes, a Contempt of Court application was filed before the Supreme Court yesterday, alleging she had disrespected the Apex Court through her comments at a press briefing held on 9 May.
-
-The application was filed by the former Weligama Urban Council Chairman Rehan Jayawickreme through Counsel Tharmaja Tharmaraja.
-
-The application accuses Gamage of making a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
-
-At a press conference following a landmark judgement where the Supreme Court ruled that she is not qualified legally to hold a Parliamentary seat in Sri Lanka, Gamage expressed her refusal to accept the ruling due to the “political conspiracy behind it”.
-
-...
-
-[Data](articles/115240e6.json)
-
-[Extended Data](ext_articles/115240e6.ext.json)
 
 ---

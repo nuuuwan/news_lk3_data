@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 12:51:14**
+As of **2024-05-22 13:03:38**
 
 ## Newspaper Stats
 
-*Scraped **25,657** Articles*
+*Scraped **25,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,78 +13,166 @@ bbccomsinhala | 258
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,386
-economynextcom | 1,478
+economynextcom | 1,479
 dailyftlk | 1,521
 adalk | 2,200
 adaderanalk | 2,956
 tamilmirrorlk | 2,997
 virakesarilk | 3,885
-dailymirrorlk | 4,027
+dailymirrorlk | 4,031
 adaderanasinhalalk | 4,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,652 (100.0%) of 25,657 articles have been extended.
+25,657 (100.0%) of 25,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### பொருளாதார மாற்ற சட்டமூலம் சபையில் சமர்ப்பிக்கப்பட்டது
+### Elderly person beaten to death with stick
+
+*2024-05-22 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elderly-person-beaten-to-death-with-stick/108-283156) · `en`
+
+A 67-year-old person was beaten to death with a stick at his residence on Jampettah Street, Colombo 13, police said.
+
+According to information received by the police, the victim had been living in his house alone and was identified as De Jestine Fernando. His body with injuries was found inside his residence.
+
+Police also said that someone had entered the house and assaulted him to death with a stick.
+
+◼️
+
+[Data](articles/9d96ded4.json)
+
+---
+
+### Police sergeant arrested for alleged sexual assault at canteen
+
+*2024-05-22 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-arrested-for-alleged-sexual-assault-at-canteen/108-283155) · `en`
+
+Bingiriya, May 22 (Daily Mirror) - A police sergeant stationed at the Bingiriya Police has been arrested for allegedly sexually assaulting a woman working in the police canteen.
+
+The incident involves a fifty-year-old woman who operates the canteen within the Bingiriya police station premises.
+
+Police said the suspect was arrested following an investigation after a petition was submitted to the Inspector General of Police regarding the matter.
+
+◼️
+
+[Data](articles/56a79512.json)
+
+---
+
+### The Economic Change Bill was submitted to the House
 
 *2024-05-22 12:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மாற்ற-சட்டமூலம்-சபையில்-சமர்ப்பிக்கப்பட்டது/175-337692) · `ta`
 
-இலங்கையின் பொருளாதார ஆணைக்குழு, முதலீட்டு வலயங்களை நிறுவுதல், இலங்கை பொருளாதாரம் மற்றும் சர்வதேச வர்த்தக நிறுவனத்தை நிறுவுதல் மற்றும் முதலீட்டுச் சபை சட்டத்தை இரத்து செய்தல் போன்றவற்றை வழங்கும் பொருளாதார மாற்ற சட்டமூலம் சற்று முன்னர் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது.
+The Economic Change Bill, including the creation of investment zones and the Sri Lanka Economy and International Trade Organization, replaced the Investment Council Act, was recently submitted to Parliament.
+
+🟩
+
+The Economic Transfer Bill, which issued the Economic Commission of Sri Lanka, the establishment of investment zones, the establishment of the Sri Lanka Economy and the International Trade Organization and the repeal of the Investment Council Act, was submitted to Parliament just before.
 
 ◼️
 
 [Data](articles/1240159d.json)
 
+[Extended Data](ext_articles/1240159d.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதியின் மறைவுக்கு பாராளுமன்றில் இரங்கல்
+### Condolences in Parliament for the demise of Iran's president
 
 *2024-05-22 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184208) · `ta`
 
-ஈரான் ஜனாதிபதி மொஹமட் இப்ராஹிம் ரைஸியின் திடீர் மரணத்திற்கு இரங்கல் தெரிவிக்கும் வகையில் இன்று (22) பாராளுமன்றத்தில் ஒரு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டது.
+In Parliament, a moment of silence honored the passing of Iranian President Mohamed Ibrahim Raisi, led by Minister Prasanna Ranatunga, recalling Iran's support for Sri Lanka's Uma Oya project. Opposition Leader Sajith Premadasa also extended condolences to Iran.
 
-பாராளுமன்ற நடவடிக்கைகள் ஆரம்பிக்கப்படுவதற்கு முன்னர் ஆளும் கட்சியின் பிரதான அமைப்பாளர் அமைச்சர் பிரசன்ன ரணதுங்க இந்த யோசனையை பாராளுமன்றத்தில் முன்வைத்தார்.
+🟩
 
-இந்த பிரேரணையை முன்வைத்த அமைச்சர் பிரசன்ன ரணதுங்க, ஈரான் ஜனாதிபதியின் மறைவுக்கு இரங்கல் தெரிவிப்பதாக தெரிவித்தார்.
+A silent tribute was paid in Parliament today (22) to condole the death of Iranian President Mohamed Ibrahim Raisi.
 
-அண்மையில் இலங்கைக்கு விஜயம் செய்த இறுதி வெளிநாட்டு அரச தலைவர் ஈரான் ஜனாதிபதி என்பதையும் ரணதுங்க நினைவு கூர்ந்தார்.
+Prior to the onset of parliamentary proceedings, the chief organizer of the ruling party Prasanna Ranatunga presented this idea in Parliament.
 
-உமா ஓயா திட்டத்தை நிறைவேற்றுவதற்கு தேவையான ஏற்பாடுகள் மற்றும் ஆதரவை வழங்கியதை நினைவுகூர்ந்த அமைச்சர், ஈரான் ஜனாதிபதியின் மறைவுக்கு பாராளுமன்றத்தில் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தி தனது அனுதாபத்தை தெரிவிக்க முன்வந்தார்.
+Minister Prasanna Ranatunga, who presented the proposal, said he would condole the demise of the Iranian president.
 
-அதன்படி, சபாநாயகர் உட்பட ஆளும்  மற்றும் எதிர்க்கட்சி அமைச்சர்கள் இருக்கையில் இருந்து எழுந்து ஒரு நிமிடம் மெளனமாக இருந்து அஞ்சலி செலுத்தியதையடுத்து, சபை நடவடிக்கைகள் ஆரம்பமாகியன.
+Ranatunga also recalled that the last foreign head of state was the President of Iran, who recently visited Sri Lanka.
 
-...
+Recalling the arrangements and support for the Uma Oya project, the minister offered to express his sympathy in Parliament for a minute of the death of the Iranian president.
+
+Accordingly, the ruling and opposition ministers, including the Speaker, got up from the seat and paid tribute for a minute, and the proceedings began.
+
+Meanwhile, speaking in Parliament, Opposition Leader Sajith Premadasa expressed his condolences to the Iranian government and the people of Irahim Raisi's death.
+
+◼️
 
 [Data](articles/ca8bd9e8.json)
 
+[Extended Data](ext_articles/ca8bd9e8.ext.json)
+
 ---
 
-### விமானத்திற்குள் தூக்கி வீசப்பட்டோம் தலைக்கு மேல் காணப்பட்ட பொருட்களுடன் மோதினோம் - பொருட்கள் அங்குமிங்கும் பறந்தன - சிங்கப்பூர் எயர்லைன்ஸ் மோசமாக குலுங்கிய வேளை ஏற்பட்டஅனுபவங்கள் குறித்து பயணிகள்
+### We were thrown into the plane.
 
 *2024-05-22 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184212) · `ta`
 
-விமானம் குலுங்கியதால் பிரிட்டனைசேர்ந்த 73 வயது ஜெவ்கிச்சன் என்பவர் கொல்லப்பட்டார் அவர் மாரடைப்பால் உயிரிழந்தார் என சந்தேகம் வெளியாகியுள்ளது .
+A plane crash occurred mid-flight, suspectedly due to a heart attack in a passenger. British passenger Anthru Davis described a terrifying scream and severe turbulence. Passengers experienced chaos as the plane descended rapidly. Singapore Airlines expressed condolences and provided medical aid. The flight, carrying 18 passengers including 47 Brits, diverted to Bangkok after over ten hours in Myanmar.
 
-முதல் சில செகண்ட்களில் பயங்கரமான அலறல் சத்தம் கேட்டது என பிரிட்டனை சேர்ந்த அன்ரூ டேவிஸ் தெரிவித்துள்ளார்.
+🟩
 
-என் மேல் கோப்பி காணப்பட்டது மிகவும் கடுமையான விதத்தில் விமானம் குலுங்கியது என அவர் தெரிவித்துள்ளார்.
+It is suspected that a 73 -year -old Jevkichan was killed when he died of a heart attack.
 
-என்ன நடக்கின்றது என அறிந்து நான் அதற்கு தயாரானேன் தீடீரென விமானம் வேகமாக கீழே செல்ல தொடங்கியது தங்கள் ஆசனங்களில் அமர்ந்திருந்த அனைவரும் விமானத்தின் மேற்பகுதியை நோக்கி வீசப்பட்டனர் என 28 வயது ஜவ்ரான் அஸ்மிர் தெரிவித்துள்ளார்.
+British Anthru Davis said he heard the noise of a terrible scream in the first few seconds.
 
-சிலர் பயணபொதிகளை வைக்கின்ற கபின்களில் மோதினர் விளக்குகளும் முகக்கவசங்களும் காணப்படும் பகுதிகளில் மோதி  அதனை சேதப்படுத்தினர் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that the top of my top Kopi was very severe.
 
-நடுவானில் இடம்பெற்ற இந்த சம்பவத்தின் பின்னர் சிங்கப்பூரை நோக்கி பயணித்துக்கொண்டிருந்த பொயிங் 777-300ஈஆர் விமானம் 211 பயணிகள் 18 பயணிகளுடன் தாய்லாந்தின் தலைநகருக்கு திருப்பப்பட்டது.
+Knowing what was happening, I was ready for it. The plane began to get down fast.
+
+He also said that some people collided with lights and facial expressions in the cabin where the passengers were placed.
+
+Following the incident in the middle of the year, Poying 777-300 ER plane, which was traveling to Singapore, was turned to Thailand's capital with 18 passengers.
+
+Singapore Airlines has expressed its sympathy to the deceased who died.
+
+An official of the airline said that the aircraft was on the trip for more than ten hours at Myanmar's Iravati Stadium.
+
+Singapore Airlines said that we are in the process of providing medical treatment to travelers.
+
+Singapore Airlines released the details of passengers on the plane. Of these, 47 were from Britain
 
 ...
 
 [Data](articles/9f1f4d95.json)
+
+[Extended Data](ext_articles/9f1f4d95.ext.json)
+
+---
+
+### Police respond to video on interprovincial travel concerns
+
+*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-respond-to-video-on-interprovincial-travel-concerns/108-283154) · `en`
+
+Colombo, May 22 (Daily Mirror) - In response to a recent social media clip depicting a driver being fined for not transferring vehicle ownership and for not carrying a vehicle registration certificate, which has sparked confusion among the public, the police have issued a clarification on the incident.
+
+In a widely circulated video, a female police officer on traffic duty was seen requesting a driver to provide documents proving ownership of the vehicle, as it was being driven in the Sabaragamuwa Province but registered to an individual in the Central Province.
+
+The driver questions whether it is prohibited to drive a vehicle between these provinces, asserting that he hasn't committed any traffic violations.
+
+...
+
+[Data](articles/40255d29.json)
+
+---
+
+### Donate to save lives...
+
+*2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Donate-to-save-lives/110-283153) · `en`
+
+A blood donation camp was launched today by the Sri Lanka Movement at Gangaramaya Temple in observance of Vesak Poya Day. This marks the fourteenth time the organization has held this event. Pix by Kithsiri de Mel.
+
+◼️
+
+[Data](articles/94072e72.json)
 
 ---
 
@@ -127,6 +215,28 @@ The incident had reportedly occurred while the diplomat was entering the car par
 ...
 
 [Data](articles/05b6af3d.json)
+
+[Extended Data](ext_articles/05b6af3d.ext.json)
+
+---
+
+### Sri Lanka to resume Suraksha student insurance
+
+*2024-05-22 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-suraksha-student-insurance-164207/) · `en`
+
+ECONOMYNEXT – Sri Lanka will resume a student insurance scheme called Suraksha, which it stopped in 2022 due to the economic crisis, President Ranil Wickremesinghe said.
+
+Coverage will extend across all types of schools and includes students from low-income families earning less than 180,000 rupees annually, he said.
+
+“Suraksha student insurance will cover 4.5 million students, offering health, accident, and life insurance. Health benefits include up to Rs. 300,000 for inpatient care, Rs. 20,000 for outpatient services, and critical illness coverage up to Rs. 1.5 million,” the president said on social media platform X (twitter).
+
+“Accident insurance ranges from Rs. 25,000 to Rs. 200,000, covering disabilities. Life insurance provides Rs. 75,000 per child if a parent passes away, with a maximum of Rs. 225,000 per family.”
+
+Wickremesinghe implemented the Suraksha student insurance in 2017 when he was Prime Minister.
+
+...
+
+[Data](articles/d50e09a9.json)
 
 ---
 
@@ -177,6 +287,8 @@ Both the driver and the conductor of the bus have been arrested by police over t
 ◼️
 
 [Data](articles/ffbd0efb.json)
+
+[Extended Data](ext_articles/ffbd0efb.ext.json)
 
 ---
 
@@ -1494,7 +1606,7 @@ Whatever else they possessed, they were told, had been earned in Tamil Eelam and
 
 *2024-05-22 05:22:41* · [`dailyftlk`](https://www.ft.lk/columns/Post-election-AKD-or-no-election-RW/4-762102) · `en`
 
-May Day rallies and massive turnouts for the ones organised by NPP seem to have created panic among older parties that are scrambling for winnable strategies through sustainable coalitions to prevent NPP from capturing power at the next election. In the middle of a raging controversy over whether to hold the General Election first or Presidential Election, the Election Commission has announced that in terms of the Presidential Election Act of 1981, the latter would be held between 17 September and 16 October 2024.
+The darker side of the so-called economic recovery and stability has been casually dismissed. Persisting economic and financial hardship of the ones who actually foot the bill for that recovery is conveniently forgotten. The fact that poverty rate increased during the recovery period and that there is still no sign of that rate falling has been ignored. What is more significant is the fact that many of those who sing the praise of RW are the ones who were originally responsible for causing the economic wreckage. They are currently being sheltered under his wings. To them therefore his defeat at the hands of NPP would spell disaster. Hence, the frantic attempts among party stalwarts to close ranks to rally behind the incumbent leader
 
 ...
 
@@ -2217,137 +2329,5 @@ Five members of the incumbent BASL are under the spotlight for allegedly syphoni
 [Data](articles/34d9771f.json)
 
 [Extended Data](ext_articles/34d9771f.ext.json)
-
----
-
-### 2024-05-21 (Tuesday)
-
-### 'No mixed mechanism'
-
-*2024-05-21 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184176) · `ta`
-
-War-affected mothers in Sri Lanka demand international justice for relatives who surrendered to state security forces, criticizing local investigations and threats from intelligence agencies. They reject a proposed mixed court, advocating instead for an international court with foreign judges. The United Nations recommends a mixed court for investigating war crimes and human rights abuses. Despite evidence of violations, there's been no independent inquiry, leaving victims and their families seeking justice.
-
-🟩
-
-The war -affected mothers have urged the leader of the International Human Rights Organization to provide justice to their relatives who surrendered to the Sri Lankan state security forces during the final war.
-
-Since the end of the war on May 18, 2009, in the 15th year of the Tamil people's denial of justice, the Secretary General of the Amnesty International, Agnes Callarmard, who came to attend the Tamil genocide on Mullivaikkal soilHave insisted.
-
-Mullaitivu District Relatives Association President Marisaresh Eswari said that after the meeting, Mullaitivu district had commented to Agnus Kalamard that he had clarified the threats of the intelligence agencies during the relentless journey of searching for his loved ones for seven years.
-
-...
-
-[Data](articles/f5bbf933.json)
-
-[Extended Data](ext_articles/f5bbf933.ext.json)
-
----
-
-### LPL 2024 The highest bidding players Madisha Pathirana, Isaru Udana, Dasun Shanaka, Karim Janat
-
-*2024-05-21 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184174) · `ta`
-
-In the Lanka Premier League 2024 auction, notable purchases included Madisha Pathirana buying Kalambo Striker owners for $120,000, Isuru Udana acquiring Goal Marwal's owners for $100,000, Dasun Shanaka going to B-Lav Kandy for $85,000, and Karim Janat being bought by Thunders of the Dambers for $80,000. Other significant deals involved Jaffna Kings retaining Mindan Vijayakantha Vyaskant and auctioning off Mervyn Abhinash and Deison Vidusan.
-
-🟩
-
-The Fourth Lanka Premier League (LPL) was auctioned off at the Hilton Hotel in Colombo today (21).
-
-Sri Lankan player Madisha Pathirana bought the Kalambo Striker owners for US $ 120,000 (3 crore 60 lakhs 2,100 rupees).
-
-Former Sri Lankan player Isuru Udana has bought goal Marwal's owners for US $ 100,000 (3 crore 1,750 rupees).
-
-B-Lav Kandy owners bought former Sri Lankan leader Dasun Shanaka for US $ 85,000 (2 crore 55 lakhs 2,172 rupees).
-
-The owners of the Thunders of the Dambers bought the Afghan fast bowler Karim people for US $ 80,000 (2 crore 1,400 rupees).
-
-This is how Jaffna. Leica Jevna Kings, who retains Mindan Vijayakantha Vyaskant, two more Jaffna. The players Mervyn Abhinash and Deison Vidusan were auctioned off.
-
-$ 50,000: Tanjaya de Silva, Jason Behrendov (Jevna Kings), Iftikar Ahmad, Hasmatullah Sasai (Thambulla Thunders), Dunit Wellalake, Rahmanullah Gurbas, Dasin Ahmad, Mujib Urzib Urhmas, Mujib Urzip Mumaz (Kolmbo Strikers)-Live Kandy)
-
-...
-
-[Data](articles/6cf181e8.json)
-
-[Extended Data](ext_articles/6cf181e8.ext.json)
-
----
-
-### Starc stars as Kolkata thrash Hyderabad to reach IPL final
-
-*2024-05-21 23:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starc-stars-as-Kolkata-thrash-Hyderabad-to-reach-IPL-final/108-283124) · `en`
-
-May 21 (AFP) - Mitchell Starc struck three early blows to help Kolkata Knight Riders storm into the IPL final with a eight-wicket thrashing of Sunrisers Hyderabad in Ahmedabad's searing heat on Tuesday.
-
-Two-time champions Kolkata bowled out Hyderabad for 159 as Starc returned figures of 3-34 in the first play-off - qualifier 1 - at the world's biggest cricket stadium.
-
-Starc, a left-arm quick, once again justified his price tag from the December auction after he became the most expensive buy in IPL history when Kolkata got him for $2.98 million.
-
-The figure quickly broke a record after Hyderabad brought Pat Cummins for $2.5 million in the same auction and later made him captain.
-
-Venkatesh Iyer, on 51, and skipper Shreyas Iyer, on 58, remained unbeaten in Ahmedabad as Kolkata achieved their target with 38 balls to spare.
-
-Hyderabad will have another shot at making the final when they clash with the winner of the eliminator in the second qualifier on Friday in Chennai.
-
-...
-
-[Data](articles/7975f07c.json)
-
-[Extended Data](ext_articles/7975f07c.ext.json)
-
----
-
-### Dulan shatters world record at Para Meet
-
-*2024-05-21 23:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dulan-shatters-world-record-at-Para-Meet/108-283123) · `en`
-
-May 21 (Daily Mirror) - Sri Lanka’s Samitha Dulan stole the limelight with a world-record performance on the second day of the World Para Athletic Championships, continued in Kobe, Japan today.
-
-The 33-year-old veteran athlete from Deniyaya won the Silver Medal in the Men’s F44 javelin throw event with a splendid performance of 66.49m.
-
-The 2020 Tokyo Paralympics Games and 2023 Paris World Championships Bronze Medallist set up the world record in his very first attempt and followed up with 63.96m, 53.91m, 59.81m, 56.51m and 65.01m in the next five attempts.
-
-India’s Summit Antil won the Gold Medal while competing in the F64 category with a performance of 69.50m while his teammate Sandeep Chaudhary took the Bronze with an effort of 60.41m.
-
-This was Sri Lanka’s second medal at the World Para Athletic Championships after Indika Gamage won a Bronze Medal in the Men’s 100m T44 event.
-
-...
-
-[Data](articles/4d31900b.json)
-
-[Extended Data](ext_articles/4d31900b.ext.json)
-
----
-
-### Shocking information about ISIS Sri Lankans trapped in India
-
-*2024-05-21 23:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-சிக்கிய-ISIS-இலங்கையர்கள்-குறித்து-அதிர்ச்சி-தகவல்கள்-வெளியாகின/175-337666) · `ta`
-
-ISIS terrorists from Sri Lanka, including a leader linked to Pakistan, were arrested at Ahmedabad airport in India, planning a suicide attack. They were caught with ISIS flags and cash, indicating their intent and funding source. Their arrest follows intelligence gathering and social media tracking, revealing their plot and potential weapon storage locations. Legal proceedings are underway against them under Indian laws.
-
-🟩
-
-Gujarat police say that four Sri Lankan ISIS terrorists who were arrested at the Ahmedabad International Airport in India were also ready to carry out a suicide attack.
-
-Four Sri Lankan people from Sri Lanka to Ahmedabad were arrested on Sunday night at the Ahmedabad Sardar Patel International Airport.
-
-They were arrested by the Gujarat Terrorist Force and presented at a press conference yesterday afternoon.
-
-Accordingly, a 33 -year -old man, Mohamed Nusrat, has been identified as a native of Negombo.
-
-Mohamed Nafran, 27, from Colombo, 43 -year -old Mohamed Rashin and 35 -year -old Mohamed Farish are the other terrorists arrested.
-
-They are reportedly traveling from the country to Ahmedabad by Indigo Airlines.
-
-All four terrorists who used only the Tamil language were investigated by the translator.
-
-From them, the cell phone, the two -country currency notes and the flag of the ISIS have been discovered from one's travel package.
-
-...
-
-[Data](articles/23224b27.json)
-
-[Extended Data](ext_articles/23224b27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 01:03:37**
+As of **2024-05-23 01:18:32**
 
 ## Newspaper Stats
 
-*Scraped **25,785** Articles*
+*Scraped **25,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,103 @@ dailyftlk | 1,521
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,005
-virakesarilk | 3,917
-dailymirrorlk | 4,055
+virakesarilk | 3,918
+dailymirrorlk | 4,056
 adaderanasinhalalk | 4,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,782 (100.0%) of 25,785 articles have been extended.
+25,785 (100.0%) of 25,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### சர்வதேசத்தின் ஒத்துழைப்பின்றி நாட்டை ஒருபோதும் கட்டியெழுப்ப முடியாது - அமைச்சர் பந்துல குணவர்தன
+### இலங்கையில் பின்னடைவான நிலையில் சிறுபான்மையினரின் மத சுதந்திரம் - சர்வதேச மத சுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழு சுட்டிக்காட்டு
+
+*2024-05-23 01:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184268) · `ta`
+
+இலங்கையில் மத சுதந்திரம் என்பது கரிசனைக்குரிய மட்டத்திலேயே காணப்படுவதாகவும், மத சிறுபான்மையினருக்கு எதிரான ஒடுக்குமுறைகள் மற்றும் வன்முறைகள் என்பன மத ரீதியிலான நெருக்கடிகளைத் தீவிரப்படுத்தியிருப்பதாகவும் சர்வதேச மத சுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+
+சர்வதேச மதசுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழுவினால் இலங்கையில் மதசுதந்திரம் மீதான சவால்கள் தொடர்பில் அண்மையில் நிகழ்நிலை முறைமையிலான கருத்துக்கோரல் ஒன்று ஏற்பாடு செய்யப்பட்டிருந்தது. சர்வதேச மதசுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழுவின் பிரதி தவிசாளர் பிரெடெரிக் ஏ.டேவி, ஆணையாளர்களான டேவிட் ஹரி மற்றும் ஸ்டீபன் ஸ்னெக் ஆகிய மூவரடங்கிய குழாம் இதற்குத் தலைமைதாங்கியது.
+
+அதன்படி இலங்கையின் மதசுதந்திர நிலைவரம் தொடர்பில் கருத்து வெளியிட்ட அக்குழாமில் உள்ளடங்கும் பிரதிநிதிகள், 'போர் முடிவுக்குக்கொண்டுவரப்பட்டு 15 வருடங்கள் கடந்துள்ள நிலையில், இன்னமும் இலங்கை அதன் இன, மத வன்முறை வரலாற்றுடனான சமரசத்தைத் தொடர்கின்றது. இலங்கையில் மத சுதந்திரம் தொடர்பான நிலைவரம் கரிசனைக்குரிய மட்டத்திலேயே காணப்படுகின்றது.
+
+...
+
+[Data](articles/a6e536d0.json)
+
+---
+
+### The country can never be built without the cooperation of the international - Minister Bandula Gunawardena
 
 *2024-05-23 00:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184267) · `ta`
 
-சர்வதேசத்தின் ஒத்துழைப்பு இல்லாமல் நாட்டை ஒரு போதும் முன்னேற்ற முடியாது. அதனால்  நாட்டின் அபிவிருத்தி திட்டங்களை முன்னெடுத்து செல்வதற்கு சர்வதேச ரீதியில் கடனுதவிகளை பெற்றுக் கொள்ள நேரும் என ஊடகத்துறை மற்றும் போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Minister Bandula Gunawardena emphasized the importance of international cooperation for Sri Lanka's development, highlighting the need for foreign assistance due to the country's economic challenges since 2001. He criticized the previous government for leading the country towards bankruptcy and praised the current government's efforts to stabilize the economy through legislation like the State Management Liability Act of 2003.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22) இடம்பெற்ற சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டை வங்குரோத்து நிலைக்கு கொண்டு சென்றவர்களால் நாட்டைப் பாதுகாக்க முடியாது.என தெரிவித்து எதிர்க்கட்சியின் பிரதம கொரடாவான லக்ஷ்மன் கிரியெல்ல மாற்று வேலைத் திட்டம் ஒன்றை சபையில் முன் வைத்தார். புதிய அரசாங்கத்திற்கு அதனை முன்னெடுக்க முடியும் என்றும் அவர் தெரிவித்தார். இது முற்றிலும் தவறான எண்ணம்.
+The country can never improve without the cooperation of the international. The Minister of Media and Transport Bandula Gunawardena said that the country's development projects would be obtained internationally.
+
+He said this while addressing the debate on the proposal on Wednesday (22) in Parliament.
+
+Lakshman Kiriella, the prime minister of the opposition, said that the country could not be protected by those who took the country to the bankruptcy.. He said the new government could carry out it. This is a completely misconception.
+
+The country's economy has started traveling towards bankruptcy since 2001. In that case the country's economic growth after independence 1. Found to become 4. The situation was equal to the situation in the country for the past two years. Interest rate increased. Forex rate was unable to control.
 
 ...
 
 [Data](articles/78e29bc6.json)
 
+[Extended Data](ext_articles/78e29bc6.ext.json)
+
 ---
 
-### பெங்களூருவின் தொடர் வெற்றிகளுக்கு முடிவுகட்டிய ராஜஸ்தான் 2ஆவது தகுதிகாணில் ஹைதராபாத்தை சந்திக்கும்
+### Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL
+
+*2024-05-23 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Vesak-AlpachCHathawaya-and-moment-to-moment-living-EDITORIAL/172-283187) · `en`
+
+Millions of Sri Lankans and Buddhists across the world will celebrate their most hallowed festival of Vesak today while participating in various religious ceremonies with pandals, eight-fold lanterns and other decorations.
+
+Traditionally, this doctrine or philosophy has been based on eight precepts: abstaining from killing, abstaining from stealing, abstaining from sexual activity, abstaining from telling lies, abstaining from intoxicating drinks and drugs, abstaining from eating after noon, abstaining from entertainment and beautifying the body and abstaining from using luxurious furniture.
+
+Buddhism was introduced to Sri Lanka on Poson Day by Arahath Mahinda Thero in 236 BC. The focal point of the Poson festival is the Buddhist monastic complex on the mountain of Mihintale, where Arahath Mahinda Thero preached Buddhism to one of the kings, King Devanampiyatissa.
+
+...
+
+[Data](articles/9e4cbcf1.json)
+
+---
+
+### Rajasthan will meet Hyderabad in 2nd qualification
 
 *2024-05-23 00:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184266) · `ta`
 
-அஹமதாபாத், நரேந்த்ர மோடி விளையாட்டரங்கில் புதன்கிழமை (22) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் நீக்கல் போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியை 4 விக்கெட்களால் வெற்றிகொண்ட ராஜஸ்தான் றோயல்ஸ் 2ஆவது தகுதிகாண் போட்டியில் விளையாட தகுதிபெற்றது.
+Rajasthan Royals defeated Royal Challengers Bangalore in the 2nd qualifier of the IPL, ending Bangalore's 6-game win streak. Despite Bangalore's strong start, Rajasthan managed to secure a 4-wicket victory. Virat Kohli, despite his team's loss, made history by becoming the first player to reach 8,000 runs in IPL history.
 
-றோயல் செலஞ்சர்ஸ் பெங்களூரு 6 தொடர்ச்சியான வெற்றிகளுடன் இந்தப் போட்டியை நம்பிக்கையுடன் எதிர்கொண்டது. ராஜஸ்தான் றோயல்ஸ் 4 தொடர்ச்சியான தோல்விகளுடன் இந்தப் போட்டியை சற்று அவநம்பிக்கையுடன் எதிர்கொண்டது.
+🟩
 
-ஆனால் பெங்களூருவின் தொடர் வெற்றிகளுக்கு முடிவுகட்டிய ராஜஸ்தான் அவ்வணியை நொக் அவுட் செய்தது.
+Rajasthan Royals, who won the Royal Challengers Bangalore team by 4 wickets in the 2nd qualifying tournament in the 17th Indian Premier League chapter held at the Narendra Modi Stadium on Wednesday (22).
 
-முதலாவது தகுதிகாண் போட்டியில் கொல்கத்தா நைட் ரைடர்ஸிடம் தோல்வி அடைந்த சன்ரைசர்ஸ் ஹைதராபாத்தை சென்னையில் வெள்ளிக்கிழமை நடைபெறவுள்ள இரண்டாவது தகுதிகாண் போட்டியில் ராஜஸ்தான் றோயல்ஸ் எதிர்த்தாடும்.
+Royal Challengers Bangalore confidently faced the match with 6 consecutive victories. The Rajasthan Royals faced the match with a little more defeat of 4 consecutive defeats.
 
-இந்தத் தோல்வியின் மூலம் றோயல் செலஞ்சர்ஸ் பெங்களூருவினதும் 17 அத்தியாயங்களிலும் அவ்வணிக்காக விளையாடிவந்த விராத் கோஹ்லியினதும் சம்பியனாகும் கனவு மீண்டும் காணல் நீராகிப்போனது.
+But Rajasthan ended up with a series of successes in Bangalore.
+
+Rajasthan Royals will oppose Sunrisers Hyderabad in Chennai on Friday, who lost to Kolkata Knight Riders in the first qualifying match.
+
+With this defeat, the dream of the champion of Royal Challengers Bangalore and 17 chapters, Virat Kohli, who played for them, has come back to see.
+
+However, Virat Kohli set the record of being the first player to score 8,000 runs in IPL history during the match.
+
+Virat Kohli has amassed 8004 Ottades, including 8 centuries and 50 half centuries in 252 matches.
 
 ...
 
 [Data](articles/f3e21d9a.json)
+
+[Extended Data](ext_articles/f3e21d9a.ext.json)
 
 ---
 
@@ -140,21 +190,29 @@ In this case, the Special Gazette Notification is currently underway to confirm 
 
 ---
 
-### தம்புள்ள தண்டர்ஸின் உரிமையாளரின் உரிமைத்துவம் முடிவுறுத்தப்பட்டுள்ளது
+### The owner of the Dambulla Thunders has decided
 
 *2024-05-22 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184265) · `ta`
 
-தம்புள்ளை தண்டர்ஸ் உரிமையாளரின் உரிமைகள் உடன் அமுலுக்கு வரும்வகையில் முடிவுறுத்தப்பட்டுள்ளது /மீளப்பெறப்பட்டுள்ளது என லங்கா பிறீமியர் லீக் அறிவித்துள்ளது.
+Following legal issues involving Tamim Rahman, CEO of Imperial Sports Group, the Dambulla Thunders' owner has exercised their rights, impacting the Sri Lanka Premier League (LPL). The LPL emphasizes maintaining high standards of discipline and sportsmanship, aiming to uphold its values and reputation. Despite unclear allegations against Rahman, the LPL is committed to resolving these matters swiftly to minimize disruptions in the upcoming season, ensuring a competitive and transparent tournament.
 
-இம்பீரியல் ஸ்போர்ட்ஸ் குழுமத்தின் பிரதம நிறைவேற்று அதிகாரி தமிம் ரஹ்மான் எதிர்கொண்ட சட்ட சிக்கல்கள் தொடர்பான அண்மைய விளைவுகளைத் தொடர்ந்து இந்த முடிவு எடுக்கப்பட்டுள்ளது என லங்கா பிறீமியர் லீக் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-ரஹ்மானுக்கு எதிரான குற்றச்சாட்டுகளின் தன்மைகள் தெளிவாக இல்லாத போதிலும் லங்கா பிறீமியர் லீக்கின் நேர்மை மற்றும் சுமூகமான ஓட்டம் மிகவும் முக்கியம் வாய்ந்தது என அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+The Sri Lanka Premier League has announced that the Dambulla Thunders owner has decided to come into effect with the rights of the owner.
 
-எல்.பி.எல்.இன் பெறுமதிகள் மற்றும் நற்பெயர் நிலைநிறுத்தப்படுவதை நோக்கமாகக் கொண்டும் அனைத்து பங்கேற்பாளர்களும் ஒழுக்கம் மற்றும் விளையாட்டுத்திறன் ஆகியவற்றின் உயரிய தரத்தைப் பேணுவதை உறுதிசெய்யும் பொருட்டும் உரிமைத்துவம் முடிவுறுத்தப்பட்டுள்ளது/மீளப்பெறப்பட்டுள்ளது.
+The decision has been taken following the recent consequences of the legal issues faced by Tamim Rahman, Chief Executive Officer of the Imperial Sports Group, said in a statement issued by the Lanka Premier League.
+
+The report further stated that although the characteristics of the allegations against Rahman are unclear, the integrity and smooth flow of the Lanka Premier League is very important.
+
+The right to ensure that all participants are aimed at maintaining the highest quality of discipline and sportsmanship, aimed at establishing LPL values and reputation.
+
+The LPL administration is actively working to solve the consequences of this rights and reconsideration and ensure that the minimum disruption in the next season.
 
 ...
 
 [Data](articles/f8632c54.json)
+
+[Extended Data](ext_articles/f8632c54.ext.json)
 
 ---
 
@@ -2247,49 +2305,5 @@ Speaking further the President said that the money was allocated for this purpos
 [Data](articles/293b89c8.json)
 
 [Extended Data](ext_articles/293b89c8.ext.json)
-
----
-
-### A reduction in the price of essential commodities
-
-*2024-05-22 13:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசியப்-பொருட்களின்-விலை-குறைப்பு/175-337698) · `ta`
-
-Prices of essentials like Netali, large onion, sea, and white Chinese have dropped ahead of Vesak in Lanka Sathosa. For instance, Netali now costs 950, large onion 250, sea 450, and white Chinese 275 rupees. These deals start this Wednesday nationwide.
-
-🟩
-
-The prices of some essential commodities in Lanka Sathosa have been reduced in view of the upcoming Vesak festival.
-
-Netali (Thailand) reduction by 145 rupees - new price 950.00 rupees,
-
-Large onion (Indian) reduction by 40 rupees - new price 250.00 rupees,
-
-Reduction by 38 rupees per kg of sea (large) - new price 450.00 rupees,
-
-The new price of a kilo of white Chinese has been decided to reduce the price of 275.00 rupees.
-
-It is also reported that customers will be able to obtain these items from Wednesday (22) at all Lanka Sathosa outlets in the country.
-
-◼️
-
-[Data](articles/62f1b50e.json)
-
-[Extended Data](ext_articles/62f1b50e.ext.json)
-
----
-
-### Presidential poll to be held first, funds already allocated - President tells Cabinet
-
-*2024-05-22 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99378/presidential-poll-to-be-held-first-funds-already-allocated-president-tells-cabinet) · `en`
-
-President Ranil Wickremesinghe has informed the Cabinet of Ministers that the Presidential Election will be held first during the relevant period this year and that funds have already been allocated for the election.
-
-The President has stated this during the Cabinet meeting held today.
-
-◼️
-
-[Data](articles/bf55358f.json)
-
-[Extended Data](ext_articles/bf55358f.ext.json)
 
 ---

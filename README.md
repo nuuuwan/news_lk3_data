@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 10:04:57**
+As of **2024-05-22 10:18:27**
 
 ## Newspaper Stats
 
-*Scraped **25,610** Articles*
+*Scraped **25,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
-adalk | 2,195
-adaderanalk | 2,949
+adalk | 2,196
+adaderanalk | 2,951
 tamilmirrorlk | 2,989
 virakesarilk | 3,876
 dailymirrorlk | 4,022
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,610 (100.0%) of 25,610 articles have been extended.
+25,610 (100.0%) of 25,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### New regulations to be introduced for cultivating uncultivated land
+
+*2024-05-22 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99372/new-regulations-to-be-introduced-for-cultivating-uncultivated-land) · `en`
+
+State Minister for Social Empowerment Anupa Pasqual, emphasized that new laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment.
+
+The state minister also announced that the government has decided to incorporate a skill or professional stream into the G.C.E. Ordinary Level Examination to promote social empowerment.
+
+The state minister made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC).
+
+...
+
+[Data](articles/17ad06b3.json)
+
+---
+
+### New liquor licenses issued only based on factors such as population, tourist arrivals – state minister
+
+*2024-05-22 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99371/new-liquor-licenses-issued-only-based-on-factors-such-as-population-tourist-arrivals-state-minister) · `en`
+
+Minister of State for Finance Ranjith Siyambalapitiya has said that new liquor licenses will be issued only based on factors such as the country’s population and tourist arrivals.
+
+He said this in response to questions from reporters about allegations that the government is working to transfer 55 of the 100 liquor licenses owned by ‘Sathosa’ to other companies.
+
+“There has never been a time when taxes collected from liquor establishments were so carefully and systematically collected. Also, as alleged, we were not asked to issue liquor licenses belonging to Sathosa.
+
+“I am also informed that the liquor license cannot be leased out to another person even if such requests are made.
+
+“So, the government also aims to control the production of illegal liquor. Also, if liquor license is issued for a particular area, the opinion of the Divisional Secretary and Police must be sought. We will not take any action to grant liquor license to those areas at any time when reasonable objections arise.
+
+...
+
+[Data](articles/a2d79542.json)
+
+---
 
 ### Woman sent to Sri Lanka by drug traffickers
 
@@ -123,6 +159,22 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/41e89c6a.json)
 
 [Extended Data](ext_articles/41e89c6a.ext.json)
+
+---
+
+### කෝටි 20ක කොකේන් සමග පිලිපින සහකාර ගණකාධිවරියක් අල්ලයි
+
+*2024-05-22 08:32:19* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-කොකේන්-සමග-පිලිපින-සහකාර-ගණකාධිවරියක්-අල්ලයි/11-409777) · `si`
+
+රුපියල් කෝටි 20 හෙවත් රුපියල් මිලියන 200 ක් වටිනා කොකේන් මත්ද්‍රව්‍ය තොගයක් රැගත් විදේශීය කාන්තාවක් රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 05/21 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .ඇය පිලිපීනයේ පදිංචි 47 හැවිරිදි සහකාර ගණකාධිකාරීවරියකි .
+
+ඇය ඉතියෝපියාවේ අඩිස් අබාබා නුවර සිට මෙම කොකේන් මත්ද්‍රව්‍ය තොගය රැගෙන ගමන් ආරම්භ කර , කටාර් රාජ්‍යයේ දෝහා වෙත පැමිණ තිබුණි. ඉන්පසුව ඇය එතැන් සිට   05/21 දින පස්වරු 04.30 කටාර් ගුවන් සේවයේ කිව්.ආර්.- 654 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඇය සිය ගමන් මල්ල තුළ  මිරිස් කුඩු , කහ කුඩු සහ පාන් පිටි අඩංගු පාර්සල් 03 ක් සමග කිලෝ ග්‍රෑම් 02 යි ග්‍රෑම් 861 ක් බරැති මෙම  කොකේන් මත්ද්‍රව්‍ය අඩංගු පාර්සල් 03 ක් ද සගවා ගෙන  රැගෙන විත් තිබුණි .
+
+...
+
+[Data](articles/2b184433.json)
 
 ---
 
@@ -2217,69 +2269,5 @@ With elections coming up in Sri Lanka, the World Bank is concerned that reform f
 [Data](articles/b8635da6.json)
 
 [Extended Data](ext_articles/b8635da6.ext.json)
-
----
-
-### Sri Lanka rupee closes slightly stronger at 299.80/95 to US dollar
-
-*2024-05-21 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-slightly-stronger-at-299-80-95-to-us-dollar-164039/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 299.80/95 to the US dollar on Tuesday, from 299.60/75 the previous week, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 9.90/10.05 percent from 10.15/35 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.25/40 percent from 10.45/55 percent.
-
-A bond maturing on 01.07.2028 closed down at 10.60/75 percent from 10.80/90 percent.
-
-A bond maturing on 15.01.2030 closed down at 11.50/70 percent from 11.70/80 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.85/12.00 percent from 11.90/12.05 percent. (Colombo/May21/2024)
-
-◼️
-
-[Data](articles/793556db.json)
-
-[Extended Data](ext_articles/793556db.ext.json)
-
----
-
-### VFS Global hires GB Srithar as head of Tourism Services
-
-*2024-05-21 17:51:00* · [`economynextcom`](https://economynext.com/vfs-global-hires-gb-srithar-as-head-of-tourism-services-164048/) · `en`
-
-ECONOMYNEXT – VFS Global, a service provider for visa services for governments, said it had hired G B Srithar as its Head of Tourism Services.
-
-“His expertise positions him to lead our efforts with our client governments to promote travel, trade, and tourism from key source markets,” Founder and CEO, VFS Global Zubin Karkaria said.
-
-Srithar was previously at the Singapore Tourism Board (STB). He served as the Area Director for South India and Sri Lanka and led the International Marketing and Brand Campaigns teams at STB’s headquarters. As Regional Director he was responsible for the STB’s regional marketing, tourism development, and trade partnership work across India, the Middle East, South Asia, and Africa.
-
-...
-
-[Data](articles/6f13917a.json)
-
-[Extended Data](ext_articles/6f13917a.ext.json)
-
----
-
-### Thai delegation visited Sri Lanka to investigate renewable power cooperation
-
-*2024-05-21 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184147) · `ta`
-
-A Thai delegation, led by Minister Kanjana Wijesekera, visited Sri Lanka to explore renewable energy collaboration. The visit included discussions on power sector policies, investment in renewables, and potential green hydrogen projects. Representatives from various Thai companies and sectors attended, aiming to strengthen bilateral energy ties.
-
-🟩
-
-Minister Kanjana Wijesekera said that a high -level committee comprising Thailand officials and private sector representatives has visited the country to investigate renewable strength cooperation and participated in a special discussion at the Ministry of Power and Power and Energy.
-
-Foreign Ministry, Ministry of Power, Thailand Embassy, Thailand Electricity Company, BTT. Various Thailand companies and private sector officials, including the company and the Global Power Sinherji Public Company Limited, were present.
-
-On the instructions of the Prime Minister of Thailand, the Minister said on his official Twitter page that a group of people in Sri Lanka had come to Sri Lanka to focus on the possibility of investing in future cooperation and renewable strength and especially to focus on electricity generation.
-
-...
-
-[Data](articles/973d2306.json)
-
-[Extended Data](ext_articles/973d2306.ext.json)
 
 ---

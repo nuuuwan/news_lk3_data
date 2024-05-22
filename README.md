@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 04:33:53**
+As of **2024-05-23 04:52:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,807 (100.0%) of 25,808 articles have been extended.
+25,808 (100.0%) of 25,808 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -236,19 +236,25 @@ Following this, Jagath Samarawickrama, who presided over the council, announced 
 
 ---
 
-### தொழிலாளர்களுக்கு இவ்வளவு தான் இறுதி சம்பளம்
+### So much for workers to be the final salary
 
 *2024-05-23 01:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களுக்கு-இவ்வளவு-தான்-இறுதி-சம்பளம்/175-337740) · `ta`
 
-தோட்டத் தொழிலாளர்களின் சம்பள விடயத்தில் தொழில் ஆணையாளரால் குறிப்பிடப்பட்டு, தொழில் அமைச்சரால் வர்த்தமானியில் அறிவிக்கப்படும் தொகையே இறுதி சம்பளமாக அமையும் என்று நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவீத்தார்.
+Finance Minister Ranjith Siyambalapitiya confirmed the final salary increase for plantation workers as announced in the Gazette, addressing concerns raised by Velukumar from the Tamil Progressive Alliance. This follows a three-year wait for a raise, which now stands at Rs 1,700 per day. The Employers Federation has contested this decision.
 
-பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால் பொருளாதாரம், சட்டம் ஒழுங்கு மற்றும் பாதுகாப்பு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பாக கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தின் போது தமிழ் முற்போக்குக் கூட்டணி பாராளுமன்ற உறுப்பினர் வேலுக்குமாரால் எழுப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே நிதி இராஜாங்க அமைச்சர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தோட்டத் தொழிலாளர்களின் தினசரி சம்பளத்தை 1,700 ரூபாய் வரையில் அதிகரித்து மே முதலாம் திகதி வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டது. கடந்த 3 வருடங்களாக அவர்களின் சம்பளம் அதிகரிக்கப்படவில்லை. இந்நிலையில் முதலாளிமார் சம்மேளனம் அந்த வர்த்தமானிக்கு எதிராக வழக்கு தொடர்ந்துள்ளது. இந்த விடயத்தில் அரசாங்கத்தின் நிலைப்பாடு என்ன? என வினவினார்.
+Finance Minister Ranjith Siyambalapitiya has said that the amount of money announced by the Minister of Labor in the Gazette will be the final salary.
+
+In response to a question raised by the Tamil Progressive Alliance Parliamentarian Velukumar, the Minister of Finance was responding to a question raised by the Tamil Progressive Alliance Parliamentarian Velukumar during the debate on the proposal on various issues including economics, law and order and security in Parliament on Wednesday (22).
+
+The daily salary of plantation workers increased by Rs 1,700 to Rs 1,700. Their salary has not been increased for the past 3 years. In this case, the Employers Federation is suing the Gazette. What is the position of the government on this issue?Asked.
 
 ...
 
 [Data](articles/3d0ba380.json)
+
+[Extended Data](ext_articles/3d0ba380.ext.json)
 
 ---
 

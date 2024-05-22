@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 11:34:07**
+As of **2024-05-22 11:53:27**
 
 ## Newspaper Stats
 
-*Scraped **25,628** Articles*
+*Scraped **25,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,472
 dailyftlk | 1,521
 adalk | 2,196
 adaderanalk | 2,954
-tamilmirrorlk | 2,993
+tamilmirrorlk | 2,994
 virakesarilk | 3,880
 dailymirrorlk | 4,022
 adaderanasinhalalk | 4,095
@@ -26,25 +26,51 @@ adaderanasinhalalk | 4,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,626 (100.0%) of 25,628 articles have been extended.
+25,628 (100.0%) of 25,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### தேரருக்கு பொதுமன்னிப்புக் கோரும் இந்து சம்மேளனம்
+### வெசாக்கிற்கு தாமரைக் கோபுரம் பௌத்த கொடி நிறத்தில் ஒளிரும்
+
+*2024-05-22 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்கிற்கு-தாமரைக்-கோபுரம்-பௌத்த-கொடி-நிறத்தில்-ஒளிரும்/175-337683) · `ta`
+
+வெசாக் போயாவை முன்னிட்டு பௌத்த கொடியின் நிறத்தில் தாமரை கோபுரம் ஒளிரும் என கொழும்பு தாமரைக் கோபுர முகாமை நிறுவனம் (தனியார்) தெரிவித்துள்ளது.
+
+அதன்படி நாளை (23) மற்றும் நாளை மறுதினம் (வியாழக்கிழமை 24) கோபுரம் பௌத்த கொடி நிறங்களில் ஒளிரவுள்ளது.
+
+இதற்கிடையில், கோபுரத்தின் முகாமைப் பீடம் வெசாக் காலத்தின் போது அவர்களின் புதிய Pixel Bloom இயக்க நேரத்தை அறிவித்தது.
+
+அதன்படி மே 23ஆம் திகதியிலிருந்து மே 26ஆம் திகதி வரையில் Pixel Bloom பகுதி காலை 9 மணி முதல் அதிகாலை 1 மணி வரையில் இயங்கும்.
+
+மேலும் 26 ஆம் திகதி காலை 9 மணிமுதல் இரவு 10 மணிவரை இயங்கவுள்ளது என புதிய நேரங்கள் அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f2f4c08c.json)
+
+---
+
+### The Hindu Federation demanding the Briths of Thera
 
 *2024-05-22 11:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரருக்கு-பொதுமன்னிப்புக்-கோரும்-இந்து-சம்மேளனம்/175-337682) · `ta`
 
-ஞானசார தேரருக்கு ஜனாதிபதி மன்னிப்பு வழங்குமாறு இலங்கை இந்து சம்மேளனம் ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளது.
+The Sri Lanka Hindu Federation has urged the President to apologize, highlighting misunderstandings about Gnanasara Thera's statements and actions. They praise Thera's efforts to maintain peace and unity within religious communities, aiming to preserve the nation's economic, social, and spiritual integrity.
 
-ஜனாதிபதிக்கு அவர்கள் எழுதிய கடிதத்தில், ஞானசார தேரரின் ஜனநாயகக் குரலை முடக்கும் நோக்கத்துடன் அரசாங்கத்தின் சில ஜனநாயக அமைப்புகளால் ஞானசார தேரரின் சில அறிக்கைகள் மற்றும் நடத்தைகள் தவறாகப் புரிந்து கொள்ளப்பட்டுள்ளது அல்லது தவறாகத் தெரிவிக்கப்பட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-ஞானசார தேரர், அந்தந்த மத நம்பிக்கைகளைப் பின்பற்றுபவர்கள் மத்தியில் சமாதானத்தை நிலைநாட்டவும், நாட்டின் பொருளாதார, சமூக மற்றும் ஆன்மீகத் தளங்களை அழிக்கக்கூடிய முரண்பாடுகளை இல்லாதொழிக்கவும் உழைத்துள்ளதாகவும் அவர்கள் அக்கடிதத்தில் தேரரின் சேவைகளையும் குறிப்பிட்டுள்ளனர்.
+The Sri Lanka Hindu Federation has appealed to the President to apologize for the President.
+
+In their letter to the president, they said that some of the statements and behavior of Gnanasara Thera had been misunderstood or misunderstood by some democratic organizations of the government with the aim of disrupting the democratic voice of Gnanasara Thera.
+
+They have also mentioned the services of Thera in the letter that Gnanasara Thera has worked to uphold peace among the followers of his respective religious beliefs and to eliminate the contradictions that destroy the country's economic, social and spiritual sites.
 
 ◼️
 
 [Data](articles/5d00621f.json)
+
+[Extended Data](ext_articles/5d00621f.ext.json)
 
 ---
 
@@ -110,25 +136,35 @@ The further views further postponed until 31st.
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் மீண்டும் களமிறங்குகிறார் பொன்சேகா
+### Fonseka re -fielded presidential election
 
 *2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
 
-முன்னாள் இராணுவத் தளபதி பீல்ட் மார்ஷல் சரத் பொன்சேகா எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி தேர்தலில் போட்டியிட தீர்மானித்துள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+Field Marshal Sarath Fonseka, ex-Army Commander, contests the presidential election as an independent candidate, backed by SJP MPs and in talks with others. His campaign focuses on combating corruption and prioritizing national security, involving intellectuals and prominent figures. He plans to boost his campaign through a book revealing insights into his military leadership. Despite a request from President Ranil Wickremesinghe's envoy for a meeting, Fonseka remains committed to his electoral bid, aiming for closer ties with India, China, and the US.
 
-ஐக்கிய மக்கள் சக்தி (SJB) இன் தற்போதைய தலைவர் ஜூன் மாதம் இது தொடர்பான முறையான அறிவிப்பை வெளியிடுவார் என்று பொன்சேகாவுக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்தன.
+🟩
 
-பொன்சேகா எந்த அரசியல் கட்சியுடனும் கூட்டு சேராமல் சுயேச்சை வேட்பாளராக போட்டியிட உள்ளார்.
+Former Army Commander Field Marshal Sarath Fonseka has decided to contest the upcoming presidential election, according to Daily Mirror.
 
-எஸ்.ஜே.பி எம்.பி.க்கள் குழுவின் ஆதரவையும் பொன்சேகா பெற முடிந்துள்ளதாகவும், மற்ற அரசியல் கட்சிகளின் எம்.பி.க்கள் மற்றும் அரசியல்வாதிகளுடன் பின்கதவு பேச்சுவார்த்தை நடந்து வருவதாகவும் வட்டாரங்கள் கூறுகின்றன.
+Sources close to Fonseka said that the current leader of the United People's Power (SJB) will issue a formal announcement in June.
 
-பொன்சேகாவின் பிரச்சாரம் ஊழலற்ற நாட்டை ஊக்குவிப்பதுடன் தேசிய பாதுகாப்பிற்கும் முன்னுரிமை அளிக்கும் என்று டெய்லி மிரர் அறிகிறது.
+Fonseka is contesting as an independent candidate without joining any political party.
 
-அவர் தனது பிரச்சாரத்தின் போது புத்திஜீவிகள் மற்றும் முக்கிய பிரமுகர்களுடன் பணியாற்றுவார் என்று எதிர்பார்க்கப்படுகிறது.
+According to sources, Fonseka has been able to obtain the support of the SJP MPs and is in talks with MPs and politicians of other political parties.
+
+The Daily Mirror claims that Fonseka's campaign will promote a corrupt country and prioritize national security.
+
+He is expected to work with intellectuals and prominent figures during his campaign.
+
+The Daily Mirror has stated that the former army commander will try to increase his presidential effort by publishing a book on the war.
+
+The book is expected to reveal information about the conflict and his role as the then Army Commander.
 
 ...
 
 [Data](articles/9ddf6380.json)
+
+[Extended Data](ext_articles/9ddf6380.ext.json)
 
 ---
 
@@ -2297,25 +2333,5 @@ Sri Lanka is planning to complete debt restructuring by June 2024 and to go to t
 [Data](articles/018fc4f1.json)
 
 [Extended Data](ext_articles/018fc4f1.ext.json)
-
----
-
-### Action to open Puttalam District Schools
-
-*2024-05-21 19:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்ட-பாடசாலைகளை-திறக்க-நடவடிக்கை/175-337662) · `ta`
-
-Puttalam district schools, closed due to heavy rains, will reopen tomorrow. However, local education directors may still assess conditions before deciding to open schools.
-
-🟩
-
-Puttalam district schools, which have been closed for the past two days, will be opened tomorrow (22) due to heavy rains.
-
-However, the Director of Education of the North Western Province said that Zonal Education Directors can decide on the opening of schools in view of the prevailing weather.R
-
-◼️
-
-[Data](articles/746acbf6.json)
-
-[Extended Data](ext_articles/746acbf6.ext.json)
 
 ---

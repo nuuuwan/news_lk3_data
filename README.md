@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 22:34:04**
+As of **2024-05-22 22:51:21**
 
 ## Newspaper Stats
 
-*Scraped **25,767** Articles*
+*Scraped **25,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,486
 dailyftlk | 1,521
-adalk | 2,212
-adaderanalk | 2,966
+adalk | 2,213
+adaderanalk | 2,967
 tamilmirrorlk | 3,003
 virakesarilk | 3,911
-dailymirrorlk | 4,052
-adaderanasinhalalk | 4,117
+dailymirrorlk | 4,055
+adaderanasinhalalk | 4,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,766 (100.0%) of 25,767 articles have been extended.
+25,767 (100.0%) of 25,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### Sri Lankan state enterprises open for private sector investments - state minister
+
+*2024-05-22 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99388/sri-lankan-state-enterprises-open-for-private-sector-investments-state-minister) · `en`
+
+State Minister for Urban Development and Housing, Arundika Fernando, announced that state enterprises are now open to private sector investments, but only at the government’s assessed value.
+
+This directive aligns with President Ranil Wickremesinghe’s instruction that state enterprises should not be offered for private sector investments below their assessed value.
+
+State Minister Fernando highlighted the revival of regional development projects that were previously halted due to economic difficulties.
+
+He made these remarks at a press briefing held at the Presidential Media Centre today (22), under the theme ‘Collective Path to a Stable Country.’
+
+“The government has granted authorization to seek investors for various enterprises falling under the purview of the Ministry of Urban Development and Housing, with the aim of ensuring their systematic maintenance.
+
+...
+
+[Data](articles/ed350db5.json)
+
+---
+
+### වතු සේවක දෛනික වැටුප ඉහළ දමමින් ගැසට් නිවේදනයක්
+
+*2024-05-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196920) · `si`
+
+වතු කම්කරුවන්ගේ දෛනික අවම වැටුප රුපියල් 1,700ක් ලෙස නියම කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+වතු කම්කරු වැටුප රු 1700ක් කරමින් ගැසට් නිවේදනයක් by poornima on Scribd
+
+◼️
+
+[Data](articles/fb221730.json)
+
+---
+
+### Sri Lankan-born Olympic champion swimmer Wilkie dies aged 70
+
+*2024-05-22 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-born-Olympic-champion-swimmer-Wilkie-dies-aged-70/108-283180) · `en`
+
+May 22 (BBC) - British Olympic swimming champion David Wilkie has died at the age of 70.
+
+The Scot won 200m breaststroke gold in Montreal in 1976, as well as two Olympic silver medals and three world titles.
+
+His family released a statement saying: “It is with great sadness that the family of David Wilkie MBE announce that he died peacefully surrounded by his family this morning, following his brave battle with cancer.”
+
+Born in Sri Lanka to Scottish parents, Wilkie won his first major medal with a bronze at the 1970 Commonwealth Games in Edinburgh.
+
+He collected Olympic silver in Munich in 1972 and won World Championship gold the following year.
+
+Wilkie added three more Commonwealth medals for Scotland, including two golds, in 1974.
+
+In 1975, he completed a 100m and 200m breaststroke double at world level and was voted British Sports Personality of the Year.
+
+...
+
+[Data](articles/3f1d0cde.json)
+
+---
+
+### SJB trying to copy our economic policies: Hadunnetti
+
+*2024-05-22 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-trying-to-copy-our-economic-policies-Hadunnetti/108-283178) · `en`
+
+Colombo, May 22 (Daily Mirror)- Claiming that they have no issues in haiving a debate with the Samagi Jana Balawegaya (SJB) economic council, NPP economic council member Sunil Handunetti said today the SJB was trying to convince society that they are also ready to implement the economic policies of the NPP.
+
+He told a news conference of the NPP economic council that the SJB has started to repeat the same economic facts uttered by the NPP.
+
+Hadunnetti said he, Harsha De Silva, Eran Wickramaratne and Kabir Hashim had participated in a number of TV debates and that later they had change what they had said earlier.
+
+The SJB was trying to convince the society that they are also ready to implement the same economic policies of the NPP and added that they appear before the people with the NPP's economic policies.
+
+...
+
+[Data](articles/82cc7443.json)
+
+---
 
 ### President announces special govt program for welfare of retired war veterans
 
@@ -52,23 +128,47 @@ The President emphasized the government’s commitment to the welfare of retired
 
 ---
 
-### සමාජ මාධ්‍ය කැලඹූ වීඩියෝවේ ඇත්ත මෙන්න
+### Here is the truth in social media the turbulent video
 
 *2024-05-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196918) · `si`
 
-අවිස්සාවේල්ල සිට ගලිගමුව දක්වා ධාවනය වෙමින් පැවති ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමේ පොලිස් නිලධාරිනියක් සහ රියදුරෙකු අතර වූ මතභේදාත්මක කතාබහක් සහිත වීඩියෝවක් සමාජ මාධ්‍යජාලවල මේ වනවිට සංසරණය වෙයි.
+A viral video shows a heated exchange between a police officer and a three-wheeler driver in Sri Lanka. Police claim the video is edited, highlighting discrepancies like different addresses and licenses. The driver faces a fine under a court order.
 
-මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පැවසුවේ, එම වීඩියෝව සංස්කරණය කරන ලද්දක් බවය.
+🟩
 
-පින්දෙණිය පොලීසියේ සේවයේ නියුතු පොලිස් නිලධාරිනියක සහ ත්‍රීරෝද රථ රියදුරෙකු අතර මෙම සිද්ධිය ඇතිවී තිබුණි.
+A controversial talk between a police officer and a driver of a three-wheeler from Avissawella to Galigamuwa is currently circulated in the social media.
 
-මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා,
+Police Media Spokesperson, DIG's, spokesman Nihal Talduuwa said that the video was edited.
 
-රියදුරු වශයෙන් සිට ඇත්තේ තවත් පුද්ගලයෙක්. අදායම් බලපත්‍රයේ සහ රක්ෂණ සහතිකයේ ලිපිනයද වෙනස්. රියදුරු තවත් ප්‍රදේශයක පදිංචිකරුවෙක්. මේ කරුණු නිසා නිලධාරීන්ට සැකයක් මතුවෙලා. රථයේ හිමිකාරීත්වය පවරා නොගැනීම සම්බන්ධයෙන්. අධිකරණයේ නියෝගය පරිදි රු. 5,000ක දඩයක් ගෙවීමට සිදුවුණි."
+The incident had occurred between a police officer and three-wheeler driver at the Tendeniya police officer.
+
+Police Media Spokesperson, DIG's Pressure, Thadduwa, speaking to this
+
+The driver has been as another person. The revenue license and the address of the insurance certificate is different. The driver is a resident of another area. These factors have been doubtful. Regarding the consent of the vehicle. According to the court order. 5,000 had to pay a fine. "
 
 ◼️
 
 [Data](articles/d714336d.json)
+
+[Extended Data](ext_articles/d714336d.ext.json)
+
+---
+
+### Theft ring supplying motorcycle to underworld uncovered
+
+*2024-05-22 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Theft-ring-supplying-motorcycle-to-underworld-uncovered/108-283179) · `en`
+
+Katunayake, may 22 (Daily Mirror)- Following the arrest of two young men found in possession of eleven stolen motorcycles, Minuwangoda police have uncovered a motorcycle theft ring supplying stolen bikes to the underworld.
+
+The suspects, now under interrogation by police, were detained under a magistrate’s order from Minuwangoda.
+
+The suspects have been identified as Subasinghe Arachchige Tharindu Jude Lakmal Perera, also known as Kehelbarra Jude, and Wickremahetto Konthilage Hasitha Prasad Kumara, also known as Pathagahawatte Sudda, both from Udugampola.
+
+The investigation began when one of the suspects was apprehended while fleeing after stealing a motorcycle in Dewalapola, Minuwangoda. Under interrogation, he revealed details of the broader theft operation.
+
+...
+
+[Data](articles/d0a37a8c.json)
 
 ---
 
@@ -1370,6 +1470,22 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 
 ---
 
+### රාජ්‍ය නිලධාරීන් පිරිසක් පාර්ලිමේන්තු වරප්‍රසාද කඩකරපු හැටි හර්ෂ කියයි
+
+*2024-05-22 15:32:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-නිලධාරීන්-පිරිසක්-පාර්ලිමේන්තු-වරප්‍රසාද-කඩකරපු-හැටි-හර්ෂ-කියයි/11-409789) · `si`
+
+මෙරටට පැමිණෙන විදේශිකයන් සඳහා ඔන්ලයින් වීසා නිකුත් කිරීම සම්බන්ධයෙන් සාකච්ඡා කිරීමට කමිටුව හමුවට මහජන ආරක්ෂක අමාත්‍යාංශයේ සහ ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් පැමිණෙන බවට සඳහන් කර පසුව නොපැමිණීම පාර්ලිමේන්තුවේ වරප්‍රසාද උල්ලංඝනය කිරීමක් බව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී අචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+ඒ අනුව මේ පිළිබඳ සුදුසු ක්‍රියාමාර්ගයක් ගන්නා ලෙස කථානායකවරයාට පවසන බව අද (22දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+
+"අපි කතා කරලා තිබුණා සාකච්ඡාවක්. ඒක පළවෙනි දවසේ කරගන්න බැරි වුණු නිසා දෙවැනි දිනයටත් කැඳවනු ලබුවා. එහිදී මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්තුමාට අපි දවස් කිහිපයක් යෝජනා කළා. ඔහු සමග එකඟ වෙලා තමයි අපි දිනය තීරණය කළේ. දැන් මේක තිබුණේ පසුගිය 14 වැනිදා. ඊට කලින් දවසේ පාර්ලිමේන්තුව ඉවරවුනාට පස්සේ හවස 6.15ට ලියුමක් එවනවා එන්න බෑ කියලා. ඒත් එනවා කියලා කලින් ලියුම එවලා තිබුණා. ඊට පස්සේ මගෙන් අහලා තිබුණා භාරගන්න පුළුවන්ද කියලා.
+
+...
+
+[Data](articles/c8666a1e.json)
+
+---
+
 ### Rahiman arrested for rahman associated with Dambulla thunders
 
 *2024-05-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196909) · `si`
@@ -2169,139 +2285,5 @@ Subsequently, the first pages of the Weerakesari magazines published on May 22 a
 [Data](articles/d1a49807.json)
 
 [Extended Data](ext_articles/d1a49807.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-22 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184215) · `ta`
-
-US Dollar buying rate: Rs 294.8231; selling rate: Rs 304.4801 as per May 22 Central Bank update.
-
-🟩
-
-The US dollar purchasing price was Rs 294.8231 and the sales price were Rs 304.4801 based on the currency exchange rate released by the Central Bank on Wednesday (May 22).
-
-◼️
-
-[Data](articles/eb78abae.json)
-
-[Extended Data](ext_articles/eb78abae.ext.json)
-
----
-
-### The Vice President of the Commission on Anti -Corruption and Civil Rights
-
-*2024-05-22 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184210) · `ta`
-
-Meeting held in Parliament discusses introducing Sri Lanka's powerful Anti-Corruption Act and Integrity Assessment System to combat bribery and corruption, emphasizing independence and international cooperation.
-
-🟩
-
-The meeting between the Deputy Chairman of the South Korea Anti-Corruption and the Civil Rights Commission, the Secretary General of the Commission and the Secretary General of the Chung Seung-Yun, was held in Parliament on Tuesday (21).
-
-He added that the Anti -Corruption Act passed in Sri Lanka last year is the most powerful law and is ready to introduce the Integrity Assessment System in Sri Lanka to prevent bribery and corruption.
-
-He said that the anti -corruption law passed in Sri Lanka is completely independent and that the Commission to Investigate Bribery and Corruption is an independent.
-
-The Speaker also said that it is expected to work with other supported countries.
-
-In addition, the process of the anti -corruption law and the nature of the investigation into South Korea has been discussed and the need to raise awareness among the people of this country on bribery and corruption.
-
-...
-
-[Data](articles/fc4b7dd9.json)
-
-[Extended Data](ext_articles/fc4b7dd9.ext.json)
-
----
-
-### Elderly person beaten to death with stick
-
-*2024-05-22 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elderly-person-beaten-to-death-with-stick/108-283156) · `en`
-
-A 67-year-old person was beaten to death with a stick at his residence on Jampettah Street, Colombo 13, police said.
-
-According to information received by the police, the victim had been living in his house alone and was identified as De Jestine Fernando. His body with injuries was found inside his residence.
-
-Police also said that someone had entered the house and assaulted him to death with a stick.
-
-◼️
-
-[Data](articles/9d96ded4.json)
-
-[Extended Data](ext_articles/9d96ded4.ext.json)
-
----
-
-### Yall. University Democratic Employees Union
-
-*2024-05-22 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184214) · `ta`
-
-In Jaffna, the University Democratic Employees Union protested for better wages, led by non-academic staff. They highlighted the importance of the MCA allowance increase amidst economic challenges.
-
-🟩
-
-Jaffna, who is working on a variety of demands, including salary increases. The protest was launched by the University Democratic Employees Union today.
-
-University non -academic staff, who marched from the university campus, took part in the protest at the main entrance of the university.
-
-“Considering the economic situation of the employee, the MCA allowance has increased, and the protesters have been carrying out the words written by the non -academic staff.
-
-The Democratic Employees Union, along with the union coalition, organized the protest.
-
-◼️
-
-[Data](articles/866450ee.json)
-
-[Extended Data](ext_articles/866450ee.ext.json)
-
----
-
-### Condolences in Parliament for the demise of Iran's president
-
-*2024-05-22 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184208) · `ta`
-
-In Parliament, a moment of silence honored the passing of Iranian President Mohamed Ibrahim Raisi, led by Minister Prasanna Ranatunga, recalling Iran's support for Sri Lanka's Uma Oya project. Opposition Leader Sajith Premadasa also extended condolences to Iran.
-
-🟩
-
-A silent tribute was paid in Parliament today (22) to condole the death of Iranian President Mohamed Ibrahim Raisi.
-
-Prior to the onset of parliamentary proceedings, the chief organizer of the ruling party Prasanna Ranatunga presented this idea in Parliament.
-
-Minister Prasanna Ranatunga, who presented the proposal, said he would condole the demise of the Iranian president.
-
-Ranatunga also recalled that the last foreign head of state was the President of Iran, who recently visited Sri Lanka.
-
-Recalling the arrangements and support for the Uma Oya project, the minister offered to express his sympathy in Parliament for a minute of the death of the Iranian president.
-
-Accordingly, the ruling and opposition ministers, including the Speaker, got up from the seat and paid tribute for a minute, and the proceedings began.
-
-Meanwhile, speaking in Parliament, Opposition Leader Sajith Premadasa expressed his condolences to the Iranian government and the people of Irahim Raisi's death.
-
-◼️
-
-[Data](articles/ca8bd9e8.json)
-
-[Extended Data](ext_articles/ca8bd9e8.ext.json)
-
----
-
-### Police sergeant arrested for alleged sexual assault at canteen
-
-*2024-05-22 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-arrested-for-alleged-sexual-assault-at-canteen/108-283155) · `en`
-
-Bingiriya, May 22 (Daily Mirror) - A police sergeant stationed at the Bingiriya Police has been arrested for allegedly sexually assaulting a woman working in the police canteen.
-
-The incident involves a fifty-year-old woman who operates the canteen within the Bingiriya police station premises.
-
-Police said the suspect was arrested following an investigation after a petition was submitted to the Inspector General of Police regarding the matter.
-
-◼️
-
-[Data](articles/56a79512.json)
-
-[Extended Data](ext_articles/56a79512.ext.json)
 
 ---

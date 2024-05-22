@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 03:33:40**
+As of **2024-05-23 03:51:48**
 
 ## Newspaper Stats
 
-*Scraped **25,801** Articles*
+*Scraped **25,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,488
-dailyftlk | 1,527
+dailyftlk | 1,531
 adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,007
@@ -26,11 +26,77 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,801 (100.0%) of 25,801 articles have been extended.
+25,801 (100.0%) of 25,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### High Commission facilitates repatriation of 1,732 illegal Lankan migrants from Malaysia
+
+*2024-05-23 02:44:57* · [`dailyftlk`](https://www.ft.lk/news/High-Commission-facilitates-repatriation-of-1-732-illegal-Lankan-migrants-from-Malaysia/56-762146) · `en`
+
+The Sri Lanka High Commission in Malaysia successfully facilitated the repatriation of 1,608 Sri Lankan illegal migrants.
+
+This operation was conducted in coordination with the Malaysian Government’s Migrant Repatriation Program over a two-month period from 1 March to 30 April.
+
+Before the start of this repatriation program, from 1 January to 28 February, the High Commission facilitated the repatriation of 124 illegal migrants who were stranded in Malaysia with various difficulties. This brings the total number of repatriations to 1,732.
+
+The Migrant Repatriation Program which was initiated by the Malaysian Government, aims to assist illegal immigrants in voluntarily returning to their home countries by providing legal exemptions and financial relief. The High Commission of Sri Lanka played a pivotal role in ensuring that Sri Lankan nationals take full advantage of the program.
+
+...
+
+[Data](articles/70d8bbf2.json)
+
+---
+
+### Parliament observe one minute silence for Iranian President
+
+*2024-05-23 02:38:18* · [`dailyftlk`](https://www.ft.lk/news/Parliament-observe-one-minute-silence-for-Iranian-President/56-762145) · `en`
+
+Parliament yesterday observed a minute silence for late Iranian President Ebrahim Raisi and others who were killed in a helicopter crash on Sunday.
+
+Observing of a minute’s silence was proposed by Chief Government Whip Prasanna Ranatunga.
+
+The Government declared Monday (21) a national mourning day in respect of the late Iranian President. Flags at all State institutions, ministries and departments should fly at half-mast today, Public Administration, Home Affairs, Provincial Councils and Local Government Ministry Secretary Pradeep Yasaratne informed.
+
+◼️
+
+[Data](articles/9f4b629a.json)
+
+---
+
+### President condoles demise of Iranian counterpart
+
+*2024-05-23 02:37:37* · [`dailyftlk`](https://www.ft.lk/news/President-condoles-demise-of-Iranian-counterpart/56-762144) · `en`
+
+Following the arrival from Indonesia after an official tour, President Ranil Wickremesinghe yesterday paid a visit to the Iranian Embassy in Colombo to extend his condolences on the untimely tragic passing of the late Iranian President Ebrahim Raisi.
+
+Upon arrival at the Embassy, President Wickremesinghe was warmly received by the Iranian Ambassador to Sri Lanka, Dr. Alireza Delkhosh, and the Embassy staff.
+
+During his visit, the President engaged in brief conversation with the Iranian Ambassador and others present, conveying his heartfelt condolences on behalf of the Sri Lankan Government and himself to the Iranian Government and people, for the loss of the Late President Ebrahim Raisi.
+
+◼️
+
+[Data](articles/e2132ba7.json)
+
+---
+
+### New regulations to make uncultivated land productive
+
+*2024-05-23 02:35:10* · [`dailyftlk`](https://www.ft.lk/business/New-regulations-to-make-uncultivated-land-productive/34-762143) · `en`
+
+State Minister for Social Empowerment Anupa Pasqual on Tuesday emphasised that new laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment.
+
+The State Minister also announced that the Government has decided to incorporate a skill or professional stream into the G.C.E. (Ordinary Level) Examination to promote social empowerment.
+
+The State Minister made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC).
+
+...
+
+[Data](articles/75926eea.json)
+
+---
 
 ### Swords cut between youths including police officer in Jaffna
 
@@ -2183,101 +2249,5 @@ This petition is Sampath Abeykoon and P. The order was called before the Bench o
 [Data](articles/14f82a2c.json)
 
 [Extended Data](ext_articles/14f82a2c.ext.json)
-
----
-
-### Government should take steps to reduce electricity tariff
-
-*2024-05-22 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184236) · `ta`
-
-Sajith Premadasa urges the government to lower electricity tariffs due to increased power generation from higher water levels in reservoirs like Kasalri, Mousecal, Victoria, Randenigala, and Samanala Veva. The Sri Lanka Public Utilities Commission has requested proposals from the Electricity Board 2 to decrease power unit prices, but no proposals have been submitted yet. The government is urged to act swiftly to pass on the benefits of increased hydroelectricity production to consumers.
-
-🟩
-
-Opposition Leader Sajith Premadasa has called for the government to take immediate steps to reduce the electricity tariffs of the electricity consumers in accordance with the increased power generation.
-
-Due to heavy rains in the country, water levels for power generation have increased. Water levels have increased in the reservoirs of Kasalri and Mousecal, Victoria, Randenigala and Samanala Veva.
-
-In this case, the Sri Lanka Public Utilities Commission has asked the Electricity Board 2 to submit proposals to reduce the price of a power unit.. However, the Electricity Board has not yet submitted the proposals.
-
-The Sri Lanka Public Utilities Commission and the Ceylon Electricity Board (CEB) and the Ceylon Electricity Board (CEB) should take steps to provide this benefit to the Electricity Consumers, while the hydroelectricity level from 15-20 per cent has increased by 31 per cent this month.
-
-...
-
-[Data](articles/2519d893.json)
-
-[Extended Data](ext_articles/2519d893.ext.json)
-
----
-
-### Grama Niladhari wages and allowances
-
-*2024-05-22 15:20:13* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරි-වැටුප්-හා-දීමනා-ඉහළට/11-409787) · `si`
-
-Cabinet approved wage hike for over 13,000 Grama Niladhari officers in Sri Lanka, increasing basic salaries from Rs. 28,940 to Rs. 30,140. Additionally, monthly office allowances vary based on location, ranging from Rs. 1,000 to Rs. 3,000. The enhancement includes annual statious allowance of Rs. 1,500 to Rs. 3,000, effective from April 1, 2011. This decision was part of broader discussions on improving benefits such as uniforms, travel, and communication allowances.
-
-🟩
-
-The Cabinet approval has been granted to over 13,000 Grama Niladhari and the Cabinet to enhance the Sri Lanka Grama Niladhari Service.The Minister of Home Affairs Asoka Priyantha revealed to the Parliament on 2224.05.2012 on behalf of the Minister of Public Administration, Home Affairs, Provincial Councils and Local Government.
-
-Accordingly, a new salary code called GN is owned by the Grama Niladhari and the basic salary of a Grama Niladhari joins the new service Rs.. 28,940 to Rs. Will rise up to 30,140. Basic salary of a Grade 2 Grama Niladhari Service to Rs.. Monthly office allowance within the respective Pradeshiya Sabha limit. From 1000 to 2000, municipal limits. 1500 to 3000, Annual Statious allowance is Rs.. 1500 to Rs. Cabinet approval has been paid to 3000 and implementing from 01.04.04.2011.
-
-Increasing other uniforms, travel, communication offers, the Secretary of the Ministry of Public Administration has also set to discuss the budgetary spending.
-
-...
-
-[Data](articles/2f6e9fb6.json)
-
-[Extended Data](ext_articles/2f6e9fb6.ext.json)
-
----
-
-### The government is not going to carry out a debt restructuring - Lakshman Kiriella
-
-*2024-05-22 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184231) · `ta`
-
-Lakshman Kiriella criticizes the government for failing to implement laws effectively, citing examples like the lack of action against a lawmaker accused of assaulting an airport employee. He also mentions the government's avoidance of the UN Human Rights Council due to potential accountability issues. Kiriella argues that the government's inability to uphold the rule of law and its reluctance towards debt restructuring until after the presidential election hinder economic development.
-
-🟩
-
-The agreement with the IMF on debt restructuring is not going to end the presidential election until the presidential election is over. This is because the debt does not need to pay until the debt is not reorganized.
-
-The government that has made the country the country cannot build the economy of the country.
-
-He said this while addressing the adjournment of the House in Parliament on Wednesday (22).
-
-The President recently said that the government has passed 75 new laws during this period.
-
-It is true. But even if the laws are allowed, they are not properly implemented. Over the past few years, the law has been established only for the government. The current chief justice king has filed 42 cases during the Good Governance. But the Gotabhaya government did not know what happened to the cases after the arrival of the government.
-
-We recently found a Member of Parliament attacked an ordinary employee at the Katunayake airport.
-
-...
-
-[Data](articles/db1baea2.json)
-
-[Extended Data](ext_articles/db1baea2.ext.json)
-
----
-
-### Arrested for a Sri Lankan Premier League Team owner
-
-*2024-05-22 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184237) · `ta`
-
-A British-Bangladeshi man, who owns a Sri Lankan Premier League team, was arrested at Bandaranaike International Airport for alleged involvement in sports-related crimes. The arrest was made by a special investigation unit tasked with preventing such offenses in the sports sector, under the Ministry of Sports' supervision.
-
-🟩
-
-A special investigation unit has arrested a British citizen of Bangladesh at the Bandaranaike International Airport.
-
-It is reported that he is also the owner of a Lanka Premier League team on charges of involvement in the game.
-
-He is reportedly arrested by the Investigation Unit of preventing crimes related to the sports sector appointed by the Ministry of Sports.
-
-◼️
-
-[Data](articles/f0c5e481.json)
-
-[Extended Data](ext_articles/f0c5e481.ext.json)
 
 ---

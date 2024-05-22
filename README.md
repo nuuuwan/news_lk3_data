@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 10:52:25**
+As of **2024-05-22 11:04:45**
 
 ## Newspaper Stats
 
-*Scraped **25,615** Articles*
+*Scraped **25,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,51 @@ adaderanalk | 2,952
 tamilmirrorlk | 2,989
 virakesarilk | 3,876
 dailymirrorlk | 4,022
-adaderanasinhalalk | 4,092
+adaderanasinhalalk | 4,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,613 (100.0%) of 25,615 articles have been extended.
+25,615 (100.0%) of 25,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### බස් රථයකට යටවී පාසල් සිසුවියක් මරුට
+### ඉරාන තානාපතිට පහරදුන් බවට සැක ව්‍යාපාරිකයාට ඇප
+
+*2024-05-22 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196896) · `si`
+
+මෙරට ඉරාන තානාපතිට පහරදුන් බවට සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි ව්‍යාපාරිකයා ඇප මත මුදාහැර තිබේ.
+
+ඒ සැකකාර ව්‍යාපාරිකයා අද කොටුව මහේස්ත්‍රාත් කෝසල සේනාධීර මහතා හමුවට ඉදිරිපත් කිරීමේ අනතුරුවය.
+
+කොළඹ ප්‍රධාන සාප්පු සංකීර්ණයක රථගාලක් තුළදී මෙරට ඉරාන තානාපතිට පහරදුන් බවට සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටියේය.
+
+◼️
+
+[Data](articles/79ff0665.json)
+
+---
+
+### Schoolgirl killed in submerged bus
 
 *2024-05-22 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196895) · `si`
 
-නව කුරුඳුවත්ත ප්‍රදේශයේදී පෞද්ගලික බස් රථයකට යටවීමෙන් පාසල් සිසුවියක් අවාසනාවන්ත ලෙස මියගොස් ඇත.
+A tragic accident occurred when a 10-year-old schoolgirl from Malgollawa drowned in a submerged bus.
 
-මෙලෙස මියගොස් ඇත්තේ මල්ගොල්ල පටිතලාව ප්‍රදේශයේ පදිංචි 10 හැවිරිදි වියේ පසුවූ පාසල් සිසුවියකි.
+🟩
+
+A schoolgirl has died unlucky
+
+The deceased has been identified as a 10 year old girl from Malgollawa area.
 
 ◼️
 
 [Data](articles/88e4f15d.json)
+
+[Extended Data](ext_articles/88e4f15d.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ During interrogations, the suspect has revealed that she had attempted to smuggl
 ...
 
 [Data](articles/109dc2e3.json)
+
+[Extended Data](ext_articles/109dc2e3.ext.json)
 
 ---
 
@@ -2251,29 +2275,5 @@ Sri Lankan politicians including the President of Iranian have expressed their c
 [Data](articles/82f95e9c.json)
 
 [Extended Data](ext_articles/82f95e9c.ext.json)
-
----
-
-### Sri Lanka goods exports down 4.1-pct in April, services up 19-pct
-
-*2024-05-21 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-down-4-1-pct-in-april-services-up-19-pct-164005/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports fell 4.1 percent from a year ago to 813.81 million dollars in April 2024, the island’s Export Development Board said.
-
-Goods exports in the four months to April 2024 was 3,982.71 million down 3.55 percent from the corresponding period last year.
-
-Service exports were up 19.28 percent in April at 300.41 million dollars.
-
-Total goods and services exports rose 1.25 percent to 1,114.22 million.
-
-In traditional hard goods exports in April, tea was up 2.22 percent to 95.46 million dollars, rubber-based products were up 20.18 percent to 66.58 million dollars, and coconut-based products were up 17.73 percent to 60.76 million dollars.
-
-Other exports were also up; ornamental fish exports were up 30.66 percent to 2.77 million dollars, and processed food and beverages were up 7.55 percent to 32.35 million dollars.
-
-...
-
-[Data](articles/f8c0a56b.json)
-
-[Extended Data](ext_articles/f8c0a56b.ext.json)
 
 ---

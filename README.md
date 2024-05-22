@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 15:18:30**
+As of **2024-05-22 15:33:54**
 
 ## Newspaper Stats
 
-*Scraped **25,685** Articles*
+*Scraped **25,690** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 229
-bbccomsinhala | 258
+bbccomsinhala | 259
 dbsjeyarajcom | 259
 newsfirstlk | 363
 islandlk | 1,386
 economynextcom | 1,479
 dailyftlk | 1,521
-adalk | 2,202
+adalk | 2,204
 adaderanalk | 2,958
 tamilmirrorlk | 2,999
 virakesarilk | 3,892
-dailymirrorlk | 4,034
-adaderanasinhalalk | 4,105
+dailymirrorlk | 4,035
+adaderanasinhalalk | 4,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,685 (100.0%) of 25,685 articles have been extended.
+25,685 (100.0%) of 25,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### ශිෂ්‍යත්ව විභාගය ගැන නිවේදනයක්
+
+*2024-05-22 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196907) · `si`
+
+5 ශ්‍රේණිය සිසුන් සඳහා පැවැත්වෙන 2024 ශිෂ්‍යත්ව විභාගය සම්බන්ධයෙන් විභාග දෙපාර්තමේන්තුවෙන් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ ඉහත විභාගය 2024 සැප්තැම්බර් 15 වන ඉරුදින පැවැත්වෙන බවය.
+
+ඒ සඳහා 2024 මැයි 27 දින සිට 2024 ජුනි 14 වනදා දක්වා මාර්ගගත ක්‍රමවේදය ඔස්සේ අයදුම්පත් කැඳවනු ලැබේ.
+
+කිසිඳු හේතුවන් මත අයදුම්පත් භාර ගැනීමේ අවසන් දිනය දීර්ඝ නොකරන බවද අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/90089125.json)
+
+---
+
+### ජනාධිපති රනිල් ඉරාන ජනාධිපති ඊබ්‍රහම් රයිසිට ශෝකය පළකරයි
+
+*2024-05-22 15:02:14* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-රනිල්-ඉරාන-ජනාධිපති-ඊබ්‍රහම්-රයිසිට-ශෝකය-පළකරයි/11-409786) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ කොළඹ ඉරාන තානාපති කාර්යාලය වෙත ගොස් අභාවප්‍රාප්ත ඉරාන ජනාධිපති ඊබ්‍රහම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් සිය ශෝකය පළ කළේය.
+
+තානාපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයාව ශ්‍රී ලංකාවේ ඉරාන තානාපති ආචාර්ය අලි රීසා ඩෙල්කොෂ් මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් පිළිගනු ලැබීය.
+
+අනතුරුව ඉරාන තානාපතිවරයා ඇතුළු පිරිස සමඟ කෙටි කථා බහකට එක් වූ ජනාධිපතිවරයා එහි තැන්පත් කර තිබු ශෝක සටහන් පොතේ සටහනක් ද තබමින් ජනාධිපති ඊබ්‍රහම් රයිසි මහතාගේ හදිසි අභාවය වෙනුවෙන් ඉරාන රජයටත්, ජනතාවටත් තමාගේ සහ ශ්‍රී ලංකා රජයේත්, ජනතාවගේත් බලවත් ශෝකය පළ කර සිටියේය. (I J)
+
+◼️
+
+[Data](articles/da237ed0.json)
+
+---
+
+### Bangladeshi LPL team owner arrested over match-fixing allegations
+
+*2024-05-22 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshi-LPL-team-owner-arrested-over-match-fixing-allegations/108-283160) · `en`
+
+Colombo, May 22 (Daily Mirror) - A Bangladeshi national, who owns a team in the Lanka Premier League (LPL), was arrested at the Bandaranaike International Airport over the allegations of match-fixing.
+
+An official from the Special Investigation Unit for the Prevention of Offenses Relating to Sports at the Sports Ministry confirmed the arrest of the individual, who holds British citizenship.
+
+The suspect is set to be presented in court for further proceedings.
+
+◼️
+
+[Data](articles/2ef55d1b.json)
+
+---
 
 ### ComBank and CBA pioneer NFC technology-enabled cashless vending machines in Sri Lanka
 
@@ -329,6 +379,26 @@ Officials said that legal action would be taken against those who hold the envir
 [Data](articles/41f78fb4.json)
 
 [Extended Data](ext_articles/41f78fb4.ext.json)
+
+---
+
+### යුරෝපයේ ලොකුම මෝටර් රථ ධාවන තරගය දීනූ ඩිලන්ත ලංකාවට
+
+*2024-05-22 13:18:42* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයේ-ලොකුම-මෝටර්-රථ-ධාවන-තරගය-දීනූ-ඩිලන්ත-ලංකාවට/11-409785) · `si`
+
+ලෝක ශූර, ශ්‍රී ලාංකික මෝටර් රථ ධාවන ශූර ඩිලන්ත මාළගමුව මහතා ඉතාලියේ පැවති ජී.ටී.- 4 මෝටර් රථ ධාවන තරගය ජය ගැනීමෙන් අනතුරුව අද (22) දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+ගුවන් තොටුපොළේ දී මාධ්‍යවේදීන් හමුවේ අදහස් දැක්වූ ඩිලන්ත මාළගමුව මහතා මෙසේ  පැවසීය .   මෙම තරගාවලිය සදහා සහභාගී වූ එකම ශ්‍රී ලාංකිකයා මෙන්ම එකම ආසියාතිකයා ද වූයේ මමයි .
+
+මෙම තරගාවලිය යුරෝපයේ පවත්වන ලොකුම මෝටර් රථ ධාවන තරගය වන අතර ඒ සදහා ලෝකයේ රටවල් 30 ක මෝටර් රථ ධාවන ශූරයින් එක් වී සිටියා . ඔවුන් වැඩි පිරිසක් යුරෝපා සහ ඇමෙරිකානු මහාද්වීප නියෝජනය කරන්නන් .
+
+මෙම මෝටර් රථ ධාවන තරගය සදහා කාර් 50 ක් සහභාගී වී සිටි අතර එම එක් රථයක් සදහා රියැදුරුවරුන් දෙදෙනා බැගින් එක් වී සිටියහ .
+
+ඒ වගේම මෙම තරගාවලිය සදහා ලෝකයේ වඩාත් බලවත් , දියුණු මෝටර් රථ වර්ග 10 ක මෝටර් රථ ධාවනයට එක් වී සිටි අතර මම ඒ.එම්.ජී.- ජී.ටී. 4 වර්ගයේ මෝටර් රථයක් භාවිතා කළා .යැයි ද පැවසීය .
+
+...
+
+[Data](articles/5b514181.json)
 
 ---
 
@@ -658,7 +728,7 @@ The driver questions whether it is prohibited to drive a vehicle between these p
 
 *2024-05-22 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Donate-to-save-lives/110-283153) · `en`
 
-A blood donation camp was launched today by the Sri Lanka Movement at Gangaramaya Temple in observance of Vesak Poya Day. This marks the fourteenth time the organization has held this event. Pix by Kithsiri de Mel.
+A blood donation camp was launched today at the Head quarters of the Sri Lanka Saukyadana Movement in observance of Vesak Poya Day. This marks the fourteenth time the organization has held this event. Pix by Kithsiri de Mel.
 
 ◼️
 
@@ -1678,6 +1748,28 @@ It has also been reported that the woman has taken steps to provide the necessar
 
 ---
 
+### වෛද්‍ය ෂාෆි : 'සමස්ත සිංහල අය වෙනුවෙන් මගෙන් සමාව ඉල්ලපු කිහිපදෙනෙක් ඉන්නවා'
+
+*2024-05-22 09:10:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c999rpnz0q1o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''සමහරු අදටත් සීසර් කරන ගමන් මට කියනවා සමාවෙන්න සර් කියලා''
+
+වෛද්‍ය ෂාෆි : 'සමස්ත සිංහල අය වෙනුවෙන් මගෙන් සමාව ඉල්ලපු කිහිපදෙනෙක් ඉන්නවා'
+
+කුරුණෑගල අවට ජනතාව අදටත් සිසේරියන් සැත්කම් සිදු කර ගැනීමට තමන් ළඟට පැමිණෙන බවත් වඳ සැත්කම් කළ බවට නැගු චෝදනාවන්ට සමාව ඉල්ලා සිටින බවත් කුරුණෑගල ශික්ෂණ රෝහලේ වෛද්‍ය ෂිහාබ්දීන් මොහොමඩ් ෂාෆි පවසයි.
+
+ශ්‍රී ලංකාව තුළ අනාගත පරපුරට සතුටින් ජීවත් වීමට අවස්ථාව සැලසිය යුතු බවට විශ්වාස කරන තමන් රට හැර යෑමේ සුදානමක් නොමැති බවත් කවදා හෝ  මේ බෞද්ධ රට වෙනත් රටවලට ආදර්ශයක් වෙන රටක් බවට පත කළ යුතු බවත් ඔහු පෙන්වා දෙයි.
+
+'අවස්ථාවාදී අරමුණු උදෙසා නීතිය, විද්‍යාව සහ ජනමධ්‍ය අවභාවිත කිරීම' යන තේමාව යටතේ මැයි 21වෙනිදා කොළඹ දී  'අයිතිය උදෙසා මාධ්‍යවේදීන්' විසින් සංවිධානය කළ  සංවාදයකට එක්වෙමින් වෛද්‍ය ෂාෆි මේ අදහස් පළ කළේය.
+
+කුරුණෑගල ශික්ෂණ රෝහලේ දී සිංහල මව්වරුන්ට වඳ සැත්කම් කළ බවට චෝදනා ලබා, අනිවාර්ය නිවාඩු ගන්වා අත්අඩංගුවේ සිටි වෛද්‍ය ෂාෆි පසුව එම චෝදනාවලින් නිදහස් වී නැවත කුරුණෑගල රෝහලේම සේවය කරයි.
+
+◼️
+
+[Data](articles/f269c359.json)
+
+---
+
 ### Train disruption: delay in train traffic on the main route
 
 *2024-05-22 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184185) · `ta`
@@ -2223,87 +2315,5 @@ Sri Lankan skilled workers are famous in the world for our superior performance 
 [Data](articles/8988dc02.json)
 
 [Extended Data](ext_articles/8988dc02.ext.json)
-
----
-
-### Sri Lankan business leader Gowri Rajan to speak at Rotary Foundation Donor Summit in Singapore
-
-*2024-05-22 05:08:01* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-business-leader-Gowri-Rajan-to-speak-at-Rotary-Foundation-Donor-Summit-in-Singapore/56-762098) · `en`
-
-The sought after Rotary event globally is the annual convention where networking and learning comes together. The 2024 convention will attract over 25,000 rotary members across the world to the beautiful city of Singapore. Some describe the event as a Mini United Nations given the international scope and commitment to cultural diversity where global leaders come together to find solutions to the challenges that the world is experiencing.
-
-Sri Lankan first female Governor for Rotary in Sri Lanka and Maldives has been selected to be a speaker at the Rotary Foundation Donor Summit to be held at the annual Convention. The Rotary International President Gordon Maccinally has themed the year as ‘Create Hope with the World’.
-
-Gowri Rajan an award winning business professional is the Director of Sun Match Company based in Kundasale, Kandy that is the market leader in the category of safety matches and today is a diversified conglomerate
-
-...
-
-[Data](articles/03b82b9c.json)
-
-[Extended Data](ext_articles/03b82b9c.ext.json)
-
----
-
-### Veteran Toastmaster Bhathiya Hettiarachchi DTM appointed as Club Growth Director for District 82
-
-*2024-05-22 05:06:58* · [`dailyftlk`](https://www.ft.lk/news/Veteran-Toastmaster-Bhathiya-Hettiarachchi-DTM-appointed-as-Club-Growth-Director-for-District-82/56-762097) · `en`
-
-In a landmark event for Sri Lanka, distinguished Toastmaster Bhathiya Hettiarachchi has been unanimously elected to lead District 82 of Toastmasters International as the Club Growth Director for the 2024/2025 tenure. This prestigious position, the third highest in the district hierarchy, was officially conferred upon DTM Bhathiya by the World President of Toastmasters International at the district conference, Ovation 2024. Significantly, this election coincides with Toastmasters International’s centenary celebration. Founded in 1924, the organisation marks 100 years of empowering individuals through public speaking and leadership skills development. Bhathiya’s leadership during this historic milestone highlights the importance of his role in continuing the legacy of excellence and growth.
-
-...
-
-[Data](articles/076272a0.json)
-
-[Extended Data](ext_articles/076272a0.ext.json)
-
----
-
-### Sri Lanka rejects alleged genocide claims by Canadian Prime Minister
-
-*2024-05-22 05:05:20* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-rejects-alleged-genocide-claims-by-Canadian-Prime-Minister/56-762096) · `en`
-
-The Ministry of Foreign Affairs yesterday said it rejects the false allegation of a so-called “genocide” in Sri Lanka in a message by Canadian Prime Minister Justin Trudeau on 18 May.
-
-The Government of Sri Lanka in all previous communications has categorically refuted such outrageous allegation of genocide in Sri Lanka. No competent authority in Canada or elsewhere in the world has made any objective determination of genocide having taken place in Sri Lanka.
-
-These unfounded allegations relate to the conclusion of the armed separatist terrorist conflict waged by the LTTE in pursuit of a separate State, contrary to the principles of the UN Charter. The LTTE is a listed terrorist organisation in 33 countries worldwide, including in Canada.
-
-...
-
-[Data](articles/22912849.json)
-
-[Extended Data](ext_articles/22912849.ext.json)
-
----
-
-### Norwegian Ambassador meets President and leaders of political parties during visit to Sri Lanka
-
-*2024-05-22 05:02:02* · [`dailyftlk`](https://www.ft.lk/news/Norwegian-Ambassador-meets-President-and-leaders-of-political-parties-during-visit-to-Sri-Lanka/56-762095) · `en`
-
-The Ambassador of Norway to Sri Lanka and India Her Excellency May-Elin Stener, visited Sri Lanka during 2 to 9 May. The visit marks a pivotal moment in the strengthening of bilateral ties between Norway and Sri Lanka, as Ambassador Stener engaged in constructive dialogues with key stakeholders, including President of Sri Lanka H.E. Ranil Wickremesinghe, Foreign Minister Hon. Ali Sabry, Opposition Leader Hon. Sajith Premadasa, the leader of National People’s Power Hon. Anura Kumara Dissanayake and Member of Parliament TNA Hon. M.A. Sumanthiran.
-
-During her meeting with President Wickremasinghe, Ambassador Stener was briefed on the commendable progress of Norwegian investments and development projects in Sri Lanka. Both parties reiterated their commitment to sustaining the close partnership between the two nations, underscoring mutual interests in various sectors.
-
-...
-
-[Data](articles/45b0b59f.json)
-
-[Extended Data](ext_articles/45b0b59f.ext.json)
-
----
-
-### Lankan Ambassador-designate to People’s Republic of China assumes duties
-
-*2024-05-22 04:56:37* · [`dailyftlk`](https://www.ft.lk/news/Lankan-Ambassador-designate-to-People-s-Republic-of-China-assumes-duties/56-762094) · `en`
-
-The Ambassador-designate of Sri Lanka to the People’s Republic of China, Majintha Jayesinghe assumed duties on 20 May at the Embassy of Sri Lanka in Beijing, PRC.
-
-Addressing the staff, Ambassador Majintha Jayesinghe recalled the close historic relations between Sri Lanka and China and outlined the significance and importance of the bilateral relations between the two countries. He emphasised the need to further strengthen Sri Lanka’s presence in China by promoting trade, investment, tourism, and cultural ties.
-
-...
-
-[Data](articles/c83c1779.json)
-
-[Extended Data](ext_articles/c83c1779.ext.json)
 
 ---

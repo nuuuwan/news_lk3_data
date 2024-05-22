@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 04:18:39**
+As of **2024-05-23 04:33:53**
 
 ## Newspaper Stats
 
-*Scraped **25,807** Articles*
+*Scraped **25,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,488
 dailyftlk | 1,532
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,008
+tamilmirrorlk | 3,009
 virakesarilk | 3,923
 dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,806 (100.0%) of 25,807 articles have been extended.
+25,807 (100.0%) of 25,808 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ In this context, the IGP’s directives to initiate an investigation into his en
 ◼️
 
 [Data](articles/7065acac.json)
+
+[Extended Data](ext_articles/7065acac.ext.json)
 
 ---
 
@@ -231,6 +233,22 @@ Following this, Jagath Samarawickrama, who presided over the council, announced 
 [Data](articles/058b35e1.json)
 
 [Extended Data](ext_articles/058b35e1.ext.json)
+
+---
+
+### தொழிலாளர்களுக்கு இவ்வளவு தான் இறுதி சம்பளம்
+
+*2024-05-23 01:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களுக்கு-இவ்வளவு-தான்-இறுதி-சம்பளம்/175-337740) · `ta`
+
+தோட்டத் தொழிலாளர்களின் சம்பள விடயத்தில் தொழில் ஆணையாளரால் குறிப்பிடப்பட்டு, தொழில் அமைச்சரால் வர்த்தமானியில் அறிவிக்கப்படும் தொகையே இறுதி சம்பளமாக அமையும் என்று நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவீத்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால் பொருளாதாரம், சட்டம் ஒழுங்கு மற்றும் பாதுகாப்பு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பாக கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தின் போது தமிழ் முற்போக்குக் கூட்டணி பாராளுமன்ற உறுப்பினர் வேலுக்குமாரால் எழுப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே நிதி இராஜாங்க அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+தோட்டத் தொழிலாளர்களின் தினசரி சம்பளத்தை 1,700 ரூபாய் வரையில் அதிகரித்து மே முதலாம் திகதி வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டது. கடந்த 3 வருடங்களாக அவர்களின் சம்பளம் அதிகரிக்கப்படவில்லை. இந்நிலையில் முதலாளிமார் சம்மேளனம் அந்த வர்த்தமானிக்கு எதிராக வழக்கு தொடர்ந்துள்ளது. இந்த விடயத்தில் அரசாங்கத்தின் நிலைப்பாடு என்ன? என வினவினார்.
+
+...
+
+[Data](articles/3d0ba380.json)
 
 ---
 
@@ -2235,29 +2253,5 @@ Accordingly, a statement made by Parliament today (22) declared that the Speaker
 [Data](articles/c8666a1e.json)
 
 [Extended Data](ext_articles/c8666a1e.ext.json)
-
----
-
-### Rahiman arrested for rahman associated with Dambulla thunders
-
-*2024-05-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196909) · `si`
-
-Rahiman, linked to Dambulla Thunders, was arrested in Katunayake for alleged match-fixing attempts during the Lanka Premier League. He was initially held by immigration officers and then transferred to the Special Investigation Unit for further questioning.
-
-🟩
-
-In Katunayake, Immigration and Emigration officials have been detained at the Katunayake Airport, which is a group of people who are involved in the Lanka Premier League.
-
-It was reported that he had been detained as a foreign investigation unit has been detained due to a litigation unit under investigation unit.
-
-He was later handed over to the Special Investigation Unit of Sports related to sports and to be produced before the arrest.
-
-He was arrested on suspicion regarding "trying to propose to fix the match betrayal."
-
-◼️
-
-[Data](articles/5a09a78d.json)
-
-[Extended Data](ext_articles/5a09a78d.ext.json)
 
 ---

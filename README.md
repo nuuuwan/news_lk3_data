@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 10:34:03**
+As of **2024-05-22 10:52:25**
 
 ## Newspaper Stats
 
-*Scraped **25,613** Articles*
+*Scraped **25,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,386
 economynextcom | 1,472
 dailyftlk | 1,521
 adalk | 2,196
-adaderanalk | 2,951
+adaderanalk | 2,952
 tamilmirrorlk | 2,989
 virakesarilk | 3,876
 dailymirrorlk | 4,022
-adaderanasinhalalk | 4,091
+adaderanasinhalalk | 4,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,613 (100.0%) of 25,613 articles have been extended.
+25,613 (100.0%) of 25,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
+
+### බස් රථයකට යටවී පාසල් සිසුවියක් මරුට
+
+*2024-05-22 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196895) · `si`
+
+නව කුරුඳුවත්ත ප්‍රදේශයේදී පෞද්ගලික බස් රථයකට යටවීමෙන් පාසල් සිසුවියක් අවාසනාවන්ත ලෙස මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ මල්ගොල්ල පටිතලාව ප්‍රදේශයේ පදිංචි 10 හැවිරිදි වියේ පසුවූ පාසල් සිසුවියකි.
+
+◼️
+
+[Data](articles/88e4f15d.json)
+
+---
+
+### Filipino woman arrested at BIA with cocaine worth over Rs. 200 mln
+
+*2024-05-22 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99373/filipino-woman-arrested-at-bia-with-cocaine-worth-over-rs-200-mln) · `en`
+
+Sri Lanka Customs officer have arrested a Filipino woman at the Bandaranaike International Airport (BIA) along with 02 kilograms and 851 grams of cocaine estimated to be worth over Rs 200 million.
+
+The officers of the Narcotics Control Unit of Sri Lanka Customs have arrested the Philippine national upon arrival in the country from Ethiopia’s Addis Ababa via Doha, Qatar.
+
+The three parcels containing cocaine were found concealed in her luggage along with three other parcels of chili powder, turmeric powder and wheat flour, the customs spokesman said.
+
+It has also been revealed that the arrested passenger is a 47-year-old employed as an assistant accountant residing in the Philippines.
+
+During interrogations, the suspect has revealed that she had attempted to smuggle the narcotics following arraignments made through a female friend with contacts to drug traffickers.
+
+...
+
+[Data](articles/109dc2e3.json)
+
+---
 
 ### New regulations to be introduced for cultivating uncultivated land
 
@@ -2241,49 +2275,5 @@ Other exports were also up; ornamental fish exports were up 30.66 percent to 2.7
 [Data](articles/f8c0a56b.json)
 
 [Extended Data](ext_articles/f8c0a56b.ext.json)
-
----
-
-### Sri Lanka chamber calls on political parties to support SOE reforms
-
-*2024-05-21 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-calls-on-political-parties-to-support-soe-reforms-164062/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
-
-“The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis,” it said in a statement.
-
-“It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.”
-
-Sri Lanka is facing a presidential election before November this year and a general election later. Provincial Council elections are overdue.
-
-With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
-
-...
-
-[Data](articles/0680d387.json)
-
-[Extended Data](ext_articles/0680d387.ext.json)
-
----
-
-### Sri Lanka chamber calls on political parties to support SOE reforms
-
-*2024-05-21 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-calls-on-political-parties-to-support-soe-reforms-164062/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has asked all political parties to support the continuity of SOE reform and maintain reform momentum, building on the economic stability achieved.
-
-“The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis,” it said in a statement.
-
-“It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.”
-
-Sri Lanka is facing a presidential election before November this year and a general election later. Provincial Council elections are overdue.
-
-With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
-
-...
-
-[Data](articles/b8635da6.json)
-
-[Extended Data](ext_articles/b8635da6.ext.json)
 
 ---

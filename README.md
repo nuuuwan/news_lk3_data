@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 18:53:47**
+As of **2024-05-22 19:03:39**
 
 ## Newspaper Stats
 
-*Scraped **25,734** Articles*
+*Scraped **25,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,482
 dailyftlk | 1,521
 adalk | 2,209
 adaderanalk | 2,964
-tamilmirrorlk | 3,002
+tamilmirrorlk | 3,003
 virakesarilk | 3,900
 dailymirrorlk | 4,045
 adaderanasinhalalk | 4,113
@@ -26,49 +26,83 @@ adaderanasinhalalk | 4,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,730 (100.0%) of 25,734 articles have been extended.
+25,734 (100.0%) of 25,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-22 (Wednesday)
 
-### புலமைப் பரிசில் மாணவர்களுக்கு முக்கிய அறிவிப்பு
+### மரங்கள் விழுந்ததில் 2 பெண்கள் பலி
+
+*2024-05-22 18:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மரங்கள்-விழுந்ததில்-2-பெண்கள்-பலி/94-337734) · `ta`
+
+சீரற்ற காலநிலை நிலை காரணமாக புத்தளம் - மாரவில மற்றும் மாதம்பை பகுதிகளில் வீதியோரத்தில் இருந்த இரண்டு பெரிய மரங்கள் வீழ்ந்ததில் பெண்கள் இருவர் உயிரிழந்துள்ளதுடன், ஆண் ஒருவர் காயமடைந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+மாராவில - பிலாகமுல்ல பிரதேசத்தில் வீதியில் பயணித்த மோட்டார் சைக்கிள் ஒன்றின் மீது பாரிய மரமொன்று வீழ்ந்ததில் மோட்டார் சைக்கிளில் பயணித்த பெண்ணொருவர் உயிரிழந்துள்ளதுடன், மேலும் ஒருவர் காயமடைந்துள்ளார் என மாரவில பொலிஸார் தெரிவித்தனர்.
+
+புத்தளம் , நாத்தாண்டிய - உடுவல வீதியின் முட்டிபெதிவில பகுதியைச் சேர்ந்த யடவரகே தொன் ஹன்சி இஷாரா (வயது 36) என்பவரே இவ்வாறு உயிரிழந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+இதேவேளை, மாதம்பை குளியாபிட்டிய வீதியின் சுதுவெல்ல பிரதேசத்தில் மரமொன்று வீழ்ந்ததில் வீதியில் பயணித்த பெண்ணொருவர் உயிரிழந்துள்ளார்.
+
+தும்லசூரிய - உடலவெல பகுதியைச் சேர்ந்த நிசன்சலா சரோஜனி (வயது 38) என்பவரே இந்த அனர்த்தத்திற்கு முகம் கொடுத்துள்ளார்.
+
+இந்த சம்பவம் தொடர்பில் மாரவில மற்றும் மாதம்பை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e9e8d2d0.json)
+
+---
+
+### Main notice to students in scholarship
 
 *2024-05-22 18:36:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்-பரிசில்-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-337733) · `ta`
 
-2024ம் ஆண்டுக்கான 5ம் தர புலமை பரிசில் பரீட்சைக்கான விண்ணப்பங்கள் அடுத்த வாரம் முதல் ஏற்றுக்கொள்ளப்படவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+Applications open next week for the 5th grade scholarship exam of 2024, closing June 14 via eBooks. Exam set for September 15; no extensions allowed.
 
-அந்த வகையில் பரீட்சைக்கான விண்ணப்பங்கள் இம்மாதம் 27ஆம் திகதி முதல், ஜூன் மாதம் 14ஆம் திகதி வரை இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, குறித்த பரீட்சை எதிர்வரும் செப்டம்பர் மாதம் 15ம் திகதி ஞாயிற்றுக்கிழமை நடைபெறும் எனவும் திணைக்களம் குறிப்பிட்டுள்ளது.
+The Department of Examinations said that applications for the 5th grade scholarship examination of 2024 will be accepted from next week.
 
-எந்தவொரு சந்தர்ப்பத்திலும் விண்ணப்ப திகதி முடிவடைந்ததன் பின்னர் நீடிக்கப்படாது என பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது. R
+Applications for the examination can be submitted through eBooks from 27th of this month to June 14th.
+
+Meanwhile, the exam will be held on Sunday, September 15, the department said.
+
+The Department of Examinations has stated that in any case the application will not be extended after the application date is over. Remble
 
 ◼️
 
 [Data](articles/2bf1f98e.json)
 
+[Extended Data](ext_articles/2bf1f98e.ext.json)
+
 ---
 
-### උතුම් වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන් පිරිසකට සමාව
+### A group of prisoners pardoned in celebrating Vesak Poya
 
 *2024-05-22 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196914) · `si`
 
-හෙටට (23) යෙදෙන උතුම් වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමීමට පියවර ගෙන තිබේ.
+In celebration of Vesak Poya, 278 prisoners across 278 prisons in the country will be released tomorrow, including 15 from Welikada Prison and 37 from Mahara Prison. This decision, based on constitutional powers, marks a special commitment to prisoners during this holy day.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34වන වගන්තියේ පැවරී ඇති බලතල අනුව ජනාධිපතිවරයා විසින් බන්ධනාගාරගත සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-විශේෂ කොන්දේසි දෙකක් යටතේ මෙලෙස සිරකරුවන් හට රාජ්‍ය සමාව හිමිවනු ඇත.
+Steps have been taken to provide a special commitment to the prisoners to mark the noble Vesak Poya which will be held tomorrow (23).
 
-ඒ අනුව දිවයිනේ සියලුම බන්ධනාගාරවලින් සිරකරුවන් 278 දෙනෙකු හෙට දිනයේ නිදහස් කිරීමට සැලසුම් කර තිබේ.
+According to the President, in depending on the powers vested in Section 34 of the Constitution, the President has given a special commitment to prison prisoners.
 
-වැලිකඩ බන්ධනාගාරයෙන් සිරකරුවන් 15 දෙනෙකු සහ මහර බන්ධනාගාරයෙන් සිරකරුවන් 37 දෙනෙකු මෙලෙස නිදහස් කෙරෙන සිරකරුවන් අතරට අයත් ය.
+Prisoners will bear the state under two special conditions.
 
-එමෙන්ම නිදහස ලබන සිරකරුවන් අතර කාන්තා රැඳවියන් 10 දෙනෙකු ද සිටින බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි. බි. දිසානායක මහතා සඳහන් කළේය.
+Accordingly, 278 prisons in the country are planning to release 278 prisoners tomorrow.
+
+15 prisoners from Welikada Prison and 37 prisoners will be released from Mahara Prison.
+
+Prison media spokesman Prison Spokesman Gaminne, the Commissioner of Prisons Spokes Chairman Gaminne. B. Dissanayake added.
 
 ◼️
 
 [Data](articles/5ecb9cb6.json)
+
+[Extended Data](ext_articles/5ecb9cb6.ext.json)
 
 ---
 
@@ -132,17 +166,23 @@ Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for sm
 
 ---
 
-### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතට එරෙහිව පෙත්සමක්
+### Petition against Telecommunication Amendment Bill
 
 *2024-05-22 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196913) · `si`
 
-ශ්‍රී ලංකා විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතේ ව්‍යවස්ථානුකූලභාවය අභියෝගයට ලක් කරමින් ශ්‍රී ලංකා විද්‍යුත් විකාශකයන්ගේ සංසදය අද (22) ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනු කර තිබේ.
+The Sri Lanka Electric Broadcasts' Forum challenged the constitutionality of the Telecommunications Amendment Bill in the Supreme Court, arguing it infringes on their fundamental rights. The petition focuses on amendments affecting the independence of regulators in Sri Lanka.
 
-ශ්‍රී ලංකාවේ විද්‍යුත් විකාශන ආයතනවල කටයුතු කෙරෙහි එකී පනත් කෙටුම්පතේ යෝජිත ඇතැම් සංශෝධනයන් මගින් සිදුවන අගතිදායක බලපෑම සහ එමඟින් ඔවුන්ගේ මූලික අයිතිවාසිකම් කඩවීම සම්බන්ධයෙන් ඔවුන් තම පෙත්සම මගින් ශ්‍රේෂ්ඨාධිකරණය වෙත කරුණු ඉදිරිපත් කර තිබේ.
+🟩
+
+Sri Lanka Electric Broadcasts' Forum has filed a petition in the Supreme Court today (22), challenges the constitutionality of the Telecommunications Amendment Bill.
+
+Some of the proposed amendments in the Bill of Ege and Communicioners in Sri Lanka and they have filed facts to the Supreme Court over their fundamental rights.
 
 ◼️
 
 [Data](articles/7ec003ef.json)
+
+[Extended Data](ext_articles/7ec003ef.ext.json)
 
 ---
 
@@ -159,6 +199,8 @@ The strong gusty winds blowing across the Central Hills today is believed to hav
 ◼️
 
 [Data](articles/c8563d39.json)
+
+[Extended Data](ext_articles/c8563d39.ext.json)
 
 ---
 
@@ -256,7 +298,7 @@ The 33-year-old suspect is a resident of the Heiyanthuduwa area in Mabima.
 
 *2024-05-22 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99383/2024-grade-5-scholarship-exam-date-announced) · `en`
 
-The Department of Examination has announced the date for 2024 Grade 5 Scholarship Examination.
+The Department of Examination has announced the date for the  2024 Grade 5 Scholarship Examination.
 
 According to the statement released by the department, the 2024 Grade 5 Scholarship Examination will be held on September 15, 2014.
 
@@ -2273,37 +2315,5 @@ The book is expected to reveal information about the conflict and his role as th
 [Data](articles/9ddf6380.json)
 
 [Extended Data](ext_articles/9ddf6380.ext.json)
-
----
-
-### Fonseka is in the presidential election
-
-*2024-05-22 10:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-மீ்ண்டும்-களமிறங்குகிறார்-பொன்சேகா/175-337677) · `ta`
-
-Field Marshal Sarath Fonseka, former Army Commander, is set to run in Sri Lanka's presidential election as an independent candidate, backed by the United People's Power (SJB). He aims to address corruption and prioritize national security, collaborating with intellectuals and releasing a book detailing his wartime experiences. Despite interest from President Ranil Wickremesinghe, Fonseka remains committed to his candidacy, seeking closer ties with major powers like India, China, and the US.
-
-🟩
-
-Former Army Commander Field Marshal Sarath Fonseka has decided to contest the upcoming presidential election, according to Daily Mirror.
-
-Sources close to Fonseka said that the current president of the United People's Power (SJB) will issue a formal announcement in June.
-
-Fonseka is contesting as an independent candidate without joining any political party.
-
-According to sources, Fonseka has been able to obtain the support of the SJP MPs and is in talks with MPs and politicians of other political parties.
-
-The Daily Mirror claims that Fonseka's campaign will promote a corrupt country and prioritize national security.
-
-He is expected to work with intellectuals and prominent figures during his campaign.
-
-The Daily Mirror has stated that the former army commander will try to increase his presidential effort by publishing a book on the war.
-
-The book is expected to reveal information about the conflict and his role as the then Army Commander.
-
-...
-
-[Data](articles/b63fa879.json)
-
-[Extended Data](ext_articles/b63fa879.ext.json)
 
 ---

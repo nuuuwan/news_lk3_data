@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-22 22:51:21**
+As of **2024-05-22 23:03:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,767 (100.0%) of 25,773 articles have been extended.
+25,773 (100.0%) of 25,773 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ He made these remarks at a press briefing held at the Presidential Media Centre 
 
 [Data](articles/ed350db5.json)
 
+[Extended Data](ext_articles/ed350db5.ext.json)
+
 ---
 
-### වතු සේවක දෛනික වැටුප ඉහළ දමමින් ගැසට් නිවේදනයක්
+### Gazette notification raising the daily wage of estate worker
 
 *2024-05-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196920) · `si`
 
-වතු කම්කරුවන්ගේ දෛනික අවම වැටුප රුපියල් 1,700ක් ලෙස නියම කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Estate workers' daily wage raised to Rs 1,700 through a gazette notification.
 
-වතු කම්කරු වැටුප රු 1700ක් කරමින් ගැසට් නිවේදනයක් by poornima on Scribd
+🟩
+
+A special gazette notification has been issued by the estate workers' daily salary at Rs 1,700.
+
+Plantation Labor Salary Rs. 1700 is a gazette notification by poornima
 
 ◼️
 
 [Data](articles/fb221730.json)
+
+[Extended Data](ext_articles/fb221730.ext.json)
 
 ---
 
@@ -88,6 +96,8 @@ In 1975, he completed a 100m and 200m breaststroke double at world level and was
 
 [Data](articles/3f1d0cde.json)
 
+[Extended Data](ext_articles/3f1d0cde.ext.json)
+
 ---
 
 ### SJB trying to copy our economic policies: Hadunnetti
@@ -105,6 +115,8 @@ The SJB was trying to convince the society that they are also ready to implement
 ...
 
 [Data](articles/82cc7443.json)
+
+[Extended Data](ext_articles/82cc7443.ext.json)
 
 ---
 
@@ -169,6 +181,8 @@ The investigation began when one of the suspects was apprehended while fleeing a
 ...
 
 [Data](articles/d0a37a8c.json)
+
+[Extended Data](ext_articles/d0a37a8c.ext.json)
 
 ---
 
@@ -1470,19 +1484,25 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 
 ---
 
-### රාජ්‍ය නිලධාරීන් පිරිසක් පාර්ලිමේන්තු වරප්‍රසාද කඩකරපු හැටි හර්ෂ කියයි
+### A group of public officials have violated parliamentary privileges
 
 *2024-05-22 15:32:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-නිලධාරීන්-පිරිසක්-පාර්ලිමේන්තු-වරප්‍රසාද-කඩකරපු-හැටි-හර්ෂ-කියයි/11-409789) · `si`
 
-මෙරටට පැමිණෙන විදේශිකයන් සඳහා ඔන්ලයින් වීසා නිකුත් කිරීම සම්බන්ධයෙන් සාකච්ඡා කිරීමට කමිටුව හමුවට මහජන ආරක්ෂක අමාත්‍යාංශයේ සහ ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් පැමිණෙන බවට සඳහන් කර පසුව නොපැමිණීම පාර්ලිමේන්තුවේ වරප්‍රසාද උල්ලංඝනය කිරීමක් බව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී අචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+Public officials have breached parliamentary privileges, specifically regarding discussions on defense and immigration departments' rights and foreign visa appointments. The Chairman of the Public Finance Committee highlighted issues with scheduling meetings, leading to concerns about parliamentary procedures being undermined. This situation prompted a call for the Speaker to intervene and address the matter appropriately.
 
-ඒ අනුව මේ පිළිබඳ සුදුසු ක්‍රියාමාර්ගයක් ගන්නා ලෙස කථානායකවරයාට පවසන බව අද (22දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-"අපි කතා කරලා තිබුණා සාකච්ඡාවක්. ඒක පළවෙනි දවසේ කරගන්න බැරි වුණු නිසා දෙවැනි දිනයටත් කැඳවනු ලබුවා. එහිදී මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්තුමාට අපි දවස් කිහිපයක් යෝජනා කළා. ඔහු සමග එකඟ වෙලා තමයි අපි දිනය තීරණය කළේ. දැන් මේක තිබුණේ පසුගිය 14 වැනිදා. ඊට කලින් දවසේ පාර්ලිමේන්තුව ඉවරවුනාට පස්සේ හවස 6.15ට ලියුමක් එවනවා එන්න බෑ කියලා. ඒත් එනවා කියලා කලින් ලියුම එවලා තිබුණා. ඊට පස්සේ මගෙන් අහලා තිබුණා භාරගන්න පුළුවන්ද කියලා.
+Chairman of the Public Finance Committee on Public Finance Committee said that the committee to discuss the privileges of the Department of Defense and the Department of Immigration to discuss the privileges of Parliament to discuss the appointment of online visas for foreigners to visit Sri Lanka.
+
+Accordingly, a statement made by Parliament today (22) declared that the Speaker said to the Speaker to take appropriate action.
+
+"We had a discussion. It was impossible for the first day, so he was summoned on the second day. We proposed a few days to the Secretary of the Ministry of Public Defense. Agree with him we decided the day. Now it was on the 14th. The preceding the previous day, the parliament was over, he would not come to the 6.15 pm. But the previous letter was sent. After that, I was asked.
 
 ...
 
 [Data](articles/c8666a1e.json)
+
+[Extended Data](ext_articles/c8666a1e.ext.json)
 
 ---
 

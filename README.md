@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 16:05:31**
+As of **2024-05-23 16:18:22**
 
 ## Newspaper Stats
 
-*Scraped **25,918** Articles*
+*Scraped **25,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,48 @@ adalk | 2,221
 adaderanalk | 2,976
 tamilmirrorlk | 3,027
 virakesarilk | 3,945
-dailymirrorlk | 4,075
+dailymirrorlk | 4,078
 adaderanasinhalalk | 4,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,917 (100.0%) of 25,918 articles have been extended.
+25,918 (100.0%) of 25,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### දන්සල සූදානම් කර නින්දට ගිය පිය පුතු දෙදෙනා මරුට
+### Two son killed in preparating and sleeping the Dansala
 
 *2024-05-23 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196939) · `si`
 
-විදුලි ජනක යන්ත්‍රයක් ක්‍රියාත්මක කර නින්දට ගිය පියෙකු සහ පුතෙකු අද (23) දින අලුයම ජීවිතක්ෂයට පත්වී ඇති බව පුපුරැස්ස පොලීසිය පවසයි.
+During the Vesak celebrations, a father and son from Nestta were tragically killed while preparing for a Dansala event. The victims, identified as 40-year-old Sanath Rohana and his 17-year-old son, were asleep when a passing vehicle caused an explosion. The incident was reported to the Gampola Magistrate's Court, where further investigations are underway.
 
-මෙසේ මියගොස් ඇත්තේ පුපුරැස්ස නෙස්ටා ජනපදයේ පදිංචිව සිටි සනත් රෝහණ නම් 40 හැවිරිදි අයෙක් සහ ගගණ මධුසංඛ නමැති 17 හැවිරිදි අයෙකි.
+🟩
 
-ජීවිතක්ෂයට පත්වූ දෙදෙනා වෙසක් සැමරුම වෙනුවෙන් අද දිනයේ පුපුරැස්ස නගරයේ බත් දන්සැලක් පැවැත්වීමට සූදානමින් සිට තිබුණි.
+Tapure Police say that a father and son has been killed and a son has been killed this morning (23).
 
-ඊයේ (22) දින හදිසියේ ප්‍රදේශයේ විදුලි බලය ඇණහිටීම හේතුවෙන් කාමරයක් තුළ විදුලි ජනන යන්ත්‍රයක් ක්‍රියාත්මක කර දෙදෙනා නින්දට ගොස් ඇති බව වාර්තා වෙයි.
+The deceased has been identified as Sanath Rohana, a 40-year-old resident of Nestta, and a 17-year-old resident of Nestta.
 
-අද අලුයම දෙදෙනා අවදි නොවු නිසා ඒ පිලිබඳව දන්සැල සංවිධානය කිරීමට පැමිණි පිරිසක් විසින් පුපුරැස්ස පොලීසියට දැනුම්දී තිබුණි.
+The two died on the Vesak celebration today.
 
-පුපුරැස්ස පොලීසියේ නිලධාරීන් ඒ පිළිබඳව සොයා බැලීමේදී පුතා සහ පියා ජීවිතක්ෂයට පත්වී ඇති බවට තහවුරු වී ඇත.
+It is reported that the two had gone to sleep with a sudden vessel was dropped by a sudden vehicle.
 
-...
+The detonation was informed by a group to organize the Dasandy because the two dawn was not woke up.
+
+The exploitation of the exploitation of the exploitation of the police and his father had died when he was investigating it.
+
+The Gampola Magistrate's Court (PS) has reported to the incident, the acting Magistrate Kanthi Fernando of the Gampola Magistrate's Court, the bodies were referred to the Judicial Medical Medical Officer of the Gampola Main Magistrate.
+
+Investigations investigating that the two men were killed in the electrical machine, police said.
+
+◼️
 
 [Data](articles/974d29c1.json)
+
+[Extended Data](ext_articles/974d29c1.ext.json)
 
 ---
 
@@ -425,6 +435,30 @@ The funeral of the president is the President's birthday in the Holy City of Mas
 [Data](articles/130f1edf.json)
 
 [Extended Data](ext_articles/130f1edf.ext.json)
+
+---
+
+### Prisoners released
+
+*2024-05-23 13:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Prisoners-released/110-283251) · `en`
+
+Several prisoners were released from the Welikada Prison today to mark the Vesak Poya. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/cdeb32be.json)
+
+---
+
+### Tree uprooted in Maitland Crescent...
+
+*2024-05-23 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tree-uprooted-in-Maitland-Crescent/110-283250) · `en`
+
+Inclement weather conditions uprooted a tree along  Maitland Crescent today. The tree was cleared by the CMC officials later. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/404d9f44.json)
 
 ---
 
@@ -1091,6 +1125,18 @@ Parliamentarian Hashim has suggested that the bungalow should be turned into a m
 [Data](articles/4999588f.json)
 
 [Extended Data](ext_articles/4999588f.ext.json)
+
+---
+
+### Vesak Poya Day...
+
+*2024-05-23 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Poya-Day/110-283242) · `en`
+
+Devotees are seen taking part in religious observances at the Hunupitiya Gangaramaya Temple, Colombo to mark the Vesak Poya Day which falls today. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/3e869d3e.json)
 
 ---
 
@@ -2221,75 +2267,5 @@ The government has given permission to find investors and maintain them properly
 [Data](articles/358063ca.json)
 
 [Extended Data](ext_articles/358063ca.ext.json)
-
----
-
-### SL ranked at 76th spot in Travel and Tourism Development Index 2024
-
-*2024-05-23 02:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-ranked-at-76th-spot-in-Travel-and-Tourism-Development-Index-2024/108-283207) · `en`
-
-Sri Lanka is ranked at the 76th spot in Travel and Tourism Development Index 2024 (TTDI), as the country scored poorly in the tourism services and infrastructure, cultural resources and non-leisure resources categories.
-
-The TTDI is a biennial report published by the World Economic Forum in collaboration with the University of Surrey. It measures the set of factors and policies that enable the sustainable and resilient development of the T&T sector, which in turn contributes to the development of a country.
-
-In the 2024 TTDI, Sri Lanka recorded a score of 3.69, maintaining its 2019 score. However, it fell one spot in ranking to the 76th spot, among 119 countries. The country was also 6.8 percent below the average score of 119 countries.
-
-...
-
-[Data](articles/d8da6cb9.json)
-
-[Extended Data](ext_articles/d8da6cb9.ext.json)
-
----
-
-### Vesak Design: 'The Women Quit, I Know About Pleasure'
-
-*2024-05-23 02:14:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22lk2yl9jo) · `si`
-
-"The Women Quit, I Know About Pleasure" is a Vesak Design story about a son ruined by alcohol. It highlights the creation of a pandal, emphasizing the significant role of women in this tradition. The design features 30,000 bulbs, symbolizing a trend and marking the first time a woman crafted a pandal.
-
-🟩
-
-It contains nothing here.Vadide header, "a story of a son who has been destroyed by drinking."
-
-Vesak Design: 'The Women Quit, I Know About Pleasure'
-
-The Pandalism Design was a pleasure to create a pandal, but it was a pleasure to create a pandal.
-
-She was the initiative to create a pandal to create a pandal today (May 23) who lives in Godakawela, Ravadeniya village in Ratnapura District.
-
-There are 30,000 bulbs of the height of 40,000 bulbs, describing the trends.
-
-Women's contribution in the history of Pandala Design. When women were familiar with this work, this was the first time a woman was created by a woman. "
-
-◼️
-
-[Data](articles/c119a75f.json)
-
-[Extended Data](ext_articles/c119a75f.ext.json)
-
----
-
-### The first task is to strengthen the economy
-
-*2024-05-23 02:12:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தினை-வலுப்படுத்துவதே-முதல்-பணி/175-337743) · `ta`
-
-President Ranil Wickremesinghe prioritizes strengthening Sri Lanka's economy post-war, aiming for rapid economic recovery within four and a half years. He emphasizes the importance of addressing both war and economic rebuilding simultaneously. Currently, negotiations are underway with lenders like China and the IMF to avoid bankruptcy, with positive responses indicating readiness to sign separate agreements.
-
-🟩
-
-President Ranil Wickremesinghe said my first task was to strengthen the country's economy after taking over the country
-
-The President said this at the inauguration of the headquarters of the Sri Lankan former Veterans Association, which was constructed at the Ministry of Defense, Battaramulla Akuregoda.. As he addresses further.
-
-My first task was to strengthen the country's economy after taking over the country. And in the next four and a half years, the country's economy had to be taken quickly. During the war, he said, “It is not good to pull the war.. We must act accordingly in war and building the economy.
-
-Our country is currently improveing ​​economically. We are now negotiating with the countries that have lent us to be completely free from bankruptcy. The group and China are ready to accept our proposals. The International Monetary Fund has already accepted it. He said separate agreements would be signed with those countries.
-
-◼️
-
-[Data](articles/a8fff865.json)
-
-[Extended Data](ext_articles/a8fff865.ext.json)
 
 ---

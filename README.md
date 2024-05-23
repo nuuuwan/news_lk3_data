@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 18:23:12**
+As of **2024-05-23 18:34:31**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,940 (100.0%) of 25,941 articles have been extended.
+25,941 (100.0%) of 25,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### බස් රථයක් ඉදිරියට මාර ගසක අත්තක් කඩා වැටෙයි
+### A bus collapses in a muscle tree forwarding
 
 *2024-05-23 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196945) · `si`
 
-හැටන් සිට මහනුවර දක්වා ධාවනය වූ ලංගම බස් රථයක් ඉදිරියට විශාල මාර ගසක අත්තක් කඩා වැටී තිබේ.
+In Hatton, a SLTB bus en route to Kandy collided with a large tree due to adverse weather conditions, causing significant damage. The incident occurred near the Diyagala area on the main road. Authorities advise caution while driving during heavy rain and strong winds.
 
-මෙම අනතුර සිදුවී ඇත්තේ අද (23) දහවල් කාලයේදී හැටන් - මහනුවර ප්‍රධාන මාර්ගයේ දියගල ප්‍රදේශයේ දීය.
+🟩
 
-මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවල මේ දිනවල පවතින අයහපත් කාලගුණය සහ දැඩි සුළං තත්ත්වය හේතුවෙන් හැටන් සිට මහනුවර දක්වා ධාවනය වූ ලංගම බස් රථය ඉදිරියට මාර ගසේ අත්තක් කඩා වැටි තිබුණි.
+A SLTB bus, which was traveling from Hatton to Kandy, has collapsed a branch of a large tree.
 
-"එම අනතුරෙන් බස් රථයේ ගමන් ගත් මගින්ගේ ජිවිත බේරුණේ අනූනවයෙන්" යැයි පොලීසිය පවසයි.
+The accident had taken place in the Diyagala area in Hatton-Kandy main road.
 
-පවතින අධික වර්ෂාව සහ දැඩි සුළං හේතුවෙන් මාර්ගවල වාහන ධාවනය කිරීමේදී දැඩි සැලකිලිමත් වන ලෙස පොලීසිය ජනතාවගෙන් ඉල්ලා සිටී.
+The SLTB bus, which was run from Hatton to Kandy due to inclement weather and strong winds in the western standard, the SLTB bus was touched from Hatton to Kandy.
+
+"The bus survived by the bus," says the police.
+
+The police calls on the public to take care of the vehicles of roads due to heavy rains and strong winds.
 
 ◼️
 
 [Data](articles/a41b961c.json)
+
+[Extended Data](ext_articles/a41b961c.ext.json)
 
 ---
 

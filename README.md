@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 07:57:34**
+As of **2024-05-23 08:08:15**
 
 ## Newspaper Stats
 
-*Scraped **25,821** Articles*
+*Scraped **25,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,012
 virakesarilk | 3,924
-dailymirrorlk | 4,058
-adaderanasinhalalk | 4,121
+dailymirrorlk | 4,061
+adaderanasinhalalk | 4,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,819 (100.0%) of 25,821 articles have been extended.
+25,819 (100.0%) of 25,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### දිවයින පුරා වෙසක් කලාප 420ක්
+
+*2024-05-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196924) · `si`
+
+මෙවර වෙසක් උත්සවයට සමගාමීව දිවයින පුරා වෙසක් කලාප 420කට අධික සංඛ්‍යාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+
+දිවයින පුරා තොරණ 321කට වැඩි සංඛ්‍යාවක් ඉදිකර ඇති බව වාර්තා වේ.
+
+සෑම වසරකම පවත්වන දෙමටගොඩ, තොටලග, පිටකොටුව, නවලෝක ආදී තොරණ මෙවර ද විචිත්‍රවත්ව ප්‍රදර්ශනය කිරීමට සූදානම් කර තිබේ.
+
+කොළඹ දිස්ත්‍රික්කයට අමතරව දිවයිනේ සෙසු ප්‍රදේශවල ද තොරණ මෙන්ම විශාල පහන් කූඩු ද නිර්මාණය කර ඇති බව "අද දෙරණ" වාර්තාකරුවන් සඳහන් කළේය.
+
+වෙසක් දිනයට සමගාමීව දිවයින පුරා දන්සැල් 5,000කට ආසන්න සංඛ්‍යාවක් පැවැත්වීම සඳහා සැලසුම් කර ඇති බව වාර්තා වේ.
+
+වෙසක් කලාප ආශ්‍රිතව මෙන්ම ජනතාවගේ ආරක්ෂාව සඳහා පොලිස් නිලධාරින් 18,000කට අධික සංඛ්‍යාවක් යොදවා ඇති බවෙ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+මේ අතර දෙරණ මාධ්‍ය ජාලය සංවිධානය කරනු ලබන මහ බත් දන්සැල කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රයේ දී අද රාත්‍රී 8.00ට ආරම්භ කිරීමට මේ වන විට සියලු කටයුතු සුදානම් කර තිබේ.
+
+අදට යෙදෙන වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමීමට බන්ධනාගාර දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/3f8d58e6.json)
+
+---
 
 ### ජාතික රෝහලේ දී එන්නතක් තවත් ජීවිතයක් බිලිගනී
 
@@ -53,6 +79,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/92c0c7ad.json)
+
+---
+
+### Today is Vesak Full Moon Poya Day
+
+*2024-05-23 07:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Today-is-Vesak-Full-Moon-Poya-Day/108-283216) · `en`
+
+Today is Vesak Full Moon Poya Day, a significant and sacred event for Buddhists around the world.
+
+Vesak celebrates and marks the birth, the enlightenment and the mahaparinirvana of Gautama Buddha. It is celebrated with great reverence and devotion in many countries, particularly in Sri Lanka, where it is a public holiday.
+
+In Sri Lanka, the day is marked by various religious and cultural activities. Buddhist temples are filled with devotees who engage in rituals such as lighting oil lamps, offering flowers and participating in meditation and prayers. Many people observe sil, a practice of following the Eight Precepts, which include abstaining from harmful actions and cultivating mindfulness.
+
+...
+
+[Data](articles/885f9151.json)
+
+---
+
+### 150mm of rain witnessed around the country today
+
+*2024-05-23 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/150mm-of-rain-witnessed-around-the-country-today/108-283215) · `en`
+
+Colombo, May 23 (Daily Mirror) - The southwest monsoon conditions are gradually establishing over the island and heavy showers of about 150 mm will be observed in the  Sabaragamuwa Province and in the  Kandy and Nuwara-Eliya districts during the day.
+
+While issuing a general weather forecast this morning, the Forecasting Division of the National Meteorological Centre also said the prevailing showery and windy conditions will continue further.
+
+Accordingly, heavy showers above 100 mm are likely at some places in the Western and North-Western Provinces and in the Mannar, Galle and Matara districts.
+
+Meanwhile, showers will occur in the Western, Sabaragamuwa, Central, North-Western, Southern, and Northern Provinces.
+
+Strong winds up to 60 kmph can be expected at times over the western slopes of the central hills and in the Northern, North-Central, Western, Southern, and North-Western-Provinces.
+
+...
+
+[Data](articles/f66c983c.json)
 
 ---
 
@@ -143,6 +205,28 @@ At present, those in those areas have been immediately informed to land immediat
 [Data](articles/99374697.json)
 
 [Extended Data](ext_articles/99374697.ext.json)
+
+---
+
+### Leading foreign- funded NGOs spending unchecked
+
+*2024-05-23 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Leading-foreign-funded-NGOs-spending-unchecked/155-283214) · `en`
+
+*NGO Secretariat in the lurch in access to monitor their activities
+
+A number of leading NGOs funded by various foreign sources for projects such as gender rights, human rights and democratic governance have been registered only as guaranteed companies under the registrar of Companies leaving the National NGO Secretariat in the lurch in having a check on their expenses and activities, a top source said.
+
+The NGOs registered with the Secretariat received as much as Rs.33 billion in funding last year.
+
+According to the source, even a bigger amount should have been spent by other key NGOs funded by sources in some powerful countries.
+
+The source said, the proposed Non-governmental Organizations (Registration and Supervision) Bill ‘which is now in the final stage to be presented in Parliament for enactment will provide for the establishment of a proper check on spending and activities of such NGOs.
+
+These NGOs had been registered as guaranteed companies under the Registrar of Companies.
+
+...
+
+[Data](articles/dfd687ae.json)
 
 ---
 
@@ -2197,79 +2281,5 @@ Director General of the Department Susantha Kahawatte states that it has been in
 [Data](articles/50308f3d.json)
 
 [Extended Data](ext_articles/50308f3d.ext.json)
-
----
-
-### Aura Lanka chairman Viranjith Thambugala arrested
-
-*2024-05-22 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99381/aura-lanka-chairman-viranjith-thambugala-arrested) · `en`
-
-The Chairman of Aura Lanka, businessman Viranjith Thambugala,  has been arrested by police over allegations of financial fraud.
-
-He has been remanded until May 27 after being produced before the Colombo Magistrate’s Court.
-
-Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner of the ‘Dambulla Aura’ team in the Lanka Premier League (LPL).
-
-◼️
-
-[Data](articles/39993d0e.json)
-
-[Extended Data](ext_articles/39993d0e.ext.json)
-
----
-
-### Update: Aura Lanka Chairman remanded
-
-*2024-05-22 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Aura-Lanka-Chairman-remanded/108-283165) · `en`
-
-May 22 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala has been arrested by the Criminal Investigation Department (CID).
-
-Police said Thambugala was arrested over allegations of several financial frauds.
-
-He was remanded until May 27 by the Colombo Magistrate's Court..
-
-◼️
-
-[Data](articles/76823a96.json)
-
-[Extended Data](ext_articles/76823a96.ext.json)
-
----
-
-### Aura Lanka Chairman arrested
-
-*2024-05-22 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aura-Lanka-Chairman-arrested/108-283165) · `en`
-
-May 22 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala has been arrested by police.
-
-Police said Thambugala was arrested over allegations of several financial frauds and will be produced in court.
-
-◼️
-
-[Data](articles/b5a3aa70.json)
-
-[Extended Data](ext_articles/b5a3aa70.ext.json)
-
----
-
-### Sri Lanka denies Justin Tulledha's charge
-
-*2024-05-22 15:48:12* · [`adalk`](https://www.ada.lk/breaking_news/ජස්ටින්-ටෘඩෝගේ-චෝදනාව-ලංකාව-ප්‍රතික්ෂේප-කරයි/11-409791) · `si`
-
-Sri Lanka disputes claims made by Canadian PM Justin Tulledha on May 18, 2024, stating them as false accusations. The government reaffirms its commitment to its valuable Sri Lankan diaspora, expressing gratitude for their support amidst disruptions caused by the Prime Minister's statements.
-
-🟩
-
-The Ministry of External Affairs has rejected the false accusation claim that Canadian Prime Minister Justin Tulled on May 18, 2024
-
-The Ministry of External Affairs has not yet been rejected in all communications that the Government of Sri Lanka has been rejected in all communications.
-
-Sri Lankan liasards, a valuable community with a precious community with a precious community of Sri Lankan heritage, is so disrupted by the Prime Minister of Prime Minister.The statement states that it is significantly with Sri Lanka and accepts their support.
-
-◼️
-
-[Data](articles/4dcdd550.json)
-
-[Extended Data](ext_articles/4dcdd550.ext.json)
 
 ---

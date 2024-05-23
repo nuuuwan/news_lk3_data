@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 10:35:00**
+As of **2024-05-23 10:52:38**
 
 ## Newspaper Stats
 
-*Scraped **25,860** Articles*
+*Scraped **25,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ bbccomsinhala | 262
 newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
-dailyftlk | 1,532
+dailyftlk | 1,533
 adalk | 2,216
 adaderanalk | 2,970
 tamilmirrorlk | 3,016
-virakesarilk | 3,929
+virakesarilk | 3,930
 dailymirrorlk | 4,067
-adaderanasinhalalk | 4,126
+adaderanasinhalalk | 4,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,857 (100.0%) of 25,860 articles have been extended.
+25,860 (100.0%) of 25,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### ගාලු පාර කළුතර පාලම අසලින් අවහිර වෙයි
+
+*2024-05-23 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196929) · `si`
+
+කළුතර නගරය හරහා හමා ගිය තද සුළං තත්ත්වයක් හේතුවෙන් කළුතර පාලම ආසන්නයේ තිබූ ගසක් කඩා වැටී තිබේ.
+
+ඒ හේතුවෙන් ගාල්ලේ සිට කොළඹ දක්වා දිවෙන ප්‍රධාන මංතීරුව අවහිර වී ඇතැයි අප වාර්තාකරු පැවසීය.
+
+ගස කඩා වැටීමත් සමග මාර්ගයේ දැඩි රථ වාහන තදබදයක් හට ගෙන තිබූ අතර, මාර්ග යථාතත්ත්වයට පත්කිරීමේ කටයුතු මේ වනවිට ආරම්භ කර ඇතැයි ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/5ac4542c.json)
+
+---
 
 ### President’s Vesak message: ‘Sacrifice today for a better tomorrow’
 
@@ -47,6 +63,24 @@ At this challenging moment, we as a nation should cultivate the same great zeal 
 ...
 
 [Data](articles/82f50170.json)
+
+[Extended Data](ext_articles/82f50170.ext.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை தொடர்பில் வெளியான முக்கிய அறிவித்தல்
+
+*2024-05-23 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184284) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை எதிர்வரும் செப்டெம்பர் மாதம் 15 ஆம் திகதி  நடைபெறவுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+பரீட்சைக்குரிய விண்ணப்பங்கள் அடுத்த வாரம் முதல் ஏற்றுக் கொள்ளப்படவுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+பரீட்சைக்கான விண்ணப்பங்களை எதிர்வரும் 27 ஆம் திகதி முதல் ஜூன் மாதம் 14 ஆம் திகதி வரை இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/4c6ff5fc.json)
 
 ---
 
@@ -65,6 +99,8 @@ Buddhists in Sri Lanka, along with their brethren around the globe, celebrate Ve
 ...
 
 [Data](articles/2d274c40.json)
+
+[Extended Data](ext_articles/2d274c40.ext.json)
 
 ---
 
@@ -824,19 +860,25 @@ The new Central Banking Act entrusted the Central Bank with promoting financial 
 
 ---
 
-### ශ්‍රී ලංකාවේ ජාතික විභාග: මෑතක සිට ප්‍රශ්න සහගත වන්නේ ඇයි?
+### National Examinations in Sri Lanka: Why is it being questioned recently?
 
 *2024-05-23 04:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cnee2ym7kwwo) · `si`
 
-ශ්‍රී ලංකාවේ පාසල් පද්ධතිය තුළ පැවැත්වෙන ජාතික මට්ටමේ ප්‍රධාන විභාග තුන ලෙස 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය, අධ්‍යාපන පොදු සහතිකපත්‍ර සාමාන්‍ය පෙළ හා උසස් පෙළ විභාග හැඳින්විය හැකිය. වසරකට මෙම විභාග තුන සඳහා ලක්ෂ ගණනක් සිසුහු පෙනී සිටිති. මුල් විභාග දෙකෙන් ම ඉදිරි අධ්‍යාපන කටයුතු සඳහා පහසුකම් වැඩි පාසලකට යාමට ද අවස්ථාව හිමිවන නිසා සහ උසස් පෙළ විභාගය යනු විශ්වවිද්‍යාල ප්‍රවේශය තීරණය කරන තීරණාත්මක විභාගයක් ද වන නිසා බොහෝ සිසු සිසුවියන් උත්සහ කරන්නේ තමාට හැකි උපරිමයෙන් මෙම විභාග සමත් වීමට ය.
+Recent controversies surround Sri Lanka's national examinations, including concerns over question paper accuracy and integrity. Issues range from alleged leaks and discrepancies in content to complaints about the quality of questions across various subjects. These problems have raised questions about the credibility of the examination system and its impact on students' mental health and academic performance.
 
-කෙසේ නමුත් මෑතක දී දිගින් දිගටම මෙම විභාග සම්බන්ධයෙන් විවිධ ගැටළුකාරී තත්වයන් පැන නැගුණි. මෑතක දී පැවැත්වූ බොහෝ විභාග වල දී ප්‍රශ්න පත්‍රය පිට වූ බවට ප්‍රචාරයන් පැතිරුණු අතර, ඇතැම් ප්‍රශ්න පත්‍රවල ප්‍රශ්න වල නිරවද්‍යතාවය, පිළිතුරු සම්බන්ධ ගැටළු, විෂය නිර්දේශයෙන් පරිබාහිර කරුණු අඩංගු වීම වැනි ප්‍රශ්න මතු වී තිබුණි.
+🟩
 
-අධ්‍යාපනයේ මහිමයෙන් ලෝකය ජය ගත් හේනේ පැලක පාඩම් කළ ශ්‍රී ලාංකිකයා
+The three Grade 5 Scholarship Examination, Education General Guidelines and A / L examination can be referred to the three main examination held in Sri Lanka's school system.. 300,000 students appear for these three examinations per year. Since the educational facilities are also available to the future education and the GCE A / L examination is a decisive examination that determines the university entrance, and many students try to pass these exams.
+
+However, many issues have erupted on these examinations. There was questions such as the accuracy of the question paper in many recent examinations, and certain questions such as the accuracy of questions and answers.
+
+The Sri Lankan who has won the world from the glory of education
 
 ...
 
 [Data](articles/9593fc7f.json)
+
+[Extended Data](ext_articles/9593fc7f.ext.json)
 
 ---
 
@@ -1413,6 +1455,20 @@ While earlier generations used perceptions and logical inferences to understand 
 [Data](articles/14d350f6.json)
 
 [Extended Data](ext_articles/14d350f6.ext.json)
+
+---
+
+### Buddhist meditation for tech savvy generation
+
+*2024-05-23 01:11:16* · [`dailyftlk`](https://www.ft.lk/columns/Buddhist-meditation-for-tech-savvy-generation/4-762131) · `en`
+
+Today, scientific knowledge is the best and most accessible tool to relate to Buddha’s teaching
+
+While earlier generations used perceptions and logical inferences to understand the nature of the universe and humans’ place in it, today, science is using experimental methods to achieve the same goal. This effort has generated a vast amount of information on subjects relevant to Buddhist meditation and described them in terms relatable to the present generation
+
+...
+
+[Data](articles/c090548d.json)
 
 ---
 
@@ -2209,67 +2265,5 @@ Jayasekera has over 20 years of leadership experience in Human Resources. He was
 [Data](articles/47337ae1.json)
 
 [Extended Data](ext_articles/47337ae1.ext.json)
-
----
-
-### Dansals in Colombo
-
-*2024-05-22 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Dansals-in-Colombo/110-283174) · `en`
-
-Several dansals were conducted around the Colombo city to mark the Vesak full moon Poya Day. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/9cbfb17f.json)
-
-[Extended Data](ext_articles/9cbfb17f.ext.json)
-
----
-
-### The first task is to strengthen the country's economy;Make Special Arrangements Law to the Protection of Security - President
-
-*2024-05-22 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184260) · `ta`
-
-President Ranil Wickremesinghe focuses on strengthening Sri Lanka's economy, aiming for quick decisions in the next four and a half years. He mentions progress in talks with lenders to avoid bankruptcy and the IMF's acceptance of ongoing tasks. Plans include submitting a Special Provisions Act, legalizing the Armed Forces Committee, and improving retired security personnel's lives. A new institute for strategic studies is proposed, along with addressing veterans' issues and economic recovery efforts.
-
-🟩
-
-President Ranil Wickremesinghe said his first task was to strengthen the country's economy after taking over the country.
-
-The President also said that in the next four and a half years, the country's economy had to make decisions quickly.
-
-The President said that the country is currently making economic progress and is now in talks with the countries that have been lending to be completely free from bankruptcy.
-
-The President also pointed out that the International Monetary Fund has already accepted the ongoing tasks.
-
-At this juncture, the President said he expects to submit the Special Provisions Act and that he expects the National Security Council to legalize and appoint the Armed Forces Committee.
-
-He also said that a new program would be implemented to improve the quality of life of retired security personnel.
-
-...
-
-[Data](articles/ca12753f.json)
-
-[Extended Data](ext_articles/ca12753f.ext.json)
-
----
-
-### Sri Lanka to offer military tactics education to armed forces, retirees, civilians: President
-
-*2024-05-22 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-military-tactics-education-to-armed-forces-retirees-civilians-president-164294/) · `en`
-
-ECONOMYNEXT – The government is dedicated to addressing the challenges faced by the members of the Sri Lanka Ex-Servicemen’s Association and other retired government employees, President Ranil Wickremesinghe has said.
-
-“We will establish the Sri Lanka Institute of Strategic Studies, which will offer military tactics education to those in the armed services, retirees, and civilians,” Wickremesinghe was quoted as saying by his media division.
-
-“Interested individuals can participate in these programs. This initiative will coincide with the on-going restructuring of the security force.” The President was speaking at the inauguration of the headquarters complex of the Sri Lanka Ex-Servicemen’s Association, ‘Home of Veterans,’ in Battaramulla.
-
-The president said it was undeniable that retirees bore the brunt of the challenges during the recent ‘difficult period’. “We need to explore what concessions can be offered to each sector.”
-
-...
-
-[Data](articles/75b38060.json)
-
-[Extended Data](ext_articles/75b38060.ext.json)
 
 ---

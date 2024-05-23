@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 15:52:45**
+As of **2024-05-23 16:05:31**
 
 ## Newspaper Stats
 
-*Scraped **25,917** Articles*
+*Scraped **25,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 2,976
 tamilmirrorlk | 3,027
 virakesarilk | 3,945
 dailymirrorlk | 4,075
-adaderanasinhalalk | 4,135
+adaderanasinhalalk | 4,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,914 (100.0%) of 25,917 articles have been extended.
+25,917 (100.0%) of 25,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### දන්සල සූදානම් කර නින්දට ගිය පිය පුතු දෙදෙනා මරුට
+
+*2024-05-23 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196939) · `si`
+
+විදුලි ජනක යන්ත්‍රයක් ක්‍රියාත්මක කර නින්දට ගිය පියෙකු සහ පුතෙකු අද (23) දින අලුයම ජීවිතක්ෂයට පත්වී ඇති බව පුපුරැස්ස පොලීසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ පුපුරැස්ස නෙස්ටා ජනපදයේ පදිංචිව සිටි සනත් රෝහණ නම් 40 හැවිරිදි අයෙක් සහ ගගණ මධුසංඛ නමැති 17 හැවිරිදි අයෙකි.
+
+ජීවිතක්ෂයට පත්වූ දෙදෙනා වෙසක් සැමරුම වෙනුවෙන් අද දිනයේ පුපුරැස්ස නගරයේ බත් දන්සැලක් පැවැත්වීමට සූදානමින් සිට තිබුණි.
+
+ඊයේ (22) දින හදිසියේ ප්‍රදේශයේ විදුලි බලය ඇණහිටීම හේතුවෙන් කාමරයක් තුළ විදුලි ජනන යන්ත්‍රයක් ක්‍රියාත්මක කර දෙදෙනා නින්දට ගොස් ඇති බව වාර්තා වෙයි.
+
+අද අලුයම දෙදෙනා අවදි නොවු නිසා ඒ පිලිබඳව දන්සැල සංවිධානය කිරීමට පැමිණි පිරිසක් විසින් පුපුරැස්ස පොලීසියට දැනුම්දී තිබුණි.
+
+පුපුරැස්ස පොලීසියේ නිලධාරීන් ඒ පිළිබඳව සොයා බැලීමේදී පුතා සහ පියා ජීවිතක්ෂයට පත්වී ඇති බවට තහවුරු වී ඇත.
+
+...
+
+[Data](articles/974d29c1.json)
+
+---
 
 ### A sister's boyfriend abuse
 
@@ -50,27 +72,35 @@ The man is said to have been hiding even though the police took steps to arrest 
 
 ---
 
-### අමනාපවී ගෙදරින් පළාගිය දරුවා මහණ කර සිටියදී හමුවෙයි
+### Amazingly arrested when he was seated while hesing
 
 *2024-05-23 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196938) · `si`
 
-මිත්තණිය සමග අමනාව වී නිවසින් ගොස් අතුරුදන් වූ දරුවා මහණ කර සිටියදී හමුවී තිබේ.
+A child was reported missing from Madurankuliya, last seen with a monk at a local temple. The boy, the eldest of three siblings, disappeared after watching TV with his grandmother. Despite extensive searches and no CCTV evidence, the child was found at a Kataragama temple, handed over by a monk from the Puttalam Paliyava temple.
 
-මදුරන්කුලිය පොලීසිය සඳහන් කළේ හිමිනමක් විසින් දරුවාව රැගෙන ගොස් කතරගම ප්‍රදේශයේ විහාරස්ථානයකදී මහණ කර සිටියදී සොයාගත් බවය.
+🟩
 
-මෙලෙස මහණ කර ඇත්තේ මදුරන්කුලිය නගරයට ආසන්නයෙ නිවසක පදිංචිව සිටි මදුරන්කුලිය ආදර්ශ විද්‍යාලයේ 7 වන ශ්‍රේණියේ අධ්‍යාපනය හදාරමින් සිටි ගගන නෙතුසර ප්‍රියනන්දන නමැති දරුවෙකි.
+With the grandmother with the grandmother, the child who went away and went to death.
 
-ඔහු සහෝදර සහෝදරියන් තිදෙනෙකුගෙන් සමන්විත පවුලක වැඩිමල් දරුවා වන බවද පොලීසිය කියයි.
+Madurankuliya Police said that a monk was taken while he was discovered while he was taken away at a Viharaya area in Kataragama.
 
-මෙම දරුවා පසුගිය 18 වනදා දින මදුරන්කුලිය සිය මිත්තණියගේ නිවසේ සිටියදී රූපවාහිනී යන්ත්‍රය නරඹමින් සිට ඇති අතර එහිදී මිත්තණිය ප්‍රිය කරන වැඩසටහනක් නොදැමීම නිසා මිත්තණිය විසින් දරුවාට බැණවැදී තිබේ.
+The children who were studying in a house near Madurankuliya Sampayer Sampayer College, who was living near Madurankuliya Sampayer College, who was living near Madurankuliya Sampayer College, was a resident of Madurankuliya.
 
-නිවසින් ගිය දරුවා පිළිබඳව මදුරන්කුලිය පොලීසිය විසින් කළ විමර්ශනවලදී හෙළිවී ඇත්තේ පුලිච්චාකුලම දක්වා ගමන් කරන දර්ශන මාර්ගය දෙපස CCTV කැමරා පද්ධතිවල සටහන්ව තිබූ බවය.
+He is the eldest child of a family consisting of three brothers and sisters.
 
-නමුත් ඉන් ඉදිරියට දරුවා ගමන් කරනු ලබන CCTV දර්ශන හමුවී නොමැත.
+The child had been watching the television in Madurankuliya on the 18th of his grandmother on the 18th of his grandmother.
+
+Investigations by the Maduranakuliya Police have revealed that the Madurankuliya Police had revealed the road to Pulipankulam.
+
+But the CCTV footage is not met with the child.
+
+The Kataragama police have received information yesterday (22) that the child was raised at a Kataragama Viharaya with the continuous revelation of the missing child.
 
 ...
 
 [Data](articles/f149719e.json)
+
+[Extended Data](ext_articles/f149719e.ext.json)
 
 ---
 
@@ -180,35 +210,57 @@ Prisons Commissioner Gamini B says that the action of outsiders in the country w
 
 ---
 
-### විදුලිබිඳ වැටීම් 36900ක්
+### 36900 fensions
 
 *2024-05-23 14:18:10* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබිඳ-වැටීම්-36900ක්/11-409804) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පසුගිය දින තුන ඇතුළත පාරිභෝගිකයන් තුන් ලක්ෂයකට වැඩි පිරිසකගේ විදුලිය විසන්ධිවී තිබුණ බව විදුලි බල හා බලශක් අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Due to bad weather, over 300k customers lost power, with 39,600 outages reported in the past three days.
 
-සිය එක්ස් ගිණුමෙන් සටහනක් තබමින් ඔහු පැවැසුවේ විදුලි බිඳ වැටීම් 39600ක් වාර්තා වී ඇති බවයි. .
+🟩
+
+The electricity and power of power, Kanchana Wijesekara says that the electricity supply of more than three hundred thousand customers have been disconnected in the last three days due to inclement weather.
+
+He said a note from his X account that 39600 electric drows were reported. .
 
 ◼️
 
 [Data](articles/70a0d101.json)
 
+[Extended Data](ext_articles/70a0d101.ext.json)
+
 ---
 
-### ලක්‍ෂ  51ක දුම්වැටි කටුනායකින් අල්ලයි
+### Cigarettes of 51 lakhs arrested
 
 *2024-05-23 14:13:05* · [`adalk`](https://www.ada.lk/breaking_news/ලක්‍ෂ--51ක-දුම්වැටි-කටුනායකින්-අල්ලයි/11-409803) · `si`
 
-නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි   රුපියල් පනස් එක් ලක්ෂ හැට දහසක් පමණ වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි 51,600 ක් අඩංගු දුම්වැටි කාටූන් 258 ක තොගයක් සමග  ඒවා රැගෙන ආ  ගුවන් මගීන් දෙදෙනෙකු ද ගුවන් තොටුපොළ  පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් 05/23 දින අලුයම අත් අඩංගුවට ගෙන තිබේ .
+Two individuals, a 48-year-old businessman from Marawila, Chilaw, and a 33-year-old from Modara, Colombo, were arrested at the Katunayake airport for smuggling cigarettes. The first had 86 cartons (17,200 cigarettes) and the second had 123 cartons (24,600 cigarettes), along with 49 cartons of "Platinum" cigarettes. They were released on bail and will appear in court on May 29th.
 
-මේ අතරින් එක් ගුවන් මගියෙකු හලාවත , මාරවිල ප්‍රදේශයේ පදිංචි 48 හැවිරිදි ව්‍යාපාරික කාන්තාවකි . ඇය නිතර නිතර ගුවන් ගමන් වල නිරත වෙමින් විවිධ භාණ්ඩ මෙරටට අලෙවි කිරීමේ යෙදී සිටින ව්‍යාපාරික කාන්තාවකි .
+🟩
 
-ඇය 05/23 දින අලුයම 05.15 ට ඉන්දියාවේ බැංගලෝර් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 174 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Two passengers were brought to the country with 51,600 cigarettes of Rs.5/23 morning was arrested.
 
-ඇය සිය ගමන් මල්ලේ සගවා ගෙන රුපියල් දහ හත් ලක්ෂ විසි දහසක් වටිනා " මැන්චෙස්ටර් " වර්ගයේ දුම්වැටි 17,200 ක් අඩංගු දුම්වැටි කාටූන් 86 ක් සගවා ගෙන පැමිණ තිබුණි .
+One of the passengers, a 48 year old businessman resident of Marawila, Chilaw. She is frequent frequent flights and selling various items to Sri Lanka.
+
+She was 5.15 am from Bangalore, Bangalore, India from Bangalore, India from Bangalore, India - The Airport held at the Katunayake airport on the 174th.
+
+She was enacted by her travel bag and 86 cigarettes crocodies were brought in 17,200 smoky cigarettes worth Rs.
+
+A 33-year-old businessman resident of Modara, Colombo, was also taken to the Katunayake airport.
+
+He from Dubai to SriLankan Airlines from Dubai at 05/23 days. The airport was arrived at the Katunayake airport on the 226.
+
+He has taken 123 cigarettes cartoons containing 24,600 smoking cigarettes worth Rs.
+
+In addition, the businessman is the "Platinum" type of "Platinum" cigarettes worth Rs
+
+49 smoking cartoons containing 9,800 cigarettes were brought to their luggage.
 
 ...
 
 [Data](articles/a6bb8448.json)
+
+[Extended Data](ext_articles/a6bb8448.ext.json)
 
 ---
 
@@ -2239,29 +2291,5 @@ Our country is currently improveing ​​economically. We are now negotiating w
 [Data](articles/a8fff865.json)
 
 [Extended Data](ext_articles/a8fff865.ext.json)
-
----
-
-### Swords cut between youths including police officer in Jaffna
-
-*2024-05-23 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184273) · `ta`
-
-In Jaffna, a sword fight involving a police officer led to injuries for three people, including the officer, who were hospitalized. The incident occurred due to a personal dispute and is under investigation by local authorities.
-
-🟩
-
-In a sword cutting incident in Jaffna, a police officer of the Kankesanthurai Police Regional Criminal Investigation Division was involved in the hospital.
-
-A confrontation between a police officer, including a police officer, has ended in a sword cutting incident on Tuesday (21) in Tholpuram area.
-
-Three persons, including the police officer, were injured and admitted to the Jaffna Teaching Hospital.
-
-While the Vaddukoddai police are carrying out investigations into the incident, a personal contradiction is said to be the cause of the sword cutting incident.. Further investigations are being carried out by the police
-
-◼️
-
-[Data](articles/c93eb3ba.json)
-
-[Extended Data](ext_articles/c93eb3ba.ext.json)
 
 ---

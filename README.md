@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 10:52:38**
+As of **2024-05-23 11:04:34**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,860 (100.0%) of 25,863 articles have been extended.
+25,863 (100.0%) of 25,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ගාලු පාර කළුතර පාලම අසලින් අවහිර වෙයි
+### Galle road blocked by Bridge in Kalutara
 
 *2024-05-23 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196929) · `si`
 
-කළුතර නගරය හරහා හමා ගිය තද සුළං තත්ත්වයක් හේතුවෙන් කළුතර පාලම ආසන්නයේ තිබූ ගසක් කඩා වැටී තිබේ.
+Strong winds caused a tree to collapse near the Kalutara Bridge, blocking the main lane from Galle to Colombo and causing significant traffic congestion.
 
-ඒ හේතුවෙන් ගාල්ලේ සිට කොළඹ දක්වා දිවෙන ප්‍රධාන මංතීරුව අවහිර වී ඇතැයි අප වාර්තාකරු පැවසීය.
+🟩
 
-ගස කඩා වැටීමත් සමග මාර්ගයේ දැඩි රථ වාහන තදබදයක් හට ගෙන තිබූ අතර, මාර්ග යථාතත්ත්වයට පත්කිරීමේ කටයුතු මේ වනවිට ආරම්භ කර ඇතැයි ද වාර්තා වේ.
+A tree near the Kalutara Bridge has collapses due to strong winds in Kalutara.
+
+As a result, the main lane, dating from Galle to Colombo, has blocked, our correspondent said.
+
+It is reported that the tree has been severely causing severe traffic congestion with the tree.
 
 ◼️
 
 [Data](articles/5ac4542c.json)
+
+[Extended Data](ext_articles/5ac4542c.ext.json)
 
 ---
 
@@ -68,19 +74,25 @@ At this challenging moment, we as a nation should cultivate the same great zeal 
 
 ---
 
-### தரம் 5 புலமைப்பரிசில் பரீட்சை தொடர்பில் வெளியான முக்கிய அறிவித்தல்
+### Grade 5 Scholarship Examination
 
 *2024-05-23 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184284) · `ta`
 
-2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை எதிர்வரும் செப்டெம்பர் மாதம் 15 ஆம் திகதி  நடைபெறவுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+The Grade 5 Scholarship Exam for 2024 is on September 15. Applications open next week and close June 14 via online submission.
 
-பரீட்சைக்குரிய விண்ணப்பங்கள் அடுத்த வாரம் முதல் ஏற்றுக் கொள்ளப்படவுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+🟩
 
-பரீட்சைக்கான விண்ணப்பங்களை எதிர்வரும் 27 ஆம் திகதி முதல் ஜூன் மாதம் 14 ஆம் திகதி வரை இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது.
+The Department of Examinations has announced that the Grade 5 Scholarship Examination for 2024 will be held on September 15.
+
+The Department of Examinations has announced that applications for the examination will be accepted from next week.
+
+Applications for the examination can be submitted through enemy from the 27th to June 14, the Department of Examinations said.
 
 ◼️
 
 [Data](articles/4c6ff5fc.json)
+
+[Extended Data](ext_articles/4c6ff5fc.ext.json)
 
 ---
 
@@ -1469,6 +1481,8 @@ While earlier generations used perceptions and logical inferences to understand 
 ...
 
 [Data](articles/c090548d.json)
+
+[Extended Data](ext_articles/c090548d.ext.json)
 
 ---
 

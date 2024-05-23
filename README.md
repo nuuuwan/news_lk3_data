@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 12:06:23**
+As of **2024-05-23 12:18:33**
 
 ## Newspaper Stats
 
-*Scraped **25,872** Articles*
+*Scraped **25,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,216
 adaderanalk | 2,974
 tamilmirrorlk | 3,019
 virakesarilk | 3,930
-dailymirrorlk | 4,069
-adaderanasinhalalk | 4,127
+dailymirrorlk | 4,070
+adaderanasinhalalk | 4,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,871 (100.0%) of 25,872 articles have been extended.
+25,872 (100.0%) of 25,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Over 36,000 breakdowns during last three days: Minister
+
+*2024-05-23 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-36-000-breakdowns-during-last-three-days-Minister/108-283248) · `en`
+
+Colombo, May 23 (Daily Mirror)- The Ceylon Electricity Board (CEB) has reported over 36,900 breakdowns resulting in power interruptions to more than 300,000 consumers in the last three days due to the inclement weather, Power and Energy Minister Kanchana Wijsekara said today.
+
+He said in a statement on X that additional service staff has been assigned to attend to the breakdowns and the CEB management and service staff are working 24 hours to restore power to the affected consumers.
+
+"If consumers are unable to repot power interruptions through the CEB hotline 1987, they can use the SMS option to 1987 with BD and the electricity consumer number to follow, use the CEB Care app or through http://cebcare.ceb.lk," he said.
+
+◼️
+
+[Data](articles/a95dc7aa.json)
+
+---
 
 ### Fallen tree blocks section of Galle Road
 
@@ -45,6 +61,30 @@ Heavy traffic congestion was observed in the areas as a result, however, efforts
 ◼️
 
 [Data](articles/41281e3c.json)
+
+[Extended Data](ext_articles/41281e3c.ext.json)
+
+---
+
+### කරාපිටිය ශික්ෂණ රෝහල තෙවැනි ජාතික රෝහල බවට පත්කෙරේ
+
+*2024-05-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196931) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහල මෙරට තෙවැනි ජාතික රෝහල බවට පත්කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+අද (23) පැවති අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කළේය.
+
+මේ වනවිට ලංකාවේ සංවර්ධිත ජාතික රෝහල් ලෙස ඇත්තේ කොළඹ සහ මහනුවර ජාතික රෝහල් පමණි.
+
+ඒ අනුව කරාපිටිය ශික්ෂණ රෝහල ජාතික රෝහලක් ලෙස සංවර්ධනය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+මේ වනවිටත් කරාපිටිය රෝහල සෞඛ්‍ය කේෂ්ත්‍රයේ වෛද්‍යවරු, හෙද හෙදියන් ආදිය පුහුණුකිරීමේ කටයුතුවලට වැඩි දායකත්වයක් දක්වන බව ද පැවසු අමාත්‍යවරයා, රුහුණු විශ්වවිද්‍යාලයේ සායනික පුහුණුව ලබාදෙන රෝහල ලෙස වසරකට 1000කට වඩා වෛද්‍ය සිසුන් ප්‍රමාණයකට පුහුණුවීම් ලබාදෙන බව ද සඳහන් කළේය.
+
+මේ අතර පොතුවිල් මුලික රෝහල මධ්‍යම රජයට පවරාගෙන සංවර්ධනය කිරීම සඳහා ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/0c21638d.json)
 
 ---
 
@@ -103,6 +143,18 @@ The petitioners are further seeking an order directing the Sri Lanka Railways to
 [Data](articles/b12125be.json)
 
 [Extended Data](ext_articles/b12125be.ext.json)
+
+---
+
+### කැබිනට් මාධ්‍ය හමුව
+
+*2024-05-23 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196930) · `si`
+
+අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ දී ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/445481f5.json)
 
 ---
 
@@ -2185,87 +2237,5 @@ Prison Commissioner Gamini B. It is noteworthy that Dissanayake added.
 [Data](articles/289f13d6.json)
 
 [Extended Data](ext_articles/289f13d6.ext.json)
-
----
-
-### Russell Arnold as one of Australia's multi -cultural ambassadors
-
-*2024-05-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184262) · `ta`
-
-Russell Premakumaran, a former Sri Lankan cricketer and commentator, joins Cricket Australia's multicultural ambassador program, alongside other notable figures from various backgrounds. This initiative aims to bridge gaps between sports and society, focusing on participation, high performance, representation, communication, and events. Ambassadors like Usman Khawaja, Alana King, and Wasim Akram will leverage their expertise to foster a more inclusive cricket community in Australia.
-
-🟩
-
-Cricket Australia (Australian Cricket Company) has been named one of the 54 representatives of his multi -cultural ambassadors program, Russell Premakumaran, former Sri Lankan commentator and former Sri Lankan player.
-
-The Ambassador's Plan is an important feature of the Australian Cricket's multi -cultural program in the merger of various sectors in the field of sports and vast society.
-
-The ambassadors also include former and contemporary players, industrial and social leaders.
-
-They will provide multifaceted support to achieve the goals underlined.
-
-The initial ambassadors include Usman Khawaja, Alana King, Scott Polent, Wasim Akram, Ravi Shastri, Lisa Stalkar, Kishwore Chaudhary, Peter Varghese, Swati Dave and Pawad Ahmad.
-
-The government, trade, community, media and cricket will help the government to implement the five aspects of the Australian Cricket Cultural Action Scheme.
-
-...
-
-[Data](articles/4fcc6268.json)
-
-[Extended Data](ext_articles/4fcc6268.ext.json)
-
----
-
-### 4 Sri Lankans have gone to India to assassinate Hindus - Weerasekera
-
-*2024-05-22 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184243) · `ta`
-
-Four Sri Lankans traveled to India on the 18th to allegedly assassinate members of the Bharatiya Janata Party and Hindus, influenced by ISIS's policies. Sarath Weerasekera warned of potential future attacks like the Sri Lanka bombing. He urged the elimination of fundamentalism and terrorism for freedom. Investigations into the bombings have concluded, with charges filed against a party. The government faces criticism for its handling of terrorist activities, particularly concerning the Muslim community.
-
-🟩
-
-Four Sri Lankans went to India on the 18th to assassinate the Bharatiya Janata Party and the Hindus.
-
-They are attracted by the policy of ISIS in the short term. The government should implement the recommendations made on Islamic fundamentalism.
-
-Sarath Weerasekera, chairman of the National Security Department's Supervisory Committee, said that the basic attacks such as the Sunday bombing of Sri Lanka in the future could be carried out in the future.
-
-He was speaking at the debate on the adjournment proposal of the Opposition in Parliament on Wednesday (22).
-
-Fundamentalism and terrorism must be eliminated if the people are to live freely and freely.
-
-Opposition parties allege that the main mastermind of the lifeblood Sunday bomb blast. Police investigations have been completed. The court has also been reported.
-
-...
-
-[Data](articles/bf74dd96.json)
-
-[Extended Data](ext_articles/bf74dd96.ext.json)
-
----
-
-### 17,000 families in 15 districts due to inclement weather: One killed: 11 injured
-
-*2024-05-22 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184250) · `ta`
-
-Inclement weather has severely impacted 17,000+ families across 15 districts, causing one fatality and injuring 11. Heavy rains and winds have damaged homes and displaced individuals, with warnings issued for several regions expecting further rainfall.
-
-🟩
-
-17,325 families from 13 districts have been affected by inclement weather for the past two days.
-
-In addition, one person died in the Galle District - Imamuwa Divisional Secretariat Division and 11 people were injured in natural disasters in Ratnapura and Anuradhapura, the Disaster Management Center said.
-
-Heavy rains and winds have been affected by the districts of Ratnapura, Colombo, Kegalle, Anuradhapura, Kandy, Galle, Kalutara, Jaffna, Puttalam, Gampaha, Hambantota, Badulla, Matara, Kurunegala and Polonnaruwa.
-
-68,079 people from 17,230 families have been affected, two houses in Anuradhapura have been completely damaged and 531 houses in other districts have been damaged.. At the same time, 122 people from 27 families have been placed in safe places.
-
-The Department of Meteorology has predicted more rainfall in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts.
-
-...
-
-[Data](articles/4a7f9df6.json)
-
-[Extended Data](ext_articles/4a7f9df6.ext.json)
 
 ---

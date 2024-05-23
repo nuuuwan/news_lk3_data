@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 13:53:08**
+As of **2024-05-23 14:04:11**
 
 ## Newspaper Stats
 
-*Scraped **25,897** Articles*
+*Scraped **25,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,84 @@ economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,218
 adaderanalk | 2,975
-tamilmirrorlk | 3,023
+tamilmirrorlk | 3,025
 virakesarilk | 3,942
-dailymirrorlk | 4,070
-adaderanasinhalalk | 4,132
+dailymirrorlk | 4,071
+adaderanasinhalalk | 4,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,894 (100.0%) of 25,897 articles have been extended.
+25,897 (100.0%) of 25,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ඉරාන ජනපතිගේ අවසන් කටයුතු අද
+### ශාරුක් ඛාන් රෝහල්ගත කෙරේ
+
+*2024-05-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196935) · `si`
+
+ඉන්දිය සිනමාවේ 'කිං ඛාන්' ලෙස හැදින්වෙන සුපිරි බොලිවුඩ් නළු ශාරුක් ඛාන් රෝහල්ගත කර තිබේ.
+
+ඒ ශරීරයට අධික උණුසුම පාලනය කරගත නොහැකි වීමෙන් විජලනයෙන් ඇතිවූ රෝගී තත්ත්වයත් හේතුවෙනි.
+
+මේ වනවිට ඔහුගේ තත්ත්වය යහපත් වුවත් ඔහු තවදුරටත් වෛද්‍ය අධික්ෂණය යටතේ පසුවන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/eff96ed3.json)
+
+---
+
+### The funeral of Iraniya today
 
 *2024-05-23 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196934) · `si`
 
-ගුවන් අනතුරකින් ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (23) පස්වරුවේ ජනාධිපතිවරයා උපන් මෂාද් ශුද්ධ නගරයේදී පැවැත්වීමට නියමිතය.
+Today's funeral for the Iranian President, attended by leaders from 68 nations, honors his legacy. The ceremony, led by Iran's spiritual leader and foreign minister, includes tributes from international figures like the Hamas leader and Sri Lanka's deputy minister. Following the service, the President's remains will be transported to South Korea, marking a significant event in the Holy City of Mashad.
 
-ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි සහ ඉරාන විදේශ අමාත්‍ය හුසේන් අමීර් අබ්දෙල්ලාහියාන් ඇතුළු පිරිසගේ දේහයන් ටෙහෙරානයේ ආසාදී චතුරස්‍රය වෙත රැගෙන ගියේ ඊයේ පස්වරුවේදීය.
+🟩
 
-මියගිය ඉරාන ජනාධිපති ඇතුළු පිරිසට අවසන් ගෞරව දැක්වීමට රටවල් 68ක නායකයින් එක්ව සිටියහ.
+The funeral of the President of Iranian President erected by President Iranian President Iranian President Irava ​​Man would be held in the Holy City of the President.
 
-මෙරට විදෙස් කටයුතු අමාත්‍ය අලි සබ්රි මහතා ජනාධිපතිවරයාගේ දේහයට අවසන් ගෞරවය දැක්වූයේය.
+The deer Rajapaksa president of the Iranian President Dr. Irabrahim Reli and Iranian Foreign Minister Husseen Amit, including Theran, were taken to the Askaran's Thirakan's Odder.
 
-රයිසි ජනාධිපතිවරයාගේ නිල අවමංගල්‍යයට එක්වු හමාස් නායක ඉස්මයිල් හනියේ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා කමේනි හමුවුණි.
+Leaders of 68 countries participated in the last respects to the deceased Iranian President.
 
-රයිසි ජනාධිපතිවරයාගේ දේහය අද  පෙරවරුවේ දකුණු කොරසාන් ප්‍රාන්තය වෙත රැගෙන යනු ඇත.
+Lasting Minister of Foreign Minister Ali Sabri honored the President's body.
 
-ඒ රයිසි ජනාධිපතිවරයා, මීට පෙර අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ නියෝජිතයා ලෙස කටයුතු කළ එම ප්‍රාන්තයේ කටයුතු කිරීම හේතුවෙනි.
+Iranian spiritual leader of Iranian managing in Hamas leader was found to the official funeral of the Deputy Minister of Sri Lanka.
 
-ජනාධිපතිවරයාගේ දේහය පිළිබඳව අවසන් කටයුතු අද පස්වරුවේ දී ජනාධිපතිවරයා උපන් මෂාද් ශුද්ධ නගරයේදී පැවැත්වෙනවා.
+The remains of the President will be taken to South Koron County this morning.
+
+That Rishivanayake is due to the fact that the state of Ayatollah Al Qamani's representative.
+
+The funeral of the president is the President's birthday in the Holy City of Mashad.
 
 ...
 
 [Data](articles/130f1edf.json)
+
+[Extended Data](ext_articles/130f1edf.ext.json)
+
+---
+
+### ஊசி போட்ட இளைஞன் திடீர் மரணம்
+
+*2024-05-23 13:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊசி-போட்ட-இளைஞன்-திடீர்-மரணம்/175-337766) · `ta`
+
+விபத்தில் தீக்காயம் அடைந்து சிகிச்சைக்காக கொழும்பில் உள்ள தேசிய மருத்துவமனையில் அனுமதிக்கப்பட்ட முப்பத்தொரு வயது ஆண் நுண்ணுயிர் தடுப்பூசி போட்ட சிறிது நேரத்திலேயே உயிரிழந்ததாக தகவல்கள் தெரிவிக்கின்றன.
+
+ஆதாரங்களின்படி, நோயாளி அறை எண். 17 க்கு வந்தவுடன் Cefuroximeசெலுத்தப்பட்டதாகக் கூறப்படுகிறது, இது அவரது திடீர் மரணத்திற்கு வழிவகுத்தது.
+
+இந்த சம்பவத்திற்கு பதிலளிக்கும் விதமாக, அதிகாரிகள் பங்களாதேசின் Opsonin Pharma Limited தயாரித்த Cefuroxime Injection 750mg Vial (SR: 00101406) தொகுப்பின் VLL040 தொகுப்பை தற்காலிகமாக நிறுத்தி வைத்துள்ளனர்.
+
+எவ்வாறாயினும், இந்த கடுமையான பாதகமான மருந்து எதிர்வினையின் (ADR) காரணத்தை கண்டறிய வைத்தியசாலை மற்றும் சுகாதார அதிகாரிகள் முழுமையான விசாரணையை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/4ddec774.json)
 
 ---
 
@@ -80,21 +120,47 @@ These public sector enterprises already have some kind of presence abroad.
 
 [Data](articles/f9ce3403.json)
 
+[Extended Data](ext_articles/f9ce3403.ext.json)
+
 ---
 
-### විදුලිය බිඳ වැටීම් ගැන දැනුම්දෙන්න අලුත් ක්‍රමයක්
+### A new way to inform the collapse of electricity
 
 *2024-05-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196933) · `si`
 
-අයහපත් කාලගුණයත් සමඟ දිවයින පුරා සිදුව ඇති විදුලිය බිඳවැටීම් ඉතා ඉක්මනින් දැනුම්දිය හැකි නව ක්‍රමවේදයක් ලංකා විදුලිබල මණ්ඩලය විසින් හඳුන්වා දී තිබේ.
+The Ceylon Electricity Board (CEB) has implemented a new electricity distribution system across Sri Lanka, especially during adverse weather conditions. This change follows the widespread power outages reported via the 1987 emergency hotline. Customers are advised to adhere to specific procedures during such incidents.
 
-ඒ මීට පෙර විදුලිය බිඳ වැටීම් සම්බන්ධයෙන් දැනුම්දීමට තිබූ 1987 ක්ෂණික දුරකථන අංකයේ ඇතිව තිබෙන කාර්ය බහුලත්වය හේතුවෙනි.
+🟩
 
-ඒ අනුව පහත ක්‍රමවේදයන් අනුගමනය ලෙස ලංකා විදුලිබල මණ්ඩලය පාරිභෝගිකයින්ගෙන් ඉල්ලා සිටී.
+The Ceylon Electricity Board has introduced a new system of electricity throughout the island with inclement weather.
+
+That was due to the busy active of the 1987 instant telephone number that had been notified regarding electricity crashes.
+
+The Ceylon Electricity Board (CEB) has requested customers to follow the following procedures.
 
 ◼️
 
 [Data](articles/966b7bac.json)
+
+[Extended Data](ext_articles/966b7bac.ext.json)
+
+---
+
+### Antibiotic injection withheld following tragic death
+
+*2024-05-23 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Antibiotic-injection-withheld-following-tragic-death/108-283249) · `en`
+
+Colombo, May 23 (Daily Mirror) -  A thirty-one-year-old male, admitted to National Hospital in Colombo for treatment of burn injuries following an accident, died shortly after receiving an antibiotic injection, sources said.
+
+According to the sources, the patient was reportedly administered Cefuroxime upon arrival at Ward No. 17, leading to his sudden demise.
+
+In response to this incident, authorities have temporarily withheld the batch VLL040 of Cefuroxime Injection 750mg Vial (SR: 00101406), manufactured by Opsonin Pharma Limited, Bangladesh, pending further investigations.
+
+However, the hospital and health authorities are conducting a thorough investigation to determine the cause of this severe adverse drug reaction (ADR).
+
+◼️
+
+[Data](articles/c2ba0e80.json)
 
 ---
 
@@ -125,6 +191,24 @@ Also, due to the continuous rainfall weather, the Nuwara Eliya district is full 
 [Data](articles/a0a2e3ae.json)
 
 [Extended Data](ext_articles/a0a2e3ae.ext.json)
+
+---
+
+### காலநிலை குறித்து மீண்டும் சிவப்பு எச்சரிக்கை
+
+*2024-05-23 13:10:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-குறித்து-மீண்டும்-சிவப்பு-எச்சரிக்கை/175-337765) · `ta`
+
+நாட்டில் தொடர்ச்சியாக நிலவி வரும் பலத்த காற்று மழை தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு அறிவித்தலை விடுத்துள்ளது.
+
+நாட்டில் நிலவும் தென்மேற்கு பருவமழை காரணமாக மழை மற்றும் காற்றின் நிலைமை தொடர்ந்து அதிகரிக்கும் என திணைக்களத்தின் புதிய அறிவித்தலில் தெரிவிக்கப்பட்டுள்ளது.
+
+சப்ரகமுவ மாகாணத்திலும் கண்டி மற்றும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 150 மில்லி மீற்றருக்கும் அதிகளவான கனமழை பெய்யக்கூடும் என குறிப்பிடப்பட்டுள்ளது.
+
+அதேவேளை, மேல், வடமேல் மாகாணங்களிலும் மன்னார், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/96c26fb7.json)
 
 ---
 
@@ -2177,79 +2261,5 @@ Good news for Anura Dissanayake. Senegal’s new President is 44-year-old Bassir
 [Data](articles/7f3d2d79.json)
 
 [Extended Data](ext_articles/7f3d2d79.ext.json)
-
----
-
-### Buddhist meditation for tech savvy generation
-
-*2024-05-23 01:11:16* · [`dailyftlk`](https://www.ft.lk/opinion/Buddhist-meditation-for-tech-savvy-generation/14-762131) · `en`
-
-Today, scientific knowledge is the best and most accessible tool to relate to Buddha’s teaching
-
-While earlier generations used perceptions and logical inferences to understand the nature of the universe and humans’ place in it, today, science is using experimental methods to achieve the same goal. This effort has generated a vast amount of information on subjects relevant to Buddhist meditation and described them in terms relatable to the present generation
-
-...
-
-[Data](articles/14d350f6.json)
-
-[Extended Data](ext_articles/14d350f6.ext.json)
-
----
-
-### Buddhist meditation for tech savvy generation
-
-*2024-05-23 01:11:16* · [`dailyftlk`](https://www.ft.lk/columns/Buddhist-meditation-for-tech-savvy-generation/4-762131) · `en`
-
-Today, scientific knowledge is the best and most accessible tool to relate to Buddha’s teaching
-
-While earlier generations used perceptions and logical inferences to understand the nature of the universe and humans’ place in it, today, science is using experimental methods to achieve the same goal. This effort has generated a vast amount of information on subjects relevant to Buddhist meditation and described them in terms relatable to the present generation
-
-...
-
-[Data](articles/c090548d.json)
-
-[Extended Data](ext_articles/c090548d.ext.json)
-
----
-
-### Religious freedom of minorities in Sri Lanka - US Commission on international religious freedom
-
-*2024-05-23 01:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184268) · `ta`
-
-The US Commission on International Religious Freedom reports that religious freedom in Sri Lanka remains compromised, with ongoing violence against religious minorities like Tamil Catholics, Hindus, and Muslims. Despite constitutional guarantees, state actions favoring Buddhism over other religions have led to tensions and unrest. Recent efforts to seize religious sites, especially in the Northern and Eastern provinces, have exacerbated concerns. The commission's findings suggest that Sri Lanka's treatment of religious minorities warrants further scrutiny and potential inclusion on a watchlist for religious freedom violations.
-
-🟩
-
-The US Commission on International Religious Freedom has pointed out that religious freedom in Sri Lanka is found at a level of compassion and that the oppression and violence against the religious minorities have intensified religious crises.
-
-The recently present -day commentary on the challenges of religious transformation in Sri Lanka by the US Commission on International Religious Fitness. It was chaired by a three -member committee of the US Commission on International Religious Affairs, Frederick A. Devi, Commissioners David Hari and Stephen Sneck.
-
-Representatives, including a comment on Sri Lanka's religious status, said, "With 15 years since the end of the war, Sri Lanka is still continuing its ethnic and religious violence history.. Religious freedom in Sri Lanka is seen at the level of compassion.
-
-...
-
-[Data](articles/a6e536d0.json)
-
-[Extended Data](ext_articles/a6e536d0.ext.json)
-
----
-
-### Travelling on politics’ rough sea needs grooming
-
-*2024-05-23 00:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Travelling-on-politics-rough-sea-needs-grooming/172-283188) · `en`
-
-Even in the present political set-up, we see the offspring of old politicians already in the system and nurturing political ambitions
-
-Sri Lanka did witness the grooming of two individuals in politics: Executive President J.R. Jayewardene groomed Lalith Athulathmudali and Gamini Dissanayake, but destiny didn’t support either of them; they were both assassinated
-
-Even in the present political set-up, we see offspring of old politicians already in the system and nurturing political ambitions, where one senior stalwart in politics is often heard saying: “My son will have to wait. He has some time to get there”
-
-Sri Lanka is a country which believed in electing to Parliament individuals with unproven track records and later repented their actions. This is because this nation doesn’t have a system in present day politics where the senior lawmakers hand over the baton to the next generation of budding lawmakers.
-
-...
-
-[Data](articles/a5c73c83.json)
-
-[Extended Data](ext_articles/a5c73c83.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 21:53:31**
+As of **2024-05-23 22:06:16**
 
 ## Newspaper Stats
 
-*Scraped **25,968** Articles*
+*Scraped **25,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,223
-adaderanalk | 2,981
+adaderanalk | 2,982
 tamilmirrorlk | 3,029
 virakesarilk | 3,953
 dailymirrorlk | 4,091
-adaderanasinhalalk | 4,147
+adaderanasinhalalk | 4,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,962 (100.0%) of 25,968 articles have been extended.
+25,968 (100.0%) of 25,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### කොළඹ හැඩ කළ වෙසක් කලාප
+
+*2024-05-23 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196953) · `si`
+
+සම්බුදු තෙමඟුල සැමරෙන උතුම් වෙසක් පුන් පොහොය අදට (23) යෙදී තිබේ.
+
+ඒ, නිමිති කරගනිමින් ශ්‍රී ලංකාවාසී බෞද්ධ ජනතාව අද දිනයේ මහ වැසි නොතකා වෙහෙර විහාරස්ථානවලට රැස්වී ආගමික වතාවත්වල නිරත වුණි.
+
+මෙවරත් දෙරණාභිවන්දනා ශ්‍රී කල්‍යාණි සදහම් වෙසක් කලාපය පැවැත්වෙන්නේ සම්බුදු පහස ලද කැලණි පුදබිමේ දීය.
+
+මේ අතර වෙසක් පුන් පොහෝ දිනය නිමිති කරගනිමින් දිවයින පුරා වෙසක් කලාප 419ක්, තොරණ 321ක් සංවිධාන කර තිබේ.
+
+සෑම වසරකම පවත්වන දෙමටගොඩ, තොටළඟ, පිටකොටුව, නවලෝක ආදී තොරණ මෙවරත් විචිත්‍රවත්ව ප්‍රදර්ශනය කිරීම සඳහා කටයුතු සූදානම් කර තිබුණි.
+
+කොළඹ ජනාධිපති ලේකම් කාර්යාලය අසල නවීන තාක්ෂණය ඔස්සේ සිදුහත් උපත ප්‍රදර්ශනය කිරීමත් විශේෂත්වයකි.
+
+මීට අමතරව දිවයින පුරා දර්ශනීය පහන් කූඩු රාශියක්ද නිර්මාණය කර තිබේ.
+
+වෙසක් උත්සවයට සමගාමීව මේ වනවිට දිවයින පුරා දන්සල් 3260 ක් ලියාපදිංචි වී ඇති අතර ඉන් වැඩි ප්‍රමාණයක් ලියාපදිංචි වී ඇත්තේ බස්නාහිර පළාතේය.
+
+◼️
+
+[Data](articles/5b68ff0e.json)
+
+---
 
 ### TID detains suspect linked ISIS terrorists arrested at Ahmedabad Airport
 
@@ -52,31 +78,63 @@ According to the Gujarat Police, interrogations revealed that the suspects were 
 
 [Data](articles/ae1b6756.json)
 
+[Extended Data](ext_articles/ae1b6756.ext.json)
+
 ---
 
-### ආපදා මරණ ඉහළට
+### TID detains suspect linked to ISIS terrorists arrested at Ahmedabad Airport
+
+*2024-05-23 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99404/tid-detains-suspect-linked-to-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
+
+A suspect who had close connections with the ISIS terrorists of Sri Lankan origin who were recently arrested at the Ahamedabad International Airport in India, has been arrested by the Terrorism Investigation Division (TID) of Sri Lanka Police.
+
+According to Sri Lanka Police, the suspect has aided the four terrorists in obtaining air tickets.
+
+Further, investigations are underway to detect whether more ISIS terrorists from Sri Lanka have left for India, the police said.
+
+On Sunday (19), the anti-terrorist squad of Gujarat, India arrested four Sri Lankan nationals who are members of the terrorist organisation ISIS at the Sardar Vallabhbhai Patel International Airport in Ahamedabad.
+
+The arrested suspects were Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27) and Mohammad Rashdeen (43), as per Indian officials.
+
+According to the Gujarat Police, interrogations revealed that the suspects were encouraged to carry out a terror attack in India.
+
+...
+
+[Data](articles/c9e853c4.json)
+
+---
+
+### Disaster deaths up
 
 *2024-05-23 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196952) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ පුද්ගල මරණ සංඛ්‍යාව මේ වනවිට 06ක් දක්වා ඉහළ ගොස් තිබේ.
+Inclement weather has led to six fatalities, including a man hit by a road collapse and a young woman in a motorcycle crash. The Met Department warns of heavy rains, with Nuwara Eliya seeing 104.6mm. Strong winds have caused tree damage and further casualties.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ, ඉදිරි පැය 24 තුළ සබරගමුව පළාතේත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් මිලිමීටර් 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-නිරිතදිග මෝසම ක්‍රමයෙන් සක්‍රීය වීමත් සමග ප්‍රදේශ රැසකට මේ වනවිට අධික වැසි ඇදහැලෙමින් පවතී.
+The number of deaths due to inclement weather has increased to six people.
 
-ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය මිලිමීටර් 104.6ක් ලෙස වාර්තා වුණේ, නුවරඑළිය - වටවල ප්‍රදේශයෙනි.
+The Met Department of Meteorology states that around 150 millimeters can also occur in the next 24 hours.
 
-තද වැසි සමග ඇතිවූ දැඩි සුළං තත්ත්වය හේතුවෙන් ගස් කඩා වැටීම්, දේපළ හා නිවාස හානි මෙන්ම පුද්ගල මරණ හයක්ද වාර්තා වෙයි.
+With the actual activation of the southwest monsoon, there are overwhelming rain.
 
-වර්ෂාවත් සමග හංවැල්ල වග ප්‍රදේශයේ මාර්ගයකට කඩා වැටුණු පුළුං ගසකට යටවීමෙන් යතුරුපැදියක ගමන් කරමින් සිටි පුද්ගලයෙකු ජීවිතක්ෂයට පත් වුණි.
+The highest rainfall was 104.6 millimeters in the Nuwara Eliya - Nuwara Eliya.
 
-මෙලෙස මියගොස් ඇත්තේ වග ප්‍රදේශයේ පදිංචි උපුල් අනුරුද්ධ ලියනගේ නම් 47 හැවිරිදි දෙදරු පියෙකි.
+The trees have been reported due to strong winds, property and deaths and deaths due to strong winds.
 
-මේ අතර, පුත්තලම මුන්දලම හන්දිය ප්‍රදේශයේ මාර්ගයක යතුරුපැදියකින් ගමන් කරමින් සිටි තරුණියන් දෙදෙනෙකු මතට ගසක් කඩාවැටීමෙන් තරුණියක් ජීවිතක්ෂයට පත්වී තිබේ.
+A man was traveling on a motorcycle to collapse into a road collapse in Hanwella area with rain.
+
+The deceased has been identified as Upul Anuruddha Liyanage, a resident of the area.
+
+Meanwhile, a young woman killed in a motorcycle on a motorcycle traveling on a motorcycle in Mundalama Junction area in Puttalam.
+
+The deceased is a 23 year old resident of the area and the other was seriously injured and admitted to the Chilaw General Hospital.
 
 ...
 
 [Data](articles/e22da49c.json)
+
+[Extended Data](ext_articles/e22da49c.ext.json)
 
 ---
 
@@ -89,6 +147,8 @@ The Gangaramaya 'Buddha Rashmi' Vesak Zone was declared open by President Ranil 
 ◼️
 
 [Data](articles/f7ba54a6.json)
+
+[Extended Data](ext_articles/f7ba54a6.ext.json)
 
 ---
 
@@ -110,6 +170,8 @@ One tree along Maitland Crescent fell last morning but was cleared by evening wh
 
 [Data](articles/0a98af92.json)
 
+[Extended Data](ext_articles/0a98af92.ext.json)
+
 ---
 
 ### The Marga Dialogue: Nationalism and centre-left
@@ -121,6 +183,8 @@ Dr. Dayan Jayatilleka’s collection of essays, titled: “Interventions: Select
 ...
 
 [Data](articles/f3f6cad7.json)
+
+[Extended Data](ext_articles/f3f6cad7.ext.json)
 
 ---
 
@@ -158,21 +222,27 @@ Meanwhile, the following four ISIS members had gone to Chennai through the Katun
 
 ---
 
-### ரயிலுடன் மோதிய மோட்டார் சைக்கிள் : மூன்று இளைஞர்கள் பலி்
+### Motorcycle collided with train: three youths die
 
 *2024-05-23 20:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிய-மோட்டார்-சைக்கிள்-மூன்று-இளைஞர்கள்-பலி்/175-337798) · `ta`
 
-காலி - புஸ்ஸ, பிந்தாலிய ரயில் கடவையில் இன்று மாலை மோட்டார் சைக்கிள் ஒன்று ரயிலுடன் மோதியதில் மூன்று இளைஞர்கள் உயிரிழந்துள்ளனர் என தெரிவிக்கப்படுகின்றது.
+A tragic accident occurred when a motorcycle collided with a train near Galle, resulting in the deaths of three young individuals aged 17 to 19. The incident happened as the train was moving from Maradana to Matara.
 
-மருதானையில் இருந்து மாத்தறை நோக்கி பயணித்த ரயில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-விபத்தில் உயிரிழந்த மூன்று இளைஞர்களும் 17 முதல் 19 வயதுக்கு இடைப்பட்டவர்கள் என பொலிஸார் தெரிவித்தனர்.
+Three youths have been killed when a motorcycle crashed into a train at the Galle - Pussa and Bindaliya railway line this evening.
 
-எனினும் மூன்று பேர் பாதுகாப்பற்ற முறையில் மோட்டார் சைக்கிளில் பயணம் மேற்கொண்டுள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது. R
+The accident occurred when a train traveling from Maradana to Matara collided.
+
+The three youths who died in the accident were between the ages of 17 and 19, police said.
+
+However, the preliminary inquiry by the police revealed that three people were traveling on a motorcycle on a motorcycle.. Remble
 
 ◼️
 
 [Data](articles/2f5b3a8e.json)
+
+[Extended Data](ext_articles/2f5b3a8e.ext.json)
 
 ---
 
@@ -2237,47 +2307,5 @@ It is reported that the tree has been severely causing severe traffic congestion
 [Data](articles/5ac4542c.json)
 
 [Extended Data](ext_articles/5ac4542c.ext.json)
-
----
-
-### World recorder "Uiya" feather
-
-*2024-05-23 10:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலக-சாதனை-படைத்த-உய்யா-இறகு/50-337751) · `ta`
-
-An extinct New Zealand bird's feather, named 'Hua', set a world record selling for over $28,400, surpassing its estimated value of $3,000. This feather, from the sacred 'Huiya' bird, was last seen in 1907 and traditionally used by the Maori people for helmets and gifts.
-
-🟩
-
-New Zealand's extinct bird feather feathers have sold for achievement price. This bird is named 'Hua'. This feather is only the rest of the world.
-
-Foreign media reported that the feather was sold for over $ 28,400. It is also said to be a world record. The feather auction was expected to be available for $ 3,000.
-
-The holy animal of the Mauri people of New Zealand. 'Huiya' (Huya) feathers used as helmets and gifts. The 'Hua' bird was last seen in 1907.
-
-◼️
-
-[Data](articles/a0de9f9a.json)
-
-[Extended Data](ext_articles/a0de9f9a.ext.json)
-
----
-
-### Prime Minister’s message for Vesak
-
-*2024-05-23 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99392/prime-ministers-message-for-vesak-) · `en`
-
-In his message to mark Vesak Poya Day, Prime Minister Dinesh Gunawardena said that after a difficult period due to natural calamities, pandemic and economic downturn, Sri Lankan people have the opportunity to celebrate the Vesak festival in a grand scale this year.
-
-He also mentioned that although the middle path taught in Buddhism is an eternal concept, it is relevant present day society and that the middle path is also meaningful in economic planning and development.
-
-“Vesak Poya day is the most sacred day to the Buddhist people who celebrate the birth, enlightenment and the mahaparinibbana of the Buddha. Since ancient times, Sri Lankans celebrate it with boundless joy of venerating the Buddha.
-
-After a difficult period due to natural calamities, pandemic and economic downturn, Sri Lankan people have the opportunity to celebrate the Vesak festival in a grand scale this year.
-
-...
-
-[Data](articles/34ef1f4c.json)
-
-[Extended Data](ext_articles/34ef1f4c.ext.json)
 
 ---

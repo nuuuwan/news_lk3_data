@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 16:33:59**
+As of **2024-05-23 16:51:15**
 
 ## Newspaper Stats
 
-*Scraped **25,929** Articles*
+*Scraped **25,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,105 @@ dailyftlk | 1,533
 adalk | 2,221
 adaderanalk | 2,977
 tamilmirrorlk | 3,027
-virakesarilk | 3,950
-dailymirrorlk | 4,079
-adaderanasinhalalk | 4,137
+virakesarilk | 3,952
+dailymirrorlk | 4,080
+adaderanasinhalalk | 4,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,921 (100.0%) of 25,929 articles have been extended.
+25,929 (100.0%) of 25,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### வரலாறு : குழந்தை போல் வீதியில் ஓடிய மகாத்மா காந்தி! - 1934 மே 15 வீரகேசரியில்...
+### ඉදිරි පැය 36 තුළ ලොකු වැස්සක්
+
+*2024-05-23 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196941) · `si`
+
+ඉදිරි පැය 36 සඳහා බලපැවැත්වෙන පරිදි කාලගුණ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරාත්තු වන බවය.
+
+ඒ අනුව , සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 150ක පමණ ඉතා තද වැසි ඇති විය හැකි බව දැනුම්දෙයි.
+
+බස්නාහිර සහ වයඹ පළාත්වලත් මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/ff3bba8a.json)
+
+---
+
+### படையினர் அக்கிரமங்களில் ஈடுபட்டதை தொடர்ந்தும் மறுக்கின்றது இலங்கை - பொறுப்புக்கூறல் செயற்திட்டத்திற்கு செப்டம்பரில் மீண்டும் மனித உரிமை பேரவை ஆணைவழங்கவேண்டும்  - சர்வதேச மனித உரிமை கண்காணிப்பகம் வேண்டுகோள்
+
+*2024-05-23 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184322) · `ta`
+
+இலங்கையின் உள்நாட்டு யுத்தத்தின்போது கொல்லப்பட்டவர்கள் காணாமல்போனவர்களை நினைவுகூர்ந்தவர்களை இலங்கை அதிகாரிகள் அச்சுறுத்தினர் தடுத்துவைத்தனர் என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+மே 18ம் திகதி 2009இல் முடிவடைந்த இலங்கையின் உள்நாட்டு யுத்தத்தின்போது பலவந்தமாக காணாமல்போகச்செய்யப்பட்டோர் குறித்த விவகாரத்திற்கு தீர்வை காண்பதற்காக சர்வதேச விசாரணைகள் மற்றும் ஏனைய பொறுப்புக்கூறல் நடவடிக்கைகளை முன்னெடுக்கவேண்டும் என மே 17ம் திகதி ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் அலுவலகம் அறிக்கையொன்றை வெளியிட்டிருந்தது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+இலங்கையின் உள்நாட்டு யுத்தத்தின்போது தங்கள் படையினர் இழைத்த அநீதிகளை இலங்கை அரசாங்கம் தொடர்ந்தும் மறுத்துவருகின்றது என தெரிவித்துள்ள சர்வதேச மனித உரிமை கண்காணிப்பகத்தின் ஆசிய பசுபிக் இயக்குநர் எலைன்பியர்சன் இதன் காரணமாக உண்மை நீதி இழப்பீடு போன்றவற்றை வழங்குவதற்கு பதில் இலங்கை அரசாங்கம் பாதிக்கப்பட்டவர்களையும் அவர்களின் சமூகத்தினரையும் மௌனமாக்க முயல்கின்றது என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c3611427.json)
+
+---
+
+### Generator fumes suffocate sleeping father, son to death
+
+*2024-05-23 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Generator-fumes-suffocate-sleeping-father-son-to-death/108-283260) · `en`
+
+Hatton, May 23 (Daily Mirrort)- A young man and his father who had gone to bed with a standby power generator running were found dead last morning in the room.
+
+Police believe that the two men had died of suffocation caused by breathing Carbon monoxide gas emmitted by the generator.
+
+The victims Sanath Rohana (40) and his son Gagana Madusanka (17) were residents of Nesta Colony in Pupuressa.
+
+Investigations revealed that they were organizing a rice Dansela for Vesak day and when the power supply to the area was interrupted they had used a standby power generator in a room of their home. However, they had gone to bed with the generator running.
+
+The other organizers of the Dansela who found the two individuals lying motionless in the room informed police, who initiated investigations.
+
+◼️
+
+[Data](articles/1ff3b452.json)
+
+---
+
+### History: Mahatma Gandhi who ran on the street like a child!- May 15, 1934 ...
 
 *2024-05-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184320) · `ta`
 
-1934இல் தீண்டாமையை ஒழிக்க மகாத்மா காந்தியும் அவரது குழுவினரும் நடந்தே இந்தியாவில் சுற்றுப்பயணம் சென்றுள்ளனர்.
+On May 15, 1934, Mahatma Gandhi visited India to combat untouchability. The Weerakesari magazine reported his arrival with enthusiasm, noting his impact as "a quarter of a quarter of excitement," causing distress to a Sub Inspector.
 
-அப்போது வயதான மகாத்மா காந்தி வீதியில் ஒரு குழந்தை போல் சிறிது தூரம் ஓடிய காட்சியை செய்தியாக, 1934 மே 15ஆம் திகதி வெளியான வீரகேசரி பத்திரிகை "மகாத்மாவின் ஓட்டப்போட்டி : உற்சாகத்தில் கால் மைல் தூரம் ஓட்டம் : வரவேற்புக் கூட்டத்தில் அமளி : சப் இன்ஸ்பெக்டருக்கு காயம்" என்ற தலையங்கத்துடன் இவ்வாறு குறிப்பிட்டுள்ளது.
+🟩
+
+In 1934, Mahatma Gandhi and his team went to India to eradicate untouchability.
+
+The Weerakesari magazine, published on May 15, 1934, said, "Mahatma's Ottapadi: A quarter of a quarter of excitement: hurt to the Sub Inspector".
 
 ◼️
 
 [Data](articles/67936e93.json)
+
+[Extended Data](ext_articles/67936e93.ext.json)
+
+---
+
+### 'என் தாய் மண் மேல் ஆணை  இது தமிழ் மானத்தின் சேனை'  என கர்ஜிக்கும் 'உலகநாயகன்' கமலஹாசனின் 'இந்தியன் 2'
+
+*2024-05-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184319) · `ta`
+
+'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி இருக்கும் 'இந்தியன் 2' படத்தில் இடம்பெற்ற 'பாரா..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது. பெரும் எதிர்பார்ப்பில் இருந்த இந்த திரைப்படத்தின் சிங்கிள் ட்ராக் வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+
+பிரம்மாண்ட இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' திரைப்படத்தின் 'உலக நாயகன்' கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பாபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, காளிதாஸ் ஜெயராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார். இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் வழங்குகிறது.
+
+...
+
+[Data](articles/6916f7b9.json)
 
 ---
 
@@ -64,23 +138,31 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 [Data](articles/53693f53.json)
 
+[Extended Data](ext_articles/53693f53.ext.json)
+
 ---
 
-### கிளிநொச்சியில் சகோதரியின் காதலானால் சிறுமி பாலியல் துஸ்பிரயோகம் - சந்தேக நபர் தலைமறைவு
+### Sister's boyfriend in Kilinochchi
 
 *2024-05-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184318) · `ta`
 
-கிளிநொச்சியில் 14 வயது சிறுமியொருவர் தனது சகோதரியின் காதலனால் பாலியல் துஸ்பிரயோகத்திற்கு உள்ளாக்கப்பட்டுள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+In Kilinochchi, a 14-year-old girl was sexually assaulted by her sister's boyfriend. The incident was reported via emergency number 118, leading to police investigations. The suspect remains at large despite efforts to apprehend him, and the victim is hospitalized.
 
-இச் சம்பவம் தொடர்பில் 118 என்ற அவசர தொலைபேசி இலக்கத்திற்கு தகவல் வழங்கப்பட்டதனை தொடர்ந்து குறித்த தகவல்  பொலீஸாருக்கு பரிமாறப்பட்டு கிளிநொச்சி பொலீஸாரினால் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே மேற்படி விடயம் தெரியவந்துள்ளது.
+🟩
 
-கிளிநொச்சி மலையாளபுரத்தைச் சேர்ந்த 14 வயது சிறுமி சகோதரியின் காதலனால் பாலியல் துஸ்பிரயோகத்திற்கு  உள்ளாக்கப்பட்டுள்ளதாகவும், பாதிக்கப்பட்ட சிறுமி தற்போது கிளிநொச்சி மாவட்ட வைத்தியசாலையில் பரிசோதனைக்கு அனுமதிக்கப்படடுள்ளதாகவும் கிளிநொச்சி பொலிஸார் தெரிவித்துள்ளனர்.
+A 14 -year -old girl in Kilinochchi has been reported to have been sexually abused by her sister's boyfriend.
 
-சம்பவத்துடன் தொடர்புடைய சந்தேக நபரை  கைது செய்ய பொலிஸார் நடவடிக்கைகளை முன்னெடுத்த போதும் குறித்த நபர் தலைமறைவாகியுள்ளதாக கூறப்படுகிறது.
+Investigations carried out by the Kilinochchi police have revealed that the information was exchanged to the police following the incident of an emergency telephone number 118 in connection with the incident.
+
+Kilinochchi police said that a 14 -year -old girl from Kilinochchi has been sexually abused by the boy's boyfriend and the victim is now admitted to the Kilinochchi District Hospital.
+
+The man is said to have been hiding even though the police have taken steps to arrest the suspect in connection with the incident.
 
 ◼️
 
 [Data](articles/2134e93d.json)
+
+[Extended Data](ext_articles/2134e93d.ext.json)
 
 ---
 
@@ -126,35 +208,55 @@ The annual rice Dansala organised by the Pettah Eksath Bodhiraja Society being h
 
 [Data](articles/c285b0a8.json)
 
+[Extended Data](ext_articles/c285b0a8.ext.json)
+
 ---
 
-### கொழும்பில் இருந்து யாழுக்கு பொதியில் அனுப்பப்பட்ட ஹெரோயின் - மூவர் கைது!
+### Heroin - trio arrested from Colombo to Jaffna
 
 *2024-05-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184312) · `ta`
 
-கொழும்பில் இருந்து யாழ்ப்பாணத்திற்கு அனுப்பி வைக்கப்பட்ட பொதி ஒன்றினுள் போதைப்பொருளை மிக சூட்சுமமாக அனுப்பி வைக்கப்பட்ட சம்பவம் தொடர்பில் பெண்ணொருவர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+In a drug trafficking case, three individuals, including a woman, were arrested after heroin was found in a package sent from Colombo to Jaffna. The package contained clothes, including a saree, but was intercepted due to suspicions. Two of the arrestees were linked to receiving and handling the package, while one was identified as the sender based on further investigation. The police recovered 3 grams of heroin from the suspects and continue their probe under court orders.
 
-யாழ்ப்பாணத்தை சேர்ந்த பெண்ணொருவருக்கு தனியார் நிறுவனம் ஒன்றின் பொதி சேவைகள் ஊடாக, சேலை உள்ளிட்ட ஆடைகள் அடங்கிய பொதி ஒன்று அனுப்பி வைக்கப்பட்டுள்ளது. குறித்த பொதியினுள் சூட்சுமமான முறையில் ஹெரோயின் போதைப்பொருளையும் மறைத்து வைத்து அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பில் யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பொலிஸ் பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் விசாரணைகளை முன்னெடுத்த பொலிஸார் பொதியினை பெற்றுக்கொண்டவர் மற்றும் அதற்கான பணத்தினை வழங்கிய பெண் உள்ளிட்ட இருவரை கைது செய்தனர். அவர்களிடம் இருந்து 3 கிராம் ஹெரோயின் போதைப்பொருளையும் மீட்டு இருந்தனர்.
+Three men, including a woman, have been arrested in connection with the incident of the drug sent by the drug in a package sent from Colombo to Jaffna.
 
-கைது செய்யப்பட்டவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில்,  பொதியினை அனுப்பி வைத்த நபரை கொழும்பில் வைத்து கைது செய்துள்ளனர்.
+A woman from Jaffna has been sent a packet of clothing, including saree, through a private company's package services. Heroin drugs have been sent to the package.
 
-...
+Based on the confidential information received by the Jaffna District Crime Police Division, the police arrested two persons, including the receipt of the package and the woman who had been paid the money.. They also recovered 3 grams of heroin from them.
+
+Based on investigations carried out by the arrested persons, the person who sent the package was arrested in Colombo.
+
+The police are conducting investigations, with permission to carry out investigations into the Jaffna Magistrate's Court on Wednesday (22).
+
+◼️
 
 [Data](articles/ab3d6b7f.json)
 
+[Extended Data](ext_articles/ab3d6b7f.ext.json)
+
 ---
 
-### மாற்றுத்திறனாளியான பிள்ளையின் வாழ்வியலை பேசும் 'பிள்ளையார் சுழி'
+### 'Pillaiyar Suzhi' speaks of the life of the transgender child
 
 *2024-05-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184316) · `ta`
 
-'போதை ஏறி புத்தி மாறி' எனும் படத்தின் மூலம் அறிமுகமாகி, 'டபுள் டக்கர்' எனும் படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் தீரஜ் முக்கியமான வேடத்தில் நடித்திருக்கும் 'பிள்ளையார் சுழி' எனும் திரைப்படம் அமெரிக்காவில் உள்ள நியூயார்க் நகரில் நடைபெறும் சர்வதேச திரைப்பட விழாவில் திரையிட தெரிவு செய்யப்பட்டிருப்பதாக பட குழுவினர் பிரத்யேக புகைப்படங்களை வெளியிட்டு உற்சாகமாக தெரிவித்திருக்கிறார்கள்.‌
+"Pillaiyar Suzhi," a film about a transgender child, has been selected for the New York City International Film Festival. Directed by Manoharan, it features cinematography by Prasad and music by R. Hari. Produced by V under Pillaiyar Suzhi Productions and Air Flix, the film is expected to complete production by the end of the year and has heightened fan anticipation.
 
-...
+🟩
+
+The film crew has released special photos that the film 'Pillaiyar Suzhi' has been selected at the International Film Festival in New York City in the United States...
+
+In the film 'Pillaiyar Suzhi', directed by debutant director Manoharan, 'Pillaiyar Suzhi'Have played many others. Prasad's cinematography for the film. R. Hari has composed the music. Producer V is on behalf of Pillaiyar Suzhi Productions and Air Flix. Silambarasi has produced.
+
+All the work of the film is scheduled to be completed by the end of this year at the film House. The film is being screened at the International Film Festival in New York City. Thus the expectation of the film has increased in fans.
+
+◼️
 
 [Data](articles/621809f2.json)
+
+[Extended Data](ext_articles/621809f2.ext.json)
 
 ---
 
@@ -252,49 +354,63 @@ When the Buburasa police were investigating the matter, it was revealed that the
 
 ---
 
-### තායිවානය අසල චීන හමුදා අභ්‍යාසයක්
+### A Chinese military exercise near Taiwan
 
 *2024-05-23 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196937) · `si`
 
-චීනය, තායිවානය අවට මුහුදු සහ ගුවන් කලාපයේ දින දෙකක යුද අභ්‍යාසයක් ආරම්භ කර තිබේ.
+China conducts a two-day military drill near Taiwan, citing it as a response to Taiwan's separatist activities and its international relationships. This move comes shortly after William Li's inauguration as Taiwan's president. The exercise has drawn criticism from Taiwan, emphasizing the need for caution and diplomacy amidst rising tensions. Despite being a democracy and a technologically advanced nation, Taiwan's status remains unresolved internationally, partly due to China's opposition and influence within the United Nations.
 
-චීනය පවසන්නේ මෙම යුද අභ්‍යාසය තායිවානයේ බෙදුම්වාදී ක්‍රියා කලාපයට දඬුවමක් වන බවය.
+🟩
 
-අමෙරිකාව තායිවානය සමග සමීප සබඳතා පැවැත්වීම සම්බන්ධයෙන්ද චීනය අප්‍රසාදයක් පළ කරයි.
+China has launched a two-day war zone around Taiwan around Taiwan.
 
-චීනය, තායිවානය ආසන්න මුහුදු සහ ගුවන් කලාපයේ වරින්වර යුද අභ්‍යාස පවත්වන්නේ සිය විරෝධය පෙන්නුම් කරමිනි.
+China says that the war exercise is a punishment for the separatist process of Taiwan.
 
-චීනය, තායිවානය අවට මෙලෙස යුද අභ්‍යාසයක් ආරම්භ කළේ තායිවානයේ නව ජනාධිපතිවරයා ලෙස විලියම් ලායි දිවුරුම් දීමෙන් දින තුනකට පසුව වීම විශේෂත්වයකි.
+China is also disappeared on Taiwan's close relations with Taiwan.
 
-චීනය මෙම යුද අභ්‍යාසය හඳුන්වන්නේ තායිවානයේ බෙදුම්වාදී ක්‍රියා කලාපයට දඬුවමක් ලෙසය.
+China, Taiwan is anti-war exercise by the time of time, and in the near future war exercises.
 
-චීනයේ යුද අභ්‍යාසය තායිවානයේ දැඩි විවේචනයට ලක්ව ඇති අතර තායිවාන හමුදාවට දැඩි අවධානයෙන් පසුවන ලෙසට උපදෙස් ලබාදී තිබේ.
+China was established in Taiwan around three days after the swearing in of William Li as the new president in Taiwan.
 
-තායිවානයේ ප්‍රජාතන්ත්‍රවාදී ලෙස තේරී පත් වූ රජයක් ක්‍රියාත්මක වුවත් චීනය, තායිවානය, සලකන්නේ තම රටට අයත් භුමි ප්‍රදේශයක් ලෙසය.
+China is a punishment for the separatist process of Taiwan.
 
-තායිවානය තාක්ෂණික වශයෙන් දියුණුවක් ලබා ඇති සංවර්ධිත රාජ්‍යයක් වුව ද ජගත් සංවිධානය විසින් එය නිදහස් රටක් ලෙස මෙතෙක් පිළිගෙන නොමැත.
+China's warfare has been severely criticized in Taiwan and advised the Taiwan army.
 
-...
+Although a democratic elected government in Taiwan is considered to be regarded as an area of the country.
+
+Although Taiwan has a technologically advanced state, the global organization has not yet accepted it as a free country.
+
+It is also reported that China's pressure is due to the negative country of the UN.
+
+◼️
 
 [Data](articles/312223f2.json)
 
+[Extended Data](ext_articles/312223f2.ext.json)
+
 ---
 
-### மாங்குளம் வைத்தியசாலையின் பெயர் பலகையில் தமிழ் எழுத்து பிழையை திருத்துமாறு கோரிக்கை
+### Mankulam Hospital's name board requests to correct Tamil writing error
 
 *2024-05-23 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184315) · `ta`
 
-வட மாகாணத்தில் விசேடமாக அமைக்கப்பட்டிருக்கின்ற மருத்துவப் புனர்வாழ்வு சிகிச்சை மற்றும் உளநல மேம்பாட்டு நிலையம் மாங்குளம் ஆதரவைத்தியசாலை வளாகத்தை அண்டிய பகுதியிலே அமைக்கப்பட்டு தற்போது திறந்து வைக்கப்பட இருக்கின்றது.
+"Mankulam Hospital's signboard has a Tamil spelling mistake. The center, near Mankulam school, awaits President Wickremesinghe's visit. Activists urge correcting the Tamil script."
 
-எதிர்வரும் 26 ஆம் திகதி நாட்டினுடைய ஜனாதிபதி ரணில் விக்ரமசிங்க வருகை தந்து இந்த வைத்தியசாலையை திறந்து வைக்கவுள்ளார்.
+🟩
 
-இந்நிலையில், வைத்தியசாலை முன்பாக அமைக்கப்பட்டிருக்கின்ற பெயர் பலகையில் மாங்குளம் என்பது தமிழ் மொழியில் தவறாக எழுதப்பட்டுள்ளது.
+The Medical Rehabilitation and Mental Health Development Center, which is specially set up in the Northern Province, is to be opened in the adjoining area of the Mankulam support school complex.
 
-இதனை மாற்றுமாறு பல தடவைகள் உரியவர்களுக்கு தெரியப்படுத்தியும் இன்றுவரை அது மாற்றப்படவில்லை. எனவே, திறப்பு விழாக்கு முன்னதாக  தமிழ் மொழியினை சரி  செய்து  பெயர்ப் பலகையினை மாற்றி திறப்பு விழாவினை செய்ய வேண்டும் என சமூக ஆர்வலர்கள் கோரிக்கை விடுத்துள்ளனர்.
+President Ranil Wickremesinghe will visit the hospital on the 26th of this month.
+
+In this case, Mangulam is incorrectly written in Tamil on the name board set up in front of the hospital.
+
+It has not been changed to this day, but to date, it has not been changed. Therefore, community activists have demanded that the Tamil language be repaired and the name board should be changed before the inauguration.
 
 ◼️
 
 [Data](articles/c2f506af.json)
+
+[Extended Data](ext_articles/c2f506af.ext.json)
 
 ---
 
@@ -2153,101 +2269,5 @@ Sri Lanka is also planning on having a water festival in coastal towns such as T
 [Data](articles/6d4bd626.json)
 
 [Extended Data](ext_articles/6d4bd626.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-05-23 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196921) · `si`
-
-Strong winds and rough seas expected in the southeastern Arabian Sea and Bay of Bengal due to a meteorological warning issued on March 23rd at 10:30 PM. The Department of Meteorology advises caution, especially for sailors and fishermen, recommending them to stay ashore until further notice.
-
-🟩
-
-The Department of Meteorology has issued an announcement of strong winds and sea floor.
-
-The relevant announcement has been issued today (23) at 10.30 pm.
-
-Accordingly, the red note of the southeastern Arabian Sea and the Bay Bay Bay of Bay of Bay of Baying Sea.
-
-The Department of Meteorology announces that those community is more concerned and resulted in the central area of the lower atmosphere.
-
-Then it grows further the Bay of Bengal.
-
-Winds can also occur in the sea areas around the island, and the sea can be very rough.
-
-The saimarks and fishermen have also been informed not to be sailed until the sailors of the above map.
-
-At present, those in those areas have been immediately informed to land immediately and to care for future announcements.
-
-◼️
-
-[Data](articles/99374697.json)
-
-[Extended Data](ext_articles/99374697.ext.json)
-
----
-
-### Leading foreign- funded NGOs spending unchecked
-
-*2024-05-23 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Leading-foreign-funded-NGOs-spending-unchecked/155-283214) · `en`
-
-*NGO Secretariat in the lurch in access to monitor their activities
-
-A number of leading NGOs funded by various foreign sources for projects such as gender rights, human rights and democratic governance have been registered only as guaranteed companies under the registrar of Companies leaving the National NGO Secretariat in the lurch in having a check on their expenses and activities, a top source said.
-
-The NGOs registered with the Secretariat received as much as Rs.33 billion in funding last year.
-
-According to the source, even a bigger amount should have been spent by other key NGOs funded by sources in some powerful countries.
-
-The source said, the proposed Non-governmental Organizations (Registration and Supervision) Bill ‘which is now in the final stage to be presented in Parliament for enactment will provide for the establishment of a proper check on spending and activities of such NGOs.
-
-These NGOs had been registered as guaranteed companies under the Registrar of Companies.
-
-...
-
-[Data](articles/dfd687ae.json)
-
-[Extended Data](ext_articles/dfd687ae.ext.json)
-
----
-
-### Sri Lanka to sign debt restructuring MoU with bilateral creditors before IMF review next month
-
-*2024-05-23 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-sign-debt-restructuring-MoU-with-bilateral-creditors-before-IMF-review-next-month/108-283213) · `en`
-
-Colombo, May 223 (Daily Mirror) - The government is to sign the Memorandum of Understanding (MoU) with the Official Creditor Committee (OCC) of the Paris Club of Nations and the Export-Import Bank of China (EXIM Bank) for restructuring the country’s debts before the completion of the IMF Executive Board review of Sri Lanka’s Extended Fund Facility Arrangement next month, a top source said.
-
-The source familiar with talks said the government is ‘very positive’ that Sri Lanka will sign the MoU before the review.
-
-The review, once approved by the IMF's board, will release $337 million in funding for the country.
-
-However, it still remains uncertain when debts involving private bond holders and commercial loans from China Development Bank will be concluded before the period.
-
-...
-
-[Data](articles/8e5e48de.json)
-
-[Extended Data](ext_articles/8e5e48de.ext.json)
-
----
-
-### CB launches SL’s first-ever Financial Literacy Roadmap
-
-*2024-05-23 04:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-launches-SLs-first-ever-Financial-Literacy-Roadmap/108-283212) · `en`
-
-The Central Bank on Tuesday launched Sri Lanka’s first-ever Financial Literacy Roadmap (2024-2028), in particular targeting to promote financial literacy among the youth and women in the micro, small and medium enterprise (MSME) sectors.
-
-The four-year roadmap was developed under the Financial Literacy and Capacity Building pillar of the National Financial Inclusion in Sri Lanka.
-
-The roadmap aims to serve as guidance for all financial literacy service providers in the country, offering directions to achieve such behavioural changes towards a financially literate Sri Lanka.
-
-The new Central Banking Act entrusted the Central Bank with promoting financial inclusion in Sri Lanka.
-
-...
-
-[Data](articles/b61ce9b6.json)
-
-[Extended Data](ext_articles/b61ce9b6.ext.json)
 
 ---

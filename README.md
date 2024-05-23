@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 09:03:49**
+As of **2024-05-23 09:18:26**
 
 ## Newspaper Stats
 
-*Scraped **25,843** Articles*
+*Scraped **25,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,61 @@ adaderanalk | 2,969
 tamilmirrorlk | 3,013
 virakesarilk | 3,924
 dailymirrorlk | 4,064
-adaderanasinhalalk | 4,123
+adaderanasinhalalk | 4,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,841 (100.0%) of 25,843 articles have been extended.
+25,843 (100.0%) of 25,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### අත්අඩංගුවට ගත් IS ත්‍රස්ත සාමාජිකයින්ගේ විමර්ශන ගැන තීරණයක්
+### විදුලිසැර වැදී ජීවිතයක් අහිමි වෙයි
+
+*2024-05-23 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196926) · `si`
+
+කැබිතිගොල්ලෑව පොලිස් වසමේ යකාවැව ලඳු කැලෑ ප්‍රදේශයේ දී පුද්ගලයෙකුට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ, එලෙස මියගොස් ඇත්තේ 36 හැවිරිදි එම ප්‍රදේශයේම පදිංචිකරුවෙක් බවය.
+
+වන සතුන් දඩයම් කිරීම සඳහා අනවසරයෙන් අදින ලද විදුලි කම්බියක ගැටී එලෙස විදුලි සැර වැදී ඇති බව පොලීසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/d7f2b2e5.json)
+
+---
+
+### Decision arrested by terrorists' investigations
 
 *2024-05-23 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196925) · `si`
 
-ඉන්දියාවේ අහමදාබාද් ගුවන්තොටුපොළේ දී ISIS සංවිධානයේ සාමාජිකයින් ලෙස අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා සම්බන්ධයෙන් විමර්ශන සිදුකිරීම සඳහා විශේෂ කමිටුවක් පත්කර තිබේ.
+A special committee investigates four Sri Lankan men arrested at Ahmedabad Airport for alleged ISIS ties. The group, linked to the Jamath Organization, planned attacks against a senior BJP leader and an acting ISIS leader in Pakistan.
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහ පොලිස් ත්‍රස්ත විමර්ශන කොට්ඨාසයේ අධ්‍යක්ෂවරුන්ගේ ප්‍රධානත්වයෙන් එම කමිටුව පත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+🟩
 
-පසුගිය 20 වන දින ඉන්දියාවේ අහමදාබාද් ගුවන්තොටුපොළේ දී මෙම ශ්‍රී ලාංකිකයින් සිව්දෙනා අත්අඩංගුවට ගන් ලැබීය.
+A special committee has been appointed to investigate the four Sri Lankans who were arrested as members of ISIS members at Ahmedabad Airport, India.
 
-අත්අඩංගුවට ගත් මොවුන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින් තොරතුරු රැසක් හෙළි වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
+Police Media Spokesperson DIG Thalduwawe said that the committee has been appointed by the Director of the Criminal Investigations Department and the Police Terrorism Investigation Division of the CID and the Police Terrorism Investigation Division.
 
-අදාළ පුද්ගලයින් පාකිස්ථානයේ ISIS නායකයෙකු ලෙස කටයුතු කරන අබු නමැත්තා සමග සම්බන්ධ වී ප්‍රහාරයක් සිදුකිරීමට සැලසුම් කර ඇති බව ද එහිදී අනාවරණය වී තිබේ.
+Four of these Sri Lankans were arrested at Ahmedabad Airport in Ahmedabad Airport on the 20th.
 
-අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා ජාතික තවුහිද් ජමාත් සංවිධානයේ සාමාජිකයින් බවට ද අනාවරණය වී ඇති බව ඉන්දියාවේ ද හින්දු පුවත්පත වාර්තා කර ඇත.
+According to Indian media reports, the interrogation of them had revealed information from them.
+
+It has also been revealed that the persons have been planned to be attacked with a person who acts as an ISIS leader in Pakistan.
+
+The Hindu newspaper reported that the four Sri Lankans who were arrested were members of the Jamath Organization of Jamath Organization.
+
+Investigations have revealed that they have been planned to murdered a senior leaders of Bharatiya Janata Party members.
 
 ...
 
 [Data](articles/8ad01226.json)
+
+[Extended Data](ext_articles/8ad01226.ext.json)
 
 ---
 
@@ -91,6 +115,8 @@ MP Hashim suggested that instead of being sold, the bungalow should be converted
 ◼️
 
 [Data](articles/e47be579.json)
+
+[Extended Data](ext_articles/e47be579.ext.json)
 
 ---
 
@@ -2239,27 +2265,5 @@ Ten female prisoners are among those who will receive the Presidential pardons. 
 [Data](articles/12be8cc9.json)
 
 [Extended Data](ext_articles/12be8cc9.ext.json)
-
----
-
-### Man arrested for impersonating CID Inspector and demanding money
-
-*2024-05-22 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99384/man-arrested-for-impersonating-cid-inspector-and-demanding-money-) · `en`
-
-An individual has been arrested in Kadawatha for allegedly impersonating an Inspector of Police (IP) of the Criminal Investigations Department (CID) and demanding a sum of Rs. 25,000 from a woman.
-
-Police said that the suspect in question had demanded the money from the woman, who is a resident of Kadawatha, after calling her by phone and claiming that he is investigating alleged murder charges levelled against the female.
-
-The woman had lodged a complaint with police regarding the incident. Accordingly, the suspect was arrested in the Kadawatha area yesterday (21) by Kadawatha Police, based on the information received by officers of the Western Province Intelligence Division.
-
-A forged ID of the Criminal Investigations Department was also found in the suspect’s possession.
-
-The 33-year-old suspect is a resident of the Heiyanthuduwa area in Mabima.
-
-◼️
-
-[Data](articles/2ad2879a.json)
-
-[Extended Data](ext_articles/2ad2879a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 18:53:35**
+As of **2024-05-23 19:03:52**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,141
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,941 (100.0%) of 25,948 articles have been extended.
+25,948 (100.0%) of 25,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### තුවක්කු ආඥා පනත සංශෝධනය කිරීමට අනුමැතිය
+### Approval to amend the Gun Command
 
 *2024-05-23 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196946) · `si`
 
-ගිනිඅවි බලපත්‍ර ගාස්තු යාවත්කාලීන කිරීමේ අරමුණින් තුවක්කු ආඥා පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවී තිබේ.
+Cabinet approves amendments to the Gun-Ordinance Act, including updates to firearm license fees. The proposal, led by President Ranil Wickremesinghe, aims to align firearm issuance with the Gunkunic Equity Act and the Gun Amendment Act, focusing on both non-agricultural and agricultural uses. The Department of Defense holds 34,318 firearms, with annual licensing fees set to be revised to better suit current requirements.
 
-ආරක්ෂක අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට මෙලෙස අනුමැතිය හිමිවී ඇති බව සඳහන් ය.
+🟩
 
-1916 අංක 33 දරන තුවක්කු ආශා පනත හා 1996 අංක 22 දරන තුවක්කු සංශෝධන පනතේ ප්‍රතිපාදන අනුව ආරක්ෂක අමාත්‍යංශය විසින් කෘෂිකාර්මික හා කෘෂිකාර්මික නොවන කටයුතු සඳහා බලපත්‍ර මත ගිනිඅවි නිකුත් කිරීම සිදුකරනු ලබන අතර ඒ සඳහා වාර්ෂික බද්දක් අය කිරීම සිදු වෙයි.
+Cabinet approval has been made to amend several clauses in the Gun-Ordinance Act to update firearm license fees.
 
-මේ වනවිට ආරක්ෂක අමාත්‍යංශය විසින් නිකුත් කර ඇති ගිනිඅවි ප්‍රමාණය 34,318ක් වන අතර බලපත්‍ර ගාස්තු වශයෙන් වාර්ෂිකව රුපියල් මිලියන 45ක් පමණ මුදලක් මහා භාණ්ඩාගාරය වෙත බැර කෙරෙන බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පෙන්වාදෙයි.
+The proposal made by President Ranil Wickremesinghe as the Minister of Defense said:
 
-කාලීන අවශ්‍යතාවන්ට ගැළපෙන පරිදි අදාළ පනත් සම්පූර්ණයෙන්ම සංශෝධනය කිරීම සඳහා පියවර ගනිමින් සිටින නමුත් එම සංශෝධන සිදුකරන තෙක් අදාළ බලපත්‍ර ගාස්තු වත්මන් අවශ්‍යතා අනුව සශෝධනය කිරීමේ අවශ්‍යතාව හඳුනාගෙන ඇති බැවින් ඒ සඳහා තුවක්කු ආඥා පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට රජය තීරණය කර ඇත.
+According to the Gunkunic Equity Act No. 33 of 1916 and the Gun Amendment Act No. 33 of 1996, firearms will be issued on non-agricultural and agricultural purposes.
+
+The Department of Defense is currently a 34,318 firearms and will be credited to the Treasury annually as the licensing fee.
+
+However, the licensing fee is being completely revised to meet the current needs, but the government has decided to revise the Gun-Ordinance Act.
 
 ◼️
 
 [Data](articles/79c1e901.json)
+
+[Extended Data](ext_articles/79c1e901.ext.json)
 
 ---
 
@@ -1146,6 +1152,8 @@ The task of developing the Chilaw-Iranawila tourism hub will be handed over to a
 
 [Data](articles/3d4b743c.json)
 
+[Extended Data](ext_articles/3d4b743c.ext.json)
+
 ---
 
 ### Several districts. Heavy rains exceeding 150 bee
@@ -1195,6 +1203,8 @@ Under the scheme, 225 scholarships have been provided previously for public offi
 ...
 
 [Data](articles/adbf36e3.json)
+
+[Extended Data](ext_articles/adbf36e3.ext.json)
 
 ---
 
@@ -1424,6 +1434,8 @@ There was no information whose lands would be acquired. (Colombo/May23/2024)
 
 [Data](articles/8c79482c.json)
 
+[Extended Data](ext_articles/8c79482c.ext.json)
+
 ---
 
 ### Ranil clearly declared in the cabinet of the presidential election
@@ -1651,6 +1663,8 @@ The South-East monsoon has seen floods, landslides and strong winds do damage to
 ◼️
 
 [Data](articles/18d04c7b.json)
+
+[Extended Data](ext_articles/18d04c7b.ext.json)
 
 ---
 
@@ -2241,6 +2255,8 @@ Buddhists celebrate Vesak as commemorating the birth, enlightenment and passing 
 ...
 
 [Data](articles/1a41974e.json)
+
+[Extended Data](ext_articles/1a41974e.ext.json)
 
 ---
 

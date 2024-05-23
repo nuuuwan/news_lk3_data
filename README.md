@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 08:18:24**
+As of **2024-05-23 08:34:02**
 
 ## Newspaper Stats
 
-*Scraped **25,825** Articles*
+*Scraped **25,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,39 @@ colombotelegraphcom | 231
 dbsjeyarajcom | 259
 bbccomsinhala | 260
 newsfirstlk | 363
-islandlk | 1,390
+islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,532
-adalk | 2,214
+adalk | 2,215
 adaderanalk | 2,968
-tamilmirrorlk | 3,012
+tamilmirrorlk | 3,013
 virakesarilk | 3,924
-dailymirrorlk | 4,061
+dailymirrorlk | 4,063
 adaderanasinhalalk | 4,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,825 (100.0%) of 25,825 articles have been extended.
+25,825 (99.9%) of 25,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Blink International opens CASIO store in Kandy City Centre
+
+*2024-05-23 07:58:00* · [`islandlk`](http://island.lk/blink-international-opens-casio-store-in-kandy-city-centre/) · `en`
+
+Blink International (Pvt) Ltd, sole authorized distributor and service agent for Casio watches in Sri Lanka, launched its first store in Kandy in the Kandy City Centre (KCC). The store has the largest watch collection in KCC with nearly 500 watches for customers to choose from and is the only wristwatch battery replacement service provider located inside KCC.
+
+“This is an important milestone for us. We are excited about expanding our retail footprint and to serve watch enthusiasts in Kandy. Our space in Kandy is designed to ensure that customers have a wide variety of choices and our team is equipped to help our clientele make an informed decision in line with their needs, style and budget,” noted Blink International Director Muhammed Mansoor.
+
+...
+
+[Data](articles/f37bce93.json)
+
+---
 
 ### 420 Vesak Zones across the country
 
@@ -65,6 +79,120 @@ Accordingly, 278 prisoners are released from all prisons in the country.
 [Data](articles/3f8d58e6.json)
 
 [Extended Data](ext_articles/3f8d58e6.ext.json)
+
+---
+
+### Techno Hub Malabe by ICC introduces innovative office spaces
+
+*2024-05-23 07:56:00* · [`islandlk`](http://island.lk/techno-hub-malabe-by-icc-introduces-innovative-office-spaces-2/) · `en`
+
+Techno Hub at Malabe is yet another innovative construction by International Construction Consortium (Pvt) Ltd (ICC) to provide commercial space at Malabe. With its success story of Iceland Business centre located in Colombo, Techno hub is considered as the second commercial space project constructed, developed & managed by ICC Pvt Ltd.
+
+Malabe has become the most sought-after residential suburb in the Greater Colombo area with the rapid development of Southern Expressway and outer circular Highway with proximity to major financial and administrative hubs of Sri Lanka. Malabe has been proposed as the Information Technology Hub, as per the Government’s Megapolis Development Project.
+
+ICC established in 1980, has become one of the largest and most respected and innovative Civil Engineering Organisations in Sri Lanka with over 40 years of construction excellence. ICC holds the highest CIDA Grading CS2/EM1 for the major area in local construction.
+
+...
+
+[Data](articles/68e6fc27.json)
+
+---
+
+### Hemas achieves record earnings for FY 24
+
+*2024-05-23 07:54:00* · [`islandlk`](http://island.lk/hemas-achieves-record-earnings-for-fy-24/) · `en`
+
+Revenue grew by 6.7% to Rs. 121.6 Bn driven by the improvements in all key BUs, Despite the volume contractions in all industries across Hemas managed to outperform the market with market share increases in key segments.
+
+Home and Personal Care Sri Lanka  Increased focus on high margin personal care segment.
+
+Providing innovative solutions and NPDs including Home and personal care International
+
+Efforts to increase foot print in key markets East Africa and Middle East.
+
+Learning Segment had a good back to school season and entered the value for money segment with Homerun
+
+Hospitals introduced Ambulatory care and focused on improving home care and drove key anchor specialty revenues
+
+However, revenue growth was not up to the expected levels due to adverse impact of the macro-economic challenges.
+
+Even though the country saw improvements in the external sector and progress was made in the IMF programme, consumer spending remained low.
+
+...
+
+[Data](articles/5859becc.json)
+
+---
+
+### Unilever – Lever Ayush strengthens commitment to traditional medicine as Main Sponsor of International Research Symposium at AyurEx Colombo 2024
+
+*2024-05-23 07:53:00* · [`islandlk`](http://island.lk/unilever-lever-ayush-strengthens-commitment-to-traditional-medicine-as-main-sponsor-of-international-research-symposium-at-ayurex-colombo-2024/) · `en`
+
+Building on a successful partnership in 2023, Lever Ayush, one of the leading Ayurvedic brands in the country, once again served as the Main Sponsor for the International Research Symposium at AyurEx Colombo 2024. Held recently, the event was a premier platform for celebrating and advancing traditional medicine practices.
+
+“At Lever Ayush, we are dedicated to upholding and innovating the wisdom of Ayurveda,” said Shamara Silva, Marketing Director – Beauty & Wellbeing and Personal Care of Unilever Sri Lanka. “Our partnership with AyurEx Colombo 2024 for its International Research Symposium reflects this commitment. This prestigious event fosters collaboration and knowledge exchange, propelling Ayurveda onto the global stage. We are proud to partner with AyurEx Colombo 2024, a platform that fosters research and education in traditional medicine. Through this collaboration, we strive to ensure that the benefits of Ayurveda remain accessible and relevant for generations to come.”
+
+...
+
+[Data](articles/3aa0cb8e.json)
+
+---
+
+### EY GDS Sri Lanka advocates for social equity and gender balance in the corporate sector
+
+*2024-05-23 07:51:00* · [`islandlk`](http://island.lk/ey-gds-sri-lanka-advocates-for-social-equity-and-gender-balance-in-the-corporate-sector/) · `en`
+
+In a powerful move to promote inclusivity, EY Global Delivery Services (EY GDS) Sri Lanka hosted an impactful panel discussion on social equity. The forum featured influential women leaders who shared their experiences and perspectives to drive progress in workplace diversity, both within the EY organization and in the wider community.
+
+The panelists, including Kasturi Chellaraja, the first female Group CEO of a public-quoted conglomerate in Sri Lanka; Sandra De Zoysa, the first female Chairperson of the Sri Lanka Association for Software and Services Companies (SLASSCOM); and Ashanthi Weerasinghe, co-founder of one of the largest fitness center networks in Sri Lanka, offered valuable insights about dismantling societal biases and creating equal opportunities.
+
+...
+
+[Data](articles/387aece0.json)
+
+---
+
+### JKH quarterly results and clarification on polls boost bourse
+
+*2024-05-23 07:46:00* · [`islandlk`](http://island.lk/jkh-quarterly-results-and-clarification-on-polls-boost-bourse/) · `en`
+
+The stock market picked up throughout yesterday due to multiple reasons. Sri Lanka’s premier listed company with the highest market capitalization, JKH’s impressive quarterly earnings, gave an impetus to the market, analysts said.
+
+Further, President Ranil Wickramasinghe announced that the presidential election will be held this year and that money has been already allocated for that purpose at the Cabinet meeting, thus nullifying speculation about a general election.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 131.8 points while S and P SL20 rose by 58.9 points. Turnover stood at Rs 1.46 billion with seven crossings.
+
+...
+
+[Data](articles/00952934.json)
+
+---
+
+### Puffiness and dark circles…under the eyes
+
+*2024-05-23 07:35:00* · [`islandlk`](http://island.lk/puffiness-and-dark-circlesunder-the-eyes/) · `en`
+
+Wow! The Aloe Vera magic is certainly helping The Island readers!
+
+I had a few queries wanting to know whether Aloe Vera is helpful in moisturising the delicate skin under the eyes, and also reducing puffiness.
+
+Extract fresh cucumber juice. You can do this by blending cucumber slices and then straining the juice through a fine sieve, or cheesecloth, to remove any pulp.
+
+In a small bowl, mix together the aloe vera gel and cucumber juice until well combined.
+
+Pierce the vitamin E capsules and squeeze out the oil into the mixture.
+
+Add the olive oil to the mixture and stir well to ensure all ingredients are thoroughly combined.
+
+Store the mixture in a clean, airtight container in the refrigerator for at least 30 minutes to chill.
+
+After chilling, use a cotton pad, or your fingertips, to apply the mixture gently under your eyes.
+
+Leave it on for about 15-20 minutes, then rinse off with lukewarm water and pat dry with a soft towel.
+
+...
+
+[Data](articles/81ab555c.json)
 
 ---
 
@@ -278,6 +406,24 @@ However, it still remains uncertain when debts involving private bond holders an
 
 ---
 
+### CB launches SL’s first-ever Financial Literacy Roadmap
+
+*2024-05-23 04:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-launches-SLs-first-ever-Financial-Literacy-Roadmap/108-283212) · `en`
+
+The Central Bank on Tuesday launched Sri Lanka’s first-ever Financial Literacy Roadmap (2024-2028), in particular targeting to promote financial literacy among the youth and women in the micro, small and medium enterprise (MSME) sectors.
+
+The four-year roadmap was developed under the Financial Literacy and Capacity Building pillar of the National Financial Inclusion in Sri Lanka.
+
+The roadmap aims to serve as guidance for all financial literacy service providers in the country, offering directions to achieve such behavioural changes towards a financially literate Sri Lanka.
+
+The new Central Banking Act entrusted the Central Bank with promoting financial inclusion in Sri Lanka.
+
+...
+
+[Data](articles/b61ce9b6.json)
+
+---
+
 ### CID arrests Aura Lanka Chairman
 
 *2024-05-23 03:52:19* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-Aura-Lanka-Chairman/56-762159) · `en`
@@ -373,6 +519,38 @@ The State Minister made these remarks during a press briefing titled “Collecti
 [Data](articles/75926eea.json)
 
 [Extended Data](ext_articles/75926eea.ext.json)
+
+---
+
+### ’குறைவான பெறுமதிக்கு அரசங்க நிறுவனங்கள் இல்லை’
+
+*2024-05-23 02:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைவான-பெறுமதிக்கு-அரசங்க-நிறுவனங்கள்-இல்லை/175-337744) · `ta`
+
+அரசாங்கத்தின் மதிப்பீட்டுப் பெறுமதிக்கு உட்பட்டே தனியார் துறையின் முதலீடுகளுக்காக அரச நிறுவனங்கள் வழங்கப்படும். மதிப்பிடப்பட்ட தொகைக்கு குறைவான தனியார் முதலீடுகளுக்கு அரச நிறுவனங்களை வழங்க வேண்டாமென ஜனாதிபதி ரணில் விக்கிரமசிங்க பணிப்புரை விடுத்துள்ளார் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு இராஜாங்க அமைச்சர் அருந்திக்க பெர்ணான்டோ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அருந்திக்க பெர்ணான்டோ மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழ் உள்ள பல நிறுவனங்களுக்கு முதலீட்டாளர்களைக் கண்டறிந்து அவற்றை ஒழுங்கான முறையில் பராமரிக்க அரசாங்கம் அனுமதி வழங்கியிருந்தது. இதன்படி, ஹில்டன் ஹோட்டல் போன்ற நிறுவனங்களுக்கு அந்த முதலீடுகளை வெளிப்படைத்தன்மையுடன் பெற்று, அதன் மூலம் அரசாங்க திறைசேரியைப் பலப்படுத்தவும், ஊழியர்களுக்கு பங்குகளை வழங்கவும், நிறுவனத்தை ஒழுங்கான முறையில் பராமரிக்கவும் எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/29fc6b1b.json)
+
+---
+
+### SL ranked at 76th spot in Travel and Tourism Development Index 2024
+
+*2024-05-23 02:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-ranked-at-76th-spot-in-Travel-and-Tourism-Development-Index-2024/108-283207) · `en`
+
+Sri Lanka is ranked at the 76th spot in Travel and Tourism Development Index 2024 (TTDI), as the country scored poorly in the tourism services and infrastructure, cultural resources and non-leisure resources categories.
+
+The TTDI is a biennial report published by the World Economic Forum in collaboration with the University of Surrey. It measures the set of factors and policies that enable the sustainable and resilient development of the T&T sector, which in turn contributes to the development of a country.
+
+In the 2024 TTDI, Sri Lanka recorded a score of 3.69, maintaining its 2019 score. However, it fell one spot in ranking to the 76th spot, among 119 countries. The country was also 6.8 percent below the average score of 119 countries.
+
+...
+
+[Data](articles/d8da6cb9.json)
 
 ---
 
@@ -1862,6 +2040,20 @@ The strong gusty winds blowing across the Central Hills today is believed to hav
 
 ---
 
+### පළමුවෙන්ම ජනපතිවරණය
+
+*2024-05-22 17:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පළමුවෙන්ම-ජනපතිවරණය/11-409802) · `si`
+
+පළමුවෙන් පැවැත්වෙන්නේ ජනාධිපතිවරණය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22දා) කැබිනට් මණ්ඩලයට දැනුම් දී තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කැබිනට් මණ්ඩලය අද පෙරවරුවේ කොළඹදී රැස් විය.
+
+ජනාධිපතිවරණය නියමිත කාලයේදී පැවැත්වීම සඳහා අයවැයෙන් මුදල් වෙන්කර තිබෙන්නේ යැයි ද ජනාධිපතිවරයා එහිදී සඳහන් කළේය. ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මේ වසරේ දී ජනාධිපතිවරණය පැවැත්විය යුතු බව ද ජනාධිපතිවරයා සදහන් කර ඇත. ඒ අනුව නියමිත කාල සීමාවේදීම ජනාධිපතිවරණය පැවැත්වෙන බවත් ජනාධිපතිවරයා කැබිනට් මණ්ඩලය හමුවේ සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/1cb86e4d.json)
+
+---
+
 ### A tree collapses on a motorcycle
 
 *2024-05-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196912) · `si`
@@ -2031,283 +2223,5 @@ There were less than 20 member present during the time of suspension.
 [Data](articles/f45c2df5.json)
 
 [Extended Data](ext_articles/f45c2df5.ext.json)
-
----
-
-### No matter how many factors are not going to restructure tax policy - the Minister of Finance
-
-*2024-05-22 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184251) · `ta`
-
-Finance Minister Xihan Semasinghe warns against misleading tax cuts for political gain, emphasizing the need for stability amidst economic recovery efforts. He criticizes opposition parties for exploiting economic issues for short-term political advantage, highlighting the potential loss of significant state revenue from reduced taxes. The minister assures that any tax reductions will revert within six months, stressing the importance of adhering to financial commitments made during the 2022 elections.
-
-🟩
-
-If the tax cut will be reduced, it will go back to the sequence within a period of 06 months.
-
-Finance Minister Xihan Semasinghe said the opposition parties should avoid the misleading the people for a short political purpose.
-
-He said this while addressing a debate on the proposal on various issues, including the economy, law and order and security of the Opposition in Parliament on Wednesday (22).
-
-With the announcement of the presidential election, one party is trying to use economic impact as weapons and another party is trying to weaken the current economic recovery.
-
-The main opposition United People's Ministers continued to blame the government's loss of state revenue of 700 billion rupees due to a reduction in taxes.
-
-The United People's Power states that the taxes that are currently implemented in their regime will be reduced by 24 per cent.
-
-...
-
-[Data](articles/55623694.json)
-
-[Extended Data](ext_articles/55623694.ext.json)
-
----
-
-### Grade 5 examination date announced
-
-*2024-05-22 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grade-5-examination-date-announced/108-283167) · `en`
-
-Colombo, May 22 (Daily Mirror) - The Examinations Department today announced the date of the holding of the Grade Five Scholarship Examination for 2024.
-
-Examinations Commissioner General H.J.M.C. Amith Jayasundara said the Scholarship Examination will be held on September 15 (Sunday).
-
-Applications for the examination will be accepted online from May 27, and the closing date will be June 14.
-
-Applications will not be accepted after midnight of June 14, and the closing date for applications will not be extended due to any reasons.
-
-Students in Grade 5 in government-approved schools will be eligible to apply for the examination.
-
-Students who are under eleven years as of January 31, 2025 will be eligible for the scholarships.
-
-To download the applications candidates are requested to log on to the Examinations Department’s official website https://onlineexams.gov.lk/eic
-
-◼️
-
-[Data](articles/d1da4d84.json)
-
-[Extended Data](ext_articles/d1da4d84.ext.json)
-
----
-
-### Scholarship is September 15
-
-*2024-05-22 16:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-සැප්තැම්බර්-15/11-409795) · `si`
-
-This year's scholarship exam is set for September 15, 2024, open to Grade 5 students approved by the government for popular schools. The application period runs from May 27 to June 14, 2024, online. Scholarships are awarded to successful candidates. More details can be found on the eIC website.
-
-🟩
-
-The Examinations Department announced that this year's scholarship examination will be held on September 15, 2024.
-
-The Commissioner General of Examinations HJMC is called online from 27th May 2024 to June 14, 2024 (onLine).. Amit Jayasundara has informed the announcement.
-
-The announcement shows that only the students who are studying for Grade 5 students who are approved by the government or the government to obtain popular schools.
-
-The Commissioner General of Examinations stated that the scholarships are eligible to obtain scholarships from children who pass the examination.
-
-Advice and 5 scholarship examination of the 5th Scholarship Examination is available at HTTtt / On-Line Exams.gov.lk./eIC website.
-
-◼️
-
-[Data](articles/f6725875.json)
-
-[Extended Data](ext_articles/f6725875.ext.json)
-
----
-
-### The sub -committee assembled to investigate the implementation of recommendations issued by the Committee on Government Accounts
-
-*2024-05-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184247) · `ta`
-
-A sub-committee chaired by Tissa Attanayake reviewed the implementation of Government Accounts Committee recommendations. The meeting included Auditor General officials discussing delays in COPA recommendations' execution. It's decided to reassess the issue with COPE's involvement, highlighting the need for action on long-standing Government Accounts matters.
-
-🟩
-
-The sub -committee appointed to investigate the implementation of the recommendations issued by the Government Accounts Committee has recently been met under the leadership of its chairman Tissa Attanayake.
-
-Auditor General WBC. Officials of the Auditor's Department, including Wickramaratne, also participated in the meeting, and the preliminary issues were discussed on the delay in implementing the recommendations of the Government Accounts (Copa) Committee (Gopa).
-
-Accordingly, this mechanism can be used by the Government Responsibility Committee (COPE), so it is decided to re -examine the issue with the participation of the committee's chairman.
-
-The sub -committee was appointed by the Committee of Government Accounts, led by Minister of State Lasantha Alagavanna, to address the recommendations of the Government Accounts and Government Accounts Affairs for many years.
-
-◼️
-
-[Data](articles/8911d396.json)
-
-[Extended Data](ext_articles/8911d396.ext.json)
-
----
-
-### Bird fever for a world record
-
-*2024-05-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196911) · `si`
-
-A rare Huia bird, last seen in 1907, fetched a stunning 450% above its estimated $3,000 value at auction, setting a new world record.
-
-🟩
-
-The bird is sold at a auction for a record of a bird at present.
-
-At the auction, this feather was expected to be auctioned by $ 3,000.
-
-The bird was also known as the report so far. However, the A / L Auction Agency said that the feather was sold 450% more than that price.
-
-"Huia" The people of the philosophy treat the people of the priest. The people were used to install the feather-emptied empty deeds, as gifted or selling.
-
-The "Huia" bird was last seen in 1907.
-
-◼️
-
-[Data](articles/a648d7d6.json)
-
-[Extended Data](ext_articles/a648d7d6.ext.json)
-
----
-
-### Russel Arnold among Australia’s Multicultural Ambassadors
-
-*2024-05-22 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russel-Arnold-among-Australias-Multicultural-Ambassadors/108-283166) · `en`
-
-May 22 - Cricket Australia on Wednesday named International Cricket Commentator Russel Arnold among the 54 representatives of its 'Multicultural Ambassadors Program'.
-
-A key action in Australian Cricket’s Multicultural Action Plan, the Ambassador Program brings together esteemed leaders from various sectors to advocate for inclusivity and drive positive change within the sport and wider community.
-
-The list of ambassadors includes many past and current players, as well as industry and community leaders, who will champion diversity and support the goals outlined in the Multicultural Action Plan.
-
-Inaugural ambassadors include Usman Khawaja, Alana King, Scott Boland, Mel Jones, Wasim Akram, Ravi Shastri, Lisa Sthalekar, Kishwar Chowdhury, Peter Varghese, Swati Dave and Fawad Ahmed.
-
-...
-
-[Data](articles/d4dfc949.json)
-
-[Extended Data](ext_articles/d4dfc949.ext.json)
-
----
-
-### The 4 babies born in the same environment are healthy. The Director of the Teaching Hospital
-
-*2024-05-22 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184233) · `ta`
-
-Four healthy babies were born in the same environment at Batticaloa Teaching Hospital, marking a rare occurrence in medical history. Obstetrician Dr. Saravanan highlighted the significance of this event, which involved artificial fertilization. Director Dr. Kalaranjini praised the health of the newborns, while the mother expressed gratitude for their support during her stay at the hospital.
-
-🟩
-
-Kalaranjini Ganesalingam, Director of the Hospital, said that all four children born in the same environment in the medical history of the Batticaloa Teaching Hospital are very healthy.
-
-Karikaran Krishnaveni, a mother of Pudukkudiyiruppu, Batticaloa, delivered these children on April 5.
-
-Dr. Saravanan, the obstetrician of the Batticaloa Teaching Hospital, said that this is a rare issue in the history of the medical field.
-
-A press conference to clarify the journalists was held at the Batticaloa Teaching Hospital on Wednesday morning.
-
-Director of the Batticaloa Teaching Hospital, Dr. Kalaranjini, Batticaloa Teaching Hospital's obstetrician Saravanan and Child Welfare Specialist Madan commented.
-
-Doctors and nurses, including Maithili, Deputy Director of the Batticaloa Teaching Hospital, attended the event.
-
-Thus, the birth of four children in the same environment takes place in 5 lakhs 70 thousand mothers, and that it is possible by artificial fertilization.
-
-...
-
-[Data](articles/9a9b5cbb.json)
-
-[Extended Data](ext_articles/9a9b5cbb.ext.json)
-
----
-
-### Ranil should be authorized for another 12 years
-
-*2024-05-22 16:11:03* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-12ක්-රනිල්ට-බලය-දිය-යුතුයි/11-409794) · `si`
-
-Vajira Abeywardena, UNP Chairman, supports Ranil Wickremesinghe for another 12-year term, highlighting his efforts to revive the nation and address past leadership flaws. He emphasizes Wickremesinghe's commitment to democracy and national policies, urging unity and caution against misleading leaders.
-
-🟩
-
-UNP Chairman of the United National Party (UNP) stated that if the country should be empowered to rule over twelve years.
-
-A public meeting was held at the UNP at the UNP to mark the Vesak, Temples, Dansals for Vesak, Dansals and Financial aid for the Vesak.
-
-Speaking to the media after the event, Vajira Abeywardena said this.
-
-"Ranil Wickremesinghe has recovered the dark pradeshiya edge of this country.. Changed the country from the country and the breath of comforting people. A program was led by the fallen country and build the country.
-
-He understood the shortcomings of all the leaders who so far.  They are accepting the country without blaming anyone. The country will be completed by June. He sent the attention of the world to Sri Lanka. The Sri Lankan public is enjoying today.
-
-...
-
-[Data](articles/a8901c7e.json)
-
-[Extended Data](ext_articles/a8901c7e.ext.json)
-
----
-
-### Tips to end the construction of the most industrial transport center construction
-
-*2024-05-22 16:04:26* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-දක්ෂිණ-බහු-විධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදි-කිරීම්-වසර-තුල-අවසන්-කරන්න-උපදෙස්/11-409793) · `si`
-
-In Anuradhapura, a combined urban development project funded by the French Agency and the Sri Lankan government aims to enhance both historical and modern areas, focusing on sustainability and reducing traffic. It includes renovations like installing modern facilities, improving archaeological sites, and developing green spaces. The project also involves constructing a southern multi-exchange transport center to streamline bus and train services, aiming for completion within the year.
-
-🟩
-
-A number of special development projects in Anuradhapura to the convenience of pilgrims in Anuradhapura. The development is done by the Urban Development and the Ministry of Housing and Urban Development Authority.
-
-The Combined Urban Development Project was launched by the French Agency of Sri Lanka and the Development of Sri Lanka and Development. The project aims to promote a systematic for development between the sacred and modern parts of Anuradhapura town with natural heritage of Anuradhapura.. The amount allocated for this purpose is 62.4 million euros. There were 11 sub-projects under this project.
-
-Sri Maha Bodhiha, Anuradhapura Sacred town, Park and Southern Car Park and Southern Car Park. The cargo consists of modern facilities including sustainable dramatic water supply systems, efficient micro-supply pathways, and ticket counters.
-
-...
-
-[Data](articles/ad796c30.json)
-
-[Extended Data](ext_articles/ad796c30.ext.json)
-
----
-
-### Ice drug trafficking through potatoes from Pakistan
-
-*2024-05-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184217) · `ta`
-
-Ice-like drugs are covertly trafficked into Sri Lanka hidden within potatoes from Pakistan, raising concerns about national security and public health. Nimal Piyadissa urges intelligence units to investigate this sophisticated smuggling method, highlighting its potential impact on local agriculture and consumer prices.
-
-🟩
-
-Ice -like drugs are smuggled into Sri Lanka via potatoes from Pakistan.
-
-Nimal Piyadissa, a member of the opposition who is independently in Parliament, said that the intelligence unit should pay attention to the matter.
-
-He said this while addressing a special statement in Parliament on Wednesday (22).
-
-People have to buy vegetables in the country at a higher price. The price of Keratin increased up to 3000 rupees.
-
-Potato production in vegetable production is very difficult. A bundle is sold in the market for up to 35000 rupees. Potato -producing farmers face more customs.
-
-Potatoes are now imported from abroad when the potato harvest is taking place. The potatoes that come from abroad are not conducive to use.
-
-Meanwhile I got information. This would be important information for intelligence authorities. This means that the drug trade is being carried out in a very good way through potatoes brought from Pakistan.
-
-...
-
-[Data](articles/61943d9e.json)
-
-[Extended Data](ext_articles/61943d9e.ext.json)
-
----
-
-### Sri Lanka banned Sri Lanka again from today
-
-*2024-05-22 15:58:28* · [`adalk`](https://www.ada.lk/breaking_news/අද-22-සිට-නැවත-දැනුම්දෙනතුරු-ශ්‍රී-ලංකාවට-ධීවර-කටයුතු-තහනම්/11-409792) · `si`
-
-Sri Lanka has banned its own name from being used again starting today. The Department of Fisheries and Aquatic Resources prohibits departures for all fishing vessels due to heavy rain expected in the coming days. Director Susantha Kahawatte advises fishermen to stay in safe areas.
-
-🟩
-
-The Department of Fisheries and Aquatic Resources Department says that he will not be permitted to departure to all fishing vessels, including a multi-dirty fishing vessels, including a heavy rainfall in the next few days of sea areas around the island.
-
-Director General of the Department Susantha Kahawatte states that it has been informed to travel to the Thagnu fishing boats of the multi-day vessel and safe areas.
-
-◼️
-
-[Data](articles/50308f3d.json)
-
-[Extended Data](ext_articles/50308f3d.ext.json)
 
 ---

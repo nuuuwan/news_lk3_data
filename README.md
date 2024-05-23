@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 14:18:29**
+As of **2024-05-23 14:34:28**
 
 ## Newspaper Stats
 
-*Scraped **25,902** Articles*
+*Scraped **25,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
-adalk | 2,218
+adalk | 2,219
 adaderanalk | 2,975
 tamilmirrorlk | 3,025
-virakesarilk | 3,942
+virakesarilk | 3,945
 dailymirrorlk | 4,071
 adaderanasinhalalk | 4,134
 
@@ -26,35 +26,91 @@ adaderanasinhalalk | 4,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,901 (100.0%) of 25,902 articles have been extended.
+25,902 (100.0%) of 25,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ගසක් කඩා වැටී තවත් තරුණියක් ජීවිතක්ෂයට
+### வெசாக் நிகழ்வை முன்னிட்டு சிறைக் கைதிகளை பார்வையிட விசேட அனுமதி
+
+*2024-05-23 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184311) · `ta`
+
+வெசாக் தினத்தை முன்னிட்டு இன்றும் வியாழக்கிழமை மற்றும் நாளை வெள்ளிக்கிழமை ஆகிய இரு தினங்களிலும் சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டிருக்கும் கைதிகளுக்கு வெளியாட்களை பார்வையிடுவதற்காக விசேட அனுமதி சிறைச்சாலைகள் திணைக்களத்தினால் வழங்கப்பட்டுள்ளது.
+
+அதன் பிரகாரம் இன்றும்  நாளையும் சிறைக்கைதிகளின் உறவினர்களால் கொண்டுவரப்படும் உணவு, இனிப்பு பண்டங்கள் மற்றும் சுகாதார பாதுகாப்பு பொருட்கள் மாத்திரம் கைதி ஒருவருக்கு பொதுமான அளவு பெற்றுக்கொடுப்பதற்கு சந்தர்ப்பம் வழங்கப்பட்டிருக்கிறது.
+
+அனைத்து சுகாதார வழிகாட்டல்களுக்கு உட்பட்டதாக குறித்த வெளியாட்களை பார்வையிடும் நடவடிக்கை நாட்டில் அனைத்து சிறைச்சாலைகளிலும் மேற்கொள்ளப்படும் என சிறைச்சாலைகள் ஆணையாளர் காமினி பி. திஸாநாயக்க விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4d62e015.json)
+
+---
+
+### கராப்பிட்டிய வைத்தியசாலையை தேசிய வைத்தியசாலையாக மாற்ற அனுமதி
+
+*2024-05-23 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184310) · `ta`
+
+காலி மாவட்டத்திலுள்ள கராப்பிட்டிய போதனா வைத்தியசாலையை தேசிய வைத்தியசாலையாக அபிவிருத்தி செய்வதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+இது தொடர்பான அமைச்சரவைப் பத்திரம் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவினால் சமர்ப்பிக்கப்பட்டதாக அமைச்சரவை சந்திப்பின் போது எடுக்கப்பட்ட முடிவுகளை அறிவிக்கும் ஊடகவியலாளர்கள் மாநாட்டிவ் இன்று வியாழக்கிமை (23)  அவர் தெரிவித்துள்ளார்.
+
+கொழும்பு மற்றும் கண்டி ஆகிய இரண்டு தேசிய வைத்தியசாலைகளுக்கு மேலதிகமாக மூன்றாவது தேசிய வைத்தியசாலையாக கராப்பிட்டிய அமையும் என அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c2dca34e.json)
+
+---
+
+### Another girl kills a tree
 
 *2024-05-23 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196936) · `si`
 
-මුන්දලම 61 හංදිය ප්‍රදේශයේ මාර්ගයක යතුරු පැදියකින් ගමන් කරමින් සිටි තරුණියන් දෙදෙනෙකු මතට අද (23) දහවල් ගසක් කඩා වැටී එක් තරුණියක් ජීවිතක්ෂයට පත්ව තිබේ.
+In Hentha, two youths died after hitting a tree while riding motorcycles. Another girl involved is hospitalized. A total of five deaths occurred due to adverse weather conditions, including a man who drowned when his motorcycle fell under a fallen tree. The situation remains critical, with flood warnings for the Attanagalu basin and landslides expected in Kegalle, Kurunegala, and Ratnapura districts.
 
-අනෙක් තරුණිය බරපතළ තත්ත්වයෙන් මේ වනවිට හලාවත රෝහලට ඇතුළත් කර ඇතැයි මුන්දලම පොලීසිය පවසයි.
+🟩
 
-සිදුවු අනතුරින් ජීවිතක්ෂයට පත්ව ඇත්තේ 23 හැවිරිදි මුන්දලම දේවාල හංදිය, විල්පොත ප්‍රදේශයේ පදිංචි තරුණයකි.
+Two youths were killed in a route of two youths on a route of a route of the 61 road in Hentha area.
 
-අදාළ තරුණියන් දෙදෙනා විල්පොත සිට හලාවත දෙසට යතුරු පැදියකින් ගමන් කරමින් සිටියදී මාර්ග අසල තිබු ගසක් හමා ආ සුළඟත් සමග එකවර මෙම තරුණියන් දෙදෙනා ගමන්ගත් යතුරුපැදිය මතට කඩා වැටී තිබේ.
+The other girl has been admitted to the Chilaw Hospital at present.
 
-ප්‍රදේශවාසීන් ගස ඉවත් කර ඇති අතර, ගසට යට වීමෙන් එක් තරුණියක් බරපතළ තුවාල ලබා ඇත.
+The deceased has been identified as 23 year old resident of Mundalama Devalaya, Visotatha area.
 
-මේ අතර අද උදෑසන වනවිට අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ පුද්ගල මරණ සංඛ්‍යාව 05 දක්වා ඉහළ ගොස් තිබිණි.
+The two young girls had a tree near the Wilpotha towards the motorcycle near the Wilpotha.
 
-තද වැසි සමග ඇතිවූ දැඩි සුළං තත්ත්වය හේතුවෙන් ගස් කඩා වැටීම්, දේපළ හා නිවාස ඇතුළු සිදුවීම් රැසක් වාර්තා වුණි.
+Residents have cleared the tree, and one young woman has been seriously injured.
 
-ඇඳහැලුණු වර්ෂාවත් සමඟ හංවැල්ල වග ප්‍රදේශයේ මාර්ගයකට කඩා වැටුණු පුළුන් ගසකට යටවීමෙන් යතුරු පැදියක ගමන් කරමින් සිටි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Meanwhile, the number of deaths due to inclement weather had risen to 5.
+
+Due to heavy winds with heavy rain, trees were reported due to trees and houses.
+
+A man was drowned in a motorcycle to collapse to a tree that collapsed on a road collapse in Hanwella area with bed.
+
+The deceased has been identified as Upul Anuruddha Liyanage, a resident of the area.
+
+The flood warning of the Attanagalu basin and the small river of the Kalu Ganga is a career for the next 48 hours.
 
 ...
 
 [Data](articles/e7a0388b.json)
+
+[Extended Data](ext_articles/e7a0388b.ext.json)
+
+---
+
+### உணவுப் பொதியில் போதைப்பொருளை மறைத்து எடுத்துச் சென்றவர் கைது!
+
+*2024-05-23 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184308) · `ta`
+
+போதைப்பொருளை விற்பனை செய்த குற்றச்சாட்டில் அநுராதபுரம் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள நண்பருக்கு  உணவுப் பொதியில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களை மறைத்து எடுத்துச் சென்ற ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவர் போதைப்பொருள் விற்பனை செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டு அண்மையில் பிணையில் விடுவிக்கப்பட்டவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/42b3ddf4.json)
 
 ---
 
@@ -184,29 +240,9 @@ The Ceylon Electricity Board (CEB) has requested customers to follow the followi
 
 ---
 
-### Antibiotic injection withheld following tragic death
-
-*2024-05-23 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Antibiotic-injection-withheld-following-tragic-death/108-283249) · `en`
-
-Colombo, May 23 (Daily Mirror) -  A thirty-one-year-old male, admitted to National Hospital in Colombo for treatment of burn injuries following an accident, died shortly after receiving an antibiotic injection, sources said.
-
-According to the sources, the patient was reportedly administered Cefuroxime upon arrival at Ward No. 17, leading to his sudden demise.
-
-In response to this incident, authorities have temporarily withheld the batch VLL040 of Cefuroxime Injection 750mg Vial (SR: 00101406), manufactured by Opsonin Pharma Limited, Bangladesh, pending further investigations.
-
-However, the hospital and health authorities are conducting a thorough investigation to determine the cause of this severe adverse drug reaction (ADR).
-
-◼️
-
-[Data](articles/c2ba0e80.json)
-
-[Extended Data](ext_articles/c2ba0e80.ext.json)
-
----
-
 ### Rain with heavy winds in Nuwara Eliya
 
-*2024-05-23 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
+*2024-05-23 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
 
 Nuwara Eliya faces severe weather with heavy rain and winds, causing snowfall and damaging infrastructure. Trees fell, blocking roads, and traffic was disrupted. Motorists urged to use caution and headlights due to poor visibility.
 
@@ -231,6 +267,26 @@ Also, due to the continuous rainfall weather, the Nuwara Eliya district is full 
 [Data](articles/a0a2e3ae.json)
 
 [Extended Data](ext_articles/a0a2e3ae.ext.json)
+
+---
+
+### Antibiotic injection withheld following tragic death
+
+*2024-05-23 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Antibiotic-injection-withheld-following-tragic-death/108-283249) · `en`
+
+Colombo, May 23 (Daily Mirror) -  A thirty-one-year-old male, admitted to National Hospital in Colombo for treatment of burn injuries following an accident, died shortly after receiving an antibiotic injection, sources said.
+
+According to the sources, the patient was reportedly administered Cefuroxime upon arrival at Ward No. 17, leading to his sudden demise.
+
+In response to this incident, authorities have temporarily withheld the batch VLL040 of Cefuroxime Injection 750mg Vial (SR: 00101406), manufactured by Opsonin Pharma Limited, Bangladesh, pending further investigations.
+
+However, the hospital and health authorities are conducting a thorough investigation to determine the cause of this severe adverse drug reaction (ADR).
+
+◼️
+
+[Data](articles/c2ba0e80.json)
+
+[Extended Data](ext_articles/c2ba0e80.ext.json)
 
 ---
 
@@ -2221,73 +2277,5 @@ During the war, leaders of the Allied countries—the Soviet Union, United State
 [Data](articles/b633cc14.json)
 
 [Extended Data](ext_articles/b633cc14.ext.json)
-
----
-
-### Should be observed on drugs
-
-*2024-05-23 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைபொருள்-குறித்து-அவதானம்-வேண்டும்/175-337739) · `ta`
-
-Nimal Piyadissa warns of drug smuggling through potatoes from Pakistan into Sri Lanka, affecting local prices and suggesting intelligence focus on this issue.
-
-🟩
-
-Independent Opposition Parliamentarian Nimal Piyadissa said that the intelligence unit should pay attention to this that the drugs such as ice such as ice are smuggled into Sri Lanka via potatoes from Pakistan.
-
-He made this statement while addressing a special statement in Parliament on Wednesday (22).
-
-People have to buy vegetables in the country at a higher price. The price of the carrot increased to up to 3000 rupees per kg. Potato production in vegetable production is very difficult. A mate sells in the market for up to 35,000 rupees. Potato -producing farmers face more customs.
-
-Potatoes are now imported from abroad when the potato harvest is taking place. The potatoes brought from abroad are not conducive to use.
-
-...
-
-[Data](articles/ed61a070.json)
-
-[Extended Data](ext_articles/ed61a070.ext.json)
-
----
-
-### Tamils do not get justice for Tamils
-
-*2024-05-23 01:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-நீதி-கிடைக்காது/175-337738) · `ta`
-
-Tamil citizens face injustice due to police anarchy and lack of proper law enforcement. The speaker questions the government's adherence to legal definitions and implementation, highlighting issues from the judiciary. This comes amid commemorations of the Mullivaikkal tragedy, where arrests were made under unclear circumstances, raising questions about the rule of law in Sri Lanka.
-
-🟩
-
-The anarchy of the police and the incomprehensible power seizes the life of the Tamil people. In this country justice has died. The law has been died.
-
-He was speaking at the debate on the proposal on Wednesday (22) in Parliament.
-
-Is this government implementing the laws properly?Does the definitions of law follow?  The various issues introduced through the laws of the judiciary are not implemented through the judiciary.I would like to hear here.
-
-At the end of the 15th anniversary of the death of the people of Mullivaikkal, the Mullivaikkal Kanji recalled the event, which was held everywhere, and the police were arrested at night in Sampur, Trincomalee, in the Eastern Province.. The arrest of this is within any country law. Is Sri Lanka in the law of Sri Lanka or is Sri Lanka following another country law?He asked.
-
-◼️
-
-[Data](articles/d931108b.json)
-
-[Extended Data](ext_articles/d931108b.ext.json)
-
----
-
-### 278 pardon the prisoners
-
-*2024-05-23 01:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/278-கைதிகளுக்கு-மன்னிப்பு/175-337737) · `ta`
-
-State amnesty pardons 278 prisoners, including 15 from Welikada, 37 from Mahara, and 10 females, totaling 278 across all prisons.
-
-🟩
-
-Prison Media Spokesperson Gamini B.. Dissanayake said.
-
-Dissanayake said that the state amnesty included 15 prisoners from the Welikada Prison, 37 inmates from the Mahara Prison and 278 inmates from all prisoners, including 10 female prisoners.
-
-◼️
-
-[Data](articles/44f44b79.json)
-
-[Extended Data](ext_articles/44f44b79.ext.json)
 
 ---

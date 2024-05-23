@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 20:33:56**
+As of **2024-05-23 20:52:53**
 
 ## Newspaper Stats
 
-*Scraped **25,956** Articles*
+*Scraped **25,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,62 @@ newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
-adalk | 2,222
+adalk | 2,223
 adaderanalk | 2,980
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
-dailymirrorlk | 4,085
+dailymirrorlk | 4,086
 adaderanasinhalalk | 4,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,955 (100.0%) of 25,956 articles have been extended.
+25,956 (100.0%) of 25,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ඉරාන ජනපතිගේ අවසන් කටයුතු සිදුකෙරේ
+### Train-motorcycle collision leaves three youths dead
+
+*2024-05-23 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-motorcycle-collision-leaves-three-youths-dead/108-283271) · `en`
+
+Tragedy struck at the Pintaliya railway crossing in Boossa when a train collided with a motorcycle, resulting in the deaths of three young individuals, according to police.
+
+The accident occurred when the motorcycle carrying the three youths collided with a train bound for Matara from Maradana.
+
+The victims have been identified as teenagers aged between 17 and 19 years old.
+
+◼️
+
+[Data](articles/05bf6c99.json)
+
+---
+
+### The funeral of Iraniya will take place
 
 *2024-05-23 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196950) · `si`
 
-ගුවන් අනතුරින් ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි සහ ඉරාන විදේශ අමාත්‍ය හුසේන් අමීර් අබ්දෙල්ලාහියාන් ඇතුළු පිරිසගේ නිල අවමංගල්‍ය කටයුතු ටෙහෙරාන් අගනුවර දී අද පැවැත්වුණි.
+The funeral of Iran's President Dr. Irava and Minister Hussein Amiteman took place in Tehran, attended by Hamas leader Captain and Deputy Minister Ali Sabri. Thousands mourned in Burdjand.
 
-මියගිය ඉරාන ජනාධිපති ඇතුළු පිරිසට අවසන් ගෞරව දැක්වීමට එක්වූ රාජ්‍යය නායකයින් අතරේ හමාස් නායක ඉස්මයිල් හනියේද සිටීම විශේෂත්වයකි.
+🟩
 
-මෙරට විදෙස් කටයුතු අමාත්‍ය අලි සබ්රි මහතා ද ජනාධිපතිවරයාගේ දේහයට අවසන් ගෞරව දැක්වීමට එක්විය.
+The official funeral of the Iranian president, Dr. Irava and Irava, Minister of Iranian Foreign Minister Hussein Amiteman and the officials was held in Tehran capital.
 
-ජනාධිපතිවරයාට අවසන් ගෞරව දැක්වීමට දහස් සංඛ්‍යාත ජනකායක් ද බිර්ජන්ඩ් නගරයට රැස්වී සිටියේ ය.
+It is noteworthy that the Hamas Leader in Hamas captain is among the state leaders who had joined the deceased Iranian President.
 
-ඒ අනුව 2021 වසරේ ඉරාන ජනාධිපති ලෙස පත් දැඩි මතවාදී නායකයෙක් වන ඉරාන ජනාධිපති ආචාර්ය රයිසිගේ දේහය පිළිබඳ අවසන් කටයුතු අද පස්වරුවේ සිදු කෙරුණි.
+Deputy Minister of Foreign Minister Ali Sabri joined the last respects of the President.
+
+Thousands of people gathered in Burdjand to pay his last respects to the President.
+
+Accordingly, the funeral of the Iranian president of Iranian president of the Iranian president of 2021 was held this afternoon.
 
 ◼️
 
 [Data](articles/afd88011.json)
+
+[Extended Data](ext_articles/afd88011.ext.json)
 
 ---
 
@@ -523,6 +545,22 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 [Data](articles/53693f53.json)
 
 [Extended Data](ext_articles/53693f53.ext.json)
+
+---
+
+### නිෂ්පාදන හා ධීවර අංශයේ කොරියා විභාගය ලියූ අයගෙන් සියයට 95ක්ම සමත්
+
+*2024-05-23 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/නිෂ්පාදන-හා-ධීවර-අංශයේ-කොරියා-විභාගය-ලියූ-අයගෙන්-සියයට-95ක්ම-සමත්/11-409807) · `si`
+
+නිශ්පාදන හා ධීවර අංශයන්ට අදාළව පැවැති කොරියානු භාෂා ප්‍රවීණතා විභාගයේ ප්‍රතිඵල නිකුත් කර ඇති අතර, ඉන් අයදුම්කරුවන් 3422ක් සමත් වී තිබේ.
+
+මෙම විභාගය සඳහා අයදුම්කරුවන් 3580 පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි. මෙම විභාගයේ ප්‍රතිඵල මැයි මස 27 වන දින  www.slbfe.lk වෙබ් අඩවියේ පළ කරනු ලබන අතර විභාගය සමත් වූ අයදුම්කරුවන් සඳහා වෛද්‍ය පරීක්ෂණ මැයි මස 28 වන දින ආරම්භ වේ.
+
+එසේම විභාගය සමත් අයදුම්කරුවන් සඳහා අදාළ සම්මුඛ පරීක්ෂණ ජුනි මස 06, 07 හා 10 යන දිනයන්හි කාර්යාංශයේ පළාත් කාර්යාල, විගමනික සම්පත් මධ්‍යස්ථාන හා පුහුණු මධ්‍යස්ථානයන්හිදී සිදු කෙරේ.
+
+◼️
+
+[Data](articles/5fee00ea.json)
 
 ---
 
@@ -2243,37 +2281,5 @@ The man who was injured in the incident has been admitted to the Dikoya Hospital
 [Data](articles/4e020a2b.json)
 
 [Extended Data](ext_articles/4e020a2b.ext.json)
-
----
-
-### ‘ISIS operatives’ were booked for gold, drug smuggling in past: ATS
-
-*2024-05-23 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/ISIS-operatives-were-booked-for-gold-drug-smuggling-in-past-ATS/155-283230) · `en`
-
-India, May 23 (Indian Express) - Two days after arresting four Sri Lankan nationals suspected to be ISIS operatives, the Gujarat Anti-Terrorist Squad (ATS) Wednesday said that all the accused have been previously booked in gold and drug smuggling cases.
-
-The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (35), Mohammad Nafran (27) and Mohammad Rasdeen (43). The suspects were allegedly plotting to carry out terror attacks at the behest of a Pakistan-based handler, the ATS said on Monday.
-
-...
-
-[Data](articles/43d2d4b4.json)
-
-[Extended Data](ext_articles/43d2d4b4.ext.json)
-
----
-
-### ‘ISIS operatives’ were booked for gold, drug smuggling in past: ATS
-
-*2024-05-23 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ISIS-operatives-were-booked-for-gold-drug-smuggling-in-past-ATS/108-283230) · `en`
-
-India, May 23 (Indian Express) - Two days after arresting four Sri Lankan nationals suspected to be ISIS operatives, the Gujarat Anti-Terrorist Squad (ATS) Wednesday said that all the accused have been previously booked in gold and drug smuggling cases.
-
-The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (35), Mohammad Nafran (27) and Mohammad Rasdeen (43). The suspects were allegedly plotting to carry out terror attacks at the behest of a Pakistan-based handler, the ATS said on Monday.
-
-...
-
-[Data](articles/f032349c.json)
-
-[Extended Data](ext_articles/f032349c.ext.json)
 
 ---

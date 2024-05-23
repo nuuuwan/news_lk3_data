@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 20:18:34**
+As of **2024-05-23 20:33:56**
 
 ## Newspaper Stats
 
-*Scraped **25,955** Articles*
+*Scraped **25,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,980
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
 dailymirrorlk | 4,085
-adaderanasinhalalk | 4,144
+adaderanasinhalalk | 4,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,955 (100.0%) of 25,955 articles have been extended.
+25,955 (100.0%) of 25,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### ඉරාන ජනපතිගේ අවසන් කටයුතු සිදුකෙරේ
+
+*2024-05-23 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196950) · `si`
+
+ගුවන් අනතුරින් ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි සහ ඉරාන විදේශ අමාත්‍ය හුසේන් අමීර් අබ්දෙල්ලාහියාන් ඇතුළු පිරිසගේ නිල අවමංගල්‍ය කටයුතු ටෙහෙරාන් අගනුවර දී අද පැවැත්වුණි.
+
+මියගිය ඉරාන ජනාධිපති ඇතුළු පිරිසට අවසන් ගෞරව දැක්වීමට එක්වූ රාජ්‍යය නායකයින් අතරේ හමාස් නායක ඉස්මයිල් හනියේද සිටීම විශේෂත්වයකි.
+
+මෙරට විදෙස් කටයුතු අමාත්‍ය අලි සබ්රි මහතා ද ජනාධිපතිවරයාගේ දේහයට අවසන් ගෞරව දැක්වීමට එක්විය.
+
+ජනාධිපතිවරයාට අවසන් ගෞරව දැක්වීමට දහස් සංඛ්‍යාත ජනකායක් ද බිර්ජන්ඩ් නගරයට රැස්වී සිටියේ ය.
+
+ඒ අනුව 2021 වසරේ ඉරාන ජනාධිපති ලෙස පත් දැඩි මතවාදී නායකයෙක් වන ඉරාන ජනාධිපති ආචාර්ය රයිසිගේ දේහය පිළිබඳ අවසන් කටයුතු අද පස්වරුවේ සිදු කෙරුණි.
+
+◼️
+
+[Data](articles/afd88011.json)
+
+---
 
 ### Three killed and 30 kills a motorbike train
 
@@ -2255,29 +2275,5 @@ The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (
 [Data](articles/f032349c.json)
 
 [Extended Data](ext_articles/f032349c.ext.json)
-
----
-
-### 36,900 collapses throughout the country - an informed of electricity consumers
-
-*2024-05-23 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196927) · `si`
-
-Due to bad weather, over 300,000 electricity consumers were affected, with 36,900 incidents reported. The Minister of Power and Energy assured restoration within 24 hours, advising consumers to report disruptions via calls or texts.
-
-🟩
-
-The Minister of Power and Energy Kanchana Wijesekara says that more than 300,000 consumers have been devised to over 300,000 consumers due to inclement weather.
-
-The Minister further stated that 36,900 incidents of electricity have been reported in their official X.
-
-The Minister further stated that an additional service staff have been attached to restore those crash and that the power supply will be restored in the next 24 hours.
-
-Meanwhile, the Minister further stated that the electricity consumers have a call or text message or text the electrical disconnections.
-
-◼️
-
-[Data](articles/e9da174c.json)
-
-[Extended Data](ext_articles/e9da174c.ext.json)
 
 ---

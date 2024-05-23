@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 21:18:19**
+As of **2024-05-23 21:35:25**
 
 ## Newspaper Stats
 
@@ -26,47 +26,65 @@ adaderanasinhalalk | 4,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,959 (100.0%) of 25,962 articles have been extended.
+25,962 (100.0%) of 25,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ISIS එකට බැඳුණු ලාංකිකයන්ගේ තොරතුරු එළියට
+### The information of the Sri Lankans entered into ISIS
 
 *2024-05-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196951) · `si`
 
-ඉන්දියාවේදී අත්අඩංගුවට පත්වූ ශ්‍රී ලාංකික ISIS සාමාජිකයන් සිව්දෙනා සමග සමීප සබඳතා පැවැත් වූ ශ්‍රී ලාංකිකයෙකු මාලිගාවත්තේදී ත්‍රස්ත විමර්ශන කොට්ඨාසය මගින් අතඅඩංගුවට ගෙන තිබේ.
+A Sri Lankan man was arrested in Maligawatta for alleged links to ISIS. Investigations led by the Terrorism Investigation Division (TID) uncovered connections between local individuals and ISIS members arrested in India. The TID is probing four Sri Lankans involved in drug trafficking and suspected terrorist activities against Jews, Christians, and Indian leaders.
 
-ඉන්දියාවේදී අත්අඩංගුවට පත් සිව්දෙනා අතර සිටින මොහමඩ් නුෆ්රාන් නැමැත්තා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වූ පොට්ට නෞෆර්ගේ දෙවැනි විවාහයේ පුත්‍රයෙකු බව විමර්ශන නිලධාරීන් අනාවරණ කරයි.
+🟩
 
-ඉන්දියාවේදී අත්අඩංගුවට පත්වූ ශ්‍රී ලාංකික ISIS සාමාජිකයන් සම්බන්ධයෙන් විමර්ශන සිදුකිරීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පතිවරයාගේ සෘජු අධීක්ෂණය යටතේ විමර්ශන කණ්ඩායමක් පත්කරනු ලැබීය.
+In Maligawatte, a Sri Lankan has been arrested in Maligawatta
 
-ඊට ත්‍රස්ත විමර්ශන කොට්ඨාසය ඇතුළත් අතර අදාළ විමර්ශන කණ්ඩායම මගින් මේ වන විට ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයන් සිව්දෙනා සම්බන්ධයෙන් තොරතුරු ඉල්ලා තිබේ.
+Investigations Officials reveal that Mohamed Nugrean, who was arrested in India, is a son of a large scale drug dealer Pottt.
 
-එවන් පසුබිමක අදාළ පුද්ගලයන් සිව්දෙනා මෙරට තුළ සබඳතා පැවැත්වූ පිරිස් පිළිබඳව වෙනමම විමර්ශනයක් මේ වනවිටත් අරඹා අවසන් ය.
+A investigating team was appointed under the supervision of the DIG in charge of the IGP to investigate the Sri Lankan ISIS members who were arrested in India.
 
-එහි ප්‍රතිඵලයක් ලෙස ඔවුන් සමග සමීප සබඳතා පැවැත් වූ පුද්ගලයෙකු මාලිගාවත්තේදී ත්‍රස්ත විමර්ශන කොට්ඨාසය මගින් අතඅඩංගුවට ගෙන තිබේ.
+It contained in the Terrorism Investigation Division and requested the four Sri Lankans who were arrested in India at present.
+
+In such a background, the four persons have already begun a separate investigation into the people in Sri Lanka.
+
+As a result, a person has been arrested in Maligawatta in Maligawatta.
+
+Investigators say that he is a different directories, including providing air tickets.
+
+The suspect is currently being interrogated in the Terrorist Investigation Division.
+
+Meanwhile, the following four ISIS members had gone to Chennai through the Katunayake airport by the Nightland Airport on the 19th.
 
 ...
 
 [Data](articles/801d3f1c.json)
 
+[Extended Data](ext_articles/801d3f1c.ext.json)
+
 ---
 
-### ரயிலில் மோதுண்டு 3 இளைஞர்கள் பலி
+### Three youth killed in train
 
 *2024-05-23 20:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதுண்டு-3-இளைஞர்கள்-பலி/175-337797) · `ta`
 
-கிந்தோட்டை பிந்தலியா புகையிரத கடவையில் இன்று இடம்பெற்ற புகையிரத விபத்தில் மூன்று இளைஞர்கள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In separate incidents, three youths were fatally injured: two in a train crash at Pindaliya Railway Cross, Kindota, and one in a motorcycle accident involving the Ruhunu Kumari train.
 
-மருதானையில் இருந்து மாத்தறை நோக்கிச் சென்று கொண்டிருந்த ருஹுணு குமாரி விரைவு ரயிலில் சாவி மோதியதில் மோட்டார் சைக்கிளில் பயணித்த மூன்று இளைஞர்களும் உயிரிழந்துள்ளதாக காலி பொலிஸ் அத்தியட்சகர் அலுவலகம் தெரிவித்துள்ளது.
+🟩
 
-தெலிக்கடை பொலிஸ் பிரிவிற்குட்பட்ட கெக்கில மண்டியாவைச் சேர்ந்த இருபது வயதுடைய மூன்று இளைஞர்களே இவ்வாறு உயிரிழந்துள்ளனர்
+Three youths were killed in a train accident at Pindaliya Railway Cross in Kindota, police said.
+
+Three youths on a motorbike were killed when the Ruhunu Kumari Kumari, who was traveling from Maradana to Matara, was killed, the Galle Police Superintendent's Office said.
+
+Three youths aged twenty -year -olds from Kekila Mandia, who belong to the Telikada Police Division, died.
 
 ◼️
 
 [Data](articles/5fb57612.json)
+
+[Extended Data](ext_articles/5fb57612.ext.json)
 
 ---
 
@@ -83,6 +101,8 @@ There is no letup in Israel’s killer intent. The Gaza Strip has been made unin
 ...
 
 [Data](articles/da6ff145.json)
+
+[Extended Data](ext_articles/da6ff145.ext.json)
 
 ---
 

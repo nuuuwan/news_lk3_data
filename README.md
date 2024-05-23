@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 06:58:03**
+As of **2024-05-23 07:18:51**
 
 ## Newspaper Stats
 
-*Scraped **25,814** Articles*
+*Scraped **25,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ dbsjeyarajcom | 259
 bbccomsinhala | 260
 newsfirstlk | 363
 islandlk | 1,390
-economynextcom | 1,488
+economynextcom | 1,489
 dailyftlk | 1,532
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,010
+tamilmirrorlk | 3,011
 virakesarilk | 3,923
 dailymirrorlk | 4,058
-adaderanasinhalalk | 4,118
+adaderanasinhalalk | 4,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,813 (100.0%) of 25,814 articles have been extended.
+25,814 (100.0%) of 25,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### සම්බුදු තෙමඟුල සැමරෙන වෙසක් පුර පසළොස්වක පොහොය අදයි
+
+*2024-05-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196922) · `si`
+
+බුදුරජාණන් වහන්සේගේ සම්බුදු තෙමඟුල සිහිකෙරෙන වෙසක් පුන් පසළොස්වක පොහොය දිනය අදට (23) යෙදී තිබේ.
+
+◼️
+
+[Data](articles/050f39d7.json)
+
+---
+
+### Sri Lanka to host foreign artistes, Sigiriya fashion show to promote tourism
+
+*2024-05-23 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-foreign-artistes-sigiriya-fashion-show-to-promote-tourism-164286/) · `en`
+
+ECONOMYNEXT- Sri Lanka plans to bring down international artistes, and hold water festivals to boost tourists, Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu said.
+
+“We will be hosting a few international artists in September to December,” Gajabahu told EconomyNext.
+
+Sri Lanka is targeting 2.3 million tourists in the year 2024 with expectations that it may go up to 2.5 million Gajabahu said.
+
+Sri Lanka is also planning on having a water festival in coastal towns such as Trincomalee, Arugambay  and Kalpitiya in order to showcase Sri Lanka’s capacity for watersports, Gajabahu said. (Colombo/May22/2024)
+
+◼️
+
+[Data](articles/6d4bd626.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-23 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196921) · `si`
+
+තද සුළං සහ මුහුදු රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (23) රාත්‍රී 10.30 දක්වා බලපැවැත්වෙන පරිදි අදාළ නිවේදනය නිකුත් කර ඇත.
+
+ඒ අනුව ගිනිකොණදිග අරාබි මුහුද සහ නිරිතදිග බෙංගාල බොක්ක මුහුද ආශ්‍රිත ගැඹුරු මුහුදු ප්‍රදේශවල ක්‍රියා කරන ධීවර සහ නාවික ප්‍රජාවන්ට අදාළ රතු නිවේදනය නිකුත් කර තිබේ.
+
+එම ප්‍රජාවන්ට වඩාත් සැලකිලිමත් වන ලෙසත් හෙට (24) වන විට පහළ වායුගෝලයේ පැවති කැලඹිලි ස්වභාවය බෙංගාල බොක්කෙහි මධ්‍යම ප්‍රදේශය හරහා පීඩන අවපාතයක් දක්වා වර්ධනය වීමට ඉඩ ඇතැයි ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඉන්පසුව එය බෙංගාල බොක්ක ඊසාන දෙසට ගමන් කරමින් තවදුරටත් වර්ධනය වේ.
+
+ඒ වනවිට දිවයින වටා මුහුදු ප්‍රදේශවලත් ගිනිකොණදිග අරාබි සහ නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් ඉතා තද සුළං පැ.කි.මී 60 - 70 දක්වා ඇති විය හැකි අතර මුහුද ඉතා රළු විය හැකිය.
+
+එමෙන්ම ඉහත සිතියමේ දැක්වෙන මුහුදු ප්‍රදේශයන්ට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ද නාවිකයින්ට හා ධීවරයින්ට දැනුම්දී තිබේ.
+
+...
+
+[Data](articles/99374697.json)
+
+---
 
 ### Sri Lanka to sign debt restructuring MoU with bilateral creditors before IMF review next month
 
@@ -47,6 +101,8 @@ However, it still remains uncertain when debts involving private bond holders an
 ...
 
 [Data](articles/8e5e48de.json)
+
+[Extended Data](ext_articles/8e5e48de.ext.json)
 
 ---
 
@@ -169,6 +225,22 @@ While the Vaddukoddai police are carrying out investigations into the incident, 
 [Data](articles/c93eb3ba.json)
 
 [Extended Data](ext_articles/c93eb3ba.ext.json)
+
+---
+
+### அடிப்படைவாத தாக்குதல்களை ’தடுக்க முடியாது’
+
+*2024-05-23 02:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337742) · `ta`
+
+இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும். இல்லையேல் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைவாத தாக்குதல்கள்  இலங்கையிலும் எதிர்காலத்தில் நடத்தப்படுவதனை தடுக்க முடியாதென  ஆளும் தரப்பு எம்.பி.யுமான ரியர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+
+இந்தியாவின் பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காகவே  ஐ.எஸ்.ஐ.எஸ். அமைப்பை  சேர்ந்த 4 இலங்கை முஸ்லிம்கள்   கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள் என்றார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால்    கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/d7b9b344.json)
 
 ---
 
@@ -2173,97 +2245,5 @@ It is noteworthy that the United Nations Human Rights Office has stated that the
 [Data](articles/23233f6c.json)
 
 [Extended Data](ext_articles/23233f6c.ext.json)
-
----
-
-### Presidential election to be held first, President informs Cabinet
-
-*2024-05-22 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-election-to-be-held-first-President-informs-Cabinet/108-283164) · `en`
-
-Colombo, May 22 (Daily Mirror) -  Despite speculations that a General Election will precede a Presidential election, President Ranil Wickremesinghe has informed the Cabinet today that the Presidential election will be held first this year.
-
-During the Cabinet meeting held this morning, President Wickremesinghe emphasized that the Presidential election should be held within the specified period this year in accordance with the Constitution.
-
-The Election Commission officially announced on May 09th that the Presidential election will be held between September 17 and October 16.
-
-Accordingly, the presidential election will be declared between the end of July and the early part of August.
-
-◼️
-
-[Data](articles/34623fc4.json)
-
-[Extended Data](ext_articles/34623fc4.ext.json)
-
----
-
-### SLTB bus driver is tribute to residents of the area
-
-*2024-05-22 15:39:30* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගන්නා-ලංගම-බස්-රියදුරුට-ප්‍රදේශවාසින්ගේ-උපහාර/11-409790) · `si`
-
-Anton Fernando, a long-serving SLTB bus driver, received a tribute for his dedication to the community. Despite COVID restrictions limiting inter-provincial bus services, he continued to operate buses between Maskeliya and Ginigathena, ensuring essential fuel supply to the Avissawella depot. His efforts were recognized by local police, teachers, and students.
-
-🟩
-
-The Nortonbridge Dippo, Avribella Licensing, is scheduled to serve as a 26-year driver in Avissawella road along the Road Maskeliya (22).
-
-The felicitation of the Nortan Fernando, who was in appreciation of the service of Anton Fernando, joined the pursuit of police officers, teachers and schoolchildren.
-
-Anton Fernando, who served in the SLTB depots on Avissawella, was a resident of Nortton Fernando.
-
-The bus, which will commence from the Nortenbridge Bus Station to Avissawella to Maskera to Maskera to Maskehena at the daughter 6 days.Anton Fernando said.
-
-In the course of a crisis where the bus was running the bus during the time of serving on the road, a fever was in a crisis in the road, a fever was in front of the main road and had not caused a danger.Anton Fernando said that a driver who worked in the depot was hit by the bus seat on the bus.
-
-...
-
-[Data](articles/4baeccf1.json)
-
-[Extended Data](ext_articles/4baeccf1.ext.json)
-
----
-
-### Mothers who have made allegations of contraceptive against me now apologize- Kurunegala doctor Shafi Sikabdeen
-
-*2024-05-22 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184240) · `ta`
-
-Mothers who accused Dr. Shafi Sikabdeen of Kurunegala hospital have since apologized. He faced detention and alleged professional betrayal, including being likened to a ghost.
-
-🟩
-
-Mothers who have accused Kurunegala hospital doctor Shafi Sikabdeen have now appealed to them to forgive them.
-
-Some mothers;He said that they had complained against me and appealed to them to forgive them.
-
-Dr. Shafi Sikabdeen said that he had detained him in jail with Magandure Madhus.
-
-The doctor who said that I shared meals with him together and fell asleep near him.
-
-My medical industry abandoned me.
-
-Dr. Shafi Sikabdeen said that the person named Badeniya was silent on the issue to date.
-
-However, when the wife of the doctor Badenia, the second time she was conceived, I saw myself childbirth, "he said.
-
-Doctors compared the deity to the goddess but that the same profession was used to hand over me to the ghosts, Dr. Shafi Sikabdeen said that we need these bad memories.
-
-◼️
-
-[Data](articles/6aa721eb.json)
-
-[Extended Data](ext_articles/6aa721eb.ext.json)
-
----
-
-### Preparing for Vesak...
-
-*2024-05-22 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Preparing-for-Vesak/108-283161) · `en`
-
-People are buying lanterns in Colombo to celebrate the Vesak festival which commemorates the birth of the Buddha, his enlightenment and demise. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/83867365.json)
-
-[Extended Data](ext_articles/83867365.ext.json)
 
 ---

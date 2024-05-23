@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 14:34:28**
+As of **2024-05-23 14:52:44**
 
 ## Newspaper Stats
 
-*Scraped **25,906** Articles*
+*Scraped **25,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,219
-adaderanalk | 2,975
+adaderanalk | 2,976
 tamilmirrorlk | 3,025
 virakesarilk | 3,945
 dailymirrorlk | 4,071
@@ -26,41 +26,71 @@ adaderanasinhalalk | 4,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,902 (100.0%) of 25,906 articles have been extended.
+25,906 (100.0%) of 25,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### வெசாக் நிகழ்வை முன்னிட்டு சிறைக் கைதிகளை பார்வையிட விசேட அனுமதி
+### Nine killed in Mexico stage collapse at campaign event
+
+*2024-05-23 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99398/nine-killed-in-mexico-stage-collapse-at-campaign-event) · `en`
+
+A stage collapsed at a Mexican election campaign rally on Wednesday, killing nine people and injuring dozens as high winds tore apart the large, concert-style structure, scattering politicians and attendees.
+
+Around 50 people were injured at the rally for the Citizens’ Movement party in the northern Mexican state of Nuevo Leon, Samuel Garcia, the state’s governor, said on social media.
+
+The victims were eight adults and one child, Garcia said, adding he was headed to a hospital where three people were in surgery. Many of the injured were being treated at local clinics, the director of Mexico’s social security institute reported.
+
+Jorge Alvarez Maynez, the presidential candidate for the centrist Citizens’ Movement party, said a gust of wind caused the stage to collapse at the event in the city of San Pedro Garza Garcia, a wealthy enclave near the industrial hub of Monterrey.
+
+...
+
+[Data](articles/01452f1c.json)
+
+---
+
+### Special permission to visit prisoners in view of Vesak event
 
 *2024-05-23 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184311) · `ta`
 
-வெசாக் தினத்தை முன்னிட்டு இன்றும் வியாழக்கிழமை மற்றும் நாளை வெள்ளிக்கிழமை ஆகிய இரு தினங்களிலும் சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டிருக்கும் கைதிகளுக்கு வெளியாட்களை பார்வையிடுவதற்காக விசேட அனுமதி சிறைச்சாலைகள் திணைக்களத்தினால் வழங்கப்பட்டுள்ளது.
+For Vesak, the Special Prisons Department allows outside visits on Thursdays and Fridays. Today and tomorrow, families can bring food, sweets, and healthcare items. This applies nationwide under Prisons Commissioner Gamini B's guidance.
 
-அதன் பிரகாரம் இன்றும்  நாளையும் சிறைக்கைதிகளின் உறவினர்களால் கொண்டுவரப்படும் உணவு, இனிப்பு பண்டங்கள் மற்றும் சுகாதார பாதுகாப்பு பொருட்கள் மாத்திரம் கைதி ஒருவருக்கு பொதுமான அளவு பெற்றுக்கொடுப்பதற்கு சந்தர்ப்பம் வழங்கப்பட்டிருக்கிறது.
+🟩
 
-அனைத்து சுகாதார வழிகாட்டல்களுக்கு உட்பட்டதாக குறித்த வெளியாட்களை பார்வையிடும் நடவடிக்கை நாட்டில் அனைத்து சிறைச்சாலைகளிலும் மேற்கொள்ளப்படும் என சிறைச்சாலைகள் ஆணையாளர் காமினி பி. திஸாநாயக்க விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+The Special Prisons Department has been granted by the Department of Special Prisons to visit outsiders on both Thursdays and Fridays on Thursday and Friday on Friday.
+
+Accordingly, today and tomorrow, the relatives of the prisoners have been given the opportunity to provide a general amount of food, sweet commodities and health care products.
+
+Prisons Commissioner Gamini B says that the action of outsiders in the country will be carried out in all prisons in the country.. Dissanayake said in a media statement.
 
 ◼️
 
 [Data](articles/4d62e015.json)
 
+[Extended Data](ext_articles/4d62e015.ext.json)
+
 ---
 
-### கராப்பிட்டிய வைத்தியசாலையை தேசிய வைத்தியசாலையாக மாற்ற அனுமதி
+### Allow Karapitiya Hospital to be converted into National Hospital
 
 *2024-05-23 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184310) · `ta`
 
-காலி மாவட்டத்திலுள்ள கராப்பிட்டிய போதனா வைத்தியசாலையை தேசிய வைத்தியசாலையாக அபிவிருத்தி செய்வதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+The Sri Lankan Cabinet has approved converting Karapitiya Hospital into a National Hospital, marking it as the country's third such facility alongside those in Colombo and Kandy. This decision follows a proposal by Health Minister Ramesh Pathirana, with details set to be announced at a forthcoming press conference.
 
-இது தொடர்பான அமைச்சரவைப் பத்திரம் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவினால் சமர்ப்பிக்கப்பட்டதாக அமைச்சரவை சந்திப்பின் போது எடுக்கப்பட்ட முடிவுகளை அறிவிக்கும் ஊடகவியலாளர்கள் மாநாட்டிவ் இன்று வியாழக்கிமை (23)  அவர் தெரிவித்துள்ளார்.
+🟩
 
-கொழும்பு மற்றும் கண்டி ஆகிய இரண்டு தேசிய வைத்தியசாலைகளுக்கு மேலதிகமாக மூன்றாவது தேசிய வைத்தியசாலையாக கராப்பிட்டிய அமையும் என அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Cabinet Spokesperson Minister Bandula Gunawardena said that the Cabinet has approved the idea of developing the Karapitiya Teaching Hospital as a National Hospital in Galle District.
+
+The press conference will announce the decisions taken during the Cabinet meeting that the Cabinet paper was submitted by Health Minister Ramesh Pathrana.
+
+Minister Bandula Gunawardena has said that the third National Hospital will be the third National Hospital in addition to the two National Hospitals in Colombo and Kandy.
 
 ◼️
 
 [Data](articles/c2dca34e.json)
+
+[Extended Data](ext_articles/c2dca34e.ext.json)
 
 ---
 
@@ -100,17 +130,23 @@ The flood warning of the Attanagalu basin and the small river of the Kalu Ganga 
 
 ---
 
-### உணவுப் பொதியில் போதைப்பொருளை மறைத்து எடுத்துச் சென்றவர் கைது!
+### Arrest
 
 *2024-05-23 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184308) · `ta`
 
-போதைப்பொருளை விற்பனை செய்த குற்றச்சாட்டில் அநுராதபுரம் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள நண்பருக்கு  உணவுப் பொதியில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களை மறைத்து எடுத்துச் சென்ற ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A friend from Anuradhapura Prison was arrested for smuggling heroin and ice in food packages, allegedly for drug sales. He was initially detained but later released on bail.
 
-கைது செய்யப்பட்டவர் போதைப்பொருள் விற்பனை செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டு அண்மையில் பிணையில் விடுவிக்கப்பட்டவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A friend who was detained at the Anuradhapura Prison has been arrested for allegedly hiding heroin and ice in a food package for allegedly selling drugs.
+
+Police said the arrested man was detained and released on bail.
 
 ◼️
 
 [Data](articles/42b3ddf4.json)
+
+[Extended Data](ext_articles/42b3ddf4.ext.json)
 
 ---
 
@@ -2261,21 +2297,5 @@ Meanwhile, the government has found a loss of about Rs 17 billion in the Seni ta
 [Data](articles/94cf1c72.json)
 
 [Extended Data](ext_articles/94cf1c72.ext.json)
-
----
-
-### Palestinian holocaust: The oppressed has become the oppressor
-
-*2024-05-23 01:48:51* · [`dailyftlk`](https://www.ft.lk/columns/Palestinian-holocaust-The-oppressed-has-become-the-oppressor/4-762134) · `en`
-
-Israeli encroachment into Palestinian territory does not seem different to Hitler’s territorial expansion or greater Lebensraum—“living space”—for the German people
-
-During the war, leaders of the Allied countries—the Soviet Union, United States, and Great Britain—received reports of mass shootings of Jewish civilians, including women and children. In 1942, they learned of the Nazi plan to annihilate Europe’s Jews. While leaders occasionally publicly denounced violence towards Jews, they prioritised winning the war over rescuing Jews – The holocaust encyclopaedia https://encyclopedia.ushmm.org/content/en/question/how-did-leaders-diplomats-and-citizens-around-the-world-respond-to-the-events-of-the-holocaust
-
-...
-
-[Data](articles/b633cc14.json)
-
-[Extended Data](ext_articles/b633cc14.ext.json)
 
 ---

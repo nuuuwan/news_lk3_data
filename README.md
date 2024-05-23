@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 16:18:22**
+As of **2024-05-23 16:33:59**
 
 ## Newspaper Stats
 
-*Scraped **25,921** Articles*
+*Scraped **25,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,221
-adaderanalk | 2,976
+adaderanalk | 2,977
 tamilmirrorlk | 3,027
-virakesarilk | 3,945
-dailymirrorlk | 4,078
-adaderanasinhalalk | 4,136
+virakesarilk | 3,950
+dailymirrorlk | 4,079
+adaderanasinhalalk | 4,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,918 (100.0%) of 25,921 articles have been extended.
+25,921 (100.0%) of 25,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### வரலாறு : குழந்தை போல் வீதியில் ஓடிய மகாத்மா காந்தி! - 1934 மே 15 வீரகேசரியில்...
+
+*2024-05-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184320) · `ta`
+
+1934இல் தீண்டாமையை ஒழிக்க மகாத்மா காந்தியும் அவரது குழுவினரும் நடந்தே இந்தியாவில் சுற்றுப்பயணம் சென்றுள்ளனர்.
+
+அப்போது வயதான மகாத்மா காந்தி வீதியில் ஒரு குழந்தை போல் சிறிது தூரம் ஓடிய காட்சியை செய்தியாக, 1934 மே 15ஆம் திகதி வெளியான வீரகேசரி பத்திரிகை "மகாத்மாவின் ஓட்டப்போட்டி : உற்சாகத்தில் கால் மைல் தூரம் ஓட்டம் : வரவேற்புக் கூட்டத்தில் அமளி : சப் இன்ஸ்பெக்டருக்கு காயம்" என்ற தலையங்கத்துடன் இவ்வாறு குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/67936e93.json)
+
+---
+
+### Showery and windy conditions to continue during next 36 hours
+
+*2024-05-23 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99400/showery-and-windy-conditions-to-continue-during-next-36-hours) · `en`
+
+The Department of Meteorology announced that due to the South-West monsoon condition, the prevailing showery and windy conditions are expected to continue during the next 36 hours.
+
+In its latest forecast, the Met. Department stated that showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
+
+Very heavy showers about 150 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts, while heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Mannar, Galle and Matara districts, it added.
+
+Showers or thundershowers will occur at several places elsewhere of the island.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces and in Trincomalee district.
+
+...
+
+[Data](articles/53693f53.json)
+
+---
+
+### கிளிநொச்சியில் சகோதரியின் காதலானால் சிறுமி பாலியல் துஸ்பிரயோகம் - சந்தேக நபர் தலைமறைவு
+
+*2024-05-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184318) · `ta`
+
+கிளிநொச்சியில் 14 வயது சிறுமியொருவர் தனது சகோதரியின் காதலனால் பாலியல் துஸ்பிரயோகத்திற்கு உள்ளாக்கப்பட்டுள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+
+இச் சம்பவம் தொடர்பில் 118 என்ற அவசர தொலைபேசி இலக்கத்திற்கு தகவல் வழங்கப்பட்டதனை தொடர்ந்து குறித்த தகவல்  பொலீஸாருக்கு பரிமாறப்பட்டு கிளிநொச்சி பொலீஸாரினால் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே மேற்படி விடயம் தெரியவந்துள்ளது.
+
+கிளிநொச்சி மலையாளபுரத்தைச் சேர்ந்த 14 வயது சிறுமி சகோதரியின் காதலனால் பாலியல் துஸ்பிரயோகத்திற்கு  உள்ளாக்கப்பட்டுள்ளதாகவும், பாதிக்கப்பட்ட சிறுமி தற்போது கிளிநொச்சி மாவட்ட வைத்தியசாலையில் பரிசோதனைக்கு அனுமதிக்கப்படடுள்ளதாகவும் கிளிநொச்சி பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவத்துடன் தொடர்புடைய சந்தேக நபரை  கைது செய்ய பொலிஸார் நடவடிக்கைகளை முன்னெடுத்த போதும் குறித்த நபர் தலைமறைவாகியுள்ளதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/2134e93d.json)
+
+---
 
 ### Two son killed in preparating and sleeping the Dansala
 
@@ -61,6 +113,48 @@ Investigations investigating that the two men were killed in the electrical mach
 [Data](articles/974d29c1.json)
 
 [Extended Data](ext_articles/974d29c1.ext.json)
+
+---
+
+### Rice Dansala in Pettah...
+
+*2024-05-23 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rice-Dansala-in-Pettah/110-283258) · `en`
+
+The annual rice Dansala organised by the Pettah Eksath Bodhiraja Society being held at the Pettah today with the participation of a large crowd. The Danasala will continue till tomorrow. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/c285b0a8.json)
+
+---
+
+### கொழும்பில் இருந்து யாழுக்கு பொதியில் அனுப்பப்பட்ட ஹெரோயின் - மூவர் கைது!
+
+*2024-05-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184312) · `ta`
+
+கொழும்பில் இருந்து யாழ்ப்பாணத்திற்கு அனுப்பி வைக்கப்பட்ட பொதி ஒன்றினுள் போதைப்பொருளை மிக சூட்சுமமாக அனுப்பி வைக்கப்பட்ட சம்பவம் தொடர்பில் பெண்ணொருவர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணத்தை சேர்ந்த பெண்ணொருவருக்கு தனியார் நிறுவனம் ஒன்றின் பொதி சேவைகள் ஊடாக, சேலை உள்ளிட்ட ஆடைகள் அடங்கிய பொதி ஒன்று அனுப்பி வைக்கப்பட்டுள்ளது. குறித்த பொதியினுள் சூட்சுமமான முறையில் ஹெரோயின் போதைப்பொருளையும் மறைத்து வைத்து அனுப்பி வைக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பொலிஸ் பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் விசாரணைகளை முன்னெடுத்த பொலிஸார் பொதியினை பெற்றுக்கொண்டவர் மற்றும் அதற்கான பணத்தினை வழங்கிய பெண் உள்ளிட்ட இருவரை கைது செய்தனர். அவர்களிடம் இருந்து 3 கிராம் ஹெரோயின் போதைப்பொருளையும் மீட்டு இருந்தனர்.
+
+கைது செய்யப்பட்டவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில்,  பொதியினை அனுப்பி வைத்த நபரை கொழும்பில் வைத்து கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/ab3d6b7f.json)
+
+---
+
+### மாற்றுத்திறனாளியான பிள்ளையின் வாழ்வியலை பேசும் 'பிள்ளையார் சுழி'
+
+*2024-05-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184316) · `ta`
+
+'போதை ஏறி புத்தி மாறி' எனும் படத்தின் மூலம் அறிமுகமாகி, 'டபுள் டக்கர்' எனும் படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் தீரஜ் முக்கியமான வேடத்தில் நடித்திருக்கும் 'பிள்ளையார் சுழி' எனும் திரைப்படம் அமெரிக்காவில் உள்ள நியூயார்க் நகரில் நடைபெறும் சர்வதேச திரைப்பட விழாவில் திரையிட தெரிவு செய்யப்பட்டிருப்பதாக பட குழுவினர் பிரத்யேக புகைப்படங்களை வெளியிட்டு உற்சாகமாக தெரிவித்திருக்கிறார்கள்.‌
+
+...
+
+[Data](articles/621809f2.json)
 
 ---
 
@@ -155,6 +249,52 @@ When the Buburasa police were investigating the matter, it was revealed that the
 [Data](articles/216f1077.json)
 
 [Extended Data](ext_articles/216f1077.ext.json)
+
+---
+
+### තායිවානය අසල චීන හමුදා අභ්‍යාසයක්
+
+*2024-05-23 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196937) · `si`
+
+චීනය, තායිවානය අවට මුහුදු සහ ගුවන් කලාපයේ දින දෙකක යුද අභ්‍යාසයක් ආරම්භ කර තිබේ.
+
+චීනය පවසන්නේ මෙම යුද අභ්‍යාසය තායිවානයේ බෙදුම්වාදී ක්‍රියා කලාපයට දඬුවමක් වන බවය.
+
+අමෙරිකාව තායිවානය සමග සමීප සබඳතා පැවැත්වීම සම්බන්ධයෙන්ද චීනය අප්‍රසාදයක් පළ කරයි.
+
+චීනය, තායිවානය ආසන්න මුහුදු සහ ගුවන් කලාපයේ වරින්වර යුද අභ්‍යාස පවත්වන්නේ සිය විරෝධය පෙන්නුම් කරමිනි.
+
+චීනය, තායිවානය අවට මෙලෙස යුද අභ්‍යාසයක් ආරම්භ කළේ තායිවානයේ නව ජනාධිපතිවරයා ලෙස විලියම් ලායි දිවුරුම් දීමෙන් දින තුනකට පසුව වීම විශේෂත්වයකි.
+
+චීනය මෙම යුද අභ්‍යාසය හඳුන්වන්නේ තායිවානයේ බෙදුම්වාදී ක්‍රියා කලාපයට දඬුවමක් ලෙසය.
+
+චීනයේ යුද අභ්‍යාසය තායිවානයේ දැඩි විවේචනයට ලක්ව ඇති අතර තායිවාන හමුදාවට දැඩි අවධානයෙන් පසුවන ලෙසට උපදෙස් ලබාදී තිබේ.
+
+තායිවානයේ ප්‍රජාතන්ත්‍රවාදී ලෙස තේරී පත් වූ රජයක් ක්‍රියාත්මක වුවත් චීනය, තායිවානය, සලකන්නේ තම රටට අයත් භුමි ප්‍රදේශයක් ලෙසය.
+
+තායිවානය තාක්ෂණික වශයෙන් දියුණුවක් ලබා ඇති සංවර්ධිත රාජ්‍යයක් වුව ද ජගත් සංවිධානය විසින් එය නිදහස් රටක් ලෙස මෙතෙක් පිළිගෙන නොමැත.
+
+...
+
+[Data](articles/312223f2.json)
+
+---
+
+### மாங்குளம் வைத்தியசாலையின் பெயர் பலகையில் தமிழ் எழுத்து பிழையை திருத்துமாறு கோரிக்கை
+
+*2024-05-23 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184315) · `ta`
+
+வட மாகாணத்தில் விசேடமாக அமைக்கப்பட்டிருக்கின்ற மருத்துவப் புனர்வாழ்வு சிகிச்சை மற்றும் உளநல மேம்பாட்டு நிலையம் மாங்குளம் ஆதரவைத்தியசாலை வளாகத்தை அண்டிய பகுதியிலே அமைக்கப்பட்டு தற்போது திறந்து வைக்கப்பட இருக்கின்றது.
+
+எதிர்வரும் 26 ஆம் திகதி நாட்டினுடைய ஜனாதிபதி ரணில் விக்ரமசிங்க வருகை தந்து இந்த வைத்தியசாலையை திறந்து வைக்கவுள்ளார்.
+
+இந்நிலையில், வைத்தியசாலை முன்பாக அமைக்கப்பட்டிருக்கின்ற பெயர் பலகையில் மாங்குளம் என்பது தமிழ் மொழியில் தவறாக எழுதப்பட்டுள்ளது.
+
+இதனை மாற்றுமாறு பல தடவைகள் உரியவர்களுக்கு தெரியப்படுத்தியும் இன்றுவரை அது மாற்றப்படவில்லை. எனவே, திறப்பு விழாக்கு முன்னதாக  தமிழ் மொழியினை சரி  செய்து  பெயர்ப் பலகையினை மாற்றி திறப்பு விழாவினை செய்ய வேண்டும் என சமூக ஆர்வலர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/c2f506af.json)
 
 ---
 
@@ -448,6 +588,8 @@ Several prisoners were released from the Welikada Prison today to mark the Vesak
 
 [Data](articles/cdeb32be.json)
 
+[Extended Data](ext_articles/cdeb32be.ext.json)
+
 ---
 
 ### Tree uprooted in Maitland Crescent...
@@ -459,6 +601,8 @@ Inclement weather conditions uprooted a tree along  Maitland Crescent today. Th
 ◼️
 
 [Data](articles/404d9f44.json)
+
+[Extended Data](ext_articles/404d9f44.ext.json)
 
 ---
 
@@ -1137,6 +1281,8 @@ Devotees are seen taking part in religious observances at the Hunupitiya Gangara
 ◼️
 
 [Data](articles/3e869d3e.json)
+
+[Extended Data](ext_articles/3e869d3e.ext.json)
 
 ---
 
@@ -2103,169 +2249,5 @@ The new Central Banking Act entrusted the Central Bank with promoting financial 
 [Data](articles/b61ce9b6.json)
 
 [Extended Data](ext_articles/b61ce9b6.ext.json)
-
----
-
-### National Examinations in Sri Lanka: Why is it being questioned recently?
-
-*2024-05-23 04:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cnee2ym7kwwo) · `si`
-
-Recent controversies surround Sri Lanka's national examinations, including concerns over question paper accuracy and integrity. Issues range from alleged leaks and discrepancies in content to complaints about the quality of questions across various subjects. These problems have raised questions about the credibility of the examination system and its impact on students' mental health and academic performance.
-
-🟩
-
-The three Grade 5 Scholarship Examination, Education General Guidelines and A / L examination can be referred to the three main examination held in Sri Lanka's school system.. 300,000 students appear for these three examinations per year. Since the educational facilities are also available to the future education and the GCE A / L examination is a decisive examination that determines the university entrance, and many students try to pass these exams.
-
-However, many issues have erupted on these examinations. There was questions such as the accuracy of the question paper in many recent examinations, and certain questions such as the accuracy of questions and answers.
-
-The Sri Lankan who has won the world from the glory of education
-
-...
-
-[Data](articles/9593fc7f.json)
-
-[Extended Data](ext_articles/9593fc7f.ext.json)
-
----
-
-### CID arrests Aura Lanka Chairman
-
-*2024-05-23 03:52:19* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-Aura-Lanka-Chairman/56-762159) · `en`
-
-The Criminal Investigation Department (CID) yesterday arrested Aura Lanka Group of Companies Chairman Viranjith Thambugala over allegations of financial fraud.
-
-He was remanded in custody till 27 May after appearing before the Colombo Magistrate’s Court yesterday.
-
-Thambugala’s business ventures have been under the scrutiny of authorities, while he was also cleared of charges related to an unauthorised entry into the Anuradhapura prison.
-
-The Illicit Asset Investigation Division of the CID initiated the investigation on the Inspector General of Police’s (IGP) directives.
-
-Thambugala was recently involved in controversy after a flurry of social media accusations surrounding an aloe vera plantation business, alleging that he was involved in unlawful activities through the initiative.
-
-In this context, the IGP’s directives to initiate an investigation into his enterprises and the way in which his assets were acquired are relevant.
-
-◼️
-
-[Data](articles/7065acac.json)
-
-[Extended Data](ext_articles/7065acac.ext.json)
-
----
-
-### High Commission facilitates repatriation of 1,732 illegal Lankan migrants from Malaysia
-
-*2024-05-23 02:44:57* · [`dailyftlk`](https://www.ft.lk/news/High-Commission-facilitates-repatriation-of-1-732-illegal-Lankan-migrants-from-Malaysia/56-762146) · `en`
-
-The Sri Lanka High Commission in Malaysia successfully facilitated the repatriation of 1,608 Sri Lankan illegal migrants.
-
-This operation was conducted in coordination with the Malaysian Government’s Migrant Repatriation Program over a two-month period from 1 March to 30 April.
-
-Before the start of this repatriation program, from 1 January to 28 February, the High Commission facilitated the repatriation of 124 illegal migrants who were stranded in Malaysia with various difficulties. This brings the total number of repatriations to 1,732.
-
-The Migrant Repatriation Program which was initiated by the Malaysian Government, aims to assist illegal immigrants in voluntarily returning to their home countries by providing legal exemptions and financial relief. The High Commission of Sri Lanka played a pivotal role in ensuring that Sri Lankan nationals take full advantage of the program.
-
-...
-
-[Data](articles/70d8bbf2.json)
-
-[Extended Data](ext_articles/70d8bbf2.ext.json)
-
----
-
-### Parliament observe one minute silence for Iranian President
-
-*2024-05-23 02:38:18* · [`dailyftlk`](https://www.ft.lk/news/Parliament-observe-one-minute-silence-for-Iranian-President/56-762145) · `en`
-
-Parliament yesterday observed a minute silence for late Iranian President Ebrahim Raisi and others who were killed in a helicopter crash on Sunday.
-
-Observing of a minute’s silence was proposed by Chief Government Whip Prasanna Ranatunga.
-
-The Government declared Monday (21) a national mourning day in respect of the late Iranian President. Flags at all State institutions, ministries and departments should fly at half-mast today, Public Administration, Home Affairs, Provincial Councils and Local Government Ministry Secretary Pradeep Yasaratne informed.
-
-◼️
-
-[Data](articles/9f4b629a.json)
-
-[Extended Data](ext_articles/9f4b629a.ext.json)
-
----
-
-### President condoles demise of Iranian counterpart
-
-*2024-05-23 02:37:37* · [`dailyftlk`](https://www.ft.lk/news/President-condoles-demise-of-Iranian-counterpart/56-762144) · `en`
-
-Following the arrival from Indonesia after an official tour, President Ranil Wickremesinghe yesterday paid a visit to the Iranian Embassy in Colombo to extend his condolences on the untimely tragic passing of the late Iranian President Ebrahim Raisi.
-
-Upon arrival at the Embassy, President Wickremesinghe was warmly received by the Iranian Ambassador to Sri Lanka, Dr. Alireza Delkhosh, and the Embassy staff.
-
-During his visit, the President engaged in brief conversation with the Iranian Ambassador and others present, conveying his heartfelt condolences on behalf of the Sri Lankan Government and himself to the Iranian Government and people, for the loss of the Late President Ebrahim Raisi.
-
-◼️
-
-[Data](articles/e2132ba7.json)
-
-[Extended Data](ext_articles/e2132ba7.ext.json)
-
----
-
-### New regulations to make uncultivated land productive
-
-*2024-05-23 02:35:10* · [`dailyftlk`](https://www.ft.lk/business/New-regulations-to-make-uncultivated-land-productive/34-762143) · `en`
-
-State Minister for Social Empowerment Anupa Pasqual on Tuesday emphasised that new laws are being introduced to facilitate the use of uncultivated land for agricultural purposes as land is vital for social empowerment.
-
-The State Minister also announced that the Government has decided to incorporate a skill or professional stream into the G.C.E. (Ordinary Level) Examination to promote social empowerment.
-
-The State Minister made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC).
-
-...
-
-[Data](articles/75926eea.json)
-
-[Extended Data](ext_articles/75926eea.ext.json)
-
----
-
-### There are no state institutions for low valuations
-
-*2024-05-23 02:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைவான-பெறுமதிக்கு-அரசங்க-நிறுவனங்கள்-இல்லை/175-337744) · `ta`
-
-President Ranil Wickremesinghe has directed against providing state institutions for private investments below government valuation. The Minister of Urban Development and Housing, Arundika Fernando, announced this policy change, aiming to ensure proper investment and maintenance of companies like Hilton Hotel, enhancing government revenue and employee benefits. This move is expected to prevent undervalued transactions, aligning private investments with state standards.
-
-🟩
-
-State institutions will be provided for the investments of the private sector, subject to the value of the government. Minister of Urban Development and Housing, Arundika Fernando said that President Ranil Wickremesinghe has issued a directive not to provide state institutions for private investments for less than the estimated amount.
-
-Arundika Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-The government has given permission to find investors and maintain them properly for many companies under the Ministry of Urban Development and Housing. Accordingly, companies like the Hilton Hotel are expected to obtain those investments transparency, thereby strengthening the government treasury, providing stocks to employees and maintaining the company properly.
-
-...
-
-[Data](articles/29fc6b1b.json)
-
-[Extended Data](ext_articles/29fc6b1b.ext.json)
-
----
-
-### No government agencies for low value
-
-*2024-05-23 02:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைவான-பெறுமதிக்கு-அரசாங்க-நிறுவனங்கள்-இல்லை/175-337744) · `ta`
-
-President Ranil Wickremesinghe has directed against providing state institutions for private investments below government valuation. The Minister of Urban Development and Housing, Arundika Fernando, announced this policy change, aiming to ensure transparency and higher value for investments in companies like Hilton Hotel, benefiting both the government treasury and employees.
-
-🟩
-
-State institutions will be provided for the investments of the private sector subject to the value of the government. Minister of Urban Development and Housing, Arundika Fernando said that President Ranil Wickremesinghe has issued a directive not to provide state institutions for private investments for less than the estimated amount.
-
-Arundika Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-The government has given permission to find investors and maintain them properly for many companies under the Ministry of Urban Development and Housing. Accordingly, companies like the Hilton Hotel are expected to obtain those investments transparency, thereby strengthening the government treasury, providing stocks to employees and maintaining the company properly.
-
-...
-
-[Data](articles/358063ca.json)
-
-[Extended Data](ext_articles/358063ca.ext.json)
 
 ---

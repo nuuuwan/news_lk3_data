@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 15:18:54**
+As of **2024-05-23 15:33:47**
 
 ## Newspaper Stats
 
-*Scraped **25,909** Articles*
+*Scraped **25,914** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 231
+colombotelegraphcom | 232
 dbsjeyarajcom | 259
 bbccomsinhala | 262
 newsfirstlk | 363
@@ -17,20 +17,68 @@ economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,219
 adaderanalk | 2,976
-tamilmirrorlk | 3,025
+tamilmirrorlk | 3,027
 virakesarilk | 3,945
-dailymirrorlk | 4,073
+dailymirrorlk | 4,075
 adaderanasinhalalk | 4,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,907 (100.0%) of 25,909 articles have been extended.
+25,909 (100.0%) of 25,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### அக்காவின் காதலனால் தங்கை துஷ்பிரயோகம்
+
+*2024-05-23 15:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அக்காவின்-காதலனால்-தங்கை-துஷ்பிரயோகம்/72-337774) · `ta`
+
+சம்பவத்துடன் தொடர்புடைய சந்தேக நபரை  கைது செய்ய பொலிஸார் நடவடிக்கைகளை முன்னெடுத்த போதும் குறித்த நபர் தலைமறைவாகியுள்ளதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/0978632a.json)
+
+---
+
+### Shah Rukh Khan admitted to Ahmedabad Hospital due to heat stroke
+
+*2024-05-23 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Shah-Rukh-Khan-admitted-to-Ahmedabad-Hospital-due-to-heat-stroke/107-283257) · `en`
+
+May 23 (NDTV) - Bollywood superstar Shah Rukh Khan has been admitted to a hospital in Ahmedabad after suffering a heat stroke. The actor was in Ahmedabad to watch the Indian Premier League (IPL) match between his Kolkata Knight Riders and Sunrisers Hyderabad on Tuesday.
+
+"The actor was suffering from dehydration amid a high temperature of 45-degree Celcius in Ahmedabad. He is under medical observation although his health is stable. Security has been tightened around the hospital," news agency IANS reported, quoting sources.
+
+The actor's dear friend and actress Juhi Chawla visited the actor at the hospital. An official statement from the hospital is expected soon, news agency IANS reported.
+
+...
+
+[Data](articles/85c9a39a.json)
+
+---
+
+### இருவருக்கு எமனான ஜெனரேட்டர் புகை
+
+*2024-05-23 15:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இருவருக்கு-எமனான-ஜெனரேட்டர்-புகை/76-337772) · `ta`
+
+ஜெனரேட்டரை இயக்கிவிட்டு தூங்கச் சென்ற தந்தையும் மகனும் உயிரிழந்துள்ள சம்பவம்  வியாழக்கிழமை  (23) அதிகாலை இடம்பெற்றுள்ளதாக புபுரஸ்ஸ பொலிஸார் தெரிவித்துள்ளனர் .
+
+புபுரஸ்ஸ நெஸ்டா காலனியை சேர்ந்த, 40 வயதுடைய சனத் ரோஹன மற்றும் 17 வயதுடைய ககன மதுசங்க ஆகிய இருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
+
+வெசாக் தினத்தை முன்னிட்டு புபுரஸ்ஸ நகரில் வியாழக்கிழமை (23) அன்று உணவு வழங்கும் நிகழ்வு நடாத்துவதற்கு ஆயத்தமாகியிருந்ததால் , அப்பகுதியில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது
+
+இந்நிலையில் தனது அறையில் ஜெனரேட்டர் இயந்திரத்தை இயக்க  வைத்து குறித்த தந்தையும் , மகனும்  உறங்கச் சென்றுள்ளனர்.
+
+இது தொடர்பில் புபுரஸ்ஸ காவற்துறையினர் விசாரணைகளை மேற்கொண்ட போது, ​​ ஜெனரேட்டரில் இருந்து வந்த கார்பன் மோனாக்சைடு வாயுவை சுவாசித்ததால் இருவரும் உயிரிழந்துள்ளமை தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/216f1077.json)
+
+---
 
 ### Government to complete stalled Hyatt Hotel project with military aid
 
@@ -47,6 +95,8 @@ As such, Minister Fernando emphasized that if new investors do not step forward,
 ◼️
 
 [Data](articles/87fcc464.json)
+
+[Extended Data](ext_articles/87fcc464.ext.json)
 
 ---
 
@@ -150,6 +200,20 @@ The flood warning of the Attanagalu basin and the small river of the Kalu Ganga 
 
 ---
 
+### LPL Season 5 confirmed to proceed amidst ownership transition
+
+*2024-05-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LPL-Season-5-confirmed-to-proceed-amidst-ownership-transition/108-283255) · `en`
+
+Innovative Production Group FZE (IPG), the Event Rights Partner of the Lanka Premier League (LPL), has affirmed that despite recent developments with regards to the arrest of a co-owner of the Dambulla franchise, LPL Season 5 will proceed as planned.
+
+According to IPG's media release, LPL Season 5 will adhere to its original schedule and feature a full roster of matches, showcasing the talents of five teams. Despite the changes in ownership within the Dambulla franchise, the team is set to participate under new ownership.
+
+◼️
+
+[Data](articles/4d7b3f1e.json)
+
+---
+
 ### lPL Season 5 confirmed to proceed amidst ownership transition
 
 *2024-05-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/lPL-Season-5-confirmed-to-proceed-amidst-ownership-transition/108-283255) · `en`
@@ -161,6 +225,8 @@ According to IPG's media release, LPL Season 5 will adhere to its original sched
 ◼️
 
 [Data](articles/97ed18e5.json)
+
+[Extended Data](ext_articles/97ed18e5.ext.json)
 
 ---
 
@@ -1176,6 +1242,20 @@ The nature of the world is changing day by day. Our lifestyle is currently peris
 
 ---
 
+### Crackdown Over Civil War Anniversary: UN Report Calls For International Prosecutions For Enforced Disappearances
+
+*2024-05-23 09:51:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/crackdown-over-civil-war-anniversary-un-report-calls-for-international-prosecutions-for-enforced-disappearances/) · `en`
+
+Sri Lankan authorities have threatened and detained Tamils commemorating those who died or went missing in the country’s civil war, Human Rights Watch said today. On May 17, 2024, the United Nations human rights office issued a report calling for international prosecutions and other accountability measures to address the thousands of unresolved cases of enforced disappearances in the war, which ended on May 18, 2009.
+
+“The Sri Lankan government is in denial about atrocities its forces committed during the civil war, so it tries to silence victims and their communities instead of providing truth, justice, and reparations,” said Elaine Pearson, Asia director at Human Rights Watch. “It’s clear that more international action is needed to bring relief to victims and prevent a recurrence of abuses.”
+
+...
+
+[Data](articles/a4415872.json)
+
+---
+
 ### What did Rajiv Gandhi say to Prabhakaran who came to India?
 
 *2024-05-23 09:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வந்த-பிரபாகரனிடம்-ராஜீவ்-காந்தி-என்ன-சொன்னார்/175-337749) · `ta`
@@ -2179,111 +2259,5 @@ According to the recent photo taken to the Vattuvagal Bridge during the visit of
 [Data](articles/4b6ae2d7.json)
 
 [Extended Data](ext_articles/4b6ae2d7.ext.json)
-
----
-
-### UN celebrates 25th anniversary of recognition of International Vesak Day
-
-*2024-05-23 02:04:02* · [`dailyftlk`](https://www.ft.lk/news/UN-celebrates-25th-anniversary-of-recognition-of-International-Vesak-Day/56-762138) · `en`
-
-Celebrating the 25th anniversary of the General Assembly resolution 54/115 which recognised the day of Vesak internationally, an event was co-hosted by the Permanent Missions of Sri Lanka and Thailand at the ECOSOC Chamber of the United Nations Headquarters on 20 May.
-
-The celebrations consisted of several segments which included remarks by the Permanent Representatives of Sri Lanka and Thailand, religious blessings and sermons representing Theravada and Mahayana Buddhist traditions respectively and special messages by high-level dignitaries including the Secretary General and the President of the United Nations, the Foreign Ministers of Thailand and Sri Lanka and the Permanent Representatives of other Member States of the United Nations.
-
-...
-
-[Data](articles/82ca54cc.json)
-
-[Extended Data](ext_articles/82ca54cc.ext.json)
-
----
-
-### Ambassador-designate to Kingdom of Netherlands assumes duties
-
-*2024-05-23 02:01:06* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-designate-to-Kingdom-of-Netherlands-assumes-duties/56-762137) · `en`
-
-The newly appointed Ambassador-designate of Sri Lanka to the Kingdom of the Netherlands and the Permanent Representative of Sri Lanka to the Organisation for the Prohibition of Chemical Weapons (OPCW), Rekha Gunasekera assumed duties at the Embassy of Sri Lanka in the Netherlands on 10 May.
-
-Her assumption of duties was marked by a simple ceremony organised by the staff of the Sri Lanka Embassy.
-
-In her address to the staff of the Embassy, the Ambassador-designate referred to the longstanding, historical and vibrant bilateral relations between Sri Lanka and the Kingdom of the Netherlands and the need to further elevate trade, investment, and tourism ties, as well as cultural cooperation. On the multilateral aspect, she stressed the need to increase cooperation with the OPCW as well as other international organisations in The Hague.
-
-...
-
-[Data](articles/b44994a9.json)
-
-[Extended Data](ext_articles/b44994a9.ext.json)
-
----
-
-### Fundamental attacks cannot be prevented
-
-*2024-05-23 02:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337741) · `ta`
-
-Riyar Admiral Sarath Weerasekera warns that fundamentalist attacks like the Sunday bombing cannot be stopped. He urges implementing recommendations on Islamic fundamentalism to safeguard Sri Lanka's future. Four Sri Lankans linked to ISIS were arrested in India for planning attacks against the BJP and Hindus, funded by Rs 4 lakhs. The government must act on investigation reports and ban certain Islamic organizations and Madrasa schools to counteract fundamentalist threats effectively.
-
-🟩
-
-The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
-
-ISIS to assassinate the Bharatiya Janata Party of India and the Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
-
-He said this in the debate on the proposal on Wednesday (22) in Parliament.
-
-Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
-
-...
-
-[Data](articles/67531169.json)
-
-[Extended Data](ext_articles/67531169.ext.json)
-
----
-
-### Postponing Debate Discussion due to lack of meeting
-
-*2024-05-23 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184271) · `ta`
-
-The opposition party's adjournment debate was postponed due to insufficient preparation, rescheduled for April 4th. The session, chaired by Speaker Mahinda Yapa Abeywardena, saw Lakshman Kiriella discuss national issues like the economy and law & order. A debate ensued, with Madura Vidanage questioning Jagath Samarawickrama about the meeting's organization. Following this, Samarawickrama announced a brief suspension.
-
-🟩
-
-Due to the lack of adequate mobilization, the adjournment debate of the opposition party has been halted and the proceedings of the council have been postponed till the 04th of this month.
-
-Parliament was chaired by Speaker Mahinda Yapa Abeywardena on Wednesday (22).. This was followed by the postponement of Parliament.
-
-Following this, Lakshman Kiriella, the chief of the opposition, presented the proposal on various issues including the economy, law and law and order of the country.
-
-As the debate on the adjournment proposal took place from 04.15 pm to 04.15 pm, the ruling party MP Madura Vidanage raised the issue and asked Jagath Samarawickrama, who led the council to investigate the meeting.
-
-Following this, Jagath Samarawickrama, who presided over the council, announced that he had been abolished for five minutes.
-
-◼️
-
-[Data](articles/058b35e1.json)
-
-[Extended Data](ext_articles/058b35e1.ext.json)
-
----
-
-### So much for workers to be the final salary
-
-*2024-05-23 01:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களுக்கு-இவ்வளவு-தான்-இறுதி-சம்பளம்/175-337740) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya confirmed the final salary increase for plantation workers as announced in the Gazette, addressing concerns raised by Velukumar from the Tamil Progressive Alliance. This follows a three-year wait for a raise, which now stands at Rs 1,700 per day. The Employers Federation has contested this decision.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the amount of money announced by the Minister of Labor in the Gazette will be the final salary.
-
-In response to a question raised by the Tamil Progressive Alliance Parliamentarian Velukumar, the Minister of Finance was responding to a question raised by the Tamil Progressive Alliance Parliamentarian Velukumar during the debate on the proposal on various issues including economics, law and order and security in Parliament on Wednesday (22).
-
-The daily salary of plantation workers increased by Rs 1,700 to Rs 1,700. Their salary has not been increased for the past 3 years. In this case, the Employers Federation is suing the Gazette. What is the position of the government on this issue?Asked.
-
-...
-
-[Data](articles/3d0ba380.json)
-
-[Extended Data](ext_articles/3d0ba380.ext.json)
 
 ---

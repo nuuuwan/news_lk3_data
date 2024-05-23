@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 09:18:26**
+As of **2024-05-23 09:33:51**
 
 ## Newspaper Stats
 
-*Scraped **25,844** Articles*
+*Scraped **25,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,532
 adalk | 2,215
 adaderanalk | 2,969
 tamilmirrorlk | 3,013
-virakesarilk | 3,924
+virakesarilk | 3,925
 dailymirrorlk | 4,064
 adaderanasinhalalk | 4,124
 
@@ -26,25 +26,73 @@ adaderanasinhalalk | 4,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,843 (100.0%) of 25,844 articles have been extended.
+25,844 (100.0%) of 25,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### විදුලිසැර වැදී ජීවිතයක් අහිමි වෙයි
+### President's Vesak Day News
+
+*2024-05-23 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184269) · `ta`
+
+Vesak Day honors Buddha's birth, wisdom, and enlightenment. Celebrated worldwide by Buddhists with devotion through lighting lamps and worship. The President emphasizes unity across races, religions, and parties, urging adherence to Buddha's teachings for a wise and virtuous society.
+
+🟩
+
+Vesak Day is the sacred day of the world Buddhists who commemorate the birth, wisdom and transformation of Gautama Buddha.
+
+Buddhists at home and abroad celebrate this with great devotion, giving lighting the lights, prioritizing worship.
+
+In this dilemma, we must all be raised as a country, the great commitment that the Buddha had in order to enlightened on the teachings of the Gautama Buddha, "We will sacrifice today."
+
+Today we must recall the Buddhist doctrine that performs "Chapatha Sammanaso" equally. Likewise, it is necessary to make sure that it is practically implemented as a country.
+
+We must follow this country, which is all built together, regardless of race, religion, caste and party.. It will guide the teachings of the Buddha.
+
+In his congratulatory message, the President said that the main purpose of this Vesak festival is to create a great wisdom wishes to all, to create a spiritual and decent 'man' in the world that moves towards rapid physical growth.
+
+◼️
+
+[Data](articles/2aae801c.json)
+
+[Extended Data](ext_articles/2aae801c.ext.json)
+
+---
+
+### மோட்டார் சைக்கிள் மீது மரம் சரிந்து விழுந்து ஒருவர் காயம்
+
+*2024-05-23 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184276) · `ta`
+
+அட்டன், பொகவந்தலாவை வீதியில் வனராஜா வத்தை பகுதியில் புதன்கிழமை (22) மோட்டார் சைக்கிளில்  பயணித்தவர் மீது மரமொன்று சரிந்து வீழ்ந்துள்ளது.
+
+இந்த சம்பவத்தில் காயமடைந்த மோட்டார் சைக்கிளை செலுத்திச் சென்றவர் டிக்கோயா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4e020a2b.json)
+
+---
+
+### Lack of life without electricity
 
 *2024-05-23 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196926) · `si`
 
-කැබිතිගොල්ලෑව පොලිස් වසමේ යකාවැව ලඳු කැලෑ ප්‍රදේශයේ දී පුද්ගලයෙකුට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+In Yakawewa Spin, Kebithigollewa, a fatal explosion occurred due to a collision between wildlife and an electrical wire. The victim was a local resident.
 
-පොලීසිය පැවසුවේ, එලෙස මියගොස් ඇත්තේ 36 හැවිරිදි එම ප්‍රදේශයේම පදිංචිකරුවෙක් බවය.
+🟩
 
-වන සතුන් දඩයම් කිරීම සඳහා අනවසරයෙන් අදින ලද විදුලි කම්බියක ගැටී එලෙස විදුලි සැර වැදී ඇති බව පොලීසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+Electricity exploded in Yakawewa Spin area in the Kebithigollewa police Division.
+
+Police said that the deceased has been identified as a resident of the same area.
+
+Investigations have revealed that the police had exploded that the wildlife collided with an intridal power wire to hunt.
 
 ◼️
 
 [Data](articles/d7f2b2e5.json)
+
+[Extended Data](ext_articles/d7f2b2e5.ext.json)
 
 ---
 
@@ -937,34 +985,6 @@ Meanwhile, the government has found a loss of about Rs 17 billion in the Seni ta
 [Data](articles/94cf1c72.json)
 
 [Extended Data](ext_articles/94cf1c72.ext.json)
-
----
-
-### President's Vesak Day News
-
-*2024-05-23 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184269) · `ta`
-
-Vesak Day honors Buddha's birth, wisdom, and enlightenment. Celebrated worldwide by Buddhists with devotion through lighting lamps and worship. The President emphasizes unity across races, religions, and parties, urging adherence to Buddha's teachings for a wise and virtuous society.
-
-🟩
-
-Vesak Day is the sacred day of the world Buddhists who commemorate the birth, wisdom and transformation of Gautama Buddha.
-
-Buddhists at home and abroad celebrate this with great devotion, giving lighting the lights, prioritizing worship.
-
-In this dilemma, we must all be raised as a country, the great commitment that the Buddha had in order to enlightened on the teachings of the Gautama Buddha, "We will sacrifice today."
-
-Today we must recall the Buddhist doctrine that performs "Chapatha Sammanaso" equally. Likewise, it is necessary to make sure that it is practically implemented as a country.
-
-We must follow this country, which is all built together, regardless of race, religion, caste and party.. It will guide the teachings of the Buddha.
-
-In his congratulatory message, the President said that the main purpose of this Vesak festival is to create a great wisdom wishes to all, to create a spiritual and decent 'man' in the world that moves towards rapid physical growth.
-
-◼️
-
-[Data](articles/2aae801c.json)
-
-[Extended Data](ext_articles/2aae801c.ext.json)
 
 ---
 
@@ -2243,27 +2263,5 @@ Considering the issues submitted by the Criminal Investigations Department furth
 [Data](articles/86d08db5.json)
 
 [Extended Data](ext_articles/86d08db5.ext.json)
-
----
-
-### Gnanasara Thera not among inmates to be released on Vesak Day
-
-*2024-05-22 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-not-among-inmates-to-be-released-on-Vesak-Day/108-283168) · `en`
-
-Colombo, May 22 (Daily Mirror) - Ven. Gnanasara Thera is not among the 278 prison inmates to be released under the Presidential pardons in view of Vesak Poya which falls tomorrow (22), the Prisons Department said.
-
-The Chief Prelates of the Malwathu, Asgiri, Ramanna Nikaya and the Amarapura Maha Sangha Sabha had appealed to the President to grant Ven. Gnanasara Thera a pardon on Vesak Poya day.
-
-Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero was sentenced to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
-
-According to the Department of Prisons, inmates from some prisons across the country, including 15 from the Welikada Prison and 37 from the Mahara Prison, will be given Presidential pardons.
-
-Ten female prisoners are among those who will receive the Presidential pardons. The pardon is under Clause 34 of the Constitution.
-
-◼️
-
-[Data](articles/12be8cc9.json)
-
-[Extended Data](ext_articles/12be8cc9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 12:18:33**
+As of **2024-05-23 12:34:35**
 
 ## Newspaper Stats
 
-*Scraped **25,875** Articles*
+*Scraped **25,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
-adalk | 2,216
+adalk | 2,218
 adaderanalk | 2,974
 tamilmirrorlk | 3,019
-virakesarilk | 3,930
+virakesarilk | 3,937
 dailymirrorlk | 4,070
 adaderanasinhalalk | 4,129
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,872 (100.0%) of 25,875 articles have been extended.
+25,875 (100.0%) of 25,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### பொகவந்தலாவை பிரதான வீதியில் கார் விபத்து ; சிறு குழந்தை உட்பட இருவர் வைத்தியாசாலையில் அனுமதி
+
+*2024-05-23 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184294) · `ta`
+
+அட்டன்,  பொகவந்தலாவை பிரதான வீதியில் வனராஜா பகுதியில் நேற்று புதன்கிழமை (22) மாலை 4 மணியளவில் கார் ஒன்று சறுக்கி வீதியை விட்டு விலகி கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+
+இந்த விபத்தில் காரில் பயணித்த சிறு குழந்தை உட்பட இருவர் காயமடைந்து டிக்கோயா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த விபத்து கனமழையினால்  இடம்பெற்றுள்ளதாக தெரிவித்த நோர்வூட் பொலிஸார்,   மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1c73bca8.json)
+
+---
+
+### மரங்கள் முறிந்து வீழ்ந்ததால் தடையேற்பட்டுள்ள பதுளை - கொழும்பு ரயில் சேவை!
+
+*2024-05-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184291) · `ta`
+
+மலையகத்திற்கான ரயில் சேவையில் தியத்தலாவை - ஹப்புத்தளைக்கும்  தியத்தலாவை - பண்டாரவளைக்கும் இடையிலான ரயில் மார்க்கத்தில் இன்று வியாழக்கிழமை  (23) காலை பாரிய டர்பெண்டைன் மரங்கள் முறிந்து வீழ்ந்ததால் பதுளைக்கும் - கொழும்பு கோட்டைக்கும் இடையிலான ரயில் சேவை தடைப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+இதன் காரணமாக பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த  “உடரட்ட  மெனிகே“  ரயில் பண்டாரவளை ரயில் நிலையத்திலும், கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணிக்கும் இரவு அஞ்சல் ரயில் ஹப்புத்தளை ரயில் நிலையத்திலும் நிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், சீரற்ற காலநிலையுடன் ரயில் பாதையில் மரங்கள் வீழ்ந்துள்ளதுடன், தியத்தலாவை இராணுவ முகாம் அதிகாரிகள் ரயில் பாதையில் விழுந்த மரங்களை அப்புறப்படுத்தும் பணிகளில் ஈடுபட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f6006d21.json)
+
+---
 
 ### Over 36,000 breakdowns during last three days: Minister
 
@@ -45,6 +77,62 @@ He said in a statement on X that additional service staff has been assigned to a
 ◼️
 
 [Data](articles/a95dc7aa.json)
+
+[Extended Data](ext_articles/a95dc7aa.ext.json)
+
+---
+
+### தேர்தல் இடம்பெறவுள்ளதால் வரவு - செலவு திட்டம்  ஜனவரி அல்லது பெப்ரவரியிலேயே சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+
+*2024-05-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184288) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் ஜூனில் இலங்கை வரவுள்ளது. அவர்களுடனான பேச்சுவார்த்தைகள் நிறைவடைந்ததன் பின்னர் அந்த திட்டம் 2025 வரவு செலவுத் திட்டத்துடன் நடைமுறைப்படுத்தப்படும். தேர்தல் நடத்தப்பட இருப்பதால் ஜனவரி அல்லது பெப்ரவரியில் வரவு - செலவு திட்டம் சமர்ப்பிக்கப்படவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+பத்தரமுல்ல அக்குரேகொட, பாதுகாப்பு அமைச்சு வீதியில் நிர்மாணிக்கப்பட்டுள்ள இலங்கை முன்னாள் படைவீரர்கள் சங்கத்தின் தலைமையக வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/58039847.json)
+
+---
+
+### Wild elephant walk for the 2nd day in Mannar and Murugan
+
+*2024-05-23 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184280) · `ta`
+
+For the second consecutive day, a wild elephant roams Mannar Murugan, causing panic among locals. Authorities and MPs urged to relocate it swiftly to safeguard lives and livelihoods.
+
+🟩
+
+Blessed by State Officers and MPs have demanded that state officials and MPs come forward to evacuate the wild elephant for the second day on Thursday (23) this morning in the Mannar Murugan area.
+
+A wild elephant is walking for the second day on Thursday (23) this morning in the Mannar Murugan area.
+
+The elephant wandered around the area on Wednesday morning (22).
+
+In the meantime, this morning (23), the people are walking for the second day in the area where people are walking.
+
+The elephant should be immediately taken from the area and taken to a place where the authorities should take swift measures.
+
+The elephant is now in a state of impact on the livelihood of the people in the area. In this regard, the Nanatan Divisional Secretary should also take swift measures in view of the welfare of the people.
+
+We immediately contacted the Mannar District Government Agent and informed the incident.
+
+...
+
+[Data](articles/765ae38e.json)
+
+[Extended Data](ext_articles/765ae38e.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலே முதலில் இடம்பெறும்  அமைச்சரவையில் தெளிவாக அறிவித்தார் ரணில்
+
+*2024-05-23 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184287) · `ta`
+
+...
+
+[Data](articles/d057ff27.json)
 
 ---
 
@@ -66,25 +154,49 @@ Heavy traffic congestion was observed in the areas as a result, however, efforts
 
 ---
 
-### කරාපිටිය ශික්ෂණ රෝහල තෙවැනි ජාතික රෝහල බවට පත්කෙරේ
+### உலக பொருளாதார பேரவை  வெளியிட்ட சுற்றுலா தரவரிசையில் இலங்கைக்கு 76 வது இடம்
+
+*2024-05-23 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184292) · `ta`
+
+உலக பொருளாதார பேரவை ‘பயணம் மற்றும் சுற்றுலா மேம்பாட்டு குறியீடு 2024’ என்ற தலைப்பில்  உலக நாடுகளின் சுற்றுலாசெயல்பாடுகளை தரவரிசைபடுத்தியுள்ளது.
+
+குறிப்பாக, இலங்கை சுற்றுலா சேவைகள் மற்றும் உள்கட்டமைப்பு, கலாச்சார வளங்கள் மற்றும் பொழுதுபோக்கு  அல்லாத செயற்பாடுகள் பிரிவுகளில் மோசமான மதிப்பெண் பெற்றுள்ளது, அதே நேரத்தில் போட்டித்தன்மை மிக்க விலை மற்றும் பயணம், சுற்றுலா சமூக பொருளாதார தாக்கம் ஆகியவற்றில் அதிக மதிப்பெண் பெற்றுள்ளது.
+
+இந்நிலையில், இந்தப் பட்டியலில் 2021 ஆம் ஆண்டு 74-வது இடத்தில் இருந்த இலங்கை,  தற்போது 119 நாடுகளில் தரவரிசையில் 76 ஆவது இடத்துக்கு சரிந்துள்ளது. 2019 ஆம் ஆண்டு இலங்கை 77 ஆவது இடத்தை பிடித்திருந்தது.
+
+இதேவேளை, இலங்கையின் போட்டியாளர்களான வியட்நாம் (59வது), தாய்லாந்து (47வது), இந்தோனேசியா (22வது) மற்றும் மலேசியா (35வது) ஆகியவை சுட்டெண்ணில் இலங்கைக்கு மேலே தரவரிசையில் உள்ளன. மேலும், தெற்காசியாவில் இந்தியா (39வது) முதலிடத்திலும், இலங்கை இரண்டாவது இடத்திலும் உள்ளது.
+
+...
+
+[Data](articles/ca31db4d.json)
+
+---
+
+### Karapitiya Teaching Hospital is appointed third national hospital
 
 *2024-05-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196931) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහල මෙරට තෙවැනි ජාතික රෝහල බවට පත්කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+Karapitiya Teaching Hospital is designated as Sri Lanka's third national hospital, joining Gampaha and Kandy. This decision, approved by the cabinet, highlights its significant contribution to medical education, particularly in doctor and nurse training at the University of Ruhuna.
 
-අද (23) පැවති අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කළේය.
+🟩
 
-මේ වනවිට ලංකාවේ සංවර්ධිත ජාතික රෝහල් ලෙස ඇත්තේ කොළඹ සහ මහනුවර ජාතික රෝහල් පමණි.
+Cabinet approval has been approved to make Karapitiya Teaching Hospital into the third national hospital in the country.
 
-ඒ අනුව කරාපිටිය ශික්ෂණ රෝහල ජාතික රෝහලක් ලෙස සංවර්ධනය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+He was speaking at a media briefing today (23).
 
-මේ වනවිටත් කරාපිටිය රෝහල සෞඛ්‍ය කේෂ්ත්‍රයේ වෛද්‍යවරු, හෙද හෙදියන් ආදිය පුහුණුකිරීමේ කටයුතුවලට වැඩි දායකත්වයක් දක්වන බව ද පැවසු අමාත්‍යවරයා, රුහුණු විශ්වවිද්‍යාලයේ සායනික පුහුණුව ලබාදෙන රෝහල ලෙස වසරකට 1000කට වඩා වෛද්‍ය සිසුන් ප්‍රමාණයකට පුහුණුවීම් ලබාදෙන බව ද සඳහන් කළේය.
+The developed national hospitals in Sri Lanka are currently the Gampaha and Kandy national hospitals.
 
-මේ අතර පොතුවිල් මුලික රෝහල මධ්‍යම රජයට පවරාගෙන සංවර්ධනය කිරීම සඳහා ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approval has been approved by the Karapitiya Teaching Hospital as a national hospital.
+
+The Minister said that the Karapitiya Hospital contributes more to the training of doctors, nurses at the University of Ruhuna.
+
+Meanwhile, Cabinet approval has been approved by the Pottuvil Basic Hospital to take up and develop the Central Government.
 
 ◼️
 
 [Data](articles/0c21638d.json)
+
+[Extended Data](ext_articles/0c21638d.ext.json)
 
 ---
 
@@ -146,15 +258,37 @@ The petitioners are further seeking an order directing the Sri Lanka Railways to
 
 ---
 
-### කැබිනට් මාධ්‍ය හමුව
+### ஜனாதிபதி ரணில் விக்கிரமசிங்க நாளை வடக்கிற்கு விஜயம்
+
+*2024-05-23 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184286) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்து கொள்வதற்காக நாளை வெள்ளிக்கிழமை வடக்கிற்கு விஜயம் செய்யவுள்ளார். 3 நாட்கள் விஜயமாக வடக்கு செல்லும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+
+அத்தோடு வடக்கில் இளைஞர்களுடன் ஜனாதிபதி விசேட சந்திப்பொன்றிலும் கலந்து கொள்ளவுள்ளார். யாழ்ப்பாண பல்கலைக்கழகத்தில் மருத்துவ பீடத்தில் பயிற்சி பிரிவொன்றையும் ஜனாதிபதி திறந்து வைக்கவுள்ளார். இதேவேளை கிளிநொச்சி வைத்தியசாலையில் பெண்கள் சுகாதார பிரிவொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது.
+
+வவுனியா மாவட்ட வைத்தியசாலையில் இதய நோய் பிரிவும், மாங்குளம் ஆதார வைத்தியசாலையில் புதிய விடுதியொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது. இவை தவிர யாழ்ப்பாணத்தில் பட்டதாரி ஆசிரியர்களுக்கு நியமனம் வழங்கும் நிகழ்விலும் ஜனாதிபதி பங்கேற்கவுள்ளார்.
+
+...
+
+[Data](articles/5356b325.json)
+
+---
+
+### Cabinet press conference
 
 *2024-05-23 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196930) · `si`
 
-අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ දී ආරම්භ කර තිබේ.
+Press conference announced in the Information Department to discuss Cabinet decisions.
+
+🟩
+
+A press conference to inform the Cabinet decisions has been launched in the Information Department.
 
 ◼️
 
 [Data](articles/445481f5.json)
+
+[Extended Data](ext_articles/445481f5.ext.json)
 
 ---
 
@@ -211,6 +345,22 @@ That is why a private bus along the Maharagama or Homagama route has traveled fr
 [Data](articles/77935beb.json)
 
 [Extended Data](ext_articles/77935beb.ext.json)
+
+---
+
+### மோட்டார் சைக்கிளில் சென்றவர் மரத்தில் மோதி உயிரிழப்பு!
+
+*2024-05-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184285) · `ta`
+
+ஹங்வெல்ல பிரதேசத்தில் வீசிய பலத்த காற்றினால் வீதியில் விழுந்த மரத்தில் மோதி மோட்டார் சைக்கிளில் சென்ற நபரொருவர்  இன்று வியாழக்கிழமை (23) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர் மற்றொரு குழுவினருடன் வெசாக் பண்டிகைக்கால உணவு வழங்கும் நிகழ்வை ஏற்பாடு செய்வதற்கான  மின் உற்பத்திக்கான எரிபொருளை எடுத்து வந்து கொண்டிருந்த போது வீதியின் குறுக்கே விழுந்த மரத்தில் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், உயிரிழந்த நபர் 47 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையான உபுல் அநுருத்த தெஹிவல லியனகே என்பவராவார்.
+
+◼️
+
+[Data](articles/65ba1119.json)
 
 ---
 
@@ -384,33 +534,27 @@ The Colombo Magistrate's Court yesterday ordered the Supreme Court yesterday to 
 
 ---
 
-### Wild elephant walk for the 2nd day in Mannar and Murugan
+### My prayers to get rid of all creatures and get health and peace - the Prime Minister in the message of Vesak
 
-*2024-05-23 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184280) · `ta`
+*2024-05-23 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184279) · `ta`
 
-For the second consecutive day, a wild elephant roams Mannar Murugan, causing panic among locals. Authorities and MPs urged to relocate it swiftly to safeguard lives and livelihoods.
+In his Vesak message, PM Dinesh Gunawardena expressed wishes for universal well-being and peace, highlighting the importance of Buddhist principles in navigating global challenges. He emphasized the significance of Vesak, a day commemorating Buddha's life, as a reminder of the transient nature of life and the need for balance and neutrality. He urged adherence to Buddhist teachings for genuine prosperity and the establishment of a society grounded in love, compassion, joy, and sacrifice, aiming for true happiness through Buddhist philosophy.
 
 🟩
 
-Blessed by State Officers and MPs have demanded that state officials and MPs come forward to evacuate the wild elephant for the second day on Thursday (23) this morning in the Mannar Murugan area.
+Prime Minister Dinesh Gunawardena said in his congratulatory message that my prayers to get all the creatures to get rid of suffering and get health and peace.
 
-A wild elephant is walking for the second day on Thursday (23) this morning in the Mannar Murugan area.
+Vesak Nonthi Day is the most sacred day of the Buddhist people to commemorate the events of Buddha's birth, wisdom and transcendence. As Sri Lankans for a long time, we have been celebrating it with great devotion.
 
-The elephant wandered around the area on Wednesday morning (22).
+After many years, which have been paralyzed by natural disasters and economic crises, we have the opportunity to celebrate the full Vesak festival.
 
-In the meantime, this morning (23), the people are walking for the second day in the area where people are walking.
-
-The elephant should be immediately taken from the area and taken to a place where the authorities should take swift measures.
-
-The elephant is now in a state of impact on the livelihood of the people in the area. In this regard, the Nanatan Divisional Secretary should also take swift measures in view of the welfare of the people.
-
-We immediately contacted the Mannar District Government Agent and informed the incident.
+The nature of the world is changing day by day. Our lifestyle is currently perishing in the world. Because of this, the people of the world are seeking Buddhist Dharma to find the true richness of Buddhism following the way of Buddhism to help you understand the nature of the world.. Its Dharma path is the neutral principle taught during Buddhism.
 
 ...
 
-[Data](articles/765ae38e.json)
+[Data](articles/27e60f22.json)
 
-[Extended Data](ext_articles/765ae38e.ext.json)
+[Extended Data](ext_articles/27e60f22.ext.json)
 
 ---
 
@@ -457,30 +601,6 @@ External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake an
 [Data](articles/1439a6d8.json)
 
 [Extended Data](ext_articles/1439a6d8.ext.json)
-
----
-
-### My prayers to get rid of all creatures and get health and peace - the Prime Minister in the message of Vesak
-
-*2024-05-23 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184279) · `ta`
-
-In his Vesak message, PM Dinesh Gunawardena expressed wishes for universal well-being and peace, highlighting the importance of Buddhist principles in navigating global challenges. He emphasized the significance of Vesak, a day commemorating Buddha's life, as a reminder of the transient nature of life and the need for balance and neutrality. He urged adherence to Buddhist teachings for genuine prosperity and the establishment of a society grounded in love, compassion, joy, and sacrifice, aiming for true happiness through Buddhist philosophy.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said in his congratulatory message that my prayers to get all the creatures to get rid of suffering and get health and peace.
-
-Vesak Nonthi Day is the most sacred day of the Buddhist people to commemorate the events of Buddha's birth, wisdom and transcendence. As Sri Lankans for a long time, we have been celebrating it with great devotion.
-
-After many years, which have been paralyzed by natural disasters and economic crises, we have the opportunity to celebrate the full Vesak festival.
-
-The nature of the world is changing day by day. Our lifestyle is currently perishing in the world. Because of this, the people of the world are seeking Buddhist Dharma to find the true richness of Buddhism following the way of Buddhism to help you understand the nature of the world.. Its Dharma path is the neutral principle taught during Buddhism.
-
-...
-
-[Data](articles/27e60f22.json)
-
-[Extended Data](ext_articles/27e60f22.ext.json)
 
 ---
 
@@ -2073,169 +2193,5 @@ The driver has been as another person. The revenue license and the address of th
 [Data](articles/d714336d.json)
 
 [Extended Data](ext_articles/d714336d.ext.json)
-
----
-
-### Theft ring supplying motorcycle to underworld uncovered
-
-*2024-05-22 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Theft-ring-supplying-motorcycle-to-underworld-uncovered/108-283179) · `en`
-
-Katunayake, may 22 (Daily Mirror)- Following the arrest of two young men found in possession of eleven stolen motorcycles, Minuwangoda police have uncovered a motorcycle theft ring supplying stolen bikes to the underworld.
-
-The suspects, now under interrogation by police, were detained under a magistrate’s order from Minuwangoda.
-
-The suspects have been identified as Subasinghe Arachchige Tharindu Jude Lakmal Perera, also known as Kehelbarra Jude, and Wickremahetto Konthilage Hasitha Prasad Kumara, also known as Pathagahawatte Sudda, both from Udugampola.
-
-The investigation began when one of the suspects was apprehended while fleeing after stealing a motorcycle in Dewalapola, Minuwangoda. Under interrogation, he revealed details of the broader theft operation.
-
-...
-
-[Data](articles/d0a37a8c.json)
-
-[Extended Data](ext_articles/d0a37a8c.ext.json)
-
----
-
-### When they moved from Canada to Analadee in 2023
-
-*2024-05-22 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184254) · `ta`
-
-In 2023, a Canadian family moved to Analadee, facing delays in processing their immigration. On February 23, 2023, they experienced a traumatic event when three attackers invaded their home, brutally assaulting them. The elderly couple, originally from Canada, were visiting their ancestral homeland in Sri Lanka. The attackers, armed with weapons, targeted them in their sleep, causing severe injuries including fractures and internal bleeding. Despite medical interventions and relocation for safety reasons, the victims continue to face challenges in recovery and seek justice.
-
-🟩
-
-Their families have expressed concern over the delay in the delay in the process of keeping those who tried to kill the elderly couple who arrived from Canada last year and stole their goods.
-
-February 23, 2023 -that day is a day of pain and deep distrust engraved in our memories. எங்கள் அன்புக்குரிய தந்தை சுப்பிரமணியம் நாகலிங்கம் மற்றும் எங்கள் அன்பான தாயார் இந்திரதேவி சுப்ரமணியம் அவர்கள் இலங்கைக்கான தாயகம் திரும்பும் பயணத்தின் அமைதியைத் தகர்க்கும் ஒரு பயங்கரமான சம்பவத்தை எதிர்கொண்டனர்.
-
-After the pilgrimage to Kerala, India, our parents decided to worship their roots on the island of Sri Lanka, where our father's native home is located.
-
-They are not aware that a terrible violence planned by three attackers carrying swords and sticks while living on the island of Anale will cause their peaceful sleep.
-
-...
-
-[Data](articles/fc5ed358.json)
-
-[Extended Data](ext_articles/fc5ed358.ext.json)
-
----
-
-### Adarangance in Derana
-
-*2024-05-22 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196917) · `si`
-
-Vesak Full Moon Day is celebrated nationwide, with 419 zones and 321 selected areas preparing for commemorations. Over 3,260 Dansalas are registered, with the largest one in Independence Square. The 24-hour Derana event starts tomorrow, featuring various programs like Dayala Peace, Dharma Preaching, and Dhamma Savings. The Ada Derana Sri Lankan Vesak Zone and Pandal open at 6:40 PM, followed by lamp competitions on May 27th.
-
-🟩
-
-The Vesak Full Moomo Day (23) is tomorrow (23).
-
-Buddhists in the country are working to commemorate the sacrificial election.
-
-Accordingly, 419 Vesak Zones and 321 selected island wide are also planned.
-
-3,260 Dansal has been registered with the Vesak celebrations and more have been registered in the Western Province.
-
-Sri Lanka's largest Dansala organizing organizer will be held tomorrow in Independence Square premises tomorrow.
-
-The 24 hour Derana will commence 8 tomorrow.
-
-The Sri Lanka Institute of Celestial Chefs Association, the Colombo Municipal Council and the Sri Lanka Air Force have also contributed to the Ministry of Public Administration and Home Affairs, Provincial Councils and Local Government.
-
-Meanwhile, 'Derana repathan' organizes media sorana media network. Derana brings over tomorrow.
-
-It includes many programs, including the Dayala Peace, Dharma Preaching and Dhamma and Dharma Savings.
-
-The Ada Derana Sri Lankan Vesak Zone and the Pandal will be opened at 6.40 pm.
-
-...
-
-[Data](articles/1f8ee1bc.json)
-
-[Extended Data](ext_articles/1f8ee1bc.ext.json)
-
----
-
-### In tears...
-
-*2024-05-22 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-tears/110-283177) · `en`
-
-Iranian Ambassador to Sri Lanka Dr. Alireza Delkhosh in tears during a condolence programme held at the Kollupitiya Jumu'ah Mosque today on the demise of Iranian President Ebrahim Raisi. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/5e1dd789.json)
-
-[Extended Data](ext_articles/5e1dd789.ext.json)
-
----
-
-### හෙට සිට අවහිර විය හැකි ප්‍රධාන මාර්ගයක් ගැන පොලීසියෙන් නිවේදනයක්
-
-*2024-05-22 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196916) · `si`
-
-Drivers: Be aware A main road may be blocked due to a Vesak Zone from tomorrow. Four zones in Veyangoda and seven pandals are set up. The Vesak Kalapaya event is scheduled for April 23rd. Stay informed.
-
-🟩
-
-Police will notify drivers on a major road that could be blocked due to a Vesak Zone.
-
-Four Vesak Zones in Veyangoda and seven Vesak pandal are displayed.
-
-The police are notified that the Vesak Kalapaya will be held tomorrow (23) to tomorrow.
-
-◼️
-
-[Data](articles/c7b0d88d.json)
-
-[Extended Data](ext_articles/c7b0d88d.ext.json)
-
----
-
-### No health risks from cow measles: Expert
-
-*2024-05-22 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-health-risks-from-cow-measles-Expert/108-283176) · `en`
-
-Colombo, May 22 (Daily Mirror)- Consuming milk and meat from animals infected with cow measles poses no health risks to humans, Dr. Hemali Kothalawala, Director General of the Department of Animal Production and Health said.
-
-There is no threat of the disease spreading to humans, she emphasized.
-
-In response to recent reports of cow measles in Nuwara Eliya, the Department of Animal Production and Health, in collaboration with the private sector, has implemented a joint plan to provide necessary vaccines for disease control.
-
-Earlier this year, cow measles was reported in the Jaffna area. The Ministry of Agriculture noted that the disease was controlled effectively through prompt vaccination efforts.
-
-Further, Janaka Dharmakirthi, Secretary of the Ministry, stated that if current vaccine supplies prove insufficient, urgent measures will be taken to procure additional doses.
-
-◼️
-
-[Data](articles/7b576ccd.json)
-
-[Extended Data](ext_articles/7b576ccd.ext.json)
-
----
-
-### Amnesty for prisoners on the eve of Vesak festival
-
-*2024-05-22 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184264) · `ta`
-
-On the eve of Vesak, 278 prisoners, including 15 from Welikada and 37 from Mahara prisons, will be released under special amnesty granted by the President, as per Article 34 of the Constitution, requiring them to make public apologies.
-
-🟩
-
-Prison Commissioner Gamini B.. Dissanayake said.
-
-The Prisons Department said that the President will be granted special amnesty to the prisoners in the 34th Article 34 of the Constitution.
-
-Under two special conditions, prisoners will be given public apology. Accordingly, 278 prisoners are scheduled to be released on Thursday (23).
-
-There are 15 prisoners from the Welikada Prison and 37 inmates from the Mahara Prison.
-
-Prison Commissioner Gamini B. It is noteworthy that Dissanayake added.
-
-◼️
-
-[Data](articles/289f13d6.json)
-
-[Extended Data](ext_articles/289f13d6.ext.json)
 
 ---

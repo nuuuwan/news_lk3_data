@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 13:34:02**
+As of **2024-05-23 13:53:08**
 
 ## Newspaper Stats
 
-*Scraped **25,894** Articles*
+*Scraped **25,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,137 @@ islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,218
-adaderanalk | 2,974
+adaderanalk | 2,975
 tamilmirrorlk | 3,023
 virakesarilk | 3,942
 dailymirrorlk | 4,070
-adaderanasinhalalk | 4,130
+adaderanasinhalalk | 4,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,889 (100.0%) of 25,894 articles have been extended.
+25,894 (100.0%) of 25,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### நுவரெலியாவில் பலத்த காற்று பனி மூட்டத்துடன் கூடிய  மழை
+### ඉරාන ජනපතිගේ අවසන් කටයුතු අද
 
-*2024-05-23 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
+*2024-05-23 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196934) · `si`
 
-நாட்டில் தற்போது நிலவும்  சீரற்ற காலநிலையால் நுவரெலியாவில் பனி மூட்டத்துடன் கூடிய  மழை பெய்து வருகின்றது.
+ගුවන් අනතුරකින් ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ඊබ්‍රාහිම් රයිසි මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (23) පස්වරුවේ ජනාධිපතිවරයා උපන් මෂාද් ශුද්ධ නගරයේදී පැවැත්වීමට නියමිතය.
 
-இந்நிலையில், நுவரெலியா, கந்தப்பளை பகுதியில் நேற்று புதன்கிழமை (22) இரவு வீசிய கடும் காற்றினால் வீடுகளின்  கூரைகள் தூக்கி வீசப்பட்டுள்ளன
+ජීවිතක්ෂයට පත් ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රාහිම් රයිසි සහ ඉරාන විදේශ අමාත්‍ය හුසේන් අමීර් අබ්දෙල්ලාහියාන් ඇතුළු පිරිසගේ දේහයන් ටෙහෙරානයේ ආසාදී චතුරස්‍රය වෙත රැගෙන ගියේ ඊයේ පස්වරුවේදීය.
 
-அத்துடன், இன்றும் (23) தொடர்ச்சியாக கடும் காற்றும் மழையும் பெய்து வருகின்றமை குறிப்பிடத்தக்கது.
+මියගිය ඉරාන ජනාධිපති ඇතුළු පිරිසට අවසන් ගෞරව දැක්වීමට රටවල් 68ක නායකයින් එක්ව සිටියහ.
 
-நுவரெலியா மற்றும் நானுஓயா பகுதியில் பல பிரதான வீதியோரங்களில் பாரிய மரங்கள் முறிந்து வீழ்ந்ததுடன், வர்த்தக நிலையங்களில் பொருத்தப்பட்டிருந்த பதாதைகளும் பெயர்ப்பலகைகளும் உடைந்து வீழ்ந்து சேதமடைந்துள்ளன.
+මෙරට විදෙස් කටයුතු අමාත්‍ය අලි සබ්රි මහතා ජනාධිපතිවරයාගේ දේහයට අවසන් ගෞරවය දැක්වූයේය.
 
-நுவரெலியா மத்திய பொது சந்தைக்கு அருகில் இன்று வியாழக்கிழமை (23) அதிகாலை பாரிய மரம் ஒன்று சரிந்து விழுந்ததில் குறித்த பகுதியினூடான போக்குவரத்து சுமார் ஒரு மணி நேரம் தடைப்பட்டிருந்தது.
+රයිසි ජනාධිපතිවරයාගේ නිල අවමංගල්‍යයට එක්වු හමාස් නායක ඉස්මයිල් හනියේ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා කමේනි හමුවුණි.
 
-தற்போது நிலவி வரும் சீரற்ற காலநிலையால் வீதிகளில் மரங்கள் முறிந்து விழுதல் மற்றும் மண்சரிவு அபாயம் ஏற்படுவதனால் வாகனங்களை வாகன சாரதிகள் மிகுந்த அவதானத்துடன் வாகனங்களை செலுத்த வேண்டும்.
+රයිසි ජනාධිපතිවරයාගේ දේහය අද  පෙරවරුවේ දකුණු කොරසාන් ප්‍රාන්තය වෙත රැගෙන යනු ඇත.
+
+ඒ රයිසි ජනාධිපතිවරයා, මීට පෙර අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ නියෝජිතයා ලෙස කටයුතු කළ එම ප්‍රාන්තයේ කටයුතු කිරීම හේතුවෙනි.
+
+ජනාධිපතිවරයාගේ දේහය පිළිබඳව අවසන් කටයුතු අද පස්වරුවේ දී ජනාධිපතිවරයා උපන් මෂාද් ශුද්ධ නගරයේදී පැවැත්වෙනවා.
 
 ...
 
-[Data](articles/a0a2e3ae.json)
+[Data](articles/130f1edf.json)
 
 ---
 
-### யாழில். கடற்தொழிலுக்கு சென்றவர் கடலில் மயங்கி விழுந்து உயிரிழப்பு
+### India explores acquisition of Sri Lankan graphite mines
+
+*2024-05-23 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99396/india-explores-acquisition-of-sri-lankan-graphite-mines) · `en`
+
+New Delhi, India is in talks with Sri Lanka to acquire graphite mines in the island nation. The demand for graphite is steadily increasing, as it is the most common material used for anodes in lithium-ion and other batteries.
+
+The Indian government had discussions with the government of Sri Lanka on acquiring graphite mines there, sources said.
+
+However, the sources refused to give further details stating that the talks are at very preliminary stage.
+
+Graphite features on the list of 30 critical minerals, which was released by the government last year.
+
+The government had recently said that public sector companies Coal India, NMDC and ONGC Videsh Ltd (OVL) will start looking actively for critical mineral assets overseas.
+
+OVL is the overseas investment arm of state-owned Oil and Natural Gas Corporation.
+
+These public sector enterprises already have some kind of presence abroad.
+
+...
+
+[Data](articles/f9ce3403.json)
+
+---
+
+### විදුලිය බිඳ වැටීම් ගැන දැනුම්දෙන්න අලුත් ක්‍රමයක්
+
+*2024-05-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196933) · `si`
+
+අයහපත් කාලගුණයත් සමඟ දිවයින පුරා සිදුව ඇති විදුලිය බිඳවැටීම් ඉතා ඉක්මනින් දැනුම්දිය හැකි නව ක්‍රමවේදයක් ලංකා විදුලිබල මණ්ඩලය විසින් හඳුන්වා දී තිබේ.
+
+ඒ මීට පෙර විදුලිය බිඳ වැටීම් සම්බන්ධයෙන් දැනුම්දීමට තිබූ 1987 ක්ෂණික දුරකථන අංකයේ ඇතිව තිබෙන කාර්ය බහුලත්වය හේතුවෙනි.
+
+ඒ අනුව පහත ක්‍රමවේදයන් අනුගමනය ලෙස ලංකා විදුලිබල මණ්ඩලය පාරිභෝගිකයින්ගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/966b7bac.json)
+
+---
+
+### Rain with heavy winds in Nuwara Eliya
+
+*2024-05-23 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
+
+Nuwara Eliya faces severe weather with heavy rain and winds, causing snowfall and damaging infrastructure. Trees fell, blocking roads, and traffic was disrupted. Motorists urged to use caution and headlights due to poor visibility.
+
+🟩
+
+Due to the inclement weather in the country, Nuwara Eliya is experiencing snowfall.
+
+In this case, the roofs of the houses were thrown into the Nuwara Eliya area on Wednesday night (22) night.
+
+It is also worth noting that heavy winds and heavy rainfall is still reported today (23).
+
+Massive trees have fallen on several main streets in the Nuwara Eliya and Nanuoya area, and the posts and nameplates fitted at business centers have been broken and damaged.
+
+Traffic along the area was blocked for about an hour when a massive tree collapsed near the Nuwara Eliya Central Public Market this morning.
+
+Motorists have to pay vehicles with great care due to the prevailing inclement weather.
+
+Also, due to the continuous rainfall weather, the Nuwara Eliya district is full of snowfall. Therefore, motorists traveling on the streets of Attan - Nuwara Eliya, Welimada and Kandy are appealing to the traffic police to light the vehicle lights.
+
+◼️
+
+[Data](articles/a0a2e3ae.json)
+
+[Extended Data](ext_articles/a0a2e3ae.ext.json)
+
+---
+
+### In the yarns. The man who went to the sea fell into a sea of death
 
 *2024-05-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184300) · `ta`
 
-யாழ்ப்பாணத்தில் கடற்தொழிலுக்கு சென்ற தொழிலாளி ஒருவர் நேற்று  புதன்கிழமை (22) கடலில் தவறி விழுந்து உயிரிழந்துள்ளார்.
+Antony Pillai Roman Mainran, a 58-year-old fisherman from Allaipiti 3, tragically drowned while fishing near Jaffna. His body was recovered and sent for autopsy.
 
-அல்லைப்பிட்டி 3ஆம் வட்டாரத்தை சேர்ந்த 58 வயதுடைய அந்தோணிப்பிள்ளை றோமன் மெய்ன்ரன் என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-கட்டுமரமொன்றில் மீன் பிடிப்பதற்காக கடலுக்குள் சென்ற வேளை , கட்டுமரத்தில் இருந்து தவறி கடலினுள் விழுந்து உயிரிழந்துள்ளார். சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்திசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+A worker who went to a sea business in Jaffna fell into a sea yesterday (22).
+
+The deceased is 58 -year -old Antony Pillai Roman Mainran from Allaipiti 3.
+
+When he went into the sea to fish in a tumbler, he fell into the sea and fell into the sea.. The body has been handed over to the Jaffna Bodhana Hospital for anatomical examination.
 
 ◼️
 
 [Data](articles/3f73b354.json)
+
+[Extended Data](ext_articles/3f73b354.ext.json)
 
 ---
 
@@ -124,17 +204,23 @@ In the rest of the island, there may be 30 - 40 strong winds.
 
 ---
 
-### வெசாக் தினத்தையொட்டி பொது மன்னிப்பு ; வவுனியாவில் 3 கைதிகள் விடுதலை
+### Public apology for Vesak Day;3 Prisoners released in Vavuniya
 
 *2024-05-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184299) · `ta`
 
-வெசாக் பௌர்ணமி தினத்தினை முன்னிட்டு வவுனியா விளக்கமறியல் சிறைச்சாலையில் இருந்து மூன்று கைதிகள் இன்று வியாழக்கிழமை (23)  விடுதலை செய்யப்பட்டுள்ளனர்.
+On Vesak Pournami Day, three prisoners were released from Vavuniya Prison as part of a larger release of 278 inmates granted pardons under the Chancellor's Constitution.
 
-வெசாக் பௌர்ணமி தினத்தை முன்னிட்டு அதிபர் அரசியலமைப்பின் 34வது சரத்தில் வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைவாக கைதிகளுக்கு விசேட அரச மன்னிப்பு வழங்கப்பட்டுள்ளமையின் அடிப்படையில் நாடாளாவிய ரீதியில் 278 கைதிகள் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Three inmates from the Vavuniya Prison have been released today (23) on the occasion of Vesak Pournami Day.
+
+It is noteworthy that 278 prisoners have been released on the basis of a special state of pardon for the prisoners in accordance with the powers vested in the 34th of the Chancellor's Constitution on the eve of Vesak Full Moon Day.
 
 ◼️
 
 [Data](articles/e11858e5.json)
+
+[Extended Data](ext_articles/e11858e5.ext.json)
 
 ---
 
@@ -160,21 +246,27 @@ If CEB's Emergency Call is unable to announce the power outage by 1987, they can
 
 ---
 
-### வெசாக் தினத்தையொட்டி பொது மன்னிப்பு ; மட்டக்களப்பு சிறைச்சாலையில் 6 கைதிகளுக்கு விடுதலை
+### Public apology for Vesak Day;6 Prisoners released in Batticaloa Prison
 
 *2024-05-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184295) · `ta`
 
-வெசாக் தினத்தையொட்டி   ஜனாதிபதியின் பொது மன்னிப்பின் கீழ் மட்டக்களப்பு சிறைச்சாலையிலிருந்து 6 கைதிகளுக்கு பொது மன்னிப்பு வழங்கப்பட்டு அவர்கள் இன்று வியாழக்கிழமை (23) காலை விடுதலை செய்யப்பட்டதாக மட்டக்களப்பு சிறைச்சாலை அத்தியட்சகர் என். பிரபாகரன் தெரிவித்துள்ளார்.
+In a public apology for Vesak Day, six prisoners were released in Batticaloa Prison due to financial hardship. Led by Superintendent N. Prabhakaran, this act of clemency was carried out under an amnesty policy. The event saw participation from prison welfare officers and officers, concluding with the prisoners expressing gratitude towards the prison officials.
 
-சிறு குற்றம் பிரிந்தோர், தண்டப்பணம் செலுத்த முடியாதவர்கள் இவ்வாறு பொது மன்னிப்பு அடிப்படையில் விடுதலை செய்யப்பட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
 
-சிறைச்சாலை அத்தியாச்சகர் என். பிரபாகரன் தலைமையில் இடம்பெற்ற கைதிகள் விடுதலை நிகழ்வில் சிறைச்சாலை நலன்புரிச்சங்க அதிகாரிகள், சிறைச்சாலை உத்தியோகத்தர்கள் என பலரும் கலந்து கொண்டனர்.
+Batticaloa Superintendent N.. Prabhakaran said.
 
-சிறைச்சாலை அதிகாரிகளை வணங்கிய பின் நன்றி தெரிவித்து கைதிகள் சிறைச்சாலையில் இருந்து வெளியேற்றியமை குறிப்பிடத்தக்கது.
+He added that those who could not afford the minority and the penalty were released on a amnesty basis.
+
+The Prisoner of the Prison. Prison Welfare Officers and Prison Officers participated in the release of the prisoners headed by Prabhakaran.
+
+It is noteworthy that the prisoners evacuated from the prison for gratitude after worshiping the prison officials.
 
 ◼️
 
 [Data](articles/c8e8a2cb.json)
+
+[Extended Data](ext_articles/c8e8a2cb.ext.json)
 
 ---
 
@@ -182,21 +274,29 @@ If CEB's Emergency Call is unable to announce the power outage by 1987, they can
 
 *2024-05-23 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184298) · `ta`
 
+The US expresses concern over its isolation due to Norway recognizing Palestine, fearing Israel's diplomatic isolation. The US acknowledges the legitimacy of questioning whether Israel is becoming more isolated. The National Security Advisor highlights the shift in international support for Israel, suggesting past backing no longer contributes to its long-term security. Sullivan advises Israel to counteract isolation by defeating Hamas, emphasizing the importance of negotiation for achieving Palestinian statehood.
+
+🟩
+
 இஸ்ரேலிற்கு பாரம்பரியமாக ஆதரவை வெளியிட்டு வந்த நாடுகளால் இஸ்ரேல் தற்போது இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ளது.
 
-நோர்வே அயர்லாந்து ஸ்பெயின் ஆகிய நாடுகள் பாலஸ்தீன தேசத்தை அங்கீகரிக்கப்போவதாக  அறிவித்துள்ள நிலையிலேயே அமெரிக்க இஸ்ரேல் தனிமைப்படுவது குறித்து கவலை வெளியிட்டுள்ளது.
+The US has expressed concern over the isolation of the US as Norway has announced that it will recognize the Palestinian nation.
 
 இஸ்ரேல் இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து கரிசனையடைந்துள்ளீர்களா என்ற கேள்விக்கு ஆம் என அவர் பதிலளித்துள்ளார்.
 
-இது நியாயமான கேள்வி சர்வதேச அமைப்புகளில் இஸ்ரேலிற்கு ஆதரவாக செயற்படுகின்ற நாடு என்ற அடிப்படையில் நாங்கள் இஸ்ரேலிற்கு எதிரான குரல்கள் அதிகரிப்பதை பார்க்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+"This is a legitimate question," he said, "We see the increase in voices against Israel on the basis of a country that supports Israel in international organizations."
 
-இஸ்ரேலிற்கு கடந்தகாலங்களில் ஆதரவை வெளியிட்ட குரல்கள் கூடவேறுதிசையில் பயணிக்கின்றன எனவும் அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் தெரிவித்துள்ளார்.
+The National Security Advisor in the United States also said that the voices of Israel's support in the past are traveling in the past.
 
-இது எங்களிற்கு கரிசனையளிக்கின்றது இது இஸ்ரேலின் நீண்டகால பாதுகாப்பிற்கு பங்களிப்பு செய்யாது எனவும் அவர் தெரிவித்துள்ளார்.
+He said it would not contribute to Israel's long -term security, he said.
+
+Sulivan said that Israel could avoid being isolated internationally by promoting the tactics of defeating the Hamas.
 
 ...
 
 [Data](articles/d93ce94e.json)
+
+[Extended Data](ext_articles/d93ce94e.ext.json)
 
 ---
 
@@ -2151,77 +2251,5 @@ Sri Lanka is a country which believed in electing to Parliament individuals with
 [Data](articles/a5c73c83.json)
 
 [Extended Data](ext_articles/a5c73c83.ext.json)
-
----
-
-### The country can never be built without the cooperation of the international - Minister Bandula Gunawardena
-
-*2024-05-23 00:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184267) · `ta`
-
-Minister Bandula Gunawardena emphasized the importance of international cooperation for Sri Lanka's development, highlighting the need for foreign assistance due to the country's economic challenges since 2001. He criticized the previous government for leading the country towards bankruptcy and praised the current government's efforts to stabilize the economy through legislation like the State Management Liability Act of 2003.
-
-🟩
-
-The country can never improve without the cooperation of the international. The Minister of Media and Transport Bandula Gunawardena said that the country's development projects would be obtained internationally.
-
-He said this while addressing the debate on the proposal on Wednesday (22) in Parliament.
-
-Lakshman Kiriella, the prime minister of the opposition, said that the country could not be protected by those who took the country to the bankruptcy.. He said the new government could carry out it. This is a completely misconception.
-
-The country's economy has started traveling towards bankruptcy since 2001. In that case the country's economic growth after independence 1. Found to become 4. The situation was equal to the situation in the country for the past two years. Interest rate increased. Forex rate was unable to control.
-
-...
-
-[Data](articles/78e29bc6.json)
-
-[Extended Data](ext_articles/78e29bc6.ext.json)
-
----
-
-### Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL
-
-*2024-05-23 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Vesak-AlpachCHathawaya-and-moment-to-moment-living-EDITORIAL/172-283187) · `en`
-
-Millions of Sri Lankans and Buddhists across the world will celebrate their most hallowed festival of Vesak today while participating in various religious ceremonies with pandals, eight-fold lanterns and other decorations.
-
-Traditionally, this doctrine or philosophy has been based on eight precepts: abstaining from killing, abstaining from stealing, abstaining from sexual activity, abstaining from telling lies, abstaining from intoxicating drinks and drugs, abstaining from eating after noon, abstaining from entertainment and beautifying the body and abstaining from using luxurious furniture.
-
-Buddhism was introduced to Sri Lanka on Poson Day by Arahath Mahinda Thero in 236 BC. The focal point of the Poson festival is the Buddhist monastic complex on the mountain of Mihintale, where Arahath Mahinda Thero preached Buddhism to one of the kings, King Devanampiyatissa.
-
-...
-
-[Data](articles/9e4cbcf1.json)
-
-[Extended Data](ext_articles/9e4cbcf1.ext.json)
-
----
-
-### Rajasthan will meet Hyderabad in 2nd qualification
-
-*2024-05-23 00:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184266) · `ta`
-
-Rajasthan Royals defeated Royal Challengers Bangalore in the 2nd qualifier of the IPL, ending Bangalore's 6-game win streak. Despite Bangalore's strong start, Rajasthan managed to secure a 4-wicket victory. Virat Kohli, despite his team's loss, made history by becoming the first player to reach 8,000 runs in IPL history.
-
-🟩
-
-Rajasthan Royals, who won the Royal Challengers Bangalore team by 4 wickets in the 2nd qualifying tournament in the 17th Indian Premier League chapter held at the Narendra Modi Stadium on Wednesday (22).
-
-Royal Challengers Bangalore confidently faced the match with 6 consecutive victories. The Rajasthan Royals faced the match with a little more defeat of 4 consecutive defeats.
-
-But Rajasthan ended up with a series of successes in Bangalore.
-
-Rajasthan Royals will oppose Sunrisers Hyderabad in Chennai on Friday, who lost to Kolkata Knight Riders in the first qualifying match.
-
-With this defeat, the dream of the champion of Royal Challengers Bangalore and 17 chapters, Virat Kohli, who played for them, has come back to see.
-
-However, Virat Kohli set the record of being the first player to score 8,000 runs in IPL history during the match.
-
-Virat Kohli has amassed 8004 Ottades, including 8 centuries and 50 half centuries in 252 matches.
-
-...
-
-[Data](articles/f3e21d9a.json)
-
-[Extended Data](ext_articles/f3e21d9a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 18:11:27**
+As of **2024-05-23 18:23:12**
 
 ## Newspaper Stats
 
-*Scraped **25,940** Articles*
+*Scraped **25,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 2,978
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
 dailymirrorlk | 4,083
-adaderanasinhalalk | 4,139
+adaderanasinhalalk | 4,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,936 (100.0%) of 25,940 articles have been extended.
+25,940 (100.0%) of 25,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### බස් රථයක් ඉදිරියට මාර ගසක අත්තක් කඩා වැටෙයි
+
+*2024-05-23 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196945) · `si`
+
+හැටන් සිට මහනුවර දක්වා ධාවනය වූ ලංගම බස් රථයක් ඉදිරියට විශාල මාර ගසක අත්තක් කඩා වැටී තිබේ.
+
+මෙම අනතුර සිදුවී ඇත්තේ අද (23) දහවල් කාලයේදී හැටන් - මහනුවර ප්‍රධාන මාර්ගයේ දියගල ප්‍රදේශයේ දීය.
+
+මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවල මේ දිනවල පවතින අයහපත් කාලගුණය සහ දැඩි සුළං තත්ත්වය හේතුවෙන් හැටන් සිට මහනුවර දක්වා ධාවනය වූ ලංගම බස් රථය ඉදිරියට මාර ගසේ අත්තක් කඩා වැටි තිබුණි.
+
+"එම අනතුරෙන් බස් රථයේ ගමන් ගත් මගින්ගේ ජිවිත බේරුණේ අනූනවයෙන්" යැයි පොලීසිය පවසයි.
+
+පවතින අධික වර්ෂාව සහ දැඩි සුළං හේතුවෙන් මාර්ගවල වාහන ධාවනය කිරීමේදී දැඩි සැලකිලිමත් වන ලෙස පොලීසිය ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/a41b961c.json)
+
+---
 
 ### Korean language proficiency test results released
 
@@ -51,6 +71,8 @@ Furthermore, the relevant interviews will be held on June 06, 07 and 10 at all t
 ◼️
 
 [Data](articles/6cc32bd3.json)
+
+[Extended Data](ext_articles/6cc32bd3.ext.json)
 
 ---
 
@@ -75,6 +97,8 @@ These public sector enterprises already have some kind of presence abroad.
 ...
 
 [Data](articles/589eadd2.json)
+
+[Extended Data](ext_articles/589eadd2.ext.json)
 
 ---
 
@@ -150,17 +174,25 @@ The man is said to have been hiding even though the police have taken steps to a
 
 ---
 
-### சாமானியன் - விமர்சனம்
+### Samanian - Review
 
 *2024-05-23 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184321) · `ta`
 
-நடிகர்கள் : ராமராஜன், ராதாரவி, எம். எஸ். பாஸ்கர், போஸ் வெங்கட், மைம் கோபி, கே. எஸ். ரவிக்குமார், நக்ஷா சரண், லியோ சிவகுமார், ஸ்மிருதி வெங்கட், அபர்னதி மற்றும் பலர்
+"Samayanam" stars Ramarajan as Major Sankara Narayanan, an army officer facing personal and financial struggles. The plot revolves around a young couple, Leo Sivakumar and Naksha Saran, who face eviction and financial ruin, leading to their tragic end. Ramarajan's return to cinema after a hiatus may disappoint some due to his aging appearance. The film's soundtrack, especially the song "Namutu Laughter," featuring Ramarajan, is anticipated. Despite its slow start, the film aims to captivate audiences with its emotional climax and performances by supporting actors like M.S. Bhaskar and Radha Ravi.
 
-'மக்கள் நாயகன்' என்று இன்றும் கிராமத்து ரசிகர்களால் போற்றப்படும் நடிகர் ராமராஜன் சிறிய இடைவெளிக்கு பிறகு நடித்திருக்கும் திரைப்படம் என்ற ஒற்றை காந்த ஈர்ப்புடனும்,  எதிர்பார்ப்புடனும் இத்திரைப்படத்தை காண பட மாளிகைக்கு விஜயம் செய்யும் பார்வையாளர்களின் எதிர்பார்ப்பை இந்த திரைப்படம் பூர்த்தி செய்யுமா? செய்யாதா? என்பதை தொடர்ந்து காண்போம்.
+🟩
+
+Actors: Ramarajan, Radha Ravi, M. S.. Bhaskar, Bose Venkat, Mime Kobe, K. S.. Ravikumar, Naksha Saran, Leo Sivakumar, Smriti Venkat, Abernathi et al.
+
+Will the film meet the expectations of visitors who visit the film mansion with the single magnetic attraction and expectation of the film starring Ramarajan, who is still praised by the village fans today?Don't doWe will continue to see.
+
+Major Sankara Narayanan (Ramarajan) is working in the Indian Army and living in his village. She is a adopted woman, Naksha Saran- loves Leo Sivakumar, who is working with her parents' consent.. After marriage, they move from village to Chennai and live in rented house. The owner of the house is planning to buy a home home to give them various troubles. They are asking for a loan at a private bank.
 
 ...
 
 [Data](articles/7cdb2cda.json)
+
+[Extended Data](ext_articles/7cdb2cda.ext.json)
 
 ---
 
@@ -296,19 +328,27 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 ---
 
-### පෝය දිනයේ ලයිට් කපලා ජනතාව අමාරුවේ
+### The lights cut off the light on Poya Day
 
 *2024-05-23 15:50:52* · [`adalk`](https://www.ada.lk/breaking_news/පෝය-දිනයේ-ලයිට්-කපලා-ජනතාව-අමාරුවේ/11-409806) · `si`
 
-වෙසක් පෝය යෙදුණු අද (23) දින උදේ 5.00 පමණ සිට දහවල් 3.00 දක්වා පැය දහයකට වැඩි කාලයක් අහුන්ගල්ල, බලපිටිය කොස්ගොඩ, වතුගෙදර ,අලුත්වල බටපොල , මීටියාගොඩ ,අම්බලන්ගොඩ, ප්‍රදේශවල ගම්මාන රැසක දහස් ගණන් ජනතාවට  ජලය අත්හිටුවීමෙන් එදින පන්සල් වලට දාන මාන සකස් කර ගැනීමටද දායකයන්ට දැඩි දුෂ්කරතාවලට මුහුණ පෑමට සිදුවූ බව ප්‍රදේශවාසීහු පවසති.
+On Vesak Poya Day, residents faced hardships due to a lack of water and electricity in Balapitiya, Watawala, Meetiyagoda, Ambalangoda, and Wattapola. The water crisis was exacerbated by an accident at the Baddegama pumping station, affecting over 200 temples across several cities. Despite efforts to manage the situation, including adjusting meal times and sourcing water from wells, the day was marked by significant difficulties.
 
-මෙම ප්‍රදේශවල න් දින දහවල් සහ රාත්‍රියට සූදානම් කර තිබූ දන්සැල්වල ආහාර සකස් කර ගැනීමට නොහැකිව ඒම සංවිධායකයෝ දැඩි දුෂ්කරතාවලට පත්ව සිටියහ.
+🟩
 
-ජාතික ජල සම්පාදන හා ජලා ප්‍රවාහන මණ්ඩලයේ බද්දේගම  පොම්පාගාරයේ සිට යේ මෙම ප්‍රදේශ සඳහා ජලය සැපයීම සිදුකරයි.  මෙලෙස නොදන්නා ජලය අත්විටුවීම පිළිබඳව දැනගැනීමට ලියුම්කරු කීපවතාවක් ප්‍රධාන කාර්යාලයට කතා කළද දුරකථනයට කිසිවකු ප්‍රතිචාර නොදැක්විය. එම කාර්යාලයේ සේවය කරන සේවකයෙකුගේ ජංගම දුරකථනයට කතාකොට විමසූ විට ඔහු ප්‍රකාශ කළේ බද්දේගම ජල පොම්පාගාරයේ හදිසි පුපුරා යාමක් සිදුවූ  බවයි. එම ප්‍රදේශයේ මේ වනතුරු විදුලිය ඇන සිටීම නිසා එය නැවත සකස් කිරීමමට නොහැකිව සිටින බව ඔහු සඳහන් කළේය
+Vesak Poya has been raised from 5.00 am to 4:00 pm today (23) at the Balapitiya, Balapitiya, Watawala, Meetiyagoda, Ambalangoda, Ambalangoda, Wattapola.Residents say they had to face severe hardships.
+
+The organizers were unable to adjust the food in Dansals prepared for the afternoon and dawn of these areas.
+
+Water services from the Baddegama pumping site of the National Water Supply and Jala Transport Board.  Although the writer spoke to the head office to learn about the unknown water, the writer had not responded to the phone. When he spoke and asked the mobile of an employee of the office, he said there was an accident in Baddegama Water Pumps. He said that it was impossible to reschedule because of the power of this area
+
+Residents Say, the area says that these officers do not understand the difficulty of Vesak Poya Day, such as water for more than seven hours.
 
 ...
 
 [Data](articles/7f990641.json)
+
+[Extended Data](ext_articles/7f990641.ext.json)
 
 ---
 
@@ -2249,23 +2289,5 @@ The panelists, including Kasturi Chellaraja, the first female Group CEO of a pub
 [Data](articles/387aece0.json)
 
 [Extended Data](ext_articles/387aece0.ext.json)
-
----
-
-### JKH quarterly results and clarification on polls boost bourse
-
-*2024-05-23 07:46:00* · [`islandlk`](http://island.lk/jkh-quarterly-results-and-clarification-on-polls-boost-bourse/) · `en`
-
-The stock market picked up throughout yesterday due to multiple reasons. Sri Lanka’s premier listed company with the highest market capitalization, JKH’s impressive quarterly earnings, gave an impetus to the market, analysts said.
-
-Further, President Ranil Wickramasinghe announced that the presidential election will be held this year and that money has been already allocated for that purpose at the Cabinet meeting, thus nullifying speculation about a general election.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 131.8 points while S and P SL20 rose by 58.9 points. Turnover stood at Rs 1.46 billion with seven crossings.
-
-...
-
-[Data](articles/00952934.json)
-
-[Extended Data](ext_articles/00952934.ext.json)
 
 ---

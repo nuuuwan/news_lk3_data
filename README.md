@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 19:33:47**
+As of **2024-05-23 19:51:53**
 
 ## Newspaper Stats
 
-*Scraped **25,949** Articles*
+*Scraped **25,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,92 @@ adalk | 2,222
 adaderanalk | 2,979
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
-dailymirrorlk | 4,083
-adaderanasinhalalk | 4,141
+dailymirrorlk | 4,085
+adaderanasinhalalk | 4,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,949 (100.0%) of 25,949 articles have been extended.
+25,949 (100.0%) of 25,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### අද මිත්‍යාවෙන් ඉවත්වී විද්‍යාවට නැඹුරු වෙනවා - ජනපති
+
+*2024-05-23 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196948) · `si`
+
+විද්‍යාව සහ තාක්ෂණය සමඟ වේගයෙන් ඉදිරියට යන ලෝකයට මුහුණදීමට සිදුවන ගැටළු සඳහා ථේරවාද බුදුදහම තුළ විසඳුම් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ථේරවාද බුදු දහමේ නියම හරය ආරක්ෂා කර ගනිමින් එය ලෝකය වෙත ගෙන යාමට කටයුතු කළයුතු බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (23) පෙරවරුවේ මාතලේ ධර්මරාජ පිරිවෙන් විහාරස්ථානයේ පැවති රාජ්‍ය වෙසක් උත්සවය මාර්ගගත ක්‍රමය ඔස්සේ අමතමිනි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රාජ්‍ය වෙසක් උත්සවයට සහභාගිවීමට නියමිතව තිබුණද, අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ජනාධිපතිවරයා ඊට සහභාගි නොවුණි.
+
+"මාතලේ දිස්ත්‍රික්කය අපේ ථේරවාද බුදු දහමේ වැදගත් ස්ථානයක් බව කිවයුතුයි. ත්‍රිපිටකය ග්‍රන්ථාරූඩ කිරීම සිදු වූයේ මේ මාතලේ අළුවිහාරයේදීයි. ඒ නිසා බුදුන් වහන්සේගේ ධර්මය ආරක්ෂා වෙලා තිබෙනවා. අප ථේරවාද බුදු දහම පිළිබඳ වැඩි වැඩියෙන් අවධානය යොමු කළයුතුයි.
+
+...
+
+[Data](articles/44b79b9a.json)
+
+---
+
+### China , Sri Lanka celebrate tea for harmony
+
+*2024-05-23 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/China-Sri-Lanka-celebrate-tea-for-harmony/110-283269) · `en`
+
+On the occasion of the "International Tea Day" on May 21st, 2024, China Cultural Center in Sri Lanka held  “Tea for Harmony”—Yaji Cultural Salon event opening ceremony in Colombo recently.
+
+The activities included  Guangxi ethnic costume catwalk, Guangxi pictorial tour exhibition, Chinese and Sri Lankan traditional song and dance performances, intangible cultural heritage tea art experience, etc.
+
+The combination of Guangxi folk customs and tea allows  you to experience the oriental aesthetic life that has been passed down for thousands of years.
+
+Addressing the function , Chinese Ambassador Qi Zhenhong said that China is the birthplace of tea.
+
+...
+
+[Data](articles/4f1d663c.json)
+
+---
+
+### Vesak Day search operations lead to detection of  Rs.5.1 Mn worth cigarettes at BIA
+
+*2024-05-23 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vesak-Day-search-operations-lead-to-detection-of-Rs-5-1-Mn-worth-cigarettes-at-BIA/108-283268) · `en`
+
+Colombo, May 23 (Daily Mirror)- A special search operation carried out on Vesak Full Moon Poya Day by the Police Narcotic Bureau (PNB) officials at the airport led to two detections of counterfeit cigarettes worth over Rs.5.1 million, involving a man and woman respectively returning from Dubai and India.
+
+PNB officials deployed at the Bandaranaike International Airport (BIA) took a suspicious looking woman returning from India for questioning.
+
+The female passenger who was returning from Bangalore on SriLankan Airline flight UL174 had arrived in the country around 5.00 am when she was subjected to scrutiny.
+
+Police found 17,200 sticks of a brand of cigarettes in 86 cartons of which the sale and consumption is prohibited in Sri Lanka. A stick has a street value of Rs.100 and the stock has been valued at Rs. 1,720,000.
+
+The 48-year-old passenger has been identified as a resident of Chilaw and a regular traveller who carry goods from India to sell here.
+
+...
+
+[Data](articles/54705246.json)
+
+---
+
+### කොළඹ-නුවර පාරේ යන අයට දැනුම්දීමක්
+
+*2024-05-23 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196947) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ රථ වාහන ධාවනය කරන රියදුරන්ට අවධානයෙන් ගමන් කරන ලෙසට දැනුම්දීමක් සිදුකර තිබේ.
+
+ඒ අයහපත් කාලගුණය හේතුවෙන් පහළ කඩුගන්නාව ප්‍රදේශයේදී මාර්ගයට පස්, ගල් සහ ගස් කඩා වැටීමේ අවදානමක් පවතින බැවිනි.
+
+කෑගල්ල ආපදා කළමනාකරණ මධ්‍යස්ථාන නිවේදනයක් නිකුත් කරමින් මේ බව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/d4a1d4ce.json)
+
+---
 
 ### Motorists using Colombo-Kandy main road cautioned
 
@@ -824,7 +898,7 @@ The flood warning of the Attanagalu basin and the small river of the Kalu Ganga 
 
 *2024-05-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LPL-Season-5-confirmed-to-proceed-amidst-ownership-transition/108-283255) · `en`
 
-Innovative Production Group FZE (IPG), the Event Rights Partner of the Lanka Premier League (LPL), has affirmed that despite recent developments with regards to the arrest of a co-owner of the Dambulla franchise, LPL Season 5 will proceed as planned.
+Colombo, May 23 (Daily Mirror) - Innovative Production Group FZE (IPG), the Event Rights Partner of the Lanka Premier League (LPL), has affirmed that despite recent developments with regards to the arrest of a co-owner of the Dambulla franchise, LPL Season 5 will proceed as planned.
 
 According to IPG's media release, LPL Season 5 will adhere to its original schedule and feature a full roster of matches, showcasing the talents of five teams. Despite the changes in ownership within the Dambulla franchise, the team is set to participate under new ownership.
 
@@ -2197,101 +2271,5 @@ In his congratulatory message, the President said that the main purpose of this 
 [Data](articles/2aae801c.json)
 
 [Extended Data](ext_articles/2aae801c.ext.json)
-
----
-
-### Lack of life without electricity
-
-*2024-05-23 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196926) · `si`
-
-In Yakawewa Spin, Kebithigollewa, a fatal explosion occurred due to a collision between wildlife and an electrical wire. The victim was a local resident.
-
-🟩
-
-Electricity exploded in Yakawewa Spin area in the Kebithigollewa police Division.
-
-Police said that the deceased has been identified as a resident of the same area.
-
-Investigations have revealed that the police had exploded that the wildlife collided with an intridal power wire to hunt.
-
-◼️
-
-[Data](articles/d7f2b2e5.json)
-
-[Extended Data](ext_articles/d7f2b2e5.ext.json)
-
----
-
-### Decision arrested by terrorists' investigations
-
-*2024-05-23 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196925) · `si`
-
-A special committee investigates four Sri Lankan men arrested at Ahmedabad Airport for alleged ISIS ties. The group, linked to the Jamath Organization, planned attacks against a senior BJP leader and an acting ISIS leader in Pakistan.
-
-🟩
-
-A special committee has been appointed to investigate the four Sri Lankans who were arrested as members of ISIS members at Ahmedabad Airport, India.
-
-Police Media Spokesperson DIG Thalduwawe said that the committee has been appointed by the Director of the Criminal Investigations Department and the Police Terrorism Investigation Division of the CID and the Police Terrorism Investigation Division.
-
-Four of these Sri Lankans were arrested at Ahmedabad Airport in Ahmedabad Airport on the 20th.
-
-According to Indian media reports, the interrogation of them had revealed information from them.
-
-It has also been revealed that the persons have been planned to be attacked with a person who acts as an ISIS leader in Pakistan.
-
-The Hindu newspaper reported that the four Sri Lankans who were arrested were members of the Jamath Organization of Jamath Organization.
-
-Investigations have revealed that they have been planned to murdered a senior leaders of Bharatiya Janata Party members.
-
-...
-
-[Data](articles/8ad01226.json)
-
-[Extended Data](ext_articles/8ad01226.ext.json)
-
----
-
-### Sri Lanka President calls for unity, sacrificing for a better tomorrow on Vesak day
-
-*2024-05-23 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-unity-sacrificing-for-a-better-tomorrow-on-vesak-day-164405/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has recalled a sermon from the Buddha about sacrificing for a better tomorrow, and called for unity to heal and rebuild the country, as Buddhists celebrate Vesak.
-
-Buddhists celebrate Vesak as commemorating the birth, enlightenment and passing away of the Buddha.
-
-“At this challenging moment, we as a nation should cultivate the same great zeal for enlightenment that Buddha exemplified, inspired by his sermon, “Maththasukha parichchaga- passé che vipulan sukhan” – to sacrifice today for a better tomorrow,” President Wickremesinghe said in his Vesak day message.
-
-“We must remember the advice of Lord Buddha, “Sabbattha Sammanaso,” to treat everyone equally and ensure we put it into practice as a country. This is the greatest offering we can present to the Buddha on this Vesak day.
-
-“Regardless of race, religion, caste, or political affiliation, we must all unite to heal and rebuild our country. ”
-
-...
-
-[Data](articles/1a41974e.json)
-
-[Extended Data](ext_articles/1a41974e.ext.json)
-
----
-
-### Prevailing showery and windy conditions to continue further
-
-*2024-05-23 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99390/prevailing-showery-and-windy-conditions-to-continue-further) · `en`
-
-The Department of Meteorology says Southwest monsoon conditions are gradually establishing over the island, and hence, the prevailing showery and windy conditions will continue further.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
-
-Very heavy showers about 150 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts. Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Mannar, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces. Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/6fcab259.json)
-
-[Extended Data](ext_articles/6fcab259.ext.json)
 
 ---

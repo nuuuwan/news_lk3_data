@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 06:18:23**
+As of **2024-05-23 06:58:03**
 
 ## Newspaper Stats
 
-*Scraped **25,813** Articles*
+*Scraped **25,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,214
 adaderanalk | 2,968
 tamilmirrorlk | 3,010
 virakesarilk | 3,923
-dailymirrorlk | 4,057
+dailymirrorlk | 4,058
 adaderanasinhalalk | 4,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,808 (100.0%) of 25,813 articles have been extended.
+25,813 (100.0%) of 25,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Sri Lanka to sign debt restructuring MoU with bilateral creditors before IMF review next month
+
+*2024-05-23 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-sign-debt-restructuring-MoU-with-bilateral-creditors-before-IMF-review-next-month/108-283213) · `en`
+
+Colombo, May 223 (Daily Mirror) - The government is to sign the Memorandum of Understanding (MoU) with the Official Creditor Committee (OCC) of the Paris Club of Nations and the Export-Import Bank of China (EXIM Bank) for restructuring the country’s debts before the completion of the IMF Executive Board review of Sri Lanka’s Extended Fund Facility Arrangement next month, a top source said.
+
+The source familiar with talks said the government is ‘very positive’ that Sri Lanka will sign the MoU before the review.
+
+The review, once approved by the IMF's board, will release $337 million in funding for the country.
+
+However, it still remains uncertain when debts involving private bond holders and commercial loans from China Development Bank will be concluded before the period.
+
+...
+
+[Data](articles/8e5e48de.json)
+
+---
 
 ### CID arrests Aura Lanka Chairman
 
@@ -210,19 +228,27 @@ In her address to the staff of the Embassy, the Ambassador-designate referred to
 
 ---
 
-### அடிப்படைவாத தாக்குதல்களை ’தடுக்க முடியாது’
+### Fundamental attacks cannot be prevented
 
 *2024-05-23 02:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337741) · `ta`
 
-இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும். இல்லையேல் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைவாத தாக்குதல்கள்  இலங்கையிலும் எதிர்காலத்தில் நடத்தப்படுவதனை தடுக்க முடியாதென  ஆளும் தரப்பு எம்.பி.யுமான ரியர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+Riyar Admiral Sarath Weerasekera warns that fundamentalist attacks like the Sunday bombing cannot be stopped. He urges implementing recommendations on Islamic fundamentalism to safeguard Sri Lanka's future. Four Sri Lankans linked to ISIS were arrested in India for planning attacks against the BJP and Hindus, funded by Rs 4 lakhs. The government must act on investigation reports and ban certain Islamic organizations and Madrasa schools to counteract fundamentalist threats effectively.
 
-இந்தியாவின் பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காகவே  ஐ.எஸ்.ஐ.எஸ். அமைப்பை  சேர்ந்த 4 இலங்கை முஸ்லிம்கள்   கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள் என்றார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால்    கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
+
+ISIS to assassinate the Bharatiya Janata Party of India and the Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
+
+He said this in the debate on the proposal on Wednesday (22) in Parliament.
+
+Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
 
 ...
 
 [Data](articles/67531169.json)
+
+[Extended Data](ext_articles/67531169.ext.json)
 
 ---
 
@@ -2239,19 +2265,5 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 [Data](articles/83867365.json)
 
 [Extended Data](ext_articles/83867365.ext.json)
-
----
-
-### Preparing for Vesak...
-
-*2024-05-22 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-Vesak/110-283161) · `en`
-
-People are buying lanterns in Colombo to celebrate the Vesak festival which commemorates the birth of the Buddha, his enlightenment and demise. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/c216cfb3.json)
-
-[Extended Data](ext_articles/c216cfb3.ext.json)
 
 ---

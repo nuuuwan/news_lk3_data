@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 15:33:47**
+As of **2024-05-23 15:52:45**
 
 ## Newspaper Stats
 
-*Scraped **25,914** Articles*
+*Scraped **25,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,62 @@ newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
-adalk | 2,219
+adalk | 2,221
 adaderanalk | 2,976
 tamilmirrorlk | 3,027
 virakesarilk | 3,945
 dailymirrorlk | 4,075
-adaderanasinhalalk | 4,134
+adaderanasinhalalk | 4,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,909 (100.0%) of 25,914 articles have been extended.
+25,914 (100.0%) of 25,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### அக்காவின் காதலனால் தங்கை துஷ்பிரயோகம்
+### A sister's boyfriend abuse
 
 *2024-05-23 15:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அக்காவின்-காதலனால்-தங்கை-துஷ்பிரயோகம்/72-337774) · `ta`
 
-சம்பவத்துடன் தொடர்புடைய சந்தேக நபரை  கைது செய்ய பொலிஸார் நடவடிக்கைகளை முன்னெடுத்த போதும் குறித்த நபர் தலைமறைவாகியுள்ளதாக கூறப்படுகிறது.
+Man hides after police seek him for sister's boyfriend abuse case.
+
+🟩
+
+The man is said to have been hiding even though the police took steps to arrest the suspect in connection with the incident.
 
 ◼️
 
 [Data](articles/0978632a.json)
+
+[Extended Data](ext_articles/0978632a.ext.json)
+
+---
+
+### අමනාපවී ගෙදරින් පළාගිය දරුවා මහණ කර සිටියදී හමුවෙයි
+
+*2024-05-23 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196938) · `si`
+
+මිත්තණිය සමග අමනාව වී නිවසින් ගොස් අතුරුදන් වූ දරුවා මහණ කර සිටියදී හමුවී තිබේ.
+
+මදුරන්කුලිය පොලීසිය සඳහන් කළේ හිමිනමක් විසින් දරුවාව රැගෙන ගොස් කතරගම ප්‍රදේශයේ විහාරස්ථානයකදී මහණ කර සිටියදී සොයාගත් බවය.
+
+මෙලෙස මහණ කර ඇත්තේ මදුරන්කුලිය නගරයට ආසන්නයෙ නිවසක පදිංචිව සිටි මදුරන්කුලිය ආදර්ශ විද්‍යාලයේ 7 වන ශ්‍රේණියේ අධ්‍යාපනය හදාරමින් සිටි ගගන නෙතුසර ප්‍රියනන්දන නමැති දරුවෙකි.
+
+ඔහු සහෝදර සහෝදරියන් තිදෙනෙකුගෙන් සමන්විත පවුලක වැඩිමල් දරුවා වන බවද පොලීසිය කියයි.
+
+මෙම දරුවා පසුගිය 18 වනදා දින මදුරන්කුලිය සිය මිත්තණියගේ නිවසේ සිටියදී රූපවාහිනී යන්ත්‍රය නරඹමින් සිට ඇති අතර එහිදී මිත්තණිය ප්‍රිය කරන වැඩසටහනක් නොදැමීම නිසා මිත්තණිය විසින් දරුවාට බැණවැදී තිබේ.
+
+නිවසින් ගිය දරුවා පිළිබඳව මදුරන්කුලිය පොලීසිය විසින් කළ විමර්ශනවලදී හෙළිවී ඇත්තේ පුලිච්චාකුලම දක්වා ගමන් කරන දර්ශන මාර්ගය දෙපස CCTV කැමරා පද්ධතිවල සටහන්ව තිබූ බවය.
+
+නමුත් ඉන් ඉදිරියට දරුවා ගමන් කරනු ලබන CCTV දර්ශන හමුවී නොමැත.
+
+...
+
+[Data](articles/f149719e.json)
 
 ---
 
@@ -58,25 +88,33 @@ The actor's dear friend and actress Juhi Chawla visited the actor at the hospita
 
 [Data](articles/85c9a39a.json)
 
+[Extended Data](ext_articles/85c9a39a.ext.json)
+
 ---
 
-### இருவருக்கு எமனான ஜெனரேட்டர் புகை
+### Emana generator smoke for two
 
 *2024-05-23 15:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இருவருக்கு-எமனான-ஜெனரேட்டர்-புகை/76-337772) · `ta`
 
-ஜெனரேட்டரை இயக்கிவிட்டு தூங்கச் சென்ற தந்தையும் மகனும் உயிரிழந்துள்ள சம்பவம்  வியாழக்கிழமை  (23) அதிகாலை இடம்பெற்றுள்ளதாக புபுரஸ்ஸ பொலிஸார் தெரிவித்துள்ளனர் .
+A father and son, aged 40 and 17, died from inhaling carbon monoxide fumes while sleeping near a generator in Buburasa. The incident occurred during a power outage when preparing for a meal.
 
-புபுரஸ்ஸ நெஸ்டா காலனியை சேர்ந்த, 40 வயதுடைய சனத் ரோஹன மற்றும் 17 வயதுடைய ககன மதுசங்க ஆகிய இருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
+🟩
 
-வெசாக் தினத்தை முன்னிட்டு புபுரஸ்ஸ நகரில் வியாழக்கிழமை (23) அன்று உணவு வழங்கும் நிகழ்வு நடாத்துவதற்கு ஆயத்தமாகியிருந்ததால் , அப்பகுதியில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது
+The death of a father and son who went to sleep after drivering the generator took place on Thursday morning (23), Buburasa police said.
 
-இந்நிலையில் தனது அறையில் ஜெனரேட்டர் இயந்திரத்தை இயக்க  வைத்து குறித்த தந்தையும் , மகனும்  உறங்கச் சென்றுள்ளனர்.
+Both 40 -year -old Sanath Rohana and 17 -year -old Gagana Madusanga, a native of Bupurasa Nesta Colony, died.
 
-இது தொடர்பில் புபுரஸ்ஸ காவற்துறையினர் விசாரணைகளை மேற்கொண்ட போது, ​​ ஜெனரேட்டரில் இருந்து வந்த கார்பன் மோனாக்சைடு வாயுவை சுவாசித்ததால் இருவரும் உயிரிழந்துள்ளமை தெரியவந்துள்ளது .
+Electricity has been cut off in the area as a meal event was prepared on Thursday
+
+In this case, the father and son were sleeping in his room with a generator machine.
+
+When the Buburasa police were investigating the matter, it was revealed that the two had died after breathing the carbon monoxide gas from the generator.
 
 ◼️
 
 [Data](articles/216f1077.json)
+
+[Extended Data](ext_articles/216f1077.ext.json)
 
 ---
 
@@ -139,6 +177,38 @@ Prisons Commissioner Gamini B says that the action of outsiders in the country w
 [Data](articles/4d62e015.json)
 
 [Extended Data](ext_articles/4d62e015.ext.json)
+
+---
+
+### විදුලිබිඳ වැටීම් 36900ක්
+
+*2024-05-23 14:18:10* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබිඳ-වැටීම්-36900ක්/11-409804) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පසුගිය දින තුන ඇතුළත පාරිභෝගිකයන් තුන් ලක්ෂයකට වැඩි පිරිසකගේ විදුලිය විසන්ධිවී තිබුණ බව විදුලි බල හා බලශක් අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+සිය එක්ස් ගිණුමෙන් සටහනක් තබමින් ඔහු පැවැසුවේ විදුලි බිඳ වැටීම් 39600ක් වාර්තා වී ඇති බවයි. .
+
+◼️
+
+[Data](articles/70a0d101.json)
+
+---
+
+### ලක්‍ෂ  51ක දුම්වැටි කටුනායකින් අල්ලයි
+
+*2024-05-23 14:13:05* · [`adalk`](https://www.ada.lk/breaking_news/ලක්‍ෂ--51ක-දුම්වැටි-කටුනායකින්-අල්ලයි/11-409803) · `si`
+
+නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි   රුපියල් පනස් එක් ලක්ෂ හැට දහසක් පමණ වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි 51,600 ක් අඩංගු දුම්වැටි කාටූන් 258 ක තොගයක් සමග  ඒවා රැගෙන ආ  ගුවන් මගීන් දෙදෙනෙකු ද ගුවන් තොටුපොළ  පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් 05/23 දින අලුයම අත් අඩංගුවට ගෙන තිබේ .
+
+මේ අතරින් එක් ගුවන් මගියෙකු හලාවත , මාරවිල ප්‍රදේශයේ පදිංචි 48 හැවිරිදි ව්‍යාපාරික කාන්තාවකි . ඇය නිතර නිතර ගුවන් ගමන් වල නිරත වෙමින් විවිධ භාණ්ඩ මෙරටට අලෙවි කිරීමේ යෙදී සිටින ව්‍යාපාරික කාන්තාවකි .
+
+ඇය 05/23 දින අලුයම 05.15 ට ඉන්දියාවේ බැංගලෝර් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 174 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඇය සිය ගමන් මල්ලේ සගවා ගෙන රුපියල් දහ හත් ලක්ෂ විසි දහසක් වටිනා " මැන්චෙස්ටර් " වර්ගයේ දුම්වැටි 17,200 ක් අඩංගු දුම්වැටි කාටූන් 86 ක් සගවා ගෙන පැමිණ තිබුණි .
+
+...
+
+[Data](articles/a6bb8448.json)
 
 ---
 
@@ -211,6 +281,8 @@ According to IPG's media release, LPL Season 5 will adhere to its original sched
 ◼️
 
 [Data](articles/4d7b3f1e.json)
+
+[Extended Data](ext_articles/4d7b3f1e.ext.json)
 
 ---
 
@@ -1254,6 +1326,8 @@ Sri Lankan authorities have threatened and detained Tamils commemorating those 
 
 [Data](articles/a4415872.json)
 
+[Extended Data](ext_articles/a4415872.ext.json)
+
 ---
 
 ### What did Rajiv Gandhi say to Prabhakaran who came to India?
@@ -2189,75 +2263,5 @@ While the Vaddukoddai police are carrying out investigations into the incident, 
 [Data](articles/c93eb3ba.json)
 
 [Extended Data](ext_articles/c93eb3ba.ext.json)
-
----
-
-### Fundamental attacks cannot be prevented
-
-*2024-05-23 02:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/150-337742) · `ta`
-
-Riyar Admiral Sarath Weerasekera highlighted the inability to prevent fundamentalist attacks, emphasizing the need for implementing recommendations on Islamic fundamentalism to safeguard Sri Lanka's future. The discussion followed news of four Sri Lankan Muslims linked to ISIS being arrested in India for allegedly planning attacks against the Bharatiya Janata Party and Hindus, motivated by ISIS's extremist ideology. This incident sparked concerns about fundamentalist activities and prompted questions about the government's stance and action on these matters.
-
-🟩
-
-The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
-
-ISIS to assassinate the Bharatiya Janata Party of India and the Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
-
-He said this in the debate on the proposal on Wednesday (22) in Parliament.
-
-Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
-
-...
-
-[Data](articles/159fe5e7.json)
-
-[Extended Data](ext_articles/159fe5e7.ext.json)
-
----
-
-### Fundamental attacks cannot be prevented
-
-*2024-05-23 02:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337742) · `ta`
-
-In a parliamentary debate, it was highlighted that fundamentalist attacks, like the recent bombing in Sri Lanka, cannot be entirely prevented. The discussion focused on the need for the government to act on recommendations regarding Islamic fundamentalism to safeguard the country's future. Specifically, concerns were raised about four Sri Lankan Muslims linked to ISIS planning to carry out attacks in India, targeting the Bharatiya Janata Party and Hindus. This group was apprehended at the Ahmedabad airport in India. The debate emphasized the urgency of implementing investigation committee recommendations, including banning certain Islamic organizations and addressing issues in Madrasa schools, to effectively counteract fundamentalist threats.
-
-🟩
-
-The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
-
-ISIS is to assassinate India's Bharatiya Janata Party and Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
-
-He said this in a debate on the proposal on Wednesday (22) in Parliament.
-
-Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
-
-...
-
-[Data](articles/d7b9b344.json)
-
-[Extended Data](ext_articles/d7b9b344.ext.json)
-
----
-
-### The Secretary General of the Amnesty International, commemorated the Vattuvagal Bridge, filled with corpses and blood; The number of missing persons may be higher than the estimated
-
-*2024-05-23 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184272) · `ta`
-
-Amnesty International's Secretary General, Agnes Kalamard, visited South Asia to commemorate the Vattuvagal Bridge, a site of mass killings and potential higher missing person count due to the final war. She highlighted the atrocities committed, including the death of over 40,000 Tamils and the disappearance of thousands, including children.
-
-🟩
-
-Amnesty International Secretary General Agnes Kalamart said that during the final war, the water of the Vadduvagal Bridge was filled with the lifeless bodies and bloodshed.
-
-The Amnesty International Secretary General of the Amnesty International, who made an official visit to South Asia for the first time, arrived in the country last Friday, after the three decades of war were over and over 15 years old.. During this year, Mullivaikkal participated in the commemoration and held extensive meetings with various key parties.
-
-According to the recent photo taken to the Vattuvagal Bridge during the visit of Mullivaikkal, the Secretary General of the 'Vadduvagal Bridge', with a quotation of 'Vadavagal Bridge', said, "Thousands of Tamil men and children from the area where the Liberation Tigers of Tamil Eelam (LTTE) were acquired by the Liberation Tigers of Tamil Eelam (LTTE) in the North and East.. Eyewitnesses said that the water was filled with lifeless bodies and blood. ”
-
-...
-
-[Data](articles/4b6ae2d7.json)
-
-[Extended Data](ext_articles/4b6ae2d7.ext.json)
 
 ---

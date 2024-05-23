@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 15:03:39**
+As of **2024-05-23 15:18:54**
 
 ## Newspaper Stats
 
-*Scraped **25,907** Articles*
+*Scraped **25,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,219
 adaderanalk | 2,976
 tamilmirrorlk | 3,025
 virakesarilk | 3,945
-dailymirrorlk | 4,071
+dailymirrorlk | 4,073
 adaderanasinhalalk | 4,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,907 (100.0%) of 25,907 articles have been extended.
+25,907 (100.0%) of 25,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Government to complete stalled Hyatt Hotel project with military aid
+
+*2024-05-23 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-complete-stalled-Hyatt-Hotel-project-with-military-aid/108-283256) · `en`
+
+Colombo -  In response to the delays in several high-profile urban development projects like Colombo Hyatt Hotel, State Minister for Urban Development and Housing, Arundika Fernando said If an appropriate investor does not emerge, the government is prepared to proceed with completion with the assistance of the armed forces, with financing from the treasury.
+
+He noted that valuable government land had been allocated for ventures such as the Colombo Hyatt Hotel, Krrish, and Destiny projects; however, investors have abandoned these projects, leaving them incomplete.
+
+“The Colombo Hyatt Hotel project has particularly strained public resources, with USD 60 million in public funds already invested and an outstanding debt of USD 35 million. This project occupies a significant plot of land in Colombo,” he pointed out.
+
+As such, Minister Fernando emphasized that if new investors do not step forward, the government is ready to take over the completion of these projects.
+
+◼️
+
+[Data](articles/87fcc464.json)
+
+---
 
 ### Nine killed in Mexico stage collapse at campaign event
 
@@ -129,6 +147,20 @@ The flood warning of the Attanagalu basin and the small river of the Kalu Ganga 
 [Data](articles/e7a0388b.json)
 
 [Extended Data](ext_articles/e7a0388b.ext.json)
+
+---
+
+### lPL Season 5 confirmed to proceed amidst ownership transition
+
+*2024-05-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/lPL-Season-5-confirmed-to-proceed-amidst-ownership-transition/108-283255) · `en`
+
+Innovative Production Group FZE (IPG), the Event Rights Partner of the Lanka Premier League (LPL), has affirmed that despite recent developments with regards to the arrest of a co-owner of the Dambulla franchise, LPL Season 5 will proceed as planned.
+
+According to IPG's media release, LPL Season 5 will adhere to its original schedule and feature a full roster of matches, showcasing the talents of five teams. Despite the changes in ownership within the Dambulla franchise, the team is set to participate under new ownership.
+
+◼️
+
+[Data](articles/97ed18e5.json)
 
 ---
 
@@ -2253,51 +2285,5 @@ The daily salary of plantation workers increased by Rs 1,700 to Rs 1,700. Their 
 [Data](articles/3d0ba380.json)
 
 [Extended Data](ext_articles/3d0ba380.ext.json)
-
----
-
-### “Tea for Harmony-Yaji” Cultural Salon
-
-*2024-05-23 01:55:34* · [`dailyftlk`](https://www.ft.lk/news/Tea-for-Harmony-Yaji-Cultural-Salon/56-762136) · `en`
-
-The Embassy of the People’s Republic of China in partnership with the Department of Culture and Tourism of Guangxi Zhuang Autonomous Region on Tuesday held “Tea for Harmony-Yaji” Cultural Salon in celebration of International Tea Day.
-
-Chinese Ambassador Qi Zhenhong, Speaker of Parliament Mahinda Yapa Abeywardena, and Department of Culture and Tourism of Guangxi Zhuang Autonomous Region Level-I Counsel Lai Fuqiang were present at the event.
-
-Ambassador Qi Zhenhong said China is the birthplace of tea and tea is not only a beverage but also the crystallisation of civilisation and knowledge passed down from generation to generation. It is not only a way of life but also an integral part of Chinese history and culture.
-
-In terms of Sri Lanka, he said Ceylon tea is well known worldwide, has a unique history and cultural heritage and the people of China and Sri Lanka share a long history of growing, making, tasting and drinking tea, fostering exchanges and mutual learning.
-
-...
-
-[Data](articles/0b116e90.json)
-
-[Extended Data](ext_articles/0b116e90.ext.json)
-
----
-
-### Historical Record - Minister of State for Public Finance Management Bill
-
-*2024-05-23 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184270) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya highlighted the significance of the Public Finance Management Bill as a pivotal decision in Sri Lanka's history, marking a response to long-standing demands. The bill aims to enhance transparency in asset disclosures and address financial mismanagement, including a reported loss of Rs 17 billion in the Seni tax scandal.
-
-🟩
-
-Historical record presented by the Public Finance Management Bill. Finance Minister Ranjith Siyambalapitiya said that this was the most important decision by the government in the 76 years of independent Sri Lanka.
-
-He was speaking at the debate on the proposal on Wednesday (22) on Wednesday (22).
-
-This can be called for two decades of requests from Sri Lanka for two decades of demands.
-
-In addition, the people also have the right to get information on assets through the law. There is no need to appoint other governments to create proper financial management in this country in response to the demand of the opposition parties.
-
-Meanwhile, the government has found a loss of about Rs 17 billion in the Seni tax scam.. A detailed report on this will be submitted to Parliament soon.
-
-◼️
-
-[Data](articles/94cf1c72.json)
-
-[Extended Data](ext_articles/94cf1c72.ext.json)
 
 ---

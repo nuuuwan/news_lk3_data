@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 22:19:14**
+As of **2024-05-23 22:33:59**
 
 ## Newspaper Stats
 
-*Scraped **25,971** Articles*
+*Scraped **25,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 2,983
 tamilmirrorlk | 3,029
 virakesarilk | 3,953
 dailymirrorlk | 4,091
-adaderanasinhalalk | 4,148
+adaderanasinhalalk | 4,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,970 (100.0%) of 25,971 articles have been extended.
+25,971 (100.0%) of 25,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### කෑම ටිකක් කාලා යන්න ඔබත් එන්න
+
+*2024-05-23 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196954) · `si`
+
+ශ්‍රී ලංකාවේ ලොකුම දන්සල ටීවී දෙරණ සංවිධායකත්වයෙන් කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රයේදී මේ වනවිට පැවැත්වෙයි.
+
+24 පැය පුරා පැවැත්වෙන දෙරණ දන්සල ට පැමිණෙන ඔබට ප්‍රණීත ආහාර වේලක රස බැලීමට අවස්ථාව හිමිවෙයි.
+
+◼️
+
+[Data](articles/7489b9a4.json)
+
+---
 
 ### President stresses importance of preserving true essence of Theravada Buddhism and sharing its wisdom with world
 
@@ -43,6 +57,8 @@ Although President Wickremesinghe was scheduled to participate in the State Vesa
 ...
 
 [Data](articles/26dfae55.json)
+
+[Extended Data](ext_articles/26dfae55.ext.json)
 
 ---
 
@@ -2287,25 +2303,5 @@ In addition, the deceased is Upul Anurutha Dehiwala Liyanage, the father of two 
 [Data](articles/65ba1119.json)
 
 [Extended Data](ext_articles/65ba1119.ext.json)
-
----
-
-### Power interruptions for over 300,000 consumers reported in 03 days
-
-*2024-05-23 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99393/power-interruptions-for-over-300000-consumers-reported-in-03-days) · `en`
-
-The Ceylon Electricity Board (CEB) has reported over 36,900 breakdowns resulting in power interruptions to more than 300,000 consumers in the last three days due to inclement weather.
-
-Minister of Power and Energy Kanchana Wijesekara said that additional service staff has been assigned to attend the breakdowns.
-
-Posting on ‘X’ (formerly Twitter), the Minister stated that the CEB management and service staff are working 24 hours to restore power to the affected consumers,
-
-Meanwhile, Wijesekara also expressed that if the consumers are unable to report power interruptions through the CEB hotline 1987, they can use the SMS option to 1987 with breakdown and the electricity consumer number to follow, use the CEB Care app or through http://cebcare.ceb.lk.
-
-◼️
-
-[Data](articles/7d1fe7d5.json)
-
-[Extended Data](ext_articles/7d1fe7d5.ext.json)
 
 ---

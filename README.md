@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 23:34:19**
+As of **2024-05-23 23:53:20**
 
 ## Newspaper Stats
 
-*Scraped **25,973** Articles*
+*Scraped **25,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 259
 bbccomsinhala | 262
 newsfirstlk | 363
 islandlk | 1,400
-economynextcom | 1,495
+economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,983
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,973 (100.0%) of 25,973 articles have been extended.
+25,973 (100.0%) of 25,975 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -464,6 +464,24 @@ Police said that the deceased youths have been identified to be aged between 17 
 
 ---
 
+### Sri Lanka CHEC Port City project completion date extended
+
+*2024-05-23 19:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-chec-port-city-project-completion-date-extended-164433/) · `en`
+
+ECONOMYNEXT – Sri Lanka will extend the CHEC Port City Colombo (Pvt) Ltd project completion date by two (2) years, cabinet spokesman Bandula Gunawardena said.
+
+The then Ministry of Megapolis and Western Development, Urban Development Authority and CHEC Port City Colombo (Pvt) Ltd signed a tripartite agreement in 2016 with a target completion date of June 5, 2025.
+
+However, due to the pandemic, and the project company’s financial constraints and inability to generate sufficient revenue to meet obligations to creditors, the project will not be completed on time, the minister said.
+
+“Therefore the period of implementation of the Colombo Port City Development Project will be extended to June 5, 2027 with the signing of a supplementary agreement between the Ministry of Investment Promotion, Colombo Port City Economic Commission and CHEC Port City Colombo (Pvt) Ltd company,” Gunawardena told reporters on Thursday.
+
+...
+
+[Data](articles/4cecaeae.json)
+
+---
+
 ### Science tends to resign today - President
 
 *2024-05-23 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196948) · `si`
@@ -567,6 +585,28 @@ Motorists using the Colombo-Kandy main road are advised to be vigilant as there 
 [Data](articles/0a50e275.json)
 
 [Extended Data](ext_articles/0a50e275.ext.json)
+
+---
+
+### Sri Lanka to eyes private battery systems to counter renewable power instability
+
+*2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given approval to develop grid scale battery energy storage systems (BESS) to maintain power system stability as variable renewable power plants expand, a government statement said.
+
+Sri Lanka is expecting to connect large volumes solar and wind power between 2024-2030 to meet a 70 percent renewable electricity target, but due to variability of wind and solar (non-firm energy), the system stability is undermined.
+
+As a result, the power grid has to be able to absorb the shocks from non-firm energy.
+
+Battery energy systems storage (BESS) is one of the solutions identified in a long-term generation plan, the statement said.
+
+A committee appointed to study the issue had recommended building battery banks.
+
+The cabinet had approved the development of battery storage system as public private partnerships or private projects. (Colombo/May24/2025)
+
+◼️
+
+[Data](articles/cad7ee76.json)
 
 ---
 
@@ -2263,61 +2303,5 @@ Devotees are seen taking part in religious observances at the Hunupitiya Gangara
 [Data](articles/3e869d3e.json)
 
 [Extended Data](ext_articles/3e869d3e.ext.json)
-
----
-
-### The President's Vesak greeting message
-
-*2024-05-23 10:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெசாக்-வாழ்த்துச்-செய்தி/175-337754) · `ta`
-
-On Vesak Day, Buddhists worldwide honor Buddha's birth, enlightenment, and teachings. This year, President Ranil Wickremesinghe emphasizes unity and equality, urging the nation to embody Buddha's principles of peace and harmony, fostering a society that values all its members equally, regardless of race, religion, or political affiliation. He highlights the importance of practical application of Buddhist doctrines in national development, aiming to build a united country guided by Buddha's teachings.
-
-🟩
-
-Vesak Day is the sacred day of the world Buddhists who commemorate the birth, wisdom and transformation of Gautama Buddha.
-
-Buddhists at home and abroad celebrate this with great devotion, giving lighting the lights, prioritizing worship.
-
-In this embarrassment, we must all be raised as a country, the great commitment that the Buddha had in order to enlighten the teachings of the Gautama Buddha, "We will sacrifice today."
-
-Today we must recall the Buddhist doctrine that treats everyone equally. Likewise, it is necessary to make sure that it is practically implemented as a country.
-
-We must continue to take the country, which is all built together, regardless of race, religion, caste and party.. It will guide the Buddha's drugs.
-
-President Ranil Wickremesinghe has expressed his Vesak Day's life, remembering that the main purpose of this Vesak festival is to create a spiritual and decent man in the world that is moving towards rapid physical growth.
-
-◼️
-
-[Data](articles/15d17cd0.json)
-
-[Extended Data](ext_articles/15d17cd0.ext.json)
-
----
-
-### Private buses
-
-*2024-05-23 10:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனியார்-பஸ்கள்-காட்டிய-போயா/76-337753) · `ta`
-
-Vesak Day travelers return to hometowns due to holiday extensions and heavy rain affecting evening and night journeys. Private buses operate despite limited public transport, adjusting routes to accommodate passengers. Passengers pay higher fares, indicating a cost increase for Vesak Day travel compared to regular days.
-
-🟩
-
-Vesak Day is today (23) and (24) nationwide. Vesak postures are decorated for this.
-
-Saturday and Sunday holidays come with two days. As a result, most people are returning from large cities to their own places.
-
-நாடளாவிய ரீதியில் பெய்கின்ற கடுமையான மழைக்காரணமாக, மாலைநேர மற்றும் இரவு பயணங்களை தவிர்த்துக்கொண்ட பயணிகள், ​​போயா தினமான இன்று (23) வியாழக்கிழமை அதிகாலையிலேயே சொந்த இடங்களை நோக்கி பயணித்தனர்.
-
-There are no buses to travel to most places in Colombo at around 4 am from their shelters in Colombo.
-
-இந்நிலையில், தனியார் பஸ் நிலையத்துக்கு ஓடியுள்ளனர். There are no buses to go to some places. However, a few private buses have changed their streets and traveled to far places. It is welcome that the welfare of the passengers has made such arrangements.
-
-That is why a private bus along the Maharagama or Homagama route has traveled from the Colombo Fort to Hatton to Hatton.
-
-...
-
-[Data](articles/77935beb.json)
-
-[Extended Data](ext_articles/77935beb.ext.json)
 
 ---

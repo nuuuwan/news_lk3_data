@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 20:52:53**
+As of **2024-05-23 21:03:48**
 
 ## Newspaper Stats
 
-*Scraped **25,958** Articles*
+*Scraped **25,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,24 +19,40 @@ adalk | 2,223
 adaderanalk | 2,980
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
-dailymirrorlk | 4,086
+dailymirrorlk | 4,087
 adaderanasinhalalk | 4,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,956 (100.0%) of 25,958 articles have been extended.
+25,958 (100.0%) of 25,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
+### On a ‘divided’ road and heading for trouble - EDITORIAL
+
+*2024-05-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/On-a-divided-road-and-heading-for-trouble-EDITORIAL/172-283272) · `en`
+
+The Sri Lanka Police has caused a stir in the motoring scene by making great efforts to strictly follow an old law that relates to the ownership of vehicles. What stirred a hornet’s nest in social media was when a female police officer checked a vehicle recently and demanded to know details of vehicle ownership.
+
+Now we come to know that the police have powers vested in them to check vehicle registration details courtesy a law passed in Parliament many years ago. This law was possibly passed to prevent unlawful activities linked to vehicles; example theft and unlawful assembling of vehicles.
+
+However, the incident made motorists wake up to the requirement of keeping the ownership details of vehicles in order. In the past there was a habit of delaying the updating of the vehicle registration book when ownership of the ‘machine’ changed. Now new owners of vehicles have to be more responsible in having vehicle registration documents in order.
+
+...
+
+[Data](articles/256dafd0.json)
+
+---
+
 ### Train-motorcycle collision leaves three youths dead
 
 *2024-05-23 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-motorcycle-collision-leaves-three-youths-dead/108-283271) · `en`
 
-Tragedy struck at the Pintaliya railway crossing in Boossa when a train collided with a motorcycle, resulting in the deaths of three young individuals, according to police.
+Tragedy struck at the Pinthaliya railway crossing in Boossa when a train collided with a motorcycle, resulting in the deaths of three young individuals, according to police.
 
 The accident occurred when the motorcycle carrying the three youths collided with a train bound for Matara from Maradana.
 
@@ -45,6 +61,8 @@ The victims have been identified as teenagers aged between 17 and 19 years old.
 ◼️
 
 [Data](articles/05bf6c99.json)
+
+[Extended Data](ext_articles/05bf6c99.ext.json)
 
 ---
 
@@ -548,19 +566,25 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 ---
 
-### නිෂ්පාදන හා ධීවර අංශයේ කොරියා විභාගය ලියූ අයගෙන් සියයට 95ක්ම සමත්
+### 95 percent of the Korea wrote in the manufacturing and fisheries sector
 
 *2024-05-23 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/නිෂ්පාදන-හා-ධීවර-අංශයේ-කොරියා-විභාගය-ලියූ-අයගෙන්-සියයට-95ක්ම-සමත්/11-409807) · `si`
 
-නිශ්පාදන හා ධීවර අංශයන්ට අදාළව පැවැති කොරියානු භාෂා ප්‍රවීණතා විභාගයේ ප්‍රතිඵල නිකුත් කර ඇති අතර, ඉන් අයදුම්කරුවන් 3422ක් සමත් වී තිබේ.
+In the Korean Language Proficiency Examination related to manufacturing and fisheries, 95% of 3,580 applicants passed. Results will be out on May 27th, followed by medical exams on May 28th. Interviews for successful candidates are scheduled for June 6th, 7th, and 10th at Provincial Offices.
 
-මෙම විභාගය සඳහා අයදුම්කරුවන් 3580 පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි. මෙම විභාගයේ ප්‍රතිඵල මැයි මස 27 වන දින  www.slbfe.lk වෙබ් අඩවියේ පළ කරනු ලබන අතර විභාගය සමත් වූ අයදුම්කරුවන් සඳහා වෛද්‍ය පරීක්ෂණ මැයි මස 28 වන දින ආරම්භ වේ.
+🟩
 
-එසේම විභාගය සමත් අයදුම්කරුවන් සඳහා අදාළ සම්මුඛ පරීක්ෂණ ජුනි මස 06, 07 හා 10 යන දිනයන්හි කාර්යාංශයේ පළාත් කාර්යාල, විගමනික සම්පත් මධ්‍යස්ථාන හා පුහුණු මධ්‍යස්ථානයන්හිදී සිදු කෙරේ.
+The results of the Korean Language Proficiency Examination have been released in relation to the products and fisheries sectors and 3422 applicants have passed.
+
+මෙම විභාගය සඳහා අයදුම්කරුවන් 3580 පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි. The results will be published on the 27th of May and medical examinations will be opened on 28th May of May.
+
+The interviews for candidates who pass the examination will be held at the Provincial Offices of the Ministry of Provincial Offices on June 06, 07 and 10.
 
 ◼️
 
 [Data](articles/5fee00ea.json)
+
+[Extended Data](ext_articles/5fee00ea.ext.json)
 
 ---
 
@@ -2261,25 +2285,5 @@ The country is immersed in darkness due to bankruptcy and the collapse of people
 [Data](articles/f02c913a.json)
 
 [Extended Data](ext_articles/f02c913a.ext.json)
-
----
-
-### Tree falls on a motorcycle and injury to someone
-
-*2024-05-23 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184276) · `ta`
-
-On Wednesday, a tree fell on a motorcycle on Bogawantalawa road, injuring the rider. He was taken to Dikoya Hospital.
-
-🟩
-
-A tree has collapsed on a motorcycle ride on Wednesday (22) on Wednesday (22) on the Bogawantalawa road in Bogawantala.
-
-The man who was injured in the incident has been admitted to the Dikoya Hospital.
-
-◼️
-
-[Data](articles/4e020a2b.json)
-
-[Extended Data](ext_articles/4e020a2b.ext.json)
 
 ---

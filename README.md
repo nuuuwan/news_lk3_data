@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 21:03:48**
+As of **2024-05-23 21:18:19**
 
 ## Newspaper Stats
 
-*Scraped **25,959** Articles*
+*Scraped **25,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,980
-tamilmirrorlk | 3,027
+tamilmirrorlk | 3,028
 virakesarilk | 3,953
-dailymirrorlk | 4,087
-adaderanasinhalalk | 4,145
+dailymirrorlk | 4,088
+adaderanasinhalalk | 4,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,958 (100.0%) of 25,959 articles have been extended.
+25,959 (100.0%) of 25,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### ISIS එකට බැඳුණු ලාංකිකයන්ගේ තොරතුරු එළියට
+
+*2024-05-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196951) · `si`
+
+ඉන්දියාවේදී අත්අඩංගුවට පත්වූ ශ්‍රී ලාංකික ISIS සාමාජිකයන් සිව්දෙනා සමග සමීප සබඳතා පැවැත් වූ ශ්‍රී ලාංකිකයෙකු මාලිගාවත්තේදී ත්‍රස්ත විමර්ශන කොට්ඨාසය මගින් අතඅඩංගුවට ගෙන තිබේ.
+
+ඉන්දියාවේදී අත්අඩංගුවට පත් සිව්දෙනා අතර සිටින මොහමඩ් නුෆ්රාන් නැමැත්තා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වූ පොට්ට නෞෆර්ගේ දෙවැනි විවාහයේ පුත්‍රයෙකු බව විමර්ශන නිලධාරීන් අනාවරණ කරයි.
+
+ඉන්දියාවේදී අත්අඩංගුවට පත්වූ ශ්‍රී ලාංකික ISIS සාමාජිකයන් සම්බන්ධයෙන් විමර්ශන සිදුකිරීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පතිවරයාගේ සෘජු අධීක්ෂණය යටතේ විමර්ශන කණ්ඩායමක් පත්කරනු ලැබීය.
+
+ඊට ත්‍රස්ත විමර්ශන කොට්ඨාසය ඇතුළත් අතර අදාළ විමර්ශන කණ්ඩායම මගින් මේ වන විට ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයන් සිව්දෙනා සම්බන්ධයෙන් තොරතුරු ඉල්ලා තිබේ.
+
+එවන් පසුබිමක අදාළ පුද්ගලයන් සිව්දෙනා මෙරට තුළ සබඳතා පැවැත්වූ පිරිස් පිළිබඳව වෙනමම විමර්ශනයක් මේ වනවිටත් අරඹා අවසන් ය.
+
+එහි ප්‍රතිඵලයක් ලෙස ඔවුන් සමග සමීප සබඳතා පැවැත් වූ පුද්ගලයෙකු මාලිගාවත්තේදී ත්‍රස්ත විමර්ශන කොට්ඨාසය මගින් අතඅඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/801d3f1c.json)
+
+---
+
+### ரயிலில் மோதுண்டு 3 இளைஞர்கள் பலி
+
+*2024-05-23 20:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதுண்டு-3-இளைஞர்கள்-பலி/175-337797) · `ta`
+
+கிந்தோட்டை பிந்தலியா புகையிரத கடவையில் இன்று இடம்பெற்ற புகையிரத விபத்தில் மூன்று இளைஞர்கள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மருதானையில் இருந்து மாத்தறை நோக்கிச் சென்று கொண்டிருந்த ருஹுணு குமாரி விரைவு ரயிலில் சாவி மோதியதில் மோட்டார் சைக்கிளில் பயணித்த மூன்று இளைஞர்களும் உயிரிழந்துள்ளதாக காலி பொலிஸ் அத்தியட்சகர் அலுவலகம் தெரிவித்துள்ளது.
+
+தெலிக்கடை பொலிஸ் பிரிவிற்குட்பட்ட கெக்கில மண்டியாவைச் சேர்ந்த இருபது வயதுடைய மூன்று இளைஞர்களே இவ்வாறு உயிரிழந்துள்ளனர்
+
+◼️
+
+[Data](articles/5fb57612.json)
+
+---
+
+### ICC arrest warrants on Israeli leaders: US protests and threats outrageous
+
+*2024-05-23 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ICC-arrest-warrants-on-Israeli-leaders-US-protests-and-threats-outrageous/172-283273) · `en`
+
+Karim Khan seeks ICC arrest warrants on Israeli Prime Minister Benjamin Netanyahu, Defence Minister Yoav Gallant and three top Hamas leaders
+
+Israel has no intention to slow down its genocidal campaign in the Gaza Strip, even after a series of blows it suffered this week in the form of the International Criminal Court (ICC) prosecutor seeking arrest warrants for its leaders and the recognition of Palestine as an independent state by three European countries: Ireland, Norway, and Spain.
+
+There is no letup in Israel’s killer intent. The Gaza Strip has been made uninhabitable. It is heartbreaking to watch on Al Jazeera the wounded, the sick, the elderly, and little children running for cover in search of not-to-be-found safety amid a severe shortage of food, fuel, and medicine, among other essentials.
+
+...
+
+[Data](articles/da6ff145.json)
+
+---
 
 ### On a ‘divided’ road and heading for trouble - EDITORIAL
 
@@ -45,6 +99,8 @@ However, the incident made motorists wake up to the requirement of keeping the o
 ...
 
 [Data](articles/256dafd0.json)
+
+[Extended Data](ext_articles/256dafd0.ext.json)
 
 ---
 
@@ -2219,71 +2275,5 @@ Sri Lankan authorities have threatened and detained Tamils commemorating those 
 [Data](articles/a4415872.json)
 
 [Extended Data](ext_articles/a4415872.ext.json)
-
----
-
-### What did Rajiv Gandhi say to Prabhakaran who came to India?
-
-*2024-05-23 09:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வந்த-பிரபாகரனிடம்-ராஜீவ்-காந்தி-என்ன-சொன்னார்/175-337749) · `ta`
-
-Rajiv Gandhi, according to Mani Shankar Iyer in 'The Rajiv I Knew', agreed to send an Indian peacekeeping force to Sri Lanka under pressure from Sri Lankan President Jayawardene, despite internal opposition and without consulting experts. This decision led to a disastrous intervention, initially seen as a liberation force but ending in conflict with Tamil militants, costing many lives and damaging India's reputation.
-
-🟩
-
-The book 'The Rajiv I Knew', written by former Union Minister Mani Shankar Iyer on former Prime Minister Rajiv Gandhi, presents some sophisticated information in the view of a person in Rajiv's inner self regarding the India -Sri Lanka Agreement.
-
-Mani Shankar Iyer, who was a member of the Rajya Sabha during the Congress regime, has now written a comprehensive book on the time when Rajiv Gandhi was the Prime Minister.. The book, titled 'The Rajiv I Knew', elaborates on contracts, controversies, foreign policy efforts, domestic efforts, domestic efforts, and Panchayat Raj.
-
-In the controversy, the Shah Pano case, the Babri Masjid affair, the Brastock action in Rajasthan, the Indian Peacekeeping Force sent to Sri Lanka, and the Bofors are described.
-
-Mani Shankar Iyer has said that it was the worst decision to send an Indian peacekeeping force to Sri Lanka. Mani Shankar Iyer also tells a new information on how India agreed to send the Indian Peace Keeping Forum.
-
-...
-
-[Data](articles/43f66ae0.json)
-
-[Extended Data](ext_articles/43f66ae0.ext.json)
-
----
-
-### 40 million rupees donation to Gaza Children's Fund
-
-*2024-05-23 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184277) · `ta`
-
-A significant donation of 40,198,902 rupees to the Gaza Children's Fund was made by various associations including Beruwala, Chinese Fort School, Chinese Gems & Jewelry Traders, Gem Sri Lanka, and China. The check was presented to President Ranil Wickremesinghe by the President of the China Fort Gems and Jewelry Trade Association, with External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, and Beruwala Divisional Traders attending the event.
-
-🟩
-
-The Gaza Children's Fund to the Gaza Children's Fund with the participation of children from the Beruwala, Chinese, Chinese Fort School Association, Chinese Gems and Jewelry Traders Association, Gem Sri Lanka Association and China. 40,198,902 donated.
-
-The check was handed over to President Ranil Wickremesinghe at the Presidential Office yesterday (21) by the President of the China Fort Gems and Jewelry Trade Association.
-
-External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake and Beruwala Divisional Traders were also present at the event.
-
-◼️
-
-[Data](articles/1439a6d8.json)
-
-[Extended Data](ext_articles/1439a6d8.ext.json)
-
----
-
-### The time has come to shine the light of wisdom, prosperity, and comfort - the leader of the Vesak greeting
-
-*2024-05-23 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184281) · `ta`
-
-In a message marking Vesak, Opposition Leader Sajith Premadasa calls for enlightenment and prosperity amidst national challenges, praying for wisdom to overcome darkness and restore hope.
-
-🟩
-
-Opposition Leader Sajith Premadasa said in his message that the time has come to shine the light of enlightenment, prosperity and the light of wisdom and prosperity.
-
-The country is immersed in darkness due to bankruptcy and the collapse of people's lives. The time has come to shine the light of wisdom, prosperity and the light of this darkness. In a torch where you load on Vesak day, I willingly pray that the wisdom of keeping the light from the darkness of the country will be born.
-
-◼️
-
-[Data](articles/f02c913a.json)
-
-[Extended Data](ext_articles/f02c913a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 17:54:27**
+As of **2024-05-23 18:11:27**
 
 ## Newspaper Stats
 
-*Scraped **25,936** Articles*
+*Scraped **25,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
-adalk | 2,221
-adaderanalk | 2,977
+adalk | 2,222
+adaderanalk | 2,978
 tamilmirrorlk | 3,027
-virakesarilk | 3,952
-dailymirrorlk | 4,082
+virakesarilk | 3,953
+dailymirrorlk | 4,083
 adaderanasinhalalk | 4,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,936 (100.0%) of 25,936 articles have been extended.
+25,936 (100.0%) of 25,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Korean language proficiency test results released
+
+*2024-05-23 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99401/korean-language-proficiency-test-results-released) · `en`
+
+The Korean language proficiency test results related to the production and fisheries sectors have been released, the Sri Lanka Bureau of Foreign Employment (SLBFE) said.
+
+The SLBFE revealed that accordingly, 3,422 of those who sat for the Korean language proficiency test have passed by obtaining scores over the minimum pass mark.
+
+The total figure of passed candidates is 95.6% out of 3,580 individuals who faced the test, according to the SLBFE.
+
+Meanwhile, the relevant results will be made available on the official website of the SLBFE on 27 May 2024, and can be accessed via www.slbfe.lk, it announced.
+
+The SLBFE also said the medical examinations of the passed candidates will commence on May 28.
+
+Furthermore, the relevant interviews will be held on June 06, 07 and 10 at all the provincial offices of the SLBFE, Migrant Resource Centres and training centres, according to the SLBFE.
+
+◼️
+
+[Data](articles/6cc32bd3.json)
+
+---
+
+### India in talks with Sri Lanka to acquire graphite mines
+
+*2024-05-23 17:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-in-talks-with-Sri-Lanka-to-acquire-graphite-mines/108-283267) · `en`
+
+New Delhi , May 23 (PTI)- India is in talks with Sri Lanka to acquire graphite mines in the island nation. The demand for graphite is steadily increasing, as it is the most common material used for anodes in lithium-ion and other batteries.
+
+The Indian government had discussions with the government of Sri Lanka on acquiring graphite mines there, sources said.
+
+However, the sources refused to give further details stating that the talks are at very preliminary stage.
+
+Graphite features on the list of 30 critical minerals, which was released by the government last year.
+
+The government had recently said that public sector companies Coal India, NMDC and ONGC Videsh Ltd (OVL) will start looking actively for critical mineral assets overseas.
+
+OVL is the overseas investment arm of state-owned Oil and Natural Gas Corporation.
+
+These public sector enterprises already have some kind of presence abroad.
+
+...
+
+[Data](articles/589eadd2.json)
+
+---
 
 ### Main reservoir water capacity increases to 80%
 
@@ -77,6 +123,44 @@ The interviews for candidates who pass the examination will be held on June 06 a
 [Data](articles/dc2ca292.json)
 
 [Extended Data](ext_articles/dc2ca292.ext.json)
+
+---
+
+### Sister's boyfriend in Kilinochchi
+
+*2024-05-23 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184318) · `ta`
+
+In Kilinochchi, a 14-year-old girl was sexually assaulted by her sister's boyfriend. The incident was reported via emergency number 118, leading to police investigations. The suspect remains at large despite efforts to apprehend him, and the victim is hospitalized.
+
+🟩
+
+A 14 -year -old girl in Kilinochchi has been reported to have been sexually abused by her sister's boyfriend.
+
+Investigations carried out by the Kilinochchi police have revealed that the information was exchanged to the police following the incident of an emergency telephone number 118 in connection with the incident.
+
+Kilinochchi police said that a 14 -year -old girl from Kilinochchi has been sexually abused by the boy's boyfriend and the victim is now admitted to the Kilinochchi District Hospital.
+
+The man is said to have been hiding even though the police have taken steps to arrest the suspect in connection with the incident.
+
+◼️
+
+[Data](articles/2134e93d.json)
+
+[Extended Data](ext_articles/2134e93d.ext.json)
+
+---
+
+### சாமானியன் - விமர்சனம்
+
+*2024-05-23 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184321) · `ta`
+
+நடிகர்கள் : ராமராஜன், ராதாரவி, எம். எஸ். பாஸ்கர், போஸ் வெங்கட், மைம் கோபி, கே. எஸ். ரவிக்குமார், நக்ஷா சரண், லியோ சிவகுமார், ஸ்மிருதி வெங்கட், அபர்னதி மற்றும் பலர்
+
+'மக்கள் நாயகன்' என்று இன்றும் கிராமத்து ரசிகர்களால் போற்றப்படும் நடிகர் ராமராஜன் சிறிய இடைவெளிக்கு பிறகு நடித்திருக்கும் திரைப்படம் என்ற ஒற்றை காந்த ஈர்ப்புடனும்,  எதிர்பார்ப்புடனும் இத்திரைப்படத்தை காண பட மாளிகைக்கு விஜயம் செய்யும் பார்வையாளர்களின் எதிர்பார்ப்பை இந்த திரைப்படம் பூர்த்தி செய்யுமா? செய்யாதா? என்பதை தொடர்ந்து காண்போம்.
+
+...
+
+[Data](articles/7cdb2cda.json)
 
 ---
 
@@ -212,27 +296,19 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 ---
 
-### Sister's boyfriend in Kilinochchi
+### පෝය දිනයේ ලයිට් කපලා ජනතාව අමාරුවේ
 
-*2024-05-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184318) · `ta`
+*2024-05-23 15:50:52* · [`adalk`](https://www.ada.lk/breaking_news/පෝය-දිනයේ-ලයිට්-කපලා-ජනතාව-අමාරුවේ/11-409806) · `si`
 
-In Kilinochchi, a 14-year-old girl was sexually assaulted by her sister's boyfriend. The incident was reported via emergency number 118, leading to police investigations. The suspect remains at large despite efforts to apprehend him, and the victim is hospitalized.
+වෙසක් පෝය යෙදුණු අද (23) දින උදේ 5.00 පමණ සිට දහවල් 3.00 දක්වා පැය දහයකට වැඩි කාලයක් අහුන්ගල්ල, බලපිටිය කොස්ගොඩ, වතුගෙදර ,අලුත්වල බටපොල , මීටියාගොඩ ,අම්බලන්ගොඩ, ප්‍රදේශවල ගම්මාන රැසක දහස් ගණන් ජනතාවට  ජලය අත්හිටුවීමෙන් එදින පන්සල් වලට දාන මාන සකස් කර ගැනීමටද දායකයන්ට දැඩි දුෂ්කරතාවලට මුහුණ පෑමට සිදුවූ බව ප්‍රදේශවාසීහු පවසති.
 
-🟩
+මෙම ප්‍රදේශවල න් දින දහවල් සහ රාත්‍රියට සූදානම් කර තිබූ දන්සැල්වල ආහාර සකස් කර ගැනීමට නොහැකිව ඒම සංවිධායකයෝ දැඩි දුෂ්කරතාවලට පත්ව සිටියහ.
 
-A 14 -year -old girl in Kilinochchi has been reported to have been sexually abused by her sister's boyfriend.
+ජාතික ජල සම්පාදන හා ජලා ප්‍රවාහන මණ්ඩලයේ බද්දේගම  පොම්පාගාරයේ සිට යේ මෙම ප්‍රදේශ සඳහා ජලය සැපයීම සිදුකරයි.  මෙලෙස නොදන්නා ජලය අත්විටුවීම පිළිබඳව දැනගැනීමට ලියුම්කරු කීපවතාවක් ප්‍රධාන කාර්යාලයට කතා කළද දුරකථනයට කිසිවකු ප්‍රතිචාර නොදැක්විය. එම කාර්යාලයේ සේවය කරන සේවකයෙකුගේ ජංගම දුරකථනයට කතාකොට විමසූ විට ඔහු ප්‍රකාශ කළේ බද්දේගම ජල පොම්පාගාරයේ හදිසි පුපුරා යාමක් සිදුවූ  බවයි. එම ප්‍රදේශයේ මේ වනතුරු විදුලිය ඇන සිටීම නිසා එය නැවත සකස් කිරීමමට නොහැකිව සිටින බව ඔහු සඳහන් කළේය
 
-Investigations carried out by the Kilinochchi police have revealed that the information was exchanged to the police following the incident of an emergency telephone number 118 in connection with the incident.
+...
 
-Kilinochchi police said that a 14 -year -old girl from Kilinochchi has been sexually abused by the boy's boyfriend and the victim is now admitted to the Kilinochchi District Hospital.
-
-The man is said to have been hiding even though the police have taken steps to arrest the suspect in connection with the incident.
-
-◼️
-
-[Data](articles/2134e93d.json)
-
-[Extended Data](ext_articles/2134e93d.ext.json)
+[Data](articles/7f990641.json)
 
 ---
 
@@ -2191,105 +2267,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/00952934.json)
 
 [Extended Data](ext_articles/00952934.ext.json)
-
----
-
-### Puffiness and dark circles…under the eyes
-
-*2024-05-23 07:35:00* · [`islandlk`](http://island.lk/puffiness-and-dark-circlesunder-the-eyes/) · `en`
-
-Wow! The Aloe Vera magic is certainly helping The Island readers!
-
-I had a few queries wanting to know whether Aloe Vera is helpful in moisturising the delicate skin under the eyes, and also reducing puffiness.
-
-Extract fresh cucumber juice. You can do this by blending cucumber slices and then straining the juice through a fine sieve, or cheesecloth, to remove any pulp.
-
-In a small bowl, mix together the aloe vera gel and cucumber juice until well combined.
-
-Pierce the vitamin E capsules and squeeze out the oil into the mixture.
-
-Add the olive oil to the mixture and stir well to ensure all ingredients are thoroughly combined.
-
-Store the mixture in a clean, airtight container in the refrigerator for at least 30 minutes to chill.
-
-After chilling, use a cotton pad, or your fingertips, to apply the mixture gently under your eyes.
-
-Leave it on for about 15-20 minutes, then rinse off with lukewarm water and pat dry with a soft towel.
-
-...
-
-[Data](articles/81ab555c.json)
-
-[Extended Data](ext_articles/81ab555c.ext.json)
-
----
-
-### A vaccine beyond the national hospital
-
-*2024-05-23 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196923) · `si`
-
-A 31-year-old patient died at Colombo National Hospital due to antibiotic overdose. A special investigation is underway. The hospital has stopped using the antibiotic vaccine involved.
-
-🟩
-
-A patient who was incorporated to the Colombo National Hospital has been launched by antibiotic vaccine after the death of antibiotics has commenced a special investigation into the incident.
-
-The person has been admitted to the 17th ward at the Colombo National Hospital for treatment.
-
-The victim was a 31 year old man.
-
-Inquired from the Director of the Colombo National Hospital, Dr. Kumara Wickremesinghe inquired about the incident.
-
-He said that a special investigation has already begun on the death of the person concerned.
-
-According to the hospital director said that the death was caused by antibiotics or whether there were any other reason.
-
-However, hospital director Director Dr. Kumara Wickremesinghe added that the antibiotics vaccination of the dead patient has been removed from the use of the delegated.
-
-◼️
-
-[Data](articles/92c0c7ad.json)
-
-[Extended Data](ext_articles/92c0c7ad.ext.json)
-
----
-
-### Today is Vesak Full Moon Poya Day
-
-*2024-05-23 07:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Today-is-Vesak-Full-Moon-Poya-Day/108-283216) · `en`
-
-Today is Vesak Full Moon Poya Day, a significant and sacred event for Buddhists around the world.
-
-Vesak celebrates and marks the birth, the enlightenment and the mahaparinirvana of Gautama Buddha. It is celebrated with great reverence and devotion in many countries, particularly in Sri Lanka, where it is a public holiday.
-
-In Sri Lanka, the day is marked by various religious and cultural activities. Buddhist temples are filled with devotees who engage in rituals such as lighting oil lamps, offering flowers and participating in meditation and prayers. Many people observe sil, a practice of following the Eight Precepts, which include abstaining from harmful actions and cultivating mindfulness.
-
-...
-
-[Data](articles/885f9151.json)
-
-[Extended Data](ext_articles/885f9151.ext.json)
-
----
-
-### 150mm of rain witnessed around the country today
-
-*2024-05-23 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/150mm-of-rain-witnessed-around-the-country-today/108-283215) · `en`
-
-Colombo, May 23 (Daily Mirror) - The southwest monsoon conditions are gradually establishing over the island and heavy showers of about 150 mm will be observed in the  Sabaragamuwa Province and in the  Kandy and Nuwara-Eliya districts during the day.
-
-While issuing a general weather forecast this morning, the Forecasting Division of the National Meteorological Centre also said the prevailing showery and windy conditions will continue further.
-
-Accordingly, heavy showers above 100 mm are likely at some places in the Western and North-Western Provinces and in the Mannar, Galle and Matara districts.
-
-Meanwhile, showers will occur in the Western, Sabaragamuwa, Central, North-Western, Southern, and Northern Provinces.
-
-Strong winds up to 60 kmph can be expected at times over the western slopes of the central hills and in the Northern, North-Central, Western, Southern, and North-Western-Provinces.
-
-...
-
-[Data](articles/f66c983c.json)
-
-[Extended Data](ext_articles/f66c983c.ext.json)
 
 ---

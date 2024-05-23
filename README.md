@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 08:08:15**
+As of **2024-05-23 08:18:24**
 
 ## Newspaper Stats
 
@@ -26,59 +26,75 @@ adaderanasinhalalk | 4,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,819 (100.0%) of 25,825 articles have been extended.
+25,825 (100.0%) of 25,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### දිවයින පුරා වෙසක් කලාප 420ක්
+### 420 Vesak Zones across the country
 
 *2024-05-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196924) · `si`
 
-මෙවර වෙසක් උත්සවයට සමගාමීව දිවයින පුරා වෙසක් කලාප 420කට අධික සංඛ්‍යාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+This year, over 420 Vesak Zones and more than 321 pandals are set up nationwide, including preparations in Dematagoda, Thotalaga, Pettah, and Nawaloka. The festival will feature nearly 5,000 Dansals and special events like the Derana Media Network launch at Indaranturus Square Complex. Additionally, 278 prisoners are being released, including 15 from Welikada and 37 from Mahara Prison, highlighting the festive spirit.
 
-දිවයින පුරා තොරණ 321කට වැඩි සංඛ්‍යාවක් ඉදිකර ඇති බව වාර්තා වේ.
+🟩
 
-සෑම වසරකම පවත්වන දෙමටගොඩ, තොටලග, පිටකොටුව, නවලෝක ආදී තොරණ මෙවර ද විචිත්‍රවත්ව ප්‍රදර්ශනය කිරීමට සූදානම් කර තිබේ.
+More than 420 Vesak Zones are scheduled to be held in parallel to the Vesak Festival of this year.
 
-කොළඹ දිස්ත්‍රික්කයට අමතරව දිවයිනේ සෙසු ප්‍රදේශවල ද තොරණ මෙන්ම විශාල පහන් කූඩු ද නිර්මාණය කර ඇති බව "අද දෙරණ" වාර්තාකරුවන් සඳහන් කළේය.
+More than 321 pandal has been constructed across the country.
 
-වෙසක් දිනයට සමගාමීව දිවයින පුරා දන්සැල් 5,000කට ආසන්න සංඛ්‍යාවක් පැවැත්වීම සඳහා සැලසුම් කර ඇති බව වාර්තා වේ.
+Dematagoda, Thotalaga, Pettah and Nawaloka, Nawaloka, have also been preparing to demonstrate all the year.
 
-වෙසක් කලාප ආශ්‍රිතව මෙන්ම ජනතාවගේ ආරක්ෂාව සඳහා පොලිස් නිලධාරින් 18,000කට අධික සංඛ්‍යාවක් යොදවා ඇති බවෙ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා සඳහන් කළේය.
+"Today Ada Derana stated that allegedly designed in other parts of the country in addition to the Colombo district."
 
-මේ අතර දෙරණ මාධ්‍ය ජාලය සංවිධානය කරනු ලබන මහ බත් දන්සැල කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රයේ දී අද රාත්‍රී 8.00ට ආරම්භ කිරීමට මේ වන විට සියලු කටයුතු සුදානම් කර තිබේ.
+It is reported that nearly 5,000 Dansals are planned to be held in parallel to the Vesak.
 
-අදට යෙදෙන වෙසක් පොහොය නිමිත්තෙන් සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක් පිරිනැමීමට බන්ධනාගාර දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
+Police Media Spokesperson DIG, Nihal Talduuwa, has been deployed in the Vesak Zone as well as the public.
+
+Meanwhile, all arrangements have been prepared to start the Derana Media Network at the Indaranturus Square Complex today at 8.00 pm.
+
+The Department of Prisons has taken steps to offer a special commitment to the prisoners to commemorate the Vesak Poya today.
+
+Accordingly, 278 prisoners are released from all prisons in the country.
+
+15 prisoners from Welikada Prison and 37 prisoners from Mahara Prison are to be released.
 
 ...
 
 [Data](articles/3f8d58e6.json)
 
+[Extended Data](ext_articles/3f8d58e6.ext.json)
+
 ---
 
-### ජාතික රෝහලේ දී එන්නතක් තවත් ජීවිතයක් බිලිගනී
+### A vaccine beyond the national hospital
 
 *2024-05-23 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196923) · `si`
 
-කොළඹ ජාතික රෝහලට පිළිස්සුම් තුවාල ලබා ඇතුළත් කළ රෝගියෙකු ප්‍රතිජීවක එන්නතක් ලබාදීමෙන් අනතුරුව මියයාමේ සිද්ධිය සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+A 31-year-old patient died at Colombo National Hospital due to antibiotic overdose. A special investigation is underway. The hospital has stopped using the antibiotic vaccine involved.
 
-අදාළ පුද්ගලයා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලේ 17 වන වාට්ටුවට ඇතුළත් කර ඇති අතර එහිදී ඔහුට සෙෆියුරොක්සීම් නමැති ප්‍රතිජීවක ඖෂධය ලබා දී ඇති බව වාර්තා වේ.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ 31 හැවිරිදි පිරිමි පුද්ගලයෙකු බව වාර්තා වේ.
+A patient who was incorporated to the Colombo National Hospital has been launched by antibiotic vaccine after the death of antibiotics has commenced a special investigation into the incident.
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් "අද දෙරණ" කොළඹ ජාතික රෝහලේ රෝහල් අධ්‍යක්ෂ වෛද්‍ය කුමාර වික්‍රමසිංහ මහතාගෙන් විමසීමක් කළේය.
+The person has been admitted to the 17th ward at the Colombo National Hospital for treatment.
 
-ඔහු සඳහන් කළේ, අදාළ පුද්ගලයාගේ මරණය පිළිබඳව මේ වන විටත් විශේෂ විමර්ශනයක් ආරම්භ කර ඇති බවය.
+The victim was a 31 year old man.
 
-ප්‍රතිජීවක ඖෂධය ලබාදීම හේතුවෙන් එම මරණය සිදුවී ඇත් ද එසේත් නැතිනම් ඊට වෙනත් හේතුවක් බලපා ඇත් ද යන්න පිළිබඳ එහිදී අනාවරණය කරගත හැකි බව රෝහල් අධ්‍යක්ෂවරයා සඳහන් කළේය.
+Inquired from the Director of the Colombo National Hospital, Dr. Kumara Wickremesinghe inquired about the incident.
 
-කෙසේවෙතත් මියගිය රෝගියාට ලබාදුන් බව කියන ප්‍රතිජීවක එන්නත් කාණ්ඩය මේ වන විටත් භාවිතයෙන් ඉවත් කර ඇති බව රෝහල් අධ්‍යක්ෂ වෛද්‍ය කුමාර වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+He said that a special investigation has already begun on the death of the person concerned.
+
+According to the hospital director said that the death was caused by antibiotics or whether there were any other reason.
+
+However, hospital director Director Dr. Kumara Wickremesinghe added that the antibiotics vaccination of the dead patient has been removed from the use of the delegated.
 
 ◼️
 
 [Data](articles/92c0c7ad.json)
+
+[Extended Data](ext_articles/92c0c7ad.ext.json)
 
 ---
 
@@ -95,6 +111,8 @@ In Sri Lanka, the day is marked by various religious and cultural activities. Bu
 ...
 
 [Data](articles/885f9151.json)
+
+[Extended Data](ext_articles/885f9151.ext.json)
 
 ---
 
@@ -116,25 +134,33 @@ Strong winds up to 60 kmph can be expected at times over the western slopes of t
 
 [Data](articles/f66c983c.json)
 
+[Extended Data](ext_articles/f66c983c.ext.json)
+
 ---
 
-### குஜராத் விமானநிலையத்தில் கைது செய்யப்பட்ட இலங்கையர்களில் ஒருவர் பொட்ட நவ்பரின் மகன் - அதிகாரிகள் தகவல்
+### One of the Sri Lankans arrested at Gujarat Airport
 
 *2024-05-23 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184275) · `ta`
 
-இந்தியாவின் குஜராத் விமானத்தில் ஐஎஸ் உறுப்பினர்கள் என்ற சந்தேகத்தில் கைதுசெய்யப்பட்ட இலங்கையர்களில் ஒருவர் இலங்கை பாதளஉலககுழு தலைவர் பொட்ட நவ்பரின் மகன் என தகவல் வெளியாகியுள்ளது.
+A Sri Lankan man, suspected of being an IS member, was arrested at Gujarat Airport. He is the son of Potta Navbar, a football committee leader, and comes from Negombo's Periyamulla area. The 27-year-old, previously convicted for murder, had abandoned his education to engage in clothing trade between Sri Lanka and India.
 
-குஜராத்;தில் கைதுசெய்யப்பட்டவர்களில் ஒருவர் நீர்கொழும்பு பெரியமுல்ல பகுதியை சேர்ந்தவர் ஏனையவர்கள் கொழும்பு கிரான்ட்பாஸ் மாளிகாவத்தை மற்றும் கொழும்பு 13ஐசேர்ந்தவர்கள் என இலங்கை அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
 
-இவர்களில் 27 வயது இளைஞன் மேல்நீதிமன்ற நீதிபதி சரத் அம்பேபிட்டிய கொலை தொடர்பில் மரணதண்டனை விதிக்கப்பட்ட பொட்ட நவ்பரின் மகன் என  இலங்கை அதிகாரிகள் தெரிவித்துள்ளனர்.
+It is reported that one of the Sri Lankans arrested on suspicion of being IS members on India's Gujarat flight is the son of the Sri Lankan Football Committee leader Potta Navpar.
 
-பாடசாலை கல்வியை கைவிட்ட பின்னர் இவர் இந்தியாவிலிருந்து ஆடைகளை கொள்வனவு செய்து இலங்கைக்கு கொண்டுவந்து விற்பனை செய்வதில் ஈடுபட்டார் என தெரியவந்துள்ளது.
+One of the arrested in Gujarat is from the Periyamulla area of Negombo, Sri Lankan officials said that the Grandpass Maligawatta and Colombo 13 are from Colombo 13.
 
-மேலும் இவர் இந்தியா துபாய்க்கு வர்த்தக நோக்கங்களிற்காக அடிக்கடி பயணங்களை மேற்கொண்டமை விசாரணையின் போது தெரியவந்துள்ளதாக அதிகாரிகள் குறிப்பிட்டுள்ளனர்.
+Sri Lankan officials said that the 27 -year -old youth was the son of Potta Navbar, who was sentenced to death in connection with the murder of Sarath Ambabitiya.
+
+It has been revealed that he was involved in buying and selling clothes from India after abandoning school education.
+
+Officials said that he was also on trips to India for business purposes for India.
 
 ◼️
 
 [Data](articles/efdd7201.json)
+
+[Extended Data](ext_articles/efdd7201.ext.json)
 
 ---
 
@@ -227,6 +253,8 @@ These NGOs had been registered as guaranteed companies under the Registrar of Co
 ...
 
 [Data](articles/dfd687ae.json)
+
+[Extended Data](ext_articles/dfd687ae.ext.json)
 
 ---
 

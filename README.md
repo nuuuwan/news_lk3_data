@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 18:34:31**
+As of **2024-05-23 18:53:35**
 
 ## Newspaper Stats
 
-*Scraped **25,941** Articles*
+*Scraped **25,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ dbsjeyarajcom | 259
 bbccomsinhala | 262
 newsfirstlk | 363
 islandlk | 1,400
-economynextcom | 1,489
+economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,222
 adaderanalk | 2,978
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
 dailymirrorlk | 4,083
-adaderanasinhalalk | 4,140
+adaderanasinhalalk | 4,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,941 (100.0%) of 25,941 articles have been extended.
+25,941 (100.0%) of 25,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### තුවක්කු ආඥා පනත සංශෝධනය කිරීමට අනුමැතිය
+
+*2024-05-23 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196946) · `si`
+
+ගිනිඅවි බලපත්‍ර ගාස්තු යාවත්කාලීන කිරීමේ අරමුණින් තුවක්කු ආඥා පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවී තිබේ.
+
+ආරක්ෂක අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට මෙලෙස අනුමැතිය හිමිවී ඇති බව සඳහන් ය.
+
+1916 අංක 33 දරන තුවක්කු ආශා පනත හා 1996 අංක 22 දරන තුවක්කු සංශෝධන පනතේ ප්‍රතිපාදන අනුව ආරක්ෂක අමාත්‍යංශය විසින් කෘෂිකාර්මික හා කෘෂිකාර්මික නොවන කටයුතු සඳහා බලපත්‍ර මත ගිනිඅවි නිකුත් කිරීම සිදුකරනු ලබන අතර ඒ සඳහා වාර්ෂික බද්දක් අය කිරීම සිදු වෙයි.
+
+මේ වනවිට ආරක්ෂක අමාත්‍යංශය විසින් නිකුත් කර ඇති ගිනිඅවි ප්‍රමාණය 34,318ක් වන අතර බලපත්‍ර ගාස්තු වශයෙන් වාර්ෂිකව රුපියල් මිලියන 45ක් පමණ මුදලක් මහා භාණ්ඩාගාරය වෙත බැර කෙරෙන බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පෙන්වාදෙයි.
+
+කාලීන අවශ්‍යතාවන්ට ගැළපෙන පරිදි අදාළ පනත් සම්පූර්ණයෙන්ම සංශෝධනය කිරීම සඳහා පියවර ගනිමින් සිටින නමුත් එම සංශෝධන සිදුකරන තෙක් අදාළ බලපත්‍ර ගාස්තු වත්මන් අවශ්‍යතා අනුව සශෝධනය කිරීමේ අවශ්‍යතාව හඳුනාගෙන ඇති බැවින් ඒ සඳහා තුවක්කු ආඥා පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට රජය තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/79c1e901.json)
+
+---
 
 ### A bus collapses in a muscle tree forwarding
 
@@ -1106,6 +1126,28 @@ Four militants who traveled to Ahmedabad from Sri Lanka to Chennai airport to ca
 
 ---
 
+### Sri Lanka plans golf course in Chilaw
+
+*2024-05-23 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-golf-course-in-chilaw-164424/) · `en`
+
+ECONOMYNEXT- Sri Lanka is planning a golf course in Chilaw as part of an overall strategy to develop a tourism hub in the Chilaw-Iranawila area, Cabinet Spokesman, Bandula Gunawardana said.
+
+“Iranawila and Chilaw will be developed as a tourism hub,” Gunawardana on Thursday.
+
+Sri Lanka already has several golf course in Colombo, Kandy and Nuwara Eliya.
+
+Sri Lanka has five 18-hole golf courses and several 9-hole golf courses and is currently promoting itself as a destination for golf tourism.
+
+A connecting road will also be built between Chilaw and Bingiriya where and export zone is being expanded, Minister Gunawardana said.
+
+The task of developing the Chilaw-Iranawila tourism hub will be handed over to a task force charged with the integrated development plan for Bingiriya. (Colombo/May23/2024)
+
+◼️
+
+[Data](articles/3d4b743c.json)
+
+---
+
 ### Several districts. Heavy rains exceeding 150 bee
 
 *2024-05-23 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196932) · `si`
@@ -1133,6 +1175,26 @@ In the rest of the island, there may be 30 - 40 strong winds.
 [Data](articles/41c9fe3c.json)
 
 [Extended Data](ext_articles/41c9fe3c.ext.json)
+
+---
+
+### Japan to provide HR scholarships to Sri Lanka public officials
+
+*2024-05-23 12:52:00* · [`economynextcom`](https://economynext.com/japan-to-provide-hr-scholarships-to-sri-lanka-public-officials-164420/) · `en`
+
+ECONOMYNEXT – The Government of Japan will provide scholarships to study Master’s Degrees and Doctorate Degrees in HR to executive level officials in Sri Lanka’s public sector, cabinet spokesman minister Bandula Gunawardena said.
+
+“Japan has agreed to grant scholarships worth 304 million Japanese yen (approximately 578 million rupees),” Gunawardena told reporters on Thursday.
+
+“Accordingly. the Cabinet approved the proposal to sign  letters of exchange with the Government of Japan and to enter into an agreement with the Japan International Cooperation Agency (JICA) in order to receive the grant.
+
+The Japanese Grant Aid for Human Resources Development Scholarship (JDS) Programme was introduced in 2010 to enable Sri Lankan officials to study in prominent universities in Japan.
+
+Under the scheme, 225 scholarships have been provided previously for public officials to pursue postgraduate courses, and 17 scholarships for doctoral courses, the minister said.
+
+...
+
+[Data](articles/adbf36e3.json)
 
 ---
 
@@ -1346,6 +1408,24 @@ We immediately contacted the Mannar District Government Agent and informed the i
 
 ---
 
+### Sri Lanka plans to expand Bingiriya export zone to 1,100 acres
+
+*2024-05-23 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-expand-bingiriya-export-zone-to-1100-acres-164413/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expanding an export processing zone in Bingiriya in Kurunegala and plans to link the area with Puttalam with roads and other infrastructure, Minister Bandula Gunawardana said.
+
+A task force of ministerial secretaries will be appointed to carry out the tasks speedily, following a cabinet paper submitted by President Ranil Wickremesinghe said.
+
+The Bingiriya zone already has 157 acres and another 282 acres is being developed by the Board of Investment, he said.
+
+There was no information whose lands would be acquired. (Colombo/May23/2024)
+
+◼️
+
+[Data](articles/8c79482c.json)
+
+---
+
 ### Ranil clearly declared in the cabinet of the presidential election
 
 *2024-05-23 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184287) · `ta`
@@ -1553,6 +1633,24 @@ A press conference to inform the Cabinet decisions has been launched in the Info
 [Data](articles/445481f5.json)
 
 [Extended Data](ext_articles/445481f5.ext.json)
+
+---
+
+### Sri Lanka has power breakdowns amidst extreme weather
+
+*2024-05-23 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-power-breakdowns-amidst-extreme-weather-164408/) · `en`
+
+ECONOMYNEXT – The state-owned power utility, the Ceylon Electricity Board has reported over 36,900 breakdowns resulting in power interruptions to more than 300,000 consumers in the last three days due to inclement weather in the island, the power minister said.
+
+“Additional service staff has been assigned to attend the breakdowns and the CEB management & service staff are working 24 hours to restore power to the affected consumers,” Minister of Power and Energy, Kanchana Wijesekera said on social media platform X (twitter).
+
+Wijesekera said consumers could report power interruptions through the CEB hotline 1987, via SMS to 1987 with BD and the electricity consumer number to follow, or use the CEB Care app, or through http://cebcare.ceb.lk.
+
+The South-East monsoon has seen floods, landslides and strong winds do damage to the utility provider’s infrastructure in the last week. (Colombo/May23?2024)
+
+◼️
+
+[Data](articles/18d04c7b.json)
 
 ---
 
@@ -2126,6 +2224,26 @@ Investigations have revealed that they have been planned to murdered a senior le
 
 ---
 
+### Sri Lanka President calls for unity, sacrificing for a better tomorrow on Vesak day
+
+*2024-05-23 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-unity-sacrificing-for-a-better-tomorrow-on-vesak-day-164405/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has recalled a sermon from the Buddha about sacrificing for a better tomorrow, and called for unity to heal and rebuild the country, as Buddhists celebrate Vesak.
+
+Buddhists celebrate Vesak as commemorating the birth, enlightenment and passing away of the Buddha.
+
+“At this challenging moment, we as a nation should cultivate the same great zeal for enlightenment that Buddha exemplified, inspired by his sermon, “Maththasukha parichchaga- passé che vipulan sukhan” – to sacrifice today for a better tomorrow,” President Wickremesinghe said in his Vesak day message.
+
+“We must remember the advice of Lord Buddha, “Sabbattha Sammanaso,” to treat everyone equally and ensure we put it into practice as a country. This is the greatest offering we can present to the Buddha on this Vesak day.
+
+“Regardless of race, religion, caste, or political affiliation, we must all unite to heal and rebuild our country. ”
+
+...
+
+[Data](articles/1a41974e.json)
+
+---
+
 ### Prevailing showery and windy conditions to continue further
 
 *2024-05-23 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99390/prevailing-showery-and-windy-conditions-to-continue-further) · `en`
@@ -2165,135 +2283,5 @@ MP Hashim suggested that instead of being sold, the bungalow should be converted
 [Data](articles/e47be579.json)
 
 [Extended Data](ext_articles/e47be579.ext.json)
-
----
-
-### Blink International opens CASIO store in Kandy City Centre
-
-*2024-05-23 07:58:00* · [`islandlk`](http://island.lk/blink-international-opens-casio-store-in-kandy-city-centre/) · `en`
-
-Blink International (Pvt) Ltd, sole authorized distributor and service agent for Casio watches in Sri Lanka, launched its first store in Kandy in the Kandy City Centre (KCC). The store has the largest watch collection in KCC with nearly 500 watches for customers to choose from and is the only wristwatch battery replacement service provider located inside KCC.
-
-“This is an important milestone for us. We are excited about expanding our retail footprint and to serve watch enthusiasts in Kandy. Our space in Kandy is designed to ensure that customers have a wide variety of choices and our team is equipped to help our clientele make an informed decision in line with their needs, style and budget,” noted Blink International Director Muhammed Mansoor.
-
-...
-
-[Data](articles/f37bce93.json)
-
-[Extended Data](ext_articles/f37bce93.ext.json)
-
----
-
-### 420 Vesak Zones across the country
-
-*2024-05-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196924) · `si`
-
-This year, over 420 Vesak Zones and more than 321 pandals are set up nationwide, including preparations in Dematagoda, Thotalaga, Pettah, and Nawaloka. The festival will feature nearly 5,000 Dansals and special events like the Derana Media Network launch at Indaranturus Square Complex. Additionally, 278 prisoners are being released, including 15 from Welikada and 37 from Mahara Prison, highlighting the festive spirit.
-
-🟩
-
-More than 420 Vesak Zones are scheduled to be held in parallel to the Vesak Festival of this year.
-
-More than 321 pandal has been constructed across the country.
-
-Dematagoda, Thotalaga, Pettah and Nawaloka, Nawaloka, have also been preparing to demonstrate all the year.
-
-"Today Ada Derana stated that allegedly designed in other parts of the country in addition to the Colombo district."
-
-It is reported that nearly 5,000 Dansals are planned to be held in parallel to the Vesak.
-
-Police Media Spokesperson DIG, Nihal Talduuwa, has been deployed in the Vesak Zone as well as the public.
-
-Meanwhile, all arrangements have been prepared to start the Derana Media Network at the Indaranturus Square Complex today at 8.00 pm.
-
-The Department of Prisons has taken steps to offer a special commitment to the prisoners to commemorate the Vesak Poya today.
-
-Accordingly, 278 prisoners are released from all prisons in the country.
-
-15 prisoners from Welikada Prison and 37 prisoners from Mahara Prison are to be released.
-
-...
-
-[Data](articles/3f8d58e6.json)
-
-[Extended Data](ext_articles/3f8d58e6.ext.json)
-
----
-
-### Techno Hub Malabe by ICC introduces innovative office spaces
-
-*2024-05-23 07:56:00* · [`islandlk`](http://island.lk/techno-hub-malabe-by-icc-introduces-innovative-office-spaces-2/) · `en`
-
-Techno Hub at Malabe is yet another innovative construction by International Construction Consortium (Pvt) Ltd (ICC) to provide commercial space at Malabe. With its success story of Iceland Business centre located in Colombo, Techno hub is considered as the second commercial space project constructed, developed & managed by ICC Pvt Ltd.
-
-Malabe has become the most sought-after residential suburb in the Greater Colombo area with the rapid development of Southern Expressway and outer circular Highway with proximity to major financial and administrative hubs of Sri Lanka. Malabe has been proposed as the Information Technology Hub, as per the Government’s Megapolis Development Project.
-
-ICC established in 1980, has become one of the largest and most respected and innovative Civil Engineering Organisations in Sri Lanka with over 40 years of construction excellence. ICC holds the highest CIDA Grading CS2/EM1 for the major area in local construction.
-
-...
-
-[Data](articles/68e6fc27.json)
-
-[Extended Data](ext_articles/68e6fc27.ext.json)
-
----
-
-### Hemas achieves record earnings for FY 24
-
-*2024-05-23 07:54:00* · [`islandlk`](http://island.lk/hemas-achieves-record-earnings-for-fy-24/) · `en`
-
-Revenue grew by 6.7% to Rs. 121.6 Bn driven by the improvements in all key BUs, Despite the volume contractions in all industries across Hemas managed to outperform the market with market share increases in key segments.
-
-Home and Personal Care Sri Lanka  Increased focus on high margin personal care segment.
-
-Providing innovative solutions and NPDs including Home and personal care International
-
-Efforts to increase foot print in key markets East Africa and Middle East.
-
-Learning Segment had a good back to school season and entered the value for money segment with Homerun
-
-Hospitals introduced Ambulatory care and focused on improving home care and drove key anchor specialty revenues
-
-However, revenue growth was not up to the expected levels due to adverse impact of the macro-economic challenges.
-
-Even though the country saw improvements in the external sector and progress was made in the IMF programme, consumer spending remained low.
-
-...
-
-[Data](articles/5859becc.json)
-
-[Extended Data](ext_articles/5859becc.ext.json)
-
----
-
-### Unilever – Lever Ayush strengthens commitment to traditional medicine as Main Sponsor of International Research Symposium at AyurEx Colombo 2024
-
-*2024-05-23 07:53:00* · [`islandlk`](http://island.lk/unilever-lever-ayush-strengthens-commitment-to-traditional-medicine-as-main-sponsor-of-international-research-symposium-at-ayurex-colombo-2024/) · `en`
-
-Building on a successful partnership in 2023, Lever Ayush, one of the leading Ayurvedic brands in the country, once again served as the Main Sponsor for the International Research Symposium at AyurEx Colombo 2024. Held recently, the event was a premier platform for celebrating and advancing traditional medicine practices.
-
-“At Lever Ayush, we are dedicated to upholding and innovating the wisdom of Ayurveda,” said Shamara Silva, Marketing Director – Beauty & Wellbeing and Personal Care of Unilever Sri Lanka. “Our partnership with AyurEx Colombo 2024 for its International Research Symposium reflects this commitment. This prestigious event fosters collaboration and knowledge exchange, propelling Ayurveda onto the global stage. We are proud to partner with AyurEx Colombo 2024, a platform that fosters research and education in traditional medicine. Through this collaboration, we strive to ensure that the benefits of Ayurveda remain accessible and relevant for generations to come.”
-
-...
-
-[Data](articles/3aa0cb8e.json)
-
-[Extended Data](ext_articles/3aa0cb8e.ext.json)
-
----
-
-### EY GDS Sri Lanka advocates for social equity and gender balance in the corporate sector
-
-*2024-05-23 07:51:00* · [`islandlk`](http://island.lk/ey-gds-sri-lanka-advocates-for-social-equity-and-gender-balance-in-the-corporate-sector/) · `en`
-
-In a powerful move to promote inclusivity, EY Global Delivery Services (EY GDS) Sri Lanka hosted an impactful panel discussion on social equity. The forum featured influential women leaders who shared their experiences and perspectives to drive progress in workplace diversity, both within the EY organization and in the wider community.
-
-The panelists, including Kasturi Chellaraja, the first female Group CEO of a public-quoted conglomerate in Sri Lanka; Sandra De Zoysa, the first female Chairperson of the Sri Lanka Association for Software and Services Companies (SLASSCOM); and Ashanthi Weerasinghe, co-founder of one of the largest fitness center networks in Sri Lanka, offered valuable insights about dismantling societal biases and creating equal opportunities.
-
-...
-
-[Data](articles/387aece0.json)
-
-[Extended Data](ext_articles/387aece0.ext.json)
 
 ---

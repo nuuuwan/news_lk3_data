@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 11:04:34**
+As of **2024-05-23 11:18:38**
 
 ## Newspaper Stats
 
-*Scraped **25,863** Articles*
+*Scraped **25,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,216
 adaderanalk | 2,970
-tamilmirrorlk | 3,016
+tamilmirrorlk | 3,019
 virakesarilk | 3,930
 dailymirrorlk | 4,067
 adaderanasinhalalk | 4,127
@@ -26,11 +26,51 @@ adaderanasinhalalk | 4,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,863 (100.0%) of 25,863 articles have been extended.
+25,863 (100.0%) of 25,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### ஜனாதிபதியின் வெசாக் வாழ்த்துச் செய்தி
+
+*2024-05-23 10:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெசாக்-வாழ்த்துச்-செய்தி/175-337754) · `ta`
+
+வெசாக் தினம் என்பது கௌதம புத்தரின் பிறப்பு, ஞானம் பெறல் மற்றும் பரிநிர்வாணத்தை நினைவுகூரும் உலக பௌத்தர்களின் புனிதமான நாளாகும்.
+
+உள்நாட்டிலும் வெளிநாட்டிலும் உள்ள பௌத்தர்கள் விளக்குகளை ஒளிரவிட்டு, வழிபாடுகளுக்கு முன்னுரிமை அளித்து, மிகுந்த பக்தியுடன் இதனைக் கொண்டாடுகின்றனர்.
+
+“சிறந்த நாளைக்காக இன்றே தியாகம் செய்வோம்” என்ற கௌதம புத்தரின் போதனையின் அடிப்படையில் ஞானம் பெறுவதற்காக புத்தர் கொண்டிருந்த பெரும் உறுதிப்பாட்டை, ஒரு நாடாக இந்த இக்கட்டான தருணத்தில் நாம் அனைவரும் வளர்த்துக் கொள்ள வேண்டும்.
+
+அனைவரையும் சமமாக நடத்தும் பௌத்த உபதேசத்தை இன்று நாம் நினைவுகூர வேண்டும். அதேபோல் ஒரு நாடாக அதை நடைமுறையில் செயல்படுத்துவதை உறுதி செய்ய வேண்டும்.
+
+இனம், மதம், சாதி, கட்சி வேறுபாடின்றி நாம் அனைவரும் ஒன்றிணைந்து கட்டியெழுப்பப்படும் இந்நாட்டை தொடர்ந்து முன்னோக்கிக் கொண்டு செல்ல வேண்டும். அதற்கு புத்தரின் போதைனைகள் வழிகாட்டும்.
+
+...
+
+[Data](articles/15d17cd0.json)
+
+---
+
+### தனியார் பஸ்கள் காட்டிய ‘போயா’
+
+*2024-05-23 10:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனியார்-பஸ்கள்-காட்டிய-போயா/76-337753) · `ta`
+
+வெசாக் தினம் இன்றும் (23) நாளையும் (24) நாடளாவிய ரீதியில் அனுஷ்டிக்கப்படுகின்றது. இதற்காக வெசாக் தோரணங்கள் ஆங்காங்கே அலங்கரிக்கப்பட்டுள்ளன.
+
+அவ்விரு நாட்களுடன் சனி, ஞாயிறு விடுமுறை தினங்கள் வருகின்றன. இதனால், பெரும்பாலான மக்கள் பெரும் நகரங்களில் இருந்து தங்களுடைய சொந்த இடங்களுக்கு திரும்பிக்கொண்டிருக்கின்றனர்.
+
+நாடளாவிய ரீதியில் பெய்கின்ற கடுமையான மழைக்காரணமாக, மாலைநேர மற்றும் இரவு பயணங்களை தவிர்த்துக்கொண்ட பயணிகள், ​​போயா தினமான இன்று (23) வியாழக்கிழமை அதிகாலையிலேயே சொந்த இடங்களை நோக்கி பயணித்தனர்.
+
+கொழும்பில் தங்களுடைய தங்குமிடங்களில் இருந்து அதிகாலை 4 மணியளவில், புறக்கோட்டை இலங்கை போக்குவரத்து சபையின் பஸ் நிலையத்துக்கு வருகைதந்தாலும்​ பெரும்பாலான இடங்களுக்குச் செல்வதற்கு  பஸ்கள் இல்லவே இல்லை.
+
+இந்நிலையில், தனியார் பஸ் நிலையத்துக்கு ஓடியுள்ளனர். அங்கும் சில இடங்களுக்குச் செல்வதற்கான பஸ்கள் இல்லை. எனினும், ஒருசில தனியார் பஸ்கள் தங்களுடைய வீதித்த​டத்தை மாற்றி, தூர இடங்களுக்கு பயணித்துள்ளன. பயணிகளின் நலனை கருத்தில்கொண்டு இவ்வாறு மாற்று ஏற்பாடுகளை செய்திருந்தமை வரவேற்கத்தக்கது.
+
+...
+
+[Data](articles/77935beb.json)
+
+---
 
 ### Galle road blocked by Bridge in Kalutara
 
@@ -51,6 +91,22 @@ It is reported that the tree has been severely causing severe traffic congestion
 [Data](articles/5ac4542c.json)
 
 [Extended Data](ext_articles/5ac4542c.ext.json)
+
+---
+
+### உலக சாதனை படைத்த “உய்யா”  இறகு
+
+*2024-05-23 10:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலக-சாதனை-படைத்த-உய்யா-இறகு/50-337751) · `ta`
+
+நியூசிலாந்தைச் சேர்ந்த அழிந்துபோன பறவையின் இறகு சாதனை விலைக்கு விற்பனையாகியுள்ளது. இந்தப் பறவைக்கு 'ஹுயா' என்று பெயர். இப்பறவைக்கு எஞ்சியிருப்பது இந்த இறகு மட்டுமே.
+
+இறகு 28,400 டொலர்களுக்கு மேல் விற்பனை செய்யப்பட்டதாக வெளிநாட்டு ஊடகங்கள் தெரிவித்துள்ளன. இது உலக சாதனை என்றும் கூறப்படுகிறது. இந்த இறகு ஏலத்தில்  3,000 டொலர் கிடைக்கும் என எதிர்பார்க்கப்பட்டது.
+
+என்பது நியூசிலாந்தின் பூர்வீக குடிமக்களான மவோரி மக்களின் புனித விலங்கு. 'ஹுய்யா' (ஹுயா) இறகுகள் தலைக்கவசங்களாகவும் பரிசுகளாகவும் பயன்படுத்தப்பட்டன. 'ஹுயா' பறவை கடைசியாக 1907 இல் பார்க்கப்பட்டது.
+
+◼️
+
+[Data](articles/a0de9f9a.json)
 
 ---
 
@@ -2211,73 +2267,5 @@ A technical evaluation of three companies which had submitted bids had been comp
 [Data](articles/ce00e6ff.json)
 
 [Extended Data](ext_articles/ce00e6ff.ext.json)
-
----
-
-### Water -dried Victoria reservoir
-
-*2024-05-22 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184261) · `ta`
-
-Despite heavy rains nationwide, the Victoria reservoir, crucial for hydroelectric power, is drying up due to insufficient rain in its catchment area, affecting the Teldeniya region.
-
-🟩
-
-Although the reservoirs are overflowing due to heavy rains across the country, the water dried up of the Victoria reservoir, the largest reservoir, which supplies the highest amount of water power generation.
-
-The pictures, which were taken on Wednesday afternoon, showed how the water of the Victoria reservoir dried up.
-
-The water of the Victoria reservoir shows some old areas of the old Teldeniya city.
-
-Despite heavy rains in the central hill country, including the Kandy district, the Victoria reservoir is reported to be drying up due to inadequate rainfall for the Waterproof areas of the Victoria reservoir.
-
-◼️
-
-[Data](articles/e470c699.json)
-
-[Extended Data](ext_articles/e470c699.ext.json)
-
----
-
-### LPL terminates ‘Dambulla Thunders’ franchise with immediate effect
-
-*2024-05-22 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99386/lpl-terminates-dambulla-thunders-franchise-with-immediate-effect) · `en`
-
-The Lanka Premier League (LPL) today announced the termination and the retraction of rights of the “Dambulla Thunders” franchise, effective immediately.
-
-The above decision follows recent developments concerning the legal issues faced by Tamim Rahman, CEO of Imperial Sports Group, the owner of the “Dambulla Thunders” franchise.
-
-“While the specifics of the charges against Mr. Rahman remain unclear, the integrity and smooth running of the Lanka Premier League are of utmost importance,” the LPL said.
-
-The statement further reads: “This termination/retraction of rights aims to uphold the values and reputation of the LPL, ensuring that all participants adhere to the highest standards of conduct and sportsmanship.”
-
-“The LPL management is working diligently to address the consequences of this termination/ retraction of rights and to ensure minimal disruption to the upcoming season.”
-
-...
-
-[Data](articles/fe97cc36.json)
-
-[Extended Data](ext_articles/fe97cc36.ext.json)
-
----
-
-### Ravi Jayasekera to continue as acting chief executive officer for Hemas
-
-*2024-05-22 19:22:00* · [`economynextcom`](https://economynext.com/ravi-jayasekera-to-continue-as-acting-chief-executive-officer-for-hemas-164285/) · `en`
-
-ECONOMYNEXT – Ravi Jayasekera will continue as acting chief executive officer for Hemas Holdings Plc, the company said.
-
-“Ravi Jayasekera has been appointed as the Acting CEO w.e.f. 22nd May 2024 in addition to his current responsibilities as the Chief People Officer of Hemas Holdings PLC. Mr. Ravi Jayasekera in his capacity as the Acting CEO will oversee the affairs of the Company and the Group,” the company said in a stock exchange filing.
-
-“The Board of Directors continues the search for a successor for the position of CEO and has resolved to make the above interim arrangements until a further announcement is made.
-
-Kasturi C Wilson announced her resignation from the position of CEO in October 2023. She continues to serve on the Board of Directors in the capacity of a non-independent non-executive director.
-
-Jayasekera has over 20 years of leadership experience in Human Resources. He was at Union Bank of Colombo PLC immediately prior to joining Hemas.
-
-...
-
-[Data](articles/47337ae1.json)
-
-[Extended Data](ext_articles/47337ae1.ext.json)
 
 ---

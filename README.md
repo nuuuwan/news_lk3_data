@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 12:34:35**
+As of **2024-05-23 12:50:58**
 
 ## Newspaper Stats
 
-*Scraped **25,884** Articles*
+*Scraped **25,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,218
 adaderanalk | 2,974
-tamilmirrorlk | 3,019
+tamilmirrorlk | 3,022
 virakesarilk | 3,937
 dailymirrorlk | 4,070
 adaderanasinhalalk | 4,129
@@ -26,41 +26,69 @@ adaderanasinhalalk | 4,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,875 (100.0%) of 25,884 articles have been extended.
+25,884 (100.0%) of 25,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### பொகவந்தலாவை பிரதான வீதியில் கார் விபத்து ; சிறு குழந்தை உட்பட இருவர் வைத்தியாசாலையில் அனுமதி
+### மின் துண்டிப்புகள் குறித்து விசேட அறிவித்தல்
+
+*2024-05-23 12:31:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-துண்டிப்புகள்-குறித்து-விசேட-அறிவித்தல்/175-337761) · `ta`
+
+சீரற்ற காலநிலை காரணமாக கடந்த மூன்று நாட்களில் ஏற்பட்ட 36,900 க்கும் மேற்பட்ட மின்தடைகள் காரணமாக நாட்டில் 300,000 க்கும் அதிகமான பாவனையாளர்களுக்கு மின்சாரம் துண்டிக்கப்பட்டுள்ளதாக இலங்கை மின்சார சபை பதிவு செய்துள்ளதாக மின்வலு மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+இவ்வாறான நிலைகளைக் கவனிக்க கூடுதல் சேவை ஊழியர்கள் நியமிக்கப்பட்டுள்ளதாகவும், பாதிக்கப்பட்ட நுகர்வோருக்கு மின்சாரத்தை மீண்டும் வழங்க CEB நிர்வாகமும் சேவை ஊழியர்களும் 24 மணிநேரமும் உழைத்து வருவதாகவும் X இல் ஒரு பதிவை வெளியிட்டு அவர் கூறினார்.
+
+CEBஇன் அவசர அழைப்பு 1987 மூலம் மின்சாரம் தடைபடுவதை நுகர்வோர் அறிவிக்க முடியாவிட்டால், அவர்கள் 1987 க்கு குறுஞ்செய்தியைப் பயன்படுத்தலாம். மேலும் CEB Care ஐப் பயன்படுத்தவும் அல்லது http://cebcare.ceb.lk மூலமாகவும் அணுகலாம் என அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0e0afa9d.json)
+
+---
+
+### Car accident on Bogawantalawa main road;Two persons, including a small child, are allowed in hospital
 
 *2024-05-23 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184294) · `ta`
 
-அட்டன்,  பொகவந்தலாவை பிரதான வீதியில் வனராஜா பகுதியில் நேற்று புதன்கிழமை (22) மாலை 4 மணியளவில் கார் ஒன்று சறுக்கி வீதியை விட்டு விலகி கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+A car crash on Bogawantalawa's main road injured two passengers, including a child, and sent them to Dikoya Hospital due to heavy rain.
 
-இந்த விபத்தில் காரில் பயணித்த சிறு குழந்தை உட்பட இருவர் காயமடைந்து டிக்கோயா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த விபத்து கனமழையினால்  இடம்பெற்றுள்ளதாக தெரிவித்த நோர்வூட் பொலிஸார்,   மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+A car crashed off the road at around 4 pm on Wednesday (22) at the Bogawantalawa main road in Bogawantala.
+
+Norwood police said that two people, including a small child who was traveling in the car, were injured and admitted to the Dikoya Hospital.
+
+Norwood police said the accident was caused by heavy rains and is conducting further investigations.
 
 ◼️
 
 [Data](articles/1c73bca8.json)
 
+[Extended Data](ext_articles/1c73bca8.ext.json)
+
 ---
 
-### மரங்கள் முறிந்து வீழ்ந்ததால் தடையேற்பட்டுள்ள பதுளை - கொழும்பு ரயில் சேவை!
+### Badulla - Colombo Rail Service
 
 *2024-05-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184291) · `ta`
 
-மலையகத்திற்கான ரயில் சேவையில் தியத்தலாவை - ஹப்புத்தளைக்கும்  தியத்தலாவை - பண்டாரவளைக்கும் இடையிலான ரயில் மார்க்கத்தில் இன்று வியாழக்கிழமை  (23) காலை பாரிய டர்பெண்டைன் மரங்கள் முறிந்து வீழ்ந்ததால் பதுளைக்கும் - கொழும்பு கோட்டைக்கும் இடையிலான ரயில் சேவை தடைப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Railway service between Badulla and Colombo Fort halted due to tree collapse near Diyathalawa. Trains stopped at Bandarawela and Haputtala stations. Military removing fallen trees; inclement weather blamed.
 
-இதன் காரணமாக பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த  “உடரட்ட  மெனிகே“  ரயில் பண்டாரவளை ரயில் நிலையத்திலும், கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணிக்கும் இரவு அஞ்சல் ரயில் ஹப்புத்தளை ரயில் நிலையத்திலும் நிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும், சீரற்ற காலநிலையுடன் ரயில் பாதையில் மரங்கள் வீழ்ந்துள்ளதுடன், தியத்தலாவை இராணுவ முகாம் அதிகாரிகள் ரயில் பாதையில் விழுந்த மரங்களை அப்புறப்படுத்தும் பணிகளில் ஈடுபட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+The Railway Department said that the railway service between the Badulla and the Colombo Fort has been blocked due to the collapse of massive turpentine trees on the railway line between Diyathalawa - Haputtalai and Diyathalawa - Bandarawa.
+
+As a result, the "Udaratta Menige" train from Badulla to Colombo Fort has been stopped at the Bandarawela railway station and the night posting from Colombo Fort to Badulla at Haputtala railway station.
+
+The Railway Department said that the trees have fallen on the railway line with inclement weather and the Diyathalawa military authorities are engaged in the removal of trees that have fallen on the railway track.
 
 ◼️
 
 [Data](articles/f6006d21.json)
+
+[Extended Data](ext_articles/f6006d21.ext.json)
 
 ---
 
@@ -82,17 +110,25 @@ He said in a statement on X that additional service staff has been assigned to a
 
 ---
 
-### தேர்தல் இடம்பெறவுள்ளதால் வரவு - செலவு திட்டம்  ஜனவரி அல்லது பெப்ரவரியிலேயே சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+### The budget will be presented in January or February as the election is due - the President
 
 *2024-05-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184288) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் ஜூனில் இலங்கை வரவுள்ளது. அவர்களுடனான பேச்சுவார்த்தைகள் நிறைவடைந்ததன் பின்னர் அந்த திட்டம் 2025 வரவு செலவுத் திட்டத்துடன் நடைமுறைப்படுத்தப்படும். தேர்தல் நடத்தப்பட இருப்பதால் ஜனவரி அல்லது பெப்ரவரியில் வரவு - செலவு திட்டம் சமர்ப்பிக்கப்படவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+The President plans to present the budget in January or February, aiming for economic recovery post-elections. IMF representatives visit in June for a project starting with the 2025 budget. Economic improvement efforts include negotiations with lenders and implementing measures like legalizing the National Security Council and improving retired security personnel's lives.
 
-பத்தரமுல்ல அக்குரேகொட, பாதுகாப்பு அமைச்சு வீதியில் நிர்மாணிக்கப்பட்டுள்ள இலங்கை முன்னாள் படைவீரர்கள் சங்கத்தின் தலைமையக வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
+
+Representatives of the International Monetary Fund are coming to Sri Lanka in June. The project will be implemented with the 2025 budget after the negotiations are completed. President Ranil Wickremesinghe said the budget would be presented in January or February as the elections were held.
+
+He further stated that he was speaking at the inauguration of the Headquarters of the former Sri Lankan Veterans Association, which was built at the Ministry of Defense, Battaramulla Akuregoda, Battaramulla.
+
+His first task was to strengthen the country's economy after taking over the country. In the coming four years, the resolutions to be taken for the economy of the country had to be quickly. The country is currently improveing economically. Negotiations are now being negotiated with the countries that have been lenting over the full relief from the bankruptcy.  The International Monetary Fund has already accepted the ongoing tasks.
 
 ...
 
 [Data](articles/58039847.json)
+
+[Extended Data](ext_articles/58039847.ext.json)
 
 ---
 
@@ -126,13 +162,19 @@ We immediately contacted the Mannar District Government Agent and informed the i
 
 ---
 
-### ஜனாதிபதித் தேர்தலே முதலில் இடம்பெறும்  அமைச்சரவையில் தெளிவாக அறிவித்தார் ரணில்
+### Ranil clearly declared in the cabinet of the presidential election
 
 *2024-05-23 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184287) · `ta`
+
+President Ranil Wickremesinghe clarified during a cabinet meeting that the presidential election, as per the constitution, will be conducted before any other election. He emphasized the importance of completing international debt restructuring, including agreements with the IMF and support from countries like India, Japan, France, and China. The election date is expected to be confirmed soon, between September 16 and October 17, aligning with the advice of the Election Commission.
+
+🟩
 
 ...
 
 [Data](articles/d057ff27.json)
+
+[Extended Data](ext_articles/d057ff27.ext.json)
 
 ---
 
@@ -154,21 +196,29 @@ Heavy traffic congestion was observed in the areas as a result, however, efforts
 
 ---
 
-### உலக பொருளாதார பேரவை  வெளியிட்ட சுற்றுலா தரவரிசையில் இலங்கைக்கு 76 வது இடம்
+### Sri Lanka is ranked 76th in the Tourist rankings released by the World Economic Forum
 
 *2024-05-23 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184292) · `ta`
 
-உலக பொருளாதார பேரவை ‘பயணம் மற்றும் சுற்றுலா மேம்பாட்டு குறியீடு 2024’ என்ற தலைப்பில்  உலக நாடுகளின் சுற்றுலாசெயல்பாடுகளை தரவரிசைபடுத்தியுள்ளது.
+Sri Lanka dropped from 74th to 76th in the World Economic Forum's 2024 Travel & Tourism Development Index, reflecting poor scores in services and infrastructure but high marks in competitiveness, price, and tourism's socio-economic impact. Despite the fall, it ranks higher than regional competitors like Vietnam, Thailand, Indonesia, and Malaysia, and is the highest-ranked country in South Asia after India.
+
+🟩
+
+The World Economic Forum has been ranked World Travel and Tourism Development Code 2024.
 
 குறிப்பாக, இலங்கை சுற்றுலா சேவைகள் மற்றும் உள்கட்டமைப்பு, கலாச்சார வளங்கள் மற்றும் பொழுதுபோக்கு  அல்லாத செயற்பாடுகள் பிரிவுகளில் மோசமான மதிப்பெண் பெற்றுள்ளது, அதே நேரத்தில் போட்டித்தன்மை மிக்க விலை மற்றும் பயணம், சுற்றுலா சமூக பொருளாதார தாக்கம் ஆகியவற்றில் அதிக மதிப்பெண் பெற்றுள்ளது.
 
-இந்நிலையில், இந்தப் பட்டியலில் 2021 ஆம் ஆண்டு 74-வது இடத்தில் இருந்த இலங்கை,  தற்போது 119 நாடுகளில் தரவரிசையில் 76 ஆவது இடத்துக்கு சரிந்துள்ளது. 2019 ஆம் ஆண்டு இலங்கை 77 ஆவது இடத்தை பிடித்திருந்தது.
+In this case, Sri Lanka, which was ranked 74th in 2021, fell to 76th in 119 countries.. 2019 ஆம் ஆண்டு இலங்கை 77 ஆவது இடத்தை பிடித்திருந்தது.
 
-இதேவேளை, இலங்கையின் போட்டியாளர்களான வியட்நாம் (59வது), தாய்லாந்து (47வது), இந்தோனேசியா (22வது) மற்றும் மலேசியா (35வது) ஆகியவை சுட்டெண்ணில் இலங்கைக்கு மேலே தரவரிசையில் உள்ளன. மேலும், தெற்காசியாவில் இந்தியா (39வது) முதலிடத்திலும், இலங்கை இரண்டாவது இடத்திலும் உள்ளது.
+Meanwhile, Sri Lankan rivals Vietnam (59th), Thailand (47th), Indonesia (22nd) and Malaysia (35th) are ranked above Sri Lanka above Sri Lanka.. Also, India (39th) in South Asia is the first and Sri Lanka is second.
 
-...
+இந்தப் பட்டியலில் அமெரிக்கா முதல் இடத்தில் உள்ளது. அதைத் தொடர்ந்து ஸ்பெயின், ஜப்பான், பிரான்ஸ், அவுஸ்திரேலியா ஆகிய நாடுகள் உள்ளன.
+
+◼️
 
 [Data](articles/ca31db4d.json)
+
+[Extended Data](ext_articles/ca31db4d.ext.json)
 
 ---
 
@@ -258,19 +308,43 @@ The petitioners are further seeking an order directing the Sri Lanka Railways to
 
 ---
 
-### ஜனாதிபதி ரணில் விக்கிரமசிங்க நாளை வடக்கிற்கு விஜயம்
+### சீரற்ற காலநிலையால் நால்வர் மரணம்
+
+*2024-05-23 11:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-நால்வர்-மரணம்/175-337757) · `ta`
+
+நாட்டில் தொடர்ச்சியாக நிலவி வருகின்ற சீரற்ற காலநிலையின் பொருட்டு இதுவரையில் நான்கு பேர் உயிரிழந்துள்ளதாகப் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+
+இமதுவ, ராஸ்ஸகல ,மாதம்பே மற்றும் நாத்தாண்டிய ஆகிய பிரதேசங்களைச் சேர்ந்த நால்வரே இவ்வாறு அனர்த்தத்திற்குள்ளாகியுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+மேலும், சீரற்ற காலநிலை காரணமாக 11 மாவட்டங்களில் உள்ள 67,591 பேர் பாதிக்கப்பட்டுள்ளதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8e3f6e43.json)
+
+---
+
+### President Ranil Wickremesinghe visits North tomorrow
 
 *2024-05-23 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184286) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்து கொள்வதற்காக நாளை வெள்ளிக்கிழமை வடக்கிற்கு விஜயம் செய்யவுள்ளார். 3 நாட்கள் விஜயமாக வடக்கு செல்லும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+President Ranil Wickremesinghe embarks on a 3-day visit to the North, focusing on development projects without political meetings. Key activities include issuing land licenses, attending a youth meeting, opening medical facilities, and appointing graduate teachers.
 
-அத்தோடு வடக்கில் இளைஞர்களுடன் ஜனாதிபதி விசேட சந்திப்பொன்றிலும் கலந்து கொள்ளவுள்ளார். யாழ்ப்பாண பல்கலைக்கழகத்தில் மருத்துவ பீடத்தில் பயிற்சி பிரிவொன்றையும் ஜனாதிபதி திறந்து வைக்கவுள்ளார். இதேவேளை கிளிநொச்சி வைத்தியசாலையில் பெண்கள் சுகாதார பிரிவொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது.
+🟩
 
-வவுனியா மாவட்ட வைத்தியசாலையில் இதய நோய் பிரிவும், மாங்குளம் ஆதார வைத்தியசாலையில் புதிய விடுதியொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது. இவை தவிர யாழ்ப்பாணத்தில் பட்டதாரி ஆசிரியர்களுக்கு நியமனம் வழங்கும் நிகழ்விலும் ஜனாதிபதி பங்கேற்கவுள்ளார்.
+President Ranil Wickremesinghe will visit the North tomorrow to attend various events. President Ranil Wickremesinghe, who is on a 3 -day visit to the North, will issue land licenses under the National Program in Jaffna, Mullaitivu, Kilinochchi and Vavuniya districts.
 
-...
+The President will also attend a special meeting with the youth in the North. The President will also open a training unit at the Faculty of Medicine at the University of Jaffna. Meanwhile, a women's health unit will be opened by the President at the Kilinochchi Hospital.
+
+The President will open a heart disease at Vavuniya District Hospital and a new hotel at Mankulam Resource Hospital. The President will also attend the appointment of graduate teachers in Jaffna.
+
+The President will participate in 10 major events. Special attention will be paid to the development projects in the North.. However, it is reported that no political meetings are planned.
+
+◼️
 
 [Data](articles/5356b325.json)
+
+[Extended Data](ext_articles/5356b325.ext.json)
 
 ---
 
@@ -289,6 +363,24 @@ A press conference to inform the Cabinet decisions has been launched in the Info
 [Data](articles/445481f5.json)
 
 [Extended Data](ext_articles/445481f5.ext.json)
+
+---
+
+### டாசன் பங்களாவை விற்பது குறித்து கேள்வி
+
+*2024-05-23 11:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாசன்-பங்களாவை-விற்பது-குறித்து-கேள்வி/175-337756) · `ta`
+
+கேகாலை மாவட்டத்தில் அமைந்துள்ள வரலாற்று சிறப்புமிக்க டாசன் பங்களாவை விற்கும் நடவடிக்கை குறித்து ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் கபீர் ஹாசிம் நேற்று பாராளுமன்றத்தில் கேள்வி எழுப்பினார்.
+
+"பங்களாவை விற்கும் நடவடிக்கை குறித்து அந்த பங்களாவின் ஊழியர்கள் தெரிவித்திருந்தனர். இன்றுவரை தங்கள் கருத்துக்கு அழைப்பு விடுக்கப்படவில்லை என்று அவர்கள் தெரிவித்தனர்" என்று எம்.பி. கூறினார்.
+
+"ஒரு காலத்தில் கொழும்பு கண்டி வீதியை அமைப்பதில் முக்கிய பங்காற்றிய பிரித்தானியர் டாவ்சனின் வசிப்பிடமாக இருந்ததால் இந்த பங்களா வரலாற்று முக்கியத்துவம் வாய்ந்தது" என்று அவர் கூறினார்.
+
+இந்த பங்களாவை விற்பனை செய்வதற்கு பதிலாக அருங்காட்சியகமாக மாற்ற வேண்டும் என பாராளுமன்ற உறுப்பினர் ஹாசிம் யோசனை தெரிவித்துள்ளார். இந்த பங்களா தற்போது வீதி அபிவிருத்தி அதிகார சபைக்கு சொந்தமானது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4999588f.json)
 
 ---
 
@@ -348,19 +440,25 @@ That is why a private bus along the Maharagama or Homagama route has traveled fr
 
 ---
 
-### மோட்டார் சைக்கிளில் சென்றவர் மரத்தில் மோதி உயிரிழப்பு!
+### A motorbike collides with a tree
 
 *2024-05-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184285) · `ta`
 
-ஹங்வெல்ல பிரதேசத்தில் வீசிய பலத்த காற்றினால் வீதியில் விழுந்த மரத்தில் மோதி மோட்டார் சைக்கிளில் சென்ற நபரொருவர்  இன்று வியாழக்கிழமை (23) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Upul Anurutha Dehiwala Liyanage, a 47-year-old father of two, died when his motorcycle collided with a fallen tree blocking the road. He was transporting fuel for the Vesak festival.
 
-உயிரிழந்தவர் மற்றொரு குழுவினருடன் வெசாக் பண்டிகைக்கால உணவு வழங்கும் நிகழ்வை ஏற்பாடு செய்வதற்கான  மின் உற்பத்திக்கான எரிபொருளை எடுத்து வந்து கொண்டிருந்த போது வீதியின் குறுக்கே விழுந்த மரத்தில் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், உயிரிழந்த நபர் 47 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையான உபுல் அநுருத்த தெஹிவல லியனகே என்பவராவார்.
+A man who was traveling on a motorcycle was killed today (23), police said, police said.
+
+Police said that the deceased crashed into a tree that fell across the road while carrying the fuel for power generation to arrange the Vesak festival with another group.
+
+In addition, the deceased is Upul Anurutha Dehiwala Liyanage, the father of two children aged 47.
 
 ◼️
 
 [Data](articles/65ba1119.json)
+
+[Extended Data](ext_articles/65ba1119.ext.json)
 
 ---
 
@@ -2127,71 +2225,5 @@ In 1975, he completed a 100m and 200m breaststroke double at world level and was
 [Data](articles/3f1d0cde.json)
 
 [Extended Data](ext_articles/3f1d0cde.ext.json)
-
----
-
-### SJB trying to copy our economic policies: Hadunnetti
-
-*2024-05-22 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-trying-to-copy-our-economic-policies-Hadunnetti/108-283178) · `en`
-
-Colombo, May 22 (Daily Mirror)- Claiming that they have no issues in haiving a debate with the Samagi Jana Balawegaya (SJB) economic council, NPP economic council member Sunil Handunetti said today the SJB was trying to convince society that they are also ready to implement the economic policies of the NPP.
-
-He told a news conference of the NPP economic council that the SJB has started to repeat the same economic facts uttered by the NPP.
-
-Hadunnetti said he, Harsha De Silva, Eran Wickramaratne and Kabir Hashim had participated in a number of TV debates and that later they had change what they had said earlier.
-
-The SJB was trying to convince the society that they are also ready to implement the same economic policies of the NPP and added that they appear before the people with the NPP's economic policies.
-
-...
-
-[Data](articles/82cc7443.json)
-
-[Extended Data](ext_articles/82cc7443.ext.json)
-
----
-
-### President announces special govt program for welfare of retired war veterans
-
-*2024-05-22 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99387/president-announces-special-govt-program-for-welfare-of-retired-war-veterans) · `en`
-
-President Ranil Wickremesinghe announced the implementation of a new program aimed at improving the living conditions of retired security forces members, the President’s Media Division reported.
-
-The President highlighted that, in the absence of a dedicated program, some veterans have faced difficult situations. Consequently, the President has directed the State Minister of Defence, the Ministry of Defence, and the Ranaviru Seva Authority to give special attention to this matter.
-
-President Ranil Wickremesinghe made this statement today, (22), during the inauguration of the headquarters complex of the Sri Lanka Ex-Servicemen’s Association, also known as the ‘Home of Veterans,’ located at Defence Ministry Avenue in Akuregoda, Battaramulla.
-
-The President emphasized the government’s commitment to the welfare of retired war heroes, announcing that those residing in war hero villages will be granted free land rights under the ‘Urumaya’ National Program.
-
-...
-
-[Data](articles/ebec6890.json)
-
-[Extended Data](ext_articles/ebec6890.ext.json)
-
----
-
-### Here is the truth in social media the turbulent video
-
-*2024-05-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196918) · `si`
-
-A viral video shows a heated exchange between a police officer and a three-wheeler driver in Sri Lanka. Police claim the video is edited, highlighting discrepancies like different addresses and licenses. The driver faces a fine under a court order.
-
-🟩
-
-A controversial talk between a police officer and a driver of a three-wheeler from Avissawella to Galigamuwa is currently circulated in the social media.
-
-Police Media Spokesperson, DIG's, spokesman Nihal Talduuwa said that the video was edited.
-
-The incident had occurred between a police officer and three-wheeler driver at the Tendeniya police officer.
-
-Police Media Spokesperson, DIG's Pressure, Thadduwa, speaking to this
-
-The driver has been as another person. The revenue license and the address of the insurance certificate is different. The driver is a resident of another area. These factors have been doubtful. Regarding the consent of the vehicle. According to the court order. 5,000 had to pay a fine. "
-
-◼️
-
-[Data](articles/d714336d.json)
-
-[Extended Data](ext_articles/d714336d.ext.json)
 
 ---

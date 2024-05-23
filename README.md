@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 22:33:59**
+As of **2024-05-23 22:52:26**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,971 (100.0%) of 25,972 articles have been extended.
+25,972 (100.0%) of 25,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### කෑම ටිකක් කාලා යන්න ඔබත් එන්න
+### Come on some food and come
 
 *2024-05-23 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196954) · `si`
 
-ශ්‍රී ලංකාවේ ලොකුම දන්සල ටීවී දෙරණ සංවිධායකත්වයෙන් කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රයේදී මේ වනවිට පැවැත්වෙයි.
+"Derana Dansala, Sri Lanka's largest event, is happening now at Independence Square, open 24/7."
 
-24 පැය පුරා පැවැත්වෙන දෙරණ දන්සල ට පැමිණෙන ඔබට ප්‍රණීත ආහාර වේලක රස බැලීමට අවස්ථාව හිමිවෙයි.
+🟩
+
+Sri Lanka's biggest Daseline is currently being held at the Independence Square premises.
+
+You will come to Derana Dansala at the time of 24 hours.
 
 ◼️
 
 [Data](articles/7489b9a4.json)
+
+[Extended Data](ext_articles/7489b9a4.ext.json)
 
 ---
 

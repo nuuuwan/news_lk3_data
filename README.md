@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 19:51:53**
+As of **2024-05-23 20:03:48**
 
 ## Newspaper Stats
 
-*Scraped **25,953** Articles*
+*Scraped **25,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,79 @@ islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,222
-adaderanalk | 2,979
+adaderanalk | 2,980
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
 dailymirrorlk | 4,085
-adaderanasinhalalk | 4,143
+adaderanasinhalalk | 4,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,949 (100.0%) of 25,953 articles have been extended.
+25,953 (100.0%) of 25,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### අද මිත්‍යාවෙන් ඉවත්වී විද්‍යාවට නැඹුරු වෙනවා - ජනපති
+### යතුරුපැදියක් දුම්රියේ ගැටී තිදෙනෙක් මරුට
+
+*2024-05-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196949) · `si`
+
+බූස්ස පින්තාලිය දුම්රිය හරස් මාර්ගයේදී යතුරුපැදියක් දුම්රියේ ගැටීමෙන් තිදෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+මරදානේ සිට මාතර බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+
+පොලීසිය පැවසුවේ අනතුරින් මියගොස් ඇත්තේ වයස අවුරුදු 17ත් 19ත් අතර තරුණයන් තිදෙනෙකු බවය.
+
+◼️
+
+[Data](articles/0cdfb588.json)
+
+---
+
+### Three youths killed as train hits motorcycle in Boossa
+
+*2024-05-23 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99403/three-youths-killed-as-train-hits-motorcycle-in-boossa) · `en`
+
+Three youths have been killed after a train collided with a motorcycle at the Pintaliya railway crossing in Boossa, the police said.
+
+The motorcycle had collided with a Matara-bound train from Maradana.
+
+Police said that the deceased youths have been identified to be aged between 17 and 19 years.
+
+◼️
+
+[Data](articles/3b466a6b.json)
+
+---
+
+### Science tends to resign today - President
 
 *2024-05-23 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196948) · `si`
 
-විද්‍යාව සහ තාක්ෂණය සමඟ වේගයෙන් ඉදිරියට යන ලෝකයට මුහුණදීමට සිදුවන ගැටළු සඳහා ථේරවාද බුදුදහම තුළ විසඳුම් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlights Theravada Buddhism as a solution to modern challenges, emphasizing its role in preserving Buddhist principles amidst rapid technological advancements. He speaks at the State Vesak Festival, noting the importance of safeguarding Buddhism's essence and the need for increased attention to its teachings.
 
-ථේරවාද බුදු දහමේ නියම හරය ආරක්ෂා කර ගනිමින් එය ලෝකය වෙත ගෙන යාමට කටයුතු කළයුතු බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (23) පෙරවරුවේ මාතලේ ධර්මරාජ පිරිවෙන් විහාරස්ථානයේ පැවති රාජ්‍ය වෙසක් උත්සවය මාර්ගගත ක්‍රමය ඔස්සේ අමතමිනි.
+President Ranil Wickremesinghe says that the Theravada Buddhism is solutions to the problems faced with science and technology.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රාජ්‍ය වෙසක් උත්සවයට සහභාගිවීමට නියමිතව තිබුණද, අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ජනාධිපතිවරයා ඊට සහභාගි නොවුණි.
+The President pointed out that the Theravada Buddhism is to protect it to the world, protecting the right core of Buddhism.
 
-"මාතලේ දිස්ත්‍රික්කය අපේ ථේරවාද බුදු දහමේ වැදගත් ස්ථානයක් බව කිවයුතුයි. ත්‍රිපිටකය ග්‍රන්ථාරූඩ කිරීම සිදු වූයේ මේ මාතලේ අළුවිහාරයේදීයි. ඒ නිසා බුදුන් වහන්සේගේ ධර්මය ආරක්ෂා වෙලා තිබෙනවා. අප ථේරවාද බුදු දහම පිළිබඳ වැඩි වැඩියෙන් අවධානය යොමු කළයුතුයි.
+President Ranil Wickremesinghe addressing the State Vesak Festival at Dharmaraja Pirivena Viharaya today (23).
+
+Although President Ranil Wickremesinghe was due to attend the State Vesak Festival, the President did not participate in the inclement weather.
+
+"The Matale district is to be an important place in Buddhism Buddhism. Tripitaka gathering took place at Wahuhayawa. So the Buddha's Dhamma has been protected. We need to pay more and more attention to the Theravada Buddhism.
+
+The Maha Sangha is not the only one who was born in the Anuradhapura period. The education of the world was the opinion of such education to launch the main irrigation system in Sri Lanka.
 
 ...
 
 [Data](articles/44b79b9a.json)
+
+[Extended Data](ext_articles/44b79b9a.ext.json)
 
 ---
 
@@ -67,6 +107,8 @@ Addressing the function , Chinese Ambassador Qi Zhenhong said that China is the 
 ...
 
 [Data](articles/4f1d663c.json)
+
+[Extended Data](ext_articles/4f1d663c.ext.json)
 
 ---
 
@@ -88,21 +130,29 @@ The 48-year-old passenger has been identified as a resident of Chilaw and a regu
 
 [Data](articles/54705246.json)
 
+[Extended Data](ext_articles/54705246.ext.json)
+
 ---
 
-### කොළඹ-නුවර පාරේ යන අයට දැනුම්දීමක්
+### Notice to Colombo-Kandy road
 
 *2024-05-23 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196947) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ රථ වාහන ධාවනය කරන රියදුරන්ට අවධානයෙන් ගමන් කරන ලෙසට දැනුම්දීමක් සිදුකර තිබේ.
+Drivers on Colombo-Kandy road should be cautious due to potential hazards from soil, stones, and trees near Kadugannawa caused by adverse weather conditions. This alert is issued without official disaster management announcements from Kegalle.
 
-ඒ අයහපත් කාලගුණය හේතුවෙන් පහළ කඩුගන්නාව ප්‍රදේශයේදී මාර්ගයට පස්, ගල් සහ ගස් කඩා වැටීමේ අවදානමක් පවතින බැවිනි.
+🟩
 
-කෑගල්ල ආපදා කළමනාකරණ මධ්‍යස්ථාන නිවේදනයක් නිකුත් කරමින් මේ බව දැනුම්දෙයි.
+The drivers of Colombo-Kandy main road have been notified to travel.
+
+The road is at a risk of soil, stones and trees in the lower Kadugannawa area due to bad weather.
+
+This is not informed by a disaster management center announcement in Kegalle.
 
 ◼️
 
 [Data](articles/d4a1d4ce.json)
+
+[Extended Data](ext_articles/d4a1d4ce.ext.json)
 
 ---
 
@@ -2221,55 +2271,5 @@ Meanwhile, the Minister further stated that the electricity consumers have a cal
 [Data](articles/e9da174c.json)
 
 [Extended Data](ext_articles/e9da174c.ext.json)
-
----
-
-### Customs will begin auction preparations next week
-
-*2024-05-23 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-will-begin-auction-preparations-next-week/108-283217) · `en`
-
-Colombo, May 23 (Daily Mirror) - Preliminary work related to conducting all auctions in the Customs Department will be started next week, Finance State Minister Ranjith Siyambalapitiya said.
-
-He pointed out that all parties can participate in the relevant auctions from home without any influence.
-
-"In several instances, reports indicated that various groups were involved in influencing customs clearance of goods," he said.
-
-He said that this step was taken to provide a successful solution to the entire process in which such situations may arise in order to find remedies for the incident.
-
-He further stated that next week, tenders will be invited to provide the relevant services.
-
-◼️
-
-[Data](articles/734c4d18.json)
-
-[Extended Data](ext_articles/734c4d18.ext.json)
-
----
-
-### President's Vesak Day News
-
-*2024-05-23 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184269) · `ta`
-
-Vesak Day honors Buddha's birth, wisdom, and enlightenment. Celebrated worldwide by Buddhists with devotion through lighting lamps and worship. The President emphasizes unity across races, religions, and parties, urging adherence to Buddha's teachings for a wise and virtuous society.
-
-🟩
-
-Vesak Day is the sacred day of the world Buddhists who commemorate the birth, wisdom and transformation of Gautama Buddha.
-
-Buddhists at home and abroad celebrate this with great devotion, giving lighting the lights, prioritizing worship.
-
-In this dilemma, we must all be raised as a country, the great commitment that the Buddha had in order to enlightened on the teachings of the Gautama Buddha, "We will sacrifice today."
-
-Today we must recall the Buddhist doctrine that performs "Chapatha Sammanaso" equally. Likewise, it is necessary to make sure that it is practically implemented as a country.
-
-We must follow this country, which is all built together, regardless of race, religion, caste and party.. It will guide the teachings of the Buddha.
-
-In his congratulatory message, the President said that the main purpose of this Vesak festival is to create a great wisdom wishes to all, to create a spiritual and decent 'man' in the world that moves towards rapid physical growth.
-
-◼️
-
-[Data](articles/2aae801c.json)
-
-[Extended Data](ext_articles/2aae801c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 00:51:25**
+As of **2024-05-24 01:03:34**
 
 ## Newspaper Stats
 
@@ -780,7 +780,7 @@ Motorists using the Colombo-Kandy main road are advised to be vigilant as there 
 
 ---
 
-### Sri Lanka to eyes private battery systems to counter renewable power instability
+### Sri Lanka eyes private battery systems to counter renewable power instability
 
 *2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 14:04:11**
+As of **2024-05-23 14:18:29**
 
 ## Newspaper Stats
 
-*Scraped **25,901** Articles*
+*Scraped **25,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,63 @@ adaderanalk | 2,975
 tamilmirrorlk | 3,025
 virakesarilk | 3,942
 dailymirrorlk | 4,071
-adaderanasinhalalk | 4,133
+adaderanasinhalalk | 4,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,897 (100.0%) of 25,901 articles have been extended.
+25,901 (100.0%) of 25,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ශාරුක් ඛාන් රෝහල්ගත කෙරේ
+### ගසක් කඩා වැටී තවත් තරුණියක් ජීවිතක්ෂයට
+
+*2024-05-23 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196936) · `si`
+
+මුන්දලම 61 හංදිය ප්‍රදේශයේ මාර්ගයක යතුරු පැදියකින් ගමන් කරමින් සිටි තරුණියන් දෙදෙනෙකු මතට අද (23) දහවල් ගසක් කඩා වැටී එක් තරුණියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනෙක් තරුණිය බරපතළ තත්ත්වයෙන් මේ වනවිට හලාවත රෝහලට ඇතුළත් කර ඇතැයි මුන්දලම පොලීසිය පවසයි.
+
+සිදුවු අනතුරින් ජීවිතක්ෂයට පත්ව ඇත්තේ 23 හැවිරිදි මුන්දලම දේවාල හංදිය, විල්පොත ප්‍රදේශයේ පදිංචි තරුණයකි.
+
+අදාළ තරුණියන් දෙදෙනා විල්පොත සිට හලාවත දෙසට යතුරු පැදියකින් ගමන් කරමින් සිටියදී මාර්ග අසල තිබු ගසක් හමා ආ සුළඟත් සමග එකවර මෙම තරුණියන් දෙදෙනා ගමන්ගත් යතුරුපැදිය මතට කඩා වැටී තිබේ.
+
+ප්‍රදේශවාසීන් ගස ඉවත් කර ඇති අතර, ගසට යට වීමෙන් එක් තරුණියක් බරපතළ තුවාල ලබා ඇත.
+
+මේ අතර අද උදෑසන වනවිට අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ පුද්ගල මරණ සංඛ්‍යාව 05 දක්වා ඉහළ ගොස් තිබිණි.
+
+තද වැසි සමග ඇතිවූ දැඩි සුළං තත්ත්වය හේතුවෙන් ගස් කඩා වැටීම්, දේපළ හා නිවාස ඇතුළු සිදුවීම් රැසක් වාර්තා වුණි.
+
+ඇඳහැලුණු වර්ෂාවත් සමඟ හංවැල්ල වග ප්‍රදේශයේ මාර්ගයකට කඩා වැටුණු පුළුන් ගසකට යටවීමෙන් යතුරු පැදියක ගමන් කරමින් සිටි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+...
+
+[Data](articles/e7a0388b.json)
+
+---
+
+### Shah Khan hospitalized
 
 *2024-05-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196935) · `si`
 
-ඉන්දිය සිනමාවේ 'කිං ඛාන්' ලෙස හැදින්වෙන සුපිරි බොලිවුඩ් නළු ශාරුක් ඛාන් රෝහල්ගත කර තිබේ.
+"Shah Rukh Khan, dubbed 'King Khan,' is hospitalized due to dehydration affecting his body's ability to regulate heat. Despite being stable, he remains under medical observation."
 
-ඒ ශරීරයට අධික උණුසුම පාලනය කරගත නොහැකි වීමෙන් විජලනයෙන් ඇතිවූ රෝගී තත්ත්වයත් හේතුවෙනි.
+🟩
 
-මේ වනවිට ඔහුගේ තත්ත්වය යහපත් වුවත් ඔහු තවදුරටත් වෛද්‍ය අධික්ෂණය යටතේ පසුවන බව වාර්තා වේ.
+Shark Khan, known as 'King Khan' of Indian cinema, has been hospitalized.
+
+The body cannot control heat, by the impact of dehydration.
+
+Although his condition is good, he is still under medical supervision.
 
 ◼️
 
 [Data](articles/eff96ed3.json)
+
+[Extended Data](ext_articles/eff96ed3.ext.json)
 
 ---
 
@@ -80,21 +112,27 @@ The funeral of the president is the President's birthday in the Holy City of Mas
 
 ---
 
-### ஊசி போட்ட இளைஞன் திடீர் மரணம்
+### The young man injections
 
 *2024-05-23 13:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊசி-போட்ட-இளைஞன்-திடீர்-மரணம்/175-337766) · `ta`
 
-விபத்தில் தீக்காயம் அடைந்து சிகிச்சைக்காக கொழும்பில் உள்ள தேசிய மருத்துவமனையில் அனுமதிக்கப்பட்ட முப்பத்தொரு வயது ஆண் நுண்ணுயிர் தடுப்பூசி போட்ட சிறிது நேரத்திலேயே உயிரிழந்ததாக தகவல்கள் தெரிவிக்கின்றன.
+A 31-year-old man died suddenly after receiving a Cefuroxime injection at the National Hospital in Colombo. Authorities have suspended the use of the drug, produced by Opsonin Pharma Limited, due to a severe adverse reaction. An investigation is underway to determine the cause.
 
-ஆதாரங்களின்படி, நோயாளி அறை எண். 17 க்கு வந்தவுடன் Cefuroximeசெலுத்தப்பட்டதாகக் கூறப்படுகிறது, இது அவரது திடீர் மரணத்திற்கு வழிவகுத்தது.
+🟩
 
-இந்த சம்பவத்திற்கு பதிலளிக்கும் விதமாக, அதிகாரிகள் பங்களாதேசின் Opsonin Pharma Limited தயாரித்த Cefuroxime Injection 750mg Vial (SR: 00101406) தொகுப்பின் VLL040 தொகுப்பை தற்காலிகமாக நிறுத்தி வைத்துள்ளனர்.
+According to reports, a thirty -one -year -old man who was admitted to the National Hospital in Colombo died shortly after the accident.
 
-எவ்வாறாயினும், இந்த கடுமையான பாதகமான மருந்து எதிர்வினையின் (ADR) காரணத்தை கண்டறிய வைத்தியசாலை மற்றும் சுகாதார அதிகாரிகள் முழுமையான விசாரணையை மேற்கொண்டு வருகின்றனர்.
+According to the sources, the patient's room number. Cefuroxime is said to have been paid when it arrived at 17, which led to his sudden death.
+
+In response to the incident, authorities have suspended the VL040 set of the CEFUROXIME INJECTION 750MG Vial (SR: 00101406), produced by Bangladesh's Opsonin Pharma Limited.
+
+However, hospital and health officials are conducting a thorough investigation to identify the cause of this severe adverse reaction (ADR).
 
 ◼️
 
 [Data](articles/4ddec774.json)
+
+[Extended Data](ext_articles/4ddec774.ext.json)
 
 ---
 
@@ -162,6 +200,8 @@ However, the hospital and health authorities are conducting a thorough investiga
 
 [Data](articles/c2ba0e80.json)
 
+[Extended Data](ext_articles/c2ba0e80.ext.json)
+
 ---
 
 ### Rain with heavy winds in Nuwara Eliya
@@ -194,21 +234,27 @@ Also, due to the continuous rainfall weather, the Nuwara Eliya district is full 
 
 ---
 
-### காலநிலை குறித்து மீண்டும் சிவப்பு எச்சரிக்கை
+### Red warning again on the climate
 
 *2024-05-23 13:10:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-குறித்து-மீண்டும்-சிவப்பு-எச்சரிக்கை/175-337765) · `ta`
 
-நாட்டில் தொடர்ச்சியாக நிலவி வரும் பலத்த காற்று மழை தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு அறிவித்தலை விடுத்துள்ளது.
+The Department of Meteorology warns of severe weather due to continuous heavy rains across the country, with the southwest monsoon intensifying conditions. Areas like Sabaragamuwa Province, Kandy, Nuwara Eliya, and parts of the Western, Northwestern, Mannar, Galle, and Matara districts may experience heavy rainfall exceeding 150mm.
 
-நாட்டில் நிலவும் தென்மேற்கு பருவமழை காரணமாக மழை மற்றும் காற்றின் நிலைமை தொடர்ந்து அதிகரிக்கும் என திணைக்களத்தின் புதிய அறிவித்தலில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-சப்ரகமுவ மாகாணத்திலும் கண்டி மற்றும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 150 மில்லி மீற்றருக்கும் அதிகளவான கனமழை பெய்யக்கூடும் என குறிப்பிடப்பட்டுள்ளது.
+The Department of Meteorology has issued a red announcement regarding continuous heavy rains in the country.
 
-அதேவேளை, மேல், வடமேல் மாகாணங்களிலும் மன்னார், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The southwest monsoon in the country will continue to increase the situation in the country, the department's new announcement said.
+
+Heavy rains are expected to be 150 millimeters in some areas in the Sabaragamuwa Province and Kandy and Nuwara Eliya district.
+
+Meanwhile, the Department of Meteorology has announced that heavy rainfall is expected in some places in the Western and North Western Provinces and Mannar, Galle and Matara districts.
 
 ◼️
 
 [Data](articles/96c26fb7.json)
+
+[Extended Data](ext_articles/96c26fb7.ext.json)
 
 ---
 
@@ -2243,23 +2289,5 @@ Dissanayake said that the state amnesty included 15 prisoners from the Welikada 
 [Data](articles/44f44b79.json)
 
 [Extended Data](ext_articles/44f44b79.ext.json)
-
----
-
-### Economic Transformation Bill, political transformation effects and Lanka’s legitimate war
-
-*2024-05-23 01:29:13* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Bill-political-transformation-effects-and-Lanka-s-legitimate-war/4-762132) · `en`
-
-“…Foreign investments shall be permitted into all sectors and regions of Sri Lanka. Foreign investors shall be permitted to own one hundred per centum of the shares in entities engaged in such sectors and regions, unless otherwise determined by way of regulations made under the provision of this Part or any other written law…”
-
-Good news for Anura Dissanayake. Senegal’s new President is 44-year-old Bassirou Diomaye Faye, a self-described “Left Pan-Africanist”. He won with 54.3% of the vote in the first round. A former tax inspector, Bassirou Faye is the youngest president in the history of Senegal, and the youngest elected President in Africa today.
-
-“The 44-year-old, who has never before held elected office, swept to a first-round victory on a promise of radical reform, becoming the country’s youngest president.
-
-...
-
-[Data](articles/7f3d2d79.json)
-
-[Extended Data](ext_articles/7f3d2d79.ext.json)
 
 ---

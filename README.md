@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 21:35:25**
+As of **2024-05-23 21:53:31**
 
 ## Newspaper Stats
 
-*Scraped **25,962** Articles*
+*Scraped **25,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,223
-adaderanalk | 2,980
-tamilmirrorlk | 3,028
+adaderanalk | 2,981
+tamilmirrorlk | 3,029
 virakesarilk | 3,953
-dailymirrorlk | 4,088
-adaderanasinhalalk | 4,146
+dailymirrorlk | 4,091
+adaderanasinhalalk | 4,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,962 (100.0%) of 25,962 articles have been extended.
+25,962 (100.0%) of 25,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### TID detains suspect linked ISIS terrorists arrested at Ahmedabad Airport
+
+*2024-05-23 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99404/tid-detains-suspect-linked-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
+
+A suspect who had close connections with the ISIS terrorists of Sri Lankan origin who were recently arrested at the Ahamedabad International Airport in India, has been arrested by the Terrorism Investigation Division (TID) of Sri Lanka Police.
+
+According to Sri Lanka Police, the suspect has aided the four terrorists in obtaining air tickets.
+
+Further, investigations are underway to detect whether more ISIS terrorists from Sri Lanka have left for India, the police said.
+
+On Sunday (19), the anti-terrorist squad of Gujarat, India arrested four Sri Lankan nationals who are members of the terrorist organisation ISIS at the Sardar Vallabhbhai Patel International Airport in Ahamedabad.
+
+The arrested suspects were Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27) and Mohammad Rashdeen (43), as per Indian officials.
+
+According to the Gujarat Police, interrogations revealed that the suspects were encouraged to carry out a terror attack in India.
+
+...
+
+[Data](articles/ae1b6756.json)
+
+---
+
+### ආපදා මරණ ඉහළට
+
+*2024-05-23 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196952) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ පුද්ගල මරණ සංඛ්‍යාව මේ වනවිට 06ක් දක්වා ඉහළ ගොස් තිබේ.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ, ඉදිරි පැය 24 තුළ සබරගමුව පළාතේත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් මිලිමීටර් 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බවය.
+
+නිරිතදිග මෝසම ක්‍රමයෙන් සක්‍රීය වීමත් සමග ප්‍රදේශ රැසකට මේ වනවිට අධික වැසි ඇදහැලෙමින් පවතී.
+
+ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය මිලිමීටර් 104.6ක් ලෙස වාර්තා වුණේ, නුවරඑළිය - වටවල ප්‍රදේශයෙනි.
+
+තද වැසි සමග ඇතිවූ දැඩි සුළං තත්ත්වය හේතුවෙන් ගස් කඩා වැටීම්, දේපළ හා නිවාස හානි මෙන්ම පුද්ගල මරණ හයක්ද වාර්තා වෙයි.
+
+වර්ෂාවත් සමග හංවැල්ල වග ප්‍රදේශයේ මාර්ගයකට කඩා වැටුණු පුළුං ගසකට යටවීමෙන් යතුරුපැදියක ගමන් කරමින් සිටි පුද්ගලයෙකු ජීවිතක්ෂයට පත් වුණි.
+
+මෙලෙස මියගොස් ඇත්තේ වග ප්‍රදේශයේ පදිංචි උපුල් අනුරුද්ධ ලියනගේ නම් 47 හැවිරිදි දෙදරු පියෙකි.
+
+මේ අතර, පුත්තලම මුන්දලම හන්දිය ප්‍රදේශයේ මාර්ගයක යතුරුපැදියකින් ගමන් කරමින් සිටි තරුණියන් දෙදෙනෙකු මතට ගසක් කඩාවැටීමෙන් තරුණියක් ජීවිතක්ෂයට පත්වී තිබේ.
+
+...
+
+[Data](articles/e22da49c.json)
+
+---
+
+### 'Buddha Rashmi' Vesak Zone opens
+
+*2024-05-23 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buddha-Rashmi-Vesak-Zone-opens/110-283275) · `en`
+
+The Gangaramaya 'Buddha Rashmi' Vesak Zone was declared open by President Ranil Wickremesinghe this evening. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/f7ba54a6.json)
+
+---
+
+### Twenty trees fallen in Colombo due to inclement weather
+
+*2024-05-23 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twenty-trees-fallen-in-Colombo-due-to-inclement-weather/108-283265) · `en`
+
+Colombo, May 23 (Daily Mirror)- At least 20 trees in the Colombo city had fallen due to inclement weather conditions that prevailed during the past few days.
+
+Commissioner Colombo Municipal Council (CMC) Badrani Jayawardene told Daily Mirror that these trees that are located along the streets and at the Viharamahadevi Park due to gushing winds.
+
+One tree along Maitland Crescent fell last morning but was cleared by evening while one tree near Sirimavo Bandaranaike Mawatha and one near Borella Kanatte and few within the park had come down during the past few days.
+
+“The Fire Brigade and the two other teams have been kept on alert for any emergency and they have already gone into action to clear the fallen trees,” she said.
+
+“We have decided to remove or trim the branches of the trees which have been found to be dangerous by botanical experts,” she added.
+
+...
+
+[Data](articles/0a98af92.json)
+
+---
+
+### The Marga Dialogue: Nationalism and centre-left
+
+*2024-05-23 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Marga-Dialogue-Nationalism-and-centre-left/172-283274) · `en`
+
+Dr. Dayan Jayatilleka’s collection of essays, titled: “Interventions: Selected Political Writings”.
+
+...
+
+[Data](articles/f3f6cad7.json)
+
+---
 
 ### The information of the Sri Lankans entered into ISIS
 
@@ -63,6 +155,24 @@ Meanwhile, the following four ISIS members had gone to Chennai through the Katun
 [Data](articles/801d3f1c.json)
 
 [Extended Data](ext_articles/801d3f1c.ext.json)
+
+---
+
+### ரயிலுடன் மோதிய மோட்டார் சைக்கிள் : மூன்று இளைஞர்கள் பலி்
+
+*2024-05-23 20:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிய-மோட்டார்-சைக்கிள்-மூன்று-இளைஞர்கள்-பலி்/175-337798) · `ta`
+
+காலி - புஸ்ஸ, பிந்தாலிய ரயில் கடவையில் இன்று மாலை மோட்டார் சைக்கிள் ஒன்று ரயிலுடன் மோதியதில் மூன்று இளைஞர்கள் உயிரிழந்துள்ளனர் என தெரிவிக்கப்படுகின்றது.
+
+மருதானையில் இருந்து மாத்தறை நோக்கி பயணித்த ரயில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+விபத்தில் உயிரிழந்த மூன்று இளைஞர்களும் 17 முதல் 19 வயதுக்கு இடைப்பட்டவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+எனினும் மூன்று பேர் பாதுகாப்பற்ற முறையில் மோட்டார் சைக்கிளில் பயணம் மேற்கொண்டுள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது. R
+
+◼️
+
+[Data](articles/2f5b3a8e.json)
 
 ---
 
@@ -2169,131 +2279,5 @@ After a difficult period due to natural calamities, pandemic and economic downtu
 [Data](articles/34ef1f4c.json)
 
 [Extended Data](ext_articles/34ef1f4c.ext.json)
-
----
-
-### President’s Vesak message: ‘Sacrifice today for a better tomorrow’
-
-*2024-05-23 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99391/presidents-vesak-message-sacrifice-today-for-a-better-tomorrow-) · `en`
-
-In his Vesak Day message, President Ranil Wickremesinghe called upon the nation to embody the Buddha’s teachings of enlightenment, unity, and compassion during these challenging times.
-
-He emphasized that, at this crucial moment, Sri Lankans should cultivate the same great zeal for enlightenment that the Buddha exemplified, and be willing to sacrifice today for a better tomorrow.
-
-“The Vesak festival is a profoundly sacred day for Buddhists worldwide, commemorating the Buddha’s birth, enlightenment, and passing. Buddhists in Sri Lanka, along with their brethren around the globe, celebrate Vesak with deep devotion. They spend this period engaging in religious observances and venerating the Buddha with fervent devotion.
-
-At this challenging moment, we as a nation should cultivate the same great zeal for enlightenment that Buddha exemplified, inspired by his sermon, “Maththasukha parichchaga- passé che vipulan sukhan” – to sacrifice today for a better tomorrow.
-
-...
-
-[Data](articles/82f50170.json)
-
-[Extended Data](ext_articles/82f50170.ext.json)
-
----
-
-### Grade 5 Scholarship Examination
-
-*2024-05-23 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184284) · `ta`
-
-The Grade 5 Scholarship Exam for 2024 is on September 15. Applications open next week and close June 14 via online submission.
-
-🟩
-
-The Department of Examinations has announced that the Grade 5 Scholarship Examination for 2024 will be held on September 15.
-
-The Department of Examinations has announced that applications for the examination will be accepted from next week.
-
-Applications for the examination can be submitted through enemy from the 27th to June 14, the Department of Examinations said.
-
-◼️
-
-[Data](articles/4c6ff5fc.json)
-
-[Extended Data](ext_articles/4c6ff5fc.ext.json)
-
----
-
-### All must unite to heal and rebuild the country: President
-
-*2024-05-23 10:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-must-unite-to-heal-and-rebuild-the-country-President/108-283239) · `en`
-
-Colombo, May 23 (Daily Mirror)- Regardless of race, religion, caste or political affiliations, all Sri Lankans must unite to heal and rebuild the country, President Ranil Wickremesinghe said.
-
-In his Vesak message, the President said, "We must remember the advice of Lord Buddha, 'Sabbattha Sammanaso' to treat everyone equally and ensure we put it into practice as a country. This is the greatest offering we can present to the Buddha on this Vesak day.
-
-"The Vesak festival is a profoundly sacred day for Buddhists worldwide, commemorating the Buddha’s birth, enlightenment and passing away.
-
-Buddhists in Sri Lanka, along with their brethren around the globe, celebrate Vesak with deep devotion. They spend this period engaging in religious observances and venerating the Buddha with fervent devotion.
-
-...
-
-[Data](articles/2d274c40.json)
-
-[Extended Data](ext_articles/2d274c40.ext.json)
-
----
-
-### New owner of Dambulla team
-
-*2024-05-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196928) · `si`
-
-The Lanka Premier League (LPL) organizers suspended the Dambulla Tunders team after a court order due to alleged attempts to betray the league. The decision aims to maintain the integrity and quality of the tournament.
-
-🟩
-
-The Lanka Premier League organizers announced that the approved LPL tournament is scheduled to be held.
-
-The announcement was held yesterday (22) to suspend the rights of Dambulla Tunders team.
-
-The following steps have been taken to protect the dependence and quality of the LPL tournament.
-
-The Colombo Magistrate's Court yesterday ordered the Supreme Court yesterday to be remanded until May 31 of attempting to propose to propose to the betrayal of the Lanka Premier League.
-
-◼️
-
-[Data](articles/8dda462f.json)
-
-[Extended Data](ext_articles/8dda462f.ext.json)
-
----
-
-### My prayers to get rid of all creatures and get health and peace - the Prime Minister in the message of Vesak
-
-*2024-05-23 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184279) · `ta`
-
-In his Vesak message, PM Dinesh Gunawardena expressed wishes for universal well-being and peace, highlighting the importance of Buddhist principles in navigating global challenges. He emphasized the significance of Vesak, a day commemorating Buddha's life, as a reminder of the transient nature of life and the need for balance and neutrality. He urged adherence to Buddhist teachings for genuine prosperity and the establishment of a society grounded in love, compassion, joy, and sacrifice, aiming for true happiness through Buddhist philosophy.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said in his congratulatory message that my prayers to get all the creatures to get rid of suffering and get health and peace.
-
-Vesak Nonthi Day is the most sacred day of the Buddhist people to commemorate the events of Buddha's birth, wisdom and transcendence. As Sri Lankans for a long time, we have been celebrating it with great devotion.
-
-After many years, which have been paralyzed by natural disasters and economic crises, we have the opportunity to celebrate the full Vesak festival.
-
-The nature of the world is changing day by day. Our lifestyle is currently perishing in the world. Because of this, the people of the world are seeking Buddhist Dharma to find the true richness of Buddhism following the way of Buddhism to help you understand the nature of the world.. Its Dharma path is the neutral principle taught during Buddhism.
-
-...
-
-[Data](articles/27e60f22.json)
-
-[Extended Data](ext_articles/27e60f22.ext.json)
-
----
-
-### Crackdown Over Civil War Anniversary: UN Report Calls For International Prosecutions For Enforced Disappearances
-
-*2024-05-23 09:51:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/crackdown-over-civil-war-anniversary-un-report-calls-for-international-prosecutions-for-enforced-disappearances/) · `en`
-
-Sri Lankan authorities have threatened and detained Tamils commemorating those who died or went missing in the country’s civil war, Human Rights Watch said today. On May 17, 2024, the United Nations human rights office issued a report calling for international prosecutions and other accountability measures to address the thousands of unresolved cases of enforced disappearances in the war, which ended on May 18, 2009.
-
-“The Sri Lankan government is in denial about atrocities its forces committed during the civil war, so it tries to silence victims and their communities instead of providing truth, justice, and reparations,” said Elaine Pearson, Asia director at Human Rights Watch. “It’s clear that more international action is needed to bring relief to victims and prevent a recurrence of abuses.”
-
-...
-
-[Data](articles/a4415872.json)
-
-[Extended Data](ext_articles/a4415872.ext.json)
 
 ---

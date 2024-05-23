@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 00:18:29**
+As of **2024-05-24 00:33:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,982 (100.0%) of 25,983 articles have been extended.
+25,983 (100.0%) of 25,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ When asked whether speculations that Parliament would be dissolved by June 15, h
 ...
 
 [Data](articles/eda05f29.json)
+
+[Extended Data](ext_articles/eda05f29.ext.json)
 
 ---
 

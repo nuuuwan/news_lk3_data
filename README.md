@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 07:18:51**
+As of **2024-05-23 07:44:37**
 
 ## Newspaper Stats
 
-*Scraped **25,818** Articles*
+*Scraped **25,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,489
 dailyftlk | 1,532
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,011
+tamilmirrorlk | 3,012
 virakesarilk | 3,923
 dailymirrorlk | 4,058
 adaderanasinhalalk | 4,120
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,814 (100.0%) of 25,818 articles have been extended.
+25,818 (100.0%) of 25,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### සම්බුදු තෙමඟුල සැමරෙන වෙසක් පුර පසළොස්වක පොහොය අදයි
+### Today is the full moon of Vesak
 
 *2024-05-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196922) · `si`
 
-බුදුරජාණන් වහන්සේගේ සම්බුදු තෙමඟුල සිහිකෙරෙන වෙසක් පුන් පසළොස්වක පොහොය දිනය අදට (23) යෙදී තිබේ.
+Today marks the full moon of Vesak, celebrated as the Vesak pun day, releasing its 23rd edition.
+
+🟩
+
+The Vesak pun day of the Vesak pun (23) has been released today.
 
 ◼️
 
 [Data](articles/050f39d7.json)
+
+[Extended Data](ext_articles/050f39d7.ext.json)
 
 ---
 
@@ -60,29 +66,39 @@ Sri Lanka is also planning on having a water festival in coastal towns such as T
 
 [Data](articles/6d4bd626.json)
 
+[Extended Data](ext_articles/6d4bd626.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### A red announcement from the weather
 
 *2024-05-23 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196921) · `si`
 
-තද සුළං සහ මුහුදු රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Strong winds and rough seas expected in the southeastern Arabian Sea and Bay of Bengal due to a meteorological warning issued on March 23rd at 10:30 PM. The Department of Meteorology advises caution, especially for sailors and fishermen, recommending them to stay ashore until further notice.
 
-අද (23) රාත්‍රී 10.30 දක්වා බලපැවැත්වෙන පරිදි අදාළ නිවේදනය නිකුත් කර ඇත.
+🟩
 
-ඒ අනුව ගිනිකොණදිග අරාබි මුහුද සහ නිරිතදිග බෙංගාල බොක්ක මුහුද ආශ්‍රිත ගැඹුරු මුහුදු ප්‍රදේශවල ක්‍රියා කරන ධීවර සහ නාවික ප්‍රජාවන්ට අදාළ රතු නිවේදනය නිකුත් කර තිබේ.
+The Department of Meteorology has issued an announcement of strong winds and sea floor.
 
-එම ප්‍රජාවන්ට වඩාත් සැලකිලිමත් වන ලෙසත් හෙට (24) වන විට පහළ වායුගෝලයේ පැවති කැලඹිලි ස්වභාවය බෙංගාල බොක්කෙහි මධ්‍යම ප්‍රදේශය හරහා පීඩන අවපාතයක් දක්වා වර්ධනය වීමට ඉඩ ඇතැයි ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The relevant announcement has been issued today (23) at 10.30 pm.
 
-ඉන්පසුව එය බෙංගාල බොක්ක ඊසාන දෙසට ගමන් කරමින් තවදුරටත් වර්ධනය වේ.
+Accordingly, the red note of the southeastern Arabian Sea and the Bay Bay Bay of Bay of Bay of Baying Sea.
 
-ඒ වනවිට දිවයින වටා මුහුදු ප්‍රදේශවලත් ගිනිකොණදිග අරාබි සහ නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් ඉතා තද සුළං පැ.කි.මී 60 - 70 දක්වා ඇති විය හැකි අතර මුහුද ඉතා රළු විය හැකිය.
+The Department of Meteorology announces that those community is more concerned and resulted in the central area of the lower atmosphere.
 
-එමෙන්ම ඉහත සිතියමේ දැක්වෙන මුහුදු ප්‍රදේශයන්ට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ද නාවිකයින්ට හා ධීවරයින්ට දැනුම්දී තිබේ.
+Then it grows further the Bay of Bengal.
 
-...
+Winds can also occur in the sea areas around the island, and the sea can be very rough.
+
+The saimarks and fishermen have also been informed not to be sailed until the sailors of the above map.
+
+At present, those in those areas have been immediately informed to land immediately and to care for future announcements.
+
+◼️
 
 [Data](articles/99374697.json)
+
+[Extended Data](ext_articles/99374697.ext.json)
 
 ---
 
@@ -204,6 +220,22 @@ The State Minister made these remarks during a press briefing titled “Collecti
 
 ---
 
+### ’பொருளாதாரத்தினை வலுப்படுத்துவதே முதல் பணி’
+
+*2024-05-23 02:12:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தினை-வலுப்படுத்துவதே-முதல்-பணி/175-337743) · `ta`
+
+நாட்டைப் பொறுப்பேற்ற பின்னர் நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே எனது முதல் பணியாக இருந்தது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்
+
+பத்தரமுல்ல அக்குரேகொட, பாதுகாப்பு அமைச்சு வீதியில் நிர்மாணிக்கப்பட்டுள்ள இலங்கை முன்னாள் படைவீரர்கள் சங்கத்தின் தலைமையக வளாகத்தை திறந்து வைக்கும் நிகழ்வில் ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர்  மேலும் உரையாற்றுகையில்.
+
+நாட்டைப் பொறுப்பேற்ற பின், நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதே எனது முதல் பணியாக இருந்தது. அத்துடன் எதிர்வரும் நான்கைந்து வருடங்களில் நாட்டின் பொருளாதாரத்திற்கு எடுக்கப்பட வேண்டிய தீர்மானங்களை விரைவாக எடுக்க வேண்டியிருந்தது. போரின் போது, “போரை இழுத்தடிப்பது நல்லதல்ல, அதை தந்திரமாக முடிக்க வேண்டும். போரிலும், பொருளாதாரத்தை கட்டியெழுப்புவதிலும் அதற்கேற்ப செயல்பட வேண்டும்.
+
+...
+
+[Data](articles/a8fff865.json)
+
+---
+
 ### Swords cut between youths including police officer in Jaffna
 
 *2024-05-23 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184273) · `ta`
@@ -228,19 +260,27 @@ While the Vaddukoddai police are carrying out investigations into the incident, 
 
 ---
 
-### அடிப்படைவாத தாக்குதல்களை ’தடுக்க முடியாது’
+### Fundamental attacks cannot be prevented
 
 *2024-05-23 02:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337742) · `ta`
 
-இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும். இல்லையேல் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைவாத தாக்குதல்கள்  இலங்கையிலும் எதிர்காலத்தில் நடத்தப்படுவதனை தடுக்க முடியாதென  ஆளும் தரப்பு எம்.பி.யுமான ரியர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+In a parliamentary debate, it was highlighted that fundamentalist attacks, like the recent bombing in Sri Lanka, cannot be entirely prevented. The discussion focused on the need for the government to act on recommendations regarding Islamic fundamentalism to safeguard the country's future. Specifically, concerns were raised about four Sri Lankan Muslims linked to ISIS planning to carry out attacks in India, targeting the Bharatiya Janata Party and Hindus. This group was apprehended at the Ahmedabad airport in India. The debate emphasized the urgency of implementing investigation committee recommendations, including banning certain Islamic organizations and addressing issues in Madrasa schools, to effectively counteract fundamentalist threats.
 
-இந்தியாவின் பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காகவே  ஐ.எஸ்.ஐ.எஸ். அமைப்பை  சேர்ந்த 4 இலங்கை முஸ்லிம்கள்   கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள் என்றார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால்    கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
+
+ISIS is to assassinate India's Bharatiya Janata Party and Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
+
+He said this in a debate on the proposal on Wednesday (22) in Parliament.
+
+Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
 
 ...
 
 [Data](articles/d7b9b344.json)
+
+[Extended Data](ext_articles/d7b9b344.ext.json)
 
 ---
 
@@ -2221,29 +2261,5 @@ The suspect is accused of attempting to approach players for match-fixing.
 [Data](articles/2f7e6258.json)
 
 [Extended Data](ext_articles/2f7e6258.ext.json)
-
----
-
-### Why did Against the Amnesty International Secretary of the LTTE assassinated the Sinhalese?- Sarath Weerasekera question
-
-*2024-05-22 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184234) · `ta`
-
-Sarath Weerasekera questioned why the LTTE targeted Sinhalese during its conflict, highlighting the LTTE's selective memory and the international community's focus on LTTE militants over Sinhalese victims. The US Ambassador noted Weerasekera's critique of anti-military sentiments and the UN's call for justice, suggesting a need for balanced recognition of all parties involved in the conflict.
-
-🟩
-
-The Secretary of the Amnesty International, who remembered the LTTE militants, did not recall the Sinhalese and the military who were assassinated by the LTTE.
-
-The US Ambassador to Sri Lanka, Julie Sangh Vienna, said that the President of the National Security Department Sarath Weerasekera said that he further stated in a debate on the postponement of the Opposition House in Parliament on Wednesday.Anti -military activities that ended the war have also intensified.
-
-The goodwill government of the United States brought to the United States's 30 -year proposal against the Sri Lankan military. It was only after this that the crisis against the military has increased.
-
-It is noteworthy that the United Nations Human Rights Office has stated that the Sri Lankan military has discussed with member states to highlight the International Court of Justice.. LTTE militants are now openly observed.
-
-...
-
-[Data](articles/23233f6c.json)
-
-[Extended Data](ext_articles/23233f6c.ext.json)
 
 ---

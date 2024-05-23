@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 22:06:16**
+As of **2024-05-23 22:19:14**
 
 ## Newspaper Stats
 
-*Scraped **25,970** Articles*
+*Scraped **25,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,223
-adaderanalk | 2,982
+adaderanalk | 2,983
 tamilmirrorlk | 3,029
 virakesarilk | 3,953
 dailymirrorlk | 4,091
@@ -26,35 +26,55 @@ adaderanasinhalalk | 4,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,968 (100.0%) of 25,970 articles have been extended.
+25,970 (100.0%) of 25,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### කොළඹ හැඩ කළ වෙසක් කලාප
+### President stresses importance of preserving true essence of Theravada Buddhism and sharing its wisdom with world
+
+*2024-05-23 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99405/president-stresses-importance-of-preserving-true-essence-of-theravada-buddhism-and-sharing-its-wisdom-with-world) · `en`
+
+President Ranil Wickremesinghe underscored the significance of Theravada Buddhism in addressing the challenges posed by a world rapidly advancing in science and technology. Speaking at the State Vesak Ceremony held at the Dharmaraja Piriven Viharaya in Matale virtually this morning (23), President Wickremesinghe stressed the importance of preserving the true essence of Theravada Buddhism and sharing its wisdom with the world.
+
+Although President Wickremesinghe was scheduled to participate in the State Vesak Ceremony in person, adverse weather conditions prevented his attendance. Instead, he joined the State Vesak Ceremony virtually and extended his wishes to all Buddhists for a meaningful Vesak celebration.
+
+...
+
+[Data](articles/26dfae55.json)
+
+---
+
+### Vesak Zones, Colombo
 
 *2024-05-23 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196953) · `si`
 
-සම්බුදු තෙමඟුල සැමරෙන උතුම් වෙසක් පුන් පොහොය අදට (23) යෙදී තිබේ.
+Today marks Vesak, celebrated with lanterns across Sri Lanka, including special zones like Dearamanandana Sri Karuyani Sadak. Despite rain, Buddhists gathered in temples nationwide. Arrangements for displays in areas like Dematagoda, Thotalaka, Pettah, and Nawaloka highlight the event's significance. The birth of modern technology near the Presidential Secretariat is notable. Island-wide, scenic lantern nests add to the festivities, with 3260 Dansals registered for Vesak celebrations, especially in the Western Province.
 
-ඒ, නිමිති කරගනිමින් ශ්‍රී ලංකාවාසී බෞද්ධ ජනතාව අද දිනයේ මහ වැසි නොතකා වෙහෙර විහාරස්ථානවලට රැස්වී ආගමික වතාවත්වල නිරත වුණි.
+🟩
 
-මෙවරත් දෙරණාභිවන්දනා ශ්‍රී කල්‍යාණි සදහම් වෙසක් කලාපය පැවැත්වෙන්නේ සම්බුදු පහස ලද කැලණි පුදබිමේ දීය.
+The noble lantern celebrity celebrated today (23).
 
-මේ අතර වෙසක් පුන් පොහෝ දිනය නිමිති කරගනිමින් දිවයින පුරා වෙසක් කලාප 419ක්, තොරණ 321ක් සංවිධාන කර තිබේ.
+The Buddhist Buddhist populations of Sri Lanka were present in the temple in the rainy season, despite the rainy sever.
 
-සෑම වසරකම පවත්වන දෙමටගොඩ, තොටළඟ, පිටකොටුව, නවලෝක ආදී තොරණ මෙවරත් විචිත්‍රවත්ව ප්‍රදර්ශනය කිරීම සඳහා කටයුතු සූදානම් කර තිබුණි.
+The Vesak Zone of the Dearamanandana Sri Karuyani Sadak will be held in the premiselankian phenomenon.
 
-කොළඹ ජනාධිපති ලේකම් කාර්යාලය අසල නවීන තාක්ෂණය ඔස්සේ සිදුහත් උපත ප්‍රදර්ශනය කිරීමත් විශේෂත්වයකි.
+Meanwhile, 419 Vesak Zones, 321 selected island wide, has been organized throughout the village.
 
-මීට අමතරව දිවයින පුරා දර්ශනීය පහන් කූඩු රාශියක්ද නිර්මාණය කර තිබේ.
+Arrangements were made to demonstrate all the year, Dematagoda, Thotalaka, Pettah and Nawaloka.
 
-වෙසක් උත්සවයට සමගාමීව මේ වනවිට දිවයින පුරා දන්සල් 3260 ක් ලියාපදිංචි වී ඇති අතර ඉන් වැඩි ප්‍රමාණයක් ලියාපදිංචි වී ඇත්තේ බස්නාහිර පළාතේය.
+It is noteworthy that the birth of the modern technology near the Presidential Secretariat is to be seen.
+
+In addition, many scenic lantern nests are also created island wide.
+
+3260 Dansal has been registered with the Vesak celebrations and more have been registered in the Western Province.
 
 ◼️
 
 [Data](articles/5b68ff0e.json)
+
+[Extended Data](ext_articles/5b68ff0e.ext.json)
 
 ---
 
@@ -101,6 +121,8 @@ According to the Gujarat Police, interrogations revealed that the suspects were 
 ...
 
 [Data](articles/c9e853c4.json)
+
+[Extended Data](ext_articles/c9e853c4.ext.json)
 
 ---
 
@@ -2285,27 +2307,5 @@ Meanwhile, Wijesekara also expressed that if the consumers are unable to report 
 [Data](articles/7d1fe7d5.json)
 
 [Extended Data](ext_articles/7d1fe7d5.ext.json)
-
----
-
-### Galle road blocked by Bridge in Kalutara
-
-*2024-05-23 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196929) · `si`
-
-Strong winds caused a tree to collapse near the Kalutara Bridge, blocking the main lane from Galle to Colombo and causing significant traffic congestion.
-
-🟩
-
-A tree near the Kalutara Bridge has collapses due to strong winds in Kalutara.
-
-As a result, the main lane, dating from Galle to Colombo, has blocked, our correspondent said.
-
-It is reported that the tree has been severely causing severe traffic congestion with the tree.
-
-◼️
-
-[Data](articles/5ac4542c.json)
-
-[Extended Data](ext_articles/5ac4542c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 11:53:38**
+As of **2024-05-23 12:06:23**
 
 ## Newspaper Stats
 
-*Scraped **25,871** Articles*
+*Scraped **25,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,216
-adaderanalk | 2,973
+adaderanalk | 2,974
 tamilmirrorlk | 3,019
 virakesarilk | 3,930
 dailymirrorlk | 4,069
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,866 (100.0%) of 25,871 articles have been extended.
+25,871 (100.0%) of 25,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Fallen tree blocks section of Galle Road
+
+*2024-05-23 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99395/fallen-tree-blocks-section-of-galle-road) · `en`
+
+One lane of the Galle-Colombo main road has completely been blocked near the Kalutara Bridge due to a fallen tree.
+
+The lane affected is the one running from Galle towards Colombo, Ada Derana reporter said.
+
+Heavy traffic congestion was observed in the areas as a result, however, efforts are underway to restore the section of the road for vehicular movement, according to the reporter.
+
+◼️
+
+[Data](articles/41281e3c.json)
+
+---
 
 ### 2024 LPL to go ahead as scheduled; Dambulla franchise to receive new ownership
 
@@ -50,6 +66,8 @@ Additionally, they have expressed that the LPL Season 05 will continue with its 
 
 [Data](articles/5db7236d.json)
 
+[Extended Data](ext_articles/5db7236d.ext.json)
+
 ---
 
 ### Karapitiya Hospital to be designated as National Hospital: Bandula
@@ -66,6 +84,8 @@ Minister Gunawardane said Karapitiya will be the third National Hospital in addi
 
 [Data](articles/28581e7e.json)
 
+[Extended Data](ext_articles/28581e7e.ext.json)
+
 ---
 
 ### Animal Rights activists go before SC to mitigate Human Elephant Conflict
@@ -81,6 +101,8 @@ The petitioners are further seeking an order directing the Sri Lanka Railways to
 ...
 
 [Data](articles/b12125be.json)
+
+[Extended Data](ext_articles/b12125be.ext.json)
 
 ---
 
@@ -156,6 +178,8 @@ Meanwhile, Wijesekara also expressed that if the consumers are unable to report 
 
 [Data](articles/7d1fe7d5.json)
 
+[Extended Data](ext_articles/7d1fe7d5.ext.json)
+
 ---
 
 ### Galle road blocked by Bridge in Kalutara
@@ -217,6 +241,8 @@ After a difficult period due to natural calamities, pandemic and economic downtu
 ...
 
 [Data](articles/34ef1f4c.json)
+
+[Extended Data](ext_articles/34ef1f4c.ext.json)
 
 ---
 
@@ -2241,29 +2267,5 @@ The Department of Meteorology has predicted more rainfall in the Western and Sab
 [Data](articles/4a7f9df6.json)
 
 [Extended Data](ext_articles/4a7f9df6.ext.json)
-
----
-
-### A year passed against the illegal illegal strain continues!
-
-*2024-05-22 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184263) · `ta`
-
-Tamil National People's Front's protest against the illegal Tissa Tissa Vihara started on 22nd and ends on 24th, led by Kanagaratnam Sukash. It occurs annually on full moon days, involving party members.
-
-🟩
-
-The struggle against the illegal Tissa Tissa Vihara began on Wednesday 22nd.
-
-The struggle, which began on Wednesday, will continue until Friday the 24th, said Tamil National People's Front media spokesman Kanagaratnam Sukash.
-
-The struggle is being carried out in the arrangement of the Tamil National People's Front every full moon day as the worship is being carried out on every full moon day in the Vihara.
-
-Media spokesman of the Tamil National People's Front Kanagaratnam Sukash, members and members of the party participated in the struggle.
-
-◼️
-
-[Data](articles/4f8efbab.json)
-
-[Extended Data](ext_articles/4f8efbab.ext.json)
 
 ---

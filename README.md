@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 17:34:14**
+As of **2024-05-23 17:54:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,933 (100.0%) of 25,936 articles have been extended.
+25,936 (100.0%) of 25,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ Those living in the above areas who have previous experiencs of sudden floods ar
 
 [Data](articles/051e50fb.json)
 
+[Extended Data](ext_articles/051e50fb.ext.json)
+
 ---
 
-### කොරියානු භාෂා විභාගයේ ප්‍රතිඵල නිකුත් වෙයි
+### Korean language examination results released
 
 *2024-05-23 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196943) · `si`
 
+Korea language proficiency exam results for production and dealer sectors announced. 3,422 passed Sri Lanka Bureau of Foreign Employment exam out of 3,580 candidates (95.6%). Results due May 27, medical exams start May 28. Interviews for successful candidates on June 6 & 10 at various locations.
+
+🟩
+
 නිෂ්පාදන හා ධීවර අංශයන්ට අදාළව පැවැති කොරියානු භාෂා ප්‍රවීණතා විභාගයේ ප්‍රතිඵල නිකුත් කර තිබේ.
 
-ඉන් අයදුම්කරුවන් 3,422ක් සමත් වී ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+3,422 applicants have passed the Sri Lanka Bureau of Foreign Employment.
 
-මෙම විභාගය සඳහා අයදුම්කරුවන් 3,580ක පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි.
+3,580 candidates were present at the examination and 95.6 percent of the total number of people.
 
-මෙම විභාගයේ ප්‍රතිඵල මැයි මස 27 වන දින  www.slbfe.lk වෙබ් අඩවියේ පළ කරනු ලබන අතර විභාගය සමත් වූ අයදුම්කරුවන් සඳහා වෛද්‍ය පරීක්ෂණ මැයි මස 28 වන දින ආරම්භ කෙරේ.
+The results will be published on the 27th of May on the 27st of May and medical examinations will commence on 28th May.
 
-එසේම විභාගය සමත් අයදුම්කරුවන් සඳහා අදාළ සම්මුඛ පරීක්ෂණ ජුනි මස 06, 07 හා 10 යන දිනයන්හි කාර්යාංශයේ පළාත් කාර්යාල, විගමනික සම්පත් මධ්‍යස්ථාන හා පුහුණු මධ්‍යස්ථානයන් හිදී සිදු කෙරෙයි.
+The interviews for candidates who pass the examination will be held on June 06 and 10, Provincial Offices, Provincial Offices, Migrant Resource Centers and Training Centers.
 
 ◼️
 
 [Data](articles/dc2ca292.json)
+
+[Extended Data](ext_articles/dc2ca292.ext.json)
 
 ---
 
@@ -1849,6 +1857,8 @@ The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (
 ...
 
 [Data](articles/43d2d4b4.json)
+
+[Extended Data](ext_articles/43d2d4b4.ext.json)
 
 ---
 

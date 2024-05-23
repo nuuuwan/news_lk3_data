@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 11:34:09**
+As of **2024-05-23 11:53:38**
 
 ## Newspaper Stats
 
-*Scraped **25,866** Articles*
+*Scraped **25,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,533
 adalk | 2,216
-adaderanalk | 2,970
+adaderanalk | 2,973
 tamilmirrorlk | 3,019
 virakesarilk | 3,930
-dailymirrorlk | 4,067
+dailymirrorlk | 4,069
 adaderanasinhalalk | 4,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,866 (100.0%) of 25,866 articles have been extended.
+25,866 (100.0%) of 25,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### 2024 LPL to go ahead as scheduled; Dambulla franchise to receive new ownership
+
+*2024-05-23 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99394/2024-lpl-to-go-ahead-as-scheduled-dambulla-franchise-to-receive-new-ownership) · `en`
+
+The organizers of the Lanka Premier League (LPL) have confirmed that the fifth edition of the tournament will go ahead as scheduled.
+
+In a statement, Innovative Production Group FZE (IPG), the event rights partner of the LPL clarified that notwithstanding the recent events surrounding the arrest of a co-owner of the Dambulla franchise, the Season 05 of the tournament will proceed as scheduled.
+
+“We are committed to ensuring that the tournament remains a showcase of the best in cricket, embodying the spirit of fair play and sportsmanship”, the statement added.
+
+Additionally, they have expressed that the LPL Season 05 will continue with its full schedule and roster of matches, featuring five teams, while the Dambulla franchise, despite the recent changes, will participate under new ownership.
+
+“We are in the final stages of confirming the new ownership, ensuring a seamless transition and uninterrupted participation of the team in the tournament”, it said.
+
+...
+
+[Data](articles/5db7236d.json)
+
+---
+
+### Karapitiya Hospital to be designated as National Hospital: Bandula
+
+*2024-05-23 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-to-be-designated-as-National-Hospital-Bandula/108-283244) · `en`
+
+Colombo, May 23 (Daily Mirror)- The Cabinet has approved the proposal to develop the Karapitiya Teaching Hospital as a National Hospital, Cabinet spokesman Minister Bandula Gunawardane said today.
+
+He told the weekly media briefing on Cabinet decisons that the Cabinet Paper in this regard was presented by Health Minister Ramesh Pathirana.
+
+Minister Gunawardane said Karapitiya will be the third National Hospital in addition to the two National Hospitals in Colombo and Kandy.
+
+◼️
+
+[Data](articles/28581e7e.json)
+
+---
+
+### Animal Rights activists go before SC to mitigate Human Elephant Conflict
+
+*2024-05-23 11:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Animal-Rights-activists-go-before-SC-to-mitigate-Human-Elephant-Conflict/108-283243) · `en`
+
+Colombo, May 23 (Daily Mirror)- Animal rights activists filed a Fundamental Rights petition before the Supreme Court challenging the failure of the authorities, including the Department of Wildlife Conservation, to mitigate the human-elephant conflict and reduce the number of elephant deaths per year.
+
+Justice for Animals and Nature, Ven. Dr. Omalpe Sobhitha Thera, President’s Counsel Anura Meddegoda, the Sri Bodhiraja Foundation, Animal SOS Sri Lanka, Dr. Ajantha Perera and Iranganie De Silva filed this petition through Attorney-at-Law Manjula Balasuriya.
+
+The petitioners are further seeking an order directing the Sri Lanka Railways to execute an action plan to reduce the number of elephant deaths caused by train accidents.
+
+...
+
+[Data](articles/b12125be.json)
+
+---
 
 ### The President's Vesak greeting message
 
@@ -88,6 +140,24 @@ That is why a private bus along the Maharagama or Homagama route has traveled fr
 
 ---
 
+### Power interruptions for over 300,000 consumers reported in 03 days
+
+*2024-05-23 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99393/power-interruptions-for-over-300000-consumers-reported-in-03-days) · `en`
+
+The Ceylon Electricity Board (CEB) has reported over 36,900 breakdowns resulting in power interruptions to more than 300,000 consumers in the last three days due to inclement weather.
+
+Minister of Power and Energy Kanchana Wijesekara said that additional service staff has been assigned to attend the breakdowns.
+
+Posting on ‘X’ (formerly Twitter), the Minister stated that the CEB management and service staff are working 24 hours to restore power to the affected consumers,
+
+Meanwhile, Wijesekara also expressed that if the consumers are unable to report power interruptions through the CEB hotline 1987, they can use the SMS option to 1987 with breakdown and the electricity consumer number to follow, use the CEB Care app or through http://cebcare.ceb.lk.
+
+◼️
+
+[Data](articles/7d1fe7d5.json)
+
+---
+
 ### Galle road blocked by Bridge in Kalutara
 
 *2024-05-23 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196929) · `si`
@@ -129,6 +199,24 @@ The holy animal of the Mauri people of New Zealand. 'Huiya' (Huya) feathers used
 [Data](articles/a0de9f9a.json)
 
 [Extended Data](ext_articles/a0de9f9a.ext.json)
+
+---
+
+### Prime Minister’s message for Vesak
+
+*2024-05-23 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99392/prime-ministers-message-for-vesak-) · `en`
+
+In his message to mark Vesak Poya Day, Prime Minister Dinesh Gunawardena said that after a difficult period due to natural calamities, pandemic and economic downturn, Sri Lankan people have the opportunity to celebrate the Vesak festival in a grand scale this year.
+
+He also mentioned that although the middle path taught in Buddhism is an eternal concept, it is relevant present day society and that the middle path is also meaningful in economic planning and development.
+
+“Vesak Poya day is the most sacred day to the Buddhist people who celebrate the birth, enlightenment and the mahaparinibbana of the Buddha. Since ancient times, Sri Lankans celebrate it with boundless joy of venerating the Buddha.
+
+After a difficult period due to natural calamities, pandemic and economic downturn, Sri Lankan people have the opportunity to celebrate the Vesak festival in a grand scale this year.
+
+...
+
+[Data](articles/34ef1f4c.json)
 
 ---
 
@@ -2177,117 +2265,5 @@ Media spokesman of the Tamil National People's Front Kanagaratnam Sukash, member
 [Data](articles/4f8efbab.json)
 
 [Extended Data](ext_articles/4f8efbab.ext.json)
-
----
-
-### I.S.. Is the incident in India to focus on the election victory in India?- Musharraf doubt
-
-*2024-05-22 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184255) · `ta`
-
-The text discusses concerns about election-related incidents in India and Sri Lanka, focusing on the timing of elections and arrests of Muslim youths, suspected links to extremist groups, and the impact of such events on electoral outcomes.
-
-🟩
-
-The period of the Easter attack is also an election period. Similarly, the period of the arrest of 4 Muslim youths in India is the time when the election is held in India.
-
-As for Sri Lanka, it is a time when an election is expected to soon.  The ruling party member M. Musharaf said that there is a suspicion that this could be a thing that focuses on election victory
-
-He said this while addressing the debate on the proposal on Wednesday (22) in Parliament.
-
-A member of the council said that the 4 Muslim youth arrested at the Ahmedabad airport at the Indian Ahmedabad airport said that Muslim extremism is at risk.
-
-I had reported this to the House some time ago. Accordingly, 4 Muslim youths have been arrested in India. So again in Sri Lanka. He was speaking in a very heavy tone as he was heading.
-
-...
-
-[Data](articles/948cb7d1.json)
-
-[Extended Data](ext_articles/948cb7d1.ext.json)
-
----
-
-### Dambulla will be suspended
-
-*2024-05-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196915) · `si`
-
-Dambulla Tanders' participation in the Lanka Premier League (LPL) is suspended due to concerns over transparency and quality. The Imperial Sports Group's CEO made the decision, and it's expected that a new owner will take over the team, allowing them to compete in future LPL tournaments.
-
-🟩
-
-Lanka Premier League announced that the rights of the Dambulla Tanders who were due to attend the approved LPL tournament.
-
-President of the LPL organizer committee Chairman Anil Mohan said that this was taken to protect the transparency and quality of the LPL series.
-
-The decision was taken by the Chief Executive Officer of the CEO of the IMPERIAL SPORTS GROUP.
-
-It is reported that another party is due to hold the ownership of the Dambulla Thunders team of the LPL.
-
-It was reported that the Dambulla team is able to play for the LPL tournament under the new owner.
-
-◼️
-
-[Data](articles/64fcd728.json)
-
-[Extended Data](ext_articles/64fcd728.ext.json)
-
----
-
-### LPL terminates contract with Dambulla franchise owners
-
-*2024-05-22 19:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LPL-terminates-contract-with-Dambulla-franchise-owners/108-283175) · `en`
-
-Colombo, May 22 (Daily Mirror)- The Lanka Premier League (LPL) today  announced the termination/retraction of rights of the Dambulla Thunders franchise, effective immediately following the arrest of Bangladeshi national Tamim Rahman, CEO of the Imperial Sports Group over alleged match-fixing.
-
-LPL rights holder IPG Group chairman Anil Mohan said while the specifics of the charges against Rahman remain unclear, the integrity and smooth running of the Lanka Premier League are of utmost importance.
-
-This termination/retraction of rights aims to uphold the values and reputation of the LPL, ensuring that all participants adhere to the highest standards of conduct and sportsmanship.
-
-The LPL management is working diligently to address the consequences of this termination/ retraction of rights and to ensure minimal disruption to the upcoming season.
-
-...
-
-[Data](articles/c3e036b3.json)
-
-[Extended Data](ext_articles/c3e036b3.ext.json)
-
----
-
-### Finance ministry to revise customs rewards after audit reveals Rs. 24,220 million payout
-
-*2024-05-22 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-ministry-to-revise-customs-rewards-after-audit-reveals-Rs-24-220-million-payout/108-283173) · `en`
-
-Colombo, May 22 (Daily Mirror) - In response to a recent report from the National Audit Office, which revealed that over Rs. 24,220 million has been paid to customs officials and informants as reward money over the past eleven years, the Finance Ministry has decided to revise the distribution of customs fines, the compensation fund, and the rewards for customs officers.
-
-Addressing the media after a programme held in Ruwanwella, Finance State Minister Ranjith Siyambalapitiya said that the latest report revealed that more than Rs. 24,220 million was given to the customs officials and informants as reward money between the years 2012 and 2023 without the approval of the Finance Minister.
-
-"Until now, 30% of the fines received by the customs were given to the government, 20% to the compensation fund, and 50% to the raiding officers, as agreed in the ongoing discussions with the customs unions and the customs control authority," Minister Siyambalapitiya said.
-
-...
-
-[Data](articles/d457796f.json)
-
-[Extended Data](ext_articles/d457796f.ext.json)
-
----
-
-### Sri Lanka opposition drops bombshell on Mannar wind power tender
-
-*2024-05-22 19:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-drops-bombshell-on-wind-power-plant-tender-block-164337/) · `en`
-
-ECONOMYNEXT – A tender for a 50 MegaWatt wind power plant by state-run Ceylon Electricity Board has been blocked to prevent sharply lower power purchase prices from competitive bidding being revealed to the public, opposition legislator Kabir Hashim charged in parliament.
-
-A technical evaluation of three companies which had submitted bids had been completed according to information coming to him, Hashim told parliament Wednesday.
-
-“The financial bids were due to be opened on May 17 based on information we are receiving,” Hashim said.
-
-“But due to pressure from certain officials we are learning that there is an attempt to cancel the financial bid. I am asking why the bid was not opened on May 17.
-
-“We learn that the Sustainable Energy Authority Chairman and officials have engaged in a big operation to stop this. I do not know who these people are representing.”
-
-...
-
-[Data](articles/ce00e6ff.json)
-
-[Extended Data](ext_articles/ce00e6ff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 05:36:18**
+As of **2024-05-23 05:58:30**
 
 ## Newspaper Stats
 
-*Scraped **25,808** Articles*
+*Scraped **25,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 231
 dbsjeyarajcom | 259
 bbccomsinhala | 260
 newsfirstlk | 363
-islandlk | 1,386
+islandlk | 1,390
 economynextcom | 1,488
 dailyftlk | 1,532
 adalk | 2,214
 adaderanalk | 2,968
-tamilmirrorlk | 3,009
+tamilmirrorlk | 3,010
 virakesarilk | 3,923
 dailymirrorlk | 4,057
 adaderanasinhalalk | 4,118
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,808 (100.0%) of 25,808 articles have been extended.
+25,808 (100.0%) of 25,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -207,6 +207,22 @@ In her address to the staff of the Embassy, the Ambassador-designate referred to
 [Data](articles/b44994a9.json)
 
 [Extended Data](ext_articles/b44994a9.ext.json)
+
+---
+
+### அடிப்படைவாத தாக்குதல்களை ’தடுக்க முடியாது’
+
+*2024-05-23 02:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/175-337741) · `ta`
+
+இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும். இல்லையேல் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைவாத தாக்குதல்கள்  இலங்கையிலும் எதிர்காலத்தில் நடத்தப்படுவதனை தடுக்க முடியாதென  ஆளும் தரப்பு எம்.பி.யுமான ரியர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+
+இந்தியாவின் பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காகவே  ஐ.எஸ்.ஐ.எஸ். அமைப்பை  சேர்ந்த 4 இலங்கை முஸ்லிம்கள்   கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள் என்றார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால்    கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/67531169.json)
 
 ---
 
@@ -2237,27 +2253,5 @@ People are buying lanterns in Colombo to celebrate the Vesak festival which comm
 [Data](articles/c216cfb3.json)
 
 [Extended Data](ext_articles/c216cfb3.ext.json)
-
----
-
-### A group of public officials have violated parliamentary privileges
-
-*2024-05-22 15:32:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-නිලධාරීන්-පිරිසක්-පාර්ලිමේන්තු-වරප්‍රසාද-කඩකරපු-හැටි-හර්ෂ-කියයි/11-409789) · `si`
-
-Public officials have breached parliamentary privileges, specifically regarding discussions on defense and immigration departments' rights and foreign visa appointments. The Chairman of the Public Finance Committee highlighted issues with scheduling meetings, leading to concerns about parliamentary procedures being undermined. This situation prompted a call for the Speaker to intervene and address the matter appropriately.
-
-🟩
-
-Chairman of the Public Finance Committee on Public Finance Committee said that the committee to discuss the privileges of the Department of Defense and the Department of Immigration to discuss the privileges of Parliament to discuss the appointment of online visas for foreigners to visit Sri Lanka.
-
-Accordingly, a statement made by Parliament today (22) declared that the Speaker said to the Speaker to take appropriate action.
-
-"We had a discussion. It was impossible for the first day, so he was summoned on the second day. We proposed a few days to the Secretary of the Ministry of Public Defense. Agree with him we decided the day. Now it was on the 14th. The preceding the previous day, the parliament was over, he would not come to the 6.15 pm. But the previous letter was sent. After that, I was asked.
-
-...
-
-[Data](articles/c8666a1e.json)
-
-[Extended Data](ext_articles/c8666a1e.ext.json)
 
 ---

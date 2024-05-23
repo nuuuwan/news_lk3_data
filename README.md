@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 10:03:59**
+As of **2024-05-23 10:18:40**
 
 ## Newspaper Stats
 
-*Scraped **25,856** Articles*
+*Scraped **25,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,99 +20,153 @@ adaderanalk | 2,969
 tamilmirrorlk | 3,016
 virakesarilk | 3,929
 dailymirrorlk | 4,066
-adaderanasinhalalk | 4,125
+adaderanasinhalalk | 4,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,847 (100.0%) of 25,856 articles have been extended.
+25,856 (100.0%) of 25,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### மன்னார், முருங்கன் பகுதியில் 2 வது நாளாகவும் காட்டு யானை நடமாட்டம் - யானையை உடனடியாக அப்புறப்படுத்துமாறு அரச அதிபரிடம் கோரிக்கை
+### දඹුල්ල කණ්ඩායමට නව හිමිකාරීත්වයක්
+
+*2024-05-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196928) · `si`
+
+එළඹෙන LPL තරගාවලිය නියමිත පරිදි පැවැත්වීමට කටයුතු සුදානම් කර ඇති බව ලංකා ප්‍රිමියර් ලීග් සංවිධායකයින් නිවේදනය කරයි.
+
+දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතීන් වහාම ක්‍රියාත්මක වන පරිදි අත්හිටුවීමට ලංකා ප්‍රිමියර් ලීග් ඊයේ (22) කටයුතු කළ අතර, එහි හිමිකාරීත්වයේ වෙනසක් සමග මෙම තරගාවලිය ඉදිරියේ දී පැවැත්වෙන බව අදාළ නිවේදනයේ දැක්වේ.
+
+LPL තරගාවලියේ විනිවිඳභාවය සහ ගුණාත්මක භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් මෙම පියවර ගත් බව සඳහන් වේ.
+
+2024 ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී තරග පාවාදීම සඳහා යෝජනා කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් දඹුල්ල තන්ඩර්ස් කණ්ඩායම් හිමිකරු සහ ප්‍රධාන විධායක නිලධාරීයා ලෙස කටයුතු කළ තමීම් රහමාන් මැයි  31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
+
+◼️
+
+[Data](articles/8dda462f.json)
+
+---
+
+### Wild elephant walk for the 2nd day in Mannar and Murugan
 
 *2024-05-23 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184280) · `ta`
 
-மன்னார் முருங்கன் பகுதியில் இன்றைய தினம் வியாழக்கிழமை (23) காலை இரண்டாவது நாளாகவும் தனித்து திரிகின்ற காட்டு யானையை அங்கிருந்து வெளியேற்ற அரச அதிகாரிகள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் முன் வர வேண்டும் என அருட்தந்தை டெஸ்மன் அஞ்சலோ அடிகளார் கோரிக்கை விடுத்துள்ளார்.
+For the second consecutive day, a wild elephant roams Mannar Murugan, causing panic among locals. Authorities and MPs urged to relocate it swiftly to safeguard lives and livelihoods.
 
-மன்னார் முருங்கன் பகுதியில் இன்றைய தினம் வியாழக்கிழமை (23) காலை இரண்டாவது நாளாகவும் தனித்து காட்டு யானை ஒன்று நடமாடி திரிகின்றன.இதனால் அப்பகுதி மக்கள் பல்வேறு அசௌகரியங்களுக்கு முகம் கொடுத்து வருகின்றனர்.
+🟩
 
-நேற்றைய தினம் புதன்கிழமை (22) காலையும் குறித்த யானை குறித்த பிரதேசத்தில் சுற்றித் திரிந்துள்ளது.
+Blessed by State Officers and MPs have demanded that state officials and MPs come forward to evacuate the wild elephant for the second day on Thursday (23) this morning in the Mannar Murugan area.
 
-இந்த நிலையில் இன்றைய தினம் வியாழக்கிழமை (23) காலை  மக்கள் நடமாட்டம் உள்ள பகுதிகளில் இரண்டாவது நாளாகவும் நடமாடி திரிகின்றது.மக்கள் பல்வேறு கஷ்டங்களுக்கு மத்தியில் குறித்த யானையை காட்டுக்குள் துரத்தி உள்ளனர்.
+A wild elephant is walking for the second day on Thursday (23) this morning in the Mannar Murugan area.
 
-குறித்த யானையை உடனடியாக குறித்த பகுதியில் இருந்து பிடித்து பிரிதொரு இடத்திற்கு கொண்டு செல்ல அதிகாரிகள் உடன் துரித நடவடிக்கைகளை மேற்கொள்ள வேண்டும்.
+The elephant wandered around the area on Wednesday morning (22).
+
+In the meantime, this morning (23), the people are walking for the second day in the area where people are walking.
+
+The elephant should be immediately taken from the area and taken to a place where the authorities should take swift measures.
+
+The elephant is now in a state of impact on the livelihood of the people in the area. In this regard, the Nanatan Divisional Secretary should also take swift measures in view of the welfare of the people.
+
+We immediately contacted the Mannar District Government Agent and informed the incident.
 
 ...
 
 [Data](articles/765ae38e.json)
 
+[Extended Data](ext_articles/765ae38e.ext.json)
+
 ---
 
-### இந்தியா வந்த பிரபாகரனிடம் ராஜீவ் காந்தி என்ன சொன்னார்?
+### What did Rajiv Gandhi say to Prabhakaran who came to India?
 
 *2024-05-23 09:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வந்த-பிரபாகரனிடம்-ராஜீவ்-காந்தி-என்ன-சொன்னார்/175-337749) · `ta`
 
-முன்னாள் பிரதமர் ராஜீவ் காந்தி குறித்து, முன்னாள் மத்திய அமைச்சர் மணி சங்கர் அய்யர் எழுதியிருக்கும் 'நான் அறிந்த ராஜீவ்' (The Rajiv I Knew) என்ற நூல், இந்தியா - இலங்கை ஒப்பந்தம் குறித்து ராஜீவின் உள்வட்டத்தில் இருந்த ஒரு நபரின் பார்வையில் சில நுணுக்கமான தகவல்களை முன்வைக்கிறது.
+Rajiv Gandhi, according to Mani Shankar Iyer in 'The Rajiv I Knew', agreed to send an Indian peacekeeping force to Sri Lanka under pressure from Sri Lankan President Jayawardene, despite internal opposition and without consulting experts. This decision led to a disastrous intervention, initially seen as a liberation force but ending in conflict with Tamil militants, costing many lives and damaging India's reputation.
 
-காங்கிரஸ் ஆட்சிக் காலத்தில் மாநிலங்களவை உறுப்பினராகவும் மத்திய அமைச்சராகவும் இருந்த மணி சங்கர் அய்யர் தற்போது ராஜீவ் காந்தி பிரதமராக இருந்த காலகட்டம் குறித்து விரிவான புத்தகம் ஒன்றை எழுதியிருக்கிறார். 'The Rajiv I Knew' என்ற பெயரில் வெளியாகியிருக்கும் இந்தப் புத்தகம், ராஜீவ் காந்தி ஆட்சியின் காலகட்டத்தில் எட்டப்பட்ட ஒப்பந்தங்கள், சர்ச்சைகள், வெளியுறவுத் துறை கொள்கை முயற்சிகள், உள்நாட்டில் மேற்கொள்ளப்பட்ட முயற்சிகள், பஞ்சாயத் ராஜ் ஆகியவை குறித்து விரிவாகப் பேசுகிறது.
+🟩
 
-இதில் சர்ச்சைகள் என்ற பகுதியில் ஷா பானோ வழக்கு, பாபர் மசூதி விவகாரம், ராஜஸ்தானில் மேற்கொள்ளப்பட்ட பிராஸ்டாக் நடவடிக்கை, இந்திய அமைதி காக்கும் படை இலங்கைக்கு அனுப்பப்பட்ட விவகாரம், போஃபர்ஸ் ஆகியவை விவரிக்கப்பட்டிருக்கின்றன.
+The book 'The Rajiv I Knew', written by former Union Minister Mani Shankar Iyer on former Prime Minister Rajiv Gandhi, presents some sophisticated information in the view of a person in Rajiv's inner self regarding the India -Sri Lanka Agreement.
+
+Mani Shankar Iyer, who was a member of the Rajya Sabha during the Congress regime, has now written a comprehensive book on the time when Rajiv Gandhi was the Prime Minister.. The book, titled 'The Rajiv I Knew', elaborates on contracts, controversies, foreign policy efforts, domestic efforts, domestic efforts, and Panchayat Raj.
+
+In the controversy, the Shah Pano case, the Babri Masjid affair, the Brastock action in Rajasthan, the Indian Peacekeeping Force sent to Sri Lanka, and the Bofors are described.
+
+Mani Shankar Iyer has said that it was the worst decision to send an Indian peacekeeping force to Sri Lanka. Mani Shankar Iyer also tells a new information on how India agreed to send the Indian Peace Keeping Forum.
 
 ...
 
 [Data](articles/43f66ae0.json)
 
+[Extended Data](ext_articles/43f66ae0.ext.json)
+
 ---
 
-### காசா  சிறுவர்கள் நிதியத்திற்கு 40 மில்லியன் ரூபா நன்கொடை
+### 40 million rupees donation to Gaza Children's Fund
 
 *2024-05-23 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184277) · `ta`
 
-பேருவளை, சீனங்கோட்டை பள்ளிவாசல் சங்கம், சீனங்கோட்டை இரத்தினக்கற்கள் மற்றும்  ஆபரண வர்த்தகர்கள் சங்கம், "ஜெம் ஸ்ரீலங்கா" சங்கம் மற்றும் சீனங்கோட்டை பிரதேசத்தைச் சேர்ந்த சிறுவர்களின் பங்களிப்புடன் காசா சிறுவர் நிதியத்திற்கு  ரூ. 40,198,902  நன்கொடையாக வழங்கப்பட்டது.
+A significant donation of 40,198,902 rupees to the Gaza Children's Fund was made by various associations including Beruwala, Chinese Fort School, Chinese Gems & Jewelry Traders, Gem Sri Lanka, and China. The check was presented to President Ranil Wickremesinghe by the President of the China Fort Gems and Jewelry Trade Association, with External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, and Beruwala Divisional Traders attending the event.
 
-இதற்கான காசோலை நேற்று  புதன்கிழமை  (21) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சீனங்கோட்டை இரத்தினக்கற்கள் மற்றும் ஆபரண வர்த்தக சங்கத்தின் தலைவர்   பாராளுமன்ற உறுப்பினர் மர்ஜான்  பலீலினால் கையளிக்கப்பட்டுள்ளது.
+🟩
 
-இந்த நிகழ்வில் வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோரும் பேருவளை பிரதேச வர்த்தகர்களும் கலந்துகொண்டனர்.
+The Gaza Children's Fund to the Gaza Children's Fund with the participation of children from the Beruwala, Chinese, Chinese Fort School Association, Chinese Gems and Jewelry Traders Association, Gem Sri Lanka Association and China. 40,198,902 donated.
+
+The check was handed over to President Ranil Wickremesinghe at the Presidential Office yesterday (21) by the President of the China Fort Gems and Jewelry Trade Association.
+
+External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake and Beruwala Divisional Traders were also present at the event.
 
 ◼️
 
 [Data](articles/1439a6d8.json)
 
+[Extended Data](ext_articles/1439a6d8.ext.json)
+
 ---
 
-### அனைத்து உயிரினங்களும் துன்பங்கள் நீங்கி, ஆரோக்கியமும், அமைதியும் பெற்றிட எனது பிரார்த்தனைகள் - வெசாக் வாழ்த்துச் செய்தியில் பிரதமர்
+### My prayers to get rid of all creatures and get health and peace - the Prime Minister in the message of Vesak
 
 *2024-05-23 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184279) · `ta`
 
-அனைத்து உயிரினங்களும் துன்பங்கள் நீங்கி, ஆரோக்கியமும், அமைதியும் பெற்றிட எனது பிரார்த்தனைகள் என பிரதமர் தினேஷ் குணவர்தன தனது வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+In his Vesak message, PM Dinesh Gunawardena expressed wishes for universal well-being and peace, highlighting the importance of Buddhist principles in navigating global challenges. He emphasized the significance of Vesak, a day commemorating Buddha's life, as a reminder of the transient nature of life and the need for balance and neutrality. He urged adherence to Buddhist teachings for genuine prosperity and the establishment of a society grounded in love, compassion, joy, and sacrifice, aiming for true happiness through Buddhist philosophy.
 
-புத்தரின் பிறப்பு, ஞானம் பெறுதல் மற்றும் பரிநிர்வாணமடைதல் ஆகிய நிகழ்வுகளை நினைவுகூரும் வெசாக் நோன்மதி தினம் பௌத்த மக்களின் மிகவும் புனிதமான நாளாகும். பன்னெடுங்காலமாக இலங்கையர்களான நாம் அதனை மிகுந்த பக்தி சிரத்தையுடன் கொண்டாடி வருகின்றோம்.
+🟩
 
-இயற்கை அனர்த்தங்களாலும் பொருளாதார நெருக்கடிகளாலும் முடங்கியிருந்த பல வருடங்களின் பின் இலங்கையர்களான எமக்கு முழுமையான வெசாக் பண்டிகையை கொண்டாடும் வாய்ப்பு கிடைத்துள்ளது.
+Prime Minister Dinesh Gunawardena said in his congratulatory message that my prayers to get all the creatures to get rid of suffering and get health and peace.
 
-உலகின் இயல்பு நாளுக்கு நாள் மாறிக்கொண்டே இருக்கிறது. தற்போது உலகில் எமது வாழ்க்கை முறை அழிந்து வருகிறது. இதன் காரணமாக, உலகின் இயல்பை சிறப்பாகப் புரிந்துகொள்ள உதவும் பௌத்தத்தின் வழியைப் பின்பற்றி பௌத்த சமயத்தின் உண்மையான அர்தத்தைக் கண்டறிய உலக மக்கள் பௌத்த தர்மத்தை நாடிச்செல்கின்றனர். பௌத்த சமயத்தில் போதிக்கப்படும் நடுநிலை கொள்கையே அதன் தர்மப் பாதையாகும்.
+Vesak Nonthi Day is the most sacred day of the Buddhist people to commemorate the events of Buddha's birth, wisdom and transcendence. As Sri Lankans for a long time, we have been celebrating it with great devotion.
+
+After many years, which have been paralyzed by natural disasters and economic crises, we have the opportunity to celebrate the full Vesak festival.
+
+The nature of the world is changing day by day. Our lifestyle is currently perishing in the world. Because of this, the people of the world are seeking Buddhist Dharma to find the true richness of Buddhism following the way of Buddhism to help you understand the nature of the world.. Its Dharma path is the neutral principle taught during Buddhism.
 
 ...
 
 [Data](articles/27e60f22.json)
 
+[Extended Data](ext_articles/27e60f22.ext.json)
+
 ---
 
-### வங்குரோத்து நிலைக்கு முற்றுப்புள்ளி வைத்து, ஞானம், செழிப்பு, சௌபாக்கியத்தின் ஒளியை மிளிர செய்வதற்கான காலம் வந்துவிட்டது -  வெசாக் வாழ்த்துச் செய்தியில் எதிர் கட்சி தலைவர்
+### The time has come to shine the light of wisdom, prosperity, and comfort - the leader of the Vesak greeting
 
 *2024-05-23 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184281) · `ta`
 
-வங்குரோத்து நிலைக்கு முற்றுப்புள்ளி வைத்து, ஞானம், செழிப்பு மற்றும் சௌபாக்கியத்தின் ஒளியை மிளிர செய்வதற்கான காலம் வந்துவிட்டது என எதிர் கட்சி தலைவர் சஜித் பிரேமதாச தனது வெசாக் தின வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+In a message marking Vesak, Opposition Leader Sajith Premadasa calls for enlightenment and prosperity amidst national challenges, praying for wisdom to overcome darkness and restore hope.
 
-வங்குரோத்து நிலையாலும் மக்கள் வாழ்வின் சரிவினாலும் நாடு இருளில் மூழ்கிக்கிடக்கிறது. இந்த இருளுக்கு முற்றுப்புள்ளி வைத்து, ஞானம், செழிப்பு மற்றும் சௌபாக்கியத்தின் ஒளியை மிளிர செய்வதற்கான காலம் வந்துவிட்டது. வெசாக் தினத்தில் நீங்கள் ஏற்றிவைக்கும் ஒரு தீபத்தில், நாடு விழ்ந்து கிடக்கும் இருளில் இருந்து ஒளியை நோக்கி அடியெடுத்து வைப்பதற்கான ஞானம் பிறக்கட்டும் என்று மனப்பூர்வமாக பிராத்திக்கிறேன் எனக் குறிப்பிட்டுள்ளார்.
+🟩
+
+Opposition Leader Sajith Premadasa said in his message that the time has come to shine the light of enlightenment, prosperity and the light of wisdom and prosperity.
+
+The country is immersed in darkness due to bankruptcy and the collapse of people's lives. The time has come to shine the light of wisdom, prosperity and the light of this darkness. In a torch where you load on Vesak day, I willingly pray that the wisdom of keeping the light from the darkness of the country will be born.
 
 ◼️
 
 [Data](articles/f02c913a.json)
+
+[Extended Data](ext_articles/f02c913a.ext.json)
 
 ---
 
@@ -147,6 +201,8 @@ The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (
 ...
 
 [Data](articles/f032349c.json)
+
+[Extended Data](ext_articles/f032349c.ext.json)
 
 ---
 
@@ -191,6 +247,8 @@ He further stated that next week, tenders will be invited to provide the relevan
 ◼️
 
 [Data](articles/734c4d18.json)
+
+[Extended Data](ext_articles/734c4d18.ext.json)
 
 ---
 
@@ -844,19 +902,25 @@ The government has given permission to find investors and maintain them properly
 
 ---
 
-### ’குறைவான பெறுமதிக்கு அரசாங்க நிறுவனங்கள் இல்லை’
+### No government agencies for low value
 
 *2024-05-23 02:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைவான-பெறுமதிக்கு-அரசாங்க-நிறுவனங்கள்-இல்லை/175-337744) · `ta`
 
-அரசாங்கத்தின் மதிப்பீட்டுப் பெறுமதிக்கு உட்பட்டே தனியார் துறையின் முதலீடுகளுக்காக அரச நிறுவனங்கள் வழங்கப்படும். மதிப்பிடப்பட்ட தொகைக்கு குறைவான தனியார் முதலீடுகளுக்கு அரச நிறுவனங்களை வழங்க வேண்டாமென ஜனாதிபதி ரணில் விக்கிரமசிங்க பணிப்புரை விடுத்துள்ளார் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு இராஜாங்க அமைச்சர் அருந்திக்க பெர்ணான்டோ தெரிவித்தார்.
+President Ranil Wickremesinghe has directed against providing state institutions for private investments below government valuation. The Minister of Urban Development and Housing, Arundika Fernando, announced this policy change, aiming to ensure transparency and higher value for investments in companies like Hilton Hotel, benefiting both the government treasury and employees.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அருந்திக்க பெர்ணான்டோ மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழ் உள்ள பல நிறுவனங்களுக்கு முதலீட்டாளர்களைக் கண்டறிந்து அவற்றை ஒழுங்கான முறையில் பராமரிக்க அரசாங்கம் அனுமதி வழங்கியிருந்தது. இதன்படி, ஹில்டன் ஹோட்டல் போன்ற நிறுவனங்களுக்கு அந்த முதலீடுகளை வெளிப்படைத்தன்மையுடன் பெற்று, அதன் மூலம் அரசாங்க திறைசேரியைப் பலப்படுத்தவும், ஊழியர்களுக்கு பங்குகளை வழங்கவும், நிறுவனத்தை ஒழுங்கான முறையில் பராமரிக்கவும் எதிர்பார்க்கப்படுகிறது.
+State institutions will be provided for the investments of the private sector subject to the value of the government. Minister of Urban Development and Housing, Arundika Fernando said that President Ranil Wickremesinghe has issued a directive not to provide state institutions for private investments for less than the estimated amount.
+
+Arundika Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The government has given permission to find investors and maintain them properly for many companies under the Ministry of Urban Development and Housing. Accordingly, companies like the Hilton Hotel are expected to obtain those investments transparency, thereby strengthening the government treasury, providing stocks to employees and maintaining the company properly.
 
 ...
 
 [Data](articles/358063ca.json)
+
+[Extended Data](ext_articles/358063ca.ext.json)
 
 ---
 
@@ -954,19 +1018,27 @@ While the Vaddukoddai police are carrying out investigations into the incident, 
 
 ---
 
-### அடிப்படைவாத தாக்குதல்களை ’தடுக்க முடியாது’
+### Fundamental attacks cannot be prevented
 
 *2024-05-23 02:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அடிப்படைவாத-தாக்குதல்களை-தடுக்க-முடியாது/150-337742) · `ta`
 
-இஸ்லாமிய அடிப்படைவாதம் தொடர்பில் முன்வைக்கப்பட்டுள்ள பரிந்துரைகளை அரசாங்கம் செயற்படுத்த வேண்டும். இல்லையேல் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலை போன்ற அடிப்படைவாத தாக்குதல்கள்  இலங்கையிலும் எதிர்காலத்தில் நடத்தப்படுவதனை தடுக்க முடியாதென  ஆளும் தரப்பு எம்.பி.யுமான ரியர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+Riyar Admiral Sarath Weerasekera highlighted the inability to prevent fundamentalist attacks, emphasizing the need for implementing recommendations on Islamic fundamentalism to safeguard Sri Lanka's future. The discussion followed news of four Sri Lankan Muslims linked to ISIS being arrested in India for allegedly planning attacks against the Bharatiya Janata Party and Hindus, motivated by ISIS's extremist ideology. This incident sparked concerns about fundamentalist activities and prompted questions about the government's stance and action on these matters.
 
-இந்தியாவின் பாரதிய ஜனதா கட்சியை சேர்ந்தவர்களையும், இந்துக்களையும் படுகொலை செய்வதற்காகவே  ஐ.எஸ்.ஐ.எஸ். அமைப்பை  சேர்ந்த 4 இலங்கை முஸ்லிம்கள்   கடந்த 18 ஆம் திகதி இந்தியாவுக்கு சென்றுள்ளார்கள் என்றார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (22)  எதிர்க்கட்சியினால்    கொண்டுவரப்பட்ட சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+The government should implement the recommendations made on Islamic fundamentalism. Riyar Admiral Sarath Weerasekera, the ruling party MP, said that fundamentalist attacks, such as the Sunday bombing, could not prevent the future of Sri Lanka in the future.
+
+ISIS to assassinate the Bharatiya Janata Party of India and the Hindus. He said that 4 Sri Lankan Muslims from the organization went to India on the 18th.
+
+He said this in the debate on the proposal on Wednesday (22) in Parliament.
+
+Kavinda Jayawardena, MP of the United People's Power, and four Sri Lankan Muslims from ISIS have been arrested in India. They have gone there to carry out attacks in India.. Therefore, there is a fear of fundamentalist activities. He questioned the government's position on this.
 
 ...
 
 [Data](articles/159fe5e7.json)
+
+[Extended Data](ext_articles/159fe5e7.ext.json)
 
 ---
 
@@ -2209,33 +2281,5 @@ The Department of Examinations has stated that in any case the application will 
 [Data](articles/2bf1f98e.json)
 
 [Extended Data](ext_articles/2bf1f98e.ext.json)
-
----
-
-### A group of prisoners pardoned in celebrating Vesak Poya
-
-*2024-05-22 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196914) · `si`
-
-In celebration of Vesak Poya, 278 prisoners across 278 prisons in the country will be released tomorrow, including 15 from Welikada Prison and 37 from Mahara Prison. This decision, based on constitutional powers, marks a special commitment to prisoners during this holy day.
-
-🟩
-
-Steps have been taken to provide a special commitment to the prisoners to mark the noble Vesak Poya which will be held tomorrow (23).
-
-According to the President, in depending on the powers vested in Section 34 of the Constitution, the President has given a special commitment to prison prisoners.
-
-Prisoners will bear the state under two special conditions.
-
-Accordingly, 278 prisons in the country are planning to release 278 prisoners tomorrow.
-
-15 prisoners from Welikada Prison and 37 prisoners will be released from Mahara Prison.
-
-Prison media spokesman Prison Spokesman Gaminne, the Commissioner of Prisons Spokes Chairman Gaminne. B. Dissanayake added.
-
-◼️
-
-[Data](articles/5ecb9cb6.json)
-
-[Extended Data](ext_articles/5ecb9cb6.ext.json)
 
 ---

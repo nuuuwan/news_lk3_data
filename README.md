@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 19:18:47**
+As of **2024-05-23 19:33:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,141
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,948 (100.0%) of 25,949 articles have been extended.
+25,949 (100.0%) of 25,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Motorists using the Colombo-Kandy main road are advised to be vigilant as there 
 ◼️
 
 [Data](articles/0a50e275.json)
+
+[Extended Data](ext_articles/0a50e275.ext.json)
 
 ---
 

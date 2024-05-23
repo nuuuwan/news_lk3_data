@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 19:03:52**
+As of **2024-05-23 19:18:47**
 
 ## Newspaper Stats
 
-*Scraped **25,948** Articles*
+*Scraped **25,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,400
 economynextcom | 1,495
 dailyftlk | 1,533
 adalk | 2,222
-adaderanalk | 2,978
+adaderanalk | 2,979
 tamilmirrorlk | 3,027
 virakesarilk | 3,953
 dailymirrorlk | 4,083
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,141
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,948 (100.0%) of 25,948 articles have been extended.
+25,948 (100.0%) of 25,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Motorists using Colombo-Kandy main road cautioned
+
+*2024-05-23 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99402/motorists-using-colombo-kandy-main-road-cautioned) · `en`
+
+Motorists using the Colombo-Kandy main road are advised to be vigilant as there are risks of rocks and trees falling on to the stretch of road at Pahala Kadugannawa, the Disaster Management Centre (DMC) in Kegalle said.
+
+◼️
+
+[Data](articles/0a50e275.json)
+
+---
 
 ### Approval to amend the Gun Command
 
@@ -2279,25 +2291,5 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 [Data](articles/6fcab259.json)
 
 [Extended Data](ext_articles/6fcab259.ext.json)
-
----
-
-### Dawson Bungalow to be sold?
-
-*2024-05-23 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dawson-Bungalow-to-be-sold/108-283218) · `en`
-
-Colombo, May 23 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Kabir Hashim in Parliament yesterday questioned about an alleged move to sell off the historical Dawson Bungalow situated in the Kegalle District.
-
-" The employees of the bungalow had informed about a move to sell it. They have complained that their opinion has not been called for to date," the MP said.
-
-"The bungalow holds historical significance as it was once the residence of Britisher Dawson, who played a key role in the construction of the Colombo Kandy road," he said.
-
-MP Hashim suggested that instead of being sold, the bungalow should be converted into a museum. He also noted that the bungalow is currently owned by the Road Development Authority.
-
-◼️
-
-[Data](articles/e47be579.json)
-
-[Extended Data](ext_articles/e47be579.ext.json)
 
 ---

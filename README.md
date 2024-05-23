@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 08:52:59**
+As of **2024-05-23 09:03:49**
 
 ## Newspaper Stats
 
-*Scraped **25,841** Articles*
+*Scraped **25,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,215
 adaderanalk | 2,969
 tamilmirrorlk | 3,013
 virakesarilk | 3,924
-dailymirrorlk | 4,063
-adaderanasinhalalk | 4,122
+dailymirrorlk | 4,064
+adaderanasinhalalk | 4,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,837 (100.0%) of 25,841 articles have been extended.
+25,841 (100.0%) of 25,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### අත්අඩංගුවට ගත් IS ත්‍රස්ත සාමාජිකයින්ගේ විමර්ශන ගැන තීරණයක්
+
+*2024-05-23 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196925) · `si`
+
+ඉන්දියාවේ අහමදාබාද් ගුවන්තොටුපොළේ දී ISIS සංවිධානයේ සාමාජිකයින් ලෙස අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා සම්බන්ධයෙන් විමර්ශන සිදුකිරීම සඳහා විශේෂ කමිටුවක් පත්කර තිබේ.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහ පොලිස් ත්‍රස්ත විමර්ශන කොට්ඨාසයේ අධ්‍යක්ෂවරුන්ගේ ප්‍රධානත්වයෙන් එම කමිටුව පත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+පසුගිය 20 වන දින ඉන්දියාවේ අහමදාබාද් ගුවන්තොටුපොළේ දී මෙම ශ්‍රී ලාංකිකයින් සිව්දෙනා අත්අඩංගුවට ගන් ලැබීය.
+
+අත්අඩංගුවට ගත් මොවුන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින් තොරතුරු රැසක් හෙළි වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
+
+අදාළ පුද්ගලයින් පාකිස්ථානයේ ISIS නායකයෙකු ලෙස කටයුතු කරන අබු නමැත්තා සමග සම්බන්ධ වී ප්‍රහාරයක් සිදුකිරීමට සැලසුම් කර ඇති බව ද එහිදී අනාවරණය වී තිබේ.
+
+අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා ජාතික තවුහිද් ජමාත් සංවිධානයේ සාමාජිකයින් බවට ද අනාවරණය වී ඇති බව ඉන්දියාවේ ද හින්දු පුවත්පත වාර්තා කර ඇත.
+
+...
+
+[Data](articles/8ad01226.json)
+
+---
 
 ### Prevailing showery and windy conditions to continue further
 
@@ -49,6 +71,26 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 ◼️
 
 [Data](articles/6fcab259.json)
+
+[Extended Data](ext_articles/6fcab259.ext.json)
+
+---
+
+### Dawson Bungalow to be sold?
+
+*2024-05-23 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dawson-Bungalow-to-be-sold/108-283218) · `en`
+
+Colombo, May 23 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Kabir Hashim in Parliament yesterday questioned about an alleged move to sell off the historical Dawson Bungalow situated in the Kegalle District.
+
+" The employees of the bungalow had informed about a move to sell it. They have complained that their opinion has not been called for to date," the MP said.
+
+"The bungalow holds historical significance as it was once the residence of Britisher Dawson, who played a key role in the construction of the Colombo Kandy road," he said.
+
+MP Hashim suggested that instead of being sold, the bungalow should be converted into a museum. He also noted that the bungalow is currently owned by the Road Development Authority.
+
+◼️
+
+[Data](articles/e47be579.json)
 
 ---
 
@@ -598,25 +640,31 @@ In the 2024 TTDI, Sri Lanka recorded a score of 3.69, maintaining its 2019 score
 
 ---
 
-### වෙසක් නිර්මාණ : 'කාන්තාවන්ට අකැපයි, වස් වදිනවා කිවුවට මම තොරණක් හැදුවා'
+### Vesak Design: 'The Women Quit, I Know About Pleasure'
 
 *2024-05-23 02:14:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22lk2yl9jo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''භද්‍රඝට ජාතකයේ තියෙන්නේ බීමත්කම නිසා විනාශ වූ සිටු පුත්‍රයෙකුගේ කතාවක්.''
+"The Women Quit, I Know About Pleasure" is a Vesak Design story about a son ruined by alcohol. It highlights the creation of a pandal, emphasizing the significant role of women in this tradition. The design features 30,000 bulbs, symbolizing a trend and marking the first time a woman crafted a pandal.
 
-වෙසක් නිර්මාණ : 'කාන්තාවන්ට අකැපයි, වස් වදිනවා කිවුවට මම තොරණක් හැදුවා'
+🟩
 
-තොරණ නිර්මාණය කාන්තාවන්ට අකැප, වස් වදින ක්‍රියා බවට සමාජ සම්මත පැවතුන ද තමන්ට තොරණක් නිර්මාණය කිරීමට හැකි වීම සතුටක් බව ජනනි අලුදෙනිය BBC සිංහල සේවයට පැවසුවාය.
+It contains nothing here.Vadide header, "a story of a son who has been destroyed by drinking."
 
-රත්නපුර දිස්ත්‍රික්කයට අයත් ගොඩකවෙල, අරඹදෙනිය ගම්මානයේ ජිවත්වන ඇය අදට යෙදෙන (මැයි 23) වෙසක් පොහොය නිමිත්තෙන් තොරණක් නිර්මාණය කිරීමට මූලිකත්වය ගත්තාය.
+Vesak Design: 'The Women Quit, I Know About Pleasure'
 
-භද්‍රඝට ජාතකය විස්තර කෙරෙන, අඩි 40ක් උස එම තොරණ විදුලි බුබුළු 30,000කින් සමන්විත වේ.
+The Pandalism Design was a pleasure to create a pandal, but it was a pleasure to create a pandal.
 
-''තොරණ නිර්මාණ ඉතිහාසයේ කාන්තා දායකත්වය ඉතා දුර්ලභයි. කාන්තාවන් මේ වැඩ සඳහා සම්බන්ධ වෙලා තිබුණට සමාජ මාධ්‍යයෙන් ප්‍රසිද්ධ වුණාට පස්සේ තමයි මම දැන ගත්තේ කාන්තාවක් තොරණක් නිර්මාණය කරපු පළමු අවස්ථාව මේක කියලා.'' යනුවෙන් ජනනි අලුදෙනිය පවසන්නීය.
+She was the initiative to create a pandal to create a pandal today (May 23) who lives in Godakawela, Ravadeniya village in Ratnapura District.
+
+There are 30,000 bulbs of the height of 40,000 bulbs, describing the trends.
+
+Women's contribution in the history of Pandala Design. When women were familiar with this work, this was the first time a woman was created by a woman. "
 
 ◼️
 
 [Data](articles/c119a75f.json)
+
+[Extended Data](ext_articles/c119a75f.ext.json)
 
 ---
 
@@ -2213,53 +2261,5 @@ The 33-year-old suspect is a resident of the Heiyanthuduwa area in Mabima.
 [Data](articles/2ad2879a.json)
 
 [Extended Data](ext_articles/2ad2879a.ext.json)
-
----
-
-### 2024 Grade 5 Scholarship exam date announced
-
-*2024-05-22 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99383/2024-grade-5-scholarship-exam-date-announced) · `en`
-
-The Department of Examination has announced the date for the  2024 Grade 5 Scholarship Examination.
-
-According to the statement released by the department, the 2024 Grade 5 Scholarship Examination will be held on September 15, 2014.
-
-Accordingly, applications for the exam will be accepted online from May 27 to June 14, 2024.
-
-The Commissioner General of Examinations, Amith Jayasundara emphasized that the deadline for the submission of applications will not be extended under any circumstances.
-
-He further stated that the instruction manual has provided detailed guidelines on how the applications for special-needs students should be submitted.
-
-◼️
-
-[Data](articles/14e23bc3.json)
-
-[Extended Data](ext_articles/14e23bc3.ext.json)
-
----
-
-### Sri Lanka stocks close up, interest in banks and bluechips return
-
-*2024-05-22 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-banks-and-bluechips-return-164273/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 1.08 percent, or 131.87 points, at 12,348; while the S&P SL20 Index closed up 1.61 percent, or 58.18 points, at 3,666.
-
-Ambeon Capital Plc saw the most active volumes traded, contributing Rs847mn to turnover, and the share closed down at 13.90.
-
-“There were a large amount of crossings today. Possibly high-net-worth investors bargain hunting,” market participants said.
-
-“The market seems to have bottomed out and we saw buying interest coming back. Banking counter was leading, but there was also increased activity on bluechips since many had posted good results.”
-
-John Keells Holdings Plc, which posted good results, closed up at 208.75, and was among the top positive contributors to the ASPI in the day.
-
-Hayleys Plc closed up at 93.80. Hemas Holdings Plc closed up at 88.90.
-
-...
-
-[Data](articles/e9e5f57d.json)
-
-[Extended Data](ext_articles/e9e5f57d.ext.json)
 
 ---

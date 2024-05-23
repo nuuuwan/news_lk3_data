@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 17:18:39**
+As of **2024-05-23 17:34:14**
 
 ## Newspaper Stats
 
-*Scraped **25,933** Articles*
+*Scraped **25,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,221
 adaderanalk | 2,977
 tamilmirrorlk | 3,027
 virakesarilk | 3,952
-dailymirrorlk | 4,080
-adaderanasinhalalk | 4,138
+dailymirrorlk | 4,082
+adaderanasinhalalk | 4,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,933 (100.0%) of 25,933 articles have been extended.
+25,933 (100.0%) of 25,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Main reservoir water capacity increases to 80%
+
+*2024-05-23 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-reservoir-water-capacity-increases-to-80/108-283266) · `en`
+
+With the current higher rainfall, the total water capacity of the main reservoirs in the country have reached to 80 percent, Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
+
+Accordingly, Deduru Oya reservoir in the Kurunegala district, Rajanganaya and Angamuwa reservoirs in the Anuradhapura District and several reservoirs in the Hambantota and Matara Districts have started spilling, he said.
+
+"Medium size tanks in the Matara district have started to spill. The spilling water levels of these tanks will increase with the higher rainfall in the next few days," he said.
+
+Meanwhile, the Irrigation Department today requested those living in the Kandy, Nuwara-Eliya and Sabaragamuwa districts to be vigilant over sudden floods due to heavy showers of about 150 mm.
+
+Those living in the above areas who have previous experiencs of sudden floods are requested to be watchful of emerging flash floods.
+
+...
+
+[Data](articles/051e50fb.json)
+
+---
+
+### කොරියානු භාෂා විභාගයේ ප්‍රතිඵල නිකුත් වෙයි
+
+*2024-05-23 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196943) · `si`
+
+නිෂ්පාදන හා ධීවර අංශයන්ට අදාළව පැවැති කොරියානු භාෂා ප්‍රවීණතා විභාගයේ ප්‍රතිඵල නිකුත් කර තිබේ.
+
+ඉන් අයදුම්කරුවන් 3,422ක් සමත් වී ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+මෙම විභාගය සඳහා අයදුම්කරුවන් 3,580ක පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි.
+
+මෙම විභාගයේ ප්‍රතිඵල මැයි මස 27 වන දින  www.slbfe.lk වෙබ් අඩවියේ පළ කරනු ලබන අතර විභාගය සමත් වූ අයදුම්කරුවන් සඳහා වෛද්‍ය පරීක්ෂණ මැයි මස 28 වන දින ආරම්භ කෙරේ.
+
+එසේම විභාගය සමත් අයදුම්කරුවන් සඳහා අදාළ සම්මුඛ පරීක්ෂණ ජුනි මස 06, 07 හා 10 යන දිනයන්හි කාර්යාංශයේ පළාත් කාර්යාල, විගමනික සම්පත් මධ්‍යස්ථාන හා පුහුණු මධ්‍යස්ථානයන් හිදී සිදු කෙරෙයි.
+
+◼️
+
+[Data](articles/dc2ca292.json)
+
+---
 
 ### A big rain in the next 36 hours
 
@@ -1800,6 +1840,20 @@ The man who was injured in the incident has been admitted to the Dikoya Hospital
 
 ### ‘ISIS operatives’ were booked for gold, drug smuggling in past: ATS
 
+*2024-05-23 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/ISIS-operatives-were-booked-for-gold-drug-smuggling-in-past-ATS/155-283230) · `en`
+
+India, May 23 (Indian Express) - Two days after arresting four Sri Lankan nationals suspected to be ISIS operatives, the Gujarat Anti-Terrorist Squad (ATS) Wednesday said that all the accused have been previously booked in gold and drug smuggling cases.
+
+The four accused have been identified as Mohammad Nusrath (33), Mohammad Faris (35), Mohammad Nafran (27) and Mohammad Rasdeen (43). The suspects were allegedly plotting to carry out terror attacks at the behest of a Pakistan-based handler, the ATS said on Monday.
+
+...
+
+[Data](articles/43d2d4b4.json)
+
+---
+
+### ‘ISIS operatives’ were booked for gold, drug smuggling in past: ATS
+
 *2024-05-23 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ISIS-operatives-were-booked-for-gold-drug-smuggling-in-past-ATS/108-283230) · `en`
 
 India, May 23 (Indian Express) - Two days after arresting four Sri Lankan nationals suspected to be ISIS operatives, the Gujarat Anti-Terrorist Squad (ATS) Wednesday said that all the accused have been previously booked in gold and drug smuggling cases.
@@ -2227,69 +2281,5 @@ Strong winds up to 60 kmph can be expected at times over the western slopes of t
 [Data](articles/f66c983c.json)
 
 [Extended Data](ext_articles/f66c983c.ext.json)
-
----
-
-### One of the Sri Lankans arrested at Gujarat Airport
-
-*2024-05-23 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184275) · `ta`
-
-A Sri Lankan man, suspected of being an IS member, was arrested at Gujarat Airport. He is the son of Potta Navbar, a football committee leader, and comes from Negombo's Periyamulla area. The 27-year-old, previously convicted for murder, had abandoned his education to engage in clothing trade between Sri Lanka and India.
-
-🟩
-
-It is reported that one of the Sri Lankans arrested on suspicion of being IS members on India's Gujarat flight is the son of the Sri Lankan Football Committee leader Potta Navpar.
-
-One of the arrested in Gujarat is from the Periyamulla area of Negombo, Sri Lankan officials said that the Grandpass Maligawatta and Colombo 13 are from Colombo 13.
-
-Sri Lankan officials said that the 27 -year -old youth was the son of Potta Navbar, who was sentenced to death in connection with the murder of Sarath Ambabitiya.
-
-It has been revealed that he was involved in buying and selling clothes from India after abandoning school education.
-
-Officials said that he was also on trips to India for business purposes for India.
-
-◼️
-
-[Data](articles/efdd7201.json)
-
-[Extended Data](ext_articles/efdd7201.ext.json)
-
----
-
-### Today is the full moon of Vesak
-
-*2024-05-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196922) · `si`
-
-Today marks the full moon of Vesak, celebrated as the Vesak pun day, releasing its 23rd edition.
-
-🟩
-
-The Vesak pun day of the Vesak pun (23) has been released today.
-
-◼️
-
-[Data](articles/050f39d7.json)
-
-[Extended Data](ext_articles/050f39d7.ext.json)
-
----
-
-### Sri Lanka to host foreign artistes, Sigiriya fashion show to promote tourism
-
-*2024-05-23 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-foreign-artistes-sigiriya-fashion-show-to-promote-tourism-164286/) · `en`
-
-ECONOMYNEXT- Sri Lanka plans to bring down international artistes, and hold water festivals to boost tourists, Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu said.
-
-“We will be hosting a few international artists in September to December,” Gajabahu told EconomyNext.
-
-Sri Lanka is targeting 2.3 million tourists in the year 2024 with expectations that it may go up to 2.5 million Gajabahu said.
-
-Sri Lanka is also planning on having a water festival in coastal towns such as Trincomalee, Arugambay  and Kalpitiya in order to showcase Sri Lanka’s capacity for watersports, Gajabahu said. (Colombo/May22/2024)
-
-◼️
-
-[Data](articles/6d4bd626.json)
-
-[Extended Data](ext_articles/6d4bd626.ext.json)
 
 ---

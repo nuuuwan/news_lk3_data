@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 00:04:54**
+As of **2024-05-24 00:18:29**
 
 ## Newspaper Stats
 
-*Scraped **25,982** Articles*
+*Scraped **25,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,84 @@ adalk | 2,223
 adaderanalk | 2,983
 tamilmirrorlk | 3,030
 virakesarilk | 3,960
-dailymirrorlk | 4,091
+dailymirrorlk | 4,092
 adaderanasinhalalk | 4,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,975 (100.0%) of 25,982 articles have been extended.
+25,982 (100.0%) of 25,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### மரம் முறிந்து வீழ்ந்தமையால் போக்குவரத்து பாதிப்பு
+### Government refutes plans to dissolve parliament: Bandula
 
-*2024-05-23 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184346) · `ta`
+*2024-05-23 23:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-refutes-plans-to-dissolve-parliament-Bandula/108-283277) · `en`
 
-அட்டன் லக்ஸபான பிரதான வீதியில் நோட்டன் மிக்போர்ட் பகுதியில் பாரிய மரம் 23 ஆம் திகதி வியாழக்கிழமை சரிந்து வீழ்ந்தமையினால் அவ்வீதியூடான பொது போக்குவரத்து முற்றாக தடைப்பட்டுள்ளது.
+Colombo, May 23 (Daily Mirror)- President Ranil Wickremesinghe has no plans to amend the Constitution to extend his term of office or hold a snap general election as reported, Cabinet Spokesman Minister Bandula Gunawardana said today.
 
-குறித்த மரத்தினை வெட்டியகற்றும் பணியில் பிரதேசவாசிகள் மற்றும் வீதி அபிவிருத்தி அதிகார சபை ஊழியர்கள் ஈடுபட்டு வருகின்றனர். மலையகத்தில் கடந்த சில நாட்களாக தொடர்ச்சியாகப் பெய்து வரும் கனமழை காரணமாக மக்களின் இயல்பு வாழ்க்கை பெரிதும் பாதிக்கப்பட்டுள்ளது.
+He told the weekly cabinet briefing that there has been turbulence in the share market due to statements made by various factions last week that a snap general election would be held before the presidential election.
 
-தொடர்ந்து பெய்து வரும் கன மழையினால் அட்டன் கொழும்பு மற்றும் அட்டன் நுவரெலியா பிரதான வீதிகளில் பல இடங்களில் மண்சரிவு அபாயம் ஏற்பட்டுள்ளன. இதனால் இந்த வீதிகளில் பயணிக்கும் வாகன சாரதிகள் மிகவும் அவதானமாக தங்களது வாகனங்களைச் செலுத்த வேண்டும் எனப் போக்குவரத்து பொலிஸார் எச்சரித்துள்ளனர்.
+He said the President clearly stated that the presidential election would be held this year as per the Constitution and that money has been allocated in the budget for that purpose.
 
-அத்துடன்  தொடர் மழை காரணமாக பல பிரதேசங்களுக்கு மண் சரிவு அபாயம் ஏற்பட்டுள்ளதனால் மண் மேடுகளுக்கும் மலைகளுக்கும் அண்மித்து வாழும் மக்கள் மிகவும் அவதானமாக இருக்க வேண்டும் என இடர் முகாமைத்துவ மத்திய நிலையம் வேண்டுகோள் விடுத்துள்ளது.
+When asked whether speculations that Parliament would be dissolved by June 15, he said there was no basis in the speculations and that the President did not inform the cabinet of such a matter.
 
 ...
 
-[Data](articles/8e28bba1.json)
+[Data](articles/eda05f29.json)
 
 ---
 
-### ஷாருக்கான்  சிகிச்சைக்காக கேடி மருத்துவமனையில் அனுமதிக்கப்பட்டார்
+### Traffic impacts due to falling down the tree
+
+*2024-05-23 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184346) · `ta`
+
+A massive tree collapse in Norton Mikford disrupted traffic and daily life due to heavy rains causing landslides and soil erosion risks. Residents and authorities are clearing the debris, urging caution on roads prone to landslides and tree falls.
+
+🟩
+
+The massive tree in the Norton Mikford area on the main road of Attan Luxbana has collapsed on Thursday 23rd.
+
+Residents and Road Development Authority employees are working on cutting the tree. The people's normal life has been greatly affected by heavy rains in the hill country over the past few days.
+
+Heavy rains have caused the risk of landslides in many places on the main streets of Hatton and Hatton Nuwara Eliya. Traffic police have warned that motorists traveling on these roads should be very careful.
+
+The Risk Management Center has requested that the people living near the mudslides and the mountains should be very careful due to the risk of soil decline in many areas due to continuous rainfall.
+
+Meanwhile, the public should be very observed by the rain and the danger of breaking the trees due to heavy winds, while the drivers who drive the vehicle lights are on the road to the Nuwara Eliya Attan main road and the snowfall on the Nanuoya bungalow area and the Nanuoya cross road.
+
+◼️
+
+[Data](articles/8e28bba1.json)
+
+[Extended Data](ext_articles/8e28bba1.ext.json)
+
+---
+
+### Shah Rukh Khan was admitted to KD hospital for treatment
 
 *2024-05-23 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184345) · `ta`
 
-பாலிவுட் நட்சத்திரம் ஷாருக்கான் ஐபிஎல் போட்டியின் போது ஹீட் ஸ்ட்ரோக்கால் பாதிக்கப்பட்டு மருத்துவமனையில் 22 ஆம் திகதி புதன்கிழமை அனுமதிக்கப்பட்டார்.
+Shah Rukh Khan, a Bollywood superstar, was hospitalized on Wednesday after experiencing a heatstroke during an IPL match in Ahmedabad. The incident occurred while watching the game between Kolkata Knight Riders and Sunrisers Hyderabad. His health worsened due to the high humidity, leading to his admission to KD Hospital. His condition stabilized under medical care, with his family, including wife Gauri Khan and friends Juhi Chawla and Jai Mehta, visiting him. However, there's no official update on his health status.
 
-டான் நடிகர், கொல்கத்தா நைட் ரைடர்ஸ் மற்றும் சன்ரைசர்ஸ் ஹைதராபாத் அணிகளுக்கு இடையிலான ஐபிஎல் போட்டியைக் காண அகமதாபாத்தில் உள்ள மைதானத்தில் இருந்தபோது, அவர் நீரிழப்பு நோயால் பாதிக்கப்பட்டார் என்று இந்திய ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+🟩
 
-அகமதாபாத்தில் ஈரப்பதமான வெப்பநிலை காரணமாக ஷாருக்கானின் உடல்நிலை மோசமடைந்ததுடன் சிகிச்சைக்காக கேடி மருத்துவமனையில் அனுமதிக்கப்பட்டதை பொலிஸார் உறுதிப்படுத்தினர், அங்கு அவரது உடல்நிலை சீராக இருப்பதாக அகமதாபாத் பொலிஸார் கண்காணிப்பாளர் ஓம் பிரகாஷ் ஜாட் கூறினார்.
+Bollywood star Shah Rukh Khan was admitted to the hospital on Wednesday, 22nd, suffering from a Heat stroke during the IPL.
 
-பின்னர், அவரது மனைவி கவுரி கான் மற்றும் தோழி ஜூஹி சாவ்லா, அவரது கணவர் ஜெய் மேத்தா ஆகியோர் மருத்துவமனைக்கு வந்தனர். நடிகரின் உடல்நிலை குறித்து ஷாருக்கானின் குடும்பத்தினரிடமிருந்து அதிகாரப்பூர்வ அறிக்கை எதுவும் இல்லை என்பது குறிப்பிடத்தக்கது.
+An Indian media reports that he suffered from diabetes while at the stadium in Ahmedabad to watch the IPL match between Dan actor, Kolkata Knight Riders and Sunrisers Hyderabad.
+
+Shah Rukh Khan's health deteriorated due to humid temperature in Ahmedabad and police confirmed that KD hospital was admitted to the hospital, where Ahmedabad police superintendent Om Prakash Jat said his condition was steady.
+
+Later, his wife Gauri Khan and girlfriend Juhi Chawla and her husband Jai Mehta came to the hospital. It is noteworthy that Shah Rukh Khan's family has no official report on the actor's health.
 
 ◼️
 
 [Data](articles/20572f25.json)
+
+[Extended Data](ext_articles/20572f25.ext.json)
 
 ---
 
@@ -100,39 +132,51 @@ Meanwhile, police said that the Indigo Airlines -owned flight was departed from 
 
 ---
 
-### ராகலையில் சீரற்ற காலநிலையால் : மரம் முறிந்து விழுந்து ஒருவர் மரணம்
+### Due to inclement weather in Ragala: Tree falls down and death
 
 *2024-05-23 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184344) · `ta`
 
-நுவரெலியா மாவட்டத்தில் தொடரும் சீரற்ற காலநிலை நிலை காரணமாக ராகலை மாகுடுகலை பகுதியில் மரம் ஒன்று முறிந்து வீழ்ந்ததில் ஆண் ஒருவர் உயிரிழந்துள்ளதாக ராகலை பொலிஸார் தெரிவித்தனர்.
+In Ragala, inclement weather caused a tree to fall, resulting in a man's death. The victim, a 38-year-old father from Maskeliya, was killed in the Magudugalai area.
 
-இவ்வாறு உயிரிழந்தவர் மஸ்கெலியாவை பிறப்பிடமாகவும் திருமணத்தின் பின்னர் மனைவியுடன் கந்தப்பளை  ஹைபோரஸ்ட் இலக்கம் ஒன்றில் வசித்து வந்த கந்தசாமி ராஜ்குமார் 38 வயதுடைய ஒரு பிள்ளையின் தந்தை என தெரிவிக்கப்படுகின்றது குறித்த சம்பவம் வியாழக்கிழமை (23) இடம்பெற்றுள்ளது.
+🟩
+
+Ragala police said that a man was killed in a tree collapsing in the Magudugalai area of ​​the Ragala area due to the inclement weather conditions in the Nuwara Eliya district.
+
+The deceased was reportedly a 38 -year -old father of a child, who was born in a native of Maskeliya and a wife of Kandapalai with his wife after the wedding.
 
 ◼️
 
 [Data](articles/d3807c5d.json)
 
+[Extended Data](ext_articles/d3807c5d.ext.json)
+
 ---
 
-### மோட்டார் சைக்கிள் ரயிலுடன் மோதி விபத்து : மூன்று பேர் பலி்
+### Motorcycle train crashes
 
 *2024-05-23 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184341) · `ta`
 
-காலி, புஸ்ஸ, பிந்தலிய சந்தியில் உள்ள பாதுகாப்பு கடவையில் மோட்டார் சைக்கிள் ஒன்று ரயிலுடன் மோதி இடம்பெற்ற கோர விபத்தில் மூன்று இளைஞர்கள் உயிரிழந்துள்ளனர்.
+In a tragic incident, three youths aged 17-19 died after their motorcycle crashed into a train at a malfunctioning security crossing near Galle, Pussa, and Pindaliya junctions. The accident happened during a train journey from Maradana to Matara on a Thursday evening.
 
-மருதானையில் இருந்து மாத்தறை நோக்கி பயணித்த ரயிலில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இந்த விபத்து 23 ஆம் திகதி வியாழக்கிழமை மாலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Three youths were killed when a motorcycle collided with a train at a security crossing at Galle, Pussa and Pindaliya junction.
 
-விபத்தில் உயிரிழந்த மூன்று இளைஞர்களும் 17 முதல் 19 வயதுக்கு இடைப்பட்டவர்கள் என பொலிஸார் மேலும் தெரிவித்தனர்.
+The accident occurred when a train traveling from Maradana to Matara.
 
-எனினும் மூன்று பேர் பாதுகாப்பற்ற முறையில் மோட்டார் சைக்கிளில் பயணம் மேற்கொண்டுள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+The accident took place on Thursday evening, police said.
 
-குறித்த கடவையில் உரிய முறையில் சமிஞ்சை செயற்படவில்லை என நேரில் பார்த்த பொது மக்கள் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+The three youths who died in the accident were between the ages of 17 and 19, police said.
+
+However, a preliminary investigation by the police revealed that three people were traveling on a motorcycle.
+
+It is noteworthy that the public had stated that the cross was not functioning properly.
 
 ◼️
 
 [Data](articles/e695cfa1.json)
+
+[Extended Data](ext_articles/e695cfa1.ext.json)
 
 ---
 
@@ -204,37 +248,51 @@ In addition, many scenic lantern nests are also created island wide.
 
 ---
 
-### காலநிலை சீர்கேட்டால் பொகவந்தலாவயில் வீசிய பலத்த காற்றுடனான மழையினால் பல வீடுகள் தேசம்
+### Many houses are nationwide due to the heavy winds that caused the climate to fall in Bogawantalawa
 
 *2024-05-23 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184343) · `ta`
 
-பொகவந்தலாவ பொலிஸ்பிரிவிற்குட்பட்ட பொகவந்தலாவ கெம்பியன் தோட்டத்தின் 57பிரிவிலும் கெம்பியன் கீழ் பிரிவிலும் (22) ஆம் திகதி புதன்கிழமை இரவு பெய்த கடும் காற்றுடன் கூடிய வானிலையால் ஆறு வீடுகள் பாதிக்கப்பட்டுள்ளதாக பொகவந்தலாவ பொலிஸார் தெரிவித்தனர்.
+Heavy winds nationwide caused significant damage, affecting six houses in Bogawantalawa, impacting 35 people. The incident led to power outages and required repairs.
 
-இந்த குடியிருப்புகளில் உள்ள கூறைத்தகடுகள் வீசிய பலத்த காற்றுக்கு அள்ளுண்டு சென்றுள்ளது இதனால் ஆறு குடும்பங்களை சேர்ந்த 35பேர் பாதிக்கப்பட்டுள்ளதோடு வீடுகளிலிருந்த சில பொருட்கள் சேதமடைந்துள்ளன.
+🟩
 
-பாதிக்கப்பட்ட குடும்பங்களைப் பிரதேசத்திற்கு பொறுப்பான கிராம உத்தியோகத்தர் மற்றும் தோட்ட முகாமைத்துவம் இணைந்து பாதிக்கப்பட்ட வீடுகளை சீர் செய்யும் நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+Bogawantalawa Police said that six houses were affected by heavy winds on Wednesday night (22) in the 57 section of the Bogawantalawa Police Division and the Kembian section on Wednesday (22).
 
-இதேவளை, புதன்கிழமை (22) இரவு வீசிய பலத்த காற்றின் காரணமாக பொகவந்தலாவ மற்றும் இராணிகாடு வரையிலான பிரதான வீதிகளின் அருகாமையில் உள்ள மரங்கள் சரிந்து விழுந்துள்ளமையினால் பொகவந்தலாவ பிரதேசத்திற்கான மின்சாரம் விநியோகமும் முழுமையாக தடைப்பட்டுள்ளமையும் குறிப்பிடத்தக்கது.
+The strong winds in these dwellings have been hit by strong winds, which have been affected by 35 people from six families and damaged some of the houses.
 
-...
+The Grama Niladhari and the plantation management in charge of the affected families are in the process of repairing the affected houses.
+
+The power supply to the Bogawantalawa area has been completely blocked due to the strong winds that blew on Wednesday night (22) night.
+
+In this case, the police have demanded that the residents of Kesalgamuwa Yaya be humiliated as the water level of the Kesallari water stagnation has increased.
+
+◼️
 
 [Data](articles/02b3ad85.json)
 
+[Extended Data](ext_articles/02b3ad85.ext.json)
+
 ---
 
-### கொரிய மொழி பரீட்சை பெறுபேறுகள் வெளியிடப்பட்டுள்ளது
+### Korean language exam results have been released
 
 *2024-05-23 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184342) · `ta`
 
-உற்பத்தி மற்றும் கடற்றொழில் துறைக்கு தொடர்புடையதாக கொரிய மொழி தேர்ச்சி பரீட்சையின் பெறுபேறு வெளியிடப்பட்டுள்ளதுடன் பரீட்சை எழுதியவர்களில் 95வீதமானவர்கள் சித்தியடைந்துள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் அறிவித்துள்ளது.
+In 2023, 95% of 3580 candidates passed the Korean Language Exam conducted by the Sri Lanka Foreign Employment Bureau. Results will be available from the 27th, followed by medical exams and interviews on the 28th, 6th, and 10th of June.
 
-2023ஆம் ஆண்டு இடம்பெற்ற கொரிய மொழி தேர்ச்சி பரீட்சைக்காக  3580 பரீட்சாத்திகள் தோற்றியிருந்தனர். அதில் 3422 பேர் சித்தியடைந்துள்ளனர். இது பரீட்சைக்கு தோற்றியவர்களில் 95.6 வீதமாகும். இந்த பரீட்சையின் பெறுபேறு எதிர்வரும் 27ஆம் திகதி பணியகத்தின் www.slbfe.l என்ற இணையதளத்தில் பதிவிடப்படும்.
+🟩
 
-பரீட்சையில் சித்திபெற்ற விண்ணப்பதாரிகளுக்கான மருத்துவ பரிசோதனை எதிர்வரும் 28ஆம் திகதி ஆரம்பிக்கப்படும். அதேநேரம் பரீட்சையில் சித்தியடைந்த விண்ணப்பதார்களுக்கான நேர்முகப்பரீட்சை எதிர்வரும் ஜூன் மாதம் 6,7 மற்றும் 10ஆம் திகதிகளில் பணியகத்தின் மாகாண காரியாலயம், புலம்பெயர்ந்தோர் வள மத்திய நிலையம் மற்றும் பயிற்சி நிலையங்களில் இடம்பெறும் எனவும் பணியகம் தெரிவித்துள்ளது.
+The Sri Lanka Foreign Employment Bureau has announced that 95 percent of the candidates have passed the Korean Language Examination.
+
+There were 3580 examinations for the Korean Language Examination in 2023. Of these, 3422 have passed. This is 95.6 percent of the exams. The results of the exam will be posted on the 27th of this month at the Bureau's www.slbfe.l.
+
+The medical examination for the applicants who have been examined in the exam will commence on the 28th of this month. At the same time, interviews for applicants who have passed the exam will be held on the 6th and 10th of June at the Bureau of the Bureau at the Provincial Office, Migrant Resources Center and Training Centers.
 
 ◼️
 
 [Data](articles/ea453831.json)
+
+[Extended Data](ext_articles/ea453831.ext.json)
 
 ---
 
@@ -552,21 +610,27 @@ The police have died in danger between the ages of 17 and 19 years old.
 
 ---
 
-### பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளரை நாங்கள் எதிர்பார்த்துள்ளோம் - உதய கம்மன்பில
+### We are looking forward to the presidential candidate of PA - Udaya Kammanpila
 
 *2024-05-23 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184340) · `ta`
 
-பொதுஜன பெரமுனவின் ஆதரவுடன் ஜனாதிபதி ரணில் விக்கிரமசிங்க மக்களாணையுடன் மீண்டும் ஆட்சியமைத்தால் பண்டாரநாயக்க குடும்பத்துக்கு ஏற்பட்ட அரசியல் கதியே ராஜபக்ஷர்களுக்கும் ஏற்படும். பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் யார் என்பதை எதிர்பார்த்துள்ளோம் என பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில  தெரிவித்தார்.
+Udaya Kammanpila, leader of the Pivithuru Hela Urumaya, supports President Ranil Wickremesinghe, indicating a shift in the Bandaranaike family's political future. Despite Basil Rajapaksa's efforts to dissolve parliament, the PA leans towards Wickremesinghe as their candidate, suggesting a potential change in leadership and alliances ahead of the elections.
 
-கொழும்பில் வியாழக்கிழமை (23) இடம்பெற்ற நிகழ்வில் கலந்துகொண்டதன் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் முதலில் நடத்தப்படும் என ஜனாதிபதி மீண்டும் உறுதிப்படுத்தியுள்ளார். ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்தினால் அது ஜனாதிபதிக்கும்,நாட்டுக்கும் பாதகமாக அமையும்.
+With the support of the PA, President Ranil Wickremesinghe re -ruled with the people of the Bandaranaike family, the Rajapaksas will be the political fate of the Bandaranaike family. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (Hela Urumaya Party) and Member of Parliament, said,
 
-ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்துமாறு பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தொடர்ந்து வலியுறுத்திய போது 113 உறுப்பினர்களின் ஆதரவை கையெழுத்துக்கள் ஊடாக உறுதிப்படுத்திக் கொண்டு வாருங்கள் பாராளுமன்றத்தை கலைக்கலாம் என ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+He was speaking to the media after attending a function held in Colombo on Thursday (23).
+
+The president has reiterated that the presidential election will be held in accordance with the Constitution. If the general election is held before the presidential election, it will be a disadvantage for the president and the country.
+
+The President said that when the founder of the PA Basil Rajapaksa continued to insist on holding the general election before the presidential election, the President said that the signatures of 113 members should be dissolved.
 
 ...
 
 [Data](articles/8afbf8b7.json)
+
+[Extended Data](ext_articles/8afbf8b7.ext.json)
 
 ---
 
@@ -2273,23 +2337,5 @@ Additionally, they have expressed that the LPL Season 05 will continue with its 
 [Data](articles/5db7236d.json)
 
 [Extended Data](ext_articles/5db7236d.ext.json)
-
----
-
-### Karapitiya Hospital to be designated as National Hospital: Bandula
-
-*2024-05-23 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-to-be-designated-as-National-Hospital-Bandula/108-283244) · `en`
-
-Colombo, May 23 (Daily Mirror)- The Cabinet has approved the proposal to develop the Karapitiya Teaching Hospital as a National Hospital, Cabinet spokesman Minister Bandula Gunawardane said today.
-
-He told the weekly media briefing on Cabinet decisons that the Cabinet Paper in this regard was presented by Health Minister Ramesh Pathirana.
-
-Minister Gunawardane said Karapitiya will be the third National Hospital in addition to the two National Hospitals in Colombo and Kandy.
-
-◼️
-
-[Data](articles/28581e7e.json)
-
-[Extended Data](ext_articles/28581e7e.ext.json)
 
 ---

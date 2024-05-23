@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 13:18:41**
+As of **2024-05-23 13:34:02**
 
 ## Newspaper Stats
 
-*Scraped **25,889** Articles*
+*Scraped **25,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,218
 adaderanalk | 2,974
 tamilmirrorlk | 3,023
-virakesarilk | 3,937
+virakesarilk | 3,942
 dailymirrorlk | 4,070
 adaderanasinhalalk | 4,130
 
@@ -26,49 +26,115 @@ adaderanasinhalalk | 4,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,887 (100.0%) of 25,889 articles have been extended.
+25,889 (100.0%) of 25,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### பிரதமர் மோடிக்கு கொலை மிரட்டல்
+### நுவரெலியாவில் பலத்த காற்று பனி மூட்டத்துடன் கூடிய  மழை
 
-*2024-05-23 13:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடிக்கு-கொலை-மிரட்டல்/175-337764) · `ta`
+*2024-05-23 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
 
-சென்னை புரசைவாக்கத்தில் உள்ள என்ஐஏ (NIA) அலுவலகத்தை தொடர்புகொண்ட மர்ம நபர், பிரதமர் மோடிக்கு கொலை மிரட்டல் விடுத்த சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
+நாட்டில் தற்போது நிலவும்  சீரற்ற காலநிலையால் நுவரெலியாவில் பனி மூட்டத்துடன் கூடிய  மழை பெய்து வருகின்றது.
 
-சென்னை புரசைவாக்கத்தில் உள்ள என்ஐஏ (NIA) அலுவலகத்தின் கட்டுப்பாட்டு அறையை தொடர்புகொண்ட மர்ம நபர் ஒருவர் பிரதமர் நரேந்திர மோடிக்கு கொலை மிரட்டல் விடுத்திருக்கிறார். இந்தியில் பேசி கொலை மிரட்டல் விடுத்த அந்த மர்ம நபர், அதன்பின் இணைப்பை துண்டித்துள்ளார். இந்த சம்பவம் தொடர்பாக என்ஐஏ அதிகாரிகள் சென்னை காவல்துறையின் சைபர் கிரைம் பொலிஸில் புகார் அளித்தனர்.
+இந்நிலையில், நுவரெலியா, கந்தப்பளை பகுதியில் நேற்று புதன்கிழமை (22) இரவு வீசிய கடும் காற்றினால் வீடுகளின்  கூரைகள் தூக்கி வீசப்பட்டுள்ளன
 
-அந்த புகாரின் அடிப்படையில் பிரதமர் மோடிக்கு கொலை மிரட்டல் விடுத்த சம்பவம் தொடர்பாக சென்னை காவல்துறை விசாரணை நடத்தி வருகிறது. கொலை மிரட்டல் விடுத்த மர்ம நபர் யார், எதற்காக மிரட்டல் விடுத்தார் என பல்வேறு கோணங்களில் விசாரணையை தொடங்கியுள்ளனர்.
+அத்துடன், இன்றும் (23) தொடர்ச்சியாக கடும் காற்றும் மழையும் பெய்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+நுவரெலியா மற்றும் நானுஓயா பகுதியில் பல பிரதான வீதியோரங்களில் பாரிய மரங்கள் முறிந்து வீழ்ந்ததுடன், வர்த்தக நிலையங்களில் பொருத்தப்பட்டிருந்த பதாதைகளும் பெயர்ப்பலகைகளும் உடைந்து வீழ்ந்து சேதமடைந்துள்ளன.
+
+நுவரெலியா மத்திய பொது சந்தைக்கு அருகில் இன்று வியாழக்கிழமை (23) அதிகாலை பாரிய மரம் ஒன்று சரிந்து விழுந்ததில் குறித்த பகுதியினூடான போக்குவரத்து சுமார் ஒரு மணி நேரம் தடைப்பட்டிருந்தது.
+
+தற்போது நிலவி வரும் சீரற்ற காலநிலையால் வீதிகளில் மரங்கள் முறிந்து விழுதல் மற்றும் மண்சரிவு அபாயம் ஏற்படுவதனால் வாகனங்களை வாகன சாரதிகள் மிகுந்த அவதானத்துடன் வாகனங்களை செலுத்த வேண்டும்.
 
 ...
 
-[Data](articles/78b0dbba.json)
+[Data](articles/a0a2e3ae.json)
 
 ---
 
-### දිස්ත්‍රික්ක කිහිපයකට මි. මී 150 ඉක්ම වූ තද වැසි
+### யாழில். கடற்தொழிலுக்கு சென்றவர் கடலில் மயங்கி விழுந்து உயிரிழப்பு
+
+*2024-05-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184300) · `ta`
+
+யாழ்ப்பாணத்தில் கடற்தொழிலுக்கு சென்ற தொழிலாளி ஒருவர் நேற்று  புதன்கிழமை (22) கடலில் தவறி விழுந்து உயிரிழந்துள்ளார்.
+
+அல்லைப்பிட்டி 3ஆம் வட்டாரத்தை சேர்ந்த 58 வயதுடைய அந்தோணிப்பிள்ளை றோமன் மெய்ன்ரன் என்பவரே உயிரிழந்துள்ளார்.
+
+கட்டுமரமொன்றில் மீன் பிடிப்பதற்காக கடலுக்குள் சென்ற வேளை , கட்டுமரத்தில் இருந்து தவறி கடலினுள் விழுந்து உயிரிழந்துள்ளார். சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்திசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3f73b354.json)
+
+---
+
+### Prime Minister Modi threatens to kill
+
+*2024-05-23 13:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடிக்கு-கொலை-மிரட்டல்/175-337764) · `ta`
+
+An anonymous caller threatened to kill PM Modi during a call to the NIA office in Chennai, speaking in Hindi before abruptly ending the conversation. This incident led to a complaint filed with the Chennai Cyber Crime Police, sparking investigations into the identity of the threatener. The context includes four militants linked to IS, traveling from Sri Lanka to India, raising concerns about potential attacks.
+
+🟩
+
+The mysterious person who contacted the NIA office in Chennai's Purasivakam has threatened to kill Prime Minister Modi.
+
+A mysterious person contacting the control room of the NIA office in Chennai. The mysterious person who spoke in Hindi and threatened to kill him, then cut off the link. NIA officials lodged a complaint with the Cyber ​​Crime Police of the Chennai Police.
+
+The Chennai police are investigating the incident in which Prime Minister Modi threatened to kill. Investigations have begun at various angles as to who the mysterious person who threatened the murder was intimidated.
+
+Four militants who traveled to Ahmedabad from Sri Lanka to Chennai airport to carry out an attack in Gujarat three days ago. All four were in contact with IS militants. It is in this situation that Prime Minister Modi has been threatened with murder.
+
+◼️
+
+[Data](articles/78b0dbba.json)
+
+[Extended Data](ext_articles/78b0dbba.ext.json)
+
+---
+
+### Several districts. Heavy rains exceeding 150 bee
 
 *2024-05-23 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196932) · `si`
 
-නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+Heavy rains exceeding 150mm expected across several districts due to the southwest monsoon. Showers/thunderstorms forecasted in Western, Sabaragamuwa, Central, North Western, Southern, and Northern provinces. Some areas may receive over 100mm rainfall. Strong winds of 30-40 km/h anticipated in other regions.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 150 පමණ ඉතා තද වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, දකුණු සහ උතුරු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙන බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The southwest monsoon monsoon is further expecting the rain and wind condition.
 
-බස්නාහිර සහ වයඹ පළාත්වලත් මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100ට වැඩි තද වැසි ඇති වේ.
+The Department of Meteorological Department announced that there could be rains in some 150 mm.
 
-දිවයිනේ සෙසු පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western, Southern and Northern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල සහ උතුරු, උතුරුමැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකූණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී 50 - 60ක පමණ තද සුළං ඇති වේ.
+In some places, there are Heavy showers over 100 mm mm.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී 30 - 40ක පමණ තරමක තද සුළං ඇති විය හැකිය.
+Showers or thundershowers will occur at several places elsewhere in the country.
+
+The Triangle in the western slopes of the central hills and in the North, North Central, Southern and North-Western, Southern and North-Western Provinces.
+
+In the rest of the island, there may be 30 - 40 strong winds.
 
 ◼️
 
 [Data](articles/41c9fe3c.json)
+
+[Extended Data](ext_articles/41c9fe3c.ext.json)
+
+---
+
+### வெசாக் தினத்தையொட்டி பொது மன்னிப்பு ; வவுனியாவில் 3 கைதிகள் விடுதலை
+
+*2024-05-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184299) · `ta`
+
+வெசாக் பௌர்ணமி தினத்தினை முன்னிட்டு வவுனியா விளக்கமறியல் சிறைச்சாலையில் இருந்து மூன்று கைதிகள் இன்று வியாழக்கிழமை (23)  விடுதலை செய்யப்பட்டுள்ளனர்.
+
+வெசாக் பௌர்ணமி தினத்தை முன்னிட்டு அதிபர் அரசியலமைப்பின் 34வது சரத்தில் வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைவாக கைதிகளுக்கு விசேட அரச மன்னிப்பு வழங்கப்பட்டுள்ளமையின் அடிப்படையில் நாடாளாவிய ரீதியில் 278 கைதிகள் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e11858e5.json)
 
 ---
 
@@ -91,6 +157,46 @@ If CEB's Emergency Call is unable to announce the power outage by 1987, they can
 [Data](articles/0e0afa9d.json)
 
 [Extended Data](ext_articles/0e0afa9d.ext.json)
+
+---
+
+### வெசாக் தினத்தையொட்டி பொது மன்னிப்பு ; மட்டக்களப்பு சிறைச்சாலையில் 6 கைதிகளுக்கு விடுதலை
+
+*2024-05-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184295) · `ta`
+
+வெசாக் தினத்தையொட்டி   ஜனாதிபதியின் பொது மன்னிப்பின் கீழ் மட்டக்களப்பு சிறைச்சாலையிலிருந்து 6 கைதிகளுக்கு பொது மன்னிப்பு வழங்கப்பட்டு அவர்கள் இன்று வியாழக்கிழமை (23) காலை விடுதலை செய்யப்பட்டதாக மட்டக்களப்பு சிறைச்சாலை அத்தியட்சகர் என். பிரபாகரன் தெரிவித்துள்ளார்.
+
+சிறு குற்றம் பிரிந்தோர், தண்டப்பணம் செலுத்த முடியாதவர்கள் இவ்வாறு பொது மன்னிப்பு அடிப்படையில் விடுதலை செய்யப்பட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+
+சிறைச்சாலை அத்தியாச்சகர் என். பிரபாகரன் தலைமையில் இடம்பெற்ற கைதிகள் விடுதலை நிகழ்வில் சிறைச்சாலை நலன்புரிச்சங்க அதிகாரிகள், சிறைச்சாலை உத்தியோகத்தர்கள் என பலரும் கலந்து கொண்டனர்.
+
+சிறைச்சாலை அதிகாரிகளை வணங்கிய பின் நன்றி தெரிவித்து கைதிகள் சிறைச்சாலையில் இருந்து வெளியேற்றியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c8e8a2cb.json)
+
+---
+
+### பேச்சுவார்த்தைகள் மூலமே பாலஸ்தீன தேசத்தை அடையமுடியும் ஒரு தலைப்பட்சமான பிரகடனங்கள் மூலம் அதனை அடைய முடியாது- அமெரிக்கா கருத்து-
+
+*2024-05-23 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184298) · `ta`
+
+இஸ்ரேலிற்கு பாரம்பரியமாக ஆதரவை வெளியிட்டு வந்த நாடுகளால் இஸ்ரேல் தற்போது இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ளது.
+
+நோர்வே அயர்லாந்து ஸ்பெயின் ஆகிய நாடுகள் பாலஸ்தீன தேசத்தை அங்கீகரிக்கப்போவதாக  அறிவித்துள்ள நிலையிலேயே அமெரிக்க இஸ்ரேல் தனிமைப்படுவது குறித்து கவலை வெளியிட்டுள்ளது.
+
+இஸ்ரேல் இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து கரிசனையடைந்துள்ளீர்களா என்ற கேள்விக்கு ஆம் என அவர் பதிலளித்துள்ளார்.
+
+இது நியாயமான கேள்வி சர்வதேச அமைப்புகளில் இஸ்ரேலிற்கு ஆதரவாக செயற்படுகின்ற நாடு என்ற அடிப்படையில் நாங்கள் இஸ்ரேலிற்கு எதிரான குரல்கள் அதிகரிப்பதை பார்க்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேலிற்கு கடந்தகாலங்களில் ஆதரவை வெளியிட்ட குரல்கள் கூடவேறுதிசையில் பயணிக்கின்றன எனவும் அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் தெரிவித்துள்ளார்.
+
+இது எங்களிற்கு கரிசனையளிக்கின்றது இது இஸ்ரேலின் நீண்டகால பாதுகாப்பிற்கு பங்களிப்பு செய்யாது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d93ce94e.json)
 
 ---
 
@@ -2117,125 +2223,5 @@ Virat Kohli has amassed 8004 Ottades, including 8 centuries and 50 half centurie
 [Data](articles/f3e21d9a.json)
 
 [Extended Data](ext_articles/f3e21d9a.ext.json)
-
----
-
-### 2024-05-22 (Wednesday)
-
-### ‘Red’ alert for fishing and naval communities out at sea
-
-*2024-05-22 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99389/red-alert-for-fishing-and-naval-communities-out-at-sea) · `en`
-
-The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the southwestern Bay of Bengal Sea.
-
-The ‘red’ alert states that a low-level atmospheric disturbance in the south west Bay of Bengal area has intensified in to a low-pressure area.
-
-It is very likely to move northeastward and concentrate into a depression over the central parts of the Bay of Bengal by May 24, 2024. Then it would continue to move northeastward and intensify further, the advisory said.
-
-Very strong winds of 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and southwestern Bay of Bengal Sea areas.
-
-Naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
-
-...
-
-[Data](articles/ede258fd.json)
-
-[Extended Data](ext_articles/ede258fd.ext.json)
-
----
-
-### LPL matches;Dambulla Thunders team's license canceled
-
-*2024-05-22 23:35:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/LPL-போட்டிகள்-தம்புள்ள-தண்டர்ஸ்-அணியின்-உரிமம்-அதிரடியாக-ரத்து/44-337736) · `ta`
-
-Lanka Premier League cancels Dambulla Thunders' rights due to alleged conspiracy involving the team's owner, aiming to maintain competition integrity.
-
-🟩
-
-The Lanka Premier League has announced that it will cancel the rights of the Dambulla Thunders team in the LPL match.
-
-Anil Mohan, Chairman of the LPL Organization Committee, says the move was aimed at protecting the transparency and quality of the LPL competition.
-
-The owner of the Dambulla Thunders team has been arrested for allegedly involved in a conspiracy.
-
-It is also worth noting that the court has ordered him to be remanded until the 31st of this month. Remble
-
-◼️
-
-[Data](articles/daf67a3b.json)
-
-[Extended Data](ext_articles/daf67a3b.ext.json)
-
----
-
-### Special Gazette released on workers' salary
-
-*2024-05-22 23:25:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களின்-சம்பளம்-தொடர்பில்-வெளியான-அதி-விசேட-வர்த்தமானி/175-337735) · `ta`
-
-A special gazette increases plantation workers' daily pay from Rs 1,350 to Rs 1,700, confirmed by the Commissioner General of Labor and President Ranil Wickremesinghe.
-
-🟩
-
-A special gazette notification has been issued by the Commissioner General of Labor, confirming that the salaries of plantation workers are increased to Rs 1,700.
-
-President Ranil Wickremesinghe has announced that the plantation workers will be paid a daily salary of 1,700 rupees.
-
-The gazette notification was later issued to increase the salary of 1700 rupees per day, with a daily basis of plantation workers as 1350 rupees and 350 rupees.
-
-In this case, the Special Gazette Notification is currently underway to confirm the salary hike of plantation workers. Remble
-
-◼️
-
-[Data](articles/62fa9a57.json)
-
-[Extended Data](ext_articles/62fa9a57.ext.json)
-
----
-
-### The owner of the Dambulla Thunders has decided
-
-*2024-05-22 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184265) · `ta`
-
-Following legal issues involving Tamim Rahman, CEO of Imperial Sports Group, the Dambulla Thunders' owner has exercised their rights, impacting the Sri Lanka Premier League (LPL). The LPL emphasizes maintaining high standards of discipline and sportsmanship, aiming to uphold its values and reputation. Despite unclear allegations against Rahman, the LPL is committed to resolving these matters swiftly to minimize disruptions in the upcoming season, ensuring a competitive and transparent tournament.
-
-🟩
-
-The Sri Lanka Premier League has announced that the Dambulla Thunders owner has decided to come into effect with the rights of the owner.
-
-The decision has been taken following the recent consequences of the legal issues faced by Tamim Rahman, Chief Executive Officer of the Imperial Sports Group, said in a statement issued by the Lanka Premier League.
-
-The report further stated that although the characteristics of the allegations against Rahman are unclear, the integrity and smooth flow of the Lanka Premier League is very important.
-
-The right to ensure that all participants are aimed at maintaining the highest quality of discipline and sportsmanship, aimed at establishing LPL values and reputation.
-
-The LPL administration is actively working to solve the consequences of this rights and reconsideration and ensure that the minimum disruption in the next season.
-
-...
-
-[Data](articles/f8632c54.json)
-
-[Extended Data](ext_articles/f8632c54.ext.json)
-
----
-
-### Sri Lankan state enterprises open for private sector investments - state minister
-
-*2024-05-22 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99388/sri-lankan-state-enterprises-open-for-private-sector-investments-state-minister) · `en`
-
-State Minister for Urban Development and Housing, Arundika Fernando, announced that state enterprises are now open to private sector investments, but only at the government’s assessed value.
-
-This directive aligns with President Ranil Wickremesinghe’s instruction that state enterprises should not be offered for private sector investments below their assessed value.
-
-State Minister Fernando highlighted the revival of regional development projects that were previously halted due to economic difficulties.
-
-He made these remarks at a press briefing held at the Presidential Media Centre today (22), under the theme ‘Collective Path to a Stable Country.’
-
-“The government has granted authorization to seek investors for various enterprises falling under the purview of the Ministry of Urban Development and Housing, with the aim of ensuring their systematic maintenance.
-
-...
-
-[Data](articles/ed350db5.json)
-
-[Extended Data](ext_articles/ed350db5.ext.json)
 
 ---

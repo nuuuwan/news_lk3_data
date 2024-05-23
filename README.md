@@ -1,52 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 10:18:40**
+As of **2024-05-23 10:35:00**
 
 ## Newspaper Stats
 
-*Scraped **25,857** Articles*
+*Scraped **25,860** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 231
 dbsjeyarajcom | 259
-bbccomsinhala | 261
+bbccomsinhala | 262
 newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,532
 adalk | 2,216
-adaderanalk | 2,969
+adaderanalk | 2,970
 tamilmirrorlk | 3,016
 virakesarilk | 3,929
-dailymirrorlk | 4,066
+dailymirrorlk | 4,067
 adaderanasinhalalk | 4,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,856 (100.0%) of 25,857 articles have been extended.
+25,857 (100.0%) of 25,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### දඹුල්ල කණ්ඩායමට නව හිමිකාරීත්වයක්
+### President’s Vesak message: ‘Sacrifice today for a better tomorrow’
+
+*2024-05-23 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99391/presidents-vesak-message-sacrifice-today-for-a-better-tomorrow-) · `en`
+
+In his Vesak Day message, President Ranil Wickremesinghe called upon the nation to embody the Buddha’s teachings of enlightenment, unity, and compassion during these challenging times.
+
+He emphasized that, at this crucial moment, Sri Lankans should cultivate the same great zeal for enlightenment that the Buddha exemplified, and be willing to sacrifice today for a better tomorrow.
+
+“The Vesak festival is a profoundly sacred day for Buddhists worldwide, commemorating the Buddha’s birth, enlightenment, and passing. Buddhists in Sri Lanka, along with their brethren around the globe, celebrate Vesak with deep devotion. They spend this period engaging in religious observances and venerating the Buddha with fervent devotion.
+
+At this challenging moment, we as a nation should cultivate the same great zeal for enlightenment that Buddha exemplified, inspired by his sermon, “Maththasukha parichchaga- passé che vipulan sukhan” – to sacrifice today for a better tomorrow.
+
+...
+
+[Data](articles/82f50170.json)
+
+---
+
+### All must unite to heal and rebuild the country: President
+
+*2024-05-23 10:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-must-unite-to-heal-and-rebuild-the-country-President/108-283239) · `en`
+
+Colombo, May 23 (Daily Mirror)- Regardless of race, religion, caste or political affiliations, all Sri Lankans must unite to heal and rebuild the country, President Ranil Wickremesinghe said.
+
+In his Vesak message, the President said, "We must remember the advice of Lord Buddha, 'Sabbattha Sammanaso' to treat everyone equally and ensure we put it into practice as a country. This is the greatest offering we can present to the Buddha on this Vesak day.
+
+"The Vesak festival is a profoundly sacred day for Buddhists worldwide, commemorating the Buddha’s birth, enlightenment and passing away.
+
+Buddhists in Sri Lanka, along with their brethren around the globe, celebrate Vesak with deep devotion. They spend this period engaging in religious observances and venerating the Buddha with fervent devotion.
+
+...
+
+[Data](articles/2d274c40.json)
+
+---
+
+### New owner of Dambulla team
 
 *2024-05-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196928) · `si`
 
-එළඹෙන LPL තරගාවලිය නියමිත පරිදි පැවැත්වීමට කටයුතු සුදානම් කර ඇති බව ලංකා ප්‍රිමියර් ලීග් සංවිධායකයින් නිවේදනය කරයි.
+The Lanka Premier League (LPL) organizers suspended the Dambulla Tunders team after a court order due to alleged attempts to betray the league. The decision aims to maintain the integrity and quality of the tournament.
 
-දඹුල්ල තන්ඩර්ස් කණ්ඩායමේ අයිතීන් වහාම ක්‍රියාත්මක වන පරිදි අත්හිටුවීමට ලංකා ප්‍රිමියර් ලීග් ඊයේ (22) කටයුතු කළ අතර, එහි හිමිකාරීත්වයේ වෙනසක් සමග මෙම තරගාවලිය ඉදිරියේ දී පැවැත්වෙන බව අදාළ නිවේදනයේ දැක්වේ.
+🟩
 
-LPL තරගාවලියේ විනිවිඳභාවය සහ ගුණාත්මක භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් මෙම පියවර ගත් බව සඳහන් වේ.
+The Lanka Premier League organizers announced that the approved LPL tournament is scheduled to be held.
 
-2024 ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී තරග පාවාදීම සඳහා යෝජනා කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් දඹුල්ල තන්ඩර්ස් කණ්ඩායම් හිමිකරු සහ ප්‍රධාන විධායක නිලධාරීයා ලෙස කටයුතු කළ තමීම් රහමාන් මැයි  31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
+The announcement was held yesterday (22) to suspend the rights of Dambulla Tunders team.
+
+The following steps have been taken to protect the dependence and quality of the LPL tournament.
+
+The Colombo Magistrate's Court yesterday ordered the Supreme Court yesterday to be remanded until May 31 of attempting to propose to propose to the betrayal of the Lanka Premier League.
 
 ◼️
 
 [Data](articles/8dda462f.json)
+
+[Extended Data](ext_articles/8dda462f.ext.json)
 
 ---
 
@@ -779,6 +821,22 @@ The new Central Banking Act entrusted the Central Bank with promoting financial 
 [Data](articles/b61ce9b6.json)
 
 [Extended Data](ext_articles/b61ce9b6.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ජාතික විභාග: මෑතක සිට ප්‍රශ්න සහගත වන්නේ ඇයි?
+
+*2024-05-23 04:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cnee2ym7kwwo) · `si`
+
+ශ්‍රී ලංකාවේ පාසල් පද්ධතිය තුළ පැවැත්වෙන ජාතික මට්ටමේ ප්‍රධාන විභාග තුන ලෙස 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය, අධ්‍යාපන පොදු සහතිකපත්‍ර සාමාන්‍ය පෙළ හා උසස් පෙළ විභාග හැඳින්විය හැකිය. වසරකට මෙම විභාග තුන සඳහා ලක්ෂ ගණනක් සිසුහු පෙනී සිටිති. මුල් විභාග දෙකෙන් ම ඉදිරි අධ්‍යාපන කටයුතු සඳහා පහසුකම් වැඩි පාසලකට යාමට ද අවස්ථාව හිමිවන නිසා සහ උසස් පෙළ විභාගය යනු විශ්වවිද්‍යාල ප්‍රවේශය තීරණය කරන තීරණාත්මක විභාගයක් ද වන නිසා බොහෝ සිසු සිසුවියන් උත්සහ කරන්නේ තමාට හැකි උපරිමයෙන් මෙම විභාග සමත් වීමට ය.
+
+කෙසේ නමුත් මෑතක දී දිගින් දිගටම මෙම විභාග සම්බන්ධයෙන් විවිධ ගැටළුකාරී තත්වයන් පැන නැගුණි. මෑතක දී පැවැත්වූ බොහෝ විභාග වල දී ප්‍රශ්න පත්‍රය පිට වූ බවට ප්‍රචාරයන් පැතිරුණු අතර, ඇතැම් ප්‍රශ්න පත්‍රවල ප්‍රශ්න වල නිරවද්‍යතාවය, පිළිතුරු සම්බන්ධ ගැටළු, විෂය නිර්දේශයෙන් පරිබාහිර කරුණු අඩංගු වීම වැනි ප්‍රශ්න මතු වී තිබුණි.
+
+අධ්‍යාපනයේ මහිමයෙන් ලෝකය ජය ගත් හේනේ පැලක පාඩම් කළ ශ්‍රී ලාංකිකයා
+
+...
+
+[Data](articles/9593fc7f.json)
 
 ---
 
@@ -2213,73 +2271,5 @@ The president said it was undeniable that retirees bore the brunt of the challen
 [Data](articles/75b38060.json)
 
 [Extended Data](ext_articles/75b38060.ext.json)
-
----
-
-### Govts, oppositions, religions, media have failed Sri Lanka’s war victims: Amnesty chief
-
-*2024-05-22 18:52:00* · [`economynextcom`](https://economynext.com/govts-oppositions-religions-media-have-failed-sri-lankas-war-victims-amnesty-chief-164331/) · `en`
-
-ECONOMYNEXT — Successive governments, opposition leaders, the religious establishment and the media have failed the victims of Sri Lanka’s there-decade-long war and the people at large, Amnesty International’s Secretary General Agnès Callamard said.
-
-“This is a significant year for Sri Lanka, marking 15 years since the end of the three-decade long internal armed conflict that left tens of thousands of people injured, dead, displaced, or forcibly disappeared. But it is not just successive governments that have failed the victims and the people of Sri Lanka. All those in positions of leadership, from elected officials to opposition leaders, the religious establishment and the national media, have failed to hold the line on the fight against impunity,” a statement quoted Callamard as saying at the conclusion of a five-day visit to Sri Lanka.
-
-...
-
-[Data](articles/e6c6cf27.json)
-
-[Extended Data](ext_articles/e6c6cf27.ext.json)
-
----
-
-### 2 women killed in trees
-
-*2024-05-22 18:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மரங்கள்-விழுந்ததில்-2-பெண்கள்-பலி/94-337734) · `ta`
-
-In Puttalam-Marawila and Madambai, two women died and a man was injured after falling trees hit them during bad weather. A motorcyclist also crashed, killing a woman and injuring another. The victims are identified as Yadavarake Thon Hansi Ishara, 36, and Nissansala Sarojani, 38. Police are investigating.
-
-🟩
-
-Two women were killed and a male injured in two large trees on the streets of Puttalam - Marawila and Madambai due to inclement weather conditions.
-
-A motorcycle riding a motorcycle fell on a motorcycle traveling on a road in the Maravila -Bilagamulla area, and a woman was killed and one person was injured, Marawila police said.
-
-The deceased is Yadavarake Thon Hansi Ishara (age 36) from Muttipadivila area of Puttalam, Nattandiya - Uduwala road, police said.
-
-Meanwhile, a woman who was traveling on the street was killed when a tree fell in Suduwella area of Kuliyapitiya road in Madambai.
-
-The disaster has been faced by Nissansala Sarojani (age 38) from Dumlasuriya - body.
-
-Marawila and Madambai police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/e9e8d2d0.json)
-
-[Extended Data](ext_articles/e9e8d2d0.ext.json)
-
----
-
-### Main notice to students in scholarship
-
-*2024-05-22 18:36:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்-பரிசில்-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-337733) · `ta`
-
-Applications open next week for the 5th grade scholarship exam of 2024, closing June 14 via eBooks. Exam set for September 15; no extensions allowed.
-
-🟩
-
-The Department of Examinations said that applications for the 5th grade scholarship examination of 2024 will be accepted from next week.
-
-Applications for the examination can be submitted through eBooks from 27th of this month to June 14th.
-
-Meanwhile, the exam will be held on Sunday, September 15, the department said.
-
-The Department of Examinations has stated that in any case the application will not be extended after the application date is over. Remble
-
-◼️
-
-[Data](articles/2bf1f98e.json)
-
-[Extended Data](ext_articles/2bf1f98e.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 08:34:02**
+As of **2024-05-23 08:52:59**
 
 ## Newspaper Stats
 
-*Scraped **25,839** Articles*
+*Scraped **25,841** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 231
 dbsjeyarajcom | 259
-bbccomsinhala | 260
+bbccomsinhala | 261
 newsfirstlk | 363
 islandlk | 1,400
 economynextcom | 1,489
 dailyftlk | 1,532
 adalk | 2,215
-adaderanalk | 2,968
+adaderanalk | 2,969
 tamilmirrorlk | 3,013
 virakesarilk | 3,924
 dailymirrorlk | 4,063
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,825 (99.9%) of 25,839 articles have been extended.
+25,837 (100.0%) of 25,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
+
+### Prevailing showery and windy conditions to continue further
+
+*2024-05-23 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99390/prevailing-showery-and-windy-conditions-to-continue-further) · `en`
+
+The Department of Meteorology says Southwest monsoon conditions are gradually establishing over the island, and hence, the prevailing showery and windy conditions will continue further.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
+
+Very heavy showers about 150 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts. Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Mannar, Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces. Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/6fcab259.json)
+
+---
 
 ### Blink International opens CASIO store in Kandy City Centre
 
@@ -43,6 +63,8 @@ Blink International (Pvt) Ltd, sole authorized distributor and service agent for
 ...
 
 [Data](articles/f37bce93.json)
+
+[Extended Data](ext_articles/f37bce93.ext.json)
 
 ---
 
@@ -96,6 +118,8 @@ ICC established in 1980, has become one of the largest and most respected and in
 
 [Data](articles/68e6fc27.json)
 
+[Extended Data](ext_articles/68e6fc27.ext.json)
+
 ---
 
 ### Hemas achieves record earnings for FY 24
@@ -122,6 +146,8 @@ Even though the country saw improvements in the external sector and progress was
 
 [Data](articles/5859becc.json)
 
+[Extended Data](ext_articles/5859becc.ext.json)
+
 ---
 
 ### Unilever – Lever Ayush strengthens commitment to traditional medicine as Main Sponsor of International Research Symposium at AyurEx Colombo 2024
@@ -136,6 +162,8 @@ Building on a successful partnership in 2023, Lever Ayush, one of the leading Ay
 
 [Data](articles/3aa0cb8e.json)
 
+[Extended Data](ext_articles/3aa0cb8e.ext.json)
+
 ---
 
 ### EY GDS Sri Lanka advocates for social equity and gender balance in the corporate sector
@@ -149,6 +177,8 @@ The panelists, including Kasturi Chellaraja, the first female Group CEO of a pub
 ...
 
 [Data](articles/387aece0.json)
+
+[Extended Data](ext_articles/387aece0.ext.json)
 
 ---
 
@@ -165,6 +195,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/00952934.json)
+
+[Extended Data](ext_articles/00952934.ext.json)
 
 ---
 
@@ -193,6 +225,8 @@ Leave it on for about 15-20 minutes, then rinse off with lukewarm water and pat 
 ...
 
 [Data](articles/81ab555c.json)
+
+[Extended Data](ext_articles/81ab555c.ext.json)
 
 ---
 
@@ -422,6 +456,8 @@ The new Central Banking Act entrusted the Central Bank with promoting financial 
 
 [Data](articles/b61ce9b6.json)
 
+[Extended Data](ext_articles/b61ce9b6.ext.json)
+
 ---
 
 ### CID arrests Aura Lanka Chairman
@@ -522,19 +558,25 @@ The State Minister made these remarks during a press briefing titled “Collecti
 
 ---
 
-### ’குறைவான பெறுமதிக்கு அரசங்க நிறுவனங்கள் இல்லை’
+### There are no state institutions for low valuations
 
 *2024-05-23 02:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைவான-பெறுமதிக்கு-அரசங்க-நிறுவனங்கள்-இல்லை/175-337744) · `ta`
 
-அரசாங்கத்தின் மதிப்பீட்டுப் பெறுமதிக்கு உட்பட்டே தனியார் துறையின் முதலீடுகளுக்காக அரச நிறுவனங்கள் வழங்கப்படும். மதிப்பிடப்பட்ட தொகைக்கு குறைவான தனியார் முதலீடுகளுக்கு அரச நிறுவனங்களை வழங்க வேண்டாமென ஜனாதிபதி ரணில் விக்கிரமசிங்க பணிப்புரை விடுத்துள்ளார் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு இராஜாங்க அமைச்சர் அருந்திக்க பெர்ணான்டோ தெரிவித்தார்.
+President Ranil Wickremesinghe has directed against providing state institutions for private investments below government valuation. The Minister of Urban Development and Housing, Arundika Fernando, announced this policy change, aiming to ensure proper investment and maintenance of companies like Hilton Hotel, enhancing government revenue and employee benefits. This move is expected to prevent undervalued transactions, aligning private investments with state standards.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அருந்திக்க பெர்ணான்டோ மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழ் உள்ள பல நிறுவனங்களுக்கு முதலீட்டாளர்களைக் கண்டறிந்து அவற்றை ஒழுங்கான முறையில் பராமரிக்க அரசாங்கம் அனுமதி வழங்கியிருந்தது. இதன்படி, ஹில்டன் ஹோட்டல் போன்ற நிறுவனங்களுக்கு அந்த முதலீடுகளை வெளிப்படைத்தன்மையுடன் பெற்று, அதன் மூலம் அரசாங்க திறைசேரியைப் பலப்படுத்தவும், ஊழியர்களுக்கு பங்குகளை வழங்கவும், நிறுவனத்தை ஒழுங்கான முறையில் பராமரிக்கவும் எதிர்பார்க்கப்படுகிறது.
+State institutions will be provided for the investments of the private sector, subject to the value of the government. Minister of Urban Development and Housing, Arundika Fernando said that President Ranil Wickremesinghe has issued a directive not to provide state institutions for private investments for less than the estimated amount.
+
+Arundika Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The government has given permission to find investors and maintain them properly for many companies under the Ministry of Urban Development and Housing. Accordingly, companies like the Hilton Hotel are expected to obtain those investments transparency, thereby strengthening the government treasury, providing stocks to employees and maintaining the company properly.
 
 ...
 
 [Data](articles/29fc6b1b.json)
+
+[Extended Data](ext_articles/29fc6b1b.ext.json)
 
 ---
 
@@ -551,6 +593,30 @@ In the 2024 TTDI, Sri Lanka recorded a score of 3.69, maintaining its 2019 score
 ...
 
 [Data](articles/d8da6cb9.json)
+
+[Extended Data](ext_articles/d8da6cb9.ext.json)
+
+---
+
+### වෙසක් නිර්මාණ : 'කාන්තාවන්ට අකැපයි, වස් වදිනවා කිවුවට මම තොරණක් හැදුවා'
+
+*2024-05-23 02:14:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22lk2yl9jo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''භද්‍රඝට ජාතකයේ තියෙන්නේ බීමත්කම නිසා විනාශ වූ සිටු පුත්‍රයෙකුගේ කතාවක්.''
+
+වෙසක් නිර්මාණ : 'කාන්තාවන්ට අකැපයි, වස් වදිනවා කිවුවට මම තොරණක් හැදුවා'
+
+තොරණ නිර්මාණය කාන්තාවන්ට අකැප, වස් වදින ක්‍රියා බවට සමාජ සම්මත පැවතුන ද තමන්ට තොරණක් නිර්මාණය කිරීමට හැකි වීම සතුටක් බව ජනනි අලුදෙනිය BBC සිංහල සේවයට පැවසුවාය.
+
+රත්නපුර දිස්ත්‍රික්කයට අයත් ගොඩකවෙල, අරඹදෙනිය ගම්මානයේ ජිවත්වන ඇය අදට යෙදෙන (මැයි 23) වෙසක් පොහොය නිමිත්තෙන් තොරණක් නිර්මාණය කිරීමට මූලිකත්වය ගත්තාය.
+
+භද්‍රඝට ජාතකය විස්තර කෙරෙන, අඩි 40ක් උස එම තොරණ විදුලි බුබුළු 30,000කින් සමන්විත වේ.
+
+''තොරණ නිර්මාණ ඉතිහාසයේ කාන්තා දායකත්වය ඉතා දුර්ලභයි. කාන්තාවන් මේ වැඩ සඳහා සම්බන්ධ වෙලා තිබුණට සමාජ මාධ්‍යයෙන් ප්‍රසිද්ධ වුණාට පස්සේ තමයි මම දැන ගත්තේ කාන්තාවක් තොරණක් නිර්මාණය කරපු පළමු අවස්ථාව මේක කියලා.'' යනුවෙන් ජනනි අලුදෙනිය පවසන්නීය.
+
+◼️
+
+[Data](articles/c119a75f.json)
 
 ---
 
@@ -2040,17 +2106,23 @@ The strong gusty winds blowing across the Central Hills today is believed to hav
 
 ---
 
-### පළමුවෙන්ම ජනපතිවරණය
+### First Presidential election
 
 *2024-05-22 17:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පළමුවෙන්ම-ජනපතිවරණය/11-409802) · `si`
 
-පළමුවෙන් පැවැත්වෙන්නේ ජනාධිපතිවරණය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22දා) කැබිනට් මණ්ඩලයට දැනුම් දී තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කැබිනට් මණ්ඩලය අද පෙරවරුවේ කොළඹදී රැස් විය.
+President Ranil Wickremesinghe announced today that Sri Lanka's first presidential election is scheduled for today, allocating funds from the budget to ensure its timely conduct as per constitutional requirements.
 
-ජනාධිපතිවරණය නියමිත කාලයේදී පැවැත්වීම සඳහා අයවැයෙන් මුදල් වෙන්කර තිබෙන්නේ යැයි ද ජනාධිපතිවරයා එහිදී සඳහන් කළේය. ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මේ වසරේ දී ජනාධිපතිවරණය පැවැත්විය යුතු බව ද ජනාධිපතිවරයා සදහන් කර ඇත. ඒ අනුව නියමිත කාල සීමාවේදීම ජනාධිපතිවරණය පැවැත්වෙන බවත් ජනාධිපතිවරයා කැබිනට් මණ්ඩලය හමුවේ සඳහන් කර තිබේ.
+🟩
+
+President Ranil Wickremesinghe has informed the Cabinet today (22) that the presidential election is being held first today (22). President Ranil Wickremesinghe was chaired by the Cabinet this morning.
+
+The President also said that the money has been allocated from the budget to hold the presidential election in due time. The President has said that the presidential election should be held this year according to the Constitution. Accordingly, the President has stated in the face of the Cabinet that the presidential election will be held at the time limit.
 
 ◼️
 
 [Data](articles/1cb86e4d.json)
+
+[Extended Data](ext_articles/1cb86e4d.ext.json)
 
 ---
 
@@ -2189,39 +2261,5 @@ Hayleys Plc closed up at 93.80. Hemas Holdings Plc closed up at 88.90.
 [Data](articles/e9e5f57d.json)
 
 [Extended Data](ext_articles/e9e5f57d.ext.json)
-
----
-
-### President Ranil conveys condolences at Iranian Embassy on President Raisi’s passing
-
-*2024-05-22 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99382/president-ranil-conveys-condolences-at-iranian-embassy-on-president-raisis-passing) · `en`
-
-President Ranil Wickremesinghe paid a visit to the Iranian Embassy in Colombo this morning (22) to extend his condolences on the untimely tragic passing of the late Iranian President, Ebrahim Raisi, the President’s Media Division said.
-
-Upon arrival at the Embassy, President Wickremesinghe was warmly received by the Iranian Ambassador to Sri Lanka, Dr. Alireza Delkhosh, and the embassy staff, the statement said.
-
-During his visit, the President engaged in a brief conversation with the Iranian Ambassador and others present, conveying his heartfelt condolences on behalf of the Sri Lankan government and himself to the Iranian government and its people over the sudden passing of the late President Ebrahim Raisi.
-
-◼️
-
-[Data](articles/173e6252.json)
-
-[Extended Data](ext_articles/173e6252.ext.json)
-
----
-
-### Parliament sessions suspended due to lack of quorum
-
-*2024-05-22 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-sessions-suspended-due-to-lack-of-quorum/108-283169) · `en`
-
-Colombo, May 22 (Daily Mirror) - Parliament sessions came to an abrupt end as sessions were suspended due to a lack of quorum.
-
-There were less than 20 member present during the time of suspension.
-
-◼️
-
-[Data](articles/f45c2df5.json)
-
-[Extended Data](ext_articles/f45c2df5.ext.json)
 
 ---

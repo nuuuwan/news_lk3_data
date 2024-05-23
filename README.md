@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 23:18:33**
+As of **2024-05-23 23:34:19**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,972 (100.0%) of 25,973 articles have been extended.
+25,973 (100.0%) of 25,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### ISIS உறுப்பினர்களுக்கு உதவியவர் அதிரடி கைது; மேலும் பல திடுக்கிடும் தகவல்கள்
+### Action arrested for assisting ISIS members;More and more startling information
 
 *2024-05-23 22:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-உறுப்பினர்களுக்கு-உதவியவர்-அதிரடி-கைது-மேலும்-பல-திடுக்கிடும்-தகவல்கள்/175-337799) · `ta`
 
-இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கை ISIS உறுப்பினர்களுடன் நெருங்கிய தொடர்பு வைத்திருந்த இலங்கையர் ஒருவர் மாளிகாவத்தையில் வைத்து பயங்கரவாத விசாரணைப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+A Sri Lankan man linked to four arrested ISIS members in India faces charges after being detained by Maligawatta's Terrorist Investigation Unit. Investigations reveal connections to drug dealing and frequent travel between Sri Lanka and India. The group, suspected of targeting religious minorities and Indian political leaders, has been under scrutiny since February.
 
-இந்தியாவில் கைது செய்யப்பட்ட நால்வரில் ஒருவரான மொஹமட் நுஃப்ரான், பாரிய போதைப்பொருள் வியாபாரியான பொட்ட நௌபரின் இரண்டாவது திருமணத்தின் மகன் என்பது விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
 
-இந்தியாவில் கைது செய்யப்பட்டுள்ள இலங்கையை ISIS உறுப்பினர்கள் தொடர்பில் விசாரிப்பதற்காக விசாரணைக் குழுவொன்று நியமிக்கப்பட்டது.
+A Sri Lankan who was closely linked to four Sri Lankan ISIS members arrested in India has been arrested by the terrorist investigation unit in Maligawatta.
 
-இவ்வாறானதொரு பின்னணியில் குறித்த நான்கு நபர்களுடன் இந்நாட்டினுள் தொடர்பு வைத்திருந்த நபர்கள் தொடர்பில் ஏற்கனவே தனியான விசாரணை ஆரம்பிக்கப்பட்டுள்ளது.
+Investigations have revealed that Mohamed Nufran, one of the four arrested in India, is the son of a massive drug dealer Pota Naubar.
 
-இதனையடுத்து, அவர்களுடன் நெருங்கிய தொடர்பு வைத்திருந்த ஒருவர் மாளிகாவத்தையில் வைத்து பயங்கரவாத புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+A team of inquiries was appointed to investigate ISIS members arrested in India.
 
-இவர்தான் சம்பந்தப்பட்டவர்களுக்கு விமான டிக்கெட் வழங்குவது உள்ளிட்ட பல்வேறு உதவிகளை செய்து வந்ததாக விசாரணை அதிகாரிகள் தெரிவித்துள்ளனர்.
+In this context, a separate investigation has already been launched in connection with the four persons who have been involved in the country.
+
+Subsequently, a person who had close contact with them was arrested by the Terrorist Investigation Unit at Maligawatta.
+
+Investigators said that he was doing various assistance, including the provision of air tickets to those involved.
+
+The suspect is currently being detained in the Terrorist Investigation Unit and continues to be investigated.
+
+Meanwhile, police said that the Indigo Airlines -owned flight was departed from Chennai to Chennai on the night of the 19th.
 
 ...
 
 [Data](articles/faf20356.json)
+
+[Extended Data](ext_articles/faf20356.ext.json)
 
 ---
 

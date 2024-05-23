@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 20:03:48**
+As of **2024-05-23 20:18:34**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,953 (100.0%) of 25,955 articles have been extended.
+25,955 (100.0%) of 25,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-23 (Thursday)
 
-### යතුරුපැදියක් දුම්රියේ ගැටී තිදෙනෙක් මරුට
+### Three killed and 30 kills a motorbike train
 
 *2024-05-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196949) · `si`
 
-බූස්ස පින්තාලිය දුම්රිය හරස් මාර්ගයේදී යතුරුපැදියක් දුම්රියේ ගැටීමෙන් තිදෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+In a tragic accident on the Boossa picture railway crossing, three individuals aged 17 to 19 were killed while riding a motorcycle train from Maradana to Matara.
 
-මරදානේ සිට මාතර බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+🟩
 
-පොලීසිය පැවසුවේ අනතුරින් මියගොස් ඇත්තේ වයස අවුරුදු 17ත් 19ත් අතර තරුණයන් තිදෙනෙකු බවය.
+Three persons were killed in a motorcycle train on the Boossa picture railway crossing.
+
+The accident had occurred when the train traveling from Maradana to Matara.
+
+The police have died in danger between the ages of 17 and 19 years old.
 
 ◼️
 
 [Data](articles/0cdfb588.json)
+
+[Extended Data](ext_articles/0cdfb588.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Police said that the deceased youths have been identified to be aged between 17 
 ◼️
 
 [Data](articles/3b466a6b.json)
+
+[Extended Data](ext_articles/3b466a6b.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-23 14:52:44**
+As of **2024-05-23 15:03:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,906 (100.0%) of 25,907 articles have been extended.
+25,907 (100.0%) of 25,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Jorge Alvarez Maynez, the presidential candidate for the centrist Citizens’ Mo
 ...
 
 [Data](articles/01452f1c.json)
+
+[Extended Data](ext_articles/01452f1c.ext.json)
 
 ---
 

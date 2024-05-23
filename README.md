@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 02:03:35**
+As of **2024-05-24 02:18:35**
 
 ## Newspaper Stats
 
-*Scraped **25,983** Articles*
+*Scraped **25,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,983
-tamilmirrorlk | 3,030
+tamilmirrorlk | 3,031
 virakesarilk | 3,960
 dailymirrorlk | 4,092
 adaderanasinhalalk | 4,149
@@ -26,9 +26,27 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,983 (100.0%) of 25,983 articles have been extended.
+25,983 (100.0%) of 25,984 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-24 (Friday)
+
+### மரம் முறிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு
+
+*2024-05-24 02:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரம்-முறிந்து-விழுந்ததில்-ஒருவர்-உயிரிழப்பு/175-337800) · `ta`
+
+சீரற்ற காலநிலை காரணமாக ராகலை மாகுடுகலை பகுதியில் மரம் ஒன்று முறிந்து வீழ்ந்ததில் குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதாக ராகலை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பகுதியில் நேற்று வீசிய கடும் காற்றினால் மரம் ஒன்று சரிந்து விழுந்துள்ளது.
+
+இவ்வாறு உயிரிழந்தவர் மஸ்கெலியாவை பிறப்பிடமாகவும்  கந்தப்பளை ஹைபோரஸ்ட் இலக்கம் ஒன்றில் வசித்து வந்த 38 வயதுடைய ஒரு பிள்ளையின் தந்தையான கந்தசாமி ராஜ்குமார் என தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/d6c9ed36.json)
+
+---
 
 ### 2024-05-23 (Thursday)
 
@@ -2317,27 +2335,5 @@ Meanwhile, Cabinet approval has been approved by the Pottuvil Basic Hospital to 
 [Data](articles/0c21638d.json)
 
 [Extended Data](ext_articles/0c21638d.ext.json)
-
----
-
-### 2024 LPL to go ahead as scheduled; Dambulla franchise to receive new ownership
-
-*2024-05-23 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99394/2024-lpl-to-go-ahead-as-scheduled-dambulla-franchise-to-receive-new-ownership) · `en`
-
-The organizers of the Lanka Premier League (LPL) have confirmed that the fifth edition of the tournament will go ahead as scheduled.
-
-In a statement, Innovative Production Group FZE (IPG), the event rights partner of the LPL clarified that notwithstanding the recent events surrounding the arrest of a co-owner of the Dambulla franchise, the Season 05 of the tournament will proceed as scheduled.
-
-“We are committed to ensuring that the tournament remains a showcase of the best in cricket, embodying the spirit of fair play and sportsmanship”, the statement added.
-
-Additionally, they have expressed that the LPL Season 05 will continue with its full schedule and roster of matches, featuring five teams, while the Dambulla franchise, despite the recent changes, will participate under new ownership.
-
-“We are in the final stages of confirming the new ownership, ensuring a seamless transition and uninterrupted participation of the team in the tournament”, it said.
-
-...
-
-[Data](articles/5db7236d.json)
-
-[Extended Data](ext_articles/5db7236d.ext.json)
 
 ---

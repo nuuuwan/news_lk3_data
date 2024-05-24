@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 16:18:44**
+As of **2024-05-24 16:34:04**
 
 ## Newspaper Stats
 
-*Scraped **26,078** Articles*
+*Scraped **26,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 2,226
 adaderanalk | 2,992
 tamilmirrorlk | 3,040
 virakesarilk | 3,979
-dailymirrorlk | 4,114
-adaderanasinhalalk | 4,165
+dailymirrorlk | 4,115
+adaderanasinhalalk | 4,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,077 (100.0%) of 26,078 articles have been extended.
+26,078 (100.0%) of 26,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### පැපුවා නිව් ගිනියාවේ බිහිසුණු නායයෑමක්
+
+*2024-05-24 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196973) · `si`
+
+පැපුවා නිව් ගිනියාවේ දුෂ්කර ගම්මාන හයකට බලපෑම් එල්ල කරමින් ඇති වූ නායයෑමෙන් ජීවිත රැසක් අහිමි වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඊයේ (23) සිදු වූ මෙම නායයෑමෙන් නිවාස 100කට වැඩි ගණනක් පස්වලින් සම්පූර්ණයෙන්ම යට වී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+මෙහිදී සිදු වී ඇති ජීවිත හානි ගණන හෝ සුන්බුන් අතර කොපමණ පිරිසක් සිරවී ඇති ද යන්න නිශ්චිතවම තවමත් ප්‍රකාශ කළ නොහැකි බව වාර්තා වේ.
+
+මෙම නායයෑම සිදු වූ  Enga නම් ප්‍රදේශයේ ආණ්ඩුකාරවරයා මාධ්‍යයට පවසා ඇත්තේ මෙය මීට පෙර සිදුනොවූ ස්වභාවික ව්‍යවසනයක් බවය.
+
+එමෙන්ම පැපුවා නිව් ගිනියාවේ අග්‍රාමාත්‍ය James Marape පවසා ඇත්තේ, මළ සිරුරු ගොඩගැනීම සඳහා අවශ්‍ය සහන සේවා සැපයීමට සහ යටිතල පහසුකම් සඳහා අදාළ ස්ථානයට ආපදා නිලධාරීන් යොමු කර ඇති බවය.
+
+◼️
+
+[Data](articles/742eb003.json)
+
+---
+
+### Iran releases first report on President Raisi’s death
+
+*2024-05-24 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-releases-first-report-on-President-Raisis-death/108-283303) · `en`
+
+May 24- The General Staff of Iran's Armed Forces made public the first investigative report concerning the recent helicopter crash that led to the death of Iranian President Ebrahim Raisi and others.
+
+Tasnim news agency quoted the report saying the helicopter adhered to its predetermined course without any deviation.
+
+The pilot attempted communication with other helicopters in the convoy approximately 90 seconds before the crash, as per the report.
+
+It also confirmed no evidence of bullets or similar items in the wreckage.
+
+◼️
+
+[Data](articles/8af00c6f.json)
+
+---
 
 ### Hundreds feared dead after landslide hits remote Papua New Guinea village
 
@@ -51,6 +89,8 @@ Social media footage posted by Role showed people clambering over rocks, uproote
 ...
 
 [Data](articles/4906978a.json)
+
+[Extended Data](ext_articles/4906978a.ext.json)
 
 ---
 
@@ -2241,63 +2281,5 @@ Although President Wickremesinghe was scheduled to participate in the State Vesa
 [Data](articles/26dfae55.json)
 
 [Extended Data](ext_articles/26dfae55.ext.json)
-
----
-
-### Vesak Zones, Colombo
-
-*2024-05-23 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196953) · `si`
-
-Today marks Vesak, celebrated with lanterns across Sri Lanka, including special zones like Dearamanandana Sri Karuyani Sadak. Despite rain, Buddhists gathered in temples nationwide. Arrangements for displays in areas like Dematagoda, Thotalaka, Pettah, and Nawaloka highlight the event's significance. The birth of modern technology near the Presidential Secretariat is notable. Island-wide, scenic lantern nests add to the festivities, with 3260 Dansals registered for Vesak celebrations, especially in the Western Province.
-
-🟩
-
-The noble lantern celebrity celebrated today (23).
-
-The Buddhist Buddhist populations of Sri Lanka were present in the temple in the rainy season, despite the rainy sever.
-
-The Vesak Zone of the Dearamanandana Sri Karuyani Sadak will be held in the premiselankian phenomenon.
-
-Meanwhile, 419 Vesak Zones, 321 selected island wide, has been organized throughout the village.
-
-Arrangements were made to demonstrate all the year, Dematagoda, Thotalaka, Pettah and Nawaloka.
-
-It is noteworthy that the birth of the modern technology near the Presidential Secretariat is to be seen.
-
-In addition, many scenic lantern nests are also created island wide.
-
-3260 Dansal has been registered with the Vesak celebrations and more have been registered in the Western Province.
-
-◼️
-
-[Data](articles/5b68ff0e.json)
-
-[Extended Data](ext_articles/5b68ff0e.ext.json)
-
----
-
-### Many houses are nationwide due to the heavy winds that caused the climate to fall in Bogawantalawa
-
-*2024-05-23 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184343) · `ta`
-
-Heavy winds nationwide caused significant damage, affecting six houses in Bogawantalawa, impacting 35 people. The incident led to power outages and required repairs.
-
-🟩
-
-Bogawantalawa Police said that six houses were affected by heavy winds on Wednesday night (22) in the 57 section of the Bogawantalawa Police Division and the Kembian section on Wednesday (22).
-
-The strong winds in these dwellings have been hit by strong winds, which have been affected by 35 people from six families and damaged some of the houses.
-
-The Grama Niladhari and the plantation management in charge of the affected families are in the process of repairing the affected houses.
-
-The power supply to the Bogawantalawa area has been completely blocked due to the strong winds that blew on Wednesday night (22) night.
-
-In this case, the police have demanded that the residents of Kesalgamuwa Yaya be humiliated as the water level of the Kesallari water stagnation has increased.
-
-◼️
-
-[Data](articles/02b3ad85.json)
-
-[Extended Data](ext_articles/02b3ad85.ext.json)
 
 ---
